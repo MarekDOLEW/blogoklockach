@@ -1,0 +1,12 @@
+---
+import Base from './Base.astro';
+const { frontmatter } = Astro.props;
+---
+<Base title={frontmatter.title} description={frontmatter.opis}>
+  <article class="prose" style="margin-top:28px">
+    <p><span class="badge-seria">{frontmatter.kategoria}</span> <span style="font-size:0.85rem;color:var(--granat-60)">{frontmatter.data}</span></p>
+    <h1>{frontmatter.title}</h1>
+    <p class="disclosure">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej, a najtańszą ofertę pokazujemy zawsze.</p>
+    <slot />
+  </article>
+</Base>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /idz/
+Sitemap: https://blogoklockach.pl/sitemap-index.xml

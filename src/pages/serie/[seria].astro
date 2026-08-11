@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import sety from '../../data/sety.json';
+const slug = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
+export function getStaticPaths() {
+  const serie = [...new Set(Object.values(sety).map((s) => s.seria))];
+  return serie.map((seria) => ({ params: { seria: seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-') }, props: { seria } }));
+}
+const { seria } = Astro.props;
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const wSerii = Object.entries(sety).filter(([, s]) => s.seria === seria).map(([nr, s]) => ({ nr, ...s }));
+---
+<Base title={`LEGO ${seria} — zestawy, ceny, promocje`} description={`Zestawy LEGO z serii ${seria}: aktualne ceny, promocje i porównanie sklepów.`}>
+  <h1 style="margin-top:28px">LEGO {seria}</h1>
+  <div class="siatka">
+    {wSerii.map((s) => (
+      <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+        <span class="nr">LEGO {s.nr}</span><h3>{s.nazwa}</h3>
+        <div class="cena-linia"><span class="cena">{fmt(s.cena_katalogowa)}</span><span class="za-klocek">{s.elementy} el.</span></div>
+      </a>
+    ))}
+  </div>
+</Base>

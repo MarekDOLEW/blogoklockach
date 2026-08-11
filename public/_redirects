@@ -1,0 +1,4 @@
+# Redirecty afiliacyjne Cloudflare Pages — /idz/[sklep]/[set] -> link afiliacyjny
+# Po akceptacji w sieciach podmien URL-e docelowe na deeplinki z paneli.
+/idz/amazon/21372  https://amazon.pl/dp/XXXX?tag=TWOJTAG  302
+/idz/lego/21372    https://click.linksynergy.com/deeplink?id=TWOJEID&mid=24340  302

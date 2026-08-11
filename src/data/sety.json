@@ -1,0 +1,102 @@
+{
+  "21372": {
+    "nazwa": "La Catrina",
+    "seria": "Ideas",
+    "cena_katalogowa": 519.99,
+    "elementy": 1212,
+    "wiek": "18+",
+    "premiera": "2026-08",
+    "opis": "Meksykańska La Catrina w klockowej odsłonie — 1212 elementów kunsztownej budowy dla dorosłych. Jeden z trzech sierpniowych debiutów serii Ideas.",
+    "dla_rodzica": "Zestaw dekoracyjny 18+ — raczej na półkę niż do zabawy. Dla nastolatka zainteresowanego kulturą Meksyku może być świetnym wspólnym projektem.",
+    "dla_afol": "0,43 zł/klocek przy premierze to uczciwie jak na Ideas. Motyw Día de los Muertos to potencjał sezonowy co roku na przełomie października i listopada.",
+    "oferty": [
+      { "sklep": "amazon", "cena": 359.9, "data": "2026-08-11", "najnizsza": true },
+      { "sklep": "lego", "cena": 519.99, "data": "2026-08-11" }
+    ]
+  },
+  "21370": {
+    "nazwa": "E.T. the Extra-Terrestrial",
+    "seria": "Ideas",
+    "cena_katalogowa": 559.99,
+    "elementy": 1226,
+    "wiek": "18+",
+    "premiera": "2026-08",
+    "opis": "E.T. z kultowego filmu Spielberga — ruchoma głowa, szyja i palec, który świeci. 1226 elementów czystej nostalgii.",
+    "dla_rodzica": "Prezent dla rodzica, nie dla dziecka — to my płakaliśmy na tym filmie. Budowa na 2–3 wieczory.",
+    "dla_afol": "Licencja filmowa plus seria Ideas to klasyczny kandydat na wzrost wartości po EOL. 0,46 zł/klocek.",
+    "oferty": [{ "sklep": "lego", "cena": 559.99, "data": "2026-08-11" }]
+  },
+  "21369": {
+    "nazwa": "The X-Files",
+    "seria": "Ideas",
+    "cena_katalogowa": 869.99,
+    "elementy": 1478,
+    "wiek": "18+",
+    "premiera": "2026-08",
+    "opis": "Biuro Muldera i Scully z kultowym plakatem I WANT TO BELIEVE. Ekskluzyw LEGO.com — 1478 elementów.",
+    "dla_rodzica": "Zdecydowanie prezent dla dorosłego fana serialu — kompletna piwnica FBI z detalami dla wtajemniczonych.",
+    "dla_afol": "Ekskluzyw, więc kupuj przy promocjach LEGO.com z zestawem gratisowym. 0,59 zł/klocek to słono, ale ekskluzywność broni wartości.",
+    "ekskluzyw": true,
+    "oferty": [{ "sklep": "lego", "cena": 869.99, "data": "2026-08-11" }]
+  },
+  "72160": {
+    "nazwa": "Arcanine",
+    "seria": "Pokémon",
+    "cena_katalogowa": 419.99,
+    "elementy": 1190,
+    "wiek": "10+",
+    "premiera": "2026-08",
+    "opis": "Legendarny ognisty pies w skali kolekcjonerskiej — 1190 elementów. Część historycznego debiutu LEGO Pokémon.",
+    "dla_rodzica": "Dla dziecka 10+, które żyje Pokémonami — duży, efektowny model. Uwaga: to seria kolekcjonerska, nie zabawkowa.",
+    "dla_afol": "Najlepszy stosunek ceny do klocków w całej linii startowej Pokémon: 0,35 zł za element. Pierwsza fala nowej licencji historycznie trzyma wartość.",
+    "oferty": [{ "sklep": "lego", "cena": 419.99, "data": "2026-08-11" }]
+  },
+  "72168": {
+    "nazwa": "Rayquaza",
+    "seria": "Pokémon",
+    "cena_katalogowa": 559.99,
+    "elementy": 1183,
+    "wiek": "10+",
+    "premiera": "2026-08",
+    "opis": "Smok Rayquaza — flagowy model debiutanckiej kolekcji LEGO Pokémon. 1183 elementy zielonej legendy.",
+    "dla_rodzica": "Hit świątecznych list życzeń 2026 — gwarantowane. Kupuj wcześniej, przed pikiem cen w grudniu.",
+    "dla_afol": "Flagowiec pierwszej fali nowej licencji. 0,47 zł za element. Jeśli cokolwiek z tej linii ma być białym krukiem — to on.",
+    "oferty": [{ "sklep": "lego", "cena": 559.99, "data": "2026-08-11" }]
+  },
+  "11381": {
+    "nazwa": "Jaguar Type E",
+    "seria": "Icons",
+    "cena_katalogowa": 599.99,
+    "elementy": 1673,
+    "wiek": "18+",
+    "premiera": "2026-08",
+    "opis": "Najpiękniejszy samochód świata według Enzo Ferrariego — teraz w 1673 elementach. Seria Icons dla dorosłych.",
+    "dla_rodzica": "Prezent dla taty lub dziadka petrolheada — budowa relaksacyjna, efekt na półkę.",
+    "dla_afol": "0,36 zł za element w Icons to solidny wynik. Auta Icons regularnie drożeją po EOL — patrz Aston DB5.",
+    "oferty": [{ "sklep": "lego", "cena": 599.99, "data": "2026-08-11" }]
+  },
+  "77263": {
+    "nazwa": "BMW M3 E30",
+    "seria": "Speed Champions",
+    "cena_katalogowa": 114.99,
+    "elementy": 358,
+    "wiek": "9+",
+    "premiera": "2026-08",
+    "opis": "Kultowa E30-tka w formacie Speed Champions — 358 elementów, cena poniżej 115 zł.",
+    "dla_rodzica": "Idealny prezent na urodziny kolegi czy Mikołajki. 9-latek zbuduje sam w jeden wieczór.",
+    "dla_afol": "0,32 zł za element — najlepszy współczynnik sierpnia. Speed Champions z kultowymi autami znikają szybko.",
+    "oferty": [{ "sklep": "lego", "cena": 114.99, "data": "2026-08-11" }]
+  },
+  "10300": {
+    "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
+    "seria": "Icons",
+    "cena_katalogowa": 899.99,
+    "elementy": 1872,
+    "wiek": "18+",
+    "premiera": "2022-04",
+    "opis": "DeLorean DMC-12 w trzech wersjach z trylogii — jeden z najbardziej lubianych setów Icons.",
+    "dla_rodzica": "Prezent-pewniak dla roczników 75–90. Budowa wspólna z nastolatkiem: znakomita.",
+    "dla_afol": "Set z 2022 roku — każdy kwartał przybliża go do EOL. Poniżej 650 zł warto brać.",
+    "oferty": [{ "sklep": "mediaexpert", "cena": 619.99, "data": "2026-08-11", "najnizsza": true }]
+  }
+}

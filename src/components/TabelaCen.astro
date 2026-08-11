@@ -1,0 +1,30 @@
+---
+import sklepy from '../data/sklepy.json';
+const { nr, oferty, cenaKatalogowa } = Astro.props;
+const posortowane = [...oferty].sort((a, b) => a.cena - b.cena);
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
+const dataSprawdzenia = posortowane[0]?.data;
+---
+<div class="karta" style="padding: 18px; margin: 18px 0;">
+  <table class="tabela-cen">
+    <caption>Porównanie cen — LEGO {nr}</caption>
+    <thead>
+      <tr><th>Sklep</th><th>Cena</th><th>Rabat*</th><th></th></tr>
+    </thead>
+    <tbody>
+      {posortowane.map((o, i) => (
+        <tr class={i === 0 ? 'najtanszy' : ''}>
+          <td>
+            <strong>{sklepy[o.sklep]?.nazwa ?? o.sklep}</strong>
+            {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniższa w historii</span>}
+          </td>
+          <td class="cena">{fmt(o.cena)}</td>
+          <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>
+          <td><a class="cta" href={`/idz/${o.sklep}/${nr}`} rel="sponsored nofollow">Sprawdź w sklepie →</a></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p class="tabela-data">* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). Ceny sprawdzone: {dataSprawdzenia}. Ceny mogą się zmienić.</p>
+</div>

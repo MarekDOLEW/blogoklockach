@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import TabelaCen from '../../components/TabelaCen.astro';
+import sety from '../../data/sety.json';
+
+export function getStaticPaths() {
+  return Object.keys(sety).map((nr) => ({ params: { nr } }));
+}
+
+const { nr } = Astro.params;
+const s = sety[nr];
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const zaKlocek = (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
+const najlepsza = Math.min(...s.oferty.map((o) => o.cena));
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: `LEGO ${nr} ${s.nazwa}`,
+  sku: nr,
+  brand: { '@type': 'Brand', name: 'LEGO' },
+  description: s.opis,
+  offers: {
+    '@type': 'AggregateOffer',
+    priceCurrency: 'PLN',
+    lowPrice: najlepsza,
+    highPrice: Math.max(...s.oferty.map((o) => o.cena)),
+    offerCount: s.oferty.length,
+    availability: 'https://schema.org/InStock',
+  },
+};
+---
+<Base
+  title={`LEGO ${nr} ${s.nazwa} — cena, promocje, gdzie kupić najtaniej`}
+  description={`LEGO ${nr} ${s.nazwa}: ${s.elementy} elementów, cena katalogowa ${fmt(s.cena_katalogowa)}. Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`}
+  jsonld={jsonld}
+>
+  <article>
+    <p style="margin-top:24px"><span class="badge-seria">{s.seria}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}</p>
+    <h1>LEGO {nr} {s.nazwa}</h1>
+    <div class="deal-meta" style="margin-bottom: 8px">
+      <span><strong>{s.elementy}</strong> elementów</span>
+      <span><strong>{zaKlocek} zł</strong> za klocek</span>
+      <span>wiek <strong>{s.wiek}</strong></span>
+      <span>premiera <strong>{s.premiera}</strong></span>
+      <span>cena katalogowa <strong>{fmt(s.cena_katalogowa)}</strong></span>
+    </div>
+    <p class="prose">{s.opis}</p>
+
+    <TabelaCen nr={nr} oferty={s.oferty} cenaKatalogowa={s.cena_katalogowa} />
+    <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
+
+    <div class="persony">
+      <div class="karta persona">
+        <h3>👨‍👩‍👧 Dla rodzica</h3>
+        <p>{s.dla_rodzica}</p>
+      </div>
+      <div class="karta persona afol">
+        <h3>🧱 Dla kolekcjonera</h3>
+        <p>{s.dla_afol}</p>
+      </div>
+    </div>
+  </article>
+</Base>

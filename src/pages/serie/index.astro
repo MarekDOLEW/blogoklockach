@@ -1,0 +1,14 @@
+---
+import Base from '../../layouts/Base.astro';
+import sety from '../../data/sety.json';
+const serie = [...new Set(Object.values(sety).map((s) => s.seria))].sort();
+const slug = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
+---
+<Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
+  <h1 style="margin-top:28px">Serie LEGO</h1>
+  <div class="siatka">
+    {serie.map((seria) => (
+      <a class="karta set-karta" href={`/serie/${slug(seria)}/`}><h3>{seria}</h3><span class="za-klocek">zobacz zestawy →</span></a>
+    ))}
+  </div>
+</Base>

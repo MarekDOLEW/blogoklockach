@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+const posts = Object.entries(import.meta.glob('./*.md', { eager: true }))
+  .map(([, m]) => m)
+  .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data));
+---
+<Base title="Artykuły — poradniki, deale, analizy" description="Poradniki zakupowe, analizy dealów i teksty o kolekcjonowaniu klocków LEGO.">
+  <h1 style="margin-top:28px">Artykuły</h1>
+  <div class="siatka" style="grid-template-columns: 1fr;">
+    {posts.map((p) => (
+      <a class="karta set-karta" href={p.url + '/'}>
+        <span class="nr">{p.frontmatter.data} · {p.frontmatter.kategoria}</span>
+        <h3>{p.frontmatter.title}</h3>
+        <p style="margin:0;color:var(--granat-60)">{p.frontmatter.opis}</p>
+      </a>
+    ))}
+  </div>
+</Base>

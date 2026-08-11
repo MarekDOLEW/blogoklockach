@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import sety from '../data/sety.json';
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const nowe = Object.entries(sety).filter(([, s]) => s.premiera === '2026-08').map(([nr, s]) => ({ nr, ...s }));
+---
+<Base title="Nowości LEGO — premiery i zapowiedzi" description="Nowe zestawy LEGO z ostatnich tygodni i nadchodzące premiery. Ceny, liczba elementów i nasza ocena, czy warto.">
+  <h1 style="margin-top:28px">Nowości LEGO</h1>
+  <p>Premiery z ostatnich tygodni. Aktualizujemy codziennie rano.</p>
+  <div class="siatka">
+    {nowe.map((s) => (
+      <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+        <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+        <h3>{s.nazwa}</h3>
+        <span class="badge-seria">{s.seria}</span>
+        <div class="cena-linia"><span class="cena">{fmt(s.cena_katalogowa)}</span><span class="za-klocek">{s.elementy} el.</span></div>
+      </a>
+    ))}
+  </div>
+</Base>
