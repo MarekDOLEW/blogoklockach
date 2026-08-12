@@ -51,6 +51,7 @@ const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
     <div class="siatka">
       {reszta.map((s) => (
         <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+          {s.zdjecia?.glowne && <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
           <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
           <h3>{s.nazwa}</h3>
           <span class="badge-seria">{s.seria}</span>
