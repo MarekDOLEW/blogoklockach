@@ -7,9 +7,23 @@ export default {
     // Przekierowania afiliacyjne: /idz/[sklep]/[numer]
     if (url.pathname.startsWith('/idz/')) {
       const czesci = url.pathname.split('/').filter(Boolean); // ["idz", sklep, numer]
-      const sklep = czesci[1];
-      const numer = czesci[2];
+      const sklep = czesci[1] ?? '';
+      const numer = czesci[2] ?? '';
       const cel = redirects?.[sklep]?.[numer];
+
+      // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).
+      // Zapis: sklep, numer, czy link istniał, referer (skąd klik), kraj.
+      // Odczyt: SQL API, np.
+      //   SELECT blob1 AS sklep, blob2 AS numer, SUM(_sample_interval) AS kliki
+      //   FROM idz_kliki WHERE timestamp > NOW() - INTERVAL '7' DAY
+      //   GROUP BY sklep, numer ORDER BY kliki DESC
+      try {
+        env.KLIKI?.writeDataPoint({
+          blobs: [sklep, numer, cel ? 'ok' : 'brak-linku', request.headers.get('referer') ?? '', request.cf?.country ?? ''],
+          doubles: [1],
+          indexes: [sklep],
+        });
+      } catch {}
 
       if (cel) {
         return Response.redirect(cel, 302);
