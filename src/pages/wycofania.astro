@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import dane from '../data/wycofania.json';
+import redirects from '../data/redirects.json';
 
 const fmtEl = (n) => n.toLocaleString('pl-PL');
 const kolejnosc = dane._meta.serie_kolejnosc;
@@ -140,7 +141,9 @@ const stronaSchema = {
                   {w.kiedy === 'wycofany' ? 'wycofany' : `znika: ${w.kiedy}`}
                 </span>
                 <span class="eol-status">{w.status === 'potwierdzone' ? '✓ potwierdzone przez LEGO' : 'przewidywane'}</span>
-                <a class="cta" href={`/idz/planetaklockow/${w.numer}`} rel="sponsored nofollow">Sprawdź cenę →</a>
+                {redirects.planetaklockow?.[w.numer] && (
+                  <a class="cta" href={`/idz/planetaklockow/${w.numer}`} rel="sponsored nofollow">Sprawdź cenę →</a>
+                )}
               </div>
             </div>
           ))}
