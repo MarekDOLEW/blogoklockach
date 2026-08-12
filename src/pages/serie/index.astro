@@ -1,7 +1,10 @@
 ---
 import Base from '../../layouts/Base.astro';
 import sety from '../../data/sety.json';
-const serie = [...new Set(Object.values(sety).map((s) => s.seria))].sort();
+import katalog from '../../data/katalog.json';
+const zSetow = Object.values(sety).map((s) => s.seria);
+const zKatalogu = Object.keys(katalog).filter((k) => k !== '_meta');
+const serie = [...new Set([...zSetow, ...zKatalogu])].sort((a, b) => a.localeCompare(b, 'pl'));
 const slug = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
 ---
 <Base title="Klocki LEGO według serii" description="Przeglądaj zestawy LEGO według serii: Technic, Icons, Star Wars, Pokémon i inne. Ceny i promocje w jednym miejscu.">
