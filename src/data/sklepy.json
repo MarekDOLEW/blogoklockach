@@ -1,9 +1,41 @@
 {
-  "lego": {"nazwa": "LEGO.com"},
-  "amazon": {"nazwa": "Amazon.pl"},
-  "mediaexpert": {"nazwa": "Media Expert"},
-  "empik": {"nazwa": "Empik"},
-  "alto": {"nazwa": "al.to"},
-  "allegro": {"nazwa": "Allegro"},
-  "smyk": {"nazwa": "Smyk"}
+  "lego": {
+    "nazwa": "LEGO.com"
+  },
+  "amazon": {
+    "nazwa": "Amazon.pl"
+  },
+  "mediaexpert": {
+    "nazwa": "Media Expert"
+  },
+  "empik": {
+    "nazwa": "Empik"
+  },
+  "alto": {
+    "nazwa": "al.to"
+  },
+  "allegro": {
+    "nazwa": "Allegro"
+  },
+  "smyk": {
+    "nazwa": "Smyk"
+  },
+  "proshop": {
+    "nazwa": "Proshop"
+  },
+  "klocekplus": {
+    "nazwa": "Klocek Plus"
+  },
+  "rozetka": {
+    "nazwa": "Rozetka"
+  },
+  "sferis": {
+    "nazwa": "Sferis.pl"
+  },
+  "brixani": {
+    "nazwa": "brixani.com"
+  },
+  "bricksberg": {
+    "nazwa": "BricksBerg"
+  }
 }
