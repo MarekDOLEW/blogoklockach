@@ -12,6 +12,7 @@ const s = sety[nr];
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const zaKlocek = (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepsza = Math.min(...s.oferty.map((o) => o.cena));
+const zdj = s.zdjecia ?? null;
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -20,6 +21,7 @@ const jsonld = {
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
   description: s.opis,
+  ...(zdj?.glowne ? { image: new URL(zdj.glowne, Astro.site).href } : {}),
   offers: {
     '@type': 'AggregateOffer',
     priceCurrency: 'PLN',
@@ -36,16 +38,45 @@ const jsonld = {
   jsonld={jsonld}
 >
   <article>
-    <p style="margin-top:24px"><span class="badge-seria">{s.seria}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}</p>
-    <h1>LEGO {nr} {s.nazwa}</h1>
-    <div class="deal-meta" style="margin-bottom: 8px">
-      <span><strong>{s.elementy}</strong> elementów</span>
-      <span><strong>{zaKlocek} zł</strong> za klocek</span>
-      <span>wiek <strong>{s.wiek}</strong></span>
-      <span>premiera <strong>{s.premiera}</strong></span>
-      <span>cena katalogowa <strong>{fmt(s.cena_katalogowa)}</strong></span>
+    <div class="set-hero">
+      <div>
+        {zdj?.glowne ? (
+          <img class="foto-glowna" src={zdj.glowne} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
+        ) : (
+          <div class="foto-placeholder">
+            <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+            <span>LEGO {nr}</span>
+            <span>zdjęcie wkrótce</span>
+          </div>
+        )}
+        {zdj?.zrodlo && <p class="zrodlo-foto">Fot.: {zdj.zrodlo}</p>}
+      </div>
+      <div>
+        <p style="margin-top:0"><span class="badge-seria">{s.seria}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}</p>
+        <h1>LEGO {nr} {s.nazwa}</h1>
+        <div class="deal-meta" style="margin-bottom: 8px">
+          <span><strong>{s.elementy}</strong> elementów</span>
+          <span><strong>{zaKlocek} zł</strong> za klocek</span>
+          <span>wiek <strong>{s.wiek}</strong></span>
+          <span>premiera <strong>{s.premiera}</strong></span>
+          <span>cena katalogowa <strong>{fmt(s.cena_katalogowa)}</strong></span>
+        </div>
+        <p class="prose">{s.opis}</p>
+      </div>
     </div>
-    <p class="prose">{s.opis}</p>
+
+    {zdj?.galeria?.length > 0 && (
+      <section class="sekcja" style="margin-top:20px">
+        <h2>Galeria</h2>
+        <div class="galeria">
+          {zdj.galeria.map((g, i) => (
+            <a href={g} target="_blank" rel="noopener">
+              <img src={g} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
 
     <TabelaCen nr={nr} oferty={s.oferty} cenaKatalogowa={s.cena_katalogowa} />
     <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
