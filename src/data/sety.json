@@ -8,10 +8,18 @@
     "premiera": "2026-08",
     "opis": "Meksykańska La Catrina w klockowej odsłonie — 1212 elementów kunsztownej budowy dla dorosłych. Jeden z trzech sierpniowych debiutów serii Ideas.",
     "dla_rodzica": "Zestaw dekoracyjny 18+ — raczej na półkę niż do zabawy. Dla nastolatka zainteresowanego kulturą Meksyku może być świetnym wspólnym projektem.",
-    "dla_afol": "0,43 zł/klocek przy premierze to uczciwie jak na Ideas. Motyw Día de los Muertos to potencjał sezonowy co roku na przełomie października i listopada.",
+    "dla_afol": "0,32 zł/klocek przy obecnej cenie — bardzo dobrze jak na Ideas. Uwaga: 11.08 Amazon schodził do 359,90 zł, więc cena potrafi jeszcze drgnąć w dół. W LEGO.com limit 3 szt./os.",
     "oferty": [
-      { "sklep": "amazon", "cena": 359.9, "data": "2026-08-11", "najnizsza": true },
-      { "sklep": "lego", "cena": 519.99, "data": "2026-08-11" }
+      {
+        "sklep": "allegro",
+        "cena": 387.8,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "lego",
+        "cena": 519.99,
+        "data": "2026-08-12"
+      }
     ]
   },
   "21370": {
@@ -24,7 +32,13 @@
     "opis": "E.T. z kultowego filmu Spielberga — ruchoma głowa, szyja i palec, który świeci. 1226 elementów czystej nostalgii.",
     "dla_rodzica": "Prezent dla rodzica, nie dla dziecka — to my płakaliśmy na tym filmie. Budowa na 2–3 wieczory.",
     "dla_afol": "Licencja filmowa plus seria Ideas to klasyczny kandydat na wzrost wartości po EOL. 0,46 zł/klocek.",
-    "oferty": [{ "sklep": "lego", "cena": 559.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 559.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "21369": {
     "nazwa": "The X-Files",
@@ -37,7 +51,13 @@
     "dla_rodzica": "Zdecydowanie prezent dla dorosłego fana serialu — kompletna piwnica FBI z detalami dla wtajemniczonych.",
     "dla_afol": "Ekskluzyw, więc kupuj przy promocjach LEGO.com z zestawem gratisowym. 0,59 zł/klocek to słono, ale ekskluzywność broni wartości.",
     "ekskluzyw": true,
-    "oferty": [{ "sklep": "lego", "cena": 869.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 869.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "72160": {
     "nazwa": "Arcanine",
@@ -49,7 +69,13 @@
     "opis": "Legendarny ognisty pies w skali kolekcjonerskiej — 1190 elementów. Część historycznego debiutu LEGO Pokémon.",
     "dla_rodzica": "Dla dziecka 10+, które żyje Pokémonami — duży, efektowny model. Uwaga: to seria kolekcjonerska, nie zabawkowa.",
     "dla_afol": "Najlepszy stosunek ceny do klocków w całej linii startowej Pokémon: 0,35 zł za element. Pierwsza fala nowej licencji historycznie trzyma wartość.",
-    "oferty": [{ "sklep": "lego", "cena": 419.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 419.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "72168": {
     "nazwa": "Rayquaza",
@@ -61,7 +87,13 @@
     "opis": "Smok Rayquaza — flagowy model debiutanckiej kolekcji LEGO Pokémon. 1183 elementy zielonej legendy.",
     "dla_rodzica": "Hit świątecznych list życzeń 2026 — gwarantowane. Kupuj wcześniej, przed pikiem cen w grudniu.",
     "dla_afol": "Flagowiec pierwszej fali nowej licencji. 0,47 zł za element. Jeśli cokolwiek z tej linii ma być białym krukiem — to on.",
-    "oferty": [{ "sklep": "lego", "cena": 559.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 559.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "11381": {
     "nazwa": "Jaguar Type E",
@@ -73,7 +105,13 @@
     "opis": "Najpiękniejszy samochód świata według Enzo Ferrariego — teraz w 1673 elementach. Seria Icons dla dorosłych.",
     "dla_rodzica": "Prezent dla taty lub dziadka petrolheada — budowa relaksacyjna, efekt na półkę.",
     "dla_afol": "0,36 zł za element w Icons to solidny wynik. Auta Icons regularnie drożeją po EOL — patrz Aston DB5.",
-    "oferty": [{ "sklep": "lego", "cena": 599.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 599.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "77263": {
     "nazwa": "BMW M3 E30",
@@ -85,18 +123,129 @@
     "opis": "Kultowa E30-tka w formacie Speed Champions — 358 elementów, cena poniżej 115 zł.",
     "dla_rodzica": "Idealny prezent na urodziny kolegi czy Mikołajki. 9-latek zbuduje sam w jeden wieczór.",
     "dla_afol": "0,32 zł za element — najlepszy współczynnik sierpnia. Speed Champions z kultowymi autami znikają szybko.",
-    "oferty": [{ "sklep": "lego", "cena": 114.99, "data": "2026-08-11" }]
+    "oferty": [
+      {
+        "sklep": "lego",
+        "cena": 114.99,
+        "data": "2026-08-11"
+      }
+    ]
   },
   "10300": {
     "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
     "seria": "Icons",
-    "cena_katalogowa": 899.99,
+    "cena_katalogowa": 869.99,
     "elementy": 1872,
     "wiek": "18+",
     "premiera": "2022-04",
     "opis": "DeLorean DMC-12 w trzech wersjach z trylogii — jeden z najbardziej lubianych setów Icons.",
     "dla_rodzica": "Prezent-pewniak dla roczników 75–90. Budowa wspólna z nastolatkiem: znakomita.",
-    "dla_afol": "Set z 2022 roku — każdy kwartał przybliża go do EOL. Poniżej 650 zł warto brać.",
-    "oferty": [{ "sklep": "mediaexpert", "cena": 619.99, "data": "2026-08-11", "najnizsza": true }]
+    "dla_afol": "Blisko tegorocznego dołka (619,99 zł z 3.08). Set z 2022 — każdy kwartał przybliża go do EOL. Przy 659 zł z darmową dostawą: brać.",
+    "oferty": [
+      {
+        "sklep": "allegro",
+        "cena": 659.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "proshop",
+        "cena": 719.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "klocekplus",
+        "cena": 750.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "mediaexpert",
+        "cena": 849.99,
+        "data": "2026-08-12"
+      }
+    ]
+  },
+  "10316": {
+    "nazwa": "Władca Pierścieni: Rivendell",
+    "seria": "Icons",
+    "cena_katalogowa": 2149.99,
+    "elementy": 6167,
+    "wiek": "18+",
+    "premiera": "2023-03",
+    "opis": "Dolina Elronda w 6167 elementach — jeden z najpiękniejszych i największych setów Icons w historii. Kompletne Rivendell z 15 minifigurkami Drużyny Pierścienia.",
+    "dla_rodzica": "To projekt na wiele tygodni wspólnego budowania z nastolatkiem-fanem Tolkiena — i mebel, nie zabawka. Wymaga sporo miejsca na ekspozycję.",
+    "dla_afol": "0,30 zł/klocek przy obecnej cenie wygląda nieźle, ale uczciwie: w grudniu 2025 bywał za 1390 zł. Obecne −14% to nie okazja — cierpliwość popłaca.",
+    "oferty": [
+      {
+        "sklep": "allegro",
+        "cena": 1849.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "brixani",
+        "cena": 1849.99,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "rozetka",
+        "cena": 1899.0,
+        "data": "2026-08-12"
+      }
+    ]
+  },
+  "10318": {
+    "nazwa": "Concorde",
+    "seria": "Icons",
+    "cena_katalogowa": 869.99,
+    "elementy": 2083,
+    "wiek": "18+",
+    "premiera": "2023-09",
+    "opis": "Legendarny naddźwiękowiec w skali ponad metra długości — z opuszczanym nosem i chowanym podwoziem. 2083 elementy inżynieryjnej elegancji.",
+    "dla_rodzica": "Prezent dla fana lotnictwa 16+ — model ekspozycyjny, wymaga metra wolnej półki. Budowa satysfakcjonująca, ale monotonna dla młodszych.",
+    "dla_afol": "Obecne −16% to nie okazja życia — Concorde bywał po 599 zł (I 2025). Poniżej 650 zł: tak. Teraz: obserwujemy.",
+    "oferty": [
+      {
+        "sklep": "rozetka",
+        "cena": 729.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "sferis",
+        "cena": 739.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "allegro",
+        "cena": 759.0,
+        "data": "2026-08-12"
+      }
+    ]
+  },
+  "21348": {
+    "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
+    "seria": "Ideas",
+    "cena_katalogowa": 1549.99,
+    "elementy": 3745,
+    "wiek": "18+",
+    "premiera": "2024-04",
+    "opis": "Rozkładana karczma, wieża czarodzieja i wielki czerwony smok — hołd dla 50-lecia D&D w 3745 elementach, z mnóstwem grywalnych sekretów.",
+    "dla_rodzica": "Dla dorosłego lub nastolatka grającego w RPG — to w praktyce plansza do sesji D&D. Jeden z najbardziej „grywalnych” setów 18+.",
+    "dla_afol": "−13% przy historycznym dołku 1078 zł (IX 2024) to pseudopromocja. Licencjonowany Ideas o tym potencjale kupujemy poniżej 1200 zł.",
+    "oferty": [
+      {
+        "sklep": "rozetka",
+        "cena": 1349.0,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "bricksberg",
+        "cena": 1419.9,
+        "data": "2026-08-12"
+      },
+      {
+        "sklep": "brixani",
+        "cena": 1449.99,
+        "data": "2026-08-12"
+      }
+    ]
   }
 }
