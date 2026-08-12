@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import TabelaCen from '../components/TabelaCen.astro';
+import sety from '../data/sety.json';
+
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
+const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
+const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
+
+const wpisy = Object.entries(sety).map(([nr, s]) => ({ nr, ...s }));
+const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
+const dealDnia = zRabatem[0];
+const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
+---
+<Base
+  title="Promocje na klocki LEGO dziś — prawdziwe rabaty, bez ściemy"
+  description="Codziennie sprawdzamy ceny zestawów LEGO w największych sklepach. Rabaty liczymy od cen katalogowych, wyłapujemy najniższe ceny w historii."
+>
+  {dealDnia && (
+    <section class="deal-dnia karta" aria-label="Deal dnia">
+      <span class="eyebrow">
+        <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        Deal dnia · {new Date().toLocaleDateString('pl-PL')}
+      </span>
+      <h1>LEGO {dealDnia.nr} {dealDnia.nazwa}</h1>
+      <div class="cena-duza">
+        {fmt(najlepszaCena(dealDnia))}
+        <small>{fmt(dealDnia.cena_katalogowa)}</small>
+      </div>
+      <div>
+        <span class="badge-rabat">−{rabat(dealDnia)}% od ceny katalogowej</span>
+      </div>
+      <div class="deal-meta">
+        <span><strong>{dealDnia.elementy}</strong> elementów</span>
+        <span><strong>{zaKlocek(dealDnia)} zł</strong> za klocek</span>
+        <span>seria <strong>{dealDnia.seria}</strong></span>
+        <span>wiek <strong>{dealDnia.wiek}</strong></span>
+      </div>
+      <TabelaCen nr={dealDnia.nr} oferty={dealDnia.oferty} cenaKatalogowa={dealDnia.cena_katalogowa} />
+      <p><a href={`/zestaw/${dealDnia.nr}/`}>Pełna karta zestawu i historia cen →</a></p>
+    </section>
+  )}
+
+  <section class="sekcja">
+    <div class="sekcja-head">
+      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <h2>Warte obserwacji</h2>
+    </div>
+    <p>Sety, którym przyglądamy się w tym tygodniu — premiery i kandydaci na okazje.</p>
+    <div class="siatka">
+      {reszta.map((s) => (
+        <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+          {s.zdjecia?.glowne && <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
+          <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+          <h3>{s.nazwa}</h3>
+          <span class="badge-seria">{s.seria}</span>
+          <div class="cena-linia">
+            <span class="cena">{fmt(najlepszaCena(s))}</span>
+            <span class="za-klocek">{zaKlocek(s)} zł/klocek</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="sekcja persony">
+    <div class="karta persona">
+      <h3>👨‍👩‍👧 Kupujesz dla dziecka?</h3>
+      <p>Przy każdym zestawie piszemy, dla jakiego wieku jest <em>naprawdę</em> — nie tylko to, co na pudełku. Bez przepłacania, bez niewypałów.</p>
+    </div>
+    <div class="karta persona afol">
+      <h3>🧱 Budujesz kolekcję?</h3>
+      <p>Cena za klocek, alerty wycofań (EOL) i historia najniższych cen. Mamy w domu ponad 1000 zestawów — wiemy, co i kiedy warto brać.</p>
+    </div>
+  </section>
+</Base>

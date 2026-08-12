@@ -1,0 +1,446 @@
+{
+  "_meta": {
+    "aktualizacja": "2026-08-12",
+    "zrodla": [
+      "brickset.com (theme Ideas)",
+      "lego.com"
+    ],
+    "uwagi": "Rocznik 2025 serii Ideas do uzupelnienia przez scouta (weryfikacja numerow u zrodla). Statusy setow 2024 do potwierdzenia w kolejnym przebiegu."
+  },
+  "Ideas": [
+    {
+      "numer": "21100",
+      "nazwa": "Shinkai 6500",
+      "rok": 2011,
+      "elementy": 412,
+      "status": "eol"
+    },
+    {
+      "numer": "21101",
+      "nazwa": "Hayabusa",
+      "rok": 2012,
+      "elementy": 369,
+      "status": "eol"
+    },
+    {
+      "numer": "21102",
+      "nazwa": "Minecraft Micro World",
+      "rok": 2012,
+      "elementy": 480,
+      "status": "eol"
+    },
+    {
+      "numer": "21103",
+      "nazwa": "DeLorean — wehikuł czasu (BTTF)",
+      "rok": 2013,
+      "elementy": 401,
+      "status": "eol"
+    },
+    {
+      "numer": "21104",
+      "nazwa": "Łazik Curiosity (NASA)",
+      "rok": 2014,
+      "elementy": 295,
+      "status": "eol"
+    },
+    {
+      "numer": "21108",
+      "nazwa": "Ghostbusters Ecto-1",
+      "rok": 2014,
+      "elementy": 508,
+      "status": "eol"
+    },
+    {
+      "numer": "21109",
+      "nazwa": "Exo Suit",
+      "rok": 2014,
+      "elementy": 321,
+      "status": "eol"
+    },
+    {
+      "numer": "21110",
+      "nazwa": "Research Institute",
+      "rok": 2014,
+      "elementy": 165,
+      "status": "eol"
+    },
+    {
+      "numer": "21301",
+      "nazwa": "Ptaki",
+      "rok": 2015,
+      "elementy": 580,
+      "status": "eol"
+    },
+    {
+      "numer": "21302",
+      "nazwa": "Teoria wielkiego podrywu",
+      "rok": 2015,
+      "elementy": 484,
+      "status": "eol"
+    },
+    {
+      "numer": "21303",
+      "nazwa": "WALL-E",
+      "rok": 2015,
+      "elementy": 677,
+      "status": "eol"
+    },
+    {
+      "numer": "21304",
+      "nazwa": "Doctor Who",
+      "rok": 2015,
+      "elementy": 623,
+      "status": "eol"
+    },
+    {
+      "numer": "21305",
+      "nazwa": "Labirynt",
+      "rok": 2016,
+      "elementy": 769,
+      "status": "eol"
+    },
+    {
+      "numer": "21306",
+      "nazwa": "Yellow Submarine (The Beatles)",
+      "rok": 2016,
+      "elementy": 553,
+      "status": "eol"
+    },
+    {
+      "numer": "21307",
+      "nazwa": "Caterham Seven 620R",
+      "rok": 2016,
+      "elementy": 771,
+      "status": "eol"
+    },
+    {
+      "numer": "21308",
+      "nazwa": "Pora na przygodę",
+      "rok": 2017,
+      "elementy": 495,
+      "status": "eol"
+    },
+    {
+      "numer": "21309",
+      "nazwa": "NASA Apollo Saturn V",
+      "rok": 2017,
+      "elementy": 1969,
+      "status": "eol"
+    },
+    {
+      "numer": "21310",
+      "nazwa": "Stary sklep wędkarski",
+      "rok": 2017,
+      "elementy": 2049,
+      "status": "eol"
+    },
+    {
+      "numer": "21311",
+      "nazwa": "Voltron",
+      "rok": 2018,
+      "elementy": 2321,
+      "status": "eol"
+    },
+    {
+      "numer": "21312",
+      "nazwa": "Kobiety NASA",
+      "rok": 2017,
+      "elementy": 231,
+      "status": "eol"
+    },
+    {
+      "numer": "21313",
+      "nazwa": "Statek w butelce",
+      "rok": 2018,
+      "elementy": 962,
+      "status": "eol"
+    },
+    {
+      "numer": "21314",
+      "nazwa": "TRON: Legacy",
+      "rok": 2018,
+      "elementy": 230,
+      "status": "eol"
+    },
+    {
+      "numer": "21315",
+      "nazwa": "Rozkładana książka",
+      "rok": 2018,
+      "elementy": 859,
+      "status": "eol"
+    },
+    {
+      "numer": "21316",
+      "nazwa": "Flintstonowie",
+      "rok": 2019,
+      "elementy": 748,
+      "status": "eol"
+    },
+    {
+      "numer": "21317",
+      "nazwa": "Parowiec Willie (Disney)",
+      "rok": 2019,
+      "elementy": 751,
+      "status": "eol"
+    },
+    {
+      "numer": "21318",
+      "nazwa": "Domek na drzewie",
+      "rok": 2019,
+      "elementy": 3036,
+      "status": "eol"
+    },
+    {
+      "numer": "21319",
+      "nazwa": "Central Perk (Przyjaciele)",
+      "rok": 2019,
+      "elementy": 1070,
+      "status": "eol"
+    },
+    {
+      "numer": "21320",
+      "nazwa": "Szkielety dinozaurów",
+      "rok": 2019,
+      "elementy": 910,
+      "status": "eol"
+    },
+    {
+      "numer": "21321",
+      "nazwa": "Międzynarodowa Stacja Kosmiczna",
+      "rok": 2020,
+      "elementy": 864,
+      "status": "eol"
+    },
+    {
+      "numer": "21322",
+      "nazwa": "Piraci z Zatoki Barakud",
+      "rok": 2020,
+      "elementy": 2545,
+      "status": "eol"
+    },
+    {
+      "numer": "21323",
+      "nazwa": "Fortepian",
+      "rok": 2020,
+      "elementy": 3662,
+      "status": "eol"
+    },
+    {
+      "numer": "21324",
+      "nazwa": "Ulica Sezamkowa 123",
+      "rok": 2020,
+      "elementy": 1367,
+      "status": "eol"
+    },
+    {
+      "numer": "92176",
+      "nazwa": "NASA Apollo Saturn V (reedycja)",
+      "rok": 2020,
+      "elementy": 1969,
+      "status": "eol"
+    },
+    {
+      "numer": "21325",
+      "nazwa": "Średniowieczna kuźnia",
+      "rok": 2021,
+      "elementy": 2164,
+      "status": "eol"
+    },
+    {
+      "numer": "21326",
+      "nazwa": "Kubuś Puchatek",
+      "rok": 2021,
+      "elementy": 1265,
+      "status": "eol"
+    },
+    {
+      "numer": "21327",
+      "nazwa": "Maszyna do pisania",
+      "rok": 2021,
+      "elementy": 2079,
+      "status": "eol"
+    },
+    {
+      "numer": "21328",
+      "nazwa": "Seinfeld",
+      "rok": 2021,
+      "elementy": 1326,
+      "status": "eol"
+    },
+    {
+      "numer": "21329",
+      "nazwa": "Fender Stratocaster",
+      "rok": 2021,
+      "elementy": 1074,
+      "status": "eol"
+    },
+    {
+      "numer": "21330",
+      "nazwa": "Kevin sam w domu",
+      "rok": 2021,
+      "elementy": 3955,
+      "status": "eol"
+    },
+    {
+      "numer": "21331",
+      "nazwa": "Sonic — strefa Green Hill",
+      "rok": 2022,
+      "elementy": 1125,
+      "status": "eol"
+    },
+    {
+      "numer": "21332",
+      "nazwa": "Kula ziemska",
+      "rok": 2022,
+      "elementy": 2585,
+      "status": "eol"
+    },
+    {
+      "numer": "21333",
+      "nazwa": "Gwiaździsta noc (van Gogh)",
+      "rok": 2022,
+      "elementy": 2316,
+      "status": "eol"
+    },
+    {
+      "numer": "21334",
+      "nazwa": "Kwartet jazzowy",
+      "rok": 2022,
+      "elementy": 1606,
+      "status": "eol"
+    },
+    {
+      "numer": "21335",
+      "nazwa": "Zmotoryzowana latarnia morska",
+      "rok": 2022,
+      "elementy": 2065,
+      "status": "eol"
+    },
+    {
+      "numer": "21336",
+      "nazwa": "The Office",
+      "rok": 2022,
+      "elementy": 1164,
+      "status": "eol"
+    },
+    {
+      "numer": "21337",
+      "nazwa": "Piłkarzyki",
+      "rok": 2022,
+      "elementy": 2339,
+      "status": "eol"
+    },
+    {
+      "numer": "21338",
+      "nazwa": "Domek A-frame",
+      "rok": 2023,
+      "elementy": 2082,
+      "status": "eol"
+    },
+    {
+      "numer": "21339",
+      "nazwa": "BTS Dynamite",
+      "rok": 2023,
+      "elementy": 749,
+      "status": "eol"
+    },
+    {
+      "numer": "21340",
+      "nazwa": "Opowieści z ery kosmicznej",
+      "rok": 2023,
+      "elementy": 688,
+      "status": "eol"
+    },
+    {
+      "numer": "21341",
+      "nazwa": "Hokus Pokus: chata sióstr Sanderson",
+      "rok": 2023,
+      "elementy": 2316,
+      "status": "eol"
+    },
+    {
+      "numer": "21342",
+      "nazwa": "Kolekcja owadów",
+      "rok": 2023,
+      "elementy": 1111,
+      "status": "eol"
+    },
+    {
+      "numer": "21343",
+      "nazwa": "Wioska Wikingów",
+      "rok": 2023,
+      "elementy": 2103,
+      "status": "eol"
+    },
+    {
+      "numer": "21344",
+      "nazwa": "Orient Express",
+      "rok": 2023,
+      "elementy": 2540,
+      "status": "eol"
+    },
+    {
+      "numer": "21345",
+      "nazwa": "Aparat Polaroid OneStep SX-70",
+      "rok": 2024,
+      "elementy": 516,
+      "status": "eol"
+    },
+    {
+      "numer": "21347",
+      "nazwa": "Czerwona londyńska budka telefoniczna",
+      "rok": 2024,
+      "elementy": 1460,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21348",
+      "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
+      "rok": 2024,
+      "elementy": 3745,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21349",
+      "nazwa": "Kot w smokingu",
+      "rok": 2024,
+      "elementy": 1710,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21350",
+      "nazwa": "Szczęki",
+      "rok": 2024,
+      "elementy": 1497,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21351",
+      "nazwa": "Miasteczko Halloween (Nightmare Before Christmas)",
+      "rok": 2024,
+      "elementy": 2193,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21369",
+      "nazwa": "The X-Files",
+      "rok": 2026,
+      "elementy": 1478,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21370",
+      "nazwa": "E.T. the Extra-Terrestrial",
+      "rok": 2026,
+      "elementy": 1226,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21372",
+      "nazwa": "La Catrina",
+      "rok": 2026,
+      "elementy": 1212,
+      "status": "dostepny"
+    }
+  ]
+}

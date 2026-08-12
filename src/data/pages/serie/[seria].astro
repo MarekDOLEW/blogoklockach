@@ -1,0 +1,76 @@
+---
+import Base from '../../layouts/Base.astro';
+import sety from '../../data/sety.json';
+import katalog from '../../data/katalog.json';
+
+const slugify = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
+
+export function getStaticPaths() {
+  const zSetow = [...new Set(Object.values(sety).map((s) => s.seria))];
+  const zKatalogu = Object.keys(katalog).filter((k) => k !== '_meta');
+  const serie = [...new Set([...zSetow, ...zKatalogu])];
+  return serie.map((seria) => ({
+    params: { seria: seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-') },
+    props: { seria },
+  }));
+}
+
+const { seria } = Astro.props;
+const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
+const wSerii = Object.entries(sety).filter(([, s]) => s.seria === seria).map(([nr, s]) => ({ nr, ...s }));
+const hist = (katalog[seria] ?? []).slice().sort((a, b) => b.rok - a.rok);
+const numeryHubow = new Set(Object.keys(sety));
+const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
+---
+<Base
+  title={`LEGO ${seria} — zestawy, ceny, promocje${hist.length ? ` i pełny katalog serii od ${rokMin}` : ''}`}
+  description={`Zestawy LEGO z serii ${seria}: aktualne ceny i promocje${hist.length ? ` oraz kompletny katalog wszystkich ${hist.length} zestawów serii z lat ${rokMin}–${new Date().getFullYear()}, ze statusem wycofania (EOL)` : ''}.`}
+>
+  <h1 style="margin-top:28px">LEGO {seria}</h1>
+
+  {wSerii.length > 0 && (
+    <>
+      <h2>Śledzone zestawy i ceny</h2>
+      <div class="siatka">
+        {wSerii.map((s) => (
+          <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+            {s.zdjecia?.glowne && <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
+            <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+            <h3>{s.nazwa}</h3>
+            <div class="cena-linia"><span class="cena">{fmt(Math.min(...s.oferty.map((o) => o.cena)))}</span><span class="za-klocek">{s.elementy} el.</span></div>
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
+  {hist.length > 0 && (
+    <section class="sekcja">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
+      </div>
+      <p>Wszystkie zestawy serii — także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
+      <div class="karta" style="padding: 6px 18px 18px; overflow-x: auto;">
+        <table class="tabela-cen">
+          <thead>
+            <tr><th>Rok</th><th>Nr</th><th>Nazwa</th><th>Elementy</th><th>Status</th></tr>
+          </thead>
+          <tbody>
+            {hist.map((s) => (
+              <tr>
+                <td>{s.rok}</td>
+                <td><strong>{s.numer}</strong></td>
+                <td>{numeryHubow.has(s.numer) ? <a href={`/zestaw/${s.numer}/`}>{s.nazwa}</a> : s.nazwa}</td>
+                <td>{s.elementy}</td>
+                <td>{s.status === 'eol'
+                  ? <span class="badge-seria">wycofany (EOL)</span>
+                  : <span class="badge-najnizsza">w sprzedaży</span>}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )}
+</Base>

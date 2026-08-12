@@ -1,0 +1,150 @@
+/* ============================================
+   tylkoklocki.pl — design system "Instrukcja"
+   Paleta: biel papieru instrukcji, granat diagramów,
+   żółty klockowy (marka), czerwień (cena/deal),
+   zieleń (najniższa cena w historii).
+   ============================================ */
+:root {
+  --papier: #f6f7f9;
+  --karta: #ffffff;
+  --granat: #17233f;
+  --granat-60: #4a5670;
+  --zolty: #ffc933;
+  --zolty-ciemny: #e6ae00;
+  --czerwien: #e0312f;
+  --zielen: #168a4c;
+  --linia: #dde1e8;
+
+  --font-display: "Archivo Black", system-ui, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+
+  --max-w: 1080px;
+  --radius: 10px;
+  --shadow: 0 1px 2px rgba(23, 35, 63, 0.06), 0 4px 16px rgba(23, 35, 63, 0.06);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--papier);
+  color: var(--granat);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: var(--max-w); margin: 0 auto; padding: 0 20px; }
+
+h1, h2, h3 { font-family: var(--font-display); line-height: 1.15; letter-spacing: -0.01em; margin: 0 0 0.5em; }
+h1 { font-size: clamp(1.9rem, 4.5vw, 3rem); }
+h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); }
+h3 { font-size: 1.15rem; }
+p { margin: 0 0 1em; }
+a { color: inherit; }
+
+/* ---------- Sygnatura: wypustki klocka (studs) ---------- */
+.studs { display: inline-grid; grid-template-columns: repeat(2, 9px); gap: 3px; vertical-align: middle; }
+.studs i { width: 9px; height: 9px; border-radius: 50%; background: var(--zolty); box-shadow: inset 0 -2px 0 rgba(0,0,0,0.18); }
+.studs--granat i { background: var(--granat); }
+
+/* ---------- Header ---------- */
+.site-header { background: var(--karta); border-bottom: 3px solid var(--granat); position: sticky; top: 0; z-index: 50; }
+.site-header .wrap { display: flex; align-items: center; gap: 24px; min-height: 62px; flex-wrap: wrap; }
+.logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-size: 1.25rem; text-decoration: none; padding: 8px 0; }
+.logo em { font-style: normal; color: var(--czerwien); }
+.nav { display: flex; gap: 4px; flex-wrap: wrap; margin-left: auto; }
+.nav a { text-decoration: none; font-size: 0.92rem; font-weight: 600; padding: 8px 12px; border-radius: 6px; color: var(--granat-60); }
+.nav a:hover, .nav a[aria-current="page"] { background: var(--papier); color: var(--granat); }
+.nav a.nav--hot { background: var(--zolty); color: var(--granat); }
+.nav a.nav--hot:hover { background: var(--zolty-ciemny); }
+
+/* ---------- Karty i badge ---------- */
+.karta { background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); }
+
+.badge-rabat {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--czerwien); color: #fff;
+  font-family: var(--font-display); font-size: 1.05rem;
+  padding: 6px 14px 6px 10px; border-radius: 6px;
+  position: relative;
+}
+.badge-rabat::before {
+  content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+  background: #fff; opacity: 0.9; box-shadow: 14px 0 0 0 rgba(255,255,255,0.9);
+  margin-right: 14px;
+}
+.badge-najnizsza { display: inline-block; background: var(--zielen); color: #fff; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
+.badge-seria { display: inline-block; background: var(--papier); border: 1px solid var(--linia); font-weight: 600; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; color: var(--granat-60); }
+.badge-ex { display: inline-block; background: var(--granat); color: var(--zolty); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
+
+/* ---------- Deal dnia (hero) ---------- */
+.deal-dnia { margin: 28px 0; padding: 26px; display: grid; gap: 18px; border-top: 6px solid var(--zolty); }
+.deal-dnia .eyebrow { font-weight: 800; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--czerwien); display: flex; align-items: center; gap: 10px; }
+.deal-dnia .cena-duza { font-family: var(--font-display); font-size: clamp(2.2rem, 6vw, 3.4rem); color: var(--czerwien); line-height: 1; }
+.deal-dnia .cena-duza small { font-size: 0.45em; color: var(--granat-60); font-family: var(--font-body); font-weight: 600; text-decoration: line-through; margin-left: 10px; }
+.deal-meta { display: flex; gap: 14px; flex-wrap: wrap; font-size: 0.92rem; color: var(--granat-60); }
+.deal-meta strong { color: var(--granat); }
+
+/* ---------- Tabela cen ---------- */
+.tabela-cen { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.tabela-cen caption { text-align: left; font-weight: 700; padding-bottom: 8px; }
+.tabela-cen th, .tabela-cen td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--linia); }
+.tabela-cen th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--granat-60); }
+.tabela-cen tr.najtanszy { background: #fff8e1; }
+.tabela-cen tr.najtanszy td:first-child { border-left: 4px solid var(--zolty); }
+.tabela-cen .cena { font-family: var(--font-display); font-size: 1.05rem; white-space: nowrap; }
+.tabela-cen .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.85rem; padding: 8px 14px; border-radius: 6px; }
+.tabela-cen .cta:hover { background: #0f1830; }
+.tabela-data { font-size: 0.8rem; color: var(--granat-60); margin-top: 8px; }
+
+/* ---------- Siatki ---------- */
+.siatka { display: grid; gap: 18px; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); margin: 20px 0 40px; }
+.set-karta { padding: 18px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
+.set-karta:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
+.set-karta .nr { font-size: 0.78rem; color: var(--granat-60); font-weight: 700; }
+.set-karta h3 { margin: 0; }
+.set-karta .cena-linia { display: flex; align-items: baseline; gap: 10px; margin-top: auto; padding-top: 10px; }
+.set-karta .cena-linia .cena { font-family: var(--font-display); font-size: 1.2rem; color: var(--czerwien); }
+.set-karta .cena-linia .za-klocek { font-size: 0.8rem; color: var(--granat-60); }
+
+/* ---------- Sekcje / persony ---------- */
+.sekcja { margin: 44px 0; }
+.sekcja-head { display: flex; align-items: center; gap: 12px; margin-bottom: 6px; }
+.persony { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin: 22px 0; }
+.persona { padding: 18px; border-left: 5px solid var(--zolty); }
+.persona.afol { border-left-color: var(--granat); }
+.persona h3 { display: flex; align-items: center; gap: 8px; }
+
+/* ---------- Artykuł ---------- */
+.prose { max-width: 720px; }
+.prose img { max-width: 100%; border-radius: var(--radius); }
+.disclosure { font-size: 0.82rem; color: var(--granat-60); background: var(--papier); border: 1px dashed var(--linia); padding: 10px 14px; border-radius: 8px; margin: 14px 0 24px; }
+
+/* ---------- Footer ---------- */
+.site-footer { margin-top: 60px; background: var(--granat); color: #cfd6e4; padding: 36px 0; font-size: 0.9rem; }
+.site-footer a { color: var(--zolty); }
+.site-footer .wrap { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.site-footer h4 { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
+
+:focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
+
+/* ---------- Zdjęcia setów ---------- */
+.set-hero { display: grid; gap: 24px; grid-template-columns: minmax(280px, 420px) 1fr; align-items: start; margin-top: 24px; }
+@media (max-width: 760px) { .set-hero { grid-template-columns: 1fr; } }
+.foto-glowna { width: 100%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); }
+.foto-placeholder { width: 100%; aspect-ratio: 1 / 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: var(--radius); color: var(--granat-60); font-size: 0.85rem; }
+.foto-placeholder .studs i { width: 16px; height: 16px; }
+.galeria { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); margin: 14px 0 6px; }
+.galeria a { display: block; border: 1px solid var(--linia); border-radius: 8px; overflow: hidden; background: #fff; box-shadow: var(--shadow); transition: transform .12s ease; }
+.galeria a:hover { transform: scale(1.03); }
+.galeria img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
+.set-karta .miniatura { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; border-radius: 8px; border: 1px solid var(--linia); }
+.zrodlo-foto { font-size: 0.75rem; color: var(--granat-60); margin-top: 4px; }
