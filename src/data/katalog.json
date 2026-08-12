@@ -3,9 +3,12 @@
     "aktualizacja": "2026-08-12",
     "zrodla": [
       "brickset.com (theme Ideas)",
-      "lego.com"
+      "lego.com",
+      "brickset.com (theme Harry Potter)",
+      "lego.com/pl-pl (statusy i polskie nazwy)",
+      "promoklocki.pl (polskie nazwy setow wycofanych)"
     ],
-    "uwagi": "Rocznik 2025 serii Ideas do uzupelnienia przez scouta (weryfikacja numerow u zrodla). Statusy setow 2024 do potwierdzenia w kolejnym przebiegu."
+    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
   },
   "Ideas": [
     {
@@ -440,6 +443,1613 @@
       "nazwa": "La Catrina",
       "rok": 2026,
       "elementy": 1212,
+      "status": "dostepny"
+    }
+  ],
+  "Icons": [
+    {
+      "numer": "10182",
+      "nazwa": "Café Corner (modular)",
+      "rok": 2007,
+      "elementy": 2056,
+      "status": "eol"
+    },
+    {
+      "numer": "10190",
+      "nazwa": "Market Street (modular)",
+      "rok": 2007,
+      "elementy": 1248,
+      "status": "eol"
+    },
+    {
+      "numer": "10185",
+      "nazwa": "Green Grocer (modular)",
+      "rok": 2008,
+      "elementy": 2352,
+      "status": "eol"
+    },
+    {
+      "numer": "10197",
+      "nazwa": "Fire Brigade (modular)",
+      "rok": 2009,
+      "elementy": 2231,
+      "status": "eol"
+    },
+    {
+      "numer": "10211",
+      "nazwa": "Grand Emporium (modular)",
+      "rok": 2010,
+      "elementy": 2686,
+      "status": "eol"
+    },
+    {
+      "numer": "10218",
+      "nazwa": "Pet Shop (modular)",
+      "rok": 2011,
+      "elementy": 2032,
+      "status": "eol"
+    },
+    {
+      "numer": "10224",
+      "nazwa": "Town Hall (modular)",
+      "rok": 2012,
+      "elementy": 2766,
+      "status": "eol"
+    },
+    {
+      "numer": "10232",
+      "nazwa": "Palace Cinema (modular)",
+      "rok": 2013,
+      "elementy": 2196,
+      "status": "eol"
+    },
+    {
+      "numer": "10243",
+      "nazwa": "Parisian Restaurant (modular)",
+      "rok": 2014,
+      "elementy": 2469,
+      "status": "eol"
+    },
+    {
+      "numer": "10246",
+      "nazwa": "Detective's Office (modular)",
+      "rok": 2015,
+      "elementy": 2262,
+      "status": "eol"
+    },
+    {
+      "numer": "10251",
+      "nazwa": "Brick Bank (modular)",
+      "rok": 2016,
+      "elementy": 2380,
+      "status": "eol"
+    },
+    {
+      "numer": "10255",
+      "nazwa": "Assembly Square (modular)",
+      "rok": 2017,
+      "elementy": 4002,
+      "status": "eol"
+    },
+    {
+      "numer": "10260",
+      "nazwa": "Downtown Diner (modular)",
+      "rok": 2018,
+      "elementy": 2480,
+      "status": "eol"
+    },
+    {
+      "numer": "10264",
+      "nazwa": "Corner Garage (modular)",
+      "rok": 2019,
+      "elementy": 2569,
+      "status": "eol"
+    },
+    {
+      "numer": "10270",
+      "nazwa": "Księgarnia (modular)",
+      "rok": 2020,
+      "elementy": 2504,
+      "status": "eol"
+    },
+    {
+      "numer": "10278",
+      "nazwa": "Posterunek policji (modular)",
+      "rok": 2021,
+      "elementy": 2923,
+      "status": "eol"
+    },
+    {
+      "numer": "10297",
+      "nazwa": "Butikowy hotel (modular)",
+      "rok": 2022,
+      "elementy": 3066,
+      "status": "eol"
+    },
+    {
+      "numer": "10312",
+      "nazwa": "Klub jazzowy (modular)",
+      "rok": 2023,
+      "elementy": 2899,
+      "status": "eol"
+    },
+    {
+      "numer": "10326",
+      "nazwa": "Muzeum historii naturalnej (modular)",
+      "rok": 2024,
+      "elementy": 4014,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10242",
+      "nazwa": "Mini Cooper",
+      "rok": 2014,
+      "elementy": 1077,
+      "status": "eol"
+    },
+    {
+      "numer": "10248",
+      "nazwa": "Ferrari F40",
+      "rok": 2015,
+      "elementy": 1158,
+      "status": "eol"
+    },
+    {
+      "numer": "10252",
+      "nazwa": "Volkswagen Garbus",
+      "rok": 2016,
+      "elementy": 1167,
+      "status": "eol"
+    },
+    {
+      "numer": "10258",
+      "nazwa": "Londyński autobus",
+      "rok": 2017,
+      "elementy": 1686,
+      "status": "eol"
+    },
+    {
+      "numer": "10262",
+      "nazwa": "Aston Martin DB5 (James Bond)",
+      "rok": 2018,
+      "elementy": 1295,
+      "status": "eol"
+    },
+    {
+      "numer": "10265",
+      "nazwa": "Ford Mustang",
+      "rok": 2019,
+      "elementy": 1471,
+      "status": "eol"
+    },
+    {
+      "numer": "10271",
+      "nazwa": "Fiat 500",
+      "rok": 2020,
+      "elementy": 960,
+      "status": "eol"
+    },
+    {
+      "numer": "10274",
+      "nazwa": "Ghostbusters ECTO-1",
+      "rok": 2020,
+      "elementy": 2352,
+      "status": "eol"
+    },
+    {
+      "numer": "10279",
+      "nazwa": "Volkswagen T2 Camper",
+      "rok": 2021,
+      "elementy": 2207,
+      "status": "eol"
+    },
+    {
+      "numer": "10290",
+      "nazwa": "Pickup",
+      "rok": 2021,
+      "elementy": 1677,
+      "status": "eol"
+    },
+    {
+      "numer": "10295",
+      "nazwa": "Porsche 911",
+      "rok": 2021,
+      "elementy": 1458,
+      "status": "eol"
+    },
+    {
+      "numer": "10298",
+      "nazwa": "Vespa 125",
+      "rok": 2022,
+      "elementy": 1106,
+      "status": "eol"
+    },
+    {
+      "numer": "10300",
+      "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
+      "rok": 2022,
+      "elementy": 1872,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10304",
+      "nazwa": "Chevrolet Camaro Z28",
+      "rok": 2022,
+      "elementy": 1456,
+      "status": "eol"
+    },
+    {
+      "numer": "10321",
+      "nazwa": "Chevrolet Corvette 1961",
+      "rok": 2023,
+      "elementy": 1210,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10330",
+      "nazwa": "McLaren MP4/4 i Ayrton Senna",
+      "rok": 2024,
+      "elementy": 693,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11381",
+      "nazwa": "Jaguar Type E",
+      "rok": 2026,
+      "elementy": 1673,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10214",
+      "nazwa": "Tower Bridge",
+      "rok": 2010,
+      "elementy": 4287,
+      "status": "eol"
+    },
+    {
+      "numer": "10234",
+      "nazwa": "Opera w Sydney",
+      "rok": 2013,
+      "elementy": 2989,
+      "status": "eol"
+    },
+    {
+      "numer": "10253",
+      "nazwa": "Big Ben",
+      "rok": 2016,
+      "elementy": 4163,
+      "status": "eol"
+    },
+    {
+      "numer": "10256",
+      "nazwa": "Tadż Mahal",
+      "rok": 2017,
+      "elementy": 5923,
+      "status": "eol"
+    },
+    {
+      "numer": "10257",
+      "nazwa": "Karuzela",
+      "rok": 2017,
+      "elementy": 2670,
+      "status": "eol"
+    },
+    {
+      "numer": "10261",
+      "nazwa": "Kolejka górska",
+      "rok": 2018,
+      "elementy": 4124,
+      "status": "eol"
+    },
+    {
+      "numer": "10266",
+      "nazwa": "Lądownik księżycowy Apollo 11 NASA",
+      "rok": 2019,
+      "elementy": 1087,
+      "status": "eol"
+    },
+    {
+      "numer": "10272",
+      "nazwa": "Old Trafford — Manchester United",
+      "rok": 2020,
+      "elementy": 3898,
+      "status": "eol"
+    },
+    {
+      "numer": "10276",
+      "nazwa": "Koloseum",
+      "rok": 2020,
+      "elementy": 9036,
+      "status": "eol"
+    },
+    {
+      "numer": "10277",
+      "nazwa": "Lokomotywa Krokodyl",
+      "rok": 2020,
+      "elementy": 1271,
+      "status": "eol"
+    },
+    {
+      "numer": "10283",
+      "nazwa": "Wahadłowiec Discovery NASA",
+      "rok": 2021,
+      "elementy": 2354,
+      "status": "eol"
+    },
+    {
+      "numer": "10284",
+      "nazwa": "Camp Nou — FC Barcelona",
+      "rok": 2021,
+      "elementy": 5509,
+      "status": "eol"
+    },
+    {
+      "numer": "10294",
+      "nazwa": "Titanic",
+      "rok": 2021,
+      "elementy": 9090,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10299",
+      "nazwa": "Stadion Realu Madryt — Santiago Bernabéu",
+      "rok": 2022,
+      "elementy": 5876,
+      "status": "eol"
+    },
+    {
+      "numer": "10302",
+      "nazwa": "Optimus Prime",
+      "rok": 2022,
+      "elementy": 1508,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10303",
+      "nazwa": "Kolejka górska z pętlą",
+      "rok": 2022,
+      "elementy": 3756,
+      "status": "eol"
+    },
+    {
+      "numer": "10305",
+      "nazwa": "Zamek rycerzy herbu Lew",
+      "rok": 2022,
+      "elementy": 4514,
+      "status": "eol"
+    },
+    {
+      "numer": "10306",
+      "nazwa": "Atari 2600",
+      "rok": 2022,
+      "elementy": 2532,
+      "status": "eol"
+    },
+    {
+      "numer": "10307",
+      "nazwa": "Wieża Eiffla",
+      "rok": 2022,
+      "elementy": 10001,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10316",
+      "nazwa": "Władca Pierścieni: Rivendell",
+      "rok": 2023,
+      "elementy": 6167,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10318",
+      "nazwa": "Concorde",
+      "rok": 2023,
+      "elementy": 2083,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10320",
+      "nazwa": "Twierdza Eldorado",
+      "rok": 2023,
+      "elementy": 2509,
+      "status": "eol"
+    },
+    {
+      "numer": "10323",
+      "nazwa": "Automat do gry PAC-MAN",
+      "rok": 2023,
+      "elementy": 2651,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10333",
+      "nazwa": "Władca Pierścieni: Barad-dûr",
+      "rok": 2024,
+      "elementy": 5471,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10334",
+      "nazwa": "Retro radio",
+      "rok": 2024,
+      "elementy": 906,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10341",
+      "nazwa": "Rakieta NASA Artemis SLS",
+      "rok": 2024,
+      "elementy": 3601,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11382",
+      "nazwa": "Kosmiczny Teleskop Hubble'a",
+      "rok": 2026,
+      "elementy": 1552,
+      "status": "dostepny"
+    }
+  ],
+  "Harry Potter": [
+    {
+      "numer": "4704",
+      "nazwa": "The Chamber of the Winged Keys",
+      "rok": 2001,
+      "elementy": 175,
+      "status": "eol"
+    },
+    {
+      "numer": "4705",
+      "nazwa": "Snape's Class",
+      "rok": 2001,
+      "elementy": 163,
+      "status": "eol"
+    },
+    {
+      "numer": "4706",
+      "nazwa": "Forbidden Corridor",
+      "rok": 2001,
+      "elementy": 238,
+      "status": "eol"
+    },
+    {
+      "numer": "4707",
+      "nazwa": "Hagrid's Hut",
+      "rok": 2001,
+      "elementy": 299,
+      "status": "eol"
+    },
+    {
+      "numer": "4708",
+      "nazwa": "Hogwarts Express",
+      "rok": 2001,
+      "elementy": 410,
+      "status": "eol"
+    },
+    {
+      "numer": "4709",
+      "nazwa": "Hogwarts Castle",
+      "rok": 2001,
+      "elementy": 682,
+      "status": "eol"
+    },
+    {
+      "numer": "4714",
+      "nazwa": "Gringotts Bank",
+      "rok": 2002,
+      "elementy": 250,
+      "status": "eol"
+    },
+    {
+      "numer": "4726",
+      "nazwa": "Quidditch Practice",
+      "rok": 2002,
+      "elementy": 128,
+      "status": "eol"
+    },
+    {
+      "numer": "4727",
+      "nazwa": "Aragog in the Dark Forest",
+      "rok": 2002,
+      "elementy": 178,
+      "status": "eol"
+    },
+    {
+      "numer": "4728",
+      "nazwa": "Escape from Privet Drive",
+      "rok": 2002,
+      "elementy": 278,
+      "status": "eol"
+    },
+    {
+      "numer": "4729",
+      "nazwa": "Dumbledore's Office",
+      "rok": 2002,
+      "elementy": 446,
+      "status": "eol"
+    },
+    {
+      "numer": "4730",
+      "nazwa": "The Chamber of Secrets",
+      "rok": 2002,
+      "elementy": 591,
+      "status": "eol"
+    },
+    {
+      "numer": "4733",
+      "nazwa": "The Dueling Club",
+      "rok": 2002,
+      "elementy": 129,
+      "status": "eol"
+    },
+    {
+      "numer": "4719",
+      "nazwa": "Quality Quidditch Supplies",
+      "rok": 2003,
+      "elementy": 120,
+      "status": "eol"
+    },
+    {
+      "numer": "4720",
+      "nazwa": "Knockturn Alley",
+      "rok": 2003,
+      "elementy": 209,
+      "status": "eol"
+    },
+    {
+      "numer": "10132",
+      "nazwa": "Motorised Hogwarts Express",
+      "rok": 2004,
+      "elementy": 708,
+      "status": "eol"
+    },
+    {
+      "numer": "4751",
+      "nazwa": "Harry and the Marauder's Map",
+      "rok": 2004,
+      "elementy": 109,
+      "status": "eol"
+    },
+    {
+      "numer": "4752",
+      "nazwa": "Professor Lupin's Classroom",
+      "rok": 2004,
+      "elementy": 156,
+      "status": "eol"
+    },
+    {
+      "numer": "4753",
+      "nazwa": "Sirius Black's Escape",
+      "rok": 2004,
+      "elementy": 188,
+      "status": "eol"
+    },
+    {
+      "numer": "4754",
+      "nazwa": "Hagrid's Hut",
+      "rok": 2004,
+      "elementy": 302,
+      "status": "eol"
+    },
+    {
+      "numer": "4755",
+      "nazwa": "Knight Bus",
+      "rok": 2004,
+      "elementy": 243,
+      "status": "eol"
+    },
+    {
+      "numer": "4756",
+      "nazwa": "Shrieking Shack",
+      "rok": 2004,
+      "elementy": 444,
+      "status": "eol"
+    },
+    {
+      "numer": "4757",
+      "nazwa": "Hogwarts Castle",
+      "rok": 2004,
+      "elementy": 944,
+      "status": "eol"
+    },
+    {
+      "numer": "4758",
+      "nazwa": "Hogwarts Express",
+      "rok": 2004,
+      "elementy": 389,
+      "status": "eol"
+    },
+    {
+      "numer": "65524",
+      "nazwa": "Motorised Hogwarts Express super pack",
+      "rok": 2004,
+      "elementy": 724,
+      "status": "eol"
+    },
+    {
+      "numer": "4762",
+      "nazwa": "Rescue from the Merpeople",
+      "rok": 2005,
+      "elementy": 175,
+      "status": "eol"
+    },
+    {
+      "numer": "4766",
+      "nazwa": "Graveyard Duel",
+      "rok": 2005,
+      "elementy": 548,
+      "status": "eol"
+    },
+    {
+      "numer": "4767",
+      "nazwa": "Harry and the Hungarian Horntail",
+      "rok": 2005,
+      "elementy": 265,
+      "status": "eol"
+    },
+    {
+      "numer": "4768",
+      "nazwa": "The Durmstrang Ship with Bonus Minifigures",
+      "rok": 2005,
+      "elementy": 566,
+      "status": "eol"
+    },
+    {
+      "numer": "5378",
+      "nazwa": "Hogwarts Castle",
+      "rok": 2007,
+      "elementy": 943,
+      "status": "eol"
+    },
+    {
+      "numer": "4737",
+      "nazwa": "Quidditch Match",
+      "rok": 2010,
+      "elementy": 153,
+      "status": "eol"
+    },
+    {
+      "numer": "4738",
+      "nazwa": "Hagrid's Hut",
+      "rok": 2010,
+      "elementy": 442,
+      "status": "eol"
+    },
+    {
+      "numer": "4840",
+      "nazwa": "The Burrow",
+      "rok": 2010,
+      "elementy": 568,
+      "status": "eol"
+    },
+    {
+      "numer": "4841",
+      "nazwa": "Hogwarts Express",
+      "rok": 2010,
+      "elementy": 646,
+      "status": "eol"
+    },
+    {
+      "numer": "4842",
+      "nazwa": "Hogwarts Castle",
+      "rok": 2010,
+      "elementy": 1290,
+      "status": "eol"
+    },
+    {
+      "numer": "10217",
+      "nazwa": "Diagon Alley",
+      "rok": 2011,
+      "elementy": 2025,
+      "status": "eol"
+    },
+    {
+      "numer": "4866",
+      "nazwa": "The Knight Bus",
+      "rok": 2011,
+      "elementy": 281,
+      "status": "eol"
+    },
+    {
+      "numer": "4867",
+      "nazwa": "Hogwarts",
+      "rok": 2011,
+      "elementy": 466,
+      "status": "eol"
+    },
+    {
+      "numer": "40289",
+      "nazwa": "Ulica Pokątna",
+      "rok": 2018,
+      "elementy": 374,
+      "status": "eol"
+    },
+    {
+      "numer": "6268521",
+      "nazwa": "Harry Potter Mosaic",
+      "rok": 2018,
+      "elementy": 2305,
+      "status": "eol"
+    },
+    {
+      "numer": "6268522",
+      "nazwa": "Hermione Granger Mosaic",
+      "rok": 2018,
+      "elementy": 2305,
+      "status": "eol"
+    },
+    {
+      "numer": "71043",
+      "nazwa": "Zamek Hogwart",
+      "rok": 2018,
+      "elementy": 6020,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75950",
+      "nazwa": "Legowisko Aragoga",
+      "rok": 2018,
+      "elementy": 157,
+      "status": "eol"
+    },
+    {
+      "numer": "75951",
+      "nazwa": "Ucieczka Grindelwalda",
+      "rok": 2018,
+      "elementy": 132,
+      "status": "eol"
+    },
+    {
+      "numer": "75952",
+      "nazwa": "Walizka Newta z magicznymi stworzeniami",
+      "rok": 2018,
+      "elementy": 694,
+      "status": "eol"
+    },
+    {
+      "numer": "75953",
+      "nazwa": "Wierzba bijąca z Hogwartu",
+      "rok": 2018,
+      "elementy": 753,
+      "status": "eol"
+    },
+    {
+      "numer": "75954",
+      "nazwa": "Wielka Sala w Hogwarcie",
+      "rok": 2018,
+      "elementy": 878,
+      "status": "eol"
+    },
+    {
+      "numer": "75955",
+      "nazwa": "Ekspres do Hogwartu",
+      "rok": 2018,
+      "elementy": 801,
+      "status": "eol"
+    },
+    {
+      "numer": "75956",
+      "nazwa": "Mecz quidditcha",
+      "rok": 2018,
+      "elementy": 500,
+      "status": "eol"
+    },
+    {
+      "numer": "75945",
+      "nazwa": "Expecto Patronum",
+      "rok": 2019,
+      "elementy": 121,
+      "status": "eol"
+    },
+    {
+      "numer": "75946",
+      "nazwa": "Rogogon węgierski na Turnieju Trójmagicznym",
+      "rok": 2019,
+      "elementy": 265,
+      "status": "eol"
+    },
+    {
+      "numer": "75947",
+      "nazwa": "Chatka Hagrida: na ratunek Hardodziobowi",
+      "rok": 2019,
+      "elementy": 496,
+      "status": "eol"
+    },
+    {
+      "numer": "75948",
+      "nazwa": "Wieża zegarowa na Hogwarcie",
+      "rok": 2019,
+      "elementy": 922,
+      "status": "eol"
+    },
+    {
+      "numer": "75957",
+      "nazwa": "Błędny Rycerz",
+      "rok": 2019,
+      "elementy": 403,
+      "status": "eol"
+    },
+    {
+      "numer": "75958",
+      "nazwa": "Powóz z Beauxbatons: przyjazd do Hogwartu",
+      "rok": 2019,
+      "elementy": 430,
+      "status": "eol"
+    },
+    {
+      "numer": "75964",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
+      "rok": 2019,
+      "elementy": 305,
+      "status": "eol"
+    },
+    {
+      "numer": "75965",
+      "nazwa": "Powrót Voldemorta",
+      "rok": 2019,
+      "elementy": 184,
+      "status": "eol"
+    },
+    {
+      "numer": "30628",
+      "nazwa": "Potworna księga potworów",
+      "rok": 2020,
+      "elementy": 320,
+      "status": "eol"
+    },
+    {
+      "numer": "75966",
+      "nazwa": "Pokój Życzeń w Hogwarcie",
+      "rok": 2020,
+      "elementy": 193,
+      "status": "eol"
+    },
+    {
+      "numer": "75967",
+      "nazwa": "Zakazany Las: spotkanie Umbridge",
+      "rok": 2020,
+      "elementy": 253,
+      "status": "eol"
+    },
+    {
+      "numer": "75968",
+      "nazwa": "Privet Drive 4",
+      "rok": 2020,
+      "elementy": 797,
+      "status": "eol"
+    },
+    {
+      "numer": "75969",
+      "nazwa": "Wieża Astronomiczna w Hogwarcie",
+      "rok": 2020,
+      "elementy": 971,
+      "status": "eol"
+    },
+    {
+      "numer": "75978",
+      "nazwa": "Ulica Pokątna",
+      "rok": 2020,
+      "elementy": 5544,
+      "status": "eol"
+    },
+    {
+      "numer": "75979",
+      "nazwa": "Hedwiga",
+      "rok": 2020,
+      "elementy": 630,
+      "status": "eol"
+    },
+    {
+      "numer": "75980",
+      "nazwa": "Atak na Norę",
+      "rok": 2020,
+      "elementy": 1047,
+      "status": "eol"
+    },
+    {
+      "numer": "75981",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
+      "rok": 2020,
+      "elementy": 335,
+      "status": "eol"
+    },
+    {
+      "numer": "40452",
+      "nazwa": "Dormitoria Gryffindoru w Hogwarcie",
+      "rok": 2021,
+      "elementy": 148,
+      "status": "eol"
+    },
+    {
+      "numer": "76382",
+      "nazwa": "Chwile z Hogwartu: zajęcia z transfiguracji",
+      "rok": 2021,
+      "elementy": 241,
+      "status": "eol"
+    },
+    {
+      "numer": "76383",
+      "nazwa": "Chwile z Hogwartu: zajęcia z eliksirów",
+      "rok": 2021,
+      "elementy": 271,
+      "status": "eol"
+    },
+    {
+      "numer": "76384",
+      "nazwa": "Chwile z Hogwartu: zajęcia z zielarstwa",
+      "rok": 2021,
+      "elementy": 233,
+      "status": "eol"
+    },
+    {
+      "numer": "76385",
+      "nazwa": "Chwile z Hogwartu: zajęcia z zaklęć i uroków",
+      "rok": 2021,
+      "elementy": 256,
+      "status": "eol"
+    },
+    {
+      "numer": "76386",
+      "nazwa": "Hogwart: pomyłka z eliksirem wielosokowym",
+      "rok": 2021,
+      "elementy": 217,
+      "status": "eol"
+    },
+    {
+      "numer": "76387",
+      "nazwa": "Hogwart: spotkanie z Puszkiem",
+      "rok": 2021,
+      "elementy": 397,
+      "status": "eol"
+    },
+    {
+      "numer": "76388",
+      "nazwa": "Wizyta w wiosce Hogsmeade",
+      "rok": 2021,
+      "elementy": 851,
+      "status": "eol"
+    },
+    {
+      "numer": "76389",
+      "nazwa": "Komnata Tajemnic w Hogwarcie",
+      "rok": 2021,
+      "elementy": 1176,
+      "status": "eol"
+    },
+    {
+      "numer": "76390",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
+      "rok": 2021,
+      "elementy": 274,
+      "status": "eol"
+    },
+    {
+      "numer": "76391",
+      "nazwa": "Ikony Hogwartu — edycja kolekcjonerska",
+      "rok": 2021,
+      "elementy": 3010,
+      "status": "eol"
+    },
+    {
+      "numer": "76392",
+      "nazwa": "Szachy czarodziejów w Hogwarcie",
+      "rok": 2021,
+      "elementy": 876,
+      "status": "eol"
+    },
+    {
+      "numer": "76393",
+      "nazwa": "Harry Potter i Hermiona Granger",
+      "rok": 2021,
+      "elementy": 1673,
+      "status": "eol"
+    },
+    {
+      "numer": "76394",
+      "nazwa": "Fawkes, feniks Dumbledore'a",
+      "rok": 2021,
+      "elementy": 597,
+      "status": "eol"
+    },
+    {
+      "numer": "76395",
+      "nazwa": "Hogwart: Pierwsza lekcja latania",
+      "rok": 2021,
+      "elementy": 264,
+      "status": "eol"
+    },
+    {
+      "numer": "40577",
+      "nazwa": "Wielkie schody w Hogwarcie",
+      "rok": 2022,
+      "elementy": 224,
+      "status": "eol"
+    },
+    {
+      "numer": "76396",
+      "nazwa": "Chwile z Hogwartu: zajęcia z wróżbiarstwa",
+      "rok": 2022,
+      "elementy": 297,
+      "status": "eol"
+    },
+    {
+      "numer": "76397",
+      "nazwa": "Chwile z Hogwartu: zajęcia z obrony przed czarną magią",
+      "rok": 2022,
+      "elementy": 257,
+      "status": "eol"
+    },
+    {
+      "numer": "76398",
+      "nazwa": "Skrzydło szpitalne Hogwartu",
+      "rok": 2022,
+      "elementy": 510,
+      "status": "eol"
+    },
+    {
+      "numer": "76399",
+      "nazwa": "Magiczny kufer z Hogwartu",
+      "rok": 2022,
+      "elementy": 603,
+      "status": "eol"
+    },
+    {
+      "numer": "76400",
+      "nazwa": "Testrale i kareta z Hogwartu",
+      "rok": 2022,
+      "elementy": 121,
+      "status": "eol"
+    },
+    {
+      "numer": "76401",
+      "nazwa": "Dziedziniec Hogwartu: na ratunek Syriuszowi",
+      "rok": 2022,
+      "elementy": 345,
+      "status": "eol"
+    },
+    {
+      "numer": "76402",
+      "nazwa": "Komnata Dumbledore'a w Hogwarcie",
+      "rok": 2022,
+      "elementy": 654,
+      "status": "eol"
+    },
+    {
+      "numer": "76403",
+      "nazwa": "Ministerstwo Magii",
+      "rok": 2022,
+      "elementy": 990,
+      "status": "eol"
+    },
+    {
+      "numer": "76404",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
+      "rok": 2022,
+      "elementy": 334,
+      "status": "eol"
+    },
+    {
+      "numer": "76405",
+      "nazwa": "Ekspres do Hogwartu — edycja kolekcjonerska",
+      "rok": 2022,
+      "elementy": 5129,
+      "status": "eol"
+    },
+    {
+      "numer": "76406",
+      "nazwa": "Smok rogogon węgierski",
+      "rok": 2022,
+      "elementy": 671,
+      "status": "eol"
+    },
+    {
+      "numer": "76407",
+      "nazwa": "Wrzeszcząca Chata i wierzba bijąca",
+      "rok": 2022,
+      "elementy": 777,
+      "status": "eol"
+    },
+    {
+      "numer": "76408",
+      "nazwa": "Ulica Grimmauld Place 12",
+      "rok": 2022,
+      "elementy": 1083,
+      "status": "eol"
+    },
+    {
+      "numer": "40598",
+      "nazwa": "Skrytka w Banku Gringotta",
+      "rok": 2023,
+      "elementy": 212,
+      "status": "eol"
+    },
+    {
+      "numer": "76409",
+      "nazwa": "Flaga Gryffindoru",
+      "rok": 2023,
+      "elementy": 285,
+      "status": "eol"
+    },
+    {
+      "numer": "76410",
+      "nazwa": "Flaga Slytherinu",
+      "rok": 2023,
+      "elementy": 349,
+      "status": "eol"
+    },
+    {
+      "numer": "76411",
+      "nazwa": "Flaga Ravenclawu",
+      "rok": 2023,
+      "elementy": 305,
+      "status": "eol"
+    },
+    {
+      "numer": "76412",
+      "nazwa": "Flaga Hufflepuffu",
+      "rok": 2023,
+      "elementy": 313,
+      "status": "eol"
+    },
+    {
+      "numer": "76413",
+      "nazwa": "Hogwart: Pokój życzeń",
+      "rok": 2023,
+      "elementy": 587,
+      "status": "eol"
+    },
+    {
+      "numer": "76414",
+      "nazwa": "Expecto Patronum",
+      "rok": 2023,
+      "elementy": 754,
+      "status": "eol"
+    },
+    {
+      "numer": "76415",
+      "nazwa": "Bitwa o Hogwart",
+      "rok": 2023,
+      "elementy": 730,
+      "status": "eol"
+    },
+    {
+      "numer": "76416",
+      "nazwa": "Quidditch — kufer",
+      "rok": 2023,
+      "elementy": 599,
+      "status": "eol"
+    },
+    {
+      "numer": "76417",
+      "nazwa": "Bank Gringotta — edycja kolekcjonerska",
+      "rok": 2023,
+      "elementy": 4803,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76418",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
+      "rok": 2023,
+      "elementy": 227,
+      "status": "eol"
+    },
+    {
+      "numer": "76419",
+      "nazwa": "Zamek Hogwart i błonia",
+      "rok": 2023,
+      "elementy": 2660,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76420",
+      "nazwa": "Turniej Trójmagiczny: Jezioro Hogwartu",
+      "rok": 2023,
+      "elementy": 349,
+      "status": "eol"
+    },
+    {
+      "numer": "76421",
+      "nazwa": "Skrzat domowy Zgredek",
+      "rok": 2023,
+      "elementy": 403,
+      "status": "eol"
+    },
+    {
+      "numer": "76422",
+      "nazwa": "Ulica Pokątna: Magiczne dowcipy Weasleyów",
+      "rok": 2023,
+      "elementy": 834,
+      "status": "eol"
+    },
+    {
+      "numer": "76423",
+      "nazwa": "Ekspres do Hogwartu i stacja w Hogsmeade",
+      "rok": 2023,
+      "elementy": 1074,
+      "status": "eol"
+    },
+    {
+      "numer": "40695",
+      "nazwa": "Borgin & Burkes: sieć Fiuu",
+      "rok": 2024,
+      "elementy": 190,
+      "status": "eol"
+    },
+    {
+      "numer": "6541140",
+      "nazwa": "Platform 9 3/4",
+      "rok": 2024,
+      "elementy": 103,
+      "status": "eol"
+    },
+    {
+      "numer": "76424",
+      "nazwa": "Latający Ford Anglia",
+      "rok": 2024,
+      "elementy": 165,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76425",
+      "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
+      "rok": 2024,
+      "elementy": 337,
+      "status": "eol"
+    },
+    {
+      "numer": "76426",
+      "nazwa": "Dom na wodzie przy Hogwarcie",
+      "rok": 2024,
+      "elementy": 350,
+      "status": "eol"
+    },
+    {
+      "numer": "76427",
+      "nazwa": "Hardodziob",
+      "rok": 2024,
+      "elementy": 723,
+      "status": "eol"
+    },
+    {
+      "numer": "76428",
+      "nazwa": "Chatka Hagrida: niespodziewana wizyta",
+      "rok": 2024,
+      "elementy": 896,
+      "status": "eol"
+    },
+    {
+      "numer": "76429",
+      "nazwa": "Mówiąca Tiara Przydziału",
+      "rok": 2024,
+      "elementy": 561,
+      "status": "eol"
+    },
+    {
+      "numer": "76430",
+      "nazwa": "Sowiarnia w Hogwarcie",
+      "rok": 2024,
+      "elementy": 364,
+      "status": "eol"
+    },
+    {
+      "numer": "76431",
+      "nazwa": "Zamek Hogwart: Zajęcia z eliksirów",
+      "rok": 2024,
+      "elementy": 397,
+      "status": "eol"
+    },
+    {
+      "numer": "76432",
+      "nazwa": "Zakazany Las: magiczne stworzenia",
+      "rok": 2024,
+      "elementy": 172,
+      "status": "eol"
+    },
+    {
+      "numer": "76433",
+      "nazwa": "Mandragora",
+      "rok": 2024,
+      "elementy": 579,
+      "status": "eol"
+    },
+    {
+      "numer": "76434",
+      "nazwa": "Aragog w Zakazanym Lesie",
+      "rok": 2024,
+      "elementy": 195,
+      "status": "eol"
+    },
+    {
+      "numer": "76435",
+      "nazwa": "Zamek Hogwart: Wielka Sala",
+      "rok": 2024,
+      "elementy": 1732,
+      "status": "eol"
+    },
+    {
+      "numer": "76437",
+      "nazwa": "Nora — edycja kolekcjonerska",
+      "rok": 2024,
+      "elementy": 2405,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76438",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2024",
+      "rok": 2024,
+      "elementy": 301,
+      "status": "eol"
+    },
+    {
+      "numer": "76439",
+      "nazwa": "Sklepy Ollivandera i Madame Malkin",
+      "rok": 2024,
+      "elementy": 744,
+      "status": "eol"
+    },
+    {
+      "numer": "76440",
+      "nazwa": "Turniej Trójmagiczny: Przybycie",
+      "rok": 2024,
+      "elementy": 1229,
+      "status": "eol"
+    },
+    {
+      "numer": "40770",
+      "nazwa": "Zamek Hogwart: Pokój Życzeń",
+      "rok": 2025,
+      "elementy": 202,
+      "status": "eol"
+    },
+    {
+      "numer": "76441",
+      "nazwa": "Zamek Hogwart: Klub pojedynków",
+      "rok": 2025,
+      "elementy": 158,
+      "status": "eol"
+    },
+    {
+      "numer": "76442",
+      "nazwa": "Zamek Hogwart: Zajęcia z zaklęć i uroków",
+      "rok": 2025,
+      "elementy": 204,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76443",
+      "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
+      "rok": 2025,
+      "elementy": 617,
+      "status": "eol"
+    },
+    {
+      "numer": "76444",
+      "nazwa": "Magiczne sklepy na Ulicy Pokątnej",
+      "rok": 2025,
+      "elementy": 2750,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76445",
+      "nazwa": "Zamek Hogwart: zajęcia z zielarstwa",
+      "rok": 2025,
+      "elementy": 390,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76446",
+      "nazwa": "Przygoda na pokładzie Błędnego Rycerza",
+      "rok": 2025,
+      "elementy": 499,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76447",
+      "nazwa": "Zamek Hogwart: lekcja latania na miotle",
+      "rok": 2025,
+      "elementy": 651,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76448",
+      "nazwa": "Fawkes: feniks Dumbledore'a",
+      "rok": 2025,
+      "elementy": 299,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76449",
+      "nazwa": "Potworna księga potworów z zębami",
+      "rok": 2025,
+      "elementy": 518,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76450",
+      "nazwa": "Book nook: Ekspres do Hogwartu",
+      "rok": 2025,
+      "elementy": 832,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76451",
+      "nazwa": "Privet Drive: Wizyta ciotki Marge",
+      "rok": 2025,
+      "elementy": 639,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76452",
+      "nazwa": "Markowy sprzęt do quidditcha i lodziarnia",
+      "rok": 2025,
+      "elementy": 795,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76453",
+      "nazwa": "Dwór Malfoyów",
+      "rok": 2025,
+      "elementy": 1601,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76454",
+      "nazwa": "Zamek Hogwart: Główna wieża",
+      "rok": 2025,
+      "elementy": 2135,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76456",
+      "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2025",
+      "rok": 2025,
+      "elementy": 278,
+      "status": "eol"
+    },
+    {
+      "numer": "76457",
+      "nazwa": "Hogsmeade — edycja kolekcjonerska",
+      "rok": 2025,
+      "elementy": 3228,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76458",
+      "nazwa": "Rodzina testrali",
+      "rok": 2025,
+      "elementy": 548,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40975",
+      "nazwa": "Minizamek Hogwart",
+      "rok": 2026,
+      "elementy": 700,
+      "status": "dostepny"
+    },
+    {
+      "numer": "66820",
+      "nazwa": "Hogwarts Crest and Dobby Collector's Set",
+      "rok": 2026,
+      "elementy": 924,
+      "status": "eol"
+    },
+    {
+      "numer": "76459",
+      "nazwa": "Ucieczka Hagrida i Harry'ego z Privet Drive",
+      "rok": 2026,
+      "elementy": 124,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76460",
+      "nazwa": "Zamek Hogwart: Ceremonia przydziału",
+      "rok": 2026,
+      "elementy": 124,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76461",
+      "nazwa": "Chochlik kornwalijski",
+      "rok": 2026,
+      "elementy": 320,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76462",
+      "nazwa": "Herb Hogwartu",
+      "rok": 2026,
+      "elementy": 545,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76463",
+      "nazwa": "Zamek Hogwart: skrzydło szpitalne",
+      "rok": 2026,
+      "elementy": 907,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76464",
+      "nazwa": "Kociołek: Sekretna sala zajęć z eliksirów",
+      "rok": 2026,
+      "elementy": 652,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76466",
+      "nazwa": "Kamień filozoficzny — edycja kolekcjonerska",
+      "rok": 2026,
+      "elementy": 1571,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76467",
+      "nazwa": "Dom Luny Lovegood",
+      "rok": 2026,
+      "elementy": 764,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76469",
+      "nazwa": "Wolny skrzat Zgredek",
+      "rok": 2026,
+      "elementy": 379,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76470",
+      "nazwa": "Zaczarowany latający Ford Anglia",
+      "rok": 2026,
+      "elementy": 868,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76471",
+      "nazwa": "Magiczne sklepy na ulicy Śmiertelnego Nokturnu",
+      "rok": 2026,
+      "elementy": 788,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76473",
+      "nazwa": "Zamek Hogwart: Wschodnie skrzydło",
+      "rok": 2026,
+      "elementy": 2164,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76474",
+      "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
+      "rok": 2026,
+      "elementy": 817,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76475",
+      "nazwa": "Zakazany Las: Expecto Patronum",
+      "rok": 2026,
+      "elementy": 244,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76476",
+      "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
+      "rok": 2026,
+      "elementy": 3491,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76477",
+      "nazwa": "Norbert: mały smok Hagrida",
+      "rok": 2026,
+      "elementy": 482,
+      "status": "dostepny"
+    },
+    {
+      "numer": "76478",
+      "nazwa": "Book nook: Gabinet Dumbledore'a",
+      "rok": 2026,
+      "elementy": 1182,
       "status": "dostepny"
     }
   ]
