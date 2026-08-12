@@ -1,19 +1,2448 @@
 {
   "_meta": {
     "aktualizacja": "2026-08-12",
-    "zrodla": ["lego.com (dzial Ostatnie sztuki)", "brickset.com", "brickfanatics.com"],
-    "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje.",
-    "serie_kolejnosc": ["Ideas", "Icons", "Star Wars", "Harry Potter", "Technic", "Marvel", "Creator", "City", "Friends", "Ninjago", "BrickHeadz"]
+    "zrodla": [
+      "lego.com (dzial Ostatnie sztuki)",
+      "brickset.com",
+      "brickfanatics.com",
+      "pl.brickfanatics.com"
+    ],
+    "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje.",
+    "serie_kolejnosc": [
+      "Ideas",
+      "Icons",
+      "Star Wars",
+      "Harry Potter",
+      "Technic",
+      "Marvel",
+      "Creator",
+      "City",
+      "Friends",
+      "Ninjago",
+      "BrickHeadz"
+    ]
   },
   "wycofania": [
-    { "numer": "21348", "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka", "seria": "Ideas", "elementy": 3745, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Pierwsza fala wycofań Ideas — licencyjny gigant, 3745 elementów." },
-    { "numer": "21350", "nazwa": "Szczęki", "seria": "Ideas", "elementy": 1497, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "Ekskluzywne minifigurki filmowe — po EOL rzadko tanieją." },
-    { "numer": "21349", "nazwa": "Kot w smokingu", "seria": "Ideas", "elementy": 1710, "kiedy": "lipiec 2026", "status": "przewidywane", "uwagi": "Trzecia pozycja lipcowej fali Ideas." },
-    { "numer": "76417", "nazwa": "Bank Gringotta — edycja kolekcjonerska", "seria": "Harry Potter", "elementy": 4803, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "W USA już wyprzedany — u nas ostatnie tygodnie. Flagowiec serii." },
-    { "numer": "75388", "nazwa": "Myśliwiec Jedi Boba", "seria": "Star Wars", "elementy": 625, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "Najnowsza minifigurka tytułowego bohatera — magnes kolekcjonerski." },
-    { "numer": "76294", "nazwa": "X-Men: Rezydencja X-Men", "seria": "Marvel", "elementy": 3093, "kiedy": "grudzień 2026", "status": "potwierdzone", "uwagi": "Najważniejsze wycofanie Marvela w tym roku." },
-    { "numer": "76321", "nazwa": "Spider-Man kontra Doc Ock: scena w metrze", "seria": "Marvel", "elementy": 623, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Koniec 2026." },
-    { "numer": "31378", "nazwa": "Teleskop eksploracji kosmosu", "seria": "Creator", "elementy": 726, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Funkcjonalny model kosmiczny — koniec roku." },
-    { "numer": "10305", "nazwa": "Zamek rycerzy herbu Lew", "seria": "Icons", "elementy": 4514, "kiedy": "wycofany", "status": "potwierdzone", "uwagi": "Już niedostępny w LEGO — tylko rynek wtórny i resztki magazynowe. Punkt odniesienia: tak wygląda set PO wycofaniu." }
+    {
+      "numer": "21323",
+      "nazwa": "Fortepian",
+      "seria": "Ideas",
+      "elementy": 3662,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Muzycy i fani mechanicznych cudeniek dostali dodatkowy rok na zakup grającego fortepianu, ale chwilowe braki w sklepie pokazują, że końcówka produkcji bywa kapryśna."
+    },
+    {
+      "numer": "21333",
+      "nazwa": "Gwiaździsta noc Vincenta van Gogha",
+      "seria": "Ideas",
+      "elementy": 2316,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Trójwymiarowa wersja słynnego obrazu od lat broni się jako dekoracja salonu, więc osoby łączące sztukę z klockami mają ostatnie miesiące na zakup w normalnej cenie."
+    },
+    {
+      "numer": "21335",
+      "nazwa": "Zmechanizowana latarnia",
+      "seria": "Ideas",
+      "elementy": 2065,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Latarnia z obracającym się światłem opuściła już oficjalny sklep, więc polowanie przenosi się na rynek wtórny, gdzie ceny działających egzemplarzy rosną z miesiąca na miesiąc."
+    },
+    {
+      "numer": "21344",
+      "nazwa": "Pociąg Orient Express",
+      "seria": "Ideas",
+      "elementy": 2540,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kto marzył o legendarnym ekspresie na półce, musi dziś szukać resztek magazynowych w sklepach partnerskich, bo oficjalna produkcja dobiegła końca w pierwszej połowie roku."
+    },
+    {
+      "numer": "21345",
+      "nazwa": "Aparat Polaroid OneStep SX-70",
+      "seria": "Ideas",
+      "elementy": 516,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Najtańszy bilet do kolekcji Ideas na tej liście — idealny dla fanów retro designu, którzy chcą mieć kultowy aparat na półce, zanim zniknie z oferty pod koniec roku."
+    },
+    {
+      "numer": "21348",
+      "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
+      "seria": "Ideas",
+      "elementy": 3745,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Fani papierowych RPG nie dostaną drugiej takiej okazji — to jedyny oficjalny zamek D&D z klocków i po zniknięciu ze sklepów jego cena niemal na pewno poszybuje."
+    },
+    {
+      "numer": "21349",
+      "nazwa": "Kot w smokingu",
+      "seria": "Ideas",
+      "elementy": 1710,
+      "kiedy": "2026",
+      "status": "przewidywane",
+      "uwagi": "Naturalnej wielkości kot z regulowaną pozą to prezent, który trafi nawet do osób niezbierających klocków, więc warto go upolować, zanim prognozy wycofania się potwierdzą."
+    },
+    {
+      "numer": "21350",
+      "nazwa": "Szczęki",
+      "seria": "Ideas",
+      "elementy": 1497,
+      "kiedy": "lipiec 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy filmowych klasyków powinni działać natychmiast — łódź Orca z rekinem zniknęła już z oficjalnego sklepu i zostały tylko zapasy u pośredników."
+    },
+    {
+      "numer": "21351",
+      "nazwa": "Disney: Miasteczko Halloween Tima Burtona",
+      "seria": "Ideas",
+      "elementy": 2193,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wielbiciele klimatu Tima Burtona powinni dopisać ten zestaw do jesiennej listy zakupów — po świętach 2026 Jack Skellington i spółka pożegnają się ze sklepami."
+    },
+    {
+      "numer": "21352",
+      "nazwa": "Magia Disneya",
+      "seria": "Ideas",
+      "elementy": 1103,
+      "kiedy": "2026",
+      "status": "przewidywane",
+      "uwagi": "Dla miłośników animacji Disneya to tania forma zdobycia całej galerii bohaterów w jednym pudełku, a po wycofaniu komplet figurek będzie trudny do skompletowania."
+    },
+    {
+      "numer": "21353",
+      "nazwa": "Ogród botaniczny",
+      "seria": "Ideas",
+      "elementy": 3792,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Krótki, bo zaledwie dwuletni żywot tej ogromnej wiktoriańskiej palmiarni sprawia, że fani architektury i roślin nie powinni odkładać zakupu na ostatnią chwilę."
+    },
+    {
+      "numer": "21355",
+      "nazwa": "Ewolucja przedmiotów ścisłych",
+      "seria": "Ideas",
+      "elementy": 879,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Nauczyciele i rodzice szukający prezentu z naukowym przesłaniem znajdą tu trzy minifigurki słynnych badaczy, których po tym roku nie kupią w żadnym innym zestawie."
+    },
+    {
+      "numer": "21356",
+      "nazwa": "Parowiec rzeczny",
+      "seria": "Ideas",
+      "elementy": 4090,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Największa konstrukcja w historii linii Ideas kusi budowniczych ogromnych modeli ekspozycyjnych, a rekordowe zestawy po wycofaniu drożeją na rynku wtórnym najszybciej."
+    },
+    {
+      "numer": "21360",
+      "nazwa": "Willy Wonka i fabryka czekolady",
+      "seria": "Ideas",
+      "elementy": 2025,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dziewięć figurek z kultowego filmu, w tym Oompa Loompy, czyni ten zestaw łakomym kąskiem dla łowców minifigurek — po grudniu skompletowanie ich będzie kosztowną zabawą."
+    },
+    {
+      "numer": "10280",
+      "nazwa": "Bukiet kwiatów",
+      "seria": "Icons",
+      "elementy": 756,
+      "kiedy": "2026",
+      "status": "przewidywane",
+      "uwagi": "Kultowy bukiet, którego wycofanie przekładano już kilka razy, tym razem naprawdę się żegna — a to prezent, który sprawdza się zawsze."
+    },
+    {
+      "numer": "10302",
+      "nazwa": "Optimus Prime",
+      "seria": "Icons",
+      "elementy": 1508,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Dla dorosłych fanów Transformersów to pozycja obowiązkowa — po zniknięciu ze sklepu ceny tego transformującego się modelu na rynku wtórnym zwykle szybko rosną."
+    },
+    {
+      "numer": "10305",
+      "nazwa": "Zamek rycerzy herbu Lew",
+      "seria": "Icons",
+      "elementy": 4514,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Już niedostępny w LEGO — tylko rynek wtórny i resztki magazynowe. Punkt odniesienia: tak wygląda set PO wycofaniu."
+    },
+    {
+      "numer": "10307",
+      "nazwa": "Wieża Eiffla",
+      "seria": "Icons",
+      "elementy": 10001,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Budowniczowie monumentalnych modeli mają ostatnią okazję, by kupić prawie półtorametrową wieżę bezpośrednio od LEGO w cenie katalogowej."
+    },
+    {
+      "numer": "10309",
+      "nazwa": "Sukulenty",
+      "seria": "Icons",
+      "elementy": 771,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Sukulenty od lat są hitem wśród dorosłych budowniczych, więc ich grudniowe zniknięcie z oferty to dobry powód, by kupić je zawczasu."
+    },
+    {
+      "numer": "10315",
+      "nazwa": "Zaciszny ogród",
+      "seria": "Icons",
+      "elementy": 1363,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Osoby szukające relaksującego budowania znajdą tu japoński ogród pełen detali, ale czas na zakup kończy się wraz z grudniem."
+    },
+    {
+      "numer": "10323",
+      "nazwa": "Automat do gry Pac-Man",
+      "seria": "Icons",
+      "elementy": 2651,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Miłośnicy retro gamingu powinni się pospieszyć, ponieważ mechaniczny automat Pac-Man właśnie żegna się z oficjalną ofertą."
+    },
+    {
+      "numer": "10326",
+      "nazwa": "Muzeum Historii Naturalnej",
+      "seria": "Icons",
+      "elementy": 4014,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy modularów wiedzą, że brakujący budynek potrafi później kosztować krocie, dlatego muzeum lepiej kupić w jego ostatnich miesiącach sprzedaży."
+    },
+    {
+      "numer": "10327",
+      "nazwa": "Diuna: Atreides Royal Ornithopter",
+      "seria": "Icons",
+      "elementy": 1369,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Fanom Diuny pozostało polowanie na resztki u zewnętrznych sprzedawców, bo w oficjalnym sklepie ornitopter z ruchomymi skrzydłami już się wyprzedał."
+    },
+    {
+      "numer": "10331",
+      "nazwa": "Zimorodek",
+      "seria": "Icons",
+      "elementy": 834,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi i efektowny prezent dla miłośników przyrody, który warto dopisać do listy zakupów, zanim zniknie z półek."
+    },
+    {
+      "numer": "10334",
+      "nazwa": "Radio w stylu retro",
+      "seria": "Icons",
+      "elementy": 906,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Kompaktowa propozycja dla fanów klimatu vintage, którą lepiej kupić teraz, bo sklep LEGO sprzedaje już tylko końcówki zapasów."
+    },
+    {
+      "numer": "10335",
+      "nazwa": "Endurance",
+      "seria": "Icons",
+      "elementy": 3011,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Pasjonaci wypraw polarnych mają czas tylko do końca roku, by statek Shackletona trafił na ich półkę w oficjalnej cenie."
+    },
+    {
+      "numer": "10337",
+      "nazwa": "Lamborghini Countach 5000 Quattrovalvole",
+      "seria": "Icons",
+      "elementy": 1506,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Fani motoryzacji lat 80. dostają klasyka z drzwiami nożycowymi i silnikiem V12, którego warto zgarnąć przed grudniowym pożegnaniem."
+    },
+    {
+      "numer": "10338",
+      "nazwa": "Bumblebee",
+      "seria": "Icons",
+      "elementy": 950,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Kto chce postawić na półce duet z Optimusem, powinien dokupić Bumblebee, zanim ostatnie sztuki znikną z magazynów."
+    },
+    {
+      "numer": "10340",
+      "nazwa": "Wieniec",
+      "seria": "Icons",
+      "elementy": 1194,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Świąteczny wieniec kupimy już tylko przez jeden sezon, dlatego miłośnicy dekoracji powinni zaplanować ten zakup przed grudniem."
+    },
+    {
+      "numer": "10341",
+      "nazwa": "Rakieta SLS NASA Artemis",
+      "seria": "Icons",
+      "elementy": 3601,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Entuzjaści kosmosu powinni dołączyć potężną rakietę Artemis do kolekcji NASA jeszcze w tym roku, bo potem zostanie tylko rynek wtórny."
+    },
+    {
+      "numer": "10345",
+      "nazwa": "Kompozycja kwiatowa",
+      "seria": "Icons",
+      "elementy": 1161,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Elegancka kompozycja znika zaskakująco szybko po premierze, co może uczynić ją jedną z bardziej poszukiwanych pozycji serii botanicznej."
+    },
+    {
+      "numer": "10351",
+      "nazwa": "Sherlock Holmes: Book nook",
+      "seria": "Icons",
+      "elementy": 1359,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Uroczy zakątek do wstawienia między książki spodoba się molom książkowym, a wyjątkowo krótki cykl życia czyni go łakomym kąskiem kolekcjonerskim."
+    },
+    {
+      "numer": "10353",
+      "nazwa": "Williams Racing FW14B i Nigel Mansell",
+      "seria": "Icons",
+      "elementy": 799,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kibice Formuły 1 powinni zabezpieczyć bolid Mansella już teraz, bo zestaw znika po niespełna dwóch latach, a popyt bywa większy niż dostawy."
+    },
+    {
+      "numer": "10359",
+      "nazwa": "Fontanna w ogrodzie",
+      "seria": "Icons",
+      "elementy": 1302,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Romantyczna fontanna rozeszła się błyskawicznie na wyprzedaży i dziś dostaniemy ją wyłącznie poza oficjalnym sklepem LEGO."
+    },
+    {
+      "numer": "10362",
+      "nazwa": "Francuska kawiarenka",
+      "seria": "Icons",
+      "elementy": 1101,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Wyjątkowo krótko obecna w ofercie kawiarenka zdążyła się wyprzedać, więc paryskiego klimatu trzeba teraz szukać u sprzedawców zewnętrznych."
+    },
+    {
+      "numer": "10363",
+      "nazwa": "Maszyna latająca Leonarda da Vinci",
+      "seria": "Icons",
+      "elementy": 493,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi i szybki w budowie model ucieszy każdego fana renesansowych wynalazków, zwłaszcza że pożegna się z ofertą razem z końcem roku."
+    },
+    {
+      "numer": "10370",
+      "nazwa": "Poinsecja",
+      "seria": "Icons",
+      "elementy": 608,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Poinsecja domyka świąteczną odsłonę kolekcji botanicznej i po tegorocznych świętach już do sklepów nie wróci — ostatni dzwonek dla dekoratorów."
+    },
+    {
+      "numer": "40516",
+      "nazwa": "Każdy jest wspaniały",
+      "seria": "Icons",
+      "elementy": 346,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Tęczowa ekipa minifigurek to tani, symboliczny zestaw, po który warto sięgnąć przed wycofaniem, bo podobnych propozycji LEGO nie wydaje często."
+    },
+    {
+      "numer": "75192",
+      "nazwa": "Sokół Millennium",
+      "seria": "Star Wars",
+      "elementy": 7541,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Po dziewięciu latach kończy się sprzedaż kolekcjonerskiego Sokoła UCS, przez lata największego zestawu LEGO w historii — definitywnie ostatnia szansa na tę ikonę w cenie sklepowej."
+    },
+    {
+      "numer": "75325",
+      "nazwa": "Myśliwiec N-1 Mandalorianina",
+      "seria": "Star Wars",
+      "elementy": 412,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Smukły srebrny ścigacz Din Djarina z Grogu w kokpicie to jeden z najchętniej kupowanych średnich zestawów z serialu, więc gdy zniknie ze sklepów, ceny szybko poszybują."
+    },
+    {
+      "numer": "75328",
+      "nazwa": "Hełm Mandalorianina",
+      "seria": "Star Wars",
+      "elementy": 584,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Beskarowy hełm Din Djarina to najdłużej dostępny model w serii hełmów i po jego zejściu z półek fani serialu zostaną bez tej ekspozycyjnej wizytówki."
+    },
+    {
+      "numer": "75333",
+      "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
+      "seria": "Star Wars",
+      "elementy": 282,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi myśliwiec z ery prequeli z figurkami Obi-Wana i Taun We zniknął już z oficjalnego sklepu, więc ostatnie egzemplarze można wyłapać tylko u zewnętrznych sprzedawców."
+    },
+    {
+      "numer": "75337",
+      "nazwa": "Maszyna krocząca AT-TE",
+      "seria": "Star Wars",
+      "elementy": 1082,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kroczący transporter klonów uchodził za jeden z najlepszych zestawów z Wojen klonów w historii linii, a komplet figurek 212. legionu czyni go łakomym kąskiem dla inwestorów."
+    },
+    {
+      "numer": "75345",
+      "nazwa": "Zestaw bitewny — żołnierze-klony z 501. legionu",
+      "seria": "Star Wars",
+      "elementy": 119,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Najpopularniejszy battle pack ostatnich lat, kupowany hurtowo do budowy armii klonów 501. legionu, zakończył żywot i nie ma bezpośredniego następcy w tej stylistyce."
+    },
+    {
+      "numer": "75347",
+      "nazwa": "Bombowiec TIE",
+      "seria": "Star Wars",
+      "elementy": 625,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Pierwsza od lat wersja bombowca Imperium z figurką Dartha Vadera sprzedaje ostatnie zapasy — to ostatni sposób, by mieć tę maszynę bez dopłacania spekulantom."
+    },
+    {
+      "numer": "75349",
+      "nazwa": "Hełm kapitana Rexa",
+      "seria": "Star Wars",
+      "elementy": 854,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerski hełm najsłynniejszego klona jest już wyprzedany w oficjalnym sklepie, a hełmy z tej serii po wycofaniu regularnie drożeją o kilkadziesiąt procent."
+    },
+    {
+      "numer": "75356",
+      "nazwa": "Gwiezdny superniszczyciel typu Executor",
+      "seria": "Star Wars",
+      "elementy": 630,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Flagowiec Vadera w skali midi to elegancki model na biurko dla dorosłego fana, a plakietka ostatnich sztuk oznacza, że seria midi-scale traci właśnie jeden ze swoich filarów."
+    },
+    {
+      "numer": "75367",
+      "nazwa": "Krążownik typu Venator",
+      "seria": "Star Wars",
+      "elementy": 5374,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Ogromny okręt Republiki z serii UCS, wyczekiwany przez fanów Wojen klonów latami, kończy sprzedaż w grudniu, a zestawy tej klasy po wycofaniu drożeją najmocniej."
+    },
+    {
+      "numer": "75372",
+      "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",
+      "seria": "Star Wars",
+      "elementy": 215,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Ostatni uniwersalny battle pack łączący klony i droidy w jednym pudełku — budujący dioramy bitewne powinni zaopatrzyć się w kilka sztuk przed grudniem."
+    },
+    {
+      "numer": "75373",
+      "nazwa": "Zasadzka na Mandalorze — zestaw bitewny",
+      "seria": "Star Wars",
+      "elementy": 109,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Budowniczowie armii mandaloriańskich komandosów i klonów z oddziału Ahsoki stracili właśnie główne źródło figurek, bo ten tani battle pack zniknął ze sklepu."
+    },
+    {
+      "numer": "75382",
+      "nazwa": "TIE Interceptor",
+      "seria": "Star Wars",
+      "elementy": 1931,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerski przechwytujący TIE w wersji UCS ma przed sobą tylko kilka miesięcy sprzedaży, a imperialne myśliwce w tej skali wracają do oferty niezwykle rzadko."
+    },
+    {
+      "numer": "75388",
+      "nazwa": "Myśliwiec Jedi Boba",
+      "seria": "Star Wars",
+      "elementy": 305,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Jedyny zestaw z kultowym Jedi Bobem z linii Rebuild the Galaxy właśnie się wyprzedał, a tej minifigurki nie znajdziesz w żadnym innym pudełku."
+    },
+    {
+      "numer": "75389",
+      "nazwa": "Mroczny Sokół Millennium",
+      "seria": "Star Wars",
+      "elementy": 1579,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Mroczna wersja Sokoła z Darthem Jar Jarem i innymi wykrzywionymi wariantami bohaterów to figurkowy unikat, którego LEGO raczej nigdy nie powtórzy."
+    },
+    {
+      "numer": "75391",
+      "nazwa": "Mikromyśliwiec Y-Wing kapitana Rexa",
+      "seria": "Star Wars",
+      "elementy": 99,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Za kilkadziesiąt złotych dawał figurkę kapitana Rexa, przez co znikał z półek błyskawicznie i dziś jest już nie do kupienia w oficjalnym kanale."
+    },
+    {
+      "numer": "75397",
+      "nazwa": "Barka żaglowa Jabby",
+      "seria": "Star Wars",
+      "elementy": 3942,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Wielka barka Khetanna z całą galerią postaci z pałacu Jabby znika po zaledwie dwóch latach, a tak rozbudowanej sceny z Powrotu Jedi nie było w ofercie od dekady."
+    },
+    {
+      "numer": "75399",
+      "nazwa": "Rebeliancki myśliwiec U-Wing",
+      "seria": "Star Wars",
+      "elementy": 594,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Pierwszy od lat U-Wing z bohaterami Andora i Rogue One kończy się w grudniu, a fani tej gałęzi uniwersum wiedzą, jak rzadko dostaje ona zestawy."
+    },
+    {
+      "numer": "75400",
+      "nazwa": "Mikromyśliwiec Jedi Plo Koona",
+      "seria": "Star Wars",
+      "elementy": 89,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Za niewielkie pieniądze dostajesz jedyną aktualnie dostępną figurkę Plo Koona, więc łowcy minifigurek Jedi nie powinni zwlekać do końca roku."
+    },
+    {
+      "numer": "75401",
+      "nazwa": "Interceptor Jedi Ahsoki",
+      "seria": "Star Wars",
+      "elementy": 290,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Kompaktowy myśliwiec z Ahsoką i kapitanem Rexem z finału Wojen klonów kończy produkcję, więc to ostatni moment na tani duet tych bohaterów w jednym pudełku."
+    },
+    {
+      "numer": "75404",
+      "nazwa": "Krążownik szturmowy typu Acclamator",
+      "seria": "Star Wars",
+      "elementy": 450,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Okręt desantowy Republiki w skali midi żegna się ze sprzedażą po ledwie kilkunastu miesiącach, co czyni go kandydatem na jeden z najkrócej dostępnych modeli serii."
+    },
+    {
+      "numer": "75405",
+      "nazwa": "Krążownik typu Home One",
+      "seria": "Star Wars",
+      "elementy": 559,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Flagowy krążownik Rebelii admirała Ackbara można zgarnąć z 30-procentową przeceną na ostatnich sztukach, co rzadko zdarza się zestawom tuż przed wycofaniem."
+    },
+    {
+      "numer": "75406",
+      "nazwa": "Wahadłowiec dowodzenia Kylo Rena",
+      "seria": "Star Wars",
+      "elementy": 386,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Wydany na dziesięciolecie Przebudzenia Mocy midi-model wahadłowca Kylo Rena schodzi z oferty razem z rocznicową falą, co zwykle oznacza brak wznowień."
+    },
+    {
+      "numer": "75410",
+      "nazwa": "Myśliwiec N-1 Mando i Grogu",
+      "seria": "Star Wars",
+      "elementy": 92,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Uproszczona wersja N-1 dla najmłodszych to najtańszy sposób na duet Mando i Grogu przed kinowym filmem, ale tylko do końca roku."
+    },
+    {
+      "numer": "75412",
+      "nazwa": "Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny",
+      "seria": "Star Wars",
+      "elementy": 119,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kto chce zbudować mroczny oddział Thrawna z serialu Ahsoka, ma czas do grudnia, bo to jedyny battle pack z nocnymi szturmowcami w historii."
+    },
+    {
+      "numer": "75413",
+      "nazwa": "Czołg Republiki Juggernaut",
+      "seria": "Star Wars",
+      "elementy": 813,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Dziesięciokołowy transporter z bitwy o Kashyyyk z figurkami Yody i klonów-zwiadowców zniknie po około półtora roku — wyjątkowo krótko jak na tak duży pojazd."
+    },
+    {
+      "numer": "75414",
+      "nazwa": "Płomienny śmigacz śnieżny",
+      "seria": "Star Wars",
+      "elementy": 349,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Fantazyjny śmigacz z linii Rebuild the Galaxy kończy sprzedaż wraz z całą tą eksperymentalną odnogą, więc drugiej szansy raczej nie będzie."
+    },
+    {
+      "numer": "75415",
+      "nazwa": "Hełm Kylo Rena",
+      "seria": "Star Wars",
+      "elementy": 529,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Rocznicowy hełm Kylo Rena ze srebrnymi spękaniami będzie na półkach ledwie kilkanaście miesięcy, a krótko sprzedawane hełmy najszybciej zyskują na wartości."
+    },
+    {
+      "numer": "75428",
+      "nazwa": "Droid bojowy z platformą STAP",
+      "seria": "Star Wars",
+      "elementy": 1088,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Duża figurka droida bojowego na śmigaczu STAP debiutowała dopiero w 2026 roku, więc grudniowe wycofanie czyni z niej jeden z najkrócej sprzedawanych modeli figurkowych."
+    },
+    {
+      "numer": "75429",
+      "nazwa": "Hełm operatora AT-AT",
+      "seria": "Star Wars",
+      "elementy": 730,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy kompletujący galerię imperialnych hełmów muszą dopiąć zakup operatora AT-AT przed grudniem, bo po wycofaniu luk w tej serii nie da się tanio załatać."
+    },
+    {
+      "numer": "75430",
+      "nazwa": "Ewok Wicket",
+      "seria": "Star Wars",
+      "elementy": 1010,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Ponad tysiąc klocków futrzanego Wicketa to prezentowy pewniak dla fanów Powrotu Jedi, tym cenniejszy, że LEGO błyskawicznie kończy jego produkcję."
+    },
+    {
+      "numer": "75435",
+      "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+      "seria": "Star Wars",
+      "elementy": 976,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Nowy MTT z desantem droidów i klonami z Felucji wypada z oferty w tym samym roku, w którym zadebiutował, więc armie Separatystów warto skompletować od razu."
+    },
+    {
+      "numer": "75456",
+      "nazwa": "LEGO Star Wars — kalendarz adwentowy na 2026 rok",
+      "seria": "Star Wars",
+      "elementy": 293,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Świąteczny kalendarz z 24 mini niespodziankami sprzedaje się tylko przez jeden sezon, a w poprzednich latach znikał na długo przed grudniem."
+    },
+    {
+      "numer": "76417",
+      "nazwa": "Bank Gringotta — edycja kolekcjonerska",
+      "seria": "Harry Potter",
+      "elementy": 4801,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Największy bank świata czarodziejów z 13 minifigurkami i smokiem to flagowiec serii — inwestycja dla dorosłych kolekcjonerów, którzy nie chcą później przepłacać na rynku wtórnym."
+    },
+    {
+      "numer": "76419",
+      "nazwa": "Zamek Hogwart i błonia",
+      "seria": "Harry Potter",
+      "elementy": 2660,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Miniaturowa panorama całego zamku z błoniami to najtańszy sposób na ekspozycyjny Hogwart dla dorosłych, a po grudniu takiej okazji w oficjalnej ofercie może już nie być."
+    },
+    {
+      "numer": "76425",
+      "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
+      "seria": "Harry Potter",
+      "elementy": 337,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi zestaw z sową i pokoikiem Harry'ego zniknął już z oficjalnego sklepu, więc łowcy kompletów muszą szukać go u zewnętrznych sprzedawców."
+    },
+    {
+      "numer": "76429",
+      "nazwa": "Mówiąca Tiara Przydziału",
+      "seria": "Harry Potter",
+      "elementy": 561,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Gadżet z modułem dźwiękowym przydzielającym do domów Hogwartu wyprzedał się w oficjalnym sklepie, a drugiej takiej tiary LEGO raczej szybko nie wyda."
+    },
+    {
+      "numer": "76430",
+      "nazwa": "Sowiarnia w Hogwarcie",
+      "seria": "Harry Potter",
+      "elementy": 364,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Sowiarnia dostała od LEGO dodatkowe pół roku życia, ale ten czas właśnie się skończył — modułowy Hogwart można uzupełnić już tylko z resztek magazynowych."
+    },
+    {
+      "numer": "76435",
+      "nazwa": "Zamek Hogwart: Wielka Sala",
+      "seria": "Harry Potter",
+      "elementy": 1732,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Serce modułowej serii zamkowej wyparowało z lego.com, a bez Wielkiej Sali cała rozbudowywana bryła Hogwartu traci sens — stąd presja, by dokupić ją, póki leży w sklepach."
+    },
+    {
+      "numer": "76437",
+      "nazwa": "Nora — edycja kolekcjonerska",
+      "seria": "Harry Potter",
+      "elementy": 2405,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Krzywy dom Weasleyów z kominkiem sieci Fiuu bywa okresowo niedostępny już teraz, co sugeruje, że pod koniec roku zniknie szybciej, niż wskazuje kalendarz."
+    },
+    {
+      "numer": "76442",
+      "nazwa": "Zamek Hogwart: Zajęcia z zaklęć i uroków",
+      "seria": "Harry Potter",
+      "elementy": 204,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Najtańszy moduł rozbudowywanego zamku z profesorem Flitwickiem warto dorzucić do koszyka przy okazji, bo po wycofaniu domykanie kolekcji klas będzie kosztować nieproporcjonalnie dużo."
+    },
+    {
+      "numer": "76443",
+      "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
+      "seria": "Harry Potter",
+      "elementy": 617,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Duża figurka Hagrida na motocyklu z bocznym wózkiem to gratka dla fanów pierwszego filmu, którzy teraz muszą polować na końcówki stanów magazynowych."
+    },
+    {
+      "numer": "76445",
+      "nazwa": "Zamek Hogwart: zajęcia z zielarstwa",
+      "seria": "Harry Potter",
+      "elementy": 390,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Szklarnia z mandragorami dopełnia zamkowe moduły i już teraz schodzi na zamówienia oczekujące, co dla kompletujących serię jest sygnałem ostrzegawczym."
+    },
+    {
+      "numer": "76447",
+      "nazwa": "Zamek Hogwart: lekcja latania na miotle",
+      "seria": "Harry Potter",
+      "elementy": 651,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dziedziniec z lekcją latania rozszerza modułowy Hogwart o scenę z pierwszego tomu i rozsądniej kupić go teraz, niż dopłacać po zniknięciu serii z oferty."
+    },
+    {
+      "numer": "76448",
+      "nazwa": "Fawkes: feniks Dumbledore'a",
+      "seria": "Harry Potter",
+      "elementy": 299,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Niewielki, ruchomy feniks za mniej niż sto złotych jest łatwym prezentem i jeszcze łatwiejszym celem spekulantów, kiedy resztki zapasów znikną z półek."
+    },
+    {
+      "numer": "76449",
+      "nazwa": "Potworna księga potworów z zębami",
+      "seria": "Harry Potter",
+      "elementy": 518,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Kłapiąca zębami księga to jeden z najbardziej pomysłowych gadżetów na półkę fana, jakich LEGO po wycofaniu zwykle nie wznawia."
+    },
+    {
+      "numer": "76450",
+      "nazwa": "Book nook: Ekspres do Hogwartu",
+      "seria": "Harry Potter",
+      "elementy": 832,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wciskany między książki peron 9¾ łączy modę na book nooki z magią Hogwartu, więc miłośnicy regałowych dioram nie powinni zwlekać do świąt."
+    },
+    {
+      "numer": "76451",
+      "nazwa": "Privet Drive: Wizyta ciotki Marge",
+      "seria": "Harry Potter",
+      "elementy": 639,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dom Dursleyów z komórką pod schodami i nadmuchaną ciotką Marge to scenka, po którą warto sięgnąć przed końcem roku, jeśli buduje się filmową uliczkę Privet Drive."
+    },
+    {
+      "numer": "76452",
+      "nazwa": "Markowy sprzęt do quidditcha i lodziarnia",
+      "seria": "Harry Potter",
+      "elementy": 795,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dwa sklepiki z ulicy Pokątnej rozbudowują czarodziejski deptak, a po ich zejściu z oferty skompletowanie pełnej pierzei stanie się wyraźnie droższe."
+    },
+    {
+      "numer": "76453",
+      "nazwa": "Dwór Malfoyów",
+      "seria": "Harry Potter",
+      "elementy": 1601,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Mroczna siedziba Malfoyów z Voldemortem i Nagini krótko gościła w ofercie, więc kto chce mieć kwaterę czarnej strony, powinien działać, zanim stany magazynowe stopnieją."
+    },
+    {
+      "numer": "76458",
+      "nazwa": "Rodzina testrali",
+      "seria": "Harry Potter",
+      "elementy": 548,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Figurki testrali z Zakazanego Lasu wyróżniają się na tle typowych zestawów i mogą stać się poszukiwaną ciekawostką, gdy w grudniu opuszczą katalog."
+    },
+    {
+      "numer": "76467",
+      "nazwa": "Dom Luny Lovegood",
+      "seria": "Harry Potter",
+      "elementy": 764,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Cylindryczny dom Lovegoodów z patronusem-zającem powstał na 25-lecie serii i właśnie rocznicowy rodowód czyni go łakomym kąskiem przed wycofaniem."
+    },
+    {
+      "numer": "76470",
+      "nazwa": "Zaczarowany latający Ford Anglia",
+      "seria": "Harry Potter",
+      "elementy": 868,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Duży, ekspozycyjny Ford Anglia w skali wyraźnie większej niż wcześniejsze wersje ucieszy zmotoryzowanych fanów sagi, o ile zdążą przed grudniowym pożegnaniem."
+    },
+    {
+      "numer": "42130",
+      "nazwa": "BMW M 1000 RR",
+      "seria": "Technic",
+      "elementy": 1921,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy dwóch kółek nie powinni zwlekać — to już ostatnie egzemplarze dopracowanej repliki motocykla BMW, a po wycofaniu ceny zwykle szybko rosną."
+    },
+    {
+      "numer": "42143",
+      "nazwa": "Ferrari Daytona SP3",
+      "seria": "Technic",
+      "elementy": 3778,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Flagowa replika Ferrari z niemal 3,8 tys. elementów kończy sklepowy żywot, a właśnie takie supersamochody drożeją po wycofaniu najszybciej."
+    },
+    {
+      "numer": "42151",
+      "nazwa": "Bugatti Bolide",
+      "seria": "Technic",
+      "elementy": 905,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Jeśli szukasz przystępnego cenowo supersamochodu na prezent dla nastolatka, to kompaktowe Bugatti warto brać, póki jeszcze leży na półkach."
+    },
+    {
+      "numer": "42154",
+      "nazwa": "Ford GT, wersja z 2022 roku",
+      "seria": "Technic",
+      "elementy": 1466,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fani amerykańskiej motoryzacji mogą jeszcze polować na promocje, bo prognozy dają temu Fordowi w skali 1:12 czas tylko do końca roku."
+    },
+    {
+      "numer": "42158",
+      "nazwa": "NASA Mars Rover Perseverance",
+      "seria": "Technic",
+      "elementy": 1132,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Miłośnicy kosmosu, którzy chcą mieć łazik z ruchomym zawieszeniem i aplikacją AR, powinni dopisać go do koszyka przed wyczerpaniem zapasów."
+    },
+    {
+      "numer": "42160",
+      "nazwa": "Audi RS Q e-tron",
+      "seria": "Technic",
+      "elementy": 914,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Rajdowe Audi ze sterowaniem przez aplikację zniknęło już z oficjalnego sklepu, więc zostaje polowanie u zewnętrznych sprzedawców, zanim ceny wystrzelą."
+    },
+    {
+      "numer": "42161",
+      "nazwa": "Lamborghini Huracán Tecnica",
+      "seria": "Technic",
+      "elementy": 806,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Jako niedrogi pierwszy supersamochód Technic dla młodszego budowniczego sprawdzi się świetnie, ale oferta właśnie dobiega końca."
+    },
+    {
+      "numer": "42164",
+      "nazwa": "Wyścigowy łazik terenowy",
+      "seria": "Technic",
+      "elementy": 219,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Mały buggy z zawieszeniem to tani wstęp do serii, jednak plakietka ostatnich sztuk sugeruje, że długo go już nie będzie."
+    },
+    {
+      "numer": "42167",
+      "nazwa": "Śmieciarka Mack LR Electric",
+      "seria": "Technic",
+      "elementy": 503,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Rodzice szukający funkcjonalnej zabawki dla młodszego dziecka mają ostatnią szansę na śmieciarkę z podnoszonym pojemnikiem."
+    },
+    {
+      "numer": "42170",
+      "nazwa": "Motocykl Kawasaki Ninja H2R",
+      "seria": "Technic",
+      "elementy": 643,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Motocykliści doceniający agresywną sylwetkę Kawasaki powinni mieć ten model na radarze, bo społeczność typuje jego koniec na grudzień."
+    },
+    {
+      "numer": "42171",
+      "nazwa": "Mercedes-AMG F1 W14 E Performance",
+      "seria": "Technic",
+      "elementy": 1642,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Kibice Formuły 1 mają jeszcze kilka miesięcy na skompletowanie bolidu Mercedesa w skali 1:8, ale odkładanie zakupu na 2027 rok byłoby ryzykowne."
+    },
+    {
+      "numer": "42173",
+      "nazwa": "Szary hipersamochód Koenigsegg Jesko Absolut",
+      "seria": "Technic",
+      "elementy": 801,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Jedna z tańszych licencjonowanych wyścigówek w serii, po którą warto sięgnąć przed przewidywanym grudniowym pożegnaniem."
+    },
+    {
+      "numer": "42175",
+      "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
+      "seria": "Technic",
+      "elementy": 2274,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Duet maszyn Volvo ucieszy fanów placu budowy, a przy tylu elementach po wycofaniu trudno będzie go upolować w rozsądnej cenie."
+    },
+    {
+      "numer": "42176",
+      "nazwa": "Samochód wyścigowy Porsche GT4 e-Performance",
+      "seria": "Technic",
+      "elementy": 834,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Elektryczne Porsche sterowane aplikacją łączy zabawę z kolekcjonerstwem i według prognoz zniknie wraz z końcem roku."
+    },
+    {
+      "numer": "42177",
+      "nazwa": "Mercedes-Benz G 500 PROFESSIONAL Line",
+      "seria": "Technic",
+      "elementy": 2891,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Ogromna terenówka Mercedesa z mnóstwem funkcji technicznych to gratka dla zaawansowanych konstruktorów, którą lepiej zabezpieczyć przed świąteczną gorączką."
+    },
+    {
+      "numer": "42179",
+      "nazwa": "Planeta Ziemia i Księżyc na orbicie",
+      "seria": "Technic",
+      "elementy": 526,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Edukacyjny model orbity przyda się w każdym domu z ciekawskim dzieckiem, a prognozy dają mu czas tylko do grudnia."
+    },
+    {
+      "numer": "42197",
+      "nazwa": "Koparko-ładowarka",
+      "seria": "Technic",
+      "elementy": 104,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Mała koparko-ładowarka za kilkadziesiąt złotych to idealny drobiazg pod choinkę — o ile faktycznie doczeka końca roku na półkach."
+    },
+    {
+      "numer": "42198",
+      "nazwa": "Samolot transportowy",
+      "seria": "Technic",
+      "elementy": 333,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Młody lotnik ucieszy się z maszyny z obracającym się śmigłem, więc to dobry moment, by odłożyć ją na prezent przed grudniem."
+    },
+    {
+      "numer": "42199",
+      "nazwa": "Monster Jam DIGatron",
+      "seria": "Technic",
+      "elementy": 218,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fani widowiskowych monster trucków powinni pamiętać, że DIGatron z napędem pull-back jedzie według przewidywań ostatnie okrążenie."
+    },
+    {
+      "numer": "42200",
+      "nazwa": "Monster Jam ThunderROARus z napędem typu pull-back",
+      "seria": "Technic",
+      "elementy": 232,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "ThunderROARus to tani sposób na wciągnięcie dziecka w serię Technic, zanim zestaw zgodnie z prognozami zjedzie ze sklepowych półek."
+    },
+    {
+      "numer": "42201",
+      "nazwa": "Badawcza łódź podwodna",
+      "seria": "Technic",
+      "elementy": 413,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Mali odkrywcy głębin polubią łódź z działającą wyciągarką, a zakup przed grudniem oszczędzi polowania na wyprzedażach."
+    },
+    {
+      "numer": "42202",
+      "nazwa": "Motocykl Ducati Panigale V4 S",
+      "seria": "Technic",
+      "elementy": 1603,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Duża replika Ducati w skali 1:5 dla dorosłych pasjonatów jednośladów prawdopodobnie nie doczeka 2027 roku, więc warto śledzić jej cenę już teraz."
+    },
+    {
+      "numer": "42203",
+      "nazwa": "Wywrotka z przechylaną skrzynią",
+      "seria": "Technic",
+      "elementy": 462,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Klasyczna wywrotka w rozsądnej cenie to solidny wybór dla początkujących konstruktorów, którym przewidywania dają czas do grudnia."
+    },
+    {
+      "numer": "42204",
+      "nazwa": "Fast and Furious Toyota Supra MK4",
+      "seria": "Technic",
+      "elementy": 810,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Kultowa Supra z filmowej sagi przyciągnie fanów kina akcji i japońskiej motoryzacji, którym zostało kilka miesięcy na zakup."
+    },
+    {
+      "numer": "42205",
+      "nazwa": "Chevrolet Corvette Stingray",
+      "seria": "Technic",
+      "elementy": 732,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wielbiciele amerykańskich muscle carów powinni brać pomarańczową Corvette teraz, bo prognozy wskazują na koniec sprzedaży wraz z rokiem 2026."
+    },
+    {
+      "numer": "42208",
+      "nazwa": "Aston Martin Valkyrie",
+      "seria": "Technic",
+      "elementy": 707,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Hipersamochód Astona ze średniej półki cenowej kusi kolekcjonerów wyścigówek, a typowany termin zniknięcia to koniec grudnia."
+    },
+    {
+      "numer": "42209",
+      "nazwa": "Ładowarka kołowa Volvo L120 Electric",
+      "seria": "Technic",
+      "elementy": 973,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fani maszyn budowlanych, którzy chcą domknąć kolekcję Volvo, zrobią to najbezpieczniej przed końcem roku."
+    },
+    {
+      "numer": "42211",
+      "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
+      "seria": "Technic",
+      "elementy": 1080,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Wyprzedaż magazynowa z rabatem 40% czyni księżycowy łazik wyjątkowo opłacalnym celem dla łowców okazji, zanim zniknie na dobre."
+    },
+    {
+      "numer": "42215",
+      "nazwa": "Koparka Volvo EC500 Hybrid",
+      "seria": "Technic",
+      "elementy": 2359,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Flagowa koparka Volvo już teraz bywa chwilowo niedostępna, co dla poważnych kolekcjonerów maszyn jest sygnałem, by nie odkładać zakupu."
+    },
+    {
+      "numer": "42217",
+      "nazwa": "Niebieski Chevrolet Corvette Stingray",
+      "seria": "Technic",
+      "elementy": 732,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Niebieski wariant Corvette może zniknąć równie szybko jak pomarańczowy, więc kompletujący oba kolory nie powinni czekać do ostatniej chwili."
+    },
+    {
+      "numer": "42233",
+      "nazwa": "Potężne maszyny",
+      "seria": "Technic",
+      "elementy": 44,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Miniaturowy zestaw dopiero wchodzi do sprzedaży, ale krótkie roczniki znikają błyskawicznie, więc łowcy kompletnych kolekcji powinni sięgnąć po niego od razu."
+    },
+    {
+      "numer": "11198",
+      "nazwa": "Pościg Spina za Electro w dinopojeździe",
+      "seria": "Marvel",
+      "elementy": 124,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Dla przedszkolaka zaczynającego przygodę ze Spideyem to łatwy prezent, który po grudniu zniknie z oficjalnej oferty."
+    },
+    {
+      "numer": "11200",
+      "nazwa": "Bitwa Spidey'ego i Gobby'ego przy domku na drzewie",
+      "seria": "Marvel",
+      "elementy": 143,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Jeśli maluch ogląda serial Spidey i super-kumple, warto dorzucić ten domek na drzewie do świątecznych zakupów, zanim zestaw pożegna się ze sklepami."
+    },
+    {
+      "numer": "11207",
+      "nazwa": "Spidey: podwodne pojazdy",
+      "seria": "Marvel",
+      "elementy": 154,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Podwodny zestaw dla najmłodszych fanów Pajączka będzie produkowany tylko do końca roku, więc to ostatni sezon na zakup w normalnej cenie."
+    },
+    {
+      "numer": "76294",
+      "nazwa": "X-Men: Instytut Xaviera",
+      "seria": "Marvel",
+      "elementy": 3093,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Największy zestaw Marvela w tej fali wycofań i najważniejsze tegoroczne pożegnanie serii — po grudniu ceny modułowej rezydencji X-Men niemal na pewno poszybują."
+    },
+    {
+      "numer": "76297",
+      "nazwa": "Tańczący Groot",
+      "seria": "Marvel",
+      "elementy": 459,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Fani Strażników Galaktyki mają już tylko rynek wtórny, bo grający i tańczący Groot zniknął ze sklepu LEGO w lipcowej fali wycofań."
+    },
+    {
+      "numer": "76307",
+      "nazwa": "Mech Iron Mana kontra Ultron",
+      "seria": "Marvel",
+      "elementy": 101,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Tani mech dla sześciolatka zniknie z półek wraz z końcem roku, więc jako drobny upominek sprawdzi się właśnie teraz."
+    },
+    {
+      "numer": "76309",
+      "nazwa": "Spider-Man kontra muscle car Venoma",
+      "seria": "Marvel",
+      "elementy": 254,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Miłośnicy pojazdów w klimacie Marvela mają czas do grudnia, aby dodać wóz Venoma do kolekcji prosto z oficjalnego sklepu."
+    },
+    {
+      "numer": "76311",
+      "nazwa": "Multiwersum: Miles Morales kontra Spot",
+      "seria": "Marvel",
+      "elementy": 375,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy uniwersum Spider-Verse muszą teraz szukać tego zestawu poza oficjalnym sklepem, ponieważ produkcja została już zakończona."
+    },
+    {
+      "numer": "76312",
+      "nazwa": "Monster truck Hulka kontra Thanos",
+      "seria": "Marvel",
+      "elementy": 229,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Rodzice szukający niedrogiego prezentu dla młodszego fana Avengers powinni się pospieszyć, bo schodzą już ostatnie partie tego pojazdu Hulka."
+    },
+    {
+      "numer": "76313",
+      "nazwa": "Logo MARVEL z minifigurkami",
+      "seria": "Marvel",
+      "elementy": 931,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Budowane logo z wyskakującymi minifigurkami Avengers to gratka na półkę każdego dorosłego fana, a po tym roku już go w sklepach nie będzie."
+    },
+    {
+      "numer": "76314",
+      "nazwa": "Kapitan Ameryka: Wojna bohaterów — bitwa",
+      "seria": "Marvel",
+      "elementy": 736,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Jedyna klockowa wersja lotniskowej bitwy z Civil War — kto chce komplet minifigurek z tej sceny, nie powinien czekać na wyprzedanie ostatnich sztuk."
+    },
+    {
+      "numer": "76315",
+      "nazwa": "Laboratorium Iron Mana: Zbrojownia",
+      "seria": "Marvel",
+      "elementy": 384,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kto kompletuje zbroje Tony'ego Starka, powinien dopisać zbrojownię do listy zakupów na ten rok — to jej ostatnie miesiące w produkcji."
+    },
+    {
+      "numer": "76316",
+      "nazwa": "Figurka Fantastycznej Czwórki kontra Galactus",
+      "seria": "Marvel",
+      "elementy": 427,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Po kinowym powrocie Fantastycznej Czwórki ta duża figurka Galactusa może szybko zyskać na wartości, a jej produkcja kończy się w grudniu."
+    },
+    {
+      "numer": "76317",
+      "nazwa": "Mieszkanie Petera Parkera",
+      "seria": "Marvel",
+      "elementy": 394,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Klimatyczne mieszkanie Petera to jeden z ciekawszych zestawów scenkowych Marvela, dlatego warto je kupić przed grudniowym końcem sprzedaży."
+    },
+    {
+      "numer": "76319",
+      "nazwa": "Kapitan Ameryka kontra Thanos",
+      "seria": "Marvel",
+      "elementy": 107,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Czterolatki dostają tu prostą bitwę Avengers na start przygody z klockami, ale tylko do wyczerpania zapasów po grudniu."
+    },
+    {
+      "numer": "76320",
+      "nazwa": "Iron Man i War Machine kontra drony Hammera",
+      "seria": "Marvel",
+      "elementy": 204,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Budżetowa scenka z Iron Mana 2 kosztuje mniej niż sto złotych, więc rozsądniej wziąć ją teraz, niż przepłacać po wycofaniu."
+    },
+    {
+      "numer": "76321",
+      "nazwa": "Spider-Man kontra Doc Ock: scena w metrze",
+      "seria": "Marvel",
+      "elementy": 393,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kultowa walka w metrze ze Spider-Mana 2 doczekała się klockowej wersji na krótko, bo zestaw pożegna się z ofertą już z końcem tego roku."
+    },
+    {
+      "numer": "76322",
+      "nazwa": "Avengers: Koniec gry — Thor kontra Chitauri",
+      "seria": "Marvel",
+      "elementy": 373,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Zbieracze scen z Endgame powinni dopiąć ten zestaw z Thorem jeszcze w tym roku, bo grudzień zamyka jego sprzedaż."
+    },
+    {
+      "numer": "76323",
+      "nazwa": "Avengers: Koniec gry — ostateczna bitwa",
+      "seria": "Marvel",
+      "elementy": 621,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Finałowe starcie z Thanosem to zestaw, po który fani MCU sięgną i za dwa lata, tyle że wtedy już po kolekcjonerskich cenach."
+    },
+    {
+      "numer": "76324",
+      "nazwa": "Spider-Man i Oscorp",
+      "seria": "Marvel",
+      "elementy": 808,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Duży zestaw z wieżą Oscorpu daje mnóstwo zabawy i minifigurek, a jego obecność w sklepach kończy się wraz z tym rokiem."
+    },
+    {
+      "numer": "76325",
+      "nazwa": "Avengers: Czas Ultrona — Quinjet",
+      "seria": "Marvel",
+      "elementy": 1131,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Ponad tysiąc elementów i flagowy odrzutowiec Avengers czynią z Quinjeta jednego z najmocniejszych kandydatów do zakupu przed grudniowym wycofaniem."
+    },
+    {
+      "numer": "76326",
+      "nazwa": "Popiersie Iron Spider-Mana",
+      "seria": "Marvel",
+      "elementy": 379,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Na biurko dorosłego fana Marvela trudno o lepszą ozdobę niż to popiersie, którego produkcja dobiega końca w grudniu."
+    },
+    {
+      "numer": "76327",
+      "nazwa": "Popiersie Iron Mana MK4",
+      "seria": "Marvel",
+      "elementy": 436,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy zbroi Marka IV mają ostatnie miesiące, żeby ustawić to popiersie obok Iron Spidera, zanim oba znikną z oferty."
+    },
+    {
+      "numer": "76329",
+      "nazwa": "Maska Milesa Moralesa",
+      "seria": "Marvel",
+      "elementy": 487,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Efektowna maska Milesa z linii 18+ świetnie wygląda na półce, a kto zwleka z zakupem do przyszłego roku, będzie skazany na rynek wtórny."
+    },
+    {
+      "numer": "31136",
+      "nazwa": "Egzotyczna papuga",
+      "seria": "Creator",
+      "elementy": 253,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Rodzice szukający efektownego i niedrogiego prezentu nie powinni zwlekać do świąt, bo papuga zniknie z oferty wraz z końcem roku."
+    },
+    {
+      "numer": "31148",
+      "nazwa": "Wrotka w stylu retro",
+      "seria": "Creator",
+      "elementy": 342,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Nostalgiczna wrotka trafia w gusta dorosłych wychowanych w latach 80. i 90., a grudniowy termin wycofania oznacza ostatnie miesiące zakupów w normalnej cenie."
+    },
+    {
+      "numer": "31149",
+      "nazwa": "Kwiaty w konewce",
+      "seria": "Creator",
+      "elementy": 420,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Rodziny szukające dekoracyjnego zestawu do wspólnego budowania muszą się spieszyć, bo po lipcowym wycofaniu w sklepach zostały tylko resztki magazynowe."
+    },
+    {
+      "numer": "31150",
+      "nazwa": "Dzikie zwierzęta safari",
+      "seria": "Creator",
+      "elementy": 780,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Dzieci i dorośli miłośnicy zwierząt mają już tylko ostatnią szansę na upolowanie tej żyrafy, zanim ceny u pośredników pójdą w górę."
+    },
+    {
+      "numer": "31151",
+      "nazwa": "T-rex",
+      "seria": "Creator",
+      "elementy": 626,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Dla młodych fanów dinozaurów był to jeden z najciekawszych Creatorów ostatnich lat, więc egzemplarze z końcówek zapasów warto łapać od razu."
+    },
+    {
+      "numer": "31152",
+      "nazwa": "Astronauta",
+      "seria": "Creator",
+      "elementy": 647,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kosmiczna figurka świetnie zdobiła półki nastolatków i dorosłych, a dziś kupimy ją wyłącznie poza oficjalnym sklepem, bo LEGO wyprzedało zapasy."
+    },
+    {
+      "numer": "31157",
+      "nazwa": "Egzotyczny paw",
+      "seria": "Creator",
+      "elementy": 355,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kolekcjonerzy ptasich modeli powinni działać szybko, ponieważ paw zniknął z oferty LEGO w lipcu i na rynku wtórnym zaczyna drożeć."
+    },
+    {
+      "numer": "31160",
+      "nazwa": "Statek powietrzny: samolot wyścigowy",
+      "seria": "Creator",
+      "elementy": 178,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi samolocik dla najmłodszych konstruktorów właśnie zakończył rynkowy żywot, więc to ostatni moment na tani prezent dla kilkulatka."
+    },
+    {
+      "numer": "31162",
+      "nazwa": "Uroczy króliczek",
+      "seria": "Creator",
+      "elementy": 326,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Króliczek przebudowywany w lamę lub fokę był idealnym upominkiem dla dzieci, a po wyprzedaniu w oficjalnym sklepie trzeba go szukać u zewnętrznych sprzedawców."
+    },
+    {
+      "numer": "31163",
+      "nazwa": "Psotny kot",
+      "seria": "Creator",
+      "elementy": 407,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Miłośnicy kotów i młodsi budowniczowie polubili ten figlarny model, a że jego dalszy los jest niepewny, bezpieczniej kupić go zawczasu."
+    },
+    {
+      "numer": "31164",
+      "nazwa": "Kosmiczny robot",
+      "seria": "Creator",
+      "elementy": 281,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Fani robotów kupią ten mały kosmiczny zestaw już tylko z resztek sklepowych albo z drugiej ręki, bo produkcję zakończono w lipcu."
+    },
+    {
+      "numer": "31169",
+      "nazwa": "Maszyna do pisania z kwiatami",
+      "seria": "Creator",
+      "elementy": 363,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Maszyna do pisania z bukietem celuje w dorosłych urządzających biurka w stylu vintage i po grudniu zniknie z oficjalnej sprzedaży."
+    },
+    {
+      "numer": "31171",
+      "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+      "seria": "Creator",
+      "elementy": 780,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Imponujący nosorożec to gratka dla starszych dzieci i dorosłych kolekcjonerów zwierzęcych modeli, którą warto zdobyć przed grudniowym końcem produkcji."
+    },
+    {
+      "numer": "31172",
+      "nazwa": "Gramofon z kwiatami",
+      "seria": "Creator",
+      "elementy": 266,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Retro gramofon łączy pokolenia przy wspólnym budowaniu, a po grudniowym wycofaniu może szybko stać się poszukiwanym okazem."
+    },
+    {
+      "numer": "31174",
+      "nazwa": "Telefon w stylu retro",
+      "seria": "Creator",
+      "elementy": 383,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kultowy telefon z tarczą przypadnie do gustu dorosłym sentymentalistom, a zamówienie lepiej złożyć teraz, bo dostępność bywa już ograniczona."
+    },
+    {
+      "numer": "31175",
+      "nazwa": "Zamek jednorożca",
+      "seria": "Creator",
+      "elementy": 390,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Dzieci marzące o jednorożcach dostają zamek do trzykrotnej przebudowy, więc to dobry pomysł na ostatnią Gwiazdkę przed zniknięciem zestawu."
+    },
+    {
+      "numer": "31378",
+      "nazwa": "Teleskop do odkrywania kosmosu",
+      "seria": "Creator",
+      "elementy": 278,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Choć teleskop debiutował dopiero w styczniu, pożegnanie zaplanowano już na grudzień, więc młodzi astronomowie mają wyjątkowo krótkie okno na zakup."
+    },
+    {
+      "numer": "40468",
+      "nazwa": "Żółta taksówka",
+      "seria": "Creator",
+      "elementy": 124,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Miniaturowa taksówka po pięciu latach w ofercie dojeżdża do zajezdni, a to tani i sympatyczny drobiazg dla każdego fana motoryzacji."
+    },
+    {
+      "numer": "40647",
+      "nazwa": "Kwiaty lotosu",
+      "seria": "Creator",
+      "elementy": 220,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Budowane z klocków lotosy to tani dodatek do botanicznych kolekcji dorosłych, dlatego po wycofaniu warto jeszcze przejrzeć półki lokalnych sklepów."
+    },
+    {
+      "numer": "40725",
+      "nazwa": "Kwiaty wiśni",
+      "seria": "Creator",
+      "elementy": 430,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Gałązki wiśni pozostają jednym z najtańszych wejść w kwiatowe budowanie dla dorosłych, dlatego przed grudniowym wycofaniem warto dorzucić je do zamówienia."
+    },
+    {
+      "numer": "60312",
+      "nazwa": "Radiowóz",
+      "seria": "City",
+      "elementy": 94,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Prosty radiowóz to tani sposób, żeby kilkulatek zaczął przygodę z miejską policją LEGO — warto dorzucić go do koszyka, zanim w grudniu zniknie z półek."
+    },
+    {
+      "numer": "60316",
+      "nazwa": "Posterunek policji",
+      "seria": "City",
+      "elementy": 668,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Jeśli dziecko marzy o własnym posterunku z aresztem, to ostatni rok, by kupić ten klasyk w normalnej cenie sklepowej."
+    },
+    {
+      "numer": "60337",
+      "nazwa": "Ekspresowy pociąg pasażerski",
+      "seria": "City",
+      "elementy": 764,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fani kolejek powinni się pospieszyć, bo zmotoryzowane pociągi City po wycofaniu drożeją na rynku wtórnym szybciej niż zwykłe zestawy."
+    },
+    {
+      "numer": "60368",
+      "nazwa": "Łódź badacza Arktyki",
+      "seria": "City",
+      "elementy": 815,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Statek badaczy Arktyki jest już wyprzedany na lego.com, więc rodzinom, które go przegapiły, zostają tylko resztki magazynowe w zwykłych sklepach."
+    },
+    {
+      "numer": "60400",
+      "nazwa": "Gokarty i kierowcy wyścigowi",
+      "seria": "City",
+      "elementy": 99,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dwa gokarty za kilkadziesiąt złotych to sensowny prezent dla pięciolatka, a po grudniu takich drobiazgów trzeba będzie szukać u resellerów."
+    },
+    {
+      "numer": "60402",
+      "nazwa": "Niebieski monster truck",
+      "seria": "City",
+      "elementy": 148,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Maluchy zakochane w wielkich kołach będą miały z tego trucka mnóstwo frajdy, dlatego lepiej kupić go teraz, niż przepłacać po wycofaniu."
+    },
+    {
+      "numer": "60404",
+      "nazwa": "Ciężarówka z burgerami",
+      "seria": "City",
+      "elementy": 194,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Foodtruck z burgerami bawi dzieci zabawą w gotowanie i ładnie uzupełnia miejskie ulice, a jego produkcja kończy się wraz z rokiem."
+    },
+    {
+      "numer": "60407",
+      "nazwa": "Czerwony, piętrowy autokar",
+      "seria": "City",
+      "elementy": 384,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Piętrowy autokar to rzadki w City pojazd turystyczny, więc kolekcjonerzy miejskich makiet powinni zabezpieczyć egzemplarz przed grudniem."
+    },
+    {
+      "numer": "60419",
+      "nazwa": "Policja z Więziennej Wyspy",
+      "seria": "City",
+      "elementy": 980,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Rozbudowaną wyspę więzienną wybierają rodziny szukające dużej wspólnej zabawy w policjantów i złodziei, a po wycofaniu ceny takich zestawów zwykle rosną."
+    },
+    {
+      "numer": "60423",
+      "nazwa": "Tramwaj miejski ze stacją",
+      "seria": "City",
+      "elementy": 811,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Miłośnicy komunikacji miejskiej mają ostatnie miesiące, żeby wstawić ten tramwaj ze stacją do swojej makiety miasta."
+    },
+    {
+      "numer": "60430",
+      "nazwa": "Statek międzygwiezdny",
+      "seria": "City",
+      "elementy": 240,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Kosmiczna linia City powoli znika z oferty, a ten statek to jeden z jej ostatnich przystępnych cenowo zestawów dla młodych astronautów."
+    },
+    {
+      "numer": "60440",
+      "nazwa": "Żółta ciężarówka dostawcza",
+      "seria": "City",
+      "elementy": 1061,
+      "kiedy": "2026",
+      "status": "potwierdzone",
+      "uwagi": "Ciężarówka LEGO z ponad tysiącem elementów ma już oficjalny status ostatnich sztuk, więc dorośli fani marki muszą decydować się natychmiast."
+    },
+    {
+      "numer": "60445",
+      "nazwa": "Ciężarówka F1 z bolidami RB20 i AMR24",
+      "seria": "City",
+      "elementy": 1086,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Ciężarówka F1 z bolidami Red Bulla i Astona Martina ucieszy młodych fanów wyścigów, a licencjonowane modele po wycofaniu szybko zyskują na wartości."
+    },
+    {
+      "numer": "60447",
+      "nazwa": "Górska terenówka 4x4",
+      "seria": "City",
+      "elementy": 221,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Terenówka 4x4 to solidna propozycja dla dzieci lubiących zabawę w trudnym terenie, dostępna już tylko do końca roku."
+    },
+    {
+      "numer": "60456",
+      "nazwa": "Pościg łodzią policyjną",
+      "seria": "City",
+      "elementy": 264,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wodny pościg policyjny urozmaici każdą kąpielową i dywanową zabawę w stróżów prawa, zanim zestaw opuści sklepy w grudniu."
+    },
+    {
+      "numer": "60457",
+      "nazwa": "Policyjny warsztat tuningowy",
+      "seria": "City",
+      "elementy": 489,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Warsztat pozwala dzieciom składać własne wersje radiowozów, więc kreatywni konstruktorzy docenią go, póki jeszcze jest w regularnej sprzedaży."
+    },
+    {
+      "numer": "60462",
+      "nazwa": "Zestaw z helikopterem, wozem strażackim i łodzią podwodną",
+      "seria": "City",
+      "elementy": 874,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Trzy maszyny ratunkowe w jednym pudełku to świetna baza do zabawy, ale po lipcowym wycofaniu ostatnie egzemplarze trzeba łapać poza oficjalnym sklepem."
+    },
+    {
+      "numer": "60463",
+      "nazwa": "Wóz strażacki z drabiną",
+      "seria": "City",
+      "elementy": 82,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Klasyczny wóz z drabiną to fundament każdej dziecięcej remizy i ostatni dzwonek, by kupić go bez dopłat."
+    },
+    {
+      "numer": "60464",
+      "nazwa": "Bolidy F1 Williams Racing i Haas",
+      "seria": "City",
+      "elementy": 92,
+      "kiedy": "2026",
+      "status": "przewidywane",
+      "uwagi": "Tani dwupak bolidów Williamsa i Haasa jest najprostszym wejściem w licencję F1 i może zniknąć wcześniej, niż wskazuje kalendarz."
+    },
+    {
+      "numer": "60465",
+      "nazwa": "Samolot pogotowia ratunkowego",
+      "seria": "City",
+      "elementy": 403,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Latająca karetka spodoba się dzieciom bawiącym się w ratowników, a kupując ją teraz, rodzice unikną polowania na zestaw po wycofaniu."
+    },
+    {
+      "numer": "60466",
+      "nazwa": "Żółty buldożer",
+      "seria": "City",
+      "elementy": 682,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Duży buldożer trafia w gust starszych dzieci i fanów maszyn budowlanych, a po grudniu zostanie po nim tylko rynek wtórny."
+    },
+    {
+      "numer": "60467",
+      "nazwa": "Wóz holowniczy z dźwigiem",
+      "seria": "City",
+      "elementy": 793,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Holownik z dźwigiem zniknął z lego.com w lipcowej fali, więc kto szuka go dla starszego dziecka, powinien sprawdzić zewnętrzne sklepy, zanim ceny pójdą w górę."
+    },
+    {
+      "numer": "60469",
+      "nazwa": "Centralny dworzec kolejowy",
+      "seria": "City",
+      "elementy": 752,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dworzec dopełnia każdą kolejową makietę i właśnie dlatego warto go mieć, zanim cała fala pociągów City zejdzie z produkcji."
+    },
+    {
+      "numer": "60470",
+      "nazwa": "Ekspres polarny arktycznych odkrywców",
+      "seria": "City",
+      "elementy": 1517,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Polarny ekspres z ponad 1500 elementów to gratka dla rodzin budujących wspólnie wielkie pociągi, a jego kariera kończy się w tym roku."
+    },
+    {
+      "numer": "60471",
+      "nazwa": "Ciężarówka z laboratorium arktycznej odkrywczyni",
+      "seria": "City",
+      "elementy": 1057,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Połączenie ciężarówki i mobilnego laboratorium doceniają starsze dzieci o naukowym zacięciu, więc z zakupem nie warto zwlekać do zimy."
+    },
+    {
+      "numer": "60473",
+      "nazwa": "Wieża City",
+      "seria": "City",
+      "elementy": 1941,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Największy miejski zestaw tej fali wyprzedał się jeszcze przed terminem, dlatego dziś to już raczej łup dla kolekcjonerów niż okazja z półki."
+    },
+    {
+      "numer": "60482",
+      "nazwa": "Pojazdy — wóz strażacki",
+      "seria": "City",
+      "elementy": 67,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Malutki wóz strażacki z linii dla najmłodszych pozwala kilkulatkom gasić pierwsze pożary, ale tylko do końca 2026 roku."
+    },
+    {
+      "numer": "60484",
+      "nazwa": "Pojazdy — gamingowa wyścigówka",
+      "seria": "City",
+      "elementy": 64,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Gamingowa wyścigówka trafia w gusta najmłodszych graczy i jako tani drobiazg zniknie z półek razem z grudniową falą wycofań."
+    },
+    {
+      "numer": "60489",
+      "nazwa": "Odrzutowiec kontra samochód",
+      "seria": "City",
+      "elementy": 259,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wyścig odrzutowca z samochodem to efektowny duet dla młodszych konstruktorów, dostępny już tylko przez kilka miesięcy."
+    },
+    {
+      "numer": "60490",
+      "nazwa": "Pług śnieżny",
+      "seria": "City",
+      "elementy": 263,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Pług śnieżny przyda się zimą w każdym klockowym mieście, więc lepiej dodać go do kolekcji przed grudniowym terminem."
+    },
+    {
+      "numer": "60491",
+      "nazwa": "Laweta dla motocykli",
+      "seria": "City",
+      "elementy": 88,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Laweta z motocyklem to szybki prezent na urodziny kolegi z podstawówki, a po wycofaniu takie drobne zestawy trudno znaleźć w dobrej cenie."
+    },
+    {
+      "numer": "60493",
+      "nazwa": "Ciężarówka F1 z bolidem Audi",
+      "seria": "City",
+      "elementy": 508,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Wystawowa ciężarówka z bolidem Audi przyciąga dzieci i dorosłych kibiców debiutującego zespołu, a jej dostępność kończy się wraz z rokiem."
+    },
+    {
+      "numer": "60495",
+      "nazwa": "Ciężarówka recyklingowa",
+      "seria": "City",
+      "elementy": 434,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Śmieciarka recyklingowa przy okazji zabawy uczy najmłodszych segregacji odpadów i jest jednym z ostatnich takich pojazdów w ofercie."
+    },
+    {
+      "numer": "60510",
+      "nazwa": "LEGO City — kalendarz adwentowy na 2026 rok",
+      "seria": "City",
+      "elementy": 252,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kalendarz adwentowy z natury żyje tylko jeden sezon, więc rodziny powinny zaplanować zakup na wczesną jesień, zanim wyprzeda się przed świętami."
+    },
+    {
+      "numer": "42642",
+      "nazwa": "Maraton filmowy przyjaciółek",
+      "seria": "Friends",
+      "elementy": 154,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Drobny zestaw z klimatem domowego kina sprawdziłby się jako prezent dla młodszych fanek serii, ale na lego.com już go nie kupimy — trzeba szukać resztek w sklepach."
+    },
+    {
+      "numer": "42644",
+      "nazwa": "Furgonetka z lodami w mieście Heartlake",
+      "seria": "Friends",
+      "elementy": 92,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Niedrogi pojazd na pierwsze samodzielne budowanie, który zniknie z półek wraz z końcem roku — dobry pomysł na mikołajkowy drobiazg."
+    },
+    {
+      "numer": "42647",
+      "nazwa": "Pokój Paisley",
+      "seria": "Friends",
+      "elementy": 199,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Jeśli dziecko kolekcjonuje pokoje bohaterek Heartlake, to ostatni moment na domknięcie serii, bo oficjalna dystrybucja tego zestawu właśnie się skończyła."
+    },
+    {
+      "numer": "42648",
+      "nazwa": "Opieka nad pandami w rezerwacie",
+      "seria": "Friends",
+      "elementy": 243,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Pandy zawsze szybko znikają z oferty LEGO, więc rodzice małych miłośników zwierząt nie powinni odkładać zakupu na ostatnią chwilę."
+    },
+    {
+      "numer": "42649",
+      "nazwa": "Sklep z cukierkami w Heartlake",
+      "seria": "Friends",
+      "elementy": 376,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kolorowa cukiernia to wdzięczne uzupełnienie ulicy w Heartlake — warto ją dołożyć do kolekcji, zanim grudzień zamknie sprzedaż."
+    },
+    {
+      "numer": "42650",
+      "nazwa": "Sklep z akcesoriami dla zwierząt",
+      "seria": "Friends",
+      "elementy": 375,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Zestaw dla dzieci, które bawią się w opiekunów zwierzaków — po Nowym Roku zostaną tylko droższe oferty z drugiej ręki."
+    },
+    {
+      "numer": "42653",
+      "nazwa": "Sklep muzyczny i mieszkanie",
+      "seria": "Friends",
+      "elementy": 483,
+      "kiedy": "lipiec 2026",
+      "status": "potwierdzone",
+      "uwagi": "Klimatyczny budynek modułowy dla nieco starszych budowniczych — LEGO oznaczyło go plakietką ostatnich sztuk, więc kto zwleka, ten zostanie z niczym."
+    },
+    {
+      "numer": "42654",
+      "nazwa": "Ranczo kucyków i stajnia",
+      "seria": "Friends",
+      "elementy": 727,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Dla miłośniczek koni była to jedna z ciekawszych propozycji ostatnich lat, a po wyprzedaniu na lego.com ceny u resellerów zwykle szybko rosną."
+    },
+    {
+      "numer": "42658",
+      "nazwa": "Impreza na basenie z jednorożcem i flamingiem",
+      "seria": "Friends",
+      "elementy": 99,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Tani zestaw na urodziny przedszkolaka — oficjalnie już po wyprzedaży, ale w marketach wciąż da się go upolować za grosze."
+    },
+    {
+      "numer": "42659",
+      "nazwa": "Samochodowa wycieczka przyjaciółek",
+      "seria": "Friends",
+      "elementy": 220,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Mały samochód idealny na wakacyjne zabawy w podróż — końcówka roku to ostatnia okazja, by kupić go w normalnej cenie."
+    },
+    {
+      "numer": "42661",
+      "nazwa": "Bal przebierańców z jednorożcem i wróżką",
+      "seria": "Friends",
+      "elementy": 261,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kostiumy jednorożca i wróżki robią furorę u przedszkolaków, a takie fantazyjne zestawy rzadko wracają do oferty po wycofaniu."
+    },
+    {
+      "numer": "42663",
+      "nazwa": "Przygoda w kamperze przyjaciół",
+      "seria": "Friends",
+      "elementy": 778,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Rozbudowany kamper łączy pojazd i domek do zabawy w jednym pudełku, więc to solidny wybór na Gwiazdkę tuż przed końcem produkcji."
+    },
+    {
+      "numer": "42664",
+      "nazwa": "Przygoda na łodzi",
+      "seria": "Friends",
+      "elementy": 685,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Duża łódź wycieczkowa daje mnóstwo scenariuszy zabawy i po grudniu może być trudna do zdobycia w rozsądnej cenie."
+    },
+    {
+      "numer": "42665",
+      "nazwa": "Plac zabaw dla szczeniaczków",
+      "seria": "Friends",
+      "elementy": 66,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Najtańsza pozycja na liście Friends — świetny drobiazg do skarpety świątecznej, po który warto sięgnąć przed wyczerpaniem zapasów."
+    },
+    {
+      "numer": "42666",
+      "nazwa": "Kocie przyjęcie urodzinowe i domek na drzewie",
+      "seria": "Friends",
+      "elementy": 321,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Fani kotów dostają tu urocze figurki, których nie ma w innych zestawach, dlatego zakup przed grudniem to rozsądna decyzja."
+    },
+    {
+      "numer": "42670",
+      "nazwa": "Mieszkania i sklepy w mieście Heartlake",
+      "seria": "Friends",
+      "elementy": 2040,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Największy budynek tej fali i naturalny kandydat na inwestycję kolekcjonerską — po zniknięciu z oficjalnego sklepu zostały tylko zapasy u partnerów."
+    },
+    {
+      "numer": "42671",
+      "nazwa": "Zielona kawiarnia i kwiaciarnia",
+      "seria": "Friends",
+      "elementy": 1138,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Ponad tysiąc elementów i mnóstwo roślinnych detali sprawia, że po wycofaniu ten budynek ma spory potencjał wzrostu wartości."
+    },
+    {
+      "numer": "42673",
+      "nazwa": "Rodzinne wakacje na plaży",
+      "seria": "Friends",
+      "elementy": 1140,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Jeden z dwóch największych zestawów tej fali — kto planuje go pod choinkę, powinien łapać promocje jesienią, bo później zostaną tylko aukcje."
+    },
+    {
+      "numer": "42674",
+      "nazwa": "Sklep z grami i komiksami",
+      "seria": "Friends",
+      "elementy": 1005,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Nietypowy temat i status zestawu ekskluzywnego LEGO czynią z niego łakomy kąsek dla kolekcjonerów jeszcze przed końcem sprzedaży."
+    },
+    {
+      "numer": "42677",
+      "nazwa": "Piekarnia z psimi przysmakami",
+      "seria": "Friends",
+      "elementy": 278,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Połączenie psiaków i pieczenia trafia idealnie w gusta młodszych dzieci, a po grudniu tego motywu w ofercie już nie będzie."
+    },
+    {
+      "numer": "42678",
+      "nazwa": "Furgonetka z akcesoriami dla zwierząt",
+      "seria": "Friends",
+      "elementy": 237,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Mobilny sklepik dla zwierzaków dobrze łączy się z innymi zestawami o tej tematyce, więc kompletującym serię zostało kilka miesięcy."
+    },
+    {
+      "numer": "42679",
+      "nazwa": "Hotel dla królików w mieście Heartlake",
+      "seria": "Friends",
+      "elementy": 161,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Króliczki to pewniak u najmłodszych, a niska cena czyni ten zestaw łatwym zakupem, zanim zniknie z regałów."
+    },
+    {
+      "numer": "42680",
+      "nazwa": "Sklep spożywczy w mieście Heartlake",
+      "seria": "Friends",
+      "elementy": 176,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Codzienny sklepik świetnie dopełnia miejskie kolekcje Heartlake i po Nowym Roku po prostu przestanie być produkowany."
+    },
+    {
+      "numer": "42685",
+      "nazwa": "Pokaz mody w mieście Heartlake",
+      "seria": "Friends",
+      "elementy": 410,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Wybieg, kulisy i sporo modowych akcesoriów — propozycja dla dzieci lubiących zabawy w projektantów, dostępna tylko do grudnia."
+    },
+    {
+      "numer": "42686",
+      "nazwa": "Niezwykła sala zabaw",
+      "seria": "Friends",
+      "elementy": 668,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Zjeżdżalnie i tory przeszkód dają tu rzadką w LEGO dynamikę zabawy, dlatego przed świętami może rozejść się szybciej niż zwykle."
+    },
+    {
+      "numer": "42689",
+      "nazwa": "Domek klubu przyjaciół z Heartlake",
+      "seria": "Friends",
+      "elementy": 794,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Klubowy domek z całą paczką bohaterek to jeden z filarów obecnej linii — rozsądnie dopisać go do listy zakupów, nim rok się skończy."
+    },
+    {
+      "numer": "42695",
+      "nazwa": "Przyczepa z koniem i źrebaczkiem",
+      "seria": "Friends",
+      "elementy": 279,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Po lipcowym zniknięciu rancza kucyków to jedna z ostatnich końskich propozycji w serii, więc miłośnicy koni nie mają czasu do stracenia."
+    },
+    {
+      "numer": "42698",
+      "nazwa": "LEGO Friends — kalendarz adwentowy na 2026 rok",
+      "seria": "Friends",
+      "elementy": 211,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Kalendarz adwentowy z natury żyje tylko jeden sezon — zamówienie w przedsprzedaży gwarantuje, że nie zabraknie go przed grudniem."
+    },
+    {
+      "numer": "42699",
+      "nazwa": "Domek na plaży z fokami",
+      "seria": "Friends",
+      "elementy": 400,
+      "kiedy": "grudzień 2026",
+      "status": "potwierdzone",
+      "uwagi": "Wakacyjny klimat i foczki wyróżniają ten zestaw na tle serii — to dobry cel na jesienne promocje przed ostatecznym wycofaniem."
+    },
+    {
+      "numer": "71780",
+      "nazwa": "Samochód wyścigowy ninja Kaia EVO",
+      "seria": "Ninjago",
+      "elementy": 94,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Tani zestaw na start dla najmłodszych fanów Kaia, który już teraz miewa braki dostępności, więc lepiej nie odkładać zakupu na święta."
+    },
+    {
+      "numer": "71808",
+      "nazwa": "Mech żywiołu ognia Kaia",
+      "seria": "Ninjago",
+      "elementy": 322,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Klasyczny ognisty mech sprawdzi się u dzieci od siedmiu lat, a bieżący rok to prawdopodobnie ostatnia szansa na zakup w regularnej cenie."
+    },
+    {
+      "numer": "71814",
+      "nazwa": "Turniejowe miasto ze świątynią",
+      "seria": "Ninjago",
+      "elementy": 3489,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dorośli kolekcjonerzy powinni potraktować tę monumentalną świątynię priorytetowo, bo to właśnie duże zestawy ekspozycyjne drożeją po wycofaniu najszybciej."
+    },
+    {
+      "numer": "71826",
+      "nazwa": "Smocze Spinjitzu — zestaw bitewny",
+      "seria": "Ninjago",
+      "elementy": 186,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dobry pomysł na prezent dla sześciolatka zaczynającego przygodę ze Spinjitzu — warto go zgarnąć, zanim w grudniu zniknie z półek."
+    },
+    {
+      "numer": "71827",
+      "nazwa": "Mech w zbroi bojowej Zane'a",
+      "seria": "Ninjago",
+      "elementy": 92,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Ten niedrogi mech Zane'a już bywa trudno dostępny, dlatego rodzice szukający drobnego upominku nie powinni czekać do końca roku."
+    },
+    {
+      "numer": "71829",
+      "nazwa": "Zielony leśny smok Lloyda",
+      "seria": "Ninjago",
+      "elementy": 128,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Jeśli dziecko kocha smoki, ten mały zielony smok Lloyda to bezbolesny zakup, który za rok może być nie do zdobycia w normalnej cenie."
+    },
+    {
+      "numer": "71830",
+      "nazwa": "Burzowy jeździec-mech Kaia",
+      "seria": "Ninjago",
+      "elementy": 333,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fanom serialu Dragons Rising spodoba się mech Kaia na burzowym ścigaczu, a grudzień 2026 to dla niego ostatni dzwonek."
+    },
+    {
+      "numer": "71831",
+      "nazwa": "Świątynia Spinjitzu ninja",
+      "seria": "Ninjago",
+      "elementy": 158,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Niewielka świątynia z bączkami Spinjitzu ucieszy młodszych graczy, a takie tanie zestawy po wycofaniu znikają z rynku błyskawicznie."
+    },
+    {
+      "numer": "71832",
+      "nazwa": "Smok chaosu Thunderfang",
+      "seria": "Ninjago",
+      "elementy": 668,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Smok chaosu zniknął już z oficjalnego sklepu LEGO, więc kolekcjonerzy smoków muszą wyłapywać ostatnie sztuki w zwykłych sklepach, zanim ceny poszybują."
+    },
+    {
+      "numer": "71834",
+      "nazwa": "Łączony ultramech Zane'a",
+      "seria": "Ninjago",
+      "elementy": 1187,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Nastoletni konstruktorzy docenią rozbudowanego mecha Zane'a składanego z mniejszych maszyn — to jedna z ciekawszych pozycji schodzących z oferty."
+    },
+    {
+      "numer": "71836",
+      "nazwa": "Smok skupienia Arc",
+      "seria": "Ninjago",
+      "elementy": 869,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Smok skupienia to gratka dla kolekcjonerów smoczych konstrukcji, którzy wolą kupić teraz, niż później przepłacać u odsprzedawców."
+    },
+    {
+      "numer": "71838",
+      "nazwa": "Wyścig motocyklowy Kaia",
+      "seria": "Ninjago",
+      "elementy": 79,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Miniaturowy motocykl Kaia to najtańsza przepustka do świata Ninjago, dostępna w sklepach już tylko do końca roku."
+    },
+    {
+      "numer": "71839",
+      "nazwa": "Mech bojowy Spinjitzu Arina",
+      "seria": "Ninjago",
+      "elementy": 213,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Mech Arina trafia w gusta siedmiolatków, a kupiony zawczasu pozwoli ominąć grudniowe polowanie na wycofywane zestawy."
+    },
+    {
+      "numer": "71840",
+      "nazwa": "Pojedynek wyścigowy Rogue kontra Drix",
+      "seria": "Ninjago",
+      "elementy": 111,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Zestaw z linii 4+ ułatwia start najmłodszym budowniczym, jednak jego produkcja kończy się razem z tym rokiem."
+    },
+    {
+      "numer": "71842",
+      "nazwa": "Mistrzowski smok Rontu",
+      "seria": "Ninjago",
+      "elementy": 381,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Rontu ucieszy młodszych fanów smoków, ale po lipcowym wycofaniu do kupienia zostały tylko końcówki magazynowe u pośredników."
+    },
+    {
+      "numer": "71843",
+      "nazwa": "Mech Rogue — jeździec smoka",
+      "seria": "Ninjago",
+      "elementy": 584,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Kto planował prezent z mechem dosiadającym smoka, musi działać szybko, bo oficjalna sprzedaż tego zestawu już się zakończyła."
+    },
+    {
+      "numer": "71844",
+      "nazwa": "Bojowy pojazd ninja",
+      "seria": "Ninjago",
+      "elementy": 561,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Bojowy pojazd ninja da się jeszcze upolować w sklepach zewnętrznych i to ostatnia okazja przed nieuchronnym wzrostem cen kolekcjonerskich."
+    },
+    {
+      "numer": "71845",
+      "nazwa": "Odrzutowy mech Lloyda",
+      "seria": "Ninjago",
+      "elementy": 1112,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Duży odrzutowy mech Lloyda był hitem wśród nastoletnich budowniczych, a po zejściu z oferty LEGO jego wartość będzie już tylko rosnąć."
+    },
+    {
+      "numer": "71846",
+      "nazwa": "Mech ognistego rycerza",
+      "seria": "Ninjago",
+      "elementy": 996,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Efektowny mech ognistego rycerza celuje w starszych fanów i półkę ekspozycyjną, więc rozsądnie jest zdobyć go przed końcem sprzedaży."
+    },
+    {
+      "numer": "71847",
+      "nazwa": "Smok-strażnik",
+      "seria": "Ninjago",
+      "elementy": 1650,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Smok-strażnik to tegoroczna perła dla dorosłych kolekcjonerów smoków, a właśnie takie flagowce zyskują po wycofaniu najwięcej."
+    },
+    {
+      "numer": "71848",
+      "nazwa": "Perła Świątyni",
+      "seria": "Ninjago",
+      "elementy": 2387,
+      "kiedy": "wycofany",
+      "status": "potwierdzone",
+      "uwagi": "Świątynna odsłona Perły Przeznaczenia to obiekt westchnień dorosłych fanów Ninjago — na lego.com już wyprzedana, więc liczą się tylko resztki w detalu."
+    },
+    {
+      "numer": "71849",
+      "nazwa": "Spinner: Nya kontra potwór-mutant",
+      "seria": "Ninjago",
+      "elementy": 49,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Malutki spinner z Nyą sprawdzi się jako drobiazg do plecaka lub świątecznej skarpety, ale tylko do wyczerpania zapasów pod koniec roku."
+    },
+    {
+      "numer": "71850",
+      "nazwa": "Spinner: Lloyd kontra potwór ziemi",
+      "seria": "Ninjago",
+      "elementy": 52,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Pojedynek Lloyda z potworem ziemi to szybki, tani prezent, który warto dorzucić do zamówienia, zanim zniknie z oferty."
+    },
+    {
+      "numer": "71854",
+      "nazwa": "Misyjny mech Cole'a",
+      "seria": "Ninjago",
+      "elementy": 364,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Misyjny mech Cole'a przypadnie do gustu dzieciom lubiącym pojazdy z funkcjami, a jego rynkowe życie kończy się w grudniu."
+    },
+    {
+      "numer": "71856",
+      "nazwa": "Transformujący samochód Jaya",
+      "seria": "Ninjago",
+      "elementy": 387,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Transformujący samochód Jaya łączy auto i mecha w jednej budowli, dlatego fani pojazdów powinni zaklepać go przed wycofaniem."
+    },
+    {
+      "numer": "71857",
+      "nazwa": "Bitwa o domek ninja na drzewie",
+      "seria": "Ninjago",
+      "elementy": 642,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Bitwa o domek na drzewie daje mnóstwo zabawy w rozsądnej cenie i lepiej zamówić ją teraz, niż szukać w przyszłym roku po zawyżonych stawkach."
+    },
+    {
+      "numer": "40674",
+      "nazwa": "Stitch",
+      "seria": "BrickHeadz",
+      "elementy": 152,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Fani Disneya, którzy zwlekali z dodaniem Stitcha do kolekcji, mają przed sobą ostatnie miesiące na zakup w regularnej cenie."
+    },
+    {
+      "numer": "40749",
+      "nazwa": "Radość, Smutek i Spina",
+      "seria": "BrickHeadz",
+      "elementy": 300,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Trio emocji z W głowie się nie mieści 2 to wdzięczny prezent dla dzieciaków i dorosłych fanów Pixara, a po grudniu zdobycie go będzie znacznie trudniejsze."
+    },
+    {
+      "numer": "40752",
+      "nazwa": "Carl, Russell i Kevin",
+      "seria": "BrickHeadz",
+      "elementy": 308,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Kolekcjonerzy pixarowskich klimatów powinni złapać bohaterów Odlotu teraz, bo wycofane BrickHeadz z tej bajki szybko drożeją na rynku wtórnym."
+    },
+    {
+      "numer": "40791",
+      "nazwa": "Czara Ognia — figurki",
+      "seria": "BrickHeadz",
+      "elementy": 671,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "To największy harrypotterowy zestaw BrickHeadz w sprzedaży, więc miłośnicy Hogwartu nie powinni odkładać zakupu na po świętach."
+    },
+    {
+      "numer": "40795",
+      "nazwa": "Luke Skywalker (pilot Rebelii)",
+      "seria": "BrickHeadz",
+      "elementy": 138,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Niedrogi sposób na uzupełnienie gwiezdnowojennej kolekcji, który po wycofaniu zwykle znika z półek błyskawicznie."
+    },
+    {
+      "numer": "40797",
+      "nazwa": "Kłapouchy",
+      "seria": "BrickHeadz",
+      "elementy": 156,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Sympatyczny osiołek z Kubusia Puchatka sprawdzi się jako drobny upominek, ale kupujący prezenty mają na niego czas tylko do końca roku."
+    },
+    {
+      "numer": "40801",
+      "nazwa": "Figurki Dustina, Mike'a, Willa i Lucasa",
+      "seria": "BrickHeadz",
+      "elementy": 542,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Po finale Stranger Things zainteresowanie gadżetami z serialu rośnie, dlatego fani powinni zabezpieczyć czwórkę z Hawkins przed grudniowym wycofaniem."
+    },
+    {
+      "numer": "40802",
+      "nazwa": "Figurki Luny Lovegood i testrala",
+      "seria": "BrickHeadz",
+      "elementy": 292,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Luna z testralem to jedna z ciekawszych par w całej serii i łakomy kąsek dla kolekcjonerów Harry'ego Pottera, zanim zestaw zniknie ze sklepu."
+    },
+    {
+      "numer": "40803",
+      "nazwa": "Robot i pojazd Optimus Prime",
+      "seria": "BrickHeadz",
+      "elementy": 237,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dwie wersje lidera Autobotów w jednym pudełku kuszą fanów Transformers, a krótki cykl życia zestawu przemawia za zakupem jeszcze w tym roku."
+    },
+    {
+      "numer": "40804",
+      "nazwa": "Robot i pojazd Bumblebee",
+      "seria": "BrickHeadz",
+      "elementy": 253,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Najpopularniejszy z Autobotów raczej nie doczeka się szybkiego wznowienia, więc kto chce mieć komplet Transformers, niech dokupi go przed grudniem."
+    },
+    {
+      "numer": "40879",
+      "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
+      "seria": "BrickHeadz",
+      "elementy": 584,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Zaledwie rok na rynku i już na liście do wycofania — kolekcjonerzy Stranger Things nie mogą liczyć na drugą szansę po grudniu."
+    },
+    {
+      "numer": "40881",
+      "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
+      "seria": "BrickHeadz",
+      "elementy": 300,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Gracze Fortnite dostali ten duet dopiero w 2026 roku, mimo to okno zakupowe zamyka się już w grudniu — warto się pospieszyć."
+    },
+    {
+      "numer": "40884",
+      "nazwa": "Drift i Raven — figurki",
+      "seria": "BrickHeadz",
+      "elementy": 280,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Dwie kultowe skórki z Fortnite w klockowym wydaniu to gratka dla graczy, którym przy planowanym grudniowym wycofaniu zostało niewiele czasu na decyzję."
+    },
+    {
+      "numer": "40924",
+      "nazwa": "Megatron jako robot i pojazd",
+      "seria": "BrickHeadz",
+      "elementy": 224,
+      "kiedy": "grudzień 2026",
+      "status": "przewidywane",
+      "uwagi": "Bez Megatrona kolekcja Transformers pozostaje niekompletna, a przewidywane wycofanie po jednym sezonie czyni go potencjalnie najrzadszym z trójki."
+    }
   ]
 }
