@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import dane from '../data/wycofania.json';
+
+const fmtEl = (n) => n.toLocaleString('pl-PL');
+const kolejnosc = dane._meta.serie_kolejnosc;
+const wpisy = dane.wycofania;
+const serie = kolejnosc.filter((s) => wpisy.some((w) => w.seria === s));
+const wSerii = (s) => wpisy.filter((w) => w.seria === s);
+const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
+---
+<Base
+  title="Wycofania LEGO 2026 — które zestawy znikają ze sprzedaży (EOL)"
+  description={`Lista zestawów LEGO wycofywanych w 2026 roku według serii: Ideas, Icons, Star Wars, Harry Potter, Technic i inne. ${potwierdzone} pozycji potwierdzonych przez LEGO. Aktualizujemy na bieżąco.`}
+>
+  <article>
+    <h1 style="margin-top:28px">Wycofania LEGO 2026 (EOL)</h1>
+    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii — a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Poniżej zestawy, które <strong>znikają w 2026 roku</strong>, pogrupowane według serii. Status „potwierdzone" oznacza oficjalną informację LEGO (dział „Ostatnie sztuki"); „przewidywane" — zgodne prognozy społeczności. Listę aktualizujemy na bieżąco.</p>
+    <p class="disclosure">Przyciski „Sprawdź cenę" to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc więcej.</p>
+
+    {serie.map((seria) => (
+      <section class="sekcja" style="margin: 30px 0;">
+        <div class="sekcja-head">
+          <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+          <h2>{seria}</h2>
+        </div>
+        <div class="eol-lista">
+          {wSerii(seria).map((w) => (
+            <div class="karta eol-wiersz">
+              <div class="eol-mini">
+                {w.zdjecie ? (
+                  <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="120" height="120" />
+                ) : (
+                  <div class="eol-mini-placeholder" aria-hidden="true">
+                    <span class="studs"><i></i><i></i><i></i><i></i></span>
+                  </div>
+                )}
+              </div>
+              <div class="eol-info">
+                <span class="nr">LEGO {w.numer}</span>
+                <h3>{w.nazwa}</h3>
+                <p class="eol-uwagi">{w.uwagi}</p>
+                <div class="deal-meta">
+                  <span><strong>{fmtEl(w.elementy)}</strong> elementów</span>
+                </div>
+              </div>
+              <div class="eol-akcja">
+                <span class={w.status === 'potwierdzone' ? 'badge-rabat eol-badge' : 'badge-seria'}>
+                  {w.kiedy === 'wycofany' ? 'wycofany' : `znika: ${w.kiedy}`}
+                </span>
+                <span class="eol-status">{w.status === 'potwierdzone' ? '✓ potwierdzone przez LEGO' : 'przewidywane'}</span>
+                <a class="cta" href={`/idz/planetaklockow/${w.numer}`} rel="sponsored nofollow">Sprawdź cenę →</a>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="sekcja karta" style="padding:18px 22px;">
+      <h2>Jak czytać tę listę?</h2>
+      <p class="prose" style="margin:0">Dla <strong>rodzica</strong>: jeśli zestaw z listy jest na liście życzeń dziecka — kup przed zniknięciem, po EOL ceny rosną zamiast spadać. Dla <strong>kolekcjonera</strong>: fala przecen tuż przed wycofaniem to często ostatni moment na najniższą cenę w historii; sety licencyjne (Ideas, ekskluzywy) historycznie zyskują najwięcej. Daty podajemy za LEGO — firma potrafi je zmieniać, więc wracaj tu regularnie.</p>
+    </section>
+  </article>
+</Base>
