@@ -1,0 +1,10 @@
+{
+  "_meta": "Mapa linkow afiliacyjnych. Format: sklep -> numer setu -> pelny URL. Uzupelnia sesja Cowork z feedow webePartners. Brak wpisu = przekierowanie na strone glowna (obsluguje worker).",
+  "planetaklockow": {},
+  "krzychumantoys": {},
+  "taniaksiazka": {},
+  "lego": {},
+  "amazon": {},
+  "allegro": {},
+  "mediaexpert": {}
+}
