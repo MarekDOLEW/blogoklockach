@@ -8,6 +8,7 @@ const wpisy = dane.wycofania;
 const serie = kolejnosc.filter((s) => wpisy.some((w) => w.seria === s));
 const wSerii = (s) => wpisy.filter((w) => w.seria === s);
 const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
+const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
 ---
 <Base
   title="Wycofania LEGO 2026 — które zestawy znikają ze sprzedaży (EOL)"
@@ -18,15 +19,47 @@ const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
     <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii — a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Poniżej zestawy, które <strong>znikają w 2026 roku</strong>, pogrupowane według serii. Status „potwierdzone" oznacza oficjalną informację LEGO (dział „Ostatnie sztuki"); „przewidywane" — zgodne prognozy społeczności. Listę aktualizujemy na bieżąco.</p>
     <p class="disclosure">Przyciski „Sprawdź cenę" to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc więcej.</p>
 
+    <div class="eol-filtr karta" role="search" aria-label="Filtrowanie listy wycofań">
+      <div class="eol-filtr-pole">
+        <label for="eol-seria">Seria</label>
+        <select id="eol-seria">
+          <option value="">Wszystkie serie</option>
+          {serie.map((s) => (
+            <option value={s}>{s} ({wSerii(s).length})</option>
+          ))}
+        </select>
+      </div>
+      <div class="eol-filtr-pole eol-filtr-szukaj">
+        <label for="eol-szukaj">Szukaj zestawu</label>
+        <div class="eol-autocomplete">
+          <input
+            id="eol-szukaj"
+            type="search"
+            placeholder="numer lub nazwa, np. 10334 albo Sokół…"
+            autocomplete="off"
+            role="combobox"
+            aria-expanded="false"
+            aria-controls="eol-podpowiedzi"
+            aria-autocomplete="list"
+          />
+          <ul id="eol-podpowiedzi" role="listbox" hidden></ul>
+        </div>
+      </div>
+      <div class="eol-filtr-pole eol-filtr-reset">
+        <button type="button" id="eol-wyczysc" hidden>Wyczyść ✕</button>
+        <span id="eol-licznik" aria-live="polite"></span>
+      </div>
+    </div>
+
     {serie.map((seria) => (
-      <section class="sekcja" style="margin: 30px 0;">
+      <section class="sekcja eol-sekcja" id={`seria-${slug(seria)}`} data-seria={seria} style="margin: 30px 0;">
         <div class="sekcja-head">
           <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
           <h2>{seria}</h2>
         </div>
         <div class="eol-lista">
           {wSerii(seria).map((w) => (
-            <div class="karta eol-wiersz">
+            <div class="karta eol-wiersz" id={`set-${w.numer}`} data-numer={w.numer} data-nazwa={w.nazwa} data-seria={w.seria}>
               <div class="eol-mini">
                 {w.zdjecie ? (
                   <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="120" height="120" />
@@ -54,6 +87,7 @@ const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
             </div>
           ))}
         </div>
+        <p class="eol-pusto" hidden>Brak wyników w tej serii dla obecnego filtra.</p>
       </section>
     ))}
 
@@ -63,3 +97,232 @@ const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
     </section>
   </article>
 </Base>
+
+<style is:global>
+  .eol-filtr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 18px;
+    align-items: flex-end;
+    padding: 14px 18px;
+    margin: 18px 0 6px;
+    position: sticky;
+    top: 8px;
+    z-index: 20;
+  }
+  .eol-filtr-pole { display: flex; flex-direction: column; gap: 4px; }
+  .eol-filtr-pole label { font-size: 0.8rem; font-weight: 600; opacity: 0.75; }
+  .eol-filtr select,
+  .eol-filtr input[type="search"] {
+    font: inherit;
+    padding: 8px 12px;
+    border: 1.5px solid rgba(0,0,0,0.18);
+    border-radius: 8px;
+    background: #fff;
+    min-width: 190px;
+  }
+  .eol-filtr-szukaj { flex: 1 1 260px; }
+  .eol-filtr-szukaj input { width: 100%; }
+  .eol-filtr-reset { flex-direction: row; align-items: center; gap: 10px; }
+  #eol-wyczysc {
+    font: inherit;
+    font-size: 0.85rem;
+    padding: 7px 12px;
+    border: 1.5px solid rgba(0,0,0,0.18);
+    border-radius: 8px;
+    background: #fff;
+    cursor: pointer;
+  }
+  #eol-wyczysc:hover { background: #f3f3f3; }
+  #eol-licznik { font-size: 0.85rem; opacity: 0.7; white-space: nowrap; }
+
+  .eol-autocomplete { position: relative; }
+  #eol-podpowiedzi {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 4px;
+    list-style: none;
+    background: #fff;
+    border: 1.5px solid rgba(0,0,0,0.15);
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    max-height: 320px;
+    overflow-y: auto;
+    z-index: 30;
+  }
+  #eol-podpowiedzi li {
+    padding: 8px 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+    font-size: 0.92rem;
+  }
+  #eol-podpowiedzi li .p-nr { font-weight: 700; font-variant-numeric: tabular-nums; }
+  #eol-podpowiedzi li .p-seria { margin-left: auto; font-size: 0.78rem; opacity: 0.6; }
+  #eol-podpowiedzi li:hover,
+  #eol-podpowiedzi li[aria-selected="true"] { background: #eef2ff; }
+  #eol-podpowiedzi li mark { background: #ffe9a8; padding: 0 1px; border-radius: 2px; }
+
+  .eol-wiersz.eol-hit {
+    outline: 3px solid #f5c518;
+    outline-offset: 2px;
+    transition: outline-color 1.2s ease;
+  }
+  .eol-pusto { font-size: 0.9rem; opacity: 0.65; padding: 6px 2px; }
+</style>
+
+<script>
+  // ── Filtr serii + wyszukiwarka z autouzupełnianiem ──────────────────────
+  // Pełna lista jest wyrenderowana w HTML (SEO); JS tylko ukrywa elementy.
+  const MIN_ZNAKOW = 3;      // od ilu znaków pokazujemy podpowiedzi
+  const MAX_PODPOWIEDZI = 8;
+
+  const $seria   = document.getElementById('eol-seria');
+  const $szukaj  = document.getElementById('eol-szukaj');
+  const $lista   = document.getElementById('eol-podpowiedzi');
+  const $wyczysc = document.getElementById('eol-wyczysc');
+  const $licznik = document.getElementById('eol-licznik');
+  const sekcje   = [...document.querySelectorAll('.eol-sekcja')];
+  const wiersze  = [...document.querySelectorAll('.eol-wiersz')];
+  const RAZEM    = wiersze.length;
+
+  // znormalizowany indeks (bez polskich znaków, lowercase)
+  const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l');
+  const indeks = wiersze.map((el) => ({
+    el,
+    numer: el.dataset.numer,
+    nazwa: el.dataset.nazwa,
+    seria: el.dataset.seria,
+    n: norm(el.dataset.nazwa),
+  }));
+
+  let aktywna = -1; // podświetlona podpowiedź (klawiatura)
+
+  function zastosujFiltr() {
+    const s = $seria.value;
+    const q = norm($szukaj.value.trim());
+    let widoczne = 0;
+
+    for (const w of indeks) {
+      const pasujeSeria = !s || w.seria === s;
+      const pasujeFraza = !q || w.numer.startsWith(q) || w.n.includes(q);
+      const pokaz = pasujeSeria && pasujeFraza;
+      w.el.hidden = !pokaz;
+      if (pokaz) widoczne++;
+    }
+    for (const sek of sekcje) {
+      const maWidoczne = [...sek.querySelectorAll('.eol-wiersz')].some((r) => !r.hidden);
+      const filtrAktywny = s || q;
+      sek.hidden = filtrAktywny && !maWidoczne && sek.dataset.seria !== s ? true : false;
+      if (s && sek.dataset.seria !== s) sek.hidden = true;
+      const pusto = sek.querySelector('.eol-pusto');
+      if (pusto) pusto.hidden = !( !sek.hidden && !maWidoczne );
+    }
+
+    const filtrAktywny = s || $szukaj.value.trim();
+    $wyczysc.hidden = !filtrAktywny;
+    $licznik.textContent = filtrAktywny ? `Pokazano ${widoczne} z ${RAZEM} zestawów` : '';
+
+    // stan w URL — łatwo podlinkować np. /wycofania/?seria=Icons
+    const url = new URL(location.href);
+    if (s) url.searchParams.set('seria', s); else url.searchParams.delete('seria');
+    if ($szukaj.value.trim()) url.searchParams.set('q', $szukaj.value.trim()); else url.searchParams.delete('q');
+    history.replaceState(null, '', url);
+  }
+
+  // ── podpowiedzi ──
+  function pokazPodpowiedzi() {
+    const surowe = $szukaj.value.trim();
+    const q = norm(surowe);
+    if (q.length < MIN_ZNAKOW) return schowajPodpowiedzi();
+
+    const s = $seria.value;
+    const trafienia = indeks
+      .filter((w) => (!s || w.seria === s) && (w.numer.startsWith(q) || w.n.includes(q)))
+      .slice(0, MAX_PODPOWIEDZI);
+
+    if (!trafienia.length) return schowajPodpowiedzi();
+
+    $lista.innerHTML = '';
+    trafienia.forEach((w, i) => {
+      const li = document.createElement('li');
+      li.setAttribute('role', 'option');
+      li.id = `eol-opt-${i}`;
+      const idx = w.n.indexOf(q);
+      let nazwaHTML = w.nazwa;
+      if (!w.numer.startsWith(q) && idx >= 0) {
+        // podświetl dopasowany fragment nazwy (pozycje 1:1 dzięki normalizacji bez zmiany długości)
+        nazwaHTML = w.nazwa.slice(0, idx) + '<mark>' + w.nazwa.slice(idx, idx + q.length) + '</mark>' + w.nazwa.slice(idx + q.length);
+      }
+      li.innerHTML = `<span class="p-nr">${w.numer.startsWith(q) ? '<mark>' + w.numer.slice(0, q.length) + '</mark>' + w.numer.slice(q.length) : w.numer}</span><span>${nazwaHTML}</span><span class="p-seria">${w.seria}</span>`;
+      li.addEventListener('mousedown', (e) => { e.preventDefault(); wybierz(w); });
+      $lista.appendChild(li);
+    });
+    aktywna = -1;
+    $lista.hidden = false;
+    $szukaj.setAttribute('aria-expanded', 'true');
+  }
+
+  function schowajPodpowiedzi() {
+    $lista.hidden = true;
+    $lista.innerHTML = '';
+    aktywna = -1;
+    $szukaj.setAttribute('aria-expanded', 'false');
+  }
+
+  function wybierz(w) {
+    schowajPodpowiedzi();
+    // zawęź listę do wybranego numeru, przewiń do wiersza i podświetl
+    $szukaj.value = w.numer;
+    zastosujFiltr();
+    w.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    w.el.classList.add('eol-hit');
+    setTimeout(() => w.el.classList.remove('eol-hit'), 2500);
+  }
+
+  // ── zdarzenia ──
+  $szukaj.addEventListener('input', () => { zastosujFiltr(); pokazPodpowiedzi(); });
+  $seria.addEventListener('change', () => { zastosujFiltr(); schowajPodpowiedzi(); });
+  $szukaj.addEventListener('blur', () => setTimeout(schowajPodpowiedzi, 120));
+  $wyczysc.addEventListener('click', () => {
+    $seria.value = '';
+    $szukaj.value = '';
+    zastosujFiltr();
+    schowajPodpowiedzi();
+  });
+
+  $szukaj.addEventListener('keydown', (e) => {
+    const opcje = [...$lista.querySelectorAll('li')];
+    if ($lista.hidden || !opcje.length) return;
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      aktywna = e.key === 'ArrowDown'
+        ? (aktywna + 1) % opcje.length
+        : (aktywna - 1 + opcje.length) % opcje.length;
+      opcje.forEach((o, i) => o.setAttribute('aria-selected', i === aktywna ? 'true' : 'false'));
+      opcje[aktywna].scrollIntoView({ block: 'nearest' });
+      $szukaj.setAttribute('aria-activedescendant', opcje[aktywna].id);
+    } else if (e.key === 'Enter' && aktywna >= 0) {
+      e.preventDefault();
+      const q = norm($szukaj.value.trim());
+      const s = $seria.value;
+      const trafienia = indeks.filter((w) => (!s || w.seria === s) && (w.numer.startsWith(q) || w.n.includes(q)));
+      if (trafienia[aktywna]) wybierz(trafienia[aktywna]);
+    } else if (e.key === 'Escape') {
+      schowajPodpowiedzi();
+    }
+  });
+
+  // ── stan startowy z URL (?seria=Icons&q=sokol) ──
+  const params = new URLSearchParams(location.search);
+  const pSeria = params.get('seria');
+  const pQ = params.get('q');
+  if (pSeria && [...$seria.options].some((o) => o.value === pSeria)) $seria.value = pSeria;
+  if (pQ) $szukaj.value = pQ;
+  if (pSeria || pQ) zastosujFiltr();
+</script>
