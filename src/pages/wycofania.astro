@@ -8,15 +8,73 @@ const wpisy = dane.wycofania;
 const serie = kolejnosc.filter((s) => wpisy.some((w) => w.seria === s));
 const wSerii = (s) => wpisy.filter((w) => w.seria === s);
 const potwierdzone = wpisy.filter((w) => w.status === 'potwierdzone').length;
+const razem = wpisy.length;
+const grudniowe = wpisy.filter((w) => w.kiedy === 'grudzień 2026').length;
+const juzWycofane = wpisy.filter((w) => w.kiedy === 'wycofany').length;
 const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
+
+// data aktualizacji w formacie polskim (z _meta, jedno źródło prawdy)
+const MIESIACE = ['stycznia','lutego','marca','kwietnia','maja','czerwca','lipca','sierpnia','września','października','listopada','grudnia'];
+const [rA, mA, dA] = dane._meta.aktualizacja.split('-').map(Number);
+const aktualizacjaPL = `${dA} ${MIESIACE[mA - 1]} ${rA}`;
+
+// FAQ — jedno źródło dla sekcji HTML i danych strukturalnych FAQPage
+const faq = [
+  {
+    q: 'Kiedy LEGO wycofuje zestawy z produkcji?',
+    a: `LEGO kończy sprzedaż zestawów w dwóch głównych falach: w połowie roku (przełom lipca i sierpnia) oraz na koniec grudnia. Największa jest fala grudniowa — w 2026 roku obejmuje ${grudniowe} zestawów z naszej listy. Daty potrafią się jednak przesuwać: LEGO czasem przedłuża życie popularnych setów albo wycofuje je przed terminem, gdy zapasy się wyczerpią.`,
+  },
+  {
+    q: 'Czy wycofane zestawy LEGO drożeją?',
+    a: 'Bardzo często tak, choć nie wszystkie w równym stopniu. Historycznie najmocniej zyskują zestawy licencyjne (Star Wars UCS, Ideas, ekskluzywy 18+), sety z unikalnymi minifigurkami oraz duże modele ekspozycyjne. Zwykłe zestawy City czy Friends drożeją wolniej albo wcale — kupuje się je przed EOL głównie po to, by nie przepłacać, a nie w celach inwestycyjnych.',
+  },
+  {
+    q: 'Kiedy najlepiej kupić wycofywany zestaw LEGO?',
+    a: 'Najkorzystniejszy moment to zwykle ostatnie tygodnie przed zniknięciem zestawu ze sklepów — sklepy wyprzedają wtedy zapasy i pojawiają się najniższe ceny w historii. Czekanie do samego końca bywa jednak ryzykowne: popularne sety potrafią wyprzedać się na długo przed oficjalną datą wycofania.',
+  },
+  {
+    q: 'Co oznacza status „potwierdzone" i „przewidywane" na tej liście?',
+    a: `„Potwierdzone" oznacza oficjalny sygnał od LEGO — zestaw trafił do działu „Ostatnie sztuki" na lego.com albo został już wyprzedany. „Przewidywane" to zgodne prognozy społeczności (m.in. Brick Fanatics i Brickset), które zwykle się sprawdzają, ale LEGO może je jeszcze zmienić. Obecnie lista zawiera ${potwierdzone} pozycji potwierdzonych i ${razem - potwierdzone} przewidywanych.`,
+  },
+  {
+    q: 'Które zestawy LEGO znikną w grudniu 2026?',
+    a: `Fala grudniowa 2026 to ${grudniowe} zestawów — m.in. kolekcjonerski Sokół Millennium 75192 po dziewięciu latach sprzedaży, Muzeum Historii Naturalnej 10326, rezydencja X-Men 76294 i duża część aktualnej oferty City, Friends oraz Ninjago. Pełny podział znajdziesz na tej stronie po przefiltrowaniu wybranej serii.`,
+  },
+  {
+    q: 'Co to jest EOL w LEGO?',
+    a: 'EOL to skrót od „end of life" — moment, w którym LEGO na stałe kończy produkcję i sprzedaż zestawu. Po EOL set nie wraca już do regularnej oferty (wznowienia zdarzają się wyjątkowo rzadko), a jedynym źródłem stają się resztki magazynowe sklepów i rynek wtórny.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+
+const stronaSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Wycofywane zestawy LEGO 2026 — pełna lista końcówek serii',
+  inLanguage: 'pl-PL',
+  dateModified: dane._meta.aktualizacja,
+  description: `Lista ${razem} zestawów LEGO wycofywanych w 2026 roku, z podziałem na serie i statusem potwierdzenia.`,
+};
 ---
 <Base
-  title="Wycofania LEGO 2026 — które zestawy znikają ze sprzedaży (EOL)"
-  description={`Lista zestawów LEGO wycofywanych w 2026 roku według serii: Ideas, Icons, Star Wars, Harry Potter, Technic i inne. ${potwierdzone} pozycji potwierdzonych przez LEGO. Aktualizujemy na bieżąco.`}
+  title="Wycofywane zestawy LEGO 2026 — pełna lista końcówek serii (EOL)"
+  description={`Które zestawy LEGO znikają w 2026? Pełna lista ${razem} wycofań: Star Wars, Icons, Ideas, Technic, Harry Potter i inne. ${potwierdzone} pozycji potwierdzonych przez LEGO. Aktualizacja: ${aktualizacjaPL}.`}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(stronaSchema)} />
   <article>
-    <h1 style="margin-top:28px">Wycofania LEGO 2026 (EOL)</h1>
-    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii — a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Poniżej zestawy, które <strong>znikają w 2026 roku</strong>, pogrupowane według serii. Status „potwierdzone" oznacza oficjalną informację LEGO (dział „Ostatnie sztuki"); „przewidywane" — zgodne prognozy społeczności. Listę aktualizujemy na bieżąco.</p>
+    <h1 style="margin-top:28px">Wycofywane zestawy LEGO 2026 — pełna lista końcówek serii</h1>
+    <p class="eol-aktualizacja">Ostatnia aktualizacja: <time datetime={dane._meta.aktualizacja}>{aktualizacjaPL}</time> · {razem} zestawów · {potwierdzone} potwierdzonych przez LEGO · {juzWycofane} już wycofanych</p>
+    <p class="prose">Gdy LEGO wycofuje zestaw z produkcji, jego cena najpierw bywa najniższa w historii — a po zniknięciu z półek zaczyna rosnąć na rynku wtórnym. Zebraliśmy w jednym miejscu <strong>wszystkie {razem} zestawów, które znikają ze sprzedaży w 2026 roku</strong>, w 11 seriach: od Star Wars i Icons po City i Friends. Użyj filtra poniżej, by zawęzić listę do swojej serii, albo wpisz numer lub nazwę zestawu w wyszukiwarkę. Status „potwierdzone" oznacza oficjalną informację LEGO (dział „Ostatnie sztuki"); „przewidywane" — zgodne prognozy społeczności. Wracaj tu regularnie — listę aktualizujemy na bieżąco.</p>
     <p class="disclosure">Przyciski „Sprawdź cenę" to linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc więcej.</p>
 
     <div class="eol-filtr karta" role="search" aria-label="Filtrowanie listy wycofań">
@@ -94,6 +152,19 @@ const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
     <section class="sekcja karta" style="padding:18px 22px;">
       <h2>Jak czytać tę listę?</h2>
       <p class="prose" style="margin:0">Dla <strong>rodzica</strong>: jeśli zestaw z listy jest na liście życzeń dziecka — kup przed zniknięciem, po EOL ceny rosną zamiast spadać. Dla <strong>kolekcjonera</strong>: fala przecen tuż przed wycofaniem to często ostatni moment na najniższą cenę w historii; sety licencyjne (Ideas, ekskluzywy) historycznie zyskują najwięcej. Daty podajemy za LEGO — firma potrafi je zmieniać, więc wracaj tu regularnie.</p>
+    </section>
+
+    <section class="sekcja eol-faq" id="faq" style="margin: 34px 0;">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Wycofania LEGO — najczęstsze pytania</h2>
+      </div>
+      {faq.map((f) => (
+        <div class="karta eol-faq-wpis">
+          <h3>{f.q}</h3>
+          <p class="prose">{f.a}</p>
+        </div>
+      ))}
     </section>
   </article>
 </Base>
@@ -174,6 +245,15 @@ const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
     transition: outline-color 1.2s ease;
   }
   .eol-pusto { font-size: 0.9rem; opacity: 0.65; padding: 6px 2px; }
+
+  .eol-aktualizacja {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    margin: 4px 0 14px;
+  }
+  .eol-faq-wpis { padding: 14px 18px; margin: 12px 0; }
+  .eol-faq-wpis h3 { margin: 0 0 6px; font-size: 1.05rem; }
+  .eol-faq-wpis p { margin: 0; }
 </style>
 
 <script>
