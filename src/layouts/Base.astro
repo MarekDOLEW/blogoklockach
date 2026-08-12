@@ -17,6 +17,10 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pl_PL" />
     {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+    <!-- Cloudflare Web Analytics — darmowe, bez cookies. Token: panel Cloudflare ->
+         Analytics & Logs -> Web Analytics -> Add a site (tylkoklocki.pl) -> skopiuj token
+         i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "TOKEN_Z_PANELU"}'}></script>
   </head>
   <body>
     <header class="site-header">
