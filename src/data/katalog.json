@@ -6,9 +6,12 @@
       "lego.com",
       "brickset.com (theme Harry Potter)",
       "lego.com/pl-pl (statusy i polskie nazwy)",
-      "promoklocki.pl (polskie nazwy setow wycofanych)"
+      "promoklocki.pl (polskie nazwy setow wycofanych)",
+      "brickset.com (theme BrickHeadz - struktura, roczniki, dostepnosc EU)",
+      "promoklocki.pl (BrickHeadz - polskie nazwy, liczba elementow)",
+      "lego.com/pl-pl/themes/brickheadz (statusy dostepnosci, 26 zestawow w sprzedazy)"
     ],
-    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
+    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. BrickHeadz: pominieto zestawy promocyjne/eventowe i niedostepne w Europie (SDCC/NYCC 2016-2017, Nonnie, miejskie, Geoffrey 40316 niewydany, 75232 ekskluzyw Target US, GWP 40412 i 40490, edycja limitowana SDCC 40726, multipak 41489). Sety sezonowe oznaczone dopiskiem (sezonowy). Statusy wg oferty LEGO.com/pl-pl z 2026-08-12; 8 pozycji ze strony 2 listingu ustalono na podstawie licznikow filtrow tematycznych."
   },
   "Ideas": [
     {
@@ -2050,6 +2053,1254 @@
       "nazwa": "Book nook: Gabinet Dumbledore'a",
       "rok": 2026,
       "elementy": 1182,
+      "status": "dostepny"
+    }
+  ],
+  "BrickHeadz": [
+    {
+      "numer": "41585",
+      "nazwa": "Batman",
+      "rok": 2017,
+      "elementy": 91,
+      "status": "eol"
+    },
+    {
+      "numer": "41586",
+      "nazwa": "Batgirl",
+      "rok": 2017,
+      "elementy": 99,
+      "status": "eol"
+    },
+    {
+      "numer": "41587",
+      "nazwa": "Robin",
+      "rok": 2017,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
+      "numer": "41588",
+      "nazwa": "Joker",
+      "rok": 2017,
+      "elementy": 151,
+      "status": "eol"
+    },
+    {
+      "numer": "41589",
+      "nazwa": "Kapitan Ameryka",
+      "rok": 2017,
+      "elementy": 79,
+      "status": "eol"
+    },
+    {
+      "numer": "41590",
+      "nazwa": "Iron Man",
+      "rok": 2017,
+      "elementy": 96,
+      "status": "eol"
+    },
+    {
+      "numer": "41591",
+      "nazwa": "Czarna Wdowa",
+      "rok": 2017,
+      "elementy": 143,
+      "status": "eol"
+    },
+    {
+      "numer": "41592",
+      "nazwa": "Hulk",
+      "rok": 2017,
+      "elementy": 93,
+      "status": "eol"
+    },
+    {
+      "numer": "41593",
+      "nazwa": "Kapitan Jack Sparrow",
+      "rok": 2017,
+      "elementy": 109,
+      "status": "eol"
+    },
+    {
+      "numer": "41594",
+      "nazwa": "Kapitan Armando Salazar",
+      "rok": 2017,
+      "elementy": 118,
+      "status": "eol"
+    },
+    {
+      "numer": "41595",
+      "nazwa": "Bella",
+      "rok": 2017,
+      "elementy": 139,
+      "status": "eol"
+    },
+    {
+      "numer": "41596",
+      "nazwa": "Bestia",
+      "rok": 2017,
+      "elementy": 116,
+      "status": "eol"
+    },
+    {
+      "numer": "41485",
+      "nazwa": "Finn",
+      "rok": 2017,
+      "elementy": 91,
+      "status": "eol"
+    },
+    {
+      "numer": "41486",
+      "nazwa": "Kapitan Phasma",
+      "rok": 2017,
+      "elementy": 127,
+      "status": "eol"
+    },
+    {
+      "numer": "41487",
+      "nazwa": "Lloyd",
+      "rok": 2017,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "41488",
+      "nazwa": "Mistrz Wu",
+      "rok": 2017,
+      "elementy": 89,
+      "status": "eol"
+    },
+    {
+      "numer": "40270",
+      "nazwa": "Walentynkowa pszczółka (sezonowy)",
+      "rok": 2018,
+      "elementy": 140,
+      "status": "eol"
+    },
+    {
+      "numer": "40271",
+      "nazwa": "Zajączek wielkanocny (sezonowy)",
+      "rok": 2018,
+      "elementy": 126,
+      "status": "eol"
+    },
+    {
+      "numer": "40272",
+      "nazwa": "Wiedźma na Halloween (sezonowy)",
+      "rok": 2018,
+      "elementy": 151,
+      "status": "eol"
+    },
+    {
+      "numer": "40273",
+      "nazwa": "Indyk na Święto Dziękczynienia (sezonowy)",
+      "rok": 2018,
+      "elementy": 114,
+      "status": "eol"
+    },
+    {
+      "numer": "40274",
+      "nazwa": "Święty Mikołaj i Pani Mikołajowa (sezonowy)",
+      "rok": 2018,
+      "elementy": 341,
+      "status": "eol"
+    },
+    {
+      "numer": "41597",
+      "nazwa": "Portret z klocków (Go Brick Me)",
+      "rok": 2018,
+      "elementy": 708,
+      "status": "eol"
+    },
+    {
+      "numer": "41598",
+      "nazwa": "The Flash",
+      "rok": 2018,
+      "elementy": 122,
+      "status": "eol"
+    },
+    {
+      "numer": "41599",
+      "nazwa": "Wonder Woman",
+      "rok": 2018,
+      "elementy": 143,
+      "status": "eol"
+    },
+    {
+      "numer": "41600",
+      "nazwa": "Aquaman",
+      "rok": 2018,
+      "elementy": 135,
+      "status": "eol"
+    },
+    {
+      "numer": "41601",
+      "nazwa": "Cyborg",
+      "rok": 2018,
+      "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "41602",
+      "nazwa": "Rey",
+      "rok": 2018,
+      "elementy": 119,
+      "status": "eol"
+    },
+    {
+      "numer": "41603",
+      "nazwa": "Kylo Ren",
+      "rok": 2018,
+      "elementy": 130,
+      "status": "eol"
+    },
+    {
+      "numer": "41604",
+      "nazwa": "Iron Man MK50",
+      "rok": 2018,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
+      "numer": "41605",
+      "nazwa": "Thanos",
+      "rok": 2018,
+      "elementy": 105,
+      "status": "eol"
+    },
+    {
+      "numer": "41606",
+      "nazwa": "Star-Lord",
+      "rok": 2018,
+      "elementy": 113,
+      "status": "eol"
+    },
+    {
+      "numer": "41607",
+      "nazwa": "Gamora",
+      "rok": 2018,
+      "elementy": 136,
+      "status": "eol"
+    },
+    {
+      "numer": "41608",
+      "nazwa": "Han Solo",
+      "rok": 2018,
+      "elementy": 141,
+      "status": "eol"
+    },
+    {
+      "numer": "41609",
+      "nazwa": "Chewbacca",
+      "rok": 2018,
+      "elementy": 149,
+      "status": "eol"
+    },
+    {
+      "numer": "41610",
+      "nazwa": "Batman i Superman",
+      "rok": 2018,
+      "elementy": 209,
+      "status": "eol"
+    },
+    {
+      "numer": "41611",
+      "nazwa": "Marty McFly i Doc Brown",
+      "rok": 2018,
+      "elementy": 240,
+      "status": "eol"
+    },
+    {
+      "numer": "41612",
+      "nazwa": "Steve i Creeper",
+      "rok": 2018,
+      "elementy": 160,
+      "status": "eol"
+    },
+    {
+      "numer": "41613",
+      "nazwa": "Pan Iniemamocny i Mrożon",
+      "rok": 2018,
+      "elementy": 160,
+      "status": "eol"
+    },
+    {
+      "numer": "41614",
+      "nazwa": "Owen i Blue",
+      "rok": 2018,
+      "elementy": 234,
+      "status": "eol"
+    },
+    {
+      "numer": "41615",
+      "nazwa": "Harry Potter i Hedwiga",
+      "rok": 2018,
+      "elementy": 180,
+      "status": "eol"
+    },
+    {
+      "numer": "41616",
+      "nazwa": "Hermiona Granger",
+      "rok": 2018,
+      "elementy": 127,
+      "status": "eol"
+    },
+    {
+      "numer": "41617",
+      "nazwa": "Elsa",
+      "rok": 2018,
+      "elementy": 130,
+      "status": "eol"
+    },
+    {
+      "numer": "41618",
+      "nazwa": "Anna i Olaf",
+      "rok": 2018,
+      "elementy": 201,
+      "status": "eol"
+    },
+    {
+      "numer": "41619",
+      "nazwa": "Darth Vader",
+      "rok": 2018,
+      "elementy": 104,
+      "status": "eol"
+    },
+    {
+      "numer": "41620",
+      "nazwa": "Szturmowiec",
+      "rok": 2018,
+      "elementy": 124,
+      "status": "eol"
+    },
+    {
+      "numer": "41621",
+      "nazwa": "Ron Weasley i Albus Dumbledore",
+      "rok": 2018,
+      "elementy": 245,
+      "status": "eol"
+    },
+    {
+      "numer": "41622",
+      "nazwa": "Peter Venkman i Slimer",
+      "rok": 2018,
+      "elementy": 228,
+      "status": "eol"
+    },
+    {
+      "numer": "41623",
+      "nazwa": "Arielka i Urszula",
+      "rok": 2018,
+      "elementy": 361,
+      "status": "eol"
+    },
+    {
+      "numer": "41624",
+      "nazwa": "Myszka Miki",
+      "rok": 2018,
+      "elementy": 109,
+      "status": "eol"
+    },
+    {
+      "numer": "41625",
+      "nazwa": "Myszka Minnie",
+      "rok": 2018,
+      "elementy": 129,
+      "status": "eol"
+    },
+    {
+      "numer": "41626",
+      "nazwa": "Groot i Rocket",
+      "rok": 2018,
+      "elementy": 189,
+      "status": "eol"
+    },
+    {
+      "numer": "41627",
+      "nazwa": "Luke Skywalker i Yoda",
+      "rok": 2018,
+      "elementy": 215,
+      "status": "eol"
+    },
+    {
+      "numer": "41628",
+      "nazwa": "Księżniczka Leia Organa",
+      "rok": 2018,
+      "elementy": 124,
+      "status": "eol"
+    },
+    {
+      "numer": "41629",
+      "nazwa": "Boba Fett",
+      "rok": 2018,
+      "elementy": 161,
+      "status": "eol"
+    },
+    {
+      "numer": "41630",
+      "nazwa": "Jack Skellington i Sally",
+      "rok": 2018,
+      "elementy": 193,
+      "status": "eol"
+    },
+    {
+      "numer": "41631",
+      "nazwa": "Newt Scamander i Gellert Grindelwald",
+      "rok": 2018,
+      "elementy": 247,
+      "status": "eol"
+    },
+    {
+      "numer": "41632",
+      "nazwa": "Homer Simpson i Klaun Krusty",
+      "rok": 2018,
+      "elementy": 215,
+      "status": "eol"
+    },
+    {
+      "numer": "40348",
+      "nazwa": "Klaun z urodzinowego przyjęcia (sezonowy)",
+      "rok": 2019,
+      "elementy": 150,
+      "status": "eol"
+    },
+    {
+      "numer": "40349",
+      "nazwa": "Walentynkowy szczeniaczek (sezonowy)",
+      "rok": 2019,
+      "elementy": 147,
+      "status": "eol"
+    },
+    {
+      "numer": "40350",
+      "nazwa": "Wielkanocny kurczak (sezonowy)",
+      "rok": 2019,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
+      "numer": "40351",
+      "nazwa": "Duch na Halloween (sezonowy)",
+      "rok": 2019,
+      "elementy": 136,
+      "status": "eol"
+    },
+    {
+      "numer": "40352",
+      "nazwa": "Strach na Święto Dziękczynienia (sezonowy)",
+      "rok": 2019,
+      "elementy": 177,
+      "status": "eol"
+    },
+    {
+      "numer": "40353",
+      "nazwa": "Renifer, elf i elfka (sezonowy)",
+      "rok": 2019,
+      "elementy": 281,
+      "status": "eol"
+    },
+    {
+      "numer": "40354",
+      "nazwa": "Chłopak tańczący taniec smoka (sezonowy)",
+      "rok": 2019,
+      "elementy": 170,
+      "status": "eol"
+    },
+    {
+      "numer": "40367",
+      "nazwa": "Statua Wolności",
+      "rok": 2019,
+      "elementy": 153,
+      "status": "eol"
+    },
+    {
+      "numer": "41634",
+      "nazwa": "Emmet",
+      "rok": 2019,
+      "elementy": 113,
+      "status": "eol"
+    },
+    {
+      "numer": "41635",
+      "nazwa": "Żyleta",
+      "rok": 2019,
+      "elementy": 134,
+      "status": "eol"
+    },
+    {
+      "numer": "41636",
+      "nazwa": "Benek",
+      "rok": 2019,
+      "elementy": 103,
+      "status": "eol"
+    },
+    {
+      "numer": "41637",
+      "nazwa": "Słodka Zadyma",
+      "rok": 2019,
+      "elementy": 137,
+      "status": "eol"
+    },
+    {
+      "numer": "40377",
+      "nazwa": "Kaczor Donald",
+      "rok": 2020,
+      "elementy": 90,
+      "status": "eol"
+    },
+    {
+      "numer": "40378",
+      "nazwa": "Goofy i Pluto",
+      "rok": 2020,
+      "elementy": 214,
+      "status": "eol"
+    },
+    {
+      "numer": "40379",
+      "nazwa": "Miś Walentynkowy (sezonowy)",
+      "rok": 2020,
+      "elementy": 150,
+      "status": "eol"
+    },
+    {
+      "numer": "40380",
+      "nazwa": "Wielkanocna owieczka (sezonowy)",
+      "rok": 2020,
+      "elementy": 192,
+      "status": "eol"
+    },
+    {
+      "numer": "40381",
+      "nazwa": "Monkey King",
+      "rok": 2020,
+      "elementy": 175,
+      "status": "eol"
+    },
+    {
+      "numer": "40383",
+      "nazwa": "Panna Młoda",
+      "rok": 2020,
+      "elementy": 306,
+      "status": "eol"
+    },
+    {
+      "numer": "40384",
+      "nazwa": "Pan Młody",
+      "rok": 2020,
+      "elementy": 255,
+      "status": "eol"
+    },
+    {
+      "numer": "40422",
+      "nazwa": "Frankenstein",
+      "rok": 2020,
+      "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "40425",
+      "nazwa": "Dziadek do orzechów (sezonowy)",
+      "rok": 2020,
+      "elementy": 180,
+      "status": "eol"
+    },
+    {
+      "numer": "40436",
+      "nazwa": "Japoński kot szczęścia (sezonowy)",
+      "rok": 2020,
+      "elementy": 134,
+      "status": "eol"
+    },
+    {
+      "numer": "75317",
+      "nazwa": "Mandalorianin i Dziecko",
+      "rok": 2020,
+      "elementy": 295,
+      "status": "eol"
+    },
+    {
+      "numer": "40420",
+      "nazwa": "Gru, Stuart i Otto",
+      "rok": 2021,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "40421",
+      "nazwa": "Belle Bottom, Kevin i Bob",
+      "rok": 2021,
+      "elementy": 309,
+      "status": "eol"
+    },
+    {
+      "numer": "40440",
+      "nazwa": "Owczarek niemiecki",
+      "rok": 2021,
+      "elementy": 247,
+      "status": "eol"
+    },
+    {
+      "numer": "40441",
+      "nazwa": "Koty krótkowłose",
+      "rok": 2021,
+      "elementy": 250,
+      "status": "eol"
+    },
+    {
+      "numer": "40442",
+      "nazwa": "Złota rybka",
+      "rok": 2021,
+      "elementy": 186,
+      "status": "eol"
+    },
+    {
+      "numer": "40443",
+      "nazwa": "Papużka",
+      "rok": 2021,
+      "elementy": 261,
+      "status": "eol"
+    },
+    {
+      "numer": "40466",
+      "nazwa": "Pandy na Chiński Nowy Rok (sezonowy)",
+      "rok": 2021,
+      "elementy": 249,
+      "status": "eol"
+    },
+    {
+      "numer": "40476",
+      "nazwa": "Kaczka Daisy",
+      "rok": 2021,
+      "elementy": 110,
+      "status": "eol"
+    },
+    {
+      "numer": "40477",
+      "nazwa": "Sknerus McKwacz, Hyzio, Dyzio i Zyzio",
+      "rok": 2021,
+      "elementy": 340,
+      "status": "eol"
+    },
+    {
+      "numer": "40479",
+      "nazwa": "Dalmatyńczyk",
+      "rok": 2021,
+      "elementy": 252,
+      "status": "eol"
+    },
+    {
+      "numer": "40480",
+      "nazwa": "Pręgowany rudy kot",
+      "rok": 2021,
+      "elementy": 269,
+      "status": "eol"
+    },
+    {
+      "numer": "40481",
+      "nazwa": "Kakadu",
+      "rok": 2021,
+      "elementy": 219,
+      "status": "eol"
+    },
+    {
+      "numer": "40482",
+      "nazwa": "Chomik",
+      "rok": 2021,
+      "elementy": 243,
+      "status": "eol"
+    },
+    {
+      "numer": "40492",
+      "nazwa": "Szkieletowa dama (La Catrina) (sezonowy)",
+      "rok": 2021,
+      "elementy": 141,
+      "status": "eol"
+    },
+    {
+      "numer": "40495",
+      "nazwa": "Harry, Hermiona, Ron i Hagrid",
+      "rok": 2021,
+      "elementy": 466,
+      "status": "eol"
+    },
+    {
+      "numer": "40496",
+      "nazwa": "Voldemort, Nagini i Bellatrix",
+      "rok": 2021,
+      "elementy": 344,
+      "status": "eol"
+    },
+    {
+      "numer": "40539",
+      "nazwa": "Ahsoka Tano",
+      "rok": 2022,
+      "elementy": 164,
+      "status": "eol"
+    },
+    {
+      "numer": "40540",
+      "nazwa": "Chłopak tańczący taniec lwa (sezonowy)",
+      "rok": 2022,
+      "elementy": 239,
+      "status": "eol"
+    },
+    {
+      "numer": "40541",
+      "nazwa": "Portret z klocków — Manchester United",
+      "rok": 2022,
+      "elementy": 530,
+      "status": "eol"
+    },
+    {
+      "numer": "40542",
+      "nazwa": "Portret z klocków — FC Barcelona",
+      "rok": 2022,
+      "elementy": 530,
+      "status": "eol"
+    },
+    {
+      "numer": "40543",
+      "nazwa": "Bernardyn",
+      "rok": 2022,
+      "elementy": 236,
+      "status": "eol"
+    },
+    {
+      "numer": "40544",
+      "nazwa": "Buldog francuski",
+      "rok": 2022,
+      "elementy": 237,
+      "status": "eol"
+    },
+    {
+      "numer": "40545",
+      "nazwa": "Karp koi",
+      "rok": 2022,
+      "elementy": 203,
+      "status": "eol"
+    },
+    {
+      "numer": "40546",
+      "nazwa": "Pudel",
+      "rok": 2022,
+      "elementy": 304,
+      "status": "eol"
+    },
+    {
+      "numer": "40547",
+      "nazwa": "Obi-Wan Kenobi i Darth Vader",
+      "rok": 2022,
+      "elementy": 260,
+      "status": "eol"
+    },
+    {
+      "numer": "40548",
+      "nazwa": "Hołd dla Spice Girls",
+      "rok": 2022,
+      "elementy": 578,
+      "status": "eol"
+    },
+    {
+      "numer": "40549",
+      "nazwa": "Demogorgon i Jedenastka",
+      "rok": 2022,
+      "elementy": 192,
+      "status": "eol"
+    },
+    {
+      "numer": "40550",
+      "nazwa": "Chip i Dale",
+      "rok": 2022,
+      "elementy": 226,
+      "status": "eol"
+    },
+    {
+      "numer": "40552",
+      "nazwa": "Buzz Astral",
+      "rok": 2022,
+      "elementy": 114,
+      "status": "eol"
+    },
+    {
+      "numer": "40553",
+      "nazwa": "Chudy i Bou",
+      "rok": 2022,
+      "elementy": 296,
+      "status": "eol"
+    },
+    {
+      "numer": "40554",
+      "nazwa": "Jake Sully i jego awatar",
+      "rok": 2022,
+      "elementy": 246,
+      "status": "eol"
+    },
+    {
+      "numer": "40559",
+      "nazwa": "Struś Pędziwiatr i Wiluś E. Kojot",
+      "rok": 2022,
+      "elementy": 205,
+      "status": "eol"
+    },
+    {
+      "numer": "40560",
+      "nazwa": "Profesorowie Hogwartu",
+      "rok": 2022,
+      "elementy": 601,
+      "status": "eol"
+    },
+    {
+      "numer": "40615",
+      "nazwa": "Tuskeński rabuś",
+      "rok": 2023,
+      "elementy": 152,
+      "status": "eol"
+    },
+    {
+      "numer": "40616",
+      "nazwa": "Harry Potter i Cho Chang",
+      "rok": 2023,
+      "elementy": 267,
+      "status": "eol"
+    },
+    {
+      "numer": "40617",
+      "nazwa": "Draco Malfoy i Cedric Diggory",
+      "rok": 2023,
+      "elementy": 262,
+      "status": "eol"
+    },
+    {
+      "numer": "40618",
+      "nazwa": "Kingsley Shacklebolt i Nimfadora Tonks",
+      "rok": 2023,
+      "elementy": 250,
+      "status": "eol"
+    },
+    {
+      "numer": "40619",
+      "nazwa": "EWA i WALL-E",
+      "rok": 2023,
+      "elementy": 155,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40620",
+      "nazwa": "Cruella i Diabolina",
+      "rok": 2023,
+      "elementy": 320,
+      "status": "eol"
+    },
+    {
+      "numer": "40621",
+      "nazwa": "Vaiana i Merida",
+      "rok": 2023,
+      "elementy": 410,
+      "status": "eol"
+    },
+    {
+      "numer": "40622",
+      "nazwa": "Disney — 100. urodziny",
+      "rok": 2023,
+      "elementy": 501,
+      "status": "eol"
+    },
+    {
+      "numer": "40623",
+      "nazwa": "Bohaterowie bitwy o Endor",
+      "rok": 2023,
+      "elementy": 549,
+      "status": "eol"
+    },
+    {
+      "numer": "40624",
+      "nazwa": "Alex",
+      "rok": 2023,
+      "elementy": 86,
+      "status": "eol"
+    },
+    {
+      "numer": "40625",
+      "nazwa": "Llama",
+      "rok": 2023,
+      "elementy": 100,
+      "status": "eol"
+    },
+    {
+      "numer": "40626",
+      "nazwa": "Zombie",
+      "rok": 2023,
+      "elementy": 81,
+      "status": "eol"
+    },
+    {
+      "numer": "40627",
+      "nazwa": "Sonic the Hedgehog",
+      "rok": 2023,
+      "elementy": 139,
+      "status": "eol"
+    },
+    {
+      "numer": "40628",
+      "nazwa": "Miles „Tails” Prower",
+      "rok": 2023,
+      "elementy": 131,
+      "status": "eol"
+    },
+    {
+      "numer": "40630",
+      "nazwa": "Frodo i Gollum",
+      "rok": 2023,
+      "elementy": 184,
+      "status": "eol"
+    },
+    {
+      "numer": "40631",
+      "nazwa": "Gandalf Szary i Balrog",
+      "rok": 2023,
+      "elementy": 348,
+      "status": "eol"
+    },
+    {
+      "numer": "40632",
+      "nazwa": "Aragorn i Arwena",
+      "rok": 2023,
+      "elementy": 261,
+      "status": "eol"
+    },
+    {
+      "numer": "40668",
+      "nazwa": "Figurki Kapitana Ameryki i Czerwonego Hulka",
+      "rok": 2024,
+      "elementy": 202,
+      "status": "eol"
+    },
+    {
+      "numer": "40669",
+      "nazwa": "Figurka Iron Man MK5",
+      "rok": 2024,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
+      "numer": "40670",
+      "nazwa": "Iron Spider-Man",
+      "rok": 2024,
+      "elementy": 91,
+      "status": "eol"
+    },
+    {
+      "numer": "40671",
+      "nazwa": "Groot w doniczce",
+      "rok": 2024,
+      "elementy": 113,
+      "status": "eol"
+    },
+    {
+      "numer": "40672",
+      "nazwa": "Sonic the Hedgehog: Knuckles i Shadow",
+      "rok": 2024,
+      "elementy": 298,
+      "status": "eol"
+    },
+    {
+      "numer": "40673",
+      "nazwa": "Myszka Miki w stroju na wiosenny festiwal (sezonowy)",
+      "rok": 2024,
+      "elementy": 120,
+      "status": "eol"
+    },
+    {
+      "numer": "40674",
+      "nazwa": "Stitch",
+      "rok": 2024,
+      "elementy": 152,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40675",
+      "nazwa": "Dowódca klonów Cody",
+      "rok": 2024,
+      "elementy": 147,
+      "status": "eol"
+    },
+    {
+      "numer": "40676",
+      "nazwa": "Mroczne widmo",
+      "rok": 2024,
+      "elementy": 732,
+      "status": "eol"
+    },
+    {
+      "numer": "40677",
+      "nazwa": "Figurki z filmu „Więzień Azkabanu”",
+      "rok": 2024,
+      "elementy": 697,
+      "status": "eol"
+    },
+    {
+      "numer": "40728",
+      "nazwa": "Bombowe Barwy",
+      "rok": 2024,
+      "elementy": 151,
+      "status": "eol"
+    },
+    {
+      "numer": "40748",
+      "nazwa": "Batman 8w1",
+      "rok": 2024,
+      "elementy": 325,
+      "status": "eol"
+    },
+    {
+      "numer": "40749",
+      "nazwa": "Radość, Smutek i Strach",
+      "rok": 2024,
+      "elementy": 300,
+      "status": "eol"
+    },
+    {
+      "numer": "40750",
+      "nazwa": "Wednesday i Enid",
+      "rok": 2024,
+      "elementy": 239,
+      "status": "eol"
+    },
+    {
+      "numer": "40751",
+      "nazwa": "Legolas i Gimli",
+      "rok": 2024,
+      "elementy": 297,
+      "status": "eol"
+    },
+    {
+      "numer": "40752",
+      "nazwa": "Carl, Russell i Kevin",
+      "rok": 2024,
+      "elementy": 308,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40753",
+      "nazwa": "Mirabel Madrigal",
+      "rok": 2024,
+      "elementy": 179,
+      "status": "eol"
+    },
+    {
+      "numer": "40760",
+      "nazwa": "Przygodowy Skórek z Tropików i Dowódczyni Drużyny Przytulanek",
+      "rok": 2025,
+      "elementy": 258,
+      "status": "eol"
+    },
+    {
+      "numer": "40791",
+      "nazwa": "Czara Ognia — figurki",
+      "rok": 2025,
+      "elementy": 671,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40792",
+      "nazwa": "Dumbo",
+      "rok": 2025,
+      "elementy": 176,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40793",
+      "nazwa": "Figurki Toma i Jerry’ego",
+      "rok": 2025,
+      "elementy": 212,
+      "status": "eol"
+    },
+    {
+      "numer": "40794",
+      "nazwa": "Wicked: Figurki Elphaby i Glindy",
+      "rok": 2025,
+      "elementy": 325,
+      "status": "eol"
+    },
+    {
+      "numer": "40795",
+      "nazwa": "Luke Skywalker (pilot Rebelii)",
+      "rok": 2025,
+      "elementy": 138,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40796",
+      "nazwa": "Zemsta Sithów — bohaterowie i złoczyńcy",
+      "rok": 2025,
+      "elementy": 656,
+      "status": "eol"
+    },
+    {
+      "numer": "40797",
+      "nazwa": "Kłapouchy",
+      "rok": 2025,
+      "elementy": 156,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40798",
+      "nazwa": "Panda czerwona Mei",
+      "rok": 2025,
+      "elementy": 121,
+      "status": "eol"
+    },
+    {
+      "numer": "40799",
+      "nazwa": "Figurka Monkey D. Luffy’ego",
+      "rok": 2025,
+      "elementy": 136,
+      "status": "eol"
+    },
+    {
+      "numer": "40800",
+      "nazwa": "Figurka klauna Buggy’ego",
+      "rok": 2025,
+      "elementy": 176,
+      "status": "eol"
+    },
+    {
+      "numer": "40801",
+      "nazwa": "Figurki Dustina, Mike’a, Willa i Lucasa",
+      "rok": 2025,
+      "elementy": 542,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40802",
+      "nazwa": "Figurki Luny Lovegood i testrala",
+      "rok": 2025,
+      "elementy": 292,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40803",
+      "nazwa": "Robot i pojazd Optimus Prime",
+      "rok": 2025,
+      "elementy": 237,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40804",
+      "nazwa": "Robot i pojazd Bumblebee",
+      "rok": 2025,
+      "elementy": 253,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40884",
+      "nazwa": "Drift i Raven — figurki",
+      "rok": 2025,
+      "elementy": 280,
+      "status": "eol"
+    },
+    {
+      "numer": "40856",
+      "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
+      "rok": 2026,
+      "elementy": 661,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40858",
+      "nazwa": "Figurka SpongeBoba Kanciastoportego",
+      "rok": 2026,
+      "elementy": 72,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40859",
+      "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
+      "rok": 2026,
+      "elementy": 218,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40860",
+      "nazwa": "Toy Story",
+      "rok": 2026,
+      "elementy": 528,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40861",
+      "nazwa": "Figurki Sulley’ego, Mike’a i Boo",
+      "rok": 2026,
+      "elementy": 303,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40878",
+      "nazwa": "Figurki Wojowniczych żółwi ninja",
+      "rok": 2026,
+      "elementy": 567,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40879",
+      "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
+      "rok": 2026,
+      "elementy": 584,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40880",
+      "nazwa": "Avengers: Doomsday — Bohaterowie i złoczyńca",
+      "rok": 2026,
+      "elementy": 467,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40881",
+      "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
+      "rok": 2026,
+      "elementy": 300,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40910",
+      "nazwa": "Mistrz Rzucania Mięsem i Podniebna — figurki",
+      "rok": 2026,
+      "elementy": 288,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40919",
+      "nazwa": "Figurki gremlinów: Gizmo i Stripe",
+      "rok": 2026,
+      "elementy": 230,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40922",
+      "nazwa": "Lilo i Stitch: Andzia",
+      "rok": 2026,
+      "elementy": 133,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40923",
+      "nazwa": "Figurki Shreka, Osła i Ciastka",
+      "rok": 2026,
+      "elementy": 259,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40924",
+      "nazwa": "Megatron jako robot i pojazd",
+      "rok": 2026,
+      "elementy": 224,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40925",
+      "nazwa": "Alicja w Krainie Czarów",
+      "rok": 2026,
+      "elementy": 601,
       "status": "dostepny"
     }
   ]
