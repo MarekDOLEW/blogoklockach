@@ -148,3 +148,20 @@ a { color: inherit; }
 .galeria img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
 .set-karta .miniatura { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; border-radius: 8px; border: 1px solid var(--linia); }
 .zrodlo-foto { font-size: 0.75rem; color: var(--granat-60); margin-top: 4px; }
+
+/* ---------- Wycofania (EOL) — miniaturki z powiększeniem ---------- */
+.eol-lista { display: flex; flex-direction: column; gap: 12px; }
+.eol-wiersz { display: grid; grid-template-columns: 96px 1fr auto; gap: 16px; align-items: center; padding: 14px 16px; }
+@media (max-width: 700px) { .eol-wiersz { grid-template-columns: 72px 1fr; } .eol-akcja { grid-column: 1 / -1; flex-direction: row; align-items: center; justify-content: space-between; } }
+.eol-mini { position: relative; width: 96px; height: 96px; }
+.eol-mini img { width: 96px; height: 96px; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
+.eol-mini img:hover { transform: scale(2.6); box-shadow: 0 10px 40px rgba(23,35,63,0.35); position: relative; z-index: 30; }
+.eol-mini-placeholder { width: 96px; height: 96px; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
+.eol-info .nr { font-size: 0.78rem; color: var(--granat-60); font-weight: 700; }
+.eol-info h3 { margin: 2px 0 4px; }
+.eol-uwagi { margin: 0 0 6px; font-size: 0.9rem; color: var(--granat-60); }
+.eol-akcja { display: flex; flex-direction: column; gap: 8px; align-items: flex-end; text-align: right; }
+.eol-badge { font-size: 0.85rem; padding: 4px 12px 4px 8px; }
+.eol-status { font-size: 0.75rem; color: var(--granat-60); }
+.eol-akcja .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.85rem; padding: 8px 14px; border-radius: 6px; }
+.eol-akcja .cta:hover { background: #0f1830; }
