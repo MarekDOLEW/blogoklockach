@@ -1,6 +1,19 @@
 {
   "_meta": "Mapa linkow afiliacyjnych. Format: sklep -> numer setu -> pelny URL. Uzupelnia sesja Cowork z feedow webePartners. Brak wpisu = przekierowanie na strone glowna (obsluguje worker).",
-  "planetaklockow": {},
+  "planetaklockow": {
+    "21372": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTIxMzcyLWlkZWFzLWxhLWNhdHJpbmE",
+    "21370": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTIxMzcwLWlkZWFzLWV0LXRoZS1leHRyYS10ZXJyZXN0cmlhbA",
+    "72160": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTcyMTYwLXBva2Vtb24tYXJjYW5pbmU",
+    "72168": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTcyMzA2LXBva2Vtb24tcmF5cXVhemE",
+    "11381": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTExMzgxLWljb25zLWphZ3Vhci1lLXR5cGU",
+    "11382": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTExMzgyLWljb25zLWtvc21pY3pueS10ZWxlc2tvcC1odWJibGVh",
+    "77263": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTc3MjYzLXNwZWVkLWNoYW1waW9ucy1ibXctbTMtZTMw",
+    "21349": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTIxMzQ5LWlkZWFz",
+    "76417": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTc2NDE3LWhhcnJ5LXBvdHRlcg",
+    "75388": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTc1Mzg4LXN0YXItd2Fycw",
+    "76321": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTc2MzIxLXN1cGVyLWhlcm9lcw",
+    "10305": "https://webep1.com/c/12727/6a7c5eb6a6745fac732b1c17?fid=6a7c6900a6745fac732b1c18&r=aHR0cHM6Ly9wbGFuZXRha2xvY2tvdy5wbC9sZWdvLTEwMzA1LWljb25zLXphbWVrLXJ5Y2VyenktaGVyYnUtbGV3"
+  },
   "krzychumantoys": {},
   "taniaksiazka": {},
   "lego": {},
