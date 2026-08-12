@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "aktualizacja": "2026-08-12",
+    "zrodla": ["lego.com (dzial Ostatnie sztuki)", "brickset.com", "brickfanatics.com"],
+    "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje.",
+    "serie_kolejnosc": ["Ideas", "Icons", "Star Wars", "Harry Potter", "Technic", "Marvel", "Creator", "City", "Friends", "Ninjago", "BrickHeadz"]
+  },
+  "wycofania": [
+    { "numer": "21348", "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka", "seria": "Ideas", "elementy": 3745, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Pierwsza fala wycofań Ideas — licencyjny gigant, 3745 elementów." },
+    { "numer": "21350", "nazwa": "Szczęki", "seria": "Ideas", "elementy": 1497, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "Ekskluzywne minifigurki filmowe — po EOL rzadko tanieją." },
+    { "numer": "21349", "nazwa": "Kot w smokingu", "seria": "Ideas", "elementy": 1710, "kiedy": "lipiec 2026", "status": "przewidywane", "uwagi": "Trzecia pozycja lipcowej fali Ideas." },
+    { "numer": "76417", "nazwa": "Bank Gringotta — edycja kolekcjonerska", "seria": "Harry Potter", "elementy": 4803, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "W USA już wyprzedany — u nas ostatnie tygodnie. Flagowiec serii." },
+    { "numer": "75388", "nazwa": "Myśliwiec Jedi Boba", "seria": "Star Wars", "elementy": 625, "kiedy": "lipiec 2026", "status": "potwierdzone", "uwagi": "Najnowsza minifigurka tytułowego bohatera — magnes kolekcjonerski." },
+    { "numer": "76294", "nazwa": "X-Men: Rezydencja X-Men", "seria": "Marvel", "elementy": 3093, "kiedy": "grudzień 2026", "status": "potwierdzone", "uwagi": "Najważniejsze wycofanie Marvela w tym roku." },
+    { "numer": "76321", "nazwa": "Spider-Man kontra Doc Ock: scena w metrze", "seria": "Marvel", "elementy": 623, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Koniec 2026." },
+    { "numer": "31378", "nazwa": "Teleskop eksploracji kosmosu", "seria": "Creator", "elementy": 726, "kiedy": "2026", "status": "potwierdzone", "uwagi": "Funkcjonalny model kosmiczny — koniec roku." },
+    { "numer": "10305", "nazwa": "Zamek rycerzy herbu Lew", "seria": "Icons", "elementy": 4514, "kiedy": "wycofany", "status": "potwierdzone", "uwagi": "Już niedostępny w LEGO — tylko rynek wtórny i resztki magazynowe. Punkt odniesienia: tak wygląda set PO wycofaniu." }
+  ]
+}
