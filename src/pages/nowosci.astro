@@ -2,8 +2,13 @@
 import Base from '../layouts/Base.astro';
 import sety from '../data/sety.json';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
-const nowe = Object.entries(sety).filter(([, s]) => s.premiera === '2026-08').map(([nr, s]) => ({ nr, ...s }));
----
+const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+const teraz = new Date();
+const miesiace = [ym(teraz), ym(new Date(teraz.getFullYear(), teraz.getMonth() - 1, 1))];
+const nowe = Object.entries(sety)
+  .filter(([, s]) => miesiace.includes(s.premiera))
+  .map(([nr, s]) => ({ nr, ...s }))
+  .sort((a, b) => (b.premiera > a.premiera ? 1 : -1));---
 <Base title="Nowości LEGO — premiery i zapowiedzi" description="Nowe zestawy LEGO z ostatnich tygodni i nadchodzące premiery. Ceny, liczba elementów i nasza ocena, czy warto.">
   <h1 style="margin-top:28px">Nowości LEGO</h1>
   <p>Premiery z ostatnich tygodni. Aktualizujemy codziennie rano.</p>
