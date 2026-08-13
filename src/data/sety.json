@@ -54,8 +54,9 @@
    },
    {
     "sklep": "planetaklockow",
-    "cena": 549.99,
-    "data": "2026-08-13"
+    "cena": 511.49,
+    "data": "2026-08-13",
+    "cena_regularna": 549.99
    },
    {
     "sklep": "mediaexpert",
