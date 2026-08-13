@@ -7,6 +7,9 @@ const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' z
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
 const dataSprawdzenia = posortowane[0]?.data;
 const maLink = (sklep) => Boolean(redirects?.[sklep]?.[nr]);
+// sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę"
+const bezCeny = Object.keys(redirects)
+  .filter((s) => s !== '_meta' && maLink(s) && !posortowane.some((o) => o.sklep === s));
 ---
 <div class="karta" style="padding: 18px; margin: 18px 0;">
   <table class="tabela-cen">
@@ -30,6 +33,14 @@ const maLink = (sklep) => Boolean(redirects?.[sklep]?.[nr]);
               <span style="font-size:0.85rem;opacity:0.55;white-space:nowrap;" title="Link afiliacyjny w przygotowaniu">link wkrótce</span>
             )}
           </td>
+        </tr>
+      ))}
+      {bezCeny.map((s) => (
+        <tr>
+          <td><strong>{sklepy[s]?.nazwa ?? s}</strong></td>
+          <td class="cena">—</td>
+          <td>—</td>
+          <td><a class="cta" href={`/idz/${s}/${nr}`} rel="sponsored nofollow">Sprawdź cenę →</a></td>
         </tr>
       ))}
     </tbody>
