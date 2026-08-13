@@ -23,6 +23,7 @@ const bezCeny = Object.keys(redirects)
           <td>
             <strong>{sklepy[o.sklep]?.nazwa ?? o.sklep}</strong>
             {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniższa w historii</span>}
+            {o.sklep === 'mediaexpert' && <span style="display:block;font-size:0.72rem;opacity:0.65;">w sklepie bywają kody rabatowe — może być jeszcze taniej</span>}
           </td>
           <td class="cena">{fmt(o.cena)}</td>
           <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>
@@ -37,7 +38,10 @@ const bezCeny = Object.keys(redirects)
       ))}
       {bezCeny.map((s) => (
         <tr>
-          <td><strong>{sklepy[s]?.nazwa ?? s}</strong></td>
+          <td>
+            <strong>{sklepy[s]?.nazwa ?? s}</strong>
+            {s === 'mediaexpert' && <span style="display:block;font-size:0.72rem;opacity:0.65;">w sklepie bywają kody rabatowe — może być jeszcze taniej</span>}
+          </td>
           <td class="cena">—</td>
           <td>—</td>
           <td><a class="cta" href={`/idz/${s}/${nr}`} rel="sponsored nofollow">Sprawdź cenę →</a></td>
