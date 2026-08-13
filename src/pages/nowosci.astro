@@ -9,12 +9,36 @@ const nowe = Object.entries(sety)
   .filter(([, s]) => s.premiera >= odKiedy)
   .map(([nr, s]) => ({ nr, ...s }))
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
-<Base title="Nowości LEGO — premiery i zapowiedzi" description="Nowe zestawy LEGO z ostatnich tygodni i nadchodzące premiery. Ceny, liczba elementów i nasza ocena, czy warto.">
+const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
+const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
+---
+<Base title="Nowości LEGO — premiery i zapowiedzi" description={`Nowe zestawy LEGO: ${nowe.length} premier z ostatnich miesięcy i zapowiedzi. Ceny, liczba elementów, zdjęcia i nasza ocena, czy warto.`}>
   <h1 style="margin-top:28px">Nowości LEGO</h1>
-  <p>Premiery z ostatnich tygodni. Aktualizujemy codziennie rano.</p>
-  <div class="siatka">
+  <p>Premiery z ostatnich tygodni i nadchodzące zapowiedzi. Aktualizujemy codziennie rano.</p>
+
+  <div class="now-filtr karta">
+    <div>
+      <label for="now-seria">Seria</label>
+      <select id="now-seria">
+        <option value="">Wszystkie serie ({nowe.length})</option>
+        {serie.map((s) => (
+          <option value={s}>{s} ({wSerii(s)})</option>
+        ))}
+      </select>
+    </div>
+    <span class="now-licznik" id="now-licznik"></span>
+  </div>
+
+  <div class="siatka siatka--nowosci" id="now-siatka">
     {nowe.map((s) => (
-      <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
+      <a class="karta set-karta" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
+        {s.zdjecia?.glowne ? (
+          <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.zdjecia.glowne} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
+        ) : (
+          <div class="foto-brak" aria-hidden="true">
+            <span class="studs"><i></i><i></i><i></i><i></i></span>
+          </div>
+        )}
         <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
         <h3>{s.nazwa}</h3>
         <span class="badge-seria">{s.seria}</span>
@@ -22,4 +46,61 @@ const nowe = Object.entries(sety)
       </a>
     ))}
   </div>
+
+  <div class="lightbox" id="lightbox" hidden>
+    <img id="lb-img" src="" alt="" />
+    <span class="lb-podpis" id="lb-podpis"></span>
+  </div>
 </Base>
+
+<script>
+  // ── filtr serii (SEO-safe: wszystkie karty są w HTML, JS tylko ukrywa) ──
+  const $seria = document.getElementById('now-seria');
+  const $licznik = document.getElementById('now-licznik');
+  const karty = [...document.querySelectorAll('#now-siatka .set-karta')];
+  const RAZEM = karty.length;
+
+  function filtruj() {
+    const s = $seria.value;
+    let widoczne = 0;
+    for (const k of karty) {
+      const pokaz = !s || k.dataset.seria === s;
+      k.hidden = !pokaz;
+      if (pokaz) widoczne++;
+    }
+    $licznik.textContent = s ? `Pokazano ${widoczne} z ${RAZEM} nowości` : '';
+    const url = new URL(location.href);
+    if (s) url.searchParams.set('seria', s); else url.searchParams.delete('seria');
+    history.replaceState(null, '', url);
+  }
+  $seria.addEventListener('change', filtruj);
+
+  const params = new URLSearchParams(location.search);
+  const p = params.get('seria');
+  if (p && [...$seria.options].some((o) => o.value === p)) { $seria.value = p; filtruj(); }
+
+  // ── lightbox: klik w miniaturę powiększa zamiast przechodzić na stronę setu ──
+  const $lb = document.getElementById('lightbox');
+  const $lbImg = document.getElementById('lb-img');
+  const $lbPodpis = document.getElementById('lb-podpis');
+
+  document.getElementById('now-siatka').addEventListener('click', (e) => {
+    const img = e.target.closest('img.miniatura[data-full]');
+    if (!img) return;
+    e.preventDefault();
+    e.stopPropagation();
+    $lbImg.src = img.dataset.full;
+    $lbImg.alt = img.dataset.podpis || '';
+    $lbPodpis.textContent = img.dataset.podpis || '';
+    $lb.hidden = false;
+    document.body.style.overflow = 'hidden';
+  });
+
+  function zamknij() {
+    $lb.hidden = true;
+    $lbImg.src = '';
+    document.body.style.overflow = '';
+  }
+  $lb.addEventListener('click', zamknij);
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !$lb.hidden) zamknij(); });
+</script>
