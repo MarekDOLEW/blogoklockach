@@ -4,11 +4,11 @@ import sety from '../data/sety.json';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
-const miesiace = [ym(teraz), ym(new Date(teraz.getFullYear(), teraz.getMonth() - 1, 1))];
+const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
 const nowe = Object.entries(sety)
-  .filter(([, s]) => miesiace.includes(s.premiera))
+  .filter(([, s]) => s.premiera >= odKiedy)
   .map(([nr, s]) => ({ nr, ...s }))
-  .sort((a, b) => (b.premiera > a.premiera ? 1 : -1));---
+  .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
 <Base title="Nowości LEGO — premiery i zapowiedzi" description="Nowe zestawy LEGO z ostatnich tygodni i nadchodzące premiery. Ceny, liczba elementów i nasza ocena, czy warto.">
   <h1 style="margin-top:28px">Nowości LEGO</h1>
   <p>Premiery z ostatnich tygodni. Aktualizujemy codziennie rano.</p>
