@@ -33,7 +33,7 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
     {nowe.map((s) => (
       <a class="karta set-karta" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
         {s.zdjecia?.glowne ? (
-          <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.zdjecia.glowne} data-podpis={`LEGO ${s.nr} ${s.nazwa}`} />
+          <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.zdjecia.glowne} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
         ) : (
           <div class="foto-brak" aria-hidden="true">
             <span class="studs"><i></i><i></i><i></i><i></i></span>
