@@ -24,6 +24,11 @@
     "sklep": "planetaklockow",
     "cena": 509.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 393.95,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -50,6 +55,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 419.0,
     "data": "2026-08-13"
    }
   ],
@@ -97,6 +107,11 @@
     "sklep": "planetaklockow",
     "cena": 399.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 309.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -123,6 +138,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 549.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 435.99,
     "data": "2026-08-13"
    }
   ],
@@ -151,6 +171,11 @@
     "sklep": "planetaklockow",
     "cena": 589.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 439.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -177,6 +202,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 106.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 89.99,
     "data": "2026-08-13"
    }
   ],
@@ -213,10 +243,14 @@
    },
    {
     "sklep": "mediaexpert",
-    "cena": 849.99,
-    "data": "2026-08-12"
+    "cena": 749.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/36/3650229/LEGO-10300-ICONS-Wehikul-czasu-z-Powrotu-do-przyszlosci-pudelko11.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "10316": {
   "nazwa": "Władca Pierścieni: Rivendell",
@@ -271,8 +305,17 @@
     "sklep": "allegro",
     "cena": 759.0,
     "data": "2026-08-12"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 799.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/60/6087974/LEGO-10318-ICONS-Concorde-zdjecie-glowne-1.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "21348": {
   "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
@@ -340,6 +383,12 @@
     "sklep": "planetaklockow",
     "cena": 549.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 418.99,
+    "data": "2026-08-13",
+    "cena_regularna": 434.9
    }
   ],
   "zdjecia": {
@@ -385,6 +434,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 1249.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 983.9,
     "data": "2026-08-13"
    }
   ],
@@ -492,8 +546,17 @@
     "sklep": "lego",
     "cena": 249.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 259.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539303/LEGO-11513-Botanicals-Kompozycja-z-ciemnych-kwiatow-1.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "75455": {
   "nazwa": "Boba Fett",
@@ -514,6 +577,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 709.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 539.0,
     "data": "2026-08-13"
    }
   ],
@@ -559,6 +627,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 221.9,
     "data": "2026-08-13"
    }
   ],
@@ -650,6 +723,11 @@
     "sklep": "planetaklockow",
     "cena": 509.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 389.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -704,6 +782,11 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 154.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -731,6 +814,11 @@
     "sklep": "planetaklockow",
     "cena": 399.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -757,6 +845,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 509.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 388.99,
     "data": "2026-08-13"
    }
   ],
@@ -803,6 +896,11 @@
     "sklep": "planetaklockow",
     "cena": 319.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 235.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -829,6 +927,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 179.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 139.99,
     "data": "2026-08-13"
    }
   ],
@@ -876,6 +979,11 @@
     "sklep": "planetaklockow",
     "cena": 1589.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 1175.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -902,6 +1010,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 324.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 237.6,
     "data": "2026-08-13"
    }
   ],
@@ -930,6 +1043,11 @@
     "sklep": "planetaklockow",
     "cena": 224.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 168.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -956,6 +1074,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 709.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 562.99,
     "data": "2026-08-13"
    }
   ],
@@ -984,6 +1107,11 @@
     "sklep": "planetaklockow",
     "cena": 589.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 424.81,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1010,6 +1138,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 232.9,
     "data": "2026-08-13"
    }
   ],
@@ -1038,6 +1171,11 @@
     "sklep": "planetaklockow",
     "cena": 979.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 739.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1064,6 +1202,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 849.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 658.9,
     "data": "2026-08-13"
    }
   ],
@@ -1128,6 +1271,11 @@
     "sklep": "planetaklockow",
     "cena": 799.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 631.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1155,6 +1303,12 @@
     "sklep": "planetaklockow",
     "cena": 689.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 559.0,
+    "data": "2026-08-13",
+    "cena_regularna": 629.9
    }
   ],
   "zdjecia": {
@@ -1181,6 +1335,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 293.9,
     "data": "2026-08-13"
    }
   ],
@@ -1236,6 +1395,11 @@
     "sklep": "planetaklockow",
     "cena": 509.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 399.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1281,6 +1445,11 @@
     "sklep": "planetaklockow",
     "cena": 639.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 479.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1307,6 +1476,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 264.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 201.39,
     "data": "2026-08-13"
    }
   ],
@@ -1352,6 +1526,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 264.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 213.99,
     "data": "2026-08-13"
    }
   ],
@@ -1407,6 +1586,11 @@
     "sklep": "planetaklockow",
     "cena": 203.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 155.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1433,6 +1617,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 99.99,
     "data": "2026-08-13"
    }
   ],
@@ -1478,6 +1667,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 329.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 258.98,
     "data": "2026-08-13"
    }
   ],
@@ -1597,6 +1791,11 @@
     "sklep": "planetaklockow",
     "cena": 116.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 91.31,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1623,6 +1822,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 105.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 80.94,
     "data": "2026-08-13"
    }
   ],
@@ -1651,6 +1855,11 @@
     "sklep": "planetaklockow",
     "cena": 239.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 194.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1677,6 +1886,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 159.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 122.0,
     "data": "2026-08-13"
    }
   ],
@@ -1705,6 +1919,11 @@
     "sklep": "planetaklockow",
     "cena": 709.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 548.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1732,6 +1951,11 @@
     "sklep": "planetaklockow",
     "cena": 239.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 199.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1754,8 +1978,17 @@
     "sklep": "lego",
     "cena": 419.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 419.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12016725/LEGO-75461-Star-Wars-Powiekszona-minifigurka-Dartha-Vadera-1.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "75647": {
   "nazwa": "Gum-gumowoc",
@@ -1823,6 +2056,11 @@
     "sklep": "planetaklockow",
     "cena": 289.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 236.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1849,6 +2087,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 369.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 269.0,
     "data": "2026-08-13"
    }
   ],
@@ -1924,6 +2167,11 @@
     "sklep": "planetaklockow",
     "cena": 329.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 263.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1950,6 +2198,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 93.63,
     "data": "2026-08-13"
    }
   ],
@@ -1978,6 +2231,11 @@
     "sklep": "planetaklockow",
     "cena": 289.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 213.14,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2004,6 +2262,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 229.9,
     "data": "2026-08-13"
    }
   ],
@@ -2050,6 +2313,11 @@
     "sklep": "planetaklockow",
     "cena": 404.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 309.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2076,6 +2344,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 44.99,
     "data": "2026-08-13"
    }
   ],
@@ -2122,6 +2395,11 @@
     "sklep": "planetaklockow",
     "cena": 164.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 125.97,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2148,6 +2426,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 1049.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 797.96,
     "data": "2026-08-13"
    }
   ],
@@ -2176,6 +2459,11 @@
     "sklep": "planetaklockow",
     "cena": 182.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 139.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2203,6 +2491,11 @@
     "sklep": "planetaklockow",
     "cena": 289.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 219.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2229,6 +2522,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 319.99,
     "data": "2026-08-13"
    }
   ],
@@ -2275,6 +2573,12 @@
     "sklep": "planetaklockow",
     "cena": 769.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 399.0,
+    "data": "2026-08-13",
+    "cena_regularna": 559.0
    }
   ],
   "zdjecia": {
@@ -2301,6 +2605,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 239.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 177.61,
     "data": "2026-08-13"
    }
   ],
@@ -2329,6 +2638,12 @@
     "sklep": "planetaklockow",
     "cena": 105.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 80.99,
+    "data": "2026-08-13",
+    "cena_regularna": 94.9
    }
   ],
   "zdjecia": {
@@ -2356,6 +2671,11 @@
     "sklep": "planetaklockow",
     "cena": 56.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 41.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2382,6 +2702,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 91.99,
     "data": "2026-08-13"
    }
   ],
@@ -2428,6 +2753,11 @@
     "sklep": "planetaklockow",
     "cena": 105.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 94.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2454,6 +2784,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 299.0,
     "data": "2026-08-13"
    }
   ],
@@ -2500,6 +2835,11 @@
     "sklep": "planetaklockow",
     "cena": 289.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 210.33,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2526,6 +2866,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 839.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 609.99,
     "data": "2026-08-13"
    }
   ],
@@ -2554,6 +2899,11 @@
     "sklep": "planetaklockow",
     "cena": 114.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 85.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2581,6 +2931,11 @@
     "sklep": "planetaklockow",
     "cena": 114.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 99.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2607,6 +2962,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 149.0,
     "data": "2026-08-13"
    }
   ],
@@ -2662,6 +3022,11 @@
     "sklep": "planetaklockow",
     "cena": 359.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 261.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2688,6 +3053,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 87.99,
     "data": "2026-08-13"
    }
   ],
@@ -2716,6 +3086,11 @@
     "sklep": "planetaklockow",
     "cena": 259.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 189.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2742,6 +3117,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 85.98,
     "data": "2026-08-13"
    }
   ],
@@ -2770,6 +3150,11 @@
     "sklep": "planetaklockow",
     "cena": 134.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 101.03,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2796,6 +3181,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 404.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 292.16,
     "data": "2026-08-13"
    }
   ],
@@ -2843,6 +3233,11 @@
     "sklep": "planetaklockow",
     "cena": 114.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 82.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2869,6 +3264,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 292.16,
     "data": "2026-08-13"
    }
   ],
@@ -2897,6 +3297,11 @@
     "sklep": "planetaklockow",
     "cena": 116.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 84.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2923,6 +3328,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 359.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 260.19,
     "data": "2026-08-13"
    }
   ],
@@ -2951,6 +3361,11 @@
     "sklep": "planetaklockow",
     "cena": 264.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 193.28,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2977,6 +3392,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 41.98,
     "data": "2026-08-13"
    }
   ],
@@ -3005,6 +3425,11 @@
     "sklep": "planetaklockow",
     "cena": 369.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 286.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3031,6 +3456,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 159.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 119.56,
     "data": "2026-08-13"
    }
   ],
@@ -3077,6 +3507,11 @@
     "sklep": "planetaklockow",
     "cena": 399.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 292.16,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3104,6 +3539,11 @@
     "sklep": "planetaklockow",
     "cena": 97.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 73.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3130,6 +3570,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 116.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 82.18,
     "data": "2026-08-13"
    }
   ],
@@ -3176,6 +3621,11 @@
     "sklep": "planetaklockow",
     "cena": 499.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 369.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3202,6 +3652,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 97.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 72.9,
     "data": "2026-08-13"
    }
   ],
@@ -3230,6 +3685,11 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 209.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3256,6 +3716,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 148.94,
     "data": "2026-08-13"
    }
   ],
@@ -3284,6 +3749,11 @@
     "sklep": "planetaklockow",
     "cena": 279.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 207.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3311,6 +3781,11 @@
     "sklep": "planetaklockow",
     "cena": 164.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 123.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3337,6 +3812,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 37.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 29.99,
     "data": "2026-08-13"
    }
   ],
@@ -3383,6 +3863,11 @@
     "sklep": "planetaklockow",
     "cena": 579.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 439.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3409,6 +3894,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 849.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 618.99,
     "data": "2026-08-13"
    }
   ],
@@ -3437,6 +3927,11 @@
     "sklep": "planetaklockow",
     "cena": 629.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 455.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3463,6 +3958,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 57.9,
     "data": "2026-08-13"
    }
   ],
@@ -3527,6 +4027,11 @@
     "sklep": "planetaklockow",
     "cena": 359.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 260.21,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3553,6 +4058,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 57.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 42.9,
     "data": "2026-08-13"
    }
   ],
@@ -3581,6 +4091,11 @@
     "sklep": "planetaklockow",
     "cena": 359.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 269.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3607,6 +4122,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 215.99,
     "data": "2026-08-13"
    }
   ],
@@ -3635,6 +4155,11 @@
     "sklep": "planetaklockow",
     "cena": 399.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3662,6 +4187,12 @@
     "sklep": "planetaklockow",
     "cena": 164.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 121.66,
+    "data": "2026-08-13",
+    "cena_regularna": 132.9
    }
   ],
   "zdjecia": {
@@ -3689,6 +4220,11 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 146.35,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3715,6 +4251,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 85.9,
     "data": "2026-08-13"
    }
   ],
@@ -3779,6 +4320,11 @@
     "sklep": "planetaklockow",
     "cena": 114.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 88.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3806,6 +4352,11 @@
     "sklep": "planetaklockow",
     "cena": 56.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 44.43,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3832,6 +4383,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 199.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 149.98,
     "data": "2026-08-13"
    }
   ],
@@ -3888,6 +4444,11 @@
     "sklep": "planetaklockow",
     "cena": 324.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 237.19,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3914,6 +4475,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 164.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 121.66,
     "data": "2026-08-13"
    }
   ],
@@ -3942,6 +4508,11 @@
     "sklep": "planetaklockow",
     "cena": 94.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 73.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3969,6 +4540,11 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 149.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -3995,6 +4571,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 74.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 54.99,
     "data": "2026-08-13"
    }
   ],
@@ -4041,6 +4622,11 @@
     "sklep": "planetaklockow",
     "cena": 279.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 209.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4068,6 +4654,11 @@
     "sklep": "planetaklockow",
     "cena": 539.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 398.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4094,6 +4685,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 297.98,
     "data": "2026-08-13"
    }
   ],
@@ -4167,6 +4763,11 @@
     "sklep": "planetaklockow",
     "cena": 219.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 163.95,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4194,6 +4795,11 @@
     "sklep": "planetaklockow",
     "cena": 37.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 29.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4220,6 +4826,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 296.98,
     "data": "2026-08-13"
    }
   ],
@@ -4302,6 +4913,11 @@
     "sklep": "planetaklockow",
     "cena": 76.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 56.9,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4329,6 +4945,11 @@
     "sklep": "planetaklockow",
     "cena": 114.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 88.7,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4355,6 +4976,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 319.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 239.0,
     "data": "2026-08-13"
    }
   ],
@@ -4402,6 +5028,12 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 148.94,
+    "data": "2026-08-13",
+    "cena_regularna": 159.9
    }
   ],
   "zdjecia": {
@@ -4483,6 +5115,11 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 146.36,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4509,6 +5146,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 97.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 70.99,
     "data": "2026-08-13"
    }
   ],
@@ -4582,6 +5224,11 @@
     "sklep": "planetaklockow",
     "cena": 369.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 264.88,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4608,6 +5255,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 114.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 87.98,
     "data": "2026-08-13"
    }
   ],
@@ -4636,6 +5288,11 @@
     "sklep": "planetaklockow",
     "cena": 76.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 56.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4663,6 +5320,11 @@
     "sklep": "planetaklockow",
     "cena": 76.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 56.98,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4689,6 +5351,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 289.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 210.33,
     "data": "2026-08-13"
    }
   ],
@@ -4735,6 +5402,11 @@
     "sklep": "planetaklockow",
     "cena": 238.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 177.0,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4762,6 +5434,12 @@
     "sklep": "planetaklockow",
     "cena": 159.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 119.56,
+    "data": "2026-08-13",
+    "cena_regularna": 129.9
    }
   ],
   "zdjecia": {
@@ -4788,6 +5466,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 76.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 58.99,
     "data": "2026-08-13"
    }
   ],
@@ -4842,6 +5525,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 399.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 292.99,
     "data": "2026-08-13"
    }
   ],
@@ -4978,6 +5666,11 @@
     "sklep": "planetaklockow",
     "cena": 116.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 89.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5074,6 +5767,12 @@
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 148.94,
+    "data": "2026-08-13",
+    "cena_regularna": 159.9
    }
   ],
   "zdjecia": {
@@ -5153,8 +5852,17 @@
     "sklep": "lego",
     "cena": 249.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 229.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539403/LEGO-72162-Pokemon-SMART-Play-Eevee-i-Lapras-poszukiwanie-skarbow-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72163": {
   "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
@@ -5171,8 +5879,17 @@
     "sklep": "lego",
     "cena": 299.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 259.0,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539399/LEGO-72163-Pokemon-SMART-Play-Ucieczka-z-laboratorium-Mewtwo-front.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72164": {
   "nazwa": "SMART Play: Dom treningowy z Pikachu",
@@ -5189,8 +5906,17 @@
     "sklep": "lego",
     "cena": 299.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 239.0,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12555623/LEGO-72164-Pokemon-SMART-Play-Dom-treningowy-z-Pikachu-front.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72157": {
   "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
@@ -5207,8 +5933,17 @@
     "sklep": "lego",
     "cena": 81.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 74.89,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539379/LEGO-72157-Pokemon-SMART-Play-Charmander-i-Geodude-starcie-w-jaskini-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "40958": {
   "nazwa": "Świąteczna skarpeta",
@@ -5243,8 +5978,17 @@
     "sklep": "lego",
     "cena": 61.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 54.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539387/LEGO-72159-Pokemon-SMART-Play-Jigglypuff-i-koncert-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72166": {
   "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
@@ -5261,8 +6005,17 @@
     "sklep": "lego",
     "cena": 379.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 339.0,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539411/LEGO-72166-Pokemon-SMART-Play-Cubone-i-Gengar-upiorne-starcie-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
@@ -5279,8 +6032,17 @@
     "sklep": "lego",
     "cena": 519.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 469.0,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12555619/LEGO-72167-Pokemon-SMART-Play-Charizard-kontra-Jolteon-ostateczna-bitwa-front.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72158": {
   "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa",
@@ -5334,8 +6096,17 @@
     "sklep": "lego",
     "cena": 339.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539395/LEGO-72165-Pokemon-SMART-Play-Umbreon-kontra-Garchomp-walka-o-mistrzostwo-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72161": {
   "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
@@ -5352,8 +6123,17 @@
     "sklep": "lego",
     "cena": 209.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 189.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539391/LEGO-72161-Pokemon-SMART-Play-Poszukiwania-Mitycznego-Mew-za-pomoca-drona-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "72156": {
   "nazwa": "SMART Play: zestaw startowy",
@@ -5370,8 +6150,17 @@
     "sklep": "lego",
     "cena": 104.99,
     "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 109.99,
+    "data": "2026-08-13"
    }
-  ]
+  ],
+  "zdjecia": {
+   "glowne": "https://www.mediaexpert.pl/media/cache/resolve/gallery_800_800/images/12/12539375/LEGO-72156-Pokemon-SMART-Play-Przygoda-Trenera-ze-Squirtle-i-pojazdem-terenowym-01-MAIN.jpg",
+   "zrodlo": "LEGO"
+  }
  },
  "75426": {
   "nazwa": "SMART Play: Sokół Millennium",
@@ -5392,6 +6181,11 @@
    {
     "sklep": "planetaklockow",
     "cena": 429.99,
+    "data": "2026-08-13"
+   },
+   {
+    "sklep": "mediaexpert",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
