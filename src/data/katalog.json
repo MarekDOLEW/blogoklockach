@@ -7,11 +7,9 @@
       "brickset.com (theme Harry Potter)",
       "lego.com/pl-pl (statusy i polskie nazwy)",
       "promoklocki.pl (polskie nazwy setow wycofanych)",
-      "brickset.com (theme BrickHeadz - struktura, roczniki, dostepnosc EU)",
-      "promoklocki.pl (BrickHeadz - polskie nazwy, liczba elementow)",
-      "lego.com/pl-pl/themes/brickheadz (statusy dostepnosci, 26 zestawow w sprzedazy)"
+      "brickset.com (theme Star Wars)"
     ],
-    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami. BrickHeadz: pominieto zestawy promocyjne/eventowe i niedostepne w Europie (SDCC/NYCC 2016-2017, Nonnie, miejskie, Geoffrey 40316 niewydany, 75232 ekskluzyw Target US, GWP 40412 i 40490, edycja limitowana SDCC 40726, multipak 41489). Sety sezonowe oznaczone dopiskiem (sezonowy). Statusy wg oferty LEGO.com/pl-pl z 2026-08-12; 8 pozycji ze strony 2 listingu ustalono na podstawie licznikow filtrow tematycznych."
+    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
   },
   "Ideas": [
     {
@@ -2056,1252 +2054,4514 @@
       "status": "dostepny"
     }
   ],
-  "BrickHeadz": [
+  "Star Wars": [
     {
-      "numer": "41585",
-      "nazwa": "Batman",
-      "rok": 2017,
-      "elementy": 91,
+      "numer": "7130",
+      "nazwa": "Snowspeeder",
+      "rok": 1999,
+      "elementy": 215,
       "status": "eol"
     },
     {
-      "numer": "41586",
-      "nazwa": "Batgirl",
-      "rok": 2017,
-      "elementy": 99,
+      "numer": "7131",
+      "nazwa": "Anakin's Podracer",
+      "rok": 1999,
+      "elementy": 136,
       "status": "eol"
     },
     {
-      "numer": "41587",
-      "nazwa": "Robin",
-      "rok": 2017,
+      "numer": "7140",
+      "nazwa": "X-wing Fighter",
+      "rok": 1999,
+      "elementy": 266,
+      "status": "eol"
+    },
+    {
+      "numer": "7141",
+      "nazwa": "Naboo Fighter",
+      "rok": 1999,
+      "elementy": 179,
+      "status": "eol"
+    },
+    {
+      "numer": "7150",
+      "nazwa": "TIE Fighter & Y-wing",
+      "rok": 1999,
+      "elementy": 409,
+      "status": "eol"
+    },
+    {
+      "numer": "7151",
+      "nazwa": "Sith Infiltrator",
+      "rok": 1999,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "7161",
+      "nazwa": "Gungan Sub",
+      "rok": 1999,
+      "elementy": 379,
+      "status": "eol"
+    },
+    {
+      "numer": "7171",
+      "nazwa": "Mos Espa Podrace",
+      "rok": 1999,
+      "elementy": 896,
+      "status": "eol"
+    },
+    {
+      "numer": "7124",
+      "nazwa": "Flash Speeder",
+      "rok": 2000,
+      "elementy": 106,
+      "status": "eol"
+    },
+    {
+      "numer": "7134",
+      "nazwa": "A-wing Fighter",
+      "rok": 2000,
+      "elementy": 125,
+      "status": "eol"
+    },
+    {
+      "numer": "7144",
+      "nazwa": "Slave I",
+      "rok": 2000,
+      "elementy": 166,
+      "status": "eol"
+    },
+    {
+      "numer": "7155",
+      "nazwa": "Trade Federation AAT",
+      "rok": 2000,
+      "elementy": 158,
+      "status": "eol"
+    },
+    {
+      "numer": "7159",
+      "nazwa": "Star Wars Podracing Bucket",
+      "rok": 2000,
+      "elementy": 292,
+      "status": "eol"
+    },
+    {
+      "numer": "7180",
+      "nazwa": "B-wing at Rebel Control Centre",
+      "rok": 2000,
+      "elementy": 338,
+      "status": "eol"
+    },
+    {
+      "numer": "7181",
+      "nazwa": "TIE Interceptor",
+      "rok": 2000,
+      "elementy": 703,
+      "status": "eol"
+    },
+    {
+      "numer": "7184",
+      "nazwa": "Trade Federation MTT",
+      "rok": 2000,
+      "elementy": 470,
+      "status": "eol"
+    },
+    {
+      "numer": "7190",
+      "nazwa": "Millennium Falcon",
+      "rok": 2000,
+      "elementy": 663,
+      "status": "eol"
+    },
+    {
+      "numer": "7191",
+      "nazwa": "X-wing Fighter",
+      "rok": 2000,
+      "elementy": 1300,
+      "status": "eol"
+    },
+    {
+      "numer": "8000",
+      "nazwa": "Pit Droid",
+      "rok": 2000,
+      "elementy": 223,
+      "status": "eol"
+    },
+    {
+      "numer": "8001",
+      "nazwa": "Battle Droid",
+      "rok": 2000,
+      "elementy": 363,
+      "status": "eol"
+    },
+    {
+      "numer": "8002",
+      "nazwa": "Destroyer Droid",
+      "rok": 2000,
+      "elementy": 558,
+      "status": "eol"
+    },
+    {
+      "numer": "7126",
+      "nazwa": "Battle Droid Carrier",
+      "rok": 2001,
+      "elementy": 133,
+      "status": "eol"
+    },
+    {
+      "numer": "7127",
+      "nazwa": "Imperial AT-ST",
+      "rok": 2001,
+      "elementy": 107,
+      "status": "eol"
+    },
+    {
+      "numer": "7146",
+      "nazwa": "TIE Fighter",
+      "rok": 2001,
+      "elementy": 171,
+      "status": "eol"
+    },
+    {
+      "numer": "7166",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2001,
+      "elementy": 238,
+      "status": "eol"
+    },
+    {
+      "numer": "7186",
+      "nazwa": "Watto's Junkyard",
+      "rok": 2001,
+      "elementy": 443,
+      "status": "eol"
+    },
+    {
+      "numer": "8007",
+      "nazwa": "C-3PO",
+      "rok": 2001,
+      "elementy": 341,
+      "status": "eol"
+    },
+    {
+      "numer": "8008",
+      "nazwa": "Stormtrooper",
+      "rok": 2001,
+      "elementy": 361,
+      "status": "eol"
+    },
+    {
+      "numer": "10018",
+      "nazwa": "Darth Maul",
+      "rok": 2001,
+      "elementy": 1868,
+      "status": "eol"
+    },
+    {
+      "numer": "10019",
+      "nazwa": "Rebel Blockade Runner",
+      "rok": 2001,
+      "elementy": 1747,
+      "status": "eol"
+    },
+    {
+      "numer": "7119",
+      "nazwa": "Twin-Pod Cloud Car",
+      "rok": 2002,
+      "elementy": 118,
+      "status": "eol"
+    },
+    {
+      "numer": "7133",
+      "nazwa": "Bounty Hunter Pursuit",
+      "rok": 2002,
+      "elementy": 259,
+      "status": "eol"
+    },
+    {
+      "numer": "7139",
+      "nazwa": "Ewok Attack",
+      "rok": 2002,
+      "elementy": 121,
+      "status": "eol"
+    },
+    {
+      "numer": "7142",
+      "nazwa": "X-wing Fighter",
+      "rok": 2002,
+      "elementy": 267,
+      "status": "eol"
+    },
+    {
+      "numer": "7143",
+      "nazwa": "Jedi Starfighter",
+      "rok": 2002,
+      "elementy": 138,
+      "status": "eol"
+    },
+    {
+      "numer": "7152",
+      "nazwa": "TIE Fighter & Y-wing",
+      "rok": 2002,
+      "elementy": 410,
+      "status": "eol"
+    },
+    {
+      "numer": "7153",
+      "nazwa": "Jango Fett's Slave I",
+      "rok": 2002,
+      "elementy": 369,
+      "status": "eol"
+    },
+    {
+      "numer": "7163",
+      "nazwa": "Republic Gunship",
+      "rok": 2002,
+      "elementy": 686,
+      "status": "eol"
+    },
+    {
+      "numer": "7194",
+      "nazwa": "Yoda",
+      "rok": 2002,
+      "elementy": 1075,
+      "status": "eol"
+    },
+    {
+      "numer": "8009",
+      "nazwa": "R2-D2",
+      "rok": 2002,
+      "elementy": 240,
+      "status": "eol"
+    },
+    {
+      "numer": "8010",
+      "nazwa": "Darth Vader",
+      "rok": 2002,
+      "elementy": 391,
+      "status": "eol"
+    },
+    {
+      "numer": "8011",
+      "nazwa": "Jango Fett",
+      "rok": 2002,
+      "elementy": 422,
+      "status": "eol"
+    },
+    {
+      "numer": "8012",
+      "nazwa": "Super Battle Droid",
+      "rok": 2002,
+      "elementy": 379,
+      "status": "eol"
+    },
+    {
+      "numer": "10026",
+      "nazwa": "Special Edition Naboo Starfighter",
+      "rok": 2002,
+      "elementy": 187,
+      "status": "eol"
+    },
+    {
+      "numer": "10030",
+      "nazwa": "Imperial Star Destroyer",
+      "rok": 2002,
+      "elementy": 3096,
+      "status": "eol"
+    },
+    {
+      "numer": "65081",
+      "nazwa": "R2-D2 / C-3PO Droid Collectors Set",
+      "rok": 2002,
+      "elementy": 581,
+      "status": "eol"
+    },
+    {
+      "numer": "65145",
+      "nazwa": "X-wing Fighter / TIE Fighter & Y-wing Collectors Set",
+      "rok": 2002,
+      "elementy": 677,
+      "status": "eol"
+    },
+    {
+      "numer": "65153",
+      "nazwa": "Jango Fett's Slave I with Bonus Cargo Case",
+      "rok": 2002,
+      "elementy": 369,
+      "status": "eol"
+    },
+    {
+      "numer": "4478",
+      "nazwa": "Geonosian Fighter",
+      "rok": 2003,
+      "elementy": 170,
+      "status": "eol"
+    },
+    {
+      "numer": "4479",
+      "nazwa": "TIE Bomber",
+      "rok": 2003,
+      "elementy": 230,
+      "status": "eol"
+    },
+    {
+      "numer": "4480",
+      "nazwa": "Jabba's Palace",
+      "rok": 2003,
+      "elementy": 231,
+      "status": "eol"
+    },
+    {
+      "numer": "4481",
+      "nazwa": "Hailfire Droid",
+      "rok": 2003,
+      "elementy": 681,
+      "status": "eol"
+    },
+    {
+      "numer": "4482",
+      "nazwa": "AT-TE",
+      "rok": 2003,
+      "elementy": 658,
+      "status": "eol"
+    },
+    {
+      "numer": "4483",
+      "nazwa": "AT-AT",
+      "rok": 2003,
+      "elementy": 1064,
+      "status": "eol"
+    },
+    {
+      "numer": "4490",
+      "nazwa": "Republic Gunship",
+      "rok": 2003,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "10123",
+      "nazwa": "Cloud City",
+      "rok": 2003,
+      "elementy": 698,
+      "status": "eol"
+    },
+    {
+      "numer": "10129",
+      "nazwa": "Rebel Snowspeeder",
+      "rok": 2003,
+      "elementy": 1457,
+      "status": "eol"
+    },
+    {
+      "numer": "4207901",
+      "nazwa": "Star Wars MINI Bonus Pack",
+      "rok": 2003,
+      "elementy": 277,
+      "status": "eol"
+    },
+    {
+      "numer": "4500",
+      "nazwa": "Rebel Snowspeeder",
+      "rok": 2004,
+      "elementy": 214,
+      "status": "eol"
+    },
+    {
+      "numer": "4501",
+      "nazwa": "Mos Eisley Cantina",
+      "rok": 2004,
+      "elementy": 193,
+      "status": "eol"
+    },
+    {
+      "numer": "4502",
+      "nazwa": "X-wing Fighter",
+      "rok": 2004,
+      "elementy": 563,
+      "status": "eol"
+    },
+    {
+      "numer": "4504",
+      "nazwa": "Millennium Falcon",
+      "rok": 2004,
+      "elementy": 985,
+      "status": "eol"
+    },
+    {
+      "numer": "7262",
+      "nazwa": "TIE Fighter and Y-wing",
+      "rok": 2004,
+      "elementy": 412,
+      "status": "eol"
+    },
+    {
+      "numer": "10131",
+      "nazwa": "TIE Fighter Collection",
+      "rok": 2004,
+      "elementy": 682,
+      "status": "eol"
+    },
+    {
+      "numer": "10134",
+      "nazwa": "Y-wing Attack Starfighter",
+      "rok": 2004,
+      "elementy": 1473,
+      "status": "eol"
+    },
+    {
+      "numer": "65707",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2004,
+      "elementy": 363,
+      "status": "eol"
+    },
+    {
+      "numer": "7250",
+      "nazwa": "Clone Scout Walker",
+      "rok": 2005,
+      "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "7252",
+      "nazwa": "Droid Tri-Fighter",
+      "rok": 2005,
+      "elementy": 148,
+      "status": "eol"
+    },
+    {
+      "numer": "7255",
+      "nazwa": "General Grievous Chase",
+      "rok": 2005,
+      "elementy": 111,
+      "status": "eol"
+    },
+    {
+      "numer": "7256",
+      "nazwa": "Jedi Starfighter and Vulture Droid",
+      "rok": 2005,
+      "elementy": 202,
+      "status": "eol"
+    },
+    {
+      "numer": "7257",
+      "nazwa": "Ultimate Lightsaber Duel",
+      "rok": 2005,
+      "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "7258",
+      "nazwa": "Wookiee Attack",
+      "rok": 2005,
+      "elementy": 366,
+      "status": "eol"
+    },
+    {
+      "numer": "7259",
+      "nazwa": "ARC-170 Fighter",
+      "rok": 2005,
+      "elementy": 396,
+      "status": "eol"
+    },
+    {
+      "numer": "7260",
+      "nazwa": "Wookiee Catamaran",
+      "rok": 2005,
+      "elementy": 376,
+      "status": "eol"
+    },
+    {
+      "numer": "7263",
+      "nazwa": "TIE Fighter",
+      "rok": 2005,
+      "elementy": 159,
+      "status": "eol"
+    },
+    {
+      "numer": "7264",
+      "nazwa": "Imperial Inspection",
+      "rok": 2005,
+      "elementy": 367,
+      "status": "eol"
+    },
+    {
+      "numer": "7283",
+      "nazwa": "Ultimate Space Battle",
+      "rok": 2005,
+      "elementy": 567,
+      "status": "eol"
+    },
+    {
+      "numer": "10143",
+      "nazwa": "Death Star II",
+      "rok": 2005,
+      "elementy": 3449,
+      "status": "eol"
+    },
+    {
+      "numer": "10144",
+      "nazwa": "Sandcrawler",
+      "rok": 2005,
+      "elementy": 1669,
+      "status": "eol"
+    },
+    {
+      "numer": "65771",
+      "nazwa": "Episode III Collectors' Set",
+      "rok": 2005,
+      "elementy": 544,
+      "status": "eol"
+    },
+    {
+      "numer": "65828",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "65844",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 280,
+      "status": "eol"
+    },
+    {
+      "numer": "65845",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 371,
+      "status": "eol"
+    },
+    {
+      "numer": "6205",
+      "nazwa": "V-wing Fighter",
+      "rok": 2006,
+      "elementy": 118,
+      "status": "eol"
+    },
+    {
+      "numer": "6206",
+      "nazwa": "TIE Interceptor",
+      "rok": 2006,
+      "elementy": 212,
+      "status": "eol"
+    },
+    {
+      "numer": "6207",
+      "nazwa": "A-wing Fighter",
+      "rok": 2006,
+      "elementy": 194,
+      "status": "eol"
+    },
+    {
+      "numer": "6208",
+      "nazwa": "B-wing Fighter",
+      "rok": 2006,
+      "elementy": 435,
+      "status": "eol"
+    },
+    {
+      "numer": "6209",
+      "nazwa": "Slave I",
+      "rok": 2006,
+      "elementy": 537,
+      "status": "eol"
+    },
+    {
+      "numer": "6210",
+      "nazwa": "Jabba's Sail Barge",
+      "rok": 2006,
+      "elementy": 781,
+      "status": "eol"
+    },
+    {
+      "numer": "6211",
+      "nazwa": "Imperial Star Destroyer",
+      "rok": 2006,
+      "elementy": 1367,
+      "status": "eol"
+    },
+    {
+      "numer": "6212",
+      "nazwa": "X-wing Fighter",
+      "rok": 2006,
+      "elementy": 437,
+      "status": "eol"
+    },
+    {
+      "numer": "7261",
+      "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
+      "rok": 2006,
+      "elementy": 813,
+      "status": "eol"
+    },
+    {
+      "numer": "10174",
+      "nazwa": "Imperial AT-ST",
+      "rok": 2006,
+      "elementy": 1068,
+      "status": "eol"
+    },
+    {
+      "numer": "10175",
+      "nazwa": "Vader's TIE Advanced",
+      "rok": 2006,
+      "elementy": 1212,
+      "status": "eol"
+    },
+    {
+      "numer": "66142",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2006,
+      "elementy": 302,
+      "status": "eol"
+    },
+    {
+      "numer": "66150",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2006,
+      "elementy": 396,
+      "status": "eol"
+    },
+    {
+      "numer": "66221",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2006,
+      "elementy": 437,
+      "status": "eol"
+    },
+    {
+      "numer": "7654",
+      "nazwa": "Droids Battle Pack",
+      "rok": 2007,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "7656",
+      "nazwa": "General Grievous Starfighter",
+      "rok": 2007,
+      "elementy": 232,
+      "status": "eol"
+    },
+    {
+      "numer": "7657",
+      "nazwa": "AT-ST",
+      "rok": 2007,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "7658",
+      "nazwa": "Y-wing Fighter",
+      "rok": 2007,
+      "elementy": 454,
+      "status": "eol"
+    },
+    {
+      "numer": "7659",
+      "nazwa": "Imperial Landing Craft",
+      "rok": 2007,
+      "elementy": 471,
+      "status": "eol"
+    },
+    {
+      "numer": "7660",
+      "nazwa": "Naboo N-1 Starfighter with Vulture Droid",
+      "rok": 2007,
+      "elementy": 280,
+      "status": "eol"
+    },
+    {
+      "numer": "7661",
+      "nazwa": "Jedi Starfighter with Hyperdrive Booster Ring",
+      "rok": 2007,
+      "elementy": 575,
+      "status": "eol"
+    },
+    {
+      "numer": "7662",
+      "nazwa": "Trade Federation MTT",
+      "rok": 2007,
+      "elementy": 1330,
+      "status": "eol"
+    },
+    {
+      "numer": "7663",
+      "nazwa": "Sith Infiltrator",
+      "rok": 2007,
+      "elementy": 310,
+      "status": "eol"
+    },
+    {
+      "numer": "7664",
+      "nazwa": "TIE Crawler",
+      "rok": 2007,
+      "elementy": 548,
+      "status": "eol"
+    },
+    {
+      "numer": "7665",
+      "nazwa": "Republic Cruiser",
+      "rok": 2007,
+      "elementy": 919,
+      "status": "eol"
+    },
+    {
+      "numer": "7666",
+      "nazwa": "Hoth Rebel Base",
+      "rok": 2007,
+      "elementy": 548,
+      "status": "eol"
+    },
+    {
+      "numer": "10178",
+      "nazwa": "Motorized Walking AT-AT",
+      "rok": 2007,
+      "elementy": 1137,
+      "status": "eol"
+    },
+    {
+      "numer": "10179",
+      "nazwa": "Ultimate Collector's Millennium Falcon",
+      "rok": 2007,
+      "elementy": 5197,
+      "status": "eol"
+    },
+    {
+      "numer": "7669",
+      "nazwa": "Anakin's Jedi Starfighter",
+      "rok": 2008,
+      "elementy": 153,
+      "status": "eol"
+    },
+    {
+      "numer": "7670",
+      "nazwa": "Hailfire Droid & Spider Droid",
+      "rok": 2008,
+      "elementy": 249,
+      "status": "eol"
+    },
+    {
+      "numer": "7671",
+      "nazwa": "AT-AP Walker",
+      "rok": 2008,
+      "elementy": 392,
+      "status": "eol"
+    },
+    {
+      "numer": "7672",
+      "nazwa": "Rogue Shadow",
+      "rok": 2008,
+      "elementy": 482,
+      "status": "eol"
+    },
+    {
+      "numer": "7673",
+      "nazwa": "Magna Guard Starfighter",
+      "rok": 2008,
+      "elementy": 431,
+      "status": "eol"
+    },
+    {
+      "numer": "7674",
+      "nazwa": "V-19 Torrent",
+      "rok": 2008,
+      "elementy": 471,
+      "status": "eol"
+    },
+    {
+      "numer": "7675",
+      "nazwa": "AT-TE Walker",
+      "rok": 2008,
+      "elementy": 798,
+      "status": "eol"
+    },
+    {
+      "numer": "7676",
+      "nazwa": "Republic Attack Gunship",
+      "rok": 2008,
+      "elementy": 1034,
+      "status": "eol"
+    },
+    {
+      "numer": "7678",
+      "nazwa": "Droid Gunship",
+      "rok": 2008,
+      "elementy": 329,
+      "status": "eol"
+    },
+    {
+      "numer": "7679",
+      "nazwa": "Republic Fighter Tank",
+      "rok": 2008,
+      "elementy": 592,
+      "status": "eol"
+    },
+    {
+      "numer": "7680",
+      "nazwa": "The Twilight",
+      "rok": 2008,
+      "elementy": 882,
+      "status": "eol"
+    },
+    {
+      "numer": "7681",
+      "nazwa": "Separatist Spider Droid",
+      "rok": 2008,
+      "elementy": 206,
+      "status": "eol"
+    },
+    {
+      "numer": "10186",
+      "nazwa": "General Grievous",
+      "rok": 2008,
+      "elementy": 1085,
+      "status": "eol"
+    },
+    {
+      "numer": "10188",
+      "nazwa": "Death Star",
+      "rok": 2008,
+      "elementy": 3803,
+      "status": "eol"
+    },
+    {
+      "numer": "7748",
+      "nazwa": "Corporate Alliance Tank Droid",
+      "rok": 2009,
+      "elementy": 216,
+      "status": "eol"
+    },
+    {
+      "numer": "7749",
+      "nazwa": "Echo Base",
+      "rok": 2009,
+      "elementy": 155,
+      "status": "eol"
+    },
+    {
+      "numer": "7751",
+      "nazwa": "Ahsoka's Starfighter and Vulture Droid",
+      "rok": 2009,
+      "elementy": 291,
+      "status": "eol"
+    },
+    {
+      "numer": "7752",
+      "nazwa": "Count Dooku's Solar Sailer",
+      "rok": 2009,
+      "elementy": 385,
+      "status": "eol"
+    },
+    {
+      "numer": "7753",
+      "nazwa": "Pirate Tank",
+      "rok": 2009,
+      "elementy": 372,
+      "status": "eol"
+    },
+    {
+      "numer": "7754",
+      "nazwa": "Home One Mon Calamari Star Cruiser",
+      "rok": 2009,
+      "elementy": 789,
+      "status": "eol"
+    },
+    {
+      "numer": "7778",
+      "nazwa": "Midi-scale Millennium Falcon",
+      "rok": 2009,
+      "elementy": 356,
+      "status": "eol"
+    },
+    {
+      "numer": "8016",
+      "nazwa": "Hyena Droid Bomber",
+      "rok": 2009,
+      "elementy": 232,
+      "status": "eol"
+    },
+    {
+      "numer": "8017",
+      "nazwa": "Darth Vader's TIE Fighter",
+      "rok": 2009,
+      "elementy": 251,
+      "status": "eol"
+    },
+    {
+      "numer": "8018",
+      "nazwa": "Armored Assault Tank (AAT)",
+      "rok": 2009,
+      "elementy": 407,
+      "status": "eol"
+    },
+    {
+      "numer": "8019",
+      "nazwa": "Republic Attack Shuttle",
+      "rok": 2009,
+      "elementy": 636,
+      "status": "eol"
+    },
+    {
+      "numer": "8036",
+      "nazwa": "Separatist Shuttle",
+      "rok": 2009,
+      "elementy": 259,
+      "status": "eol"
+    },
+    {
+      "numer": "8037",
+      "nazwa": "Anakin's Y-wing Starfighter",
+      "rok": 2009,
+      "elementy": 570,
+      "status": "eol"
+    },
+    {
+      "numer": "8038",
+      "nazwa": "The Battle of Endor",
+      "rok": 2009,
+      "elementy": 890,
+      "status": "eol"
+    },
+    {
+      "numer": "8039",
+      "nazwa": "Venator-class Republic Attack Cruiser",
+      "rok": 2009,
+      "elementy": 1170,
+      "status": "eol"
+    },
+    {
+      "numer": "10195",
+      "nazwa": "Republic Dropship with AT-OT",
+      "rok": 2009,
+      "elementy": 1758,
+      "status": "eol"
+    },
+    {
+      "numer": "10198",
+      "nazwa": "Tantive IV",
+      "rok": 2009,
+      "elementy": 1408,
+      "status": "eol"
+    },
+    {
+      "numer": "66308",
+      "nazwa": "3 in 1 Superpack",
+      "rok": 2009,
+      "elementy": 414,
+      "status": "eol"
+    },
+    {
+      "numer": "8085",
+      "nazwa": "Freeco Speeder",
+      "rok": 2010,
+      "elementy": 177,
+      "status": "eol"
+    },
+    {
+      "numer": "8086",
+      "nazwa": "Droid Tri-Fighter",
+      "rok": 2010,
+      "elementy": 268,
+      "status": "eol"
+    },
+    {
+      "numer": "8087",
+      "nazwa": "TIE Defender",
+      "rok": 2010,
+      "elementy": 304,
+      "status": "eol"
+    },
+    {
+      "numer": "8088",
+      "nazwa": "ARC-170 Starfighter",
+      "rok": 2010,
+      "elementy": 396,
+      "status": "eol"
+    },
+    {
+      "numer": "8089",
+      "nazwa": "Hoth Wampa Cave",
+      "rok": 2010,
+      "elementy": 297,
+      "status": "eol"
+    },
+    {
+      "numer": "8091",
+      "nazwa": "Republic Swamp Speeder",
+      "rok": 2010,
+      "elementy": 176,
+      "status": "eol"
+    },
+    {
+      "numer": "8092",
+      "nazwa": "Luke's Landspeeder",
+      "rok": 2010,
+      "elementy": 163,
+      "status": "eol"
+    },
+    {
+      "numer": "8093",
+      "nazwa": "Plo Koon's Jedi Starfighter",
+      "rok": 2010,
+      "elementy": 175,
+      "status": "eol"
+    },
+    {
+      "numer": "8095",
+      "nazwa": "General Grievous' Starfighter",
+      "rok": 2010,
+      "elementy": 454,
+      "status": "eol"
+    },
+    {
+      "numer": "8096",
+      "nazwa": "Emperor Palpatine's Shuttle",
+      "rok": 2010,
+      "elementy": 592,
+      "status": "eol"
+    },
+    {
+      "numer": "8097",
+      "nazwa": "Slave I",
+      "rok": 2010,
+      "elementy": 573,
+      "status": "eol"
+    },
+    {
+      "numer": "8098",
+      "nazwa": "Clone Turbo Tank",
+      "rok": 2010,
+      "elementy": 1141,
+      "status": "eol"
+    },
+    {
+      "numer": "8099",
+      "nazwa": "Midi-scale Imperial Star Destroyer",
+      "rok": 2010,
+      "elementy": 423,
+      "status": "eol"
+    },
+    {
+      "numer": "8128",
+      "nazwa": "Cad Bane's Speeder",
+      "rok": 2010,
+      "elementy": 318,
+      "status": "eol"
+    },
+    {
+      "numer": "8129",
+      "nazwa": "AT-AT Walker",
+      "rok": 2010,
+      "elementy": 815,
+      "status": "eol"
+    },
+    {
+      "numer": "10212",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2010,
+      "elementy": 2503,
+      "status": "eol"
+    },
+    {
+      "numer": "10215",
+      "nazwa": "Obi-Wan's Jedi Starfighter",
+      "rok": 2010,
+      "elementy": 676,
+      "status": "eol"
+    },
+    {
+      "numer": "66341",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 342,
+      "status": "eol"
+    },
+    {
+      "numer": "66364",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 308,
+      "status": "eol"
+    },
+    {
+      "numer": "66366",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 531,
+      "status": "eol"
+    },
+    {
+      "numer": "66368",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 316,
+      "status": "eol"
+    },
+    {
+      "numer": "7868",
+      "nazwa": "Mace Windu's Jedi Starfighter",
+      "rok": 2011,
+      "elementy": 309,
+      "status": "eol"
+    },
+    {
+      "numer": "7869",
+      "nazwa": "Battle for Geonosis",
+      "rok": 2011,
+      "elementy": 331,
+      "status": "eol"
+    },
+    {
+      "numer": "7877",
+      "nazwa": "Naboo Starfighter",
+      "rok": 2011,
+      "elementy": 318,
+      "status": "eol"
+    },
+    {
+      "numer": "7879",
+      "nazwa": "Hoth Echo Base",
+      "rok": 2011,
+      "elementy": 773,
+      "status": "eol"
+    },
+    {
+      "numer": "7915",
+      "nazwa": "Imperial V-wing Starfighter",
+      "rok": 2011,
+      "elementy": 139,
+      "status": "eol"
+    },
+    {
+      "numer": "7929",
+      "nazwa": "The Battle of Naboo",
+      "rok": 2011,
+      "elementy": 241,
+      "status": "eol"
+    },
+    {
+      "numer": "7930",
+      "nazwa": "Bounty Hunter Assault Gunship",
+      "rok": 2011,
+      "elementy": 389,
+      "status": "eol"
+    },
+    {
+      "numer": "7931",
+      "nazwa": "T-6 Jedi Shuttle",
+      "rok": 2011,
+      "elementy": 389,
+      "status": "eol"
+    },
+    {
+      "numer": "7956",
+      "nazwa": "Ewok Attack",
+      "rok": 2011,
+      "elementy": 166,
+      "status": "eol"
+    },
+    {
+      "numer": "7957",
+      "nazwa": "Sith Nightspeeder",
+      "rok": 2011,
+      "elementy": 214,
+      "status": "eol"
+    },
+    {
+      "numer": "7958",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2011,
+      "elementy": 266,
+      "status": "eol"
+    },
+    {
+      "numer": "7959",
+      "nazwa": "Geonosian Starfighter",
+      "rok": 2011,
+      "elementy": 155,
+      "status": "eol"
+    },
+    {
+      "numer": "7961",
+      "nazwa": "Darth Maul's Sith Infiltrator",
+      "rok": 2011,
+      "elementy": 479,
+      "status": "eol"
+    },
+    {
+      "numer": "7962",
+      "nazwa": "Anakin Skywalker and Sebulba's Podracers",
+      "rok": 2011,
+      "elementy": 810,
+      "status": "eol"
+    },
+    {
+      "numer": "7964",
+      "nazwa": "Republic Frigate",
+      "rok": 2011,
+      "elementy": 1015,
+      "status": "eol"
+    },
+    {
+      "numer": "7965",
+      "nazwa": "Millennium Falcon",
+      "rok": 2011,
+      "elementy": 1254,
+      "status": "eol"
+    },
+    {
+      "numer": "10221",
+      "nazwa": "Super Star Destroyer",
+      "rok": 2011,
+      "elementy": 3152,
+      "status": "eol"
+    },
+    {
+      "numer": "66377",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2011,
+      "elementy": 484,
+      "status": "eol"
+    },
+    {
+      "numer": "66378",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2011,
+      "elementy": 330,
+      "status": "eol"
+    },
+    {
+      "numer": "66395",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2011,
+      "elementy": 367,
+      "status": "eol"
+    },
+    {
+      "numer": "66396",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2011,
+      "elementy": 644,
+      "status": "eol"
+    },
+    {
+      "numer": "9490",
+      "nazwa": "Droid Escape",
+      "rok": 2012,
+      "elementy": 137,
+      "status": "eol"
+    },
+    {
+      "numer": "9491",
+      "nazwa": "Geonosian Cannon",
+      "rok": 2012,
+      "elementy": 132,
+      "status": "eol"
+    },
+    {
+      "numer": "9492",
+      "nazwa": "TIE Fighter",
+      "rok": 2012,
+      "elementy": 413,
+      "status": "eol"
+    },
+    {
+      "numer": "9493",
+      "nazwa": "X-wing Starfighter",
+      "rok": 2012,
+      "elementy": 560,
+      "status": "eol"
+    },
+    {
+      "numer": "9494",
+      "nazwa": "Anakin's Jedi Interceptor",
+      "rok": 2012,
+      "elementy": 300,
+      "status": "eol"
+    },
+    {
+      "numer": "9495",
+      "nazwa": "Gold Leader's Y-wing Starfighter",
+      "rok": 2012,
+      "elementy": 458,
+      "status": "eol"
+    },
+    {
+      "numer": "9496",
+      "nazwa": "Desert Skiff",
+      "rok": 2012,
+      "elementy": 213,
+      "status": "eol"
+    },
+    {
+      "numer": "9497",
+      "nazwa": "Republic Striker-class Starfighter",
+      "rok": 2012,
+      "elementy": 376,
+      "status": "eol"
+    },
+    {
+      "numer": "9498",
+      "nazwa": "Saesee Tiin's Jedi Starfighter",
+      "rok": 2012,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "9499",
+      "nazwa": "Gungan Sub",
+      "rok": 2012,
+      "elementy": 465,
+      "status": "eol"
+    },
+    {
+      "numer": "9500",
+      "nazwa": "Sith Fury-class Interceptor",
+      "rok": 2012,
+      "elementy": 748,
+      "status": "eol"
+    },
+    {
+      "numer": "9509",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2012,
+      "elementy": 234,
+      "status": "eol"
+    },
+    {
+      "numer": "9515",
+      "nazwa": "The Malevolence",
+      "rok": 2012,
+      "elementy": 1101,
+      "status": "eol"
+    },
+    {
+      "numer": "9516",
+      "nazwa": "Jabba's Palace",
+      "rok": 2012,
+      "elementy": 717,
+      "status": "eol"
+    },
+    {
+      "numer": "9525",
+      "nazwa": "Pre Vizsla's Mandalorian Fighter",
+      "rok": 2012,
+      "elementy": 403,
+      "status": "eol"
+    },
+    {
+      "numer": "9526",
+      "nazwa": "Palpatine's Arrest",
+      "rok": 2012,
+      "elementy": 645,
+      "status": "eol"
+    },
+    {
+      "numer": "10225",
+      "nazwa": "R2-D2",
+      "rok": 2012,
+      "elementy": 2127,
+      "status": "eol"
+    },
+    {
+      "numer": "10227",
+      "nazwa": "B-wing Starfighter",
+      "rok": 2012,
+      "elementy": 1487,
+      "status": "eol"
+    },
+    {
+      "numer": "66411",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 633,
+      "status": "eol"
+    },
+    {
+      "numer": "66431",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 298,
+      "status": "eol"
+    },
+    {
+      "numer": "66432",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 763,
+      "status": "eol"
+    },
+    {
+      "numer": "10236",
+      "nazwa": "Ewok Village",
+      "rok": 2013,
+      "elementy": 1990,
+      "status": "eol"
+    },
+    {
+      "numer": "10240",
+      "nazwa": "Red Five X-wing Starfighter",
+      "rok": 2013,
+      "elementy": 1559,
+      "status": "eol"
+    },
+    {
+      "numer": "66449",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2013,
+      "elementy": 727,
+      "status": "eol"
+    },
+    {
+      "numer": "66456",
+      "nazwa": "Star Wars Value Pack",
+      "rok": 2013,
+      "elementy": 821,
+      "status": "eol"
+    },
+    {
+      "numer": "66473",
+      "nazwa": "LEGO Star Wars Super Pack",
+      "rok": 2013,
+      "elementy": 1360,
+      "status": "eol"
+    },
+    {
+      "numer": "75000",
+      "nazwa": "Clone Troopers vs. Droidekas",
+      "rok": 2013,
+      "elementy": 124,
+      "status": "eol"
+    },
+    {
+      "numer": "75002",
+      "nazwa": "AT-RT",
+      "rok": 2013,
+      "elementy": 222,
+      "status": "eol"
+    },
+    {
+      "numer": "75003",
+      "nazwa": "A-wing Starfighter",
+      "rok": 2013,
+      "elementy": 177,
+      "status": "eol"
+    },
+    {
+      "numer": "75004",
+      "nazwa": "Z-95 Headhunter",
+      "rok": 2013,
+      "elementy": 373,
+      "status": "eol"
+    },
+    {
+      "numer": "75005",
+      "nazwa": "Rancor Pit",
+      "rok": 2013,
+      "elementy": 380,
+      "status": "eol"
+    },
+    {
+      "numer": "75011",
+      "nazwa": "Tantive IV & Planet Alderaan",
+      "rok": 2013,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75012",
+      "nazwa": "BARC Speeder with Sidecar",
+      "rok": 2013,
+      "elementy": 226,
+      "status": "eol"
+    },
+    {
+      "numer": "75013",
+      "nazwa": "Umbaran MHC (Mobile Heavy Cannon)",
+      "rok": 2013,
+      "elementy": 493,
+      "status": "eol"
+    },
+    {
+      "numer": "75014",
+      "nazwa": "Battle of Hoth",
+      "rok": 2013,
+      "elementy": 426,
+      "status": "eol"
+    },
+    {
+      "numer": "75015",
+      "nazwa": "Corporate Alliance Tank Droid",
+      "rok": 2013,
+      "elementy": 271,
+      "status": "eol"
+    },
+    {
+      "numer": "75016",
+      "nazwa": "Homing Spider Droid",
+      "rok": 2013,
+      "elementy": 295,
+      "status": "eol"
+    },
+    {
+      "numer": "75017",
+      "nazwa": "Duel on Geonosis",
+      "rok": 2013,
+      "elementy": 391,
+      "status": "eol"
+    },
+    {
+      "numer": "75018",
+      "nazwa": "Jek-14's Stealth Starfighter",
+      "rok": 2013,
+      "elementy": 550,
+      "status": "eol"
+    },
+    {
+      "numer": "75019",
+      "nazwa": "AT-TE",
+      "rok": 2013,
+      "elementy": 794,
+      "status": "eol"
+    },
+    {
+      "numer": "75020",
+      "nazwa": "Jabba's Sail Barge",
+      "rok": 2013,
+      "elementy": 850,
+      "status": "eol"
+    },
+    {
+      "numer": "75021",
+      "nazwa": "Republic Gunship",
+      "rok": 2013,
+      "elementy": 1175,
+      "status": "eol"
+    },
+    {
+      "numer": "75022",
+      "nazwa": "Mandalorian Speeder",
+      "rok": 2013,
+      "elementy": 211,
+      "status": "eol"
+    },
+    {
+      "numer": "75023",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2013,
+      "elementy": 254,
+      "status": "eol"
+    },
+    {
+      "numer": "75024",
+      "nazwa": "HH-87 Starhopper",
+      "rok": 2013,
+      "elementy": 362,
+      "status": "eol"
+    },
+    {
+      "numer": "75025",
+      "nazwa": "Jedi Defender-class Cruiser",
+      "rok": 2013,
+      "elementy": 927,
+      "status": "eol"
+    },
+    {
+      "numer": "66479",
+      "nazwa": "Value Pack",
+      "rok": 2014,
+      "elementy": 1087,
+      "status": "eol"
+    },
+    {
+      "numer": "66495",
+      "nazwa": "Star Wars Value Pack",
+      "rok": 2014,
+      "elementy": 840,
+      "status": "eol"
+    },
+    {
+      "numer": "66512",
+      "nazwa": "Star Wars Rebels Super Pack 2 in 1",
+      "rok": 2014,
+      "elementy": 1163,
+      "status": "eol"
+    },
+    {
+      "numer": "66514",
+      "nazwa": "Microfighter Super Pack 3 in 1",
+      "rok": 2014,
+      "elementy": 285,
+      "status": "eol"
+    },
+    {
+      "numer": "66515",
+      "nazwa": "Microfighter Super Pack 3 in 1",
+      "rok": 2014,
+      "elementy": 286,
+      "status": "eol"
+    },
+    {
+      "numer": "75034",
+      "nazwa": "Death Star Troopers",
+      "rok": 2014,
+      "elementy": 100,
+      "status": "eol"
+    },
+    {
+      "numer": "75037",
+      "nazwa": "Battle on Saleucami",
+      "rok": 2014,
+      "elementy": 183,
+      "status": "eol"
+    },
+    {
+      "numer": "75038",
+      "nazwa": "Jedi Interceptor",
+      "rok": 2014,
+      "elementy": 223,
+      "status": "eol"
+    },
+    {
+      "numer": "75039",
+      "nazwa": "V-wing Starfighter",
+      "rok": 2014,
+      "elementy": 201,
+      "status": "eol"
+    },
+    {
+      "numer": "75040",
+      "nazwa": "General Grievous' Wheel Bike",
+      "rok": 2014,
+      "elementy": 261,
+      "status": "eol"
+    },
+    {
+      "numer": "75041",
+      "nazwa": "Vulture Droid",
+      "rok": 2014,
+      "elementy": 205,
+      "status": "eol"
+    },
+    {
+      "numer": "75042",
+      "nazwa": "Droid Gunship",
+      "rok": 2014,
+      "elementy": 439,
+      "status": "eol"
+    },
+    {
+      "numer": "75043",
+      "nazwa": "AT-AP",
+      "rok": 2014,
+      "elementy": 717,
+      "status": "eol"
+    },
+    {
+      "numer": "75044",
+      "nazwa": "Droid Tri-Fighter",
+      "rok": 2014,
+      "elementy": 262,
+      "status": "eol"
+    },
+    {
+      "numer": "75045",
+      "nazwa": "Republic AV-7 Anti-Vehicle Cannon",
+      "rok": 2014,
+      "elementy": 434,
+      "status": "eol"
+    },
+    {
+      "numer": "75046",
+      "nazwa": "Coruscant Police Gunship",
+      "rok": 2014,
+      "elementy": 481,
+      "status": "eol"
+    },
+    {
+      "numer": "75048",
+      "nazwa": "The Phantom",
+      "rok": 2014,
+      "elementy": 234,
+      "status": "eol"
+    },
+    {
+      "numer": "75049",
+      "nazwa": "Snowspeeder",
+      "rok": 2014,
+      "elementy": 279,
+      "status": "eol"
+    },
+    {
+      "numer": "75050",
+      "nazwa": "B-wing",
+      "rok": 2014,
+      "elementy": 448,
+      "status": "eol"
+    },
+    {
+      "numer": "75051",
+      "nazwa": "Jedi Scout Fighter",
+      "rok": 2014,
+      "elementy": 490,
+      "status": "eol"
+    },
+    {
+      "numer": "75052",
+      "nazwa": "Mos Eisley Cantina",
+      "rok": 2014,
+      "elementy": 616,
+      "status": "eol"
+    },
+    {
+      "numer": "75053",
+      "nazwa": "The Ghost",
+      "rok": 2014,
+      "elementy": 929,
+      "status": "eol"
+    },
+    {
+      "numer": "75054",
+      "nazwa": "AT-AT",
+      "rok": 2014,
+      "elementy": 1137,
+      "status": "eol"
+    },
+    {
+      "numer": "75055",
+      "nazwa": "Imperial Star Destroyer",
+      "rok": 2014,
+      "elementy": 1359,
+      "status": "eol"
+    },
+    {
+      "numer": "75056",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2014,
+      "elementy": 274,
+      "status": "eol"
+    },
+    {
+      "numer": "75058",
+      "nazwa": "MTT",
+      "rok": 2014,
+      "elementy": 954,
+      "status": "eol"
+    },
+    {
+      "numer": "75059",
+      "nazwa": "Sandcrawler",
+      "rok": 2014,
+      "elementy": 3296,
+      "status": "eol"
+    },
+    {
+      "numer": "66533",
+      "nazwa": "Microfighter 3 in 1 Super Pack",
+      "rok": 2015,
+      "elementy": 276,
+      "status": "eol"
+    },
+    {
+      "numer": "66534",
+      "nazwa": "Microfighter 3 in 1 Super Pack",
+      "rok": 2015,
+      "elementy": 288,
+      "status": "eol"
+    },
+    {
+      "numer": "66535",
+      "nazwa": "Battle Pack 2 in 1",
+      "rok": 2015,
+      "elementy": 269,
+      "status": "eol"
+    },
+    {
+      "numer": "66536",
+      "nazwa": "Battle Pack 2 in 1",
+      "rok": 2015,
+      "elementy": 243,
+      "status": "eol"
+    },
+    {
+      "numer": "75060",
+      "nazwa": "Slave I",
+      "rok": 2015,
+      "elementy": 1996,
+      "status": "eol"
+    },
+    {
+      "numer": "75076",
+      "nazwa": "Republic Gunship",
+      "rok": 2015,
+      "elementy": 105,
+      "status": "eol"
+    },
+    {
+      "numer": "75077",
+      "nazwa": "Homing Spider Droid",
+      "rok": 2015,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75078",
+      "nazwa": "Imperial Troop Transport",
+      "rok": 2015,
+      "elementy": 141,
+      "status": "eol"
+    },
+    {
+      "numer": "75080",
+      "nazwa": "AAT",
+      "rok": 2015,
+      "elementy": 251,
+      "status": "eol"
+    },
+    {
+      "numer": "75081",
+      "nazwa": "T-16 Skyhopper",
+      "rok": 2015,
+      "elementy": 247,
+      "status": "eol"
+    },
+    {
+      "numer": "75082",
+      "nazwa": "TIE Advanced Prototype",
+      "rok": 2015,
+      "elementy": 355,
+      "status": "eol"
+    },
+    {
+      "numer": "75083",
+      "nazwa": "AT-DP",
+      "rok": 2015,
+      "elementy": 500,
+      "status": "eol"
+    },
+    {
+      "numer": "75084",
+      "nazwa": "Wookiee Gunship",
+      "rok": 2015,
+      "elementy": 570,
+      "status": "eol"
+    },
+    {
+      "numer": "75085",
+      "nazwa": "Hailfire Droid",
+      "rok": 2015,
+      "elementy": 163,
+      "status": "eol"
+    },
+    {
+      "numer": "75086",
+      "nazwa": "Battle Droid Troop Carrier",
+      "rok": 2015,
+      "elementy": 565,
+      "status": "eol"
+    },
+    {
+      "numer": "75087",
+      "nazwa": "Anakin's Custom Jedi Starfighter",
+      "rok": 2015,
+      "elementy": 370,
+      "status": "eol"
+    },
+    {
+      "numer": "75088",
+      "nazwa": "Senate Commando Troopers",
+      "rok": 2015,
+      "elementy": 106,
+      "status": "eol"
+    },
+    {
+      "numer": "75089",
+      "nazwa": "Geonosis Troopers",
+      "rok": 2015,
+      "elementy": 105,
+      "status": "eol"
+    },
+    {
+      "numer": "75090",
+      "nazwa": "Ezra's Speeder Bike",
+      "rok": 2015,
+      "elementy": 253,
+      "status": "eol"
+    },
+    {
+      "numer": "75091",
+      "nazwa": "Flash Speeder",
+      "rok": 2015,
+      "elementy": 312,
+      "status": "eol"
+    },
+    {
+      "numer": "75092",
+      "nazwa": "Naboo Starfighter",
+      "rok": 2015,
+      "elementy": 442,
+      "status": "eol"
+    },
+    {
+      "numer": "75093",
+      "nazwa": "Death Star Final Duel",
+      "rok": 2015,
+      "elementy": 724,
+      "status": "eol"
+    },
+    {
+      "numer": "75094",
+      "nazwa": "Imperial Shuttle Tydirium",
+      "rok": 2015,
+      "elementy": 937,
+      "status": "eol"
+    },
+    {
+      "numer": "75095",
+      "nazwa": "TIE Fighter",
+      "rok": 2015,
+      "elementy": 1685,
+      "status": "eol"
+    },
+    {
+      "numer": "75096",
+      "nazwa": "Sith Infiltrator",
+      "rok": 2015,
+      "elementy": 662,
+      "status": "eol"
+    },
+    {
+      "numer": "75097",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2015,
+      "elementy": 292,
+      "status": "eol"
+    },
+    {
+      "numer": "75099",
+      "nazwa": "Rey's Speeder",
+      "rok": 2015,
+      "elementy": 193,
+      "status": "eol"
+    },
+    {
+      "numer": "75100",
+      "nazwa": "First Order Snowspeeder",
+      "rok": 2015,
+      "elementy": 444,
+      "status": "eol"
+    },
+    {
+      "numer": "75101",
+      "nazwa": "First Order Special Forces TIE Fighter",
+      "rok": 2015,
+      "elementy": 517,
+      "status": "eol"
+    },
+    {
+      "numer": "75102",
+      "nazwa": "Poe's X-wing Fighter",
+      "rok": 2015,
+      "elementy": 717,
+      "status": "eol"
+    },
+    {
+      "numer": "75103",
+      "nazwa": "First Order Transporter",
+      "rok": 2015,
+      "elementy": 792,
+      "status": "eol"
+    },
+    {
+      "numer": "75104",
+      "nazwa": "Kylo Ren's Command Shuttle",
+      "rok": 2015,
+      "elementy": 1005,
+      "status": "eol"
+    },
+    {
+      "numer": "75105",
+      "nazwa": "Millennium Falcon",
+      "rok": 2015,
+      "elementy": 1329,
+      "status": "eol"
+    },
+    {
+      "numer": "75106",
+      "nazwa": "Imperial Assault Carrier",
+      "rok": 2015,
+      "elementy": 1216,
+      "status": "eol"
+    },
+    {
+      "numer": "75111",
+      "nazwa": "Darth Vader",
+      "rok": 2015,
+      "elementy": 160,
+      "status": "eol"
+    },
+    {
+      "numer": "75112",
+      "nazwa": "General Grievous",
+      "rok": 2015,
+      "elementy": 186,
+      "status": "eol"
+    },
+    {
+      "numer": "66542",
+      "nazwa": "Microfighters Super Pack 3 in 1",
+      "rok": 2016,
+      "elementy": 267,
+      "status": "eol"
+    },
+    {
+      "numer": "66543",
+      "nazwa": "Microfighters Super Pack 3 in 1",
+      "rok": 2016,
+      "elementy": 268,
+      "status": "eol"
+    },
+    {
+      "numer": "75098",
+      "nazwa": "Assault on Hoth",
+      "rok": 2016,
+      "elementy": 2144,
+      "status": "eol"
+    },
+    {
+      "numer": "75115",
+      "nazwa": "Poe Dameron",
+      "rok": 2016,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75119",
+      "nazwa": "Sergeant Jyn Erso",
+      "rok": 2016,
+      "elementy": 104,
+      "status": "eol"
+    },
+    {
+      "numer": "75120",
+      "nazwa": "K-2SO",
+      "rok": 2016,
+      "elementy": 169,
+      "status": "eol"
+    },
+    {
+      "numer": "75121",
+      "nazwa": "Imperial Death Trooper",
+      "rok": 2016,
+      "elementy": 106,
+      "status": "eol"
+    },
+    {
+      "numer": "75127",
+      "nazwa": "The Ghost",
+      "rok": 2016,
+      "elementy": 104,
+      "status": "eol"
+    },
+    {
+      "numer": "75131",
+      "nazwa": "Resistance Trooper Battle Pack",
+      "rok": 2016,
+      "elementy": 112,
+      "status": "eol"
+    },
+    {
+      "numer": "75133",
+      "nazwa": "Rebel Alliance Battle Pack",
+      "rok": 2016,
       "elementy": 101,
       "status": "eol"
     },
     {
-      "numer": "41588",
-      "nazwa": "Joker",
-      "rok": 2017,
-      "elementy": 151,
+      "numer": "75134",
+      "nazwa": "Galactic Empire Battle Pack",
+      "rok": 2016,
+      "elementy": 109,
       "status": "eol"
     },
     {
-      "numer": "41589",
-      "nazwa": "Kapitan Ameryka",
-      "rok": 2017,
-      "elementy": 79,
+      "numer": "75135",
+      "nazwa": "Obi-Wan's Jedi Interceptor",
+      "rok": 2016,
+      "elementy": 215,
       "status": "eol"
     },
     {
-      "numer": "41590",
-      "nazwa": "Iron Man",
-      "rok": 2017,
-      "elementy": 96,
+      "numer": "75136",
+      "nazwa": "Droid Escape Pod",
+      "rok": 2016,
+      "elementy": 197,
       "status": "eol"
     },
     {
-      "numer": "41591",
-      "nazwa": "Czarna Wdowa",
-      "rok": 2017,
-      "elementy": 143,
+      "numer": "75137",
+      "nazwa": "Carbon-Freezing Chamber",
+      "rok": 2016,
+      "elementy": 231,
       "status": "eol"
     },
     {
-      "numer": "41592",
-      "nazwa": "Hulk",
-      "rok": 2017,
-      "elementy": 93,
+      "numer": "75138",
+      "nazwa": "Hoth Attack",
+      "rok": 2016,
+      "elementy": 233,
       "status": "eol"
     },
     {
-      "numer": "41593",
-      "nazwa": "Kapitan Jack Sparrow",
+      "numer": "75139",
+      "nazwa": "Battle on Takodana",
+      "rok": 2016,
+      "elementy": 409,
+      "status": "eol"
+    },
+    {
+      "numer": "75140",
+      "nazwa": "Resistance Troop Transporter",
+      "rok": 2016,
+      "elementy": 646,
+      "status": "eol"
+    },
+    {
+      "numer": "75141",
+      "nazwa": "Kanan's Speeder Bike",
+      "rok": 2016,
+      "elementy": 234,
+      "status": "eol"
+    },
+    {
+      "numer": "75142",
+      "nazwa": "Homing Spider Droid",
+      "rok": 2016,
+      "elementy": 310,
+      "status": "eol"
+    },
+    {
+      "numer": "75145",
+      "nazwa": "Eclipse Fighter",
+      "rok": 2016,
+      "elementy": 363,
+      "status": "eol"
+    },
+    {
+      "numer": "75146",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2016,
+      "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "75147",
+      "nazwa": "StarScavenger",
+      "rok": 2016,
+      "elementy": 558,
+      "status": "eol"
+    },
+    {
+      "numer": "75148",
+      "nazwa": "Encounter on Jakku",
+      "rok": 2016,
+      "elementy": 530,
+      "status": "eol"
+    },
+    {
+      "numer": "75149",
+      "nazwa": "Resistance X-wing Fighter",
+      "rok": 2016,
+      "elementy": 740,
+      "status": "eol"
+    },
+    {
+      "numer": "75150",
+      "nazwa": "Vader's TIE Advanced vs. A-wing Starfighter",
+      "rok": 2016,
+      "elementy": 702,
+      "status": "eol"
+    },
+    {
+      "numer": "75151",
+      "nazwa": "Clone Turbo Tank",
+      "rok": 2016,
+      "elementy": 903,
+      "status": "eol"
+    },
+    {
+      "numer": "75152",
+      "nazwa": "Imperial Assault Hovertank",
+      "rok": 2016,
+      "elementy": 385,
+      "status": "eol"
+    },
+    {
+      "numer": "75153",
+      "nazwa": "AT-ST Walker",
+      "rok": 2016,
+      "elementy": 449,
+      "status": "eol"
+    },
+    {
+      "numer": "75154",
+      "nazwa": "TIE Striker",
+      "rok": 2016,
+      "elementy": 543,
+      "status": "eol"
+    },
+    {
+      "numer": "75155",
+      "nazwa": "Rebel U-wing Fighter",
+      "rok": 2016,
+      "elementy": 659,
+      "status": "eol"
+    },
+    {
+      "numer": "75156",
+      "nazwa": "Krennic's Imperial Shuttle",
+      "rok": 2016,
+      "elementy": 863,
+      "status": "eol"
+    },
+    {
+      "numer": "75157",
+      "nazwa": "Captain Rex's AT-TE",
+      "rok": 2016,
+      "elementy": 972,
+      "status": "eol"
+    },
+    {
+      "numer": "75158",
+      "nazwa": "Rebel Combat Frigate",
+      "rok": 2016,
+      "elementy": 936,
+      "status": "eol"
+    },
+    {
+      "numer": "75159",
+      "nazwa": "Death Star",
+      "rok": 2016,
+      "elementy": 4016,
+      "status": "eol"
+    },
+    {
+      "numer": "6176782",
+      "nazwa": "Escape the Space Slug",
+      "rok": 2016,
+      "elementy": 161,
+      "status": "eol"
+    },
+    {
+      "numer": "66555",
+      "nazwa": "Super Pack 2 in 1",
+      "rok": 2017,
+      "elementy": 232,
+      "status": "eol"
+    },
+    {
+      "numer": "66556",
+      "nazwa": "Super Pack 2 in 1",
+      "rok": 2017,
+      "elementy": 242,
+      "status": "eol"
+    },
+    {
+      "numer": "75144",
+      "nazwa": "Snowspeeder",
+      "rok": 2017,
+      "elementy": 1703,
+      "status": "eol"
+    },
+    {
+      "numer": "75160",
+      "nazwa": "U-wing Microfighter",
       "rok": 2017,
       "elementy": 109,
       "status": "eol"
     },
     {
-      "numer": "41594",
-      "nazwa": "Kapitan Armando Salazar",
+      "numer": "75164",
+      "nazwa": "Rebel Trooper Battle Pack",
       "rok": 2017,
-      "elementy": 118,
+      "elementy": 120,
       "status": "eol"
     },
     {
-      "numer": "41595",
-      "nazwa": "Bella",
+      "numer": "75165",
+      "nazwa": "Imperial Trooper Battle Pack",
       "rok": 2017,
-      "elementy": 139,
+      "elementy": 112,
       "status": "eol"
     },
     {
-      "numer": "41596",
-      "nazwa": "Bestia",
+      "numer": "75166",
+      "nazwa": "First Order Transport Speeder Battle Pack",
       "rok": 2017,
-      "elementy": 116,
+      "elementy": 117,
       "status": "eol"
     },
     {
-      "numer": "41485",
-      "nazwa": "Finn",
+      "numer": "75167",
+      "nazwa": "Bounty Hunter Speeder Bike Battle Pack",
       "rok": 2017,
-      "elementy": 91,
+      "elementy": 125,
       "status": "eol"
     },
     {
-      "numer": "41486",
-      "nazwa": "Kapitan Phasma",
+      "numer": "75168",
+      "nazwa": "Yoda's Jedi Starfighter",
       "rok": 2017,
-      "elementy": 127,
+      "elementy": 262,
       "status": "eol"
     },
     {
-      "numer": "41487",
-      "nazwa": "Lloyd",
+      "numer": "75169",
+      "nazwa": "Duel on Naboo",
       "rok": 2017,
-      "elementy": 102,
+      "elementy": 208,
       "status": "eol"
     },
     {
-      "numer": "41488",
-      "nazwa": "Mistrz Wu",
+      "numer": "75170",
+      "nazwa": "The Phantom",
       "rok": 2017,
-      "elementy": 89,
+      "elementy": 269,
       "status": "eol"
     },
     {
-      "numer": "40270",
-      "nazwa": "Walentynkowa pszczółka (sezonowy)",
-      "rok": 2018,
-      "elementy": 140,
+      "numer": "75171",
+      "nazwa": "Battle on Scarif",
+      "rok": 2017,
+      "elementy": 419,
       "status": "eol"
     },
     {
-      "numer": "40271",
-      "nazwa": "Zajączek wielkanocny (sezonowy)",
-      "rok": 2018,
-      "elementy": 126,
+      "numer": "75172",
+      "nazwa": "Y-wing Starfighter",
+      "rok": 2017,
+      "elementy": 691,
       "status": "eol"
     },
     {
-      "numer": "40272",
-      "nazwa": "Wiedźma na Halloween (sezonowy)",
-      "rok": 2018,
-      "elementy": 151,
-      "status": "eol"
-    },
-    {
-      "numer": "40273",
-      "nazwa": "Indyk na Święto Dziękczynienia (sezonowy)",
-      "rok": 2018,
-      "elementy": 114,
-      "status": "eol"
-    },
-    {
-      "numer": "40274",
-      "nazwa": "Święty Mikołaj i Pani Mikołajowa (sezonowy)",
-      "rok": 2018,
-      "elementy": 341,
-      "status": "eol"
-    },
-    {
-      "numer": "41597",
-      "nazwa": "Portret z klocków (Go Brick Me)",
-      "rok": 2018,
-      "elementy": 708,
-      "status": "eol"
-    },
-    {
-      "numer": "41598",
-      "nazwa": "The Flash",
-      "rok": 2018,
-      "elementy": 122,
-      "status": "eol"
-    },
-    {
-      "numer": "41599",
-      "nazwa": "Wonder Woman",
-      "rok": 2018,
-      "elementy": 143,
-      "status": "eol"
-    },
-    {
-      "numer": "41600",
-      "nazwa": "Aquaman",
-      "rok": 2018,
-      "elementy": 135,
-      "status": "eol"
-    },
-    {
-      "numer": "41601",
-      "nazwa": "Cyborg",
-      "rok": 2018,
-      "elementy": 108,
-      "status": "eol"
-    },
-    {
-      "numer": "41602",
-      "nazwa": "Rey",
-      "rok": 2018,
-      "elementy": 119,
-      "status": "eol"
-    },
-    {
-      "numer": "41603",
-      "nazwa": "Kylo Ren",
-      "rok": 2018,
-      "elementy": 130,
-      "status": "eol"
-    },
-    {
-      "numer": "41604",
-      "nazwa": "Iron Man MK50",
-      "rok": 2018,
-      "elementy": 101,
-      "status": "eol"
-    },
-    {
-      "numer": "41605",
-      "nazwa": "Thanos",
-      "rok": 2018,
-      "elementy": 105,
-      "status": "eol"
-    },
-    {
-      "numer": "41606",
-      "nazwa": "Star-Lord",
-      "rok": 2018,
-      "elementy": 113,
-      "status": "eol"
-    },
-    {
-      "numer": "41607",
-      "nazwa": "Gamora",
-      "rok": 2018,
-      "elementy": 136,
-      "status": "eol"
-    },
-    {
-      "numer": "41608",
-      "nazwa": "Han Solo",
-      "rok": 2018,
-      "elementy": 141,
-      "status": "eol"
-    },
-    {
-      "numer": "41609",
-      "nazwa": "Chewbacca",
-      "rok": 2018,
+      "numer": "75173",
+      "nazwa": "Luke's Landspeeder",
+      "rok": 2017,
       "elementy": 149,
       "status": "eol"
     },
     {
-      "numer": "41610",
-      "nazwa": "Batman i Superman",
-      "rok": 2018,
-      "elementy": 209,
+      "numer": "75174",
+      "nazwa": "Desert Skiff Escape",
+      "rok": 2017,
+      "elementy": 277,
       "status": "eol"
     },
     {
-      "numer": "41611",
-      "nazwa": "Marty McFly i Doc Brown",
-      "rok": 2018,
-      "elementy": 240,
+      "numer": "75175",
+      "nazwa": "A-wing Starfighter",
+      "rok": 2017,
+      "elementy": 358,
       "status": "eol"
     },
     {
-      "numer": "41612",
-      "nazwa": "Steve i Creeper",
-      "rok": 2018,
-      "elementy": 160,
+      "numer": "75176",
+      "nazwa": "Resistance Transport Pod",
+      "rok": 2017,
+      "elementy": 294,
       "status": "eol"
     },
     {
-      "numer": "41613",
-      "nazwa": "Pan Iniemamocny i Mrożon",
-      "rok": 2018,
-      "elementy": 160,
+      "numer": "75177",
+      "nazwa": "First Order Heavy Scout Walker",
+      "rok": 2017,
+      "elementy": 554,
       "status": "eol"
     },
     {
-      "numer": "41614",
-      "nazwa": "Owen i Blue",
-      "rok": 2018,
-      "elementy": 234,
+      "numer": "75178",
+      "nazwa": "Jakku Quadjumper",
+      "rok": 2017,
+      "elementy": 457,
       "status": "eol"
     },
     {
-      "numer": "41615",
-      "nazwa": "Harry Potter i Hedwiga",
-      "rok": 2018,
-      "elementy": 180,
+      "numer": "75179",
+      "nazwa": "Kylo Ren's TIE Fighter",
+      "rok": 2017,
+      "elementy": 630,
       "status": "eol"
     },
     {
-      "numer": "41616",
-      "nazwa": "Hermiona Granger",
-      "rok": 2018,
-      "elementy": 127,
+      "numer": "75180",
+      "nazwa": "Rathtar Escape",
+      "rok": 2017,
+      "elementy": 836,
       "status": "eol"
     },
     {
-      "numer": "41617",
-      "nazwa": "Elsa",
-      "rok": 2018,
-      "elementy": 130,
+      "numer": "75182",
+      "nazwa": "Republic Fighter Tank",
+      "rok": 2017,
+      "elementy": 305,
       "status": "eol"
     },
     {
-      "numer": "41618",
-      "nazwa": "Anna i Olaf",
+      "numer": "75183",
+      "nazwa": "Darth Vader Transformation",
+      "rok": 2017,
+      "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "75184",
+      "nazwa": "LEGO Star Wars Advent Calendar",
+      "rok": 2017,
+      "elementy": 309,
+      "status": "eol"
+    },
+    {
+      "numer": "75185",
+      "nazwa": "Tracker I",
+      "rok": 2017,
+      "elementy": 557,
+      "status": "eol"
+    },
+    {
+      "numer": "75186",
+      "nazwa": "The Arrowhead",
+      "rok": 2017,
+      "elementy": 775,
+      "status": "eol"
+    },
+    {
+      "numer": "75187",
+      "nazwa": "BB-8",
+      "rok": 2017,
+      "elementy": 1106,
+      "status": "eol"
+    },
+    {
+      "numer": "75189",
+      "nazwa": "First Order Heavy Assault Walker",
+      "rok": 2017,
+      "elementy": 1376,
+      "status": "eol"
+    },
+    {
+      "numer": "75190",
+      "nazwa": "First Order Star Destroyer",
+      "rok": 2017,
+      "elementy": 1416,
+      "status": "eol"
+    },
+    {
+      "numer": "75191",
+      "nazwa": "Jedi Starfighter with Hyperdrive",
+      "rok": 2017,
+      "elementy": 825,
+      "status": "eol"
+    },
+    {
+      "numer": "75192",
+      "nazwa": "Sokół Millennium",
+      "rok": 2017,
+      "elementy": 7541,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75525",
+      "nazwa": "Baze Malbus",
+      "rok": 2017,
+      "elementy": 148,
+      "status": "eol"
+    },
+    {
+      "numer": "75530",
+      "nazwa": "Chewbacca",
+      "rok": 2017,
+      "elementy": 179,
+      "status": "eol"
+    },
+    {
+      "numer": "75531",
+      "nazwa": "Stormtrooper Commander",
+      "rok": 2017,
+      "elementy": 100,
+      "status": "eol"
+    },
+    {
+      "numer": "75532",
+      "nazwa": "Scout Trooper & Speeder Bike",
+      "rok": 2017,
+      "elementy": 452,
+      "status": "eol"
+    },
+    {
+      "numer": "66596",
+      "nazwa": "Super Pack 2-in-1",
       "rok": 2018,
       "elementy": 201,
       "status": "eol"
     },
     {
-      "numer": "41619",
+      "numer": "66597",
+      "nazwa": "2-in-1 Super Pack",
+      "rok": 2018,
+      "elementy": 205,
+      "status": "eol"
+    },
+    {
+      "numer": "75181",
+      "nazwa": "Y-wing Starfighter",
+      "rok": 2018,
+      "elementy": 1967,
+      "status": "eol"
+    },
+    {
+      "numer": "75188",
+      "nazwa": "Bombowiec Ruchu Oporu",
+      "rok": 2018,
+      "elementy": 780,
+      "status": "eol"
+    },
+    {
+      "numer": "75195",
+      "nazwa": "Ski Speeder kontra Maszyna krocząca Najwyższego Porządku",
+      "rok": 2018,
+      "elementy": 216,
+      "status": "eol"
+    },
+    {
+      "numer": "75196",
+      "nazwa": "A-Wing kontra TIE Silencer",
+      "rok": 2018,
+      "elementy": 188,
+      "status": "eol"
+    },
+    {
+      "numer": "75197",
+      "nazwa": "Najwyższy Porządek",
+      "rok": 2018,
+      "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "75199",
+      "nazwa": "Ścigacz bojowy generała Grievousa",
+      "rok": 2018,
+      "elementy": 157,
+      "status": "eol"
+    },
+    {
+      "numer": "75200",
+      "nazwa": "Szkolenie na wyspie Ahch-To",
+      "rok": 2018,
+      "elementy": 241,
+      "status": "eol"
+    },
+    {
+      "numer": "75201",
+      "nazwa": "AT-ST Najwyższego Porządku",
+      "rok": 2018,
+      "elementy": 370,
+      "status": "eol"
+    },
+    {
+      "numer": "75202",
+      "nazwa": "Obrona Crait",
+      "rok": 2018,
+      "elementy": 746,
+      "status": "eol"
+    },
+    {
+      "numer": "75203",
+      "nazwa": "Komora medyczna na Hoth",
+      "rok": 2018,
+      "elementy": 255,
+      "status": "eol"
+    },
+    {
+      "numer": "75204",
+      "nazwa": "Ścigacz piaskowy",
+      "rok": 2018,
+      "elementy": 278,
+      "status": "eol"
+    },
+    {
+      "numer": "75205",
+      "nazwa": "Kantyna Mos Eisley",
+      "rok": 2018,
+      "elementy": 376,
+      "status": "eol"
+    },
+    {
+      "numer": "75206",
+      "nazwa": "Jedi i żołnierze armii klonów",
+      "rok": 2018,
+      "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75208",
+      "nazwa": "Chatka Yody",
+      "rok": 2018,
+      "elementy": 229,
+      "status": "eol"
+    },
+    {
+      "numer": "75209",
+      "nazwa": "Śmigacz Hana Solo",
+      "rok": 2018,
+      "elementy": 345,
+      "status": "eol"
+    },
+    {
+      "numer": "75210",
+      "nazwa": "Śmigacz Molocha",
+      "rok": 2018,
+      "elementy": 464,
+      "status": "eol"
+    },
+    {
+      "numer": "75211",
+      "nazwa": "Imperialny myśliwiec TIE",
+      "rok": 2018,
+      "elementy": 519,
+      "status": "eol"
+    },
+    {
+      "numer": "75212",
+      "nazwa": "Sokół Millennium",
+      "rok": 2018,
+      "elementy": 1414,
+      "status": "eol"
+    },
+    {
+      "numer": "75213",
+      "nazwa": "Kalendarz adwentowy 2018",
+      "rok": 2018,
+      "elementy": 307,
+      "status": "eol"
+    },
+    {
+      "numer": "75214",
+      "nazwa": "Myśliwiec Jedi Anakina",
+      "rok": 2018,
+      "elementy": 247,
+      "status": "eol"
+    },
+    {
+      "numer": "75215",
+      "nazwa": "Skutery Jeźdźców Chmur",
+      "rok": 2018,
+      "elementy": 355,
+      "status": "eol"
+    },
+    {
+      "numer": "75216",
+      "nazwa": "Sala Tronowa Snoke'a",
+      "rok": 2018,
+      "elementy": 492,
+      "status": "eol"
+    },
+    {
+      "numer": "75217",
+      "nazwa": "Imperialny transporter Conveyex",
+      "rok": 2018,
+      "elementy": 622,
+      "status": "eol"
+    },
+    {
+      "numer": "75218",
+      "nazwa": "Myśliwiec X-Wing",
+      "rok": 2018,
+      "elementy": 731,
+      "status": "eol"
+    },
+    {
+      "numer": "75219",
+      "nazwa": "Imperialny AT-Hauler",
+      "rok": 2018,
+      "elementy": 829,
+      "status": "eol"
+    },
+    {
+      "numer": "75220",
+      "nazwa": "Piaskoczołg",
+      "rok": 2018,
+      "elementy": 1239,
+      "status": "eol"
+    },
+    {
+      "numer": "75221",
+      "nazwa": "Pojazd desantowy Imperium",
+      "rok": 2018,
+      "elementy": 636,
+      "status": "eol"
+    },
+    {
+      "numer": "75222",
+      "nazwa": "Zdrada w Mieście w Chmurach",
+      "rok": 2018,
+      "elementy": 2812,
+      "status": "eol"
+    },
+    {
+      "numer": "75230",
+      "nazwa": "Porg",
+      "rok": 2018,
+      "elementy": 811,
+      "status": "eol"
+    },
+    {
+      "numer": "75512",
+      "nazwa": "Millennium Falcon Cockpit",
+      "rok": 2018,
+      "elementy": 203,
+      "status": "eol"
+    },
+    {
+      "numer": "75533",
+      "nazwa": "Boba Fett",
+      "rok": 2018,
+      "elementy": 144,
+      "status": "eol"
+    },
+    {
+      "numer": "75534",
       "nazwa": "Darth Vader",
+      "rok": 2018,
+      "elementy": 168,
+      "status": "eol"
+    },
+    {
+      "numer": "75535",
+      "nazwa": "Han Solo",
+      "rok": 2018,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
+      "numer": "75536",
+      "nazwa": "Szturmowiec — strzelec",
+      "rok": 2018,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
+      "numer": "75537",
+      "nazwa": "Darth Maul",
       "rok": 2018,
       "elementy": 104,
       "status": "eol"
     },
     {
-      "numer": "41620",
-      "nazwa": "Szturmowiec",
-      "rok": 2018,
-      "elementy": 124,
+      "numer": "40333",
+      "nazwa": "Mikromodel Bitwa o Hoth",
+      "rok": 2019,
+      "elementy": 195,
       "status": "eol"
     },
     {
-      "numer": "41621",
-      "nazwa": "Ron Weasley i Albus Dumbledore",
-      "rok": 2018,
-      "elementy": 245,
+      "numer": "40362",
+      "nazwa": "Mikromodel Bitwa o Endor",
+      "rok": 2019,
+      "elementy": 197,
       "status": "eol"
     },
     {
-      "numer": "41622",
-      "nazwa": "Peter Venkman i Slimer",
-      "rok": 2018,
-      "elementy": 228,
-      "status": "eol"
-    },
-    {
-      "numer": "41623",
-      "nazwa": "Arielka i Urszula",
-      "rok": 2018,
-      "elementy": 361,
-      "status": "eol"
-    },
-    {
-      "numer": "41624",
-      "nazwa": "Myszka Miki",
-      "rok": 2018,
+      "numer": "75225",
+      "nazwa": "Elitarni gwardziści Pretorianie",
+      "rok": 2019,
       "elementy": 109,
       "status": "eol"
     },
     {
-      "numer": "41625",
-      "nazwa": "Myszka Minnie",
-      "rok": 2018,
-      "elementy": 129,
-      "status": "eol"
-    },
-    {
-      "numer": "41626",
-      "nazwa": "Groot i Rocket",
-      "rok": 2018,
-      "elementy": 189,
-      "status": "eol"
-    },
-    {
-      "numer": "41627",
-      "nazwa": "Luke Skywalker i Yoda",
-      "rok": 2018,
-      "elementy": 215,
-      "status": "eol"
-    },
-    {
-      "numer": "41628",
-      "nazwa": "Księżniczka Leia Organa",
-      "rok": 2018,
-      "elementy": 124,
-      "status": "eol"
-    },
-    {
-      "numer": "41629",
-      "nazwa": "Boba Fett",
-      "rok": 2018,
-      "elementy": 161,
-      "status": "eol"
-    },
-    {
-      "numer": "41630",
-      "nazwa": "Jack Skellington i Sally",
-      "rok": 2018,
-      "elementy": 193,
-      "status": "eol"
-    },
-    {
-      "numer": "41631",
-      "nazwa": "Newt Scamander i Gellert Grindelwald",
-      "rok": 2018,
-      "elementy": 247,
-      "status": "eol"
-    },
-    {
-      "numer": "41632",
-      "nazwa": "Homer Simpson i Klaun Krusty",
-      "rok": 2018,
-      "elementy": 215,
-      "status": "eol"
-    },
-    {
-      "numer": "40348",
-      "nazwa": "Klaun z urodzinowego przyjęcia (sezonowy)",
+      "numer": "75226",
+      "nazwa": "Oddział Inferno",
       "rok": 2019,
-      "elementy": 150,
+      "elementy": 118,
       "status": "eol"
     },
     {
-      "numer": "40349",
-      "nazwa": "Walentynkowy szczeniaczek (sezonowy)",
+      "numer": "75227",
+      "nazwa": "Popiersie Dartha Vadera",
       "rok": 2019,
-      "elementy": 147,
+      "elementy": 327,
       "status": "eol"
     },
     {
-      "numer": "40350",
-      "nazwa": "Wielkanocny kurczak (sezonowy)",
-      "rok": 2019,
-      "elementy": 82,
-      "status": "eol"
-    },
-    {
-      "numer": "40351",
-      "nazwa": "Duch na Halloween (sezonowy)",
-      "rok": 2019,
-      "elementy": 136,
-      "status": "eol"
-    },
-    {
-      "numer": "40352",
-      "nazwa": "Strach na Święto Dziękczynienia (sezonowy)",
+      "numer": "75228",
+      "nazwa": "Kapsuła ratunkowa kontra Dewback",
       "rok": 2019,
       "elementy": 177,
       "status": "eol"
     },
     {
-      "numer": "40353",
-      "nazwa": "Renifer, elf i elfka (sezonowy)",
+      "numer": "75229",
+      "nazwa": "Ucieczka z Gwiazdy Śmierci",
       "rok": 2019,
-      "elementy": 281,
+      "elementy": 329,
       "status": "eol"
     },
     {
-      "numer": "40354",
-      "nazwa": "Chłopak tańczący taniec smoka (sezonowy)",
+      "numer": "75233",
+      "nazwa": "Okręt bojowy droidów",
       "rok": 2019,
-      "elementy": 170,
+      "elementy": 389,
       "status": "eol"
     },
     {
-      "numer": "40367",
-      "nazwa": "Statua Wolności",
+      "numer": "75234",
+      "nazwa": "Maszyna krocząca AT-AP",
       "rok": 2019,
-      "elementy": 153,
+      "elementy": 689,
       "status": "eol"
     },
     {
-      "numer": "41634",
-      "nazwa": "Emmet",
+      "numer": "75235",
+      "nazwa": "Atak myśliwcem X-Wing",
       "rok": 2019,
-      "elementy": 113,
+      "elementy": 132,
       "status": "eol"
     },
     {
-      "numer": "41635",
-      "nazwa": "Żyleta",
+      "numer": "75236",
+      "nazwa": "Pojedynek w bazie Starkiller",
       "rok": 2019,
-      "elementy": 134,
+      "elementy": 191,
       "status": "eol"
     },
     {
-      "numer": "41636",
-      "nazwa": "Benek",
+      "numer": "75238",
+      "nazwa": "Bitwa na Endorze",
       "rok": 2019,
-      "elementy": 103,
+      "elementy": 193,
       "status": "eol"
     },
     {
-      "numer": "41637",
-      "nazwa": "Słodka Zadyma",
+      "numer": "75239",
+      "nazwa": "Atak na generator na Hoth",
       "rok": 2019,
-      "elementy": 137,
+      "elementy": 235,
       "status": "eol"
     },
     {
-      "numer": "40377",
-      "nazwa": "Kaczor Donald",
+      "numer": "75240",
+      "nazwa": "Myśliwiec TIE Majora Vonrega",
+      "rok": 2019,
+      "elementy": 496,
+      "status": "eol"
+    },
+    {
+      "numer": "75241",
+      "nazwa": "Obrona Bazy Echo",
+      "rok": 2019,
+      "elementy": 504,
+      "status": "eol"
+    },
+    {
+      "numer": "75242",
+      "nazwa": "TIE Interceptor Czarny As",
+      "rok": 2019,
+      "elementy": 396,
+      "status": "eol"
+    },
+    {
+      "numer": "75243",
+      "nazwa": "Slave I — edycja rocznicowa",
+      "rok": 2019,
+      "elementy": 1007,
+      "status": "eol"
+    },
+    {
+      "numer": "75244",
+      "nazwa": "Tantive IV",
+      "rok": 2019,
+      "elementy": 1768,
+      "status": "eol"
+    },
+    {
+      "numer": "75245",
+      "nazwa": "Kalendarz adwentowy",
+      "rok": 2019,
+      "elementy": 280,
+      "status": "eol"
+    },
+    {
+      "numer": "75246",
+      "nazwa": "Działo na Gwieździe Śmierci",
+      "rok": 2019,
+      "elementy": 159,
+      "status": "eol"
+    },
+    {
+      "numer": "75248",
+      "nazwa": "Myśliwiec A-Wing Ruchu Oporu",
+      "rok": 2019,
+      "elementy": 269,
+      "status": "eol"
+    },
+    {
+      "numer": "75249",
+      "nazwa": "Myśliwiec Y-Wing Ruchu Oporu",
+      "rok": 2019,
+      "elementy": 578,
+      "status": "eol"
+    },
+    {
+      "numer": "75250",
+      "nazwa": "Pościg na śmigaczach w Pasaanie",
+      "rok": 2019,
+      "elementy": 373,
+      "status": "eol"
+    },
+    {
+      "numer": "75251",
+      "nazwa": "Zamek Dartha Vadera",
+      "rok": 2019,
+      "elementy": 1060,
+      "status": "eol"
+    },
+    {
+      "numer": "75252",
+      "nazwa": "Gwiezdny Niszczyciel Imperium",
+      "rok": 2019,
+      "elementy": 4784,
+      "status": "eol"
+    },
+    {
+      "numer": "75253",
+      "nazwa": "Dowódca droidów",
+      "rok": 2019,
+      "elementy": 1177,
+      "status": "eol"
+    },
+    {
+      "numer": "75254",
+      "nazwa": "Szturmowa maszyna krocząca AT-ST",
+      "rok": 2019,
+      "elementy": 540,
+      "status": "eol"
+    },
+    {
+      "numer": "75255",
+      "nazwa": "Yoda",
+      "rok": 2019,
+      "elementy": 1771,
+      "status": "eol"
+    },
+    {
+      "numer": "75256",
+      "nazwa": "Wahadłowiec Kylo Rena",
+      "rok": 2019,
+      "elementy": 1005,
+      "status": "eol"
+    },
+    {
+      "numer": "75257",
+      "nazwa": "Sokół Millennium",
+      "rok": 2019,
+      "elementy": 1351,
+      "status": "eol"
+    },
+    {
+      "numer": "75258",
+      "nazwa": "Ścigacz Anakina — edycja rocznicowa",
+      "rok": 2019,
+      "elementy": 279,
+      "status": "eol"
+    },
+    {
+      "numer": "75259",
+      "nazwa": "Śmigacz śnieżny — edycja rocznicowa",
+      "rok": 2019,
+      "elementy": 309,
+      "status": "eol"
+    },
+    {
+      "numer": "75261",
+      "nazwa": "Maszyna krocząca klonów — edycja rocznicowa",
+      "rok": 2019,
+      "elementy": 250,
+      "status": "eol"
+    },
+    {
+      "numer": "75262",
+      "nazwa": "Statek desantowy Imperium — edycja rocznicowa",
+      "rok": 2019,
+      "elementy": 125,
+      "status": "eol"
+    },
+    {
+      "numer": "77901",
+      "nazwa": "Sith Trooper Bust",
+      "rok": 2019,
+      "elementy": 484,
+      "status": "eol"
+    },
+    {
+      "numer": "4002019",
+      "nazwa": "Christmas X-wing",
+      "rok": 2019,
+      "elementy": 1038,
+      "status": "eol"
+    },
+    {
+      "numer": "40407",
+      "nazwa": "Bitwa o Gwiazdę Śmierci II",
       "rok": 2020,
-      "elementy": 90,
+      "elementy": 235,
       "status": "eol"
     },
     {
-      "numer": "40378",
-      "nazwa": "Goofy i Pluto",
+      "numer": "75265",
+      "nazwa": "T-16 Skyhopper kontra mikromyśliwce Bantha",
       "rok": 2020,
-      "elementy": 214,
+      "elementy": 198,
       "status": "eol"
     },
     {
-      "numer": "40379",
-      "nazwa": "Miś Walentynkowy (sezonowy)",
+      "numer": "75266",
+      "nazwa": "Zestaw bitewny żołnierzy Sithów",
       "rok": 2020,
-      "elementy": 150,
+      "elementy": 105,
       "status": "eol"
     },
     {
-      "numer": "40380",
-      "nazwa": "Wielkanocna owieczka (sezonowy)",
+      "numer": "75267",
+      "nazwa": "Zestaw bojowy Mandalorianina",
       "rok": 2020,
-      "elementy": 192,
+      "elementy": 102,
       "status": "eol"
     },
     {
-      "numer": "40381",
-      "nazwa": "Monkey King",
+      "numer": "75269",
+      "nazwa": "Pojedynek na planecie Mustafar",
       "rok": 2020,
-      "elementy": 175,
+      "elementy": 208,
       "status": "eol"
     },
     {
-      "numer": "40383",
-      "nazwa": "Panna Młoda",
+      "numer": "75270",
+      "nazwa": "Chatka Obi-Wana",
       "rok": 2020,
-      "elementy": 306,
+      "elementy": 200,
       "status": "eol"
     },
     {
-      "numer": "40384",
-      "nazwa": "Pan Młody",
+      "numer": "75271",
+      "nazwa": "Śmigacz Luke'a Skywalkera",
       "rok": 2020,
-      "elementy": 255,
+      "elementy": 236,
       "status": "eol"
     },
     {
-      "numer": "40422",
-      "nazwa": "Frankenstein",
+      "numer": "75272",
+      "nazwa": "Myśliwiec TIE Sithów",
       "rok": 2020,
-      "elementy": 108,
+      "elementy": 470,
       "status": "eol"
     },
     {
-      "numer": "40425",
-      "nazwa": "Dziadek do orzechów (sezonowy)",
+      "numer": "75273",
+      "nazwa": "Myśliwiec X-Wing Poe Damerona",
       "rok": 2020,
-      "elementy": 180,
+      "elementy": 761,
       "status": "eol"
     },
     {
-      "numer": "40436",
-      "nazwa": "Japoński kot szczęścia (sezonowy)",
+      "numer": "75274",
+      "nazwa": "Hełm pilota myśliwca TIE",
       "rok": 2020,
-      "elementy": 134,
+      "elementy": 724,
       "status": "eol"
     },
     {
-      "numer": "75317",
-      "nazwa": "Mandalorianin i Dziecko",
+      "numer": "75275",
+      "nazwa": "Myśliwiec A-wing",
+      "rok": 2020,
+      "elementy": 1673,
+      "status": "eol"
+    },
+    {
+      "numer": "75276",
+      "nazwa": "Hełm szturmowca",
+      "rok": 2020,
+      "elementy": 647,
+      "status": "eol"
+    },
+    {
+      "numer": "75277",
+      "nazwa": "Hełm Boby Fetta",
+      "rok": 2020,
+      "elementy": 625,
+      "status": "eol"
+    },
+    {
+      "numer": "75278",
+      "nazwa": "D-O",
+      "rok": 2020,
+      "elementy": 519,
+      "status": "eol"
+    },
+    {
+      "numer": "75279",
+      "nazwa": "Kalendarz Adwentowy",
+      "rok": 2020,
+      "elementy": 311,
+      "status": "eol"
+    },
+    {
+      "numer": "75280",
+      "nazwa": "Żołnierze-klony z 501. legionu",
+      "rok": 2020,
+      "elementy": 285,
+      "status": "eol"
+    },
+    {
+      "numer": "75281",
+      "nazwa": "Jedi Interceptor Anakina",
+      "rok": 2020,
+      "elementy": 248,
+      "status": "eol"
+    },
+    {
+      "numer": "75283",
+      "nazwa": "Czołg opancerzony AAT",
+      "rok": 2020,
+      "elementy": 286,
+      "status": "eol"
+    },
+    {
+      "numer": "75284",
+      "nazwa": "Statek transportowy Rycerzy Ren",
+      "rok": 2020,
+      "elementy": 595,
+      "status": "eol"
+    },
+    {
+      "numer": "75286",
+      "nazwa": "Gwiezdny myśliwiec generała Grievousa",
+      "rok": 2020,
+      "elementy": 487,
+      "status": "eol"
+    },
+    {
+      "numer": "75288",
+      "nazwa": "AT-AT",
+      "rok": 2020,
+      "elementy": 1267,
+      "status": "eol"
+    },
+    {
+      "numer": "75290",
+      "nazwa": "Kantyna Mos Eisley",
+      "rok": 2020,
+      "elementy": 3187,
+      "status": "eol"
+    },
+    {
+      "numer": "75291",
+      "nazwa": "Gwiazda Śmierci — ostateczny pojedynek",
+      "rok": 2020,
+      "elementy": 775,
+      "status": "eol"
+    },
+    {
+      "numer": "75292",
+      "nazwa": "Transportowiec łowcy nagród z serialu Mandalorian — Brzeszczot",
+      "rok": 2020,
+      "elementy": 1023,
+      "status": "eol"
+    },
+    {
+      "numer": "75293",
+      "nazwa": "Pojazd transportowy I-TS Ruchu Oporu",
+      "rok": 2020,
+      "elementy": 932,
+      "status": "eol"
+    },
+    {
+      "numer": "75294",
+      "nazwa": "Pojedynek nad Bespinem",
       "rok": 2020,
       "elementy": 295,
       "status": "eol"
     },
     {
-      "numer": "40420",
-      "nazwa": "Gru, Stuart i Otto",
+      "numer": "75318",
+      "nazwa": "Dziecko",
+      "rok": 2020,
+      "elementy": 1073,
+      "status": "eol"
+    },
+    {
+      "numer": "77904",
+      "nazwa": "Nebulon-B Frigate",
+      "rok": 2020,
+      "elementy": 459,
+      "status": "eol"
+    },
+    {
+      "numer": "5006290",
+      "nazwa": "Yoda's Lightsaber",
+      "rok": 2020,
+      "elementy": 140,
+      "status": "eol"
+    },
+    {
+      "numer": "40451",
+      "nazwa": "Gospodarstwo na Tatooine",
       "rok": 2021,
-      "elementy": 244,
+      "elementy": 217,
       "status": "eol"
     },
     {
-      "numer": "40421",
-      "nazwa": "Belle Bottom, Kevin i Bob",
+      "numer": "40483",
+      "nazwa": "Miecz świetlny Luke'a Skywalkera",
       "rok": 2021,
-      "elementy": 309,
+      "elementy": 173,
       "status": "eol"
     },
     {
-      "numer": "40440",
-      "nazwa": "Owczarek niemiecki",
+      "numer": "66674",
+      "nazwa": "Skywalker Adventures Pack",
       "rok": 2021,
-      "elementy": 247,
+      "elementy": 644,
       "status": "eol"
     },
     {
-      "numer": "40441",
-      "nazwa": "Koty krótkowłose",
+      "numer": "75295",
+      "nazwa": "Mikromyśliwiec Sokół Millennium",
       "rok": 2021,
-      "elementy": 250,
+      "elementy": 101,
       "status": "eol"
     },
     {
-      "numer": "40442",
-      "nazwa": "Złota rybka",
+      "numer": "75296",
+      "nazwa": "Komnata medytacyjna Dartha Vadera",
       "rok": 2021,
-      "elementy": 186,
+      "elementy": 663,
       "status": "eol"
     },
     {
-      "numer": "40443",
-      "nazwa": "Papużka",
+      "numer": "75298",
+      "nazwa": "Mikromyśliwce: AT-AT kontra Tauntaun",
       "rok": 2021,
-      "elementy": 261,
-      "status": "eol"
-    },
-    {
-      "numer": "40466",
-      "nazwa": "Pandy na Chiński Nowy Rok (sezonowy)",
-      "rok": 2021,
-      "elementy": 249,
-      "status": "eol"
-    },
-    {
-      "numer": "40476",
-      "nazwa": "Kaczka Daisy",
-      "rok": 2021,
-      "elementy": 110,
-      "status": "eol"
-    },
-    {
-      "numer": "40477",
-      "nazwa": "Sknerus McKwacz, Hyzio, Dyzio i Zyzio",
-      "rok": 2021,
-      "elementy": 340,
-      "status": "eol"
-    },
-    {
-      "numer": "40479",
-      "nazwa": "Dalmatyńczyk",
-      "rok": 2021,
-      "elementy": 252,
-      "status": "eol"
-    },
-    {
-      "numer": "40480",
-      "nazwa": "Pręgowany rudy kot",
-      "rok": 2021,
-      "elementy": 269,
-      "status": "eol"
-    },
-    {
-      "numer": "40481",
-      "nazwa": "Kakadu",
-      "rok": 2021,
-      "elementy": 219,
-      "status": "eol"
-    },
-    {
-      "numer": "40482",
-      "nazwa": "Chomik",
-      "rok": 2021,
-      "elementy": 243,
-      "status": "eol"
-    },
-    {
-      "numer": "40492",
-      "nazwa": "Szkieletowa dama (La Catrina) (sezonowy)",
-      "rok": 2021,
-      "elementy": 141,
-      "status": "eol"
-    },
-    {
-      "numer": "40495",
-      "nazwa": "Harry, Hermiona, Ron i Hagrid",
-      "rok": 2021,
-      "elementy": 466,
-      "status": "eol"
-    },
-    {
-      "numer": "40496",
-      "nazwa": "Voldemort, Nagini i Bellatrix",
-      "rok": 2021,
-      "elementy": 344,
-      "status": "eol"
-    },
-    {
-      "numer": "40539",
-      "nazwa": "Ahsoka Tano",
-      "rok": 2022,
-      "elementy": 164,
-      "status": "eol"
-    },
-    {
-      "numer": "40540",
-      "nazwa": "Chłopak tańczący taniec lwa (sezonowy)",
-      "rok": 2022,
-      "elementy": 239,
-      "status": "eol"
-    },
-    {
-      "numer": "40541",
-      "nazwa": "Portret z klocków — Manchester United",
-      "rok": 2022,
-      "elementy": 530,
-      "status": "eol"
-    },
-    {
-      "numer": "40542",
-      "nazwa": "Portret z klocków — FC Barcelona",
-      "rok": 2022,
-      "elementy": 530,
-      "status": "eol"
-    },
-    {
-      "numer": "40543",
-      "nazwa": "Bernardyn",
-      "rok": 2022,
-      "elementy": 236,
-      "status": "eol"
-    },
-    {
-      "numer": "40544",
-      "nazwa": "Buldog francuski",
-      "rok": 2022,
-      "elementy": 237,
-      "status": "eol"
-    },
-    {
-      "numer": "40545",
-      "nazwa": "Karp koi",
-      "rok": 2022,
-      "elementy": 203,
-      "status": "eol"
-    },
-    {
-      "numer": "40546",
-      "nazwa": "Pudel",
-      "rok": 2022,
-      "elementy": 304,
-      "status": "eol"
-    },
-    {
-      "numer": "40547",
-      "nazwa": "Obi-Wan Kenobi i Darth Vader",
-      "rok": 2022,
-      "elementy": 260,
-      "status": "eol"
-    },
-    {
-      "numer": "40548",
-      "nazwa": "Hołd dla Spice Girls",
-      "rok": 2022,
-      "elementy": 578,
-      "status": "eol"
-    },
-    {
-      "numer": "40549",
-      "nazwa": "Demogorgon i Jedenastka",
-      "rok": 2022,
-      "elementy": 192,
-      "status": "eol"
-    },
-    {
-      "numer": "40550",
-      "nazwa": "Chip i Dale",
-      "rok": 2022,
-      "elementy": 226,
-      "status": "eol"
-    },
-    {
-      "numer": "40552",
-      "nazwa": "Buzz Astral",
-      "rok": 2022,
-      "elementy": 114,
-      "status": "eol"
-    },
-    {
-      "numer": "40553",
-      "nazwa": "Chudy i Bou",
-      "rok": 2022,
-      "elementy": 296,
-      "status": "eol"
-    },
-    {
-      "numer": "40554",
-      "nazwa": "Jake Sully i jego awatar",
-      "rok": 2022,
-      "elementy": 246,
-      "status": "eol"
-    },
-    {
-      "numer": "40559",
-      "nazwa": "Struś Pędziwiatr i Wiluś E. Kojot",
-      "rok": 2022,
       "elementy": 205,
       "status": "eol"
     },
     {
-      "numer": "40560",
-      "nazwa": "Profesorowie Hogwartu",
+      "numer": "75299",
+      "nazwa": "Kłopoty na Tatooine",
+      "rok": 2021,
+      "elementy": 276,
+      "status": "eol"
+    },
+    {
+      "numer": "75300",
+      "nazwa": "Imperialny myśliwiec TIE",
+      "rok": 2021,
+      "elementy": 432,
+      "status": "eol"
+    },
+    {
+      "numer": "75301",
+      "nazwa": "Myśliwiec X-Wing Luke'a Skywalkera",
+      "rok": 2021,
+      "elementy": 474,
+      "status": "eol"
+    },
+    {
+      "numer": "75302",
+      "nazwa": "Imperialny wahadłowiec",
+      "rok": 2021,
+      "elementy": 660,
+      "status": "eol"
+    },
+    {
+      "numer": "75304",
+      "nazwa": "Hełm Dartha Vadera",
+      "rok": 2021,
+      "elementy": 834,
+      "status": "eol"
+    },
+    {
+      "numer": "75305",
+      "nazwa": "Hełm zwiadowcy szturmowców",
+      "rok": 2021,
+      "elementy": 471,
+      "status": "eol"
+    },
+    {
+      "numer": "75306",
+      "nazwa": "Imperialny droid zwiadowczy",
+      "rok": 2021,
+      "elementy": 683,
+      "status": "eol"
+    },
+    {
+      "numer": "75307",
+      "nazwa": "Kalendarz adwentowy",
+      "rok": 2021,
+      "elementy": 335,
+      "status": "eol"
+    },
+    {
+      "numer": "75308",
+      "nazwa": "R2-D2",
+      "rok": 2021,
+      "elementy": 2314,
+      "status": "eol"
+    },
+    {
+      "numer": "75309",
+      "nazwa": "Kanonierka Republiki",
+      "rok": 2021,
+      "elementy": 3292,
+      "status": "eol"
+    },
+    {
+      "numer": "75310",
+      "nazwa": "Starcie na Mandalore",
+      "rok": 2021,
+      "elementy": 147,
+      "status": "eol"
+    },
+    {
+      "numer": "75311",
+      "nazwa": "Opancerzony maruder Imperium",
+      "rok": 2021,
+      "elementy": 478,
+      "status": "eol"
+    },
+    {
+      "numer": "75312",
+      "nazwa": "Statek kosmiczny Boby Fetta",
+      "rok": 2021,
+      "elementy": 593,
+      "status": "eol"
+    },
+    {
+      "numer": "75313",
+      "nazwa": "AT-AT",
+      "rok": 2021,
+      "elementy": 6785,
+      "status": "eol"
+    },
+    {
+      "numer": "75314",
+      "nazwa": "Prom szturmowy Parszywej Zgrai",
+      "rok": 2021,
+      "elementy": 969,
+      "status": "eol"
+    },
+    {
+      "numer": "75315",
+      "nazwa": "Imperialny lekki krążownik",
+      "rok": 2021,
+      "elementy": 1336,
+      "status": "eol"
+    },
+    {
+      "numer": "75316",
+      "nazwa": "Mandaloriański myśliwiec",
+      "rok": 2021,
+      "elementy": 544,
+      "status": "eol"
+    },
+    {
+      "numer": "75319",
+      "nazwa": "Kuźnia Zbrojmistrzyni Mandalorian",
+      "rok": 2021,
+      "elementy": 258,
+      "status": "eol"
+    },
+    {
+      "numer": "40531",
+      "nazwa": "Kuchnia rodziny Larsów",
       "rok": 2022,
-      "elementy": 601,
+      "elementy": 195,
       "status": "eol"
     },
     {
-      "numer": "40615",
-      "nazwa": "Tuskeński rabuś",
-      "rok": 2023,
-      "elementy": 152,
+      "numer": "66708",
+      "nazwa": "Galactic Adventures Pack",
+      "rok": 2022,
+      "elementy": 901,
       "status": "eol"
     },
     {
-      "numer": "40616",
-      "nazwa": "Harry Potter i Cho Chang",
-      "rok": 2023,
-      "elementy": 267,
+      "numer": "75320",
+      "nazwa": "Zestaw bitewny ze szturmowcem śnieżnym",
+      "rok": 2022,
+      "elementy": 105,
       "status": "eol"
     },
     {
-      "numer": "40617",
-      "nazwa": "Draco Malfoy i Cedric Diggory",
-      "rok": 2023,
+      "numer": "75322",
+      "nazwa": "Star Wars AT-ST z Hoth",
+      "rok": 2022,
+      "elementy": 586,
+      "status": "eol"
+    },
+    {
+      "numer": "75323",
+      "nazwa": "Justifier",
+      "rok": 2022,
+      "elementy": 1022,
+      "status": "eol"
+    },
+    {
+      "numer": "75324",
+      "nazwa": "Atak mrocznych szturmowców",
+      "rok": 2022,
+      "elementy": 166,
+      "status": "eol"
+    },
+    {
+      "numer": "75325",
+      "nazwa": "Myśliwiec N-1 Mandalorianina",
+      "rok": 2022,
+      "elementy": 412,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75326",
+      "nazwa": "Sala tronowa Boby Fetta",
+      "rok": 2022,
+      "elementy": 732,
+      "status": "eol"
+    },
+    {
+      "numer": "75327",
+      "nazwa": "Hełm Luke'a Skywalkera — Czerwony Pięć",
+      "rok": 2022,
+      "elementy": 675,
+      "status": "eol"
+    },
+    {
+      "numer": "75328",
+      "nazwa": "Hełm Mandalorianina",
+      "rok": 2022,
+      "elementy": 584,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75329",
+      "nazwa": "Diorama: Szturm na Gwiazdę Śmierci",
+      "rok": 2022,
+      "elementy": 665,
+      "status": "eol"
+    },
+    {
+      "numer": "75330",
+      "nazwa": "Diorama: Szkolenie Jedi na Dagobah",
+      "rok": 2022,
+      "elementy": 1000,
+      "status": "eol"
+    },
+    {
+      "numer": "75331",
+      "nazwa": "Brzeszczot",
+      "rok": 2022,
+      "elementy": 6187,
+      "status": "eol"
+    },
+    {
+      "numer": "75333",
+      "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
+      "rok": 2022,
+      "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "75334",
+      "nazwa": "Obi-Wan Kenobi kontra Darth Vader",
+      "rok": 2022,
+      "elementy": 408,
+      "status": "eol"
+    },
+    {
+      "numer": "75335",
+      "nazwa": "BD-1",
+      "rok": 2022,
+      "elementy": 1062,
+      "status": "eol"
+    },
+    {
+      "numer": "75336",
+      "nazwa": "Transporter Inkwizytorów Scythe",
+      "rok": 2022,
+      "elementy": 924,
+      "status": "eol"
+    },
+    {
+      "numer": "75337",
+      "nazwa": "Maszyna krocząca AT-TE",
+      "rok": 2022,
+      "elementy": 1082,
+      "status": "eol"
+    },
+    {
+      "numer": "75338",
+      "nazwa": "Zasadzka na Ferrix",
+      "rok": 2022,
+      "elementy": 679,
+      "status": "eol"
+    },
+    {
+      "numer": "75339",
+      "nazwa": "Diorama: Zgniatarka odpadów na Gwieździe Śmierci",
+      "rok": 2022,
+      "elementy": 802,
+      "status": "eol"
+    },
+    {
+      "numer": "75340",
+      "nazwa": "Kalendarz adwentowy",
+      "rok": 2022,
+      "elementy": 329,
+      "status": "eol"
+    },
+    {
+      "numer": "75341",
+      "nazwa": "Śmigacz Luke'a Skywalkera",
+      "rok": 2022,
+      "elementy": 1890,
+      "status": "eol"
+    },
+    {
+      "numer": "75342",
+      "nazwa": "Czołg bojowy Republiki",
+      "rok": 2022,
       "elementy": 262,
       "status": "eol"
     },
     {
-      "numer": "40618",
-      "nazwa": "Kingsley Shacklebolt i Nimfadora Tonks",
-      "rok": 2023,
-      "elementy": 250,
+      "numer": "75343",
+      "nazwa": "Hełm mrocznego szturmowca",
+      "rok": 2022,
+      "elementy": 693,
       "status": "eol"
     },
     {
-      "numer": "40619",
-      "nazwa": "EWA i WALL-E",
+      "numer": "40591",
+      "nazwa": "Gwiazda Śmierci II",
       "rok": 2023,
-      "elementy": 155,
+      "elementy": 289,
+      "status": "eol"
+    },
+    {
+      "numer": "40658",
+      "nazwa": "Świąteczna diorama z Sokołem Millennium",
+      "rok": 2023,
+      "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "66775",
+      "nazwa": "Hoth Combo Pack",
+      "rok": 2023,
+      "elementy": 691,
+      "status": "eol"
+    },
+    {
+      "numer": "66778",
+      "nazwa": "Star Wars Mech 3-Pack",
+      "rok": 2023,
+      "elementy": 432,
+      "status": "eol"
+    },
+    {
+      "numer": "75345",
+      "nazwa": "Zestaw bitewny — żołnierze-klony z 501. legionu",
+      "rok": 2023,
+      "elementy": 119,
+      "status": "eol"
+    },
+    {
+      "numer": "75346",
+      "nazwa": "Piracki myśliwiec",
+      "rok": 2023,
+      "elementy": 285,
+      "status": "eol"
+    },
+    {
+      "numer": "75347",
+      "nazwa": "Bombowiec TIE",
+      "rok": 2023,
+      "elementy": 625,
       "status": "dostepny"
     },
     {
-      "numer": "40620",
-      "nazwa": "Cruella i Diabolina",
+      "numer": "75348",
+      "nazwa": "Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor",
+      "rok": 2023,
+      "elementy": 957,
+      "status": "eol"
+    },
+    {
+      "numer": "75349",
+      "nazwa": "Hełm kapitana Rexa",
+      "rok": 2023,
+      "elementy": 854,
+      "status": "eol"
+    },
+    {
+      "numer": "75350",
+      "nazwa": "Hełm dowódcy klonów Cody'ego",
+      "rok": 2023,
+      "elementy": 766,
+      "status": "eol"
+    },
+    {
+      "numer": "75351",
+      "nazwa": "Hełm księżniczki Lei",
+      "rok": 2023,
+      "elementy": 670,
+      "status": "eol"
+    },
+    {
+      "numer": "75352",
+      "nazwa": "Diorama: Sala tronowa Imperatora",
+      "rok": 2023,
+      "elementy": 807,
+      "status": "eol"
+    },
+    {
+      "numer": "75353",
+      "nazwa": "Diorama: Pościg na ścigaczu przez Endor",
+      "rok": 2023,
+      "elementy": 608,
+      "status": "eol"
+    },
+    {
+      "numer": "75354",
+      "nazwa": "Kanonierka Gwardii Coruscańskiej",
+      "rok": 2023,
+      "elementy": 1083,
+      "status": "eol"
+    },
+    {
+      "numer": "75355",
+      "nazwa": "Myśliwiec X-Wing",
+      "rok": 2023,
+      "elementy": 1949,
+      "status": "eol"
+    },
+    {
+      "numer": "75356",
+      "nazwa": "Gwiezdny superniszczyciel typu Executor",
+      "rok": 2023,
+      "elementy": 630,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75357",
+      "nazwa": "Duch i Upiór II",
+      "rok": 2023,
+      "elementy": 1394,
+      "status": "eol"
+    },
+    {
+      "numer": "75358",
+      "nazwa": "Świątynia Jedi na Tenoo",
+      "rok": 2023,
+      "elementy": 124,
+      "status": "eol"
+    },
+    {
+      "numer": "75359",
+      "nazwa": "Zestaw bitewny z 332. oddziałem klonów Ahsoki",
+      "rok": 2023,
+      "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "75360",
+      "nazwa": "Jedi Starfighter Yody",
+      "rok": 2023,
+      "elementy": 253,
+      "status": "eol"
+    },
+    {
+      "numer": "75361",
+      "nazwa": "Pajęczy czołg",
+      "rok": 2023,
+      "elementy": 526,
+      "status": "eol"
+    },
+    {
+      "numer": "75362",
+      "nazwa": "Prom kosmiczny Jedi T-6 Ahsoki Tano",
+      "rok": 2023,
+      "elementy": 601,
+      "status": "eol"
+    },
+    {
+      "numer": "75364",
+      "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
+      "rok": 2023,
+      "elementy": 1056,
+      "status": "eol"
+    },
+    {
+      "numer": "75365",
+      "nazwa": "Baza Rebeliantów na Yavin 4",
+      "rok": 2023,
+      "elementy": 1066,
+      "status": "eol"
+    },
+    {
+      "numer": "75366",
+      "nazwa": "Kalendarz adwentowy",
       "rok": 2023,
       "elementy": 320,
       "status": "eol"
     },
     {
-      "numer": "40621",
-      "nazwa": "Vaiana i Merida",
+      "numer": "75367",
+      "nazwa": "Gwiezdny Niszczyciel typu Venator",
       "rok": 2023,
-      "elementy": 410,
-      "status": "eol"
+      "elementy": 5374,
+      "status": "dostepny"
     },
     {
-      "numer": "40622",
-      "nazwa": "Disney — 100. urodziny",
-      "rok": 2023,
-      "elementy": 501,
-      "status": "eol"
-    },
-    {
-      "numer": "40623",
-      "nazwa": "Bohaterowie bitwy o Endor",
-      "rok": 2023,
-      "elementy": 549,
-      "status": "eol"
-    },
-    {
-      "numer": "40624",
-      "nazwa": "Alex",
-      "rok": 2023,
-      "elementy": 86,
-      "status": "eol"
-    },
-    {
-      "numer": "40625",
-      "nazwa": "Llama",
-      "rok": 2023,
-      "elementy": 100,
-      "status": "eol"
-    },
-    {
-      "numer": "40626",
-      "nazwa": "Zombie",
-      "rok": 2023,
-      "elementy": 81,
-      "status": "eol"
-    },
-    {
-      "numer": "40627",
-      "nazwa": "Sonic the Hedgehog",
+      "numer": "75368",
+      "nazwa": "Mech Dartha Vadera",
       "rok": 2023,
       "elementy": 139,
       "status": "eol"
     },
     {
-      "numer": "40628",
-      "nazwa": "Miles „Tails” Prower",
+      "numer": "75369",
+      "nazwa": "Mech Boby Fetta",
       "rok": 2023,
-      "elementy": 131,
+      "elementy": 155,
       "status": "eol"
     },
     {
-      "numer": "40630",
-      "nazwa": "Frodo i Gollum",
+      "numer": "75370",
+      "nazwa": "Mech Szturmowca",
       "rok": 2023,
-      "elementy": 184,
-      "status": "eol"
-    },
-    {
-      "numer": "40631",
-      "nazwa": "Gandalf Szary i Balrog",
-      "rok": 2023,
-      "elementy": 348,
-      "status": "eol"
-    },
-    {
-      "numer": "40632",
-      "nazwa": "Aragorn i Arwena",
-      "rok": 2023,
-      "elementy": 261,
-      "status": "eol"
-    },
-    {
-      "numer": "40668",
-      "nazwa": "Figurki Kapitana Ameryki i Czerwonego Hulka",
-      "rok": 2024,
-      "elementy": 202,
-      "status": "eol"
-    },
-    {
-      "numer": "40669",
-      "nazwa": "Figurka Iron Man MK5",
-      "rok": 2024,
-      "elementy": 101,
-      "status": "eol"
-    },
-    {
-      "numer": "40670",
-      "nazwa": "Iron Spider-Man",
-      "rok": 2024,
-      "elementy": 91,
-      "status": "eol"
-    },
-    {
-      "numer": "40671",
-      "nazwa": "Groot w doniczce",
-      "rok": 2024,
-      "elementy": 113,
-      "status": "eol"
-    },
-    {
-      "numer": "40672",
-      "nazwa": "Sonic the Hedgehog: Knuckles i Shadow",
-      "rok": 2024,
-      "elementy": 298,
-      "status": "eol"
-    },
-    {
-      "numer": "40673",
-      "nazwa": "Myszka Miki w stroju na wiosenny festiwal (sezonowy)",
-      "rok": 2024,
-      "elementy": 120,
-      "status": "eol"
-    },
-    {
-      "numer": "40674",
-      "nazwa": "Stitch",
-      "rok": 2024,
-      "elementy": 152,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40675",
-      "nazwa": "Dowódca klonów Cody",
-      "rok": 2024,
-      "elementy": 147,
-      "status": "eol"
-    },
-    {
-      "numer": "40676",
-      "nazwa": "Mroczne widmo",
-      "rok": 2024,
-      "elementy": 732,
-      "status": "eol"
-    },
-    {
-      "numer": "40677",
-      "nazwa": "Figurki z filmu „Więzień Azkabanu”",
-      "rok": 2024,
-      "elementy": 697,
-      "status": "eol"
-    },
-    {
-      "numer": "40728",
-      "nazwa": "Bombowe Barwy",
-      "rok": 2024,
-      "elementy": 151,
-      "status": "eol"
-    },
-    {
-      "numer": "40748",
-      "nazwa": "Batman 8w1",
-      "rok": 2024,
-      "elementy": 325,
-      "status": "eol"
-    },
-    {
-      "numer": "40749",
-      "nazwa": "Radość, Smutek i Strach",
-      "rok": 2024,
-      "elementy": 300,
-      "status": "eol"
-    },
-    {
-      "numer": "40750",
-      "nazwa": "Wednesday i Enid",
-      "rok": 2024,
-      "elementy": 239,
-      "status": "eol"
-    },
-    {
-      "numer": "40751",
-      "nazwa": "Legolas i Gimli",
-      "rok": 2024,
-      "elementy": 297,
-      "status": "eol"
-    },
-    {
-      "numer": "40752",
-      "nazwa": "Carl, Russell i Kevin",
-      "rok": 2024,
-      "elementy": 308,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40753",
-      "nazwa": "Mirabel Madrigal",
-      "rok": 2024,
-      "elementy": 179,
-      "status": "eol"
-    },
-    {
-      "numer": "40760",
-      "nazwa": "Przygodowy Skórek z Tropików i Dowódczyni Drużyny Przytulanek",
-      "rok": 2025,
-      "elementy": 258,
-      "status": "eol"
-    },
-    {
-      "numer": "40791",
-      "nazwa": "Czara Ognia — figurki",
-      "rok": 2025,
-      "elementy": 671,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40792",
-      "nazwa": "Dumbo",
-      "rok": 2025,
-      "elementy": 176,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40793",
-      "nazwa": "Figurki Toma i Jerry’ego",
-      "rok": 2025,
-      "elementy": 212,
-      "status": "eol"
-    },
-    {
-      "numer": "40794",
-      "nazwa": "Wicked: Figurki Elphaby i Glindy",
-      "rok": 2025,
-      "elementy": 325,
-      "status": "eol"
-    },
-    {
-      "numer": "40795",
-      "nazwa": "Luke Skywalker (pilot Rebelii)",
-      "rok": 2025,
       "elementy": 138,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40796",
-      "nazwa": "Zemsta Sithów — bohaterowie i złoczyńcy",
-      "rok": 2025,
-      "elementy": 656,
       "status": "eol"
     },
     {
-      "numer": "40797",
-      "nazwa": "Kłapouchy",
-      "rok": 2025,
-      "elementy": 156,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40798",
-      "nazwa": "Panda czerwona Mei",
-      "rok": 2025,
-      "elementy": 121,
+      "numer": "75371",
+      "nazwa": "Chewbacca",
+      "rok": 2023,
+      "elementy": 2319,
       "status": "eol"
     },
     {
-      "numer": "40799",
-      "nazwa": "Figurka Monkey D. Luffy’ego",
-      "rok": 2025,
+      "numer": "5007872",
+      "nazwa": "Lucas Yoda Fountain",
+      "rok": 2023,
+      "elementy": 152,
+      "status": "eol"
+    },
+    {
+      "numer": "40686",
+      "nazwa": "Transporter droidów Federacji Handlowej",
+      "rok": 2024,
+      "elementy": 262,
+      "status": "eol"
+    },
+    {
+      "numer": "40730",
+      "nazwa": "Miecz świetlny Luke'a Skywalkera",
+      "rok": 2024,
+      "elementy": 145,
+      "status": "eol"
+    },
+    {
+      "numer": "40755",
+      "nazwa": "Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii",
+      "rok": 2024,
+      "elementy": 383,
+      "status": "eol"
+    },
+    {
+      "numer": "66787",
+      "nazwa": "Jedi Masters Gift Set",
+      "rok": 2024,
+      "elementy": 654,
+      "status": "eol"
+    },
+    {
+      "numer": "75372",
+      "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",
+      "rok": 2024,
+      "elementy": 215,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75373",
+      "nazwa": "Zasadzka na Mandalorze — zestaw bitewny",
+      "rok": 2024,
+      "elementy": 109,
+      "status": "eol"
+    },
+    {
+      "numer": "75374",
+      "nazwa": "Onyx Cinder",
+      "rok": 2024,
+      "elementy": 1325,
+      "status": "eol"
+    },
+    {
+      "numer": "75375",
+      "nazwa": "Sokół Millennium",
+      "rok": 2024,
+      "elementy": 921,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75376",
+      "nazwa": "Tantive IV",
+      "rok": 2024,
+      "elementy": 654,
+      "status": "eol"
+    },
+    {
+      "numer": "75377",
+      "nazwa": "Niewidzialna ręka",
+      "rok": 2024,
+      "elementy": 557,
+      "status": "eol"
+    },
+    {
+      "numer": "75378",
+      "nazwa": "Ucieczka na śmigaczu BARC",
+      "rok": 2024,
+      "elementy": 221,
+      "status": "eol"
+    },
+    {
+      "numer": "75379",
+      "nazwa": "R2-D2",
+      "rok": 2024,
+      "elementy": 1050,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75380",
+      "nazwa": "Diorama: Wyścig ścigaczy w Mos Espa",
+      "rok": 2024,
+      "elementy": 718,
+      "status": "eol"
+    },
+    {
+      "numer": "75381",
+      "nazwa": "Droideka",
+      "rok": 2024,
+      "elementy": 583,
+      "status": "eol"
+    },
+    {
+      "numer": "75382",
+      "nazwa": "TIE Interceptor",
+      "rok": 2024,
+      "elementy": 1931,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75383",
+      "nazwa": "Infiltrator Sithów Dartha Maula",
+      "rok": 2024,
+      "elementy": 640,
+      "status": "eol"
+    },
+    {
+      "numer": "75384",
+      "nazwa": "Karmazynowy Jastrząb",
+      "rok": 2024,
       "elementy": 136,
       "status": "eol"
     },
     {
-      "numer": "40800",
-      "nazwa": "Figurka klauna Buggy’ego",
-      "rok": 2025,
-      "elementy": 176,
+      "numer": "75385",
+      "nazwa": "Pojedynek Ahsoki Tano na Peridei",
+      "rok": 2024,
+      "elementy": 382,
       "status": "eol"
     },
     {
-      "numer": "40801",
-      "nazwa": "Figurki Dustina, Mike’a, Willa i Lucasa",
-      "rok": 2025,
-      "elementy": 542,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40802",
-      "nazwa": "Figurki Luny Lovegood i testrala",
-      "rok": 2025,
-      "elementy": 292,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40803",
-      "nazwa": "Robot i pojazd Optimus Prime",
-      "rok": 2025,
-      "elementy": 237,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40804",
-      "nazwa": "Robot i pojazd Bumblebee",
-      "rok": 2025,
-      "elementy": 253,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40884",
-      "nazwa": "Drift i Raven — figurki",
-      "rok": 2025,
-      "elementy": 280,
+      "numer": "75386",
+      "nazwa": "Pojedynek Paza Vizsli i Moffa Gideona",
+      "rok": 2024,
+      "elementy": 289,
       "status": "eol"
     },
     {
-      "numer": "40856",
-      "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
-      "rok": 2026,
-      "elementy": 661,
+      "numer": "75387",
+      "nazwa": "Wejście na pokład statku kosmicznego Tantive IV",
+      "rok": 2024,
+      "elementy": 502,
+      "status": "eol"
+    },
+    {
+      "numer": "75388",
+      "nazwa": "Myśliwiec rycerza Jedi Boba",
+      "rok": 2024,
+      "elementy": 305,
+      "status": "eol"
+    },
+    {
+      "numer": "75389",
+      "nazwa": "Mroczny Sokół Millennium",
+      "rok": 2024,
+      "elementy": 1579,
       "status": "dostepny"
     },
     {
-      "numer": "40858",
-      "nazwa": "Figurka SpongeBoba Kanciastoportego",
-      "rok": 2026,
-      "elementy": 72,
+      "numer": "75390",
+      "nazwa": "Mech X-Wing Luke'a Skywalkera",
+      "rok": 2024,
+      "elementy": 195,
+      "status": "eol"
+    },
+    {
+      "numer": "75392",
+      "nazwa": "Kreatywny zestaw do budowy droidów",
+      "rok": 2024,
+      "elementy": 1186,
+      "status": "eol"
+    },
+    {
+      "numer": "75393",
+      "nazwa": "Hybryda TIE Fightera i X-Winga",
+      "rok": 2024,
+      "elementy": 1063,
+      "status": "eol"
+    },
+    {
+      "numer": "75394",
+      "nazwa": "Gwiezdny Niszczyciel Imperium",
+      "rok": 2024,
+      "elementy": 1555,
       "status": "dostepny"
     },
     {
-      "numer": "40859",
-      "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
-      "rok": 2026,
-      "elementy": 218,
+      "numer": "75395",
+      "nazwa": "Kalendarz adwentowy na 2024 rok",
+      "rok": 2024,
+      "elementy": 368,
+      "status": "eol"
+    },
+    {
+      "numer": "75396",
+      "nazwa": "Pustynna barka i jama sarlacca",
+      "rok": 2024,
+      "elementy": 558,
+      "status": "eol"
+    },
+    {
+      "numer": "75397",
+      "nazwa": "Barka Jabby",
+      "rok": 2024,
+      "elementy": 3942,
       "status": "dostepny"
     },
     {
-      "numer": "40860",
-      "nazwa": "Toy Story",
-      "rok": 2026,
-      "elementy": 528,
+      "numer": "75398",
+      "nazwa": "C-3PO",
+      "rok": 2024,
+      "elementy": 1138,
       "status": "dostepny"
     },
     {
-      "numer": "40861",
-      "nazwa": "Figurki Sulley’ego, Mike’a i Boo",
-      "rok": 2026,
-      "elementy": 303,
+      "numer": "5009086",
+      "nazwa": "Gasgano's Podracer",
+      "rok": 2024,
+      "elementy": 150,
+      "status": "eol"
+    },
+    {
+      "numer": "40765",
+      "nazwa": "Ośrodek szkoleniowy na Kamino",
+      "rok": 2025,
+      "elementy": 190,
+      "status": "eol"
+    },
+    {
+      "numer": "40771",
+      "nazwa": "Myśliwiec TIE ze stanowiskiem w imperialnym hangarze",
+      "rok": 2025,
+      "elementy": 236,
+      "status": "eol"
+    },
+    {
+      "numer": "40806",
+      "nazwa": "Piernikowa maszyna krocząca AT-AT",
+      "rok": 2025,
+      "elementy": 697,
       "status": "dostepny"
     },
     {
-      "numer": "40878",
-      "nazwa": "Figurki Wojowniczych żółwi ninja",
-      "rok": 2026,
+      "numer": "66804",
+      "nazwa": "Star Wars: The Clone Wars and The Mandalorian Gift Set",
+      "rok": 2025,
+      "elementy": 423,
+      "status": "eol"
+    },
+    {
+      "numer": "66808",
+      "nazwa": "Epic Battle Set",
+      "rok": 2025,
+      "elementy": 1308,
+      "status": "eol"
+    },
+    {
+      "numer": "75399",
+      "nazwa": "Myśliwiec U-Wing Rebelii",
+      "rok": 2025,
+      "elementy": 594,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75401",
+      "nazwa": "Interceptor Jedi Ahsoki",
+      "rok": 2025,
+      "elementy": 290,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75402",
+      "nazwa": "Myśliwiec ARC-170",
+      "rok": 2025,
+      "elementy": 497,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75403",
+      "nazwa": "Grogu w wózku",
+      "rok": 2025,
+      "elementy": 1048,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75404",
+      "nazwa": "Krążownik szturmowy typu Acclamator",
+      "rok": 2025,
+      "elementy": 450,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75405",
+      "nazwa": "Krążownik typu Home One",
+      "rok": 2025,
+      "elementy": 559,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75406",
+      "nazwa": "Wahadłowiec dowodzenia Kylo Rena",
+      "rok": 2025,
+      "elementy": 386,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75407",
+      "nazwa": "Logo Star Wars zbudowane z klocków",
+      "rok": 2025,
+      "elementy": 700,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75408",
+      "nazwa": "Hełm Jango Fetta",
+      "rok": 2025,
+      "elementy": 616,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75409",
+      "nazwa": "Patrolowiec typu Firespray Jango Fetta",
+      "rok": 2025,
+      "elementy": 2970,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75411",
+      "nazwa": "Mech Dartha Maula",
+      "rok": 2025,
+      "elementy": 143,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75412",
+      "nazwa": "Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny",
+      "rok": 2025,
+      "elementy": 119,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75413",
+      "nazwa": "Czołg Republiki Juggernaut",
+      "rok": 2025,
+      "elementy": 813,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75414",
+      "nazwa": "Płomienny śmigacz śnieżny",
+      "rok": 2025,
+      "elementy": 349,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75415",
+      "nazwa": "Hełm Kylo Rena",
+      "rok": 2025,
+      "elementy": 529,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75416",
+      "nazwa": "Droid astromechaniczny Chopper (C1-10P)",
+      "rok": 2025,
+      "elementy": 1039,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75417",
+      "nazwa": "Maszyna krocząca AT-ST",
+      "rok": 2025,
+      "elementy": 1513,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75418",
+      "nazwa": "Kalendarz adwentowy na 2025 rok",
+      "rok": 2025,
+      "elementy": 263,
+      "status": "eol"
+    },
+    {
+      "numer": "75419",
+      "nazwa": "Gwiazda Śmierci",
+      "rok": 2025,
+      "elementy": 9023,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75428",
+      "nazwa": "Droid bojowy z platformą STAP",
+      "rok": 2025,
+      "elementy": 1088,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75429",
+      "nazwa": "Hełm operatora AT-AT",
+      "rok": 2025,
+      "elementy": 730,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75430",
+      "nazwa": "Ewok Wicket",
+      "rok": 2025,
+      "elementy": 1010,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75431",
+      "nazwa": "Zestaw bitewny — żołnierze-klony z 327. korpusu galaktycznego",
+      "rok": 2025,
+      "elementy": 258,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75432",
+      "nazwa": "Myśliwiec V-19 Torrent",
+      "rok": 2025,
       "elementy": 567,
       "status": "dostepny"
     },
     {
-      "numer": "40879",
-      "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
-      "rok": 2026,
-      "elementy": 584,
+      "numer": "75433",
+      "nazwa": "Statek kosmiczny Jango Fetta",
+      "rok": 2025,
+      "elementy": 707,
       "status": "dostepny"
     },
     {
-      "numer": "40880",
-      "nazwa": "Avengers: Doomsday — Bohaterowie i złoczyńca",
-      "rok": 2026,
-      "elementy": 467,
+      "numer": "75434",
+      "nazwa": "Droid strażniczy K-2SO",
+      "rok": 2025,
+      "elementy": 845,
       "status": "dostepny"
     },
     {
-      "numer": "40881",
-      "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
-      "rok": 2026,
-      "elementy": 300,
+      "numer": "75435",
+      "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
+      "rok": 2025,
+      "elementy": 976,
       "status": "dostepny"
     },
     {
-      "numer": "40910",
-      "nazwa": "Mistrz Rzucania Mięsem i Podniebna — figurki",
+      "numer": "6615760",
+      "nazwa": "Trench Run",
+      "rok": 2025,
+      "elementy": 138,
+      "status": "eol"
+    },
+    {
+      "numer": "40917",
+      "nazwa": "Mroczny Miecz",
       "rok": 2026,
-      "elementy": 288,
+      "elementy": 278,
+      "status": "eol"
+    },
+    {
+      "numer": "66821",
+      "nazwa": "Star Wars: Trooper & Droid Battle Pack",
+      "rok": 2026,
+      "elementy": 592,
+      "status": "eol"
+    },
+    {
+      "numer": "75420",
+      "nazwa": "SMART Play: Śmigacz Luke'a",
+      "rok": 2026,
+      "elementy": 215,
       "status": "dostepny"
     },
     {
-      "numer": "40919",
-      "nazwa": "Figurki gremlinów: Gizmo i Stripe",
+      "numer": "75421",
+      "nazwa": "SMART Play: Myśliwiec TIE Dartha Vadera",
       "rok": 2026,
-      "elementy": 230,
+      "elementy": 473,
       "status": "dostepny"
     },
     {
-      "numer": "40922",
-      "nazwa": "Lilo i Stitch: Andzia",
+      "numer": "75422",
+      "nazwa": "SMART Play: Chatka Yody i szkolenie Jedi",
+      "rok": 2026,
+      "elementy": 440,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75423",
+      "nazwa": "SMART Play: X-Wing Czerwona Piątka Luke'a",
+      "rok": 2026,
+      "elementy": 581,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75424",
+      "nazwa": "SMART Play: Atak AT-ST na Endor",
+      "rok": 2026,
+      "elementy": 347,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75425",
+      "nazwa": "SMART Play: Kantyna Mos Eisley",
+      "rok": 2026,
+      "elementy": 666,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75426",
+      "nazwa": "SMART Play: Sokół Millennium",
+      "rok": 2026,
+      "elementy": 885,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75427",
+      "nazwa": "SMART Play: Pojedynek w sali tronowej i A-Wing",
+      "rok": 2026,
+      "elementy": 962,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75437",
+      "nazwa": "Śmigacz Cobba Vantha",
+      "rok": 2026,
+      "elementy": 207,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75438",
+      "nazwa": "Popiersie Yody",
+      "rok": 2026,
+      "elementy": 399,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75439",
+      "nazwa": "Popiersie Dartha Vadera",
+      "rok": 2026,
+      "elementy": 349,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75440",
+      "nazwa": "AT-AT",
+      "rok": 2026,
+      "elementy": 525,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75441",
+      "nazwa": "Krążownik szturmowy typu Venator",
+      "rok": 2026,
+      "elementy": 643,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75442",
+      "nazwa": "Myśliwiec N-1 Mandalorianina",
+      "rok": 2026,
+      "elementy": 1809,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75443",
+      "nazwa": "Dom Grogu",
+      "rok": 2026,
+      "elementy": 107,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75444",
+      "nazwa": "Atak AT-RT",
+      "rok": 2026,
+      "elementy": 297,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75445",
+      "nazwa": "Anzellański statek gwiezdny",
+      "rok": 2026,
+      "elementy": 701,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75446",
+      "nazwa": "Grogu (uczeń Mandalorianina)",
+      "rok": 2026,
+      "elementy": 1200,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75447",
+      "nazwa": "Brzeszczot",
+      "rok": 2026,
+      "elementy": 930,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75448",
+      "nazwa": "Mech klona Shock Troopera",
+      "rok": 2026,
+      "elementy": 151,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75449",
+      "nazwa": "Oblężenie Mandalory — zestaw bitewny",
+      "rok": 2026,
+      "elementy": 116,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75451",
+      "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
+      "rok": 2026,
+      "elementy": 415,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75452",
+      "nazwa": "Droid astromechaniczny BB-8",
+      "rok": 2026,
+      "elementy": 569,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75453",
+      "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
+      "rok": 2026,
+      "elementy": 1683,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75454",
+      "nazwa": "AT-AT Resztek Imperium i INT-4",
+      "rok": 2026,
+      "elementy": 1453,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75455",
+      "nazwa": "Boba Fett",
+      "rok": 2026,
+      "elementy": 1544,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75456",
+      "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
+      "rok": 2026,
+      "elementy": 293,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75458",
+      "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
+      "rok": 2026,
+      "elementy": 775,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75459",
+      "nazwa": "Imperialny prom typu Lambda",
+      "rok": 2026,
+      "elementy": 961,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75460",
+      "nazwa": "Myśliwiec X-Wing Nowej Republiki",
+      "rok": 2026,
+      "elementy": 558,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75461",
+      "nazwa": "Powiększona minifigurka Dartha Vadera",
+      "rok": 2026,
+      "elementy": 1028,
+      "status": "dostepny"
+    },
+    {
+      "numer": "5010305",
+      "nazwa": "The Mandalorian and Grogu",
+      "rok": 2026,
+      "elementy": 147,
+      "status": "eol"
+    },
+    {
+      "numer": "5010391",
+      "nazwa": "Bo Katan",
       "rok": 2026,
       "elementy": 133,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40923",
-      "nazwa": "Figurki Shreka, Osła i Ciastka",
-      "rok": 2026,
-      "elementy": 259,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40924",
-      "nazwa": "Megatron jako robot i pojazd",
-      "rok": 2026,
-      "elementy": 224,
-      "status": "dostepny"
-    },
-    {
-      "numer": "40925",
-      "nazwa": "Alicja w Krainie Czarów",
-      "rok": 2026,
-      "elementy": 601,
-      "status": "dostepny"
+      "status": "eol"
     }
   ]
 }
