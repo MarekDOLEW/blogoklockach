@@ -18,7 +18,8 @@
    "brickset.com (theme Marvel-Super-Heroes)",
    "brickset.com (theme Seasonal)",
    "brickset.com (theme Disney)",
-   "brickset.com (theme Minecraft)"
+   "brickset.com (theme Minecraft)",
+   "brickset.com (theme Super-Mario)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -47725,6 +47726,785 @@
    "nazwa": "Minecraft M&T - Pig",
    "rok": 2026,
    "status": "eol"
+  }
+ ],
+ "Super Mario": [
+  {
+   "numer": "30385",
+   "nazwa": "Supergrzybowa niespodzianka",
+   "rok": 2020,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "40414",
+   "nazwa": "Monty Mole i supergrzyb - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "71360",
+   "nazwa": "Przygody z Mario - zestaw startowy",
+   "rok": 2020,
+   "elementy": 231,
+   "status": "eol"
+  },
+  {
+   "numer": "71361",
+   "nazwa": "Zestaw postaci",
+   "rok": 2020,
+   "status": "eol"
+  },
+  {
+   "numer": "71362",
+   "nazwa": "Twierdza strażnicza - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 468,
+   "status": "eol"
+  },
+  {
+   "numer": "71363",
+   "nazwa": "Pustynny Pokey - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 180,
+   "status": "eol"
+  },
+  {
+   "numer": "71364",
+   "nazwa": "Tarapaty w forcie Whompa - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "71365",
+   "nazwa": "Megazjeżdżalnia Piranha Plant - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 217,
+   "status": "eol"
+  },
+  {
+   "numer": "71366",
+   "nazwa": "Ostrzał Banzai Bill - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 132,
+   "status": "eol"
+  },
+  {
+   "numer": "71367",
+   "nazwa": "Yoshi i dom Mario - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 205,
+   "status": "eol"
+  },
+  {
+   "numer": "71368",
+   "nazwa": "Toad szuka skarbu - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 464,
+   "status": "eol"
+  },
+  {
+   "numer": "71369",
+   "nazwa": "Walka w zamku Bowsera - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 1010,
+   "status": "eol"
+  },
+  {
+   "numer": "71370",
+   "nazwa": "Ognisty Mario - dodatek",
+   "rok": 2020,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "71371",
+   "nazwa": "Helikopterowy Mario - dodatek",
+   "rok": 2020,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "71372",
+   "nazwa": "Mario kot - dodatek",
+   "rok": 2020,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "71373",
+   "nazwa": "Mario budowniczy - dodatek",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "71374",
+   "nazwa": "Nintendo Entertainment System",
+   "rok": 2020,
+   "elementy": 2646,
+   "status": "eol"
+  },
+  {
+   "numer": "71376",
+   "nazwa": "Spadający Thwomp - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 393,
+   "status": "eol"
+  },
+  {
+   "numer": "71377",
+   "nazwa": "King Boo i nawiedzone podwórze - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 431,
+   "status": "eol"
+  },
+  {
+   "numer": "77907",
+   "nazwa": "Rozbudowa kryjówki Toada - zestaw rozszerzający",
+   "rok": 2020,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "30389",
+   "nazwa": "Fuzzy i platforma z grzybem",
+   "rok": 2021,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "5007060",
+   "nazwa": "The Team-Up Bundle",
+   "rok": 2021,
+   "elementy": 511,
+   "status": "eol"
+  },
+  {
+   "numer": "5007061",
+   "nazwa": "The Creative Bundle",
+   "rok": 2021,
+   "elementy": 1081,
+   "status": "eol"
+  },
+  {
+   "numer": "5007062",
+   "nazwa": "The Ultimate Bundle",
+   "rok": 2021,
+   "elementy": 3009,
+   "status": "eol"
+  },
+  {
+   "numer": "66677",
+   "nazwa": "Super Pack",
+   "rok": 2021,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "71380",
+   "nazwa": "Mistrzowskie przygody - zestaw twórcy",
+   "rok": 2021,
+   "elementy": 366,
+   "status": "eol"
+  },
+  {
+   "numer": "71381",
+   "nazwa": "Spotkanie z Chain Chompem w dżungli - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "71382",
+   "nazwa": "Zawikłane zadanie Piranha Plant - zestaw rozszerzający",
+   "rok": 2021,
+   "elementy": 267,
+   "status": "eol"
+  },
+  {
+   "numer": "71383",
+   "nazwa": "Trujące bagno Wigglera - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "71384",
+   "nazwa": "Mario pingwin - ulepszenie",
+   "rok": 2021,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "71385",
+   "nazwa": "Mario szop - ulepszenie",
+   "rok": 2021,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "71386",
+   "nazwa": "Zestawy postaci - seria 2",
+   "rok": 2021,
+   "status": "eol"
+  },
+  {
+   "numer": "71387",
+   "nazwa": "Przygody z Luigim - zestaw startowy",
+   "rok": 2021,
+   "elementy": 280,
+   "status": "eol"
+  },
+  {
+   "numer": "71388",
+   "nazwa": "Boss Sumo Bro i przewracana wieża - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 231,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71389",
+   "nazwa": "Podniebny świat Lakitu - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 484,
+   "status": "eol"
+  },
+  {
+   "numer": "71390",
+   "nazwa": "Walka z Reznorami - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 862,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71391",
+   "nazwa": "Sterowiec Bowsera - zestaw dodatkowy",
+   "rok": 2021,
+   "elementy": 1152,
+   "status": "eol"
+  },
+  {
+   "numer": "71392",
+   "nazwa": "Mario żaba - ulepszenie",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "71393",
+   "nazwa": "Mario pszczoła - ulepszenie",
+   "rok": 2021,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "71394",
+   "nazwa": "Zestawy postaci - seria 3",
+   "rok": 2021,
+   "status": "eol"
+  },
+  {
+   "numer": "71395",
+   "nazwa": "Pytajnikowy blok Super Mario 64",
+   "rok": 2021,
+   "elementy": 2064,
+   "status": "eol"
+  },
+  {
+   "numer": "30509",
+   "nazwa": "Drzewo Yellow Yoshiego - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "71396",
+   "nazwa": "Zestaw rozszerzający Samochód klauna Bowsera Jr.",
+   "rok": 2022,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "71397",
+   "nazwa": "Zestaw rozszerzający Laboratorium w rezydencji Luigiego i Poltergust",
+   "rok": 2022,
+   "elementy": 179,
+   "status": "eol"
+  },
+  {
+   "numer": "71398",
+   "nazwa": "Zestaw rozszerzający Nabrzeże Dorrie",
+   "rok": 2022,
+   "elementy": 229,
+   "status": "eol"
+  },
+  {
+   "numer": "71399",
+   "nazwa": "Zestaw rozszerzający Wejście do rezydencji Luigiego",
+   "rok": 2022,
+   "elementy": 504,
+   "status": "eol"
+  },
+  {
+   "numer": "71400",
+   "nazwa": "Zestaw rozszerzający Duży jeżowiec i zabawa na plaży",
+   "rok": 2022,
+   "elementy": 536,
+   "status": "eol"
+  },
+  {
+   "numer": "71401",
+   "nazwa": "Zestaw rozszerzający Zabawa w straszonego w rezydencji Luigiego",
+   "rok": 2022,
+   "elementy": 877,
+   "status": "eol"
+  },
+  {
+   "numer": "71402",
+   "nazwa": "Zestawy postaci - seria 4",
+   "rok": 2022,
+   "status": "eol"
+  },
+  {
+   "numer": "71403",
+   "nazwa": "Przygody z Peach - zestaw startowy",
+   "rok": 2022,
+   "elementy": 354,
+   "status": "eol"
+  },
+  {
+   "numer": "71404",
+   "nazwa": "But Goomby - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 76,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71405",
+   "nazwa": "Salta Fuzzy’ego - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 154,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71406",
+   "nazwa": "Dom prezentów Yoshiego - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 246,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71407",
+   "nazwa": "Cat Peach i lodowa wieża - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 494,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71408",
+   "nazwa": "Zamek Peach - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 1216,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71409",
+   "nazwa": "Big Spike i chmury - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 540,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71410",
+   "nazwa": "Zestawy postaci - seria 5",
+   "rok": 2022,
+   "status": "eol"
+  },
+  {
+   "numer": "71411",
+   "nazwa": "Potężny Bowser",
+   "rok": 2022,
+   "elementy": 2807,
+   "status": "eol"
+  },
+  {
+   "numer": "71412",
+   "nazwa": "Wielka zła wyspa - zestaw rozszerzający",
+   "rok": 2022,
+   "elementy": 354,
+   "status": "eol"
+  },
+  {
+   "numer": "66749",
+   "nazwa": "Character Packs - Series 6 Bundle",
+   "rok": 2023,
+   "status": "eol"
+  },
+  {
+   "numer": "71413",
+   "nazwa": "Zestawy postaci - seria 6",
+   "rok": 2023,
+   "status": "eol"
+  },
+  {
+   "numer": "71414",
+   "nazwa": "Conkdor's Noggin Bopper - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 130,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71415",
+   "nazwa": "Mario - lodowy strój i kraina lodu - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "71416",
+   "nazwa": "Przejażdżka po fali lawy - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "71417",
+   "nazwa": "Śniegowa przygoda Fliprusa - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 567,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71418",
+   "nazwa": "Kreatywna skrzyneczka - zestaw twórcy",
+   "rok": 2023,
+   "elementy": 588,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71419",
+   "nazwa": "Peach - lot balonem i ogródek - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 453,
+   "status": "eol"
+  },
+  {
+   "numer": "71420",
+   "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 106,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71421",
+   "nazwa": "Dżunglowy koncert Dixie Kong - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 174,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71422",
+   "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 259,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71423",
+   "nazwa": "Walka w zamku Dry Bowsera - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 1321,
+   "status": "eol"
+  },
+  {
+   "numer": "71424",
+   "nazwa": "Domek na drzewie Donkey Konga - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 555,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71425",
+   "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 1157,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71426",
+   "nazwa": "Kwiatek Pirania",
+   "rok": 2023,
+   "elementy": 540,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71427",
+   "nazwa": "Statki powietrzne Larry'ego i Mortona - zestaw rozszerzający",
+   "rok": 2023,
+   "elementy": 1062,
+   "status": "eol"
+  },
+  {
+   "numer": "NL2023",
+   "nazwa": "Green Yoshi",
+   "rok": 2023,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "NL2023-2",
+   "nazwa": "Pink Yoshi",
+   "rok": 2023,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "6527192",
+   "nazwa": "Yoshi",
+   "rok": 2024,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "71428",
+   "nazwa": "Niezwykły las Yoshiego - zestaw uzupełniający",
+   "rok": 2024,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "71429",
+   "nazwa": "Nabbit w sklepie Toada - zestaw rozszerzający",
+   "rok": 2024,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "71430",
+   "nazwa": "Śniegowa przygoda pingwinów - zestaw rozszerzający",
+   "rok": 2024,
+   "elementy": 228,
+   "status": "eol"
+  },
+  {
+   "numer": "71431",
+   "nazwa": "Muscle car Bowsera - zestaw uzupełniający",
+   "rok": 2024,
+   "elementy": 458,
+   "status": "eol"
+  },
+  {
+   "numer": "71432",
+   "nazwa": "Przygoda Dorriego we wraku - zestaw uzupełniający",
+   "rok": 2024,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "71433",
+   "nazwa": "Goomba i plac zabaw",
+   "rok": 2024,
+   "elementy": 173,
+   "status": "eol"
+  },
+  {
+   "numer": "71434",
+   "nazwa": "Soda Jungle - zestaw twórcy",
+   "rok": 2024,
+   "elementy": 598,
+   "status": "eol"
+  },
+  {
+   "numer": "71435",
+   "nazwa": "Roy i bitwa na zamku Peach",
+   "rok": 2024,
+   "elementy": 738,
+   "status": "eol"
+  },
+  {
+   "numer": "71436",
+   "nazwa": "Nawiedzona rezydencja Kinga Boo",
+   "rok": 2024,
+   "elementy": 932,
+   "status": "eol"
+  },
+  {
+   "numer": "71437",
+   "nazwa": "Bowser i pociąg ekspresowy",
+   "rok": 2024,
+   "elementy": 1392,
+   "status": "eol"
+  },
+  {
+   "numer": "71438",
+   "nazwa": "World: Mario i Yoshi",
+   "rok": 2024,
+   "elementy": 1215,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71439",
+   "nazwa": "Przygody z interaktywną figurką Mario",
+   "rok": 2024,
+   "elementy": 218,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71440",
+   "nazwa": "Przygody z interaktywną figurką Luigi",
+   "rok": 2024,
+   "elementy": 210,
+   "status": "dostepny"
+  },
+  {
+   "numer": "71441",
+   "nazwa": "Przygody z interaktywną figurką Peach",
+   "rok": 2024,
+   "elementy": 208,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30702",
+   "nazwa": "Mario Kart - Toad (Pit Crew)",
+   "rok": 2025,
+   "elementy": 39,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40787",
+   "nazwa": "Mario Kart - Spiny Shell",
+   "rok": 2025,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "72031",
+   "nazwa": "Mario Kart - Yoshi Bike",
+   "rok": 2025,
+   "elementy": 133,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72032",
+   "nazwa": "Mario Kart - Standard Kart",
+   "rok": 2025,
+   "elementy": 174,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72033",
+   "nazwa": "Mario Kart - Donkey Kong i DK Jumbo",
+   "rok": 2025,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "72034",
+   "nazwa": "Mario kart - baby Mario kontra baby Luigi",
+   "rok": 2025,
+   "elementy": 321,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72035",
+   "nazwa": "Mario kart - Toad i jego garaż",
+   "rok": 2025,
+   "elementy": 390,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72036",
+   "nazwa": "Mario kart - zestaw baby Peach i Grand Prix",
+   "rok": 2025,
+   "elementy": 823,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72037",
+   "nazwa": "Mario Kart: Mario i Standard Kart",
+   "rok": 2025,
+   "elementy": 1972,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72038",
+   "nazwa": "Mario Kart - Wario i King Boo",
+   "rok": 2025,
+   "elementy": 512,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72039",
+   "nazwa": "Mario Kart - Bowser i jego zamek",
+   "rok": 2025,
+   "elementy": 1068,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72040",
+   "nazwa": "Captain Toad i obóz",
+   "rok": 2025,
+   "elementy": 159,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72041",
+   "nazwa": "Toad i domówka",
+   "rok": 2025,
+   "elementy": 276,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72042",
+   "nazwa": "Prince Florian i Castle Bowser",
+   "rok": 2025,
+   "elementy": 1251,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72043",
+   "nazwa": "Mario Kart - Interaktywna figurka Mario i Standard Kart",
+   "rok": 2025,
+   "elementy": 278,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72044",
+   "nazwa": "Mario Kart - Piranha Plant i pogoń za ulepszeniami",
+   "rok": 2025,
+   "elementy": 588,
+   "status": "eol"
+  },
+  {
+   "numer": "72045",
+   "nazwa": "Mario Kart - Shy Guy i P-Wing",
+   "rok": 2025,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "72046",
+   "nazwa": "Game Boy",
+   "rok": 2025,
+   "elementy": 421,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72050",
+   "nazwa": "Mario Kart - Luigi i Mach 8",
+   "rok": 2026,
+   "elementy": 2234,
+   "status": "dostepny"
+  },
+  {
+   "numer": "72051",
+   "nazwa": "Automat do gry Donkey Kong",
+   "rok": 2026,
+   "elementy": 1367,
+   "status": "dostepny"
   }
  ]
 }
