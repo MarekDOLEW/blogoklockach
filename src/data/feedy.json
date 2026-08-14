@@ -26,12 +26,15 @@
    "ean": "property[@name='EAN']"
   },
   "numer_setu": "z pola name, wzorzec: LEGO + opcjonalna nazwa serii + 4-5 cyfr",
-  "status": "dziala",
+  "status": "dziala, ale ceny promocyjne nieaktualne",
   "ostatnie_pobranie": "2026-08-14",
   "uwagi": [
    "6555 ofert, 5214 z rozpoznanym numerem setu, 5067 unikalnych setow.",
    "PreviousPrice bywa niewiarygodny (np. 80120: 649,99 zl przy katalogu 209,99 zl) - rabaty liczymy WYLACZNIE od ceny katalogowej z ceny_baza.json.",
-   "Kategoria 'LEGO Produkty wycofane z oferty' to archiwum, nie wyprzedaz: cena 9999,99 zl = pozycja niedostepna, nie nadaje sie na alerty EOL."
+   "Kategoria 'LEGO Produkty wycofane z oferty' to archiwum, nie wyprzedaz: cena 9999,99 zl = pozycja niedostepna, nie nadaje sie na alerty EOL.",
+   "KRYTYCZNE: feed NIE odzwierciedla akcji rabatowych sklepu - podaje te sama kwote w price i PreviousPrice. 14.08.2026 sklep miał -7% na prawie caly asortyment do 22.08, niewidoczne w feedzie. Zweryfikowane: 60492 feed 114,99 / strona 106,94; 11505 319,99 / 297,59; 11514 56,99 / 53,00; 43018 769,99 / 716,09; 71872 839,99 / 781,19; 76475 116,99 / 108,80. Wyjatek 10479: 74,99 w obu miejscach - akcja ma wylaczenia, wiec NIE mnozyc przez staly wspolczynnik.",
+   "Dla setow, gdzie cena PK z feedu miesci sie w 15% od najtanszej oferty, sprawdzac cene na stronie produktu przez WebFetch. Prawdziwy URL: pole url to link webep1.com z parametrem r = adres docelowy w base64 (dopisac padding '=' przed dekodowaniem).",
+   "Skala 14.08.2026: na 133 sety obecne w obu feedach Media Expert byl tanszy we wszystkich 133 nawet po doliczeniu PK rabatu -7%; mediana PK(-7%)/ME = 1,24."
   ]
  },
  "mediaexpert": {
