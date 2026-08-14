@@ -10,7 +10,8 @@
    "brickset.com (theme Star Wars)",
    "brickset.com (theme BrickHeadz, theme Speed Champions)",
    "brickset.com (theme Technic)",
-   "brickset.com (theme City)"
+   "brickset.com (theme City)",
+   "brickset.com (theme Creator)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -19674,6 +19675,1665 @@
    "nazwa": "Construction Worker with Roller",
    "rok": 2026,
    "elementy": 34,
+   "status": "eol"
+  }
+ ],
+ "Creator": [
+  {
+   "numer": "30540",
+   "nazwa": "Żółty samolot",
+   "rok": 2018,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30542",
+   "nazwa": "Uroczy mops",
+   "rok": 2018,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "30543",
+   "nazwa": "Pociąg",
+   "rok": 2018,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "31071",
+   "nazwa": "Dron badawczy",
+   "rok": 2018,
+   "elementy": 109,
+   "status": "eol"
+  },
+  {
+   "numer": "31072",
+   "nazwa": "Potężne silniki",
+   "rok": 2018,
+   "elementy": 109,
+   "status": "eol"
+  },
+  {
+   "numer": "31073",
+   "nazwa": "Mityczne stworzenia",
+   "rok": 2018,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "31074",
+   "nazwa": "Wyścigówka",
+   "rok": 2018,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "31075",
+   "nazwa": "Zabawy na dworze",
+   "rok": 2018,
+   "elementy": 225,
+   "status": "eol"
+  },
+  {
+   "numer": "31076",
+   "nazwa": "Samolot kaskaderski",
+   "rok": 2018,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "31077",
+   "nazwa": "Słodkie niespodzianki",
+   "rok": 2018,
+   "elementy": 396,
+   "status": "eol"
+  },
+  {
+   "numer": "31078",
+   "nazwa": "Poszukiwanie skarbów",
+   "rok": 2018,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "31079",
+   "nazwa": "Van surferów",
+   "rok": 2018,
+   "elementy": 379,
+   "status": "eol"
+  },
+  {
+   "numer": "31080",
+   "nazwa": "Ferie zimowe",
+   "rok": 2018,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "31081",
+   "nazwa": "Skatepark",
+   "rok": 2018,
+   "elementy": 422,
+   "status": "eol"
+  },
+  {
+   "numer": "31083",
+   "nazwa": "Przygody w podróży",
+   "rok": 2018,
+   "elementy": 597,
+   "status": "eol"
+  },
+  {
+   "numer": "31084",
+   "nazwa": "Piracka kolejka górska",
+   "rok": 2018,
+   "elementy": 923,
+   "status": "eol"
+  },
+  {
+   "numer": "31085",
+   "nazwa": "Pokaz kaskaderski",
+   "rok": 2018,
+   "elementy": 581,
+   "status": "eol"
+  },
+  {
+   "numer": "30571",
+   "nazwa": "Pelikan",
+   "rok": 2019,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "30572",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2019,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "30573",
+   "nazwa": "Święty Mikołaj",
+   "rok": 2019,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "31086",
+   "nazwa": "Futurystyczny samolot",
+   "rok": 2019,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "31087",
+   "nazwa": "Lekki pojazd terenowy",
+   "rok": 2019,
+   "elementy": 147,
+   "status": "eol"
+  },
+  {
+   "numer": "31088",
+   "nazwa": "Morskie stworzenia",
+   "rok": 2019,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "31089",
+   "nazwa": "Słoneczna wyścigówka",
+   "rok": 2019,
+   "elementy": 221,
+   "status": "eol"
+  },
+  {
+   "numer": "31090",
+   "nazwa": "Podwodny robot",
+   "rok": 2019,
+   "elementy": 207,
+   "status": "eol"
+  },
+  {
+   "numer": "31091",
+   "nazwa": "Transporter promu",
+   "rok": 2019,
+   "elementy": 341,
+   "status": "eol"
+  },
+  {
+   "numer": "31092",
+   "nazwa": "Przygoda z helikopterem",
+   "rok": 2019,
+   "elementy": 114,
+   "status": "eol"
+  },
+  {
+   "numer": "31093",
+   "nazwa": "Łódź mieszkalna",
+   "rok": 2019,
+   "elementy": 396,
+   "status": "eol"
+  },
+  {
+   "numer": "31094",
+   "nazwa": "Samolot wyścigowy",
+   "rok": 2019,
+   "elementy": 333,
+   "status": "eol"
+  },
+  {
+   "numer": "31095",
+   "nazwa": "Karuzela w wesołym miasteczku",
+   "rok": 2019,
+   "elementy": 595,
+   "status": "eol"
+  },
+  {
+   "numer": "31096",
+   "nazwa": "Śmigłowiec dwuwirnikowy",
+   "rok": 2019,
+   "elementy": 569,
+   "status": "eol"
+  },
+  {
+   "numer": "31097",
+   "nazwa": "Sklep zoologiczny i kawiarenka",
+   "rok": 2019,
+   "elementy": 969,
+   "status": "eol"
+  },
+  {
+   "numer": "31098",
+   "nazwa": "Domek na wsi",
+   "rok": 2019,
+   "elementy": 305,
+   "status": "eol"
+  },
+  {
+   "numer": "40337",
+   "nazwa": "Chatka z piernika w mikroskali",
+   "rok": 2019,
+   "elementy": 499,
+   "status": "eol"
+  },
+  {
+   "numer": "40434",
+   "nazwa": "Renifer",
+   "rok": 2019,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "66584",
+   "nazwa": "Bonus/Value pack",
+   "rok": 2019,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "ELEPHANT",
+   "nazwa": "Elephant",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "FLOWER",
+   "nazwa": "Flower",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "11938",
+   "nazwa": "Robot",
+   "rok": 2020,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "11939",
+   "nazwa": "Octopus",
+   "rok": 2020,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "11940",
+   "nazwa": "Castle",
+   "rok": 2020,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "11941",
+   "nazwa": "Frog",
+   "rok": 2020,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "11942",
+   "nazwa": "Lunar Lander",
+   "rok": 2020,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "11943",
+   "nazwa": "Ant",
+   "rok": 2020,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "30550",
+   "nazwa": "Zajączek wielkanocny",
+   "rok": 2020,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "30574",
+   "nazwa": "Kot",
+   "rok": 2020,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "30575",
+   "nazwa": "Pociąg",
+   "rok": 2020,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30576",
+   "nazwa": "Choinka",
+   "rok": 2020,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "31099",
+   "nazwa": "Samolot śmigłowy",
+   "rok": 2020,
+   "elementy": 128,
+   "status": "eol"
+  },
+  {
+   "numer": "31100",
+   "nazwa": "Samochód sportowy",
+   "rok": 2020,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "31101",
+   "nazwa": "Monster truck",
+   "rok": 2020,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "31102",
+   "nazwa": "Smok ognia",
+   "rok": 2020,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "31103",
+   "nazwa": "Rakietowy samochód",
+   "rok": 2020,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "31104",
+   "nazwa": "Monster truck z burgerami",
+   "rok": 2020,
+   "elementy": 499,
+   "status": "eol"
+  },
+  {
+   "numer": "31105",
+   "nazwa": "Sklep z zabawkami",
+   "rok": 2020,
+   "elementy": 554,
+   "status": "eol"
+  },
+  {
+   "numer": "31107",
+   "nazwa": "Łazik kosmiczny",
+   "rok": 2020,
+   "elementy": 510,
+   "status": "eol"
+  },
+  {
+   "numer": "31108",
+   "nazwa": "Wakacyjny kemping z rodziną",
+   "rok": 2020,
+   "elementy": 766,
+   "status": "eol"
+  },
+  {
+   "numer": "31109",
+   "nazwa": "Statek piracki",
+   "rok": 2020,
+   "elementy": 1264,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11944",
+   "nazwa": "Skull",
+   "rok": 2021,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "11945",
+   "nazwa": "Steam Locomotive",
+   "rok": 2021,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "11946",
+   "nazwa": "Penguin",
+   "rok": 2021,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "11947",
+   "nazwa": "Time Machine",
+   "rok": 2021,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "11948",
+   "nazwa": "Carnivorous Plant",
+   "rok": 2021,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "11949",
+   "nazwa": "Parrot",
+   "rok": 2021,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "11950",
+   "nazwa": "Racing Car",
+   "rok": 2021,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "11951",
+   "nazwa": "Orangutan",
+   "rok": 2021,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "11952",
+   "nazwa": "Wind Energy",
+   "rok": 2021,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "11953",
+   "nazwa": "Gecko",
+   "rok": 2021,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "11954",
+   "nazwa": "UFO",
+   "rok": 2021,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "11955",
+   "nazwa": "Lion",
+   "rok": 2021,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "30565",
+   "nazwa": "Klaun z urodzinowego przyjęcia",
+   "rok": 2021,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30577",
+   "nazwa": "Szybki muscle car",
+   "rok": 2021,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "30578",
+   "nazwa": "3 w 1 Owczarek niemiecki",
+   "rok": 2021,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "30579",
+   "nazwa": "Wielkanocny kurczak w jajku",
+   "rok": 2021,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "30580",
+   "nazwa": "Święty Mikołaj",
+   "rok": 2021,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "31111",
+   "nazwa": "Cyberdron",
+   "rok": 2021,
+   "elementy": 113,
+   "status": "eol"
+  },
+  {
+   "numer": "31112",
+   "nazwa": "Dziki lew",
+   "rok": 2021,
+   "elementy": 224,
+   "status": "eol"
+  },
+  {
+   "numer": "31113",
+   "nazwa": "Laweta z wyścigówkami",
+   "rok": 2021,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "31114",
+   "nazwa": "Supermotocykl",
+   "rok": 2021,
+   "elementy": 236,
+   "status": "eol"
+  },
+  {
+   "numer": "31115",
+   "nazwa": "Kosmiczny robot górniczy",
+   "rok": 2021,
+   "elementy": 327,
+   "status": "eol"
+  },
+  {
+   "numer": "31116",
+   "nazwa": "Domek na drzewie na safari",
+   "rok": 2021,
+   "elementy": 397,
+   "status": "eol"
+  },
+  {
+   "numer": "31117",
+   "nazwa": "Przygoda w promie kosmicznym",
+   "rok": 2021,
+   "elementy": 486,
+   "status": "eol"
+  },
+  {
+   "numer": "31118",
+   "nazwa": "Domek surferów na plaży",
+   "rok": 2021,
+   "elementy": 564,
+   "status": "eol"
+  },
+  {
+   "numer": "31119",
+   "nazwa": "Diabelski młyn",
+   "rok": 2021,
+   "elementy": 1002,
+   "status": "eol"
+  },
+  {
+   "numer": "31120",
+   "nazwa": "Średniowieczny zamek",
+   "rok": 2021,
+   "elementy": 1426,
+   "status": "eol"
+  },
+  {
+   "numer": "31121",
+   "nazwa": "Krokodyl",
+   "rok": 2021,
+   "elementy": 454,
+   "status": "eol"
+  },
+  {
+   "numer": "31122",
+   "nazwa": "Akwarium",
+   "rok": 2021,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "40461",
+   "nazwa": "Tulipany",
+   "rok": 2021,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "40468",
+   "nazwa": "Żółta taksówka",
+   "rok": 2021,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "40469",
+   "nazwa": "Autoriksza",
+   "rok": 2021,
+   "elementy": 155,
+   "status": "eol"
+  },
+  {
+   "numer": "40488",
+   "nazwa": "Wózek kawowy",
+   "rok": 2021,
+   "elementy": 149,
+   "status": "eol"
+  },
+  {
+   "numer": "66683",
+   "nazwa": "3-in-1 Bundle Pack",
+   "rok": 2021,
+   "elementy": 496,
+   "status": "eol"
+  },
+  {
+   "numer": "77940",
+   "nazwa": "Mighty Dinosaurs",
+   "rok": 2021,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "77941",
+   "nazwa": "Mighty Dinosaurs",
+   "rok": 2021,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "11961",
+   "nazwa": "Helicopter",
+   "rok": 2022,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "11962",
+   "nazwa": "Robot",
+   "rok": 2022,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "11963",
+   "nazwa": "Dinosaur",
+   "rok": 2022,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "11964",
+   "nazwa": "Submarine",
+   "rok": 2022,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "11965",
+   "nazwa": "Excavator",
+   "rok": 2022,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "11966",
+   "nazwa": "Pirate Ship",
+   "rok": 2022,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "11967",
+   "nazwa": "Dragon",
+   "rok": 2022,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "11968",
+   "nazwa": "Spider",
+   "rok": 2022,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "11969",
+   "nazwa": "Fire vehicle",
+   "rok": 2022,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "30581",
+   "nazwa": "Tropikalna papuga",
+   "rok": 2022,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "30582",
+   "nazwa": "Urodzinowy niedźwiedź",
+   "rok": 2022,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "30583",
+   "nazwa": "Zajączek wielkanocny",
+   "rok": 2022,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "30584",
+   "nazwa": "Świąteczny pociąg",
+   "rok": 2022,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "30594",
+   "nazwa": "Rockowy monster truck",
+   "rok": 2022,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "31123",
+   "nazwa": "Łazik terenowy",
+   "rok": 2022,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "31124",
+   "nazwa": "Super Robot",
+   "rok": 2022,
+   "elementy": 159,
+   "status": "eol"
+  },
+  {
+   "numer": "31125",
+   "nazwa": "Fantastyczne leśne stworzenia",
+   "rok": 2022,
+   "elementy": 175,
+   "status": "eol"
+  },
+  {
+   "numer": "31126",
+   "nazwa": "Odrzutowiec naddźwiękowy",
+   "rok": 2022,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "31127",
+   "nazwa": "Uliczna wyścigówka",
+   "rok": 2022,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "31128",
+   "nazwa": "Delfin i żółw",
+   "rok": 2022,
+   "elementy": 137,
+   "status": "eol"
+  },
+  {
+   "numer": "31129",
+   "nazwa": "Majestatyczny tygrys",
+   "rok": 2022,
+   "elementy": 755,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31130",
+   "nazwa": "Wyprawa po zatopiony skarb",
+   "rok": 2022,
+   "elementy": 522,
+   "status": "eol"
+  },
+  {
+   "numer": "31131",
+   "nazwa": "Sklep z kluskami w śródmieściu",
+   "rok": 2022,
+   "elementy": 569,
+   "status": "eol"
+  },
+  {
+   "numer": "31132",
+   "nazwa": "Statek wikingów i wąż z Midgardu",
+   "rok": 2022,
+   "elementy": 1192,
+   "status": "eol"
+  },
+  {
+   "numer": "40517",
+   "nazwa": "Vespa",
+   "rok": 2022,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "40518",
+   "nazwa": "Pociąg szybkobieżny",
+   "rok": 2022,
+   "elementy": 284,
+   "status": "eol"
+  },
+  {
+   "numer": "40519",
+   "nazwa": "Pocztówka z Nowego Jorku",
+   "rok": 2022,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "40520",
+   "nazwa": "Beijing Postcard",
+   "rok": 2022,
+   "elementy": 280,
+   "status": "eol"
+  },
+  {
+   "numer": "40562",
+   "nazwa": "Mistyczna czarownica",
+   "rok": 2022,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "40568",
+   "nazwa": "Pocztówka z Paryża",
+   "rok": 2022,
+   "elementy": 213,
+   "status": "eol"
+  },
+  {
+   "numer": "40569",
+   "nazwa": "Pocztówka z Londynu",
+   "rok": 2022,
+   "elementy": 277,
+   "status": "eol"
+  },
+  {
+   "numer": "40654",
+   "nazwa": "Pocztówka z Pekinu",
+   "rok": 2022,
+   "elementy": 274,
+   "status": "eol"
+  },
+  {
+   "numer": "66706",
+   "nazwa": "Animals Bundle",
+   "rok": 2022,
+   "elementy": 852,
+   "status": "eol"
+  },
+  {
+   "numer": "11974",
+   "nazwa": "Polar Bear",
+   "rok": 2023,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "11975",
+   "nazwa": "Tractor",
+   "rok": 2023,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "11976",
+   "nazwa": "Space Shuttle",
+   "rok": 2023,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "11977",
+   "nazwa": "Hammerhead Shark",
+   "rok": 2023,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "11978",
+   "nazwa": "Viking Ship",
+   "rok": 2023,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "30641",
+   "nazwa": "Panda",
+   "rok": 2023,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "30642",
+   "nazwa": "Pociąg urodzinowy",
+   "rok": 2023,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "30643",
+   "nazwa": "Wielkanocne kurczaki",
+   "rok": 2023,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "30644",
+   "nazwa": "Zabytkowy samochód",
+   "rok": 2023,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30645",
+   "nazwa": "Bałwan",
+   "rok": 2023,
+   "elementy": 78,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31133",
+   "nazwa": "Biały królik",
+   "rok": 2023,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "31134",
+   "nazwa": "Prom kosmiczny",
+   "rok": 2023,
+   "elementy": 144,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31135",
+   "nazwa": "Motocykl vintage",
+   "rok": 2023,
+   "elementy": 128,
+   "status": "eol"
+  },
+  {
+   "numer": "31136",
+   "nazwa": "3w1 Egzotyczna papuga",
+   "rok": 2023,
+   "elementy": 253,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31137",
+   "nazwa": "Urocze psiaki",
+   "rok": 2023,
+   "elementy": 475,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31138",
+   "nazwa": "Kamper na plaży",
+   "rok": 2023,
+   "elementy": 556,
+   "status": "eol"
+  },
+  {
+   "numer": "31139",
+   "nazwa": "Przytulny dom",
+   "rok": 2023,
+   "elementy": 808,
+   "status": "eol"
+  },
+  {
+   "numer": "31140",
+   "nazwa": "3w1 Magiczny jednorożec",
+   "rok": 2023,
+   "elementy": 145,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31141",
+   "nazwa": "Główna ulica",
+   "rok": 2023,
+   "elementy": 1459,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31142",
+   "nazwa": "Kosmiczna kolejka górska",
+   "rok": 2023,
+   "elementy": 874,
+   "status": "eol"
+  },
+  {
+   "numer": "31143",
+   "nazwa": "Budka dla ptaków",
+   "rok": 2023,
+   "elementy": 476,
+   "status": "eol"
+  },
+  {
+   "numer": "31144",
+   "nazwa": "Egzotyczna różowa papuga",
+   "rok": 2023,
+   "elementy": 253,
+   "status": "eol"
+  },
+  {
+   "numer": "40597",
+   "nazwa": "Straszna wyspa piratów",
+   "rok": 2023,
+   "elementy": 214,
+   "status": "eol"
+  },
+  {
+   "numer": "40602",
+   "nazwa": "Zimowe stoisko",
+   "rok": 2023,
+   "elementy": 271,
+   "status": "eol"
+  },
+  {
+   "numer": "40647",
+   "nazwa": "Botanicals Kwiaty Lotosu",
+   "rok": 2023,
+   "elementy": 220,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40650",
+   "nazwa": "Land Rover Classic Defender",
+   "rok": 2023,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "40651",
+   "nazwa": "Pocztówka z Australii",
+   "rok": 2023,
+   "elementy": 191,
+   "status": "eol"
+  },
+  {
+   "numer": "30666",
+   "nazwa": "Prezentowe zwierzęta",
+   "rok": 2024,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "30667",
+   "nazwa": "Przyjęcie urodzinowe ze zwierzątkami",
+   "rok": 2024,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "30668",
+   "nazwa": "Zajączek wielkanocny z kolorowymi pisankami",
+   "rok": 2024,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "30669",
+   "nazwa": "Kultowy czerwony samolot",
+   "rok": 2024,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "30670",
+   "nazwa": "Przejażdżka saniami Świętego Mikołaja",
+   "rok": 2024,
+   "elementy": 73,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31145",
+   "nazwa": "Czerwony smok",
+   "rok": 2024,
+   "elementy": 149,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31146",
+   "nazwa": "Ciężarówka z platformą i helikopterem 3w1",
+   "rok": 2024,
+   "elementy": 270,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31147",
+   "nazwa": "Aparat w stylu retro",
+   "rok": 2024,
+   "elementy": 261,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31148",
+   "nazwa": "Wrotka w stylu retro",
+   "rok": 2024,
+   "elementy": 342,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31149",
+   "nazwa": "Kwiaty w konewce",
+   "rok": 2024,
+   "elementy": 420,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31150",
+   "nazwa": "Dzikie zwierzęta z safari",
+   "rok": 2024,
+   "elementy": 780,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31151",
+   "nazwa": "Tyranozaur",
+   "rok": 2024,
+   "elementy": 626,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31152",
+   "nazwa": "Astronauta",
+   "rok": 2024,
+   "elementy": 647,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31153",
+   "nazwa": "Nowoczesny dom",
+   "rok": 2024,
+   "elementy": 939,
+   "status": "eol"
+  },
+  {
+   "numer": "31154",
+   "nazwa": "Leśne zwierzęta: Czerwony lis",
+   "rok": 2024,
+   "elementy": 667,
+   "status": "eol"
+  },
+  {
+   "numer": "31155",
+   "nazwa": "Kołowrotek dla chomików",
+   "rok": 2024,
+   "elementy": 416,
+   "status": "eol"
+  },
+  {
+   "numer": "31156",
+   "nazwa": "Tropikalne ukulele",
+   "rok": 2024,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "31157",
+   "nazwa": "Egzotyczny paw",
+   "rok": 2024,
+   "elementy": 355,
+   "status": "eol"
+  },
+  {
+   "numer": "31158",
+   "nazwa": "Zwierzęta morskie",
+   "rok": 2024,
+   "elementy": 421,
+   "status": "eol"
+  },
+  {
+   "numer": "40691",
+   "nazwa": "Mityczny pegaz",
+   "rok": 2024,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "40697",
+   "nazwa": "Dynia na Halloween",
+   "rok": 2024,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "40700",
+   "nazwa": "Zimowy pociąg",
+   "rok": 2024,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "40713",
+   "nazwa": "Pocztówka z Japonii",
+   "rok": 2024,
+   "elementy": 262,
+   "status": "eol"
+  },
+  {
+   "numer": "40747",
+   "nazwa": "Botanicals Żonkile",
+   "rok": 2024,
+   "elementy": 216,
+   "status": "dostepny"
+  },
+  {
+   "numer": "66789",
+   "nazwa": "Animal Gift Set",
+   "rok": 2024,
+   "elementy": 579,
+   "status": "eol"
+  },
+  {
+   "numer": "66791",
+   "nazwa": "Space Play Pack",
+   "rok": 2024,
+   "elementy": 791,
+   "status": "eol"
+  },
+  {
+   "numer": "30688",
+   "nazwa": "Tropikalny tukan",
+   "rok": 2025,
+   "elementy": 59,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30689",
+   "nazwa": "Urodzinowe zwierzaki",
+   "rok": 2025,
+   "elementy": 60,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30690",
+   "nazwa": "Malowanie pisanek z kurczaczkiem",
+   "rok": 2025,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30691",
+   "nazwa": "Mały monster truck do przebudowania",
+   "rok": 2025,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "30692",
+   "nazwa": "Święty Mikołaj i świąteczny komin",
+   "rok": 2025,
+   "elementy": 60,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31159",
+   "nazwa": "3w1 Dzikie zwierzęta niezwykły pająk",
+   "rok": 2025,
+   "elementy": 153,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31160",
+   "nazwa": "Statek powietrzny: samolot wyścigowy",
+   "rok": 2025,
+   "elementy": 178,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31161",
+   "nazwa": "3w1 Średniowieczny smok",
+   "rok": 2025,
+   "elementy": 715,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31162",
+   "nazwa": "Uroczy króliczek",
+   "rok": 2025,
+   "elementy": 326,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31163",
+   "nazwa": "3w1 Psotny kot",
+   "rok": 2025,
+   "elementy": 407,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31164",
+   "nazwa": "Kosmiczny robot",
+   "rok": 2025,
+   "elementy": 281,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31165",
+   "nazwa": "3w1 Dzikie zwierzęta rodzina pand",
+   "rok": 2025,
+   "elementy": 626,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31166",
+   "nazwa": "3w1 Piękny koń, przebudowa na niedźwiedzia lub jelenia",
+   "rok": 2025,
+   "elementy": 685,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31167",
+   "nazwa": "3w1 Nawiedzona rezydencja, przebudowa na statek lub pociąg",
+   "rok": 2025,
+   "elementy": 736,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31168",
+   "nazwa": "3w1 Średniowieczny zamek rycerzy konnych, turniej lub miasto",
+   "rok": 2025,
+   "elementy": 1371,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31169",
+   "nazwa": "3w1 Maszyna do pisania z kwiatami",
+   "rok": 2025,
+   "elementy": 363,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31170",
+   "nazwa": "3w1 Dzikie zwierzęta różowy flaming",
+   "rok": 2025,
+   "elementy": 288,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31171",
+   "nazwa": "Dzikie zwierzęta: dumny nosorożec z ptakami",
+   "rok": 2025,
+   "elementy": 780,
+   "status": "eol"
+  },
+  {
+   "numer": "31172",
+   "nazwa": "Gramofon z kwiatami",
+   "rok": 2025,
+   "elementy": 366,
+   "status": "eol"
+  },
+  {
+   "numer": "31173",
+   "nazwa": "Dzikie zwierzęta Tropikalny tukan",
+   "rok": 2025,
+   "elementy": 225,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31174",
+   "nazwa": "3w1 Telefon w stylu retro, zabawka konstrukcyjna dla dzieci",
+   "rok": 2025,
+   "elementy": 383,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31175",
+   "nazwa": "Zamek jednorożców",
+   "rok": 2025,
+   "elementy": 390,
+   "status": "eol"
+  },
+  {
+   "numer": "40758",
+   "nazwa": "Świętowanie: diabelski młyn z fajerwerkami",
+   "rok": 2025,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "40759",
+   "nazwa": "Seria okolicznościowa: Walentynkowe pudełko",
+   "rok": 2025,
+   "elementy": 172,
+   "status": "eol"
+  },
+  {
+   "numer": "40763",
+   "nazwa": "Miś na Dzień Dziecka",
+   "rok": 2025,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "40772",
+   "nazwa": "Seria okolicznościowa: Świecący duszek",
+   "rok": 2025,
+   "elementy": 167,
+   "status": "eol"
+  },
+  {
+   "numer": "40777",
+   "nazwa": "Seria okolicznościowa: Ozdoba z piernikowym pociągiem",
+   "rok": 2025,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "40818",
+   "nazwa": "Pocztówka z Włoch",
+   "rok": 2025,
+   "elementy": 189,
+   "status": "eol"
+  },
+  {
+   "numer": "66810",
+   "nazwa": "Animal Lover's Gift Set",
+   "rok": 2025,
+   "elementy": 733,
+   "status": "eol"
+  },
+  {
+   "numer": "30714",
+   "nazwa": "Rudy kot",
+   "rok": 2026,
+   "elementy": 79,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30715",
+   "nazwa": "Przyjęcie urodzinowe z uroczymi zwierzątkami",
+   "rok": 2026,
+   "elementy": 64,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30716",
+   "nazwa": "Uroczy zajączek wielkanocny",
+   "rok": 2026,
+   "elementy": 66,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30717",
+   "nazwa": "Śmieszny halloweenowy szkielet",
+   "rok": 2026,
+   "elementy": 71,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30718",
+   "nazwa": "Śnieżna przygoda Cataclaws",
+   "rok": 2026,
+   "elementy": 70,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31376",
+   "nazwa": "Uroczy chomik z kwiatkiem",
+   "rok": 2026,
+   "elementy": 166,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31377",
+   "nazwa": "Żółw i kwiat lilii wodnej",
+   "rok": 2026,
+   "elementy": 124,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31378",
+   "nazwa": "Teleskop do odkrywania kosmosu",
+   "rok": 2026,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "31379",
+   "nazwa": "Dzikie zwierzęta groźny dinozaur",
+   "rok": 2026,
+   "elementy": 283,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31380",
+   "nazwa": "Konsola do gry retro",
+   "rok": 2026,
+   "elementy": 268,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31381",
+   "nazwa": "Groźny rekin i skrzynia ze skarbem",
+   "rok": 2026,
+   "elementy": 379,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31382",
+   "nazwa": "Urocze zwierzątka: psotny szczeniaczek",
+   "rok": 2026,
+   "elementy": 336,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31383",
+   "nazwa": "3w1 Flakon perfum z kwiatową ozdobą",
+   "rok": 2026,
+   "elementy": 286,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31384",
+   "nazwa": "Dzikie zwierzęta: kolorowy koliber",
+   "rok": 2026,
+   "elementy": 312,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31385",
+   "nazwa": "Zwierzęta morskie: piękny delfin",
+   "rok": 2026,
+   "elementy": 542,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31386",
+   "nazwa": "3w1 Dzikie zwierzęta: Dumny lew",
+   "rok": 2026,
+   "elementy": 839,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31387",
+   "nazwa": "3w1 Legendarny statek piracki",
+   "rok": 2026,
+   "elementy": 1074,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31388",
+   "nazwa": "Dzikie zwierzęta: Rodzina koali",
+   "rok": 2026,
+   "elementy": 1536,
+   "status": "eol"
+  },
+  {
+   "numer": "31389",
+   "nazwa": "3w1 Kultowy diabelski młyn",
+   "rok": 2026,
+   "elementy": 916,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31390",
+   "nazwa": "3w1 Dekoracyjny obraz z kwiatami",
+   "rok": 2026,
+   "elementy": 348,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31391",
+   "nazwa": "3w1 Modna torebka ze schowkiem",
+   "rok": 2026,
+   "elementy": 272,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31392",
+   "nazwa": "3w1 Dekoracyjny fortepian z kotem",
+   "rok": 2026,
+   "elementy": 485,
+   "status": "dostepny"
+  },
+  {
+   "numer": "31393",
+   "nazwa": "Leśne zwierzęta: Wilk szary",
+   "rok": 2026,
+   "elementy": 657,
+   "status": "eol"
+  },
+  {
+   "numer": "31394",
+   "nazwa": "Urocze zwierzątka: Panda ruda",
+   "rok": 2026,
+   "elementy": 297,
+   "status": "eol"
+  },
+  {
+   "numer": "40885",
+   "nazwa": "Rodzina kaczek",
+   "rok": 2026,
+   "elementy": 262,
+   "status": "eol"
+  },
+  {
+   "numer": "40953",
+   "nazwa": "Londyński autobus",
+   "rok": 2026,
+   "elementy": 245,
+   "status": "eol"
+  },
+  {
+   "numer": "40954",
+   "nazwa": "Pocztówka z Niemiec",
+   "rok": 2026,
+   "elementy": 240,
+   "status": "eol"
+  },
+  {
+   "numer": "66832",
+   "nazwa": "Action Vehicles Gift Set",
+   "rok": 2026,
+   "elementy": 448,
    "status": "eol"
   }
  ]
