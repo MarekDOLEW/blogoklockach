@@ -21,7 +21,8 @@
       "brickset.com (theme Minecraft)",
       "brickset.com (theme Super-Mario)",
       "brickset.com (theme Jurassic-World)",
-      "brickset.com (theme Classic)"
+      "brickset.com (theme Classic)",
+      "brickset.com (theme Botanicals)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
   },
@@ -49993,6 +49994,239 @@
       "rok": 2026,
       "elementy": 820,
       "status": "dostepny"
+    }
+  ],
+  "Botanicals": [
+    {
+      "numer": "40460",
+      "nazwa": "Róże",
+      "rok": 2021,
+      "elementy": 120,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40524",
+      "nazwa": "Słoneczniki",
+      "rok": 2022,
+      "elementy": 191,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40725",
+      "nazwa": "Kwiaty wiśni",
+      "rok": 2024,
+      "elementy": 438,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10342",
+      "nazwa": "Piękny bukiet różowych kwiatów",
+      "rok": 2025,
+      "elementy": 749,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10343",
+      "nazwa": "Mała orchidea",
+      "rok": 2025,
+      "elementy": 274,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10344",
+      "nazwa": "Dracena sandera",
+      "rok": 2025,
+      "elementy": 325,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10345",
+      "nazwa": "Kwiatowa kompozycja",
+      "rok": 2025,
+      "elementy": 1161,
+      "status": "eol"
+    },
+    {
+      "numer": "10347",
+      "nazwa": "Mały słoneczny bukiet",
+      "rok": 2025,
+      "elementy": 373,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10348",
+      "nazwa": "Klon palmowy bonsai",
+      "rok": 2025,
+      "elementy": 474,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10349",
+      "nazwa": "Wesołe roślinki",
+      "rok": 2025,
+      "elementy": 217,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10372",
+      "nazwa": "Hibiskus",
+      "rok": 2025,
+      "elementy": 660,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10373",
+      "nazwa": "Małe drzewka bonsai",
+      "rok": 2025,
+      "elementy": 709,
+      "status": "eol"
+    },
+    {
+      "numer": "10374",
+      "nazwa": "Bukiet różowych róż",
+      "rok": 2025,
+      "elementy": 789,
+      "status": "dostepny"
+    },
+    {
+      "numer": "30701",
+      "nazwa": "Kwiaty polne",
+      "rok": 2025,
+      "elementy": 77,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40762",
+      "nazwa": "Doniczka z rozmaitymi kwiatami",
+      "rok": 2025,
+      "elementy": 253,
+      "status": "eol"
+    },
+    {
+      "numer": "66809",
+      "nazwa": "Ozdobne rośliny — zestaw kolekcjonerski",
+      "rok": 2025,
+      "elementy": 599,
+      "status": "eol"
+    },
+    {
+      "numer": "11501",
+      "nazwa": "Bukiet tulipanów",
+      "rok": 2026,
+      "elementy": 576,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11502",
+      "nazwa": "Bukiet słoneczników",
+      "rok": 2026,
+      "elementy": 686,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11503",
+      "nazwa": "Kwiatowa ścianka",
+      "rok": 2026,
+      "elementy": 879,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11504",
+      "nazwa": "Skrzydłokwiat",
+      "rok": 2026,
+      "elementy": 474,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11505",
+      "nazwa": "Grzyby leśne",
+      "rok": 2026,
+      "elementy": 806,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11506",
+      "nazwa": "Bujające się roślinki",
+      "rok": 2026,
+      "elementy": 253,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11507",
+      "nazwa": "Bukiet kwiatów",
+      "rok": 2026,
+      "elementy": 400,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11508",
+      "nazwa": "Stokrotki",
+      "rok": 2026,
+      "elementy": 133,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11509",
+      "nazwa": "Kwitnący kaktus",
+      "rok": 2026,
+      "elementy": 482,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11510",
+      "nazwa": "Gałązki magnolii",
+      "rok": 2026,
+      "elementy": 435,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11511",
+      "nazwa": "Lilie wodne",
+      "rok": 2026,
+      "elementy": 259,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11512",
+      "nazwa": "Wiszące epipremnum złociste",
+      "rok": 2026,
+      "elementy": 372,
+      "status": "eol"
+    },
+    {
+      "numer": "11513",
+      "nazwa": "Kompozycja z ciemnych kwiatów",
+      "rok": 2026,
+      "elementy": 562,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11514",
+      "nazwa": "Kosmosy",
+      "rok": 2026,
+      "elementy": 171,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40916",
+      "nazwa": "Kwiatowa ramka na zdjęcia",
+      "rok": 2026,
+      "elementy": 310,
+      "status": "eol"
+    },
+    {
+      "numer": "6614216",
+      "nazwa": "Micro Cactus",
+      "rok": 2026,
+      "elementy": 39,
+      "status": "eol"
+    },
+    {
+      "numer": "6614217",
+      "nazwa": "Micro Peace Lily",
+      "rok": 2026,
+      "elementy": 46,
+      "status": "eol"
     }
   ]
 }
