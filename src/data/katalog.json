@@ -17,7 +17,8 @@
    "brickset.com (theme Ninjago)",
    "brickset.com (theme Marvel-Super-Heroes)",
    "brickset.com (theme Seasonal)",
-   "brickset.com (theme Disney)"
+   "brickset.com (theme Disney)",
+   "brickset.com (theme Minecraft)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -46245,6 +46246,1484 @@
    "nazwa": "Little HeiHei",
    "rok": 2026,
    "elementy": 32,
+   "status": "eol"
+  }
+ ],
+ "Minecraft": [
+  {
+   "numer": "21105",
+   "nazwa": "Mikroświat - Wioska",
+   "rok": 2013,
+   "elementy": 466,
+   "status": "eol"
+  },
+  {
+   "numer": "21106",
+   "nazwa": "Mikroświat - The Nether",
+   "rok": 2013,
+   "elementy": 469,
+   "status": "eol"
+  },
+  {
+   "numer": "MINECON",
+   "nazwa": "Steve",
+   "rok": 2013,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "21107",
+   "nazwa": "Micro World - Koniec",
+   "rok": 2014,
+   "elementy": 440,
+   "status": "eol"
+  },
+  {
+   "numer": "21113",
+   "nazwa": "Jaskinia",
+   "rok": 2014,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "21114",
+   "nazwa": "Farma",
+   "rok": 2014,
+   "elementy": 262,
+   "status": "eol"
+  },
+  {
+   "numer": "21115",
+   "nazwa": "Pierwsza noc",
+   "rok": 2014,
+   "elementy": 408,
+   "status": "eol"
+  },
+  {
+   "numer": "21116",
+   "nazwa": "Kreatywny warsztat",
+   "rok": 2014,
+   "elementy": 518,
+   "status": "eol"
+  },
+  {
+   "numer": "21117",
+   "nazwa": "Smok kresu",
+   "rok": 2014,
+   "elementy": 634,
+   "status": "eol"
+  },
+  {
+   "numer": "21118",
+   "nazwa": "Kopalnia",
+   "rok": 2014,
+   "elementy": 922,
+   "status": "eol"
+  },
+  {
+   "numer": "21119",
+   "nazwa": "Loch",
+   "rok": 2015,
+   "elementy": 219,
+   "status": "eol"
+  },
+  {
+   "numer": "21120",
+   "nazwa": "Śnieżna kryjówka",
+   "rok": 2015,
+   "elementy": 327,
+   "status": "eol"
+  },
+  {
+   "numer": "21121",
+   "nazwa": "Pustynny posterunek",
+   "rok": 2015,
+   "elementy": 519,
+   "status": "eol"
+  },
+  {
+   "numer": "21122",
+   "nazwa": "Forteca Netheru",
+   "rok": 2015,
+   "elementy": 571,
+   "status": "eol"
+  },
+  {
+   "numer": "21123",
+   "nazwa": "Żelazny golem",
+   "rok": 2016,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "21124",
+   "nazwa": "Portal Kresu",
+   "rok": 2016,
+   "elementy": 559,
+   "status": "eol"
+  },
+  {
+   "numer": "21125",
+   "nazwa": "Domek na drzewie w dżungli",
+   "rok": 2016,
+   "elementy": 706,
+   "status": "eol"
+  },
+  {
+   "numer": "21126",
+   "nazwa": "Wither",
+   "rok": 2016,
+   "elementy": 318,
+   "status": "eol"
+  },
+  {
+   "numer": "21127",
+   "nazwa": "Forteca",
+   "rok": 2016,
+   "elementy": 984,
+   "status": "eol"
+  },
+  {
+   "numer": "21128",
+   "nazwa": "Wioska",
+   "rok": 2016,
+   "elementy": 1600,
+   "status": "eol"
+  },
+  {
+   "numer": "853609",
+   "nazwa": "Skin Pack",
+   "rok": 2016,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "853610",
+   "nazwa": "Skin Pack",
+   "rok": 2016,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "21129",
+   "nazwa": "Grzybowa wyspa",
+   "rok": 2017,
+   "elementy": 247,
+   "status": "eol"
+  },
+  {
+   "numer": "21130",
+   "nazwa": "Linia kolejowa w Netherze",
+   "rok": 2017,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "21131",
+   "nazwa": "Lodowe kolce",
+   "rok": 2017,
+   "elementy": 454,
+   "status": "eol"
+  },
+  {
+   "numer": "21132",
+   "nazwa": "Świątynia w dżungli",
+   "rok": 2017,
+   "elementy": 598,
+   "status": "eol"
+  },
+  {
+   "numer": "21133",
+   "nazwa": "Chatka czarownicy",
+   "rok": 2017,
+   "elementy": 502,
+   "status": "eol"
+  },
+  {
+   "numer": "21134",
+   "nazwa": "Baza pod wodospadem",
+   "rok": 2017,
+   "elementy": 729,
+   "status": "eol"
+  },
+  {
+   "numer": "21135",
+   "nazwa": "Kreatywny warsztat 2.0",
+   "rok": 2017,
+   "elementy": 717,
+   "status": "eol"
+  },
+  {
+   "numer": "21136",
+   "nazwa": "Oceaniczny monument",
+   "rok": 2017,
+   "elementy": 1122,
+   "status": "eol"
+  },
+  {
+   "numer": "21137",
+   "nazwa": "Górska Jaskinia",
+   "rok": 2017,
+   "elementy": 2863,
+   "status": "eol"
+  },
+  {
+   "numer": "21138",
+   "nazwa": "Farma arbuzów",
+   "rok": 2018,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "21139",
+   "nazwa": "Walka w Netherze",
+   "rok": 2018,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "21140",
+   "nazwa": "Kurnik",
+   "rok": 2018,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "21141",
+   "nazwa": "Jaskinia zombie",
+   "rok": 2018,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "21142",
+   "nazwa": "Igloo niedźwiedzia polarnego",
+   "rok": 2018,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "21143",
+   "nazwa": "Portal do Netheru",
+   "rok": 2018,
+   "elementy": 470,
+   "status": "eol"
+  },
+  {
+   "numer": "21144",
+   "nazwa": "Wiejska chatka",
+   "rok": 2018,
+   "elementy": 549,
+   "status": "eol"
+  },
+  {
+   "numer": "21145",
+   "nazwa": "Czaszkowa arena",
+   "rok": 2018,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "21146",
+   "nazwa": "Atak szkieletów",
+   "rok": 2018,
+   "elementy": 457,
+   "status": "eol"
+  },
+  {
+   "numer": "21147",
+   "nazwa": "Przygody na skale macierzystej",
+   "rok": 2018,
+   "elementy": 644,
+   "status": "eol"
+  },
+  {
+   "numer": "21148",
+   "nazwa": "BigFig - Steve z papugą",
+   "rok": 2019,
+   "elementy": 159,
+   "status": "eol"
+  },
+  {
+   "numer": "21149",
+   "nazwa": "BigFig - Alex z kurczakiem",
+   "rok": 2019,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "21150",
+   "nazwa": "BigFig - szkielet z kostką magmy",
+   "rok": 2019,
+   "elementy": 142,
+   "status": "eol"
+  },
+  {
+   "numer": "21151",
+   "nazwa": "Walka w Kresie",
+   "rok": 2019,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "21152",
+   "nazwa": "Przygoda na statku pirackim",
+   "rok": 2019,
+   "elementy": 386,
+   "status": "eol"
+  },
+  {
+   "numer": "21153",
+   "nazwa": "Hodowla owiec",
+   "rok": 2019,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "21154",
+   "nazwa": "Most Płomyków",
+   "rok": 2019,
+   "elementy": 372,
+   "status": "eol"
+  },
+  {
+   "numer": "21155",
+   "nazwa": "Kopalnia Creeperów",
+   "rok": 2019,
+   "elementy": 834,
+   "status": "eol"
+  },
+  {
+   "numer": "30393",
+   "nazwa": "Steve i Creeper",
+   "rok": 2019,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "21156",
+   "nazwa": "BigFig Creeper i Ocelot",
+   "rok": 2020,
+   "elementy": 184,
+   "status": "eol"
+  },
+  {
+   "numer": "21157",
+   "nazwa": "BigFig - Świnka i mały zombie",
+   "rok": 2020,
+   "elementy": 159,
+   "status": "eol"
+  },
+  {
+   "numer": "21158",
+   "nazwa": "Żłobek dla pand",
+   "rok": 2020,
+   "elementy": 204,
+   "status": "eol"
+  },
+  {
+   "numer": "21159",
+   "nazwa": "Kryjówka rozbójników",
+   "rok": 2020,
+   "elementy": 303,
+   "status": "eol"
+  },
+  {
+   "numer": "21160",
+   "nazwa": "Najazd złosadników",
+   "rok": 2020,
+   "elementy": 562,
+   "status": "eol"
+  },
+  {
+   "numer": "21161",
+   "nazwa": "Kreatywny warsztat 3.0",
+   "rok": 2020,
+   "elementy": 564,
+   "status": "eol"
+  },
+  {
+   "numer": "21162",
+   "nazwa": "Przygoda w tajdze",
+   "rok": 2020,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "21163",
+   "nazwa": "Bitwa o czerwony kamień",
+   "rok": 2020,
+   "elementy": 504,
+   "status": "eol"
+  },
+  {
+   "numer": "30394",
+   "nazwa": "Alex obrona przed Szkieletem",
+   "rok": 2020,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "66646",
+   "nazwa": "Minecraft Bundle 2 in 1",
+   "rok": 2020,
+   "elementy": 396,
+   "status": "eol"
+  },
+  {
+   "numer": "21164",
+   "nazwa": "Rafa koralowa",
+   "rok": 2021,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "21165",
+   "nazwa": "Pasieka",
+   "rok": 2021,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "21166",
+   "nazwa": "Opuszczona kopalnia",
+   "rok": 2021,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "21167",
+   "nazwa": "Punkt handlowy",
+   "rok": 2021,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "21168",
+   "nazwa": "Spaczony las",
+   "rok": 2021,
+   "elementy": 287,
+   "status": "eol"
+  },
+  {
+   "numer": "21169",
+   "nazwa": "Pierwsza przygoda",
+   "rok": 2021,
+   "elementy": 542,
+   "status": "eol"
+  },
+  {
+   "numer": "21170",
+   "nazwa": "Dom w kształcie świni",
+   "rok": 2021,
+   "elementy": 490,
+   "status": "eol"
+  },
+  {
+   "numer": "21171",
+   "nazwa": "Stajnia",
+   "rok": 2021,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "21172",
+   "nazwa": "Zniszczony portal",
+   "rok": 2021,
+   "elementy": 316,
+   "status": "eol"
+  },
+  {
+   "numer": "21173",
+   "nazwa": "Podniebna wieża",
+   "rok": 2021,
+   "elementy": 565,
+   "status": "eol"
+  },
+  {
+   "numer": "21174",
+   "nazwa": "Nowoczesny domek na drzewie",
+   "rok": 2021,
+   "elementy": 909,
+   "status": "eol"
+  },
+  {
+   "numer": "21176",
+   "nazwa": "Postrach Dżungli",
+   "rok": 2021,
+   "elementy": 489,
+   "status": "eol"
+  },
+  {
+   "numer": "30331",
+   "nazwa": "Pojedynek w Netherze",
+   "rok": 2021,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "662101",
+   "nazwa": "Steve, Zombie and Pig",
+   "rok": 2021,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "21177",
+   "nazwa": "Zasadzka Creepera",
+   "rok": 2022,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "21178",
+   "nazwa": "Siedlisko lisów",
+   "rok": 2022,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "21179",
+   "nazwa": "Dom w grzybie",
+   "rok": 2022,
+   "elementy": 272,
+   "status": "eol"
+  },
+  {
+   "numer": "21180",
+   "nazwa": "Walka ze strażnikami",
+   "rok": 2022,
+   "elementy": 255,
+   "status": "eol"
+  },
+  {
+   "numer": "21181",
+   "nazwa": "Królicza farma",
+   "rok": 2022,
+   "elementy": 340,
+   "status": "eol"
+  },
+  {
+   "numer": "21183",
+   "nazwa": "Teren szkoleniowy",
+   "rok": 2022,
+   "elementy": 534,
+   "status": "eol"
+  },
+  {
+   "numer": "21184",
+   "nazwa": "Piekarnia",
+   "rok": 2022,
+   "elementy": 154,
+   "status": "eol"
+  },
+  {
+   "numer": "21185",
+   "nazwa": "Bastion w Netherze",
+   "rok": 2022,
+   "elementy": 300,
+   "status": "eol"
+  },
+  {
+   "numer": "21186",
+   "nazwa": "Lodowy zamek",
+   "rok": 2022,
+   "elementy": 499,
+   "status": "eol"
+  },
+  {
+   "numer": "21187",
+   "nazwa": "Czerwona stodoła",
+   "rok": 2022,
+   "elementy": 799,
+   "status": "eol"
+  },
+  {
+   "numer": "21188",
+   "nazwa": "Wioska Lamy",
+   "rok": 2022,
+   "elementy": 1252,
+   "status": "eol"
+  },
+  {
+   "numer": "21189",
+   "nazwa": "Loch szkieletów",
+   "rok": 2022,
+   "elementy": 364,
+   "status": "eol"
+  },
+  {
+   "numer": "21190",
+   "nazwa": "Opuszczona wioska",
+   "rok": 2022,
+   "elementy": 422,
+   "status": "eol"
+  },
+  {
+   "numer": "30432",
+   "nazwa": "Plaża żółwi",
+   "rok": 2022,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "662102",
+   "nazwa": "TNT Launcher and Skeleton",
+   "rok": 2022,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "662103",
+   "nazwa": "Alex with Ocelot and Sheep",
+   "rok": 2022,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "662203",
+   "nazwa": "Iron Golem",
+   "rok": 2022,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "662204",
+   "nazwa": "Miner and Creeper",
+   "rok": 2022,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "662205",
+   "nazwa": "Steve with Drowned Zombie",
+   "rok": 2022,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "662206",
+   "nazwa": "Alex with Skeleton and Skeleton Horse",
+   "rok": 2022,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "662207",
+   "nazwa": "Steve with Spider",
+   "rok": 2022,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "21240",
+   "nazwa": "Przygoda na mokradłach",
+   "rok": 2023,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "21241",
+   "nazwa": "Pszczeli ul",
+   "rok": 2023,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "21242",
+   "nazwa": "Arena Endu",
+   "rok": 2023,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "21243",
+   "nazwa": "Ośnieżone szczyty",
+   "rok": 2023,
+   "elementy": 304,
+   "status": "eol"
+  },
+  {
+   "numer": "21244",
+   "nazwa": "Bastion miecza",
+   "rok": 2023,
+   "elementy": 427,
+   "status": "eol"
+  },
+  {
+   "numer": "21245",
+   "nazwa": "Rezerwat pandy",
+   "rok": 2023,
+   "elementy": 553,
+   "status": "eol"
+  },
+  {
+   "numer": "21246",
+   "nazwa": "Bitwa w mrocznej głębi",
+   "rok": 2023,
+   "elementy": 584,
+   "status": "eol"
+  },
+  {
+   "numer": "21247",
+   "nazwa": "Dom aksolotla",
+   "rok": 2023,
+   "elementy": 242,
+   "status": "eol"
+  },
+  {
+   "numer": "21248",
+   "nazwa": "Dyniowa farma",
+   "rok": 2023,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "21249",
+   "nazwa": "Kreatywny warsztat 4.0",
+   "rok": 2023,
+   "elementy": 605,
+   "status": "eol"
+  },
+  {
+   "numer": "21250",
+   "nazwa": "Forteca żelaznego golema",
+   "rok": 2023,
+   "elementy": 868,
+   "status": "eol"
+  },
+  {
+   "numer": "30647",
+   "nazwa": "Jaskinia naciekowa",
+   "rok": 2023,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "662302",
+   "nazwa": "Cave Explorer, Creeper and Slime",
+   "rok": 2023,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "662303",
+   "nazwa": "Adventurer with Drowned and Axolotl",
+   "rok": 2023,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "662304",
+   "nazwa": "Ninja, Zombie and TNT Launcher",
+   "rok": 2023,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "662305",
+   "nazwa": "Nether Hero and Enderman",
+   "rok": 2023,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "662306",
+   "nazwa": "Pillager with Training Dummy",
+   "rok": 2023,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "662307",
+   "nazwa": "Spider and Skeleton",
+   "rok": 2023,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "662308",
+   "nazwa": "Alex, Baby Llama and Bee",
+   "rok": 2023,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "662309",
+   "nazwa": "Knight with Chest and Anvil",
+   "rok": 2023,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "662317",
+   "nazwa": "Steve with Diamond Armour",
+   "rok": 2023,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "66779",
+   "nazwa": "Powierzchnia - zestaw przygodowy",
+   "rok": 2023,
+   "elementy": 357,
+   "status": "eol"
+  },
+  {
+   "numer": "11988",
+   "nazwa": "Minecraft Ideas parts",
+   "rok": 2024,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "21251",
+   "nazwa": "Pustynna wyprawa Steve'a",
+   "rok": 2024,
+   "elementy": 75,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21252",
+   "nazwa": "Zbrojownia",
+   "rok": 2024,
+   "elementy": 203,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21253",
+   "nazwa": "Rezerwat zwierząt",
+   "rok": 2024,
+   "elementy": 206,
+   "status": "eol"
+  },
+  {
+   "numer": "21254",
+   "nazwa": "Domek na plaży żółwi",
+   "rok": 2024,
+   "elementy": 234,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21255",
+   "nazwa": "Zasadzka w portalu do Netheru",
+   "rok": 2024,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "21256",
+   "nazwa": "Żabi domek",
+   "rok": 2024,
+   "elementy": 400,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21257",
+   "nazwa": "Decydujące starcie z Dewastatorem",
+   "rok": 2024,
+   "elementy": 420,
+   "status": "eol"
+  },
+  {
+   "numer": "21259",
+   "nazwa": "Rejs statkiem pirackim",
+   "rok": 2024,
+   "elementy": 166,
+   "status": "eol"
+  },
+  {
+   "numer": "21260",
+   "nazwa": "Wiśniowy ogród",
+   "rok": 2024,
+   "elementy": 304,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21261",
+   "nazwa": "Wilcza twierdza",
+   "rok": 2024,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "21262",
+   "nazwa": "Farma z wiatrakiem",
+   "rok": 2024,
+   "elementy": 462,
+   "status": "eol"
+  },
+  {
+   "numer": "21263",
+   "nazwa": "Kopalnia w Badlandach",
+   "rok": 2024,
+   "elementy": 538,
+   "status": "eol"
+  },
+  {
+   "numer": "21264",
+   "nazwa": "Smok Kresu i statek Kresu",
+   "rok": 2024,
+   "elementy": 657,
+   "status": "eol"
+  },
+  {
+   "numer": "21265",
+   "nazwa": "Stół warsztatowy",
+   "rok": 2024,
+   "elementy": 1195,
+   "status": "eol"
+  },
+  {
+   "numer": "21281",
+   "nazwa": "Urodziny prosiaczka",
+   "rok": 2024,
+   "elementy": 351,
+   "status": "eol"
+  },
+  {
+   "numer": "30672",
+   "nazwa": "Steve i mała panda",
+   "rok": 2024,
+   "elementy": 35,
+   "status": "dostepny"
+  },
+  {
+   "numer": "6527190",
+   "nazwa": "Panda",
+   "rok": 2024,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "662401",
+   "nazwa": "Stray, Crystal Knight and Shooter",
+   "rok": 2024,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "662402",
+   "nazwa": "Nether Hero and Strider",
+   "rok": 2024,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "662403",
+   "nazwa": "Zombie with Burning Baby Zombie and TNT",
+   "rok": 2024,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "662404",
+   "nazwa": "Alex and Wolf",
+   "rok": 2024,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "662405",
+   "nazwa": "Drowned and Hero",
+   "rok": 2024,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "662406",
+   "nazwa": "Golden Knight and Charged Creeper",
+   "rok": 2024,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "662407",
+   "nazwa": "Steve and Mooshroom",
+   "rok": 2024,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "662408",
+   "nazwa": "Witch with Black Cat and Potion",
+   "rok": 2024,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "662409",
+   "nazwa": "Hero with Skeleton",
+   "rok": 2024,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "662410",
+   "nazwa": "Cave Explorer with Spider",
+   "rok": 2024,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "662411",
+   "nazwa": "Hero with Bat and TNT",
+   "rok": 2024,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "662412",
+   "nazwa": "Arbalest Knight with Frog and Slime",
+   "rok": 2024,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "662413",
+   "nazwa": "End Warrior with Shulker and Chorus Plant",
+   "rok": 2024,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "66786",
+   "nazwa": "Gra przygodowa - zestaw prezentowy",
+   "rok": 2024,
+   "elementy": 476,
+   "status": "eol"
+  },
+  {
+   "numer": "12001",
+   "nazwa": "Minecraft Games Book parts",
+   "rok": 2025,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "21266",
+   "nazwa": "Bitwa na moście Netheru",
+   "rok": 2025,
+   "elementy": 99,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21267",
+   "nazwa": "Pustynny patrol złosadników",
+   "rok": 2025,
+   "elementy": 105,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21268",
+   "nazwa": "Dom prosiaczka",
+   "rok": 2025,
+   "elementy": 238,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21269",
+   "nazwa": "Wyprawa do pancernikowej kopalni",
+   "rok": 2025,
+   "elementy": 247,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21270",
+   "nazwa": "Dom grzybowej krowy",
+   "rok": 2025,
+   "elementy": 500,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21271",
+   "nazwa": "Komnata prób",
+   "rok": 2025,
+   "elementy": 322,
+   "status": "eol"
+  },
+  {
+   "numer": "21272",
+   "nazwa": "Ring w Leśnym dworze",
+   "rok": 2025,
+   "elementy": 491,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21273",
+   "nazwa": "Atak balonowego Ghasta na wioskę",
+   "rok": 2025,
+   "elementy": 555,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21274",
+   "nazwa": "Spotkanie ze strażnikiem",
+   "rok": 2025,
+   "elementy": 238,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21275",
+   "nazwa": "Dom TNT w dżungli",
+   "rok": 2025,
+   "elementy": 287,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21276",
+   "nazwa": "Creeper",
+   "rok": 2025,
+   "elementy": 665,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21277",
+   "nazwa": "Kilofowa kopalnia",
+   "rok": 2025,
+   "elementy": 530,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21278",
+   "nazwa": "Kryjówka rozbójników i dewastatorów",
+   "rok": 2025,
+   "elementy": 665,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21279",
+   "nazwa": "Wieża Endermana",
+   "rok": 2025,
+   "elementy": 867,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21280",
+   "nazwa": "Kalendarz adwentowy 2025",
+   "rok": 2025,
+   "elementy": 300,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21282",
+   "nazwa": "Papugowe domki",
+   "rok": 2025,
+   "elementy": 535,
+   "status": "eol"
+  },
+  {
+   "numer": "30705",
+   "nazwa": "Walka w bujnej jaskini",
+   "rok": 2025,
+   "elementy": 40,
+   "status": "dostepny"
+  },
+  {
+   "numer": "472506",
+   "nazwa": "Hero with Crafting Table, Furnace and Anvil",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "662501",
+   "nazwa": "Hero with Elytra and Phantom",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "662502",
+   "nazwa": "Steve with Creeper and TNT",
+   "rok": 2025,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "662503",
+   "nazwa": "Orc Warrior with Baby Hoglin and Magma Cube",
+   "rok": 2025,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "662504",
+   "nazwa": "Ghast",
+   "rok": 2025,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "662505",
+   "nazwa": "Diver and Turtle",
+   "rok": 2025,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "662506",
+   "nazwa": "Wither Skeleton and Ender Explorer with TNT",
+   "rok": 2025,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "662507",
+   "nazwa": "Enderman Duel",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "662508",
+   "nazwa": "Diamond Hero, Creeper and Slime",
+   "rok": 2025,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "662509",
+   "nazwa": "Hero with Skeleton Horseman",
+   "rok": 2025,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "662510",
+   "nazwa": "Hero with Zombie and TNT Launcher",
+   "rok": 2025,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "662511",
+   "nazwa": "Hero with Husk",
+   "rok": 2025,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "662512",
+   "nazwa": "Ender Knight with Shulker",
+   "rok": 2025,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "662513",
+   "nazwa": "Pirate with Frog, Slime and Cartography Table",
+   "rok": 2025,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "66805",
+   "nazwa": "World Explorer Gift Set",
+   "rok": 2025,
+   "elementy": 522,
+   "status": "eol"
+  },
+  {
+   "numer": "66807",
+   "nazwa": "Infinite Worlds Gift Set",
+   "rok": 2025,
+   "elementy": 789,
+   "status": "eol"
+  },
+  {
+   "numer": "21582",
+   "nazwa": "Kurzy jeździec",
+   "rok": 2026,
+   "elementy": 344,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21583",
+   "nazwa": "Przygoda Steve'a w Tajdze",
+   "rok": 2026,
+   "elementy": 79,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21584",
+   "nazwa": "Podróż przez portal Netheru",
+   "rok": 2026,
+   "elementy": 192,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21585",
+   "nazwa": "Farma kurczaków",
+   "rok": 2026,
+   "elementy": 233,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21586",
+   "nazwa": "Blady ogród",
+   "rok": 2026,
+   "elementy": 243,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21587",
+   "nazwa": "Loch Zombie",
+   "rok": 2026,
+   "elementy": 284,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21588",
+   "nazwa": "Lis",
+   "rok": 2026,
+   "elementy": 497,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21589",
+   "nazwa": "Minibiomy",
+   "rok": 2026,
+   "elementy": 797,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21590",
+   "nazwa": "Walka z Witherem",
+   "rok": 2026,
+   "elementy": 494,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21591",
+   "nazwa": "Bitwa z Twisted Wardenem",
+   "rok": 2026,
+   "elementy": 438,
+   "status": "eol"
+  },
+  {
+   "numer": "21592",
+   "nazwa": "Atak kurzego jeźdźca na pustyni",
+   "rok": 2026,
+   "elementy": 428,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21593",
+   "nazwa": "Przetrwanie pierwszej nocy",
+   "rok": 2026,
+   "elementy": 301,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21594",
+   "nazwa": "Szkielet",
+   "rok": 2026,
+   "elementy": 502,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21595",
+   "nazwa": "Smok Kresu",
+   "rok": 2026,
+   "elementy": 710,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21596",
+   "nazwa": "Najazd przywoływaczy na wioskę",
+   "rok": 2026,
+   "elementy": 607,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21597",
+   "nazwa": "Stacja Ghasta",
+   "rok": 2026,
+   "elementy": 754,
+   "status": "dostepny"
+  },
+  {
+   "numer": "21598",
+   "nazwa": "Podwodna przygoda",
+   "rok": 2026,
+   "elementy": 310,
+   "status": "eol"
+  },
+  {
+   "numer": "30732",
+   "nazwa": "Potyczka Alex przy ognisku",
+   "rok": 2026,
+   "elementy": 31,
+   "status": "dostepny"
+  },
+  {
+   "numer": "66833",
+   "nazwa": "Adventure Worlds Gift Set",
+   "rok": 2026,
+   "elementy": 392,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002246",
+   "nazwa": "Hero, Stray and Snowbiome",
+   "rok": 2026,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002247",
+   "nazwa": "Realm Raider with Creeper and TNT Launcher",
+   "rok": 2026,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002248",
+   "nazwa": "Hero and Blaze",
+   "rok": 2026,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002249",
+   "nazwa": "Hero with Illager",
+   "rok": 2026,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002250",
+   "nazwa": "Blacksmith with Armour and Smithing Table",
+   "rok": 2026,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002251",
+   "nazwa": "Cactus Knight with Breeze",
+   "rok": 2026,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002252",
+   "nazwa": "Space Sentinel with Enderman and Endermite",
+   "rok": 2026,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002260",
+   "nazwa": "Magma Cube",
+   "rok": 2026,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "MCPIG",
+   "nazwa": "Minecraft M&T - Pig",
+   "rok": 2026,
    "status": "eol"
   }
  ]
