@@ -12578,6 +12578,1807 @@
  ],
  "City": [
   {
+   "numer": "11911",
+   "nazwa": "City: Build Your Own Adventure parts",
+   "rok": 2016,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "30346",
+   "nazwa": "Prison Island Helicopter",
+   "rok": 2016,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "30347",
+   "nazwa": "Fire Car",
+   "rok": 2016,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "30348",
+   "nazwa": "Polybag Mini wywrotka",
+   "rok": 2016,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "30349",
+   "nazwa": "Sports Car",
+   "rok": 2016,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "30350",
+   "nazwa": "Volcano Jackhammer",
+   "rok": 2016,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "5004404",
+   "nazwa": "Police Chase",
+   "rok": 2016,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "60100",
+   "nazwa": "Lotnisko - zestaw startowy",
+   "rok": 2016,
+   "elementy": 81,
+   "status": "eol"
+  },
+  {
+   "numer": "60101",
+   "nazwa": "Samolot transportowy",
+   "rok": 2016,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "60102",
+   "nazwa": "Lotnisko - obsługa VIP-ów",
+   "rok": 2016,
+   "elementy": 364,
+   "status": "eol"
+  },
+  {
+   "numer": "60103",
+   "nazwa": "Pokazy lotnicze",
+   "rok": 2016,
+   "elementy": 670,
+   "status": "eol"
+  },
+  {
+   "numer": "60104",
+   "nazwa": "Lotniskowy terminal pasażerski",
+   "rok": 2016,
+   "elementy": 694,
+   "status": "eol"
+  },
+  {
+   "numer": "60105",
+   "nazwa": "Strażacki quad",
+   "rok": 2016,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "60106",
+   "nazwa": "Strażacy - zestaw startowy",
+   "rok": 2016,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "60107",
+   "nazwa": "Wóz strażacki z drabiną",
+   "rok": 2016,
+   "elementy": 214,
+   "status": "eol"
+  },
+  {
+   "numer": "60108",
+   "nazwa": "Helikopter strażacki",
+   "rok": 2016,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "60109",
+   "nazwa": "Łódź strażacka",
+   "rok": 2016,
+   "elementy": 412,
+   "status": "eol"
+  },
+  {
+   "numer": "60110",
+   "nazwa": "Remiza strażacka",
+   "rok": 2016,
+   "elementy": 919,
+   "status": "eol"
+  },
+  {
+   "numer": "60111",
+   "nazwa": "Strażacki wóz techniczny",
+   "rok": 2016,
+   "elementy": 368,
+   "status": "eol"
+  },
+  {
+   "numer": "60112",
+   "nazwa": "Wóz strażacki",
+   "rok": 2016,
+   "elementy": 376,
+   "status": "eol"
+  },
+  {
+   "numer": "60113",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2016,
+   "elementy": 104,
+   "status": "eol"
+  },
+  {
+   "numer": "60114",
+   "nazwa": "Łódź wyścigowa",
+   "rok": 2016,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "60115",
+   "nazwa": "Terenówka",
+   "rok": 2016,
+   "elementy": 176,
+   "status": "eol"
+  },
+  {
+   "numer": "60116",
+   "nazwa": "Samolot ratowniczy",
+   "rok": 2016,
+   "elementy": 183,
+   "status": "eol"
+  },
+  {
+   "numer": "60117",
+   "nazwa": "Van z przyczepą kampingową",
+   "rok": 2016,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "60118",
+   "nazwa": "Śmieciarka",
+   "rok": 2016,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "60119",
+   "nazwa": "Prom",
+   "rok": 2016,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "60120",
+   "nazwa": "Wulkan - zestaw startowy",
+   "rok": 2016,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "60121",
+   "nazwa": "Samochód naukowców",
+   "rok": 2016,
+   "elementy": 175,
+   "status": "eol"
+  },
+  {
+   "numer": "60122",
+   "nazwa": "Łazik wulkaniczny",
+   "rok": 2016,
+   "elementy": 324,
+   "status": "eol"
+  },
+  {
+   "numer": "60123",
+   "nazwa": "Helikopter dostawczy",
+   "rok": 2016,
+   "elementy": 330,
+   "status": "eol"
+  },
+  {
+   "numer": "60124",
+   "nazwa": "Baza badaczy wulkanów",
+   "rok": 2016,
+   "elementy": 824,
+   "status": "eol"
+  },
+  {
+   "numer": "60125",
+   "nazwa": "Ciężki helikopter transportowy",
+   "rok": 2016,
+   "elementy": 1277,
+   "status": "eol"
+  },
+  {
+   "numer": "60126",
+   "nazwa": "Ucieczka na kole",
+   "rok": 2016,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "60127",
+   "nazwa": "Więzienna Wyspa - zestaw startowy",
+   "rok": 2016,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "60128",
+   "nazwa": "Policyjny pościg",
+   "rok": 2016,
+   "elementy": 184,
+   "status": "eol"
+  },
+  {
+   "numer": "60129",
+   "nazwa": "Policyjna łódź patrolowa",
+   "rok": 2016,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "60130",
+   "nazwa": "Więzienna Wyspa",
+   "rok": 2016,
+   "elementy": 754,
+   "status": "eol"
+  },
+  {
+   "numer": "60131",
+   "nazwa": "Wyspa rabusiów",
+   "rok": 2016,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "60132",
+   "nazwa": "Stacja paliw",
+   "rok": 2016,
+   "elementy": 515,
+   "status": "eol"
+  },
+  {
+   "numer": "60133",
+   "nazwa": "Kalendarz adwentowy 2016",
+   "rok": 2016,
+   "elementy": 290,
+   "status": "eol"
+  },
+  {
+   "numer": "60134",
+   "nazwa": "Zabawa w parku",
+   "rok": 2016,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "66540",
+   "nazwa": "City Volcano Value Pack",
+   "rok": 2016,
+   "elementy": 829,
+   "status": "eol"
+  },
+  {
+   "numer": "66541",
+   "nazwa": "City Fire Value Pack",
+   "rok": 2016,
+   "elementy": 368,
+   "status": "eol"
+  },
+  {
+   "numer": "853570",
+   "nazwa": "Police Accessory Set",
+   "rok": 2016,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "30351",
+   "nazwa": "Police Helicopter",
+   "rok": 2017,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "30352",
+   "nazwa": "Polybag Samochód policyjny",
+   "rok": 2017,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "30353",
+   "nazwa": "Tractor",
+   "rok": 2017,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30354",
+   "nazwa": "Hot Rod",
+   "rok": 2017,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "30355",
+   "nazwa": "Jungle ATV",
+   "rok": 2017,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "40170",
+   "nazwa": "Build My City Accessory Set",
+   "rok": 2017,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "40175",
+   "nazwa": "City Police Mission Pack",
+   "rok": 2017,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "40177",
+   "nazwa": "City Jungle Explorer Kit",
+   "rok": 2017,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "5004940",
+   "nazwa": "City Jungle Minifigure Collection",
+   "rok": 2017,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "60135",
+   "nazwa": "Pościg motocyklem",
+   "rok": 2017,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "60136",
+   "nazwa": "Policja - zestaw startowy",
+   "rok": 2017,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "60137",
+   "nazwa": "Eskorta policyjna",
+   "rok": 2017,
+   "elementy": 144,
+   "status": "eol"
+  },
+  {
+   "numer": "60138",
+   "nazwa": "Szybki pościg",
+   "rok": 2017,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "60139",
+   "nazwa": "Mobilne centrum dowodzenia",
+   "rok": 2017,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "60140",
+   "nazwa": "Włamanie buldożerem",
+   "rok": 2017,
+   "elementy": 561,
+   "status": "eol"
+  },
+  {
+   "numer": "60141",
+   "nazwa": "Posterunek policji",
+   "rok": 2017,
+   "elementy": 894,
+   "status": "eol"
+  },
+  {
+   "numer": "60142",
+   "nazwa": "Furgonetka do przewozu pieniędzy",
+   "rok": 2017,
+   "elementy": 138,
+   "status": "eol"
+  },
+  {
+   "numer": "60143",
+   "nazwa": "Skok na transporter samochodów",
+   "rok": 2017,
+   "elementy": 403,
+   "status": "eol"
+  },
+  {
+   "numer": "60144",
+   "nazwa": "Samolot wyścigowy",
+   "rok": 2017,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "60145",
+   "nazwa": "Łazik",
+   "rok": 2017,
+   "elementy": 81,
+   "status": "eol"
+  },
+  {
+   "numer": "60146",
+   "nazwa": "Kaskaderska terenówka",
+   "rok": 2017,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "60147",
+   "nazwa": "Łódź rybacka",
+   "rok": 2017,
+   "elementy": 144,
+   "status": "eol"
+  },
+  {
+   "numer": "60148",
+   "nazwa": "Wyścigowy zespół quadowy",
+   "rok": 2017,
+   "elementy": 239,
+   "status": "eol"
+  },
+  {
+   "numer": "60149",
+   "nazwa": "Terenówka 4x4 z katamaranem",
+   "rok": 2017,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "60150",
+   "nazwa": "Foodtruck z pizzą",
+   "rok": 2017,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "60151",
+   "nazwa": "Transporter dragsterów",
+   "rok": 2017,
+   "elementy": 333,
+   "status": "eol"
+  },
+  {
+   "numer": "60152",
+   "nazwa": "Zamiatacz ulic i koparka",
+   "rok": 2017,
+   "elementy": 299,
+   "status": "eol"
+  },
+  {
+   "numer": "60153",
+   "nazwa": "Zabawa na plaży",
+   "rok": 2017,
+   "elementy": 169,
+   "status": "eol"
+  },
+  {
+   "numer": "60154",
+   "nazwa": "Przystanek autobusowy",
+   "rok": 2017,
+   "elementy": 337,
+   "status": "eol"
+  },
+  {
+   "numer": "60155",
+   "nazwa": "Kalendarz adwentowy 2017",
+   "rok": 2017,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "60156",
+   "nazwa": "Dżunglowy łazik",
+   "rok": 2017,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "60157",
+   "nazwa": "Dżungla - zestaw startowy",
+   "rok": 2017,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "60158",
+   "nazwa": "Helikopter transportowy",
+   "rok": 2017,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "60159",
+   "nazwa": "Misja półgąsienicowej terenówki",
+   "rok": 2017,
+   "elementy": 378,
+   "status": "eol"
+  },
+  {
+   "numer": "60160",
+   "nazwa": "Mobilne laboratorium",
+   "rok": 2017,
+   "elementy": 426,
+   "status": "eol"
+  },
+  {
+   "numer": "60161",
+   "nazwa": "Baza w dżungli",
+   "rok": 2017,
+   "elementy": 813,
+   "status": "eol"
+  },
+  {
+   "numer": "60162",
+   "nazwa": "Helikopter w dżungli",
+   "rok": 2017,
+   "elementy": 1250,
+   "status": "eol"
+  },
+  {
+   "numer": "60163",
+   "nazwa": "Straż przybrzeżna - zestaw startowy",
+   "rok": 2017,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "60164",
+   "nazwa": "Hydroplan ratowniczy",
+   "rok": 2017,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "60165",
+   "nazwa": "Terenówka szybkiego reagowania",
+   "rok": 2017,
+   "elementy": 347,
+   "status": "eol"
+  },
+  {
+   "numer": "60166",
+   "nazwa": "Helikopter ratunkowy do zadań specjalnych",
+   "rok": 2017,
+   "elementy": 415,
+   "status": "eol"
+  },
+  {
+   "numer": "60167",
+   "nazwa": "Kwatera straży przybrzeżnej",
+   "rok": 2017,
+   "elementy": 792,
+   "status": "eol"
+  },
+  {
+   "numer": "60168",
+   "nazwa": "Na ratunek żaglówce",
+   "rok": 2017,
+   "elementy": 195,
+   "status": "eol"
+  },
+  {
+   "numer": "60169",
+   "nazwa": "Terminal towarowy",
+   "rok": 2017,
+   "elementy": 740,
+   "status": "eol"
+  },
+  {
+   "numer": "6182882",
+   "nazwa": "City Police Mission Pack",
+   "rok": 2017,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "66550",
+   "nazwa": "City Police Value Pack",
+   "rok": 2017,
+   "elementy": 518,
+   "status": "eol"
+  },
+  {
+   "numer": "66559",
+   "nazwa": "Ultimate LEGO City Hero Pack",
+   "rok": 2017,
+   "elementy": 416,
+   "status": "eol"
+  },
+  {
+   "numer": "66580",
+   "nazwa": "Holiday Copack",
+   "rok": 2017,
+   "elementy": 1129,
+   "status": "eol"
+  },
+  {
+   "numer": "951701",
+   "nazwa": "Policeman and crook",
+   "rok": 2017,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "951702",
+   "nazwa": "Workman and wheelbarrow",
+   "rok": 2017,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "951703",
+   "nazwa": "Diver and shark",
+   "rok": 2017,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "951704",
+   "nazwa": "Fireman",
+   "rok": 2017,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "30356",
+   "nazwa": "Hot Dog Stand",
+   "rok": 2018,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30357",
+   "nazwa": "Polybag Roboty drogowe",
+   "rok": 2018,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "30358",
+   "nazwa": "Dragster",
+   "rok": 2018,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30359",
+   "nazwa": "Police Water Plane",
+   "rok": 2018,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "30360",
+   "nazwa": "Arctic Ice Saw",
+   "rok": 2018,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "40302",
+   "nazwa": "Become my City Hero",
+   "rok": 2018,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "40303",
+   "nazwa": "Vehicle Set",
+   "rok": 2018,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "5005554",
+   "nazwa": "LEGO City Easter Bundle",
+   "rok": 2018,
+   "status": "eol"
+  },
+  {
+   "numer": "60170",
+   "nazwa": "Pościg za terenówką",
+   "rok": 2018,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "60171",
+   "nazwa": "Uciekinierzy w górach",
+   "rok": 2018,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "60172",
+   "nazwa": "Pościg górską drogą",
+   "rok": 2018,
+   "elementy": 297,
+   "status": "eol"
+  },
+  {
+   "numer": "60173",
+   "nazwa": "Aresztowanie w górach",
+   "rok": 2018,
+   "elementy": 303,
+   "status": "eol"
+  },
+  {
+   "numer": "60174",
+   "nazwa": "Górski posterunek policji",
+   "rok": 2018,
+   "elementy": 663,
+   "status": "eol"
+  },
+  {
+   "numer": "60175",
+   "nazwa": "Napad nad górską rzeką",
+   "rok": 2018,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "60176",
+   "nazwa": "Ucieczka rzeką",
+   "rok": 2018,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "60177",
+   "nazwa": "Odrzutowiec pokazowy",
+   "rok": 2018,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "60178",
+   "nazwa": "Wyścigowy samochód",
+   "rok": 2018,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "60179",
+   "nazwa": "Helikopter medyczny",
+   "rok": 2018,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "60180",
+   "nazwa": "Monster truck",
+   "rok": 2018,
+   "elementy": 192,
+   "status": "eol"
+  },
+  {
+   "numer": "60181",
+   "nazwa": "Traktor leśny",
+   "rok": 2018,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "60182",
+   "nazwa": "Pickup z przyczepą",
+   "rok": 2018,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "60183",
+   "nazwa": "Transporter ciężkich ładunków",
+   "rok": 2018,
+   "elementy": 310,
+   "status": "eol"
+  },
+  {
+   "numer": "60184",
+   "nazwa": "Ekipa górnicza",
+   "rok": 2018,
+   "elementy": 82,
+   "status": "eol"
+  },
+  {
+   "numer": "60185",
+   "nazwa": "Kruszarka górnicza",
+   "rok": 2018,
+   "elementy": 127,
+   "status": "eol"
+  },
+  {
+   "numer": "60186",
+   "nazwa": "Ciężkie wiertło górnicze",
+   "rok": 2018,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "60188",
+   "nazwa": "Kopalnia",
+   "rok": 2018,
+   "elementy": 883,
+   "status": "eol"
+  },
+  {
+   "numer": "60190",
+   "nazwa": "Arktyczny ślizgacz",
+   "rok": 2018,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "60191",
+   "nazwa": "Arktyczny zespół badawczy",
+   "rok": 2018,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "60192",
+   "nazwa": "Arktyczny łazik lodowy",
+   "rok": 2018,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "60193",
+   "nazwa": "Arktyczny transport powietrzny",
+   "rok": 2018,
+   "elementy": 277,
+   "status": "eol"
+  },
+  {
+   "numer": "60194",
+   "nazwa": "Arktyczna terenówka zwiadowcza",
+   "rok": 2018,
+   "elementy": 322,
+   "status": "eol"
+  },
+  {
+   "numer": "60195",
+   "nazwa": "Arktyczna baza mobilna",
+   "rok": 2018,
+   "elementy": 786,
+   "status": "eol"
+  },
+  {
+   "numer": "60196",
+   "nazwa": "Arktyczny samolot dostawczy",
+   "rok": 2018,
+   "elementy": 707,
+   "status": "eol"
+  },
+  {
+   "numer": "60197",
+   "nazwa": "Pociąg pasażerski",
+   "rok": 2018,
+   "elementy": 677,
+   "status": "eol"
+  },
+  {
+   "numer": "60198",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2018,
+   "elementy": 1226,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60200",
+   "nazwa": "Stolica",
+   "rok": 2018,
+   "elementy": 1211,
+   "status": "eol"
+  },
+  {
+   "numer": "60201",
+   "nazwa": "Kalendarz adwentowy 2018",
+   "rok": 2018,
+   "elementy": 313,
+   "status": "eol"
+  },
+  {
+   "numer": "60202",
+   "nazwa": "Niesamowite przygody",
+   "rok": 2018,
+   "elementy": 164,
+   "status": "eol"
+  },
+  {
+   "numer": "60204",
+   "nazwa": "Szpital",
+   "rok": 2018,
+   "elementy": 861,
+   "status": "eol"
+  },
+  {
+   "numer": "60205",
+   "nazwa": "Tory",
+   "rok": 2018,
+   "elementy": 20,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60238",
+   "nazwa": "Zwrotnice",
+   "rok": 2018,
+   "elementy": 8,
+   "status": "dostepny"
+  },
+  {
+   "numer": "66586",
+   "nazwa": "2-in-1 Value Pack",
+   "rok": 2018,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "951805",
+   "nazwa": "Police Buggy",
+   "rok": 2018,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "951806",
+   "nazwa": "Miner",
+   "rok": 2018,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "951807",
+   "nazwa": "Race Car",
+   "rok": 2018,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "951808",
+   "nazwa": "Motorcycle and Rider",
+   "rok": 2018,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "951809",
+   "nazwa": "Refuse Operative",
+   "rok": 2018,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "951810",
+   "nazwa": "Arctic Explorer with Snowmobile",
+   "rok": 2018,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30361",
+   "nazwa": "Strażacki quad",
+   "rok": 2019,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "30362",
+   "nazwa": "Sky Police Jetpack",
+   "rok": 2019,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30363",
+   "nazwa": "Race Boat",
+   "rok": 2019,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "30364",
+   "nazwa": "Popcorn Cart",
+   "rok": 2019,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30365",
+   "nazwa": "Satelita",
+   "rok": 2019,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "40345",
+   "nazwa": "Mars Exploration Minifigure Pack",
+   "rok": 2019,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "60203",
+   "nazwa": "Kurort narciarski",
+   "rok": 2019,
+   "elementy": 806,
+   "status": "eol"
+  },
+  {
+   "numer": "60206",
+   "nazwa": "Policyjny patrol powietrzny",
+   "rok": 2019,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "60207",
+   "nazwa": "Pościg policyjnym dronem",
+   "rok": 2019,
+   "elementy": 192,
+   "status": "eol"
+  },
+  {
+   "numer": "60208",
+   "nazwa": "Aresztowanie spadochroniarza",
+   "rok": 2019,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "60209",
+   "nazwa": "Rabunek diamentów",
+   "rok": 2019,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "60210",
+   "nazwa": "Baza policji powietrznej",
+   "rok": 2019,
+   "elementy": 529,
+   "status": "eol"
+  },
+  {
+   "numer": "60212",
+   "nazwa": "Płonący grill",
+   "rok": 2019,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "60213",
+   "nazwa": "Pożar w dokach",
+   "rok": 2019,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "60214",
+   "nazwa": "Na ratunek w płonącym barze",
+   "rok": 2019,
+   "elementy": 327,
+   "status": "eol"
+  },
+  {
+   "numer": "60215",
+   "nazwa": "Remiza strażacka",
+   "rok": 2019,
+   "elementy": 509,
+   "status": "eol"
+  },
+  {
+   "numer": "60216",
+   "nazwa": "Straż pożarna w śródmieściu",
+   "rok": 2019,
+   "elementy": 943,
+   "status": "eol"
+  },
+  {
+   "numer": "60217",
+   "nazwa": "Samolot strażacki",
+   "rok": 2019,
+   "elementy": 363,
+   "status": "eol"
+  },
+  {
+   "numer": "60218",
+   "nazwa": "Pustynna wyścigówka",
+   "rok": 2019,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "60219",
+   "nazwa": "Koparka",
+   "rok": 2019,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "60220",
+   "nazwa": "Śmieciarka",
+   "rok": 2019,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "60221",
+   "nazwa": "Jacht",
+   "rok": 2019,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "60222",
+   "nazwa": "Pług gąsienicowy",
+   "rok": 2019,
+   "elementy": 197,
+   "status": "eol"
+  },
+  {
+   "numer": "60223",
+   "nazwa": "Transporter kombajnu",
+   "rok": 2019,
+   "elementy": 358,
+   "status": "eol"
+  },
+  {
+   "numer": "60224",
+   "nazwa": "Naprawa satelity",
+   "rok": 2019,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "60225",
+   "nazwa": "Jazda próbna łazikiem",
+   "rok": 2019,
+   "elementy": 202,
+   "status": "eol"
+  },
+  {
+   "numer": "60226",
+   "nazwa": "Wyprawa badawcza na Marsa",
+   "rok": 2019,
+   "elementy": 273,
+   "status": "eol"
+  },
+  {
+   "numer": "60227",
+   "nazwa": "Stacja kosmiczna na Księżycu",
+   "rok": 2019,
+   "elementy": 412,
+   "status": "eol"
+  },
+  {
+   "numer": "60228",
+   "nazwa": "Centrum lotów kosmicznych",
+   "rok": 2019,
+   "elementy": 837,
+   "status": "eol"
+  },
+  {
+   "numer": "60229",
+   "nazwa": "Transport i montaż rakiety",
+   "rok": 2019,
+   "elementy": 1055,
+   "status": "eol"
+  },
+  {
+   "numer": "60230",
+   "nazwa": "Badania kosmiczne - zestaw minifigurek",
+   "rok": 2019,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "60231",
+   "nazwa": "Terenówka komendantki straży pożarnej",
+   "rok": 2019,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "60232",
+   "nazwa": "Centrum motoryzacyjne",
+   "rok": 2019,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "60233",
+   "nazwa": "Otwarcie sklepu z pączkami",
+   "rok": 2019,
+   "elementy": 790,
+   "status": "eol"
+  },
+  {
+   "numer": "60234",
+   "nazwa": "Wesołe miasteczko - zestaw minifigurek",
+   "rok": 2019,
+   "elementy": 183,
+   "status": "eol"
+  },
+  {
+   "numer": "60235",
+   "nazwa": "Kalendarz adwentowy 2019",
+   "rok": 2019,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "60236",
+   "nazwa": "Ulica i skrzyżowanie",
+   "rok": 2019,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "60237",
+   "nazwa": "Zakręt i skrzyżowanie",
+   "rok": 2019,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "60239",
+   "nazwa": "Samochód policyjny",
+   "rok": 2019,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "60240",
+   "nazwa": "Przygoda w kajaku",
+   "rok": 2019,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "66587",
+   "nazwa": "Bonus/Value pack",
+   "rok": 2019,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "66615",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "66619",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "951901",
+   "nazwa": "Police Officer and Jet",
+   "rok": 2019,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "951902",
+   "nazwa": "Fireman",
+   "rok": 2019,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "951903",
+   "nazwa": "Lawnmower",
+   "rok": 2019,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "951904",
+   "nazwa": "Police Officer with Jetpack",
+   "rok": 2019,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "951905",
+   "nazwa": "Gyrocopter",
+   "rok": 2019,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "951906",
+   "nazwa": "Diver",
+   "rok": 2019,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "951907",
+   "nazwa": "Police Buggy",
+   "rok": 2019,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "951908",
+   "nazwa": "Astronaut",
+   "rok": 2019,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "951909",
+   "nazwa": "Pizza Delivery Biker",
+   "rok": 2019,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "951910",
+   "nazwa": "Traffic Cop",
+   "rok": 2019,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "951911",
+   "nazwa": "Space Buggy",
+   "rok": 2019,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "951912",
+   "nazwa": "Lumberjack",
+   "rok": 2019,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "11936",
+   "nazwa": "City Build Your Own Adventure: Police Chase parts",
+   "rok": 2020,
+   "status": "eol"
+  },
+  {
+   "numer": "30366",
+   "nazwa": "Samochód policyjny",
+   "rok": 2020,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "30367",
+   "nazwa": "Police Helicopter",
+   "rok": 2020,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "30368",
+   "nazwa": "Fire Rescue Water Scooter",
+   "rok": 2020,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30369",
+   "nazwa": "Beach Buggy",
+   "rok": 2020,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "30370",
+   "nazwa": "Ocean Diver",
+   "rok": 2020,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "40372",
+   "nazwa": "Police MF Accessory Set",
+   "rok": 2020,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "60241",
+   "nazwa": "Oddział policyjny z psem",
+   "rok": 2020,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "60242",
+   "nazwa": "Aresztowanie na autostradzie",
+   "rok": 2020,
+   "elementy": 185,
+   "status": "eol"
+  },
+  {
+   "numer": "60243",
+   "nazwa": "Pościg helikopterem policyjnym",
+   "rok": 2020,
+   "elementy": 212,
+   "status": "eol"
+  },
+  {
+   "numer": "60244",
+   "nazwa": "Laweta helikoptera policyjnego",
+   "rok": 2020,
+   "elementy": 317,
+   "status": "eol"
+  },
+  {
+   "numer": "60245",
+   "nazwa": "Napad z monster truckiem",
+   "rok": 2020,
+   "elementy": 362,
+   "status": "eol"
+  },
+  {
+   "numer": "60246",
+   "nazwa": "Posterunek policji",
+   "rok": 2020,
+   "elementy": 743,
+   "status": "eol"
+  },
+  {
+   "numer": "60247",
+   "nazwa": "Pożar lasu",
+   "rok": 2020,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "60248",
+   "nazwa": "Helikopter strażacki leci na ratunek",
+   "rok": 2020,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "60249",
+   "nazwa": "Zamiatarka",
+   "rok": 2020,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "60250",
+   "nazwa": "Samolot pocztowy",
+   "rok": 2020,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "60251",
+   "nazwa": "Monster truck",
+   "rok": 2020,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "60252",
+   "nazwa": "Buldożer budowlany",
+   "rok": 2020,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "60253",
+   "nazwa": "Furgonetka z lodami",
+   "rok": 2020,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "60254",
+   "nazwa": "Transporter łodzi wyścigowej",
+   "rok": 2020,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "60255",
+   "nazwa": "Ekipa kaskaderów",
+   "rok": 2020,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "60256",
+   "nazwa": "Samochody wyścigowe",
+   "rok": 2020,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "60257",
+   "nazwa": "Stacja benzynowa",
+   "rok": 2020,
+   "elementy": 354,
+   "status": "eol"
+  },
+  {
+   "numer": "60258",
+   "nazwa": "Warsztat tuningowy",
+   "rok": 2020,
+   "elementy": 897,
+   "status": "eol"
+  },
+  {
+   "numer": "60260",
+   "nazwa": "Powietrzny wyścig",
+   "rok": 2020,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "60261",
+   "nazwa": "Centralny port lotniczy",
+   "rok": 2020,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "60262",
+   "nazwa": "Samolot pasażerski",
+   "rok": 2020,
+   "elementy": 669,
+   "status": "eol"
+  },
+  {
+   "numer": "60263",
+   "nazwa": "Oceaniczna miniłódź podwodna",
+   "rok": 2020,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "60264",
+   "nazwa": "Łódź podwodna badaczy oceanu",
+   "rok": 2020,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "60265",
+   "nazwa": "Baza badaczy oceanu",
+   "rok": 2020,
+   "elementy": 497,
+   "status": "eol"
+  },
+  {
+   "numer": "60266",
+   "nazwa": "Statek badaczy oceanu",
+   "rok": 2020,
+   "elementy": 745,
+   "status": "eol"
+  },
+  {
+   "numer": "60267",
+   "nazwa": "Terenówka na safari",
+   "rok": 2020,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "60268",
+   "nazwa": "Kalendarz adwentowy 2020",
+   "rok": 2020,
+   "elementy": 342,
+   "status": "eol"
+  },
+  {
+   "numer": "60270",
+   "nazwa": "Policyjny zestaw klocków",
+   "rok": 2020,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "60271",
+   "nazwa": "Rynek",
+   "rok": 2020,
+   "elementy": 1517,
+   "status": "eol"
+  },
+  {
+   "numer": "60272",
+   "nazwa": "Transport łodzi policji specjalnej",
+   "rok": 2020,
+   "elementy": 166,
+   "status": "eol"
+  },
+  {
+   "numer": "60273",
+   "nazwa": "Policyjny pościg za wiertnicą",
+   "rok": 2020,
+   "elementy": 179,
+   "status": "eol"
+  },
+  {
+   "numer": "60274",
+   "nazwa": "Policja specjalna i zatrzymanie w latarni morskiej",
+   "rok": 2020,
+   "elementy": 189,
+   "status": "eol"
+  },
+  {
+   "numer": "66636",
+   "nazwa": "City 2 in 1 pack",
+   "rok": 2020,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "66637",
+   "nazwa": "City 2 in 1 pack",
+   "rok": 2020,
+   "elementy": 173,
+   "status": "eol"
+  },
+  {
+   "numer": "66640",
+   "nazwa": "Vehicle Bundle 2 in 1",
+   "rok": 2020,
+   "elementy": 158,
+   "status": "eol"
+  },
+  {
+   "numer": "66643",
+   "nazwa": "3-in-1 Bundle Pack",
+   "rok": 2020,
+   "elementy": 377,
+   "status": "eol"
+  },
+  {
+   "numer": "66645",
+   "nazwa": "Space Bundle 2 in 1",
+   "rok": 2020,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "81007",
+   "nazwa": "Design your own LEGO City set",
+   "rok": 2020,
+   "status": "eol"
+  },
+  {
+   "numer": "862011",
+   "nazwa": "Diver and Shark",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "952001",
+   "nazwa": "Motorcycle Cop",
+   "rok": 2020,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "952002",
+   "nazwa": "Fireman and Drone",
+   "rok": 2020,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "952003",
+   "nazwa": "Eddy Erker with Bulldozer",
+   "rok": 2020,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "952005",
+   "nazwa": "Go-Kart and Driver",
+   "rok": 2020,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "952008",
+   "nazwa": "Jet-ski",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "952009",
+   "nazwa": "Fireman with quad bike",
+   "rok": 2020,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "952010",
+   "nazwa": "Motorbike",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "952011",
+   "nazwa": "Duke Detain",
+   "rok": 2020,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "952012",
+   "nazwa": "Diver",
+   "rok": 2020,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "952016",
+   "nazwa": "Policeman and Robber",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "952018",
+   "nazwa": "Harl Hubbs with Tamping Rammer",
+   "rok": 2020,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "952019",
+   "nazwa": "Scuba Diver and Shark",
+   "rok": 2020,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
    "numer": "30566",
    "nazwa": "Fire Helicopter",
    "rok": 2021,
@@ -13755,10 +15556,10 @@
   },
   {
    "numer": "60397",
-   "nazwa": "Zestaw karteczek (224 szt.)",
+   "nazwa": "Wyścig monster truckami",
    "rok": 2023,
    "elementy": 301,
-   "status": "dostepny"
+   "status": "eol"
   },
   {
    "numer": "60398",
