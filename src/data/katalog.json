@@ -12578,6 +12578,1581 @@
  ],
  "City": [
   {
+   "numer": "4778",
+   "nazwa": "Airline Promotional Set",
+   "rok": 2005,
+   "elementy": 108,
+   "status": "eol"
+  },
+  {
+   "numer": "4912",
+   "nazwa": "Police Jet Ski",
+   "rok": 2005,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "4914",
+   "nazwa": "Fire Chief's Car",
+   "rok": 2005,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "5531",
+   "nazwa": "Police Motorcycle",
+   "rok": 2005,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "5532",
+   "nazwa": "Fire Car",
+   "rok": 2005,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "65702",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "65743",
+   "nazwa": "City Construction Value Pack",
+   "rok": 2005,
+   "elementy": 226,
+   "status": "eol"
+  },
+  {
+   "numer": "65777",
+   "nazwa": "City Fire Value Pack",
+   "rok": 2005,
+   "elementy": 595,
+   "status": "eol"
+  },
+  {
+   "numer": "65778",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "65799",
+   "nazwa": "City Fire Value Pack",
+   "rok": 2005,
+   "elementy": 663,
+   "status": "eol"
+  },
+  {
+   "numer": "65800",
+   "nazwa": "City Construction Value Pack",
+   "rok": 2005,
+   "elementy": 1012,
+   "status": "eol"
+  },
+  {
+   "numer": "65809",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "65838",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 335,
+   "status": "eol"
+  },
+  {
+   "numer": "66069",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "66070",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "66107",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "66139",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "66171",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "66180",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "66182",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 335,
+   "status": "eol"
+  },
+  {
+   "numer": "66183",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 185,
+   "status": "eol"
+  },
+  {
+   "numer": "66185",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "66190",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "66244",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "66245",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "66249",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "7235",
+   "nazwa": "Motocykl policyjny",
+   "rok": 2005,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "7236",
+   "nazwa": "Radiowóz",
+   "rok": 2005,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "7237",
+   "nazwa": "Posterunek policji",
+   "rok": 2005,
+   "elementy": 586,
+   "status": "eol"
+  },
+  {
+   "numer": "7238",
+   "nazwa": "Śmigłowiec straży pożarnej",
+   "rok": 2005,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "7239",
+   "nazwa": "Wóz strażacki",
+   "rok": 2005,
+   "elementy": 214,
+   "status": "eol"
+  },
+  {
+   "numer": "7240",
+   "nazwa": "Remiza",
+   "rok": 2005,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "7241",
+   "nazwa": "Wóz dowódcy straży",
+   "rok": 2005,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "7242",
+   "nazwa": "Zamiatarka",
+   "rok": 2005,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "7243",
+   "nazwa": "Plac budowy",
+   "rok": 2005,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "7244",
+   "nazwa": "Motorówka",
+   "rok": 2005,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "7245",
+   "nazwa": "Konwój",
+   "rok": 2005,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "7246",
+   "nazwa": "Minikoparka",
+   "rok": 2005,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "7248",
+   "nazwa": "Koparka",
+   "rok": 2005,
+   "elementy": 127,
+   "status": "eol"
+  },
+  {
+   "numer": "7249",
+   "nazwa": "Ruchomy żuraw XXL",
+   "rok": 2005,
+   "elementy": 524,
+   "status": "eol"
+  },
+  {
+   "numer": "7266",
+   "nazwa": "Promotional Set",
+   "rok": 2005,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "7267",
+   "nazwa": "Paramedic",
+   "rok": 2005,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "7280",
+   "nazwa": "Drogi Odcinek prosty i skrzyżowanie",
+   "rok": 2005,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "7281",
+   "nazwa": "Drogi Skrzyżowanie i zakręt",
+   "rok": 2005,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "7324",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2005,
+   "elementy": 203,
+   "status": "eol"
+  },
+  {
+   "numer": "7344",
+   "nazwa": "Wywrotka",
+   "rok": 2005,
+   "elementy": 187,
+   "status": "eol"
+  },
+  {
+   "numer": "2928",
+   "nazwa": "City In-Flight 2006",
+   "rok": 2006,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "2928-2",
+   "nazwa": "City in-Flight 2016 (ANA version)",
+   "rok": 2006,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "66116",
+   "nazwa": "City Emergency Service Vehicles (Multipack)",
+   "rok": 2006,
+   "elementy": 618,
+   "status": "eol"
+  },
+  {
+   "numer": "66156",
+   "nazwa": "City Airport Exclusive Pack",
+   "rok": 2006,
+   "elementy": 1123,
+   "status": "eol"
+  },
+  {
+   "numer": "66166",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 549,
+   "status": "eol"
+  },
+  {
+   "numer": "66167",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 474,
+   "status": "eol"
+  },
+  {
+   "numer": "66168",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 785,
+   "status": "eol"
+  },
+  {
+   "numer": "66169",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 245,
+   "status": "eol"
+  },
+  {
+   "numer": "66179",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "66181",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 433,
+   "status": "eol"
+  },
+  {
+   "numer": "66184",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "66213",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 426,
+   "status": "eol"
+  },
+  {
+   "numer": "66214",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 667,
+   "status": "eol"
+  },
+  {
+   "numer": "66218",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "66248",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 525,
+   "status": "eol"
+  },
+  {
+   "numer": "66266",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "7237-2",
+   "nazwa": "Posterunek policji",
+   "rok": 2006,
+   "elementy": 589,
+   "status": "eol"
+  },
+  {
+   "numer": "7890",
+   "nazwa": "Ambulans",
+   "rok": 2006,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "7891",
+   "nazwa": "Lotniskowy wóz strażacki",
+   "rok": 2006,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "7892",
+   "nazwa": "Szpital",
+   "rok": 2006,
+   "elementy": 382,
+   "status": "eol"
+  },
+  {
+   "numer": "7893",
+   "nazwa": "Samolot pasażerski",
+   "rok": 2006,
+   "elementy": 401,
+   "status": "eol"
+  },
+  {
+   "numer": "7893-2",
+   "nazwa": "Passenger Plane -  ANA version",
+   "rok": 2006,
+   "elementy": 384,
+   "status": "eol"
+  },
+  {
+   "numer": "7894",
+   "nazwa": "Lotnisko",
+   "rok": 2006,
+   "elementy": 700,
+   "status": "eol"
+  },
+  {
+   "numer": "7895",
+   "nazwa": "Zwrotnica kolejowa",
+   "rok": 2006,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "7896",
+   "nazwa": "Tory proste i łukowe",
+   "rok": 2006,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "7897",
+   "nazwa": "Pociąg",
+   "rok": 2006,
+   "elementy": 501,
+   "status": "eol"
+  },
+  {
+   "numer": "7898",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2006,
+   "elementy": 856,
+   "status": "eol"
+  },
+  {
+   "numer": "7899",
+   "nazwa": "Motorówka policyjna",
+   "rok": 2006,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "7900",
+   "nazwa": "Ciężarówka",
+   "rok": 2006,
+   "elementy": 347,
+   "status": "eol"
+  },
+  {
+   "numer": "7901",
+   "nazwa": "Mechanik samolotowy",
+   "rok": 2006,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "7902",
+   "nazwa": "Karetka",
+   "rok": 2006,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "7903",
+   "nazwa": "Helikopter ratunkowy",
+   "rok": 2006,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "7904",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2006,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "7905",
+   "nazwa": "Żuraw budowlany",
+   "rok": 2006,
+   "elementy": 721,
+   "status": "eol"
+  },
+  {
+   "numer": "2064",
+   "nazwa": "Rescue Plane",
+   "rok": 2007,
+   "elementy": 116,
+   "status": "eol"
+  },
+  {
+   "numer": "4933",
+   "nazwa": "Street Sweeper",
+   "rok": 2007,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "4934",
+   "nazwa": "Police Swamp Boat",
+   "rok": 2007,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "4936",
+   "nazwa": "Doc & Patient",
+   "rok": 2007,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "4937",
+   "nazwa": "Life Guard",
+   "rok": 2007,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "4938",
+   "nazwa": "Fire 4x4",
+   "rok": 2007,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "4991",
+   "nazwa": "Police Helicopter",
+   "rok": 2007,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "4992",
+   "nazwa": "Fire Boat",
+   "rok": 2007,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "66175",
+   "nazwa": "City Essential Vehicles Collection",
+   "rok": 2007,
+   "elementy": 526,
+   "status": "eol"
+  },
+  {
+   "numer": "66177",
+   "nazwa": "City Rescue Pack",
+   "rok": 2007,
+   "elementy": 467,
+   "status": "eol"
+  },
+  {
+   "numer": "66193",
+   "nazwa": "City Medical Super Pack",
+   "rok": 2007,
+   "elementy": 815,
+   "status": "eol"
+  },
+  {
+   "numer": "66194",
+   "nazwa": "City Super Pack",
+   "rok": 2007,
+   "elementy": 1097,
+   "status": "eol"
+  },
+  {
+   "numer": "66195",
+   "nazwa": "City Super Pack",
+   "rok": 2007,
+   "elementy": 496,
+   "status": "eol"
+  },
+  {
+   "numer": "66239",
+   "nazwa": "City Trains Super Set",
+   "rok": 2007,
+   "elementy": 1267,
+   "status": "eol"
+  },
+  {
+   "numer": "7894-2",
+   "nazwa": "Airport - ANA version",
+   "rok": 2007,
+   "elementy": 677,
+   "status": "eol"
+  },
+  {
+   "numer": "7906",
+   "nazwa": "Łódź strażacka",
+   "rok": 2007,
+   "elementy": 187,
+   "status": "eol"
+  },
+  {
+   "numer": "7907",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2007,
+   "elementy": 232,
+   "status": "eol"
+  },
+  {
+   "numer": "7942",
+   "nazwa": "Terenowa ekipa ratunkowa",
+   "rok": 2007,
+   "elementy": 131,
+   "status": "eol"
+  },
+  {
+   "numer": "7944",
+   "nazwa": "Poduszkowiec strażacki",
+   "rok": 2007,
+   "elementy": 274,
+   "status": "eol"
+  },
+  {
+   "numer": "7945",
+   "nazwa": "Remiza",
+   "rok": 2007,
+   "elementy": 600,
+   "status": "eol"
+  },
+  {
+   "numer": "7990",
+   "nazwa": "Betoniarka",
+   "rok": 2007,
+   "elementy": 213,
+   "status": "eol"
+  },
+  {
+   "numer": "7991",
+   "nazwa": "Śmieciarka",
+   "rok": 2007,
+   "elementy": 206,
+   "status": "eol"
+  },
+  {
+   "numer": "7992",
+   "nazwa": "Podnośnik kontenerów",
+   "rok": 2007,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "7993",
+   "nazwa": "Stacja obsługi",
+   "rok": 2007,
+   "elementy": 402,
+   "status": "eol"
+  },
+  {
+   "numer": "7994",
+   "nazwa": "Wielki port dla morskich statków",
+   "rok": 2007,
+   "elementy": 659,
+   "status": "eol"
+  },
+  {
+   "numer": "7996",
+   "nazwa": "Zwrotnica kolejowa",
+   "rok": 2007,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "7997",
+   "nazwa": "Stacja kolejowa",
+   "rok": 2007,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "7998",
+   "nazwa": "Mega wywrotka",
+   "rok": 2007,
+   "elementy": 332,
+   "status": "eol"
+  },
+  {
+   "numer": "20002",
+   "nazwa": "4x4 Fire Truck",
+   "rok": 2008,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "2230",
+   "nazwa": "In-flight Helicopter and Raft",
+   "rok": 2008,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "4210",
+   "nazwa": "Coast Guard Platform",
+   "rok": 2008,
+   "elementy": 469,
+   "status": "eol"
+  },
+  {
+   "numer": "4897",
+   "nazwa": "Police Trike",
+   "rok": 2008,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "4898",
+   "nazwa": "Coast Guard Boat",
+   "rok": 2008,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "4900",
+   "nazwa": "Fire Helicopter",
+   "rok": 2008,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "5610",
+   "nazwa": "Budowniczy",
+   "rok": 2008,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "5611",
+   "nazwa": "Prace miejskie",
+   "rok": 2008,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "5612",
+   "nazwa": "Policjant",
+   "rok": 2008,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "5613",
+   "nazwa": "Strażak",
+   "rok": 2008,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "5620",
+   "nazwa": "Uliczny czyściciel",
+   "rok": 2008,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "5621",
+   "nazwa": "Kajak straży przybrzeżnej",
+   "rok": 2008,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "5625",
+   "nazwa": "Police 4x4",
+   "rok": 2008,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5626",
+   "nazwa": "Coast Guard Bike",
+   "rok": 2008,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "5627",
+   "nazwa": "Mini Dozer",
+   "rok": 2008,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "66174",
+   "nazwa": "City Fire Value Pack",
+   "rok": 2008,
+   "elementy": 595,
+   "status": "eol"
+  },
+  {
+   "numer": "66246",
+   "nazwa": "City Police Super Pack",
+   "rok": 2008,
+   "elementy": 650,
+   "status": "eol"
+  },
+  {
+   "numer": "66247",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 343,
+   "status": "eol"
+  },
+  {
+   "numer": "66255",
+   "nazwa": "City Emergency Services Value Pack",
+   "rok": 2008,
+   "elementy": 1030,
+   "status": "eol"
+  },
+  {
+   "numer": "66256",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 825,
+   "status": "eol"
+  },
+  {
+   "numer": "66257",
+   "nazwa": "City Police Super Pack 4-in-1",
+   "rok": 2008,
+   "elementy": 1134,
+   "status": "eol"
+  },
+  {
+   "numer": "66258",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 821,
+   "status": "eol"
+  },
+  {
+   "numer": "66260",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 1024,
+   "status": "eol"
+  },
+  {
+   "numer": "66265",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 177,
+   "status": "eol"
+  },
+  {
+   "numer": "66282",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 192,
+   "status": "eol"
+  },
+  {
+   "numer": "66290",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 1077,
+   "status": "eol"
+  },
+  {
+   "numer": "66306",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2008,
+   "elementy": 608,
+   "status": "eol"
+  },
+  {
+   "numer": "66328",
+   "nazwa": "City Super Pack 6 in 1",
+   "rok": 2008,
+   "elementy": 367,
+   "status": "eol"
+  },
+  {
+   "numer": "66330",
+   "nazwa": "City Super Pack 5 in 1",
+   "rok": 2008,
+   "elementy": 984,
+   "status": "eol"
+  },
+  {
+   "numer": "7235-2",
+   "nazwa": "Motocykl policyjny",
+   "rok": 2008,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "7236-2",
+   "nazwa": "Radiowóz",
+   "rok": 2008,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "7245-2",
+   "nazwa": "Konwój",
+   "rok": 2008,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "7723",
+   "nazwa": "Policyjny samolot morski",
+   "rok": 2008,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "7724",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2008,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "7726",
+   "nazwa": "Samochód straży przybrzeżnej z motorówką",
+   "rok": 2008,
+   "elementy": 361,
+   "status": "eol"
+  },
+  {
+   "numer": "7731",
+   "nazwa": "Furgonetka pocztowa",
+   "rok": 2008,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "7732",
+   "nazwa": "Poczta lotnicza",
+   "rok": 2008,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "7733",
+   "nazwa": "Ciężarówka i podnośnik widłowy",
+   "rok": 2008,
+   "elementy": 343,
+   "status": "eol"
+  },
+  {
+   "numer": "7734",
+   "nazwa": "Samolot transportowy",
+   "rok": 2008,
+   "elementy": 463,
+   "status": "eol"
+  },
+  {
+   "numer": "7736",
+   "nazwa": "Quad straży przybrzeżnej",
+   "rok": 2008,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7737",
+   "nazwa": "Coast Guard 4WD & Jet Scooter",
+   "rok": 2008,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "7738",
+   "nazwa": "Coast Guard Helicopter & Life Raft",
+   "rok": 2008,
+   "elementy": 445,
+   "status": "eol"
+  },
+  {
+   "numer": "7739",
+   "nazwa": "Coast Guard Patrol Boat & Tower",
+   "rok": 2008,
+   "elementy": 444,
+   "status": "eol"
+  },
+  {
+   "numer": "7741",
+   "nazwa": "Helikopter policyjny",
+   "rok": 2008,
+   "elementy": 94,
+   "status": "eol"
+  },
+  {
+   "numer": "7743",
+   "nazwa": "Ciężarówka policyjna",
+   "rok": 2008,
+   "elementy": 524,
+   "status": "eol"
+  },
+  {
+   "numer": "7744",
+   "nazwa": "Posterunek policji",
+   "rok": 2008,
+   "elementy": 953,
+   "status": "eol"
+  },
+  {
+   "numer": "30000",
+   "nazwa": "Medic's Car",
+   "rok": 2009,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "30001",
+   "nazwa": "Fireman's Car",
+   "rok": 2009,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "30002",
+   "nazwa": "Police Boat",
+   "rok": 2009,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "30003",
+   "nazwa": "Road Roller",
+   "rok": 2009,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "4899",
+   "nazwa": "Tractor",
+   "rok": 2009,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "5642",
+   "nazwa": "Tipper Truck",
+   "rok": 2009,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "66305",
+   "nazwa": "City Police Super Pack 3 in 1",
+   "rok": 2009,
+   "elementy": 650,
+   "status": "eol"
+  },
+  {
+   "numer": "66307",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2009,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "66325",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2009,
+   "elementy": 1267,
+   "status": "eol"
+  },
+  {
+   "numer": "66326",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2009,
+   "elementy": 501,
+   "status": "eol"
+  },
+  {
+   "numer": "66329",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2009,
+   "elementy": 284,
+   "status": "eol"
+  },
+  {
+   "numer": "66331",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2009,
+   "elementy": 1219,
+   "status": "eol"
+  },
+  {
+   "numer": "7630",
+   "nazwa": "Ładowarka",
+   "rok": 2009,
+   "elementy": 108,
+   "status": "eol"
+  },
+  {
+   "numer": "7631",
+   "nazwa": "Wywrotka",
+   "rok": 2009,
+   "elementy": 189,
+   "status": "eol"
+  },
+  {
+   "numer": "7632",
+   "nazwa": "Żuraw",
+   "rok": 2009,
+   "elementy": 481,
+   "status": "eol"
+  },
+  {
+   "numer": "7633",
+   "nazwa": "Budowa",
+   "rok": 2009,
+   "elementy": 898,
+   "status": "eol"
+  },
+  {
+   "numer": "7634",
+   "nazwa": "Traktor",
+   "rok": 2009,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "7635",
+   "nazwa": "Samochód terenowy z przyczepą na konie",
+   "rok": 2009,
+   "elementy": 176,
+   "status": "eol"
+  },
+  {
+   "numer": "7636",
+   "nazwa": "Kombajn",
+   "rok": 2009,
+   "elementy": 360,
+   "status": "eol"
+  },
+  {
+   "numer": "7637",
+   "nazwa": "Farma",
+   "rok": 2009,
+   "elementy": 609,
+   "status": "eol"
+  },
+  {
+   "numer": "7638",
+   "nazwa": "Samochód pomocy drogowej",
+   "rok": 2009,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "7639",
+   "nazwa": "Samochód kempingowy",
+   "rok": 2009,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "7641",
+   "nazwa": "Miejski zakątek",
+   "rok": 2009,
+   "elementy": 483,
+   "status": "eol"
+  },
+  {
+   "numer": "7642",
+   "nazwa": "Warsztat samochodowy",
+   "rok": 2009,
+   "elementy": 953,
+   "status": "eol"
+  },
+  {
+   "numer": "7643",
+   "nazwa": "Air-Show Plane",
+   "rok": 2009,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "7685",
+   "nazwa": "Buldożer",
+   "rok": 2009,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "7686",
+   "nazwa": "Laweta do przewozu helikoptera",
+   "rok": 2009,
+   "elementy": 377,
+   "status": "eol"
+  },
+  {
+   "numer": "7687",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2009,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "7746",
+   "nazwa": "Walec",
+   "rok": 2009,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "7747",
+   "nazwa": "Naczepa do przewozu elektrowni wiatrowej",
+   "rok": 2009,
+   "elementy": 444,
+   "status": "eol"
+  },
+  {
+   "numer": "8398",
+   "nazwa": "Grillowanie",
+   "rok": 2009,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "8401",
+   "nazwa": "Kolekcja minifigurek z miasta LEGO City",
+   "rok": 2009,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "8402",
+   "nazwa": "Samochód sportowy",
+   "rok": 2009,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "8867",
+   "nazwa": "Flexible Train Tracks",
+   "rok": 2009,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "2824",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2010,
+   "elementy": 271,
+   "status": "eol"
+  },
+  {
+   "numer": "30010",
+   "nazwa": "Fire Chief",
+   "rok": 2010,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "30011",
+   "nazwa": "Police Dinghy",
+   "rok": 2010,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "30012",
+   "nazwa": "Microlight",
+   "rok": 2010,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "30013",
+   "nazwa": "Police Buggy",
+   "rok": 2010,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "3177",
+   "nazwa": "Mały samochód",
+   "rok": 2010,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "3178",
+   "nazwa": "Hydroplan",
+   "rok": 2010,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "3179",
+   "nazwa": "Samochód naprawczy",
+   "rok": 2010,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "3180",
+   "nazwa": "Cysterna",
+   "rok": 2010,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "3181",
+   "nazwa": "Samolot pasażerski",
+   "rok": 2010,
+   "elementy": 309,
+   "status": "eol"
+  },
+  {
+   "numer": "3181-2",
+   "nazwa": "Passenger Plane - ANA version",
+   "rok": 2010,
+   "elementy": 309,
+   "status": "eol"
+  },
+  {
+   "numer": "3182",
+   "nazwa": "Lotnisko",
+   "rok": 2010,
+   "elementy": 703,
+   "status": "eol"
+  },
+  {
+   "numer": "3221",
+   "nazwa": "Ciężarówka LEGO",
+   "rok": 2010,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "3222",
+   "nazwa": "Helikopter i limuzyna",
+   "rok": 2010,
+   "elementy": 267,
+   "status": "eol"
+  },
+  {
+   "numer": "66342",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2010,
+   "elementy": 565,
+   "status": "eol"
+  },
+  {
+   "numer": "66345",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 296,
+   "status": "eol"
+  },
+  {
+   "numer": "66357",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 1053,
+   "status": "eol"
+  },
+  {
+   "numer": "66358",
+   "nazwa": "City Super Pack 3 in 1",
+   "rok": 2010,
+   "elementy": 510,
+   "status": "eol"
+  },
+  {
+   "numer": "66360",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 871,
+   "status": "eol"
+  },
+  {
+   "numer": "66362",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 289,
+   "status": "eol"
+  },
+  {
+   "numer": "66363",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 279,
+   "status": "eol"
+  },
+  {
+   "numer": "66374",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 1224,
+   "status": "eol"
+  },
+  {
+   "numer": "7206",
+   "nazwa": "Helikopter straży pożarnej",
+   "rok": 2010,
+   "elementy": 342,
+   "status": "eol"
+  },
+  {
+   "numer": "7207",
+   "nazwa": "Łódź straży pożarnej",
+   "rok": 2010,
+   "elementy": 306,
+   "status": "eol"
+  },
+  {
+   "numer": "7208",
+   "nazwa": "Remiza",
+   "rok": 2010,
+   "elementy": 662,
+   "status": "eol"
+  },
+  {
+   "numer": "7213",
+   "nazwa": "Terenowy wóz strażacki z motorówką",
+   "rok": 2010,
+   "elementy": 388,
+   "status": "eol"
+  },
+  {
+   "numer": "7566",
+   "nazwa": "Rolnik",
+   "rok": 2010,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "7567",
+   "nazwa": "Podróżnik",
+   "rok": 2010,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "7684",
+   "nazwa": "Hodowla świń i traktor",
+   "rok": 2010,
+   "elementy": 256,
+   "status": "eol"
+  },
+  {
+   "numer": "7688",
+   "nazwa": "LEGO Sports Plane",
+   "rok": 2010,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "7848",
+   "nazwa": "Ciężarówka",
+   "rok": 2010,
+   "elementy": 356,
+   "status": "eol"
+  },
+  {
+   "numer": "7936",
+   "nazwa": "Przejazd kolejowy",
+   "rok": 2010,
+   "elementy": 142,
+   "status": "eol"
+  },
+  {
+   "numer": "7937",
+   "nazwa": "Dworzec kolejowy",
+   "rok": 2010,
+   "elementy": 361,
+   "status": "eol"
+  },
+  {
+   "numer": "7938",
+   "nazwa": "Pociąg osobowy",
+   "rok": 2010,
+   "elementy": 669,
+   "status": "eol"
+  },
+  {
+   "numer": "7939",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2010,
+   "elementy": 839,
+   "status": "eol"
+  },
+  {
+   "numer": "8403",
+   "nazwa": "Dom w mieście",
+   "rok": 2010,
+   "elementy": 383,
+   "status": "eol"
+  },
+  {
+   "numer": "8404",
+   "nazwa": "Transport publiczny",
+   "rok": 2010,
+   "elementy": 864,
+   "status": "eol"
+  },
+  {
    "numer": "30014",
    "nazwa": "Police Helicopter",
    "rok": 2011,
