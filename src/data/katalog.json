@@ -19,7 +19,8 @@
    "brickset.com (theme Seasonal)",
    "brickset.com (theme Disney)",
    "brickset.com (theme Minecraft)",
-   "brickset.com (theme Super-Mario)"
+   "brickset.com (theme Super-Mario)",
+   "brickset.com (theme Jurassic-World)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -48505,6 +48506,916 @@
    "rok": 2026,
    "elementy": 1367,
    "status": "dostepny"
+  }
+ ],
+ "Jurassic World": [
+  {
+   "numer": "30320",
+   "nazwa": "Gallimimus Trap",
+   "rok": 2015,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "75915",
+   "nazwa": "Pojmanie pteranodona",
+   "rok": 2015,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "75916",
+   "nazwa": "Zasadzka dilofozaura",
+   "rok": 2015,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "75917",
+   "nazwa": "Szaleństwo raptora",
+   "rok": 2015,
+   "elementy": 324,
+   "status": "eol"
+  },
+  {
+   "numer": "75918",
+   "nazwa": "Tropiciel tyranozaura",
+   "rok": 2015,
+   "elementy": 520,
+   "status": "eol"
+  },
+  {
+   "numer": "75919",
+   "nazwa": "Indominus Rex na wolności",
+   "rok": 2015,
+   "elementy": 1156,
+   "status": "eol"
+  },
+  {
+   "numer": "75920",
+   "nazwa": "Ucieczka raptora",
+   "rok": 2015,
+   "elementy": 394,
+   "status": "eol"
+  },
+  {
+   "numer": "DRWU",
+   "nazwa": "Dr. Wu",
+   "rok": 2015,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUJWGATE",
+   "nazwa": "Jurassic World Gate",
+   "rok": 2015,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "121801",
+   "nazwa": "Baby Raptor and Nest",
+   "rok": 2018,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "121802",
+   "nazwa": "Owen and lookout post",
+   "rok": 2018,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30382",
+   "nazwa": "Plac zabaw małego welociraptora",
+   "rok": 2018,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "4000031",
+   "nazwa": "Exclusive T. rex",
+   "rok": 2018,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "5005255",
+   "nazwa": "Jurassic World Minifigure Collection",
+   "rok": 2018,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "75926",
+   "nazwa": "Pościg za pteranodonem",
+   "rok": 2018,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "75927",
+   "nazwa": "Ucieczka z laboratorium ze stygimolochem",
+   "rok": 2018,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "75928",
+   "nazwa": "Pościg za śmigłowcem",
+   "rok": 2018,
+   "elementy": 397,
+   "status": "eol"
+  },
+  {
+   "numer": "75929",
+   "nazwa": "Ucieczka przed karnotaurem",
+   "rok": 2018,
+   "elementy": 577,
+   "status": "eol"
+  },
+  {
+   "numer": "75930",
+   "nazwa": "Atak indoraptora",
+   "rok": 2018,
+   "elementy": 1019,
+   "status": "eol"
+  },
+  {
+   "numer": "75931",
+   "nazwa": "Atak dilofozaura na posterunek",
+   "rok": 2018,
+   "elementy": 289,
+   "status": "eol"
+  },
+  {
+   "numer": "75932",
+   "nazwa": "Pościg raptorów",
+   "rok": 2018,
+   "elementy": 360,
+   "status": "eol"
+  },
+  {
+   "numer": "75933",
+   "nazwa": "Transport tyranozaura",
+   "rok": 2018,
+   "elementy": 609,
+   "status": "eol"
+  },
+  {
+   "numer": "BLUE",
+   "nazwa": "Blue",
+   "rok": 2018,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "121903",
+   "nazwa": "Baby Raptor",
+   "rok": 2019,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "121904",
+   "nazwa": "Owen with Baby Raptor",
+   "rok": 2019,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "75934",
+   "nazwa": "Dilofozaur na wolności",
+   "rok": 2019,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "75935",
+   "nazwa": "Starcie z barionyksem: poszukiwanie skarbów",
+   "rok": 2019,
+   "elementy": 434,
+   "status": "eol"
+  },
+  {
+   "numer": "75936",
+   "nazwa": ": atak tyranozaura",
+   "rok": 2019,
+   "elementy": 3120,
+   "status": "eol"
+  },
+  {
+   "numer": "75937",
+   "nazwa": "Atak triceratopsa",
+   "rok": 2019,
+   "elementy": 447,
+   "status": "eol"
+  },
+  {
+   "numer": "75938",
+   "nazwa": "Tyranozaur kontra mechaniczny dinozaur",
+   "rok": 2019,
+   "elementy": 716,
+   "status": "eol"
+  },
+  {
+   "numer": "11934",
+   "nazwa": "Jurassic World Build Your Own Adventure parts",
+   "rok": 2020,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "122005",
+   "nazwa": "Tyrannosaurus Rex",
+   "rok": 2020,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "122006",
+   "nazwa": "Triceratops",
+   "rok": 2020,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "122007",
+   "nazwa": "Owen in canoe",
+   "rok": 2020,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "122008",
+   "nazwa": "Create Dino",
+   "rok": 2020,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "122009",
+   "nazwa": "Vic Hoskins with Buggy",
+   "rok": 2020,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "122010",
+   "nazwa": "Baby Dino Transport",
+   "rok": 2020,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "122111",
+   "nazwa": "Stegosaurus",
+   "rok": 2020,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "75939",
+   "nazwa": "Laboratorium doktora Wu: ucieczka młodych dinozaurów",
+   "rok": 2020,
+   "elementy": 164,
+   "status": "eol"
+  },
+  {
+   "numer": "75940",
+   "nazwa": "Gallimim i pteranodon: ucieczka",
+   "rok": 2020,
+   "elementy": 391,
+   "status": "eol"
+  },
+  {
+   "numer": "75941",
+   "nazwa": "Indominus Rex kontra ankylozaur",
+   "rok": 2020,
+   "elementy": 537,
+   "status": "eol"
+  },
+  {
+   "numer": "75942",
+   "nazwa": "Welociraptor: na ratunek dwupłatowcem",
+   "rok": 2020,
+   "elementy": 101,
+   "status": "eol"
+  },
+  {
+   "numer": "122112",
+   "nazwa": "Dr. Wu's Laboratory",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "122113",
+   "nazwa": "Owen with Helicopter",
+   "rok": 2021,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "122114",
+   "nazwa": "Owen and red motorbike",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "122115",
+   "nazwa": "Dilophosaurus",
+   "rok": 2021,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "122116",
+   "nazwa": "Sinjin Prescott and buggy",
+   "rok": 2021,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "76939",
+   "nazwa": "Ucieczka stygimolocha",
+   "rok": 2021,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "76940",
+   "nazwa": "Wystawa skamieniałości tyranozaura",
+   "rok": 2021,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "76941",
+   "nazwa": "Pościg za karnotaurem",
+   "rok": 2021,
+   "elementy": 240,
+   "status": "eol"
+  },
+  {
+   "numer": "76942",
+   "nazwa": "Barionyks i ucieczka łodzią",
+   "rok": 2021,
+   "elementy": 308,
+   "status": "eol"
+  },
+  {
+   "numer": "122217",
+   "nazwa": "Raptor and Hideout",
+   "rok": 2022,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "122218",
+   "nazwa": "Tyrannosaurus Rex",
+   "rok": 2022,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "122219",
+   "nazwa": "Raptor with Hatchery",
+   "rok": 2022,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "122220",
+   "nazwa": "Owen with Airboat",
+   "rok": 2022,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "122221",
+   "nazwa": "Raptor with nest",
+   "rok": 2022,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "122222",
+   "nazwa": "Dino Trap",
+   "rok": 2022,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "122223",
+   "nazwa": "Owen with Quad",
+   "rok": 2022,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "122224",
+   "nazwa": "Rainn Delacourt with Raptor",
+   "rok": 2022,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "122225",
+   "nazwa": "Blue Raptor",
+   "rok": 2022,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "30390",
+   "nazwa": "Targ dinozaurów",
+   "rok": 2022,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "76943",
+   "nazwa": "Pościg za pteranodonem",
+   "rok": 2022,
+   "elementy": 94,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76944",
+   "nazwa": "Ucieczka tyranozaura",
+   "rok": 2022,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "76945",
+   "nazwa": "Atrociraptor: pościg na motocyklu",
+   "rok": 2022,
+   "elementy": 169,
+   "status": "eol"
+  },
+  {
+   "numer": "76946",
+   "nazwa": "Schwytanie welociraptorów Blue i Bety",
+   "rok": 2022,
+   "elementy": 181,
+   "status": "eol"
+  },
+  {
+   "numer": "76947",
+   "nazwa": "Kecalkoatl: zasadzka z samolotem",
+   "rok": 2022,
+   "elementy": 306,
+   "status": "eol"
+  },
+  {
+   "numer": "76948",
+   "nazwa": "Ucieczka tyranozaura i atrociraptora",
+   "rok": 2022,
+   "elementy": 466,
+   "status": "eol"
+  },
+  {
+   "numer": "76949",
+   "nazwa": "Atak giganotozaura i terizinozaura",
+   "rok": 2022,
+   "elementy": 810,
+   "status": "eol"
+  },
+  {
+   "numer": "76950",
+   "nazwa": "Triceratops i zasadzka z pick-upem",
+   "rok": 2022,
+   "elementy": 210,
+   "status": "eol"
+  },
+  {
+   "numer": "76951",
+   "nazwa": "Transport pyroraptora i dilofozaura",
+   "rok": 2022,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "76956",
+   "nazwa": "Tyranozaur na wolności",
+   "rok": 2022,
+   "elementy": 1212,
+   "status": "eol"
+  },
+  {
+   "numer": "JEEP",
+   "nazwa": "Jeep",
+   "rok": 2022,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "TRICERATOPS",
+   "nazwa": "Triceratops",
+   "rok": 2022,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "122326",
+   "nazwa": "Raptor",
+   "rok": 2023,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "122327",
+   "nazwa": "Baby Raptor",
+   "rok": 2023,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "122328",
+   "nazwa": "Owen with Jetpack",
+   "rok": 2023,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "122329",
+   "nazwa": "Pyroraptor",
+   "rok": 2023,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "122330",
+   "nazwa": "Raptor with Trap",
+   "rok": 2023,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "122331",
+   "nazwa": "Owen with Swamp Speeder and Raptor",
+   "rok": 2023,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "122332",
+   "nazwa": "Jetpack-Ranger & Raptor",
+   "rok": 2023,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "122333",
+   "nazwa": "Owen with Motorcycle",
+   "rok": 2023,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "122334",
+   "nazwa": "Alan with Dino Skeleton",
+   "rok": 2023,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "6476369",
+   "nazwa": "Tyrannosaurus",
+   "rok": 2023,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "66774",
+   "nazwa": "Dino Combo Pack",
+   "rok": 2023,
+   "elementy": 391,
+   "status": "eol"
+  },
+  {
+   "numer": "76957",
+   "nazwa": "Ucieczka welociraptora",
+   "rok": 2023,
+   "elementy": 137,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76958",
+   "nazwa": "Zasadzka na dilofozaura",
+   "rok": 2023,
+   "elementy": 211,
+   "status": "eol"
+  },
+  {
+   "numer": "76959",
+   "nazwa": "Badanie triceratopsa",
+   "rok": 2023,
+   "elementy": 281,
+   "status": "eol"
+  },
+  {
+   "numer": "76960",
+   "nazwa": "Odkrycie brachiozaura",
+   "rok": 2023,
+   "elementy": 512,
+   "status": "eol"
+  },
+  {
+   "numer": "76961",
+   "nazwa": "Centrum dla odwiedzających: atak tyranozaura i raptora",
+   "rok": 2023,
+   "elementy": 693,
+   "status": "eol"
+  },
+  {
+   "numer": "122401",
+   "nazwa": "Laboratory with Raptor",
+   "rok": 2024,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "122402",
+   "nazwa": "Raptor with nest",
+   "rok": 2024,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "122403",
+   "nazwa": "Owen with Helicopter",
+   "rok": 2024,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "122404",
+   "nazwa": "Raptor and Laboratory",
+   "rok": 2024,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "122405",
+   "nazwa": "Velociraptor Baby with DNA Lab",
+   "rok": 2024,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "122406",
+   "nazwa": "Raptor and Hideout",
+   "rok": 2024,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "122407",
+   "nazwa": "Mobile Incubator with Egg",
+   "rok": 2024,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "122408",
+   "nazwa": "Alan Grant with Quad",
+   "rok": 2024,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "76962",
+   "nazwa": "Mały ankylozaur Bumpy",
+   "rok": 2024,
+   "elementy": 358,
+   "status": "eol"
+  },
+  {
+   "numer": "76963",
+   "nazwa": "Centrum ratunkowe dla małych dinozaurów",
+   "rok": 2024,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "76964",
+   "nazwa": "Szkielety dinozaurów - czaszka tyranozaura",
+   "rok": 2024,
+   "elementy": 577,
+   "status": "eol"
+  },
+  {
+   "numer": "76965",
+   "nazwa": "Dinomisje: odkrycie stegozaura",
+   "rok": 2024,
+   "elementy": 420,
+   "status": "eol"
+  },
+  {
+   "numer": "76966",
+   "nazwa": "Dinomisje: ciężarówka do transportu allozaura",
+   "rok": 2024,
+   "elementy": 588,
+   "status": "eol"
+  },
+  {
+   "numer": "122409",
+   "nazwa": "Robert Muldoon and Raptor",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "122501",
+   "nazwa": "Ranger and Raptor",
+   "rok": 2025,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "122502",
+   "nazwa": "Owen with Cage and Raptor",
+   "rok": 2025,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "122503",
+   "nazwa": "Owen with Quad bike",
+   "rok": 2025,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "122504",
+   "nazwa": "Raptor and Trap",
+   "rok": 2025,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "122505",
+   "nazwa": "Ranger with Helipack and Baby Raptor",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "122508",
+   "nazwa": "Alan Grant with Hovercraft",
+   "rok": 2025,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "76967",
+   "nazwa": "Tyranozaur Mały",
+   "rok": 2025,
+   "elementy": 317,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76968",
+   "nazwa": "Szkielety dinozaurów: tyranozaur",
+   "rok": 2025,
+   "elementy": 3145,
+   "status": "eol"
+  },
+  {
+   "numer": "76969",
+   "nazwa": "Szkielety dinozaurów: czaszka triceratopsa",
+   "rok": 2025,
+   "elementy": 468,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76970",
+   "nazwa": "Mały dinozaur Dolores: aquilops",
+   "rok": 2025,
+   "elementy": 339,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76972",
+   "nazwa": "Ucieczka terenówką przed raptorem",
+   "rok": 2025,
+   "elementy": 285,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76973",
+   "nazwa": "Na tropie tytanozaura i raptora",
+   "rok": 2025,
+   "elementy": 582,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76974",
+   "nazwa": "Misja na łodzi i model mozazaura",
+   "rok": 2025,
+   "elementy": 858,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76975",
+   "nazwa": "Ucieczka rzeką przed tyranozaurem",
+   "rok": 2025,
+   "elementy": 199,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76976",
+   "nazwa": "Powietrzna misja z kecalkoatlem i spinozaurem",
+   "rok": 2025,
+   "elementy": 984,
+   "status": "dostepny"
+  },
+  {
+   "numer": "122506",
+   "nazwa": "Raptor Breakout",
+   "rok": 2026,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "122507",
+   "nazwa": "Raptor Feeding",
+   "rok": 2026,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "122509",
+   "nazwa": "Ranger with Laboratory",
+   "rok": 2026,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "40895",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "77977",
+   "nazwa": "Mały dinozaur: Pteranodon",
+   "rok": 2026,
+   "elementy": 373,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77978",
+   "nazwa": "Ciężarówka do transportu młodego tyranozaura",
+   "rok": 2026,
+   "elementy": 115,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77981",
+   "nazwa": "Welociraptor, stegozaur i pteranodon - Centrum ratunkowe",
+   "rok": 2026,
+   "elementy": 171,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77982",
+   "nazwa": "Ucieczka spinozaura",
+   "rok": 2026,
+   "elementy": 820,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77983",
+   "nazwa": "Atak mozazaura na łódź",
+   "rok": 2026,
+   "elementy": 703,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77984",
+   "nazwa": "Jurassic Park Jeep Wrangler",
+   "rok": 2026,
+   "elementy": 1924,
+   "status": "dostepny"
+  },
+  {
+   "numer": "77985",
+   "nazwa": "Szkielety dinozaurów: triceratops",
+   "rok": 2026,
+   "elementy": 1154,
+   "status": "dostepny"
+  },
+  {
+   "numer": "951351",
+   "nazwa": "Guard and Raptor",
+   "rok": 2026,
+   "status": "eol"
   }
  ]
 }
