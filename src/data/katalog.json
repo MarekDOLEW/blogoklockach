@@ -11,7 +11,8 @@
    "brickset.com (theme BrickHeadz, theme Speed Champions)",
    "brickset.com (theme Technic)",
    "brickset.com (theme City)",
-   "brickset.com (theme Creator)"
+   "brickset.com (theme Creator)",
+   "brickset.com (theme Friends)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -23994,6 +23995,1551 @@
    "nazwa": "Action Vehicles Gift Set",
    "rok": 2026,
    "elementy": 448,
+   "status": "eol"
+  }
+ ],
+ "Friends": [
+  {
+   "numer": "30416",
+   "nazwa": "Stoisko",
+   "rok": 2022,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "30417",
+   "nazwa": "Ogrodowy kwiat i motyl",
+   "rok": 2022,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "4002022",
+   "nazwa": "10 Years of Friendship",
+   "rok": 2022,
+   "elementy": 1209,
+   "status": "eol"
+  },
+  {
+   "numer": "41694",
+   "nazwa": "Karetka kliniki dla zwierzątek",
+   "rok": 2022,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "41695",
+   "nazwa": "Klinika dla zwierzątek",
+   "rok": 2022,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "41696",
+   "nazwa": "Kąpiel dla kucyków w stajni",
+   "rok": 2022,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "41697",
+   "nazwa": "Pojazd do ratowania żółwi",
+   "rok": 2022,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "41698",
+   "nazwa": "Plac zabaw dla zwierzątek",
+   "rok": 2022,
+   "elementy": 210,
+   "status": "eol"
+  },
+  {
+   "numer": "41699",
+   "nazwa": "Kawiarnia przy schronisku",
+   "rok": 2022,
+   "elementy": 292,
+   "status": "eol"
+  },
+  {
+   "numer": "41700",
+   "nazwa": "Luksusowy kemping na plaży",
+   "rok": 2022,
+   "elementy": 380,
+   "status": "eol"
+  },
+  {
+   "numer": "41701",
+   "nazwa": "Stragany z jedzeniem",
+   "rok": 2022,
+   "elementy": 592,
+   "status": "eol"
+  },
+  {
+   "numer": "41702",
+   "nazwa": "Łódź mieszkalna na kanale",
+   "rok": 2022,
+   "elementy": 737,
+   "status": "eol"
+  },
+  {
+   "numer": "41703",
+   "nazwa": "Domek na Drzewie przyjaźni",
+   "rok": 2022,
+   "elementy": 1114,
+   "status": "eol"
+  },
+  {
+   "numer": "41704",
+   "nazwa": "Budynki przy głównej ulicy",
+   "rok": 2022,
+   "elementy": 1682,
+   "status": "eol"
+  },
+  {
+   "numer": "41705",
+   "nazwa": "Pizzeria w Heartlake",
+   "rok": 2022,
+   "elementy": 144,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41706",
+   "nazwa": "Kalendarz adwentowy 2022",
+   "rok": 2022,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "41707",
+   "nazwa": "Furgonetka do sadzenia drzew",
+   "rok": 2022,
+   "elementy": 336,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41708",
+   "nazwa": "Automat w dyskotece",
+   "rok": 2022,
+   "elementy": 642,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41709",
+   "nazwa": "Wakacyjny domek na plaży",
+   "rok": 2022,
+   "elementy": 686,
+   "status": "eol"
+  },
+  {
+   "numer": "41710",
+   "nazwa": "Plaża surferów",
+   "rok": 2022,
+   "elementy": 288,
+   "status": "eol"
+  },
+  {
+   "numer": "41711",
+   "nazwa": "Szkoła artystyczna Emmy",
+   "rok": 2022,
+   "elementy": 844,
+   "status": "eol"
+  },
+  {
+   "numer": "41712",
+   "nazwa": "Ciężarówka recyklingowa",
+   "rok": 2022,
+   "elementy": 259,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41713",
+   "nazwa": "Kosmiczna akademia Olivii",
+   "rok": 2022,
+   "elementy": 757,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41714",
+   "nazwa": "Szkoła aktorska Andrei",
+   "rok": 2022,
+   "elementy": 1154,
+   "status": "eol"
+  },
+  {
+   "numer": "41715",
+   "nazwa": "Furgonetka z lodami",
+   "rok": 2022,
+   "elementy": 84,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41716",
+   "nazwa": "Stephanie i przygoda pod żaglami",
+   "rok": 2022,
+   "elementy": 304,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41717",
+   "nazwa": "Mia ratowniczka dzikich zwierząt",
+   "rok": 2022,
+   "elementy": 430,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41718",
+   "nazwa": "Hotel dla zwierzątek",
+   "rok": 2022,
+   "elementy": 593,
+   "status": "eol"
+  },
+  {
+   "numer": "41719",
+   "nazwa": "Mobilny butik",
+   "rok": 2022,
+   "elementy": 94,
+   "status": "eol"
+  },
+  {
+   "numer": "41720",
+   "nazwa": "Park wodny",
+   "rok": 2022,
+   "elementy": 373,
+   "status": "eol"
+  },
+  {
+   "numer": "41721",
+   "nazwa": "Ekologiczna farma",
+   "rok": 2022,
+   "elementy": 826,
+   "status": "eol"
+  },
+  {
+   "numer": "41722",
+   "nazwa": "Przyczepa na wystawę koni",
+   "rok": 2022,
+   "elementy": 989,
+   "status": "eol"
+  },
+  {
+   "numer": "472201",
+   "nazwa": "Cute Foal with Food and Water Pump",
+   "rok": 2022,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "562201",
+   "nazwa": "Hair Salon",
+   "rok": 2022,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "562202",
+   "nazwa": "Bunny Playground",
+   "rok": 2022,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "562203",
+   "nazwa": "Cat at the vets",
+   "rok": 2022,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562204",
+   "nazwa": "Fruit Stand",
+   "rok": 2022,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "562205",
+   "nazwa": "Dog Parlor",
+   "rok": 2022,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "562206",
+   "nazwa": "Bakery",
+   "rok": 2022,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "66710",
+   "nazwa": "LEGO Friends Gift Set",
+   "rok": 2022,
+   "elementy": 587,
+   "status": "eol"
+  },
+  {
+   "numer": "FRIENDS10",
+   "nazwa": "Friends 10th anniversary golden minidoll",
+   "rok": 2022,
+   "status": "eol"
+  },
+  {
+   "numer": "30633",
+   "nazwa": "Rampa deskorolkowa",
+   "rok": 2023,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "30634",
+   "nazwa": "Kwiaty przyjaźni",
+   "rok": 2023,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "30635",
+   "nazwa": "Sprzątanie plaży",
+   "rok": 2023,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "41723",
+   "nazwa": "Cukiernia z pączkami",
+   "rok": 2023,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "41724",
+   "nazwa": "Dom Paisley",
+   "rok": 2023,
+   "elementy": 185,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41725",
+   "nazwa": "Zabawa z łazikiem plażowym",
+   "rok": 2023,
+   "elementy": 61,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41726",
+   "nazwa": "Wakacyjna wyprawa na biwak",
+   "rok": 2023,
+   "elementy": 87,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41727",
+   "nazwa": "Centrum ratunkowe dla psów",
+   "rok": 2023,
+   "elementy": 617,
+   "status": "eol"
+  },
+  {
+   "numer": "41728",
+   "nazwa": "Bar w śródmieściu Heartlake",
+   "rok": 2023,
+   "elementy": 346,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41729",
+   "nazwa": "Sklep spożywczy z żywnością ekologiczną",
+   "rok": 2023,
+   "elementy": 830,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41730",
+   "nazwa": "Dom Autumn",
+   "rok": 2023,
+   "elementy": 853,
+   "status": "eol"
+  },
+  {
+   "numer": "41731",
+   "nazwa": "Międzynarodowa szkoła w Heartlake",
+   "rok": 2023,
+   "elementy": 985,
+   "status": "eol"
+  },
+  {
+   "numer": "41732",
+   "nazwa": "Sklep wnętrzarski i kwiaciarnia",
+   "rok": 2023,
+   "elementy": 2010,
+   "status": "eol"
+  },
+  {
+   "numer": "41733",
+   "nazwa": "Mobilny sklep z bubble tea",
+   "rok": 2023,
+   "elementy": 109,
+   "status": "eol"
+  },
+  {
+   "numer": "41734",
+   "nazwa": "Morska łódź ratunkowa",
+   "rok": 2023,
+   "elementy": 717,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41735",
+   "nazwa": "Mobilny domek",
+   "rok": 2023,
+   "elementy": 785,
+   "status": "eol"
+  },
+  {
+   "numer": "41736",
+   "nazwa": "Morskie centrum ratunkowe",
+   "rok": 2023,
+   "elementy": 376,
+   "status": "eol"
+  },
+  {
+   "numer": "41737",
+   "nazwa": "Plażowy park rozrywki",
+   "rok": 2023,
+   "elementy": 1348,
+   "status": "eol"
+  },
+  {
+   "numer": "41738",
+   "nazwa": "Rower do ratowania psów",
+   "rok": 2023,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "41739",
+   "nazwa": "Pokój Liann",
+   "rok": 2023,
+   "elementy": 204,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41740",
+   "nazwa": "Pokój Aliyi",
+   "rok": 2023,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "41741",
+   "nazwa": "Furgonetka ratunkowa dla psów",
+   "rok": 2023,
+   "elementy": 300,
+   "status": "eol"
+  },
+  {
+   "numer": "41742",
+   "nazwa": "Koci hotel",
+   "rok": 2023,
+   "elementy": 445,
+   "status": "eol"
+  },
+  {
+   "numer": "41743",
+   "nazwa": "Salon fryzjerski",
+   "rok": 2023,
+   "elementy": 401,
+   "status": "eol"
+  },
+  {
+   "numer": "41744",
+   "nazwa": "Centrum sportowe",
+   "rok": 2023,
+   "elementy": 832,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41745",
+   "nazwa": "Stajnia Autumn",
+   "rok": 2023,
+   "elementy": 545,
+   "status": "eol"
+  },
+  {
+   "numer": "41746",
+   "nazwa": "Szkolenie koni",
+   "rok": 2023,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "41747",
+   "nazwa": "Jadłodajnia w Heartlake",
+   "rok": 2023,
+   "elementy": 695,
+   "status": "eol"
+  },
+  {
+   "numer": "41748",
+   "nazwa": "Dom kultury w Heartlake",
+   "rok": 2023,
+   "elementy": 1513,
+   "status": "eol"
+  },
+  {
+   "numer": "41749",
+   "nazwa": "Reporterska furgonetka",
+   "rok": 2023,
+   "elementy": 446,
+   "status": "eol"
+  },
+  {
+   "numer": "41751",
+   "nazwa": "Skatepark",
+   "rok": 2023,
+   "elementy": 431,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41752",
+   "nazwa": "Hydroplan ratowniczy",
+   "rok": 2023,
+   "elementy": 203,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41753",
+   "nazwa": "Naleśnikarnia",
+   "rok": 2023,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "41754",
+   "nazwa": "Pokój Leo",
+   "rok": 2023,
+   "elementy": 203,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41755",
+   "nazwa": "Pokój Novy",
+   "rok": 2023,
+   "elementy": 179,
+   "status": "eol"
+  },
+  {
+   "numer": "41756",
+   "nazwa": "Stok narciarski i kawiarnia",
+   "rok": 2023,
+   "elementy": 980,
+   "status": "eol"
+  },
+  {
+   "numer": "41757",
+   "nazwa": "Ogród botaniczny",
+   "rok": 2023,
+   "elementy": 1072,
+   "status": "eol"
+  },
+  {
+   "numer": "41758",
+   "nazwa": "Kalendarz adwentowy 2023",
+   "rok": 2023,
+   "elementy": 231,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41759",
+   "nazwa": "Autobus miejski z Heartlake",
+   "rok": 2023,
+   "elementy": 480,
+   "status": "eol"
+  },
+  {
+   "numer": "41760",
+   "nazwa": "Przygoda w igloo",
+   "rok": 2023,
+   "elementy": 491,
+   "status": "eol"
+  },
+  {
+   "numer": "562301",
+   "nazwa": "Cat Tree with Kitten",
+   "rok": 2023,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "562302",
+   "nazwa": "Bunny at Veterinary Station",
+   "rok": 2023,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562303",
+   "nazwa": "Puppy and Doghouse",
+   "rok": 2023,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "562304",
+   "nazwa": "Beach Shop and Dolphin",
+   "rok": 2023,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "562305",
+   "nazwa": "Sushi Stall",
+   "rok": 2023,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "562306",
+   "nazwa": "Cake Kitchen",
+   "rok": 2023,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "6465380",
+   "nazwa": "Friends Heart Box",
+   "rok": 2023,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "66773",
+   "nazwa": "Play Day Gift Set",
+   "rok": 2023,
+   "elementy": 322,
+   "status": "eol"
+  },
+  {
+   "numer": "30658",
+   "nazwa": "Muzyczna przyczepa",
+   "rok": 2024,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "30659",
+   "nazwa": "Ogród pełen kwiatów",
+   "rok": 2024,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "40694",
+   "nazwa": "Kempingowa przygoda nad rzeką",
+   "rok": 2024,
+   "elementy": 182,
+   "status": "eol"
+  },
+  {
+   "numer": "42601",
+   "nazwa": "Plac zabaw dla chomików",
+   "rok": 2024,
+   "elementy": 167,
+   "status": "eol"
+  },
+  {
+   "numer": "42602",
+   "nazwa": "Kosmiczny łazik badawczy",
+   "rok": 2024,
+   "elementy": 514,
+   "status": "eol"
+  },
+  {
+   "numer": "42603",
+   "nazwa": "Kamper z mobilnym obserwatorium",
+   "rok": 2024,
+   "elementy": 364,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42604",
+   "nazwa": "Centrum handlowe w Heartlake City",
+   "rok": 2024,
+   "elementy": 1237,
+   "status": "eol"
+  },
+  {
+   "numer": "42605",
+   "nazwa": "Stacja kosmiczna i rakieta",
+   "rok": 2024,
+   "elementy": 981,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42606",
+   "nazwa": "Mobilna piekarnia",
+   "rok": 2024,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "42607",
+   "nazwa": "Szopa cielątka Autumn",
+   "rok": 2024,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "42608",
+   "nazwa": "Mały sklep z akcesoriami",
+   "rok": 2024,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "42609",
+   "nazwa": "Samochód elektryczny i stacja ładująca",
+   "rok": 2024,
+   "elementy": 170,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42610",
+   "nazwa": "Impreza z karaoke",
+   "rok": 2024,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "42612",
+   "nazwa": "Przygoda na kocim placu zabaw",
+   "rok": 2024,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "42613",
+   "nazwa": "Karetka szpitala w Heartlake",
+   "rok": 2024,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "42614",
+   "nazwa": "Sklep z używaną odzieżą",
+   "rok": 2024,
+   "elementy": 409,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42615",
+   "nazwa": "Dzień Adopcji Zwierząt",
+   "rok": 2024,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "42616",
+   "nazwa": "Pokaz talentów muzycznych w szkole w Heartlake City",
+   "rok": 2024,
+   "elementy": 669,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42617",
+   "nazwa": "Rezerwat zwierząt gospodarskich",
+   "rok": 2024,
+   "elementy": 489,
+   "status": "eol"
+  },
+  {
+   "numer": "42618",
+   "nazwa": "Kawiarnia w Heartlake",
+   "rok": 2024,
+   "elementy": 426,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42619",
+   "nazwa": "Autobus koncertowy gwiazdy pop",
+   "rok": 2024,
+   "elementy": 845,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42620",
+   "nazwa": "Dom rodzinny Olly’ego i Paisley",
+   "rok": 2024,
+   "elementy": 1126,
+   "status": "eol"
+  },
+  {
+   "numer": "42621",
+   "nazwa": "Szpital w mieście Heartlake",
+   "rok": 2024,
+   "elementy": 1045,
+   "status": "eol"
+  },
+  {
+   "numer": "42622",
+   "nazwa": "Strzelnica na letnim obozie łuczniczym",
+   "rok": 2024,
+   "elementy": 157,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42623",
+   "nazwa": "Plażowy skuter wodny",
+   "rok": 2024,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "42624",
+   "nazwa": "Przytulne domki na letnim obozie",
+   "rok": 2024,
+   "elementy": 437,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42625",
+   "nazwa": "Plażowa budka z koktajlami",
+   "rok": 2024,
+   "elementy": 213,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42626",
+   "nazwa": "Sporty wodne na obozie kempingowym",
+   "rok": 2024,
+   "elementy": 628,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42630",
+   "nazwa": "Park wodny w Heartlake",
+   "rok": 2024,
+   "elementy": 814,
+   "status": "eol"
+  },
+  {
+   "numer": "42631",
+   "nazwa": "Domek na drzewie na obozie kempingowym",
+   "rok": 2024,
+   "elementy": 1128,
+   "status": "eol"
+  },
+  {
+   "numer": "42632",
+   "nazwa": "Lecznica dla zwierząt gospodarczych",
+   "rok": 2024,
+   "elementy": 161,
+   "status": "eol"
+  },
+  {
+   "numer": "42633",
+   "nazwa": "Food truck z hot dogami",
+   "rok": 2024,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "42634",
+   "nazwa": "Przyczepka dla konia i kucyka",
+   "rok": 2024,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "42635",
+   "nazwa": "Samochód do pielęgnacji psów",
+   "rok": 2024,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "42636",
+   "nazwa": "Przedszkole w Heartlake",
+   "rok": 2024,
+   "elementy": 239,
+   "status": "eol"
+  },
+  {
+   "numer": "42637",
+   "nazwa": "Kalendarz adwentowy 2024",
+   "rok": 2024,
+   "elementy": 272,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42638",
+   "nazwa": "Pensjonat w zamku",
+   "rok": 2024,
+   "elementy": 1311,
+   "status": "eol"
+  },
+  {
+   "numer": "42639",
+   "nazwa": "Nowoczesna rezydencja Andrei",
+   "rok": 2024,
+   "elementy": 2275,
+   "status": "eol"
+  },
+  {
+   "numer": "562401",
+   "nazwa": "Pizza kitchen",
+   "rok": 2024,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "562402",
+   "nazwa": "Pug with Doghouse",
+   "rok": 2024,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "562403",
+   "nazwa": "Kitten at the vets",
+   "rok": 2024,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "562404",
+   "nazwa": "Kitten on Karaoke Stage",
+   "rok": 2024,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562405",
+   "nazwa": "Observatory",
+   "rok": 2024,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "562406",
+   "nazwa": "Puppy's Playground",
+   "rok": 2024,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "562407",
+   "nazwa": "Ice Cream Shop",
+   "rok": 2024,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "562408",
+   "nazwa": "Smoothie Booth",
+   "rok": 2024,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "562409",
+   "nazwa": "Otter's Day at the Beach",
+   "rok": 2024,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "562410",
+   "nazwa": "Cat Grooming",
+   "rok": 2024,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562411",
+   "nazwa": "Squirrel and camp fire",
+   "rok": 2024,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "6508939",
+   "nazwa": "{Mini Vintage Fashion Store}",
+   "rok": 2024,
+   "status": "eol"
+  },
+  {
+   "numer": "30696",
+   "nazwa": "Stoisko z goframi Autumn",
+   "rok": 2025,
+   "elementy": 37,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30697",
+   "nazwa": "Buda dla psa Novy",
+   "rok": 2025,
+   "elementy": 50,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42640",
+   "nazwa": "Plac zabaw dla świnek morskich",
+   "rok": 2025,
+   "elementy": 86,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42641",
+   "nazwa": "Przygoda z surfującymi psami i skuterem",
+   "rok": 2025,
+   "elementy": 113,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42642",
+   "nazwa": "Maraton filmowy przyjaciółek",
+   "rok": 2025,
+   "elementy": 154,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42643",
+   "nazwa": "Stoisko z watą cukrową i skuter",
+   "rok": 2025,
+   "elementy": 110,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42644",
+   "nazwa": "Furgonetka z lodami w mieście Heartlake",
+   "rok": 2025,
+   "elementy": 92,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42645",
+   "nazwa": "Pokój zabaw młodszej siostry Aliyi",
+   "rok": 2025,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "42646",
+   "nazwa": "Pokój Autumn",
+   "rok": 2025,
+   "elementy": 222,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42647",
+   "nazwa": "Pokój Paisley",
+   "rok": 2025,
+   "elementy": 199,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42648",
+   "nazwa": "Opieka nad pandami w rezerwacie",
+   "rok": 2025,
+   "elementy": 243,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42649",
+   "nazwa": "Sklep z cukierkami w Heartlake",
+   "rok": 2025,
+   "elementy": 376,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42650",
+   "nazwa": "Sklep z akcesoriami dla zwierząt",
+   "rok": 2025,
+   "elementy": 375,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42651",
+   "nazwa": "Koń i lecznica dla zwierząt",
+   "rok": 2025,
+   "elementy": 428,
+   "status": "eol"
+  },
+  {
+   "numer": "42652",
+   "nazwa": "Spotkanie w domku na Drzewie Przyjaźni",
+   "rok": 2025,
+   "elementy": 701,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42653",
+   "nazwa": "Sklep muzyczny i mieszkanie",
+   "rok": 2025,
+   "elementy": 483,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42654",
+   "nazwa": "Ranczo kucyków i stajnia",
+   "rok": 2025,
+   "elementy": 727,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42655",
+   "nazwa": "Restauracja i szkoła gotowania",
+   "rok": 2025,
+   "elementy": 896,
+   "status": "eol"
+  },
+  {
+   "numer": "42656",
+   "nazwa": "Samolot i lotnisko w mieście Heartlake",
+   "rok": 2025,
+   "elementy": 958,
+   "status": "eol"
+  },
+  {
+   "numer": "42658",
+   "nazwa": "Impreza na basenie z jednorożcem i flamingiem",
+   "rok": 2025,
+   "elementy": 99,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42659",
+   "nazwa": "Samochodowa wycieczka przyjaciółek",
+   "rok": 2025,
+   "elementy": 220,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42661",
+   "nazwa": "Bal przebierańców z jednorożcem i wróżką",
+   "rok": 2025,
+   "elementy": 261,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42662",
+   "nazwa": "Salon fryzjerski i sklep z ozdobami",
+   "rok": 2025,
+   "elementy": 347,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42663",
+   "nazwa": "Przygoda w kamperze przyjaciół",
+   "rok": 2025,
+   "elementy": 778,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42664",
+   "nazwa": "Przygoda na łodzi",
+   "rok": 2025,
+   "elementy": 685,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42665",
+   "nazwa": "Plac zabaw dla szczeniaczków",
+   "rok": 2025,
+   "elementy": 66,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42666",
+   "nazwa": "Kocie przyjęcie urodzinowe i domek na drzewie",
+   "rok": 2025,
+   "elementy": 321,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42668",
+   "nazwa": "Kalendarz adwentowy 2025",
+   "rok": 2025,
+   "elementy": 237,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42669",
+   "nazwa": "Dom pszczelarzy i kwiatowy ogród",
+   "rok": 2025,
+   "elementy": 1161,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42670",
+   "nazwa": "Mieszkania i sklepy w mieście Heartlake",
+   "rok": 2025,
+   "elementy": 2040,
+   "status": "eol"
+  },
+  {
+   "numer": "42671",
+   "nazwa": "Zielona kawiarnia i kwiaciarnia",
+   "rok": 2025,
+   "elementy": 1138,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42672",
+   "nazwa": "Kreatywna walizka plażowa",
+   "rok": 2025,
+   "elementy": 188,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42673",
+   "nazwa": "Rodzinne wakacje na plaży",
+   "rok": 2025,
+   "elementy": 1140,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42674",
+   "nazwa": "Sklep z grami i komiksami",
+   "rok": 2025,
+   "elementy": 1005,
+   "status": "eol"
+  },
+  {
+   "numer": "562412",
+   "nazwa": "Honey Bee Farm",
+   "rok": 2025,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "562501",
+   "nazwa": "Aira at Veterinary Station",
+   "rok": 2025,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562502",
+   "nazwa": "Paisley and Melody with Seesaw",
+   "rok": 2025,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "562503",
+   "nazwa": "Ice Cream Shop",
+   "rok": 2025,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "562504",
+   "nazwa": "Cat Tree with Kitten",
+   "rok": 2025,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562505",
+   "nazwa": "Puppy's Stage",
+   "rok": 2025,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "66806",
+   "nazwa": "Explore Outdoors Gift Set",
+   "rok": 2025,
+   "elementy": 521,
+   "status": "eol"
+  },
+  {
+   "numer": "PETSHOP",
+   "nazwa": "Pet Shop",
+   "rok": 2025,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "30721",
+   "nazwa": "Kwiatowe stoisko z różami",
+   "rok": 2026,
+   "elementy": 55,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30722",
+   "nazwa": "Domek króliczka w ogrodzie",
+   "rok": 2026,
+   "elementy": 46,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42675",
+   "nazwa": "Jednorożcowa dostawa tortu",
+   "rok": 2026,
+   "elementy": 67,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42676",
+   "nazwa": "Frajda w parku wodnym",
+   "rok": 2026,
+   "elementy": 278,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42677",
+   "nazwa": "Piekarnia z psimi przysmakami",
+   "rok": 2026,
+   "elementy": 278,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42678",
+   "nazwa": "Furgonetka z akcesoriami dla zwierząt",
+   "rok": 2026,
+   "elementy": 237,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42679",
+   "nazwa": "Hotel dla królików w mieście Heartlake",
+   "rok": 2026,
+   "elementy": 161,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42680",
+   "nazwa": "Sklep spożywczy w mieście Heartlake",
+   "rok": 2026,
+   "elementy": 176,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42681",
+   "nazwa": "Przygoda na aksolotlowej łodzi",
+   "rok": 2026,
+   "elementy": 95,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42682",
+   "nazwa": "Domek na luksusowym kempingu",
+   "rok": 2026,
+   "elementy": 295,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42684",
+   "nazwa": "Jednorożcowa kawiarnia",
+   "rok": 2026,
+   "elementy": 475,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42685",
+   "nazwa": "Pokaz mody w mieście Heartlake",
+   "rok": 2026,
+   "elementy": 410,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42686",
+   "nazwa": "Niezwykła sala zabaw",
+   "rok": 2026,
+   "elementy": 668,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42687",
+   "nazwa": "Dom rodzinny Liann",
+   "rok": 2026,
+   "elementy": 946,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42688",
+   "nazwa": "Stadnina i szkółka jeździecka",
+   "rok": 2026,
+   "elementy": 735,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42689",
+   "nazwa": "Domek klubu przyjaciół z Heartlake",
+   "rok": 2026,
+   "elementy": 794,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42690",
+   "nazwa": "Podwieczorek w lesie",
+   "rok": 2026,
+   "elementy": 116,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42691",
+   "nazwa": "Restauracja z ogrodem",
+   "rok": 2026,
+   "elementy": 1465,
+   "status": "eol"
+  },
+  {
+   "numer": "42692",
+   "nazwa": "Stoisko z lodami i balonami",
+   "rok": 2026,
+   "elementy": 107,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42693",
+   "nazwa": "Kreatywna kwiaciarnia",
+   "rok": 2026,
+   "elementy": 377,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42694",
+   "nazwa": "Furgonetka z pizzą",
+   "rok": 2026,
+   "elementy": 190,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42695",
+   "nazwa": "Przyczepa z koniem i źrebaczkiem",
+   "rok": 2026,
+   "elementy": 279,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42696",
+   "nazwa": "Lecznica dla zwierząt",
+   "rok": 2026,
+   "elementy": 141,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42697",
+   "nazwa": "Kreatywna walizka z domkiem dla lalek",
+   "rok": 2026,
+   "elementy": 355,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42698",
+   "nazwa": "Kalendarz adwentowy na 2026 rok",
+   "rok": 2026,
+   "elementy": 211,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42699",
+   "nazwa": "Domek na plaży z fokami",
+   "rok": 2026,
+   "elementy": 400,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42700",
+   "nazwa": "Cukierkowo-babeczkowy diabelski młyn",
+   "rok": 2026,
+   "elementy": 602,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42701",
+   "nazwa": "Sanktuarium koali",
+   "rok": 2026,
+   "elementy": 521,
+   "status": "eol"
+  },
+  {
+   "numer": "42702",
+   "nazwa": "Wróżkowa karuzela z kwiatami",
+   "rok": 2026,
+   "elementy": 321,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42703",
+   "nazwa": "Syrenkowa kolejka górska",
+   "rok": 2026,
+   "elementy": 864,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42704",
+   "nazwa": "Grand Hotel w mieście Heartlake",
+   "rok": 2026,
+   "elementy": 1406,
+   "status": "dostepny"
+  },
+  {
+   "numer": "42705",
+   "nazwa": "Jesienna leśna chatka",
+   "rok": 2026,
+   "elementy": 1229,
+   "status": "dostepny"
+  },
+  {
+   "numer": "562601",
+   "nazwa": "Baking Set and Bunny",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "6614211",
+   "nazwa": "Treat Stand",
+   "rok": 2026,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "6614214",
+   "nazwa": "First Friendship",
+   "rok": 2026,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "66834",
+   "nazwa": "Friendship Celebration Gift Set",
+   "rok": 2026,
+   "elementy": 428,
+   "status": "eol"
+  },
+  {
+   "numer": "951345",
+   "nazwa": "Kitten and Vet's Office",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "951445",
+   "nazwa": "Horse stables",
+   "rok": 2026,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "951446",
+   "nazwa": "Valeria with Puppy",
+   "rok": 2026,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002265",
+   "nazwa": "Nugget at Veterinary Station",
+   "rok": 2026,
+   "elementy": 24,
    "status": "eol"
   }
  ]
