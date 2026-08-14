@@ -12,7 +12,8 @@
    "brickset.com (theme Technic)",
    "brickset.com (theme City)",
    "brickset.com (theme Creator)",
-   "brickset.com (theme Friends)"
+   "brickset.com (theme Friends)",
+   "brickset.com (theme Duplo)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -28798,6 +28799,1001 @@
    "nazwa": "Nugget at Veterinary Station",
    "rok": 2026,
    "elementy": 24,
+   "status": "eol"
+  }
+ ],
+ "DUPLO": [
+  {
+   "numer": "10939",
+   "nazwa": "Ucieczka tyranozaura i triceratopsa",
+   "rok": 2021,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "10940",
+   "nazwa": "Kwatera główna Spider-Mana",
+   "rok": 2021,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "10941",
+   "nazwa": "Disney Urodzinowy pociąg myszek Miki i Minnie",
+   "rok": 2021,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10942",
+   "nazwa": "Dom i kawiarnia Myszki Minnie",
+   "rok": 2021,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "10943",
+   "nazwa": "Szczęśliwe chwile z dzieciństwa",
+   "rok": 2021,
+   "elementy": 227,
+   "status": "eol"
+  },
+  {
+   "numer": "10944",
+   "nazwa": "Lot promem kosmicznym",
+   "rok": 2021,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10945",
+   "nazwa": "Śmieciarka i recykling",
+   "rok": 2021,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10946",
+   "nazwa": "Rodzinne biwakowanie",
+   "rok": 2021,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10947",
+   "nazwa": "Samochody wyścigowe",
+   "rok": 2021,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "10948",
+   "nazwa": "Parking piętrowy i myjnia samochodowa",
+   "rok": 2021,
+   "elementy": 112,
+   "status": "eol"
+  },
+  {
+   "numer": "10949",
+   "nazwa": "Zwierzęta gospodarskie",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "10950",
+   "nazwa": "Traktor i zwierzęta gospodarskie",
+   "rok": 2021,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "10951",
+   "nazwa": "Stadnina i kucyki",
+   "rok": 2021,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "10952",
+   "nazwa": "Stodoła, traktor i zwierzęta gospodarskie",
+   "rok": 2021,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "10953",
+   "nazwa": "Jednorożec",
+   "rok": 2021,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "10954",
+   "nazwa": "Pociąg z cyferkami - nauka liczenia",
+   "rok": 2021,
+   "elementy": 23,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10955",
+   "nazwa": "Pociąg ze zwierzątkami",
+   "rok": 2021,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10956",
+   "nazwa": "Park rozrywki",
+   "rok": 2021,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "10957",
+   "nazwa": "Helikopter strażacki i radiowóz",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "10958",
+   "nazwa": "Kreatywne przyjęcie urodzinowe",
+   "rok": 2021,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "10961",
+   "nazwa": "Samolot i lotnisko",
+   "rok": 2021,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "30332",
+   "nazwa": "Moja pierwsza rakieta kosmiczna",
+   "rok": 2021,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "10938",
+   "nazwa": "Jurassic World Dinozaurowa szkółka",
+   "rok": 2022,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "10959",
+   "nazwa": "Posterunek policji i helikopter",
+   "rok": 2022,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "10960",
+   "nazwa": "Disney Princess Sala balowa Belli",
+   "rok": 2022,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10962",
+   "nazwa": "Disney Planetarna misja Buzza Astrala",
+   "rok": 2022,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10963",
+   "nazwa": "Spider-Man i przyjaciele w wesołym miasteczku",
+   "rok": 2022,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "10964",
+   "nazwa": "Zabawa w kąpieli: pływająca czerwona panda",
+   "rok": 2022,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "10965",
+   "nazwa": "Zabawa w kąpieli: pływający pociąg ze zwierzątkami",
+   "rok": 2022,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "10966",
+   "nazwa": "Zabawa w kąpieli: pływająca wyspa ze zwierzątkami",
+   "rok": 2022,
+   "elementy": 20,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10967",
+   "nazwa": "Motocykl policyjny",
+   "rok": 2022,
+   "elementy": 5,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10968",
+   "nazwa": "Wizyta u lekarza",
+   "rok": 2022,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "10969",
+   "nazwa": "Wóz strażacki",
+   "rok": 2022,
+   "elementy": 21,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10970",
+   "nazwa": "Remiza strażacka i helikopter",
+   "rok": 2022,
+   "elementy": 117,
+   "status": "eol"
+  },
+  {
+   "numer": "10971",
+   "nazwa": "Dzikie zwierzęta Afryki",
+   "rok": 2022,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "10972",
+   "nazwa": "Dzikie zwierzęta oceanów",
+   "rok": 2022,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "10973",
+   "nazwa": "Dzikie zwierzęta Ameryki Południowej",
+   "rok": 2022,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "10974",
+   "nazwa": "Dzikie zwierzęta Azji",
+   "rok": 2022,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "10975",
+   "nazwa": "Dzikie zwierzęta świata",
+   "rok": 2022,
+   "elementy": 143,
+   "status": "eol"
+  },
+  {
+   "numer": "10976",
+   "nazwa": "Piernikowy domek Świętego Mikołaja",
+   "rok": 2022,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "10977",
+   "nazwa": "Mój pierwszy szczeniak i kotek z odgłosami",
+   "rok": 2022,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10978",
+   "nazwa": "Czas na kreatywne budowanie",
+   "rok": 2022,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "10979",
+   "nazwa": "Dzikie zwierzęta Europy",
+   "rok": 2022,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "10980",
+   "nazwa": "Zielona płytka konstrukcyjna",
+   "rok": 2022,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "30333",
+   "nazwa": "Mój pierwszy słoń",
+   "rok": 2022,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "472210",
+   "nazwa": "Triceratops",
+   "rok": 2022,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "10411",
+   "nazwa": "Poznaj kulturę chińską",
+   "rok": 2023,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "10935",
+   "nazwa": "Alfabetowe miasto",
+   "rok": 2023,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "10981",
+   "nazwa": "Rosnąca Marchewka",
+   "rok": 2023,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "10982",
+   "nazwa": "Traktor z warzywami i owocami",
+   "rok": 2023,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10983",
+   "nazwa": "Ryneczek bio",
+   "rok": 2023,
+   "elementy": 40,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10984",
+   "nazwa": "Ogród uprawowy",
+   "rok": 2023,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "10985",
+   "nazwa": "Turbina wiatrowa i samochód elektryczny",
+   "rok": 2023,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10986",
+   "nazwa": "Dom rodzinny na kółkach",
+   "rok": 2023,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "10987",
+   "nazwa": "Ciężarówka recyklingowa",
+   "rok": 2023,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10988",
+   "nazwa": "Przejażdżka autobusem",
+   "rok": 2023,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10989",
+   "nazwa": "Park wodny",
+   "rok": 2023,
+   "elementy": 19,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10990",
+   "nazwa": "Budowa",
+   "rok": 2023,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "10991",
+   "nazwa": "Wymarzony plac zabaw",
+   "rok": 2023,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "10992",
+   "nazwa": "Dzień z życia w żłobku",
+   "rok": 2023,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "10993",
+   "nazwa": "Domek na drzewie",
+   "rok": 2023,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "10994",
+   "nazwa": "Dom rodzinny 3 w 1",
+   "rok": 2023,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "10995",
+   "nazwa": "Spider-Man - zabawa w dom",
+   "rok": 2023,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10996",
+   "nazwa": "Zygzak McQueen i Złomek — myjnia",
+   "rok": 2023,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10997",
+   "nazwa": "Disney Kempingowa przygoda",
+   "rok": 2023,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10998",
+   "nazwa": "Magiczny zamek 3 w 1",
+   "rok": 2023,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "30648",
+   "nazwa": "Wieloryb",
+   "rok": 2023,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "472302",
+   "nazwa": "Firefighter",
+   "rok": 2023,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "66776",
+   "nazwa": "Fruit & Vegetables Gift Pack",
+   "rok": 2023,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10412",
+   "nazwa": "Pociąg ze zwierzątkami",
+   "rok": 2024,
+   "elementy": 19,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10413",
+   "nazwa": "Codzienne czynności - kąpiel",
+   "rok": 2024,
+   "elementy": 15,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10414",
+   "nazwa": "Codzienne czynności - jedzenie",
+   "rok": 2024,
+   "elementy": 28,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10415",
+   "nazwa": "Moje uczucia i emocje",
+   "rok": 2024,
+   "elementy": 23,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10416",
+   "nazwa": "Opieka nad zwierzętami na farmie",
+   "rok": 2024,
+   "elementy": 74,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10417",
+   "nazwa": "Maniek na wyścigu",
+   "rok": 2024,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "10418",
+   "nazwa": "Elza i Bruni w Zaczarowanym Lesie",
+   "rok": 2024,
+   "elementy": 31,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10419",
+   "nazwa": "Opieka nad pszczołami i ulami",
+   "rok": 2024,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10420",
+   "nazwa": "Disney Stoisko kawowe Arielki i Florka",
+   "rok": 2024,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "10421",
+   "nazwa": "Ciężarówka z alfabetem",
+   "rok": 2024,
+   "elementy": 36,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10422",
+   "nazwa": "Przygoda w promie kosmicznym 3w1",
+   "rok": 2024,
+   "elementy": 58,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10423",
+   "nazwa": "Ludziki z emocjami",
+   "rok": 2024,
+   "elementy": 71,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10424",
+   "nazwa": "Disney Motocyklowa przygoda Spina",
+   "rok": 2024,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10431",
+   "nazwa": "Peppa Pig Ogród i domek na drzewie Peppy",
+   "rok": 2024,
+   "elementy": 20,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10432",
+   "nazwa": "Peppa Pig Peppa i rejs łodzią",
+   "rok": 2024,
+   "elementy": 23,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10433",
+   "nazwa": "Peppa Pig Urodzinowy domek Peppy",
+   "rok": 2024,
+   "elementy": 59,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10434",
+   "nazwa": "Peppa Pig Peppa i supermarket",
+   "rok": 2024,
+   "elementy": 70,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10435",
+   "nazwa": "Disney Magiczny podwodny pałac Arielki",
+   "rok": 2024,
+   "elementy": 116,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10438",
+   "nazwa": "Wizyta w lecznicy dla zwierząt",
+   "rok": 2024,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10439",
+   "nazwa": "Pudełko w kształcie klocka z autami i ciężarówkami",
+   "rok": 2024,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "30673",
+   "nazwa": "Moja pierwsza kaczuszka",
+   "rok": 2024,
+   "elementy": 7,
+   "status": "dostepny"
+  },
+  {
+   "numer": "472402",
+   "nazwa": "George Pig",
+   "rok": 2024,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "66788",
+   "nazwa": "Wielka wyobraźnia - zestaw prezentowy",
+   "rok": 2024,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "10425",
+   "nazwa": "Tunel i tory kolejowe - zestaw rozszerzający",
+   "rok": 2025,
+   "elementy": 20,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10426",
+   "nazwa": "Most i tory kolejowe - zestaw rozszerzający",
+   "rok": 2025,
+   "elementy": 42,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10427",
+   "nazwa": "Przygoda z interaktywnym pociągiem",
+   "rok": 2025,
+   "elementy": 57,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10428",
+   "nazwa": "Duży interaktywny pociąg miejski",
+   "rok": 2025,
+   "elementy": 103,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10440",
+   "nazwa": "Balansujące drzewko",
+   "rok": 2025,
+   "elementy": 27,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10441",
+   "nazwa": "Sorter kształtów: dom szczeniaczków",
+   "rok": 2025,
+   "elementy": 17,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10442",
+   "nazwa": "Rodziny dzikich zwierząt: pingwiny i lwy",
+   "rok": 2025,
+   "elementy": 10,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10443",
+   "nazwa": "Pierwszy raz na lotnisku",
+   "rok": 2025,
+   "elementy": 23,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10444",
+   "nazwa": "Kreatywny ogród i kwiaty",
+   "rok": 2025,
+   "elementy": 45,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10445",
+   "nazwa": "Bolidy i kierowcy F1",
+   "rok": 2025,
+   "elementy": 70,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10446",
+   "nazwa": "Rodziny dzikich zwierząt 3w1",
+   "rok": 2025,
+   "elementy": 92,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10447",
+   "nazwa": "Karetka z kierowcą",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10448",
+   "nazwa": "3 w 1 Zwierzątka na kółkach",
+   "rok": 2025,
+   "elementy": 58,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10449",
+   "nazwa": "Pierwszy raz: wizyta u lekarza",
+   "rok": 2025,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10450",
+   "nazwa": "Gra Zamek Hopsy",
+   "rok": 2025,
+   "elementy": 47,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10451",
+   "nazwa": "3 w 1 Dinozaury na kółkach",
+   "rok": 2025,
+   "elementy": 108,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10452",
+   "nazwa": "Świnka Peppa Wyprawa na biwak",
+   "rok": 2025,
+   "elementy": 32,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10453",
+   "nazwa": "Peppa Pig Wesołe miasteczko",
+   "rok": 2025,
+   "elementy": 53,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10454",
+   "nazwa": "Disney Klub przyjaciół Myszki Miki i samochód",
+   "rok": 2025,
+   "elementy": 27,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10455",
+   "nazwa": "Disney Przyjęcie w lodowym zamku Anny i Elzy",
+   "rok": 2025,
+   "elementy": 54,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10456",
+   "nazwa": "Disney Wizyta McQueena w warsztacie Wójta",
+   "rok": 2025,
+   "elementy": 35,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10457",
+   "nazwa": "Przyjęcie urodzinowe Kubusia Puchatka",
+   "rok": 2025,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10458",
+   "nazwa": "Bluey Wyprawa po lody z Blue",
+   "rok": 2025,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10459",
+   "nazwa": "Bluey Dom rodzinny Blue z grą pamięciową",
+   "rok": 2025,
+   "elementy": 83,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10460",
+   "nazwa": "Zielona płytka konstrukcyjna",
+   "rok": 2025,
+   "elementy": 1,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10461",
+   "nazwa": "Ogród i szklarnia Dziadka Świnki",
+   "rok": 2025,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "30686",
+   "nazwa": "Mój pierwszy kwiatek i pszczoła",
+   "rok": 2025,
+   "elementy": 7,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10462",
+   "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
+   "rok": 2026,
+   "elementy": 37,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10463",
+   "nazwa": "Dinozaur Spidey-Rex i Zielony Goblin",
+   "rok": 2026,
+   "elementy": 25,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10464",
+   "nazwa": "Marvel Kryjówka Pajęczej Drużyny",
+   "rok": 2026,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10465",
+   "nazwa": "Klub Myszki Miki z Minnie i Pluto",
+   "rok": 2026,
+   "elementy": 87,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10466",
+   "nazwa": "Podróż pociągiem z Dziadkiem Świnką",
+   "rok": 2026,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "10467",
+   "nazwa": "Dom rodzinny",
+   "rok": 2026,
+   "elementy": 84,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10468",
+   "nazwa": "Peppa Ciągnik i rynek",
+   "rok": 2026,
+   "elementy": 18,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10469",
+   "nazwa": "Pizzerki z Muffinką i Blue",
+   "rok": 2026,
+   "elementy": 44,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10470",
+   "nazwa": "Nowoczesny dom rodzinny 3 w 1 z figurkami",
+   "rok": 2026,
+   "elementy": 166,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10471",
+   "nazwa": "Niebieski motocykl policyjny",
+   "rok": 2026,
+   "elementy": 11,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10472",
+   "nazwa": "Gra w budowanie zwierzątek",
+   "rok": 2026,
+   "elementy": 94,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10473",
+   "nazwa": "Wóz strażacki z wężem i strażakiem",
+   "rok": 2026,
+   "elementy": 28,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10474",
+   "nazwa": "Kreatywne pojazdy",
+   "rok": 2026,
+   "elementy": 42,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10475",
+   "nazwa": "Maszyny budowlane 3 w 1",
+   "rok": 2026,
+   "elementy": 22,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10476",
+   "nazwa": "Plac budowy z pojazdami 3 w 1",
+   "rok": 2026,
+   "elementy": 84,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10477",
+   "nazwa": "Kreatywne zwierzaki 3 w 1",
+   "rok": 2026,
+   "elementy": 24,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10478",
+   "nazwa": "Kreatywne rampy 3 w 1 z pojazdami",
+   "rok": 2026,
+   "elementy": 111,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10479",
+   "nazwa": "Kreatywne pudełko pełne kolorów",
+   "rok": 2026,
+   "elementy": 80,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10480",
+   "nazwa": "Las odkrywców z dzikimi zwierzętami",
+   "rok": 2026,
+   "elementy": 131,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10481",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "30712",
+   "nazwa": "Tort",
+   "rok": 2026,
+   "elementy": 9,
+   "status": "dostepny"
+  },
+  {
+   "numer": "LANDDUCK",
+   "nazwa": "M&T Land Duck",
+   "rok": 2026,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "PONDDUCK",
+   "nazwa": "M&T Pond Duck",
+   "rok": 2026,
+   "elementy": 7,
    "status": "eol"
   }
  ]
