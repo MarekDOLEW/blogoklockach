@@ -28804,6 +28804,2725 @@
  ],
  "DUPLO": [
   {
+   "numer": "1751",
+   "nazwa": "Small Bulk Bucket",
+   "rok": 1996,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "1753",
+   "nazwa": "Medium Bulk Bucket",
+   "rok": 1996,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "1754",
+   "nazwa": "Supplementary Set",
+   "rok": 1996,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "1784",
+   "nazwa": "Animals Bulk Box",
+   "rok": 1996,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "1797",
+   "nazwa": "Bonus Bucket",
+   "rok": 1996,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "1856",
+   "nazwa": "Water Park Tub",
+   "rok": 1996,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "1861",
+   "nazwa": "Box of Bricks",
+   "rok": 1996,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "1866",
+   "nazwa": "Stack-n-Learn Sampler",
+   "rok": 1996,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "2004",
+   "nazwa": "Jumbo Building Tub",
+   "rok": 1996,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "2006",
+   "nazwa": "Primo Box",
+   "rok": 1996,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2091",
+   "nazwa": "Primo Tumbler",
+   "rok": 1996,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "2092",
+   "nazwa": "Primo Cannister",
+   "rok": 1996,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "2220",
+   "nazwa": "Build 'n' Play Fire Theme",
+   "rok": 1996,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "2221",
+   "nazwa": "Build 'n' Play Circus Theme",
+   "rok": 1996,
+   "elementy": 81,
+   "status": "eol"
+  },
+  {
+   "numer": "2321",
+   "nazwa": "Happy Birthday Building Set",
+   "rok": 1996,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "2339",
+   "nazwa": "Basic Box",
+   "rok": 1996,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "2346",
+   "nazwa": "Train Oval Suitcase",
+   "rok": 1996,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "2349",
+   "nazwa": "Basic Storage Unit",
+   "rok": 1996,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "2356",
+   "nazwa": "Duplo Jumbo Tub",
+   "rok": 1996,
+   "elementy": 117,
+   "status": "eol"
+  },
+  {
+   "numer": "2673",
+   "nazwa": "Motorcycle Patrol",
+   "rok": 1996,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "2674",
+   "nazwa": "Racing Team",
+   "rok": 1996,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "2683",
+   "nazwa": "Police Station",
+   "rok": 1996,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "2685",
+   "nazwa": "Water Park",
+   "rok": 1996,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "2694",
+   "nazwa": "Play Farm",
+   "rok": 1996,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "2695",
+   "nazwa": "Pony Carriage",
+   "rok": 1996,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2696",
+   "nazwa": "Farm Tractor",
+   "rok": 1996,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "2697",
+   "nazwa": "Farm Animals",
+   "rok": 1996,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "2698",
+   "nazwa": "Farm",
+   "rok": 1996,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "2699",
+   "nazwa": "The DUPLO Farm",
+   "rok": 1996,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "2731",
+   "nazwa": "Push-Along Play Train",
+   "rok": 1996,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "2739",
+   "nazwa": "Tip Wagon",
+   "rok": 1996,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "2741",
+   "nazwa": "Electric Train Starter Set",
+   "rok": 1996,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "2745",
+   "nazwa": "Deluxe Electric Train Set",
+   "rok": 1996,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "2781",
+   "nazwa": "Bathroom",
+   "rok": 1996,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "2791",
+   "nazwa": "Playground",
+   "rok": 1996,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "2917",
+   "nazwa": "Aeroplane",
+   "rok": 1996,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2935",
+   "nazwa": "Fire Engine",
+   "rok": 1996,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "1739",
+   "nazwa": "Penguin",
+   "rok": 1997,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "1781",
+   "nazwa": "Dinosaur Babies",
+   "rok": 1997,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "2124",
+   "nazwa": "Green Bucket",
+   "rok": 1997,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "2125",
+   "nazwa": "Large Bucket",
+   "rok": 1997,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "2189",
+   "nazwa": "Pony Set",
+   "rok": 1997,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2241",
+   "nazwa": "Basic Set",
+   "rok": 1997,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "2242",
+   "nazwa": "Extra Bricks (S)",
+   "rok": 1997,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "2245",
+   "nazwa": "Farmhouse Bucket",
+   "rok": 1997,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "2246",
+   "nazwa": "Large Basic Set",
+   "rok": 1997,
+   "status": "eol"
+  },
+  {
+   "numer": "2247",
+   "nazwa": "Extra Bricks (M)",
+   "rok": 1997,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "2249",
+   "nazwa": "Basic Set",
+   "rok": 1997,
+   "status": "eol"
+  },
+  {
+   "numer": "2251",
+   "nazwa": "Horse 'n' Home",
+   "rok": 1997,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "2252",
+   "nazwa": "Basic Cannister Set",
+   "rok": 1997,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "2261",
+   "nazwa": "Happy Gardener",
+   "rok": 1997,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "2262",
+   "nazwa": "Basic Set",
+   "rok": 1997,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "2264",
+   "nazwa": "Medium Bucket",
+   "rok": 1997,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "2265",
+   "nazwa": "Large Puppy Clearpack",
+   "rok": 1997,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "2266",
+   "nazwa": "Extra Large Value Bucket",
+   "rok": 1997,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "2581",
+   "nazwa": "School Bus",
+   "rok": 1997,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "2601",
+   "nazwa": "Mother & Baby",
+   "rok": 1997,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "2602",
+   "nazwa": "Dinosaurs Family Home",
+   "rok": 1997,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "2603",
+   "nazwa": "Dinosaur Tub",
+   "rok": 1997,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "2604",
+   "nazwa": "Dino World",
+   "rok": 1997,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "2605",
+   "nazwa": "Dinosaur Park",
+   "rok": 1997,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "2606",
+   "nazwa": "Dump Truck",
+   "rok": 1997,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2607",
+   "nazwa": "Speed Car",
+   "rok": 1997,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2684",
+   "nazwa": "Dinghy",
+   "rok": 1997,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2687",
+   "nazwa": "Harbour",
+   "rok": 1997,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "2761",
+   "nazwa": "Pony Stables",
+   "rok": 1997,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "2762",
+   "nazwa": "Family Fun Playground",
+   "rok": 1997,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "2805",
+   "nazwa": "Pony Club",
+   "rok": 1997,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "2806",
+   "nazwa": "Dino Mini Set",
+   "rok": 1997,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2851",
+   "nazwa": "Medium Dino Bucket",
+   "rok": 1997,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "2852",
+   "nazwa": "Large Dino Bucket",
+   "rok": 1997,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "1800",
+   "nazwa": "Turtle",
+   "rok": 1998,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2198",
+   "nazwa": "Building Plates",
+   "rok": 1998,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2222",
+   "nazwa": "Tunnel Fun",
+   "rok": 1998,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "2223",
+   "nazwa": "Spooky House",
+   "rok": 1998,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "2224",
+   "nazwa": "Duplo Tub",
+   "rok": 1998,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "2226",
+   "nazwa": "Duplo Bucket",
+   "rok": 1998,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "2268",
+   "nazwa": "Katie Cat Bucket",
+   "rok": 1998,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "2269",
+   "nazwa": "Build a Zoo",
+   "rok": 1998,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "2270",
+   "nazwa": "Spotty Dog Set",
+   "rok": 1998,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2271",
+   "nazwa": "Boy with Barrow",
+   "rok": 1998,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2277",
+   "nazwa": "Boy with Cat",
+   "rok": 1998,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "2279",
+   "nazwa": "Tubular Motion",
+   "rok": 1998,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "2431",
+   "nazwa": "Big Chief Brown Bear and Canoe",
+   "rok": 1998,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2432",
+   "nazwa": "Big Chief's Camp",
+   "rok": 1998,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "2433",
+   "nazwa": "Stagecoach",
+   "rok": 1998,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "2434",
+   "nazwa": "Sheriff Jake",
+   "rok": 1998,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "2435",
+   "nazwa": "Western Town",
+   "rok": 1998,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "2436",
+   "nazwa": "Big Chief Brown Bear's Camp",
+   "rok": 1998,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "2437",
+   "nazwa": "Sheriff Canister",
+   "rok": 1998,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "2438",
+   "nazwa": "Big Western Set",
+   "rok": 1998,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "2583",
+   "nazwa": "Fire Truck",
+   "rok": 1998,
+   "status": "eol"
+  },
+  {
+   "numer": "2599",
+   "nazwa": "Racing Team",
+   "rok": 1998,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "2600",
+   "nazwa": "Bronto Dinosaurs",
+   "rok": 1998,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "2763",
+   "nazwa": "Playground Bucket",
+   "rok": 1998,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "2815",
+   "nazwa": "Bike Ride",
+   "rok": 1998,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "2817",
+   "nazwa": "Party Time",
+   "rok": 1998,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "2818",
+   "nazwa": "Family Home",
+   "rok": 1998,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "2838",
+   "nazwa": "Native American Family",
+   "rok": 1998,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "2862",
+   "nazwa": "Zoo Babies",
+   "rok": 1998,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "2864",
+   "nazwa": "Wild Animals",
+   "rok": 1998,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "2865",
+   "nazwa": "Children's Zoo",
+   "rok": 1998,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "2866",
+   "nazwa": "Attraction Centre",
+   "rok": 1998,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "2893",
+   "nazwa": "Boy with ghost",
+   "rok": 1998,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2894",
+   "nazwa": "Dino Baby",
+   "rok": 1998,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "2895",
+   "nazwa": "Rooster on Wheels",
+   "rok": 1998,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2922",
+   "nazwa": "Dinosaur Blocks",
+   "rok": 1998,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "2997",
+   "nazwa": "Duplo Bucket",
+   "rok": 1998,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "3024",
+   "nazwa": "Building Table",
+   "rok": 1998,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "3029",
+   "nazwa": "Limited Edition Silver Duplo Bucket",
+   "rok": 1998,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "3030",
+   "nazwa": "Limited Edition Tub with Silver Brick",
+   "rok": 1998,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "3037",
+   "nazwa": "Strata Tub",
+   "rok": 1998,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "3762",
+   "nazwa": "Limited Edition Duplo Bucket",
+   "rok": 1998,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "1193",
+   "nazwa": "Water Park Tub",
+   "rok": 1999,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "2253",
+   "nazwa": "Big Tubular Playtime",
+   "rok": 1999,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "2280",
+   "nazwa": "Brick Runner 2",
+   "rok": 1999,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "2281",
+   "nazwa": "Brick Runner 3",
+   "rok": 1999,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "2284",
+   "nazwa": "Clown-Go-Round",
+   "rok": 1999,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "2294",
+   "nazwa": "Ladybug",
+   "rok": 1999,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "2299",
+   "nazwa": "Pingo",
+   "rok": 1999,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "2300",
+   "nazwa": "Small Bucket, Green",
+   "rok": 1999,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "2466",
+   "nazwa": "Medium Bucket, Yellow",
+   "rok": 1999,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "2467",
+   "nazwa": "DUPLO Bucket",
+   "rok": 1999,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "2588",
+   "nazwa": "Safari Hippo",
+   "rok": 1999,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "2803",
+   "nazwa": "Dinosaur Babies",
+   "rok": 1999,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2807",
+   "nazwa": "Bulldozer",
+   "rok": 1999,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "2808",
+   "nazwa": "Light & Sound Dump Truck",
+   "rok": 1999,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "2811",
+   "nazwa": "Fire and Police Station",
+   "rok": 1999,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "2814",
+   "nazwa": "Building Team",
+   "rok": 1999,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "2819",
+   "nazwa": "Brick Mixer",
+   "rok": 1999,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "2821",
+   "nazwa": "Dinosaur Fun Forest",
+   "rok": 1999,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "2828",
+   "nazwa": "Supper Time",
+   "rok": 1999,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2829",
+   "nazwa": "Nap Time",
+   "rok": 1999,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2830",
+   "nazwa": "The Strawberries",
+   "rok": 1999,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "2831",
+   "nazwa": "The Toadstools",
+   "rok": 1999,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "2832",
+   "nazwa": "The Bluebells",
+   "rok": 1999,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "2833",
+   "nazwa": "Lila, the Big Bluebell",
+   "rok": 1999,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "2834",
+   "nazwa": "The Meadowsweet's' Home",
+   "rok": 1999,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "2981",
+   "nazwa": "Pooh and his Honeypot",
+   "rok": 1999,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "2982",
+   "nazwa": "Eeyore's Birthday Surprise",
+   "rok": 1999,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "2983",
+   "nazwa": "Pooh and Tigger Play Hide and Seek",
+   "rok": 1999,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "2984",
+   "nazwa": "Pooh and Piglet go Honey-Hunting",
+   "rok": 1999,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "2985",
+   "nazwa": "Tigger's Slippery Slide",
+   "rok": 1999,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2987",
+   "nazwa": "Welcome to the Hundred Acre Wood",
+   "rok": 1999,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "2988",
+   "nazwa": "A Surprise for Eeyore",
+   "rok": 1999,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "3036",
+   "nazwa": "Large Bucket",
+   "rok": 1999,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "9122",
+   "nazwa": "Vehicles",
+   "rok": 1999,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "1086",
+   "nazwa": "Bulk Bucket",
+   "rok": 2000,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "1261",
+   "nazwa": "Tea With Bumble Bee",
+   "rok": 2000,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "1450",
+   "nazwa": "DUPLO Bucket",
+   "rok": 2000,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "2225",
+   "nazwa": "Heavy Loader",
+   "rok": 2000,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "2297",
+   "nazwa": "Cute Building Animals",
+   "rok": 2000,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "2332",
+   "nazwa": "DUPLO Bucket (XL) - Elephants",
+   "rok": 2000,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "2400",
+   "nazwa": "Cute Building Vehicles",
+   "rok": 2000,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "2477",
+   "nazwa": "Basic Building Set",
+   "rok": 2000,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "2751",
+   "nazwa": "Egg Fun",
+   "rok": 2000,
+   "status": "eol"
+  },
+  {
+   "numer": "2797",
+   "nazwa": "Happy Bucket",
+   "rok": 2000,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "2799",
+   "nazwa": "XL Fun-time Bucket",
+   "rok": 2000,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "2825",
+   "nazwa": "The Meadowsweets",
+   "rok": 2000,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "2827",
+   "nazwa": "Read, Listen and Play Box",
+   "rok": 2000,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "2931",
+   "nazwa": "Push Locomotive",
+   "rok": 2000,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "2932",
+   "nazwa": "Train Starter Set with Motor",
+   "rok": 2000,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "2933",
+   "nazwa": "Deluxe Train Set with Motor",
+   "rok": 2000,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "2936",
+   "nazwa": "Train Station",
+   "rok": 2000,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "2937",
+   "nazwa": "Supplementary Wagon",
+   "rok": 2000,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "2938",
+   "nazwa": "Train Tunnel",
+   "rok": 2000,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "2942",
+   "nazwa": "Play House",
+   "rok": 2000,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "2967",
+   "nazwa": "Special Tubes",
+   "rok": 2000,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "2968",
+   "nazwa": "Animal Safari",
+   "rok": 2000,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "2989",
+   "nazwa": "Pooh's Honeypot",
+   "rok": 2000,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "2990",
+   "nazwa": "Tigger's Tree-House",
+   "rok": 2000,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "3048",
+   "nazwa": "Medium Idea Bucket",
+   "rok": 2000,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "3049",
+   "nazwa": "XL Idea Bucket",
+   "rok": 2000,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "3099",
+   "nazwa": "Duplo Storage Chest",
+   "rok": 2000,
+   "elementy": 142,
+   "status": "eol"
+  },
+  {
+   "numer": "3336",
+   "nazwa": "Half-Tub Green",
+   "rok": 2000,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "4287",
+   "nazwa": "Medium Bucket",
+   "rok": 2000,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4824",
+   "nazwa": "Duplo Bucket, Medium",
+   "rok": 2000,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "4839",
+   "nazwa": "Duplo Bucket",
+   "rok": 2000,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "7975",
+   "nazwa": "XL Bucket",
+   "rok": 2000,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "1166",
+   "nazwa": "Stack-n-Learn Gift Item",
+   "rok": 2001,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "1201",
+   "nazwa": "Chicken Run",
+   "rok": 2001,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "1238",
+   "nazwa": "Medium Bucket",
+   "rok": 2001,
+   "status": "eol"
+  },
+  {
+   "numer": "1403",
+   "nazwa": "Racing Leopard",
+   "rok": 2001,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "1404",
+   "nazwa": "Racing Tiger",
+   "rok": 2001,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "1405",
+   "nazwa": "Racing Lion",
+   "rok": 2001,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "1406",
+   "nazwa": "Nursing the Baby",
+   "rok": 2001,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "1407",
+   "nazwa": "Cooking with Mummy",
+   "rok": 2001,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "1408",
+   "nazwa": "Walking the dog with Daddy",
+   "rok": 2001,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2580",
+   "nazwa": "Friendly Animal Bus",
+   "rok": 2001,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "2863",
+   "nazwa": "Box of Bricks",
+   "rok": 2001,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "2927",
+   "nazwa": "{House with CD-ROM}",
+   "rok": 2001,
+   "status": "eol"
+  },
+  {
+   "numer": "2951",
+   "nazwa": "Lisa",
+   "rok": 2001,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2952",
+   "nazwa": "Marie",
+   "rok": 2001,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "2953",
+   "nazwa": "Anna",
+   "rok": 2001,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "2954",
+   "nazwa": "Picnic",
+   "rok": 2001,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "2955",
+   "nazwa": "Sarah",
+   "rok": 2001,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "2961",
+   "nazwa": "Bedroom",
+   "rok": 2001,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "2971",
+   "nazwa": "Action Policebike",
+   "rok": 2001,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "2975",
+   "nazwa": "Bouncing with Tigger",
+   "rok": 2001,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "2976",
+   "nazwa": "Acorn Adventure with Piglet",
+   "rok": 2001,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "2977",
+   "nazwa": "Eeyore and the Little Raincloud",
+   "rok": 2001,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "2979",
+   "nazwa": "Build and Play in the Pop-Up 100 Acre Wood",
+   "rok": 2001,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "2991",
+   "nazwa": "Pooh and the Honeybees",
+   "rok": 2001,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "2993",
+   "nazwa": "Surprise Birthday Party for Eeyore",
+   "rok": 2001,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "3083",
+   "nazwa": "Flying Action",
+   "rok": 2001,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "3085",
+   "nazwa": "Race Action",
+   "rok": 2001,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "3087",
+   "nazwa": "Circus Princess",
+   "rok": 2001,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "3088",
+   "nazwa": "Growing Garden",
+   "rok": 2001,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "3089",
+   "nazwa": "Adventure Trip",
+   "rok": 2001,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "3090",
+   "nazwa": "Forest Picnic",
+   "rok": 2001,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "3091",
+   "nazwa": "Big Gas Truck",
+   "rok": 2001,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "3092",
+   "nazwa": "Friendly Farm",
+   "rok": 2001,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "3093",
+   "nazwa": "Fun Playground",
+   "rok": 2001,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "3095",
+   "nazwa": "Wildlife Park",
+   "rok": 2001,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "3126",
+   "nazwa": "Green Bucket",
+   "rok": 2001,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "3263",
+   "nazwa": "Goozle",
+   "rok": 2001,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "3264",
+   "nazwa": "Tez",
+   "rok": 2001,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "3265",
+   "nazwa": "Wazo",
+   "rok": 2001,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "3266",
+   "nazwa": "Tubes",
+   "rok": 2001,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "3267",
+   "nazwa": "Brick Runner",
+   "rok": 2001,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "3271",
+   "nazwa": "Bob's Workshop",
+   "rok": 2001,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "3272",
+   "nazwa": "Scoop on the Road",
+   "rok": 2001,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "3273",
+   "nazwa": "Bob, Lofty and the Mice",
+   "rok": 2001,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "3274",
+   "nazwa": "Bob and Muck Repair the Barn",
+   "rok": 2001,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "3275",
+   "nazwa": "Bob's Big Building Box",
+   "rok": 2001,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "3276",
+   "nazwa": "Muck and Scoop",
+   "rok": 2001,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "4827",
+   "nazwa": "Medium Bucket",
+   "rok": 2001,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "4830",
+   "nazwa": "Medium Bucket",
+   "rok": 2001,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "4836",
+   "nazwa": "Medium Bucket",
+   "rok": 2001,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "5322",
+   "nazwa": "Duplo Bucket",
+   "rok": 2001,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "5327",
+   "nazwa": "Duplo Bucket",
+   "rok": 2001,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "5336",
+   "nazwa": "Duplo Bucket",
+   "rok": 2001,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "5339",
+   "nazwa": "Small Bucket with Dog",
+   "rok": 2001,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "5342",
+   "nazwa": "Duplo Bucket",
+   "rok": 2001,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "7951",
+   "nazwa": "XL Bucket",
+   "rok": 2001,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "7969",
+   "nazwa": "XL Bucket",
+   "rok": 2001,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "3278",
+   "nazwa": "Wallpaper Wendy",
+   "rok": 2002,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "3279",
+   "nazwa": "Bob at Work",
+   "rok": 2002,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "3281",
+   "nazwa": "Naughty Spud",
+   "rok": 2002,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "3282",
+   "nazwa": "Clock Tower Bob",
+   "rok": 2002,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "3283",
+   "nazwa": "Dizzy's Birdwatch",
+   "rok": 2002,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "4173427",
+   "nazwa": "LEGOLAND Germany Yellow Bucket",
+   "rok": 2002,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4296",
+   "nazwa": "Green Duplo Strata",
+   "rok": 2004,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "4680",
+   "nazwa": "Traffic Patrol",
+   "rok": 2004,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "4681",
+   "nazwa": "Fire Truck",
+   "rok": 2004,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "4683",
+   "nazwa": "Pony and Cart",
+   "rok": 2004,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "4684",
+   "nazwa": "Pick-Up Truck",
+   "rok": 2004,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "4685",
+   "nazwa": "Fork Lift",
+   "rok": 2004,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "4686",
+   "nazwa": "Little Farm",
+   "rok": 2004,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4687",
+   "nazwa": "Tractor-Trailer",
+   "rok": 2004,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "4688",
+   "nazwa": "Team Construction",
+   "rok": 2004,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "4689",
+   "nazwa": "Playhouse",
+   "rok": 2004,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "4690",
+   "nazwa": "Horse Stable",
+   "rok": 2004,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "4691",
+   "nazwa": "Police Station",
+   "rok": 2004,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "4692",
+   "nazwa": "Fire Car",
+   "rok": 2004,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "4693",
+   "nazwa": "Ferrari F1 Race Car",
+   "rok": 2004,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "4694",
+   "nazwa": "Ferrari F1 Racing Team",
+   "rok": 2004,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "4775",
+   "nazwa": "Knight and Squire",
+   "rok": 2004,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "4776",
+   "nazwa": "Smocza wieża",
+   "rok": 2004,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "4777",
+   "nazwa": "Zamek królewski",
+   "rok": 2004,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "4908",
+   "nazwa": "DUPLO Basic Bricks",
+   "rok": 2004,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "5351",
+   "nazwa": "Duplo Bucket",
+   "rok": 2004,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "5352",
+   "nazwa": "Duplo Tub",
+   "rok": 2004,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "5353",
+   "nazwa": "Duplo Tub",
+   "rok": 2004,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "5354",
+   "nazwa": "Tube",
+   "rok": 2004,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "5385",
+   "nazwa": "Special Edition Bucket",
+   "rok": 2004,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "5513",
+   "nazwa": "Duplo Tubular Chest",
+   "rok": 2004,
+   "elementy": 113,
+   "status": "eol"
+  },
+  {
+   "numer": "65517",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2004,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "7349",
+   "nazwa": "Skater Boy",
+   "rok": 2004,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "7349-2",
+   "nazwa": "Worker",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "7349-3",
+   "nazwa": "Police Officer",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "3292",
+   "nazwa": "Dizzy's Bridge Set",
+   "rok": 2005,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "3293",
+   "nazwa": "Benny's Dig Set",
+   "rok": 2005,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "3294",
+   "nazwa": "Muck segreguje odpady",
+   "rok": 2005,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "3295",
+   "nazwa": "Zestaw drogowy Roleya",
+   "rok": 2005,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "3296",
+   "nazwa": "Travis i przyczepa",
+   "rok": 2005,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "3297",
+   "nazwa": "Scoop i Lofty na placu budowy",
+   "rok": 2005,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "3599",
+   "nazwa": "XXL 250 Tube",
+   "rok": 2005,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "3770",
+   "nazwa": "My First Train",
+   "rok": 2005,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "3771",
+   "nazwa": "Pociąg - zestaw dla malucha",
+   "rok": 2005,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "3772",
+   "nazwa": "Pociąg - zestaw de luxe",
+   "rok": 2005,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "3773",
+   "nazwa": "Level Crossing",
+   "rok": 2005,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "3774",
+   "nazwa": "Bridge",
+   "rok": 2005,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "3775",
+   "nazwa": "Points",
+   "rok": 2005,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "3778",
+   "nazwa": "Station",
+   "rok": 2005,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "3957",
+   "nazwa": "DUPLO Basic Bricks",
+   "rok": 2005,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "4085",
+   "nazwa": "50th Anniversary Bucket",
+   "rok": 2005,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "4422",
+   "nazwa": "Handy Box",
+   "rok": 2005,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "4658",
+   "nazwa": "Farm Animals",
+   "rok": 2005,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "4659",
+   "nazwa": "Garbage Truck",
+   "rok": 2005,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "4661",
+   "nazwa": "Construction Worker",
+   "rok": 2005,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "4662",
+   "nazwa": "Post Office",
+   "rok": 2005,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "4663",
+   "nazwa": "Zoo",
+   "rok": 2005,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "4664",
+   "nazwa": "Fire Station",
+   "rok": 2005,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "4665",
+   "nazwa": "Big Farm",
+   "rok": 2005,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "4779",
+   "nazwa": "Baszta",
+   "rok": 2005,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "4783",
+   "nazwa": "DUPLO Basic Bricks",
+   "rok": 2005,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "4784",
+   "nazwa": "Castle Black Dragon",
+   "rok": 2005,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "4785",
+   "nazwa": "Czarny Zamek",
+   "rok": 2005,
+   "elementy": 380,
+   "status": "eol"
+  },
+  {
+   "numer": "4820",
+   "nazwa": "Pałac księżniczki",
+   "rok": 2005,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "4821",
+   "nazwa": "Princess' Horse and Carriage",
+   "rok": 2005,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "4822",
+   "nazwa": "Princess' Bedroom",
+   "rok": 2005,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "5352-2",
+   "nazwa": "50th Anniversary Tub",
+   "rok": 2005,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "5367",
+   "nazwa": "Yellow Tub",
+   "rok": 2005,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "5371",
+   "nazwa": "Duplo Bucket Green",
+   "rok": 2005,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "5503",
+   "nazwa": "Duplo Dog",
+   "rok": 2005,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5504",
+   "nazwa": "Duplo Airplane",
+   "rok": 2005,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5552",
+   "nazwa": "James at Knapford Station",
+   "rok": 2005,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5554",
+   "nazwa": "Thomas: skład towarowy",
+   "rok": 2005,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "5555",
+   "nazwa": "Toby at Wellsworth Station",
+   "rok": 2005,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "5556",
+   "nazwa": "Percy at the Water Tower",
+   "rok": 2005,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "65766",
+   "nazwa": "Thomas Bridge & Tunnel Set",
+   "rok": 2005,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "65773",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2005,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "7840",
+   "nazwa": "Lotnisko",
+   "rok": 2005,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "7841",
+   "nazwa": "Helicopter Rescue Unit",
+   "rok": 2005,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "7842",
+   "nazwa": "Jet Fuel Truck",
+   "rok": 2005,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "7843",
+   "nazwa": "Transportowiec",
+   "rok": 2005,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "2598",
+   "nazwa": "Large Red Building Plate",
+   "rok": 2006,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "3191",
+   "nazwa": "Anniversary Bucket",
+   "rok": 2006,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "3191-2",
+   "nazwa": "Yellow Half-Tub, Special Edition",
+   "rok": 2006,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "3298",
+   "nazwa": "Lift and Load Sumsy",
+   "rok": 2006,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "3299",
+   "nazwa": "Mieszacz i betoniarka w warsztacie Boba",
+   "rok": 2006,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "3300",
+   "nazwa": "Harold the Helicopter",
+   "rok": 2006,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "3301",
+   "nazwa": "Ładowarka Cranky",
+   "rok": 2006,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "4085-3",
+   "nazwa": "Duplo Bucket",
+   "rok": 2006,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "4497152",
+   "nazwa": "{Half Tub}",
+   "rok": 2006,
+   "status": "eol"
+  },
+  {
+   "numer": "4497153",
+   "nazwa": "{Half Tub}",
+   "rok": 2006,
+   "status": "eol"
+  },
+  {
+   "numer": "4960",
+   "nazwa": "Wielkie ZOO",
+   "rok": 2006,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "4961",
+   "nazwa": "Fun Zoo",
+   "rok": 2006,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "4963",
+   "nazwa": "Police Patrol",
+   "rok": 2006,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "4964",
+   "nazwa": "Highway Help",
+   "rok": 2006,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "4965",
+   "nazwa": "Akcja policyjna",
+   "rok": 2006,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "4966",
+   "nazwa": "Doll's House",
+   "rok": 2006,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "4967",
+   "nazwa": "Fire Helicopter",
+   "rok": 2006,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "4968",
+   "nazwa": "Przyjazne ZOO",
+   "rok": 2006,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "4969",
+   "nazwa": "Tractor Fun",
+   "rok": 2006,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "4971",
+   "nazwa": "Zoo Vehicles",
+   "rok": 2006,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "5480",
+   "nazwa": "Duplo Town Building",
+   "rok": 2006,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "5481",
+   "nazwa": "Duplo Zoo",
+   "rok": 2006,
+   "elementy": 128,
+   "status": "eol"
+  },
+  {
+   "numer": "5484",
+   "nazwa": "{Zoo animal}",
+   "rok": 2006,
+   "status": "eol"
+  },
+  {
+   "numer": "5485",
+   "nazwa": "Zoo",
+   "rok": 2006,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5492",
+   "nazwa": "Limited Edition Green Brick Tub",
+   "rok": 2006,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "66073",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2006,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "66106",
+   "nazwa": "Super Pack 2-in-1",
+   "rok": 2006,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "66130",
+   "nazwa": "Super Pack 2-in-1",
+   "rok": 2006,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "66151",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 171,
+   "status": "eol"
+  },
+  {
+   "numer": "7337",
+   "nazwa": "Foundation Set - Green Bucket",
+   "rok": 2006,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "7338",
+   "nazwa": "Big Crate",
+   "rok": 2006,
+   "elementy": 116,
+   "status": "eol"
+  },
+  {
+   "numer": "7339",
+   "nazwa": "Friendly Animal Bus",
+   "rok": 2006,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "7790",
+   "nazwa": "Standard Starter Set",
+   "rok": 2006,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "7792",
+   "nazwa": "Deluxe Starter Set",
+   "rok": 2006,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "7844",
+   "nazwa": "Samochód ratowniczy",
+   "rok": 2006,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "7846",
+   "nazwa": "Dragon Tournament",
+   "rok": 2006,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "7880",
+   "nazwa": "Wielki statek piracki",
+   "rok": 2006,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "7881",
+   "nazwa": "Statek piracki",
+   "rok": 2006,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7882",
+   "nazwa": "Shark Attack",
+   "rok": 2006,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "7883",
+   "nazwa": "Treasure Hunt",
+   "rok": 2006,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "3288",
+   "nazwa": "Packer",
+   "rok": 2007,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "3289",
+   "nazwa": "Muck & Roley in the Sunflower Factory",
+   "rok": 2007,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "3352",
+   "nazwa": "Salty the Dockyard Diesel",
+   "rok": 2007,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "3353",
+   "nazwa": "Spencer and Sir Topham Hatt",
+   "rok": 2007,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "3354",
+   "nazwa": "Gordon's Express",
+   "rok": 2007,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "4825",
+   "nazwa": "Princess and Horse",
+   "rok": 2007,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "4826",
+   "nazwa": "Princess and Pony Picnic",
+   "rok": 2007,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "4828",
+   "nazwa": "Królewskie stajnie",
+   "rok": 2007,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "4861",
+   "nazwa": "Police Boat",
+   "rok": 2007,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "4972",
+   "nazwa": "Animals",
+   "rok": 2007,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "4973",
+   "nazwa": "Harvester",
+   "rok": 2007,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "4974",
+   "nazwa": "Stajnie",
+   "rok": 2007,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "4975",
+   "nazwa": "Nowoczesna farma",
+   "rok": 2007,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "4976",
+   "nazwa": "Cement Mixer",
+   "rok": 2007,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "4977",
+   "nazwa": "Fire Truck",
+   "rok": 2007,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "4978",
+   "nazwa": "Road Sweeper",
+   "rok": 2007,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "4979",
+   "nazwa": "Ambulance",
+   "rok": 2007,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "4986",
+   "nazwa": "Digger",
+   "rok": 2007,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "4987",
+   "nazwa": "Żwirownia",
+   "rok": 2007,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "4988",
+   "nazwa": "Plac budowy",
+   "rok": 2007,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "5416",
+   "nazwa": "Zestaw klocków",
+   "rok": 2007,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "5417",
+   "nazwa": "Duplo Deluxe Brick Box",
+   "rok": 2007,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "5419",
+   "nazwa": "Budujemy farmę",
+   "rok": 2007,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "5514",
+   "nazwa": "Fun Building with LEGO Duplo",
+   "rok": 2007,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "5516",
+   "nazwa": "XXL Cannister",
+   "rok": 2007,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "5518",
+   "nazwa": "Duplo Creative Building",
+   "rok": 2007,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "5527",
+   "nazwa": "Duplo Canister Green",
+   "rok": 2007,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "5536",
+   "nazwa": "Fun Creations",
+   "rok": 2007,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "66189",
+   "nazwa": "Creative Building",
+   "rok": 2007,
+   "elementy": 147,
+   "status": "eol"
+  },
+  {
+   "numer": "66217",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "66231",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "66232",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 143,
+   "status": "eol"
+  },
+  {
+   "numer": "66332",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
    "numer": "4862",
    "nazwa": "Ambush",
    "rok": 2008,
