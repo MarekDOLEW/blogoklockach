@@ -22,7 +22,8 @@
       "brickset.com (theme Super-Mario)",
       "brickset.com (theme Jurassic-World)",
       "brickset.com (theme Classic)",
-      "brickset.com (theme Botanicals)"
+      "brickset.com (theme Botanicals)",
+      "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
   },
@@ -154,17 +155,17 @@
       "status": "eol"
     },
     {
-      "numer": "21311",
-      "nazwa": "Voltron",
-      "rok": 2018,
-      "elementy": 2321,
-      "status": "eol"
-    },
-    {
       "numer": "21312",
       "nazwa": "Kobiety NASA",
       "rok": 2017,
       "elementy": 231,
+      "status": "eol"
+    },
+    {
+      "numer": "21311",
+      "nazwa": "Voltron",
+      "rok": 2018,
+      "elementy": 2321,
       "status": "eol"
     },
     {
@@ -224,6 +225,13 @@
       "status": "eol"
     },
     {
+      "numer": "40335",
+      "nazwa": "Space Rocket Ride",
+      "rok": 2019,
+      "elementy": 154,
+      "status": "eol"
+    },
+    {
       "numer": "21321",
       "nazwa": "Międzynarodowa Stacja Kosmiczna",
       "rok": 2020,
@@ -256,6 +264,13 @@
       "nazwa": "NASA Apollo Saturn V (reedycja)",
       "rok": 2020,
       "elementy": 1969,
+      "status": "eol"
+    },
+    {
+      "numer": "92177",
+      "nazwa": "Statek w butelce",
+      "rok": 2020,
+      "elementy": 962,
       "status": "eol"
     },
     {
@@ -298,6 +313,20 @@
       "nazwa": "Kevin sam w domu",
       "rok": 2021,
       "elementy": 3955,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40448",
+      "nazwa": "Zabytkowy samochód",
+      "rok": 2021,
+      "elementy": 189,
+      "status": "eol"
+    },
+    {
+      "numer": "40487",
+      "nazwa": "Przygoda na żaglowcu",
+      "rok": 2021,
+      "elementy": 330,
       "status": "eol"
     },
     {
@@ -350,6 +379,20 @@
       "status": "eol"
     },
     {
+      "numer": "40533",
+      "nazwa": "Przygody statku USS Cardboard",
+      "rok": 2022,
+      "elementy": 203,
+      "status": "eol"
+    },
+    {
+      "numer": "40566",
+      "nazwa": "Rozbitek Ray",
+      "rok": 2022,
+      "elementy": 239,
+      "status": "eol"
+    },
+    {
       "numer": "21338",
       "nazwa": "Domek A-frame",
       "rok": 2023,
@@ -361,7 +404,7 @@
       "nazwa": "BTS Dynamite",
       "rok": 2023,
       "elementy": 749,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21340",
@@ -396,6 +439,13 @@
       "nazwa": "Orient Express",
       "rok": 2023,
       "elementy": 2540,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40595",
+      "nazwa": "Hołd dla Galileusza",
+      "rok": 2023,
+      "elementy": 307,
       "status": "eol"
     },
     {
@@ -403,6 +453,13 @@
       "nazwa": "Aparat Polaroid OneStep SX-70",
       "rok": 2024,
       "elementy": 516,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21346",
+      "nazwa": "Rodzinne drzewo",
+      "rok": 2024,
+      "elementy": 1040,
       "status": "eol"
     },
     {
@@ -417,27 +474,174 @@
       "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
       "rok": 2024,
       "elementy": 3745,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "21349",
       "nazwa": "Kot w smokingu",
       "rok": 2024,
       "elementy": 1710,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "21350",
       "nazwa": "Szczęki",
       "rok": 2024,
       "elementy": 1497,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "21351",
       "nazwa": "Miasteczko Halloween (Nightmare Before Christmas)",
       "rok": 2024,
       "elementy": 2193,
+      "status": "eol"
+    },
+    {
+      "numer": "21352",
+      "nazwa": "Magia Disneya",
+      "rok": 2024,
+      "elementy": 1103,
+      "status": "eol"
+    },
+    {
+      "numer": "21353",
+      "nazwa": "Ogród botaniczny",
+      "rok": 2024,
+      "elementy": 3792,
+      "status": "eol"
+    },
+    {
+      "numer": "40698",
+      "nazwa": "Książki to moja pasja",
+      "rok": 2024,
+      "elementy": 285,
+      "status": "eol"
+    },
+    {
+      "numer": "21354",
+      "nazwa": "Zmierzch - dom Cullenów",
+      "rok": 2025,
+      "elementy": 2001,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21355",
+      "nazwa": "Ewolucja przedmiotów ścisłych",
+      "rok": 2025,
+      "elementy": 879,
+      "status": "eol"
+    },
+    {
+      "numer": "21356",
+      "nazwa": "Parowiec rzeczny",
+      "rok": 2025,
+      "elementy": 4090,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21357",
+      "nazwa": "Disney Pixar Luxo Jr.",
+      "rok": 2025,
+      "elementy": 613,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21358",
+      "nazwa": "Maszyna z minifigurkami",
+      "rok": 2025,
+      "elementy": 1343,
+      "status": "eol"
+    },
+    {
+      "numer": "21359",
+      "nazwa": "Włoska riwiera",
+      "rok": 2025,
+      "elementy": 3251,
+      "status": "eol"
+    },
+    {
+      "numer": "21360",
+      "nazwa": "Willy Wonka i fabryka czekolady",
+      "rok": 2025,
+      "elementy": 2025,
+      "status": "eol"
+    },
+    {
+      "numer": "21361",
+      "nazwa": "Gremliny rozrabiają: Gizmo",
+      "rok": 2025,
+      "elementy": 1125,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21362",
+      "nazwa": "Kolekcja minerałów",
+      "rok": 2025,
+      "elementy": 880,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21363",
+      "nazwa": "Goonies",
+      "rok": 2025,
+      "elementy": 2912,
+      "status": "eol"
+    },
+    {
+      "numer": "40773",
+      "nazwa": "Goonies: strych Walshów",
+      "rok": 2025,
+      "elementy": 179,
+      "status": "eol"
+    },
+    {
+      "numer": "40786",
+      "nazwa": "Mikrocentrum zarządzania",
+      "rok": 2025,
+      "elementy": 214,
+      "status": "eol"
+    },
+    {
+      "numer": "40788",
+      "nazwa": "Przyjazne ślimaki",
+      "rok": 2025,
+      "elementy": 264,
+      "status": "eol"
+    },
+    {
+      "numer": "40789",
+      "nazwa": "Latający księżycowy samochód",
+      "rok": 2025,
+      "elementy": 211,
+      "status": "eol"
+    },
+    {
+      "numer": "21365",
+      "nazwa": "Papużki nierozłączki",
+      "rok": 2026,
+      "elementy": 750,
+      "status": "eol"
+    },
+    {
+      "numer": "21366",
+      "nazwa": "Pływające wydry",
+      "rok": 2026,
+      "elementy": 1234,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21367",
+      "nazwa": "Tintin i rakieta na Księżyc",
+      "rok": 2026,
+      "elementy": 1283,
+      "status": "dostepny"
+    },
+    {
+      "numer": "21368",
+      "nazwa": "Fistaszki: Buda Snoopy’ego",
+      "rok": 2026,
+      "elementy": 964,
       "status": "dostepny"
     },
     {
@@ -445,7 +649,7 @@
       "nazwa": "The X-Files",
       "rok": 2026,
       "elementy": 1478,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "21370",
@@ -455,11 +659,45 @@
       "status": "dostepny"
     },
     {
+      "numer": "21371",
+      "nazwa": "Wallace & Gromit",
+      "rok": 2026,
+      "elementy": 1038,
+      "status": "eol"
+    },
+    {
       "numer": "21372",
       "nazwa": "La Catrina",
       "rok": 2026,
       "elementy": 1212,
       "status": "dostepny"
+    },
+    {
+      "numer": "21375",
+      "nazwa": "Godzilla",
+      "rok": 2026,
+      "status": "eol"
+    },
+    {
+      "numer": "21376",
+      "nazwa": "Rudy kot",
+      "rok": 2026,
+      "elementy": 1755,
+      "status": "eol"
+    },
+    {
+      "numer": "40896",
+      "nazwa": "The X-Files: Laboratorium Scully",
+      "rok": 2026,
+      "elementy": 221,
+      "status": "eol"
+    },
+    {
+      "numer": "40912",
+      "nazwa": "Wąż morski",
+      "rok": 2026,
+      "elementy": 241,
+      "status": "eol"
     }
   ],
   "Icons": [
@@ -499,6 +737,13 @@
       "status": "eol"
     },
     {
+      "numer": "10214",
+      "nazwa": "Tower Bridge",
+      "rok": 2010,
+      "elementy": 4287,
+      "status": "eol"
+    },
+    {
       "numer": "10218",
       "nazwa": "Pet Shop (modular)",
       "rok": 2011,
@@ -520,6 +765,20 @@
       "status": "eol"
     },
     {
+      "numer": "10234",
+      "nazwa": "Opera w Sydney",
+      "rok": 2013,
+      "elementy": 2989,
+      "status": "eol"
+    },
+    {
+      "numer": "10242",
+      "nazwa": "Mini Cooper",
+      "rok": 2014,
+      "elementy": 1077,
+      "status": "eol"
+    },
+    {
       "numer": "10243",
       "nazwa": "Parisian Restaurant (modular)",
       "rok": 2014,
@@ -534,80 +793,17 @@
       "status": "eol"
     },
     {
-      "numer": "10251",
-      "nazwa": "Brick Bank (modular)",
-      "rok": 2016,
-      "elementy": 2380,
-      "status": "eol"
-    },
-    {
-      "numer": "10255",
-      "nazwa": "Assembly Square (modular)",
-      "rok": 2017,
-      "elementy": 4002,
-      "status": "eol"
-    },
-    {
-      "numer": "10260",
-      "nazwa": "Downtown Diner (modular)",
-      "rok": 2018,
-      "elementy": 2480,
-      "status": "eol"
-    },
-    {
-      "numer": "10264",
-      "nazwa": "Corner Garage (modular)",
-      "rok": 2019,
-      "elementy": 2569,
-      "status": "eol"
-    },
-    {
-      "numer": "10270",
-      "nazwa": "Księgarnia (modular)",
-      "rok": 2020,
-      "elementy": 2504,
-      "status": "eol"
-    },
-    {
-      "numer": "10278",
-      "nazwa": "Posterunek policji (modular)",
-      "rok": 2021,
-      "elementy": 2923,
-      "status": "eol"
-    },
-    {
-      "numer": "10297",
-      "nazwa": "Butikowy hotel (modular)",
-      "rok": 2022,
-      "elementy": 3066,
-      "status": "eol"
-    },
-    {
-      "numer": "10312",
-      "nazwa": "Klub jazzowy (modular)",
-      "rok": 2023,
-      "elementy": 2899,
-      "status": "eol"
-    },
-    {
-      "numer": "10326",
-      "nazwa": "Muzeum historii naturalnej (modular)",
-      "rok": 2024,
-      "elementy": 4014,
-      "status": "dostepny"
-    },
-    {
-      "numer": "10242",
-      "nazwa": "Mini Cooper",
-      "rok": 2014,
-      "elementy": 1077,
-      "status": "eol"
-    },
-    {
       "numer": "10248",
       "nazwa": "Ferrari F40",
       "rok": 2015,
       "elementy": 1158,
+      "status": "eol"
+    },
+    {
+      "numer": "10251",
+      "nazwa": "Brick Bank (modular)",
+      "rok": 2016,
+      "elementy": 2380,
       "status": "eol"
     },
     {
@@ -618,122 +814,17 @@
       "status": "eol"
     },
     {
-      "numer": "10258",
-      "nazwa": "Londyński autobus",
-      "rok": 2017,
-      "elementy": 1686,
-      "status": "eol"
-    },
-    {
-      "numer": "10262",
-      "nazwa": "Aston Martin DB5 (James Bond)",
-      "rok": 2018,
-      "elementy": 1295,
-      "status": "eol"
-    },
-    {
-      "numer": "10265",
-      "nazwa": "Ford Mustang",
-      "rok": 2019,
-      "elementy": 1471,
-      "status": "eol"
-    },
-    {
-      "numer": "10271",
-      "nazwa": "Fiat 500",
-      "rok": 2020,
-      "elementy": 960,
-      "status": "eol"
-    },
-    {
-      "numer": "10274",
-      "nazwa": "Ghostbusters ECTO-1",
-      "rok": 2020,
-      "elementy": 2352,
-      "status": "eol"
-    },
-    {
-      "numer": "10279",
-      "nazwa": "Volkswagen T2 Camper",
-      "rok": 2021,
-      "elementy": 2207,
-      "status": "eol"
-    },
-    {
-      "numer": "10290",
-      "nazwa": "Pickup",
-      "rok": 2021,
-      "elementy": 1677,
-      "status": "eol"
-    },
-    {
-      "numer": "10295",
-      "nazwa": "Porsche 911",
-      "rok": 2021,
-      "elementy": 1458,
-      "status": "eol"
-    },
-    {
-      "numer": "10298",
-      "nazwa": "Vespa 125",
-      "rok": 2022,
-      "elementy": 1106,
-      "status": "eol"
-    },
-    {
-      "numer": "10300",
-      "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
-      "rok": 2022,
-      "elementy": 1872,
-      "status": "dostepny"
-    },
-    {
-      "numer": "10304",
-      "nazwa": "Chevrolet Camaro Z28",
-      "rok": 2022,
-      "elementy": 1456,
-      "status": "eol"
-    },
-    {
-      "numer": "10321",
-      "nazwa": "Chevrolet Corvette 1961",
-      "rok": 2023,
-      "elementy": 1210,
-      "status": "dostepny"
-    },
-    {
-      "numer": "10330",
-      "nazwa": "McLaren MP4/4 i Ayrton Senna",
-      "rok": 2024,
-      "elementy": 693,
-      "status": "dostepny"
-    },
-    {
-      "numer": "11381",
-      "nazwa": "Jaguar Type E",
-      "rok": 2026,
-      "elementy": 1673,
-      "status": "dostepny"
-    },
-    {
-      "numer": "10214",
-      "nazwa": "Tower Bridge",
-      "rok": 2010,
-      "elementy": 4287,
-      "status": "eol"
-    },
-    {
-      "numer": "10234",
-      "nazwa": "Opera w Sydney",
-      "rok": 2013,
-      "elementy": 2989,
-      "status": "eol"
-    },
-    {
       "numer": "10253",
       "nazwa": "Big Ben",
       "rok": 2016,
       "elementy": 4163,
+      "status": "eol"
+    },
+    {
+      "numer": "10255",
+      "nazwa": "Assembly Square (modular)",
+      "rok": 2017,
+      "elementy": 4002,
       "status": "eol"
     },
     {
@@ -751,10 +842,45 @@
       "status": "eol"
     },
     {
+      "numer": "10258",
+      "nazwa": "Londyński autobus",
+      "rok": 2017,
+      "elementy": 1686,
+      "status": "eol"
+    },
+    {
+      "numer": "10260",
+      "nazwa": "Downtown Diner (modular)",
+      "rok": 2018,
+      "elementy": 2480,
+      "status": "eol"
+    },
+    {
       "numer": "10261",
       "nazwa": "Kolejka górska",
       "rok": 2018,
       "elementy": 4124,
+      "status": "eol"
+    },
+    {
+      "numer": "10262",
+      "nazwa": "Aston Martin DB5 (James Bond)",
+      "rok": 2018,
+      "elementy": 1295,
+      "status": "eol"
+    },
+    {
+      "numer": "10264",
+      "nazwa": "Corner Garage (modular)",
+      "rok": 2019,
+      "elementy": 2569,
+      "status": "eol"
+    },
+    {
+      "numer": "10265",
+      "nazwa": "Ford Mustang",
+      "rok": 2019,
+      "elementy": 1471,
       "status": "eol"
     },
     {
@@ -765,10 +891,45 @@
       "status": "eol"
     },
     {
+      "numer": "10270",
+      "nazwa": "Księgarnia (modular)",
+      "rok": 2020,
+      "elementy": 2504,
+      "status": "eol"
+    },
+    {
+      "numer": "10271",
+      "nazwa": "Fiat 500",
+      "rok": 2020,
+      "elementy": 960,
+      "status": "eol"
+    },
+    {
       "numer": "10272",
       "nazwa": "Old Trafford — Manchester United",
       "rok": 2020,
       "elementy": 3898,
+      "status": "eol"
+    },
+    {
+      "numer": "10273",
+      "nazwa": "Dom strachu",
+      "rok": 2020,
+      "elementy": 3231,
+      "status": "eol"
+    },
+    {
+      "numer": "10274",
+      "nazwa": "Ghostbusters ECTO-1",
+      "rok": 2020,
+      "elementy": 2352,
+      "status": "eol"
+    },
+    {
+      "numer": "10275",
+      "nazwa": "Domek elfów",
+      "rok": 2020,
+      "elementy": 1197,
       "status": "eol"
     },
     {
@@ -786,6 +947,48 @@
       "status": "eol"
     },
     {
+      "numer": "10278",
+      "nazwa": "Posterunek policji (modular)",
+      "rok": 2021,
+      "elementy": 2923,
+      "status": "eol"
+    },
+    {
+      "numer": "10279",
+      "nazwa": "Volkswagen T2 Camper",
+      "rok": 2021,
+      "elementy": 2207,
+      "status": "eol"
+    },
+    {
+      "numer": "10280",
+      "nazwa": "Creator Bukiet kwiatów",
+      "rok": 2021,
+      "elementy": 756,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10281",
+      "nazwa": "Botanicals Drzewko bonsai",
+      "rok": 2021,
+      "elementy": 878,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10282",
+      "nazwa": "But adidas Originals Superstar",
+      "rok": 2021,
+      "elementy": 731,
+      "status": "eol"
+    },
+    {
+      "numer": "10282-2",
+      "nazwa": "Adidas Originals Superstar X Footshop 'Blueprinting'",
+      "rok": 2021,
+      "elementy": 974,
+      "status": "eol"
+    },
+    {
       "numer": "10283",
       "nazwa": "Wahadłowiec Discovery NASA",
       "rok": 2021,
@@ -800,11 +1003,88 @@
       "status": "eol"
     },
     {
+      "numer": "10289",
+      "nazwa": "Strelicja królewska",
+      "rok": 2021,
+      "elementy": 1173,
+      "status": "eol"
+    },
+    {
+      "numer": "10290",
+      "nazwa": "Pickup",
+      "rok": 2021,
+      "elementy": 1677,
+      "status": "eol"
+    },
+    {
+      "numer": "10291",
+      "nazwa": "Queer Eye - Mieszkanie Fab Five",
+      "rok": 2021,
+      "elementy": 974,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10292",
+      "nazwa": "Mieszkania z serialu Przyjaciele",
+      "rok": 2021,
+      "elementy": 2048,
+      "status": "eol"
+    },
+    {
+      "numer": "10293",
+      "nazwa": "Wizyta Świętego Mikołaja",
+      "rok": 2021,
+      "elementy": 1445,
+      "status": "eol"
+    },
+    {
       "numer": "10294",
       "nazwa": "Titanic",
       "rok": 2021,
       "elementy": 9090,
+      "status": "eol"
+    },
+    {
+      "numer": "10295",
+      "nazwa": "Porsche 911",
+      "rok": 2021,
+      "elementy": 1458,
       "status": "dostepny"
+    },
+    {
+      "numer": "40485",
+      "nazwa": "Zwycięstwo drużyny FC Barcelona",
+      "rok": 2021,
+      "elementy": 178,
+      "status": "eol"
+    },
+    {
+      "numer": "40486",
+      "nazwa": "But adidas Originals Superstar",
+      "rok": 2021,
+      "elementy": 92,
+      "status": "eol"
+    },
+    {
+      "numer": "40516",
+      "nazwa": "Każdy jest wspaniały",
+      "rok": 2021,
+      "elementy": 346,
+      "status": "eol"
+    },
+    {
+      "numer": "10297",
+      "nazwa": "Butikowy hotel (modular)",
+      "rok": 2022,
+      "elementy": 3066,
+      "status": "eol"
+    },
+    {
+      "numer": "10298",
+      "nazwa": "Vespa 125",
+      "rok": 2022,
+      "elementy": 1106,
+      "status": "eol"
     },
     {
       "numer": "10299",
@@ -812,6 +1092,13 @@
       "rok": 2022,
       "elementy": 5876,
       "status": "eol"
+    },
+    {
+      "numer": "10300",
+      "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
+      "rok": 2022,
+      "elementy": 1872,
+      "status": "dostepny"
     },
     {
       "numer": "10302",
@@ -825,6 +1112,13 @@
       "nazwa": "Kolejka górska z pętlą",
       "rok": 2022,
       "elementy": 3756,
+      "status": "eol"
+    },
+    {
+      "numer": "10304",
+      "nazwa": "Chevrolet Camaro Z28",
+      "rok": 2022,
+      "elementy": 1456,
       "status": "eol"
     },
     {
@@ -846,6 +1140,90 @@
       "nazwa": "Wieża Eiffla",
       "rok": 2022,
       "elementy": 10001,
+      "status": "eol"
+    },
+    {
+      "numer": "10308",
+      "nazwa": "Świąteczna główna ulica",
+      "rok": 2022,
+      "elementy": 1514,
+      "status": "eol"
+    },
+    {
+      "numer": "10309",
+      "nazwa": "Sukulenty",
+      "rok": 2022,
+      "elementy": 771,
+      "status": "eol"
+    },
+    {
+      "numer": "10311",
+      "nazwa": "Botanicals Kwiaty Orchidea",
+      "rok": 2022,
+      "elementy": 608,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10497",
+      "nazwa": "Galaktyczny odkrywca",
+      "rok": 2022,
+      "elementy": 1254,
+      "status": "eol"
+    },
+    {
+      "numer": "40532",
+      "nazwa": "Zabytkowa taksówka",
+      "rok": 2022,
+      "elementy": 163,
+      "status": "eol"
+    },
+    {
+      "numer": "40567",
+      "nazwa": "Leśna kryjówka",
+      "rok": 2022,
+      "elementy": 258,
+      "status": "eol"
+    },
+    {
+      "numer": "40579",
+      "nazwa": "Mieszkanie Eiffla",
+      "rok": 2022,
+      "elementy": 228,
+      "status": "eol"
+    },
+    {
+      "numer": "76989",
+      "nazwa": "Horizon Forbidden West: Żyraf",
+      "rok": 2022,
+      "elementy": 1222,
+      "status": "eol"
+    },
+    {
+      "numer": "10312",
+      "nazwa": "Klub jazzowy (modular)",
+      "rok": 2023,
+      "elementy": 2899,
+      "status": "eol"
+    },
+    {
+      "numer": "10313",
+      "nazwa": "Botanicals Bukiet z polnych kwiatów",
+      "rok": 2023,
+      "elementy": 939,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10314",
+      "nazwa": "Stroik z suszonych kwiatów",
+      "rok": 2023,
+      "elementy": 812,
+      "status": "eol"
+    },
+    {
+      "numer": "10315",
+      "nazwa": "Zaciszny ogród",
+      "rok": 2023,
+      "elementy": 1363,
       "status": "dostepny"
     },
     {
@@ -853,7 +1231,14 @@
       "nazwa": "Władca Pierścieni: Rivendell",
       "rok": 2023,
       "elementy": 6167,
-      "status": "dostepny"
+      "status": "eol"
+    },
+    {
+      "numer": "10317",
+      "nazwa": "Land Rover Classic Defender 90",
+      "rok": 2023,
+      "elementy": 2336,
+      "status": "eol"
     },
     {
       "numer": "10318",
@@ -870,11 +1255,109 @@
       "status": "eol"
     },
     {
+      "numer": "10321",
+      "nazwa": "Chevrolet Corvette 1961",
+      "rok": 2023,
+      "elementy": 1210,
+      "status": "eol"
+    },
+    {
       "numer": "10323",
       "nazwa": "Automat do gry PAC-MAN",
       "rok": 2023,
       "elementy": 2651,
       "status": "dostepny"
+    },
+    {
+      "numer": "10325",
+      "nazwa": "Górska chata",
+      "rok": 2023,
+      "elementy": 1517,
+      "status": "dostepny"
+    },
+    {
+      "numer": "40580",
+      "nazwa": "Krążownik Blacktron",
+      "rok": 2023,
+      "elementy": 356,
+      "status": "eol"
+    },
+    {
+      "numer": "40581",
+      "nazwa": "BIONICLE — Tahu i Takua",
+      "rok": 2023,
+      "elementy": 219,
+      "status": "eol"
+    },
+    {
+      "numer": "40586",
+      "nazwa": "Ciężarówka do przeprowadzek",
+      "rok": 2023,
+      "elementy": 301,
+      "status": "eol"
+    },
+    {
+      "numer": "40601",
+      "nazwa": "Magiczny warsztat Majisto",
+      "rok": 2023,
+      "elementy": 365,
+      "status": "eol"
+    },
+    {
+      "numer": "40646",
+      "nazwa": "Żonkile",
+      "rok": 2023,
+      "elementy": 216,
+      "status": "eol"
+    },
+    {
+      "numer": "10326",
+      "nazwa": "Muzeum historii naturalnej (modular)",
+      "rok": 2024,
+      "elementy": 4014,
+      "status": "eol"
+    },
+    {
+      "numer": "10327",
+      "nazwa": "Diuna — Atreides Royal Ornithopter",
+      "rok": 2024,
+      "elementy": 1369,
+      "status": "eol"
+    },
+    {
+      "numer": "10328",
+      "nazwa": "Botanicals Bukiet róż",
+      "rok": 2024,
+      "elementy": 822,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10329",
+      "nazwa": "Botanicals Małe roślinki",
+      "rok": 2024,
+      "elementy": 758,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10330",
+      "nazwa": "McLaren MP4/4 i Ayrton Senna",
+      "rok": 2024,
+      "elementy": 693,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10331",
+      "nazwa": "Zimorodek",
+      "rok": 2024,
+      "elementy": 834,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10332",
+      "nazwa": "Średniowieczny plac miejski",
+      "rok": 2024,
+      "elementy": 3304,
+      "status": "eol"
     },
     {
       "numer": "10333",
@@ -891,10 +1374,325 @@
       "status": "dostepny"
     },
     {
+      "numer": "10335",
+      "nazwa": "Endurance",
+      "rok": 2024,
+      "elementy": 3011,
+      "status": "eol"
+    },
+    {
+      "numer": "10337",
+      "nazwa": "Lamborghini Countach 5000 Quattrovalvole",
+      "rok": 2024,
+      "elementy": 1506,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10338",
+      "nazwa": "Bumblebee",
+      "rok": 2024,
+      "elementy": 950,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10339",
+      "nazwa": "Poczta Świętego Mikołaja",
+      "rok": 2024,
+      "elementy": 1440,
+      "status": "eol"
+    },
+    {
+      "numer": "10340",
+      "nazwa": "Wieniec",
+      "rok": 2024,
+      "elementy": 1194,
+      "status": "eol"
+    },
+    {
       "numer": "10341",
       "nazwa": "Rakieta NASA Artemis SLS",
       "rok": 2024,
       "elementy": 3601,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10368",
+      "nazwa": "Chryzantema",
+      "rok": 2024,
+      "elementy": 278,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10369",
+      "nazwa": "Botanicals Kwiat śliwy",
+      "rok": 2024,
+      "elementy": 327,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10370",
+      "nazwa": "Botanicals Gwiazda Betlejemska",
+      "rok": 2024,
+      "elementy": 608,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10391",
+      "nazwa": "Radość z Pharrellem Williamsem",
+      "rok": 2024,
+      "elementy": 966,
+      "status": "eol"
+    },
+    {
+      "numer": "40681",
+      "nazwa": "Food truck retro",
+      "rok": 2024,
+      "elementy": 310,
+      "status": "eol"
+    },
+    {
+      "numer": "40693",
+      "nazwa": "Władca pierścieni: Skrzydlata bestia",
+      "rok": 2024,
+      "elementy": 269,
+      "status": "eol"
+    },
+    {
+      "numer": "40712",
+      "nazwa": "Stanowisko startowe mikrorakiety",
+      "rok": 2024,
+      "elementy": 325,
+      "status": "eol"
+    },
+    {
+      "numer": "40729",
+      "nazwa": "Szalupa Shackletona",
+      "rok": 2024,
+      "elementy": 232,
+      "status": "eol"
+    },
+    {
+      "numer": "10350",
+      "nazwa": "Dom w stylu angielskim",
+      "rok": 2025,
+      "elementy": 3266,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10351",
+      "nazwa": "Sherlock Holmes: Book nook",
+      "rok": 2025,
+      "elementy": 1359,
+      "status": "eol"
+    },
+    {
+      "numer": "10352",
+      "nazwa": "The Simpsons: Krusty Burger",
+      "rok": 2025,
+      "elementy": 1635,
+      "status": "eol"
+    },
+    {
+      "numer": "10353",
+      "nazwa": "Williams Racing FW14B i Nigel Mansell",
+      "rok": 2025,
+      "elementy": 799,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10354",
+      "nazwa": "Władca pierścieni: Shire",
+      "rok": 2025,
+      "elementy": 2017,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10355",
+      "nazwa": "Blacktron Renegade",
+      "rok": 2025,
+      "elementy": 1151,
+      "status": "eol"
+    },
+    {
+      "numer": "10356",
+      "nazwa": "Star Trek: U.S.S. Enterprise NCC-1701-D",
+      "rok": 2025,
+      "elementy": 3600,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10357",
+      "nazwa": "Shelby Cobra 427 S/C",
+      "rok": 2025,
+      "elementy": 1241,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10358",
+      "nazwa": "Transformers: Soundwave",
+      "rok": 2025,
+      "elementy": 1505,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10359",
+      "nazwa": "Fontanna w ogrodzie",
+      "rok": 2025,
+      "elementy": 1302,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10360",
+      "nazwa": "Nosiciel Wahadłowców",
+      "rok": 2025,
+      "elementy": 2417,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10361",
+      "nazwa": "Świąteczny ekspres",
+      "rok": 2025,
+      "elementy": 956,
+      "status": "eol"
+    },
+    {
+      "numer": "10362",
+      "nazwa": "Francuska kawiarenka",
+      "rok": 2025,
+      "elementy": 1101,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10363",
+      "nazwa": "Maszyna latająca Leonarda da Vinci",
+      "rok": 2025,
+      "elementy": 493,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10365",
+      "nazwa": "Statek piracki kapitana Jacka Sparrowa",
+      "rok": 2025,
+      "elementy": 2862,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10366",
+      "nazwa": "Tropikalne akwarium",
+      "rok": 2025,
+      "elementy": 4154,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10367",
+      "nazwa": "Władca pierścieni: Book nook z Balrogiem",
+      "rok": 2025,
+      "elementy": 1201,
+      "status": "dostepny"
+    },
+    {
+      "numer": "10375",
+      "nazwa": "Jak wytresować smoka: Szczerbatek",
+      "rok": 2025,
+      "elementy": 784,
+      "status": "eol"
+    },
+    {
+      "numer": "40757",
+      "nazwa": "Kiosk na rogu",
+      "rok": 2025,
+      "elementy": 205,
+      "status": "eol"
+    },
+    {
+      "numer": "40761",
+      "nazwa": "Władca pierścieni: Sméagol i Déagol",
+      "rok": 2025,
+      "elementy": 181,
+      "status": "eol"
+    },
+    {
+      "numer": "40768",
+      "nazwa": "Star Trek: Type-15 Shuttlepod",
+      "rok": 2025,
+      "elementy": 261,
+      "status": "eol"
+    },
+    {
+      "numer": "11370",
+      "nazwa": "Stranger Things: Dom Creelów",
+      "rok": 2026,
+      "elementy": 2593,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11371",
+      "nazwa": "Ulica handlowa",
+      "rok": 2026,
+      "elementy": 3456,
+      "status": "eol"
+    },
+    {
+      "numer": "11372",
+      "nazwa": "Jesienny ogród z chatką",
+      "rok": 2026,
+      "elementy": 1102,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11373",
+      "nazwa": "Władca pierścieni: Hełm Saurona",
+      "rok": 2026,
+      "elementy": 538,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11374",
+      "nazwa": "Automat do gry pinball",
+      "rok": 2026,
+      "elementy": 2274,
+      "status": "eol"
+    },
+    {
+      "numer": "11375",
+      "nazwa": "Ferrari F2004 i Michael Schumacher",
+      "rok": 2026,
+      "elementy": 735,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11376",
+      "nazwa": "Ford Model T",
+      "rok": 2026,
+      "elementy": 1060,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11377",
+      "nazwa": "Władca pierścieni: Minas Tirith",
+      "rok": 2026,
+      "elementy": 8278,
+      "status": "eol"
+    },
+    {
+      "numer": "11378",
+      "nazwa": "Samolot pasażerski Douglas DC-3 PAN AM",
+      "rok": 2026,
+      "elementy": 1903,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11380",
+      "nazwa": "Rower szosowy",
+      "rok": 2026,
+      "elementy": 1015,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11381",
+      "nazwa": "Jaguar Type E",
+      "rok": 2026,
+      "elementy": 1673,
       "status": "dostepny"
     },
     {
@@ -903,9 +1701,79 @@
       "rok": 2026,
       "elementy": 1552,
       "status": "dostepny"
+    },
+    {
+      "numer": "11383",
+      "nazwa": "Rezydencja burmistrzyni",
+      "rok": 2026,
+      "elementy": 1420,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11384",
+      "nazwa": "Szczeniak golden retriever",
+      "rok": 2026,
+      "elementy": 2102,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11385",
+      "nazwa": "Star Trek: Mostek U.S.S. Enterprise NCC-1701",
+      "rok": 2026,
+      "elementy": 1701,
+      "status": "eol"
+    },
+    {
+      "numer": "11386",
+      "nazwa": "SpongeBob Kanciastoporty: Bikini Dolne",
+      "rok": 2026,
+      "elementy": 1794,
+      "status": "dostepny"
+    },
+    {
+      "numer": "11389",
+      "nazwa": "Projekt Hail Mary",
+      "rok": 2026,
+      "elementy": 830,
+      "status": "eol"
+    },
+    {
+      "numer": "40891",
+      "nazwa": "Stranger Things: Stacja radiowa WSQK",
+      "rok": 2026,
+      "elementy": 234,
+      "status": "eol"
+    },
+    {
+      "numer": "40893",
+      "nazwa": "Grond",
+      "rok": 2026,
+      "elementy": 307,
+      "status": "eol"
+    },
+    {
+      "numer": "40913",
+      "nazwa": "Zabytkowy samochód z parady",
+      "rok": 2026,
+      "elementy": 243,
+      "status": "eol"
     }
   ],
   "Harry Potter": [
+    {
+      "numer": "4701",
+      "nazwa": "Sorting Hat",
+      "rok": 2001,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "4702",
+      "nazwa": "The Final Challenge",
+      "rok": 2001,
+      "elementy": 60,
+      "status": "eol"
+    },
     {
       "numer": "4704",
       "nazwa": "The Chamber of the Winged Keys",
@@ -946,6 +1814,41 @@
       "nazwa": "Hogwarts Castle",
       "rok": 2001,
       "elementy": 682,
+      "status": "eol"
+    },
+    {
+      "numer": "4721",
+      "nazwa": "Hogwarts Classrooms",
+      "rok": 2001,
+      "elementy": 73,
+      "status": "eol"
+    },
+    {
+      "numer": "4722",
+      "nazwa": "Gryffindor",
+      "rok": 2001,
+      "elementy": 68,
+      "status": "eol"
+    },
+    {
+      "numer": "4723",
+      "nazwa": "Diagon Alley Shops",
+      "rok": 2001,
+      "elementy": 80,
+      "status": "eol"
+    },
+    {
+      "numer": "4711",
+      "nazwa": "Flying Lesson",
+      "rok": 2002,
+      "elementy": 23,
+      "status": "eol"
+    },
+    {
+      "numer": "4712",
+      "nazwa": "Troll on the Loose",
+      "rok": 2002,
+      "elementy": 71,
       "status": "eol"
     },
     {
@@ -991,10 +1894,24 @@
       "status": "eol"
     },
     {
+      "numer": "4731",
+      "nazwa": "Dobby's Release",
+      "rok": 2002,
+      "elementy": 70,
+      "status": "eol"
+    },
+    {
       "numer": "4733",
       "nazwa": "The Dueling Club",
       "rok": 2002,
       "elementy": 129,
+      "status": "eol"
+    },
+    {
+      "numer": "4735",
+      "nazwa": "Slytherin",
+      "rok": 2002,
+      "elementy": 90,
       "status": "eol"
     },
     {
@@ -1016,6 +1933,20 @@
       "nazwa": "Motorised Hogwarts Express",
       "rok": 2004,
       "elementy": 708,
+      "status": "eol"
+    },
+    {
+      "numer": "4695",
+      "nazwa": "Mini Harry Potter Knight Bus",
+      "rok": 2004,
+      "elementy": 58,
+      "status": "eol"
+    },
+    {
+      "numer": "4750",
+      "nazwa": "Draco's Encounter with Buckbeak",
+      "rok": 2004,
+      "elementy": 36,
       "status": "eol"
     },
     {
@@ -1110,10 +2041,24 @@
       "status": "eol"
     },
     {
+      "numer": "4768-2",
+      "nazwa": "The Durmstrang Ship with Bonus Minifigures",
+      "rok": 2005,
+      "elementy": 566,
+      "status": "eol"
+    },
+    {
       "numer": "5378",
       "nazwa": "Hogwarts Castle",
       "rok": 2007,
       "elementy": 943,
+      "status": "eol"
+    },
+    {
+      "numer": "4736",
+      "nazwa": "Freeing Dobby",
+      "rok": 2010,
+      "elementy": 73,
       "status": "eol"
     },
     {
@@ -1159,6 +2104,34 @@
       "status": "eol"
     },
     {
+      "numer": "30110",
+      "nazwa": "Trolley",
+      "rok": 2011,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "30111",
+      "nazwa": "The Lab",
+      "rok": 2011,
+      "elementy": 34,
+      "status": "eol"
+    },
+    {
+      "numer": "40028",
+      "nazwa": "Mini Hogwarts Express",
+      "rok": 2011,
+      "elementy": 64,
+      "status": "eol"
+    },
+    {
+      "numer": "4865",
+      "nazwa": "The Forbidden Forest",
+      "rok": 2011,
+      "elementy": 64,
+      "status": "eol"
+    },
+    {
       "numer": "4866",
       "nazwa": "The Knight Bus",
       "rok": 2011,
@@ -1173,10 +2146,24 @@
       "status": "eol"
     },
     {
+      "numer": "30407",
+      "nazwa": "Harry's Journey to Hogwarts",
+      "rok": 2018,
+      "elementy": 40,
+      "status": "eol"
+    },
+    {
       "numer": "40289",
       "nazwa": "Ulica Pokątna",
       "rok": 2018,
       "elementy": 374,
+      "status": "eol"
+    },
+    {
+      "numer": "5005254",
+      "nazwa": "Harry Potter Minifigure Collection",
+      "rok": 2018,
+      "elementy": 25,
       "status": "eol"
     },
     {
@@ -1250,6 +2237,13 @@
       "status": "eol"
     },
     {
+      "numer": "11923",
+      "nazwa": "Harry Potter: Build Your Own Adventure parts",
+      "rok": 2019,
+      "elementy": 101,
+      "status": "eol"
+    },
+    {
       "numer": "75945",
       "nazwa": "Expecto Patronum",
       "rok": 2019,
@@ -1306,10 +2300,24 @@
       "status": "eol"
     },
     {
+      "numer": "30420",
+      "nazwa": "Harry Potter i Hedwiga: przesyłka dostarczona przez sowę",
+      "rok": 2020,
+      "elementy": 31,
+      "status": "eol"
+    },
+    {
       "numer": "30628",
       "nazwa": "Potworna księga potworów",
       "rok": 2020,
       "elementy": 320,
+      "status": "eol"
+    },
+    {
+      "numer": "40419",
+      "nazwa": "Uczniowie Hogwartu — zestaw akcesoriów",
+      "rok": 2020,
+      "elementy": 53,
       "status": "eol"
     },
     {
@@ -1366,6 +2374,13 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2020,
       "elementy": 335,
+      "status": "dostepny"
+    },
+    {
+      "numer": "30392",
+      "nazwa": "Biurko Hermiony",
+      "rok": 2021,
+      "elementy": 31,
       "status": "eol"
     },
     {
@@ -1373,6 +2388,13 @@
       "nazwa": "Dormitoria Gryffindoru w Hogwarcie",
       "rok": 2021,
       "elementy": 148,
+      "status": "eol"
+    },
+    {
+      "numer": "40500",
+      "nazwa": "Akcesoria do minifigurek ze świata czarodziejów",
+      "rok": 2021,
+      "elementy": 33,
       "status": "eol"
     },
     {
@@ -1474,10 +2496,24 @@
       "status": "eol"
     },
     {
+      "numer": "30435",
+      "nazwa": "Zbuduj własny zamek Hogwart",
+      "rok": 2022,
+      "elementy": 67,
+      "status": "eol"
+    },
+    {
       "numer": "40577",
       "nazwa": "Wielkie schody w Hogwarcie",
       "rok": 2022,
       "elementy": 224,
+      "status": "eol"
+    },
+    {
+      "numer": "6385434",
+      "nazwa": "Golden Snitch",
+      "rok": 2022,
+      "elementy": 35,
       "status": "eol"
     },
     {
@@ -1534,14 +2570,14 @@
       "nazwa": "Ministerstwo Magii",
       "rok": 2022,
       "elementy": 990,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76404",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2022,
       "elementy": 334,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76405",
@@ -1572,10 +2608,24 @@
       "status": "eol"
     },
     {
+      "numer": "30651",
+      "nazwa": "Trening quidditcha",
+      "rok": 2023,
+      "elementy": 55,
+      "status": "eol"
+    },
+    {
       "numer": "40598",
       "nazwa": "Skrytka w Banku Gringotta",
       "rok": 2023,
       "elementy": 212,
+      "status": "eol"
+    },
+    {
+      "numer": "6482525",
+      "nazwa": "Wand",
+      "rok": 2023,
+      "elementy": 26,
       "status": "eol"
     },
     {
@@ -1632,21 +2682,21 @@
       "nazwa": "Quidditch — kufer",
       "rok": 2023,
       "elementy": 599,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76417",
       "nazwa": "Bank Gringotta — edycja kolekcjonerska",
       "rok": 2023,
       "elementy": 4803,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76418",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2023,
       "elementy": 227,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76419",
@@ -1660,7 +2710,7 @@
       "nazwa": "Turniej Trójmagiczny: Jezioro Hogwartu",
       "rok": 2023,
       "elementy": 349,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76421",
@@ -1684,6 +2734,13 @@
       "status": "eol"
     },
     {
+      "numer": "30677",
+      "nazwa": "Draco w Zakazanym Lesie",
+      "rok": 2024,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
       "numer": "40695",
       "nazwa": "Borgin & Burkes: sieć Fiuu",
       "rok": 2024,
@@ -1691,10 +2748,24 @@
       "status": "eol"
     },
     {
+      "numer": "6508942",
+      "nazwa": "Hagrid's Hut",
+      "rok": 2024,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
       "numer": "6541140",
       "nazwa": "Platform 9 3/4",
       "rok": 2024,
       "elementy": 103,
+      "status": "eol"
+    },
+    {
+      "numer": "6545695",
+      "nazwa": "Hogwarts Express",
+      "rok": 2024,
+      "elementy": 42,
       "status": "eol"
     },
     {
@@ -1709,7 +2780,7 @@
       "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
       "rok": 2024,
       "elementy": 337,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76426",
@@ -1737,7 +2808,7 @@
       "nazwa": "Mówiąca Tiara Przydziału",
       "rok": 2024,
       "elementy": 561,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76430",
@@ -1765,7 +2836,7 @@
       "nazwa": "Mandragora",
       "rok": 2024,
       "elementy": 579,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76434",
@@ -1779,14 +2850,14 @@
       "nazwa": "Zamek Hogwart: Wielka Sala",
       "rok": 2024,
       "elementy": 1732,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76437",
       "nazwa": "Nora — edycja kolekcjonerska",
       "rok": 2024,
       "elementy": 2405,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76438",
@@ -1800,13 +2871,20 @@
       "nazwa": "Sklepy Ollivandera i Madame Malkin",
       "rok": 2024,
       "elementy": 744,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76440",
       "nazwa": "Turniej Trójmagiczny: Przybycie",
       "rok": 2024,
       "elementy": 1229,
+      "status": "dostepny"
+    },
+    {
+      "numer": "30706",
+      "nazwa": "Lekcja quidditcha",
+      "rok": 2025,
+      "elementy": 27,
       "status": "eol"
     },
     {
@@ -1817,11 +2895,18 @@
       "status": "eol"
     },
     {
+      "numer": "6565158",
+      "nazwa": "Butterbeer Truck",
+      "rok": 2025,
+      "elementy": 61,
+      "status": "eol"
+    },
+    {
       "numer": "76441",
       "nazwa": "Zamek Hogwart: Klub pojedynków",
       "rok": 2025,
       "elementy": 158,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76442",
@@ -1835,7 +2920,7 @@
       "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
       "rok": 2025,
       "elementy": 617,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76444",
@@ -1863,7 +2948,7 @@
       "nazwa": "Zamek Hogwart: lekcja latania na miotle",
       "rok": 2025,
       "elementy": 651,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76448",
@@ -1919,28 +3004,42 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2025",
       "rok": 2025,
       "elementy": 278,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76457",
       "nazwa": "Hogsmeade — edycja kolekcjonerska",
       "rok": 2025,
       "elementy": 3228,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76458",
       "nazwa": "Rodzina testrali",
       "rok": 2025,
       "elementy": 548,
+      "status": "eol"
+    },
+    {
+      "numer": "30724",
+      "nazwa": "Gabinet Dumbledore’a z Harrym Potterem",
+      "rok": 2026,
+      "elementy": 42,
       "status": "dostepny"
+    },
+    {
+      "numer": "40901",
+      "nazwa": "Przekąski Ministerskie i Prorok Codzienny — stoiska",
+      "rok": 2026,
+      "elementy": 152,
+      "status": "eol"
     },
     {
       "numer": "40975",
       "nazwa": "Minizamek Hogwart",
       "rok": 2026,
       "elementy": 700,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "66820",
@@ -2052,24 +3151,59 @@
       "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
       "rok": 2026,
       "elementy": 3491,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76477",
       "nazwa": "Norbert: mały smok Hagrida",
       "rok": 2026,
       "elementy": 482,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "76478",
       "nazwa": "Book nook: Gabinet Dumbledore'a",
       "rok": 2026,
       "elementy": 1182,
-      "status": "dostepny"
+      "status": "eol"
     }
   ],
   "Star Wars": [
+    {
+      "numer": "7101",
+      "nazwa": "Lightsaber Duel",
+      "rok": 1999,
+      "elementy": 52,
+      "status": "eol"
+    },
+    {
+      "numer": "7110",
+      "nazwa": "Landspeeder",
+      "rok": 1999,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "7111",
+      "nazwa": "Droid Fighter",
+      "rok": 1999,
+      "elementy": 62,
+      "status": "eol"
+    },
+    {
+      "numer": "7121",
+      "nazwa": "Naboo Swamp",
+      "rok": 1999,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
+      "numer": "7128",
+      "nazwa": "Speeder Bikes",
+      "rok": 1999,
+      "elementy": 93,
+      "status": "eol"
+    },
     {
       "numer": "7130",
       "nazwa": "Snowspeeder",
@@ -2124,6 +3258,48 @@
       "nazwa": "Mos Espa Podrace",
       "rok": 1999,
       "elementy": 896,
+      "status": "eol"
+    },
+    {
+      "numer": "3340",
+      "nazwa": "Star Wars #1 - Emperor Palpatine, Darth Maul and Darth Vader",
+      "rok": 2000,
+      "elementy": 32,
+      "status": "eol"
+    },
+    {
+      "numer": "3341",
+      "nazwa": "Star Wars #2 - Luke Skywalker, Han Solo and Boba Fett",
+      "rok": 2000,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "3342",
+      "nazwa": "Star Wars #3 - Chewbacca and 2 Biker Scouts",
+      "rok": 2000,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "3343",
+      "nazwa": "Star Wars #4 - Battle Droid Commander and 2 Battle Droids",
+      "rok": 2000,
+      "elementy": 30,
+      "status": "eol"
+    },
+    {
+      "numer": "7104",
+      "nazwa": "Desert Skiff",
+      "rok": 2000,
+      "elementy": 55,
+      "status": "eol"
+    },
+    {
+      "numer": "7115",
+      "nazwa": "Gungan Patrol",
+      "rok": 2000,
+      "elementy": 77,
       "status": "eol"
     },
     {
@@ -2218,6 +3394,27 @@
       "status": "eol"
     },
     {
+      "numer": "10018",
+      "nazwa": "Darth Maul",
+      "rok": 2001,
+      "elementy": 1868,
+      "status": "eol"
+    },
+    {
+      "numer": "10019",
+      "nazwa": "Rebel Blockade Runner",
+      "rok": 2001,
+      "elementy": 1747,
+      "status": "eol"
+    },
+    {
+      "numer": "7106",
+      "nazwa": "Droid Escape",
+      "rok": 2001,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
       "numer": "7126",
       "nazwa": "Battle Droid Carrier",
       "rok": 2001,
@@ -2267,17 +3464,52 @@
       "status": "eol"
     },
     {
-      "numer": "10018",
-      "nazwa": "Darth Maul",
-      "rok": 2001,
-      "elementy": 1868,
+      "numer": "10026",
+      "nazwa": "Special Edition Naboo Starfighter",
+      "rok": 2002,
+      "elementy": 187,
       "status": "eol"
     },
     {
-      "numer": "10019",
-      "nazwa": "Rebel Blockade Runner",
-      "rok": 2001,
-      "elementy": 1747,
+      "numer": "10030",
+      "nazwa": "Imperial Star Destroyer",
+      "rok": 2002,
+      "elementy": 3096,
+      "status": "eol"
+    },
+    {
+      "numer": "65081",
+      "nazwa": "R2-D2 / C-3PO Droid Collectors Set",
+      "rok": 2002,
+      "elementy": 581,
+      "status": "eol"
+    },
+    {
+      "numer": "65145",
+      "nazwa": "X-wing Fighter / TIE Fighter & Y-wing Collectors Set",
+      "rok": 2002,
+      "elementy": 677,
+      "status": "eol"
+    },
+    {
+      "numer": "65153",
+      "nazwa": "Jango Fett's Slave I with Bonus Cargo Case",
+      "rok": 2002,
+      "elementy": 369,
+      "status": "eol"
+    },
+    {
+      "numer": "7103",
+      "nazwa": "Jedi Duel",
+      "rok": 2002,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
+      "numer": "7113",
+      "nazwa": "Tusken Raider Encounter",
+      "rok": 2002,
+      "elementy": 93,
       "status": "eol"
     },
     {
@@ -2344,6 +3576,34 @@
       "status": "eol"
     },
     {
+      "numer": "7200",
+      "nazwa": "Final Duel I",
+      "rok": 2002,
+      "elementy": 29,
+      "status": "eol"
+    },
+    {
+      "numer": "7201",
+      "nazwa": "Final Duel II",
+      "rok": 2002,
+      "elementy": 23,
+      "status": "eol"
+    },
+    {
+      "numer": "7203",
+      "nazwa": "Jedi Defense I",
+      "rok": 2002,
+      "elementy": 59,
+      "status": "eol"
+    },
+    {
+      "numer": "7204",
+      "nazwa": "Jedi Defense II",
+      "rok": 2002,
+      "elementy": 53,
+      "status": "eol"
+    },
+    {
       "numer": "8009",
       "nazwa": "R2-D2",
       "rok": 2002,
@@ -2372,38 +3632,52 @@
       "status": "eol"
     },
     {
-      "numer": "10026",
-      "nazwa": "Special Edition Naboo Starfighter",
-      "rok": 2002,
-      "elementy": 187,
+      "numer": "10123",
+      "nazwa": "Cloud City",
+      "rok": 2003,
+      "elementy": 698,
       "status": "eol"
     },
     {
-      "numer": "10030",
-      "nazwa": "Imperial Star Destroyer",
-      "rok": 2002,
-      "elementy": 3096,
+      "numer": "10129",
+      "nazwa": "Rebel Snowspeeder",
+      "rok": 2003,
+      "elementy": 1457,
       "status": "eol"
     },
     {
-      "numer": "65081",
-      "nazwa": "R2-D2 / C-3PO Droid Collectors Set",
-      "rok": 2002,
-      "elementy": 581,
+      "numer": "3219",
+      "nazwa": "Mini TIE Fighter",
+      "rok": 2003,
+      "elementy": 12,
       "status": "eol"
     },
     {
-      "numer": "65145",
-      "nazwa": "X-wing Fighter / TIE Fighter & Y-wing Collectors Set",
-      "rok": 2002,
-      "elementy": 677,
+      "numer": "4207901",
+      "nazwa": "Star Wars MINI Bonus Pack",
+      "rok": 2003,
+      "elementy": 277,
       "status": "eol"
     },
     {
-      "numer": "65153",
-      "nazwa": "Jango Fett's Slave I with Bonus Cargo Case",
-      "rok": 2002,
-      "elementy": 369,
+      "numer": "4475",
+      "nazwa": "Jabba's Message",
+      "rok": 2003,
+      "elementy": 44,
+      "status": "eol"
+    },
+    {
+      "numer": "4476",
+      "nazwa": "Jabba's Prize",
+      "rok": 2003,
+      "elementy": 40,
+      "status": "eol"
+    },
+    {
+      "numer": "4477",
+      "nazwa": "T-16 Skyhopper",
+      "rok": 2003,
+      "elementy": 98,
       "status": "eol"
     },
     {
@@ -2449,6 +3723,48 @@
       "status": "eol"
     },
     {
+      "numer": "4484",
+      "nazwa": "X-wing Fighter & TIE Advanced",
+      "rok": 2003,
+      "elementy": 76,
+      "status": "eol"
+    },
+    {
+      "numer": "4485",
+      "nazwa": "Sebulba's Podracer & Anakin's Podracer",
+      "rok": 2003,
+      "elementy": 72,
+      "status": "eol"
+    },
+    {
+      "numer": "4486",
+      "nazwa": "AT-ST & Snowspeeder",
+      "rok": 2003,
+      "elementy": 76,
+      "status": "eol"
+    },
+    {
+      "numer": "4487",
+      "nazwa": "Jedi Starfighter & Slave I",
+      "rok": 2003,
+      "elementy": 53,
+      "status": "eol"
+    },
+    {
+      "numer": "4488",
+      "nazwa": "Millennium Falcon",
+      "rok": 2003,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
+      "numer": "4489",
+      "nazwa": "AT-AT",
+      "rok": 2003,
+      "elementy": 98,
+      "status": "eol"
+    },
+    {
       "numer": "4490",
       "nazwa": "Republic Gunship",
       "rok": 2003,
@@ -2456,24 +3772,52 @@
       "status": "eol"
     },
     {
-      "numer": "10123",
-      "nazwa": "Cloud City",
+      "numer": "4491",
+      "nazwa": "MTT",
       "rok": 2003,
-      "elementy": 698,
+      "elementy": 99,
       "status": "eol"
     },
     {
-      "numer": "10129",
-      "nazwa": "Rebel Snowspeeder",
-      "rok": 2003,
-      "elementy": 1457,
+      "numer": "10131",
+      "nazwa": "TIE Fighter Collection",
+      "rok": 2004,
+      "elementy": 682,
       "status": "eol"
     },
     {
-      "numer": "4207901",
-      "nazwa": "Star Wars MINI Bonus Pack",
-      "rok": 2003,
-      "elementy": 277,
+      "numer": "10134",
+      "nazwa": "Y-wing Attack Starfighter",
+      "rok": 2004,
+      "elementy": 1473,
+      "status": "eol"
+    },
+    {
+      "numer": "4492",
+      "nazwa": "Star Destroyer",
+      "rok": 2004,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
+      "numer": "4493",
+      "nazwa": "Sith Infiltrator",
+      "rok": 2004,
+      "elementy": 55,
+      "status": "eol"
+    },
+    {
+      "numer": "4494",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2004,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
+      "numer": "4495",
+      "nazwa": "AT-TE",
+      "rok": 2004,
+      "elementy": 63,
       "status": "eol"
     },
     {
@@ -2505,27 +3849,6 @@
       "status": "eol"
     },
     {
-      "numer": "7262",
-      "nazwa": "TIE Fighter and Y-wing",
-      "rok": 2004,
-      "elementy": 412,
-      "status": "eol"
-    },
-    {
-      "numer": "10131",
-      "nazwa": "TIE Fighter Collection",
-      "rok": 2004,
-      "elementy": 682,
-      "status": "eol"
-    },
-    {
-      "numer": "10134",
-      "nazwa": "Y-wing Attack Starfighter",
-      "rok": 2004,
-      "elementy": 1473,
-      "status": "eol"
-    },
-    {
       "numer": "65707",
       "nazwa": "Bonus/Value Pack",
       "rok": 2004,
@@ -2533,10 +3856,108 @@
       "status": "eol"
     },
     {
+      "numer": "6963",
+      "nazwa": "X-wing Fighter",
+      "rok": 2004,
+      "elementy": 41,
+      "status": "eol"
+    },
+    {
+      "numer": "6964",
+      "nazwa": "Boba Fett's Slave I",
+      "rok": 2004,
+      "elementy": 25,
+      "status": "eol"
+    },
+    {
+      "numer": "6965",
+      "nazwa": "TIE Interceptor",
+      "rok": 2004,
+      "elementy": 32,
+      "status": "eol"
+    },
+    {
+      "numer": "7262",
+      "nazwa": "TIE Fighter and Y-wing",
+      "rok": 2004,
+      "elementy": 412,
+      "status": "eol"
+    },
+    {
+      "numer": "10143",
+      "nazwa": "Death Star II",
+      "rok": 2005,
+      "elementy": 3449,
+      "status": "eol"
+    },
+    {
+      "numer": "10144",
+      "nazwa": "Sandcrawler",
+      "rok": 2005,
+      "elementy": 1669,
+      "status": "eol"
+    },
+    {
+      "numer": "65771",
+      "nazwa": "Episode III Collectors' Set",
+      "rok": 2005,
+      "elementy": 544,
+      "status": "eol"
+    },
+    {
+      "numer": "65828",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 244,
+      "status": "eol"
+    },
+    {
+      "numer": "65844",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 280,
+      "status": "eol"
+    },
+    {
+      "numer": "65845",
+      "nazwa": "Bonus/Value Pack",
+      "rok": 2005,
+      "elementy": 371,
+      "status": "eol"
+    },
+    {
+      "numer": "6966",
+      "nazwa": "Mini Jedi Starfighter",
+      "rok": 2005,
+      "elementy": 38,
+      "status": "eol"
+    },
+    {
+      "numer": "6967",
+      "nazwa": "Mini ARC-170 Starfighter",
+      "rok": 2005,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "6968",
+      "nazwa": "Wookiee Attack",
+      "rok": 2005,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
       "numer": "7250",
       "nazwa": "Clone Scout Walker",
       "rok": 2005,
       "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "7251",
+      "nazwa": "Darth Vader Transformation",
+      "rok": 2005,
+      "elementy": 53,
       "status": "eol"
     },
     {
@@ -2610,45 +4031,17 @@
       "status": "eol"
     },
     {
-      "numer": "10143",
-      "nazwa": "Death Star II",
-      "rok": 2005,
-      "elementy": 3449,
+      "numer": "10174",
+      "nazwa": "Imperial AT-ST",
+      "rok": 2006,
+      "elementy": 1068,
       "status": "eol"
     },
     {
-      "numer": "10144",
-      "nazwa": "Sandcrawler",
-      "rok": 2005,
-      "elementy": 1669,
-      "status": "eol"
-    },
-    {
-      "numer": "65771",
-      "nazwa": "Episode III Collectors' Set",
-      "rok": 2005,
-      "elementy": 544,
-      "status": "eol"
-    },
-    {
-      "numer": "65828",
-      "nazwa": "Bonus/Value Pack",
-      "rok": 2005,
-      "elementy": 244,
-      "status": "eol"
-    },
-    {
-      "numer": "65844",
-      "nazwa": "Bonus/Value Pack",
-      "rok": 2005,
-      "elementy": 280,
-      "status": "eol"
-    },
-    {
-      "numer": "65845",
-      "nazwa": "Bonus/Value Pack",
-      "rok": 2005,
-      "elementy": 371,
+      "numer": "10175",
+      "nazwa": "Vader's TIE Advanced",
+      "rok": 2006,
+      "elementy": 1212,
       "status": "eol"
     },
     {
@@ -2708,27 +4101,6 @@
       "status": "eol"
     },
     {
-      "numer": "7261",
-      "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
-      "rok": 2006,
-      "elementy": 813,
-      "status": "eol"
-    },
-    {
-      "numer": "10174",
-      "nazwa": "Imperial AT-ST",
-      "rok": 2006,
-      "elementy": 1068,
-      "status": "eol"
-    },
-    {
-      "numer": "10175",
-      "nazwa": "Vader's TIE Advanced",
-      "rok": 2006,
-      "elementy": 1212,
-      "status": "eol"
-    },
-    {
       "numer": "66142",
       "nazwa": "Bonus/Value Pack",
       "rok": 2006,
@@ -2750,10 +4122,52 @@
       "status": "eol"
     },
     {
+      "numer": "7261",
+      "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
+      "rok": 2006,
+      "elementy": 813,
+      "status": "eol"
+    },
+    {
+      "numer": "7261-2",
+      "nazwa": "Clone Turbo Tank (non-light-up, 2006 edition)",
+      "rok": 2006,
+      "elementy": 813,
+      "status": "eol"
+    },
+    {
+      "numer": "10178",
+      "nazwa": "Motorized Walking AT-AT",
+      "rok": 2007,
+      "elementy": 1137,
+      "status": "eol"
+    },
+    {
+      "numer": "10179",
+      "nazwa": "Ultimate Collector's Millennium Falcon",
+      "rok": 2007,
+      "elementy": 5197,
+      "status": "eol"
+    },
+    {
+      "numer": "4521221",
+      "nazwa": "Gold Chrome Plated C-3PO",
+      "rok": 2007,
+      "elementy": 3,
+      "status": "eol"
+    },
+    {
       "numer": "7654",
       "nazwa": "Droids Battle Pack",
       "rok": 2007,
       "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "7655",
+      "nazwa": "Clone Troopers Battle Pack",
+      "rok": 2007,
+      "elementy": 58,
       "status": "eol"
     },
     {
@@ -2834,17 +4248,38 @@
       "status": "eol"
     },
     {
-      "numer": "10178",
-      "nazwa": "Motorized Walking AT-AT",
-      "rok": 2007,
-      "elementy": 1137,
+      "numer": "10186",
+      "nazwa": "General Grievous",
+      "rok": 2008,
+      "elementy": 1085,
       "status": "eol"
     },
     {
-      "numer": "10179",
-      "nazwa": "Ultimate Collector's Millennium Falcon",
-      "rok": 2007,
-      "elementy": 5197,
+      "numer": "10188",
+      "nazwa": "Death Star",
+      "rok": 2008,
+      "elementy": 3803,
+      "status": "eol"
+    },
+    {
+      "numer": "20006",
+      "nazwa": "Clone Turbo Tank",
+      "rok": 2008,
+      "elementy": 64,
+      "status": "eol"
+    },
+    {
+      "numer": "7667",
+      "nazwa": "Imperial Dropship",
+      "rok": 2008,
+      "elementy": 81,
+      "status": "eol"
+    },
+    {
+      "numer": "7668",
+      "nazwa": "Rebel Scout Speeder",
+      "rok": 2008,
+      "elementy": 82,
       "status": "eol"
     },
     {
@@ -2932,17 +4367,94 @@
       "status": "eol"
     },
     {
-      "numer": "10186",
-      "nazwa": "General Grievous",
+      "numer": "8028",
+      "nazwa": "TIE Fighter",
       "rok": 2008,
-      "elementy": 1085,
+      "elementy": 44,
       "status": "eol"
     },
     {
-      "numer": "10188",
-      "nazwa": "Death Star",
+      "numer": "8029",
+      "nazwa": "Mini Snowspeeder",
       "rok": 2008,
-      "elementy": 3803,
+      "elementy": 66,
+      "status": "eol"
+    },
+    {
+      "numer": "8031",
+      "nazwa": "V-19 Torrent",
+      "rok": 2008,
+      "elementy": 66,
+      "status": "eol"
+    },
+    {
+      "numer": "10195",
+      "nazwa": "Republic Dropship with AT-OT",
+      "rok": 2009,
+      "elementy": 1758,
+      "status": "eol"
+    },
+    {
+      "numer": "10198",
+      "nazwa": "Tantive IV",
+      "rok": 2009,
+      "elementy": 1408,
+      "status": "eol"
+    },
+    {
+      "numer": "20007",
+      "nazwa": "Republic Attack Cruiser",
+      "rok": 2009,
+      "elementy": 84,
+      "status": "eol"
+    },
+    {
+      "numer": "20009",
+      "nazwa": "AT-TE Walker",
+      "rok": 2009,
+      "elementy": 94,
+      "status": "eol"
+    },
+    {
+      "numer": "20010",
+      "nazwa": "Republic Gunship",
+      "rok": 2009,
+      "elementy": 94,
+      "status": "eol"
+    },
+    {
+      "numer": "30004",
+      "nazwa": "Battle Droid on STAP",
+      "rok": 2009,
+      "elementy": 28,
+      "status": "eol"
+    },
+    {
+      "numer": "30005",
+      "nazwa": "Imperial Speeder Bike",
+      "rok": 2009,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
+      "numer": "30006",
+      "nazwa": "Clone Walker",
+      "rok": 2009,
+      "elementy": 31,
+      "status": "eol"
+    },
+    {
+      "numer": "4547551",
+      "nazwa": "Darth Vader",
+      "rok": 2009,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "66308",
+      "nazwa": "3 in 1 Superpack",
+      "rok": 2009,
+      "elementy": 414,
       "status": "eol"
     },
     {
@@ -2995,6 +4507,20 @@
       "status": "eol"
     },
     {
+      "numer": "8014",
+      "nazwa": "Clone Walker Battle Pack",
+      "rok": 2009,
+      "elementy": 72,
+      "status": "eol"
+    },
+    {
+      "numer": "8015",
+      "nazwa": "Assassin Droids Battle Pack",
+      "rok": 2009,
+      "elementy": 94,
+      "status": "eol"
+    },
+    {
       "numer": "8016",
       "nazwa": "Hyena Droid Bomber",
       "rok": 2009,
@@ -3020,6 +4546,13 @@
       "nazwa": "Republic Attack Shuttle",
       "rok": 2009,
       "elementy": 636,
+      "status": "eol"
+    },
+    {
+      "numer": "8033",
+      "nazwa": "General Grievous' Starfighter",
+      "rok": 2009,
+      "elementy": 44,
       "status": "eol"
     },
     {
@@ -3051,24 +4584,101 @@
       "status": "eol"
     },
     {
-      "numer": "10195",
-      "nazwa": "Republic Dropship with AT-OT",
-      "rok": 2009,
-      "elementy": 1758,
+      "numer": "10212",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2010,
+      "elementy": 2503,
       "status": "eol"
     },
     {
-      "numer": "10198",
-      "nazwa": "Tantive IV",
-      "rok": 2009,
-      "elementy": 1408,
+      "numer": "10215",
+      "nazwa": "Obi-Wan's Jedi Starfighter",
+      "rok": 2010,
+      "elementy": 676,
       "status": "eol"
     },
     {
-      "numer": "66308",
-      "nazwa": "3 in 1 Superpack",
-      "rok": 2009,
-      "elementy": 414,
+      "numer": "20016",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2010,
+      "elementy": 70,
+      "status": "eol"
+    },
+    {
+      "numer": "20018",
+      "nazwa": "AT-AT Walker",
+      "rok": 2010,
+      "elementy": 83,
+      "status": "eol"
+    },
+    {
+      "numer": "2853590",
+      "nazwa": "Stormtrooper",
+      "rok": 2010,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "2853835",
+      "nazwa": "Boba Fett",
+      "rok": 2010,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "30050",
+      "nazwa": "Republic Attack Shuttle",
+      "rok": 2010,
+      "elementy": 54,
+      "status": "eol"
+    },
+    {
+      "numer": "30051",
+      "nazwa": "Mini X-wing",
+      "rok": 2010,
+      "elementy": 61,
+      "status": "eol"
+    },
+    {
+      "numer": "66341",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 342,
+      "status": "eol"
+    },
+    {
+      "numer": "66364",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 308,
+      "status": "eol"
+    },
+    {
+      "numer": "66366",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 531,
+      "status": "eol"
+    },
+    {
+      "numer": "66368",
+      "nazwa": "Star Wars Super Pack 3 in 1",
+      "rok": 2010,
+      "elementy": 316,
+      "status": "eol"
+    },
+    {
+      "numer": "8083",
+      "nazwa": "Rebel Trooper Battle Pack",
+      "rok": 2010,
+      "elementy": 79,
+      "status": "eol"
+    },
+    {
+      "numer": "8084",
+      "nazwa": "Snowtrooper Battle Pack",
+      "rok": 2010,
+      "elementy": 74,
       "status": "eol"
     },
     {
@@ -3177,45 +4787,87 @@
       "status": "eol"
     },
     {
-      "numer": "10212",
-      "nazwa": "Imperial Shuttle",
-      "rok": 2010,
-      "elementy": 2503,
+      "numer": "10221",
+      "nazwa": "Super Star Destroyer",
+      "rok": 2011,
+      "elementy": 3152,
       "status": "eol"
     },
     {
-      "numer": "10215",
-      "nazwa": "Obi-Wan's Jedi Starfighter",
-      "rok": 2010,
-      "elementy": 676,
+      "numer": "20019",
+      "nazwa": "Slave I",
+      "rok": 2011,
+      "elementy": 76,
       "status": "eol"
     },
     {
-      "numer": "66341",
+      "numer": "20021",
+      "nazwa": "Bounty Hunter Assault Gunship",
+      "rok": 2011,
+      "elementy": 81,
+      "status": "eol"
+    },
+    {
+      "numer": "2856197",
+      "nazwa": "Shadow ARF Trooper",
+      "rok": 2011,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "30052",
+      "nazwa": "AAT",
+      "rok": 2011,
+      "elementy": 46,
+      "status": "eol"
+    },
+    {
+      "numer": "30053",
+      "nazwa": "Republic Attack Cruiser",
+      "rok": 2011,
+      "elementy": 41,
+      "status": "eol"
+    },
+    {
+      "numer": "30054",
+      "nazwa": "AT-ST",
+      "rok": 2011,
+      "elementy": 46,
+      "status": "eol"
+    },
+    {
+      "numer": "30055",
+      "nazwa": "Vulture Droid",
+      "rok": 2011,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "66377",
       "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2010,
-      "elementy": 342,
+      "rok": 2011,
+      "elementy": 484,
       "status": "eol"
     },
     {
-      "numer": "66364",
+      "numer": "66378",
       "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2010,
-      "elementy": 308,
+      "rok": 2011,
+      "elementy": 330,
       "status": "eol"
     },
     {
-      "numer": "66366",
+      "numer": "66395",
       "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2010,
-      "elementy": 531,
+      "rok": 2011,
+      "elementy": 367,
       "status": "eol"
     },
     {
-      "numer": "66368",
+      "numer": "66396",
       "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2010,
-      "elementy": 316,
+      "rok": 2011,
+      "elementy": 644,
       "status": "eol"
     },
     {
@@ -3244,6 +4896,20 @@
       "nazwa": "Hoth Echo Base",
       "rok": 2011,
       "elementy": 773,
+      "status": "eol"
+    },
+    {
+      "numer": "7913",
+      "nazwa": "Clone Trooper Battle Pack",
+      "rok": 2011,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
+      "numer": "7914",
+      "nazwa": "Mandalorian Battle Pack",
+      "rok": 2011,
+      "elementy": 68,
       "status": "eol"
     },
     {
@@ -3331,38 +4997,94 @@
       "status": "eol"
     },
     {
-      "numer": "10221",
-      "nazwa": "Super Star Destroyer",
-      "rok": 2011,
-      "elementy": 3152,
+      "numer": "10225",
+      "nazwa": "R2-D2",
+      "rok": 2012,
+      "elementy": 2127,
       "status": "eol"
     },
     {
-      "numer": "66377",
-      "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2011,
-      "elementy": 484,
+      "numer": "10227",
+      "nazwa": "B-wing Starfighter",
+      "rok": 2012,
+      "elementy": 1487,
       "status": "eol"
     },
     {
-      "numer": "66378",
-      "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2011,
-      "elementy": 330,
+      "numer": "30056",
+      "nazwa": "Star Destroyer",
+      "rok": 2012,
+      "elementy": 38,
       "status": "eol"
     },
     {
-      "numer": "66395",
-      "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2011,
-      "elementy": 367,
+      "numer": "30057",
+      "nazwa": "Anakin's Podracer",
+      "rok": 2012,
+      "elementy": 38,
       "status": "eol"
     },
     {
-      "numer": "66396",
-      "nazwa": "Star Wars Super Pack 3 in 1",
-      "rok": 2011,
-      "elementy": 644,
+      "numer": "30058",
+      "nazwa": "STAP",
+      "rok": 2012,
+      "elementy": 24,
+      "status": "eol"
+    },
+    {
+      "numer": "30059",
+      "nazwa": "MTT",
+      "rok": 2012,
+      "elementy": 51,
+      "status": "eol"
+    },
+    {
+      "numer": "5000062",
+      "nazwa": "Darth Maul",
+      "rok": 2012,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "5000063",
+      "nazwa": "TC-14",
+      "rok": 2012,
+      "elementy": 3,
+      "status": "eol"
+    },
+    {
+      "numer": "66411",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 633,
+      "status": "eol"
+    },
+    {
+      "numer": "66431",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 298,
+      "status": "eol"
+    },
+    {
+      "numer": "66432",
+      "nazwa": "Super Pack 3-in-1",
+      "rok": 2012,
+      "elementy": 763,
+      "status": "eol"
+    },
+    {
+      "numer": "9488",
+      "nazwa": "Elite Clone Trooper & Commando Droid Battle Pack",
+      "rok": 2012,
+      "elementy": 98,
+      "status": "eol"
+    },
+    {
+      "numer": "9489",
+      "nazwa": "Endor Rebel Trooper & Imperial Trooper Battle Pack",
+      "rok": 2012,
+      "elementy": 77,
       "status": "eol"
     },
     {
@@ -3478,38 +5200,45 @@
       "status": "eol"
     },
     {
-      "numer": "10225",
-      "nazwa": "R2-D2",
+      "numer": "9674",
+      "nazwa": "Naboo Starfighter & Naboo",
       "rok": 2012,
-      "elementy": 2127,
+      "elementy": 56,
       "status": "eol"
     },
     {
-      "numer": "10227",
-      "nazwa": "B-wing Starfighter",
+      "numer": "9675",
+      "nazwa": "Sebulba's Podracer & Tatooine",
       "rok": 2012,
-      "elementy": 1487,
+      "elementy": 80,
       "status": "eol"
     },
     {
-      "numer": "66411",
-      "nazwa": "Super Pack 3-in-1",
+      "numer": "9676",
+      "nazwa": "TIE Interceptor & Death Star",
       "rok": 2012,
-      "elementy": 633,
+      "elementy": 65,
       "status": "eol"
     },
     {
-      "numer": "66431",
-      "nazwa": "Super Pack 3-in-1",
+      "numer": "9677",
+      "nazwa": "X-wing Starfighter & Yavin 4",
       "rok": 2012,
-      "elementy": 298,
+      "elementy": 77,
       "status": "eol"
     },
     {
-      "numer": "66432",
-      "nazwa": "Super Pack 3-in-1",
+      "numer": "9678",
+      "nazwa": "Twin-Pod Cloud Car & Bespin",
       "rok": 2012,
-      "elementy": 763,
+      "elementy": 78,
+      "status": "eol"
+    },
+    {
+      "numer": "9679",
+      "nazwa": "AT-ST & Endor",
+      "rok": 2012,
+      "elementy": 65,
       "status": "eol"
     },
     {
@@ -3524,6 +5253,55 @@
       "nazwa": "Red Five X-wing Starfighter",
       "rok": 2013,
       "elementy": 1559,
+      "status": "eol"
+    },
+    {
+      "numer": "11905",
+      "nazwa": "Brickmaster Star Wars: Battle for the Stolen Crystals parts",
+      "rok": 2013,
+      "elementy": 189,
+      "status": "eol"
+    },
+    {
+      "numer": "30240",
+      "nazwa": "Z-95 Headhunter",
+      "rok": 2013,
+      "elementy": 54,
+      "status": "eol"
+    },
+    {
+      "numer": "30241",
+      "nazwa": "Mandalorian Fighter",
+      "rok": 2013,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "30242",
+      "nazwa": "Republic Frigate",
+      "rok": 2013,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "30243",
+      "nazwa": "Umbaran MHC",
+      "rok": 2013,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "5001621",
+      "nazwa": "Han Solo (Hoth)",
+      "rok": 2013,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "5001709",
+      "nazwa": "Clone Trooper Lieutenant",
+      "rok": 2013,
+      "elementy": 5,
       "status": "eol"
     },
     {
@@ -3555,6 +5333,13 @@
       "status": "eol"
     },
     {
+      "numer": "75001",
+      "nazwa": "Republic Troopers vs. Sith Troopers",
+      "rok": 2013,
+      "elementy": 63,
+      "status": "eol"
+    },
+    {
       "numer": "75002",
       "nazwa": "AT-RT",
       "rok": 2013,
@@ -3580,6 +5365,41 @@
       "nazwa": "Rancor Pit",
       "rok": 2013,
       "elementy": 380,
+      "status": "eol"
+    },
+    {
+      "numer": "75006",
+      "nazwa": "Jedi Starfighter & Planet Kamino",
+      "rok": 2013,
+      "elementy": 61,
+      "status": "eol"
+    },
+    {
+      "numer": "75007",
+      "nazwa": "Republic Assault Ship & Planet Coruscant",
+      "rok": 2013,
+      "elementy": 74,
+      "status": "eol"
+    },
+    {
+      "numer": "75008",
+      "nazwa": "TIE Bomber & Asteroid Field",
+      "rok": 2013,
+      "elementy": 60,
+      "status": "eol"
+    },
+    {
+      "numer": "75009",
+      "nazwa": "Snowspeeder & Planet Hoth",
+      "rok": 2013,
+      "elementy": 69,
+      "status": "eol"
+    },
+    {
+      "numer": "75010",
+      "nazwa": "B-Wing Starfighter & Planet Endor",
+      "rok": 2013,
+      "elementy": 83,
       "status": "eol"
     },
     {
@@ -3688,6 +5508,41 @@
       "status": "eol"
     },
     {
+      "numer": "30244",
+      "nazwa": "Anakin's Jedi Interceptor",
+      "rok": 2014,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "30246",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2014,
+      "elementy": 57,
+      "status": "eol"
+    },
+    {
+      "numer": "30247",
+      "nazwa": "ARC-170 Starfighter",
+      "rok": 2014,
+      "elementy": 54,
+      "status": "eol"
+    },
+    {
+      "numer": "5002122",
+      "nazwa": "TC-4",
+      "rok": 2014,
+      "elementy": 3,
+      "status": "eol"
+    },
+    {
+      "numer": "5002123",
+      "nazwa": "Darth Revan",
+      "rok": 2014,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
       "numer": "66479",
       "nazwa": "Value Pack",
       "rok": 2014,
@@ -3723,10 +5578,66 @@
       "status": "eol"
     },
     {
+      "numer": "75028",
+      "nazwa": "Clone Turbo Tank",
+      "rok": 2014,
+      "elementy": 96,
+      "status": "eol"
+    },
+    {
+      "numer": "75029",
+      "nazwa": "AAT",
+      "rok": 2014,
+      "elementy": 95,
+      "status": "eol"
+    },
+    {
+      "numer": "75030",
+      "nazwa": "Millennium Falcon",
+      "rok": 2014,
+      "elementy": 94,
+      "status": "eol"
+    },
+    {
+      "numer": "75031",
+      "nazwa": "TIE Interceptor",
+      "rok": 2014,
+      "elementy": 92,
+      "status": "eol"
+    },
+    {
+      "numer": "75032",
+      "nazwa": "X-wing Fighter",
+      "rok": 2014,
+      "elementy": 97,
+      "status": "eol"
+    },
+    {
+      "numer": "75033",
+      "nazwa": "Star Destroyer",
+      "rok": 2014,
+      "elementy": 97,
+      "status": "eol"
+    },
+    {
       "numer": "75034",
       "nazwa": "Death Star Troopers",
       "rok": 2014,
       "elementy": 100,
+      "status": "eol"
+    },
+    {
+      "numer": "75035",
+      "nazwa": "Kashyyyk Troopers",
+      "rok": 2014,
+      "elementy": 99,
+      "status": "eol"
+    },
+    {
+      "numer": "75036",
+      "nazwa": "Utapau Troopers",
+      "rok": 2014,
+      "elementy": 83,
       "status": "eol"
     },
     {
@@ -3877,6 +5788,69 @@
       "status": "eol"
     },
     {
+      "numer": "30272",
+      "nazwa": "A-wing Starfighter",
+      "rok": 2015,
+      "elementy": 58,
+      "status": "eol"
+    },
+    {
+      "numer": "30274",
+      "nazwa": "AT-DP",
+      "rok": 2015,
+      "elementy": 65,
+      "status": "eol"
+    },
+    {
+      "numer": "30275",
+      "nazwa": "TIE Advanced Prototype",
+      "rok": 2015,
+      "elementy": 47,
+      "status": "eol"
+    },
+    {
+      "numer": "30276",
+      "nazwa": "First Order Special Forces TIE Fighter",
+      "rok": 2015,
+      "elementy": 41,
+      "status": "eol"
+    },
+    {
+      "numer": "5002938",
+      "nazwa": "Stormtrooper Sergeant",
+      "rok": 2015,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "5002939",
+      "nazwa": "The Phantom",
+      "rok": 2015,
+      "elementy": 25,
+      "status": "eol"
+    },
+    {
+      "numer": "5002947",
+      "nazwa": "Admiral Yularen",
+      "rok": 2015,
+      "elementy": 4,
+      "status": "eol"
+    },
+    {
+      "numer": "5002948",
+      "nazwa": "C-3PO",
+      "rok": 2015,
+      "elementy": 3,
+      "status": "eol"
+    },
+    {
+      "numer": "6141077",
+      "nazwa": "X-Wing and TIE Fighter",
+      "rok": 2015,
+      "elementy": 58,
+      "status": "eol"
+    },
+    {
       "numer": "66533",
       "nazwa": "Microfighter 3 in 1 Super Pack",
       "rok": 2015,
@@ -3912,6 +5886,34 @@
       "status": "eol"
     },
     {
+      "numer": "75072",
+      "nazwa": "ARC-170 Starfighter",
+      "rok": 2015,
+      "elementy": 95,
+      "status": "eol"
+    },
+    {
+      "numer": "75073",
+      "nazwa": "Vulture Droid",
+      "rok": 2015,
+      "elementy": 77,
+      "status": "eol"
+    },
+    {
+      "numer": "75074",
+      "nazwa": "Snowspeeder",
+      "rok": 2015,
+      "elementy": 97,
+      "status": "eol"
+    },
+    {
+      "numer": "75075",
+      "nazwa": "AT-AT",
+      "rok": 2015,
+      "elementy": 88,
+      "status": "eol"
+    },
+    {
       "numer": "75076",
       "nazwa": "Republic Gunship",
       "rok": 2015,
@@ -3930,6 +5932,13 @@
       "nazwa": "Imperial Troop Transport",
       "rok": 2015,
       "elementy": 141,
+      "status": "eol"
+    },
+    {
+      "numer": "75079",
+      "nazwa": "Shadow Troopers",
+      "rok": 2015,
+      "elementy": 95,
       "status": "eol"
     },
     {
@@ -4115,6 +6124,34 @@
       "status": "eol"
     },
     {
+      "numer": "75107",
+      "nazwa": "Jango Fett",
+      "rok": 2015,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
+      "numer": "75108",
+      "nazwa": "Clone Commander Cody",
+      "rok": 2015,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
+      "numer": "75109",
+      "nazwa": "Obi-Wan Kenobi",
+      "rok": 2015,
+      "elementy": 83,
+      "status": "eol"
+    },
+    {
+      "numer": "75110",
+      "nazwa": "Luke Skywalker",
+      "rok": 2015,
+      "elementy": 83,
+      "status": "eol"
+    },
+    {
       "numer": "75111",
       "nazwa": "Darth Vader",
       "rok": 2015,
@@ -4126,6 +6163,104 @@
       "nazwa": "General Grievous",
       "rok": 2015,
       "elementy": 186,
+      "status": "eol"
+    },
+    {
+      "numer": "911506",
+      "nazwa": "Snowspeeder",
+      "rok": 2015,
+      "elementy": 19,
+      "status": "eol"
+    },
+    {
+      "numer": "911508",
+      "nazwa": "Slave I",
+      "rok": 2015,
+      "elementy": 20,
+      "status": "eol"
+    },
+    {
+      "numer": "911509",
+      "nazwa": "Imperial Shooter",
+      "rok": 2015,
+      "elementy": 20,
+      "status": "eol"
+    },
+    {
+      "numer": "911510",
+      "nazwa": "Star Destroyer and TIE Fighter",
+      "rok": 2015,
+      "elementy": 21,
+      "status": "eol"
+    },
+    {
+      "numer": "911511",
+      "nazwa": "Jedi Weapon Stand",
+      "rok": 2015,
+      "elementy": 16,
+      "status": "eol"
+    },
+    {
+      "numer": "11912",
+      "nazwa": "LEGO Star Wars: Build Your Own Adventure parts",
+      "rok": 2016,
+      "elementy": 73,
+      "status": "eol"
+    },
+    {
+      "numer": "30277",
+      "nazwa": "First Order Star Destroyer",
+      "rok": 2016,
+      "elementy": 56,
+      "status": "eol"
+    },
+    {
+      "numer": "30278",
+      "nazwa": "Poe's X-wing Fighter",
+      "rok": 2016,
+      "elementy": 64,
+      "status": "eol"
+    },
+    {
+      "numer": "30279",
+      "nazwa": "Kylo Ren's Command Shuttle",
+      "rok": 2016,
+      "elementy": 43,
+      "status": "eol"
+    },
+    {
+      "numer": "30602",
+      "nazwa": "First Order Stormtrooper",
+      "rok": 2016,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "30605",
+      "nazwa": "Finn (FN-2187)",
+      "rok": 2016,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "5004406",
+      "nazwa": "First Order General",
+      "rok": 2016,
+      "elementy": 4,
+      "status": "eol"
+    },
+    {
+      "numer": "5004408",
+      "nazwa": "Rebel A-wing Pilot",
+      "rok": 2016,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "6176782",
+      "nazwa": "Escape the Space Slug",
+      "rok": 2016,
+      "elementy": 161,
       "status": "eol"
     },
     {
@@ -4150,6 +6285,20 @@
       "status": "eol"
     },
     {
+      "numer": "75113",
+      "nazwa": "Rey",
+      "rok": 2016,
+      "elementy": 84,
+      "status": "eol"
+    },
+    {
+      "numer": "75114",
+      "nazwa": "First Order Stormtrooper",
+      "rok": 2016,
+      "elementy": 81,
+      "status": "eol"
+    },
+    {
       "numer": "75115",
       "nazwa": "Poe Dameron",
       "rok": 2016,
@@ -4157,11 +6306,32 @@
       "status": "eol"
     },
     {
+      "numer": "75116",
+      "nazwa": "Finn",
+      "rok": 2016,
+      "elementy": 98,
+      "status": "eol"
+    },
+    {
+      "numer": "75117",
+      "nazwa": "Kylo Ren",
+      "rok": 2016,
+      "elementy": 86,
+      "status": "eol"
+    },
+    {
+      "numer": "75118",
+      "nazwa": "Captain Phasma",
+      "rok": 2016,
+      "elementy": 82,
+      "status": "eol"
+    },
+    {
       "numer": "75119",
       "nazwa": "Sergeant Jyn Erso",
       "rok": 2016,
       "elementy": 104,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75120",
@@ -4178,6 +6348,20 @@
       "status": "eol"
     },
     {
+      "numer": "75125",
+      "nazwa": "Resistance X-wing Fighter",
+      "rok": 2016,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
+      "numer": "75126",
+      "nazwa": "First Order Snowspeeder",
+      "rok": 2016,
+      "elementy": 91,
+      "status": "eol"
+    },
+    {
       "numer": "75127",
       "nazwa": "The Ghost",
       "rok": 2016,
@@ -4185,10 +6369,38 @@
       "status": "eol"
     },
     {
+      "numer": "75128",
+      "nazwa": "TIE Advanced Prototype",
+      "rok": 2016,
+      "elementy": 93,
+      "status": "eol"
+    },
+    {
+      "numer": "75129",
+      "nazwa": "Wookiee Gunship",
+      "rok": 2016,
+      "elementy": 84,
+      "status": "eol"
+    },
+    {
+      "numer": "75130",
+      "nazwa": "AT-DP",
+      "rok": 2016,
+      "elementy": 76,
+      "status": "eol"
+    },
+    {
       "numer": "75131",
       "nazwa": "Resistance Trooper Battle Pack",
       "rok": 2016,
       "elementy": 112,
+      "status": "eol"
+    },
+    {
+      "numer": "75132",
+      "nazwa": "First Order Battle Pack",
+      "rok": 2016,
+      "elementy": 88,
       "status": "eol"
     },
     {
@@ -4367,10 +6579,115 @@
       "status": "eol"
     },
     {
-      "numer": "6176782",
-      "nazwa": "Escape the Space Slug",
+      "numer": "911607",
+      "nazwa": "Millennium Falcon",
       "rok": 2016,
-      "elementy": 161,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "911608",
+      "nazwa": "Landspeeder",
+      "rok": 2016,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "911609",
+      "nazwa": "Naboo Starfighter",
+      "rok": 2016,
+      "elementy": 34,
+      "status": "eol"
+    },
+    {
+      "numer": "911610",
+      "nazwa": "Probe Droid",
+      "rok": 2016,
+      "elementy": 19,
+      "status": "eol"
+    },
+    {
+      "numer": "911611",
+      "nazwa": "AAT",
+      "rok": 2016,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "911612",
+      "nazwa": "Acklay",
+      "rok": 2016,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "911613",
+      "nazwa": "TIE Bomber",
+      "rok": 2016,
+      "elementy": 26,
+      "status": "eol"
+    },
+    {
+      "numer": "911614",
+      "nazwa": "Yoda's Hut",
+      "rok": 2016,
+      "elementy": 29,
+      "status": "eol"
+    },
+    {
+      "numer": "911615",
+      "nazwa": "AT-AT",
+      "rok": 2016,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "911616",
+      "nazwa": "MTT",
+      "rok": 2016,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "911617",
+      "nazwa": "Palpatine's Shuttle",
+      "rok": 2016,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "30496",
+      "nazwa": "U-wing Fighter",
+      "rok": 2017,
+      "elementy": 55,
+      "status": "eol"
+    },
+    {
+      "numer": "30497",
+      "nazwa": "First Order Heavy Assault Walker",
+      "rok": 2017,
+      "elementy": 54,
+      "status": "eol"
+    },
+    {
+      "numer": "30611",
+      "nazwa": "R2-D2",
+      "rok": 2017,
+      "elementy": 70,
+      "status": "eol"
+    },
+    {
+      "numer": "40176",
+      "nazwa": "Scarif Stormtrooper",
+      "rok": 2017,
+      "elementy": 25,
+      "status": "eol"
+    },
+    {
+      "numer": "40268",
+      "nazwa": "R3-M2",
+      "rok": 2017,
+      "elementy": 21,
       "status": "eol"
     },
     {
@@ -4399,6 +6716,27 @@
       "nazwa": "U-wing Microfighter",
       "rok": 2017,
       "elementy": 109,
+      "status": "eol"
+    },
+    {
+      "numer": "75161",
+      "nazwa": "TIE Striker Microfighter",
+      "rok": 2017,
+      "elementy": 88,
+      "status": "eol"
+    },
+    {
+      "numer": "75162",
+      "nazwa": "Y-wing Microfighter",
+      "rok": 2017,
+      "elementy": 90,
+      "status": "eol"
+    },
+    {
+      "numer": "75163",
+      "nazwa": "Krennic's Imperial Shuttle Microfighter",
+      "rok": 2017,
+      "elementy": 78,
       "status": "eol"
     },
     {
@@ -4563,6 +6901,13 @@
       "status": "eol"
     },
     {
+      "numer": "75188-3",
+      "nazwa": "Resistance Bomber (standard pilot version)",
+      "rok": 2017,
+      "elementy": 780,
+      "status": "eol"
+    },
+    {
       "numer": "75189",
       "nazwa": "First Order Heavy Assault Walker",
       "rok": 2017,
@@ -4591,10 +6936,45 @@
       "status": "dostepny"
     },
     {
+      "numer": "75523",
+      "nazwa": "Scarif Stormtrooper",
+      "rok": 2017,
+      "elementy": 89,
+      "status": "eol"
+    },
+    {
+      "numer": "75524",
+      "nazwa": "Chirrut Îmwe",
+      "rok": 2017,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
       "numer": "75525",
       "nazwa": "Baze Malbus",
       "rok": 2017,
       "elementy": 148,
+      "status": "eol"
+    },
+    {
+      "numer": "75526",
+      "nazwa": "Elite TIE Fighter Pilot",
+      "rok": 2017,
+      "elementy": 94,
+      "status": "eol"
+    },
+    {
+      "numer": "75528",
+      "nazwa": "Rey",
+      "rok": 2017,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
+      "numer": "75529",
+      "nazwa": "Elite Praetorian Guard",
+      "rok": 2017,
+      "elementy": 92,
       "status": "eol"
     },
     {
@@ -4616,6 +6996,201 @@
       "nazwa": "Scout Trooper & Speeder Bike",
       "rok": 2017,
       "elementy": 452,
+      "status": "eol"
+    },
+    {
+      "numer": "911618",
+      "nazwa": "Flash Speeder",
+      "rok": 2017,
+      "elementy": 43,
+      "status": "eol"
+    },
+    {
+      "numer": "911719",
+      "nazwa": "Kanan Jarrus",
+      "rok": 2017,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "911720",
+      "nazwa": "Ghost",
+      "rok": 2017,
+      "elementy": 50,
+      "status": "eol"
+    },
+    {
+      "numer": "911721",
+      "nazwa": "Imperial Combat Driver",
+      "rok": 2017,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "911722",
+      "nazwa": "TIE Advanced",
+      "rok": 2017,
+      "elementy": 26,
+      "status": "eol"
+    },
+    {
+      "numer": "911723",
+      "nazwa": "Vulture Droid",
+      "rok": 2017,
+      "elementy": 35,
+      "status": "eol"
+    },
+    {
+      "numer": "911724",
+      "nazwa": "A-wing",
+      "rok": 2017,
+      "elementy": 47,
+      "status": "eol"
+    },
+    {
+      "numer": "911725",
+      "nazwa": "Sandcrawler",
+      "rok": 2017,
+      "elementy": 50,
+      "status": "eol"
+    },
+    {
+      "numer": "911726",
+      "nazwa": "Imperial Snowtrooper",
+      "rok": 2017,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "911727",
+      "nazwa": "Rey's Speeder",
+      "rok": 2017,
+      "elementy": 35,
+      "status": "eol"
+    },
+    {
+      "numer": "911728",
+      "nazwa": "First Order Snowspeeder",
+      "rok": 2017,
+      "elementy": 44,
+      "status": "eol"
+    },
+    {
+      "numer": "911729",
+      "nazwa": "Droid Gunship",
+      "rok": 2017,
+      "elementy": 25,
+      "status": "eol"
+    },
+    {
+      "numer": "911730",
+      "nazwa": "Y-wing",
+      "rok": 2017,
+      "elementy": 60,
+      "status": "eol"
+    },
+    {
+      "numer": "30380",
+      "nazwa": "Kylo Ren's Shuttle",
+      "rok": 2018,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
+      "numer": "30381",
+      "nazwa": "Imperial TIE Fighter",
+      "rok": 2018,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "30498",
+      "nazwa": "Imperial AT-Hauler",
+      "rok": 2018,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "40288",
+      "nazwa": "BB-8",
+      "rok": 2018,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "40298",
+      "nazwa": "DJ",
+      "rok": 2018,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "40299",
+      "nazwa": "Kessel Mine Worker",
+      "rok": 2018,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "40300",
+      "nazwa": "Han Solo Mudtrooper",
+      "rok": 2018,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "5005376",
+      "nazwa": "Star Wars Anniversary Pod",
+      "rok": 2018,
+      "elementy": 36,
+      "status": "eol"
+    },
+    {
+      "numer": "5005704",
+      "nazwa": "LEGO Star Wars Mystery Box",
+      "rok": 2018,
+      "status": "eol"
+    },
+    {
+      "numer": "5005747",
+      "nazwa": "Black Card Display Stand",
+      "rok": 2018,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "6252770",
+      "nazwa": "Leia Organa",
+      "rok": 2018,
+      "elementy": 18,
+      "status": "eol"
+    },
+    {
+      "numer": "6252808",
+      "nazwa": "Chewbacca",
+      "rok": 2018,
+      "elementy": 22,
+      "status": "eol"
+    },
+    {
+      "numer": "6252810",
+      "nazwa": "Han Solo",
+      "rok": 2018,
+      "elementy": 23,
+      "status": "eol"
+    },
+    {
+      "numer": "6252811",
+      "nazwa": "Obi-Wan Kenobi",
+      "rok": 2018,
+      "elementy": 18,
+      "status": "eol"
+    },
+    {
+      "numer": "6252812",
+      "nazwa": "Luke Skywalker",
+      "rok": 2018,
+      "elementy": 20,
       "status": "eol"
     },
     {
@@ -4647,6 +7222,27 @@
       "status": "eol"
     },
     {
+      "numer": "75188-2",
+      "nazwa": "Resistance Bomber (Finch Dallow version)",
+      "rok": 2018,
+      "elementy": 780,
+      "status": "eol"
+    },
+    {
+      "numer": "75193",
+      "nazwa": "Millennium Falcon Microfighter",
+      "rok": 2018,
+      "elementy": 92,
+      "status": "eol"
+    },
+    {
+      "numer": "75194",
+      "nazwa": "First Order TIE Fighter Microfighter",
+      "rok": 2018,
+      "elementy": 91,
+      "status": "eol"
+    },
+    {
       "numer": "75195",
       "nazwa": "Ski Speeder kontra Maszyna krocząca Najwyższego Porządku",
       "rok": 2018,
@@ -4665,6 +7261,13 @@
       "nazwa": "Najwyższy Porządek",
       "rok": 2018,
       "elementy": 108,
+      "status": "eol"
+    },
+    {
+      "numer": "75198",
+      "nazwa": "Tatooine Battle Pack",
+      "rok": 2018,
+      "elementy": 97,
       "status": "eol"
     },
     {
@@ -4721,6 +7324,13 @@
       "nazwa": "Jedi i żołnierze armii klonów",
       "rok": 2018,
       "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75207",
+      "nazwa": "Imperial Patrol Battle Pack",
+      "rok": 2018,
+      "elementy": 99,
       "status": "eol"
     },
     {
@@ -4878,6 +7488,144 @@
       "status": "eol"
     },
     {
+      "numer": "75538",
+      "nazwa": "Super Battle Droid",
+      "rok": 2018,
+      "status": "eol"
+    },
+    {
+      "numer": "75539",
+      "nazwa": "501st Legion Clone Trooper & AT-RT Walker",
+      "rok": 2018,
+      "status": "eol"
+    },
+    {
+      "numer": "911831",
+      "nazwa": "Kylo Ren's Shuttle",
+      "rok": 2018,
+      "elementy": 21,
+      "status": "eol"
+    },
+    {
+      "numer": "911832",
+      "nazwa": "Imperial Shuttle Pilot",
+      "rok": 2018,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "911833",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2018,
+      "elementy": 36,
+      "status": "eol"
+    },
+    {
+      "numer": "911834",
+      "nazwa": "Finn",
+      "rok": 2018,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "911835",
+      "nazwa": "Dwarf Spider Droid",
+      "rok": 2018,
+      "elementy": 23,
+      "status": "eol"
+    },
+    {
+      "numer": "911836",
+      "nazwa": "Quadjumper",
+      "rok": 2018,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "911837",
+      "nazwa": "AT-ST",
+      "rok": 2018,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "911838",
+      "nazwa": "Probe Droid",
+      "rok": 2018,
+      "elementy": 26,
+      "status": "eol"
+    },
+    {
+      "numer": "911839",
+      "nazwa": "Obi-Wan Kenobi",
+      "rok": 2018,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "911840",
+      "nazwa": "Droideka",
+      "rok": 2018,
+      "elementy": 24,
+      "status": "eol"
+    },
+    {
+      "numer": "911841",
+      "nazwa": "Poe Dameron's X-wing",
+      "rok": 2018,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "911842",
+      "nazwa": "Star Destroyer",
+      "rok": 2018,
+      "elementy": 35,
+      "status": "eol"
+    },
+    {
+      "numer": "11920",
+      "nazwa": "Star Wars: Build Your Own Adventure Galactic Missions parts",
+      "rok": 2019,
+      "elementy": 66,
+      "status": "eol"
+    },
+    {
+      "numer": "30383",
+      "nazwa": "Naboo Starfighter",
+      "rok": 2019,
+      "elementy": 48,
+      "status": "eol"
+    },
+    {
+      "numer": "30384",
+      "nazwa": "Snowspeeder",
+      "rok": 2019,
+      "elementy": 49,
+      "status": "eol"
+    },
+    {
+      "numer": "30461",
+      "nazwa": "Podracer",
+      "rok": 2019,
+      "elementy": 58,
+      "status": "eol"
+    },
+    {
+      "numer": "30624",
+      "nazwa": "Obi-Wan Kenobi - Collectable Minifigure",
+      "rok": 2019,
+      "elementy": 12,
+      "status": "eol"
+    },
+    {
+      "numer": "4002019",
+      "nazwa": "Christmas X-wing",
+      "rok": 2019,
+      "elementy": 1038,
+      "status": "eol"
+    },
+    {
       "numer": "40333",
       "nazwa": "Mikromodel Bitwa o Hoth",
       "rok": 2019,
@@ -4889,6 +7637,27 @@
       "nazwa": "Mikromodel Bitwa o Endor",
       "rok": 2019,
       "elementy": 197,
+      "status": "eol"
+    },
+    {
+      "numer": "6382975",
+      "nazwa": "Tantive IV",
+      "rok": 2019,
+      "elementy": 56,
+      "status": "eol"
+    },
+    {
+      "numer": "75223",
+      "nazwa": "Naboo Starfighter Microfighter",
+      "rok": 2019,
+      "elementy": 62,
+      "status": "eol"
+    },
+    {
+      "numer": "75224",
+      "nazwa": "Sith Infiltrator Microfighter",
+      "rok": 2019,
+      "elementy": 92,
       "status": "eol"
     },
     {
@@ -4955,6 +7724,13 @@
       "status": "eol"
     },
     {
+      "numer": "75237",
+      "nazwa": "TIE Fighter Attack",
+      "rok": 2019,
+      "elementy": 77,
+      "status": "eol"
+    },
+    {
       "numer": "75238",
       "nazwa": "Bitwa na Endorze",
       "rok": 2019,
@@ -5015,6 +7791,13 @@
       "nazwa": "Działo na Gwieździe Śmierci",
       "rok": 2019,
       "elementy": 159,
+      "status": "eol"
+    },
+    {
+      "numer": "75247",
+      "nazwa": "Rebel A-wing Starfighter",
+      "rok": 2019,
+      "elementy": 62,
       "status": "eol"
     },
     {
@@ -5116,6 +7899,13 @@
       "status": "eol"
     },
     {
+      "numer": "75522",
+      "nazwa": "Mini Boost Droid Commander",
+      "rok": 2019,
+      "elementy": 62,
+      "status": "eol"
+    },
+    {
       "numer": "77901",
       "nazwa": "Sith Trooper Bust",
       "rok": 2019,
@@ -5123,10 +7913,94 @@
       "status": "eol"
     },
     {
-      "numer": "4002019",
-      "nazwa": "Christmas X-wing",
+      "numer": "911943",
+      "nazwa": "Luke Skywalker",
       "rok": 2019,
-      "elementy": 1038,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "911944",
+      "nazwa": "Resistance Bomber",
+      "rok": 2019,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "911945",
+      "nazwa": "Slave I",
+      "rok": 2019,
+      "elementy": 31,
+      "status": "eol"
+    },
+    {
+      "numer": "911946",
+      "nazwa": "U-wing",
+      "rok": 2019,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "911947",
+      "nazwa": "IG-88",
+      "rok": 2019,
+      "elementy": 11,
+      "status": "eol"
+    },
+    {
+      "numer": "911948",
+      "nazwa": "AT-M6",
+      "rok": 2019,
+      "elementy": 52,
+      "status": "eol"
+    },
+    {
+      "numer": "911949",
+      "nazwa": "Millennium Falcon",
+      "rok": 2019,
+      "elementy": 32,
+      "status": "eol"
+    },
+    {
+      "numer": "911950",
+      "nazwa": "B-wing",
+      "rok": 2019,
+      "elementy": 52,
+      "status": "eol"
+    },
+    {
+      "numer": "911951",
+      "nazwa": "First Order Stormtrooper",
+      "rok": 2019,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "911952",
+      "nazwa": "Jedi Interceptor",
+      "rok": 2019,
+      "elementy": 30,
+      "status": "eol"
+    },
+    {
+      "numer": "911953",
+      "nazwa": "First Order SF TIE Fighter",
+      "rok": 2019,
+      "elementy": 32,
+      "status": "eol"
+    },
+    {
+      "numer": "911954",
+      "nazwa": "Kylo Ren's TIE Silencer",
+      "rok": 2019,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
+      "numer": "30386",
+      "nazwa": "Myśliwiec X-Wing Poe'a Damerona",
+      "rok": 2020,
+      "elementy": 72,
       "status": "eol"
     },
     {
@@ -5134,6 +8008,27 @@
       "nazwa": "Bitwa o Gwiazdę Śmierci II",
       "rok": 2020,
       "elementy": 235,
+      "status": "eol"
+    },
+    {
+      "numer": "5006290",
+      "nazwa": "Yoda's Lightsaber",
+      "rok": 2020,
+      "elementy": 140,
+      "status": "eol"
+    },
+    {
+      "numer": "75263",
+      "nazwa": "Mikromyśliwiec Y-Wing Ruchu Oporu",
+      "rok": 2020,
+      "elementy": 86,
+      "status": "eol"
+    },
+    {
+      "numer": "75264",
+      "nazwa": "Wahadłowiec Kylo Rena",
+      "rok": 2020,
+      "elementy": 72,
       "status": "eol"
     },
     {
@@ -5155,6 +8050,13 @@
       "nazwa": "Zestaw bojowy Mandalorianina",
       "rok": 2020,
       "elementy": 102,
+      "status": "eol"
+    },
+    {
+      "numer": "75268",
+      "nazwa": "Śmigacz śnieżny",
+      "rok": 2020,
+      "elementy": 91,
       "status": "eol"
     },
     {
@@ -5326,10 +8228,101 @@
       "status": "eol"
     },
     {
-      "numer": "5006290",
-      "nazwa": "Yoda's Lightsaber",
+      "numer": "912055",
+      "nazwa": "Snowspeeder",
       "rok": 2020,
-      "elementy": 140,
+      "elementy": 28,
+      "status": "eol"
+    },
+    {
+      "numer": "912056",
+      "nazwa": "TIE Striker",
+      "rok": 2020,
+      "elementy": 28,
+      "status": "eol"
+    },
+    {
+      "numer": "912057",
+      "nazwa": "R2-D2 and MSE-6",
+      "rok": 2020,
+      "elementy": 13,
+      "status": "eol"
+    },
+    {
+      "numer": "912058",
+      "nazwa": "Sith Infiltrator",
+      "rok": 2020,
+      "elementy": 34,
+      "status": "eol"
+    },
+    {
+      "numer": "912059",
+      "nazwa": "Elite Praetorian Guard",
+      "rok": 2020,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912060",
+      "nazwa": "A-wing",
+      "rok": 2020,
+      "elementy": 44,
+      "status": "eol"
+    },
+    {
+      "numer": "912061",
+      "nazwa": "AT-AT",
+      "rok": 2020,
+      "elementy": 51,
+      "status": "eol"
+    },
+    {
+      "numer": "912062",
+      "nazwa": "Stormtrooper",
+      "rok": 2020,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912063",
+      "nazwa": "Resistance X-wing",
+      "rok": 2020,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "912064",
+      "nazwa": "Sith Eternal TIE Dagger",
+      "rok": 2020,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "912065",
+      "nazwa": "Luke Skywalker",
+      "rok": 2020,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912066",
+      "nazwa": "Jedi Interceptor",
+      "rok": 2020,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
+      "numer": "912067",
+      "nazwa": "TIE Interceptor",
+      "rok": 2020,
+      "elementy": 42,
+      "status": "eol"
+    },
+    {
+      "numer": "30388",
+      "nazwa": "Imperialny wahadłowiec",
+      "rok": 2021,
+      "elementy": 85,
       "status": "eol"
     },
     {
@@ -5365,6 +8358,13 @@
       "nazwa": "Komnata medytacyjna Dartha Vadera",
       "rok": 2021,
       "elementy": 663,
+      "status": "eol"
+    },
+    {
+      "numer": "75297",
+      "nazwa": "X-Wing Ruchu Oporu",
+      "rok": 2021,
+      "elementy": 60,
       "status": "eol"
     },
     {
@@ -5501,10 +8501,122 @@
       "status": "eol"
     },
     {
+      "numer": "912168",
+      "nazwa": "Mandalorian",
+      "rok": 2021,
+      "elementy": 8,
+      "status": "eol"
+    },
+    {
+      "numer": "912169",
+      "nazwa": "Emperor Palpatine",
+      "rok": 2021,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912170",
+      "nazwa": "V-wing",
+      "rok": 2021,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "912171",
+      "nazwa": "TIE Bomber",
+      "rok": 2021,
+      "elementy": 28,
+      "status": "eol"
+    },
+    {
+      "numer": "912172",
+      "nazwa": "Jedi Starfighter",
+      "rok": 2021,
+      "elementy": 29,
+      "status": "eol"
+    },
+    {
+      "numer": "912173",
+      "nazwa": "Rey and BB-8",
+      "rok": 2021,
+      "elementy": 8,
+      "status": "eol"
+    },
+    {
+      "numer": "912174",
+      "nazwa": "Sith Trooper",
+      "rok": 2021,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912175",
+      "nazwa": "AT-ST Raider",
+      "rok": 2021,
+      "elementy": 53,
+      "status": "eol"
+    },
+    {
+      "numer": "912176",
+      "nazwa": "Clone Turbo Tank",
+      "rok": 2021,
+      "elementy": 57,
+      "status": "eol"
+    },
+    {
+      "numer": "912177",
+      "nazwa": "Resistance A-wing",
+      "rok": 2021,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "912178",
+      "nazwa": "Republic Gunship",
+      "rok": 2021,
+      "elementy": 51,
+      "status": "eol"
+    },
+    {
+      "numer": "912179",
+      "nazwa": "Snowtrooper",
+      "rok": 2021,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "30495",
+      "nazwa": "AT-ST",
+      "rok": 2022,
+      "elementy": 79,
+      "status": "eol"
+    },
+    {
+      "numer": "30625",
+      "nazwa": "Luke Skywalker with Blue Milk",
+      "rok": 2022,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
       "numer": "40531",
       "nazwa": "Kuchnia rodziny Larsów",
       "rok": 2022,
       "elementy": 195,
+      "status": "eol"
+    },
+    {
+      "numer": "40557",
+      "nazwa": "Obrona Hoth",
+      "rok": 2022,
+      "elementy": 64,
+      "status": "eol"
+    },
+    {
+      "numer": "40558",
+      "nazwa": "Stacja dowodzenia żołnierza oddziału klonów",
+      "rok": 2022,
+      "elementy": 66,
       "status": "eol"
     },
     {
@@ -5519,6 +8631,13 @@
       "nazwa": "Zestaw bitewny ze szturmowcem śnieżnym",
       "rok": 2022,
       "elementy": 105,
+      "status": "eol"
+    },
+    {
+      "numer": "75321",
+      "nazwa": "Mikromyśliwiec Brzeszczot",
+      "rok": 2022,
+      "elementy": 98,
       "status": "eol"
     },
     {
@@ -5547,7 +8666,7 @@
       "nazwa": "Myśliwiec N-1 Mandalorianina",
       "rok": 2022,
       "elementy": 412,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75326",
@@ -5575,7 +8694,7 @@
       "nazwa": "Diorama: Szturm na Gwiazdę Śmierci",
       "rok": 2022,
       "elementy": 665,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75330",
@@ -5592,11 +8711,18 @@
       "status": "eol"
     },
     {
+      "numer": "75332",
+      "nazwa": "AT-ST",
+      "rok": 2022,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
       "numer": "75333",
       "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
       "rok": 2022,
       "elementy": 282,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75334",
@@ -5669,6 +8795,97 @@
       "status": "eol"
     },
     {
+      "numer": "912280",
+      "nazwa": "Millennium Falcon",
+      "rok": 2022,
+      "elementy": 41,
+      "status": "eol"
+    },
+    {
+      "numer": "912281",
+      "nazwa": "Clone Trooper",
+      "rok": 2022,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912282",
+      "nazwa": "AT-AT",
+      "rok": 2022,
+      "elementy": 52,
+      "status": "eol"
+    },
+    {
+      "numer": "912283",
+      "nazwa": "Tusken Raider",
+      "rok": 2022,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912284",
+      "nazwa": "Razor Crest",
+      "rok": 2022,
+      "elementy": 41,
+      "status": "eol"
+    },
+    {
+      "numer": "912285",
+      "nazwa": "Darth Maul",
+      "rok": 2022,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912286",
+      "nazwa": "Mandalorian Warrior",
+      "rok": 2022,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912287",
+      "nazwa": "Mandalorian Starfighter",
+      "rok": 2022,
+      "elementy": 31,
+      "status": "eol"
+    },
+    {
+      "numer": "912288",
+      "nazwa": "TIE Whisper",
+      "rok": 2022,
+      "elementy": 34,
+      "status": "eol"
+    },
+    {
+      "numer": "912289",
+      "nazwa": "Princess Leia",
+      "rok": 2022,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912290",
+      "nazwa": "Imperial Light Cruiser",
+      "rok": 2022,
+      "elementy": 39,
+      "status": "eol"
+    },
+    {
+      "numer": "912291",
+      "nazwa": "Luke Skywalker",
+      "rok": 2022,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "30654",
+      "nazwa": "Myśliwiec X-Wing",
+      "rok": 2023,
+      "elementy": 87,
+      "status": "eol"
+    },
+    {
       "numer": "40591",
       "nazwa": "Gwiazda Śmierci II",
       "rok": 2023,
@@ -5680,6 +8897,20 @@
       "nazwa": "Świąteczna diorama z Sokołem Millennium",
       "rok": 2023,
       "elementy": 282,
+      "status": "eol"
+    },
+    {
+      "numer": "5007872",
+      "nazwa": "Lucas Yoda Fountain",
+      "rok": 2023,
+      "elementy": 152,
+      "status": "eol"
+    },
+    {
+      "numer": "6476267",
+      "nazwa": "Star Wars Celebration Europe 2023 Promotional Tile",
+      "rok": 2023,
+      "elementy": 1,
       "status": "eol"
     },
     {
@@ -5697,11 +8928,18 @@
       "status": "eol"
     },
     {
+      "numer": "75344",
+      "nazwa": "Mikromyśliwiec kosmiczny Boby Fetta",
+      "rok": 2023,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
       "numer": "75345",
       "nazwa": "Zestaw bitewny — żołnierze-klony z 501. legionu",
       "rok": 2023,
       "elementy": 119,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75346",
@@ -5722,7 +8960,7 @@
       "nazwa": "Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor",
       "rok": 2023,
       "elementy": 957,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75349",
@@ -5792,7 +9030,7 @@
       "nazwa": "Świątynia Jedi na Tenoo",
       "rok": 2023,
       "elementy": 124,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75359",
@@ -5823,11 +9061,18 @@
       "status": "eol"
     },
     {
+      "numer": "75363",
+      "nazwa": "Myśliwiec N-1 Mandalorianina w mikroskali",
+      "rok": 2023,
+      "elementy": 88,
+      "status": "eol"
+    },
+    {
       "numer": "75364",
       "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
       "rok": 2023,
       "elementy": 1056,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75365",
@@ -5876,14 +9121,112 @@
       "nazwa": "Chewbacca",
       "rok": 2023,
       "elementy": 2319,
+      "status": "dostepny"
+    },
+    {
+      "numer": "912302",
+      "nazwa": "Bo-Katan Kryze",
+      "rok": 2023,
+      "elementy": 8,
       "status": "eol"
     },
     {
-      "numer": "5007872",
-      "nazwa": "Lucas Yoda Fountain",
+      "numer": "912303",
+      "nazwa": "212th Clone Trooper",
       "rok": 2023,
-      "elementy": 152,
+      "elementy": 5,
       "status": "eol"
+    },
+    {
+      "numer": "912304",
+      "nazwa": "X-wing",
+      "rok": 2023,
+      "elementy": 57,
+      "status": "eol"
+    },
+    {
+      "numer": "912305",
+      "nazwa": "Obi-Wan Kenobi",
+      "rok": 2023,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "912306",
+      "nazwa": "Y-wing",
+      "rok": 2023,
+      "elementy": 61,
+      "status": "eol"
+    },
+    {
+      "numer": "912307",
+      "nazwa": "Scout Trooper",
+      "rok": 2023,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912308",
+      "nazwa": "AT-TE",
+      "rok": 2023,
+      "elementy": 62,
+      "status": "eol"
+    },
+    {
+      "numer": "912309",
+      "nazwa": "Stormtrooper",
+      "rok": 2023,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912310",
+      "nazwa": "C-3PO & Gonk Droid",
+      "rok": 2023,
+      "elementy": 15,
+      "status": "eol"
+    },
+    {
+      "numer": "912311",
+      "nazwa": "TIE Advanced",
+      "rok": 2023,
+      "elementy": 29,
+      "status": "eol"
+    },
+    {
+      "numer": "912312",
+      "nazwa": "Yoda's Jedi Starfighter",
+      "rok": 2023,
+      "elementy": 36,
+      "status": "eol"
+    },
+    {
+      "numer": "912313",
+      "nazwa": "Republic Fighter Tank",
+      "rok": 2023,
+      "elementy": 44,
+      "status": "eol"
+    },
+    {
+      "numer": "912401",
+      "nazwa": "Mandalorian Pilot",
+      "rok": 2023,
+      "elementy": 15,
+      "status": "eol"
+    },
+    {
+      "numer": "30680",
+      "nazwa": "AAT",
+      "rok": 2024,
+      "elementy": 75,
+      "status": "eol"
+    },
+    {
+      "numer": "30685",
+      "nazwa": "Minimodel TIE Interceptor",
+      "rok": 2024,
+      "elementy": 48,
+      "status": "dostepny"
     },
     {
       "numer": "40686",
@@ -5907,6 +9250,76 @@
       "status": "eol"
     },
     {
+      "numer": "472407",
+      "nazwa": "Sabine Wren",
+      "rok": 2024,
+      "elementy": 9,
+      "status": "eol"
+    },
+    {
+      "numer": "5009086",
+      "nazwa": "Gasgano's Podracer",
+      "rok": 2024,
+      "elementy": 150,
+      "status": "eol"
+    },
+    {
+      "numer": "6520657",
+      "nazwa": "X-wing",
+      "rok": 2024,
+      "elementy": 60,
+      "status": "eol"
+    },
+    {
+      "numer": "6520658",
+      "nazwa": "Yoda",
+      "rok": 2024,
+      "elementy": 20,
+      "status": "eol"
+    },
+    {
+      "numer": "6522101",
+      "nazwa": "X-wing",
+      "rok": 2024,
+      "elementy": 60,
+      "status": "eol"
+    },
+    {
+      "numer": "6523825",
+      "nazwa": "Naboo Fighter",
+      "rok": 2024,
+      "elementy": 45,
+      "status": "eol"
+    },
+    {
+      "numer": "6523826",
+      "nazwa": "Millennium Falcon",
+      "rok": 2024,
+      "elementy": 20,
+      "status": "eol"
+    },
+    {
+      "numer": "6525757",
+      "nazwa": "Darth Vader, Princess Leia, Yoda",
+      "rok": 2024,
+      "elementy": 69,
+      "status": "eol"
+    },
+    {
+      "numer": "6528899",
+      "nazwa": "Darth Vader",
+      "rok": 2024,
+      "elementy": 30,
+      "status": "eol"
+    },
+    {
+      "numer": "6528900",
+      "nazwa": "Princess Leia",
+      "rok": 2024,
+      "elementy": 19,
+      "status": "eol"
+    },
+    {
       "numer": "66787",
       "nazwa": "Jedi Masters Gift Set",
       "rok": 2024,
@@ -5925,14 +9338,14 @@
       "nazwa": "Zasadzka na Mandalorze — zestaw bitewny",
       "rok": 2024,
       "elementy": 109,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75374",
       "nazwa": "Onyx Cinder",
       "rok": 2024,
       "elementy": 1325,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75375",
@@ -5946,7 +9359,7 @@
       "nazwa": "Tantive IV",
       "rok": 2024,
       "elementy": 654,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75377",
@@ -5960,7 +9373,7 @@
       "nazwa": "Ucieczka na śmigaczu BARC",
       "rok": 2024,
       "elementy": 221,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75379",
@@ -5974,7 +9387,7 @@
       "nazwa": "Diorama: Wyścig ścigaczy w Mos Espa",
       "rok": 2024,
       "elementy": 718,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75381",
@@ -5988,7 +9401,7 @@
       "nazwa": "TIE Interceptor",
       "rok": 2024,
       "elementy": 1931,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75383",
@@ -6002,7 +9415,7 @@
       "nazwa": "Karmazynowy Jastrząb",
       "rok": 2024,
       "elementy": 136,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75385",
@@ -6030,7 +9443,7 @@
       "nazwa": "Myśliwiec rycerza Jedi Boba",
       "rok": 2024,
       "elementy": 305,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75389",
@@ -6047,6 +9460,13 @@
       "status": "eol"
     },
     {
+      "numer": "75391",
+      "nazwa": "Mikromyśliwiec Y-Wing kapitana Rexa",
+      "rok": 2024,
+      "elementy": 99,
+      "status": "dostepny"
+    },
+    {
       "numer": "75392",
       "nazwa": "Kreatywny zestaw do budowy droidów",
       "rok": 2024,
@@ -6058,14 +9478,14 @@
       "nazwa": "Hybryda TIE Fightera i X-Winga",
       "rok": 2024,
       "elementy": 1063,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75394",
       "nazwa": "Gwiezdny Niszczyciel Imperium",
       "rok": 2024,
       "elementy": 1555,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75395",
@@ -6079,7 +9499,7 @@
       "nazwa": "Pustynna barka i jama sarlacca",
       "rok": 2024,
       "elementy": 558,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75397",
@@ -6096,11 +9516,102 @@
       "status": "dostepny"
     },
     {
-      "numer": "5009086",
-      "nazwa": "Gasgano's Podracer",
+      "numer": "912402",
+      "nazwa": "Emperor Palpatine",
       "rok": 2024,
-      "elementy": 150,
+      "elementy": 7,
       "status": "eol"
+    },
+    {
+      "numer": "912403",
+      "nazwa": "Coruscant Guard",
+      "rok": 2024,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912404",
+      "nazwa": "Chewbacca",
+      "rok": 2024,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "912405",
+      "nazwa": "The Mandalorian's N-1 Starfighter",
+      "rok": 2024,
+      "elementy": 50,
+      "status": "eol"
+    },
+    {
+      "numer": "912406",
+      "nazwa": "Imperial Shuttle",
+      "rok": 2024,
+      "elementy": 46,
+      "status": "eol"
+    },
+    {
+      "numer": "912407",
+      "nazwa": "501st Specialist",
+      "rok": 2024,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912408",
+      "nazwa": "Darth Vader",
+      "rok": 2024,
+      "elementy": 8,
+      "status": "eol"
+    },
+    {
+      "numer": "912408-2",
+      "nazwa": "Darth Vader",
+      "rok": 2024,
+      "elementy": 8,
+      "status": "eol"
+    },
+    {
+      "numer": "912409",
+      "nazwa": "Clone Trooper",
+      "rok": 2024,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912410",
+      "nazwa": "TIE Pilot",
+      "rok": 2024,
+      "elementy": 5,
+      "status": "eol"
+    },
+    {
+      "numer": "912411",
+      "nazwa": "T-6 Jedi Shuttle",
+      "rok": 2024,
+      "elementy": 39,
+      "status": "eol"
+    },
+    {
+      "numer": "912412",
+      "nazwa": "The Marauder",
+      "rok": 2024,
+      "elementy": 36,
+      "status": "eol"
+    },
+    {
+      "numer": "912413",
+      "nazwa": "Inquisitor Transport Scythe",
+      "rok": 2024,
+      "elementy": 33,
+      "status": "eol"
+    },
+    {
+      "numer": "30708",
+      "nazwa": "Minimodel Sokoła Millennium",
+      "rok": 2025,
+      "elementy": 74,
+      "status": "dostepny"
     },
     {
       "numer": "40765",
@@ -6124,6 +9635,41 @@
       "status": "dostepny"
     },
     {
+      "numer": "472518",
+      "nazwa": "Ahsoka Tano",
+      "rok": 2025,
+      "elementy": 8,
+      "status": "eol"
+    },
+    {
+      "numer": "6573698",
+      "nazwa": "Star Wars U-wing",
+      "rok": 2025,
+      "elementy": 52,
+      "status": "eol"
+    },
+    {
+      "numer": "6573699",
+      "nazwa": "Grogu M&T",
+      "rok": 2025,
+      "elementy": 51,
+      "status": "eol"
+    },
+    {
+      "numer": "6596072",
+      "nazwa": "Star Wars Celebration Japan 2025 Promotional Tile",
+      "rok": 2025,
+      "elementy": 1,
+      "status": "eol"
+    },
+    {
+      "numer": "6615760",
+      "nazwa": "Trench Run",
+      "rok": 2025,
+      "elementy": 138,
+      "status": "eol"
+    },
+    {
       "numer": "66804",
       "nazwa": "Star Wars: The Clone Wars and The Mandalorian Gift Set",
       "rok": 2025,
@@ -6142,6 +9688,13 @@
       "nazwa": "Myśliwiec U-Wing Rebelii",
       "rok": 2025,
       "elementy": 594,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75400",
+      "nazwa": "Mikromyśliwiec Jedi Plo Koona",
+      "rok": 2025,
+      "elementy": 89,
       "status": "dostepny"
     },
     {
@@ -6184,7 +9737,7 @@
       "nazwa": "Wahadłowiec dowodzenia Kylo Rena",
       "rok": 2025,
       "elementy": 386,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75407",
@@ -6205,6 +9758,13 @@
       "nazwa": "Patrolowiec typu Firespray Jango Fetta",
       "rok": 2025,
       "elementy": 2970,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75410",
+      "nazwa": "Myśliwiec N-1 Mando i Grogu",
+      "rok": 2025,
+      "elementy": 92,
       "status": "dostepny"
     },
     {
@@ -6240,7 +9800,7 @@
       "nazwa": "Hełm Kylo Rena",
       "rok": 2025,
       "elementy": 529,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75416",
@@ -6261,35 +9821,35 @@
       "nazwa": "Kalendarz adwentowy na 2025 rok",
       "rok": 2025,
       "elementy": 263,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75419",
       "nazwa": "Gwiazda Śmierci",
       "rok": 2025,
       "elementy": 9023,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75428",
       "nazwa": "Droid bojowy z platformą STAP",
       "rok": 2025,
       "elementy": 1088,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75429",
       "nazwa": "Hełm operatora AT-AT",
       "rok": 2025,
       "elementy": 730,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75430",
       "nazwa": "Ewok Wicket",
       "rok": 2025,
       "elementy": 1010,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75431",
@@ -6324,20 +9884,160 @@
       "nazwa": "Transporter MTT Separatystów z bitwy o Felucję",
       "rok": 2025,
       "elementy": 976,
+      "status": "eol"
+    },
+    {
+      "numer": "912501",
+      "nazwa": "Mandalorian Nite Owl",
+      "rok": 2025,
+      "elementy": 14,
+      "status": "eol"
+    },
+    {
+      "numer": "912502",
+      "nazwa": "Qui-Gon Jinn",
+      "rok": 2025,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "912503",
+      "nazwa": "Imperial Commando",
+      "rok": 2025,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912504",
+      "nazwa": "Praetorian Guard",
+      "rok": 2025,
+      "elementy": 9,
+      "status": "eol"
+    },
+    {
+      "numer": "912505",
+      "nazwa": "Juggernaut",
+      "rok": 2025,
+      "elementy": 65,
+      "status": "eol"
+    },
+    {
+      "numer": "912506",
+      "nazwa": "TIE Defender",
+      "rok": 2025,
+      "elementy": 44,
+      "status": "eol"
+    },
+    {
+      "numer": "912507",
+      "nazwa": "Luke Skywalker",
+      "rok": 2025,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "912508",
+      "nazwa": "The Mandalorian",
+      "rok": 2025,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912509",
+      "nazwa": "Darth Maul",
+      "rok": 2025,
+      "elementy": 7,
+      "status": "eol"
+    },
+    {
+      "numer": "912510",
+      "nazwa": "Droideka",
+      "rok": 2025,
+      "elementy": 30,
+      "status": "eol"
+    },
+    {
+      "numer": "912511",
+      "nazwa": "Clone Shock Trooper",
+      "rok": 2025,
+      "elementy": 6,
+      "status": "eol"
+    },
+    {
+      "numer": "912512",
+      "nazwa": "U-wing",
+      "rok": 2025,
+      "elementy": 37,
+      "status": "eol"
+    },
+    {
+      "numer": "912513",
+      "nazwa": "Jango Fett's Starship",
+      "rok": 2025,
+      "elementy": 38,
+      "status": "eol"
+    },
+    {
+      "numer": "30727",
+      "nazwa": "Minimodel TIE Advanced",
+      "rok": 2026,
+      "elementy": 68,
       "status": "dostepny"
     },
     {
-      "numer": "6615760",
-      "nazwa": "Trench Run",
-      "rok": 2025,
-      "elementy": 138,
-      "status": "eol"
+      "numer": "30728",
+      "nazwa": "Minimodel Brzeszczota",
+      "rok": 2026,
+      "elementy": 74,
+      "status": "dostepny"
     },
     {
       "numer": "40917",
       "nazwa": "Mroczny Miecz",
       "rok": 2026,
       "elementy": 278,
+      "status": "eol"
+    },
+    {
+      "numer": "5010204",
+      "nazwa": "Grogu in Pram",
+      "rok": 2026,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
+      "numer": "5010305",
+      "nazwa": "The Mandalorian and Grogu",
+      "rok": 2026,
+      "elementy": 147,
+      "status": "eol"
+    },
+    {
+      "numer": "5010391",
+      "nazwa": "Bo Katan",
+      "rok": 2026,
+      "elementy": 133,
+      "status": "eol"
+    },
+    {
+      "numer": "6626047",
+      "nazwa": "Landspeeder",
+      "rok": 2026,
+      "elementy": 55,
+      "status": "eol"
+    },
+    {
+      "numer": "6626049",
+      "nazwa": "N-1 Starfighter",
+      "rok": 2026,
+      "elementy": 43,
+      "status": "eol"
+    },
+    {
+      "numer": "6626051",
+      "nazwa": "Bantha",
+      "rok": 2026,
+      "elementy": 64,
       "status": "eol"
     },
     {
@@ -6401,6 +10101,13 @@
       "nazwa": "SMART Play: Pojedynek w sali tronowej i A-Wing",
       "rok": 2026,
       "elementy": 962,
+      "status": "dostepny"
+    },
+    {
+      "numer": "75436",
+      "nazwa": "Śmigacz Mandalorianina i Grogu",
+      "rok": 2026,
+      "elementy": 58,
       "status": "dostepny"
     },
     {
@@ -6541,21 +10248,21 @@
       "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
       "rok": 2026,
       "elementy": 775,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75459",
       "nazwa": "Imperialny prom typu Lambda",
       "rok": 2026,
       "elementy": 961,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75460",
       "nazwa": "Myśliwiec X-Wing Nowej Republiki",
       "rok": 2026,
       "elementy": 558,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "75461",
@@ -6563,20 +10270,6 @@
       "rok": 2026,
       "elementy": 1028,
       "status": "dostepny"
-    },
-    {
-      "numer": "5010305",
-      "nazwa": "The Mandalorian and Grogu",
-      "rok": 2026,
-      "elementy": 147,
-      "status": "eol"
-    },
-    {
-      "numer": "5010391",
-      "nazwa": "Bo Katan",
-      "rok": 2026,
-      "elementy": 133,
-      "status": "eol"
     }
   ],
   "BrickHeadz": [
@@ -6781,6 +10474,12 @@
       "nazwa": "Święty Mikołaj i Pani Mikołajowa",
       "rok": 2018,
       "elementy": 341,
+      "status": "eol"
+    },
+    {
+      "numer": "40316",
+      "nazwa": "Geoffrey",
+      "rok": 2018,
       "status": "eol"
     },
     {
@@ -7127,6 +10826,13 @@
       "status": "eol"
     },
     {
+      "numer": "6315025",
+      "nazwa": "Amsterdam BrickHeadz",
+      "rok": 2019,
+      "elementy": 110,
+      "status": "eol"
+    },
+    {
       "numer": "66593",
       "nazwa": "2-in-1 Value Pack: Star-Lord & Gamora",
       "rok": 2019,
@@ -7138,13 +10844,6 @@
       "nazwa": "Kylo Ren i żołnierz Sithów",
       "rok": 2019,
       "elementy": 240,
-      "status": "eol"
-    },
-    {
-      "numer": "6315025",
-      "nazwa": "Amsterdam BrickHeadz",
-      "rok": 2019,
-      "elementy": 110,
       "status": "eol"
     },
     {
@@ -7225,17 +10924,17 @@
       "status": "eol"
     },
     {
-      "numer": "75317",
-      "nazwa": "Mandalorianin i Dziecko",
-      "rok": 2020,
-      "elementy": 295,
-      "status": "eol"
-    },
-    {
       "numer": "6322719",
       "nazwa": "Hangzhou BrickHeadz",
       "rok": 2020,
       "elementy": 98,
+      "status": "eol"
+    },
+    {
+      "numer": "75317",
+      "nazwa": "Mandalorianin i Dziecko",
+      "rok": 2020,
+      "elementy": 295,
       "status": "eol"
     },
     {
@@ -7509,7 +11208,7 @@
       "nazwa": "EWA i WALL-E",
       "rok": 2023,
       "elementy": 155,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40620",
@@ -7642,7 +11341,7 @@
       "nazwa": "Stitch",
       "rok": 2024,
       "elementy": 152,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40675",
@@ -7691,7 +11390,7 @@
       "nazwa": "Radość, Smutek i Spina",
       "rok": 2024,
       "elementy": 300,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40750",
@@ -7712,7 +11411,7 @@
       "nazwa": "Carl, Russell i Kevin",
       "rok": 2024,
       "elementy": 308,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40753",
@@ -7733,7 +11432,7 @@
       "nazwa": "Czara Ognia — figurki",
       "rok": 2025,
       "elementy": 671,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40792",
@@ -7761,7 +11460,7 @@
       "nazwa": "Luke Skywalker (pilot Rebelii)",
       "rok": 2025,
       "elementy": 138,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40796",
@@ -7775,7 +11474,7 @@
       "nazwa": "Kłapouchy",
       "rok": 2025,
       "elementy": 156,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40798",
@@ -7803,98 +11502,98 @@
       "nazwa": "Figurki Dustina, Mike'a, Willa i Lucasa",
       "rok": 2025,
       "elementy": 542,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40802",
       "nazwa": "Figurki Luny Lovegood i testrala",
       "rok": 2025,
       "elementy": 292,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40803",
       "nazwa": "Robot i pojazd Optimus Prime",
       "rok": 2025,
       "elementy": 237,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40804",
       "nazwa": "Robot i pojazd Bumblebee",
       "rok": 2025,
       "elementy": 253,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40884",
       "nazwa": "Drift i Raven — figurki",
       "rok": 2025,
       "elementy": 280,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40856",
       "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
       "rok": 2026,
       "elementy": 661,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40858",
       "nazwa": "Figurka SpongeBoba Kanciastoportego",
       "rok": 2026,
       "elementy": 72,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40859",
       "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
       "rok": 2026,
       "elementy": 218,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40860",
       "nazwa": "Toy Story",
       "rok": 2026,
       "elementy": 528,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40861",
       "nazwa": "Figurki Sulley'ego, Mike'a i Boo",
       "rok": 2026,
       "elementy": 303,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40878",
       "nazwa": "Figurki Wojowniczych żółwi ninja",
       "rok": 2026,
       "elementy": 567,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40879",
       "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
       "rok": 2026,
       "elementy": 584,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40880",
       "nazwa": "Avengers: Doomsday Bohaterowie i złoczyńca",
       "rok": 2026,
       "elementy": 467,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40881",
       "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
       "rok": 2026,
       "elementy": 300,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40910",
@@ -7908,35 +11607,35 @@
       "nazwa": "Figurki gremlinów: Gizmo i Stripe",
       "rok": 2026,
       "elementy": 230,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40922",
       "nazwa": "Lilo i Stitch: Andzia",
       "rok": 2026,
       "elementy": 133,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40923",
       "nazwa": "Figurki Shreka, Osła i Ciastka",
       "rok": 2026,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40924",
       "nazwa": "Megatron jako robot i pojazd",
       "rok": 2026,
       "elementy": 224,
-      "status": "dostepny"
+      "status": "eol"
     },
     {
       "numer": "40925",
       "nazwa": "Alicja w Krainie Czarów",
       "rok": 2026,
       "elementy": 601,
-      "status": "dostepny"
+      "status": "eol"
     }
   ],
   "Speed Champions": [
@@ -8179,6 +11878,13 @@
       "status": "eol"
     },
     {
+      "numer": "30342",
+      "nazwa": "Lamborghini Huracán Super Trofeo EVO",
+      "rok": 2020,
+      "elementy": 70,
+      "status": "eol"
+    },
+    {
       "numer": "66647",
       "nazwa": "Speed Champions Bundle 2 in 1",
       "rok": 2020,
@@ -8221,18 +11927,25 @@
       "status": "eol"
     },
     {
+      "numer": "30343",
+      "nazwa": "McLaren Elva",
+      "rok": 2021,
+      "elementy": 85,
+      "status": "eol"
+    },
+    {
       "numer": "76900",
       "nazwa": "Koenigsegg Jesko",
       "rok": 2021,
       "elementy": 280,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76901",
       "nazwa": "Toyota GR Supra",
       "rok": 2021,
       "elementy": 299,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76902",
@@ -8263,18 +11976,25 @@
       "status": "eol"
     },
     {
+      "numer": "30434",
+      "nazwa": "Aston Martin Valkyrie AMR Pro",
+      "rok": 2022,
+      "elementy": 97,
+      "status": "eol"
+    },
+    {
       "numer": "76906",
       "nazwa": "1970 Ferrari 512 M",
       "rok": 2022,
       "elementy": 291,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76907",
       "nazwa": "Lotus Evija",
       "rok": 2022,
       "elementy": 247,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76908",
@@ -8309,6 +12029,13 @@
       "nazwa": "Fast & Furious 1970 Dodge Charger R/T",
       "rok": 2022,
       "elementy": 345,
+      "status": "eol"
+    },
+    {
+      "numer": "30657",
+      "nazwa": "McLaren Solus GT",
+      "rok": 2023,
+      "elementy": 95,
       "status": "eol"
     },
     {
@@ -8347,39 +12074,46 @@
       "status": "eol"
     },
     {
+      "numer": "30683",
+      "nazwa": "Samochód McLaren Formula 1",
+      "rok": 2024,
+      "elementy": 58,
+      "status": "eol"
+    },
+    {
       "numer": "76919",
       "nazwa": "Samochód wyścigowy McLaren Formula 1 wersja 2023",
       "rok": 2024,
       "elementy": 245,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76920",
       "nazwa": "Sportowy Ford Mustang Dark Horse",
       "rok": 2024,
       "elementy": 344,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76921",
       "nazwa": "Wyścigowe Audi S1 E-tron Quattro",
       "rok": 2024,
       "elementy": 274,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76922",
       "nazwa": "Samochody wyścigowe BMW M4 GT3 & BMW M Hybrid V8",
       "rok": 2024,
       "elementy": 676,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76923",
       "nazwa": "Luksusowe Lamborghini Lambo V12 Vision GT",
       "rok": 2024,
       "elementy": 230,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76924",
@@ -8393,7 +12127,7 @@
       "nazwa": "Samochód bezpieczeństwa Aston Martin i AMR23",
       "rok": 2024,
       "elementy": 564,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76934",
@@ -8407,7 +12141,14 @@
       "nazwa": "NASCAR Next Gen Chevrolet Camaro ZL1",
       "rok": 2024,
       "elementy": 328,
-      "status": "eol"
+      "status": "dostepny"
+    },
+    {
+      "numer": "30709",
+      "nazwa": "Ferrari 499P – hipersamochód",
+      "rok": 2025,
+      "elementy": 62,
+      "status": "dostepny"
     },
     {
       "numer": "66802",
@@ -8491,7 +12232,7 @@
       "nazwa": "Bolid F1 KICK Sauber Team C44",
       "rok": 2025,
       "elementy": 259,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "77248",
@@ -8519,6 +12260,13 @@
       "nazwa": "Bolid F1 McLaren Team MCL38",
       "rok": 2025,
       "elementy": 269,
+      "status": "dostepny"
+    },
+    {
+      "numer": "30734",
+      "nazwa": "Mały bolid F1 ACADEMY",
+      "rok": 2026,
+      "elementy": 58,
       "status": "dostepny"
     },
     {
