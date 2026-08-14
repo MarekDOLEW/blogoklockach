@@ -16,7 +16,8 @@
    "brickset.com (theme Duplo)",
    "brickset.com (theme Ninjago)",
    "brickset.com (theme Marvel-Super-Heroes)",
-   "brickset.com (theme Seasonal)"
+   "brickset.com (theme Seasonal)",
+   "brickset.com (theme Disney)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -44509,6 +44510,1428 @@
    "rok": 2026,
    "elementy": 1530,
    "status": "dostepny"
+  }
+ ],
+ "Disney": [
+  {
+   "numer": "10766",
+   "nazwa": "4+ Toy Story 4 - Chudy i Pan Sterowany",
+   "rok": 2019,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "10767",
+   "nazwa": "4+ Toy Story 4 - Pokaz kaskaderski Diuka Kabum",
+   "rok": 2019,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "10768",
+   "nazwa": "4+ Toy Story 4 - Przygoda Buzza i Bou na placu zabaw",
+   "rok": 2019,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "10769",
+   "nazwa": "4+ Toy Story 4 - wakacje w kamperze",
+   "rok": 2019,
+   "elementy": 178,
+   "status": "eol"
+  },
+  {
+   "numer": "10770",
+   "nazwa": "4+ Toy Story 4 - Karnawałowe szaleństwo Chudego i Buzza",
+   "rok": 2019,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "10771",
+   "nazwa": "4+ Toy Story 4 - Karnawałowa kolejka",
+   "rok": 2019,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "30553",
+   "nazwa": "Zimowy tron Elsy",
+   "rok": 2019,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "40361",
+   "nazwa": "Sanie Olafa",
+   "rok": 2019,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "41158",
+   "nazwa": "Wieżyczka Dżasminy",
+   "rok": 2019,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "41159",
+   "nazwa": "Przejażdżka karetą Kopciuszka",
+   "rok": 2019,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "41160",
+   "nazwa": "Nadmorski zamek Arielki",
+   "rok": 2019,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "41161",
+   "nazwa": "Pałacowe przygody Aladyna i Dżasminy",
+   "rok": 2019,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "41162",
+   "nazwa": "Królewskie przyjęcie Arielki, Aurory i Tiany",
+   "rok": 2019,
+   "elementy": 282,
+   "status": "eol"
+  },
+  {
+   "numer": "41163",
+   "nazwa": "Wieżyczka Roszpunki",
+   "rok": 2019,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "41164",
+   "nazwa": "Frozen Zaczarowany domek na drzewie",
+   "rok": 2019,
+   "elementy": 302,
+   "status": "eol"
+  },
+  {
+   "numer": "41165",
+   "nazwa": "Spływ kajakowy Anny",
+   "rok": 2019,
+   "elementy": 108,
+   "status": "eol"
+  },
+  {
+   "numer": "41166",
+   "nazwa": "Wyprawa Elsy",
+   "rok": 2019,
+   "elementy": 116,
+   "status": "eol"
+  },
+  {
+   "numer": "41167",
+   "nazwa": "Frozen Zamkowa wioska w Arendelle",
+   "rok": 2019,
+   "elementy": 521,
+   "status": "eol"
+  },
+  {
+   "numer": "41168",
+   "nazwa": "Szkatułka na biżuterię",
+   "rok": 2019,
+   "elementy": 300,
+   "status": "eol"
+  },
+  {
+   "numer": "41169",
+   "nazwa": "Frozen Olaf",
+   "rok": 2019,
+   "elementy": 122,
+   "status": "eol"
+  },
+  {
+   "numer": "43172",
+   "nazwa": "Magiczny lodowy pałac Elsy",
+   "rok": 2019,
+   "elementy": 701,
+   "status": "eol"
+  },
+  {
+   "numer": "71044",
+   "nazwa": "Pociąg i dworzec",
+   "rok": 2019,
+   "elementy": 2925,
+   "status": "eol"
+  },
+  {
+   "numer": "ARENDELLE",
+   "nazwa": "Arendelle Castle",
+   "rok": 2019,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "OLAF",
+   "nazwa": "Olaf Box",
+   "rok": 2019,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "302001",
+   "nazwa": "Aurora",
+   "rok": 2020,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "302002",
+   "nazwa": "Aurora's Rabbit",
+   "rok": 2020,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "302003",
+   "nazwa": "Cinderella",
+   "rok": 2020,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "302004",
+   "nazwa": "Lucifer",
+   "rok": 2020,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "302005",
+   "nazwa": "Belle",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "302006",
+   "nazwa": "Mrs Potts and Chip",
+   "rok": 2020,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "302007",
+   "nazwa": "Moana",
+   "rok": 2020,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "302008",
+   "nazwa": "Pua Pig and Turtle",
+   "rok": 2020,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "30554",
+   "nazwa": "Zameczek Kopciuszka",
+   "rok": 2020,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "43170",
+   "nazwa": "Oceaniczna przygoda Vaiany",
+   "rok": 2020,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "43173",
+   "nazwa": "Królewska karoca Aurory",
+   "rok": 2020,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "43174",
+   "nazwa": "Książka z przygodami Mulan",
+   "rok": 2020,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "43175",
+   "nazwa": "Książka z przygodami Anny i Elzy",
+   "rok": 2020,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "43176",
+   "nazwa": "Książka z przygodami Arielki",
+   "rok": 2020,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "43177",
+   "nazwa": "Książka z przygodami Belli",
+   "rok": 2020,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "43178",
+   "nazwa": "Przyjęcie w zamku Kopciuszka",
+   "rok": 2020,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "43179",
+   "nazwa": "Ideas Myszka Miki i Myszka Minnie do zbudowania",
+   "rok": 2020,
+   "elementy": 1739,
+   "status": "eol"
+  },
+  {
+   "numer": "43180",
+   "nazwa": "Zimowe święto w zamku Belli",
+   "rok": 2020,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "43182",
+   "nazwa": "Teren szkolenia Mulan",
+   "rok": 2020,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "43183",
+   "nazwa": "Dom Vaiany na wyspie",
+   "rok": 2020,
+   "elementy": 202,
+   "status": "eol"
+  },
+  {
+   "numer": "43187",
+   "nazwa": "Wieża Roszpunki",
+   "rok": 2020,
+   "elementy": 369,
+   "status": "eol"
+  },
+  {
+   "numer": "43188",
+   "nazwa": "Leśna chatka Aurory",
+   "rok": 2020,
+   "elementy": 300,
+   "status": "eol"
+  },
+  {
+   "numer": "10772",
+   "nazwa": "Mickey i przyjaciele Samolot śmigłowy",
+   "rok": 2021,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10773",
+   "nazwa": "Sklep z lodami Myszki Minnie",
+   "rok": 2021,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "10774",
+   "nazwa": "Kosmiczna rakieta Myszki Miki i Minnie",
+   "rok": 2021,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "10775",
+   "nazwa": "Mickey i przyjaciele Farma Mikiego i Donalda",
+   "rok": 2021,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "10776",
+   "nazwa": "Mickey i przyjaciele Remiza i wóz strażacki Myszki Miki i przyjaciół",
+   "rok": 2021,
+   "elementy": 144,
+   "status": "dostepny"
+  },
+  {
+   "numer": "302101",
+   "nazwa": "Rapunzel's Dressing Table",
+   "rok": 2021,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "302102",
+   "nazwa": "Rapunzel & Hairbrush",
+   "rok": 2021,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "302103",
+   "nazwa": "Cinderella's Kitchen",
+   "rok": 2021,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "302104",
+   "nazwa": "Cinderella",
+   "rok": 2021,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "302105",
+   "nazwa": "Lumiere, Cogsworth and Sultan",
+   "rok": 2021,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "302106",
+   "nazwa": "Princess Ariel",
+   "rok": 2021,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "302107",
+   "nazwa": "Cinderella's Carriage",
+   "rok": 2021,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "302108",
+   "nazwa": "Belle",
+   "rok": 2021,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "302109",
+   "nazwa": "Fairy Godmother",
+   "rok": 2021,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "30391",
+   "nazwa": "Łódka Roszpunki z latarnią",
+   "rok": 2021,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "30558",
+   "nazwa": "Raya, Ongi i wielka przygoda",
+   "rok": 2021,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "40478",
+   "nazwa": "Miniaturowy zamek Disneya",
+   "rok": 2021,
+   "elementy": 567,
+   "status": "eol"
+  },
+  {
+   "numer": "43181",
+   "nazwa": "Raya i Pałac Serca",
+   "rok": 2021,
+   "elementy": 610,
+   "status": "eol"
+  },
+  {
+   "numer": "43184",
+   "nazwa": "Raya i smok Sisu",
+   "rok": 2021,
+   "elementy": 216,
+   "status": "eol"
+  },
+  {
+   "numer": "43185",
+   "nazwa": "Łódź Bouna",
+   "rok": 2021,
+   "elementy": 247,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43186",
+   "nazwa": "Salamandra Bruni do zbudowania",
+   "rok": 2021,
+   "elementy": 96,
+   "status": "eol"
+  },
+  {
+   "numer": "43189",
+   "nazwa": "Książka z przygodami Elzy i Nokka",
+   "rok": 2021,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "43191",
+   "nazwa": "Świąteczna łódź Arielki",
+   "rok": 2021,
+   "elementy": 114,
+   "status": "eol"
+  },
+  {
+   "numer": "43192",
+   "nazwa": "Królewski powóz Kopciuszka",
+   "rok": 2021,
+   "elementy": 237,
+   "status": "eol"
+  },
+  {
+   "numer": "43193",
+   "nazwa": "Książka z przygodami Arielki, Belli, Kopciuszka i Tiany",
+   "rok": 2021,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "43194",
+   "nazwa": "Lodowa kraina czarów Anny i Elsy",
+   "rok": 2021,
+   "elementy": 154,
+   "status": "eol"
+  },
+  {
+   "numer": "43195",
+   "nazwa": "Królewskie stajnie Belli i Roszpunki",
+   "rok": 2021,
+   "elementy": 239,
+   "status": "eol"
+  },
+  {
+   "numer": "43196",
+   "nazwa": "Zamek Belli i Bestii",
+   "rok": 2021,
+   "elementy": 505,
+   "status": "eol"
+  },
+  {
+   "numer": "43197",
+   "nazwa": "Lodowy zamek",
+   "rok": 2021,
+   "elementy": 1709,
+   "status": "eol"
+  },
+  {
+   "numer": "43200",
+   "nazwa": "Magiczne drzwi Antonia",
+   "rok": 2021,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "43201",
+   "nazwa": "Encanto Magiczne drzwi Isabeli",
+   "rok": 2021,
+   "elementy": 114,
+   "status": "eol"
+  },
+  {
+   "numer": "43202",
+   "nazwa": "Dom Madrigalów",
+   "rok": 2021,
+   "elementy": 587,
+   "status": "eol"
+  },
+  {
+   "numer": "10777",
+   "nazwa": "Myszka Miki i Myszka Minnie na biwaku",
+   "rok": 2022,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "10778",
+   "nazwa": "Miki, Minnie i Goofy w wesołym miasteczku",
+   "rok": 2022,
+   "elementy": 184,
+   "status": "eol"
+  },
+  {
+   "numer": "10780",
+   "nazwa": "Miki i przyjaciele - obrońcy zamku",
+   "rok": 2022,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "30559",
+   "nazwa": "Leśny biwak Elzy i Bruni",
+   "rok": 2022,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "40521",
+   "nazwa": "Miniaturowa nawiedzona rezydencja Disneya",
+   "rok": 2022,
+   "elementy": 680,
+   "status": "eol"
+  },
+  {
+   "numer": "43198",
+   "nazwa": "Dziedziniec zamku Anny",
+   "rok": 2022,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "43199",
+   "nazwa": "Dziedziniec zamku Elzy",
+   "rok": 2022,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "43203",
+   "nazwa": "Zaklęte twory Aurory, Meridy i Tiany",
+   "rok": 2022,
+   "elementy": 558,
+   "status": "eol"
+  },
+  {
+   "numer": "43204",
+   "nazwa": "Zabawa w zamku z Anną i Olafem",
+   "rok": 2022,
+   "elementy": 108,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43205",
+   "nazwa": "Zamek wspaniałych przygód",
+   "rok": 2022,
+   "elementy": 698,
+   "status": "eol"
+  },
+  {
+   "numer": "43206",
+   "nazwa": "Zamek Kopciuszka i księcia z bajki",
+   "rok": 2022,
+   "elementy": 365,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43207",
+   "nazwa": "Podwodny pałac Arielki",
+   "rok": 2022,
+   "elementy": 498,
+   "status": "eol"
+  },
+  {
+   "numer": "43208",
+   "nazwa": "Przygoda Dżasminy i Mulan",
+   "rok": 2022,
+   "elementy": 176,
+   "status": "eol"
+  },
+  {
+   "numer": "43209",
+   "nazwa": "Elza i lodowa stajnia Nokka",
+   "rok": 2022,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "76830",
+   "nazwa": "Lightyear Pościg za Zyklopem",
+   "rok": 2022,
+   "elementy": 87,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76831",
+   "nazwa": "Lightyear Starcie z Zurgiem",
+   "rok": 2022,
+   "elementy": 261,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76832",
+   "nazwa": "Lightyear Statek kosmiczny XL-15",
+   "rok": 2022,
+   "elementy": 497,
+   "status": "eol"
+  },
+  {
+   "numer": "30646",
+   "nazwa": "Vaiana - zatoka delfina",
+   "rok": 2023,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "40600",
+   "nazwa": "Świętowanie stulecia Disneya",
+   "rok": 2023,
+   "elementy": 226,
+   "status": "eol"
+  },
+  {
+   "numer": "40613",
+   "nazwa": "Mały pałac Disneya w Agrabah",
+   "rok": 2023,
+   "elementy": 506,
+   "status": "eol"
+  },
+  {
+   "numer": "40659",
+   "nazwa": "Miniparowiec Willie",
+   "rok": 2023,
+   "elementy": 424,
+   "status": "eol"
+  },
+  {
+   "numer": "43210",
+   "nazwa": "Katamaran Vaiany",
+   "rok": 2023,
+   "elementy": 321,
+   "status": "eol"
+  },
+  {
+   "numer": "43211",
+   "nazwa": "Zamek Aurory",
+   "rok": 2023,
+   "elementy": 187,
+   "status": "eol"
+  },
+  {
+   "numer": "43212",
+   "nazwa": "Pociąg pełen zabawy",
+   "rok": 2023,
+   "elementy": 200,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43213",
+   "nazwa": "Historyjki Małej Syrenki",
+   "rok": 2023,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "43214",
+   "nazwa": "Wirująca Roszpunka",
+   "rok": 2023,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "43215",
+   "nazwa": "Zaczarowany domek na drzewie",
+   "rok": 2023,
+   "elementy": 1016,
+   "status": "eol"
+  },
+  {
+   "numer": "43216",
+   "nazwa": "Podróż zaczarowanej księżniczki",
+   "rok": 2023,
+   "elementy": 320,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43217",
+   "nazwa": "Dom z bajki „Odlot”",
+   "rok": 2023,
+   "elementy": 598,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43218",
+   "nazwa": "Magiczna karuzela Anny i Elzy",
+   "rok": 2023,
+   "elementy": 175,
+   "status": "eol"
+  },
+  {
+   "numer": "43219",
+   "nazwa": "Kreatywne zamki księżniczek Disneya",
+   "rok": 2023,
+   "elementy": 140,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43220",
+   "nazwa": "Książka z przygodami Piotrusia Pana i Wendy",
+   "rok": 2023,
+   "elementy": 111,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43221",
+   "nazwa": "100 lat kultowych animacji Disneya",
+   "rok": 2023,
+   "elementy": 1022,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43222",
+   "nazwa": "Zamek Disneya",
+   "rok": 2023,
+   "elementy": 4837,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43223",
+   "nazwa": "Asha w Rosas",
+   "rok": 2023,
+   "elementy": 154,
+   "status": "eol"
+  },
+  {
+   "numer": "43224",
+   "nazwa": "Zamek króla Magnifico",
+   "rok": 2023,
+   "elementy": 613,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43225",
+   "nazwa": "Królewska muszla Małej Syrenki",
+   "rok": 2023,
+   "elementy": 1808,
+   "status": "eol"
+  },
+  {
+   "numer": "43226",
+   "nazwa": "Duety Disneya",
+   "rok": 2023,
+   "elementy": 553,
+   "status": "eol"
+  },
+  {
+   "numer": "43227",
+   "nazwa": "Ikony złoczyńców",
+   "rok": 2023,
+   "elementy": 1540,
+   "status": "eol"
+  },
+  {
+   "numer": "43229",
+   "nazwa": "Skrzynia ze skarbami Arielki",
+   "rok": 2023,
+   "elementy": 370,
+   "status": "eol"
+  },
+  {
+   "numer": "43230",
+   "nazwa": "Classic Kamera Walta Disneya",
+   "rok": 2023,
+   "elementy": 811,
+   "status": "eol"
+  },
+  {
+   "numer": "43231",
+   "nazwa": "Chatka Ashy",
+   "rok": 2023,
+   "elementy": 509,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43232",
+   "nazwa": "Lot Piotrusia Pana i Wendy nad Londynem",
+   "rok": 2023,
+   "elementy": 466,
+   "status": "eol"
+  },
+  {
+   "numer": "30661",
+   "nazwa": "Budka powitalna Ashy",
+   "rok": 2024,
+   "elementy": 46,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30671",
+   "nazwa": "Leśny plac zabaw Aurory",
+   "rok": 2024,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "40708",
+   "nazwa": "Disney Mały zamek Arielki",
+   "rok": 2024,
+   "elementy": 557,
+   "status": "eol"
+  },
+  {
+   "numer": "40720",
+   "nazwa": "Mały zamek Śpiącej Królewny Disneya",
+   "rok": 2024,
+   "elementy": 528,
+   "status": "eol"
+  },
+  {
+   "numer": "43233",
+   "nazwa": "Bryczka z opowieści Belli",
+   "rok": 2024,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "43234",
+   "nazwa": "Mrożone smakołyki Elzy",
+   "rok": 2024,
+   "elementy": 82,
+   "status": "eol"
+  },
+  {
+   "numer": "43235",
+   "nazwa": "Scena muzyczna Arielki",
+   "rok": 2024,
+   "elementy": 60,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43236",
+   "nazwa": "{Jewellery box}",
+   "rok": 2024,
+   "elementy": 329,
+   "status": "eol"
+  },
+  {
+   "numer": "43237",
+   "nazwa": "Doniczka Isabeli",
+   "rok": 2024,
+   "elementy": 641,
+   "status": "eol"
+  },
+  {
+   "numer": "43238",
+   "nazwa": "Lodowy zamek Elzy",
+   "rok": 2024,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "43239",
+   "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
+   "rok": 2024,
+   "elementy": 334,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43240",
+   "nazwa": "Diabolina jako smok",
+   "rok": 2024,
+   "elementy": 583,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43241",
+   "nazwa": "Wieża Roszpunki i Dziarskie Kaczątko",
+   "rok": 2024,
+   "elementy": 623,
+   "status": "eol"
+  },
+  {
+   "numer": "43242",
+   "nazwa": "Chatka Królewny Śnieżki i siedmiu krasnoludków",
+   "rok": 2024,
+   "elementy": 2208,
+   "status": "eol"
+  },
+  {
+   "numer": "43243",
+   "nazwa": "Król Lew - lwiątko Simba",
+   "rok": 2024,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "43244",
+   "nazwa": "Lodowy pałac Elzy",
+   "rok": 2024,
+   "elementy": 630,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43245",
+   "nazwa": "Magiczny dom Madrigalów",
+   "rok": 2024,
+   "elementy": 1560,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43246",
+   "nazwa": "Przygoda księżniczki Disneya",
+   "rok": 2024,
+   "elementy": 817,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43247",
+   "nazwa": "Król Lew - młody Simba",
+   "rok": 2024,
+   "elementy": 1445,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43248",
+   "nazwa": "W głowie się nie mieści 2 - kostki z emocjami",
+   "rok": 2024,
+   "elementy": 394,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43249",
+   "nazwa": "Stitch",
+   "rok": 2024,
+   "elementy": 730,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43251",
+   "nazwa": "Rezerwat zwierząt Antonia",
+   "rok": 2024,
+   "elementy": 310,
+   "status": "eol"
+  },
+  {
+   "numer": "43252",
+   "nazwa": "Doniczka Vaiany",
+   "rok": 2024,
+   "elementy": 619,
+   "status": "eol"
+  },
+  {
+   "numer": "43253",
+   "nazwa": "Kalendarz adwentowy 2024",
+   "rok": 2024,
+   "elementy": 253,
+   "status": "eol"
+  },
+  {
+   "numer": "43254",
+   "nazwa": "Kryształowa grota Arielki",
+   "rok": 2024,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "43276",
+   "nazwa": "Szkatułka na biżuterię z Królewną Śnieżką",
+   "rok": 2024,
+   "elementy": 358,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30695",
+   "nazwa": "Miniaturowy zamek Kopciuszka z ogrodem",
+   "rok": 2025,
+   "elementy": 52,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40774",
+   "nazwa": "Sceny z klasycznych animacji",
+   "rok": 2025,
+   "elementy": 270,
+   "status": "eol"
+  },
+  {
+   "numer": "43256",
+   "nazwa": "Przygoda na sankach Anny",
+   "rok": 2025,
+   "elementy": 192,
+   "status": "eol"
+  },
+  {
+   "numer": "43257",
+   "nazwa": "Classic Andzia",
+   "rok": 2025,
+   "elementy": 784,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43258",
+   "nazwa": "Barka Kakamorów",
+   "rok": 2025,
+   "elementy": 572,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43259",
+   "nazwa": "Wirująca Arielka",
+   "rok": 2025,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "43260",
+   "nazwa": "Zabawy Vaiany na wyspie",
+   "rok": 2025,
+   "elementy": 175,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43261",
+   "nazwa": "Nasze magiczne Encanto - Minidom",
+   "rok": 2025,
+   "elementy": 186,
+   "status": "eol"
+  },
+  {
+   "numer": "43262",
+   "nazwa": "Classic Suknie Diaboliny i Cruelli De Mon",
+   "rok": 2025,
+   "elementy": 524,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43263",
+   "nazwa": "Zamek z Pięknej i Bestii",
+   "rok": 2025,
+   "elementy": 2916,
+   "status": "eol"
+  },
+  {
+   "numer": "43264",
+   "nazwa": "Toy Story - Okolicznościowy pociąg i Pan Sterowany",
+   "rok": 2025,
+   "elementy": 206,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43265",
+   "nazwa": "Kraina lodu - Zamek w Arendelle",
+   "rok": 2025,
+   "elementy": 177,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43266",
+   "nazwa": "Suknia Kopciuszka",
+   "rok": 2025,
+   "elementy": 474,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43267",
+   "nazwa": "Zamek księżniczek i królewskie zwierzaki",
+   "rok": 2025,
+   "elementy": 787,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43268",
+   "nazwa": "Domek na plaży Lilo i Stitcha",
+   "rok": 2025,
+   "elementy": 834,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43269",
+   "nazwa": "101 dalmatyńczyków - Szczeniaczek",
+   "rok": 2025,
+   "elementy": 1722,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43270",
+   "nazwa": "Kajakowa przygoda Vaiany",
+   "rok": 2025,
+   "elementy": 529,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43271",
+   "nazwa": "Classic 101 dalmatyńczyków - Szczeniaczki Szczęściarz i Penny",
+   "rok": 2025,
+   "elementy": 268,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43272",
+   "nazwa": "Heiheia",
+   "rok": 2025,
+   "elementy": 566,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43273",
+   "nazwa": "Kalendarz adwentowy 2025",
+   "rok": 2025,
+   "elementy": 231,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43274",
+   "nazwa": "Hotel dla zwierząt Minnie",
+   "rok": 2025,
+   "elementy": 161,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43275",
+   "nazwa": "Zamek kopciuszka i kareta",
+   "rok": 2025,
+   "elementy": 596,
+   "status": "eol"
+  },
+  {
+   "numer": "43277",
+   "nazwa": "Samochód Cruelli De Mon",
+   "rok": 2025,
+   "elementy": 378,
+   "status": "eol"
+  },
+  {
+   "numer": "43278",
+   "nazwa": "Miniaturowy zamek w Arendelle i lodowy pałac Elzy",
+   "rok": 2025,
+   "elementy": 306,
+   "status": "eol"
+  },
+  {
+   "numer": "43279",
+   "nazwa": "Pixar Wall-E i Ewa",
+   "rok": 2025,
+   "elementy": 811,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30720",
+   "nazwa": "Urodzinowa potańcówka Arielki i Florka",
+   "rok": 2026,
+   "elementy": 39,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40857",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "43280",
+   "nazwa": "Zabawa na plaży z Lilo i Stitchem",
+   "rok": 2026,
+   "elementy": 113,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43281",
+   "nazwa": "Lodowy zamek Elzy i Śnieżna przejażdżka",
+   "rok": 2026,
+   "elementy": 216,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43282",
+   "nazwa": "Wiejska chatka i łódź",
+   "rok": 2026,
+   "elementy": 85,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43283",
+   "nazwa": "Zamek Kopciuszka i jej zwierzęcych przyjaciół",
+   "rok": 2026,
+   "elementy": 149,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43284",
+   "nazwa": "Mała Anna i Elza",
+   "rok": 2026,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43285",
+   "nazwa": "Magiczny minipałac Arielki",
+   "rok": 2026,
+   "elementy": 179,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43286",
+   "nazwa": "Classic Aryskotraci - Urocza Marie",
+   "rok": 2026,
+   "elementy": 369,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43287",
+   "nazwa": "Piknik Olafa i Bruniego",
+   "rok": 2026,
+   "elementy": 478,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43288",
+   "nazwa": "Doniczka Sally",
+   "rok": 2026,
+   "elementy": 346,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43289",
+   "nazwa": "Zaczarowany zamek Pięknej i Bestii",
+   "rok": 2026,
+   "elementy": 254,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43290",
+   "nazwa": "Pixar Stefan i As",
+   "rok": 2026,
+   "elementy": 628,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43291",
+   "nazwa": "Mała Bella i Tiana z zamkiem",
+   "rok": 2026,
+   "elementy": 358,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43292",
+   "nazwa": "Pua",
+   "rok": 2026,
+   "elementy": 885,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43293",
+   "nazwa": "Kakamora",
+   "rok": 2026,
+   "elementy": 407,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43294",
+   "nazwa": "Mała wieża Roszpunki",
+   "rok": 2026,
+   "elementy": 171,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43295",
+   "nazwa": "Szkatułka na biżuterię Dżasminy",
+   "rok": 2026,
+   "elementy": 458,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43296",
+   "nazwa": "Stitch i Strupka",
+   "rok": 2026,
+   "elementy": 713,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43297",
+   "nazwa": "Zamek Roszpunki",
+   "rok": 2026,
+   "elementy": 676,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43298",
+   "nazwa": "Kalendarz adwentowy na 2026 rok",
+   "rok": 2026,
+   "elementy": 290,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43299",
+   "nazwa": "Królewska łódź weselna Arielki",
+   "rok": 2026,
+   "elementy": 519,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43300",
+   "nazwa": "Kubuś Puchatek",
+   "rok": 2026,
+   "elementy": 1399,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43301",
+   "nazwa": "Toy Story Cienki — podpórki pod książki",
+   "rok": 2026,
+   "elementy": 1311,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43302",
+   "nazwa": "Main Street, U.S.A.",
+   "rok": 2026,
+   "elementy": 3899,
+   "status": "eol"
+  },
+  {
+   "numer": "43303",
+   "nazwa": "Mała Dżasmina i Roszpunka",
+   "rok": 2026,
+   "elementy": 59,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43304",
+   "nazwa": "Pixar Konne ranczo Blaze'a",
+   "rok": 2026,
+   "elementy": 209,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43305",
+   "nazwa": "Przyjęcie urodzinowe Prosiaczka",
+   "rok": 2026,
+   "elementy": 544,
+   "status": "eol"
+  },
+  {
+   "numer": "43306",
+   "nazwa": "Miś Tuliś",
+   "rok": 2026,
+   "elementy": 570,
+   "status": "dostepny"
+  },
+  {
+   "numer": "43307",
+   "nazwa": "Kosmita z bujaną rakietą Pizza Planet",
+   "rok": 2026,
+   "elementy": 714,
+   "status": "dostepny"
+  },
+  {
+   "numer": "6614223",
+   "nazwa": "Little HeiHei",
+   "rok": 2026,
+   "elementy": 32,
+   "status": "eol"
   }
  ]
 }
