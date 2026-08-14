@@ -9,7 +9,8 @@
    "promoklocki.pl (polskie nazwy setow wycofanych)",
    "brickset.com (theme Star Wars)",
    "brickset.com (theme BrickHeadz, theme Speed Champions)",
-   "brickset.com (theme Technic)"
+   "brickset.com (theme Technic)",
+   "brickset.com (theme City)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -12572,6 +12573,2388 @@
    "nazwa": "Dump Truck",
    "rok": 2026,
    "elementy": 76,
+   "status": "eol"
+  }
+ ],
+ "City": [
+  {
+   "numer": "30566",
+   "nazwa": "Fire Helicopter",
+   "rok": 2021,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30567",
+   "nazwa": "Policyjny skuter wodny",
+   "rok": 2021,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30568",
+   "nazwa": "Skater",
+   "rok": 2021,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30569",
+   "nazwa": "Stoisko",
+   "rok": 2021,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "30570",
+   "nazwa": "Poduszkowiec ratowników dzikich zwierząt",
+   "rok": 2021,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "60275",
+   "nazwa": "Helikopter policyjny",
+   "rok": 2021,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "60276",
+   "nazwa": "Policyjny konwój więzienny",
+   "rok": 2021,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "60277",
+   "nazwa": "Policyjna łódź patrolowa",
+   "rok": 2021,
+   "elementy": 276,
+   "status": "eol"
+  },
+  {
+   "numer": "60278",
+   "nazwa": "Crook's Hideout Raid",
+   "rok": 2021,
+   "elementy": 654,
+   "status": "eol"
+  },
+  {
+   "numer": "60279",
+   "nazwa": "Mały wóz strażacki",
+   "rok": 2021,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "60280",
+   "nazwa": "Wóz strażacki z drabiną",
+   "rok": 2021,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "60281",
+   "nazwa": "Strażacki helikopter ratunkowy",
+   "rok": 2021,
+   "elementy": 212,
+   "status": "eol"
+  },
+  {
+   "numer": "60282",
+   "nazwa": "Strażacka jednostka dowodzenia",
+   "rok": 2021,
+   "elementy": 380,
+   "status": "eol"
+  },
+  {
+   "numer": "60283",
+   "nazwa": "Wakacyjny kamper",
+   "rok": 2021,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "60284",
+   "nazwa": "Pojazd do robót drogowych",
+   "rok": 2021,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "60285",
+   "nazwa": "Samochód sportowy",
+   "rok": 2021,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "60286",
+   "nazwa": "Plażowy quad ratunkowy",
+   "rok": 2021,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "60287",
+   "nazwa": "Traktor",
+   "rok": 2021,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "60288",
+   "nazwa": "Transporter łazika wyścigowego",
+   "rok": 2021,
+   "elementy": 210,
+   "status": "eol"
+  },
+  {
+   "numer": "60289",
+   "nazwa": "Transporter odrzutowca pokazowego",
+   "rok": 2021,
+   "elementy": 281,
+   "status": "eol"
+  },
+  {
+   "numer": "60290",
+   "nazwa": "Skatepark",
+   "rok": 2021,
+   "elementy": 195,
+   "status": "eol"
+  },
+  {
+   "numer": "60291",
+   "nazwa": "Dom rodzinny",
+   "rok": 2021,
+   "elementy": 388,
+   "status": "eol"
+  },
+  {
+   "numer": "60292",
+   "nazwa": "Centrum miasta",
+   "rok": 2021,
+   "elementy": 790,
+   "status": "eol"
+  },
+  {
+   "numer": "60293",
+   "nazwa": "Park kaskaderski",
+   "rok": 2021,
+   "elementy": 170,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60294",
+   "nazwa": "Ciężarówka kaskaderska",
+   "rok": 2021,
+   "elementy": 420,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60295",
+   "nazwa": "Arena pokazów kaskaderskich",
+   "rok": 2021,
+   "elementy": 668,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60296",
+   "nazwa": "Wheelie na motocyklu kaskaderskim",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "60297",
+   "nazwa": "Demolka na motocyklu kaskaderskim",
+   "rok": 2021,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "60298",
+   "nazwa": "Rakietowy motocykl kaskaderski",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "60299",
+   "nazwa": "Konkurs kaskaderski",
+   "rok": 2021,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "60300",
+   "nazwa": "Quad ratowników dzikich zwierząt",
+   "rok": 2021,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "60301",
+   "nazwa": "Terenówka ratowników dzikich zwierząt",
+   "rok": 2021,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "60302",
+   "nazwa": "Na ratunek dzikim zwierzętom",
+   "rok": 2021,
+   "elementy": 525,
+   "status": "eol"
+  },
+  {
+   "numer": "60303",
+   "nazwa": "Kalendarz adwentowy 2021",
+   "rok": 2021,
+   "elementy": 349,
+   "status": "eol"
+  },
+  {
+   "numer": "60304",
+   "nazwa": "Płyty drogowe",
+   "rok": 2021,
+   "elementy": 112,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60305",
+   "nazwa": "Laweta",
+   "rok": 2021,
+   "elementy": 342,
+   "status": "eol"
+  },
+  {
+   "numer": "60306",
+   "nazwa": "Ulica handlowa",
+   "rok": 2021,
+   "elementy": 533,
+   "status": "eol"
+  },
+  {
+   "numer": "60307",
+   "nazwa": "Obóz ratowników dzikich zwierząt",
+   "rok": 2021,
+   "elementy": 503,
+   "status": "eol"
+  },
+  {
+   "numer": "60308",
+   "nazwa": "Akcja nadmorskiej policji i strażaków",
+   "rok": 2021,
+   "elementy": 297,
+   "status": "eol"
+  },
+  {
+   "numer": "60309",
+   "nazwa": "Selfie na motocyklu kaskaderskim",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "60310",
+   "nazwa": "Motocykl kaskaderski z kurczakiem",
+   "rok": 2021,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "60311",
+   "nazwa": "Ognisty motocykl kaskaderski",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "66662",
+   "nazwa": "Super Pack 2-in-1",
+   "rok": 2021,
+   "elementy": 137,
+   "status": "eol"
+  },
+  {
+   "numer": "66682",
+   "nazwa": "3-in-1 Bundle Pack",
+   "rok": 2021,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "66684",
+   "nazwa": "Vehicles Gift Set",
+   "rok": 2021,
+   "elementy": 279,
+   "status": "eol"
+  },
+  {
+   "numer": "77943",
+   "nazwa": "Fire Station Starter Set",
+   "rok": 2021,
+   "elementy": 239,
+   "status": "eol"
+  },
+  {
+   "numer": "77944",
+   "nazwa": "Fire Station Headquarters",
+   "rok": 2021,
+   "elementy": 908,
+   "status": "eol"
+  },
+  {
+   "numer": "952101",
+   "nazwa": "Police Helicopter",
+   "rok": 2021,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "952102",
+   "nazwa": "Digger",
+   "rok": 2021,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952103",
+   "nazwa": "Policeman and Motorcycle",
+   "rok": 2021,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "952104",
+   "nazwa": "Fireman Bob",
+   "rok": 2021,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "952105",
+   "nazwa": "Doctor and Patient",
+   "rok": 2021,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952106",
+   "nazwa": "Sweeper",
+   "rok": 2021,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "952107",
+   "nazwa": "Diver and Crab",
+   "rok": 2021,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "952108",
+   "nazwa": "Stunt man",
+   "rok": 2021,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "952109",
+   "nazwa": "Policeman and dog",
+   "rok": 2021,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "952110",
+   "nazwa": "Explorer",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "952111",
+   "nazwa": "Construction worker",
+   "rok": 2021,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "952112",
+   "nazwa": "Jessica Sharpe and Lion Cub",
+   "rok": 2021,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "30585",
+   "nazwa": "Fire Patrol Vehicle",
+   "rok": 2022,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "30587",
+   "nazwa": "Police Robot Unit",
+   "rok": 2022,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "30588",
+   "nazwa": "Plac Zabaw",
+   "rok": 2022,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "30589",
+   "nazwa": "Wyścigowy gokart",
+   "rok": 2022,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "30590",
+   "nazwa": "Farm Garden & Scarecrow",
+   "rok": 2022,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "40526",
+   "nazwa": "Electric Scooters & Charging Dock",
+   "rok": 2022,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "40578",
+   "nazwa": "Sandwich Shop",
+   "rok": 2022,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "60312",
+   "nazwa": "Radiowóz",
+   "rok": 2022,
+   "elementy": 94,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60313",
+   "nazwa": "Ciężarówka z kosmiczną karuzelą",
+   "rok": 2022,
+   "elementy": 433,
+   "status": "eol"
+  },
+  {
+   "numer": "60314",
+   "nazwa": "Policyjny pościg za furgonetką z lodami",
+   "rok": 2022,
+   "elementy": 317,
+   "status": "eol"
+  },
+  {
+   "numer": "60315",
+   "nazwa": "Mobilne centrum dowodzenia policji",
+   "rok": 2022,
+   "elementy": 436,
+   "status": "eol"
+  },
+  {
+   "numer": "60316",
+   "nazwa": "Posterunek policji",
+   "rok": 2022,
+   "elementy": 668,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60317",
+   "nazwa": "Napad na bank",
+   "rok": 2022,
+   "elementy": 915,
+   "status": "eol"
+  },
+  {
+   "numer": "60318",
+   "nazwa": "Helikopter strażacki",
+   "rok": 2022,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "60319",
+   "nazwa": "Akcja strażacka i policyjny pościg",
+   "rok": 2022,
+   "elementy": 295,
+   "status": "eol"
+  },
+  {
+   "numer": "60320",
+   "nazwa": "Remiza strażacka",
+   "rok": 2022,
+   "elementy": 540,
+   "status": "eol"
+  },
+  {
+   "numer": "60321",
+   "nazwa": "Straż pożarna",
+   "rok": 2022,
+   "elementy": 766,
+   "status": "eol"
+  },
+  {
+   "numer": "60322",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2022,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "60323",
+   "nazwa": "Samolot kaskaderski",
+   "rok": 2022,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "60324",
+   "nazwa": "Żuraw samochodowy",
+   "rok": 2022,
+   "elementy": 340,
+   "status": "eol"
+  },
+  {
+   "numer": "60325",
+   "nazwa": "Ciężarówka z betoniarką",
+   "rok": 2022,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "60326",
+   "nazwa": "Piknik w parku",
+   "rok": 2022,
+   "elementy": 147,
+   "status": "eol"
+  },
+  {
+   "numer": "60327",
+   "nazwa": "Przyczepa do przewozu koni",
+   "rok": 2022,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "60328",
+   "nazwa": "Stanowisko ratownicze na plaży",
+   "rok": 2022,
+   "elementy": 211,
+   "status": "eol"
+  },
+  {
+   "numer": "60329",
+   "nazwa": "Dzień w szkole",
+   "rok": 2022,
+   "elementy": 433,
+   "status": "eol"
+  },
+  {
+   "numer": "60330",
+   "nazwa": "Szpital",
+   "rok": 2022,
+   "elementy": 816,
+   "status": "eol"
+  },
+  {
+   "numer": "60331",
+   "nazwa": "Turystyczny motocykl kaskaderski",
+   "rok": 2022,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "60332",
+   "nazwa": "Motocykl kaskaderski brawurowego skorpiona",
+   "rok": 2022,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "60333",
+   "nazwa": "Kaskaderski motocykl-wanna",
+   "rok": 2022,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "60335",
+   "nazwa": "Dworzec kolejowy",
+   "rok": 2022,
+   "elementy": 907,
+   "status": "eol"
+  },
+  {
+   "numer": "60336",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2022,
+   "elementy": 1153,
+   "status": "eol"
+  },
+  {
+   "numer": "60337",
+   "nazwa": "Ekspresowy pociąg pasażerski",
+   "rok": 2022,
+   "elementy": 764,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60338",
+   "nazwa": "Kaskaderska pętla i szympans demolka",
+   "rok": 2022,
+   "elementy": 226,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60339",
+   "nazwa": "Kaskaderska arena z dwoma pętlami",
+   "rok": 2022,
+   "elementy": 598,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60340",
+   "nazwa": "Wyzwanie kaskaderskie: ostrze",
+   "rok": 2022,
+   "elementy": 154,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60341",
+   "nazwa": "Wyzwanie kaskaderskie: przewracanie",
+   "rok": 2022,
+   "elementy": 117,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60342",
+   "nazwa": "Wyzwanie kaskaderskie: atak rekina",
+   "rok": 2022,
+   "elementy": 122,
+   "status": "eol"
+  },
+  {
+   "numer": "60343",
+   "nazwa": "Laweta helikoptera ratunkowego",
+   "rok": 2022,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "60344",
+   "nazwa": "Kurnik z kurczakami",
+   "rok": 2022,
+   "elementy": 101,
+   "status": "eol"
+  },
+  {
+   "numer": "60345",
+   "nazwa": "Furgonetka na targu",
+   "rok": 2022,
+   "elementy": 310,
+   "status": "eol"
+  },
+  {
+   "numer": "60346",
+   "nazwa": "Stodoła i zwierzęta gospodarskie",
+   "rok": 2022,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "60347",
+   "nazwa": "Sklep spożywczy",
+   "rok": 2022,
+   "elementy": 404,
+   "status": "eol"
+  },
+  {
+   "numer": "60348",
+   "nazwa": "Łazik księżycowy",
+   "rok": 2022,
+   "elementy": 275,
+   "status": "eol"
+  },
+  {
+   "numer": "60349",
+   "nazwa": "Stacja kosmiczna na Księżycu",
+   "rok": 2022,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "60350",
+   "nazwa": "Stacja badawcza na Księżycu",
+   "rok": 2022,
+   "elementy": 786,
+   "status": "eol"
+  },
+  {
+   "numer": "60351",
+   "nazwa": "Start rakiety z kosmodromu",
+   "rok": 2022,
+   "elementy": 1010,
+   "status": "eol"
+  },
+  {
+   "numer": "60352",
+   "nazwa": "Kalendarz adwentowy 2022",
+   "rok": 2022,
+   "elementy": 287,
+   "status": "eol"
+  },
+  {
+   "numer": "60353",
+   "nazwa": "Misje ratowania dzikich zwierząt",
+   "rok": 2022,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "60354",
+   "nazwa": "Wyprawy badawcze statkiem marsjańskim",
+   "rok": 2022,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "60355",
+   "nazwa": "Śledztwa wodnej policji",
+   "rok": 2022,
+   "elementy": 278,
+   "status": "dostepny"
+  },
+  {
+   "numer": "66707",
+   "nazwa": "LEGO City Stuntz Gift Set",
+   "rok": 2022,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "952201",
+   "nazwa": "Justin Justice's Police Car",
+   "rok": 2022,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "952202",
+   "nazwa": "Pete Precise's Drill",
+   "rok": 2022,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "952203",
+   "nazwa": "Sam Speedster's Motorcycle",
+   "rok": 2022,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "952204",
+   "nazwa": "Phil Corey's Dump Truck",
+   "rok": 2022,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "952205",
+   "nazwa": "Sally Stardust's Satellite",
+   "rok": 2022,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "952206",
+   "nazwa": "Freddy Fresh's Fire Quad",
+   "rok": 2022,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "952207",
+   "nazwa": "Water Police Water Scooter",
+   "rok": 2022,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "952208",
+   "nazwa": "Carl Confidential's Diving Scooter",
+   "rok": 2022,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "952209",
+   "nazwa": "Allie Aires' Firefighter Jet",
+   "rok": 2022,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "952210",
+   "nazwa": "Robbie Rolla's Steamroller",
+   "rok": 2022,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "952211",
+   "nazwa": "Policewoman and crook",
+   "rok": 2022,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "952212",
+   "nazwa": "Fork Lift Truck",
+   "rok": 2022,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "952301",
+   "nazwa": "Fire Helicopter",
+   "rok": 2022,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "30638",
+   "nazwa": "Rower policyjny - szkolenie",
+   "rok": 2023,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "30639",
+   "nazwa": "Dog Park and Scooter",
+   "rok": 2023,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "30640",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2023,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "40582",
+   "nazwa": "4x4 Off-Road Ambulance Rescue",
+   "rok": 2023,
+   "elementy": 162,
+   "status": "eol"
+  },
+  {
+   "numer": "60356",
+   "nazwa": "Motocykl kaskaderski z niedźwiedziem",
+   "rok": 2023,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "60357",
+   "nazwa": "Wyzwanie kaskaderskie - ciężarówka i ogniste obręcze",
+   "rok": 2023,
+   "elementy": 479,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60358",
+   "nazwa": "Cybermotocykl kaskaderski",
+   "rok": 2023,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "60359",
+   "nazwa": "Wyzwanie kaskaderskie – rampa z kołem do przeskakiwania",
+   "rok": 2023,
+   "elementy": 144,
+   "status": "eol"
+  },
+  {
+   "numer": "60360",
+   "nazwa": "Wyzwanie kaskaderskie – obracające się okręgi",
+   "rok": 2023,
+   "elementy": 117,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60361",
+   "nazwa": "Ekstremalne wyzwanie kaskaderskie",
+   "rok": 2023,
+   "elementy": 385,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60362",
+   "nazwa": "Myjnia samochodowa",
+   "rok": 2023,
+   "elementy": 243,
+   "status": "eol"
+  },
+  {
+   "numer": "60363",
+   "nazwa": "Lordziarnia",
+   "rok": 2023,
+   "elementy": 296,
+   "status": "eol"
+  },
+  {
+   "numer": "60364",
+   "nazwa": "Uliczny skatepark",
+   "rok": 2023,
+   "elementy": 454,
+   "status": "eol"
+  },
+  {
+   "numer": "60365",
+   "nazwa": "Apartamentowiec",
+   "rok": 2023,
+   "elementy": 688,
+   "status": "eol"
+  },
+  {
+   "numer": "60366",
+   "nazwa": "Centrum narciarskie i wspinaczkowe",
+   "rok": 2023,
+   "elementy": 1045,
+   "status": "eol"
+  },
+  {
+   "numer": "60367",
+   "nazwa": "Samolot pasażerski",
+   "rok": 2023,
+   "elementy": 913,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60368",
+   "nazwa": "Łódź badacza Arktyki",
+   "rok": 2023,
+   "elementy": 815,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60369",
+   "nazwa": "Szkolenie psów policyjnych w terenie",
+   "rok": 2023,
+   "elementy": 197,
+   "status": "eol"
+  },
+  {
+   "numer": "60370",
+   "nazwa": "Posterunek policji – pościg",
+   "rok": 2023,
+   "elementy": 172,
+   "status": "eol"
+  },
+  {
+   "numer": "60371",
+   "nazwa": "Parking dla pojazdów uprzywilejowanych",
+   "rok": 2023,
+   "elementy": 706,
+   "status": "eol"
+  },
+  {
+   "numer": "60372",
+   "nazwa": "Akademia policyjna",
+   "rok": 2023,
+   "elementy": 823,
+   "status": "eol"
+  },
+  {
+   "numer": "60373",
+   "nazwa": "Łódź strażacka",
+   "rok": 2023,
+   "elementy": 144,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60374",
+   "nazwa": "Terenowy pojazd straży pożarnej",
+   "rok": 2023,
+   "elementy": 502,
+   "status": "eol"
+  },
+  {
+   "numer": "60375",
+   "nazwa": "Remiza strażacka i wóz strażacki",
+   "rok": 2023,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "60376",
+   "nazwa": "Skuter śnieżny badacza Arktyki",
+   "rok": 2023,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "60377",
+   "nazwa": "Łódź do nurkowania badacza",
+   "rok": 2023,
+   "elementy": 182,
+   "status": "eol"
+  },
+  {
+   "numer": "60378",
+   "nazwa": "Ciężarówka i laboratorium badawcze",
+   "rok": 2023,
+   "elementy": 489,
+   "status": "eol"
+  },
+  {
+   "numer": "60379",
+   "nazwa": "Łódź podwodna badacza dna morskiego",
+   "rok": 2023,
+   "elementy": 842,
+   "status": "eol"
+  },
+  {
+   "numer": "60380",
+   "nazwa": "Śródmieście",
+   "rok": 2023,
+   "elementy": 2010,
+   "status": "eol"
+  },
+  {
+   "numer": "60381",
+   "nazwa": "Kalendarz adwentowy 2023",
+   "rok": 2023,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "60382",
+   "nazwa": "Karetka weterynaryjna",
+   "rok": 2023,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "60383",
+   "nazwa": "Elektryczny samochód sportowy",
+   "rok": 2023,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "60384",
+   "nazwa": "Pingwinia furgonetka ze slushem",
+   "rok": 2023,
+   "elementy": 194,
+   "status": "eol"
+  },
+  {
+   "numer": "60385",
+   "nazwa": "Koparka",
+   "rok": 2023,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "60386",
+   "nazwa": "Ciężarówka recyklingowa",
+   "rok": 2023,
+   "elementy": 261,
+   "status": "eol"
+  },
+  {
+   "numer": "60387",
+   "nazwa": "Przygody samochodem terenowym z napędem 4x4",
+   "rok": 2023,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "60388",
+   "nazwa": "Ciężarówka na turniej gier",
+   "rok": 2023,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "60389",
+   "nazwa": "Warsztat tuningowania samochodów",
+   "rok": 2023,
+   "elementy": 507,
+   "status": "eol"
+  },
+  {
+   "numer": "60390",
+   "nazwa": "Traktor w parku",
+   "rok": 2023,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "60391",
+   "nazwa": "Ciężarówki i dźwig z kulą wyburzeniową",
+   "rok": 2023,
+   "elementy": 235,
+   "status": "eol"
+  },
+  {
+   "numer": "60392",
+   "nazwa": "Motocykl policyjny – pościg za samochodem",
+   "rok": 2023,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "60393",
+   "nazwa": "Wóz strażacki 4x4 – misja ratunkowa",
+   "rok": 2023,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "60394",
+   "nazwa": "Quad i siedlisko wydry",
+   "rok": 2023,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "60395",
+   "nazwa": "Wielki zestaw wyścigowy",
+   "rok": 2023,
+   "elementy": 362,
+   "status": "eol"
+  },
+  {
+   "numer": "60396",
+   "nazwa": "Podrasowane samochody wyścigowe",
+   "rok": 2023,
+   "elementy": 359,
+   "status": "eol"
+  },
+  {
+   "numer": "60397",
+   "nazwa": "Zestaw karteczek (224 szt.)",
+   "rok": 2023,
+   "elementy": 301,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60398",
+   "nazwa": "Domek rodzinny i samochód elektryczny",
+   "rok": 2023,
+   "elementy": 462,
+   "status": "eol"
+  },
+  {
+   "numer": "66744",
+   "nazwa": "CITY 2 in 1 Bundle Pack",
+   "rok": 2023,
+   "elementy": 356,
+   "status": "eol"
+  },
+  {
+   "numer": "66768",
+   "nazwa": "2 in 1 Bundle Pack",
+   "rok": 2023,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "66772",
+   "nazwa": "Big Wheel Gift Set",
+   "rok": 2023,
+   "elementy": 330,
+   "status": "eol"
+  },
+  {
+   "numer": "952302",
+   "nazwa": "Police Buggy",
+   "rok": 2023,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "952303",
+   "nazwa": "Worker with Lawnmower",
+   "rok": 2023,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "952304",
+   "nazwa": "Policeman and Crook with ATM",
+   "rok": 2023,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "952305",
+   "nazwa": "Building Team with Tools",
+   "rok": 2023,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "952306",
+   "nazwa": "Airport Worker with Service Car",
+   "rok": 2023,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "952307",
+   "nazwa": "Policeman with Jet",
+   "rok": 2023,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952308",
+   "nazwa": "Stuntman with Quad Bike",
+   "rok": 2023,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "952309",
+   "nazwa": "Explorer with Water Scooter",
+   "rok": 2023,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "952310",
+   "nazwa": "Builder with Digger",
+   "rok": 2023,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952311",
+   "nazwa": "Diver with Underwater Scooter",
+   "rok": 2023,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "952312",
+   "nazwa": "Snowmobile",
+   "rok": 2023,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952401",
+   "nazwa": "Builder with Crane",
+   "rok": 2023,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "11987",
+   "nazwa": "World Builder parts",
+   "rok": 2024,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "30663",
+   "nazwa": "Space Hoverbike",
+   "rok": 2024,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "30664",
+   "nazwa": "Police Off-Road Buggy Car",
+   "rok": 2024,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30665",
+   "nazwa": "Spotkanie z małym gorylem",
+   "rok": 2024,
+   "elementy": 34,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60399",
+   "nazwa": "Zielony samochód wyścigowy",
+   "rok": 2024,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "60400",
+   "nazwa": "Gokarty i kierowcy wyścigowi",
+   "rok": 2024,
+   "elementy": 99,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60401",
+   "nazwa": "Walec budowlany",
+   "rok": 2024,
+   "elementy": 78,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60402",
+   "nazwa": "Niebieski monster truck",
+   "rok": 2024,
+   "elementy": 148,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60403",
+   "nazwa": "Karetka i snowboardzista",
+   "rok": 2024,
+   "elementy": 79,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60404",
+   "nazwa": "Ciężarówka z burgerami",
+   "rok": 2024,
+   "elementy": 194,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60405",
+   "nazwa": "Helikopter ratunkowy",
+   "rok": 2024,
+   "elementy": 226,
+   "status": "eol"
+  },
+  {
+   "numer": "60406",
+   "nazwa": "Samochód wyścigowy i laweta",
+   "rok": 2024,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "60407",
+   "nazwa": "Czerwony, piętrowy autokar",
+   "rok": 2024,
+   "elementy": 384,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60408",
+   "nazwa": "Laweta z samochodami sportowymi",
+   "rok": 2024,
+   "elementy": 998,
+   "status": "eol"
+  },
+  {
+   "numer": "60409",
+   "nazwa": "Żółty ruchomy żuraw",
+   "rok": 2024,
+   "elementy": 1116,
+   "status": "eol"
+  },
+  {
+   "numer": "60410",
+   "nazwa": "Strażacki motocykl ratunkowy",
+   "rok": 2024,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "60411",
+   "nazwa": "Strażacki helikopter ratunkowy",
+   "rok": 2024,
+   "elementy": 85,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60412",
+   "nazwa": "Terenowy wóz strażacki z łodzią",
+   "rok": 2024,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "60413",
+   "nazwa": "Strażacki samolot ratunkowy",
+   "rok": 2024,
+   "elementy": 478,
+   "status": "eol"
+  },
+  {
+   "numer": "60414",
+   "nazwa": "Remiza strażacka z wozem strażackim",
+   "rok": 2024,
+   "elementy": 843,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60415",
+   "nazwa": "Pościg radiowozu za muscle carem",
+   "rok": 2024,
+   "elementy": 213,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60417",
+   "nazwa": "Policyjna motorówka i kryjówka złodziejaszków",
+   "rok": 2024,
+   "elementy": 311,
+   "status": "eol"
+  },
+  {
+   "numer": "60418",
+   "nazwa": "Policyjna ciężarówka z laboratorium",
+   "rok": 2024,
+   "elementy": 674,
+   "status": "eol"
+  },
+  {
+   "numer": "60419",
+   "nazwa": "Policja z Więziennej Wyspy",
+   "rok": 2024,
+   "elementy": 980,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60420",
+   "nazwa": "Żółta koparka",
+   "rok": 2024,
+   "elementy": 633,
+   "status": "eol"
+  },
+  {
+   "numer": "60421",
+   "nazwa": "Park Świat Robotów z rollercoasterem",
+   "rok": 2024,
+   "elementy": 986,
+   "status": "eol"
+  },
+  {
+   "numer": "60422",
+   "nazwa": "Nadmorski port ze statkiem towarowym",
+   "rok": 2024,
+   "elementy": 1226,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60423",
+   "nazwa": "Tramwaj miejski ze stacją",
+   "rok": 2024,
+   "elementy": 811,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60424",
+   "nazwa": "Quad badacza dżungli z pandą czerwoną",
+   "rok": 2024,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "60425",
+   "nazwa": "Wodolot badaczki dżungli",
+   "rok": 2024,
+   "elementy": 177,
+   "status": "eol"
+  },
+  {
+   "numer": "60426",
+   "nazwa": "Terenówka badacza dżungli",
+   "rok": 2024,
+   "elementy": 314,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60428",
+   "nazwa": "Kosmiczny mech",
+   "rok": 2024,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "60429",
+   "nazwa": "Statek kosmiczny i odkrywanie asteroidy",
+   "rok": 2024,
+   "elementy": 126,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60430",
+   "nazwa": "Statek międzygwiezdny",
+   "rok": 2024,
+   "elementy": 240,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60431",
+   "nazwa": "Kosmiczny łazik i badanie życia w kosmosie",
+   "rok": 2024,
+   "elementy": 311,
+   "status": "eol"
+  },
+  {
+   "numer": "60432",
+   "nazwa": "Wóz dowodzenia z żurawiem ładunkowym",
+   "rok": 2024,
+   "elementy": 758,
+   "status": "eol"
+  },
+  {
+   "numer": "60433",
+   "nazwa": "Modułowa stacja kosmiczna",
+   "rok": 2024,
+   "elementy": 1097,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60434",
+   "nazwa": "Stacja kosmiczna",
+   "rok": 2024,
+   "elementy": 1422,
+   "status": "eol"
+  },
+  {
+   "numer": "60435",
+   "nazwa": "Samochód pomocy drogowej i naprawa sportowego auta",
+   "rok": 2024,
+   "elementy": 101,
+   "status": "eol"
+  },
+  {
+   "numer": "60436",
+   "nazwa": "Kalendarz adwentowy 2024",
+   "rok": 2024,
+   "elementy": 195,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60437",
+   "nazwa": "Helikopter badaczy dżungli w bazie",
+   "rok": 2024,
+   "elementy": 881,
+   "status": "eol"
+  },
+  {
+   "numer": "60438",
+   "nazwa": "Żaglówka",
+   "rok": 2024,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "60439",
+   "nazwa": "Kosmiczne laboratorium naukowe",
+   "rok": 2024,
+   "elementy": 560,
+   "status": "eol"
+  },
+  {
+   "numer": "60440",
+   "nazwa": "Żółta ciężarówka dostawcza",
+   "rok": 2024,
+   "elementy": 1061,
+   "status": "eol"
+  },
+  {
+   "numer": "60441",
+   "nazwa": "Zestaw z badaczami kosmosu",
+   "rok": 2024,
+   "elementy": 426,
+   "status": "eol"
+  },
+  {
+   "numer": "60691",
+   "nazwa": "Jungle Explorer Base Camp",
+   "rok": 2024,
+   "elementy": 1019,
+   "status": "eol"
+  },
+  {
+   "numer": "60692",
+   "nazwa": "The Lost Crocodile Temple",
+   "rok": 2024,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "60693",
+   "nazwa": "Survivor Island Seaplane",
+   "rok": 2024,
+   "elementy": 287,
+   "status": "eol"
+  },
+  {
+   "numer": "952402",
+   "nazwa": "Policeman with Helicopter",
+   "rok": 2024,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "952403",
+   "nazwa": "Builder with Cement Mixer",
+   "rok": 2024,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952404",
+   "nazwa": "Farmer with lawn mower",
+   "rok": 2024,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "952405",
+   "nazwa": "Astronaut and Robot",
+   "rok": 2024,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "952406",
+   "nazwa": "Diver and Shark",
+   "rok": 2024,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "952407",
+   "nazwa": "Astronaut with Quad",
+   "rok": 2024,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "952408",
+   "nazwa": "Policeman with Jetboat",
+   "rok": 2024,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "952409",
+   "nazwa": "Fire Buggy",
+   "rok": 2024,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "952410",
+   "nazwa": "Jungle Explorer",
+   "rok": 2024,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "952411",
+   "nazwa": "Astronaut with Equipment",
+   "rok": 2024,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "952412",
+   "nazwa": "Ice Adventure",
+   "rok": 2024,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "30693",
+   "nazwa": "Policyjny skuter wodny",
+   "rok": 2025,
+   "elementy": 29,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30694",
+   "nazwa": "Kosmiczny mech naukowy",
+   "rok": 2025,
+   "elementy": 49,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60442",
+   "nazwa": "F1 Kierowca i bolid McLaren",
+   "rok": 2025,
+   "elementy": 86,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60443",
+   "nazwa": "F1 Pit stop i mechanicy z bolidem Ferrari",
+   "rok": 2025,
+   "elementy": 322,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60444",
+   "nazwa": "F1 Garaż i bolidy Mercedes-AMG i Alpine",
+   "rok": 2025,
+   "elementy": 678,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60445",
+   "nazwa": "F1 Ciężarówka z bolidami RB20 i AMR24 F1",
+   "rok": 2025,
+   "elementy": 1086,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60446",
+   "nazwa": "Modułowy galaktyczny statek kosmiczny",
+   "rok": 2025,
+   "elementy": 717,
+   "status": "eol"
+  },
+  {
+   "numer": "60447",
+   "nazwa": "Górska ciężarówka terenowa 4x4",
+   "rok": 2025,
+   "elementy": 221,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60448",
+   "nazwa": "Czerwony samochód sportowy",
+   "rok": 2025,
+   "elementy": 109,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60449",
+   "nazwa": "Pościg terenówką policyjną",
+   "rok": 2025,
+   "elementy": 467,
+   "status": "eol"
+  },
+  {
+   "numer": "60450",
+   "nazwa": "Żółta ładowarka kołowa",
+   "rok": 2025,
+   "elementy": 81,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60451",
+   "nazwa": "Karetka pogotowia",
+   "rok": 2025,
+   "elementy": 184,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60452",
+   "nazwa": "Mobilna pączkarnia",
+   "rok": 2025,
+   "elementy": 196,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60453",
+   "nazwa": "Furgonetka ratowników plażowych",
+   "rok": 2025,
+   "elementy": 214,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60454",
+   "nazwa": "Wakacyjny kamper pełen przygód",
+   "rok": 2025,
+   "elementy": 385,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60455",
+   "nazwa": "Pościg na motocyklu policyjnym",
+   "rok": 2025,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60456",
+   "nazwa": "Pościg łodzią policyjną",
+   "rok": 2025,
+   "elementy": 264,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60457",
+   "nazwa": "Policyjny warsztat tuningowy",
+   "rok": 2025,
+   "elementy": 489,
+   "status": "eol"
+  },
+  {
+   "numer": "60458",
+   "nazwa": "Zestaw wyścigówek: pizza kontra wóz strażacki",
+   "rok": 2025,
+   "elementy": 70,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60459",
+   "nazwa": "Zestaw wyścigówek: samolot kontra łóżko szpitalne",
+   "rok": 2025,
+   "elementy": 70,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60460",
+   "nazwa": "Bez granic: tor z rampami dla wyścigówek",
+   "rok": 2025,
+   "elementy": 436,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60461",
+   "nazwa": "Czerwony traktor z przyczepą i owcą",
+   "rok": 2025,
+   "elementy": 116,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60462",
+   "nazwa": "Zestaw z helikopterem, wozem strażackim i łodzią podwodną",
+   "rok": 2025,
+   "elementy": 874,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60463",
+   "nazwa": "Wóz strażacki z drabiną",
+   "rok": 2025,
+   "elementy": 82,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60464",
+   "nazwa": "F1 Bolidy Williams Racing i Haas F1",
+   "rok": 2025,
+   "elementy": 92,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60465",
+   "nazwa": "Samolot pogotowia ratunkowego",
+   "rok": 2025,
+   "elementy": 403,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60466",
+   "nazwa": "Żółty buldożer",
+   "rok": 2025,
+   "elementy": 682,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60467",
+   "nazwa": "Wóz holowniczy z dźwigiem",
+   "rok": 2025,
+   "elementy": 793,
+   "status": "eol"
+  },
+  {
+   "numer": "60469",
+   "nazwa": "Centralny dworzec kolejowy",
+   "rok": 2025,
+   "elementy": 752,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60470",
+   "nazwa": "Ekspres polarny arktycznych odkrywców",
+   "rok": 2025,
+   "elementy": 1517,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60471",
+   "nazwa": "Ciężarówka z laboratorium arktycznej odkrywczyni",
+   "rok": 2025,
+   "elementy": 1057,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60472",
+   "nazwa": "Złomowisko z samochodami",
+   "rok": 2025,
+   "elementy": 871,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60473",
+   "nazwa": "Wieża City",
+   "rok": 2025,
+   "elementy": 1941,
+   "status": "eol"
+  },
+  {
+   "numer": "60474",
+   "nazwa": "Padok F1 z bolidami VCARB i Sauber",
+   "rok": 2025,
+   "elementy": 313,
+   "status": "eol"
+  },
+  {
+   "numer": "60475",
+   "nazwa": "Kalendarz adwentowy 2025",
+   "rok": 2025,
+   "elementy": 186,
+   "status": "dostepny"
+  },
+  {
+   "numer": "6557633",
+   "nazwa": "Soap Box Racer",
+   "rok": 2025,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "6562113",
+   "nazwa": "Soap Box Racer M&T",
+   "rok": 2025,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "66803",
+   "nazwa": "Built For Speed Gift Set",
+   "rok": 2025,
+   "elementy": 348,
+   "status": "eol"
+  },
+  {
+   "numer": "952501",
+   "nazwa": "Police Chase",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "952502",
+   "nazwa": "Construction Worker with Rotary Cutter",
+   "rok": 2025,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "952503",
+   "nazwa": "Diver with Robot and Shark",
+   "rok": 2025,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "952504",
+   "nazwa": "Astronaut with Space Hoverbike",
+   "rok": 2025,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "952505",
+   "nazwa": "Fireman with Water Scooter",
+   "rok": 2025,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "952506",
+   "nazwa": "Firefighter with Bulldozer",
+   "rok": 2025,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "952507",
+   "nazwa": "Police Officer with Jet Pack",
+   "rok": 2025,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "952508",
+   "nazwa": "Air boat",
+   "rok": 2025,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "952509",
+   "nazwa": "Tractor",
+   "rok": 2025,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "952510",
+   "nazwa": "Construction Worker with Vibration Plate",
+   "rok": 2025,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "952511",
+   "nazwa": "Astronaut with Alien and Crystal",
+   "rok": 2025,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "952512",
+   "nazwa": "Snowmobile",
+   "rok": 2025,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "12010",
+   "nazwa": "City World Builder parts",
+   "rok": 2026,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "12011",
+   "nazwa": "City World Builder parts",
+   "rok": 2026,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "30719",
+   "nazwa": "Gokart wyścigowy",
+   "rok": 2026,
+   "elementy": 48,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60478",
+   "nazwa": "Betoniarka",
+   "rok": 2026,
+   "elementy": 371,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60479",
+   "nazwa": "Furgonetka policyjnego konwoju więziennego",
+   "rok": 2026,
+   "elementy": 198,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60480",
+   "nazwa": "Żółta koparko-ładowarka",
+   "rok": 2026,
+   "elementy": 301,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60481",
+   "nazwa": "Pojazdy — Ciężarówka policyjna",
+   "rok": 2026,
+   "elementy": 71,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60482",
+   "nazwa": "Pojazdy — Wóz strażacki",
+   "rok": 2026,
+   "elementy": 67,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60483",
+   "nazwa": "Pojazdy — Ładowarka kołowa",
+   "rok": 2026,
+   "elementy": 61,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60484",
+   "nazwa": "Pojazdy — Gamingowa wyścigówka",
+   "rok": 2026,
+   "elementy": 64,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60485",
+   "nazwa": "Hot Rod",
+   "rok": 2026,
+   "elementy": 81,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60486",
+   "nazwa": "Supersamochód elektryczny",
+   "rok": 2026,
+   "elementy": 109,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60487",
+   "nazwa": "Żółta taksówka",
+   "rok": 2026,
+   "elementy": 122,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60488",
+   "nazwa": "Food truck z frytkami",
+   "rok": 2026,
+   "elementy": 216,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60489",
+   "nazwa": "Odrzutowiec kontra samochód",
+   "rok": 2026,
+   "elementy": 259,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60490",
+   "nazwa": "Pług śnieżny",
+   "rok": 2026,
+   "elementy": 263,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60491",
+   "nazwa": "Laweta dla motocykli",
+   "rok": 2026,
+   "elementy": 88,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60492",
+   "nazwa": "Samolot pasażerski",
+   "rok": 2026,
+   "elementy": 118,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60493",
+   "nazwa": "Ciężarówka F1 z bolidem Audi F1",
+   "rok": 2026,
+   "elementy": 508,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60494",
+   "nazwa": "Wywrotka i ładowarka czołowa",
+   "rok": 2026,
+   "elementy": 1132,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60495",
+   "nazwa": "Ciężarówka recyklingowa",
+   "rok": 2026,
+   "elementy": 434,
+   "status": "eol"
+  },
+  {
+   "numer": "60496",
+   "nazwa": "Dostawa pizzy z pojazdami",
+   "rok": 2026,
+   "elementy": 494,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60497",
+   "nazwa": "Automatyczna myjnia samochodowa",
+   "rok": 2026,
+   "elementy": 583,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60498",
+   "nazwa": "Traktor",
+   "rok": 2026,
+   "elementy": 204,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60499",
+   "nazwa": "Lotniskowy wóz strażacki",
+   "rok": 2026,
+   "elementy": 691,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60500",
+   "nazwa": "Furgonetka",
+   "rok": 2026,
+   "elementy": 276,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60501",
+   "nazwa": "Park rollercoasterów Lava Land",
+   "rok": 2026,
+   "elementy": 1165,
+   "status": "eol"
+  },
+  {
+   "numer": "60502",
+   "nazwa": "Lotnisko z samolotem",
+   "rok": 2026,
+   "elementy": 887,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60503",
+   "nazwa": "Helikopter straży przybrzeżnej",
+   "rok": 2026,
+   "elementy": 551,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60504",
+   "nazwa": "Łódź ratunkowa i helikopter straży przybrzeżnej",
+   "rok": 2026,
+   "elementy": 742,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60505",
+   "nazwa": "Zestaw z samolotem, ciężarówką serwisową i poduszkowcem",
+   "rok": 2026,
+   "elementy": 990,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60506",
+   "nazwa": "Tramwaj przy plaży",
+   "rok": 2026,
+   "elementy": 693,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60508",
+   "nazwa": "Napad na policyjny pociąg",
+   "rok": 2026,
+   "elementy": 1313,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60509",
+   "nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
+   "rok": 2026,
+   "elementy": 803,
+   "status": "eol"
+  },
+  {
+   "numer": "60510",
+   "nazwa": "Kalendarz adwentowy na 2026 rok",
+   "rok": 2026,
+   "elementy": 252,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60511",
+   "nazwa": "Retro pociąg z lokomotywą parową",
+   "rok": 2026,
+   "elementy": 575,
+   "status": "dostepny"
+  },
+  {
+   "numer": "60512",
+   "nazwa": "Furgonetka z rowerami górskimi",
+   "rok": 2026,
+   "elementy": 260,
+   "status": "eol"
+  },
+  {
+   "numer": "6614210",
+   "nazwa": "Fries Stand",
+   "rok": 2026,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "951440",
+   "nazwa": "Police Buggy",
+   "rok": 2026,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "951441",
+   "nazwa": "Construction Worker with Wheel Loader",
+   "rok": 2026,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002220",
+   "nazwa": "Police Officer with Snowmobile",
+   "rok": 2026,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002221",
+   "nazwa": "Construction Worker with Bulldozer",
+   "rok": 2026,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002222",
+   "nazwa": "Stunt Rider with Motorcycle",
+   "rok": 2026,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002223",
+   "nazwa": "Sweeper",
+   "rok": 2026,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002224",
+   "nazwa": "Firefighter and robot",
+   "rok": 2026,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002225",
+   "nazwa": "Construction Worker with Roller",
+   "rok": 2026,
+   "elementy": 34,
    "status": "eol"
   }
  ]
