@@ -16,9 +16,9 @@
     "data": "2026-08-12"
    },
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-12"
+    "sklep": "mediaexpert",
+    "cena": 393.95,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -26,9 +26,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 393.95,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 519.99,
+    "data": "2026-08-12"
    }
   ],
   "zdjecia": {
@@ -48,9 +48,9 @@
   "dla_afol": "Licencja filmowa plus seria Ideas to klasyczny kandydat na wzrost wartości po EOL. 0,46 zł/klocek.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 559.99,
-    "data": "2026-08-11"
+    "sklep": "mediaexpert",
+    "cena": 419.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -58,9 +58,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 419.0,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 559.99,
+    "data": "2026-08-11"
    }
   ],
   "zdjecia": {
@@ -99,9 +99,9 @@
   "dla_afol": "Najlepszy stosunek ceny do klocków w całej linii startowej Pokémon: 0,35 zł za element. Pierwsza fala nowej licencji historycznie trzyma wartość.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-11"
+    "sklep": "mediaexpert",
+    "cena": 309.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -109,9 +109,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 309.9,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-08-11"
    }
   ],
   "zdjecia": {
@@ -131,9 +131,9 @@
   "dla_afol": "Flagowiec pierwszej fali nowej licencji. 0,47 zł za element. Jeśli cokolwiek z tej linii ma być białym krukiem — to on.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 559.99,
-    "data": "2026-08-11"
+    "sklep": "mediaexpert",
+    "cena": 435.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -141,9 +141,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 435.99,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 559.99,
+    "data": "2026-08-11"
    }
   ],
   "zdjecia": {
@@ -163,9 +163,9 @@
   "dla_afol": "0,36 zł za element w Icons to solidny wynik. Auta Icons regularnie drożeją po EOL — patrz Aston DB5.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 599.99,
-    "data": "2026-08-11"
+    "sklep": "mediaexpert",
+    "cena": 439.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -173,9 +173,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 439.0,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 599.99,
+    "data": "2026-08-11"
    }
   ],
   "zdjecia": {
@@ -195,9 +195,9 @@
   "dla_afol": "0,32 zł za element — najlepszy współczynnik sierpnia. Speed Champions z kultowymi autami znikają szybko.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 114.99,
-    "data": "2026-08-11"
+    "sklep": "mediaexpert",
+    "cena": 89.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -205,9 +205,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 89.99,
-    "data": "2026-08-13"
+    "sklep": "lego",
+    "cena": 114.99,
+    "data": "2026-08-11"
    }
   ],
   "zdjecia": {
@@ -227,6 +227,11 @@
   "dla_afol": "Blisko tegorocznego dołka (619,99 zł z 3.08). Set z 2022 — każdy kwartał przybliża go do EOL. Przy 659 zł z darmową dostawą: brać.",
   "oferty": [
    {
+    "sklep": "mediaexpert",
+    "cena": 619.99,
+    "data": "2026-08-14"
+   },
+   {
     "sklep": "allegro",
     "cena": 659.0,
     "data": "2026-08-12"
@@ -240,11 +245,6 @@
     "sklep": "klocekplus",
     "cena": 750.0,
     "data": "2026-08-12"
-   },
-   {
-    "sklep": "mediaexpert",
-    "cena": 749.99,
-    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -309,7 +309,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 799.99,
-    "data": "2026-08-13"
+    "data": "2026-08-14"
    }
   ],
   "zdjecia": {
@@ -375,9 +375,9 @@
   "dla_afol": "Naturalne uzupełnienie kolekcji NASA obok wahadłowca i Saturna V — kompaktowy, elegancki eksponat o naukowym rodowodzie.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 559.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 418.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -385,10 +385,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 418.99,
-    "data": "2026-08-13",
-    "cena_regularna": 434.9
+    "sklep": "lego",
+    "cena": 559.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -427,9 +426,9 @@
   "dla_afol": "Godny następca kultowego 10214 w nowocześniejszej estetyce, choć trzeba mu zarezerwować naprawdę długą półkę.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 1299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 983.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -437,8 +436,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 983.9,
+    "sklep": "lego",
+    "cena": 1299.99,
     "data": "2026-08-13"
    }
   ],
@@ -550,7 +549,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 259.99,
-    "data": "2026-08-13"
+    "data": "2026-08-14"
    }
   ],
   "zdjecia": {
@@ -570,9 +569,9 @@
   "dla_afol": "Nowa linia dużych pozowalnych figur Star Wars w najlepszym wydaniu; zniszczona zbroja Fetta wygląda znakomicie obok kolekcji hełmów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 729.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 539.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -580,8 +579,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 539.0,
+    "sklep": "lego",
+    "cena": 729.99,
     "data": "2026-08-13"
    }
   ],
@@ -620,9 +619,9 @@
   "dla_afol": "Debiutancka fala licencji Pokémon ma spory potencjał kolekcjonerski, a sympatyczny Munchlax to jej najprzystępniejsza cenowo rzeźba.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 221.89,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -630,8 +629,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 221.9,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -715,9 +714,9 @@
   "dla_afol": "Pierwsze podejście LEGO do licencji Shreka wygląda na strzał w dziesiątkę; premiera przed kinowym powrotem serii to dodatkowy argument.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 389.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -725,8 +724,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 389.0,
+    "sklep": "lego",
+    "cena": 519.99,
     "data": "2026-08-13"
    }
   ],
@@ -774,9 +773,9 @@
   "dla_afol": "Niedrogi sposób na poszerzenie technicowej kolekcji jednośladów o świeżą, mniej oczywistą licencję.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 154.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -784,8 +783,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 154.99,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -806,9 +805,9 @@
   "dla_afol": "Świetnie komponuje się ze szkieletem T. rexa z tej samej linii — razem tworzą miniaturowe muzeum historii naturalnej na regale.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -816,8 +815,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -838,9 +837,9 @@
   "dla_afol": "Oryginalny eksponat dla każdego, kto łączy pasję rowerową z klockową; w kolekcji pojazdów Icons wyróżnia się z daleka.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 388.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -848,8 +847,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 388.99,
+    "sklep": "lego",
+    "cena": 519.99,
     "data": "2026-08-13"
    }
   ],
@@ -888,9 +887,9 @@
   "dla_afol": "Odświeżający odskok od kwiatów w Botanicals i wdzięczny motyw do jesiennych ekspozycji oraz fotografii klockowych.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 235.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -898,8 +897,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 235.0,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -920,9 +919,9 @@
   "dla_afol": "Muzyczne kolaboracje LEGO bywają krótkotrwałe, więc ten niepozorny bukiet może z czasem zyskać status ciekawostki kolekcjonerskiej.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 189.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 139.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -930,8 +929,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 139.99,
+    "sklep": "lego",
+    "cena": 189.99,
     "data": "2026-08-13"
    }
   ],
@@ -971,9 +970,9 @@
   "dla_afol": "Ekskluzyw lego.com i duchowy następca kultowego 76042, którego ceny na rynku wtórnym dawno odleciały; okazja, by nadrobić zaległość.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 1599.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 1149.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -981,8 +980,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 1175.0,
+    "sklep": "lego",
+    "cena": 1599.99,
     "data": "2026-08-13"
    }
   ],
@@ -1003,9 +1002,9 @@
   "dla_afol": "Jubileuszowa licencja i rodowód z platformy Ideas to podwójny argument kolekcjonerski — takie zestawy rzadko wracają do oferty.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 237.6,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1013,8 +1012,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 237.6,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -1035,9 +1034,9 @@
   "dla_afol": "Kontrastowe zestawienie toru i bezdroży wygląda świetnie w gablocie, a Defender w tej skali ma potencjał na hit.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 234.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 168.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1045,8 +1044,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 168.99,
+    "sklep": "lego",
+    "cena": 234.99,
     "data": "2026-08-13"
    }
   ],
@@ -1067,9 +1066,9 @@
   "dla_afol": "Naturalny towarzysz NES-a 71374 na półce z gamingowymi klasykami; licencja Nintendo w formacie retro rzadko traci na wartości.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 729.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 562.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1077,8 +1076,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 562.99,
+    "sklep": "lego",
+    "cena": 729.99,
     "data": "2026-08-13"
    }
   ],
@@ -1099,9 +1098,9 @@
   "dla_afol": "Obowiązkowa pozycja dla kompletujących panoramy miast; świetnie wypada obok paryskiego zestawu z tej samej fali.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 599.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 424.81,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1109,8 +1108,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 424.81,
+    "sklep": "lego",
+    "cena": 599.99,
     "data": "2026-08-13"
    }
   ],
@@ -1131,9 +1130,9 @@
   "dla_afol": "Gorąca licencja w szczycie popularności; jeśli fenomen KPop Demon Hunters okaże się trwały, wczesne zestawy mogą zyskać na znaczeniu.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 232.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1141,8 +1140,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 232.9,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -1163,9 +1162,9 @@
   "dla_afol": "Mocna pozycja w rosnącej rodzinie technicowych bolidów F1; zielona liberia Astona wyróżnia się na tle czerwieni Ferrari.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 999.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 719.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1173,8 +1172,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 739.0,
+    "sklep": "lego",
+    "cena": 999.99,
     "data": "2026-08-13"
    }
   ],
@@ -1195,9 +1194,9 @@
   "dla_afol": "Pierwszy piaskoczołg od lat i do tego z Mudhornem — mocny akcent mandaloriański w każdej gwiezdnowojennej kolekcji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 869.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 639.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1205,8 +1204,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 658.9,
+    "sklep": "lego",
+    "cena": 869.99,
     "data": "2026-08-13"
    }
   ],
@@ -1263,9 +1262,9 @@
   "dla_afol": "Jeżdżąca alternatywa dla wystawowych Tumblerów; ciekawostka licencyjna, choć cena za liczbę elementów odzwierciedla elektronikę, nie klocki.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 819.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 631.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1273,8 +1272,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 631.99,
+    "sklep": "lego",
+    "cena": 819.99,
     "data": "2026-08-13"
    }
   ],
@@ -1295,6 +1294,11 @@
   "dla_afol": "Nietypowa, serialowa wariacja kultowej maszyny kroczącej; wyróżni się w kolekcji zdominowanej przez AT-AT z Hoth.",
   "oferty": [
    {
+    "sklep": "mediaexpert",
+    "cena": 559.0,
+    "data": "2026-08-14"
+   },
+   {
     "sklep": "lego",
     "cena": 689.99,
     "data": "2026-08-13"
@@ -1303,12 +1307,6 @@
     "sklep": "planetaklockow",
     "cena": 689.99,
     "data": "2026-08-14"
-   },
-   {
-    "sklep": "mediaexpert",
-    "cena": 559.0,
-    "data": "2026-08-13",
-    "cena_regularna": 629.9
    }
   ],
   "zdjecia": {
@@ -1328,9 +1326,9 @@
   "dla_afol": "Ciekawy koncept kustomizacji w Technic — baza do własnych przeróbek i luźniejsza propozycja obok wystawowych flagowców.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 293.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1338,8 +1336,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 293.9,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -1387,9 +1385,9 @@
   "dla_afol": "Muzyczne kolaboracje w rodzaju Fendera pokazały, że instrumenty z klocków dobrze trzymają wartość; ta gitara ma podobny profil.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 389.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1397,8 +1395,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 399.9,
+    "sklep": "lego",
+    "cena": 519.99,
     "data": "2026-08-13"
    }
   ],
@@ -1437,9 +1435,9 @@
   "dla_afol": "Powrót kultowego auta znanego z zestawu 42111; nowa wersja daje szansę tym, którzy przegapili poprzednią i jej rynkowe wzrosty.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 649.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 459.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1447,8 +1445,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 479.0,
+    "sklep": "lego",
+    "cena": 649.99,
     "data": "2026-08-13"
    }
   ],
@@ -1469,9 +1467,9 @@
   "dla_afol": "Tania cegiełka do kolekcji koni z Maranello dla tych, którym flagowa Daytona zajęła już całą półkę i budżet.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 274.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 201.39,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1479,8 +1477,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 201.39,
+    "sklep": "lego",
+    "cena": 274.99,
     "data": "2026-08-13"
    }
   ],
@@ -1519,9 +1517,9 @@
   "dla_afol": "Viper rzadko gości w ofercie LEGO, więc to gratka dla kolekcjonerów amerykańskiej motoryzacji w klockach.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 274.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 213.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1529,8 +1527,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 213.99,
+    "sklep": "lego",
+    "cena": 274.99,
     "data": "2026-08-13"
    }
   ],
@@ -1551,14 +1549,14 @@
   "dla_afol": "Nietypowy, scenograficzny motyw w klockach; w ramach krótkiej serii Editions może okazać się najbardziej charakterystycznym zestawem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 203.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1578,9 +1576,9 @@
   "dla_afol": "Interesujący głównie ze względu na minifigurki; jako źródło postaci wypada korzystniej niż niejeden większy zestaw.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 155.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1588,8 +1586,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 155.0,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -1610,9 +1608,9 @@
   "dla_afol": "Memiczny status kurzego jeźdźca po filmowym Minecrafcie czyni z tej figurki zabawny gadżet popkulturowy.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 99.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1620,8 +1618,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 99.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -1660,9 +1658,9 @@
   "dla_afol": "Najbardziej pomysłowy zestaw linii Editions, z minifigurką Olivii, która może stać się najbardziej poszukiwanym elementem całej kolaboracji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 258.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1670,8 +1668,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 258.98,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -1693,14 +1691,14 @@
   "dla_afol": "Zestawy z linii chińskich festiwali są dostępne krótko i wyłącznie w LEGO, a po zniknięciu z oferty regularnie drożeją.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 469.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 459.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 469.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1756,14 +1754,14 @@
   "dla_afol": "Kolekcjonersko ciekawostka w duchu blind boxów — komplet ośmiu maszyn może z czasem zyskać status zamkniętej mini-serii.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 20.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 19.49,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 20.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -1783,9 +1781,9 @@
   "dla_afol": "Nowa linia Editions dopiero się rozkręca, więc pierwsze muzyczne wydania mogą okazać się poszukiwanymi okazami.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 91.31,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1793,8 +1791,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 91.31,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -1815,9 +1813,9 @@
   "dla_afol": "Filmowe licencje w Speed Champions szybko znikają ze sklepów, a Supra z tej serii to murowany klasyk kolekcji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 114.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 80.94,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1825,8 +1823,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 80.94,
+    "sklep": "lego",
+    "cena": 114.99,
     "data": "2026-08-13"
    }
   ],
@@ -1847,9 +1845,9 @@
   "dla_afol": "Pierwsze brick-built postacie z tej licencji to ciekawy zwrot serii i potencjalnie wyróżniający się eksponat.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 249.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 194.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1857,8 +1855,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 194.99,
+    "sklep": "lego",
+    "cena": 249.99,
     "data": "2026-08-13"
    }
   ],
@@ -1879,9 +1877,9 @@
   "dla_afol": "Botanicals konsekwentnie trzymają poziom, a motyw wodny odróżnia ten zestaw od typowych bukietów w kolekcji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 122.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1889,8 +1887,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 122.0,
+    "sklep": "lego",
+    "cena": 169.99,
     "data": "2026-08-13"
    }
   ],
@@ -1911,9 +1909,9 @@
   "dla_afol": "Obok Going Merry to filar klockowej floty One Piece — okręt marynarki świetnie domyka dioramę z pierwszej fali.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 729.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 548.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1921,8 +1919,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 548.99,
+    "sklep": "lego",
+    "cena": 729.99,
     "data": "2026-08-13"
    }
   ],
@@ -1943,9 +1941,9 @@
   "dla_afol": "Smoker w wersji minifigurki to łakomy kąsek dla kompletujących obsadę wczesnych arców.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 249.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 199.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -1953,8 +1951,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 199.9,
+    "sklep": "lego",
+    "cena": 249.99,
     "data": "2026-08-13"
    }
   ],
@@ -1982,7 +1980,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 419.99,
-    "data": "2026-08-13"
+    "data": "2026-08-14"
    }
   ],
   "zdjecia": {
@@ -2048,9 +2046,9 @@
   "dla_afol": "Po kinowym powrocie Fantastycznej Czwórki H.E.R.B.I.E. ma spory potencjał, by stać się kultowym eksponatem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 236.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2058,8 +2056,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 236.9,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -2080,9 +2078,9 @@
   "dla_afol": "Kaski kierowców to świeży format w klockowym motorsporcie i mocny akcent każdej kolekcji poświęconej McLarenowi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 269.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2090,8 +2088,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 269.0,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -2132,14 +2130,14 @@
   "dla_afol": "Projekty z festiwalowej linii rzadko trafiają do szerokiej dystrybucji, więc ten kinetyczny model łatwo przegapić.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 199.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2159,9 +2157,9 @@
   "dla_afol": "Giganci w klockowym wydaniu wyróżniają się skalą na tle całej licencji — dobry kandydat na centrum ekspozycji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 263.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2169,8 +2167,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 263.99,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -2191,9 +2189,9 @@
   "dla_afol": "Trzy istotne minifigurki w budżetowym pudełku — czysta wartość dla kompletujących obsadę.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 93.63,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2201,8 +2199,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 93.63,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -2223,9 +2221,9 @@
   "dla_afol": "Disneyowskie brick-built zwierzaki tworzą coraz spójniejszą serię — Pua wpisuje się w nią idealnie obok Kakamory.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 213.14,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2233,8 +2231,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 213.14,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -2255,9 +2253,9 @@
   "dla_afol": "Duża figura maskotki załogi naturalnie uzupełnia statki i scenki — całość zaczyna wyglądać jak przemyślana kolekcja.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 229.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2265,8 +2263,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 229.9,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -2305,9 +2303,9 @@
   "dla_afol": "Mozazaur należy do rzadziej wydawanych gadów w tej licencji, co czyni zestaw ciekawszym niż kolejny raptor.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 299.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2315,8 +2313,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 309.0,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -2337,9 +2335,9 @@
   "dla_afol": "Pozycja typowo dziecięca, kolekcjonersko istotna tylko dla kompletujących całą licencję Gabi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 44.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2347,8 +2345,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 44.99,
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -2387,9 +2385,9 @@
   "dla_afol": "Nietypowy wybór postaci, który w zestawieniu z Puą tworzy przyjemny duet z oceanicznego uniwersum Disneya.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 125.97,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2397,8 +2395,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 125.97,
+    "sklep": "lego",
+    "cena": 169.99,
     "data": "2026-08-13"
    }
   ],
@@ -2419,9 +2417,9 @@
   "dla_afol": "Kolejny moduł składanego Hogwartu — kto buduje cały zamek, nie ma tu żadnego wyboru poza zakupem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 1079.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 779.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2429,8 +2427,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 797.96,
+    "sklep": "lego",
+    "cena": 1079.99,
     "data": "2026-08-13"
    }
   ],
@@ -2451,9 +2449,9 @@
   "dla_afol": "Seria dużych mobów do ekspozycji nadaje Minecraftowi kolekcjonerski wymiar, którego ta licencja długo nie miała.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 189.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 139.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2461,8 +2459,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 139.99,
+    "sklep": "lego",
+    "cena": 189.99,
     "data": "2026-08-13"
    }
   ],
@@ -2483,9 +2481,9 @@
   "dla_afol": "Spinozaur wraca do łask po latach nieobecności — ta wersja ma szansę stać się jego definitywnym klockowym wydaniem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 219.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2493,8 +2491,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 219.0,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -2515,9 +2513,9 @@
   "dla_afol": "Architektura zamiast statku to miła odmiana w tej licencji, a zimowa sceneria wyróżnia się na półce.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 319.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2525,8 +2523,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 319.99,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -2565,9 +2563,9 @@
   "dla_afol": "Sportowe wall-arty to nowy kierunek LEGO, a Messi jest najgłośniejszym nazwiskiem tej linii.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 779.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 559.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2575,10 +2573,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 399.0,
-    "data": "2026-08-13",
-    "cena_regularna": 559.0
+    "sklep": "lego",
+    "cena": 779.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2598,9 +2595,9 @@
   "dla_afol": "Najbardziej ikoniczny przeciwnik gry w wersji ekspozycyjnej to naturalny highlight klockowej kolekcji Minecrafta.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 249.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 177.61,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2608,8 +2605,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 177.61,
+    "sklep": "lego",
+    "cena": 249.99,
     "data": "2026-08-13"
    }
   ],
@@ -2630,9 +2627,9 @@
   "dla_afol": "Hołd dla legendy gymkhany — dla śledzących motorsportową odnogę Speed Champions to pozycja obowiązkowa.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 114.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 94.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2640,10 +2637,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 80.99,
-    "data": "2026-08-13",
-    "cena_regularna": 94.9
+    "sklep": "lego",
+    "cena": 114.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -2663,9 +2659,9 @@
   "dla_afol": "Drobny, ale przydatny element do rozbudowy klockowych kompozycji kwiatowych o nowe gatunki.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 41.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2673,8 +2669,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 41.9,
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -2695,9 +2691,9 @@
   "dla_afol": "Tornado-1 to kawałek historii SEGI — miły akcent dla kolekcjonerów growych licencji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 91.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2705,8 +2701,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 91.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -2745,9 +2741,9 @@
   "dla_afol": "Współczesne prototypy z Le Mans rzadko trafiają do klocków, więc 499P wypełnia realną lukę w kolekcji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 114.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 94.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2755,8 +2751,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 94.99,
+    "sklep": "lego",
+    "cena": 114.99,
     "data": "2026-08-13"
    }
   ],
@@ -2777,9 +2773,9 @@
   "dla_afol": "Nieoficjalny spadkobierca dawnych zestawów pirackich — dla wychowanych na nich budowniczych to sentymentalny strzał.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2787,8 +2783,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -2827,9 +2823,9 @@
   "dla_afol": "Wariant ze Strupką odróżnia się od wcześniejszych klockowych Stitchów, co docenią kompletujący postać we wszystkich wersjach.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 210.33,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2837,8 +2833,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 210.33,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -2859,9 +2855,9 @@
   "dla_afol": "Ultrasmok to ukłon w stronę pierwszych sezonów Ninjago i mocny kandydat na centralny punkt smoczej kolekcji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 869.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 599.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2869,8 +2865,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 609.99,
+    "sklep": "lego",
+    "cena": 869.99,
     "data": "2026-08-13"
    }
   ],
@@ -2891,9 +2887,9 @@
   "dla_afol": "Budżetowa odpowiedź na drogie wall-arty LEGO, wdzięczna do modyfikacji własnymi klockami.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 85.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2901,8 +2897,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 85.9,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -2923,9 +2919,9 @@
   "dla_afol": "Rzetelny, pomarańczowo-żółty pojazd komunalny, przydatny każdemu budującemu klockowe miasto.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 99.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2933,8 +2929,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 99.9,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -2955,9 +2951,9 @@
   "dla_afol": "Herb naturalnie dopełnia większe zestawy z Hogwartu i dobrze wypada w gablocie między minifigurkami.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 149.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -2965,8 +2961,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 149.0,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -3014,9 +3010,9 @@
   "dla_afol": "Parowozy w ofercie LEGO pojawiają się rzadko, więc i ten najpewniej zniknie szybciej, niż się wydaje.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 261.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3024,8 +3020,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 261.99,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -3046,9 +3042,9 @@
   "dla_afol": "Ciekawy przykład flirtu Creatora z estetyką lifestyle'ową; tanie źródło przezroczystych i pastelowych elementów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 87.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3056,8 +3052,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 87.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -3078,9 +3074,9 @@
   "dla_afol": "Jedna z najefektowniejszych pozycji zwierzęcej linii Creatora, wyglądająca na droższą, niż jest.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 274.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 189.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3088,8 +3084,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 189.9,
+    "sklep": "lego",
+    "cena": 274.99,
     "data": "2026-08-13"
    }
   ],
@@ -3110,9 +3106,9 @@
   "dla_afol": "Typowy zestaw fabularny — wartość głównie w minifigurkach uzupełniających obsadę sezonu.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 85.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3120,8 +3116,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 85.98,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -3142,9 +3138,9 @@
   "dla_afol": "Odświeżona wersja popularnej figurki Zgredka — dobra okazja dla tych, którzy przegapili poprzednią.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 144.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 101.03,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3152,8 +3148,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 101.03,
+    "sklep": "lego",
+    "cena": 144.99,
     "data": "2026-08-13"
    }
   ],
@@ -3174,9 +3170,9 @@
   "dla_afol": "Zabawne skrzyżowanie linii Botanicals z licencją HP; mandragora w doniczce to gotowy hit gabloty.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 292.16,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3184,8 +3180,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 292.16,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -3225,9 +3221,9 @@
   "dla_afol": "Pozycja czysto dziecięca; kolekcjonerów zainteresuje co najwyżej jako donor figurek do miejskiego lotniska.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 82.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3235,8 +3231,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 82.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -3257,9 +3253,9 @@
   "dla_afol": "Największy jak dotąd akcent linii Fortnite — memiczny Kitek ma potencjał wykroczyć popularnością poza społeczność graczy.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 292.16,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3267,8 +3263,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 292.16,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -3289,9 +3285,9 @@
   "dla_afol": "Dla dorosłych to głównie źródło uroczej figurki małego tyranozaura, bo sama konstrukcja jest bardzo prosta.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 84.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3299,8 +3295,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 84.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -3321,9 +3317,9 @@
   "dla_afol": "Ruchomy młyn za rozsądne pieniądze może posłużyć jako tańsza alternatywa dla wielkich zestawów jarmarcznych z serii Icons.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 260.19,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3331,8 +3327,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 260.19,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -3353,9 +3349,9 @@
   "dla_afol": "Kultowe kinowe auto lat dwutysięcznych w skali Technic to mocny kandydat na półkę każdego fana JDM.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 274.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 193.28,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3363,8 +3359,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 193.28,
+    "sklep": "lego",
+    "cena": 274.99,
     "data": "2026-08-13"
    }
   ],
@@ -3385,9 +3381,9 @@
   "dla_afol": "Szybka wieczorna budowa i zabawny gadżet popkulturowy w cenie, która nie boli.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 41.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3395,8 +3391,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 41.98,
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -3417,9 +3413,9 @@
   "dla_afol": "Dla fanów F1 to okazja, by obok modeli bolidów postawić kask aktualnego kierowcy McLarena.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 286.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3427,8 +3423,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 286.9,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -3449,9 +3445,9 @@
   "dla_afol": "Niedrogi zestaw, z którego wychodzi gustowna miniatura pasująca do klockowych wnętrz i modularów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 119.56,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3459,8 +3455,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 119.56,
+    "sklep": "lego",
+    "cena": 169.99,
     "data": "2026-08-13"
    }
   ],
@@ -3499,9 +3495,9 @@
   "dla_afol": "Rzadko pokazywany zakątek świata czarodziejów to miła odmiana po kolejnych wersjach zamku.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 292.16,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3509,8 +3505,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 292.16,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -3531,9 +3527,9 @@
   "dla_afol": "Tania pozycja do powiększenia klockowego stada dinozaurów z Jurassic World.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 104.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 73.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3541,8 +3537,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 73.9,
+    "sklep": "lego",
+    "cena": 104.99,
     "data": "2026-08-13"
    }
   ],
@@ -3563,9 +3559,9 @@
   "dla_afol": "Figurka jelenia-patronusa i dementorzy to detale, które podnoszą wartość tej niedużej sceny.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 82.18,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3573,8 +3569,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 82.18,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -3613,9 +3609,9 @@
   "dla_afol": "Skala i funkcje obu maszyn przypominają dawne dobre zestawy z żółtymi pojazdami technicznymi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 359.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3623,8 +3619,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 369.98,
+    "sklep": "lego",
+    "cena": 519.99,
     "data": "2026-08-13"
    }
   ],
@@ -3645,9 +3641,9 @@
   "dla_afol": "Memiczny chicken jockey w wersji klockowej to zabawny akcent dla kolekcjonerów tej licencji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 104.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 72.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3655,8 +3651,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 72.9,
+    "sklep": "lego",
+    "cena": 104.99,
     "data": "2026-08-13"
    }
   ],
@@ -3677,9 +3673,9 @@
   "dla_afol": "Więźniarka to praktyczny pojazd do miejskich dioram, a figurki zasilą gablotkę z Marvelem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 149.2,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3687,7 +3683,7 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
+    "sklep": "lego",
     "cena": 209.99,
     "data": "2026-08-13"
    }
@@ -3709,9 +3705,9 @@
   "dla_afol": "Funkcjonalne buildy z linii Disneya zaskakująco dobrze bronią się jako dekoracje, a ta szkatułka ma sporo ładnych detali.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 148.94,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3719,8 +3715,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 148.94,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -3741,9 +3737,9 @@
   "dla_afol": "Stylizowany tramwaj aż prosi się o miejsce w klockowym mieście, zwłaszcza obok modularowych budynków.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 207.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3751,8 +3747,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 207.98,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -3773,9 +3769,9 @@
   "dla_afol": "To pozycja typowo dziecięca, choć mikroskala zamku może zaciekawić kolekcjonerów disnejowskich miniatur.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 123.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3783,8 +3779,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 123.98,
+    "sklep": "lego",
+    "cena": 169.99,
     "data": "2026-08-13"
    }
   ],
@@ -3805,9 +3801,9 @@
   "dla_afol": "Battle packi to najtańszy sposób na mnożenie minifigurek do większych scen z Ninjago.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 41.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 29.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3815,8 +3811,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 29.99,
+    "sklep": "lego",
+    "cena": 41.99,
     "data": "2026-08-13"
    }
   ],
@@ -3855,9 +3851,9 @@
   "dla_afol": "Para posowanych mechów w tej skali robi wrażenie na półce i daje pole do modyfikacji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 599.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 439.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3865,8 +3861,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 439.0,
+    "sklep": "lego",
+    "cena": 599.99,
     "data": "2026-08-13"
    }
   ],
@@ -3887,9 +3883,9 @@
   "dla_afol": "Pięć figurek na wyłączność i efektowna diorama sprawiają, że to najciekawszy jak dotąd zestaw tej licencji.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 869.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 618.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3897,8 +3893,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 618.99,
+    "sklep": "lego",
+    "cena": 869.99,
     "data": "2026-08-13"
    }
   ],
@@ -3919,9 +3915,9 @@
   "dla_afol": "Bogate wnętrza i architektoniczny sznyt czynią z hotelu ciekawą alternatywę dla modularów, zwłaszcza po przeróbce na skalę minifigurek.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 649.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 449.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3929,8 +3925,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 455.99,
+    "sklep": "lego",
+    "cena": 649.99,
     "data": "2026-08-13"
    }
   ],
@@ -3951,9 +3947,9 @@
   "dla_afol": "Figurka Stitcha bywa jedynym powodem zakupu i w tej cenie trudno się dziwić.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 57.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -3961,8 +3957,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 57.9,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -4019,9 +4015,9 @@
   "dla_afol": "Nowe postacie, w tym wojownik Oni, robią z tego pudełka ciekawy punkt startowy nowej ery Ninjago.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 260.21,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4029,8 +4025,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 260.21,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -4051,9 +4047,9 @@
   "dla_afol": "Zabawny motyw dla rodziców-fanów serialu, choć kolekcjonersko to raczej ciekawostka.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 42.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4061,8 +4057,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 42.9,
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -4083,9 +4079,9 @@
   "dla_afol": "Sprytny mechanizm przemiany to gratka dla budowniczych analizujących rozwiązania konstrukcyjne LEGO.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 269.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4093,8 +4089,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 269.0,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -4115,9 +4111,9 @@
   "dla_afol": "Brick-built figurki Heelerów wyglądają uroczo na półce i wyróżniają się na tle typowych zestawów licencyjnych.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 215.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4125,8 +4121,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 215.99,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -4147,9 +4143,9 @@
   "dla_afol": "Duży ghast i netherowa paleta barw dają materiał na efektowną dioramę z gry.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 299.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4157,8 +4153,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 299.0,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -4179,9 +4175,9 @@
   "dla_afol": "Pozycja czysto dziecięca, choć duplowe figurki z Bluey potrafią rozczulić dorosłego fana serialu.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 132.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4189,10 +4185,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 121.66,
-    "data": "2026-08-13",
-    "cena_regularna": 132.9
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4212,9 +4207,9 @@
   "dla_afol": "Foodtrackowe motywy i drobne pojazdy to przydatne wypełniacze każdej klockowej ulicy.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 146.35,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4222,8 +4217,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 146.35,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -4244,9 +4239,9 @@
   "dla_afol": "Ciekawostka pokazująca, że LEGO coraz odważniej wchodzi w funkcjonalne, lifestyle'owe buildy.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 85.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4254,8 +4249,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 85.9,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -4312,9 +4307,9 @@
   "dla_afol": "Sympatyczny hołd dla początków rozgrywki, idealny na drobny prezent dla fana gry.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 88.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4322,8 +4317,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 88.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -4344,9 +4339,9 @@
   "dla_afol": "Drobny pojazd gastronomiczny, który bez problemu wpasuje się w każdą klockową miejscówkę.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 44.43,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4354,8 +4349,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 44.43,
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -4376,9 +4371,9 @@
   "dla_afol": "Sprytny format walizki przypomina dawne zestawy typu carry case i może zaciekawić nostalgików.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 149.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4386,8 +4381,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 149.98,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -4436,9 +4431,9 @@
   "dla_afol": "Remake kultowego pojazdu z ekskluzywnymi figurkami to oczywisty cel dla weteranów Ninjago.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 237.19,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4446,8 +4441,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 237.19,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -4468,9 +4463,9 @@
   "dla_afol": "Zgrabny gadżet dla graczy, który po złożeniu pełni rolę pojemnika na drobiazgi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 121.66,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4478,8 +4473,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 121.66,
+    "sklep": "lego",
+    "cena": 169.99,
     "data": "2026-08-13"
    }
   ],
@@ -4500,9 +4495,9 @@
   "dla_afol": "Przyrodnicze detale i kemperowy klimat mogą się przydać w wiosenno-letnich dioramach.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 104.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 73.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4510,8 +4505,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 73.99,
+    "sklep": "lego",
+    "cena": 104.99,
     "data": "2026-08-13"
    }
   ],
@@ -4532,9 +4527,9 @@
   "dla_afol": "Typowy zestaw edukacyjny dla najmłodszych, poza zasięgiem zainteresowań kolekcjonerów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 149.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4542,8 +4537,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 149.99,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -4564,9 +4559,9 @@
   "dla_afol": "Czysty box kreatywny dla maluchów — dorośli budowniczowie mogą spokojnie przewinąć dalej.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 54.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4574,8 +4569,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 54.99,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -4614,9 +4609,9 @@
   "dla_afol": "Konstrukcyjnie ciekawostka dla rodzica-budowniczego, który doceni modułowość ramp przy zabawie z dzieckiem.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 209.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4624,8 +4619,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 209.0,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -4646,9 +4641,9 @@
   "dla_afol": "Kolejne wcielenie Perły Przeznaczenia to pozycja obowiązkowa dla kompletujących wszystkie wersje słynnego okrętu.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 559.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 389.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4656,8 +4651,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 398.98,
+    "sklep": "lego",
+    "cena": 559.99,
     "data": "2026-08-13"
    }
   ],
@@ -4678,9 +4673,9 @@
   "dla_afol": "Sezonowa kolorystyka i botaniczne detale czynią z chatki świetną bazę do przytulnych dioram w stylu cottagecore.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 297.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4688,8 +4683,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 297.98,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -4728,14 +4723,14 @@
   "dla_afol": "Polowanie na pełną serię trwa tylko do końca sierpnia, więc kolekcjonerzy nie powinni zwlekać.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 16.49,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 15.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 16.49,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4755,9 +4750,9 @@
   "dla_afol": "Funkcjonalny budynek usługowy ładnie uzupełni ulicę w klockowym mieście.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 234.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 163.95,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4765,8 +4760,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 163.95,
+    "sklep": "lego",
+    "cena": 234.99,
     "data": "2026-08-13"
    }
   ],
@@ -4787,9 +4782,9 @@
   "dla_afol": "Miniaturowa scenka z ładnymi akcesoriami piknikowymi do wykorzystania w większych układach zieleni.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 41.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 29.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4797,8 +4792,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 29.9,
+    "sklep": "lego",
+    "cena": 41.99,
     "data": "2026-08-13"
    }
   ],
@@ -4819,9 +4814,9 @@
   "dla_afol": "Z 676 elementami to flagowa pozycja letniej fali Disneya i obecnie największy zamek w księżniczkowej linii, więc na półce robi wrażenie.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 296.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4829,8 +4824,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 296.98,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -4851,14 +4846,14 @@
   "dla_afol": "864 elementy za rozsądne pieniądze i prowadzenie toru, które samo w sobie jest ciekawym kąskiem konstrukcyjnym.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 399.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 419.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -4905,9 +4900,9 @@
   "dla_afol": "Raczej uzupełnienie disnejowskiej dioramy niż samodzielna pozycja, ale cena poniżej 90 zł kusi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 56.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4915,8 +4910,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 56.9,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -4937,9 +4932,9 @@
   "dla_afol": "Sporo roślinnych części, które chętnie zasilą każdą MOC-ową zieleń.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 88.7,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4947,8 +4942,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 88.7,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -4969,9 +4964,9 @@
   "dla_afol": "Pozycja typowo rodzinna — kolekcjonersko nieistotna, choć nowe formy zwierząt DUPLO bywają ciekawostką.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 239.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -4979,8 +4974,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 239.0,
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -5020,9 +5015,9 @@
   "dla_afol": "Dla kolekcjonera głównie źródło minifigurek z animacji — konstrukcyjnie to pozycja czysto dziecięca.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 159.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5030,10 +5025,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 148.94,
-    "data": "2026-08-13",
-    "cena_regularna": 159.9
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5107,9 +5101,9 @@
   "dla_afol": "Dobre źródło tanich klocków bazowych — przy promocjach warto przeliczyć cenę za element.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 146.36,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5117,8 +5111,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 146.36,
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -5139,9 +5133,9 @@
   "dla_afol": "Świeża licencja Bluey to rynkowa ciekawostka — kolekcjonersko liczyć się mogą zwłaszcza debiutanckie figurki bohaterów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 104.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 70.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5149,8 +5143,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 70.99,
+    "sklep": "lego",
+    "cena": 104.99,
     "data": "2026-08-13"
    }
   ],
@@ -5189,14 +5183,14 @@
   "dla_afol": "232 elementy w tej półce cenowej to uczciwa propozycja, a postacie sezonu 4 dopiero wchodzą do obiegu.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 74.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5216,9 +5210,9 @@
   "dla_afol": "607 elementów i rzadziej spotykani przeciwnicy — solidna baza pod własne minecraftowe dioramy.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 264.88,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5226,8 +5220,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 264.88,
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -5248,9 +5242,9 @@
   "dla_afol": "Typowy sezonowy średniak bez kolekcjonerskich ambicji, za to z zapasem przezroczystych elementów wodnych.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 87.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5258,8 +5252,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 87.98,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -5280,9 +5274,9 @@
   "dla_afol": "Pozycja wyłącznie dziecięca, którą fani filmowych linii Disneya odnotują co najwyżej dla porządku.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 56.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5290,8 +5284,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 56.98,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -5312,9 +5306,9 @@
   "dla_afol": "Ciekawy może być jedynie wariant Ultrona z animowanej serii — reszta to klockowe minimum.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 56.98,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5322,8 +5316,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 56.98,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -5344,9 +5338,9 @@
   "dla_afol": "Nietypowa forma jednostki pływającej i ślubna sceneria wyróżniają go na tle powtarzalnych zamków linii Disney.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 210.33,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5354,8 +5348,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 210.33,
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -5394,9 +5388,9 @@
   "dla_afol": "602 elementy i nietuzinkowa paleta barw — dobra baza pod rozbudowę własnego parku rozrywki.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 249.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 177.0,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5404,8 +5398,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 177.0,
+    "sklep": "lego",
+    "cena": 249.99,
     "data": "2026-08-13"
    }
   ],
@@ -5426,9 +5420,9 @@
   "dla_afol": "Przyjemny mechanizm obrotu, a w duecie z młynem 42700 powstaje spójna mini-diorama wesołego miasteczka.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 169.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 129.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5436,10 +5430,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 119.56,
-    "data": "2026-08-13",
-    "cena_regularna": 129.9
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5459,9 +5452,9 @@
   "dla_afol": "Poza figurkami bohaterek to pozycja bez kolekcjonerskiego znaczenia.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 58.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5469,8 +5462,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 58.99,
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -5518,9 +5511,9 @@
   "dla_afol": "Wpisuje się w trend dużych, pozowalnych postaci Marvela i dobrze prezentuje się obok mechów oraz popiersi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 419.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 292.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5528,8 +5521,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 292.99,
+    "sklep": "lego",
+    "cena": 419.99,
     "data": "2026-08-13"
    }
   ],
@@ -5550,14 +5543,14 @@
   "dla_afol": "Głównym argumentem zakupowym będą filmowe minifigurki.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "planetaklockow",
     "cena": 369.99,
     "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 379.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5658,9 +5651,9 @@
   "dla_afol": "Pozycja typowo dziecięca, bez smaczków dla kolekcjonera.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 124.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 89.99,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5668,8 +5661,8 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 89.99,
+    "sklep": "lego",
+    "cena": 124.99,
     "data": "2026-08-13"
    }
   ],
@@ -5759,9 +5752,9 @@
   "dla_afol": "Z perspektywy kolekcjonera to jedynie licencyjna ciekawostka.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
+    "sklep": "mediaexpert",
+    "cena": 159.9,
+    "data": "2026-08-14"
    },
    {
     "sklep": "planetaklockow",
@@ -5769,10 +5762,9 @@
     "data": "2026-08-14"
    },
    {
-    "sklep": "mediaexpert",
-    "cena": 148.94,
-    "data": "2026-08-13",
-    "cena_regularna": 159.9
+    "sklep": "lego",
+    "cena": 209.99,
+    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
@@ -5849,13 +5841,13 @@
   "dla_afol": "Na klockowego Laprasa czekali wszyscy fani kieszonkowych potworów — to jedna z ciekawszych brył pierwszej fali.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 249.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 229.99,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 249.99,
     "data": "2026-08-13"
    }
   ],
@@ -5876,13 +5868,13 @@
   "dla_afol": "Legendarny Mewtwo w klockowej formie to kolekcjonerski pewniak pierwszej generacji zestawów.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 259.0,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -5903,13 +5895,13 @@
   "dla_afol": "Najbardziej ikoniczny model linii — można zakładać, że przed świętami będzie znikał z półek.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 299.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 239.0,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 299.99,
     "data": "2026-08-13"
    }
   ],
@@ -5930,13 +5922,13 @@
   "dla_afol": "Najtańsza droga do klockowego Charmandera i dobry punkt wejścia w linię przed większymi zakupami.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 81.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 74.89,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 81.99,
     "data": "2026-08-13"
    }
   ],
@@ -5975,13 +5967,13 @@
   "dla_afol": "Mikrocenowy wstęp do kolekcji — sama figurka Jigglypuff wystarcza za cały argument.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 61.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 54.99,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 61.99,
     "data": "2026-08-13"
    }
   ],
@@ -6002,13 +5994,13 @@
   "dla_afol": "Klockowy Gengar to jedna z najsmaczniejszych brył pierwszej fali — halloweenowa diorama sama się prosi.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 379.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 339.0,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 379.99,
     "data": "2026-08-13"
    }
   ],
@@ -6029,13 +6021,13 @@
   "dla_afol": "Charizard to święty Graal tej licencji, więc ten zestaw będzie punktem odniesienia dla całej serii.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 519.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 469.0,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 519.99,
     "data": "2026-08-13"
    }
   ],
@@ -6093,13 +6085,13 @@
   "dla_afol": "Umbreon ucieszy fanów eeveelucji, a Garchomp to zaskakująco odważny wybór do pierwszej fali.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 339.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 299.0,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 339.99,
     "data": "2026-08-13"
    }
   ],
@@ -6120,13 +6112,13 @@
   "dla_afol": "Mityczny Mew w zestawie ze średniej półki to sprytne posunięcie — nie trzeba kupować flagowca, by mieć legendę.",
   "oferty": [
    {
-    "sklep": "lego",
-    "cena": 209.99,
-    "data": "2026-08-13"
-   },
-   {
     "sklep": "mediaexpert",
     "cena": 189.99,
+    "data": "2026-08-14"
+   },
+   {
+    "sklep": "lego",
+    "cena": 209.99,
     "data": "2026-08-13"
    }
   ],
@@ -6154,7 +6146,7 @@
    {
     "sklep": "mediaexpert",
     "cena": 109.99,
-    "data": "2026-08-13"
+    "data": "2026-08-14"
    }
   ],
   "zdjecia": {
@@ -6174,6 +6166,11 @@
   "dla_afol": "Ciekawy przykład reinterpretacji klasyki przez linię SMART Play; puryści zostaną przy UCS, dzieci wybiorą ten model.",
   "oferty": [
    {
+    "sklep": "mediaexpert",
+    "cena": 339.99,
+    "data": "2026-08-14"
+   },
+   {
     "sklep": "lego",
     "cena": 419.99,
     "data": "2026-08-13"
@@ -6182,11 +6179,6 @@
     "sklep": "planetaklockow",
     "cena": 429.99,
     "data": "2026-08-14"
-   },
-   {
-    "sklep": "mediaexpert",
-    "cena": 339.99,
-    "data": "2026-08-13"
    }
   ],
   "zdjecia": {
