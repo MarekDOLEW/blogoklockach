@@ -39849,6 +39849,768 @@
  ],
  "Marvel": [
   {
+   "numer": "30162",
+   "nazwa": "Quinjet",
+   "rok": 2012,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30163",
+   "nazwa": "Thor and the Cosmic Cube",
+   "rok": 2012,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "30165",
+   "nazwa": "Hawkeye with equipment",
+   "rok": 2012,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "4529",
+   "nazwa": "Iron Man",
+   "rok": 2012,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "4530",
+   "nazwa": "Hulk",
+   "rok": 2012,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "4597",
+   "nazwa": "Captain America",
+   "rok": 2012,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "5000022",
+   "nazwa": "Hulk",
+   "rok": 2012,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "6865",
+   "nazwa": "Kapitan Ameryka i motor mściciela",
+   "rok": 2012,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "6866",
+   "nazwa": "Wolverine i ostateczna rozgrywka",
+   "rok": 2012,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "6867",
+   "nazwa": "Loki i ucieczka z kosmicznym sześcianem",
+   "rok": 2012,
+   "elementy": 181,
+   "status": "eol"
+  },
+  {
+   "numer": "6868",
+   "nazwa": "Hulk i ucieczka z Helicarriera",
+   "rok": 2012,
+   "elementy": 389,
+   "status": "eol"
+  },
+  {
+   "numer": "6869",
+   "nazwa": "Quinjet i powietrzne starcie",
+   "rok": 2012,
+   "elementy": 735,
+   "status": "eol"
+  },
+  {
+   "numer": "6873",
+   "nazwa": "Spider-Man i zasadzka Doc Ock",
+   "rok": 2012,
+   "elementy": 295,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON021",
+   "nazwa": "Phoenix (SDCC 2012 exclusive)",
+   "rok": 2012,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON023",
+   "nazwa": "Spider-Man in Black Symbiote Costume",
+   "rok": 2012,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "LCP2012",
+   "nazwa": "Iron Man & Captain America (2012 Collectors Preview)",
+   "rok": 2012,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "30167",
+   "nazwa": "Iron Man vs. Fighting Drone",
+   "rok": 2013,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "30168",
+   "nazwa": "Gun Mounting System",
+   "rok": 2013,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "76004",
+   "nazwa": "Spider-Man: Pościg",
+   "rok": 2013,
+   "elementy": 237,
+   "status": "eol"
+  },
+  {
+   "numer": "76005",
+   "nazwa": "Spider-Man: Codzienny pojedynek",
+   "rok": 2013,
+   "elementy": 476,
+   "status": "eol"
+  },
+  {
+   "numer": "76006",
+   "nazwa": "Iron Man: Bitwa o port Extremis",
+   "rok": 2013,
+   "elementy": 195,
+   "status": "eol"
+  },
+  {
+   "numer": "76007",
+   "nazwa": "Iron Man: Atak na posiadłość w Malibu",
+   "rok": 2013,
+   "elementy": 364,
+   "status": "eol"
+  },
+  {
+   "numer": "76008",
+   "nazwa": "Iron Man vs Mandarin: Ostatnie starcie",
+   "rok": 2013,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON027",
+   "nazwa": "Spider-Woman",
+   "rok": 2013,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON028",
+   "nazwa": "Spider-Man",
+   "rok": 2013,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "30302",
+   "nazwa": "Szybowiec Spider-Mana",
+   "rok": 2014,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "5002125",
+   "nazwa": "Electro",
+   "rok": 2014,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "5002145",
+   "nazwa": "Rocket Raccoon",
+   "rok": 2014,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "76014",
+   "nazwa": "Trójkołowiec Pająka kontra Electro",
+   "rok": 2014,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "76015",
+   "nazwa": "Doc Ock - napad ciężarówką",
+   "rok": 2014,
+   "elementy": 237,
+   "status": "eol"
+  },
+  {
+   "numer": "76016",
+   "nazwa": "Centrum ratunkowe Pająka",
+   "rok": 2014,
+   "elementy": 299,
+   "status": "eol"
+  },
+  {
+   "numer": "76017",
+   "nazwa": "Captain America kontra Hydra",
+   "rok": 2014,
+   "elementy": 172,
+   "status": "eol"
+  },
+  {
+   "numer": "76018",
+   "nazwa": "Zniszczenie laboratorium Hulka",
+   "rok": 2014,
+   "elementy": 398,
+   "status": "eol"
+  },
+  {
+   "numer": "76019",
+   "nazwa": "Kosmiczny Starblaster",
+   "rok": 2014,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "76020",
+   "nazwa": "Ucieczka z bazy Knowhere",
+   "rok": 2014,
+   "elementy": 433,
+   "status": "eol"
+  },
+  {
+   "numer": "76021",
+   "nazwa": "Statek kosmiczny Milano",
+   "rok": 2014,
+   "elementy": 665,
+   "status": "eol"
+  },
+  {
+   "numer": "76022",
+   "nazwa": "X-Men kontra Sentinel",
+   "rok": 2014,
+   "elementy": 336,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON034",
+   "nazwa": "Rocket Raccoon's Warbird",
+   "rok": 2014,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "COMCON035",
+   "nazwa": "The Collector",
+   "rok": 2014,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUSHIELD",
+   "nazwa": "Captain America's Shield",
+   "rok": 2014,
+   "elementy": 259,
+   "status": "eol"
+  },
+  {
+   "numer": "30304",
+   "nazwa": "Quinjet Avengersów",
+   "rok": 2015,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "30305",
+   "nazwa": "Super Jumper Spidermana",
+   "rok": 2015,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "5002943",
+   "nazwa": "Winter Soldier",
+   "rok": 2015,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5003084",
+   "nazwa": "The Hulk",
+   "rok": 2015,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "76029",
+   "nazwa": "Iron Man vs. Sub Ultron",
+   "rok": 2015,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "76030",
+   "nazwa": "Avengersi w pogoni za Hydrą",
+   "rok": 2015,
+   "elementy": 220,
+   "status": "eol"
+  },
+  {
+   "numer": "76031",
+   "nazwa": "Hulk Buster atakuje",
+   "rok": 2015,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "76032",
+   "nazwa": "Pościg Avengersów w Quinjecie",
+   "rok": 2015,
+   "elementy": 722,
+   "status": "eol"
+  },
+  {
+   "numer": "76036",
+   "nazwa": "Atak Carnage'a",
+   "rok": 2015,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "76037",
+   "nazwa": "Atak Rhino i Sandmana",
+   "rok": 2015,
+   "elementy": 386,
+   "status": "eol"
+  },
+  {
+   "numer": "76038",
+   "nazwa": "Atak na Wieżę Avengersów",
+   "rok": 2015,
+   "elementy": 515,
+   "status": "eol"
+  },
+  {
+   "numer": "76039",
+   "nazwa": "Ostateczne starcie Ant-Mana",
+   "rok": 2015,
+   "elementy": 195,
+   "status": "eol"
+  },
+  {
+   "numer": "76041",
+   "nazwa": "Demolka w fortecy Hydry",
+   "rok": 2015,
+   "elementy": 405,
+   "status": "eol"
+  },
+  {
+   "numer": "76042",
+   "nazwa": "Lotniskowiec SHIELD Helicarrier",
+   "rok": 2015,
+   "elementy": 2996,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2015",
+   "nazwa": "Throne of Ultron",
+   "rok": 2015,
+   "elementy": 203,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2015-4",
+   "nazwa": "All New Captain America (Sam Wilson)",
+   "rok": 2015,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "30447",
+   "nazwa": "Motocykl Kapitana Ameryki",
+   "rok": 2016,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "30448",
+   "nazwa": "Spiderman kontra symbiont Venom",
+   "rok": 2016,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "5002946",
+   "nazwa": "Silver Centurion",
+   "rok": 2016,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "76047",
+   "nazwa": "Pościg za Czarną Panterą",
+   "rok": 2016,
+   "elementy": 287,
+   "status": "eol"
+  },
+  {
+   "numer": "76048",
+   "nazwa": "Atak Żelaznej Czaszki",
+   "rok": 2016,
+   "elementy": 335,
+   "status": "eol"
+  },
+  {
+   "numer": "76049",
+   "nazwa": "Kosmiczna misja",
+   "rok": 2016,
+   "elementy": 523,
+   "status": "eol"
+  },
+  {
+   "numer": "76050",
+   "nazwa": "Pościg za Crossbonesem",
+   "rok": 2016,
+   "elementy": 179,
+   "status": "eol"
+  },
+  {
+   "numer": "76051",
+   "nazwa": "Starcie superbohaterów",
+   "rok": 2016,
+   "elementy": 807,
+   "status": "eol"
+  },
+  {
+   "numer": "76057",
+   "nazwa": "Spiderman: Pajęczy wojownik",
+   "rok": 2016,
+   "elementy": 1092,
+   "status": "eol"
+  },
+  {
+   "numer": "76058",
+   "nazwa": "Spiderman: Atak Upiornych Jeźdźców",
+   "rok": 2016,
+   "elementy": 217,
+   "status": "eol"
+  },
+  {
+   "numer": "76059",
+   "nazwa": "Spiderman: Pułapka z mackami Doc Ocka",
+   "rok": 2016,
+   "elementy": 446,
+   "status": "eol"
+  },
+  {
+   "numer": "76060",
+   "nazwa": "Sanctum Sanctorum doktora Strange'a",
+   "rok": 2016,
+   "elementy": 358,
+   "status": "eol"
+  },
+  {
+   "numer": "76064",
+   "nazwa": "Spiderman kontra Zielony Goblin",
+   "rok": 2016,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "76065",
+   "nazwa": "Kapitan Ameryka kontra Red Skull",
+   "rok": 2016,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "76066",
+   "nazwa": "Hulk kontra Ultron",
+   "rok": 2016,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "76067",
+   "nazwa": "Zatrzymanie cysterny",
+   "rok": 2016,
+   "elementy": 330,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2016",
+   "nazwa": "Steve Rogers Captain America",
+   "rok": 2016,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "30449",
+   "nazwa": "Milano",
+   "rok": 2017,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "30610",
+   "nazwa": "Giant-Man Hank Pym",
+   "rok": 2017,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "76071",
+   "nazwa": "Mighty Micros: Spider-Man kontra Skorpion",
+   "rok": 2017,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "76072",
+   "nazwa": "Mighty Micros: Iron Man kontra Thanos",
+   "rok": 2017,
+   "elementy": 94,
+   "status": "eol"
+  },
+  {
+   "numer": "76073",
+   "nazwa": "Mighty Micros: Wolverine kontra Magneto",
+   "rok": 2017,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "76076",
+   "nazwa": "Odrzutowiec Kapitana Ameryki",
+   "rok": 2017,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "76077",
+   "nazwa": "Iron Man: Detroit Steel atakuje",
+   "rok": 2017,
+   "elementy": 377,
+   "status": "eol"
+  },
+  {
+   "numer": "76078",
+   "nazwa": "Hulk kontra Czerwony Hulk",
+   "rok": 2017,
+   "elementy": 375,
+   "status": "eol"
+  },
+  {
+   "numer": "76079",
+   "nazwa": "Ravager Attack",
+   "rok": 2017,
+   "elementy": 197,
+   "status": "eol"
+  },
+  {
+   "numer": "76080",
+   "nazwa": "Zemsta Ayeshy",
+   "rok": 2017,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "76081",
+   "nazwa": "The Milano vs. The Abilisk",
+   "rok": 2017,
+   "elementy": 460,
+   "status": "eol"
+  },
+  {
+   "numer": "76082",
+   "nazwa": "Walka o bankomat",
+   "rok": 2017,
+   "elementy": 185,
+   "status": "eol"
+  },
+  {
+   "numer": "76083",
+   "nazwa": "Uwaga na Sępa",
+   "rok": 2017,
+   "elementy": 375,
+   "status": "eol"
+  },
+  {
+   "numer": "76084",
+   "nazwa": "Ostateczna bitwa o Asgard",
+   "rok": 2017,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "76088",
+   "nazwa": "Thor kontra Hulk starcie",
+   "rok": 2017,
+   "elementy": 492,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2017",
+   "nazwa": "Deadpool Duck",
+   "rok": 2017,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "30450",
+   "nazwa": "Royal Talon Fighter",
+   "rok": 2018,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30525",
+   "nazwa": "Statek Strażników",
+   "rok": 2018,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "5005256",
+   "nazwa": "Marvel Super Heroes Minifigure Collection",
+   "rok": 2018,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "6250093",
+   "nazwa": "Iron Man Mosaic",
+   "rok": 2018,
+   "elementy": 2305,
+   "status": "eol"
+  },
+  {
+   "numer": "75997",
+   "nazwa": "Ant-Man and the Wasp",
+   "rok": 2018,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "76089",
+   "nazwa": "Spider-Man vs. Sandman",
+   "rok": 2018,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "76090",
+   "nazwa": "Star-Lord vs. Nebula",
+   "rok": 2018,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "76091",
+   "nazwa": "Thor vs. Loki",
+   "rok": 2018,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "76099",
+   "nazwa": "Pojedynek z nosorożcem w pobliżu kopalni",
+   "rok": 2018,
+   "elementy": 229,
+   "status": "eol"
+  },
+  {
+   "numer": "76100",
+   "nazwa": "Atak myśliwca Royal Talon Fighter",
+   "rok": 2018,
+   "elementy": 358,
+   "status": "eol"
+  },
+  {
+   "numer": "76101",
+   "nazwa": "Atak statku Outriderów",
+   "rok": 2018,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "76102",
+   "nazwa": "Poszukiwanie broni Thora",
+   "rok": 2018,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "76103",
+   "nazwa": "Atak Corvusa Glaive'a",
+   "rok": 2018,
+   "elementy": 416,
+   "status": "eol"
+  },
+  {
+   "numer": "76104",
+   "nazwa": "Walka w Hulkbusterze",
+   "rok": 2018,
+   "elementy": 375,
+   "status": "eol"
+  },
+  {
+   "numer": "76105",
+   "nazwa": "The Hulkbuster: Ultron Edition",
+   "rok": 2018,
+   "elementy": 1363,
+   "status": "eol"
+  },
+  {
+   "numer": "76107",
+   "nazwa": "Thanos: ostateczna walka",
+   "rok": 2018,
+   "elementy": 674,
+   "status": "eol"
+  },
+  {
+   "numer": "76108",
+   "nazwa": "Starcie w Sanctum Sanctorum",
+   "rok": 2018,
+   "elementy": 1004,
+   "status": "eol"
+  },
+  {
+   "numer": "76109",
+   "nazwa": "Pojazd Ant-Mana",
+   "rok": 2018,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "IRONMAN",
+   "nazwa": "Iron Man Mosaic",
+   "rok": 2018,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2018",
+   "nazwa": "Sheriff Deadpool",
+   "rok": 2018,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
    "numer": "30451",
    "nazwa": "Pajęczy miniłazik Spider-Mana",
    "rok": 2019,
