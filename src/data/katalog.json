@@ -14,7 +14,8 @@
    "brickset.com (theme Creator)",
    "brickset.com (theme Friends)",
    "brickset.com (theme Duplo)",
-   "brickset.com (theme Ninjago)"
+   "brickset.com (theme Ninjago)",
+   "brickset.com (theme Marvel-Super-Heroes)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -39843,6 +39844,1975 @@
    "nazwa": "Nya and Grimfax",
    "rok": 2026,
    "elementy": 9,
+   "status": "eol"
+  }
+ ],
+ "Marvel": [
+  {
+   "numer": "30451",
+   "nazwa": "Pajęczy miniłazik Spider-Mana",
+   "rok": 2019,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "30452",
+   "nazwa": "Hulkbuster Iron",
+   "rok": 2019,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "40334",
+   "nazwa": "Wieża Avengersów",
+   "rok": 2019,
+   "elementy": 211,
+   "status": "eol"
+  },
+  {
+   "numer": "40343",
+   "nazwa": "Spider-Man i włamanie do muzeum",
+   "rok": 2019,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "76113",
+   "nazwa": "Pościg motocyklowy Spider-Mana",
+   "rok": 2019,
+   "elementy": 235,
+   "status": "eol"
+  },
+  {
+   "numer": "76114",
+   "nazwa": "Mechaniczny pająk Spider-Mana",
+   "rok": 2019,
+   "elementy": 418,
+   "status": "eol"
+  },
+  {
+   "numer": "76115",
+   "nazwa": "Pajęczy Mech kontra Venom",
+   "rok": 2019,
+   "elementy": 604,
+   "status": "eol"
+  },
+  {
+   "numer": "76123",
+   "nazwa": "Kapitan Ameryka: atak Outriderów",
+   "rok": 2019,
+   "elementy": 167,
+   "status": "eol"
+  },
+  {
+   "numer": "76124",
+   "nazwa": "Pogromca War Machine",
+   "rok": 2019,
+   "elementy": 362,
+   "status": "eol"
+  },
+  {
+   "numer": "76125",
+   "nazwa": "Zbroje Iron Mana",
+   "rok": 2019,
+   "elementy": 524,
+   "status": "eol"
+  },
+  {
+   "numer": "76126",
+   "nazwa": "Wspaniały Quinjet Avengers",
+   "rok": 2019,
+   "elementy": 838,
+   "status": "eol"
+  },
+  {
+   "numer": "76127",
+   "nazwa": "Kapitan Marvel i atak Skrullów",
+   "rok": 2019,
+   "elementy": 307,
+   "status": "eol"
+  },
+  {
+   "numer": "76128",
+   "nazwa": "Bitwa z Molten Manem",
+   "rok": 2019,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "76129",
+   "nazwa": "Atak Hydro-Mana",
+   "rok": 2019,
+   "elementy": 471,
+   "status": "eol"
+  },
+  {
+   "numer": "76130",
+   "nazwa": "Odrzutowiec Starka i atak",
+   "rok": 2019,
+   "elementy": 504,
+   "status": "eol"
+  },
+  {
+   "numer": "76131",
+   "nazwa": "Bitwa w kwaterze Avengersów",
+   "rok": 2019,
+   "elementy": 699,
+   "status": "eol"
+  },
+  {
+   "numer": "76133",
+   "nazwa": "Pościg samochodowy Spider-Mana",
+   "rok": 2019,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "76134",
+   "nazwa": "Doktor Octopus - skok na diamenty",
+   "rok": 2019,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "76144",
+   "nazwa": "Avengers: Upadek helikoptera Hulka",
+   "rok": 2019,
+   "elementy": 482,
+   "status": "eol"
+  },
+  {
+   "numer": "77902",
+   "nazwa": "Captain Marvel and the Asis",
+   "rok": 2019,
+   "elementy": 271,
+   "status": "eol"
+  },
+  {
+   "numer": "CAPTAINMARVEL",
+   "nazwa": "Mini Captain Marvel Ship",
+   "rok": 2019,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "SDCC2019",
+   "nazwa": "PS4 Spider-Man",
+   "rok": 2019,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "STORMBREAKER",
+   "nazwa": "Stormbreaker",
+   "rok": 2019,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "242001",
+   "nazwa": "Spider-Man",
+   "rok": 2020,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "242002",
+   "nazwa": "Iron Man",
+   "rok": 2020,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "242003",
+   "nazwa": "Captain Marvel",
+   "rok": 2020,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "30453",
+   "nazwa": "Kapitan Marvel i Nick Fury",
+   "rok": 2020,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "40418",
+   "nazwa": "Falcon i Czarna Wdowa ruszają do ataku",
+   "rok": 2020,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "66635",
+   "nazwa": "Pakiet supermechów",
+   "rok": 2020,
+   "elementy": 452,
+   "status": "eol"
+  },
+  {
+   "numer": "76140",
+   "nazwa": "Mech Iron Mana",
+   "rok": 2020,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "76141",
+   "nazwa": "Mech Thanosa",
+   "rok": 2020,
+   "elementy": 152,
+   "status": "eol"
+  },
+  {
+   "numer": "76142",
+   "nazwa": "Avengers: Walka na motocyklu",
+   "rok": 2020,
+   "elementy": 226,
+   "status": "eol"
+  },
+  {
+   "numer": "76143",
+   "nazwa": "Avengers: Zatrzymanie ciężarówki",
+   "rok": 2020,
+   "elementy": 477,
+   "status": "eol"
+  },
+  {
+   "numer": "76146",
+   "nazwa": "Super Mech Spider-Mana",
+   "rok": 2020,
+   "elementy": 152,
+   "status": "eol"
+  },
+  {
+   "numer": "76147",
+   "nazwa": "Napad Sępa na furgonetkę",
+   "rok": 2020,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "76148",
+   "nazwa": "Spider-Man kontra Doc Ock",
+   "rok": 2020,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "76149",
+   "nazwa": "Groźny Mysterio",
+   "rok": 2020,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "76150",
+   "nazwa": "Pajęczy odrzutowiec kontra mech Venoma",
+   "rok": 2020,
+   "elementy": 371,
+   "status": "eol"
+  },
+  {
+   "numer": "76151",
+   "nazwa": "Starcie z Venomozaurem",
+   "rok": 2020,
+   "elementy": 640,
+   "status": "eol"
+  },
+  {
+   "numer": "76152",
+   "nazwa": "Avengers Avengersi - gniew Lokiego",
+   "rok": 2020,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "76153",
+   "nazwa": "Avengers Lotniskowiec",
+   "rok": 2020,
+   "elementy": 1244,
+   "status": "eol"
+  },
+  {
+   "numer": "76162",
+   "nazwa": "Czarna Wdowa i pościg helikopterem",
+   "rok": 2020,
+   "elementy": 271,
+   "status": "eol"
+  },
+  {
+   "numer": "76163",
+   "nazwa": "Pełzacz Venoma",
+   "rok": 2020,
+   "elementy": 413,
+   "status": "eol"
+  },
+  {
+   "numer": "76164",
+   "nazwa": "Hulkbuster Iron Mana kontra agenci A.I.M.",
+   "rok": 2020,
+   "elementy": 456,
+   "status": "eol"
+  },
+  {
+   "numer": "76165",
+   "nazwa": "Hełm Iron Mana",
+   "rok": 2020,
+   "elementy": 480,
+   "status": "eol"
+  },
+  {
+   "numer": "76166",
+   "nazwa": "Walka o Wieżę Avengersów",
+   "rok": 2020,
+   "elementy": 685,
+   "status": "eol"
+  },
+  {
+   "numer": "76167",
+   "nazwa": "Zbrojownia Iron Mana",
+   "rok": 2020,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "77905",
+   "nazwa": "Zasadzka Taskmastera",
+   "rok": 2020,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "SMMM",
+   "nazwa": "Classic Suit Miles Morales",
+   "rok": 2020,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "242104",
+   "nazwa": "Venom",
+   "rok": 2021,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "242105",
+   "nazwa": "Thor",
+   "rok": 2021,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "242106",
+   "nazwa": "Captain America",
+   "rok": 2021,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "242107",
+   "nazwa": "War Machine",
+   "rok": 2021,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "242108",
+   "nazwa": "Iron Spider",
+   "rok": 2021,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "242109",
+   "nazwa": "Black Widow",
+   "rok": 2021,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "30454",
+   "nazwa": "Shang-Chi i Wielki Obrońca",
+   "rok": 2021,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "40454",
+   "nazwa": "Spider-Man kontra Venom i Iron Venom",
+   "rok": 2021,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "66671",
+   "nazwa": "Kolekcja pancerzy Mechów",
+   "rok": 2021,
+   "elementy": 385,
+   "status": "eol"
+  },
+  {
+   "numer": "76145",
+   "nazwa": "Eternals - atak powietrzny",
+   "rok": 2021,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "76154",
+   "nazwa": "Zasadzka Dewiantów!",
+   "rok": 2021,
+   "elementy": 197,
+   "status": "eol"
+  },
+  {
+   "numer": "76155",
+   "nazwa": "W cieniu Arishem",
+   "rok": 2021,
+   "elementy": 493,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76156",
+   "nazwa": "Domo powstaje",
+   "rok": 2021,
+   "elementy": 1040,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76168",
+   "nazwa": "Opancerzony mech Kapitana Ameryki",
+   "rok": 2021,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "76169",
+   "nazwa": "Opancerzony mech Thora",
+   "rok": 2021,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "76170",
+   "nazwa": "Iron Man kontra Thanos",
+   "rok": 2021,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "76171",
+   "nazwa": "Opancerzony mech Milesa Moralesa",
+   "rok": 2021,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "76172",
+   "nazwa": "Pojedynek Spider-Mana z Sandmanem",
+   "rok": 2021,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "76173",
+   "nazwa": "Spider-Man i Upiorny Jeździec kontra Carnage",
+   "rok": 2021,
+   "elementy": 212,
+   "status": "eol"
+  },
+  {
+   "numer": "76174",
+   "nazwa": "Monster truck Spider-Mana kontra Mysterio",
+   "rok": 2021,
+   "elementy": 439,
+   "status": "eol"
+  },
+  {
+   "numer": "76175",
+   "nazwa": "Atak na kryjówkę Spider-Mana",
+   "rok": 2021,
+   "elementy": 466,
+   "status": "eol"
+  },
+  {
+   "numer": "76176",
+   "nazwa": "Ucieczka przed Dziesięcioma Pierścieniami",
+   "rok": 2021,
+   "elementy": 321,
+   "status": "eol"
+  },
+  {
+   "numer": "76177",
+   "nazwa": "Bitwa w Starożytnej Wiosce",
+   "rok": 2021,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "76178",
+   "nazwa": "Daily Bugle",
+   "rok": 2021,
+   "elementy": 3772,
+   "status": "eol"
+  },
+  {
+   "numer": "76184",
+   "nazwa": "Spider-Man kontra Mysterio",
+   "rok": 2021,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "76185",
+   "nazwa": "Spider-Man w warsztacie w Sanctum",
+   "rok": 2021,
+   "elementy": 355,
+   "status": "eol"
+  },
+  {
+   "numer": "76186",
+   "nazwa": "Helikopter Czarnej Pantery",
+   "rok": 2021,
+   "elementy": 202,
+   "status": "eol"
+  },
+  {
+   "numer": "76187",
+   "nazwa": "Venom",
+   "rok": 2021,
+   "elementy": 565,
+   "status": "eol"
+  },
+  {
+   "numer": "76189",
+   "nazwa": "Kapitan Ameryka i pojedynek z Hydrą",
+   "rok": 2021,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "76190",
+   "nazwa": "Iron Man: zadyma z Iron Mongerem",
+   "rok": 2021,
+   "elementy": 479,
+   "status": "eol"
+  },
+  {
+   "numer": "76191",
+   "nazwa": "Rękawica Nieskończoności",
+   "rok": 2021,
+   "elementy": 590,
+   "status": "eol"
+  },
+  {
+   "numer": "76192",
+   "nazwa": "Avengers: Koniec gry - ostateczna bitwa",
+   "rok": 2021,
+   "elementy": 527,
+   "status": "eol"
+  },
+  {
+   "numer": "76193",
+   "nazwa": "Statek Strażników",
+   "rok": 2021,
+   "elementy": 1901,
+   "status": "eol"
+  },
+  {
+   "numer": "76194",
+   "nazwa": "Sakaariański Iron Man Tony'ego Starka",
+   "rok": 2021,
+   "elementy": 369,
+   "status": "eol"
+  },
+  {
+   "numer": "76195",
+   "nazwa": "Bojowy dron Spide",
+   "rok": 2021,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "76196",
+   "nazwa": "Kalendarz adwentowy 2021",
+   "rok": 2021,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "76198",
+   "nazwa": "Bitwa mechów Spider-Mana i Doktora Octopusa",
+   "rok": 2021,
+   "elementy": 305,
+   "status": "eol"
+  },
+  {
+   "numer": "76199",
+   "nazwa": "Carnage",
+   "rok": 2021,
+   "elementy": 546,
+   "status": "eol"
+  },
+  {
+   "numer": "76200",
+   "nazwa": "Nowy Asgard Grubego Thora",
+   "rok": 2021,
+   "elementy": 265,
+   "status": "eol"
+  },
+  {
+   "numer": "76201",
+   "nazwa": "Kapitan Carter i Niszczyciel Hydry",
+   "rok": 2021,
+   "elementy": 343,
+   "status": "eol"
+  },
+  {
+   "numer": "76237",
+   "nazwa": "Sanktuarium II: bitwa z Końca gry",
+   "rok": 2021,
+   "elementy": 322,
+   "status": "eol"
+  },
+  {
+   "numer": "10781",
+   "nazwa": "Miles Morales: Technotrójkołowiec Spider-Mana",
+   "rok": 2022,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10782",
+   "nazwa": "Hulk kontra Rhino — starcie pojazdów",
+   "rok": 2022,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "10783",
+   "nazwa": "Spider-Man w laboratorium Doca Ocka",
+   "rok": 2022,
+   "elementy": 131,
+   "status": "eol"
+  },
+  {
+   "numer": "10784",
+   "nazwa": "Relaks w kryjówce Spider-Mana",
+   "rok": 2022,
+   "elementy": 155,
+   "status": "eol"
+  },
+  {
+   "numer": "242210",
+   "nazwa": "Iron Man",
+   "rok": 2022,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "242211",
+   "nazwa": "Loki",
+   "rok": 2022,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "242212",
+   "nazwa": "Captain America",
+   "rok": 2022,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "242213",
+   "nazwa": "War Machine",
+   "rok": 2022,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "242214",
+   "nazwa": "Spider-Man",
+   "rok": 2022,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "242215",
+   "nazwa": "Thanos",
+   "rok": 2022,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "242216",
+   "nazwa": "Carnage",
+   "rok": 2022,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "242217",
+   "nazwa": "Rescue and Drone",
+   "rok": 2022,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "30443",
+   "nazwa": "Spider-Man pojedynek na moście",
+   "rok": 2022,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "40525",
+   "nazwa": "Bitwa z Końca gry",
+   "rok": 2022,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "66711",
+   "nazwa": "Saga Infinity - kolekcja",
+   "rok": 2022,
+   "elementy": 972,
+   "status": "eol"
+  },
+  {
+   "numer": "76202",
+   "nazwa": "Mechaniczna zbroja Wolverine'a",
+   "rok": 2022,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "76203",
+   "nazwa": "Mechaniczna zbroja Iron Mana",
+   "rok": 2022,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "76204",
+   "nazwa": "Mechaniczna zbroja Czarnej Pantery",
+   "rok": 2022,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "76205",
+   "nazwa": "Starcie z Gargantosem",
+   "rok": 2022,
+   "elementy": 264,
+   "status": "eol"
+  },
+  {
+   "numer": "76206",
+   "nazwa": "Figurka Iron Mana",
+   "rok": 2022,
+   "elementy": 381,
+   "status": "eol"
+  },
+  {
+   "numer": "76207",
+   "nazwa": "Atak na Nowy Asgard",
+   "rok": 2022,
+   "elementy": 159,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76208",
+   "nazwa": "Kozia łódź",
+   "rok": 2022,
+   "elementy": 564,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76209",
+   "nazwa": "Młot Thora",
+   "rok": 2022,
+   "elementy": 979,
+   "status": "eol"
+  },
+  {
+   "numer": "76210",
+   "nazwa": "Hulkbuster",
+   "rok": 2022,
+   "elementy": 4049,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76211",
+   "nazwa": "Statek Shuri",
+   "rok": 2022,
+   "elementy": 355,
+   "status": "eol"
+  },
+  {
+   "numer": "76212",
+   "nazwa": "Laboratorium Shuri",
+   "rok": 2022,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "76213",
+   "nazwa": "Sala tronowa króla Namora",
+   "rok": 2022,
+   "elementy": 355,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76214",
+   "nazwa": "Czarna Pantera: wojna na wodzie",
+   "rok": 2022,
+   "elementy": 545,
+   "status": "eol"
+  },
+  {
+   "numer": "76215",
+   "nazwa": "Czarna Pantera",
+   "rok": 2022,
+   "elementy": 2961,
+   "status": "eol"
+  },
+  {
+   "numer": "76216",
+   "nazwa": "Zbrojownia Iron Mana",
+   "rok": 2022,
+   "elementy": 496,
+   "status": "eol"
+  },
+  {
+   "numer": "76217",
+   "nazwa": "Ja jestem Groot",
+   "rok": 2022,
+   "elementy": 476,
+   "status": "eol"
+  },
+  {
+   "numer": "76218",
+   "nazwa": "Sanctum Sanctorum",
+   "rok": 2022,
+   "elementy": 2708,
+   "status": "eol"
+  },
+  {
+   "numer": "76219",
+   "nazwa": "Avengers Movie 4 Bitwa mechów Spider-Mana i Zielonego Goblina",
+   "rok": 2022,
+   "elementy": 296,
+   "status": "eol"
+  },
+  {
+   "numer": "76223",
+   "nazwa": "Nanorękawica",
+   "rok": 2022,
+   "elementy": 675,
+   "status": "eol"
+  },
+  {
+   "numer": "76225",
+   "nazwa": "Figurka Milesa Moralesa",
+   "rok": 2022,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "76226",
+   "nazwa": "Figurka Spider-Mana",
+   "rok": 2022,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "76230",
+   "nazwa": "Figurka Venoma",
+   "rok": 2022,
+   "elementy": 297,
+   "status": "eol"
+  },
+  {
+   "numer": "76231",
+   "nazwa": "Kalendarz adwentowy ze Strażnikami Galaktyki 2022",
+   "rok": 2022,
+   "elementy": 268,
+   "status": "dostepny"
+  },
+  {
+   "numer": "TRUSPIDERMAN",
+   "nazwa": "Spider-Man",
+   "rok": 2022,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "10789",
+   "nazwa": "Samochód Spider-Mana i Doc Ock",
+   "rok": 2023,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "10790",
+   "nazwa": "Drużyna Spider-Mana w latarni Zielonego Goblina",
+   "rok": 2023,
+   "elementy": 149,
+   "status": "eol"
+  },
+  {
+   "numer": "10791",
+   "nazwa": "Mobilna kwatera drużyny Spider-Mana",
+   "rok": 2023,
+   "elementy": 187,
+   "status": "eol"
+  },
+  {
+   "numer": "242316",
+   "nazwa": "Black Panther with Jet",
+   "rok": 2023,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "242317",
+   "nazwa": "Doctor Strange",
+   "rok": 2023,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "242318",
+   "nazwa": "Mighty Thor",
+   "rok": 2023,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "242319",
+   "nazwa": "Groot",
+   "rok": 2023,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "242320",
+   "nazwa": "Iron Man",
+   "rok": 2023,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "242321",
+   "nazwa": "Captain Marvel",
+   "rok": 2023,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "30652",
+   "nazwa": "Doktor Strange - portal międzywymiarowy",
+   "rok": 2023,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "5008076",
+   "nazwa": "LEGO Marvel Taxi",
+   "rok": 2023,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "6487483",
+   "nazwa": "Taxi",
+   "rok": 2023,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "682303",
+   "nazwa": "Miles Morales",
+   "rok": 2023,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "682304",
+   "nazwa": "Green Goblin",
+   "rok": 2023,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "682305",
+   "nazwa": "Venom",
+   "rok": 2023,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "682306",
+   "nazwa": "Spider-Man",
+   "rok": 2023,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "76232",
+   "nazwa": "Gracik",
+   "rok": 2023,
+   "elementy": 420,
+   "status": "eol"
+  },
+  {
+   "numer": "76241",
+   "nazwa": "Mechaniczna zbroja Hulka",
+   "rok": 2023,
+   "elementy": 138,
+   "status": "eol"
+  },
+  {
+   "numer": "76242",
+   "nazwa": "Mechaniczna zbroja Thanosa",
+   "rok": 2023,
+   "elementy": 113,
+   "status": "eol"
+  },
+  {
+   "numer": "76243",
+   "nazwa": "Mechaniczna zbroja Rocketa",
+   "rok": 2023,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "76244",
+   "nazwa": "Miles Morales kontra Morbius",
+   "rok": 2023,
+   "elementy": 220,
+   "status": "eol"
+  },
+  {
+   "numer": "76245",
+   "nazwa": "Upiorny Jeździec - mech i motor",
+   "rok": 2023,
+   "elementy": 264,
+   "status": "eol"
+  },
+  {
+   "numer": "76247",
+   "nazwa": "Hulkbuster: bitwa o Wakandę",
+   "rok": 2023,
+   "elementy": 385,
+   "status": "eol"
+  },
+  {
+   "numer": "76248",
+   "nazwa": "Quinjet Avengersów",
+   "rok": 2023,
+   "elementy": 795,
+   "status": "eol"
+  },
+  {
+   "numer": "76249",
+   "nazwa": "Groot jako Venom",
+   "rok": 2023,
+   "elementy": 630,
+   "status": "eol"
+  },
+  {
+   "numer": "76250",
+   "nazwa": "Rękawica Wolverine’a",
+   "rok": 2023,
+   "elementy": 596,
+   "status": "eol"
+  },
+  {
+   "numer": "76251",
+   "nazwa": "Hełm Star-Lorda",
+   "rok": 2023,
+   "elementy": 602,
+   "status": "eol"
+  },
+  {
+   "numer": "76253",
+   "nazwa": "Kwatera Strażników Galaktyki",
+   "rok": 2023,
+   "elementy": 67,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76254",
+   "nazwa": "Statek kosmiczny małego Rocketa",
+   "rok": 2023,
+   "elementy": 330,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76255",
+   "nazwa": "Nowy statek Strażników",
+   "rok": 2023,
+   "elementy": 1108,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76256",
+   "nazwa": "Figurka Ant-Mana do zbudowania",
+   "rok": 2023,
+   "elementy": 289,
+   "status": "eol"
+  },
+  {
+   "numer": "76257",
+   "nazwa": "Figurka Wolverine’a do zbudowania",
+   "rok": 2023,
+   "elementy": 327,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76258",
+   "nazwa": "Figurka Kapitana Ameryki do zbudowania",
+   "rok": 2023,
+   "elementy": 310,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76260",
+   "nazwa": "Motocykle Czarnej Wdowy i Kapitana Ameryki",
+   "rok": 2023,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "76261",
+   "nazwa": "Ostateczne starcie Spider-Mana",
+   "rok": 2023,
+   "elementy": 900,
+   "status": "eol"
+  },
+  {
+   "numer": "76262",
+   "nazwa": "Tarcza Kapitana Ameryki",
+   "rok": 2023,
+   "elementy": 3128,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76263",
+   "nazwa": "Hulkbuster Iron Mana vs. Thanos",
+   "rok": 2023,
+   "elementy": 66,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76266",
+   "nazwa": "Koniec gry - ostateczna bitwa",
+   "rok": 2023,
+   "elementy": 794,
+   "status": "eol"
+  },
+  {
+   "numer": "76267",
+   "nazwa": "Avengers Kalendarz adwentowy 2023",
+   "rok": 2023,
+   "elementy": 243,
+   "status": "eol"
+  },
+  {
+   "numer": "76269",
+   "nazwa": "Wieża Avengersów",
+   "rok": 2023,
+   "elementy": 5201,
+   "status": "eol"
+  },
+  {
+   "numer": "10792",
+   "nazwa": "Spidey Pojazd wiertłowy",
+   "rok": 2024,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "10793",
+   "nazwa": "Kontra Zielony Goblin",
+   "rok": 2024,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "10794",
+   "nazwa": "Spidey Siedziba główna Pajęczej Drużyny",
+   "rok": 2024,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "242401",
+   "nazwa": "War Machine",
+   "rok": 2024,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "242402",
+   "nazwa": "Star-Lord",
+   "rok": 2024,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "242403",
+   "nazwa": "Thor",
+   "rok": 2024,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "242404",
+   "nazwa": "Rocket Raccoon",
+   "rok": 2024,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "242405",
+   "nazwa": "Loki",
+   "rok": 2024,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "242406",
+   "nazwa": "Iron Man",
+   "rok": 2024,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "30679",
+   "nazwa": "Motocykl Venoma",
+   "rok": 2024,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "5009015",
+   "nazwa": "Cerebro",
+   "rok": 2024,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "6538220",
+   "nazwa": "Sandman Attacks",
+   "rok": 2024,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "66785",
+   "nazwa": "Uniwersum Marvela - zestaw prezentowy",
+   "rok": 2024,
+   "elementy": 288,
+   "status": "eol"
+  },
+  {
+   "numer": "682401",
+   "nazwa": "Doc Ock",
+   "rok": 2024,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "682402",
+   "nazwa": "Miles Morales",
+   "rok": 2024,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "682403",
+   "nazwa": "Mysterio",
+   "rok": 2024,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "682404",
+   "nazwa": "Spider-Man with Spider-Crawler",
+   "rok": 2024,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "682405",
+   "nazwa": "Ghost-Spider",
+   "rok": 2024,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "682406",
+   "nazwa": "Venomised Green Goblin",
+   "rok": 2024,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "76275",
+   "nazwa": "Dock Ock i Venom",
+   "rok": 2024,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "76276",
+   "nazwa": "Mech Venoma",
+   "rok": 2024,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "76277",
+   "nazwa": "Mech War Machine’a",
+   "rok": 2024,
+   "elementy": 154,
+   "status": "eol"
+  },
+  {
+   "numer": "76278",
+   "nazwa": "Warbird Rocketa",
+   "rok": 2024,
+   "elementy": 290,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76279",
+   "nazwa": "Auto Spider-mana",
+   "rok": 2024,
+   "elementy": 227,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76280",
+   "nazwa": "Spider-Man vs. Sandman: ostateczna bitwa",
+   "rok": 2024,
+   "elementy": 347,
+   "status": "eol"
+  },
+  {
+   "numer": "76281",
+   "nazwa": "Odrzutowiec X-men",
+   "rok": 2024,
+   "elementy": 359,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76282",
+   "nazwa": "Figurka Rocketa do zbudowania",
+   "rok": 2024,
+   "elementy": 566,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76284",
+   "nazwa": "Figurka Zielonego Goblina",
+   "rok": 2024,
+   "elementy": 471,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76285",
+   "nazwa": "Maska Spider-Mana",
+   "rok": 2024,
+   "elementy": 487,
+   "status": "eol"
+  },
+  {
+   "numer": "76286",
+   "nazwa": "Strażnicy Galaktyki: statek kosmiczny Milano",
+   "rok": 2024,
+   "elementy": 2090,
+   "status": "eol"
+  },
+  {
+   "numer": "76287",
+   "nazwa": "Iron Man z motocyklem i Hulk",
+   "rok": 2024,
+   "elementy": 68,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76288",
+   "nazwa": "Iron Man i Iron Legion kontra żołnierz Hydry",
+   "rok": 2024,
+   "elementy": 135,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76289",
+   "nazwa": "Thor kontra figurka konstrukcyjna Surtura",
+   "rok": 2024,
+   "elementy": 245,
+   "status": "eol"
+  },
+  {
+   "numer": "76290",
+   "nazwa": "Avengers kontra Lewiatan",
+   "rok": 2024,
+   "elementy": 347,
+   "status": "eol"
+  },
+  {
+   "numer": "76291",
+   "nazwa": "Avengers: Czas Ultrona",
+   "rok": 2024,
+   "elementy": 613,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76292",
+   "nazwa": "Kapitan Ameryka kontra Czerwony Hulk - bitwa",
+   "rok": 2024,
+   "elementy": 223,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76293",
+   "nazwa": "Spider-Man Kalendarz adwentowy 2024",
+   "rok": 2024,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "76294",
+   "nazwa": "X-Men: Instytut Xaviera",
+   "rok": 2024,
+   "elementy": 3093,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76295",
+   "nazwa": "Lotniskowiec Avengersów",
+   "rok": 2024,
+   "elementy": 509,
+   "status": "eol"
+  },
+  {
+   "numer": "76296",
+   "nazwa": "Figurka nowego Kapitana Ameryki",
+   "rok": 2024,
+   "elementy": 359,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76297",
+   "nazwa": "Tańczący Groot",
+   "rok": 2024,
+   "elementy": 459,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76298",
+   "nazwa": "Figurka Iron Spider-Mana",
+   "rok": 2024,
+   "elementy": 303,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11198",
+   "nazwa": "Spider-Man Pościg Spina za Electro w dinopojeździe",
+   "rok": 2025,
+   "elementy": 124,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11199",
+   "nazwa": "Misja ratunkowa zespołu ’ego w dinoterenówce",
+   "rok": 2025,
+   "elementy": 136,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11200",
+   "nazwa": "Spider-Man Bitwa Spidey’ego i Gobby’ego przy domku na drzewie",
+   "rok": 2025,
+   "elementy": 143,
+   "status": "dostepny"
+  },
+  {
+   "numer": "242501",
+   "nazwa": "Iron Legion",
+   "rok": 2025,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "242502",
+   "nazwa": "War Machine",
+   "rok": 2025,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "242503",
+   "nazwa": "Captain America",
+   "rok": 2025,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "242504",
+   "nazwa": "Thor",
+   "rok": 2025,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "242505",
+   "nazwa": "Black Widow",
+   "rok": 2025,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "242506",
+   "nazwa": "Captain America",
+   "rok": 2025,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "30707",
+   "nazwa": "Napad Venoma na muzeum",
+   "rok": 2025,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "682501",
+   "nazwa": "Venom",
+   "rok": 2025,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "682502",
+   "nazwa": "Venomised Doc Ock",
+   "rok": 2025,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "682503",
+   "nazwa": "Miles Morales with Pizza",
+   "rok": 2025,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "682504",
+   "nazwa": "Spider-Man with Street Light",
+   "rok": 2025,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "682505",
+   "nazwa": "Green Goblin",
+   "rok": 2025,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "682506",
+   "nazwa": "Ghost-Spider",
+   "rok": 2025,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "76307",
+   "nazwa": "Mech Iron Mana kontra Ultron",
+   "rok": 2025,
+   "elementy": 101,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76308",
+   "nazwa": "Mech Spider-mana kontra Anti-Venom",
+   "rok": 2025,
+   "elementy": 107,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76309",
+   "nazwa": "Spider-Man kontra muscle car Venoma",
+   "rok": 2025,
+   "elementy": 254,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76310",
+   "nazwa": "Auto Iron Mana i Czarna Pantera kontra Czerwony Hulk",
+   "rok": 2025,
+   "elementy": 295,
+   "status": "eol"
+  },
+  {
+   "numer": "76311",
+   "nazwa": "Multiwersum: Miles Morales kontra Spot",
+   "rok": 2025,
+   "elementy": 375,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76312",
+   "nazwa": "Monster truck Hulka kontra Thanos",
+   "rok": 2025,
+   "elementy": 229,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76313",
+   "nazwa": "Logo z minifigurkami",
+   "rok": 2025,
+   "elementy": 931,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76314",
+   "nazwa": "Kapitan Ameryka: Wojna bohaterów - bitwa",
+   "rok": 2025,
+   "elementy": 736,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76315",
+   "nazwa": "Laboratorium Iron Mana: Zbrojownia",
+   "rok": 2025,
+   "elementy": 384,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76316",
+   "nazwa": "Figurka Fantastycznej Czwórki kontra Galactus",
+   "rok": 2025,
+   "elementy": 427,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76317",
+   "nazwa": "Mieszkanie Petera Parkera",
+   "rok": 2025,
+   "elementy": 394,
+   "status": "eol"
+  },
+  {
+   "numer": "76319",
+   "nazwa": "Kapitan Ameryka kontra Thanos",
+   "rok": 2025,
+   "elementy": 107,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76320",
+   "nazwa": "Iron Man i War Machine kontra drony Hammera",
+   "rok": 2025,
+   "elementy": 204,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76321",
+   "nazwa": "Spider-Man kontra Doc Ock — scena w metrze",
+   "rok": 2025,
+   "elementy": 393,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76322",
+   "nazwa": "Avengers: Koniec gry Thor kontra Chitauri",
+   "rok": 2025,
+   "elementy": 373,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76323",
+   "nazwa": "Avengers: Koniec gry — ostateczna bitwa",
+   "rok": 2025,
+   "elementy": 621,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76324",
+   "nazwa": "Spider-Man i Oscorp",
+   "rok": 2025,
+   "elementy": 808,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76325",
+   "nazwa": "Avengers: Czas Ultrona — Quinjet",
+   "rok": 2025,
+   "elementy": 1131,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76326",
+   "nazwa": "Popiersie Iron Spider-Mana",
+   "rok": 2025,
+   "elementy": 379,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76327",
+   "nazwa": "Popiersie Iron Mana MK4",
+   "rok": 2025,
+   "elementy": 436,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76329",
+   "nazwa": "Maska Milesa Moralesa",
+   "rok": 2025,
+   "elementy": 487,
+   "status": "eol"
+  },
+  {
+   "numer": "11206",
+   "nazwa": "Spidey na motocyklu kontra Rhino",
+   "rok": 2026,
+   "elementy": 61,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11207",
+   "nazwa": "Spidey: podwodne pojazdy",
+   "rok": 2026,
+   "elementy": 154,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11208",
+   "nazwa": "Statek piracki drużyny Spidey’ego",
+   "rok": 2026,
+   "elementy": 201,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11209",
+   "nazwa": "Ultron kontra Iron Man",
+   "rok": 2026,
+   "elementy": 96,
+   "status": "dostepny"
+  },
+  {
+   "numer": "11211",
+   "nazwa": "Loki kontra drużyna Iron Mana",
+   "rok": 2026,
+   "elementy": 204,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30725",
+   "nazwa": "Spider-Man vs. Anti-Venom - Napad",
+   "rok": 2026,
+   "elementy": 31,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76334",
+   "nazwa": "Epicka bitwa: Spider-Man kontra Sandman",
+   "rok": 2026,
+   "elementy": 201,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76335",
+   "nazwa": "Spider-Man kontra Ghost Rider na motocyklu",
+   "rok": 2026,
+   "elementy": 72,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76336",
+   "nazwa": "Spider-Man w samochodzie kontra zvenomowany Wolverine",
+   "rok": 2026,
+   "elementy": 134,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76337",
+   "nazwa": "Miles Morales kontra Spider-Man 2099",
+   "rok": 2026,
+   "elementy": 135,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76338",
+   "nazwa": "Bitwa mechów: Spider-Man kontra Doc Ock",
+   "rok": 2026,
+   "elementy": 315,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76339",
+   "nazwa": "Fantastyczna Czwórka H.E.R.B.I.E.",
+   "rok": 2026,
+   "elementy": 747,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76340",
+   "nazwa": "Kalendarz adwentowy na 2026 rok",
+   "rok": 2026,
+   "elementy": 317,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76341",
+   "nazwa": "Groot w stroju Ravagera",
+   "rok": 2026,
+   "elementy": 604,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76342",
+   "nazwa": "Spider-Man kontra Mysterio: Daily Bugle",
+   "rok": 2026,
+   "elementy": 781,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76343",
+   "nazwa": "Epicka bitwa: Hulkbuster kontra Hulk",
+   "rok": 2026,
+   "elementy": 413,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76344",
+   "nazwa": "Iron Man Mark 3 - edycja kolekcjonerska",
+   "rok": 2026,
+   "elementy": 1297,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76345",
+   "nazwa": "Popiersie Doktora Dooma",
+   "rok": 2026,
+   "elementy": 379,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76346",
+   "nazwa": "Figurka Spider-Mana",
+   "rok": 2026,
+   "elementy": 813,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76347",
+   "nazwa": "Avengers: Doomsday Quinjet",
+   "rok": 2026,
+   "elementy": 433,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76348",
+   "nazwa": "Epicka bitwa: Avengers: Doomsday",
+   "rok": 2026,
+   "elementy": 846,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76349",
+   "nazwa": "Pościg Spider-Mana za więźniarką",
+   "rok": 2026,
+   "elementy": 367,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76350",
+   "nazwa": "Epickie starcie: Spider-Man kontra Hulk",
+   "rok": 2026,
+   "elementy": 534,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76352",
+   "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
+   "rok": 2026,
+   "elementy": 954,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76354",
+   "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
+   "rok": 2026,
+   "elementy": 3057,
+   "status": "dostepny"
+  },
+  {
+   "numer": "76356",
+   "nazwa": "Popiersie Venoma",
+   "rok": 2026,
+   "elementy": 413,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002276",
+   "nazwa": "Black Panther",
+   "rok": 2026,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002277",
+   "nazwa": "Iron Man",
+   "rok": 2026,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002278",
+   "nazwa": "Hulk vs. Red Hulk",
+   "rok": 2026,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002282",
+   "nazwa": "Venom with Mech",
+   "rok": 2026,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002283",
+   "nazwa": "Spider-Man with Spider-Crawler",
+   "rok": 2026,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002284",
+   "nazwa": "Anti-Venom",
+   "rok": 2026,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "L0002285",
+   "nazwa": "Spider-Man",
+   "rok": 2026,
+   "elementy": 7,
    "status": "eol"
   }
  ]
