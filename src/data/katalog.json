@@ -19680,6 +19680,1028 @@
  ],
  "Creator": [
   {
+   "numer": "20014",
+   "nazwa": "4x4 Dynamo",
+   "rok": 2010,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "20015",
+   "nazwa": "Crocodile",
+   "rok": 2010,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "30020",
+   "nazwa": "Jet",
+   "rok": 2010,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "30021",
+   "nazwa": "Parrot",
+   "rok": 2010,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "5864",
+   "nazwa": "Mały helikopter",
+   "rok": 2010,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "5865",
+   "nazwa": "Mała wywrotka",
+   "rok": 2010,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "5866",
+   "nazwa": "Helikopter ratunkowy",
+   "rok": 2010,
+   "elementy": 149,
+   "status": "eol"
+  },
+  {
+   "numer": "5867",
+   "nazwa": "Zdobywca szos",
+   "rok": 2010,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "5868",
+   "nazwa": "Dzikie stworzenia",
+   "rok": 2010,
+   "elementy": 416,
+   "status": "eol"
+  },
+  {
+   "numer": "5891",
+   "nazwa": "Miły domek rodzinny",
+   "rok": 2010,
+   "elementy": 539,
+   "status": "eol"
+  },
+  {
+   "numer": "5892",
+   "nazwa": "Grom dźwiękowy",
+   "rok": 2010,
+   "elementy": 539,
+   "status": "eol"
+  },
+  {
+   "numer": "5893",
+   "nazwa": "Terenowa moc",
+   "rok": 2010,
+   "elementy": 1061,
+   "status": "eol"
+  },
+  {
+   "numer": "30022",
+   "nazwa": "Bee",
+   "rok": 2011,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "30023",
+   "nazwa": "Lighthouse",
+   "rok": 2011,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "30024",
+   "nazwa": "Truck",
+   "rok": 2011,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "30025",
+   "nazwa": "Clown Fish",
+   "rok": 2011,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30026",
+   "nazwa": "Panda",
+   "rok": 2011,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "30027",
+   "nazwa": "Reindeer",
+   "rok": 2011,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "30028",
+   "nazwa": "Holiday Wreath",
+   "rok": 2011,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "30029",
+   "nazwa": "Pudsey Bear",
+   "rok": 2011,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "5761",
+   "nazwa": "Mała koparka",
+   "rok": 2011,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "5762",
+   "nazwa": "Mały samolot",
+   "rok": 2011,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "5763",
+   "nazwa": "Pustynny samochód terenowy",
+   "rok": 2011,
+   "elementy": 137,
+   "status": "eol"
+  },
+  {
+   "numer": "5764",
+   "nazwa": "Robot ratunkowy",
+   "rok": 2011,
+   "elementy": 149,
+   "status": "eol"
+  },
+  {
+   "numer": "5765",
+   "nazwa": "Ciężarówka transportowa",
+   "rok": 2011,
+   "elementy": 276,
+   "status": "eol"
+  },
+  {
+   "numer": "5766",
+   "nazwa": "Chata z bali",
+   "rok": 2011,
+   "elementy": 355,
+   "status": "eol"
+  },
+  {
+   "numer": "5767",
+   "nazwa": "Krążownik szos",
+   "rok": 2011,
+   "elementy": 621,
+   "status": "eol"
+  },
+  {
+   "numer": "5770",
+   "nazwa": "Wyspa z latarnią morską",
+   "rok": 2011,
+   "elementy": 518,
+   "status": "eol"
+  },
+  {
+   "numer": "5771",
+   "nazwa": "Dom na wzgórzu",
+   "rok": 2011,
+   "elementy": 714,
+   "status": "eol"
+  },
+  {
+   "numer": "30180",
+   "nazwa": "Aircraft",
+   "rok": 2012,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "30181",
+   "nazwa": "Helicopter",
+   "rok": 2012,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "30182",
+   "nazwa": "Santa",
+   "rok": 2012,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "40025",
+   "nazwa": "New York Taxi",
+   "rok": 2012,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "40026",
+   "nazwa": "Statue Of Liberty",
+   "rok": 2012,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "6910",
+   "nazwa": "Mały samochód",
+   "rok": 2012,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "6911",
+   "nazwa": "Mały wóz strażacki",
+   "rok": 2012,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "6912",
+   "nazwa": "Super ścigacz",
+   "rok": 2012,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "6913",
+   "nazwa": "Super samochód",
+   "rok": 2012,
+   "elementy": 152,
+   "status": "eol"
+  },
+  {
+   "numer": "6914",
+   "nazwa": "Prehistoryczni łowcy",
+   "rok": 2012,
+   "elementy": 191,
+   "status": "eol"
+  },
+  {
+   "numer": "7291",
+   "nazwa": "Motocykl",
+   "rok": 2012,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "7292",
+   "nazwa": "Śmigłowiec",
+   "rok": 2012,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "7345",
+   "nazwa": "Helikopter transportowy",
+   "rok": 2012,
+   "elementy": 383,
+   "status": "eol"
+  },
+  {
+   "numer": "7346",
+   "nazwa": "Dom nad morzem",
+   "rok": 2012,
+   "elementy": 415,
+   "status": "eol"
+  },
+  {
+   "numer": "7347",
+   "nazwa": "Transporter samochodów",
+   "rok": 2012,
+   "elementy": 805,
+   "status": "eol"
+  },
+  {
+   "numer": "30183",
+   "nazwa": "Samochodzik",
+   "rok": 2013,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "30184",
+   "nazwa": "Mały helikopter",
+   "rok": 2013,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "30185",
+   "nazwa": "Mały orzeł",
+   "rok": 2013,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "30186",
+   "nazwa": "Christmas Tree",
+   "rok": 2013,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "31000",
+   "nazwa": "Mini ścigacz",
+   "rok": 2013,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "31001",
+   "nazwa": "Mini szybowiec",
+   "rok": 2013,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "31002",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2013,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "31003",
+   "nazwa": "Czerwony śmigłowiec",
+   "rok": 2013,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "31004",
+   "nazwa": "Groźny władca przestworzy",
+   "rok": 2013,
+   "elementy": 166,
+   "status": "eol"
+  },
+  {
+   "numer": "31005",
+   "nazwa": "Transporter",
+   "rok": 2013,
+   "elementy": 256,
+   "status": "eol"
+  },
+  {
+   "numer": "31006",
+   "nazwa": "Zdobywcy autostrad",
+   "rok": 2013,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "31007",
+   "nazwa": "Super robot",
+   "rok": 2013,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "31008",
+   "nazwa": "Zdobywcy przestworzy",
+   "rok": 2013,
+   "elementy": 235,
+   "status": "eol"
+  },
+  {
+   "numer": "31009",
+   "nazwa": "Mały domek",
+   "rok": 2013,
+   "elementy": 271,
+   "status": "eol"
+  },
+  {
+   "numer": "31010",
+   "nazwa": "Domek na drzewie",
+   "rok": 2013,
+   "elementy": 356,
+   "status": "eol"
+  },
+  {
+   "numer": "31011",
+   "nazwa": "Lotnicze przygody",
+   "rok": 2013,
+   "elementy": 618,
+   "status": "eol"
+  },
+  {
+   "numer": "31012",
+   "nazwa": "Dom rodzinny",
+   "rok": 2013,
+   "elementy": 756,
+   "status": "eol"
+  },
+  {
+   "numer": "40073",
+   "nazwa": "Panda",
+   "rok": 2013,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "40078",
+   "nazwa": "Hot Dog Stand",
+   "rok": 2013,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "40079",
+   "nazwa": "Mini VW T1 Camper Van",
+   "rok": 2013,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "40082",
+   "nazwa": "Christmas Tree Stand",
+   "rok": 2013,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "40083",
+   "nazwa": "Christmas Tree Truck",
+   "rok": 2013,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "30187",
+   "nazwa": "Szybki samochód",
+   "rok": 2014,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "30188",
+   "nazwa": "Milutki kociak",
+   "rok": 2014,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "30189",
+   "nazwa": "Samolot transportowy",
+   "rok": 2014,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "30197",
+   "nazwa": "Śniegowy bałwan",
+   "rok": 2014,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "31013",
+   "nazwa": "Czerwony Grom 3w1",
+   "rok": 2014,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "31014",
+   "nazwa": "Koparka 3w1",
+   "rok": 2014,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "31015",
+   "nazwa": "Ekspres 3w1",
+   "rok": 2014,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "31017",
+   "nazwa": "Słoneczny śmigacz 3w1",
+   "rok": 2014,
+   "elementy": 119,
+   "status": "eol"
+  },
+  {
+   "numer": "31018",
+   "nazwa": "Zdobywca autrostad 3w1",
+   "rok": 2014,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "31019",
+   "nazwa": "Zawadiackie zwierzęta 3w1",
+   "rok": 2014,
+   "elementy": 272,
+   "status": "eol"
+  },
+  {
+   "numer": "31020",
+   "nazwa": "Śmigłowiec 3w1",
+   "rok": 2014,
+   "elementy": 216,
+   "status": "eol"
+  },
+  {
+   "numer": "31021",
+   "nazwa": "Zabawa w kotka i myszkę 3w1",
+   "rok": 2014,
+   "elementy": 285,
+   "status": "eol"
+  },
+  {
+   "numer": "31022",
+   "nazwa": "Quad 3w1",
+   "rok": 2014,
+   "elementy": 186,
+   "status": "eol"
+  },
+  {
+   "numer": "31023",
+   "nazwa": "Szybkie pojazdy",
+   "rok": 2014,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "31024",
+   "nazwa": "Czerwone konstrukcje",
+   "rok": 2014,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "31025",
+   "nazwa": "Chata w górach",
+   "rok": 2014,
+   "elementy": 550,
+   "status": "eol"
+  },
+  {
+   "numer": "31026",
+   "nazwa": "Miasteczko",
+   "rok": 2014,
+   "elementy": 1023,
+   "status": "eol"
+  },
+  {
+   "numer": "40106",
+   "nazwa": "Toy Workshop",
+   "rok": 2014,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "40107",
+   "nazwa": "Winter Skating Scene",
+   "rok": 2014,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "40108",
+   "nazwa": "Balloon Cart",
+   "rok": 2014,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "40109",
+   "nazwa": "MINI Cooper",
+   "rok": 2014,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "30283",
+   "nazwa": "Off Road",
+   "rok": 2015,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30284",
+   "nazwa": "Traktor",
+   "rok": 2015,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "30285",
+   "nazwa": "Tygrys",
+   "rok": 2015,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "30286",
+   "nazwa": "Choinka",
+   "rok": 2015,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "31027",
+   "nazwa": "Niebieska wyścigówka",
+   "rok": 2015,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "31028",
+   "nazwa": "Hydroplan",
+   "rok": 2015,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "31029",
+   "nazwa": "Helikopter transportowy",
+   "rok": 2015,
+   "elementy": 132,
+   "status": "eol"
+  },
+  {
+   "numer": "31030",
+   "nazwa": "Czerwony gokart",
+   "rok": 2015,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "31031",
+   "nazwa": "Zwierzęta z lasu deszczowego",
+   "rok": 2015,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "31032",
+   "nazwa": "Czerwone kreatury",
+   "rok": 2015,
+   "elementy": 221,
+   "status": "eol"
+  },
+  {
+   "numer": "31033",
+   "nazwa": "Autolaweta",
+   "rok": 2015,
+   "elementy": 264,
+   "status": "eol"
+  },
+  {
+   "numer": "31034",
+   "nazwa": "Robot przyszłości",
+   "rok": 2015,
+   "elementy": 237,
+   "status": "eol"
+  },
+  {
+   "numer": "31035",
+   "nazwa": "Domek na plaży",
+   "rok": 2015,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "31036",
+   "nazwa": "Sklep z zabawkami i owocami",
+   "rok": 2015,
+   "elementy": 466,
+   "status": "eol"
+  },
+  {
+   "numer": "31037",
+   "nazwa": "Przygody z pojazdami",
+   "rok": 2015,
+   "elementy": 282,
+   "status": "eol"
+  },
+  {
+   "numer": "31038",
+   "nazwa": "Pory roku",
+   "rok": 2015,
+   "elementy": 536,
+   "status": "eol"
+  },
+  {
+   "numer": "31039",
+   "nazwa": "Błękitny odrzutowiec",
+   "rok": 2015,
+   "elementy": 608,
+   "status": "eol"
+  },
+  {
+   "numer": "40140",
+   "nazwa": "Stoisko z kwiatami",
+   "rok": 2015,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "30471",
+   "nazwa": "Helikopter",
+   "rok": 2016,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "30472",
+   "nazwa": "Papuga",
+   "rok": 2016,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30474",
+   "nazwa": "Renifer",
+   "rok": 2016,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "31040",
+   "nazwa": "Pustynne wyścigówki",
+   "rok": 2016,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "31041",
+   "nazwa": "Pojazdy budowlane",
+   "rok": 2016,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "31042",
+   "nazwa": "Super ścigacz",
+   "rok": 2016,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "31043",
+   "nazwa": "Transporter helikopterów",
+   "rok": 2016,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "31044",
+   "nazwa": "Zwierzęta z parku",
+   "rok": 2016,
+   "elementy": 202,
+   "status": "eol"
+  },
+  {
+   "numer": "31045",
+   "nazwa": "Badacz oceanów",
+   "rok": 2016,
+   "elementy": 213,
+   "status": "eol"
+  },
+  {
+   "numer": "31046",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2016,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "31047",
+   "nazwa": "Śmigłowiec",
+   "rok": 2016,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "31048",
+   "nazwa": "Chatka nad jeziorem",
+   "rok": 2016,
+   "elementy": 368,
+   "status": "eol"
+  },
+  {
+   "numer": "31049",
+   "nazwa": "Helikopter z dwoma wirnikami",
+   "rok": 2016,
+   "elementy": 326,
+   "status": "eol"
+  },
+  {
+   "numer": "31050",
+   "nazwa": "Sklep na rogu",
+   "rok": 2016,
+   "elementy": 467,
+   "status": "eol"
+  },
+  {
+   "numer": "31051",
+   "nazwa": "Latarnia morska",
+   "rok": 2016,
+   "elementy": 528,
+   "status": "eol"
+  },
+  {
+   "numer": "31052",
+   "nazwa": "Wyjazd na wakacje",
+   "rok": 2016,
+   "elementy": 792,
+   "status": "eol"
+  },
+  {
+   "numer": "31053",
+   "nazwa": "Przygody w domku na drzewie",
+   "rok": 2016,
+   "elementy": 387,
+   "status": "eol"
+  },
+  {
+   "numer": "40220",
+   "nazwa": "London Bus",
+   "rok": 2016,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "40221",
+   "nazwa": "Fountain",
+   "rok": 2016,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "30475",
+   "nazwa": "Terenówka",
+   "rok": 2017,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30476",
+   "nazwa": "Szczęśliwy żółw",
+   "rok": 2017,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30477",
+   "nazwa": "Kolorowa jaszczurka",
+   "rok": 2017,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "30478",
+   "nazwa": "Wesoły Mikołaj",
+   "rok": 2017,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "31054",
+   "nazwa": "Niebieski ekspres",
+   "rok": 2017,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "31055",
+   "nazwa": "Czerwona wyścigówka",
+   "rok": 2017,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "31056",
+   "nazwa": "Zielony krążownik",
+   "rok": 2017,
+   "elementy": 122,
+   "status": "eol"
+  },
+  {
+   "numer": "31057",
+   "nazwa": "Pożeracz przestworzy",
+   "rok": 2017,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "31058",
+   "nazwa": "Potężne dinozaury",
+   "rok": 2017,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "31059",
+   "nazwa": "Motocykl z Bulwaru Zachodzącego Słońca",
+   "rok": 2017,
+   "elementy": 194,
+   "status": "eol"
+  },
+  {
+   "numer": "31060",
+   "nazwa": "Pokazy lotnicze",
+   "rok": 2017,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "31062",
+   "nazwa": "Robot-odkrywca",
+   "rok": 2017,
+   "elementy": 205,
+   "status": "eol"
+  },
+  {
+   "numer": "31063",
+   "nazwa": "Wakacje na plaży",
+   "rok": 2017,
+   "elementy": 275,
+   "status": "eol"
+  },
+  {
+   "numer": "31064",
+   "nazwa": "Przygody na wyspie",
+   "rok": 2017,
+   "elementy": 359,
+   "status": "eol"
+  },
+  {
+   "numer": "31065",
+   "nazwa": "Dom przy ulicy Parkowej",
+   "rok": 2017,
+   "elementy": 566,
+   "status": "eol"
+  },
+  {
+   "numer": "31066",
+   "nazwa": "Odkrywca z promu kosmicznego",
+   "rok": 2017,
+   "elementy": 285,
+   "status": "eol"
+  },
+  {
+   "numer": "31067",
+   "nazwa": "Wakacje na basenie",
+   "rok": 2017,
+   "elementy": 356,
+   "status": "eol"
+  },
+  {
+   "numer": "31068",
+   "nazwa": "Nowoczesny dom",
+   "rok": 2017,
+   "elementy": 386,
+   "status": "eol"
+  },
+  {
+   "numer": "31069",
+   "nazwa": "Rodzinna willa",
+   "rok": 2017,
+   "elementy": 728,
+   "status": "eol"
+  },
+  {
+   "numer": "31070",
+   "nazwa": "Track Racer Turbo",
+   "rok": 2017,
+   "elementy": 664,
+   "status": "eol"
+  },
+  {
+   "numer": "40251",
+   "nazwa": "Miniświnka skarbonka",
+   "rok": 2017,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "40252",
+   "nazwa": "Mini Volkswagen Beetle",
+   "rok": 2017,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
    "numer": "30540",
    "nazwa": "Żółty samolot",
    "rok": 2018,
