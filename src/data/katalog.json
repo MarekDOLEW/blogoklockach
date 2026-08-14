@@ -44514,6 +44514,320 @@
  ],
  "Disney": [
   {
+   "numer": "30116",
+   "nazwa": "Roszpunka idzie na targ",
+   "rok": 2014,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "41050",
+   "nazwa": "Skarby Arielki",
+   "rok": 2014,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "41051",
+   "nazwa": "Górskie gry Meridy",
+   "rok": 2014,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "41052",
+   "nazwa": "Pocałunek Arielki",
+   "rok": 2014,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "41053",
+   "nazwa": "Kareta Kopciuszka",
+   "rok": 2014,
+   "elementy": 274,
+   "status": "eol"
+  },
+  {
+   "numer": "41054",
+   "nazwa": "Wieża Roszpunki",
+   "rok": 2014,
+   "elementy": 299,
+   "status": "eol"
+  },
+  {
+   "numer": "41055",
+   "nazwa": "Zamek Kopciuszka",
+   "rok": 2014,
+   "elementy": 646,
+   "status": "eol"
+  },
+  {
+   "numer": "41060",
+   "nazwa": "Sypialnia w pałacu Śpiącej Królewny",
+   "rok": 2015,
+   "elementy": 96,
+   "status": "eol"
+  },
+  {
+   "numer": "41061",
+   "nazwa": "Egzotyczny pałac Jaśminki",
+   "rok": 2015,
+   "elementy": 143,
+   "status": "eol"
+  },
+  {
+   "numer": "41062",
+   "nazwa": "Księżniczki Disneya Błyszczący lodowy zamek Elzy",
+   "rok": 2015,
+   "elementy": 292,
+   "status": "eol"
+  },
+  {
+   "numer": "41063",
+   "nazwa": "Księżniczki Disneya Podmorski pałac Arielki",
+   "rok": 2015,
+   "elementy": 379,
+   "status": "eol"
+  },
+  {
+   "numer": "30397",
+   "nazwa": "Letnia zabawa Olafa",
+   "rok": 2016,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "41065",
+   "nazwa": "Najlepszy dzień Roszpunki",
+   "rok": 2016,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "41066",
+   "nazwa": "Kraina Lodu Saneczkowa przygoda Anny i Kristoffa",
+   "rok": 2016,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "41067",
+   "nazwa": "Zaczarowany zamek Belli",
+   "rok": 2016,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "41068",
+   "nazwa": "Kraina Lodu Uroczystość w zamku Arendelle",
+   "rok": 2016,
+   "elementy": 477,
+   "status": "eol"
+  },
+  {
+   "numer": "41069",
+   "nazwa": "Dzień skarbów nad basenem",
+   "rok": 2016,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "41140",
+   "nazwa": "Salon piękności Daisy",
+   "rok": 2016,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "41141",
+   "nazwa": "Królewska karoca z dyni",
+   "rok": 2016,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "41142",
+   "nazwa": "Pałac dla zwierząt królewskich",
+   "rok": 2016,
+   "elementy": 186,
+   "status": "eol"
+  },
+  {
+   "numer": "71040",
+   "nazwa": "Zamek Disneya",
+   "rok": 2016,
+   "elementy": 4080,
+   "status": "eol"
+  },
+  {
+   "numer": "BELLE",
+   "nazwa": "Belle's Castle",
+   "rok": 2016,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUCOGSWORTH",
+   "nazwa": "Cogsworth",
+   "rok": 2016,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "TRULUMIERE",
+   "nazwa": "Lumiere",
+   "rok": 2016,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "30551",
+   "nazwa": "Kuchnia Kopciuszka",
+   "rok": 2017,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "41143",
+   "nazwa": "Kuchnia Berry",
+   "rok": 2017,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "41144",
+   "nazwa": "Królewska stajnia Petite",
+   "rok": 2017,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "41145",
+   "nazwa": "Arielka i magiczne zaklęcie",
+   "rok": 2017,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "41146",
+   "nazwa": "Czarodziejski wieczór Kopciuszka",
+   "rok": 2017,
+   "elementy": 350,
+   "status": "eol"
+  },
+  {
+   "numer": "41147",
+   "nazwa": "Śniegowa przygoda Anny",
+   "rok": 2017,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "41148",
+   "nazwa": "Magiczny lodowy pałac Elzy",
+   "rok": 2017,
+   "elementy": 701,
+   "status": "eol"
+  },
+  {
+   "numer": "41149",
+   "nazwa": "Wyspa Moany",
+   "rok": 2017,
+   "elementy": 205,
+   "status": "eol"
+  },
+  {
+   "numer": "41150",
+   "nazwa": "Wyprawa Moany przez ocean",
+   "rok": 2017,
+   "elementy": 307,
+   "status": "eol"
+  },
+  {
+   "numer": "11916",
+   "nazwa": "Parts for Disney Princess: Build your own Adventure",
+   "rok": 2018,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "30552",
+   "nazwa": "Podwodna symfonia Arielki",
+   "rok": 2018,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "30615",
+   "nazwa": "Edna Mode",
+   "rok": 2018,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "40307",
+   "nazwa": "Zestaw zamkowych mebli",
+   "rok": 2018,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "40388",
+   "nazwa": "Zestaw do przebieranek dla minilaleczek",
+   "rok": 2018,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "41151",
+   "nazwa": "Szkolenie Mulan",
+   "rok": 2018,
+   "elementy": 104,
+   "status": "eol"
+  },
+  {
+   "numer": "41152",
+   "nazwa": "Bajkowy zamek Śpiącej Królewny",
+   "rok": 2018,
+   "elementy": 322,
+   "status": "eol"
+  },
+  {
+   "numer": "41153",
+   "nazwa": "Uroczysta łódź Ariel",
+   "rok": 2018,
+   "elementy": 380,
+   "status": "eol"
+  },
+  {
+   "numer": "41154",
+   "nazwa": "Wymarzony zamek Kopciuszka",
+   "rok": 2018,
+   "elementy": 585,
+   "status": "eol"
+  },
+  {
+   "numer": "41155",
+   "nazwa": "Przygoda Elzy na targu",
+   "rok": 2018,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "41156",
+   "nazwa": "Zamkowa sypialnia Roszpunki",
+   "rok": 2018,
+   "elementy": 156,
+   "status": "eol"
+  },
+  {
+   "numer": "41157",
+   "nazwa": "Karawana podróżna Roszpunki",
+   "rok": 2018,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
    "numer": "10766",
    "nazwa": "4+ Toy Story 4 - Chudy i Pan Sterowany",
    "rok": 2019,
