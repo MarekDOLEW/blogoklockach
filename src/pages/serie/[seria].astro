@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
+import redirects from '../../data/redirects.json';
+import ofertyFeed from '../../data/oferty_feed.json';
 
 const slugify = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
 
@@ -21,6 +23,21 @@ const wSerii = Object.entries(sety).filter(([, s]) => s.seria === seria).map(([n
 const hist = (katalog[seria] ?? []).slice().sort((a, b) => b.rok - a.rok);
 const numeryHubow = new Set(Object.keys(sety));
 const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
+
+// --- dane do tabeli katalogowej: miniatura + najniższa aktualna cena ---
+const feedSety = ofertyFeed?.sety ?? {};
+const maLink = (sklep, nr) => Boolean(sklep && redirects?.[sklep]?.[nr]);
+
+const zdjecieSetu = (nr) => sety[nr]?.zdjecia?.glowne ?? feedSety[nr]?.zdjecie ?? null;
+
+// najniższa cena: śledzone sety mają pewniejsze dane w sety.json, reszta leci z migawki feedów
+const najlepszaOferta = (nr) => {
+  const zHubu = (sety[nr]?.oferty ?? []).reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
+  const f = feedSety[nr];
+  const zFeedu = f?.cena ? { sklep: f.sklep, cena: f.cena, data: f.data } : null;
+  if (zHubu && zFeedu) return zHubu.cena <= zFeedu.cena ? zHubu : zFeedu;
+  return zHubu ?? zFeedu;
+};
 ---
 <Base
   title={`LEGO ${seria} — zestawy, ceny, promocje${hist.length ? ` i pełny katalog serii od ${rokMin}` : ''}`}
@@ -52,22 +69,45 @@ const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
       </div>
       <p>Wszystkie zestawy serii — także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
       <div class="karta" style="padding: 6px 18px 18px; overflow-x: auto;">
-        <table class="tabela-cen">
+        <table class="tabela-cen tabela-katalog">
           <thead>
-            <tr><th>Rok</th><th>Nr</th><th>Nazwa</th><th>Elementy</th><th>Status</th></tr>
+            <tr><th class="kol-foto">Zdjęcie</th><th>Rok</th><th>Nr</th><th>Nazwa</th><th>Elementy</th><th>Status</th><th class="kol-cena">Najniższa cena</th></tr>
           </thead>
           <tbody>
-            {hist.map((s) => (
+            {hist.map((s) => {
+              const foto = zdjecieSetu(s.numer);
+              const oferta = najlepszaOferta(s.numer);
+              const maStrone = numeryHubow.has(s.numer);
+              return (
               <tr>
+                <td class="kol-foto">
+                  {foto
+                    ? <span class="kat-mini"><img src={foto} alt={`LEGO ${s.numer} ${s.nazwa}`} loading="lazy" width="64" height="64" /></span>
+                    : <span class="kat-mini-placeholder" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
+                </td>
                 <td>{s.rok}</td>
                 <td><strong>{s.numer}</strong></td>
-                <td>{numeryHubow.has(s.numer) ? <a href={`/zestaw/${s.numer}/`}>{s.nazwa}</a> : s.nazwa}</td>
+                <td>
+                  {maStrone
+                    ? <a href={`/zestaw/${s.numer}/`}>{s.nazwa}</a>
+                    : <>
+                        {s.nazwa}
+                        {s.status !== 'eol' && <span class="kat-wkrotce">opis modelu już wkrótce</span>}
+                      </>}
+                </td>
                 <td>{s.elementy}</td>
                 <td>{s.status === 'eol'
                   ? <span class="badge-seria">wycofany (EOL)</span>
                   : <span class="badge-najnizsza">w sprzedaży</span>}</td>
+                <td class="kol-cena">
+                  {oferta
+                    ? (maLink(oferta.sklep, s.numer)
+                        ? <a class="kat-cena" href={`/idz/${oferta.sklep}/${s.numer}`} rel="sponsored nofollow">{fmt(oferta.cena)}</a>
+                        : <span class="kat-cena kat-cena--bez-linku">{fmt(oferta.cena)}</span>)
+                    : <span class="kat-brak-ceny">brak w sprzedaży</span>}
+                </td>
               </tr>
-            ))}
+            );})}
           </tbody>
         </table>
       </div>
