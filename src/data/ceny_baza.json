@@ -1,0 +1,1534 @@
+{
+  "_meta": {
+    "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
+    "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
+    "wygenerowano": "2026-08-13",
+    "zaktualizowano": "2026-08-14"
+  },
+  "21372": {
+    "nazwa": "La Catrina",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 387.8,
+    "najnizsza_data": "2026-08-12",
+    "najnizsza_sklep": "allegro"
+  },
+  "21370": {
+    "nazwa": "E.T. the Extra-Terrestrial",
+    "cena_katalogowa": 559.99,
+    "najnizsza_cena": 419.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21369": {
+    "nazwa": "The X-Files",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 869.99,
+    "najnizsza_data": "2026-08-11",
+    "najnizsza_sklep": "lego"
+  },
+  "72160": {
+    "nazwa": "Arcanine",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 309.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72168": {
+    "nazwa": "Rayquaza",
+    "cena_katalogowa": 559.99,
+    "najnizsza_cena": 435.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11381": {
+    "nazwa": "Jaguar Type E",
+    "cena_katalogowa": 599.99,
+    "najnizsza_cena": 439.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77263": {
+    "nazwa": "BMW M3 E30",
+    "cena_katalogowa": 114.99,
+    "najnizsza_cena": 89.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10300": {
+    "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 659.0,
+    "najnizsza_data": "2026-08-12",
+    "najnizsza_sklep": "allegro"
+  },
+  "10316": {
+    "nazwa": "Władca Pierścieni: Rivendell",
+    "cena_katalogowa": 2149.99,
+    "najnizsza_cena": 1849.0,
+    "najnizsza_data": "2026-08-12",
+    "najnizsza_sklep": "allegro"
+  },
+  "10318": {
+    "nazwa": "Concorde",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 729.0,
+    "najnizsza_data": "2026-08-12",
+    "najnizsza_sklep": "rozetka"
+  },
+  "21348": {
+    "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
+    "cena_katalogowa": 1549.99,
+    "najnizsza_cena": 1349.0,
+    "najnizsza_data": "2026-08-12",
+    "najnizsza_sklep": "rozetka"
+  },
+  "11374": {
+    "nazwa": "Automat do gry pinball",
+    "cena_katalogowa": 899.99,
+    "najnizsza_cena": 899.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11382": {
+    "nazwa": "Kosmiczny Teleskop Hubble'a",
+    "cena_katalogowa": 559.99,
+    "najnizsza_cena": 418.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31221": {
+    "nazwa": "Gustav Klimt — Pocałunek",
+    "cena_katalogowa": 1299.99,
+    "najnizsza_cena": 1299.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "21067": {
+    "nazwa": "Tower Bridge",
+    "cena_katalogowa": 1299.99,
+    "najnizsza_cena": 983.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11512": {
+    "nazwa": "Wiszące epipremnum złociste",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 249.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "21065": {
+    "nazwa": "Sagrada Família",
+    "cena_katalogowa": 3199.99,
+    "najnizsza_cena": 3199.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11377": {
+    "nazwa": "Władca pierścieni: Minas Tirith",
+    "cena_katalogowa": 2799.99,
+    "najnizsza_cena": 2799.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11386": {
+    "nazwa": "SpongeBob Kanciastoporty: Bikini Dolne",
+    "cena_katalogowa": 899.99,
+    "najnizsza_cena": 899.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11513": {
+    "nazwa": "Kompozycja z ciemnych kwiatów",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 249.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "75455": {
+    "nazwa": "Boba Fett",
+    "cena_katalogowa": 729.99,
+    "najnizsza_cena": 539.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40925": {
+    "nazwa": "Alicja w Krainie Czarów",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "72150": {
+    "nazwa": "Munchlax",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 221.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43302": {
+    "nazwa": "Main Street, U.S.A.",
+    "cena_katalogowa": 1499.99,
+    "najnizsza_cena": 1499.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42232": {
+    "nazwa": "Koenigsegg Sadair's Spear Megacar",
+    "cena_katalogowa": 1949.99,
+    "najnizsza_cena": 1949.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40858": {
+    "nazwa": "Figurka SpongeBoba Kanciastoportego",
+    "cena_katalogowa": 54.99,
+    "najnizsza_cena": 54.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "72423": {
+    "nazwa": "Shrek, Osioł i Kot w butach",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 389.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72154": {
+    "nazwa": "Kultowy Pokéball z Trenerami",
+    "cena_katalogowa": 1129.99,
+    "najnizsza_cena": 1129.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42238": {
+    "nazwa": "Motocykl Ducati Desmo450 MX Factory",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 154.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77985": {
+    "nazwa": "Szkielety dinozaurów: triceratops",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 299.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11380": {
+    "nazwa": "Rower szosowy",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 388.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76356": {
+    "nazwa": "Popiersie Venoma",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11505": {
+    "nazwa": "Grzyby leśne",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 235.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11507": {
+    "nazwa": "Bukiet kwiatów Olivii Rodrigo",
+    "cena_katalogowa": 189.99,
+    "najnizsza_cena": 139.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40872": {
+    "nazwa": "Halloweenowa latarnia z dyni",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 124.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76354": {
+    "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
+    "cena_katalogowa": 1599.99,
+    "najnizsza_cena": 1175.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21368": {
+    "nazwa": "Fistaszki: Buda Snoopy'ego",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 237.6,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77264": {
+    "nazwa": "Jaguar Project 7 i Land Rover Defender",
+    "cena_katalogowa": 234.99,
+    "najnizsza_cena": 168.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72051": {
+    "nazwa": "Automat do gry Donkey Kong",
+    "cena_katalogowa": 729.99,
+    "najnizsza_cena": 562.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21066": {
+    "nazwa": "Nowy Jork — Wielkie Jabłko",
+    "cena_katalogowa": 599.99,
+    "najnizsza_cena": 424.81,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72537": {
+    "nazwa": "Tygrys Derpy i Sroka Sussie",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 232.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42240": {
+    "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
+    "cena_katalogowa": 999.99,
+    "najnizsza_cena": 739.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75453": {
+    "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 658.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31388": {
+    "nazwa": "Dzikie zwierzęta: Rodzina koali",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 519.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40883": {
+    "nazwa": "Halloweenowa czaszka ze świecą",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 81.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42239": {
+    "nazwa": "Batmobile Tumbler",
+    "cena_katalogowa": 819.99,
+    "najnizsza_cena": 631.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75454": {
+    "nazwa": "AT-AT Resztek Imperium i INT-4",
+    "cena_katalogowa": 689.99,
+    "najnizsza_cena": 559.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42236": {
+    "nazwa": "Warsztat tuningowy: samochód Ford Mustang GT",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 293.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11383": {
+    "nazwa": "Rezydencja burmistrzyni",
+    "cena_katalogowa": 469.99,
+    "najnizsza_cena": 469.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43031": {
+    "nazwa": "Podwójna gitara Olivii Rodrigo",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 399.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31394": {
+    "nazwa": "Urocze zwierzątka: Panda ruda",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 124.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42231": {
+    "nazwa": "Samochód Fast and Furious Dodge Charger R/T",
+    "cena_katalogowa": 649.99,
+    "najnizsza_cena": 479.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42235": {
+    "nazwa": "Samochód Ferrari 488 Pista",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 201.39,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40860": {
+    "nazwa": "Toy Story",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42234": {
+    "nazwa": "Samochód sportowy Dodge Viper GTS-R",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 213.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43029": {
+    "nazwa": "Księżyc z koncertu Olivii Rodrigo",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 203.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "75451": {
+    "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 155.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21582": {
+    "nazwa": "Kurzy jeździec",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 99.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75458": {
+    "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 299.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43030": {
+    "nazwa": "Skrytka Olivii Rodrigo",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 258.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "80121": {
+    "nazwa": "Stary zajazd",
+    "cena_katalogowa": 469.99,
+    "najnizsza_cena": 459.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "40926": {
+    "nazwa": "Konsola SEGA Mega Drive",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40873": {
+    "nazwa": "Kolorowy lampion",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 81.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42233": {
+    "nazwa": "Potężne maszyny",
+    "cena_katalogowa": 20.99,
+    "najnizsza_cena": 19.49,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "43028": {
+    "nazwa": "Płyta winylowa Olivii Rodrigo",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 91.31,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77260": {
+    "nazwa": "Szybcy i wściekli Toyota Supra MK4",
+    "cena_katalogowa": 114.99,
+    "najnizsza_cena": 80.94,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77059": {
+    "nazwa": "Timmy i Tommy na spacerze",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 194.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11511": {
+    "nazwa": "Lilie wodne",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 122.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75646": {
+    "nazwa": "Okręt Garpa",
+    "cena_katalogowa": 729.99,
+    "najnizsza_cena": 548.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75642": {
+    "nazwa": "Starcie z kapitanem Smokerem",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 199.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75461": {
+    "nazwa": "Powiększona minifigurka Dartha Vadera",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 419.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "75647": {
+    "nazwa": "Gum-gumowoc",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 299.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40923": {
+    "nazwa": "Figurki Shreka, Osła i Ciastka",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 104.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76339": {
+    "nazwa": "Fantastyczna Czwórka H.E.R.B.I.E.",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 236.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43023": {
+    "nazwa": "Kask Lando Norris McLaren Mastercard F1 Team",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 269.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11385": {
+    "nazwa": "Star Trek: Mostek U.S.S. Enterprise NCC-1701",
+    "cena_katalogowa": 779.99,
+    "najnizsza_cena": 779.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "80120": {
+    "nazwa": "Karp przeskakujący przez Smoczą Bramę",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 199.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "75644": {
+    "nazwa": "Dorry kontra Brogy — Giganci z Little Garden",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 263.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75641": {
+    "nazwa": "Kryjówka doktora Hiluluka",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 93.63,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43292": {
+    "nazwa": "Pua",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 213.14,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75643": {
+    "nazwa": "Tony Tony Chopper",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 229.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75459": {
+    "nazwa": "Imperialny prom typu Lambda",
+    "cena_katalogowa": 649.99,
+    "najnizsza_cena": 649.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "77983": {
+    "nazwa": "Atak mozazaura na łódź",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 309.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11212": {
+    "nazwa": "Domek w ogrodzie Wróżkici",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 44.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11214": {
+    "nazwa": "Wróżkowa kolejka górska i podwieczorek",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 144.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43293": {
+    "nazwa": "Kakamora",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 125.97,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76473": {
+    "nazwa": "Zamek Hogwart: Wschodnie skrzydło",
+    "cena_katalogowa": 1079.99,
+    "najnizsza_cena": 797.96,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21594": {
+    "nazwa": "Szkielet",
+    "cena_katalogowa": 189.99,
+    "najnizsza_cena": 139.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77982": {
+    "nazwa": "Ucieczka spinozaura",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 219.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75645": {
+    "nazwa": "Bitwa pod zamkiem Drum",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 319.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77120": {
+    "nazwa": "Shadow i jego mech kontra G.U.N. Trooper",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43018": {
+    "nazwa": "Lionel Messi — cieszynka",
+    "cena_katalogowa": 779.99,
+    "najnizsza_cena": 399.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21595": {
+    "nazwa": "Smok Kresu",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 177.61,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77262": {
+    "nazwa": "65 Ford Mustang Hoonicorn V1 Kena Blocka",
+    "cena_katalogowa": 114.99,
+    "najnizsza_cena": 80.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11514": {
+    "nazwa": "Kosmosy",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 41.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77119": {
+    "nazwa": "Tails i Tornado-1",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 91.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31393": {
+    "nazwa": "Leśne zwierzęta: Wilk szary",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "77261": {
+    "nazwa": "Ferrari 499P",
+    "cena_katalogowa": 114.99,
+    "najnizsza_cena": 94.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31387": {
+    "nazwa": "Legendarny statek piracki",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 299.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76477": {
+    "nazwa": "Norbert: mały smok Hagrida",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43296": {
+    "nazwa": "Stitch i Strupka",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 210.33,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71872": {
+    "nazwa": "Bitwa z ultrasmokiem",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 609.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31390": {
+    "nazwa": "Dekoracyjny obraz z kwiatami",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 85.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60480": {
+    "nazwa": "Żółta koparko-ładowarka",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 99.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76462": {
+    "nazwa": "Herb Hogwartu",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 149.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "75685": {
+    "nazwa": "Obraz Emerald City",
+    "cena_katalogowa": 649.99,
+    "najnizsza_cena": 649.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "60511": {
+    "nazwa": "Retro pociąg z lokomotywą parową",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 261.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31383": {
+    "nazwa": "Flakon perfum z kwiatową ozdobą",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 87.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31386": {
+    "nazwa": "Dzikie zwierzęta: Dumny lew",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 189.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71864": {
+    "nazwa": "Wielofunkcyjne pojazdy Kaia i Cole'a",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 85.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76469": {
+    "nazwa": "Wolny skrzat Zgredek",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 101.03,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76474": {
+    "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 292.16,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40868": {
+    "nazwa": "Powiększona minifigurka Reda",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 339.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "60492": {
+    "nazwa": "Samolot pasażerski",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 82.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77081": {
+    "nazwa": "Kitek",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 292.16,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77978": {
+    "nazwa": "Ciężarówka do transportu młodego tyranozaura",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 84.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31389": {
+    "nazwa": "Kultowy diabelski młyn",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 260.19,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42229": {
+    "nazwa": "Samochód Fast and Furious Mitsubishi Eclipse",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 193.28,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77079": {
+    "nazwa": "Pomidorek",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 41.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43017": {
+    "nazwa": "Kask Oscar Piastri McLaren Mastercard F1 Team",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 286.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31392": {
+    "nazwa": "Dekoracyjny fortepian z kotem",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 119.56,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76478": {
+    "nazwa": "Book nook: Gabinet Dumbledore'a",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 519.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76471": {
+    "nazwa": "Magiczne sklepy na ulicy Śmiertelnego Nokturnu",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 292.16,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77977": {
+    "nazwa": "Mały dinozaur: Pteranodon",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 73.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76475": {
+    "nazwa": "Zakazany Las: Expecto Patronum",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 82.18,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60509": {
+    "nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 419.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "60494": {
+    "nazwa": "Wywrotka i ładowarka czołowa",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 369.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21592": {
+    "nazwa": "Atak kurzego jeźdźca na pustyni",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 72.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76349": {
+    "nazwa": "Pościg Spider-Mana za więźniarką",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 199.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "43295": {
+    "nazwa": "Szkatułka na biżuterię Dżasminy",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 148.94,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60506": {
+    "nazwa": "Tramwaj przy plaży",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 207.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43289": {
+    "nazwa": "Zaczarowany zamek Pięknej i Bestii",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 123.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71862": {
+    "nazwa": "Smoczy mech Lloyda — zestaw bitewny",
+    "cena_katalogowa": 41.99,
+    "najnizsza_cena": 29.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21598": {
+    "nazwa": "Podwodna przygoda",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 124.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "71870": {
+    "nazwa": "Bliźniacze tytanowe mechy",
+    "cena_katalogowa": 599.99,
+    "najnizsza_cena": 439.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77082": {
+    "nazwa": "Jaskinia Ubawu",
+    "cena_katalogowa": 869.99,
+    "najnizsza_cena": 618.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42704": {
+    "nazwa": "Grand Hotel w mieście Heartlake",
+    "cena_katalogowa": 649.99,
+    "najnizsza_cena": 455.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43280": {
+    "nazwa": "Zabawa na plaży z Lilo i Stitchem",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 57.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40924": {
+    "nazwa": "Megatron jako robot i pojazd",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 104.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42242": {
+    "nazwa": "Mercedes-Benz Unimog U 5023 z dźwigiem",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 519.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "71871": {
+    "nazwa": "Bitwa o Smocze Ostrze",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 260.21,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11216": {
+    "nazwa": "Babunie z Bingo i Blue",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 42.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71868": {
+    "nazwa": "Transformujący smoczy mech Wyldfyre",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 269.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11217": {
+    "nazwa": "Rodzina Blue z klocków",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 215.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "21597": {
+    "nazwa": "Stacja Ghasta",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 299.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10469": {
+    "nazwa": "Pizzerki z Muffinką i Blue",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 121.66,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60496": {
+    "nazwa": "Dostawa pizzy z pojazdami",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 146.35,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "31391": {
+    "nazwa": "Modna torebka ze schowkiem",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 85.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42241": {
+    "nazwa": "Zielony hipersamochód Bugatti Chiron Pur Sport",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 274.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "21591": {
+    "nazwa": "Bitwa z Twisted Wardenem",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "21593": {
+    "nazwa": "Przetrwanie pierwszej nocy",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 88.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42694": {
+    "nazwa": "Furgonetka z pizzą",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 44.43,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42697": {
+    "nazwa": "Kreatywna walizka z domkiem dla lalek",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 149.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76345": {
+    "nazwa": "Popiersie Doktora Dooma",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 209.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "71867": {
+    "nazwa": "Ninjaścigacz X-1 — 15-lecie",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 237.19,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "77080": {
+    "nazwa": "Zrzut zaopatrzenia",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 121.66,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42682": {
+    "nazwa": "Domek na luksusowym kempingu",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 73.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10472": {
+    "nazwa": "Gra w budowanie zwierzątek",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 149.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10479": {
+    "nazwa": "Kreatywne pudełko pełne kolorów",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 54.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60512": {
+    "nazwa": "Furgonetka z rowerami górskimi",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 81.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "10478": {
+    "nazwa": "Kreatywne rampy 3 w 1 z pojazdami",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 209.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71869": {
+    "nazwa": "Perła Lądu",
+    "cena_katalogowa": 559.99,
+    "najnizsza_cena": 398.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42705": {
+    "nazwa": "Jesienna leśna chatka",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 297.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60501": {
+    "nazwa": "Park rollercoasterów Lava Land",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 419.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "71052": {
+    "nazwa": "Seria 29",
+    "cena_katalogowa": 16.49,
+    "najnizsza_cena": 15.99,
+    "najnizsza_data": "2026-08-14",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "60497": {
+    "nazwa": "Automatyczna myjnia samochodowa",
+    "cena_katalogowa": 234.99,
+    "najnizsza_cena": 163.95,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42690": {
+    "nazwa": "Podwieczorek w lesie",
+    "cena_katalogowa": 41.99,
+    "najnizsza_cena": 29.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43297": {
+    "nazwa": "Zamek Roszpunki",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 296.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42703": {
+    "nazwa": "Syrenkowa kolejka górska",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 399.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "76352": {
+    "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
+    "cena_katalogowa": 469.99,
+    "najnizsza_cena": 469.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43294": {
+    "nazwa": "Mała wieża Roszpunki",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 56.9,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42693": {
+    "nazwa": "Kreatywna kwiaciarnia",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 88.7,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10480": {
+    "nazwa": "Las odkrywców z dzikimi zwierzętami",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 239.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76476": {
+    "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
+    "cena_katalogowa": 1849.99,
+    "najnizsza_cena": 1849.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11211": {
+    "nazwa": "Loki kontra drużyna Iron Mana",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 148.94,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76348": {
+    "nazwa": "Epicka bitwa: Avengers: Doomsday",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 419.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76340": {
+    "nazwa": "LEGO Marvel Kalendarz adwentowy na 2026 rok",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 144.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "11045": {
+    "nazwa": "Kreatywne kolorowe klocki",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 146.36,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11221": {
+    "nazwa": "Szkoła z Ryżykiem i Blue",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 70.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71865": {
+    "nazwa": "Bitwa lodowego smoka Zane'a",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "71863": {
+    "nazwa": "Zilvar i smocza bestia Grimtak",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 74.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "21596": {
+    "nazwa": "Najazd przywoływaczy na wioskę",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 264.88,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42676": {
+    "nazwa": "Frajda w parku wodnym",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 87.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43282": {
+    "nazwa": "Wiejska chatka i łódź",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 56.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "11209": {
+    "nazwa": "Ultron kontra Iron Man",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 56.98,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "43299": {
+    "nazwa": "Królewska łódź weselna Arielki",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 210.33,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42701": {
+    "nazwa": "Sanktuarium koali",
+    "cena_katalogowa": 274.99,
+    "najnizsza_cena": 274.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "42700": {
+    "nazwa": "Cukierkowo-babeczkowy diabelski młyn",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 177.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "42702": {
+    "nazwa": "Wróżkowa karuzela z kwiatami",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 119.56,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "10462": {
+    "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 58.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "60510": {
+    "nazwa": "LEGO City Kalendarz adwentowy na 2026 rok",
+    "cena_katalogowa": 114.99,
+    "najnizsza_cena": 114.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76346": {
+    "nazwa": "Figurka Spider-Mana",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 292.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "76350": {
+    "nazwa": "Epickie starcie: Spider-Man kontra Hulk",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 369.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "planetaklockow"
+  },
+  "76347": {
+    "nazwa": "Avengers: Doomsday Quinjet",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 249.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43298": {
+    "nazwa": "LEGO Disney Kalendarz adwentowy na 2026 rok",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 144.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "77981": {
+    "nazwa": "Welociraptor, stegozaur i pteranodon — Centrum ratunkowe",
+    "cena_katalogowa": 189.99,
+    "najnizsza_cena": 189.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43283": {
+    "nazwa": "Zamek Kopciuszka i jej zwierzęcych przyjaciół",
+    "cena_katalogowa": 124.99,
+    "najnizsza_cena": 89.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "71053": {
+    "nazwa": "Seria Shrek",
+    "cena_katalogowa": 16.49,
+    "najnizsza_cena": 16.49,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40975": {
+    "nazwa": "Minizamek Hogwart",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "76788": {
+    "nazwa": "Akademia Nevermore",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 299.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "10464": {
+    "nazwa": "Kryjówka Pajęczej Drużyny",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 148.94,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40880": {
+    "nazwa": "Avengers: Doomsday Bohaterowie i złoczyńca",
+    "cena_katalogowa": 169.99,
+    "najnizsza_cena": 169.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40919": {
+    "nazwa": "Figurki gremlinów: Gizmo i Stripe",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 104.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "40859": {
+    "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 104.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "72162": {
+    "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
+    "cena_katalogowa": 249.99,
+    "najnizsza_cena": 229.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72163": {
+    "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 259.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72164": {
+    "nazwa": "SMART Play: Dom treningowy z Pikachu",
+    "cena_katalogowa": 299.99,
+    "najnizsza_cena": 239.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72157": {
+    "nazwa": "SMART Play: Charmander i Geodude — starcie w jaskini",
+    "cena_katalogowa": 81.99,
+    "najnizsza_cena": 74.89,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "40958": {
+    "nazwa": "Świąteczna skarpeta",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 144.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "72159": {
+    "nazwa": "SMART Play: Jigglypuff i koncert",
+    "cena_katalogowa": 61.99,
+    "najnizsza_cena": 54.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72166": {
+    "nazwa": "SMART Play: Cubone i Gengar — upiorne starcie",
+    "cena_katalogowa": 379.99,
+    "najnizsza_cena": 339.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72167": {
+    "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
+    "cena_katalogowa": 519.99,
+    "najnizsza_cena": 469.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72158": {
+    "nazwa": "SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa",
+    "cena_katalogowa": 144.99,
+    "najnizsza_cena": 144.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "43026": {
+    "nazwa": "Zestaw Nike Air Force 1 x LEGO",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 419.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "72165": {
+    "nazwa": "SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo",
+    "cena_katalogowa": 339.99,
+    "najnizsza_cena": 299.0,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72161": {
+    "nazwa": "SMART Play: Poszukiwania Mitycznego Mew za pomocą drona",
+    "cena_katalogowa": 209.99,
+    "najnizsza_cena": 189.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  },
+  "72156": {
+    "nazwa": "SMART Play: zestaw startowy",
+    "cena_katalogowa": 104.99,
+    "najnizsza_cena": 104.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "lego"
+  },
+  "75426": {
+    "nazwa": "SMART Play: Sokół Millennium",
+    "cena_katalogowa": 419.99,
+    "najnizsza_cena": 339.99,
+    "najnizsza_data": "2026-08-13",
+    "najnizsza_sklep": "mediaexpert"
+  }
+}
