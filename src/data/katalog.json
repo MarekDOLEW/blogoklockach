@@ -12578,6 +12578,1349 @@
  ],
  "City": [
   {
+   "numer": "30014",
+   "nazwa": "Police Helicopter",
+   "rok": 2011,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "30015",
+   "nazwa": "Jet Ski",
+   "rok": 2011,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "30016",
+   "nazwa": "Satellite",
+   "rok": 2011,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "3365",
+   "nazwa": "Space Moon Buggy",
+   "rok": 2011,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "3366",
+   "nazwa": "Wyrzutnia satelitów",
+   "rok": 2011,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "3367",
+   "nazwa": "Space Shuttle",
+   "rok": 2011,
+   "elementy": 231,
+   "status": "eol"
+  },
+  {
+   "numer": "3368",
+   "nazwa": "Space Centre",
+   "rok": 2011,
+   "elementy": 494,
+   "status": "eol"
+  },
+  {
+   "numer": "3648",
+   "nazwa": "Police Chase",
+   "rok": 2011,
+   "elementy": 173,
+   "status": "eol"
+  },
+  {
+   "numer": "3658",
+   "nazwa": "Police Helicopter",
+   "rok": 2011,
+   "elementy": 237,
+   "status": "eol"
+  },
+  {
+   "numer": "3661",
+   "nazwa": "Bank & Money Transfer",
+   "rok": 2011,
+   "elementy": 405,
+   "status": "eol"
+  },
+  {
+   "numer": "3677",
+   "nazwa": "Red Cargo Train",
+   "rok": 2011,
+   "elementy": 831,
+   "status": "eol"
+  },
+  {
+   "numer": "4641",
+   "nazwa": "Speedboat",
+   "rok": 2011,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "4642",
+   "nazwa": "Fishing Boat",
+   "rok": 2011,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "4643",
+   "nazwa": "Power Boat Transporter",
+   "rok": 2011,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "4644",
+   "nazwa": "Marina",
+   "rok": 2011,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "4645",
+   "nazwa": "Harbour",
+   "rok": 2011,
+   "elementy": 551,
+   "status": "eol"
+  },
+  {
+   "numer": "66375",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2011,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "66388",
+   "nazwa": "City Super Pack 4 in 1",
+   "rok": 2011,
+   "elementy": 964,
+   "status": "eol"
+  },
+  {
+   "numer": "66389",
+   "nazwa": "City Police Super Pack 5 in 1",
+   "rok": 2011,
+   "elementy": 828,
+   "status": "eol"
+  },
+  {
+   "numer": "66405",
+   "nazwa": "City Trains Super Pack 4-in-1",
+   "rok": 2011,
+   "elementy": 1232,
+   "status": "eol"
+  },
+  {
+   "numer": "7279",
+   "nazwa": "Police Minifigure Collection",
+   "rok": 2011,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "7285",
+   "nazwa": "Police Dog Unit",
+   "rok": 2011,
+   "elementy": 96,
+   "status": "eol"
+  },
+  {
+   "numer": "7286",
+   "nazwa": "Konwój",
+   "rok": 2011,
+   "elementy": 173,
+   "status": "eol"
+  },
+  {
+   "numer": "7287",
+   "nazwa": "Police Boat",
+   "rok": 2011,
+   "elementy": 172,
+   "status": "eol"
+  },
+  {
+   "numer": "7288",
+   "nazwa": "Mobilna jednostka policji",
+   "rok": 2011,
+   "elementy": 408,
+   "status": "eol"
+  },
+  {
+   "numer": "7498",
+   "nazwa": "Police Station",
+   "rok": 2011,
+   "elementy": 783,
+   "status": "eol"
+  },
+  {
+   "numer": "7499",
+   "nazwa": "Elastyczne tory",
+   "rok": 2011,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "7553",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2011,
+   "elementy": 232,
+   "status": "eol"
+  },
+  {
+   "numer": "7696",
+   "nazwa": "Commuter Jet",
+   "rok": 2011,
+   "elementy": 108,
+   "status": "eol"
+  },
+  {
+   "numer": "30017",
+   "nazwa": "Police Boat",
+   "rok": 2012,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30018",
+   "nazwa": "Police Microlight",
+   "rok": 2012,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "30019",
+   "nazwa": "Fire Helicopter",
+   "rok": 2012,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "30150",
+   "nazwa": "Racing Car",
+   "rok": 2012,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "30151",
+   "nazwa": "Mining Dozer",
+   "rok": 2012,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "30152",
+   "nazwa": "Mining Quad",
+   "rok": 2012,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "4200",
+   "nazwa": "Mining 4x4",
+   "rok": 2012,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "4201",
+   "nazwa": "Ładowarka z wywrotką",
+   "rok": 2012,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "4202",
+   "nazwa": "Mining Truck",
+   "rok": 2012,
+   "elementy": 269,
+   "status": "eol"
+  },
+  {
+   "numer": "4203",
+   "nazwa": "Koparka z transporterem",
+   "rok": 2012,
+   "elementy": 305,
+   "status": "eol"
+  },
+  {
+   "numer": "4204",
+   "nazwa": "Kopalnia",
+   "rok": 2012,
+   "elementy": 748,
+   "status": "eol"
+  },
+  {
+   "numer": "4205",
+   "nazwa": "Off-road Command Centre",
+   "rok": 2012,
+   "elementy": 403,
+   "status": "eol"
+  },
+  {
+   "numer": "4206",
+   "nazwa": "Recycling Truck",
+   "rok": 2012,
+   "elementy": 297,
+   "status": "eol"
+  },
+  {
+   "numer": "4207",
+   "nazwa": "Warsztat samochodowy",
+   "rok": 2012,
+   "elementy": 933,
+   "status": "eol"
+  },
+  {
+   "numer": "4208",
+   "nazwa": "Fire Truck",
+   "rok": 2012,
+   "elementy": 243,
+   "status": "eol"
+  },
+  {
+   "numer": "4209",
+   "nazwa": "Samolot strażacki",
+   "rok": 2012,
+   "elementy": 522,
+   "status": "eol"
+  },
+  {
+   "numer": "4427",
+   "nazwa": "Fire ATV",
+   "rok": 2012,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4428",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2012,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "4429",
+   "nazwa": "Centrum ratunkowe",
+   "rok": 2012,
+   "elementy": 425,
+   "status": "eol"
+  },
+  {
+   "numer": "4430",
+   "nazwa": "Fire Transporter",
+   "rok": 2012,
+   "elementy": 522,
+   "status": "eol"
+  },
+  {
+   "numer": "4431",
+   "nazwa": "Ambulance",
+   "rok": 2012,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "4432",
+   "nazwa": "Śmieciarka",
+   "rok": 2012,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "4433",
+   "nazwa": "Dirt Bike Transporter",
+   "rok": 2012,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "4434",
+   "nazwa": "Dump Truck",
+   "rok": 2012,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "4435",
+   "nazwa": "Car and Caravan",
+   "rok": 2012,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "4436",
+   "nazwa": "Patrol Car",
+   "rok": 2012,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "4437",
+   "nazwa": "Pościg policyjny",
+   "rok": 2012,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "4438",
+   "nazwa": "Robber's Hideout",
+   "rok": 2012,
+   "elementy": 317,
+   "status": "eol"
+  },
+  {
+   "numer": "4439",
+   "nazwa": "Heavy-Lift Helicopter",
+   "rok": 2012,
+   "elementy": 393,
+   "status": "eol"
+  },
+  {
+   "numer": "4440",
+   "nazwa": "Forest Police Station",
+   "rok": 2012,
+   "elementy": 633,
+   "status": "eol"
+  },
+  {
+   "numer": "4441",
+   "nazwa": "Police Dog Van",
+   "rok": 2012,
+   "elementy": 313,
+   "status": "eol"
+  },
+  {
+   "numer": "4442",
+   "nazwa": "Glider",
+   "rok": 2012,
+   "elementy": 101,
+   "status": "eol"
+  },
+  {
+   "numer": "4473",
+   "nazwa": "Police Helicopter",
+   "rok": 2012,
+   "elementy": 112,
+   "status": "eol"
+  },
+  {
+   "numer": "5000281",
+   "nazwa": "Chase McCain",
+   "rok": 2012,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "66412",
+   "nazwa": "City Police Super Pack 2-in-1",
+   "rok": 2012,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "66426",
+   "nazwa": "City Fire Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 815,
+   "status": "eol"
+  },
+  {
+   "numer": "66427",
+   "nazwa": "City Police Super Pack 4-in-1",
+   "rok": 2012,
+   "elementy": 932,
+   "status": "eol"
+  },
+  {
+   "numer": "66428",
+   "nazwa": "City Police Super Pack 4-in-1",
+   "rok": 2012,
+   "elementy": 965,
+   "status": "eol"
+  },
+  {
+   "numer": "66436",
+   "nazwa": "City Police Super Pack 2-in-1",
+   "rok": 2012,
+   "elementy": 226,
+   "status": "eol"
+  },
+  {
+   "numer": "66451",
+   "nazwa": "City Traffic Super Pack 4-in-1",
+   "rok": 2012,
+   "elementy": 826,
+   "status": "eol"
+  },
+  {
+   "numer": "853378",
+   "nazwa": "LEGO City Accessory Pack",
+   "rok": 2012,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "11900",
+   "nazwa": "Brickmaster City parts",
+   "rok": 2013,
+   "elementy": 138,
+   "status": "eol"
+  },
+  {
+   "numer": "30220",
+   "nazwa": "Fire Speedboat",
+   "rok": 2013,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30221",
+   "nazwa": "Fire Car",
+   "rok": 2013,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "30222",
+   "nazwa": "Police Helicopter",
+   "rok": 2013,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "30224",
+   "nazwa": "Ride-On Lawn Mower",
+   "rok": 2013,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "30225",
+   "nazwa": "Coast Guard Seaplane",
+   "rok": 2013,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "60000",
+   "nazwa": "Motocykl strażacki",
+   "rok": 2013,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "60001",
+   "nazwa": "Samochód komendanta straży pożarnej",
+   "rok": 2013,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "60002",
+   "nazwa": "Wóz strażacki",
+   "rok": 2013,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "60003",
+   "nazwa": "Alarm pożarowy",
+   "rok": 2013,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "60004",
+   "nazwa": "Remiza strażacka",
+   "rok": 2013,
+   "elementy": 753,
+   "status": "eol"
+  },
+  {
+   "numer": "60005",
+   "nazwa": "Łódź strażacka",
+   "rok": 2013,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "60006",
+   "nazwa": "Quad policyjny",
+   "rok": 2013,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "60007",
+   "nazwa": "Superszybki pościg",
+   "rok": 2013,
+   "elementy": 283,
+   "status": "eol"
+  },
+  {
+   "numer": "60008",
+   "nazwa": "Włamanie do muzeum",
+   "rok": 2013,
+   "elementy": 563,
+   "status": "eol"
+  },
+  {
+   "numer": "60009",
+   "nazwa": "Aresztowanie z helikoptera",
+   "rok": 2013,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "60010",
+   "nazwa": "Helikopter strażacki",
+   "rok": 2013,
+   "elementy": 232,
+   "status": "eol"
+  },
+  {
+   "numer": "60011",
+   "nazwa": "Na ratunek surferowi",
+   "rok": 2013,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "60012",
+   "nazwa": "Wóz terenowy i łódź nurków",
+   "rok": 2013,
+   "elementy": 128,
+   "status": "eol"
+  },
+  {
+   "numer": "60013",
+   "nazwa": "Helikopter straży przybrzeżnej",
+   "rok": 2013,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "60014",
+   "nazwa": "Patrol straży przybrzeżnej",
+   "rok": 2013,
+   "elementy": 449,
+   "status": "eol"
+  },
+  {
+   "numer": "60015",
+   "nazwa": "Samolot straży przybrzeżnej",
+   "rok": 2013,
+   "elementy": 279,
+   "status": "eol"
+  },
+  {
+   "numer": "60016",
+   "nazwa": "Cysterna",
+   "rok": 2013,
+   "elementy": 191,
+   "status": "eol"
+  },
+  {
+   "numer": "60017",
+   "nazwa": "Laweta",
+   "rok": 2013,
+   "elementy": 212,
+   "status": "eol"
+  },
+  {
+   "numer": "60018",
+   "nazwa": "Betoniarka",
+   "rok": 2013,
+   "elementy": 221,
+   "status": "eol"
+  },
+  {
+   "numer": "60019",
+   "nazwa": "Samolot kaskaderski",
+   "rok": 2013,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "60020",
+   "nazwa": "Ciężarówka",
+   "rok": 2013,
+   "elementy": 321,
+   "status": "eol"
+  },
+  {
+   "numer": "60021",
+   "nazwa": "Wirolot towarowy",
+   "rok": 2013,
+   "elementy": 393,
+   "status": "eol"
+  },
+  {
+   "numer": "60022",
+   "nazwa": "Terminal towarowy",
+   "rok": 2013,
+   "elementy": 658,
+   "status": "eol"
+  },
+  {
+   "numer": "60023",
+   "nazwa": "Zestaw startowy",
+   "rok": 2013,
+   "elementy": 272,
+   "status": "eol"
+  },
+  {
+   "numer": "60024",
+   "nazwa": "LEGO City Advent Calendar",
+   "rok": 2013,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "60025",
+   "nazwa": "Ciężarówka ekipy wyścigowej",
+   "rok": 2013,
+   "elementy": 315,
+   "status": "eol"
+  },
+  {
+   "numer": "60026",
+   "nazwa": "Rynek",
+   "rok": 2013,
+   "elementy": 914,
+   "status": "eol"
+  },
+  {
+   "numer": "60027",
+   "nazwa": "Transporter Monster Trucków",
+   "rok": 2013,
+   "elementy": 299,
+   "status": "eol"
+  },
+  {
+   "numer": "60031",
+   "nazwa": "City Corner",
+   "rok": 2013,
+   "elementy": 483,
+   "status": "eol"
+  },
+  {
+   "numer": "66448",
+   "nazwa": "Straż Pożarna super pack 3in1",
+   "rok": 2013,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "66453",
+   "nazwa": "Fire Value Pack",
+   "rok": 2013,
+   "elementy": 653,
+   "status": "eol"
+  },
+  {
+   "numer": "66475",
+   "nazwa": "Super Pack",
+   "rok": 2013,
+   "elementy": 814,
+   "status": "eol"
+  },
+  {
+   "numer": "850617",
+   "nazwa": "Exclusives Zestaw akcesoriów policyjnych z serii",
+   "rok": 2013,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "850618",
+   "nazwa": "Zestaw strażaków",
+   "rok": 2013,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30226",
+   "nazwa": "Helikopter policyjny",
+   "rok": 2014,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "30227",
+   "nazwa": "Police Watercraft",
+   "rok": 2014,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "30228",
+   "nazwa": "Police ATV",
+   "rok": 2014,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30229",
+   "nazwa": "Repair Lift",
+   "rok": 2014,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30310",
+   "nazwa": "Arctic Scout",
+   "rok": 2014,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "40110",
+   "nazwa": "LEGO City Coin Bank",
+   "rok": 2014,
+   "elementy": 122,
+   "status": "eol"
+  },
+  {
+   "numer": "5002136",
+   "nazwa": "Arctic Accessory Set",
+   "rok": 2014,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "60032",
+   "nazwa": "Arktyczny skuter śnieżny",
+   "rok": 2014,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "60033",
+   "nazwa": "Arktyczny łazik lodowy",
+   "rok": 2014,
+   "elementy": 113,
+   "status": "eol"
+  },
+  {
+   "numer": "60034",
+   "nazwa": "Arktyczny helikopter dźwigowy",
+   "rok": 2014,
+   "elementy": 262,
+   "status": "eol"
+  },
+  {
+   "numer": "60035",
+   "nazwa": "Mobilna jednostka arktyczna",
+   "rok": 2014,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "60036",
+   "nazwa": "Arktyczna baza",
+   "rok": 2014,
+   "elementy": 735,
+   "status": "eol"
+  },
+  {
+   "numer": "60041",
+   "nazwa": "Pościg za przestępcą",
+   "rok": 2014,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "60042",
+   "nazwa": "Superszybki pościg policyjny",
+   "rok": 2014,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "60043",
+   "nazwa": "Furgonetka policyjna",
+   "rok": 2014,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "60044",
+   "nazwa": "Mobilna jednostka policji",
+   "rok": 2014,
+   "elementy": 375,
+   "status": "eol"
+  },
+  {
+   "numer": "60045",
+   "nazwa": "Patrol policyjny",
+   "rok": 2014,
+   "elementy": 408,
+   "status": "eol"
+  },
+  {
+   "numer": "60046",
+   "nazwa": "Helikopter zwiadowczy",
+   "rok": 2014,
+   "elementy": 528,
+   "status": "eol"
+  },
+  {
+   "numer": "60047",
+   "nazwa": "Posterunek policji",
+   "rok": 2014,
+   "elementy": 854,
+   "status": "eol"
+  },
+  {
+   "numer": "60048",
+   "nazwa": "Oddział policyjny z psem",
+   "rok": 2014,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "60049",
+   "nazwa": "Laweta do przewozu helikoptera",
+   "rok": 2014,
+   "elementy": 382,
+   "status": "eol"
+  },
+  {
+   "numer": "60050",
+   "nazwa": "Dworzec kolejowy",
+   "rok": 2014,
+   "elementy": 423,
+   "status": "eol"
+  },
+  {
+   "numer": "60051",
+   "nazwa": "Superszybki pociąg pasażerski",
+   "rok": 2014,
+   "elementy": 610,
+   "status": "eol"
+  },
+  {
+   "numer": "60052",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2014,
+   "elementy": 888,
+   "status": "eol"
+  },
+  {
+   "numer": "60053",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2014,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "60054",
+   "nazwa": "Samochód naprawczy",
+   "rok": 2014,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "60055",
+   "nazwa": "Monster truck",
+   "rok": 2014,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "60056",
+   "nazwa": "Samochód pomocy drogowej",
+   "rok": 2014,
+   "elementy": 227,
+   "status": "eol"
+  },
+  {
+   "numer": "60057",
+   "nazwa": "Kamper",
+   "rok": 2014,
+   "elementy": 195,
+   "status": "eol"
+  },
+  {
+   "numer": "60058",
+   "nazwa": "Terenówka ze skuterami",
+   "rok": 2014,
+   "elementy": 219,
+   "status": "eol"
+  },
+  {
+   "numer": "60059",
+   "nazwa": "Ciężarówka do transportu drewna",
+   "rok": 2014,
+   "elementy": 228,
+   "status": "eol"
+  },
+  {
+   "numer": "60060",
+   "nazwa": "Transporter samochodów",
+   "rok": 2014,
+   "elementy": 350,
+   "status": "eol"
+  },
+  {
+   "numer": "60061",
+   "nazwa": "Lotniskowy wóz strażacki",
+   "rok": 2014,
+   "elementy": 326,
+   "status": "eol"
+  },
+  {
+   "numer": "60062",
+   "nazwa": "Arktyczny łamacz lodu",
+   "rok": 2014,
+   "elementy": 717,
+   "status": "eol"
+  },
+  {
+   "numer": "60063",
+   "nazwa": "Kalendarz adwentowy 2014",
+   "rok": 2014,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "60064",
+   "nazwa": "Arktyczny samolot dostawczy",
+   "rok": 2014,
+   "elementy": 374,
+   "status": "eol"
+  },
+  {
+   "numer": "66263",
+   "nazwa": "Value pack: transport",
+   "rok": 2014,
+   "status": "eol"
+  },
+  {
+   "numer": "66476",
+   "nazwa": "City Value Pack",
+   "rok": 2014,
+   "elementy": 308,
+   "status": "eol"
+  },
+  {
+   "numer": "66492",
+   "nazwa": "City Police Value Pack",
+   "rok": 2014,
+   "elementy": 676,
+   "status": "eol"
+  },
+  {
+   "numer": "66493",
+   "nazwa": "City Train Value Pack",
+   "rok": 2014,
+   "elementy": 1343,
+   "status": "eol"
+  },
+  {
+   "numer": "850932",
+   "nazwa": "Polar Accessory Set",
+   "rok": 2014,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "30311",
+   "nazwa": "Helikopter policyjny",
+   "rok": 2015,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "30312",
+   "nazwa": "Demolition Driller",
+   "rok": 2015,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30313",
+   "nazwa": "Śmieciarka",
+   "rok": 2015,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "30314",
+   "nazwa": "Go Kart Racer",
+   "rok": 2015,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "30315",
+   "nazwa": "Space Vehicle",
+   "rok": 2015,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "60065",
+   "nazwa": "Patrolowy quad",
+   "rok": 2015,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "60066",
+   "nazwa": "Policja wodna - zestaw startowy",
+   "rok": 2015,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "60067",
+   "nazwa": "Pościg śmigłowcem",
+   "rok": 2015,
+   "elementy": 253,
+   "status": "eol"
+  },
+  {
+   "numer": "60068",
+   "nazwa": "Kryjówka rabusiów",
+   "rok": 2015,
+   "elementy": 473,
+   "status": "eol"
+  },
+  {
+   "numer": "60069",
+   "nazwa": "Posterunek wodnej policji",
+   "rok": 2015,
+   "elementy": 707,
+   "status": "eol"
+  },
+  {
+   "numer": "60070",
+   "nazwa": "Pościg hydroplanem",
+   "rok": 2015,
+   "elementy": 263,
+   "status": "eol"
+  },
+  {
+   "numer": "60071",
+   "nazwa": "Wielkie zatrzymanie",
+   "rok": 2015,
+   "elementy": 331,
+   "status": "eol"
+  },
+  {
+   "numer": "60072",
+   "nazwa": "Wyburzanie - zestaw startowy",
+   "rok": 2015,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "60073",
+   "nazwa": "Wóz techniczny",
+   "rok": 2015,
+   "elementy": 233,
+   "status": "eol"
+  },
+  {
+   "numer": "60074",
+   "nazwa": "Buldożer",
+   "rok": 2015,
+   "elementy": 384,
+   "status": "eol"
+  },
+  {
+   "numer": "60075",
+   "nazwa": "Koparka i ciężarówka",
+   "rok": 2015,
+   "elementy": 311,
+   "status": "eol"
+  },
+  {
+   "numer": "60076",
+   "nazwa": "Rozbiórka",
+   "rok": 2015,
+   "elementy": 776,
+   "status": "eol"
+  },
+  {
+   "numer": "60077",
+   "nazwa": "Kosmos - zestaw startowy",
+   "rok": 2015,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "60078",
+   "nazwa": "Miniprom kosmiczny",
+   "rok": 2015,
+   "elementy": 155,
+   "status": "eol"
+  },
+  {
+   "numer": "60079",
+   "nazwa": "Transporter odrzutowca",
+   "rok": 2015,
+   "elementy": 448,
+   "status": "eol"
+  },
+  {
+   "numer": "60080",
+   "nazwa": "Port kosmiczny",
+   "rok": 2015,
+   "elementy": 586,
+   "status": "eol"
+  },
+  {
+   "numer": "60081",
+   "nazwa": "Samochód pomocy drogowej",
+   "rok": 2015,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "60082",
+   "nazwa": "Mała terenówka z przyczepką",
+   "rok": 2015,
+   "elementy": 222,
+   "status": "eol"
+  },
+  {
+   "numer": "60083",
+   "nazwa": "Pług śnieżny",
+   "rok": 2015,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "60084",
+   "nazwa": "Transporter motocykli",
+   "rok": 2015,
+   "elementy": 178,
+   "status": "eol"
+  },
+  {
+   "numer": "60085",
+   "nazwa": "Terenówka z motorówką",
+   "rok": 2015,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "60086",
+   "nazwa": "Zestaw startowy",
+   "rok": 2015,
+   "elementy": 242,
+   "status": "eol"
+  },
+  {
+   "numer": "60088",
+   "nazwa": "Strażacy - zestaw startowy",
+   "rok": 2015,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "60090",
+   "nazwa": "Skuter głębinowy",
+   "rok": 2015,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "60091",
+   "nazwa": "Morskie głębiny - zestaw startowy",
+   "rok": 2015,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "60092",
+   "nazwa": "Łódź głębinowa",
+   "rok": 2015,
+   "elementy": 274,
+   "status": "eol"
+  },
+  {
+   "numer": "60093",
+   "nazwa": "Helikopter badaczy",
+   "rok": 2015,
+   "elementy": 388,
+   "status": "eol"
+  },
+  {
+   "numer": "60095",
+   "nazwa": "Statek do badań głębinowych",
+   "rok": 2015,
+   "elementy": 717,
+   "status": "eol"
+  },
+  {
+   "numer": "60096",
+   "nazwa": "Baza Głębinowa",
+   "rok": 2015,
+   "elementy": 907,
+   "status": "eol"
+  },
+  {
+   "numer": "60097",
+   "nazwa": "Plac miejski",
+   "rok": 2015,
+   "elementy": 1683,
+   "status": "eol"
+  },
+  {
+   "numer": "60098",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2015,
+   "elementy": 984,
+   "status": "eol"
+  },
+  {
+   "numer": "60099",
+   "nazwa": "Kalendarz adwentowy 2015",
+   "rok": 2015,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "66521",
+   "nazwa": "Demolition Super Pack",
+   "rok": 2015,
+   "elementy": 1393,
+   "status": "eol"
+  },
+  {
+   "numer": "66522",
+   "nazwa": "Deep Sea Explorers Super Pack 4-in-1",
+   "rok": 2015,
+   "elementy": 794,
+   "status": "eol"
+  },
+  {
+   "numer": "66523",
+   "nazwa": "City Super Pack 3-in-1",
+   "rok": 2015,
+   "elementy": 528,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUKAYAK",
+   "nazwa": "Kayak",
+   "rok": 2015,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
    "numer": "11911",
    "nazwa": "City: Build Your Own Adventure parts",
    "rok": 2016,
