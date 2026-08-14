@@ -13,7 +13,8 @@
    "brickset.com (theme City)",
    "brickset.com (theme Creator)",
    "brickset.com (theme Friends)",
-   "brickset.com (theme Duplo)"
+   "brickset.com (theme Duplo)",
+   "brickset.com (theme Ninjago)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -35371,6 +35372,1112 @@
    "nazwa": "M&T Pond Duck",
    "rok": 2026,
    "elementy": 7,
+   "status": "eol"
+  }
+ ],
+ "Ninjago": [
+  {
+   "numer": "20020",
+   "nazwa": "Mini Turbo Shredder",
+   "rok": 2011,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "2111",
+   "nazwa": "Kai",
+   "rok": 2011,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2112",
+   "nazwa": "Cole",
+   "rok": 2011,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2113",
+   "nazwa": "Zane",
+   "rok": 2011,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "2114",
+   "nazwa": "Chopov",
+   "rok": 2011,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "2115",
+   "nazwa": "Bonezai",
+   "rok": 2011,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "2116",
+   "nazwa": "Krazi",
+   "rok": 2011,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "2170",
+   "nazwa": "Cole DX",
+   "rok": 2011,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "2171",
+   "nazwa": "Zane DX",
+   "rok": 2011,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "2172",
+   "nazwa": "Nya",
+   "rok": 2011,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "2173",
+   "nazwa": "Nuckal",
+   "rok": 2011,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "2174",
+   "nazwa": "Kruncha",
+   "rok": 2011,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "2175",
+   "nazwa": "Wyplash",
+   "rok": 2011,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "2254",
+   "nazwa": "Górska Świątynia",
+   "rok": 2011,
+   "elementy": 169,
+   "status": "eol"
+  },
+  {
+   "numer": "2255",
+   "nazwa": "Sensei Wu",
+   "rok": 2011,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "2256",
+   "nazwa": "Lord Garmadon",
+   "rok": 2011,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "2257",
+   "nazwa": "Zestaw startowy Spinjitzu",
+   "rok": 2011,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "2258",
+   "nazwa": "Ninja w zasadzce",
+   "rok": 2011,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "2259",
+   "nazwa": "Motocykl czaszki",
+   "rok": 2011,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "2260",
+   "nazwa": "Atak Smoka Lodu",
+   "rok": 2011,
+   "elementy": 158,
+   "status": "eol"
+  },
+  {
+   "numer": "2263",
+   "nazwa": "Turboniszczarka",
+   "rok": 2011,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "2504",
+   "nazwa": "Sala treningowa Spinjitzu",
+   "rok": 2011,
+   "elementy": 373,
+   "status": "eol"
+  },
+  {
+   "numer": "2505",
+   "nazwa": "Mroczna Forteca Garmadona",
+   "rok": 2011,
+   "elementy": 518,
+   "status": "eol"
+  },
+  {
+   "numer": "2506",
+   "nazwa": "Czaszkowóz",
+   "rok": 2011,
+   "elementy": 515,
+   "status": "eol"
+  },
+  {
+   "numer": "2507",
+   "nazwa": "Świątynia Ognia",
+   "rok": 2011,
+   "elementy": 1174,
+   "status": "eol"
+  },
+  {
+   "numer": "2508",
+   "nazwa": "Kuźnia",
+   "rok": 2011,
+   "elementy": 189,
+   "status": "eol"
+  },
+  {
+   "numer": "2509",
+   "nazwa": "Obrona Smoka Ziemi",
+   "rok": 2011,
+   "elementy": 227,
+   "status": "eol"
+  },
+  {
+   "numer": "2516",
+   "nazwa": "Ośrodek treningowy ninja",
+   "rok": 2011,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "2518",
+   "nazwa": "Quad Nuckala",
+   "rok": 2011,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "2519",
+   "nazwa": "Gra w kręgle ze szkieletami",
+   "rok": 2011,
+   "elementy": 371,
+   "status": "eol"
+  },
+  {
+   "numer": "2520",
+   "nazwa": "Arena Ninjago",
+   "rok": 2011,
+   "elementy": 463,
+   "status": "eol"
+  },
+  {
+   "numer": "2521",
+   "nazwa": "Walka Smoka Błyskawicy",
+   "rok": 2011,
+   "elementy": 645,
+   "status": "eol"
+  },
+  {
+   "numer": "2856134",
+   "nazwa": "Ninjago Card Shrine",
+   "rok": 2011,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "30080",
+   "nazwa": "Ninja Glider",
+   "rok": 2011,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "30081",
+   "nazwa": "Skeleton Chopper",
+   "rok": 2011,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "30082",
+   "nazwa": "Ninja Training",
+   "rok": 2011,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "30083",
+   "nazwa": "Dragon Fight",
+   "rok": 2011,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "30084",
+   "nazwa": "Jay",
+   "rok": 2011,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "4636204",
+   "nazwa": "Ninjago promotional item",
+   "rok": 2011,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "66383",
+   "nazwa": "Super Pack 3 in 1",
+   "rok": 2011,
+   "elementy": 599,
+   "status": "eol"
+  },
+  {
+   "numer": "66394",
+   "nazwa": "3-in-1 Super Pack",
+   "rok": 2011,
+   "elementy": 830,
+   "status": "eol"
+  },
+  {
+   "numer": "853106",
+   "nazwa": "Ninjago Battle Arena",
+   "rok": 2011,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "853111",
+   "nazwa": "Ninjago Weapons Set + Lenticular Card",
+   "rok": 2011,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "30085",
+   "nazwa": "Jumping Snakes",
+   "rok": 2012,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "30086",
+   "nazwa": "GDLS61010 Rok Węży - Przygoda trwa. Części 4-6 + Mini zestaw Ukryte sztylety",
+   "rok": 2012,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "30087",
+   "nazwa": "Car",
+   "rok": 2012,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "30088",
+   "nazwa": "Rattla",
+   "rok": 2012,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "4659612",
+   "nazwa": "Spinner ring",
+   "rok": 2012,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "4659640",
+   "nazwa": "Special Edition Card",
+   "rok": 2012,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "5000030",
+   "nazwa": "Kendo Jay Booster Pack",
+   "rok": 2012,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "6012298",
+   "nazwa": "Promotional polybag",
+   "rok": 2012,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "66410",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 560,
+   "status": "eol"
+  },
+  {
+   "numer": "66444",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 504,
+   "status": "eol"
+  },
+  {
+   "numer": "850445",
+   "nazwa": "Ninjago Character Card Shrine",
+   "rok": 2012,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "9440",
+   "nazwa": "Świątynia Venomari",
+   "rok": 2012,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "9441",
+   "nazwa": "Mieczocykl Kaia",
+   "rok": 2012,
+   "elementy": 188,
+   "status": "eol"
+  },
+  {
+   "numer": "9442",
+   "nazwa": "Burzowy myśliwiec Jaya",
+   "rok": 2012,
+   "elementy": 243,
+   "status": "eol"
+  },
+  {
+   "numer": "9443",
+   "nazwa": "Chrzęstokopter",
+   "rok": 2012,
+   "elementy": 327,
+   "status": "eol"
+  },
+  {
+   "numer": "9444",
+   "nazwa": "Szturmowiec gąsienicowy Cole'a",
+   "rok": 2012,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "9445",
+   "nazwa": "Zasadzka samochodowa Ogniokła",
+   "rok": 2012,
+   "elementy": 452,
+   "status": "eol"
+  },
+  {
+   "numer": "9446",
+   "nazwa": "Perła przeznaczenia",
+   "rok": 2012,
+   "elementy": 680,
+   "status": "eol"
+  },
+  {
+   "numer": "9447",
+   "nazwa": "Gryzowóz Lashy",
+   "rok": 2012,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "9448",
+   "nazwa": "Samuraj Mech",
+   "rok": 2012,
+   "elementy": 452,
+   "status": "eol"
+  },
+  {
+   "numer": "9449",
+   "nazwa": "Pojazd ultradźwiękowy",
+   "rok": 2012,
+   "elementy": 622,
+   "status": "eol"
+  },
+  {
+   "numer": "9450",
+   "nazwa": "Epicka walka smoków",
+   "rok": 2012,
+   "elementy": 915,
+   "status": "eol"
+  },
+  {
+   "numer": "9455",
+   "nazwa": "Robot Ogniokieł",
+   "rok": 2012,
+   "elementy": 255,
+   "status": "eol"
+  },
+  {
+   "numer": "9456",
+   "nazwa": "Wirująca walka",
+   "rok": 2012,
+   "elementy": 418,
+   "status": "eol"
+  },
+  {
+   "numer": "9457",
+   "nazwa": "Niszcząca kula Ogniokła",
+   "rok": 2012,
+   "elementy": 415,
+   "status": "eol"
+  },
+  {
+   "numer": "9551",
+   "nazwa": "Kendo Cole",
+   "rok": 2012,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "9552",
+   "nazwa": "Lloyd Garmadon",
+   "rok": 2012,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "9553",
+   "nazwa": "Jay ZX",
+   "rok": 2012,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "9554",
+   "nazwa": "Zane ZX",
+   "rok": 2012,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "9555",
+   "nazwa": "Mezmo",
+   "rok": 2012,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "9556",
+   "nazwa": "Bytar",
+   "rok": 2012,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "9557",
+   "nazwa": "Lizaru",
+   "rok": 2012,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "9558",
+   "nazwa": "Zestaw szkoleniowy",
+   "rok": 2012,
+   "elementy": 219,
+   "status": "eol"
+  },
+  {
+   "numer": "9561",
+   "nazwa": "Kai ZX",
+   "rok": 2012,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "9562",
+   "nazwa": "Lasha",
+   "rok": 2012,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "9563",
+   "nazwa": "Kendo Zane",
+   "rok": 2012,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "9564",
+   "nazwa": "Snappa",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9566",
+   "nazwa": "Samurai",
+   "rok": 2012,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "9567",
+   "nazwa": "Fang-Suei",
+   "rok": 2012,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "9569",
+   "nazwa": "Spitta",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9570",
+   "nazwa": "NRG Jay",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9571",
+   "nazwa": "Fangdam",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9572",
+   "nazwa": "NRG Cole",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9573",
+   "nazwa": "Slithraa",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "9574",
+   "nazwa": "Lloyd ZX",
+   "rok": 2012,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "9579",
+   "nazwa": "Zestaw startowy",
+   "rok": 2012,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "9590",
+   "nazwa": "NRG Zane",
+   "rok": 2012,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "9591",
+   "nazwa": "Zestaw bitewny",
+   "rok": 2012,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "11901",
+   "nazwa": "Brickmaster Ninjago parts",
+   "rok": 2013,
+   "elementy": 154,
+   "status": "eol"
+  },
+  {
+   "numer": "11903",
+   "nazwa": "Brickmaster Ninjago: Fight the Power of the Snakes parts",
+   "rok": 2013,
+   "elementy": 156,
+   "status": "eol"
+  },
+  {
+   "numer": "70500",
+   "nazwa": "Ognisty robot Kaja",
+   "rok": 2013,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "70501",
+   "nazwa": "Pojazd wojownika",
+   "rok": 2013,
+   "elementy": 210,
+   "status": "eol"
+  },
+  {
+   "numer": "70502",
+   "nazwa": "Wiertło Cole'a",
+   "rok": 2013,
+   "elementy": 171,
+   "status": "eol"
+  },
+  {
+   "numer": "70503",
+   "nazwa": "Złoty smok",
+   "rok": 2013,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "70504",
+   "nazwa": "Garmatron",
+   "rok": 2013,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "70505",
+   "nazwa": "Świątynia światła",
+   "rok": 2013,
+   "elementy": 565,
+   "status": "eol"
+  },
+  {
+   "numer": "850632",
+   "nazwa": "NINJAGO Battle Pack",
+   "rok": 2013,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "5002144",
+   "nazwa": "Ninjago Battle Pack",
+   "rok": 2014,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "70720",
+   "nazwa": "Myśliwski Poduszkowiec",
+   "rok": 2014,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "70721",
+   "nazwa": "Pojazd bojowy Kaja",
+   "rok": 2014,
+   "elementy": 196,
+   "status": "eol"
+  },
+  {
+   "numer": "70722",
+   "nazwa": "Atak OverBorga",
+   "rok": 2014,
+   "elementy": 207,
+   "status": "eol"
+  },
+  {
+   "numer": "70723",
+   "nazwa": "Piorunowy pojazd",
+   "rok": 2014,
+   "elementy": 334,
+   "status": "eol"
+  },
+  {
+   "numer": "70724",
+   "nazwa": "Ninjakopter",
+   "rok": 2014,
+   "elementy": 516,
+   "status": "eol"
+  },
+  {
+   "numer": "70725",
+   "nazwa": "Smok nindroid",
+   "rok": 2014,
+   "elementy": 691,
+   "status": "eol"
+  },
+  {
+   "numer": "70726",
+   "nazwa": "Niszczyciel",
+   "rok": 2014,
+   "elementy": 253,
+   "status": "eol"
+  },
+  {
+   "numer": "70727",
+   "nazwa": "Ninjaścigacz X-1",
+   "rok": 2014,
+   "elementy": 426,
+   "status": "eol"
+  },
+  {
+   "numer": "70728",
+   "nazwa": "Bitwa o",
+   "rok": 2014,
+   "elementy": 1223,
+   "status": "eol"
+  },
+  {
+   "numer": "11909",
+   "nazwa": "Ninjago: Build your own Adventure parts",
+   "rok": 2015,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "30291",
+   "nazwa": "Anacondrai Battle Mech",
+   "rok": 2015,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30292",
+   "nazwa": "Jay Nano Mech",
+   "rok": 2015,
+   "elementy": 54,
+   "status": "eol"
+  },
+  {
+   "numer": "30293",
+   "nazwa": "Kai Drifter",
+   "rok": 2015,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30294",
+   "nazwa": "Smok Cowlera",
+   "rok": 2015,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "5002919",
+   "nazwa": "Scenery and dagger trap",
+   "rok": 2015,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "5002920",
+   "nazwa": "{Ninjago Accessory Pack}",
+   "rok": 2015,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "5003085",
+   "nazwa": "Minifigure pack",
+   "rok": 2015,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "70730",
+   "nazwa": "Pojazd łańcuchowy",
+   "rok": 2015,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "70731",
+   "nazwa": "Łazik Jaya",
+   "rok": 2015,
+   "elementy": 386,
+   "status": "eol"
+  },
+  {
+   "numer": "70732",
+   "nazwa": "Miasto Stiix",
+   "rok": 2015,
+   "elementy": 1069,
+   "status": "eol"
+  },
+  {
+   "numer": "70733",
+   "nazwa": "Motocykl Cole'a",
+   "rok": 2015,
+   "elementy": 212,
+   "status": "eol"
+  },
+  {
+   "numer": "70734",
+   "nazwa": "Smok mistrza Wu",
+   "rok": 2015,
+   "elementy": 575,
+   "status": "eol"
+  },
+  {
+   "numer": "70735",
+   "nazwa": "Ronin R.E.X.",
+   "rok": 2015,
+   "elementy": 547,
+   "status": "eol"
+  },
+  {
+   "numer": "70736",
+   "nazwa": "Atak smoka Morro",
+   "rok": 2015,
+   "elementy": 658,
+   "status": "eol"
+  },
+  {
+   "numer": "70737",
+   "nazwa": "Starcie tytanów Mech",
+   "rok": 2015,
+   "elementy": 754,
+   "status": "eol"
+  },
+  {
+   "numer": "70738",
+   "nazwa": "Ostatni lot Perły Przeznaczenia",
+   "rok": 2015,
+   "elementy": 1253,
+   "status": "eol"
+  },
+  {
+   "numer": "70739",
+   "nazwa": "Airjitzu Latająca kapsuła Kai'a",
+   "rok": 2015,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "70740",
+   "nazwa": "Airjitzu Latająca kapsuła Jay'a",
+   "rok": 2015,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "70741",
+   "nazwa": "Airjitzu Latająca kapsuła Cole'a",
+   "rok": 2015,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "70742",
+   "nazwa": "Airjitzu Latająca kapsuła Zane'a",
+   "rok": 2015,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "70743",
+   "nazwa": "Airjitzu Latająca kapsuła Morro",
+   "rok": 2015,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "70744",
+   "nazwa": "Airjitzu Latająca kapsuła Wraytha",
+   "rok": 2015,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "70745",
+   "nazwa": "Niszczyciel Anacondrai",
+   "rok": 2015,
+   "elementy": 219,
+   "status": "eol"
+  },
+  {
+   "numer": "70746",
+   "nazwa": "Atak śmigłowca Condrai",
+   "rok": 2015,
+   "elementy": 311,
+   "status": "eol"
+  },
+  {
+   "numer": "70747",
+   "nazwa": "Kruszarka skał",
+   "rok": 2015,
+   "elementy": 236,
+   "status": "eol"
+  },
+  {
+   "numer": "70748",
+   "nazwa": "Tytanowy smok",
+   "rok": 2015,
+   "elementy": 360,
+   "status": "eol"
+  },
+  {
+   "numer": "70749",
+   "nazwa": "Wężowe wrota",
+   "rok": 2015,
+   "elementy": 529,
+   "status": "eol"
+  },
+  {
+   "numer": "70750",
+   "nazwa": "Ninja DB X",
+   "rok": 2015,
+   "elementy": 756,
+   "status": "eol"
+  },
+  {
+   "numer": "70751",
+   "nazwa": "Świątynia Airjitzu",
+   "rok": 2015,
+   "elementy": 2028,
+   "status": "eol"
+  },
+  {
+   "numer": "70752",
+   "nazwa": "Pułapka w dżungli",
+   "rok": 2015,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "70753",
+   "nazwa": "Pojedynek na moście",
+   "rok": 2015,
+   "elementy": 94,
+   "status": "eol"
+  },
+  {
+   "numer": "70754",
+   "nazwa": "ElectroMech",
+   "rok": 2015,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "70755",
+   "nazwa": "Ścigacz",
+   "rok": 2015,
+   "elementy": 188,
+   "status": "eol"
+  },
+  {
+   "numer": "70756",
+   "nazwa": "Starcie w Dojo",
+   "rok": 2015,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "851342",
+   "nazwa": "Ninja Army Building Set",
+   "rok": 2015,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "891501",
+   "nazwa": "Kai",
+   "rok": 2015,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "891502",
+   "nazwa": "Krait",
+   "rok": 2015,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "891503",
+   "nazwa": "Cole",
+   "rok": 2015,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "891504",
+   "nazwa": "Weapons Rack",
+   "rok": 2015,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "891505",
+   "nazwa": "Jay",
+   "rok": 2015,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "891506",
+   "nazwa": "Ming",
+   "rok": 2015,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "891507",
+   "nazwa": "Zane",
+   "rok": 2015,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "891508",
+   "nazwa": "Anacondrai Hideout",
+   "rok": 2015,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUNINJAGO",
+   "nazwa": "Micro Shinto Shrine",
+   "rok": 2015,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUNINJAGO-2",
+   "nazwa": "Micro Electromech Robot",
+   "rok": 2015,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUNINJAGO-3",
+   "nazwa": "Micro Kai's Fighter Jet",
+   "rok": 2015,
+   "status": "eol"
+  },
+  {
+   "numer": "TRUNINJAGO-4",
+   "nazwa": "Micro Morro Dragon",
+   "rok": 2015,
+   "elementy": 29,
    "status": "eol"
   }
  ]
