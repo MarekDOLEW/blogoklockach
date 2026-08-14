@@ -15,7 +15,8 @@
    "brickset.com (theme Friends)",
    "brickset.com (theme Duplo)",
    "brickset.com (theme Ninjago)",
-   "brickset.com (theme Marvel-Super-Heroes)"
+   "brickset.com (theme Marvel-Super-Heroes)",
+   "brickset.com (theme Seasonal)"
   ],
   "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
  },
@@ -42576,6 +42577,1298 @@
    "rok": 2026,
    "elementy": 7,
    "status": "eol"
+  }
+ ],
+ "Seasonal": [
+  {
+   "numer": "40120",
+   "nazwa": "Valentine's Day Dinner",
+   "rok": 2015,
+   "elementy": 114,
+   "status": "eol"
+  },
+  {
+   "numer": "40121",
+   "nazwa": "Painting Easter Eggs",
+   "rok": 2015,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "40122",
+   "nazwa": "Cukierek albo psikus",
+   "rok": 2015,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "40123",
+   "nazwa": "Uczta na Dzień Dziękczynienia",
+   "rok": 2015,
+   "elementy": 158,
+   "status": "eol"
+  },
+  {
+   "numer": "40124",
+   "nazwa": "Zimowa frajda",
+   "rok": 2015,
+   "elementy": 107,
+   "status": "eol"
+  },
+  {
+   "numer": "40125",
+   "nazwa": "Wizyta Świętego Mikołaja",
+   "rok": 2015,
+   "elementy": 167,
+   "status": "eol"
+  },
+  {
+   "numer": "40138",
+   "nazwa": "Świąteczny pociąg",
+   "rok": 2015,
+   "elementy": 233,
+   "status": "eol"
+  },
+  {
+   "numer": "40139",
+   "nazwa": "Chatka z piernika",
+   "rok": 2015,
+   "elementy": 277,
+   "status": "eol"
+  },
+  {
+   "numer": "40148",
+   "nazwa": "Year of the Sheep",
+   "rok": 2015,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "40153",
+   "nazwa": "Urodzinowa dekoracja stołu",
+   "rok": 2015,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "5003083",
+   "nazwa": "Christmas Ornament",
+   "rok": 2015,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "851358",
+   "nazwa": "Holiday Bauble White Bricks",
+   "rok": 2015,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "40201",
+   "nazwa": "Walentynkowy piesek",
+   "rok": 2016,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "40202",
+   "nazwa": "Easter Chick",
+   "rok": 2016,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "40203",
+   "nazwa": "Wampir i nietoperz",
+   "rok": 2016,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "40204",
+   "nazwa": "Świąteczny obiad",
+   "rok": 2016,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "40205",
+   "nazwa": "Pomocnicy Świętego Mikołaja",
+   "rok": 2016,
+   "elementy": 238,
+   "status": "eol"
+  },
+  {
+   "numer": "40206",
+   "nazwa": "Święty Mikołaj",
+   "rok": 2016,
+   "elementy": 155,
+   "status": "eol"
+  },
+  {
+   "numer": "40207",
+   "nazwa": "Year of the Monkey",
+   "rok": 2016,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "40222",
+   "nazwa": "Świąteczne budowanie z",
+   "rok": 2016,
+   "elementy": 250,
+   "status": "eol"
+  },
+  {
+   "numer": "40223",
+   "nazwa": "Śnieżna kula",
+   "rok": 2016,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "40226",
+   "nazwa": "Birthday Buddy",
+   "rok": 2016,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "5004420",
+   "nazwa": "Toy Soldier",
+   "rok": 2016,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "5004468",
+   "nazwa": "Iconic Easter Minifigure",
+   "rok": 2016,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5005156",
+   "nazwa": "Gingerbread Man",
+   "rok": 2016,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "853574",
+   "nazwa": "Christmas Ornament Reindeer",
+   "rok": 2016,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "VALENTINE",
+   "nazwa": "Valentine's Day Card",
+   "rok": 2016,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "40234",
+   "nazwa": "Rok koguta",
+   "rok": 2017,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "40236",
+   "nazwa": "Romantyczny piknik walentynkowy",
+   "rok": 2017,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "40237",
+   "nazwa": "Pogoń za jajkiem wielkanocnym",
+   "rok": 2017,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "40253",
+   "nazwa": "Świąteczne budowanie",
+   "rok": 2017,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "40254",
+   "nazwa": "Dziadek do orzechów",
+   "rok": 2017,
+   "elementy": 230,
+   "status": "eol"
+  },
+  {
+   "numer": "40260",
+   "nazwa": "Strachy na Halloween",
+   "rok": 2017,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "40261",
+   "nazwa": "Plony na Święto Dziękczynienia",
+   "rok": 2017,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "40262",
+   "nazwa": "Świąteczny pociąg",
+   "rok": 2017,
+   "elementy": 169,
+   "status": "eol"
+  },
+  {
+   "numer": "40263",
+   "nazwa": "Świąteczny Rynek",
+   "rok": 2017,
+   "elementy": 179,
+   "status": "eol"
+  },
+  {
+   "numer": "5004931",
+   "nazwa": "Birthday Card",
+   "rok": 2017,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "5004934",
+   "nazwa": "Christmas Ornament",
+   "rok": 2017,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "853670",
+   "nazwa": "Christmas Ornament Snowman",
+   "rok": 2017,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "40187",
+   "nazwa": "Kwiaty",
+   "rok": 2018,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "40235",
+   "nazwa": "Rok Psa",
+   "rok": 2018,
+   "elementy": 156,
+   "status": "eol"
+  },
+  {
+   "numer": "40292",
+   "nazwa": "Prezent gwiazdkowy",
+   "rok": 2018,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "40293",
+   "nazwa": "Bożonarodzeniowa karuzela",
+   "rok": 2018,
+   "elementy": 251,
+   "status": "eol"
+  },
+  {
+   "numer": "5005249",
+   "nazwa": "Easter Bunny Hut",
+   "rok": 2018,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "5005253",
+   "nazwa": "Christmas Ornament 2018 - Reindeer Head",
+   "rok": 2018,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "6240688",
+   "nazwa": "Chinese New Year of the Dog Exclusive Set",
+   "rok": 2018,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "6242508",
+   "nazwa": "Chinese New Year Fortuna Exclusive Set",
+   "rok": 2018,
+   "status": "eol"
+  },
+  {
+   "numer": "853796",
+   "nazwa": "Penguin Holiday Ornament",
+   "rok": 2018,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "853810",
+   "nazwa": "Train Holiday Ornament",
+   "rok": 2018,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "853815",
+   "nazwa": "Gifts Holiday Ornament",
+   "rok": 2018,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "40186",
+   "nazwa": "Rok świni",
+   "rok": 2019,
+   "elementy": 152,
+   "status": "eol"
+  },
+  {
+   "numer": "40338",
+   "nazwa": "Choinka",
+   "rok": 2019,
+   "elementy": 392,
+   "status": "eol"
+  },
+  {
+   "numer": "80101",
+   "nazwa": "Chińska kolacja sylwestrowa",
+   "rok": 2019,
+   "elementy": 615,
+   "status": "eol"
+  },
+  {
+   "numer": "80102",
+   "nazwa": "Taniec smoka",
+   "rok": 2019,
+   "elementy": 622,
+   "status": "eol"
+  },
+  {
+   "numer": "80103",
+   "nazwa": "Dragon Boat Race",
+   "rok": 2019,
+   "elementy": 643,
+   "status": "eol"
+  },
+  {
+   "numer": "853906",
+   "nazwa": "LEGO Greeting Card",
+   "rok": 2019,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "853907",
+   "nazwa": "LEGO Toy Soldier Ornament",
+   "rok": 2019,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "853958",
+   "nazwa": "Chicken Skater Pod",
+   "rok": 2019,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "EASTERCHICK",
+   "nazwa": "Easter Chick",
+   "rok": 2019,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "40355",
+   "nazwa": "Rok szczura",
+   "rok": 2020,
+   "elementy": 162,
+   "status": "eol"
+  },
+  {
+   "numer": "40371",
+   "nazwa": "Pisanka",
+   "rok": 2020,
+   "elementy": 239,
+   "status": "eol"
+  },
+  {
+   "numer": "40382",
+   "nazwa": "Zestaw urodzinowy",
+   "rok": 2020,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "40410",
+   "nazwa": "W hołdzie Charlesowi Dickensowi",
+   "rok": 2020,
+   "elementy": 333,
+   "status": "eol"
+  },
+  {
+   "numer": "40416",
+   "nazwa": "Lodowisko",
+   "rok": 2020,
+   "elementy": 304,
+   "status": "eol"
+  },
+  {
+   "numer": "40423",
+   "nazwa": "Halloweenowa przejażdżka",
+   "rok": 2020,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "40424",
+   "nazwa": "Zimowa bitwa na śnieżki",
+   "rok": 2020,
+   "elementy": 149,
+   "status": "eol"
+  },
+  {
+   "numer": "40426",
+   "nazwa": "Bożonarodzeniowy wieniec 2 w 1",
+   "rok": 2020,
+   "elementy": 510,
+   "status": "eol"
+  },
+  {
+   "numer": "6317939",
+   "nazwa": "Chinese New Year Peach Flower",
+   "rok": 2020,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "80104",
+   "nazwa": "Taniec lwa",
+   "rok": 2020,
+   "elementy": 882,
+   "status": "eol"
+  },
+  {
+   "numer": "80105",
+   "nazwa": "Chiński jarmark noworoczny",
+   "rok": 2020,
+   "elementy": 1664,
+   "status": "eol"
+  },
+  {
+   "numer": "853990",
+   "nazwa": "Easter Bunny House",
+   "rok": 2020,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "854037",
+   "nazwa": "Christmas Ornament Santa",
+   "rok": 2020,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "854038",
+   "nazwa": "Christmas Ornament Reindeer",
+   "rok": 2020,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "854049",
+   "nazwa": "Pumpkin & Bat Duo",
+   "rok": 2020,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "854050",
+   "nazwa": "Snowman & Reindeer Duo",
+   "rok": 2020,
+   "elementy": 126,
+   "status": "eol"
+  },
+  {
+   "numer": "TEDDY",
+   "nazwa": "Teddy Bear",
+   "rok": 2020,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "40417",
+   "nazwa": "Rok bawoła",
+   "rok": 2021,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "40449",
+   "nazwa": "Marchewkowy domek zajączka wielkanocnego",
+   "rok": 2021,
+   "elementy": 232,
+   "status": "eol"
+  },
+  {
+   "numer": "40462",
+   "nazwa": "Walentynkowy niedźwiedź brunatny",
+   "rok": 2021,
+   "elementy": 245,
+   "status": "eol"
+  },
+  {
+   "numer": "40463",
+   "nazwa": "Zajączek wielkanocny",
+   "rok": 2021,
+   "elementy": 293,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40484",
+   "nazwa": "Podwórko Świętego Mikołaja",
+   "rok": 2021,
+   "elementy": 317,
+   "status": "eol"
+  },
+  {
+   "numer": "40489",
+   "nazwa": "Mr. and Mrs. Claus' Living Room",
+   "rok": 2021,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "40493",
+   "nazwa": "Pająk i nawiedzony dom",
+   "rok": 2021,
+   "elementy": 132,
+   "status": "eol"
+  },
+  {
+   "numer": "40494",
+   "nazwa": "Niedźwiedź polarny i pudełko z prezentem",
+   "rok": 2021,
+   "elementy": 142,
+   "status": "eol"
+  },
+  {
+   "numer": "40497",
+   "nazwa": "Halloweenowa sowa",
+   "rok": 2021,
+   "elementy": 228,
+   "status": "eol"
+  },
+  {
+   "numer": "40498",
+   "nazwa": "Bożonarodzeniowy pingwin",
+   "rok": 2021,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "40499",
+   "nazwa": "Sanie Świętego Mikołaja",
+   "rok": 2021,
+   "elementy": 343,
+   "status": "dostepny"
+  },
+  {
+   "numer": "6412186",
+   "nazwa": "Egg and Chick",
+   "rok": 2021,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "80106",
+   "nazwa": "Historia Niana",
+   "rok": 2021,
+   "elementy": 1067,
+   "status": "eol"
+  },
+  {
+   "numer": "80107",
+   "nazwa": "Chińskie Święto Latarni",
+   "rok": 2021,
+   "elementy": 1793,
+   "status": "eol"
+  },
+  {
+   "numer": "40491",
+   "nazwa": "Rok tygrysa",
+   "rok": 2022,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "40522",
+   "nazwa": "Walentynkowe papużki nierozłączki",
+   "rok": 2022,
+   "elementy": 298,
+   "status": "eol"
+  },
+  {
+   "numer": "40523",
+   "nazwa": "Zajaczki wielkanocne",
+   "rok": 2022,
+   "elementy": 288,
+   "status": "eol"
+  },
+  {
+   "numer": "40527",
+   "nazwa": "Kurczaczki wielkanocne",
+   "rok": 2022,
+   "elementy": 318,
+   "status": "eol"
+  },
+  {
+   "numer": "40564",
+   "nazwa": "Zimowe elfy",
+   "rok": 2022,
+   "elementy": 372,
+   "status": "eol"
+  },
+  {
+   "numer": "40565",
+   "nazwa": "Pracownia Świętego Mikołaja",
+   "rok": 2022,
+   "elementy": 329,
+   "status": "eol"
+  },
+  {
+   "numer": "40570",
+   "nazwa": "Kot i mysz na Halloween",
+   "rok": 2022,
+   "elementy": 328,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40571",
+   "nazwa": "Zimowe niedźwiedzie polarne",
+   "rok": 2022,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "40572",
+   "nazwa": "Pingwin i płatek śniegu",
+   "rok": 2022,
+   "elementy": 139,
+   "status": "eol"
+  },
+  {
+   "numer": "40573",
+   "nazwa": "Choinka",
+   "rok": 2022,
+   "elementy": 784,
+   "status": "dostepny"
+  },
+  {
+   "numer": "80108",
+   "nazwa": "Nowy Rok Księżycowy - tradycje",
+   "rok": 2022,
+   "elementy": 1066,
+   "status": "eol"
+  },
+  {
+   "numer": "80109",
+   "nazwa": "Nowy Rok Księżycowy - Festiwal Lodu",
+   "rok": 2022,
+   "elementy": 1519,
+   "status": "eol"
+  },
+  {
+   "numer": "40575",
+   "nazwa": "Rok królika",
+   "rok": 2023,
+   "elementy": 194,
+   "status": "eol"
+  },
+  {
+   "numer": "40584",
+   "nazwa": "Urodzinowa diorama",
+   "rok": 2023,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "40587",
+   "nazwa": "Easter Basket",
+   "rok": 2023,
+   "elementy": 368,
+   "status": "eol"
+  },
+  {
+   "numer": "40603",
+   "nazwa": "Zimowa przejażdżka powozem",
+   "rok": 2023,
+   "elementy": 153,
+   "status": "eol"
+  },
+  {
+   "numer": "40604",
+   "nazwa": "Zestaw świątecznych ozdób",
+   "rok": 2023,
+   "elementy": 182,
+   "status": "eol"
+  },
+  {
+   "numer": "40638",
+   "nazwa": "Ozdoba w kształcie serca",
+   "rok": 2023,
+   "elementy": 254,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40639",
+   "nazwa": "Ptasie gniazdo",
+   "rok": 2023,
+   "elementy": 232,
+   "status": "eol"
+  },
+  {
+   "numer": "40640",
+   "nazwa": "Dziadek do orzechów",
+   "rok": 2023,
+   "elementy": 208,
+   "status": "eol"
+  },
+  {
+   "numer": "40641",
+   "nazwa": "Tort urodzinowy",
+   "rok": 2023,
+   "elementy": 211,
+   "status": "eol"
+  },
+  {
+   "numer": "40642",
+   "nazwa": "Piernikowe ozdoby",
+   "rok": 2023,
+   "elementy": 190,
+   "status": "eol"
+  },
+  {
+   "numer": "40643",
+   "nazwa": "Księżycowy królik",
+   "rok": 2023,
+   "elementy": 288,
+   "status": "eol"
+  },
+  {
+   "numer": "40644",
+   "nazwa": "Piñata",
+   "rok": 2023,
+   "elementy": 206,
+   "status": "eol"
+  },
+  {
+   "numer": "40648",
+   "nazwa": "Pachira - Drzewo pieniędzy",
+   "rok": 2023,
+   "elementy": 336,
+   "status": "eol"
+  },
+  {
+   "numer": "6444659",
+   "nazwa": "God of Fortune",
+   "rok": 2023,
+   "elementy": 132,
+   "status": "eol"
+  },
+  {
+   "numer": "6490363",
+   "nazwa": "By the Fireplace",
+   "rok": 2023,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "80110",
+   "nazwa": "Model kolekcjonerski na nowy rok księżycowy",
+   "rok": 2023,
+   "elementy": 872,
+   "status": "eol"
+  },
+  {
+   "numer": "80111",
+   "nazwa": "Parada z okazji nowego roku księżycowego",
+   "rok": 2023,
+   "elementy": 1653,
+   "status": "eol"
+  },
+  {
+   "numer": "BNJOL",
+   "nazwa": "Jack-o'-lantern",
+   "rok": 2023,
+   "elementy": 113,
+   "status": "eol"
+  },
+  {
+   "numer": "40611",
+   "nazwa": "Rok smoka",
+   "rok": 2024,
+   "elementy": 214,
+   "status": "eol"
+  },
+  {
+   "numer": "40678",
+   "nazwa": "Kalendarz festiwalowy",
+   "rok": 2024,
+   "elementy": 345,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40679",
+   "nazwa": "Miłosne pudełko prezentowe",
+   "rok": 2024,
+   "elementy": 159,
+   "status": "eol"
+  },
+  {
+   "numer": "40682",
+   "nazwa": "Wiosenny domek",
+   "rok": 2024,
+   "elementy": 277,
+   "status": "eol"
+  },
+  {
+   "numer": "40701",
+   "nazwa": "Scena z baletnicą i dziadkiem do orzechów",
+   "rok": 2024,
+   "elementy": 244,
+   "status": "eol"
+  },
+  {
+   "numer": "40702",
+   "nazwa": "Świąteczna ramka",
+   "rok": 2024,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "40709",
+   "nazwa": "Wiosenny plac zabaw dla zwierzątek",
+   "rok": 2024,
+   "elementy": 172,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40711",
+   "nazwa": "Piknik pary jeżyków",
+   "rok": 2024,
+   "elementy": 166,
+   "status": "eol"
+  },
+  {
+   "numer": "40721",
+   "nazwa": "Halloweenowa stodoła",
+   "rok": 2024,
+   "elementy": 205,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40743",
+   "nazwa": "Świąteczna dekoracja stołu",
+   "rok": 2024,
+   "elementy": 433,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40744",
+   "nazwa": "Kolekcja ozdób świątecznych",
+   "rok": 2024,
+   "elementy": 153,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40746",
+   "nazwa": "Ciężarówka Świętego Mikołaja",
+   "rok": 2024,
+   "elementy": 224,
+   "status": "dostepny"
+  },
+  {
+   "numer": "6509762",
+   "nazwa": "Birthday Cake",
+   "rok": 2024,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "6550806",
+   "nazwa": "Gingerbread Lane",
+   "rok": 2024,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "80112",
+   "nazwa": "Smok pomyślności",
+   "rok": 2024,
+   "elementy": 1171,
+   "status": "eol"
+  },
+  {
+   "numer": "80113",
+   "nazwa": "Zjazd rodzinny",
+   "rok": 2024,
+   "elementy": 1823,
+   "status": "eol"
+  },
+  {
+   "numer": "40707",
+   "nazwa": "Rok węża",
+   "rok": 2025,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "40756",
+   "nazwa": "Węzły szczęścia",
+   "rok": 2025,
+   "elementy": 317,
+   "status": "eol"
+  },
+  {
+   "numer": "40764",
+   "nazwa": "Niespodzianka zajączka wielkanocnego",
+   "rok": 2025,
+   "elementy": 217,
+   "status": "eol"
+  },
+  {
+   "numer": "40779",
+   "nazwa": "Rok konia",
+   "rok": 2025,
+   "elementy": 133,
+   "status": "eol"
+  },
+  {
+   "numer": "40780",
+   "nazwa": "Tort urodzinowy",
+   "rok": 2025,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "40807",
+   "nazwa": "Urodzinowe cyferki",
+   "rok": 2025,
+   "elementy": 281,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40808",
+   "nazwa": "Poszukiwanie pisanek z zajączkiem i kurczakiem",
+   "rok": 2025,
+   "elementy": 140,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40809",
+   "nazwa": "Świąteczna chatka z piernika",
+   "rok": 2025,
+   "elementy": 498,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40811",
+   "nazwa": "Ołtarz Día De Los Muertos",
+   "rok": 2025,
+   "elementy": 231,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40812",
+   "nazwa": "Ozdoby z bałwankami",
+   "rok": 2025,
+   "elementy": 168,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40813",
+   "nazwa": "Japoński kot szczęścia",
+   "rok": 2025,
+   "elementy": 280,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40815",
+   "nazwa": "Tort na przyjęcie urodzinowe",
+   "rok": 2025,
+   "elementy": 219,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40816",
+   "nazwa": "Dekoracyjna Pisanka",
+   "rok": 2025,
+   "elementy": 386,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40820",
+   "nazwa": "Powiększona minifigurka Świętego Mikołaja",
+   "rok": 2025,
+   "elementy": 761,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40821",
+   "nazwa": "Zakochane niedźwiedzie",
+   "rok": 2025,
+   "elementy": 287,
+   "status": "eol"
+  },
+  {
+   "numer": "40822",
+   "nazwa": "Dyniowy pickup",
+   "rok": 2025,
+   "elementy": 177,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40824",
+   "nazwa": "Uroczy kanarek Tweety",
+   "rok": 2025,
+   "elementy": 412,
+   "status": "dostepny"
+  },
+  {
+   "numer": "40825",
+   "nazwa": "Wieniec na Halloween",
+   "rok": 2025,
+   "elementy": 617,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41843",
+   "nazwa": "Rodzinna choinka",
+   "rok": 2025,
+   "elementy": 3171,
+   "status": "eol"
+  },
+  {
+   "numer": "5009616",
+   "nazwa": "Turkey Time Build",
+   "rok": 2025,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "5009635",
+   "nazwa": "Holiday Train",
+   "rok": 2025,
+   "elementy": 131,
+   "status": "eol"
+  },
+  {
+   "numer": "6602967",
+   "nazwa": "Holiday Snowman",
+   "rok": 2025,
+   "elementy": 130,
+   "status": "eol"
+  },
+  {
+   "numer": "66801",
+   "nazwa": "Springtime Animal Play Pack",
+   "rok": 2025,
+   "elementy": 382,
+   "status": "eol"
+  },
+  {
+   "numer": "80116",
+   "nazwa": "Tradycyjna chińska lampa",
+   "rok": 2025,
+   "elementy": 1295,
+   "status": "eol"
+  },
+  {
+   "numer": "80117",
+   "nazwa": "Pomyślność",
+   "rok": 2025,
+   "elementy": 1021,
+   "status": "eol"
+  },
+  {
+   "numer": "40862",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "40863",
+   "nazwa": "Wielkanocny kosz z pisankami",
+   "rok": 2026,
+   "elementy": 216,
+   "status": "eol"
+  },
+  {
+   "numer": "40864",
+   "nazwa": "Mistrz Szczęścia",
+   "rok": 2026,
+   "elementy": 386,
+   "status": "eol"
+  },
+  {
+   "numer": "40865",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "40866",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "40867",
+   "nazwa": "Litery pełne miłości",
+   "rok": 2026,
+   "elementy": 345,
+   "status": "eol"
+  },
+  {
+   "numer": "40871",
+   "nazwa": "Pudełko prezentowe na każdą okazję",
+   "rok": 2026,
+   "elementy": 224,
+   "status": "eol"
+  },
+  {
+   "numer": "40872",
+   "nazwa": "Halloweenowa latarnia z dyni",
+   "rok": 2026,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "40873",
+   "nazwa": "Kolorowy lampion",
+   "rok": 2026,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "40874",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "status": "eol"
+  },
+  {
+   "numer": "40875",
+   "nazwa": "{?}",
+   "rok": 2026,
+   "elementy": 904,
+   "status": "eol"
+  },
+  {
+   "numer": "40883",
+   "nazwa": "Halloweenowa czaszka ze świecą",
+   "rok": 2026,
+   "elementy": 204,
+   "status": "eol"
+  },
+  {
+   "numer": "40886",
+   "nazwa": "Zakochane pingwiny",
+   "rok": 2026,
+   "elementy": 278,
+   "status": "eol"
+  },
+  {
+   "numer": "40890",
+   "nazwa": "Wielkanocne dekoracje",
+   "rok": 2026,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "40905",
+   "nazwa": "Urodzinowa babeczka",
+   "rok": 2026,
+   "elementy": 174,
+   "status": "eol"
+  },
+  {
+   "numer": "40915",
+   "nazwa": "Taniec lwa",
+   "rok": 2026,
+   "elementy": 480,
+   "status": "eol"
+  },
+  {
+   "numer": "40920",
+   "nazwa": "Królik Bugs",
+   "rok": 2026,
+   "elementy": 605,
+   "status": "eol"
+  },
+  {
+   "numer": "40957",
+   "nazwa": "Wiosenny wieniec",
+   "rok": 2026,
+   "elementy": 747,
+   "status": "eol"
+  },
+  {
+   "numer": "40958",
+   "nazwa": "Świąteczna skarpeta",
+   "rok": 2026,
+   "elementy": 342,
+   "status": "eol"
+  },
+  {
+   "numer": "66822",
+   "nazwa": "Haunted Halloween Set",
+   "rok": 2026,
+   "elementy": 947,
+   "status": "eol"
+  },
+  {
+   "numer": "80118",
+   "nazwa": "Chińska petarda noworoczna",
+   "rok": 2026,
+   "elementy": 1039,
+   "status": "eol"
+  },
+  {
+   "numer": "80119",
+   "nazwa": "Obraz z galopującymi końmi",
+   "rok": 2026,
+   "elementy": 1650,
+   "status": "eol"
+  },
+  {
+   "numer": "80120",
+   "nazwa": "Chinese Festivals Karp przeskakujący przez Smoczą Bramę",
+   "rok": 2026,
+   "elementy": 736,
+   "status": "dostepny"
+  },
+  {
+   "numer": "80121",
+   "nazwa": "Chinese Festivals Stary zajazd",
+   "rok": 2026,
+   "elementy": 1530,
+   "status": "dostepny"
   }
  ]
 }
