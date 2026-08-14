@@ -8602,6 +8602,755 @@
  ],
  "Technic": [
   {
+   "numer": "8415",
+   "nazwa": "Dump Truck",
+   "rok": 2005,
+   "elementy": 284,
+   "status": "eol"
+  },
+  {
+   "numer": "8416",
+   "nazwa": "Fork-Lift",
+   "rok": 2005,
+   "elementy": 729,
+   "status": "eol"
+  },
+  {
+   "numer": "8418",
+   "nazwa": "Mini Loader",
+   "rok": 2005,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "8419",
+   "nazwa": "Excavator",
+   "rok": 2005,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "8420",
+   "nazwa": "Street Bike",
+   "rok": 2005,
+   "elementy": 506,
+   "status": "eol"
+  },
+  {
+   "numer": "8421",
+   "nazwa": "Mobile Crane",
+   "rok": 2005,
+   "elementy": 1884,
+   "status": "eol"
+  },
+  {
+   "numer": "8281",
+   "nazwa": "Mini Tractor",
+   "rok": 2006,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "8282",
+   "nazwa": "Quad Bike",
+   "rok": 2006,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "8283",
+   "nazwa": "Telehandler",
+   "rok": 2006,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "8284",
+   "nazwa": "Dune Buggy / Tractor",
+   "rok": 2006,
+   "elementy": 872,
+   "status": "eol"
+  },
+  {
+   "numer": "8285",
+   "nazwa": "Tow Truck",
+   "rok": 2006,
+   "elementy": 1877,
+   "status": "eol"
+  },
+  {
+   "numer": "8287",
+   "nazwa": "Motor Box",
+   "rok": 2006,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "8288",
+   "nazwa": "Crawler Crane",
+   "rok": 2006,
+   "elementy": 800,
+   "status": "eol"
+  },
+  {
+   "numer": "8289",
+   "nazwa": "Fire Truck",
+   "rok": 2006,
+   "elementy": 1035,
+   "status": "eol"
+  },
+  {
+   "numer": "8270",
+   "nazwa": "Rough Terrain Crane",
+   "rok": 2007,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "8271",
+   "nazwa": "Wheel Loader",
+   "rok": 2007,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "8272",
+   "nazwa": "Snowmobile",
+   "rok": 2007,
+   "elementy": 331,
+   "status": "eol"
+  },
+  {
+   "numer": "8273",
+   "nazwa": "Off Road Truck",
+   "rok": 2007,
+   "elementy": 805,
+   "status": "eol"
+  },
+  {
+   "numer": "8274",
+   "nazwa": "Combine Harvester",
+   "rok": 2007,
+   "elementy": 1025,
+   "status": "eol"
+  },
+  {
+   "numer": "8275",
+   "nazwa": "Motorized Bulldozer",
+   "rok": 2007,
+   "elementy": 1384,
+   "status": "eol"
+  },
+  {
+   "numer": "66300",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 720,
+   "status": "eol"
+  },
+  {
+   "numer": "8290",
+   "nazwa": "Mini Forklift",
+   "rok": 2008,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "8291",
+   "nazwa": "Dirt Bike",
+   "rok": 2008,
+   "elementy": 248,
+   "status": "eol"
+  },
+  {
+   "numer": "8292",
+   "nazwa": "Cherry Picker",
+   "rok": 2008,
+   "elementy": 726,
+   "status": "eol"
+  },
+  {
+   "numer": "8294",
+   "nazwa": "Excavator",
+   "rok": 2008,
+   "elementy": 720,
+   "status": "eol"
+  },
+  {
+   "numer": "8295",
+   "nazwa": "Telescopic Handler",
+   "rok": 2008,
+   "elementy": 1182,
+   "status": "eol"
+  },
+  {
+   "numer": "8296",
+   "nazwa": "Dune Buggy",
+   "rok": 2008,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "8297",
+   "nazwa": "Off-Roader",
+   "rok": 2008,
+   "elementy": 1097,
+   "status": "eol"
+  },
+  {
+   "numer": "66318",
+   "nazwa": "Super Pack 4 in 1",
+   "rok": 2009,
+   "elementy": 984,
+   "status": "eol"
+  },
+  {
+   "numer": "8063",
+   "nazwa": "Tractor with Trailer",
+   "rok": 2009,
+   "elementy": 1100,
+   "status": "eol"
+  },
+  {
+   "numer": "8256",
+   "nazwa": "Go-Kart",
+   "rok": 2009,
+   "elementy": 144,
+   "status": "eol"
+  },
+  {
+   "numer": "8258",
+   "nazwa": "Crane Truck",
+   "rok": 2009,
+   "elementy": 1877,
+   "status": "eol"
+  },
+  {
+   "numer": "8259",
+   "nazwa": "Mini Bulldozer",
+   "rok": 2009,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "8260",
+   "nazwa": "Tractor",
+   "rok": 2009,
+   "elementy": 104,
+   "status": "eol"
+  },
+  {
+   "numer": "8261",
+   "nazwa": "Rally Truck",
+   "rok": 2009,
+   "elementy": 198,
+   "status": "eol"
+  },
+  {
+   "numer": "8262",
+   "nazwa": "Quad-Bike",
+   "rok": 2009,
+   "elementy": 308,
+   "status": "eol"
+  },
+  {
+   "numer": "8263",
+   "nazwa": "Snow Groomer",
+   "rok": 2009,
+   "elementy": 590,
+   "status": "eol"
+  },
+  {
+   "numer": "8264",
+   "nazwa": "Hauler",
+   "rok": 2009,
+   "elementy": 575,
+   "status": "eol"
+  },
+  {
+   "numer": "8265",
+   "nazwa": "Front Loader",
+   "rok": 2009,
+   "elementy": 1061,
+   "status": "eol"
+  },
+  {
+   "numer": "66359",
+   "nazwa": "Super Pack 4 in 1",
+   "rok": 2010,
+   "elementy": 804,
+   "status": "eol"
+  },
+  {
+   "numer": "8041",
+   "nazwa": "Race Truck",
+   "rok": 2010,
+   "elementy": 608,
+   "status": "eol"
+  },
+  {
+   "numer": "8043",
+   "nazwa": "Motorized Excavator",
+   "rok": 2010,
+   "elementy": 1123,
+   "status": "eol"
+  },
+  {
+   "numer": "8045",
+   "nazwa": "Mini Telehandler",
+   "rok": 2010,
+   "elementy": 117,
+   "status": "eol"
+  },
+  {
+   "numer": "8046",
+   "nazwa": "Helicopter",
+   "rok": 2010,
+   "elementy": 152,
+   "status": "eol"
+  },
+  {
+   "numer": "8047",
+   "nazwa": "Compact Excavator",
+   "rok": 2010,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "8048",
+   "nazwa": "Buggy",
+   "rok": 2010,
+   "elementy": 314,
+   "status": "eol"
+  },
+  {
+   "numer": "8049",
+   "nazwa": "Tractor with Log Loader",
+   "rok": 2010,
+   "elementy": 525,
+   "status": "eol"
+  },
+  {
+   "numer": "8051",
+   "nazwa": "Motorbike",
+   "rok": 2010,
+   "elementy": 467,
+   "status": "eol"
+  },
+  {
+   "numer": "8052",
+   "nazwa": "Container Truck",
+   "rok": 2010,
+   "elementy": 686,
+   "status": "eol"
+  },
+  {
+   "numer": "8053",
+   "nazwa": "Mobile Crane",
+   "rok": 2010,
+   "elementy": 1289,
+   "status": "eol"
+  },
+  {
+   "numer": "66397",
+   "nazwa": "Technic Super Pack 4 in 1",
+   "rok": 2011,
+   "elementy": 1272,
+   "status": "eol"
+  },
+  {
+   "numer": "8065",
+   "nazwa": "Mini Container Truck",
+   "rok": 2011,
+   "elementy": 119,
+   "status": "eol"
+  },
+  {
+   "numer": "8066",
+   "nazwa": "Off-Roader",
+   "rok": 2011,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "8067",
+   "nazwa": "Mini Mobile Crane",
+   "rok": 2011,
+   "elementy": 292,
+   "status": "eol"
+  },
+  {
+   "numer": "8068",
+   "nazwa": "Rescue Helicopter",
+   "rok": 2011,
+   "elementy": 408,
+   "status": "eol"
+  },
+  {
+   "numer": "8069",
+   "nazwa": "Backhoe Loader",
+   "rok": 2011,
+   "elementy": 609,
+   "status": "eol"
+  },
+  {
+   "numer": "8070",
+   "nazwa": "Super Car",
+   "rok": 2011,
+   "elementy": 1281,
+   "status": "eol"
+  },
+  {
+   "numer": "8071",
+   "nazwa": "Bucket Truck",
+   "rok": 2011,
+   "elementy": 593,
+   "status": "eol"
+  },
+  {
+   "numer": "8081",
+   "nazwa": "Extreme Cruiser",
+   "rok": 2011,
+   "elementy": 590,
+   "status": "eol"
+  },
+  {
+   "numer": "8109",
+   "nazwa": "Flatbed Truck",
+   "rok": 2011,
+   "elementy": 1115,
+   "status": "eol"
+  },
+  {
+   "numer": "8110",
+   "nazwa": "Mercedes-Benz Unimog U 400",
+   "rok": 2011,
+   "elementy": 2048,
+   "status": "eol"
+  },
+  {
+   "numer": "66433",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 1163,
+   "status": "eol"
+  },
+  {
+   "numer": "9390",
+   "nazwa": "Mini Tow Truck",
+   "rok": 2012,
+   "elementy": 136,
+   "status": "eol"
+  },
+  {
+   "numer": "9391",
+   "nazwa": "Tracked Crane",
+   "rok": 2012,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "9392",
+   "nazwa": "Quad Bike",
+   "rok": 2012,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "9393",
+   "nazwa": "Traktor",
+   "rok": 2012,
+   "elementy": 353,
+   "status": "eol"
+  },
+  {
+   "numer": "9394",
+   "nazwa": "Odrzutowiec",
+   "rok": 2012,
+   "elementy": 499,
+   "status": "eol"
+  },
+  {
+   "numer": "9395",
+   "nazwa": "Pick-Up Tow Truck",
+   "rok": 2012,
+   "elementy": 954,
+   "status": "eol"
+  },
+  {
+   "numer": "9396",
+   "nazwa": "Helikopter",
+   "rok": 2012,
+   "elementy": 1056,
+   "status": "eol"
+  },
+  {
+   "numer": "9397",
+   "nazwa": "Logging Truck",
+   "rok": 2012,
+   "elementy": 1308,
+   "status": "eol"
+  },
+  {
+   "numer": "9398",
+   "nazwa": "4x4 Crawler",
+   "rok": 2012,
+   "elementy": 1327,
+   "status": "eol"
+  },
+  {
+   "numer": "41999",
+   "nazwa": "4x4 Crawler Exclusive Edition",
+   "rok": 2013,
+   "elementy": 1585,
+   "status": "eol"
+  },
+  {
+   "numer": "42000",
+   "nazwa": "Grand Prix Racer",
+   "rok": 2013,
+   "elementy": 1141,
+   "status": "eol"
+  },
+  {
+   "numer": "42001",
+   "nazwa": "Mały samochód terenowy",
+   "rok": 2013,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "42002",
+   "nazwa": "Poduszkowiec",
+   "rok": 2013,
+   "elementy": 170,
+   "status": "eol"
+  },
+  {
+   "numer": "42004",
+   "nazwa": "Koparko-ładowarka",
+   "rok": 2013,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "42005",
+   "nazwa": "Monster Truck",
+   "rok": 2013,
+   "elementy": 329,
+   "status": "eol"
+  },
+  {
+   "numer": "42006",
+   "nazwa": "Excavator",
+   "rok": 2013,
+   "elementy": 720,
+   "status": "eol"
+  },
+  {
+   "numer": "42007",
+   "nazwa": "Moto Cross Bike",
+   "rok": 2013,
+   "elementy": 253,
+   "status": "eol"
+  },
+  {
+   "numer": "42008",
+   "nazwa": "Wóz techniczny",
+   "rok": 2013,
+   "elementy": 1276,
+   "status": "eol"
+  },
+  {
+   "numer": "42009",
+   "nazwa": "Ruchomy żuraw MKII",
+   "rok": 2013,
+   "elementy": 2606,
+   "status": "eol"
+  },
+  {
+   "numer": "42010",
+   "nazwa": "Samochód off-road",
+   "rok": 2013,
+   "elementy": 160,
+   "status": "eol"
+  },
+  {
+   "numer": "42011",
+   "nazwa": "Samochód wyścigowy",
+   "rok": 2013,
+   "elementy": 158,
+   "status": "eol"
+  },
+  {
+   "numer": "42020",
+   "nazwa": "Śmigłowiec z dwoma wirnikami",
+   "rok": 2014,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "42021",
+   "nazwa": "Skuter śnieżny",
+   "rok": 2014,
+   "elementy": 186,
+   "status": "eol"
+  },
+  {
+   "numer": "42022",
+   "nazwa": "Hot rod",
+   "rok": 2014,
+   "elementy": 414,
+   "status": "eol"
+  },
+  {
+   "numer": "42023",
+   "nazwa": "Maszyny Budowlane",
+   "rok": 2014,
+   "elementy": 833,
+   "status": "eol"
+  },
+  {
+   "numer": "42024",
+   "nazwa": "Ciężarówka do przewozu kontenerów",
+   "rok": 2014,
+   "elementy": 948,
+   "status": "eol"
+  },
+  {
+   "numer": "42025",
+   "nazwa": "Samolot transportowy",
+   "rok": 2014,
+   "elementy": 1297,
+   "status": "eol"
+  },
+  {
+   "numer": "42026",
+   "nazwa": "Czarny zdobywca dróg",
+   "rok": 2014,
+   "elementy": 137,
+   "status": "eol"
+  },
+  {
+   "numer": "42027",
+   "nazwa": "Pustynna wyścigówka",
+   "rok": 2014,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "42028",
+   "nazwa": "Buldożer",
+   "rok": 2014,
+   "elementy": 617,
+   "status": "eol"
+  },
+  {
+   "numer": "42029",
+   "nazwa": "Ciężarówka po tuningu",
+   "rok": 2014,
+   "elementy": 1063,
+   "status": "eol"
+  },
+  {
+   "numer": "42030",
+   "nazwa": "Koparka VOLVO L350F",
+   "rok": 2014,
+   "elementy": 1636,
+   "status": "eol"
+  },
+  {
+   "numer": "42031",
+   "nazwa": "Ciężarówka z wysięgnikiem",
+   "rok": 2015,
+   "elementy": 155,
+   "status": "eol"
+  },
+  {
+   "numer": "42032",
+   "nazwa": "Mała ładowarka gąsienicowa",
+   "rok": 2015,
+   "elementy": 252,
+   "status": "eol"
+  },
+  {
+   "numer": "42033",
+   "nazwa": "Błyskawica",
+   "rok": 2015,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "42034",
+   "nazwa": "Quad",
+   "rok": 2015,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "42035",
+   "nazwa": "Ciężarówka górnicza",
+   "rok": 2015,
+   "elementy": 362,
+   "status": "eol"
+  },
+  {
+   "numer": "42036",
+   "nazwa": "Miejski motocykl",
+   "rok": 2015,
+   "elementy": 375,
+   "status": "eol"
+  },
+  {
+   "numer": "42037",
+   "nazwa": "Terenówka",
+   "rok": 2015,
+   "elementy": 494,
+   "status": "eol"
+  },
+  {
+   "numer": "42038",
+   "nazwa": "Łazik arktyczny",
+   "rok": 2015,
+   "elementy": 913,
+   "status": "eol"
+  },
+  {
+   "numer": "42039",
+   "nazwa": "Superszybka wyścigówka",
+   "rok": 2015,
+   "elementy": 1219,
+   "status": "eol"
+  },
+  {
+   "numer": "42040",
+   "nazwa": "Samolot strażacki",
+   "rok": 2015,
+   "elementy": 578,
+   "status": "eol"
+  },
+  {
+   "numer": "42041",
+   "nazwa": "Ciężarówka wyścigowa",
+   "rok": 2015,
+   "elementy": 608,
+   "status": "eol"
+  },
+  {
+   "numer": "42042",
+   "nazwa": "Żuraw gąsienicowy",
+   "rok": 2015,
+   "elementy": 1401,
+   "status": "eol"
+  },
+  {
+   "numer": "42043",
+   "nazwa": "Mercedes-Benz Arocs 3245",
+   "rok": 2015,
+   "elementy": 2793,
+   "status": "eol"
+  },
+  {
    "numer": "42044",
    "nazwa": "Odrzutowiec",
    "rok": 2016,
