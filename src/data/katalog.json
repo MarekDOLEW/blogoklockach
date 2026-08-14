@@ -19680,6 +19680,1644 @@
  ],
  "Creator": [
   {
+   "numer": "4016",
+   "nazwa": "Racer",
+   "rok": 2001,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "4017",
+   "nazwa": "Sea Helicopter",
+   "rok": 2001,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "4018",
+   "nazwa": "Ship",
+   "rok": 2001,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "4019",
+   "nazwa": "Aeroplane",
+   "rok": 2001,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "4113",
+   "nazwa": "Brick Adventures Bucket",
+   "rok": 2001,
+   "elementy": 124,
+   "status": "eol"
+  },
+  {
+   "numer": "4115",
+   "nazwa": "All That Drives Bucket",
+   "rok": 2001,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "4116",
+   "nazwa": "Animal Adventures Bucket",
+   "rok": 2001,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "4117",
+   "nazwa": "Fantastic Flyers and Cool Cars",
+   "rok": 2001,
+   "elementy": 257,
+   "status": "eol"
+  },
+  {
+   "numer": "4118",
+   "nazwa": "Buildings, Mansions and Shops",
+   "rok": 2001,
+   "elementy": 361,
+   "status": "eol"
+  },
+  {
+   "numer": "4119",
+   "nazwa": "Regular and Transparent Bricks",
+   "rok": 2001,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "4120",
+   "nazwa": "Fun and Cool Transportation",
+   "rok": 2001,
+   "elementy": 606,
+   "status": "eol"
+  },
+  {
+   "numer": "4121",
+   "nazwa": "All Kinds of Animals",
+   "rok": 2001,
+   "elementy": 171,
+   "status": "eol"
+  },
+  {
+   "numer": "4124",
+   "nazwa": "Advent Calendar",
+   "rok": 2001,
+   "elementy": 231,
+   "status": "eol"
+  },
+  {
+   "numer": "4171",
+   "nazwa": "Spot and Friends",
+   "rok": 2001,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "4172",
+   "nazwa": "Tina's House",
+   "rok": 2001,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "4173",
+   "nazwa": "Max's Pitstop",
+   "rok": 2001,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "4174",
+   "nazwa": "Max Goes Flying",
+   "rok": 2001,
+   "elementy": 172,
+   "status": "eol"
+  },
+  {
+   "numer": "4175",
+   "nazwa": "Adventures with Max and Tina",
+   "rok": 2001,
+   "elementy": 217,
+   "status": "eol"
+  },
+  {
+   "numer": "4176",
+   "nazwa": "The Race of the Year",
+   "rok": 2001,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "4177",
+   "nazwa": "Building Stories with Nana Bird",
+   "rok": 2001,
+   "elementy": 373,
+   "status": "eol"
+  },
+  {
+   "numer": "4250",
+   "nazwa": "Creator Bulk (Exclusive)",
+   "rok": 2001,
+   "elementy": 234,
+   "status": "eol"
+  },
+  {
+   "numer": "4810",
+   "nazwa": "Blue Bucket",
+   "rok": 2001,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "4103",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "4104",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "4105",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4106",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4107",
+   "nazwa": "Build Your Dreams",
+   "rok": 2002,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4179",
+   "nazwa": "Creator Box Set",
+   "rok": 2002,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4524",
+   "nazwa": "Holiday Calendar",
+   "rok": 2002,
+   "elementy": 231,
+   "status": "eol"
+  },
+  {
+   "numer": "7825",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "7830",
+   "nazwa": "Creator Bucket",
+   "rok": 2002,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "7831",
+   "nazwa": "Make-Believe Bucket",
+   "rok": 2002,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "7832",
+   "nazwa": "Small Blue Creator Bucket",
+   "rok": 2002,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "7837",
+   "nazwa": "Build and Create Bucket",
+   "rok": 2002,
+   "elementy": 600,
+   "status": "eol"
+  },
+  {
+   "numer": "3223",
+   "nazwa": "Little Fish",
+   "rok": 2003,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "4013",
+   "nazwa": "Create and Imagine",
+   "rok": 2003,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4014",
+   "nazwa": "Creator",
+   "rok": 2003,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4023",
+   "nazwa": "Zabawa i przygoda",
+   "rok": 2003,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "4024",
+   "nazwa": "Advent Calendar",
+   "rok": 2003,
+   "elementy": 344,
+   "status": "eol"
+  },
+  {
+   "numer": "4026",
+   "nazwa": "Urzeczywistnij swoje marzenia",
+   "rok": 2003,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "4027",
+   "nazwa": "Build and Imagine",
+   "rok": 2003,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "4028",
+   "nazwa": "Królestwo klocków",
+   "rok": 2003,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4029",
+   "nazwa": "Build with Bricks Bucket",
+   "rok": 2003,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4047",
+   "nazwa": "Ultimate Wheels",
+   "rok": 2003,
+   "elementy": 514,
+   "status": "eol"
+  },
+  {
+   "numer": "4048",
+   "nazwa": "Mech Lab",
+   "rok": 2003,
+   "elementy": 554,
+   "status": "eol"
+  },
+  {
+   "numer": "4090",
+   "nazwa": "Szaleństwo ruchu",
+   "rok": 2003,
+   "elementy": 243,
+   "status": "eol"
+  },
+  {
+   "numer": "4093",
+   "nazwa": "Zakręcone nakręcone",
+   "rok": 2003,
+   "elementy": 314,
+   "status": "eol"
+  },
+  {
+   "numer": "4094",
+   "nazwa": "Moc silników",
+   "rok": 2003,
+   "elementy": 254,
+   "status": "eol"
+  },
+  {
+   "numer": "4095",
+   "nazwa": "Nagraj i odtwórz",
+   "rok": 2003,
+   "elementy": 345,
+   "status": "eol"
+  },
+  {
+   "numer": "4096",
+   "nazwa": "Małe kółeczka",
+   "rok": 2003,
+   "elementy": 215,
+   "status": "eol"
+  },
+  {
+   "numer": "4097",
+   "nazwa": "Mini roboty",
+   "rok": 2003,
+   "elementy": 229,
+   "status": "eol"
+  },
+  {
+   "numer": "4098",
+   "nazwa": "Wysokie loty",
+   "rok": 2003,
+   "elementy": 197,
+   "status": "eol"
+  },
+  {
+   "numer": "4099",
+   "nazwa": "Roboboty",
+   "rok": 2003,
+   "elementy": 325,
+   "status": "eol"
+  },
+  {
+   "numer": "4100",
+   "nazwa": "Maksimum kółek",
+   "rok": 2003,
+   "elementy": 299,
+   "status": "eol"
+  },
+  {
+   "numer": "4101",
+   "nazwa": "Dzika kolekcja",
+   "rok": 2003,
+   "elementy": 492,
+   "status": "eol"
+  },
+  {
+   "numer": "4278",
+   "nazwa": "Large Tub",
+   "rok": 2003,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4279",
+   "nazwa": "Creator Strata Red",
+   "rok": 2003,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4400",
+   "nazwa": "Build With Bricks",
+   "rok": 2003,
+   "elementy": 705,
+   "status": "eol"
+  },
+  {
+   "numer": "4401",
+   "nazwa": "Mini stworki",
+   "rok": 2003,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "4402",
+   "nazwa": "Sea Riders",
+   "rok": 2003,
+   "elementy": 547,
+   "status": "eol"
+  },
+  {
+   "numer": "4403",
+   "nazwa": "Powietrzni zdobywcy",
+   "rok": 2003,
+   "elementy": 698,
+   "status": "eol"
+  },
+  {
+   "numer": "4404",
+   "nazwa": "Pogromcy lądu",
+   "rok": 2003,
+   "elementy": 770,
+   "status": "eol"
+  },
+  {
+   "numer": "4405",
+   "nazwa": "Large Creator Tub",
+   "rok": 2003,
+   "elementy": 1305,
+   "status": "eol"
+  },
+  {
+   "numer": "65448",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2003,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "65451",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2003,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "65705",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2003,
+   "elementy": 496,
+   "status": "eol"
+  },
+  {
+   "numer": "7212",
+   "nazwa": "Inflight Sales",
+   "rok": 2003,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "7221",
+   "nazwa": "Robots",
+   "rok": 2003,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "7221-2",
+   "nazwa": "Robots (ANA Version)",
+   "rok": 2003,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "7222",
+   "nazwa": "Flyers",
+   "rok": 2003,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "7223",
+   "nazwa": "Wheelers",
+   "rok": 2003,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "7224",
+   "nazwa": "Christmas",
+   "rok": 2003,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "7836",
+   "nazwa": "Halloween Bucket",
+   "rok": 2003,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "10167",
+   "nazwa": "BrickMaster Welcome Kit",
+   "rok": 2004,
+   "elementy": 180,
+   "status": "eol"
+  },
+  {
+   "numer": "4033",
+   "nazwa": "Car",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "4034",
+   "nazwa": "Aeroplane",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "4035",
+   "nazwa": "Boat",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "4036",
+   "nazwa": "Space Plane",
+   "rok": 2004,
+   "status": "eol"
+  },
+  {
+   "numer": "4037",
+   "nazwa": "Helicopter",
+   "rok": 2004,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "4335",
+   "nazwa": "Black Robot Pod",
+   "rok": 2004,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4346",
+   "nazwa": "Roboty",
+   "rok": 2004,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "4346-2",
+   "nazwa": "Roboty",
+   "rok": 2004,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "4347",
+   "nazwa": "Pojazdy",
+   "rok": 2004,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "4347-2",
+   "nazwa": "Pojazdy",
+   "rok": 2004,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "4348",
+   "nazwa": "Samoloty",
+   "rok": 2004,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "4348-2",
+   "nazwa": "Samoloty",
+   "rok": 2004,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "4349",
+   "nazwa": "Stwory",
+   "rok": 2004,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "4349-2",
+   "nazwa": "Wild Pod",
+   "rok": 2004,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "4406",
+   "nazwa": "Budynki",
+   "rok": 2004,
+   "elementy": 506,
+   "status": "eol"
+  },
+  {
+   "numer": "4407",
+   "nazwa": "Transport",
+   "rok": 2004,
+   "elementy": 301,
+   "status": "eol"
+  },
+  {
+   "numer": "4408",
+   "nazwa": "Zwierzęta",
+   "rok": 2004,
+   "elementy": 202,
+   "status": "eol"
+  },
+  {
+   "numer": "4410",
+   "nazwa": "Buduj i twórz",
+   "rok": 2004,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4411",
+   "nazwa": "Blue Strata XXL",
+   "rok": 2004,
+   "elementy": 1200,
+   "status": "eol"
+  },
+  {
+   "numer": "4412",
+   "nazwa": "Olympia Bucket",
+   "rok": 2004,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "4414",
+   "nazwa": "Creator Half Tub Blue",
+   "rok": 2004,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4425",
+   "nazwa": "Better Building More Fun",
+   "rok": 2004,
+   "elementy": 2000,
+   "status": "eol"
+  },
+  {
+   "numer": "4496",
+   "nazwa": "Fun with Building Tub",
+   "rok": 2004,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4497",
+   "nazwa": "Wymyślaj i buduj",
+   "rok": 2004,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4505",
+   "nazwa": "Pojazdy morskie",
+   "rok": 2004,
+   "elementy": 168,
+   "status": "eol"
+  },
+  {
+   "numer": "4506",
+   "nazwa": "Podwodne drapieżniki",
+   "rok": 2004,
+   "elementy": 352,
+   "status": "eol"
+  },
+  {
+   "numer": "4507",
+   "nazwa": "Prehistoryczne stworzenia",
+   "rok": 2004,
+   "elementy": 726,
+   "status": "eol"
+  },
+  {
+   "numer": "4508",
+   "nazwa": "Robot Titan XP",
+   "rok": 2004,
+   "elementy": 782,
+   "status": "eol"
+  },
+  {
+   "numer": "4518",
+   "nazwa": "Creator Value Pack",
+   "rok": 2004,
+   "elementy": 800,
+   "status": "eol"
+  },
+  {
+   "numer": "4538",
+   "nazwa": "Special Edition Tub",
+   "rok": 2004,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "4562",
+   "nazwa": "Creator Box",
+   "rok": 2004,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "4679",
+   "nazwa": "Bricks and Creations",
+   "rok": 2004,
+   "elementy": 1531,
+   "status": "eol"
+  },
+  {
+   "numer": "4696",
+   "nazwa": "Blue Bucket",
+   "rok": 2004,
+   "elementy": 400,
+   "status": "eol"
+  },
+  {
+   "numer": "4886",
+   "nazwa": "Budynki",
+   "rok": 2004,
+   "elementy": 667,
+   "status": "eol"
+  },
+  {
+   "numer": "4924",
+   "nazwa": "Advent Calendar",
+   "rok": 2004,
+   "elementy": 335,
+   "status": "eol"
+  },
+  {
+   "numer": "65419",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2004,
+   "elementy": 169,
+   "status": "eol"
+  },
+  {
+   "numer": "65463",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2004,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "65535",
+   "nazwa": "X-Pod Play Off Game Pack",
+   "rok": 2004,
+   "elementy": 219,
+   "status": "eol"
+  },
+  {
+   "numer": "65780",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2004,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "66173",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2004,
+   "elementy": 671,
+   "status": "eol"
+  },
+  {
+   "numer": "7209",
+   "nazwa": "Flying Dino",
+   "rok": 2004,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "7210",
+   "nazwa": "Long Neck Dino",
+   "rok": 2004,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7218",
+   "nazwa": "Boat",
+   "rok": 2004,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "7219",
+   "nazwa": "Dino",
+   "rok": 2004,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "7910",
+   "nazwa": "Robot",
+   "rok": 2004,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "7911",
+   "nazwa": "Tugboat",
+   "rok": 2004,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "7912",
+   "nazwa": "Helicopter",
+   "rok": 2004,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "1270",
+   "nazwa": "Trial Size Bag (Chromika Promotion)",
+   "rok": 2005,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "1270-3",
+   "nazwa": "Trial Size Bag (Coloraction Promotion)",
+   "rok": 2005,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "3598",
+   "nazwa": "XXL 2000 Tube",
+   "rok": 2005,
+   "elementy": 2000,
+   "status": "eol"
+  },
+  {
+   "numer": "4337",
+   "nazwa": "Dragon Pod",
+   "rok": 2005,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "4338",
+   "nazwa": "Monster Pod",
+   "rok": 2005,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "4339",
+   "nazwa": "Wodna kapsuła",
+   "rok": 2005,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "4413",
+   "nazwa": "Arachno Pod",
+   "rok": 2005,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "4421",
+   "nazwa": "Big LEGO Box 1000",
+   "rok": 2005,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4423",
+   "nazwa": "Handy Box",
+   "rok": 2005,
+   "elementy": 800,
+   "status": "eol"
+  },
+  {
+   "numer": "4496-2",
+   "nazwa": "50th Anniversary Tub",
+   "rok": 2005,
+   "elementy": 1000,
+   "status": "eol"
+  },
+  {
+   "numer": "4780",
+   "nazwa": "Bulk Set - 500 bricks",
+   "rok": 2005,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4781",
+   "nazwa": "Bulk Set - 300 bricks",
+   "rok": 2005,
+   "elementy": 300,
+   "status": "eol"
+  },
+  {
+   "numer": "4782",
+   "nazwa": "Bulk Set - 200 bricks",
+   "rok": 2005,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "4881",
+   "nazwa": "Robo Platoon",
+   "rok": 2005,
+   "elementy": 218,
+   "status": "eol"
+  },
+  {
+   "numer": "4882",
+   "nazwa": "Speed Wings",
+   "rok": 2005,
+   "elementy": 161,
+   "status": "eol"
+  },
+  {
+   "numer": "4883",
+   "nazwa": "Gear Grinders",
+   "rok": 2005,
+   "elementy": 273,
+   "status": "eol"
+  },
+  {
+   "numer": "4884",
+   "nazwa": "Wild Hunters",
+   "rok": 2005,
+   "elementy": 630,
+   "status": "eol"
+  },
+  {
+   "numer": "4888",
+   "nazwa": "Zdobywcy mórz",
+   "rok": 2005,
+   "elementy": 623,
+   "status": "eol"
+  },
+  {
+   "numer": "4903",
+   "nazwa": "Lion",
+   "rok": 2005,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "4904",
+   "nazwa": "Elephant",
+   "rok": 2005,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "4905",
+   "nazwa": "Giraffe",
+   "rok": 2005,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "4906",
+   "nazwa": "Helicopter",
+   "rok": 2005,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "4907",
+   "nazwa": "Ambulance",
+   "rok": 2005,
+   "status": "eol"
+  },
+  {
+   "numer": "4911",
+   "nazwa": "Truck",
+   "rok": 2005,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "4919",
+   "nazwa": "LEGO Deluxe",
+   "rok": 2005,
+   "elementy": 1500,
+   "status": "eol"
+  },
+  {
+   "numer": "5369",
+   "nazwa": "Creator Tub",
+   "rok": 2005,
+   "elementy": 700,
+   "status": "eol"
+  },
+  {
+   "numer": "7268",
+   "nazwa": "Spider",
+   "rok": 2005,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "7269",
+   "nazwa": "Scorpion",
+   "rok": 2005,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "7270",
+   "nazwa": "Parrot",
+   "rok": 2005,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "7271",
+   "nazwa": "Apple",
+   "rok": 2005,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "7272",
+   "nazwa": "Pear",
+   "rok": 2005,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "7274",
+   "nazwa": "Orange",
+   "rok": 2005,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "7275",
+   "nazwa": "Cherry",
+   "rok": 2005,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "7276",
+   "nazwa": "Mango",
+   "rok": 2005,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "7278",
+   "nazwa": "Melon",
+   "rok": 2005,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "7870",
+   "nazwa": "Hans Christian Andersen Bucket",
+   "rok": 2005,
+   "elementy": 500,
+   "status": "eol"
+  },
+  {
+   "numer": "4415",
+   "nazwa": "Auto kapsuła",
+   "rok": 2006,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "4416",
+   "nazwa": "Kapsuła robotów",
+   "rok": 2006,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "4417",
+   "nazwa": "Kapsuła lotnicza",
+   "rok": 2006,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "4418",
+   "nazwa": "Kapsuła dinozaurów",
+   "rok": 2006,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "4891",
+   "nazwa": "Transportowce",
+   "rok": 2006,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "4892",
+   "nazwa": "Prehistoryczne stworzenia",
+   "rok": 2006,
+   "elementy": 380,
+   "status": "eol"
+  },
+  {
+   "numer": "4893",
+   "nazwa": "Motocykle",
+   "rok": 2006,
+   "elementy": 360,
+   "status": "eol"
+  },
+  {
+   "numer": "4894",
+   "nazwa": "Mityczne stwory",
+   "rok": 2006,
+   "elementy": 588,
+   "status": "eol"
+  },
+  {
+   "numer": "4895",
+   "nazwa": "Pojazdy",
+   "rok": 2006,
+   "elementy": 611,
+   "status": "eol"
+  },
+  {
+   "numer": "4896",
+   "nazwa": "Pogromcy szos",
+   "rok": 2006,
+   "elementy": 931,
+   "status": "eol"
+  },
+  {
+   "numer": "66219",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2006,
+   "elementy": 209,
+   "status": "eol"
+  },
+  {
+   "numer": "7601",
+   "nazwa": "Go-Kart",
+   "rok": 2006,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "7602",
+   "nazwa": "Black SUV",
+   "rok": 2006,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "7603",
+   "nazwa": "Dump Truck",
+   "rok": 2006,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7604",
+   "nazwa": "Triceratops",
+   "rok": 2006,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "7605",
+   "nazwa": "Stegosaurus",
+   "rok": 2006,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "7606",
+   "nazwa": "Frog",
+   "rok": 2006,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7607",
+   "nazwa": "Butterfly",
+   "rok": 2006,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "7608",
+   "nazwa": "Dolphin",
+   "rok": 2006,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "7609",
+   "nazwa": "Rescue Chopper",
+   "rok": 2006,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "7610",
+   "nazwa": "Speedboat",
+   "rok": 2006,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "4915",
+   "nazwa": "Mini budowa",
+   "rok": 2007,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "4916",
+   "nazwa": "Zwierzątka",
+   "rok": 2007,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "4917",
+   "nazwa": "Mini roboty",
+   "rok": 2007,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "4918",
+   "nazwa": "Mini samoloty",
+   "rok": 2007,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "4939",
+   "nazwa": "Samochody",
+   "rok": 2007,
+   "elementy": 206,
+   "status": "eol"
+  },
+  {
+   "numer": "4953",
+   "nazwa": "Odrzutowce",
+   "rok": 2007,
+   "elementy": 312,
+   "status": "eol"
+  },
+  {
+   "numer": "4954",
+   "nazwa": "Willa",
+   "rok": 2007,
+   "elementy": 1174,
+   "status": "eol"
+  },
+  {
+   "numer": "4955",
+   "nazwa": "Ciężarówka",
+   "rok": 2007,
+   "elementy": 550,
+   "status": "eol"
+  },
+  {
+   "numer": "4956",
+   "nazwa": "Dom",
+   "rok": 2007,
+   "elementy": 731,
+   "status": "eol"
+  },
+  {
+   "numer": "4957",
+   "nazwa": "Diabelski młyn",
+   "rok": 2007,
+   "elementy": 1063,
+   "status": "eol"
+  },
+  {
+   "numer": "4958",
+   "nazwa": "Straszny dinozaur",
+   "rok": 2007,
+   "elementy": 792,
+   "status": "eol"
+  },
+  {
+   "numer": "6162",
+   "nazwa": "Radość budowania z LEGO Mozaiki",
+   "rok": 2007,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "6163",
+   "nazwa": "Świat LEGO Mozaiki",
+   "rok": 2007,
+   "elementy": 598,
+   "status": "eol"
+  },
+  {
+   "numer": "66149",
+   "nazwa": "Bonus Pack",
+   "rok": 2007,
+   "elementy": 542,
+   "status": "eol"
+  },
+  {
+   "numer": "66198",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 286,
+   "status": "eol"
+  },
+  {
+   "numer": "66208",
+   "nazwa": "Mr. Magorium's big book",
+   "rok": 2007,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "66234",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2007,
+   "elementy": 566,
+   "status": "eol"
+  },
+  {
+   "numer": "7871",
+   "nazwa": "Whale",
+   "rok": 2007,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "7872",
+   "nazwa": "Lion",
+   "rok": 2007,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "7873",
+   "nazwa": "Aeroplane Set",
+   "rok": 2007,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "7875",
+   "nazwa": "Backhoe",
+   "rok": 2007,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "7876",
+   "nazwa": "Cement Truck",
+   "rok": 2007,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "20001",
+   "nazwa": "Batbot",
+   "rok": 2008,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "20003",
+   "nazwa": "Dinosaur",
+   "rok": 2008,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "4837",
+   "nazwa": "Mini pociągi",
+   "rok": 2008,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "4838",
+   "nazwa": "Mini pojazdy",
+   "rok": 2008,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "4993",
+   "nazwa": "Odjazdowy kabriolet",
+   "rok": 2008,
+   "elementy": 648,
+   "status": "eol"
+  },
+  {
+   "numer": "4994",
+   "nazwa": "Okrutne stwory",
+   "rok": 2008,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "4995",
+   "nazwa": "Helikopter transportowy",
+   "rok": 2008,
+   "elementy": 272,
+   "status": "eol"
+  },
+  {
+   "numer": "4996",
+   "nazwa": "Domek plażowy",
+   "rok": 2008,
+   "elementy": 522,
+   "status": "eol"
+  },
+  {
+   "numer": "4997",
+   "nazwa": "Prom transportowy",
+   "rok": 2008,
+   "elementy": 1279,
+   "status": "eol"
+  },
+  {
+   "numer": "4998",
+   "nazwa": "Stegozaur",
+   "rok": 2008,
+   "elementy": 731,
+   "status": "eol"
+  },
+  {
+   "numer": "7796",
+   "nazwa": "House",
+   "rok": 2008,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "7797",
+   "nazwa": "Bi-Plane",
+   "rok": 2008,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "7798",
+   "nazwa": "Stegosaurus",
+   "rok": 2008,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "7799",
+   "nazwa": "Cargo Copter",
+   "rok": 2008,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "AUTODESK1",
+   "nazwa": "Dinosaur",
+   "rok": 2008,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "20008",
+   "nazwa": "Tow Truck",
+   "rok": 2009,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "20011",
+   "nazwa": "Refuse Truck",
+   "rok": 2009,
+   "elementy": 74,
+   "status": "eol"
+  },
+  {
+   "numer": "30008",
+   "nazwa": "Snowman",
+   "rok": 2009,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "30009",
+   "nazwa": "Christmas Tree",
+   "rok": 2009,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "66385",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2009,
+   "elementy": 570,
+   "status": "eol"
+  },
+  {
+   "numer": "6741",
+   "nazwa": "Mały odrzutowiec",
+   "rok": 2009,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "6742",
+   "nazwa": "Mały samochód terenowy",
+   "rok": 2009,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "6743",
+   "nazwa": "Samochód sportowy",
+   "rok": 2009,
+   "elementy": 165,
+   "status": "eol"
+  },
+  {
+   "numer": "6745",
+   "nazwa": "Samolot śmigłowy",
+   "rok": 2009,
+   "elementy": 247,
+   "status": "eol"
+  },
+  {
+   "numer": "6747",
+   "nazwa": "Ścigacz",
+   "rok": 2009,
+   "elementy": 266,
+   "status": "eol"
+  },
+  {
+   "numer": "6751",
+   "nazwa": "Ognista legenda",
+   "rok": 2009,
+   "elementy": 479,
+   "status": "eol"
+  },
+  {
+   "numer": "6752",
+   "nazwa": "Straż pożarna",
+   "rok": 2009,
+   "elementy": 771,
+   "status": "eol"
+  },
+  {
+   "numer": "6753",
+   "nazwa": "Transport drogowy",
+   "rok": 2009,
+   "elementy": 1294,
+   "status": "eol"
+  },
+  {
+   "numer": "6754",
+   "nazwa": "Dom rodzinny",
+   "rok": 2009,
+   "elementy": 976,
+   "status": "eol"
+  },
+  {
+   "numer": "7803",
+   "nazwa": "Jeep",
+   "rok": 2009,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "7804",
+   "nazwa": "Lizard",
+   "rok": 2009,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "7805",
+   "nazwa": "Shark",
+   "rok": 2009,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "7806",
+   "nazwa": "Truck",
+   "rok": 2009,
+   "status": "eol"
+  },
+  {
+   "numer": "7807",
+   "nazwa": "Airliner",
+   "rok": 2009,
+   "status": "eol"
+  },
+  {
+   "numer": "7808",
+   "nazwa": "Yellow Airplane",
+   "rok": 2009,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
    "numer": "20014",
    "nazwa": "4x4 Dynamo",
    "rok": 2010,
