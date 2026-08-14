@@ -37,11 +37,32 @@
  "mediaexpert": {
   "url": "https://storage.googleapis.com/567005725405-feed-creator-media-expert/me_tylkoklocki.pl_61.xml",
   "format": "xml",
-  "status": "niezweryfikowany",
+  "siec": "Performers (tracking track.performers.tech)",
+  "sciezka_ofert": "feed/entry",
+  "namespace": "http://base.google.com/ns/1.0",
+  "pola": {
+   "nazwa": "g:title",
+   "cena": "g:price",
+   "dostepnosc": "g:availability",
+   "marka": "g:brand",
+   "kategoria": "g:product_type",
+   "link_afiliacyjny": "g:link",
+   "zdjecie": "g:image_link",
+   "id_sklepu": "g:id"
+  },
+  "numer_setu": "z pola g:title, wzorzec ^LEGO\\s+(\\d{4,7})\\b — TYLKO gdy g:brand == 'LEGO'",
+  "status": "dziala",
+  "ostatnie_pobranie": "2026-08-14",
+  "generowany": "raz na dobe, 00:30 CEST (pole <updated> na poczatku pliku)",
+  "rozmiar": "~600 MB - parsowac strumieniowo (iterparse + el.clear()), nigdy w calosci do pamieci",
   "uwagi": [
-   "Feed dodany 14.08.2026, jeszcze nie pobrany: host storage.googleapis.com nie byl w allowliscie sesji (blad 'Host not in allowlist').",
-   "Po dodaniu hosta pierwszy przebieg musi zweryfikowac strukture i uzupelnic sekcje 'pola' oraz 'sciezka_ofert' wedlug wzoru z planetaklockow.",
-   "Nie scrapujemy mediaexpert.pl bezposrednio - sklep zwraca strone anty-botowa (403). Feed jest jedynym poprawnym zrodlem cen tego sklepu."
+   "Element oferty to <entry>, NIE <item>.",
+   "Dostepny = g:availability rowne dokladnie 'In stock'.",
+   "g:price w formacie '559.00 PLN' - brac pierwszy czlon.",
+   "PULAPKA: korzen drzewa g:product_type to 'Zabawki i LEGO', wiec test 'kategoria zawiera LEGO' przepuszcza KAZDA zabawke w sklepie. Bez filtra g:brand == 'LEGO' feed generuje falszywe deale: 'Puzzle LISCIANI Bing 304-77977' za 24,99 zl (LEGO 77977 kosztuje 73,90), 'Gra logiczna TACTIC Peppa Pig 60480' za 51,92 zl (LEGO 99,90), 'Maskotka DUBI Husky 31389' za 60,12 zl (LEGO 260,19).",
+   "748 pozycji z marka LEGO, 733 dostepne (stan 14.08.2026).",
+   "Weryfikacja 14.08.2026: 9 na 10 setow zgadzalo sie co do grosza ze strona produktowa; 43018 mial 559,00 w feedzie i 550,51 na stronie (zmiana w ciagu dnia).",
+   "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403)."
   ]
  }
 }
