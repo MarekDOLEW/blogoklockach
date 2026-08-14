@@ -1,0 +1,47 @@
+{
+ "_meta": {
+  "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
+  "zasada": "Nowy feed dopisujemy tutaj, nie w promptach zadan. Dzieki temu kazde zaplanowane uruchomienie widzi ten sam zestaw zrodel bez zalacznikow z komputera.",
+  "hosty_do_allowlisty": [
+   "service.weben1.com",
+   "webep1.com",
+   "planetaklockow.pl",
+   "storage.googleapis.com",
+   "brickset.com"
+  ],
+  "zaktualizowano": "2026-08-14"
+ },
+ "planetaklockow": {
+  "url": "https://service.weben1.com/xml/8c6d63cb-e8af-4890-8b21-9e66ace88354.xml",
+  "format": "xml",
+  "siec": "webePartners",
+  "sciezka_ofert": "offers/offer",
+  "pola": {
+   "nazwa": "name",
+   "cena": "price",
+   "cena_poprzednia": "property[@name='PreviousPrice']",
+   "kategoria": "shopcategory",
+   "link_afiliacyjny": "url",
+   "zdjecie": "property[@name='ImageOriginalUrl']",
+   "ean": "property[@name='EAN']"
+  },
+  "numer_setu": "z pola name, wzorzec: LEGO + opcjonalna nazwa serii + 4-5 cyfr",
+  "status": "dziala",
+  "ostatnie_pobranie": "2026-08-14",
+  "uwagi": [
+   "6555 ofert, 5214 z rozpoznanym numerem setu, 5067 unikalnych setow.",
+   "PreviousPrice bywa niewiarygodny (np. 80120: 649,99 zl przy katalogu 209,99 zl) - rabaty liczymy WYLACZNIE od ceny katalogowej z ceny_baza.json.",
+   "Kategoria 'LEGO Produkty wycofane z oferty' to archiwum, nie wyprzedaz: cena 9999,99 zl = pozycja niedostepna, nie nadaje sie na alerty EOL."
+  ]
+ },
+ "mediaexpert": {
+  "url": "https://storage.googleapis.com/567005725405-feed-creator-media-expert/me_tylkoklocki.pl_61.xml",
+  "format": "xml",
+  "status": "niezweryfikowany",
+  "uwagi": [
+   "Feed dodany 14.08.2026, jeszcze nie pobrany: host storage.googleapis.com nie byl w allowliscie sesji (blad 'Host not in allowlist').",
+   "Po dodaniu hosta pierwszy przebieg musi zweryfikowac strukture i uzupelnic sekcje 'pola' oraz 'sciezka_ofert' wedlug wzoru z planetaklockow.",
+   "Nie scrapujemy mediaexpert.pl bezposrednio - sklep zwraca strone anty-botowa (403). Feed jest jedynym poprawnym zrodlem cen tego sklepu."
+  ]
+ }
+}
