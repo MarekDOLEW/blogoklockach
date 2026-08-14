@@ -28804,6 +28804,1635 @@
  ],
  "DUPLO": [
   {
+   "numer": "4862",
+   "nazwa": "Ambush",
+   "rok": 2008,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "4863",
+   "nazwa": "Wartownik i katapulta",
+   "rok": 2008,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "4864",
+   "nazwa": "Zamek",
+   "rok": 2008,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "5380",
+   "nazwa": "Large Brick Box - Green Plate Version",
+   "rok": 2008,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "5543",
+   "nazwa": "Percy at the Sheds",
+   "rok": 2008,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "5544",
+   "nazwa": "Thomas - zestaw początkowy",
+   "rok": 2008,
+   "elementy": 82,
+   "status": "eol"
+  },
+  {
+   "numer": "5572",
+   "nazwa": "Build & Play",
+   "rok": 2008,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "5575",
+   "nazwa": "Basic Bricks - Medium",
+   "rok": 2008,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "5577",
+   "nazwa": "Basic Bricks - Large",
+   "rok": 2008,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "5583",
+   "nazwa": "Fun with Wheels",
+   "rok": 2008,
+   "elementy": 78,
+   "status": "eol"
+  },
+  {
+   "numer": "5593",
+   "nazwa": "Cyrk",
+   "rok": 2008,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "5596",
+   "nazwa": "Dino Birthday",
+   "rok": 2008,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "5597",
+   "nazwa": "Pułapka na dinozaury",
+   "rok": 2008,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "5598",
+   "nazwa": "Dolina dinozaurów",
+   "rok": 2008,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "5601",
+   "nazwa": "Remiza",
+   "rok": 2008,
+   "elementy": 72,
+   "status": "eol"
+  },
+  {
+   "numer": "5602",
+   "nazwa": "Posterunek policji",
+   "rok": 2008,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "5603",
+   "nazwa": "Fire Chief",
+   "rok": 2008,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "5604",
+   "nazwa": "Sklep",
+   "rok": 2008,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "5605",
+   "nazwa": "Tanker Truck",
+   "rok": 2008,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "5606",
+   "nazwa": "My First Train",
+   "rok": 2008,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "5607",
+   "nazwa": "Track Repair Train",
+   "rok": 2008,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "5608",
+   "nazwa": "Pociąg - zestaw początkowy",
+   "rok": 2008,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "5609",
+   "nazwa": "Pociąg - zestaw Deluxe",
+   "rok": 2008,
+   "elementy": 116,
+   "status": "eol"
+  },
+  {
+   "numer": "6176",
+   "nazwa": "Podstawowe klocki",
+   "rok": 2008,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "6178",
+   "nazwa": "MY LEGO Duplo Town",
+   "rok": 2008,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "66236",
+   "nazwa": "Build & Play Value Pack",
+   "rok": 2008,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "66261",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "66262",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "66264",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 135,
+   "status": "eol"
+  },
+  {
+   "numer": "66361",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2008,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "3594",
+   "nazwa": "Bob's Workshop",
+   "rok": 2009,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "3595",
+   "nazwa": "Scoop at Bobland Bay",
+   "rok": 2009,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "3596",
+   "nazwa": "Spychacz",
+   "rok": 2009,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "3597",
+   "nazwa": "Dźwig i Betoniarka przy pracy",
+   "rok": 2009,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "4540313",
+   "nazwa": "Duplo Creative Bucket",
+   "rok": 2009,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "5486",
+   "nazwa": "Fun With Duplo Bricks",
+   "rok": 2009,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "5488",
+   "nazwa": "Zestaw do budowy farmy",
+   "rok": 2009,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "5538",
+   "nazwa": "Duplo Creative Bucket",
+   "rok": 2009,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "5545",
+   "nazwa": "Stanley at Great Waterton",
+   "rok": 2009,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "5546",
+   "nazwa": "Thomas at Morgan's Mine",
+   "rok": 2009,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "5547",
+   "nazwa": "Kuba obchodzi Dzień Sodor",
+   "rok": 2009,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "5586",
+   "nazwa": "Duplo Basic Bricks with Fun Figures",
+   "rok": 2009,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "5588",
+   "nazwa": "Duplo Giant Box",
+   "rok": 2009,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "5592",
+   "nazwa": "My First Plane",
+   "rok": 2009,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "5594",
+   "nazwa": "Cargo Plane",
+   "rok": 2009,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "5595",
+   "nazwa": "Lotnisko",
+   "rok": 2009,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "5632",
+   "nazwa": "Animal Care",
+   "rok": 2009,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5633",
+   "nazwa": "Polar Zoo",
+   "rok": 2009,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5634",
+   "nazwa": "Karmienie w ZOO",
+   "rok": 2009,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "5635",
+   "nazwa": "Duże ZOO w mieście",
+   "rok": 2009,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "5636",
+   "nazwa": "Bus",
+   "rok": 2009,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "5637",
+   "nazwa": "Garbage Truck",
+   "rok": 2009,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "5638",
+   "nazwa": "Postman",
+   "rok": 2009,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "5639",
+   "nazwa": "Dom rodzinny",
+   "rok": 2009,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "5640",
+   "nazwa": "Petrol Station",
+   "rok": 2009,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "5641",
+   "nazwa": "Busy Garage",
+   "rok": 2009,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "66283",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2009,
+   "status": "eol"
+  },
+  {
+   "numer": "66320",
+   "nazwa": "Zoo Super Pack",
+   "rok": 2009,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "66321",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2009,
+   "elementy": 125,
+   "status": "eol"
+  },
+  {
+   "numer": "7614",
+   "nazwa": "Elephant Bucket",
+   "rok": 2009,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "7618",
+   "nazwa": "Fun Zoo",
+   "rok": 2009,
+   "elementy": 115,
+   "status": "eol"
+  },
+  {
+   "numer": "30060",
+   "nazwa": "Farm",
+   "rok": 2010,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5497",
+   "nazwa": "Zabawa z liczbami",
+   "rok": 2010,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "5506",
+   "nazwa": "Duże pudełko klocków",
+   "rok": 2010,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "5507",
+   "nazwa": "Pudełko klocków Deluxe",
+   "rok": 2010,
+   "elementy": 102,
+   "status": "eol"
+  },
+  {
+   "numer": "5509",
+   "nazwa": "Duplo Basic Bricks",
+   "rok": 2010,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "5511",
+   "nazwa": "LEGO Duplo XXL Box",
+   "rok": 2010,
+   "elementy": 201,
+   "status": "eol"
+  },
+  {
+   "numer": "5548",
+   "nazwa": "Duplo Building Fun",
+   "rok": 2010,
+   "elementy": 81,
+   "status": "eol"
+  },
+  {
+   "numer": "5622",
+   "nazwa": "Duplo Basic Bricks - Large",
+   "rok": 2010,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "5643",
+   "nazwa": "Little Piggy",
+   "rok": 2010,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5644",
+   "nazwa": "Chicken Coop",
+   "rok": 2010,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "5645",
+   "nazwa": "Farm Bike",
+   "rok": 2010,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "5646",
+   "nazwa": "Farm Nursery",
+   "rok": 2010,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "5647",
+   "nazwa": "Big Tractor",
+   "rok": 2010,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "5648",
+   "nazwa": "Stajnia",
+   "rok": 2010,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "5649",
+   "nazwa": "Duża farma",
+   "rok": 2010,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "5650",
+   "nazwa": "Front Loader",
+   "rok": 2010,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "5651",
+   "nazwa": "Dump Truck",
+   "rok": 2010,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "5652",
+   "nazwa": "Road Construction",
+   "rok": 2010,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "5653",
+   "nazwa": "Kamieniołom",
+   "rok": 2010,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "5654",
+   "nazwa": "Fishing Trip",
+   "rok": 2010,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "5655",
+   "nazwa": "Caravan",
+   "rok": 2010,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "5656",
+   "nazwa": "Pet Shop",
+   "rok": 2010,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "5657",
+   "nazwa": "Jessie's Round-Up",
+   "rok": 2010,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "5658",
+   "nazwa": "Pizza Planet Truck",
+   "rok": 2010,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "5659",
+   "nazwa": "Wielka pogoń za pociągiem",
+   "rok": 2010,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "5691",
+   "nazwa": "Kosmiczny dźwig",
+   "rok": 2010,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "5813",
+   "nazwa": "Lightning McQueen",
+   "rok": 2010,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "5814",
+   "nazwa": "Mater's Yard",
+   "rok": 2010,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "5815",
+   "nazwa": "Flo's V-8 Cafe",
+   "rok": 2010,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5816",
+   "nazwa": "Wycieczka Mariana",
+   "rok": 2010,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "66310",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2010,
+   "status": "eol"
+  },
+  {
+   "numer": "66344",
+   "nazwa": "Duplo Super Pack",
+   "rok": 2010,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "66367",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2010,
+   "elementy": 68,
+   "status": "eol"
+  },
+  {
+   "numer": "66384",
+   "nazwa": "Bonus/Value Pack",
+   "rok": 2010,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "5678",
+   "nazwa": "Policeman",
+   "rok": 2011,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5679",
+   "nazwa": "Motocykl policyjny",
+   "rok": 2011,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "5680",
+   "nazwa": "Ciężarówka policyjna",
+   "rok": 2011,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "5681",
+   "nazwa": "Posterunek policji",
+   "rok": 2011,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "5682",
+   "nazwa": "Wóz strażacki",
+   "rok": 2011,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "5683",
+   "nazwa": "Warzywniak",
+   "rok": 2011,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "5684",
+   "nazwa": "Transporter samochodów",
+   "rok": 2011,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "5685",
+   "nazwa": "Vet",
+   "rok": 2011,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "5695",
+   "nazwa": "Klinika",
+   "rok": 2011,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "5696",
+   "nazwa": "Car Wash",
+   "rok": 2011,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "5748",
+   "nazwa": "Zestaw do twórczego budowania",
+   "rok": 2011,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "5793",
+   "nazwa": "Nurse's Car",
+   "rok": 2011,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "5794",
+   "nazwa": "Emergency Helicopter",
+   "rok": 2011,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "5795",
+   "nazwa": "Szpital miejski",
+   "rok": 2011,
+   "elementy": 111,
+   "status": "eol"
+  },
+  {
+   "numer": "5817",
+   "nazwa": "Agent Mater",
+   "rok": 2011,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "5818",
+   "nazwa": "Luigi's Italian Place",
+   "rok": 2011,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "5819",
+   "nazwa": "Wyścigi w Tokio",
+   "rok": 2011,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "5828",
+   "nazwa": "Big Bentley",
+   "rok": 2011,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "5829",
+   "nazwa": "Punkt serwisowy",
+   "rok": 2011,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "5839",
+   "nazwa": "World Grand Prix",
+   "rok": 2011,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "5931",
+   "nazwa": "Mój pierwszy zestaw",
+   "rok": 2011,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "5945",
+   "nazwa": "Winnie the Pooh's Picnic",
+   "rok": 2011,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "5946",
+   "nazwa": "Wyprawa Tygryska",
+   "rok": 2011,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "5947",
+   "nazwa": "Dom Kubusia Puchatka",
+   "rok": 2011,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "6051",
+   "nazwa": "Nauka angielskiego z literami",
+   "rok": 2011,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "6052",
+   "nazwa": "Mój pierwszy zestaw pojazdów",
+   "rok": 2011,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "6130",
+   "nazwa": "DUPLO Build and Play",
+   "rok": 2011,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "6136",
+   "nazwa": "Moje pierwsze ZOO",
+   "rok": 2011,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "6137",
+   "nazwa": "Mój pierwszy supermarket",
+   "rok": 2011,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "6138",
+   "nazwa": "Moja pierwsza straż pożarna",
+   "rok": 2011,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "66379",
+   "nazwa": "Co-Pack DUPLO Bricks & More",
+   "rok": 2011,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "66393",
+   "nazwa": "Super Pack 3 in 1",
+   "rok": 2011,
+   "elementy": 82,
+   "status": "eol"
+  },
+  {
+   "numer": "10531",
+   "nazwa": "Mickey Mouse and Friends",
+   "rok": 2012,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "30063",
+   "nazwa": "Vet",
+   "rok": 2012,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "30064",
+   "nazwa": "Zoo",
+   "rok": 2012,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "4623",
+   "nazwa": "Różowy zestaw klocków",
+   "rok": 2012,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "4624",
+   "nazwa": "Zestaw klocków",
+   "rok": 2012,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "4627",
+   "nazwa": "Zabawa z klockami",
+   "rok": 2012,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "4629",
+   "nazwa": "Zabawa w budowanie",
+   "rok": 2012,
+   "elementy": 150,
+   "status": "eol"
+  },
+  {
+   "numer": "4631",
+   "nazwa": "Moje pierwsze budowle",
+   "rok": 2012,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "4632",
+   "nazwa": "Building Plates",
+   "rok": 2012,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "6132",
+   "nazwa": "Red",
+   "rok": 2012,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "6133",
+   "nazwa": "Race Day",
+   "rok": 2012,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "6134",
+   "nazwa": "Ścigawa na ratunek",
+   "rok": 2012,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "6141",
+   "nazwa": "Moja pierwsza farma",
+   "rok": 2012,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "6143",
+   "nazwa": "Racing Team",
+   "rok": 2012,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "6144",
+   "nazwa": "Ciuchcia w ZOO",
+   "rok": 2012,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "6146",
+   "nazwa": "Samochód pomocy drogowej",
+   "rok": 2012,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "6151",
+   "nazwa": "Sleeping Beauty's Room",
+   "rok": 2012,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "6152",
+   "nazwa": "Snow White's Cottage",
+   "rok": 2012,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "6153",
+   "nazwa": "Cinderella's Carriage",
+   "rok": 2012,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "6154",
+   "nazwa": "Pałac Kopciuszka",
+   "rok": 2012,
+   "elementy": 77,
+   "status": "eol"
+  },
+  {
+   "numer": "6156",
+   "nazwa": "Fotosafari",
+   "rok": 2012,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "6157",
+   "nazwa": "Duże zoo",
+   "rok": 2012,
+   "elementy": 147,
+   "status": "eol"
+  },
+  {
+   "numer": "6158",
+   "nazwa": "Szpital dla zwierząt",
+   "rok": 2012,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "6168",
+   "nazwa": "Remiza",
+   "rok": 2012,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "6169",
+   "nazwa": "Fire Chief",
+   "rok": 2012,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "6171",
+   "nazwa": "Stacja paliw",
+   "rok": 2012,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "6172",
+   "nazwa": "Ciężarówka ZOO",
+   "rok": 2012,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "6173",
+   "nazwa": "Panda",
+   "rok": 2012,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "66392",
+   "nazwa": "Cars Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "66429",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 96,
+   "status": "eol"
+  },
+  {
+   "numer": "66430",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2012,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "6758",
+   "nazwa": "Grow Caterpillar Grow!",
+   "rok": 2012,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "6759",
+   "nazwa": "Busy Farm",
+   "rok": 2012,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "6760",
+   "nazwa": "Let's Go! Vroom!",
+   "rok": 2012,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "6784",
+   "nazwa": "Creative Sorter",
+   "rok": 2012,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "6785",
+   "nazwa": "Kreatywne ciasteczka",
+   "rok": 2012,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "10500",
+   "nazwa": "Stadnina",
+   "rok": 2013,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "10501",
+   "nazwa": "Zoo Friends",
+   "rok": 2013,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "10502",
+   "nazwa": "Autobus w ZOO",
+   "rok": 2013,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10503",
+   "nazwa": "Circus Show",
+   "rok": 2013,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10504",
+   "nazwa": "Duży cyrk",
+   "rok": 2013,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "10505",
+   "nazwa": "Domek do zabawy",
+   "rok": 2013,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "10506",
+   "nazwa": "Tory kolejowe",
+   "rok": 2013,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10507",
+   "nazwa": "Mój pierwszy pociąg",
+   "rok": 2013,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "10508",
+   "nazwa": "Pociąg Deluxe",
+   "rok": 2013,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "10509",
+   "nazwa": "Dusty i Beka",
+   "rok": 2013,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10510",
+   "nazwa": "Ripslinger i wyścig powietrzny",
+   "rok": 2013,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "10511",
+   "nazwa": "Szkoła latania Skippera",
+   "rok": 2013,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "10512",
+   "nazwa": "Jake's Treasure Hunt",
+   "rok": 2013,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "10513",
+   "nazwa": "Kryjówka w Nibylandii",
+   "rok": 2013,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10514",
+   "nazwa": "Jake i piraci z Nibylandii Statek piracki Jake'a",
+   "rok": 2013,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "10515",
+   "nazwa": "Podwodny zamek Arielki",
+   "rok": 2013,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10516",
+   "nazwa": "Ariel's Magical Boat Ride",
+   "rok": 2013,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10517",
+   "nazwa": "My First Garden",
+   "rok": 2013,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "10518",
+   "nazwa": "Mój pierwszy plac budowy",
+   "rok": 2013,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "10519",
+   "nazwa": "Śmieciarka",
+   "rok": 2013,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10520",
+   "nazwa": "Ładowarka",
+   "rok": 2013,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "10550",
+   "nazwa": "Circus Transport",
+   "rok": 2013,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "10552",
+   "nazwa": "Kreatywne auta",
+   "rok": 2013,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "10553",
+   "nazwa": "Toddler Build and Play Cubes",
+   "rok": 2013,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "10554",
+   "nazwa": "Kreatywny pojazd do ciągnięcia",
+   "rok": 2013,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10555",
+   "nazwa": "Creative Bucket",
+   "rok": 2013,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "10556",
+   "nazwa": "Kuferek kreatywny",
+   "rok": 2013,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "10557",
+   "nazwa": "Giant Tower",
+   "rok": 2013,
+   "elementy": 200,
+   "status": "eol"
+  },
+  {
+   "numer": "10558",
+   "nazwa": "Pociąg z cyferkami",
+   "rok": 2013,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "10559",
+   "nazwa": "A Fairy Tale",
+   "rok": 2013,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10560",
+   "nazwa": "Peekaboo Jungle",
+   "rok": 2013,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10561",
+   "nazwa": "Zestaw początkowy dla maluszka",
+   "rok": 2013,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "30066",
+   "nazwa": "Circus",
+   "rok": 2013,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "66454",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2013,
+   "elementy": 89,
+   "status": "eol"
+  },
+  {
+   "numer": "10521",
+   "nazwa": "Cielaczek",
+   "rok": 2014,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "10522",
+   "nazwa": "Zwierzęta na farmie",
+   "rok": 2014,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "10524",
+   "nazwa": "Traktor",
+   "rok": 2014,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10525",
+   "nazwa": "Duża farma",
+   "rok": 2014,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "10526",
+   "nazwa": "Odwiedziny Piotrusia Pana",
+   "rok": 2014,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10527",
+   "nazwa": "Karetka",
+   "rok": 2014,
+   "elementy": 14,
+   "status": "eol"
+  },
+  {
+   "numer": "10528",
+   "nazwa": "Szkolny autobus",
+   "rok": 2014,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "10529",
+   "nazwa": "Ciężarówka",
+   "rok": 2014,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10532",
+   "nazwa": "Policja",
+   "rok": 2014,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10538",
+   "nazwa": "Drużyna strażacka",
+   "rok": 2014,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10539",
+   "nazwa": "Jake i piraci z Nibylandii Plażowe wyścigi",
+   "rok": 2014,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10542",
+   "nazwa": "Bajka o Śpiącej Królewnie",
+   "rok": 2014,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "10543",
+   "nazwa": "Super Heroes Ratunek Supermana",
+   "rok": 2014,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10544",
+   "nazwa": "Joker",
+   "rok": 2014,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "10545",
+   "nazwa": "Super Heroes Przygoda w Jaskini Batmana",
+   "rok": 2014,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10546",
+   "nazwa": "W supermarkecie",
+   "rok": 2014,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10565",
+   "nazwa": "Kreatywna walizka",
+   "rok": 2014,
+   "elementy": 135,
+   "status": "eol"
+  },
+  {
+   "numer": "10566",
+   "nazwa": "Kolorowy piknik",
+   "rok": 2014,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "10567",
+   "nazwa": "Łódka dla maluszka",
+   "rok": 2014,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10568",
+   "nazwa": "Turniej rycerski",
+   "rok": 2014,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10569",
+   "nazwa": "Wielki skarb",
+   "rok": 2014,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "10570",
+   "nazwa": "Zestaw upominkowy",
+   "rok": 2014,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10571",
+   "nazwa": "Zestaw z różowymi klockami",
+   "rok": 2014,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "10572",
+   "nazwa": "Uniwersalny zestaw klocków",
+   "rok": 2014,
+   "elementy": 65,
+   "status": "eol"
+  },
+  {
+   "numer": "10573",
+   "nazwa": "Kreatywne zwierzątka",
+   "rok": 2014,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10574",
+   "nazwa": "Kreatywne lody",
+   "rok": 2014,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10575",
+   "nazwa": "Zestaw do kreatywnego budowania",
+   "rok": 2014,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "10576",
+   "nazwa": "ZOO",
+   "rok": 2014,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "10577",
+   "nazwa": "Zamek Królewski",
+   "rok": 2014,
+   "elementy": 135,
+   "status": "eol"
+  },
+  {
+   "numer": "10579",
+   "nazwa": "Clubhouse Cafe",
+   "rok": 2014,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10580",
+   "nazwa": "Pudełko pełne zabaw",
+   "rok": 2014,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "30067",
+   "nazwa": "Farm",
+   "rok": 2014,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "30068",
+   "nazwa": "Food",
+   "rok": 2014,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "4962",
+   "nazwa": "Małe ZOO",
+   "rok": 2014,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "5002120",
+   "nazwa": "Farm Mat with Rabbit",
+   "rok": 2014,
+   "elementy": 1,
+   "status": "eol"
+  },
+  {
+   "numer": "5002121",
+   "nazwa": "Puppy and Kennel",
+   "rok": 2014,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
    "numer": "10581",
    "nazwa": "Kaczki",
    "rok": 2015,
