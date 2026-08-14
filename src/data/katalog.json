@@ -24000,6 +24000,1754 @@
  ],
  "Friends": [
   {
+   "numer": "30400",
+   "nazwa": "Gimnastyczka",
+   "rok": 2017,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "30401",
+   "nazwa": "Wodna zjeżdżalnia",
+   "rok": 2017,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "30402",
+   "nazwa": "Triki snowboardowe",
+   "rok": 2017,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "40171",
+   "nazwa": "Szkatułka w kształcie jeża do zbudowania",
+   "rok": 2017,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "40264",
+   "nazwa": "Zestaw akcesoriów Zbuduj własne Miasto Heartlake",
+   "rok": 2017,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "40265",
+   "nazwa": "Friends - kółko i krzyżyk",
+   "rok": 2017,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "40266",
+   "nazwa": "Pudełko Friends",
+   "rok": 2017,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "41300",
+   "nazwa": "Mistrzostwa szczeniaczków",
+   "rok": 2017,
+   "elementy": 185,
+   "status": "eol"
+  },
+  {
+   "numer": "41301",
+   "nazwa": "Parada piesków",
+   "rok": 2017,
+   "elementy": 145,
+   "status": "eol"
+  },
+  {
+   "numer": "41302",
+   "nazwa": "Salon piękności dla piesków",
+   "rok": 2017,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "41303",
+   "nazwa": "Plac zabaw dla piesków",
+   "rok": 2017,
+   "elementy": 62,
+   "status": "eol"
+  },
+  {
+   "numer": "41304",
+   "nazwa": "Sztuczki i przysmaki dla piesków",
+   "rok": 2017,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "41305",
+   "nazwa": "Pracownia fotograficzna Emmy",
+   "rok": 2017,
+   "elementy": 96,
+   "status": "eol"
+  },
+  {
+   "numer": "41306",
+   "nazwa": "Plażowy skuter Mii",
+   "rok": 2017,
+   "elementy": 79,
+   "status": "eol"
+  },
+  {
+   "numer": "41307",
+   "nazwa": "Kreatywne laboratorium Olivii",
+   "rok": 2017,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "41308",
+   "nazwa": "Ciastka przyjaźni Stephanie",
+   "rok": 2017,
+   "elementy": 94,
+   "status": "eol"
+  },
+  {
+   "numer": "41309",
+   "nazwa": "Muzyczny duet Andrei",
+   "rok": 2017,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "41310",
+   "nazwa": "Dostawca upominków w Heartlake",
+   "rok": 2017,
+   "elementy": 185,
+   "status": "eol"
+  },
+  {
+   "numer": "41311",
+   "nazwa": "Pizzeria w Heartlake",
+   "rok": 2017,
+   "elementy": 289,
+   "status": "eol"
+  },
+  {
+   "numer": "41312",
+   "nazwa": "Centrum sportu w Heartlake",
+   "rok": 2017,
+   "elementy": 328,
+   "status": "eol"
+  },
+  {
+   "numer": "41313",
+   "nazwa": "Basen w Heartlake",
+   "rok": 2017,
+   "elementy": 589,
+   "status": "eol"
+  },
+  {
+   "numer": "41314",
+   "nazwa": "Dom Stephanie",
+   "rok": 2017,
+   "elementy": 622,
+   "status": "eol"
+  },
+  {
+   "numer": "41315",
+   "nazwa": "Sklep dla surferów w Heartlake",
+   "rok": 2017,
+   "elementy": 186,
+   "status": "eol"
+  },
+  {
+   "numer": "41316",
+   "nazwa": "Transporter motorówek Andrei",
+   "rok": 2017,
+   "elementy": 309,
+   "status": "eol"
+  },
+  {
+   "numer": "41317",
+   "nazwa": "Słoneczny katamaran",
+   "rok": 2017,
+   "elementy": 603,
+   "status": "eol"
+  },
+  {
+   "numer": "41318",
+   "nazwa": "Szpital w Heartlake",
+   "rok": 2017,
+   "elementy": 871,
+   "status": "eol"
+  },
+  {
+   "numer": "41319",
+   "nazwa": "Furgonetka z gorącą czekoladą",
+   "rok": 2017,
+   "elementy": 246,
+   "status": "eol"
+  },
+  {
+   "numer": "41320",
+   "nazwa": "Sklep z mrożonym jogurtem",
+   "rok": 2017,
+   "elementy": 370,
+   "status": "eol"
+  },
+  {
+   "numer": "41321",
+   "nazwa": "Wycieczka samochodem terenowym",
+   "rok": 2017,
+   "elementy": 141,
+   "status": "eol"
+  },
+  {
+   "numer": "41322",
+   "nazwa": "Lodowisko w zimowym kurorcie",
+   "rok": 2017,
+   "elementy": 307,
+   "status": "eol"
+  },
+  {
+   "numer": "41323",
+   "nazwa": "Górski domek",
+   "rok": 2017,
+   "elementy": 402,
+   "status": "eol"
+  },
+  {
+   "numer": "41324",
+   "nazwa": "Wyciąg narciarski w zimowym kurorcie",
+   "rok": 2017,
+   "elementy": 585,
+   "status": "eol"
+  },
+  {
+   "numer": "41325",
+   "nazwa": "Plac zabaw w Heartlake",
+   "rok": 2017,
+   "elementy": 326,
+   "status": "eol"
+  },
+  {
+   "numer": "41326",
+   "nazwa": "Kalendarz adwentowy 2017",
+   "rok": 2017,
+   "elementy": 217,
+   "status": "eol"
+  },
+  {
+   "numer": "471702",
+   "nazwa": "Mia",
+   "rok": 2017,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "5004920",
+   "nazwa": "Ski Pod",
+   "rok": 2017,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "561701",
+   "nazwa": "Bear in Cave",
+   "rok": 2017,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "561702",
+   "nazwa": "Kitten Felix",
+   "rok": 2017,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "561703",
+   "nazwa": "Fruit Bar",
+   "rok": 2017,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "561704",
+   "nazwa": "Turtle on a Beach",
+   "rok": 2017,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "561705",
+   "nazwa": "Wardrobe of Future Star",
+   "rok": 2017,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "561706",
+   "nazwa": "Home Bakery",
+   "rok": 2017,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "66558",
+   "nazwa": "Super Pack 5 in 1",
+   "rok": 2017,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "853671",
+   "nazwa": "Playmat and accessory set",
+   "rok": 2017,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "30403",
+   "nazwa": "Łódź Olivii",
+   "rok": 2018,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "30404",
+   "nazwa": "Kwiat przyjaźni",
+   "rok": 2018,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "30405",
+   "nazwa": "Trening hokejowy Stephanie",
+   "rok": 2018,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "41327",
+   "nazwa": "Sypialnia Mii",
+   "rok": 2018,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "41328",
+   "nazwa": "Sypialnia Stephanie",
+   "rok": 2018,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "41329",
+   "nazwa": "Sypialnia Olivii",
+   "rok": 2018,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "41330",
+   "nazwa": "Trening piłkarski Stephanie",
+   "rok": 2018,
+   "elementy": 119,
+   "status": "eol"
+  },
+  {
+   "numer": "41332",
+   "nazwa": "Stoisko z rysunkami Emmy",
+   "rok": 2018,
+   "elementy": 210,
+   "status": "eol"
+  },
+  {
+   "numer": "41333",
+   "nazwa": "Furgonetka Olivii",
+   "rok": 2018,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "41334",
+   "nazwa": "Pokaz Andrei w parku",
+   "rok": 2018,
+   "elementy": 229,
+   "status": "eol"
+  },
+  {
+   "numer": "41335",
+   "nazwa": "Domek na drzewie Mii",
+   "rok": 2018,
+   "elementy": 351,
+   "status": "eol"
+  },
+  {
+   "numer": "41336",
+   "nazwa": "Artystyczna kawiarnia Emmy",
+   "rok": 2018,
+   "elementy": 378,
+   "status": "eol"
+  },
+  {
+   "numer": "41338",
+   "nazwa": "Stadion sportowy Stephanie",
+   "rok": 2018,
+   "elementy": 460,
+   "status": "eol"
+  },
+  {
+   "numer": "41339",
+   "nazwa": "Samochód kempingowy Mii",
+   "rok": 2018,
+   "elementy": 488,
+   "status": "eol"
+  },
+  {
+   "numer": "41340",
+   "nazwa": "Dom przyjaźni",
+   "rok": 2018,
+   "elementy": 722,
+   "status": "eol"
+  },
+  {
+   "numer": "41341",
+   "nazwa": "Sypialnia Andrei",
+   "rok": 2018,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "41342",
+   "nazwa": "Sypialnia Emmy",
+   "rok": 2018,
+   "elementy": 183,
+   "status": "eol"
+  },
+  {
+   "numer": "41343",
+   "nazwa": "Lot samolotem nad Miastem Heartlake",
+   "rok": 2018,
+   "elementy": 323,
+   "status": "eol"
+  },
+  {
+   "numer": "41344",
+   "nazwa": "Sklep z akcesoriami Andrei",
+   "rok": 2018,
+   "elementy": 294,
+   "status": "eol"
+  },
+  {
+   "numer": "41345",
+   "nazwa": "Centrum zoologiczne w Heartlake",
+   "rok": 2018,
+   "elementy": 474,
+   "status": "eol"
+  },
+  {
+   "numer": "41346",
+   "nazwa": "Pudełko przyjaźni",
+   "rok": 2018,
+   "elementy": 563,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41347",
+   "nazwa": "Kurort w Heartlake",
+   "rok": 2018,
+   "elementy": 1017,
+   "status": "eol"
+  },
+  {
+   "numer": "41348",
+   "nazwa": "Furgonetka usługowa",
+   "rok": 2018,
+   "elementy": 247,
+   "status": "eol"
+  },
+  {
+   "numer": "41349",
+   "nazwa": "Wyścigowa restauracja",
+   "rok": 2018,
+   "elementy": 345,
+   "status": "eol"
+  },
+  {
+   "numer": "41350",
+   "nazwa": "Myjnia samochodowa",
+   "rok": 2018,
+   "elementy": 325,
+   "status": "eol"
+  },
+  {
+   "numer": "41351",
+   "nazwa": "Kreatywny warsztat",
+   "rok": 2018,
+   "elementy": 413,
+   "status": "eol"
+  },
+  {
+   "numer": "41352",
+   "nazwa": "Dzień wielkiego wyścigu",
+   "rok": 2018,
+   "elementy": 648,
+   "status": "eol"
+  },
+  {
+   "numer": "41353",
+   "nazwa": "Kalendarz adwentowy 2018",
+   "rok": 2018,
+   "elementy": 500,
+   "status": "dostepny"
+  },
+  {
+   "numer": "471801",
+   "nazwa": "Dolphin and Crab",
+   "rok": 2018,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "5005236",
+   "nazwa": "Friends Clubhouse",
+   "rok": 2018,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "5005237",
+   "nazwa": "Friendship Rings",
+   "rok": 2018,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "5005238",
+   "nazwa": "Pet Go-Kart Racers",
+   "rok": 2018,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "5005553",
+   "nazwa": "LEGO Friends Easter Bundle",
+   "rok": 2018,
+   "status": "eol"
+  },
+  {
+   "numer": "561801",
+   "nazwa": "Wishing Well with Andrea's Little Bird",
+   "rok": 2018,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "561802",
+   "nazwa": "Andrea's fashion design studio",
+   "rok": 2018,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "561803",
+   "nazwa": "Ping-Pong table",
+   "rok": 2018,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "561804",
+   "nazwa": "Bunnies' Playground",
+   "rok": 2018,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "561805",
+   "nazwa": "Veterinary Cabinet",
+   "rok": 2018,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "561806",
+   "nazwa": "Mia's Fruit Stall",
+   "rok": 2018,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "561807",
+   "nazwa": "Beach Shop",
+   "rok": 2018,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "561808",
+   "nazwa": "Dog Hairdresser Salon",
+   "rok": 2018,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "561809",
+   "nazwa": "Andrea's Stage",
+   "rok": 2018,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "561810",
+   "nazwa": "Olivia's Observatory",
+   "rok": 2018,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "561811",
+   "nazwa": "Winter World",
+   "rok": 2018,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "853774",
+   "nazwa": "Olivia's Satellite Pod",
+   "rok": 2018,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "853775",
+   "nazwa": "Andrea's DJ Pod",
+   "rok": 2018,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "853776",
+   "nazwa": "Emma's Photo Studio Pod",
+   "rok": 2018,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "853777",
+   "nazwa": "Mia's Exploration Pod",
+   "rok": 2018,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "853778",
+   "nazwa": "Stephanie's Pool Pod",
+   "rok": 2018,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "30408",
+   "nazwa": "Tulipany",
+   "rok": 2019,
+   "elementy": 90,
+   "status": "eol"
+  },
+  {
+   "numer": "30409",
+   "nazwa": "Samochodzik Emmy",
+   "rok": 2019,
+   "elementy": 66,
+   "status": "eol"
+  },
+  {
+   "numer": "30410",
+   "nazwa": "Wodna zabawa Mii",
+   "rok": 2019,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "40360",
+   "nazwa": "Tabliczka z imieniem LEGO Friends",
+   "rok": 2019,
+   "elementy": 91,
+   "status": "eol"
+  },
+  {
+   "numer": "41337",
+   "nazwa": "Podwodna Frajda",
+   "rok": 2019,
+   "elementy": 389,
+   "status": "eol"
+  },
+  {
+   "numer": "41354",
+   "nazwa": "Pudełko w kształcie serca Andrei",
+   "rok": 2019,
+   "elementy": 84,
+   "status": "eol"
+  },
+  {
+   "numer": "41355",
+   "nazwa": "Pudełko w kształcie serca Emmy",
+   "rok": 2019,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "41356",
+   "nazwa": "Pudełko w kształcie serca Stephanie",
+   "rok": 2019,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "41357",
+   "nazwa": "Pudełko w kształcie serca Olivii",
+   "rok": 2019,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "41358",
+   "nazwa": "Pudełko w kształcie serca Mii",
+   "rok": 2019,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "41359",
+   "nazwa": "Pudełko w kształcie serca - zestaw przyjaźni",
+   "rok": 2019,
+   "elementy": 199,
+   "status": "eol"
+  },
+  {
+   "numer": "41360",
+   "nazwa": "Mobilna klinika weterynaryjna Emmy",
+   "rok": 2019,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "41361",
+   "nazwa": "Stajnia ze źrebakami Mii",
+   "rok": 2019,
+   "elementy": 118,
+   "status": "eol"
+  },
+  {
+   "numer": "41362",
+   "nazwa": "Supermarket w Heartlake",
+   "rok": 2019,
+   "elementy": 140,
+   "status": "eol"
+  },
+  {
+   "numer": "41363",
+   "nazwa": "Leśna przygoda Mii",
+   "rok": 2019,
+   "elementy": 134,
+   "status": "eol"
+  },
+  {
+   "numer": "41364",
+   "nazwa": "Łazik z przyczepką Stephanie",
+   "rok": 2019,
+   "elementy": 166,
+   "status": "eol"
+  },
+  {
+   "numer": "41365",
+   "nazwa": "Atelier Emmy",
+   "rok": 2019,
+   "elementy": 235,
+   "status": "eol"
+  },
+  {
+   "numer": "41366",
+   "nazwa": "Cukiernia z babeczkami Olivii",
+   "rok": 2019,
+   "elementy": 335,
+   "status": "eol"
+  },
+  {
+   "numer": "41367",
+   "nazwa": "Skoki przez przeszkody Stephanie",
+   "rok": 2019,
+   "elementy": 337,
+   "status": "eol"
+  },
+  {
+   "numer": "41368",
+   "nazwa": "Konkurs talentów Andrei",
+   "rok": 2019,
+   "elementy": 492,
+   "status": "eol"
+  },
+  {
+   "numer": "41369",
+   "nazwa": "Dom Mii",
+   "rok": 2019,
+   "elementy": 715,
+   "status": "eol"
+  },
+  {
+   "numer": "41371",
+   "nazwa": "Przyczepa dla konia Mii",
+   "rok": 2019,
+   "elementy": 216,
+   "status": "eol"
+  },
+  {
+   "numer": "41372",
+   "nazwa": "Występ gimnastyczny Stephanie",
+   "rok": 2019,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "41373",
+   "nazwa": "Funny Octopus Ride",
+   "rok": 2019,
+   "elementy": 324,
+   "status": "eol"
+  },
+  {
+   "numer": "41374",
+   "nazwa": "Impreza Andrei na basenie",
+   "rok": 2019,
+   "elementy": 468,
+   "status": "eol"
+  },
+  {
+   "numer": "41375",
+   "nazwa": "Piracka przygoda w Heartlake",
+   "rok": 2019,
+   "elementy": 1251,
+   "status": "eol"
+  },
+  {
+   "numer": "41376",
+   "nazwa": "Na ratunek żółwiom",
+   "rok": 2019,
+   "elementy": 225,
+   "status": "eol"
+  },
+  {
+   "numer": "41378",
+   "nazwa": "Na ratunek delfinom",
+   "rok": 2019,
+   "elementy": 363,
+   "status": "eol"
+  },
+  {
+   "numer": "41379",
+   "nazwa": "Restauracja w Heartlake",
+   "rok": 2019,
+   "elementy": 624,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41380",
+   "nazwa": "Centrum ratunkowe w latarni morskiej",
+   "rok": 2019,
+   "elementy": 602,
+   "status": "eol"
+  },
+  {
+   "numer": "41381",
+   "nazwa": "Łódź ratunkowa",
+   "rok": 2019,
+   "elementy": 908,
+   "status": "eol"
+  },
+  {
+   "numer": "41382",
+   "nazwa": "Kalendarz adwentowy 2019",
+   "rok": 2019,
+   "elementy": 330,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41383",
+   "nazwa": "Plac zabaw dla chomików Olivii",
+   "rok": 2019,
+   "elementy": 81,
+   "status": "eol"
+  },
+  {
+   "numer": "41384",
+   "nazwa": "Pudełko przyjaźni Andrei",
+   "rok": 2019,
+   "elementy": 83,
+   "status": "eol"
+  },
+  {
+   "numer": "41385",
+   "nazwa": "Pudełko przyjaźni Emmy",
+   "rok": 2019,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "41386",
+   "nazwa": "Pudełko przyjaźni Stephanie",
+   "rok": 2019,
+   "elementy": 95,
+   "status": "eol"
+  },
+  {
+   "numer": "41387",
+   "nazwa": "Pudełko przyjaźni Olivii",
+   "rok": 2019,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "41388",
+   "nazwa": "Pudełko przyjaźni Mii",
+   "rok": 2019,
+   "elementy": 85,
+   "status": "eol"
+  },
+  {
+   "numer": "471904",
+   "nazwa": "Show Jump",
+   "rok": 2019,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "561901",
+   "nazwa": "Emma's Kitty Chico",
+   "rok": 2019,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "561902",
+   "nazwa": "Shop with Costumes",
+   "rok": 2019,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "561903",
+   "nazwa": "Sweet Baby",
+   "rok": 2019,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "561904",
+   "nazwa": "Bear's Cave",
+   "rok": 2019,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "561905",
+   "nazwa": "Andrea's Booth with Waffles",
+   "rok": 2019,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "561906",
+   "nazwa": "Robot on paddleboard",
+   "rok": 2019,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "561907",
+   "nazwa": "Ice Cream Parlour",
+   "rok": 2019,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "561908",
+   "nazwa": "Andrea's Stage",
+   "rok": 2019,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "561909",
+   "nazwa": "Stephanie's Puppy Dash",
+   "rok": 2019,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "561910",
+   "nazwa": "Halloween Store",
+   "rok": 2019,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "561911",
+   "nazwa": "Olivia's Bakery",
+   "rok": 2019,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "66620",
+   "nazwa": "Super Pack 3-in-1",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "853922",
+   "nazwa": "Creative Rings",
+   "rok": 2019,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "30411",
+   "nazwa": "Bombonierka i kwiaty",
+   "rok": 2020,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "30412",
+   "nazwa": "Piknik w parku",
+   "rok": 2020,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "41389",
+   "nazwa": "Wózek z lodami",
+   "rok": 2020,
+   "elementy": 97,
+   "status": "eol"
+  },
+  {
+   "numer": "41390",
+   "nazwa": "Samochód i scena Andrei",
+   "rok": 2020,
+   "elementy": 240,
+   "status": "eol"
+  },
+  {
+   "numer": "41391",
+   "nazwa": "Salon fryzjerski w Heartlake",
+   "rok": 2020,
+   "elementy": 235,
+   "status": "eol"
+  },
+  {
+   "numer": "41392",
+   "nazwa": "Luksusowy kemping",
+   "rok": 2020,
+   "elementy": 241,
+   "status": "eol"
+  },
+  {
+   "numer": "41393",
+   "nazwa": "Konkurs pieczenia",
+   "rok": 2020,
+   "elementy": 361,
+   "status": "eol"
+  },
+  {
+   "numer": "41394",
+   "nazwa": "Szpital w Heartlake",
+   "rok": 2020,
+   "elementy": 379,
+   "status": "eol"
+  },
+  {
+   "numer": "41395",
+   "nazwa": "Autobus przyjaźni",
+   "rok": 2020,
+   "elementy": 778,
+   "status": "eol"
+  },
+  {
+   "numer": "41396",
+   "nazwa": "Plac zabaw dla piesków",
+   "rok": 2020,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "41397",
+   "nazwa": "Food truck z sokami",
+   "rok": 2020,
+   "elementy": 103,
+   "status": "eol"
+  },
+  {
+   "numer": "41398",
+   "nazwa": "Dom Stephanie 4+",
+   "rok": 2020,
+   "elementy": 170,
+   "status": "eol"
+  },
+  {
+   "numer": "41400",
+   "nazwa": "Kostka do zabawy Andrei",
+   "rok": 2020,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "41401",
+   "nazwa": "Kostka do zabawy Stephanie",
+   "rok": 2020,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "41402",
+   "nazwa": "Kostka do zabawy Olivii",
+   "rok": 2020,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "41403",
+   "nazwa": "Kostka do zabawy Mii",
+   "rok": 2020,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "41404",
+   "nazwa": "Kostka do zabawy Emmy",
+   "rok": 2020,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "41405",
+   "nazwa": "Kostka Andrei do zabawy w sklep",
+   "rok": 2020,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "41406",
+   "nazwa": "Kostka Stephanie do zabawy w sklep",
+   "rok": 2020,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "41407",
+   "nazwa": "Kostka Olivii do zabawy w sklep",
+   "rok": 2020,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "41408",
+   "nazwa": "Kostka Mii do zabawy w sklep",
+   "rok": 2020,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "41409",
+   "nazwa": "Kostka Emmy do zabawy w sklep",
+   "rok": 2020,
+   "elementy": 49,
+   "status": "eol"
+  },
+  {
+   "numer": "41410",
+   "nazwa": "Letnia kostka do zabawy Andrei",
+   "rok": 2020,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "41411",
+   "nazwa": "Letnia kostka do zabawy Stephanie",
+   "rok": 2020,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "41412",
+   "nazwa": "Letnia kostka do zabawy Olivii",
+   "rok": 2020,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "41413",
+   "nazwa": "Letnia kostka do zabawy Mii",
+   "rok": 2020,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "41414",
+   "nazwa": "Letnia kostka do zabawy Emmy",
+   "rok": 2020,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "41420",
+   "nazwa": "Kalendarz adwentowy 2020",
+   "rok": 2020,
+   "elementy": 236,
+   "status": "eol"
+  },
+  {
+   "numer": "41421",
+   "nazwa": "Na ratunek słoniątku",
+   "rok": 2020,
+   "elementy": 203,
+   "status": "eol"
+  },
+  {
+   "numer": "41422",
+   "nazwa": "Domek pand na drzewie",
+   "rok": 2020,
+   "elementy": 265,
+   "status": "eol"
+  },
+  {
+   "numer": "41423",
+   "nazwa": "Balonem na ratunek tygrysowi",
+   "rok": 2020,
+   "elementy": 302,
+   "status": "eol"
+  },
+  {
+   "numer": "41424",
+   "nazwa": "Baza ratownicza",
+   "rok": 2020,
+   "elementy": 648,
+   "status": "eol"
+  },
+  {
+   "numer": "41425",
+   "nazwa": "Kwiatowy ogród Olivii",
+   "rok": 2020,
+   "elementy": 92,
+   "status": "eol"
+  },
+  {
+   "numer": "41426",
+   "nazwa": "Parkowa kawiarnia w Heartlake City",
+   "rok": 2020,
+   "elementy": 224,
+   "status": "eol"
+  },
+  {
+   "numer": "41427",
+   "nazwa": "Butik Emmy",
+   "rok": 2020,
+   "elementy": 343,
+   "status": "eol"
+  },
+  {
+   "numer": "41428",
+   "nazwa": "Domek na plaży",
+   "rok": 2020,
+   "elementy": 444,
+   "status": "eol"
+  },
+  {
+   "numer": "41429",
+   "nazwa": "Samolot z Heartlake City",
+   "rok": 2020,
+   "elementy": 574,
+   "status": "eol"
+  },
+  {
+   "numer": "41430",
+   "nazwa": "Letnia zabawa w parku wodnym",
+   "rok": 2020,
+   "elementy": 1001,
+   "status": "eol"
+  },
+  {
+   "numer": "41431",
+   "nazwa": "Zestaw klocków Heartlake City",
+   "rok": 2020,
+   "elementy": 321,
+   "status": "eol"
+  },
+  {
+   "numer": "41432",
+   "nazwa": "Na ratunek alpace",
+   "rok": 2020,
+   "elementy": 512,
+   "status": "eol"
+  },
+  {
+   "numer": "41433",
+   "nazwa": "Łódź imprezowa",
+   "rok": 2020,
+   "elementy": 640,
+   "status": "eol"
+  },
+  {
+   "numer": "41434",
+   "nazwa": "Dżunglowa kostka do zabawy Andrei",
+   "rok": 2020,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "41435",
+   "nazwa": "Dżunglowa kostka do zabawy Stephanie",
+   "rok": 2020,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "41436",
+   "nazwa": "Dżunglowa kostka do zabawy Olivii",
+   "rok": 2020,
+   "elementy": 51,
+   "status": "eol"
+  },
+  {
+   "numer": "41437",
+   "nazwa": "Dżunglowa kostka do zabawy Mii",
+   "rok": 2020,
+   "elementy": 43,
+   "status": "eol"
+  },
+  {
+   "numer": "41438",
+   "nazwa": "Dżunglowa kostka do zabawy Emmy",
+   "rok": 2020,
+   "elementy": 50,
+   "status": "eol"
+  },
+  {
+   "numer": "562001",
+   "nazwa": "Cake",
+   "rok": 2020,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "562002",
+   "nazwa": "Hot Dog Stand",
+   "rok": 2020,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "562003",
+   "nazwa": "Cat at vets",
+   "rok": 2020,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "562004",
+   "nazwa": "Cute Dog",
+   "rok": 2020,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "562005",
+   "nazwa": "Dressing Table",
+   "rok": 2020,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "562006",
+   "nazwa": "Beach Bar",
+   "rok": 2020,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "562007",
+   "nazwa": "Dolphin",
+   "rok": 2020,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "562008",
+   "nazwa": "Sealion",
+   "rok": 2020,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "562009",
+   "nazwa": "Andrea's Magic Show",
+   "rok": 2020,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "562010",
+   "nazwa": "Turtle's paradise",
+   "rok": 2020,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "562011",
+   "nazwa": "Stephanie's Bakery",
+   "rok": 2020,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "562012",
+   "nazwa": "Hamster and tree",
+   "rok": 2020,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "30413",
+   "nazwa": "Wózek z kwiatami",
+   "rok": 2021,
+   "elementy": 55,
+   "status": "eol"
+  },
+  {
+   "numer": "30414",
+   "nazwa": "Magiczny kufer Emmy",
+   "rok": 2021,
+   "elementy": 67,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41439",
+   "nazwa": "Samochód do pielęgnacji kotów",
+   "rok": 2021,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "41440",
+   "nazwa": "Piekarnia w Heartlake City",
+   "rok": 2021,
+   "elementy": 99,
+   "status": "eol"
+  },
+  {
+   "numer": "41441",
+   "nazwa": "Szkółka jeździecka i przyczepa dla konia",
+   "rok": 2021,
+   "elementy": 148,
+   "status": "eol"
+  },
+  {
+   "numer": "41442",
+   "nazwa": "Weterynaryjny łazik ratunkowy",
+   "rok": 2021,
+   "elementy": 100,
+   "status": "eol"
+  },
+  {
+   "numer": "41443",
+   "nazwa": "Samochód elektryczny Olivii",
+   "rok": 2021,
+   "elementy": 183,
+   "status": "eol"
+  },
+  {
+   "numer": "41444",
+   "nazwa": "Ekologiczna kawiarnia w Heartlake City",
+   "rok": 2021,
+   "elementy": 314,
+   "status": "eol"
+  },
+  {
+   "numer": "41445",
+   "nazwa": "Karetka weterynaryjna",
+   "rok": 2021,
+   "elementy": 304,
+   "status": "eol"
+  },
+  {
+   "numer": "41446",
+   "nazwa": "Klinika weterynaryjna w Heartlake City",
+   "rok": 2021,
+   "elementy": 258,
+   "status": "eol"
+  },
+  {
+   "numer": "41447",
+   "nazwa": "Park w Heartlake City",
+   "rok": 2021,
+   "elementy": 432,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41448",
+   "nazwa": "Kino w Heartlake City",
+   "rok": 2021,
+   "elementy": 451,
+   "status": "eol"
+  },
+  {
+   "numer": "41449",
+   "nazwa": "Dom rodzinny Andrei",
+   "rok": 2021,
+   "elementy": 802,
+   "status": "eol"
+  },
+  {
+   "numer": "41450",
+   "nazwa": "Centrum handlowe w Heartlake City",
+   "rok": 2021,
+   "elementy": 1032,
+   "status": "eol"
+  },
+  {
+   "numer": "41662",
+   "nazwa": "Kostka Olivii z flamingiem",
+   "rok": 2021,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "41663",
+   "nazwa": "Kostka Emmy z dalmatyńczykiem",
+   "rok": 2021,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "41664",
+   "nazwa": "Kostka Mii z mopsem",
+   "rok": 2021,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "41665",
+   "nazwa": "Kostka Stephanie z kotem",
+   "rok": 2021,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "41666",
+   "nazwa": "Kostka Andrei z królikiem",
+   "rok": 2021,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "41667",
+   "nazwa": "Kostka gier Olivii",
+   "rok": 2021,
+   "elementy": 64,
+   "status": "eol"
+  },
+  {
+   "numer": "41668",
+   "nazwa": "Modowa kostka Emmy",
+   "rok": 2021,
+   "elementy": 58,
+   "status": "eol"
+  },
+  {
+   "numer": "41669",
+   "nazwa": "Piłkarska kostka Mii",
+   "rok": 2021,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "41670",
+   "nazwa": "Baletowa kostka Stephanie",
+   "rok": 2021,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "41671",
+   "nazwa": "Pływacka kostka Andrei",
+   "rok": 2021,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "41677",
+   "nazwa": "Leśny wodospad",
+   "rok": 2021,
+   "elementy": 93,
+   "status": "eol"
+  },
+  {
+   "numer": "41679",
+   "nazwa": "Leśny domek",
+   "rok": 2021,
+   "elementy": 326,
+   "status": "eol"
+  },
+  {
+   "numer": "41681",
+   "nazwa": "Leśny mikrobus kempingowy i żaglówka",
+   "rok": 2021,
+   "elementy": 487,
+   "status": "eol"
+  },
+  {
+   "numer": "41682",
+   "nazwa": "Szkoła w mieście Heartlake",
+   "rok": 2021,
+   "elementy": 605,
+   "status": "eol"
+  },
+  {
+   "numer": "41683",
+   "nazwa": "Leśne centrum jeździeckie",
+   "rok": 2021,
+   "elementy": 511,
+   "status": "eol"
+  },
+  {
+   "numer": "41684",
+   "nazwa": "Wielki hotel w mieście Heartlake",
+   "rok": 2021,
+   "elementy": 1308,
+   "status": "eol"
+  },
+  {
+   "numer": "41685",
+   "nazwa": "Magiczne wesołe miasteczko z kolejką górską",
+   "rok": 2021,
+   "elementy": 974,
+   "status": "eol"
+  },
+  {
+   "numer": "41686",
+   "nazwa": "Magiczna akrobatyka",
+   "rok": 2021,
+   "elementy": 223,
+   "status": "eol"
+  },
+  {
+   "numer": "41687",
+   "nazwa": "Magiczne stoiska w wesołym miasteczku",
+   "rok": 2021,
+   "elementy": 361,
+   "status": "eol"
+  },
+  {
+   "numer": "41688",
+   "nazwa": "Magiczny wóz",
+   "rok": 2021,
+   "elementy": 348,
+   "status": "dostepny"
+  },
+  {
+   "numer": "41689",
+   "nazwa": "Magiczny diabelski młyn i zjeżdżalnia",
+   "rok": 2021,
+   "elementy": 545,
+   "status": "eol"
+  },
+  {
+   "numer": "41690",
+   "nazwa": "Kalendarz adwentowy 2021",
+   "rok": 2021,
+   "elementy": 370,
+   "status": "eol"
+  },
+  {
+   "numer": "41691",
+   "nazwa": "Świetlica dla psów",
+   "rok": 2021,
+   "elementy": 221,
+   "status": "eol"
+  },
+  {
+   "numer": "41692",
+   "nazwa": "Weterynaryjny helikopter ratunkowy",
+   "rok": 2021,
+   "elementy": 249,
+   "status": "eol"
+  },
+  {
+   "numer": "41693",
+   "nazwa": "Nabrzeże surferów",
+   "rok": 2021,
+   "elementy": 685,
+   "status": "eol"
+  },
+  {
+   "numer": "472102",
+   "nazwa": "Emma and Panda",
+   "rok": 2021,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "562101",
+   "nazwa": "Performing dog",
+   "rok": 2021,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "562102",
+   "nazwa": "Dressing Room",
+   "rok": 2021,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "562103",
+   "nazwa": "Cat Grooming Salon",
+   "rok": 2021,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "562104",
+   "nazwa": "Ice Cream Shop",
+   "rok": 2021,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "562105",
+   "nazwa": "Squirrel's Tree House",
+   "rok": 2021,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "562106",
+   "nazwa": "Stephanie's Cookie Kitchen",
+   "rok": 2021,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "66673",
+   "nazwa": "Animal Gift Set",
+   "rok": 2021,
+   "elementy": 431,
+   "status": "eol"
+  },
+  {
    "numer": "30416",
    "nazwa": "Stoisko",
    "rok": 2022,
