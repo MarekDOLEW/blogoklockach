@@ -28804,6 +28804,1235 @@
  ],
  "DUPLO": [
   {
+   "numer": "10581",
+   "nazwa": "Kaczki",
+   "rok": 2015,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10582",
+   "nazwa": "Leśne zwierzęta",
+   "rok": 2015,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10583",
+   "nazwa": "Wycieczka na ryby",
+   "rok": 2015,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "10584",
+   "nazwa": "Leśny Park",
+   "rok": 2015,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "10585",
+   "nazwa": "Mama z dzieckiem",
+   "rok": 2015,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10586",
+   "nazwa": "Furgonetka lodziarza",
+   "rok": 2015,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "10587",
+   "nazwa": "Kawiarenka",
+   "rok": 2015,
+   "elementy": 52,
+   "status": "eol"
+  },
+  {
+   "numer": "10589",
+   "nazwa": "Auto wyścigowe",
+   "rok": 2015,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10590",
+   "nazwa": "Lotnisko",
+   "rok": 2015,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10591",
+   "nazwa": "Łódź strażacka",
+   "rok": 2015,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10592",
+   "nazwa": "Wóz strażacki",
+   "rok": 2015,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "10593",
+   "nazwa": "Remiza strażacka",
+   "rok": 2015,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "10594",
+   "nazwa": "Królewska stajnia",
+   "rok": 2015,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "10595",
+   "nazwa": "Królewski zamek",
+   "rok": 2015,
+   "elementy": 87,
+   "status": "eol"
+  },
+  {
+   "numer": "10596",
+   "nazwa": "Kolekcja Disney Princess",
+   "rok": 2015,
+   "elementy": 63,
+   "status": "eol"
+  },
+  {
+   "numer": "10597",
+   "nazwa": "Parada Minnie",
+   "rok": 2015,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10599",
+   "nazwa": "Przygody Batmana",
+   "rok": 2015,
+   "elementy": 47,
+   "status": "eol"
+  },
+  {
+   "numer": "10600",
+   "nazwa": "Cars Zygzak i Złomek",
+   "rok": 2015,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10601",
+   "nazwa": "Ciężarówka",
+   "rok": 2015,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10602",
+   "nazwa": "Przygoda kempingowa",
+   "rok": 2015,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "10603",
+   "nazwa": "Mój pierwszy autobus",
+   "rok": 2015,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "10604",
+   "nazwa": "Jake i piraci z Nibylandii Na Wyspie Skarbów",
+   "rok": 2015,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10605",
+   "nazwa": "Klinika dla pluszaków - Karetka doktor Dosi",
+   "rok": 2015,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10606",
+   "nazwa": "Klinika dla pluszaków",
+   "rok": 2015,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10607",
+   "nazwa": "Motocyklowy warsztat Spider-Mana",
+   "rok": 2015,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10608",
+   "nazwa": "Ciężarówka Spider Mana",
+   "rok": 2015,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10615",
+   "nazwa": "Mój pierwszy traktor",
+   "rok": 2015,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "10616",
+   "nazwa": "Mój pierwszy domek",
+   "rok": 2015,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10617",
+   "nazwa": "Moja pierwsza farma",
+   "rok": 2015,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "10618",
+   "nazwa": "Zestaw kreatywnego budowniczego",
+   "rok": 2015,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "10622",
+   "nazwa": "Duży zestaw kreatywny XXL",
+   "rok": 2015,
+   "elementy": 193,
+   "status": "eol"
+  },
+  {
+   "numer": "10623",
+   "nazwa": "DUPLO Basic Bricks – Large",
+   "rok": 2015,
+   "elementy": 60,
+   "status": "eol"
+  },
+  {
+   "numer": "30217",
+   "nazwa": "W lesie",
+   "rok": 2015,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "30218",
+   "nazwa": "Ślimak",
+   "rok": 2015,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "5002932",
+   "nazwa": "Puzzle",
+   "rok": 2015,
+   "elementy": 2,
+   "status": "eol"
+  },
+  {
+   "numer": "66494",
+   "nazwa": "Train 3-in-1 pack",
+   "rok": 2015,
+   "elementy": 88,
+   "status": "eol"
+  },
+  {
+   "numer": "66524",
+   "nazwa": "Train Super Pack 3-in-1",
+   "rok": 2015,
+   "elementy": 177,
+   "status": "eol"
+  },
+  {
+   "numer": "66525",
+   "nazwa": "Farm Super Pack 3-in-1",
+   "rok": 2015,
+   "elementy": 142,
+   "status": "eol"
+  },
+  {
+   "numer": "10801",
+   "nazwa": "Zwierzątka",
+   "rok": 2016,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10802",
+   "nazwa": "Sawanna",
+   "rok": 2016,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10803",
+   "nazwa": "Arktyka",
+   "rok": 2016,
+   "elementy": 40,
+   "status": "eol"
+  },
+  {
+   "numer": "10804",
+   "nazwa": "Dżungla",
+   "rok": 2016,
+   "elementy": 86,
+   "status": "eol"
+  },
+  {
+   "numer": "10805",
+   "nazwa": "Dookoła świata",
+   "rok": 2016,
+   "elementy": 163,
+   "status": "eol"
+  },
+  {
+   "numer": "10806",
+   "nazwa": "Konie",
+   "rok": 2016,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "10807",
+   "nazwa": "Przyczepa dla koni",
+   "rok": 2016,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10808",
+   "nazwa": "Mały samolot",
+   "rok": 2016,
+   "elementy": 13,
+   "status": "eol"
+  },
+  {
+   "numer": "10809",
+   "nazwa": "Patrol policyjny",
+   "rok": 2016,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10810",
+   "nazwa": "Ciuchcia",
+   "rok": 2016,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "10811",
+   "nazwa": "Koparko-ładowarka",
+   "rok": 2016,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10812",
+   "nazwa": "Ciężarówka i koparka gąsienicowa",
+   "rok": 2016,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10813",
+   "nazwa": "Wielka budowa",
+   "rok": 2016,
+   "elementy": 67,
+   "status": "eol"
+  },
+  {
+   "numer": "10814",
+   "nazwa": "Samochód pomocy drogowej",
+   "rok": 2016,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10815",
+   "nazwa": "Moja pierwsza rakieta",
+   "rok": 2016,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10816",
+   "nazwa": "Moje pierwsze pojazdy",
+   "rok": 2016,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "10817",
+   "nazwa": "Kreatywny Kuferek",
+   "rok": 2016,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "10818",
+   "nazwa": "Moja pierwsza ciężarówka",
+   "rok": 2016,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10819",
+   "nazwa": "Mój pierwszy ogród",
+   "rok": 2016,
+   "elementy": 25,
+   "status": "eol"
+  },
+  {
+   "numer": "10820",
+   "nazwa": "Zestaw kreatywnego budowniczego",
+   "rok": 2016,
+   "elementy": 110,
+   "status": "eol"
+  },
+  {
+   "numer": "10822",
+   "nazwa": "Jej Wysokość Zosia - magiczna kareta",
+   "rok": 2016,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10824",
+   "nazwa": "Przygody Milesa z przyszłości",
+   "rok": 2016,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10825",
+   "nazwa": "Maszyna krocząca Milesa",
+   "rok": 2016,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10826",
+   "nazwa": "Statek kosmiczny Milesa",
+   "rok": 2016,
+   "elementy": 44,
+   "status": "eol"
+  },
+  {
+   "numer": "10827",
+   "nazwa": "Miki i przyjaciele - Domek na plaży",
+   "rok": 2016,
+   "elementy": 48,
+   "status": "eol"
+  },
+  {
+   "numer": "10828",
+   "nazwa": "Lecznica dla zwierząt doktor Dosi",
+   "rok": 2016,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10829",
+   "nazwa": "Warsztat Myszki Mickey",
+   "rok": 2016,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10830",
+   "nazwa": "Kawiarnia Minnie",
+   "rok": 2016,
+   "elementy": 27,
+   "status": "eol"
+  },
+  {
+   "numer": "10831",
+   "nazwa": "Moja pierwsza gąsieniczka",
+   "rok": 2016,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "30321",
+   "nazwa": "Kaczka",
+   "rok": 2016,
+   "elementy": 4,
+   "status": "eol"
+  },
+  {
+   "numer": "30322",
+   "nazwa": "Dzikie zwierzęta",
+   "rok": 2016,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "40167",
+   "nazwa": "Mój pierwszy zestaw",
+   "rok": 2016,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "5004401",
+   "nazwa": "Wildlife Puzzle",
+   "rok": 2016,
+   "elementy": 3,
+   "status": "eol"
+  },
+  {
+   "numer": "66538",
+   "nazwa": "Forests Value Pack",
+   "rok": 2016,
+   "elementy": 157,
+   "status": "eol"
+  },
+  {
+   "numer": "10823",
+   "nazwa": "Przygoda z Batwing",
+   "rok": 2017,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10832",
+   "nazwa": "Przyjęcie urodzinowe",
+   "rok": 2017,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10833",
+   "nazwa": "Przedszkole",
+   "rok": 2017,
+   "elementy": 39,
+   "status": "eol"
+  },
+  {
+   "numer": "10834",
+   "nazwa": "Pizzeria",
+   "rok": 2017,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "10835",
+   "nazwa": "Dom rodzinny",
+   "rok": 2017,
+   "elementy": 69,
+   "status": "eol"
+  },
+  {
+   "numer": "10836",
+   "nazwa": "Miasteczko",
+   "rok": 2017,
+   "elementy": 98,
+   "status": "eol"
+  },
+  {
+   "numer": "10837",
+   "nazwa": "Zimowe ferie Świętego Mikołaja",
+   "rok": 2017,
+   "elementy": 45,
+   "status": "eol"
+  },
+  {
+   "numer": "10838",
+   "nazwa": "Zwierzątka domowe",
+   "rok": 2017,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10839",
+   "nazwa": "Strzelnica",
+   "rok": 2017,
+   "elementy": 32,
+   "status": "eol"
+  },
+  {
+   "numer": "10840",
+   "nazwa": "Duże wesołe miasteczko",
+   "rok": 2017,
+   "elementy": 106,
+   "status": "eol"
+  },
+  {
+   "numer": "10841",
+   "nazwa": "Wesołe miasteczko",
+   "rok": 2017,
+   "elementy": 61,
+   "status": "eol"
+  },
+  {
+   "numer": "10842",
+   "nazwa": "Jaskinia Batmana",
+   "rok": 2017,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "10843",
+   "nazwa": "Wyścigówka Mikiego",
+   "rok": 2017,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10844",
+   "nazwa": "Butik Minnie",
+   "rok": 2017,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "10845",
+   "nazwa": "Moja pierwsza karuzela",
+   "rok": 2017,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10846",
+   "nazwa": "Kawiarnia Flo",
+   "rok": 2017,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10847",
+   "nazwa": "Pociąg z cyferkami",
+   "rok": 2017,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10848",
+   "nazwa": "Moje pierwsze klocki",
+   "rok": 2017,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "10849",
+   "nazwa": "Mój pierwszy samolot",
+   "rok": 2017,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "10850",
+   "nazwa": "Moje pierwsze ciastka",
+   "rok": 2017,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "10851",
+   "nazwa": "Mój pierwszy autobus",
+   "rok": 2017,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "10852",
+   "nazwa": "Moja pierwsza papuga",
+   "rok": 2017,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "10853",
+   "nazwa": "Zestaw kreatywnego budowniczego",
+   "rok": 2017,
+   "elementy": 75,
+   "status": "eol"
+  },
+  {
+   "numer": "10854",
+   "nazwa": "Zestaw kreatywny",
+   "rok": 2017,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "10855",
+   "nazwa": "Magiczny zamek Kopciuszka",
+   "rok": 2017,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "10856",
+   "nazwa": "Szopa Złomka",
+   "rok": 2017,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "10857",
+   "nazwa": "Wyścig o Złoty Tłok",
+   "rok": 2017,
+   "elementy": 31,
+   "status": "eol"
+  },
+  {
+   "numer": "30323",
+   "nazwa": "Moja pierwsza rybka",
+   "rok": 2017,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "30324",
+   "nazwa": "Moje miasto",
+   "rok": 2017,
+   "status": "eol"
+  },
+  {
+   "numer": "40267",
+   "nazwa": "Find A Pair Pack",
+   "rok": 2017,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "40269",
+   "nazwa": "Ramka na zdjęcie",
+   "rok": 2017,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "10858",
+   "nazwa": "Moje pierwsze zwierzatka",
+   "rok": 2018,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10859",
+   "nazwa": "Moja pierwsza biedronka",
+   "rok": 2018,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "10860",
+   "nazwa": "Moja pierwsza wyścigówka",
+   "rok": 2018,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "10861",
+   "nazwa": "Moje pierwsze emocje",
+   "rok": 2018,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10862",
+   "nazwa": "Moje pierwsze przyjęcie",
+   "rok": 2018,
+   "elementy": 41,
+   "status": "eol"
+  },
+  {
+   "numer": "10863",
+   "nazwa": "Pociąg ze zwierzątkami",
+   "rok": 2018,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "10864",
+   "nazwa": "Duży plac zabaw",
+   "rok": 2018,
+   "elementy": 71,
+   "status": "eol"
+  },
+  {
+   "numer": "10865",
+   "nazwa": "Wyjątkowe budowle",
+   "rok": 2018,
+   "elementy": 70,
+   "status": "eol"
+  },
+  {
+   "numer": "10867",
+   "nazwa": "Na targu",
+   "rok": 2018,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "10868",
+   "nazwa": "Stajnia z kucykami",
+   "rok": 2018,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10869",
+   "nazwa": "Przygody na farmie",
+   "rok": 2018,
+   "elementy": 104,
+   "status": "eol"
+  },
+  {
+   "numer": "10870",
+   "nazwa": "Zwierzątka hodowlane",
+   "rok": 2018,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10871",
+   "nazwa": "Lotnisko",
+   "rok": 2018,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10872",
+   "nazwa": "Tory kolejowe i wiadukt",
+   "rok": 2018,
+   "elementy": 26,
+   "status": "eol"
+  },
+  {
+   "numer": "10873",
+   "nazwa": "Przyjęcie urodzinowe Minnie",
+   "rok": 2018,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "10874",
+   "nazwa": "Pociąg parowy",
+   "rok": 2018,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10875",
+   "nazwa": "Pociąg towarowy",
+   "rok": 2018,
+   "elementy": 105,
+   "status": "eol"
+  },
+  {
+   "numer": "10876",
+   "nazwa": "Przygody Spider-Mana i Hulka",
+   "rok": 2018,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "10877",
+   "nazwa": "Herbatka u Belli",
+   "rok": 2018,
+   "elementy": 19,
+   "status": "eol"
+  },
+  {
+   "numer": "10878",
+   "nazwa": "Wieża Roszpunki",
+   "rok": 2018,
+   "elementy": 37,
+   "status": "eol"
+  },
+  {
+   "numer": "10879",
+   "nazwa": "Minizoo „Łagodne olbrzymy”",
+   "rok": 2018,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "10880",
+   "nazwa": "Wieża tyranozaura",
+   "rok": 2018,
+   "elementy": 22,
+   "status": "eol"
+  },
+  {
+   "numer": "10881",
+   "nazwa": "Łódka Mikiego",
+   "rok": 2018,
+   "elementy": 28,
+   "status": "eol"
+  },
+  {
+   "numer": "10882",
+   "nazwa": "Tory kolejowe",
+   "rok": 2018,
+   "elementy": 23,
+   "status": "eol"
+  },
+  {
+   "numer": "30325",
+   "nazwa": "Mój pierwszy dinozaur",
+   "rok": 2018,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "30326",
+   "nazwa": "Farma",
+   "rok": 2018,
+   "status": "eol"
+  },
+  {
+   "numer": "40304",
+   "nazwa": "Numbers",
+   "rok": 2018,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "10883",
+   "nazwa": "Mój pierwszy holownik",
+   "rok": 2019,
+   "elementy": 11,
+   "status": "eol"
+  },
+  {
+   "numer": "10884",
+   "nazwa": "Moje pierwsze zwierzątka na równoważni",
+   "rok": 2019,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10885",
+   "nazwa": "Moja pierwsza układanka",
+   "rok": 2019,
+   "elementy": 15,
+   "status": "eol"
+  },
+  {
+   "numer": "10886",
+   "nazwa": "Moje pierwsze samochodziki",
+   "rok": 2019,
+   "elementy": 34,
+   "status": "eol"
+  },
+  {
+   "numer": "10887",
+   "nazwa": "Kreatywna zabawa",
+   "rok": 2019,
+   "elementy": 120,
+   "status": "eol"
+  },
+  {
+   "numer": "10889",
+   "nazwa": "Domek wakacyjny Mikiego",
+   "rok": 2019,
+   "elementy": 57,
+   "status": "eol"
+  },
+  {
+   "numer": "10893",
+   "nazwa": "Spider-Man vs. Electro",
+   "rok": 2019,
+   "elementy": 29,
+   "status": "eol"
+  },
+  {
+   "numer": "10894",
+   "nazwa": "Pociąg z Toy Story",
+   "rok": 2019,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "10895",
+   "nazwa": "Goście z planety u Emmeta i Lucy",
+   "rok": 2019,
+   "elementy": 53,
+   "status": "eol"
+  },
+  {
+   "numer": "10897",
+   "nazwa": "Moja pierwsza Myszka Minnie",
+   "rok": 2019,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "10898",
+   "nazwa": "Moja pierwsza Myszka Miki",
+   "rok": 2019,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "10899",
+   "nazwa": "Zamek z Krainy lodu",
+   "rok": 2019,
+   "elementy": 59,
+   "status": "eol"
+  },
+  {
+   "numer": "10900",
+   "nazwa": "Motocykl policyjny",
+   "rok": 2019,
+   "elementy": 8,
+   "status": "eol"
+  },
+  {
+   "numer": "10901",
+   "nazwa": "Wóz strażacki",
+   "rok": 2019,
+   "elementy": 21,
+   "status": "eol"
+  },
+  {
+   "numer": "10902",
+   "nazwa": "Posterunek policji",
+   "rok": 2019,
+   "elementy": 38,
+   "status": "eol"
+  },
+  {
+   "numer": "10903",
+   "nazwa": "Remiza strażacka",
+   "rok": 2019,
+   "elementy": 76,
+   "status": "eol"
+  },
+  {
+   "numer": "10904",
+   "nazwa": "Małe Zwierzątka",
+   "rok": 2019,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
+   "numer": "10906",
+   "nazwa": "Tropikalna wyspa",
+   "rok": 2019,
+   "elementy": 73,
+   "status": "eol"
+  },
+  {
+   "numer": "10907",
+   "nazwa": "Zwierzęta świata",
+   "rok": 2019,
+   "elementy": 121,
+   "status": "eol"
+  },
+  {
+   "numer": "10908",
+   "nazwa": "Samolot",
+   "rok": 2019,
+   "elementy": 12,
+   "status": "eol"
+  },
+  {
+   "numer": "10910",
+   "nazwa": "Przygoda w łodzi podwodnej",
+   "rok": 2019,
+   "elementy": 24,
+   "status": "eol"
+  },
+  {
+   "numer": "30327",
+   "nazwa": "Moja pierwsza kaczuszka",
+   "rok": 2019,
+   "elementy": 6,
+   "status": "dostepny"
+  },
+  {
+   "numer": "30328",
+   "nazwa": "Miejscy ratownicy",
+   "rok": 2019,
+   "status": "eol"
+  },
+  {
+   "numer": "10909",
+   "nazwa": "Pudełko z serduszkiem",
+   "rok": 2020,
+   "elementy": 80,
+   "status": "eol"
+  },
+  {
+   "numer": "10913",
+   "nazwa": "Pudełko z klockami",
+   "rok": 2020,
+   "elementy": 65,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10914",
+   "nazwa": "Pudełko z klockami Deluxe",
+   "rok": 2020,
+   "elementy": 85,
+   "status": "dostepny"
+  },
+  {
+   "numer": "10915",
+   "nazwa": "Ciężarówka z alfabetem",
+   "rok": 2020,
+   "elementy": 36,
+   "status": "eol"
+  },
+  {
+   "numer": "10917",
+   "nazwa": "Wóz strażacki",
+   "rok": 2020,
+   "elementy": 6,
+   "status": "eol"
+  },
+  {
+   "numer": "10918",
+   "nazwa": "Pomoc drogowa",
+   "rok": 2020,
+   "elementy": 7,
+   "status": "eol"
+  },
+  {
+   "numer": "10919",
+   "nazwa": "Jaskinia Batmana",
+   "rok": 2020,
+   "elementy": 33,
+   "status": "eol"
+  },
+  {
+   "numer": "10920",
+   "nazwa": "Popołudniowa herbatka u Elsy i Olafa",
+   "rok": 2020,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "10921",
+   "nazwa": "Super Heroes Laboratorium superbohaterów",
+   "rok": 2020,
+   "elementy": 30,
+   "status": "eol"
+  },
+  {
+   "numer": "10922",
+   "nazwa": "Podwodny zamek Arielki",
+   "rok": 2020,
+   "elementy": 35,
+   "status": "eol"
+  },
+  {
+   "numer": "10924",
+   "nazwa": "Zygzak McQueen na wyścigach",
+   "rok": 2020,
+   "elementy": 42,
+   "status": "eol"
+  },
+  {
+   "numer": "10925",
+   "nazwa": "Pokój zabaw",
+   "rok": 2020,
+   "elementy": 17,
+   "status": "eol"
+  },
+  {
+   "numer": "10926",
+   "nazwa": "Sypialnia",
+   "rok": 2020,
+   "elementy": 16,
+   "status": "eol"
+  },
+  {
+   "numer": "10927",
+   "nazwa": "Stoisko z pizzą",
+   "rok": 2020,
+   "elementy": 18,
+   "status": "eol"
+  },
+  {
+   "numer": "10928",
+   "nazwa": "Piekarnia",
+   "rok": 2020,
+   "elementy": 46,
+   "status": "eol"
+  },
+  {
+   "numer": "10929",
+   "nazwa": "Wielofunkcyjny domek",
+   "rok": 2020,
+   "elementy": 129,
+   "status": "eol"
+  },
+  {
+   "numer": "10930",
+   "nazwa": "Buldożer",
+   "rok": 2020,
+   "elementy": 10,
+   "status": "eol"
+  },
+  {
+   "numer": "10931",
+   "nazwa": "Ciężarówka i koparka gąsienicowa",
+   "rok": 2020,
+   "elementy": 20,
+   "status": "eol"
+  },
+  {
+   "numer": "10932",
+   "nazwa": "Rozbiórka kulą wyburzeniową",
+   "rok": 2020,
+   "elementy": 56,
+   "status": "eol"
+  },
+  {
+   "numer": "10933",
+   "nazwa": "Żuraw wieżowy i budowa",
+   "rok": 2020,
+   "elementy": 123,
+   "status": "eol"
+  },
+  {
+   "numer": "10934",
+   "nazwa": "Kreatywne zwierzątka",
+   "rok": 2020,
+   "elementy": 175,
+   "status": "eol"
+  },
+  {
+   "numer": "30329",
+   "nazwa": "Moja pierwsza żyrafa",
+   "rok": 2020,
+   "elementy": 5,
+   "status": "eol"
+  },
+  {
+   "numer": "30330",
+   "nazwa": "Tort urodzinowy",
+   "rok": 2020,
+   "elementy": 9,
+   "status": "eol"
+  },
+  {
    "numer": "10939",
    "nazwa": "Ucieczka tyranozaura i triceratopsa",
    "rok": 2021,
