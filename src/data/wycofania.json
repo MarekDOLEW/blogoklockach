@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "aktualizacja": "2026-08-12",
+  "aktualizacja": "2026-08-15",
   "zrodla": [
    "lego.com (dzial Ostatnie sztuki)",
    "brickset.com",
@@ -1277,6 +1277,15 @@
    "status": "potwierdzone",
    "uwagi": "Tani mech dla sześciolatka zniknie z półek wraz z końcem roku, więc jako drobny upominek sprawdzi się właśnie teraz.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_40735_1024_1024/76307_Box1_v29.jpg?overlay=1"
+  },
+  {
+   "numer": "76308",
+   "nazwa": "Mech Spider-Mana kontra Anti-Venom",
+   "seria": "Marvel",
+   "elementy": 107,
+   "kiedy": "grudzień 2026",
+   "status": "przewidywane",
+   "uwagi": "Niedrogi mech z dwiema minifigurkami to częsty pierwszy zakup młodych fanów Marvela, a sierpniowe prognozy wskazują, że zniknie z półek razem z całą falą zestawów pod koniec roku."
   },
   {
    "numer": "76309",

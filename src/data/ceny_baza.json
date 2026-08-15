@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-08-14",
-  "zrodlo_ostatniego_przebiegu": "feed mediaexpert (updated 2026-08-14 00:30 CEST) + feed planetaklockow, zweryfikowane na 9 stronach produktowych"
+  "zaktualizowano": "2026-08-15",
+  "zrodlo_ostatniego_przebiegu": "feed mediaexpert (updated 2026-08-14 18:30 CEST) + feed planetaklockow, 21 cen PK zweryfikowanych na stronach produktowych"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -394,8 +394,8 @@
  "43029": {
   "nazwa": "Księżyc z koncertu Olivii Rodrigo",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 203.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 189.71,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "planetaklockow"
  },
  "75451": {
@@ -450,8 +450,8 @@
  "42233": {
   "nazwa": "Potężne maszyny",
   "cena_katalogowa": 20.99,
-  "najnizsza_cena": 19.49,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 18.13,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "planetaklockow"
  },
  "43028": {
@@ -730,8 +730,8 @@
  "60480": {
   "nazwa": "Żółta koparko-ładowarka",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 99.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 89.49,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "76462": {
@@ -1017,8 +1017,8 @@
  "21597": {
   "nazwa": "Stacja Ghasta",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 299.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 292.99,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "10469": {
@@ -1038,8 +1038,8 @@
  "31391": {
   "nazwa": "Modna torebka ze schowkiem",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 85.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 84.9,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "42241": {
@@ -1353,9 +1353,9 @@
  "76350": {
   "nazwa": "Epickie starcie: Spider-Man kontra Hulk",
   "cena_katalogowa": 379.99,
-  "najnizsza_cena": 369.99,
-  "najnizsza_data": "2026-08-13",
-  "najnizsza_sklep": "planetaklockow"
+  "najnizsza_cena": 279.0,
+  "najnizsza_data": "2026-08-15",
+  "najnizsza_sklep": "mediaexpert"
  },
  "76347": {
   "nazwa": "Avengers: Doomsday Quinjet",
@@ -1437,8 +1437,8 @@
  "72162": {
   "nazwa": "SMART Play: Eevee i Lapras — poszukiwanie skarbów",
   "cena_katalogowa": 249.99,
-  "najnizsza_cena": 229.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 229.0,
+  "najnizsza_data": "2026-08-15",
   "najnizsza_sklep": "mediaexpert"
  },
  "72163": {
