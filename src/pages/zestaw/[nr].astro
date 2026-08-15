@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
 import sety from '../../data/sety.json';
+import { zdjecieSetu } from '../../lib/media.js';
 
 export function getStaticPaths() {
   return Object.keys(sety).map((nr) => ({ params: { nr } }));
@@ -13,6 +14,8 @@ const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' z
 const zaKlocek = (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepsza = Math.min(...s.oferty.map((o) => o.cena));
 const zdj = s.zdjecia ?? null;
+// zdjęcie z fallbackiem: sety.json -> zdjecia.json (mapa zbiorcza)
+const foto = zdjecieSetu(nr, { sety });
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -21,7 +24,7 @@ const jsonld = {
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
   description: s.opis,
-  ...(zdj?.glowne ? { image: new URL(zdj.glowne, Astro.site).href } : {}),
+  ...(foto?.url ? { image: new URL(foto.url, Astro.site).href } : {}),
   offers: {
     '@type': 'AggregateOffer',
     priceCurrency: 'PLN',
@@ -40,8 +43,8 @@ const jsonld = {
   <article>
     <div class="set-hero">
       <div>
-        {zdj?.glowne ? (
-          <img class="foto-glowna" src={zdj.glowne} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
+        {foto?.url ? (
+          <img class="foto-glowna" src={foto.url} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
         ) : (
           <div class="foto-placeholder">
             <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
@@ -49,7 +52,7 @@ const jsonld = {
             <span>zdjęcie wkrótce</span>
           </div>
         )}
-        {zdj?.zrodlo && <p class="zrodlo-foto">Fot.: {zdj.zrodlo}</p>}
+        {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>
       <div>
         <p style="margin-top:0"><span class="badge-seria">{s.seria}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}</p>
