@@ -40,6 +40,21 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         </nav>
       </div>
     </header>
+    <script is:inline>
+      // Rzeczywista wysokość przyklejonego menu trafia do --h-naglowek, żeby paski
+      // filtrów mogły się przykleić dokładnie pod nim (nawigacja zawija się na wąskich
+      // ekranach, więc stała wartość by nie wystarczyła).
+      (function () {
+        var naglowek = document.querySelector('.site-header');
+        if (!naglowek) return;
+        var ustaw = function () {
+          document.documentElement.style.setProperty('--h-naglowek', naglowek.offsetHeight + 'px');
+        };
+        ustaw();
+        addEventListener('resize', ustaw, { passive: true });
+        if (window.ResizeObserver) new ResizeObserver(ustaw).observe(naglowek);
+      })();
+    </script>
 
     <main class="wrap">
       <slot />

@@ -1,0 +1,101 @@
+---
+// Jedna tabela zestawów dla całego serwisu (katalog serii, wycofania, listy tematyczne).
+//
+// Układ od lewej: zdjęcie · numer · opis · status · najniższa cena z linkiem afiliacyjnym.
+// Pod opisem wiersz meta: seria · rok produkcji · liczba elementów.
+// Wariant `pokazKiedy` dokłada nad ceną informację, kiedy zestaw znika ze sprzedaży.
+//
+// Wiersze przygotowuje strona — komponent niczego nie liczy, tylko rysuje.
+// Kształt wiersza:
+//   { numer, nazwa, opis, seria, rok, elementy, zdjecie, hub,
+//     status: 'sprzedaz' | 'eol' | 'potwierdzone' | 'przewidywane',
+//     kiedy, oferta: { sklep, cena } | null, link }
+
+import { fmtCena, fmtElementy, nazwaSklepu } from '../lib/oferty.js';
+
+const { wiersze = [], pokazKiedy = false, naglowekCeny = 'Najniższa cena' } = Astro.props;
+
+const BADGE = {
+  sprzedaz: { klasa: 'badge-status badge-status--sprzedaz', tekst: 'w sprzedaży' },
+  eol: { klasa: 'badge-status badge-status--eol', tekst: 'wycofany (EOL)' },
+  potwierdzone: { klasa: 'badge-status badge-status--pewny', tekst: 'potwierdzone' },
+  przewidywane: { klasa: 'badge-status badge-status--prognoza', tekst: 'przewidywane' },
+};
+
+const meta = (w) =>
+  [w.seria, w.rok, w.elementy ? `${fmtElementy(w.elementy)} el.` : null].filter(Boolean).join(' · ');
+---
+
+<div class="tabela-setow-wrap">
+  <table class="tabela-setow">
+    <thead>
+      <tr>
+        <th class="kol-foto"><span class="tylko-czytnik">Zdjęcie</span></th>
+        <th class="kol-nr">Nr</th>
+        <th class="kol-opis">Zestaw</th>
+        <th class="kol-status">Status</th>
+        <th class="kol-cena">{naglowekCeny}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {wiersze.map((w) => {
+        const badge = BADGE[w.status] ?? BADGE.sprzedaz;
+        return (
+          <tr
+            id={`set-${w.numer}`}
+            data-wiersz
+            data-numer={w.numer}
+            data-nazwa={w.nazwa}
+            data-seria={w.seria}
+          >
+            <td class="kol-foto">
+              {w.zdjecie ? (
+                <span class="set-mini">
+                  <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
+                </span>
+              ) : (
+                <span class="set-mini-placeholder" aria-hidden="true">
+                  <span class="studs studs--granat"><i /><i /><i /><i /></span>
+                </span>
+              )}
+            </td>
+
+            <td class="kol-nr"><span class="set-nr">{w.numer}</span></td>
+
+            <td class="kol-opis">
+              <span class="set-nazwa">
+                {w.hub ? <a href={`/zestaw/${w.numer}/`}>{w.nazwa}</a> : w.nazwa}
+              </span>
+              {w.opis && <span class="set-opis">{w.opis}</span>}
+              <span class="set-meta">{meta(w)}</span>
+            </td>
+
+            <td class="kol-status"><span class={badge.klasa}>{badge.tekst}</span></td>
+
+            <td class="kol-cena">
+              {pokazKiedy && w.kiedy && (
+                <span class={`set-kiedy${w.kiedy === 'wycofany' ? ' set-kiedy--juz' : ''}`}>
+                  {w.kiedy === 'wycofany' ? 'już wycofany' : `znika: ${w.kiedy}`}
+                </span>
+              )}
+              {w.oferta ? (
+                <>
+                  {w.link ? (
+                    <a class="set-cena" href={w.link} rel="sponsored nofollow">{fmtCena(w.oferta.cena)}</a>
+                  ) : (
+                    <span class="set-cena set-cena--bez-linku">{fmtCena(w.oferta.cena)}</span>
+                  )}
+                  {w.oferta.sklep && <span class="set-sklep">{nazwaSklepu(w.oferta.sklep)}</span>}
+                </>
+              ) : w.link ? (
+                <a class="set-sprawdz" href={w.link} rel="sponsored nofollow">Sprawdź cenę →</a>
+              ) : (
+                <span class="set-brak-ceny">brak w sprzedaży</span>
+              )}
+            </td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</div>

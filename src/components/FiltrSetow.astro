@@ -1,0 +1,256 @@
+---
+// Pasek wyszukiwania zestawów po numerze i nazwie — wspólny dla wycofań i stron serii.
+//
+// Przykleja się pod menu (position: sticky + --h-naglowek z Base.astro), więc zostaje
+// widoczny przy przewijaniu długich list.
+//
+// Działa na dowolnych elementach oznaczonych w HTML:
+//   [data-wiersz]            — filtrowana pozycja (wiersz tabeli albo karta);
+//                              wymaga data-numer, data-nazwa, opcjonalnie data-seria
+//   [data-wiersz][data-licz="0"] — filtrowana, ale pomijana w liczniku i podpowiedziach
+//                              (np. karty „śledzone zestawy", które dublują wiersz tabeli)
+//   [data-grupa]             — sekcja chowana, gdy nie została w niej żadna pozycja;
+//                              data-grupa="Icons" wiąże sekcję z serią z listy wyboru
+//   [data-pusto]             — komunikat pokazywany, gdy grupa jest widoczna, ale pusta
+//
+// Pełna lista jest w HTML (SEO) — skrypt wyłącznie ukrywa pozycje.
+
+const {
+  serie = null,
+  liczbaWSerii = null,
+  etykieta = 'Szukaj zestawu',
+  placeholder = 'numer lub nazwa, np. 10334 albo Sokół…',
+  rzeczownik = 'zestawów',
+} = Astro.props;
+---
+
+<div class="pasek-filtr karta" role="search" aria-label="Wyszukiwanie zestawów" data-rzeczownik={rzeczownik}>
+  {serie && (
+    <div class="pf-pole">
+      <label for="pf-seria">Seria</label>
+      <select id="pf-seria">
+        <option value="">Wszystkie serie</option>
+        {serie.map((s) => (
+          <option value={s}>{liczbaWSerii ? `${s} (${liczbaWSerii(s)})` : s}</option>
+        ))}
+      </select>
+    </div>
+  )}
+
+  <div class="pf-pole pf-szukaj">
+    <label for="pf-szukaj">{etykieta}</label>
+    <div class="pf-autocomplete">
+      <input
+        id="pf-szukaj"
+        type="search"
+        placeholder={placeholder}
+        autocomplete="off"
+        role="combobox"
+        aria-expanded="false"
+        aria-controls="pf-podpowiedzi"
+        aria-autocomplete="list"
+      />
+      <ul id="pf-podpowiedzi" role="listbox" hidden></ul>
+    </div>
+  </div>
+
+  <div class="pf-pole pf-reset">
+    <button type="button" id="pf-wyczysc" hidden>Wyczyść ✕</button>
+    <span id="pf-licznik" aria-live="polite"></span>
+  </div>
+</div>
+
+<script>
+  const MIN_ZNAKOW = 2; // od ilu znaków pokazujemy podpowiedzi
+  const MAX_PODPOWIEDZI = 8;
+
+  const $pasek = document.querySelector('.pasek-filtr');
+  const $szukaj = document.getElementById('pf-szukaj');
+  if ($pasek && $szukaj) {
+    const $seria = document.getElementById('pf-seria'); // opcjonalny
+    const $lista = document.getElementById('pf-podpowiedzi');
+    const $wyczysc = document.getElementById('pf-wyczysc');
+    const $licznik = document.getElementById('pf-licznik');
+    const RZECZOWNIK = $pasek.dataset.rzeczownik || 'zestawów';
+
+    const grupy = [...document.querySelectorAll('[data-grupa]')];
+    const wiersze = [...document.querySelectorAll('[data-wiersz]')];
+
+    // bez polskich znaków i wielkości liter; długość znaków zachowana, żeby
+    // pozycje dopasowania zgadzały się 1:1 z oryginalną nazwą przy podświetlaniu
+    const norm = (s) =>
+      String(s || '')
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/ł/g, 'l');
+
+    const indeks = wiersze.map((el) => ({
+      el,
+      liczony: el.dataset.licz !== '0',
+      numer: el.dataset.numer || '',
+      nazwa: el.dataset.nazwa || '',
+      seria: el.dataset.seria || '',
+      n: norm(el.dataset.nazwa),
+    }));
+    // podpowiedzi biorą tylko pozycje „liczone" (bez kart dublujących wiersz tabeli),
+    // licznik liczy unikalne numery zestawów — karta i wiersz tego samego setu to jeden zestaw
+    const liczone = indeks.filter((w) => w.liczony);
+    const RAZEM = new Set(indeks.map((w) => w.numer)).size;
+
+    let aktywna = -1; // podświetlona podpowiedź (nawigacja klawiaturą)
+
+    const pasuje = (w, s, q) =>
+      (!s || w.seria === s) && (!q || w.numer.startsWith(q) || w.n.includes(q));
+
+    function zastosujFiltr() {
+      const s = $seria ? $seria.value : '';
+      const surowe = $szukaj.value.trim();
+      const q = norm(surowe);
+      const widocznePozycje = new Set();
+
+      for (const w of indeks) {
+        const pokaz = pasuje(w, s, q);
+        w.el.hidden = !pokaz;
+        if (pokaz) widocznePozycje.add(w.numer);
+      }
+      const widoczne = widocznePozycje.size;
+
+      for (const grupa of grupy) {
+        const maWidoczne = [...grupa.querySelectorAll('[data-wiersz]')].some((r) => !r.hidden);
+        const seriaGrupy = grupa.dataset.grupa;
+        // sekcja przypisana do innej serii znika od razu; reszta tylko wtedy,
+        // gdy filtr jest aktywny i nic w niej nie zostało
+        grupa.hidden = Boolean(s && seriaGrupy && seriaGrupy !== s) || (!maWidoczne && !!(s || q));
+        const pusto = grupa.querySelector('[data-pusto]');
+        if (pusto) pusto.hidden = grupa.hidden || maWidoczne;
+      }
+
+      const filtrAktywny = Boolean(s || surowe);
+      $wyczysc.hidden = !filtrAktywny;
+      $licznik.textContent = filtrAktywny ? `Pokazano ${widoczne} z ${RAZEM} ${RZECZOWNIK}` : '';
+
+      // stan w adresie — łatwo podlinkować np. /wycofania/?seria=Icons&q=sokol
+      const url = new URL(location.href);
+      if (s) url.searchParams.set('seria', s);
+      else url.searchParams.delete('seria');
+      if (surowe) url.searchParams.set('q', surowe);
+      else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+    }
+
+    // ── podpowiedzi ──
+    function trafienia() {
+      const q = norm($szukaj.value.trim());
+      const s = $seria ? $seria.value : '';
+      return liczone.filter((w) => pasuje(w, s, q));
+    }
+
+    function pokazPodpowiedzi() {
+      const q = norm($szukaj.value.trim());
+      if (q.length < MIN_ZNAKOW) return schowajPodpowiedzi();
+
+      const wyniki = trafienia().slice(0, MAX_PODPOWIEDZI);
+      if (!wyniki.length) return schowajPodpowiedzi();
+
+      $lista.innerHTML = '';
+      wyniki.forEach((w, i) => {
+        const li = document.createElement('li');
+        li.setAttribute('role', 'option');
+        li.id = `pf-opt-${i}`;
+
+        const nrHTML = w.numer.startsWith(q)
+          ? `<mark>${w.numer.slice(0, q.length)}</mark>${w.numer.slice(q.length)}`
+          : w.numer;
+
+        const idx = w.n.indexOf(q);
+        const nazwaHTML =
+          !w.numer.startsWith(q) && idx >= 0
+            ? w.nazwa.slice(0, idx) +
+              '<mark>' +
+              w.nazwa.slice(idx, idx + q.length) +
+              '</mark>' +
+              w.nazwa.slice(idx + q.length)
+            : w.nazwa;
+
+        li.innerHTML =
+          `<span class="p-nr">${nrHTML}</span><span class="p-nazwa">${nazwaHTML}</span>` +
+          (w.seria ? `<span class="p-seria">${w.seria}</span>` : '');
+        li.addEventListener('mousedown', (e) => {
+          e.preventDefault();
+          wybierz(w);
+        });
+        $lista.appendChild(li);
+      });
+
+      aktywna = -1;
+      $lista.hidden = false;
+      $szukaj.setAttribute('aria-expanded', 'true');
+    }
+
+    function schowajPodpowiedzi() {
+      $lista.hidden = true;
+      $lista.innerHTML = '';
+      aktywna = -1;
+      $szukaj.setAttribute('aria-expanded', 'false');
+      $szukaj.removeAttribute('aria-activedescendant');
+    }
+
+    function wybierz(w) {
+      schowajPodpowiedzi();
+      $szukaj.value = w.numer; // zawęź listę do wybranego zestawu
+      zastosujFiltr();
+      w.el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      w.el.classList.add('set-trafienie');
+      setTimeout(() => w.el.classList.remove('set-trafienie'), 2500);
+    }
+
+    // ── zdarzenia ──
+    $szukaj.addEventListener('input', () => {
+      zastosujFiltr();
+      pokazPodpowiedzi();
+    });
+    $szukaj.addEventListener('blur', () => setTimeout(schowajPodpowiedzi, 120));
+    if ($seria)
+      $seria.addEventListener('change', () => {
+        zastosujFiltr();
+        schowajPodpowiedzi();
+      });
+    $wyczysc.addEventListener('click', () => {
+      if ($seria) $seria.value = '';
+      $szukaj.value = '';
+      zastosujFiltr();
+      schowajPodpowiedzi();
+      $szukaj.focus();
+    });
+
+    $szukaj.addEventListener('keydown', (e) => {
+      const opcje = [...$lista.querySelectorAll('li')];
+      if ($lista.hidden || !opcje.length) return;
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        aktywna =
+          e.key === 'ArrowDown'
+            ? (aktywna + 1) % opcje.length
+            : (aktywna - 1 + opcje.length) % opcje.length;
+        opcje.forEach((o, i) => o.setAttribute('aria-selected', i === aktywna ? 'true' : 'false'));
+        opcje[aktywna].scrollIntoView({ block: 'nearest' });
+        $szukaj.setAttribute('aria-activedescendant', opcje[aktywna].id);
+      } else if (e.key === 'Enter' && aktywna >= 0) {
+        e.preventDefault();
+        const w = trafienia()[aktywna];
+        if (w) wybierz(w);
+      } else if (e.key === 'Escape') {
+        schowajPodpowiedzi();
+      }
+    });
+
+    // ── stan startowy z adresu (?seria=Icons&q=sokol) ──
+    const params = new URLSearchParams(location.search);
+    const pSeria = params.get('seria');
+    const pQ = params.get('q');
+    if (pSeria && $seria && [...$seria.options].some((o) => o.value === pSeria)) $seria.value = pSeria;
+    if (pQ) $szukaj.value = pQ;
+    if ((pSeria && $seria) || pQ) zastosujFiltr();
+  }
+</script>

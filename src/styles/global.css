@@ -21,11 +21,14 @@
 
   --max-w: 1080px;
   --radius: 10px;
+  /* wysokość przyklejonego menu — nadpisywana skryptem w Base.astro */
+  --h-naglowek: 62px;
   --shadow: 0 1px 2px rgba(23, 35, 63, 0.06), 0 4px 16px rgba(23, 35, 63, 0.06);
 }
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
+.tylko-czytnik { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 html { scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
@@ -150,22 +153,118 @@ a { color: inherit; }
 .set-karta .miniatura { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; border-radius: 8px; border: 1px solid var(--linia); }
 .zrodlo-foto { font-size: 0.75rem; color: var(--granat-60); margin-top: 4px; }
 
-/* ---------- Wycofania (EOL) — miniaturki z powiększeniem ---------- */
-.eol-lista { display: flex; flex-direction: column; gap: 12px; }
-.eol-wiersz { display: grid; grid-template-columns: 96px 1fr auto; gap: 16px; align-items: center; padding: 14px 16px; }
-@media (max-width: 700px) { .eol-wiersz { grid-template-columns: 72px 1fr; } .eol-akcja { grid-column: 1 / -1; flex-direction: row; align-items: center; justify-content: space-between; } }
-.eol-mini { position: relative; width: 96px; height: 96px; }
-.eol-mini img { width: 96px; height: 96px; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
-.eol-mini img:hover { transform: scale(2.6); box-shadow: 0 10px 40px rgba(23,35,63,0.35); position: relative; z-index: 30; }
-.eol-mini-placeholder { width: 96px; height: 96px; display: flex; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
-.eol-info .nr { font-size: 0.78rem; color: var(--granat-60); font-weight: 700; }
-.eol-info h3 { margin: 2px 0 4px; }
-.eol-uwagi { margin: 0 0 6px; font-size: 0.9rem; color: var(--granat-60); }
-.eol-akcja { display: flex; flex-direction: column; gap: 8px; align-items: flex-end; text-align: right; }
-.eol-badge { font-size: 0.85rem; padding: 4px 12px 4px 8px; }
-.eol-status { font-size: 0.75rem; color: var(--granat-60); }
-.eol-akcja .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.85rem; padding: 8px 14px; border-radius: 6px; }
-.eol-akcja .cta:hover { background: #0f1830; }
+/* ============================================
+   Wspólna lista zestawów: pasek filtrów + tabela
+   Używane przez /wycofania/ i /serie/[seria]/ — jeden układ, jedne style.
+   ============================================ */
+
+/* ---------- Pasek filtrów przyklejony pod menu ---------- */
+.pasek-filtr, .now-filtr { position: sticky; top: calc(var(--h-naglowek) + 10px); z-index: 40; }
+.pasek-filtr { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: flex-end; padding: 14px 18px; margin: 18px 0 12px; }
+/* zasłania szczelinę między menu a paskiem, żeby lista nie przewijała się w niej widocznie */
+.pasek-filtr::before { content: ""; position: absolute; left: -14px; right: -14px; top: -12px; height: 12px; background: var(--papier); }
+.pf-pole { display: flex; flex-direction: column; gap: 4px; }
+.pf-pole label { font-size: 0.8rem; font-weight: 600; color: var(--granat-60); }
+.pasek-filtr select,
+.pasek-filtr input[type="search"] { font: inherit; padding: 9px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: #fff; color: var(--granat); min-width: 190px; }
+.pasek-filtr input[type="search"]:focus { border-color: var(--granat-60); }
+.pf-szukaj { flex: 1 1 260px; }
+.pf-szukaj input { width: 100%; }
+.pf-reset { flex-direction: row; align-items: center; gap: 10px; }
+#pf-wyczysc { font: inherit; font-size: 0.85rem; padding: 8px 12px; border: 1.5px solid var(--linia); border-radius: 8px; background: #fff; cursor: pointer; }
+#pf-wyczysc:hover { background: var(--papier); }
+#pf-licznik { font-size: 0.85rem; color: var(--granat-60); white-space: nowrap; }
+
+.pf-autocomplete { position: relative; }
+#pf-podpowiedzi { position: absolute; top: calc(100% + 4px); left: 0; right: 0; margin: 0; padding: 4px; list-style: none; background: #fff; border: 1.5px solid var(--linia); border-radius: 10px; box-shadow: 0 8px 24px rgba(23,35,63,0.16); max-height: 320px; overflow-y: auto; z-index: 60; }
+#pf-podpowiedzi li { padding: 8px 10px; border-radius: 7px; cursor: pointer; display: flex; gap: 8px; align-items: baseline; font-size: 0.92rem; }
+#pf-podpowiedzi .p-nr { font-weight: 700; font-variant-numeric: tabular-nums; }
+#pf-podpowiedzi .p-seria { margin-left: auto; font-size: 0.78rem; color: var(--granat-60); }
+#pf-podpowiedzi li:hover,
+#pf-podpowiedzi li[aria-selected="true"] { background: #fff8e1; }
+#pf-podpowiedzi mark { background: var(--zolty); padding: 0 1px; border-radius: 2px; }
+
+/* ---------- Tabela zestawów ---------- */
+.tabela-setow-wrap { background: var(--karta); border: 1px solid var(--linia); border-radius: var(--radius); box-shadow: var(--shadow); padding: 2px 18px 8px; }
+.tabela-setow { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.tabela-setow th, .tabela-setow td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--linia); vertical-align: top; }
+.tabela-setow thead th { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--granat-60); white-space: nowrap; border-bottom: 2px solid var(--linia); }
+.tabela-setow tbody tr:last-child td { border-bottom: 0; }
+.tabela-setow tbody tr { scroll-margin-top: calc(var(--h-naglowek) + 96px); }
+.tabela-setow .kol-foto { width: 78px; padding-right: 4px; }
+.tabela-setow .kol-nr { width: 84px; }
+.tabela-setow .kol-status { width: 136px; }
+.tabela-setow .kol-cena { width: 152px; text-align: right; }
+
+.set-mini { display: block; width: 64px; height: 64px; overflow: hidden; }
+.set-mini img { width: 64px; height: 64px; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
+.set-mini img:hover { transform: scale(3); box-shadow: 0 10px 40px rgba(23,35,63,0.35); position: relative; z-index: 30; }
+.set-mini-placeholder { display: flex; width: 64px; height: 64px; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
+.set-mini-placeholder .studs i { width: 9px; height: 9px; }
+
+.set-nr { font-family: var(--font-display); font-weight: 700; font-variant-numeric: tabular-nums; }
+.set-nazwa { display: block; font-weight: 600; line-height: 1.35; }
+.set-nazwa a { text-decoration: none; border-bottom: 2px solid var(--zolty); }
+.set-nazwa a:hover { border-bottom-color: var(--granat); }
+.set-opis { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; line-clamp: 3; overflow: hidden; font-size: 0.82rem; line-height: 1.45; color: var(--granat-60); margin-top: 3px; max-width: 58ch; }
+.set-meta { display: block; font-size: 0.75rem; color: var(--granat-60); margin-top: 5px; }
+
+.badge-status { display: inline-block; font-weight: 700; font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; white-space: nowrap; }
+.badge-status--sprzedaz { background: rgba(22,138,76,0.12); color: var(--zielen); border: 1px solid rgba(22,138,76,0.30); }
+.badge-status--eol { background: var(--papier); color: var(--granat-60); border: 1px solid var(--linia); }
+.badge-status--pewny { background: rgba(224,49,47,0.10); color: var(--czerwien); border: 1px solid rgba(224,49,47,0.28); }
+.badge-status--prognoza { background: #fff8e1; color: #8a6100; border: 1px solid rgba(230,174,0,0.45); }
+
+.set-kiedy { display: block; font-size: 0.75rem; font-weight: 700; color: var(--czerwien); margin-bottom: 4px; }
+.set-kiedy--juz { color: var(--granat-60); }
+.set-cena { display: inline-block; font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; color: var(--granat); text-decoration: none; white-space: nowrap; }
+a.set-cena { border-bottom: 2px solid var(--zolty); }
+a.set-cena:hover { color: #0f1830; border-bottom-color: var(--granat); }
+.set-cena--bez-linku { color: var(--granat-60); }
+.set-sklep { display: block; font-size: 0.72rem; color: var(--granat-60); margin-top: 2px; }
+.set-sprawdz { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; font-size: 0.8rem; padding: 7px 12px; border-radius: 6px; white-space: nowrap; }
+.set-sprawdz:hover { background: #0f1830; }
+.set-brak-ceny { font-size: 0.8rem; color: var(--granat-60); }
+
+/* podświetlenie zestawu wybranego z podpowiedzi */
+.set-trafienie { outline: 3px solid var(--zolty); outline-offset: 2px; }
+tr.set-trafienie { outline: 0; }
+tr.set-trafienie td { background: #fff8e1; }
+tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
+.lista-pusta { font-size: 0.9rem; color: var(--granat-60); padding: 8px 2px; }
+
+/* ---------- Tabela zestawów na wąskim ekranie: wiersz staje się kartą ---------- */
+@media (max-width: 720px) {
+  /* na telefonie menu bywa wysokie — pasek filtrów musi być możliwie niski */
+  .pasek-filtr { padding: 10px 12px; gap: 8px 10px; margin: 12px 0 10px; }
+  .pasek-filtr .pf-pole > label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .pasek-filtr select, .pasek-filtr input[type="search"] { min-width: 0; width: 100%; padding: 9px 10px; }
+  .pf-pole { flex: 1 1 140px; }
+  .pf-szukaj { flex: 2 1 170px; }
+  .pf-reset { flex: 1 1 100%; justify-content: space-between; }
+
+  .tabela-setow-wrap { padding: 2px 12px 8px; }
+  .tabela-setow thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .tabela-setow, .tabela-setow tbody { display: block; }
+  .tabela-setow tr {
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    grid-template-areas: "foto nr" "foto status" "opis opis" "cena cena";
+    gap: 2px 12px;
+    padding: 14px 2px;
+    border-bottom: 1px solid var(--linia);
+  }
+  .tabela-setow td { display: block; width: auto; border: 0; padding: 0; }
+  .tabela-setow .kol-foto { grid-area: foto; }
+  .tabela-setow .kol-nr { grid-area: nr; }
+  .tabela-setow .kol-status { grid-area: status; align-self: start; }
+  .tabela-setow .kol-opis { grid-area: opis; margin-top: 10px; }
+  .tabela-setow .kol-cena { grid-area: cena; text-align: left; margin-top: 10px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+  .tabela-setow .kol-cena .set-kiedy { flex-basis: 100%; margin: 0; }
+  .set-mini img:hover { transform: none; box-shadow: none; }
+  tr.set-trafienie td:first-child { box-shadow: none; }
+  tr.set-trafienie { outline: 3px solid var(--zolty); outline-offset: -2px; }
+}
 
 /* ---------- Typografia: lżejszy krój wyświetleniowy (Archivo 700/800) ---------- */
 h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
@@ -174,7 +273,7 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 
 /* ---------- Nowości: większe karty, filtr serii, zdjęcia z powiększeniem ---------- */
 .siatka--nowosci { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 22px; }
-.now-filtr { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: flex-end; padding: 14px 18px; margin: 18px 0 6px; position: sticky; top: 8px; z-index: 20; }
+.now-filtr { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: flex-end; padding: 14px 18px; margin: 18px 0 6px; }
 .now-filtr label { font-size: 0.8rem; font-weight: 600; opacity: 0.75; display: block; margin-bottom: 4px; }
 .now-filtr select { font: inherit; padding: 8px 12px; border: 1.5px solid rgba(0,0,0,0.18); border-radius: 8px; background: #fff; min-width: 220px; }
 .now-licznik { font-size: 0.85rem; color: var(--granat-60); margin-left: auto; align-self: center; }
@@ -187,21 +286,3 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .lightbox img { max-width: min(92vw, 900px); max-height: 88vh; object-fit: contain; background: #fff; border-radius: 12px; box-shadow: 0 20px 80px rgba(0,0,0,0.5); }
 .lightbox .lb-podpis { position: absolute; bottom: 18px; left: 50%; transform: translateX(-50%); color: #fff; font-size: 0.9rem; background: rgba(0,0,0,0.45); padding: 6px 14px; border-radius: 999px; max-width: 90vw; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-/* ---------- Tabela katalogowa serii: miniatura + najniższa cena ---------- */
-.tabela-katalog .kol-foto { width: 76px; padding-right: 4px; }
-.tabela-katalog .kol-cena { text-align: right; white-space: nowrap; }
-.kat-mini { display: block; width: 64px; height: 64px; }
-.kat-mini img { width: 64px; height: 64px; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
-.kat-mini img:hover { transform: scale(3); box-shadow: 0 10px 40px rgba(23,35,63,0.35); position: relative; z-index: 30; }
-.kat-mini-placeholder { display: flex; width: 64px; height: 64px; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
-.kat-mini-placeholder .studs i { width: 9px; height: 9px; }
-.kat-wkrotce { display: block; font-size: 0.75rem; color: var(--granat-60); font-style: italic; margin-top: 2px; }
-.kat-opis { display: block; font-size: 0.78rem; line-height: 1.45; color: var(--granat-60); margin-top: 3px; max-width: 52ch; }
-a.kat-cena { font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
-a.kat-cena:hover { color: #0f1830; border-bottom-color: var(--granat); }
-.kat-cena--bez-linku { font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; color: var(--granat-60); }
-.kat-brak-ceny { font-size: 0.8rem; color: var(--granat-60); }
-@media (max-width: 760px) {
-  .tabela-katalog .kol-foto, .tabela-katalog thead th:nth-child(5) , .tabela-katalog tbody td:nth-child(5) { display: none; }
-  .tabela-katalog th, .tabela-katalog td { padding: 10px 8px; }
-}
