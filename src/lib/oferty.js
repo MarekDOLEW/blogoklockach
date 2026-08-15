@@ -11,6 +11,7 @@
 import redirectsMapa from '../data/redirects.json';
 import sklepyMapa from '../data/sklepy.json';
 import cenyBaza from '../data/ceny_baza.json';
+import { wpisKatalogu } from './katalog.js';
 
 /**
  * Oferty sklepowe z migawki feedów dla jednego setu.
@@ -35,10 +36,19 @@ export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   return kandydaci.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 }
 
-/** Oficjalna cena katalogowa LEGO albo null (sety.json ma pierwszeństwo). */
+/**
+ * Oficjalna cena katalogowa LEGO albo null.
+ * Kolejność źródeł: sety.json (redakcyjne) -> ceny_baza.json (Łowca)
+ * -> katalog.json (backfill historyczny, wypełniany partiami per seria).
+ */
 export function cenaKatalogowaSetu(nr, { sety = {} } = {}) {
   const klucz = String(nr);
-  return sety[klucz]?.cena_katalogowa ?? cenyBaza[klucz]?.cena_katalogowa ?? null;
+  return (
+    sety[klucz]?.cena_katalogowa ??
+    cenyBaza[klucz]?.cena_katalogowa ??
+    wpisKatalogu(klucz)?.cena_katalogowa ??
+    null
+  );
 }
 
 /** Ścieżka przekierowania afiliacyjnego albo null, gdy nie mamy linku do sklepu. */
