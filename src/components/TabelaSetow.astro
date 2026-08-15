@@ -50,9 +50,15 @@ const meta = (w) =>
           >
             <td class="kol-foto">
               {w.zdjecie ? (
-                <span class="set-mini">
-                  <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
-                </span>
+                w.hub ? (
+                  <a class="set-mini" href={`/zestaw/${w.numer}/`} tabindex="-1" aria-hidden="true">
+                    <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
+                  </a>
+                ) : (
+                  <span class="set-mini">
+                    <img src={w.zdjecie} alt={`LEGO ${w.numer} ${w.nazwa}`} loading="lazy" width="64" height="64" />
+                  </span>
+                )
               ) : (
                 <span class="set-mini-placeholder" aria-hidden="true">
                   <span class="studs studs--granat"><i /><i /><i /><i /></span>

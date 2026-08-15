@@ -1,7 +1,9 @@
 ---
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
-const { nr, oferty, cenaKatalogowa } = Astro.props;
+// cenaKatalogowa jest opcjonalna — lekkie huby (spoza sety.json) jej nie znają,
+// wtedy tabela nie pokazuje kolumny rabatu
+const { nr, oferty, cenaKatalogowa = null } = Astro.props;
 const posortowane = [...oferty].sort((a, b) => a.cena - b.cena);
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
@@ -22,7 +24,7 @@ const UWAGA_SKLEP = {
   <table class="tabela-cen">
     <caption>Porównanie cen — LEGO {nr}</caption>
     <thead>
-      <tr><th>Sklep</th><th>Cena</th><th>Rabat*</th><th></th></tr>
+      <tr><th>Sklep</th><th>Cena</th>{cenaKatalogowa && <th>Rabat*</th>}<th></th></tr>
     </thead>
     <tbody>
       {posortowane.map((o, i) => (
@@ -33,7 +35,7 @@ const UWAGA_SKLEP = {
             {UWAGA_SKLEP[o.sklep] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
           <td class="cena">{fmt(o.cena)}</td>
-          <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>
+          {cenaKatalogowa && <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>}
           <td>
             {maLink(o.sklep) ? (
               <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel="sponsored nofollow">Sprawdź w sklepie →</a>
@@ -50,11 +52,11 @@ const UWAGA_SKLEP = {
             {UWAGA_SKLEP[s] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[s]}</span>}
           </td>
           <td class="cena">—</td>
-          <td>—</td>
+          {cenaKatalogowa && <td>—</td>}
           <td><a class="cta" href={`/idz/${s}/${nr}`} rel="sponsored nofollow">Sprawdź cenę →</a></td>
         </tr>
       ))}
     </tbody>
   </table>
-  <p class="tabela-data">* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). Ceny sprawdzone: {dataSprawdzenia}. Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach — cena w sklepie może się różnić od podanej, zwykle na Twoją korzyść.</p>
+  <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach — cena w sklepie może się różnić od podanej, zwykle na Twoją korzyść.</p>
 </div>

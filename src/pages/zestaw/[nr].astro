@@ -2,50 +2,85 @@
 import Base from '../../layouts/Base.astro';
 import TabelaCen from '../../components/TabelaCen.astro';
 import sety from '../../data/sety.json';
-import { zdjecieSetu } from '../../lib/media.js';
+import ofertyFeed from '../../data/oferty_feed.json';
+import { zdjecieSetu, opisSetu } from '../../lib/media.js';
+import { wpisKatalogu } from '../../lib/katalog.js';
+import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
+import { fmtElementy, jakikolwiekLink } from '../../lib/oferty.js';
 
 export function getStaticPaths() {
-  return Object.keys(sety).map((nr) => ({ params: { nr } }));
+  return [...numeryHubow].map((nr) => ({ params: { nr } }));
 }
 
 const { nr } = Astro.params;
-const s = sety[nr];
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
-const zaKlocek = (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
-const najlepsza = Math.min(...s.oferty.map((o) => o.cena));
-const zdj = s.zdjecia ?? null;
-// zdjęcie z fallbackiem: sety.json -> zdjecia.json (mapa zbiorcza)
-const foto = zdjecieSetu(nr, { sety });
+
+// Pełny hub (sety.json, redakcyjne opisy) albo lekki — złożony z katalogu i feedów.
+const s = sety[nr] ?? null;
+const kat = wpisKatalogu(nr);
+const wycofanie = wycofanieSetu(nr);
+const feedOferta = ofertyFeed?.sety?.[nr] ?? null;
+
+const nazwa = s?.nazwa ?? kat?.nazwa ?? wycofanie?.nazwa;
+const seria = s?.seria ?? kat?.seria ?? wycofanie?.seria;
+const elementy = s?.elementy ?? kat?.elementy ?? wycofanie?.elementy ?? null;
+const rok = kat?.rok ?? null;
+const cenaKatalogowa = s?.cena_katalogowa ?? null;
+
+const oferty = s
+  ? s.oferty
+  : feedOferta?.cena
+    ? [{ sklep: feedOferta.sklep, cena: feedOferta.cena, data: feedOferta.data }]
+    : [];
+const najlepsza = oferty.length ? Math.min(...oferty.map((o) => o.cena)) : null;
+
+const zdj = s?.zdjecia ?? null;
+// zdjęcie z fallbackiem: sety.json -> feed -> zdjecia.json; wycofania mają czasem własne
+const foto =
+  zdjecieSetu(nr, { sety, feed: ofertyFeed?.sety ?? {} }) ??
+  (wycofanie?.zdjecie ? { url: wycofanie.zdjecie, zrodlo: null } : null);
+
+const opis = s?.opis ?? opisSetu(nr, { sety })?.tekst ?? null;
+
+// status sprzedaży dla lekkich hubów
+const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
 
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Product',
-  name: `LEGO ${nr} ${s.nazwa}`,
+  name: `LEGO ${nr} ${nazwa}`,
   sku: nr,
   brand: { '@type': 'Brand', name: 'LEGO' },
-  description: s.opis,
+  ...(opis ? { description: opis } : {}),
   ...(foto?.url ? { image: new URL(foto.url, Astro.site).href } : {}),
-  offers: {
-    '@type': 'AggregateOffer',
-    priceCurrency: 'PLN',
-    lowPrice: najlepsza,
-    highPrice: Math.max(...s.oferty.map((o) => o.cena)),
-    offerCount: s.oferty.length,
-    availability: 'https://schema.org/InStock',
-  },
+  ...(oferty.length
+    ? {
+        offers: {
+          '@type': 'AggregateOffer',
+          priceCurrency: 'PLN',
+          lowPrice: najlepsza,
+          highPrice: Math.max(...oferty.map((o) => o.cena)),
+          offerCount: oferty.length,
+          availability: 'https://schema.org/InStock',
+        },
+      }
+    : {}),
 };
+
+const tytul = najlepsza
+  ? `LEGO ${nr} ${nazwa} — cena, promocje, gdzie kupić najtaniej`
+  : `LEGO ${nr} ${nazwa} — informacje o zestawie${eol ? ' (wycofany)' : ''}`;
+const opisMeta = najlepsza
+  ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
+  : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
-<Base
-  title={`LEGO ${nr} ${s.nazwa} — cena, promocje, gdzie kupić najtaniej`}
-  description={`LEGO ${nr} ${s.nazwa}: ${s.elementy} elementów, cena katalogowa ${fmt(s.cena_katalogowa)}. Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`}
-  jsonld={jsonld}
->
+<Base title={tytul} description={opisMeta} jsonld={jsonld}>
   <article>
     <div class="set-hero">
       <div>
         {foto?.url ? (
           <figure class="foto-okno">
-            <img src={foto.url} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
+            <img src={foto.url} alt={`LEGO ${nr} ${nazwa} — zdjęcie zestawu`} width="800" height="800" />
           </figure>
         ) : (
           <div class="foto-placeholder">
@@ -57,16 +92,27 @@ const jsonld = {
         {foto?.zrodlo && <p class="zrodlo-foto">Fot.: {foto.zrodlo}</p>}
       </div>
       <div>
-        <p style="margin-top:0"><span class="badge-seria">{s.seria}</span> {s.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}</p>
-        <h1>LEGO {nr} {s.nazwa}</h1>
+        <p style="margin-top:0">
+          {seria && <span class="badge-seria">{seria}</span>}
+          {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
+          {eol && <span class="badge-seria">wycofany (EOL)</span>}
+        </p>
+        <h1>LEGO {nr} {nazwa}</h1>
         <div class="deal-meta" style="margin-bottom: 8px">
-          <span><strong>{s.elementy}</strong> elementów</span>
-          <span><strong>{zaKlocek} zł</strong> za klocek</span>
-          <span>wiek <strong>{s.wiek}</strong></span>
-          <span>premiera <strong>{s.premiera}</strong></span>
-          <span>cena katalogowa <strong>{fmt(s.cena_katalogowa)}</strong></span>
+          {elementy && <span><strong>{fmtElementy(elementy)}</strong> elementów</span>}
+          {s && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
+          {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
+          {s?.premiera ? <span>premiera <strong>{s.premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
+          {cenaKatalogowa && <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>}
         </div>
-        <p class="prose">{s.opis}</p>
+        {opis && <p class="prose">{opis}</p>}
+        {wycofanie && wycofanie.kiedy !== 'wycofany' && (
+          <p class="karta" style="padding:10px 14px; font-size:0.92rem;">
+            <strong>Zestaw na liście wycofań:</strong> znika {wycofanie.kiedy}
+            ({wycofanie.status === 'potwierdzone' ? 'potwierdzone przez LEGO' : 'przewidywane'}).
+            {' '}<a href={`/wycofania/?q=${nr}`}>Zobacz na liście wycofań →</a>
+          </p>
+        )}
       </div>
     </div>
 
@@ -76,25 +122,37 @@ const jsonld = {
         <div class="galeria">
           {zdj.galeria.map((g, i) => (
             <a href={g} target="_blank" rel="noopener">
-              <img src={g} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
+              <img src={g} alt={`LEGO ${nr} ${nazwa} — zdjęcie ${i + 2}`} loading="lazy" width="400" height="400" />
             </a>
           ))}
         </div>
       </section>
     )}
 
-    <TabelaCen nr={nr} oferty={s.oferty} cenaKatalogowa={s.cena_katalogowa} />
-    <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
+    {oferty.length > 0 || jakikolwiekLink(nr) ? (
+      <>
+        <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} />
+        <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
+      </>
+    ) : (
+      <p class="karta" style="padding: 14px 18px; margin: 18px 0;">Nie widzimy tego zestawu w żadnym ze śledzonych sklepów{eol ? ' — po wycofaniu z produkcji pozostaje rynek wtórny (Allegro, OLX)' : ''}. Gdy oferta się pojawi, cena będzie widoczna w tym miejscu.</p>
+    )}
 
-    <div class="persony">
-      <div class="karta persona">
-        <h3>👨‍👩‍👧 Dla rodzica</h3>
-        <p>{s.dla_rodzica}</p>
+    {s ? (
+      <div class="persony">
+        <div class="karta persona">
+          <h3>👨‍👩‍👧 Dla rodzica</h3>
+          <p>{s.dla_rodzica}</p>
+        </div>
+        <div class="karta persona afol">
+          <h3>🧱 Dla kolekcjonera</h3>
+          <p>{s.dla_afol}</p>
+        </div>
       </div>
-      <div class="karta persona afol">
-        <h3>🧱 Dla kolekcjonera</h3>
-        <p>{s.dla_afol}</p>
-      </div>
-    </div>
+    ) : (
+      seria && (
+        <p style="margin-top: 20px"><a href={`/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`}>← Wszystkie zestawy serii {seria}</a></p>
+      )
+    )}
   </article>
 </Base>

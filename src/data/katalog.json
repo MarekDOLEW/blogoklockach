@@ -26,7 +26,7 @@
       "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
-    "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Wyjatek: gratisy GWP i sety promocyjne (numery 6-7-cyfrowe oraz 40xxx/66xxx bez ofert w polskich sklepach) moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawka statusow rocznika 2026: 2026-08-15."
+    "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15."
   },
   "Ideas": [
     {
@@ -11538,7 +11538,7 @@
       "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
       "rok": 2026,
       "elementy": 661,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40858",
@@ -11566,14 +11566,14 @@
       "nazwa": "Figurki Sulley'ego, Mike'a i Boo",
       "rok": 2026,
       "elementy": 303,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40878",
       "nazwa": "Figurki Wojowniczych żółwi ninja",
       "rok": 2026,
       "elementy": 567,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40879",
@@ -11601,7 +11601,7 @@
       "nazwa": "Mistrz Rzucania Mięsem i Podniebna - figurki",
       "rok": 2026,
       "elementy": 288,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40919",
@@ -11615,7 +11615,7 @@
       "nazwa": "Lilo i Stitch: Andzia",
       "rok": 2026,
       "elementy": 133,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40923",
@@ -27733,21 +27733,21 @@
       "nazwa": "Rodzina kaczek",
       "rok": 2026,
       "elementy": 262,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40953",
       "nazwa": "Londyński autobus",
       "rok": 2026,
       "elementy": 245,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40954",
       "nazwa": "Pocztówka z Niemiec",
       "rok": 2026,
       "elementy": 240,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "66832",
@@ -48105,47 +48105,47 @@
       "numer": "40862",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40863",
       "nazwa": "Wielkanocny kosz z pisankami",
       "rok": 2026,
       "elementy": 216,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40864",
       "nazwa": "Mistrz Szczęścia",
       "rok": 2026,
       "elementy": 386,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40865",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40866",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40867",
       "nazwa": "Litery pełne miłości",
       "rok": 2026,
       "elementy": 345,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40871",
       "nazwa": "Pudełko prezentowe na każdą okazję",
       "rok": 2026,
       "elementy": 224,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40872",
@@ -48165,14 +48165,14 @@
       "numer": "40874",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40875",
       "nazwa": "{?}",
       "rok": 2026,
       "elementy": 904,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40883",
@@ -48186,42 +48186,42 @@
       "nazwa": "Zakochane pingwiny",
       "rok": 2026,
       "elementy": 278,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40890",
       "nazwa": "Wielkanocne dekoracje",
       "rok": 2026,
       "elementy": 312,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40905",
       "nazwa": "Urodzinowa babeczka",
       "rok": 2026,
       "elementy": 174,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40915",
       "nazwa": "Taniec lwa",
       "rok": 2026,
       "elementy": 480,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40920",
       "nazwa": "Królik Bugs",
       "rok": 2026,
       "elementy": 605,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40957",
       "nazwa": "Wiosenny wieniec",
       "rok": 2026,
       "elementy": 747,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40958",
@@ -49796,7 +49796,7 @@
       "numer": "40857",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "43280",
@@ -53111,7 +53111,7 @@
       "numer": "40895",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "77977",
@@ -53961,7 +53961,7 @@
       "nazwa": "Kwiatowa ramka na zdjęcia",
       "rok": 2026,
       "elementy": 310,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "6614216",

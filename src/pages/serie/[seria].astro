@@ -7,6 +7,7 @@ import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../../lib/media.js';
 import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink, fmtCena } from '../../lib/oferty.js';
+import { maHub } from '../../lib/huby.js';
 
 export function getStaticPaths() {
   const zSetow = [...new Set(Object.values(sety).map((s) => s.seria))];
@@ -21,7 +22,6 @@ export function getStaticPaths() {
 const { seria } = Astro.props;
 const wSerii = Object.entries(sety).filter(([, s]) => s.seria === seria).map(([nr, s]) => ({ nr, ...s }));
 const hist = (katalog[seria] ?? []).slice().sort((a, b) => b.rok - a.rok);
-const numeryHubow = new Set(Object.keys(sety));
 const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
 
 const feedSety = ofertyFeed?.sety ?? {};
@@ -40,7 +40,7 @@ const wiersze = hist.map((s) => {
     rok: s.rok,
     elementy: s.elementy,
     zdjecie: urlZdjecia(s.numer, { sety, feed: feedSety }),
-    hub: numeryHubow.has(s.numer),
+    hub: maHub(s.numer),
     status: s.status === 'eol' ? 'eol' : 'sprzedaz',
     oferta,
     link,

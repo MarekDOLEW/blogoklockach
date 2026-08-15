@@ -8,6 +8,7 @@ import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia } from '../lib/media.js';
 import { rokSetu } from '../lib/katalog.js';
 import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink } from '../lib/oferty.js';
+import { maHub } from '../lib/huby.js';
 
 const kolejnosc = dane._meta.serie_kolejnosc;
 const wpisy = dane.wycofania;
@@ -20,7 +21,6 @@ const juzWycofane = wpisy.filter((w) => w.kiedy === 'wycofany').length;
 const slug = (s) => s.toLowerCase().replace(/\s+/g, '-');
 
 const feedSety = ofertyFeed?.sety ?? {};
-const numeryHubow = new Set(Object.keys(sety));
 
 // Wiersze do wspólnej tabeli — ten sam kształt co w katalogu serii.
 const wiersz = (w) => {
@@ -36,7 +36,7 @@ const wiersz = (w) => {
     rok: rokSetu(w.numer),
     elementy: w.elementy,
     zdjecie: w.zdjecie ?? urlZdjecia(w.numer, { sety, feed: feedSety }),
-    hub: numeryHubow.has(w.numer),
+    hub: maHub(w.numer),
     status: w.status === 'potwierdzone' ? 'potwierdzone' : 'przewidywane',
     kiedy: w.kiedy,
     oferta,
