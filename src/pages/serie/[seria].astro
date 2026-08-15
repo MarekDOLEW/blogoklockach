@@ -28,10 +28,16 @@ const feedSety = ofertyFeed?.sety ?? {};
 
 // Wiersze do wspólnej tabeli — ten sam kształt co na /wycofania/.
 const wiersze = hist.map((s) => {
-  const oferta = najlepszaOferta(s.numer, { sety, feed: feedSety });
+  let oferta = najlepszaOferta(s.numer, { sety, feed: feedSety });
+  const cenaKat = cenaKatalogowaSetu(s.numer, { sety });
+  // dopóki LEGO jeszcze sprzedaje zestaw, brak ofert sklepów nie oznacza
+  // braku ceny — pokazujemy cenę katalogową z linkiem do LEGO.com
+  if (!oferta && s.status !== 'eol' && cenaKat) {
+    oferta = { sklep: 'lego', cena: cenaKat, data: null };
+  }
   const link = oferta
     ? linkAfiliacyjny(oferta.sklep, s.numer)
-    : (jakikolwiekLink(s.numer)?.url ?? null);
+    : (jakikolwiekLink(s.numer)?.url ?? (s.status !== 'eol' ? `/idz/lego/${s.numer}` : null));
   return {
     numer: s.numer,
     nazwa: s.nazwa,
@@ -44,7 +50,7 @@ const wiersze = hist.map((s) => {
     status: s.status === 'eol' ? 'eol' : 'sprzedaz',
     oferta,
     link,
-    cenaKatalogowa: cenaKatalogowaSetu(s.numer, { sety }),
+    cenaKatalogowa: cenaKat,
   };
 });
 ---

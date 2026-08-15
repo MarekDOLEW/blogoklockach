@@ -24,10 +24,16 @@ const feedSety = ofertyFeed?.sety ?? {};
 
 // Wiersze do wspólnej tabeli — ten sam kształt co w katalogu serii.
 const wiersz = (w) => {
-  const oferta = najlepszaOferta(w.numer, { sety, feed: feedSety });
+  let oferta = najlepszaOferta(w.numer, { sety, feed: feedSety });
+  const cenaKat = cenaKatalogowaSetu(w.numer, { sety });
+  // dopóki LEGO jeszcze sprzedaje zestaw, brak ofert sklepów nie oznacza
+  // braku ceny — pokazujemy cenę katalogową z linkiem do LEGO.com
+  if (!oferta && w.kiedy !== 'wycofany' && cenaKat) {
+    oferta = { sklep: 'lego', cena: cenaKat, data: null };
+  }
   const link = oferta
     ? linkAfiliacyjny(oferta.sklep, w.numer)
-    : (jakikolwiekLink(w.numer)?.url ?? null);
+    : (jakikolwiekLink(w.numer)?.url ?? (w.kiedy !== 'wycofany' ? `/idz/lego/${w.numer}` : null));
   return {
     numer: w.numer,
     nazwa: w.nazwa,
@@ -41,7 +47,7 @@ const wiersz = (w) => {
     kiedy: w.kiedy,
     oferta,
     link,
-    cenaKatalogowa: cenaKatalogowaSetu(w.numer, { sety }),
+    cenaKatalogowa: cenaKat,
   };
 };
 

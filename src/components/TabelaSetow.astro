@@ -15,6 +15,12 @@
 
 import { fmtCena, fmtElementy, nazwaSklepu } from '../lib/oferty.js';
 
+// '2026-08-14' -> '14.08' — czytelnik widzi, z którego dnia jest cena
+const dataKrotka = (d) => {
+  const m = /^\d{4}-(\d{2})-(\d{2})$/.exec(d ?? '');
+  return m ? `${m[2]}.${m[1]}` : null;
+};
+
 const { wiersze = [], pokazKiedy = false, naglowekCeny = 'Najniższa cena' } = Astro.props;
 
 const BADGE = {
@@ -96,7 +102,14 @@ const meta = (w) =>
                   ) : (
                     <span class="set-cena set-cena--bez-linku">{fmtCena(w.oferta.cena)}</span>
                   )}
-                  {w.oferta.sklep && <span class="set-sklep">{nazwaSklepu(w.oferta.sklep)}</span>}
+                  {w.oferta.sklep && (
+                    <span class="set-sklep">
+                      {nazwaSklepu(w.oferta.sklep)}
+                      {w.oferta.sklep === 'lego'
+                        ? ' · cena katalogowa'
+                        : dataKrotka(w.oferta.data) ? ` · z ${dataKrotka(w.oferta.data)}` : ''}
+                    </span>
+                  )}
                 </>
               ) : w.link ? (
                 <a class="set-sprawdz" href={w.link} rel="sponsored nofollow">Sprawdź cenę →</a>
