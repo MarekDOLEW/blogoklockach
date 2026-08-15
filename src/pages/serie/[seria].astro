@@ -6,7 +6,7 @@ import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import ofertyFeed from '../../data/oferty_feed.json';
 import { urlZdjecia, opisSetu } from '../../lib/media.js';
-import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink, fmtCena } from '../../lib/oferty.js';
+import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink, fmtCena, cenaKatalogowaSetu } from '../../lib/oferty.js';
 import { maHub } from '../../lib/huby.js';
 
 export function getStaticPaths() {
@@ -44,6 +44,7 @@ const wiersze = hist.map((s) => {
     status: s.status === 'eol' ? 'eol' : 'sprzedaz',
     oferta,
     link,
+    cenaKatalogowa: cenaKatalogowaSetu(s.numer, { sety }),
   };
 });
 ---

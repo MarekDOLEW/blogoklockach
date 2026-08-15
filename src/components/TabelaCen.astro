@@ -2,22 +2,33 @@
 import sklepy from '../data/sklepy.json';
 import redirects from '../data/redirects.json';
 // cenaKatalogowa jest opcjonalna — lekkie huby (spoza sety.json) jej nie znają,
-// wtedy tabela nie pokazuje kolumny rabatu
-const { nr, oferty, cenaKatalogowa = null } = Astro.props;
-const posortowane = [...oferty].sort((a, b) => a.cena - b.cena);
+// wtedy tabela nie pokazuje kolumny rabatu.
+// dodajLego dokłada wiersz LEGO.com (oficjalny sklep, link bezpośredni z workera),
+// jeśli ofert LEGO nie ma już na liście.
+const { nr, oferty, cenaKatalogowa = null, dodajLego = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
-const dataSprawdzenia = posortowane[0]?.data;
-const maLink = (sklep) => Boolean(redirects?.[sklep]?.[nr]);
+// link do LEGO.com generuje worker z samego numeru — nie wymaga wpisu w redirects
+const maLink = (sklep) => sklep === 'lego' || Boolean(redirects?.[sklep]?.[nr]);
+
+const zLego = dodajLego && !oferty.some((o) => o.sklep === 'lego') && cenaKatalogowa
+  ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]
+  : [];
+const posortowane = [...oferty, ...zLego].sort((a, b) => a.cena - b.cena);
+const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
 // sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę"
 const bezCeny = Object.keys(redirects)
   .filter((s) => s !== '_meta' && maLink(s) && !posortowane.some((o) => o.sklep === s));
+if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includes('lego')) {
+  bezCeny.push('lego');
+}
 
 // sklepy, w których cena na stronie potrafi odbiegać od tej z feedu
 // (kody rabatowe i akcje na koszyk, których feedy produktowe nie pokazują)
 const UWAGA_SKLEP = {
   mediaexpert: 'w sklepie bywają kody rabatowe — może być jeszcze taniej',
   planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku — na stronie może być taniej',
+  lego: 'oficjalny sklep LEGO — link bezpośredni, nie afiliacyjny',
 };
 ---
 <div class="karta" style="padding: 18px; margin: 18px 0;">
@@ -38,7 +49,7 @@ const UWAGA_SKLEP = {
           {cenaKatalogowa && <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>}
           <td>
             {maLink(o.sklep) ? (
-              <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel="sponsored nofollow">Sprawdź w sklepie →</a>
+              <a class="cta" href={`/idz/${o.sklep}/${nr}`} rel={o.sklep === 'lego' ? 'nofollow' : 'sponsored nofollow'}>Sprawdź w sklepie →</a>
             ) : (
               <span style="font-size:0.85rem;opacity:0.55;white-space:nowrap;" title="Link afiliacyjny w przygotowaniu">link wkrótce</span>
             )}
@@ -53,7 +64,7 @@ const UWAGA_SKLEP = {
           </td>
           <td class="cena">—</td>
           {cenaKatalogowa && <td>—</td>}
-          <td><a class="cta" href={`/idz/${s}/${nr}`} rel="sponsored nofollow">Sprawdź cenę →</a></td>
+          <td><a class="cta" href={`/idz/${s}/${nr}`} rel={s === 'lego' ? 'nofollow' : 'sponsored nofollow'}>Sprawdź cenę →</a></td>
         </tr>
       ))}
     </tbody>

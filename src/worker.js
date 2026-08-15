@@ -9,7 +9,14 @@ export default {
       const czesci = url.pathname.split('/').filter(Boolean); // ["idz", sklep, numer]
       const sklep = czesci[1] ?? '';
       const numer = czesci[2] ?? '';
-      const cel = redirects?.[sklep]?.[numer];
+      let cel = redirects?.[sklep]?.[numer];
+
+      // LEGO.com nie ma programu afiliacyjnego w naszym miksie — linkujemy
+      // bezpośrednio. lego.com akceptuje sam numer zestawu w adresie produktu
+      // i przekierowuje na pełny URL ze slugiem.
+      if (!cel && sklep === 'lego' && /^\d{4,7}$/.test(numer)) {
+        cel = `https://www.lego.com/pl-pl/product/${numer}`;
+      }
 
       // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).
       // Zapis: sklep, numer, czy link istniał, referer (skąd klik), kraj.

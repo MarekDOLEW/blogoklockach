@@ -222,6 +222,7 @@ a.set-mini img { cursor: pointer; }
 .badge-status--prognoza { background: #fff8e1; color: #8a6100; border: 1px solid rgba(230,174,0,0.45); }
 
 .set-kiedy { display: block; font-size: 0.75rem; font-weight: 700; color: var(--czerwien); margin-bottom: 4px; }
+.set-cena-kat { display: block; font-size: 0.78rem; color: var(--granat-60); text-decoration: line-through; }
 .set-kiedy--juz { color: var(--granat-60); }
 .set-cena { display: inline-block; font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; color: var(--granat); text-decoration: none; white-space: nowrap; }
 a.set-cena { border-bottom: 2px solid var(--zolty); }

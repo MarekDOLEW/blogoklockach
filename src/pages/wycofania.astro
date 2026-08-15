@@ -7,7 +7,7 @@ import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia } from '../lib/media.js';
 import { rokSetu } from '../lib/katalog.js';
-import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink } from '../lib/oferty.js';
+import { najlepszaOferta, linkAfiliacyjny, jakikolwiekLink, cenaKatalogowaSetu } from '../lib/oferty.js';
 import { maHub } from '../lib/huby.js';
 
 const kolejnosc = dane._meta.serie_kolejnosc;
@@ -41,6 +41,7 @@ const wiersz = (w) => {
     kiedy: w.kiedy,
     oferta,
     link,
+    cenaKatalogowa: cenaKatalogowaSetu(w.numer, { sety }),
   };
 };
 

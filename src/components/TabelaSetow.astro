@@ -9,7 +9,9 @@
 // Kształt wiersza:
 //   { numer, nazwa, opis, seria, rok, elementy, zdjecie, hub,
 //     status: 'sprzedaz' | 'eol' | 'potwierdzone' | 'przewidywane',
-//     kiedy, oferta: { sklep, cena } | null, link }
+//     kiedy, oferta: { sklep, cena } | null, link, cenaKatalogowa }
+// Przekreślona cena katalogowa pojawia się nad ceną, gdy oferta jest od niej
+// wyraźnie niższa — tak widać, że promocja jest prawdziwa.
 
 import { fmtCena, fmtElementy, nazwaSklepu } from '../lib/oferty.js';
 
@@ -86,6 +88,9 @@ const meta = (w) =>
               )}
               {w.oferta ? (
                 <>
+                  {w.cenaKatalogowa > w.oferta.cena * 1.01 && (
+                    <span class="set-cena-kat" title="cena katalogowa LEGO">{fmtCena(w.cenaKatalogowa)}</span>
+                  )}
                   {w.link ? (
                     <a class="set-cena" href={w.link} rel="sponsored nofollow">{fmtCena(w.oferta.cena)}</a>
                   ) : (
