@@ -4,6 +4,7 @@ import sety from '../../data/sety.json';
 import katalog from '../../data/katalog.json';
 import redirects from '../../data/redirects.json';
 import ofertyFeed from '../../data/oferty_feed.json';
+import { urlZdjecia, opisSetu } from '../../lib/media.js';
 
 const slugify = (t) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-');
 
@@ -28,7 +29,11 @@ const rokMin = hist.length ? Math.min(...hist.map((s) => s.rok)) : null;
 const feedSety = ofertyFeed?.sety ?? {};
 const maLink = (sklep, nr) => Boolean(sklep && redirects?.[sklep]?.[nr]);
 
-const zdjecieSetu = (nr) => sety[nr]?.zdjecia?.glowne ?? feedSety[nr]?.zdjecie ?? null;
+// sety.json -> feed -> zdjecia.json (mapa zbiorcza)
+const zdjecieSetu = (nr) => urlZdjecia(nr, { sety, feed: feedSety });
+
+// krótki opis generowany z danych katalogu — zamiast pustego „opis wkrótce"
+const opisKatalogowy = (nr) => opisSetu(nr, { sety: {} })?.tekst ?? null;
 
 // najniższa cena: śledzone sety mają pewniejsze dane w sety.json, reszta leci z migawki feedów
 const najlepszaOferta = (nr) => {
@@ -92,7 +97,9 @@ const najlepszaOferta = (nr) => {
                     ? <a href={`/zestaw/${s.numer}/`}>{s.nazwa}</a>
                     : <>
                         {s.nazwa}
-                        {s.status !== 'eol' && <span class="kat-wkrotce">opis modelu już wkrótce</span>}
+                        {opisKatalogowy(s.numer)
+                          ? <span class="kat-opis">{opisKatalogowy(s.numer)}</span>
+                          : s.status !== 'eol' && <span class="kat-wkrotce">opis modelu już wkrótce</span>}
                       </>}
                 </td>
                 <td>{s.elementy}</td>
