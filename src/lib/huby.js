@@ -8,12 +8,14 @@
 //   - jest śledzony w sety.json (pełny hub z redakcyjnym opisem), albo
 //   - jest na liście wycofań (każde wycofanie linkuje do szczegółów), albo
 //   - ma nazwę (katalog.json) ORAZ cokolwiek do pokazania:
-//     cenę z feedu sklepowego lub choć jeden link afiliacyjny.
+//     cenę z feedu sklepowego, choć jeden link afiliacyjny, albo — dla setów
+//     w sprzedaży — cenę katalogową LEGO (wiersz LEGO.com z linkiem do sklepu).
 
 import sety from '../data/sety.json';
 import ofertyFeed from '../data/oferty_feed.json';
 import redirects from '../data/redirects.json';
 import wycofaniaDane from '../data/wycofania.json';
+import katalogCaly from '../data/katalog.json';
 import { wpisKatalogu } from './katalog.js';
 
 const feed = ofertyFeed?.sety ?? {};
@@ -21,6 +23,10 @@ const wycofaniaIdx = new Map(wycofaniaDane.wycofania.map((w) => [w.numer, w]));
 
 const maLinkGdziekolwiek = (nr) =>
   Object.keys(redirects).some((sklep) => redirects[sklep]?.[nr]);
+
+// cena w starym formacie (pole cena) albo nowym (mapa oferty per sklep)
+const maCeneZFeedu = (wpis) =>
+  Boolean(wpis?.cena || Object.values(wpis?.oferty ?? {}).some((c) => c > 0));
 
 function policzHuby() {
   const numery = new Set([...Object.keys(sety), ...wycofaniaIdx.keys()]);
@@ -32,7 +38,15 @@ function policzHuby() {
     if (numery.has(nr)) continue;
     const nazwany = wpisKatalogu(nr) ?? wycofaniaIdx.get(nr);
     if (!nazwany) continue;
-    if (feed[nr]?.cena || maLinkGdziekolwiek(nr)) numery.add(nr);
+    if (maCeneZFeedu(feed[nr]) || maLinkGdziekolwiek(nr)) numery.add(nr);
+  }
+  // sety w sprzedaży ze znaną ceną katalogową — hub pokaże przynajmniej
+  // wiersz LEGO.com (backfill cen katalogowych poszerza tę pulę z każdą partią)
+  for (const [seria, lista] of Object.entries(katalogCaly)) {
+    if (seria === '_meta' || !Array.isArray(lista)) continue;
+    for (const s of lista) {
+      if (s.status === 'dostepny' && s.cena_katalogowa) numery.add(s.numer);
+    }
   }
   return numery;
 }
