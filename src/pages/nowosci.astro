@@ -1,13 +1,14 @@
 ---
 import Base from '../layouts/Base.astro';
 import sety from '../data/sety.json';
+import { urlZdjecia } from '../lib/media.js';
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
 const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
 const nowe = Object.entries(sety)
   .filter(([, s]) => s.premiera >= odKiedy)
-  .map(([nr, s]) => ({ nr, ...s }))
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .sort((a, b) => (a.premiera > b.premiera ? -1 : a.premiera < b.premiera ? 1 : 0));
 const serie = [...new Set(nowe.map((s) => s.seria))].sort((a, b) => a.localeCompare(b, 'pl'));
 const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
@@ -32,8 +33,8 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
   <div class="siatka siatka--nowosci" id="now-siatka">
     {nowe.map((s) => (
       <a class="karta set-karta" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
-        {s.zdjecia?.glowne ? (
-          <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.zdjecia.glowne} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
+        {s.foto ? (
+          <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" data-full={s.foto} data-podpis={`LEGO ${s.nr} ${s.nazwa} · Fot. LEGO`} />
         ) : (
           <div class="foto-brak" aria-hidden="true">
             <span class="studs"><i></i><i></i><i></i><i></i></span>

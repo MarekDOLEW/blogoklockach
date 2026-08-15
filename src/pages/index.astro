@@ -2,13 +2,14 @@
 import Base from '../layouts/Base.astro';
 import TabelaCen from '../components/TabelaCen.astro';
 import sety from '../data/sety.json';
+import { urlZdjecia } from '../lib/media.js';
 
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
-const wpisy = Object.entries(sety).map(([nr, s]) => ({ nr, ...s }));
+const wpisy = Object.entries(sety).map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }));
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const dealDnia = zRabatem[0];
 const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
@@ -51,7 +52,7 @@ const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
     <div class="siatka">
       {reszta.map((s) => (
         <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
-          {s.zdjecia?.glowne && <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
+          {s.foto && <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
           <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
           <h3>{s.nazwa}</h3>
           <span class="badge-seria">{s.seria}</span>
