@@ -23,6 +23,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
          i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>  </head>
   <body>
+    <a class="skip-link" href="#tresc">Przejdź do treści</a>
     <header class="site-header">
       <div class="wrap">
         <a class="logo" href="/">
@@ -56,9 +57,22 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       })();
     </script>
 
-    <main class="wrap">
+    <main class="wrap" id="tresc">
       <slot />
     </main>
+
+    <button class="na-gore" type="button" aria-label="Wróć na górę strony" hidden>↑</button>
+    <script is:inline>
+      // przycisk „wróć na górę" pojawia się dopiero na długich stronach po przewinięciu
+      (function () {
+        var przycisk = document.querySelector('.na-gore');
+        if (!przycisk) return;
+        var przelacz = function () { przycisk.hidden = window.scrollY < 1600; };
+        addEventListener('scroll', przelacz, { passive: true });
+        przelacz();
+        przycisk.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      })();
+    </script>
 
     <footer class="site-footer">
       <div class="wrap">

@@ -12,7 +12,8 @@
   --zolty: #ffc933;
   --zolty-ciemny: #e6ae00;
   --czerwien: #e0312f;
-  --zielen: #168a4c;
+  /* przyciemnione względem pierwotnego #168a4c: biały tekst na zieleni musi mieć kontrast ≥4,5:1 (WCAG AA) */
+  --zielen: #0f7a43;
   --linia: #dde1e8;
 
   --font-display: "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -139,6 +140,45 @@ a { color: inherit; }
 .site-footer h4 { color: #fff; font-family: var(--font-display); margin: 0 0 8px; font-size: 0.95rem; }
 
 :focus-visible { outline: 3px solid var(--zolty); outline-offset: 2px; }
+
+/* ---------- Skip-link + powrót na górę ---------- */
+.skip-link { position: absolute; left: -9999px; top: 0; background: var(--granat); color: #fff; font-weight: 700; padding: 10px 16px; border-radius: 0 0 8px 0; z-index: 100; }
+.skip-link:focus { left: 0; }
+.na-gore { position: fixed; right: 18px; bottom: 18px; z-index: 60; width: 44px; height: 44px; border: 0; border-radius: 50%; background: var(--granat); color: #fff; font-size: 1.2rem; cursor: pointer; box-shadow: 0 4px 16px rgba(23,35,63,0.3); }
+.na-gore:hover { background: #0f1830; }
+
+/* ---------- Strona główna ---------- */
+.glowna-h1 { font-size: clamp(1.15rem, 2.4vw, 1.5rem); color: var(--granat-60); font-weight: 700; margin: 26px 0 10px; }
+.deal-tytul { font-size: clamp(1.6rem, 4vw, 2.6rem); margin: 0 0 0.4em; }
+.deal-akcje { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+.deal-akcje .cta { display: inline-block; background: var(--granat); color: #fff; text-decoration: none; font-weight: 700; padding: 12px 20px; border-radius: 8px; }
+.deal-akcje .cta:hover { background: #0f1830; }
+.deal-wiecej { font-size: 0.92rem; }
+
+.chipy { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
+.chip { font: inherit; font-size: 0.85rem; font-weight: 600; padding: 7px 14px; border: 1.5px solid var(--linia); border-radius: 999px; background: var(--karta); color: var(--granat-60); cursor: pointer; }
+.chip:hover { border-color: var(--granat-60); color: var(--granat); }
+.chip--aktywny { background: var(--granat); border-color: var(--granat); color: #fff; }
+
+.siatka--4x4 { grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 8px 0 10px; }
+/* min-width:0 — inaczej atrybut width obrazka wyznacza minimalną szerokość kolumny i siatka rozpycha stronę na telefonie */
+.siatka--4x4 > * { min-width: 0; }
+@media (max-width: 900px) { .siatka--4x4 { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 640px) { .siatka--4x4 { grid-template-columns: repeat(2, 1fr); } }
+.set-karta--mini { padding: 12px; gap: 4px; }
+.set-karta--mini .miniatura { aspect-ratio: 4 / 3; }
+.set-karta--mini .nr { font-size: 0.72rem; }
+.set-karta--mini h3 { font-size: 0.92rem; line-height: 1.3; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; min-height: 2.6em; }
+.set-karta--mini .cena-linia { padding-top: 6px; gap: 8px; }
+.set-karta--mini .cena-linia .cena { font-size: 1.02rem; }
+.badge-rabat-mini { background: var(--czerwien); color: #fff; font-weight: 700; font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; margin-left: auto; }
+
+.zajawki { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+.zajawka { padding: 18px; display: flex; flex-direction: column; gap: 6px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
+.zajawka:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
+.zajawka h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+.zajawka p { margin: 0; font-size: 0.88rem; color: var(--granat-60); }
+.zajawka-wiecej { font-size: 0.85rem; font-weight: 700; margin-top: auto; padding-top: 6px; }
 
 /* ---------- Zdjęcia setów ---------- */
 .set-hero { display: grid; gap: 24px; grid-template-columns: minmax(280px, 420px) 1fr; align-items: start; margin-top: 24px; }
@@ -268,6 +308,8 @@ tr.set-trafienie td:first-child { box-shadow: inset 4px 0 0 var(--zolty); }
   .tabela-setow .kol-status { grid-area: status; align-self: start; }
   .tabela-setow .kol-opis { grid-area: opis; margin-top: 10px; }
   .tabela-setow .kol-cena { grid-area: cena; text-align: left; margin-top: 10px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+  /* wygodniejszy cel dotykowy dla linku ceny na telefonie */
+  .tabela-setow .kol-cena a.set-cena { padding: 6px 0; }
   .tabela-setow .kol-cena .set-kiedy { flex-basis: 100%; margin: 0; }
   .set-mini:hover img { transform: none; box-shadow: none; }
   tr.set-trafienie td:first-child { box-shadow: none; }

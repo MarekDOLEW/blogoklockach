@@ -1,33 +1,84 @@
 ---
 import Base from '../layouts/Base.astro';
-import TabelaCen from '../components/TabelaCen.astro';
+import TabelaSetow from '../components/TabelaSetow.astro';
 import sety from '../data/sety.json';
+import wycofaniaDane from '../data/wycofania.json';
+import ofertyFeed from '../data/oferty_feed.json';
 import { urlZdjecia } from '../lib/media.js';
+import { linkAfiliacyjny, fmtCena, nazwaSklepu } from '../lib/oferty.js';
+import { wierszWycofania } from '../lib/wiersze.js';
 
-const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const zaKlocek = (s) => (s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',');
 const najlepszaCena = (s) => Math.min(...s.oferty.map((o) => o.cena));
+const najtanszaOferta = (s) => s.oferty.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 const rabat = (s) => Math.round((1 - najlepszaCena(s) / s.cena_katalogowa) * 100);
 
-const wpisy = Object.entries(sety).map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }));
+const KOLEKCJONERSKIE = new Set(['Ideas', 'Icons', 'Star Wars', 'Technic', 'Harry Potter', 'Botanicals']);
+
+const wpisy = Object.entries(sety)
+  .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
+  .filter((s) => s.oferty?.length);
+
+// ── Deal dnia: najwyższy rabat dnia ──
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const dealDnia = zRabatem[0];
-const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
+const ofertaDnia = dealDnia && najtanszaOferta(dealDnia);
+
+// ── „Dziś w dobrej cenie": 16 kart (4×4), co najmniej połowa z serii kolekcjonerskich ──
+const pula = zRabatem.filter((s) => s.nr !== dealDnia?.nr);
+const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 8);
+const wybraneNr = new Set(kolekcjonerskie.map((s) => s.nr));
+const dobreCeny = [...kolekcjonerskie, ...pula.filter((s) => !wybraneNr.has(s.nr))]
+  .slice(0, 16)
+  .sort((a, b) => rabat(b) - rabat(a));
+const serieWSiatce = [...new Set(dobreCeny.map((s) => s.seria))];
+
+// ── Top 10 wycofań wartych upolowania ──
+const feedSety = ofertyFeed?.sety ?? {};
+const punkty = (w) => {
+  const wiersz = wierszWycofania(w, { sety, feed: feedSety });
+  let p = 0;
+  if (w.status === 'potwierdzone') p += 3;
+  if (wiersz.oferta) p += 3;
+  if (wiersz.oferta && wiersz.cenaKatalogowa) {
+    const r = Math.round((1 - wiersz.oferta.cena / wiersz.cenaKatalogowa) * 100);
+    if (r >= 20) p += 2;
+    else if (r >= 10) p += 1;
+  }
+  if (KOLEKCJONERSKIE.has(w.seria)) p += 2;
+  if ((w.kiedy ?? '').includes('grudzień')) p += 1;
+  if (w.kiedy === 'wycofany') p -= 4; // rynek wtórny — nie da się już „upolować" w sklepie
+  return { wiersz, p };
+};
+const topWycofania = wycofaniaDane.wycofania
+  .map(punkty)
+  .sort((a, b) => b.p - a.p)
+  .slice(0, 10)
+  .map((x) => x.wiersz);
+const liczbaWycofan = wycofaniaDane.wycofania.length;
+
+// ── Zajawki artykułów: 3 najnowsze ──
+const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: true }))
+  .map(([, m]) => m)
+  .sort((a, b) => new Date(b.frontmatter.data) - new Date(a.frontmatter.data))
+  .slice(0, 3);
 ---
 <Base
   title="Promocje na klocki LEGO dziś — prawdziwe rabaty, bez ściemy"
   description="Codziennie sprawdzamy ceny zestawów LEGO w największych sklepach. Rabaty liczymy od cen katalogowych, wyłapujemy najniższe ceny w historii."
 >
+  <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO — rabaty liczone od cen katalogowych</h1>
+
   {dealDnia && (
     <section class="deal-dnia karta" aria-label="Deal dnia">
       <span class="eyebrow">
         <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
         Deal dnia · {new Date().toLocaleDateString('pl-PL')}
       </span>
-      <h1>LEGO {dealDnia.nr} {dealDnia.nazwa}</h1>
+      <h2 class="deal-tytul">LEGO {dealDnia.nr} {dealDnia.nazwa}</h2>
       <div class="cena-duza">
-        {fmt(najlepszaCena(dealDnia))}
-        <small>{fmt(dealDnia.cena_katalogowa)}</small>
+        {fmtCena(najlepszaCena(dealDnia))}
+        <small>{fmtCena(dealDnia.cena_katalogowa)}</small>
       </div>
       <div>
         <span class="badge-rabat">−{rabat(dealDnia)}% od ceny katalogowej</span>
@@ -38,32 +89,73 @@ const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
         <span>seria <strong>{dealDnia.seria}</strong></span>
         <span>wiek <strong>{dealDnia.wiek}</strong></span>
       </div>
-      <TabelaCen nr={dealDnia.nr} oferty={dealDnia.oferty} cenaKatalogowa={dealDnia.cena_katalogowa} />
-      <p><a href={`/zestaw/${dealDnia.nr}/`}>Pełna karta zestawu i historia cen →</a></p>
+      <div class="deal-akcje">
+        {ofertaDnia && linkAfiliacyjny(ofertaDnia.sklep, dealDnia.nr) && (
+          <a class="cta" href={linkAfiliacyjny(ofertaDnia.sklep, dealDnia.nr)} rel="sponsored nofollow">
+            Sprawdź w {nazwaSklepu(ofertaDnia.sklep)} →
+          </a>
+        )}
+        <a class="deal-wiecej" href={`/zestaw/${dealDnia.nr}/`}>Pełna karta zestawu i porównanie cen →</a>
+      </div>
     </section>
   )}
 
-  <section class="sekcja">
+  <section class="sekcja" aria-label="Dzisiejsze dobre ceny">
     <div class="sekcja-head">
       <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-      <h2>Warte obserwacji</h2>
+      <h2>Dziś w dobrej cenie</h2>
     </div>
-    <p>Sety, którym przyglądamy się w tym tygodniu — premiery i kandydaci na okazje.</p>
-    <div class="siatka">
-      {reszta.map((s) => (
-        <a class="karta set-karta" href={`/zestaw/${s.nr}/`}>
-          {s.foto && <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
-          <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+    <p>Najlepsze dzisiejsze rabaty od cen katalogowych — co najmniej połowa z serii kolekcjonerskich.</p>
+    <div class="chipy" role="group" aria-label="Filtruj po serii">
+      <button type="button" class="chip chip--aktywny" data-chip="">Wszystkie</button>
+      {serieWSiatce.map((s) => (
+        <button type="button" class="chip" data-chip={s}>{s}</button>
+      ))}
+    </div>
+    <div class="siatka siatka--4x4">
+      {dobreCeny.map((s) => (
+        <a class="karta set-karta set-karta--mini" href={`/zestaw/${s.nr}/`} data-seria={s.seria}>
+          {s.foto
+            ? <img class="miniatura" src={s.foto} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="300" height="225" />
+            : <span class="foto-brak" aria-hidden="true"><span class="studs studs--granat"><i></i><i></i><i></i><i></i></span></span>}
+          <span class="nr">LEGO {s.nr}</span>
           <h3>{s.nazwa}</h3>
-          <span class="badge-seria">{s.seria}</span>
           <div class="cena-linia">
-            <span class="cena">{fmt(najlepszaCena(s))}</span>
-            <span class="za-klocek">{zaKlocek(s)} zł/klocek</span>
+            <span class="cena">{fmtCena(najlepszaCena(s))}</span>
+            <span class="badge-rabat-mini">−{rabat(s)}%</span>
           </div>
         </a>
       ))}
     </div>
   </section>
+
+  <section class="sekcja" aria-label="Najciekawsze wycofania">
+    <div class="sekcja-head">
+      <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+      <h2>Top 10 wycofań wartych upolowania</h2>
+    </div>
+    <p>Zestawy, które niedługo znikną z produkcji — kupione teraz bywają najtańsze w historii, a po wycofaniu drożeją. <a href="/wycofania/">Pełna lista {liczbaWycofan} wycofań →</a></p>
+    <TabelaSetow wiersze={topWycofania} pokazKiedy />
+  </section>
+
+  {artykuly.length > 0 && (
+    <section class="sekcja" aria-label="Najnowsze artykuły">
+      <div class="sekcja-head">
+        <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <h2>Ostatnio na blogu</h2>
+      </div>
+      <div class="zajawki">
+        {artykuly.map((a) => (
+          <a class="karta zajawka" href={a.url + '/'}>
+            <span class="nr">{a.frontmatter.data} · {a.frontmatter.kategoria}</span>
+            <h3>{a.frontmatter.title}</h3>
+            <p>{a.frontmatter.opis}</p>
+            <span class="zajawka-wiecej">Czytaj →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
 
   <section class="sekcja persony">
     <div class="karta persona">
@@ -76,3 +168,14 @@ const reszta = wpisy.filter((s) => s.nr !== dealDnia?.nr);
     </div>
   </section>
 </Base>
+
+<script>
+  // filtr chipów serii — czysto kliencki, karty są w HTML (SEO)
+  const chipy = [...document.querySelectorAll('.chip')];
+  const karty = [...document.querySelectorAll('.set-karta--mini')];
+  chipy.forEach((ch) => ch.addEventListener('click', () => {
+    chipy.forEach((c) => c.classList.toggle('chip--aktywny', c === ch));
+    const seria = ch.dataset.chip;
+    karty.forEach((k) => { k.hidden = Boolean(seria) && k.dataset.seria !== seria; });
+  }));
+</script>
