@@ -196,6 +196,7 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .kat-mini-placeholder { display: flex; width: 64px; height: 64px; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
 .kat-mini-placeholder .studs i { width: 9px; height: 9px; }
 .kat-wkrotce { display: block; font-size: 0.75rem; color: var(--granat-60); font-style: italic; margin-top: 2px; }
+.kat-opis { display: block; font-size: 0.78rem; line-height: 1.45; color: var(--granat-60); margin-top: 3px; max-width: 52ch; }
 a.kat-cena { font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; color: var(--granat); text-decoration: none; border-bottom: 2px solid var(--zolty); }
 a.kat-cena:hover { color: #0f1830; border-bottom-color: var(--granat); }
 .kat-cena--bez-linku { font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; color: var(--granat-60); }
