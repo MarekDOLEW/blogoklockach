@@ -25,7 +25,8 @@
       "brickset.com (theme Botanicals)",
       "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)"
     ],
-    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami."
+    "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
+    "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Wyjatek: gratisy GWP i sety promocyjne (numery 6-7-cyfrowe oraz 40xxx/66xxx bez ofert w polskich sklepach) moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawka statusow rocznika 2026: 2026-08-15."
   },
   "Ideas": [
     {
@@ -621,7 +622,7 @@
       "nazwa": "Papużki nierozłączki",
       "rok": 2026,
       "elementy": 750,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21366",
@@ -649,7 +650,7 @@
       "nazwa": "The X-Files",
       "rok": 2026,
       "elementy": 1478,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21370",
@@ -663,7 +664,7 @@
       "nazwa": "Wallace & Gromit",
       "rok": 2026,
       "elementy": 1038,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21372",
@@ -676,21 +677,21 @@
       "numer": "21375",
       "nazwa": "Godzilla",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21376",
       "nazwa": "Rudy kot",
       "rok": 2026,
       "elementy": 1755,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40896",
       "nazwa": "The X-Files: Laboratorium Scully",
       "rok": 2026,
       "elementy": 221,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40912",
@@ -1630,7 +1631,7 @@
       "nazwa": "Ulica handlowa",
       "rok": 2026,
       "elementy": 3456,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "11372",
@@ -1651,7 +1652,7 @@
       "nazwa": "Automat do gry pinball",
       "rok": 2026,
       "elementy": 2274,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "11375",
@@ -1672,7 +1673,7 @@
       "nazwa": "Władca pierścieni: Minas Tirith",
       "rok": 2026,
       "elementy": 8278,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "11378",
@@ -1721,7 +1722,7 @@
       "nazwa": "Star Trek: Mostek U.S.S. Enterprise NCC-1701",
       "rok": 2026,
       "elementy": 1701,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "11386",
@@ -1735,7 +1736,7 @@
       "nazwa": "Projekt Hail Mary",
       "rok": 2026,
       "elementy": 830,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40891",
@@ -3039,7 +3040,7 @@
       "nazwa": "Minizamek Hogwart",
       "rok": 2026,
       "elementy": 700,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "66820",
@@ -3151,21 +3152,21 @@
       "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
       "rok": 2026,
       "elementy": 3491,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76477",
       "nazwa": "Norbert: mały smok Hagrida",
       "rok": 2026,
       "elementy": 482,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "76478",
       "nazwa": "Book nook: Gabinet Dumbledore'a",
       "rok": 2026,
       "elementy": 1182,
-      "status": "eol"
+      "status": "dostepny"
     }
   ],
   "Star Wars": [
@@ -10248,21 +10249,21 @@
       "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
       "rok": 2026,
       "elementy": 775,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75459",
       "nazwa": "Imperialny prom typu Lambda",
       "rok": 2026,
       "elementy": 961,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75460",
       "nazwa": "Myśliwiec X-Wing Nowej Republiki",
       "rok": 2026,
       "elementy": 558,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "75461",
@@ -11544,21 +11545,21 @@
       "nazwa": "Figurka SpongeBoba Kanciastoportego",
       "rok": 2026,
       "elementy": 72,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40859",
       "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
       "rok": 2026,
       "elementy": 218,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40860",
       "nazwa": "Toy Story",
       "rok": 2026,
       "elementy": 528,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40861",
@@ -11579,21 +11580,21 @@
       "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
       "rok": 2026,
       "elementy": 584,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40880",
       "nazwa": "Avengers: Doomsday Bohaterowie i złoczyńca",
       "rok": 2026,
       "elementy": 467,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40881",
       "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
       "rok": 2026,
       "elementy": 300,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40910",
@@ -11607,7 +11608,7 @@
       "nazwa": "Figurki gremlinów: Gizmo i Stripe",
       "rok": 2026,
       "elementy": 230,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40922",
@@ -11621,21 +11622,21 @@
       "nazwa": "Figurki Shreka, Osła i Ciastka",
       "rok": 2026,
       "elementy": 259,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40924",
       "nazwa": "Megatron jako robot i pojazd",
       "rok": 2026,
       "elementy": 224,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40925",
       "nazwa": "Alicja w Krainie Czarów",
       "rok": 2026,
       "elementy": 601,
-      "status": "eol"
+      "status": "dostepny"
     }
   ],
   "Speed Champions": [
@@ -16291,14 +16292,14 @@
       "nazwa": "Zielony hipersamochód Bugatti Chiron Pur Sport",
       "rok": 2026,
       "elementy": 771,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "42242",
       "nazwa": "Mercedes-Benz Unimog U 5023 z dźwigiem",
       "rok": 2026,
       "elementy": 1189,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "L0002290",
@@ -23119,14 +23120,14 @@
       "nazwa": "City World Builder parts",
       "rok": 2026,
       "elementy": 63,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "12011",
       "nazwa": "City World Builder parts",
       "rok": 2026,
       "elementy": 66,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "30719",
@@ -23259,7 +23260,7 @@
       "nazwa": "Ciężarówka recyklingowa",
       "rok": 2026,
       "elementy": 434,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "60496",
@@ -23301,7 +23302,7 @@
       "nazwa": "Park rollercoasterów Lava Land",
       "rok": 2026,
       "elementy": 1165,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "60502",
@@ -23350,7 +23351,7 @@
       "nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
       "rok": 2026,
       "elementy": 803,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "60510",
@@ -23371,7 +23372,7 @@
       "nazwa": "Furgonetka z rowerami górskimi",
       "rok": 2026,
       "elementy": 260,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "6614210",
@@ -27613,7 +27614,7 @@
       "nazwa": "Teleskop do odkrywania kosmosu",
       "rok": 2026,
       "elementy": 278,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "31379",
@@ -27683,7 +27684,7 @@
       "nazwa": "Dzikie zwierzęta: Rodzina koali",
       "rok": 2026,
       "elementy": 1536,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "31389",
@@ -27718,14 +27719,14 @@
       "nazwa": "Leśne zwierzęta: Wilk szary",
       "rok": 2026,
       "elementy": 657,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "31394",
       "nazwa": "Urocze zwierzątka: Panda ruda",
       "rok": 2026,
       "elementy": 297,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40885",
@@ -32404,7 +32405,7 @@
       "nazwa": "Restauracja z ogrodem",
       "rok": 2026,
       "elementy": 1465,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "42692",
@@ -32474,7 +32475,7 @@
       "nazwa": "Sanktuarium koali",
       "rok": 2026,
       "elementy": 521,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "42702",
@@ -39003,7 +39004,7 @@
       "nazwa": "Podróż pociągiem z Dziadkiem Świnką",
       "rok": 2026,
       "elementy": 35,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "10467",
@@ -39107,7 +39108,7 @@
       "numer": "10481",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "30712",
@@ -43389,7 +43390,7 @@
       "nazwa": "Bitwa smoka Riyu",
       "rok": 2026,
       "elementy": 347,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "71856",
@@ -43431,7 +43432,7 @@
       "nazwa": "Stare miasto - 15-lecie",
       "rok": 2026,
       "elementy": 4851,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "71862",
@@ -43459,7 +43460,7 @@
       "nazwa": "Bitwa lodowego smoka Zane'a",
       "rok": 2026,
       "elementy": 141,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "71866",
@@ -46281,7 +46282,7 @@
       "nazwa": "Popiersie Venoma",
       "rok": 2026,
       "elementy": 413,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "L0002276",
@@ -48151,14 +48152,14 @@
       "nazwa": "Halloweenowa latarnia z dyni",
       "rok": 2026,
       "elementy": 323,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40873",
       "nazwa": "Kolorowy lampion",
       "rok": 2026,
       "elementy": 286,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40874",
@@ -48178,7 +48179,7 @@
       "nazwa": "Halloweenowa czaszka ze świecą",
       "rok": 2026,
       "elementy": 204,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "40886",
@@ -48227,7 +48228,7 @@
       "nazwa": "Świąteczna skarpeta",
       "rok": 2026,
       "elementy": 342,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "66822",
@@ -48241,14 +48242,14 @@
       "nazwa": "Chińska petarda noworoczna",
       "rok": 2026,
       "elementy": 1039,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "80119",
       "nazwa": "Obraz z galopującymi końmi",
       "rok": 2026,
       "elementy": 1650,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "80120",
@@ -49956,7 +49957,7 @@
       "nazwa": "Main Street, U.S.A.",
       "rok": 2026,
       "elementy": 3899,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "43303",
@@ -49977,7 +49978,7 @@
       "nazwa": "Przyjęcie urodzinowe Prosiaczka",
       "rok": 2026,
       "elementy": 544,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "43306",
@@ -51351,7 +51352,7 @@
       "nazwa": "Bitwa z Twisted Wardenem",
       "rok": 2026,
       "elementy": 438,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "21592",
@@ -51400,7 +51401,7 @@
       "nazwa": "Podwodna przygoda",
       "rok": 2026,
       "elementy": 310,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "30732",
@@ -53939,7 +53940,7 @@
       "nazwa": "Wiszące epipremnum złociste",
       "rok": 2026,
       "elementy": 372,
-      "status": "eol"
+      "status": "dostepny"
     },
     {
       "numer": "11513",

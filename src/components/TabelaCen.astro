@@ -10,6 +10,13 @@ const maLink = (sklep) => Boolean(redirects?.[sklep]?.[nr]);
 // sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę"
 const bezCeny = Object.keys(redirects)
   .filter((s) => s !== '_meta' && maLink(s) && !posortowane.some((o) => o.sklep === s));
+
+// sklepy, w których cena na stronie potrafi odbiegać od tej z feedu
+// (kody rabatowe i akcje na koszyk, których feedy produktowe nie pokazują)
+const UWAGA_SKLEP = {
+  mediaexpert: 'w sklepie bywają kody rabatowe — może być jeszcze taniej',
+  planetaklockow: 'sklep prowadzi akcje rabatowe niewidoczne w cenniku — na stronie może być taniej',
+};
 ---
 <div class="karta" style="padding: 18px; margin: 18px 0;">
   <table class="tabela-cen">
@@ -23,7 +30,7 @@ const bezCeny = Object.keys(redirects)
           <td>
             <strong>{sklepy[o.sklep]?.nazwa ?? o.sklep}</strong>
             {o.najnizsza && <span class="badge-najnizsza" style="margin-left:8px">najniższa w historii</span>}
-            {o.sklep === 'mediaexpert' && <span style="display:block;font-size:0.72rem;opacity:0.65;">w sklepie bywają kody rabatowe — może być jeszcze taniej</span>}
+            {UWAGA_SKLEP[o.sklep] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[o.sklep]}</span>}
           </td>
           <td class="cena">{fmt(o.cena)}</td>
           <td>{rabat(o.cena) > 0 ? `−${rabat(o.cena)}%` : '—'}</td>
@@ -40,7 +47,7 @@ const bezCeny = Object.keys(redirects)
         <tr>
           <td>
             <strong>{sklepy[s]?.nazwa ?? s}</strong>
-            {s === 'mediaexpert' && <span style="display:block;font-size:0.72rem;opacity:0.65;">w sklepie bywają kody rabatowe — może być jeszcze taniej</span>}
+            {UWAGA_SKLEP[s] && <span style="display:block;font-size:0.72rem;opacity:0.65;">{UWAGA_SKLEP[s]}</span>}
           </td>
           <td class="cena">—</td>
           <td>—</td>
@@ -49,5 +56,5 @@ const bezCeny = Object.keys(redirects)
       ))}
     </tbody>
   </table>
-  <p class="tabela-data">* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). Ceny sprawdzone: {dataSprawdzenia}. Ceny mogą się zmienić.</p>
+  <p class="tabela-data">* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). Ceny sprawdzone: {dataSprawdzenia}. Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach — cena w sklepie może się różnić od podanej, zwykle na Twoją korzyść.</p>
 </div>

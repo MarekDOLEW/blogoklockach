@@ -92,6 +92,7 @@ const wiersze = hist.map((s) => {
         <h2>Pełny katalog serii {seria} ({rokMin}–{Math.max(...hist.map((s) => s.rok))})</h2>
       </div>
       <p>Wszystkie zestawy serii — także wycofane z produkcji (EOL). Zestawy EOL kupisz już tylko na rynku wtórnym; ich ceny często przewyższają katalogowe, co czyni serię {seria} jedną z ciekawszych inwestycyjnie.</p>
+      <p class="disclosure">Ceny prowadzą przez linki afiliacyjne — kupując przez nie, wspierasz serwis, nie płacąc więcej. Ceny pobieramy z cenników sklepów; trwające promocje i kody rabatowe bywają w nich niewidoczne, więc cena w sklepie może się różnić od podanej — zwykle na Twoją korzyść.</p>
       <TabelaSetow wiersze={wiersze} />
       <p class="lista-pusta" data-pusto hidden>Żaden zestaw z tej serii nie pasuje do wyszukiwania.</p>
     </section>

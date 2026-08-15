@@ -44,7 +44,9 @@ const jsonld = {
     <div class="set-hero">
       <div>
         {foto?.url ? (
-          <img class="foto-glowna" src={foto.url} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
+          <figure class="foto-okno">
+            <img src={foto.url} alt={`LEGO ${nr} ${s.nazwa} — zdjęcie zestawu`} width="800" height="800" />
+          </figure>
         ) : (
           <div class="foto-placeholder">
             <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
