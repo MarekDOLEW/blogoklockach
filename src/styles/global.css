@@ -91,7 +91,10 @@ a { color: inherit; }
 .badge-ex { display: inline-block; background: var(--granat); color: var(--zolty); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 
 /* ---------- Deal dnia (hero) ---------- */
-.deal-dnia { margin: 28px 0; padding: 26px; display: grid; gap: 18px; border-top: 6px solid var(--zolty); }
+.deal-dnia { margin: 28px 0; padding: 26px; display: grid; gap: 24px; grid-template-columns: minmax(240px, 380px) 1fr; align-items: center; border-top: 6px solid var(--zolty); }
+@media (max-width: 760px) { .deal-dnia { grid-template-columns: 1fr; } }
+.deal-foto { display: flex; }
+.deal-tresc { display: grid; gap: 16px; min-width: 0; }
 .deal-dnia .eyebrow { font-weight: 800; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--czerwien); display: flex; align-items: center; gap: 10px; }
 .deal-dnia .cena-duza { font-family: var(--font-display); font-size: clamp(2.2rem, 6vw, 3.4rem); color: var(--czerwien); line-height: 1; }
 .deal-dnia .cena-duza small { font-size: 0.45em; color: var(--granat-60); font-family: var(--font-body); font-weight: 600; text-decoration: line-through; margin-left: 10px; }
