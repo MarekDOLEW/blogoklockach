@@ -29,13 +29,11 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-16",
-      "uzupelnione_lacznie": 252,
+      "uzupelnione_lacznie": 372,
       "ostatnie_serie": [
-        "Botanicals",
-        "Icons",
-        "Minecraft",
-        "Speed Champions",
-        "Super Mario"
+        "Creator",
+        "Harry Potter",
+        "Icons"
       ]
     }
   },
@@ -1701,112 +1699,128 @@
       "nazwa": "Ulica handlowa",
       "rok": 2026,
       "elementy": 3456,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1099.99
     },
     {
       "numer": "11372",
       "nazwa": "Jesienny ogród z chatką",
       "rok": 2026,
       "elementy": 1102,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "11373",
       "nazwa": "Władca pierścieni: Hełm Saurona",
       "rok": 2026,
       "elementy": 538,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "11374",
       "nazwa": "Automat do gry pinball",
       "rok": 2026,
       "elementy": 2274,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "11375",
       "nazwa": "Ferrari F2004 i Michael Schumacher",
       "rok": 2026,
       "elementy": 735,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "11376",
       "nazwa": "Ford Model T",
       "rok": 2026,
       "elementy": 1060,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "11377",
       "nazwa": "Władca pierścieni: Minas Tirith",
       "rok": 2026,
       "elementy": 8278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2799.99
     },
     {
       "numer": "11378",
       "nazwa": "Samolot pasażerski Douglas DC-3 PAN AM",
       "rok": 2026,
       "elementy": 1903,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "11380",
       "nazwa": "Rower szosowy",
       "rok": 2026,
       "elementy": 1015,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "11381",
       "nazwa": "Jaguar Type E",
       "rok": 2026,
       "elementy": 1673,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "11382",
       "nazwa": "Kosmiczny Teleskop Hubble'a",
       "rok": 2026,
       "elementy": 1552,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "11383",
       "nazwa": "Rezydencja burmistrzyni",
       "rok": 2026,
       "elementy": 1420,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "11384",
       "nazwa": "Szczeniak golden retriever",
       "rok": 2026,
       "elementy": 2102,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "11385",
       "nazwa": "Star Trek: Mostek U.S.S. Enterprise NCC-1701",
       "rok": 2026,
       "elementy": 1701,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
     },
     {
       "numer": "11386",
       "nazwa": "SpongeBob Kanciastoporty: Bikini Dolne",
       "rok": 2026,
       "elementy": 1794,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 899.99
     },
     {
       "numer": "11389",
       "nazwa": "Projekt Hail Mary",
       "rok": 2026,
       "elementy": 830,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "40891",
@@ -2256,7 +2270,8 @@
       "nazwa": "Zamek Hogwart",
       "rok": 2018,
       "elementy": 6020,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2049.99
     },
     {
       "numer": "75950",
@@ -2445,7 +2460,8 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2020,
       "elementy": 335,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "30392",
@@ -2641,14 +2657,16 @@
       "nazwa": "Ministerstwo Magii",
       "rok": 2022,
       "elementy": 990,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "76404",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2022,
       "elementy": 334,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76405",
@@ -2753,7 +2771,8 @@
       "nazwa": "Quidditch — kufer",
       "rok": 2023,
       "elementy": 599,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "76417",
@@ -2767,21 +2786,24 @@
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter",
       "rok": 2023,
       "elementy": 227,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "76419",
       "nazwa": "Zamek Hogwart i błonia",
       "rok": 2023,
       "elementy": 2660,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "76420",
       "nazwa": "Turniej Trójmagiczny: Jezioro Hogwartu",
       "rok": 2023,
       "elementy": 349,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "76421",
@@ -2844,14 +2866,16 @@
       "nazwa": "Latający Ford Anglia",
       "rok": 2024,
       "elementy": 165,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "76425",
       "nazwa": "Hedwiga z wizytą na ul. Privet Drive 4",
       "rok": 2024,
       "elementy": 337,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76426",
@@ -2879,7 +2903,8 @@
       "nazwa": "Mówiąca Tiara Przydziału",
       "rok": 2024,
       "elementy": 561,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76430",
@@ -2907,7 +2932,8 @@
       "nazwa": "Mandragora",
       "rok": 2024,
       "elementy": 579,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "76434",
@@ -2921,7 +2947,8 @@
       "nazwa": "Zamek Hogwart: Wielka Sala",
       "rok": 2024,
       "elementy": 1732,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "76437",
@@ -2942,14 +2969,16 @@
       "nazwa": "Sklepy Ollivandera i Madame Malkin",
       "rok": 2024,
       "elementy": 744,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "76440",
       "nazwa": "Turniej Trójmagiczny: Przybycie",
       "rok": 2024,
       "elementy": 1229,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 619.99
     },
     {
       "numer": "30706",
@@ -2977,42 +3006,48 @@
       "nazwa": "Zamek Hogwart: Klub pojedynków",
       "rok": 2025,
       "elementy": 158,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "76442",
       "nazwa": "Zamek Hogwart: Zajęcia z zaklęć i uroków",
       "rok": 2025,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "76443",
       "nazwa": "Przejażdżka motocyklowa Hagrida i Harry'ego",
       "rok": 2025,
       "elementy": 617,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "76444",
       "nazwa": "Magiczne sklepy na Ulicy Pokątnej",
       "rok": 2025,
       "elementy": 2750,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "76445",
       "nazwa": "Zamek Hogwart: zajęcia z zielarstwa",
       "rok": 2025,
       "elementy": 390,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76446",
       "nazwa": "Przygoda na pokładzie Błędnego Rycerza",
       "rok": 2025,
       "elementy": 499,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76447",
@@ -3026,56 +3061,64 @@
       "nazwa": "Fawkes: feniks Dumbledore'a",
       "rok": 2025,
       "elementy": 299,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "76449",
       "nazwa": "Potworna księga potworów z zębami",
       "rok": 2025,
       "elementy": 518,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "76450",
       "nazwa": "Book nook: Ekspres do Hogwartu",
       "rok": 2025,
       "elementy": 832,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76451",
       "nazwa": "Privet Drive: Wizyta ciotki Marge",
       "rok": 2025,
       "elementy": 639,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "76452",
       "nazwa": "Markowy sprzęt do quidditcha i lodziarnia",
       "rok": 2025,
       "elementy": 795,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "76453",
       "nazwa": "Dwór Malfoyów",
       "rok": 2025,
       "elementy": 1601,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "76454",
       "nazwa": "Zamek Hogwart: Główna wieża",
       "rok": 2025,
       "elementy": 2135,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "76456",
       "nazwa": "Kalendarz adwentowy LEGO Harry Potter 2025",
       "rok": 2025,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "76457",
@@ -3096,7 +3139,8 @@
       "nazwa": "Gabinet Dumbledore’a z Harrym Potterem",
       "rok": 2026,
       "elementy": 42,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40901",
@@ -3110,7 +3154,8 @@
       "nazwa": "Minizamek Hogwart",
       "rok": 2026,
       "elementy": 700,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "66820",
@@ -3124,119 +3169,136 @@
       "nazwa": "Ucieczka Hagrida i Harry'ego z Privet Drive",
       "rok": 2026,
       "elementy": 124,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "76460",
       "nazwa": "Zamek Hogwart: Ceremonia przydziału",
       "rok": 2026,
       "elementy": 124,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "76461",
       "nazwa": "Chochlik kornwalijski",
       "rok": 2026,
       "elementy": 320,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "76462",
       "nazwa": "Herb Hogwartu",
       "rok": 2026,
       "elementy": 545,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76463",
       "nazwa": "Zamek Hogwart: skrzydło szpitalne",
       "rok": 2026,
       "elementy": 907,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76464",
       "nazwa": "Kociołek: Sekretna sala zajęć z eliksirów",
       "rok": 2026,
       "elementy": 652,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "76466",
       "nazwa": "Kamień filozoficzny — edycja kolekcjonerska",
       "rok": 2026,
       "elementy": 1571,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 689.99
     },
     {
       "numer": "76467",
       "nazwa": "Dom Luny Lovegood",
       "rok": 2026,
       "elementy": 764,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76469",
       "nazwa": "Wolny skrzat Zgredek",
       "rok": 2026,
       "elementy": 379,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "76470",
       "nazwa": "Zaczarowany latający Ford Anglia",
       "rok": 2026,
       "elementy": 868,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "76471",
       "nazwa": "Magiczne sklepy na ulicy Śmiertelnego Nokturnu",
       "rok": 2026,
       "elementy": 788,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76473",
       "nazwa": "Zamek Hogwart: Wschodnie skrzydło",
       "rok": 2026,
       "elementy": 2164,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "76474",
       "nazwa": "Rośliny z lekcji zielarstwa w Hogwarcie",
       "rok": 2026,
       "elementy": 817,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "76475",
       "nazwa": "Zakazany Las: Expecto Patronum",
       "rok": 2026,
       "elementy": 244,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "76476",
       "nazwa": "Ministerstwo Magii — edycja kolekcjonerska",
       "rok": 2026,
       "elementy": 3491,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1849.99
     },
     {
       "numer": "76477",
       "nazwa": "Norbert: mały smok Hagrida",
       "rok": 2026,
       "elementy": 482,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76478",
       "nazwa": "Book nook: Gabinet Dumbledore'a",
       "rok": 2026,
       "elementy": 1182,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     }
   ],
   "Star Wars": [
@@ -26630,7 +26692,8 @@
       "nazwa": "Statek piracki",
       "rok": 2020,
       "elementy": 1264,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "11944",
@@ -27029,7 +27092,8 @@
       "nazwa": "Majestatyczny tygrys",
       "rok": 2022,
       "elementy": 755,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "31130",
@@ -27183,7 +27247,8 @@
       "nazwa": "Bałwan",
       "rok": 2023,
       "elementy": 78,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "31133",
@@ -27197,7 +27262,8 @@
       "nazwa": "Prom kosmiczny",
       "rok": 2023,
       "elementy": 144,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "31135",
@@ -27211,14 +27277,16 @@
       "nazwa": "3w1 Egzotyczna papuga",
       "rok": 2023,
       "elementy": 253,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "31137",
       "nazwa": "Urocze psiaki",
       "rok": 2023,
       "elementy": 475,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "31138",
@@ -27239,14 +27307,16 @@
       "nazwa": "3w1 Magiczny jednorożec",
       "rok": 2023,
       "elementy": 145,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "31141",
       "nazwa": "Główna ulica",
       "rok": 2023,
       "elementy": 1459,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "31142",
@@ -27288,7 +27358,8 @@
       "nazwa": "Botanicals Kwiaty Lotosu",
       "rok": 2023,
       "elementy": 220,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40650",
@@ -27337,63 +27408,72 @@
       "nazwa": "Przejażdżka saniami Świętego Mikołaja",
       "rok": 2024,
       "elementy": 73,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "31145",
       "nazwa": "Czerwony smok",
       "rok": 2024,
       "elementy": 149,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "31146",
       "nazwa": "Ciężarówka z platformą i helikopterem 3w1",
       "rok": 2024,
       "elementy": 270,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "31147",
       "nazwa": "Aparat w stylu retro",
       "rok": 2024,
       "elementy": 261,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "31148",
       "nazwa": "Wrotka w stylu retro",
       "rok": 2024,
       "elementy": 342,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "31149",
       "nazwa": "Kwiaty w konewce",
       "rok": 2024,
       "elementy": 420,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "31150",
       "nazwa": "Dzikie zwierzęta z safari",
       "rok": 2024,
       "elementy": 780,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "31151",
       "nazwa": "Tyranozaur",
       "rok": 2024,
       "elementy": 626,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "31152",
       "nazwa": "Astronauta",
       "rok": 2024,
       "elementy": 647,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "31153",
@@ -27470,7 +27550,8 @@
       "nazwa": "Botanicals Żonkile",
       "rok": 2024,
       "elementy": 216,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "66789",
@@ -27491,21 +27572,24 @@
       "nazwa": "Tropikalny tukan",
       "rok": 2025,
       "elementy": 59,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30689",
       "nazwa": "Urodzinowe zwierzaki",
       "rok": 2025,
       "elementy": 60,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30690",
       "nazwa": "Malowanie pisanek z kurczaczkiem",
       "rok": 2025,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30691",
@@ -27519,91 +27603,104 @@
       "nazwa": "Święty Mikołaj i świąteczny komin",
       "rok": 2025,
       "elementy": 60,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "31159",
       "nazwa": "3w1 Dzikie zwierzęta niezwykły pająk",
       "rok": 2025,
       "elementy": 153,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "31160",
       "nazwa": "Statek powietrzny: samolot wyścigowy",
       "rok": 2025,
       "elementy": 178,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "31161",
       "nazwa": "3w1 Średniowieczny smok",
       "rok": 2025,
       "elementy": 715,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "31162",
       "nazwa": "Uroczy króliczek",
       "rok": 2025,
       "elementy": 326,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "31163",
       "nazwa": "3w1 Psotny kot",
       "rok": 2025,
       "elementy": 407,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "31164",
       "nazwa": "Kosmiczny robot",
       "rok": 2025,
       "elementy": 281,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "31165",
       "nazwa": "3w1 Dzikie zwierzęta rodzina pand",
       "rok": 2025,
       "elementy": 626,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "31166",
       "nazwa": "3w1 Piękny koń, przebudowa na niedźwiedzia lub jelenia",
       "rok": 2025,
       "elementy": 685,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "31167",
       "nazwa": "3w1 Nawiedzona rezydencja, przebudowa na statek lub pociąg",
       "rok": 2025,
       "elementy": 736,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "31168",
       "nazwa": "3w1 Średniowieczny zamek rycerzy konnych, turniej lub miasto",
       "rok": 2025,
       "elementy": 1371,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "31169",
       "nazwa": "3w1 Maszyna do pisania z kwiatami",
       "rok": 2025,
       "elementy": 363,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "31170",
       "nazwa": "3w1 Dzikie zwierzęta różowy flaming",
       "rok": 2025,
       "elementy": 288,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "31171",
@@ -27624,14 +27721,16 @@
       "nazwa": "Dzikie zwierzęta Tropikalny tukan",
       "rok": 2025,
       "elementy": 225,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "31174",
       "nazwa": "3w1 Telefon w stylu retro, zabawka konstrukcyjna dla dzieci",
       "rok": 2025,
       "elementy": 383,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "31175",
@@ -27694,133 +27793,152 @@
       "nazwa": "Rudy kot",
       "rok": 2026,
       "elementy": 79,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30715",
       "nazwa": "Przyjęcie urodzinowe z uroczymi zwierzątkami",
       "rok": 2026,
       "elementy": 64,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30716",
       "nazwa": "Uroczy zajączek wielkanocny",
       "rok": 2026,
       "elementy": 66,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30717",
       "nazwa": "Śmieszny halloweenowy szkielet",
       "rok": 2026,
       "elementy": 71,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30718",
       "nazwa": "Śnieżna przygoda Cataclaws",
       "rok": 2026,
       "elementy": 70,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "31376",
       "nazwa": "Uroczy chomik z kwiatkiem",
       "rok": 2026,
       "elementy": 166,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "31377",
       "nazwa": "Żółw i kwiat lilii wodnej",
       "rok": 2026,
       "elementy": 124,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "31378",
       "nazwa": "Teleskop do odkrywania kosmosu",
       "rok": 2026,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "31379",
       "nazwa": "Dzikie zwierzęta groźny dinozaur",
       "rok": 2026,
       "elementy": 283,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "31380",
       "nazwa": "Konsola do gry retro",
       "rok": 2026,
       "elementy": 268,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "31381",
       "nazwa": "Groźny rekin i skrzynia ze skarbem",
       "rok": 2026,
       "elementy": 379,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "31382",
       "nazwa": "Urocze zwierzątka: psotny szczeniaczek",
       "rok": 2026,
       "elementy": 336,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "31383",
       "nazwa": "3w1 Flakon perfum z kwiatową ozdobą",
       "rok": 2026,
       "elementy": 286,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "31384",
       "nazwa": "Dzikie zwierzęta: kolorowy koliber",
       "rok": 2026,
       "elementy": 312,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "31385",
       "nazwa": "Zwierzęta morskie: piękny delfin",
       "rok": 2026,
       "elementy": 542,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "31386",
       "nazwa": "3w1 Dzikie zwierzęta: Dumny lew",
       "rok": 2026,
       "elementy": 839,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "31387",
       "nazwa": "3w1 Legendarny statek piracki",
       "rok": 2026,
       "elementy": 1074,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "31388",
       "nazwa": "Dzikie zwierzęta: Rodzina koali",
       "rok": 2026,
       "elementy": 1536,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "31389",
       "nazwa": "3w1 Kultowy diabelski młyn",
       "rok": 2026,
       "elementy": 916,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 389.99
     },
     {
       "numer": "31390",
