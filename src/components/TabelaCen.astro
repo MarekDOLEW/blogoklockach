@@ -8,8 +8,11 @@ import redirects from '../data/redirects.json';
 const { nr, oferty, cenaKatalogowa = null, dodajLego = false } = Astro.props;
 const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' zł';
 const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
-// link do LEGO.com generuje worker z samego numeru — nie wymaga wpisu w redirects
-const maLink = (sklep) => sklep === 'lego' || Boolean(redirects?.[sklep]?.[nr]);
+// link do LEGO.com generuje worker z samego numeru — nie wymaga wpisu w redirects;
+// x-kom tak samo (uniwersalny kod SalesMasters + wyszukiwarka), ale tylko dla
+// setów w sprzedaży — dla wycofanych wyszukiwarka x-kom bywa pusta
+const maLink = (sklep) =>
+  sklep === 'lego' || (sklep === 'xkom' && dodajLego) || Boolean(redirects?.[sklep]?.[nr]);
 
 const zLego = dodajLego && !oferty.some((o) => o.sklep === 'lego') && cenaKatalogowa
   ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]
