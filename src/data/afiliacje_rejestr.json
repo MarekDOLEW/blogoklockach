@@ -15,7 +15,7 @@
    "Performers": "aktywne (Media Expert)",
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "weryfikacja konta w toku",
-   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl) wyslany do przegladu 2026-08-16"
+   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl), ID 2103402418, typ Content, audience 500, status Waiting (utworzony 2026-08-16, przeglad do 24h). Konto na kontakt@tylkoklocki.pl."
   },
   "zasoby": {
    "adtraction_api": "https://apidocs.adtraction.net/v2/ - API Adtraction (deeplinki, feedy produktowe, statystyki). Po akceptacji kanalu wygenerowac token w panelu i uzyc do automatyzacji linkow Smyk/Egmont."
