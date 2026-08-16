@@ -16,6 +16,9 @@
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "weryfikacja konta w toku",
    "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl) wyslany do przegladu 2026-08-16"
+  },
+  "zasoby": {
+   "adtraction_api": "https://apidocs.adtraction.net/v2/ - API Adtraction (deeplinki, feedy produktowe, statystyki). Po akceptacji kanalu wygenerowac token w panelu i uzyc do automatyzacji linkow Smyk/Egmont."
   }
  },
  "planetaklockow": {
