@@ -123,7 +123,7 @@
   "status": "aktywny",
   "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
   "cookie_dni": null,
-  "format_linkow": "do uzupelnienia - potrzebny przykladowy link z panelu",
+  "format_linkow": "URL x-kom.pl/al.to + parametr sm=Y74rgdCO (przyklad: x-kom.pl/g-7/c/2073-klocki-lego.html?producent=629-lego&sm=Y74rgdCO). DO POTWIERDZENIA: czy kod sm jest uniwersalny dla kazdego URL, czy generowany per link w panelu.",
   "feed": null,
   "data": "2026-08-16",
   "uwagi": "Konto aktywne. Zasady SalesMasters: wyplata od 100 zl; gdy klient wejdzie z linku i kupi INNY produkt, jest polowa prowizji. Nastepny krok: przykladowy link partnerski z panelu -> wypelnimy redirects.json dla setow dostepnych w al.to."
