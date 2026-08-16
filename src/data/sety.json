@@ -6300,5 +6300,107 @@
     "data": "2026-08-15"
    }
   ]
+ },
+ "43024": {
+  "nazwa": "Kask Ayrton Senna",
+  "seria": "F1",
+  "cena_katalogowa": 379.99,
+  "elementy": 931,
+  "wiek": "14+",
+  "premiera": "2026-09",
+  "opis": "Kolekcjonerski kask Ayrtona Senny w charakterystycznej żółci z zielonymi akcentami, zbudowany z 931 elementów. Kolejna pozycja klockowej kolekcji kasków F1, w komplecie z minifigurką legendarnego Brazylijczyka. Wysyłka od 1 września 2026.",
+  "dla_rodzica": "Model wystawowy 14+, bardziej pamiątka niż zabawka — trafiony prezent dla nastolatka oglądającego wyścigi, ale po złożeniu zwykle ląduje na półce.",
+  "dla_afol": "0,41 zł/klocek w cenie katalogowej — dokładnie w normie tej kolekcji (kask Norrisa 43023 to 0,48 zł/klocek przy 379,99 zł i 793 elementach). Na starcie przedsprzedaży Allegro schodzi już do 312,90 zł, czyli 0,34 zł/klocek — to poziom, przy którym warto brać od razu.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 312.9,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "lego",
+    "cena": 379.99,
+    "data": "2026-08-16"
+   }
+  ]
+ },
+ "76787": {
+  "nazwa": "Plecak Wednesday",
+  "seria": "Wednesday",
+  "cena_katalogowa": 169.99,
+  "elementy": 401,
+  "wiek": "9+",
+  "premiera": "2026-10",
+  "opis": "Klockowy plecak Wednesday Addams, który po odchyleniu górnej części odsłania miniaturowy pokój w internacie Nevermore. W zestawie minifigurki Wednesday i Rączki oraz drobne akcesoria ze skrzypcami włącznie. Premiera 1 października 2026.",
+  "dla_rodzica": "Wiek 9+ i wyraźnie dekoracyjny charakter — to raczej ozdoba biurka i schowek na drobiazgi niż zestaw do codziennej zabawy. Warto sprawdzić, czy dziecko w ogóle zna serial, bo bez tego zestaw traci sens.",
+  "dla_afol": "0,42 zł/klocek — drogo jak na 401 elementów, ale to typowa cena za licencję Netflixa i format \"otwierana bryła\". Uzupełnienie do Akademii Nevermore (76788). Na razie tylko przedsprzedaż w cenie katalogowej, realne przeceny raczej po premierze.",
+  "oferty": [
+   {
+    "sklep": "lego",
+    "cena": 169.99,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "proshop",
+    "cena": 179.0,
+    "data": "2026-08-16"
+   }
+  ]
+ },
+ "75456": {
+  "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
+  "seria": "Star Wars",
+  "cena_katalogowa": 144.99,
+  "elementy": 293,
+  "wiek": "6+",
+  "premiera": "2026-09",
+  "opis": "Adwentowe odliczanie w klimacie Mandalorianina: 24 okienka z pięcioma minifigurkami (m.in. Mandalorianin, Grogu i Moff Gideon w świątecznych swetrach), siedmioma minimodelami pojazdów i figurkami stworzeń. Wysyłka od 1 września 2026.",
+  "dla_rodzica": "Najbezpieczniejszy grudniowy zakup dla dziecka od 6 lat — codzienna budowa zajmuje kilka minut i nie wymaga pomocy dorosłego. Kupuj wcześnie, bo w listopadzie kalendarze adwentowe potrafią zniknąć z półek.",
+  "dla_afol": "0,49 zł/klocek w katalogu, ale kalendarza nie kupuje się na wagę klocków — liczy się pięć ekskluzywnych minifigurek. Allegro ma go już po 119,90 zł (0,41 zł/klocek), czyli 17% poniżej katalogu jeszcze przed premierą.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 119.9,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "lego",
+    "cena": 144.99,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "proshop",
+    "cena": 159.0,
+    "data": "2026-08-16"
+   }
+  ]
+ },
+ "42698": {
+  "nazwa": "LEGO Friends Kalendarz adwentowy na 2026 rok",
+  "seria": "Friends",
+  "cena_katalogowa": 114.99,
+  "elementy": 211,
+  "wiek": "6+",
+  "premiera": "2026-09",
+  "opis": "Friendsowy kalendarz adwentowy na 2026 rok z trzema minilalkami (Nova, Liann, Aliya) i sześcioma zwierzakami — od foki po pingwina. Za okienkami zimowe akcesoria i drobne sceny: bitwa na śnieżki, lepienie bałwana, pieczenie pianek. Wysyłka od 1 września 2026.",
+  "dla_rodzica": "Wersja dla dziecka, które woli minilalki i historyjki od pojazdów. Najtańszy z tegorocznych kalendarzy LEGO — dobry wybór, gdy adwentowe odliczanie ma być dodatkiem, a nie głównym prezentem.",
+  "dla_afol": "0,54 zł/klocek to najsłabszy wynik wśród tegorocznych kalendarzy (SW 75456 — 0,49, City 60510 — 0,46), ale wartość siedzi w minilalkach. Allegro startuje od 95,00 zł, czyli 17% poniżej katalogu.",
+  "oferty": [
+   {
+    "sklep": "allegro",
+    "cena": 95.0,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "lego",
+    "cena": 114.99,
+    "data": "2026-08-16"
+   },
+   {
+    "sklep": "proshop",
+    "cena": 129.0,
+    "data": "2026-08-16"
+   }
+  ]
  }
 }

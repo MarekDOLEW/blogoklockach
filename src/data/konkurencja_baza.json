@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
+    "ostatnia_aktualizacja": "2026-08-16",
+    "przebieg": "scheduled 2026-08-16",
+    "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
+    "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl"],
+    "liczba_wpisow": 10
+  },
+  "publikacje": [
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: ICONS",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-icons/",
+      "data_publikacji": "2026-08-12",
+      "data_aktualizacji": "2026-08-15",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Konkretne dane: 11391 Wieza zegarowa (3264 el., ~1100 zl, I 2027), 11392 Diuna Czerw Pustyni (1839 el., ~560 zl), 11395 LOTR Oliphaunt (2017 el., ~950 zl), LOTR Helmowy Jar (6000+ el., ~2500 zl, lato 2027). Brak linkow sklepowych, brak ceny za klocek."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Dragon Ball",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-dragon-ball/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Temat duplikowany rownolegle przez faniklockow.pl tego samego dnia."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO 2027: Star Wars",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-2027-star-wars/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Star Wars = najwyzszy wolumen wyszukiwan zakupowych z calej serii zapowiedzi."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Nowy LEGO Store powstanie w Szczecinie! Znamy date!",
+      "url": "https://fanklockow.pl/nowy-lego-store-powstanie-w-szczecinie/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "News lokalny, zerowy potencjal afiliacyjny."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Kalendarz klockowych eventow w Polsce - 2026 rok",
+      "url": "https://faniklockow.pl/2026/08/15/kalendarz-klockowych-eventow-w-polsce-2026-rok/",
+      "data_publikacji": "2026-08-15",
+      "data_wykrycia": "2026-08-16",
+      "typ": "poradnik",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": ["afiliacja ogolna"],
+      "notatki": "Evergreen SEO, kalendarze miesieczne, 20+ eventow archiwalnych. Niski potencjal afiliacyjny, wysoki koszt utrzymania."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi zestawow okazjonalnych/specjalnych na 2026 rok",
+      "url": "https://faniklockow.pl/2026/08/12/zapowiedzi-zestawow-okazjonalnych-specjalnych-na-2026-rok/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Zestawy sezonowe - do obserwacji pod kat Q4."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Jakie gratisy pojawia sie w sklepach LEGO w 2026 roku? Oto aktualizowana lista promocji",
+      "url": "https://faniklockow.pl/2026/08/12/jakie-gratisy-pojawia-sie-w-sklepach-lego-w-2026-roku-oto-aktualizowana-lista-promocji/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": ["LEGO.com"],
+      "notatki": "KLUCZOWE: gratis 40908 World Restaurants Greece (prog 745 zl, 11-20.08.2026), 40901 Ministry Snacks and Stalls (prog 525 zl HP, 29.08-06.09), 501172 Ministry of Magic Phone Booth (do 76476, 29.08-06.09). Format narracyjny, BEZ tabeli. Linkuja WYLACZNIE LEGO.com."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Dragon Ball na 2027 rok",
+      "url": "https://faniklockow.pl/2026/08/12/zapowiedzi-serii-lego-dragon-ball-na-2027-rok/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Duplikat tematu z fanklockow.pl."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Botanicals na 2027 rok",
+      "url": "https://faniklockow.pl/2026/08/12/zapowiedzi-serii-lego-botanicals-na-2027-rok/",
+      "data_publikacji": "2026-08-12",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "LUKA",
+      "sklepy_linkowane": [],
+      "notatki": "Botanicals = najlepszy prezentownik dla kobiet/nie-fanow. Nikt nie ujal tego w formacie prezentowym."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Wycofania zestawow LEGO na koniec 2026 roku. Co w tym roku zniknie z rynku? Pelna lista!",
+      "url": "https://faniklockow.pl/2026/08/11/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "data_publikacji": "2026-08-11",
+      "data_wykrycia": "2026-08-16",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": ["afiliacja ogolna"],
+      "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze."
+    }
+  ],
+  "obserwacje_strategiczne": {
+    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych').",
+    "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord, BRAK linkow sklepowych w tresci - slaby punkt do wykorzystania.",
+    "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja, ale WYLACZNIE LEGO.com - zero porownania sklepow.",
+    "wspolna_slabosc": "Zaden z trzech serwisow nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji."
+  }
+}

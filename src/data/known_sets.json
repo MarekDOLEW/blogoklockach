@@ -1,7 +1,7 @@
 {
- "data_aktualizacji": "2026-08-15",
- "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (known_sets.json z plikow Cowork niedostepny w sesji cyklicznej)",
- "liczba_setow": 223,
+ "data_aktualizacji": "2026-08-16",
+ "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
+ "liczba_setow": 227,
  "sety": [
   "10300",
   "10316",
@@ -100,6 +100,7 @@
   "42693",
   "42694",
   "42697",
+  "42698",
   "42700",
   "42701",
   "42702",
@@ -109,6 +110,7 @@
   "43017",
   "43018",
   "43023",
+  "43024",
   "43026",
   "43028",
   "43029",
@@ -174,6 +176,7 @@
   "75453",
   "75454",
   "75455",
+  "75456",
   "75458",
   "75459",
   "75461",
@@ -205,6 +208,7 @@
   "76476",
   "76477",
   "76478",
+  "76787",
   "76788",
   "77059",
   "77079",
@@ -231,18 +235,28 @@
   {
    "numer": "76355",
    "nazwa": "Batmobil z Batman Returns",
-   "status": "przeciek/teaser, brak oficjalnej karty PL",
+   "status": "nadal przeciek — 2272 elementy, ok. 219,99 USD, brak karty PL",
    "premiera": "2026-09-01"
   },
   {
    "numer": "854332",
    "nazwa": "Breloczek z Redem",
-   "status": "wkrotce w LEGO.com PL, 24,99 zl"
+   "status": "wkrotce w LEGO.com PL, 24,99 zl (merch, brak liczby elementow)"
   },
   {
    "numer": "5010259",
    "nazwa": "Czapka Nike x LEGO (merch)",
    "status": "wkrotce w LEGO.com PL, 159,99 zl"
+  },
+  {
+   "numer": "5010260",
+   "nazwa": "Torba Nike x LEGO Shoebox Bag (merch)",
+   "status": "NOWE — wkrotce w LEGO.com PL, 219,99 zl"
+  },
+  {
+   "numer": "5010261",
+   "nazwa": "Saszetka Nike x LEGO Waistpack (merch)",
+   "status": "NOWE — wkrotce w LEGO.com PL, 149,99 zl"
   },
   {
    "numer": "40857",
@@ -259,5 +273,16 @@
    "nazwa": "nieujawniony Pokemon",
    "status": "numer bez danych"
   }
- ]
+ ],
+ "luki_w_bazie": {
+  "opis": "Sety 2026 obecne w zrodlach, ale nieopisane w sety.json — do nadrobienia w sesji ad hoc, nie sa nowosciami tego przebiegu",
+  "numery": [
+   "10463",
+   "10470",
+   "10476",
+   "43020",
+   "71859",
+   "77256"
+  ]
+ }
 }
