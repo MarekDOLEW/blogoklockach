@@ -25,14 +25,28 @@ const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - r
 const dealDnia = zRabatem.find((s) => KOLEKCJONERSKIE.has(s.seria) && s.foto) ?? null;
 const ofertaDnia = dealDnia && najtanszaOferta(dealDnia);
 
-// ── „Dziś w dobrej cenie": 16 kart (4×4), co najmniej połowa z serii kolekcjonerskich ──
+// ── „Dziś w dobrej cenie": do 12 setów kolekcjonerskich + po ≤10 z 12 losowych serii ──
+// Losowanie serii z ziarnem z daty — skład stały w ciągu dnia, zmienia się między dniami
+// (build odpala się przy każdym pushu danych, bez ziarna skład skakałby co deploy).
+const ziarno = Number(new Date().toISOString().slice(0, 10).replaceAll('-', ''));
+const los = (() => { let a = ziarno; return () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; })();
+
 const pula = zRabatem.filter((s) => s.nr !== dealDnia?.nr);
-const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 8);
-const wybraneNr = new Set(kolekcjonerskie.map((s) => s.nr));
-const dobreCeny = [...kolekcjonerskie, ...pula.filter((s) => !wybraneNr.has(s.nr))]
-  .slice(0, 16)
-  .sort((a, b) => rabat(b) - rabat(a));
-const serieWSiatce = [...new Set(dobreCeny.map((s) => s.seria))];
+const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 12);
+
+const serieInne = [...new Set(pula.filter((s) => !KOLEKCJONERSKIE.has(s.seria)).map((s) => s.seria))]
+  .map((seria) => ({ seria, klucz: los() }))
+  .sort((a, b) => a.klucz - b.klucz)
+  .slice(0, 12)
+  .map((x) => x.seria);
+const zSerii = serieInne.flatMap((seria) =>
+  pula.filter((s) => s.seria === seria).sort((a, b) => rabat(b) - rabat(a)).slice(0, 10),
+);
+
+const dobreCeny = [...kolekcjonerskie, ...zSerii].sort((a, b) => rabat(b) - rabat(a));
+// chipy: serie kolekcjonerskie najpierw, potem reszta alfabetycznie
+const serieWSiatce = [...new Set(dobreCeny.map((s) => s.seria))]
+  .sort((a, b) => (KOLEKCJONERSKIE.has(b) ? 1 : 0) - (KOLEKCJONERSKIE.has(a) ? 1 : 0) || a.localeCompare(b, 'pl'));
 
 // ── Top 10 wycofań wartych upolowania ──
 const feedSety = ofertyFeed?.sety ?? {};
@@ -111,7 +125,7 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
       <span class="studs studs--granat" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
       <h2>Dziś w dobrej cenie</h2>
     </div>
-    <p>Najlepsze dzisiejsze rabaty od cen katalogowych.</p>
+    <p>Najlepsze dzisiejsze rabaty od cen katalogowych. Skład serii losujemy codziennie.</p>
     <div class="chipy" role="group" aria-label="Filtruj po serii">
       <button type="button" class="chip chip--aktywny" data-chip="">Wszystkie</button>
       {serieWSiatce.map((s) => (
@@ -133,6 +147,11 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
         </a>
       ))}
     </div>
+    <nav class="paginacja" aria-label="Kolejne strony dobrych cen" hidden>
+      <button type="button" class="pg-przycisk" data-pg="wstecz">‹ Poprzednie</button>
+      <span class="pg-licznik" aria-live="polite"></span>
+      <button type="button" class="pg-przycisk" data-pg="dalej">Następne ›</button>
+    </nav>
   </section>
 
   <section class="sekcja" aria-label="Najciekawsze wycofania">
@@ -176,12 +195,47 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
 </Base>
 
 <script>
-  // filtr chipów serii — czysto kliencki, karty są w HTML (SEO)
+  // Filtr chipów + stronicowanie — czysto klienckie, wszystkie karty są w HTML (SEO).
+  // Widok „Wszystkie" stronicuje po 12 (3 rzędy × 4); pojedyncza seria ma ≤12 kart,
+  // więc mieści się bez stronicowania.
+  const NA_STRONE = 12;
   const chipy = [...document.querySelectorAll('.chip')];
   const karty = [...document.querySelectorAll('.set-karta--mini')];
+  const $pag = document.querySelector('.paginacja');
+  const $licznik = document.querySelector('.pg-licznik');
+  let seria = '';
+  let strona = 0;
+
+  function rysuj() {
+    const widoczne = seria ? karty.filter((k) => k.dataset.seria === seria) : karty;
+    const stron = Math.max(1, Math.ceil(widoczne.length / NA_STRONE));
+    strona = Math.min(strona, stron - 1);
+    const od = seria ? 0 : strona * NA_STRONE;
+    const doIdx = seria ? widoczne.length : od + NA_STRONE;
+    karty.forEach((k) => { k.hidden = true; });
+    widoczne.slice(od, doIdx).forEach((k) => { k.hidden = false; });
+
+    const pokazPag = !seria && stron > 1;
+    $pag.hidden = !pokazPag;
+    if (pokazPag) {
+      $licznik.textContent = `${strona + 1} / ${stron}`;
+      $pag.querySelector('[data-pg="wstecz"]').disabled = strona === 0;
+      $pag.querySelector('[data-pg="dalej"]').disabled = strona === stron - 1;
+    }
+  }
+
   chipy.forEach((ch) => ch.addEventListener('click', () => {
     chipy.forEach((c) => c.classList.toggle('chip--aktywny', c === ch));
-    const seria = ch.dataset.chip;
-    karty.forEach((k) => { k.hidden = Boolean(seria) && k.dataset.seria !== seria; });
+    seria = ch.dataset.chip;
+    strona = 0;
+    rysuj();
   }));
+  $pag.addEventListener('click', (e) => {
+    const b = e.target.closest('.pg-przycisk');
+    if (!b || b.disabled) return;
+    strona += b.dataset.pg === 'dalej' ? 1 : -1;
+    rysuj();
+    document.querySelector('.chipy').scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  });
+  rysuj();
 </script>

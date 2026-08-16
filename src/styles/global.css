@@ -176,6 +176,12 @@ a { color: inherit; }
 .set-karta--mini .cena-linia .cena { font-size: 1.02rem; }
 .badge-rabat-mini { background: var(--czerwien); color: #fff; font-weight: 700; font-size: 0.78rem; padding: 2px 8px; border-radius: 6px; margin-left: auto; }
 
+.paginacja { display: flex; align-items: center; justify-content: center; gap: 16px; margin: 6px 0 4px; }
+.pg-przycisk { font: inherit; font-size: 0.88rem; font-weight: 600; padding: 8px 16px; border: 1.5px solid var(--linia); border-radius: 8px; background: var(--karta); color: var(--granat); cursor: pointer; }
+.pg-przycisk:hover:not(:disabled) { border-color: var(--granat-60); }
+.pg-przycisk:disabled { opacity: 0.4; cursor: default; }
+.pg-licznik { font-size: 0.88rem; color: var(--granat-60); font-variant-numeric: tabular-nums; }
+
 .zajawki { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
 .zajawka { padding: 18px; display: flex; flex-direction: column; gap: 6px; text-decoration: none; transition: transform 0.12s ease, box-shadow 0.12s ease; }
 .zajawka:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(23,35,63,0.12); }
