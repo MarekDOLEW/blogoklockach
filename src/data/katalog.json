@@ -26,7 +26,21 @@
       "brickset.com (audyt: Star Wars, BrickHeadz, Harry Potter, Speed Champions, Icons, Ideas)"
     ],
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
-    "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15."
+    "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
+    "backfill_cen": {
+      "data": "2026-08-16",
+      "uzupelnione_lacznie": 132,
+      "ostatnie_serie": [
+        "Botanicals",
+        "BrickHeadz",
+        "Classic",
+        "Ideas",
+        "Jurassic World",
+        "Minecraft",
+        "Speed Champions",
+        "Super Mario"
+      ]
+    }
   },
   "Ideas": [
     {
@@ -314,7 +328,8 @@
       "nazwa": "Kevin sam w domu",
       "rok": 2021,
       "elementy": 3955,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "40448",
@@ -405,7 +420,8 @@
       "nazwa": "BTS Dynamite",
       "rok": 2023,
       "elementy": 749,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "21340",
@@ -440,7 +456,8 @@
       "nazwa": "Orient Express",
       "rok": 2023,
       "elementy": 2540,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "40595",
@@ -454,7 +471,8 @@
       "nazwa": "Aparat Polaroid OneStep SX-70",
       "rok": 2024,
       "elementy": 516,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "21346",
@@ -468,7 +486,8 @@
       "nazwa": "Czerwona londyńska budka telefoniczna",
       "rok": 2024,
       "elementy": 1460,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "21348",
@@ -524,7 +543,8 @@
       "nazwa": "Zmierzch - dom Cullenów",
       "rok": 2025,
       "elementy": 2001,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "21355",
@@ -538,14 +558,16 @@
       "nazwa": "Parowiec rzeczny",
       "rok": 2025,
       "elementy": 4090,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1399.99
     },
     {
       "numer": "21357",
       "nazwa": "Disney Pixar Luxo Jr.",
       "rok": 2025,
       "elementy": 613,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "21358",
@@ -573,14 +595,16 @@
       "nazwa": "Gremliny rozrabiają: Gizmo",
       "rok": 2025,
       "elementy": 1125,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "21362",
       "nazwa": "Kolekcja minerałów",
       "rok": 2025,
       "elementy": 880,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "21363",
@@ -622,76 +646,87 @@
       "nazwa": "Papużki nierozłączki",
       "rok": 2026,
       "elementy": 750,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "21366",
       "nazwa": "Pływające wydry",
       "rok": 2026,
       "elementy": 1234,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "21367",
       "nazwa": "Tintin i rakieta na Księżyc",
       "rok": 2026,
       "elementy": 1283,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 689.99
     },
     {
       "numer": "21368",
       "nazwa": "Fistaszki: Buda Snoopy’ego",
       "rok": 2026,
       "elementy": 964,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "21369",
       "nazwa": "The X-Files",
       "rok": 2026,
       "elementy": 1478,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "21370",
       "nazwa": "E.T. the Extra-Terrestrial",
       "rok": 2026,
       "elementy": 1226,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "21371",
       "nazwa": "Wallace & Gromit",
       "rok": 2026,
       "elementy": 1038,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "21372",
       "nazwa": "La Catrina",
       "rok": 2026,
       "elementy": 1212,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "21375",
       "nazwa": "Godzilla",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "21376",
       "nazwa": "Rudy kot",
       "rok": 2026,
       "elementy": 1755,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "40896",
       "nazwa": "The X-Files: Laboratorium Scully",
       "rok": 2026,
       "elementy": 221,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40912",
@@ -11538,105 +11573,120 @@
       "nazwa": "The Mandalorian and Grogu: Sojusznicy i złoczyńcy",
       "rok": 2026,
       "elementy": 661,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40858",
       "nazwa": "Figurka SpongeBoba Kanciastoportego",
       "rok": 2026,
       "elementy": 72,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40859",
       "nazwa": "Figurki Supermana i Batmana ze Złotej Ery",
       "rok": 2026,
       "elementy": 218,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40860",
       "nazwa": "Toy Story",
       "rok": 2026,
       "elementy": 528,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "40861",
       "nazwa": "Figurki Sulley'ego, Mike'a i Boo",
       "rok": 2026,
       "elementy": 303,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "40878",
       "nazwa": "Figurki Wojowniczych żółwi ninja",
       "rok": 2026,
       "elementy": 567,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "40879",
       "nazwa": "Figurki Jedenastki, Max, Demogorgona i Holly",
       "rok": 2026,
       "elementy": 584,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "40880",
       "nazwa": "Avengers: Doomsday Bohaterowie i złoczyńca",
       "rok": 2026,
       "elementy": 467,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40881",
       "nazwa": "Lama Zaopatrzeniowa i Palucha Rybnego — figurki",
       "rok": 2026,
       "elementy": 300,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "40910",
       "nazwa": "Mistrz Rzucania Mięsem i Podniebna - figurki",
       "rok": 2026,
       "elementy": 288,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40919",
       "nazwa": "Figurki gremlinów: Gizmo i Stripe",
       "rok": 2026,
       "elementy": 230,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40922",
       "nazwa": "Lilo i Stitch: Andzia",
       "rok": 2026,
       "elementy": 133,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40923",
       "nazwa": "Figurki Shreka, Osła i Ciastka",
       "rok": 2026,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "40924",
       "nazwa": "Megatron jako robot i pojazd",
       "rok": 2026,
       "elementy": 224,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "40925",
       "nazwa": "Alicja w Krainie Czarów",
       "rok": 2026,
       "elementy": 601,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     }
   ],
   "Speed Champions": [
@@ -12212,56 +12262,64 @@
       "nazwa": "Bolid F1 Mercedes-AMG W15",
       "rok": 2025,
       "elementy": 267,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77245",
       "nazwa": "Bolid F1 Aston Martin Aramco AMR24",
       "rok": 2025,
       "elementy": 269,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77246",
       "nazwa": "Bolid F1 Visa Cash App RB VCARB 01",
       "rok": 2025,
       "elementy": 248,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "77247",
       "nazwa": "Bolid F1 KICK Sauber Team C44",
       "rok": 2025,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "77248",
       "nazwa": "Bolid F1 BWT Alpine Team A524",
       "rok": 2025,
       "elementy": 258,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77249",
       "nazwa": "Bolid F1 Williams Racing FW46",
       "rok": 2025,
       "elementy": 263,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "77250",
       "nazwa": "Bolid F1 MoneyGram Haas Team VF-24",
       "rok": 2025,
       "elementy": 242,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77251",
       "nazwa": "Bolid F1 McLaren Team MCL38",
       "rok": 2025,
       "elementy": 269,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "30734",
@@ -50834,14 +50892,16 @@
       "nazwa": "Pustynna wyprawa Steve'a",
       "rok": 2024,
       "elementy": 75,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "21252",
       "nazwa": "Zbrojownia",
       "rok": 2024,
       "elementy": 203,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "21253",
@@ -50855,7 +50915,8 @@
       "nazwa": "Domek na plaży żółwi",
       "rok": 2024,
       "elementy": 234,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "21255",
@@ -50869,7 +50930,8 @@
       "nazwa": "Żabi domek",
       "rok": 2024,
       "elementy": 400,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "21257",
@@ -50890,7 +50952,8 @@
       "nazwa": "Wiśniowy ogród",
       "rok": 2024,
       "elementy": 304,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "21261",
@@ -50939,7 +51002,8 @@
       "nazwa": "Steve i mała panda",
       "rok": 2024,
       "elementy": 35,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "6527190",
@@ -51058,35 +51122,40 @@
       "nazwa": "Bitwa na moście Netheru",
       "rok": 2025,
       "elementy": 99,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 44.99
     },
     {
       "numer": "21267",
       "nazwa": "Pustynny patrol złosadników",
       "rok": 2025,
       "elementy": 105,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "21268",
       "nazwa": "Dom prosiaczka",
       "rok": 2025,
       "elementy": 238,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "21269",
       "nazwa": "Wyprawa do pancernikowej kopalni",
       "rok": 2025,
       "elementy": 247,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "21270",
       "nazwa": "Dom grzybowej krowy",
       "rok": 2025,
       "elementy": 500,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "21271",
@@ -51100,63 +51169,72 @@
       "nazwa": "Ring w Leśnym dworze",
       "rok": 2025,
       "elementy": 491,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "21273",
       "nazwa": "Atak balonowego Ghasta na wioskę",
       "rok": 2025,
       "elementy": 555,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "21274",
       "nazwa": "Spotkanie ze strażnikiem",
       "rok": 2025,
       "elementy": 238,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "21275",
       "nazwa": "Dom TNT w dżungli",
       "rok": 2025,
       "elementy": 287,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "21276",
       "nazwa": "Creeper",
       "rok": 2025,
       "elementy": 665,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "21277",
       "nazwa": "Kilofowa kopalnia",
       "rok": 2025,
       "elementy": 530,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "21278",
       "nazwa": "Kryjówka rozbójników i dewastatorów",
       "rok": 2025,
       "elementy": 665,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "21279",
       "nazwa": "Wieża Endermana",
       "rok": 2025,
       "elementy": 867,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "21280",
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 300,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "21282",
@@ -51170,7 +51248,8 @@
       "nazwa": "Walka w bujnej jaskini",
       "rok": 2025,
       "elementy": 40,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "472506",
@@ -51310,7 +51389,8 @@
       "nazwa": "Farma kurczaków",
       "rok": 2026,
       "elementy": 233,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "21586",
@@ -51338,7 +51418,8 @@
       "nazwa": "Minibiomy",
       "rok": 2026,
       "elementy": 797,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "21590",
@@ -52109,21 +52190,24 @@
       "nazwa": "Przygody z interaktywną figurką Luigi",
       "rok": 2024,
       "elementy": 210,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "71441",
       "nazwa": "Przygody z interaktywną figurką Peach",
       "rok": 2024,
       "elementy": 208,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "30702",
       "nazwa": "Mario Kart - Toad (Pit Crew)",
       "rok": 2025,
       "elementy": 39,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40787",
@@ -52137,14 +52221,16 @@
       "nazwa": "Mario Kart - Yoshi Bike",
       "rok": 2025,
       "elementy": 133,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "72032",
       "nazwa": "Mario Kart - Standard Kart",
       "rok": 2025,
       "elementy": 174,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "72033",
@@ -52158,70 +52244,80 @@
       "nazwa": "Mario kart - baby Mario kontra baby Luigi",
       "rok": 2025,
       "elementy": 321,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "72035",
       "nazwa": "Mario kart - Toad i jego garaż",
       "rok": 2025,
       "elementy": 390,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "72036",
       "nazwa": "Mario kart - zestaw baby Peach i Grand Prix",
       "rok": 2025,
       "elementy": 823,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "72037",
       "nazwa": "Mario Kart: Mario i Standard Kart",
       "rok": 2025,
       "elementy": 1972,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "72038",
       "nazwa": "Mario Kart - Wario i King Boo",
       "rok": 2025,
       "elementy": 512,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "72039",
       "nazwa": "Mario Kart - Bowser i jego zamek",
       "rok": 2025,
       "elementy": 1068,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "72040",
       "nazwa": "Captain Toad i obóz",
       "rok": 2025,
       "elementy": 159,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "72041",
       "nazwa": "Toad i domówka",
       "rok": 2025,
       "elementy": 276,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "72042",
       "nazwa": "Prince Florian i Castle Bowser",
       "rok": 2025,
       "elementy": 1251,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "72043",
       "nazwa": "Mario Kart - Interaktywna figurka Mario i Standard Kart",
       "rok": 2025,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "72044",
@@ -52242,21 +52338,24 @@
       "nazwa": "Game Boy",
       "rok": 2025,
       "elementy": 421,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "72050",
       "nazwa": "Mario Kart - Luigi i Mach 8",
       "rok": 2026,
       "elementy": 2234,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "72051",
       "nazwa": "Automat do gry Donkey Kong",
       "rok": 2026,
       "elementy": 1367,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     }
   ],
   "Jurassic World": [
@@ -52692,7 +52791,8 @@
       "nazwa": "Pościg za pteranodonem",
       "rok": 2022,
       "elementy": 94,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76944",
@@ -52853,7 +52953,8 @@
       "nazwa": "Ucieczka welociraptora",
       "rok": 2023,
       "elementy": 137,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76958",
@@ -53028,7 +53129,8 @@
       "nazwa": "Tyranozaur Mały",
       "rok": 2025,
       "elementy": 317,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "76968",
@@ -53042,49 +53144,56 @@
       "nazwa": "Szkielety dinozaurów: czaszka triceratopsa",
       "rok": 2025,
       "elementy": 468,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "76970",
       "nazwa": "Mały dinozaur Dolores: aquilops",
       "rok": 2025,
       "elementy": 339,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "76972",
       "nazwa": "Ucieczka terenówką przed raptorem",
       "rok": 2025,
       "elementy": 285,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "76973",
       "nazwa": "Na tropie tytanozaura i raptora",
       "rok": 2025,
       "elementy": 582,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "76974",
       "nazwa": "Misja na łodzi i model mozazaura",
       "rok": 2025,
       "elementy": 858,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "76975",
       "nazwa": "Ucieczka rzeką przed tyranozaurem",
       "rok": 2025,
       "elementy": 199,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "76976",
       "nazwa": "Powietrzna misja z kecalkoatlem i spinozaurem",
       "rok": 2025,
       "elementy": 984,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "122506",
@@ -53111,56 +53220,64 @@
       "numer": "40895",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "77977",
       "nazwa": "Mały dinozaur: Pteranodon",
       "rok": 2026,
       "elementy": 373,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "77978",
       "nazwa": "Ciężarówka do transportu młodego tyranozaura",
       "rok": 2026,
       "elementy": 115,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "77981",
       "nazwa": "Welociraptor, stegozaur i pteranodon - Centrum ratunkowe",
       "rok": 2026,
       "elementy": 171,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "77982",
       "nazwa": "Ucieczka spinozaura",
       "rok": 2026,
       "elementy": 820,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "77983",
       "nazwa": "Atak mozazaura na łódź",
       "rok": 2026,
       "elementy": 703,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "77984",
       "nazwa": "Jurassic Park Jeep Wrangler",
       "rok": 2026,
       "elementy": 1924,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "77985",
       "nazwa": "Szkielety dinozaurów: triceratops",
       "rok": 2026,
       "elementy": 1154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "951351",
@@ -53203,7 +53320,8 @@
       "nazwa": "Kreatywne klocki pudełko średni zestaw",
       "rok": 2015,
       "elementy": 484,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "10697",
@@ -53217,7 +53335,8 @@
       "nazwa": "Kreatywne klocki",
       "rok": 2015,
       "elementy": 790,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10699",
@@ -53357,7 +53476,8 @@
       "nazwa": "Kreatywna walizka",
       "rok": 2018,
       "elementy": 213,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10714",
@@ -53574,28 +53694,32 @@
       "nazwa": "Zielona płytka konstrukcyjna",
       "rok": 2022,
       "elementy": 1,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 36.99
     },
     {
       "numer": "11024",
       "nazwa": "Szara płytka konstrukcyjna",
       "rok": 2022,
       "elementy": 1,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "11025",
       "nazwa": "Niebieska płytka konstrukcyjna",
       "rok": 2022,
       "elementy": 1,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 36.99
     },
     {
       "numer": "11026",
       "nazwa": "Biała płytka konstrukcyjna",
       "rok": 2022,
       "elementy": 1,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 36.99
     },
     {
       "numer": "30510",
@@ -53665,7 +53789,8 @@
       "nazwa": "Kreatywne zwierzątka",
       "rok": 2024,
       "elementy": 450,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "11035",
@@ -53679,7 +53804,8 @@
       "nazwa": "Kreatywne pojazdy",
       "rok": 2024,
       "elementy": 900,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "11037",
@@ -53700,21 +53826,24 @@
       "nazwa": "Kreatywne smakołyki",
       "rok": 2025,
       "elementy": 150,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "11040",
       "nazwa": "Magiczny zestaw z przezroczystymi klockami",
       "rok": 2025,
       "elementy": 340,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "11041",
       "nazwa": "Kreatywne dinozaury",
       "rok": 2025,
       "elementy": 450,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "11042",
@@ -53742,7 +53871,8 @@
       "nazwa": "Kreatywne kolorowe klocki",
       "rok": 2026,
       "elementy": 820,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     }
   ],
   "Botanicals": [
@@ -53751,42 +53881,48 @@
       "nazwa": "Róże",
       "rok": 2021,
       "elementy": 120,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40524",
       "nazwa": "Słoneczniki",
       "rok": 2022,
       "elementy": 191,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "40725",
       "nazwa": "Kwiaty wiśni",
       "rok": 2024,
       "elementy": 438,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "10342",
       "nazwa": "Piękny bukiet różowych kwiatów",
       "rok": 2025,
       "elementy": 749,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10343",
       "nazwa": "Mała orchidea",
       "rok": 2025,
       "elementy": 274,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10344",
       "nazwa": "Dracena sandera",
       "rok": 2025,
       "elementy": 325,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10345",
@@ -53800,28 +53936,32 @@
       "nazwa": "Mały słoneczny bukiet",
       "rok": 2025,
       "elementy": 373,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10348",
       "nazwa": "Klon palmowy bonsai",
       "rok": 2025,
       "elementy": 474,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10349",
       "nazwa": "Wesołe roślinki",
       "rok": 2025,
       "elementy": 217,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "10372",
       "nazwa": "Hibiskus",
       "rok": 2025,
       "elementy": 660,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10373",
@@ -53835,14 +53975,16 @@
       "nazwa": "Bukiet różowych róż",
       "rok": 2025,
       "elementy": 789,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "30701",
       "nazwa": "Kwiaty polne",
       "rok": 2025,
       "elementy": 77,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40762",
@@ -53863,21 +54005,24 @@
       "nazwa": "Bukiet tulipanów",
       "rok": 2026,
       "elementy": 576,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "11502",
       "nazwa": "Bukiet słoneczników",
       "rok": 2026,
       "elementy": 686,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "11503",
       "nazwa": "Kwiatowa ścianka",
       "rok": 2026,
       "elementy": 879,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "11504",
@@ -53961,7 +54106,8 @@
       "nazwa": "Kwiatowa ramka na zdjęcia",
       "rok": 2026,
       "elementy": 310,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "6614216",
