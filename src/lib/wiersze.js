@@ -25,7 +25,7 @@ export function wierszWycofania(w, { sety = {}, feed = {} } = {}) {
     seria: w.seria,
     rok: rokSetu(w.numer),
     elementy: w.elementy,
-    zdjecie: w.zdjecie ?? urlZdjecia(w.numer, { sety, feed }),
+    zdjecie: urlZdjecia(w.numer, { sety, feed }),
     hub: maHub(w.numer),
     status: w.status === 'potwierdzone' ? 'potwierdzone' : 'przewidywane',
     kiedy: w.kiedy,

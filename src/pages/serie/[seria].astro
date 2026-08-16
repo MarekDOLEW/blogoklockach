@@ -55,8 +55,20 @@ const wiersze = hist.map((s) => {
 });
 ---
 <Base
-  title={`LEGO ${seria} — zestawy, ceny, promocje${hist.length ? ` i pełny katalog serii od ${rokMin}` : ''}`}
+  title={`LEGO ${seria} — ceny i katalog serii`}
   description={`Zestawy LEGO z serii ${seria}: aktualne ceny i promocje${hist.length ? ` oraz kompletny katalog wszystkich ${hist.length} zestawów serii z lat ${rokMin}–${new Date().getFullYear()}, ze statusem wycofania (EOL)` : ''}.`}
+  jsonld={{
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Zestawy LEGO ${seria}`,
+    numberOfItems: wiersze.length,
+    itemListElement: wiersze.slice(0, 50).map((w, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: `LEGO ${w.numer} ${w.nazwa}`,
+      ...(w.hub ? { url: new URL(`/zestaw/${w.numer}/`, Astro.site).href } : {}),
+    })),
+  }}
 >
   <h1 style="margin-top:28px">LEGO {seria}</h1>
 
@@ -82,7 +94,7 @@ const wiersze = hist.map((s) => {
             data-nazwa={s.nazwa}
             data-seria={s.seria}
           >
-            {s.zdjecia?.glowne && <img class="miniatura" src={s.zdjecia.glowne} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
+            {urlZdjecia(s.nr, { sety }) && <img class="miniatura" src={urlZdjecia(s.nr, { sety })} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
             <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
             <h3>{s.nazwa}</h3>
             <div class="cena-linia"><span class="cena">{fmtCena(Math.min(...s.oferty.map((o) => o.cena)))}</span><span class="za-klocek">{s.elementy} el.</span></div>

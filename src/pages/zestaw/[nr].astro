@@ -44,6 +44,20 @@ const opis = s?.opis ?? wycofanie?.uwagi ?? opisSetu(nr, { sety })?.tekst ?? nul
 // status sprzedaży dla lekkich hubów
 const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
 
+const sciezkaSerii = seria
+  ? `/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`
+  : null;
+
+const okruszki = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
+    ...(seria ? [{ '@type': 'ListItem', position: 2, name: `LEGO ${seria}`, item: new URL(sciezkaSerii, Astro.site).href }] : []),
+    { '@type': 'ListItem', position: seria ? 3 : 2, name: `LEGO ${nr} ${nazwa}` },
+  ],
+};
+
 const jsonld = {
   '@context': 'https://schema.org',
   '@type': 'Product',
@@ -66,14 +80,15 @@ const jsonld = {
     : {}),
 };
 
+// tytuł zwięzły — Google obcina ~60 znaków, sufiks domeny dokłada Base
 const tytul = najlepsza
-  ? `LEGO ${nr} ${nazwa} — cena, promocje, gdzie kupić najtaniej`
-  : `LEGO ${nr} ${nazwa} — informacje o zestawie${eol ? ' (wycofany)' : ''}`;
+  ? `LEGO ${nr} ${nazwa} — cena i promocje`
+  : `LEGO ${nr} ${nazwa}${eol ? ' — zestaw wycofany' : ''}`;
 const opisMeta = najlepsza
   ? `LEGO ${nr} ${nazwa}: ${elementy ? `${elementy} elementów, ` : ''}${cenaKatalogowa ? `cena katalogowa ${fmt(cenaKatalogowa)}. ` : ''}Sprawdzamy, gdzie kupisz najtaniej. Aktualnie od ${fmt(najlepsza)}.`
   : `LEGO ${nr} ${nazwa}${seria ? ` z serii ${seria}` : ''}${elementy ? `: ${elementy} elementów` : ''}${rok ? `, rocznik ${rok}` : ''}.${eol ? ' Zestaw wycofany z produkcji (EOL).' : ''}`;
 ---
-<Base title={tytul} description={opisMeta} jsonld={jsonld}>
+<Base title={tytul} description={opisMeta} jsonld={[jsonld, okruszki]} ogImage={foto?.url ?? undefined}>
   <article>
     <div class="set-hero">
       <div>

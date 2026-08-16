@@ -79,8 +79,19 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
   .slice(0, 3);
 ---
 <Base
-  title="Promocje na klocki LEGO dziś — prawdziwe rabaty, bez ściemy"
+  title="Promocje LEGO dziś — prawdziwe rabaty"
   description="Codziennie sprawdzamy ceny zestawów LEGO w największych sklepach. Rabaty liczymy od cen katalogowych, wyłapujemy najniższe ceny w historii."
+  jsonld={{
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'tylkoklocki.pl',
+    url: 'https://tylkoklocki.pl/',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: { '@type': 'EntryPoint', urlTemplate: 'https://tylkoklocki.pl/wycofania/?q={search_term_string}' },
+      'query-input': 'required name=search_term_string',
+    },
+  }}
 >
   <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO — rabaty liczone od cen katalogowych</h1>
 

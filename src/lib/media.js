@@ -11,19 +11,29 @@
 
 import zdjeciaMapa from '../data/zdjecia.json';
 import opisyMapa from '../data/opisy.json';
+import wycofaniaDane from '../data/wycofania.json';
 
-/** Zdjęcie zestawu z fallbackiem. Zwraca { url, zrodlo } albo null. */
+const wycofaniaFoto = new Map(
+  (wycofaniaDane.wycofania ?? []).filter((w) => w.zdjecie).map((w) => [w.numer, w.zdjecie]),
+);
+
+/**
+ * Zdjęcie zestawu z fallbackiem. Zwraca { url, zrodlo } albo null.
+ * URL wskazuje NASZĄ trasę /img/<numer>.jpg — worker serwuje kopię z cache
+ * Cloudflare zamiast hotlinkować do sklepów (mapę numer->źródło buduje
+ * scripts/generuj-obrazy.mjs z tych samych priorytetów).
+ */
 export function zdjecieSetu(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
 
-  const zHubu = sety[klucz]?.zdjecia?.glowne;
-  if (zHubu) return { url: zHubu, zrodlo: sety[klucz]?.zdjecia?.zrodlo ?? null };
-
-  const zFeedu = feed[klucz]?.zdjecie;
-  if (zFeedu) return { url: zFeedu, zrodlo: feed[klucz]?.sklep ?? null };
-
-  const zMapy = zdjeciaMapa[klucz];
-  if (zMapy?.url) return { url: zMapy.url, zrodlo: zMapy.zrodlo ?? null };
+  if (sety[klucz]?.zdjecia?.glowne)
+    return { url: `/img/${klucz}.jpg`, zrodlo: sety[klucz]?.zdjecia?.zrodlo ?? null };
+  if (feed[klucz]?.zdjecie)
+    return { url: `/img/${klucz}.jpg`, zrodlo: feed[klucz]?.sklep ?? null };
+  if (zdjeciaMapa[klucz]?.url)
+    return { url: `/img/${klucz}.jpg`, zrodlo: zdjeciaMapa[klucz].zrodlo ?? null };
+  if (wycofaniaFoto.has(klucz))
+    return { url: `/img/${klucz}.jpg`, zrodlo: null };
 
   return null;
 }
