@@ -7,5 +7,9 @@
     "binding": "ASSETS",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
-  }
+  },
+  // Trwałe kopie zdjęć zestawów — kubełek utworzony ręcznie w panelu R2
+  "r2_buckets": [
+    { "binding": "OBRAZY", "bucket_name": "tylkoklocki-obrazy" }
+  ]
 }

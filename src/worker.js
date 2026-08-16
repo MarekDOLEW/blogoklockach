@@ -2,27 +2,40 @@ import redirects from './data/redirects.json';
 import obrazy from './data/obrazy.json';
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
     // Zdjęcia zestawów z naszej domeny: /img/<numer>.jpg
-    // Źródło (sklepowe/rebrickable) pobieramy raz, kopia żyje w cache Cloudflare —
-    // przeglądarki nie hotlinkują już bezpośrednio do cudzych serwerów.
+    // Kolejność: trwała kopia w R2 -> pobranie ze źródła (sklep/rebrickable)
+    // z zapisem przelotowym do R2. Raz zapisane zdjęcie zostaje u nas na zawsze,
+    // nawet gdy sklep skasuje oryginał; cache Cloudflare przyspiesza oba przypadki.
     if (url.pathname.startsWith('/img/')) {
       const numer = url.pathname.slice(5).replace(/\.jpg$/, '');
-      const zrodlo = /^[0-9]{4,7}$/.test(numer) ? obrazy[numer] : null;
+      if (!/^[0-9]{4,7}$/.test(numer)) return new Response('Brak zdjęcia', { status: 404 });
+      const naglowki = (typ, zrodlo) => ({
+        'content-type': typ ?? 'image/jpeg',
+        'cache-control': 'public, max-age=2592000, stale-while-revalidate=86400',
+        'x-obraz-zrodlo': zrodlo,
+      });
+
+      const kopia = await env.OBRAZY?.get(numer);
+      if (kopia) {
+        return new Response(kopia.body, { headers: naglowki(kopia.httpMetadata?.contentType, 'r2') });
+      }
+
+      const zrodlo = obrazy[numer];
       if (!zrodlo) return new Response('Brak zdjęcia', { status: 404 });
       const odp = await fetch(zrodlo, {
         cf: { cacheEverything: true, cacheTtl: 60 * 60 * 24 * 30 },
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; tylkoklocki.pl image cache)' },
       });
       if (!odp.ok) return new Response('Zdjęcie niedostępne', { status: 502 });
-      return new Response(odp.body, {
-        headers: {
-          'content-type': odp.headers.get('content-type') ?? 'image/jpeg',
-          'cache-control': 'public, max-age=2592000, stale-while-revalidate=86400',
-        },
-      });
+      const dane = await odp.arrayBuffer();
+      const typ = odp.headers.get('content-type') ?? 'image/jpeg';
+      if (env.OBRAZY) {
+        ctx.waitUntil(env.OBRAZY.put(numer, dane, { httpMetadata: { contentType: typ } }));
+      }
+      return new Response(dane, { headers: naglowki(typ, 'origin') });
     }
 
     // Przekierowania afiliacyjne: /idz/[sklep]/[numer]
