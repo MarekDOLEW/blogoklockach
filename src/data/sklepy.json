@@ -1,50 +1,53 @@
 {
-  "lego": {
-    "nazwa": "LEGO.com"
-  },
-  "amazon": {
-    "nazwa": "Amazon.pl"
-  },
-  "mediaexpert": {
-    "nazwa": "Media Expert"
-  },
-  "empik": {
-    "nazwa": "Empik"
-  },
-  "alto": {
-    "nazwa": "al.to"
-  },
-  "allegro": {
-    "nazwa": "Allegro"
-  },
-  "smyk": {
-    "nazwa": "Smyk"
-  },
-  "proshop": {
-    "nazwa": "Proshop"
-  },
-  "klocekplus": {
-    "nazwa": "Klocek Plus"
-  },
-  "rozetka": {
-    "nazwa": "Rozetka"
-  },
-  "sferis": {
-    "nazwa": "Sferis.pl"
-  },
-  "brixani": {
-    "nazwa": "brixani.com"
-  },
-  "bricksberg": {
-    "nazwa": "BricksBerg"
-  },
-  "planetaklockow": {
-    "nazwa": "Planeta Klocków"
-  },
-  "krzychumantoys": {
-    "nazwa": "KrzychuManToys"
-  },
-  "taniaksiazka": {
-    "nazwa": "TaniaKsiazka.pl"
-  }
+ "lego": {
+  "nazwa": "LEGO.com"
+ },
+ "amazon": {
+  "nazwa": "Amazon.pl"
+ },
+ "mediaexpert": {
+  "nazwa": "Media Expert"
+ },
+ "empik": {
+  "nazwa": "Empik"
+ },
+ "alto": {
+  "nazwa": "al.to"
+ },
+ "allegro": {
+  "nazwa": "Allegro"
+ },
+ "smyk": {
+  "nazwa": "Smyk"
+ },
+ "proshop": {
+  "nazwa": "Proshop"
+ },
+ "klocekplus": {
+  "nazwa": "Klocek Plus"
+ },
+ "rozetka": {
+  "nazwa": "Rozetka"
+ },
+ "sferis": {
+  "nazwa": "Sferis.pl"
+ },
+ "brixani": {
+  "nazwa": "brixani.com"
+ },
+ "bricksberg": {
+  "nazwa": "BricksBerg"
+ },
+ "planetaklockow": {
+  "nazwa": "Planeta Klocków"
+ },
+ "krzychumantoys": {
+  "nazwa": "KrzychuManToys"
+ },
+ "taniaksiazka": {
+  "nazwa": "TaniaKsiazka.pl"
+ },
+ "xkom": {
+  "nazwa": "x-kom"
+ }
 }

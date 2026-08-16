@@ -123,10 +123,10 @@
   "status": "aktywny",
   "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
   "cookie_dni": null,
-  "format_linkow": "URL x-kom.pl/al.to + parametr sm=Y74rgdCO (przyklad: x-kom.pl/g-7/c/2073-klocki-lego.html?producent=629-lego&sm=Y74rgdCO). DO POTWIERDZENIA: czy kod sm jest uniwersalny dla kazdego URL, czy generowany per link w panelu.",
+  "format_linkow": "URL produktu + parametr sm=<kod>; kod generowany OSOBNO per link w panelu SalesMasters (potwierdzone 2026-08-16 dwoma linkami z roznymi kodami). Linki zbieramy partiami od uzytkownika.",
   "feed": null,
   "data": "2026-08-16",
-  "uwagi": "Konto aktywne. Zasady SalesMasters: wyplata od 100 zl; gdy klient wejdzie z linku i kupi INNY produkt, jest polowa prowizji. Nastepny krok: przykladowy link partnerski z panelu -> wypelnimy redirects.json dla setow dostepnych w al.to."
+  "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Wyplata od 100 zl; polowa prowizji gdy klient kupi inny produkt. Pierwsze trasy /idz/xkom/ w redirects.json: 21330, 42668. Kolejne linki generuje uzytkownik w panelu."
  },
  "amazon": {
   "siec": "Amazon Associates (amazon.pl)",
