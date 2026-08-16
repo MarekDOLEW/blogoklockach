@@ -16,8 +16,11 @@ const mapa = czytaj('zdjecia.json');
 const wycofania = czytaj('wycofania.json').wycofania ?? [];
 
 const obrazy = {};
+// mediaexpert.pl odpowiada 200 przeglądarkom, ale odrzuca zapytania
+// z Cloudflare Workers — taki URL jako źródło daje 502 na /img/
+const zablokowane = /^https?:\/\/(www\.)?mediaexpert\.pl\//;
 const ustaw = (nr, url) => {
-  if (nr && url && !obrazy[nr]) obrazy[nr] = url;
+  if (nr && url && !zablokowane.test(url) && !obrazy[nr]) obrazy[nr] = url;
 };
 
 for (const [nr, s] of Object.entries(sety)) ustaw(nr, s?.zdjecia?.glowne);
