@@ -2,9 +2,21 @@
  "_meta": {
   "opis": "Rejestr programow afiliacyjnych serwisu. Jedno zrodlo prawdy o tym, gdzie jestesmy zapisani, co czeka na akceptacje i co jest do zgloszenia.",
   "format": "sklep -> {siec, status, prowizja, cookie_dni, format_linkow, feed, data, uwagi}",
-  "statusy": ["do zgloszenia", "wyslane", "aktywny", "odrzucony"],
+  "statusy": [
+   "do zgloszenia",
+   "wyslane",
+   "aktywny",
+   "odrzucony"
+  ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-08-16"
+  "zaktualizowano": "2026-08-16",
+  "konta_w_sieciach": {
+   "webePartners": "aktywne (Planeta Klockow)",
+   "Performers": "aktywne (Media Expert)",
+   "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
+   "Allegro Affiliate": "weryfikacja konta w toku",
+   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl) wyslany do przegladu 2026-08-16"
+  }
  },
  "planetaklockow": {
   "siec": "webePartners",
@@ -77,14 +89,24 @@
   "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO."
  },
  "smyk": {
-  "siec": "webePartners",
+  "siec": "Adtraction",
   "status": "do zgloszenia",
-  "prowizja": "wg katalogu ok. 10% (potwierdzic w panelu)",
+  "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
   "data": null,
-  "uwagi": "Program 'Trendy Smyk' w webePartners - mamy juz tam konto (Planeta Klockow), zgloszenie to jeden wniosek w istniejacym panelu. Duzy dzial LEGO."
+  "uwagi": "Jedyna droga: program 'Smyk PL' w Adtraction (kanal 'Tylko Klocki' zalozony 2026-08-16, czeka na przeglad). Program w webePartners ZAMKNIETY (sprawdzone 2026-08-16). Duzy dzial LEGO - priorytet po akceptacji kanalu."
+ },
+ "egmont": {
+  "siec": "Adtraction",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "Egmont.pl - oficjalne polskie magazyny i ksiazki LEGO (z minifigurkami). Pasuje do prezentownikow za male pieniadze. Zglosic razem ze Smykiem po akceptacji kanalu Adtraction."
  },
  "lego": {
   "siec": "Rakuten Advertising",
