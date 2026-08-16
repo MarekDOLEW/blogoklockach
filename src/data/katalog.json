@@ -29,13 +29,10 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-16",
-      "uzupelnione_lacznie": 132,
+      "uzupelnione_lacznie": 252,
       "ostatnie_serie": [
         "Botanicals",
-        "BrickHeadz",
-        "Classic",
-        "Ideas",
-        "Jurassic World",
+        "Icons",
         "Minecraft",
         "Speed Champions",
         "Super Mario"
@@ -1001,14 +998,16 @@
       "nazwa": "Creator Bukiet kwiatów",
       "rok": 2021,
       "elementy": 756,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10281",
       "nazwa": "Botanicals Drzewko bonsai",
       "rok": 2021,
       "elementy": 878,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10282",
@@ -1057,7 +1056,8 @@
       "nazwa": "Queer Eye - Mieszkanie Fab Five",
       "rok": 2021,
       "elementy": 974,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "10292",
@@ -1085,7 +1085,8 @@
       "nazwa": "Porsche 911",
       "rok": 2021,
       "elementy": 1458,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "40485",
@@ -1134,14 +1135,16 @@
       "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
       "rok": 2022,
       "elementy": 1872,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "10302",
       "nazwa": "Optimus Prime",
       "rok": 2022,
       "elementy": 1508,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 769.99
     },
     {
       "numer": "10303",
@@ -1197,7 +1200,8 @@
       "nazwa": "Botanicals Kwiaty Orchidea",
       "rok": 2022,
       "elementy": 608,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10497",
@@ -1246,7 +1250,8 @@
       "nazwa": "Botanicals Bukiet z polnych kwiatów",
       "rok": 2023,
       "elementy": 939,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10314",
@@ -1260,7 +1265,8 @@
       "nazwa": "Zaciszny ogród",
       "rok": 2023,
       "elementy": 1363,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "10316",
@@ -1281,7 +1287,8 @@
       "nazwa": "Concorde",
       "rok": 2023,
       "elementy": 2083,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "10320",
@@ -1302,14 +1309,16 @@
       "nazwa": "Automat do gry PAC-MAN",
       "rok": 2023,
       "elementy": 2651,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1149.99
     },
     {
       "numer": "10325",
       "nazwa": "Górska chata",
       "rok": 2023,
       "elementy": 1517,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "40580",
@@ -1365,28 +1374,32 @@
       "nazwa": "Botanicals Bukiet róż",
       "rok": 2024,
       "elementy": 822,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10329",
       "nazwa": "Botanicals Małe roślinki",
       "rok": 2024,
       "elementy": 758,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10330",
       "nazwa": "McLaren MP4/4 i Ayrton Senna",
       "rok": 2024,
       "elementy": 693,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10331",
       "nazwa": "Zimorodek",
       "rok": 2024,
       "elementy": 834,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10332",
@@ -1400,14 +1413,16 @@
       "nazwa": "Władca Pierścieni: Barad-dûr",
       "rok": 2024,
       "elementy": 5471,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1999.99
     },
     {
       "numer": "10334",
       "nazwa": "Retro radio",
       "rok": 2024,
       "elementy": 906,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "10335",
@@ -1421,14 +1436,16 @@
       "nazwa": "Lamborghini Countach 5000 Quattrovalvole",
       "rok": 2024,
       "elementy": 1506,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
     },
     {
       "numer": "10338",
       "nazwa": "Bumblebee",
       "rok": 2024,
       "elementy": 950,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "10339",
@@ -1449,28 +1466,32 @@
       "nazwa": "Rakieta NASA Artemis SLS",
       "rok": 2024,
       "elementy": 3601,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1129.99
     },
     {
       "numer": "10368",
       "nazwa": "Chryzantema",
       "rok": 2024,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10369",
       "nazwa": "Botanicals Kwiat śliwy",
       "rok": 2024,
       "elementy": 327,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10370",
       "nazwa": "Botanicals Gwiazda Betlejemska",
       "rok": 2024,
       "elementy": 608,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10391",
@@ -1512,7 +1533,8 @@
       "nazwa": "Dom w stylu angielskim",
       "rok": 2025,
       "elementy": 3266,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10351",
@@ -1533,14 +1555,16 @@
       "nazwa": "Williams Racing FW14B i Nigel Mansell",
       "rok": 2025,
       "elementy": 799,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10354",
       "nazwa": "Władca pierścieni: Shire",
       "rok": 2025,
       "elementy": 2017,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1149.99
     },
     {
       "numer": "10355",
@@ -1554,35 +1578,40 @@
       "nazwa": "Star Trek: U.S.S. Enterprise NCC-1701-D",
       "rok": 2025,
       "elementy": 3600,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1649.99
     },
     {
       "numer": "10357",
       "nazwa": "Shelby Cobra 427 S/C",
       "rok": 2025,
       "elementy": 1241,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "10358",
       "nazwa": "Transformers: Soundwave",
       "rok": 2025,
       "elementy": 1505,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
     },
     {
       "numer": "10359",
       "nazwa": "Fontanna w ogrodzie",
       "rok": 2025,
       "elementy": 1302,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "10360",
       "nazwa": "Nosiciel Wahadłowców",
       "rok": 2025,
       "elementy": 2417,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10361",
@@ -1596,35 +1625,40 @@
       "nazwa": "Francuska kawiarenka",
       "rok": 2025,
       "elementy": 1101,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10363",
       "nazwa": "Maszyna latająca Leonarda da Vinci",
       "rok": 2025,
       "elementy": 493,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10365",
       "nazwa": "Statek piracki kapitana Jacka Sparrowa",
       "rok": 2025,
       "elementy": 2862,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1499.99
     },
     {
       "numer": "10366",
       "nazwa": "Tropikalne akwarium",
       "rok": 2025,
       "elementy": 4154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "10367",
       "nazwa": "Władca pierścieni: Book nook z Balrogiem",
       "rok": 2025,
       "elementy": 1201,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "10375",
@@ -1659,7 +1693,8 @@
       "nazwa": "Stranger Things: Dom Creelów",
       "rok": 2026,
       "elementy": 2593,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1199.99
     },
     {
       "numer": "11371",
@@ -11989,14 +12024,16 @@
       "nazwa": "Koenigsegg Jesko",
       "rok": 2021,
       "elementy": 280,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "76901",
       "nazwa": "Toyota GR Supra",
       "rok": 2021,
       "elementy": 299,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76902",
@@ -12038,14 +12075,16 @@
       "nazwa": "1970 Ferrari 512 M",
       "rok": 2022,
       "elementy": 291,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "76907",
       "nazwa": "Lotus Evija",
       "rok": 2022,
       "elementy": 247,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "76908",
@@ -12115,7 +12154,8 @@
       "nazwa": "Nissan Skyline GT-R (R34) z filmu „Za szybcy, za wściekli\"",
       "rok": 2023,
       "elementy": 319,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "76918",
@@ -12136,70 +12176,80 @@
       "nazwa": "Samochód wyścigowy McLaren Formula 1 wersja 2023",
       "rok": 2024,
       "elementy": 245,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76920",
       "nazwa": "Sportowy Ford Mustang Dark Horse",
       "rok": 2024,
       "elementy": 344,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76921",
       "nazwa": "Wyścigowe Audi S1 E-tron Quattro",
       "rok": 2024,
       "elementy": 274,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76922",
       "nazwa": "Samochody wyścigowe BMW M4 GT3 & BMW M Hybrid V8",
       "rok": 2024,
       "elementy": 676,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "76923",
       "nazwa": "Luksusowe Lamborghini Lambo V12 Vision GT",
       "rok": 2024,
       "elementy": 230,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76924",
       "nazwa": "Mercedes-AMG G 63 i Mercedes-AMG SL 63",
       "rok": 2024,
       "elementy": 808,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76925",
       "nazwa": "Samochód bezpieczeństwa Aston Martin i AMR23",
       "rok": 2024,
       "elementy": 564,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "76934",
       "nazwa": "Supersamochód Ferrari F40",
       "rok": 2024,
       "elementy": 318,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76935",
       "nazwa": "NASCAR Next Gen Chevrolet Camaro ZL1",
       "rok": 2024,
       "elementy": 328,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "30709",
       "nazwa": "Ferrari 499P – hipersamochód",
       "rok": 2025,
       "elementy": 62,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "66802",
@@ -12213,49 +12263,56 @@
       "nazwa": "Samochód sportowy Dodge Challenger SRT Hellcat",
       "rok": 2025,
       "elementy": 390,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77238",
       "nazwa": "Lamborghini Revuelto i Huracán STO",
       "rok": 2025,
       "elementy": 607,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "77239",
       "nazwa": "Supersamochód Porsche 911 GT3 RS",
       "rok": 2025,
       "elementy": 348,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77240",
       "nazwa": "Hipersamochód Bugatti Centodieci",
       "rok": 2025,
       "elementy": 291,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77241",
       "nazwa": "Honda S2000 z filmu Za szybcy, za wściekli",
       "rok": 2025,
       "elementy": 300,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77242",
       "nazwa": "Bolid F1 Ferrari SF-24",
       "rok": 2025,
       "elementy": 275,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77243",
       "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
       "rok": 2025,
       "elementy": 251,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77244",
@@ -12326,98 +12383,112 @@
       "nazwa": "Mały bolid F1 ACADEMY",
       "rok": 2026,
       "elementy": 58,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 29.99
     },
     {
       "numer": "77252",
       "nazwa": "F1: film — APXGP Team Race Car",
       "rok": 2026,
       "elementy": 268,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77253",
       "nazwa": "Hipersamochód sportowy Bugatti Vision GT",
       "rok": 2026,
       "elementy": 284,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77254",
       "nazwa": "Samochód sportowy Ferrari SF90 XX Stradale",
       "rok": 2026,
       "elementy": 339,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77255",
       "nazwa": "Zygzak McQueen",
       "rok": 2026,
       "elementy": 270,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77256",
       "nazwa": "Wehikuł czasu z Powrotu do przyszłości",
       "rok": 2026,
       "elementy": 357,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77257",
       "nazwa": "McLaren W1",
       "rok": 2026,
       "elementy": 287,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77258",
       "nazwa": "Bolid F1 ACADEMY LEGO",
       "rok": 2026,
       "elementy": 201,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77259",
       "nazwa": "Bolid Audi Revolut F1 Team R26",
       "rok": 2026,
       "elementy": 215,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77260",
       "nazwa": "Szybcy i wściekli Toyota Supra MK4",
       "rok": 2026,
       "elementy": 292,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77261",
       "nazwa": "Ferrari 499P",
       "rok": 2026,
       "elementy": 329,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77262",
       "nazwa": "65 Ford Mustang Hoonicorn V1 Kena Blocka",
       "rok": 2026,
       "elementy": 345,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77263",
       "nazwa": "BMW M3 (E30)",
       "rok": 2026,
       "elementy": 358,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "77264",
       "nazwa": "Jaguar Project 7 i Land Rover Defender",
       "rok": 2026,
       "elementy": 740,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     }
   ],
   "Technic": [
@@ -51368,21 +51439,24 @@
       "nazwa": "Kurzy jeździec",
       "rok": 2026,
       "elementy": 344,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "21583",
       "nazwa": "Przygoda Steve'a w Tajdze",
       "rok": 2026,
       "elementy": 79,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "21584",
       "nazwa": "Podróż przez portal Netheru",
       "rok": 2026,
       "elementy": 192,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "21585",
@@ -51397,21 +51471,24 @@
       "nazwa": "Blady ogród",
       "rok": 2026,
       "elementy": 243,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "21587",
       "nazwa": "Loch Zombie",
       "rok": 2026,
       "elementy": 284,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "21588",
       "nazwa": "Lis",
       "rok": 2026,
       "elementy": 497,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "21589",
@@ -51426,70 +51503,80 @@
       "nazwa": "Walka z Witherem",
       "rok": 2026,
       "elementy": 494,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "21591",
       "nazwa": "Bitwa z Twisted Wardenem",
       "rok": 2026,
       "elementy": 438,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "21592",
       "nazwa": "Atak kurzego jeźdźca na pustyni",
       "rok": 2026,
       "elementy": 428,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "21593",
       "nazwa": "Przetrwanie pierwszej nocy",
       "rok": 2026,
       "elementy": 301,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "21594",
       "nazwa": "Szkielet",
       "rok": 2026,
       "elementy": 502,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "21595",
       "nazwa": "Smok Kresu",
       "rok": 2026,
       "elementy": 710,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "21596",
       "nazwa": "Najazd przywoływaczy na wioskę",
       "rok": 2026,
       "elementy": 607,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "21597",
       "nazwa": "Stacja Ghasta",
       "rok": 2026,
       "elementy": 754,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "21598",
       "nazwa": "Podwodna przygoda",
       "rok": 2026,
       "elementy": 310,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "30732",
       "nazwa": "Potyczka Alex przy ognisku",
       "rok": 2026,
       "elementy": 31,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "66833",
@@ -51796,7 +51883,8 @@
       "nazwa": "Boss Sumo Bro i przewracana wieża - zestaw dodatkowy",
       "rok": 2021,
       "elementy": 231,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "71389",
@@ -51810,7 +51898,8 @@
       "nazwa": "Walka z Reznorami - zestaw dodatkowy",
       "rok": 2021,
       "elementy": 862,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "71391",
@@ -51913,42 +52002,48 @@
       "nazwa": "But Goomby - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 76,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "71405",
       "nazwa": "Salta Fuzzy’ego - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "71406",
       "nazwa": "Dom prezentów Yoshiego - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 246,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "71407",
       "nazwa": "Cat Peach i lodowa wieża - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 494,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "71408",
       "nazwa": "Zamek Peach - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 1216,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 579.99
     },
     {
       "numer": "71409",
       "nazwa": "Big Spike i chmury - zestaw rozszerzający",
       "rok": 2022,
       "elementy": 540,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "71410",
@@ -51987,7 +52082,8 @@
       "nazwa": "Conkdor's Noggin Bopper - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 130,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "71415",
@@ -52008,14 +52104,16 @@
       "nazwa": "Śniegowa przygoda Fliprusa - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 567,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "71418",
       "nazwa": "Kreatywna skrzyneczka - zestaw twórcy",
       "rok": 2023,
       "elementy": 588,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "71419",
@@ -52029,21 +52127,24 @@
       "nazwa": "Nosorożec Rambi - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 106,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71421",
       "nazwa": "Dżunglowy koncert Dixie Kong - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 174,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "71422",
       "nazwa": "Piknik w domu Mario - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "71423",
@@ -52057,21 +52158,24 @@
       "nazwa": "Domek na drzewie Donkey Konga - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 555,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 289.99
     },
     {
       "numer": "71425",
       "nazwa": "Przejażdżka wagonikiem Diddy Konga - zestaw rozszerzający",
       "rok": 2023,
       "elementy": 1157,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "71426",
       "nazwa": "Kwiatek Pirania",
       "rok": 2023,
       "elementy": 540,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 289.99
     },
     {
       "numer": "71427",
@@ -52176,14 +52280,16 @@
       "nazwa": "World: Mario i Yoshi",
       "rok": 2024,
       "elementy": 1215,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 579.99
     },
     {
       "numer": "71439",
       "nazwa": "Przygody z interaktywną figurką Mario",
       "rok": 2024,
       "elementy": 218,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "71440",
@@ -54029,77 +54135,88 @@
       "nazwa": "Skrzydłokwiat",
       "rok": 2026,
       "elementy": 474,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "11505",
       "nazwa": "Grzyby leśne",
       "rok": 2026,
       "elementy": 806,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "11506",
       "nazwa": "Bujające się roślinki",
       "rok": 2026,
       "elementy": 253,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "11507",
       "nazwa": "Bukiet kwiatów",
       "rok": 2026,
       "elementy": 400,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 289.99
     },
     {
       "numer": "11508",
       "nazwa": "Stokrotki",
       "rok": 2026,
       "elementy": 133,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "11509",
       "nazwa": "Kwitnący kaktus",
       "rok": 2026,
       "elementy": 482,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "11510",
       "nazwa": "Gałązki magnolii",
       "rok": 2026,
       "elementy": 435,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "11511",
       "nazwa": "Lilie wodne",
       "rok": 2026,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "11512",
       "nazwa": "Wiszące epipremnum złociste",
       "rok": 2026,
       "elementy": 372,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "11513",
       "nazwa": "Kompozycja z ciemnych kwiatów",
       "rok": 2026,
       "elementy": 562,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "11514",
       "nazwa": "Kosmosy",
       "rok": 2026,
       "elementy": 171,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "40916",
