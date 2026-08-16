@@ -1,0 +1,129 @@
+{
+ "_meta": {
+  "opis": "Rejestr programow afiliacyjnych serwisu. Jedno zrodlo prawdy o tym, gdzie jestesmy zapisani, co czeka na akceptacje i co jest do zgloszenia.",
+  "format": "sklep -> {siec, status, prowizja, cookie_dni, format_linkow, feed, data, uwagi}",
+  "statusy": ["do zgloszenia", "wyslane", "aktywny", "odrzucony"],
+  "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
+  "zaktualizowano": "2026-08-16"
+ },
+ "planetaklockow": {
+  "siec": "webePartners",
+  "status": "aktywny",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": "deeplink z panelu webePartners",
+  "feed": "feedy.json -> planetaklockow (dziala, zasila Lowce Promocji)",
+  "data": "2026-08-14",
+  "uwagi": "Pierwszy aktywny program. Prowizje/cookie do potwierdzenia w panelu."
+ },
+ "mediaexpert": {
+  "siec": "Performers (track.performers.tech)",
+  "status": "aktywny",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": "linki trackingowe Performers",
+  "feed": "feedy.json -> mediaexpert (dziala, ~600 MB, generowany 00:30)",
+  "data": "2026-08-14",
+  "uwagi": "Feed produktowy dziala. UWAGA: mediaexpert.pl blokuje pobieranie zdjec przez Cloudflare Workers - zdjecia bierzemy z Rebrickable."
+ },
+ "allegro": {
+  "siec": "Allegro Affiliate (program wlasny)",
+  "status": "wyslane",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": "2026-08-16",
+  "uwagi": "Zgloszenie przez business.allegro.pl/afiliacja. Czeka na weryfikacje konta. Najwiekszy wolumen zakupow LEGO w PL - priorytet."
+ },
+ "empik": {
+  "siec": "Tradedoubler",
+  "status": "wyslane",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": "2026-08-16",
+  "uwagi": "Priorytet wysoki (duzy asortyment LEGO, rozpoznawalna marka). Po akceptacji: deeplinki + sprawdzic dostepnosc feedu produktowego."
+ },
+ "ceneo": {
+  "siec": "Tradedoubler",
+  "status": "wyslane",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": "2026-08-16",
+  "uwagi": "Porownywarka - model rozliczen moze byc CPC zamiast CPS, potwierdzic w panelu."
+ },
+ "mediamarkt": {
+  "siec": "Tradedoubler",
+  "status": "wyslane",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": "2026-08-16",
+  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje."
+ },
+ "rtveuroagd": {
+  "siec": "Tradedoubler",
+  "status": "wyslane",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": "2026-08-16",
+  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO."
+ },
+ "smyk": {
+  "siec": "webePartners",
+  "status": "do zgloszenia",
+  "prowizja": "wg katalogu ok. 10% (potwierdzic w panelu)",
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "Program 'Trendy Smyk' w webePartners - mamy juz tam konto (Planeta Klockow), zgloszenie to jeden wniosek w istniejacym panelu. Duzy dzial LEGO."
+ },
+ "lego": {
+  "siec": "Rakuten Advertising",
+  "status": "do zgloszenia",
+  "prowizja": "ok. 3% (niska, ale pelna oferta ekskluzywow)",
+  "cookie_dni": 7,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "Oficjalny program LEGO.com (lego.com/pl-pl/page/affiliate-program). Bonus: legalne oficjalne materialy graficzne i zdjecia produktowe. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
+ },
+ "alto": {
+  "siec": "SalesMasters (program wlasny grupy x-kom); al.to takze w Admitad",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "al.to ma spory dzial klockow. Rejestracja przez SalesMasters (formularz x-kom) albo Admitad - porownac stawki."
+ },
+ "amazon": {
+  "siec": "Amazon Associates (amazon.pl)",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": 1,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "NIE APLIKOWAC PRZEDWCZESNIE: wymog 3 sprzedazy w 180 dni, inaczej zamykaja konto. Zglosic sie dopiero przy stabilnym ruchu. PA-API do cen dopiero po pierwszych sprzedazach."
+ },
+ "zalando": {
+  "siec": "Awin",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": null,
+  "feed": null,
+  "data": null,
+  "uwagi": "Zalando sprzedaje LEGO (glownie odziez/akcesoria + wybrane sety). Wymaga konta w Awin. Niski priorytet."
+ }
+}
