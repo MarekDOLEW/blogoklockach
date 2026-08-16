@@ -119,14 +119,14 @@
   "uwagi": "Oficjalny program LEGO.com (lego.com/pl-pl/page/affiliate-program). Bonus: legalne oficjalne materialy graficzne i zdjecia produktowe. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
  },
  "alto": {
-  "siec": "SalesMasters (program wlasny grupy x-kom); al.to takze w Admitad",
-  "status": "do zgloszenia",
-  "prowizja": null,
+  "siec": "SalesMasters (program wlasny grupy x-kom)",
+  "status": "aktywny",
+  "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
   "cookie_dni": null,
-  "format_linkow": null,
+  "format_linkow": "do uzupelnienia - potrzebny przykladowy link z panelu",
   "feed": null,
-  "data": null,
-  "uwagi": "al.to ma spory dzial klockow. Rejestracja przez SalesMasters (formularz x-kom) albo Admitad - porownac stawki."
+  "data": "2026-08-16",
+  "uwagi": "Konto aktywne. Zasady SalesMasters: wyplata od 100 zl; gdy klient wejdzie z linku i kupi INNY produkt, jest polowa prowizji. Nastepny krok: przykladowy link partnerski z panelu -> wypelnimy redirects.json dla setow dostepnych w al.to."
  },
  "amazon": {
   "siec": "Amazon Associates (amazon.pl)",
