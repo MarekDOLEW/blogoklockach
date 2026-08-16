@@ -36,7 +36,10 @@ const foto =
   zdjecieSetu(nr, { sety, feed: ofertyFeed?.sety ?? {} }) ??
   (wycofanie?.zdjecie ? { url: wycofanie.zdjecie, zrodlo: null } : null);
 
-const opis = s?.opis ?? opisSetu(nr, { sety })?.tekst ?? null;
+// kolejność: opis redakcyjny -> uwagi z listy wycofań (pisane ręcznie, aktualne)
+// -> opis generowany; generator bywa nieaktualny (np. "nie ma go w sklepach"
+// o secie, który LEGO wciąż sprzedaje), więc stoi na końcu
+const opis = s?.opis ?? wycofanie?.uwagi ?? opisSetu(nr, { sety })?.tekst ?? null;
 
 // status sprzedaży dla lekkich hubów
 const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
@@ -125,7 +128,7 @@ const opisMeta = najlepsza
       </section>
     )}
 
-    {oferty.length > 0 || jakikolwiekLink(nr) ? (
+    {oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
       <>
         <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol} />
         <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
