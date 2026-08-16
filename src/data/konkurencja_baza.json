@@ -2,10 +2,10 @@
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
     "ostatnia_aktualizacja": "2026-08-16",
-    "przebieg": "scheduled 2026-08-16",
+    "przebieg": "scheduled 2026-08-16 popoludniowy",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
-    "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl"],
-    "liczba_wpisow": 10
+    "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
+    "liczba_wpisow": 15
   },
   "publikacje": [
     {
@@ -118,12 +118,69 @@
       "ocena": "PRZEBIJAMY",
       "sklepy_linkowane": ["afiliacja ogolna"],
       "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Creator na 2027 rok",
+      "url": "https://faniklockow.pl/2026/08/11/zapowiedzi-serii-lego-creator-na-2027-rok/",
+      "data_publikacji": "2026-08-11",
+      "data_wykrycia": "2026-08-16",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": ["LEGO.com", "Amazon (wzmianka)"],
+      "notatki": "Zestawy 31396-31411, premiera I 2027: 31396 Magiczna syrenka (81,99 zl), 31397 Pudelko bento (124,99 zl), 31398 Superrobot mech, polybagi 16,49 zl. Brak liczby elementow, brak ceny za klocek, brak porownania sklepow. Wpis z 11.08 pominiety w porannym skanie."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Kolejne otwarcie LEGO Store - tym razem oficjalny sklep powstanie w Szczecinie",
+      "url": "https://faniklockow.pl/2026/08/11/kolejne-otwarcie-lego-store-tym-razem-oficjalny-sklep-powstanie-w-szczecinie/",
+      "data_publikacji": "2026-08-11",
+      "data_wykrycia": "2026-08-16",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Duplikat tematu z fanklockow.pl (news lokalny, zerowy potencjal afiliacyjny). Wpis z 11.08 pominiety w porannym skanie."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Sekcja: Wycofania (EOL) zestawow LEGO 2026",
+      "url": "https://promoklocki.pl/lego-eol",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-16",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE pierwszego monitoringu strukturalnego (data powstania sekcji nieznana). Lista wycofan EOL z filtrem 'ponizej ceny katalogowej' - funkcja konkurencyjna wobec naszego planowanego contentu wycofaniowego."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Poradnik: Zakupy na ostatnia chwile",
+      "url": "https://promoklocki.pl/promocje-lego/zakupy-na-ostatnia-chwile-poradnik-n962",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-16",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE pierwszego monitoringu strukturalnego. Promoklocki prowadzi sekcje artykulow/poradnikow pod /promocje-lego/ (m.in. poradnik zakupow last-minute, akcje 'zostaw opinie i odbierz prezent' n1179/n1256/n1056) - to konkurencja takze contentowa, nie tylko narzedziowa."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Funkcja: aplikacja mobilna promoklocki 2.0 z alertami cenowymi",
+      "url": "https://promoklocki.pl/promocje-lego/aplikacja-mobilna-promoklocki-2-0-n471",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-16",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": ["Media Expert", "empik.com"],
+      "notatki": "BASELINE pierwszego monitoringu strukturalnego. Aplikacja mobilna z powiadomieniami o okazjach = wysoki koszt odtworzenia, nie konkurujemy funkcja tylko contentem. Potwierdzone dedykowane podstrony sklepow: /sklep-media-expert, /sklep-empik-com (pelna lista sklepow niedostepna - serwis blokuje fetch, HTTP 403)."
     }
   ],
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych').",
     "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord, BRAK linkow sklepowych w tresci - slaby punkt do wykorzystania.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja, ale WYLACZNIE LEGO.com - zero porownania sklepow.",
-    "wspolna_slabosc": "Zaden z trzech serwisow nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji."
+    "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
+    "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
+    "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403)."
   }
 }
