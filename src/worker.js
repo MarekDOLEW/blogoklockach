@@ -52,6 +52,14 @@ export default {
         cel = `https://www.lego.com/pl-pl/product/${numer}`;
       }
 
+      // x-kom: kod partnerski SalesMasters jest uniwersalny — działa doklejony
+      // do dowolnego adresu sklepu. Bez wpisu w redirects.json (bezpośredni
+      // link produktowy ma pierwszeństwo) kierujemy na wyniki wyszukiwania
+      // numeru setu — pokrywa to automatycznie także nowe zestawy.
+      if (!cel && sklep === 'xkom' && /^\d{4,7}$/.test(numer)) {
+        cel = `https://www.x-kom.pl/szukaj?q=LEGO%20${numer}&sm=Y74rgdCO`;
+      }
+
       // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).
       // Zapis: sklep, numer, czy link istniał, referer (skąd klik), kraj.
       // Odczyt: SQL API, np.
