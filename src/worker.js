@@ -1,4 +1,5 @@
 import redirects from './data/redirects.json';
+import sklepy from './data/sklepy.json';
 import obrazy from './data/obrazy.json';
 
 export default {
@@ -67,6 +68,13 @@ export default {
       // (pełny encodeURIComponent oraz %3D/%26) endpoint /affiliate odrzuca.
       if (!cel && sklep === 'allegro' && /^\d{4,7}$/.test(numer)) {
         cel = `https://allegro.pl/affiliate?redirect_url=https://allegro.pl/listing?string=LEGO%20${numer}&utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372`;
+      }
+
+      // Sklepy bez afiliacji: skoro pokazujemy cenę, dajemy przynajmniej zwykły
+      // link — szablon `szukaj` ze sklepy.json ({nr} = numer setu); szablony bez
+      // {nr} prowadzą na stronę główną sklepu.
+      if (!cel && sklepy[sklep]?.szukaj && /^\d{4,7}$/.test(numer)) {
+        cel = sklepy[sklep].szukaj.replace('{nr}', numer);
       }
 
       // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).

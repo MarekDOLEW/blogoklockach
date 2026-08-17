@@ -3,13 +3,15 @@
   "nazwa": "LEGO.com"
  },
  "amazon": {
-  "nazwa": "Amazon.pl"
+  "nazwa": "Amazon.pl",
+  "szukaj": "https://www.amazon.pl/s?k=LEGO+{nr}"
  },
  "mediaexpert": {
   "nazwa": "Media Expert"
  },
  "empik": {
-  "nazwa": "Empik"
+  "nazwa": "Empik",
+  "szukaj": "https://www.empik.com/szukaj/produkt?q=LEGO+{nr}"
  },
  "alto": {
   "nazwa": "al.to"
@@ -18,25 +20,32 @@
   "nazwa": "Allegro"
  },
  "smyk": {
-  "nazwa": "Smyk"
+  "nazwa": "Smyk",
+  "szukaj": "https://www.smyk.com/szukaj?q=LEGO%20{nr}"
  },
  "proshop": {
-  "nazwa": "Proshop"
+  "nazwa": "Proshop",
+  "szukaj": "https://www.proshop.pl/"
  },
  "klocekplus": {
-  "nazwa": "Klocek Plus"
+  "nazwa": "Klocek Plus",
+  "szukaj": "https://klocekplus.pl/?s={nr}"
  },
  "rozetka": {
-  "nazwa": "Rozetka"
+  "nazwa": "Rozetka",
+  "szukaj": "https://rozetka.pl/search/?text=LEGO+{nr}"
  },
  "sferis": {
-  "nazwa": "Sferis.pl"
+  "nazwa": "Sferis.pl",
+  "szukaj": "https://sferis.pl/"
  },
  "brixani": {
-  "nazwa": "brixani.com"
+  "nazwa": "brixani.com",
+  "szukaj": "https://brixani.com/?s={nr}"
  },
  "bricksberg": {
-  "nazwa": "BricksBerg"
+  "nazwa": "BricksBerg",
+  "szukaj": "https://bricksberg.pl/?s={nr}"
  },
  "planetaklockow": {
   "nazwa": "Planeta Klocków"
@@ -49,5 +58,12 @@
  },
  "xkom": {
   "nazwa": "x-kom"
+ },
+ "dadada": {
+  "nazwa": "dadada.pl",
+  "szukaj": "https://dadada.pl/"
+ },
+ "_meta": {
+  "opis": "Mapa sklepow: nazwa wyswietlana + opcjonalny szablon `szukaj` (URL wyszukiwarki sklepu z {nr}). Worker uzywa go jako NIEafiliacyjnego fallbacku trasy /idz/, gdy brak linku w redirects.json - zasada: skoro znamy cene, dajemy przynajmniej zwykly link. Szablony bez {nr} to strona glowna (wyszukiwarki niezweryfikowane)."
  }
 }
