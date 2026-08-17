@@ -29,10 +29,10 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-17",
-      "uzupelnione_lacznie": 492,
+      "uzupelnione_lacznie": 612,
       "ostatnie_serie": [
-        "City",
-        "Friends"
+        "Friends",
+        "Star Wars"
       ]
     }
   },
@@ -6463,7 +6463,8 @@
       "nazwa": "Sergeant Jyn Erso",
       "rok": 2016,
       "elementy": 104,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "75120",
@@ -7065,7 +7066,8 @@
       "nazwa": "Sokół Millennium",
       "rok": 2017,
       "elementy": 7541,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 3599.99
     },
     {
       "numer": "75523",
@@ -8819,14 +8821,16 @@
       "nazwa": "Hełm Mandalorianina",
       "rok": 2022,
       "elementy": 584,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "75329",
       "nazwa": "Diorama: Szturm na Gwiazdę Śmierci",
       "rok": 2022,
       "elementy": 665,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "75330",
@@ -8854,7 +8858,8 @@
       "nazwa": "Myśliwiec Jedi Obi-Wana Kenobiego",
       "rok": 2022,
       "elementy": 282,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "75334",
@@ -9071,7 +9076,8 @@
       "nazwa": "Zestaw bitewny — żołnierze-klony z 501. legionu",
       "rok": 2023,
       "elementy": 119,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "75346",
@@ -9085,14 +9091,16 @@
       "nazwa": "Bombowiec TIE",
       "rok": 2023,
       "elementy": 625,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "75348",
       "nazwa": "Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor",
       "rok": 2023,
       "elementy": 957,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "75349",
@@ -9148,7 +9156,8 @@
       "nazwa": "Gwiezdny superniszczyciel typu Executor",
       "rok": 2023,
       "elementy": 630,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75357",
@@ -9162,7 +9171,8 @@
       "nazwa": "Świątynia Jedi na Tenoo",
       "rok": 2023,
       "elementy": 124,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 184.99
     },
     {
       "numer": "75359",
@@ -9204,7 +9214,8 @@
       "nazwa": "E-Wing Nowej Republiki kontra Myśliwiec Shin Hati",
       "rok": 2023,
       "elementy": 1056,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "75365",
@@ -9225,7 +9236,8 @@
       "nazwa": "Gwiezdny Niszczyciel typu Venator",
       "rok": 2023,
       "elementy": 5374,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2799.99
     },
     {
       "numer": "75368",
@@ -9253,7 +9265,8 @@
       "nazwa": "Chewbacca",
       "rok": 2023,
       "elementy": 2319,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 929.99
     },
     {
       "numer": "912302",
@@ -9358,7 +9371,8 @@
       "nazwa": "Minimodel TIE Interceptor",
       "rok": 2024,
       "elementy": 48,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40686",
@@ -9463,35 +9477,40 @@
       "nazwa": "Zestaw bitewny z żołnierzem armii klonów i droidem bojowym",
       "rok": 2024,
       "elementy": 215,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "75373",
       "nazwa": "Zasadzka na Mandalorze — zestaw bitewny",
       "rok": 2024,
       "elementy": 109,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "75374",
       "nazwa": "Onyx Cinder",
       "rok": 2024,
       "elementy": 1325,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 619.99
     },
     {
       "numer": "75375",
       "nazwa": "Sokół Millennium",
       "rok": 2024,
       "elementy": 921,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "75376",
       "nazwa": "Tantive IV",
       "rok": 2024,
       "elementy": 654,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "75377",
@@ -9505,21 +9524,24 @@
       "nazwa": "Ucieczka na śmigaczu BARC",
       "rok": 2024,
       "elementy": 221,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "75379",
       "nazwa": "R2-D2",
       "rok": 2024,
       "elementy": 1050,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "75380",
       "nazwa": "Diorama: Wyścig ścigaczy w Mos Espa",
       "rok": 2024,
       "elementy": 718,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "75381",
@@ -9547,7 +9569,8 @@
       "nazwa": "Karmazynowy Jastrząb",
       "rok": 2024,
       "elementy": 136,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "75385",
@@ -9575,14 +9598,16 @@
       "nazwa": "Myśliwiec rycerza Jedi Boba",
       "rok": 2024,
       "elementy": 305,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "75389",
       "nazwa": "Mroczny Sokół Millennium",
       "rok": 2024,
       "elementy": 1579,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
     },
     {
       "numer": "75390",
@@ -9596,7 +9621,8 @@
       "nazwa": "Mikromyśliwiec Y-Wing kapitana Rexa",
       "rok": 2024,
       "elementy": 99,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "75392",
@@ -9610,7 +9636,8 @@
       "nazwa": "Hybryda TIE Fightera i X-Winga",
       "rok": 2024,
       "elementy": 1063,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "75394",
@@ -9631,21 +9658,24 @@
       "nazwa": "Pustynna barka i jama sarlacca",
       "rok": 2024,
       "elementy": 558,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "75397",
       "nazwa": "Barka Jabby",
       "rok": 2024,
       "elementy": 3942,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2149.99
     },
     {
       "numer": "75398",
       "nazwa": "C-3PO",
       "rok": 2024,
       "elementy": 1138,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "912402",
@@ -9743,7 +9773,8 @@
       "nazwa": "Minimodel Sokoła Millennium",
       "rok": 2025,
       "elementy": 74,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40765",
@@ -9764,7 +9795,8 @@
       "nazwa": "Piernikowa maszyna krocząca AT-AT",
       "rok": 2025,
       "elementy": 697,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "472518",
@@ -9820,28 +9852,32 @@
       "nazwa": "Myśliwiec U-Wing Rebelii",
       "rok": 2025,
       "elementy": 594,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75400",
       "nazwa": "Mikromyśliwiec Jedi Plo Koona",
       "rok": 2025,
       "elementy": 89,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "75401",
       "nazwa": "Interceptor Jedi Ahsoki",
       "rok": 2025,
       "elementy": 290,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "75402",
       "nazwa": "Myśliwiec ARC-170",
       "rok": 2025,
       "elementy": 497,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75403",
@@ -31701,21 +31737,24 @@
       "nazwa": "Dom Paisley",
       "rok": 2023,
       "elementy": 185,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "41725",
       "nazwa": "Zabawa z łazikiem plażowym",
       "rok": 2023,
       "elementy": 61,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "41726",
       "nazwa": "Wakacyjna wyprawa na biwak",
       "rok": 2023,
       "elementy": 87,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "41727",
@@ -31729,14 +31768,16 @@
       "nazwa": "Bar w śródmieściu Heartlake",
       "rok": 2023,
       "elementy": 346,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "41729",
       "nazwa": "Sklep spożywczy z żywnością ekologiczną",
       "rok": 2023,
       "elementy": 830,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "41730",
@@ -31771,7 +31812,8 @@
       "nazwa": "Morska łódź ratunkowa",
       "rok": 2023,
       "elementy": 717,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "41735",
@@ -31806,7 +31848,8 @@
       "nazwa": "Pokój Liann",
       "rok": 2023,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "41740",
@@ -31841,7 +31884,8 @@
       "nazwa": "Centrum sportowe",
       "rok": 2023,
       "elementy": 832,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 409.99
     },
     {
       "numer": "41745",
@@ -31883,14 +31927,16 @@
       "nazwa": "Skatepark",
       "rok": 2023,
       "elementy": 431,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "41752",
       "nazwa": "Hydroplan ratowniczy",
       "rok": 2023,
       "elementy": 203,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "41753",
@@ -31904,7 +31950,8 @@
       "nazwa": "Pokój Leo",
       "rok": 2023,
       "elementy": 203,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "41755",
@@ -31932,7 +31979,8 @@
       "nazwa": "Kalendarz adwentowy 2023",
       "rok": 2023,
       "elementy": 231,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "41759",
@@ -32044,7 +32092,8 @@
       "nazwa": "Kamper z mobilnym obserwatorium",
       "rok": 2024,
       "elementy": 364,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42604",
@@ -32058,7 +32107,8 @@
       "nazwa": "Stacja kosmiczna i rakieta",
       "rok": 2024,
       "elementy": 981,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 389.99
     },
     {
       "numer": "42606",
@@ -32086,7 +32136,8 @@
       "nazwa": "Samochód elektryczny i stacja ładująca",
       "rok": 2024,
       "elementy": 170,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42610",
@@ -32114,7 +32165,8 @@
       "nazwa": "Sklep z używaną odzieżą",
       "rok": 2024,
       "elementy": 409,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "42615",
@@ -32128,7 +32180,8 @@
       "nazwa": "Pokaz talentów muzycznych w szkole w Heartlake City",
       "rok": 2024,
       "elementy": 669,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "42617",
@@ -32142,14 +32195,16 @@
       "nazwa": "Kawiarnia w Heartlake",
       "rok": 2024,
       "elementy": 426,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42619",
       "nazwa": "Autobus koncertowy gwiazdy pop",
       "rok": 2024,
       "elementy": 845,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "42620",
@@ -32170,7 +32225,8 @@
       "nazwa": "Strzelnica na letnim obozie łuczniczym",
       "rok": 2024,
       "elementy": 157,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42623",
@@ -32184,21 +32240,24 @@
       "nazwa": "Przytulne domki na letnim obozie",
       "rok": 2024,
       "elementy": 437,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "42625",
       "nazwa": "Plażowa budka z koktajlami",
       "rok": 2024,
       "elementy": 213,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42626",
       "nazwa": "Sporty wodne na obozie kempingowym",
       "rok": 2024,
       "elementy": 628,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "42630",
@@ -32254,7 +32313,8 @@
       "nazwa": "Kalendarz adwentowy 2024",
       "rok": 2024,
       "elementy": 272,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "42638",
@@ -32358,49 +32418,56 @@
       "nazwa": "Stoisko z goframi Autumn",
       "rok": 2025,
       "elementy": 37,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30697",
       "nazwa": "Buda dla psa Novy",
       "rok": 2025,
       "elementy": 50,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "42640",
       "nazwa": "Plac zabaw dla świnek morskich",
       "rok": 2025,
       "elementy": 86,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42641",
       "nazwa": "Przygoda z surfującymi psami i skuterem",
       "rok": 2025,
       "elementy": 113,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42642",
       "nazwa": "Maraton filmowy przyjaciółek",
       "rok": 2025,
       "elementy": 154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42643",
       "nazwa": "Stoisko z watą cukrową i skuter",
       "rok": 2025,
       "elementy": 110,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42644",
       "nazwa": "Furgonetka z lodami w mieście Heartlake",
       "rok": 2025,
       "elementy": 92,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42645",
@@ -32414,35 +32481,40 @@
       "nazwa": "Pokój Autumn",
       "rok": 2025,
       "elementy": 222,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42647",
       "nazwa": "Pokój Paisley",
       "rok": 2025,
       "elementy": 199,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "42648",
       "nazwa": "Opieka nad pandami w rezerwacie",
       "rok": 2025,
       "elementy": 243,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42649",
       "nazwa": "Sklep z cukierkami w Heartlake",
       "rok": 2025,
       "elementy": 376,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42650",
       "nazwa": "Sklep z akcesoriami dla zwierząt",
       "rok": 2025,
       "elementy": 375,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "42651",
@@ -32456,21 +32528,24 @@
       "nazwa": "Spotkanie w domku na Drzewie Przyjaźni",
       "rok": 2025,
       "elementy": 701,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "42653",
       "nazwa": "Sklep muzyczny i mieszkanie",
       "rok": 2025,
       "elementy": 483,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "42654",
       "nazwa": "Ranczo kucyków i stajnia",
       "rok": 2025,
       "elementy": 727,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "42655",
@@ -32491,70 +32566,80 @@
       "nazwa": "Impreza na basenie z jednorożcem i flamingiem",
       "rok": 2025,
       "elementy": 99,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42659",
       "nazwa": "Samochodowa wycieczka przyjaciółek",
       "rok": 2025,
       "elementy": 220,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "42661",
       "nazwa": "Bal przebierańców z jednorożcem i wróżką",
       "rok": 2025,
       "elementy": 261,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "42662",
       "nazwa": "Salon fryzjerski i sklep z ozdobami",
       "rok": 2025,
       "elementy": 347,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "42663",
       "nazwa": "Przygoda w kamperze przyjaciół",
       "rok": 2025,
       "elementy": 778,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42664",
       "nazwa": "Przygoda na łodzi",
       "rok": 2025,
       "elementy": 685,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "42665",
       "nazwa": "Plac zabaw dla szczeniaczków",
       "rok": 2025,
       "elementy": 66,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42666",
       "nazwa": "Kocie przyjęcie urodzinowe i domek na drzewie",
       "rok": 2025,
       "elementy": 321,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42668",
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 237,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "42669",
       "nazwa": "Dom pszczelarzy i kwiatowy ogród",
       "rok": 2025,
       "elementy": 1161,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 300.99
     },
     {
       "numer": "42670",
@@ -32568,21 +32653,24 @@
       "nazwa": "Zielona kawiarnia i kwiaciarnia",
       "rok": 2025,
       "elementy": 1138,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "42672",
       "nazwa": "Kreatywna walizka plażowa",
       "rok": 2025,
       "elementy": 188,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "42673",
       "nazwa": "Rodzinne wakacje na plaży",
       "rok": 2025,
       "elementy": 1140,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "42674",
@@ -32652,224 +32740,256 @@
       "nazwa": "Kwiatowe stoisko z różami",
       "rok": 2026,
       "elementy": 55,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30722",
       "nazwa": "Domek króliczka w ogrodzie",
       "rok": 2026,
       "elementy": 46,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "42675",
       "nazwa": "Jednorożcowa dostawa tortu",
       "rok": 2026,
       "elementy": 67,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42676",
       "nazwa": "Frajda w parku wodnym",
       "rok": 2026,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42677",
       "nazwa": "Piekarnia z psimi przysmakami",
       "rok": 2026,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42678",
       "nazwa": "Furgonetka z akcesoriami dla zwierząt",
       "rok": 2026,
       "elementy": 237,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42679",
       "nazwa": "Hotel dla królików w mieście Heartlake",
       "rok": 2026,
       "elementy": 161,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "42680",
       "nazwa": "Sklep spożywczy w mieście Heartlake",
       "rok": 2026,
       "elementy": 176,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42681",
       "nazwa": "Przygoda na aksolotlowej łodzi",
       "rok": 2026,
       "elementy": 95,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42682",
       "nazwa": "Domek na luksusowym kempingu",
       "rok": 2026,
       "elementy": 295,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 304.99
     },
     {
       "numer": "42684",
       "nazwa": "Jednorożcowa kawiarnia",
       "rok": 2026,
       "elementy": 475,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "42685",
       "nazwa": "Pokaz mody w mieście Heartlake",
       "rok": 2026,
       "elementy": 410,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42686",
       "nazwa": "Niezwykła sala zabaw",
       "rok": 2026,
       "elementy": 668,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "42687",
       "nazwa": "Dom rodzinny Liann",
       "rok": 2026,
       "elementy": 946,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "42688",
       "nazwa": "Stadnina i szkółka jeździecka",
       "rok": 2026,
       "elementy": 735,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "42689",
       "nazwa": "Domek klubu przyjaciół z Heartlake",
       "rok": 2026,
       "elementy": 794,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "42690",
       "nazwa": "Podwieczorek w lesie",
       "rok": 2026,
       "elementy": 116,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42691",
       "nazwa": "Restauracja z ogrodem",
       "rok": 2026,
       "elementy": 1465,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "42692",
       "nazwa": "Stoisko z lodami i balonami",
       "rok": 2026,
       "elementy": 107,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42693",
       "nazwa": "Kreatywna kwiaciarnia",
       "rok": 2026,
       "elementy": 377,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42694",
       "nazwa": "Furgonetka z pizzą",
       "rok": 2026,
       "elementy": 190,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "42695",
       "nazwa": "Przyczepa z koniem i źrebaczkiem",
       "rok": 2026,
       "elementy": 279,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42696",
       "nazwa": "Lecznica dla zwierząt",
       "rok": 2026,
       "elementy": 141,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42697",
       "nazwa": "Kreatywna walizka z domkiem dla lalek",
       "rok": 2026,
       "elementy": 355,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "42698",
       "nazwa": "Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 211,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "42699",
       "nazwa": "Domek na plaży z fokami",
       "rok": 2026,
       "elementy": 400,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42700",
       "nazwa": "Cukierkowo-babeczkowy diabelski młyn",
       "rok": 2026,
       "elementy": 602,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42701",
       "nazwa": "Sanktuarium koali",
       "rok": 2026,
       "elementy": 521,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42702",
       "nazwa": "Wróżkowa karuzela z kwiatami",
       "rok": 2026,
       "elementy": 321,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "42703",
       "nazwa": "Syrenkowa kolejka górska",
       "rok": 2026,
       "elementy": 864,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "42704",
       "nazwa": "Grand Hotel w mieście Heartlake",
       "rok": 2026,
       "elementy": 1406,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "42705",
       "nazwa": "Jesienna leśna chatka",
       "rok": 2026,
       "elementy": 1229,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "562601",
