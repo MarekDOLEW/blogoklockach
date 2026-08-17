@@ -15,7 +15,8 @@
    "Performers": "aktywne (Media Expert)",
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
-   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl), ID 2103402418, typ Content, audience 500, status Waiting (utworzony 2026-08-16, przeglad do 24h). Konto na kontakt@tylkoklocki.pl."
+   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl), ID 2103402418, typ Content, audience 500, status Waiting (utworzony 2026-08-16, przeglad do 24h). Konto na kontakt@tylkoklocki.pl.",
+   "Admitad": "rejestracja w toku 2026-08-16 (store.admitad.com, powierzchnia: tylkoklocki.pl). Cel: programy al.to PL i x-kom PL -> feed produktowy z cenami (SalesMasters feedu nie daje). Po akceptacji porownac stawki z SalesMasters."
   },
   "zasoby": {
    "adtraction_api": "https://apidocs.adtraction.net/v2/ - API Adtraction (deeplinki, feedy produktowe, statystyki). Po akceptacji kanalu wygenerowac token w panelu i uzyc do automatyzacji linkow Smyk/Egmont."
