@@ -20,10 +20,25 @@ const wpisy = Object.entries(sety)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .filter((s) => s.oferty?.length);
 
-// ── Deal dnia: najwyższy rabat dnia z serii kolekcjonerskich, zawsze ze zdjęciem ──
+// ── Deale dnia (slajder, do 5 odsłon): najwyższe rabaty dnia, zawsze ze zdjęciem ──
+// Pierwszy slajd z serii kolekcjonerskich (jak dotychczasowy deal dnia),
+// maks. 2 sety z jednej serii, żeby karuzela nie była monotematyczna.
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
-const dealDnia = zRabatem.find((s) => KOLEKCJONERSKIE.has(s.seria) && s.foto) ?? null;
-const ofertaDnia = dealDnia && najtanszaOferta(dealDnia);
+const kandydaciSlajdera = zRabatem.filter((s) => s.foto);
+const dealeDnia = [];
+const naSerie = {};
+const pierwszy = kandydaciSlajdera.find((s) => KOLEKCJONERSKIE.has(s.seria));
+if (pierwszy) {
+  dealeDnia.push(pierwszy);
+  naSerie[pierwszy.seria] = 1;
+}
+for (const s of kandydaciSlajdera) {
+  if (dealeDnia.length >= 5) break;
+  if (dealeDnia.includes(s) || (naSerie[s.seria] ?? 0) >= 2) continue;
+  dealeDnia.push(s);
+  naSerie[s.seria] = (naSerie[s.seria] ?? 0) + 1;
+}
+const dealDnia = dealeDnia[0] ?? null;
 
 // ── „Dziś w dobrej cenie": do 12 setów kolekcjonerskich + po ≤10 z 12 losowych serii ──
 // Losowanie serii z ziarnem z daty — skład stały w ciągu dnia, zmienia się między dniami
@@ -31,7 +46,8 @@ const ofertaDnia = dealDnia && najtanszaOferta(dealDnia);
 const ziarno = Number(new Date().toISOString().slice(0, 10).replaceAll('-', ''));
 const los = (() => { let a = ziarno; return () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; })();
 
-const pula = zRabatem.filter((s) => s.nr !== dealDnia?.nr);
+const wSlajderze = new Set(dealeDnia.map((s) => s.nr));
+const pula = zRabatem.filter((s) => !wSlajderze.has(s.nr));
 const kolekcjonerskie = pula.filter((s) => KOLEKCJONERSKIE.has(s.seria)).slice(0, 12);
 
 const serieInne = [...new Set(pula.filter((s) => !KOLEKCJONERSKIE.has(s.seria)).map((s) => s.seria))]
@@ -95,39 +111,71 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
 >
   <h1 class="glowna-h1">Prawdziwe promocje na klocki LEGO — rabaty liczone od cen katalogowych</h1>
 
-  {dealDnia && (
-    <section class="deal-dnia karta" aria-label="Deal dnia">
-      <a class="foto-okno deal-foto" href={`/zestaw/${dealDnia.nr}/`}>
-        <img src={dealDnia.foto} alt={`LEGO ${dealDnia.nr} ${dealDnia.nazwa}`} width="800" height="800" />
-      </a>
-      <div class="deal-tresc">
-        <span class="eyebrow">
-          <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-          Deal dnia · {new Date().toLocaleDateString('pl-PL')}
-        </span>
-        <h2 class="deal-tytul">LEGO {dealDnia.nr} {dealDnia.nazwa}</h2>
-        <div class="cena-duza">
-          {fmtCena(najlepszaCena(dealDnia))}
-          <small>{fmtCena(dealDnia.cena_katalogowa)}</small>
-        </div>
-        <div>
-          <span class="badge-rabat">−{rabat(dealDnia)}% od ceny katalogowej</span>
-        </div>
-        <div class="deal-meta">
-          <span><strong>{dealDnia.elementy}</strong> elementów</span>
-          <span><strong>{zaKlocek(dealDnia)} zł</strong> za klocek</span>
-          <span>seria <strong>{dealDnia.seria}</strong></span>
-          <span>wiek <strong>{dealDnia.wiek}</strong></span>
-        </div>
-        <div class="deal-akcje">
-          {ofertaDnia && linkAfiliacyjny(ofertaDnia.sklep, dealDnia.nr) && (
-            <a class="cta" href={linkAfiliacyjny(ofertaDnia.sklep, dealDnia.nr)} rel="sponsored nofollow">
-              Sprawdź w {nazwaSklepu(ofertaDnia.sklep)} →
-            </a>
-          )}
-          <a class="deal-wiecej" href={`/zestaw/${dealDnia.nr}/`}>Pełna karta zestawu i porównanie cen →</a>
-        </div>
+  {dealeDnia.length > 0 && (
+    <section class="deale-slajder karta" aria-roledescription="karuzela" aria-label="Deale dnia">
+      <div class="slajder-tor" data-slajder-tor tabindex="0">
+        {dealeDnia.map((deal, i) => {
+          const oferta = najtanszaOferta(deal);
+          return (
+            <article class="deal-dnia slajd" role="group" aria-roledescription="slajd" aria-label={`${i + 1} z ${dealeDnia.length}`}>
+              <a class="foto-okno deal-foto" href={`/zestaw/${deal.nr}/`}>
+                <img
+                  src={deal.foto}
+                  alt={`LEGO ${deal.nr} ${deal.nazwa}`}
+                  width="800"
+                  height="800"
+                  loading={i === 0 ? 'eager' : 'lazy'}
+                />
+              </a>
+              <div class="deal-tresc">
+                <span class="eyebrow">
+                  <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+                  Deal dnia · {new Date().toLocaleDateString('pl-PL')}
+                  {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
+                </span>
+                <h2 class="deal-tytul">LEGO {deal.nr} {deal.nazwa}</h2>
+                <div class="cena-duza">
+                  {fmtCena(najlepszaCena(deal))}
+                  <small>{fmtCena(deal.cena_katalogowa)}</small>
+                </div>
+                <div>
+                  <span class="badge-rabat">−{rabat(deal)}% od ceny katalogowej</span>
+                </div>
+                <div class="deal-meta">
+                  <span><strong>{deal.elementy}</strong> elementów</span>
+                  <span><strong>{zaKlocek(deal)} zł</strong> za klocek</span>
+                  <span>seria <strong>{deal.seria}</strong></span>
+                  <span>wiek <strong>{deal.wiek}</strong></span>
+                </div>
+                <div class="deal-akcje">
+                  {oferta && linkAfiliacyjny(oferta.sklep, deal.nr) && (
+                    <a class="cta" href={linkAfiliacyjny(oferta.sklep, deal.nr)} rel="sponsored nofollow">
+                      Sprawdź w {nazwaSklepu(oferta.sklep)} →
+                    </a>
+                  )}
+                  <a class="deal-wiecej" href={`/zestaw/${deal.nr}/`}>Pełna karta zestawu i porównanie cen →</a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
       </div>
+      {dealeDnia.length > 1 && (
+        <>
+          <button type="button" class="slajder-strzalka slajder-strzalka--wstecz" data-slajder="wstecz" aria-label="Poprzedni deal">‹</button>
+          <button type="button" class="slajder-strzalka slajder-strzalka--dalej" data-slajder="dalej" aria-label="Następny deal">›</button>
+          <div class="slajder-kropki" role="tablist" aria-label="Wybierz deal">
+            {dealeDnia.map((deal, i) => (
+              <button
+                type="button"
+                class={`slajder-kropka${i === 0 ? ' slajder-kropka--aktywna' : ''}`}
+                data-kropka={i}
+                aria-label={`Deal ${i + 1}: LEGO ${deal.nr} ${deal.nazwa}`}
+              ></button>
+            ))}
+          </div>
+        </>
+      )}
     </section>
   )}
 
@@ -206,6 +254,55 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
 </Base>
 
 <script>
+  // Slajder deali dnia — scroll-snap robi przewijanie (dotyk/trackpad działa bez JS),
+  // skrypt dokłada strzałki, kropki i autoplay. Autoplay stoi przy ograniczeniu ruchu
+  // (prefers-reduced-motion) i gaśnie na stałe po pierwszej interakcji użytkownika.
+  const $slajder = document.querySelector('.deale-slajder');
+  if ($slajder) {
+    const tor = $slajder.querySelector('[data-slajder-tor]');
+    const slajdy = [...tor.querySelectorAll('.slajd')];
+    const kropki = [...$slajder.querySelectorAll('[data-kropka]')];
+    let indeks = 0;
+    let autoplay = null;
+
+    const idz = (i, plynnie = true) => {
+      indeks = (i + slajdy.length) % slajdy.length;
+      tor.scrollTo({ left: indeks * tor.clientWidth, behavior: plynnie ? 'smooth' : 'auto' });
+    };
+    const zaznacz = () => {
+      kropki.forEach((k, i) => k.classList.toggle('slajder-kropka--aktywna', i === indeks));
+    };
+
+    if (slajdy.length > 1) {
+      $slajder.addEventListener('click', (e) => {
+        const strzalka = e.target.closest('[data-slajder]');
+        if (strzalka) idz(indeks + (strzalka.dataset.slajder === 'dalej' ? 1 : -1));
+        const kropka = e.target.closest('[data-kropka]');
+        if (kropka) idz(Number(kropka.dataset.kropka));
+      });
+      tor.addEventListener('scroll', () => {
+        const i = Math.round(tor.scrollLeft / tor.clientWidth);
+        if (i !== indeks) { indeks = i; zaznacz(); }
+      }, { passive: true });
+      tor.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight') { e.preventDefault(); idz(indeks + 1); }
+        if (e.key === 'ArrowLeft') { e.preventDefault(); idz(indeks - 1); }
+      });
+
+      const stopAutoplay = () => { clearInterval(autoplay); autoplay = null; };
+      if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        autoplay = setInterval(() => {
+          if (document.hidden) return;
+          idz(indeks + 1);
+        }, 7000);
+        ['pointerdown', 'keydown', 'wheel', 'touchstart'].forEach((zdarzenie) =>
+          $slajder.addEventListener(zdarzenie, stopAutoplay, { once: true, passive: true }),
+        );
+      }
+      zaznacz();
+    }
+  }
+
   // Filtr chipów + stronicowanie — czysto klienckie, wszystkie karty są w HTML (SEO).
   // Widok „Wszystkie" stronicuje po 12 (3 rzędy × 4); pojedyncza seria ma ≤12 kart,
   // więc mieści się bez stronicowania.

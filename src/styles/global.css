@@ -94,6 +94,25 @@ a { color: inherit; }
 /* ---------- Deal dnia (hero) ---------- */
 .deal-dnia { margin: 28px 0; padding: 26px; display: grid; gap: 24px; grid-template-columns: minmax(240px, 380px) 1fr; align-items: center; border-top: 6px solid var(--zolty); }
 @media (max-width: 760px) { .deal-dnia { grid-template-columns: 1fr; } }
+
+/* ---------- Slajder deali dnia ---------- */
+.deale-slajder { position: relative; margin: 28px 0; border-top: 6px solid var(--zolty); overflow: hidden; }
+.slajder-tor { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.slajder-tor::-webkit-scrollbar { display: none; }
+.deale-slajder .deal-dnia { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; scroll-snap-stop: always; margin: 0; border-top: 0; padding-bottom: 54px; }
+.slajd-licznik { background: var(--papier); border: 1px solid var(--linia); color: var(--granat-60); font-weight: 700; letter-spacing: 0; padding: 1px 8px; border-radius: 999px; }
+.slajder-strzalka { position: absolute; top: 50%; transform: translateY(-50%); z-index: 2; width: 42px; height: 42px; border: 0; border-radius: 50%; background: var(--granat); color: #fff; font-size: 1.5rem; line-height: 1; cursor: pointer; box-shadow: 0 4px 16px rgba(23,35,63,0.25); }
+.slajder-strzalka:hover { background: #0f1830; }
+.slajder-strzalka--wstecz { left: 10px; }
+.slajder-strzalka--dalej { right: 10px; }
+.slajder-kropki { position: absolute; left: 0; right: 0; bottom: 16px; display: flex; justify-content: center; gap: 10px; z-index: 2; }
+.slajder-kropka { width: 12px; height: 12px; padding: 0; border: 2px solid var(--granat-60); border-radius: 50%; background: var(--karta); cursor: pointer; }
+.slajder-kropka:hover { border-color: var(--granat); }
+.slajder-kropka--aktywna { background: var(--zolty); border-color: var(--granat); }
+@media (max-width: 760px) {
+  .slajder-strzalka { display: none; } /* na dotyku przewija się palcem, strzałki tylko zasłaniają treść */
+  .deale-slajder .deal-dnia { padding-bottom: 44px; }
+}
 .deal-foto { display: flex; }
 .deal-tresc { display: grid; gap: 16px; min-width: 0; }
 .deal-dnia .eyebrow { font-weight: 800; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--czerwien); display: flex; align-items: center; gap: 10px; }
