@@ -1552,5 +1552,41 @@
   "najnizsza_cena": 15.99,
   "najnizsza_data": "2026-08-17",
   "najnizsza_sklep": "planetaklockow"
+ },
+ "21350": {
+  "nazwa": "Szczęki",
+  "cena_katalogowa": 649.99
+ },
+ "10307": {
+  "nazwa": "Wieża Eiffla",
+  "cena_katalogowa": 2699.99
+ },
+ "76417": {
+  "nazwa": "Bank Gringotta — edycja kolekcjonerska",
+  "cena_katalogowa": 1849.99
+ },
+ "42143": {
+  "nazwa": "Ferrari Daytona SP3",
+  "cena_katalogowa": 1949.99
+ },
+ "42151": {
+  "nazwa": "Bolid Bugatti",
+  "cena_katalogowa": 214.99
+ },
+ "42161": {
+  "nazwa": "Lamborghini Huracán Tecnica",
+  "cena_katalogowa": 219.99
+ },
+ "42164": {
+  "nazwa": "Wyścigowy łazik terenowy",
+  "cena_katalogowa": 64.99
+ },
+ "42167": {
+  "nazwa": "Śmieciarka Mack LR Electric",
+  "cena_katalogowa": 144.99
+ },
+ "60440": {
+  "nazwa": "Żółta ciężarówka dostawcza",
+  "cena_katalogowa": 419.99
  }
 }

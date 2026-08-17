@@ -10,14 +10,15 @@ import { maHub } from './huby.js';
 export function wierszWycofania(w, { sety = {}, feed = {} } = {}) {
   let oferta = najlepszaOferta(w.numer, { sety, feed });
   const cenaKat = cenaKatalogowaSetu(w.numer, { sety });
-  // dopóki LEGO jeszcze sprzedaje zestaw, brak ofert sklepów nie oznacza
-  // braku ceny — pokazujemy cenę katalogową z linkiem do LEGO.com
-  if (!oferta && w.kiedy !== 'wycofany' && cenaKat) {
+  // brak ofert sklepów nie oznacza braku ceny — pokazujemy cenę katalogową
+  // z linkiem do LEGO.com; także dla wycofanych, bo czytelnicy chętnie
+  // sprawdzają opis na lego.com przed zakupem resztek u innych sprzedawców
+  if (!oferta && cenaKat) {
     oferta = { sklep: 'lego', cena: cenaKat, data: null };
   }
   const link = oferta
     ? linkAfiliacyjny(oferta.sklep, w.numer)
-    : (jakikolwiekLink(w.numer)?.url ?? (w.kiedy !== 'wycofany' ? `/idz/lego/${w.numer}` : null));
+    : (jakikolwiekLink(w.numer)?.url ?? `/idz/lego/${w.numer}`);
   return {
     numer: w.numer,
     nazwa: w.nazwa,

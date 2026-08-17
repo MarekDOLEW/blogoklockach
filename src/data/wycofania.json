@@ -7,7 +7,7 @@
    "brickfanatics.com",
    "pl.brickfanatics.com"
   ],
-  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje.",
+  "instrukcja_scout": "Uzupelniaj liste na podstawie dzialu Ostatnie sztuki na lego.com/pl-pl oraz Brickset. Pole kiedy: 'lipiec 2026' / 'grudzien 2026' / '2026' / 'wycofany'. Pole status: 'potwierdzone' (LEGO oglosilo) lub 'przewidywane' (prognozy spolecznosci). Dopisuj TYLKO zweryfikowane pozycje. Status 'wycofany' dotyczy tylko lego.com - inni sprzedawcy moga sprzedawac zapasy jeszcze przez wiele miesiecy, wiec w uwagach kieruj czytelnika do innych sklepow (bez slowa 'resztki'), a cene katalogowa i aktywny link do LEGO zostawiamy do konca.",
   "serie_kolejnosc": [
    "Ideas",
    "Icons",
@@ -97,7 +97,7 @@
    "elementy": 1497,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Kadr z łodzią Orca i rekinem zniknął z oficjalnego sklepu z końcem lipca, więc zestaw można teraz upolować już tylko w resztkach magazynowych zewnętrznych sklepów albo na rynku wtórnym."
+   "uwagi": "Orka z rekinem zniknęła już z lego.com, ale szukaj u innych sprzedawców — zapasy tak popularnych setów potrafią schodzić jeszcze przez dobre kilka miesięcy."
   },
   {
    "numer": "21351",
@@ -191,7 +191,7 @@
    "elementy": 10001,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż w oficjalnym sklepie z końcem lipca 2026, a tak monumentalne konstrukcje zwykle szybko drożeją po zejściu z półek."
+   "uwagi": "Prawie półtorametrowa wieża zakończyła sprzedaż na lego.com, jednak inni sprzedawcy mogą wciąż mieć zapasy — po ich wyczerpaniu tak monumentalne konstrukcje zwykle drożeją."
   },
   {
    "numer": "10309",
@@ -719,7 +719,7 @@
    "elementy": 4801,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Flagowy bank czarodziejów zniknął z oficjalnej oferty wraz z końcem lipca, przez co skompletowanie kolekcjonerskiej linii Harry'ego Pottera właśnie stało się droższe.",
+   "uwagi": "Flagowy bank czarodziejów zszedł z lego.com, ale u innych sprzedawców wciąż można trafić na egzemplarze — warto sprawdzać, zanim ceny kolekcjonerskie ruszą w górę.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_34931_1024_1024/LEGO-76417-Harry-Potter-Bank-Gringotta.jpg?overlay=1"
   },
   {
@@ -926,7 +926,7 @@
    "elementy": 3778,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Flagowe Ferrari serii Technic zeszło z oficjalnej sprzedaży pod koniec lipca i dołączyło do grona supersamochodów, których ceny na rynku wtórnym ruszają w górę.",
+   "uwagi": "Flagowe Ferrari serii Technic zakończyło sprzedaż na lego.com, jednak inni sprzedawcy mogą jeszcze mieć zapasy, często wyraźnie poniżej ceny katalogowej.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_30650_1024_1024/LEGO-42143-Technic-Ferrari-Daytona-SP3.jpg?overlay=1"
   },
   {
@@ -936,7 +936,7 @@
    "elementy": 905,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Kompaktowy Bolide zakończył bieg w oficjalnym sklepie z końcem lipca — zostały zapasy u zewnętrznych sprzedawców, a te potrafią stopnieć błyskawicznie.",
+   "uwagi": "Kompaktowy Bolide zniknął z lego.com, ale rozejrzyj się u innych sprzedawców — bywa u nich sporo taniej od ceny katalogowej, a zapasy mogą starczyć na miesiące.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_31845_1024_1024/LEGO-42151-Technic-Bolid-Bugatti.jpg?overlay=1"
   },
   {
@@ -976,7 +976,7 @@
    "elementy": 806,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Niedrogie Lamborghini na start przygody z serią Technic zniknęło z oficjalnego sklepu z końcem lipca, więc łowcy prezentów muszą go teraz szukać u zewnętrznych sprzedawców.",
+   "uwagi": "Niedrogie Lamborghini zeszło z lego.com, jednak u innych sprzedawców wciąż da się je znaleźć — zapasy po wycofaniu potrafią sprzedawać się nawet pół roku.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_34538_1024_1024/LEGO-42161-Technic-Lamborghini-Huracan-Tecnica.jpg?overlay=1"
   },
   {
@@ -986,7 +986,7 @@
    "elementy": 219,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Mały buggy z działającym zawieszeniem wypadł z oficjalnej oferty pod koniec lipca, zamykając jeden z najtańszych wstępów do mechanicznej strony klocków.",
+   "uwagi": "Mały buggy z zawieszeniem zniknął z lego.com, ale to częsty gość u innych sprzedawców — przy tak niskiej cenie zapasy mogą jednak stopnieć szybko.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_35767_1024_1024/LEGO-42164-Technic-Wyscigowy-lazik-terenowy.jpg?overlay=1"
   },
   {
@@ -996,7 +996,7 @@
    "elementy": 503,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Śmieciarka z podnoszonym pojemnikiem zakończyła sprzedaż w oficjalnym sklepie z końcem lipca i pozostały po niej już tylko resztki w zewnętrznych sklepach.",
+   "uwagi": "Śmieciarka z bocznym załadunkiem zakończyła sprzedaż na lego.com — u innych sprzedawców wciąż bywa dostępna, nierzadko w promocyjnych cenach.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_35790_1024_1024/LEGO-42167-Technic-Smieciarka-Mack-LR-Electric.jpg?overlay=1"
   },
   {
@@ -1785,7 +1785,7 @@
    "elementy": 1061,
    "kiedy": "wycofany",
    "status": "potwierdzone",
-   "uwagi": "Żółta ciężarówka dostawcza zniknęła z oficjalnego sklepu wraz z lipcowym terminem, więc kompletujący miejskie zaplecze kurierskie muszą rozglądać się poza LEGO.",
+   "uwagi": "Żółta ciężarówka zniknęła z lego.com, ale inni sprzedawcy mogą mieć jeszcze zapasy — warto zaglądać do porównywarek, zanim znikną na dobre.",
    "zdjecie": "https://planetaklockow.pl/environment/cache/images/productGfx_38236_1024_1024/LEGO-60440-City-Zolta-ciezarowka-dostawcza.jpg?overlay=1"
   },
   {
