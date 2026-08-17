@@ -47,10 +47,10 @@
   "status": "aktywny",
   "prowizja": null,
   "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
+  "format_linkow": "gotowe item_link z feedu (allegro.pl/affiliate?redirect_url=<cel z utm>); dla setow spoza feedu worker buduje link do listingu opakowany w allegro.pl/affiliate z utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372",
+  "feed": "feedy.json -> allegro (NDJSON, ~8500 ofert LEGO, ~7200 setow, 98% pokrycia podstron; gotowe linki afiliacyjne + ceny + zdjecia)",
   "data": "2026-08-16",
-  "uwagi": "Konto zweryfikowane 2026-08-16, panel kampanii dostepny (business.allegro.pl/afiliacja/programy/allegro-affiliate/kampanie). NASTEPNE KROKI: dolaczyc do dostepnych kampanii, wygenerowac przykladowy link partnerski (do oferty i do wynikow wyszukiwania) -> ustalimy format i zautomatyzujemy trasy /idz/allegro/ jak dla x-kom. Sprawdzic tez dostepnosc feedu/API ofert."
+  "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy."
  },
  "empik": {
   "siec": "Tradedoubler",

@@ -60,6 +60,14 @@ export default {
         cel = `https://www.x-kom.pl/szukaj?q=LEGO%20${numer}&sm=Y74rgdCO`;
       }
 
+      // Allegro: własna kampania afiliacyjna — bez wpisu w redirects kierujemy
+      // na wyniki wyszukiwania numeru, opakowane w tracking kampanii
+      // (ten sam wzór co gotowe item_link z feedu Allegro Affiliate).
+      if (!cel && sklep === 'allegro' && /^\d{4,7}$/.test(numer)) {
+        const listing = `https://allegro.pl/listing?string=LEGO ${numer}&utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372`;
+        cel = `https://allegro.pl/affiliate?redirect_url=${encodeURIComponent(listing)}`;
+      }
+
       // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).
       // Zapis: sklep, numer, czy link istniał, referer (skąd klik), kraj.
       // Odczyt: SQL API, np.

@@ -3,13 +3,15 @@
   "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
   "zasada": "Nowy feed dopisujemy tutaj, nie w promptach zadan. Dzieki temu kazde zaplanowane uruchomienie widzi ten sam zestaw zrodel bez zalacznikow z komputera.",
   "hosty_do_allowlisty": [
-   "service.weben1.com",
-   "webep1.com",
+   "allegro.pl",
+   "brickset.com",
+   "feeds.allegro.pl",
    "planetaklockow.pl",
+   "service.weben1.com",
    "storage.googleapis.com",
-   "brickset.com"
+   "webep1.com"
   ],
-  "zaktualizowano": "2026-08-14"
+  "zaktualizowano": "2026-08-17"
  },
  "planetaklockow": {
   "url": "https://service.weben1.com/xml/8c6d63cb-e8af-4890-8b21-9e66ace88354.xml",
@@ -66,6 +68,31 @@
    "748 pozycji z marka LEGO, 733 dostepne (stan 14.08.2026).",
    "Weryfikacja 14.08.2026: 9 na 10 setow zgadzalo sie co do grosza ze strona produktowa; 43018 mial 559,00 w feedzie i 550,51 na stronie (zmiana w ciagu dnia).",
    "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403)."
+  ]
+ },
+ "allegro": {
+  "url": "https://feeds.allegro.pl/affiliate-feed/39967a61-8483-4037-bc45-165d4978a379",
+  "format": "ndjson",
+  "siec": "Allegro Affiliate (program wlasny)",
+  "pola": {
+   "nazwa": "name",
+   "cena": "price",
+   "dostepnosc": "availability",
+   "link_afiliacyjny": "item_link",
+   "zdjecie": "image_link",
+   "ean": "gtin",
+   "kategoria": "category_name_path"
+  },
+  "numer_setu": "atrybut id=201105 'Numer produktu' (6836/8458 ofert); fallback regex \\b(\\d{4,7})\\b z pola name (+943); ~680 ofert bez numeru (akcesoria, gadzety) - pomijac",
+  "status": "dziala",
+  "ostatnie_pobranie": "2026-08-17",
+  "rozmiar": "~27 MB, ~8500 ofert LEGO, ~7200 unikalnych setow (pokrywa 98% naszych podstron)",
+  "uwagi": [
+   "Jedna linia = jeden obiekt JSON (NDJSON), parsowac linia po linii.",
+   "item_link to GOTOWY link afiliacyjny (allegro.pl/affiliate?redirect_url=...) - uzywac wprost, nie budowac wlasnego.",
+   "Przy wielu ofertach tego samego setu brac najnizsza cene z availability='in stock'.",
+   "availability: tylko 'in stock' traktowac jako dostepne.",
+   "image_link (a.allegroimg.com) moze sluzyc jako dodatkowe zrodlo zdjec."
   ]
  }
 }
