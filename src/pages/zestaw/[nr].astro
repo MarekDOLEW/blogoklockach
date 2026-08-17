@@ -6,7 +6,7 @@ import ofertyFeed from '../../data/oferty_feed.json';
 import { zdjecieSetu, opisSetu } from '../../lib/media.js';
 import { wpisKatalogu } from '../../lib/katalog.js';
 import { numeryHubow, wycofanieSetu } from '../../lib/huby.js';
-import { fmtElementy, jakikolwiekLink, ofertyZFeedu, cenaKatalogowaSetu } from '../../lib/oferty.js';
+import { fmtElementy, jakikolwiekLink, polaczOferty, cenaKatalogowaSetu } from '../../lib/oferty.js';
 
 export function getStaticPaths() {
   return [...numeryHubow].map((nr) => ({ params: { nr } }));
@@ -27,7 +27,8 @@ const elementy = s?.elementy ?? kat?.elementy ?? wycofanie?.elementy ?? null;
 const rok = kat?.rok ?? null;
 const cenaKatalogowa = cenaKatalogowaSetu(nr, { sety });
 
-const oferty = s ? s.oferty : ofertyZFeedu(feedOferta);
+// redakcyjne oferty + ceny z feedów sklepowych w jednej tabeli (dubel sklepu -> niższa cena)
+const oferty = polaczOferty(s?.oferty ?? [], feedOferta);
 const najlepsza = oferty.length ? Math.min(...oferty.map((o) => o.cena)) : null;
 
 const zdj = s?.zdjecia ?? null;

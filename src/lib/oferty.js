@@ -29,6 +29,19 @@ export function ofertyZFeedu(wpisFeedu) {
   return wpisFeedu.cena ? [{ sklep: wpisFeedu.sklep, cena: wpisFeedu.cena, data }] : [];
 }
 
+/**
+ * Pełna lista ofert do tabeli cen: redakcyjne z sety.json + feedowe,
+ * jeden wiersz na sklep — przy dublu wygrywa niższa cena (jak w najlepszaOferta).
+ */
+export function polaczOferty(ofertySetu = [], wpisFeedu = null) {
+  const perSklep = new Map();
+  for (const o of [...ofertySetu, ...ofertyZFeedu(wpisFeedu)]) {
+    const stara = perSklep.get(o.sklep);
+    if (!stara || o.cena < stara.cena) perSklep.set(o.sklep, o);
+  }
+  return [...perSklep.values()];
+}
+
 /** Najniższa aktualna oferta zestawu albo null. Zwraca { sklep, cena, data }. */
 export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
