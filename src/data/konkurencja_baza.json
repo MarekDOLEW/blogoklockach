@@ -2,10 +2,10 @@
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
     "ostatnia_aktualizacja": "2026-08-17",
-    "przebieg": "scheduled 2026-08-17 poranny",
+    "przebieg": "scheduled 2026-08-17 popoludniowy",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 17
+    "liczba_wpisow": 20
   },
   "publikacje": [
     {
@@ -196,11 +196,45 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "BASELINE (uzupelnienie z 17.08). Archiwum gazetek promocyjnych LEGO z podzialem na serie (np. /gazetki-lego/kategoria/technic). Format unikalny w polskiej niszy - nie planujemy odtwarzac, notujemy jako element przewagi narzedziowej promoklocki."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "FanKlockowy kalendarz: promocje LEGO w roku 2026",
+      "url": "https://fanklockow.pl/2026/08/03/kalendarz-promocje-lego/",
+      "data_publikacji": "2026-08-03",
+      "data_aktualizacji": "2026-08-14",
+      "data_wykrycia": "2026-08-17",
+      "typ": "deal",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": ["LEGO.pl", "Brodaty Geek (filtr)", "Ciocia od klockow (filtr)"],
+      "notatki": "INTERAKTYWNY kalendarz promocji z filtrami (zakres dat, typ eventu, lokalizacja): Batman Day 19.09, Halloween GwP X, Insiders Weekend podwojne punkty XI, promocje swiateczne XII - oznaczone jako niepotwierdzone. BEZ progow kwotowych, BEZ linkow sklepowych, BEZ porownania cen. Aktualizowany na biezaco (PokeStop). Wpis spoza strony glownej - wykryty przez search. Sygnal: fanklockow inwestuje w funkcje interaktywne, nie tylko teksty."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Zbiorcze) zapowiedzi LEGO na rok 2026",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-na-rok-2026/",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-17",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Evergreenowy hub agregujacy zapowiedzi 2026 (analogiczny powstanie pewnie dla 2027). Element architektury SEO fanklockow: hub -> artykuly per seria. Warto skopiowac PATTERN hubow przy naszych zapowiedziach, nie tresc."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Sekcja: Nowosci LEGO z podstronami miesiecznymi",
+      "url": "https://promoklocki.pl/nowosci-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-17",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE (uzupelnienie z 17.08). Katalogowa sekcja nowosci z podstronami per miesiac (np. /nowosci-lego/czerwiec-2026) - konkuruje z contentem naszego scouta w SERP-ach typu 'nowosci LEGO [miesiac]'. Istnieje tez legacy subdomena blog.promoklocki.pl (stary blog, http). Nasza odpowiedz: redakcyjne zajawki scouta z data premiery i cena, czego katalog nie daje."
     }
   ],
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych').",
-    "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord, BRAK linkow sklepowych w tresci - slaby punkt do wykorzystania.",
+    "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord, BRAK linkow sklepowych w tresci - slaby punkt do wykorzystania. 2026-08-17: wykryto warstwe evergreen spoza strony glownej - interaktywny kalendarz promocji (filtry, aktualizacje na biezaco) i huby zapowiedzi per rok. Architektura SEO: hub -> artykuly per seria.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja, ale WYLACZNIE LEGO.com - zero porownania sklepow.",
     "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
