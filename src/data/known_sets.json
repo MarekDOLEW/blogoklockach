@@ -1,7 +1,7 @@
 {
   "data_aktualizacji": "2026-08-17",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 229,
+  "liczba_setow": 237,
   "sety": [
     "10300",
     "10316",
@@ -231,7 +231,15 @@
     "80120",
     "80121",
     "76355",
-    "11387"
+    "11387",
+    "10463",
+    "10470",
+    "10476",
+    "43020",
+    "71859",
+    "77256",
+    "11384",
+    "76332"
   ],
   "zapowiedzi_sledzone": [
     {
@@ -283,17 +291,7 @@
     }
   ],
   "luki_w_bazie": {
-    "opis": "Sety 2026 obecne w zrodlach, ale nieopisane w sety.json — do nadrobienia w sesji ad hoc, nie sa nowosciami tego przebiegu",
-    "numery": [
-      "10463",
-      "10470",
-      "10476",
-      "43020",
-      "71859",
-      "77256",
-      "11384",
-      "71867",
-      "76332"
-    ]
+    "opis": "Sety 2026 obecne w zrodlach, ale nieopisane w sety.json — backfill 2026-08-17 zamknal wszystkie luki",
+    "numery": []
   }
 }
