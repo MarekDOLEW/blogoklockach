@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Star Wars — opisy produktowe (531 zestawów)
+# LEGO Star Wars — opisy produktowe (531 pozycji)
 
 ## 10188 — Lego Star Wars Zestaw Kolekcjonerski Death Star Gwiazda Śmierci Ucs 10188
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 4699.00 zł · EAN: 00673419130578 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 4699.00 zł · EAN: 00673419130578 · in stock*
 
 LEGO Star Wars 10188 – Death Star (Gwiazda Śmierci)
 
@@ -53,7 +53,7 @@ Potężny superlaser niszczący planety.
 
 ## 10195 — Lego Star Wars 10195 Republic Dropship At-ot Nowy unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 8355.00 zł · EAN: 00673419121835 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 8355.00 zł · EAN: 00673419121835 · in stock*
 
 LEGO Star Wars 10195 Republic Dropship AT-OT
  
@@ -75,7 +75,7 @@ LEGO Star Wars 10195 Republic Dropship AT-OT to zestaw składający się z 2503 
 
 ## 10212 — Klicki Lego Star Wars Zestaw Kolekcjonerski Imperial Shuttle 10212
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 9999.00 zł · EAN: 00673419131261 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 9999.00 zł · EAN: 00673419131261 · in stock*
 
 Nowy zestaw klocków LEGO Star Wars 10212 Imperial Shuttle. Plomby nienaruszone, pudełko w bardzo dobrym/dobrym stanie.
 
@@ -85,7 +85,7 @@ Unikalny statek Imperatora z VI części Gwiezdnych Wojen. Teraz możesz sam zbu
 
 ## 10215 — Lego 10215 Star Wars Obi-wan Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 00673419131278 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 00673419131278 · in stock*
 
 LEGO 10215 STAR WARS OBI-WAN STARFIGHTER
  
@@ -106,7 +106,7 @@ LEGO 10215 STAR WARS OBI-WAN STARFIGHTER to zestaw klocków dla dzieci powyżej 
 
 ## 10221 — Lego Star Wars 10221 Star Destroyer Ucs Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 6699.00 zł · EAN: 00673419145701 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 6699.00 zł · EAN: 00673419145701 · in stock*
 
 LEGO Star Wars 10221 Gwiezdny Super Niszczyciel Imperium
  
@@ -164,7 +164,7 @@ Na stanowisku pracy czy poza nim, jego obecność wpasuje się w każde nowe śr
 
 ## 10225 — Lego Star Wars 10225 R2-D2 Uszk. Op.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 989.95 zł · EAN: 05702014846647 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 989.95 zł · EAN: 05702014846647 · in stock*
 
 LEGO Star Wars 10225 R2-D2
 
@@ -199,7 +199,7 @@ Zdjęcia poglądowe
 
 ## 10227 — Lego Star Wars 10227 B-Wing Starfighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2595.47 zł · EAN: 05702014846739 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2595.47 zł · EAN: 05702014846739 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -227,7 +227,7 @@ LEGO 10227 B-Wing Starfighter to zestaw stworzony z myślą o dorosłych kolekcj
 
 ## 10240 — Lego Star Wars 10240 Red Five X-wing Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014975323 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014975323 · in stock*
 
 Stan pudełka bardzo dobry. Plomby lekko naruszone ze względu na czas przechowywania. Woreczki nienaruszone. Jest to unikat sprzed 10 lat.
  
@@ -250,7 +250,7 @@ Opakowanie jest takie jak na zdjęciu. Plomby nie są naruszone.
 
 ## 20016 — Lego Star Wars 20016 Imperial Shuttle saszetka klocki Bricktober unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 185.00 zł · EAN: 00673419128933 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 185.00 zł · EAN: 00673419128933 · in stock*
 
 Witam
 
@@ -270,7 +270,7 @@ Rafał
 
 ## 20018 — Lego Star Wars 20018 At-at Walker saszetka klocki unikat rarytas
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 229.00 zł · EAN: 00673419128940 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 229.00 zł · EAN: 00673419128940 · in stock*
 
 Witam
 
@@ -290,7 +290,7 @@ Rafał
 
 ## 2017 — nowy Lego 5702015540629 Star Wars Limitowany Unikat Ostatni Jedi Misb 2017
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 684.99 zł · EAN: 05702015540629 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 684.99 zł · EAN: 05702015540629 · in stock*
 
 Cześć!
 
@@ -312,7 +312,7 @@ Pozdrawiam.
 
 ## 290463 — Lego Star Wars 911729 Droid Gunship saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 35.00 zł · EAN: 05060976586958 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 35.00 zł · EAN: 05060976586958 · in stock*
 
 Witam
 
@@ -332,7 +332,7 @@ Rafał
 
 ## 30005 — Lego Star Wars 30005 Imperial Speeder Bike
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 133.99 zł · EAN: 05702014596399 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 133.99 zł · EAN: 05702014596399 · in stock*
 
 **LEGO Star Wars Imperial Speeder Bike 30005 – KOLEKCJONERSKI ZESTAW**
 
@@ -364,7 +364,7 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Imperial Spee
 
 ## 30051 — Lego Star Wars 30051 Mini X-wing saszetka klocki Statek model wycofany
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014807419 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014807419 · in stock*
 
 Witam
 
@@ -384,7 +384,7 @@ Rafał
 
 ## 30056 — Lego Star Wars 30056 Star Destroyer saszetka z klockami model wycofany
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702014857438 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702014857438 · in stock*
 
 Zestaw **LEGO Star Wars 30056 – Mini Star Destroyer** to mały, kolekcjonerski model kultowego statku Imperium z uniwersum Star Wars. Zestaw został wydany w **2012 roku** jako część serii Star Wars Mini Building Set i składa się z **38 elementów**.
 
@@ -420,7 +420,7 @@ Rafał
 
 ## 30057 — Lego Star Wars 30057 Anakin's Podracer saszetka z klockami unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702014857452 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702014857452 · in stock*
 
 Witam
 
@@ -440,7 +440,7 @@ Rafał
 
 ## 30058 — Lego Star Wars Stap Speeder Droid 30058 Bez Figurki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702014857469 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702014857469 · in stock*
 
 **✅ NOWA ORYGINALNA KONSTRUKCJA LEGO**
 
@@ -456,7 +456,7 @@ Konstrukcja zapakowana jest w ochronny plastikowy woreczek. Wysyłka z Polski do
 
 ## 30240 — Lego Star Wars 30240 Z-95 Headhunter saszetka klocki statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702014966642 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702014966642 · in stock*
 
 Witam
 
@@ -476,7 +476,7 @@ Rafał
 
 ## 30246 — Lego Star Wars 30246 Imperial Shuttle saszetka z klockami statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015125000 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015125000 · in stock*
 
 Witam
 
@@ -496,7 +496,7 @@ Rafał
 
 ## 30247 — Lego Star Wars 30247 ARC-170 Starfighter saszetka z klockami unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702015125017 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702015125017 · in stock*
 
 Witam
 
@@ -516,7 +516,7 @@ Rafał
 
 ## 30272 — Lego Star Wars 30272 A-Wing Starfighter saszetka z klockami statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702015357166 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702015357166 · in stock*
 
 Witam
 
@@ -538,7 +538,7 @@ Rafał
 
 ## 30275 — Klocki Lego Star Wars Tie Advanced 30275
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 24.90 zł · EAN: 05702015357487 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 24.90 zł · EAN: 05702015357487 · in stock*
 
 LEGO STAR WARS
 
@@ -560,7 +560,7 @@ Zestaw został przedstawiony w 2015 roku i składa się z 47 klocków oraz instr
 
 ## 30276 — Lego Star Wars 30276 First Order Special Forces saszetka wycofana klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015415064 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015415064 · in stock*
 
 Witam
 
@@ -584,7 +584,7 @@ Rafał
 
 ## 30277 — Lego Star Wars 30277 First Order Star Destroyer saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702015608589 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702015608589 · in stock*
 
 Witam
 
@@ -604,7 +604,7 @@ Rafał
 
 ## 30278 — Lego Star Wars 30278 Poe's X-wing Fighter saszetka klocki statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015608596 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015608596 · in stock*
 
 Witam
 
@@ -626,7 +626,7 @@ Rafał
 
 ## 30279 — Lego Star Wars 30279 Kylo Ren's Command Shuttle saszetka klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 52.00 zł · EAN: 05702015608602 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 52.00 zł · EAN: 05702015608602 · in stock*
 
 Witam
 
@@ -646,7 +646,7 @@ Rafał
 
 ## 30380 — Lego Star Wars 30380 Kylo Ren's Shuttle saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702016122077 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702016122077 · in stock*
 
 Witam
 
@@ -666,7 +666,7 @@ Rafał
 
 ## 30383 — Lego Star Wars 30383 Naboo Starfighter saszetka z klockami statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702016376166 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702016376166 · in stock*
 
 Witam
 
@@ -686,7 +686,7 @@ Rafał
 
 ## 30384 — Lego Star Wars 30384 Snowspeeder saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702016376777 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702016376777 · in stock*
 
 Witam
 
@@ -706,7 +706,7 @@ Rafał
 
 ## 30386 — Lego Star Wars 30386
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016667868 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016667868 · in stock*
 
 LEGO STAR WARS 30386
 
@@ -720,7 +720,7 @@ LEGO STAR WARS 30386
 
 ## 30388 — Lego Star Wars Imperialny Wahadłowiec 30388 Polybag
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016912050 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016912050 · in stock*
 
 ORYGINALNY ZESTAW LEGO
 
@@ -738,7 +738,7 @@ Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
 ## 30461 — Lego Star Wars 30461 Ścigacz podracer saszetka klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702016376784 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702016376784 · in stock*
 
 Witam
 
@@ -758,7 +758,7 @@ Rafał
 
 ## 30495 — Lego Star Wars 30495 At-st saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 19.89 zł · EAN: 05702017153506 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 19.89 zł · EAN: 05702017153506 · in stock*
 
 Witam
 
@@ -791,7 +791,7 @@ Rafał
 
 ## 30496 — Lego Star Wars 30496 U-Wing Fighter saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015877039 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015877039 · in stock*
 
 Witam
 
@@ -811,7 +811,7 @@ Rafał
 
 ## 30497 — Lego Star Wars 30497 First Order Heavy Assault Walker saszetka klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015877046 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015877046 · in stock*
 
 **Lego Star Wars Ciężka maszyna krocząca 30497**. Nowa wersja Ciężkiej Machiny Kroczącej AT-ST w postaci mini. Zarówno dla kolekcjonerów jak i młodszych miłośników całej sagi. Edycja limitowana, jest to promocyjny polybag mini. Należy do nowej serii Lego Star Wars - The Last Jedi.
 
@@ -849,7 +849,7 @@ Ilość klocków w zestawie: 54
 
 ## 30498 — Lego Star Wars 30498 Imperialny AT-Hauler Polybag 2018
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 62.88 zł · EAN: 05702016117561 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 62.88 zł · EAN: 05702016117561 · in stock*
 
 Klocki LEGO Star Wars 30498 - Imperialny AT-Hauler
 
@@ -859,7 +859,7 @@ Zestaw LEGO Star Wars - Imperialny AT-Hauler trafił do sprzedaży w 2018 roku
 
 ## 30605 — Lego Star Wars 30605 Finn (FN-2187) saszetka klocki minifigurka
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 73.99 zł · EAN: 05702015618113 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 73.99 zł · EAN: 05702015618113 · in stock*
 
 Witam
 
@@ -879,7 +879,7 @@ Rafał
 
 ## 30611 — Lego Star Wars 30611 R2-D2 saszetka klocki minifigurka unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015890076 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015890076 · in stock*
 
 Witam
 
@@ -899,7 +899,7 @@ Rafał
 
 ## 30625 — Lego Star Wars 30625 Luke Skywalker Z Mlekiem Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016686395 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016686395 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -923,7 +923,7 @@ Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życi
 
 ## 30654 — Lego Star Wars 30654 X-Wing Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 32.49 zł · EAN: 05702017421100 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 32.49 zł · EAN: 05702017421100 · in stock*
 
 ★LEGO STAR WARS X-WING STARFIGHTER ZESTAW 30654★
 
@@ -955,7 +955,7 @@ Zestaw zawiera 72 elementy ✅
 
 ## 30680 — 30680 Lego Star Wars Aat saszetka mały zestaw Gwiezdne Wojny 6+
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017590189 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017590189 · in stock*
 
 LEGO 30680 Star Wars AAT
 
@@ -971,7 +971,7 @@ LEGO 30680 Star Wars AAT
 
 ## 30685 — Lego Star Wars Minimodel Tie Interceptor 30685
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017676371 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017676371 · in stock*
 
 LEGO Star Wars Minimodel TIE Interceptor 30685
 
@@ -985,7 +985,7 @@ Zestaw zawiera 48 klocków LEGO.
 
 ## 30727 — Lego Star Wars 30727 Tie Advanced Myśliwiec Dartha Vadera Mini Model
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 10.00 zł · EAN: 05702018058114 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 10.00 zł · EAN: 05702018058114 · in stock*
 
 LEGO Star Wars Minimodel TIE Advanced 30727
 
@@ -997,7 +997,7 @@ Gwiezdne Wojny: Nowa nadzieja.
 
 ## 30728 — Lego Star Wars Minimodel Brzeszczota 30728
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 12.49 zł · EAN: 05702018058121 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 12.49 zł · EAN: 05702018058121 · in stock*
 
 **LEGO Star Wars Minimodel Brzeszczota 30728**
 
@@ -1007,7 +1007,7 @@ Pozwól dzieciom odgrywać własne ekscytujące misje z filmu Star Wars: The Man
 
 ## 3340 — Zestaw Lego Star Wars 3340 Sith Minifigure Pack Nowy Misb 2000
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 800.00 zł · EAN: 05702012009679 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 800.00 zł · EAN: 05702012009679 · in stock*
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO
 
@@ -1032,7 +1032,7 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 
 ## 3850033 — nowy Lego 3850033 Pick a Model Exclusive Lego Store London Unikat Misb 2017
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702015989404 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702015989404 · in stock*
 
 Cześć!
 
@@ -1054,7 +1054,7 @@ Pozdrawiam.
 
 ## 4002019 — Lego Star Wars 4002019 Christmas X-wing Zestaw Pracowniczy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 3190.00 zł · EAN: 00673419058346 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 3190.00 zł · EAN: 00673419058346 · in stock*
 
 **LEGO® 4002019 Star Wars – Christmas X-wing to limitowana edycja zestawu, która z pewnością zadowoli każdego fana LEGO Star Wars. Wydany w 2019 roku, ten zestaw składa się z 1038 elementów i 3 minifigurek.**
 
@@ -1068,7 +1068,7 @@ Pozdrawiam.
 
 ## 40268 — Lego Star Wars 40268 Droid R3-M2 Polybag 6+
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702015879026 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702015879026 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1100,7 +1100,7 @@ Grupa wiekowa tego produktu to 6+.
 
 ## 40288 — Lego Star Wars 40288 BB-8 saszetka z klockami unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016122930 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016122930 · in stock*
 
 Witam
 
@@ -1120,7 +1120,7 @@ Zestaw został wydany w woreczku foliowym.
 
 ## 40298 — Lego Star Wars 40298 Dj saszetka polybag z minifigurką klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 67.99 zł · EAN: 00673419287388 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 67.99 zł · EAN: 00673419287388 · in stock*
 
 LEGO STAR WARS 40298 - DJ
 
@@ -1147,7 +1147,7 @@ Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są 
 
 ## 40299 — Lego Star Wars 40299 Kessel Mine Worker
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419287395 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419287395 · in stock*
 
 **LEGO zestaw  - polybag**
 
@@ -1177,7 +1177,7 @@ Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są 
 
 ## 40333 — Lego Star Wars 40333 Bitwa o Hoth
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016371161 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016371161 · in stock*
 
 LEGO Mikromodel Bitwa o Hoth 40333
 
@@ -1187,7 +1187,7 @@ Wzbogać swoją kolekcję o wspaniały mikromodel Bitwa o Hoth! W zestawie znajd
 
 ## 40362 — Lego Star Wars 40362 Mikromodel Bitwa o Endor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 169.79 zł · EAN: 05702016390070 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.79 zł · EAN: 05702016390070 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1215,7 +1215,7 @@ Zestaw LEGO Star Wars - Mikromodel Bitwa o Endor trafił do sprzedaży w 2019 
 
 ## 40407 — Lego Star Wars Bitwa o Gwiazdę Śmierci II 40407
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016656671 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016656671 · in stock*
 
 Klocki LEGO Star Wars 40407 - Bitwa o Gwiazdę Śmierci II
 
@@ -1225,7 +1225,7 @@ Uczcij Dzień Gwiezdnych wojen™, budując walki Jedi z filmu „Gwiezdne wojny
 
 ## 40451 — Zestaw Lego Star Wars 40451 Gwiezdne Wojny: Gospodarstwo Na Tatooine
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702016910995 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702016910995 · in stock*
 
 ZESTAW LEGO STAR WARS - 40451 - GWIEZDNE WOJNY: GOSPODARSTWO NA TATOOINE
 
@@ -1265,7 +1265,7 @@ LEGO Star Wars 40451 to wyjątkowy zestaw dla każdego fana Gwiezdnych Wojen, kt
 
 ## 40483 — Lego 40483 Miecz świetlny Luke'a Skywalkera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702016988055 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702016988055 · in stock*
 
 LEGO 40483
 
@@ -1279,7 +1279,7 @@ Miecz świetlny Luke'a Skywalkera
 
 ## 40558 — Lego 40558 Star Wars Stacja dowodzenia żołnierza oddziału klonów klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419359955 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419359955 · in stock*
 
 LEGO® 40557 Obrona Hoth™
 
@@ -1301,7 +1301,7 @@ Rafał
 
 ## 40591 — Zestaw Lego Star Wars – 40591 – Gwiazda Śmierci II Z Gwiezdnych Wojen
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 278.00 zł · EAN: 05702017423906 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 278.00 zł · EAN: 05702017423906 · in stock*
 
 ZESTAW LEGO STAR WARS – 40591 – GWIAZDA ŚMIERCI II Z GWIEZDNYCH WOJEN
 
@@ -1341,7 +1341,7 @@ Zestaw LEGO Star Wars 40591 Gwiazda Śmierci II to doskonały prezent dla każde
 
 ## 40658 — Lego 40658 Star Wars Świąteczna diorama z Sokołem Millennium Święta
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702017471556 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702017471556 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -1355,7 +1355,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40686 — Lego 40686 Star Wars Transporter droidów Federacji Handlowej
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017597157 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017597157 · in stock*
 
 Oryginalne, nienaruszone opakowanie
 
@@ -1375,7 +1375,7 @@ Przybliżone wymiary opakowania:** 20,3 x 7,6 x 7,6 cm**
 
 ## 40730 — Lego 40730 Star Wars Miecz Świetlny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 442.00 zł · EAN: 05702017598772 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 442.00 zł · EAN: 05702017598772 · in stock*
 
 LEGO® 40730 Miecz świetlny Luke’a Skywalkera
 
@@ -1392,7 +1392,7 @@ Wyzwól moc swej kreatywności, budując zestaw dla dorosłych LEGO® Star Wars
 
 ## 40755 — Lego Star Wars 40755 Imperialny transportowiec kontra śmigacz Rebelii
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702017726878 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702017726878 · in stock*
 
 LEGO 40755 Star Wars - Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii
  
@@ -1430,7 +1430,7 @@ Ten fajny zestaw z Gwiezdnych Wojen dla dzieci w wieku od ośmiu lat zawiera trz
 
 ## 40765 — Lego Star Wars 40765 Ośrodek szkoleniowy na Kamino 3 klony kadetów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 162.99 zł · EAN: 05702017830254 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 162.99 zł · EAN: 05702017830254 · in stock*
 
 LEGO Star Wars 40765 Ośrodek szkoleniowy na Kamino 3 klony kadetów / NOWY / UNIKAT
 
@@ -1461,7 +1461,7 @@ Zbuduj armię klonów i przygotuj ją do bitwy w ośrodku szkoleniowym na Kamino
 
 ## 40771 — Lego 40771 Star Wars Myśliwiec Tie Ze Stanowiskiem W Imperialnym Hangarze
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702017829814 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702017829814 · in stock*
 
 Odtwórz kultowy myśliwiec TIE i zadokuj go na stanowisku w imperialnym hangarze dzięki temu zestawowi LEGO® Star Wars™ (40771) dla dzieci w wieku od 10 lat. Zawiera myśliwiec TIE i stanowisko, które można przymocować do ściany hangaru Gwiazdy Śmierci. W zestawie znajdują się również trzy minifigurki LEGO Star Wars, w tym dwóch szturmowców, a także wózek serwisowy, który można dodać do modelu Gwiazdy Śmierciz serii Ultimate Collector Series. Zestaw zawiera 236 elementów.
 
@@ -1478,7 +1478,7 @@ Odtwórz kultowy myśliwiec TIE i zadokuj go na stanowisku w imperialnym hangarz
 
 ## 40806 — * Lego Star Wars Piernikowa maszyna krocząca At-at 40806
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 205.88 zł · EAN: 05702017829968 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 205.88 zł · EAN: 05702017829968 · in stock*
 
 LEGO STAR WARS - Piernikowa maszyna krocząca AT-AT 40806
  
@@ -1509,7 +1509,7 @@ Ten świąteczny zestaw konstrukcyjny **zawiera AT-AT w stylu domku z piernika i
 
 ## 4485 — Lego Star Wars 4485 Sebulba's Podracer Mini 2003 rok
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702014260306 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702014260306 · in stock*
 
 LEGO Star Wars 4485 Sebulba's Podracer Mini
 
@@ -1527,7 +1527,7 @@ LEGO Star Wars 4485 Sebulba's Podracer Mini to zestaw klocków idealny dla młod
 
 ## 4486 — Lego Star Wars 4486 Mini At-st & Snowspeeder nowy zestaw klocków unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702014260290 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702014260290 · in stock*
 
 Witam
 
@@ -1547,7 +1547,7 @@ Rafał
 
 ## 4505 — Lego 4504 Star Wars Millennium Falcon
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702014365902 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702014365902 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1575,7 +1575,7 @@ Rafał
 
 ## 5005376 — Lego Star Wars 5005376 Darth Vader Kapsuła rocznicowa
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 164.88 zł · EAN: 00673419290869 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 164.88 zł · EAN: 00673419290869 · in stock*
 
 Klocki LEGO Star Wars 5005376 - Kapsuła rocznicowa
 
@@ -1585,7 +1585,7 @@ Zestaw LEGO Star Wars - Kapsuła rocznicowa trafił do sprzedaży w 2018 roku.
 
 ## 5008162 — Lego 5008162 Star Wars Limited Edition Kredyt plus naszywki Nowe Kolekcjon.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 575.21 zł · EAN: 05060373576125 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 575.21 zł · EAN: 05060373576125 · in stock*
 
 LEGO® Star Wars 5008162 - Collectible: Clone Wars Edition - LIMITOWANE
 
@@ -1605,7 +1605,7 @@ Zestaw LEGO mocno limitowany składa się z dwóch naszywek oraz jednego metalow
 
 ## 5010320 — Lego Star Wars 5010320 Ozdoba z Mandalorianinem i Grogu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 199.98 zł · EAN: 05060093913385 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.98 zł · EAN: 05060093913385 · in stock*
 
 LEGO 5010320 Ozdoba z Mandalorianinem i Grogu
 
@@ -1645,7 +1645,7 @@ Dodaj odrobinę galaktycznego klimatu do swojej kolekcji - LEGO 5010320 z Mandal
 
 ## 66775 — Lego Star Wars 66775 Bitwa o Hoth Unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 882.00 zł · EAN: 00673419390606 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 882.00 zł · EAN: 00673419390606 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
  
@@ -1662,7 +1662,7 @@ Dodaj odrobinę galaktycznego klimatu do swojej kolekcji - LEGO 5010320 z Mandal
 
 ## 6965 — Lego Star Wars 6965 Tie Interceptor Kabaya saszetka klocki unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014399471 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014399471 · in stock*
 
 Witam
 
@@ -1686,7 +1686,7 @@ Rafał
 
 ## 7103 — nowy Lego Star Wars 7103 Jedi Duel Dooku Yoda unikat Misb 2002
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2549.99 zł · EAN: 05702014151802 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2549.99 zł · EAN: 05702014151802 · in stock*
 
 Cześć!
 
@@ -1708,7 +1708,7 @@ Pozdrawiam.
 
 ## 75001 — Lego Star Wars 75001 Republic Troopers vs. Sith Troopers Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702014974913 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702014974913 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1724,7 +1724,7 @@ Zestaw klocków LEGO 75001 Republic Troopers™ vs. żołnierze Sith™ został 
 
 ## 75002 — Lego Star Wars 75002 At-rt Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702014974906 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702014974906 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1749,7 +1749,7 @@ Zestaw **LEGO 75002 **to doskonały wybór dla fanów Star Wars, którzy uwielbi
 
 ## 75004 — Klocki Lego Star Wars Z-95 Headhunter Zestaw Kolekcjonerski 75004
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1098.00 zł · EAN: 05702014974883 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1098.00 zł · EAN: 05702014974883 · in stock*
 
 LEGO 75004 Star Wars Z-95 Headhunter™Zestaw LEGO Star Wars Z-95 Headhunter™ (75004) został wydany w 2013 roku i składa się z 373 klocków. Jest to model myśliwca Z-95 Headhunter, znanego z serialu animowanego "Gwiezdne wojny: Wojny klonów". Zestaw zawiera trzy minifigurki: pilota-klona, żołnierza 501. Legionu Klonów oraz mistrza Jedi Ponga Krella, a także różne bronie i akcesoria, w tym dwa podwójne miecze świetlne i blaster.
 
@@ -1761,7 +1761,7 @@ Wymiary złożonego modelu to około 9 cm wysokości, 39 cm długości i 32 cm s
 
 ## 75005 — Lego Star Wars Zestaw Rancor Pit 75005
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014974876 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014974876 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1784,7 +1784,7 @@ Wymiary złożonego modelu to około 9 cm wysokości, 39 cm długości i 32 cm s
 
 ## 75006 — Lego Star Wars 75006 Jedi Starfighter i Kamiino
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014974241 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014974241 · in stock*
 
 Nowy, nieotwierany zestaw LEGO® 75006: Jedi Starfighter i Kamino.
 
@@ -1796,7 +1796,7 @@ Oceaniczna planeta Kamino to wrogi, niegościnny świat pełen kotłujących si�
 
 ## 75008 — Lego Star Wars 75008 Tie Bomber i Pole Asteroid
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702014974265 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702014974265 · in stock*
 
 LEGO Star Wars 75008 TIE Bomber & Pole Asteroid
 
@@ -1815,7 +1815,7 @@ Zestaw obejmuje:
 
 ## 75009 — Lego Star Wars 75009 Planets 4 Snowspeeder & Planet Hoth nowy zestaw klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702014974678 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702014974678 · in stock*
 
 Witam
 
@@ -1835,7 +1835,7 @@ Rafał
 
 ## 75012 — Lego Star Wars 75012 Barc Speeder z przyczepką Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702014974869 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702014974869 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1851,7 +1851,7 @@ Zestaw LEGO Star Wars 75012 – **BARC Speeder z bocznym wózkiem ** to doskona�
 
 ## 75013 — Klocki Lego Star Wars Zestaw umbarra tank 75013
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1179.00 zł · EAN: 05702014974852 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1179.00 zł · EAN: 05702014974852 · in stock*
 
 LEGO Star Wars - 75013 Umbarran MHC
 
@@ -1869,7 +1869,7 @@ Zestaw **LEGO 75013 **to idealny wybór dla fanów **Star Wars **, którzy c
 
 ## 75014 — Lego Star Wars 75014 – Battle of Hoth
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 985.00 zł · EAN: 05702014974845 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 985.00 zł · EAN: 05702014974845 · in stock*
 
 **LEGO 75014** to zestaw z kultowej serii LEGO Star Wars, oparty na jednej z najbardziej znanych bitew z oryginalnej trylogii — **Bitwie o Hoth**, przedstawionej w Star Wars: Imperium kontratakuje.
 
@@ -1923,7 +1923,7 @@ Zestaw odwzorowuje **bitwę Rebeliantów z Imperium galaktycznym na lodowej plan
 
 ## 75015 — Klocki Lego Star Wars Zestaw Corporate Alliance Tank Droid 75015
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014974838 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014974838 · in stock*
 
 **LEGO Star Wars 75015 Corporate Alliance Tank Droid**.
 
@@ -1953,7 +1953,7 @@ To właśnie tutaj 75015 błyszczy najbardziej. W pudełku znajdziemy 3 postacie
 
 ## 75016 — Klocki Lego Star Wars Zestaw Homing Spider Droid 75016
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014974821 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014974821 · in stock*
 
 Zestaw **LEGO Star Wars Homing Spider Droid 75016** to model inspirowany wydarzeniami z filmu "Gwiezdne Wojny™: Epizod II - Atak klonów" oraz serialu animowanego "Wojny Klonów". Wydany został w 2013 roku i składa się z **295 elementów**. Przeznaczony jest dla dzieci w wieku od 7 do 12 lat.
 
@@ -1977,7 +1977,7 @@ Wymiary zbudowanego Homing Spider Droida to około 20 cm wysokości, 26 cm dług
 
 ## 75017 — Klocki Lego Star Wars Zestaw Pojedynek na Genosis 75017
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974814 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974814 · in stock*
 
 KLOCKI LEGO STAR WARS POJEDYNEK NA GENOSIS 75017
 
@@ -2005,7 +2005,7 @@ Zestaw został zaprojektowany tak, aby oddać dramaturgię pojedynku:
 
 ## 75019 — Klocki Lego Star Wars Zestaw Maszyna Bojowa At-te 75019
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974791 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974791 · in stock*
 
 Klocki LEGO Star Wars Zestaw AT-TE 75019
 
@@ -2047,7 +2047,7 @@ Zestaw 75019 jest doskonały do odgrywania epickich bitew z "Wojen Klonów", zw�
 
 ## 75020 — Klocki Lego Star Wars Zestaw Barka Żeglowa Jabby 75020
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702014974784 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702014974784 · in stock*
 
 Klocki LEGO Star Wars Zestaw Barka Żeglowa Jabby 75020
 
@@ -2091,7 +2091,7 @@ Zestaw 75020 to doskonała propozycja dla fanów oryginalnej trylogii Gwiezdnych
 
 ## 75022 — Lego Star Wars 75022 Mandalorian Speeder Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 681.00 zł · EAN: 05702014974746 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 681.00 zł · EAN: 05702014974746 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2135,7 +2135,7 @@ Nie przegap okazji, by zdobyć **LEGO® 75022 Mandalorian Speeder™ **i dołąc
 
 ## 75024 — Lego Star Wars 75024 HH-87 Starhopper Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702014974739 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702014974739 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2159,7 +2159,7 @@ Przeniknij do załogi Cada Bane'a i odkryj jego nikczemne plany jako Obi-Wan Ken
 
 ## 75025 — Lego 75025 Star Wars Jedi Defender-class Cruiser old Republic Nowy Zestaw
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 05702014974722 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 05702014974722 · in stock*
 
 - **Zestaw NOWY oryginalny LEGO.**
 - **Brak oryginalnego pudełka. Wszystkie klocki oraz figurki są oryginalnie zapakowane w woreczki fabrycznie zamknięte. 6 woreczków.**
@@ -2183,7 +2183,7 @@ Zestaw zawiera 927 elementów oraz 4 minifigurki z bronią: rycerza Jedi, negocj
 
 ## 75030 — Lego Star Wars 75030 Millennium Falcon
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702015121019 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702015121019 · in stock*
 
 Lego Star Wars 75030 Millennium Falcon
  
@@ -2206,7 +2206,7 @@ Zestaw zawiera minifigurkę Hana Solo z pistoletem blasterowym.
 
 ## 75033 — Lego Star Wars 75033 Star Destroyer
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 148.97 zł · EAN: 05702015121057 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 148.97 zł · EAN: 05702015121057 · in stock*
 
 LEGO Star Wars 75033 - Star Destroyer
 
@@ -2260,7 +2260,7 @@ LEGO® 75033 Star Wars - Star Destroyer
 
 ## 75034 — Lego 75034 Star Wars Death Star Troopers Szturmowcy z Gwiazdy Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 325.21 zł · EAN: 05702015121088 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 325.21 zł · EAN: 05702015121088 · in stock*
 
 LEGO 75034 Star Wars - Death Star Troopers
 
@@ -2280,7 +2280,7 @@ Ilość klocków:** 83**
 
 ## 75035 — Lego Star Wars Żołnierze z Kashyyyk 75035
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702015121101 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702015121101 · in stock*
 
 Klocki LEGO Star Wars 75035 - Kashyyyk Troopers
  
@@ -2299,7 +2299,7 @@ Przygotuj elitarny 41 korpus do walki o planetę Kashyyyk! Odtwórz emocjonując
 
 ## 75036 — Lego Star Wars 75036 Utapau Troopers
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 478.97 zł · EAN: 05702015121132 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 478.97 zł · EAN: 05702015121132 · in stock*
 
 LEGO Star Wars 75036 - Utapau Troopers
 
@@ -2349,7 +2349,7 @@ LEGO® 75036 Star Wars - Utapau Troopers
 
 ## 75037 — Klocki Lego Star Wars Zestaw Bitwa na Saleucami 75037
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121156 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121156 · in stock*
 
 Klocki LEGO Star Wars Zestaw Bitwa na Saleucami 75037
 
@@ -2379,7 +2379,7 @@ Mimo że jest to mniejszy zestaw, obecność BARC Troopera czyni go atrakcyjnym 
 
 ## 75038 — Klocki Lego Star Wars Zestaw Statek Jedi Interceptor 75038
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121163 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121163 · in stock*
 
 **Klocki LEGO Star Wars Zestaw Statek Jedi Interceptor 75038**
 
@@ -2428,7 +2428,7 @@ Rok prezentacji: **2014**
 
 ## 75039 — Klocki Lego Star Wars Zestaw V-wing Starfighter 75039
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015121170 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015121170 · in stock*
 
 **KLOCKI LEGO V-WING STARFIGHTER 75039**
 
@@ -2456,7 +2456,7 @@ Zestaw LEGO Star Wars - V-Wing Starfighter trafił do sprzedaży w 2014 roku.
 
 ## 75040 — Klocki Lego Star Wars Zestaw General Grievous' Wheel Bike 75040
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015121187 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015121187 · in stock*
 
 Klocki LEGO Star Wars 75040 - General Grievous’ Wheel Bike
 
@@ -2482,7 +2482,7 @@ Wymiary: ok. 14 cm wysokości, 16 cm długości i 11 cm szerokości.
 
 ## 75041 — Lego Star Wars 75041 Vulture Droid
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015119535 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015119535 · in stock*
 
 Klocki LEGO Star Wars 75041 - Vulture Droid
 
@@ -2501,7 +2501,7 @@ Patroluj niebo nad planetą Coruscant wraz z droidem-sępem separatystów. Potem
 
 ## 75042 — Klocki Lego Star Wars Zestaw Droid Gunship 75042
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015119542 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015119542 · in stock*
 
 Klocki LEGO Star Wars Zestaw Droid Gunship 75042
 
@@ -2537,7 +2537,7 @@ Zestaw 75042 Droid Gunship jest idealny do odgrywania scen bitew z "Wojen Klonó
 
 ## 75043 — Klocki Lego Star Wars Zestaw At-ap 75043
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015119559 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015119559 · in stock*
 
 LEGO Star Wars 75043 AT-AP
 
@@ -2565,7 +2565,7 @@ Wymiary: ok. 25 cm wysokości, 25 cm długości i 14 cm szerokości.
 
 ## 75044 — Klocki Lego Star Wars Zestaw Droid Tri-fighter 75044
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015119566 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015119566 · in stock*
 
 **Zestaw jest NOWY, oryginalnie zamknięty/zaplombowany.**
 
@@ -2588,7 +2588,7 @@ Kanclerz Palpatine™ został schwytany! Trzeba go przetransportować zanim ryce
 
 ## 75045 — Lego 75045 Star Wars Republic AV-7 A-v Cannon
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1375.00 zł · EAN: 05702015122375 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1375.00 zł · EAN: 05702015122375 · in stock*
 
 Zestaw jest nowy w tym znaczeniu, że jest fabrycznie zapieczętowany. Jednakże pudełko nosi lekkie ślady długiego składowania. Są niewielkie otarcia na rogach i krawędziach pudełka itp.
 
@@ -2598,7 +2598,7 @@ Wysyłka do 5 dni roboczych od wpłynięcia wpłaty. PROSZĘ O PRZMYŚLANE ZAKUP
 
 ## 75046 — Klocki Lego Star Wars Zestaw Coruscant Statek policyjny 75046
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702015122382 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702015122382 · in stock*
 
 LEGO 75046 Star Wars - Coruscant Police Gunship: Szczegółowy Opis
 
@@ -2633,7 +2633,7 @@ Zestaw zawiera **cztery minifigurki**, które są kluczowym elementem dla fanów
 
 ## 75048 — Lego Star Wars 75048 Phantom Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 582.00 zł · EAN: 05702015122399 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 582.00 zł · EAN: 05702015122399 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2659,7 +2659,7 @@ Dołącz do Sojuszu Rebeliantów i rusz do walki ze złym Imperium w promie sztu
 
 ## 75049 — Klocki Lego Star Wars Zestaw Snowspeeder 75049
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015122405 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015122405 · in stock*
 
 ZESTAW STAR WARS
 
@@ -2701,7 +2701,7 @@ Zestaw zawiera:
 
 ## 75050 — Klocki Lego Star Wars Zestaw B-Wing 75050
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015122412 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015122412 · in stock*
 
 **LEGO 75050 STAR WARS KLOCKI MYŚLIWIEC B-WING**
  
@@ -2713,7 +2713,7 @@ W zestawie 3 minifigurki z wyborem broni i akcesorium: Ten Numb™, pilot Szareg
 
 ## 75051 — Lego Star Wars 75051 Myśliwiec Jedi Scout
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702015122429 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702015122429 · in stock*
 
 **Oryginalny zestaw Lego Star Wars 75051 Jedi Scout Fighter**
 
@@ -2748,7 +2748,7 @@ Myśliwiec dysponuje:
 
 ## 75052 — Lego Star Wars 75052 Kantyna Mos Eisley
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 950.00 zł · EAN: 05702015122436 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 950.00 zł · EAN: 05702015122436 · in stock*
 
 Klocki LEGO Star Wars 75052 - Kantyna Mos Eisley
  
@@ -2823,7 +2823,7 @@ Funkcje i możliwości zabawy
 
 ## 75053 — Lego 75053 Star Wars The Ghost
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2650.00 zł · EAN: 05702015122443 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2650.00 zł · EAN: 05702015122443 · in stock*
 
 Zestaw jest nowy w tym znaczeniu, że jest fabrycznie zapieczętowany. Jednakże pudełko nosi lekkie ślady długiego składowania. Są niewielkie otarcia na rogach i krawędziach pudełka.
 
@@ -2833,7 +2833,7 @@ Wysyłka do 5 dni roboczych od wpłynięcia wpłaty. PROSZĘ O PRZMYŚLANE ZAKUP
 
 ## 75054 — Klocki Lego Star Wars Zestaw Maszyna krocząca At-at 75054
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015123778 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015123778 · in stock*
 
 LEGO Star Wars 75054 – Maszyna Krocząca AT-AT
 
@@ -2881,7 +2881,7 @@ To absolutny klasyk z 2014 roku! Zestaw **75054** to dla wielu fanów "Gwiezdnyc
 
 ## 75055 — Klocki Lego Star Wars Zestaw Imperial Star Destroyer 75055
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015123785 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015123785 · in stock*
 
 LEGO Star Wars 75055 Imperial Star Destroyer
 
@@ -2907,7 +2907,7 @@ Ma ok. 19 cm wysokości, 50 cm długości i 33 cm szerokości
 
 ## 75058 — Lego Star Wars 75058 Mtt Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015123808 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015123808 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2932,7 +2932,7 @@ Zawieź droidy na pole bitwy w mocno opancerzonym pojeździe MTT™! Ten transpo
 
 ## 75059 — Lego 75059 Star Wars Zestaw Sandcrawler
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 3100.00 zł · EAN: 05702015123815 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 3100.00 zł · EAN: 05702015123815 · in stock*
 
 LEGO Star Wars 75059 Sandcrawler UCS
 
@@ -2964,7 +2964,7 @@ Ten imponujący model wiernie odwzorowuje legendarny pojazd Jawów z Tatooine, z
 
 ## 75060 — Lego Star Wars 75060 Slave I Ucs Opis
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702015123822 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702015123822 · in stock*
 
 LEGO Star Wars Slave I - UCS
  
@@ -2989,7 +2989,7 @@ Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
 ## 75073 — Klocki Lego Star Wars Star Wars Droid Sęp L-75073
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015349093 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015349093 · in stock*
 
 Przygotuj się do ataku na wojska Republiki ze śmiercionośnym mikromyśliwcem z ze stawu Droid Sęp LEGO® Star Wars. Ta ciekawa, pomniejszona wersja bojowego droida LEGO® Star Wars Separatystów ma dobrze oddane szczegóły, w tym 2 pociski, skrzydła zmieniające pozycję w trybie lotu i maszyny kroczącej, a nawet miniaturowy kopkpit, w którym można posadzić Droida-Pilota. Wskakuj za stery, przechodź do lotu i ruszaj zapolować na siły Republiki na niebie ponad planetą Coruscant! Zestaw zawiera droida-pilota z miotaczem.
 
@@ -3006,7 +3006,7 @@ Zestaw zawiera droida-pilota z miotaczem
 
 ## 75074 — Lego Star Wars 75074 Śmigacz śnieżny Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 153.00 zł · EAN: 05702015349109 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 153.00 zł · EAN: 05702015349109 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3031,7 +3031,7 @@ Popędź lodowymi polami planety Hoth w zwinnej miniaturce śmigacza z zestawu L
 
 ## 75075 — Lego Star Wars 75075 At-at
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702015349116 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702015349116 · in stock*
 
 LEGO STAR WARS 75075 AT-AT
  
@@ -3054,7 +3054,7 @@ Ruszaj na bazę Rebeliantów na planecie Hoth na pokładzie miniaturki niezwykł
 
 ## 75078 — Lego Star Wars 75078 Transport szturmowców Imperium Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 274.00 zł · EAN: 05702015351133 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 274.00 zł · EAN: 05702015351133 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3079,7 +3079,7 @@ Wyśledź kryjówkę rebeliantów na planecie Lothal, wysyłając tam zbrojny od
 
 ## 75079 — Lego Star Wars 75079 Mroczni szturmowcy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 315.21 zł · EAN: 05702015351140 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 315.21 zł · EAN: 05702015351140 · in stock*
 
 Klocki LEGO Star Wars 75079 - Mroczni szturmowcy
  
@@ -3116,7 +3116,7 @@ Specyfikacja zestawu LEGO 75079
 
 ## 75080 — Lego 75080 Star Wars Aat Misb z 2015r
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015349147 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015349147 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -3130,7 +3130,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75081 — Klocki Lego 75081 Star Wars T-16 Skyhopper
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 277.97 zł · EAN: 05702015349154 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 277.97 zł · EAN: 05702015349154 · in stock*
 
 Klocki LEGO Star Wars 75081 - T-16 Skyhopper FV
 
@@ -3176,7 +3176,7 @@ Specyfikacja zestawu LEGO 75081
 
 ## 75082 — Lego Star Wars 75082 Myśliwiec Inkwizytora
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015351157 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015351157 · in stock*
 
 LEGO STAR WARS
 
@@ -3208,7 +3208,7 @@ Zestaw LEGO 75082 Myśliwiec Inkwizytora
 
 ## 75083 — Klocki Lego Star Wars Zestaw At-dp 75083
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015352093 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015352093 · in stock*
 
 KLOCKI LEGO STAR WARS 75083 AT-DP PILOT
 
@@ -3242,7 +3242,7 @@ Wskakuj do kokpitu, zamknij właz, załaduj podwójne sprężynowe działka i pr
 
 ## 75084 — Klocki Lego Star Wars Okręt bojowy Wookiee 75084 Unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 869.99 zł · EAN: 05702015352109 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 869.99 zł · EAN: 05702015352109 · in stock*
 
 Zestaw LEGO® 75084 Okręt bojowy Wookiee™
 
@@ -3263,7 +3263,7 @@ Obroń Wullffwarro i jego przyjaciela Jedi, Kanana Jarrusa, korzystając z siły
 
 ## 75085 — Lego Star Wars Zestaw Droid gradowy 75085
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 638.99 zł · EAN: 05702015349468 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 638.99 zł · EAN: 05702015349468 · in stock*
 
 **LEGO 75085 - HAILFIRE DROID**
 
@@ -3283,7 +3283,7 @@ W zestawie:
 
 ## 75086 — Lego Star Wars 75086 Transportowiec Battle Droid Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702015349475 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702015349475 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3311,7 +3311,7 @@ Zestaw klocków **LEGO 75086 Transportowiec Battle Droid™ **został pokazany w
 
 ## 75088 — Lego Star Wars 75088 Komandosi Senatu nowy zestaw klocków
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702015349499 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702015349499 · in stock*
 
 LEGO 75088 Komandosi Senatu - rok 2015!
 
@@ -3344,7 +3344,7 @@ Rafał
 
 ## 75089 — Lego Star Wars 75089 Geonosjańscy żołnierze Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015349505 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015349505 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3369,7 +3369,7 @@ Wspomóż armię klonów w walce o Geonosis, wysyłając na pomoc żołnierzy z 
 
 ## 75090 — Lego Star Wars 75090 Superścigacz Ezry Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015352116 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015352116 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3392,7 +3392,7 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 ## 75091 — Lego Zestaw Star Wars Śmigacz Flash 75091
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 410.00 zł · EAN: 05702015352147 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 410.00 zł · EAN: 05702015352147 · in stock*
 
 LEGO Star Wars Śmigacz Flash 75091
 
@@ -3431,7 +3431,7 @@ Siły bezpieczeństwa Naboo na pokładzie swojego Flash Speedera, wspierani prze
 
 ## 75092 — Lego Star Wars 75092 Naboo Starfighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015352154 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015352154 · in stock*
 
 WITAM SERDECZNIE.
 
@@ -3445,7 +3445,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 75093 — Lego Star Wars 75093 Gwiazda Śmierci ostateczny pojedynek Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 692.00 zł · EAN: 05702015352161 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 692.00 zł · EAN: 05702015352161 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3477,7 +3477,7 @@ Odegraj słynny pojedynek Luke'a Skywalkera z Darthem Vaderem i Imperatorem Palp
 
 ## 75094 — Lego Star Wars 75094 Imperialny wahadłowiec Tydirium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015352376 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015352376 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3500,7 +3500,7 @@ Odegraj słynny pojedynek Luke'a Skywalkera z Darthem Vaderem i Imperatorem Palp
 
 ## 75095 — Lego Star Wars 75095 Tie Fighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1572.00 zł · EAN: 05702015352383 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1572.00 zł · EAN: 05702015352383 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3522,7 +3522,7 @@ Z dumą prezentujemy kolekcjonerski zestaw LEGO® Star Wars TIE Fighter. Ten kla
 
 ## 75096 — Lego 75096 Star Wars Infiltrator Sithów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015352390 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015352390 · in stock*
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -3544,7 +3544,7 @@ Przybliżone wymiary opakowania:** 54 x 7,8 x 28,2 cm**
 
 ## 75099 — Lego Star Wars 75099 Śmigacz Reya
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 227.03 zł · EAN: 05702015352611 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 227.03 zł · EAN: 05702015352611 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3586,7 +3586,7 @@ Pędź do akcji śmigaczem Rey. Ten niesamowity pojazd ma wszystko, czego Rey po
 
 ## 75101 — Lego Star Wars 75101 First Order Special Forces Tie fighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 571.45 zł · EAN: 05702015352130 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 571.45 zł · EAN: 05702015352130 · in stock*
 
 LEGO Star Wars 75101
 
@@ -3628,7 +3628,7 @@ Wiek: 8 - 14
 
 ## 75102 — Lego 75102 Star Wars Poe's X-Wing Fighter Unikat z 2015r
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015352628 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015352628 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -3642,7 +3642,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75103 — Lego Star Wars 75103 Firs Order Transporter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1250.00 zł · EAN: 05702015352635 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1250.00 zł · EAN: 05702015352635 · in stock*
 
 Klocki LEGO 75103 First Order Transporter
  
@@ -3666,7 +3666,7 @@ Opuść rampę, załaduj szturmowców i przygotuj się do desantu! Pancerny tran
 
 ## 75104 — Klocki Lego Star Wars Zestaw Command Shuttle Kylo Rena 75104
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702015352642 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702015352642 · in stock*
 
 KLOCKI LEGO STAR WARS COMMAND SHUTTLE™ KYLO RENA 75104
 
@@ -3710,7 +3710,7 @@ Ruszaj do walki osobistym wahadłowcem dowodzenia Kylo Rena! Ten niesamowity sta
 
 ## 75105 — Lego Star Wars 75105 Millennium Falcon
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419231619 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419231619 · in stock*
 
 Klocki LEGO Star Wars 75105 - Millennium Falcon
  
@@ -3739,7 +3739,7 @@ Zestaw LEGO Star Wars - Millennium Falcon trafił do sprzedaży w 2015 roku. N
 
 ## 75106 — Lego Star Wars 75106 Imperial Asault Carrier
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1685.00 zł · EAN: 05702015367813 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1685.00 zł · EAN: 05702015367813 · in stock*
 
 LEGO Gwiezdne Wojny Imperial Asault Carrier (Star Wars) (75106) [KLOCKI]
 
@@ -3777,7 +3777,7 @@ Uwolnij eskadrę myśliwców TIE z Imperial Assault Carrier z klocków LEGO. Zes
 
 ## 75107 — Lego Star Wars 75107 Jango Fett Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 296.00 zł · EAN: 05702015429665 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 296.00 zł · EAN: 05702015429665 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3799,7 +3799,7 @@ Stań do walki z Jedi u boku Jango Fetta, który wygląda lepiej niż kiedykolwi
 
 ## 75108 — Lego 75108 Dowódca Klonów Cody Zestaw Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702015429870 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702015429870 · in stock*
 
 Witam serdecznie i zapraszam do zakupu zestawu klocków:
 
@@ -3825,7 +3825,7 @@ Zwrot do sprzedającego na koszt kupującego
 
 ## 75109 — Lego Star Wars 75109 Obi-wan Kenobi Nowe Gdańsk
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702015429887 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702015429887 · in stock*
 
 LEGO STAR WARS
 
@@ -3856,7 +3856,7 @@ WYMIARY OPAKOWANIA :
 
 ## 75110 — Lego Star Wars 75110 Luke Skywalker Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702015429900 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702015429900 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3879,7 +3879,7 @@ Pokonaj złe Imperium z pomocą figurki zbudowanej z klocków Luke'a Skywalkera!
 
 ## 75112 — Klocki Lego Star Wars Zestaw Generał Grievous 75112
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015429924 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015429924 · in stock*
 
 **LEGO Star Wars Generał Grievous 75112**
 
@@ -3901,7 +3901,7 @@ Wysokość 30 cm
 
 ## 75113 — Lego Star Wars 75113 Rey
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 74.71 zł · EAN: 05702015594219 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 74.71 zł · EAN: 05702015594219 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3951,7 +3951,7 @@ Produkt spełnia normy Unii Europejskiej w zakresie bezpieczeństwa oraz wpływu
 
 ## 75114 — Lego 75114 Star Wars Szturmowiec Najwyższego Porządku nowa figurka
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015594202 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015594202 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -3977,7 +3977,7 @@ LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
 ## 75117 — Nowy Lego Star Wars 75117 Kylo Ren Misb 2016
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702015594172 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702015594172 · in stock*
 
 Cześć!
 
@@ -4001,7 +4001,7 @@ Pozdrawiam.
 
 ## 75118 — Lego Star Wars 75118 Kapitan Phasma Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702015593366 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702015593366 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4021,7 +4021,7 @@ Sięgnij po ruchomą figurkę kapitan Phasmy (do zbudowania), aby móc wydawać 
 
 ## 75119 — Lego Star Wars 75119 Sierżant Jyn Erso
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 69.85 zł · EAN: 05702015593359 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.85 zł · EAN: 05702015593359 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4071,7 +4071,7 @@ Pomóż Rebeliantom stawić czoła Imperium dzięki tej figurce sierżant Jyn Er
 
 ## 75121 — Lego 75121 Star Wars Imperialny szturmowiec śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015593335 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015593335 · in stock*
 
 Klocki LEGO Star Wars 75121 - Imperialny szturmowiec śmierci
  
@@ -4091,7 +4091,7 @@ Stań wśród elitarnych obrońców Imperium dzięki tej figurce szturmowca śmi
 
 ## 75125 — Klocki Lego Star Wars X-Wing Fighter Ruchu Oporu 75125
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 100.67 zł · EAN: 05702015590600 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 100.67 zł · EAN: 05702015590600 · in stock*
 
 PIERWSZE ZDJĘCIE POGLĄDOWE! SPRZEDAJEMY TO CO WIDAĆ NA ZDJĘCIACH!
 
@@ -4115,7 +4115,7 @@ HM
 
 ## 75126 — Klocki Lego Star Wars Śmigacz śnieżny Najwyższego Porządku 75126
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 118.18 zł · EAN: 05702015590617 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.18 zł · EAN: 05702015590617 · in stock*
 
 SPRZEDAJEMY TO CO WIDAĆ NA ZDJĘCIACH! PIERWSZE ZDJĘCIE POGLĄDOWE!
 
@@ -4142,7 +4142,7 @@ HM
 
 ## 75127 — Klocki Lego 75127 Star Wars Ghost The Ghost Microfighter Mikromyśliwiec
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 275.21 zł · EAN: 05702015590624 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 275.21 zł · EAN: 05702015590624 · in stock*
 
 Klocki LEGO 75127 Star Wars - Ghost
 
@@ -4180,7 +4180,7 @@ Wystartuj w fantastyczny świat kolekcjonerskich mikromyśliwców LEGO z miniatu
 
 ## 75128 — Lego Star Wars 75128 Tie Advanced Prototype
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702015590631 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702015590631 · in stock*
 
 LEGO STAR WARS 75128 TIE ADVANCED PROTOTYPE
 
@@ -4214,7 +4214,7 @@ SPECYFIKACJA:
 
 ## 75129 — Oryginalne Lego 75129 Star Wars Okręt bojowy Wookiee Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 235.21 zł · EAN: 05702015590648 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.21 zł · EAN: 05702015590648 · in stock*
 
 LEGO 75129 Star Wars - Okręt bojowy Wookiee
 
@@ -4246,7 +4246,7 @@ Przenieś się do odległej galaktyki w mikromyśliwcu Okręt bojowy Wookiee z r
 
 ## 75130 — Lego Star Wars 75130 At-dp
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702015590655 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702015590655 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4290,7 +4290,7 @@ Wykonuj epickie misje w świecie Gwiezdnych Wojen z tym świetnym mikromyśliwce
 
 ## 75131 — Lego Star Wars 75131 Ruch Oporu Karton Ma Uszkodzenia
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015591577 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015591577 · in stock*
 
 LEGO 75131 Star Wars Ruch Oporu
 
@@ -4313,7 +4313,7 @@ UWAGA !!! KARTON MA USZKODZENIA WIDOCZNE NA ZDJĘCIACH
 
 ## 75132 — Lego 75132 Star Wars Najwyższy Porządek Battle Pack
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 186.00 zł · EAN: 05702015591584 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 186.00 zł · EAN: 05702015591584 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -4327,7 +4327,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75133 — Lego Star Wars 75133 Żołnierze Rebelii Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015591591 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015591591 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4351,7 +4351,7 @@ Twórz emocjonujące bitwy z zestawem bitewnym Rebeliantów zawierającym motoś
 
 ## 75134 — Lego 75134 Star Wars Imperium Galaktyczne Battle Pack
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702015591614 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702015591614 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -4365,7 +4365,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75135 — Lego Star Wars 75135 Jedi Interceptor Obi-Wana Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015591652 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015591652 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4387,7 +4387,7 @@ Wstrzel się w konstelację statków kosmicznych i legendarnych postaci LEGO® S
 
 ## 75136 — Lego 75136 Star Wars Kapsuła ratunkowa Droida
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015591775 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015591775 · in stock*
 
 LEGO 75136 Kapsuła ratunkowa Droida
 
@@ -4407,7 +4407,7 @@ LEGO 75136 Kapsuła ratunkowa Droida
 
 ## 75137 — Klocki Lego Star Wars Komora do zamrażania w karbonicie 75137
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015591829 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015591829 · in stock*
 
 **Han Solo** został wprowadzony do karbonowej komory mrożącej i zaraz zamieni się w **zmrożony blok litego karbonitu**! Czy uda mu się pokonać Bobę Fetta i uciec, czy może już na zawsze pozostanie zamrożonym więźniem Ugnaughtów? To Ty zadecydujesz.
 
@@ -4429,7 +4429,7 @@ LEGO 75136 Kapsuła ratunkowa Droida
 
 ## 75138 — Lego Star Wars 75138 Atak Hoth
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 368.68 zł · EAN: 05702015591843 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 368.68 zł · EAN: 05702015591843 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4473,7 +4473,7 @@ Zestaw klocków LEGO 75138 Atak Hoth™ został przedstawiony w 2016 roku i skł
 
 ## 75139 — Lego Star Wars 75139 Bitwa o Takodana
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 559.00 zł · EAN: 05702015592079 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 559.00 zł · EAN: 05702015592079 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4495,7 +4495,7 @@ Zestaw klocków LEGO 75138 Atak Hoth™ został przedstawiony w 2016 roku i skł
 
 ## 75140 — Lego Star Wars 75140 Lego Star Wars Transport Ruchu Oporu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702015592109 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702015592109 · in stock*
 
 Transporter LEGO Star Wars ma niezwykle istotne zadanie do wykonania – musi przetransportować żołnierzy na pole bitwy.
  
@@ -4511,7 +4511,7 @@ Klocki LEGO Star Wars Transport Ruchu Oporu 75140, to zestaw nawiązujący do na
 
 ## 75141 — Lego Star Wars 75141 Speeder Bike Kanana nowy zestaw klocków
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 460.00 zł · EAN: 05702015592123 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 460.00 zł · EAN: 05702015592123 · in stock*
 
 Witam
 
@@ -4531,7 +4531,7 @@ Rafał
 
 ## 75142 — Lego Star Wars 75142 Homing Spider Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015592154 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015592154 · in stock*
 
 WITAM SERDECZNIE.
 
@@ -4547,7 +4547,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 75144 — Lego Star Wars 75144 Snowspeeder Ucs
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1638.99 zł · EAN: 05702015592789 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1638.99 zł · EAN: 05702015592789 · in stock*
 
 LEGO Śmigacz śnieżny 75144
  
@@ -4568,7 +4568,7 @@ Dołącz do swojej kolekcji prawdziwą klasykę Gwiezdnych Wojen: śmigacz śnie
 
 ## 75145 — Lego Star Wars 75145 Myśliwiec Mroku
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015592796 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015592796 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4590,7 +4590,7 @@ Dołącz do swojej kolekcji prawdziwą klasykę Gwiezdnych Wojen: śmigacz śnie
 
 ## 75147 — Lego 75147 Star Wars Gwiezdny Sęp Unikat z 2016r.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 427.00 zł · EAN: 05702015592802 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 427.00 zł · EAN: 05702015592802 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -4604,7 +4604,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75149 — Lego Star Wars 75149 Myśliwiec X-Wing Ruchu Oporu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702015592826 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702015592826 · in stock*
 
 Lego Star Wars Myśliwiec X-Wing Ruchu Oporu
  
@@ -4640,7 +4640,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75150 — Lego Star Wars 75150 Tie Advanced kontra myśliwiec A-Wing
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 929.00 zł · EAN: 05702015592833 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 929.00 zł · EAN: 05702015592833 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4675,7 +4675,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75151 — Klocki Lego Star Wars Zestaw Turboczołg klonów 75151
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015592840 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015592840 · in stock*
 
 Klocki LEGO Star Wars Zestaw Turboczołg klonów 75151
 
@@ -4709,7 +4709,7 @@ Zestaw LEGO Star Wars - Turboczołg klonów trafił do sprzedaży w 2016 roku.
 
 ## 75152 — Klocki Lego Star Wars Zestaw Szturmowy czołg poduszkowy Imperium 75152
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702015593878 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702015593878 · in stock*
 
 **Lego Star Wars Szturmowy czołg poduszkowy Imperium 75152**. Chirrut potrzebuje pomocy w walce ze szturmowcami patrolującymi ulice w szturmowym czołgu poduszkowym Imperium. Czołg poduszkowy Imperium jest wyposażony w podwójne działka sprężynowe, ruchome działka boczne, otwieraną ładownię górną, otwierany kokpit dla minifigurki i przezroczyste koła, dzięki którym model wygląda, jakby unosił się nad ziemią. To niesamowity, miejski pojazd patrolowy!
 
@@ -4733,7 +4733,7 @@ Zestaw zawiera:
 
 ## 75153 — Klocki Lego Star Wars Zestaw Machina krocząca At-st 75153
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 592.00 zł · EAN: 05702015593885 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 592.00 zł · EAN: 05702015593885 · in stock*
 
 **Klocki LEGO 75153 Machina krocząca AT-ST**
 
@@ -4760,7 +4760,7 @@ Zestaw LEGO Star Wars - Machina krocząca AT-ST trafił do sprzedaży w 2016 r
 
 ## 75154 — Lego Star Wars 75154 Tie Striker
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702015593892 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702015593892 · in stock*
 
 Klocki LEGO Star Wars 75154 - TIE Striker
  
@@ -4790,7 +4790,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75155 — Lego Star Wars Zestaw Myśliwiec U-wing Rebeliantów 75155
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015593908 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015593908 · in stock*
 
 **LEGO Star Wars Myśliwiec U-wing Rebeliantów 75155**
 
@@ -4814,7 +4814,7 @@ Wymiary: ok. 10 cm wysokości, 44 cm długości i 20 cm szerokości ze złożony
 
 ## 75156 — Lego Star Wars 75156 Imperialny wahadłowiec Krennica
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702015593915 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702015593915 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4857,7 +4857,7 @@ Imperialny wahadłowiec Krennica to groźny pojazd kosmiczny. Jest wyposażony w
 
 ## 75157 — Klocki Lego Star Wars Zestaw At-te kapitana Rexa 75157
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015593922 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015593922 · in stock*
 
 Pomóż Kapitanowi Rexowi powstrzymać Inkwizytora Imperium Piątego Brata wspomaganego przez szturmowca przed przejęciem kontroli nad jego mocno zmodyfikowaną maszyną kroczącą AT-TE. Maszyna ma wysięgniki, drabiny, płyty pancerne, górne działo sprężynowe oraz otwieraną od góry sekcję tylną i otwierane tylne wrota. Zestaw zawiera 5 minifigurek.
 
@@ -4879,7 +4879,7 @@ Wymiary AT-TE Kapitana Rexa: 20 cm wysokości, 33 cm długości i 25 cm szeroko�
 
 ## 75158 — Klocki Lego Star Wars 75158 Fregata bojowa Rebeliantów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702015593939 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702015593939 · in stock*
 
 **LEGO STAR WARS FREGATA BOJOWA - 75158**
 
@@ -4905,7 +4905,7 @@ Wymiary fregaty bojowej rebeliantów z zamkniętymi silnikami: 12 cm wysokości
 
 ## 75159 — Lego Star Wars 75159 Gwiazda Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 5599.00 zł · EAN: 05702015593946 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 5599.00 zł · EAN: 05702015593946 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4935,7 +4935,7 @@ Obejmij dowodzenie nad najstraszniejszą bronią Imperium — Gwiazdą Śmierci!
 
 ## 75160 — Nowy Klocki Lego Star Wars Mikromyśliwiec U-Wing 75160 Misb 2017
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702015866484 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702015866484 · in stock*
 
 Cześć!
 
@@ -4957,7 +4957,7 @@ Pozdrawiam.
 
 ## 75161 — Lego Star Wars 75161 Tie Striker papierowa torba Lego!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 116.22 zł · EAN: 05702015866507 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 116.22 zł · EAN: 05702015866507 · in stock*
 
 **Lego Star Wars TIE Striker™ 75161**. Zaatakuj rebeliantów potężny myśliwcem TIE Striker! Dołącz do walki na pokładzie myśliwca TIE Striker ze składanymi skrzydłami, dwoma miotaczami klocków i miejscem na pilota TIE z pistoletem blasterowym (w zestawie).
 
@@ -4989,7 +4989,7 @@ Ilość klocków w zestawie: 88
 
 ## 75162 — Lego Star Wars 75162 Star Wars
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702015866521 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702015866521 · in stock*
 
 LEGO STAR WARS
 
@@ -5018,7 +5018,7 @@ Rozpocznij miniaturową przygodę LEGO® Star Wars™ na pokładzie wystrzałowe
 
 ## 75163 — Lego Star Wars Imperialny wahadłowiec 75163 patrz zdjecia
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015866743 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015866743 · in stock*
 
 Patrz zdjęcia nowy nieotwierany nosi ślady zarysowań
 
@@ -5038,7 +5038,7 @@ Odtwórz przygody z filmu „Łotr1.Gwiezdne wojny - historie” na pokładzie i
 
 ## 75164 — Lego Star Wars 75372 Zestaw Bitewny Klony Droidy Ścigacz Tri-droid
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702015866750 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702015866750 · in stock*
 
 **Klocki LEGO 75164 Rebel Trooper**
  
@@ -5070,7 +5070,7 @@ Zestaw LEGO Star Wars - Rebel Trooper trafił do sprzedaży w 2017 roku. Numer
 
 ## 75165 — Lego 75165 Star Wars Żołnierze Imperium Klocki Gwiezdne Wojny Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 459.31 zł · EAN: 05702015866767 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 459.31 zł · EAN: 05702015866767 · in stock*
 
 LEGO Star Wars 75165 - Żołnierze Imperium
 
@@ -5106,7 +5106,7 @@ Poszerz swoją kolekcję LEGO® Star Wars™ o zestaw bitewny Imperial Trooper.
 
 ## 75167 — Lego Star Wars 75167
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015866842 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015866842 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5137,7 +5137,7 @@ Wyrusz w drogę z **Dengarem, Bosskiem, IG-88 i 4-LOM** w ich własnym ścigaczu
 
 ## 75168 — Lego Star Wars 75168 Jedi Starfighter Yody
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 286.21 zł · EAN: 05702015866859 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 286.21 zł · EAN: 05702015866859 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5182,7 +5182,7 @@ Zestaw LEGO Star Wars - Jedi Starfighter Yody trafił do sprzedaży w 2017 rok
 
 ## 75169 — Oryginalne Lego Star Wars 75169 Pojedynek na Naboo Klocki Gwiezdne Wojny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015883405 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015883405 · in stock*
 
 LEGO Star Wars 75169 - Pojedynek na Naboo
 
@@ -5220,7 +5220,7 @@ W zestawie także trzy minifigurki.
 
 ## 75170 — Lego Star Wars Zestaw Phantom 75170
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015867597 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015867597 · in stock*
 
 LEGO® Star Wars™ The Phantom
 
@@ -5248,7 +5248,7 @@ Wymiary: ok. 11 cm wysokości, 17 cm długości i 10 cm szerokości.
 
 ## 75171 — Lego Star Wars 75171 Bitwa na Scarif Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015867603 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015867603 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5275,7 +5275,7 @@ Odtwórz pełne rozmachu sceny z filmowego hitu „Łotr1.Gwiezdne wojny - histo
 
 ## 75172 — Lego Star Wars 75172 Y-Wing Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.90 zł · EAN: 05702015867610 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.90 zł · EAN: 05702015867610 · in stock*
 
 Klocki LEGO Star Wars 75172 - Y-Wing Starfighter
  
@@ -5307,7 +5307,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75173 — Lego Star Wars 75173 Lego Star Wars Śmigacz Luke'a 75173
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702015867627 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702015867627 · in stock*
 
 LEGO STAR WARS 75173 ŚMIGACZ LUKE'A SKYWALKERA
 
@@ -5340,7 +5340,7 @@ Ten model kultowego ścigacza ma otwarty kokpit z miejscem na dwie minifigurki, 
 
 ## 75174 — Lego Star Wars 75174 Ucieczka na pustynnej barce 75174
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015867634 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015867634 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5375,7 +5375,7 @@ Rozgrywaj ekscytujące pojedynki nad pustynnymi wydmami z tym kultowym zestawem 
 
 ## 75175 — Lego Star Wars 75175 A-Wing Starfighter Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 865.00 zł · EAN: 05702015867641 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 865.00 zł · EAN: 05702015867641 · in stock*
 
 LEGO A-Wing Starfighter 75175
 
@@ -5396,7 +5396,7 @@ Wyrusz na misję LEGO Star Wars na pokładzie superszybkiego myśliwca A-Wing z 
 
 ## 75176 — Lego Star Wars 75176 Pojazd transportowy Ruchu Oporu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702015868495 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702015868495 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5431,7 +5431,7 @@ Ratuj się szybką ucieczką razem z Finnem i Rose w kapsule transportowej Ruchu
 
 ## 75178 — Lego Star Wars 75178 Quadjumper z Jakku
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015868518 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015868518 · in stock*
 
 Klocki Lego 75178 Star Wars - Quadjumper z Jakku
  
@@ -5462,7 +5462,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75179 — Klocki Lego Star Wars Zestaw Myśliwiec Tie Kylo Rena 75179
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 948.00 zł · EAN: 05702015868525 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 948.00 zł · EAN: 05702015868525 · in stock*
 
 **Klocki LEGO Star Wars Zestaw Myśliwiec TIE Kylo Rena 75179**
 
@@ -5483,7 +5483,7 @@ Cechy zestawu:
 
 ## 75181 — Klocki Lego Star Wars Zestaw Y-Wing Starfighter 75181
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702016109665 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702016109665 · in stock*
 
 Klocki LEGO Star Wars Zestaw Y-Wing Starfighter 75181
 
@@ -5507,7 +5507,7 @@ Model ma ok. 7 cm wysokości, 61 cm długości i 30 cm szerokości oraz 24 cm wy
 
 ## 75182 — Lego Star Wars 75182 Czołg Bojowy Republiki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 504.50 zł · EAN: 05702015868549 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 504.50 zł · EAN: 05702015868549 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5545,7 +5545,7 @@ Stań do walki z armią droidów w czołgu bojowym Republiki z serii LEGO® Star
 
 ## 75183 — Lego 75183 Star Wars Transformacja Dartha Vadera-Darth Vader Transformation
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868556 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868556 · in stock*
 
 LEGO 75183 Star Wars Transformacja Dartha Vadera-Darth Vader Transformation
 
@@ -5555,7 +5555,7 @@ Zestaw nowy i fabrycznie zaplombowany. Woreczki nietknięte ale kartonik ledwo s
 
 ## 75185 — Lego Star Wars 75185 Klocki Lego Star Wars Zwiadowca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702015868563 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702015868563 · in stock*
 
 LEGO
 
@@ -5583,7 +5583,7 @@ Przemierzaj galaktykę w Trackerze I z droidem myśliwskim M-OC szukającym Free
 
 ## 75186 — Lego Star Wars 75186 Grot Freemakers Arrowhead
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 915.00 zł · EAN: 05702015869874 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 915.00 zł · EAN: 05702015869874 · in stock*
 
 LEGO Star Wars Grot 75186
 
@@ -5608,7 +5608,7 @@ Wykonuj niebezpieczne misje z serialu „LEGO® Star Wars: Przygody Freemakerów
 
 ## 75187 — Lego Star Wars 75187 BB-8 Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702015869881 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702015869881 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -5630,7 +5630,7 @@ Twój własny BB-8 z LEGO®! Zakręć jednym kółkiem, by obrócić mu głowę,
 
 ## 75190 — Zestaw Lego Star Wars 75190 Niszczyciel Gwiezdny Najwyższego Porządku
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015869911 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015869911 · in stock*
 
 W tej ofercie mamy na sprzedaż:
 
@@ -5657,7 +5657,7 @@ Zapraszamy do przeglądania naszych pozostałych ofert!
 
 ## 75191 — Lego Star Wars 75191 Jedi Starfighter z hipernapędem
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015869928 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015869928 · in stock*
 
 LEGO Jedi Starfighter z hipernapędem 75191
 
@@ -5682,7 +5682,7 @@ Niżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
 ## 75192 — Lego Star Wars Sokół Millennium 75192
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2849.99 zł · EAN: 05702015869935 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2849.99 zł · EAN: 05702015869935 · in stock*
 
 **LEGO STAR WARS Sokół Millennium 75192**
 
@@ -5711,7 +5711,7 @@ Poznaj największego i najbardziej szczegółowego Sokoła Millennium, jakiego z
 
 ## 75193 — Lego 75193 Star Wars Sokół Millennium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 186.48 zł · EAN: 05702016109870 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 186.48 zł · EAN: 05702016109870 · in stock*
 
 LEGO 75193 Star Wars - Sokół Millennium
 
@@ -5731,7 +5731,7 @@ Ruszaj do akcji w mikromyśliwcu Sokół Millennium. Ten zestaw LEGO®
 
 ## 75194 — Lego Star Wars 75194 Myśliwiec Tie Najwyższego Porządku
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 00673419281621 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 00673419281621 · in stock*
 
 Klocki LEGO Star Wars Myśliwiec TIE Najwyższego porządku 75194
 
@@ -5752,7 +5752,7 @@ Liczba elementów: 91
 
 ## 75196 — Lego Star Wars 75196 A-Wing kontra Tie Silencer
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 243.90 zł · EAN: 05702016109900 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 243.90 zł · EAN: 05702016109900 · in stock*
 
 NOWE LEGO 75196
  
@@ -5777,7 +5777,7 @@ OPAKOWANIU
 
 ## 75197 — Lego Star Wars 75197 Star Wars First Order Specialists Battle Pack 75197
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016109917 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016109917 · in stock*
 
 **Klocki LEGO 75197 Najwyższy Porządek**
  
@@ -5822,7 +5822,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75199 — Klocki Lego Star Wars Zestaw Ścigacz bojowy generała Grievousa 75199
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016109931 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016109931 · in stock*
 
 LEGO STAR WARS 75199 ŚCIGACZ BOJOWY GRIEVOUSA
 
@@ -5844,7 +5844,7 @@ Model ma ok. 7 cm wysokości, 25 cm długości i 14 cm szerokości.
 
 ## 75200 — Lego Star Wars 75200 Szkolenie na wyspie Ahch-To
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016109948 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016109948 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5890,7 +5890,7 @@ Dołącz do Mistrza Luke’a, który szkoli Rey w swoim górskim schronieniu. W 
 
 ## 75202 — Klocki Lego Star Wars Zestaw Obrona Crait 75202
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016109962 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016109962 · in stock*
 
 Klocki LEGO Star Wars Zestaw Obrona Crait 75202
 
@@ -5902,7 +5902,7 @@ Zestaw zawiera śmigacz Ruchu Oporu, wieżę ze stanowiskiem dowodzenia i elemen
 
 ## 75203 — Lego Star Wars 75203 Komora medyczna na Hoth Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702016110616 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702016110616 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5923,7 +5923,7 @@ Rozgrywaj sceny z powierzchni lodowej planety Hoth w zestawie LEGO® Star Wars 7
 
 ## 75207 — Lego Star Wars 75207 Imperialny patrol Imperial Patrol Battle Pack klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702016109351 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702016109351 · in stock*
 
 Witam
 
@@ -5953,7 +5953,7 @@ Rozgrywaj scenki z udziałem służb porządkowych z imponującego zestawu bitew
 
 ## 75210 — Klocki Lego Star Wars 75210 Ścigacz molocha Gwiezdne Wojny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016110586 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016110586 · in stock*
 
 **Ruszaj w pogoń za zwierzyną z przywódcą gangu Molochem w jego śmigaczu! Włóż broń do schowka, załaduj działko na wiele klocków i ruszaj w drogę. Gdy spostrzeżesz zwierzynę, pomóż Reboltowi wypuścić psy i odciąć jej drogę ucieczki. Nikt nie zadziera z potężnym Molochem!**
  
@@ -5981,7 +5981,7 @@ Rozgrywaj scenki z udziałem służb porządkowych z imponującego zestawu bitew
 
 ## 75212 — Klocki Lego Star Wars Zestaw Sokół Millennium 75212
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1278.00 zł · EAN: 05702016110609 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1278.00 zł · EAN: 05702016110609 · in stock*
 
 KLOCKI LEGO STAR WARS SOKÓŁ MILLENNIUM™ 75212
 
@@ -6003,7 +6003,7 @@ Przechytrz niecnego nadzorcę Quaya Tolsite’a i ucieknij z kopalni na Kessel n
 
 ## 75214 — Lego Star Wars 75214 lego Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016110623 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016110623 · in stock*
 
 LEGO STAR WARS 75214 Myśliwiec Jedi Anakina
  
@@ -6023,7 +6023,7 @@ W kolekcji każdego młodego padawana przyda się zestaw LEGO® Star Wars 752
 
 ## 75215 — Lego 75215 Star Wars Skutery Jeźdźców Chmur
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702016110630 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702016110630 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -6037,7 +6037,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75216 — Klocki Lego Star Wars Zestaw Sala Tronowa Snoke'a 75216
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110647 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110647 · in stock*
 
 **Klocki LEGO Star Wars 75216 - Sala Tronowa Snoke'a**
 
@@ -6051,7 +6051,7 @@ W zestawie pięć minifigurek LEGO®: Rey, Kylo Ren, przywódca Najwyższego Por
 
 ## 75217 — Lego Star Wars 75217 Imperialny transporter Conveyex Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1159.00 zł · EAN: 00673419282321 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1159.00 zł · EAN: 00673419282321 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6079,7 +6079,7 @@ Odtwórz brawurowe przygody przemytników z filmu „Han Solo: Gwiezdne wojny �
 
 ## 75218 — Klocki Lego Star Wars X-Wing Starfighter 75218
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110661 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110661 · in stock*
 
 Klocki LEGO Star Wars 75218 - Myśliwiec X-Wing
  
@@ -6111,7 +6111,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75219 — Lego Star Wars 75219 Imperialny AT-Hauler Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 00673419282345 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 00673419282345 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6138,7 +6138,7 @@ Opanuj sztukę transportowania towarów w zestawie LEGO® Star Wars 75219 Imperi
 
 ## 75220 — Klocki Lego Star Wars 75220 Sandcrawier
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1478.98 zł · EAN: 00673419282758 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1478.98 zł · EAN: 00673419282758 · in stock*
 
 LEGO STAR WARS 75220 SANDCRAWIER.
 
@@ -6174,7 +6174,7 @@ Odtwórz klasyczne sceny z planety Tatooine znane z filmu „Gwiezdne wojny: Now
 
 ## 75221 — Lego Star Wars 75221 Pojazd desantowy Imperium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702016111194 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702016111194 · in stock*
 
 LEGO Star Wars 75221 Pojazd desantowy Imperium
 
@@ -6205,7 +6205,7 @@ Galeria LEGO Star Wars 75221 Pojazd desantowy Imperium
 
 ## 75223 — Lego Star Wars 75223 Myśliwiec z Naboo
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 118.88 zł · EAN: 05702016370096 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.88 zł · EAN: 05702016370096 · in stock*
 
 Klocki LEGO Star Wars 75223 - Myśliwiec z Naboo
 
@@ -6224,7 +6224,7 @@ Zestaw LEGO Star Wars - Myśliwiec z Naboo trafił do sprzedaży w 2019 roku. 
 
 ## 75226 — Lego Star Wars 75226 Oddział Inferno Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 406.00 zł · EAN: 05702016370126 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 406.00 zł · EAN: 05702016370126 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6246,7 +6246,7 @@ Dodaj do swojej kolekcji kultowe postacie z sagi Gwiezdnych wojen™ z zestawu L
 
 ## 75227 — Klocki Lego Star Wars Zestaw Darth Vader Bust 75227
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 00673419315357 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 00673419315357 · in stock*
 
 Klocki LEGO Star Wars Zestaw Darth Vader Bust 75227
 
@@ -6266,7 +6266,7 @@ Zestaw **LEGO Star Wars Darth Vader Bust 75227** to unikatowy model z serii LEGO
 
 ## 75229 — nowy Lego Star Wars 75229 Ucieczka z Gwiazdy Śmierci 2019 Misb
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 291.99 zł · EAN: 05702016370386 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 291.99 zł · EAN: 05702016370386 · in stock*
 
 Cześć!
 
@@ -6288,7 +6288,7 @@ Pozdrawiam.
 
 ## 75230 — Lego Star Wars 75230 Porg
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702016367386 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702016367386 · in stock*
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -6325,7 +6325,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 75233 — Klocki Lego Star Wars Zestaw Okręt bojowy droidów 75233
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016370393 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016370393 · in stock*
 
 **LEGO STAR WARS 75233 Okręt bojowy droidów**
 
@@ -6339,7 +6339,7 @@ Powiększ swoją kolekcję o kultowy okręt bojowy droidów z serii LEGO® Star 
 
 ## 75234 — Klocki Lego Star Wars Zestaw Maszyna krocząca At-ap 75234
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016370409 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016370409 · in stock*
 
 Klocki LEGO Star Wars Zestaw Maszyna krocząca AT-AP 75234
 
@@ -6371,7 +6371,7 @@ Zestaw **LEGO Star Wars Maszyna krocząca AT-AP 75234** to model pojazdu bojoweg
 
 ## 75235 — Lego Star Wars 75235 Atak myśliwcem X-Wing
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016370416 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016370416 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6410,7 +6410,7 @@ Pobaw się ze swoim dzieckiem w niezapomniane kosmiczne przygody zestawem LEGO S
 
 ## 75236 — Lego Star Wars 75236 Pojedynek w bazie Starkiller
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 315.00 zł · EAN: 05702016370133 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 315.00 zł · EAN: 05702016370133 · in stock*
 
 LEGO Star Wars, Pojedynek w bazie Starkiller, 75236
 
@@ -6428,7 +6428,7 @@ Przeżyj ponownie niezapomniane chwile z filmu "Gwiezdne wojny: Przebudzenie moc
 
 ## 75237 — Lego Star Wars 75237 Atak Myśliwcem Tie Pilot Gwiezdne Wojny Blastery
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 273.00 zł · EAN: 05702016370423 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 273.00 zł · EAN: 05702016370423 · in stock*
 
 LEGO STAR WARS 75237 Atak myśliwcem TIE
 
@@ -6452,7 +6452,7 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 ## 75238 — Lego Star Wars Bitwa na Endorze 75238
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 194.04 zł · EAN: 05702016370140 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.04 zł · EAN: 05702016370140 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6490,7 +6490,7 @@ Wspólne składanie z klocków drzewa i ścigacza Imperium to doskonała rozrywk
 
 ## 75240 — Lego Star Wars 75240 Star Wars Myśliwiec Tie Majora Vonrega Unikat Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 789.99 zł · EAN: 05702016370676 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 789.99 zł · EAN: 05702016370676 · in stock*
 
 LEGO STAR WARS 75240 Myśliwiec TIE™ Majora Vonrega
 
@@ -6509,7 +6509,7 @@ Szczegółowy model w specjalnej czarno-czerwonej kolorystyce ma otwierany kokpi
 
 ## 75241 — Klocki Lego Star Wars Zestaw Obrona Bazy Echo 75241
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370683 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370683 · in stock*
 
 LEGO Obrona Bazy Echo 75241
 
@@ -6537,7 +6537,7 @@ Maszyna krocząca do zbudowania ma ok. 13 cm wysokości, 15 cm długości i 7 cm
 
 ## 75242 — Lego Star Wars 75242 Tie Interceptor Czarny As
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702016370690 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702016370690 · in stock*
 
 LEGO TIE Interceptor Czarny As 75242
 
@@ -6552,7 +6552,7 @@ Ten szczegółowy statek kosmiczny wyposażony jest w otwierany kokpit dla asa p
 
 ## 75243 — Lego Star Wars 75243 Slave I edycja rocznicowa Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702016370706 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702016370706 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6576,7 +6576,7 @@ Z zestawem LEGO 75243 Slave I możesz odtworzyć najbardziej ekscytujące sceny 
 
 ## 75244 — Lego Star Wars 75244 Tantive IV
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1459.00 zł · EAN: 05702016371109 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1459.00 zł · EAN: 05702016371109 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6608,7 +6608,7 @@ Model wiernie odwzorowuje wszystkie najważniejsze detale korwety Rebelii, takie
 
 ## 75246 — Lego Star Wars 75246 Działo na Gwieździe Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016370720 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016370720 · in stock*
 
 LEGO STAR WARS 75246 Działo na Gwieździe Śmierci
 
@@ -6631,7 +6631,7 @@ Każdy fan może bawić się w pełne emocji sceny LEGO® z filmu „Gwiezdne wo
 
 ## 75247 — Oryginalne Lego 75247 Star Wars Rebeliancki myśliwiec A-Wing Gwiezdne Wojny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 195.31 zł · EAN: 00673419304160 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.31 zł · EAN: 00673419304160 · in stock*
 
 LEGO 75247 Star Wars - Rebeliancki myśliwiec A-Wing
 
@@ -6661,7 +6661,7 @@ Ilość klocków:** 62**
 
 ## 75248 — Lego 75248 Star Wars Myśliwiec A-Wing Ruchu Opor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016370737 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016370737 · in stock*
 
 Oryginalne, nienaruszone opakowanie
 
@@ -6679,7 +6679,7 @@ Przybliżone wymiary opakowania: **7,2 x 26,2 x 19,1 cm**
 
 ## 75249 — Klocki Lego Star Wars Zestaw Myśliwiec Y-Wing Ruchu Oporu 75249
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016370744 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016370744 · in stock*
 
 Dołącz nową wersję Y-Winga LEGO Star Wars do swojej kolekcji
 
@@ -6703,7 +6703,7 @@ Zestaw z serii Star Wars ma ok. 7 cm wysokości, 43 cm długości i 19 cm szerok
 
 ## 75250 — Klocki Lego Star Wars Zestaw Gwiezdne wojny 75250
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016370751 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016370751 · in stock*
 
 LEGO STAR WARS 75250 Pościg na ścigaczach w Pasaanie
 
@@ -6730,7 +6730,7 @@ Dwie zabawki konstrukcyjne LEGO® Star Wars™ z filmu „Gwiezdne wojny: Skywal
 
 ## 75251 — Lego Star Wars 75251 Lego 75251 Star Wars Zamek Dartha Vadera (wgniecenie)
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1020.00 zł · EAN: 05702016370454 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1020.00 zł · EAN: 05702016370454 · in stock*
 
 Zestaw nowy, zaplombowany
 
@@ -6755,7 +6755,7 @@ Przygotuj się na sceny pełne akcji na planecie Mustafar w zestawie LEGO Star W
 
 ## 75252 — Klocki Lego Star Wars Zestaw Gwiezdny Niszczyciel Imperium 75252 Unikat!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 4949.99 zł · EAN: 05702016371116 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 4949.99 zł · EAN: 05702016371116 · in stock*
 
 Powiększ swoją kolekcję o jedyny w swoim rodzaju Gwiezdny Niszczyciel Imperium!
  
@@ -6776,7 +6776,7 @@ Zbuduj i eksponuj legendę Imperium Galaktycznego — niszczyciela Devastatora. 
 
 ## 75253 — Lego Star Wars 75253 Dowódca droidów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1248.88 zł · EAN: 05702016369854 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1248.88 zł · EAN: 05702016369854 · in stock*
 
 LEGO Star Wars 75253 Dowódca droidów
 
@@ -6801,7 +6801,7 @@ Fanom Gwiezdnych wojen™ od razu przypadnie do gustu zestaw LEGO Star Wars BOOS
 
 ## 75254 — Zestaw Lego Star Wars 75254 Szturmowa Maszyna Krocząca At-st
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 287.98 zł · EAN: 05702016370768 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 287.98 zł · EAN: 05702016370768 · in stock*
 
 ZESTAW LEGO STAR WARS - 75254 - SZTURMOWA MASZYNA KROCZĄCA AT-ST
 
@@ -6843,7 +6843,7 @@ LEGO Star Wars 75254 to zestaw, który łączy w sobie efektowny wygląd, funkcj
 
 ## 75255 — Lego 75255 Star Wars Yoda
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 628.99 zł · EAN: 05702016370775 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 628.99 zł · EAN: 05702016370775 · in stock*
 
 Klocki LEGO Star Wars 75255 - Yoda
 
@@ -6877,7 +6877,7 @@ Zestaw LEGO Star Wars - Yoda trafił do sprzedaży w 2019 roku. Numer katalogo
 
 ## 75256 — Klocki Lego Star Wars Zestaw Wahadłowiec Kylo Rena 75256
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016370782 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016370782 · in stock*
 
 Klocki LEGO Star Wars Wahadłowiec Kylo Rena 75256
 
@@ -6899,7 +6899,7 @@ Z rozłożonymi skrzydłami statek LEGO® Star Wars™ ma ok. 35 cm wysokości,
 
 ## 75257 — Zestaw Lego Star Wars – 75257 – Duży Sokół Millennium Z Gwiezdnych Wojen
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 942.27 zł · EAN: 05702016370799 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 942.27 zł · EAN: 05702016370799 · in stock*
 
 ZESTAW LEGO STAR WARS – 75257 – DUŻY SOKÓŁ MILLENNIUM Z GWIEZDNYCH WOJEN
 
@@ -6941,7 +6941,7 @@ LEGO Star Wars 75257 Sokół Millennium to idealny wybór dla każdego fana Gwie
 
 ## 75258 — Lego Star Wars 75258 Ścigacz Anakina – edycja z okazji 20. rocznicy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016370713 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016370713 · in stock*
 
 LEGO Star Wars 75258 - Ścigacz Anakina
 
@@ -6963,7 +6963,7 @@ Uczcij 20. rocznicę serii LEGO Star Wars zestawem 75258 Ścigacz Anakina. Nowa 
 
 ## 75259 — Lego Star Wars 75259 Śmigacz śnieżny edycja rocznicowa Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370461 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370461 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6989,7 +6989,7 @@ Uczcij ważny moment w historii serii LEGO® Star Wars™, budując model 75259 
 
 ## 75261 — Lego Star Wars 75261 Maszyna krocząca klonów edycja rocznicowa Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016371086 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016371086 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7017,7 +7017,7 @@ LEGO® Star Wars™ 75241 Obrona Bazy Echo™ dostępny od kwietnia 2019 r. jest
 
 ## 75262 — Lego Star Wars 75262 Statek desantowy Imperium edycja rocznicowa
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 241.57 zł · EAN: 05702016371093 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 241.57 zł · EAN: 05702016371093 · in stock*
 
 Klocki LEGO® 75262 Star Wars™ Statek desantowy Imperium™ — edycja rocznicowa
 
@@ -7044,7 +7044,7 @@ Zestaw jest przeznaczony dla dzieci od 6 roku życia. Sprawdzi się podczas odtw
 
 ## 75263 — Lego 75263 Star Wars Mikromyśliwiec Y-Wing Ruchu Oporu Microfighters
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016617092 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016617092 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -7058,7 +7058,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 75264 — Lego Star Wars 75264 Wahadłowiec Kylo Rena
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 488.49 zł · EAN: 05702016617108 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 488.49 zł · EAN: 05702016617108 · in stock*
 
 Łatwy do zbudowania wahadłowiec Kylo Rena dla młodszych dzieci.
  
@@ -7080,7 +7080,7 @@ Podaruj swoim maluchom zestaw LEGO Star Wars 75264 Wahadłowiec Kylo Rena, któr
 
 ## 75265 — Lego 75265 Star Wars T-16 Skyhopper kontra mikromyśliwce Bantha
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702016617115 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702016617115 · in stock*
 
 Klocki LEGO Star Wars 75265 - T-16 Skyhopper kontra mikromyśliwce Bantha
 
@@ -7126,7 +7126,7 @@ Zestaw LEGO Star Wars - T-16 Skyhopper kontra mikromyśliwce Bantha trafił do
 
 ## 75266 — Zestaw Lego Star Wars 75266 Zestaw Bitewny Żołnierzy Sithów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702016617122 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702016617122 · in stock*
 
 ZESTAW LEGO STAR WARS - 75266 - ZESTAW BITEWNY ŻOŁNIERZY SITHÓW
 
@@ -7168,7 +7168,7 @@ Zestaw LEGO Star Wars 75266 to świetny wybór dla każdego fana kosmicznych bit
 
 ## 75267 — Lego Star Wars 75267 Zestaw bojowy Mandalorianina
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016617139 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016617139 · in stock*
 
 W tym kompaktowym zestawie jest wszystko, czego potrzeba do rozpalenia dziecięcej wyobraźni: cztery minifigurki mandaloriańskich wojowników z serii LEGO® Star Wars™ uzbrojonych w blastery na klocki, a także fort obronny do zbudowania i mandaloriański ścigacz z dwoma działkami.
  
@@ -7187,7 +7187,7 @@ Grupa LEGO od ponad dwóch dekad tworzy własne wersje kultowych myśliwców kos
 
 ## 75268 — Lego Star Wars 75268 Śnieżny Śmigacz
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016617146 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016617146 · in stock*
 
 LEGO STAR WARS
  
@@ -7212,7 +7212,7 @@ Cechy zestawu:
 
 ## 75269 — Lego Star Wars 75269 Pojedynek na planecie Mustafar Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702016617153 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702016617153 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7238,7 +7238,7 @@ Przeżyj ponownie niezapomniany pojedynek na planecie Mustafar między Anakinem 
 
 ## 75270 — Zestaw Lego Star Wars 75270 Chatka Obi-wana Kenobiego Z Gwiezdnych Wojen
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702016617160 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702016617160 · in stock*
 
 ZESTAW LEGO STAR WARS - 75270 - CHATKA OBI-WANA KENOBIEGO Z GWIEZDNYCH WOJEN
 
@@ -7280,7 +7280,7 @@ LEGO Star Wars 75270 to idealny zestaw dla każdego młodego fana Gwiezdnych Woj
 
 ## 75271 — Lego 75271 Star Wars Śmigacz Luke'a Skywalkera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 317.99 zł · EAN: 05702016617177 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 317.99 zł · EAN: 05702016617177 · in stock*
 
 Oryginalne, nieotwierane opakowanie
 
@@ -7300,7 +7300,7 @@ Przybliżone wymiary opakowania: **26,2 × 19,1 × 6,1 cm**
 
 ## 75272 — Lego Star Wars 75272 Myśliwiec Tie Sithów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 358.97 zł · EAN: 05702016617184 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 358.97 zł · EAN: 05702016617184 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -7342,7 +7342,7 @@ Podaruj dziecku smukły model LEGO myśliwca TIE Sithów (75272) z filmu „Gwie
 
 ## 75273 — Lego Star Wars Zestaw Myśliwiec X-Wing Poe Damerona 75273
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702016617191 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702016617191 · in stock*
 
 Mnóstwo funkcji zachęcających do zabawy, w tym otwierany kokpit dla minifigurki, miejsce na R2-D2, skrzydła, które można ustawić w trybie podróżnym lub bojowym, miotacze klocków, sprężynowe pociski i chowane podwozie.
 
@@ -7352,7 +7352,7 @@ W zestawie figurka LEGO(R) droida R2-D2 i trzy minifigurki z Gwiezdnych Wojen(TM
 
 ## 75274 — Lego Star Wars 75274 Hełm pilota myśliwca Tie Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016617207 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016617207 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7382,7 +7382,7 @@ Kosmiczna zabawa Grupa LEGO już od 1999 r. tworzy modele kultowych statków, po
 
 ## 75275 — SHF-PD3: Lego Star Wars 75275 Myśliwiec A-Wing Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1199.88 zł · EAN: 05702016663488 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.88 zł · EAN: 05702016663488 · in stock*
 
 Przypomnij sobie ulubione sceny z filmu „Gwiezdne Wojny: Powrót Jedi” dzięki zestawowi LEGO® Ultimate Collectors Series Myśliwiec A-wing (75275). Złożony z klocków model pięknie przedstawia elegancką sylwetkę tego statku. Fani docenią autentyczne detale, w tym obracające się działa laserowe i zdejmowaną pokrywę kokpitu (nowość na maj 2020 r.). Wspaniała ozdoba To spore wyzwanie konstrukcyjne dla dorosłych budowniczych. Można go składać zarówno w pojedynkę, jak i w grupie, a całości dzieła dopełnia podstawka z plakietką informacyjną i minifigurką pilota A-winga. Zobacz też inne modele do zbudowania i ustawienia na półce: Hełm szturmowca (75276) i Hełm Boby Fetta (75277). Galaktyka emocji Grupa LEGO już od 1999 roku tworzy zbudowane z klocków wersje kultowych myśliwców kosmicznych, pojazdów, miejsc i postaci z sagi „Gwiezdnych Wojen”™.
 
@@ -7390,7 +7390,7 @@ Przypomnij sobie ulubione sceny z filmu „Gwiezdne Wojny: Powrót Jedi” dzię
 
 ## 75276 — Lego 75276 Hełm szturmowca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 883.00 zł · EAN: 05702016617214 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 883.00 zł · EAN: 05702016617214 · in stock*
 
 Odtwórz groźny wygląd szturmowca z „Gwiezdnych wojen™”, budując jego hełm z kolekcjonerskiego zestawu dekoracyjnego LEGO®. Uchwyć charakterystyczny kształt i detale hełmu złożonego z klocków LEGO ozdobionych szczegółowymi naklejkami. Do tego zadania potrzebne Ci będą iście elitarne umiejętności. A gdy skończysz, możesz dumnie ustawić swoje dzieło w domu, biurze lub dowolnym innym miejscu w galaktyce.
  
@@ -7404,7 +7404,7 @@ Seria kolekcjonerska Model hełmu szturmowca to świetny pomysł na prezent dla 
 
 ## 75277 — Lego 75277 Hełm Boby Fetta
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 493.00 zł · EAN: 05702016617221 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 493.00 zł · EAN: 05702016617221 · in stock*
 
 Zbuduj i ustaw na półce replikę LEGO® hełmu jednego z najgroźniejszych łowców nagród w galaktyce — Boby Fetta (75277)! To wspaniały pomysł na prezent LEGO Star Wars™ dla dorosłych fanów. Zestaw oferuje spore wyzwanie konstrukcyjne zaawansowanym budowniczym LEGO, a znany kształt i autentyczne detale hełmu są pięknie odtworzone z klocków LEGO.
 
@@ -7432,7 +7432,7 @@ Grupa LEGO od 1999 r. tworzy własne wersje kultowych statków kosmicznych, poja
 
 ## 75278 — Lego Star Wars 75278 Star Wars D-o (75278)
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016617238 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016617238 · in stock*
 
 o Fani mogą zbudować własny kolekcjonerski model sympatycznego droida D-O (75278) z filmu ,,Gwiezdne Wojny: Skywalker. Odrodzenie". Dzięki autentycznym detalom przedstawionym w stylu LEGO(R) konstrukcja będzie fantastyczną ozdobą domu lub biura.o Droid ma ruchome anteny, a jego głowa obraca się o 360 stopni i przesuwa w tył i w przód tak jak w filmie ,,Gwiezdne Wojny(TM)". W komplecie jest też wbudowana podstawka, plakietka informacyjna oraz minifigurka D-O, która zachwyci kolekcjonerów.o Droid D-O to model do zbudowania i postawienia na półce dostępny od maja 2020 r., który będzie wspaniałym dodatkiem do kolekcji każdego fana Star Wars(TM) lub budowniczego LEGO(R).o Złożony z 519 klocków droid LEGO(R) Star Wars(TM) zapewni świetną rozrywkę wszystkim kreatywnym fanom ,,Gwiezdnych Wojen" w wieku od 10 lat i będzie rewelacyjnym prezentem urodzinowym, świątecznym lub upominkiem niespodzianką na specjalną okazję.o Droid D-O do zbudowania z klocków ma ok. 27 cm wysokości, 10 cm szerokości i 16 cm głębokości. Nie zajmuje dużo miejsca, a będzie robić ogromne wrażenie jako ozdoba biura lub domu i z pewnością zachwyci każdego.o Budowanie zabawki konstrukcyjnej nie wymaga baterii i jest doskonałym sposobem na odstresowanie.
 
@@ -7440,7 +7440,7 @@ o Fani mogą zbudować własny kolekcjonerski model sympatycznego droida D-O (75
 
 ## 75280 — Lego Star Wars 75280 Żołnierze-Klony z 501. Legionu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 218.00 zł · EAN: 05702016617245 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.00 zł · EAN: 05702016617245 · in stock*
 
 Zainscenizuj wielkie starcie żołnierzy klonów z 501. legionu™ i droidów bojowych armii separatystów. W wypatrywaniu droidów z kabiny AT-RT pomoże Ci elektrolornetka. . Droidy bojowe mogą odpowiedzieć salwą z blasterów. Kto będzie górą w tej niesamowitej bitwie ze świata LEGO® Star Wars™? Ty decydujesz!
 
@@ -7462,7 +7462,7 @@ Zainscenizuj wielkie starcie żołnierzy klonów z 501. legionu™ i droidów bo
 
 ## 75281 — Lego Star Wars Przechwytywacz Jedi Anakina 75281
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016617252 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016617252 · in stock*
 
 Ten zestaw LEGO® Star Wars™ (75281) pozwoli małym wojownikom Jedi bawić się w Anakina Skywalkera, który rusza do walki za sterami swojego Jedi Interceptora. Zbudowana z klocków zabawka ma mnóstwo elementów, które zachęcą do pomysłowej zabawy: otwierany kokpit z miejscem na minifigurkę LEGO, miotacze klocków, składane klapki na skrzydłach, miejsce dla R2-D2 oraz zaczep do przechowywania miecza świetlnego Anakina i zapasu amunicji.
  
@@ -7492,7 +7492,7 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 
 ## 75283 — Lego 75283 Star Wars Czołg opancerzony Aat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702016617276 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702016617276 · in stock*
 
 Klocki LEGO Star Wars 75283 - Czołg opancerzony AAT
 
@@ -7538,7 +7538,7 @@ Zestaw LEGO Star Wars - Czołg opancerzony AAT trafił do sprzedaży w 2020 ro
 
 ## 75284 — Lego Star Wars 75284 Statek transportowy Rycerzy Ren
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016617283 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016617283 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7579,7 +7579,7 @@ Zestaw LEGO Star Wars - Czołg opancerzony AAT trafił do sprzedaży w 2020 ro
 
 ## 75286 — Klocki Lego Star Wars Zestaw Gwiezdny myśliwiec generała Grievousa 75286
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016617306 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016617306 · in stock*
 
 Podaruj dziecku zestaw LEGO® z maszyną AT-AT (75288) i pozwól mu ponownie przeżyć bitwę o Hoth oraz inne słynne historie z trylogii Gwiezdnych Wojen™!
 
@@ -7595,7 +7595,7 @@ To po prostu musi się podobać!
 
 ## 75288 — Lego 75288 Star Wars At-at
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1279.00 zł · EAN: 05702016617320 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1279.00 zł · EAN: 05702016617320 · in stock*
 
 Klocki LEGO Star Wars 75288 - AT-AT
 
@@ -7625,7 +7625,7 @@ Grupa LEGO od ponad dwóch dekad tworzy własne wersje kultowych statków kosmic
 
 ## 75290 — Klocki Lego Star Wars Zestaw Kantyna Mos Eisley 75290
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016663495 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016663495 · in stock*
 
 LEGO Star Wars 75290 Kantyna Mos Eisley
 
@@ -7663,7 +7663,7 @@ Klocki i elementy LEGO® są rygorystycznie testowane i analizowane, abyśmy mie
 
 ## 75291 — Klocki Lego Star Wars Gwiazda Śmierci pojedynek 75291
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 779.83 zł · EAN: 05702016678451 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 779.83 zł · EAN: 05702016678451 · in stock*
 
 Zestaw konstrukcyjny LEGO® Star Wars 75291 pozwala dzieciom odegrać scenę ostatecznego pojedynku na Gwieździe Śmierci między Lukiem Skywalkerem a Darthem Vaderem, którą znają z filmu „Powrót Jedi” . W sali tronowej Palpatine’a dzieci znajdą wiele detali, które zainspirują je do wymyślania ciekawych historii, w tym funkcję skakania z użyciem Mocy. Schody i mostek mogą się zapaść, a Darth Vader może cisnąć Imperatora prosto do rdzenia reaktora — dokładnie jak w filmie!
 
@@ -7689,7 +7689,7 @@ LEGO Star Wars to obecnie najpopularniejsza seria LEGO, w której znajdzie się 
 
 ## 75292 — Lego 75292 Star Wars Transportowiec łowcy nagród The Razor Crest
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 798.00 zł · EAN: 05702016683325 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 798.00 zł · EAN: 05702016683325 · in stock*
 
 Zapraszam do zakupu zestawu Lego z serii Star Wars:
 
@@ -7727,7 +7727,7 @@ Pomysły na idealny prezentGrupa LEGO już od 1999 r. tworzy modele kultowych st
 
 ## 75293 — Lego Star Wars Pojazd Transportowy I-ts Ruc #75293
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 469.45 zł · EAN: 05702016762013 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 469.45 zł · EAN: 05702016762013 · in stock*
 
 LEGO STAR WARS POJAZD TRANSPORTOWY I-TS RUC
 
@@ -7773,7 +7773,7 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 
 ## 75294 — Klocki Lego Star Wars Zestaw Pojedynek nad Bespinem 75294
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419334761 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419334761 · in stock*
 
 Klocki LEGO Star Wars
 
@@ -7803,7 +7803,7 @@ Model do zbudowania ma ok. 20 cm wysokości, 23 cm szerokości i 11 cm głęboko
 
 ## 75295 — Zestaw Lego Star Wars 75295 Mikromyśliwiec Sokół Millennium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016912654 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016912654 · in stock*
 
 ZESTAW LEGO STAR WARS - 75295 - MIKROMYŚLIWIEC SOKÓŁ MILLENNIUM
 
@@ -7845,7 +7845,7 @@ Mikromyśliwiec Sokół Millennium to idealny wybór dla każdego fana Star Wars
 
 ## 75296 — Lego Star Wars 75296 Komnata medytacyjna Dartha Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 414.98 zł · EAN: 05702016974348 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 414.98 zł · EAN: 05702016974348 · in stock*
 
 Klocki LEGO® 75296 Star Wars™ Komnata medytacyjna Dartha Vadera™
 
@@ -7872,7 +7872,7 @@ Zestaw jest przeznaczony dla osób w wieku od 18 lat. Sprawdzi się dla dorosły
 
 ## 75297 — Lego Star Wars 75297 X-Wing Ruchu Oporu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 166.88 zł · EAN: 05702016912661 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 166.88 zł · EAN: 05702016912661 · in stock*
 
 Klocki LEGO Star Wars 75297 - X-Wing Ruchu Oporu
 
@@ -7903,7 +7903,7 @@ Zestaw LEGO Star Wars - X-Wing Ruchu Oporu trafił do sprzedaży w 2021 roku. 
 
 ## 75299 — Klocki Lego Star Wars Kłopoty na Tatooine 276 elementów 7 lat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016913989 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016913989 · in stock*
 
 Dzieci mogą połączyć siły z Mandalorianinem i tuskeńskim rabusiem, by razem z nimi wykonywać misje na pustyni w zestawie LEGO® Star Wars™ 75299 Kłopoty na Tatooine. Zestaw zawiera śmigacz z miejscem na minifigurkę LEGO® i sakwę, w której może podróżować Dziecko. Jest w nim także kryjówka Tuskena do zbudowania oraz nowość na styczeń 2021 r. — balista dla tuskeńskiego rabusia.
  
@@ -7931,7 +7931,7 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 
 ## 75300 — Lego Star Wars 75300 Imperialny myśliwiec Tie
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 346.00 zł · EAN: 05702016913606 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 346.00 zł · EAN: 05702016913606 · in stock*
 
 Imperialny myśliwiec TIE w wersji z klocków LEGO® (75300) pozwoli dzieciom wcielić się w złoczyńców z klasycznej trylogii Gwiezdnych Wojen™. Model dobrze oddaje smukłe linie kultowego myśliwca Imperium i ma otwierany kokpit dla minifigurki LEGO oraz dwa sprężynowe działka.
  
@@ -7966,7 +7966,7 @@ Grupa LEGO od 1999 r. tworzy własne wersje kultowych myśliwców kosmicznych, p
 
 ## 75301 — Zestaw Lego Star Wars – 75301 – Myśliwiec X-wing Luke’a Skywalkera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 383.00 zł · EAN: 05702016913965 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 383.00 zł · EAN: 05702016913965 · in stock*
 
 ZESTAW LEGO STAR WARS – 75301 – MYŚLIWIEC X-WING LUKE’A SKYWALKERA
 
@@ -8008,7 +8008,7 @@ Myśliwiec X-Wing Luke’a Skywalkera to idealne połączenie kultowego designu,
 
 ## 75302 — Klocki Lego Star Wars Zestaw Imperialny wahadłowiec 75302
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 597.00 zł · EAN: 05702016914474 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 597.00 zł · EAN: 05702016914474 · in stock*
 
 Klocki LEGO Star Wars Zestaw Imperialny wahadłowiec 75302
 
@@ -8038,7 +8038,7 @@ Elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniata
 
 ## 75304 — Lego Star Wars 75304 Hełm Dartha Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702016914498 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702016914498 · in stock*
 
 LEGO Star Wars 75304 Star Wars - Hełm Dartha Vadera (75304)
  
@@ -8069,7 +8069,7 @@ Ten wysokiej jakości zestaw należy do serii zestawów konstrukcyjnych LEGO St
 
 ## 75306 — Lego 75306 Star Wars Imperialny droid zwiadowczy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 415.07 zł · EAN: 05702016914184 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 415.07 zł · EAN: 05702016914184 · in stock*
 
 Klocki LEGO Star Wars 75306 - Imperialny droid zwiadowczy
 
@@ -8118,7 +8118,7 @@ Zestaw LEGO Star Wars - Imperialny droid zwiadowczy trafił do sprzedaży w 20
 
 ## 75308 — Lego Star Wars 75308 R2-D2 Unikat! Rzadki Egzemplarz! Okazja!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702016914191 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702016914191 · in stock*
 
 Przypomnij sobie klasyczne chwile z sagi „Gwiezdne Wojny”, budując tę wyjątkowo szczegółową figurkę droida R2-D2 z klocków LEGO®. Ten niezwykły model to nowość na maj 2021 roku, zachwycająca mnóstwem autentycznych detali, takich jak wysuwana tylna podpórka, obrotowa głowa, otwierane i wysuwane przednie klapy, wyciągany i obracany peryskop oraz miecz świetlny Luke’a Skywalkera ukryty w schowku w głowie droida.
  
@@ -8148,7 +8148,7 @@ Ten zestaw konstrukcyjny należy do wysokiej jakości serii zestawów LEGO Star
 
 ## 75309 — Klocki Lego Star Wars Zestaw Kanonierka Republiki 75309
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2108.84 zł · EAN: 05702016914573 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2108.84 zł · EAN: 05702016914573 · in stock*
 
 Klocki LEGO Star Wars Zestaw Kanonierka Republiki 75309
 
@@ -8192,7 +8192,7 @@ Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badan
 
 ## 75310 — Lego Star Wars 75310 Starcie na Mandalore
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016914207 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016914207 · in stock*
 
 Dzięki przenośnemu zestawowi Starcie na Mandalore (75310) młodzi fani mogą odegrać ekscytującą scenę z serialu „Gwiezdne wojny: Wojny klonów”. Zestaw zawiera tron z klocków LEGO® z ukrytą skrytką, w której znajduje się pistolet blasterowy, a także dekoracyjne elementy otoczenia, takie jak pękające okno — w sam raz, aby wyrzucić przez nie minifigurkę LEGO! Dzieci będą również zachwycone mandaloriańskim skarbcem, w którym można uwięzić Dartha Maula.
  
@@ -8217,7 +8217,7 @@ Grupa LEGO już od 1999 roku tworzy modele kultowych statków kosmicznych, pojaz
 
 ## 75311 — Zestaw Lego Star Wars 75311 Opancerzony Maruder Imperium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702016914214 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702016914214 · in stock*
 
 ZESTAW LEGO STAR WARS - 75311 - OPANCERZONY MARUDER IMPERIUM
 
@@ -8259,7 +8259,7 @@ Opancerzony maruder Imperium to zestaw, który łączy efektowny wygląd, ciekaw
 
 ## 75312 — Lego Star Wars 75312 Statek Kosmiczny Boby Fetta Z Gwiezdnych Wojen
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 269.09 zł · EAN: 05702016913859 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.09 zł · EAN: 05702016913859 · in stock*
 
 ZESTAW LEGO STAR WARS - 75312 - STATEK KOSMICZNY BOBY FETTA Z GWIEZDNYCH WOJEN
 
@@ -8301,7 +8301,7 @@ Zestaw LEGO Star Wars 75312 to idealny wybór dla każdego fana Gwiezdnych Wojen
 
 ## 75313 — Lego Star Wars 75313 At-at Cena! Ostatnia Sztuka! Okazja!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 4899.99 zł · EAN: 05702016913866 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 4899.99 zł · EAN: 05702016913866 · in stock*
 
 - **LEGO Star Wars 75313 AT-AT – Ultimate Collector Series**
 Kolekcjonerski zestaw LEGO® Star Wars™ UCS inspirowany bitwą o Hoth z filmu Imperium kontratakuje. Imponujący model AT-AT z ruchomą głową i nogami, otwieranymi lukami, obrotowymi działkami oraz realistycznymi detalami.
@@ -8343,7 +8343,7 @@ Efektowna ozdoba każdego wnętrza i wyjątkowy prezent na urodziny lub święta
 
 ## 75314 — Lego 75314 Prom szturmowy Parszywej Zgrai
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702016914436 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702016914436 · in stock*
 
 Dzieci mogą wcielać się w klony z Parszywej Zgrai i wyruszać na ekscytujące misje z udziałem zbudowanego z klocków promu szturmowego z serialu „Star Wars: The Bad Batch”.
 
@@ -8371,7 +8371,7 @@ Dołącz do Parszywej Zgrai elitarnych klonów i wyrusz na ekscytujące misje ic
 
 ## 75315 — Lego 75315 Star Wars Imperialny lekki krążownik
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 948.99 zł · EAN: 05702016914443 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 948.99 zł · EAN: 05702016914443 · in stock*
 
 Klocki LEGO Star Wars 75315 - Imperialny lekki krążownik
 
@@ -8413,7 +8413,7 @@ Zestaw LEGO Star Wars - Imperialny lekki krążownik trafił do sprzedaży w 2
 
 ## 75316 — Lego 75316 Star Wars Mandaloriański myśliwiec
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016914450 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016914450 · in stock*
 
 Niesamowity model myśliwca do zbudowania
  
@@ -8449,7 +8449,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75318 — Zestaw Lego Star Wars 75318 Dziecko Baby Yoda
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702016928570 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702016928570 · in stock*
 
 ZESTAW LEGO STAR WARS – 75318 – DZIECKO BABY YODA
 
@@ -8489,7 +8489,7 @@ LEGO Star Wars 75318 to zestaw, który łączy w sobie urok, precyzję wykonania
 
 ## 75319 — Lego Star Wars 75319 Kuźnia Zbrojmistrzyni Mandalorian
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702016989410 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702016989410 · in stock*
 
 - **Szczegóły Produktu LEGO STAR WARS Kuźnia Zbrojmistrzyni Mandalorian 75319**
 
@@ -8527,7 +8527,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75320 — Lego 75320 Star Wars Zestaw bitewny ze szturmowcem śnieżnym
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702017155067 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702017155067 · in stock*
 
 Oryginalne, nieotwierane opakowanie
 
@@ -8545,7 +8545,7 @@ Przybliżone wymiary opakowania:** 14,1 x 4,6 x 19,1 cm**
 
 ## 75321 — Lego Star Wars 75321 Mikromyśliwiec Brzeszczot Komplet Klockow 6+ Klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702017155470 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702017155470 · in stock*
 
 Zbuduj mikromyśliwiec Brzeszczot i połącz siły z Mandalorianinem podczas ekscytujących przygód łowców nagród! Wskocz do kokpitu i wyrusz na galaktyczną misję. Strzel klockami z miotaczy w siły Resztek Imperium. Zwiedź inne planety, używając plecaka odrzutowego Mandalorianina, i walcz z przeciwnikami, wykorzystując pistolet blasterowy. Kto wie, co odkryjesz podczas swojej przygody!
  
@@ -8577,7 +8577,7 @@ Zapoznaj dzieci z zestawami z serii LEGO® Star Wars™ dzięki łatwemu w budow
 
 ## 75322 — Lego 75322 At-st z Hoth
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 464.00 zł · EAN: 05702017155487 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 464.00 zł · EAN: 05702017155487 · in stock*
 
 Dzieci mogą odgrywać porywające sceny z filmu „Gwiezdne Wojny: Imperium kontratakuje” dzięki pierwszemu w historii modelowi LEGO® maszyny kroczącej AT-ST z bitwy o Hoth (75322). Maszyna ma otwierany właz oraz dach, przez który minifigurka może wejść do kokpitu, a także sterowaną przy pomocy pokrętła obracaną głowę, dwa działka sprężynowe i ruchome nogi. Ta zabawka konstrukcyjna to fantastyczny prezent dla dzieci w wieku od dziewięciu lat. Zawiera również trzy minifigurki LEGO® Star Wars™, w tymChewbaccę ze śnieżną dekoracją, a także figurkę LEGO imperialnego droida zwiadowczego do kreatywnej zabawy.
  
@@ -8605,7 +8605,7 @@ Bitwa o Hoth trwa! Chewbacca i żołnierz Rebelii potrzebują Twojej pomocy w ob
 
 ## 75323 — Klocki Lego Star Wars Justifier 1022 elementy dla dzieci od 9 lat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 568.99 zł · EAN: 05702017155494 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 568.99 zł · EAN: 05702017155494 · in stock*
 
 LEGO Star Wars 75323 Justifier
  
@@ -8653,7 +8653,7 @@ Grupa LEGO już od ponad 20 lat tworzy modele statków kosmicznych, pojazdów, m
 
 ## 75324 — Zestaw Lego Star Wars 75324 Atak Mrocznych Szturmowców
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 165.98 zł · EAN: 05702017155500 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 165.98 zł · EAN: 05702017155500 · in stock*
 
 ZESTAW LEGO STAR WARS - 75324 - ATAK MROCZNYCH SZTURMOWCÓW
 
@@ -8695,7 +8695,7 @@ Zestaw LEGO Star Wars 75324 to doskonały wybór dla każdego fana galaktycznych
 
 ## 75325 — 75325 Lego Star Wars Myśliwiec N-1 Mandalorianina Zestaw Klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 262.99 zł · EAN: 05702017155517 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 262.99 zł · EAN: 05702017155517 · in stock*
 
 LEGO Star Wars 75325 Myśliwiec N-1 Mandalorianina
 
@@ -8720,7 +8720,7 @@ Mali budowniczowie mogą przywołać opowieści z Tatooine znane z serialu „St
 
 ## 75326 — Zestaw Lego Star Wars – 75326 – Sala Tronowa Boby Fetta
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702017155524 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702017155524 · in stock*
 
 ZESTAW LEGO STAR WARS – 75326 – SALA TRONOWA BOBY FETTA
 
@@ -8762,7 +8762,7 @@ LEGO Star Wars 75326 to zestaw, który łączy w sobie szczegółowość, funkcj
 
 ## 75327 — Zestaw Lego Star Wars 75327 Hełm Luke'a Skywalkera Czerwony Pięć
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017155531 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017155531 · in stock*
 
 ZESTAW LEGO STAR WARS - 75327 - HEŁM LUKE'A SKYWALKERA CZERWONY PIĘĆ
 
@@ -8808,7 +8808,7 @@ Dzięki przemyślanej konstrukcji, solidnej podstawce i wysokiej estetyce wykona
 
 ## 75328 — Lego Star Wars 75328 Hełm Mandalorianina
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017155548 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017155548 · in stock*
 
 **UWAGA ! Proszę o przeczytanie opisu oraz zapoznanie się z ofertą - zdjęcia opakowania produktu są zamieszczone w galerii !**
 
@@ -8844,7 +8844,7 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 
 ## 75329 — Lego Star Wars 75329 Diorama: Szturm na Gwiazdę Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 00097897768984 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 00097897768984 · in stock*
 
 Klocki LEGO Star Wars 75329 - Diorama: Szturm na Gwiazdę Śmierci
 
@@ -8881,7 +8881,7 @@ O zestawie
 
 ## 75330 — Zestaw Lego Star Wars 75330 – Diorama: Szkolenie Jedi Na Dagobah
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702017155562 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702017155562 · in stock*
 
 ZESTAW LEGO STAR WARS - 75330 – DIORAMA: SZKOLENIE JEDI NA DAGOBAH
 
@@ -8923,7 +8923,7 @@ Zestaw LEGO Star Wars 75330 to doskonały wybór dla każdego fana sagi – zar�
 
 ## 75331 — Lego Star Wars 75331 Brzeszczot Razor Crest Grogu Unikat! Okazja!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2679.99 zł · EAN: 05702017155579 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2679.99 zł · EAN: 05702017155579 · in stock*
 
 **LEGO Star Wars 75331 Brzeszczot UCS**
  
@@ -8960,7 +8960,7 @@ Ten kolekcjonerski zestaw z serii LEGO Star Wars dla dorosłych sprawdzi się
 
 ## 75332 — Lego Star Wars 75332 At-st
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702017155586 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702017155586 · in stock*
 
 ZESTAW NOWY, ZAPLOMBOWANY.
 
@@ -9002,7 +9002,7 @@ Zestaw LEGO Star Wars - AT-ST trafił do sprzedaży w 2022 roku. Numer katalogow
 
 ## 75333 — Lego Star Wars 75333 Myśliwiec Jedi Obi-Wana Kenobiego
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 118.31 zł · EAN: 05702017155593 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.31 zł · EAN: 05702017155593 · in stock*
 
 LEGO Star Wars 75333 Myśliwiec Jedi Obi-Wana Kenobiego
  
@@ -9034,7 +9034,7 @@ Do zestawu dołączono instrukcje budowania krok po kroku. Ale sprawdź też int
 
 ## 75334 — Lego Star Wars 75334 Obi-Wan Kenobi kontra Darth Vader
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 217.00 zł · EAN: 05702017155609 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 217.00 zł · EAN: 05702017155609 · in stock*
 
 Dołącz do Obi-Wana Kenobiego na polu bitwy i stocz kolejny pojedynek z Darthem Vaderem. Przeskocz ścianę ognia, skonfrontuj się z Lordem Sithów i unikaj eksplodujących wagoników. Imperialna oficer, Tala Durith, i droid NED-B przybywają w samą porę, by być świadkami tej epickiej bitwy!
 
@@ -9071,7 +9071,7 @@ Kreatywna zabawa bez granic Grupa LEGO już od 1999 roku tworzy modele kultowych
 
 ## 75335 — Lego 75335 BD-1
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 844.00 zł · EAN: 05702017155616 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 844.00 zł · EAN: 05702017155616 · in stock*
 
 Zbuduj z klocków własny ruchomy model BD-1 z gry „Gwiezdne Wojny: Upadły zakon”! Uchwyć realistyczne detale małego pomocnika w stylu LEGO® i obracaj głowę w różne strony, odtwarzając jego urocze pozy. Dodaj płytkę informacyjną z małą figurką LEGO BD-1, by uzupełnić tę wspaniałą ozdobę.
  
@@ -9102,7 +9102,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75336 — Outlet Lego Star Wars 75336 Transporter Inkwizytorów Scythe Statek klocki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 524.99 zł · EAN: 05702017155623 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 524.99 zł · EAN: 05702017155623 · in stock*
 
 LEGO 75336
 
@@ -9136,7 +9136,7 @@ W zestawie są także minifigurki Bena Kenobiego, Wielkiego Inkwizytora, Revy (T
 
 ## 75337 — Lego Star Wars 75337 Maszyna krocząca At-te
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 617.89 zł · EAN: 05702017154541 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 617.89 zł · EAN: 05702017154541 · in stock*
 
 Dzień dobry.
 
@@ -9175,7 +9175,7 @@ Sprawdź całą serię LEGO Star Wars i odkryj inne zestawy dla każdego.
 
 ## 75338 — Lego 75338 Star Wars Zasadzka na Ferrix
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 373.00 zł · EAN: 05702017189635 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 373.00 zł · EAN: 05702017189635 · in stock*
 
 Zapraszam do zakupu zestawu Lego z serii Star Wars:
 
@@ -9213,7 +9213,7 @@ Już od 1999 roku grupa LEGO tworzy własne wersje kultowych statków kosmicznyc
 
 ## 75339 — Lego 75339 Star Wars Diorama: Zgniatarka odpadów na Gwieździe Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 445.89 zł · EAN: 05702017189642 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.89 zł · EAN: 05702017189642 · in stock*
 
 Klocki LEGO Star Wars 75339 - Diorama: Zgniatarka odpadów na Gwieździe Śmierci
 
@@ -9259,7 +9259,7 @@ Zestaw LEGO Star Wars - Diorama: Zgniatarka odpadów na Gwieździe Śmierci tr
 
 ## 75341 — Klocki Lego Star Wars Zestaw Śmigacz Luke`a Skywalkera 75341
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702017155647 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702017155647 · in stock*
 
 Daj się przenieść na pustynną planetę Tatooine! Zabierze Cię tam pierwszy w historii LEGO® Star Wars™ śmigacz Luke’a Skywalkera (75341) z serii Ultimate Collector Series. Nowe techniki budowania i elementy LEGO opracowane specjalnie do tego modelu umożliwiają odtworzenie kultowego pojazdu z zachowaniem najdrobniejszych detali. Od owiewki kokpitu po turbinowy silnik z brakującą osłoną — wszystko jest w nim takie, jak w filmie „Gwiezdne Wojny: Nowa nadzieja”.
 
@@ -9287,7 +9287,7 @@ Doskonała ozdoba — pojazd z Gwiezdnych Wojen™ do zbudowania z klocków ma o
 
 ## 75342 — Lego 75342 Star Wars Czołg bojowy Republiki
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 273.50 zł · EAN: 05702017189659 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 273.50 zł · EAN: 05702017189659 · in stock*
 
 LEGO® 75342 Czołg bojowy Republiki™
 
@@ -9315,7 +9315,7 @@ Grupa LEGO już od 1999 roku tworzy modele kultowych statków kosmicznych, pojaz
 
 ## 75343 — Lego Star Wars 75343 Hełm mrocznego szturmowca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017189666 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017189666 · in stock*
 
 Przejdź na ciemną stronę Mocy, budując zestaw LEGO® Star Wars™ Hełm mrocznego szturmowca™ (75343) dla dorosłych. Składanie wyrazistych konturów hełmu z drugiego sezonu serialu „Star Wars: The Mandalorian” to wspaniały sposób na odpoczynek. Hełm ma złowieszcze oczy zbudowane z przezroczystych czerwonych klocków LEGO, a na złożonej z klocków podstawce przechyla się odrobinę do przodu, co podkreśla jego realistyczny i przerażający wygląd.
  
@@ -9345,7 +9345,7 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 
 ## 75345 — Lego Star Wars 75345 Zestaw bitewny żołnierze-klony z 501 legionu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 62.92 zł · EAN: 05702017421292 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 62.92 zł · EAN: 05702017421292 · in stock*
 
 LEGO Star Wars 75345 Zestaw bitewny żołnierze-klony z 501. legionu
  
@@ -9381,7 +9381,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75346 — Lego Star Wars 75346 Piracki myśliwiec Pudełko zagniecione
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702017421308 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702017421308 · in stock*
 
 LEGO Star Wars 75346 Piracki myśliwiec
 
@@ -9414,7 +9414,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75347 — Lego Star Wars Bombowiec Tie 75347
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 247.90 zł · EAN: 05702017421322 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 247.90 zł · EAN: 05702017421322 · in stock*
 
 BOMBOWIEC TIE™
 
@@ -9437,7 +9437,7 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 ro
 
 ## 75348 — Lego Star Wars 75348 Mandaloriański myśliwiec kontra Tie Interceptor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 418.99 zł · EAN: 05702017421339 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 418.99 zł · EAN: 05702017421339 · in stock*
 
 Klocki LEGO® 75348 Star Wars™ Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor™
 
@@ -9464,7 +9464,7 @@ Zestaw jest przeznaczony dla dzieci od 9 lat oraz fanów Star Wars™: The Manda
 
 ## 75349 — Lego Star Wars Hełm Kapitana Rexa 75349
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 264.99 zł · EAN: 05702017421346 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 264.99 zł · EAN: 05702017421346 · in stock*
 
 **LEGO Star Wars Hełm kapitana Rexa 75349**
 
@@ -9502,7 +9502,7 @@ W pudełku oraz w aplikacji LEGO Builder znajdziesz proste instrukcje, które pr
 
 ## 75350 — Lego 75350 Star Wars Hełm dowódcy klonów Cody’ego
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017421353 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017421353 · in stock*
 
 LEGO 75350 Star Wars - Hełm dowódcy klonów Cody’ego
 
@@ -9532,7 +9532,7 @@ Wszystko zaczęło się dawno temu, w odległej galaktyce… Teraz saga toczy si
 
 ## 75351 — Lego Star Wars 75351 Hełm księżniczki Lei
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 237.44 zł · EAN: 05702017433509 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 237.44 zł · EAN: 05702017433509 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -9549,7 +9549,7 @@ Ten kolekcjonerski zestaw z okazji 40. rocznicy premiery filmu „Gwiezdne Wojny
 
 ## 75352 — Lego 75352 Star Wars Diorama: Sala tronowa Imperat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 421.79 zł · EAN: 05702017421360 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 421.79 zł · EAN: 05702017421360 · in stock*
 
 Klocki LEGO Star Wars 75352 - Diorama: Sala tronowa Imperatora
 
@@ -9574,7 +9574,7 @@ LEGO BuilderDzięki aplikacji LEGO Builder możesz łatwo uporządkować swoje i
 
 ## 75353 — Zestaw Lego Star Wars 75353 Diorama: Pościg Na Ścigaczu Przez Endor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 279.85 zł · EAN: 05702017421377 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.85 zł · EAN: 05702017421377 · in stock*
 
 ZESTAW LEGO STAR WARS - 75353 - DIORAMA: POŚCIG NA ŚCIGACZU PRZEZ ENDOR
 
@@ -9620,7 +9620,7 @@ Zestaw LEGO Star Wars 75353 to doskonały wybór dla dorosłego fana Gwiezdnych 
 
 ## 75354 — Lego 75354 Star Wars Kanonierka Gwardii Coruscańskiej Pancernie Pakowane
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 759.31 zł · EAN: 05702017433806 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 759.31 zł · EAN: 05702017433806 · in stock*
 
 LEGO 75354 Star Wars - Kanonierka Gwardii Coruscańskiej
 
@@ -9638,7 +9638,7 @@ Ilość klocków: **1083**
 
 ## 75355 — Klocki Lego Star Wars Zestaw Myśliwiec X-Wing 75355
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017421384 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017421384 · in stock*
 
 LEGO Star Wars 75355 - Myśliwiec X-Wing
 
@@ -9655,7 +9655,7 @@ LEGO Star Wars 75355 - Myśliwiec X-Wing
 
 ## 75356 — Lego Star Wars Gwiezdny superniszczyciel Executor 75356
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017433813 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017433813 · in stock*
 
 LEGO Star Wars 76356
  
@@ -9683,7 +9683,7 @@ Gwiezdny superniszczyciel typu Executor
 
 ## 75357 — Lego Star Wars 75357 Ahsoka Duch i Upiór II Gwiezdne Wojny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 795.00 zł · EAN: 05702017433820 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 795.00 zł · EAN: 05702017433820 · in stock*
 
 LEGO 75357 Star Wars Duch i Upiór II, Zestaw z 2 Pojazdami Ahsoki, Zabawki Do Zbudowania Dla Fana Gwiezdnych Wojen z 5 postaciami, w tym figurką droida Choppera, Pomysł na Prezent dla 10-latka
  
@@ -9702,7 +9702,7 @@ Producent: LEGO
 
 ## 75358 — Lego Star Wars 75358 Świątynia Jedi Na Tenoo 4+ Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 92.00 zł · EAN: 05702017421391 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 92.00 zł · EAN: 05702017421391 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -9743,7 +9743,7 @@ Zabawki konstrukcyjne LEGO Star Wars dla czterolatków i starszych dzieci obe
 
 ## 75359 — Lego 75359 Star Wars Zestaw bitewny 332. oddziałem
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 108.60 zł · EAN: 05702017421407 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 108.60 zł · EAN: 05702017421407 · in stock*
 
 Klocki LEGO Star Wars 75359 - Zestaw bitewny z 332. oddziałem klonów Ahsoki
 
@@ -9767,7 +9767,7 @@ Galaktyka pełna zabawyOd 1999 roku Grupa LEGO odtwarza kultowe statki kosmiczn
 
 ## 75360 — Lego Star Wars 75360 Jedi Starfighter Yody Myśliwiec Yody Starfighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 229.90 zł · EAN: 05702017421414 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 229.90 zł · EAN: 05702017421414 · in stock*
 
 LEGO STAR WARS
 
@@ -9791,7 +9791,7 @@ Nowy Oryginalny Zestaw Klocków LEGO STAR WARS
 
 ## 75361 — Lego Star Wars 75361 Pajęczy czołg
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017421421 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017421421 · in stock*
 
 LEGO Star Wars Pajęczy czołg 75361
 
@@ -9876,7 +9876,7 @@ Model pajęczego czołgu ma 20 cm długości. Spraw, by budowanie było jeszcze 
 
 ## 75362 — Lego Star Wars 75362 Prom kosmiczny Jedi T-6 Ahsoki Tano
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702017421438 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702017421438 · in stock*
 
 LEGO Star Wars - 75362 - Prom kosmiczny Jedi T-6 Ahsoki Tano
  
@@ -9897,7 +9897,7 @@ LEGO Star Wars - 75362 - Prom kosmiczny Jedi T-6 Ahsoki Tano - informacje dodatk
 
 ## 75363 — Lego Star Wars Myśliwiec N-1 Mandalorianina w Mikroskali 75363 i Ebook 4w1
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017421445 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017421445 · in stock*
 
 Lego Star Wars Myśliwiec N-1 Mandalorianina w Mikroskali 75363 i Ebook 4w1
 
@@ -9992,7 +9992,7 @@ Ten szybki do zbudowania model myśliwca N-1 z klocków LEGO w mikroskali ma otw
 
 ## 75364 — Lego 75364 Star Wars E-Wing Nowej Republiki kontra Myśliwiec Shin Hati
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702017421452 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702017421452 · in stock*
 
 LEGO Star Wars 75364 Star Wars E-Wing kontra Myśliwiec
  
@@ -10024,7 +10024,7 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 ## 75365 — Klocki Lego Star Wars Zestaw Baza Rebeliantów na Yavin 4 75365
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 789.00 zł · EAN: 05702017421469 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 789.00 zł · EAN: 05702017421469 · in stock*
 
 Lego STAR WARS 75365 Baza Rebeliantów na Yavin 4
  
@@ -10086,7 +10086,7 @@ Dzięki temu zawsze do siebie pasują i mocno się trzymają
 
 ## 75367 — Lego Klocki Star Wars 75367 Gwiezdny Niszczyciel typu Venator
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2328.00 zł · EAN: 05702017421476 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2328.00 zł · EAN: 05702017421476 · in stock*
 
 LEGO® 75367 Star Wars - Gwiezdny Niszczyciel typu Venator
  
@@ -10132,7 +10132,7 @@ Ten kolekcjonerski zestaw LEGO Star Wars dla dorosłych będzie świetnym pre
 
 ## 75368 — Lego Star Wars 75368 Mech Lorda Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702017462820 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702017462820 · in stock*
 
 NOWE KLOCKI LEGO Z SERII STAR WARS
 
@@ -10194,7 +10194,7 @@ Poznaj ciemną stronę Mocy dzięki temu niesamowitemu mechowi Dartha Vadera! Ws
 
 ## 75369 — Lego Star Wars 75369 Mech Boby Fetta
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017462837 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017462837 · in stock*
 
 LEGO Star Wars 75369 Mech Boby Fetta
 
@@ -10254,7 +10254,7 @@ Ten niesamowity zestaw do zbudowania należy do serii mechów LEGO Star Wars, kt
 
 ## 75370 — Lego Star Wars 75370 Mech Szturmowca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 114.70 zł · EAN: 05702017462844 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 114.70 zł · EAN: 05702017462844 · in stock*
 
 Lego STAR WARS 75370 Mech Szturmowca
 
@@ -10279,7 +10279,7 @@ Kolekcjonerska zabawka LEGO Star WarsTen niesamowity mech do zbudowania należy
 
 ## 75371 — Nowe! Lego 75371 Star Wars Chewbacca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 683.01 zł · EAN: 05702017462851 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 683.01 zł · EAN: 05702017462851 · in stock*
 
 LEGO Star Wars 75371 Chewbacca
 
@@ -10306,7 +10306,7 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 
 ## 75372 — Lego Star Wars 75372 Zestaw bitewny z żołnierzem armii klonów i droidem
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 79.66 zł · EAN: 05702017584317 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 79.66 zł · EAN: 05702017584317 · in stock*
 
 LEGO® Star Wars™ Zestaw Bitewny: Odtwórz Wojny Klonów!
  
@@ -10363,7 +10363,7 @@ Zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom odtwarzanie
 
 ## 75373 — Lego Star Wars 75373 Pakiet bitewny Mandalorian Ambush 75373 Star Wars
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 56.24 zł · EAN: 05702017584324 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 56.24 zł · EAN: 05702017584324 · in stock*
 
 LEGO Star Wars 75373 Pakiet bitewny Mandalorian Ambush 75373 Star Wars
 
@@ -10427,7 +10427,7 @@ Specyfikacja zestawu:
 
 ## 75374 — Lego Star Wars 10+ Duży Statek The Onyx Cinder 75374
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 448.00 zł · EAN: 05702017584331 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 448.00 zł · EAN: 05702017584331 · in stock*
 
 LEGO® STAR WARS
 
@@ -10462,7 +10462,7 @@ Onyx Cinder
 
 ## 75375 — 75375 Lego Star Wars Sokół Millennium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 451.89 zł · EAN: 00673419389471 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 451.89 zł · EAN: 00673419389471 · in stock*
 
 ✨ 75375 - LEGO STAR WARS - SOKÓŁ MILLENNIUM ✨
 
@@ -10566,7 +10566,7 @@ Specjalnie zaprojektowana podstawka
 
 ## 75376 — Lego Star Wars Tantive IV 75376 Statek Kosmiczny 654 el.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017584355 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017584355 · in stock*
 
 LEGO Star Wars Tantive IV 75376 Statek Kosmiczny 654 el.
 
@@ -10660,7 +10660,7 @@ To nowoczesny i wygodny sposób na jeszcze lepszą zabawę podczas składania mo
 
 ## 75377 — Lego Star Wars Niewidzialna ręka 75377
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702017598963 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702017598963 · in stock*
 
 LEGO®
  
@@ -10699,7 +10699,7 @@ Kreatywne wyzwanie konstruktorskie, jakie oferuje ten wyjątkowy zestaw LEGO Sta
 
 ## 75378 — Lego Star Wars 75378 Ucieczka na śmigaczu Barc
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017584362 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017584362 · in stock*
 
 **PRODUCENT**: LEGO
  
@@ -10736,7 +10736,7 @@ Dzieci mogą także pobrać aplikację LEGO Builder, która umożliwia powiększ
 
 ## 75379 — Lego Star Wars 75379 R2-D2
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 293.98 zł · EAN: 05702017584379 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 293.98 zł · EAN: 05702017584379 · in stock*
 
 LEGO Star Wars 75379 R2-D2
 
@@ -10781,7 +10781,7 @@ Zaproś do swojego domu uwielbianego droida ze świata Gwiezdnych Wojen™ dzię
 
 ## 75380 — Zestaw Lego Star Wars 75380 Diorama: Wyścig Ścigaczy W Most Espa
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017584386 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017584386 · in stock*
 
 ZESTAW LEGO STAR WARS - 75380 - DIORAMA: WYŚCIG ŚCIGACZY W MOST ESPA
 
@@ -10821,7 +10821,7 @@ Zestaw LEGO Star Wars 75380 to idealna propozycja dla fanów, którzy cenią sob
 
 ## 75382 — Lego Star Wars 75382 Myśliwiec Tie
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 959.98 zł · EAN: 05702017590196 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 959.98 zł · EAN: 05702017590196 · in stock*
 
 LEGO® 75382 TIE Interceptor™
 
@@ -10863,7 +10863,7 @@ Zawiera instrukcje krok po kroku, a także instrukcje w aplikacji LEGO Builder, 
 
 ## 75383 — Lego Star Wars 75383 Infiltrator Sithów Dartha Maula
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 279.97 zł · EAN: 05702017600277 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.97 zł · EAN: 05702017600277 · in stock*
 
 Infiltrator Sithów Dartha Maula™
 
@@ -10873,7 +10873,7 @@ Star Wars™ Infiltrator Sithów Dartha Maula™ LEGO® Star Wars™ Infiltrator
 
 ## 75384 — Zestaw klocków Lego Star Wars Czerwony Świetlik 75384 136 el. dla dzieci 4+
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 111.00 zł · EAN: 05702017584409 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 111.00 zł · EAN: 05702017584409 · in stock*
 
 W sprzedaży:
 
@@ -10905,7 +10905,7 @@ Zapoznaj przedszkolaków w wieku od czterech lat z uniwersum LEGO® Star Wars™
 
 ## 75385 — Lego Star Wars 75385 Pojedynek Ahsoki Tano na Peridei Admirał Thrawn
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 287.81 zł · EAN: 05702017584416 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 287.81 zł · EAN: 05702017584416 · in stock*
 
 Odtwórz epicką bitwę finałową z pierwszego sezonu serialu Star Wars: Ahsoka i przeżyj nowe przygody dzięki zestawowi Pojedynek Ahsoki Tano na Peridei (75385). Ten kolekcjonerski zestaw konstrukcyjny to fajny pomysł na prezent urodzinowy dla dzieci i wszystkich fanów w wieku od ośmiu lat. Zawiera pięć minifigurek LEGO Star Wars — Ahsokę Tano, wielkiego admirała Thrawna, Morgan Elsbeth, Ezrę Bridgera i nocnego szturmowca — wraz z kultowymi akcesoriami do twórczej zabawy. Umieść postacie na platformie, która zawiera trzy wbudowane obrotnice, by odtworzyć ekscytujące bitwy, i użyj specjalnej funkcji, aby odtworzyć skok Ezry.
 
@@ -10936,7 +10936,7 @@ Przenieś się do finałowej sceny pierwszego sezonu Star Wars: Ahsoka i odtwór
 
 ## 75386 — Lego 75386 Star Wars Pojedynek Paza Vizsli I Moffa Gideona
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702017584423 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702017584423 · in stock*
 
 NOWE KLOCKI LEGO Z SERII STAR WARS
 
@@ -10956,7 +10956,7 @@ Ilość klocków: 286
 
 ## 75389 — Lego Star Wars 75389 Mroczny Sokół Millennium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702017584454 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702017584454 · in stock*
 
 LEGO Star Wars
  
@@ -10996,7 +10996,7 @@ Specyfikacja zestawu:
 
 ## 75390 — Lego Star Wars 75390 StarWars 75390 Kostium robota X-wing Luke'a Skywalkera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 42.49 zł · EAN: 05702017584461 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 42.49 zł · EAN: 05702017584461 · in stock*
 
 LEGO Star Wars 75390 StarWars 75390 Kostium robota X-wing Luke'a Skywalkera
 
@@ -11049,7 +11049,7 @@ Mech X-Wing Luke'a Skywalkera jest częścią kolekcjonerskiej serii mechów LEG
 
 ## 75391 — Lego Star Wars Mikromyśliwiec Y-Wing kapitana Rexa 75391
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 38.91 zł · EAN: 05702017584478 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 38.91 zł · EAN: 05702017584478 · in stock*
 
 **PRODUCENT**: LEGO
  
@@ -11076,7 +11076,7 @@ Ten niewielki zestaw należy do kolekcjonerskiej serii mikromyśliwców LEGO Sta
 
 ## 75392 — Lego Star Wars75392 Kreatywny zestaw do budowy droidów R2-D2 Chopper
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 439.99 zł · EAN: 05702017600284 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.99 zł · EAN: 05702017600284 · in stock*
 
 ⭐LEGO® Star Wars™ 75392 Kreatywny zestaw do budowy droidów R2-D2 Chopper QT-KT R5-J2 1186⭐
 
@@ -11116,7 +11116,7 @@ Akcesoria pasują do wszystkich modeli, a ruchome głowy i nogi można dowolnie 
 
 ## 75393 — Lego Star Wars 75393 Hybryda Tie Fightera i X-Winga
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702017584485 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702017584485 · in stock*
 
 **PRODUCENT**: LEGO
  
@@ -11143,7 +11143,7 @@ Ten zestaw do zbudowania zawiera także cztery minifigurki LEGO Star Wars z a
 
 ## 75394 — Lego Star Wars Gwiezdny Niszczyciel Imperium 75394
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 663.78 zł · EAN: 05702017600291 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 663.78 zł · EAN: 05702017600291 · in stock*
 
 Gwiezdny Niszczyciel Imperium
 
@@ -11171,7 +11171,7 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 ro
 
 ## 75396 — Lego 75396 Star Wars Pustynna barka i jama sarlacca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702017584492 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702017584492 · in stock*
 
 Klocki LEGO Star Wars 75396 - Pustynna barka i jama sarlacca
 
@@ -11193,7 +11193,7 @@ Szczegółowe instrukcje znajdują się w pudełku i aplikacji LEGO Builder, kt�
 
 ## 75397 — Lego 75397 Star Wars Barka Jabby Leia C-3PO Rebo Vizam Wooof
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1899.99 zł · EAN: 05702017590202 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1899.99 zł · EAN: 05702017590202 · in stock*
 
 LEGO Star Wars - Barka Jabby
  
@@ -11218,7 +11218,7 @@ Crimson_Brick
 
 ## 75398 — Lego Star Wars 75398 Figurka C-3PO 18+ Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702017584508 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702017584508 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -11262,7 +11262,7 @@ Ciesz się każdym intuicyjnym budowaniem dzięki aplikacji LEGO® Builder, któ
 
 ## 75399 — Lego Star Wars 75399 Rebeliancki statek U-wing
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017817439 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017817439 · in stock*
 
 Dzieci łączą siły z Cassianem Andorem i K-2SO, przypominając sobie sceny z 2. Seria Star Wars: Andor™ podczas budowy **Myśliwca Rebelianckiego U-wing **(75399). Ten zestaw będzie zabawnym prezentem świątecznym lub urodzinowym dla chłopców, dziewcząt i każdego fana Star Wars™ od 8 lat.
  
@@ -11298,7 +11298,7 @@ Dzięki aplikacji LEGO Builder dzieci będą cieszyć się jeszcze większą por
 
 ## 75400 — Lego Star Wars 75400 Star Wars Plo Koon i jego mikromyśliwiec Jedi
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 44.50 zł · EAN: 05702017817446 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 44.50 zł · EAN: 05702017817446 · in stock*
 
 LEGO Star Wars 75400 Star Wars Plo Koon i jego mikromyśliwiec Jedi
 
@@ -11348,7 +11348,7 @@ Ten fantastyczny zestaw **zawiera** również minifigurkę LEGO Plo Koona z nieb
 
 ## 75401 — Lego Star Wars Interceptor Jedi Ahsoki 75401
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017817453 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017817453 · in stock*
 
 Klocki LEGO® Star Wars-
 
@@ -11377,7 +11377,7 @@ Ten zestaw z Gwiezdnych Wojen doskonale nadaje się do samodzielnej zabawy, a po
 
 ## 75402 — Lego Star Wars 75402 Myśliwiec ARC-170 497 el.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 217.99 zł · EAN: 05702017817460 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 217.99 zł · EAN: 05702017817460 · in stock*
 
 🚀⭐ LEGO Star Wars Myśliwiec ARC-170 75402 – 497 elementów
 
@@ -11475,7 +11475,7 @@ LEGO Star Wars Myśliwiec ARC-170 75402 to doskonały zestaw dla młodych fanów
 
 ## 75403 — Lego Star Wars 75403 Grogu w wózku
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017817477 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017817477 · in stock*
 
 LEGO® Star Wars™ Grogu™ w wózku (75403)
 
@@ -11489,7 +11489,7 @@ Zestaw zawiera szczegółowe instrukcje, a także oferuje aplikację LEGO Builde
 
 ## 75404 — Klocki Lego 75404 Star Wars Krążownik Szturmowy Typu Acclamator
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017817262 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017817262 · in stock*
 
 Na sprzedaż **KLOCKI LEGO 75404 STAR WARS KRĄŻOWNIK SZTURMOWY TYPU ACCLAMATOR**
 
@@ -11509,7 +11509,7 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanego przez nas spr
 
 ## 75405 — Lego Star Wars 75405 Krążownik typu Home One
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 194.98 zł · EAN: 05702017817576 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.98 zł · EAN: 05702017817576 · in stock*
 
 Krążownik typu Home One
 
@@ -11519,7 +11519,7 @@ Star Wars™ LEGO Star Wars Krążownik typu Home One, Zestaw dla Dorosłych Fan
 
 ## 75406 — Lego Star Wars 75406 Statek dowodzenia Kylo Rena 386 el.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 204.92 zł · EAN: 05702017824574 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 204.92 zł · EAN: 05702017824574 · in stock*
 
 LEGO 75406
 
@@ -11545,7 +11545,7 @@ Ciesz się w pełni tym statkiem kosmicznym dzięki aplikacji LEGO Builder. Umo�
 
 ## 75407 — Lego Star Wars 75407 Logo Star Wars z klocków
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017817583 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017817583 · in stock*
 
 Zanurz się w nostalgicznych chwilach i przypomnij sobie spektakularne historie, legendarne postacie i dramatyczne sceny dzięki zestawowi LEGO® Star Wars™ (75407**) Logo Star Wars™ z klocków**. Ten kreatywny prezent dla dorosłych fanów zaprasza do zbudowania własnej wersji 3D kultowego logo, które po raz pierwszy zostało zauważone w napisach wprowadzających do filmu Gwiezdne wojny: Nowa nadzieja.
  
@@ -11579,7 +11579,7 @@ Ten kolekcjonerski zestaw wystawowy LEGO Star Wars można umieścić na dowolnej
 
 ## 75408 — Lego Star Wars 75408 Hełm Boby Fetta
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017817590 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017817590 · in stock*
 
 Oddaj hość jednemu z najlepszych łowców nagród w galaktyce dzięki zestawowi konstrukcyjnemu LEGO® Star WarsTM 75408 **Hełm Jango Fetta** dla dorosłych. Zanurz się w wymagającym, praktycznym projekcie i odtwórz z klocków LEGO charakterystyczne detale hełmu noszonego przez Jango Fetta w filmie Star Wars: Atak klonów, w tym regulowaną antenę dalmierza.
  
@@ -11611,7 +11611,7 @@ Ten składany hełm jest dostarczany ze szczegółową instrukcją budowania. Mo
 
 ## 75409 — Klocki Lego Star Wars 75409 Patrolowiec typu Firespray Jango Fetta Ucs
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1239.99 zł · EAN: 05702017824178 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1239.99 zł · EAN: 05702017824178 · in stock*
 
 Patrolowiec typu Firespray Jango Fetta
 
@@ -11639,7 +11639,7 @@ Do zestawu z kolekcjonerskim modelem LEGO Star Wars dołączone są szczegółow
 
 ## 75410 — Lego Star Wars 75410 Myśliwiec N-1 Mando i Grogu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 83.28 zł · EAN: 05702017817606 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 83.28 zł · EAN: 05702017817606 · in stock*
 
 Myśliwiec N-1 Mando i Grogu
 
@@ -11649,7 +11649,7 @@ Star Wars™ LEGO Star Wars Myśliwiec N-1 Mando i Grogu, Kreatywna Zabawka dla 
 
 ## 75411 — Lego Star Wars 75411 Star Wars Darth Maul i jego kostium robota
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 39.88 zł · EAN: 05702017817613 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 39.88 zł · EAN: 05702017817613 · in stock*
 
 LEGO Star Wars 75411 Star Wars Darth Maul i jego kostium robota
 
@@ -11703,7 +11703,7 @@ Darth Maul i jego kombinezon robotyczny są częścią serii kombinezonów robot
 
 ## 75412 — Lego Star Wars Szturmowiec Śmierci i nocny szturmowiec zestaw bitewny 75412
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 59.88 zł · EAN: 05702017817620 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 59.88 zł · EAN: 05702017817620 · in stock*
 
 Dzieci zbudują własny pluton i wyruszą z nim do bitew z serialu LEGO® Star Wars: Ahsoka™ z **Pakietem bitewnym: Death Trooper i Night Trooper** (75412). Zestaw to wspaniały mały prezent dla chłopców, dziewczynek i fanów w wieku od 6 lat, który zawiera statek desantowy z miejscem na 4 minifigurki LEGO z tyłu, 2 wyrzutnie i kokpit ze zdejmowaną osłoną na minifigurkę LEGO. **W zestawie** znajdują się 4 minifigurki LEGO Star Wars™ - 2 Troopery Death i 2 Troperzy Nocne. Każdy z nich ma blaster, który można umieścić obok nich z tyłu statku desantowego. Przygotuj się na zabawne bitwy!
 
@@ -11736,7 +11736,7 @@ Nie przegap innych pakietów bojowych LEGO Star Wars (sprzedawanych osobno) i od
 
 ## 75413 — Lego Star Wars Czołg Republiki Juggernaut 75413
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017817637 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017817637 · in stock*
 
 LEGO Star Wars - Czołg Republiki Juggernaut 75413
 
@@ -11767,7 +11767,7 @@ Poszerz kreatywne doświadczenia dzieci dzięki aplikacji LEGO Builder, w które
 
 ## 75414 — Lego Star Wars 75414 Snowspeeder z filmu Síla se probouzí
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 148.38 zł · EAN: 05702017817644 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 148.38 zł · EAN: 05702017817644 · in stock*
 
 **LEGO Star Wars Płomienny śmigacz śnieżny dla dzieci 75414**
  
@@ -11795,7 +11795,7 @@ Płomienny śmigacz śnieżny ma 17 cm długości
 
 ## 75415 — Lego Star Wars Hełm Kylo Rena 75415
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 262.37 zł · EAN: 05702017824581 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 262.37 zł · EAN: 05702017824581 · in stock*
 
 LEGO STAR WARS Hełm Kylo Rena 75415
 
@@ -11811,7 +11811,7 @@ Ten zestaw do zbudowania i ozdoby jest odpowiedni zarówno dla doświadczonych k
 
 ## 75416 — Klocki Star Wars 75416 Droid astromechaniczny Chopper (C1-10P) Lego
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 270.00 zł · EAN: 05702017817651 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 270.00 zł · EAN: 05702017817651 · in stock*
 
 Zbuduj zabawny element wystawowy z uroczym zestawem LEGO® Star Wars™ (75416) **Astro-droid Chopper (C1-10P)™**. Ta figurka Choppera to uroczy prezent urodzinowy lub świąteczny dla każdego fana od 10 lat i jest inspirowana serialem Star Wars: Ahsoka™.
  
@@ -11847,7 +11847,7 @@ Buduj razem z przyjaciółmi i rodziną - aplikacja LEGO® Builder zapewnia zaba
 
 ## 75417 — Lego Star Wars 75417 Maszyna krocząca At-st
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017817668 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017817668 · in stock*
 
 **LEGO Star Wars 75417 Maszyna krocząca AT-ST**
  
@@ -11887,7 +11887,7 @@ Przywołaj wspomnienia z epickich bitew o Endor dzięki zestawowi dla dorosłych
 
 ## 75419 — Lego Star Wars 75419 Gwiazda Śmierci
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 4129.99 zł · EAN: 05702017824185 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 4129.99 zł · EAN: 05702017824185 · in stock*
 
 Klocki LEGO Star Wars 75419 - Gwiazda Śmierci
 
@@ -11919,7 +11919,7 @@ Zestaw LEGO Star Wars - Gwiazda Śmierci trafił do sprzedaży w 2025 roku. Nu
 
 ## 75420 — Lego Star Wars Smart Play: śmigacz Luke'a 75420
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017817675 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017817675 · in stock*
 
 **LEGO Star Wars SMART Play: Śmigacz Luke'a 75420**
  
@@ -11943,7 +11943,7 @@ Odkryj pełną serię klocków LEGO® Star Wars™ SMART Play™
 
 ## 75421 — Lego Star Wars 75421 Smart Play Myśliwiec Tie Dartha Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 213.98 zł · EAN: 05702017817682 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 213.98 zł · EAN: 05702017817682 · in stock*
 
 **LEGO Star Wars 75421 SMART Play Myśliwiec TIE Dartha Vadera**
 
@@ -11994,7 +11994,7 @@ Technologia baterii: RE-CHARG LI ION
 
 ## 75422 — Lego Star Wars 75422 Smart Play: Chatka Yody i szkolenie Jedi
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702017817699 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702017817699 · in stock*
 
 **LEGO Star Wars SMART Play: Chatka Yody i szkolenie Jedi 75422**
  
@@ -12024,7 +12024,7 @@ Chata Yody ma 20 cm szerokości
 
 ## 75423 — Lego Star Wars Smart Play X-Wing Czerwona Piątka Luke’a 75423
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702017817705 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702017817705 · in stock*
 
 **LEGO Star Wars SMART Play X-Wing Czerwona Piątka Luke’a 75423**
 
@@ -12075,7 +12075,7 @@ Technologia baterii: RE-CHARG LI ION
 
 ## 75424 — Lego Star Wars 75424 Lego Star Wars 75424 Smart Play Atak At-st na Endor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 174.58 zł · EAN: 05702017817712 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 174.58 zł · EAN: 05702017817712 · in stock*
 
 **LEGO Star Wars SMART Play: Atak AT-ST na Endor 75424**
  
@@ -12105,7 +12105,7 @@ Maszyna krocząca AT-ST w tym 347-elementowym zestawie ma 19 cm wysokości
 
 ## 75425 — Lego Star Wars 75425 Smart Play Kompatybilny Kantyna Mos Eisley
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017817729 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017817729 · in stock*
 
 LEGO Star Wars 75425 SMART Play Kantyna Mos Eisley
 
@@ -12147,7 +12147,7 @@ Czego nie ma w zestawie:
 
 ## 75426 — Lego Star Wars 75426 Smart Play: Sokół Millennium
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017817736 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017817736 · in stock*
 
 **LEGO Star Wars SMART Play: Sokół Millennium 75426**
  
@@ -12177,7 +12177,7 @@ Model Sokoła Millennium ma 27 cm długości
 
 ## 75427 — Lego 75427 Star Wars Smart Play Pojedynek W Sali Tronowej I A-wing
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 554.99 zł · EAN: 05702017817743 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 554.99 zł · EAN: 05702017817743 · in stock*
 
 **LEGO Star Wars 75427 SMART Play Pojedynek w sali tronowej i A-Wing**
 
@@ -12222,7 +12222,7 @@ Technologia baterii:RE-CHARG LI ION
 
 ## 75428 — Lego Star Wars 75428 Droid Bojowy Z Platformą Stap 12+ Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 440.00 zł · EAN: 05702017824598 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 440.00 zł · EAN: 05702017824598 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -12257,7 +12257,7 @@ Zestaw zawiera szczegółowe instrukcje, a także oferuje aplikację LEGO Builde
 
 ## 75429 — Lego Star Wars 75429 Hełm operatora At-at
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702017824604 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702017824604 · in stock*
 
 **LEGO 75429 Hełm operatora AT-AT**
 
@@ -12288,7 +12288,7 @@ Nowy, oryginalnie zapakowany.
 
 ## 75430 — Klocki Lego Star Wars Ewok Wicket 1010 elementów
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 479.99 zł · EAN: 05702017824611 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.99 zł · EAN: 05702017824611 · in stock*
 
 Dzieci mogą teraz zbudować kultową postać Ewoka Wicketa dzięki zestawowi LEGO® Star Wars™ (75430). To świetny pomysł na prezent w stylu LEGO Star Wars dla chłopców, dziewczynek i wszystkich fanów w wieku od 12 lat. Będzie też fajną i uroczą ozdobą biurka, która zachwyci przyjaciół i przywoła wspomnienia z kultowych scen z filmu Gwiezdne Wojny: Powrót Jedi. Figurka zbudowana z klocków LEGO jest pełna realistycznych detali. Ma włócznię do zbudowania oraz smakołyk (taki jak ten, który dała mu księżniczka Leia w lesie Endor). Ta zabawka konstrukcyjna LEGO Star Wars zawiera również minifigurkę LEGO Ewoka Wicketa, a także tabliczkę z napisem, która uzupełni tę uroczą dekorację.
 
@@ -12307,7 +12307,7 @@ Budowanie ze znajomymi i rodziną — aplikacja LEGO® Builder oferuje świetną
 
 ## 75431 — Lego Star Wars 75431 Pakiet bojowy żołnierzy klonów z 327. Dywizji
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702017901213 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702017901213 · in stock*
 
 **LEGO Star Wars klony z 327. korpusu galaktycznego 75431**
 
@@ -12335,7 +12335,7 @@ Maszyna krocząca AT-RT LEGO® Star Wars™ ma 15 cm wysokości
 
 ## 75432 — Lego Star Wars 75432 Myśliwiec V-19 Torrent Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 197.98 zł · EAN: 05702017901220 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 197.98 zł · EAN: 05702017901220 · in stock*
 
 **LEGO Star Wars Myśliwiec V-19 Torrent dla dzieci 75432**
  
@@ -12367,7 +12367,7 @@ Ten pojazd z Gwiezdnych Wojen ma 20 cm długości
 
 ## 75433 — Lego Star Wars 75433 Jango Fett i jego statek kosmiczny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 227.87 zł · EAN: 05702017901237 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 227.87 zł · EAN: 05702017901237 · in stock*
 
 **LEGO Star Wars Statek Jango Fetta, zabawka konstrukcyjna 75433**
  
@@ -12397,7 +12397,7 @@ Ten pojazd LEGO® Star Wars™ ma 21 cm długości
 
 ## 75434 — Lego Star Wars 75434 Droid Bezpieczeństwa K-2SO
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017901244 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017901244 · in stock*
 
 LEGO Star Wars 75434 Droid Bezpieczeństwa K-2SO
 
@@ -12426,7 +12426,7 @@ Star Wars™ K-2SO™ Security Droid LEGO® Star Wars™ Droid strażniczy K-2SO
 
 ## 75435 — Lego 75435 Star Wars Transporter Mtt Separatystów z bitwy o Felucję
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.94 zł · EAN: 05702017901251 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.94 zł · EAN: 05702017901251 · in stock*
 
 LEGO Star Wars - Transporter MTT Separatystów z bitwy o Felucję 75435
 
@@ -12455,7 +12455,7 @@ Fajny prezent dla młodych fanów Gwiezdnych Wojen zawiera dwie minifigurki LEGO
 
 ## 75436 — Lego Star Wars 75436 Mandalorian I Grogu Na Śmigaczu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 27.00 zł · EAN: 05702018062951 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 27.00 zł · EAN: 05702018062951 · in stock*
 
 Dziś do zaoferowania Państwu mamy: **LEGO STAR WARS 75436 MANDALORIAN I GROGU NA ŚMIGACZU**
 
@@ -12469,7 +12469,7 @@ Zdjęcia umieszczone w galerii odzwierciedlają faktyczny wygląd oferowanego pr
 
 ## 75437 — Lego Star Wars 75437 Cobb Vanth i speeder
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 77.26 zł · EAN: 05702018062968 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 77.26 zł · EAN: 05702018062968 · in stock*
 
 Połącz siły z Cobbem Vanthem i zmierz się z Cado Bane'em w pełnych akcji bitwach z tym ekscytującym zestawem konstrukcyjnym LEGO® Star Wars™ (75437) dla dzieci. Zbuduj szczegółowy model niesamowitego śmigacza Cobba Vantha z filmu „Gwiezdne Wojny: Mandalorianin” z klocków LEGO. Zestaw zawiera fotel kierowcy dla minifigurki LEGO Cobba Vantha, magazynek na broń i ukryty schowek na akcesoria, w tym hełm Boby Fetta i karton mleka Banth. W zestawie znajduje się minifigurka LEGO Cado Bane'a z dwoma pistoletami blasterowymi, a Cobb ma również plecak odrzutowy do zabawy w powietrzu.
  
@@ -12495,7 +12495,7 @@ Dzieci będą mogły cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO
 
 ## 75438 — Lego Star Wars 75438 Popiersie Yody
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702018062975 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702018062975 · in stock*
 
 LEGO Star Wars 75438 Popiersie Yody
  
@@ -12520,7 +12520,7 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 
 ## 75439 — Lego Star Wars 75439 Popiersie Dartha Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 154.84 zł · EAN: 05702018062982 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.84 zł · EAN: 05702018062982 · in stock*
 
 LEGO Star Wars 75439 Popiersie Dartha Vadera
  
@@ -12544,7 +12544,7 @@ Poznaj inny wymiar budowania dzięki aplikacji LEGO Builder, w której można po
 
 ## 75440 — Lego Star Wars 75440 At-at
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 195.78 zł · EAN: 05702018062999 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.78 zł · EAN: 05702018062999 · in stock*
 
 LEGO Star Wars 75440 AT-AT
 
@@ -12571,7 +12571,7 @@ Uchwyć dynamiczną pozę maszyny AT-AT podczas bitwy o Hoth. Zbuduj szczegóło
 
 ## 75441 — Lego Star Wars 75441 Krążownik szturmowy typu Venator
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 234.98 zł · EAN: 05702018063002 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 234.98 zł · EAN: 05702018063002 · in stock*
 
 LEGO Star Wars 75441 Krążownik szturmowy typu Venator
 
@@ -12581,7 +12581,7 @@ Zaprezentuj opływowy kształt krążownika szturmowego typu Venator dzięki tem
 
 ## 75442 — Lego Star Wars 75442 Myśliwiec N-1 Mandalorianina
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702018066515 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702018066515 · in stock*
 
 **LEGO 75442 Myśliwiec N-1 Mandalorianina**
 
@@ -12615,7 +12615,7 @@ Nowy, oryginalnie zapakowany.
 
 ## 75443 — Lego Star Wars 75443 Lego Star Wars 75443 Gospodarstwo Grogu
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702018063019 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702018063019 · in stock*
 
 Spędź czas z Grogu w jego domu. Ustaw głowę, ramiona i dłonie uroczej postaci. Użyj katapulty, aby żaba z Sorgan wykonała skok! Postaw garnek na kominku, aby ugotować macki. Pomóż Grogu upiec piankę nad ogniskiem. A jeśli Grogu nadal jest głodny, sięgnij po niebieskiego makaronika!Interaktywna zabawka dla chłopca lub dziewczynki — dzieci umieszczą żabę z Sorgan na katapulcie i wykonają spektakularny skokPrezent dla 4-latka — ten zestaw z serialu \"Star Wars: The Mandalorian\" to uroczy, niewielki prezent LEGO dla chłopców, dziewczynek i fanów w wieku od 4 latRozwój kreatywności — klocki LEGO Star Wars dla 4-latków i starszych dzieci wprowadzają dzieci w świat klocków konstrukcyjnych i filmowej serii \"Gwiezdne Wojny\"Zabawa dla całej rodziny — w pudełku są szczegółowe, ilustrowane instrukcje. Dostępne są także w aplikacji LEGO Builder, w której znajdują się cyfrowe narzędzia do wyświetlania modeluZabawka dla dzieci do zbudowania — klocki dla dzieci LEGO Star Wars Dom Grogu (75443) to urocza zabawka dla 4-latka, który uczy się budować i wymyślać własne przygody inspirowane 1. sezonem serialu \"Star Wars: The Mandalorian\"Ruchoma figurka Grogu — ten zestaw klocków dla 4-latka zawiera łatwą do zbudowania figurkę Grogu z ruchomą głowę, rękami i dłońmiFajne akcesoria — dzieci zbudują kominek z garnkiem na dwie macki, umieszczą patyk z pianką w dłoni Grogu LEGO i znajdą jeden z dwóch niebieskich makaroników w brzuszku Grogu
 
@@ -12623,7 +12623,7 @@ Spędź czas z Grogu w jego domu. Ustaw głowę, ramiona i dłonie uroczej posta
 
 ## 75444 — Lego Star Wars 75444 Lego Star Wars 75444 Atak At-rt
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 135.29 zł · EAN: 05702018063026 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.29 zł · EAN: 05702018063026 · in stock*
 
 Pozwól dzieciom wyruszyć na własną przygodę z filmu Star Wars: Mandalorian i Grogu z modelem Atak AT-RT (75444). Zawiera ruchomego pieszego AT-RT z podwójną wyrzutnią oraz wieżyczkę obronną z obrotową wieżyczką i własną podwójną wyrzutnią. Umieść minifigurkę kierowcy AT-RT Salda Imperialnego lub minifigurkę LEGO® Mandaloriana na siedzeniu AT-RT (usuń element deski rozdzielczej i zrób miejsce dla figurki LEGO Groga, która pojedzie z Mandem). Otwórz wieżę obronną, aby odsłonić stojak na broń i schowek. Aby uzyskać dodatkową porcję akcji walki fantasy, wyposaż Mandaloriana w jetpack i pistolet blasterowy, a kierowcę w blaster AT-RT.
  
@@ -12649,7 +12649,7 @@ Dzieci mogą budować pewnie dzięki aplikacji LEGO Builder - powiększaj i obra
 
 ## 75445 — Lego Star Wars 75445 Lego Star Wars 75445 Statek kosmiczny Anzellan
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 219.98 zł · EAN: 05702018063033 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.98 zł · EAN: 05702018063033 · in stock*
 
 Dzięki temu zestawowi LEGO® Star Wars™ dla dzieci możesz budować i naprawiać droidy na pokładzie statku kosmicznego Anzellan (75445), jak widać z filmu Gwiezdne wojny: Mandalorian i Grogu. Otwórz pokrywę kokpitu i zdejmij dach głównej przestrzeni, aby umieścić figurkę LEGO Grogua i 2 urocze Anzellany wewnątrz tego szczegółowego statku kosmicznego. Za pomocą elementów i narzędzi w warsztacie zmontuj droida bojowego (lub wyjmij stół warsztatowy ze statku kosmicznego i baw się nim na zewnątrz). Posadź figurki LEGO przy stole z niebieskimi ciasteczkami lub na siedzeniu przy konsoli. A kiedy nadejdzie czas, aby wylądować, opuść rampę.
 
@@ -12684,7 +12684,7 @@ Dzieci będą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builde
 
 ## 75446 — Lego Star Wars 75446 Lego Star Wars 75446 Grogu (Mandaloriański uczeń)
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 375.98 zł · EAN: 05702018063040 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 375.98 zł · EAN: 05702018063040 · in stock*
 
 Zabawny model LEGO® Star WarsTM Grogu (Uczeń Mandalorianina) dla dzieci (75446) od razu przyciągnie uwagę! Zbuduj pancerz Beskar i torbę Grogu, które nosi w serialu Star Wars: Mandalorian i Grogu. Daj mu niebieskie ciasteczko jako dodatek i schowaj jedno do torby na później. Przesuwaj dźwignię, aby obracać głowę Grogu, dostosowywać jego usta, uszy, ręce i palce, a także mocować jego ramiona w różnych pozach, aby odtworzyć jego charakterystyczne pozy.
  
@@ -12710,7 +12710,7 @@ Ten zestaw to świetny prezent dla dzieci, chłopców i dziewczynek od 10 lat, i
 
 ## 75447 — Lego Star Wars Brzeszczot 75447
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018063057 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018063057 · in stock*
 
 **LEGO Star Wars Brzeszczot 75447**
 
@@ -12740,7 +12740,7 @@ Zestaw z modelem statku Brzeszczot ma 32 cm długości
 
 ## 75448 — Lego Star Wars 75448 Mech klona Shock Troopera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702018063064 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702018063064 · in stock*
 
 Pokaż potęgę Imperium dzięki tej niesamowitemu mechowi! Wskocz do kokpitu wraz z klonem Shock Troopera i przypnij jego karabin blasterowy z tyłu mecha. Poruszaj rękami, ramionami, nogami i stopami mecha, aby tworzyć potężne pozy bojowe. Uruchom potężny karabin blasterowy. Dzięki czerwono-białej zbroi ten mech jest gotowy do walki, kiedy tylko chcesz.Minifigurka LEGO Star Wars — minifigurkę klona Shock Troopera można umieścić w kokpicie i przypiąć jego karabin blasterowy z tyłu uzbrojonego mechaKlocki dla 6-latka z figurką do zabawy — dzieci mogą ustawić ręce, ramiona, nogi i stopy mecha, a także celować we wrogów z dużego karabinu blasterowego strzelającego klockamiInne zestawy z serii — zestawy LEGO Star Wars (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom odtwarzanie klasycznych scen, odgrywanie własnych historii lub eksponowanie modeliCiekawy sposób na budowanie — aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej śledzić postępy, przybliżać i obracać modele dzięki trójwymiarowym instrukcjomZabawka dla dzieci z mechem — dzięki zestawowi klocków LEGO Star Wars Mech klona Shock Troopera dzieci zbudują ruchomą figurką mecha i zapoznają się z pełną akcji zabawą w świecie \"Gwiezdnych Wojen\"Zestaw kolekcjonerski LEGO dla chłopca i dziewczynki — ten mech do zbudowania jest częścią kolekcji mechów LEGO Star Wars (sprzedawanych osobno)Prezent dla dzieci — ten zestaw z kolekcjonerskim mechem LEGO będzie świetnym prezentem dla 6-latka, dla chłopca, dziewczynki i starszych fanów klocków LEGO Star Wars i zestawów konstrukcyjnych
 
@@ -12748,7 +12748,7 @@ Pokaż potęgę Imperium dzięki tej niesamowitemu mechowi! Wskocz do kokpitu wr
 
 ## 75449 — Lego Star Wars 75449 Oblężenie Mandalory Zestaw Bitewny
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 54.95 zł · EAN: 05702018063071 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 54.95 zł · EAN: 05702018063071 · in stock*
 
 Przygotuj się na epicką bitwę pomiędzy mandaloriańskimi superkomandosami a 332. oddziałem żołnierzy-klonów! Poprowadź fajny ścigacz komandosów i spróbuj przedrzeć się przez barykadę żołnierzy-klonów. Aktywuj blaster strzelający klockami w śmigaczu. Ale uważaj na ostrzał z miotaczy klocków żołnierzy-klonów. Załóż plecaki odrzutowe komandosów i ruszaj do ataku z powietrza!Zabawka dla chłopca i dziewczynki ze śmigaczem — mandaloriańskiego superkomandosa można posadzić za kierownicą pojazdu LEGO Star Wars, a drugiego na tylnym siedzeniu z blasterem strzelającym klockamiZestaw LEGO dla 6-latka stworzony do akcji — dzieci mogą umieścić żołnierzy-klonów za barykadą, schować amunicję w pojemniku, a następnie wycelować i uruchomić zamontowany miotacz klockówPrezent dla dzieci — ta zabawka konstrukcyjna to świetny pomysł na prezent dla chłopca od 6 lat, dla dziewczynki, a także dla starszych fanów serialu \"Gwiezdne Wojny: Wojny klonów\"Więcej akcji, więcej bitew — inne zestawy bitewne LEGO Star Wars (sprzedawane osobno) pozwolą dzieciom budować całe plutony i odgrywać gwiezdne przygodyJeszcze lepsza interaktywna zabawa — aplikacja LEGO Builder umożliwia samodzielne budowanie dzięki narzędziom, które umożliwiają powiększanie i obracanie modeli za pomocą instrukcji 3D, śledzenie postępów i zapisywanie ich w jednym miejscuZestaw klocków dla 6-latka — z zestawem bitewnym LEGO Star Wars Oblężenie Mandalory (75449) dzieci w wieku od 6 lat mogą odegrać własną wersję bitwy z serialu \"Gwiezdne Wojny: Wojny klonów\"Cztery minifigurki LEGO Star Wars — dzieci mogą wyposażyć dwóch mandaloriańskich superkomandosów w plecaki odrzutowe i blastery, a dwóch żołnierzy-klonów 332. pułku w blastery i karabiny blasterowe
 
@@ -12756,7 +12756,7 @@ Przygotuj się na epicką bitwę pomiędzy mandaloriańskimi superkomandosami a 
 
 ## 75451 — Lego Star Wars Starcie z droidem wartowniczym w pałacu Huttów 75451
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702018063088 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702018063088 · in stock*
 
 **LEGO Star Wars Starcie z droidem wartowniczym w pałacu Huttów 75451**
 
@@ -12786,7 +12786,7 @@ Droid wartowniczy w tym 415-elementowym zestawie ma 14 cm wysokości
 
 ## 75452 — Lego Star Wars 75452 Droid astromechaniczny BB-8
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063095 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063095 · in stock*
 
 LEGO Star Wars 75452 Droid astromechaniczny BB-8™
 
@@ -12796,7 +12796,7 @@ Wykorzystaj w pełni urzekający potencjał figurki Droida astromechanicznego BB
 
 ## 75453 — Lego Star Wars Piaskoczołg wędrownych Jawów i bagnorożec 75453
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 679.74 zł · EAN: 05702018063101 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.74 zł · EAN: 05702018063101 · in stock*
 
 **LEGO Star Wars Piaskoczołg wędrownych Jawów i bagnorożec 75453**
 
@@ -12828,7 +12828,7 @@ Ten 1683-elementowy zestaw zawiera piaskoczołg o długości ponad 35 cm
 
 ## 75454 — Lego Star Wars At-at Resztek Imperium i INT-4 75454
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 529.98 zł · EAN: 05702018063118 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 529.98 zł · EAN: 05702018063118 · in stock*
 
 **LEGO Star Wars AT-AT Resztek Imperium i INT-4 75454**
 
@@ -12860,7 +12860,7 @@ Ten 1453-elementowy zestaw zawiera maszynę kroczącą AT-AT™ o długości pon
 
 ## 75455 — Lego Star Wars Boba Fett 75455
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 559.98 zł · EAN: 05702018063125 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 559.98 zł · EAN: 05702018063125 · in stock*
 
 **LEGO Star Wars Boba Fett 75455**
 
@@ -12890,7 +12890,7 @@ Ten 1544-elementowy zestaw z figurką Boby Fetta ma ponad 41 cm wysokości
 
 ## 75456 — * Lego Star Wars Kalendarz adwentowy na 2026 rok 75456
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702018062470 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702018062470 · in stock*
 
 LEGO STAR WARS - Kalendarz adwentowy na 2026 rok 75456
  
@@ -12920,7 +12920,7 @@ Poznaj kultowe postacie w nowym wydaniu: minifigurki LEGO z Mandalorianina i Mof
 
 ## 75458 — Lego Star Wars Hełm kierowcy At-rt Resztek Imperium 75458
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702018068854 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702018068854 · in stock*
 
 **LEGO Star Wars Hełm kierowcy AT-RT Resztek Imperium 75458**
 
@@ -12950,7 +12950,7 @@ Ten 775-elementowy zestaw ma 18 cm wysokości
 
 ## 75459 — Lego Star Wars 75459 Starship Imperialny klasy Lambda
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702018068861 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702018068861 · in stock*
 
 Stwórz szczegółowy model z klocków LEGO® przedstawiający Imperialny prom typu Lambda (75459) z drugiego sezonu serialu Star Wars: The Mandalorian™ dzięki temu zestawowi kolekcjonerskiemu. Statek gwiezdny ma mnóstwo realistycznie odwzorowanych detali, które zachęcają do zabawy w odgrywanie ról. Złóż skrzydła, aby wzbić się w powietrze, i uruchom dwa działka sprężynowe. Po lądowaniu wysuń podwozie oraz opuść skrzydła i rampę. Pięć postaci, w tym pierwsza minifigurka LEGO dr. Pershinga, umożliwiają odgrywanie ról. Otwórz kokpit i umieść w nim figurkę pilota imperialnego wahadłowca. Otwórz klapy po obu stronach przedziału pasażerskiego, aby uzyskać dostęp do czterech siedzeń dla pozostałych postaci. W zestawie znajduje się również mroczny miecz Moffa Gideona oraz inne akcesoria do odgrywania bitew. Dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, przeglądać instrukcje w 3D, a także zapisywać i śledzić swoje postępy, dzieci poznają inny wymiar budowania. Ten zestaw LEGO Star Wars™ zawiera 961 elementów i z pewnością będzie niesamowitym prezentem dla chłopców i dziewczynek w wieku od 14 lat.
  
@@ -12968,7 +12968,7 @@ Stwórz szczegółowy model z klocków LEGO® przedstawiający Imperialny prom t
 
 ## 75461 — Lego 75461 Star Wars Powiększona Minifigurka Dartha Vadera
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702018068984 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702018068984 · in stock*
 
 LEGO 75461 Star Wars Powiększona Minifigurka Dartha Vadera
 
@@ -13036,7 +13036,7 @@ UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 
 ## 75522 — Lego Star Wars 75522 Mini Boost Droid Commander saszetka klocki unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016687798 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016687798 · in stock*
 
 Witam
 
@@ -13058,7 +13058,7 @@ Rafał
 
 ## 75523 — Lego Star Wars 75523 Szturmowiec ze Scarif
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 232.45 zł · EAN: 05702015867962 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 232.45 zł · EAN: 05702015867962 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13100,7 +13100,7 @@ Obroń pozycje Imperium! Zbuduj ruchomą figurkę Szturmowca ze Scarif z zestawu
 
 ## 75524 — Lego Star Wars 75524 Chirrut Imwe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015867955 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015867955 · in stock*
 
 LEGO STAR WARS 75524 CHIRRUT IMWE
 
@@ -13138,7 +13138,7 @@ PACZKI .
 
 ## 75525 — Lego Star Wars 75525 Baze Malbus
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015868174 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015868174 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13196,7 +13196,7 @@ Dołącz do walki z Imperium wraz z utalentowanym Bazem Malbusem! Ta solidna i t
 
 ## 75526 — Lego Star Wars 75526 Elitarny pilot myśliwca Tie.
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015868181 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015868181 · in stock*
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -13228,7 +13228,7 @@ Dołącz do walki z Imperium wraz z utalentowanym Bazem Malbusem! Ta solidna i t
 
 ## 75528 — Lego Star Wars Rey 75528
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 113.22 zł · EAN: 05702015868204 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 113.22 zł · EAN: 05702015868204 · in stock*
 
 LEGO Star Wars 75528 - Rey
  
@@ -13248,7 +13248,7 @@ Rozegraj pojedynek na miecze świetlne z ruchomą figurką Rey do zbudowania. Mo
 
 ## 75529 — Lego 75529 Star Wars Elitarny gwardzista pretorianin Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015868211 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015868211 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -13276,7 +13276,7 @@ LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
 ## 75530 — Lego Star Wars 75530 Chewbacca
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015868228 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015868228 · in stock*
 
 KLOCKI LEGO STAR WARS CONSTRACTION CHEWBACCA™ 75530
 
@@ -13318,7 +13318,7 @@ Rzuć się do bitwy razem z uwielbianym przez wszystkich Wookiee — Chewbaccą!
 
 ## 75531 — Klocki Lego Star Wars Zestaw Dowódca szturmowców 75531
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868235 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868235 · in stock*
 
 **Klocki LEGO Star Wars Zestaw Dowódca szturmowców 75531**
 
@@ -13344,7 +13344,7 @@ Model ma ok. 24 cm wysokości.
 
 ## 75532 — Lego Star Wars 75532 Zwiadowca szturmowców i jego śmigacz Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 505.00 zł · EAN: 05702015868242 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 505.00 zł · EAN: 05702015868242 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -13369,7 +13369,7 @@ Przeżywaj niezwykłe przygody ze świata „Gwiezdnych wojen” z tym wspaniał
 
 ## 75533 — Lego Star Wars 75533 Boba Fett Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702016112085 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702016112085 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13393,7 +13393,7 @@ Ustaw łowcę nagród Bobę Fetta w pozie bojowej i ruszaj do akcji! Użyj jego 
 
 ## 75534 — Klocki Lego Star Wars Zestaw Darth Vader 75534
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016112092 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016112092 · in stock*
 
 **Klocki LEGO Star Wars Constraction Darth Vade 75534 od 9 lat.**
 
@@ -13407,7 +13407,7 @@ Marka LEGO to coś więcej niż znane logo firmy. Wyraża ona oczekiwania ludzi 
 
 ## 75535 — Lego Star Wars 75535 Han Solo
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 155.23 zł · EAN: 05702016112108 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 155.23 zł · EAN: 05702016112108 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13451,7 +13451,7 @@ Figurka ma ok. 24 cm wysokości.
 
 ## 75536 — Lego 75536 Star Wars Szturmowiec strzelec Duża Figurka
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 479.50 zł · EAN: 05702016112115 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.50 zł · EAN: 05702016112115 · in stock*
 
 LEGO STAR WARS
  
@@ -13482,7 +13482,7 @@ Zestaw LEGO 75536 Szturmowiec - strzelec
 
 ## 75537 — Lego Star Wars 75537 Darth Maul
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016112122 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016112122 · in stock*
 
 LEGO STAR WARS
 
@@ -13512,7 +13512,7 @@ Powiększ swoją kolekcję LEGO® Star Wars o niezwykle ruchomą figurkę Dartha
 
 ## 7657 — Lego 7657 Star Wars At-st
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014498747 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014498747 · in stock*
 
 **LEGO Star Wars 7657 – AT‑ST**
 
@@ -13528,7 +13528,7 @@ Zestaw **LEGO 7657** został wydany w **2007 roku** i przeznaczony jest dla dzie
 
 ## 7658 — Lego Star Wars 7658 Y-wing Fighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014498730 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014498730 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13542,7 +13542,7 @@ Zestaw klocków **LEGO Star Wars Y-wing Fighter™ 7658 ** został zaprezentowan
 
 ## 7659 — Lego Star Wars 7659 Imperialny Statek Desantowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014498723 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014498723 · in stock*
 
 LEGO Star Wars 7659 Imperialny Statek Desantowy (Imperial Landing Craft)
 
@@ -13577,7 +13577,7 @@ LEGO Star Wars 7659 to ceniony, wycofany z produkcji zestaw, szczególnie lubian
 
 ## 7660 — Lego Star Wars 7660 Naboo N-1 Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 00673419091268 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 00673419091268 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -13605,7 +13605,7 @@ LEGO Star Wars 7659 to ceniony, wycofany z produkcji zestaw, szczególnie lubian
 
 ## 7661 — Lego Star Wars 7661 Lego Star Wars Jedi Starfighte with Hyperdrive Booste
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1777.00 zł · EAN: 05702014499508 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1777.00 zł · EAN: 05702014499508 · in stock*
 
 Zestaw LEGO Star Wars - Jedi Starfighter z Hyperdrive Booster Ring
  
@@ -13615,7 +13615,7 @@ Trafił do sprzedaży w 2007 roku. Numer katalogowy tego zestawu to 7661. Zawie
 
 ## 7663 — Lego Star Wars 7663 Sith Infiltrator unikat Nowy
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014509214 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014509214 · in stock*
 
 LEGO Star Wars - 7663 Sith Infiltrator - Nowe
 
@@ -13638,7 +13638,7 @@ Dodaj ten kultowy zestaw LEGO Star Wars do swojej kolekcji i przeżyj na nowo ep
 
 ## 7665 — Lego Star Wars Republic Cruiser Nowy 7665 Nowy Unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2500.00 zł · EAN: 00673419094382 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2500.00 zł · EAN: 00673419094382 · in stock*
 
 Klocki LEGO Star Wars
  
@@ -13662,7 +13662,7 @@ Republic Cruiser jest oparty na krążowniku klasy Consular z epoki Republiki.
 
 ## 7667 — Lego Star Wars 7667 Imperial Dropship
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702014517363 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702014517363 · in stock*
 
 LEGO Star Wars 7667 Imperial Dropship
  
@@ -13685,7 +13685,7 @@ LEGO Star Wars 7667 Imperial Dropship to zestaw klocków przeznaczony dla dzieci
 
 ## 7668 — Lego Star Wars 7668 Rebel Scout Speeder Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 351.00 zł · EAN: 00673419102599 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 351.00 zł · EAN: 00673419102599 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13699,7 +13699,7 @@ Zestaw klocków **LEGO Star Wars Rebel Scout Speeder™ **został pokazany w 200
 
 ## 7671 — Lego Star Wars 7671 At-ap Walker Unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014517400 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014517400 · in stock*
 
 LEGO Star Wars 7671 AT-AP Walker
 
@@ -13725,7 +13725,7 @@ LEGO Star Wars 7671 AT-AP Walker to zestaw, który składa się z 392 elementów
 
 ## 7678 — Lego 7678 Star Wars Droid Gunship
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014517479 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014517479 · in stock*
 
 **Lego 7678 Star Wars Droid Gunship.**
 
@@ -13737,7 +13737,7 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
 ## 7680 — Lego Star Wars 7680 The Twilight
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014517493 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014517493 · in stock*
 
 **Dane techniczne**
 
@@ -13777,7 +13777,7 @@ Model zdobywa na wartości – nowe egzemplarze kosztują dziś ponad trzy razy 
 
 ## 7748 — Lego Star Wars 7748 Lego Star Wars
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 679.99 zł · EAN: 00673419113298 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.99 zł · EAN: 00673419113298 · in stock*
 
 LEGO Star Wars ZESTAW Corporate Alliance Tank Droid
  
@@ -13795,7 +13795,7 @@ Zestaw LEGO **Star Wars -Corporate Alliance Tank Droid** trafił do sprzedaży
 
 ## 7749 — Lego Star Wars 7749 Echo Base
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702014537200 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702014537200 · in stock*
 
 Podstawowe informacje
  
@@ -13827,7 +13827,7 @@ Opis zestawu i funkcje
 
 ## 7753 — Lego Star Wars 7753 Pirate Tank
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014533301 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014533301 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -13850,7 +13850,7 @@ Opis zestawu i funkcje
 
 ## 77904 — Lego Star Wars 77904 Nebulon-b Frigate Sdcc
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 00673419333801 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 00673419333801 · in stock*
 
 Klocki LEGO Star Wars
 
@@ -13888,7 +13888,7 @@ Od 1999 roku Grupa LEGO odtwarza kultowe statki kosmiczne, pojazdy, lokalizacje 
 
 ## 7877 — Klocki Lego Star Wars Zestaw Naboo Starfighter 7877
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702014736870 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702014736870 · in stock*
 
 LEGO Star Wars 7877 – Naboo Starfighter to zestaw wydany w 2011 roku, inspirowany filmem Gwiezdne Wojny: Mroczne Widmo. Zestaw składa się z 318 elementów i zawiera 6 minifigurek: Anakin Skywalker (dziecko), R2-D2, pilot z Naboo, 2 czerwonych droidów bojowych oraz droidekę. Dodatkowo w zestawie znajduje się pojazd serwisowy.
 
@@ -13907,7 +13907,7 @@ LEGO Star Wars 7877 – Naboo Starfighter to zestaw wydany w 2011 roku, inspirow
 
 ## 7879 — Klocki Lego Star Wars Zestaw Hoth Echo Base 7879
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014736887 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014736887 · in stock*
 
 Zestaw LEGO 7879 to **Hoth Echo Base** (Baza Echo na Hoth) z serii **LEGO Star Wars**. Jest to szczegółowa replika bazy Rebelii z filmu "Imperium Kontratakuje".
 
@@ -13949,7 +13949,7 @@ Zestaw 7879 pozwala na odtworzenie kultowych scen z Bitwy o Hoth, oferując wiel
 
 ## 7914 — Lego Star Wars 7914 Mandalorian zestaw bitewny Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702014734265 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702014734265 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13981,7 +13981,7 @@ Wkrocz do świata pełnego akcji z zestawem **LEGO® Star Wars 7914 – Mandalor
 
 ## 7915 — Lego Star Wars 7915
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702014734272 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702014734272 · in stock*
 
 LEGO Star Wars 7915
  
@@ -14004,7 +14004,7 @@ LEGO Star Wars 7915 to zestaw klocków, który pozwala zbudować replikę pojazd
 
 ## 7929 — Klocki Lego Star Wars Zestaw The Battle of Naboo 7929
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014734289 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014734289 · in stock*
 
 LIMITOWANY ZESTAW LEGO Star Wars
 
@@ -14030,7 +14030,7 @@ Uzupełnij swoja kolekcję o niedostępny juz zestaw LEGO Star Wars pochodzący 
 
 ## 7930 — Klocki Lego Star Wars Zestaw Bounty Hunter Assault Gunship 7930
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014734296 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014734296 · in stock*
 
 Klocki LEGO Star Wars Zestaw Bounty Hunter Assault Gunship 7930
 
@@ -14050,7 +14050,7 @@ Doskonały prezent dla miłośników Gwiezdnych Wojen.
 
 ## 7931 — Klocki Lego Star Wars Zestaw T-6 Jedi Shuttle 7931
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1169.00 zł · EAN: 05702014734302 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1169.00 zł · EAN: 05702014734302 · in stock*
 
 Zestaw **LEGO Star Wars T-6 Jedi Shuttle 7931** to klasyczny model z serii LEGO Star Wars, wydany w **2011 roku** jako część podmotywa "Wojen Klonów" (The Clone Wars). Składa się z **389 elementów** i zawiera **cztery minifigurki**.
 
@@ -14078,7 +14078,7 @@ Zestaw 7931 jest bardzo ceniony za bogactwo minifigurek Jedi, które są unikaln
 
 ## 7956 — Lego 7956 Star Wars Ewok Attack unikat z 2011r
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014736894 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014736894 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -14092,7 +14092,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 7959 — Klocki Lego Star Wars Zestaw Geonosian Starfighter 7959
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 997.00 zł · EAN: 05702014736917 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 997.00 zł · EAN: 05702014736917 · in stock*
 
 Zestaw LEGO Star Wars Geonosian Starfighter 7959 to zestaw konstrukcyjny z serii LEGO Star Wars, wydany w 2011 roku. Składa się ze 155 elementów i jest przeznaczony dla dzieci w wieku od 7 do 12 lat.
 
@@ -14114,7 +14114,7 @@ W zestawie znajdują się 3 minifigurki:
 
 ## 7962 — Klocki Lego Star Wars Zestaw Anakin's & Sebulba's Podracers 7962
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014736931 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014736931 · in stock*
 
 LEGO 7962 ANAKIN'S & SEBULBA'S PODRACERS WYŚCIG ŚCIGACZY
 
@@ -14128,7 +14128,7 @@ Zestaw klocków LEGO 7962 Star Wars Anakin Skywalker and Sebulba’s Podracers�
 
 ## 7965 — Lego Star Wars 7965 Millennium Falcon Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1753.24 zł · EAN: 05702014736955 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1753.24 zł · EAN: 05702014736955 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -14142,7 +14142,7 @@ Zestaw klocków **LEGO 7965 Millennium Falcon™ ** został zaprezentowany w 201
 
 ## 8015 — Lego Star Wars 8015 Assassin Droids Battle Pack nowy zestaw klocków
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014533226 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014533226 · in stock*
 
 Witam, sprzedam nowy zestaw LEGO Star Wars 8015 z serii "Assassin Droids Battle Pack". Zestaw jest fabrycznie zapakowany.
 
@@ -14165,7 +14165,7 @@ Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 
 ## 8017 — Lego 8017 Star Wars Darth Vader's Tie Fighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014533257 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014533257 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14193,7 +14193,7 @@ Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 
 ## 8019 — Klocki 8019 Star Wars Republic Attack Shuttle Lego
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1499.90 zł · EAN: 00673419111829 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1499.90 zł · EAN: 00673419111829 · in stock*
 
 **KLOCKI LEGO 8019 Star Wars Republic Attack Shuttle**
 
@@ -14243,7 +14243,7 @@ Idealny pomysł na prezent dla małych konstruktorów i fanów Star Wars!
 
 ## 8031 — Lego Star Wars 8031 V-19 Torrent
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014522671 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014522671 · in stock*
 
 Klocki LEGO rozwijają kreatywność i wyobraźnię, uczą logicznego myślenia i cierpliwości, pozwalają na zabawę zarówno dzieciom, jak i dorosłym.
 
@@ -14257,7 +14257,7 @@ Rafał
 
 ## 8033 — Lego Star Wars 8033 General Grievous Starfighter saszetka klocki statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014534766 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014534766 · in stock*
 
 Witam
 
@@ -14277,7 +14277,7 @@ Rocznik:** 2009**
 
 ## 8036 — Lego Star Wars 8036 Separatist Shuttle unikat
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702014533332 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702014533332 · in stock*
 
 Separatist Shuttle 8036
 
@@ -14295,7 +14295,7 @@ Zestaw klocków LEGO Star Wars 8036 Separatist Shuttle™ został pokazany w 200
 
 ## 8038 — Lego Star Wars 8038 Bitwa o Endor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014533363 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014533363 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14318,7 +14318,7 @@ Zestaw klocków LEGO Star Wars 8036 Separatist Shuttle™ został pokazany w 200
 
 ## 8039 — Lego Star Wars 8039 Unikat! Ostatnia Sztuka! Rzadki Egzemplarz!
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2989.99 zł · EAN: 05702014533370 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2989.99 zł · EAN: 05702014533370 · in stock*
 
 Na sprzedaż wyjątkowy zestaw kolekcjonerski od **LEGO** z kultowej serii **Star Wars** – potężny krążownik Republiki Venator-Class Republic Attack Cruiser w wersji Ultimate Collector Series.
 
@@ -14337,7 +14337,7 @@ Model prezentuje się spektakularnie na półce – to jeden z największych i n
 
 ## 8083 — Lego 8083 Star Wars Rebel Trooper Battle Pack zestaw z 2010r
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702014601222 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702014601222 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -14351,7 +14351,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 8084 — Lego Star Wars 8084 Zestaw bojowy Snowtrooper Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 297.11 zł · EAN: 05702014601239 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.11 zł · EAN: 05702014601239 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -14387,7 +14387,7 @@ Doskonały zarówno dla dzieci od 6 lat, jak i dla dorosłych kolekcjonerów.
 
 ## 8085 — Lego Zestaw Star Wars Freeco Speeder 8085
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702014601246 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702014601246 · in stock*
 
 LEGO Freeco Speeder 8085
 
@@ -14404,7 +14404,7 @@ Zestaw klocków LEGO Star Wars Freeco Speeder™ 8085 został przedstawiony w 
 
 ## 8086 — Lego Star Wars 8086 Lego Star Wars
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014601253 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014601253 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14447,7 +14447,7 @@ Zestaw LEGO Star Wars - Machina krocząca AT-ST trafił do sprzedaży w 2016 r
 
 ## 8087 — Lego 8087 Star Wars Tie Defender
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014601260 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014601260 · in stock*
 
 LEGO 8087 Star Wars | TIE Defender.
 
@@ -14459,7 +14459,7 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
 ## 8089 — Klocki Lego Star Wars Zestaw Hoth Wampa Cave 8089
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702014601284 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702014601284 · in stock*
 
 LEGO Star Wars 8089 Hoth Wampa Cave
 
@@ -14497,7 +14497,7 @@ Zestaw 8089 jest idealny do odgrywania dramatycznej sceny ucieczki Luke'a Skywal
 
 ## 8091 — Lego Star Wars 8091 Republic Swamp Speeder
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702014601291 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702014601291 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14542,7 +14542,7 @@ Nie przegap okazji, by wzbogacić swoją kolekcję LEGO o rzadki i poszukiwany z
 
 ## 8095 — Lego Star Wars 8095 General Grievous' Starfighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 799.95 zł · EAN: 05702014781245 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.95 zł · EAN: 05702014781245 · in stock*
 
 LEGO Star Wars 8095 General Grievous' Starfighter
 
@@ -14573,7 +14573,7 @@ Zdjęcia poglądowe
 
 ## 8097 — Klocki Lego Star Wars Zestaw Statek Slave I 8097
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014601345 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014601345 · in stock*
 
 Klocki LEGO Star Wars Zestaw Slave I 8097
 
@@ -14611,7 +14611,7 @@ Zestaw 8097 Slave I pozwala na odtwarzanie kluczowych scen z "Imperium kontratak
 
 ## 8098 — Lego Star Wars 8098 Clone Turbo Tank
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 3300.00 zł · EAN: 05702014601352 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 3300.00 zł · EAN: 05702014601352 · in stock*
 
 🚀 LEGO Star Wars 8098 – Clone Turbo Tank
 
@@ -14696,7 +14696,7 @@ na opakowaniu jedno małe uszkodzenie
 
 ## 8129 — Klocki Lego Star Wars Zestaw Maszyna Bojowa At-at Walker 8129
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1048.99 zł · EAN: 05702014601383 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1048.99 zł · EAN: 05702014601383 · in stock*
 
 Klocki LEGO Star Wars Zestaw Maszyna Bojowa AT-AT Walker 8129
 
@@ -14742,7 +14742,7 @@ Chociaż ten konkretny model AT-AT nie jest najnowszy ani największy, duża lic
 
 ## 911720 — Lego Star Wars 911720 Ghost saszetka z klockami model wycofany
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 42.00 zł · EAN: 05056638426847 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 42.00 zł · EAN: 05056638426847 · in stock*
 
 Witam
 
@@ -14760,7 +14760,7 @@ Rafał
 
 ## 911840 — Lego Star Wars 911840 Droideka saszetka klocki model wycofany
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 38.99 zł · EAN: 05060976588587 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 38.99 zł · EAN: 05060976588587 · in stock*
 
 Witam
 
@@ -14780,7 +14780,7 @@ Rafał
 
 ## 911952 — Lego Star Wars 911952 Jedi Interceptor saszetka z klockami statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 21.99 zł · EAN: 05060976588808 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 21.99 zł · EAN: 05060976588808 · in stock*
 
 Witam
 
@@ -14800,7 +14800,7 @@ Rafał
 
 ## 912056 — Zestaw Lego Star Wars Minifigure Polybag Tie Striker #912056
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 17.99 zł · EAN: 05056638432039 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 17.99 zł · EAN: 05056638432039 · in stock*
 
 **LEGO Star Wars polybag – TIE Striker #912056**
 
@@ -14824,7 +14824,7 @@ Ten limitowany zestaw to prawdziwa gratka dla fanów alternatywnych wersji klasy
 
 ## 912172 — Lego Star Wars 912172 Jedi Starfighter saszetka z klockami
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 17.00 zł · EAN: 05060976587603 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 17.00 zł · EAN: 05060976587603 · in stock*
 
 Witam
 
@@ -14844,7 +14844,7 @@ Rafał
 
 ## 912176 — Lego Star Wars 912176 Clone Turbo Tank Polybag
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 18.00 zł · EAN: 05060976588174 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 18.00 zł · EAN: 05060976588174 · in stock*
 
 Witam
 
@@ -14864,7 +14864,7 @@ Rafał
 
 ## 912178 — Lego Star Wars Republic Gunship 912178
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 16.00 zł · EAN: 05060976588785 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 16.00 zł · EAN: 05060976588785 · in stock*
 
 LEGO STAR WARS
 
@@ -14882,7 +14882,7 @@ REPUBLIC GUNSHIP
 
 ## 912311 — Lego Star Wars 912311 Tie Advanced saszetka klocki statek
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 13.59 zł · EAN: 05702014260337 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 13.59 zł · EAN: 05702014260337 · in stock*
 
 Witam
 
@@ -14902,7 +14902,7 @@ Rafał
 
 ## 9490 — Lego Star Wars 9490 Droid Escape
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014840430 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014840430 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14925,7 +14925,7 @@ Rafał
 
 ## 9491 — Klocki Lego Star Wars Zestaw Działo Geonosjańskie 9491
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702014840447 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702014840447 · in stock*
 
 LEGO STAR WARS 9491 Geonosian Cannon
 
@@ -14945,7 +14945,7 @@ Geonosian Zombie with Wings
 
 ## 9492 — Lego Star Wars 9492 Tie Fighter
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702014840454 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702014840454 · in stock*
 
 - Firma** : LEGO®** 
 - Nr zestawu: **66432 UNIKAT ! 3w1 ( zestawy 9490+9492+9496 )** 
@@ -14964,7 +14964,7 @@ Geonosian Zombie with Wings
 
 ## 9493 — Klocki Lego Star Wars Zestaw X-Wing Starfighter 9493
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702014840898 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702014840898 · in stock*
 
 Klocki LEGO Star Wars 9493 - X-wing Starfigther
 
@@ -15000,7 +15000,7 @@ Zestaw **LEGO Star Wars X-wing Starfighter 9493** to kultowy model myśliwca X-w
 
 ## 9495 — Klocki Lego Star Wars Zestaw Gold Leader’s Y-Wing Starfighter 9495
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014841093 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014841093 · in stock*
 
 Klocki LEGO Star Wars Zestaw Gold Leader’s Y-Wing Starfighter 9495
 
@@ -15042,7 +15042,7 @@ Zestaw 9495 umożliwia odtworzenie kultowych scen z bitwy o Gwiazdę Śmierci, w
 
 ## 9496 — Lego Star Wars 9496 Śmigacz pustynny Skiff
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014840904 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014840904 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15070,7 +15070,7 @@ Zestaw 9495 umożliwia odtworzenie kultowych scen z bitwy o Gwiazdę Śmierci, w
 
 ## 9497 — Klocki Lego Star Wars Zestaw Statek Striker-class Starfighter 9497
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 874.00 zł · EAN: 05702014840911 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 874.00 zł · EAN: 05702014840911 · in stock*
 
 GWIEZDNY MYŚLIWIEC REPUBLIKI-STARFIGHTER
  
@@ -15084,7 +15084,7 @@ Możliwość ustawienia płatów w pozycji bojowej lub podróżnej, wystrzeliwan
 
 ## 9498 — Lego Star Wars 9498 Gwiezdny myśliwiec Jedi Starfighter Tm
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 745.00 zł · EAN: 05702014840935 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 745.00 zł · EAN: 05702014840935 · in stock*
 
 Podstawowe dane
 
@@ -15106,7 +15106,7 @@ Podstawowe dane
 
 ## 9499 — Lego Star Wars 9499 Gungan Sub
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014840966 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014840966 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15129,7 +15129,7 @@ Podstawowe dane
 
 ## 9500 — Lego Star Wars 9500 Sith Fury Class Interceptor
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014841000 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014841000 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15157,7 +15157,7 @@ Podstawowe dane
 
 ## 9515 — Lego Star Wars 9515
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2199.99 zł · EAN: 05702014841048 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2199.99 zł · EAN: 05702014841048 · in stock*
 
 Zestaw LEGO Star Wars 9515 "Pancernik Malevolence" to jedna z najbardziej ekscytujących konstrukcji dla miłośników sagi Gwiezdnych Wojen. Ten zestaw umożliwia odtworzenie legendarnego pancernika Malevolence, jednego z kluczowych statków używanych przez Separatystów w czasie wojen klonów.
  
@@ -15169,7 +15169,7 @@ W zestawie znajduje się również wiele minifigurek, które można z powodzenie
 
 ## 9516 — Klocki Lego Star Wars Zestaw Jabba's Palace Pałac Jabby 9516
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 2248.00 zł · EAN: 05702014841055 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 2248.00 zł · EAN: 05702014841055 · in stock*
 
 🏰 LEGO Star Wars: Pałac Jabby (9516) – Unikat Kolekcjonerski
 
@@ -15197,7 +15197,7 @@ Przedmiotem aukcji jest kultowy zestaw **Jabba's Palace** z 2012 roku. To rzadka
 
 ## 9525 — Lego Star Wars 9525 Pre Vizsla's Mandalorian Fighter Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 1715.00 zł · EAN: 05702014841062 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 1715.00 zł · EAN: 05702014841062 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -15211,7 +15211,7 @@ Zestaw klocków **LEGO 9525 Pre Vizsla's Mandalorian™ Fighter ** został przed
 
 ## 9674 — Lego 9674 Star Wars Naboo Starfighter & Naboo
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014841109 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014841109 · in stock*
 
 LEGO®
 
@@ -15225,7 +15225,7 @@ Do wysyłki zestaw będzie bezpiecznie zapakowany w dodatkowy karton.
 
 ## 9677 — Lego Star Wars 9677 X-Wing Starfighter & Yavin4 Nowe
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014841130 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014841130 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -15241,7 +15241,7 @@ Model LEGO® X-Wing Starfighter jest pełen szczegółów, a jego kompaktowy roz
 
 ## 9678 — Lego 9678 Star Wars Twin-pod Cloud Car & Bespin Lobot
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841161 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841161 · in stock*
 
 KLOCKI LEGO STAR WARS 9678 TWIN-POD CLOUD CAR BESPI
 
@@ -15259,7 +15259,7 @@ ILOŚĆ ELEMENTÓW: 78
 
 ## 9679 — Lego Star Wars 9679
 
-*Seria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841215 · in stock*
+*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841215 · in stock*
 
 LEGO Star Wars - 9679 AT-ST & Endor - Nowe
 

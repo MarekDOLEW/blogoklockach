@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Botanical — opisy produktowe (41 zestawów)
+# LEGO Botanicals — opisy produktowe (41 pozycji)
 
 ## 10280 — Lego Botanicals 10280 Bukiet kwiatów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 169.75 zł · EAN: 05702016913767 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 169.75 zł · EAN: 05702016913767 · in stock*
 
 Jeśli szukasz jakiegoś nieszablonowego prezentu dla miłośnika kwiatów, zestaw **LEGO® 10280 Bukiet kwiatów** będzie strzałem w dziesiątkę. Odpręż się i stwórz ten piękny, kreatywny model konstrukcyjny bukietu kwiatów, który możesz podarować ukochanej osobie. Gdy skończysz, imponujący bukiet ożywi każde pomieszczenie w Twoim domu. Możliwość regulowania długości łodyg sprawia, że kwiaty zmieszczą się w każdym wazonie czy innym pojemniku.
  
@@ -38,7 +38,7 @@ Zestaw nie zawiera wazonu.
 
 ## 10281 — Zestaw Lego Icons Creator Drzewko Bonsai 10281 Kwiaty Klocki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 289.00 zł · EAN: 04053271059198 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 289.00 zł · EAN: 04053271059198 · in stock*
 
 **ZESTAW LEGO ICONS CREATOR DRZEWKO BONSAI 10281 KWIATY PREZENT KLOCKI GRATIS**
 
@@ -142,7 +142,7 @@ Elementy LEGO® spełniają najwyższe standardy branżowe, dzięki czemu możes
 
 ## 10309 — Sukulenty Lego Icons Botanicals 10309 Piękny Nowy Zestaw Klocki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 349.90 zł · EAN: 00673419361620 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 349.90 zł · EAN: 00673419361620 · in stock*
 
 🌟 SUKULENTY LEGO ICONS / BOTANICALS 10309 🌟
 
@@ -186,7 +186,7 @@ Elementy LEGO® spełniają najwyższe standardy branżowe, dzięki czemu możes
 
 ## 10311 — Lego Botanicals 10311 Orchidea
 
-*Seria: Botanical · cena Allegro (2026-08-17): 148.36 zł · EAN: 05702017224336 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 148.36 zł · EAN: 05702017224336 · in stock*
 
 LEGO Creator Expert - Orchidea 10311
  
@@ -222,7 +222,7 @@ Budowanie kreatywności klocek po klocku Znajdź chwilę na relaks i ćwiczenie 
 
 ## 10313 — Lego Icons 10313 Bukiet Z Polnych Kwiatów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 317.61 zł · EAN: 05059444081989 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 317.61 zł · EAN: 05059444081989 · in stock*
 
 LEGO Creator Expert 10313 Bukiet z polnych kwiatów
  
@@ -254,7 +254,7 @@ Ten zestaw jest częścią rewolucyjnej botanicznej kolekcji LEGO dla dorosłych
 
 ## 10328 — Lego Botanicals 10328 Bukiet Róż
 
-*Seria: Botanical · cena Allegro (2026-08-17): 163.81 zł · EAN: 05702017583488 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 163.81 zł · EAN: 05702017583488 · in stock*
 
 LEGO Icons (10328) 
  
@@ -286,7 +286,7 @@ Zestaw zawiera sześć torebek z klockami i oddzielne instrukcje dla kwiatów w 
 
 ## 1032843 — Lego Icons Bukiet róż 10328 Bukiet
 
-*Seria: Botanical · cena Allegro (2026-08-17): 243.59 zł · EAN: 05702017606866 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 243.59 zł · EAN: 05702017606866 · in stock*
 
 LEGO Icons 10328 – Piękny bukiet Róż
 
@@ -310,7 +310,7 @@ Wysokość najwyższej róży: 31 cm.
 
 ## 10329 — Lego Botanicals 10329 miniaturowe rośliny
 
-*Seria: Botanical · cena Allegro (2026-08-17): 145.95 zł · EAN: 05702017567570 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 145.95 zł · EAN: 05702017567570 · in stock*
 
 LEGO KWIATY w doniczkach roślinki 10329
 
@@ -340,7 +340,7 @@ Wymiary — najwyższa roślina w tym 758-elementowym zestawie (wraz z pojemniki
 
 ## 10342 — Lego Botanicals 10342 Piękny bukiet różowych kwiatów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 164.32 zł · EAN: 05702017812540 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 164.32 zł · EAN: 05702017812540 · in stock*
 
 LEGO 10342 Botanicals Piękny bukiet różowych kwiatów
 
@@ -364,7 +364,7 @@ Wszystkie łodygi są regulowane, co umożliwia nadanie bukietowi spersonalizowa
 
 ## 10343 — Lego Botanicals 10343 Miniaturowa Orchidea
 
-*Seria: Botanical · cena Allegro (2026-08-17): 74.62 zł · EAN: 05702017814643 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 74.62 zł · EAN: 05702017814643 · in stock*
 
 LEGO® Botanicals Mała orchidea 10343
  
@@ -394,7 +394,7 @@ Zrelaksuj się, budując doniczkę, pięć kwiatów w kolorze brzoskwiniowym, p�
 
 ## 10344 — Lego Dracena Sandera 10344
 
-*Seria: Botanical · cena Allegro (2026-08-17): 78.10 zł · EAN: 05702017814650 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 78.10 zł · EAN: 05702017814650 · in stock*
 
 LEGO DRACENA SANDERA 10344
 
@@ -423,7 +423,7 @@ Botanicals Dracena sandera LEGO® Botanicals Dracena sandera Dekoracyjna roślin
 
 ## 10345 — Lego Botanicals 10345 Kompozycja Kwiatowa
 
-*Seria: Botanical · cena Allegro (2026-08-17): 319.88 zł · EAN: 05702017829111 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 319.88 zł · EAN: 05702017829111 · in stock*
 
 **LEGO 10345 Kwiatowa kompozycja**
  
@@ -447,7 +447,7 @@ Pozwól rozkwitnąć kreatywności dzięki zestawowi dla dorosłych LEGO® Botan
 
 ## 10347 — Lego Tbd Botanicals 10347
 
-*Seria: Botanical · cena Allegro (2026-08-17): 79.43 zł · EAN: 05702017814667 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 79.43 zł · EAN: 05702017814667 · in stock*
 
 Mały bukiet żółtych kwiatów
 
@@ -457,7 +457,7 @@ Botanicals LEGO Mały bukiet żółtych kwiatów, zabawka dla dziecka do zbudowa
 
 ## 10348 — Lego Botanicals 10348 Bonsai Japoński czerwony klon
 
-*Seria: Botanical · cena Allegro (2026-08-17): 167.21 zł · EAN: 05702017814674 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 167.21 zł · EAN: 05702017814674 · in stock*
 
 LEGO Botanicals 10348 Bonsai - Japoński czerwony klon
 
@@ -485,7 +485,7 @@ Model zawiera klocki do zbudowania drzewka bonsai z liśćmi w kolorach **czerw
 
 ## 10349 — Lego Botanicals 10349 Wesołe roślinki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 43.52 zł · EAN: 05702017814681 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 43.52 zł · EAN: 05702017814681 · in stock*
 
 Posadź nasiona radości z zestawem LEGO® Botanicals (10349) **Wesołe rośliny** dla dzieci od 9 lat. Ten zestaw 2 radosnych roślin z klocków LEGO jest pełen uroczych detali, dzięki którym dziewczyny i chłopcy uwolnią kreatywność. Ten uroczy zestaw zawiera mały smoczyca w żółtej stojącej doniczce i małą piłę w niebieskiej siedzącej doniczce. Doniczki są ozdobione kreskówkowymi twarzami i można je mylić, dzięki czemu dzieci mogą zdecydować, którą roślinę włożyć do której doniczki.
 
@@ -506,7 +506,7 @@ Posadź nasiona radości z zestawem LEGO® Botanicals (10349) **Wesołe rośliny
 
 ## 10368 — Zestaw klocków Lego Botanicals Chryzantema 278 elementów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 86.88 zł · EAN: 05702017719689 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 86.88 zł · EAN: 05702017719689 · in stock*
 
 LEGO Botanical 10368 Kwiat Chryzantema
 
@@ -519,7 +519,7 @@ LEGO Botanical 10368 Kwiat Chryzantema
 
 ## 10369 — Lego Botanicals 10369 kwiat śliwy
 
-*Seria: Botanical · cena Allegro (2026-08-17): 75.98 zł · EAN: 05702017719696 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 75.98 zł · EAN: 05702017719696 · in stock*
 
 LEGO 10369 Icons Kwiat śliwy
 
@@ -577,7 +577,7 @@ Odpręż się przy zestawie dla dorosłych LEGO® Icons Kwiat śliwy (10369). Ś
 
 ## 10372 — Lego 10372 Botanicals Hibiskus
 
-*Seria: Botanical · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017824833 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017824833 · in stock*
 
 LEGO 10372 Botanicals Hibiskus
 
@@ -652,7 +652,7 @@ W komplecie znajduje się też ciemnoniebieska doniczka LEGO, która podkreśla 
 
 ## 10373 — klocki Lego Botanicals 10373 Małe drzewka bonsai
 
-*Seria: Botanical · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018001677 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018001677 · in stock*
 
 Zanurz się w spokoju natury dzięki zestawowi konstrukcyjnemu dla dorosłych LEGO® Botanicals Małe drzewka bonsai (10373), który sprawdzi się jako odprężający projekt dla miłośników roślin.
 
@@ -674,7 +674,7 @@ Uroczy prezent na parapetówkę lub prezent walentynkowy dla mężczyzn, kobiet 
 
 ## 10374 — Lego Botanicals 10374 Bukiet różowych róż
 
-*Seria: Botanical · cena Allegro (2026-08-17): 175.41 zł · EAN: 05702017864457 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 175.41 zł · EAN: 05702017864457 · in stock*
 
 Klocki LEGO Botanical Collection 10374 - Bukiet różowych róż
  
@@ -698,7 +698,7 @@ Kwiaty to idealny prezent na każdą okazję, więc podaruj ten bukiet, który n
 
 ## 11501 — Lego Botanicals 11501 Bukiet tulipanów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 166.52 zł · EAN: 05702018061770 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 166.52 zł · EAN: 05702018061770 · in stock*
 
 LEGO Botanicals 11501 Bukiet tulipanów
 
@@ -726,7 +726,7 @@ Pozwól rozkwitnąć kreatywności i stwórz bukiet tulipanów LEGO® Zbuduj ka�
 
 ## 11502 — Lego Botanicals 11502 Bukiet słoneczników
 
-*Seria: Botanical · cena Allegro (2026-08-17): 164.71 zł · EAN: 05702018061794 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 164.71 zł · EAN: 05702018061794 · in stock*
 
 LEGO Botanicals 11502 Bukiet słoneczników
 
@@ -754,7 +754,7 @@ Słoneczniki są symbolem pozytywnego nastawienia, miłości i szczęścia, dlat
 
 ## 11503 — Lego 11503 Botanical Collection Kwiatowa ścianka
 
-*Seria: Botanical · cena Allegro (2026-08-17): 334.99 zł · EAN: 05702018066270 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 334.99 zł · EAN: 05702018066270 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -775,7 +775,7 @@ Obudź w sobie ogrodnika i stwórz piękny kwiatowy trejaż z zestawem LEGO® Bo
 
 ## 11504 — Lego Botanicals 11504 Skrzydłokwiat
 
-*Seria: Botanical · cena Allegro (2026-08-17): 172.61 zł · EAN: 05702018031858 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 172.61 zł · EAN: 05702018031858 · in stock*
 
 Rozwijaj swoją kreatywność dzięki zestawowi LEGO® Botanicals Skrzydłokwiat dla dorosłych. Zrelaksuj się i odpręż, tworząc skrzydłokwiat, który ma dwa zwinięte pąki, dwa częściowo otwarte kwiaty i dwa w pełnym rozkwicie, a także brzoskwiniową doniczkę, która ułatwia ekspozycję. Po zbudowaniu całość stanowi przepiękną dekorację kwiatową, która wprowadzi spokój do każdego pomieszczenia.
 
@@ -783,7 +783,7 @@ Rozwijaj swoją kreatywność dzięki zestawowi LEGO® Botanicals Skrzydłokwiat
 
 ## 11505 — Lego Botanicals 11505 Grzyby leśne
 
-*Seria: Botanical · cena Allegro (2026-08-17): 248.65 zł · EAN: 05702018061800 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 248.65 zł · EAN: 05702018061800 · in stock*
 
 LEGO Botanicals 11505 Grzyby leśne
  
@@ -809,7 +809,7 @@ Zestaw stanowi wspaniały prezent na urodziny, parapetówkę lub na każdą inn�
 
 ## 11506 — Lego Botanicals 11506 Kołyszące się roślinki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 51.80 zł · EAN: 05702018061817 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 51.80 zł · EAN: 05702018061817 · in stock*
 
 LEGO Botanicals 11506 Kołyszące się roślinki
 
@@ -853,7 +853,7 @@ Zestaw konstrukcyjny z motywem kwiatowym to świetny pomysł na prezent urodzino
 
 ## 11508 — Lego Botanicals 11508 Stokrotki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 35.97 zł · EAN: 05702018061831 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 35.97 zł · EAN: 05702018061831 · in stock*
 
 LEGO BOTANICALS 11508 STOKROTKI
 
@@ -880,7 +880,7 @@ Chcesz poczuć, jak Twoja kreatywność rozkwita? Stwórz uroczy bukiet dzięki 
 
 ## 11509 — Lego Botanicals 11509 Kwitnący kaktus
 
-*Seria: Botanical · cena Allegro (2026-08-17): 73.65 zł · EAN: 05702018031865 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 73.65 zł · EAN: 05702018031865 · in stock*
 
 Baw się, tworząc fajne dekoracje roślinne dzięki zestawowi LEGO® Botanicals Kwitnący kaktus. Wykaż się kreatywnością, tworząc większego kaktusa w pełnym rozkwicie z różowym kwiatem na szczycie oraz mniejszego kaktusa z różowymi pąkami, a także pastelową niebieską doniczkę, która ułatwi ekspozycję. Po zbudowaniu ustaw model jako dekorację wnętrza, która będzie cieszyć oko przez długi czas.
 
@@ -888,7 +888,7 @@ Baw się, tworząc fajne dekoracje roślinne dzięki zestawowi LEGO® Botanicals
 
 ## 11510 — Lego Botanicals Gałązki magnolii 11510
 
-*Seria: Botanical · cena Allegro (2026-08-17): 132.64 zł · EAN: 05702018061848 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 132.64 zł · EAN: 05702018061848 · in stock*
 
 LEGO Botanicals 11510 Gałązki magnolii
 
@@ -916,7 +916,7 @@ Ten zestaw LEGO stanowi doskonały prezent urodzinowy, walentynkowy, z okazji Dn
 
 ## 11511 — Lego Botanicals 11511 Lilia wodna
 
-*Seria: Botanical · cena Allegro (2026-08-17): 121.99 zł · EAN: 05702018061855 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 121.99 zł · EAN: 05702018061855 · in stock*
 
 LEGO Botanicals 11511 Lilie wodne
  
@@ -942,7 +942,7 @@ Zestaw z kwiatową kompozycją to wspaniały pomysł na prezent urodzinowy lub �
 
 ## 11512 — Lego Botanicals 11512 Wiszące epipremnum złociste brasil filodendron
 
-*Seria: Botanical · cena Allegro (2026-08-17): 327.96 zł · EAN: 05702018066553 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 327.96 zł · EAN: 05702018066553 · in stock*
 
 LEGO Botanicals 11512
  
@@ -1018,7 +1018,7 @@ Tak — to idealny prezent dla osób, które kochają rośliny, ale nie mają cz
 
 ## 11513 — Lego 11513 Botanicals Kompozycja z ciemnych kwiatów
 
-*Seria: Botanical · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702018066690 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702018066690 · in stock*
 
 LEGO 11513 Botanicals Kompozycja z ciemnych kwiatów
 
@@ -1078,7 +1078,7 @@ Zestaw ** LEGO Botanicals Kompozycja z ciemnych kwiatów ** składający się z 
 
 ## 11514 — Lego Botanicals 11514 Krásenky
 
-*Seria: Botanical · cena Allegro (2026-08-17): 36.49 zł · EAN: 05702018091593 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 36.49 zł · EAN: 05702018091593 · in stock*
 
 LEGO Botanicals 11514 Kosmosy
  
@@ -1104,7 +1104,7 @@ Ten zestaw to świetny prezent urodzinowy lub świąteczny dla dziewczynek, chł
 
 ## 40460 — Lego Icons Róże Kwiaty Kwiatki Róża Botanical Collection
 
-*Seria: Botanical · cena Allegro (2026-08-17): 57.99 zł · EAN: 05711965098432 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 57.99 zł · EAN: 05711965098432 · in stock*
 
 ⭐LEGO Classic 40460 Róże Kwiaty Kwiatki Róża Botanical Collection⭐
 
@@ -1138,7 +1138,7 @@ Ten zestaw to świetny prezent urodzinowy lub świąteczny dla dziewczynek, chł
 
 ## 40524 — Lego 40524 Słoneczniki
 
-*Seria: Botanical · cena Allegro (2026-08-17): 38.72 zł · EAN: 05702017165646 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 38.72 zł · EAN: 05702017165646 · in stock*
 
 LEGO Botanicals 40524 Słoneczniki
  
@@ -1164,7 +1164,7 @@ Prezent na specjalną okazję – ten zestaw LEGO to fajny prezent na Walentynki
 
 ## 40647 — Lego Botanicals 40647 Kwiaty Lotosu
 
-*Seria: Botanical · cena Allegro (2026-08-17): 37.75 zł · EAN: 05702017471549 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 37.75 zł · EAN: 05702017471549 · in stock*
 
 LEGO 40647 Kwiaty lotosu
  
@@ -1176,7 +1176,7 @@ Bukiet kwiatów LEGO — dzieci w wieku od 8 mogą cieszyć się kojącym piękn
 
 ## 40725 — Lego Botanicals 40725 Kwiaty Wiśni
 
-*Seria: Botanical · cena Allegro (2026-08-17): 44.63 zł · EAN: 05702017596976 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 44.63 zł · EAN: 05702017596976 · in stock*
 
 LEGO Icons Kwitnąca wiśnia (40725) 
  
@@ -1200,7 +1200,7 @@ Kwiaty zbudowane z klocków to nie tylko prezent na różne okazje dla dzieci, a
 
 ## 40747 — Lego Flowers 40747 Żonkile
 
-*Seria: Botanical · cena Allegro (2026-08-17): 37.48 zł · EAN: 05702017606019 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 37.48 zł · EAN: 05702017606019 · in stock*
 
 LEGO Icons Żonkile (40747) 
  
@@ -1212,7 +1212,7 @@ Kwiaty dla dziewczyny i chłopaka z klocków LEGO — pozwól miłośnikom kwiat
 
 ## 40957 — Lego 40957 Wiosenny wieniec
 
-*Seria: Botanical · cena Allegro (2026-08-17): 189.90 zł · EAN: 05702018071199 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 189.90 zł · EAN: 05702018071199 · in stock*
 
 **LEGO 40957 Wiosenny wieniec**
  
@@ -1238,7 +1238,7 @@ Nowy, oryginalnie zapakowany.
 
 ## 57508 — Klocki Lego 11508 Botanicals Stokrotki kwiaty kwiatki bukiet 133 elementy
 
-*Seria: Botanical · cena Allegro (2026-08-17): 58.99 zł · EAN: 05704339006287 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 58.99 zł · EAN: 05704339006287 · in stock*
 
 LEGO 11508 - Stokrotki - Daisies
 
@@ -1250,7 +1250,7 @@ Zestaw ma 133 elementy.
 
 ## 6615075 — Klocki Lego Botanicals Ogród ważek 6615075 Dragonfly Garden 154 elementy
 
-*Seria: Botanical · cena Allegro (2026-08-17): 595.31 zł · EAN: 05702018149959 · in stock*
+*Kategoria: Botanicals · cena Allegro (2026-08-17): 595.31 zł · EAN: 05702018149959 · in stock*
 
 Klocki LEGO Botanicals 6615075 - Ogród ważek
 

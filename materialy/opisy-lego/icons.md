@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO ICONS — opisy produktowe (115 zestawów)
+# LEGO ICONS — opisy produktowe (115 pozycji)
 
 ## 10273 — Lego Icons 10273 Dom strachu
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1045.00 zł · EAN: 05702016668001 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1045.00 zł · EAN: 05702016668001 · in stock*
 
 LEGO Creator Expert 10273 Dom strachu
  
@@ -41,7 +41,7 @@ Wprowadziliśmy nowe opakowania zestawów dla dorosłych konstruktorów, aby uł
 
 ## 10274 — Klocki Lego 10274 Creator Expert ECTO-1 Pogromców duchów ----- Outlet
 
-*Seria: ICONS · cena Allegro (2026-08-17): 988.88 zł · EAN: 05702016668018 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 988.88 zł · EAN: 05702016668018 · in stock*
 
 **Nowy, zestaw, klocki oryginalnie w woreczkach.**
 
@@ -73,7 +73,7 @@ Ten zestaw LEGO z samochodem do zbudowania należy do serii inspirujących model
 
 ## 10276 — Klocki Koloseum Dla Dorosłych lego 3d kalendarz
 
-*Seria: ICONS · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702016668032 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702016668032 · in stock*
 
 Magiczny kalendarz papierowy 3D „Rzymskie Koloseum” na rok 2026: nasz kalendarz 3D na rok 2026 przeniesie Cię w świat monumentalnej architektury okresu cesarskiego. Ten szczegółowy kalendarz z odrywanymi kartkami odsłania nowy fragment kultowego Koloseum dzień po dniu, aż w końcu przekształca się w zachwycający, trójwymiarowy model papierowy. Ten fascynujący, codzienny rytuał zachwyca całą rodzinę i stanowi idealny prezent dla wszystkich miłośników historii i architektury. Kalendarz całoroczny na rok 2026: nasz kreatywny kalendarz zabierze Cię w roczną podróż odkrywczą do starożytnego Rzymu. Każda oddzielona kartka w roku 2026 przybliża Cię do ukończenia tego archeologicznego arcydzieła i wypełnia każdy dzień ekscytującym oczekiwaniem i radością odkrywania. Ten kalendarz oferuje pełną funkcjonalność od 1 stycznia, łącząc praktyczną użyteczność z wizualną przyjemnością i towarzysząc Ci przez cały rok pełen wrażeń.
 
@@ -85,7 +85,7 @@ Monumentalna, trójwymiarowa dekoracja na Twoje biurko: ostatniego dnia 2026 rok
 
 ## 10277 — Lego 10277 Creator Expert Lokomotywa Crocodile
 
-*Seria: ICONS · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702016757460 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702016757460 · in stock*
 
 Oryginalne, nienaruszone opakowanie
 
@@ -106,7 +106,7 @@ Przybliżone wymiary opakowania: **54 x 28,2 x 9,1 cm**
 
 ## 10279 — Lego Icons 10279 Volkswagen T2 Camper Van
 
-*Seria: ICONS · cena Allegro (2026-08-17): 895.00 zł · EAN: 05702016913736 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 895.00 zł · EAN: 05702016913736 · in stock*
 
 Wspominasz swoje wycieczki, planujesz podróże, a może po prostu chcesz dać wyraz swojej pasji do samochodów kempingowych? Zestaw konstrukcyjny LEGO® 10279 Mikrobus kempingowy Volkswagen T2 na pewno przypadnie Ci do gustu. Zrelaksuj się, budując model mikrobusa kempingowego, a potem przyjrzyj się jego szczegółowemu wnętrzu i ustaw auto na półce, aby przypominało Ci o tym, że świat przygód czeka tuż za rogiem.
  
@@ -136,7 +136,7 @@ Ten zestaw jest częścią kolekcji zestawów konstrukcyjnych LEGO dla dorosłyc
 
 ## 10282 — Zestaw Lego Icons 10282 Biały But Adidas Originals Superstar
 
-*Seria: ICONS · cena Allegro (2026-08-17): 394.98 zł · EAN: 05702016914030 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 394.98 zł · EAN: 05702016914030 · in stock*
 
 ZESTAW LEGO ICONS - 10282 - BIAŁY BUT ADIDAS ORIGINALS SUPERSTAR
 
@@ -176,7 +176,7 @@ LEGO Icons 10282 to idealny wybór na prezent dla każdego fana marki adidas, sn
 
 ## 10289 — Lego 10289 Strelicja królewska
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1184.00 zł · EAN: 05702016973563 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1184.00 zł · EAN: 05702016973563 · in stock*
 
 **LEGO Strelicja królewska 10289**
 
@@ -206,7 +206,7 @@ Strelicja królewska, jeden z najpiękniejszych kwiatów na świecie, może osi�
 
 ## 10290 — Klocki Lego Creator Expert Pickup 10290 Unikat! Okazja! Rzadki Egzemplarz!
 
-*Seria: ICONS · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702016972030 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702016972030 · in stock*
 
 Trudno o lepszą ucieczkę od współczesności! Zbuduj pickupa LEGO® (10290) i wybierz się w podróż w lata 50. ubiegłego wieku. Ten realistyczny model klasycznej półciężarówki ma charakterystyczne, zaokrąglone linie i mnóstwo szczegółów. Przyjrzyj mu się bliżej, a odkryjesz realistyczną platformę z nadkolami, otwierane drzwi i klapę oraz zdejmowane drewniane poręcze.
  
@@ -232,7 +232,7 @@ Podróże są świetne Ten zestaw jest częścią serii kolekcjonerskich modeli 
 
 ## 10294 — Klocki Lego Titanic 10294 9090 elementów Egzemplarz! Unikat! Okazja!
 
-*Seria: ICONS · cena Allegro (2026-08-17): 3199.99 zł · EAN: 05702016914320 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 3199.99 zł · EAN: 05702016914320 · in stock*
 
 Słynny Titanic rozpala wyobraźnię ludzi na całym świecie od roku 1912, gdy wyruszył w swój tragiczny rejs. Dzięki zestawowi LEGO® Titanic (10294) możesz zbudować ogromny kolekcjonerski model, który będzie dla niego hołdem.
  
@@ -262,7 +262,7 @@ Ten statek to jeden z największych modeli LEGO w historii — ma ok. 135 cm dł
 
 ## 10295 — Lego Icons Porsche 911 1458 el. 10295
 
-*Seria: ICONS · cena Allegro (2026-08-17): 519.98 zł · EAN: 05702016914351 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 519.98 zł · EAN: 05702016914351 · in stock*
 
 LEGO Creator Expert Porsche 911 (10295)
  
@@ -299,7 +299,7 @@ Zestaw LEGO 10295 Porsche 911 to produkt skierowany do dorosłych (sugerowany wi
 
 ## 10297 — Lego Icons 10297 Hotel Butikowy Modular Buildings Nowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 964.64 zł · EAN: 05702017151847 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 964.64 zł · EAN: 05702017151847 · in stock*
 
 Przedmiotem oferty jest NOWY i ORYGINALNY zestaw klocków LEGO:
 
@@ -329,7 +329,7 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj własne architektoniczne ar
 
 ## 10298 — Lego Creator Expert 10298 Vespa 125 zestaw klocków 1106 elementów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 412.50 zł · EAN: 05702017151861 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 412.50 zł · EAN: 05702017151861 · in stock*
 
 LEGO CREATOR EXPERT 10298 Vespa 125 super zestaw klocków 1106 elementów
 
@@ -373,7 +373,7 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj swoją kolekcję wymarzonyc
 
 ## 10299 — Lego 10299 Creator Expert Stadion Realu Madryt Santiago Bernabéu
 
-*Seria: ICONS · cena Allegro (2026-08-17): 3865.54 zł · EAN: 05702017153179 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 3865.54 zł · EAN: 05702017153179 · in stock*
 
 Klocki LEGO Creator Expert 10299 - Stadion Realu Madryt - Santiago Bernabéu
 
@@ -427,7 +427,7 @@ Zestaw LEGO Creator Expert - Stadion Realu Madryt - Santiago Bernabéu trafił
 
 ## 10300 — Lego Icons 10300 Wehikuł Czasu Z Powrotu Do Przyszłości
 
-*Seria: ICONS · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702017153186 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702017153186 · in stock*
 
 Mamy coś specjalnego dla dorosłych fanów filmowej serii Powrót do przyszłości: oto zestaw konstrukcyjny LEGO Wehikuł czasu z Powrotu do przyszłości (10300). Daj się pochłonąć swojej pasji do jednej z najbardziej lubianych trylogii filmowych na świecie, budując którąś z trzech wersji samochodu potrafiącego przenosić się w czasie.
 
@@ -450,7 +450,7 @@ Ten zestaw LEGO jest najnowszym w kolekcji filmowych samochodów. Stanowi wciąg
 
 ## 10302 — Lego Icons Optimus Prime 10302
 
-*Seria: ICONS · cena Allegro (2026-08-17): 641.90 zł · EAN: 05702017153209 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 641.90 zł · EAN: 05702017153209 · in stock*
 
 **OPTIMUS PRIME**
 
@@ -480,7 +480,7 @@ Przenieś się w czasie do lat 80. XX wieku, składając imponujący model legen
 
 ## 10304 — Klocki Lego Icons Zestaw Chevrolet Camaro Z28 10304
 
-*Seria: ICONS · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017153254 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017153254 · in stock*
 
 **LEGO Creator Expert Chevrolet Camaro Z28 10304**
  
@@ -516,7 +516,7 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj swoją kolekcję wymarzonyc
 
 ## 10305 — Lego Icons Zamek Rycerzy Herbu Lew 10305
 
-*Seria: ICONS · cena Allegro (2026-08-17): 2257.90 zł · EAN: 05702017153261 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 2257.90 zł · EAN: 05702017153261 · in stock*
 
 **ZAMEK RYCERZY HERBU LEW**
 
@@ -545,7 +545,7 @@ Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zamek to 
 
 ## 10306 — Lego Icons 10306 konsola Atari 2600
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1080.00 zł · EAN: 05702017153278 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1080.00 zł · EAN: 05702017153278 · in stock*
 
 Gotowi, by zagrać?
  
@@ -609,7 +609,7 @@ Nie przeszkadzać: tu się gra
 
 ## 10307 — Lego Wieża Eiffla 10307 10001 elementów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 3149.00 zł · EAN: 05702017153292 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 3149.00 zł · EAN: 05702017153292 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -654,7 +654,7 @@ Odwiedź nowe miejsca dzięki zestawom LEGO dla dorosłych. Odkryj najwspanialsz
 
 ## 10308 — Lego 10308 Świąteczna główna ulica
 
-*Seria: ICONS · cena Allegro (2026-08-17): 778.00 zł · EAN: 05702017153285 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 778.00 zł · EAN: 05702017153285 · in stock*
 
 LEGO Icons "Świąteczna główna ulica". Numer katalogowy- 10308, ilość elementów- 1514.
  
@@ -678,7 +678,7 @@ Dodatkowo w zestawie znajduje się przystanek tramwajowy i dziecko wysyłające 
 
 ## 10312 — Lego Icons 10312 Klub jazzowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1148.00 zł · EAN: 05702017416625 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1148.00 zł · EAN: 05702017416625 · in stock*
 
 Przygotuj się na noc pełną muzyki, jazzu i pizzy.
  
@@ -698,7 +698,7 @@ Zestaw **LEGO Icons Klub jazzowy (10312)** to Twój bilet na najlepszy występ w
 
 ## 10314 — Lego Icons 10314 Stroik z suszonych kwiatów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 217.77 zł · EAN: 05702017416878 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 217.77 zł · EAN: 05702017416878 · in stock*
 
 - Rozwijaj kreatywność – stwórz ozdobę LEGO® Icons Stroik z suszonych kwiatów (10314) dzięki temu relaksującemu zestawowi dla dorosłych 
 - Inspirowany jesienią – ten kwiatowy zestaw konstrukcyjny jest pełen kolorowych kwiatów inspirowanych barwami jesieni, a jego głównymi elementami są gerbera i róża 
@@ -717,7 +717,7 @@ Zestaw **LEGO Icons Klub jazzowy (10312)** to Twój bilet na najlepszy występ w
 
 ## 10315 — Lego Icons 10315 Cichy Ogród
 
-*Seria: ICONS · cena Allegro (2026-08-17): 313.98 zł · EAN: 05702017416885 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 313.98 zł · EAN: 05702017416885 · in stock*
 
 LEGO ICONS 10315 Cichy ogród
  
@@ -769,7 +769,7 @@ Puść wodze wyobraźni Ciesz się wciągającym projektem dzięki zestawowi dla
 
 ## 10316 — Klocki Lego Icons Władca Pierścieni: Rivendell 10316
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1779.00 zł · EAN: 05702017416892 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1779.00 zł · EAN: 05702017416892 · in stock*
 
 Prawdziwe szaleństwo dla fanów Władcy Pierścieni!
  
@@ -814,7 +814,7 @@ Zestaw, o który ubiegali się fani, został zaprojektowany dla miłośników W�
 
 ## 10317 — Klocki Lego Icons Zestaw Land Rover Classic Defender 90 10317
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017416908 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017416908 · in stock*
 
 **LEGO Icons Land Rover Classic Defender 90**
 
@@ -836,7 +836,7 @@ Wymiary – model bez dodatków ma 16 cm wysokości, 32 cm długości i 16 cm sz
 
 ## 10318 — Lego 10318 Icons Concorde
 
-*Seria: ICONS · cena Allegro (2026-08-17): 775.95 zł · EAN: 05702017416915 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 775.95 zł · EAN: 05702017416915 · in stock*
 
 LEGO 10318 Icons - Concorde
 
@@ -883,7 +883,7 @@ Galeria LEGO 10318 Icons - Concorde
 
 ## 10320 — Lego Icons Twierdza Eldorado 10320
 
-*Seria: ICONS · cena Allegro (2026-08-17): 910.85 zł · EAN: 05702017416922 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 910.85 zł · EAN: 05702017416922 · in stock*
 
 **LEGO ICONS Twierdza Eldorado 10320**
 
@@ -921,7 +921,7 @@ Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zestaw ut
 
 ## 10321 — Klocki Lego Corvette 10321 1210 elementów dla dzieci 18 lat
 
-*Seria: ICONS · cena Allegro (2026-08-17): 876.99 zł · EAN: 05702017416939 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 876.99 zł · EAN: 05702017416939 · in stock*
 
 Powrót prawdziwie amerykańskiej ikony
  
@@ -939,7 +939,7 @@ możesz wybrać wersję ze stałym lub otwartym dachem.
 
 ## 10323 — Lego Icons 10323 Automat do gry Pac-Man
 
-*Seria: ICONS · cena Allegro (2026-08-17): 969.89 zł · EAN: 05702017416946 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 969.89 zł · EAN: 05702017416946 · in stock*
 
 Wybierz się w podróż do lat osiemdziesiątych ubiegłego wieku dzięki zestawowi LEGO Icons Automat do gry Pac-Man dla dorosłych. Ciesz się satysfakcjonującym projektem, który jest repliką kultowej gry zręcznościowej z labiryntem, uważanej przez wielu za najbardziej wpływową grę wideo wszechczasów.
  
@@ -965,7 +965,7 @@ Spędź miło czas, powołując do życia świetny zestaw konstrukcyjny LEGO dla
 
 ## 10325 — Zestaw klocków Lego 10325 górska chata 1517 elementów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 588.00 zł · EAN: 05702017416953 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 588.00 zł · EAN: 05702017416953 · in stock*
 
 Zrelaksuj się i zbuduj przytulny, ośnieżony pensjonat z pokojami gościnnymi i płonącymi kominkami.
  
@@ -986,7 +986,7 @@ Odpręż się, budując ten wysokiej jakości zestaw LEGO. Jest on częścią ko
 
 ## 10326 — Lego Icons 10326 Muzeum Historii Naturalnej
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1239.90 zł · EAN: 05702017589886 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1239.90 zł · EAN: 05702017589886 · in stock*
 
 Specyfikacja techniczna:
 
@@ -1003,7 +1003,7 @@ Galeria
 
 ## 10327 — Lego Icons 10327 Diuna Atreides Royal Ornithopter
 
-*Seria: ICONS · cena Allegro (2026-08-17): 635.23 zł · EAN: 05702017655932 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 635.23 zł · EAN: 05702017655932 · in stock*
 
 LEGO ICONS 10327 Diuna — Atreides Royal Ornithopter 
  
@@ -1026,7 +1026,7 @@ Stwórz szczegółową replikę kultowego statku powietrznego z filmu Diuna z 20
 
 ## 10330 — Lego Icons 10330 McLaren MP4/4 i Ayrton Senna
 
-*Seria: ICONS · cena Allegro (2026-08-17): 215.98 zł · EAN: 05702017583495 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 215.98 zł · EAN: 05702017583495 · in stock*
 
 LEGO® Icons McLaren MP4/4 i Ayrton Senna 10330
 
@@ -1064,7 +1064,7 @@ Zbuduj legendę Formuły 1! Ten zestaw to **obowiązkowa pozycja dla każdego fa
 
 ## 10331 — Lego Icons Zimorodek 10331
 
-*Seria: ICONS · cena Allegro (2026-08-17): 181.04 zł · EAN: 05702017599564 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 181.04 zł · EAN: 05702017599564 · in stock*
 
 **Zimorodek**
 
@@ -1087,7 +1087,7 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO zaprojekt
 
 ## 10332 — Lego Icons 10332 Średniowieczny plac
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1168.00 zł · EAN: 05702017589893 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1168.00 zł · EAN: 05702017589893 · in stock*
 
 Zrelaksuj się, budując **LEGO Icons Medieval Town Square (10332)** dla dorosłych. Ten wspaniały prezent dla miłośników historii to wysokiej jakości model średniowiecznego rynku w Felsy, który po raz pierwszy pojawił się jako zestaw budynków w 2009 roku. Zawiera nowe, interesujące budynki i elementy ze średniowiecza, w tym starą farmę, fabrykę sera, zajazd, warsztat poboru myta i wartownię.
 
@@ -1105,7 +1105,7 @@ Zawartość pudełka – zestaw zawiera wszystko, czego potrzebujesz, aby zbudow
 
 ## 10333 — Klocki Lego Władca Pierścieni: Barad-dûr 5471 elementów 18+
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702017589909 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702017589909 · in stock*
 
 LEGO® 10333 Władca Pierścieni: Barad-dûr™
  
@@ -1151,7 +1151,7 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO dla doros
 
 ## 10334 — Lego Icons Radio W Stylu Retro 10334
 
-*Seria: ICONS · cena Allegro (2026-08-17): 374.88 zł · EAN: 05702017583501 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 374.88 zł · EAN: 05702017583501 · in stock*
 
 **RADIO W STYLU RETRO**
 
@@ -1174,7 +1174,7 @@ Ten zestaw LEGO będzie świetnym prezentem urodzinowych dla dorosłych miłośn
 
 ## 10337 — Lego Icons Lamborghini Countach 5000 Quattrovalvole 10337
 
-*Seria: ICONS · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702017589916 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702017589916 · in stock*
 
 LEGO Icons Lamborghini Countach
 
@@ -1199,7 +1199,7 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO, zaprojektowanych spe
 
 ## 10338 — Zestaw klocków Lego Icons Bumblebee (10338)
 
-*Seria: ICONS · cena Allegro (2026-08-17): 319.89 zł · EAN: 05702017589923 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 319.89 zł · EAN: 05702017589923 · in stock*
 
 Poznaj motoryzacyjną doskonałość i stwórz zestaw dla dorosłych LEGO® Icons Lamborghini Countach 5000 Quattrovalvole (10337). Podaruj go znajomemu miłośnikowi aut lub samodzielnie wybierz się w pasjonującą podróż po tym cudzie techniki, odtwarzając szczegół po szczególe kultowy samochód sportowy, który słynie ze swego wyglądu i wyjątkowych osiągów.
  
@@ -1221,7 +1221,7 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO, zaprojektowanych spe
 
 ## 10339 — Lego Icons Poczta Świętego Mikołaja (10339) Nowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 595.00 zł · EAN: 05702017589930 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 595.00 zł · EAN: 05702017589930 · in stock*
 
 OUTLET
 
@@ -1241,7 +1241,7 @@ S1
 
 ## 10340 — 10340 Lego Icons Wieniec 10340
 
-*Seria: ICONS · cena Allegro (2026-08-17): 367.77 zł · EAN: 05702017589947 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 367.77 zł · EAN: 05702017589947 · in stock*
 
 Wieniec
 
@@ -1251,7 +1251,7 @@ Botanicals Wieniec LEGO® Icons Wieniec Zestaw LEGO® Icons Wieniec 10340, świ�
 
 ## 10341 — Lego Icons 10341 Rakieta Sls Nasa Artemis
 
-*Seria: ICONS · cena Allegro (2026-08-17): 986.00 zł · EAN: 05702017589954 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 986.00 zł · EAN: 05702017589954 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1276,7 +1276,7 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO dla dorosłych. Aplik
 
 ## 10350 — Lego Icons 10350 Dom w stylu angielskim
 
-*Seria: ICONS · cena Allegro (2026-08-17): 915.99 zł · EAN: 05702017813219 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 915.99 zł · EAN: 05702017813219 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1301,7 +1301,7 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO dla doros
 
 ## 10351 — Lego Icons 10351 Sherlock Holmes: Book nook
 
-*Seria: ICONS · cena Allegro (2026-08-17): 474.99 zł · EAN: 05702017824475 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 474.99 zł · EAN: 05702017824475 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1332,7 +1332,7 @@ Odkryj inspirującą ofertę kreatywnych zestawów LEGO dla dorosłych. Aplikacj
 
 ## 10352 — Zestaw do układania Lego Icons 10352 The Simpsons: Krusty Burger 1635 el.
 
-*Seria: ICONS · cena Allegro (2026-08-17): 728.99 zł · EAN: 05702017829128 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 728.99 zł · EAN: 05702017829128 · in stock*
 
 Zbuduj legendarny fast-food w Springfield dzięki zestawowi dla dorosłych LEGO® Icons The Simpsons™: Krusty Burger (10352). Stwórz szczegółowy model ulubionej restauracji Homera z kuchnią, jadalnią, toaletą i okienkiem drive-thru. Ta pozycja obowiązkowa dla każdego fana Simpsonów zawiera również znak z logo Krusty Burger, replikę klaunowego samochodu Homera, a także minifigurki Homera, Barta i Lisy Simpsonów, farmera Krusty’ego, Pomocnika Boba, Piszczyka i oficera Lou.
 
@@ -1354,7 +1354,7 @@ Odpręż się dzięki ofercie zestawów LEGO dla dorosłych. Aplikacja LEGO Buil
 
 ## 10353 — 10353 Lego Outlet Williams Racing F1 Mansell Zestaw Formuła 1 Klocki Lego
 
-*Seria: ICONS · cena Allegro (2026-08-17): 201.98 zł · EAN: 05702017815862 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 201.98 zł · EAN: 05702017815862 · in stock*
 
 LEGO 10353 Williams Racing FW14B i Nigel Mansell
 
@@ -1366,7 +1366,7 @@ Icons Williams Racing FW14B i Nigel Mansell LEGO® Icons Williams Racing FW14B i
 
 ## 10354 — 10354 Lego Władca Pierścieni: Shire 2017 elementów 18+
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1087.77 zł · EAN: 05702017829135 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1087.77 zł · EAN: 05702017829135 · in stock*
 
 Klocki LEGO ICONS 10354 - Władca pierścieni: Shire™
 
@@ -1391,7 +1391,7 @@ Zestaw LEGO ICONS - Władca pierścieni: Shire™ trafił do sprzedaży w 2025
 
 ## 10355 — Lego Icons 10355 Blacktron Renegade
 
-*Seria: ICONS · cena Allegro (2026-08-17): 429.90 zł · EAN: 05702017829142 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 429.90 zł · EAN: 05702017829142 · in stock*
 
 Wyjątkowy sklep z klockami LEGO
 
@@ -1440,7 +1440,7 @@ Ten zestaw zawiera oddzielne torebki z klockami, dzięki czemu idealnie nadaje s
 
 ## 10356 — Lego Icons 10356 Star Trek: U.s.s. Enterprise NCC-1701-D
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1410.36 zł · EAN: 05702017829159 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1410.36 zł · EAN: 05702017829159 · in stock*
 
 Wybierz się w nostalgiczną podróż z zestawem dla dorosłych LEGO® Icons Star Trek: U.S.S. Enterprise NCC-1701-D™ (10356). Zbuduj niezwykle szczegółową replikę legendarnego okrętu Gwiezdnej Floty wyposażoną w odłączany spodek dowódcy, dodatkowy kadłub, gondolę warp z charakterystycznymi czerwono-niebieskimi detalami, otwierany hangar wahadłowca, dwa małe wahadłowce oraz kątową podstawkę do ekspozycji z projektem i statystykami statku.
 
@@ -1464,7 +1464,7 @@ W aplikacji LEGO Builder znajdują się trójwymiarowe instrukcje budowania. Zes
 
 ## 10357 — Klocki Lego Shelby Cobra 427 S/c 1241 elementów 10357
 
-*Seria: ICONS · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017829166 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017829166 · in stock*
 
 Podaruj zestaw LEGO® Icons Shelby Cobra 427 S/C (10357) znajomemu miłośnikowi samochodów lub pozwól sobie na chwilę relaksu przy tym satysfakcjonującym projekcie. Odtwórz legendarny samochód sportowy z lat 60. dwudziestego wieku, słynący z kultowego designu i oszałamiających osiągów, dzięki którym zdominował świat wyścigów.
  
@@ -1486,7 +1486,7 @@ Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania do tego zes
 
 ## 10358 — Lego Icons 10358 Transformers: Soundwave
 
-*Seria: ICONS · cena Allegro (2026-08-17): 633.98 zł · EAN: 05702017829173 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 633.98 zł · EAN: 05702017829173 · in stock*
 
 LEGO ICONS 10358 Transformers: Soundwave
 
@@ -1528,7 +1528,7 @@ W zestawie znajdziesz kasety, rakietę, miotacz laserowy i strzałki.
 
 ## 10359 — Klocki Zestaw Lego Icons 10359 Fontanna w ogrodzie
 
-*Seria: ICONS · cena Allegro (2026-08-17): 287.99 zł · EAN: 05702017815879 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 287.99 zł · EAN: 05702017815879 · in stock*
 
 Fontanna w ogrodzie
 
@@ -1538,7 +1538,7 @@ Icons Fontanna w ogrodzie LEGO® Icons Fontanna w ogrodzie Zestaw dla dorosłych
 
 ## 10360 — Klocki Lego Icons 10360 Nosiciel wahadłowców
 
-*Seria: ICONS · cena Allegro (2026-08-17): 875.99 zł · EAN: 05702017829180 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 875.99 zł · EAN: 05702017829180 · in stock*
 
 Świętuj historyczne innowacje w dziedzinie lotnictwa i kosmonautyki, budując zestaw dla dorosłych LEGO® Icons Nosiciel wahadłowców (10360). Stwórz model Boeinga™ 747™ i promu NASA Enterprise, które pomogły ukształtować erę podróży w kosmos. Odprężsię, odtwarzając każdy misterny szczegół, a następnie z dumą ustaw swoje dzieło na półce jako ozdobę.
  
@@ -1559,7 +1559,7 @@ Skorzystaj z okazji do relaksu dzięki temu kolekcjonerskiemu zestawowi konstruk
 
 ## 10361 — Klocki Lego Icons 10361 Świąteczny Ekspres Pociąg Lokomotywa Christmas
 
-*Seria: ICONS · cena Allegro (2026-08-17): 478.90 zł · EAN: 05702017829197 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 478.90 zł · EAN: 05702017829197 · in stock*
 
 klocki LEGO ICONS 10361 Świąteczny ekspres Pociąg Lokomotywa Christmas
 
@@ -1575,7 +1575,7 @@ Zrelaksuj się dzięki inspirującej serii kreatywnych projektów konstrukcyjnyc
 
 ## 10363 — Lego Icons 10363 Latająca maszyna Leonarda da Vinci
 
-*Seria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017815893 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017815893 · in stock*
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -1602,7 +1602,7 @@ Zrelaksuj się podczas budowania kolekcjonerskiego zestawu ze skrzydłowcem LEGO
 
 ## 10365 — Lego Icons Piraci Z Karaibów Statek Kapitana Jacka Sparrowa 10365
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1478.90 zł · EAN: 05702017829203 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1478.90 zł · EAN: 05702017829203 · in stock*
 
 **Statek piracki kapitana Jacka Sparrowa**
 
@@ -1625,7 +1625,7 @@ Znajdź chwilę na odpoczynek dzięki zestawom LEGO dla dorosłych. W aplikacji 
 
 ## 10366 — Lego Icons 10366 Tropikalne akwarium 4154 elementy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1631.00 zł · EAN: 05702017829210 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1631.00 zł · EAN: 05702017829210 · in stock*
 
 Odpręż się przy budowaniu ozdobnego zestawu dla dorosłych LEGO® Icons Tropikalne akwarium (10366). Stwórz szczegółowy model LEGO tętniącego życiem i kolorowego podwodnego świata. Ułóż każdy element wedle uznania i ustaw swoje dzieło w domu lub w pracy, aby wszyscy mogli się nim zachwycać.
  
@@ -1647,7 +1647,7 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO zaprojekt
 
 ## 10367 — Lego Icons Władca pierścieni: Book nook z Balrogiem 10367
 
-*Seria: ICONS · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017815909 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017815909 · in stock*
 
 **LEGO Icons Władca pierścieni: Book nook z Balrogiem 10367**
  
@@ -1673,7 +1673,7 @@ Po rozłożeniu, składający się z 1201 elementów Book nook z Balrogiem ma 44
 
 ## 10370 — Lego Icons 10370 Gwiazda Betlejemska 18+ Outlet
 
-*Seria: ICONS · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702017747682 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702017747682 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1708,7 +1708,7 @@ Odpręż się dzięki inspirującej serii kreatywnych zestawów LEGO z botaniczn
 
 ## 10375 — Lego Icons 10375 Jak Wytresować Smoka Szczerbatek 18+ Nowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702017910062 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702017910062 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1741,7 +1741,7 @@ Ten zestaw ze smokiem to idealny pomysł na prezent świąteczny lub urodzinowy 
 
 ## 10391 — Lego Icons 10391 Radość z Pharrellem Williamsem
 
-*Seria: ICONS · cena Allegro (2026-08-17): 377.78 zł · EAN: 05702017462790 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 377.78 zł · EAN: 05702017462790 · in stock*
 
 **LEGO Icons 10391 Radość z Pharrellem Williamsem**
 
@@ -1771,7 +1771,7 @@ Wymiary — model ma 49 cm wysokości, 20 cm głębokości i 19 cm szerokości
 
 ## 10497 — Lego 10497 – Galaktyczny odkrywca – Edycja jubileuszowa
 
-*Seria: ICONS · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702017189208 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702017189208 · in stock*
 
 LEGO 10497 – Galaktyczny odkrywca – Edycja jubileuszowa
  
@@ -1795,7 +1795,7 @@ Zanurz się w budowaniu, odtwarzając kultowe detale, i ciesz się gotowym model
 
 ## 11370 — Lego Icons 11370 Stranger Things: Dom Creelów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1048.98 zł · EAN: 05702018069363 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1048.98 zł · EAN: 05702018069363 · in stock*
 
 Przejdź na Drugą Stronę dzięki zestawowi LEGO® Icons Stranger Things: Dom Creelów (11370) z minidomem dla dorosłych. Ten niezwykle szczegółowy model mrocznej gotyckiej rezydencji zawiera samochód Steve'a, furgonetkę radiową WSQK oraz rower Willa. Dom ma bogato zdobioną fasadę i otwartą tylną część z dostępem do przedpokoju, jadalni, salonu, sypialni Alice i Henry'ego, mrożącego krew w żyłach korytarza na piętrze oraz dwóch pomieszczeń na poddaszu.
 
@@ -1823,7 +1823,7 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 
 ## 11371 — Lego Icons Ulica handlowa 11371
 
-*Seria: ICONS · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702018032046 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702018032046 · in stock*
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1854,7 +1854,7 @@ WYMIARY – Model LEGO® Icons Ulica handlowa składa się z 3456 elementów i m
 
 ## 11372 — Lego Icons Jesienny ogród z chatką 11372
 
-*Seria: ICONS · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702018062760 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702018062760 · in stock*
 
 **LEGO Icons Jesienny ogród z chatką 11372**
 
@@ -1884,7 +1884,7 @@ Jesienny ogród z chatką składa się z 1102 elementów i ma 29 cm szerokości
 
 ## 11373 — Lego Icons 11373 Władca pierścieni: Hełm Saurona
 
-*Seria: ICONS · cena Allegro (2026-08-17): 223.95 zł · EAN: 05702018063576 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 223.95 zł · EAN: 05702018063576 · in stock*
 
 LEGO Icons 11373 Władca pierścieni: Hełm Saurona
 
@@ -1909,7 +1909,7 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 
 ## 11375 — Klocki Lego Icons 11375 Ferrari F2004 i Michael Schumacher
 
-*Seria: ICONS · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018063583 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018063583 · in stock*
 
 **LEGO Icons 11375 Ferrari F2004 i Michael Schumacher**
 
@@ -1936,7 +1936,7 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 
 ## 11376 — Lego Icons Ford Model T 11376
 
-*Seria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063590 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063590 · in stock*
 
 **LEGO Icons Ford Model T 11376**
 
@@ -1966,7 +1966,7 @@ Zabytkowy samochód w tym zestawie ma 29 cm długości
 
 ## 11377 — Lego Icons 11377 The Lord of the Rings: Minas Tirith
 
-*Seria: ICONS · cena Allegro (2026-08-17): 3549.98 zł · EAN: 05702018069813 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 3549.98 zł · EAN: 05702018069813 · in stock*
 
 **LEGO (11377) Ikony Władca Pierścieni: Minas Tirith**
 
@@ -2011,7 +2011,7 @@ Samo doświadczenie budowlane jest rozległe i bardzo wciągające. Dzięki tysi
 
 ## 11378 — Lego 11378 Icons Samolot pasażerski Douglas DC-3 Pan Am
 
-*Seria: ICONS · cena Allegro (2026-08-17): 949.99 zł · EAN: 05702018069820 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 949.99 zł · EAN: 05702018069820 · in stock*
 
 LEGO 11378 Icons Samolot pasażerski Douglas DC-3 PAN AM
 
@@ -2051,7 +2051,7 @@ UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 
 ## 11380 — Lego Icons Rower szosowy 11380
 
-*Seria: ICONS · cena Allegro (2026-08-17): 388.99 zł · EAN: 05702018063613 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 388.99 zł · EAN: 05702018063613 · in stock*
 
 **LEGO Icons Rower szosowy 11380**
 
@@ -2081,7 +2081,7 @@ Model roweru szosowego LEGO® w tym 1015-elementowym zestawie ma 60 cm długośc
 
 ## 11381 — Lego Ikony 11381 Jaguar E-Type
 
-*Seria: ICONS · cena Allegro (2026-08-17): 461.99 zł · EAN: 05702018063620 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 461.99 zł · EAN: 05702018063620 · in stock*
 
 LEGO Icons 11381 Jaguar E-Type
  
@@ -2105,7 +2105,7 @@ A dzięki aplikacji LEGO Builder można powiększać i obracać model w 3D oraz 
 
 ## 11382 — Lego Icons 11382 Kosmiczny Teleskop Hubble’a
 
-*Seria: ICONS · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018063637 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018063637 · in stock*
 
 LEGO Icons 11382 Kosmiczny Teleskop Hubble’a
  
@@ -2131,7 +2131,7 @@ Zbuduj ten naukowy model kosmiczny, korzystając ze szczegółowej instrukcji 3D
 
 ## 11383 — * Lego Icons Rezydencja burmistrzyni 11383
 
-*Seria: ICONS · cena Allegro (2026-08-17): 386.89 zł · EAN: 05702018063644 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 386.89 zł · EAN: 05702018063644 · in stock*
 
 LEGO ICONS - Rezydencja burmistrzyni 11383
  
@@ -2162,7 +2162,7 @@ Zanurz się w fascynującym projekcie, konstruując**misternie dopracowane detal
 
 ## 11384 — Lego Icons 11384 Szczeniak Golden Retriever
 
-*Seria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063651 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063651 · in stock*
 
 Odpręż się przy uroczym projekcie dzięki zestawowi konstrukcyjnemu LEGO® Icons Szczeniak golden retriever (11384) dla dorosłych. Ruchoma figurka oddaje urok tej popularnej rasy psów, dlatego zachwyci zarówno miłośników zwierząt, jak i fanów goldenretrieverów. Ustaw głowę, uszy i ogon figurki szczeniaka oraz unieś jego przednią łapkę, aby odtworzyć różne urocze pozy. Otwórz pyszczek, aby odsłonić białe ząbki, i dodaj różowy język, aby nadać mu jeszcze więcej charakteru. Ten uroczy piesek LEGO z ozdobną obrożą i zawieszką będzie cudowną ozdobą każdej przestrzeni. Korzystaj z aplikacji LEGO Builder, powiększając i obracając model w 3D i budując zgodnie ze szczegółowymi cyfrowymi instrukcjami, a jednocześnie zapisując swoje postępy — wszystko to z poziomu aplikacji. Zestaw składa się z 2102 elementów.
 
@@ -2182,7 +2182,7 @@ Odpręż się przy uroczym projekcie dzięki zestawowi konstrukcyjnemu LEGO® Ic
 
 ## 11386 — Lego Icons 11386 SpongeBob Kanciastoporty: Bikini Dolne
 
-*Seria: ICONS · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702018069844 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702018069844 · in stock*
 
 GRATIS!!!  katalog LEGO 2026 i opakowanie prezentowe + niespodzianka
 
@@ -2201,7 +2201,7 @@ Wysyłka zestawu będzie możliwa dopiero po premierze 1 listopada 2026!
 
 ## 11389 — Lego 11389 Icons Projekt Hail Mary
 
-*Seria: ICONS · cena Allegro (2026-08-17): 499.98 zł · EAN: 05702018069226 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 499.98 zł · EAN: 05702018069226 · in stock*
 
 **LEGO Ikony 11389 Odyseja Kosmiczna**
  
@@ -2235,7 +2235,7 @@ Buduj mądrzej z aplikacją LEGO Builder – przybliżaj i obracaj model w 3D, �
 
 ## 30701 — Klocki Lego Botanicals Kwiaty Polne 30701
 
-*Seria: ICONS · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702017818627 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702017818627 · in stock*
 
 PRODUCENT: LEGO
 
@@ -2267,7 +2267,7 @@ Wymiary kwiaty różnią się długością, ale na przykład dmuchawiec ma 19 cm
 
 ## 4000013 — Lego 4000013 Boże Narodzenie rzadki dla pracownika 2013
 
-*Seria: ICONS · cena Allegro (2026-08-17): 465.00 zł · EAN: 00673419216630 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 465.00 zł · EAN: 00673419216630 · in stock*
 
 LEGO 4000013 – A LEGO Christmas Tale
 
@@ -2301,7 +2301,7 @@ Dodatkowo jest specjalny świecący kafel‑kamień, który dodaje uroku całej 
 
 ## 40485 — Klocki Lego Fc Barcelona Celebration 178 elementów
 
-*Seria: ICONS · cena Allegro (2026-08-17): 354.00 zł · EAN: 05702016988505 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 354.00 zł · EAN: 05702016988505 · in stock*
 
 LEGO 40485 Zwycięstwo drużyny FC Barcelona
  
@@ -2329,7 +2329,7 @@ Zestaw klocków LEGO Zwycięstwo drużyny FC Barcelona został zaprezentowany 
 
 ## 40486 — Lego Icons 40486 Mini But Adidas Originals Superstar
 
-*Seria: ICONS · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702016988680 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702016988680 · in stock*
 
 Klocki LEGO Promocyjne 40486 - But adidas Originals Superstar
  
@@ -2343,7 +2343,7 @@ W przypadku jakichkolwiek problemów z płatnością lub innych proszę o inform
 
 ## 40499 — Lego Ideas Sanie Świętego Mikołaja 40499
 
-*Seria: ICONS · cena Allegro (2026-08-17): 122.55 zł · EAN: 05702016995992 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 122.55 zł · EAN: 05702016995992 · in stock*
 
 Sanie Świętego Mikołaja -  LEGO 40499
 
@@ -2357,7 +2357,7 @@ Chcesz, aby odwiedził Cię Mikołaj? Sięgnij po zestaw LEGO® Sanie Świętego
 
 ## 40516 — Lego 40516 Okolicznościowe Każdy jest wspaniały
 
-*Seria: ICONS · cena Allegro (2026-08-17): 178.24 zł · EAN: 05702017106991 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 178.24 zł · EAN: 05702017106991 · in stock*
 
 **LEGO 40516 KAŻDY JEST WSPANIAŁY**
  
@@ -2372,7 +2372,7 @@ Zestaw konstrukcyjny LEGO® Każdy jest wspaniały (40516) to Twój własny symb
 
 ## 40532 — Zestaw Lego Icons 40532 Zabytkowa Londyńska Taksówka
 
-*Seria: ICONS · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017164069 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017164069 · in stock*
 
 ZESTAW LEGO IDEAS - 40532 - ZABYTKOWA LONDYŃSKA TAKSÓWKA
 
@@ -2414,7 +2414,7 @@ LEGO Icons 40532 to idealny zestaw dla osób, które cenią prostotę, styl retr
 
 ## 40579 — Lego 40579 Mieszkanie Eiffla
 
-*Seria: ICONS · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702017241982 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702017241982 · in stock*
 
 LEGO BrickHeadz 40420 - Gru, Stuart i Otto
 
@@ -2434,7 +2434,7 @@ W zestawie LEGO® BrickHeadz™ Gru, Stuart i Otto (40420) **znajdziesz trzy pos
 
 ## 40580 — Klocki Lego Krążownik Blacktron 40580
 
-*Seria: ICONS · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702017422749 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702017422749 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2465,7 +2465,7 @@ Odkryj na nowo klasyczny zestaw LEGO® z lat osiemdziesiątych – Krążownik B
 
 ## 40586 — Lego Icons 40586 Ciężarówka do przeprowadzek
 
-*Seria: ICONS · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017423623 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017423623 · in stock*
 
 Oto zestaw LEGO® Icons Ciężarówka do przeprowadzek (40586) – projekt dla dorosłych, który gwarantuje wiele godzin dobrej zabawy. Zestaw zawiera dwie minifigurki LEGO pracowników, którzy jadą dostarczyć meble do klubu jazzowego. Możesz zmieniać miny minifigurek, aby odgrywać zabawne historie. Ciężarówka ma zdejmowany dach i otwierane drzwi, dzięki czemu w środku zmieszczą się wszystkie akcesoria, w tym szafa grająca i pianino. Ustaw swój model jako ozdobę biura lub domu.
  
@@ -2478,7 +2478,7 @@ Oto zestaw LEGO® Icons Ciężarówka do przeprowadzek (40586) – projekt dla d
 
 ## 40646 — Lego Icons 40747 Żonkile Kwiaty Kwiatki Bukiet Ozdoba Zestaw Klocki
 
-*Seria: ICONS · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017423975 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017423975 · in stock*
 
 LEGO ICONS 40747
 
@@ -2578,7 +2578,7 @@ Każda gałązka żonkila ma po zbudowaniu aż **30 cm długości**, więc pię
 
 ## 40678 — Lego Iconic 40678 Kalendarz Festiwalowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 88.88 zł · EAN: 05702017872063 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 88.88 zł · EAN: 05702017872063 · in stock*
 
 Zainspiruj dzieci do kreatywności i świętuj z nimi dwa różne święta dzięki niesamowitemu zestawowi LEGO® (40678) kalendarz festiwalowy, który stanowi wspaniały prezent dla chłopców i dziewczynek od 10 lat. Ten zestaw kalendarza LEGO pobudza kreatywność i zapewnia od razu **2 zabawne opcje** budowania, które reprezentują 2 ważne święta - Księżycowy Nowy Rok i Festiwal Smoczych Statków.
 
@@ -2600,7 +2600,7 @@ Zainspiruj dzieci do kreatywności i świętuj z nimi dwa różne święta dzię
 
 ## 40680 — Klocki Lego Icons 40680 Kwiaciarnia
 
-*Seria: ICONS · cena Allegro (2026-08-17): 128.99 zł · EAN: 05702017596013 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 128.99 zł · EAN: 05702017596013 · in stock*
 
 LEGO® 40680 Promocyjne - Kwiaciarnia
  
@@ -2614,7 +2614,7 @@ Detale Kwiaciarni LEGO (40680) zachwycą zarówno dorosłych, jak i nastoletnich
 
 ## 40681 — Lego 40681 Food truck retro
 
-*Seria: ICONS · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702017596044 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702017596044 · in stock*
 
 Klocki LEGO Promocyjne 40681 - Food truck retro
 
@@ -2647,7 +2647,7 @@ Zestaw LEGO Promocyjne - Food truck retro trafił do sprzedaży w 2024 roku. N
 
 ## 40684 — Lego 40684 Sklep z Owocami
 
-*Seria: ICONS · cena Allegro (2026-08-17): 335.99 zł · EAN: 05702017597874 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 335.99 zł · EAN: 05702017597874 · in stock*
 
 **LEGO 40684 Sklep z owocami**
 
@@ -2665,7 +2665,7 @@ Wymiary opakowania:
 
 ## 40693 — Lego 40693 Icons Władca pierścieni: Skrzydlata bestia
 
-*Seria: ICONS · cena Allegro (2026-08-17): 799.50 zł · EAN: 05702017598680 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 799.50 zł · EAN: 05702017598680 · in stock*
 
 LEGO 40693 Icons Władca pierścieni: Skrzydlata bestia
 
@@ -2697,7 +2697,7 @@ Odwiedź Śródziemie dzięki zestawowi LEGO® Icons Władca pierścieni™: Sk
 
 ## 40711 — Lego Iconic Piknik pary jeżyków 40711
 
-*Seria: ICONS · cena Allegro (2026-08-17): 42.99 zł · EAN: 05702017596624 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 42.99 zł · EAN: 05702017596624 · in stock*
 
 **LEGO Piknik pary jeżyków 40711**
 
@@ -2725,7 +2725,7 @@ Ten zestaw świetnie sprawdzi się jako prezent na specjalną okazję, w tym tak
 
 ## 40712 — Lego 40712 Stanowisko Startowe Mikrorakiety
 
-*Seria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017611587 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017611587 · in stock*
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2747,7 +2747,7 @@ LEGO 40712 Stanowisko Startowe Mikrorakiety
 
 ## 40721 — Lego 40721 Icons Halloweenowa stodoła
 
-*Seria: ICONS · cena Allegro (2026-08-17): 35.97 zł · EAN: 05702017598543 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 35.97 zł · EAN: 05702017598543 · in stock*
 
 LEGO Icons - Halloweenowa stodoła 40721
 
@@ -2777,7 +2777,7 @@ W zestawie jest także minifigurka szkieletu, która ożywia magię zestawu i po
 
 ## 40729 — Lego Icons 40729 Szalupa Shackletona 232 elementy, Klocki Pomysł
 
-*Seria: ICONS · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702017598765 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702017598765 · in stock*
 
 LEGO® 40729 Szalupa Shackletona
 
@@ -2806,7 +2806,7 @@ DZIEŃ DOBRY :)
 
 ## 40743 — Lego 40743 Świąteczna dekoracja stołu
 
-*Seria: ICONS · cena Allegro (2026-08-17): 97.00 zł · EAN: 05702017597461 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 97.00 zł · EAN: 05702017597461 · in stock*
 
 Stwórz atrakcyjną świąteczną dekorację dzięki zestawowi LEGO® Świąteczna dekoracja stołu (40743) dla chłopców i dziewczynek w wieku od 12 lat.
  
@@ -2825,7 +2825,7 @@ Ciekawy projekt świąteczny przedstawia czerwoną świecę otoczoną czerwonymi
 
 ## 40757 — Lego 40757 Icons Kiosk Na Rogu
 
-*Seria: ICONS · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830179 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830179 · in stock*
 
 LEGO ICONS 40757 Kiosk na rogu w stylu angielskim / NOWY / UNIKAT
 
@@ -2854,7 +2854,7 @@ Przenieś się w czasie i doświadcz uroku minionej epoki, budując zestaw dla d
 
 ## 40761 — Lego 40761 Władca Pierścieni Smeagol I Deagol
 
-*Seria: ICONS · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017830216 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017830216 · in stock*
 
 **LEGO® 40761 ICONS - Władca pierścieni: Sméagol i Déagol**
  
@@ -2882,7 +2882,7 @@ Odwiedź Śródziemie™, budując ten mały dodatek do serii LEGO® Icons Wład
 
 ## 40762 — Lego Icons 40762 Doniczka z rozmaitymi kwiatami
 
-*Seria: ICONS · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017830223 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017830223 · in stock*
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2901,7 +2901,7 @@ Pielęgnuj swoją kreatywność niczym kwiaty i zbuduj piękny zestaw dla doros�
 
 ## 40768 — Lego 40768 Icons Star Trek: TYPE-15 Shuttlepod
 
-*Seria: ICONS · cena Allegro (2026-08-17): 499.45 zł · EAN: 05702017829784 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 499.45 zł · EAN: 05702017829784 · in stock*
 
 Klocki LEGO ICONS 40768 - Star Trek: Type-15 Shuttlepod™
  
@@ -2921,7 +2921,7 @@ Zestaw LEGO ICONS - Star Trek: Type-15 Shuttlepod™ trafił do sprzedaży w 2
 
 ## 40782 — Klocki Lego Diorama z tropikalnym lasem deszczowym 40782
 
-*Seria: ICONS · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017830728 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017830728 · in stock*
 
 LEGO® 40782 Diorama z tropikalnym lasem deszczowym
 
@@ -2939,7 +2939,7 @@ LEGO® Diorama z tropikalnym lasem deszczowym to pierwszy z czterech zestawów k
 
 ## 40808 — Lego Iconic 40808 wielkanocny zajączek, kurczaczek i zbieranie jajek
 
-*Seria: ICONS · cena Allegro (2026-08-17): 23.50 zł · EAN: 05702017830735 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 23.50 zł · EAN: 05702017830735 · in stock*
 
 LEGO® 40808 Poszukiwanie pisanek z zajączkiem i kurczaczkiem
 
@@ -2959,7 +2959,7 @@ Ten zestaw konstrukcyjny to świetny prezent wielkanocny dla dorosłych, dzieci 
 
 ## 40813 — Lego Japoński kot szczęścia 40813
 
-*Seria: ICONS · cena Allegro (2026-08-17): 95.19 zł · EAN: 05702017801988 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 95.19 zł · EAN: 05702017801988 · in stock*
 
 **LEGO Japoński kot Szczęścia 40813**
 
@@ -2977,7 +2977,7 @@ Ten model kota to świetny prezent dla dzieci lub dla każdego, kto obchodzi Św
 
 ## 40814 — Lego Iconic 40814 Słoniątko na niebie
 
-*Seria: ICONS · cena Allegro (2026-08-17): 76.99 zł · EAN: 05702017830667 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 76.99 zł · EAN: 05702017830667 · in stock*
 
 LEGO Iconic 40814 Słoniątko na niebie
  
@@ -2993,7 +2993,7 @@ Ten kreatywny prezent dla dorosłych to świetny sposób na świętowanie narodz
 
 ## 40815 — Lego Ikoniczny 40815 Tort urodzinowy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 38.98 zł · EAN: 05702017830872 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 38.98 zł · EAN: 05702017830872 · in stock*
 
 LEGO Iconic 40815 Tort na przyjęcie urodzinowe
  
@@ -3012,7 +3012,7 @@ Ten zestaw to świetny prezent urodzinowy, którym można się bawić długo po 
 
 ## 40891 — Klocki Lego Stranger Things: Stacja radiowa Wsqk 234 elementy
 
-*Seria: ICONS · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018074121 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018074121 · in stock*
 
 Klocki LEGO Stranger Things: Stacja radiowa WSQK 234 elementy
 
@@ -3029,7 +3029,7 @@ Wkrocz do świata serialu Stranger Things dzięki zestawowi LEGO® Icons dla dor
 
 ## 40913 — 40913 Lego Icons Zabytkowy samochód z parady Nowy Zestaw Klocków
 
-*Seria: ICONS · cena Allegro (2026-08-17): 77.81 zł · EAN: 05702018071656 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 77.81 zł · EAN: 05702018071656 · in stock*
 
 Wyrusz w nostalgiczną podróż twórczą dzięki zestawowi LEGO® Icons Zabytkowy samochód z parady. Ten zestaw dla dorosłych i kolekcjonerów zawiera model zabytkowego samochodu z dużymi tylnymi błotnikami i ozdobnymi czerwonymi proporczykami, oddający kształty i charakter klasycznych samochodów z początku XX wieku. Zestaw zawiera również transparent zawieszony między dwoma latarniami oraz dwie minifigurki z akcesoriami, w tym fajnymi czapkami w kształcie cheeseburgera i pirackiego kapelusza. Zestaw składa się ze 243 elementów.
 
@@ -3044,7 +3044,7 @@ Wyrusz w nostalgiczną podróż twórczą dzięki zestawowi LEGO® Icons Zabytko
 
 ## 41843 — Lego Icons 41843 Rodzinna choinka
 
-*Seria: ICONS · cena Allegro (2026-08-17): 1446.00 zł · EAN: 05702017823133 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 1446.00 zł · EAN: 05702017823133 · in stock*
 
 LEGO ICONS 41843
 
@@ -3070,7 +3070,7 @@ Wspólne budowanie w aplikacji LEGO Builder pozwala znajomym i rodzinie dzielić
 
 ## 5009005 — Lego 5009005 Brama do ogrodu Klocki Zestaw dodatkowy do Ogród Botaniczny
 
-*Seria: ICONS · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702017896847 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702017896847 · in stock*
 
 LEGO 5009005 - Brama do ogrodu
 
@@ -3100,7 +3100,7 @@ Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki 
 
 ## 5009609 — Lego Icons 5009609 Kompas kapitana Jacka Sparrowa
 
-*Seria: ICONS · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702018101582 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702018101582 · in stock*
 
 Wyrusz na morską przygodę z Kompasem kapitana Jacka Sparrowa LEGO®! Chłopcy, dziewczynki i fani Piratów z Karaibów w wieku od 10 lat będą zachwyceni budowaniem i odgrywaniem przygód pełnych akcji dzięki tej małej replice słynnego kompasu z popularnej serii filmów. Kompas ma smycz, dekoracyjny zatrzask i kopułkę, a także otwieraną tarczę, którą można obracać. Zestaw składa się ze 151 elementów.
  
@@ -3113,7 +3113,7 @@ Wyrusz na morską przygodę z Kompasem kapitana Jacka Sparrowa LEGO®! Chłopcy,
 
 ## 5009626 — Lego Małe akwarium 5009626
 
-*Seria: ICONS · cena Allegro (2026-08-17): 147.00 zł · EAN: 05702018112939 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 147.00 zł · EAN: 05702018112939 · in stock*
 
 Zestaw LEGO Inne - Małe akwarium trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 5009626. Zawiera 150 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Inne - Fish Tank. Grupa wiekowa tego produktu to 10+
 
@@ -3121,7 +3121,7 @@ Zestaw LEGO Inne - Małe akwarium trafił do sprzedaży w 2025 roku. Numer kat
 
 ## 80120 — Lego Icons 80120 Karp przeskakujący przez Smoczą Bramę, zestaw klocków 9+
 
-*Seria: ICONS · cena Allegro (2026-08-17): 173.90 zł · EAN: 05702018062722 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 173.90 zł · EAN: 05702018062722 · in stock*
 
 **PRODUCENT**: LEGO
 
@@ -3144,7 +3144,7 @@ Dzieci mogą zbudować symbol przemiany i sukcesu dzięki kreatywnej zabawce LEG
 
 ## 80121 — Lego Chinese Festivals 80121 Stary Zajazd 1530 elementów 9 minifigurek
 
-*Seria: ICONS · cena Allegro (2026-08-17): 528.99 zł · EAN: 05702018062739 · in stock*
+*Kategoria: ICONS · cena Allegro (2026-08-17): 528.99 zł · EAN: 05702018062739 · in stock*
 
 ⭐LEGO® Chinese Festivals 80121 Stary Zajazd | 1530 elementów | 9 minifigurek | Dynastia Song⭐
 

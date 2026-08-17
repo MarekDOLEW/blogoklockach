@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Ideas — opisy produktowe (107 zestawów)
+# LEGO Ideas — opisy produktowe (107 pozycji)
 
 ## 21102 — Klocki Lego Ideas Mikroświat Minecrafta zestaw Las 21102
 
-*Seria: Ideas · cena Allegro (2026-08-17): 543.31 zł · EAN: 00673419188067 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 543.31 zł · EAN: 00673419188067 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -44,7 +44,7 @@ Zestaw klocków LEGO 21102 Micro World: Pierwsza noc został zaprezentowany w 
 
 ## 21103 — Lego Ideas 21103 Back to the Future DeLorean Nowe
 
-*Seria: Ideas · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015064835 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015064835 · in stock*
 
 Klocki LEGO Cuusoo Wehikuł Czasu
  
@@ -64,7 +64,7 @@ Powrót do przyszłości D. L-21103
 
 ## 21108 — Lego Ideas Ghostbusters 21108 Zestaw Samochód Ecto-1
 
-*Seria: Ideas · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702015287593 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702015287593 · in stock*
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -78,7 +78,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 21109 — Lego 21109 Ideas Exo Suit
 
-*Seria: Ideas · cena Allegro (2026-08-17): 649.99 zł · EAN: 00673419222389 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 649.99 zł · EAN: 00673419222389 · in stock*
 
 LEGO 21109 Ideas - Exo Suit
 
@@ -107,7 +107,7 @@ Zestaw zawiera również instrukcje budowania oraz ciekawą broszurę z kosmiczn
 
 ## 21110 — Lego Ideas 21110 Ośrodek Badawczy Nowe
 
-*Seria: Ideas · cena Allegro (2026-08-17): 307.00 zł · EAN: 05702015287616 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 307.00 zł · EAN: 05702015287616 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -135,7 +135,7 @@ Instytut naukowy ma wszystko, czego potrzebujesz, aby badać świat pod nogami, 
 
 ## 21301 — Klocki Lego Ideas Birds Ptaki 21301 Zestaw Kolekcjonerski
 
-*Seria: Ideas · cena Allegro (2026-08-17): 823.00 zł · EAN: 00673419241632 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 823.00 zł · EAN: 00673419241632 · in stock*
 
 LEGO Ideas Birds 21301
 
@@ -159,7 +159,7 @@ Rudzik ma ponad 17 cm wysokości wraz ze stojakiem
 
 ## 21302 — Lego Ideas 21302Teoria Wielkiego Podrywu 484 elementy
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015518895 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015518895 · in stock*
 
 LEGO IDEAS 21302 - TEORIA WIELKIEGO PODRYWU -
 
@@ -173,7 +173,7 @@ Zestaw wysyłany w dodatkowym kartonie i folii zabezpieczającej.
 
 ## 21303 — Lego 21303 Ideas Wall-e Unikat
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1389.99 zł · EAN: 05702015535571 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1389.99 zł · EAN: 05702015535571 · in stock*
 
 **LEGO Ideas 21303 – WALL‑E (wersja oryginalna)**
  
@@ -222,7 +222,7 @@ Zestaw **LEGO Ideas 21303 WALL‑E** to niezwykłe połączenie nostalgii, mecha
 
 ## 21304 — Lego Ideas 21304 Doctor Who
 
-*Seria: Ideas · cena Allegro (2026-08-17): 989.99 zł · EAN: 05702015535588 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 989.99 zł · EAN: 05702015535588 · in stock*
 
 LEGO 21304 Ideas - Doctor Who
 
@@ -249,7 +249,7 @@ Zestaw został zaprojektowany przez fana i wybrany przez społeczność LEGO Ide
 
 ## 21305 — Lego Ideas 21305 Lego 21305 Maze
 
-*Seria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015647090 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015647090 · in stock*
 
 Labirynt z zestawu „2 w 1” można przerobić na labirynt w stylu klasycznym lub średniowiecznym. Można też uruchomić wyobraźnię i budować własne modele do pokonania. Ten klasyczny zestaw został zaprojektowany przez fana klocków LEGO®, Jasona Allemanna z Kanady i wybrany przez członków społeczności LEGO Ideas. Zawiera sterowany pokrętłami mechanizm, który przechyla labirynt i w ten sposób pozwala odpowiednio pokierować kulką, a także zdejmowany pojemnik z 4 pomarańczowymi kulkami oraz blokadę podróżną, która ułatwia transport. Zestaw jest odpowiedni dla osób w wieku od 10 lat, a dzięki ciekawym podpowiedziom projektanta, które znajdują się w dołączonej do niego broszurce, możesz go przebudować tak, żeby jego pokonanie było łatwiejsze lub trudniejsze.
 
@@ -268,7 +268,7 @@ Labirynt z zestawu „2 w 1” można przerobić na labirynt w stylu klasycznym 
 
 ## 21306 — Lego Ideas 21306 Beatles Żółta łódź podwodna
 
-*Seria: Ideas · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702015735049 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702015735049 · in stock*
 
 LEGO Ideas - 21306 The Beatles Żółta łódź podwodna - Nowe
 
@@ -290,7 +290,7 @@ Zbuduj ten niezwykły model LEGO® kultowej żółtej łodzi podwodnej ze słynn
 
 ## 21307 — Lego Ideas 21307 Caterham Seven Unikat Kolekcjonerski
 
-*Seria: Ideas · cena Allegro (2026-08-17): 898.99 zł · EAN: 05702015870559 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 898.99 zł · EAN: 05702015870559 · in stock*
 
 LEGO Caterham Seven 620R 21307
  
@@ -310,7 +310,7 @@ Zbuduj wystawowy model stylowego samochodu Caterham Seven 620R z klocków LEGO. 
 
 ## 21308 — Lego 21308 Adventure Time
 
-*Seria: Ideas · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702015879668 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702015879668 · in stock*
 
 Oryginalne, nienaruszone opakowanie
 
@@ -330,7 +330,7 @@ Przybliżone wymiary opakowania: 26 x 19 x 6 cm
 
 ## 21309 — Lego Ideas 21309 Rakieta Nasa Apollo Saturn V
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702016000078 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702016000078 · in stock*
 
 LEGO IDEAS RAKIETA NASA Apollo Saturn V 21309
  
@@ -347,7 +347,7 @@ Jest to pierwsza edycja pod nr 21309
 
 ## 21310 — Lego Ideas 21310 Stary sklep wędkarski Opis
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016041057 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016041057 · in stock*
 
 W starym sklepie wędkarskim znajdziesz cały sprzęt, potrzebny do zorganizowania fantastycznej wyprawy na ryby. Wejdź po schodkach z plaży i zajrzyj do środka. Znajdziesz w nim wędki, haczyki, harpuny, sprzęt do nurkowania, butle z tlenem i nie tylko. Po drabinie możesz wspiąć się na szczyt wieży obserwacyjnej i skorzystać z teleskopu by podziwiać widoki. Potem rozsiądź się wygodnie w biurze i zrelaksuj czytając gazetę. Tylko uważaj, żeby kot lub mewy nie dobrały się do świeżo złowionych ryb wiszących na zewnątrz.
 
@@ -370,7 +370,7 @@ Niżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
 ## 21311 — Klocki Lego Ideas Zestaw Robot Voltron Legendarny obrońca 21311
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1849.00 zł · EAN: 05702016068726 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1849.00 zł · EAN: 05702016068726 · in stock*
 
 Klocki LEGO Ideas Zestaw Voltron 21311Czas obronić wszechświat przed niebezpieczeństwem z zestawem** LEGO Ideas 21311 Voltron** — największym jak do tej pory robotem zbudowanym z LEGO. Ten wspaniały zestaw zawiera ruchome lwy do zbudowania: czarnego, niebieskiego, żółtego, czerwonego i zielonego. Figurki mają specjalnie zaprojektowane, supersilne złącza, dzięki którym można połączyć je w potężnego robota Voltrona. W komplecie jest też ogromny miecz i tarcza, które doskonale pasują do dłoni Voltrona. XX wieku oraz nowego serialu wytwórni DreamWorks „Voltron: Legendarny obrońca”.
 
@@ -400,7 +400,7 @@ Tarcza Voltrona ma ok. 16 cm średnicy.
 
 ## 21312 — Lego Ideas 21312 Kobiety z Nasa
 
-*Seria: Ideas · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702016108453 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702016108453 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -448,7 +448,7 @@ Odkryj zawody kilku genialnych kobiet zajmujących się nauką, technologią, in
 
 ## 21314 — Lego Ideas 21314 Tron Legacy Dziedzictwo
 
-*Seria: Ideas · cena Allegro (2026-08-17): 427.95 zł · EAN: 05702016173772 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 427.95 zł · EAN: 05702016173772 · in stock*
 
 LEGO Ideas 21314 TRON: Legacy
 
@@ -479,7 +479,7 @@ Zdjęcia poglądowe
 
 ## 21317 — Lego Ideas 21317 Parowiec Willie Nowe
 
-*Seria: Ideas · cena Allegro (2026-08-17): 565.00 zł · EAN: 05702016501995 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 565.00 zł · EAN: 05702016501995 · in stock*
 
 LEGO ® 21317 Ideas Parowiec Willie
  
@@ -503,7 +503,7 @@ Do tego kreatywnego zestawu konstrukcyjnego LEGO® Ideas dołączona jest broszu
 
 ## 21318 — Lego Ideas 21318 Domek na drzewie
 
-*Seria: Ideas · cena Allegro (2026-08-17): 947.99 zł · EAN: 05702016554205 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 947.99 zł · EAN: 05702016554205 · in stock*
 
 Klocki LEGO® 21318 Ideas Domek na drzewie
 
@@ -531,7 +531,7 @@ Zestaw jest przeznaczony dla osób w wieku od 16 lat. To złożony model dla do�
 
 ## 21319 — Klocki Lego Ideas Zestaw Friends Centralny Perk 21319
 
-*Seria: Ideas · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016603842 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016603842 · in stock*
 
 Klocki LEGO IDEAS FRIENDS
 
@@ -543,7 +543,7 @@ Ten miniaturowy budynek wiernie oddaje wszystkie detale, które mogliśmy zobacz
 
 ## 21320 — Klocki Lego Ideas Zestaw Szkielety dinozaurów 21320
 
-*Seria: Ideas · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702016615586 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702016615586 · in stock*
 
 **Kolekcjonerski zestaw LEGO Ideas Szkielety dinozaurów** — doskonały do postawienia na półce!
 
@@ -567,7 +567,7 @@ Dowiedz się, jak wyglądało życie na Ziemi miliony lat temu, budując przy ok
 
 ## 21321 — Klocki Lego Ideas Zestaw Międzynarodowa Stacja Kosmiczna Nasa Iss 21321
 
-*Seria: Ideas · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016719062 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016719062 · in stock*
 
 **Klocki LEGO Ideas Zestaw Międzynarodowa Stacja Kosmiczna NASA ISS 21321**
 
@@ -587,7 +587,7 @@ Zestaw liczy 864 elementy i dostarczy mnóstwa kreatywnej zabawy — w pojedynk�
 
 ## 21322 — Lego Ideas 21322 Piraci z Zatoki Barakud
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1679.00 zł · EAN: 05702016819601 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1679.00 zł · EAN: 05702016819601 · in stock*
 
 - Zbuduj model wyspy z wrakiem z zestawu LEGO® Ideas Piraci z Zatoki Barakud (21322) do zabawy lub postawienia na półce. Wyspę można podzielić, a jej części przestawić, by odsłonić ukryty skarb piratów.
 - W zestawie jest osiem minifigurek, w tym Kapitan Rudobrody, Lady Kotwica, Robin Łup oraz bliźniaki Grot i Szot. Dodajmy do tego rekina, świnkę, dwie papugi, trzy kraby, dwie żaby i dwie figurki szkieletów, a zabawa na pewno będzie udana.
@@ -599,7 +599,7 @@ Zestaw liczy 864 elementy i dostarczy mnóstwa kreatywnej zabawy — w pojedynk�
 
 ## 21323 — Lego Ideas 21323
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702016756401 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702016756401 · in stock*
 
 Znajdź chwilę dla siebie i daj koncert kreatywności, budując świetny fortepian LEGO® Ideas do grania pięknej muzyki lub postawienia na półce. Ten nowatorski model ma silnik i działające klawisze. Podłącz go do aplikacji LEGO Powered UP i naciskaj klawisze samodzielnie albo posłuchaj muzyki odtwarzanej automatycznie. Nie ma na co czekać! Łap klocki i zacznij budowę arcydzieła LEGO!
  
@@ -639,7 +639,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 21324 — Lego Ideas 21324 123 Ulica Sezamkowa (123 Sesame Street)
 
-*Seria: Ideas · cena Allegro (2026-08-17): 700.00 zł · EAN: 05702016819953 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 700.00 zł · EAN: 05702016819953 · in stock*
 
 Już od ponad 50 lat Ulica Sezamkowa jest ulubionym serialem familijnym wielu ludzi na świecie. Dzięki zestawowi LEGO Ideas 21324 dla dorosłych teraz również i Ty możesz stworzyć kolorowy model 123 Sesame Street z klocków LEGO, aby jeszcze raz przeżyć klasyczne momenty z serialu.
  
@@ -667,7 +667,7 @@ Ten modelowy zestaw jest częścią kolekcji zestawów LEGO, dzięki którym dor
 
 ## 21325 — Zestaw Lego Ideas Średniowieczna kuźnia 21325 2164 el.
 
-*Seria: Ideas · cena Allegro (2026-08-17): 820.00 zł · EAN: 05702016911985 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 820.00 zł · EAN: 05702016911985 · in stock*
 
 LEGO Ideas Średniowieczna kuźnia 2164 el. 21325
  
@@ -685,7 +685,7 @@ Minifigurki i nie tylko Zestaw zawiera cztery minifigurki, dzięki którym model
 
 ## 21327 — Lego 21327 Ideas Maszyna do pisania
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1440.00 zł · EAN: 05702016995831 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1440.00 zł · EAN: 05702016995831 · in stock*
 
 LEGO Maszyna do pisania 21327
  
@@ -717,7 +717,7 @@ Ten model jest częścią serii wysokiej jakości zestawów konstrukcyjnych LEGO
 
 ## 21328 — Lego Ideas 21328 Seinfeld
 
-*Seria: Ideas · cena Allegro (2026-08-17): 358.00 zł · EAN: 05702016995756 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 358.00 zł · EAN: 05702016995756 · in stock*
 
 LEGO IDEAS
  
@@ -751,7 +751,7 @@ Tę cudowną, kolekcjonerską pamiątkę możesz zbudować solo albo z przyjaci�
 
 ## 21329 — Klocki Lego Ideas Zestaw Gitara Elektryczna Fender Stratocaster 21329
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702017071978 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702017071978 · in stock*
 
 **Klocki LEGO Ideas Zestaw Gitara Elektryczna Fender Stratocaster 21329**
 
@@ -769,7 +769,7 @@ Gitara ma ok. 36 cm długości, 11 cm szerokości i 3 cm grubości. Ten kolekcjo
 
 ## 21330 — Klocki Lego Home Alone 21330 3955 elementów 18+
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1163.55 zł · EAN: 05702017006178 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1163.55 zł · EAN: 05702017006178 · in stock*
 
 Sięgnij po zestaw LEGO® Ideas Sam w domu (21330), by jeszcze raz przeżyć sceny z komedii, przy której w każde święta zaśmiewały się całe rodziny. Dom McCallisterów jest pełen elementów, które natychmiast rozpoznasz, oraz wspaniałych funkcji, które ułatwiają odgrywanie zabawnych scenek. W zestawie jest wszystko, co potrzebne do pokazania sceny udawanej imprezy świątecznej Kevina, a także piwniczny piec ze świecącym klockiem LEGO, funkcja upuszczania żelazka, kołyszące się puszki z farbami, zapadające się półki, lina ze strychu do domku na drzewie i wiele innych szczegółów. Każdy poziom domu można odłączyć, a ściany i dach otwierają się, by łatwiej było sięgnąć do środka.
  
@@ -791,7 +791,7 @@ Najlepszy prezent na Boże Narodzenie W pudełku czeka na Ciebie pięć minifigu
 
 ## 21331 — Lego Ideas 21331 Sonic The Hedgehog Green Hill Zone
 
-*Seria: Ideas · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017153124 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017153124 · in stock*
 
 LEGO Ideas 21331 Sonic The Hedgehog Strefa Zielonego Wzgórza
  
@@ -820,7 +820,7 @@ Oddaj cześć ikonie popkultury i odwzoruj rozgrywkę z klasycznej gry dzięki z
 
 ## 21332 — Lego Ideas 21332 Globus Kula Ziemska Zestaw
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1260.00 zł · EAN: 05702017153742 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1260.00 zł · EAN: 05702017153742 · in stock*
 
 LEGO Ideas 21332 Globus – 2585 elementów
 
@@ -878,7 +878,7 @@ Specyfikacja produktu
 
 ## 21333 — Lego Ideas 21333 Gwiaździsta noc Vincenta van Gogha
 
-*Seria: Ideas · cena Allegro (2026-08-17): 632.90 zł · EAN: 05702017189840 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 632.90 zł · EAN: 05702017189840 · in stock*
 
 LEGO Ideas 21333 Gwiaździsta noc Vincenta van Gogha
 
@@ -892,7 +892,7 @@ Bez względu na to, czym się pasjonujesz, znajdziesz tu model idealnie dla sieb
 
 ## 21334 — Lego 21334 Ideas Kwartet Jazzowy
 
-*Seria: Ideas · cena Allegro (2026-08-17): 874.99 zł · EAN: 05702017239477 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 874.99 zł · EAN: 05702017239477 · in stock*
 
 Klocki LEGO Ideas 21334 - Kwartet Jazzowy
 
@@ -944,7 +944,7 @@ Zestaw LEGO Ideas - Kwartet Jazzowy trafił do sprzedaży w 2022 roku. Numer kat
 
 ## 21335 — Lego Ideas 21335 Zmechanizowana latarnia
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017189925 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017189925 · in stock*
 
 LEGO Ideas 21335 Zmechanizowana latarnia – 2065 elementów
 
@@ -1006,7 +1006,7 @@ Najważniejsze cechy
 
 ## 21336 — Outlet Lego 21336 The Office Ideas biuro
 
-*Seria: Ideas · cena Allegro (2026-08-17): 859.99 zł · EAN: 05702017261157 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 859.99 zł · EAN: 05702017261157 · in stock*
 
 Klocki LEGO Ideas 21336 - The Office
 
@@ -1023,7 +1023,7 @@ W zestawie jest 15 minifigurek LEGO: Michael Scott, Dwight Schrute, Jim Halpert,
 
 ## 21337 — Lego 21337 Ideas Piłkarzyki
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702017247014 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702017247014 · in stock*
 
 **PRZEDSPRZEDAŻ!**
  
@@ -1046,7 +1046,7 @@ Zagrajcie razem. Każda drużyna prowadzi rozgrywkę za pomocą dwu prowadnic, n
 
 ## 21338 — Lego 21338 Ideas Chatka w kształcie litery A
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1034.99 zł · EAN: 05702017417448 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1034.99 zł · EAN: 05702017417448 · in stock*
 
 Klocki LEGO Ideas 21338 - Chatka w kształcie litery A
 
@@ -1100,7 +1100,7 @@ Zestaw LEGO Ideas - Chatka w kształcie litery A trafił do sprzedaży w 2023 
 
 ## 21339 — Klocki 21339 Lego Dynamite Bts 749 elementów
 
-*Seria: Ideas · cena Allegro (2026-08-17): 409.90 zł · EAN: 05702017417462 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 409.90 zł · EAN: 05702017417462 · in stock*
 
 LEGO Ideas 21339 BTS Dynamite
 
@@ -1123,7 +1123,7 @@ Odkrywaj zestawy LEGO dla dorosłych – starannie dobraną kolekcję niesamowit
 
 ## 21340 — Lego Ideas 21340 Opowieści z czasów wyścigu kosmicznego
 
-*Seria: Ideas · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017452135 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017452135 · in stock*
 
 LEGO® 21340 Opowieści z czasów wyścigu kosmicznego
 
@@ -1152,7 +1152,7 @@ Odkrywaj zestawy LEGO dla dorosłych i starannie dobraną kolekcję niesamowityc
 
 ## 21341 — Zestaw klocków Lego Ideas Disney Hokus Pokus: Chata sióstr Sanderson 21341
 
-*Seria: Ideas · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702017452142 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702017452142 · in stock*
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -1185,7 +1185,7 @@ Doskonały pomysł na prezent na Halloween dla fanów komedii fantastycznej. Zes
 
 ## 21343 — Lego Ideas Wioska Wikingów 21343
 
-*Seria: Ideas · cena Allegro (2026-08-17): 564.90 zł · EAN: 05702017497884 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 564.90 zł · EAN: 05702017497884 · in stock*
 
 **LEGO Ideas Wioska Wikingów 21343**
 
@@ -1223,7 +1223,7 @@ Witaj w swoim zakątku. Zestawy LEGO dla dorosłych to starannie dobrana kolekcj
 
 ## 21344 — Lego Pociąg Orient Express 21344 2540 elementów
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702017497891 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702017497891 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1255,7 +1255,7 @@ W zestawie jest też osiem minifigurek LEGO, w tym naczelnik stacji kolejowej, k
 
 ## 21345 — Zestaw Klocki Lego Ideas 21345 Aparat Polaroid One Steop SX-70
 
-*Seria: Ideas · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017599113 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017599113 · in stock*
 
 ZESTAW KLOCKI LEGO IDEAS 21345 APARAT POLAROID ONE STEOP SX-70
 
@@ -1285,7 +1285,7 @@ Odpręż się, tworząc kultowe elementy, takie jak wizjer, spektrum kolorów i 
 
 ## 21346 — Lego Ideas 21346 Rodzinne drzewo
 
-*Seria: Ideas · cena Allegro (2026-08-17): 427.69 zł · EAN: 05702017599120 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 427.69 zł · EAN: 05702017599120 · in stock*
 
 **LEGO® Ideas 21346 Rodzinne drzewo**
  
@@ -1314,7 +1314,7 @@ W pudełku i w aplikacji LEGO Builder znajdziesz szczegółowe instrukcje budowa
 
 ## 21347 — 21347 Lego Ideas Czerwona londyńska budka telefoniczn Kolekcjonerski Zestaw
 
-*Seria: Ideas · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702017599137 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702017599137 · in stock*
 
 Budka w tym kolekcjonerskim zestawie konstrukcyjnym LEGO Ideas dla dorosłych znajduje się w otoczeniu typowej londyńskiej scenerii: brukowana ulica do zbudowania, latarnia, wiszące kosze z kwiatami, doniczka i ogrodzenie z tabliczką z nazwą ulicy. Całość idealnie sprawdzi się jako ozdoba do domu lub biura.
 
@@ -1329,7 +1329,7 @@ Nie masz jeszcze doświadczenia w budowaniu zestawów LEGO? Nie szkodzi! W pude�
 
 ## 21348 — Zestaw klocków Lego Ideas Dungeons&Dragons: Opowieść czerwonego smoka 21348
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1474.09 zł · EAN: 05702017599144 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1474.09 zł · EAN: 05702017599144 · in stock*
 
 Przenieś się do Zapomnianych Krain dzięki zestawowi LEGO Ideas Dungeons & Dragons: Opowieść czerwonego smoka (21348). Ten nostalgiczny prezent ze świata D&D dla kreatywnych dorosłych zawiera tawernę do zbudowania ze zdejmowanym dachem i górnym poziomem ułatwiającym dostęp, loch i wieżę, a także ruchomą figurkę smoka Popielnego Skowyta, którą można owinąć wokół wieży. W zestawie jest także sześć minifigurek LEGO — czworo odważnych poszukiwaczy przygód, karczmarz i smocze dziecię — a także mnóstwo figurek potworów, w tym beholdera, sowodźwiedzia i złudnej bestii. Każda minifigurka, z wyjątkiem Alaxa Nefrytowe Łuski, ma dodatkową głowę, dzięki czemu możesz wybrać wygląd postaci.
 
@@ -1351,7 +1351,7 @@ Ten zestaw konstrukcyjny dla dorosłych powstał we współpracy z wydawnictwem 
 
 ## 21349 — Lego Ideas 21349 Czarno-biały Kot Tuxedo Cat 1710 elementów
 
-*Seria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017599670 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017599670 · in stock*
 
 **LEGO Ideas 21349 – Czarno-biały kot**
 
@@ -1387,7 +1387,7 @@ Model świetnie prezentuje się na komodzie, półce lub biurku. To doskonały p
 
 ## 21350 — Lego Ideas Szczęki 21350
 
-*Seria: Ideas · cena Allegro (2026-08-17): 654.99 zł · EAN: 05702017599700 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 654.99 zł · EAN: 05702017599700 · in stock*
 
 **LEGO Ideas Szczęki 21350**
 
@@ -1417,7 +1417,7 @@ Ilustrowane instrukcje budowania znajdują się w pudełku i w aplikacji LEGO Bu
 
 ## 21351 — Lego Ideas Disney Miasteczko Halloween Tima Burtona 21351
 
-*Seria: Ideas · cena Allegro (2026-08-17): 783.31 zł · EAN: 05702017599717 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 783.31 zł · EAN: 05702017599717 · in stock*
 
 Miasteczko Halloween Tima Burtona
 
@@ -1443,7 +1443,7 @@ Poczuj nostalgię za klasycznym filmem Tima Burtona, budując dioramę LEGO® Id
 
 ## 21352 — Lego Ideas Magia Disneya 21352 Lego Na Co Dzień +18 Lat
 
-*Seria: Ideas · cena Allegro (2026-08-17): 390.72 zł · EAN: 05702017599748 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 390.72 zł · EAN: 05702017599748 · in stock*
 
 ✳✳✳ LEGO IDEAS MAGIA DISNEYA 21352 ✳✳✳
 
@@ -1517,7 +1517,7 @@ Ten 1103-elementowy model zbudowany z klocków ma 19 cm wysokości, 27 cm szero
 
 ## 21353 — Klocki Lego Ideas Zestaw Ogród botaniczny 21353 Okazja!
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017599786 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017599786 · in stock*
 
 LEGO Ideas 21353 - Ogród botaniczny
  
@@ -1551,7 +1551,7 @@ Ożyw ten model kolekcjonerski dla dorosłych za pomocą 12 minifigurek LEGO, w 
 
 ## 21354 — Klocki Lego Ideas Twilight Zmierzch Dom Cullenów (The Cullen House)
 
-*Seria: Ideas · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702017829227 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702017829227 · in stock*
 
 **LEGO 21354 Zmierzch - dom Cullenów**
  
@@ -1577,7 +1577,7 @@ W pudełku i aplikacji LEGO Builder (która oferuje też narzędzia do podglądu
 
 ## 21355 — Lego Ideas Ewolucja przedmiotów ścisłych Rozwój Stem 21355
 
-*Seria: Ideas · cena Allegro (2026-08-17): 314.62 zł · EAN: 05702017824871 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 314.62 zł · EAN: 05702017824871 · in stock*
 
 LEGO Ideas Ewolucja przedmiotów ścisłych Rozwój STEM 21355
 
@@ -1595,7 +1595,7 @@ Instrukcje budowania znajdują się w pudełku i w aplikacji LEGO Builder, aby p
 
 ## 21356 — Lego Ideas 21356 Parowiec rzeczny
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1095.00 zł · EAN: 05702017829234 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1095.00 zł · EAN: 05702017829234 · in stock*
 
 LEGO IDEAS 21356
 
@@ -1619,7 +1619,7 @@ Model ma 40 cm wysokości, 69 cm długości i 15 cm szerokości.
 
 ## 21357 — Klocki Lego Ideas 21357 Luxo Jr. Disney Pixar 613 el. dla dorosłych
 
-*Seria: Ideas · cena Allegro (2026-08-17): 204.98 zł · EAN: 05702017829241 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 204.98 zł · EAN: 05702017829241 · in stock*
 
 Klocki LEGO Ideas 21357 Luxo Jr. Disney Pixar 613 el. dla dorosłych
 
@@ -1647,7 +1647,7 @@ Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO Builder, która po
 
 ## 21358 — Klocki Lego Ideas 21358 Maszyna z minifigurkami #066 Vending Machine 1343el
 
-*Seria: Ideas · cena Allegro (2026-08-17): 639.99 zł · EAN: 05702017828367 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 639.99 zł · EAN: 05702017828367 · in stock*
 
 Klocki LEGO Ideas 21358 Maszyna z minifigurkami #066 Vending Machine
 
@@ -1676,7 +1676,7 @@ W budowaniu pomogą Ci instrukcje, które znajdziesz w pudełku lub intuicyjnej 
 
 ## 21359 — Lego Ideas 21359 Włoska riwiera
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1008.99 zł · EAN: 05702017829272 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1008.99 zł · EAN: 05702017829272 · in stock*
 
 Odtwórz ponadczasowe piękno Włoskiej Riwiery dzięki temu zestawowi konstrukcyjnemu dla dorosłych LEGO® Ideas (21359). Ten zachwycający prezent dla miłośników włoskiej kultury, kolekcjonerów LEGO i każdego, kto pasjonuje się podróżami, architekturą i historią, oddaje sielską atmosferę, żywe kolory i misterne detale architektoniczne typowej liguryjskiej wioski rybackiej.
  
@@ -1694,7 +1694,7 @@ Podnieś dachy i górne piętra trzech budynków, aby zobaczyć bardzo szczegó�
 
 ## 21360 — Klocki Lego Ideas 21360 Willy Wonka i fabryka czekolady #068 2025 elementów
 
-*Seria: Ideas · cena Allegro (2026-08-17): 769.90 zł · EAN: 05702017836409 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 769.90 zł · EAN: 05702017836409 · in stock*
 
 Klocki LEGO Ideas 21360 Willy Wonka i fabryka czekolady #068
 
@@ -1720,7 +1720,7 @@ Ten zestaw LEGO Ideas to wspaniały, nostalgiczny prezent dla miłośników film
 
 ## 21361 — Lego Ideas 21361 Gremliny rozrabiają: Gizmo – Kolekcjonerska Figurka
 
-*Seria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017829289 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017829289 · in stock*
 
 ✨Zestaw **LEGO Ideas Gizmo (21361)** to wyjątkowa propozycja dla fanów kultowego filmu Gremliny rozrabiają. Model przedstawia uroczego mogwaia w wersji z klocków LEGO i zachwyca licznymi detalami oraz możliwością ustawiania w różnych pozach. Figurka posiada ruchome elementy – głowę, uszy, ręce i stopy – dzięki czemu można ją dowolnie aranżować. Dodatkowe akcesoria, takie jak okulary 3D czy efekt „chlapiącej wody”, podkreślają filmowy charakter zestawu i czynią go idealną ozdobą kolekcjonerską.✨
 
@@ -1793,7 +1793,7 @@ głębokość: ok. 8 cm
 
 ## 21362 — Lego Ideas Kolekcja minerałów 21362
 
-*Seria: Ideas · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017829296 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017829296 · in stock*
 
 **LEGO Ideas Kolekcja minerałów 21362**
 
@@ -1823,7 +1823,7 @@ Ten model do zbudowania i ozdoby ma 28 cm szerokości
 
 ## 21363 — Lego Ideas 21363 Goonies
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1349.99 zł · EAN: 05702017824888 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1349.99 zł · EAN: 05702017824888 · in stock*
 
 Przeżyj na nowo przygodę z filmu Goonies dzięki kolekcjonerskiemu zestawowi dla dorosłych LEGO® Ideas (21363). Diorama zawiera zbudowane z klocków kultowe sceny z filmu z lat 80. — od kryjówki i jaskiń Fratellich po skarbiec Jednookiego Willy’ego. Obróć model, aby zobaczyć szczegółową rekonstrukcję zewnętrznej części wraku pirackiego statku Inferno.
 
@@ -1844,7 +1844,7 @@ Ten model w kształcie pirackiego statku świetnie sprawdzi się jako prezent dl
 
 ## 21365 — Klocki Lego Papuga Papużki Nierozłączki 21365 Icons Ideas
 
-*Seria: Ideas · cena Allegro (2026-08-17): 214.57 zł · EAN: 05702018066737 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 214.57 zł · EAN: 05702018066737 · in stock*
 
 Klocki LEGO Papuga Papużki Nierozłączki 21365 Icons Ideas Prezent
 
@@ -1896,7 +1896,7 @@ Jego **kompaktowe wymiary** (22 cm wysokości, 31 cm szerokości, 17 cm głębok
 
 ## 21366 — Lego Ideas 21366 Pływające wydry
 
-*Seria: Ideas · cena Allegro (2026-08-17): 373.99 zł · EAN: 05702018066287 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 373.99 zł · EAN: 05702018066287 · in stock*
 
 LEGO Ideas 21366 Pływające wydry
  
@@ -1921,7 +1921,7 @@ Ten zestaw, zawierający 1234 elementy, to świetny prezent dla miłośników zw
 
 ## 21367 — Lego Ideas Tintin i rakieta na Księżyc 21367
 
-*Seria: Ideas · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702018066294 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702018066294 · in stock*
 
 **LEGO Ideas Tintin i rakieta na Księżyc 21367**
 
@@ -1951,7 +1951,7 @@ Model rakiety ma 49 cm wysokości
 
 ## 21368 — Lego Ideas 21368 Fistaszki: Buda Snoopy’ego
 
-*Seria: Ideas · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702018066300 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702018066300 · in stock*
 
 LEGO Ideas 21368 Fistaszki: Buda Snoopy’ego
  
@@ -1975,7 +1975,7 @@ Wspaniały prezent dla fanów Fistaszków i kolekcjonerów gadżetów ze Snoopym
 
 ## 21369 — Lego Ideas 21369 Z Archiwum X The X-Files Nowy
 
-*Seria: Ideas · cena Allegro (2026-08-17): 937.99 zł · EAN: 05702018066317 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 937.99 zł · EAN: 05702018066317 · in stock*
 
 Z Archiwum X
 
@@ -1989,7 +1989,7 @@ Ten zestaw to świetny pomysł na prezent o tematyce science-fiction dla dorosł
 
 ## 21370 — Lego Ideas E.t. the Extra-Terrestrial 21370
 
-*Seria: Ideas · cena Allegro (2026-08-17): 429.98 zł · EAN: 05702018066324 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 429.98 zł · EAN: 05702018066324 · in stock*
 
 **LEGO Ideas E.T. the Extra-Terrestrial 21370**
 
@@ -2019,7 +2019,7 @@ Zestaw składa się z 1226 elementów i ma 24 cm wysokości
 
 ## 21372 — Lego 21372 Ideas La Catrina
 
-*Seria: Ideas · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702018066331 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702018066331 · in stock*
 
 LEGO IDEAS - La Catrina 21372
  
@@ -2052,7 +2052,7 @@ Wzbogać swoje doświadczenie budowania dzięki aplikacji LEGO Builder - powięk
 
 ## 21376 — Lego Ideas 21376 Rudy kot
 
-*Seria: Ideas · cena Allegro (2026-08-17): 392.92 zł · EAN: 05702018069769 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 392.92 zł · EAN: 05702018069769 · in stock*
 
 Klocki LEGO Ideas 21376 - Rudy kot
  
@@ -2072,7 +2072,7 @@ Stwórz uroczą dekorację z klocków LEGO® przedstawiającą rudego kota dzię
 
 ## 4002018 — Lego Ideas 4002018 Years Lego Minifigure Employee Exclusive
 
-*Seria: Ideas · cena Allegro (2026-08-17): 850.00 zł · EAN: 00673419268301 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 850.00 zł · EAN: 00673419268301 · in stock*
 
 **..............................................LEGOLD...............................................................**
  
@@ -2088,7 +2088,7 @@ Stwórz uroczą dekorację z klocków LEGO® przedstawiającą rudego kota dzię
 
 ## 40179 — Lego 40179 Kreator mozaik portret
 
-*Seria: Ideas · cena Allegro (2026-08-17): 545.99 zł · EAN: 00673419276795 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 545.99 zł · EAN: 00673419276795 · in stock*
 
 Nazwa angielska: Personalised Mosaic Portrait
 
@@ -2118,7 +2118,7 @@ Zestaw LEGO Promocyjne - Kreator mozaik trafił do sprzedaży w 2016 roku. Num
 
 ## 40223 — Lego Ideas 40223 Lego Śnieżna kula 40223
 
-*Seria: Ideas · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702015595452 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702015595452 · in stock*
 
 **LEGO Seasonal Śnieżna Kula 40223 – KOLEKCJONERSKI ZESTAW**
 
@@ -2156,7 +2156,7 @@ Dzięki ruchomym elementom i efektowi wirującego śniegu zestaw zachwyca zarów
 
 ## 40335 — Lego Ideas Zabawkowa rakieta kosmiczna 40335
 
-*Seria: Ideas · cena Allegro (2026-08-17): 134.49 zł · EAN: 05702016371185 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 134.49 zł · EAN: 05702016371185 · in stock*
 
 LEGO 40335 Ideas rakieta kosmiczna Space Rocket Ride
  
@@ -2197,7 +2197,7 @@ Producent: LEGO
 
 ## 40416 — Lego 40416 Seasonal Christmas Lodowisko Choinka
 
-*Seria: Ideas · cena Allegro (2026-08-17): 144.00 zł · EAN: 05702016720129 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 144.00 zł · EAN: 05702016720129 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -2211,7 +2211,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40448 — Lego Ideas 40448 Zabytkowy samochód
 
-*Seria: Ideas · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702016910971 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702016910971 · in stock*
 
 LEGO IDEAS 40448 Zabytkowy Samochód
 
@@ -2225,7 +2225,7 @@ Fani LEGO® z wielką radością zbudują model, który zwyciężył w konkursie
 
 ## 40487 — Zestaw Lego Ideas 40487 Przygoda Na Żaglowcu
 
-*Seria: Ideas · cena Allegro (2026-08-17): 183.95 zł · EAN: 05702016988451 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 183.95 zł · EAN: 05702016988451 · in stock*
 
 ZESTAW LEGO IDEAS - 40487 - PRZYGODA NA ŻAGLOWCU
 
@@ -2267,7 +2267,7 @@ Zestaw LEGO Ideas 40487 to świetny wybór na prezent dla każdego, kto uwielbia
 
 ## 40523 — Lego Ideas 40523 Zajączki wielkanocne
 
-*Seria: Ideas · cena Allegro (2026-08-17): 108.74 zł · EAN: 05702017166223 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 108.74 zł · EAN: 05702017166223 · in stock*
 
 LEGO Ideas 40523 Zajączki wielkanocne
 
@@ -2303,7 +2303,7 @@ Zestaw LEGO Okolicznościowe - Zajączki wielkanocne trafił do sprzedaży w 202
 
 ## 40530 — Lego 40530 Hołd dla Jane Goodall
 
-*Seria: Ideas · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702017164045 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702017164045 · in stock*
 
 Klocki LEGO Promocyjne 40530 - Hołd dla Jane Goodall
 
@@ -2317,7 +2317,7 @@ Uczcij osiągnięcia jednej z najsłynniejszych etolożek i działaczek na rzecz
 
 ## 40533 — Lego 40533 Przygody statku Uss Cardboard
 
-*Seria: Ideas · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017166872 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017166872 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -2331,7 +2331,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40566 — Klocki Lego Rozbitek Ray 40566 239 elementów 18+
 
-*Seria: Ideas · cena Allegro (2026-08-17): 173.99 zł · EAN: 05702016608816 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 173.99 zł · EAN: 05702016608816 · in stock*
 
 **LEGO Ideas 40566 Rozbitek Ray**
 
@@ -2346,7 +2346,7 @@ Ucieknij od codzienności i odwiedź Rozbitka Raya, który zamieszkał na zbudow
 
 ## 40595 — Lego Ideas 40595 Hołd dla Galileusza
 
-*Seria: Ideas · cena Allegro (2026-08-17): 241.00 zł · EAN: 05702017470450 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 241.00 zł · EAN: 05702017470450 · in stock*
 
 LEGO Ideas 40595 Hołd dla Galileusz
  
@@ -2362,7 +2362,7 @@ Zestaw LEGO Ideas - Hołd dla Galileusza trafił do sprzedaży w 2023 roku. Nu
 
 ## 40634 — Lego 40634 Ikony zabawy
 
-*Seria: Ideas · cena Allegro (2026-08-17): 414.90 zł · EAN: 05702017471518 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 414.90 zł · EAN: 05702017471518 · in stock*
 
 Lego 40634 Ikony zabawy
  
@@ -2378,7 +2378,7 @@ Wymiary — połowa boiska do piłki nożnej z bramką i stanowiskiem VAR ma 20 
 
 ## 40639 — Lego Ideas 40639 Ptasie Gniazdo
 
-*Seria: Ideas · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702017422732 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702017422732 · in stock*
 
 **KLOCKI LEGO 40639 PTASIE GNIAZDO**
 
@@ -2400,7 +2400,7 @@ SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
 ## 40687 — N Lego 40687 Kosmiczna restauracja nowe
 
-*Seria: Ideas · cena Allegro (2026-08-17): 128.98 zł · EAN: 05702017597898 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 128.98 zł · EAN: 05702017597898 · in stock*
 
 LEGO® 40687 Promocyjne - Kosmiczna restauracja
 
@@ -2418,7 +2418,7 @@ Poznaj smak kreatywności w Kosmicznej restauracji LEGO® (40687) dzięki fajnem
 
 ## 40698 — Lego Ideas 40698 Książki to moja pasja
 
-*Seria: Ideas · cena Allegro (2026-08-17): 379.95 zł · EAN: 05702017598123 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 379.95 zł · EAN: 05702017598123 · in stock*
 
 Daj się ponieść kreatywności, budując zestaw konstrukcyjny dla dorosłych LEGO® Ideas Książki to moja pasja (40698). Ten zestaw, który zwyciężył w konkursie dla fanów na projekt LEGO Ideas, pozwala molom książkowym stworzyć półkę na książki LEGO z biurkiem, kolorowymi książkami i schodkami. Inne urocze elementy zestawu to wygodny fotel, filiżanka i minifigurka, które ożywiają klimatyczną scenerię. Po skończonym budowaniu model można ustawić jako ozdobę na biurko. To także świetny prezent dla miłośników książek lub pisarzy.
 
@@ -2434,7 +2434,7 @@ Daj się ponieść kreatywności, budując zestaw konstrukcyjny dla dorosłych L
 
 ## 40766 — Lego Ideas 40766 Hołd dla książek Jane Austen
 
-*Seria: Ideas · cena Allegro (2026-08-17): 167.00 zł · EAN: 05702017832081 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 167.00 zł · EAN: 05702017832081 · in stock*
 
 LEGO 40766 - Hołd dla książek Jane Austen
  
@@ -2452,7 +2452,7 @@ Szczegółowy model kolekcjonerski przedstawia minifigurkę Jane Austen w jej cu
 
 ## 40767 — Lego Okolicznościowe 40767 Powiększony Mały Astronauta
 
-*Seria: Ideas · cena Allegro (2026-08-17): 176.00 zł · EAN: 05702017829777 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 176.00 zł · EAN: 05702017829777 · in stock*
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2471,7 +2471,7 @@ Zaskocz fanów LEGO® i miłośników kosmosu zestawem Powiększony mały astron
 
 ## 40786 — Klocki Lego Ideas 40786 Mikrocentrum zarządzania
 
-*Seria: Ideas · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017830759 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017830759 · in stock*
 
 **LEGO 40786 Mikrocentrum zarządzania**
  
@@ -2493,7 +2493,7 @@ Odpalamy silniki? Niech Twoja wyobraźnia poszybuje aż do gwiazd podczas budowa
 
 ## 40788 — Lego 40788 Ideas Przyjazne Ślimaki
 
-*Seria: Ideas · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830841 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830841 · in stock*
 
 LEGO® 40788 Przyjazne ślimaki
 
@@ -2513,7 +2513,7 @@ Zestaw do zbudowania i ekspozycji zawiera dwa ślimaki z ozdobnymi muszlami, psz
 
 ## 40789 — Lego 40789 Ideas Latający Księżycowy Samochód Flying Moon Car Diorama
 
-*Seria: Ideas · cena Allegro (2026-08-17): 125.97 zł · EAN: 05702017829883 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 125.97 zł · EAN: 05702017829883 · in stock*
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -2547,7 +2547,7 @@ Pojazd do zbudowania jest podtrzymywany nad powierzchnią Księżyca przez cokó
 
 ## 40902 — Klocki Lego Icons Ideas 40902 Zestaw Hołd dla Leonarda da Vinci
 
-*Seria: Ideas · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702018071595 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702018071595 · in stock*
 
 **LEGO® 40902 Hołd dla Leonarda da Vinci**
 
@@ -2568,7 +2568,7 @@ Idealny na biurko, półkę z książkami lub jako relaksujący projekt na wiecz
 
 ## 40955 — Lego 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
 
-*Seria: Ideas · cena Allegro (2026-08-17): 669.98 zł · EAN: 00673419425810 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 669.98 zł · EAN: 00673419425810 · in stock*
 
 LEGO 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
 
@@ -2612,7 +2612,7 @@ Wejdź na pokład i stwórz własny fragment światowego transportu morskiego - 
 
 ## 41838 — Lego 41838 Wspomnienia Z Podróży
 
-*Seria: Ideas · cena Allegro (2026-08-17): 504.99 zł · EAN: 05702017600833 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 504.99 zł · EAN: 05702017600833 · in stock*
 
 LEGO 41838 - Wspomnienia z podróży
  
@@ -2656,7 +2656,7 @@ Ponadto możecie w pełni wykorzystać możliwości zestawu dzięki aplikacji LE
 
 ## 41839 — Lego Ideas 41839 Tablica ogłoszeń
 
-*Seria: Ideas · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702017600840 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702017600840 · in stock*
 
 Na rodziny z dziećmi w wieku od dziewięciu lat czeka twórcza zabawa i wspaniale spędzony czas przy budowaniu nawet 30 liter alfabetu łacińskiego i tworzeniu fajnej Tablicy ogłoszeń (41839). Zestaw do budowania zawiera znaki z akcentami, dzięki czemu możesz tworzyć wiadomości w swoim ojczystym języku (tylko alfabet łaciński). Ta tablica LEGO do przebudowywania zawiera 10 naklejek z emotkami, które można dodać do tablic, a także instrukcje, inspiracje i cztery plakaty pomocne w tworzeniu liter.
  
@@ -2671,7 +2671,7 @@ Ten zestaw LEGO doskonale sprawdzi się jako wyjątkowy prezent dla dzieci lub p
 
 ## 5006068 — Kubek Lego Friends 5006068 Central Perk Przyjaciel
 
-*Seria: Ideas · cena Allegro (2026-08-17): 289.00 zł · EAN: 05060373572417 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 289.00 zł · EAN: 05060373572417 · in stock*
 
 Kolekcjonerski Kubek LEGO Friends 5006068 Central Perk
 
@@ -2693,7 +2693,7 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 ## 5009325 — Lego The Simpsons 5009325 Salon Simpsonów
 
-*Seria: Ideas · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702018021804 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702018021804 · in stock*
 
 LEGO The Simpsons 5009325
 
@@ -2709,7 +2709,7 @@ Inspirowany popularnym animowanym serialem telewizyjnym model LEGO® zawiera sł
 
 ## 5009422 — Lego 5009422 Włochy Furgonetka na włoskim targu Klocki Italy Nowe
 
-*Seria: Ideas · cena Allegro (2026-08-17): 495.31 zł · EAN: 05702018065303 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 495.31 zł · EAN: 05702018065303 · in stock*
 
 LEGO 5009422 - Furgonetka na włoskim targu
 
@@ -2735,7 +2735,7 @@ Wymiary — zestaw Furgonetka na włoskim targu to fajny prezent dla dzieci, kt�
 
 ## 70437 — Klocki Lego Hidden Side Mystery Castle 70437
 
-*Seria: Ideas · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702016617580 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702016617580 · in stock*
 
 LEGO HIDDEN SIDE 70437 Tajemniczy zamek
 
@@ -2760,7 +2760,7 @@ Fani wirtualnej rzeczywistości i gier wideo pokochają niesamowity świat LEGO 
 
 ## 71016 — Ostatnia Sztuka! Klocki Lego The Simpsons Zestaw Sklep Kwik-E-Mart 71016
 
-*Seria: Ideas · cena Allegro (2026-08-17): 2599.00 zł · EAN: 05702015366922 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 2599.00 zł · EAN: 05702015366922 · in stock*
 
 LEGO® The Simpsons™ – Kwik-E-Mart
 
@@ -2809,7 +2809,7 @@ LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, 
 
 ## 71242 — Lego Dimensions 71242 Story Pack Ghostbusters
 
-*Seria: Ideas · cena Allegro (2026-08-17): 239.99 zł · EAN: 05051892196857 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 239.99 zł · EAN: 05051892196857 · in stock*
 
 WITAM
 
@@ -2838,7 +2838,7 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 
 ## 76915 — Lego Speed Champions 76915 Pagani Utopia Święta Boże Narodzenie
 
-*Seria: Ideas · cena Allegro (2026-08-17): 157.90 zł · EAN: 57020164218774 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 157.90 zł · EAN: 57020164218774 · in stock*
 
 LEGO Speed Champions 76915 Pagani utopia
 
@@ -2876,7 +2876,7 @@ Szukasz prezentu, który rozbłyśnie w oczach fana samochodów? LEGO Speed Cham
 
 ## 80112 — Lego Smok Pomyślności 80112
 
-*Seria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702017591636 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702017591636 · in stock*
 
 Klocki LEGO Okolicznościowe 80112 - Smok pomyślności
 
@@ -2904,7 +2904,7 @@ Ten kolekcjonerski zestaw łączy się z innymi zestawami z serii LEGO Spring Fe
 
 ## 80117 — Lego 80117 Pomyślność Good Fortune 1021 elementów 9+ Święto Wiosny
 
-*Seria: Ideas · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017777795 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017777795 · in stock*
 
 Klocki LEGO Okolicznościowe 80117 - Pomyślność
  
@@ -2928,7 +2928,7 @@ Ten kolekcjonerski zestaw łączy się z innymi zestawami z serii LEGO Spring Fe
 
 ## 92176 — Klocki Lego Ideas Zestaw Rakieta Nasa Apollo Saturn V 92176
 
-*Seria: Ideas · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016956337 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016956337 · in stock*
 
 Klocki LEGO 92176 Rakieta NASA Apollo Saturn V
 
@@ -2948,7 +2948,7 @@ Zestaw zawiera ponad 1900 klocków.Rakieta ma ok. 100 cm wysokości i 17 cm śre
 
 ## 92177 — Lego Ideas 21313 Statek w butelce
 
-*Seria: Ideas · cena Allegro (2026-08-17): 605.00 zł · EAN: 05702016956344 · in stock*
+*Kategoria: Ideas · cena Allegro (2026-08-17): 605.00 zł · EAN: 05702016956344 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 

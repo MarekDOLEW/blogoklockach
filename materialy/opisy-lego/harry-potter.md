@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Harry Potter — opisy produktowe (133 zestawów)
+# LEGO Harry Potter — opisy produktowe (133 pozycji)
 
 ## 30111 — nowy Lego Harry Potter 30111 laboratorium Misb 2011
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702014847026 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702014847026 · in stock*
 
 Cześć!
 
@@ -31,7 +31,7 @@ Pozdrawiam.
 
 ## 30392 — Lego Harry Potter 30392 Biurko Hermiony
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702016916348 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702016916348 · in stock*
 
 **LEGO Harry Potter 30392 Biurko Hermiony**
 
@@ -41,7 +41,7 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 ## 30407 — Lego Harry Potter Podróż Do Hogwartu 30407 Polybag
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016122725 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016122725 · in stock*
 
 ORYGINALNY ZESTAW LEGO
 
@@ -59,7 +59,7 @@ Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
 ## 30420 — Lego Harry Potter 30420 Harry i Hedwiga
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 34.00 zł · EAN: 05702016668087 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 34.00 zł · EAN: 05702016668087 · in stock*
 
 **Lego Harry Potter - Harry Potter i Sowa Hedwiga 30420**. Numer katalogowy tego zestawu to 30420. Zawiera 31 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Harry Potter - Harry Potter and Hedwig Owl Delivery. Grupa wiekowa tego produktu to 6+. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu.
 
@@ -81,7 +81,7 @@ Ilość klocków w zestawie: 53
 
 ## 30628 — Lego Harry Potter 30628 Potworna księga potworów
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 267.78 zł · EAN: 05702016819939 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 267.78 zł · EAN: 05702016819939 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -119,7 +119,7 @@ Zestaw LEGO Harry Potter - Potworna księga potworów trafił do sprzedaży w 
 
 ## 30651 — Lego Harry Potter 30651 Trening quidditcha
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017422008 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017422008 · in stock*
 
 Klocki Harry Potter 30651 Trening quidditcha
 
@@ -131,7 +131,7 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 ## 30706 — Lego(r) Harry Potter 30706 Lekcja Quidditcha Dla Dzieci +6
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 12.45 zł · EAN: 05702017820217 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 12.45 zł · EAN: 05702017820217 · in stock*
 
 Lego
 
@@ -146,7 +146,7 @@ Dzięki temu zestawowi przeżyjesz na nowo scenę z filmu Harry Potter i Kamień
 
 ## 30724 — Lego Harry Potter Gabinet Dumbledore’a z Harrym Potterem 30724
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 13.28 zł · EAN: 05702018058220 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 13.28 zł · EAN: 05702018058220 · in stock*
 
 LEGO Harry Potter - Gabinet Dumbledore’a z Harrym Potterem 30724
 
@@ -175,7 +175,7 @@ Ten niewielki zestaw pozwala odtworzyć kultowe sceny z sagi o Harrym Potterze i
 
 ## 40289 — Lego Harry Potter 40289 nowy zestaw Julivo
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 510.00 zł · EAN: 05702016122947 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 510.00 zł · EAN: 05702016122947 · in stock*
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -228,7 +228,7 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 ## 40419 — Lego 40419 Harry Potter Uczniowie Hogwartu- zestaw
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 84.90 zł · EAN: 00673419326179 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 84.90 zł · EAN: 00673419326179 · in stock*
 
 LEGO 40419 Harry Potter Uczniowie Hogwartu- zestaw
 
@@ -247,7 +247,7 @@ W zestawie są 4 minifigurki uczniów Hogwartu ubrane w szaty domowe z akcesoria
 
 ## 40452 — Lego Harry Potter 40452 Dormitoria Gryffindoru w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016988437 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016988437 · in stock*
 
 LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 
@@ -286,7 +286,7 @@ LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 
 ## 40500 — Lego Harry Potter 40500 Akcesoria do minifigurek ze świata czarodziejów
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 124.49 zł · EAN: 00673419345804 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 124.49 zł · EAN: 00673419345804 · in stock*
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -312,7 +312,7 @@ LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 
 ## 40577 — Lego Harry Potter 40577 Hogwarts: Wielkie schody
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017241968 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017241968 · in stock*
 
 LEGO 40770 Harry Potter - Zamek Hogwart™: Pokój Życzeń
  
@@ -344,7 +344,7 @@ Model można zbudować tak, aby** pasował do serii modułowych zestawów z Zamk
 
 ## 40598 — Lego 40598 Harry Potter Skrytka w Banku Gringotta *nowy
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017471389 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017471389 · in stock*
 
 **LEGO**
 
@@ -366,7 +366,7 @@ ilość figurek:** 1**
 
 ## 40695 — Lego 40695 Harry Potter Borgin & Burkes: sieć Fiuu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 149.45 zł · EAN: 05702017598703 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.45 zł · EAN: 05702017598703 · in stock*
 
 LEGO 40695 Harry Potter Borgin & Burkes: sieć Fiuu
 
@@ -398,7 +398,7 @@ Dzięki zestawowi z serii LEGO® Harry Potter™ Ulica Pokątna™ (40695) o�
 
 ## 40770 — Lego 40770 Harry Potter Zamek Hogwart Pokój Życzeń
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017829807 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017829807 · in stock*
 
 **LEGO® 40770 Harry Potter - Zamek Hogwart™: Pokój Życzeń**
  
@@ -423,7 +423,7 @@ Odtwórz Pokój Życzeń jako bezpieczną przestrzeń Neville’a Longbottoma w 
 
 ## 4708 — Lego Harry Potter 4708 Pociąg do Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702012016660 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702012016660 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -451,7 +451,7 @@ Odtwórz Pokój Życzeń jako bezpieczną przestrzeń Neville’a Longbottoma w 
 
 ## 4712 — Klocki Lego Harry Potter 4712 Troll na Wolności hp005 41983 Retro Hogwart
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 475.90 zł · EAN: 05702014151604 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 475.90 zł · EAN: 05702014151604 · in stock*
 
 **LEGO Harry Potter 4712 Troll na Wolności hp005 41983 Retro 2002 Hogwart**
 
@@ -476,7 +476,7 @@ Zbuduj swoją własną scenę z Hogwartu i przywróć magię pierwszych przygód
 
 ## 4728 — Lego Harry Potter 4728 Escape from Privet Drive
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 970.00 zł · EAN: 00673419345736 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 970.00 zł · EAN: 00673419345736 · in stock*
 
 Podstawowe informacje
 
@@ -505,7 +505,7 @@ Zawartość i motyw
 
 ## 4762 — Zestaw Lego Harry Potter 4762 Rescue from the Merpeople Nowy Misb 2005
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 750.00 zł · EAN: 00673419057332 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 750.00 zł · EAN: 00673419057332 · in stock*
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO.
 
@@ -530,7 +530,7 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 
 ## 4768 — Lego Harry Potter 4768 Statek Durmstrangu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1380.00 zł · EAN: 05702014426412 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1380.00 zł · EAN: 05702014426412 · in stock*
 
 LEGO Harry Potter 4768 Statek Durmstrangu
 
@@ -563,7 +563,7 @@ LEGO 4768 Statek Durmstrangu to **wycofany z produkcji, klasyczny zestaw**, szcz
 
 ## 4840 — Lego Harry Potter 4840 The Burrow
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014715783 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014715783 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -591,7 +591,7 @@ LEGO 4768 Statek Durmstrangu to **wycofany z produkcji, klasyczny zestaw**, szcz
 
 ## 4842 — Lego Harry Potter 4842 Zamek w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702014715806 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702014715806 · in stock*
 
 LEGO Harry Potter 4842 Zamek w Hogwarcie
 
@@ -629,7 +629,7 @@ Dekoracje stołów w Wielkiej Sali – jedzenie, tort, inne detale kulinarno-św
 
 ## 4866 — Lego Harry Potter 4866 The Knight Bus
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702014758162 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702014758162 · in stock*
 
 **LEGO Harry Potter Autobus 4866** Błędny Rycerz to zestaw, który pozwoli Twojemu dziecku przeżywać przygody nastoletniego czarodzieja na nowo! Magiczny autobus można przebudowywać według uznania co dostarczy jeszcze więkeszej radości z zabawy a także pozwoli rozwijać kreatywność. W opakowaniu znajdziesz 3 minifigurki. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 7 roku życia.
  
@@ -643,7 +643,7 @@ Dekoracje stołów w Wielkiej Sali – jedzenie, tort, inne detale kulinarno-św
 
 ## 4867 — Lego 4867 Harry Potter Bitwa o Hogwart Zamek Hermiona Lord Voldemort
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 999.50 zł · EAN: 05702014756762 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 999.50 zł · EAN: 05702014756762 · in stock*
 
 Nowy duży zestaw
 
@@ -685,7 +685,7 @@ PONIŻEJ RZECZYWISTE ZDJĘCIA SPRZEDAWANEGO ZESTAWU
 
 ## 5009008 — Lego Harry Potter 5009008 Kolekcjonerski zegar Weasleyów Vip Unikat
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 258.77 zł · EAN: 05060373577658 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 258.77 zł · EAN: 05060373577658 · in stock*
 
 Dodaj do swojej kolekcji unikalną ozdobę inspirowaną magicznym światem Harry’ego Pottera! **LEGO® Harry Potter™ Kolekcjonerski Zegar Weasleyów (5009008)** to doskonały wybór dla każdego fana serii. Ten zestaw wiernie odwzorowuje słynny zegar Weasleyów z ich domu w Norze, znany z cyklu książek i filmów o Harrym Potterze.
  
@@ -709,7 +709,7 @@ Dodaj do swojej kolekcji unikalną ozdobę inspirowaną magicznym światem Harry
 
 ## 5009867 — Lego Harry Potter 5009867 Hogsmeade Ozdoba
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 139.00 zł · EAN: 05060093910650 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 139.00 zł · EAN: 05060093910650 · in stock*
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -733,7 +733,7 @@ Dodaj odrobinę magii do swoich wnętrz dzięki ozdobie LEGO® Harry Potter™ H
 
 ## 53257 — Lego Harry Potter Zestaw Upominkowy Pocztówki 53257
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 69.99 zł · EAN: 04895028532574 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 69.99 zł · EAN: 04895028532574 · in stock*
 
 ⭐LEGO Harry Potter Zestaw Upominkowy Pocztówki 53257 ⭐
 
@@ -790,7 +790,7 @@ Eleganckie pudełko z magnetycznym zamknięciem świetnie nadaje się na prezent
 
 ## 53258 — Lego Harry Potter 53258 Zestaw Upominkowy Pamiętnik naklejki długopis
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532581 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532581 · in stock*
 
 ✨ LEGO® Harry Potter™ – Zestaw Upominkowy z Pamiętnikiem
 
@@ -840,7 +840,7 @@ Pamiętnik inspirowany światem Harry’ego Pottera pozwala przechowywać sekret
 
 ## 53259 — Lego Harry Potter 53259 Zestaw Upominkowy Z Lampką Czołową długopis miotła
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532598 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532598 · in stock*
 
 ✨ LEGO® Harry Potter™ – Zestaw Upominkowy z Lampką Czołową
 
@@ -896,7 +896,7 @@ Ruchoma lampka z motywem LEGO® Harry Potter™ została wykonana w powiększeni
 
 ## 71043 — Lego Harry Potter Zamek Hogwart 71043
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1639.00 zł · EAN: 05702016110319 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1639.00 zł · EAN: 05702016110319 · in stock*
 
 LEGO® Harry Potter 71043 Zamek Hogwart
 
@@ -931,7 +931,7 @@ Ten niezwykle szczegółowy zestaw kolekcjonerski z serii LEGO Harry Potter skł
 
 ## 75945 — Lego Harry Potter 75945 Expecto Patronum
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702016368468 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702016368468 · in stock*
 
 Młodzi czarodzieje i czarownice mogą pomóc Harry’emu Potterowi obronić Syriusza Blacka przed Dementorami!
  
@@ -948,7 +948,7 @@ Z zestawem LEGO Harry Potter 75945 Expecto Patronum dla dzieci w wieku od 7 lat 
 
 ## 75946 — Lego 75946 Harry Potter Rogogon węgierski na Turnieju Trójmagicznym
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 333.00 zł · EAN: 05702016368673 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 333.00 zł · EAN: 05702016368673 · in stock*
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -966,7 +966,7 @@ Przybliżone wymiary opakowania:** 5,9 x 35,4 x 19,1 cm**
 
 ## 75948 — Lego Harry Potter 75948 Wieża zegarowa na Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016368697 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016368697 · in stock*
 
 Magiczne przygody w kultowych miejscach w wieży zegarowej na Hogwarcie!
  
@@ -991,7 +991,7 @@ Przenieś miłośników Harry’ego Pottera do magicznego świata czarodziei z z
 
 ## 75950 — Lego Harry Potter 75950 Legowisko Aragoga
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016110333 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016110333 · in stock*
 
 LEGO 75950 Legowisko Aragoga
 
@@ -1011,7 +1011,7 @@ LEGO 75950 Legowisko Aragoga
 
 ## 75951 — Klocki Lego Harry Potter Ucieczka Grindelwalda
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016110340 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016110340 · in stock*
 
 **Nowy, nieotwierany zestaw lego.**
 
@@ -1034,7 +1034,7 @@ Z tym zestawem LEGO Harry Potter możesz odegrać prawdziwą Ucieczkę Grinewala
 
 ## 75952 — Lego Fantastic Beasts 75952 Walizka Newta z magicznymi stworzeni Nowe
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 538.00 zł · EAN: 05702016110357 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 538.00 zł · EAN: 05702016110357 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1048,7 +1048,7 @@ Szukasz w swoim życiu odrobiny magii? Czasem żeby ją znaleźć, wystarczy zaj
 
 ## 75955 — Lego Harry Potter 75955 Ekspres do Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 465.00 zł · EAN: 05702016110388 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 465.00 zł · EAN: 05702016110388 · in stock*
 
 Przeżyj zaczarowaną podróż ekspresem do Hogwartu!
  
@@ -1071,7 +1071,7 @@ Wsiądź do kultowego pociągu na stacji King’s Cross w zestawie LEGO Harry Po
 
 ## 75957 — Lego Harry Potter 75957 Błędny rycerz
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016542714 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016542714 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1104,7 +1104,7 @@ Wsiądź do kultowego pociągu na stacji King’s Cross w zestawie LEGO Harry Po
 
 ## 75958 — Lego 75958 @@@ Powóz Z Beauxbatons @@@ Harry Potter
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 255.55 zł · EAN: 05702016604122 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 255.55 zł · EAN: 05702016604122 · in stock*
 
 Wskocz do powozu z Beauxbatons zaprzężonego w skrzydlatego konia, by przeżyć magiczne przygody w przestworzach i na ziemi!
  
@@ -1124,7 +1124,7 @@ Zestaw konstrukcyjny LEGO Harry Potter 75958 Powóz z Beauxbatons: Przyjazd do H
 
 ## 75965 — Lego Harry Potter 75965 Powrót Voldemorta
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016604139 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016604139 · in stock*
 
 - **Nazwa polska:** LEGO 75965 Powrót Voldemorta™
 - **Nazwa oryginalna:** LEGO 75965 The Rise of Voldemort™
@@ -1143,7 +1143,7 @@ Zestaw konstrukcyjny LEGO Harry Potter 75958 Powóz z Beauxbatons: Przyjazd do H
 
 ## 75966 — Lego Harry Potter 75966 Pokój życzeń w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016616668 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016616668 · in stock*
 
 Przesuń ścianę, by odsłonić ukryte wejście do Pokoju Życzeń i weź udział w tajnych zajęciach z obrony przed czarną magią razem z Harrym Potterem™, Hermioną Granger™ i Luną Lovegood™!
  
@@ -1161,7 +1161,7 @@ Zestawy LEGO Harry Potter pozwalają odtwarzać sceny akcji z filmów. Te magicz
 
 ## 75967 — Lego 75967 @@@ Zakazany Las: spotkanie Umbridge @@@ Harry Potter
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016616675 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016616675 · in stock*
 
 Czy uda Ci się nakłonić Dolores Umbridge™, by odwiedziła Zakazany Las z Harrym i Hermioną? W lesie rośnie magiczne drzewo, które otwiera się, ukazując ciekawą zawartość — latarnię, kość i nogę indyka. Gdy zbliżają się do niej dwa centaury, Umbridge blokuje je potężnym zaklęciem.
  
@@ -1179,7 +1179,7 @@ Wybierz najlepszą zabawkę dla fanów Harry'ego Pottera Szukasz wyjątkowego pr
 
 ## 75968 — Klocki Lego Harry Potter Zestaw Privet Drive 4 75968
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702016616682 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702016616682 · in stock*
 
 **LEGO 75968 Zestaw Harry Potter Privet Drive 4**
  
@@ -1215,7 +1215,7 @@ Zestawy LEGO Harry Potter z kolekcjonerskimi minifigurkami i niezwykłymi funkcj
 
 ## 75969 — Klocki Lego Harry Potter 75969 Wieża Astronomiczna W Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016616699 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016616699 · in stock*
 
 KLOCKI LEGO HARRY POTTER 75969 WIEŻA ASTRONOMICZNA W HOGWARCIE
 
@@ -1251,7 +1251,7 @@ i wdrapanie się na najwyższą wieżę, by wziąć udział w lekcji astronomii.
 
 ## 75978 — Lego Harry Potter 75978 Ulica Pokątna
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 2367.99 zł · EAN: 05702016668094 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2367.99 zł · EAN: 05702016668094 · in stock*
 
 LEGO Harry Potter 75978
  
@@ -1281,7 +1281,7 @@ Wszystkie zabawki konstrukcyjne LEGO spełniają najwyższe standardy branżowe,
 
 ## 75979 — Lego Harry Potter 75979 Hedwiga
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702016685510 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702016685510 · in stock*
 
 Hedwiga™ to niezwykła i pełna wdzięku sowa o magicznej osobowości, którą fani Harry’ego Pottera™ znają z filmów. Złożony z 630 elementów model ma rozpiętość skrzydeł ok. 34 cm i przedstawia Hedwigę w locie — w chwili dostarczania Harry’emu zaproszenia do Hogwartu™. Z tyłu modelu znajduje się dźwignia, która pozwala sowie z gracją zamachać skrzydłami. Budowanie tej zabawki może być wyzwaniem, ale da dzieciom mnóstwo satysfakcji.
  
@@ -1308,7 +1308,7 @@ Zestaw pozwala zbudować Hedwigę™ — niezwykłą i pełną wdzięku sowę ś
 
 ## 75980 — Lego 75980 Harry Potter Atak na Norę
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016685527 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016685527 · in stock*
 
 Wybierz się z wizytą do zwariowanego domu Weasleyów z Harrym i Ronem. Od ogródka aż po dach, jest on wypełniony detalami, które dzieci będą z przyjemnością odkrywać. Tylko ostrożnie! Źli śmierciożercy, Bellatrix Lestrange i Fenrir Greyback, chcą podpalić dom, aby zmusić Harry'ego do wyjścia na zewnątrz i go schwytać. Czy Harry'emu uda się uciec? To Ty zadecydujesz.
  
@@ -1343,7 +1343,7 @@ Zestawy z serii LEGO Harry Potter odtwarzają emocjonujące sceny z popularnych 
 
 ## 76382 — Lego Harry Potter 76382 Magiczne chwile z Hogwartu: Godzina transmutacji
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 174.67 zł · EAN: 05702016913576 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 174.67 zł · EAN: 05702016913576 · in stock*
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z transfiguracji (76382) to gotowy zestaw ukryty w książce zbudowanej z klocków — otwórz okładkę, a znajdziesz się na lekcji transfiguracji u profesor McGonagall.
  
@@ -1372,7 +1372,7 @@ Szukasz czarodziejskiego prezentu? W serii LEGO Harry Potter znajdziesz atrakcyj
 
 ## 76383 — Lego 76383 Harry Potter Chwile z Hogwartu: zajęcia z eliksirów
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 164.37 zł · EAN: 05702016912944 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 164.37 zł · EAN: 05702016912944 · in stock*
 
 Klocki LEGO Harry Potter 76383 - Chwile z Hogwartu: zajęcia z eliksirów
 
@@ -1414,7 +1414,7 @@ Zestaw LEGO Harry Potter - Chwile z Hogwartu: zajęcia z eliksirów trafił do
 
 ## 76384 — Lego Harry Potter 76384 Chwile z Hogwartu: zajęcia z zielarstwa
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 334.90 zł · EAN: 05702016912951 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 334.90 zł · EAN: 05702016912951 · in stock*
 
 Zestaw nowy w oryginalnym opakowaniu.
 
@@ -1456,7 +1456,7 @@ Szukasz świetnego prezentu dla fana Harry'ego Pottera? W serii LEGO Harry Potte
 
 ## 76385 — Lego 76385 Harry Potter Zajęcia z zaklęć i uroków
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 163.60 zł · EAN: 05702016913491 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 163.60 zł · EAN: 05702016913491 · in stock*
 
 **Klocki LEGO Harry Potter 76385 - Chwile z Hogwartu: zajęcia z zaklęć i uroków**
  
@@ -1472,7 +1472,7 @@ LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z zaklęć i uroków (7638
 
 ## 76386 — Lego Harry Potter Pomyłka z Eliksirem 76386
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702016913507 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702016913507 · in stock*
 
 **LEGO Harry Potter Pomyłka z Eliksirem 76386**
 
@@ -1504,7 +1504,7 @@ Zestaw LEGO® Harry Potter™ Hogwart™: pomyłka z eliksirem wielosokowym (763
 
 ## 76387 — Lego 76387 Harry Potter Hogwart: spotkanie z Puszkiem
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 368.99 zł · EAN: 05702016912968 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 368.99 zł · EAN: 05702016912968 · in stock*
 
 Klocki LEGO Harry Potter 76387 - Hogwart: spotkanie z Puszkiem
 
@@ -1550,7 +1550,7 @@ Zestaw LEGO Harry Potter - Hogwart: spotkanie z Puszkiem trafił do sprzedaży
 
 ## 76388 — Lego Harry Potter 76388 Wizyta w Wiosce Hogsmeade
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702016913675 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702016913675 · in stock*
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -1579,7 +1579,7 @@ Zestaw zawiera także kolekcjonerskie dodatki: wyjątkową, złotą rocznicową 
 
 ## 76389 — Klocki Lego Harry Potter Zestaw Komnata Tajemnic w Hogwarcie 76389
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 833.99 zł · EAN: 05702016913583 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 833.99 zł · EAN: 05702016913583 · in stock*
 
 Lego Harry Potter Komnata tajemnic Hogwart 76389
  
@@ -1619,7 +1619,7 @@ Ten wszechstronny zestaw zawiera słynne pomieszczenia, czarujące funkcje i pos
 
 ## 76391 — Lego Harry Potter 76391 Ikony Hogwartu Edycja Kolekcjonerska
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016913415 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016913415 · in stock*
 
 LEGO HARRY POTTER 76391 Ikony Hogwartu — edycja kolekcjonerska 3010 pcs
 
@@ -1703,7 +1703,7 @@ Głębokość opakowania 124 mm
 
 ## 76392 — Lego 76392 Harry Potter Szachy czarodziejów w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 748.90 zł · EAN: 05702016971620 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 748.90 zł · EAN: 05702016971620 · in stock*
 
 Zestaw LEGO Harry Potter Szachy czarodziejów w Hogwarcie (76392) to połączenie dającej nieograniczoną frajdę gry planszowej i magicznej zabawy w odgrywanie ról, które zachwyci fanów popularnych filmów.
 
@@ -1725,7 +1725,7 @@ Ten fascynujący zestaw z szachami pozwala młodym adeptom magii bawić się na 
 
 ## 76393 — Lego Harry Potter 76393 Harry Potter i Hermiona
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016971637 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016971637 · in stock*
 
 LEGO HARRY POTTER 7639
 
@@ -1753,7 +1753,7 @@ LEGO HARRY POTTER 7639
 
 ## 76394 — Lego 76394 Fawkes, feniks Dumbledore'a
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702016971651 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702016971651 · in stock*
 
 **LEGO Harry Potter Fawkes feniks Dumbledore'a 76394**
  
@@ -1785,7 +1785,7 @@ Zestaw LEGO® Harry Potter™ Fawkes, feniks Dumbledore'a (76394) zawiera realis
 
 ## 76395 — Lego Harry Potter Pierwsza Lekcja Latania #76395
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 153.45 zł · EAN: 05702017006185 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 153.45 zł · EAN: 05702017006185 · in stock*
 
 LEGO HARRY POTTER PIERWSZA LEKCJA LATANIA
 
@@ -1827,7 +1827,7 @@ Funkcja lewitującej miotły pozwala dzieciom odegrać słynną scenę lekcji la
 
 ## 76396 — Lego Harry Potter 76396 Chwile z Hogwartu: zajęcia z wróżbiarstwa
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 179.42 zł · EAN: 05702017152646 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 179.42 zł · EAN: 05702017152646 · in stock*
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z wróżbiarstwa (76396) to zestaw do zabawy w zbudowanej z klocków książce dla ośmiolatków i starszych dzieci. Znajdziesz w nim popularne postacie i znajome elementy z zajęć z wróżbiarstwa profesor Trelawney.
 
@@ -1854,7 +1854,7 @@ Jeśli szukasz niezapomnianego, magicznego upominku, zestawy LEGO Harry Potter o
 
 ## 76397 — Lego Harry Potter 76397 Chwile z Hogwartu: obrona przed czarną magią
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702017153384 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702017153384 · in stock*
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z obrony przed czarną magią (76397) to atrakcyjny zestaw w złożonej z klocków książce dla ośmiolatków i starszych dzieci. W środku znajdziesz uwielbiane postacie i realistyczne elementy popularnej sali lekcyjnej z Hogwartu.
  
@@ -1882,7 +1882,7 @@ Jeśli szukasz niezapomnianego, magicznego upominku, zestawy LEGO Harry Potter o
 
 ## 76398 — Lego 76398 Harry Potter Zestaw Skrzydło szpitalne Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 405.00 zł · EAN: 05702017153391 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 405.00 zł · EAN: 05702017153391 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -1896,7 +1896,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 76399 — 76399 Lego Harry Potter Magiczny kufer z Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 267.00 zł · EAN: 05702017153407 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 267.00 zł · EAN: 05702017153407 · in stock*
 
 LEGO Harry Potter 76399 Magiczny Kufer z Hogwartu
 
@@ -1926,7 +1926,7 @@ Spersonalizowany, przenośny zestaw LEGO Harry Potter Magiczny kufer z Hogwartu 
 
 ## 76400 — Lego Harry Potter 76400 Testrale i kareta z Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 138.77 zł · EAN: 05702017153414 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 138.77 zł · EAN: 05702017153414 · in stock*
 
 LEGO Harry Potter 76400 Testrale i kareta z Hogwartu
  
@@ -1958,7 +1958,7 @@ Zestaw **LEGO® Harry Potter™ Testrale i kareta z Hogwartu™ (76400)** to z
 
 ## 76401 — Klocki Lego Harry Potter 76401 Na Ratunek Syriuszowi Dziedziniec Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 448.49 zł · EAN: 05702017153421 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 448.49 zł · EAN: 05702017153421 · in stock*
 
 LEGO Harry Potter 76401 Dziedziniec Hogwartu
  
@@ -1984,7 +1984,7 @@ Ten wielofunkcyjny zestaw powstał na podstawie słynnej sceny z filmu „Harry 
 
 ## 76402 — Klocki Lego 76402 Harry Potter Zestaw Komnata Dumbledore'a w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 482.00 zł · EAN: 05702017153438 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 482.00 zł · EAN: 05702017153438 · in stock*
 
 LEGO Harry Potter 76402 Komnata Dumbledore’a w Hogwarcie
  
@@ -2008,7 +2008,7 @@ Kilkupiętrowy model z Hogwartem ma kilka miejsc z wiernie odwzorowanymi detalam
 
 ## 76403 — Zestaw Lego Harry Potter – 76403 – Ministerstwo Magii
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 368.00 zł · EAN: 05702017153445 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 368.00 zł · EAN: 05702017153445 · in stock*
 
 ZESTAW LEGO HARRY POTTER – 76403 – MINISTERSTWO MAGII
 
@@ -2050,7 +2050,7 @@ Zestaw LEGO 76403 to propozycja, która łączy rozbudowaną konstrukcję, bogac
 
 ## 76405 — Lego Harry Potter 76405 Hogwart Express – edycja kolekcjonerska
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702017152691 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702017152691 · in stock*
 
 LEGO 76405 EKSPRES DO HOGWARTU ED. KOLEKCJONERSKA
  
@@ -2086,7 +2086,7 @@ Realistyczne detale w środku i na zewnątrz
 
 ## 76406 — Zestaw Lego Harry Potter 76406 Smok Rogogon Węgierski
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017189970 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017189970 · in stock*
 
 ZESTAW LEGO HARRY POTTER - 76406 - SMOK ROGOGON WĘGIERSKI
 
@@ -2128,7 +2128,7 @@ LEGO Harry Potter 76406 to zestaw, który łączy efektowny wygląd, ruchome ele
 
 ## 76407 — Lego 76407 Harry Potter Wrzeszcząca Chata i wierzba bijąca
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 529.99 zł · EAN: 05702017189987 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 529.99 zł · EAN: 05702017189987 · in stock*
 
 Klocki LEGO Harry Potter 76407 - Wrzeszcząca Chata i wierzba bijąca
 
@@ -2176,7 +2176,7 @@ Zestaw LEGO Harry Potter - Wrzeszcząca Chata i wierzba bijąca trafił do sprze
 
 ## 76408 — Lego Harry Potter 76408 Ulica Grimmauld Place 12 Unikat święta
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 949.98 zł · EAN: 05702017189994 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 949.98 zł · EAN: 05702017189994 · in stock*
 
 LEGO Harry Potter 76408 Ulica Grimmauld Place 12 / NOWY / UNIKAT
 
@@ -2216,7 +2216,7 @@ Ten kilkupiętrowy model ma ok. 28 cm wysokości, więc mieści się w nim mnós
 
 ## 76409 — Lego Harry Potter 76409 Flaga Gryffindoru zestaw
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 243.77 zł · EAN: 05702017413136 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 243.77 zł · EAN: 05702017413136 · in stock*
 
 LEGO Harry Potter 76409 Flaga Gryffindoru
  
@@ -2248,7 +2248,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 76410 — Lego 76410 Harry Potter Flaga Slytherinu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 179.95 zł · EAN: 05702017413143 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 179.95 zł · EAN: 05702017413143 · in stock*
 
 LEGO Harry Potter 76410 Flaga Slytherinu
  
@@ -2279,7 +2279,7 @@ Dzieci mogą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder
 
 ## 76411 — Lego Harry Potter 76411 Flaga Ravenclawu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702017413150 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702017413150 · in stock*
 
 LEGO Harry Potter 76411 Flaga Ravenclawu
  
@@ -2309,7 +2309,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 76412 — Lego Harry Potter 76412 Flaga Hufflepuffu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 169.77 zł · EAN: 05702017413167 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.77 zł · EAN: 05702017413167 · in stock*
 
 LEGO Harry Potter 76412 Flaga Hufflepuffu
  
@@ -2341,7 +2341,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 76413 — Lego Harry Potter 76413 Pokój Życzeń Room of Requirement
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 344.00 zł · EAN: 05702017413174 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 344.00 zł · EAN: 05702017413174 · in stock*
 
 **ORYGINALNE LEGO HARRY POTTER 76413 POKÓJ ŻYCZEŃ**
 
@@ -2379,7 +2379,7 @@ Pomóż Harry'emu Potterowi™ i Hermionie Granger™ znaleźć będący horkruk
 
 ## 76414 — Klocki Lego Harry Potter Zestaw Expecto Patronum 76414
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 435.24 zł · EAN: 05702017413181 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.24 zł · EAN: 05702017413181 · in stock*
 
 Zestaw jest nowy, oryginalny, fabrycznie zamknięty.
 
@@ -2414,7 +2414,7 @@ Aplikacja LEGO Builder poprowadzi Ciebie i Twoje dziecko przez budowanie dzięki
 
 ## 76415 — Lego 76415 Harry Potter Bitwa o Hogwart
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 538.99 zł · EAN: 05702017413198 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 538.99 zł · EAN: 05702017413198 · in stock*
 
 Klocki LEGO Harry Potter 76415 - Bitwa o Hogwart
 
@@ -2464,7 +2464,7 @@ Zestaw LEGO Harry Potter - Bitwa o Hogwart trafił do sprzedaży w 2023 roku. 
 
 ## 76416 — Lego Harry Potter 76416 Skrzynia Quidditcha turniej
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 454.96 zł · EAN: 05702017413204 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 454.96 zł · EAN: 05702017413204 · in stock*
 
 LEGO Harry Potter 76416 Skrzynia Quidditcha
  
@@ -2495,7 +2495,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 76417 — Lego 76417 Harry Potter: Bank Gringotta edycja kolekcjonerska
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 2299.99 zł · EAN: 05702017413211 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2299.99 zł · EAN: 05702017413211 · in stock*
 
 LEGO Harry Potter 76417 
 
@@ -2531,7 +2531,7 @@ Ten zestaw LEGO Harry Potter to wyjątkowy prezent dla każdego dorosłego fana,
 
 ## 76419 — Lego Harry Potter Zamek Hogwart i błonia 76419, 2660 elementów,
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 564.00 zł · EAN: 05702017413228 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 564.00 zł · EAN: 05702017413228 · in stock*
 
 Opis produktu
 
@@ -2575,7 +2575,7 @@ Produkt oryginalny, pochodzący od renomowanego producenta LEGO. Zestaw stanowi 
 
 ## 76420 — Lego Harry Potter Turniej Jezioro Hogwartu 76420
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017413235 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017413235 · in stock*
 
 **LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu 76420**
 
@@ -2613,7 +2613,7 @@ Dzięki zestawowi LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu (764
 
 ## 76421 — Lego Harry Potter 76421 Zgredek, skrzat domowy
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 142.99 zł · EAN: 05702017462455 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 142.99 zł · EAN: 05702017462455 · in stock*
 
 Zachwyć fanów Harry'ego Pottera™ pierwszym w historii modelem LEGO® skrzata domowego Zgredka™. Natychmiast rozpoznawalna postać zbudowana z klocków ma ruchomą głowę, dzięki której może robić różne miny, oraz ruchome ręce i palce, dzięki którym Zgredek może trzymać dołączone kultowe akcesoria. W zestawie jest szczegółowy model skarpety Harry'ego Pottera do zbudowania z pamiętnikiem Toma Riddle'a, którego Harry użył do uwolnienia Zgredka, oraz „lewitujące” ciasto budyniowe ciotki Petunii, które przywoła wspomnienia z kultowych scen.
  
@@ -2641,7 +2641,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 76423 — Lego Harry Potter Ekspres Do Hogwaru I Stacja W Hogsmeade 76423
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 577.95 zł · EAN: 05702017434032 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 577.95 zł · EAN: 05702017434032 · in stock*
 
 EKSPRES DO HOGWARU™ I STACJA W HOGSMEADE™
 
@@ -2673,7 +2673,7 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 ro
 
 ## 76424 — Lego Harry Potter 76424 Latający Ford Anglia
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 68.90 zł · EAN: 05702017583228 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 68.90 zł · EAN: 05702017583228 · in stock*
 
 LEGO HARRY POTTER 76424 Latający Ford Anglia -
 
@@ -2697,7 +2697,7 @@ Ten zestaw z pojazdem można łączyć z innymi zestawami LEGO Harry Potter (spr
 
 ## 76425 — Lego Harry Potter 76425 Hedwiga z wizytą na ul. Privet Drive 4
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 61.98 zł · EAN: 05702017583082 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 61.98 zł · EAN: 05702017583082 · in stock*
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -2725,7 +2725,7 @@ Buduj, wystawiaj i baw się - figurka sowy Hedwigi do zbudowania z tego 336-elem
 
 ## 76426 — Lego Harry Potter 76426 Przystań z łodziami
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 300.55 zł · EAN: 05702017583099 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 300.55 zł · EAN: 05702017583099 · in stock*
 
 Lego HARRY POTTER 76426 Przystań z łodziami
 
@@ -2737,7 +2737,7 @@ Ten zabawny i wciągający zestaw to najlepszy pomysł na prezent z Czarodziejsk
 
 ## 76427 — Lego Harry Potter Hardodziob 76427
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 250.79 zł · EAN: 05702017599496 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 250.79 zł · EAN: 05702017599496 · in stock*
 
 **HARDODZIOB **
 
@@ -2765,7 +2765,7 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 ro
 
 ## 76428 — klocki Lego Harry Potter 76428 Chatka Hagrida: niespodziewana wizyta
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 317.49 zł · EAN: 05702017583105 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 317.49 zł · EAN: 05702017583105 · in stock*
 
 LEGO Harry Potter 76428 Chatka Hagrida: niespodziewana wizyta
 
@@ -2801,7 +2801,7 @@ Jeśli szukasz prezentu urodzinowego dla dzieci w wieku od ośmiu lat, który na
 
 ## 76429 — Lego Harry Potter Mówiąca Tiara Przydziału 76429
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 310.70 zł · EAN: 05702017583112 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 310.70 zł · EAN: 05702017583112 · in stock*
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -2836,7 +2836,7 @@ Ten inspirowany filmami zestaw do zbudowania może być magicznym prezentem dla 
 
 ## 76430 — Lego Harry Potter 76430 Sowiarnia w Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 238.88 zł · EAN: 05702017583129 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 238.88 zł · EAN: 05702017583129 · in stock*
 
 LEGO  HARRY POTTER
 
@@ -2878,7 +2878,7 @@ Specyfikacja zestawu:
 
 ## 76431 — Lego Harry Potter 76431 Zamek Hogwart: Zajęcia z eliksiru
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 295.41 zł · EAN: 05702017583136 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 295.41 zł · EAN: 05702017583136 · in stock*
 
 LEGO® Harry Potter
  
@@ -2914,7 +2914,7 @@ Buduj, otwieraj i baw się — przed rozłożeniem klasa na zamku Hogwart™ w t
 
 ## 76432 — Lego Harry Potter 76432 Zakazany Las: magiczne stworzenia
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017599502 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017599502 · in stock*
 
 Zbuduj z klocków LEGO® Zakazany Las™ pełen magicznych stworzeń dzięki fantastycznemu zestawowi LEGO Harry Potter™ (76432). Zawiera on drzewa z liśćmi w nocnych kolorach, a także świecącego w ciemności pająka i cztery świecące w ciemności grzyby, które tworzą magiczną atmosferę. Zestaw zawiera dwie minifigurki LEGO — Rona Weasleya™ i Hermionę Granger™ — a także figurkę Hardodzioba™, figurkę małego testrala i figurkę chochlika kornwalijskiego do odgrywania ról. Dzieci mogą także zmieniać układ modułów, tworząc różnorodne scenerie.
  
@@ -2934,7 +2934,7 @@ Jeśli szukasz pomysłu na prezent urodzinowy nawiązujący do Harry'ego Pottera
 
 ## 76433 — Lego 76433 Harry Potter Mandragora Ruchoma Figurka Rośliny Klocki Zestaw
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 249.98 zł · EAN: 05702017583143 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 249.98 zł · EAN: 05702017583143 · in stock*
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -2961,7 +2961,7 @@ To niezwykłe magiczne stworzenie to czarujący pomysł na ozdobę do domu. Figu
 
 ## 76434 — Lego Harry Potter 76434 Aragog w Zakazanym Lesie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 71.82 zł · EAN: 05702017599519 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 71.82 zł · EAN: 05702017599519 · in stock*
 
 **PRODUCENT**: LEGO
  
@@ -2993,7 +2993,7 @@ Ten kolekcjonerski zestaw stanowi część szerokiej serii zestawów LEGO Harry 
 
 ## 76435 — Lego Harry Potter Zamek Hogwart Wielka Sala 76435
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 903.90 zł · EAN: 05702017583150 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 903.90 zł · EAN: 05702017583150 · in stock*
 
 Zamek Hogwart™: Wielka Sala
 
@@ -3023,7 +3023,7 @@ Buduj, eksponuj i baw się — model zamku z tego 1732-elementowego zestawu ma 4
 
 ## 76437 — Lego Harry Potter Nora Kolekcjonerska Edycja Limitowana
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 998.86 zł · EAN: 05702017590417 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 998.86 zł · EAN: 05702017590417 · in stock*
 
 LEGO Harry Potter Nora Kolekcjonerska Edycja Limitowana
 
@@ -3059,7 +3059,7 @@ Specyfikacja:
 
 ## 76439 — Lego Harry Potter Sklep Ollivandera i Sklep Madam Malkin 76439
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017583167 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017583167 · in stock*
 
 Klocki LEGO Harry Potter 76439 - Sklepy Ollivandera i Madame Malkin
 
@@ -3088,7 +3088,7 @@ Fajny prezent dla fanów Harry'ego Pottera™ — ten zestaw konstrukcyjny będz
 
 ## 76440 — Zestaw klocków Lego Harry Potter Turniej Trójmagiczny: Przybycie 76440
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 618.17 zł · EAN: 05702017599533 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 618.17 zł · EAN: 05702017599533 · in stock*
 
 Odtwórz kultową scenę dzięki zestawowi ze statkiem **LEGO Harry Potter Turniej Trójmagiczny: Przybycie (76440)**. To świetny prezent dla chłopców, dziewczynek i fanów Harry'ego Pottera w wieku od 10 lat. Zawiera szczegółowe modele statku Durmstrangui powozu Beauxbatons, które umożliwiają odtworzenie przybycia uczniów do Hogwartu na turniej. Statek ma pod pokładem salon i sypialnię dla minifigurek. „Latający” powóz prowadzony jest przez piękną figurkę abraksana, w środku jest miejsce dla dwóch minifigurek, a z tyłu umieszczony jest kufer.
 
@@ -3109,7 +3109,7 @@ Ten kolekcjonerski zestaw stanowi część szerokiej serii zestawów **LEGO Harr
 
 ## 76441 — Lego Harry Potter 76441 Zamek Hogwart: Klub pojedynków
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 80.94 zł · EAN: 05702017812793 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 80.94 zł · EAN: 05702017812793 · in stock*
 
 Zamek Hogwart™: Klub pojedynków
 
@@ -3119,7 +3119,7 @@ Harry Potter™ LEGO Harry Potter Zamek Hogwart: Klub pojedynków, Zestaw dla 8-
 
 ## 76442 — Lego Harry Potter 76442 Zajęcia z zaklęć i uroków
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 58.49 zł · EAN: 05702017812809 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 58.49 zł · EAN: 05702017812809 · in stock*
 
 LEGO Harry Potter 76442 Zajęcia z zaklęć i uroków
 
@@ -3148,7 +3148,7 @@ Harry Potter™ LEGO Harry Potter Zamek Hogwart: Zajęcia z zaklęć i uroków, 
 
 ## 76443 — Lego Harry Potter 76443 Motocyklowa przejażdżka Hagrida i Harry’ego
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017812816 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017812816 · in stock*
 
 Przejażdżka motocyklowa Hagrida i Harry’ego
 
@@ -3158,7 +3158,7 @@ Harry Potter™ LEGO Harry Potter Przejażdżka motocyklowa Hagrida i Harry’eg
 
 ## 76444 — Klocki Lego 76444 Sklepy na Ulicy Pokątnej Z Serii Lego Harry Potter
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702017812823 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702017812823 · in stock*
 
 Prezenty z serii LEGO® Harry Potter™ dla dorosłych Wkrocz do magicznego świata, budując szczegółowy model w mikroskali LEGO® Harry Potter™ (76444). Każdy budynek ma rozpoznawalne detale na zewnątrz i skrywa ciekawe niespodzianki w środku.Ten magiczny model będzie wspaniałą ozdobą każdego pomieszczenia. Możesz go ustawić jako dwustronną ulicę lub jako jeden długi rząd budynków, a także podzielić model na pięć sekcji, aby przyjrzeć mu się bliżej. Dodaj 12 unikalnych mikrofigurek LEGO Harry Potter oraz Błędnego Rycerza™, aby przywołać wspomnienia z kultowych scen.Ten zestaw kolekcjonerski w mikroskali jest częścią serii zestawów LEGO dla dorosłych. To świetny prezent dla Ciebie lub dla innych fanów Harry’ego Pottera. Wyrusz w magiczną podróż, budując wspaniały model ulicy Pokątnej™ w mikroskali. Odtwórz zewnętrzne i wewnętrzne szczegóły Magicznych dowcipów Weasleyów™, Banku Gringotta™, Dziurawego Kotła i innych miejsc. Rozłóż model, aby utworzyć jedną długą ulicę i ustaw ją na półce. Następnie dodaj 12 mikrofigurek postaci z Harry’ego Pottera™, a także Błędnego Rycerza™.
 
@@ -3166,7 +3166,7 @@ Prezenty z serii LEGO® Harry Potter™ dla dorosłych Wkrocz do magicznego świ
 
 ## 76445 — Lego Harry Potter Zamek Hogwart: zajęcia z zielarstwa 76445
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 159.38 zł · EAN: 05702017812830 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 159.38 zł · EAN: 05702017812830 · in stock*
 
 **LEGO Harry Potter Zamek Hogwart: zajęcia z zielarstwa 76445**
 
@@ -3196,7 +3196,7 @@ Ten model szklarni ma 13 cm szerokości
 
 ## 76446 — Lego Harry Potter 76446 Przygoda na pokładzie Błędnego Rycerza
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 151.43 zł · EAN: 05702017812847 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 151.43 zł · EAN: 05702017812847 · in stock*
 
 Przygoda na pokładzie Błędnego Rycerza
 
@@ -3206,7 +3206,7 @@ Harry Potter™ LEGO Harry Potter Przygoda na pokładzie Błędnego Rycerza, Zab
 
 ## 76447 — Lego Harry Potter 76447 Zamek Hogwart: lekcja latania na miotle
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017812854 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017812854 · in stock*
 
 LEGO Harry Potter 76447
  
@@ -3232,7 +3232,7 @@ Wymiary — po rozłożeniu wieża zamku Hogwart™ w tym 651-elementowym zestaw
 
 ## 76448 — Lego Harry Potter 76448 Fawkes: feniks Dumbledore'a
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 70.03 zł · EAN: 05702017812861 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 70.03 zł · EAN: 05702017812861 · in stock*
 
 Mali fani Harry'ego Pottera, którzy kochają zwierzęta, z zestawem LEGO® Harry Potter™ (76448) **Fawkes: Fenix Dumbledore'a **zbudują model stworzenia ze świata magii i czarów. Ta ruchoma figurka Fawkesa ma pazury, za pomocą których może usiąść na szpilce, a **w zestawie** znajduje się również Mądry Kapelusz i Miecz Gryffindoru z klocków.
  
@@ -3258,7 +3258,7 @@ Przenieś zabawne doświadczenie budowlane dzieci na wyższy poziom dzięki apli
 
 ## 76449 — Lego Harry Potter Potworna księga potworów z zębami 76449
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 183.00 zł · EAN: 05702017812878 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 183.00 zł · EAN: 05702017812878 · in stock*
 
 **LEGO Harry Potter Potworna księga potworów z zębami 76449**
 
@@ -3286,7 +3286,7 @@ Model magicznej księgi ma 16 cm długości
 
 ## 76450 — Lego Harry Potter 76450 Stoper do książek: Pociąg ekspresowy do Hogwartu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 296.12 zł · EAN: 05702017812885 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 296.12 zł · EAN: 05702017812885 · in stock*
 
 LEGO Harry Potter 76450 Stoper do książek: Pociąg ekspresowy do Hogwartu
 
@@ -3312,7 +3312,7 @@ Ten zabawny kolekcjonerski zestaw pociągu to magiczny prezent dla chłopców, d
 
 ## 76451 — klocki Lego Harry Potter 76451 Privet Drive: Wizyta ciotki Marge
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702017812892 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702017812892 · in stock*
 
 Przeżyj wizytę ciotki Marge na Privet Drive 4 z filmu „Harry Potter i więzień Azkabanu” dzięki kolekcjonerskiemu zestawowi LEGO® Harry Potter™ (76451). Model przedstawia szczegółową replikę domu rodziny Dursleyów z oranżerią, którą można otworzyć, aby zyskać łatwy dostęp do wnętrza. W kuchni z jadalnią znajduje się odczepiany stół, a z tyłu domu ukryto sekretne drzwi prowadzące do dawnej sypialni Harry’ego w komórce pod schodami. W sypialni na piętrze można wyjąć kraty z okna, aby odtworzyć scenę ucieczki, a całość uzupełnia wiele realistycznych detali zachęcających do kreatywnej zabawy.
 
@@ -3332,7 +3332,7 @@ Ten magiczny zestaw to doskonały prezent świąteczny lub urodzinowy dla chłop
 
 ## 76452 — Lego Harry Potter 76452 Markowy sprzęt do quidditcha i lodziarnia
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 294.98 zł · EAN: 05702017812908 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 294.98 zł · EAN: 05702017812908 · in stock*
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -3362,7 +3362,7 @@ Buduj razem z przyjaciółmi i rodziną - aplikacja LEGO® Builder zapewnia zaba
 
 ## 76453 — Lego Harry Potter 76453 Dwór Malfoyów
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702017812915 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702017812915 · in stock*
 
 LEGO Harry Potter
 
@@ -3422,7 +3422,7 @@ Specyfikacja zestawu:
 
 ## 76454 — Lego Harry Potter 76454 Zamek Hogwart: Główna wieża
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 749.99 zł · EAN: 05702017812922 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 749.99 zł · EAN: 05702017812922 · in stock*
 
 ✅ **Największa Główna Wieża Hogwartu** – imponujący model pełen kultowych miejsc i magicznych detali.
 
@@ -3500,7 +3500,7 @@ Po zbudowaniu model ma około **67 cm wysokości, 36 cm szerokości i 14 cm gł�
 
 ## 76457 — Lego Harry Potter 76457 Hogsmeade edycja kolekcjonerska
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 1329.00 zł · EAN: 05702017824314 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1329.00 zł · EAN: 05702017824314 · in stock*
 
 **LEGO Harry Potter 76457 Hogsmeade - edycja kolekcjonerska**
  
@@ -3540,7 +3540,7 @@ Przywołaj wspomnienia magicznych zimowych scen w Hogsmeade dzięki temu spektak
 
 ## 76458 — Lego Harry Potter 76458 Rodzina testrali
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 225.49 zł · EAN: 05702017824819 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 225.49 zł · EAN: 05702017824819 · in stock*
 
 LEGO Harry Potter 76458
  
@@ -3564,7 +3564,7 @@ Buduj, baw się i ustawiaj na półce — figurka testrala do zbudowania w tym 5
 
 ## 76459 — Lego Harry Potter Ucieczka Hagrida i Harry’ego z Privet Drive 76459
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 59.48 zł · EAN: 05702018063361 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 59.48 zł · EAN: 05702018063361 · in stock*
 
 Przeżyj ponownie emocjonującą ucieczkę Hagrida™ i Harry'ego Pottera przed śmierciożercami z filmu Harry Potter i Insygnia Śmierci. Wznieś się w przestworza na latającym motocyklu Hagrida, z Harrym w koszu. Podczas brawurowej ucieczki przewróć doniczki na Privet Drive. Unikaj ścigających Cię śmierciożerców i udaj się do Nory!Motocykl LEGO Harry Potter — zabawka konstrukcyjna dla dzieci, nawiązująca do kultowej sceny ucieczki Hagrida i Harry'ego Pottera z filmu \"Harry Potter i Insygnia Śmierci\"Cztery minifigurki LEGO Harry Potter — dzieci mogą odgrywać historie z Harrym Potterem, Rubeusem Hagridem (w charakterystycznych goglach motocyklowych) i dwoma śmierciożercamiLatający LEGO motocykl Hagrida — dzieci mogą umieścić minifigurkę Rubeusa Hagrida na motocyklu LEGO i Harry'ego Pottera w koszu, a potem ustawić zbudowany zestaw na półce jako ozdobęUcieczka z Privet Drive — dzieci mogą zbudować minimodel ulicy Privet Drive z latarnią i dwiema doniczkami, które można przewrócić podczas ucieczki latającym motocyklem HagridaDrobny upominek dla 8-latka — mały zestaw klocków LEGO Harry Potter dla chłopców, dziewczynek i wszystkich fanów Harry'ego Pottera, świetnie sprawdzi się jako prezent na urodziny lub z innej okazjiCiekawy sposób na budowanie — aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać model motocykla dzięki trójwymiarowym instrukcjomCzęść szerokiej serii — kolekcjonerskie zestawy konstrukcyjne LEGO Harry Potter pozwalają młodym czarodziejom, czarownicom i mugolom odgrywać kultowe sceny, wymyślać własne przygody lub po prostu kolekcjonować modele
 
@@ -3572,7 +3572,7 @@ Przeżyj ponownie emocjonującą ucieczkę Hagrida™ i Harry'ego Pottera przed 
 
 ## 76460 — Lego Harry Potter Zamek Hogwart: Ceremonia przydziału 76460
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 44.99 zł · EAN: 05702018063378 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 44.99 zł · EAN: 05702018063378 · in stock*
 
 **LEGO Harry Potter Zamek Hogwart: Ceremonia przydziału 76460**
 
@@ -3602,7 +3602,7 @@ Koło losujące w tym 124-elementowym zestawie ma 6 cm wysokości
 
 ## 76461 — Lego Harry Potter 76461 Chochlik kornwalijski
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 91.68 zł · EAN: 05702018063385 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 91.68 zł · EAN: 05702018063385 · in stock*
 
 Rozpal iskrę dziecięcej wyobraźni pierwszym modelem LEGO® **Kornwalijskiego racha** (76461) z filmu Harry Potter i Komnata Tajemnic w skali 1:1. Ta **ruchoma **figurka doskonale nadaje się do zabawy i eksponowania i przypomina chaos, który spowodował profesor Zlatoslav Lockhart, gdy w ciągu godziny obrony przed czarną magią otworzył klatkę z „podstępną po diabłach bandą”.
 
@@ -3637,7 +3637,7 @@ Ten zestaw LEGO Harry Potter™ to magiczny prezent dla dziewczynek, chłopców 
 
 ## 76462 — Lego Harry Potter Herb Hogwartu 76462
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702018063392 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702018063392 · in stock*
 
 **LEGO Harry Potter Herb Hogwartu 76462**
 
@@ -3667,7 +3667,7 @@ Zbudowany z klocków herb Hogwartu mierzy 24 cm wysokości
 
 ## 76463 — Lego Harry Potter Zamek Hogwart: skrzydło szpitalne 76463
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 315.99 zł · EAN: 05702018063408 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 315.99 zł · EAN: 05702018063408 · in stock*
 
 **LEGO Harry Potter Zamek Hogwart: skrzydło szpitalne 76463**
 
@@ -3697,7 +3697,7 @@ Zestaw LEGO® Harry Potter™ składa się z 907 elementów i ma 38 cm wysokośc
 
 ## 76464 — Lego Harry Potter 76464 Kociołek: Sekretna Sala Zajęć Z Eliksirów
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 178.98 zł · EAN: 05702018063415 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 178.98 zł · EAN: 05702018063415 · in stock*
 
 Podaruj dzieciom magiczny zestaw LEGO® Harry Potter™ (76464) do zabawy i ekspozycji - magiczny kociołek z tajną klasą eliksirów w środku. Przesuń mieszadło, aby odsłonić wyrafinowaną salę lekcyjną ze zdejmowanymi ławkami, butelkami z eliksirami i składnikami z klocków LEGO. Zagraj na własną lekcję eliksirów w Hogwarcie z minifigurkami profesora Snape'a i Hermiony Granger. Znajdź patrona Hermiony w postaci wydry, który jest częścią kolekcji patronów do 25. Rocznica serii LEGO Harry Potter (zestawy sprzedawane oddzielnie) i 1 z 14 kolekcjonerskich portretów brodawek
 
@@ -3732,7 +3732,7 @@ Podaruj ten uniwersalny zestaw jako kreatywny prezent dziewczynom, chłopcom i f
 
 ## 76466 — Lego Harry Potter Kamień filozoficzny edycja kolekcjonerska 76466
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702018063422 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702018063422 · in stock*
 
 **LEGO Harry Potter Kamień filozoficzny - edycja kolekcjonerska 76466**
 
@@ -3762,7 +3762,7 @@ Zestaw LEGO® Harry Potter™ składa się z 1571 elementów i ma 24 cm wysokoś
 
 ## 76467 — Lego Harry Potter Dom Luny Lovegood 76467
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063439 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063439 · in stock*
 
 **LEGO Harry Potter Dom Luny Lovegood 76467**
 
@@ -3792,7 +3792,7 @@ Dom ma 29 cm wysokości
 
 ## 76469 — Lego Harry Potter 76469 Wolny skrzat Dobby
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 95.78 zł · EAN: 05702018063446 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 95.78 zł · EAN: 05702018063446 · in stock*
 
 LEGO Harry Potter 76469 Wolny skrzat Zgredek
  
@@ -3820,7 +3820,7 @@ Ten zestaw klocków dla dzieci to magiczny prezent dla chłopców, dziewczynek i
 
 ## 76470 — Lego Harry Potter 76470 Latający samochód Ford Anglia
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 248.29 zł · EAN: 05702018063453 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 248.29 zł · EAN: 05702018063453 · in stock*
 
 Rozpal iskrę wyobraźni małych czarodziejów, czarownic i mugoli dzięki zestawowi magicznego latającego samochodu **Ford Anglia**™ (76470) rodziny Weasleyów do zabawy i na wystawę. Ten zestaw to świetny prezent dla chłopców, dziewczynek i fanów Harry'ego Pottera w wieku od 14 lat. Jest to najbardziej wyrafinowany model tego słynnego pojazdu z klocków LEGO® w historii.
  
@@ -3846,7 +3846,7 @@ Dzieci mogą budować pewnie dzięki aplikacji LEGO Builder, która pozwala im p
 
 ## 76471 — Lego Harry Potter 76471 Magiczne Sklepy Na Ulicy Śmiertelnego Nokturnu
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063460 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063460 · in stock*
 
 **LEGO Harry Potter 76471 Magiczne sklepy na ulicy Śmiertelnego Nokturnu**
 
@@ -3876,7 +3876,7 @@ WYMIARY sklep Borgina i Burkesa w tym 788-elementowym zestawie ma 19 cm wysokoś
 
 ## 76473 — Lego Harry Potter 76473 Zamek Hogwart: Wschodnie skrzydło
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 815.81 zł · EAN: 05702018063477 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 815.81 zł · EAN: 05702018063477 · in stock*
 
 LEGO Harry Potter 76473 Zamek Hogwart: Wschodnie skrzydło
 
@@ -3902,7 +3902,7 @@ Możesz połączyć siły z przyjaciółmi i rodziną w trybie „Wspólne budow
 
 ## 76474 — Lego Harry Potter 76474 Zielnik W Hogwarcie
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063484 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063484 · in stock*
 
 LEGO Harry Potter 76474 Rośliny z lekcji zielarstwa w Hogwarcie
 
@@ -3932,7 +3932,7 @@ WYMIARY ten 817-elementowy zestaw z mimbulusem mimbletonią na stole ma 24 cm wy
 
 ## 76475 — Lego Harry Potter 76475 Zakazany Las: Expecto Patronum
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 81.43 zł · EAN: 05702018062449 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 81.43 zł · EAN: 05702018062449 · in stock*
 
 LEGO Harry Potter 76475 Zakazany Las: Expecto Patronum
  
@@ -3958,7 +3958,7 @@ Dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, 
 
 ## 76477 — Lego Harry Potter Norbert: mały smok Hagrida 76477
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018069004 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018069004 · in stock*
 
 **LEGO Harry Potter Norbert: mały smok Hagrida 76477**
 
@@ -3986,7 +3986,7 @@ Ten model smoka ma 32 cm długości
 
 ## 76478 — Lego Harry Potter 76478 Book nook: Gabinet Dumbledore’a
 
-*Seria: Harry Potter · cena Allegro (2026-08-17): 649.41 zł · EAN: 05702018069011 · in stock*
+*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.41 zł · EAN: 05702018069011 · in stock*
 
 LEGO Harry Potter 76478 Book nook: Gabinet Dumbledore’a
  

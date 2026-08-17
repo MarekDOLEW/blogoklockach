@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Technic — opisy produktowe (233 zestawów)
+# LEGO Technic — opisy produktowe (233 pozycji)
 
 ## 1237 — Lego Technic Robot humanoidalny Honda Asimo 1237 Misb 2001 mikołaj choinka
 
-*Seria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702012017438 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702012017438 · in stock*
 
 Nowy, fabrycznie zamknięty polybag Lego wraz z pudełkiem i arkuszem naklejek. Unikatowy promocyjny zestaw dostępny od stycznia do marca 2001 roku w salonach samochodowych Honda w Japonii. Wydany z okazji zaprezentowania najbardziej zaawansowanego technologicznie robota humanoidalnego - Asimo. Zawiera najrzadszy element Technic w historii - biały pin 3L.
 
@@ -25,7 +25,7 @@ Nazwa:** Honda Asimo Robot**
 
 ## 2290 — Lego Technic Batyskaf Łódź Podwodna Badawcza Odkrywcza Statek L0002290
 
-*Seria: Technic · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702017816241 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702017816241 · in stock*
 
 LEGO® Technic: Batyskaf – Badawcza Łódź Podwodna (L0002290)
 
@@ -63,7 +63,7 @@ Zapraszamy na nasze oferty!
 
 ## 30433 — Lego 42233 Technic Potężne Maszyny Dźwig Z Kulą Wyburzeniową NR5
 
-*Seria: Technic · cena Allegro (2026-08-17): 22.49 zł · EAN: 05702017159164 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 22.49 zł · EAN: 05702017159164 · in stock*
 
 **ZESTAW LEGO**
 
@@ -94,7 +94,7 @@ Zapraszamy na nasze oferty!
 
 ## 30465 — Lego Technic 30465 Helikopter 2021 rok! polybag saszetka
 
-*Seria: Technic · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016912869 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016912869 · in stock*
 
 LEGO Klocki Technic 30465 Helikopter
 
@@ -120,7 +120,7 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 ## 30682 — Lego Technic 30682 Nasa Mars Rover Perseverance
 
-*Seria: Technic · cena Allegro (2026-08-17): 15.85 zł · EAN: 05702017595481 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 15.85 zł · EAN: 05702017595481 · in stock*
 
 ⭐LEGO 30682 Technic NASA Mars Rover Perseverance ⭐
 
@@ -140,7 +140,7 @@ Nowość od **LEGO Technic - model NASA Mars Rover Perseverance.**
 
 ## 30710 — Lego(r) Technic 30710 Miniładowarka 7+
 
-*Seria: Technic · cena Allegro (2026-08-17): 12.37 zł · EAN: 05702017820231 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 12.37 zł · EAN: 05702017820231 · in stock*
 
 Lego
 
@@ -155,7 +155,7 @@ Podaruj siedmiolatkom i starszym dzieciom niesamowity zestaw z miniładowarką. 
 
 ## 30735 — 30735 Lego Technic Hot Rod Car Nowy I Zestaw Klocków Lego!!!
 
-*Seria: Technic · cena Allegro (2026-08-17): 10.44 zł · EAN: 05702018070512 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 10.44 zł · EAN: 05702018070512 · in stock*
 
 **LEGO Technic Hot rod 30735**
  
@@ -165,7 +165,7 @@ Zaskocz fanów motoryzacji tym modelem samochodu LEGO® Technic Hot Rod. Pojazd 
 
 ## 42000 — Lego Technic 42000 Samochód wyścigowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014973008 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014973008 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -190,7 +190,7 @@ Zestaw **LEGO 42000 **to doskonały wybór dla fanów motoryzacji i konstrukcji,
 
 ## 42001 — Lego 42001 Technic 2w1 Mały samochód terenowy, Off-road, buggy 4x4
 
-*Seria: Technic · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014973015 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014973015 · in stock*
 
 LEGO 42001 Technic 2w1 - Mały samochód terenowy, Off-road, buggy 4x4
 
@@ -209,7 +209,7 @@ W tym modelu realistycznie odzwierciedlono atrakcyjne detale, takie jak przeznac
 
 ## 42002 — Lego Technic 42002 Poduszkowiec – Terenowa Przygoda 2w1 wgniotka
 
-*Seria: Technic · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702014973022 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702014973022 · in stock*
 
 LEGO Technic 42002 Poduszkowiec – Terenowa Przygoda 2w1
 
@@ -237,7 +237,7 @@ Szukasz modelu, który poradzi sobie na wirtualnym lądzie, wodzie i lodzie? Zes
 
 ## 42005 — Lego Technic 42005 2w1 Monster truck, auto na resorach
 
-*Seria: Technic · cena Allegro (2026-08-17): 589.00 zł · EAN: 05702014966574 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 589.00 zł · EAN: 05702014966574 · in stock*
 
 Niesamowity monster truck LEGO® Technic to maszyna do zadań specjalnych! Ten model „2 w 1” jest wyposażony w zawieszenie na 4 koła, napęd na cztery koła oraz monstrualnie wielkie gumowe opony. Karoserię ozdabiają nadruki płomieni. Zmiażdż przeciwników i zachwyć tłumy, a potem zmień ciężarówkę w łazik z tylnym zawieszeniem, układem kierowniczym tylnej osi oraz ruchomym tylnym spojlerem i wyrusz na rajd po wydmach!
 
@@ -250,7 +250,7 @@ Niesamowity monster truck LEGO® Technic to maszyna do zadań specjalnych! Ten 
 
 ## 42006 — Lego Technic 42006 Koparka Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1176.00 zł · EAN: 05702014974210 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1176.00 zł · EAN: 05702014974210 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -286,7 +286,7 @@ Nie przegap okazji, by dodać **LEGO 42006 Koparkę Gąsienicową **do swojej ko
 
 ## 42007 — Lego Technic 42007 Motor crossowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014975354 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014975354 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -300,7 +300,7 @@ Ten niesamowity motor crossowy nie boi się żadnego toru! Wytrzymały jednośla
 
 ## 42008 — Lego Technic 42008 Wóz techniczny
 
-*Seria: Technic · cena Allegro (2026-08-17): 1449.95 zł · EAN: 05702014975590 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1449.95 zł · EAN: 05702014975590 · in stock*
 
 UWAGA ! Zestaw nowy, nieotwierany, oryginalnie zapakowany. Kilka lat przeleżał na magazynie - możliwe lekkie przetarcia/rysy pudełka. Nie jest to outlet ani zwrot.
 
@@ -323,7 +323,7 @@ Gdy tylko jakiś pojazd utknie w drodze, możesz wyruszyć na ratunek wytrzymał
 
 ## 42009 — Klocki Lego Technic Zestaw Ruchomy żuraw Mk II 42009
 
-*Seria: Technic · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014975606 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014975606 · in stock*
 
 LEGO Technic 42009 – Ruchomy Żuraw MKII (Mobile Crane MKII)
 
@@ -355,7 +355,7 @@ Przedmiotem sprzedaży jest jeden z największych i najbardziej szczegółowych 
 
 ## 42010 — Lego 42010 Technic Off-road Racer
 
-*Seria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702014975613 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702014975613 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -383,7 +383,7 @@ Przedmiotem sprzedaży jest jeden z największych i najbardziej szczegółowych 
 
 ## 42011 — Lego 42011 Technic Samochód wyścigowy, formuła na napęd Unikat z 2013 R.
 
-*Seria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014975620 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014975620 · in stock*
 
 LEGO 42011 Samochód wyścigowy
 
@@ -401,7 +401,7 @@ W przypadku jakichkolwiek problemów z płatnością lub innych proszę o inform
 
 ## 42022 — Lego 42022 Technic Hot Rod składany dach Unikat z roku 2014 Nowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015122504 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015122504 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -430,7 +430,7 @@ Zasiądź za kierownicą niesamowitego hot roda LEGO® Technic i ruszaj z piskie
 
 ## 42023 — Lego Technic 42023 Maszyny Budowlane Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015122511 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015122511 · in stock*
 
 **Klocki LEGO 42023 Maszyny budowlane**
  
@@ -456,7 +456,7 @@ Niesamowite maszyny budowlane LEGO® Technic pozwolą Ci odtworzyć w skali ca�
 
 ## 42024 — Lego Technic 42024 Lego Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015122528 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015122528 · in stock*
 
 *
  
@@ -498,7 +498,7 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
 
 ## 42025 — Lego Technic 42025 Samolot transportowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015122535 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015122535 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -525,7 +525,7 @@ Rozpędź się na pasie startowym i wzbij w powietrze, przewożąc kolejny ładu
 
 ## 42026 — Lego Technic 42026 Czarny Zdobywca Dróg Formuła Bolid Pull Back Unikat
 
-*Seria: Technic · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015122542 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015122542 · in stock*
 
 LEGO TECHNIC 42026 Czarny Zdobywca Dróg
 
@@ -553,7 +553,7 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 ## 42027 — Lego Technic Pustynna wyścigówka 42027
 
-*Seria: Technic · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015122559 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015122559 · in stock*
 
 Zestaw zawiera 148 elementów, aby skonstruować pustynną wyścigówkę, przystosowaną do jazdy w trudnym terenie.
 
@@ -573,7 +573,7 @@ LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, 
 
 ## 42028 — Lego Technic 42028 Buldożer Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702015122566 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702015122566 · in stock*
 
 - Numer zestawu: 42028 
 - Liczba elementów: 617 
@@ -595,7 +595,7 @@ Przygotuj się do spychania wielkich ciężarów przy pomocy niesamowitego buldo
 
 ## 42029 — Lego Technic 42029 Ciężarówka Po Tuningu Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702015122573 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702015122573 · in stock*
 
 NOWY
  
@@ -625,7 +625,7 @@ Transportuj wielkie ciężary w trudnym terenie za pomocą gigantycznej czerwone
 
 ## 42030 — Lego Technic Koparka Volvo L350F 42030
 
-*Seria: Technic · cena Allegro (2026-08-17): 1599.99 zł · EAN: 05702015122580 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1599.99 zł · EAN: 05702015122580 · in stock*
 
 KLOCKI LEGO TECHNIC 42030 2 W 1 KOPARKA VOLVO L350F
  
@@ -677,7 +677,7 @@ WIEK: +11
 
 ## 42032 — Lego 42032 Technic Mała ładowarka gąsienicowa
 
-*Seria: Technic · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702015350037 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702015350037 · in stock*
 
 LEGO 42032 Technic - Mała ładowarka gąsienicowa
 
@@ -696,7 +696,7 @@ Oczyść drogę za pomocą małej ładowarki gąsienicowej! Ten solidny model LE
 
 ## 42034 — Lego 42034 Technic Quad kład Terenówka Unikat z 2015 roku
 
-*Seria: Technic · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015350013 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015350013 · in stock*
 
 Nowy zestaw klocków
 
@@ -731,7 +731,7 @@ Pokonuj nawet najtrudniejszy teren dzięki wytrzymałemu quadowi LEGO® Technic!
 
 ## 42035 — Lego Technic 42035 Ciężarówka Górnicza 2w1 Spycharka
 
-*Seria: Technic · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702015350006 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702015350006 · in stock*
 
 LEGO TECHNIC 42035 Ciężarówka Górnicza
 
@@ -758,7 +758,7 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 ## 42036 — Lego Technic 42036 Miejski motocykl 2 w 1 Czytaj Opis
 
-*Seria: Technic · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015349994 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015349994 · in stock*
 
 WITAM SERDECZNIE.
 
@@ -776,7 +776,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 42037 — Lego Technic 42037 Terenówka
 
-*Seria: Technic · cena Allegro (2026-08-17): 386.61 zł · EAN: 05702015349987 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 386.61 zł · EAN: 05702015349987 · in stock*
 
 LEGO Technic 42037 Terenówka
 
@@ -810,7 +810,7 @@ LEGO Technic 42037 Terenówka
 
 ## 42038 — Lego Technic 42038 Łazik Arktyczny
 
-*Seria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015350051 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015350051 · in stock*
 
 Zasiądź za kierownicą ogromnego łazika arktycznego LEGO® Technic.   Ten potężny łazik śnieżny przeznaczony jest do pokonywania arktycznego terenu i wielkich zasp.   Wyposażony jest w 4 wielkie gąsienice zapewniające maksymalną zwrotność, działające przednie zawieszenie,   ogromną kabinę z otwieranymi drzwiami, złożony mechanizm zawieszenia zapewniający optymalną elastyczność,   działające ramię dźwigu z hakiem i wciągarką, odchylaną skrzynię ładunkową, a także charakteryzuje się   efektowną kolorystyką łączącą jasny pomarańcz z czernią.
 
@@ -830,7 +830,7 @@ Zasiądź za kierownicą ogromnego łazika arktycznego LEGO® Technic.   Ten po
 
 ## 42039 — Klocki Lego Technic Zestaw Superszybka wyścigówka 2 w 1 42039
 
-*Seria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702015349789 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702015349789 · in stock*
 
 Ścigaj się z zatrważającą prędkością w niebywale szybkiej długodystansowej wyścigówce! Ten solidny model z serii LEGO® Technic z pieczołowicie oddanymi szczegółami ma wszystko to, co prawdziwa wyścigówka: szczegółowo oddany silnik V8 z ruchomymi tłokami, otwierane pionowo drzwi, w pełni niezależne zawieszenie, działający przedni układ kierowniczy, wysoko umieszczone błotniki oraz otwierany bagażnik przedni i pokrywę silnika. Załóż rękawice i wciśnij pedał gazu! Wykorzystaj zestaw napędowy 8293 Funkcje mechaniczne (nie wchodzi w skład tego zestawu), aby zamontować w pojeździe jasne reflektory LED oraz zautomatyzować otwieranie drzwi i pokrywy silnika. Z tego modelu typu 2 w 1 można zbudować wyścigowego SUV-a.
 
@@ -854,7 +854,7 @@ Wymiary długodystansowej wyścigówki: 10 cm wysokości, 48 cm długości i 2
 
 ## 42040 — Klocki Lego Technic Zestaw 2w1 Samolot strażacki Odrzutowiec 42040
 
-*Seria: Technic · cena Allegro (2026-08-17): 868.00 zł · EAN: 05702015349772 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 868.00 zł · EAN: 05702015349772 · in stock*
 
 Klocki LEGO 42040 Samolot strażacki
 
@@ -880,7 +880,7 @@ Wymiary samolotu odrzutowego: 14 cm wysokości, 38 cm długości i 19 cm szer
 
 ## 42041 — Lego Technic 42041 Ciężarówka wyścigowa Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015349765 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015349765 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -904,7 +904,7 @@ Przygotuj się na emocjonująco szybką jazdę w ciężarówce wyścigowej LEGO�
 
 ## 42042 — Lego Technic 42042 Żuraw gąsienicowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1429.00 zł · EAN: 05702015349758 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1429.00 zł · EAN: 05702015349758 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -930,7 +930,7 @@ Zrób miejsce dla potężnego żurawia gąsienicowego LEGO® Technic! Ten ogromn
 
 ## 42043 — Lego Technic 42043 Mercedes Benz Arocs 3245 Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015349741 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015349741 · in stock*
 
 LEGO Technic 42043 - Mercedes-Benz Arocs 3245
  
@@ -968,7 +968,7 @@ Wymiary przegubowej ciężarówki budowlanej Mercedes-Benz (z wysuniętym wysię
 
 ## 42044 — Lego Technic 42044 Odrzutowiec
 
-*Seria: Technic · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702015590921 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702015590921 · in stock*
 
 LEGO Technic 42044 Odrzutowiec
 
@@ -986,7 +986,7 @@ LEGO Technic to seria zestawów, które łączą ze sobą tradycyjne klocki z li
 
 ## 42045 — Lego Technic 42045 Wyścigowy wodolot Łódź Speedboat 2w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 244.42 zł · EAN: 05702015590938 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 244.42 zł · EAN: 05702015590938 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1014,7 +1014,7 @@ Marzy ci się podium w wyścigach na wodzie? Zbuduj wyścigowy wodolot, który m
 
 ## 42046 — Lego Technic 42046 Wyścigówka zbiegów Hot-Rod napęd pull-back Unikat
 
-*Seria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702015590945 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702015590945 · in stock*
 
 Nowy zestaw klocków
 
@@ -1046,7 +1046,7 @@ Wyścigówki zbiegów nie dogoni żaden pościg! To wyjątkowe auto w ciemnoszar
 
 ## 42047 — Lego Technic 42047 Radiowóz pościgowy policja terenówka na dużych kołach
 
-*Seria: Technic · cena Allegro (2026-08-17): 249.50 zł · EAN: 05702015590952 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 249.50 zł · EAN: 05702015590952 · in stock*
 
 Nowy zestaw klocków
 
@@ -1078,7 +1078,7 @@ Wezwij szybki jak wiatr radiowóz pościgowy, utrzymany w kolorach białym, czar
 
 ## 42048 — Klocki Lego Technic Zestaw Gokart Kart wyścigowy 42048
 
-*Seria: Technic · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015590969 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015590969 · in stock*
 
 Klocki LEGO TECHNIC Gokart 42048
 
@@ -1102,7 +1102,7 @@ Torowa wyścigówka ma ok. 8 cm wysokości, 25 cm długości i 12 cm szerokości
 
 ## 42049 — Lego Technic 42049 Ładowarka górnicza
 
-*Seria: Technic · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702015591973 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702015591973 · in stock*
 
 LEGO TECHNIC
  
@@ -1124,7 +1124,7 @@ Ta realistyczna replika górniczej ładowarki zabierze cię na przejażdżkę ko
 
 ## 42050 — Lego 42050 Technic Dragster model silnika V8 wyścigówka 2w1 Unikat
 
-*Seria: Technic · cena Allegro (2026-08-17): 575.00 zł · EAN: 05702015591980 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 575.00 zł · EAN: 05702015591980 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1158,7 +1158,7 @@ Potężny Dragster całą trasę wyścigu pokonuje z przednimi kołami w górze 
 
 ## 42052 — Lego Technic 42052 nowy zestaw Julivo
 
-*Seria: Technic · cena Allegro (2026-08-17): 1025.00 zł · EAN: 05702015592062 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1025.00 zł · EAN: 05702015592062 · in stock*
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -1207,7 +1207,7 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 ## 42053 — Lego Technic 42053 Volvo EW160E
 
-*Seria: Technic · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702015592055 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702015592055 · in stock*
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -1221,7 +1221,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 42054 — Klocki Lego Technic 2w1 Claas Xerion 5000 Trac VC 42054
 
-*Seria: Technic · cena Allegro (2026-08-17): 1841.44 zł · EAN: 05702015594073 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1841.44 zł · EAN: 05702015594073 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1253,7 +1253,7 @@ Po włączeniu silnika Power Functions, który znajduje się w zestawie, można 
 
 ## 42055 — Klocki Lego Technic Zestaw Górnicza koparka kołowa 42055
 
-*Seria: Technic · cena Allegro (2026-08-17): 2488.00 zł · EAN: 05702015594011 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 2488.00 zł · EAN: 05702015594011 · in stock*
 
 LEGO Technic Zestaw Górnicza koparka kołowa 42055
 
@@ -1291,7 +1291,7 @@ Zestaw wymaga baterii: 6xAA. Nie dołączone do zestawu
 
 ## 42056 — Lego Technic 42056 Lego Technic Porsche 911 GT3 Rs 42056
 
-*Seria: Technic · cena Allegro (2026-08-17): 3949.00 zł · EAN: 05702015594028 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 3949.00 zł · EAN: 05702015594028 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1323,7 +1323,7 @@ ORYGINALNY MODEL LEGO® Technic, który przybliży Ci kultowe Porsche 911 GT3 R
 
 ## 42057 — Lego Technic 42057 nowy zestaw Julivo
 
-*Seria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015869447 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015869447 · in stock*
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -1365,7 +1365,7 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 ## 42058 — Lego 42058 Technic Kaskaderski motocykl ścigacz- napęd pull-back rampa
 
-*Seria: Technic · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702015869454 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702015869454 · in stock*
 
 **Nowy zestaw klocków**
 
@@ -1391,7 +1391,7 @@ Uruchom potężny silnik typu pull-back, a motocykl jak strzała popędzi po poc
 
 ## 42059 — Lego Technic Kaskaderska terenówka 42059 Nowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015869461 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015869461 · in stock*
 
 LEGO 42059 TECHNIC Kaskaderska Terenówka
  
@@ -1437,7 +1437,7 @@ WIEK: 7-14 LAT
 
 ## 42061 — Lego Technic 42061 Ładowarka teleskopowa Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702015869683 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702015869683 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1466,7 +1466,7 @@ Dzięki tej replice prawdziwej ładowarki teleskopowej sięgniesz naprawdę wyso
 
 ## 42062 — Lego Technic 42062 Plac przeładunkowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 604.00 zł · EAN: 05702015869690 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 604.00 zł · EAN: 05702015869690 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1497,7 +1497,7 @@ Solidne i odwzorowane z dbałością o szczegóły modele z zestawu Plac przeła
 
 ## 42063 — Klocki Lego Technic motocykl Bmw R 1200 Gs Adventure 603 elementów plastik
 
-*Seria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015869706 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015869706 · in stock*
 
 LEGO TECHNIC 42063 MOTOCYKL BMW R1200 GS ADVENTURE
 
@@ -1530,7 +1530,7 @@ Ta realistyczna replika LEGO® Technic przybliży Ci nowoczesne rozwiązania mot
 
 ## 42064 — Lego Technic Zestaw Statek badawczy Helikopter 42064
 
-*Seria: Technic · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702015869713 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702015869713 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1573,7 +1573,7 @@ Zestaw Statek badawczy LEGO® Technic zaprasza do przeżycia morskich przygód. 
 
 ## 42065 — Lego Technic Zdalnie Sterowana Wyścigówka 42065 b
 
-*Seria: Technic · cena Allegro (2026-08-17): 777.49 zł · EAN: 05702015869720 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 777.49 zł · EAN: 05702015869720 · in stock*
 
 Zdalnie sterowana wyścigówka
 
@@ -1595,7 +1595,7 @@ Całkowicie zmechanizowana, Zdalnie sterowana wyścigówka LEGO® Technic potraf
 
 ## 42066 — Lego Technic Zestaw Samolot Mysliwiec Odrzutowiec 42066
 
-*Seria: Technic · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015869737 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015869737 · in stock*
 
 **LEGO Technic Zestaw Samolot Odrzutowiec 42066**Budowa tego fantastycznego, aerodynamicznego modelu LEGO® Technic da Ci mnóstwo zadowolenia! Niebiesko-czarno-czerwony odrzutowiec wyścigowy ma naprawdę świetne naklejki wyścigowe i szereg detali, które podnoszą jego autentyzm, a także niezwykłe funkcje zmechanizowane. Włącz znajdujący się w zestawie silnik Power Functions, by ustawić dyszę silnika odrzutowego w położeniu do startu poziomego lub pionowego, otworzyć kadłub, opuścić lub wciągnąć podwozie, otworzyć klapkę kryjącą kręcący się silnik turbowentylatorowy lub ustawić klapy w położeniu do lotu! W tym niezwykłym modelu znajdziesz także wszechstronny układ kierowniczy przedniego koła, ruchome płaszczyzny sterowe na ogonie oraz ukazany ze szczegółami otwierany kokpit. A gdy nabierzesz ochoty na nowe konstruktorskie wyzwanie, możesz przerobić ten model na świetny prywatny samolot odrzutowy.
 
@@ -1603,7 +1603,7 @@ Całkowicie zmechanizowana, Zdalnie sterowana wyścigówka LEGO® Technic potraf
 
 ## 42068 — Klocki Lego Technic Pojazd straży pożarnej 42068 1094 elementy
 
-*Seria: Technic · cena Allegro (2026-08-17): 1379.00 zł · EAN: 05702015869744 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1379.00 zł · EAN: 05702015869744 · in stock*
 
 Klocki LEGO Technic 42068 - Pojazd straży pożarnej
 
@@ -1623,7 +1623,7 @@ Ta realistyczna replika prawdziwego lotniskowego pojazdu ratowniczego z serii LE
 
 ## 42069 — Lego Technic zestaw ekstremalna przygoda 42069
 
-*Seria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015869751 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015869751 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1647,7 +1647,7 @@ Sprawdź niezwykłą przyczepność i manewrowość tego ekstremalnego pojazdu z
 
 ## 42070 — Lego Technic 42070 Terenowy holownik 6x6 1862 elementy
 
-*Seria: Technic · cena Allegro (2026-08-17): 1490.00 zł · EAN: 05702015869768 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1490.00 zł · EAN: 05702015869768 · in stock*
 
 LEGO Terenowy holownik 6x6 42070
  
@@ -1672,7 +1672,7 @@ Spiesz na pomoc innym pojazdom w całkowicie zdalnie sterowanym terenowym holown
 
 ## 42071 — Lego Technic 42071 Klocki 2018 Spychacz 42071 kartonik podniszczony
 
-*Seria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702016093247 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702016093247 · in stock*
 
 LEGO TECHNIC SPYCZ 42071
 
@@ -1704,7 +1704,7 @@ Poznaj prawdziwą moc tej autentycznej repliki prawdziwej spycharki z kabiną ki
 
 ## 42072 — Lego Technic 42072 Żółta wyścigówka
 
-*Seria: Technic · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702016093254 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702016093254 · in stock*
 
 LEGO TECHNIC
  
@@ -1730,7 +1730,7 @@ Wyścigówka kombi ma ok. 9 cm wysokości, 20 cm długości i 10 cm szerokości.
 
 ## 42073 — Lego Technic 42073 Czerwona wyścigówka nowy zestaw klocków
 
-*Seria: Technic · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702016093261 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702016093261 · in stock*
 
 Witam
 
@@ -1762,7 +1762,7 @@ Wyścigówka kombi ma ok. 9 cm wysokości, 20 cm długości i 10 cm szerokości.
 
 ## 42074 — Lego Technic 42074 Jacht wyścigowy Katamaran Żaglówka Łódź
 
-*Seria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702016093971 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702016093971 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1795,7 +1795,7 @@ Wkrocz do świata sportów wodnych z rewelacyjnym Jachtem wyścigowym LEGO® Tec
 
 ## 42076 — Klocki Lego Technic Zestaw Poduszkowiec 42076
 
-*Seria: Technic · cena Allegro (2026-08-17): 598.99 zł · EAN: 05702016116908 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 598.99 zł · EAN: 05702016116908 · in stock*
 
 KLOCKI LEGO ZESTAW TECHNIC 42076 PODUSZKOWIEC NOWOŚĆ 2018
 
@@ -1837,7 +1837,7 @@ Wymiary:
 
 ## 42077 — Lego Technic 42077 Niebieska wyścigówka
 
-*Seria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702016116915 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702016116915 · in stock*
 
 Klocki LEGO® 42077 Technic Niebieska wyścigówka
 
@@ -1866,7 +1866,7 @@ Zestaw jest przeznaczony dla budowniczych od 10. roku życia. Sprawdzi się u os
 
 ## 42078 — Klocki Lego Technic Zestaw Tir Ciężarówka Mack Anthem 42078
 
-*Seria: Technic · cena Allegro (2026-08-17): 1484.00 zł · EAN: 05702016116939 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1484.00 zł · EAN: 05702016116939 · in stock*
 
 LEGO ZESTAW TECHNIC 42078 MACK ANTHEM
 
@@ -1892,7 +1892,7 @@ Model 2-w-1: przebudowuje się w replikę słynnego śmieciarza Mack LR.
 
 ## 42079 — Lego 42079 Technic Wózek widłowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016116946 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016116946 · in stock*
 
 Klocki LEGO TECHNIC
  
@@ -1924,7 +1924,7 @@ Przenieś zabawę klockami LEGO® Technic na wyższy poziom — poznaj zestaw 42
 
 ## 42080 — Lego Technic Maszyna Leśna 42080 b
 
-*Seria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016116984 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016116984 · in stock*
 
 **Maszyna leśna**
 
@@ -1952,7 +1952,7 @@ Ciesz się satysfakcją z budowania i zabawy, jaką zapewnia zestaw LEGO® Techn
 
 ## 42081 — Lego Technic Klocki 42081 Volo Ładowarka Kołowa
 
-*Seria: Technic · cena Allegro (2026-08-17): 669.88 zł · EAN: 00673419283861 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 669.88 zł · EAN: 00673419283861 · in stock*
 
 LEGO TECHNIC 42081 VOLO ŁADOWARKA KOŁOWA.
 
@@ -1984,7 +1984,7 @@ LEGO TECHNIC 42081 VOLO ŁADOWARKA KOŁOWA.
 
 ## 42082 — Klocki Lego Technic 42082 Dźwig
 
-*Seria: Technic · cena Allegro (2026-08-17): 1742.00 zł · EAN: 00673419283878 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1742.00 zł · EAN: 00673419283878 · in stock*
 
 LEGO TECHNIC 42082 DŹWIG.
 
@@ -2016,7 +2016,7 @@ Zestaw 2 w 1 LEGO® Technic: można przebudować na mobilny kafar.
 
 ## 42083 — Lego Technic Bugatti Chiron 42083
 
-*Seria: Technic · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702016116977 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702016116977 · in stock*
 
 LEGO Technic Bugatti Chiron 42083
  
@@ -2049,7 +2049,7 @@ Zestaw dostarczany jest w wysokiej klasy pudełku zawierającym kolekcjonerską 
 
 ## 42084 — Lego Technic 42084 Hakowiec Ciężarówka Wóz strażacki Straż 2w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 199.50 zł · EAN: 05702016093988 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 199.50 zł · EAN: 05702016093988 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2081,7 +2081,7 @@ Ta autentyczna replika LEGO® Technic prawdziwego hakowca dostarczy Ci mnóstwa 
 
 ## 42088 — Lego Technic 42088 Ciężarówka z wysięgnikiem Holownik Hakowiec
 
-*Seria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702016396294 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702016396294 · in stock*
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2112,7 +2112,7 @@ Wyjaśnij swojemu młodemu pasjonatowi LEGO® podstawy działania kół zębatyc
 
 ## 42089 — Lego Technic 42089 Motorówka nowy zestaw klocków model z 2019 r.
 
-*Seria: Technic · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702016369342 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702016369342 · in stock*
 
 Witam
 
@@ -2141,7 +2141,7 @@ Pędź do mety aerodynamicznym modelem 2 w 1 LEGO® Technic 42089 Motorówka. Ł
 
 ## 42090 — Lego Technic 42090 Monster Truck Złoczyńców
 
-*Seria: Technic · cena Allegro (2026-08-17): 108.48 zł · EAN: 05702016369359 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 108.48 zł · EAN: 05702016369359 · in stock*
 
 PRZEDMIOTEM AUKCJI JEST NOWY ORYGINALNIE ZAPAKOWANY ZESTAW
 
@@ -2166,7 +2166,7 @@ Klocki wysyłamy w dniu otrzymania przelewu w usztywnionym kartonie zapewniając
 
 ## 42091 — Lego Technic 42091 Policyjny Pościg Pull back
 
-*Seria: Technic · cena Allegro (2026-08-17): 329.99 zł · EAN: 00673419303224 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 329.99 zł · EAN: 00673419303224 · in stock*
 
 LEGO TECHNIC POLICYJNY POŚCIG 42091
 
@@ -2198,7 +2198,7 @@ Uruchom napęd typu pull-back i rozpocznij dynamiczny pościg radiowozem z zesta
 
 ## 42093 — Lego Technic 42093 Chevrolet Corvette ZR1 2 w 1
 
-*Seria: Technic · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016369588 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016369588 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2236,7 +2236,7 @@ Odtwórz prawdziwe arcydzieło inżynierii w zestawie LEGO Technic 42093 Chevrol
 
 ## 42094 — Klocki Lego Technic Zestaw Koparka gąsienicowa 42094
 
-*Seria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016368055 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016368055 · in stock*
 
 Zbuduj wspaniałą, wielofunkcyjną maszynę budowlaną — Koparką gąsienicową LEGO® Technic. Ten fantastyczny, żółto-czarny model jest ozdobiony naklejkami i wyposażony w ciekawe połączenie funkcji ręcznych
 
@@ -2264,7 +2264,7 @@ Ciesz się satysfakcją z budowania i zabawy, jaką zapewnia zestaw LEGO® Techn
 
 ## 42095 — Lego Technic 42095 nowy zestaw Julivo
 
-*Seria: Technic · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016368062 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016368062 · in stock*
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2303,7 +2303,7 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 ## 42096 — Lego Technic 42096 Porsche 911 Rsr
 
-*Seria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016369878 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016369878 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2326,7 +2326,7 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 ## 42097 — Lego Technic 42097 Żuraw typu pająk
 
-*Seria: Technic · cena Allegro (2026-08-17): 758.99 zł · EAN: 05702016369885 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 758.99 zł · EAN: 05702016369885 · in stock*
 
 LEGO Żuraw typu pająk 42097
  
@@ -2348,7 +2348,7 @@ Zestaw LEGO Technic 42097 Żuraw typu pająk pomoże młodym konstruktorom LEGO 
 
 ## 42098 — Lego Technic 42098 Laweta
 
-*Seria: Technic · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702016369892 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702016369892 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2388,7 +2388,7 @@ Zestaw LEGO Technic 42098 Laweta pozwoli młodym budowniczym LEGO poznać podsta
 
 ## 42099 — Lego Technic 42099 Zdalnie sterowany pojazd terenowy Nowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702016369908 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702016369908 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2414,7 +2414,7 @@ Dzięki zestawowi LEGO 42099 - Zdalnie sterowany pojazd terenowy, możesz poczu�
 
 ## 42100 — Lego Technic 42100 Koparka Liebherr R 9800
 
-*Seria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702016369915 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702016369915 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2471,7 +2471,7 @@ Ekran sterowania jednym dotknięciem pozwala użytkownikom kreślić wzory porus
 
 ## 42102 — Lego 42102 Technic Mini Claas Xerion
 
-*Seria: Technic · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016616415 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016616415 · in stock*
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -2492,7 +2492,7 @@ Przybliżone wymiary opakowania:** 15,7 x 14,1 x 6,1 cm**
 
 ## 42103 — Lego 42103 Technic Dragster
 
-*Seria: Technic · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702016616422 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702016616422 · in stock*
 
 Klocki LEGO Technic 42103 - Dragster
 
@@ -2530,7 +2530,7 @@ Zestaw LEGO Technic - Dragster trafił do sprzedaży w 2020 roku. Numer katalo
 
 ## 42105 — Lego 42105 Technic Katamaran
 
-*Seria: Technic · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702016616446 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702016616446 · in stock*
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -2548,7 +2548,7 @@ Przybliżone wymiary opakowania:** 7 x 26,2 x 38,2 cm**
 
 ## 42106 — Lego Technic Duży Samochód Sportowy z Napędem Model dla Dzieci
 
-*Seria: Technic · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016616453 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016616453 · in stock*
 
 LEGO Technic NEOM McLaren Extreme E Race Car 42166
 
@@ -2595,7 +2595,7 @@ Wspólne budowanie z rodzeństwem czy rodzicami wspiera rozwój społeczny i ucz
 
 ## 42107 — Lego Technic 42107 Ducati Panigale V4 R
 
-*Seria: Technic · cena Allegro (2026-08-17): 400.00 zł · EAN: 05702016616460 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 400.00 zł · EAN: 05702016616460 · in stock*
 
 LEGO Technic Ducati Panigale V4 R 42107
 
@@ -2626,7 +2626,7 @@ Ten model motocykla należy do gamy zestawów LEGO Technic, co oznacza, że budo
 
 ## 42108 — Lego 42108 Technic Żuraw samochodowy 1292 elementy
 
-*Seria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702016617474 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702016617474 · in stock*
 
 Ten wyjątkowo wysoki model przybliża zasadę działania dźwigów
  
@@ -2654,7 +2654,7 @@ Ten zaawansowany model LEGO Technic stanowi duże wyzwanie dla budowniczych i je
 
 ## 42109 — Klocki Lego Technic Zestaw Auto Wyścigowe Top Gear Zdalnie Sterowany 42109
 
-*Seria: Technic · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702016617481 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702016617481 · in stock*
 
 Wysokooktanowa zabawa w wyścigi dla fanów samochodów sportowych!
 
@@ -2671,7 +2671,7 @@ Zestawy LEGO Technic są przeznaczone dla dzieci i dorosłych, którzy uwielbiaj
 
 ## 42110 — Klocki Lego Technic Zestaw Land Rover Defender Suv 42110
 
-*Seria: Technic · cena Allegro (2026-08-17): 1228.00 zł · EAN: 05702016604115 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1228.00 zł · EAN: 05702016604115 · in stock*
 
 **LEGO Technic Land Rover Defender 42110**Projektowanie samochodów to sztuka na światowym poziomie, a Ty możesz się o tym przekonać dzięki temu niezwykle autentycznemu modelowi 42110 LEGO Technic Land Rover Defender do postawienia na półce. Ta imponująca replika LEGO została opracowana we współpracy z firmą Land Rover i oddaje niesamowity poziom wyrafinowania pojazdu poprzez jego czyste, nowoczesne linie i wyprofilowaną powierzchnię.
 
@@ -2709,7 +2709,7 @@ Land Rover Defender ma ponad 22 cm wysokości, 42 cm długości i 20 cm szeroko�
 
 ## 42111 — Klocki Lego Technic Zestaw Auto Dom's Dodge Charger Fast & Furious
 
-*Seria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702016617498 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702016617498 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2744,7 +2744,7 @@ Gotowy model Dodge’a Chargera pozwoli fanom odgrywać klasyczne sceny pełnych
 
 ## 42112 — Lego Technic 42112 Wielka Betoniarka Ciężarówka
 
-*Seria: Technic · cena Allegro (2026-08-17): 720.00 zł · EAN: 05702016617504 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 720.00 zł · EAN: 05702016617504 · in stock*
 
 OPIS:
 
@@ -2773,7 +2773,7 @@ Zestawy konstrukcyjne z modelami LEGO Technic są idealne dla fanów LEGO, któr
 
 ## 42114 — Lego Technic 42114 Wozidło przegubowe Volvo 6x6
 
-*Seria: Technic · cena Allegro (2026-08-17): 1650.00 zł · EAN: 05702016617528 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1650.00 zł · EAN: 05702016617528 · in stock*
 
 **Lego 42114 Technic Wozidło przegubowe Volvo 6x6**
  
@@ -2789,7 +2789,7 @@ Realistyczne detale zachęcają do kreatywnej zabawy Zestawy LEGO Technic z mode
 
 ## 42115 — Lego Technic Lamborghini Sian Fkp 37 42115 Unikat święta
 
-*Seria: Technic · cena Allegro (2026-08-17): 1798.98 zł · EAN: 05702016832075 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1798.98 zł · EAN: 05702016832075 · in stock*
 
 LEGO Technic 42115 Lamborghini Sián FKP 37 / NOWY / UNIKAT
 
@@ -2841,7 +2841,7 @@ Zestaw z modelem Sián FKP 37 do zbudowania pozwoli Ci miło spędzić wolne chw
 
 ## 42116 — Lego Technic 42116 Mini ładowarka koparka 2w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016889215 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016889215 · in stock*
 
 Jeśli szukasz prezentu dla dzieci, które uwielbiają bawić się w plac budowy, zestaw LEGO® Technic 42116 będzie strzałem w dziesiątkę, który da im frajdę na wiele godzin. Chłopcy i dziewczynki w wieku od 7 lat będą się wspaniale bawić podczas budowania miniładowarki, a to dopiero początek! Po złożeniu modelu mogą wymyślać niezliczone budowlane przygody i poznać wszystkie realistyczne funkcje pojazdu. Dwufunkcyjna łyżka, kabina kierowcy, panel sterowania, klatka bezpieczeństwa oraz przednie i tylne reflektory są wszystkim, czego dzieci potrzebują do kreatywnej zabawy na wiele godzin.
 
@@ -2874,7 +2874,7 @@ W świecie zestawów LEGO Technic zaawansowane zabawki czekają na małych fanó
 
 ## 42117 — Lego Technic Samolot wyścigowy 42117
 
-*Seria: Technic · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702016890914 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702016890914 · in stock*
 
 LEGO Technic 42117 Samolot wyścigowy
  
@@ -2884,7 +2884,7 @@ o Zestaw LEGO(R) Technic 42117 Samolot wyścigowy to doskonały prezent dla mło
 
 ## 42118 — Lego Technic 42118 Monster Jam Grave Digger
 
-*Seria: Technic · cena Allegro (2026-08-17): 145.17 zł · EAN: 05702016890815 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 145.17 zł · EAN: 05702016890815 · in stock*
 
 Lego Technic Monster Jam Grave Digger 42118
  
@@ -2894,7 +2894,7 @@ Szukasz interesującego prezentu dla chłopców i dziewczynek uwielbiających po
 
 ## 42119 — Lego Technic 42119 Monster Jam Max-d
 
-*Seria: Technic · cena Allegro (2026-08-17): 148.00 zł · EAN: 05702016890631 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 148.00 zł · EAN: 05702016890631 · in stock*
 
 Zachęć młodych miłośników pokazów Monster Jam® do zbudowania własnego monster trucka. Pomoże Ci w tym zestaw konstrukcyjny LEGO® Technic 42119 Monster Jam Max-D®. Wyposażony w napęd typu pull-back model sprawi, że chłopcy i dziewczynki szybko nauczą się wykonywać ekscytujące akrobacje na arenie Monster Jam. Pojazd 2 w 1 ma wiele niesamowitych funkcji, zupełnie jak jego prawdziwy odpowiednik. Spójrz tylko na te realistyczne ozdoby, kolory, kolce i ruchomą flagę.
 
@@ -2924,7 +2924,7 @@ Zestawy LEGO Technic są dla młodych fanów LEGO doskonałe na początek przygo
 
 ## 42120 — Lego Technic Poduszkowiec Ratowniczy 42120 Nowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016890761 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016890761 · in stock*
 
 LEGO TECHNIC 42120 PODUSZKOWIEC RATOWNICZY 2W1
 
@@ -2955,7 +2955,7 @@ JŁ
 
 ## 42121 — Lego Technic 42121 Wytrzymała koparka Nowy P306
 
-*Seria: Technic · cena Allegro (2026-08-17): 497.00 zł · EAN: 05702016695052 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 497.00 zł · EAN: 05702016695052 · in stock*
 
 LEGO Technic 42121 Wytrzymała koparka
 
@@ -2989,7 +2989,7 @@ W komplecie są też „kamienie” z klocków LEGO i cztery pachołki. A gdy pr
 
 ## 42122 — Lego Technic 42122 Jeep Wrangler Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016913316 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016913316 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3018,7 +3018,7 @@ Wciągające wyzwanie dla młodych konstruktorów LEGO W świecie LEGO Technic z
 
 ## 42123 — Lego Technic 42123 McLaren Senna Gtr
 
-*Seria: Technic · cena Allegro (2026-08-17): 334.00 zł · EAN: 05702016913330 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 334.00 zł · EAN: 05702016913330 · in stock*
 
 LEGO Technic McLaren Senna GTR 42123
  
@@ -3062,7 +3062,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42127 — Lego Technic 42127 Batmobil
 
-*Seria: Technic · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702016912630 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702016912630 · in stock*
 
 LEGO® Technic 42127 BATMAN — BATMOBIL
 
@@ -3118,7 +3118,7 @@ Model ma układ kierowniczy, a z tyłu mechanizm różnicowy.
 
 ## 42128 — Klocki Lego Technic Zestaw Ciężki samochód pomocy drogowej 42128
 
-*Seria: Technic · cena Allegro (2026-08-17): 1087.00 zł · EAN: 05702016913354 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1087.00 zł · EAN: 05702016913354 · in stock*
 
 Lego TECHNIC 42128 Ciężki samochód pomocy drogowej
 
@@ -3138,7 +3138,7 @@ Steruj ciężarówką, obracając znajdujące się na dachu pokrętło. Otwórz 
 
 ## 42129 — Zestaw Lego Technic 42129 Ciężarówka Mercedes-benz Zentros Z Napędem 4X4
 
-*Seria: Technic · cena Allegro (2026-08-17): 1085.00 zł · EAN: 05702016912845 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1085.00 zł · EAN: 05702016912845 · in stock*
 
 ZESTAW LEGO TECHNIC - 42129 - CIĘŻARÓWKA MERCEDES-BENZ ZENTROS Z NAPĘDEM 4X4
 
@@ -3178,7 +3178,7 @@ Zestaw LEGO Technic 42129 to doskonały wybór na prezent dla każdego fana moto
 
 ## 42130 — Lego Technic 42130 Bmw M 1000 Rr
 
-*Seria: Technic · cena Allegro (2026-08-17): 978.50 zł · EAN: 05702017024400 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 978.50 zł · EAN: 05702017024400 · in stock*
 
 LEGO Technic BMW M 1000 RR 42130
  
@@ -3216,7 +3216,7 @@ Zestaw LEGO Technic BMW M 1000 RR należy do kolekcji modeli LEGO dla dorosłych
 
 ## 42131 — Lego Technic 42131 Sterowany przez aplikację buldożer Cat D11
 
-*Seria: Technic · cena Allegro (2026-08-17): 2638.00 zł · EAN: 05702016912937 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 2638.00 zł · EAN: 05702016912937 · in stock*
 
 LEGO Technic Sterowany przez aplikację buldożer CAT D11 42131
 
@@ -3242,7 +3242,7 @@ Elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane
 
 ## 42132 — Lego 42132 Technic Motocykl
 
-*Seria: Technic · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017117096 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017117096 · in stock*
 
 LEGO 42132 TECHNIC - MOTOCYKL
 
@@ -3286,7 +3286,7 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 
 ## 42133 — Lego Technic 2 In 1 Ładowarka teleskopowa 42133
 
-*Seria: Technic · cena Allegro (2026-08-17): 98.79 zł · EAN: 05702017116914 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 98.79 zł · EAN: 05702017116914 · in stock*
 
 Ciekawy model 2 w 1 sprawdzi się jako upominek dla dzieci
  
@@ -3313,7 +3313,7 @@ Trudno się bez niej obejść na placu budowy! Składanie modelu i poznawanie ws
 
 ## 42134 — Lego Technic 42134 Monster Jam Megalodon
 
-*Seria: Technic · cena Allegro (2026-08-17): 139.38 zł · EAN: 05702017154916 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 139.38 zł · EAN: 05702017154916 · in stock*
 
 Lego TECHNIC 42134 Monster Jam Megalodon
 
@@ -3338,7 +3338,7 @@ Inspiracja dla przyszłych inżynierówPojazdy wchodzące w skład zestawów kon
 
 ## 42135 — Lego Technic Monster Jam El Toro Loco Truck 42135 Zestaw 7+ Klocki
 
-*Seria: Technic · cena Allegro (2026-08-17): 159.99 zł · EAN: 05060211032394 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 159.99 zł · EAN: 05060211032394 · in stock*
 
 ⭐LEGO TECHNIC MONSTER JAM EL TORO LOCO TRUCK 42135
 
@@ -3404,7 +3404,7 @@ Inspiracja dla przyszłych inżynierówPojazdy wchodzące w skład zestawów kon
 
 ## 42136 — Lego Technic John Deere 42136 Traktor Ciągnik Zestaw i Ebook 4w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 199.78 zł · EAN: 05702017156576 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 199.78 zł · EAN: 05702017156576 · in stock*
 
 Lego Technic John Deere 42136 Traktor Ciągnik Zestaw i Ebook 4w1
 
@@ -3450,7 +3450,7 @@ Wprowadzenie do świata inżynieriiModele konstrukcyjne LEGO Technic składają 
 
 ## 42137 — Zestaw klocków 42137 Lego Technic Formula E Porsche 99X Electric 422 elemen
 
-*Seria: Technic · cena Allegro (2026-08-17): 166.96 zł · EAN: 05702017156156 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 166.96 zł · EAN: 05702017156156 · in stock*
 
 LEGO Technic Formula E Porsche 99X Electric 42137
 
@@ -3488,7 +3488,7 @@ Zbuduj ikonę wyścigów Formuły E® z zestawu LEGO® Technic Formula E® Porsc
 
 ## 42138 — Lego Technic 42138 Ford Mustang Shelby GT500 Ostatnia Sztuka! Unikat!
 
-*Seria: Technic · cena Allegro (2026-08-17): 304.99 zł · EAN: 05702017156385 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 304.99 zł · EAN: 05702017156385 · in stock*
 
 LEGO Technic Ford Mustang Shelby GT500 Pull Back 42138
  
@@ -3520,7 +3520,7 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 
 ## 42139 — Lego Technic Pojazd terenowy 42139
 
-*Seria: Technic · cena Allegro (2026-08-17): 596.99 zł · EAN: 05702017117287 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 596.99 zł · EAN: 05702017117287 · in stock*
 
 LEGO TECHNIC
 
@@ -3566,7 +3566,7 @@ SPECYFIKACJA ZESTAWU:
 
 ## 42140 — Lego 42140 Technic 2w1 Pojazd Sterowany Aplikacją Zestaw Oświetleniowy
 
-*Seria: Technic · cena Allegro (2026-08-17): 931.75 zł · EAN: 05702017155784 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 931.75 zł · EAN: 05702017155784 · in stock*
 
 LEGO TECHNIC 2w1 - 42140 - POJAZD STEROWANY APLIKACJĄ + ZESTAW OŚWIETLENIOWY
 
@@ -3608,7 +3608,7 @@ Zestaw LEGO Technic 42140 to znakomity prezent dla starszych dzieci, nastolatkó
 
 ## 42141 — Lego Technic 42141 Samochód wyścigowy McLaren Formula 1
 
-*Seria: Technic · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017160795 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017160795 · in stock*
 
 **LEGO Technic McLaren Formula 1 42141**
  
@@ -3642,7 +3642,7 @@ Budowanie repliki samochodu McLaren F1 to zajęcie, które pozwala na skupienie 
 
 ## 42143 — Lego Technic Ferrari Daytona SP3 42143
 
-*Seria: Technic · cena Allegro (2026-08-17): 1589.99 zł · EAN: 05702017159041 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1589.99 zł · EAN: 05702017159041 · in stock*
 
 LEGO® Technic Ferrari Daytona SP3 42143 – Kolekcjonerski Model Superauta 1:8 | 3778 Elementów
 
@@ -3700,7 +3700,7 @@ Specyfikacja
 
 ## 42144 — Klocki Lego Technic Zestaw Dźwig z chwytakiem 42144
 
-*Seria: Technic · cena Allegro (2026-08-17): 751.00 zł · EAN: 05702017160818 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 751.00 zł · EAN: 05702017160818 · in stock*
 
 Interesujesz się mechaniką i inżynierią? Jeśli tak, to na pewno pokochasz ten zestaw! Zestaw LEGO® Technic Dźwig z chwytakiem pokaże Ci, jak naprawdę działają dźwigi. Ma wiele ręcznych i pneumatycznych funkcji, więc dowiesz się, jak ten potężny pojazd sortuje, układa i załadowuje różne materiały gotowe do przetworzenia.
  
@@ -3735,7 +3735,7 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 
 ## 42145 — Lego 42145 Technic Helikopter Ratunkowy Airbus 175
 
-*Seria: Technic · cena Allegro (2026-08-17): 1299.99 zł · EAN: 05702017174693 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1299.99 zł · EAN: 05702017174693 · in stock*
 
 **ZESTAW LEGO**
 
@@ -3771,7 +3771,7 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 
 ## 42146 — Lego Technic 42146 Żuraw gąsienicowy Liebherr Lr 13000
 
-*Seria: Technic · cena Allegro (2026-08-17): 3049.99 zł · EAN: 05702017156026 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 3049.99 zł · EAN: 05702017156026 · in stock*
 
 Lego TECHNIC Żuraw gąsienicowy Liebherr LR 13000 (42146)
 
@@ -3783,7 +3783,7 @@ Model porusza się, a jego konstrukcja odzwierciedla rzeczywistą maszynę. Funk
 
 ## 42147 — Lego Technic 42147 Wywrotka
 
-*Seria: Technic · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702017400075 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702017400075 · in stock*
 
 Lego TECHNIC 42147 Wywrotka
 
@@ -3807,7 +3807,7 @@ Odgrywanie ról na budowieDzieciom spodoba się kierowanie wywrotką po wymyślo
 
 ## 42148 — Lego Technic 42148 Ratrak
 
-*Seria: Technic · cena Allegro (2026-08-17): 55.22 zł · EAN: 05702017400082 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 55.22 zł · EAN: 05702017400082 · in stock*
 
 LEGO Technic Ratrak 42148
  
@@ -3844,7 +3844,7 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 
 ## 42149 — Lego Technic 42149 Monster Jam Dragon
 
-*Seria: Technic · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017400099 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017400099 · in stock*
 
 LEGO® Technic Monster Jam™ Dragon™ to fajny zestaw 2 w 1. Można z niego zbudować dwa modele: pojazd Monster Jam™ Dragon™ lub krokodyli pojazd terenowy.
  
@@ -3886,7 +3886,7 @@ Myślisz, że potrafisz prowadzić maszynę z Monster Jam™? Już czas przetest
 
 ## 42150 — Lego Technic Monster Jam Monster Mutt Dalmatian 42150
 
-*Seria: Technic · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016699548 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016699548 · in stock*
 
 Zabawa pełna prędkości dla fanów Monster Jam™ – model 2 w 1 z pojazdem LEGO® Technic Monster Jam™ Monster Mutt™ Dalmatian, który zmienia się w ciężarówkę wyścigową.
 
@@ -3928,7 +3928,7 @@ Gotowi na zabawę na arenie Monster Jam™? W szranki stanie LEGO® Technic Mons
 
 ## 42151 — Lego Technic 42151 Bugatti Bolide
 
-*Seria: Technic · cena Allegro (2026-08-17): 154.86 zł · EAN: 05702017424736 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 154.86 zł · EAN: 05702017424736 · in stock*
 
 LEGO Technic Bolid Bugatti 42151
  
@@ -3962,7 +3962,7 @@ Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzi
 
 ## 42152 — Lego Technic 42152 Samolot gaśniczy
 
-*Seria: Technic · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017425320 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017425320 · in stock*
 
 LEGO 42152 TECHNIC SAMOLOT GAŚNICZY 1134 ELEMENTY
  
@@ -3992,7 +3992,7 @@ Kreatywne wprowadzenie do świata inżynierii
 
 ## 42154 — Lego Technic 2022 Ford Gt 42154
 
-*Seria: Technic · cena Allegro (2026-08-17): 401.97 zł · EAN: 05702017424965 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 401.97 zł · EAN: 05702017424965 · in stock*
 
 **LEGO Technic Ford GT, wersja z 2022 roku 42154**
 
@@ -4028,7 +4028,7 @@ Wydajność w najpotężniejszym wydaniu. Poznaj Forda GT z 2022 roku – supers
 
 ## 42155 — Lego Technic Batman 42155 Batmotor
 
-*Seria: Technic · cena Allegro (2026-08-17): 230.00 zł · EAN: 05702017424750 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 230.00 zł · EAN: 05702017424750 · in stock*
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -4062,7 +4062,7 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 
 ## 42156 — Lego Technic 42156 Peugeot 9X8 Le Mans Hybrid
 
-*Seria: Technic · cena Allegro (2026-08-17): 719.99 zł · EAN: 05702017424767 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 719.99 zł · EAN: 05702017424767 · in stock*
 
 LEGO® Technic
 
@@ -4088,7 +4088,7 @@ Stań w szranki w tej trudnej konkurencji motorowej dzięki zestawowi dla doros�
 
 ## 42157 — Lego Technic 42157 Ciągnik leśny John Deere 948L-II
 
-*Seria: Technic · cena Allegro (2026-08-17): 798.79 zł · EAN: 05702017425177 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 798.79 zł · EAN: 05702017425177 · in stock*
 
 LEGO Technic Ciągnik leśny John Deere 948L-II 42157
  
@@ -4119,7 +4119,7 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 
 ## 42158 — Lego Technic 42158 Marsjański łazik Nasa Perseverance
 
-*Seria: Technic · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702017425184 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702017425184 · in stock*
 
 LEGO Technic Marsjański łazik NASA Perseverance 42158
  
@@ -4151,7 +4151,7 @@ Dzieci mogą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder
 
 ## 42159 — Lego Technic 42159 Yamaha MT-10 Sp
 
-*Seria: Technic · cena Allegro (2026-08-17): 979.49 zł · EAN: 05702017425191 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 979.49 zł · EAN: 05702017425191 · in stock*
 
 Lego TECHNIC 42159 Yamaha MT-10 SP
  
@@ -4173,7 +4173,7 @@ Ten zestaw należy do kolekcji zestawów konstrukcyjnych LEGO dla dorosłych. To
 
 ## 42160 — Lego Technic 42160 Audi Rs Q e-tron
 
-*Seria: Technic · cena Allegro (2026-08-17): 586.18 zł · EAN: 05702017425207 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 586.18 zł · EAN: 05702017425207 · in stock*
 
 LEGO Technic 42160 Audi RS Q e-tron 42160
  
@@ -4227,7 +4227,7 @@ Przygotuj się na zbudowanie repliki jednego z najbardziej innowacyjnych samocho
 
 ## 42161 — Lego Technic 42161 Lamborghini Huracán Tecnica
 
-*Seria: Technic · cena Allegro (2026-08-17): 177.46 zł · EAN: 05702017425214 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 177.46 zł · EAN: 05702017425214 · in stock*
 
 LEGO Technic 42161 Lamborghini Huracan Tecnica
 
@@ -4284,7 +4284,7 @@ Uwielbiasz samochody Lamborghini? Marzysz o posiadaniu własnego Lamborghini Hur
 
 ## 42162 — Lego Technic 42162 Bugatti Bolide Agile Blue
 
-*Seria: Technic · cena Allegro (2026-08-17): 298.88 zł · EAN: 05702017433516 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 298.88 zł · EAN: 05702017433516 · in stock*
 
 LEGO Technic 42162 - Bugatti Bolide Agile Blue
  
@@ -4306,7 +4306,7 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i ruch, przez co wprowadzają
 
 ## 42163 — Lego Technic 42163 Ciężki buldożer
 
-*Seria: Technic · cena Allegro (2026-08-17): 26.38 zł · EAN: 05702017560717 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 26.38 zł · EAN: 05702017560717 · in stock*
 
 LEGO Technic Buldożer do zadań specjalnych (42163) 
  
@@ -4332,7 +4332,7 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 
 ## 42164 — Lego Technic Wyścigowy Łazik Terenowy 42164
 
-*Seria: Technic · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702017567167 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702017567167 · in stock*
 
 LEGO TECHNIC WYŚCIGOWY ŁAZIK TERENOWY 42164
 
@@ -4372,7 +4372,7 @@ Ten 219-elementowy zestaw to fantastyczny, przystępny wstęp do świata inżyni
 
 ## 42165 — Lego Technic 42165 Samochód Mercedes Amg F1 W14 E Napęd Pull-back Auto
 
-*Seria: Technic · cena Allegro (2026-08-17): 96.90 zł · EAN: 05702017600864 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 96.90 zł · EAN: 05702017600864 · in stock*
 
 **LEGO® Technic Mercedes-AMG F1 W14 E Performance Pull-Back (42165)**
 
@@ -4396,7 +4396,7 @@ Model charakteryzuje się autentycznymi detalami inspirowanymi prawdziwym bolide
 
 ## 42166 — 42166 Lego Technic Neom McLaren Extreme E Race Car
 
-*Seria: Technic · cena Allegro (2026-08-17): 162.00 zł · EAN: 04897038558131 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 162.00 zł · EAN: 04897038558131 · in stock*
 
 42166 - LEGO Technic - NEOM McLaren Extreme E Race Car
 
@@ -4510,7 +4510,7 @@ Parametry
 
 ## 42167 — Lego Technic 42167 Mack Lr Elektryczna śmieciarka
 
-*Seria: Technic · cena Allegro (2026-08-17): 106.44 zł · EAN: 05702017583525 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 106.44 zł · EAN: 05702017583525 · in stock*
 
 LEGO® TECHNIC Śmieciarka Mack® LR Electric Ciężarówka (503 el.)
 
@@ -4560,7 +4560,7 @@ Szukasz prezentu na urodziny, Święta lub Dzień Dziecka? **LEGO® Technic Śmi
 
 ## 42168 — Lego Technic John Deere 42168
 
-*Seria: Technic · cena Allegro (2026-08-17): 168.98 zł · EAN: 05702017583532 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 168.98 zł · EAN: 05702017583532 · in stock*
 
 LEGO Technic Kombajn paszowy John Deere 9700 (42168) 
  
@@ -4588,7 +4588,7 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 
 ## 42169 — Lego Technic Neom McLAREN Formuła E Race Car 42169
 
-*Seria: Technic · cena Allegro (2026-08-17): 165.89 zł · EAN: 05702017583549 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 165.89 zł · EAN: 05702017583549 · in stock*
 
 **SZABLON**
 
@@ -4600,7 +4600,7 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 ro
 
 ## 42170 — Lego Technic 42170 Motocykl Kawasaki Ninja H2R Dla Dziecka 10+
 
-*Seria: Technic · cena Allegro (2026-08-17): 264.89 zł · EAN: 05702017583556 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 264.89 zł · EAN: 05702017583556 · in stock*
 
 LEGO Technic 42170 Motocykl Kawasaki Ninja H2R
  
@@ -4630,7 +4630,7 @@ Zestawy LEGO Technic dla dzieci zawierają realistyczne detale, które w przyst�
 
 ## 42171 — Lego Technic Mercedes-AMG F1 W14 E Performance 42171
 
-*Seria: Technic · cena Allegro (2026-08-17): 714.99 zł · EAN: 05702017583563 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 714.99 zł · EAN: 05702017583563 · in stock*
 
 **LEGO Technic Mercedes-AMG F1 W14 E Performance 42171**
 
@@ -4656,7 +4656,7 @@ Funkcje obejmują układ kierowniczy, którym można sterować za pomocą kierow
 
 ## 42172 — Lego Technic McLaren P1 42172
 
-*Seria: Technic · cena Allegro (2026-08-17): 1435.14 zł · EAN: 05702017595672 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1435.14 zł · EAN: 05702017595672 · in stock*
 
 **LEGO Technic McLaren P1 42172**
 
@@ -4686,7 +4686,7 @@ Od pełnego ekscytacji otwieranie pudełka po nadawanie ostatnich szlifów — t
 
 ## 42173 — Lego Technic 42173 Koenigsegg Jesko Absolut Szary Hipersamochód i Ebook 4w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 156.28 zł · EAN: 05702017584072 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 156.28 zł · EAN: 05702017584072 · in stock*
 
 LEGO Technic 42173 Koenigsegg Jesko Absolut Szary Hipersamochód i Ebook 4w1
 
@@ -4716,7 +4716,7 @@ Technic LEGO Technic Szary hipersamochód Koenigsegg Jesko Absolut, Zabawka dla 
 
 ## 42174 — Lego 42174 Technic Water 2024
 
-*Seria: Technic · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017584089 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017584089 · in stock*
 
 Rozbudź swoją miłość do jachtów dzięki zestawowi, który zabierze Cię w sam środek rozgrywek o legendarny Puchar Ameryki. Wyobraź sobie, że stajesz się częścią zespołu i zbuduj elementy szczegółowego jachtu LEGO® Technic Jacht Emirates Team New Zealand AC75 (42174).
 
@@ -4736,7 +4736,7 @@ Ten zestaw z jachtem należy do kolekcji modeli dla dorosłych fanów LEGO i bę
 
 ## 42175 — Lego Technic 42175 Ciężarówka Volvo Fmx i koparka EC230 Electric
 
-*Seria: Technic · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702017584096 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702017584096 · in stock*
 
 LEGO Technic 42175 Ciężarówka Volvo FMX i koparka EC230 Electric
 
@@ -4768,7 +4768,7 @@ Zainspiruj dzieci do zbudowania własnego pojazdu budowlanego do zadań specjaln
 
 ## 42176 — Lego Technic 42176 Samochód wyścigowy Porsche GT4 e-Performance
 
-*Seria: Technic · cena Allegro (2026-08-17): 488.99 zł · EAN: 05702017584102 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 488.99 zł · EAN: 05702017584102 · in stock*
 
 Samochód wyścigowy Porsche GT4 e-Performance
 
@@ -4789,7 +4789,7 @@ Podaruj **ekscytujące doświadczenie inżynieryjne** dzieciom w wieku **10 lat 
 
 ## 42177 — Lego Technic 42177 Mercedes-Benz G 500 Professional Line
 
-*Seria: Technic · cena Allegro (2026-08-17): 827.00 zł · EAN: 05702017584119 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 827.00 zł · EAN: 05702017584119 · in stock*
 
 LEGO 42177 Mercedes-Benz G 500 PROFESSIONAL Line
 
@@ -4819,7 +4819,7 @@ Uczcij 45. rocznicę urodzin jednego z najbardziej lubianych pojazdów terenowyc
 
 ## 42178 — Lego Technic 42178 Ładowarka kosmiczna Technic 42178 LT78
 
-*Seria: Technic · cena Allegro (2026-08-17): 141.89 zł · EAN: 05702017584126 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 141.89 zł · EAN: 05702017584126 · in stock*
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -4845,7 +4845,7 @@ Aplikacja LEGO Builder poprowadzi Twoje dziecko przez intuicyjną przygodę budo
 
 ## 42179 — Lego Technic 42179 Planeta Ziemia i Księżyc na orbitach
 
-*Seria: Technic · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702017584133 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702017584133 · in stock*
 
 LEGO Technic 42179 Planeta Ziemia i Księżyc na orbicie
 
@@ -4869,7 +4869,7 @@ Zestawy LEGO Technic dla dzieci zawierają realistyczne detale, które w przyst�
 
 ## 42180 — Lego 42180 Technic Marsjański łazik eksploracyjny
 
-*Seria: Technic · cena Allegro (2026-08-17): 725.20 zł · EAN: 05702017584140 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 725.20 zł · EAN: 05702017584140 · in stock*
 
 **Klocki LEGO Technic 42180 - Marsjański łazik eksploracyjny**
  
@@ -4879,7 +4879,7 @@ Zainspiruj dzieci w wieku od 11 lat do poznawania tajników misji na Marsie dzi�
 
 ## 42181 — Lego Technic 42181 Statek kosmiczny Heavy Cargo
 
-*Seria: Technic · cena Allegro (2026-08-17): 547.75 zł · EAN: 05702017584157 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 547.75 zł · EAN: 05702017584157 · in stock*
 
 Lego TECHNIC 42181 Statek kosmiczny Heavy Cargo
 
@@ -4893,7 +4893,7 @@ Aby przenieść kosmiczne przygody do innego wymiaru, ten zestaw zawiera także 
 
 ## 42182 — Lego Technic Księżycowy Pojazd Rozpoznawczy Nasa Apollo Lrv 42182 Zestaw
 
-*Seria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702017584164 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702017584164 · in stock*
 
 LEGO TECHNIC KSIĘŻYCOWY POJAZD ROZPOZNAWCZY NASA APOLLO - LRV 42182 ZESTAW
 
@@ -4945,7 +4945,7 @@ Po zakończeniu budowy, łazik staje się niesamowitą, przyciągającą wzrok d
 
 ## 42184 — Lego Technic 42184 Biały hipersamochód Koenigsegg Jesko Absolut
 
-*Seria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017599106 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017599106 · in stock*
 
 LEGO Technic 42184 Biały hipersamochód Koenigsegg Jesko Absolut
 
@@ -4975,7 +4975,7 @@ Podaruj dziesięciolatkom i starszym dzieciom ekscytujący projekt konstrukcyjny
 
 ## 42196 — Lego Technic 42196 Pomarańczowe Lamborghini Huracán Tecnica Uwaga Opis
 
-*Seria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017677248 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017677248 · in stock*
 
 **WADY OPAKOWANIA JAK NA ZDJĘCIACH !!!**
 
@@ -4995,7 +4995,7 @@ Mechanizmy i ruch w zestawach LEGO Technic są realistyczne, dzięki czemu wprow
 
 ## 42197 — Lego Technic Koparko-ładowarka 42197
 
-*Seria: Technic · cena Allegro (2026-08-17): 28.89 zł · EAN: 05702017802589 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 28.89 zł · EAN: 05702017802589 · in stock*
 
 Koparko-ładowarka
 
@@ -5005,7 +5005,7 @@ Technic Koparko-ładowarka LEGO® Technic Koparko-ładowarka Zestaw z pojazdem L
 
 ## 42198 — Lego Technic samolot transportowy 42198
 
-*Seria: Technic · cena Allegro (2026-08-17): 73.02 zł · EAN: 05702017816203 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 73.02 zł · EAN: 05702017816203 · in stock*
 
 Samolot transportowy
 
@@ -5015,7 +5015,7 @@ Technic Samolot transportowy LEGO® Technic Samolot transportowy Zestaw z pojazd
 
 ## 42199 — Lego Technic 42199 Monster Jam DIGatron z silnikiem nawijającym
 
-*Seria: Technic · cena Allegro (2026-08-17): 76.78 zł · EAN: 05702017816227 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 76.78 zł · EAN: 05702017816227 · in stock*
 
 Monster Jam™ DIGatron™
 
@@ -5025,7 +5025,7 @@ Technic Monster Jam™ DIGatron™ LEGO® Technic Monster Jam™ DIGatron™ Zab
 
 ## 42200 — Klocki Lego Technic Monster Jam ThunderROARus 42200 232 elementy pull-back
 
-*Seria: Technic · cena Allegro (2026-08-17): 72.75 zł · EAN: 05702017816234 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 72.75 zł · EAN: 05702017816234 · in stock*
 
 Monster Jam™ ThunderROARus™ z napędem typu pull-back
 
@@ -5035,7 +5035,7 @@ Technic Monster Jam™ ThunderROARus™ z napędem typu pull-back LEGO® Technic
 
 ## 42202 — Lego Technic Motocykl Ducati Panigale V4 S 42202
 
-*Seria: Technic · cena Allegro (2026-08-17): 574.00 zł · EAN: 05702017816258 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 574.00 zł · EAN: 05702017816258 · in stock*
 
 Motocykl Ducati Panigale V4 S
 
@@ -5045,7 +5045,7 @@ Technic Motocykl Ducati Panigale V4 S LEGO® Technic Motocykl Ducati Panigale V4
 
 ## 42203 — Lego Technic 42203 Wywrotka Z Przechylna Skrzynia Ciezarowka
 
-*Seria: Technic · cena Allegro (2026-08-17): 157.99 zł · EAN: 05702017816265 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 157.99 zł · EAN: 05702017816265 · in stock*
 
 **KLOCKI LEGO CITY WYWROTKA Z PRZECHYLANĄ SKRZYNIĄ**
 
@@ -5072,7 +5072,7 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 ## 42204 — Lego Technic Fast and Furious Toyota Supra MK4 42204
 
-*Seria: Technic · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017816272 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017816272 · in stock*
 
 **LEGO Technic Fast and Furious Toyota Supra MK4 42204**
 
@@ -5100,7 +5100,7 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 
 ## 42205 — Lego Technic 42205 Chevrolet Corvette Stingray
 
-*Seria: Technic · cena Allegro (2026-08-17): 184.98 zł · EAN: 05702017816289 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 184.98 zł · EAN: 05702017816289 · in stock*
 
 **LEGO Technic 42205 Chevrolet Corvette Stingray**
  
@@ -5139,7 +5139,7 @@ Dzięki zestawowi LEGO Technic Chevrolet Corvette Stingray (42205) dziewięciola
 
 ## 42206 — Lego Technic Bolid F1 Oracle Red Bull Racing RB20 42206
 
-*Seria: Technic · cena Allegro (2026-08-17): 764.68 zł · EAN: 05702017816296 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 764.68 zł · EAN: 05702017816296 · in stock*
 
 **LEGO Technic Bolid F1 Oracle Red Bull Racing RB20 42206**
 
@@ -5165,7 +5165,7 @@ Odkryj satysfakcjonujące zestawy z pojazdami LEGO® Technic dla dorosłych (spr
 
 ## 42207 — Lego 42207 Bolid F1 Ferrari SF-24
 
-*Seria: Technic · cena Allegro (2026-08-17): 710.49 zł · EAN: 05702017816302 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 710.49 zł · EAN: 05702017816302 · in stock*
 
 LEGO Technic 42207 Bolid F1 Ferrari SF-24 dla dorosłych 18+ (1361 el.)
 
@@ -5239,7 +5239,7 @@ Kompatybilność
 
 ## 42208 — Lego Technic 42208 Aston Martin Valkyrie Komplet Klocków 9+
 
-*Seria: Technic · cena Allegro (2026-08-17): 174.86 zł · EAN: 05702017816319 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 174.86 zł · EAN: 05702017816319 · in stock*
 
 Zainspirowany prawdziwym samochodem Aston Martin, ten zestaw zachwyci miłośników samochodów sportowych swoim charakterystycznym aerodynamicznym designem i przyciągającą wzrok kombinacją kolorów.
  
@@ -5265,7 +5265,7 @@ Zestaw stanowi doskonały prezent dla małych miłośników pojazdów. Dzieci mo
 
 ## 42209 — Lego Technic Ładowarka kołowa Volvo L120 Electric 42209
 
-*Seria: Technic · cena Allegro (2026-08-17): 291.00 zł · EAN: 05702017816326 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 291.00 zł · EAN: 05702017816326 · in stock*
 
 LEGO Technic - Ładowarka kołowa Volvo L120 Electric 42209
 
@@ -5297,7 +5297,7 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 
 ## 42210 — Lego Technic 42210 2 Szybcy i wściekli Samochód Nissan Skyline Gt-r (R34)
 
-*Seria: Technic · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017816333 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017816333 · in stock*
 
 Naciśnij pedał na podłogę z zestawem samochodowym dla fanów filmów Szybcy i wściekli. Zestaw LEGO® Technic 2 Fast 2 Furious (42210) **Samochód Nissan Skyline GT-R** **(R34)** dla dorosłych jest pełen zabawnych funkcji, które oddają ducha tego kultowego samochodu.
  
@@ -5323,7 +5323,7 @@ Drukowana instrukcja jest dołączona do opakowania, a cyfrową wersję instrukc
 
 ## 42211 — Lego 42211 Technic Kosmiczny Łazik Księżycowy Lunar Outpost klocki Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 299.89 zł · EAN: 05702017816340 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 299.89 zł · EAN: 05702017816340 · in stock*
 
 Klocki LEGO Technic 42211 - Kosmiczny łazik księżycowy Lunar Outpost
 
@@ -5352,7 +5352,7 @@ Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezen
 
 ## 42212 — Klocki Lego 42212 Technic Ferrari Fxx K 897 elementów 10 lat
 
-*Seria: Technic · cena Allegro (2026-08-17): 164.98 zł · EAN: 05702017816357 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 164.98 zł · EAN: 05702017816357 · in stock*
 
 Ferrari FXX K
 
@@ -5394,7 +5394,7 @@ Zestawy pojazdów LEGO Technic charakteryzują się realistycznymi ruchami, dzi�
 
 ## 42213 — Lego Technic 42213 Suv Ford Bronco
 
-*Seria: Technic · cena Allegro (2026-08-17): 193.79 zł · EAN: 05702017816364 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 193.79 zł · EAN: 05702017816364 · in stock*
 
 Lego SUV Ford Bronco®
 
@@ -5408,7 +5408,7 @@ Te klocki LEGO Technic to zabawka konstrukcyjna i edukacyjna, w sam raz dla mał
 
 ## 42214 — Lego Technic 42214 Supersamochód Lamborghini Revuelto
 
-*Seria: Technic · cena Allegro (2026-08-17): 534.95 zł · EAN: 05702017816371 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 534.95 zł · EAN: 05702017816371 · in stock*
 
 **LEGO TECHNIC 42214 SUPERSAMOCHÓD LAMBORGHINI REVUELTO**
 
@@ -5434,7 +5434,7 @@ Wymiary 1135-elementowy zestaw z modelem ma 9 cm wysokości, 40 cm długości i 
 
 ## 42215 — Lego Technic 42215 Klocki Volvo EC500 Hybrydowa koparka
 
-*Seria: Technic · cena Allegro (2026-08-17): 1218.00 zł · EAN: 05702017816388 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1218.00 zł · EAN: 05702017816388 · in stock*
 
 Koparka Volvo EC500 Hybrid
 
@@ -5444,7 +5444,7 @@ Technic LEGO Technic Koparka Volvo EC500 Hybrid, zmechanizowany pojazd budowlany
 
 ## 42217 — klocki Lego Technic 42217 Niebieski Chevrolet Corvette Stingray Samochód
 
-*Seria: Technic · cena Allegro (2026-08-17): 237.97 zł · EAN: 05702017824550 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 237.97 zł · EAN: 05702017824550 · in stock*
 
 LEGO® Technic 42217 - Niebieski Chevrolet Corvette Stingray
 
@@ -5468,7 +5468,7 @@ Dzięki aplikacji LEGO Builder dzieci mogą cieszyć się łatwym i intuicyjnym 
 
 ## 42218 — Lego Technic 42218 Harwester kołowy John Deere 1470H
 
-*Seria: Technic · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702018035016 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702018035016 · in stock*
 
 Zainspiruj chłopców i dziewczynki od 7 lat do leśnych przygód z zestawem LEGO® Technic **Kombajn John Deere 1470H **(42218). Ten pojazd jest wyposażony w mnóstwo funkcji, które zachwycą małych fanów marki John Deere. Przyjrzyj się ramieniu obracającemu się o 180 stopni, a następnie przejdź do akcji: dzieci mogą otwierać i zamykać chwytak, aby podnosić i opuszczać kłody. Ta zabawka edukacyjna STEM posiada również specjalne zawieszenie i przegubowe sterowanie, które dzieci mogą przetestować. Dzięki przyciągającej wzrok kolorystyce w zielonych, czarnych i żółtych barwach John Deere, ten zestaw stanowi zabawną zabawkę, którą dzieci będą się bawić godzinami.
  
@@ -5492,7 +5492,7 @@ Zestawy LEGO Technic posiadają realistyczne mechanizmy i funkcje ruchu, które 
 
 ## 42219 — Lego 42219 Technic Zestaw Monster Jam Grave Digger Ogień i lód 7+ 263pcs
 
-*Seria: Technic · cena Allegro (2026-08-17): 71.34 zł · EAN: 05702018035023 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 71.34 zł · EAN: 05702018035023 · in stock*
 
 Rozpocznij godziny ekscytującej zabawy z nakręcaną ciężarówką Monster Jam™ dla chłopców i dziewczynek od 7 lat. Poruszaj monster truck LEGO® Technic **Monster Jam™ Grave Digger™ Ogień i lód** (42219) za pomocą nakręcanego silnika. Przygotuj się na emocjonującą grę, podczas której mali miłośnicy monster trucków mogą naśladować swoje ulubione sztuczki i akrobacje z areny Monster Jam.
  
@@ -5518,7 +5518,7 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i funkcje ruchu, które z ła
 
 ## 42220 — Lego Technic 42220 Monster Jam Sparkle Smash z napędem typu pull-back
 
-*Seria: Technic · cena Allegro (2026-08-17): 75.15 zł · EAN: 05702018034804 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 75.15 zł · EAN: 05702018034804 · in stock*
 
 Przypomnij sobie ekscytującą akcję Monster Jam™ z tą zabawką dla dziewczynek i chłopców od 7 lat. Skorzystaj z niesamowitej funkcji naciągania, ruszaj ciężarówką Sparkle Smash™ (42220) na pełnych obrotach i naśladuj niesamowite akrobacje, które wykonują legendarne monster trucki.
  
@@ -5544,7 +5544,7 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i funkcje ruchu, które z ła
 
 ## 42221 — Klocki Lego Technic 42221 Rakieta Sls Nasa Artemis
 
-*Seria: Technic · cena Allegro (2026-08-17): 181.99 zł · EAN: 05702018067499 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 181.99 zł · EAN: 05702018067499 · in stock*
 
 LEGO TECHNIC
 
@@ -5587,7 +5587,7 @@ Specyfikacja zestawu:
 
 ## 42222 — Lego Technic 42222 Hipersamochód Bugatti Chiron Pur Sport, Dzień Dziecka
 
-*Seria: Technic · cena Allegro (2026-08-17): 213.91 zł · EAN: 05702018067505 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 213.91 zł · EAN: 05702018067505 · in stock*
 
 LEGO Technic 42222 Hipersamochód Bugatti Chiron Pur Sport
 
@@ -5609,7 +5609,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42223 — Lego Technic 42223 Samochód Wyścigowy 1966 Ford GT40 Mkii
 
-*Seria: Technic · cena Allegro (2026-08-17): 218.45 zł · EAN: 05702018067048 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 218.45 zł · EAN: 05702018067048 · in stock*
 
 Wyrusz na zwycięstwo i świętuj ikonę motoryzacji z modelem LEGO® Technic Samochód wyścigowy 1966 Ford GT40 MKII (42223) dla dorosłych. Miłośnicy samochodów, wyścigów i entuzjaści budowania w wieku od 18 lat tchną życie w najbardziej prestiżowy wyścig wytrzymałościowy na świecie dzięki tej realistycznej wersji kultowego weterana.
 
@@ -5644,7 +5644,7 @@ Wybierz się na przejażdżkę napędzaną pragnieniem zestawów potężnych poj
 
 ## 42224 — Lego Technic 42224 Samochód Porsche 911 GT3 R Rexy Ao Racing
 
-*Seria: Technic · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018067062 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018067062 · in stock*
 
 Rozpędź ekscytującą zabawę dzięki temu samochodowi wyścigowemu z motywem dinozaura dla dzieci w wieku od 11 lat. Model LEGO® Technic **Porsche 911 GT3 R REXY AO Racing** (42224) jest pełen ciekawych detali i stworzony dla chłopców i dziewczynek, którzy kochają akcję na torze.
  
@@ -5670,7 +5670,7 @@ Zestaw to świetny prezent dla miłośników dinozaurów i samochodów. Zestawy 
 
 ## 42225 — Lego Technic 42225 Żółty motocykl
 
-*Seria: Technic · cena Allegro (2026-08-17): 29.93 zł · EAN: 05702018069356 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 29.93 zł · EAN: 05702018069356 · in stock*
 
 **LEGO Technic 42225 Żółty motocykl**
  
@@ -5704,7 +5704,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42226 — Lego Technic Samochód wyścigowy Bmw M4 GT3 Evo 42226
 
-*Seria: Technic · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018067680 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018067680 · in stock*
 
 **LEGO Technic 42226 Samochód wyścigowy BMW M4 GT3 EVO**
 
@@ -5734,7 +5734,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42227 — Lego Technic 42227 Suv Jeep Wrangler Rubicon
 
-*Seria: Technic · cena Allegro (2026-08-17): 199.98 zł · EAN: 05702018065532 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 199.98 zł · EAN: 05702018065532 · in stock*
 
 **LEGO Technic 42227 SUV Jeep Wrangler Rubicon**
  
@@ -5764,7 +5764,7 @@ Zabawki LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42228 — Lego Technic 42228 Bolid McLaren MCL39 F1
 
-*Seria: Technic · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702018067697 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702018067697 · in stock*
 
 **LEGO Technic Bolid McLaren MCL39 F1 42228**
 
@@ -5778,7 +5778,7 @@ Zbuduj swoją wymarzoną kolekcję pojazdów LEGO Technic dla dorosłych (każdy
 
 ## 42229 — Lego Technic 42229 Samochód Mitsubishi Eclipse z serii Szybcy i wściekli
 
-*Seria: Technic · cena Allegro (2026-08-17): 193.27 zł · EAN: 05702018067703 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 193.27 zł · EAN: 05702018067703 · in stock*
 
 LEGO Technic 42229 Samochód Fast and Furious Mitsubishi Eclipse
  
@@ -5804,7 +5804,7 @@ Zestawy LEGO Technic obejmują realistycznie poruszające się mechanizmy, któr
 
 ## 42231 — Lego Technic 42151 Bugatti Bolide
 
-*Seria: Technic · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702018067710 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702018067710 · in stock*
 
 Klocki LEGO Technic 42151 - Bugatti Bolide
 
@@ -5839,7 +5839,7 @@ Galeria zestawu:
 
 ## 42232 — Lego Technic 42232 Koenigsegg Sadair's Spear Megacar
 
-*Seria: Technic · cena Allegro (2026-08-17): 1900.00 zł · EAN: 05702018067086 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1900.00 zł · EAN: 05702018067086 · in stock*
 
 LEGO Technic 42232 Koenigsegg Sadair's Spear Megacar
 
@@ -5867,7 +5867,7 @@ Spełnij swoje marzenie o budowaniu superszybkich pojazdów dzięki gamie kolekc
 
 ## 42233 — Lego Technic 42233 Potężne Maszyny
 
-*Seria: Technic · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702018067512 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702018067512 · in stock*
 
 Mnóstwo inspiracji i przygód na budowie czeka na dzieci w pudełku z niespodzianką, które skrywa jeden z modeli LEGO Technic Potężne maszyny (42233). Te zestawy z niespodzianką to świetny prezent dla chłopców i dziewczynek od 7 lat, dzięki któremu mogą złożyć i wyeksponować kolekcjonerski model pojazdu.
 
@@ -5883,7 +5883,7 @@ KOLEKCJONERSKI POJAZD Zachwyć dzieci, które kochają pojazdy i klocki, zestawe
 
 ## 42234 — Lego Technic Samochód sportowy Dodge Viper Gts-r 42234
 
-*Seria: Technic · cena Allegro (2026-08-17): 208.55 zł · EAN: 05702018067543 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 208.55 zł · EAN: 05702018067543 · in stock*
 
 **LEGO Technic Samochód sportowy Dodge Viper GTS-R 42234**
 
@@ -5913,7 +5913,7 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 ## 42235 — Lego Technic Samochód Ferrari 488 Pista 42235
 
-*Seria: Technic · cena Allegro (2026-08-17): 209.54 zł · EAN: 05702018067727 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 209.54 zł · EAN: 05702018067727 · in stock*
 
 **LEGO Technic Samochód Ferrari 488 PISTA 42235**
 
@@ -5943,7 +5943,7 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 ## 42236 — Lego Technic Warsztat tuningowy: samochód Ford Mustang Gt 42236
 
-*Seria: Technic · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018067567 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018067567 · in stock*
 
 **LEGO Technic Warsztat tuningowy: samochód Ford Mustang GT 42236**
 
@@ -5973,7 +5973,7 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 ## 42238 — Lego Technic Motocykl Ducati Desmo450 MX Factory 42238
 
-*Seria: Technic · cena Allegro (2026-08-17): 161.37 zł · EAN: 05702018067772 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 161.37 zł · EAN: 05702018067772 · in stock*
 
 **LEGO Technic Motocykl Ducati Desmo450 MX Factory 42238**
 
@@ -6003,7 +6003,7 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 ## 42239 — Lego Technic 42239 Batmobil Tumbler
 
-*Seria: Technic · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702018067789 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702018067789 · in stock*
 
 LEGO Technic 42239 Batmobile Tumbler
  
@@ -6028,7 +6028,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 42240 — Lego Technic Bolid F1 Aston Martin Aramco AMR25 42240
 
-*Seria: Technic · cena Allegro (2026-08-17): 775.99 zł · EAN: 05702018067796 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 775.99 zł · EAN: 05702018067796 · in stock*
 
 **LEGO Technic Bolid F1 Aston Martin Aramco AMR25 42240**
 
@@ -6058,7 +6058,7 @@ Zapisuj zestawy, powiększaj je i obracaj dzięki instrukcjom budowania 3D
 
 ## 42241 — Lego Technic Zielony hipersamochód Bugatti Chiron Pur Sport 42241
 
-*Seria: Technic · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702018069776 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702018069776 · in stock*
 
 **LEGO Technic Zielony hipersamochód Bugatti Chiron Pur Sport 42241**
 
@@ -6088,7 +6088,7 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 ## 42242 — Lego Technic 42242 Mercedes-Benz Unimog U 5023 z dźwigiem
 
-*Seria: Technic · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702018069806 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702018069806 · in stock*
 
 LEGO Technic 42242 Mercedes-Benz Unimog U 5023 z dźwigiem
 
@@ -6112,7 +6112,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 60374 — Lego City Terenowy pojazd Straży Pożarnej Zestaw 60374 Nowe Klocki Lego
 
-*Seria: Technic · cena Allegro (2026-08-17): 314.89 zł · EAN: 05709976473362 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 314.89 zł · EAN: 05709976473362 · in stock*
 
 ✨ LEGO CITY Terenowy pojazd STRAŻY POŻARNEJ ZESTAW 60374 NOWE KLOCKI LEGO ✨
 
@@ -6194,7 +6194,7 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 ## 6332749 — Lego Technic 42128 Ciężki samochód pomocy drogowej
 
-*Seria: Technic · cena Allegro (2026-08-17): 1739.99 zł · EAN: 05702016913361 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1739.99 zł · EAN: 05702016913361 · in stock*
 
 Klocki LEGO Technic 42128 - Ciężki samochód pomocy drogowej
 
@@ -6242,7 +6242,7 @@ Pozostałe zdjęcia
 
 ## 66318 — Lego Technic 66318 Zestaw 4w1
 
-*Seria: Technic · cena Allegro (2026-08-17): 1700.00 zł · EAN: 05702014596177 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1700.00 zł · EAN: 05702014596177 · in stock*
 
 Techniczne dane i zawartość
 
@@ -6273,7 +6273,7 @@ Techniczne dane i zawartość
 
 ## 8041 — Klocki Lego Technic Zestaw Wyścigowa ciężarówka 8041
 
-*Seria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014602533 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014602533 · in stock*
 
 LEGO TECHNIC Wyścigowa ciężarówka 8041
  
@@ -6291,7 +6291,7 @@ Zestaw klocków LEGO Technic 8041 Race Truck został zaprezentowany w 2010 rok
 
 ## 8043 — Klocki Lego Technic Zestaw Zmotoryzowana koparka 2w1 Sterowana Rc 8043
 
-*Seria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702014601635 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702014601635 · in stock*
 
 LEGO Technic - 8043 Zmotoryzowana koparka
 
@@ -6320,7 +6320,7 @@ Nie czekaj, zanurz się w świat inżynierii z LEGO Technic i stwórz własną z
 
 ## 8049 — Lego Technic 8049 Traktor z ładowarką kłód Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702014601680 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702014601680 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6356,7 +6356,7 @@ Zbuduj swój własny **Traktor Leśny LEGO 8049 **i przenieś się do świata re
 
 ## 8063 — Lego Technic 8063 Traktor z przyczepą
 
-*Seria: Technic · cena Allegro (2026-08-17): 1590.00 zł · EAN: 05702014539778 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1590.00 zł · EAN: 05702014539778 · in stock*
 
 Klocki LEGO Technic 8063 - Traktor z przyczepą
 
@@ -6441,7 +6441,7 @@ Projektanci LEGO® ściśle **współpracowali z firmą John Deere**, aby przyg
 
 ## 8070 — Klocki Lego Technic Zestaw 2w1 Samochód Sportowy Supercar i Hot Rod 8070
 
-*Seria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014734951 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014734951 · in stock*
 
 Zestaw Lego Technic 8070 Samochód Sportowy
 
@@ -6480,7 +6480,7 @@ Cechy produktu:
 
 ## 8071 — Lego Technic 8071 Bucket Truck
 
-*Seria: Technic · cena Allegro (2026-08-17): 485.00 zł · EAN: 05702014734968 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 485.00 zł · EAN: 05702014734968 · in stock*
 
 **Zbuduj potężną maszynę i sięgnij wysoko z zestawem LEGO Technic 8071!**
 
@@ -6505,7 +6505,7 @@ Oferuję na sprzedaż klasyczny, wycofany z produkcji zestaw LEGO Technic 8071 �
 
 ## 81000 — 81000 Lego Forma Koi karp ryba Japońska
 
-*Seria: Technic · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016520149 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016520149 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6528,7 +6528,7 @@ Oferuję na sprzedaż klasyczny, wycofany z produkcji zestaw LEGO Technic 8071 �
 
 ## 8109 — Klocki Lego Technic Zestaw Ciężarówka z płaską platformą 8109
 
-*Seria: Technic · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014734982 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014734982 · in stock*
 
 Zestaw LEGO Technic Ciężarówka z płaską platformą 8109
 
@@ -6562,7 +6562,7 @@ Nie przegap okazji, dodaj ten wyjątkowy zestaw do swojej kolekcji!
 
 ## 8110 — Lego 8110 Technic Mercedes-Benz Unimog U 400 Klocki
 
-*Seria: Technic · cena Allegro (2026-08-17): 1930.00 zł · EAN: 05702014734999 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1930.00 zł · EAN: 05702014734999 · in stock*
 
 **LEGO Technic 8110 – Mercedes-Benz Unimog U 400** to zaawansowany zestaw z serii Technic, który pozwala zbudować realistyczny model legendarnego pojazdu terenowego Unimog U 400, stworzonego we współpracy z firmą **Mercedes-Benz**. To wyjątkowe połączenie inżynierii i funkcjonalności, idealne dla fanów techniki oraz wymagających konstruktorów.
 
@@ -6586,7 +6586,7 @@ Cechy:
 
 ## 8259 — Lego Technic 8259 Buldożer
 
-*Seria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702014532403 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702014532403 · in stock*
 
 LEGO 8259 Technic - Buldożer z 2009 roku
  
@@ -6608,7 +6608,7 @@ Instrukcje budowania obu modeli (podstawowego i alternatywnego) znajdują się w
 
 ## 8264 — Klocki Lego Technic Zestaw 2 w 1Wywrotka Koparka Budowlana Hauler 8264
 
-*Seria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014533424 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014533424 · in stock*
 
 **Nowe klocki LEGO Technic 8264 - Ciężarówka z naczepą.**
 
@@ -6652,7 +6652,7 @@ Ciężarówka z platformą (Flatbed Truck)
 
 ## 8265 — Lego Technic 8265 Ładowarka front loader Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702014532434 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702014532434 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6670,7 +6670,7 @@ LEGO 8265 składa się z 1064 elementów, co czyni go jednym z większych zestaw
 
 ## 8274 — Lego Technic Kombajn zbożowy 8274
 
-*Seria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014500075 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014500075 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6693,7 +6693,7 @@ LEGO 8265 składa się z 1064 elementów, co czyni go jednym z większych zestaw
 
 ## 8284 — Lego Technic 42136 Traktor John Deere 9620R 4WD
 
-*Seria: Technic · cena Allegro (2026-08-17): 248.85 zł · EAN: 05702014457492 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 248.85 zł · EAN: 05702014457492 · in stock*
 
 Klocki LEGO Technic 42136 - Traktor John Deere 9620R 4WD
 
@@ -6725,7 +6725,7 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 
 ## 8295 — Lego Technic 8295 Podnośnik teleskopowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014518278 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014518278 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6739,7 +6739,7 @@ Zestaw klocków **LEGO Technic 8295 Podnośnik teleskopowy ** został zaprezento
 
 ## 8297 — Lego Technic 8297 Samochód terenowy Nowe
 
-*Seria: Technic · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702014518285 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702014518285 · in stock*
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6763,7 +6763,7 @@ Dzięki dużej liczbie elementów zestaw gwarantuje satysfakcję z budowy oraz e
 
 ## 8436 — Klocki Lego Technic Zestaw 3w1 Ciężarówka żuraw pneumatyczny holownik 8436
 
-*Seria: Technic · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014365841 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014365841 · in stock*
 
 **LEGO Technic 8436 – Ciężarówka z żurawiem pneumatycznym**
 
@@ -6798,7 +6798,7 @@ Otwierane burty platformy transportowej.
 
 ## 8445 — Lego Speed Champions Porshe 963 Wyścigówka Samochód Formuła 1 Zabawka 9+
 
-*Seria: Technic · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016032598 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016032598 · in stock*
 
 ⭐LEGO SPEED CHAMPIONS PORSHE 963 WYŚCIGÓWKA SAMOCHÓD FORMUŁA 1 ZABAWKA 9+⭐
 
@@ -6839,7 +6839,7 @@ Wymiary:
 
 ## 8453 — Lego Technic 8453 Ładowarka (2003 rok)
 
-*Seria: Technic · cena Allegro (2026-08-17): 685.00 zł · EAN: 05702014264946 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 685.00 zł · EAN: 05702014264946 · in stock*
 
 LEGO Technic 8453 Front‑End Loader (Ładowarka)
 
@@ -6866,7 +6866,7 @@ LEGO Technic 8453 Front‑End Loader (Ładowarka)
 
 ## 8455 — Lego Technic 8455 Koparka Excavator
 
-*Seria: Technic · cena Allegro (2026-08-17): 1950.00 zł · EAN: 00673419018944 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1950.00 zł · EAN: 00673419018944 · in stock*
 
 Dane techniczne
 
@@ -6913,7 +6913,7 @@ Alternatywny model (B‑model) – ładowarka czołowa
 
 ## 8513 — nowy Lego 8513 Technic Robo Riders Dust Bionicle Misb 2000
 
-*Seria: Technic · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702012006760 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702012006760 · in stock*
 
 Cześć!
 
@@ -6935,7 +6935,7 @@ Pozdrawiam.
 
 ## 9393 — Lego Technic 9393 Traktor
 
-*Seria: Technic · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702014837478 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702014837478 · in stock*
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -6949,7 +6949,7 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
 ## 9395 — Klocki Lego Technic Furgonetka Pomocy Drogowej 9395 954 elementy
 
-*Seria: Technic · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014837492 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014837492 · in stock*
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -6973,7 +6973,7 @@ Zestaw klocków LEGO Technic Furgonetka pomocy drogowej 9395 został przedstaw
 
 ## 9396 — Lego Technic 9396 Helikopter
 
-*Seria: Technic · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014837508 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014837508 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6996,7 +6996,7 @@ Zestaw klocków LEGO Technic Furgonetka pomocy drogowej 9395 został przedstaw
 
 ## 9397 — Lego Technic 9397 Ciężarówka do transportu drewna
 
-*Seria: Technic · cena Allegro (2026-08-17): 1455.00 zł · EAN: 05702014837515 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1455.00 zł · EAN: 05702014837515 · in stock*
 
 - LEGO Technic 9397 - Ciężarówka z wyciągarką
 Odkryj niezwykłą LEGO Technic 9397 Ciężarówkę z wyciągarką, która zachwyca realistycznymi funkcjami i szczegółowym wykonaniem! Ten imponujący model oferuje ruchome tłoki, działającą wyciągarkę i mechanizm skrętu, co zapewnia autentyczne wrażenia z budowania i zabawy. Dzięki solidnej konstrukcji i klasycznemu wyglądowi ciężarówki leśnej, zestaw jest idealny dla fanów LEGO Technic i kolekcjonerów.
@@ -7017,7 +7017,7 @@ Dodaj LEGO 9397 do swojej kolekcji i ciesz się niezwykłą jakością modelu Te
 
 ## 9398 — Klocki Lego Technic Zestaw Crawler Sterowany Wóz Rc z napędem 4X4 9398
 
-*Seria: Technic · cena Allegro (2026-08-17): 1699.00 zł · EAN: 05702014837522 · in stock*
+*Kategoria: Technic · cena Allegro (2026-08-17): 1699.00 zł · EAN: 05702014837522 · in stock*
 
 LEGO Technic 9398 – Wóz z Napędem 4x4 (Rock Crawler)
 

@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Art — opisy produktowe (23 zestawów)
+# LEGO Art — opisy produktowe (23 pozycji)
 
 ## 31197 — Lego 31197 Art Marilyn Monroe Andyego Warhola
 
-*Seria: Art · cena Allegro (2026-08-17): 894.99 zł · EAN: 05702016677683 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 894.99 zł · EAN: 05702016677683 · in stock*
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -45,7 +45,7 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 ## 31198 — Klocki Lego Art The Beatles 31198
 
-*Seria: Art · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702016677690 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702016677690 · in stock*
 
 Jeśli uwielbiasz Beatlesów, mamy coś w sam raz dla Ciebie.
 
@@ -65,7 +65,7 @@ Ten artystyczny model ma kształt kwadratu o boku ok. 40 cm.
 
 ## 31199 — Lego Art 31199 Iron Man z wytwórni Marvel Studios 3167 elementów
 
-*Seria: Art · cena Allegro (2026-08-17): 889.00 zł · EAN: 05702016677706 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 889.00 zł · EAN: 05702016677706 · in stock*
 
 Jeżeli uwielbiasz superbohaterów, mamy coś w sam raz dla Ciebie. Ucieknij na chwilę od codzienności i zbuduj jeden z trzech portretów przedstawiających kultowe zbroje Iron Mana dzięki zestawowi LEGO® Art 31199 Iron Man z wytwórni Marvel Studios.
  
@@ -95,7 +95,7 @@ Nie musisz mieć zdolności artystycznych ani wielkiej kolekcji modeli LEGO, aby
 
 ## 31200 — Klocki Lego Art Zestaw Star Wars The Sith 31200
 
-*Seria: Art · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016677713 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016677713 · in stock*
 
 Jeśli jesteś fanem serii Star Wars, ten zestaw jest w sam raz dla Ciebie. LEGO Art 31200 Star Wars — Sith to zestaw, dzięki któremu stworzysz obraz przedstawiający kultową postać. Zrób sobie zasłużoną przerwę od obowiązków i zbuduj wyjątkową ozdobę, którą ozdobisz dom lub biuro.
 
@@ -128,7 +128,7 @@ Nie musisz mieć talentu malarskiego ani wielu modeli LEGO w swojej kolekcji, ab
 
 ## 31201 — Lego Art 31201 Harry Potter Herby Hogwartu Opis
 
-*Seria: Art · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702016914535 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702016914535 · in stock*
 
 Lego art klocki harry potter herby hogwartu 31201
  
@@ -148,7 +148,7 @@ OPAKOWANIE JEST OBSZOROWANE, PRODUKT W 100% KOMPLETNY
 
 ## 31202 — Lego Art Zestaw Disney's Mickey Mouse 31202
 
-*Seria: Art · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016914894 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016914894 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -193,7 +193,7 @@ Każdy doceni pomysłowość tego zestawu. Gotowy portret można postawić na p�
 
 ## 31203 — Klocki Lego Art 31203 Mapa Świata Unikat
 
-*Seria: Art · cena Allegro (2026-08-17): 2499.77 zł · EAN: 05702016914900 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 2499.77 zł · EAN: 05702016914900 · in stock*
 
 Marzysz o zbudowaniu własnej mapy świata? Ogromny zestaw LEGO® Art 31203 Mapa świata pomoże Ci to zrobić. Dzięki największemu w historii firmy LEGO zestawowi zbudujesz jedną z trzech kolorowych map.
 
@@ -222,7 +222,7 @@ Ucieknij od codziennej harówki i skup się na kreatywnym zadaniu, budując cudo
 
 ## 31204 — Lego Art Elvis Presley The King 31204
 
-*Seria: Art · cena Allegro (2026-08-17): 749.75 zł · EAN: 05702016914917 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 749.75 zł · EAN: 05702016914917 · in stock*
 
 ORYGINALNY ZESTAW LEGO
 
@@ -242,7 +242,7 @@ Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 40x38x5,5cm
 
 ## 31206 — Lego Art 31206 The Rolling Stones
 
-*Seria: Art · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017153988 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017153988 · in stock*
 
 LEGO ART 31206 THE ROLLING STONES
 
@@ -273,7 +273,7 @@ Ikona rock and rolla — poznaj każdy detal logo The Rolling Stones podczas bud
 
 ## 31207 — Klocki Lego Art Zestaw Sztuka kwiatowa 31207
 
-*Seria: Art · cena Allegro (2026-08-17): 430.46 zł · EAN: 05702017153995 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 430.46 zł · EAN: 05702017153995 · in stock*
 
 LEGO Art 31207 Sztuka kwiatowa
  
@@ -303,7 +303,7 @@ Zestaw LEGO® Art Sztuka kwiatowa (31207) z obrazem do powieszenia na ścianie s
 
 ## 31208 — Klocki Lego Art Hokusai Wielka Fala Japoński panel ścienny 3D Obraz
 
-*Seria: Art · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702017412160 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702017412160 · in stock*
 
 LEGO Art 31208 Hokusai „Wielka fala”
 
@@ -335,7 +335,7 @@ Zestawy LEGO® Art pozwalają dorosłym zrelaksować się podczas budowania, a t
 
 ## 31209 — 31209 Lego Art 31209 Niesamowity SpiderMan Zestaw Kolekcjonerski
 
-*Seria: Art · cena Allegro (2026-08-17): 689.98 zł · EAN: 05702017415567 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 689.98 zł · EAN: 05702017415567 · in stock*
 
 LEGO Art 31209 LEGO ART Niesamowity Spider-Man 31209
 
@@ -389,7 +389,7 @@ Odprężające zestawy LEGO dla dorosłych Tworząc tę niesamowitą grafikę ś
 
 ## 31210 — Klocki Lego Modern Art 31210 Sztuka współczesna 805 elementów 18+ Obraz
 
-*Seria: Art · cena Allegro (2026-08-17): 348.00 zł · EAN: 05702017415574 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 348.00 zł · EAN: 05702017415574 · in stock*
 
 Lego ART 31210 Sztuka współczesna
  
@@ -409,7 +409,7 @@ Zestawy z serii LEGO(R) Art dają dorosłym konstruktorom możliwość stworzeni
 
 ## 31211 — Lego 31211 Kolekcja Zwierząt Papugi
 
-*Seria: Art · cena Allegro (2026-08-17): 239.90 zł · EAN: 05702017584010 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 239.90 zł · EAN: 05702017584010 · in stock*
 
 **Lego** **Art - Kolekcja zwierząt - Papugi Ary**
 
@@ -437,7 +437,7 @@ Ilość elementów: 644
 
 ## 31212 — Lego Art 31212 Droga Mleczna
 
-*Seria: Art · cena Allegro (2026-08-17): 671.24 zł · EAN: 05702017587462 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 671.24 zł · EAN: 05702017587462 · in stock*
 
 LEGO Art 31212 Droga Mleczna
 
@@ -465,7 +465,7 @@ Ten kosmiczny prezent składa się z pięciu różnych paneli, z których każdy
 
 ## 31213 — Lego Art 31213 Mona Lisa Zestaw Klocków 1503 Elementy
 
-*Seria: Art · cena Allegro (2026-08-17): 344.89 zł · EAN: 05702017584027 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 344.89 zł · EAN: 05702017584027 · in stock*
 
 LEGO ART 31213 Mona Lisa Super  Zestaw Klocków 1503 Elementy
 
@@ -488,7 +488,7 @@ Obraz Mona Lisa, oprawiony w elegancką złotą ramę, przeznaczony jest do zawi
 
 ## 31214 — Lego Art 31214 Love
 
-*Seria: Art · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017814698 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017814698 · in stock*
 
 LEGO Art 31214 LOVE
 
@@ -524,7 +524,7 @@ Zrelaksuj się przy modelu zaprojektowanym z pasją.
 
 ## 31215 — Lego 31215 „Słoneczniki” Vincent van Gogh
 
-*Seria: Art · cena Allegro (2026-08-17): 649.99 zł · EAN: 05702017823126 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 649.99 zł · EAN: 05702017823126 · in stock*
 
 LEGO® 31215 „Słoneczniki” Vincent van Gogh
 
@@ -547,7 +547,7 @@ Ten zestaw to gratka dla Ciebie lub twórczy prezent dla dorosłych i innych mi�
 
 ## 31216 — Lego Art Keith Haring tańczące postacie 31216
 
-*Seria: Art · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017814445 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017814445 · in stock*
 
 **LEGO Art Keith Haring - tańczące postacie 31216**
 
@@ -573,7 +573,7 @@ Zestawy LEGO® dla dorosłych oferują jeszcze więcej dzieł sztuki (sprzedawan
 
 ## 31217 — Lego 31217 Art kolekcja Tygrys
 
-*Seria: Art · cena Allegro (2026-08-17): 163.99 zł · EAN: 05702017814452 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 163.99 zł · EAN: 05702017814452 · in stock*
 
 LEGO 31217 Art Kolekcja zwierząt — Tygrys 18+ (744 el.)
 
@@ -649,7 +649,7 @@ LEGO 31217, LEGO Art Tygrys, klocki LEGO 18+, mozaika LEGO Art, dekoracja ścien
 
 ## 31218 — Lego Art 31218 Japanese Cherry Blossom Landscape Japoński krajobraz
 
-*Seria: Art · cena Allegro (2026-08-17): 399.79 zł · EAN: 05702018061862 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 399.79 zł · EAN: 05702018061862 · in stock*
 
 Klocki LEGO® ART 31218 Japanese Cherry Blossom Landscape | Japoński krajobraz z kwitnącą wiśnią
 
@@ -680,7 +680,7 @@ Jeżeli kupujesz klocki na prezent i chcesz do swojego zamówienia zawierająceg
 
 ## 31220 — Lego Art 31220 Claude Monet Most nad stawem z liliami wodnymi
 
-*Seria: Art · cena Allegro (2026-08-17): 635.99 zł · EAN: 05702018066379 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 635.99 zł · EAN: 05702018066379 · in stock*
 
 LEGO ART 31220 Claude Monet - Most nad stawem z liliami wodnymi
 
@@ -703,7 +703,7 @@ Oszałamiający i niezwykle szczegółowy zestaw z dekoracją ścienną z dzieł
 
 ## 31221 — Lego Art 31221 Gustav Klimt Pocałunek
 
-*Seria: Art · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702018066386 · in stock*
+*Kategoria: Art · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702018066386 · in stock*
 
 Zbuduj z klocków jeden z najsłynniejszych obrazów świata dzięki zestawowi LEGO® Art Gustav Klimt — Pocałunek (31221). Ta secesyjna dekoracja oddaje emocje, piękno i bogatą kolorystykę, którymi austriacki modernista posługiwał się na przełomie XIX i XX wieku. Ta trójwymiarowa dekoracja ścienna powstała we współpracy z Muzeum Belweder w Wiedniu, w którym znajduje się oryginalny obraz. Wersja LEGO zawiera podpis Klimta i stanowi niesamowitą interpretację Pocałunku — w kreatywny sposób wykorzystano w niej zdobione koła, spirale, wypustki, kwiaty i złote metaliczne klocki, aby przedstawić parę w uścisku. To szczegółowe dzieło z wieszakiem z tyłu będzie wspaniałą ozdobą każdej ściany i wniesie odrobinę elegancji do Twojego domu. Ten zestaw konstrukcyjny to świetny pomysł na prezent dla siebie lub dla miłośników sztuki — zapewnia wciągającą i relaksującą aktywność twórczą. Zestaw zawiera 4000 elementów — to największe jak dotąd arcydzieło z serii LEGO Art.
  

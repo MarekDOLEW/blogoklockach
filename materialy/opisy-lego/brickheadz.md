@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO BrickHeadz — opisy produktowe (160 zestawów)
+# LEGO BrickHeadz — opisy produktowe (160 pozycji)
 
 ## 40203 — Klocki Lego BrickHeadz 40203 Dracula Wampir Nietoperz Halloween BrickHeadz
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 184.00 zł · EAN: 05702015594530 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 184.00 zł · EAN: 05702015594530 · in stock*
 
 LEGO BrickHeadz 40203 Dracula Wampir Nietoperz Halloween BrickHeadz Prezent
 
@@ -35,7 +35,7 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
 
 ## 40251 — Lego 40251 Miniświnka skarbonka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015867450 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015867450 · in stock*
 
 *
  
@@ -65,7 +65,7 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
 
 ## 40272 — Lego 40272 Brickheadz Wiedźma na Halloween
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702016122039 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702016122039 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -79,7 +79,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40273 — Lego 40273 BrickHeadz Indyk na Święto Dziękczynienia.
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016122046 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016122046 · in stock*
 
 LEGO Indyk na Święto Dziękczynienia 40273
  
@@ -100,7 +100,7 @@ Zbuduj sympatycznego indyka z zestawu LEGO BrickHeadz 40273, aby okazać wdzięc
 
 ## 40274 — Lego BrickHeadz 40274 Święty Mikołaj i Pani Mikołajowa
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016122053 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016122053 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -138,7 +138,7 @@ Zaproś do domu Świętego Mikołaja i Panią Mikołajową z zestawu 40274 LEGO 
 
 ## 40348 — Lego BrickHeadz 40348 Klaun z urodzinowego przyjęcia
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 77.76 zł · EAN: 05702016370805 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 77.76 zł · EAN: 05702016370805 · in stock*
 
 Klocki LEGO® 40348 BrickHeadz™ Klaun z urodzinowego przyjęcia
 
@@ -164,7 +164,7 @@ Zestaw jest przeznaczony dla osób od 10 lat. Sprawdzi się dla fanów serii LEG
 
 ## 40349 — Lego Brickheadz 40349 Walentynkowy szczeniaczek. Nieduże zagniecenia.
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016370812 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016370812 · in stock*
 
 Fabrycznie nowy, oryginalnie zapakowany zestaw Lego 40349 Brickheadz - Walentynkowy szczeniaczek.
 
@@ -176,7 +176,7 @@ Do wysyłki będzie bezpiecznie zapakowany w dodatkowy karton.
 
 ## 40350 — Lego 40350 BrickHeadz Kurczak Misb z 2019r
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016370829 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016370829 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -190,7 +190,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40351 — Lego 40351 BrickHeadz Duch na Halloween
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702016370836 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702016370836 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -204,7 +204,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40353 — Zestaw Lego Brickheadz 40353 Renifer, Elf I Elfka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702016370850 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702016370850 · in stock*
 
 ZESTAW LEGO BRICKHEADZ - 40353 - RENIFER, ELF I ELFKA
 
@@ -246,7 +246,7 @@ LEGO BrickHeadz 40353 to zestaw, który idealnie oddaje magię świąt i sprawdz
 
 ## 40354 — Lego BrickHeadz 40354 Chłopak tańczący taniec smoka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702016370867 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702016370867 · in stock*
 
 Klocki LEGO BrickHeadz 40354 - Chłopak tańczący taniec smoka
  
@@ -261,7 +261,7 @@ Model Chłopak tańczący taniec smoka z zestawu 40354 LEGO® BrickHeadz™ pomo
 
 ## 40367 — Lego 40367 Brickheadz Statua Wolności
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 74.45 zł · EAN: 05702016538946 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 74.45 zł · EAN: 05702016538946 · in stock*
 
 LEGO 40367 BRICKHEADZ - STATUA WOLNOŚCI
 
@@ -288,7 +288,7 @@ Uczcij niepodległość, budując figurkę LEGO® Brickheadz™ 40367 Statua Wol
 
 ## 40377 — Lego 40377 BrickHeadz Kaczor Donald
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016656701 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016656701 · in stock*
 
 Oryginalne, nieotwierane opakowanie
 
@@ -308,7 +308,7 @@ Przybliżone wymiary opakowania:** 12,1 x 9,1 x 7,9 cm**
 
 ## 40378 — Lego 40378 BrickHeadz Disney Goofy i Pluto
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702016656718 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702016656718 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -322,7 +322,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40380 — Lego 40380 BrickHeadz Wielkanocna owieczka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016656732 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016656732 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -336,7 +336,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40381 — Zestaw Lego Brickheadz 40381 Monkey King Małpi Król
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016656749 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016656749 · in stock*
 
 ZESTAW LEGO BRICKHEADZ - 40381 - MONKEY KING - MAŁPI KRÓL
 
@@ -376,7 +376,7 @@ Zestaw LEGO 40381 to doskonały wybór dla fanów klocków, kolekcjonerów serii
 
 ## 40383 — Lego 40383 Brickheadz Panna Młoda
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656756 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656756 · in stock*
 
 LEGO 40383 BRICKHEADZ - PANNA MŁODA
 
@@ -406,7 +406,7 @@ Panna młoda LEGO® BrickHeadz™ (40383) może być ciekawym upominkiem dla kre
 
 ## 40384 — Lego 40384 Brickheadz Pan Młody
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656763 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656763 · in stock*
 
 LEGO 40384 BRICKHEADZ - PAN MŁODY
 
@@ -436,7 +436,7 @@ Zestaw Pan młody LEGO® BrickHeadz™ (40384) może być świetnym upominkiem d
 
 ## 40412 — Lego BrickHeadz 40412 Hagrid i Hardodziob
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016720099 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016720099 · in stock*
 
 Klocki LEGO BrickHeadz 40412 - Hagrid i Hardodziob
  
@@ -451,7 +451,7 @@ Zestaw LEGO® Hagrid™ i Hardodziob™ (40412) zachwyci każdego fana filmów o
 
 ## 40420 — Lego Brickheadz Minions 40420 Gru, Stuart i Otto
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702016720228 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702016720228 · in stock*
 
 Klocki LEGO BrickHeadz 40420 - Gru, Stuart i Otto
  
@@ -467,7 +467,7 @@ W zestawie LEGO® BrickHeadz™ Gru, Stuart i Otto (40420) znajdziesz trzy posta
 
 ## 40421 — Lego 40421 BrickHeadz Belle Bottom Kevin i Bob Nowe
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016720235 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016720235 · in stock*
 
 Wszystkie wystawione przez nas zestawy są oryginalne
 
@@ -495,7 +495,7 @@ PONIEŻEJ RZECZYWISTE ZDJĘCIA ZESTAWU
 
 ## 40422 — Lego 40422 Brickheadz Frankenstein
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016720242 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016720242 · in stock*
 
 LEGO 40422 BRICKHEADZ - FRANKENSTEIN
 
@@ -524,7 +524,7 @@ Zestaw Frankenstein z serii LEGO® BrickHeadz™ (40422) to zabawna interpretacj
 
 ## 40425 — Lego 40425 BrickHeadz Dziadek do orzechów
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 104.00 zł · EAN: 05702016720273 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 104.00 zł · EAN: 05702016720273 · in stock*
 
 Oryginalne, nieotwierane opakowanie,
 
@@ -545,7 +545,7 @@ Przybliżone wymiary opakowania: **14,1 x 12,2 x 6,1 cm**
 
 ## 40436 — Lego BrickHeadz 40436 Japoński kot szczęścia
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016721157 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016721157 · in stock*
 
 LEGO® 40436 Japoński kot szczęścia
 
@@ -560,7 +560,7 @@ Uroczy kot szczęścia z zestawu LEGO® BrickHeadz™ (40436) będzie świetnym 
 
 ## 40440 — Lego BrickHeadz 40440 Owczarek niemiecki
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 92.76 zł · EAN: 05702016910353 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 92.76 zł · EAN: 05702016910353 · in stock*
 
 Klocki LEGO® 40440 BrickHeadz™ Owczarek niemiecki
 
@@ -590,7 +590,7 @@ Zestaw jest odpowiedni dla dzieci od 8 lat, kolekcjonerów LEGO® BrickHeadz™ 
 
 ## 40441 — Lego BrickHeadz 40441 Koty krótkowłose
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702016910872 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702016910872 · in stock*
 
 LEGO 40441 BrickHeadz Koty krótkowłose
  
@@ -619,7 +619,7 @@ Ten kolekcjonerski zestaw konstrukcyjny BrickHeadz™ z kotem i kociątkiem do z
 
 ## 40442 — Lego BrickHeadz 40442 Złota rybka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702016910889 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702016910889 · in stock*
 
 Przedmiot w ofercie: LEGO BrickHeadz 40442 Złota rybka.
 
@@ -641,7 +641,7 @@ Pozdrawiam i zapraszam do zakupów.
 
 ## 40443 — Zestaw Lego Brickheadz 40443 Kolorowa Papużka I Pisklęcie
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 74.00 zł · EAN: 05702016910360 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 74.00 zł · EAN: 05702016910360 · in stock*
 
 ZESTAW LEGO BRICKHEADZ - 40443 - KOLOROWA PAPUŻKA I PISKLĘCIE
 
@@ -683,7 +683,7 @@ Model BrickHeadz 40443 to doskonały wybór dla każdego miłośnika ptaków, zw
 
 ## 40466 — Lego 40466 BrickHeadz Pandy na Chiński Nowy Rok
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 137.77 zł · EAN: 05702016910704 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 137.77 zł · EAN: 05702016910704 · in stock*
 
 LEGO® 40466 Pandy na Chiński Nowy Rok
 
@@ -698,7 +698,7 @@ Dzięki cudownemu zestawowi LEGO® BrickHeadz™ 40466 Pandy na chiński Nowy Ro
 
 ## 40476 — Lego 40476 BrickHeadz Disney Kaczka Daisy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 67.00 zł · EAN: 05702016961379 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 67.00 zł · EAN: 05702016961379 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -712,7 +712,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40477 — Lego 40477 BrickHeadz Sknerus McKwacz, Hyzio, Dyzio i Zyzio
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 158.77 zł · EAN: 05702016961249 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.77 zł · EAN: 05702016961249 · in stock*
 
 LEGO® 40477 Sknerus McKwacz, Hyzio, Dyzio i Zyzio
 
@@ -727,7 +727,7 @@ Kolekcjonerski zestaw do zbudowania LEGO® BrickHeadz™ ǀ Disney 40477 Sknerus
 
 ## 40479 — Lego 40479 BrickHeadz Dalmatyńczyk
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 116.99 zł · EAN: 05702016988420 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 116.99 zł · EAN: 05702016988420 · in stock*
 
 LEGO 40479 BrickHeadz - Dalmatyńczyk / Dalmatian
 
@@ -761,7 +761,7 @@ Kupując u nas dbasz o środowisko. Dzięki Tobie świat produkuje mniej odpadó
 
 ## 40480 — Lego 40480 BrickHeadz Pręgowany rudy kot
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 297.90 zł · EAN: 05702016988628 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 297.90 zł · EAN: 05702016988628 · in stock*
 
 Klocki LEGO BrickHeadz 40480 - Pręgowany rudy kot
 
@@ -775,7 +775,7 @@ Młodym miłośnikom zwierząt z pewnością przypadnie do gustu ten kolekcjoner
 
 ## 40482 — Lego BrickHeadz 40482 Chomik
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 162.02 zł · EAN: 05702016988635 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 162.02 zł · EAN: 05702016988635 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -811,7 +811,7 @@ Zestaw zawiera 243 klocki LEGO.
 
 ## 40490 — Zestaw Lego Brickheadz 40490 Ninjago 10 Legacy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 166.97 zł · EAN: 05702017006079 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 166.97 zł · EAN: 05702017006079 · in stock*
 
 ZESTAW LEGO BRICKHEADZ - 40490 - NINJAGO 10 LEGACY
 
@@ -853,7 +853,7 @@ Zestaw LEGO 40490 to doskonały wybór dla fanów Ninjago, kolekcjonerów serii 
 
 ## 40492 — Lego BrickHeadz Szkieletowa Dama La Catrina 40492
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 109.80 zł · EAN: 05702017005911 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.80 zł · EAN: 05702017005911 · in stock*
 
 **LEGO BrickHeadz Szkieletowa dama 40492**
 
@@ -871,7 +871,7 @@ Stojąc ponad 3,5 cala. Ten model do zbudowania o wysokości 9 cm stanowi koloro
 
 ## 40495 — Lego BrickHeadz 40495 Harry, Hermoine, Ron & Hagrid
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016995985 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016995985 · in stock*
 
 ZESTAW LEGO BRICKHEADZ 40495
 
@@ -890,7 +890,7 @@ Cechy zestawu:
 
 ## 40496 — Lego BrickHeadz 40496 Voldemort, Nagini i Bellatrix
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702016996012 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702016996012 · in stock*
 
 Klocki LEGO® 40496 BrickHeadz™ Voldemort™, Nagini i Bellatrix
 
@@ -915,7 +915,7 @@ Zestaw będzie odpowiedni dla osób od 10 lat, które interesują się światem 
 
 ## 40539 — Zestaw Lego Brickheadz Star Wars 40539 Ahsoka Tano Z Gwiezdnych Wojen
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 71.95 zł · EAN: 05702017166902 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 71.95 zł · EAN: 05702017166902 · in stock*
 
 ZESTAW LEGO BRICKHEADZ STAR WARS - 40539 - AHSOKA TANO Z GWIEZDNYCH WOJEN
 
@@ -955,7 +955,7 @@ LEGO BrickHeadz Ahsoka Tano to doskonały wybór dla każdego fana Star Wars, ni
 
 ## 40540 — Lego Brickheadz 40540 Chłopak Tańczący Taniec Lwa
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017166919 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017166919 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -981,7 +981,7 @@ Grupa wiekowa tego produktu to 10+
 
 ## 40541 — Lego BrickHeadz 40541 Portret z klocków Manchester United Unikat
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166926 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166926 · in stock*
 
 LEGO® 40541 Portret z klocków — Manchester United
 
@@ -996,7 +996,7 @@ Dzieci i fani Manchesteru United będą się świetnie bawić, budując modele B
 
 ## 40542 — Lego 40542 Portret z klocków Fc Barcelona
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 179.45 zł · EAN: 05702017241760 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.45 zł · EAN: 05702017241760 · in stock*
 
 LEGO® 40542 Portret z klocków — FC Barcelona
 
@@ -1011,7 +1011,7 @@ Dzieci i fani FC Barcelony będą się świetnie bawić, budując modele BrickHe
 
 ## 40543 — Lego 40543 Bernardyn
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017166933 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017166933 · in stock*
 
 Miłośnicy psów będą zachwyceni zestawem LEGO® BrickHeadz™ Bernardyn (40543) do zbudowania i zabawy. **Przeurocze modele psa i szczeniaka noszą śliczne różowe obroże i mają wystawione języki.** Psiaki siedzą obok zielonego krzaczka. Można je ustawić na płytce konstrukcyjnej lub odczepić do zabawy w odgrywanie scenek. To zestaw w sam raz dla dzieci w wieku od ośmiu lat.
 
@@ -1024,7 +1024,7 @@ Miłośnicy psów będą zachwyceni zestawem LEGO® BrickHeadz™ Bernardyn (405
 
 ## 40544 — Lego BrickHeadz 40544 Buldog francuski
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017166940 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017166940 · in stock*
 
 Klocki LEGO BrickHeadz 40544 - Buldog francuski
  
@@ -1041,7 +1041,7 @@ Zestaw LEGO BrickHeadz - Buldog francuski trafił do sprzedaży w 2022 roku. N
 
 ## 40546 — Lego 40546 Pudel
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 122.00 zł · EAN: 05702017241784 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 122.00 zł · EAN: 05702017241784 · in stock*
 
 Klocki LEGO BrickHeadz 40546 - Pudel
 
@@ -1055,7 +1055,7 @@ Zachwyć młodych miłośników psów modelem LEGO® BrickHeadz™ Pudel (40546)
 
 ## 40547 — Zestaw Lego Brickheadz Star Wars 40547 Obi-wan Kenobi I Darth Vader
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 114.31 zł · EAN: 05702017241791 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 114.31 zł · EAN: 05702017241791 · in stock*
 
 ZESTAW LEGO BRICKHEADZ STAR WARS - 40547 - OBI-WAN KENOBI I DARTH VADER
 
@@ -1097,7 +1097,7 @@ LEGO BrickHeadz 40547 to idealny wybór dla każdego fana Star Wars, który chce
 
 ## 40548 — Lego BrickHeadz 40548 Hołd dla Spice Girls
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 176.39 zł · EAN: 05702017166957 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 176.39 zł · EAN: 05702017166957 · in stock*
 
 Klocki LEGO® 40548 BrickHeadz™ Hołd dla Spice Girls
 
@@ -1123,7 +1123,7 @@ Zestaw będzie odpowiedni dla osób od 16 lat, które interesują się serią LE
 
 ## 40549 — Lego 40549 Stranger Things BrickHeadz Demogorgon i Jedenastka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 248.00 zł · EAN: 05702017166964 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 248.00 zł · EAN: 05702017166964 · in stock*
 
 Zestaw nowy, nigdy nie otwierany.
  
@@ -1146,7 +1146,7 @@ Zestaw LEGO BrickHeadz - Demogorgon i Jedenastka trafił do sprzedaży w 2022 
 
 ## 40550 — Lego 40550 BrickHeadz Chip i Dale
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166971 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166971 · in stock*
 
 Klocki LEGO BrickHeadz 40550 - Chip i Dale
 
@@ -1176,7 +1176,7 @@ Zestaw LEGO BrickHeadz - Chip i Dale trafił do sprzedaży w 2022 roku. Numer 
 
 ## 40552 — Lego 40552 Brickheadz Toy Story Buzz Astral
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 94.00 zł · EAN: 05702017166995 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.00 zł · EAN: 05702017166995 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -1190,7 +1190,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40553 — Lego 40553 BrickHeadz Toy story Chudy i Bou
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 129.50 zł · EAN: 05702017167008 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 129.50 zł · EAN: 05702017167008 · in stock*
 
 Klocki LEGO BrickHeadz 40553 - Chudy i Bou
  
@@ -1207,7 +1207,7 @@ Zestaw LEGO BrickHeadz - Chudy i Bou trafił do sprzedaży w 2022 roku. Numer 
 
 ## 40554 — Zestaw Lego Brickheadz 40554 Jack Sully I Jego Awatar
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 81.31 zł · EAN: 05702017241807 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 81.31 zł · EAN: 05702017241807 · in stock*
 
 ZESTAW LEGO BRICKHEADZ - 40554 - JACK SULLY I JEGO AWATAR
 
@@ -1249,7 +1249,7 @@ Zestaw LEGO BrickHeadz 40554 to doskonały wybór dla każdego fana „Avatara�
 
 ## 40559 — Lego BrickHeadz 40559 Struś Pędziwiatr i Kojot
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 101.87 zł · EAN: 05702017174594 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 101.87 zł · EAN: 05702017174594 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1281,7 +1281,7 @@ Narób hałasu z klockowymi figurkami postaci ze Zwariowanych melodii™ — **S
 
 ## 40560 — Lego BrickHeadz 40560 Profesorowie Hogwartu
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 214.97 zł · EAN: 05702017241616 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 214.97 zł · EAN: 05702017241616 · in stock*
 
 **Zestawy są NOWE, oryginalnie zamknięte/zaplombowane.**
 
@@ -1299,7 +1299,7 @@ Oto czarujący upominek dla wszystkich dziesięciolatków i starszych dzieci, kt
 
 ## 40615 — Zestaw Lego Brickheadz Star Wars 40615 Tuskeński Rabuś
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 57.80 zł · EAN: 05702017424002 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 57.80 zł · EAN: 05702017424002 · in stock*
 
 ZESTAW LEGO BRICKHEADZ STAR WARS - 40615 - TUSKEŃSKI RABUŚ
 
@@ -1339,7 +1339,7 @@ Zestaw LEGO 40615 to doskonała propozycja dla każdego miłośnika filmowej sag
 
 ## 40616 — Lego BrickHeadz 40616 Harry Potter i Cho Chang
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702017471259 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702017471259 · in stock*
 
 LEGO 40616 BrickHeadz - Harry Potter i Cho Chang
  
@@ -1368,7 +1368,7 @@ Dzięki autentycznym detalom, takim jak stroje do quidditcha Gryffindoru™ i Ra
 
 ## 40617 — Lego 40617 BrickHeadz Draco Malfoy i Cedric Diggory
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017471266 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017471266 · in stock*
 
 LEGO 40617 BrickHeadz Draco Malfoy i Cedric Diggory
 
@@ -1402,7 +1402,7 @@ Jako doskonały pomysł na prezent dla dzieci w wieku od 10 lat, zestaw LEGO Bri
 
 ## 40618 — Lego BrickHeadz 40618 Kingsley Shacklebolt i Nimfadora Tonks
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 107.00 zł · EAN: 05702017471471 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 107.00 zł · EAN: 05702017471471 · in stock*
 
 **LEGO BrickHeadz Kingsley Shacklebolt i Nimfadora Tonks 40618**
  
@@ -1417,7 +1417,7 @@ Fani mogą ponownie przeżyć sceny z filmu Harry Potter i Zakon Feniksa™, bud
 
 ## 40619 — Lego BrickHeadz 40619 Ewa i Wall-e
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 99.49 zł · EAN: 05702017424019 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.49 zł · EAN: 05702017424019 · in stock*
 
 LEGO® 40619 EWA i WALL-E
 
@@ -1432,7 +1432,7 @@ Zaskocz fanów filmu i dzieci w wieku od 10 lat tym kultowym zestawem BrickHeadz
 
 ## 40620 — Lego Brickheadz 40620 Cruella I Diabolina 10+ Nowy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702017424026 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702017424026 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1456,7 +1456,7 @@ Zaskocz fanów filmu i dzieci w wieku od 10 lat tym zestawem BrickHeadz™ z Cru
 
 ## 40621 — Lego 40621 Vaiana i Merida
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017424033 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017424033 · in stock*
 
 Zapraszam do zakupu zestawu Lego z serii Brickheadz:
 
@@ -1484,7 +1484,7 @@ Zainspiruj dzieci w wieku od 10 lat tym zestawem BrickHeadz™ zawierającym fig
 
 ## 40622 — Lego BrickHeadz Disney 100 urodziny 40622
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017424040 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017424040 · in stock*
 
 LEGO® 40622 Disney — 100. urodziny
 
@@ -1499,7 +1499,7 @@ Pomóż dzieciom w wieku od 10 lat świętować urodziny Disneya, wręczając im
 
 ## 40623 — Lego BrickHeadz 40623 Bohaterowie bitwy o Endor Star Wars
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 208.99 zł · EAN: 05702017424057 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 208.99 zł · EAN: 05702017424057 · in stock*
 
 Klocki LEGO BrickHeadz 40623 - Bohaterowie bitwy o Endor
  
@@ -1514,7 +1514,7 @@ Klocki LEGO BrickHeadz 40623 - Bohaterowie bitwy o Endor
 
 ## 40624 — Lego 40624 BrickHeadz Minecraft Alex
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 78.00 zł · EAN: 05702017424064 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 78.00 zł · EAN: 05702017424064 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -1528,7 +1528,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 40625 — Zestaw Lego BrickHeadz 40625 Lama Nowe Idealny
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 113.99 zł · EAN: 05702017414492 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.99 zł · EAN: 05702017414492 · in stock*
 
 ZESTAW LEGO BRICKHEADZ MINECRAFT 40625
  
@@ -1547,7 +1547,7 @@ Cechy zestawu:
 
 ## 40626 — Lego 40626 BrickHeadz Zombie
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 88.99 zł · EAN: 05702017423791 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 88.99 zł · EAN: 05702017423791 · in stock*
 
 Klocki LEGO BrickHeadz 40626 - Zombie
 
@@ -1577,7 +1577,7 @@ Zestaw LEGO BrickHeadz - Zombie trafił do sprzedaży w 2023 roku. Numer katal
 
 ## 40627 — Lego BrickHeadz 40627 Sonic the Hedgehog Idealny
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 94.50 zł · EAN: 05702017471488 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.50 zł · EAN: 05702017471488 · in stock*
 
 Fani Sonica the Hedgehoga™ chętnie oderwą się od ekranów, aby oddać hołd swojemu ulubionemu niebieskiemu bohaterowi. Ten zestaw LEGO® BrickHeadz™ Sonic the Hedgehog™ (40627) zawiera płytkę konstrukcyjną, dzięki czemu stanowi fajną ozdobę na biurko lub stanowisko do gier. Podaruj w prezencie fanom Sonica w wieku od 10 lat.
 
@@ -1591,7 +1591,7 @@ Fani Sonica the Hedgehoga™ chętnie oderwą się od ekranów, aby oddać hołd
 
 ## 40628 — Klocki Lego Sonic the Hedgehog BrickHeadz 40628 Miles „Tails” Prower
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 66.99 zł · EAN: 05702017471495 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 66.99 zł · EAN: 05702017471495 · in stock*
 
 LEGO® 40628 BrickHeadz - Miles „Tails” Prower
 
@@ -1605,7 +1605,7 @@ Uroczy Tails to ulubieniec fanów uniwersum Sonica the Hedgehoga™. Teraz mogą
 
 ## 40630 — Lego BrickHeadz 40630 Frodo i Gollum
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017423807 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017423807 · in stock*
 
 Klocki LEGO BrickHeadz 40630 - Frodo i Gollum
  
@@ -1620,7 +1620,7 @@ Fanom sagi Władca Pierścieni™ spodoba się ten kolekcjonerski zestaw LEGO® 
 
 ## 40631 — Lego BrickHeadz Gandalf Szary i Balrog (40631) LoTR Władca pierścieni
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017423814 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017423814 · in stock*
 
 Klocki LEGO BrickHeadz 40631 - Gandalf Szary i Balrog
  
@@ -1635,7 +1635,7 @@ Klocki LEGO BrickHeadz 40631 - Gandalf Szary i Balrog
 
 ## 40632 — Lego BrickHeadz 40632 Aragorn i Arwena
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702017423821 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702017423821 · in stock*
 
 Klocki LEGO BrickHeadz 40632 - Aragorn i Arwena
  
@@ -1650,7 +1650,7 @@ Obudź wspomnienia ze sceny ślubu Aragorna™ i Arweny™ z filmu „Władca Pi
 
 ## 40668 — Lego BrickHeadz 40668 Figurki Kapitana Ameryki i Czerwonego Hulka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 63.49 zł · EAN: 05702017598581 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 63.49 zł · EAN: 05702017598581 · in stock*
 
 Lego Brickheadz 40668 - Figurki Kapitana Ameryki i Czerwonego Hulka
  
@@ -1668,7 +1668,7 @@ Kolekcjonerskie figurki superbohaterów LEGO® BrickHeadz™ to świetny prezent
 
 ## 40669 — Lego 40669 BrickHeadz Figurka Iron Man MK5
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017598598 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017598598 · in stock*
 
 Klocki LEGO BrickHeadz 40669 - Figurka Iron Man MK5
 
@@ -1706,7 +1706,7 @@ Zestaw LEGO BrickHeadz - Figurka Iron Man MK5 trafił do sprzedaży w 2024 roku.
 
 ## 40670 — Lego BrickHeadz 40670 Marvel Iron Spider-Man
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 53.98 zł · EAN: 05702017596020 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 53.98 zł · EAN: 05702017596020 · in stock*
 
 LEGO® 40670 Iron Spider-man
 
@@ -1724,7 +1724,7 @@ Fani Spider-Mana będą zachwyceni tym kolekcjonerskim modelem człowieka-pająk
 
 ## 40671 — Klocki Lego BrickHeadz 40671 Groot w doniczce
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702017596037 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702017596037 · in stock*
 
 LEGO® 40671 Groot w doniczce
 
@@ -1742,7 +1742,7 @@ Fani Strażników Galaktyki Marvela i serialu Ja jestem Groot Disney+ będą zac
 
 ## 40672 — Klocki Lego BrickHeadz 40672 Sonic the Hedgehog: Knuckles i Shadow
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 136.99 zł · EAN: 05702017595818 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 136.99 zł · EAN: 05702017595818 · in stock*
 
 LEGO® 40672 BrickHeadz - Sonic the Hedgehog: Knuckles i Shadow
 
@@ -1758,7 +1758,7 @@ Ta dwójka postaci w wersji BrickHeadz™ będzie świetnym upominkiem dla dzies
 
 ## 40673 — Lego BrickHeadz 40673 Myszka Miki Wiosenny Festiwal Myszka Miki Disney Nowe
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 34.90 zł · EAN: 05702017596723 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 34.90 zł · EAN: 05702017596723 · in stock*
 
 LEGO® 40673 Myszka Miki w stroju na wiosenny festiwal
 
@@ -1792,7 +1792,7 @@ Nowy Oryginalny Zestaw Klocków LEGO BRICKHEADZ
 
 ## 40674 — Lego BrickHeadz 40674 Stitch
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 58.12 zł · EAN: 05702017595825 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.12 zł · EAN: 05702017595825 · in stock*
 
 LEGO® 40674 Stitch
 
@@ -1812,7 +1812,7 @@ Mnóstwo zabawy – ten 152-elementowy model ma 9 cm wysokości i stoi na solidn
 
 ## 40675 — Lego BrickHeadz 40675 Dowódca klonów Cody
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702017597089 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702017597089 · in stock*
 
 LEGO®
  
@@ -1840,7 +1840,7 @@ Przywołaj wspomnienia z filmu Gwiezdne Wojny: Zemsta Sithów dzięki figurce LE
 
 ## 40676 — Lego BrickHeadz 40676 Star Wars postacie z filmu Mroczne Widmo
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 212.90 zł · EAN: 05702017597096 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 212.90 zł · EAN: 05702017597096 · in stock*
 
 **Lego 40676 Star Wars Mroczne widmo Nowość BrickHeadz**
 
@@ -1860,7 +1860,7 @@ Przywołaj wspomnienia z filmu Gwiezdne Wojny: Zemsta Sithów dzięki figurce LE
 
 ## 40677 — Lego BrickHeadz 40677 Harry Potter figurki z filmu Więzień Azkabanu
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 233.90 zł · EAN: 05702017597072 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 233.90 zł · EAN: 05702017597072 · in stock*
 
 LEGO® 40677 Figurki z filmu „Więzień Azkabanu”
 
@@ -1875,7 +1875,7 @@ LEGO® 40677 Figurki z filmu „Więzień Azkabanu”
 
 ## 40726 — Lego BrickHeadz 40726 85-lecie Batmana limitowana edycja
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702017689852 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702017689852 · in stock*
 
 LEGO® 40726 Batman™ 85-lecie Batmana™ — limitowana edycja
 
@@ -1899,7 +1899,7 @@ LEGO® Batman™ 85-lecie Batmana™ — limitowana edycja (40726) to wyjątkowy
 
 ## 40728 — Lego 40728 BrickHeadz Fortnite Bombowe Barwy Klocki Nowe
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702017598741 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702017598741 · in stock*
 
 LEGO 40728 BrickHeadz - Bombowe Barwy
 
@@ -1927,7 +1927,7 @@ Wymiary – postać Bombowe Barwy w tym 151-elementowym zestawie **ma 8 cm wysok
 
 ## 40748 — Lego BrickHeadz 40748 Batman 8w1
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 109.78 zł · EAN: 05702017652887 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.78 zł · EAN: 05702017652887 · in stock*
 
 LEGO 40748 BrickHeadz - Batman 8w1
  
@@ -1958,7 +1958,7 @@ Zestaw BrickHeadz 8 w 1 do budowania, zabawy i ustawiania na półce to świetny
 
 ## 40751 — Lego BrickHeadz 40751 Legolas i Gimli Eol
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017652917 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017652917 · in stock*
 
 **LEGO® BrickHeadz 40751 Legolas i Gimli**
  
@@ -1985,7 +1985,7 @@ Przywołaj wspomnienia z niesamowitych przygód Drużyny Pierścienia dzięki fi
 
 ## 40752 — Lego 40752 BrickHeadz Carl, Russell i Kevin postacie z filmu Odlot
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 127.95 zł · EAN: 05702017652924 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 127.95 zł · EAN: 05702017652924 · in stock*
 
 LEGO 40752 BrickHeadz - Carl, Russell i Kevin
 
@@ -2011,7 +2011,7 @@ Fani w wieku od 10 lat mogą okazać swoją pasję do filmu Odlot studia Disney 
 
 ## 40753 — Lego Brickheadz 40753 Disney Encanto Mirabel Madrigal 10+
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017652931 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017652931 · in stock*
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -2045,7 +2045,7 @@ Oczaruj dzieci i fanów filmów w wieku od 10 lat zestawem LEGO® BrickHeadz™ 
 
 ## 40760 — Lego 40760 Brickheadz Przygodowy Skórek Z Tropików I Dowódczyni Drużyny
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 124.45 zł · EAN: 05702017830209 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 124.45 zł · EAN: 05702017830209 · in stock*
 
 LEGO 40760 BRICKHEADZ - PRZYGODOWY SKÓREK Z TROPIKÓW I DOWÓDCZYNI DRUŻYNY
 
@@ -2076,7 +2076,7 @@ Zbuduj dwie kultowe postacie z gry wideo dzięki zestawowi LEGO® Fortnite® Bri
 
 ## 40791 — Lego 40791 Harry Potter BrickHeadz Czara Ognia figurki Goblet of Fire Nowe
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702017829890 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702017829890 · in stock*
 
 Klocki LEGO BrickHeadz 40791 - Czara Ognia - figurki
 
@@ -2099,7 +2099,7 @@ Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezen
 
 ## 40792 — Lego BrickHeadz 40792 Dumbo
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 51.00 zł · EAN: 05702017830285 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 51.00 zł · EAN: 05702017830285 · in stock*
 
 LEGO® 40792 Dumbo
 
@@ -2117,7 +2117,7 @@ Ożyw magię Disneya dzięki temu zestawowi konstrukcyjnemu LEGO® BrickHeadz™
 
 ## 40793 — Figurki Toma i Jerry 212 el. 40793 Klocki Lego BrickHeadz
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 71.99 zł · EAN: 05702017802169 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 71.99 zł · EAN: 05702017802169 · in stock*
 
 Świętuj 85 lat wybryków Toma i Jerry'ego, budując zestaw LEGO® BrickHeadz™ Figurki Toma i Jerry’ego. Ożyw komiczną relację z kreskówki, budując figurki kota i myszy z akcesoriami. Jerry podpala ogon Toma zapałką, podczas gdy Tom goni go z młotkiem.
  
@@ -2135,7 +2135,7 @@ Tom jest figurką BrickHeadz w standardowym rozmiarze, a Jerry to wersja miniatu
 
 ## 40794 — 40794 Lego BrickHeadz Wicked Elphaby I Glindy Zestaw Klocki Lego
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 89.96 zł · EAN: 05702017829906 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 89.96 zł · EAN: 05702017829906 · in stock*
 
 LEGO 40794 BrickHeadz - Wicked: Figurki Elphaby i Glindy
 
@@ -2161,7 +2161,7 @@ Figurki są umieszczone na solidnych płytkach konstrukcyjnych i stanowią niesa
 
 ## 40795 — Lego BrickHeadz Star Wars 40795 Luke Skywalker pilot Rebelii na święta
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 58.98 zł · EAN: 05702017830292 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.98 zł · EAN: 05702017830292 · in stock*
 
 LEGO BrickHeadz  Star Wars 40795  LUKE SKYWALKER pilot Rebelii  / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2192,7 +2192,7 @@ Przywołaj wspomnienia z emocjonującego ataku Rebeliantów na Gwiazdę Śmierci
 
 ## 40796 — Lego BrickHeadz Star Wars 40796 Zemsta Sithów bohaterowie i złoczyńcy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702017830308 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702017830308 · in stock*
 
 Lego BrickHeadz Star Wars 40796 Zemsta Sithów bohaterowie i złoczyńcy / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2223,7 +2223,7 @@ Oddaj hołd bohaterom i złoczyńcom z filmu Gwiezdne Wojny: Zemsta Sithów™ w
 
 ## 40797 — Lego BrickHeadz 40797 Kłapouchy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 59.98 zł · EAN: 05702017830315 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 59.98 zł · EAN: 05702017830315 · in stock*
 
 LEGO® 40797 Kłapouchy
 
@@ -2241,7 +2241,7 @@ Wejdź do Stumilowego Lasu i zbuduj ulubieńca Disneya dzięki zestawowi dla dzi
 
 ## 40798 — Lego 40798 BrickHeadz Panda czerwona Mei Disney Pixar TurningRed
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702017830537 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702017830537 · in stock*
 
 LEGO® 40798 Panda czerwona Mei
 
@@ -2259,7 +2259,7 @@ Spraw, by fan Disneya i Pixara dał się ponieść kreatywności i podaruj mu ze
 
 ## 40801 — Lego BrickHeadz Stranger Things 40801 Figurki Dustina Mike’a Willa i Lucasa
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017829937 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017829937 · in stock*
 
 Zabierz fanów serialu Stranger Things na kreatywną przygodę z realistycznymi figurkami LEGO® BrickHeadz™ Mike’a, Dustina, Lucasa i Willa (40801). Kolekcjonerskie charakterystyczne postacie stoją na solidnych podstawkach i z pewnością sprawią frajdę podczas budowania, zabawy i eksponowania. Figurki Mike’a, Dustina, Lucasa i Willa świetnie się prezentują samodzielnie lub obok innych postaci LEGO BrickHeadz (sprzedawanych osobno). To świetny prezent dla dzieci w wieku od 10 lat.
  
@@ -2275,7 +2275,7 @@ Zabierz fanów serialu Stranger Things na kreatywną przygodę z realistycznymi 
 
 ## 40803 — Lego 40803 BrickHeadz Transformers Robot i pojazd Optimus Prime zestaw Nowy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 107.49 zł · EAN: 05702017830544 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 107.49 zł · EAN: 05702017830544 · in stock*
 
 Klocki LEGO BrickHeadz 40803 - Robot i pojazd Optimus Prime
 
@@ -2298,7 +2298,7 @@ Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezen
 
 ## 40804 — Lego BrickHeadz 40804 Transformers Robot i pojazd Bumblebee
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 124.89 zł · EAN: 05702017830551 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 124.89 zł · EAN: 05702017830551 · in stock*
 
 LEGO 40804 BrickHeadz - Robot i pojazd Bumblebee
  
@@ -2330,7 +2330,7 @@ Każda figurka stoi na solidnej płytce konstrukcyjnej, dzięki czemu ten zestaw
 
 ## 40821 — Lego 40821 Okolicznościowe Zakochane niedźwiedzie na Walentynki
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 111.98 zł · EAN: 05702017830698 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 111.98 zł · EAN: 05702017830698 · in stock*
 
 LEGO 40821 Okolicznościowe Zakochane niedźwiedzie Prezent na Walentynki
 
@@ -2376,7 +2376,7 @@ Podaruj prezent, który nie zwiędnie i nie zostanie zapomniany. Zakochane nied�
 
 ## 40856 — Lego BrickHeadz 40856 The Mandalorian and Grogu: Sojusznicy i złoczyńcy
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 184.97 zł · EAN: 00673419425650 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 184.97 zł · EAN: 00673419425650 · in stock*
 
 **LEGO 40856 BrickHeadz Star Wars**
  
@@ -2398,7 +2398,7 @@ Zbuduj zestaw The Mandalorian and Grogu: Sojusznicy i złoczyńcy (40856) w styl
 
 ## 40860 — Lego BrickHeadz 40860 Toy Story
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702018071250 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702018071250 · in stock*
 
 **LEGO 40860 Toy Story**
 
@@ -2423,7 +2423,7 @@ Nowy, oryginalnie zapakowany.
 
 ## 40861 — Lego 40861 BrickHeadz Figurki Sulley’ego, Mike’a i Boo
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 116.32 zł · EAN: 05702018071045 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 116.32 zł · EAN: 05702018071045 · in stock*
 
 Klocki LEGO BrickHeadz 40861 - Figurki Sulley’ego, Mike’a i Boo
 
@@ -2461,7 +2461,7 @@ Zestaw LEGO BrickHeadz - Figurki Sulley’ego, Mike’a i Boo trafił do sprzeda
 
 ## 40878 — Lego 40878 BrickHeadz Figurki Wojowniczych żółwi ninja
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 183.03 zł · EAN: 05702018071083 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 183.03 zł · EAN: 05702018071083 · in stock*
 
 Klocki LEGO BrickHeadz 40878 - Figurki Wojowniczych żółwi ninja
 
@@ -2494,7 +2494,7 @@ Zestaw LEGO BrickHeadz - Figurki Wojowniczych żółwi ninja trafił do sprzed
 
 ## 40879 — Lego BrickHeadz 40879 Stranger Things: Jedenastka Max Demogorgon Holly
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 189.49 zł · EAN: 05702018071090 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.49 zł · EAN: 05702018071090 · in stock*
 
 LEGO BrickHeadz 40879 Stranger Things: Figurki Jedenastki, Maxa, Demogorgona i Holly / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2530,7 +2530,7 @@ Wyrusz na Drugą Stronę dzięki zestawowi LEGO® BrickHeadz™ Stranger Things:
 
 ## 40881 — Lego Fortnite 40881 BrickHeadz Lama zaopatrzeniowa i Paluch Rybny
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 113.98 zł · EAN: 05702018071113 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.98 zł · EAN: 05702018071113 · in stock*
 
 LEGO 40881 BrickHeadz - Lama Zaopatrzeniowa i Palucha Rybnego - figurki
  
@@ -2548,7 +2548,7 @@ LEGO® Fortnite® BrickHeadz™ Lama Zaopatrzeniowa i Paluch Rybny — figurki (
 
 ## 40884 — Lego 40884 BrickHeadz Drift i Raven figurki
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 94.94 zł · EAN: 05702017992860 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.94 zł · EAN: 05702017992860 · in stock*
 
 Klocki LEGO BrickHeadz 40884 - Drift i Raven - figurki
 
@@ -2581,7 +2581,7 @@ Zestaw LEGO BrickHeadz - Drift i Raven - figurki trafił do sprzedaży w 2025 
 
 ## 40910 — Lego BrickHeadz 40910 Mistrz Rzucania Mięsem i Podniebna hamburger fortnite
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 158.87 zł · EAN: 05702018071632 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.87 zł · EAN: 05702018071632 · in stock*
 
 **LEGO 40910 Mistrz Rzucania Mięsem i Podniebna – figurki**
  
@@ -2605,7 +2605,7 @@ Nowy, oryginalnie zapakowany.
 
 ## 40922 — Lego BrickHeadz 40922 Lilo i Stitch Andzia
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 68.99 zł · EAN: 05702018071144 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 68.99 zł · EAN: 05702018071144 · in stock*
 
 Klocki LEGO BrickHeadz 40922 - Lilo i Stitch: Andzia
  
@@ -2624,7 +2624,7 @@ Zaskocz dzieci tym uroczym zestawem LEGO® BrickHeadz™ Lilo i Stitch: Andzia (
 
 ## 40923 — Lego BrickHeadz 40923 Figurki Shreka, Osła i Ciastka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 119.98 zł · EAN: 05702018071441 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.98 zł · EAN: 05702018071441 · in stock*
 
 Zestaw konstrukcyjny LEGO® BrickHeadz™ Figurki Shreka, Osła i Ciastka (40923) dla chłopców i dziewczynek w wieku od 10 lat pozwoli im przenieść się do krainy Zasiedmiogórogrodu. Wszystkie trzy postacie są łatwo rozpoznawalne, a Shrek trzyma klasyczną tabliczkę „Beware Ogre” („Uwaga, ogr”). Wprowadź magię z filmów o Shreku do swojego domu, eksponując figurki jako dekoracje filmowe. Zestaw stanowi doskonały pomysł na prezent dla chłopców, dziewczynek, fanów Shreka i kolekcjonerów w wieku od 10 lat. Zestaw składa się z 260 elementów.
 
@@ -2639,7 +2639,7 @@ Zestaw konstrukcyjny LEGO® BrickHeadz™ Figurki Shreka, Osła i Ciastka (40923
 
 ## 40924 — Lego BrickHeadz 40924 Megatron jako robot i pojazd
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 109.69 zł · EAN: 05702018071458 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.69 zł · EAN: 05702018071458 · in stock*
 
 Klocki LEGO® 40924 BrickHeadz™ Megatron jako robot i pojazd
 
@@ -2669,7 +2669,7 @@ Zestaw jest przeznaczony dla dzieci od 10 roku życia oraz fanów Transformers, 
 
 ## 40925 — Lego BrickHeadz 40925 Alicja w Krainie Czarów
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 189.71 zł · EAN: 05702018071465 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.71 zł · EAN: 05702018071465 · in stock*
 
 Wpadnij do króliczej nory dzięki zestawowi **LEGO BrickHeadz ǀ Disney Alicja w Krainie Czarów (40925) **— to unikatowy pomysł na prezent dla dziewczynek, chłopców i miłośników filmów w wieku od 10 lat.
  
@@ -2693,7 +2693,7 @@ Zestaw składa się z 601 elementów.
 
 ## 41487 — Lego BrickHeadz 41487 Ninjago Lloyd
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198980 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198980 · in stock*
 
 LEGO BrickHeadz 41487 Ninjago Lloyd
 
@@ -2705,7 +2705,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych kloc
 
 ## 41488 — Lego BrickHeadz 41488 Mistrz Wu
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198997 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198997 · in stock*
 
 LEGO BrickHeadz 41488 Mistrz Wu
 
@@ -2717,7 +2717,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych kloc
 
 ## 41585 — Lego BrickHeadz 41585 Batman
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015864244 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015864244 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2739,7 +2739,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych kloc
 
 ## 41586 — Lego 41586 BrickHeadz DC Batgirl
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702015864251 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702015864251 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -2753,7 +2753,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 41587 — Lego BrickHeadz 41587 BrickHeadz Robin
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702015864268 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702015864268 · in stock*
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -2782,7 +2782,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 41588 — Lego BrickHeadz 41588 Joker
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702015868976 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702015868976 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2810,7 +2810,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 41589 — Lego BrickHeadz 41589 Lego 41589 BrickHeadz Kapitan Ameryka
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015868983 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015868983 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2844,7 +2844,7 @@ Zbuduj figurkę Captain America w zestawie BrickHeadz z kolorowych klocków LEGO
 
 ## 41590 — Lego BrickHeadz 41590 Iron Man
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 240.00 zł · EAN: 05702015868990 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 240.00 zł · EAN: 05702015868990 · in stock*
 
 Zbuduj klasycznego superbohatera wszech czasów, takiego jak Iron Man z kinowego przeboju Marvela \"Kapitan Ameryka: Wojna bohaterów\", z nowymi figurkami do budowania LEGO® BrickHeadz dostępnymi od marca 2017 r. Zobacz czerwoną i żółtą zbroję naukowca milionera oraz zaprezentuj figurkę Iron Man na specjalnej płytce konstrukcyjnej.
 
@@ -2852,7 +2852,7 @@ Zbuduj klasycznego superbohatera wszech czasów, takiego jak Iron Man z kinowego
 
 ## 41592 — Lego BrickHeadz 41592 Hulk
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 174.00 zł · EAN: 05702015869010 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 174.00 zł · EAN: 05702015869010 · in stock*
 
 **Lego BrickHeadz Hulk 41592**. Baw się uderzająco dobrze z zestawem LEGO® BrickHeadz Hulk! Zbuduj niezwykłą figurkę w zestawie Hulk BrickHeadz z kolorowych klocków LEGO System, które odtwarzają wszystkie charakterystyczne szczegóły, takie jak nakładane pięści i włosy oraz niesamowite muskuły. Ćwicz swoje nowe muskuły BrickHeadz w domu, biurze czy gdziekolwiek zechcesz.
 
@@ -2876,7 +2876,7 @@ Ilość klocków w zestawie: 93
 
 ## 41593 — Lego BrickHeadz 41593 Kapitan Jack Sparrow
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015869034 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015869034 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2909,7 +2909,7 @@ Z tą figurką do budowania BrickHeadz, dostępną od kwietnia 2017 r., możesz 
 
 ## 41594 — Lego 41594 BrickHeadz Piraci z Karaibów Kapitan Armando Salazar
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702015869041 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702015869041 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -2923,7 +2923,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 41595 — Lego 41595 BrickHeadz Bella
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015869058 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015869058 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2956,7 +2956,7 @@ Zbuduj figurkę Belli w wersji BrickHeadz zawierającą kolorowe klocki LEGO Sys
 
 ## 41596 — Lego 41596 BrickHeadz Disney Bestia
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015869065 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015869065 · in stock*
 
 LEGO 41596 BRICKHEADZ
 
@@ -2978,7 +2978,7 @@ Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 
 
 ## 41597 — Lego BrickHeadz 41597 Go Brick Me
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016072624 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016072624 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3009,7 +3009,7 @@ Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 
 
 ## 41598 — Lego 41598 BrickHeadz The Flash
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016072631 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016072631 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3037,7 +3037,7 @@ Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 
 
 ## 41600 — Lego 41600 BrickHeadz Aquaman
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702016072655 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702016072655 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3070,7 +3070,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Aquamana™ z kolorowych
 
 ## 41601 — Lego BrickHeadz 41601 Cyborg
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016072662 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016072662 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3102,7 +3102,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Cyborga™ z kolorowych 
 
 ## 41602 — Lego BrickHeadz 41602 Rey
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016074772 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016074772 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3129,7 +3129,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Cyborga™ z kolorowych 
 
 ## 41603 — Lego BrickHeadz 41603 Kylo Ren
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016077469 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016077469 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3174,7 +3174,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę Kylo Rena™ z klocków
 
 ## 41604 — Lego BrickHeadz 41604 Iron Man MK50
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016111071 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016111071 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3222,7 +3222,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Iron Mana MK50 z kolorowych kloc
 
 ## 41605 — Lego BrickHeadz 41605 Thanos
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016111064 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016111064 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3250,7 +3250,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Iron Mana MK50 z kolorowych kloc
 
 ## 41606 — Lego 41606 BrickHeadz Star-Lord
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 218.29 zł · EAN: 05702016111033 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 218.29 zł · EAN: 05702016111033 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3287,7 +3287,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Star-Lorda z kolorowych klocków
 
 ## 41607 — Lego BrickHeadz 41607 Lego BrickHeadz Gamora 41607
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016111002 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016111002 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3315,7 +3315,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Star-Lorda z kolorowych klocków
 
 ## 41608 — Lego BrickHeadz 41608 Han Solo
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016110975 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016110975 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3355,7 +3355,7 @@ Zestaw LEGO BrickHeadz 41608 Han Solo zapewnia świetną zabawę podczas budowan
 
 ## 41609 — Klocki Lego BrickHeadz Zestaw Chewbacca 41609
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702016110944 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702016110944 · in stock*
 
 Zestaw LEGO® BrickHeadz™ 41609 Chewbacca zapewnia świetną zabawę podczas budowania z kolorowych klocków LEGO, które oddają wszystkie kultowe detale tej postaci z sagi „Gwiezdnych wojen”, takie jak zmierzwiona sierść i pas na amunicję. Figurka ma także odczepiany blaster oraz kolekcjonerską podstawkę z logo BrickHeadz, aby można było ją łatwo postawić na wybranym miejscu, na przykład w domu lub w pracy.
 
@@ -3373,7 +3373,7 @@ Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
 ## 41610 — Lego BrickHeadz 41610 Batman i Superman
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016110937 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016110937 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3401,7 +3401,7 @@ Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
 ## 41613 — Lego BrickHeadz 41613 Mr. Incredible & Frozone
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702016110890 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702016110890 · in stock*
 
 Klocki LEGO BrickHeadz 41613 - Incredibles 2: Pan Iniemamocny i Mrożon
  
@@ -3419,7 +3419,7 @@ Figurki Pana Iniemamocnego i Mrożona z zestawu LEGO® BrickHeadz™ 41613 zapew
 
 ## 41614 — Lego 41614 BrickHeadz Owen & Blue
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 214.00 zł · EAN: 05702016110883 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 214.00 zł · EAN: 05702016110883 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3447,7 +3447,7 @@ Figurki Pana Iniemamocnego i Mrożona z zestawu LEGO® BrickHeadz™ 41613 zapew
 
 ## 41615 — Lego 41615 BrickHeadz Harry Potter i Hedwiga
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 318.23 zł · EAN: 05702016110555 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 318.23 zł · EAN: 05702016110555 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3480,7 +3480,7 @@ Figurki Harry’ego Pottera™ i Hedwigi™ z zestawu LEGO® BrickHeadz™ 41615
 
 ## 41616 — Lego Harry Potter BrickHeadz 41616 Hermiona Granger
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016110548 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016110548 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3519,7 +3519,7 @@ Model LEGO BrickHeadz 41616 Hermiona Granger zapewnia świetną zabawę podczas 
 
 ## 41617 — Lego 41617 BrickHeadz Elsa
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016110531 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016110531 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3553,7 +3553,7 @@ Sięgnij po klocki LEGO® i zbuduj figurkę BrickHeadz™ Elsy z przebojowego fi
 
 ## 41618 — Lego BrickHeadz 41618 Lego BrickHeadz 41618 Anna i Olaf
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702016176223 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702016176223 · in stock*
 
 Klocki LEGO BrickHeadz 41618 - Anna i Olaf
  
@@ -3573,7 +3573,7 @@ Zestaw LEGO BrickHeadz - Anna i Olaf trafił do sprzedaży w 2018 roku. Numer 
 
 ## 41619 — Lego BrickHeadz 41619 Lego brickheadz 41619 Darth Vader
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016176605 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016176605 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3608,7 +3608,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę LEGO® BrickHeadz™ Da
 
 ## 41620 — Lego BrickHeadz 41620 Stormtrooper szturmowiec Star Wars Misb 2018
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016176612 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016176612 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3643,7 +3643,7 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę LEGO® BrickHeadz™ sz
 
 ## 41621 — Lego BrickHeadz 41621 Ron Weasley i Albus Dumbledore
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702016176629 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702016176629 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3680,7 +3680,7 @@ W zestawie LEGO® BrickHeadz™ 41621 Ron Weasley™ i Albus Dumbledore™ znajd
 
 ## 41622 — Lego 41622 BrickHeadz Ghostbusters Peter Venkman i Slimer Unikat z 2018r
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702016176230 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702016176230 · in stock*
 
 Witam serdecznie na moich aukcjach,
 
@@ -3694,7 +3694,7 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 ## 41623 — Lego BrickHeadz 41623 arielka i urszula
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702016176247 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702016176247 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3733,7 +3733,7 @@ Figurki LEGO® BrickHeadz™ Arielki i Urszuli zapewniają świetną zabawę pod
 
 ## 41624 — Lego BrickHeadz 41624 Myszka Miki
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016176254 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016176254 · in stock*
 
 LEGO BrickHeadz 41624 Myszka Miki
 
@@ -3749,7 +3749,7 @@ LEGO BrickHeadz 41624 Myszka Miki
 
 ## 41626 — Lego BrickHeadz 41626 Groot and rocket
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016176476 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016176476 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3777,7 +3777,7 @@ LEGO BrickHeadz 41624 Myszka Miki
 
 ## 41627 — Lego 41627 BrickHeadz Luke Skywalker i Yoda Nowe naPrezent Oryginalne
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016176483 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016176483 · in stock*
 
 LEGO 41627 BrickHeadz - Luke Skywalker i Yoda
 
@@ -3793,7 +3793,7 @@ Ilość klocków:** 215**
 
 ## 41628 — Lego BrickHeadz 41628 Star Wars Księżniczka Leia
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 179.49 zł · EAN: 05702016176490 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.49 zł · EAN: 05702016176490 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3831,7 +3831,7 @@ Figurka LEGO BrickHeadz 41628 Księżniczka Leia Organa zapewnia świetną zabaw
 
 ## 41629 — Klocki Lego BrickHeadz Zestaw Boba Fett 41629
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 474.00 zł · EAN: 05702016176506 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 474.00 zł · EAN: 05702016176506 · in stock*
 
 szybkiej
  
@@ -3865,7 +3865,7 @@ Figurka LEGO® BrickHeadz™ 41629 Boby Fetta™ zapewnia świetną zabawę podc
 
 ## 41630 — Lego BrickHeadz 41630 Jack Skellington i Sally
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702016176513 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702016176513 · in stock*
 
 Sięgnij po klocki LEGO® BrickHeadz™ i zbuduj własne figurki Jacka Skellingtona i Sally z popularnego filmu Disneya i Tima Burtona \"Miasteczko Halloween\". Dyniowy król ma przerażające usta i garnitur w czarne prążki, a Sally dekorowane oczy i niestaranny wygląd szmacianej lalki. Ustaw upiornych zakochanych na podstawkach i pokaż ich wszystkim swoim znajomym.
 
@@ -3873,7 +3873,7 @@ Sięgnij po klocki LEGO® BrickHeadz™ i zbuduj własne figurki Jacka Skellingt
 
 ## 41632 — Lego BrickHeadz 41632 Homer Simpson i Klaun Krusty
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016176537 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016176537 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3908,7 +3908,7 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 
 ## 41635 — Lego Movie BrickHeadz 41635 Wyldstyle
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309868 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309868 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3931,7 +3931,7 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 
 ## 41636 — Lego Movie BrickHeadz 41636 Benny
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309875 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309875 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3954,7 +3954,7 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 
 ## 75232 — Lego 75232 Star Wars Kylo Ren i żołnierz Sithów
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016644180 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016644180 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3983,7 +3983,7 @@ Zbuduj i eksponuj legendarnych złoczyńców z serii Star Wars™ — przywódc�
 
 ## 75317 — Lego BrickHeadz Star Wars 75317 Mandalorianin i Dziecko
 
-*Seria: BrickHeadz · cena Allegro (2026-08-17): 113.51 zł · EAN: 05702016899856 · in stock*
+*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.51 zł · EAN: 05702016899856 · in stock*
 
 ZAPRASZAMY DO ZAKUPU
 

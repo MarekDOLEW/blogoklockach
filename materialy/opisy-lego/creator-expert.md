@@ -5,11 +5,11 @@ research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
 autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 -->
 
-# LEGO Creator Expert — opisy produktowe (74 zestawów)
+# LEGO Creator Expert — opisy produktowe (74 pozycji)
 
 ## 10152 — Lego Creator Expert 10152 – Maersk Sealand
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2300.00 zł · EAN: 00673419058261 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2300.00 zł · EAN: 00673419058261 · in stock*
 
 Dane techniczne
 
@@ -33,7 +33,7 @@ Projekt i funkcje
 
 ## 10155 — Klocki Lego Inne 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 799.99 zł · EAN: 00673419136945 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 799.99 zł · EAN: 00673419136945 · in stock*
 
 Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi LEGO® z Kontenerowcem z Napędem Dual-Fuel Maersk (40955) dla dorosłych lub nastolatków w wieku od 12 lat. Model kontenerowca jest bogaty w detale i funkcje. Ma otwieraną sekcję mostka z pomieszczeniami dla załogi oraz przezroczyste okna maszynowni. Po obu stronach znajdują się wysuwane pomosty, kontenery do zbudowania, tabliczka z nazwą do podstawki i wiele innych elementów. Zestaw zawiera również elementy z nadrukami i naklejki. Zestaw składa się z 1513 elementów.
 
@@ -48,7 +48,7 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 
 ## 10181 — Lego Creator Expert 10181 Wieża Eiffla Mib 2007
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 4500.00 zł · EAN: 05702014499867 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 4500.00 zł · EAN: 05702014499867 · in stock*
 
 **LEGO 10181 – Wieża Eiffla (Eiffel Tower) – Creator Expert 2007**
 
@@ -88,7 +88,7 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 
 ## 10183 — Lego 10183 Factory Hobby Trains
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014504950 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014504950 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -116,7 +116,7 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 
 ## 10185 — Lego Creator Expert 10185 Green Grocer
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 9499.00 zł · EAN: 05702014518599 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 9499.00 zł · EAN: 05702014518599 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -146,7 +146,7 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 
 ## 10189 — Klocki Lego Creator Expert Zestaw Taj Mahal 10189
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 4999.00 zł · EAN: 05702014518551 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 4999.00 zł · EAN: 05702014518551 · in stock*
 
 LEGO Creator Expert 10189 Taj Mahal – Oryginalna Legenda z 2008 roku!
 
@@ -173,7 +173,7 @@ Mam przyjemność wystawić na sprzedaż jeden z najbardziej ikonicznych zestaw�
 
 ## 10196 — Lego Creator Expert 10196 Grand Carousel, Karuzela Wiedeńska Unikat Misb!
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 8999.00 zł · EAN: 00673419121804 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 8999.00 zł · EAN: 00673419121804 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -201,7 +201,7 @@ Mam przyjemność wystawić na sprzedaż jeden z najbardziej ikonicznych zestaw�
 
 ## 10199 — Lego Creator Expert 10199 Zimowa wioska- Toy Shop
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1270.00 zł · EAN: 05702014534759 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1270.00 zł · EAN: 05702014534759 · in stock*
 
 Podstawowe informacje
 
@@ -233,7 +233,7 @@ Na zewnątrz minifigurki śpiewają kolędy obok ławki i latarni, jeżdżą na 
 
 ## 10211 — Klocki Lego Creator Expert Zestaw Dom towarowy 10211
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 3099.00 zł · EAN: 00673419128957 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3099.00 zł · EAN: 00673419128957 · in stock*
 
 LEGO Creator Expert Dom towarowy 10211
 
@@ -251,7 +251,7 @@ Dodaj ten klasyczny dom towarowy do swojej kolekcji LEGO Modular Buildings
 
 ## 10216 — Lego 10216 Creator Expert Zimowa wioska- Piekarnia
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2100.00 zł · EAN: 00673419128988 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2100.00 zł · EAN: 00673419128988 · in stock*
 
 **LEGO Creator Expert 10216 – Piekarnia w zimowej wiosce (Winter Village Bakery)**:
 
@@ -282,7 +282,7 @@ Krótka recenzja
 
 ## 10218 — Lego Creator Expert 10218 Pet Shop
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 00673419145350 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 00673419145350 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -310,7 +310,7 @@ Krótka recenzja
 
 ## 10219 — Lego Creator Expert 10219 Maersk Train
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 3199.00 zł · EAN: 00673419145343 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3199.00 zł · EAN: 00673419145343 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -338,7 +338,7 @@ Krótka recenzja
 
 ## 10220 — Lego 10220 Creator Expert Volkswagen T1 Camper Van
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 870.00 zł · EAN: 05702015643092 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 870.00 zł · EAN: 05702015643092 · in stock*
 
 Klocki LEGO Creator Expert 10220 - Volkswagen T1 Camper Van
 
@@ -369,7 +369,7 @@ Zestaw LEGO Creator Expert - Volkswagen T1 Camper Van trafił do sprzedaży w 
 
 ## 10222 — Lego Creator Expert 10222 Winter Village Post Office
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2450.00 zł · EAN: 05702014748002 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2450.00 zł · EAN: 05702014748002 · in stock*
 
 Co to za zestaw — podstawy
 
@@ -393,7 +393,7 @@ Co zawiera / czego oczekiwać
 
 ## 10229 — Lego Creator Expert 10229 Zimowa wioska Chatka
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2400.00 zł · EAN: 05702014842281 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2400.00 zł · EAN: 05702014842281 · in stock*
 
 Zestaw zawiera 1 261 elementów, aby skonstruować piękny targ w Zimowej Wiosce LEGO.
 
@@ -413,7 +413,7 @@ Wymiary modeli:
 
 ## 10230 — Klocki Lego Creator Expert Zestaw Mini Modulars 10230
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419168250 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419168250 · in stock*
 
 LEGO Creator Expert 10230 – Mini Modulars (Unikat VIP)
 
@@ -455,7 +455,7 @@ Zestaw zawiera pięć ikonicznych kamienic, które zapoczątkowały legendarną 
 
 ## 10232 — Lego 10232 Creator Expert Kino Palace Rzadki Egzemplarz! Okazja!
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1869.99 zł · EAN: 05702014971899 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1869.99 zł · EAN: 05702014971899 · in stock*
 
 - Dziś wieczór premiera w kinie Palace! Reflektory rozświetlają nocne niebo, kiedy przybywa czarna limuzyna z dziecięcą gwiazdą. Zbierz tłum widzów na chodniku usianym gwiazdami, a potem otwórz hol z mnóstwem szczegółów, stoiskiem z przekąskami i kasą biletową. Przedstawiamy najnowszy model w serii LEGO® Modular Buildings: szczegółowo odtworzony piętrowy budynek narożny kina Palace. Ten model kolekcjonerski zawiera aleję gwiazd, zbudowane z klocków drzwi wejściowe, plakaty, afisz, ozdobną wieżę i dekoracje dachu. Zestaw zawiera 6 minifigurek: dziecięcą aktorkę, szofera, dwoje gości, fotografa i pracownika kina. 
 
@@ -473,7 +473,7 @@ Zestaw klocków LEGO Creator Expert Kino Palace 10232 został zaprezentowany w
 
 ## 10233 — Klocki Lego Creator Expert Zestaw Pociąg Horizon Express Train 10233
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702014971912 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702014971912 · in stock*
 
 **LEGO 10233 Horizon Express**
 
@@ -514,7 +514,7 @@ Zestaw był sprzedawany jako model statyczny, ale został zaprojektowany z myśl
 
 ## 10241 — Lego Creator Expert Statek Maersk Line Triple-E 10241 Zestaw Kolekcjonerski
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702015122450 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702015122450 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -542,7 +542,7 @@ Zestaw był sprzedawany jako model statyczny, ale został zaprojektowany z myśl
 
 ## 10242 — Lego Creator Expert 10242 Lego Creator Mini Cooper 10242
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1129.00 zł · EAN: 05702015122467 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1129.00 zł · EAN: 05702015122467 · in stock*
 
 LEGO 10242 Creator Expert Mini Cooper
  
@@ -578,7 +578,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 10243 — Klocki Lego Creator Expert Zestaw Paryska Restauracja 10243
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1776.99 zł · EAN: 05702015122672 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1776.99 zł · EAN: 05702015122672 · in stock*
 
 Klocki LEGO Creator Expert 10243 Parisian restaurant - Paryska restauracja.
 
@@ -610,7 +610,7 @@ Zestaw 10243 LEGO Creator Expert Parisian Restaurant- Paryska Restauracja zawier
 
 ## 10244 — Lego Creator Expert 10244 Creator karuzela 10244
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015122689 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015122689 · in stock*
 
 **Lego Creator Karuzela 10244**. Rozłóż niesamowitą karuzelę, pokręć korbką i zobacz, jak wielka zabawka ożywa! Do miasta przyjechało wesołe miasteczko. Dzieci i dorośli nie mogą już doczekać się atrakcji. Kup bilet w budce i wejdź na karuzelę. Następnie zbierz siły i uderz młotem tak mocno, by dosięgnąć złotego dzwonu, lub daj popis celności, zrzucając do wody nurkującą panienkę. Gdy zapada zmrok, wirująca karuzela świeci w ciemności i dalej bawi odwiedzających. Później jest składana do przyczepy, która zawiezie ją do kolejnego miasteczka. Magiczne wesołe miasteczko pełne jest fantastycznych detali, które rozbudzą każdą wyobraźnię.
 
@@ -632,7 +632,7 @@ Ilość klocków w zestawie: 1746
 
 ## 10246 — Klocki Lego Creator Expert Zestaw Biuro detektywa 10246
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2199.00 zł · EAN: 05702015348386 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2199.00 zł · EAN: 05702015348386 · in stock*
 
 **LEGO® 10246 Creator Expert - Biuro Detektywistyczne**
 
@@ -662,7 +662,7 @@ Pomóż Ace'owi Brickmanowi rozwiązać zagadkę!
 
 ## 10247 — Lego Creator 10247 Diabelski Młyn
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1485.00 zł · EAN: 05702015357616 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1485.00 zł · EAN: 05702015357616 · in stock*
 
 LEGO Creator Expert - 10247 Diabelski Młyn
 
@@ -674,7 +674,7 @@ Zbuduj główną atrakcję lunaparku — majestatyczny diabelski młyn! Ten nies
 
 ## 10248 — Lego Creator Expert 10248 Ferrari F40 Opis
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015348164 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015348164 · in stock*
 
 LEGO 10248 - Ferrari F40
 
@@ -688,7 +688,7 @@ Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
 ## 10249 — Lego 10249 Creator Expert Zimowy sklep z zabawkami 898 elementów
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702015348379 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702015348379 · in stock*
 
 Seria LEGO Creator Expert - Winter Village
  
@@ -710,7 +710,7 @@ Zbliżają się Święta, a konstruktor zabawek dwoi się i troi, aby dokończy�
 
 ## 10251 — Lego Creator Expert 10251 Brick Bank 10251
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702015591058 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702015591058 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -759,7 +759,7 @@ Bez obaw możesz powierzyć swoje pieniądze powszechnie szanowanemu Bankowi Klo
 
 ## 10252 — Lego Creator Expert 10252 Volkswagen Beetle
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015591171 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015591171 · in stock*
 
 LEGO Creator Expert 10252 Volkswagen Beetle
 
@@ -794,7 +794,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 10253 — Klocki Lego Creator Expert Zestaw Big Ben Londyn 10253
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015591515 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015591515 · in stock*
 
 **LEGO Creator Expert Big Ben Londyn 10253**
 
@@ -827,7 +827,7 @@ Przenieś się do serca Londynu i poczuj magię brytyjskiej stolicy! Zestaw LEGO
 
 ## 10254 — Lego Creator Expert 10254 Świąteczny pociąg
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702015591065 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702015591065 · in stock*
 
 Klocki LEGO Creator Expert 10254 - Świąteczny pociąg
  
@@ -855,7 +855,7 @@ LEGO 10254 Creator Expert - Świąteczny pociąg zawiera 734 klocków. Grupa wie
 
 ## 10255 — Lego Creator Expert 10255 Plac Zgromadzeń
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1234.00 zł · EAN: 05702015865272 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1234.00 zł · EAN: 05702015865272 · in stock*
 
 LEGO CREATOR EXPERT 10255
 
@@ -881,7 +881,7 @@ Zdejmuj poszczególne części budynku, by zajrzeć do szczegółowo odwzorowane
 
 ## 10256 — Lego Creator Expert 10256 Tadż Mahal
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702016173536 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702016173536 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -911,7 +911,7 @@ Zbuduj i odkryj Tadż Mahal! Budowa tego ogromnego, marmurowego mauzoleum w kolo
 
 ## 10257 — Klocki Lego Creator Expert Zestaw Karuzela 10257
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1688.99 zł · EAN: 05702015865289 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1688.99 zł · EAN: 05702015865289 · in stock*
 
 LEGO CREATOR 10257
  
@@ -948,7 +948,7 @@ Poznaj majestatyczną karuzelę ze wspaniałymi funkcjami, takimi jak ogromna po
 
 ## 10258 — Lego Creator Expert 10258 Londyński autobus
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702015865296 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702015865296 · in stock*
 
 LEGO® Creator Expert 10258
  
@@ -1021,7 +1021,7 @@ W razie wątpliwości proszę pisać lub dzwonić.
 
 ## 10259 — Lego Creator Expert Stacja w zimowej wiosce 10259
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015865302 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015865302 · in stock*
 
 ***** Zależy nam na tym, aby każdy zestaw trafił w Państwa ręce w idealnym stanie, dlatego też kładziemy specjalny nacisk na sposób zabezpieczania i pakowania oferowanych zestawów. Do pakowania używamy kartonów 5 lub 7 warstwowych, 3-4 warstwy folii bąbelkowej + wypełniacze** ***
 
@@ -1053,7 +1053,7 @@ Wybierz się do domu na święta z wesołej stacji w zimowej wiosce. Ośnieżona
 
 ## 10260 — Klocki Lego Creator Expert Zestaw Bistro w śródmieściu 10260
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1549.00 zł · EAN: 05702016111842 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1549.00 zł · EAN: 05702016111842 · in stock*
 
 LEGO Bistro w śródmieściu 10260
 
@@ -1087,7 +1087,7 @@ Zdejmuj poszczególne części budynku, by zajrzeć do szczegółowo odwzorowane
 
 ## 10261 — Lego 10261 Creator Kolejka górska
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702016111835 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702016111835 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1141,7 +1141,7 @@ Poczuj prędkość i wrażenia, jakie zapewnia najwspanialsza atrakcja w wesoły
 
 ## 10262 — Lego Creator Expert 10262 Lego Creator Expert Aston Martin 10262
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016111828 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016111828 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1181,7 +1181,7 @@ Zdobądź licencję na budowanie fantastycznego zestawu LEGO Creator Expert 1026
 
 ## 10263 — Lego 10263 Creator Expert Remiza Strażacka W Zimowej Wiosce
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702016111811 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702016111811 · in stock*
 
 Witamy!
 
@@ -1207,7 +1207,7 @@ ZAPRASZAMY!!!
 
 ## 10264 — Lego 10264 Creator Expert Warsztat na rogu
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1148.99 zł · EAN: 05702016368253 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1148.99 zł · EAN: 05702016368253 · in stock*
 
 Klocki LEGO Creator Expert 10264 - Warsztat na rogu
 
@@ -1258,7 +1258,7 @@ Zestaw LEGO Creator Expert - Warsztat na rogu trafił do sprzedaży w 2019 rok
 
 ## 10265 — Lego Creator Expert 10265 Ford Mustang
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702016368260 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702016368260 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1303,7 +1303,7 @@ Poczuj magię kultowego amerykańskiego samochodu typu muscle car z lat 60. XX w
 
 ## 10266 — Lego Creator Expert 10266 Lądownik księżycowy Apollo 11 Nasa na święta
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702016368277 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702016368277 · in stock*
 
 LEGO Creator Expert 10266 Lądownik księżycowy Apollo 11 NASA / NOWY / UNIKAT
 
@@ -1336,7 +1336,7 @@ Uczcij pierwsze lądowanie człowieka na Księżycu z zestawem LEGO® Creator Ex
 
 ## 10267 — Lego Creator Expert Chatka Z Piernika 10267 b
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 587.35 zł · EAN: 05702016368284 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 587.35 zł · EAN: 05702016368284 · in stock*
 
 **Chatka z piernika**
 
@@ -1366,7 +1366,7 @@ Poczuj świąteczną radość budowania dzięki zestawowi 10267 Chatka z piernik
 
 ## 10268 — Lego Creator Expert 10268 Turbina wiatrowa Vestas
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1674.99 zł · EAN: 05702016351682 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1674.99 zł · EAN: 05702016351682 · in stock*
 
 Klocki LEGO® 10268 Creator Expert Turbina wiatrowa Vestas
 
@@ -1394,7 +1394,7 @@ Zestaw jest przeznaczony dla osób w wieku od 12 lat. Sprawdzi się u budowniczy
 
 ## 10269 — Lego 10269 Creator Expert Harley-Davidson Fat Boy 1023 elementy 16+
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016368291 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016368291 · in stock*
 
 Klocki LEGO CREATOR
  
@@ -1431,7 +1431,7 @@ WIEK: **16+**
 
 ## 10270 — Klocki Lego Lego Creator Expert 10270 Księgarnia
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 845.00 zł · EAN: 05702016667974 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 845.00 zł · EAN: 05702016667974 · in stock*
 
 LEGO Creator Expert 10270 Księgarnia
  
@@ -1469,7 +1469,7 @@ Zestawy LEGO Creator Expert to odpowiedni wybór dla nastoletnich i dorosłych p
 
 ## 10271 — Lego 10271 Creator Expert Fiat 500
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 539.99 zł · EAN: 05702016667981 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 539.99 zł · EAN: 05702016667981 · in stock*
 
 Klocki LEGO Creator Expert 10271 - Fiat 500
 
@@ -1512,7 +1512,7 @@ Zestaw LEGO Creator Expert - Fiat 500 trafił do sprzedaży w 2020 roku. Numer
 
 ## 10272 — Lego Creator Expert Stadion Old Trafford Manchester United 10272 Ideał!
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 3029.00 zł · EAN: 05702016667998 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3029.00 zł · EAN: 05702016667998 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1553,7 +1553,7 @@ Zestaw LEGO Creator Expert - Fiat 500 trafił do sprzedaży w 2020 roku. Numer
 
 ## 10275 — Lego Creator Expert 10275 Domek elfów
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702016668025 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702016668025 · in stock*
 
 Model LEGO Creator Expert 10275 Domek elfów
 
@@ -1571,7 +1571,7 @@ Produkt przeznaczony jest dla dorosłych odbiorców (18+).
 
 ## 10278 — Klocki Lego Icons Zestaw Posterunek Policji 10278
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016913729 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016913729 · in stock*
 
 LEGO Creator Expert 10278 Posterunek policji
 
@@ -1609,7 +1609,7 @@ Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystyczni
 
 ## 10283 — Lego Creator Expert Wahadłowiec Discovery 10283
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 899.90 zł · EAN: 05702016914061 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 899.90 zł · EAN: 05702016914061 · in stock*
 
 **LEGO CREATOR EXPERT WAHADŁOWIEC DISCOVERY 10283**
 
@@ -1641,7 +1641,7 @@ Zestaw konstrukcyjny dla dorosłych LEGO® Wahadłowiec Discovery NASA (10283) t
 
 ## 10284 — Lego Creator Expert 10284 Stadion Camp Nou Fc Barcelona Opis
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702016914276 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702016914276 · in stock*
 
 LEGO® 10284 Camp Nou – FC Barcelona
 
@@ -1672,7 +1672,7 @@ Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
 ## 10292 — Lego Icons 10292 Mieszkania z serialu Przyjaciele – zestaw kolekcjonerski
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1850.00 zł · EAN: 05702016914306 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1850.00 zł · EAN: 05702016914306 · in stock*
 
 LEGO Icons 10292 Mieszkania z serialu Przyjaciele – zestaw kolekcjonerski
  
@@ -1688,7 +1688,7 @@ Wymiary zestawu to około 64 cm szerokości, 31 cm głębokości i 10 cm wysoko�
 
 ## 10293 — Lego Creator Expert Wizyta Świętego Mikołaja 10293
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 530.00 zł · EAN: 05702016914313 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 530.00 zł · EAN: 05702016914313 · in stock*
 
 LEGO Creator Expert 10293 Wizyta Świętego Mikołaja
 
@@ -1708,7 +1708,7 @@ LEGO Creator Expert 10293 Wizyta Świętego Mikołaja
 
 ## 3846 — Klocki Lego 3846 Gra Planszowa Ufo Attack zabawa rodzinna kreatywna
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702014601482 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702014601482 · in stock*
 
 LEGO 3846 Gra Planszowa UFO Attack – zabawa dla dzieci i dorosłych UNIKAT
 
@@ -1729,7 +1729,7 @@ Zestaw umożliwia stworzenie scenariusza walki z UFO oraz zapewni wiele godzin c
 
 ## 40009 — Lego 40009 Holiday Building Set polybag
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419145947 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419145947 · in stock*
 
 ** ****LEGO zestaw  - polybag**
 
@@ -1759,7 +1759,7 @@ Zestaw umożliwia stworzenie scenariusza walki z UFO oraz zapewni wiele godzin c
 
 ## 4002015 — Klocki Lego Zestaw Turbina Wiatrowa Borkum Riffgrund 4002015
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419254465 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419254465 · in stock*
 
 Zestaw **LEGO 4002015 – Borkum Riffgrund 1** to wyjątkowy, kolekcjonerski model, który nie był dostępny w regularnej sprzedaży detalicznej. Został on stworzony jako prezent dla pracowników LEGO z okazji otwarcia morskiej farmy wiatrowej **Borkum Riffgrund 1** na Morzu Północnym oraz jako świąteczny upominek w 2015 roku.
 
@@ -1785,7 +1785,7 @@ Farma wiatrowa Borkum Riffgrund 1 została uruchomiona 9 października 2015 roku
 
 ## 40503 — Chd: Lego 40503 House Dagny Holm Master Builder
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 498.88 zł · EAN: 05702017165769 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 498.88 zł · EAN: 05702017165769 · in stock*
 
 LEGO HAUSE LIMITED EDITION
  
@@ -1809,7 +1809,7 @@ Zestaw LEGO House Limited Edition numer 40503 jest prawdziwą pamiątką i wyją
 
 ## 40607 — Lego Creator Expert 40607 Letnia Frajda saszetka z klockami
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 63.99 zł · EAN: 05702017423913 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 63.99 zł · EAN: 05702017423913 · in stock*
 
 LEGO Seria VIP 40607 Letnia Frajda / NOWY / UNIKAT
 
@@ -1831,7 +1831,7 @@ Nadaj letni klimat swoim modelom LEGO® dzięki torebce ze 120 elementami inspir
 
 ## 40643 — Klocki Lego Jade Bunny 40643 Księżycowy Królik
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702017471532 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702017471532 · in stock*
 
 Klocki LEGO Jade Bunny 40643
 
@@ -1876,7 +1876,7 @@ Specyfikacja techniczna w pigułce:
 
 ## 40648 — Klocki Lego Iconic 40648 Drzewko Pachira Pomyślność i Szczęście 9+
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 117.90 zł · EAN: 05702017421643 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 117.90 zł · EAN: 05702017421643 · in stock*
 
 LEGO Okolicznościowe 40648 Pachira
 
@@ -1890,7 +1890,7 @@ LEGO Okolicznościowe 40648 Pachira
 
 ## 40714 — Lego 40714 Przejażdżka karuzelą
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 87.69 zł · EAN: 05702017595832 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 87.69 zł · EAN: 05702017595832 · in stock*
 
 LEGO® 40714 Przejażdżka karuzelą
 
@@ -1908,7 +1908,7 @@ Dzięki szczegółowemu zestawowi LEGO® Przejażdżka karuzelą dzieci w wieku 
 
 ## 42151 — Lego Technic 42151 Bolid Bugatti Bolide Silnik W16 Wyścigówka 905 klocków
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 247.89 zł · EAN: 50702016699333 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 247.89 zł · EAN: 50702016699333 · in stock*
 
 Przygotuj się na spotkanie z buntownikiem. **Bolid Bugatti** przesuwa granice motosportów. Teraz Twoja kolej, by zbudować ten kultowy samochód wyścigowy dzięki zestawowi LEGO® Technic Bolid Bugatti. Pochwal się detalami samochodu, w tym działającym **silnikiem W16**, **układem kierowniczym i skrzydłowymi drzwiami**. Dodaj naklejki, aby uzupełnić wspaniały wygląd.
 
@@ -1943,7 +1943,7 @@ Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzi
 
 ## 4999 — Lego Creator Expert 4999 Vestas Turbina Wiatrowa
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014520202 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014520202 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1971,7 +1971,7 @@ Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzi
 
 ## 5006655 — Lego 5006655 Vip Porsche Welcome Pack
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702017119113 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702017119113 · in stock*
 
 LEGO 5006655 VIP Porsche Welcome Pack
 
@@ -1985,7 +1985,7 @@ W razie dodatkowych pytań proszę użyć formularza allegro, w przypadkach piln
 
 ## 5525 — Lego 5525 – Amusement Park (Park Rozrywki)
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702014468795 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702014468795 · in stock*
 
 Dane podstawowe
 
@@ -2026,7 +2026,7 @@ Instrukcje budowania (PDF) były dostępne do pobrania przez LEGO Factory.
 
 ## 6386182 — Lego Botanicals Drzewko Bonsai 10281 Icons
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 188.72 zł · EAN: 05702017189383 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 188.72 zł · EAN: 05702017189383 · in stock*
 
 LEGO Botanicals Drzewko Bonsai 10281 ICONS
 
@@ -2042,7 +2042,7 @@ Model drzewka bonsai LEGO jest wyposażony w prostokątną doniczkę i podstawk�
 
 ## 6432433 — Lego 5007428 (6432433) Przejażdżka na Smoku
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 48.89 zł · EAN: 05702017435824 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 48.89 zł · EAN: 05702017435824 · in stock*
 
 LEGO 6432433 Przejażdżka na smoku - Kolekcjonerski Zestaw z Minifigurką
  
@@ -2056,7 +2056,7 @@ Inspiracją dla tego zestawu był stary automat na monety dla dzieci, co dodaje 
 
 ## 6435196 — Lego 6435196 5007489 Baśniowa przejażdżka
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017444758 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017444758 · in stock*
 
 Klocki LEGO Promocyjne Zestawy 5007489, 5007490, 5007427, 5007428
  
@@ -2072,7 +2072,7 @@ Klocki LEGO Promocyjne Zestawy 5007489, 5007490, 5007427, 5007428
 
 ## 77037 — Lego 77037 Horizon Adventures Aloy i Varl kontra krabołaz i piłoząb
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 146.89 zł · EAN: 05702017591759 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 146.89 zł · EAN: 05702017591759 · in stock*
 
 LEGO Horizon Adventures - Aloy i Varl kontra krabołaz i piłoząb 77037
 
@@ -2101,7 +2101,7 @@ Ten zestaw LEGO jest oparty na grze wideo LEGO Horizon Adventures i zawiera dwie
 
 ## 77942 — Klocki Lego Creator Expert Fiat 500 77942
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1009.93 zł · EAN: 05702017117324 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1009.93 zł · EAN: 05702017117324 · in stock*
 
 Klocki LEGO Creator Expert 77942 - Fiat 500
 
@@ -2126,7 +2126,7 @@ Zabawki do budowania, które pozwalają realizować pasje Zestawy LEGO Creator E
 
 ## 80101 — Lego okolicznościowy 80101 Chińska kolacja sylwestrowa Unikat! Misb!
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016391824 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016391824 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2149,7 +2149,7 @@ Zabawki do budowania, które pozwalają realizować pasje Zestawy LEGO Creator E
 
 ## 80104 — Lego Taniec lwa Creator Expert Klocki Lew Nowe
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 159.31 zł · EAN: 05702016668148 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 159.31 zł · EAN: 05702016668148 · in stock*
 
 LEGO - Taniec lwa
 
@@ -2179,7 +2179,7 @@ Ilość klocków:** 480**
 
 ## 8472 — 8472 Lego Racers
 
-*Seria: Creator Expert · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014153042 · in stock*
+*Kategoria: Creator Expert · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014153042 · in stock*
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
