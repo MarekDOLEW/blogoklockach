@@ -14,7 +14,7 @@
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
-   "Allegro Affiliate": "weryfikacja konta w toku",
+   "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl), ID 2103402418, typ Content, audience 500, status Waiting (utworzony 2026-08-16, przeglad do 24h). Konto na kontakt@tylkoklocki.pl."
   },
   "zasoby": {
@@ -43,13 +43,13 @@
  },
  "allegro": {
   "siec": "Allegro Affiliate (program wlasny)",
-  "status": "wyslane",
+  "status": "aktywny",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
   "data": "2026-08-16",
-  "uwagi": "Zgloszenie przez business.allegro.pl/afiliacja. Czeka na weryfikacje konta. Najwiekszy wolumen zakupow LEGO w PL - priorytet."
+  "uwagi": "Konto zweryfikowane 2026-08-16, panel kampanii dostepny (business.allegro.pl/afiliacja/programy/allegro-affiliate/kampanie). NASTEPNE KROKI: dolaczyc do dostepnych kampanii, wygenerowac przykladowy link partnerski (do oferty i do wynikow wyszukiwania) -> ustalimy format i zautomatyzujemy trasy /idz/allegro/ jak dla x-kom. Sprawdzic tez dostepnosc feedu/API ofert."
  },
  "empik": {
   "siec": "Tradedoubler",
