@@ -271,10 +271,10 @@ a { color: inherit; }
    powiększenie skaluje CAŁĄ ramkę (obrazek z obwódką i tłem) ponad tabelą — bez przycinania */
 .set-mini { display: block; width: 100px; height: 100px; position: relative; }
 .set-mini:hover { z-index: 30; }
-.set-mini img { width: 100px; height: 100px; object-fit: contain; background: #fff; border: 1px solid var(--linia); border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
+.set-mini img { width: 100px; height: 100px; object-fit: contain; background: #fff; border-radius: 8px; transition: transform 0.18s ease, box-shadow 0.18s ease; transform-origin: left center; cursor: zoom-in; }
 a.set-mini img { cursor: pointer; }
 .set-mini:hover img { transform: scale(2.2); box-shadow: 0 10px 40px rgba(23,35,63,0.35); }
-.set-mini-placeholder { display: flex; width: 100px; height: 100px; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border: 1px dashed var(--linia); border-radius: 8px; }
+.set-mini-placeholder { display: flex; width: 100px; height: 100px; align-items: center; justify-content: center; background: linear-gradient(160deg, #fff 0%, var(--papier) 100%); border-radius: 8px; }
 .set-mini-placeholder .studs i { width: 9px; height: 9px; }
 
 .set-nr { font-family: var(--font-display); font-weight: 700; font-variant-numeric: tabular-nums; }
