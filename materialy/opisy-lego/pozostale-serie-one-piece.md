@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > One Piece — opisy produktowe (13 pozycji)
 
-## 40799 — Lego BrickHeadz 40799 Figurka Monkey D. Luffy’ego
+## 40799 — Figurka Monkey D. Luffy’ego
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 135.95 zł · EAN: 05702017829913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40799 |
+| Nazwa angielska | Monkey D. Luffy Figure |
+| Nazwa polska | Figurka Monkey D. Luffy’ego |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829913 |
 
 Zabierz fanów anime ONE PIECE na kreatywną przygodę z tą szczegółową figurką LEGO® BrickHeadz™ Monkey D. Luffy’ego (40799). Bohater nosi swój charakterystyczny żółty kapelusz i stoi na solidnej płytce konstrukcyjnej, co sprawia, że świetnie prezentuje się na półce. Budowanie figurki dostarcza mnóstwo radości, a gotowy model idealnie nadaje się zarówno do zabawy, jak i do eksponowania. Monkey D. Luffy może stać się częścią większej kolekcji postaci LEGO BrickHeadz (sprzedawanych osobno). To świetny prezent dla dzieci od 10. roku życia.
 
@@ -21,11 +32,27 @@ Zabierz fanów anime ONE PIECE na kreatywną przygodę z tą szczegółową figu
 - Prezent dla fanów anime – ta figurka to świetny pomysł na prezent dla dzieci od 10 lat: dla chłopców, dziewczynek i wszystkich fanów anime ONE PIECE i kolekcjonerskich figurek LEGO® BrickHeadz™ 
 - 136-elementowy zestaw – po zbudowaniu figurka Monkey D. Luffy’ego ma 9 cm wysokości
 
+**Galeria:**
+
+- 40799-1: https://a.allegroimg.com/original/1139bd/81c28afc417885729aaef6e27a30
+
 ---
 
-## 40800 — Lego 40800 BrickHeadz Figurka klauna Buggy’ego
+## 40800 — Figurka klauna Buggy’ego
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 48.99 zł · EAN: 05702017829920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40800 |
+| Nazwa angielska | Buggy the Clown Figure |
+| Nazwa polska | Figurka klauna Buggy’ego |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829920 |
 
 Klocki LEGO BrickHeadz 40800 - Figurka klauna Buggy’ego
 
@@ -59,11 +86,26 @@ Zestaw LEGO BrickHeadz - Figurka klauna Buggy’ego trafił do sprzedaży w 20
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40800-1: https://a.allegroimg.com/original/1122ae/03c41a63489098166b092218ffee
+
 ---
 
-## 75636 — Lego 75636 One Piece Chatka w Fuusha
+## 75636 — Chatka w wiosce Fuusha
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 78.45 zł · EAN: 05702017817996 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75636 |
+| Nazwa angielska | Windmill Village Hut |
+| Nazwa polska | Chatka w wiosce Fuusha |
+| Seria | Pozostałe serie > One Piece |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817996 |
 
 LEGO 75636 One Piece Chatka w Fuusha 8+ (299 el.)
 
@@ -135,11 +177,26 @@ Kompatybilność
 
 LEGO 75636, LEGO One Piece, klocki LEGO 8+, zestaw LEGO 299 elementów, LEGO dla dzieci, prezent dla fana anime, klocki pirackie LEGO
 
+**Galeria:**
+
+- 75636-1: https://a.allegroimg.com/original/116bef/c0d1e5554fb3a3d7ea3d8f4c6647
+
 ---
 
-## 75637 — Lego One Piece Namiot cyrkowy klauna Buggy’ego 75637
+## 75637 — Namiot cyrkowy klauna Buggy’ego
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 159.98 zł · EAN: 05702017818009 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75637 |
+| Nazwa angielska | Buggy the Clown's Circus Tent |
+| Nazwa polska | Namiot cyrkowy klauna Buggy’ego |
+| Seria | Pozostałe serie > One Piece |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 573 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818009 |
 
 **LEGO ONE PIECE Namiot cyrkowy klauna Buggy’ego 75637**
 
@@ -163,11 +220,26 @@ Zabawki LEGO® ONE PIECE ożywiają postacie i przygody z serialu Netflix
 
 Ten 573-elementowy model namiotu ma 16 cm wysokości
 
+**Galeria:**
+
+- 75637-1: https://a.allegroimg.com/original/117fda/f386eada4dff91a7ed1cbc680880
+
 ---
 
-## 75638 — 75638 Lego One Piece Bitwa w Arlong Park 75638
+## 75638 — Bitwa w Arlong Park
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017818016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75638 |
+| Nazwa angielska | Battle at Arlong Park |
+| Nazwa polska | Bitwa w Arlong Park |
+| Seria | Pozostałe serie > One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 926 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 16 cm × gł. 10 cm |
+| EAN | 5702017818016 |
 
 KLOCKI LEGO ONE PIECE 75638 Bitwa w Arlong Park
 
@@ -187,11 +259,26 @@ Prezent dla fanów anime — ten zestaw LEGO® do budowania, zabawy i ekspozycji
 
 Zestaw z 926 elementami — model ma 29 cm wysokości, 16 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 75638-1: https://a.allegroimg.com/original/117687/f1da6d2649f6a0ba8ca2d2b9d3b0
+
 ---
 
-## 75639 — Lego One Piece Statek piracki Going Merry 75639
+## 75639 — Statek piracki Going Merry
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 432.13 zł · EAN: 05702017818023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75639 |
+| Nazwa angielska | The Going Merry Pirate Ship |
+| Nazwa polska | Statek piracki Going Merry |
+| Seria | Pozostałe serie > One Piece |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818023 |
 
 **LEGO ONE PIECE Statek piracki Going Merry 75639**
 
@@ -215,11 +302,26 @@ Zabawki LEGO® ONE PIECE ożywiają postacie i przygody z serialu Netflix
 
 Ten 1376-elementowy model statku ma 39 cm długości
 
+**Galeria:**
+
+- 75639-1: https://a.allegroimg.com/original/114eff/37f4323e45e3a62fc54e9cdcba05
+
 ---
 
-## 75640 — Lego One Piece Pływająca restauracja Baratie 75640
+## 75640 — Pływająca restauracja Baratie
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 968.90 zł · EAN: 05702017818030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75640 |
+| Nazwa angielska | The Baratie Floating Restaurant |
+| Nazwa polska | Pływająca restauracja Baratie |
+| Seria | Pozostałe serie > One Piece |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3402 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818030 |
 
 **LEGO ONE PIECE Pływająca restauracja Baratie 75640**
 
@@ -245,11 +347,26 @@ Zestawy LEGO® dla dorosłych to okazja do skupienia i odpoczynku
 
 Ten 3402-elementowy model ma 54 cm szerokości
 
+**Galeria:**
+
+- 75640-1: https://a.allegroimg.com/original/11091b/c481b1ad411889ed4f87d484286d
+
 ---
 
-## 75641 — Lego One Piece Kryjówka doktora Hiluluka 75641
+## 75641 — Kryjówka doktora Hiluluka
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 91.87 zł · EAN: 05702018067338 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75641 |
+| Nazwa angielska | Dr. Hiriluk's Hideout |
+| Nazwa polska | Kryjówka doktora Hiluluka |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 271 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067338 |
 
 **LEGO ONE PIECE Kryjówka doktora Hiluluka 75641**
 
@@ -273,11 +390,26 @@ Ożyw postacie i przygody z serialu Netflixa
 
 Ten 271-elementowy zestaw ma 16 cm szerokości
 
+**Galeria:**
+
+- 75641-1: https://a.allegroimg.com/original/111be1/24d6a700448bacc18561c557bb4a
+
 ---
 
-## 75642 — Lego One Piece Starcie z kapitanem Smokerem 75642
+## 75642 — Starcie z kapitanem Smokerem
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 184.94 zł · EAN: 05702018067345 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75642 |
+| Nazwa angielska | Showdown with Captain Smoker |
+| Nazwa polska | Starcie z kapitanem Smokerem |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 547 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067345 |
 
 **LEGO ONE PIECE Starcie z kapitanem Smokerem 75642**
 
@@ -301,11 +433,26 @@ Ożyw postacie i przygody z serialu Netflixa
 
 Główny budynek w tym 547-elementowym zestawie ma 15 cm szerokości
 
+**Galeria:**
+
+- 75642-1: https://a.allegroimg.com/original/11332a/77fe90a3466284b5cd448a15853c
+
 ---
 
-## 75643 — Lego One Piece Tony Tony Chopper, zabawka dla dziecka 75643
+## 75643 — Tony Tony Chopper
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 229.97 zł · EAN: 05702018067352 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75643 |
+| Nazwa angielska | Tony Tony Chopper |
+| Nazwa polska | Tony Tony Chopper |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 577 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067352 |
 
 **LEGO ONE PIECE Tony Tony Chopper, zabawka dla dziecka 75643**
 
@@ -329,19 +476,49 @@ Ożyw postacie i przygody z serialu Netflixa
 
 Ten 577-elementowy zestaw ma 19 cm wysokości
 
+**Galeria:**
+
+- 75643-1: https://a.allegroimg.com/original/11d1f3/38498f1d483c96c8bfc1a3c8649e
+
 ---
 
-## 75644 — Lego One Piece 75644 Dorry Vs. Brogy – Giganci Z Ogrodu
+## 75644 — Dorry kontra Brogy — Giganci z Little Garden
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 244.99 zł · EAN: 05702018067369 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75644 |
+| Nazwa angielska | Dorry vs. Brogy – Giants of Little Garden |
+| Nazwa polska | Dorry kontra Brogy — Giganci z Little Garden |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 733 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 13 cm × gł. 12 cm |
+| EAN | 5702018067369 |
 
 **Klocki LEGO One Piece -****Dorry kontra Brogy Giganci z Little Garden****wiek:8+****ilość elementów-573**Wskocz w epickie starcie sympatycznych gigantów z aktorskiego serialu Netflixa ONE PIECE dzięki zestawowi Dorry kontra Brogy Giganci z Little Garden (75644). Dzieci mogą odegrać bitwy w pełni ruchomymi gigantami Dorry i Brogym, latać figurką sępa Miss Friday z minifigurką Mr. 13 na grzbiecie oraz wkroczyć do akcji z minifigurkami Zoro, Usoppa, Mr. 3 i Miss Golden Week. Ta zabawka do zbudowania sprawdzi się jako prezent dla chłopców i dziewczynek w wieku od dziewięciu lat. Dorry i Brogy mają materiałowe peleryny, ruchome kończyny i potężną broń, dzięki czemu mogą prowadzić dynamiczne walki. Autentyczne akcesoria, w tym woskowana włócznia Mr. 3, paleta i pędzel Miss Golden Week, atrapy działek Mr. 13 i Miss Friday, hełm i gogle oraz rozpadający się świecznik, inspirują do kreatywnej zabawy. W zestawie znajdują się trzy losowe płytki z teczkami, które kolekcjonerzy mogą odkrywać. A dzięki aplikacji LEGO Builder dzieci budują z większą pewnością siebie mogą przybliżać i obracać model w 3D oraz śledzić postępy dzięki prostym cyfrowym instrukcjom. Zestaw składa się z 733 elementów.Zabawka konstrukcyjna z dwoma gigantami ciesz się bitwą w megaskali dzięki zestawowi LEGO ONE PIECE Dorry kontra Brogy Giganci z Little Garden (75644), w którym dwóch potężnych wojowników staje do walki z piratami Słomkowego KapeluszaOsiem figurek LEGO ustaw Dorry'ego i Brogy'ego. Zestaw zawiera również minifigurkę Mr. 13 na grzebiecie figurki sępa Miss Friday i cztery dodatkowe minifigurki: Zoro, Usoppa, Mr. 3 i Miss Golden WeekOdgrywanie ról dołącz do załogi Słomkowego Kapelusza i weź udział w bitwie z nikczemnymi agentami Baroque Works oraz potężnymi, dynamicznymi postaciami Dorry'ego i Brogy'ego, wyposażonymi w materiałowe peleryny, ruchome kończyny i brońAutentyczne detale zestaw zawiera imitacje działek Miss Friday, hełm i gogle, rozpadający się świecznik oraz trzy tajne teczki do odkryciaPrezent dla dzieci i fanów ONE PIECE podaruj ten fajny prezent dziewięcioletnim i starszym fanom serialu NetflixaCiekawy sposób na budowanie aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki trójwymiarowym instrukcjomGadżety LEGO ONE PIECE kolekcjonerskie zestawy LEGO ONE PIECE zawierają postacie, miejsca i ekscytujące przygody znane z serialu NetflixaWymiary figurka Dorryego w tym 733-elementowym zestawie ma 18 cm wysokości, 13 cm szerokości i 12 cm długości
 
+**Galeria:**
+
+- 75644-1: https://a.allegroimg.com/original/11c1fd/63f94bc54a2b9731377a39e71f1b
+
 ---
 
-## 75645 — Lego One Piece Bitwa pod zamkiem Drum 75645
+## 75645 — Bitwa pod zamkiem Drum
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702018067376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75645 |
+| Nazwa angielska | Battle at Drum Castle |
+| Nazwa polska | Bitwa pod zamkiem Drum |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1038 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067376 |
 
 **LEGO ONE PIECE Bitwa pod zamkiem Drum 75645**
 
@@ -365,11 +542,26 @@ Zabawki LEGO® ONE PIECE ożywiają postacie i przygody z serialu Netflix
 
 Ten 1038-elementowy zestaw ma 17 cm szerokości
 
+**Galeria:**
+
+- 75645-1: https://a.allegroimg.com/original/112681/bbb14f274914a4fd8967b5a95d8e
+
 ---
 
-## 75646 — Lego One Piece Okręt Garpa 75646
+## 75646 — Okręt Garpa
 
-*Kategoria: Pozostałe serie > One Piece · cena Allegro (2026-08-17): 559.98 zł · EAN: 05702018067383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75646 |
+| Nazwa angielska | Garp's Marine Battleship |
+| Nazwa polska | Okręt Garpa |
+| Seria | One Piece |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1738 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067383 |
 
 **LEGO ONE PIECE Okręt Garpa 75646**
 
@@ -392,6 +584,10 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 Zabawki LEGO® ONE PIECE ożywiają postacie i przygody z serialu Netflixa
 
 Okręt w tym 1705-elementowym zestawie ma 44 cm długości
+
+**Galeria:**
+
+- 75646-1: https://a.allegroimg.com/original/11afcc/2fe338ce42d0b010629d1cacc85b
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Hidden Side — opisy produktowe (19 pozycji)
 
-## 30464 — Lego Hidden Side 30464 Armata kaskaderska El Fuego saszetka klocki
+## 30464 — Armata Kaskaderska El Fuego
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 25.49 zł · EAN: 05702016668247 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30464 |
+| Nazwa angielska | El Fuego's Stunt Cannon |
+| Nazwa polska | Armata Kaskaderska El Fuego |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668247 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30464-1: https://a.allegroimg.com/original/11a48e/fa9933a44c09a7840f9f9a08ecb9
+
 ---
 
-## 40336 — Lego 40336 Hidden Side Bar z sokami w Newbury
+## 40336 — Bar z sokami w Newbury
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 123.00 zł · EAN: 05702016370669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40336 |
+| Nazwa angielska | Newbury Juice Bar |
+| Nazwa polska | Bar z sokami w Newbury |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370669 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -39,11 +64,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40336-1: https://a.allegroimg.com/original/111789/1156a5564eeb923b371722c5a558
+
 ---
 
-## 40408 — Lego Hidden Side 40408 Dragster Drag Racer Jack Samochód
+## 40408 — Dragster
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016656688 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40408 |
+| Nazwa angielska | Drag Racer |
+| Nazwa polska | Dragster |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656688 |
 
 LEGO HIDDEN SIDE 40408 Dragster
 
@@ -53,11 +93,26 @@ Drag Racer
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 40408-1: https://a.allegroimg.com/original/11692f/825cb32c4ecba54c9a2207ff6820
+
 ---
 
-## 70418 — Lego 70418 Hidden Side Laboratorium Duchów
+## 70418 — Hidden Side  Laboratorium duchów J.B.
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016365405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70418 |
+| Nazwa angielska | J.B's Ghost Lab |
+| Nazwa polska | Hidden Side  Laboratorium duchów J.B. |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 18 cm × gł. 9 cm |
+| EAN | 5702016365405 |
 
 **Klocki LEGO Hidden Side Laboratorium duchów J.B.**ILOŚĆ ELEMENTÓW: 173
 
@@ -75,11 +130,26 @@ Korzystanie z rzeczywistości rozszerzonej wymaga użycia smartfona lub tabletu.
 
 Laboratorium duchów J.B. ma ok. 13 cm wysokości, 18 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 70418-1: https://a.allegroimg.com/original/11b00b/ad9ea80f45bd8bfc3863f7de9cb3
+
 ---
 
-## 70419 — Lego Hidden Side Wrak łodzi rybackiej 70419
+## 70419 — 70419
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 189.19 zł · EAN: 05702016365412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70419 |
+| Nazwa angielska | Wrecked Shrimp Boat |
+| Nazwa polska | 70419 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 24 cm × gł. 12 cm |
+| EAN | 5702016365412 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -112,11 +182,26 @@ Pozwól dzieciom zapolować na duchy z zestawem 70419 Wrak łodzi rybackiej z se
 - Wrak statku na wyspie ma ok. 19 cm wysokości, 24 cm szerokości i 12 cm głębokości.
 - Łódź rybacka ma ok. 15 cm wysokości, 8 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 70419-1: https://a.allegroimg.com/original/002902/8f730b3a47cdb0f4f5e368a15bc0
+
 ---
 
-## 70420 — Lego Hidden Side 70420 Tajemnicze cmentarzysko
+## 70420 — Tajemnicze cmentarzysko
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 171.73 zł · EAN: 05702016365429 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70420 |
+| Nazwa angielska | Graveyard Mystery |
+| Nazwa polska | Tajemnicze cmentarzysko |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 335 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm × gł. 10 cm |
+| EAN | 5702016365429 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -152,11 +237,26 @@ Zestaw 70420 Tajemnicze cmentarzysko z serii LEGO Hidden Side pozwoli dzieciom p
 
 - Cmentarzysko ma ok. 14 cm wysokości, 32 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 70420-1: https://a.allegroimg.com/original/00a764/509ce52d454b98b9378b444f5320
+
 ---
 
-## 70421 — Lego 70421 Hidden Side Samochód kaskaderski El Fuego
+## 70421 — Samochód kaskaderski El Fuego
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 168.00 zł · EAN: 05702016365436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70421 |
+| Nazwa angielska | El Fuego's Stunt Truck |
+| Nazwa polska | Samochód kaskaderski El Fuego |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 428 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016365436 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -172,11 +272,26 @@ Numer magazynowy sprzedawcy: 20260162, 20260163, 20260164
 
 Przybliżone wymiary opakowania:** 5,6 x 38,2 x 26,2 cm**
 
+**Galeria:**
+
+- 70421-1: https://a.allegroimg.com/original/11dce0/7b4cc804467aaba29178a3edc3ce
+
 ---
 
-## 70422 — Lego Hidden Side 70422 Kłopoty w restauracji
+## 70422 — LEGO HIDDEN SIDE 70422 Kłopoty w restauracji
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702016365443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70422 |
+| Nazwa angielska | Shrimp Shack Attack |
+| Nazwa polska | LEGO HIDDEN SIDE 70422 Kłopoty w restauracji |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 579 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 32 cm × gł. 10 cm |
+| EAN | 5702016365443 |
 
 LEGO Kłopoty w restauracji 70422
  
@@ -191,11 +306,26 @@ Pozwól dzieciom wejść do świata niezwykłych przygód i zapolować na duchy 
 - Korzystanie z rzeczywistości rozszerzonej wymaga użycia smartfona lub tabletu (zestaw nie zawiera żadnego z tych urządzeń). Przed połączeniem się z siecią dzieci powinny zapytać o zgodę. 
 - Model z zestawu Kłopoty w restauracji w wersji nawiedzonej ma ok. 19 cm wysokości, 32 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 70422-1: https://a.allegroimg.com/original/00a518/9ed16b464477a6cb950f3a863d69
+
 ---
 
-## 70423 — Lego 70423 Hidden Side Autobus Duchozwalczacz 3000
+## 70423 — Autobus Duchozwalczacz 3000
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 318.99 zł · EAN: 05702016365467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70423 |
+| Nazwa angielska | Paranormal Intercept Bus 3000 |
+| Nazwa polska | Autobus Duchozwalczacz 3000 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 689 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 10 cm × gł. 29 cm |
+| EAN | 5702016365467 |
 
 Klocki LEGO Hidden Side 70423 - Autobus Duchozwalczacz 3000
 
@@ -225,11 +355,26 @@ Pozwól dzieciom na pełną akcji zabawę w świecie rozszerzonej rzeczywistośc
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 70423-1: https://a.allegroimg.com/original/004e7b/4047594f40cd996e705551f83f99
+
 ---
 
-## 70425 — Zestaw Lego 70425 Hidden Side Nawiedzone Liceum w Newbury
+## 70425 — 70425
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 899.99 zł · EAN: 05702016367218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70425 |
+| Nazwa angielska | Newbury Haunted High School |
+| Nazwa polska | 70425 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1474 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 43 cm × gł. 26 cm |
+| EAN | 5702016367218 |
 
 LEGO HIDDEN SIDE 70425 Nawiedzone liceum w Newbury
 
@@ -251,11 +396,26 @@ Ta zabawka wykorzystuje rzeczywistość rozszerzoną i zawiera osiem figurek: je
  
 **WIEK 9+**
 
+**Galeria:**
+
+- 70425-1: https://a.allegroimg.com/original/0004ae/03de00c64e66916243016ede147f
+
 ---
 
-## 70427 — Lego Hidden Side 70427
+## 70427 — 70427
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 178.00 zł · EAN: 05702016616088 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70427 |
+| Nazwa angielska | Welcome to the Hidden Side |
+| Nazwa polska | 70427 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 189 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 22 cm × gł. 13 cm |
+| EAN | 5702016616088 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -293,11 +453,26 @@ Ta zabawka wykorzystuje rzeczywistość rozszerzoną i zawiera osiem figurek: je
  
 **sprawdzić na stronie LEGO**
 
+**Galeria:**
+
+- 70427-1: https://a.allegroimg.com/original/00ca40/d48125b64a869a8f2e486d2269c8
+
 ---
 
-## 70428 — Lego Hidden Side 70428 Łazik plażowy Jacka
+## 70428 — Łazik plażowy Jacka
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702016616095 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70428 |
+| Nazwa angielska | Jack's Beach Buggy |
+| Nazwa polska | Łazik plażowy Jacka |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616095 |
 
 LEGO Hidden Side 70428 Łazik plażowy Jacka
 
@@ -312,11 +487,26 @@ Zabawki LEGO Hidden Side to połączenie rzeczywistości rozszerzonej z tradycyj
 - Zabawkowy plażowy łazik LEGO zmienia się, gdy oglądasz go na ekranie urządzenia z aplikacją LEGO AR. W nawiedzonym cyfrowym świecie dzieciaki mogą zapolować na duchy, zająć się odkrywaniem i rozwiązywaniem zagadek albo zmierzyć się z potężnym duchem Truckerem Dale'em.
 - W Grupie LEGO dokładnie testujemy zestawy LEGO Hidden Side, by mieć pewność, że każda z tych unikalnych zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 70428-1: https://a.allegroimg.com/original/00e937/3ef930d64bc5b1d28307934b1174
+
 ---
 
-## 70429 — Lego Hidden Side 70429 Samolot kaskaderski El Fuego
+## 70429 — LEGO Hidden Side Samolot kaskaderski El Fueg 70429
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702016616101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70429 |
+| Nazwa angielska | El Fuego's Stunt Plane |
+| Nazwa polska | LEGO Hidden Side Samolot kaskaderski El Fueg 70429 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 22 cm |
+| EAN | 5702016616101 |
 
 LEGO HIDDEN SIDE SAMOLOT KASKADERSKI EL FUEGO 70429
 
@@ -344,11 +534,26 @@ Siądź za sterami samolotu kaskaderskiego El Fuego i daj się porwać rzeczywis
 - **Waga jednostkowa brutto:** 0,51 kg 
 - **Typ:** Konstrukcyjne
 
+**Galeria:**
+
+- 70429-1: https://a.allegroimg.com/original/006dd3/8236fa28473381d64f70f7b808ad
+
 ---
 
-## 70431 — Lego 70431 Hidden Side Latarnia ciemności
+## 70431 — LEGO HIDDEN SIDE 70431 Latarnia ciemności
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702016616125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70431 |
+| Nazwa angielska | The Lighthouse of Darkness |
+| Nazwa polska | LEGO HIDDEN SIDE 70431 Latarnia ciemności |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 540 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616125 |
 
 Oryginalne, nieotwierane opakowanie, dokładny stan opakowania patrz zdjęcie (lekko zgniecione w transporcie)
 
@@ -367,11 +572,26 @@ Model można połączyć z aplikacją LEGO Hidden Side, która wykorzystuje **ro
 
 Przybliżone wymiary opakowania: **6,1 x 48 x 28,2 cm**
 
+**Galeria:**
+
+- 70431-1: https://a.allegroimg.com/original/11f07d/76e441844c189da215ab0204c81a
+
 ---
 
-## 70432 — Lego Hidden Side Nawiedzony lunapark 70432 Opis
+## 70432 — Lego Hidden Side Nawiedzony lunapark 70432
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702016616132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70432 |
+| Nazwa angielska | Haunted Fairground |
+| Nazwa polska | Lego Hidden Side Nawiedzony lunapark 70432 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 35 cm × gł. 27 cm |
+| EAN | 5702016616132 |
 
 LEGO HIDDEN SIDE 70432 Nawiedzony lunapark
 
@@ -392,11 +612,26 @@ Fani wirtualnej rzeczywistości i gier wideo polubią niesamowity świat LEGO® 
  
 **WIEK 8+**
 
+**Galeria:**
+
+- 70432-1: https://a.allegroimg.com/original/110639/b8b7a5bd410b91df52a6ea3c99ea
+
 ---
 
-## 70433 — Klocki Lego Hidden Side 70433 Łódź Podwodna
+## 70433 — Łódź podwodna
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702016616149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70433 |
+| Nazwa angielska | J.B.'s Submarine |
+| Nazwa polska | Łódź podwodna |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 10 cm |
+| EAN | 5702016616149 |
 
 KLOCKI LEGO HIDDEN SIDE
 
@@ -420,11 +655,26 @@ Zachęcam do zapoznania się z moimi
 
 pozostałymi aukcjami
 
+**Galeria:**
+
+- 70433-1: https://a.allegroimg.com/original/1112e3/b0ab09d841029723655023e04954
+
 ---
 
-## 70434 — Lego 70434 Hidden Side Nawiedzona wyścigówka
+## 70434 — LEGO HIDDEN SIDE 70434 Nawiedzona wyścigówka
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 124.77 zł · EAN: 05702016616156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70434 |
+| Nazwa angielska | Supernatural Race Car |
+| Nazwa polska | LEGO HIDDEN SIDE 70434 Nawiedzona wyścigówka |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 11 cm |
+| EAN | 5702016616156 |
 
 LEGO HIDDEN SIDE 70434 Nawiedzona wyścigówka
 
@@ -448,11 +698,26 @@ Zadziwiający świat Hidden Side zachwyci dzieciaki połączeniem elementów fiz
  
 **WIEK 7+**
 
+**Galeria:**
+
+- 70434-1: https://a.allegroimg.com/original/0068a1/f2b2341b44649ab0d5bb364c2bcb
+
 ---
 
-## 70435 — Lego Hidden Side 70435 Opuszczone więzienie w Newbury
+## 70435 — Opuszczone więzienie
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 344.88 zł · EAN: 05702016616163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70435 |
+| Nazwa angielska | Newbury Abandoned Prison |
+| Nazwa polska | Opuszczone więzienie |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 30 cm × gł. 15 cm |
+| EAN | 5702016616163 |
 
 Klocki LEGO Hidden Side 70435 - Opuszczone więzienie w Newbury
 
@@ -484,11 +749,26 @@ Cyfrowa zabawa, która nieustannie ewoluuje Świat LEGO Hidden Side mieści się
 
 Zestaw LEGO Hidden Side - Opuszczone więzienie w Newbury trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 70435. Zawiera 400 klocków LEGO. W modelu znajdziesz też 6 minifigurki. Nazwa zestawu w języku angielskim LEGO Hidden Side - Newbury Abandoned Prison. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 70435-1: https://a.allegroimg.com/original/00f904/4fd256534cd2a19fbbba9fd382b8
+
 ---
 
-## 70436 — Lego Hidden Side 70436 Widmowy wóz gaśniczy 3000
+## 70436 — LEGO HIDDEN SIDE 70436
 
-*Kategoria: Pozostałe serie > Hidden Side · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702016617573 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70436 |
+| Nazwa angielska | Phantom Fire Truck 3000 |
+| Nazwa polska | LEGO HIDDEN SIDE 70436 |
+| Seria | Pozostałe serie > Hidden Side |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 760 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702016617573 |
 
 LEGO HIDDEN SIDE 70436 Widmowy wóz gaśniczy 3000
 
@@ -510,6 +790,10 @@ Witaj w Hidden Side, gdzie świat cyfrowy łączy się z materialnym. Zestaw LEG
 **​​​​​​​Ilość klocków 760**
 
 **WIEK 9+**
+
+**Galeria:**
+
+- 70436-1: https://a.allegroimg.com/original/119151/d62fcef4400095f99a2b93f98671
 
 ---
 

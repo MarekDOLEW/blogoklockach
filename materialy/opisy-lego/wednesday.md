@@ -1,25 +1,50 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Wednesday — opisy produktowe (5 pozycji)
 
-## 76780 — Lego Wednesday Figurka Wednesday Addams 76780
+## 76780 — Figurka Wednesday Addams
 
-*Kategoria: Wednesday · cena Allegro (2026-08-17): 187.00 zł · EAN: 05702017590424 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76780 |
+| Nazwa angielska | Wednesday Addams Figure |
+| Nazwa polska | Figurka Wednesday Addams |
+| Seria | Wednesday |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 702 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590424 |
 
 Figurka Wednesday Addams
 
 Wednesday Figurka Wednesday Addams LEGO® Wednesday: Figurka Wednesday Addams Figurka LEGO® Wednesday: Figurka Wednesday Addams 76780 Podaruj fanom serialu Wednesday zestaw pełen niespodzianek. Obejmuje on figurkę Wednesday, Rączkę, bramę Akademii Nevermore i nie tylko. Kultowa Wednesday Addams i brama Akademii Nevermore Na dziesięciolatków i starsze dzieci czekają tajemnice i chaos w zestawie Figurka Wednesday Addams (76780). Ten zestaw z serii LEGO® Wednesday zawiera kolekcjonerski model z ruchomą głową, ramionami i stopami, a także dwie twarze i dwie stylizacje, dzięki którym figurkę można przebudowywać. Ponadto obejmuje lojalnego pomocnika Rączkę, podstawkę z czarnymi daliami i dwa schowki na skarby, takie jak sukienka ze szkolnego balu lub mundurek. Całości dopełnia brama Akademii Nevermore i akcesoria, takie jak maszyna do pisania Wednesday, grób Nero, szklana kula i inne.Odkryj inne zestawy LEGO Wednesday Addams (sprzedawane osobno), aby poszerzyć możliwości zabawy. Model ten sprawdzi się również jako fajny prezent urodzinowy dla dzieci.Cyfrową wersję instrukcji budowania można znaleźć w aplikacji LEGO Builder. Z tyłu podstawki znajduje się również naklejka z kodem QR, którą można zeskanować, aby uzyskać dostęp do cyfrowych instrukcji pokazujących, jak przebudować model lub zmienić stylizację Wednesday. Ponadto aplikacja umożliwia powiększanie i obracanie modeli w 3D i nie tylko. Uwiecznij swoją ulubioną, inteligentną bohaterkę dzięki temu zestawowi z popularnego serialu telewizyjnego Wednesday. Zbuduj i ustaw figurkę Wednesday Addams, odtwarzając jej poważne spojrzenie i mundurek lub jej dziwną minę i czarną sukienkę ze szkolnego balu. Ustaw ją na podstawce z bramą Akademii Nevermore, w towarzystwie Rączki, maszyny do pisania, szklanej kuli i schowka. • Figurka Wednesday Addams — podaruj miłośnikom tajemnic figurkę Wednesday Addams, wzorowaną na tej postaci i serialu telewizyjnym. Ruchomy model zbudowany z klocków wyposażony jest w podstawkę ze schowkiem i inne elementy • Zestaw pełen tajemnic — zawiera zbudowaną z klocków figurkę Wednesday z dwiema twarzami i dwiema stylizacjami, a także postać Rączki, podstawkę z dwoma zamykanymi skrytkami i rozmaite akcesoria • Akademia Nevermore — fani serialu telewizyjnego w wieku od 10 lat mogą zbudować Wednesday w mundurku lub ubrać ją w sukienkę ze szkolnego balu, a następnie ustawić figurkę na podstawce • Kolekcjonerska figurka z serialu Wednesday — model do zbudowania i przebudowywania można ustawiać w różnych pozach, a całość urozmaicają znane z serialu akcesoria • Pomysł na prezent — szukasz prezentu dla znajomego fana?
 
+**Galeria:**
+
+- 76780-1: https://a.allegroimg.com/original/057041/abf8fb974c7da52589cbd669d8e2
+
 ---
 
-## 76781 — Lego 76781 Wednesday Pokój Wednesday i Enid
+## 76781 — Pokój Wednesday i Enid
 
-*Kategoria: Wednesday · cena Allegro (2026-08-17): 464.98 zł · EAN: 05702017590431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76781 |
+| Nazwa angielska | Wednesday & Enid's Dorm Room |
+| Nazwa polska | Pokój Wednesday i Enid |
+| Seria | Wednesday |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 750 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 25 cm × gł. 13 cm |
+| EAN | 5702017590431 |
 
 LEGO Wednesday
 
@@ -57,11 +82,26 @@ Cechy zestawu:
 
 - **Wymiary** — ten 750-elementowy zestaw zawiera pokój w akademiku z ukrytymi szufladkami w podstawce. Model ma 23 cm wysokości, 25 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 76781-1: https://a.allegroimg.com/original/05c84d/69e076b345b082dd14ae1d4e55eb
+
 ---
 
-## 76784 — Lego Wednesday 76784 Czarna Żurawina
+## 76784 — kwiat czarnej dalii
 
-*Kategoria: Wednesday · cena Allegro (2026-08-17): 69.59 zł · EAN: 05702017813189 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76784 |
+| Nazwa angielska | Black Dahlia Flower |
+| Nazwa polska | kwiat czarnej dalii |
+| Seria | Wednesday |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813189 |
 
 UWAGA!!!
 
@@ -71,11 +111,26 @@ Elegancki zestaw LEGO® Wednesday Kwiat czarnej dalii (76784) jest idealny dla f
  
 Ten zestaw spełnia dziecięce zamiłowanie do przygód i tajemnic i stanowi fajny prezent urodzinowy lub na Halloween dla dziewczynek, chłopców i fanów serialu Wednesday. Sprawdź inne zabawki LEGO z Wednesday Addams (sprzedawane osobno), aby poszerzyć możliwości zabawy. Aplikacja LEGO Builder zapewni starszym dzieciom i fanom intuicyjne budowanie. Narzędzie pozwala im powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy. Zestaw zawiera 358 elementów.
 
+**Galeria:**
+
+- 76784-1: https://a.allegroimg.com/original/054f91/b6eb1dba40ab832b97df12383f95
+
 ---
 
-## 76785 — Klocki Lego Wednesday 76785 Mieszkanie Rączki
+## 76785 — Mieszkanie Rączki
 
-*Kategoria: Wednesday · cena Allegro (2026-08-17): 259.95 zł · EAN: 05702017813196 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76785 |
+| Nazwa angielska | Thing's Apartment |
+| Nazwa polska | Mieszkanie Rączki |
+| Seria | Wednesday |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 828 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 23 cm × gł. 11 cm |
+| EAN | 5702017813196 |
 
 **Zależy nam, aby każdy zestaw trafił do Państwa w idealnym stanie, dlatego też zwracamy szczególną uwagę na sposób jego zabezpieczenia.**
 
@@ -97,11 +152,26 @@ Ten zestaw to ciekawy, kreatywny prezent na Halloween lub święta dla starszych
 - Pobudź wyobraźnię — zestawy LEGO® Wednesday zachęcają odważnych fanów tajemnic do poszukiwania prawdy, a opcje budowania i kreatywne detale rozwijają umiejętności opowiadania historii i kreatywność
 - Wymiary — po zamknięciu ten 828-elementowy zestaw z ozdobnym kufrem ma 13 cm wysokości, 23 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 76785-1: https://a.allegroimg.com/original/11d4df/4939c3dc48ee9468195967807c7a
+
 ---
 
-## 76786 — Lego Wednesday Chatka Morticii 76786
+## 76786 — Morticia a její chata
 
-*Kategoria: Wednesday · cena Allegro (2026-08-17): 418.71 zł · EAN: 05702017813202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76786 |
+| Nazwa angielska | Morticia's Cottage |
+| Nazwa polska | Morticia a její chata |
+| Seria | Wednesday |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1002 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813202 |
 
 LEGO Wednesday Chatka Morticii 76786
 
@@ -112,6 +182,10 @@ Ten zestaw to kreatywny prezent urodzinowy lub halloweenowy dla dziewczynek, ch�
 **Zapraszamy na pozostałe nasze aukcje, dużo ciekawych ofert w atrakcyjnych supercenach!**
 
 #44278
+
+**Galeria:**
+
+- 76786-1: https://a.allegroimg.com/original/11f015/08ad796a4227911ac6b82ed1df5d
 
 ---
 

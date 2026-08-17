@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Indiana Jones — opisy produktowe (11 pozycji)
 
-## 30091 — Lego Pharaoh's Quest 30091 Desert Rover saszetka z klockami unikat
+## 30091 — Desert Rover
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702014807402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30091 |
+| Nazwa angielska | Desert Rover |
+| Nazwa polska | Desert Rover |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014807402 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30091-1: https://a.allegroimg.com/original/11b8bd/8ff4d2bf451ba3ece1e92e7dbf63
+
 ---
 
-## 7070 — Lego Pirates: 7070 Tratwa z katapultą
+## 7070 — Tratwa z katapultą
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014363250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7070 |
+| Nazwa angielska | Catapult Raft |
+| Nazwa polska | Tratwa z katapultą |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2004 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014363250 |
 
 Lego Pirates: 7070 - Tratwa z katapultą. Nowy, nieotwierany unikat z 2004 roku.
 
@@ -47,11 +72,26 @@ O produkcie:
 
 Lego Pirates: 7070 - Tratwa z katapultą to zestaw klocków dla dzieci w wieku 4 lat i starszych. Składa się on z 22 elementów, w tym tratwy z katapultą. Zestaw pozwala na rozwijanie wyobraźni i umiejętności manualnych. Marka LEGO zapewnia wysoką jakość produktu oraz bezpieczeństwo podczas zabawy. Tratwa z katapultą, która jest częścią zestawu, pozwoli dziecku na kreatywną zabawę w piratów. Zestaw jest przeznaczony zarówno dla chłopców, jak i dziewcząt. Lego Pirates: 7070 - Tratwa z katapultą to idealny prezent dla małych miłośników klocków LEGO.
 
+**Galeria:**
+
+- 7070-1: https://a.allegroimg.com/original/11d4a9/165b243a407baed626ce942b425d
+
 ---
 
-## 7316 — Zestaw Lego Space: Life on Mars 7316 Excavation Searcher Nowy Misb 2001
+## 7316 — Poszukiwacz meteorów
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 750.00 zł · EAN: 00042884073169 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7316 |
+| Nazwa angielska | Excavation Searcher |
+| Nazwa polska | Poszukiwacz meteorów |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884073169 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO.
 
@@ -72,11 +112,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 7316-1: https://a.allegroimg.com/original/11c62c/376f21cf4852b025ff4b035e5f90
+
 ---
 
-## 7625 — Lego Indiana Jones 7625 Obława w rzece
+## 7625 — Obława w rzece
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 1089.00 zł · EAN: 00673419102995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7625 |
+| Nazwa angielska | River Chase |
+| Nazwa polska | Obława w rzece |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419102995 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -100,11 +155,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7625-1: https://a.allegroimg.com/original/11aa38/00fd1b3941cfa4ae4d799f0e1fe7
+
 ---
 
-## 7626 — Lego Indiana Jones 7626 Jungle Cutter
+## 7626 — Jungle Cutter
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702014521209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7626 |
+| Nazwa angielska | Jungle Cutter |
+| Nazwa polska | Jungle Cutter |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 511 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014521209 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -128,11 +198,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7626-1: https://a.allegroimg.com/original/113696/90a87eef400e817a2d681a47f2ce
+
 ---
 
-## 7627 — Lego Indiana Jones 7627 Świątynia Czaszki
+## 7627 — Świątynia Czaszki
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702014521216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7627 |
+| Nazwa angielska | Temple of the Crystal Skull |
+| Nazwa polska | Świątynia Czaszki |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014521216 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -156,11 +241,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7627-1: https://a.allegroimg.com/original/11e5f3/1cd3588d4eff8cd39c4d83aa3fd0
+
 ---
 
-## 7628 — Lego Indiana Jones 7628 Peril in Peru
+## 7628 — Indiana Jones
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014522695 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7628 |
+| Nazwa angielska | Peril in Peru |
+| Nazwa polska | Indiana Jones |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 626 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014522695 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -184,11 +284,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7628-1: https://a.allegroimg.com/original/11ab69/12f0ce5945b291a324ca6c080f02
+
 ---
 
-## 7682 — Lego 7682 Indiana Jones Pościg w Szanghaju
+## 7682 — LEGO 7682 Indiana Jones - Pościg w Szanghaju
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 1449.00 zł · EAN: 05702014533721 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7682 |
+| Nazwa angielska | Shanghai Chase |
+| Nazwa polska | LEGO 7682 Indiana Jones - Pościg w Szanghaju |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533721 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -212,11 +327,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7682-1: https://a.allegroimg.com/original/119666/915bd9db42599e9499589645f557
+
 ---
 
-## 77012 — Zestaw Lego Indiana Jones 77012 Pościg Myśliwcem Za Kabrioletem
+## 77012 — Klocki LEGO Indiana Jones 77012 Pościg myśliwcem
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 214.00 zł · EAN: 05702017190457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77012 |
+| Nazwa angielska | Fighter Plane Chase |
+| Nazwa polska | Klocki LEGO Indiana Jones 77012 Pościg myśliwcem |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702017190457 |
 
 ZESTAW LEGO INDIANA JONES - 77012 - POŚCIG MYŚLIWCEM ZA KABRIOLETEM
 
@@ -254,11 +384,26 @@ Zestaw zawiera trzy minifigurki: Indianę Jonesa z jego charakterystycznym bicze
 
 Zestaw LEGO Indiana Jones 77012 to doskonały wybór dla dzieci od 8 lat oraz wszystkich fanów filmowej serii przygód słynnego archeologa. Zestaw łączy w sobie budowanie, akcję i kreatywne odgrywanie ról, dzięki czemu zapewnia długie godziny angażującej zabawy. To także świetny sposób, by rodzice mogli wspólnie z dziećmi odkrywać kultowe historie z filmów i budować własne wersje dynamicznych pościgów. Dzięki swojej funkcjonalności, kompaktowym wymiarom i filmowemu klimatowi zestaw świetnie sprawdzi się jako prezent urodzinowy, świąteczny lub po prostu niespodzianka bez okazji. To model, który łączy klasyczne LEGO z emocjami znanymi z wielkiego ekranu, dlatego będzie trafionym wyborem dla każdego młodego odkrywcy i fana przygód.
 
+**Galeria:**
+
+- 77012-1: https://a.allegroimg.com/original/11a4f2/4bb0b0cd41c5a600404f64d57f4e
+
 ---
 
-## 77013 — Lego Indiana Jones 77013 Ucieczka z zaginionego grobowca
+## 77013 — Ucieczka z zaginionego grobowca
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017190464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77013 |
+| Nazwa angielska | Escape from the Lost Tomb |
+| Nazwa polska | Ucieczka z zaginionego grobowca |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 600 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 21 cm |
+| EAN | 5702017190464 |
 
 **LEGO Indiana Jones 77013 - Ucieczka z zaginionego grobowca**
 
@@ -282,11 +427,26 @@ Pełen akcji zestaw z Indianą Jonesem™ — dzięki temu interaktywnemu zestaw
  
 • Testowane pod kątem bezpieczeństwa — klocki do budowania LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 77013-1: https://a.allegroimg.com/original/1145cc/48043cad4c69b9d8b4b5cd6dbaf4
+
 ---
 
-## 77015 — Klocki Lego Indiana Jones 77015 Świątynia złotego posążka Poszukiwacze
+## 77015 — Świątynia złotego posążka
 
-*Kategoria: Pozostałe serie > Indiana Jones · cena Allegro (2026-08-17): 790.00 zł · EAN: 05702017190488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77015 |
+| Nazwa angielska | Temple of the Golden Idol |
+| Nazwa polska | Świątynia złotego posążka |
+| Seria | Pozostałe serie > Indiana Jones |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1545 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 51 cm × gł. 19 cm |
+| EAN | 5702017190488 |
 
 LEGO Indiana Jones 77015 Świątynia Złotego Idola
  
@@ -312,6 +472,10 @@ Ten zestaw konstrukcyjny LEGO Indiana Jones pozwoli dorosłym przypomnieć sobie
 - Emocjonujące przygody Indiany Jonesa™ — zestawy LEGO® Indiana Jones™ pozwalają rodzicom zagłębić się we wspomnieniach, a także wprowadzić dzieci w pełne akcji historie z pierwszych trzech filmów 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić 
 - Testowane pod kątem bezpieczeństwa — klocki do budowania LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
+
+**Galeria:**
+
+- 77015-1: https://a.allegroimg.com/original/0514bd/306852184c77ac7328802efd7e01
 
 ---
 

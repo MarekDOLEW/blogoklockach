@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > KPop Demon Hunters — opisy produktowe (1 pozycji)
 
-## 72537 — Lego Kpop Demon Hunters Tygrys Derpy i Sroka Sussie 72537
+## 72537 — Tygrys Derpy i Sroka Sussie
 
-*Kategoria: Pozostałe serie > KPop Demon Hunters · cena Allegro (2026-08-17): 233.87 zł · EAN: 05702018262153 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72537 |
+| Nazwa angielska | Derpy Tiger and Sussie Bird |
+| Nazwa polska | Tygrys Derpy i Sroka Sussie |
+| Seria | KPop Demon Hunters |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 825 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 15 cm |
+| EAN | 5702018262153, 5702018314777 |
 
 LEGO KPOP DEMON HUNTERS - Tygrys Derpy i Sroka Sussie 72537
  
@@ -37,6 +47,11 @@ Buduj z większą pewnością siebie, korzystając z aplikacji LEGO Builder, w k
 - POMOC W BUDOWANIU - odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności 
 - DO ZABAWY I OZDOBY - ten zestaw LEGO KPop Demon Hunters umożliwia dzieciom zbudowanie i zabawę ulubionymi postaciami. Po skończonej zabawie mogą z dumą wyeksponować filmowy model 
 - WYMIARY - ten 825-elementowy zestaw zawierający postać Derpy’ego ze sroką na głowie ma 21 cm wysokości, 15 cm długości i 15 cm szerokości
+
+**Galeria:**
+
+- 72537-1: https://a.allegroimg.com/original/11ad7b/9d2e45ed4560bea0771058d8e41c
+- 72537-2: https://a.allegroimg.com/original/11b4cf/1a3e179943a8b04a1979fcb52a83
 
 ---
 

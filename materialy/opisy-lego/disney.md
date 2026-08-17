@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Disney — opisy produktowe (210 pozycji)
+# LEGO Disney — opisy produktowe (205 pozycji)
 
-## 10773 — Lego Disney Sklep z lodami Myszki Minnie 10773
+## 10773 — Obchod se zmrzlinou Minnie Mouse
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702016913132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10773 |
+| Nazwa angielska | Minnie Mouse's Ice Cream Shop |
+| Nazwa polska | Obchod se zmrzlinou Minnie Mouse |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 8 cm |
+| EAN | 5702016913132 |
 
 Wyjmij lody z zamrażarki i pomóż Minnie zaserwować pyszne rożki i smakowite koktajle mleczne. Potem pomóż Kaczuszce Daisy wybrać ulubiony smak lodów i zjeść je na plaży. Zobacz, jaki uroczy krab na falach! Kaczuszka Daisy też z chęcią trochę posurfuje, zanim wróci do domu swoim fajnym samochodem.
 
@@ -24,11 +35,27 @@ Wyjmij lody z zamrażarki i pomóż Minnie zaserwować pyszne rożki i smakowite
 - Elementy LEGO® spełniają surowe branżowe standardy jakości. Dzięki temu maluchy mogą za każdym razem z łatwością chwycić i połączyć klocki — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby na pewno spełniały rygorystyczne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10773-1: https://a.allegroimg.com/original/05d59b/0dcd254a44c78c7e8c9a1fe77609
+
 ---
 
-## 10774 — Lego Disney 10774 Kosmiczna rakieta Myszki Miki i Minnie
+## 10774 — Kosmiczna rakieta Myszki Miki i Minnie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 174.50 zł · EAN: 05702016913149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10774 |
+| Nazwa angielska | Mickey Mouse & Minnie Mouse's Space Rocket |
+| Nazwa polska | Kosmiczna rakieta Myszki Miki i Minnie |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 7 cm |
+| EAN | 5702016913149 |
 
 Zestaw LEGO® ǀ Disney Mickey and Friends Kosmiczna rakieta Myszki Miki i Minnie (10774) rozwinie wyobraźnię każdego malucha. W komplecie znajdziesz otwieraną rakietę i stację kosmiczną, dzięki którym czterolatki i starsze dzieci mogą dołączyć do kosmicznych przygód Myszki Miki i Minnie.
 
@@ -52,11 +79,27 @@ Zestawy 4+ to świetna okazja dla dorosłych do wspólnej zabawy w budowanie z d
 - Elementy LEGO® spełniają surowe branżowe standardy jakości. Dzięki temu maluchy mogą za każdym razem z łatwością chwycić i połączyć klocki — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby na pewno spełniały rygorystyczne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10774-1: https://a.allegroimg.com/original/05aa1a/ccc8f7584ea3b2e10f93515aad8f
+
 ---
 
-## 10775 — Lego 10775 Disney Farma Mikiego i Donalda
+## 10775 — Farma Mikiego i Donalda
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 218.19 zł · EAN: 05702016913156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10775 |
+| Nazwa angielska | Mickey Mouse & Donald Duck's Farm |
+| Nazwa polska | Farma Mikiego i Donalda |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 12 cm |
+| EAN | 5702016913156 |
 
 LEGO 10775 Disney - Farma Mikiego i Donalda
 
@@ -86,11 +129,26 @@ Zestawy 4+ to świetna okazja dla dorosłych do wspólnej zabawy w budowanie z d
 
 LEGO 10775
 
+**Galeria:**
+
+- 10775-1: https://a.allegroimg.com/original/11b9cc/620db9914dac9240305eed56be98
+
 ---
 
-## 10776 — Lego 10776 Disney Remiza i wóz strażacki Myszki Miki i przyjaciół
+## 10776 — Remiza i wóz strażacki Myszki Miki i przyjaciół
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 177.00 zł · EAN: 05702016913705 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10776 |
+| Nazwa angielska | Mickey & Friends Fire Truck & Station |
+| Nazwa polska | Remiza i wóz strażacki Myszki Miki i przyjaciół |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 24 cm |
+| EAN | 5702016913705 |
 
 Myszka Miki i Myszka Minnie Disneya to dzielni strażacy. Odwiedź ich remizę i zobacz rewelacyjny wóz strażacki, zjedź w dół po rurze, a potem rozejrzyj się ze szczytu wieży. Czy to dym? O nie, pali się grill Goofy’ego! Wskakuj do wozu strażackiego i pędź na pomoc. Ustaw drabinę, by ugasić ogień z góry. Pluto, uważaj na swoją kość! Gaszenie ognia to ciężka praca, czas na przerwę — i hot doga!
 
@@ -112,11 +170,27 @@ Fajny zestaw LEGO® ǀ Disney Mickey and Friends Remiza i wóz strażacki Myszki
  
 • Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby na pewno spełniały rygorystyczne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10776-1: https://a.allegroimg.com/original/252021/0a9e72dc49ea9f1d5fd266894a35
+
 ---
 
-## 10777 — Lego Disney 10777 Myszka Miki i Myszka Minnie na biwaku
+## 10777 — Myszka Miki i Myszka Minnie na biwaku
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702017152363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10777 |
+| Nazwa angielska | Mickey and Minnie's Camping Trip |
+| Nazwa polska | Myszka Miki i Myszka Minnie na biwaku |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017152363 |
 
 Bohaterowie Disneya Myszka Miki i Myszka Minnie wyruszają na biwak. Pomóż im spakować potrzebne rzeczy. Pamiętaj o wszystkim! Podepnij przyczepę do samochodu i w drogę. Chodź, Pluto – ty też z nami jedziesz! Dotrzyj na kemping i pomóż Mikiemu i Minnie rozbić obóz. Odkryj okolicę z Pluto, a następnie rozpal ognisko i rozsiądź się, bo nadszedł czas na pyszne przekąski!
 
@@ -148,11 +222,27 @@ Zestaw konstrukcyjny dla dzieci w wieku od 4 lat to świetna rozrywka dla doros�
 - Niezmienna jakość – elementy LEGO® spełniają rygorystyczne standardy branżowe już od 1958 roku, dzięki czemu są jednolite, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić 
 - Bezpieczna zabawa – Zestawy LEGO® ǀ Disney Mickey and Friends są testowane na wszystkie możliwe sposoby, więc możesz mieć pewność, że spełniają rygorystyczne standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10777-1: https://a.allegroimg.com/original/0512ae/35d73cf64e2ab1b73c5b9c240b93
+
 ---
 
-## 10778 — Lego 10778 Disney Miki, Minnie i Goofy w wesołym miasteczku
+## 10778 — LEGO 10778 Disney - Miki, Minnie i Goofy w wesołym miasteczku
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702017153476 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10778 |
+| Nazwa angielska | Mickey, Minnie and Goofy's Fairground Fun |
+| Nazwa polska | LEGO 10778 Disney - Miki, Minnie i Goofy w wesołym miasteczku |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153476 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -168,11 +258,27 @@ Numer magazynowy sprzedawcy: 20260102
 
 Przybliżone wymiary opakowania:** 35,4 x 7 x 19,1 cm**
 
+**Galeria:**
+
+- 10778-1: https://a.allegroimg.com/original/1151ac/56451b1f40988f29d95a49528a30
+
 ---
 
-## 10780 — Lego 10780 Disney Miki i przyjaciele obrońcy zamku
+## 10780 — LEGO 10780 Disney - Miki i przyjaciele - obrońcy zamku
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 260.00 zł · EAN: 05702017153483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10780 |
+| Nazwa angielska | Mickey and Friends Castle Defenders |
+| Nazwa polska | LEGO 10780 Disney - Miki i przyjaciele - obrońcy zamku |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 25 cm × gł. 6 cm |
+| EAN | 5702017153483 |
 
 Przeżyj fantastyczną przygodę na zamku z Myszką Miki Disneya i jego przyjaciółmi. Zawieź siano do zamku wozem zaprzężonym w konia. A co robi ten smok? Ukradł skarb! Pomóż Mikiemu i Minnie odwrócić uwagę smoka, wystrzeliwując w niego jedzenie, a Kaczka Daisy i Kaczor Donald odzyskają w tym czasie skrzynię ze skarbem. Och, czy to magiczny klucz? Może otworzy skrzynię i zobaczymy, co jest w środku!
 
@@ -197,11 +303,26 @@ Zestaw konstrukcyjny dla dzieci w wieku od 4 lat to świetna rozrywka dla doros�
 - Świetny prezent dla dzieci w wieku od 4 lat – Fani Myszki Miki Disneya, którzy uwielbiają zamki, smoki i nowości, pokochają ten zestaw. Zaskocz dziecko tym kreatywnym prezentem, który dostarczy im wielogodzinnej rozrywki 
 - Zabawka i ozdoba – przód zamku i wieże mają 18 cm wysokości, 25 cm szerokości i 6 cm głębokości, więc świetnie nadają się do zabawy lub umieszczenia na półce
 
+**Galeria:**
+
+- 10780-1: https://a.allegroimg.com/original/110e43/a7d799d24b5db889ab40e4b450e8
+
 ---
 
-## 11209 — Lego Marvel Ultron kontra Iron Man 11209
+## 11209 — Ultron kontra Iron Man
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 56.98 zł · EAN: 05702018069462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11209 |
+| Nazwa angielska | Ultron vs. Iron Man |
+| Nazwa polska | Ultron kontra Iron Man |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 96 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069462 |
 
 **LEGO Marvel Ultron kontra Iron Man 11209**
 
@@ -225,11 +346,26 @@ Zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzają je w świat twór
 
 Zestaw konstrukcyjny z mechem składa się z 96 elementów i ma 12 cm wysokości
 
+**Galeria:**
+
+- 11209-1: https://a.allegroimg.com/original/116531/828538db40c0beb39204c036997f
+
 ---
 
-## 11211 — Lego Disney Junior Marvel 11211 Loki kontra drużyna Iron Mana
+## 11211 — Loki kontra drużyna Iron Mana
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 162.11 zł · EAN: 05702018069479 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11211 |
+| Nazwa angielska | Loki vs. Team Iron Man |
+| Nazwa polska | Loki kontra drużyna Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 204 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069479 |
 
 LEGO Disney Junior Marvel 11211 Loki kontra drużyna Iron Mana
 
@@ -247,11 +383,26 @@ Zestaw LEGO® ǀ Marvel przedstawia Iron Mana, Iron Hulka i Ironheart współpra
 - Zestaw dla maluchów — zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzą Twoje dziecko w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego.
 - Wymiary — podaruj małym wielbicielom Iron Mana epickie przygody dzięki 204-elementowemu zestawowi z mechem Iron Hulka, który ma 11 cm wysokości.
 
+**Galeria:**
+
+- 11211-1: https://a.allegroimg.com/original/115731/c64fc2134df1b5d027ff0de8d068
+
 ---
 
-## 30120 — Nowy Lego Auta Cars Guido 30120 Misb 2011
+## 30120 — Guido
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 145.99 zł · EAN: 05702014772762 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30120 |
+| Nazwa angielska | Guido |
+| Nazwa polska | Guido |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014772762 |
 
 Cześć!
 
@@ -269,11 +420,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30120-1: https://a.allegroimg.com/original/11b565/028ec6eb4751adb7e4be1a201ba9
+
 ---
 
-## 30397 — Lego Disney 30397 Letnia zabawa Olafa
+## 30397 — Lego 30397 Kraina Lodu Olaf Na Wakacjach
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015607957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30397 |
+| Nazwa angielska | Olaf's Summertime Fun |
+| Nazwa polska | Lego 30397 Kraina Lodu Olaf Na Wakacjach |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015607957 |
 
 **LEGO Disney 30397 Letnia zabawa Olafa**
 
@@ -285,11 +452,27 @@ To niewielki zestaw typu polybag, dlatego jego budowanie nie zajmuje dużo czasu
 
 **Kategoria wiekowa:** 5–12 lat
 
+**Galeria:**
+
+- 30397-1: https://a.allegroimg.com/original/11bd2d/20f8ec234ee1b89994c6c412c913
+
 ---
 
-## 30551 — Lego Disney 30551 Kuchnia Kopciuszka saszetka z klockami minifigurka
+## 30551 — Kuchnia Kopciuszka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015876698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30551 |
+| Nazwa angielska | Cinderella's Kitchen |
+| Nazwa polska | Kuchnia Kopciuszka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876698 |
 
 Witam
 
@@ -307,11 +490,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30551-1: https://a.allegroimg.com/original/115c6f/635b3bce47d38eb57439c4ac64fc
+
 ---
 
-## 30552 — Lego 30552 Disney Podwodna symfonia Arielki Polybag 2018 rok
+## 30552 — Arielka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702016123104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30552 |
+| Nazwa angielska | Ariel's Underwater Symphony |
+| Nazwa polska | Arielka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123104 |
 
 Podwodna symfonia Arielki
 
@@ -323,11 +522,27 @@ Polybagi ze względu na czas i sposób przechowywania mają różny stan wygniec
 
 Klocki nigdy nie wyciągane.
 
+**Galeria:**
+
+- 30552-1: https://a.allegroimg.com/original/111477/5399cc004244b1cd91b674fef5ab
+
 ---
 
-## 30553 — Lego Disney 30553 Zimowy Tron Elzy saszetka z klockami minifigurka
+## 30553 — Zimowy Tron Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702016374681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30553 |
+| Nazwa angielska | Elsa's Winter Throne |
+| Nazwa polska | Zimowy Tron Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374681 |
 
 Witam
 
@@ -343,11 +558,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30553-1: https://a.allegroimg.com/original/1122f0/d563539d4c36a4462e67cd37c9a6
+
 ---
 
-## 30554 — Lego Disney 30554 Mini Zamek Księżniczki saszetka z klockami minifigurka
+## 30554 — Mini Zamek Księżniczki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 52.00 zł · EAN: 05702016669398 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30554 |
+| Nazwa angielska | Cinderella Mini Castle |
+| Nazwa polska | Mini Zamek Księżniczki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016669398 |
 
 Witam
 
@@ -363,11 +594,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30554-1: https://a.allegroimg.com/original/1192bb/de8163364b00a854a554c2275677
+
 ---
 
-## 30558 — Lego Disney 30558 Raya, Ongi i wielka przygoda
+## 30558 — Raya, Ongi i wielka przygoda
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 39.90 zł · EAN: 05702016915990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30558 |
+| Nazwa angielska | Raya and the Ongi's Heart Lands Adventure |
+| Nazwa polska | Raya, Ongi i wielka przygoda |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915990 |
 
 LEGO Klocki Disney 
  
@@ -392,11 +639,27 @@ Specyfikacja techniczna
 - **Płeć**: Dla dziewczynek, Dla chłopców 
 - **Ilość elementów**: 49 elementów
 
+**Galeria:**
+
+- 30558-1: https://a.allegroimg.com/original/1135d7/32ac450e4f5d8480ec73c0d546c5
+
 ---
 
-## 30559 — Lego 30559 Disney Leśny biwak Elzy i Bruni
+## 30559 — LEŚNY BIWAK ELZY I BRUNI
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017155753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30559 |
+| Nazwa angielska | Elsa and Bruni's Forest Camp |
+| Nazwa polska | LEŚNY BIWAK ELZY I BRUNI |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155753 |
 
 LEGO 30559 Disney Leśny biwak Elzy i Bruni
 
@@ -408,11 +671,27 @@ Klocki LEGO 30559 Leśny biwak Elzy i Bruni
 
  Numer EAN zestawu klocków LEGO 30559 to: **5702017155753** .
 
+**Galeria:**
+
+- 30559-1: https://a.allegroimg.com/original/119ec6/5d6fc60740418cab727af794d230
+
 ---
 
-## 30646 — Lego 30646 Vaiana I Zatoka Delfinów
+## 30646 — VAIANA I ZATOKA DELFINÓW
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 29.49 zł · EAN: 05702017425092 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30646 |
+| Nazwa angielska | Moana's Dolphin Cove |
+| Nazwa polska | VAIANA I ZATOKA DELFINÓW |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017425092 |
 
 **Lego Klocki Disney Princess 30646 Vaiana i zatoka delfina**
  
@@ -429,11 +708,26 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 Symbol: WPLEGS0UFD30646
 
+**Galeria:**
+
+- 30646-1: https://a.allegroimg.com/original/116138/8f8c12684524ac4edc7938c805a3
+
 ---
 
-## 30661 — Saszetka Polybag Klocki Lego Disney 30661 Budka powitalna Ashy
+## 30661 — Budka powitalna Ashy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 11.02 zł · EAN: 05702017591056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30661 |
+| Nazwa angielska | Asha's Welcome Booth |
+| Nazwa polska | Budka powitalna Ashy |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591056 |
 
 Klocki Disney Princess 30661 Budka powitalna Ashy
 
@@ -484,11 +778,27 @@ Parametry
 - **seria**: Disney
 - **Wymagania wiekowe**: od 6 lat
 
+**Galeria:**
+
+- 30661-1: https://a.allegroimg.com/original/05f3c7/25f0e9c94e678103209722b74a11
+
 ---
 
-## 30671 — Lego(r) Disney 30671 Leśny Plac Zabaw Aurory
+## 30671 — Leśny plac zabaw Aurory
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 19.89 zł · EAN: 05702017591612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30671 |
+| Nazwa angielska | Aurora's Forest Playground |
+| Nazwa polska | Leśny plac zabaw Aurory |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591612 |
 
 Lego
 
@@ -503,11 +813,26 @@ LEGO(R) DISNEY 30671 Leśny plac zabaw Aurory
 
 Zestaw klocków LEGO Disney Leśny plac zabaw Aurory 30671 składa się z 60 klocków LEGO(R). W zestawie klocków znajdziesz też 1 minifigurkę. Klocki przeznaczone są dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 30671-1: https://a.allegroimg.com/original/110ebc/87d3bdd941f7af7df958b0ac5f56
+
 ---
 
-## 30695 — Lego 30695 Disney Miniaturowy zamek Kopciuszka z ogrodem
+## 30695 — Miniaturowy zamek Kopciuszka z ogrodem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017819419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30695 |
+| Nazwa angielska | Cinderella's Mini Garden Castle |
+| Nazwa polska | Miniaturowy zamek Kopciuszka z ogrodem |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819419 |
 
 LEGO Disney 30695 Miniaturowy zamek Kopciuszka z ogrodem Super Zestaw 52 El
  
@@ -546,11 +871,27 @@ LEGO Disney 30695 Miniaturowy zamek Kopciuszka z ogrodem Super Zestaw 52 El
  
 - **Elementy zestawów LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują.**
 
+**Galeria:**
+
+- 30695-1: https://a.allegroimg.com/original/11f52e/d1fd735e4ad1955e3633eaff9d5f
+
 ---
 
-## 40361 — Lego Disney 40361 Sanie Olafa Frozen Kraina Lodu
+## 40361 — sanie olafa
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016381061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40361 |
+| Nazwa angielska | Olaf's Traveling Sleigh |
+| Nazwa polska | sanie olafa |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016381061 |
 
 Klocki LEGO Disney 40361 - Sanie Olafa
 
@@ -558,11 +899,27 @@ Twoje dziecko czeka lawina radosnych chwil, gdy razem z uwielbianym przez wszyst
 
 Zestaw LEGO Disney - Sanie Olafa trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 40361. Zawiera 97 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Disney - Olaf's Traveling Sleigh. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 40361-1: https://a.allegroimg.com/original/113259/63dd6aa3401587d26a80ec6b1d87
+
 ---
 
-## 40388 — Lego Zestaw do przebieranek dla minilaleczek 40388
+## 40388 — Zestaw do przebieranek dla minilaleczek
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 65.99 zł · EAN: 00673419288132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40388 |
+| Nazwa angielska | Mini Doll Dress-Up Kit |
+| Nazwa polska | Zestaw do przebieranek dla minilaleczek |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419288132 |
 
 Klocki LEGO Disney 40388 - Zestaw do przebieranek dla minilaleczek
  
@@ -572,11 +929,27 @@ Z Zestawem do przebieranek dla minilaleczek LEGO® l Disney wystroisz swoje mini
 - Doskonałe uzupełnienie zestawów zabawek LEGO® l Disney. 
 - Połącz ten zestaw z Zestawem zamkowych mebli 40307, a zabawa modelami LEGO® l Disney stanie się jeszcze ciekawsza!
 
+**Galeria:**
+
+- 40388-1: https://a.allegroimg.com/original/110902/7ab0ba6949d1a3e4186296e3656a
+
 ---
 
-## 40478 — Lego 40478 Disney Miniaturowy zamek Disneya
+## 40478 — Miniaturowy zamek Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 199.90 zł · EAN: 05702016995916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40478 |
+| Nazwa angielska | Mini Disney Castle |
+| Nazwa polska | Miniaturowy zamek Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 567 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 14 cm × gł. 13 cm |
+| EAN | 5702016995916 |
 
 **LEGO Miniaturowy zamek Disneya 40478**
 
@@ -590,11 +963,27 @@ Zestaw LEGO® ǀ Disney 40478 Miniaturowy zamek Disneya idealnie nadaje się do 
 
 LEGO to kultowa duńska marka, która od dekad łączy pokolenia, inspirując do kreatywnego budowania zarówno dzieci, jak i dorosłych. Słynie z bezkompromisowej jakości, niezwykłej precyzji wykonania oraz rygorystycznych standardów bezpieczeństwa, dzięki czemu elementy sprzed lat idealnie pasują do współczesnych zestawów. Wybierając oryginalne produkty LEGO, inwestujesz w wielogodzinną, rozwijającą wyobraźnię zabawę, a dla wielu pasjonatów – w wartościowy element kolekcjonerski.
 
+**Galeria:**
+
+- 40478-1: https://a.allegroimg.com/original/117bfd/c35e4af94452b0db2286c1258823
+
 ---
 
-## 40521 — Lego 40521 Disney Miniaturowa nawiedzona rezydencja Disneya Halloween
+## 40521 — Miniaturowa nawiedzona rezydencja Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702017241159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40521 |
+| Nazwa angielska | Mini Disney The Haunted Mansion |
+| Nazwa polska | Miniaturowa nawiedzona rezydencja Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 680 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241159 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -604,11 +993,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 40521-1: https://a.allegroimg.com/original/1114d3/af96fc9641efb3c2c21af6be52a2
+
 ---
 
-## 40600 — Lego Disney 40600 Świętowanie stulecia Disneya
+## 40600 — Świętowanie stulecia Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702017471402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40600 |
+| Nazwa angielska | Disney 100 Years Celebration |
+| Nazwa polska | Świętowanie stulecia Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 31 cm × gł. 9 cm |
+| EAN | 5702017471402 |
 
 nr katalogowy produktu **- 40580**
 
@@ -621,11 +1026,27 @@ Zachwyć każde dziecko lub fana w wieku od ośmiu lat, wręczając mu prezent z
 - Niespodzianka na każdą okazję — każdy model ma klips, który można przymocować do zdjęć, a model ekranu ma projektor ze świecącym klockiem wyświetlającym Myszkę Miki. To wspaniały prezent dla fanów Disneya 
 - Wymiary — po połączeniu trzy modele mają 9 cm wysokości, 31 cm szerokości i 9 cm głębokości. Po ukończonej zabawie można je postawić na półce
 
+**Galeria:**
+
+- 40600-1: https://a.allegroimg.com/original/11d952/8e5bea364d5783c7d37c21c4fb0f
+
 ---
 
-## 40613 — Lego Disney 40613 Mały pałac Disneya w Agrabah Nowy Zestaw Lego!
+## 40613 — Mały pałac Disneya w Agrabah
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 129.98 zł · EAN: 05702017471235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40613 |
+| Nazwa angielska | Mini Disney Palace of Agrabah |
+| Nazwa polska | Mały pałac Disneya w Agrabah |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 506 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm × gł. 16 cm |
+| EAN | 5702017471235 |
 
 LEGO 40613 Disney - Mały pałac Disneya w Agrabah
 
@@ -645,11 +1066,27 @@ Ten kolekcjonerski minimodel przedstawia majestatyczny pałac z białymi wieżyc
  
 Wymiary — zestaw **ma 15 cm wysokości, 14 cm szerokości i 16 cm głębokości**
 
+**Galeria:**
+
+- 40613-1: https://a.allegroimg.com/original/11afb3/df0110c04873b1439442403966eb
+
 ---
 
-## 40659 — Lego 40659 Miniparowiec Willie
+## 40659 — LEGO 40659 Disney - Miniparowiec Willie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 177.00 zł · EAN: 05702017511351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40659 |
+| Nazwa angielska | Mini Steamboat Willie |
+| Nazwa polska | LEGO 40659 Disney - Miniparowiec Willie |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 424 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 11 cm |
+| EAN | 5702017511351 |
 
 Przedmiot w ofercie: LEGO 40659 Miniparowiec Willie.
 
@@ -667,11 +1104,27 @@ Zapraszam do zakupów.
 - Nutka nostalgii — ten zestaw z okazji 100. rocznicy powstania Disneya zawiera czarno-biały statek do zbudowania z obracającym się kołem łopatkowym i ruchomymi rurami parowymi, a także minifigurkę do zabawy w odgrywanie ról
 - Wymiary — ten parowiec do zbudowania ma 13 cm wysokości, 20 cm długości i 11 cm szerokości. W przerwach w zabawie, gdy nie płynie po rzece pełnej kreatywnych opowieści, wspaniale sprawdzi się jako ozdoba na półce
 
+**Galeria:**
+
+- 40659-1: https://a.allegroimg.com/original/11a4ae/fc30d5b441e6b1417ac2c32be63d
+
 ---
 
-## 40708 — Klocki Lego Disney 40708 Disney Mały zamek Arielki
+## 40708 — Mały zamek Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017596952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40708 |
+| Nazwa angielska | Mini Disney Ariel's Castle |
+| Nazwa polska | Mały zamek Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 557 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 14 cm × gł. 12 cm |
+| EAN | 5702017596952, 673419392808 |
 
 **Lego Disney 40708 "Mały zamek Arielki"**
 
@@ -692,11 +1145,28 @@ Fani zestawów Disney Princess i Małej Syrenki w wieku od 12 lat będą zachwyc
 - Zestaw z syrenką – podaruj ten kompaktowy zamek Arielki fanom filmu Mała Syrenka
 - Wymiary — ten 556-elementowy model ma 21 cm wysokości, 14 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 40708-1: https://a.allegroimg.com/original/1107ae/434a18ff4f998b2d7e15499de450
+- 40708-2: https://a.allegroimg.com/original/115337/3667165941ea98e51d7b7e5fb8ab
+
 ---
 
-## 40720 — Lego Disney 40720 Mały zamek Śpiącej Królewny Disneya
+## 40720 — Mały zamek Śpiącej Królewny Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 116.66 zł · EAN: 05702017597454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40720 |
+| Nazwa angielska | Mini Disney Sleeping Beauty Castle |
+| Nazwa polska | Mały zamek Śpiącej Królewny Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 14 cm × gł. 11 cm |
+| EAN | 5702017597454 |
 
 LEGO 40720 DISNEY
  
@@ -720,11 +1190,27 @@ Zachwyć 12-letnich i starszych fanów Disneya zestawem LEGO® Mały zamek Śpi�
 - Pomysł na prezent dla dzieci – zestaw ze Śpiącą Królewną to świetny prezent dla dzieci w wieku od 12 lat, a także dorosłych fanów Disneya i kolekcjonerów 
 - Wymiary — zestaw zawiera 528 elementów, a zamek mierzy 18 cm wysokości, 14 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 40720-1: https://a.allegroimg.com/original/11df53/830b22be4e30a062280e68c4abb7
+
 ---
 
-## 40774 — Lego 40774 Disney Sceny z klasycznych animacji Klocki Piękne
+## 40774 — Sceny z klasycznych animacji
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 94.99 zł · EAN: 05702017831039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40774 |
+| Nazwa angielska | Classic Animation Scenes |
+| Nazwa polska | Sceny z klasycznych animacji |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 12 cm × gł. 4 cm |
+| EAN | 5702017831039 |
 
 Uwaga! Zestaw przeceniony ponieważ opakowanie zewnętrzne posiada minimalne zagniecenia. Same klocki są w pełni nowe, pudełko posiada fabryczne plomby i nie było otwierane. Poniżej załączam zdjęcia:
 
@@ -760,11 +1246,26 @@ Zestaw zawiera telewizor w stylu retro z obrotowymi pokrętłami i antenami oraz
 
 - Wymiary — telewizor retro w tym 270-elementowym, kolekcjonerskim zestawie LEGO®** ma 17 cm wysokości, 12 cm szerokości i 4 cm głębokości**
 
+**Galeria:**
+
+- 40774-1: https://a.allegroimg.com/original/1102d9/4eb96e1745acb1309dded8fee0b3
+
 ---
 
-## 40920 — Lego Disney 40920 Królik Bugs
+## 40920 — Królik Bugs
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 189.95 zł · EAN: 05702018071120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40920 |
+| Nazwa angielska | Bugs Bunny |
+| Nazwa polska | Królik Bugs |
+| Seria | Seasonal |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 605 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071120 |
 
 LEGO 40920 Królik Bugs
 
@@ -804,11 +1305,27 @@ Czas na budowanie
 
 Złóż kultową postać klocek po klocku i dodaj swojej kolekcji odrobinę humoru - LEGO 40920 Królik Bugs to model, który przyciąga uwagę i wywołuje uśmiech.
 
+**Galeria:**
+
+- 40920-1: https://a.allegroimg.com/original/11d234/2e199da642cca70e6200cc1c2850
+
 ---
 
-## 41050 — Lego 41050 Disney Skarby Arielki Syrenka Florek Skrzynia Unikat
+## 41050 — Skarby Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 185.00 zł · EAN: 05702015124584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41050 |
+| Nazwa angielska | Ariel's Amazing Treasures |
+| Nazwa polska | Skarby Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124584 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -822,11 +1339,27 @@ Disney 41050 - Skarby Arielki
 
 Odkryj niesamowite skarby Arielki w przepięknym podwodnym świecie! Arielka najbardziej na świecie uwielbia swoją podwodną grotę! Właśnie tam trzyma wszystkie najcenniejsze skarby. Dołącz do Ariel i Florka zachwycających się cudowną skrzynią pełną skarbów, takich jak klejnoty, muzyka, piękne perły, a nawet lornetka.
 
+**Galeria:**
+
+- 41050-1: https://a.allegroimg.com/original/117100/9538e9c44066819303db1e30fb06
+
 ---
 
-## 41051 — Lego Disney 41051 Górskie gry Meridy Nowe
+## 41051 — Górskie gry Meridy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 472.00 zł · EAN: 05702015124591 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41051 |
+| Nazwa angielska | Merida's Highland Games |
+| Nazwa polska | Górskie gry Meridy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 4 cm |
+| EAN | 5702015124591 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -846,11 +1379,27 @@ Merida ćwiczy strzelanie z łuku, przygotowując się na górskie igrzyska! Ale
 - Zamek Meridy ma ok. 8 cm wysokości, 14 cm szerokości i 4 cm głębokości. 
 - Drzewo ma ok. 7 cm wysokości, 8 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 41051-1: https://a.allegroimg.com/original/117116/2e87b34141678c5960fb3f01ec05
+
 ---
 
-## 41052 — Lego 41052 Disney Pocałunek Arielki
+## 41052 — 41052
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702015124607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41052 |
+| Nazwa angielska | Ariel's Magical Kiss |
+| Nazwa polska | 41052 |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702015124607 |
 
 **LEGO Disney 41052**
 
@@ -873,11 +1422,27 @@ Pomóż Arielce znaleźć sposób na przełamanie zaklęcia! Zaczarowana syrenka
 - Laguna ma ok. 5 cm wysokości, 6 cm szerokości i 5 cm głębokości.
 - Łódka ma ok. 11 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 41052-1: https://c.allegroimg.com/original/00f4a4/d40eb13b40508fc2b7667267876c
+
 ---
 
-## 41053 — Lego Disney 41053 Kareta Kopciuszka Nowe
+## 41053 — 41053
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702015124614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41053 |
+| Nazwa angielska | Cinderella's Dream Carriage |
+| Nazwa polska | 41053 |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124614 |
 
 KLOCKI LEGO 41053 DISNEY PRINCESS
  
@@ -895,11 +1460,27 @@ Ilość figurek: 1
 
 Zabierz Kopciuszka zaczarowaną karocą na bal, który odbywa się na królewskim zamku! Przejedź się magiczną karocą Kopciuszka ciągnioną przez jej pięknego, białego konika! Potem odpocznij przy magicznej fontannie lub usiądź na ławce w ogrodzie, w którym rosną dynie i grzyby. W karocy Kopciuszka jest tajna skrzynia ze skarbem. Znajdziesz w niej klejnoty i różdżkę, która idealnie nadaje się do bajkowego czarowania.
 
+**Galeria:**
+
+- 41053-1: https://a.allegroimg.com/original/0314cb/c64db0b348a68d671f0c31b8215d
+
 ---
 
-## 41054 — Lego Disney 41054 Wieża Roszpunki Nowe
+## 41054 — Lego Disney: 41054 - Wieża Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 714.00 zł · EAN: 05702015124621 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41054 |
+| Nazwa angielska | Rapunzel's Creativity Tower |
+| Nazwa polska | Lego Disney: 41054 - Wieża Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702015124621 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -923,11 +1504,27 @@ Pomóż Arielce znaleźć sposób na przełamanie zaklęcia! Zaczarowana syrenka
 - Laguna ma ok. 5 cm wysokości, 6 cm szerokości i 5 cm głębokości. 
 - Łódka ma ok. 11 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 41054-1: https://a.allegroimg.com/original/11c362/975e615c4cc188fd4a6a7487886b
+
 ---
 
-## 41060 — Lego Disney 41060 Sypialnia w pałacu Śpiącej Królewny Nowe
+## 41060 — Sleeping Beauty's Royal Bedroom
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 307.00 zł · EAN: 05702015352413 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41060 |
+| Nazwa angielska | Sleeping Beauty's Royal Bedroom |
+| Nazwa polska | Sleeping Beauty's Royal Bedroom |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 4 cm × gł. 5 cm |
+| EAN | 5702015352413 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -950,11 +1547,27 @@ Odwiedź zamkową sypialnię księżniczki Aurory oraz nakarm marchewką jej fut
 - Wymiary łóżka: 7 cm wysokości, 4 cm szerokości i 5 cm głębokości 
 - Wymiary okna: 6 cm wysokości, 3 cm szerokości i 5 cm głębokości
 
+**Galeria:**
+
+- 41060-1: https://a.allegroimg.com/original/115bb1/a2c3ad75403fa252135845770ae2
+
 ---
 
-## 41061 — Lego Disney Princess Pałac Jaśminki 41061 Unikat 2015r.
+## 41061 — Klocki LEGO Disney Princess Pałac Jaśminki 41061
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702015352420 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41061 |
+| Nazwa angielska | Jasmine's Exotic Palace |
+| Nazwa polska | Klocki LEGO Disney Princess Pałac Jaśminki 41061 |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702015352420 |
 
 Klocki LEGO Disney Princess Pałac Jaśminki 41061
  
@@ -982,11 +1595,27 @@ W zestawie minilaleczka przedstawiająca księżniczkę Jaśminkę oraz tygrys R
  
 Temat: Disney Princess ,
 
+**Galeria:**
+
+- 41061-1: https://a.allegroimg.com/original/1190cc/297f553f4df8a74aa22857eaf080
+
 ---
 
-## 41062 — Lego 41062 Disney Błyszczący Lodowy Zamek Elzy Anna Olaf
+## 41062 — Błyszczący lodowy zamek Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702015352437 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41062 |
+| Nazwa angielska | Elsa's Sparkling Ice Castle |
+| Nazwa polska | Błyszczący lodowy zamek Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352437 |
 
 LEGO 41062 Disney | Błyszczący Lodowy Zamek Elzy | Anna Olaf.
 
@@ -994,11 +1623,27 @@ Wskocz na sanie z Anną i Olafem, by wybrać się z nimi na wycieczkę do piękn
 
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 41062-1: https://a.allegroimg.com/original/116dd9/44a25dbd41428a691bcfc40d3ff8
+
 ---
 
-## 41063 — Lego Disney 41063 Podmorski pałac Arielki
+## 41063 — Podmorski pałac Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015352444 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41063 |
+| Nazwa angielska | Ariel's Undersea Palace |
+| Nazwa polska | Podmorski pałac Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 379 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702015352444 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1022,11 +1667,27 @@ Klocki LEGO Disney 41063 - Podmorski pałac Arielki Wskocz w głąb wspaniałej 
  
 W zestawie minilaleczki przedstawiające Ariel i Alanę, a także krab Sebastian, rybka Florek oraz delfin Zawiera pałac z tajemną grotą, garderobą, klapą, zjeżdżalnią oraz otwieraną muszlą, która skrywa w sobie złote łoże Akcesoria to: mikrofon, pianino, trójząb, mapa, szkło powiększające, szminka, szczotka do włosów, ciasto, lizak, okulary, koralowiec, morska trawa, muszle i ozdobne naklejki Pomóż Ariel, Alanie i Sebastianowi zorganizować efektowny występ! Wejdź z księżniczkami do garderoby i zadbaj o ich wygląd przed występem Otwórz klapę i zjedź po zjeżdżalni Weź udział w magicznej podwodnej przygodzie z dwoma syrenimi siostrami i ich morskimi przyjaciółmi Wymiary podmorskiego pałacu: 23 cm wysokości, 25 cm szerokości i 12 cm głębokości Wymiary tajemnej groty: 5 cm wysokości, 4 cm szerokości i 3 cm głębokości
 
+**Galeria:**
+
+- 41063-1: https://a.allegroimg.com/original/1192f2/c74e94c241b1ba942ac8974481d5
+
 ---
 
-## 41065 — Lego Disney 41065 Najlepszy dzień Roszpunki Nowe
+## 41065 — DISNEY PRINCESS
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 356.26 zł · EAN: 05702015591683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41065 |
+| Nazwa angielska | Rapunzel's Best Day Ever |
+| Nazwa polska | DISNEY PRINCESS |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702015591683 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1047,11 +1708,27 @@ Najlepszy dzień Roszpunki to zestaw z serii LEGO® Disney Princess™. Pomóż 
 - Wieża księżniczki ma ok. 18 cm wysokości, 6 cm szerokości i 6 cm głębokości. 
 - Huśtawka ma ok. 8 cm wysokości, 11 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41065-1: https://a.allegroimg.com/original/111825/9ac566984398bae1f4832d4ac0f8
+
 ---
 
-## 41066 — Lego Disney 41066 Saneczkowa przygoda Anna Kristoff
+## 41066 — Saneczkowa przygoda Anna Kristoff
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 338.00 zł · EAN: 05702015591751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41066 |
+| Nazwa angielska | Anna & Kristoff's Sleigh Adventure |
+| Nazwa polska | Saneczkowa przygoda Anna Kristoff |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702015591751 |
 
 ZESTAW LEGO DISNEY PRINCESS - ANNA I KRISTTOFF SANECZKOWA PRZYGODA 
  
@@ -1079,11 +1756,27 @@ Znajdziesz tam minilaleczki Anny i Kristoffa oraz renifera Svena.
 - 10 cm wysokości, 10 cm szerokości i 5 cm grubości. 
 - Element stodoły ma ok. 6 cm wysokości, 10 cm szerokości i 4 cm grubości.
 
+**Galeria:**
+
+- 41066-1: https://a.allegroimg.com/original/11f88a/9679849e44ae9e7a9e3abbf90474
+
 ---
 
-## 41067 — Lego Disney 41067 Zaczarowany zamek Belli Nowe
+## 41067 — 41067
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 681.00 zł · EAN: 05702015591904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41067 |
+| Nazwa angielska | Belle's Enchanted Castle |
+| Nazwa polska | 41067 |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 17 cm × gł. 9 cm |
+| EAN | 5702015591904 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1103,11 +1796,27 @@ Odgrywaj klasyczne sceny z filmu Disneya „Piękna i Bestia”, bawiąc się ty
 - Ulubione disneyowskie postacie z filmu „Piękna i Bestia” zachęcają do wymyślania nowych przygód. 
 - Zaczarowany zamek Pięknej ma ok. 23 cm wysokości, 17 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 41067-1: https://a.allegroimg.com/original/112cb4/e0d6426f4d3aa99ad774c40ab5b0
+
 ---
 
-## 41068 — Lego Disney 41068 Uroczystość w zamku Arendelle
+## 41068 — Uroczystość w zamku Arendelle
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015591935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41068 |
+| Nazwa angielska | Arendelle Castle Celebration |
+| Nazwa polska | Uroczystość w zamku Arendelle |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 477 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591935 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1125,11 +1834,27 @@ Odgrywaj klasyczne sceny z filmu Disneya „Piękna i Bestia”, bawiąc się ty
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41068-1: https://a.allegroimg.com/original/0050fa/e966f88f49189e1a724d8eac2210
+
 ---
 
-## 41069 — Lego Disney Princess 41069 Dzień Skarbów nad Basenem Whisker Haven Kotek
+## 41069 — Dzień Skarbów nad Basenem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015591959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41069 |
+| Nazwa angielska | Treasure's Day at the Pool |
+| Nazwa polska | Dzień Skarbów nad Basenem |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 5 cm |
+| EAN | 5702015591959 |
 
 LEGO Disney Princess 41069 Dzień Skarbów nad Basenem
 
@@ -1150,11 +1875,27 @@ Zestaw LEGO® | Disney Whisker Haven Tales with the Palace Pets™ pozwala poba
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41069-1: https://a.allegroimg.com/original/11d92f/349d3dd64308833fd64ce8c75e1f
+
 ---
 
-## 41140 — Lego Disney 41140 Salon piękności Daisy Nowe
+## 41140 — 41140
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015591966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41140 |
+| Nazwa angielska | Daisy's Beauty Salon |
+| Nazwa polska | 41140 |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm × gł. 4 cm |
+| EAN | 5702015591966 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1173,11 +1914,27 @@ Zestaw LEGO® | Disney Whisker Haven with the Palace Pets™ pozwala pobawić si
 - Wymiary salonu Daisy: ok. 9cm wysokości, 11 cm szerokości i 4 cm głębokości.
 - Płytkę bazową podstawki lusterka można połączyć z zestawem 41142 Królewski zamek zwierzątek, co da ci jeszcze większe możliwości zabawy z pałacowymi ulubieńcami.
 
+**Galeria:**
+
+- 41140-1: https://a.allegroimg.com/original/11b421/e4e59d2d485c99af6587846661ad
+
 ---
 
-## 41141 — Lego Disney Princess 41141 Królewska Karoca z Dyni Whisker Haven Piesek
+## 41141 — Królewska Karoca z Dyni
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702015592277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41141 |
+| Nazwa angielska | Pumpkin's Royal Carriage |
+| Nazwa polska | Królewska Karoca z Dyni |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm |
+| EAN | 5702015592277 |
 
 LEGO Disney Princess 41141 Królewska Karoca z Dyni
 
@@ -1197,11 +1954,27 @@ Zestaw LEGO® | Disney Whisker Haven with the Palace Pets™ pozwala pobawić s
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41141-1: https://a.allegroimg.com/original/112e16/11cf74ec43009f6b5fdcd23310d0
+
 ---
 
-## 41143 — Lego Disney 41143 Klocki Lego Disney Kuchnia Jagódki 41143
+## 41143 — Klocki LEGO Disney Kuchnia Jagódki 41143
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 49.90 zł · EAN: 05702015866989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41143 |
+| Nazwa angielska | Berry's Kitchen |
+| Nazwa polska | Klocki LEGO Disney Kuchnia Jagódki 41143 |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm × gł. 3 cm |
+| EAN | 5702015866989 |
 
 Jagódka to królik Śnieżki, a jej kuchnia leży w samym środku lasu.
  
@@ -1227,11 +2000,27 @@ Czas rozpoczynać przyjęcie!
 - Wymiary kuchni Jagódki: ok. 7 cm wysokości, 14 cm szerokości i 3 cm głębokości 
 - Okienną wystawę i płytki bazowe bramy w drzewie można połączyć z zestawem 41142 Królewski zamek zwierzątek, co da Ci jeszcze większe możliwości zabawy z pałacowymi ulubieńcami.
 
+**Galeria:**
+
+- 41143-1: https://a.allegroimg.com/original/05e338/86f506e64a5ab7b7abef9b91018c
+
 ---
 
-## 41144 — Lego 41144 Disney Królewska stajnia Fuksji
+## 41144 — DISNEY PRINCESS
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 184.99 zł · EAN: 05702015867313 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41144 |
+| Nazwa angielska | Petite's Royal Stable |
+| Nazwa polska | DISNEY PRINCESS |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702015867313 |
 
 LEGO 41144 Disney - Królewska stajnia Fuksji
 
@@ -1247,11 +2036,27 @@ Wybierz się do królewskiej stajni na spotkanie z Fuksją, kucykiem Belli z kre
 - Zestaw odpowiedni dla dzieci w wieku od 5-12 lat.
 - Królewska stajnia Petite ma ok. 10 cm wysokości, 13 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41144-1: https://a.allegroimg.com/original/45e9a4/7a412d0d4e78b492376f68415c3b
+
 ---
 
-## 41145 — Lego Disney 41145 Arielka i magiczne zaklęcie
+## 41145 — Arielka i magiczne zaklęcie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 471.00 zł · EAN: 05702015867320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41145 |
+| Nazwa angielska | Ariel and the Magical Spell |
+| Nazwa polska | Arielka i magiczne zaklęcie |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702015867320 |
 
 Klocki LEGO Disney 41145 - Arielka i magiczne zaklęcie
  
@@ -1270,11 +2075,27 @@ Przesuń szklane drzwi i wejdź do jaskini Arielki z serii Disney Princess™. P
 - Grota Urszuli ma ok. 8 cm wysokości, 8 cm szerokości i 9 cm głębokości. 
 - Obrotowa podstawka ma ok. 9 cm wysokości, 7 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41145-1: https://3.allegroimg.com/original/000123/3e6d3745485a8d5fa9bb72ba5463
+
 ---
 
-## 41146 — Lego Disney 41146 Czarodziejski wieczór Kopciuszka Nowe
+## 41146 — Czarodziejski wieczór Kopciuszka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702015867337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41146 |
+| Nazwa angielska | Cinderella's Enchanted Evening |
+| Nazwa polska | Czarodziejski wieczór Kopciuszka |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702015867337 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1296,11 +2117,27 @@ Odtwórz sceny z popularnego filmu Disneya „Kopciuszek” z tym łatwym do zbu
 - Kareta Kopciuszka ma ok. 11 cm wysokości, 24 cm długości i 7 cm szerokości. 
 - Dom Kopciuszka ma ok. 14 cm wysokości, 11 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 41146-1: https://a.allegroimg.com/original/113a26/abf0314e415a9c66dbaaad85b4ac
+
 ---
 
-## 41147 — Lego Disney Frozen 41147 Śniegowa Przygoda Anny Koń Kraina Lodu Czekolada
+## 41147 — Śniegowa przygoda Anny
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702015867344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41147 |
+| Nazwa angielska | Anna's Snow Adventure |
+| Nazwa polska | Śniegowa przygoda Anny |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702015867344, 5702015926270 |
 
 LEGO Disney Princess FROZEN 41147 Śniegowa Przygoda Anny
 
@@ -1320,11 +2157,28 @@ Zrób sobie przerwę wraz z Anną i jej koniem!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41147-1: https://0.allegroimg.com/original/00c5f1/c4a4a0234ca086e627361121e110
+- 41147-2: https://a.allegroimg.com/original/032a9b/1b6b60ab4e409489697c536bb155
+
 ---
 
-## 41148 — Lego Disney Magiczny lodowy pałac Elsy 41148
+## 41148 — DISNEY PRINCESS
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015867351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41148 |
+| Nazwa angielska | Elsa's Magical Ice Palace |
+| Nazwa polska | DISNEY PRINCESS |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 701 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 30 cm × gł. 19 cm |
+| EAN | 5702015867351 |
 
 Klocki LEGO® Disney
 
@@ -1348,11 +2202,27 @@ W zestawie LEGO® Disney Whisker Haven Tales with the Palace Pets™ znajdziesz 
 - Plac zabaw ze śnieżną twierdzą ma ok. 6 cm wysokości, 20 cm szerokości i 4 cm głębokości.
 - Wymiary sań z wagonikami: ok. 12 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 41148-1: https://a.allegroimg.com/original/1115c7/7b194e2f4ea9b9a4905310118acc
+
 ---
 
-## 41149 — Lego Disney 41149 Przygoda Vaiany na wyspie
+## 41149 — Przygoda Vaiany na wyspie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 438.00 zł · EAN: 05702015867368 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41149 |
+| Nazwa angielska | Moana's Island Adventure |
+| Nazwa polska | Przygoda Vaiany na wyspie |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867368 |
 
 **Lego Disney Przygoda Vaiany na wyspie 41149**. Pomóż Vaianie odszukać serce Te Fiti, by jej przeznaczenie mogło się wypełnić! Zestaw Przygoda Vaiany na wyspie pozwoli Ci poznać wspaniały świat Vaiany z filmów Disneya. Odtwórz najlepsze sceny z filmu, na przykład tę, w której Vaiana poznaje legendy o swych przodkach, znajduje serce Te Fiti czy gra na bębnach w jaskini. Później możesz także wymyślać własne przygody i prowadzić wyspiarskie życie, mieszkając wraz z Vaianą i świnką Puą w chatce oraz wędrując po okolicy.
 
@@ -1386,11 +2256,27 @@ Nr katalogowy: 41149
  
 Ilość klocków w zestawie: 205
 
+**Galeria:**
+
+- 41149-1: https://c.allegroimg.com/original/00f0a5/cdc2de09430da862b8c860d2b66c
+
 ---
 
-## 41150 — Lego Disney 41150 Oceaniczna podróż Vaiany Nowe
+## 41150 — Oceaniczna podróż Vaiany
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 692.00 zł · EAN: 05702015867672 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41150 |
+| Nazwa angielska | Moana's Ocean Voyage |
+| Nazwa polska | Oceaniczna podróż Vaiany |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm |
+| EAN | 5702015867672 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1412,11 +2298,27 @@ Odkryj tętniący życiem świat z filmu Disneya i dołącz do Vaiany, która wy
 - Wymiary wyspy Te Fiti to ok 11 cm wysokości, 17 cm długości na 5 cm głębokości. 
 - Marzy Ci się więcej przygód z Vaianą? Sięgnij też po zestaw 41149 Przygoda Vaiany na wyspie.
 
+**Galeria:**
+
+- 41150-1: https://a.allegroimg.com/original/110ce9/05fe72854d5a88bcc3d0d406471e
+
 ---
 
-## 41152 — Lego Disney 41152 Bajkowy zamek Śpiącej Królewny
+## 41152 — Bajkowy zamek Śpiącej Królewny
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016111460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41152 |
+| Nazwa angielska | Sleeping Beauty's Fairytale Castle |
+| Nazwa polska | Bajkowy zamek Śpiącej Królewny |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111460 |
 
 **Lego 41152 Disney Bajkowy Zamek Śpiącej Królewny**
  
@@ -1460,11 +2362,27 @@ Klocki przeznaczone dla dzieci 6-12 lat.
  
 25 cm x 25 cm x 7 cm.
 
+**Galeria:**
+
+- 41152-1: https://a.allegroimg.com/original/004d45/bd5004e54056b6c4638b4a7493e9
+
 ---
 
-## 41153 — Lego Disney 41153 Uroczysta łódź Ariel Nowe
+## 41153 — Uroczysta łódź Ariel
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702016111675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41153 |
+| Nazwa angielska | Ariel's Royal Celebration Boat |
+| Nazwa polska | Uroczysta łódź Ariel |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 11 cm |
+| EAN | 5702016111675 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1487,11 +2405,27 @@ Zestaw LEGO® l Disney Uroczysta łódź Ariel zawiera wszystko, czego potrzeba,
 - Uroczysta łódź Ariel ma ok. 16 cm wysokości, 23 cm długości i 11 cm szerokości. 
 - Wysepka Sebastiana ma ok. 4 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41153-1: https://a.allegroimg.com/original/11deab/f243129541e88ea5dbaf4c87313a
+
 ---
 
-## 41154 — Lego Disney 41154 Wymarzony zamek Kopciuszka
+## 41154 — wymarzony zamek Kopciuszka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 525.00 zł · EAN: 05702016111682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41154 |
+| Nazwa angielska | Cinderella's Dream Castle |
+| Nazwa polska | wymarzony zamek Kopciuszka |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 585 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702016111682, 673419283137 |
 
 ZESTAW LEGO DISNEY PRINCESS 41154 WYMARZONY ZAMEK KOPCIUSZKA
 
@@ -1522,11 +2456,28 @@ Wymiary:
 - Wymarzony zamek Kopciuszka ma ok. 34 cm wysokości, 25 cm szerokości i 12 cm głębokości. 
 - Wóz (bez konia) ma ok. 4 cm wysokości, 9 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 41154-1: https://a.allegroimg.com/original/114d12/915afcc04fa4ada399465a8e027c
+- 41154-2: https://a.allegroimg.com/original/11c876/f80cceed4e26bd2cd6969d336d15
+
 ---
 
-## 41155 — Klocki Lego Przygoda Elsy na targu 125 elementów
+## 41155 — Przygoda Elsy na targu
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 128.00 zł · EAN: 05702016111699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41155 |
+| Nazwa angielska | Elsa's Market Adventure |
+| Nazwa polska | Przygoda Elsy na targu |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111699, 673419283144 |
 
 **41155 LEGO DISNEY PRZYGODA ELZY NA TARGU**
  
@@ -1545,11 +2496,28 @@ Załóż łyżwy i poślizgaj się trochę na lodzie! Zbuduj i przebudowuj zesta
  
 **Wiek: **5+
 
+**Galeria:**
+
+- 41155-1: https://a.allegroimg.com/original/000e39/56f4f25f4d5d9c9ae851eedb99eb
+- 41155-2: https://a.allegroimg.com/original/111580/20180a0446a996970ad44f9f2e58
+
 ---
 
-## 41157 — Lego Disney 41157 Karawana Podróżna Roszpunki Kasandra Koń Roszpunka Łuk
+## 41157 —  Karawana Podróżna Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702016111712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41157 |
+| Nazwa angielska | Rapunzel's Travelling Caravan |
+| Nazwa polska |  Karawana Podróżna Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 323 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 9 cm |
+| EAN | 5702016111712 |
 
 LEGO Disney 41157 Karawana podróżna Roszpunki
 
@@ -1566,11 +2534,27 @@ Dołącz do księżniczki Roszpunki oraz Kasandry w zestawie LEGO®  Disney 411
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41157-1: https://a.allegroimg.com/original/111769/957523b9476e91196f5d3a54dbb4
+
 ---
 
-## 41158 — Lego 41158 Disney Princess Wieżyczka Dżasminy
+## 41158 — Wieżyczka Dżasminy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 137.00 zł · EAN: 05702016364330 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41158 |
+| Nazwa angielska | Jasmine's Petite Tower |
+| Nazwa polska | Wieżyczka Dżasminy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm × gł. 4 cm |
+| EAN | 5702016364330 |
 
 Opis klocków LEGO Disney Princess 41158 Wieżyczka Dżasminy
 
@@ -1589,11 +2573,27 @@ LEGO® l Disney 41158 Wieżyczka Dżasminy to łatwy do zbudowania zestaw, któr
 - Połącz ten model z zestawem 41161 Pałacowe przygody Aladyna i Dżasminy i dobuduj do pałacu dodatkową wieżę.
 - Wymiary: ok. 10 cm wysokości, 5 cm szerokości oraz 4 cm głębokości.
 
+**Galeria:**
+
+- 41158-1: https://a.allegroimg.com/original/0025ab/27cd309e48729575a213273001a7
+
 ---
 
-## 41159 — Lego Disney 41159 Przejażdżka karetą Kopciuszka Nowe
+## 41159 — PRZEJAŻDŻKA KARETĄ
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 274.00 zł · EAN: 05702016368178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41159 |
+| Nazwa angielska | Cinderella's Carriage Ride |
+| Nazwa polska | PRZEJAŻDŻKA KARETĄ |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368178 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1603,11 +2603,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Przenieś się w magiczny świat Disneya i wybierz się na przejażdżką karetą Kopciuszka! Dzięki zestawowi LEGO 41159 to możliwe! Został on stworzony z myślą o najmłodszych, by mogli oni na nowo przeżyć przygodę z ulubionymi bohaterami z bajki o Kopciuszku. Możesz odtwarzać ulubione sceny z filmów lub tworzyć swoje własne historie z wykorzystaniem konstrukcji i figurek. Klocki te zostały zaprojektowane tak, by dać szansę początkującym budowniczym na naukę samodzielnego składania budynków, pojazdów i łączenia innych elementów. Wszystko to rozgrywa się w scenerii znanej z filmów Disneya!
 
+**Galeria:**
+
+- 41159-1: https://a.allegroimg.com/original/11900b/402359ac4853b5582895d3974aae
+
 ---
 
-## 41160 — Lego Disney 41160 Nadmorski zamek Arielki Nowe
+## 41160 — DISNEY PRINCESS
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702016368246 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41160 |
+| Nazwa angielska | Ariel's Seaside Castle |
+| Nazwa polska | DISNEY PRINCESS |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702016368246 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1629,11 +2645,27 @@ Z zestawem LEGO® | Disney 41160 Nadmorski zamek Arielki Twoje dziecko ponownie 
 - Zamek ma ok. 20 cm wysokości, 13 cm szerokości i 9 cm głębokości. 
 - Łódka ma ok. 11 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 41160-1: https://a.allegroimg.com/original/11aad5/6728948847cabc6a540236fdadf4
+
 ---
 
-## 41161 — Lego 41161 Disney Princess Pałacowe przygody Alady
+## 41161 — Pałacowe przygody Aladyna i Dżasminy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702016368581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41161 |
+| Nazwa angielska | Aladdin and Jasmine's Palace Adventures |
+| Nazwa polska | Pałacowe przygody Aladyna i Dżasminy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702016368581 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -1673,11 +2705,27 @@ Z zestawem LEGO® | Disney 41160 Nadmorski zamek Arielki Twoje dziecko ponownie 
  
 **• Pałac ma ok. 20 cm wysokości, 13 cm szerokości i 6 cm głębokości.**
 
+**Galeria:**
+
+- 41161-1: https://3.allegroimg.com/original/003415/fcb847694745a8e09aa4386eb5d3
+
 ---
 
-## 41162 — Lego Disney 41162 Królewskie przyjęcie Arielki, Aurory i Tiany Nowe
+## 41162 — Królewskie przyjęcie Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702016368598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41162 |
+| Nazwa angielska | Ariel, Aurora, and Tiana's Royal Celebration |
+| Nazwa polska | Królewskie przyjęcie Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016368598 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1698,11 +2746,27 @@ Specjalny zestaw LEGO® | Disney 41162 Królewskie przyjęcie Arielki, Aurory i 
 - Karoca Arielki (razem z delfinem) ma ok. 3 cm wysokości, 13 cm długości i 6 cm szerokości. 
 - Restauracja Tiany ma ok. 13 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 41162-1: https://a.allegroimg.com/original/115701/dfa9101b4a1d8adf8af6b402de79
+
 ---
 
-## 41163 — Lego Disney Princess Wieżyczka Roszpunki 41163
+## 41163 — WIEŻYCZKA ROSZPUNKI
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702016368604 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41163 |
+| Nazwa angielska | Rapunzel's Petite Tower |
+| Nazwa polska | WIEŻYCZKA ROSZPUNKI |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368604 |
 
 LEGO DISNEY PRINCESS WIEŻYCZKA ROSZPUNKI 41163
 
@@ -1726,11 +2790,27 @@ Zestaw LEGO® | Disney 41163 Wieżyczka Roszpunki jest łatwy do złożenia i sp
 - **Liczba elementów w zestawie:** 44 szt. 
 - **Typ:** Konstrukcyjne
 
+**Galeria:**
+
+- 41163-1: https://a.allegroimg.com/original/00f016/4b2fd0c54b538721bb4e1609bd18
+
 ---
 
-## 41164 — Lego Disney 41164 Zaczarowany domek na drzewie
+## 41164 — Zaczarowany domek na drzewie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 322.00 zł · EAN: 05702016368611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41164 |
+| Nazwa angielska | Enchanted Treehouse |
+| Nazwa polska | Zaczarowany domek na drzewie |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 302 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 25 cm × gł. 20 cm |
+| EAN | 5702016368611 |
 
 **LEGO Disney **
 
@@ -1755,11 +2835,27 @@ W zestawie znajdują się trzy uwielbiane postacie Disneya z filmu „Kraina lod
 - Połącz model z zestawami 41165 Spływ kajakowy Anny, 41166 Wyprawa Elsy, 41167 Zamkowa wioska w Arendelle, 41168 Szkatułka na biżuterię Elsy oraz 41169 Olaf, by przeżyć jeszcze więcej przygód w stylu LEGO l Disney Frozen II.
 - Domek na drzewie ma ok. 20 cm wysokości, 25 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 41164-1: https://a.allegroimg.com/original/057423/1b5e8f3b492d93ecbe46b8b1599f
+
 ---
 
-## 41165 — Lego Disney 41165 Spływ kajakowy Anny
+## 41165 — Spływ kajakowy Anny
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 137.75 zł · EAN: 05702016368628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41165 |
+| Nazwa angielska | Anna's Canoe Expedition |
+| Nazwa polska | Spływ kajakowy Anny |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm |
+| EAN | 5702016368628 |
 
 LEGO® 41165 Disney - Spływ kajakowy Anny
 
@@ -1782,11 +2878,27 @@ Pozwól swojemu maluchowi przeżyć ponownie ulubione sceny z filmu Disneya „K
 - Kajak ma ok. 3 cm wysokości, 9 cm długości i 3 cm szerokości.
 - Fragment rzeki ma ok. 8 cm wysokości, 28 cm szerokości i 15 cm głębokości.
 
+**Galeria:**
+
+- 41165-1: https://a.allegroimg.com/original/0533f4/a641d3ac41c3b0835b76109eee78
+
 ---
 
-## 41166 — Lego Disney 41166 Wyprawa Elsy Śliczna
+## 41166 — Wyprawa Elsy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 199.75 zł · EAN: 05702016368635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41166 |
+| Nazwa angielska | Elsa's Wagon Adventure |
+| Nazwa polska | Wyprawa Elsy |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702016368635 |
 
 Pozwól swojemu maluchowi poznać pełen przygód świat filmu Disneya „Kraina lodu 2” w zestawie Wyprawa Elsy!
  
@@ -1810,11 +2922,27 @@ Z zestawem LEGO | Disney 41166 Wyprawa Elsy Twoje dziecko ponownie przeżyje cza
 - Sanie ze Svenem mają ok. 7 cm wysokości, 21 cm długości i 12 cm szerokości. 
 - Stajnia ma ok. 6 cm wysokości, 8 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 41166-1: https://a.allegroimg.com/original/05db4f/0f360aee46618729d0d0094a5d8c
+
 ---
 
-## 41167 — Lego Disney 41167 Zamkowa wioska w Arendelle Nowe
+## 41167 — Zamkowa wioska w Arendelle
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016368642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41167 |
+| Nazwa angielska | Arendelle Castle Village |
+| Nazwa polska | Zamkowa wioska w Arendelle |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 521 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 30 cm × gł. 12 cm |
+| EAN | 5702016368642 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1839,11 +2967,27 @@ Model LEGO® l Disney Frozen II 41167 Zamkowa wioska w Arendelle zapewni każdem
 - Stoisko sprzedawcy ryb ma ok. 7 cm wysokości, 8 cm szerokości i 6 cm głębokości. 
 - Łódź wiosłowa ma ok. 5 cm wysokości, 12 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 41167-1: https://a.allegroimg.com/original/11eb46/060fa9a44f1cba213022d77dd096
+
 ---
 
-## 41168 — Lego 41168 Disney Szkatułka na biżuterię Elsy Elzy ----- Outlet
+## 41168 — Szkatułka na biżuterię Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 333.33 zł · EAN: 05702016368659 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41168 |
+| Nazwa angielska | Elsa's Jewelry Box Creation |
+| Nazwa polska | Szkatułka na biżuterię Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 15 cm × gł. 12 cm |
+| EAN | 5702016368659 |
 
 **Nowy, fabrycznie zaplombowany zestaw.**
 
@@ -1860,11 +3004,27 @@ Zestaw LEGO l Disney Frozen II 41168 Szkatułka na biżuterię Elsy to idealny p
 - Postacie Disneya można zdjąć i dodać do swojej kolekcji minifigurek i minilaleczek LEGO Disney.
 - Model ma ok. 23 cm wysokości, 15 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 41168-1: https://a.allegroimg.com/original/0548e7/5c59ca904ceca3c5912f079adc33
+
 ---
 
-## 41169 — Klocki Lego 41169 Olaf Kraina Lodu
+## 41169 — Olaf
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 121.27 zł · EAN: 05702016604092 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41169 |
+| Nazwa angielska | Olaf |
+| Nazwa polska | Olaf |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016604092 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1893,11 +3053,26 @@ Czy ulepimy dziś bałwana? Niekoniecznie, ale z całą pewnością możemy go z
  
 - Samo budowanie to doskonała zabawa - ale z zestawem LEGO Frozen 41169 Olaf prawdziwa przygoda zaczyna się dopiero po dopasowaniu ostatniego klocka. To wszystko za sprawą ruchomych elementów złożonych ze specjalnie przygotowanych przegubów. Dzięki temu możesz umieścić w rękach bałwanka ołówek czy założyć mu niebieską muchę, idealną na nieco poważniejsze okazje. W zestawie z tą sympatyczną figurką znajduje się także kolorowy notes, który, w zależności od dziecięcej wyobraźni, może stać się pamiętnikiem, książką z obrazkami lub nawet mapą do poszukiwania skarbów. Olaf doskonale sprawdzi się także jako ozdoba każdego pomieszczenia. Jego szeroki uśmiech ociepli nawet najbardziej surowe pomieszczenie w każdych okolicznościach!
 
+**Galeria:**
+
+- 41169-1: https://a.allegroimg.com/original/05d48d/93ba91324eb2a06d618d3c467668
+
 ---
 
-## 4181 — Lego Disney 4181 Isla de la Muerta Pirates of the Caribbean Wyspa Umarłych
+## 4181 — Isla de la Muerta
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014734746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4181 |
+| Nazwa angielska | Isla De Muerta |
+| Nazwa polska | Isla de la Muerta |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734746 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1921,11 +3096,26 @@ Czy ulepimy dziś bałwana? Niekoniecznie, ale z całą pewnością możemy go z
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4181-1: https://a.allegroimg.com/original/1180ae/2e5c16a6455bb54f13188db903cc
+
 ---
 
-## 4194 — Lego 4194 Pirates of the Caribbean Whitecap Bay
+## 4194 — Whitecap Bay
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702014746244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4194 |
+| Nazwa angielska | Whitecap Bay |
+| Nazwa polska | Whitecap Bay |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 751 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014746244 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1949,11 +3139,27 @@ Czy ulepimy dziś bałwana? Niekoniecznie, ale z całą pewnością możemy go z
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4194-1: https://a.allegroimg.com/original/115865/20ff6f70430bad48dcec80fb0826
+
 ---
 
-## 43172 — Lego Disney 43172 Magiczny lodowy pałac Elsy Nowe
+## 43172 — Magiczny lodowy pałac Elsy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 934.00 zł · EAN: 05702016618587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43172 |
+| Nazwa angielska | Elsa's Magical Ice Palace |
+| Nazwa polska | Magiczny lodowy pałac Elsy |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 701 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 30 cm × gł. 19 cm |
+| EAN | 5702016618587 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -1975,11 +3181,27 @@ Pomóż młodym fanom Disneya odgrywać sceny z filmów „Kraina lodu” i „G
 - Plac zabaw ze śnieżną twierdzą ma ok. 6 cm wysokości, 20 cm szerokości i 4 cm głębokości. 
 - Sanie z wagonikami mają ok. 12 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 43172-1: https://a.allegroimg.com/original/11a513/493ad4fc494b95b65c9e3ebd55b1
+
 ---
 
-## 43173 — Lego Disney 43173 Królewska Karoca Aurory nowy zestaw klocków
+## 43173 — Królewska Karoca Aurory
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016618594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43173 |
+| Nazwa angielska | Aurora's Royal Carriage |
+| Nazwa polska | Królewska Karoca Aurory |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702016618594 |
 
 Witam
 
@@ -2007,11 +3229,27 @@ Rafał
  
 **• Mały, ale fajny i gotowy do zabawy. Karoca ma ok. 5 cm wysokości, 10 cm długości i 5 cm szerokości, a więc doskonale nadaje się do pomysłowej zabawy i odgrywania historyjek z podziałem na role.**
 
+**Galeria:**
+
+- 43173-1: https://a.allegroimg.com/original/0095be/388bb8cd4dca9946bc6c7596b549
+
 ---
 
-## 43174 — Lego Princess Książka z przygodami Mulan 43174
+## 43174 — lego
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 247.98 zł · EAN: 05702016618600 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43174 |
+| Nazwa angielska | Mulan's Storybook Adventures |
+| Nazwa polska | lego |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618600 |
 
 Lego Princess Książka z przygodami Mulan 43174
 
@@ -2027,11 +3265,27 @@ Wyjątkowy zestaw LEGO® Disney 43174 Książka z przygodami Mulan zaprowadzi fa
 
 Są tam też dwa arkusze naklejek, które pozwalają ozdobić książkę po swojemu. Mnóstwo emocji i odgrywanie ról, gdziekolwiek będziesz. Ten przenośny zestaw pozwoli dzieciakom budować i wymyślać postacie, w które mogą się wcielić.
 
+**Galeria:**
+
+- 43174-1: https://a.allegroimg.com/original/117b03/1d3898fc4ac18e57a0e89019592c
+
 ---
 
-## 43175 — Lego Disney 43175 Książka Z Przygodami Anny I Elsy
+## 43175 — Książka z przygodami Anny i Elsy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702016618617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43175 |
+| Nazwa angielska | Anna and Elsa's Storybook Adventures |
+| Nazwa polska | Książka z przygodami Anny i Elsy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618617 |
 
 LEGO 43175
 
@@ -2047,11 +3301,27 @@ ANNY I ELSY
 
 Wyjątkowy zestaw LEGO® ǀ Disney 43175 Książka z przygodami Anny i Elsy zachęci dzieci do odgrywania scenek z życia w zamku Arendelle. W pudełku czeka otwierana książka, którą podzielono na dwie sekcje: zamek ze składanym dachem i wnętrzem, w którym jest wspaniały fortepian i sypialnia, oraz tereny wokół zamku z mostem. Dodatkowo w zestawie czekają dwa arkusze naklejek, którymi dziecko może ozdobić książkę po swojemu. Mnóstwo emocji i odgrywanie ról, gdziekolwiek będziesz Ten przenośny zestaw zapewni dziecięcej wyobraźni solidną dawkę gimnastyki. Dzieci mogą bawić się tym zestawem osobno lub łączyć go z innymi zestawami LEGO ǀ Disney, by mieć jeszcze więcej możliwości kreowania. Do tego świetnie nadaje się on na prezent gwiazdkowy lub urodzinowy dla każdego małego fana filmu „Kraina lodu 2”. Ulubione postacie i scenki pozwolą łatwo rozpocząć zabawę W tym kreatywnym filmowym zestawie czekają trzy szczegółowo wykonane mikrolaleczki: disnejowskie księżniczki Elsa i Anna oraz Kristoff. Jest tam także figurka LEGO Olafa. Dzięki tym elementom oraz pobudzającym wyobraźnię fragmentom doskonale znanego świata mali fani nie będą mieć problemu z rozpoczęciem zabawy.
 
+**Galeria:**
+
+- 43175-1: https://a.allegroimg.com/original/115bf6/26a54b244c70aefca4ea1d0a02bb
+
 ---
 
-## 43176 — Lego Disney 43176 Książka z przygodami Arielki
+## 43176 — Książka z przygodami Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016618624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43176 |
+| Nazwa angielska | Ariel's Storybook Adventures |
+| Nazwa polska | Książka z przygodami Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618624 |
 
 LEGO Disney 43176
 
@@ -2061,11 +3331,27 @@ Ten niezwykły zestaw LEGO ǀ Disney 43176 Książka z przygodami Arielki to dla
 
 Ten zestaw da dzieciom mnóstwo radości przy wymyślaniu własnych zabaw. Zestawem można bawić się niezależnie lub łączyć go z innymi zestawami LEGO ǀ Disney, aby możliwości zabawy było jeszcze więcej. Do tego świetnie nadaje się on na prezent gwiazdkowy lub urodzinowy dla każdego małego fana Małej Syrenki Disneya.Ulubione postacie i scenki pozwolą łatwo rozpocząć zabawę.
 
+**Galeria:**
+
+- 43176-1: https://a.allegroimg.com/original/0095f1/b26353d74d658c1821e3b374de95
+
 ---
 
-## 43178 — Lego Disney 43178 Lego Princess 43178 Przyjęcie w zamku Kopciuszka
+## 43178 — LEGO PRINCESS 43178 Przyjęcie w zamku Kopciuszka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 186.00 zł · EAN: 05702016618648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43178 |
+| Nazwa angielska | Cinderella's Castle Celebration |
+| Nazwa polska | LEGO PRINCESS 43178 Przyjęcie w zamku Kopciuszka |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 17 cm × gł. 8 cm |
+| EAN | 5702016618648 |
 
 Ten uroczy zestaw zaprasza do kreatywnej zabawy w zamku Kopciuszka.
  
@@ -2083,11 +3369,27 @@ Zestaw LEGO ǀ Disney 43178 Przyjęcie w zamku Kopciuszka pozwoli dzieciom poćw
 - Klocki LEGO już od 1958 roku spełniają najwyższe standardy branżowe, dzięki czemu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - W Grupie LEGO upuszczamy, podgrzewamy, zgniatamy, skręcamy i badamy klocki oraz elementy LEGO, by sprawdzić, czy każda zabawka do budowania spełnia najwyższe światowe standardy bezpieczeństwa ijakości.
 
+**Galeria:**
+
+- 43178-1: https://a.allegroimg.com/original/00d50a/0c8eea6e410daf75c6b807192dd6
+
 ---
 
-## 43179 — Klocki Lego Disney Zestaw Myszka Mickey i Minnie 43179
+## 43179 — Myszka Mickey i Minnie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 875.00 zł · EAN: 05702016669381 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43179 |
+| Nazwa angielska | Mickey Mouse & Minnie Mouse |
+| Nazwa polska | Myszka Mickey i Minnie |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1739 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016669381 |
 
 LEGO DISNEY Myszka Miki i Myszka Minnie 43179
 
@@ -2095,11 +3397,27 @@ Fantastyczne detale w stylu retro Figurki Myszki Miki i Myszki Minnie, wzorowane
 
 Budowanie dużych modeli kultowych disnejowskich postaci Myszki Miki i Myszki Minnie ożywi miłe wspomnienia! Każda z figurek stoi na podpisanej podstawce przypominającej dawną taśmę filmową i jest ubrana w kostium znany z oryginalnych filmów. Budowanie imponujących figurek wraz z akcesoriami pozwoli Ci się wyciszyć i podładować baterie. Gotowe modele możesz postawić na półce — nikt nie przejdzie koło nich obojętnie.
 
+**Galeria:**
+
+- 43179-1: https://a.allegroimg.com/original/11b8ca/7fa8e8c6401d8586d9f46c764b93
+
 ---
 
-## 43180 — Lego 43180 Disney Zimowe święto w zamku Belli
+## 43180 — Zimowe święto w zamku Belli
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 264.99 zł · EAN: 05702016618655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43180 |
+| Nazwa angielska | Belle's Castle Winter Celebration |
+| Nazwa polska | Zimowe święto w zamku Belli |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 25 cm × gł. 16 cm |
+| EAN | 5702016618655 |
 
 Klocki LEGO Disney 43180 - Zimowe święto w zamku Belli
 
@@ -2145,11 +3463,27 @@ Zestaw LEGO Disney - Zimowe święto w zamku Belli trafił do sprzedaży w 202
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 43180-1: https://a.allegroimg.com/original/116339/1ab3044b4a759780b8b91819a039
+
 ---
 
-## 43181 — Lego Disney 43181 Raya i Pałac Serca
+## 43181 — Raya i Pałac Serca
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 429.99 zł · EAN: 05702016618662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43181 |
+| Nazwa angielska | Raya and the Heart Palace |
+| Nazwa polska | Raya i Pałac Serca |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 610 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 28 cm × gł. 16 cm |
+| EAN | 5702016618662 |
 
 Zwiedź Pałac Serca razem z Rayą i jej przyjaciółmi z filmu Disneya „Raya i ostatni smok”. Zobacz! Ukryty pokój z mapą i ogrodem! Rankiem możesz pójść do jadalni i skosztować smakołyków, z jakich słynie Kumandra. Potem dołącz do Rayi, która wyrusza w podróż, by odnaleźć ostatniego smoka i ocalić Kumandrę. Tylko uważaj — na drodze stanie Ci zdolna, ale i wyrachowana Namaari z mieczem, która na każdym kroku rywalizuje z Rayą.
 
@@ -2175,11 +3509,27 @@ Emocjonujące przygodyDo zabawy zapraszają dwie minilaleczki, Raya i Namaari, o
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43181-1: https://a.allegroimg.com/original/052f06/e83215eb4b88a927cf85c98249d8
+
 ---
 
-## 43182 — Lego Disney Princess 43182 Szkolenia Mulan
+## 43182 — Szkolenia Mulan
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 249.90 zł · EAN: 05702016684797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43182 |
+| Nazwa angielska | Mulan's Training Grounds |
+| Nazwa polska | Szkolenia Mulan |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016684797 |
 
 LEGO Disney Princess 43182 Szkolenia Mulan
 
@@ -2207,19 +3557,50 @@ LEGO Disney Princess 43182 Szkolenia Mulan
 
 Galeria LEGO Disney Princess 43182 Szkolenia Mulan
 
+**Galeria:**
+
+- 43182-1: https://a.allegroimg.com/original/1113bb/3dd33b1046b18765243d1af31b16
+
 ---
 
-## 43184 — Lego Disney 43184 Raya i smok Sisu
+## 43184 — Raya i smok Sisu
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 413.99 zł · EAN: 05702016746907 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43184 |
+| Nazwa angielska | Raya and Sisu Dragon |
+| Nazwa polska | Raya i smok Sisu |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016746907 |
 
 o Emocjonujący zestaw LEGO(R) and #448; Disney Raya i smok Sisu (43184) wypełniony akcesoriami i ciekawymi funkcjami inspiruje do pomysłowego odgrywania ról i rozwijania kreatywności.o Zestaw inspirowany nowym filmem Disneya ,,Raya i ostatni smok" zawiera pałacową bramę, wodospad i akcesoria, a także minilaleczkę Rayę i figurkę LEGO(R) smoczycy Sisu.o W pałacowej bramie ukryte jest tajne pomieszczenie z niewielką skrzynką zawierającą diament, a osobny model wodospadu można otworzyć. Całość można połączyć z zestawem LEGO(R) and #448; Disney Raya i Pałac Serca (43181), by zabawa była jeszcze lepsza.o Fanom filmu Disneya ,,Raya i ostatni smok" spodoba się ta zabawka do zbudowania z licznymi szczegółami i akcesoriami. Dzięki funkcjom ułatwiającym rozpoczęcie zabawy zestaw jest świetnym prezentem z dowolnej okazji dla dzieci w wieku od 6 lat.o Piękna, ruchoma figurka smoczycy Sisu do zbudowania ma ok. 24 cm wysokości i jest na tyle wytrzymała, że można się nią bawić wielokrotnie na różne sposoby.o Czas na innowacje! Ten niepowtarzalny zestaw można połączyć z innymi zestawami LEGO(R) and #448; Disney, co pomoże dzieciom poszerzać horyzonty i rozwijać wyobraźnię. O tak niezwykłym prezencie wszyscy będą mówić!
 
+**Galeria:**
+
+- 43184-1: https://a.allegroimg.com/original/001621/52d5b58b40c0bb7b4f4d8345a332
+
 ---
 
-## 43185 — Lego Disney 43185 Łódź Bouna
+## 43185 — Łódź Bouna
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 181.00 zł · EAN: 05702016746914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43185 |
+| Nazwa angielska | Boun's Boat |
+| Nazwa polska | Łódź Bouna |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 8 cm |
+| EAN | 5702016746914 |
 
 Przedmiot w ofercie: LEGO Disney 43185 Łódź Bouna.
 
@@ -2233,11 +3614,27 @@ Zestaw Disney Łódź Bouna (43185) wypełniony akcesoriami i ciekawymi funkcjam
 
 Zapraszam do zakupów.
 
+**Galeria:**
+
+- 43185-1: https://a.allegroimg.com/original/05ab92/0734660a4feea01490798580958b
+
 ---
 
-## 43186 — Lego Disney 43186 Salamandra Bruni do zbudowania
+## 43186 — Salamandra Bruni do zbudowania
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702016910032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43186 |
+| Nazwa angielska | Bruni the Salamander Buildable Character |
+| Nazwa polska | Salamandra Bruni do zbudowania |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910032 |
 
 Zestaw LEGO® ǀ Disney z uroczą salamandrą Bruni (43186) z filmu „Kraina lodu 2” przyciągnie wzrok każdego fana. Ta świetna mała zabawka zawiera jasnoniebieską figurkę salamandry oraz trzy minimodele, a w jej zbudowaniu pomogą dzieciom drukowane instrukcje lub cyfrowe instrukcje Instructions PLUS. Są one dostępne w aplikacji LEGO Building Instructions i zawierają proste wskazówki, tak by nawet początkujący mogli poczuć się mistrzami budowania.
 
@@ -2260,11 +3657,27 @@ W zestawie jest salamandra LEGO do zbudowania, którą można łatwo ożywić �
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43186-1: https://a.allegroimg.com/original/115a75/c398ad7f4e36a1e6a5c54534d1c5
+
 ---
 
-## 43187 — Lego Disney Princess 43187- Wieża Roszpunki
+## 43187 — Wieża Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 539.44 zł · EAN: 05702016907803 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43187 |
+| Nazwa angielska | Rapunzel's Tower |
+| Nazwa polska | Wieża Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 44 cm × szer. 11 cm × gł. 8 cm |
+| EAN | 5702016907803 |
 
 LEGO Disney Princess 43187- Wieża Roszpunki
 
@@ -2293,11 +3706,27 @@ Zestaw umożliwia dzieciom natychmiastowe rozpoczęcie zabawy dzięki minilalecz
 
 **ELEMENTY 369**
 
+**Galeria:**
+
+- 43187-1: https://a.allegroimg.com/original/11f2ad/9b4147d34444878d239136e6c44d
+
 ---
 
-## 43188 — Lego 43188 Disney Domek Leśny Aurory
+## 43188 — Domek leśny Aurory
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 343.99 zł · EAN: 05702016907971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43188 |
+| Nazwa angielska | Aurora's Forest Cottage |
+| Nazwa polska | Domek leśny Aurory |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 21 cm × gł. 11 cm |
+| EAN | 5702016907971 |
 
 Klocki LEGO Disney 43188 - Domek Leśny Aurory
 
@@ -2334,11 +3763,27 @@ Zestaw LEGO Disney - Domek Leśny Aurory trafił do sprzedaży w 2020 roku. Nu
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 43188-1: https://a.allegroimg.com/original/11aad9/15b912c74e9cb8ad920d2a619bb8
+
 ---
 
-## 43189 — Lego Disney Książka Z Przygodami Elzy I Nokka 43189
+## 43189 — Przygody Elzy i Nokka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 173.90 zł · EAN: 05702016909159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43189 |
+| Nazwa angielska | Elsa and the Nokk Storybook Adventures |
+| Nazwa polska | Przygody Elzy i Nokka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016909159 |
 
 **Książka z przygodami Elzy i Nokka**
 
@@ -2354,11 +3799,27 @@ Pomysłowy zestaw LEGO® ǀ Disney Książka z przygodami Elzy i Nokka (43189) p
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43189-1: https://a.allegroimg.com/original/11b028/978da7a543588b8d124506288702
+
 ---
 
-## 43191 — Lego Disney 43191 Świąteczna łódź Arielki Nowe
+## 43191 — Świąteczna łódź Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 335.65 zł · EAN: 05702016909944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43191 |
+| Nazwa angielska | Ariel's Celebration Boat |
+| Nazwa polska | Świąteczna łódź Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016909944 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2383,11 +3844,27 @@ Zabawa dla całej rodziny Dzieci i dorośli mogą dołączyć do księżniczki A
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43191-1: https://a.allegroimg.com/original/116b99/2ee43a8b43f1949fd2a5650f8cc0
+
 ---
 
-## 43192 — Lego Disney Królewski powóz Kopciuszka 43192
+## 43192 — Królewski Powóz Kopciuszka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 400.91 zł · EAN: 05702016916430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43192 |
+| Nazwa angielska | Cinderella's Royal Carriage |
+| Nazwa polska | Królewski Powóz Kopciuszka |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702016916430 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2425,11 +3902,27 @@ Zestaw do budowania z Księżniczką Disneya zawiera minilaleczki Kopciuszka i w
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43192-1: https://a.allegroimg.com/original/11fffa/e351bb19466798d96c6b6df2285f
+
 ---
 
-## 43195 — Lego Disney 43195 Królewskie stajnie Belli i Roszpunki
+## 43195 — Królewskie stajnie Belli i Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 233.61 zł · EAN: 05702016909661 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43195 |
+| Nazwa angielska | Belle and Rapunzel's Royal Stables |
+| Nazwa polska | Królewskie stajnie Belli i Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 33 cm × gł. 7 cm |
+| EAN | 5702016909661 |
 
 Zestaw konstrukcyjny LEGO® ǀ Disney Królewskie stajnie Belli i Roszpunki (43195) zachwyci wszystkich fanów księżniczek Disneya i miłośników koni. Zawiera dużą stajnię główną z miejscem na puchar i akcesoria, przytulnym poddaszem i dwoma mniejszymi boksami dla koni. W komplecie znajdują się również drukowane instrukcje budowania, natomiast w aplikacji Instrukcje budowania LEGO dostępna jest funkcja Instructions PLUS. Dzięki temu budowanie jest łatwiejsze, więc nawet najmłodsi konstruktorzy poczują się jak prawdziwi mistrzowie!
  
@@ -2454,11 +3947,27 @@ Ten kreatywny zestaw pozwala dzieciom szybko rozpocząć zabawę dzięki dwóm m
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je łatwo połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43195-1: https://a.allegroimg.com/original/11e1ea/c638b9f34a48a173ffbfa73c59ae
+
 ---
 
-## 43196 — Klocki Lego Disney 43196 Zamek Belli I Bestii
+## 43196 — Zamek Belli i Bestii
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 501.88 zł · EAN: 05702016916447 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43196 |
+| Nazwa angielska | Belle and the Beast's Castle |
+| Nazwa polska | Zamek Belli i Bestii |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 505 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 32 cm |
+| EAN | 5702016916447 |
 
 LEGO DISNEY
 
@@ -2500,11 +4009,27 @@ SPECYFIKACJA:
 - **Ilość elementów:** 505
 - **Wymiary opakowania:** ok. 37.8 cm x 35.4 cm x 7.1 cm
 
+**Galeria:**
+
+- 43196-1: https://a.allegroimg.com/original/115b2b/f1f32c524a25b67e08b9811e2919
+
 ---
 
-## 43197 — Lego Disney 43197 Lodowy zamek Nowe
+## 43197 — Lodowy zamek
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1154.00 zł · EAN: 05702016917239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43197 |
+| Nazwa angielska | The Ice Castle |
+| Nazwa polska | Lodowy zamek |
+| Seria | Disney |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1709 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 65 cm × szer. 35 cm × gł. 19 cm |
+| EAN | 4052400912960, 5702016917239 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -2533,11 +4058,28 @@ Ten imponująco wysoki model stanowi wymagające wyzwanie konstruktorskie, któr
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je łatwo połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43197-1: https://a.allegroimg.com/original/115eb5/ef2d9eac4d5299de923c77bd903a
+- 43197-2: https://a.allegroimg.com/original/113634/f055d5cc45cd85c3038c5b94f904
+
 ---
 
-## 43198 — Lego Disney Frozen Dziedziniec Zamku Anny 43198
+## 43198 — LEGO DISNEY
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702017154282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43198 |
+| Nazwa angielska | Anna's Castle Courtyard |
+| Nazwa polska | LEGO DISNEY |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 14 cm × gł. 11 cm |
+| EAN | 5702017154282 |
 
 Klocki LEGO Disney 43198 - Dziedziniec zamku Anny
 
@@ -2565,11 +4107,27 @@ Dzieci mogą szybko rozpocząć zabawę z postaciami Disneya: minilaleczką Anny
 
 Zestaw LEGO Disney - Dziedziniec zamku Anny trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 43198. Zawiera 74 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Disney - Anna’s Castle Courtyard. Grupa wiekowa tego produktu to 5+
 
+**Galeria:**
+
+- 43198-1: https://a.allegroimg.com/original/117170/aae8e39f44ceba03732a6ad3a048
+
 ---
 
-## 43199 — Klocki Lego Disney Dziedziniec zamku Elzy 43199 53 elementy 5 lat
+## 43199 — Dziedziniec zamku Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 107.77 zł · EAN: 05702017154299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43199 |
+| Nazwa angielska | Elsa's Castle Courtyard |
+| Nazwa polska | Dziedziniec zamku Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 14 cm × gł. 11 cm |
+| EAN | 5702017154299 |
 
 LEGO Frozen Dziedziniec zamku Elzy 43199
  
@@ -2597,11 +4155,27 @@ Podczas budowania dzieci nabiorą pewności siebie, a odgrywając scenki z filmu
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43199-1: https://a.allegroimg.com/original/1159c4/a8d7ecd0461d9ce306a724a41d81
+
 ---
 
-## 43200 — Lego Disney Magiczne drzwi Antonia 43200 Encanto
+## 43200 — LEGO Disney 43200 Magiczne drzwi Antonia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 148.88 zł · EAN: 05702017097435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43200 |
+| Nazwa angielska | Antonio's Magical Door |
+| Nazwa polska | LEGO Disney 43200 Magiczne drzwi Antonia |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702017097435 |
 
 LEGO DISNEY ENCANTO
 
@@ -2650,11 +4224,27 @@ SPECYFIKACJA ZESTAWU:
 - **Płeć dziecka:** Dziewczynki i Chłopcy
 - **Ilość elementów:** 99
 
+**Galeria:**
+
+- 43200-1: https://a.allegroimg.com/original/11c92b/36b16e9a47b6b94ab158da0ad764
+
 ---
 
-## 43201 — Lego Klocki Disney 43201 Magiczne drzwi Isabeli Nasze magiczne Encanto nowe
+## 43201 — Magiczne drzwi Isabeli
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 296.90 zł · EAN: 05702017097442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43201 |
+| Nazwa angielska | Isabela's Magical Door |
+| Nazwa polska | Magiczne drzwi Isabeli |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702017097442 |
 
 LEGO 43201
 
@@ -2690,11 +4280,27 @@ Model z otwartymi „drzwiami” ma ok. 7 cm wysokości, 22 cm szerokości i 12 
 
 Mały, ale świetny przenośny zestaw, który dzieci mogą mieć zawsze przy sobie!
 
+**Galeria:**
+
+- 43201-1: https://a.allegroimg.com/original/11569f/6486e3ae4e8d9bc9df70ed5060d4
+
 ---
 
-## 43202 — Lego Disney Nasze Magiczne Encanto Dom Madrigalów 43202
+## 43202 — Dom Madrigalów
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 306.90 zł · EAN: 05702017100081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43202 |
+| Nazwa angielska | The Madrigal House |
+| Nazwa polska | Dom Madrigalów |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 587 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 20 cm × gł. 10 cm |
+| EAN | 5702017100081 |
 
 **DOM MADRIGALÓW**
 
@@ -2718,11 +4324,27 @@ Witaj w domu Madrigalów! Spędź trochę czasu z Mirabel z filmu Disneya i jej 
 
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43202-1: https://a.allegroimg.com/original/114bd5/72623efa45fea8d7286dc8e600b9
+
 ---
 
-## 43203 — Lego 43203 Disney Zaklęte twory Aurory Meridy Tiany szkatułka księżniczki
+## 43203 — Zaklęte twory Aurory, Meridy i Tiany
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 447.77 zł · EAN: 05702017154305 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43203 |
+| Nazwa angielska | Aurora, Merida and Tiana's Enchanted Creations |
+| Nazwa polska | Zaklęte twory Aurory, Meridy i Tiany |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 558 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm × gł. 9 cm |
+| EAN | 5702017154305 |
 
 **Lego Disney Princess Zaklęte twory Aurory, Meridy i Tiany 43203**. Zestaw LEGO® Disney Zaklęte twory Aurory, Meridy i Tiany (43203) daje dzieciom w wieku od sześciu lat wiele możliwości swobodnej zabawy. Zawiera trzy modele do zbudowania z dodatkowymi funkcjami, bransoletkę LEGO DOTS z płytkami oraz trzy minilaleczki w specjalnych „diamentowych” sukniach. Interaktywne cyfrowe instrukcje budowania dostępne w darmowej aplikacji Instrukcje budowania LEGO urozmaicają zabawę dzięki intuicyjnym narzędziom, które umożliwiają wizualizowanie powstającego modelu.
  
@@ -2764,11 +4386,26 @@ Nr katalogowy: 43203
  
 Ilość klocków w zestawie: 558
 
+**Galeria:**
+
+- 43203-1: https://a.allegroimg.com/original/114a5c/c9c338ac4b1196eb593e6744ef40
+
 ---
 
-## 43204 — Lego Disney 43204 Zabawa w zamku z Anną i Olafem Kraina Lodu ----- Outlet
+## 43204 — Zabawa w zamku z Anną i Olafem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017154312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43204 |
+| Nazwa angielska | Anna and Olaf's Castle Fun |
+| Nazwa polska | Zabawa w zamku z Anną i Olafem |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702017154312 |
 
 Nowy, fabrycznie zaplombowane zestawy.
 
@@ -2800,11 +4437,27 @@ Odwiedź Annę w zamku Arendelle! Wejdź do środka i zobacz, która jest godzin
 - Wysoka jakość bez kompromisów – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43204-1: https://a.allegroimg.com/original/05f3df/014f99e347fb863739b7cb9aca13
+
 ---
 
-## 43205 — Lego Disney 43205 Disney Princess Zamek wspaniałych przygód
+## 43205 — Disney Princess Zamek wspaniałych przygód
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 688.38 zł · EAN: 05702017154329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43205 |
+| Nazwa angielska | Ultimate Adventure Castle |
+| Nazwa polska | Disney Princess Zamek wspaniałych przygód |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 698 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 53 cm × gł. 9 cm |
+| EAN | 5702017154329 |
 
 LEGO Disney 43205 Disney Princess Zamek wspaniałych przygód
 
@@ -2836,11 +4489,26 @@ Zestaw zapewnia wiele godzin zabawy, ponieważ obejmuje minilaleczki Arielki, Va
 - Wysoka jakość bez kompromisów – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że zestaw LEGO ǀ Disney Princess™ spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43205-1: https://a.allegroimg.com/original/058877/3f63f403471590789133a91e2b26
+
 ---
 
-## 43206 — Lego Disney Princess 43206 Zamek Kopciuszka
+## 43206 — Zamek Kopciuszka i Księcia z bajki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 279.90 zł · EAN: 05702017154336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43206 |
+| Nazwa angielska | Cinderella and Prince Charming's Castle |
+| Nazwa polska | Zamek Kopciuszka i Księcia z bajki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 25 cm × gł. 11 cm |
+| EAN | 5702017154336 |
 
 Na miłośników zamków lub księżniczek Disneya w wieku od 5 lat czeka mnóstwo zabawy dzięki temu zestawowi LEGO® ǀ Disney Zamek Kopciuszka i księcia z bajki (43206). Obejmuje on trzypoziomowy zamek, trzy minilaleczki i dwie figurki zwierząt LEGO. W darmowej aplikacji Instrukcje budowania LEGO znajdziesz również interaktywne cyfrowe instrukcje budowania, dzięki którym zabawa jest jeszcze lepsza. Te intuicyjne narzędzia pozwalają dzieciom wizualizować powstający model.
 
@@ -2858,11 +4526,27 @@ Ważne życiowe umiejętności – ten zestaw konstrukcyjny Disney Princess z mi
 Wysoka jakość bez kompromisów – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43206-1: https://a.allegroimg.com/original/113f7f/ba2126a2475bb986747ad354a310
+
 ---
 
-## 43209 — Klocki Lego 43209 Elza i lodowa stajnia Nokka 4+ 53 elementy
+## 43209 — Elza i lodowa stajnia Nokka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 168.99 zł · EAN: 05702017154367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43209 |
+| Nazwa angielska | Elsa and the Nokk's Ice Stable |
+| Nazwa polska | Elza i lodowa stajnia Nokka |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702017154367 |
 
 LEGO Disney Frozen Elza i lodowa stajnia Nokka 43209
  
@@ -2890,11 +4574,27 @@ Dzięki zabawkom konstrukcyjnym 4+ dorośli mogą bawić się w budowanie wspól
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43209-1: https://a.allegroimg.com/original/11cf8a/139a728f41a8a39d734ef4e5f42d
+
 ---
 
-## 43210 — Lego 43210 Disney Katamaran Vaiany
+## 43210 — Katamaran Vaiany
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017424774 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43210 |
+| Nazwa angielska | Moana's Wayfinding Boat |
+| Nazwa polska | Katamaran Vaiany |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424774 |
 
 LEGO 43210 Disney - Katamaran Vaiany
 
@@ -2922,11 +4622,27 @@ Ten zestaw pozwala dzieciom na zabawę minilaleczkami LEGO Vaianą i Siną oraz 
 
 - Ważne życiowe umiejętności – ten zestaw konstrukcyjny Disneya z minilaleczkami i modelami znanych obiektów zachęca dzieci do swobodnej i pomysłowej zabawy, która pomaga rozwijać ich najważniejsze życiowe umiejętności
 
+**Galeria:**
+
+- 43210-1: https://a.allegroimg.com/original/453bbf/ef509d214039a78b0f81959fcaa0
+
 ---
 
-## 43211 — Zestaw Lego Disney 43211 Zamek Aurory
+## 43211 — Zamek Aurory
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017424781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43211 |
+| Nazwa angielska | Aurora's Castle |
+| Nazwa polska | Zamek Aurory |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 38 cm × gł. 11 cm |
+| EAN | 5702017424781 |
 
 Spędź czas z księżniczką Disneya Aurorą w jej pięknym zamku! Odkryj, ile fajnych rzeczy możecie razem robić. Zatańcz z Aurorą i księciem Filipem. Wejdź po schodach i odpocznij w sypialni Aurory. Stań na balkonie i podziwiaj widoki. Skorzystaj ze zjeżdżalni i zjedź szybko w dół. Hej! Burczy Ci w brzuchu? Idź do kuchni na babeczki, a potem hop na huśtawkę. Och, czy to Diabolina na swoim tronie?
  
@@ -2958,11 +4674,27 @@ Dzięki zestawom dla dzieci w wieku od 4 lat dorośli mogą bawić się w budowa
 - Niezrównana jakość – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43211-1: https://a.allegroimg.com/original/05fce3/2429e9a8408aac686c2c9746757a
+
 ---
 
-## 43213 — Lego Disney 43213 Historyjki Małej Syrenki Księga Arielka
+## 43213 — LEGO Disney 43213 - Historyjki Małej Syrenki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 71.99 zł · EAN: 05702017424804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43213 |
+| Nazwa angielska | Little Mermaid Story Book |
+| Nazwa polska | LEGO Disney 43213 - Historyjki Małej Syrenki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702017424804 |
 
 LEGO Disney 43213 Historyjki Małej Syrenki
  
@@ -2989,11 +4721,27 @@ W zestawie są trzy mikrolaleczki LEGO — Arielka, książę Eryk i Urszula —
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43213-1: https://a.allegroimg.com/original/29515b/46a3fffa468d92829c6e7528b70c
+
 ---
 
-## 43214 — Lego Disney Princess 43214 Wirująca Roszpunka
+## 43214 — Wirująca Roszpunka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702017424811 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43214 |
+| Nazwa angielska | Twirling Rapunzel |
+| Nazwa polska | Wirująca Roszpunka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm × gł. 5 cm |
+| EAN | 5702017424811 |
 
 Lego DISNEY PRINCESS 43214 Wirująca Roszpunka
 
@@ -3018,11 +4766,27 @@ Ten ciekawy zestaw pozwoli dzieciom szybko rozpocząć zabawę minilaleczką LEG
 - Niezrównana jakość - elementy zestawów LEGO(R) już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują.
 - Bezpieczeństwo przede wszystkim - elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43214-1: https://a.allegroimg.com/original/1170d7/dea5a2e140c888dd9c0591ee4631
+
 ---
 
-## 43215 — Lego Disney 43215 Magiczny domek na drzewie
+## 43215 — Magiczny domek na drzewie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1197.90 zł · EAN: 05702017424828 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43215 |
+| Nazwa angielska | The Enchanted Treehouse |
+| Nazwa polska | Magiczny domek na drzewie |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1016 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 36 cm × gł. 13 cm |
+| EAN | 5702017424828 |
 
 LEGO Disney 43215 Magiczny domek na drzewie
 
@@ -3047,11 +4811,26 @@ Ten zestaw premium jest pełen postaci Disneya, takich jak Mulan, Raya, Elza, Va
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43215-1: https://a.allegroimg.com/original/054c28/f73f63084f5284182d39807e5dc0
+
 ---
 
-## 43216 — Klocki Lego 43216 Disney Podróż zaczarowanej księżniczki
+## 43216 — Podróż zaczarowanej księżniczki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017424835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43216 |
+| Nazwa angielska | Princess Enchanted Journey |
+| Nazwa polska | Podróż zaczarowanej księżniczki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 8 cm |
+| EAN | 5702016704914, 5702017424835 |
 
 LEGO Disney 43216 Podróż zaczarowanej księżniczki
  
@@ -3084,45 +4863,27 @@ Ten zestaw zachęca do zabawy z Kopciuszkiem, Dżasminą i Roszpunką z filmów 
 - Niezrównana jakość – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 43217 — Lego Disney Dom z bajki „Odlot” 43217
-
-*Kategoria: Disney · cena Allegro (2026-08-17): 198.80 zł · EAN: 05702017866932 · in stock*
-
-LEGO Disney Dom z bajki „Odlot 43217
- 
-W tym ciekawym zestawie LEGO® ǀ Disney i Pixar Dom z bajki „Odlot (43217) na fanów Disneya w wieku od dziewięciu lat czeka wspaniała przygoda. Zestaw zawiera szczegółowy element kultowego już domu z kominem i balonami, dwie minifigurki LEGO, figurkę psa LEGO, plecak odkrywcy i książkę przygodową. Dzieci mogą też cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie modeli w 3D, zapisywanie zestawów i śledzenie postępów.
- 
-Zbuduj wspomnienia
- 
-Oparty na filmie Disney i Pixar „Odlot zestaw spodoba się fanom filmów i starszym dzieciom dzięki licznym szczegółom i zaawansowanemu modelowi. Dom jest w sam raz do zabawy i kolekcjonowania, inspiruje do wymyślania przygód, a po skończonej zabawie może zająć honorowe miejsce na półce.
- 
-Kultowe postacie
- 
-Ten zestaw zawiera dwie minifigurki LEGO, Carla Fredricksena i Russella, a także figurkę LEGO psa Asa. Ta wysokiej jakości zabawka konstrukcyjna będzie świetnym prezentem dla dorosłych fanów filmu lub starszych dzieci, które chcą być na czasie. • Zachęca do niekończącej się zabawy w kultowym domu z filmu „Odlot Disney i Pixar
-
-• Odgrywanie filmowych przygód i wymyślanie własnych rozwija umiejętność opowiadania historii
- 
-• Ulubione postacie i miejsca zachęcają do przeżywania przygód i samodzielnej zabawy
- 
-• Fanom wytwórni Disney i Pixar spodoba się prezent, który inspiruje do praktycznej zabawy
- 
-• Dom ma sporo detali, które urozmaicają zabawę dzieci, a do tego świetnie wygląda na półce
- 
-• Poznaj interaktywny sposób na budowanie dziękiaplikacji LEGO® Builder
- 
-• Szczegółowe postacie i modele pomagają rozwijać wyobraźnię i umiejętności kreatywnej zabawy
- 
-• Elementy LEGO® wchodzące w skład tego zestawu spełniają najwyższe standardy jakości
- 
-• Ten zestaw LEGO® ǀ Disney spełnia surowe standardy bezpieczeństwa
+- 43216-1: https://a.allegroimg.com/original/1123f8/8071e5634599b378e8b5ca74e21b
+- 43216-2: https://a.allegroimg.com/original/11b253/6694bd7c457392791d2a20b5c353
 
 ---
 
-## 43219 — Lego Disney Kreatywne zamki Disneya 43219
+## 43219 — Kreatywne zamki księżniczek Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 134.56 zł · EAN: 05702017424866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43219 |
+| Nazwa angielska | Disney Princess Creative Castles​ |
+| Nazwa polska | Kreatywne zamki księżniczek Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424866 |
 
 LEGO DISNEY
 
@@ -3164,11 +4925,26 @@ Twórz zamki Disneya dla dwóch ulubionych księżniczek Disneya! Ten pomysłowy
 
 • Ten zestaw LEGO® ǀ Disney Princess™ spełnia surowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43219-1: https://a.allegroimg.com/original/113766/4b9f2328421ebeb4e21c1bd0da08
+
 ---
 
-## 43220 — Lego Disney 43220 Magiczna książka Piotrusia Pana i Wandy
+## 43220 — Magiczna książka Piotrusia Pana i Wandy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 63.17 zł · EAN: 05702017424873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43220 |
+| Nazwa angielska | Peter Pan & Wendy's Storybook Adventure |
+| Nazwa polska | Magiczna książka Piotrusia Pana i Wandy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm × gł. 12 cm |
+| EAN | 5702017424873 |
 
 LEGO Disney 43220 Magiczna książka Piotrusia Pana i Wandy
  
@@ -3194,11 +4970,26 @@ Dzięki trzem mikrolaleczkom LEGO — Piotrusia Pana, Wendy i Kapitana Haka — 
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43220-1: https://a.allegroimg.com/original/29597f/6b635a7e48548ca5779d482d7601
+
 ---
 
-## 43221 — Zestaw klocki Lego Disney 43221 100 lat animowanych postaci Disneya
+## 43221 — 100 lat animowanych postaci Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 139.25 zł · EAN: 05702017424897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43221 |
+| Nazwa angielska | 100 Years of Disney Animation Icons |
+| Nazwa polska | 100 lat animowanych postaci Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1022 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 32 cm |
+| EAN | 5702017424897 |
 
 LEGO Disney 43221 100 lat animowanych postaci Disneya
 
@@ -3219,45 +5010,27 @@ Ten zestaw z dekoracją ścienną z motywami Disneya pomaga rozwinąć kreatywno
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 43222 — Lego Disney Castle zestaw Zamek Disneya 43222
-
-*Kategoria: Disney · cena Allegro (2026-08-17): 2349.00 zł · EAN: 05702017424903 · in stock*
-
-**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
-
-**Odkryj niezwykły zestaw LEGO – nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
-
-**📦 Co otrzymujesz?**
-
-- **🆕 Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
-- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
-
-**✨ Dlaczego warto wybrać LEGO?**
-
-- **✅ 100% oryginalny produkt – bez kompromisów**
-- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
-- **✅ Zachwyca jakością wykonania i dbałością o detale**
-- **✅ Wspaniała rozrywka solo lub z bliskimi**
-
-Podziel się swoją miłością do postaci księżniczek Disneya i ich partnerów, budując zestaw LEGO ǀ Disney: Zamek Disneya. Ten szczegółowy zestaw, oparty na kilku popularnych filmach Disneya o księżniczkach, przedstawia różne pomieszczenia, klasyczne nawiązania do filmów Disneya, nostalgiczne detale oraz specjalną kapsułę czasu upamiętniającą 100 lat filmów Disneya — a wszystko to w wyjątkowym zamku przeznaczonym do eksponowania. Zawiera również obracający się parkiet taneczny w wielkiej sali balowej i „zaczarowany” kominek, który obraca się, odsłaniając kultowe wrzeciono ze „Śpiącej Królewny”.
-
-Niezwykły model kolekcjonerski
-
-Ten wyjątkowy, szczegółowy zestaw LEGO zawiera osiem minifigurek znanych postaci z ukochanych filmów Disneya — Kopciuszka, Księcia z Bajki, Królewnę Śnieżkę, Księcia Floriana, Księżniczkę Tianę, Księcia Naveena, Roszpunkę i Flynna Rydera. Dołączone minifigurki mogą zachęcić młodsze dzieci do zabawy w odgrywanie ról, ale ten zestaw to nie tylko zabawka. Ten wyjątkowy zamek do kolekcjonowania wygląda również niesamowicie imponująco jako ozdoba.
-
- 
-- Dziel się radością — podaruj fanowi księżniczek Disneya w wieku od 18 lat pełen detali zestaw LEGO® ǀ Disney: Zamek Disneya (43222) 
-- Pochwal się swoim modelem — ten szczegółowy zestaw zawiera 4837 elementów, które tworzą wielopoziomowy zamek pełen pomieszczeń, detali, elementów i funkcji, które na każdym kroku potrafią wzbudzić radość i nostalgię 
-- Znane postacie — zestaw zawiera osiem minifigurek LEGO® postaci z filmów Disneya: Kopciuszek, Książę z bajki, Królewna Śnieżka, Książę Florian, Księżniczka Tiana, Książę Naveen, Roszpunka i Flynn Ryder 
-- Kreatywny model — wymagające wyzwanie konstrukcyjne pełne ukrytych szczegółów, które spodoba się każdemu fanowi Disneya. Eksploruj świat wnętrza zamku, ożywiając go i stwórz imponującą ozdobę do podziwiania
+- 43221-1: https://a.allegroimg.com/original/051199/549b22a14b5abb400e37f97064bb
 
 ---
 
-## 43223 — Klocki Lego Disney 43223 Asha W Rosas
+## 43223 — Asha w Rosas
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702017424910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43223 |
+| Nazwa angielska | Asha in the City of Rosas |
+| Nazwa polska | Asha w Rosas |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424910 |
 
 **KLOCKI LEGO DISNEY 43223 ASHA W ROSAS**
 
@@ -3277,21 +5050,52 @@ Specyfikacja:
 - Nazwa zestawu: Asha w Rosas
 - Waga produktu z opakowaniem jednostkowym: 0,300 kg
 
+**Galeria:**
+
+- 43223-1: https://a.allegroimg.com/original/11bae1/9ac9ba5a44a28c38c3145b5aef3b
+
 ---
 
-## 43224 — 43224 Lego Disney Zamek króla Magnifico
+## 43224 — Zamek króla Magnifico
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 244.77 zł · EAN: 05702017424927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43224 |
+| Nazwa angielska | King Magnifico's Castle |
+| Nazwa polska | Zamek króla Magnifico |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 613 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 30 cm × gł. 11 cm |
+| EAN | 5702017424927 |
 
 Zamek króla Magnifico
 
 Disney LEGO 43224 Disney Zamek Króla Magnifico, Zestaw Klocków Dla Fanów filmu Życzenie, z Minilaleczkami Ashy, Dahlii i Króla Magnifico oraz Figurką Star, Prezent Na Święta dla Dzieci od 7 lat Znasz młodego fana filmu Disneya, Wish? Ten kreatywny zestaw LEGO, Zamek króla Magnifico, to świetna zabawka do zbudowania dla 7-latka, która pozwoli dzieciom rozwiązać tajemniczą zagadkę Na dzieci czekają minilaleczki LEGO ǀ Disney Życzenie, Ashy, Dahlii i Króla Magnifico, a także figurka Star; młodzi odkrywcy mogą razem z postaciami zgłębić każdy zakamarek zamku Disneya W tym czteropiętrowym zamku LEGO ǀ Disneya każdy kąt jest przeznaczony do zabawy; na dzieci czekają przytulna kuchnia z kominkiem oraz stoisko piekarnicze Wewnątrz pałacu Disneya do zbudowania mali odkrywcy znajdą także lustrzaną szafę, laboratorium, ołtarz i książkę, a nawet pokój ze zdejmowanym dachem w kształcie piramidy Każdy pokój w zamku daje dzieciom możliwość tworzenia własnych przygód; dzieląc kawałek ciasta z Dahlią w kuchni, lub prowadząc magiczne eksperymenty w laboratorium razem z postaciami Młodzi konstruktorzy mogą stworzyć własne Królestwo Rosas, łącząc ten zabawkowy zamek do zbudowania z innymi zestawami LEGO ǀ Disney Wish (43223 i 43231, sprzedawanymi oddzielnie) Ta zabawka do zbudowania dla 7-latki i wszystkich fanów Disneya zachęca do kreatywnej zabawy; to świetny prezent dla dziewczynki i chłopca na święta lub niespodzianka dla dzieci, które uwielbiają filmy Disneya i zamki LEGO Zamek króla Magnifico LEGO® ǀ Disney Zamek króla Magnifico Zabawka konstrukcyjna LEGO® ǀ Disney Zamek króla Magnifico 43224 (613 elementów) Mali fani mogą odkrywać zestaw z czteropiętrowym zamkiem, małymi modelami, trzema minilaleczkami LEGO® | Disney i figurką LEGO | Disney Star. Dowiedz się, co dzieje się w zamku króla Magnifico Dzieci w wieku od siedmiu lat rozwiążą zagadkę, bawiąc się zestawem LEGO® ǀ Disney Zamek króla Magnifico (43224). Pudełko zawiera czteropiętrowy zamek z Życzenia, nadchodzącego filmu Walt Disney Animation Studios. Obejmuje on kuchnię z kominkiem i ladą piekarniczą, lustrzaną szafę i pokój ze zdejmowanym piramidalnym dachem. Zestaw można dodać do innych zestawów konstrukcyjnych LEGO ǀ Disney z tej serii (43223 i 43231, sprzedawanych osobno), aby zabawa była jeszcze lepsza. Dzieci mogą łatwo i intuicyjnie budować, korzystając z aplikacji LEGO Builder. Można w niej powiększać i obracać modele w 3D, zapisywać zestawy i śledzić swoje postępy.Szczegółowy zamek Ten model do zbudowania zawiera cztery postacie z filmu Disneya Życzenie — Ashę, Dalię, króla Magnifico i Star — aby ułatwić dzieciom zabawę w odgrywanie ról podczas zwiedzania zamku. Pomóż spełnić dziecięcą pasję do magii, pałaców i życzeń dzięki zestawowi konstrukcyjnemu Disneya, który świetnie sprawdzi się jako prezent urodzinowy. Zarówno dzieci, jak i dorośli mogą podziwiać szczegółowy zamek i jego tajemnice. Co znajdziesz, odkrywając zamek Rosas z Ashą? Ten szczegółowy zestaw LEGO® ǀ Disney, oparty na nadchodzącym filmie wytwórni Walt Disney Animation Studios, Życzenie, pozwala zobaczyć, co dzieje się w środku. Zjedz ciasto z Dalią w kuchni, a potem przejdź na następne piętro. Laboratorium? Jakie eksperymenty przeprowadza król? Do czego służy księga zaklęć? I dlaczego te kule świecą? Tu tajemnica goni tajemnicę! • Intrygujące szczegóły — zestaw LEGO® ǀ Disney Zamek króla Magnifico (43224) sprawi, że fani filmów Disneya lub dzieci w wieku od siedmiu lat, które kochają magię i tajemnice, będą mogli odkrywać tajemnice zamku • Odkryj, co jest w środku – zestaw zawiera szczegółowy zamek z wieloma pomieszczeniami na czterech piętrach, mały piec do zbudowania, szafę z lustrami, ołtarz i książkę, zdejmowany przezroczysty dach i wiele więcej • Cztery fajne postacie — minilaleczki LEGO® ǀ Disney Asha, Dalia i król Magnifico oraz figurka Star LEGO ǀ Disney z nadchodzącego filmu Disneya Życzenie, które zainspirują do odgrywania przygód • Magiczny prezent dla dzieci w wieku od siedmiu lat — fanom Disneya i dzieciom, które uwielbiają rozwiązywać zagadki, spodoba się ten zestaw konstrukcyjny, który inspiruje do magicznych przygód i wymyślania nowych historii • Cztery piętra pełne zabawy – zamek ma 28 cm wysokości, 30 cm szerokości i 11 cm głębokości. Jest w nim mnóstwo pomieszczeń i tajemnic do zbadania, a po zabawie będzie stanowił świetną ozdobę • Jeszcze lepsza zabawa — kreatywne dzieci mogą urozmaicić zabawę, zbierając inne zestawy LEGO® z tej serii (43223 i 43231 — sprzedawane osobno) i budując własne Królestwo Rosas • Nowy sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania • Ważne umiejętności życiowe — trzy minilaleczki LEGO® | Disney, figurka Star LEGO | Disney i szczegółowy zamek zachęcają do kreatywnej zabawy i rozwijania ważnych umiejętności życiowych przez zabawę • Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują • Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na inne sposoby.
 
+**Galeria:**
+
+- 43224-1: https://a.allegroimg.com/original/11fbaa/cb0eee0a4ddbb585bc441d80b40e
+
 ---
 
-## 43225 — Lego Disney 43225 Królewska muszla Małej Syrenki Zestaw 1808 El
+## 43225 — LEGO DISNEY 43225 Królewska muszla Małej Syrenki  Super Zestaw 1808 El
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702017424941 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43225 |
+| Nazwa angielska | The Little Mermaid Royal Clamshell |
+| Nazwa polska | LEGO DISNEY 43225 Królewska muszla Małej Syrenki  Super Zestaw 1808 El |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1808 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 31 cm × gł. 20 cm |
+| EAN | 5702017424941 |
 
 LEGO DISNEY 43225 Królewska muszla Małej Syrenki  Super Zestaw 1808 El
 
@@ -3321,11 +5125,27 @@ Podziel się swoją miłością do Małej Syrenki Disneya, budując zestaw LEGO 
 - Disneyowski prezent — muszla ma 32 cm wysokości, 31 cm szerokości i 20 cm głębokości. Może być prezentem dla Ciebie lub każdego, kto pasjonuje się filmem „Mała syrenka” Disneya 
 - Cyfrowe instrukcje budowania — aplikacja LEGO Builder zawiera drukowaną i cyfrową wersję instrukcji do zestawu
 
+**Galeria:**
+
+- 43225-1: https://a.allegroimg.com/original/11fae5/fea9a18d4383abc0395ffa4405e7
+
 ---
 
-## 43226 — Lego Disney 43226 Duety Disneya klocki zestaw
+## 43226 — Para Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017433875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43226 |
+| Nazwa angielska | Disney Duos |
+| Nazwa polska | Para Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 553 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017433875 |
 
 Ten zestaw LEGO ǀ Disney: Duety Disneya spodoba się fanom filmów i dzieciom w wieku od sześciu lat. Zawiera cztery pary kultowych, zbudowanych z klocków postaci z klasycznych filmów. Każda postać jest ruchoma, a do każdej pary dołączona jest podstawka z elementem dekoracyjnym z okazji 100. rocznicy Disneya. Podczas budowania dzieci mogą uczestniczyć w łatwej i intuicyjnej przygodzie dzięki aplikacji LEGO Builder. Mogą w niej powiększać i obracać modele w 3D, zapisywać zestawy i śledzić swoje postępy.
  
@@ -3343,11 +5163,27 @@ Ten zestaw premium jest pełen ukochanych duetów: Lumiere i Trybik z „Piękne
 - Ustaw jako ozdobę — dwie najwyższe figurki Disneya do zbudowania to Trybik i Lumiere, które mają odpowiednio po 7 cm i 8 cm wysokości. Obie można ustawić jako ozdobę razem z pozostałymi parami 
 - Ważne umiejętności życiowe — osiem figurek LEGO do zbudowania z podstawkami pomaga dzieciom rozwijać niezbędne umiejętności życiowe poprzez zabawę, a jednocześnie dzieci mogą pokazać, jak uwielbiają swoje ulubione postaci z filmów Disneya
 
+**Galeria:**
+
+- 43226-1: https://a.allegroimg.com/original/1137af/584635354ac1b2f6f7dd9e283971
+
 ---
 
-## 43227 — Klocki Lego Disney Zestaw Symbole złoczyńców 43227
+## 43227 — Symbole złoczyńców
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017433882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43227 |
+| Nazwa angielska | Villain Icons |
+| Nazwa polska | Symbole złoczyńców |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1540 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017433882 |
 
 LEGO® Disney Ikony złoczyńców
  
@@ -3357,11 +5193,27 @@ LEGO Disney Ikony złoczyńców 43227
 
 Podaruj fanowi Disneya ten zestaw kolekcjonerski z czterema minifigurkami i mnóstwem ukrytych detali, które zachęcą do eksploracji i zabawy. Nostalgiczny zestaw LEGO® | Disney pełen fajnych szczegółów Okaż swoje zamiłowanie do złoczyńców Disneya, budując zestaw dla dorosłych LEGO® ǀ Disney Ikony złoczyńców (43227). Ten szczegółowy zestaw kolekcjonerski zawiera dwa zbudowane z klocków pudełka na kasety VHS nawiązujące do \"Aladyna\" i \"Śpiącej Królewny\" Disneya, kasetę VHS z \"Małą Syrenką\", książkę przedstawiającą \"Piękną i Bestię\", kartę Królowej Kier z \"Alicji w Krainie Czarów\", \"zatrute\" jabłko z \"Królewny Śnieżki\" i zegarek kieszonkowy Kapitana Haka z \"Piotrusia Pana\". Zestaw zawiera również kilka ukrytych elementów i funkcji, a także służy jako nostalgiczna podpórka do książek na półkę.
 
+**Galeria:**
+
+- 43227-1: https://a.allegroimg.com/original/056d9e/a03773a94b4599a372495b6374c8
+
 ---
 
-## 43229 — Lego 43229 Disney Skrzynia ze skarbami Arielki
+## 43229 — Skrzynia ze skarbami Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 205.00 zł · EAN: 05702017433899 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43229 |
+| Nazwa angielska | Ariel's Treasure Chest |
+| Nazwa polska | Skrzynia ze skarbami Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 370 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 9 cm |
+| EAN | 5702017433899 |
 
 LEGO® 43229 Skrzynia ze skarbami Arielki
 
@@ -3382,11 +5234,27 @@ Skrzynia sprawia, że dzieci z większą pewnością siebie budują i dekorują,
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43229-1: https://a.allegroimg.com/original/0519d2/09c98b674774b64a6b5ecac96248
+
 ---
 
-## 43230 — Lego Disney 43230 Kamera Walta Disneya 18+ Nowa
+## 43230 — Kamera Walta Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702017462530 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43230 |
+| Nazwa angielska | Walt Disney Tribute Camera |
+| Nazwa polska | Kamera Walta Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 811 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 21 cm × gł. 19 cm |
+| EAN | 5702017462530 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -3416,11 +5284,26 @@ Ten wyjątkowy zestaw LEGO ǀ Disney, stworzony z okazji setnej rocznicy powstan
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43230-1: https://a.allegroimg.com/original/11acdd/a6682aae478abc88f7db07c6f62f
+
 ---
 
-## 43231 — Lego Disney 43231 Chatka Aszy
+## 43231 — Chatka Aszy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702017462554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43231 |
+| Nazwa angielska | Asha's Cottage |
+| Nazwa polska | Chatka Aszy |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 509 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 22 cm × gł. 13 cm |
+| EAN | 5702017462554 |
 
 Lego DISNEY 43231 Chatka Ashy
  
@@ -3444,11 +5327,27 @@ Zestaw zawiera cztery postacie - Ashę, jej mamę Sakinę, dziadka Sabino i Star
 - Niezrównana jakość - elementy zestawów LEGO(R) już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim - elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że zestaw LEGO Disney Życzenie spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 43231-1: https://a.allegroimg.com/original/1164a4/f39df0b242988f38b0d6b5eccef9
+
 ---
 
-## 43232 — Lego Disney 43232 Lot Piotrusia Pana i Wendy nad Londynem
+## 43232 — Lot Piotrusia Pana i Wendy nad Londynem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702017476414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43232 |
+| Nazwa angielska | Peter Pan & Wendy's Flight over London |
+| Nazwa polska | Lot Piotrusia Pana i Wendy nad Londynem |
+| Seria | Disney |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm |
+| EAN | 5702017476414 |
 
 LEGO® Disney™ 43232 Lot Piotrusia Pana i Wendy nad Londynem
  
@@ -3500,11 +5399,27 @@ Zabierz do domu magię LEGO® | Disney dzięki naszym zabawkom budowlanym Disney
  
 **Dla dzieci w wieku: 10+ lat**
 
+**Galeria:**
+
+- 43232-1: https://a.allegroimg.com/original/114b0d/ad51140a4e71abaa9abca3ccf694
+
 ---
 
-## 43233 — Lego 43233 Disney Bryczka z opowieści Belli
+## 43233 — Bella i wróżkowy powóz konny
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702017583440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43233 |
+| Nazwa angielska | Belle's Storytime Horse Carriage |
+| Nazwa polska | Bella i wróżkowy powóz konny |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583440 |
 
 Lego 43233 Disney Bryczka z opowieści Belli
 
@@ -3520,11 +5435,27 @@ Podczas zabawy dzieci mogą oddać się pasji do magicznych historii i fantazji,
 
 Zabawka idealnie nadaje się do krótkich, codziennych zabaw. Można ją połączyć z innymi zestawami LEGO ǀ Disney z tej serii (sprzedawanymi osobno), aby urozmaicić zabawę. Więcej cyfrowej zabawy zapewnia dzieciom łatwa i intuicyjna aplikacja LEGO Builder. Mogą w niej powiększać i obracać modele w 3D, a także zapisywać zestawy i śledzić swoje postępy.
 
+**Galeria:**
+
+- 43233-1: https://a.allegroimg.com/original/119a04/6fd0290e4046984f4999eb02b319
+
 ---
 
-## 43234 — Lego Disney 43234 Mrożone smakołyki Elzy
+## 43234 — Mrożone smakołyki Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 96.88 zł · EAN: 05702017583464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43234 |
+| Nazwa angielska | Elsa's Frozen Treats |
+| Nazwa polska | Mrożone smakołyki Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583464 |
 
 Klocki LEGO® 43234 Disney Mrożone smakołyki Elzy
 
@@ -3548,11 +5479,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 5 lat, które lubią budowanie, zabawę w odgrywanie ról oraz historie z uniwersum Disney Frozen.
 
+**Galeria:**
+
+- 43234-1: https://a.allegroimg.com/original/113bd4/151746bd4c66981d1b1c5c6677d7
+
 ---
 
-## 43235 — Lego Disney Princess 43235 Scena muzyczna Arielki
+## 43235 — Disney Princess 43235 Ariel i jej scena muzyczna
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 38.97 zł · EAN: 05702017602073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43235 |
+| Nazwa angielska | Ariel's Music Stage |
+| Nazwa polska | Disney Princess 43235 Ariel i jej scena muzyczna |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm |
+| EAN | 5702017602073 |
 
 LEGO Disney Princess 43235 Scena muzyczna Arielki
 
@@ -3601,11 +5547,27 @@ Wymiary — zestaw z 60 elementami obejmuje scenę muzyczną do zbudowania, któ
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017602073
 
+**Galeria:**
+
+- 43235-1: https://a.allegroimg.com/original/11be6c/5781a216489cbb38b91d002e3f17
+
 ---
 
-## 43237 — Lego Disney Encanto 43237 Doniczka Isabeli Kwiaty 641 el. 9+
+## 43237 — Księczniczka Disneya 43237 Doniczka Isabel
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017584881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43237 |
+| Nazwa angielska | Isabela's Flowerpot |
+| Nazwa polska | Księczniczka Disneya 43237 Doniczka Isabel |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 641 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584881 |
 
 🌸🏺 LEGO® Disney Encanto Doniczka Isabeli 43237 – 641 Elementów
 
@@ -3699,11 +5661,27 @@ Budowanie rozwija kreatywność, cierpliwość i wyobraźnię.
 
 LEGO® Disney Doniczka Isabeli zachwyca zarówno podczas budowania, jak i po jego zakończeniu. Dzięki otwieranej konstrukcji dzieci mogą odkrywać ukryty pokój bohaterki, a po zamknięciu model zamienia się w efektowną dekorację z kwiatami. To zestaw, który łączy świat filmu **Nasze magiczne Encanto** z kreatywnym budowaniem LEGO®.
 
+**Galeria:**
+
+- 43237-1: https://a.allegroimg.com/original/11afbb/713abe46435cb501f161c92a546a
+
 ---
 
-## 43238 — Lego Disney 43238 Elsa i zamek z Krainy Lodu Elzy ----- Outlet
+## 43238 — Elsa i zamek z Krainy Lodu
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702017584898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43238 |
+| Nazwa angielska | Elsa's Frozen Castle |
+| Nazwa polska | Elsa i zamek z Krainy Lodu |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584898 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -3735,11 +5713,26 @@ Oprócz prostych ilustrowanych instrukcji przeznaczonych dla dzieci, które dopi
  
 • 163-elementowy zestaw z zamkiem ma 26 cm wysokości
 
+**Galeria:**
+
+- 43238-1: https://a.allegroimg.com/original/29d9f6/d7b316314789b8393bcb8912b6e5
+
 ---
 
-## 43240 — Lego Disney Diabolina Jako Smok 43240
+## 43240 — Księżniczki Disneya 43240 Zło w postaci smoka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 217.90 zł · EAN: 05702017591926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43240 |
+| Nazwa angielska | Maleficent’s Dragon Form |
+| Nazwa polska | Księżniczki Disneya 43240 Zło w postaci smoka |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 583 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591926 |
 
 **DIABOLINA JAKO SMOK - 43240**
 
@@ -3756,11 +5749,27 @@ Ten zestaw do zabawy pomaga dzieciom w wieku od siedmiu lat w nabywaniu pewnośc
 - Rozwój umiejętności życiowych — dwie minilaleczki LEGO® ǀ Disney i ruchoma figurka smoka oraz konia LEGO Disney zachęcają do rozwijania umiejętności życiowych przez zabawę
 - Wymiary — ten 583-elementowy zestaw dla dzieci obejmuje ruchomą figurkę smoka LEGO® Disney, która ma 18 cm wysokości
 
+**Galeria:**
+
+- 43240-1: https://a.allegroimg.com/original/11668f/713281ef41889c385697812fa164
+
 ---
 
-## 43241 — Lego 43241 Disney Wieża Roszpunki i Dziarskie Kaczątko
+## 43241 — Wieża Roszpunki i Dziarskie Kaczątko
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702017584928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43241 |
+| Nazwa angielska | Rapunzel's Tower and the Snuggly Duckling Tavern |
+| Nazwa polska | Wieża Roszpunki i Dziarskie Kaczątko |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 623 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584928 |
 
 LEGO 43241 Wieża Roszpunki i Dziarskie Kaczątko
  
@@ -3782,11 +5791,27 @@ Ten zestaw konstrukcyjny będzie ciekawym prezentem dla dzieci w wieku od sześc
  
 • 623-elementowy zestaw z wieżą, która ma 39 cm wysokości
 
+**Galeria:**
+
+- 43241-1: https://a.allegroimg.com/original/29b9ac/eb10bf8d4d01b7933f833b358410
+
 ---
 
-## 43242 — Lego Disney 43242 Chatka Królewny Śnieżki i siedmiu krasnoludków
+## 43242 — Chatka Królewny Śnieżki i siedmiu krasnoludków
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1195.00 zł · EAN: 05702017591032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43242 |
+| Nazwa angielska | Snow White and the Seven Dwarfs' Cottage |
+| Nazwa polska | Chatka Królewny Śnieżki i siedmiu krasnoludków |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 35 cm × gł. 20 cm |
+| EAN | 5702017591032 |
 
 LEGO®
  
@@ -3817,11 +5842,27 @@ Ten wysokiej jakości zestaw LEGO® Disney dla dorosłych stanowi wyjątkową oz
 - Instrukcje budowania 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz śledzić postępy, a także powiększać i obracać model w 3D 
 - Wymiary — zestaw z 2229 elementami obejmuje chatkę do zbudowania, która ma 20 cm wysokości, 35 cm szerokości i 20 cm głębokości
 
+**Galeria:**
+
+- 43242-1: https://a.allegroimg.com/original/115734/f939b3744e5889b96367ece4680f
+
 ---
 
-## 43243 — Lego 43243 Disney Król Lew lwiątko Simba
+## 43243 — lwiątko Simba
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 60.66 zł · EAN: 05702017602080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43243 |
+| Nazwa angielska | Simba the Lion King Cub |
+| Nazwa polska | lwiątko Simba |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017602080 |
 
 **Zachwyć sześciolatków i starsze dzieci zestawem LEGO® ǀ Disney Król Lew — lwiątko Simba (43243) z figurką do zbudowania i uczcijcie 30. rocznicę powstania Króla Lwa.**
  
@@ -3845,11 +5886,26 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Rozwój umiejętności życiowych — postać do zbudowania LEGO® ǀ Disney i mały model dodatkowy sprawiają, że ten zestaw konstrukcyjny dla dzieci pomaga rozwijać umiejętności życiowe przez zabawę 
 - Wymiary — ten 222-elementowy zestaw zawiera figurkę Simby do zbudowania o wysokości 11 cm
 
+**Galeria:**
+
+- 43243-1: https://a.allegroimg.com/original/05ee91/5604c6ae40f39a96fc6e897bca7d
+
 ---
 
-## 43244 — Lego Disney Frozen Kraina Lodu Lodowy Pałac Elzy 43244
+## 43244 — Disney Princess 43244 Elsa i jej lodowy pałac
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 424.90 zł · EAN: 05702017591933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43244 |
+| Nazwa angielska | Elsa's Ice Palace |
+| Nazwa polska | Disney Princess 43244 Elsa i jej lodowy pałac |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 630 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 27 cm × gł. 14 cm |
+| EAN | 5702017591933 |
 
 LODOWY PAŁAC ELZY
 
@@ -3873,11 +5929,26 @@ Sześciolatki i starsze dzieci oraz fani filmu Kraina Lodu będą zachwyceni szc
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 43244-1: https://a.allegroimg.com/original/11ebc4/d6dec4354b88ae0300871523022f
+
 ---
 
-## 43245 — Lego 43245 Magiczny dom Madrigalów
+## 43245 — Disney 43245 Magiczny Dom Madrygałów
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 679.99 zł · EAN: 05702017601106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43245 |
+| Nazwa angielska | The Magical Madrigal House |
+| Nazwa polska | Disney 43245 Magiczny Dom Madrygałów |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1560 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 38 cm × gł. 14 cm |
+| EAN | 5702017601106, 5702017718378 |
 
 LEGO® 43245 Magiczny dom Madrigalów
 
@@ -3896,11 +5967,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Rozwój umiejętności życiowych — siedem postaci LEGO® ǀ Disney i dwie figurki zwierząt LEGO ǀ Disney, osiem pomieszczeń i elementy zachęcające do zabawy sprawiają, że ten zestaw konstrukcyjny pomaga rozwijać umiejętności życiowe przez zabawę
 - Wymiary — ten 1560-elementowy zestaw konstrukcyjny LEGO® zawiera dom z filmu Nasze magiczne Encanto, który ma 31 cm wysokości, 38 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 43245-1: https://a.allegroimg.com/original/118f10/945d90f447fdae4a98adea01e2b2
+- 43245-2: https://a.allegroimg.com/original/11033e/f7aa08bf4a7e9295b437a8186ace
+
 ---
 
-## 43246 — Lego Disney 43246 Książka i jego przygody na rynku
+## 43246 — Książka i jego przygody na rynku
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017584935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43246 |
+| Nazwa angielska | Princess Market Adventure |
+| Nazwa polska | Książka i jego przygody na rynku |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 817 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584935 |
 
 LEGO Disney Przygoda księżniczki Disneya na targu (43246) 
  
@@ -3926,61 +6013,27 @@ Ten zestaw do zbudowania Disneya zwiększa pewność siebie dzieci i inspiruje d
  
 • 817-elementowy zestaw obejmuje restaurację mierzącą 15 cm szerokości
 
----
+**Galeria:**
 
-## 43247 — Lego 43247 Disney Król Lew młody Simba
-
-*Kategoria: Disney · cena Allegro (2026-08-17): 530.07 zł · EAN: 00673419392204 · in stock*
-
-Pokaż swoją pasję do Króla Lwa dzięki figurce Simby LEGO® ǀ Disney z obracającą się głową! Poczuj twórczą radość, budując model młodego Króla Lwa z okazji 30. rocznicy powstania filmu. Spędź czas z młodszym członkiem rodziny, budując swój model, podczas gdy maluch będzie budować model lwiątka Simby. Gdy skończycie tworzyć, możecie z dumą zaprezentować swoje modele na półce.
-
-Zestaw konstrukcyjny LEGO® dla dorosłych z figurką Simby
-
-Zainspiruj fanów kreatywnym zestawem LEGO® ǀ Disney dla dorosłych z figurką Simby jako młodego Króla Lwa, którą można ustawić na półce
-
-Podziel się pasją do kultowych filmów dzięki zestawowi **LEGO® ǀ Disney Król Lew — młody Simba (43247)**. Ten zestaw konstrukcyjny dla dorosłych został stworzony z okazji 30. rocznicy powstania Króla Lwa i zawiera figurkę Simby z ruchomą głową, dziękiczemu model można ustawiać w różnych pozach. Ten zestaw dla dorosłych to ciekawy, nostalgiczny prezent, który wykorzystuje zaawansowane techniki budowania i wywołuje poczucie twórczej radości, gdy dodasz ostatni element i ustawisz Simbę na półce. Ten z estaw konstrukcyjny LEGO premium dla dorosłych stanowi wyjątkową ozdobę lub tematyczny pomysł na prezent dla dorosłych fanów Króla Lwa. Można go dodać do innych zestawów konstrukcyjnych LEGO® Disney z tej serii lub połączyć z zestawem towarzyszącym Król Lew — lwiątko Simba (wszystkie zestawy sprzedawane osobno). Możesz też cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów i zapisywanie zestawów w jednym miejscu.
-
-• Zestaw konstrukcyjny LEGO® ǀ Disney dla dorosłych — podaruj sobie lub innemu dorosłemu fanowi Króla Lwa figurkę młodego Simby, która rozbudzi nostalgię i twórczą dumę
-
-• Świętuj rocznicę filmu — ten zestaw konstrukcyjny dla dorosłych zawiera figurkę Simby w klasycznej pozie z ruchomą głową. Model powstał z okazji 30. rocznicy filmu Król Lew
-
-• Kreatywne budowanie — tę figurkę Simby LEGO® ǀ Disney z ruchomą głową można zbudować razem z zestawem towarzyszącym Król Lew — lwiątko Simba (sprzedawanym oddzielnie) dla młodszych konstruktorów
-
-• Poczuj radość z budowania — ten kolekcjonerski zestaw konstrukcyjny LEGO® zapewni dorosłym fanom relaksującą rozrywkę dzięki ambitnemu modelowi, który stanowi ciekawą ozdobę
-
-• Disnejowski prezent dla dorosłych — figurka Simby z ruchomą głową to nostalgiczny prezent dla miłośników filmu lub gratka dla Ciebie lub innego dorosłego fana DisneyaZrelaksuj się — ciesz się każdym etapem budowania dzięki aplikacji LEGO® Builder, która umożliwia śledzenie postępów, powiększanie i obracanie modelu w 3D oraz zapisywanie wszystkich zestawów w jednym miejscu
-
-• Wymiary — ten 1445-elementowy zestaw LEGO® dla dorosłych zawiera figurkę lwa do zbudowania, która ma 29 cm wysokości
+- 43246-1: https://a.allegroimg.com/original/29c7ea/ca2382a64e01b682bb0dc882b5c6
 
 ---
 
-## 43249 — Lego Disney 43249 Stitch
+## 43251 — Rezerwat zwierząt Antonia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 202.10 zł · EAN: 05702017583624 · in stock*
-
-LEGO Disney Classic 43249 Stitch
- 
-Zestaw LEGO® ǀ Disney Stitch (43249) jest interesującym zestawem, który pozwala zbudować postać Stitcha z popularnego filmu Disneya "Lilo i Stitch". Zestaw ten jest przeznaczony dla starszych dzieci oraz fanów filmu, szczególnie tych w wieku od dziewięciu lat wzwyż.
- 
-Charakterystyczne cechy zestawu:
- 
-**Postać Stitcha**: Model Stitcha w tym zestawie jest wiernym odwzorowaniem psotnego kosmity z filmu. Jego charakterystyczny wygląd, w tym hawajska koszula, jest odzwierciedlony w zestawie LEGO.
- 
-**Ruchome elementy**: Zestaw umożliwia ustawienie uszu Stitcha oraz obracanie jego głowy, co dodaje zabawie dynamiki i umożliwia różne pozycje postaci.
- 
-**Dodatkowe akcesoria**: W zestawie znajdują się również inne elementy, takie jak rożek do lodów oraz kwiat. Kwiat można doczepić do postaci, co dodaje dodatkowego uroku modelowi.
- 
-**Wartość edukacyjna i zabawa**: Zestaw LEGO® ǀ Disney Stitch jest nie tylko ozdobą, ale także oferuje wartość edukacyjną poprzez rozwijanie umiejętności konstruowania i kreatywności. Montaż różnorodnych elementów może być także świetną zabawą dla dzieci, a także sposobem na spędzenie czasu dla fanów filmu.
- 
-Zestaw ten wydaje się być atrakcyjny zarówno pod względem estetycznym, jak i funkcjonalnym, dostarczając zarówno elementów zabawy, jak i możliwość eksponowania gotowego modelu. Jego charakterystyczne cechy sprawiają, że jest on interesującą propozycją dla fanów "Lilo i Stitcha" oraz miłośników LEGO w różnym wieku.
- 
-Wymiary — ten 730-elementowy zestaw zawiera figurkę do zbudowania o wysokości 20 cm.
-
----
-
-## 43251 — Lego Disney 43251 Rezerwat zwierząt Antonia
-
-*Kategoria: Disney · cena Allegro (2026-08-17): 132.98 zł · EAN: 05702017600826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43251 |
+| Nazwa angielska | Antonio's Animal Sanctuary |
+| Nazwa polska | Rezerwat zwierząt Antonia |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600826 |
 
 Disney Rezerwat zwierząt Antonia LEGO ǀ Disney Encanto Rezerwat zwierząt Antonia LEGO ǀ Disney Encanto Rezerwat zwierząt Antonia 43251 Zainspiruj dzieci do zabawy zestawem LEGO ǀ Disney Encanto z trzypoziomowym drzewem, postaciami Mirabel i Antonia oraz siedmioma figurkami zwierząt.
 
@@ -3993,11 +6046,27 @@ Disney Rezerwat zwierząt Antonia LEGO ǀ Disney Encanto Rezerwat zwierząt Anto
 - Zestaw LEGO ǀ Disney do opieki nad zwierzętami — dzieci mogą tworzyć modele, a następnie odgrywać ciekawe historie o życiu ze zwierzętami i opiece nad nimi 
 - Prezent dla dzieci w wiekuod siedmiu lat — zestaw do budowania ze znanymi postaciami, miejscami i akcesoriami z filmu Nasze magiczne Encanto gwarantuje wspaniałą zabawę i będzie fajnym prezentem dla dziewczynek, chłopców i fanów filmów
 
+**Galeria:**
+
+- 43251-1: https://a.allegroimg.com/original/05c888/8c5e3e6549448519c00e9546a516
+
 ---
 
-## 43252 — Lego Disney 43252 Doniczka Vaiany 9+ Nowa
+## 43252 — Doniczka Vaiany
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 224.00 zł · EAN: 05702017600857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43252 |
+| Nazwa angielska | Moana's Flowerpot |
+| Nazwa polska | Doniczka Vaiany |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 619 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 11 cm × gł. 12 cm |
+| EAN | 5702017600857 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4035,11 +6104,27 @@ Zarówno dzieci, jak i dorośli fani docenią wszystkie szczegóły doniczki i b
 
 - Wymiary — zestaw LEGO® z 619 elementami obejmuje doniczkę z kwiatami, która ma 22 cm wysokości, 11 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 43252-1: https://a.allegroimg.com/original/0524bb/e5929ffe49798220fec3cdbf84b6
+
 ---
 
-## 43254 — Klocki Lego Disney Princess Ariel 141 elementów
+## 43254 — Disney Princess 43254 Ariel i jej kryształowa jaskinia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 119.98 zł · EAN: 05702017601113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43254 |
+| Nazwa angielska | Ariel's Crystal Cavern |
+| Nazwa polska | Disney Princess 43254 Ariel i jej kryształowa jaskinia |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 19 cm × gł. 7 cm |
+| EAN | 5702017601113 |
 
 LEGO® Disney
  
@@ -4073,21 +6158,52 @@ Zabawka dla przedszkolaków — zestawy konstrukcyjne LEGO® dla dzieci w wieku 
  
 Wymiary — zestaw ze 141 elementami obejmuje kryształową grotę, która ma 11 cm wysokości, 19 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 43254-1: https://a.allegroimg.com/original/050df7/b0a041e84f38bfe23ee266a8e2fd
+
 ---
 
-## 43256 — Zestaw Lego Disney Przygoda na saniach Anny 192 elementy
+## 43256 — Przygoda Anny na saniach
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 158.54 zł · EAN: 05702017813950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43256 |
+| Nazwa angielska | Anna's Sleigh Adventure |
+| Nazwa polska | Przygoda Anny na saniach |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813950 |
 
 Przygoda na sankach Anny
 
 ǀ Disney LEGO ǀ Disney Przygoda na sankach Anny, Zabawka dla Dziecka do Zbudowania z 4 Postaciami w tym, Olafem i Svenem, Zestaw Kreatywny dla Dziewczynki i Chłopca, Pomysł na Prezent dla 4-latki, 43256 dziewczynka córka siostrzenica 5 6 7 8 encanto roszpunka śnieżka krasnoludki dżasmina pocahontas elza kopciuszek arielka bella piękna bestia mała syrenka klocki kolekcjonerskie księżniczki prezent film tiana aurora mirabel Przygoda na sankach Anny LEGO® ǀ Disney Przygoda na sankach Anny Zestaw LEGO® ǀ Disney Przygoda na sankach Anny 43256 Podaruj fanom Krainy lodu Disneya zestaw LEGO® | Disney z saniami, stoiskiem z gorącą czekoladą oraz minilaleczkami LEGO ǀ Disney Anny i Kristoffa. Zestaw z czterema postaciami z filmu Kraina lodu Disneya Na czteroletnich i starszych fanów Krainy lodu Disneya czeka niesamowita zabawa i nauka budowania. Zestaw LEGO® ǀ Disney Przygoda na sankach Anny (43256) zawiera stoisko z gorącą czekoladą, stajnię, sanie, małe sanki, górkę do zjeżdżania i inne wspaniałe akcesoria. Obejmuje również cztery znane postacie: minilaleczki LEGO ǀ Disney Anny i Kristoffa, figurkę bałwanka Olafa oraz figurkę LEGO ǀ Disney Svena.Pobudź wyobraźnię małych fanów Krainy lodu Disneya dzięki zestawowi, który sprawdzi się jako prezent urodzinowy. Zabawka rozwija poczucie pewności siebie u maluchów i pozwala dorosłym brać udział w zabawie. Dwa klocki startowe pomagają dzieciom w rozpoczęciu budowania, a każda torebka z klockami zawiera postać, aby można było szybko zacząć zabawę i dokończyć budowanie później! Ponadto model można łączyć z innymi zestawami LEGO ǀ Disney (sprzedawanymi osobno).Oprócz prostych ilustrowanych instrukcji dla dzieci uczących się czytać, w aplikacji LEGO Builder dostępne są proste, intuicyjne instrukcje i narzędzia, dzięki którym dzieci mogą powiększać, obracać modele w 3D i nie tylko. Dołącz do Anny i Kristoffa podczas zabawy wspaniałym zestawem z filmu Kraina lodu Disneya! Zapakuj duże sanie z marchewką i laską cukrową, zaprzęgnij Svena i w drogę! Patrz, jest górka do zjeżdżania na sankach! Anna nie odpuści takiej okazji! Hura, ale zabawa! Napij się gorącej czekolady przy stoisku Olafa, nakarm Svena marchewką i wracaj na stok! • Zabawka z filmu Kraina lodu Disneya — zaskocz czterolatków i starsze dzieci zestawem Przygoda na sankach Anny, który pobudza wyobraźnię podczas budowania i odgrywania zimowych przygód • Zestaw z modelem do zbudowania — sanie, stoisko z gorącą czekoladą, stajnia, minilaleczki LEGO® ǀ Disney Anny i Kristoffa, figurka LEGO | Disney bałwana Olafa oraz figurka renifera Svena • Fantastyczne funkcje w zestawie — stoisko ma ladę i stajnię, sanki mają uprząż i mały schowek z tyłu, a górka do zjeżdżania na sankach ma miniaturowe sanki i drabinkę, aby ułatwić dostęp • Akcesoria umożliwiające opowiadanie historii — ten zestaw LEGO® pozwala fanom Disneya puścić wodze fantazji i spędzić zimę na zabawie, np.
 
+**Galeria:**
+
+- 43256-1: https://a.allegroimg.com/original/053e70/2c767fb3458ca9dba3bb1f99cfb6
+
 ---
 
-## 43257 — Lego Classic Disney Lilo i Stitch Andzia 43257
+## 43257 — Andzia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 209.47 zł · EAN: 05702017813967 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43257 |
+| Nazwa angielska | Angel |
+| Nazwa polska | Andzia |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 784 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813967 |
 
 Zachwyć fanów serialu Lilo i Stitch oraz dzieci od 9 lat wyrafinowanym, ruchomym modelem **LEGO® Disney (43257) Andzia**. Aniołek z serialu Lilo i Stitch z pracowni Disneya ma ruchome uszy i czułki z tyłu obrotowej głowy. W zestawie również motyl oraz 3 „latające” serduszka, które po złożeniu można wykorzystać jako ozdobę. Aniołek stanowi doskonały pomysł na prezent dla fanów serialu Disney Lilo i Stitch oraz dziewczynek i chłopców w wieku od 9 lat, którzy z tym zestawem będą cieszyć się godzinami budowania i zabawy, a następnie dumnie wyeksponują model.
  
@@ -4102,11 +6218,26 @@ Dzieci, które kochają historie Disneya i fani serialu **Lilo i Stitch** pokoch
 - Liczba elementów: 784 
 - Nadaje się dla dzieci od 9 lat
 
+**Galeria:**
+
+- 43257-1: https://a.allegroimg.com/original/29beef/d91e1f49497cadb6c243670f2000
+
 ---
 
-## 43258 — Lego Disney Vaiana Barka Kakamorów 43258
+## 43258 — Disney 43258 Farma Kakamorra
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 274.98 zł · EAN: 05702017814476 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43258 |
+| Nazwa angielska | Kakamora Barge |
+| Nazwa polska | Disney 43258 Farma Kakamorra |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 572 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 14 cm |
+| EAN | 5702017814476 |
 
 **Barka Kakamorów**
 
@@ -4123,11 +6254,27 @@ Ten zestaw inspirowany filmem Vaiana 2 Disneya świetnie nadaje się na prezent.
 - Więcej możliwości zabawy — dzięki dziewięciu postaciom LEGO® ǀ Disney, dużej łodzi dzielonej na sekcje i wielu dodatkowym detalom ten zestaw konstrukcyjny LEGO ǀ Disney inspiruje do twórczej zabawy i rozwija ważne umiejętności życiowe
 - Wymiary zestawu z filmu Vaiana — ten 572-elementowy zestaw zawiera Barkę Kakamorów, która ma 22 cm wysokości, 29 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 43258-1: https://a.allegroimg.com/original/1113f2/0a99ca094be29d98403bfdaf49b8
+
 ---
 
-## 43259 — Lego Disney Princess Wirująca Arielka (43259) [klocki]
+## 43259 — Księczniczka Disneya 43259 Wirująca Arielka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 62.61 zł · EAN: 05702017814483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43259 |
+| Nazwa angielska | Twirling Ariel |
+| Nazwa polska | Księczniczka Disneya 43259 Wirująca Arielka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814483 |
 
 LEGO Disney Princess Wirująca Arielka (43259) [KLOCKI]
 
@@ -4159,11 +6306,26 @@ Ten zestaw LEGO dla 5-latki umożliwia dzieciom świetną zabawę i wykazanie si
 
 **SKU:** 3257236
 
+**Galeria:**
+
+- 43259-1: https://a.allegroimg.com/original/115909/bd4043944553ad8512294f3d2fca
+
 ---
 
-## 43260 — Lego Disney Zabawy Vaiany na wyspie 43260
+## 43260 — Księczniczka Disneya 43260 Moana i zabawa na wyspie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 58.49 zł · EAN: 05702017814490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43260 |
+| Nazwa angielska | Moana's Island Fun |
+| Nazwa polska | Księczniczka Disneya 43260 Moana i zabawa na wyspie |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814490 |
 
 LEGO Disney Zabawy Vaiany na wyspie 43260
 
@@ -4188,21 +6350,52 @@ Zabawy Vaiany na wyspie
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017814490
 
+**Galeria:**
+
+- 43260-1: https://a.allegroimg.com/original/1100d0/93e4263d4f3dbb0c507815ccda50
+
 ---
 
-## 43261 — 43261 Lego Disney Nasze magiczne Encanto Mini dom 43261
+## 43261 — Disney 43261 Miniaturowy domek z filmu Encanto
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 65.55 zł · EAN: 05702017814506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43261 |
+| Nazwa angielska | Encanto Mini House |
+| Nazwa polska | Disney 43261 Miniaturowy domek z filmu Encanto |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814506 |
 
 Nasze magiczne Encanto — Minidom
 
 ǀ Disney LEGO ǀ Disney Nasze magiczne Encanto — Minidom, Zabawka dla Dziecka z Domkiem do Zbudowania, 2 Mikrolaleczki i Figurka Kapibary, Zestaw dla 5-latki, Prezent dla Dziewczynki i Chłopca, 43261 dziewczynka córka siostrzenica 5 6 7 8 frozen roszpunka królewna śnieżka śpiąca królewna krasnoludki dżasmina pocahontas elza kopciuszek arielka bella piękna bestia mała syrenka klocki kolekcjonerskie księżniczki prezent film tiana aurora Nasze magiczne Encanto — Minidom LEGO® ǀ Disney Nasze magiczne Encanto — Minidom Zestaw LEGO® ǀ Disney Nasze magiczne Encanto — Minidom 43261 Podaruj małym fanom filmu Nasze magiczne Encanto minidomek z pomieszczeniami, akcesoriami i trzema postaciami LEGO® ǀ Disney Szczegółowy minidomek z trzema postaciami z Encanto Podaruj pięcioletnim i starszym miłośnikom kreatywnej zabawy ten wysokiej jakości zestaw LEGO® ǀ Disney Nasze magiczne Encanto — Minidom (43261). To mikroświat oferujący mnóstwo możliwości. Budynek się otwiera, odsłaniając kilka pomieszczeń zachęcających do kreatywnego opowiadania historii. Są tu także trzy postacie LEGO® ǀ Disney, zjeżdżalnia i inne akcesoria. Po ukończonej zabawie malutki dom Madrigalów można zamknąć na klucz i z łatwością przenieść, by bawić się w innym miejscu.Ten fajny prezent urodzinowy dla chłopców i dziewczynek jest pełen funkcji i akcesoriów, które inspirują do odgrywania ról i pomagają dzieciom rozwijać pewność siebie, gdy wymyślają własne historie lub odtwarzają ulubione sceny z filmu. Zestawem można bawić się oddzielnie lub łączyć z innymi zestawami LEGO ǀ Disney (sprzedawanymi osobno). Ponadto dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która pozwala im powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy. Odwiedź Mirabel i Antonia w ich domu! Użyj klucza, aby otworzyć dom, a następnie drzwi i odkryj wszystkie fajne detale: od kultowej świecy w wieży na piętrze, po piekarnik w kuchni i pianino, przy którym kołysze się Luisa. Kiedy już tam będziesz, zajrzyj do kapibary, by ją uczesać, i zerknij na rośliny w ogrodzie. O, spójrz, zjeżdżalnia! Czas się pobawić!
 
+**Galeria:**
+
+- 43261-1: https://a.allegroimg.com/original/11cfef/2063ab5d4663a8eb2410f50f0432
+
 ---
 
-## 43262 — Lego Disney Złoczyńcy Suknie Diaboliny i Cruelli De Mon 43262
+## 43262 — Spódnica Malice i Cruella De Vil
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 168.61 zł · EAN: 05702017814513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43262 |
+| Nazwa angielska | Maleficent's and Cruella de Vil's Dresses |
+| Nazwa polska | Spódnica Malice i Cruella De Vil |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 524 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814513 |
 
 LEGO Disney Złoczyńcy Suknie Diaboliny i Cruelli De Mon 43262
 
@@ -4216,11 +6409,27 @@ Zarówno dzieci, jak i dorośli fani docenią wszystkie szczegóły sukni i będ
 
 #16851
 
+**Galeria:**
+
+- 43262-1: https://a.allegroimg.com/original/11f799/fa680f40480c990d1afd9a095471
+
 ---
 
-## 43263 — Lego Disney, Zamek z Pięknej i Bestii (43263)
+## 43263 — Zamek z Pięknej i Bestii
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1089.99 zł · EAN: 05702017823720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43263 |
+| Nazwa angielska | Beauty and the Beast Castle |
+| Nazwa polska | Zamek z Pięknej i Bestii |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2916 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 53 cm × szer. 33 cm × gł. 15 cm |
+| EAN | 5702017823720 |
 
 Przedmiotem oferty jest nowy i oryginalnie zapakowany zestaw klocków LEGO Disney, Zamek z Pięknej i Bestii (43263).
 
@@ -4244,11 +6453,26 @@ Ten zestaw LEGO® z zamkiem to nostalgiczny pomysł na prezent dla dorosłych fa
 
 - Wymiary — czteropiętrowy zamek do zbudowania w tym 2916-elementowym zestawie LEGO® dla dorosłych ma 53 cm wysokości, 33 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 43263-1: https://a.allegroimg.com/original/11e7e3/630906914f5dbb73a6c0cd1be37e
+
 ---
 
-## 43264 — Lego Disney Pixar Toy Story Okolicznościowy pociąg i Pan Sterowany 43264
+## 43264 — Disney 43264 Toy Story Świąteczny pociąg i samochód
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 127.99 zł · EAN: 05702017814520 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43264 |
+| Nazwa angielska | Toy Story Celebration Train & RC Car |
+| Nazwa polska | Disney 43264 Toy Story Świąteczny pociąg i samochód |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814520 |
 
 **LEGO Disney i Pixar Toy Story - pociąg i Pan Sterowany 43264**
 
@@ -4274,21 +6498,51 @@ Zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzają je w świat twór
 
 206-elementowy zestaw z pociągiem i trzema wagonikami ma 32 cm długości
 
+**Galeria:**
+
+- 43264-1: https://a.allegroimg.com/original/11d711/c421aead40659eed030970ead47c
+
 ---
 
-## 43265 — Lego Disney Princess 43265 Kraina lodu – Zamek w Arendelle
+## 43265 — Disney Princess 43265 Zamek Arendelle z filmu Kraina Lodu
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 89.43 zł · EAN: 05702017814544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43265 |
+| Nazwa angielska | Arendelle Frozen Castle |
+| Nazwa polska | Disney Princess 43265 Zamek Arendelle z filmu Kraina Lodu |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814544 |
 
 Kraina lodu — Zamek w Arendelle
 
 ǀ Disney LEGO ǀ Disney Kraina lodu — Zamek w Arendelle, Model z Minilaleczką Elzy i Figurką Olafa, Zabawka dla Dziecka, dla Dziewczynki i Chłopca, Pomysł na Prezent dla 5-latki i Starszych Dzieci, 43265 dziewczynka córka siostrzenica 4 6 7 8 encanto roszpunka królewna śnieżka śpiąca królewna krasnoludki dżasmina pocahontas elza kopciuszek arielka bella piękna bestia mała syrenka klocki kolekcjonerskie księżniczka film tiana mirabel Kraina lodu — Zamek w Arendelle LEGO® ǀ Disney Kraina lodu — Zamek w Arendelle Zestaw LEGO® ǀ Disney Kraina lodu — Zamek w Arendelle 43265 Pobudź kreatywność dzieci zamkiem z Krainy lodu Disneya, który zawiera kominek, otwierane drzwi, dwa łóżka, trzy postacie LEGO® ǀ Disney i nie tylko. Zamek z Krainy lodu Disneya oraz trzy postacie Na pięciolatków i starsze dzieci czeka wspaniała zimowa przygoda z zestawem LEGO® ǀ Disney Kraina lodu — Zamek w Arendelle (43265). Zawiera on zamek do zbudowania z otwieranymi drzwiami, jadalnią i sypialnią, dwie pary sanek do urządzania wyścigów oraz wiele innych ciekawych akcesoriów. Całość uzupełniają minilaleczki LEGO ǀ Disney Elzy i Anny oraz figurka bałwana Olafa.Ta wysokiej jakości zabawka jest pełna funkcji i cech, które inspirują do ciekawej zabawy i budowania. Zestaw sprawdzi się jako prezent urodzinowy dla chłopców, dziewczynek i wszystkich fanów Krainy lodu Disneya. Model można połączyć z innymi zestawami LEGO ǀ Disney z tej serii (sprzedawanymi osobno).Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy. Czas na przyjęcie na zamku w Arendelle! Dołącz do Anny, Elzy i Olafa w ośnieżonym zamku, który zdobią błyszczące kryształki lodu. Ale piękne! Robi się zimno, więc czas wejść do środka i ogrzać się przy ogniu. Na stole w jadalni czekają na Ciebie pyszne babeczki i napoje! Następnie weź udział w piżamowym przyjęciu w pokoju Anny i Elzy, aby nabrać sił przed kolejnym dniem zimowej zabawy!
 
+**Galeria:**
+
+- 43265-1: https://a.allegroimg.com/original/05e663/dd818525438b95dcb0109eda7ae5
+
 ---
 
-## 43266 — Lego Disney Princess Suknia Kopciuszka 43266
+## 43266 — SUKNIA KOPCIUSZKA
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 93.43 zł · EAN: 05702017814551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43266 |
+| Nazwa angielska | Cinderella's Dress |
+| Nazwa polska | SUKNIA KOPCIUSZKA |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 474 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814551 |
 
 LEGO Disney Princess Suknia Kopciuszka 43266
 
@@ -4310,69 +6564,78 @@ Konstruktorzy mogą też korzystać z intuicyjnej aplikacji LEGO Builder, w któ
 
 -
 
----
+**Galeria:**
 
-## 43267 — Lego Disney Princess Zamek księżniczek i królewskie zwierzaki 43267
-
-*Kategoria: Disney · cena Allegro (2026-08-17): 388.99 zł · EAN: 05702017814568 · in stock*
-
-**LEGO Disney Zamek księżniczek i zwierzaki 43267**
-
-Odkryj magiczny świat Disneya dzięki zestawowi z zamkiem LEGO® ǀ Disney Zamek księżniczek i królewskie zwierzaki (43267). To świetny pomysł na prezent dla dziewczynek i chłopców w wieku od sześciu lat. Zamek ma pomieszczenia dla każdej księżniczki i można go zamknąć przed ustawieniem na półce. Zawiera też wiele akcesoriów i funkcji, w tym łuk, tunel z wodospadem, meble i wiele innych. W zestawie jest pięć minilaleczek LEGO ǀ Disney: Ariel, Roszpunka, Mulan, Dżasmina i Vaiana, a także pięć zwierzątek LEGO ǀ Disney: Florek, Pascal, Radża, Pua i pierwsza postać Mushu w historii.
-
-Ten zestaw z zamkiem księżniczek Disneya to świetny pomysł na prezent dla dziewczynek i chłopców, którzy mogą się nim bawić bez końca. Można go połączyć z innymi zestawami LEGO ǀ Disney z tej serii (sprzedawanymi osobno). Ponadto dzieci mogą budować razem z przyjaciółmi i rodziną dzięki aplikacji LEGO Builder, która oferuje ciekawe doświadczenia podczas budowania tego zestawu. Zestaw zawiera 787 elementów.
-
-Zachwyć dzieci i fanów Disneya zestawem konstrukcyjnym, który inspiruje do kreatywnej zabawy
-
-Zestaw z księżniczkami Disneya zawiera zamek i 10 postaci LEGO® ǀ Disney
-
-Zamek Disneya do zbudowania zawiera ciekawe funkcje i elementy
-
-Zestaw LEGO® ǀ Disney inspiruje do wymyślania historii, zabawy i ustawiania modelu jako ozdoby
-
-Pomysł na prezent dla dziewczynek i chłopców w wieku od sześciu lat
-
-Aplikacja LEGO® Builder umożliwi wspólne budowanie zestawu
-
-Zestawy konstrukcyjne LEGO® ǀ Disney rozwijają umiejętności życiowe przez zabawę
-
-787-elementowy zestaw obejmuje zamek mierzący 32 cm wysokości
+- 43266-1: https://a.allegroimg.com/original/117808/a0e58a2d48e7a8acf68d880ddd59
 
 ---
 
-## 43268 — Lego Disney Domek na plaży Lilo i Stitcha 43268
+## 43267 — Disney 43267 Zamek księżniczek i królewskie zwierzaki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 282.78 zł · EAN: 05702017814575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43267 |
+| Nazwa angielska | Princess Castle & Royal Pets |
+| Nazwa polska | Disney 43267 Zamek księżniczek i królewskie zwierzaki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 787 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814568, 6902031852457 |
 
-**LEGO Disney Domek na plaży Lilo i Stitcha 43268**
+Wprowadzenie do produktu
 
-Niesamowite przygody czekają na dziewięcioletnich i starszych fanów podczas zabawy zestawem LEGO® ǀ Disney Domek na plaży Lilo i Stitcha (43268). Model ma dwa piętra i kryje w sobie mnóstwo szczegółów z filmów oraz niespodzianek, w tym dwie deski surfingowe, lalkę Lilo Strupkę, gramofon, słoik, zbudowany z klocków statek kosmiczny, a także pięć minifigurek postaci LEGO ǀ Disney — Davida, Lilo, pana Bąbla, Nani i Stitcha, które gwarantują niekończącą się zabawę.
+Uwaga: Ten produkt to tylko zestaw oświetlenia LED i nie zawiera modelu LEGO.
 
-Ten zestaw konstrukcyjny oferuje starszym dzieciom bardziej złożony model, który inspiruje do zabawy w odgrywanie ról. Można go łączyć z innymi zestawami konstrukcyjnymi LEGO ǀ Disney (sprzedawanymi osobno) i świetnie sprawdzi się jako prezent.
+Cechy produktu:
 
-Zarówno dzieci, jak i dorośli fani Disneya będą zachwyceni domkiem, w którym znajdą ulubione postacie. W trakcie budowania mogą skorzystać z intuicyjnej aplikacji LEGO Builder, w której mogą powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy.
+【Łatwa instalacja】Zaprojektowany specjalnie do zestawu LEGO Hogwarts Castle and Gardens 76419. Wszystkie diody LED zapewniają jednolity strumień światła, a złącza kablowe są idealnie dopasowane. Nasz profesjonalny zespół oświetleniowy zapewnia szczegółowe instrukcje instalacji w formacie PDF, które ułatwią Ci jej ukończenie.
 
-• Podaruj fanom Disneya zestaw, który inspiruje do niekończącej się twórczej zabawy
+【Ciesz się kreatywnym majsterkowaniem】Ten zestaw oświetlenia LED do zestawu LEGO Hogwarts Castle and Gardens 76419 zapewnia jasne oświetlenie, które pomoże Ci się zrelaksować i cieszyć pięknym wieczorem pośród zabieganego życia. To idealny wybór dla miłośników modeli LEGO, którzy chcą spersonalizować swoje klocki, ulepszyć swoje modele i cieszyć się zabawą w majsterkowanie.
 
-• Z domkiem, statkiem kosmicznym zbudowanym z klocków i pięcioma postaciami LEGO® ǀ Disney
+【Wiele opcji zasilania】Zestaw zawiera kabel USB i komorę baterii. Lampę LED do zestawu LEGO 76419 można zasilać za pomocą powerbanku, ładowarki, portu USB, laptopa lub innego urządzenia podłączonego do USB. Można również używać baterii (sprzedawane oddzielnie).
 
-• Zestaw konstrukcyjny, który pobudza kreatywność i zachęca do odgrywania ról
+【Bezpieczne użytkowanie】Ten dekoracyjny zestaw oświetleniowy LEGO Hogwarts Castle and Gardens wykorzystuje wysokiej jakości przewód miedziany i posiada zabezpieczenie przed przegrzaniem i przeciążeniem, co wydłuża jego żywotność. Konstrukcja niskonapięciowa 5 V zapewnia bezpieczne użytkowanie.
 
-• Zestaw stworzony do kreatywnej zabawy, po której można ustawić go na półce
+【Idealny prezent i piękna ekspozycja】Ta lampa LED to wspaniały prezent dla miłośników modelarstwa, odpowiedni na różne okazje, takie jak urodziny, Boże Narodzenie, Nowy Rok, Dzień Dziecka, ukończenie szkoły, Święto Dziękczynienia i Walentynki.
 
-• Fajny zestaw konstrukcyjny dla dziewięciolatków i starszych dzieci, które uwielbiają filmy
+Jak znaleźć instrukcję instalacji?
 
-• Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budowania w 3D
+Krok 1: Zeskanuj kod QR na opakowaniu, aby wyświetlić elektroniczną instrukcję obsługi.
 
-• Zestawy konstrukcyjne LEGO® ǀ Disney rozwijają umiejętności życiowe przez zabawę
+Krok 2: Zainstaluj zgodnie z elektroniczną instrukcją obsługi.
 
-• 834-elementowy zestaw z domem ma 35 cm szerokości
+Lista zawartości opakowania:
+
+1 x zestaw oświetlenia LED
+
+1 x pojemnik na baterie
+
+1 x pudełko prezentowe
+
+**Galeria:**
+
+- 43267-1: https://a.allegroimg.com/original/111973/2797c9644080a085523e142cc3cf
+- 43267-2: https://a.allegroimg.com/original/11664d/b4d39efe448d8a3089e9387728db
 
 ---
 
-## 43269 — Klocki Lego Disney 43269 101 dalmatyńczyków Szczeniaczek
+## 43269 — 101 dalmatyńczyków - Szczeniaczek
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 467.60 zł · EAN: 05702017814582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43269 |
+| Nazwa angielska | 101 Dalmatians Puppy |
+| Nazwa polska | 101 dalmatyńczyków - Szczeniaczek |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1722 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814582 |
 
 **Zależy nam, aby każdy zestaw trafił do Państwa w idealnym stanie, dlatego też zwracamy szczególną uwagę na sposób jego zabezpieczenia.**
 
@@ -4396,11 +6659,26 @@ Zrelaksuj się podczas budowania zestawu, który wykorzystuje zaawansowane techn
 - Odkryj swoją miłość do dalmatyńczyków — podczas budowania możesz ozdobić swojego szczeniaczka, a następnie zmienić jego pozy wedle uznania
 - Wymiary postaci — ten składający się z 1722 elementów zestaw LEGO® ǀ Disney dla dorosłych zawiera szczeniaczka dalmatyńczyka, który w nachylonej pozie ma 22 cm wysokości
 
+**Galeria:**
+
+- 43269-1: https://a.allegroimg.com/original/11f9f2/82f691314dbfb15c4f3924d27e24
+
 ---
 
-## 43270 — Lego Disney Kajakowa Przygoda Vaiany 43270
+## 43270 — Księżniczka Disneya 43270 Moana i przygoda na kajaku
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 185.00 zł · EAN: 05702017814599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43270 |
+| Nazwa angielska | Moana's Adventure Canoe |
+| Nazwa polska | Księżniczka Disneya 43270 Moana i przygoda na kajaku |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 529 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 12 cm |
+| EAN | 5702017814599 |
 
 **KAJAKOWA PRZYGODA VAIANY**
 
@@ -4422,11 +6700,26 @@ Sześciolatki i starsze dzieci będą zachwycone modelem łodzi z zestawu LEGO®
 
 • Wymiary — ten 529-elementowy zestaw zawiera łódź z podwójnym kadłubem i żaglem mierzącą 26 cm wysokości, 22 cm długości i 12 cm szerokości
 
+**Galeria:**
+
+- 43270-1: https://a.allegroimg.com/original/112c7b/11bd78c8472283affa14ec61a295
+
 ---
 
-## 43271 — Lego Disney 43271 Szczeniaki Szczęściarz i Groszka 101 dalmatyńczyków
+## 43271 — Disney 43271 Szczeniaki Szczęściarz i Groszka z filmu 101 dalmatyńczyków
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 70.25 zł · EAN: 05702017814605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43271 |
+| Nazwa angielska | Lucky & Penny 101 Dalmatians Puppies |
+| Nazwa polska | Disney 43271 Szczeniaki Szczęściarz i Groszka z filmu 101 dalmatyńczyków |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 268 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814605 |
 
 LEGO Disney 43271 Szczeniaki Szczęściarz i Groszka 101 dalmatyńczyków
 
@@ -4474,11 +6767,26 @@ Dzieci mogą wyruszyć na bezpretensjonalną i intuicyjną przygodę budowania d
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017814605
 
+**Galeria:**
+
+- 43271-1: https://a.allegroimg.com/original/11bbad/1ecd08af48a1829647691536c2ee
+
 ---
 
-## 43272 — Lego Disney Heiheia 43272
+## 43272 — Heiheia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 121.00 zł · EAN: 05702017814612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43272 |
+| Nazwa angielska | Heihei |
+| Nazwa polska | Heiheia |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 566 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814612 |
 
 Klocki LEGO® Disney -
 
@@ -4503,11 +6811,26 @@ Po zbudowaniu ten zestaw konstrukcyjny ze świata Disneya dla dzieci i fanów b�
 - Zestaw konstrukcyjny Disney — ten zestaw konstrukcyjny z modelem kurczaka z filmów Disneya Vaiana i Vaiana 2 oraz podstawką zbudowaną z klocków rozwija umiejętności życiowe poprzez zabawę
 - Wymiary — model kurczaka na podstawce w tym 566-elementowym zestawie LEGO® ǀ Disney ma 27 cm wysokości
 
+**Galeria:**
+
+- 43272-1: https://a.allegroimg.com/original/11b515/6b54939640edbc1b73bfe7a35ef0
+
 ---
 
-## 43274 — Lego Disney Minnie i hotel dla zwierząt 43274
+## 43274 — Disney 43274 Minnie i hotel dla zwierząt
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 161.48 zł · EAN: 05702017814629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43274 |
+| Nazwa angielska | Minnie's Pet Hotel |
+| Nazwa polska | Disney 43274 Minnie i hotel dla zwierząt |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 23 cm × gł. 12 cm |
+| EAN | 5702017814629 |
 
 Klocki LEGO® Disney -
 
@@ -4534,21 +6857,52 @@ Oprócz prostych ilustrowanych instrukcji dla dzieci uczących się czytać, w a
 - Zabawki dla przedszkolaków — zestawy konstrukcyjne LEGO® ǀ Disney dla dzieci w wieku od czterech lat wprowadzają dziewczynki i chłopców do świata disnejowskich postaci, ulubionych filmów i bohaterów
 - Wymiary — 160-elementowy zestaw konstrukcyjny LEGO® ǀ Disney obejmuje hotel dla zwierząt ze zjeżdżalnią i klatką dla królika, które razem mają ponad 19 cm wysokości, 23 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 43274-1: https://a.allegroimg.com/original/11566e/81eaafe74d02a6e6042f4c2a790d
+
 ---
 
-## 43275 — Lego Disney 43275 Zamek Kopciuszka i kareta
+## 43275 — Zamek Kopciuszka i kareta
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 290.59 zł · EAN: 05702017814636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43275 |
+| Nazwa angielska | Cinderella's Castle & Horse Carriage |
+| Nazwa polska | Zamek Kopciuszka i kareta |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 596 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814636 |
 
 Zamek Kopciuszka i kareta
 
 ǀ Disney LEGO ǀ Disney Princess Zamek Kopciuszka i kareta, Zabawka dla Dziecka do Zbudowania z Minilaleczką Księcia z Bajki i 3 Figurkami Zwierząt, Pomysł na Prezent dla 6-latki, Dziewczynki i Chłopca, 43275 dziewczyna córka siostrzenica 5 7 8 frozen roszpunka śnieżka śpiąca królewna krasnoludki dżasmina pocahontas elza arielka belle piękna bestia mała syrenka klocki kolekcjonerskie księżniczki nostalgia prezent film tiana aurora Zamek Kopciuszka i kareta LEGO® ǀ Disney Princess Zamek Kopciuszka i kareta LEGO® ǀ Disney Princess Zamek Kopciuszka i kareta 43275 Podaruj fanom Kopciuszka Disneya ten zestaw z zamkiem, karetą, dwiema minilaleczkami LEGO® ǀ Disney i trzema figurkami zwierząt. Prezent z zamkiem i czterema postaciami LEGO® ǀ Disney Dzięki zestawowi LEGO® ǀ Disney Princess Zamek Kopciuszka i kareta (43275) na sześciolatków i starsze dzieci czeka niekończąca się zabawa i wspaniałe przygody. Zawiera on dwupoziomowy zamek do zbudowania z salą balową z obrotową podłogą, pracownią krawiecką i trzema pokojami na piętrze. Do zamku przylega stajnia z sianem i siodłem dla figurki konia LEGO ǀ Disney. Jest też kareta z uprzężą i miejscem na minilaleczki LEGO ǀ Disney Kopciuszka i Księcia z Bajki, a także figurki zwierząt LEGO ǀ Disney Lucyfera i Gusa oraz mnóstwo akcesoriów do zabawy.Ten rozwijający pewność siebie zestaw to świetny prezent dla chłopców i dziewczynek, którzy uwielbiają twórczą zabawę. Można go łączyć z innymi zestawami LEGO i LEGO ǀ Disney (sprzedawanymi osobno). Ponadto aplikacja LEGO Builder umożliwia łatwe i intuicyjne budowanie oraz narzędzia do powiększania i obracania modeli w 3D, zapisywania zestawów i śledzenia postępów. Świętuj 75 lat Kopciuszka Disneya! Odwiedź Kopciuszka i Księcia z Bajki w jej zamku, gdzie krzątają się Gus i Lucyfer. Zatańcz w sali balowej, a potem zrób sobie przerwę na babeczkę. Następnie popracuj nad nową suknią i obserwuj jak Lucyfer goni Gusa po zamku. Och, czas iść na bal! Ułóż Lucyfera i Gusa do snu w ich pokojach, a następnie wskocz do karety i wyrusz na przyjęcie! Miłej zabawy! • Zamek disnejowskiego Kopciuszka dla dzieci — podaruj dzieciom w wieku od sześciu lat zestaw Zamek Kopciuszka i kareta, który zainspiruje najmłodszych do wymyślania rozmaitych opowieści • Zestaw z modelem — zawiera dwupoziomowy zamek do zbudowania ze stajnią, wieloma pomieszczeniami, obrotową podłogą, a także powóz z uprzężą i figurką konia LEGO® ǀ Disney, cztery postacie LEGO ǀ Disney i wiele więcej • Ciekawe funkcje — umieść disnejowskiego Kopciuszka i Księcia z Bajki na obrotowym parkiecie, aby mogli tańczyć, lub zmień uprząż konia na siodło lub torbę • Zabawkowy zamek Disneya — ten wspaniały budynek ma cztery wejścia, w tym drzwi dla myszy i okno dla Lucyfera.
 
+**Galeria:**
+
+- 43275-1: https://a.allegroimg.com/original/0562f7/1935fb1943508332d0bfd33e9651
+
 ---
 
-## 43276 — Lego Disney Princess Szkatułka na biżuterię z Królewną Śnieżką 43276
+## 43276 — Księczniczka Disneya 43276 Pudełko na przerwaniu Królewny Śnieżki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 134.76 zł · EAN: 05702017744681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43276 |
+| Nazwa angielska | Snow White's Jewelry Box |
+| Nazwa polska | Księczniczka Disneya 43276 Pudełko na przerwaniu Królewny Śnieżki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm × gł. 10 cm |
+| EAN | 5702017744681 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -4588,11 +6942,27 @@ Rozwój umiejętności życiowych — ten zestaw z dwiema minilaleczkami LEGO® 
  
 Wymiary — zestaw z 358 elementami obejmuje szkatułkę do zbudowania, która ma 11 cm wysokości, 17 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 43276-1: https://a.allegroimg.com/original/119476/9ba20cb34288856e71fc66055d92
+
 ---
 
-## 43277 — Lego Disney Samochód Cruelli De Mon 43277
+## 43277 — Samochód Cruelli De Mon
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 189.90 zł · EAN: 05702017824901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43277 |
+| Nazwa angielska | Cruella De Vil's Car |
+| Nazwa polska | Samochód Cruelli De Mon |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 378 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702017824901 |
 
 **Samochód Cruelli De Mon**
 
@@ -4609,11 +6979,27 @@ Ten kolekcjonerski model samochodu Disneya można zabrać na spotkanie z przyjac
 - Rozwój umiejętności życiowych — dzięki postaci złoczyńcy LEGO® ǀ Disney, szczegółowemu modelowi samochodu i funkcjom umożliwiającym zabawę lub eksponowanie na półce, ten zestaw konstrukcyjny pomaga rozwijać umiejętności życiowe poprzez zabawę
 - Wymiary samochodu — samochód z filmu 101 dalmatyńczyków w tym 378-elementowym zestawie ma 6 cm wysokości, 25 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 43277-1: https://a.allegroimg.com/original/1108ae/15fccff34ba5a767f11fc6c76811
+
 ---
 
-## 43278 — Lego Disney 43278 Miniaturowy zamek w Arendelle i lodowy pałac Elzy
+## 43278 — Miniaturowy zamek w Arendelle i lodowy pałac Elzy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017824918 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43278 |
+| Nazwa angielska | Mini Arendelle Castle & Elsa's Ice Palace |
+| Nazwa polska | Miniaturowy zamek w Arendelle i lodowy pałac Elzy |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824918 |
 
 LEGO Disney 43278 Miniaturowy zamek w Arendelle i lodowy pałac Elzy
 
@@ -4635,11 +7021,26 @@ LEGO
 - **Nazwa produktu:** LEGO Disney 43278 Miniaturowy zamek w Arendelle i lodowy pałac Elzy
 - **Kod systemowy:** DZI-ZKLO-LGO-2391
 
+**Galeria:**
+
+- 43278-1: https://a.allegroimg.com/original/115760/9819ee66443b8ac717d840db9905
+
 ---
 
-## 43279 — Klocki Lego Disney Pixar 43279 Wall-e i Eva
+## 43279 — WALL-E i EVA
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 218.94 zł · EAN: 05702017896885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43279 |
+| Nazwa angielska | WALL-E and EVE |
+| Nazwa polska | WALL-E i EVA |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 811 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017896885 |
 
 Wyrusz na kreatywną przygodę z imponującym zestawem dla dorosłych **LEGO® ǀ Disney i Pixar (43279) WALL-E i EVA**.
  
@@ -4662,11 +7063,26 @@ Ten zestaw wystawowy LEGO ǀ Disney to kreatywny pomysł na wieczorną randkę d
 - Liczba elementów: 811 
 - Nadaje się od 18 lat
 
+**Galeria:**
+
+- 43279-1: https://a.allegroimg.com/original/293cc3/e3e9b9f344b59ef20f4b5b31063b
+
 ---
 
-## 43280 — Lego Disney 43280 Plażowa zabawa z Lilo i Stitch
+## 43280 — Zabawa na plaży z Lilo i Stitchem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 52.92 zł · EAN: 05702018067031 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43280 |
+| Nazwa angielska | Beach Fun with Lilo & Stitch |
+| Nazwa polska | Zabawa na plaży z Lilo i Stitchem |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 113 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 23 cm × gł. 9 cm |
+| EAN | 5702018067031 |
 
 LEGO Disney Classic 43280 Zabawa na plaży z Lilo i Stitchem
  
@@ -4688,11 +7104,26 @@ Oprócz prostych ilustrowanych instrukcji dla dzieci uczących się czytać, w a
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 113-elementowy zestaw konstrukcyjny zawiera sekcję z plażą o wymiarach 9 cm wysokości, 23 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 43280-1: https://a.allegroimg.com/original/11aea0/131e3f65452c9336208818abe3eb
+
 ---
 
-## 43281 — Lego Disney Kraina lodu Lodowy zamek Elzy i śnieżna przejażdżka 43281
+## 43281 — LEGO Disney Princess 43281 Lodowy pałac Elsy i śnieżna przejażdżka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 155.35 zł · EAN: 05702018066720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43281 |
+| Nazwa angielska | Elsa's Ice Castle & Snow Ride Adventure |
+| Nazwa polska | LEGO Disney Princess 43281 Lodowy pałac Elsy i śnieżna przejażdżka |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066720 |
 
 **LEGO Disney Kraina lodu Lodowy zamek Elzy i śnieżna przejażdżka 43281**
 
@@ -4718,11 +7149,26 @@ Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budo
 
 216-elementowy zestaw konstrukcyjny zawiera zamek z torami o szerokości 28 cm
 
+**Galeria:**
+
+- 43281-1: https://a.allegroimg.com/original/114774/605625c94767827dacb2a928457f
+
 ---
 
-## 43282 — Lego Disney 43282 Domek na vesnici a loďka
+## 43282 — Wiejska chatka i łódź
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 55.49 zł · EAN: 05702018066744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43282 |
+| Nazwa angielska | Village House & Boat |
+| Nazwa polska | Wiejska chatka i łódź |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 85 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702018066744 |
 
 LEGO Disney Princess 43282 Wiejska chatka i łódź
  
@@ -4744,11 +7190,26 @@ Oprócz prostych ilustrowanych instrukcji dla dzieci uczących się czytać, w a
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 85-elementowy zestaw konstrukcyjny z domkiem ma 11 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 43282-1: https://a.allegroimg.com/original/11183d/122dfc9f4064b791bcfd45cce498
+
 ---
 
-## 43283 — Lego Disney 43283 Zamek Kopciuszka i jej przyjaciele
+## 43283 — Zamek Kopciuszka i jej zwierzęcych przyjaciół
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 81.50 zł · EAN: 05702018071007 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43283 |
+| Nazwa angielska | Cinderella Animal Friends Castle |
+| Nazwa polska | Zamek Kopciuszka i jej zwierzęcych przyjaciół |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 149 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 22 cm × gł. 9 cm |
+| EAN | 5702018071007 |
 
 LEGO Disney Princess 43283 Zamek Kopciuszka i jej zwierzęcych przyjaciół
  
@@ -4770,11 +7231,26 @@ Oprócz prostych ilustrowanych instrukcji dla dzieci uczących się czytać, w a
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — zamek w tym 149-elementowym zestawie ma 18 cm wysokości, 22 cm szerokości i 9 cm długości.
 
+**Galeria:**
+
+- 43283-1: https://a.allegroimg.com/original/113210/261a46444029ad510787af53be80
+
 ---
 
-## 43284 — Lego Disney Kraina lodu Mała Anna i Elza 43284
+## 43284 — LEGO Disney Princess 43284 Mini Anna i Elsa
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 28.59 zł · EAN: 05702018066751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43284 |
+| Nazwa angielska | Mini Anna & Elsa |
+| Nazwa polska | LEGO Disney Princess 43284 Mini Anna i Elsa |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066751 |
 
 **LEGO Disney Kraina lodu Mała Anna i Elza 43284**
 
@@ -4798,11 +7274,26 @@ Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budo
 
 65-elementowy zestaw konstrukcyjny zawiera dwie postacie, każda o wysokości 5 cm
 
+**Galeria:**
+
+- 43284-1: https://a.allegroimg.com/original/114f91/4b096f904a1bb97a272d423c3834
+
 ---
 
-## 43285 — Lego Disney Princess 43285 Magiczny Minipałac Arielki
+## 43285 — LEGO Disney Princess 43285 Magiczny minipałac Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 60.79 zł · EAN: 05702018066768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43285 |
+| Nazwa angielska | Ariel's Magical Mini Palace |
+| Nazwa polska | LEGO Disney Princess 43285 Magiczny minipałac Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066768 |
 
 🧜‍♀️🏰 **LEGO DISNEY PRINCESS MAGICZNY MINIPAŁAC ARIELKI 43285 (179 EL.)** 🏰🧜‍♀️
 
@@ -4836,19 +7327,49 @@ Odkryj magiczny świat podwodnych przygód z zestawem **LEGO® ǀ Disney Princes
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 43285-1: https://a.allegroimg.com/original/295e1c/4144d4644ef3b68244893291bb9b
+
 ---
 
-## 43286 — Lego Disney 43286 Usměvavá kočička Marie z filmu Aristokočky
+## 43286 — LEGO Disney Princess 43286 Aryskotraci Urocza Marie
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 127.39 zł · EAN: 05702018066775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43286 |
+| Nazwa angielska | The Aristocats Adorable Marie |
+| Nazwa polska | LEGO Disney Princess 43286 Aryskotraci Urocza Marie |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066775 |
 
 Spędź czas z uroczą Marie z filmu Disneya Aryskotraci! Podziwiaj jej jasnoniebieskie oczy i białą sierść podczas czesania. Przyczep różową kokardkę do obroży, aby dopełnić dzieła. Otwórz fioletowe pudełeczko i sprawdź, co jest w środku. Ooo, to myszka do zabawy dla Marie. Lubi je gonić, ale jest bardzo delikatna. Naucz ją podawać łapę, a następnie nagrodź ją smakołykiem. Doskonale!Kreatywne pozy — ustaw kotka LEGO | Disney w różnych pozach: usadzając, obracając głowę, podnosząc łapę, poruszając ogonem, lekko poruszając uszami oraz zakładając lub zdejmując różową kokardkęAkcesoria — zabawka konstrukcyjna zawiera fioletowe pudełko prezentowe ze zdejmowanym wieczkiem zbudowane z klocków, niebieską szczotkę, mysz z klocków, rybkę i różową kokardkę z tkaniny dla MarieCiekawy sposób na budowanie — aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki instrukcjom 3DZabawka dla dzieci z uroczym kotkiem — zachwyć dziewczynki i chłopców w wieku od 7 lat zestawem LEGO | Disney Aryskotraci — Urocza Marie (43286), który zachęca do wesołej zabawy i kreatywnościFigurka kota do zabawy i ozdoby — zestaw zawiera ruchomą figurkę Marie z filmu \"Arystokraci\", pudełko prezentowe, kokardkę i inne dodatki, które urozmaicą zabawę lub posłużą jako LEGO dekoracjaPomysł na prezent dla dzieci — ten zestaw LEGO ǀ Disney to świetny pomysł na prezent urodzinowy dla dziewczynek, chłopców i fanów Disneya w wieku od 7 latJeszcze więcej kreatywnych zestawów dla dzieci — dodaj tą zabawkę z LEGO kotem do innych pasujących zestawów LEGO ǀ Disney (sprzedawanych osobno)
 
+**Galeria:**
+
+- 43286-1: https://a.allegroimg.com/original/050bbc/d8fb3f0b4dcb86b871a44dea4a33
+
 ---
 
-## 43287 — Lego Disney Kraina lodu 43287 Piknik Olafa i Bruniego
+## 43287 — LEGO Disney Princess 43287 Piknik Olafa i Bruniego
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 159.98 zł · EAN: 05702018066782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43287 |
+| Nazwa angielska | Olaf and Bruni’s Picnic Fun |
+| Nazwa polska | LEGO Disney Princess 43287 Piknik Olafa i Bruniego |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 478 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 15 cm |
+| EAN | 5702018066782 |
 
 Zachwyć fanów filmu Disneya „Kraina Lodu” w wieku od 7 lat zestawem LEGO® ǀ Disney Olaf i Bruni na pikniku (43287). Dzieci będą się świetnie bawić podczas budowania, a następnie zanurzą się w świat wyobraźni i kreatywnych opowieści. Ten zestaw zawiera 2 postacie LEGO ǀ Disney: Olafa i Bruniego, kolorowy koc piknikowy, na którym mogą siedzieć, oraz dodatkowe akcesoria. Po zakończeniu zabawy, koc, bałwanek i jaszczurka z klocków mogą służyć jako dekoracja nawiązująca do filmu „Kraina Lodu”, gotowa na kolejne przygody.
  
@@ -4868,11 +7389,26 @@ Ten uroczy pomysł na prezent będzie doskonałym zaskoczeniem na urodziny lub b
 - Liczba elementów: 478 
 - Dla dzieci w wieku od 7 lat
 
+**Galeria:**
+
+- 43287-1: https://a.allegroimg.com/original/29b3c1/6d7c71364e87a840a047b8fba9e8
+
 ---
 
-## 43288 — Lego Disney 43288 Doniczka Sally
+## 43288 — LEGO Disney Doniczka Sally 43288
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 145.99 zł · EAN: 05702018066706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43288 |
+| Nazwa angielska | Sally's Flowerpot |
+| Nazwa polska | LEGO Disney Doniczka Sally 43288 |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 346 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 12 cm × gł. 10 cm |
+| EAN | 5702018066706 |
 
 LEGO Disney 43288 Doniczka Sally
 
@@ -4890,11 +7426,26 @@ Dzieci mogą budować z pewnością siebie, korzystając z aplikacji LEGO Builde
 - Pomysł na prezent — ten zestaw klocków LEGO® ǀ Disney dla chłopców, dziewczynek i fanów Miasteczka Halloween Tima Burtona w wieku od dziewięciu lat świetnie sprawdzi się jako prezent.
 - Wymiary — ten 346-elementowy zestaw konstrukcyjny LEGO® ǀ Disney zawiera kwiaty w doniczce, która po zamknięciu ma 27 cm wysokości, 12 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 43288-1: https://a.allegroimg.com/original/11e1b3/ebaa27c34cedabad5314128ad4a0
+
 ---
 
-## 43289 — Lego Disney Princess Zaczarowany zamek Pięknej i Bestii 43289
+## 43289 — Zaczarowany zamek Pięknej i Bestii
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 123.98 zł · EAN: 05702018064832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43289 |
+| Nazwa angielska | Belle & the Beast's Enchanted Castle |
+| Nazwa polska | Zaczarowany zamek Pięknej i Bestii |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 254 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018064832 |
 
 **LEGO Disney Princess Zaczarowany zamek Pięknej i Bestii 43289**
 
@@ -4918,11 +7469,26 @@ Poznaj interaktywny sposób na budowanie dzięki aplikacji LEGO® Builder
 
 254-elementowy zestaw z zamkiem ma 22 cm wysokości
 
+**Galeria:**
+
+- 43289-1: https://a.allegroimg.com/original/114157/92b484de442daf24119d6be5721b
+
 ---
 
-## 43290 — Lego Disney 43290 Stefan i As
+## 43290 — 43290
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 193.52 zł · EAN: 05702018066713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43290 |
+| Nazwa angielska | Kevin & Dug |
+| Nazwa polska | 43290 |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 628 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 12 cm × gł. 16 cm |
+| EAN | 5702018066713 |
 
 LEGO Disney 43290 Stefan i As
 
@@ -4941,11 +7507,26 @@ Ta zabawka konstrukcyjna dla dzieci to świetny pomysł na prezent dla rodzin, d
 - **Tryb „Wspólne budowanie”** — aplikacja LEGO® Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu.
 - **Wymiary** — ten 628-elementowy zestaw konstrukcyjny LEGO® ǀ Disney i Pixar zawiera figurkę Stefana, która wraz z dołączoną podstawką ma 29 cm wysokości, 12 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 43290-1: https://a.allegroimg.com/original/1191d1/2ca900114fba9a63754ac7387a2f
+
 ---
 
-## 43291 — Klocki Lego Disney Princess Zamek Mała Bella i Tiana 358 el. 5 lat
+## 43291 — LEGO Disney Princess 43291 Mała Bella i Tiana z zamkiem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 126.97 zł · EAN: 05702018066799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43291 |
+| Nazwa angielska | Mini Belle & Tiana with Castle |
+| Nazwa polska | LEGO Disney Princess 43291 Mała Bella i Tiana z zamkiem |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 23 cm × gł. 6 cm |
+| EAN | 5702018066799 |
 
 UWAGA NIE NA PREZENT - OPAKOWANIE
 
@@ -4971,11 +7552,26 @@ UWAGA NIE NA PREZENT - OPAKOWANIE
 
 UWAGA NIE NA PREZENT - OPAKOWANIE
 
+**Galeria:**
+
+- 43291-1: https://a.allegroimg.com/original/2982b6/b504779e4f6ba52bbce491d7f80f
+
 ---
 
-## 43292 — Lego Disney Princess 43292 Pua
+## 43292 — Pua
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 226.07 zł · EAN: 05702018066805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43292 |
+| Nazwa angielska | Pua |
+| Nazwa polska | Pua |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 885 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066805 |
 
 LEGO Disney Princess 43292 Pua
  
@@ -4995,11 +7591,26 @@ Ozdób swój dom w disnejowskim stylu i umieść model kolekcjonerski na półce
 - Pomoc w budowaniu — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - Wymiary — ruchomy model kolekcjonerski w tym 885-elementowym zestawie ma 20 cm wysokości.
 
+**Galeria:**
+
+- 43292-1: https://a.allegroimg.com/original/11dcce/0e515447449f8dcdefb8cb6c8f19
+
 ---
 
-## 43293 — Lego Disney 43293 Kakamora
+## 43293 — Kakamora
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702018066812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43293 |
+| Nazwa angielska | Kakamora |
+| Nazwa polska | Kakamora |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 407 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702018066812 |
 
 LEGO Disney Princess 43293 Kakamora
  
@@ -5019,11 +7630,26 @@ Ten uroczy zestaw świetnie sprawdzi się jako prezent dla chłopców i dziewczy
 - Ciekawe budowanie — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - Wymiary — ten 407-elementowy zestaw konstrukcyjny zawiera figurkę Kotu Disneya, która wraz kwiatkiem ma 7 cm wysokości, 12 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 43293-1: https://a.allegroimg.com/original/115faa/d91dc041433e8a66d0ae4c2c9001
+
 ---
 
-## 43294 — Lego Disney Princess Mała wieża Roszpunki 43294
+## 43294 — Mała wieża Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 56.90 zł · EAN: 05702018066829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43294 |
+| Nazwa angielska | Rapunzel's Mini Tower |
+| Nazwa polska | Mała wieża Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 171 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066829 |
 
 **LEGO Disney Princess Mała wieża Roszpunki 43294**
 
@@ -5047,11 +7673,26 @@ Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budo
 
 171-elementowy zestaw z otwieraną wieżą ma 15 cm wysokości
 
+**Galeria:**
+
+- 43294-1: https://a.allegroimg.com/original/11e5bf/745409e04d69b567f9ee3ed01ef4
+
 ---
 
-## 43295 — Lego 43295 Disney Princess Szkatułka na biżuterię Dżasminy
+## 43295 — Szkatułka na biżuterię Dżasminy
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 144.44 zł · EAN: 05702018066836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43295 |
+| Nazwa angielska | Jasmine's Jewelry Box |
+| Nazwa polska | Szkatułka na biżuterię Dżasminy |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 458 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm × gł. 10 cm |
+| EAN | 5702018066836 |
 
 LEGO DISNEY PRINCESS - Szkatułka na biżuterię Dżasminy 43295
  
@@ -5076,11 +7717,26 @@ Zestaw konstrukcyjny **Szkatułka na biżuterię Dżasminy (43295) z serii LEGO 
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności 
 - WYMIARY — zestaw zawiera 458 elementów; gotowa szkatułka ma 11 cm wysokości, 17 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 43295-1: https://a.allegroimg.com/original/113e57/f14f72f0452196bc9cf713289bf5
+
 ---
 
-## 43296 — Lego Disney Klasyczny 43296 Stitch i Scrump
+## 43296 — Stitch i Strupka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 204.98 zł · EAN: 05702018066850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43296 |
+| Nazwa angielska | Stitch & Scrump |
+| Nazwa polska | Stitch i Strupka |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 713 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066850 |
 
 LEGO Disney Classic 43296 Stitch i Strupka
  
@@ -5102,11 +7758,26 @@ Ta zabawka konstrukcyjna dla dziewczynek i chłopców w wieku od 9 lat to fajny 
 - Tryb „Wspólne budowanie” — aplikacja LEGO® Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu. 
 - Wymiary — ten 713-elementowy zestaw konstrukcyjny zawiera postać Stitcha, która stoi z rozpostartymi ramionami i ma 19 cm wysokości.
 
+**Galeria:**
+
+- 43296-1: https://a.allegroimg.com/original/115b7a/e1a884a94d789b4a282d91f62817
+
 ---
 
-## 43297 — Lego Disney Princess Zamek Roszpunki 43297
+## 43297 — Zamek Roszpunki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 296.98 zł · EAN: 05702018066867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43297 |
+| Nazwa angielska | Rapunzel's Castle |
+| Nazwa polska | Zamek Roszpunki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 676 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066867 |
 
 **LEGO Disney Princess Zamek Roszpunki 43297**
 
@@ -5132,11 +7803,26 @@ Odkryj więcej zabawek konstrukcyjnych LEGO® ǀ Disney, które poszerzą możli
 
 Ten 676-elementowy zestaw ma 37 cm wysokości
 
+**Galeria:**
+
+- 43297-1: https://a.allegroimg.com/original/11c987/928e965b4460b28d5abb21ebc331
+
 ---
 
-## 43298 — * Lego Disney Princess Kalendarz adwentowy na 2026 rok 43298
+## 43298 — LEGO Disney Kalendarz adwentowy na 2026 rok
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 119.89 zł · EAN: 05702018068670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43298 |
+| Nazwa angielska | Disney Princess Advent Calendar 2026 |
+| Nazwa polska | LEGO Disney Kalendarz adwentowy na 2026 rok |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 290 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068670 |
 
 LEGO DISNEY PRINCESS - Kalendarz adwentowy na 2026 rok 43298
  
@@ -5164,11 +7850,26 @@ Po zakończeniu okresu świątecznego ten kalendarz adwentowy LEGO może nadal c
 - Kalendarz adwentowy z niespodziankami - niektóre drzwiczki kryją w sobie zabawki LEGO Disney Princess do zbudowania, w tym fortepian, piernikowy zamek, ognisko i pianki, kominek z wieńcem, prezenty i wiele innych 
 - Zabawaw stylu LEGO Disney Princess - inne niespodzianki w 290-elementowym zestawie konstrukcyjnym to miniaturowa choinka, zabawkowa kolejka, obrotowy parkiet taneczny, pulpit muzyczny, gong, scena, bębny, palma i wiele innych
 
+**Galeria:**
+
+- 43298-1: https://a.allegroimg.com/original/1122e2/cec22377402c834e89c31793d882
+
 ---
 
-## 43299 — Lego Disney 43299 Arielina łódź i królewski ślub
+## 43299 — Królewska łódź weselna Arielki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 206.77 zł · EAN: 05702018066874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43299 |
+| Nazwa angielska | Ariel's Royal Wedding Boat |
+| Nazwa polska | Królewska łódź weselna Arielki |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 519 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm |
+| EAN | 5702018066874 |
 
 LEGO Disney Princess 43299 Królewska łódź weselna Arielki
  
@@ -5190,11 +7891,26 @@ Ten zestaw konstrukcyjny to świetny pomysł na prezent dla dziewczynek i chłop
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 519-elementowy zestaw zawiera łódź ze zjeżdżalnią, o wymiarach 15 cm wysokości, 28 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 43299-1: https://a.allegroimg.com/original/116bae/9245833744318a9dc60b3bc9abee
+
 ---
 
-## 43300 — Lego Disney 43300 Kubuś Puchatek
+## 43300 — LEGO Disney 43300 Kubuś Puchatek
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 502.49 zł · EAN: 05702018066881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43300 |
+| Nazwa angielska | Winnie the Pooh |
+| Nazwa polska | LEGO Disney 43300 Kubuś Puchatek |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1399 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066881 |
 
 LEGO Disney 43300 Kubuś Puchatek
 
@@ -5214,11 +7930,26 @@ Ten zestaw to doskonały wybór na prezent na urodziny lub święta dla siebie l
 - Instrukcje budowania w 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D.
 - Wymiary — zestaw LEGO® ǀ Disney z 1399 elementami zawiera figurkę Kubusia Puchatka z klasycznego filmu Disneya, która ma 23 cm wysokości.
 
+**Galeria:**
+
+- 43300-1: https://a.allegroimg.com/original/119bc3/1c2ae2634fe3b8d2b06ed2c53b50
+
 ---
 
-## 43301 — Lego Disney i Pixar Toy Story Cienki podpórki pod książki 43301
+## 43301 — LEGO Disney Pixar 43301 Toy Story Cienki podpórki pod książki
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702018066898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43301 |
+| Nazwa angielska | Toy Story Slinky Dog Bookends |
+| Nazwa polska | LEGO Disney Pixar 43301 Toy Story Cienki podpórki pod książki |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066898 |
 
 **LEGO Disney i Pixar Toy Story Cienki - podpórki pod książki 43301**
 
@@ -5242,11 +7973,26 @@ Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budo
 
 Zestaw zawierający 1311 elementów z podpórkami pod książki w kształcie Cienkiego ma 43 cm szerokości
 
+**Galeria:**
+
+- 43301-1: https://a.allegroimg.com/original/117bf4/49b7bc1746eabaffc8f73c392bca
+
 ---
 
-## 43302 — Lego Disney 43302 Main Street, U.s.a.
+## 43302 — Main Street, U.S.A.
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1589.99 zł · EAN: 05702018066904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43302 |
+| Nazwa angielska | Main Street, U.S.A. |
+| Nazwa polska | Main Street, U.S.A. |
+| Seria | Disney |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3899 |
+| Cena katalogowa | 1499.99 zł |
+| Wymiary złożonego | wys. 28 cm × szer. 78 cm × gł. 16 cm |
+| EAN | 5702018066904 |
 
 Klocki LEGO Disney 43302 - Main Street, U.S.A.
  
@@ -5264,11 +8010,26 @@ Ten zestaw to świetny pomysł na prezent, który zapewni kreatywną rodzinną r
 - TRYB „WSPÓLNE BUDOWANIE” — aplikacja LEGO® Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu 
 - WYMIARY — ten 3899-elementowy zestaw ustawiony w jednym rzędzie ma 28 cm wysokości, 78 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 43302-1: https://a.allegroimg.com/original/111d9f/f6f0d34c4d8db7292f93bdefe5ce
+
 ---
 
-## 43303 — Klocki Lego Disney Mała Dżasmina i Roszpunka 43303
+## 43303 — LEGO Disney 43303 Mini Jasmine i Lucica
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702018066911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43303 |
+| Nazwa angielska | Mini Jasmine & Rapunzel |
+| Nazwa polska | LEGO Disney 43303 Mini Jasmine i Lucica |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066911 |
 
 **Klocki LEGO Disney Mała Dżasmina i Roszpunka 43303**
 
@@ -5291,11 +8052,26 @@ Klocki Lego Disney Mała Dżasmina i Roszpunka 43303 Lego Disney 43303 to zestaw
 - **Wielkość opakowania:** 12.2 cm / 4.6 cm / 14.1 cm
 - **warnings_PL:** Uwaga! Nieodpowiednie dla dzieci poniżej 3 lat. Ryzyko zadławienia – zawiera małe elementy.
 
+**Galeria:**
+
+- 43303-1: https://a.allegroimg.com/original/11ba98/6695edde46b4b73e49a6ea2dd4ee
+
 ---
 
-## 43304 — Lego Disney Pixar 43304 Konne ranczo Blaze'a
+## 43304 — 43304
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 148.94 zł · EAN: 05702018066928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43304 |
+| Nazwa angielska | Blaze's Horse Ranch |
+| Nazwa polska | 43304 |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 22 cm × gł. 7 cm |
+| EAN | 5702018066928 |
 
 LEGO Disney Pixar 43304 Konne ranczo Blaze'a
 
@@ -5313,11 +8089,26 @@ Ta zabawka konstrukcyjna dla dziewczynek i chłopców w wieku od czterech lat to
 - Ciekawy sposób na budowanie — aplikacja LEGO® Builder z kolorowymi ilustrowanymi instrukcjami poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki instrukcjom 3D.
 - Wymiary — 209-elementowy zestaw konstrukcyjny LEGO® ǀ Disney i Pixar zawiera stodołę z domkiem do zabawy o wymiarach 13 cm wysokości, 22 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 43304-1: https://a.allegroimg.com/original/115623/960ba4bc4d2181e6fe6bde9e0cd4
+
 ---
 
-## 43305 — Lego Disney 43305 Przyjęcie urodzinowe Prosiaczka
+## 43305 — Przyjęcie urodzinowe Prosiaczka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 189.98 zł · EAN: 05702018068151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43305 |
+| Nazwa angielska | Piglet's Birthday Fun |
+| Nazwa polska | Przyjęcie urodzinowe Prosiaczka |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 544 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 8 cm × gł. 7 cm |
+| EAN | 5702018068151 |
 
 Dołącz do zabawy podczas Przyjęcia urodzinowego Prosiaczka (43305) i świętuj setne urodziny Kubusia Puchatka dzięki temu zestawowi LEGO® ǀ Disney do zabawy lub ekspozycji. Szczegółowy zestaw do zbudowania dla dzieci i fanów filmów w wieku od dziewięciu lat zachęca do swobodnej zabawy w opowiadanie historii i stanowi fajną dekorację domu. Zestaw zawiera figurkę Prosiaczka z klocków, z ruchomą głową, uszami, rękami i stopami, a także tort urodzinowy z klocków. Ciasto otwiera się, ukazując dom Kubusia Puchatka z jednej strony i Stumilowy Las z drugiej, a w środku znajduje się minifigurka Prosiaczka LEGO ǀ Disney. Ten zestaw to doskonały wybór na prezent na urodziny lub święta dla siebie lub innego fana Kubusia Puchatka. Dzieci mogą dodać ten zestaw konstrukcyjny do swojej obecnej kolekcji LEGO lub rozpocząć nową, skupioną wokół kultowej, uroczej postaci Prosiaczka. W trakcie budowania można gromadzić wszystkie swoje zestawy w jednym miejscu: aplikacja LEGO Builder pozwala zapisywać zestawy, powiększać je, obracać w 3D i śledzić postępy w budowaniu. Zestaw składa się z 544 elementów.
  
@@ -5331,11 +8122,26 @@ Dołącz do zabawy podczas Przyjęcia urodzinowego Prosiaczka (43305) i świętu
 - Instrukcje budowania w 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D 
 - Wymiary — postać Prosiaczka z filmu Kubuś Puchatek Disneya w tym 544-elementowym zestawie LEGO® ǀ Disney ma 17 cm wysokości, 8 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 43305-1: https://a.allegroimg.com/original/11e68a/7350d8a84eb781ea7a2f5cf58662
+
 ---
 
-## 43306 — Lego Disney Pixar 43306 Miś Tuliś
+## 43306 — LEGO Disney Pixar 43306 Miś Tuliś
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702018067918 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43306 |
+| Nazwa angielska | Lotso |
+| Nazwa polska | LEGO Disney Pixar 43306 Miś Tuliś |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 570 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 9 cm × gł. 13 cm |
+| EAN | 5702018067918 |
 
 LEGO Disney Pixar 43306 Miś Tuliś
  
@@ -5355,11 +8161,26 @@ Miś Tuliś to świetny pomysł na prezent dla dziewczynek, chłopców i wszystk
 - Instrukcje budowania w 3D — dzieci mogą budować jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D. 
 - Wymiary — zestaw LEGO® ǀ Disney i Pixar z Misiem Tulisiem składa się z 570 elementów i ma 16 cm wysokości, 9 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 43306-1: https://a.allegroimg.com/original/11e87f/5f80303b4e99ac53f7c664598c25
+
 ---
 
-## 66387 — Lego 8206 Auta Stanowisko postojowe w Tokio
+## 66387 — Cars 2 3in1
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014815193 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66387 |
+| Nazwa angielska | Cars 2 Super Pack 3 in 1 |
+| Nazwa polska | Cars 2 3in1 |
+| Seria | Disney |
+| Grupa wiekowa | 13 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014815193 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5377,11 +8198,27 @@ Miś Tuliś to świetny pomysł na prezent dla dziewczynek, chłopców i wszystk
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 66387-1: https://a.allegroimg.com/original/11a8cd/d09da2d64866a959fae708f970b1
+
 ---
 
-## 71040 — Klocki Lego Disney 71040 Zamek Disneya
+## 71040 — Zamek Disneya
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1719.97 zł · EAN: 05702015643597 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71040 |
+| Nazwa angielska | Disney Castle |
+| Nazwa polska | Zamek Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4080 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 74 cm × szer. 48 cm × gł. 31 cm |
+| EAN | 5702015643597 |
 
 Klocki LEGO Disney 71040 - Zamek Disneya
 
@@ -5426,11 +8263,27 @@ Zbuduj w domu magiczny świat Disneya dzięki temu zamkowi. Ten bardzo szczegó�
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 71040-1: https://a.allegroimg.com/original/111160/b4bce4714f3a88cdd8b43ea9f3e5
+
 ---
 
-## 71044 — Lego Disney 71044 Pociąg i dworzec Disney
+## 71044 — Pociąg i dworzec Disney
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1898.00 zł · EAN: 05702016369335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71044 |
+| Nazwa angielska | Disney Train and Station |
+| Nazwa polska | Pociąg i dworzec Disney |
+| Seria | Disney |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2925 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369335 |
 
 LEGO® Disney™ Pociąg i dworzec Disney™ 71044
  
@@ -5468,11 +8321,26 @@ Specyfikacja techniczna
 - **Baterie w zestawie:** Nie 
 - **Kod produktu:** LEGO Disney Pociąg i dworzec Disney | 71044 | [*(509830)*]
 
+**Galeria:**
+
+- 71044-1: https://a.allegroimg.com/original/0089dc/d02904af4ce596387517f3b5c431
+
 ---
 
-## 7569 — Lego Prince of Persia 7569 Desert Attack Misb nowy zestaw klocków
+## 7569 — Atak na Pustyni
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702014601727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7569 |
+| Nazwa angielska | Desert Attack |
+| Nazwa polska | Atak na Pustyni |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601727 |
 
 Witam
 
@@ -5488,11 +8356,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7569-1: https://a.allegroimg.com/original/115a1e/959915eb4f8d826e504f67a59d9d
+
 ---
 
-## 7571 — Lego Prince of Persia 7571 Walka o sztylet The Fight for the Dagger Misb
+## 7571 — Prince of Persia
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702014601741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7571 |
+| Nazwa angielska | The Fight for the Dagger |
+| Nazwa polska | Prince of Persia |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601741 |
 
 LEGO Prince of Persia 7571 Walka o sztylet - The Fight for the Dagger
 
@@ -5502,11 +8385,26 @@ Stan pudełka idealny, zachęcam do obejrzenia zdjęć sprzedawanego produktu.
 
 Zapraszam na pozostałe aukcję Lego Prince of Persia i nie tylko :)
 
+**Galeria:**
+
+- 7571-1: https://a.allegroimg.com/original/11c029/b0db08cd4cde8ed73dc952916c38
+
 ---
 
-## 7572 — Lego Prince of Persia 7572 – Walka z Czasem (Quest Against Time)
+## 7572 — Wyścig z czasem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 505.00 zł · EAN: 05702014601758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7572 |
+| Nazwa angielska | Quest Against Time |
+| Nazwa polska | Wyścig z czasem |
+| Seria | Disney |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 506 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601758 |
 
 **LEGO Prince of Persia 7572 – Walka z Czasem (Quest Against Time)** to emocjonujący zestaw inspirowany filmem **„Książę Persji: Piaski Czasu”**. Przeznaczony dla fanów przygód, akcji i starożytnych tajemnic, zestaw przedstawia dramatyczną scenę w Świątyni Czasu, gdzie bohaterowie próbują powstrzymać złoczyńców przed uwolnieniem mocy Piasków Czasu.
 
@@ -5519,11 +8417,26 @@ W zestawie znajdziesz:
 
 Zestaw składa się z **506 elementów** i świetnie oddaje klimat filmu oraz serii gier **Prince of Persia**. Idealny dla dzieci od **7 do 12 lat**, ale również cenny dla kolekcjonerów licencjonowanych zestawów LEGO.
 
+**Galeria:**
+
+- 7572-1: https://a.allegroimg.com/original/112e82/9c6f5326469291bdc52219298fac
+
 ---
 
-## 7573 — Lego Prince of Persia 7573 Bitwa o Alamut
+## 7573 — PRINCE
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014601765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7573 |
+| Nazwa angielska | Battle of Alamut |
+| Nazwa polska | PRINCE |
+| Seria | Disney |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 821 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601765 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5542,11 +8455,26 @@ Zestaw składa się z **506 elementów** i świetnie oddaje klimat filmu oraz se
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7573-1: https://a.allegroimg.com/original/11863f/a1cb0f70497188f739482b684f4e
+
 ---
 
-## 76830 — Lego 76830 Disney Pościg za Zyklopem
+## 76830 — Pościg za Zyklopem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017152394 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76830 |
+| Nazwa angielska | Zyclops Chase |
+| Nazwa polska | Pościg za Zyklopem |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152394 |
 
 Klocki LEGO Disney 76830 - Pościg za Zyklopem
  
@@ -5580,11 +8508,26 @@ Zabawki 4+ pozwalają dorosłym budować razem z dziećmi. Osoby, które nigdy w
  
     Bezpieczna zabawa — zabawki konstrukcyjne LEGO® są testowane na wszystkie możliwe sposoby, więc możesz mieć pewność, że spełniają rygorystyczne standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76830-1: https://a.allegroimg.com/original/1106dc/08a7c6b7406c842c648e13f61d6a
+
 ---
 
-## 76831 — Lego 76831 Starcie z Zurgiem
+## 76831 — LEGO Lightyear Starcie z Zurgiem 76831
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 109.99 zł · EAN: 05702017152400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76831 |
+| Nazwa angielska | Zurg Battle |
+| Nazwa polska | LEGO Lightyear Starcie z Zurgiem 76831 |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152400 |
 
 LEGO® 76831 Starcie z Zurgiem
 
@@ -5604,11 +8547,27 @@ Fani mogą na nowo odegrać sceny z filmu, który opowiada o początkach Buzza A
 - Zawsze wciągająca zabawa — prezenty LEGO® dla dzieci spełniają surowe branżowe standardy, więc maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1958 roku
 - Trwałość i niezawodność — testujemy zabawki konstrukcyjne LEGO® dla dzieci na wszelkie możliwe sposoby, aby mieć pewność, że spełniają one surowe standardy bezpieczeństwa dzieci
 
+**Galeria:**
+
+- 76831-1: https://a.allegroimg.com/original/111a25/7ef31714432092a0941c0f78537f
+
 ---
 
-## 76832 — Klocki Lego Statek kosmiczny 76832
+## 76832 — Statek Kosmiczny XL-15
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702017152417 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76832 |
+| Nazwa angielska | XL-15 Spaceship |
+| Nazwa polska | Statek Kosmiczny XL-15 |
+| Seria | Disney |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 497 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 18 cm |
+| EAN | 5702017152417 |
 
 LEGO Disney 76832 Statek Kosmiczny
 
@@ -5627,11 +8586,26 @@ Do zabawy lub ustawienia na półce
 - Zawsze wciągająca zabawa — prezenty LEGO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki z zestawów 4+ — i tak jest niezmiennie od 1958 roku 
 - Trwałość i niezawodność — testujemy zabawki konstrukcyjne LEGO® na wszelkie możliwe sposoby, aby mieć pewność, że spełniają one surowe standardy bezpieczeństwa dzieci
 
+**Galeria:**
+
+- 76832-1: https://a.allegroimg.com/original/1105ac/eb0bfa184c6da12de12579c4079e
+
 ---
 
-## 79107 — Lego 79107 Lone Ranger Comanche Camp
+## 79107 — Comanche Camp
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 416.22 zł · EAN: 05702014972537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79107 |
+| Nazwa angielska | Comanche Camp |
+| Nazwa polska | Comanche Camp |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972537 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5661,11 +8635,26 @@ Numer:** 79107**
 
 Nazwa: **Comanche Camp**
 
+**Galeria:**
+
+- 79107-1: https://a.allegroimg.com/original/118f3c/941195c04f3aaa8dd1aa79092fa3
+
 ---
 
-## 79108 — Lego Disney 79108 The Lone Ranger Ucieczka dyliżansu
+## 79108 — The LONE RANGER Ucieczka dyliżansu
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 789.00 zł · EAN: 05702014972544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79108 |
+| Nazwa angielska | Stagecoach Escape |
+| Nazwa polska | The LONE RANGER Ucieczka dyliżansu |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972544 |
 
 Szukasz LEGO? Dobrze trafiłeś :)
  
@@ -5707,11 +8696,26 @@ Uważaj na bandytów ścigających cenne srebro Reda Harringtona zamknięte w sk
  
 • Dyliżans ma ponad 13 cm wysokości, 14 cm długości i 2 cale (7 cm) szerokości
 
+**Galeria:**
+
+- 79108-1: https://a.allegroimg.com/original/11ce58/974abce2499794a3b673e631b677
+
 ---
 
-## 79110 — Lego 79110 Lone Ranger Strzelanina w kopalni srebra
+## 79110 — Strzelanina w kopalni srebra
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702014972568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79110 |
+| Nazwa angielska | Silver Mine Shootout |
+| Nazwa polska | Strzelanina w kopalni srebra |
+| Seria | Disney |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972568 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5730,11 +8734,26 @@ Uważaj na bandytów ścigających cenne srebro Reda Harringtona zamknięte w sk
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 79110-1: https://a.allegroimg.com/original/1114c9/c1b61e3a4d9bbaf96a1615215f84
+
 ---
 
-## 79111 — Klocki Lego The Lone Ranger Zestaw Pościg za pociągiem 79111
+## 79111 — The Lone Ranger Pościg za pociągiem
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014972575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79111 |
+| Nazwa angielska | Constitution Train Chase |
+| Nazwa polska | The Lone Ranger Pościg za pociągiem |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 699 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702014972575 |
 
 Dokonaj szybkiej akcji ratunkowej na torach z Samotnym Jeźdźcem!
 
@@ -5766,11 +8785,26 @@ Pociąg ma ponad 9 cm wysokości, 58 cm długości i 5 cm szerokości.
 
 • Wieża wodna ma ponad 18 cm wysokości, 7 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 79111-1: https://a.allegroimg.com/original/11c859/4cbd9aca4a058e6937ef0d32b73f
+
 ---
 
-## 8487 — Lego Disney 8487 Lego 8487 – Flo’s V8 Café
+## 8487 — LEGO 8487 – Flo’s V8 Café
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014733473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8487 |
+| Nazwa angielska | Flo's V8 Café |
+| Nazwa polska | LEGO 8487 – Flo’s V8 Café |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 517 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733473 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5789,11 +8823,26 @@ Pociąg ma ponad 9 cm wysokości, 58 cm długości i 5 cm szerokości.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8487-1: https://a.allegroimg.com/original/1138b7/03449a254fcf9a5f26e2307d1586
+
 ---
 
-## 8639 — Lego Auta 8639 Ucieczka z wieży zegarowej Big Bentley Nowe
+## 8639 — Ucieczka z wieży zegarowej Big Bentley
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702014733510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8639 |
+| Nazwa angielska | Big Bentley Bust Out |
+| Nazwa polska | Ucieczka z wieży zegarowej Big Bentley |
+| Seria | Disney |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733510 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5822,11 +8871,26 @@ Szukasz wyjątkowego zestawu LEGO z kultowej serii **Cars (Auta) **? **LEGO 8639
  
 Kup LEGO 8639 Big Bentley Bust Out już dziś i przeżyj niesamowitą przygodę razem z bohaterami Auta 2! Zestaw idealny do zabawy, kolekcji lub jako unikatowy prezent.
 
+**Galeria:**
+
+- 8639-1: https://a.allegroimg.com/original/1122d4/e14d5fe544d0b961ae76fa7a766e
+
 ---
 
-## 9484 — Lego 9484 Disney Wodna ucieczka Edka
+## 9484 — Wodna ucieczka Edka
 
-*Kategoria: Disney · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702014840195 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9484 |
+| Nazwa angielska | Red's Water Rescue |
+| Nazwa polska | Wodna ucieczka Edka |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840195 |
 
 LEGO 9484 Disney - Wodna ucieczka Edka
 
@@ -5847,6 +8911,10 @@ Maniek* jest przyzwyczajony do gaszenia pożarów, ale tym razem został wezwany
 
 - Maniek ma ponad 14 cm długości.
 - Acer ma ponad 9 cm długości.
+
+**Galeria:**
+
+- 9484-1: https://a.allegroimg.com/original/114d4d/8dcc5689455b87a01fcaf0b8b41c
 
 ---
 

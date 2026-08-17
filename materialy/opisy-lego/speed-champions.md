@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Speed Champions — opisy produktowe (98 pozycji)
+# LEGO Speed Champions — opisy produktowe (97 pozycji)
 
-## 30342 — Lego Speed Champions 30342 Lamborghini Huracán Trofeo Evo Polybag
+## 30342 — Lamborghini Huracan EVO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 80.88 zł · EAN: 05702016668742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30342 |
+| Nazwa angielska | Lamborghini Huracán Super Trofeo EVO |
+| Nazwa polska | Lamborghini Huracan EVO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668742 |
 
 Klocki LEGO Speed Champions 30342 - Lamborghini Huracán Super Trofeo EVO
 
@@ -17,11 +28,27 @@ Spektakularny i niezwykle szczegółowy model Lamborghini Huracán Super Trofeo 
 
 Zestaw LEGO Speed Champions - Lamborghini Huracán Super Trofeo EVO trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 30342. Zawiera 70 klocków LEGO. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30342-1: https://a.allegroimg.com/original/11c952/8be0ea2f49fdb931218e05f193af
+
 ---
 
-## 30343 — Lego Speed Champions 30343 McLaren Elva Saszetka
+## 30343 — McLaren Elva
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 19.50 zł · EAN: 05702016912517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30343 |
+| Nazwa angielska | McLaren Elva |
+| Nazwa polska | McLaren Elva |
+| Seria | Speed Champions |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912517 |
 
 LEGO Speed Champions 30343 McLaren Elva Saszetka
 
@@ -29,11 +56,27 @@ LEGO Speed Champions 30343 McLaren Elva
 
 Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymyślania własnych konstrukcji. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu. Zestaw 30343 jest idealny, aby rozpocząć przygodę z LEGO, w dodatku może być wspaniałym dodatkiem do urodzinowego prezentu.
 
+**Galeria:**
+
+- 30343-1: https://a.allegroimg.com/original/11302a/85353bbd41689e3b13111e52b727
+
 ---
 
-## 30434 — Lego Speed Champions 30434 Aston Martin Valkyrie Amr Pro
+## 30434 — Aston Martin Valkyrie AMR Pro
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 17.99 zł · EAN: 05702017160863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30434 |
+| Nazwa angielska | Aston Martin Valkyrie AMR Pro |
+| Nazwa polska | Aston Martin Valkyrie AMR Pro |
+| Seria | Speed Champions |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017160863 |
 
 Klocki Speed Champions 30434 Aston Martin Valkyrie AMR Pro
  
@@ -71,11 +114,27 @@ Rozmiar zestawu
  
 Mały [Lego 1 - 200]
 
+**Galeria:**
+
+- 30434-1: https://a.allegroimg.com/original/11b275/58e4db224a359b1e3220cb973d74
+
 ---
 
-## 30657 — Lego 30657 Speed Champions McLaren Solus Gt Liczba elementów: 95
+## 30657 — Speed Champions McLaren Solus GT
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 17.50 zł · EAN: 05702017425108 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30657 |
+| Nazwa angielska | McLaren Solus GT |
+| Nazwa polska | Speed Champions McLaren Solus GT |
+| Seria | Speed Champions |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017425108 |
 
 LEGO Klocki Speed Champions 30657 McLaren Solus GT
 
@@ -92,11 +151,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 95 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30657-1: https://a.allegroimg.com/original/11794c/53c4f8784a2cb117da6c38290198
+
 ---
 
-## 30683 — Lego Speed Champions 30683 Samochód Mclaren Formula 1
+## 30683 — Samochód McLaren Formula 1
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 12.83 zł · EAN: 05702017594163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30683 |
+| Nazwa angielska | McLaren Formula 1 Car |
+| Nazwa polska | Samochód McLaren Formula 1 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017594163 |
 
 **LEGO SPEED CHAMPIONS 30683 SAMOCHÓD MCLAREN FORMULA 1**
 
@@ -114,11 +189,26 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 30683-1: https://a.allegroimg.com/original/110361/de9359dd4bd8a613e660f678a94e
+
 ---
 
-## 30709 — Lego 30709 Speed Champions Ferrari 499P – hipersamochód
+## 30709 — Ferrari 499P – hipersamochód
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702017820224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30709 |
+| Nazwa angielska | Ferrari 499P - Hypercar |
+| Nazwa polska | Ferrari 499P – hipersamochód |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 62 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017820224 |
 
 LEGO Speed Champions 30709 Ferrari 499P hipersamochód sportowy mini zestaw
 
@@ -152,11 +242,26 @@ Mini zestaw LEGO na poprawę humoru!
  
 ⭐⭐⭐
 
+**Galeria:**
+
+- 30709-1: https://a.allegroimg.com/original/118aa3/4044941d42258745c13f991bcb4a
+
 ---
 
-## 30734 — Lego(r) Academy 30734 Mały Bolid
+## 30734 — LEGO Speed Champions 77259 Bolid F1 Audi Revolut Team R26
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 12.44 zł · EAN: 05702018070499 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30734 |
+| Nazwa angielska | Mini F1 ACADEMY Car |
+| Nazwa polska | LEGO Speed Champions 77259 Bolid F1 Audi Revolut Team R26 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 58 |
+| Cena katalogowa | 29.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018070499 |
 
 LEGO(R) ACADEMY 30734 Mały bolid
 
@@ -174,11 +279,26 @@ Model Mini F1 wyróżnia się** smukłą sylwetką, sportową aerodynamiką, ty
 - rozwijanie wyobraźni - odgrywanie wyścigów i tworzenie własnych historii z toru wyścigowego
 - **wymiary i zawartość - zestaw składa się z 58 elementów i zawiera kompaktowy model bolidu F1**
 
+**Galeria:**
+
+- 30734-1: https://a.allegroimg.com/original/11064c/ccec3691496cad45fb6379754fbb
+
 ---
 
-## 30736 — Lego(r)technic 30736 Biały Wodnosamolot
+## 30736 — Biały wodnosamolot
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 12.93 zł · EAN: 05702018070673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30736 |
+| Nazwa angielska | White Seaplane |
+| Nazwa polska | Biały wodnosamolot |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018070673 |
 
 Lego
 
@@ -198,11 +318,26 @@ Podczas budowania dzieci odkrywają, jak proste ruchome elementy wprawiają mode
 - **pomysł na drobny prezent - idealny upominek dla fanów pojazdów i samolotów**
 - wejście do świata Technic - prosty, satysfakcjonujący projekt, który zachęca do sięgania po kolejne zestawy z serii
 
+**Galeria:**
+
+- 30736-1: https://a.allegroimg.com/original/11476c/d8165c064e0faa42a5fa3e59af2b
+
 ---
 
-## 43014 — Lego 43014 Kask Charles Leclerc Scuderia Ferrari Hp
+## 43014 — LEGO Editions 43014 Kask Charles Leclerc Scuderia Ferrari HP
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 279.66 zł · EAN: 05702018069547 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43014 |
+| Nazwa angielska | Scuderia Ferrari HP Charles Leclerc Helmet |
+| Nazwa polska | LEGO Editions 43014 Kask Charles Leclerc Scuderia Ferrari HP |
+| Seria | Speed Champions |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 886 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm × gł. 13 cm |
+| EAN | 5702018069547 |
 
 Rozpal wyobraźnię i stwórz niesamowity model rodem z Formuły 1® dzięki zestawowi konstrukcyjnemu LEGO® Editions Kask Charles Leclerc Scuderia Ferrari HP (43014) dla nastolatków i fanów F1® w wieku od 14 lat. Miłośnicy motoryzacji mają świat wyścigów na wyciągnięcie ręki podczas budowania niezwykle szczegółowej repliki kasku F1® z klocków LEGO. Kask ma kultowy kolor Ferrari Rosso Corsa (wyścigowa czerwień) i nadrukowane detale graficzne, takie jak numer kierowcy Charlesa i inne osobiste nadruki. Zestaw zawiera również minifigurkę Charlesa Leclerca oraz tabliczkę z jego podpisem. Po przekroczeniu linii mety fani mogą z dumą eksponować kask LEGO jako ozdobę. To również świetny prezent urodzinowy dla nastolatków i fanów F1®. Zabawę tym modelem F1® urozmaica aplikacja LEGO® Builder, gdzie początkujący kierowcy mogą śledzić swoje postępy i obracać swoje dzieła. Zestaw składa się z 886 elementów.
 
@@ -216,11 +351,27 @@ Rozpal wyobraźnię i stwórz niesamowity model rodem z Formuły 1® dzięki zes
 - LEGO® Editions — zapoznaj się z serią LEGO Editions, aby odkryć więcej zestawów inspirowanych F1® (sprzedawanych osobno), które zachwycą fanów Formuły 1® 
 - Wymiary — ten 886-elementowy zestaw z kaskiem Charlesa Leclerca LEGO® ma 18 cm wysokości, 11 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 43014-1: https://a.allegroimg.com/original/112e13/efad6f814314acb97e9e2941103d
+
 ---
 
-## 66802 — Lego Speed Champions 66802 Ultimate Formula 1 Collector's Pack
+## 66802 — LEGO Speed Champions Ultimate Formula 1 Collector's Pack
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 2899.87 zł · EAN: 00673419416399 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66802 |
+| Nazwa angielska | Ultimate Formula 1 Collector's Pack |
+| Nazwa polska | LEGO Speed Champions Ultimate Formula 1 Collector's Pack |
+| Seria | Speed Champions |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419416399 |
 
 Ultimate Formula 1 Collector's Pack – Kolekcja F1 2025
  
@@ -246,11 +397,27 @@ ekskluzywny plakat kolekcjonerski
  
 Idealny na prezent dla fana F1 – dla dzieci, młodzieży i dorosłych!
 
+**Galeria:**
+
+- 66802-1: https://a.allegroimg.com/original/117bbc/7b0a3f494e8a8be7374f42fc8328
+
 ---
 
-## 71774 — Klocki Lego Ninjago Zestaw Złoty Ultra Smok Lloyda 71774
+## 71774 — Złoty Ultra Smok Lloyda
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 1377.99 zł · EAN: 05702017152066 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71774 |
+| Nazwa angielska | Lloyd's Golden Ultra Dragon |
+| Nazwa polska | Złoty Ultra Smok Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 989 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152066 |
 
 Dzięki zestawowi Złoty Ultra Smok Lloyda (71774) dziewięciolatki i starsze dzieci mogą odgrywać ulubione sceny z serialu NINJAGO®: Crystallized. Zestaw zawiera największego smoka w historii zestawów NINJAGO — stwór ma cztery głowy, niezwykle ruchome nogi i ogon oraz parę skrzydeł, które można rozłożyć na trzy ostrza. A do tego jest cały złoty!
 
@@ -266,11 +433,27 @@ Ruchomy model smoka — to największy smok w historii zestawów NINJAGO. Ma czt
 
 Smoczy krążownik Cole’a (71769) i Mech Samuraj X Nyi (71775)
 
+**Galeria:**
+
+- 71774-1: https://a.allegroimg.com/original/11fac0/c79dd75f4523ac0d1ce345e86c7e
+
 ---
 
-## 75870 — Lego Speed Champions 75870 Chevrolet Corvette Z06 Nowy
+## 75870 — Chevrolet Corvette Z06
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702015591508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75870 |
+| Nazwa angielska | Chevrolet Corvette Z06 |
+| Nazwa polska | Chevrolet Corvette Z06 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015591508 |
 
 Klocki LEGO SPEED CHAMPIONS
  
@@ -291,11 +474,27 @@ Ta zmniejszona do rozmiaru odpowiedniego dla minifigurek wersja klasycznego Chev
 - Zorganizuj wyścig przez pustynię i zmierz się z Fordem Mustangiem GT z zestawu 75871! 
 - Wymiary: ok. 4 cm wysokości, 14 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 75870-1: https://a.allegroimg.com/original/11f676/05d4e29f4fabaac8a34662b24772
+
 ---
 
-## 75871 — Lego Speed Champions Ford Mustang Hoonicorn Kena Blocka 77262 Klocki Dla
+## 75871 — Ford Mustang GT
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702015591492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75871 |
+| Nazwa angielska | Ford Mustang GT |
+| Nazwa polska | — |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591492 |
 
 ✨ **KULTOWY MUSTANG HOONICORN KEN BLOCKA**
 
@@ -367,11 +566,27 @@ PREZENT DLA MAŁEGO I DUŻEGO FANA MOTORYZACJI
 
 Szukasz prezentu dla 9-latka, który oddycha samochodami? To to. Szukasz uzupełnienia kolekcji LEGO Speed Champions? Jeszcze bardziej to. Mustang Hoonicorn to **połączenie zabawy, pasji i kolekcjonowania** — idealne dla chłopca czy dziewczyny, którzy lubią szybkie samochody, drift i legendy motoryzacji.
 
+**Galeria:**
+
+- 75871-1: https://a.allegroimg.com/original/11629f/787f735e469c97d73cc0cb7580df
+
 ---
 
-## 75872 — Lego Speed Champions 75872 Audi R18 e-tron quattro
+## 75872 — Audi R18 e-tron quattro
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 580.00 zł · EAN: 05702015591485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75872 |
+| Nazwa angielska | Audi R18 e-tron quattro |
+| Nazwa polska | — |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591485 |
 
 ****
 
@@ -387,11 +602,27 @@ WIEK: **7+** LAT
  
 Ta zmniejszona do rozmiaru odpowiedniego dla minifigurek wersja klasycznego Audi R18 quattro z zestawu LEGO® Speed Champions dostarczy ci mnóstwa wrażeń. Zbuduj ją i przekonaj się! Zestaw zawiera kask wyścigowy, klucz i dystrybutor. To z pewnością rozpali wyobraźnię fanów sportów motorowych. Zestaw zawiera minifigurkę kierowcy wyścigowego Audi.
 
+**Galeria:**
+
+- 75872-1: https://a.allegroimg.com/original/0033ab/cdd98e57433eb8c9054a0b349d93
+
 ---
 
-## 75873 — Lego Speed Champions 75873 Audi R8 Lms ultra
+## 75873 — Audi R8 LMS ultra
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 490.00 zł · EAN: 05702015591478 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75873 |
+| Nazwa angielska | Audi R8 LMS ultra |
+| Nazwa polska | Audi R8 LMS ultra |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015591478 |
 
 UNIKAT!!!
  
@@ -408,11 +639,27 @@ Zbuduj miniaturowy model Audi R8 LMS z serii LEGO® Speed Champions, by móc zai
 - Wymiary Audi R8 LMS: ok. 4 cm wysokości, 14 cm długości i 5 cm szerokości. 
 - Wymiary podium: 4 cm szerokości, 4 cm głębokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 75873-1: https://a.allegroimg.com/original/001f57/449d6c6b4c42b404d7c2793ce01e
+
 ---
 
-## 75874 — Lego Speed Champions 75874 Chevrolet Camaro Drag Race
+## 75874 — LEGO Speed Champions Wyścig dragsterów Chevroleta Camaro 75874
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015591263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75874 |
+| Nazwa angielska | Chevrolet Camaro Drag Race |
+| Nazwa polska | LEGO Speed Champions Wyścig dragsterów Chevroleta Camaro 75874 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015591263 |
 
 LEGO SPEED CHAMPIONS 75874 CHEVROLET CAMARO DRAG RACE
 
@@ -427,11 +674,27 @@ Zielone światło? A więc ruszaj! Ten zestaw LEGO® Speed Champions do wyścig�
 - Wymiary Chevroleta Camaro z 2016 r.: ok. 4 cm wysokości, 14 cm długości i 5 cm szerokości. 
 - Wymiary bramki startu: ok. 15 cm wysokości, 22 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 75874-1: https://a.allegroimg.com/original/11572d/50ca75a14db3896cacd1335e4fdb
+
 ---
 
-## 75875 — Lego Speed Champions 75875 Ford F-150 Raptor i Ford Model A Hot Rod Opis
+## 75875 — LEGO 75875 - Ford F-150 Raptor & Ford Model A Hot Rod
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702015591256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75875 |
+| Nazwa angielska | Ford F-150 Raptor & Ford Model A Hot Rod |
+| Nazwa polska | LEGO 75875 - Ford F-150 Raptor & Ford Model A Hot Rod |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 664 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm |
+| EAN | 5702015591256 |
 
 Ten wielofunkcyjny zestaw pozwoli ci się przekonać, jak wygląda dzień spędzony na wyścigach hot rodów. Ford F-150 Raptor ma zawieszenie i przyczepę, na której przewozi hot-roda Model A na wyścig. Warsztat zespołu ma wszystko, co potrzebne do przygotowania Modelu A do wyścigu: podnośnik do wymiany silnika, spawarkę i zbiornik na olej. Gdy go obrócisz, ukaże się podium i puchar dla zwycięzcy. W zestawie 4 minifigurki: kierowca hot-roda, kierowca wyścigowy, mechanik i sędzia wyścigów.
 
@@ -453,11 +716,27 @@ Ten wielofunkcyjny zestaw pozwoli ci się przekonać, jak wygląda dzień spędz
 
 Poniżej znajdą państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 75875-1: https://a.allegroimg.com/original/00d4c5/52d4fa114fafb89b8ab26baeb0f1
+
 ---
 
-## 75876 — Lego Speed Champions 75876 Porshe 919 Hybrid Nowe
+## 75876 — Porshe 919 Hybrid
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015591249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75876 |
+| Nazwa angielska | Porsche 919 Hybrid and 917K Pit Lane |
+| Nazwa polska | Porshe 919 Hybrid |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591249 |
 
 Klocki LEGO Speed Champions 75876 - Porsche 919 Hybrid i 917K Pit Stop
 
@@ -473,11 +752,27 @@ Odtwórz wyścig wraz z zespołem Porsche i pomóż nowoczesnemu modelowi 919 Hy
 - Włącz podnośnik, aby mechanicy mogli zabrać się za przygotowanie samochodów i zmienić koła.
 - Sprawdź, jak radzą sobie twoje auta — w pit stopie są ekrany i tablica czasów.
 
+**Galeria:**
+
+- 75876-1: https://a.allegroimg.com/original/006368/27149e5f4b8bb9ca1e132dc55207
+
 ---
 
-## 75877 — Lego Speed Champions Mercedes-amg G63 I Mercedes-amg SL63 GT3_76924
+## 75877 — 75877 Mercedes-AMG GT3
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 193.70 zł · EAN: 05702015867733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75877 |
+| Nazwa angielska | Mercedes-AMG GT3 |
+| Nazwa polska | 75877 Mercedes-AMG GT3 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867733 |
 
 LEGO SPEED CHAMPIONS MERCEDES-AMG G63 I MERCEDES-AMG SL63 GT3_76924
 
@@ -491,11 +786,27 @@ Dzięki zestawom konstrukcyjnym LEGO Speed Champions dzieci i automaniacy mogą 
 
 #18298
 
+**Galeria:**
+
+- 75877-1: https://a.allegroimg.com/original/115c31/266dc29740a18cc16d9e418255c9
+
 ---
 
-## 75878 — Lego Speed Champions 75878 Bugatti Chiron
+## 75878 — Bugatti Chiron
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702015867740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75878 |
+| Nazwa angielska | Bugatti Chiron |
+| Nazwa polska | Bugatti Chiron |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015867740 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -526,11 +837,27 @@ Przygotuj się do ostrej jazdy z poczwórnym turboładowaniem! Sięgnij po zesta
 - Zestaw odpowiedni dla dzieci w wieku od 7 lat. 
 - Wymiary samochodu Bugatti Chiron: 4 cm wysokości, 13 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 75878-1: https://a.allegroimg.com/original/0065e6/69cb25954aff962706b0f1e13a81
+
 ---
 
-## 75879 — Lego Speed Champions 75879 Scuderia Ferrari SF16-H
+## 75879 — Scuderia Ferrari SF16-H
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015867979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75879 |
+| Nazwa angielska | Scuderia Ferrari SF16-H |
+| Nazwa polska | Scuderia Ferrari SF16-H |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702015867979 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -559,11 +886,27 @@ Model auta wyścigowego Scuderia Ferrari SF16-H do zbudowania z zestawu LEGO® S
 - Wymiary samochodu Scuderia Ferrari SF16-H to ok. 4 cm wysokości, 14 cm długości i 6 cm szerokości. 
 - Wymiary ściany pit-stopu: ok. 7 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 75879-1: https://a.allegroimg.com/original/0028bc/c3c6be2b4dbeabe9b7027e7f8af8
+
 ---
 
-## 75880 — Lego Speed Champions 75880 Lego
+## 75880 — LEGO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015868044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75880 |
+| Nazwa angielska | McLaren 720S |
+| Nazwa polska | LEGO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015868044 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -594,11 +937,27 @@ Zostań twórcą supersamochodów i kierowcą wyścigowym! Pomoże Ci w tym mode
 - Wymiary biurka projektanta: ok. 5 cm wysokości, 6 cm szerokości
 - i 4 cm głębokości.
 
+**Galeria:**
+
+- 75880-1: https://a.allegroimg.com/original/00ec33/114fd8bb422c93ab23c95421ac14
+
 ---
 
-## 75881 — Lego Speed Champions 75881 Ford Gt z roku 2016
+## 75881 — Klocki LEGO Speed Champions Ford GT z roku 2016 i Ford GT40 z roku 1966 75881
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015868099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75881 |
+| Nazwa angielska | 2016 Ford GT & 1966 Ford GT40 |
+| Nazwa polska | Klocki LEGO Speed Champions Ford GT z roku 2016 i Ford GT40 z roku 1966 75881 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 366 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015868099 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -629,11 +988,27 @@ Sięgnij po zestaw LEGO® Speed Champions i przygotuj się do historycznego wyś
 - Wymiary Forda GT40 1966 to ok. 4 cm wysokości, 15 cm długości i 5 cm szerokości. 
 - Podium ma ok. 6 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 75881-1: https://a.allegroimg.com/original/008400/735b7cd74b298a754e7c1bd98584
+
 ---
 
-## 75882 — Lego Speed Champions 75882 Ferrari Fxx K i Centrum Techniczne Nowe
+## 75882 — Ferrari FXX K i Centrum Techniczne
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015868105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75882 |
+| Nazwa angielska | Ferrari FXX K & Development Center |
+| Nazwa polska | Ferrari FXX K i Centrum Techniczne |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 494 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 12 cm × gł. 4 cm |
+| EAN | 5702015868105 |
 
 LEGO SPEED CHAMPIONS
  
@@ -663,11 +1038,27 @@ Sięgnij po zestaw LEGO® Speed Champions, by razem z inżynierami z centrum tec
  
 38 cm * 26 cm * 7 cm *
 
+**Galeria:**
+
+- 75882-1: https://a.allegroimg.com/original/11fba9/4736cc544e7083ca50f9d5c1852c
+
 ---
 
-## 75883 — Lego Speed Champions 75883 Mercedes Amg Petronas
+## 75883 — Stacja formuły
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 1350.00 zł · EAN: 05702015868112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75883 |
+| Nazwa angielska | MERCEDES AMG PETRONAS Formula One Team |
+| Nazwa polska | Stacja formuły |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 941 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 21 cm × gł. 10 cm |
+| EAN | 5702015868112 |
 
 KLOCKI LEGO SPEED CHAMPIONS 75883 - ZESPÓŁ F1 MERCEDES AMG PETRONAS
 
@@ -690,11 +1081,27 @@ Znajdziesz w nim także 2 bolidy Mercedes F1 W07 do zbudowania. Zestaw jest peł
 - Każdy z bolidów Mercedes F1 W07 Hybrid ma ok. 4 cm wysokości, 14 cm długości i 6 cm szerokości.
 - Wymiary stoiska z hot dogami: ok. 7 cm wysokości, 5 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 75883-1: https://a.allegroimg.com/original/00b69f/953472c64692a7f12bb934b050c2
+
 ---
 
-## 75884 — Lego Speed Champions 1968 Ford Mustang Fastback 75884
+## 75884 — Ford Mustang Fastback z 1968 r.
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 199.75 zł · EAN: 05702016109054 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75884 |
+| Nazwa angielska | 1968 Ford Mustang Fastback |
+| Nazwa polska | Ford Mustang Fastback z 1968 r. |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109054 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -710,11 +1117,27 @@ Rok wydania:** 2018**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 19x14x6cm**
 
+**Galeria:**
+
+- 75884-1: https://a.allegroimg.com/original/110fdf/d36d4d414ae49f059301dc62f546
+
 ---
 
-## 75885 — Lego Speed Champions Ford Fiesta M-Sport Wrc 75885
+## 75885 — LEGO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702016109061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75885 |
+| Nazwa angielska | Ford Fiesta M-Sport WRC |
+| Nazwa polska | LEGO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016109061 |
 
 LEGO SPEED CHAMPIONS 75885 Ford Fiesta M-Sport WRC
 
@@ -745,11 +1168,27 @@ Ford Fiesta M-Sport WRC z zestawu LEGO® Speed Champions ma mnóstwo realistyczn
 - Ford Fiesta M-Sport WRC ma ok. 6 cm wysokości, 13 cm długości i 6 cm szerokości. 
 - Wymiary dodatkowej maski: ok. 5 cm wysokości, 2 cm szerokości i 1 cm głębokości.
 
+**Galeria:**
+
+- 75885-1: https://a.allegroimg.com/original/00bdeb/f77d33984041ac4cec4700edff00
+
 ---
 
-## 75886 — Lego Speed Champions 75886 Ferrari 488 GT3 Scuderia Corsa
+## 75886 — LEGO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016110227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75886 |
+| Nazwa angielska | Ferrari 488 GT3 "Scuderia Corsa" |
+| Nazwa polska | LEGO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110227 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -767,11 +1206,27 @@ Ford Fiesta M-Sport WRC z zestawu LEGO® Speed Champions ma mnóstwo realistyczn
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 75886-1: https://a.allegroimg.com/original/006af8/37be47f8437fa7d3a058d1fe75e4
+
 ---
 
-## 75887 — Lego Speed Champions 75887 Porsche 919 Hybrid
+## 75887 — Porsche 919 Hybrid
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 281.36 zł · EAN: 05702016110258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75887 |
+| Nazwa angielska | Porsche 919 Hybrid |
+| Nazwa polska | Porsche 919 Hybrid |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702016110258 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -816,11 +1271,27 @@ Sięgnij po zestaw LEGO® Speed Champions i zbuduj model samochodu, który start
 - Wymiary Porsche 919 Hybrid: ok. 5 cm wysokości, 15 cm długości i 6 cm szerokości.
 - Wymiary słupka startu/mety: ok. 6 cm wysokości, 3 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 75887-1: https://a.allegroimg.com/original/00813a/9fc3f17346308ea825800bab428e
+
 ---
 
-## 75888 — Lego Speed Champions 75888 Lego Speed 75888 Porsche 911
+## 75888 — LEGO SPEED 75888 - PORSCHE 911
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702016110289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75888 |
+| Nazwa angielska | Porsche 911 RSR and 911 Turbo 3.0 |
+| Nazwa polska | LEGO SPEED 75888 - PORSCHE 911 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 391 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702016110289 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -864,11 +1335,27 @@ SPECYFIKACJA:
 - **Płeć dziecka:** Chłopcy i Dziewczynki 
 - **Ilość elementów:** 391
 
+**Galeria:**
+
+- 75888-1: https://a.allegroimg.com/original/05452b/a7e234cc403ab7395c2a25671bf6
+
 ---
 
-## 75889 — Lego Speed Champions 75889 Speed Champions
+## 75889 — Speed Champions
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702016110302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75889 |
+| Nazwa angielska | Ferrari Ultimate Garage |
+| Nazwa polska | Speed Champions |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 841 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 22 cm × gł. 18 cm |
+| EAN | 5702016110302 |
 
 KLOCKI LEGO ZESTAW SPEED CHAMPIONS 75889 REWELACYJNY WARSZTAT FERRARI
  
@@ -920,11 +1407,27 @@ Wymiary Ferrari 312 T4: ok. 4 cm wysokości, 16 cm długości i 6 cm szerokości
 
                                           Klocki odpowiednie dla dzieci w wieku 8-14 lat.
 
+**Galeria:**
+
+- 75889-1: https://a.allegroimg.com/original/110ae8/dd3313b645c1b84d7bd263713b0d
+
 ---
 
-## 75890 — Lego 75890 Speed Champions Ferrari F40 Competizione
+## 75890 — Ferrari F40 Competizione
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016370942 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75890 |
+| Nazwa angielska | Ferrari F40 Competizione |
+| Nazwa polska | Ferrari F40 Competizione |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370942 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -940,19 +1443,51 @@ Numer magazynowy sprzedawcy: 20260297, 20260298, 20260299
 
 Przybliżone wymiary opakowania: **19,1 x 6,1 x 14,1 cm**
 
+**Galeria:**
+
+- 75890-1: https://a.allegroimg.com/original/119b34/5ea3b3d145cd8c52471831b1326d
+
 ---
 
-## 75891 — Lego 75891 Chevrolet Camaro ZL1
+## 75891 — Chevrolet Camaro ZL1
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 114.00 zł · EAN: 05702016370959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75891 |
+| Nazwa angielska | Chevrolet Camaro ZL1 Race Car |
+| Nazwa polska | Chevrolet Camaro ZL1 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016370959 |
 
 LEGO® Speed Champions 75891 Chevrolet Camaro ZL1 to zestaw godny mistrzów kierownicy. Znajdziesz w nim samochód z kabiną dla minifigurki, otwieraną klatką bezpieczeństwa, zdejmowaną przednią szybą i kołami ozdobionymi felgami z logo marki Chevrolet Camaro. W tym wspaniałym zestawie jest także minifigurka kierowcy wyścigowego Camaro i kanister benzyny do odgrywania niezapomnianych wyścigów oraz pit stopów. W zestawie minifigurka kierowcy wyścigowego Camaro. Chevrolet Camaro ZL1 to rasowe auto wyścigowe do zbudowania z klocków. Pojazd w kolorach wyścigowych ma kabinę z miejscem dla minifigurki, otwieraną klatkę bezpieczeństwa, zdejmowaną przednią szybę, koła z gumowymi oponami, felgi z logo marki Chevrolet Camaro i inne realistyczne detale. Zdejmij przednią szybę i podnieś klatkę bezpieczeństwa, by posadzić minifigurkę w kabinie. Akcesoria: kanister benzyny, klucz i kask kierowcy wyścigowego Camaro. Wyścigowy zestaw konstrukcyjny to świetny prezent dla dzieci i miłośników samochodów w każdym wieku. Model ma ok. 4 cm wysokości, 14 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 75891-1: https://a.allegroimg.com/original/05cb17/ab0233de4c69988224bd061ac5d3
+
 ---
 
-## 75892 — Lego 75892 McLaren Senna
+## 75892 — McLaren Senna
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 113.00 zł · EAN: 05702016370966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75892 |
+| Nazwa angielska | McLaren Senna |
+| Nazwa polska | McLaren Senna |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016370966 |
 
 Zbuduj model McLaren Senna i dokonaj niemożliwego!
  
@@ -968,11 +1503,27 @@ Posmakuj ekstremalnego życia rajdowca w zestawie LEGO Speed Champions 75892 McL
 - McLaren Senna ma ok. 4 cm wysokości, 15 cm długości i 5 cm szerokości. 
 - Tunel aerodynamiczny ma ok. 5 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 75892-1: https://a.allegroimg.com/original/11cff6/65ae62b2463dab12346ee79579f1
+
 ---
 
-## 75893 — Zestaw Lego Speed Champions 75893 Dodge Challenger Srt I Dodge Charger
+## 75893 — Klocki LEGO SPEED CHAMPIONS  75893 Dodge Challenger i Dodge Charger
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 254.00 zł · EAN: 05702016370973 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75893 |
+| Nazwa angielska | 2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T |
+| Nazwa polska | Klocki LEGO SPEED CHAMPIONS  75893 Dodge Challenger i Dodge Charger |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 478 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016370973 |
 
 ZESTAW LEGO SPEED CHAMPIONS - 75893 - DODGE CHALLENGER SRT I DODGE CHARGER
 
@@ -1012,11 +1563,27 @@ Oba modele zostały zaprojektowane z dbałością o proporcje i szczegóły, dzi
 
 LEGO Speed Champions 75893 to idealna propozycja dla każdego fana motoryzacji, który ceni klasyczne amerykańskie muscle cary i dynamiczną zabawę. Dzięki dwóm różnym modelom, minifigurkom i interaktywnemu elementowi startu wyścigu zestaw zapewnia wiele godzin kreatywnej rozrywki. To świetny wybór na prezent urodzinowy, świąteczny lub bez okazji – zarówno dla młodszych konstruktorów, jak i dorosłych kolekcjonerów.
 
+**Galeria:**
+
+- 75893-1: https://a.allegroimg.com/original/05cb7f/75051d9040dd8373e410ab2c7c71
+
 ---
 
-## 75894 — Lego Speed Champions 1967 Mini Cooper S Rally 2018 Mini Cooper Buggy 75894
+## 75894 — Speed Champions
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 489.75 zł · EAN: 05702016370980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75894 |
+| Nazwa angielska | 1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy |
+| Nazwa polska | Speed Champions |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 481 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370980 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -1032,11 +1599,27 @@ Rok wydania:** 2019**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 38x26x7cm**
 
+**Galeria:**
+
+- 75894-1: https://a.allegroimg.com/original/113626/2381b18b4013b9d56da774797491
+
 ---
 
-## 75895 — Lego Speed Champions 75895 1974 Porsche 911 Turbo 3.0
+## 75895 — 1974 Porsche 911 Turbo
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 203.73 zł · EAN: 05702016595468 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75895 |
+| Nazwa angielska | 1974 Porsche 911 Turbo 3.0 |
+| Nazwa polska | 1974 Porsche 911 Turbo |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016595468 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1069,11 +1652,27 @@ Budowanie modelu Porsche 911 Turbo 3.0 1974 z zestawu 75895 LEGO® Speed Champio
  
 - Do modelu dołączona jest nowość na sierpień 2019 r.: klasyczna minifigurka kierowcy Porsche 911.
 
+**Galeria:**
+
+- 75895-1: https://a.allegroimg.com/original/054884/096678ab47ac8b79ce8ff2988246
+
 ---
 
-## 75899 — Lego Speed Champions 75899 LaFerrari
+## 75899 — LaFerrari
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 478.32 zł · EAN: 05702015348454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75899 |
+| Nazwa angielska | LaFerrari |
+| Nazwa polska | — |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015348454 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1109,11 +1708,27 @@ Wymiary modeli:
 - samochód LaFerrari ma ok. 4 cm wysokości, 14 cm długości i 5 cm szerokości; 
 - sygnalizator startowy ma ok. 6 cm wysokości, 1 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 75899-1: https://a.allegroimg.com/original/00ffed/77d9561e436dae7773504c7650af
+
 ---
 
-## 75909 — Lego Speed Champions 75909 McLaren P1
+## 75909 — McLaren P1
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 760.00 zł · EAN: 05702015348430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75909 |
+| Nazwa angielska | McLaren P1 |
+| Nazwa polska | — |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015348430 |
 
 LEGO Speed Champions 75909 McLaren P1
 
@@ -1137,11 +1752,27 @@ Oferuję zestaw **LEGO Speed Champions 75909 McLaren P1** – wyjątkowy model j
 
 🔸 **Dlaczego warto?** Zestaw pozwala poczuć emocje wyścigów i rozwija kreatywność. To świetny wybór dla fanów motoryzacji LEGO i serii Speed Champions.
 
+**Galeria:**
+
+- 75909-1: https://a.allegroimg.com/original/007661/7bdb835e42d0a717bf988083be8a
+
 ---
 
-## 75911 — Lego Speed Champions 75911 McLaren Mercedes Pit Stop
+## 75911 — McLaren Mercedes Pit Stop
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015348416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75911 |
+| Nazwa angielska | McLaren Mercedes Pit Stop |
+| Nazwa polska | McLaren Mercedes Pit Stop |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 332 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 22 cm |
+| EAN | 5702015348416 |
 
 Klocki LEGO Speed Champions 75911 - Pit Stop McLaren Mercedes
 
@@ -1162,11 +1793,27 @@ Przygotuj swój bolid McLaren Mercedes MP4-29 do wyścigu w tym niesamowitym, wi
 
 Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 75911-1: https://a.allegroimg.com/original/111eb6/f9339f484afaa5a5b9e4fc8d4326
+
 ---
 
-## 75912 — Lego Speed Champions 75912 Porsche 911 Gt Finish Line
+## 75912 — Porsche 911 GT Finish Line
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 895.00 zł · EAN: 05702015348409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75912 |
+| Nazwa angielska | Porsche 911 GT Finish Line |
+| Nazwa polska | Porsche 911 GT Finish Line |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 551 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm × gł. 8 cm |
+| EAN | 5702015348409 |
 
 LEGO Speed Champions 75912 - Porsche 911 GT, linia mety
  
@@ -1202,11 +1849,27 @@ LEGO Speed Champions 75912 - Porsche 911 GT, linia mety
 
 W przypadku jakichkolwiek problemów z płatnością lub innych proszę o informacje - zawsze chętnie służę pomocą i radą :)
 
+**Galeria:**
+
+- 75912-1: https://a.allegroimg.com/original/119eb6/6de2c75540c2a89da19f27fa0020
+
 ---
 
-## 75913 — Lego Speed Champions 75913 Scuderia Ferrari Truck
+## 75913 — Scuderia Ferrari Truck
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015348393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75913 |
+| Nazwa angielska | F14 T & Scuderia Ferrari Truck |
+| Nazwa polska | Scuderia Ferrari Truck |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 884 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 14 cm |
+| EAN | 5702015348393 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1249,11 +1912,27 @@ Przewieź bolid F14 T na tor wyścigowy za pomocą w pełni wyposażonej cięża
 - Wymiary bolidu F14 T: 4 cm wysokości, 14 cm długości i 6 cm szerokości 
 - Wymiary skutera: 3 cm wysokości, 5 cm długości i 1 cm szerokości
 
+**Galeria:**
+
+- 75913-1: https://a.allegroimg.com/original/116956/6586668d4f4789cc3f60b48ba7e6
+
 ---
 
-## 76895 — Lego Speed Champions 76895 Ferrari F8 Tributo
+## 76895 — Ferrari F8 Tributo
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 208.59 zł · EAN: 05702016618310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76895 |
+| Nazwa angielska | Ferrari F8 Tributo |
+| Nazwa polska | Ferrari F8 Tributo |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 275 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 8 cm |
+| EAN | 5702016618310 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1293,11 +1972,27 @@ Zestawy konstrukcyjne LEGO Speed Champions pozwalają małym fanom samochodów b
 - Klocki LEGO® od 1958 r. niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Te klocki i elementy LEGO® zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 76895-1: https://a.allegroimg.com/original/056caf/10c93456471b8dfce673cd3e39d1
+
 ---
 
-## 76896 — Lego Speed Champions Nissan Gt-r Nismo 76896
+## 76896 — LEGO SPEED CHAMPIONS Nissan GT-R NISMO 76896
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016618327 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76896 |
+| Nazwa angielska | Nissan GT-R NISMO |
+| Nazwa polska | LEGO SPEED CHAMPIONS Nissan GT-R NISMO 76896 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702016618327 |
 
 Nissan GT-R NISMO (76896) zyskał sobie fanów na całym świecie i ma na koncie rekord prędkości jazdy w drifcie. Zestaw będzie idealnym prezentem dla fanów w każdym wieku, którzy lubią budować fajne repliki i chcieliby mieć własny model tego samochodu z klocków LEGO. Nissan GT-R to idealny kandydat do kolekcji, ale może też rzucić wyzwanie innym zabawkowym autom! Twój własny zabawkowy Nissan GT-R NISMO w zasięgu ręki. Nissan GT-R już od pół wieku stanowi przedmiot uwielbienia fanów, kierowców i specjalistów od tuningu. Teraz dzięki klockom LEGO replika legendarnego GT-R NISMO może być Twoja. W zabawkowym modelu znajdziesz wiele realistycznych detali zaczerpniętych bezpośrednio z pierwowzoru. W zestawie jest też minifigurka kierowcy w wyścigowym kombinezonie Nissana. Możesz posadzić go za kierownicą i urządzić wspaniałą zabawę w wyścigi. Wyścigowe zabawki dają czadu na torze!Od stycznia 2020 r. repliki LEGO Speed Champions są o 25% większe i tak realistyczne, jak jeszcze nigdy w historii. Dzięki nim fani mogą budować miniaturowe wersje najsłynniejszych samochodów świata i tworzyć kolekcje lub urządzać emocjonujące wyścigi według własnego scenariusza.
 
@@ -1308,11 +2003,27 @@ Nissan GT-R NISMO (76896) zyskał sobie fanów na całym świecie i ma na koncie
 - Model Nissana GT-R NISMO ma ok. 5 cm wysokości, 16 cm długości i 7 cm szerokości. Od stycznia 2020 r. wszystkie samochody z serii LEGO Speed Champions są o 25% większe, więc znajdziesz w nich jeszcze więcej detali z pełnowymiarowych pierwowzorów!
 - Zestaw zawiera przystępnie napisane, szczegółowe instrukcje, więc nie ma powodu do obaw — każdy może budować we własnym tempie.
 
+**Galeria:**
+
+- 76896-1: https://a.allegroimg.com/original/007977/59dcf323475a9293a2144400d532
+
 ---
 
-## 76897 — Lego Speed Champions 76897 Audi Sport Quattro S1
+## 76897 — LEGO SPEED CHAMPIONS Audi Sport quattro S1 76897
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702016618334 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76897 |
+| Nazwa angielska | 1985 Audi Sport quattro S1 |
+| Nazwa polska | LEGO SPEED CHAMPIONS Audi Sport quattro S1 76897 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016618334 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1347,11 +2058,27 @@ Samochód 1985 Audi Sport quattro S1 (76897) był jednym z królów wyścigów r
 - Modele z serii LEGO Speed Champions są teraz o 25% większe i jeszcze bardziej realistyczne. Model 1985 Audi Sport quattro S1 ma ok. 6 cm wysokości, 16 cm długości i 7 cm szerokości, więc jest na tyle mały, że można go mieć zawsze przy sobie. 
 - Zawiera przystępnie napisane instrukcje, więc dziecko bez trudu połączy wszystkie elementy i szybko zacznie zabawę.
 
+**Galeria:**
+
+- 76897-1: https://a.allegroimg.com/original/252412/7c0059974fe69db5e8cce3bbc348
+
 ---
 
-## 76898 — Lego Speed Champions 76898 Formula E Jaguar GEN2 car Jaguar I-pace eTROPHY
+## 76898 — Formula E Panasonic Jaguar Racing GEN2 car i Jaguar I-PACE eTROPHY
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016618341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76898 |
+| Nazwa angielska | Formula E Panasonic Jaguar Racing GEN2 car & Jaguar I-PACE eTROPHY |
+| Nazwa polska | Formula E Panasonic Jaguar Racing GEN2 car i Jaguar I-PACE eTROPHY |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016618341 |
 
 Klocki LEGO Speed Champions 76898 - Formula E Panasonic Jaguar Racing GEN2 car i Jaguar I-PACE eTROPHY
 
@@ -1387,11 +2114,27 @@ Idealny prezent dla dzieci lubiących budować i bawić się zabawkowymi wyścig
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 76898-1: https://a.allegroimg.com/original/11e5c4/86cc72394eb095e0174b25865662
+
 ---
 
-## 76899 — Lego Speed Champions Lamborghini Urus St-x & Huracan Trofeo Evo 76899
+## 76899 — Lamborghini Urus ST-X & Lamborghini Huracan Super Trofeo EVO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702016618358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76899 |
+| Nazwa angielska | Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO |
+| Nazwa polska | Lamborghini Urus ST-X & Lamborghini Huracan Super Trofeo EVO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 663 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702016618358 |
 
 LEGO Speed Champions 76899 – Lamborghini Urus ST-X & Huracán Super Trofeo EVO
 
@@ -1424,11 +2167,26 @@ Modele z tego zestawu są szersze niż starsze auta Speed Champions, co pozwoli�
 - **Liczba elementów:** 663
 - **Wymiary Huracána:** ok. 5 cm wysokości, 18 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 76899-1: https://a.allegroimg.com/original/05cbc0/e48f8a94448d8c2d5f335168c428
+
 ---
 
-## 76900 — Lego Speed Champions 76900 Koenigsegg Jesko klocki
+## 76900 — Koenigsegg Jesko
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 132.99 zł · EAN: 05702016912371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76900 |
+| Nazwa angielska | Koenigsegg Jesko |
+| Nazwa polska | Koenigsegg Jesko |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 280 |
+| Cena katalogowa | 99.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016912371 |
 
 LEGO ZESTAW SPEED CHAMPIONS - SAMOCHÓD KOENIGSEGG JESKO
 
@@ -1474,11 +2232,26 @@ LEGO ZESTAW SPEED CHAMPIONS - SAMOCHÓD KOENIGSEGG JESKO
  
 **✅ Produkt pochodzący z oryginalnego źródła**
 
+**Galeria:**
+
+- 76900-1: https://a.allegroimg.com/original/118e18/0aef302741e5805a33fd57dda01a
+
 ---
 
-## 76901 — Zestaw Lego Speed Champions – 76901 – Żółte Auto Sportowe Toyota Gr Supra
+## 76901 — Toyota GR Supra
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016912470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76901 |
+| Nazwa angielska | Toyota GR Supra |
+| Nazwa polska | Toyota GR Supra |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 299 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016912470 |
 
 ZESTAW LEGO SPEED CHAMPIONS – 76901 – ŻÓŁTE AUTO SPORTOWE TOYOTA GR SUPRA
 
@@ -1516,11 +2289,27 @@ Model Toyota GR Supra został zaprojektowany z dbałością o szczegóły, któr
 
 Zestaw LEGO Speed Champions 76901 to świetny wybór dla dzieci od 7 roku życia oraz dorosłych fanów motoryzacji, którzy cenią sobie legendarne modele samochodów sportowych. To zestaw, który łączy w sobie zabawę, kolekcjonowanie i pasję do motoryzacji, oferując jednocześnie satysfakcję z budowania i możliwość eksponowania gotowego modelu. Dzięki kompaktowym wymiarom i realistycznemu wyglądowi Supra świetnie sprawdzi się jako ozdoba pokoju lub element większej kolekcji LEGO Speed Champions. To doskonały pomysł na prezent urodzinowy, świąteczny lub bez okazji – taki, który zawsze wywoła uśmiech u fana szybkich samochodów i kreatywnego budowania.
 
+**Galeria:**
+
+- 76901-1: https://a.allegroimg.com/original/115238/30b0ff5449619841932f63e3a697
+
 ---
 
-## 76902 — Lego Speed Champions McLaren Elva 76902 Klocki
+## 76902 — McLaren Elva
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 121.68 zł · EAN: 05702016912487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76902 |
+| Nazwa angielska | McLaren Elva |
+| Nazwa polska | McLaren Elva |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 263 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016912487 |
 
 LEGO SPEED CHAMPIONS
 
@@ -1563,11 +2352,27 @@ SPECYFIKACJA:
 - **Ilość elementów:** 263
 - **Wymiary opakowania:** ok. 26.2 cm x 14.1 cm x 7.2 cm
 
+**Galeria:**
+
+- 76902-1: https://a.allegroimg.com/original/11cbd5/1ad1fe644e5cbb52921046a011d1
+
 ---
 
-## 76903 — Zestaw Lego Speed Champions – 76903 – Auta Chevrolet C8R I Corvette 1968
+## 76903 — Klocki LEGO Speed Champions 76903 Chevrolet Corvette C8-R & 1968 C3
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 257.62 zł · EAN: 05702016912494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76903 |
+| Nazwa angielska | Chevrolet Corvette C8.R Race Car and 1969 Chevrolet Corvette |
+| Nazwa polska | Klocki LEGO Speed Champions 76903 Chevrolet Corvette C8-R & 1968 C3 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 512 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016912494 |
 
 ZESTAW LEGO SPEED CHAMPIONS – 76903 – AUTA SPORTOWE CHEVROLET C8R I CORVETTE 1968
 
@@ -1605,11 +2410,27 @@ Nowoczesna Corvette C8.R zachwyca sportowym wyglądem inspirowanym wyścigami to
 
 Zestaw LEGO Speed Champions 76903 to doskonały wybór na prezent dla każdego fana samochodów i emocjonujących wyścigów. Dzięki 512 elementom, realistycznym detalom oraz możliwości zabawy i ekspozycji, zestaw dostarcza wiele godzin satysfakcji zarówno podczas budowania, jak i późniejszej zabawy. To idealny upominek urodzinowy, świąteczny lub po prostu niespodzianka bez okazji, która z pewnością ucieszy każdego miłośnika motoryzacji. Możliwość łączenia z innymi zestawami Speed Champions sprawia, że kolekcja może stale się rozwijać, oferując coraz więcej możliwości zabawy. LEGO 76903 to nie tylko klocki – to emocje, pasja i świetna zabawa zamknięta w dwóch legendarnych modelach Corvette, które zachwycą każdego fana czterech kółek.
 
+**Galeria:**
+
+- 76903-1: https://a.allegroimg.com/original/11583c/f534a97d41b3889bbdf038350617
+
 ---
 
-## 76904 — Lego Speed Champions 76904 – Mopar Dodge Srt Dragster I Dodge Challenger
+## 76904 — LEGO 76904 Mopar Dodge/SRT Top Fuel Dragster i 1970 Dodge Challenger T/A
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 304.00 zł · EAN: 05702016912500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76904 |
+| Nazwa angielska | Mopar Dodge//SRT Top Fuel Dragster and 1970 Dodge Challenger T/A |
+| Nazwa polska | LEGO 76904 Mopar Dodge/SRT Top Fuel Dragster i 1970 Dodge Challenger T/A |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 627 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702016912500 |
 
 LEGO SPEED CHAMPIONS - 76904 – MOPAR DODGE SRT DRAGSTER I DODGE CHALLENGER
 
@@ -1647,11 +2468,27 @@ Największym atutem zestawu są dwa różne pojazdy, które reprezentują zupeł
 
 Zestaw LEGO Speed Champions 76904 wyróżnia się nie tylko liczbą elementów, ale również zawartością dwóch samochodów w jednym pudełku. To sprawia, że oferuje jeszcze więcej zabawy, więcej możliwości ekspozycji oraz więcej satysfakcji z budowania niż standardowe modele z serii Speed Champions. Dzięki 627 elementom komplet zapewnia ciekawe wyzwanie konstrukcyjne, które przypadnie do gustu zarówno dzieciom od 8 roku życia, jak i dorosłym fanom motoryzacji. Gotowe modele można wykorzystać do wyścigów, ustawić jako ozdobę lub rozbudować kolekcję wraz z innymi samochodami zbudowanymi z klocków LEGO. To świetny pomysł na prezent urodzinowy, upominek bez okazji albo niespodziankę dla każdego fana Dodge’a, dragsterów i klasycznych aut.
 
+**Galeria:**
+
+- 76904-1: https://a.allegroimg.com/original/1102e8/b2141b89452b8310ba3a5eb0b1f5
+
 ---
 
-## 76905 — Lego Speed Champions Zestaw Ford Gt Heritage Edition i Bronco R 76905
+## 76905 — Ford GT Heritage Edition i Bronco R
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016980561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76905 |
+| Nazwa angielska | Ford GT Heritage Edition and Bronco R |
+| Nazwa polska | Ford GT Heritage Edition i Bronco R |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 660 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016980561 |
 
 **Lego Speed Champions Ford GT Heritage Edition i Bronco R 76905**
  
@@ -1679,11 +2516,26 @@ Zestaw konstrukcyjny LEGO® Speed Ford GT Heritage Edition i Bronco R (76905) z 
 
 • Klocki i inne elementy zestawów LEGO® Speed Champions są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76905-1: https://a.allegroimg.com/original/113308/d7eed4024cb6a6383c10e4d2d1d8
+
 ---
 
-## 76906 — Lego Speed Champions 76906 1970 Ferrari 512 M
+## 76906 — 1970 Ferrari 512 M
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 82.97 zł · EAN: 05702017119045 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76906 |
+| Nazwa angielska | 1970 Ferrari 512 M |
+| Nazwa polska | 1970 Ferrari 512 M |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 291 |
+| Cena katalogowa | 99.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017119045 |
 
 LEGO Speed Champions 76906 1970 Ferrari 512 M
  
@@ -1715,11 +2567,27 @@ Przyjrzyj się z bliska kultowemu samochodowi wyścigowemu, składając wspania�
 - Kładziemy naciskna jakość — elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo potwierdzone testami — wszystkie zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 76906-1: https://a.allegroimg.com/original/112204/0e6381b04c7f80ac8546759b8970
+
 ---
 
-## 76908 — Lego Speed Champions 76908 Lamborghini Countach
+## 76908 — Lamborghini Countach
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017156729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76908 |
+| Nazwa angielska | Lamborghini Countach |
+| Nazwa polska | Lamborghini Countach |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 50702017156729, 5702017156729 |
 
 LEGO Speed Champions 76908 Lamborghini Countach
  
@@ -1747,11 +2615,28 @@ Zestawy konstrukcyjne LEGO Speed Champions zawierają modele konstrukcyjne najle
 - Jakość jest najważniejsza — elementy LEGO spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo potwierdzone testami — wszystkie zabawki konstrukcyjne LEGO® przechodzą dokładne testy, więc możesz mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 76908-1: https://a.allegroimg.com/original/11189b/e0852c674289891622dcd3094b7b
+- 76908-2: https://a.allegroimg.com/original/119c9b/54ac64d14c5785c4cf1c5d5a0e1d
+
 ---
 
-## 76909 — Lego Speed Champions 76909 Mercedes-AMG F1 Uwaga Opis
+## 76909 — Mercedes-AMG F1 W12 E Performance i Mercedes-AMG ONE
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017160825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76909 |
+| Nazwa angielska | Mercedes-AMG F1 W12 E Performance & Mercedes-AMG Project One |
+| Nazwa polska | Mercedes-AMG F1 W12 E Performance i Mercedes-AMG ONE |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 564 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017160825 |
 
 **STAN OPAKOWANIA JAK NA ZDJĘCIACH !!!**
 
@@ -1769,11 +2654,27 @@ Dla fanów wspaniałych aut
 
 Zestawy konstrukcyjne LEGO Speed Champions zawierają realistyczne modele najbardziej innowacyjnych i najbardziej znanych pojazdów świata. Kolekcjonerskie pojazdy z tej serii są doskonałymi ozdobami i świetnie nadają się do zabawy w wyścigi z innymi autami Speed Champions.
 
+**Galeria:**
+
+- 76909-1: https://a.allegroimg.com/original/11b86b/2c771c98456caa719ef53a0b837f
+
 ---
 
-## 76910 — Lego Speed Champions Aston Martin Valkyrie Aston Martin Vantage 76910
+## 76910 — Aston Martin Valkyrie AMR PRO i Aston Martin Vantage GT3
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 265.90 zł · EAN: 05702017160849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76910 |
+| Nazwa angielska | Aston Martin Valkyrie AMR Pro and Aston Martin Vantage GT3 |
+| Nazwa polska | Aston Martin Valkyrie AMR PRO i Aston Martin Vantage GT3 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 592 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017160849 |
 
 **ASTON MARTIN VALKYRIE AMR PRO + ASTON MARTIN VANTAGE GT3**
 
@@ -1799,11 +2700,27 @@ W tym zestawie Speed Champions znajdziesz dwa innowacyjne samochody wyścigowe: 
 
 • Bezpieczeństwo potwierdzone testami — wszystkie zabawki konstrukcyjne LEGO® przechodzą dokładne testy, więc możesz mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 76910-1: https://a.allegroimg.com/original/110520/31b0375543bdaa98e7b2b188f43e
+
 ---
 
-## 76911 — Lego Speed Champions 76911 Aston Martin DB5 James Bond 007
+## 76911 — Aston Martin DB5 James Bond
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 170.00 zł · EAN: 05702017231044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76911 |
+| Nazwa angielska | Aston Martin DB5 |
+| Nazwa polska | Aston Martin DB5 James Bond |
+| Seria | Speed Champions |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702017231044 |
 
 LEGO Speed Champions 76911 Aston Martin DB5 James Bond
  
@@ -1833,11 +2750,27 @@ Zestawy konstrukcyjne LEGO Speed Champions zawierają miniaturowe modele najleps
 - Nacisk na jakość – elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo potwierdzone testami – wszystkie zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 76911-1: https://a.allegroimg.com/original/1109bd/a6d824364c40a1f00c6837c27bf1
+
 ---
 
-## 76914 — Lego Speed Champions 76914 Ferrari 812 Competizione klocki
+## 76914 — Ferrari 812 Competizione
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 147.90 zł · EAN: 05702017424187 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76914 |
+| Nazwa angielska | Ferrari 812 Competizione |
+| Nazwa polska | Ferrari 812 Competizione |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017424187 |
 
 LEGO Speed Champions 76914 Ferrari 812 Competizione
  
@@ -1864,11 +2797,82 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Jeszcze więcej szybkości – sprawdź inne modele LEGO® Speed Champions, w tym Pagani Utopia (76915), Porsche 963 (76916) oraz McLaren Solus GT i McLaren F1 LM (76918) 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 76914-1: https://a.allegroimg.com/original/114e3f/34c82d0b4ecebe54de7c585af3f5
+
 ---
 
-## 76916 — Lego Speed Champion 76916 Samochód wyścigowy Porsche 963
+## 76915 — Pagani utopia
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 95.89 zł · EAN: 05702017424200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76915 |
+| Nazwa angielska | Pagani Utopia |
+| Nazwa polska | Pagani utopia |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 8 cm |
+| EAN | 57020164218774, 5702017424194 |
+
+LEGO Speed Champions 76915 Pagani utopia
+
+️🎄 Odkryj Niesamowitą Moc LEGO Speed Champions 76915 - Pagani Utopia na Święta! 🎄🏎️
+
+Zbliżają się Święta, a co mogłoby dostarczyć większej radości niż wyjątkowy zestaw LEGO, który przeniesie Cię w świat szybkich samochodów i niezwykłej inżynierii? Prezentujemy LEGO Speed Champions 76915 Pagani Utopia - wyjątkowy sposób na uprzyjemnienie Bożego Narodzenia dla miłośników klocków i samochodów!
+
+🌟🚗 Dokładność i Detale, Które Oczarują Każdego Fanatyka Samochodów! 🚗🌟
+
+Ten niezwykły zestaw LEGO Speed Champions przenosi detale znane z samochodów Pagani Utopia na skalę klocków. Każdy element został starannie zaprojektowany, aby odwzorować charakterystyczne cechy tego ekskluzywnego pojazdu. Zachwyć się precyzyjnym modelem, który z dumą ozdobi Twoje świąteczne wnętrze!
+
+🎅 Zawartość Zestawu, Która Zapewni Niekończoną Zabawę! 🎅🏁
+
+LEGO Speed Champions 76915 Pagani Utopia zawiera wszystko, co potrzebne, aby zbudować nie tylko niesamowity samochód, ale także emocjonujący klimat wyścigów. Zawartość zestawu to nie tylko klocki - to kawałek motoryzacyjnej magii w twoich rękach!
+
+🌲🎁 Idealny Prezent Dla Miłośników Motoryzacji! 🎁🌲
+
+Szukasz prezentu, który rozbłyśnie w oczach fana samochodów? LEGO Speed Champions 76915 Pagani Utopia to doskonały wybór. Niech ten elegancki zestaw pod choinką stanie się centrum uwagi podczas rozpakowywania prezentów!
+
+🎄🚀 Święta w Szybkim Tempie - Zamów LEGO Speed Champions 76915 Już Dziś! 🚀🎄
+
+- Hipersamochód marki Pagani – replika LEGO® Speed Champions Pagani Utopia (76915) dla dzieci i zapalonych fanów samochodów do kolekcjonowania, budowania i ustawiania na półce
+- Minifigurka w zestawie – samochód zawiera minifigurkę kierowcy z kaskiem i włosami, którą można umieścić w kokpicie i odgrywać przygody na drodze
+- Realistyczne detale – model zawiera detale prawdziwego hipersamochodu z limitowanej edycji: centralny czterorurowy wydech, opływowe nadwozie, szeroki przedni grill, nadkola i silnik pod szybą
+- Hipersamochód LEGO® do zabawy i ozdoby – ten realistyczny model Pagani Utopia zapewnia świetną zabawę podczas budowania, a później można go z dumą ustawić na półce lub wykorzystać do emocjonujących wyścigów
+- Prezent LEGO® – podaruj ten wyjątkowy, składający się z 249 elementów model Speed Champions jako prezent urodzinowy lub świąteczny fanom pojazdów w wieku od dziewięciu lat lub miłośnikom włoskich hipersamochodów
+
+- Przenośny rozmiar – model repliki Pagani Utopia ma ponad 4 cm wysokości, 15 cm długości i 8 cm szerokości, więc nadaje się do zabawy w domu i w podróży
+- Nowy sposób na budowanie – aplikacja LEGO® Builder przeprowadzi Cię przez intuicyjne budowanie. Zapisuj zestawy, śledź postępy oraz przybliżaj i obracaj modele 3D w trakcie budowania
+- Jeszcze więcej szybkości – sprawdź inne modele LEGO® Speed Champions, w tym Ferrari 812 Competizione (76914), Porsche 963 (76916) oraz McLaren Solus GT i McLaren F1 LM (76918)
+- Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
+- Gwarancja bezpieczeństwa – klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
+
+**Galeria:**
+
+- 76915-1: https://a.allegroimg.com/original/29b8d8/7cdccf8347b885824bfc1ee65eb8
+- 76915-2: https://a.allegroimg.com/original/117cec/66f8bad14c97bf72324c90258c10
+
+---
+
+## 76916 — Porsche 963
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76916 |
+| Nazwa angielska | Porsche 963 |
+| Nazwa polska | Porsche 963 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017424200 |
 
 LEGO Speed Champions 76916 Porsche 963
  
@@ -1899,11 +2903,26 @@ Okaż swoje uznanie dla spuścizny kultowej niemieckiej marki samochodowej dzię
 - Jeszcze więcej szybkości – sprawdź inne modele LEGO® Speed Champions, w tym Ferrari 812 Competizione (76914), Pagani Utopia (76915) oraz McLaren Solus GT i McLaren F1 LM (76918) 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 76916-1: https://a.allegroimg.com/original/0504a9/58484178471b90271969b8f8ae14
+
 ---
 
-## 76917 — Lego Speed Champions 76917 Nissan Skyline Gt-r (R34) Za szybcy, za wściekli
+## 76917 — Nissan Skyline GT-R (R34) z filmu Za szybcy, za wściekli
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 68.47 zł · EAN: 05702017424217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76917 |
+| Nazwa angielska | 2 Fast 2 Furious Nissan Skyline GT-R (R34) |
+| Nazwa polska | Nissan Skyline GT-R (R34) z filmu Za szybcy, za wściekli |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 319 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702017424217 |
 
 Przeżyj ponownie emocjonujące chwile z kultowego filmu „Za szybcy, za wściekli” dzięki temu fantastycznemu modelowi Nissana Skyline GT-R (R34)! Możesz zbudować bardzo szczegółową replikę LEGO® Speed Champions i ustawić ją na półce lub odegrać emocjonujące sceny. Zestaw zawiera minifigurkę Briana O'Connera, którą można umieścić na siedzeniu kierowcy, aby odtworzyć niektóre z jego słynnych scen z wyścigów ulicznych.
  
@@ -1933,11 +2952,27 @@ Korzystając z aplikacji LEGO Builder do powiększania, obracania i wizualizacji
 - Cyfrowa zabawa w budowanie – dzieci mogą obserwować, jak powstają ich modele na tabletach i smartfonach dzięki aplikacji LEGO® Builder 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 76917-1: https://a.allegroimg.com/original/11f185/9bae5c414530ac5e23016f14f0a4
+
 ---
 
-## 76918 — Lego Speed Champions 76918 McLaren Solus Gt i McLaren F1 LM
+## 76918 — McLaren Solus GT i McLaren F1 LM
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 174.41 zł · EAN: 05702017424224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76918 |
+| Nazwa angielska | McLaren Solus GT & McLaren F1 LM |
+| Nazwa polska | McLaren Solus GT i McLaren F1 LM |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 581 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017424224 |
 
 LEGO Speed Champions 76918 McLaren Solus GT i McLaren F1 LM
  
@@ -1965,11 +3000,26 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić 
 - Gwarancja bezpieczeństwa – klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76918-1: https://a.allegroimg.com/original/113fce/81374f644a7b975b5a92144d264e
+
 ---
 
-## 76919 — Lego Speed Champions Samochód Wyścigowy Mclaren Formuła 1 2023 76919
+## 76919 — Speed Champions 76919 Samochód wyścigowy McLaren Formuły 1 2023
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 87.90 zł · EAN: 05702017583723 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76919 |
+| Nazwa angielska | 2023 McLaren Formula 1 Car |
+| Nazwa polska | Speed Champions 76919 Samochód wyścigowy McLaren Formuły 1 2023 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 245 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017583723 |
 
 SAMOCHÓD WYŚCIGOWY MCLAREN FORMUŁA 1 WERSJA 2023
 
@@ -1997,39 +3047,26 @@ Wymiary — ten 245-elementowy model LEGO® ma 4 cm wysokości, 19 cm długości
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
----
+**Galeria:**
 
-## 76920 — Lego Speed Champions 76920 Sportowy Ford Mustang Dark Horse
-
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702015597593 · in stock*
-
-Klocki LEGO Speed Champions 76920 - Sportowy Ford Mustang Dark Horse
-
-LEGO® Speed Champions Sportowy Ford Mustang Dark Horse (76920) to wierna replika potężnego, kultowego amerykańskiego samochodu. Dzieci w wieku od dziewięciu lat będą zachwycone kolekcjonowaniem, budowaniem, eksponowaniem i odgrywaniem akcji z tym niebieskim samochodem.
-
-Zabawkowy Ford Mustang
-
-Ma autentyczne elementy konstrukcyjne: tylne skrzydło, charakterystyczną maskownicę, reflektory, rury wydechowe, logo Forda i szczegółowe wnętrze z dźwignią zmiany biegów i deską rozdzielczą. Samochód LEGO do zbudowania ma także zdejmowany dach i minifigurkę kierowcy w bluzie z kapturem Dark Horse, którą dzieci mogą umieścić za kierownicą i odgrywać emocjonujące wyścigi. Dzięki zestawom Speed Champions dzieci i miłośnicy motoryzacji mogą budować repliki kultowych pojazdów. Będą zachwyceni możliwością tworzenia wysokiej jakości modeli z klocków LEGO z charakterystycznymi detalami. Każdy samochód można budować z pomocą aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez łatwe i intuicyjne budowanie.
-
-O zestawie
-
-- Zabawkowy Ford dla dzieci — model samochodu sportowego Ford Mustang Dark Horse z serii LEGO® Speed Champions dla chłopców i dziewczynek w wieku od dziewięciu lat oraz dorosłych kolekcjonerów modeli samochodów
-- Minifigurka w zestawie — samochód do zbudowania ma zdejmowany dach i minifigurkę kierowcy z kaskiem, włosami i kluczem, która nosi bluzę z kapturem Dark Horse. Można ją umieścić za kierownicą i odgrywać wyścigi
-- Autentyczne elementy konstrukcyjne Forda — zabawkowy samochód Ford Mustang Dark Horse ma tylne skrzydło, maskownicę, reflektory, rury wydechowe, logo Forda i szczegółowe wnętrze
-
-O zestawie
-
-- Kolekcjonerski samochód LEGO® — po zabawie w wyścigi na torze lub po mieście dzieci mogą ustawić model na półce lub stoliku
-- Samochód na prezent— samochód do zbudowania zapewnia świetną zabawę podczas budowania i zabawy. To świetny pomysł na prezent dla dzieci w wieku od dziewięciu lat lub dorosłych kolekcjonerów modeli samochodów
-- Jeszcze więcej szybkich przygód — sprawdź też inne realistyczne samochody z serii LEGO® Speed Champions (sprzedawane osobno)
-- Baw się i ustawiaj na półce kultowe modele samochodów — zestawy konstrukcyjne LEGO® Speed Champions pozwalają dzieciom i miłośnikom motoryzacji budować repliki kultowych pojazdów
-- Wymiary — ten 344-elementowy model LEGO® ma 4 cm wysokości, 15 cm długości i 7 cm szerokości
+- 76919-1: https://a.allegroimg.com/original/11c41f/9bb1564448be85bdae562df13255
 
 ---
 
-## 76922 — Lego Speed Champions 76922 Samochody wyścigowe Bmw M4 GT3 i Bmw M Hybrid V8
+## 76922 — Speed Champions 76922 Samochody wyścigowe BMW M4 GT3 i BMW M Hybrid V8
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 184.70 zł · EAN: 05702017583754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76922 |
+| Nazwa angielska | BMW M4 GT3 & BMW M Hybrid V8 Race Cars |
+| Nazwa polska | Speed Champions 76922 Samochody wyścigowe BMW M4 GT3 i BMW M Hybrid V8 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 676 |
+| Cena katalogowa | 214.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583754 |
 
 LEGO Speed Champions BMW M4 GT3 i BMW M Hybrid V8 (76922) [KLOCKI]
 
@@ -2057,11 +3094,26 @@ Zupełnie nowy.
  
 **SKU:** 2842527
 
+**Galeria:**
+
+- 76922-1: https://a.allegroimg.com/original/292497/7848152440cda6b67a810eb14539
+
 ---
 
-## 76923 — Zestaw Lego Speed Champions 76923 Lamborghini Lambo V12 Gt Samochód Klocki
+## 76923 — Speed Champions 76923 Lamborghini Lambo V12 Vision GT Supersamochód
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017754512 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76923 |
+| Nazwa angielska | Lamborghini Lambo V12 Vision GT Super Car |
+| Nazwa polska | Speed Champions 76923 Lamborghini Lambo V12 Vision GT Supersamochód |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 230 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm |
+| EAN | 5702017583761, 5702017754512 |
 
 ⭐ZESTAW LEGO SPEED CHAMPIONS 76923 LAMBORGHINI
 
@@ -2139,11 +3191,27 @@ Zupełnie nowy.
 
 ⭐GORĄCO ZAPRASZAM DO PEWNYCH I BEZPIECZNYCH ZAKUPÓW⭐
 
+**Galeria:**
+
+- 76923-1: https://a.allegroimg.com/original/0513ff/980a29e84ba982f63fbc5f9186f6
+- 76923-2: https://a.allegroimg.com/original/119cf4/2fbf1fd0477ca9840b144fb6d775
+
 ---
 
-## 76924 — Lego Speed Champions Mercedes-AMG G 63 i Mercedes-AMG Sl 63 76924
+## 76924 — LEGO SPEED CHAMPIONS 76924 MERCEDES AMG G 63 I MERCEDES AMG SL 63
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 148.85 zł · EAN: 05702017583976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76924 |
+| Nazwa angielska | Mercedes-AMG G 63 & Mercedes-AMG SL 63 |
+| Nazwa polska | LEGO SPEED CHAMPIONS 76924 MERCEDES AMG G 63 I MERCEDES AMG SL 63 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 808 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702017583976 |
 
 **PRODUCENT**: LEGO
  
@@ -2173,11 +3241,26 @@ Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania 
 - Baw się i ustawiaj na półce modele samochodów — zestawy konstrukcyjne LEGO® Speed Champions pozwalają dzieciom i miłośnikom motoryzacji budować repliki kultowych pojazdów 
 - Wymiary — zestaw z 806 elementami obejmuje model Mercedesa AMG G 63, który ma 7 cm wysokości, 18 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 76924-1: https://a.allegroimg.com/original/11e57d/8838edfd4daf8aba23596eedba03
+
 ---
 
-## 76925 — Lego Speed Champions 76925 Samochód bezpieczeństwa Aston Martin i AMR23
+## 76925 — Samochód bezpieczeństwa Aston Martin i AMR23
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 178.95 zł · EAN: 05702017599755 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76925 |
+| Nazwa angielska | Aston Martin Vantage Safety Car & AMR23 |
+| Nazwa polska | Samochód bezpieczeństwa Aston Martin i AMR23 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 564 |
+| Cena katalogowa | 214.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017599755 |
 
 Weź udział w wyścigach Formuły 1 dzięki temu imponującemu podwójnemu zestawowi LEGO Speed Champions Samochód bezpieczeństwa Aston Martin i AMR23 (76924). Te modele do zbudowania, zabawy i ustawiania na półce są idealne dla dzieci, fanów Formuły 1 i dorosłych kolekcjonerów.
  
@@ -2190,11 +3273,26 @@ Dzięki zestawom konstrukcyjnym LEGO Speed Champions dzieci i automaniacy mogą 
 - Dwie minifigurki kierowców — każdy modelAstona Martina zawiera minifigurkę kierowcy w stroju i kasku, co umożliwia odgrywanie ról 
 - Realistyczny wygląd samochodu Aston Martin — samochód bezpieczeństwa ma kogut na dachu, naklejkę z przyciskami sterowania światłami w kokpicie i tylne światła, natomiast AMR23 ma system Halo i tylne skrzydło
 
+**Galeria:**
+
+- 76925-1: https://a.allegroimg.com/original/059c5b/c94053bc491ea3f5889ae6f507b8
+
 ---
 
-## 76934 — Klocki Lego Speed Champions 76934 Supersamochód Ferrari F40
+## 76934 — Speed Champions 76934 Supersamochód Ferrari F40
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 80.51 zł · EAN: 05702017719702 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76934 |
+| Nazwa angielska | Ferrari F40 Supercar |
+| Nazwa polska | Speed Champions 76934 Supersamochód Ferrari F40 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 318 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 8 cm |
+| EAN | 5702017719702, 5702017819587 |
 
 LEGO 76934 Supersamochód Ferrari F40
 
@@ -2222,11 +3320,27 @@ Dziewięciolatki i starsze dzieci mogą dodać do swojej kolekcji, budować, baw
  
 • Wymiary — ten 318-elementowy model LEGO® ma 4 cm wysokości, 15 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 76934-1: https://a.allegroimg.com/original/29afe2/ddcfa5ac4bff829532f82b3a91ee
+- 76934-2: https://a.allegroimg.com/original/116c29/46874c924e8d80caa06926c54851
+
 ---
 
-## 76935 — Klocki Lego Speed Champions Nascar Chevrolet Camaro ZL1 328 elementów
+## 76935 — Speed Champions 76935 NASCAR Chevrolet Camaro ZL1 nowej generacji
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 78.47 zł · EAN: 05702017719719 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76935 |
+| Nazwa angielska | NASCAR Next Gen Chevrolet Camaro ZL1 |
+| Nazwa polska | Speed Champions 76935 NASCAR Chevrolet Camaro ZL1 nowej generacji |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 328 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017719719 |
 
 Chłopcy i dziewczęta w wieku od 9 lat oraz fani NASCAR® mogą zbierać, budować, bawić się i eksponować samochodzik LEGO® Speed Champions **NASCAR Next Gen Chevrolet Camaro ZL1** (76935). Ten potężny samochód wyścigowy jest ozdobiony żywymi kolorami, a płomienie jego konstrukcja przypomina prawdziwe samochody ścigające się na NASCAR Cup Series.
 
@@ -2243,21 +3357,51 @@ Chłopcy i dziewczęta w wieku od 9 lat oraz fani NASCAR® mogą zbierać, budow
 - **Ilość elementów: 328** 
 - Odpowiedni dla dzieci od 9 roku życia
 
+**Galeria:**
+
+- 76935-1: https://a.allegroimg.com/original/117ce5/f2c5dd63463c9c04764f95103454
+
 ---
 
-## 77237 — Lego 77237 Speed Champions Samochód sportowy Dodge Challenger Srt Hellcat
+## 77237 — Samochód sportowy Dodge Challenger SRT Hellcat
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 66.72 zł · EAN: 05702017816043 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77237 |
+| Nazwa angielska | Dodge Challenger SRT Hellcat Sports Car |
+| Nazwa polska | Samochód sportowy Dodge Challenger SRT Hellcat |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 390 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816043 |
 
 Samochód sportowy Dodge Challenger SRT Hellcat
 
 Speed Champions Dodge Challenger SRT Hellcat Sports Car LEGO® Speed Champions Samochód sportowy Dodge Challenger SRT Hellcat LEGO® Speed Champions Samochód sportowy Dodge Challenger SRT Hellcat 77237 Dzieci w wieku od dziewięciu lat i miłośnicy muscle carów mogą zbudować i bawić się modelem LEGO® Speed Champions Dodge Challenger SRT Hellcat. Zestaw z samochodem sportowym Dodge Challenger SRT Hellcat Chłopcy i dziewczynki w wieku od dziewięciu lat mogą zbierać, budować, bawić się i ustawiać na półce ten niezwykle szczegółowy model LEGO® Speed Champions Samochód sportowy Dodge Challenger SRT Hellcat (77237). Ta zbudowana z klocków replika Dodge’a emanuje wysoką wydajnością, mocą i emocjami, ponieważ zawiera realistyczne elementy niczym prawdziwy muscle car.Oto pierwszy nowoczesny samochód marki Dodge, który pojawił się w serii LEGO Speed Champions — ten dwudrzwiowy muscle car typu coupe ma długą maskę, wypukły wlot powietrza na masce, imponujący przedni grill i dwie rury wydechowe. Kolekcjonerski model zawiera również minifigurkę kierowcy, dzięki czemu dzieci i fani samochodów typu muscle car mogą organizować wyścigi torowe lub uliczne.Dzięki zestawom konstrukcyjnym LEGO Speed Champions dzieci i automaniacy mogą budować repliki kultowych pojazdów. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez łatwe i intuicyjne budowanie. Zestaw zawiera 390 elementów. Doświadcz mocy, osiągów i emocji towarzyszących jeździe samochodem Dodge Challenger SRT Hellcat w wersji LEGO®! Buduj, baw się i ustaw na półce tę replikę z serii Speed Champions z realistycznymi szczegółami muscle cara. Zestaw zawiera minifigurkę kierowcy Dodge’a, którą można umieścić za kierownicą, aby odgrywać wyścigi torowe lub uliczne. • Muscle car dla dzieci — dzieci w wieku od dziewięciu lat i miłośnicy muscle carów mogą zbudować i bawić się modelem LEGO® Speed Champions Dodge Challenger SRT Hellcat • Jedna minifigurka — zestaw zawiera minifigurkę kierowcy w kombinezonie Dodge’a, którą dzieci mogą umieścić za kierownicą, aby bawić się w wyścigi • Realistyczne detale Dodge’a — ten model samochodu Hellcat w wersji LEGO® zawiera detale niczym prawdziwy muscle car, w tym długą maskę, wypukły wlot powietrza na masce, imponujący grill i dwie rury wydechowe • Model kolekcjonerski Dodge Hellcat — po zabawie w wyścigi dzieci mogą ustawić replikę na półce lub biurku • Samochód na prezent — zestaw z samochodem zapewnia świetną zabawę podczas budowania i zabawy. To świetny pomysł na prezent dla dzieci w wieku od dziewięciu lat lub dorosłych kolekcjonerów modeli samochodów • LEGO® Speed Champions Samochód sportowy Dodge Challenger SRT Hellcat zbudowany z klocków • Zawiera minifigurkę kierowcy Dodge’a, którą można posadzić za kierownicą • Realistyczne detale muscle cara marki Dodge obejmują długą maskę i dwie rury wydechowe • Po skończonej zabawie model LEGO® można ustawić na półce lub stoliku • Pomysł na prezent dla dzieci w wieku od dziewięciu lat lub dorosłych kolekcjonerów modeli • Sprawdź inne samochody z serii LEGO® Speed Champions (sprzedawane osobno) • Zestawy LEGO® Speed Champions pozwalają dzieciom i automaniakom budować realistyczne modele
 
+**Galeria:**
+
+- 77237-1: https://a.allegroimg.com/original/055529/403b25e347a8bf9feb8442ddaa3f
+
 ---
 
-## 77238 — Lego Speed Champions 77238 Lamborghini Revuelto i Huracán Sto
+## 77238 — Lamborghini Revuelto i Huracán STO
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 154.86 zł · EAN: 05702017816067 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77238 |
+| Nazwa angielska | Lamborghini Revuelto & Huracán STO |
+| Nazwa polska | Lamborghini Revuelto i Huracán STO |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 607 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816067 |
 
 LEGO® Speed Champions Lamborghini Revuelto i Huracán STO (77238) – Podwójna Moc Wyścigów!
  
@@ -2289,11 +3433,26 @@ Po skończonej zabawie, te **kolekcjonerskie modele** możesz z dumą wyeksponow
  
 Zestawy LEGO® Speed Champions pozwalają dzieciom i automaniakom budować realistyczne repliki kultowych pojazdów. Odkryj również intuicyjne instrukcje budowania w 3D w aplikacji **LEGO® Builder**.
 
+**Galeria:**
+
+- 77238-1: https://a.allegroimg.com/original/29e4fe/f1c1896f49b2abdaa41966b62909
+
 ---
 
-## 77239 — Lego 77239 Speed Champions Supersamochód Porsche 911 GT3 Rs
+## 77239 — Porsche 911 GT3 RS
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 75.46 zł · EAN: 05702017816074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77239 |
+| Nazwa angielska | Porsche 911 GT3 RS Super Car |
+| Nazwa polska | Porsche 911 GT3 RS |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 348 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816074 |
 
 **LEGO Speed Champions Porsche 911 GT3 RS (77239)**
 
@@ -2303,11 +3462,26 @@ Ten model Porsche 911 GT3 RS ma charakterystyczne tylne skrzydło, wlot powietrz
  
 Dzięki zestawom konstrukcyjnym LEGO Speed Champions dzieci i automaniacy mogą budować repliki kultowych pojazdów. Każdy zestaw można zbudować, korzystając z aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez łatwe i intuicyjne budowanie. Zestaw zawiera 348 elementów.
 
+**Galeria:**
+
+- 77239-1: https://a.allegroimg.com/original/292423/9d45717342cbbb6d11c3242b9c8a
+
 ---
 
-## 77240 — Lego 77240 Speed Champions Hipersamochód Bugatti Centodieci
+## 77240 — Hipersamochód Bugatti Centodieci
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 76.69 zł · EAN: 05702017816081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77240 |
+| Nazwa angielska | Bugatti Centodieci Hyper Sports Car |
+| Nazwa polska | Hipersamochód Bugatti Centodieci |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 291 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816081 |
 
 LEGO Hipersamochód Bugatti Centodieci
 
@@ -2317,39 +3491,99 @@ Model samochodu Bugatti w wersji LEGO® obejmuje pięć okrągłych wlotów powi
  
 Dzięki zestawom konstrukcyjnym LEGO Speed Champions dzieci i automaniacy mogą budować repliki kultowych pojazdów. Każdy zestaw można zbudować, korzystając z aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez łatwe i intuicyjne budowanie. Zestaw zawiera 291 elementów.
 
+**Galeria:**
+
+- 77240-1: https://a.allegroimg.com/original/291a67/a544313344b49dfb769ee7eb2bd6
+
 ---
 
-## 77241 — Lego Speed Champions 77241 Honda S2000 z filmu Za szybcy, za wściekli
+## 77241 — Honda S2000 z filmu Za szybcy, za wściekli
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 119.97 zł · EAN: 05702017836416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77241 |
+| Nazwa angielska | 2 Fast 2 Furious Honda S2000 |
+| Nazwa polska | Honda S2000 z filmu Za szybcy, za wściekli |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 300 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017836416 |
 
 Odtwórz emocjonujące wyścigi z kultowego filmu Za szybcy, za wściekli dzięki tej superfajnej replice Hondy S2000 z klocków! Bardzo szczegółowy model LEGO® Speed Champions zawiera realistyczne elementy oryginału i pozwala na budowanie, zabawę i eksponowanie pojazdu. W zestawie znajduje się minifigurka Suki, którą można posadzić za kierownicą i odgrywać wyścigi!
 
+**Galeria:**
+
+- 77241-1: https://a.allegroimg.com/original/05a0ce/21cf2e5f4c67a73f5da14a6a0e57
+
 ---
 
-## 77242 — Klocki Lego Speed Champions Bolid F1 Ferrari SF-24 275 elementów
+## 77242 — LEGO 77242 Speed Champions Bolide F1 Ferrari SF-24
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 66.08 zł · EAN: 05702017816098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77242 |
+| Nazwa angielska | Ferrari SF-24 F1 Race Car |
+| Nazwa polska | LEGO 77242 Speed Champions Bolide F1 Ferrari SF-24 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 275 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816098 |
 
 LEGO Speed Champions Bolid F1® Ferrari SF-24
 
 Speed Champions LEGO Speed Champions Bolid F1 Ferrari SF-24, Model Pojazdu, Zabawka dla Dziecka do Zbudowania, Zestaw Konstrukcyjny z Minifigurką Kierowcy, Pomysł na Prezent dla 10-latka, Chłopca i Dziewczynki 77242 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz prezent zabawki carlos sainz lewis hamilton Robert Kubica kolekcjonerskie chłopiec syn 9 11 12 nastolatek Bolid F1® Ferrari SF-24 LEGO® Speed Champions Bolid F1® Ferrari SF-24 Zestaw LEGO® Speed Champions Bolid F1® Ferrari SF-24 77242 Fani Formuły 1® i dzieci w wieku od 10 lat mogą zbudować, bawić się i ustawić na półce imponujący model Ferrari SF-24 F1 LEGO® Speed Champions. Zestaw z bolidem F1® Ferrari SF-24 Dziesięciolatki i starsze dzieci mogą teraz doświadczyć emocji rodem z Formuły 1® dzięki zestawowi z kierowcą LEGO® Speed Champions Bolid F1® Ferrari SF-24 (77242). Model Ferrari zawiera detale prawdziwego bolidu, który brał udział w sezonie 2024 Formuły 1. Dzieci i dorośli kolekcjonerzy mogą zbudować imponujący model, ścigać się nim i ustawić go na półce.Model samochodu F1 ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid F1 zawiera także minifigurkę kierowcy w kombinezonie Ferrari i kasku, którego można umieścić w kokpicie i odgrywać wyścigi.Zestawy LEGO Speed Champions umożliwiają fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 1 (sprzedawanych osobno) z sezonu 2024. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z budowaniem. Poczuj się jak na wyścigu Formuły 1®, budując bolid Ferrari SF-24. Zbuduj, eksponuj i baw się tym niesamowitym modelem LEGO® Speed Champions, który zawiera realistyczne detale samochodu Formuły 1 z sezonu 2024. Zestaw zawiera również minifigurkę kierowcy Ferrari, którą można umieścić w kokpicie i wykorzystać do odgrywania wyścigów.
 
+**Galeria:**
+
+- 77242-1: https://a.allegroimg.com/original/056e1c/4704ecf3494f86b09ad7e5464850
+
 ---
 
-## 77243 — Lego Speed Champions 77243 Bolid F1 Oracle Red Bull Racing RB20
+## 77243 — LEGO 77243 Speed Champions Bolide F1 Oracle Red Bull Racing RB20
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 76.88 zł · EAN: 05702017816104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77243 |
+| Nazwa angielska | Oracle Red Bull Racing RB20 F1 Race Car |
+| Nazwa polska | LEGO 77243 Speed Champions Bolide F1 Oracle Red Bull Racing RB20 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 251 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816104 |
 
 Bolid F1® Oracle Red Bull Racing RB20
 
 Speed Champions LEGO Speed Champions Bolid F1 Oracle Red Bull Racing RB20, Model Pojazdu dla Dorosłych, Zestaw z Samochodem do Złożenia z Minifigurką, Pomysł na Prezent dla Fana Sportów Motorowych, 77243 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz mama tata prezent zabawki sergio checo perez max verstappen daniel ricciardo Bolid F1® Oracle Red Bull Racing RB20 LEGO® Speed Champions Bolid F1® Oracle Red Bull Racing RB20 LEGO® Speed Champions Bolid F1® Oracle Red Bull Racing RB20 77243 Zbuduj własny bolid F1® Oracle Red Bull Racing RB20 dzięki temu zestawowi z serii LEGO® Speed Champions dla dorosłych fanów Formuły 1®. Zbuduj własny bolid Formuły 1® zespołu Red Bull Pokaż swoją pasję do wyścigów Formuły 1® dzięki zestawowi dla dorosłych LEGO® Speed Champions Bolid F1® Oracle Red Bull Racing RB20. Ten bolid zawiera realistyczne detale wzorowane na samochodzie biorącym udział w wyścigach Formuły 1 w sezonie 2024.Model samochodu F1 ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid F1 zawiera także minifigurkę kierowcy w kombinezonie zespołu Red Bull i kasku, którego można umieścić w kokpicie i odgrywać wyścigi. Po zakończonej zabawie model będzie się świetnie prezentował na półce.Zestawy LEGO Speed Champions umożliwiają dzieciom i fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 1 z sezonu 2024 (sprzedawanych osobno). Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoją rodzinę przez przygodę z budowaniem. Pokaż swoją pasję do wyścigów Formuły 1® dzięki temu zestawowi dla dorosłych LEGO® Speed Champions Bolid F1® Oracle Red Bull Racing RB20. Zbuduj i ustaw na półce ten imponujący model z realistycznymi detalami bolidu, który brał udział w wyścigach Formuły 1 w sezonie 2024. Zestaw zawiera również minifigurkę kierowcy Red Bulla, którą można umieścić w kokpicie.
 
+**Galeria:**
+
+- 77243-1: https://a.allegroimg.com/original/050fdc/8ced72b949a0aea4bd90504a67c5
+
 ---
 
-## 77244 — Lego Speed Champions 77244 Speed Champions Bolid F1 Mercedes-AMG W15
+## 77244 — LEGO 77244 Speed Champions Bolid F1 Mercedes-AMG W15 77244
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 84.94 zł · EAN: 05702017816111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77244 |
+| Nazwa angielska | Mercedes-AMG F1 W15 Race Car |
+| Nazwa polska | LEGO 77244 Speed Champions Bolid F1 Mercedes-AMG W15 77244 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 267 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816111 |
 
 LEGO Speed Champions 77244 Speed Champions Bolid F1 Mercedes-AMG W15
 
@@ -2374,21 +3608,51 @@ Speed Champions LEGO Speed Champions Bolid F1 Mercedes-AMG W15, Model Samochodu 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017816111
 
+**Galeria:**
+
+- 77244-1: https://a.allegroimg.com/original/11eb8f/eed0713d480fac2c54b4fc231898
+
 ---
 
-## 77245 — Lego Speed Champions 77245 Bolid F1 Aston Martin Aramco AMR24
+## 77245 — LEGO 77245 Speed Champions Bolid F1 Aston Martin Aramco AMR24
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 78.47 zł · EAN: 05702017816128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77245 |
+| Nazwa angielska | Aston Martin Aramco F1 AMR24 Race Car |
+| Nazwa polska | LEGO 77245 Speed Champions Bolid F1 Aston Martin Aramco AMR24 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 269 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816128 |
 
 Bolid F1® Aston Martin Aramco AMR24
 
 Speed Champions LEGO Speed Champions Bolid F1 Aston Martin Aramco AMR24, Zabawka dla Dziecka do Zbudowania, Model Samochodu Wyścigowego z Minifigurką Kierowcy, Prezent dla 10-latka, dla Chłopca i Dziewczynki, 77245 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz prezent zabawki fernando alonsolance stroll kolekcjonerskie chłopiec syn 9 11 12 nastolatek Bolid F1® Aston Martin Aramco AMR24 LEGO® Speed Champions Bolid F1® Aston Martin Aramco AMR24 LEGO® Speed Champions Bolid F1® Aston Martin Aramco AMR24 77245 Fani Formuły 1® i dzieci w wieku od 10 lat mogą zbudować, bawić się i ustawić na półce model LEGO® Speed Champions Bolid F1® Aston Martin Aramco AMR24 Zestaw z bolidem F1® Aston Martin Aramco AMR24 Dzięki zestawowi LEGO® Speed Champions Bolid F1® Aston Martin Aramco AMR24 (77245) dzieci w wieku od 10 lat zbudują pojazd Formuły 1, aby odgrywać wyścigi lub ustawić go na półce. Ten model dla dzieci i dorosłych kolekcjonerów samochodów zawiera detale bolidu, który brał udział w wyścigach Formuły 1® w sezonie 2024.Model samochodu F1 Aston Martin Aramco ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid zawiera także minifigurkę kierowcy w kombinezonie Aston Martin Aramco i kasku, którego można umieścić w kokpicie i odgrywać wyścigi.Zestawy LEGO Speed Champions umożliwiają dzieciom i fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 1 (sprzedawanych osobno) z sezonu 2024. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z budowaniem. Przygotuj się do wyścigu i usiądź za kierownicą bolidu F1® Aston Martin Aramco AMR24. Zbuduj, eksponuj i baw się tym imponującym modelem LEGO® Speed Champions, który zawiera detale wzorowane na samochodzie, który brał udział w wyścigach Formuły 1® w sezonie 2024. W zestawie jest również minifigurka kierowcy zespołu F1 Aston Martin, którą można umieścić w kokpicie.
 
+**Galeria:**
+
+- 77245-1: https://a.allegroimg.com/original/05abe7/4161ba88496983bcdb4a71c55611
+
 ---
 
-## 77246 — Lego Speed Champions 77246 Bolid F1 Visa Cash App Rb Vcarb 01
+## 77246 — LEGO 77246 Speed Champions Bolid F1 Visa Cash App RB VCARB 01
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 84.50 zł · EAN: 05702017816135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77246 |
+| Nazwa angielska | Visa Cash App RB VCARB 01 F1 Race Car |
+| Nazwa polska | LEGO 77246 Speed Champions Bolid F1 Visa Cash App RB VCARB 01 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 248 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816135 |
 
 LEGO Speed Champions 77246 Bolid F1 Visa Cash App RB VCARB 01
 
@@ -2419,11 +3683,26 @@ Minifigurka kierowcy
  
 Posadź ją w kokpicie i odgrywaj wyścigi F1®.
 
+**Galeria:**
+
+- 77246-1: https://a.allegroimg.com/original/05ae4c/3ccb350844dfbaa767d8816f5ddf
+
 ---
 
-## 77247 — Lego Speed Champions 77247 Speed Champions Bolid F1 Kick Sauber Team C44
+## 77247 — LEGO 77247 Speed Champions Bolid F1 KICK Sauber Team C44
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017816142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77247 |
+| Nazwa angielska | KICK Sauber F1 Team C44 Race Car |
+| Nazwa polska | LEGO 77247 Speed Champions Bolid F1 KICK Sauber Team C44 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 259 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816142 |
 
 LEGO Speed Champions 77247 Speed Champions Bolid F1 KICK Sauber Team C44
 
@@ -2448,11 +3727,26 @@ Speed Champions LEGO Speed Champions Bolid F1 KICK Sauber Team C44, Model Samoch
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017816142
 
+**Galeria:**
+
+- 77247-1: https://a.allegroimg.com/original/115998/b0e37e49411d9c4ea9721cc10977
+
 ---
 
-## 77248 — Lego Speed Champions Bolid F1 Bwt Alpine Team A524 77248
+## 77248 — LEGO 77248 Speed Champions Bolid F1 BWT Alpine Team A524
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 84.45 zł · EAN: 05702017816159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77248 |
+| Nazwa angielska | BWT Alpine F1 Team A524 Race Car |
+| Nazwa polska | LEGO 77248 Speed Champions Bolid F1 BWT Alpine Team A524 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 258 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816159 |
 
 **LEGO Speed Champions Bolid F1 BWT Alpine Team A524 77248**
 
@@ -2478,31 +3772,77 @@ Zestawy LEGO Speed Champions umożliwiają dzieciom i fanom wyścigów zbudowani
 
 • Składający się z 258 elementów bolid LEGO® ma 20 cm długości
 
+**Galeria:**
+
+- 77248-1: https://a.allegroimg.com/original/112098/1cd27dbe4b069efb27fcfea3180e
+
 ---
 
-## 77249 — Lego Speed Champions Bolid F1 Williams Racing FW46 77249
+## 77249 — LEGO 77249 Speed Champions Bolid F1 Williams Racing FW46
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 77.88 zł · EAN: 05702017816166 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77249 |
+| Nazwa angielska | Williams Racing FW46 F1 Race Car |
+| Nazwa polska | LEGO 77249 Speed Champions Bolid F1 Williams Racing FW46 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2025 |
+| Liczba elementów | 263 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816166, 5702017902623 |
 
 Bolid F1® Williams Racing FW46
 
 Speed Champions LEGO Speed Champions Bolid F1 Williams Racing FW46, Model Wyścigówki do Zbudowania, Zabawka Konstrukcyjna dla 10-latka, dla Chłopca i Dziewczynki, z Minifigurką Kierowcy, Pomysł na Prezent, 77249 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz prezent zabawki carlos sainzalexander albon franco colapinto kolekcjonerskie chłopiec syn 9 11 12 nastolatek Bolid F1® Williams Racing FW46 LEGO® Speed Champions Bolid F1® Williams Racing FW46 LEGO® Speed Champions Bolid F1® Williams Racing FW46 77249 Fani Formuły 1® i dzieci w wieku od 10 lat mogą zbudować, bawić się i ustawić na półce model Williams Racing FW46 F1 LEGO® Speed Champions. LEGO® Bolid F1® Williams Racing FW46 Dzięki zestawowi LEGO® Speed Champions Bolid F1® Williams Racing FW46 (77249) na dziesięciolatków i starsze dzieci czeka superszybka akcja rodem z Formuły 1®. Dzieci i dorośli kolekcjonerzy samochodów mogą budować, ustawiać na półce i odgrywać wyścigi z modelem bolidu F1, który zawiera detale wzorowane na samochodzie biorącym udział w wyścigach Formuły 1 w 2024 roku.Model samochodu F1 ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid F1 zawiera także minifigurkę kierowcy w kombinezonie zespołu Williams Racing i kasku, którą można umieścić w kokpicie.Zestawy LEGO Speed Champions umożliwiają dzieciom i fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 2024 (sprzedawanych osobno) z sezonu 2024. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z budowaniem. Poczuj emocje towarzyszące wyścigom Formuły 1®, budując bolid Williams Racing FW46. Zbuduj, eksponuj i baw się tym niesamowitym modelem LEGO® Speed Champions, który zawiera realistyczne detale samochodu Formuły 1 z sezonu 2024. Zestaw zawiera również minifigurkę kierowcy zespołu Williams Racing, którą można umieścić w kokpicie i wykorzystać do odgrywania wyścigów.
 
+**Galeria:**
+
+- 77249-1: https://a.allegroimg.com/original/11d63f/1bc47adb44f18a01615c0f98a28f
+- 77249-2: https://a.allegroimg.com/original/05061f/a62f22e747ada94297bc45861308
+
 ---
 
-## 77250 — Lego Speed Champions Bolid F1 MoneyGram Haas Team VF-24 77250
+## 77250 — LEGO 77250 Speed Champions Bolid F1 MoneyGram Haas Team VF-24
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 83.90 zł · EAN: 05702017816173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77250 |
+| Nazwa angielska | MoneyGram Haas F1 Team VF-24 Race Car |
+| Nazwa polska | LEGO 77250 Speed Champions Bolid F1 MoneyGram Haas Team VF-24 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 242 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816173 |
 
 Bolid F1® MoneyGram Haas Team VF-24
 
 Speed Champions LEGO Speed Champions Bolid F1 MoneyGram Haas Team VF-24, Zabawka dla Dziecka do Zbudowania, Zestaw z Samochodem dla 10-latka, dla Chłopca i Dziewczynki, Pomysł na Prezent dla Fana Formuły 1, 77250 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz prezent zabawki nico hulkenbergkevin magnussen kolekcjonerskie chłopiec syn 9 11 12 nastolatek Bolid F1® MoneyGram Haas Team VF-24 LEGO® Speed Champions Bolid F1® MoneyGram Haas Team VF-24 LEGO® Speed Champions Bolid F1® MoneyGram Haas Team VF-24 77250 Fani Formuły 1® i dzieci w wieku od 10 lat mogą budować, bawić się i ustawić na półce model LEGO® Speed Champions Bolid F1® MoneyGram Haas Team VF-24. LEGO® Bolid F1® MoneyGram Haas Team VF-24 Dzięki zestawowi LEGO® Speed Champions Bolid F1® MoneyGram Haas Team VF-24 (77250) na dziesięciolatków i starsze dzieci czeka superszybka akcja rodem z Formuły 1®. Dzieci i dorośli kolekcjonerzy samochodów mogą budować, ustawiać na półce i odgrywać wyścigi modelem bolidu F1, który zawiera detale wzorowane na samochodzie biorącym udział w wyścigach Formuły 1 w 2024 roku.Model samochodu F1 ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid F1 zawiera także minifigurkę kierowcy w kombinezonie zespołu MoneyGram Haas i kasku, którego można umieścić w kokpicie.Zestawy LEGO Speed Champions umożliwiają dzieciom i fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 1 (sprzedawanych osobno) z sezonu 2024. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z budowaniem. Przygotuj się do emocjonującego wyścigu za kierownicą bolidu F1® MoneyGram Haas VF-24. Zbuduj, eksponuj i baw się tym niesamowitym modelem LEGO® Speed Champions, który zawiera realistyczne detale samochodu Formuły 1® z sezonu 2024. Zestaw zawiera również minifigurkę kierowcy MoneyGram Haas, którą można umieścić w kokpicie i wykorzystać do odgrywania emocjonujących wyścigów.
 
+**Galeria:**
+
+- 77250-1: https://a.allegroimg.com/original/0521b5/9ae63e834bb184c5b15104542c14
+
 ---
 
-## 77251 — Lego Speed Champions 77251 Speed Champions Bolid F1 McLaren Team MCL38
+## 77251 — Speed Champions Bolide F1 McLaren Team MCL38
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 78.28 zł · EAN: 05702017816180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77251 |
+| Nazwa angielska | McLaren F1 Team MCL38 Race Car |
+| Nazwa polska | Speed Champions Bolide F1 McLaren Team MCL38 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 269 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816180 |
 
 LEGO Speed Champions 77251 Speed Champions Bolid F1 McLaren Team MCL38
 
@@ -2559,11 +3899,26 @@ Dołącz do zespołu McLaren i zbuduj jeden z najszybszych pojazdów na świecie
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017816180
 
+**Galeria:**
+
+- 77251-1: https://a.allegroimg.com/original/116f43/3b7b43b846c2b2dc429d764cfb08
+
 ---
 
-## 77252 — Lego Speed Champions 77252 F1: film Apxgp Team Race Car
+## 77252 — F1: film - APXGP Team Race Car
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 94.99 zł · EAN: 05702018068175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77252 |
+| Nazwa angielska | APXGP Team Race Car from F1 The Movie |
+| Nazwa polska | F1: film - APXGP Team Race Car |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 268 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068175 |
 
 Klocki LEGO® 77252 Speed Champions F1®: film — APXGP Team Race Car
 
@@ -2586,11 +3941,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest odpowiedni dla dzieci od 10 lat oraz osób lubiących modele samochodów wyścigowych, Formułę 1® i motywy z filmu F1®.
 
+**Galeria:**
+
+- 77252-1: https://a.allegroimg.com/original/11bc0c/d5cc80484b0f8f4ad1205155b5f6
+
 ---
 
-## 77253 — Lego Speed Champions Hipersamochód Bugatti Vision Gt 77253
+## 77253 — LEGO Speed Champions 77253 Hipersamochód sportowy Bugatti Vision GT
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 63.81 zł · EAN: 05702018068182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77253 |
+| Nazwa angielska | Bugatti Vision GT Hyper Sports Car |
+| Nazwa polska | LEGO Speed Champions 77253 Hipersamochód sportowy Bugatti Vision GT |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 284 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068182 |
 
 🏎️🏁 **LEGO SPEED CHAMPIONS HIPERSAMOCHÓD BUGATTI VISION GT 77253 (284 EL.)** 🏁🏎️
 
@@ -2625,11 +3995,26 @@ Odkryj niezwykły mariaż świata gier wideo, motoryzacji i precyzji klocków z 
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 77253-1: https://a.allegroimg.com/original/11c94d/9dda92f244238980d892ef6e582d
+
 ---
 
-## 77254 — Lego Speed Champions 77254 Samochód Sportowy Ferrari SF90 XX Stradale
+## 77254 — LEGO Speed Champions 77254 Samochód sportowy Ferrari SF90 XX Stradale
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 63.84 zł · EAN: 05702018068205 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77254 |
+| Nazwa angielska | Ferrari SF90 XX Stradale Sports Car |
+| Nazwa polska | LEGO Speed Champions 77254 Samochód sportowy Ferrari SF90 XX Stradale |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 339 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068205 |
 
 🏎️🇮🇹 **LEGO SPEED CHAMPIONS SAMOCHÓD FERRARI SF90 XX STRADALE 77254 (339 EL.)** 🇮🇹🏎️
 
@@ -2664,42 +4049,72 @@ Poczuj prawdziwe emocje włoskich torów wyścigowych z zestawem **LEGO® Speed 
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 77254-1: https://a.allegroimg.com/original/29625a/5b9b9793410ba2ea12d27a35cfac
+
 ---
 
-## 77255 — Lego Speed Champions 77255 Zygzak McQueen
+## 77255 — LEGO Disney 77255 Zygzak McQueen
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 71.62 zł · EAN: 05702018068212 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77255 |
+| Nazwa angielska | Lightning McQueen |
+| Nazwa polska | LEGO Disney 77255 Zygzak McQueen |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 270 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068212 |
 
 Świętuj 20. rocznicę premiery filmu Auta wytwórni Disney Pixar i zbuduj własnego Zygzaka McQueena z serii LEGO® Speed Champions. Po ukończeniu modelu możesz rozegrać ekscytujące wyścigi z popularnym bohaterem dzięki realistycznym detalom, takim jak żółto-pomarańczowa błyskawica, numer 95, logo sponsora Rust-Eze oraz opony z napisem \"Lightyear\". Przygotuj się do wyścigu
 
----
+**Galeria:**
 
-## 77256 — Lego Speed Champions 77256 Wehikuł czasu z Powrotu do przyszłości
-
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 66.88 zł · EAN: 05702018068229 · in stock*
-
-- Samochód z filmu Powrót do przyszłości — LEGO® Speed Champions Wehikuł czasu z filmu Powrót do przyszłości dla chłopców i dziewczynek w wieku od dziewięciu lat do zbudowania, eksponowania i odgrywania scen z filmu 
-- Dwie minifigurki — ten zestaw z filmu „Powrót do przyszłości” zawiera dwie postacie: doktora Browna i Marty’ego McFly’a, których można posadzić w kokpicie i bawić się w odgrywanie ról 
-- Dwie opcje budowania — samochód ma piorunochron z pierwszej części lub można go przebudować na pojazd latający z bocznymi kołami i urządzeniem Mr. Fusion z drugiej części 
-- Autentyczne detale — kultowy model samochodu zawiera detale znane z filmowej wersji, w tym tylne wyloty powietrza, kokpit, kondensator strumienia, licznik czasu i wiele innych 
-- Prezent dla fanów Powrotu do przyszłości — ten zestaw z filmu Powrót do przyszłości zapewni mnóstwo frajdy podczas budowania i zabawy. Sprawdzi się też jako prezent dla dzieci, fanów filmu i dorosłych tęskniących za przeszłością 
-- Jeszcze więcej zabawy — odkryj więcej pełnych detali zestawów LEGO® Speed Champions z samochodami (sprzedawanych osobno) 
-- Kultowe samochody do zabawy i ozdoby — zestawy konstrukcyjne LEGO® Speed Champions pozwalają dzieciom i miłośnikom motoryzacji budować repliki kultowych pojazdów 
-- Wymiary — model samochodu z Powrotu do przyszłości w tym 357-elementowym zestawie ma 10 cm wysokości, 17 cm długości i 7 cm szerokości
+- 77255-1: https://a.allegroimg.com/original/05f46a/6c70dc1f47d2a0374394dfa2d6c1
 
 ---
 
-## 77257 — Zestaw Lego Speed Champions 77257 McLaren W1 klocki supersamochód wyścigowy
+## 77257 — LEGO Speed Champions 77257 McLaren W1
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 67.95 zł · EAN: 05702018068243 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77257 |
+| Nazwa angielska | McLaren W1 |
+| Nazwa polska | LEGO Speed Champions 77257 McLaren W1 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 287 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068243 |
 
 Podziwiaj niesamowitą moc i budowę supersamochodu — McLaren W1 — budując własną wersję LEGO®! Ta replika z serii Speed Champions zawiera wiele szczegółów konstrukcyjnych prawdziwego modelu, w tym regulowane tylne skrzydło do jazdy rekreacyjnej lub wyścigowej oraz ekran z komputerem pokładowym. Zestaw zawiera również minifigurkę kierowcy McLarena, którą można umieścić za kierownicą.Jeszcze więcej zabawy — odkryj inne zestawy konstrukcyjne LEGO Speed Champions z samochodami (sprzedawane osobno)Model samochodu McLaren — LEGO Speed Champions McLaren W1 (77257) to zabawka konstrukcyjna dla dzieci w wieku od 9 lat, do budowania, eksponowania i zabawyMinifigurka kierowcy — ten zestaw z kultowym samochodem zawiera kierowcę ubranego w strój McLarena, z kaskiem i kluczem, który może służyć również do naklejania naklejek i rozdzielania klockówRealistyczny samochód dla dzieci — zawiera autentyczne detale prawdziwego supersamochodu: regulowane tylne skrzydło do jazdy rekreacyjnej lub wyścigowej, tylny silnik, kokpit i ekran z komputerem pokładowymDekoracja pokoju dziecięcego dla chłopców i dziewczynek — po skończonej zabawie kolekcjonerskim samochodem LEGO dzieci mogą z dumą ustawić go w swoim pokoju na półce, biurku lub stoliku nocnymPrezent urodzinowy dla chłopca i dziewczynki — zestaw z modelem samochodu to świetny pomysł na prezent dla dzieci w wieku od 9 lat i dorosłych kolekcjonerówKultowe samochody do zabawy i ozdoby — zestawy konstrukcyjne LEGO Speed Champions pozwalają dzieciom i miłośnikom motoryzacji budować repliki kultowych pojazdów
 
+**Galeria:**
+
+- 77257-1: https://a.allegroimg.com/original/053b16/881939d048debf3c246c86340a3a
+
 ---
 
-## 77258 — Klocki Lego Speed Champions 77258 Bolid F1 Academy Lego
+## 77258 — LEGO Speed Champions 77258 Bolid F1 ACADEMY
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 72.98 zł · EAN: 05702018068267 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77258 |
+| Nazwa angielska | F1 ACADEMY LEGO Race Car |
+| Nazwa polska | LEGO Speed Champions 77258 Bolid F1 ACADEMY |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 201 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068267 |
 
 W 2026 roku grupa LEGO po raz pierwszy dołączy do stawki F1 ACADEMYTM swoim własnym bolidem F1 ACADEMY, a chłopcy i dziewczynki od 10 lat będą mogli zbudować własny model wystawowy. Model LEGO® Speed Champions Zestaw wyścigowy LEGO® F1 ACADEMYTM (77258) jest idealny do zabawy i ekspozycji, zawiera wiele takich samych detali jak bolid używany w F1 ACADEMY – serii wyścigowej przeznaczonej wyłącznie dla kobiet.
 
@@ -2726,11 +4141,26 @@ Zestawy LEGO® Speed Champions to świetny prezent, dzięki któremu dzieci i en
  
 - Odpowiednie dla dzieci od 10 lat
 
+**Galeria:**
+
+- 77258-1: https://a.allegroimg.com/original/05f1ae/0a8fc6b748c9ba2007be9b3c63a5
+
 ---
 
-## 77259 — Lego Speed Champions 77259 Bolid F1 Audi Revolut Team R26
+## 77259 — LEGO Speed Champions 77259 Bolid F1 Audi Revolut Team R26
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702018068373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77259 |
+| Nazwa angielska | Audi Revolut F1 Team R26 Race Car |
+| Nazwa polska | LEGO Speed Champions 77259 Bolid F1 Audi Revolut Team R26 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 215 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068373 |
 
 Przedmiotem sprzedaży jest zestaw klocków
 
@@ -2758,11 +4188,26 @@ Zestawy konstrukcyjne LEGO Speed Champions to doskonały pomysł na prezent dla 
 - Prezent dla fanów Formuły 1® — zestaw z modelem daje okazję do fajnej zabawy w budowanie. To świetny pomysł na prezent dla dzieci w wieku od 10 lat, fanów F1® lub dorosłych kolekcjonerów modeli samochodów.
 - Wymiary — Bolid Audi Revolut F1® Team R26 w tym 215-elementowym zestawie ma 4 cm wysokości, 19 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 77259-1: https://a.allegroimg.com/original/110c4c/156a779641eb9a6bdf1f277da8c3
+
 ---
 
-## 77260 — Lego Speed Champions 77260 Szybcy I Wściekli Toyota Supra MK4
+## 77260 — Szybcy i wściekli Toyota Supra MK4
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 78.23 zł · EAN: 05702018068397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77260 |
+| Nazwa angielska | The Fast and The Furious Toyota Supra MK4 |
+| Nazwa polska | Szybcy i wściekli Toyota Supra MK4 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 292 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068397 |
 
 🏎️🔥 **LEGO SPEED CHAMPIONS SZYBCI I WŚCIEKLI TOYOTA SUPRA MK4 77260 (292 EL.)** 🔥🏎️
 
@@ -2798,11 +4243,26 @@ Poczuj zapach palonej gumy i odtwórz kultową akcję kinową z zestawem **LEGO�
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 77260-1: https://a.allegroimg.com/original/11e2d6/eff794364c33accd5ce809f53bfc
+
 ---
 
-## 77261 — Lego Speed Champions 77261 Ferrari 499P
+## 77261 — Ferrari 499P
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 69.69 zł · EAN: 05702018068403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77261 |
+| Nazwa angielska | Ferrari 499P |
+| Nazwa polska | Ferrari 499P |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 329 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068403 |
 
 LEGO Speed Champions 77261 Ferrari 499P
  
@@ -2824,11 +4284,26 @@ Zestawy LEGO Speed Champions to doskonałe prezenty dla dzieci, które umożliwi
 - Kultowe samochody do zabawy i ekspozycji — buduj z klocków repliki prawdziwych samochodów wyścigowych, supersamochodów i popularnych aut z gier wideo, seriali telewizyjnych i filmów. 
 - Wymiary — model samochodu Ferrari w tym 329-elementowym zestawie ma 4 cm wysokości, 18 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 77261-1: https://a.allegroimg.com/original/1127e3/18173d8d4b4e9455735a1fc48fcc
+
 ---
 
-## 77262 — Lego Speed Champions 77262 65 Ford Mustang Hoonicorn V1 Kena Blocka
+## 77262 — 65 Ford Mustang Hoonicorn V1 Kena Blocka
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 79.88 zł · EAN: 05702018068410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77262 |
+| Nazwa angielska | Ken Block's '65 Ford Mustang Hoonicorn V1 |
+| Nazwa polska | 65 Ford Mustang Hoonicorn V1 Kena Blocka |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 345 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068410 |
 
 LEGO Speed Champions 77262 65 Ford Mustang Hoonicorn V1 Kena Blocka
  
@@ -2850,11 +4325,26 @@ Zestawy LEGO Speed Champions to doskonałe prezenty dla dzieci, które umożliwi
 - Kultowe samochody do zabawy i ekspozycji — buduj z klocków repliki prawdziwych samochodów wyścigowych, supersamochodów i popularnych aut z gier wideo, seriali i filmów. 
 - Wymiary — model w tym 345-elementowym zestawie ma 4 cm wysokości, 16 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 77262-1: https://a.allegroimg.com/original/11fd54/1546bee2469a8873d9c2ef0d201c
+
 ---
 
-## 77263 — Lego Speed Champions Bmw M3 (E30) 77263
+## 77263 — BMW M3 E30
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 83.18 zł · EAN: 05702018068427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77263 |
+| Nazwa angielska | BMW M3 (E30) |
+| Nazwa polska | BMW M3 E30 |
+| Seria | Speed Champions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 358 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702018068427 |
 
 Klocki LEGO® - Speed Champions
 
@@ -2875,11 +4365,26 @@ elementów w opakowaniu-358
 - GAZ DO DECHY — zestawy LEGO® Speed Champions ożywiają legendarne pojazdy: buduj ich wspaniałe repliki, ścigaj się i eksponuj każde z tych arcydzieł na biurku lub półce
 - WYMIARY — model w tym358-elementowym zestawie ma 4 cm wysokości, 17 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 77263-1: https://a.allegroimg.com/original/113163/bea5621941aaa10aa1fa8104b50a
+
 ---
 
-## 77264 — Lego Speed Champions 77264 Jaguar Project 7 i Land Rover Defender
+## 77264 — Jaguar Project 7 i Land Rover Defender
 
-*Kategoria: Speed Champions · cena Allegro (2026-08-17): 168.99 zł · EAN: 05702018068434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77264 |
+| Nazwa angielska | Jaguar Project 7 & Land Rover Defender |
+| Nazwa polska | Jaguar Project 7 i Land Rover Defender |
+| Seria | Speed Champions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 740 |
+| Cena katalogowa | 234.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702018068434 |
 
 LEGO Speed Champions 77264 Jaguar Project 7 i Land Rover Defender
  
@@ -2900,6 +4405,10 @@ Możesz połączyć siły z przyjaciółmi i rodziną w trybie „Wspólne budow
 - TRYB „WSPÓLNE BUDOWANIE” — aplikacja LEGO® Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu. 
 - KOLEKCJA LEGO® SPEED CHAMPIONS — zobacz więcej zestawów konstrukcyjnych, dzięki którym dzieci i pasjonaci motoryzacji mogą tworzyć repliki znanych pojazdów. 
 - WYMIARY — ten 740-elementowy zestaw zawiera dwa samochody, w tym Land Rovera Defendera, który ma 9 cm wysokości, 17 cm długości i 8 cm szerokości.
+
+**Galeria:**
+
+- 77264-1: https://a.allegroimg.com/original/11a410/5ffd74434461b3e37d97c481ef0a
 
 ---
 

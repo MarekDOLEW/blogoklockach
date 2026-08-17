@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Classic — opisy produktowe (133 pozycji)
+# LEGO Classic — opisy produktowe (132 pozycji)
 
-## 10401 — Lego Classic 10401 Building Bigger Thinking Tęczowa zabawa 2018 rok!
+## 10401 — CLASSIC
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702016176346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10401 |
+| Nazwa angielska | Rainbow Fun |
+| Nazwa polska | CLASSIC |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176346 |
 
 Klocki LEGO 10401 Tęczowa zabawa
  
@@ -20,11 +31,27 @@ Pomóż swojemu dziecku myśleć i budować ambitniej oraz rozwinąć wyobraźni
  
 - Zestaw zawiera kolorowe klocki LEGO® umożliwiające otwartą, twórczą zabawę, a także specjalne części takie jak koła, kształty i oczy oraz płytkę z edycji specjalnej z okazji 60. rocznicy powstania klocka LEGO.
 
+**Galeria:**
+
+- 10401-1: https://a.allegroimg.com/original/00f315/990dee814e08a07f5c59a6682eaa
+
 ---
 
-## 10402 — Lego 10402 Building Bigger Thinking 10402 Wyprawa W Przyszłość Nowe
+## 10402 — a
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702016176353 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10402 |
+| Nazwa angielska | Fun Future |
+| Nazwa polska | a |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176353 |
 
 Klocki LEGO Building Bigger Thinking 10402 - Wyprawa w przyszłość
 
@@ -38,11 +65,27 @@ Pomóż swojemu dziecku myśleć i budować ambitniej oraz rozwinąć wyobraźni
 - Ten zestaw konstrukcyjny z edycji specjalnej jest odpowiedni dla dzieci w wieku od 5 lat.
 - Buduj ambitne myślenie z klockami LEGO®!
 
+**Galeria:**
+
+- 10402-1: https://a.allegroimg.com/original/11342b/cada4cee464686f98e50421271f6
+
 ---
 
-## 10403 — Lego Classic 10403 Świat Pełen Zabawy 295 El. Nowy
+## 10403 — lego 10403
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 98.00 zł · EAN: 05702016176360 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10403 |
+| Nazwa angielska | World Fun |
+| Nazwa polska | lego 10403 |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176360 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -68,11 +111,27 @@ Zestaw zawiera
 - Ten ciekawy zestaw z edycji specjalnej jest odpowiedni dla dzieci w wieku od 5 lat.
 - Buduj ambitne myślenie z klockami LEGO®!
 
+**Galeria:**
+
+- 10403-1: https://a.allegroimg.com/original/119ec3/a915d47b4544b2629717a3ef2725
+
 ---
 
-## 10404 — Lego Classic 10404 Na dnie oceanu zamek rakieta spaceman rycerz smok
+## 10404 — 10404
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702016176575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10404 |
+| Nazwa angielska | Ocean's Bottom |
+| Nazwa polska | 10404 |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 579 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176575 |
 
 Klocki LEGO Building Bigger Thinking 10404 - Na dnie oceanu
  
@@ -89,11 +148,27 @@ Pomóż swojemu dziecku myśleć i budować ambitniej oraz rozwinąć wyobraźni
 
 Zestaw LEGO Building Bigger Thinking - Na dnie oceanu trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 10404. Zawiera 579 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Building Bigger Thinking - Ocean's Bottom.
 
+**Galeria:**
+
+- 10404-1: https://a.allegroimg.com/original/110e33/b58308674118a5a504432bb0b487
+
 ---
 
-## 10692 — Lego Classic 10692 Kreatywne klocki Lego Classic 10692
+## 10692 — Kreatywne klocki LEGO Classic 10692
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702015355704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10692 |
+| Nazwa angielska | Creative Bricks |
+| Nazwa polska | Kreatywne klocki LEGO Classic 10692 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355704 |
 
 Jesteś rodzicem lub masz pod opieką uroczego malucha, który uwielbia konstruowanie? Lubisz wraz z dzieckiem bawić się różnymi klockami LEGO® i budować razem z nim rozmaite budynki, przedmioty i pojazdy? Jeżeli tak, zdecydowanie powinien zaciekawić Cię zestaw "LEGO CLASSIC Kreatywne klocki", który zapewni Tobie i Twojemu dziecku godziny szalonej, kreatywnej zabawy.
 
@@ -107,11 +182,27 @@ Produkt dostosowany jest dla dzieci od 4 roku życia, w związku z tym nie powin
  
 Stwórzcie razem coś niezwykłego i spędźcie dobrze czas na wspólnej, pełnej przygód zabawie!
 
+**Galeria:**
+
+- 10692-1: https://a.allegroimg.com/original/05c6fc/5ff87e404f8d9065899d9d1c2355
+
 ---
 
-## 10693 — Lego Classic 10693 Kreatywne budowanie
+## 10693 — LEGO Classic Kreatywne budowanie 10693
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 149.95 zł · EAN: 05702015355711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10693 |
+| Nazwa angielska | Creative Supplement |
+| Nazwa polska | LEGO Classic Kreatywne budowanie 10693 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 303 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355711 |
 
 LEGO Classic 10693 Kreatywne budowanie
 
@@ -139,11 +230,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 10693-1: https://a.allegroimg.com/original/116d8d/81ded6b84ba6898c9f8a6540c108
+
 ---
 
-## 10694 — Lego Classic 10694 Kreatywne budowanie Lego w jasnych kolorach
+## 10694 — LEGO Classic 10694 - Kreatywne budowanie LEGO w jasnych kolorach
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 248.97 zł · EAN: 05702015355728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10694 |
+| Nazwa angielska | Creative Supplement Bright |
+| Nazwa polska | LEGO Classic 10694 - Kreatywne budowanie LEGO w jasnych kolorach |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 303 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355728 |
 
 LEGO Classic 10694 - Kreatywne budowanie LEGO w jasnych kolorach
 
@@ -183,11 +290,26 @@ LEGO® 10694 Classic - Kreatywne budowanie LEGO w jasnych kolorach
 
 ** Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10694-1: https://a.allegroimg.com/original/118efb/49ee420342fc897201cb68cfbaf2
+
 ---
 
-## 10696 — Lego Classic 10696 Średnie Pudełko Kreatywnych Klocków Lego
+## 10696 — LEGO Classic 10696 Kreatywne klocki, średnie pudełko
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 44.99 zł · EAN: 05702015357180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10696 |
+| Nazwa angielska | Medium Creative Brick Box |
+| Nazwa polska | LEGO Classic 10696 Kreatywne klocki, średnie pudełko |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 484 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702015357180, 5905951114613 |
 
 🧱🌈 **LEGO CLASSIC ŚREDNIE PUDEŁKO KREATYWNYCH KLOCKÓW 10696 (484 EL.)** 🌈🧱
 
@@ -223,11 +345,27 @@ Uwolnij nieskończoną wyobraźnię i kreatywność ze średnim pudełkiem kreat
 - 1x Ulotka z pomysłami i inspiracjami do budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 10696-1: https://a.allegroimg.com/original/112b4e/6753fbd04ad4a05b2eec1ddce65c
+- 10696-2: https://a.allegroimg.com/original/11dd08/26108b7b4321a7cfbfea8a75ddbd
+
 ---
 
-## 10698 — Lego Classic 10698 Kreatywne klocki duże pudełko
+## 10698 — Kreatywne klocki duże pudełko
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 145.65 zł · EAN: 05702015357197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10698 |
+| Nazwa angielska | Large Creative Brick Box |
+| Nazwa polska | Kreatywne klocki duże pudełko |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 790 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702015357197 |
 
 Lego Classic Kreatywne klocki duże pudełko 10698
  
@@ -246,11 +384,27 @@ Buduj bez granic dzięki wielkiemu zestawowi klocków LEGO® w 33 różnych kolo
 - Opakowanie stanowi poręczne plastikowe pudełko 
 - Zielone płytki konstrukcyjne mają odpowiednio 16 cm długości i 16 cm szerokości oraz 12 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 10698-1: https://a.allegroimg.com/original/29e612/675d214a4fceb8f6599cf8837355
+
 ---
 
-## 10702 — Lego Classic Brick Box Pudełko średnie Klocki kreatywne_10696
+## 10702 — LEGO CLASSIC 10696 Brick Box 484 elementy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 111.71 zł · EAN: 05702015604345 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10702 |
+| Nazwa angielska | Creative Building Set |
+| Nazwa polska | LEGO CLASSIC 10696 Brick Box 484 elementy |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 583 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015604345 |
 
 LEGO CLASSIC Brick Box Pudełko średnie Klocki kreatywne 10696_484el
 
@@ -272,11 +426,27 @@ Ta kolekcja klocków LEGO® w 35 różnych kolorach została opracowana z myśl
 
 #10399
 
+**Galeria:**
+
+- 10702-1: https://a.allegroimg.com/original/115779/96f03f724a48bb3efb860c262f3c
+
 ---
 
-## 10703 — Lego 10703 Classic Zestaw kreatywnego konstruktora domy kamienice
+## 10703 — Zestaw kreatywnego konstruktora
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 399.50 zł · EAN: 05702015868860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10703 |
+| Nazwa angielska | Creative Builder Box |
+| Nazwa polska | Zestaw kreatywnego konstruktora |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 502 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868860 |
 
 Nowy zestaw klocków
 
@@ -305,11 +475,27 @@ Sięgnij po zestaw kreatywnego konstruktora LEGO Classic i wkrocz do świata nic
 - Zestaw zawiera separator klocków, który ułatwia budowanie i demontowanie modeli.
 - Zestaw odpowiedni dla dzieci w wieku od 4-99 lat.
 
+**Galeria:**
+
+- 10703-1: https://a.allegroimg.com/original/05e7bd/7b96d7f34a9ab9d1c83751c664b8
+
 ---
 
-## 10707 — Lego Classic 10707 Czerwony Zestaw Kreatywny Opis
+## 10707 — L
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 48.99 zł · EAN: 05702015869393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10707 |
+| Nazwa angielska | Red Creativity Box |
+| Nazwa polska | L |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869393 |
 
 Opis: pudełko uderzone i podklejone z jednej strony
 
@@ -345,11 +531,27 @@ Liczba elementów 55
 
 Pozostałe parametry
 
+**Galeria:**
+
+- 10707-1: https://a.allegroimg.com/original/0061a4/445e58bf43508dee3b122399ad58
+
 ---
 
-## 10708 — Lego Classic 10708 Zielony zestaw kreatywny
+## 10708 — LEGO 10708 - Zielony zestaw kreatywny
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 159.97 zł · EAN: 05702015869409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10708 |
+| Nazwa angielska | Green Creativity Box |
+| Nazwa polska | LEGO 10708 - Zielony zestaw kreatywny |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869409 |
 
 LEGO Classic 10708 - Zielony zestaw kreatywny
 
@@ -398,11 +600,27 @@ LEGO® 10708 Classic - Zielony zestaw kreatywny
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych wcześniej w cm).**
 
+**Galeria:**
+
+- 10708-1: https://a.allegroimg.com/original/11bb30/b99be7634f5a8d41f2aba208c279
+
 ---
 
-## 10712 — Lego Classic 10712 Kreatywne maszyny koła zębate i osie od 5+
+## 10712 — Klocki LEGO Classic Kreatywne maszyny 10712
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 248.80 zł · EAN: 05702016111347 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10712 |
+| Nazwa angielska | Bricks and Gears |
+| Nazwa polska | Klocki LEGO Classic Kreatywne maszyny 10712 |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111347 |
 
 Przedmiotem sprzedaży jest **nowy, oryginalnie zamknięty zestaw Lego Classic 10712 Kreatywne maszyny.**
 
@@ -422,11 +640,26 @@ Zestaw składa się z 244 klocków i przeznaczony jest dla dzieci od 5 roku życ
 - Zestaw zawiera separator klocków, który ułatwia budowanie i demontowanie modeli.
 - Rozwiń swoją kreatywność z zestawami LEGO® Classic!
 
+**Galeria:**
+
+- 10712-1: https://a.allegroimg.com/original/05c367/0704538343e08ff616b0bf0204d1
+
 ---
 
-## 10713 — Lego Classic 10713 Lego Classic Kreatywna walizka 10713
+## 10713 — LEGO Classic Kreatywna walizka 10713
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 55.03 zł · EAN: 05702016111330 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10713 |
+| Nazwa angielska | Creative Suitcase |
+| Nazwa polska | LEGO Classic Kreatywna walizka 10713 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 213 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 26 cm × szer. 28 cm |
+| EAN | 5702016111330, 673419282895 |
 
 LEGO Classic Kreatywna walizka 10713
  
@@ -441,11 +674,27 @@ Twórz, baw się i porządkuj klocki z tą sprytną i poręczną Kreatywną wali
 - Walizka ma ok. 26 cm wysokości, 28 cm szerokości i 6 cm grubości; 
 - Ten zestaw klocków jest odpowiedni dla osób w wieku 4–99 lat.
 
+**Galeria:**
+
+- 10713-1: https://a.allegroimg.com/original/05533a/d9424cc1459781f28f383fb712e8
+
 ---
 
-## 10715 — Lego 10715 Classic Klocki na kółkach kształty oczy kółka opony koła auta
+## 10715 — Klocki na kółkach
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 499.50 zł · EAN: 05702016111910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10715 |
+| Nazwa angielska | Bricks on a Roll |
+| Nazwa polska | Klocki na kółkach |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 442 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111910 |
 
 Nowy zestaw klocków
 
@@ -468,11 +717,27 @@ Zbuduj zakręcone modele LEGO® na kółkach z tym ciekawym zestawem LEGO Classi
 - Rozwiń swoją kreatywność z zestawami LEGO® Classic!
 - Ten klasyczny zestaw jest odpowiedni dla osób w wieku 4–99 lat.
 
+**Galeria:**
+
+- 10715-1: https://a.allegroimg.com/original/054406/338e9a9943f79df035c778ce244f
+
 ---
 
-## 10717 — Klocki Lego Classic 1500 szt.
+## 10717 — Klocki, klocki, klocki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702016111903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10717 |
+| Nazwa angielska | Bricks Bricks Bricks |
+| Nazwa polska | Klocki, klocki, klocki |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111903 |
 
 LEGO Klocki, klocki, klocki 10717
  
@@ -487,11 +752,27 @@ Zanurz się w niezwykły świat twórczej zabawy w zestawie LEGO Classic 10717 K
 - Zestaw zawiera poręczny separator klocków, który ułatwia budowanie i przebudowywanie modeli. 
 - Rozwiń swoją kreatywność z zestawami LEGO Classic!
 
+**Galeria:**
+
+- 10717-1: https://a.allegroimg.com/original/11cc49/1a7897e245f9856c8748ab2a208b
+
 ---
 
-## 11001 — klocki Lego Classic 11001 Classic budowa zestaw klocków
+## 11001 — Classic
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702016367768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11001 |
+| Nazwa angielska | Bricks and Ideas |
+| Nazwa polska | Classic |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 123 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367768 |
 
 Puść wodze wyobraźni z kreatywnym zestawem początkowym LEGO Classic!
  
@@ -506,11 +787,27 @@ Baw się i ucz z kolorowym zestawem LEGO Classic 11001 Klocki + pomysły. Do dys
 - Zestaw zawiera ponad 120 klocków. 
 - Zestaw odpowiedni dla dzieci w wieku od 4 lat.
 
+**Galeria:**
+
+- 11001-1: https://a.allegroimg.com/original/110ac9/a4b2970c43c3a94b4a1cbaa8548f
+
 ---
 
-## 11002 — Lego 11002 Classic Podstawowe klocki koła oczy kolorowe elementy
+## 11002 — Podstawowe klocki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 169.50 zł · EAN: 05702016367775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11002 |
+| Nazwa angielska | Basic Brick Set |
+| Nazwa polska | Podstawowe klocki |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367775, 673419302036 |
 
 Nowy zestaw klocków 
 
@@ -533,11 +830,28 @@ Z zestawem LEGO Classic 11002 Podstawowe klocki na nowo odkryjesz radość płyn
 - Zestaw składa się z 300 klocków. 
 - Zestaw odpowiedni dla dzieci w wieku od 4 lat.
 
+**Galeria:**
+
+- 11002-1: https://a.allegroimg.com/original/254e85/2eba51694000a21ff0c95fce0521
+- 11002-2: https://a.allegroimg.com/original/111fba/ef55d2664fd786daf735d13b2d7b
+
 ---
 
-## 11003 — Lego Classic 11003 Klocki buźki
+## 11003 — LEGO CLASSIC
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 217.99 zł · EAN: 05702016367782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11003 |
+| Nazwa angielska | Bricks and Eyes |
+| Nazwa polska | LEGO CLASSIC |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 451 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367782 |
 
 Buduj ciekawe postacie lub dodaj odrobinę charakteru do własnych modeli LEGO® Classic! Buduj ciekawe postacie lub dodaj odrobinę charakteru do własnych modeli LEGO® za pomocą zestawu LEGO Classic 11003 Klocki-buźki. Znajdziesz w nim szeroki wybór nie tylko kolorowych klocków, kształtów i części LEGO, ale również oczu w różnych rozmiarach, kolorach i rodzajach, dzięki którym Twoje modele LEGO naprawdę ożyją. Zestaw oferuje trzy poziomy trudności i będzie świetnym uzupełnieniem kolekcji klocków LEGO. Dołączone instrukcje budowania przeznaczone dla dzieci pomogą młodym budowniczym opanować sztukę kreatywnego budowania.
 
@@ -554,11 +868,27 @@ Buduj ciekawe postacie lub dodaj odrobinę charakteru do własnych modeli LEGO®
 
 • Rozwiń swoją kreatywność z zestawami LEGO® Classic!
 
+**Galeria:**
+
+- 11003-1: https://a.allegroimg.com/original/119fcc/83e272b64e5e9e0950cde22af6aa
+
 ---
 
-## 11005 — Lego Classic 11005 Kreatywna zabawa
+## 11005 — Classic
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016367805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11005 |
+| Nazwa angielska | Creative Fun |
+| Nazwa polska | Classic |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 900 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367805 |
 
 LEGO CLASSIC 11005 KREATYWNA ZABAWA
  
@@ -576,11 +906,27 @@ Ilość elementów: **900**
 
 Zestaw LEGO® Classic 11005 Kreatywna zabawa to nieskończone możliwości twórczego budowania. Do dyspozycji masz doskonały wybór kolorowych klocków i elementów LEGO, w tym oczy, koła, drzwi, okna i zawiasy. Twórz zwierzęta, budynki, pojazdy i inne modele LEGO z nutką nostalgii, takie jak staromodna maszyna do pisania lub klasyczny dwupłatowiec. Zestaw oferuje trzy poziomy trudności budowania i doskonale nadaje się na pierwszy zestaw dla początkujących konstruktorów LEGO. Dołączone instrukcje budowania przeznaczone dla dzieci pomogą młodym budowniczym opanować sztukę kreatywnego budowania. Dodatkowe inspiracje można również znaleźć online.
 
+**Galeria:**
+
+- 11005-1: https://a.allegroimg.com/original/11aa15/4c73ae49462bb1ff9a8907688bd4
+
 ---
 
-## 11006 — Lego Classic 11006 Niebieskie klocki kreatywne
+## 11006 — Niebieskie klocki kreatywne
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 34.44 zł · EAN: 05702016616576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11006 |
+| Nazwa angielska | Creative Blue Bricks |
+| Nazwa polska | Niebieskie klocki kreatywne |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616576 |
 
 LEGO Niebieskie klocki kreatywne 11006
  
@@ -600,11 +946,27 @@ Ta emocjonująca kolekcja niebieskich klocków LEGO dla dzieci aż pęka w szwac
 - Zabawki LEGO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Grupa LEGO przestrzega najwyższych światowych standardów bezpieczeństwa i jakości. Do tego upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO — dzięki czemu masz pewność, że nasze zabawki są bezpiecznedla Twojego dziecka.
 
+**Galeria:**
+
+- 11006-1: https://a.allegroimg.com/original/052eb9/f49dac664982b43f6f95bc3c6232
+
 ---
 
-## 11007 — Lego Classic 11007 nowy zestaw Julivo
+## 11007 — Zielone klocki kreatywne
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 41.00 zł · EAN: 05702016616583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11007 |
+| Nazwa angielska | Creative Green Bricks |
+| Nazwa polska | Zielone klocki kreatywne |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616583 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -641,11 +1003,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 11007-1: https://a.allegroimg.com/original/003d61/723bf16c48a09704b718019c7181
+
 ---
 
-## 11008 — Lego Classic 11008 Klocki i domki dachy okna
+## 11008 — Klocki i domki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 214.99 zł · EAN: 05702016616590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11008 |
+| Nazwa angielska | Bricks and Houses |
+| Nazwa polska | Klocki i domki |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616590 |
 
 Zainspiruj maluchy do kreatywnego budowania domków
  
@@ -669,11 +1047,27 @@ Zestawy LEGO Classic podsuwają dzieciom inspirację i pomysły, a ciekawe model
 - Wszystkie zabawki LEGO spełniają najwyższe standardy branżowe. Dzięki temu wszystkie klocki pasują do siebie i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Grupa LEGO przestrzega najwyższych światowych standardów bezpieczeństwa i jakości. Do tego upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO — dzięki czemu masz pewność, że nasze zabawki są bezpieczne dla Twojego dziecka.
 
+**Galeria:**
+
+- 11008-1: https://a.allegroimg.com/original/00857b/bc1d4ad04633b640e99de1083c4e
+
 ---
 
-## 11009 — klocki Lego Classic 11009 Klocki i światła 11009 świecące klocki
+## 11009 — Classic - Klocki i światła 11009
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 257.99 zł · EAN: 05702016616606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11009 |
+| Nazwa angielska | Bricks and Lights |
+| Nazwa polska | Classic - Klocki i światła 11009 |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 441 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616606 |
 
 Puść wodze fantazji w teatrze cieni z zestawu LEGO Klocki i światła
  
@@ -693,11 +1087,27 @@ Ten niezwykły zestaw LEGO to podwójna dawka kreatywności dla dzieci. Najpierw
 - Zabawki LEGO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Grupa LEGO przestrzega najwyższych światowych standardów bezpieczeństwa i jakości. Do tego upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO — dzięki czemu masz pewność, że nasze zabawki są bezpieczne dla Twojego dziecka.
 
+**Galeria:**
+
+- 11009-1: https://a.allegroimg.com/original/05f345/15a8093f4201b8ea06434e226820
+
 ---
 
-## 11011 — Lego Classic Klocki kreatywne pudełko średnie zestaw samochody zwierzątka
+## 11011 — Klocki i zwierzątka
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702016668056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11011 |
+| Nazwa angielska | Bricks and Animals |
+| Nazwa polska | Klocki i zwierzątka |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668056 |
 
 LEGO® Classic _10696_ – Średnie pudełko z klockami
 
@@ -729,11 +1139,27 @@ instrukcje z przykładowymi modelami.
 
 Wiek: 4+
 
+**Galeria:**
+
+- 11011-1: https://a.allegroimg.com/original/118e36/c1f903524b35a48067dbd25ce205
+
 ---
 
-## 11012 — Lego Classic 11012 Kreatywne białe klocki
+## 11012 — Kreatywne białe klocki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702016889277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11012 |
+| Nazwa angielska | Creative White Bricks |
+| Nazwa polska | Kreatywne białe klocki |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016889277 |
 
 Ciekawa kolekcja białych klocków LEGO® zainspiruje dzieci do budowania, tworzenia i wymyślania. W zestawie są trzy łatwe, przykładowe modele do zbudowania, które ułatwią rozpoczęcie kreatywnej zabawy. Są to bałwanek śniegowy z miotłą, owca na kwiecistej łące oraz mewa z rybą. Dzieci mogą też wymieszać klocki i przerobić modele na swój sposób albo zbudować coś zupełnie innego. Do tych wielofunkcyjnych klocków i elementów LEGO wystarczy dołożyć szczyptę wyobraźni!
  
@@ -762,11 +1188,27 @@ Zestawy konstrukcyjne LEGO Classic oferują dzieciom pomysły i inspirację, a z
 - Zabawki LEGO® spełniają najwyższe standardy branżowe dotyczące jakości, dzięki czemu wszystkie klocki pasują do siebie i świetnie się z nich buduje — i tak jest niezmiennie od 1958 roku. 
 - Zabawki do budowania LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 11012-1: https://a.allegroimg.com/original/2544a6/ebf052744b9bb793e64653a4ecb3
+
 ---
 
-## 11013 — Lego Classic Kreatywne Przezroczyste Klocki 11013
+## 11013 — LEGO Classic Kreatywne przezroczyste klocki 11013
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 120.90 zł · EAN: 05702016888720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11013 |
+| Nazwa angielska | Creative Transparent Bricks |
+| Nazwa polska | LEGO Classic Kreatywne przezroczyste klocki 11013 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016888720 |
 
 **KREATYWNE PRZEZROCZYSTE KLOCKI**
 
@@ -798,11 +1240,27 @@ Ostrzeżenie! Ryzyko zadławienia. Małe elementy.
 
 Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 11013-1: https://a.allegroimg.com/original/116eef/16ad193d41f7b1f7525fc5796ce0
+
 ---
 
-## 11014 — Lego Classic 11014 Klocki na kołach
+## 11014 — 11014
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 312.88 zł · EAN: 05702016889192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11014 |
+| Nazwa angielska | Bricks and Wheels |
+| Nazwa polska | 11014 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 653 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016889192 |
 
 Klocki LEGO Classic 11014 - Klocki na kołach
 
@@ -833,11 +1291,27 @@ Zestawy LEGO Classic oferują dzieciom pomysły i inspirację, a zawarte w nich 
 
 Zestaw LEGO Classic - Klocki na kołach trafił do sprzedaży w 2021 roku. Numer katalogowy tego zestawu to 11014. Zawiera 653 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Classic - Bricks and Wheels. Grupa wiekowa tego produktu to 4+.
 
+**Galeria:**
+
+- 11014-1: https://a.allegroimg.com/original/11f50e/f43479e64031a05c99623df31f3e
+
 ---
 
-## 11015 — Klocki Lego Classic 11015 Dookoła Świata
+## 11015 — Dookoła świata
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016914146 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11015 |
+| Nazwa angielska | Around The World |
+| Nazwa polska | Dookoła świata |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 950 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914146 |
 
 Ten zestaw LEGO® Classic zabierze kreatywne dzieciaki w każdy zakątek naszego globu. Dzieci mogą zbudować 15 inspirujących modeli przedstawiających najbardziej znane zwierzęta i obiekty z całego świata — od afrykańskiego lwa i palmy po australijską kangurzycę z młodym.
 
@@ -855,11 +1329,27 @@ Zestaw LEGO® Classic Dookoła świata (11015) z 15 inspirującymi pomysłami na
 - Zabawki LEGO® spełniają rygorystyczne standardy branżowe dotyczące jakości, dzięki czemu wszystkie klocki pasują do siebie i świetnie się z nich buduje — i tak jest niezmiennie od 1958 roku.
 - Zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 11015-1: https://a.allegroimg.com/original/255e9d/49a8cd764d618821af94fef721e0
+
 ---
 
-## 11017 — Lego Classic 11017 Kreatywne Potwory
+## 11017 — Kreatywne potwory
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702017117485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11017 |
+| Nazwa angielska | Creative Monsters |
+| Nazwa polska | Kreatywne potwory |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117485 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -892,11 +1382,27 @@ W zestawach konstrukcyjnych LEGO Classic czekają niezwykłe modele do zbudowani
 - Wysokiej jakości pomysłowe zabawki dla dzieci — elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo potwierdzone testami — wszystkie zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 11017-1: https://a.allegroimg.com/original/0561e5/0e85f77d411ebe7cc0a160dd964c
+
 ---
 
-## 11018 — Lego 11018 Classic Kreatywna Oceaniczna Zabawa
+## 11018 — Kreatywna oceaniczna zabawa
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 84.45 zł · EAN: 05702017117591 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11018 |
+| Nazwa angielska | Creative Ocean Fun |
+| Nazwa polska | Kreatywna oceaniczna zabawa |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117591 |
 
 LEGO 11018 CLASSIC - KREATYWNA OCEANICZNA ZABAWA
 
@@ -938,11 +1444,27 @@ Zestawy LEGO Classic dostarczają dzieciom wiele pomysłów i inspiracji zachęc
 - Wysokiej jakości zabawki konstrukcyjne dla dzieci — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują,
 - Gruntowne testy — wszystkie zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 11018-1: https://a.allegroimg.com/original/119e24/3ac6176c4d83a224df7a23b6eb30
+
 ---
 
-## 11019 — Lego Classic 11019 Klocki i funkcje
+## 11019 — Klocki i funkcje
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 227.95 zł · EAN: 05702017117584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11019 |
+| Nazwa angielska | Bricks and Functions |
+| Nazwa polska | Klocki i funkcje |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117584 |
 
 Lego CLASSIC 11019 Klocki i funkcje
 
@@ -963,11 +1485,27 @@ Dzieci rozwijają ważne życiowe umiejętnościZestawy LEGO Classic zachęcają
 - Wysokiej jakości kreatywne zabawki konstrukcyjne -- wszystkie elementy LEGO(R) Classic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim -- wszystkie zabawki konstrukcyjne LEGO(R) przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 11019-1: https://a.allegroimg.com/original/1117e8/17a01c84459ab73e2f97596b7fe6
+
 ---
 
-## 11021 — Lego 11021 Classic 90 lat zabawy
+## 11021 — 90 lat zabawy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 257.00 zł · EAN: 05702017189192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11021 |
+| Nazwa angielska | 90 Years of Play |
+| Nazwa polska | 90 lat zabawy |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189192 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -983,11 +1521,27 @@ Numer magazynowy sprzedawcy: 20260085, 20260086, 20260087, 20260088
 
 Przybliżone wymiary opakowania:** 48 x 28,2 x 7,4 cm;**
 
+**Galeria:**
+
+- 11021-1: https://a.allegroimg.com/original/11913d/654496d44bf89499391c67f9bfff
+
 ---
 
-## 11022 — Lego 11022 Classic Misja kosmiczna
+## 11022 — Misja kosmiczna
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 498.45 zł · EAN: 05702017189215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11022 |
+| Nazwa angielska | Space Mission |
+| Nazwa polska | Misja kosmiczna |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1700 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189215 |
 
 LEGO® 11022 Misja kosmiczna
 
@@ -1012,11 +1566,27 @@ W zestawach konstrukcyjnych LEGO Classic czekają niezwykłe modele do zbudowani
 - Wysokiej jakości pomysłowe zabawki dla dzieci — elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo potwierdzone testami — wszystkie zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa
 
+**Galeria:**
+
+- 11022-1: https://a.allegroimg.com/original/112a03/c5ed48274e998364baec51ba699d
+
 ---
 
-## 11027 — Zestaw Lego Classic 11027 Kreatywna Zabawa Neonowymi Kolorami
+## 11027 — Klocki LEGO 11027 Kreatywna zabawa neonowymi kolorami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 72.00 zł · EAN: 05702017415116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11027 |
+| Nazwa angielska | Creative Neon Fun |
+| Nazwa polska | Klocki LEGO 11027 Kreatywna zabawa neonowymi kolorami |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415116 |
 
 ZESTAW LEGO CLASSIC - 11027 - KREATYWNA ZABAWA NEONOWYMI KOLORAMI
 
@@ -1056,11 +1626,27 @@ Zestaw LEGO Classic 11027 to doskonała propozycja na prezent dla dzieci, które
 
 Dzięki uniwersalnemu charakterowi zestaw sprawdzi się zarówno jako prezent urodzinowy, świąteczny, jak i spontaniczna niespodzianka. Możliwość łączenia go z innymi zestawami LEGO Classic dodatkowo zwiększa jego wartość i pozwala budować coraz większe konstrukcje. To świetny wybór dla każdego dziecka, które lubi tworzyć coś własnego i niepowtarzalnego, a jednocześnie rozwijać się poprzez zabawę.
 
+**Galeria:**
+
+- 11027-1: https://a.allegroimg.com/original/05bdc9/18ad77f1468aa008bfa1cc14fe99
+
 ---
 
-## 11028 — Lego Classic 11028 Kreatywna zabawa pastelowymi kolorami
+## 11028 — Kreatywna zabawa pastelowymi kolorami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 117.03 zł · EAN: 05702017415123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11028 |
+| Nazwa angielska | Creative Pastel Fun |
+| Nazwa polska | Kreatywna zabawa pastelowymi kolorami |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415123 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -1084,11 +1670,27 @@ Zestawy LEGO Classic 5+ dla dzieci powyżej pięciu lat podsuwają im pomysły i
 - Klocki rozwijające umiejętności budowania – zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 11028-1: https://a.allegroimg.com/original/11fe36/4fd1267d4572ad544eea6621e02e
+
 ---
 
-## 11029 — Lego Classic 11029 Kreatywny zestaw imprezowy
+## 11029 — Kreatywny zestaw imprezowy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 279.98 zł · EAN: 05702017415130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11029 |
+| Nazwa angielska | Creative Party Box |
+| Nazwa polska | Kreatywny zestaw imprezowy |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 900 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415130 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -1118,11 +1720,27 @@ Zestawy LEGO Classic 5+ dla dzieci powyżej pięciu lat podsuwają im pomysły i
 - Klocki rozwijające umiejętności budowania – zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 11029-1: https://a.allegroimg.com/original/11ade8/9806bb6a4942b44e3b838e30e972
+
 ---
 
-## 11030 — Lego Classic 11030 Sterta klocków
+## 11030 — Sterta klocków
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702017415147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11030 |
+| Nazwa angielska | Lots of Bricks |
+| Nazwa polska | Sterta klocków |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1000 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415147 |
 
 LEGO Classic 11030 Sterta klocków
  
@@ -1147,11 +1765,27 @@ Zestawy LEGO Classic 5+ dla dzieci powyżej pięciu lat podsuwają im pomysły i
 - Klocki rozwijające umiejętności budowania – zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 11030-1: https://a.allegroimg.com/original/29caaa/9740346449de8924248f64aa6a3d
+
 ---
 
-## 11031 — Lego Classic 11031 Kreatywna małpia zabawa
+## 11031 — Kreatywna małpia zabawa
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 75.50 zł · EAN: 05702017434049 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11031 |
+| Nazwa angielska | Creative Monkey Fun |
+| Nazwa polska | Kreatywna małpia zabawa |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434049 |
 
 Klocki LEGO Classic 11031 - Kreatywna małpia zabawa
  
@@ -1179,11 +1813,27 @@ Zestawy LEGO Classic 5+ dla dzieci powyżej pięciu lat podsuwają im pomysły i
  
 .
 
+**Galeria:**
+
+- 11031-1: https://a.allegroimg.com/original/11727e/6f84773241a782f6fdd99db195ff
+
 ---
 
-## 11032 — Lego 11032 Classic Kreatywna zabawa kolorami
+## 11032 — Kreatywna zabawa kolorami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 319.45 zł · EAN: 05702017434056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11032 |
+| Nazwa angielska | Creative Color Fun |
+| Nazwa polska | Kreatywna zabawa kolorami |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434056 |
 
 LEGO 11032 Classic Kreatywna zabawa kolorami
 
@@ -1215,11 +1865,27 @@ Niezależnie od okazji, **LEGO Classic 11032 Kreatywna zabawa kolorami** to zn
 
 Zachęcamy do zapoznania się z pełną ofertą klocków i znalezienia zestawu LEGO, który najlepiej pasuje do Twojego dziecka. Sprawdź ceny na zklockow.pl i znajdź zestaw LEGO Classic 11032 Kreatywna zabawa kolorami w najniższej cenie.
 
+**Galeria:**
+
+- 11032-1: https://a.allegroimg.com/original/11f95a/4ab6bd5241569b256bcea74568e1
+
 ---
 
-## 11033 — Lego 11033 Classic Kreatywny wszechświat fantazji Dużo kolorowych klocków
+## 11033 — Kreatywny wszechświat fantazji
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 1195.21 zł · EAN: 05702017434063 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11033 |
+| Nazwa angielska | Creative Fantasy Universe |
+| Nazwa polska | Kreatywny wszechświat fantazji |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1800 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434063 |
 
 LEGO 11033 Classic - Kreatywny wszechświat fantazji
 
@@ -1251,11 +1917,26 @@ Zabawki LEGO Classic są pełne pomysłów i inspiracji, dzięki czemu rodzice m
 
 - Gwarancja jakości – elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i łatwo się z nich buduje
 
+**Galeria:**
+
+- 11033-1: https://a.allegroimg.com/original/0520fc/7fd6d8bc4c36957ce266503a0aef
+
 ---
 
-## 11034 — Lego Classic Kreatywne Zwierzątka 11034
+## 11034 — Klasyczny 11034 Kreatywne zwierzaki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 106.90 zł · EAN: 05702017582443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11034 |
+| Nazwa angielska | Creative Pets |
+| Nazwa polska | Klasyczny 11034 Kreatywne zwierzaki |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 450 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017582443, 5702017582511 |
 
 **KREATYWNE ZWIERZĄTKA**
 
@@ -1274,11 +1955,28 @@ Zabawki LEGO Classic są pełne pomysłów i inspiracji, dzięki czemu rodzice m
 - Klocki rozwijające umiejętności budowania — zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie
 - 450-elementowy zestaw LEGO® ze zwierzątkami — po zbudowaniu figurka psa ma 5 cm wysokości, a kot na drapaku ma 7 cm wysokości
 
+**Galeria:**
+
+- 11034-1: https://a.allegroimg.com/original/112e18/d8fe836e483cb1f289f6c7fe4fc7
+- 11034-2: https://a.allegroimg.com/original/11498e/57d8a9b24173a09411a8561bc098
+
 ---
 
-## 11035 — Lego 11035 Kreatywne Domy
+## 11035 — Kreatywne domy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 279.90 zł · EAN: 05702017583006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11035 |
+| Nazwa angielska | Creative Houses |
+| Nazwa polska | Kreatywne domy |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 850 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583006 |
 
 **Lego Clasic - Kreatywne domy**
 
@@ -1308,11 +2006,26 @@ Ilość elementów: 850
 
 ** **
 
+**Galeria:**
+
+- 11035-1: https://a.allegroimg.com/original/11cc06/b3e719564adb89b62f93584ac7a0
+
 ---
 
-## 11036 — Lego Classic 11036 Kreatywne pojazdy
+## 11036 — Kreatywne pojazdy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 187.99 zł · EAN: 05702017583020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11036 |
+| Nazwa angielska | Creative Vehicles |
+| Nazwa polska | Kreatywne pojazdy |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 900 |
+| Cena katalogowa | 234.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583020 |
 
 LEGO Classic Kreatywne pojazdy (11036) 
  
@@ -1340,11 +2053,27 @@ Zabawki LEGO Classic są pełne pomysłów i inspiracji, dzięki czemu rodzice m
  
 • 900-elementowy zestaw z limuzyną, która ma 9 cm długości
 
+**Galeria:**
+
+- 11036-1: https://a.allegroimg.com/original/2921d7/fc1069b24b3080d4c4f0e7361db2
+
 ---
 
-## 11037 — Lego Classic 11037 Kreatywne planety
+## 11037 — Kreatywne planety
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 145.90 zł · EAN: 05702017583037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11037 |
+| Nazwa angielska | Creative Space Planets |
+| Nazwa polska | Kreatywne planety |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583037 |
 
 LEGO Classic 11037 Kreatywne planety 
 
@@ -1357,11 +2086,27 @@ LEGO Classic 11037 Kreatywne planety
 - Klocki rozwijające umiejętności budowania — zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie
 - 450-elementowy zestaw — model rakiety ma 12 cm wysokości, chociaż modele mogą być większe lub mniejsze w zależności od pomysłów dzieci
 
+**Galeria:**
+
+- 11037-1: https://a.allegroimg.com/original/116cce/4cc1a432467fbe7a62da1684dc60
+
 ---
 
-## 11038 — Lego 11038 Classic Kreatywne Pudełko Z Kolorowymi Klockami
+## 11038 — Kreatywne pudełko z kolorowymi klockami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 499.45 zł · EAN: 05702017598833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11038 |
+| Nazwa angielska | Vibrant Creative Brick Box |
+| Nazwa polska | Kreatywne pudełko z kolorowymi klockami |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 850 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 4 cm |
+| EAN | 5702017598833 |
 
 LEGO 11038 CLASSIC - KREATYWNE PUDEŁKO Z KOLOROWYMI KLOCKAMI
 
@@ -1390,11 +2135,26 @@ LEGO® Classic Kreatywne pudełko z kolorowymi klockami (11038) to niezwykłe po
 - Klocki rozwijające umiejętności budowania — zestawy LEGO® Classic umożliwiają swobodną zabawę i kreatywne wyrażanie siebie
 - 850 elementów LEGO® — koń do zbudowania ma 7 cm wysokości, a furgonetka z marchewką ma 8 cm wysokości, 9 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 11038-1: https://a.allegroimg.com/original/116efa/4dde2b9f4766accc7278d51bf153
+
 ---
 
-## 11039 — Lego Klocki Classic 11039 Kreatywne smakołyki
+## 11039 — 11039
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 36.00 zł · EAN: 05702017822204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11039 |
+| Nazwa angielska | Creative Food Friends |
+| Nazwa polska | 11039 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 150 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm × gł. 1 cm |
+| EAN | 5702017822204 |
 
 LEGO Klocki Classic 11039 Kreatywne smakołyki
 
@@ -1424,11 +2184,26 @@ Zestaw ze 150 elementami - model babeczki ma 6 cm wysokości, 4 cm szerokości i
 
 - **Wiek:** od 3 lat
 
+**Galeria:**
+
+- 11039-1: https://a.allegroimg.com/original/112010/7ab8a72647b4bac67c42f6fb643b
+
 ---
 
-## 11040 — Lego Classic Magiczny Zestaw Z Przezroczystymi Klockami 11040
+## 11040 — LEGO Classic 11040 Magiczny zestaw z przezroczystymi klockami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017822211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11040 |
+| Nazwa angielska | Magical Transparent Box |
+| Nazwa polska | LEGO Classic 11040 Magiczny zestaw z przezroczystymi klockami |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 340 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822211 |
 
 PRZEDMIOTEM AUKCJI SĄ:
 
@@ -1450,31 +2225,78 @@ Przezroczyste klocki, elementy z oczami i buziami oraz klocki z wieszakami do ek
 
 Następnie zbuduj wielki zamek i smoka! Dzięki klockom z haczykami do tworzenia wiszących ozdób Twoje przezroczyste kreacje dodadzą blasku każdemu pomieszczeniu! Kolorowe, przezroczyste klocki Magiczny zestaw z przezroczystymi klockami to zestaw do budowania z klocków LEGO, zabawy i eksponowania dla kreatywnych dzieci.
 
+**Galeria:**
+
+- 11040-1: https://a.allegroimg.com/original/110ef3/34a95472469e800cb2095fd7ceae
+
 ---
 
-## 11041 — Lego Classic 11041 Kreatywne dinozaury Zestaw i Poradnik 4w1
+## 11041 — Kreatywne dinozaury
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 95.98 zł · EAN: 05702017822228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11041 |
+| Nazwa angielska | Creative Dinosaurs |
+| Nazwa polska | Kreatywne dinozaury |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 450 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822228 |
 
 LEGO Classic 11041 Kreatywne dinozaury Zestaw i Poradnik 4w1
 
 Classic LEGO Classic Kreatywne Dinozaury, Konstrukcyjna Zabawka dla Dziecka do Zbudowania, Figurki Dinozaurów i Akcesoria, w tym T-Rex i Triceratops, Prezent dla 5-latka, dla Chłopca i Dziewczynki, 11039 chłopiec dziewczynka syn córka siostrzenica siostrzeniec 3 4 6 7 klocki konstrukcja rodzina razem edukacyjne uczenie się montessori akcesoria zabawa małe dekoracje pterodaktyl welociraptor Brachiozaur dino przedszkole świetlica zabawa Kreatywne dinozaury LEGO® Classic Kreatywne dinozaury Zestaw z modelami LEGO® Classic Kreatywne dinozaury 11041 Zestaw LEGO® Classic Kreatywne dinozaury gwarantuje świetną zabawę małym miłośnikom dinozaurów. Figurki dinozaurów do zbudowania i ozdabiania LEGO® Classic Kreatywne dinozaury (11041) to zestaw zawierający figurki z klocków w kolorze niebieskim, zielonym, fioletowym i brązowym. Ten wszechstronny zestaw konstrukcyjny to świetna zabawka rozwijająca umiejętności kreatywnego budowania u dzieci w wieku od pięciu lat, które kochają dinozaury.Dzieci mogą szybko zbudować z klocków LEGO tyranozaura, pterozaura, triceratopsa, brontozaura i małego tyranozaura w jajku. W zestawie jest też wulkan, palma i akcesoria inspirujące do odgrywania różnych historii. Oprócz kolorowych, różnorodnych klocków zestaw zawiera również elementy, w tym oczy i buzie dla dinozaurów. Kreatywna zabawa trwa w najlepsze, gdy dzieci mieszają klocki, aby przebudować stworzenia. Gdy maluchy nabiorą pewności w budowaniu, mogą kierować się intuicyjnymi instrukcjami, aby tworzyć własne pomysłowe dinozaury. Przygotuj się na ogrrromną frajdę z ulubionymi dinozaurami! Zbuduj własnego tyranozaura, pterozaura, triceratopsa, brontozaura, a także małego tyranozaura. Dzieci mogą nawet zbudować wulkan i palmę, aby dinozaury poczuły się jak w domu. Wystarczy tylko pomieszać klocki, aby stworzyć własne, wyjątkowe dinozaury i spersonalizować je fajnymi akcesoriami!
 
+**Galeria:**
+
+- 11041-1: https://a.allegroimg.com/original/116fda/e991bc964447934c79ebb8d6c144
+
 ---
 
-## 11042 — Lego 11042 Classic Kreatywna skrzynka szczęścia
+## 11042 — Klasyczny 11042 Kreatywny zestaw do zabawy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 145.69 zł · EAN: 05702017822235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11042 |
+| Nazwa angielska | Creative Happy Box |
+| Nazwa polska | Klasyczny 11042 Kreatywny zestaw do zabawy |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 680 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017822235 |
 
 Kreatywna skrzynka szczęścia
 
 Classic LEGO Classic Kreatywna Skrzynka Szczęścia, Zabawka dla Dziecka do Zbudowania, Pudełko 680 Klocków i Dodatkowych Elementów, Prezent dla Przedszkolaka, dla 5-latka, dla Dziewczynki i Chłopca, 11042 chłopiec dziewczynka syn córka siostrzenica siostrzeniec 3 4 6 7 upominek niespodzianka niezależny klocki konstrukcja rodzina razem edukacyjna nauka montessori akcesoria małe dekoracje biurko fajne przedszkole zerówka świetlica Kreatywna skrzynka szczęścia LEGO® Classic Kreatywna skrzynka szczęścia Klocki LEGO® Classic Kreatywna skrzynka szczęścia 11042 Zestaw LEGO® Classic Kreatywna skrzynka szczęścia zapewni kreatywną zabawę, podczas której dzieci zbudują mnóstwo funkcjonalnych postaci i nie tylko. Kolorowe klocki i elementy gwarantują świetną zabawę Podaruj małym konstruktorom najlepszy początek życiowej przygody dzięki zestawowi LEGO® Classic Kreatywna skrzynka szczęścia (11042). Zestaw zawiera 680 kolorowych klocków i elementy specjalne, a także inspirujące instrukcje gwarantujące niekończącą się świetną zabawę.Kreatywna skrzynka szczęścia zawiera propozycje 10 szybkich do zbudowania modeli, które zapewnią mnóstwo frajdy. Dzieci mogą przebudować te modele na 12 nowych zabawek, a następnie spersonalizować je według własnego pomysłu. Dzięki temu mogą ozdobić swój pokój ciekawymi i funkcjonalnymi przedmiotami własnego autorstwa. Figurki pająka, pszczoły i ptaka mają wieszaki do ekspozycji. Modele kraba, małpy i domu mogą pomieścić w środku małe przedmioty, takie jak ołówek lub szczoteczka do zębów. Modele kwiatu, aparatu, zakreślacza, serca i kaktusa zawierają klipsy, za pomocą których dzieci przypną notatkę, kartkę lub zdjęcie (kolorowy papier jest dołączony do zestawu). Inne modele w zestawie to kot, mysz, cytryna, robak i uśmiechnięta buźka. Podziel się szczęściem i zainspiruj pociechy do kreatywności dzięki temu wszechstronnemu zestawowi. Otwórz pudełko pełne kolorowych klocków LEGO® i daj się ponieść wyobraźni! Wypełnij swój pokój ciekawymi i funkcjonalnymi przedmiotami własnego autorstwa! Możesz przypinać rysunki i notatki do swoich modeli i wieszać je na ścianie, aby wszyscy mogli je zobaczyć. Nie zapomnij o uśmiechniętych buźkach, bo LEGO Classic Kreatywna skrzynka szczęścia to przede wszystkim świetna zabawa i kreatywność! • Kolorowe klocki — Kreatywna skrzynka szczęścia dla dzieci to pudełko z klockami LEGO® pełne jaskrawych kolorów, zabawek do zbudowania i możliwości zabawy dla pięciolatków i starszych dzieci • Rozmaite klocki dla dzieci — zestaw zawiera pomysły na 10 szybkich do zbudowania modeli, które mają wywoływać uśmiech na twarzy. Można je przebudować na 12 nowych zabawek i spersonalizować, tworząc kolejne modele • Zabawa w udawanie — instrukcje zawierają inspiracje z różnymi modelami, takimi jak małpka, zakreślacz, bałwan, tęczowy domek, kupa, pszczoła, aparat fotograficzny, tort urodzinowy, kot, kaktus, tęczowe serce i ptak • Kreatywna zabawa — modele można wykorzystać do kreatywnej zabawy i jako praktyczne przedmioty, np.
 
+**Galeria:**
+
+- 11042-1: https://a.allegroimg.com/original/05ad28/62e878de4cf7b02eff1f1930c9d1
+
 ---
 
-## 11043 — Lego Classic 11043 zestaw kreatywny 510 elementów
+## 11043 — Fajny zestaw kreatywny
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 118.50 zł · EAN: 05702017824857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11043 |
+| Nazwa angielska | Cool Creative Box |
+| Nazwa polska | Fajny zestaw kreatywny |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702017824857 |
 
 LEGO Classic Fajny zestaw kreatywny 11043
  
@@ -1493,11 +2315,27 @@ Mnóstwo kolorowych klocków, a także elementy z oczami, koła i zawiasy powię
 - Kod EAN: 5702017824857 
 - Wiek: dla dzieci 5+
 
+**Galeria:**
+
+- 11043-1: https://a.allegroimg.com/original/056287/0a4102cc47708eb29a38ca4e2629
+
 ---
 
-## 11044 — Lego Classic 11044 Kreatywny zestaw do budowania i zabawy
+## 11044 — Kreatywny zestaw do budowania i zabawy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702017824864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11044 |
+| Nazwa angielska | Creative Build-and-Play Box |
+| Nazwa polska | Kreatywny zestaw do budowania i zabawy |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 750 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702017824864 |
 
 **LEGO 11044 Kreatywny zestaw do budowania i zabawy**
 
@@ -1529,11 +2367,26 @@ Nowy, oryginalnie zapakowany, opakowanie zewnętrzne lekko uszkodzone (zdj. 5-8)
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 11044-1: https://a.allegroimg.com/original/112793/2fb4eb0045f9b125180f4165e751
+
 ---
 
-## 11045 — Lego Classic 11045 Kreatywne kolorowe klocki
+## 11045 — Kreatywne kolorowe klocki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 145.89 zł · EAN: 05702018054772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11045 |
+| Nazwa angielska | Creative Colorful Bricks |
+| Nazwa polska | Kreatywne kolorowe klocki |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 820 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 12 cm × gł. 4 cm |
+| EAN | 5702018054772 |
 
 LEGO Classic 11045 Kreatywne kolorowe klocki
  
@@ -1553,11 +2406,27 @@ Pudełko jest pełne kolorowych klocków LEGO 2x2 i 2x4. Dzieci postępują zgod
 - Klocki rozwijające umiejętności — zabawki LEGO Classic są pełne pomysłów i inspiracji, dzięki czemu rodzice mogą uczestniczyć w zabawie i rozwoju dzieci na różnych etapach. 
 - Wymiary — but z rolką w tym 820-elementowym zestawie ma 11 cm wysokości, 12 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 11045-1: https://a.allegroimg.com/original/11df27/254e2b6445a0b2fcb61e62a3be77
+
 ---
 
-## 11717 — Oryginalne Lego Classic 11717 Klocki, Klocki, Płytki 1504 Elementy
+## 11717 — Classic Bricks Klocki, klocki, płytki
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702016722154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11717 |
+| Nazwa angielska | Bricks Bricks Plates |
+| Nazwa polska | Classic Bricks Klocki, klocki, płytki |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1504 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016722154 |
 
 **ORYGINALNE LEGO CLASSIC 11717 - KLOCKI, KLOCKI, PŁYTKI 1504 ELEMENTY **
 
@@ -1575,11 +2444,26 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 11717-1: https://a.allegroimg.com/original/11c739/6119557440f1a4ede6881b1354f8
+
 ---
 
-## 1807 — 1807 Lego System Święty Mikołaj polybag Misb 1995 mikołajki choinka
+## 1807 — Santa Claus and Sleigh
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702010918072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1807 |
+| Nazwa angielska | Santa Claus and Sleigh |
+| Nazwa polska | Santa Claus and Sleigh |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1995 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010918072 |
 
 Nowy, fabrycznie zamknięty polybag Lego. Jest pierwszym zestawem w historii w którym pojawił się Święty Mikołaj jako minifigurka. **Opakowanie może posiadać zagięcie w górnej części jak na zdjęciach.**
 
@@ -1591,11 +2475,26 @@ Numer:** 1807**
 
 Nazwa:** Santa Claus and Sleigh**
 
+**Galeria:**
+
+- 1807-1: https://a.allegroimg.com/original/11cd9c/9b602da64d50abaf7ba8ec350e32
+
 ---
 
-## 1836 — Nowy Klocki Lego System Unikat 1836 Lego System Freestyle Misb 1995
+## 1836 — Kot
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 68.00 zł · EAN: 05702010918362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1836 |
+| Nazwa angielska | Freestyle Cat |
+| Nazwa polska | Kot |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1995 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010918362 |
 
 Cześć!
 
@@ -1613,11 +2512,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1836-1: https://a.allegroimg.com/original/111e8d/6ff417c04efab80d71c762d9a8d8
+
 ---
 
-## 21254 — Lego Minecraft 21254 Dom dla żółwi na plaży Dla Dzieci Na Święta
+## 21254 — Dom dla żółwi na plaży
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 189.97 zł · EAN: 05702017532219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21254 |
+| Nazwa angielska | The Turtle Beach House |
+| Nazwa polska | Dom dla żółwi na plaży |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 234 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017532219, 5702017583303 |
 
 LEGO Minecraft Dom dla pustynnych żółwi (21254) 
  
@@ -1641,11 +2555,27 @@ Gracze budują dom w kształcie żółwia rodem z gry Minecraft, z oknami, latar
  
 • Główny model w tym 224-elementowym zestawie ma 24 cm szerokości
 
+**Galeria:**
+
+- 21254-1: https://a.allegroimg.com/original/11c052/e62b393f4a0499c0cda799bf4ce4
+- 21254-2: https://a.allegroimg.com/original/29dc45/497dc8c34049b00a4e58da27c03c
+
 ---
 
-## 2538 — Nowy Lego System Castle 2538 Miotacz Ognia Shell Misb 1998
+## 2538 — Miotacz Ognia
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 238.99 zł · EAN: 05702010925384 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2538 |
+| Nazwa angielska | Fright Knights Fire Cart |
+| Nazwa polska | Miotacz Ognia |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010925384 |
 
 Cześć!
 
@@ -1665,11 +2595,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2538-1: https://a.allegroimg.com/original/1101fd/77bc753c4a0b8464747a0270ce48
+
 ---
 
-## 2846 — Lego 2846 Kajak z Indianinem Nowy
+## 2846 — Kajak z Indianinem
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702010928460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2846 |
+| Nazwa angielska | Indian Kayak |
+| Nazwa polska | Kajak z Indianinem |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928460 |
 
 Kajak z indianinem z LEGO Western, numer katalogowy 2846.
 
@@ -1683,11 +2628,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 2846-1: https://a.allegroimg.com/original/11cbbb/73e7e5a74ee19a7a3d550d55c094
+
 ---
 
-## 2886 — nowy 2886 Lego System Town Formuła 1 f1 Misb 1997
+## 2886 — Formula 1 Racing Car
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702010928866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2886 |
+| Nazwa angielska | Formula 1 Racing Car |
+| Nazwa polska | Formula 1 Racing Car |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928866 |
 
 Cześć!
 
@@ -1705,11 +2665,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2886-1: https://a.allegroimg.com/original/11ab79/08fbd24342ed91323ec9c68f4621
+
 ---
 
-## 30071 — Lego Toy Story 30071 Żołnierzyk Jeep żołnierz saszetka klocki minifigurka
+## 30071 — Army Jeep polybag
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702014712911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30071 |
+| Nazwa angielska | Army Jeep |
+| Nazwa polska | Army Jeep polybag |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014712911 |
 
 Witam
 
@@ -1725,11 +2700,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30071-1: https://a.allegroimg.com/original/11e8b2/645024824526a4cb322e7295c004
+
 ---
 
-## 30510 — Klocki Lego Classic 90 lat samochodów 71 elementów 4+
+## 30510 — 90 lat samochodów
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017257648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30510 |
+| Nazwa angielska | 90 Years of Cars |
+| Nazwa polska | 90 lat samochodów |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017257648 |
 
 LEGO Klocki Classic 30510 90 lat samochodów
 
@@ -1747,11 +2738,26 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 71 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30510-1: https://a.allegroimg.com/original/113074/7a7a17fb48a6a7f6e282c003422a
+
 ---
 
-## 30541 — Lego Classic 30541
+## 30541 — 30541
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 34.97 zł · EAN: 05702016123272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30541 |
+| Nazwa angielska | Animal Free Builds - Make It Yours |
+| Nazwa polska | 30541 |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123272, 5702016172027 |
 
 **Witamy w sklepie z zabawkami ToysCompany**
 
@@ -1768,11 +2774,27 @@ Swobodne budowanie: zwierzęta — zbuduj własne
 
 **Zapraszamy na zakupy klocków LEGO® i innych fajnych zabawek!**
 
+**Galeria:**
+
+- 30541-1: https://a.allegroimg.com/original/11293e/c5613a744a568a7dc8ab68e43172
+- 30541-2: https://a.allegroimg.com/original/11fcc2/127d14324ec8bee9f834e08d825f
+
 ---
 
-## 30687 — Klocki Lego 30687 Blue Podwieczorek Blue Saszetka
+## 30687 — Blue - Podwieczorek Blue
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 10.48 zł · EAN: 05702017819075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30687 |
+| Nazwa angielska | Bluey Tea Party |
+| Nazwa polska | Blue - Podwieczorek Blue |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819075 |
 
 Lego
  
@@ -1807,11 +2829,26 @@ Zestaw LEGO 30687 z serii Bluey to uroczy komplet przeznaczony dla dzieci powyż
 - **Rozwój wyobraźni:** Pomaga rozwijać kreatywność i zdolności manualne. 
 - **Łatwy do przechowywania:** Kompaktowe opakowanie ułatwia przechowywanie i transport
 
+**Galeria:**
+
+- 30687-1: https://a.allegroimg.com/original/11fbf4/f0de63e5429ab73d85c68dcd8655
+
 ---
 
-## 30711 — Lego 30711 Braille Brick Fun, Construction Toy Polybag
+## 30711 — Klocki Zabawa z alfabetem Braille’a 30711
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 7.99 zł · EAN: 05702017988962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30711 |
+| Nazwa angielska | Play with Braille Bricks |
+| Nazwa polska | Klocki Zabawa z alfabetem Braille’a 30711 |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017988962 |
 
 Ten mały zestaw LEGO zawiera 8 klocków Braille'a, które wprowadzają dzieci w wieku od 6 lat w alfabet Braille'a dla osób niewidomych. Świetna zabawa również dla osób widzących, które mogą sprawdzić swój zmysł dotyku za pomocą wzorów na klockach.
 
@@ -1831,11 +2868,26 @@ Ten mały zestaw LEGO zawiera 8 klocków Braille'a, które wprowadzają dzieci w
 
  Ostrzeżenia i wskazówki dotyczące bezpieczeństwa Ostrzeżenia: Uwaga: Niebezpieczeństwo zadławienia się małymi elementami! Uwaga: Nieodpowiednie dla dzieci poniżej 36 miesięcy!
 
+**Galeria:**
+
+- 30711-1: https://a.allegroimg.com/original/11c095/59d914b54138aefa0ff56912aa09
+
 ---
 
-## 3548 — Lego Nba 3548 Sports Koszykówka Misb 2003 klocki mikołaj choinka
+## 3548 — Slam Dunk Trainer
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 398.98 zł · EAN: 05702014265233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3548 |
+| Nazwa angielska | Slam Dunk Trainer |
+| Nazwa polska | Slam Dunk Trainer |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014265233 |
 
 Nowy, fabrycznie zamknięty zestaw Lego. Na ściankach mogą występować drobne przetarcia i ślady przechowywania.
 
@@ -1849,11 +2901,26 @@ Nazwa: **Slam Dunk Trainer**
 
 Doskonały prezent na Mikołaja i pod Choinkę dla każdego fana kolekcjonerskich, archiwalnych zestawów klocków Lego i nie tylko.
 
+**Galeria:**
+
+- 3548-1: https://a.allegroimg.com/original/115024/1aebaf0e4da8bb8d0a352056f5c8
+
 ---
 
-## 3550 — Lego Nba 3550 Sports Koszykówka Misb 2003 klocki mikołaj choinka
+## 3550 — NBA
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 359.90 zł · EAN: 05702014265257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3550 |
+| Nazwa angielska | Jump and Shoot |
+| Nazwa polska | NBA |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014265257 |
 
 Nowy, fabrycznie zamknięty zestaw Lego. Na ściankach mogą występować drobne przetarcia, cenówki i ślady przechowywania.
 
@@ -1867,11 +2934,26 @@ Nazwa: **Jump and Shoot**
 
 Doskonały prezent na Mikołaja i pod Choinkę dla każdego fana kolekcjonerskich, archiwalnych zestawów klocków Lego i nie tylko.
 
+**Galeria:**
+
+- 3550-1: https://a.allegroimg.com/original/11c133/58bb22e545e7b99565d57067fe0f
+
 ---
 
-## 3566 — Lego 3564 Nba Allen Iverson Karl Malone Steve Francis Nowe Figurki
+## 3566 — NBA Collectors #7
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 499.50 zł · EAN: 00673419018463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3566 |
+| Nazwa angielska | NBA Collectors #7 |
+| Nazwa polska | NBA Collectors #7 |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419018463 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1891,11 +2973,26 @@ Unikatowy zestaw klocków LEGO z licencjonowanej serii NBA Collectors zawiera 3 
 
 **Poniżej rzeczywiste zdjęcia zestawu.**
 
+**Galeria:**
+
+- 3566-1: https://a.allegroimg.com/original/111ef5/483301664f3da94c70c473fdff2f
+
 ---
 
-## 3567 — Lego Sports Nba 3567 Pudełko Instrukcja Nba Collectors #8 Nowy Misb Unikat
+## 3567 — NBA Collectors Sacramento Lego
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702014265226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3567 |
+| Nazwa angielska | NBA Collectors #8 |
+| Nazwa polska | NBA Collectors Sacramento Lego |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014265226 |
 
 Przedmiotem sprzedaży jest oryginalny element
 
@@ -1907,11 +3004,27 @@ W przypadku starszych zestawów możliwe są pożółknięcia, szczególnie doty
 
 ZAPRASZAM NA INNE MOJE AUKCJE Z KLOCKAMI LEGO
 
+**Galeria:**
+
+- 3567-1: https://a.allegroimg.com/original/11bf11/dfbcfb97459eb01d59dd235b0878
+
 ---
 
-## 40148 — Lego 40148 Rok Owcy Rok 2015 99 elementów
+## 40148 — Year of the Sheep
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 499.95 zł · EAN: 05702015357128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40148 |
+| Nazwa angielska | Year Of The Sheep |
+| Nazwa polska | Year of the Sheep |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357128 |
 
 **LEGO 40148 Rok Owcy**
 
@@ -1951,11 +3064,27 @@ Wymiary opakowania:
 
 - 14 x 12 x 4,5 cm
 
+**Galeria:**
+
+- 40148-1: https://a.allegroimg.com/original/11c91a/0e5f1c3c48d1910f13565590f9d5
+
 ---
 
-## 40153 — Lego Classic 40153 Urodzinowa dekoracja stołu
+## 40153 — Urodzinowa dekoracja stołu
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 162.00 zł · EAN: 00673419237598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40153 |
+| Nazwa angielska | Birthday Table Decoration |
+| Nazwa polska | Urodzinowa dekoracja stołu |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 673419237598 |
 
 LEGO® 40153 Akcesoria - Urodzinowa dekoracja stołu
  
@@ -1979,11 +3108,26 @@ to kolorowy sposób na wyjątkowe przyjęcie! Może ją zbudować każdy miłoś
 - Idealny prezent dla miłośników zestawów tematycznych LEGO®. 
 - Wymiary: ponad 8 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 40153-1: https://a.allegroimg.com/original/11b78c/6b6188984c279c2e7e2c2a8dbb52
+
 ---
 
-## 40172 — Lego Classic 40172 Kalendarz Z Klocków Lego
+## 40172 — LEGO 51499 KALENDARZ ŚCIENNY 2023 R
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702015868396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40172 |
+| Nazwa angielska | Brick Calendar |
+| Nazwa polska | LEGO 51499 KALENDARZ ŚCIENNY 2023 R |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 29 cm × gł. 7 cm |
+| EAN | 5702015868396 |
 
 Z tym świetnym kalendarzem LEGO® nigdy nie stracisz poczucia czasu. Możesz używać go, gdzie tylko chcesz — w biurze, kuchni, sypialni czy przedpokoju. Zbuduj solidne kostki z cyframi i ustaw na specjalnej podstawce z minifigurką. Codziennie je przekręcaj, żeby wskazywały aktualną datę.
 
@@ -1995,11 +3139,26 @@ Z tym świetnym kalendarzem LEGO® nigdy nie stracisz poczucia czasu. Możesz u
 
 Zestaw klocków LEGO 40172 Kalendarz z klocków został pokazany w 2017 roku i składa się z 278 klocków LEGO®. W zestawie klocków znajdziesz także 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 40172-1: https://a.allegroimg.com/original/01f8b6/430d70ac4d0face2b28fc6fec678
+
 ---
 
-## 40188 — Lego Classic 40188 Lego
+## 40188 — LEGO
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 237.00 zł · EAN: 05702016123876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40188 |
+| Nazwa angielska | Pencil Pot |
+| Nazwa polska | LEGO |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 13 cm × gł. 10 cm |
+| EAN | 5702016123876 |
 
 40188 - STOJAK NA OŁÓWKI
  
@@ -2015,11 +3174,26 @@ Stwórz idealne miejsce do parkowania ołówków, długopisów i linijek za pomo
 - Zawiera instrukcje budowania. 
 - Ma ok. 12 cm wysokości, 13 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 40188-1: https://a.allegroimg.com/original/115365/97ea801346fcace6464b059d0684
+
 ---
 
-## 40228 — nowy Lego Classic 40228 żyrafa Geoffrey & Friends i przyjaciele Misb 2016
+## 40228 — żyrafa
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 137.99 zł · EAN: 05702015597494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40228 |
+| Nazwa angielska | Geoffrey & Friends |
+| Nazwa polska | żyrafa |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597494 |
 
 Cześć!
 
@@ -2037,11 +3211,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 40228-1: https://a.allegroimg.com/original/11ca90/bb93f2284d798bed4f07f9d21800
+
 ---
 
-## 40305 — Lego 40305 Classic Sklep firmowy Lego w mikroskali
+## 40305 — Sklep firmowy LEGO w mikroskali
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702016123548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40305 |
+| Nazwa angielska | LEGO Brand Store |
+| Nazwa polska | Sklep firmowy LEGO w mikroskali |
+| Seria | Classic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123548 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2051,11 +3240,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40305-1: https://a.allegroimg.com/original/11207e/85565c3946dca6e373853ccc8ce8
+
 ---
 
-## 40306 — Lego 40306 Micro Legoland Castle nowy zestaw klocków
+## 40306 — Micro LEGOLAND Castle
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 145.00 zł · EAN: 00673419289863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40306 |
+| Nazwa angielska | LEGOLAND Micro Castle |
+| Nazwa polska | Micro LEGOLAND Castle |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 220 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419289863 |
 
 Witam
 
@@ -2073,11 +3277,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40306-1: https://a.allegroimg.com/original/119591/6e9cd22044cfb23dbd588cfb9bdc
+
 ---
 
-## 40355 — Lego Classic 40355 rok szczura
+## 40355 — rok szczura
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016371376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40355 |
+| Nazwa angielska | Year Of The Rat |
+| Nazwa polska | rok szczura |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 162 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371376 |
 
 LEGO 40355 Rok Szczura
 
@@ -2096,11 +3316,26 @@ Powitaj księżycowy Nowy Rok 2020, budując uroczy model z zestawu LEGO® Iconi
 - To wspaniały prezent dla dzieci i fanów LEGO® z okazji księżycowego Nowego Roku! 
 - Model ma ok. 10 cm wysokości.
 
+**Galeria:**
+
+- 40355-1: https://a.allegroimg.com/original/116340/a5d9ff2f43d5b107c142f2e8058f
+
 ---
 
-## 40359 — Lego Zestaw Ramka ze sklepu Lego 40359
+## 40359 — Ramka ze sklepu LEGO
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 74.15 zł · EAN: 05702016370997 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40359 |
+| Nazwa angielska | Picture Frame |
+| Nazwa polska | Ramka ze sklepu LEGO |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702016370997 |
 
 LEGO Ramka ze sklepu LEGO 40359
 
@@ -2120,11 +3355,27 @@ Ozdób ulubione obrazki motywami LEGO®! Wystarczy, że oprawisz je w ramkę z z
 - Do zestawu są dołączone instrukcje budowania.
 - Ramka w ustawieniu poziomym ma ok. 10 cm wysokości i 15 cm szerokości.
 
+**Galeria:**
+
+- 40359-1: https://a.allegroimg.com/original/11d130/ab3071b34e1cbba27fe1210848ef
+
 ---
 
-## 40382 — Lego 40382 Okolicznościowe Zestaw Tort Urodzinowy
+## 40382 — Tort urodzionowy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 94.45 zł · EAN: 00673419320610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40382 |
+| Nazwa angielska | Birthday Set |
+| Nazwa polska | Tort urodzionowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320610 |
 
 LEGO 40382 OKOLICZNOŚCIOWE - ZESTAW URODZINOWY
 
@@ -2150,11 +3401,27 @@ Znasz jakiegoś fana LEGO®? Zestaw urodzinowy LEGO Iconic 40382 to świetny spo
 - Zestaw liczy 141 elementów i będzie fantastycznym prezentem urodzinowym dla dzieci w wieku od 7 lat. Są w nim też dwie chorągiewki do zbudowania, na których można przykleić cyferki od 0 do 9 z arkusza z dwoma zestawami naklejek,
 - Tort z klocków wraz ze stojącą na nim minifigurką ma ok. 12 cm wysokości, więc na pewno zwróci uwagę gości urodzinowego przyjęcia.
 
+**Galeria:**
+
+- 40382-1: https://a.allegroimg.com/original/113357/ee9dbd6c42faa94402e26f2f9965
+
 ---
 
-## 40423 — Lego Classic 40423 Halloweenowa przejażdżkaq
+## 40423 — Halloweenowa przejażdżka
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702016720259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40423 |
+| Nazwa angielska | Halloween Hayride |
+| Nazwa polska | Halloweenowa przejażdżka |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 10 cm |
+| EAN | 5702016720259 |
 
 InPost Gwarancja NAJSZYBSZEJ WYSYŁKI!
 
@@ -2167,11 +3434,27 @@ Halloweenowa przejażdżka z zestawu 40423 LEGO® Iconic to świetna zabawka, kt
 - Zestaw liczy 147 elementów i będzie doskonałym prezentem dla 7-latków i starszych dzieci, które znajdą w nim dwie minifigurki inspirujące do zabawy w halloweenową imprezę — kierowcę ciągnika z dekoracją kostiumu śmiesznej mumii i dziewczynkę z dekoracją kostiumu kościotrupa. 
 - Ozdobiony dynią łuk wejściowy ma ok. 13 cm wysokości i 10 cm szerokości. Zestaw z ciągnikiem, minifigurkami i akcesoriami będzie się świetnie prezentować jako element kolekcji, a do tego dzieci mogą go łatwo spakować i zabrać z sobą.
 
+**Galeria:**
+
+- 40423-1: https://a.allegroimg.com/original/11b6ca/28549f9b4de5835a044bdb0a84ed
+
 ---
 
-## 40424 — Lego 40424 Zimowa Bitwa Na Śnieżki
+## 40424 — Zabawa Śnieżkami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016720266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40424 |
+| Nazwa angielska | Winter Snowball Fight |
+| Nazwa polska | Zabawa Śnieżkami |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720266 |
 
 Witamy!
 
@@ -2193,11 +3476,26 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 40424-1: https://a.allegroimg.com/original/112225/d35e6b724fa4a137556038fba0cd
+
 ---
 
-## 40450 — Lego 40450 Hołd dla Amelii Earhart
+## 40450 — Hołd dla Amelii Earhart
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016910988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40450 |
+| Nazwa angielska | Amelia Earhart Tribute |
+| Nazwa polska | Hołd dla Amelii Earhart |
+| Seria | Classic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910988 |
 
 LEGO® 40450 Promocyjne - Hołd dla Amelii Earhart
 
@@ -2209,11 +3507,26 @@ Gwarantuję kuloodporną wysyłkę
 
 W razie dodatkowych pytań proszę użyć formularza allegro, w przypadkach pilnych można znaleźć numer kontaktowy na dole ogłoszenia.
 
+**Galeria:**
+
+- 40450-1: https://a.allegroimg.com/original/110dc5/2e9fa93e4e1080a256047daa0a94
+
 ---
 
-## 40463 — Lego Classic 40463 Zajączek Wielkanocny Ozdoba
+## 40463 — Zajączek Wielkanocny
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016910834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40463 |
+| Nazwa angielska | Easter Bunny |
+| Nazwa polska | Zajączek Wielkanocny |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 293 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910834 |
 
 **LEGO Okolicznościowe 40463 - Zajączek wielkanocny**
  
@@ -2224,11 +3537,26 @@ Jeśli szukasz wyjątkowego upominku na Wielkanoc, mamy coś w sam raz dla Ciebi
 - Idealny prezent wielkanocny dla fanów LEGO® w wieku od 8 lat, który składa się z 293 elementów. 
 - Zajączek wielkanocny do zbudowania ma ok. 11 cm wysokości.
 
+**Galeria:**
+
+- 40463-1: https://a.allegroimg.com/original/11fbd2/1ecf5ba64164b3ab8254096acc05
+
 ---
 
-## 40473 — Lego 40473 Legoland Park Wodny w Legolandzie
+## 40473 — Park wodny w LEGOLANDZIE
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016911008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40473 |
+| Nazwa angielska | LEGOLAND Water Park |
+| Nazwa polska | Park wodny w LEGOLANDZIE |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911008 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -2252,11 +3580,27 @@ Zestaw pozwala odtworzyć atmosferę rodzinnej zabawy znanej z parków LEGOLAND.
 
 Przybliżone wymiary opakowania:** 26,2 × 19,0 × 9,2 cm**
 
+**Galeria:**
+
+- 40473-1: https://a.allegroimg.com/original/114482/51f0d3c24598a128416da71dc5d4
+
 ---
 
-## 40493 — Lego 40493 Pająk i nawiedzony dom
+## 40493 — Pająk i nawiedzony dom
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 119.45 zł · EAN: 00673419345637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40493 |
+| Nazwa angielska | Spider & Haunted House Pack |
+| Nazwa polska | Pająk i nawiedzony dom |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419345637 |
 
 40493 LEGO Pająk i nawiedzony dom
 
@@ -2282,11 +3626,27 @@ Młodym miłośnikom zwierząt z pewnością przypadnie do gustu ten kolekcjoner
 - Ten 269-elementowy model ma ok. 8 cm wysokości i zawiera turkusowy szal, ruchomy ogon i ozdobiony kosz dla kociaków.
 - Świetny prezent dla fanów LEGO®, kolekcjonerów modeli BrickHeadz™ i miłośników zwierząt w wieku od 8 lat.
 
+**Galeria:**
+
+- 40493-1: https://a.allegroimg.com/original/11838a/84bd15904147806acb389a3b239d
+
 ---
 
-## 40497 — Lego 40497 Halloweenowa Sowa
+## 40497 — Halloweenowa sowa
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702016988611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40497 |
+| Nazwa angielska | Halloween Owl |
+| Nazwa polska | Halloweenowa sowa |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988611 |
 
 **LEGO 40497 HALLOWEENOWA SOWA**
 
@@ -2304,11 +3664,26 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 40497-1: https://a.allegroimg.com/original/11cee0/bfa857464c25916b9dac675b2df5
+
 ---
 
-## 40512 — Lego Vip Fun And Funky Nr 40512
+## 40512 — Fun and Funky VIP
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 35.00 zł · EAN: 05702017106625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40512 |
+| Nazwa angielska | Fun and Funky VIP Add On Pack |
+| Nazwa polska | Fun and Funky VIP |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017106625 |
 
 POLYBAG LEGO VIP FABRYCZNIE NOWY.
 
@@ -2316,11 +3691,26 @@ Klocki LEGO Promocyjne 40512 - Zabawa i styl - zestaw dodatkowy VIP
 
 Zestaw LEGO Promocyjne - Zabawa i styl - zestaw dodatkowy VIP trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 40512. Zawiera 148 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Promocyjne - Fun and Funky VIP Add On Pack.
 
+**Galeria:**
+
+- 40512-1: https://a.allegroimg.com/original/117818/41ab7a184f178ea2102a368eff23
+
 ---
 
-## 40556 — Lego Classic 40556 Mythica
+## 40556 — Mythica
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702017241814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40556 |
+| Nazwa angielska | Mythica |
+| Nazwa polska | Mythica |
+| Seria | Classic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 520 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241814 |
 
 LEGO® Promotional 40556 LEGOLAND® Mythica
  
@@ -2356,11 +3746,26 @@ Producent: LEGO
 - **wymagany jest montaż**: 1
 - **przelicznik jednostek**: 1
 
+**Galeria:**
+
+- 40556-1: https://a.allegroimg.com/original/118cce/343d348e42a5b80409f459581dd9
+
 ---
 
-## 40570 — Lego 40570 Kot i mysz na Halloween dynia
+## 40570 — Kot i mysz na Halloween
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 94.89 zł · EAN: 05702017241906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40570 |
+| Nazwa angielska | Halloween Cat & Mouse |
+| Nazwa polska | Kot i mysz na Halloween |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241906 |
 
 LEGO 40570 Kot i mysz na Halloween dynia
 
@@ -2374,11 +3779,27 @@ Prezent z okazji Halloween — zestaw konstrukcyjny LEGO® Kot i mysz na Hallowe
 
 Wymiary — model ma ok. 8,5 cm wysokości
 
+**Galeria:**
+
+- 40570-1: https://a.allegroimg.com/original/1139a1/f6077ceb408188a7d41b0fe16f00
+
 ---
 
-## 40571 — Lego 40571 Zimowe niedźwiedzie polarne
+## 40571 — Zimowe niedźwiedzie polarne
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702017241913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40571 |
+| Nazwa angielska | Wintertime Polar Bears |
+| Nazwa polska | Zimowe niedźwiedzie polarne |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241913 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2388,11 +3809,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40571-1: https://a.allegroimg.com/original/11a035/550b9ece4e8c9fedad628a109a09
+
 ---
 
-## 40572 — Lego 40572 Okolicznościowe Pingwin i płatek śniegu
+## 40572 — Pingwin i płatek śniegu
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702017241920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40572 |
+| Nazwa angielska | Penguin & Snowflake |
+| Nazwa polska | Pingwin i płatek śniegu |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241920 |
 
 Klocki LEGO Okolicznościowe 40572 - Pingwin i płatek śniegu
 
@@ -2404,11 +3841,26 @@ Ciesz się Świętami, budując urocze bożonarodzeniowe dekoracje. Pingwin i p�
 
 Zestaw **LEGO Okolicznościowe - Pingwin i płatek śniegu** trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to **40572**. Zawiera 139 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Okolicznościowe - Penguin & Snowflake. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 40572-1: https://a.allegroimg.com/original/11b9f9/84bab8f94c079e46d088d2215769
+
 ---
 
-## 40583 — Lego Architecture 40583 Domy Świata 1
+## 40583 — Domy Świata 1
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702017423562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40583 |
+| Nazwa angielska | Houses of the World 1 |
+| Nazwa polska | Domy Świata 1 |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 10 cm |
+| EAN | 5702017423562 |
 
 Zainspiruj się innymi kulturami i zbuduj pierwszy model z kolekcji LEGO® House Domy świata. Ten dom (40583) to ukłon w stronę budownictwa Południowej Afryki, zawierający charakterystyczne elementy architektoniczne. Ten motyw widoczny jest także we wnętrzu. Modułowa konstrukcja oznacza, że dom można łączyć innymi z tej serii (40590, 40594 and 40599), które są dostępne osobno.
  
@@ -2417,11 +3869,27 @@ Zainspiruj się innymi kulturami i zbuduj pierwszy model z kolekcji LEGO® House
 - Prezent dla podróżników i miłośników architektury – podaruj ten zestaw osobie, która interesuje się różnymi kulturami 
 - Wymiary – model ma 12 cm wysokości, 8 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 40583-1: https://a.allegroimg.com/original/1108bd/a761dda445d8b4069643a498f6db
+
 ---
 
-## 40587 — Lego 40587 Wielkanocny Koszyk Królik Zając
+## 40587 — Wielkanocny Koszyk
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 156.22 zł · EAN: 05702017422138 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40587 |
+| Nazwa angielska | Easter Basket |
+| Nazwa polska | Wielkanocny Koszyk |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 11 cm × gł. 9 cm |
+| EAN | 5702017422138 |
 
 **ZAPRASZAMY DO ZAKUPU**
 
@@ -2450,11 +3918,26 @@ Uczcij Wielkanoc i nadejście wiosny tym uroczym zestawem LEGO® Wielkanocny kos
 - Nadchodzi wiosna – świętuj nadejście wiosny, składając kolekcjonerski model, który stanowi też świetny prezent na Wielkanoc dla dzieci od dziewięciu lat, nastolatków i dorosłych 
 - Wymiary – model ma **13 cm wysokości, 11 cm szerokości i 9 cm głębokości**
 
+**Galeria:**
+
+- 40587-1: https://a.allegroimg.com/original/114f52/4e82c4f145b292f8231b0ff02572
+
 ---
 
-## 40589 — Lego 40589 Plac zabaw ze statkiem pirackim
+## 40589 — Plac zabaw ze statkiem pirackim
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017423883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40589 |
+| Nazwa angielska | Pirate Ship Playground |
+| Nazwa polska | Plac zabaw ze statkiem pirackim |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423883 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -2472,11 +3955,27 @@ Numer magazynowy sprzedawcy: 20260070
 
 Przybliżone wymiary opakowania: **26 x 14 x 7 centymetrów**
 
+**Galeria:**
+
+- 40589-1: https://a.allegroimg.com/original/11b255/933f2d3c4e08a8fb4268ac5f9bc5
+
 ---
 
-## 40604 — Lego Gwp 40604 Świąteczne bombki na choinkę 3 sztuki Vip
+## 40604 — zestaw świątecznych ozdób
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 161.91 zł · EAN: 05702017471181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40604 |
+| Nazwa angielska | Christmas Decor Set |
+| Nazwa polska | zestaw świątecznych ozdób |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 182 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702017471181 |
 
 Weź udział w magicznym świątecznym projekcie i zbuduj trzy kolorowe dekoracje świąteczne z zestawu LEGO Zestaw świątecznych ozdób. Został on zaprojektowany przez legendę LEGO, Chrisa McVeigha, który jest znany z prezentowania swoich niesamowitych projektów świątecznych w mediach społecznościowych, i obejmuje modele w trzech świątecznych kolorach, które można ze sobą łączyć. Wykonaj ten projekt z bliskimi, aby dać początek wyjątkowym wspomnieniom, a następnie dodaj dekoracje do swojej świątecznej kolekcji LEGO.Stan opakowania: 9/10
 
@@ -2487,11 +3986,27 @@ Weź udział w magicznym świątecznym projekcie i zbuduj trzy kolorowe dekoracj
 
 Zestaw LEGO Okolicznościowe - Zestaw świątecznych ozdób trafił do sprzedaży w 2023 roku. Numer katalogowy tego zestawu to 40604. Zawiera 182 klocków LEGO.Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 40604-1: https://a.allegroimg.com/original/11c411/b03e25f142eca3f3731c52ce7c1f
+
 ---
 
-## 40641 — Lego 40641 Tort urodzinowy
+## 40641 — Tort urodzinowy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017470368 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40641 |
+| Nazwa angielska | Birthday Cake |
+| Nazwa polska | Tort urodzinowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm × gł. 8 cm |
+| EAN | 5702017470368 |
 
 Wnieś odrobinę magii LEGO® do urodzinowego przyjęcia dzięki zestawowi Tort urodzinowy LEGO (40641). Ten kolorowy kawałek tortu zawiera siedem świeczek do zbudowania i otwiera się, ukazując przytulny pokój z dwoma minifigurkami. Rozłóż kawałek tortu, aby stworzyć pokryte lukrem wzgórze do zjeżdżania na sankach. Ten fajny tort jest idealny do zabawy i ozdoby. Można go budować i przebudowywać co roku, aby uczcić te wyjątkowe dni.
 
@@ -2501,11 +4016,26 @@ Wnieś odrobinę magii LEGO® do urodzinowego przyjęcia dzięki zestawowi Tort 
 
 - Wymiary — Tort urodzinowy LEGO® ma 9 cm wysokości, 7 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40641-1: https://a.allegroimg.com/original/11ed6b/9672d6894f7cafd52ca9a02901f1
+
 ---
 
-## 40678 — Lego(r) Iconic 40678 Kalendarz Festiwalowy
+## 40678 — LEGO Iconic 40678 Kultowy kalendarz świąteczny
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 88.99 zł · EAN: 05702017596747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40678 |
+| Nazwa angielska | Festival Calendar |
+| Nazwa polska | LEGO Iconic 40678 Kultowy kalendarz świąteczny |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017596747, 5702017872063 |
 
 LEGO(R) ICONIC 40678 Kalendarz festiwalowy
 
@@ -2519,11 +4049,26 @@ Zachęć dzieci do kreatywnej zabawy podczas obchodzenia dwóch świąt dzięki 
 
 Ten zestaw konstrukcyjny z kalendarzem LEGO na 2025 rok daje dwie możliwości zbudowania modelu z okazji dwóch ważnych świąt Nowego Roku księżycowego i Święta Smoczych Łodzi. Model z okazji Nowego Roku księżycowego obejmuje dwie minifigurki i lampion. Model z okazji Święta Smoczych Łodzi zawiera głowę i ogon smoka LEGO oraz elementy imitujące wodę. Inne symboliczne elementy to petardy i czerwone koperty. Kalendarz LEGO obraca się, dzięki czemu dzieci mogą ustawić prawidłową datę. Zbudowany kalendarz stanowi ciekawy element dekoracji do domu w stylu LEGO, który można z dumą ustawić w każdym pomieszczeniu.
 
+**Galeria:**
+
+- 40678-1: https://a.allegroimg.com/original/2927c5/5f1de7ea4419968bc2823a235a8d
+
 ---
 
-## 40683 — Lego 40683 Kompozycja Kwiatowa Na Kratce
+## 40683 — Kompozycja kwiatowa na kratce
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 98.50 zł · EAN: 05702017596761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40683 |
+| Nazwa angielska | Flower Trellis Display |
+| Nazwa polska | Kompozycja kwiatowa na kratce |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 440 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 17 cm × gł. 5 cm |
+| EAN | 5702017596761 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2538,11 +4083,26 @@ Niech Twoja kreatywność zakiełkuje dzięki wiosennemu prezentowi LEGO Kompozy
 - Wiosenny prezent dla dzieci — ten zestaw to świetny prezent dla początkujących florystów w wieku od 12 lat lub upominek na walentynki albo Dzień Matki 
 - Wymiary — ozdoba złożona z 440 elementów ma 18 cm wysokości, 17 cm szerokości i 5 cm głębokości
 
+**Galeria:**
+
+- 40683-1: https://a.allegroimg.com/original/114fb8/91340bcc4408bce8f1359ef2a47b
+
 ---
 
-## 40689 — Lego 40689 Pokaz fajerwerków
+## 40689 — Pokaz fajerwerków
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 43.99 zł · EAN: 05702017597904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40689 |
+| Nazwa angielska | Firework Celebrations |
+| Nazwa polska | Pokaz fajerwerków |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 16 cm × gł. 7 cm |
+| EAN | 5702017597904 |
 
 Podziwiaj iskrzącą się kreatywność siedmiolatków i starszych dzieci podczas budowania zestawu LEGO® Pokaz fajerwerków (40689), który będzie świetnym pomysłem na prezent. Odtwórz magię pokazu sztucznych ogni z kolorową scenerią, obracającymi się fajerwerkami i startującą rakietą. Minifigurki osoby dorosłej i dziecka ożywiają całość, a zabawę urozmaicają akcesoria, takie jak aparat i zimne ognie. Pamiętaj, by minifigurki zachowały ostrożność i ustaw je w bezpiecznej odległości, aby mogły z radością podziwiać pokaz!
 
@@ -2554,11 +4114,26 @@ Podziwiaj iskrzącą się kreatywność siedmiolatków i starszych dzieci podcza
 
 - Wymiary — ten 184-elementowy model ma 14 cm wysokości, 16 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40689-1: https://a.allegroimg.com/original/11062e/dbdab2e94d809a862b7617a0082d
+
 ---
 
-## 40690 — Lego Okolicznościowe 40690 Hołd dla książek Julesa Verne’a
+## 40690 — Hołd dla książek Julesa Verne’a
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017598635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40690 |
+| Nazwa angielska | Tribute to Jules Verne's Books |
+| Nazwa polska | Hołd dla książek Julesa Verne’a |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 15 cm × gł. 14 cm |
+| EAN | 5702017598635 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2574,11 +4149,26 @@ Dzieci w wieku od 12 lat mogą teraz uczcić ulubionego autora, budując kolekcj
 - Pomysł na prezent – ten zestaw to świetny pomysł na prezent dla chłopców i dziewczynek w wieku od 12 lat oraz dorosłych miłośników książek, historii lub podróży 
 - Wymiary — ten 351-elementowy zestaw ma 11 cm wysokości, 15 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 40690-1: https://a.allegroimg.com/original/113e02/4274144a40f085a0be2b4f4a9fcd
+
 ---
 
-## 40719 — Lego 40719 Tradycyjny zestaw szachów
+## 40719 — LEGO 40719 - Tradycyjny zestaw szachów
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 357.00 zł · EAN: 05702017598239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40719 |
+| Nazwa angielska | Traditional Chess Set |
+| Nazwa polska | LEGO 40719 - Tradycyjny zestaw szachów |
+| Seria | Classic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598239 |
 
 Zapraszam do zakupu zestawu Lego:
 
@@ -2603,11 +4193,27 @@ Ten zestaw szachów do zbudowania to fajna wersja uwielbianej rodzinnej gry plan
 - Ozdoba na biurko – po zbudowaniu zestaw będzie wspaniałą ozdobą sypialni lub biura, ale można go także podzielić na dwie części dla łatwego przechowywania
 - Rozrywka dla całej rodziny – członkowie rodziny spędzą wiele godzin na tworzeniu wspomnień i wspólnym uczeniu się nowych zasad dwóch klasycznych gier
 
+**Galeria:**
+
+- 40719-1: https://a.allegroimg.com/original/11bb0e/2eef10fa4d9abbfecc91cbe4a76d
+
 ---
 
-## 40756 — Lego Classic 40756 Węzły szczęścia Limited Edition
+## 40756 — Węzły szczęścia
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702017830162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40756 |
+| Nazwa angielska | Lucky Knots |
+| Nazwa polska | Węzły szczęścia |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 317 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702017830162 |
 
 **LEGO 40756 CHIŃSKIE WĘZŁY SZCZĘŚCIA**
 
@@ -2629,11 +4235,27 @@ Seria zestawów LEGO dla dorosłych zapewnia satysfakcjonujący i wciągający p
 
 - ten 317-elementowy zestaw ma 21 cm wysokości, 13 cm szerokości i 3 cm głębokości
 
+**Galeria:**
+
+- 40756-1: https://a.allegroimg.com/original/11578a/952367ea49a8aee4aa67685014c7
+
 ---
 
-## 40764 — Lego Ideas 40764 Niespodzianka zajączka wielkanocnego
+## 40764 — Niespodzianka zajączka wielkanocnego
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 196.49 zł · EAN: 05702017830247 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40764 |
+| Nazwa angielska | Easter Bunny Surprise |
+| Nazwa polska | Niespodzianka zajączka wielkanocnego |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm × gł. 11 cm |
+| EAN | 5702017830247 |
 
 Klocki LEGO Okolicznościowe 40764 - Niespodzianka zajączka wielkanocnego
  
@@ -2649,11 +4271,27 @@ Klocki LEGO Okolicznościowe 40764 - Niespodzianka zajączka wielkanocnego
 
 Zestaw LEGO Okolicznościowe - Niespodzianka zajączka wielkanocnego trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 40764. Zawiera 217 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Okolicznościowe - Easter Bunny Surprise. Grupa wiekowa tego produktu to 7+
 
+**Galeria:**
+
+- 40764-1: https://a.allegroimg.com/original/11d30e/9c2e2578412aa4215a263b296426
+
 ---
 
-## 40780 — Lego 40780 Tort urodzinowy
+## 40780 — Tort urodzinowy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017830674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40780 |
+| Nazwa angielska | Birthday Cake |
+| Nazwa polska | Tort urodzinowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702017830674 |
 
 Uczcij ten wielki dzień kolorowym Tortem urodzinowym LEGO® (40780) z otwieranym środkiem kryjącym małą urodzinową scenkę i minifigurkę. Zabawkowy tort to zestaw, który zapewni siedmiolatkom i starszym dzieciom mnóstwo frajdy, nawet po zakończonym przyjęciu. Ozdobny tort urodzinowy ma czekoladową polewę, kolorową posypkę oraz kawałki czekolady i pomarańczy na wierzchu. Po otwarciu tortu ukazuje się scenka ze stolikiem, tortem i prezentem oraz minifigurka z dwiema różnymi fryzurami.
  
@@ -2665,11 +4303,26 @@ Uczcij ten wielki dzień kolorowym Tortem urodzinowym LEGO® (40780) z otwierany
 - Prezent urodzinowy dla dzieci – ten zabawkowy tort to świetny pomysł na prezent na każdą okazję dla siedmiolatków i starszych dzieci 
 - Wymiary – ten 160-elementowy zestaw ma 8 cm wysokości, 8 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40780-1: https://a.allegroimg.com/original/117a12/0fe9156e48828d90d7c9df04f687
+
 ---
 
-## 40784 — Lego Okolicznościowe 40784 Diorama z Afrykańską Sawanną
+## 40784 — Diorama z afrykańską sawanną
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 61.99 zł · EAN: 05702017830834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40784 |
+| Nazwa angielska | African Savanna Diorama |
+| Nazwa polska | Diorama z afrykańską sawanną |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 287 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830834 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2687,11 +4340,26 @@ LEGO Okolicznościowe 40784 Diorama z Afrykańską Sawanną
 
 - Wymiary — 287-elementowy zestaw z modelem **o wysokości 12 cm, szerokości 13 cm i głębokości 13 cm**
 
+**Galeria:**
+
+- 40784-1: https://a.allegroimg.com/original/1160d5/069a87f245cca913059811515cf4
+
 ---
 
-## 40785 — Lego 40785 Diorama Zorza Polarna zimowy krajobraz klocki zestaw Nowe
+## 40785 — Diorama z zorzą polarną
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702017830988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40785 |
+| Nazwa angielska | Northern Lights Diorama |
+| Nazwa polska | Diorama z zorzą polarną |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 332 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702017830988 |
 
 Klocki LEGO Inne 40785 - Diorama z zorzą polarną
 
@@ -2715,11 +4383,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 40785-1: https://a.allegroimg.com/original/11a7c7/27ccfa5246a1b235e59c217a902b
+
 ---
 
-## 40809 — * Lego Iconic Świąteczna chatka z piernika 40809
+## 40809 — Świąteczna chatka z piernika
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 140.89 zł · EAN: 05702017830995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40809 |
+| Nazwa angielska | Festive Gingerbread House |
+| Nazwa polska | Świąteczna chatka z piernika |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 498 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12,5 cm × gł. 11,5 cm |
+| EAN | 5702017830995 |
 
 LEGO ICONIC - Świąteczna chatka z piernika 40809
  
@@ -2746,11 +4429,26 @@ Małe elfy i piekarze będą się świetnie bawić, tworząc zabawkową chatkę 
 - LEGO na gwiazdkę - świąteczna zabawa klockami będzie trwała dalej dzięki innym zestawom i ozdobom świątecznym LEGO (sprzedawanym osobno) 
 - Wymiary - ten 498-elementowy zestaw z chatką z piernika ma 15 cm wysokości, 12,5 cm szerokości i 11,5 cm głębokości
 
+**Galeria:**
+
+- 40809-1: https://a.allegroimg.com/original/11c28f/b8e975a14213a1bbe2fec82f5018
+
 ---
 
-## 40812 — * Lego Iconic Ozdoby z bałwankami 40812
+## 40812 — Ozdoby z bałwankami
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 43.98 zł · EAN: 05702017831008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40812 |
+| Nazwa angielska | Snowman Ornaments |
+| Nazwa polska | Ozdoby z bałwankami |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017831008 |
 
 LEGO ICONIC - Ozdoby z bałwankami 40812
  
@@ -2777,29 +4475,26 @@ Dziewczynki i chłopcy będą się świetnie bawić, budując bałwanki i podziw
 - LEGO na gwiazdkę - świąteczna zabawa klockami będzie trwała dalej dzięki innym zestawom i ozdobom świątecznym LEGO (sprzedawanym osobno) 
 - Wymiary - zestaw konstrukcyjny składający się ze 168 elementów zawiera dużego bałwana o wysokości 10 cm i małego bałwanka o wysokości 8,5 cm
 
----
+**Galeria:**
 
-## 40817 — Lego 40817 Żółta walizka podróżna
-
-*Kategoria: Classic · cena Allegro (2026-08-17): 77.49 zł · EAN: 05702017887821 · in stock*
-
-Spakuj paszport i przygotuj się na przygodę dzięki zestawowi konstrukcyjnemu LEGO® Żółta walizka podróżna (40817). Ten zestaw o tematyce wakacyjnej to świetny prezent dla dzieci w wieku od siedmiu lat i wszystkich miłośników podróży. Miniaturowa walizka ma wysuwaną rączkę, obrotowe kółka i zawieszkę. Otwórz walizkę, aby spakować aparat, kartę pokładową, szczoteczkę do zębów i paszport — spakowanie wszystkiego to naprawdę wielka frajda! Zestaw zawiera także arkusz naklejek, aby spersonalizować zewnętrzną część walizki.
-
- 
-- Model walizki z ciekawymi detalami — ta zabawkowa walizka zawiera wiele akcesoriów o tematyce podróżniczej i stanowi świetny prezent dla dzieci i dorosłych, którzy kochają podróże, odkrywanie nowych miejsc i wakacje 
-- Obrotowe kółka — kółka tej miniaturowej walizki obracają się o 360 stopni, tak jak w prawdziwej walizce, a inne realistyczne detale zestawu obejmują chowaną rączkę i zawieszkę na bagaż 
-- Miniaturowa otwierana walizka — zajrzyj do środka walizki LEGO®, aby znaleźć niezbędne rzeczy,takie jak aparat fotograficzny, kartę pokładową, szczoteczkę do zębów i paszport 
-
- 
-- Spersonalizuj swoją walizkę — ten zestaw LEGO® zawiera arkusz naklejek, dzięki którym możesz spersonalizować zewnętrzną część walizki i sprawić, że wyróżni się na tle innych 
-- Prezent dla miłośników podróży — ten model to świetny pomysł na prezent dla dzieci w wieku od siedmiu lat lub dla każdego, kto lubi fajne zestawy LEGO® i pamiątki z podróży 
-- Wymiary — 184-elementowy zestaw z modelem o wysokości 10 cm, szerokości 9 cm i głębokości 4 cm
+- 40812-1: https://a.allegroimg.com/original/11cf25/613b8edb4dd39a67da5b521f8dba
 
 ---
 
-## 40908 — Lego 40908 Restauracje świata: Grecja
+## 40908 — Restauracje świata: Grecja
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 160.00 zł · EAN: 05702018071885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40908 |
+| Nazwa angielska | Restaurants of the World: Greece |
+| Nazwa polska | Restauracje świata: Grecja |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702018071885 |
 
 **LEGO 40908 Restauracje świata: Grecja**
 
@@ -2820,11 +4515,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40908-1: https://a.allegroimg.com/original/11943e/a328995e4dc78ed739431b8d6cbb
+
 ---
 
-## 40915 — Lego 40915 Taniec lwa
+## 40915 — Taniec lwa
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702018071663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40915 |
+| Nazwa angielska | Lion Dance |
+| Nazwa polska | Taniec lwa |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm × gł. 13 cm |
+| EAN | 5702018071663 |
 
 **LEGO 40915 Taniec lwa**
 
@@ -2845,38 +4555,89 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40915-1: https://a.allegroimg.com/original/114c05/b354d37c4823b1bb270cd2e2e530
+
 ---
 
-## 42136 — Lego Technic Traktor John Deere 9620R 4WD 42136 Dla Dzieci
+## 42136 — Traktor John Deere 9620R 4WD
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 249.97 zł · EAN: 50702019156574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42136 |
+| Nazwa angielska | John Deere 9620R 4WD Tractor |
+| Nazwa polska | Traktor John Deere 9620R 4WD |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 390 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 50702019156574, 5702017156576 |
+
+Lego Technic John Deere 42136 Traktor Ciągnik Zestaw i Ebook 4w1
+
+LEGO
 
 LEGO Technic Traktor John Deere 9620R 4WD 42136
  
-Ośmiolatkom i starszym dzieciom zafascynowanym zabawkowymi traktorami spodoba się zestaw konstrukcyjny LEGO® Technic Traktor John Deere 9620R 4WD (42136). Zaprojektowany we współpracy z firmą John Deere traktor z przyczepą ma sporo realistycznych funkcji. Wyposażony jest w ogromne koła, przegubowy układ kierowniczy i kabinę kierowcy z obracającym się fotelem.
+Ośmiolatkom i starszym dzieciom zafascynowanym zabawkowymi traktorami spodoba się zestaw konstrukcyjny LEGO® Technic Traktor John Deere 9620R 4WD (42136). Zaprojektowany we współpracy z firmą John Deere traktor z przyczepą ma sporo realistycznych funkcji.
 
 Wyzwanie konstrukcyjne i zabawa w odgrywanie rólMłodzi miłośnicy traktorów będą zachwyceni możliwością zbudowania własnego traktora John Deere, a podczas składania modelu poznają wszystkie szczegóły działania tej maszyny. Przyczepę można przechylić, co ułatwia przewożenie ciężkich ładunków. Koła nadają się do jazdy po trudnym terenie, a dyszel ma dodatkowy zawias, dzięki czemu przyczepa może z łatwością jechać w górę i w dół stoków.
  
 Wprowadzenie do świata inżynieriiModele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii.
 
-- Zaawansowany model dla fanów traktorów — budując ciekawy zestaw LEGO® Technic Traktor John Deere 9620R 4WD (42136), dzieci poznają wiele fascynujących funkcji inżynieryjnych
-- Owoc współpracy — projektanci LEGO® ściśle współpracowali z firmą John Deere, by przygotować model traktora z realistycznymi funkcjami i wyglądem
-- Mnóstwo autentycznych funkcji — inspirowany prawdziwą maszyną model LEGO® Technic ma układ kierowniczy, kabinę kierowcy z obracającym się fotelem oraz przyczepę z wywrotką
-- Przyczepa z wywrotką do zabawy — wywrotkę można przechylić, co pomaga transportować ładunki podczas zabawy, a koła przyczepy dostosowane są do jazdy po każdym terenie
-- Przegubowy układ kierowniczy — ruch tego zabawkowego traktora John Deere inspirowany jest działaniem prawdziwej maszyny
-- Pomysł na prezent dla młodych miłośników traktorów — model konstrukcyjny traktora dla ośmiolatków i starszych dzieci
+ 
+- Zaawansowany model dla fanów traktorów — budując ciekawy zestaw LEGO® Technic Traktor John Deere 9620R 4WD (42136), dzieci poznają wiele fascynujących funkcji inżynieryjnych 
+- Owoc współpracy — projektanci LEGO® ściśle współpracowali z firmą John Deere, by przygotować model traktora z realistycznymi funkcjami i wyglądem 
+- Przyczepa z wywrotką do zabawy — wywrotkę można przechylić, co pomaga transportować ładunki podczas zabawy, a koła przyczepy dostosowane są do jazdy po każdym terenie 
+- Przegubowy układ kierowniczy — ruch tego zabawkowego traktora John Deere inspirowany jest działaniem prawdziwej maszyny 
+- Pomysł na prezent dla młodych miłośników traktorów — model konstrukcyjny traktora dla ośmiolatków i starszych dzieci 
 
  
 - Wymiary — traktor z przyczepą ma ok. 9 cm wysokości, 35 cm długości i 9 cm szerokości 
 - Nauka przez zabawę — w świecie zestawów LEGO® Technic zaawansowane zabawki konstrukcyjne czekają na fanów budowania z LEGO, którzy są gotowi na trudniejsze wyzwania 
 - Materiały najwyższej jakości — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
-- Bezpieczeństwo to nasz priorytet — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
+
+- **Stan:** Nowy
+- **Marka:** LEGO
+- **Numer produktu:** 42136
+- **Wiek dziecka:** 8 lat +
+- **Nazwa zestawu:** Traktor John Deere 9620R 4WD
+- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci poniżej określonego wieku. Do używania pod nadzorem osoby dorosłej|Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
+- **Minimalny wiek dziecka:** 8
+- **Bohater / Bajka:** brak
+- **Płeć:** chłopcy|dziewczynki
+- **Liczba elementów:** 390
+- **Materiał:** plastik
+- **Certyfikaty, opinie, atesty:** CE
+- **Waga produktu z opakowaniem jednostkowym:** 0.65
+- **Kod taryfy celnej:** 95030035
+- **EAN:** 5702017156576
+
+**Galeria:**
+
+- 42136-1: https://a.allegroimg.com/original/05e838/c8da5cec4d82bb189621114b18cf
+- 42136-2: https://a.allegroimg.com/original/113fdf/1caff63b4ba0a289141581b2cef6
 
 ---
 
-## 4591 — nowy Lego Racers 4591 Star Strike Misb 2002
+## 4591 — Star Strike
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 80.10 zł · EAN: 05702014152502 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4591 |
+| Nazwa angielska | Star Burst |
+| Nazwa polska | Star Strike |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2002 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152502 |
 
 Cześć!
 
@@ -2896,29 +4657,76 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4591-1: https://a.allegroimg.com/original/1136b6/a1989fae4117a2d5567f7bc68f3b
+
 ---
 
-## 4888 — Lego 4888 Zdobywcy mórz
+## 4888 — Zdobywcy mórz
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 1399.99 zł · EAN: 05702014448100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4888 |
+| Nazwa angielska | Ocean Odyssey |
+| Nazwa polska | Zdobywcy mórz |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 623 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014448100 |
 
 Ruszaj na podwodną wyprawę z flotą nowoczesnych łodzi podwodnych i kapsuł badawczych. Zbuduj wszystkie główne modele jednocześnie, aby odkryć niesamowite funkcje i dodatki. Sprawdź też, jakie propozycje nowych wspaniałych modeli i rozwiązań kryje Książeczka z pomysłami lub zanurz się w głębiny wyobraźni, aby wymyślić własne podwodne stworzenia.
 
+**Galeria:**
+
+- 4888-1: https://a.allegroimg.com/original/11fbad/8013bc4845f2b4015ea4a9a455dd
+
 ---
 
-## 5004936 — Lego 5004936 Iconic Cave set jaskiniowcy Minifigurki Zestaw 2 sztuki
+## 5004936 — LEGO 5004936 Promo Iconic Cave set jaskiniowcy jaskinia Minifigurki Zestaw
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 139.00 zł · EAN: 00673419274203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004936 |
+| Nazwa angielska | Iconic Cave |
+| Nazwa polska | LEGO 5004936 Promo Iconic Cave set jaskiniowcy jaskinia Minifigurki Zestaw |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274203 |
 
 Klocki lego w stanie jak na zdj.
 
 Minifigurki jaskiniowca i jaskiniowej kobiety LEGO® zapraszają do prehistorycznej zabawy! W zestawie znajdziesz maczugi oraz jaskiniowy domek z kartonu, który może też służyć za praktyczne pudełeczko.
 
+**Galeria:**
+
+- 5004936-1: https://a.allegroimg.com/original/11600e/ca176238441d91db58b13fe6b9f3
+
 ---
 
-## 5005253 — Lego Ozdoba Choinkowa Renifer na Choinkę 5005253 Święta bombka worek Misb
+## 5005253 — 5005253
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419294065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005253 |
+| Nazwa angielska | Reindeer Head |
+| Nazwa polska | 5005253 |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294065 |
 
 Nowa, fabrycznie zamknięta ozdoba choinkowa do zbudowania z klocków Lego. W komplecie piękny zielony woreczek, idealny na prezent! Zestaw zawiera 27 klocków w tym unikatowy klocek z nadrukiem "2018" który występował tylko w tym zestawie. Rozmiar zielonego woreczka na płasko to około 8 x 14,5cm
 
@@ -2930,11 +4738,26 @@ Numer:** 5005253**
 
 Nazwa:** Christmas Tree Ornament (Bag with Reindeer) polybag**
 
+**Galeria:**
+
+- 5005253-1: https://a.allegroimg.com/original/11053a/e5f73143406a9bbd503a685e7dca
+
 ---
 
-## 5007685 — Lego 5007685 Zestaw do pieczenia Lego
+## 5007685 — Zestaw do pieczenia LEGO
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 139.50 zł · EAN: 05702017494425 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007685 |
+| Nazwa angielska | Baking Set |
+| Nazwa polska | Zestaw do pieczenia LEGO |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017494425 |
 
 Oferta sprzedaży nowego zestawu foremek do pieczenia Lego.
 
@@ -2944,11 +4767,26 @@ Zestaw do pieczenia LEGO (5007685) pomoże Ci zasmakować ducha Świąt. W kompl
 - Silikonowa mata pozwala upiec ciastka z 6 różnymi buźkami LEGO
 - Ten liczący 4 elementy model jest odpowiedni dla dzieci od szóstego roku życia.
 
+**Galeria:**
+
+- 5007685-1: https://a.allegroimg.com/original/1188ce/5fd13b4f4286a33d958d7eea30b7
+
 ---
 
-## 5010053 — Lego 5010053 Samolot Retro Town Airplane klocki zestaw Nowy
+## 5010053 — Samolot
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702018229552 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5010053 |
+| Nazwa angielska | — |
+| Nazwa polska | Samolot |
+| Seria | Classic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 20 cm |
+| EAN | 5702018229552 |
 
 Klocki LEGO Inne 5010053 - Samolot
 
@@ -2966,11 +4804,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5010053-1: https://a.allegroimg.com/original/1171cb/898aa5964090957cc3945009ba69
+
 ---
 
-## 5015 — nowy 5015 Lego Sports deskorolka polybag skate skater Misb 2003
+## 5015 — Skateboard Bill polybag
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702014366534 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5015 |
+| Nazwa angielska | Skateboard Bill |
+| Nazwa polska | Skateboard Bill polybag |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014366534 |
 
 Cześć!
 
@@ -2988,11 +4841,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5015-1: https://a.allegroimg.com/original/11026a/f6d00a5946b8b1fdcb742c6c4e88
+
 ---
 
-## 6177 — Lego 6177 Podstawowe klocki Deluxe Nowe
+## 6177 — 650
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702014518032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6177 |
+| Nazwa angielska | Basic Bricks Deluxe |
+| Nazwa polska | 650 |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2008 |
+| Liczba elementów | 650 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518032 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3002,11 +4870,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 6177 Podstawowe klocki LEGO® - Deluxe ** został pokazany w 2008 roku i składa się z 650 klocków LEGO®. Zestaw przeznaczony jest dla dzieci powyżej 4 roku życia.
 
+**Galeria:**
+
+- 6177-1: https://a.allegroimg.com/original/113de3/e55958314483be5e3ecc634e0fdb
+
 ---
 
-## 6373620 — Lego 6373620 Statek bujany Vip
+## 6373620 — Statek bujany
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017124773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6373620 |
+| Nazwa angielska | — |
+| Nazwa polska | Statek bujany |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017124773 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3016,11 +4899,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 6373620-1: https://a.allegroimg.com/original/114b26/da5884324e6bb17e9cb0ff37231d
+
 ---
 
-## 6387808 — Lego Classic 6387808 Latający Samochód
+## 6387808 — Latający Samochód do Przebudowywania
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 37.50 zł · EAN: 05702017199184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6387808 |
+| Nazwa angielska | — |
+| Nazwa polska | Latający Samochód do Przebudowywania |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017199184 |
 
 Witamy!
 
@@ -3042,11 +4940,26 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 6387808-1: https://a.allegroimg.com/original/11bf45/a2b71e1548ef812fb2e0e6b8487c
+
 ---
 
-## 6432430 — Lego Classic 6432430 Pirate Adventure Ride
+## 6432430 — Pirate Adventure Ride
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017435428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6432430 |
+| Nazwa angielska | — |
+| Nazwa polska | Pirate Adventure Ride |
+| Seria | Classic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017435428 |
 
 UNIKAT LEGO 6432430 Pirate Adventure Ride – Limitowana edycja dla kolekcjonerów!
 
@@ -3060,11 +4973,27 @@ Dlaczego musisz go mieć?
 - Dbałość o detale: Mimo kompaktowych rozmiarów (168 klocków), zestaw zachwyca dopracowaną formą – od pirackiej flagi, przez uroczy statek, aż po detale samego automatu.
 - Minifigurka w zestawie: Twój pokład nie będzie pusty! W pudełku znajdziesz uśmiechniętego pirata, gotowego na każdą morską wyprawę
 
+**Galeria:**
+
+- 6432430-1: https://a.allegroimg.com/original/11cfbe/0090bd224d998119ee0bff3effc5
+
 ---
 
-## 66745 — Klocki Lego 66745 Classic 333 neonowe klocki Duża płytka
+## 66745 — 2w1 Bundle Pack
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702017491127 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66745 |
+| Nazwa angielska | Classic Value Pack |
+| Nazwa polska | 2w1 Bundle Pack |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 334 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017491127 |
 
 CAR
  
@@ -3087,11 +5016,26 @@ Dzięki zestawom LEGO City dzieci znajdą się w samym środku akcji. Pełne rea
 - Ciekawe cechy i funkcje — dzieci mogą wystrzeliwać elementy LEGO® z wyrzutni guacamole lub zrzucać zabawkową rybę ze skrzyni ze skarbami, aby spowolnić przeciwnika i wygrać wyścig 
 - Prezent na każdą okazję — ten zestaw wyścigowy z monster truckiem to świetny prezent na urodziny, święta lub z innej okazji dla dzieci i fanów
 
+**Galeria:**
+
+- 66745-1: https://a.allegroimg.com/original/11b183/960aa4c04d90882667c07758f26d
+
 ---
 
-## 71343 — nowy Lego Dimensions 71343 The Powerpuff Girls Atomówka Brawurka Misb 2017
+## 71343 — The Powerpuff Girls Fun Pack
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 139.90 zł · EAN: 05051892202589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71343 |
+| Nazwa angielska | The Powerpuff Girls Fun Pack |
+| Nazwa polska | The Powerpuff Girls Fun Pack |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892202589 |
 
 Cześć!
 
@@ -3109,11 +5053,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 71343-1: https://a.allegroimg.com/original/115b61/2d877ae44ed3b81c3a5b9957945e
+
 ---
 
-## 7325 — Lego Pharaoh's Quest 7325 – Statua Przeklętego Kobry
+## 7325 — Przeklęta statuetka kobry
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 800.00 zł · EAN: 05702014734876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7325 |
+| Nazwa angielska | Cursed Cobra Statue |
+| Nazwa polska | Przeklęta statuetka kobry |
+| Seria | Classic |
+| Grupa wiekowa | 9 m + |
+| Rok wydania | 2011 |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734876 |
 
 - **LEGO Pharaoh's Quest 7325 – Statua Przeklętego Kobry** to ekscytujący zestaw z serii **Pharaoh’s Quest**, w którym dzielny odkrywca **Jake Raines** musi zmierzyć się z gigantycznym, przeklętym wężem, by zdobyć jeden z sześciu starożytnych artefaktów potrzebnych do powstrzymania złowrogiego faraona.
 W centrum zestawu znajduje się:
@@ -3132,11 +5091,26 @@ Złoty artefakt (klejnot), broń, skrzynie i tematyczne dekoracje egipskie.
 
 Zestaw składa się z **213 elementów** i jest przeznaczony dla dzieci w wieku od **7 do 14 lat**. Doskonale nadaje się do odgrywania przygodowych scenariuszy i stanowi świetne uzupełnienie całej serii Pharaoh’s Quest.
 
+**Galeria:**
+
+- 7325-1: https://a.allegroimg.com/original/117457/ba71a31a4515bf0c49093ea00b43
+
 ---
 
-## 79100 — Lego Teenage Mutant Ninja Turtles 79100 Ucieczka z lab. Kraanga Nowe
+## 79100 — Ucieczka z laboratorium Kraanga
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702014972452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79100 |
+| Nazwa angielska | Kraang Lab Escape |
+| Nazwa polska | Ucieczka z laboratorium Kraanga |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702014972452 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3156,11 +5130,27 @@ Pokaż złoczyńcom, jak sprytny może być żółw! Kraang pojmał Michelangela
 - Cela ma ok. 6 cm wysokości, 3 cm długości i 5 cm szerokości.
 - Machina krocząca ma ok. 6 cm wysokości, 9 cm szerokościi 9 cmdługości.
 
+**Galeria:**
+
+- 79100-1: https://a.allegroimg.com/original/115875/3309ea6d4784aced866bbea69b43
+
 ---
 
-## 80110 — Lego 80110 M Kolekcjonerski Na Nowy Rok Księżycowy
+## 80110 — Model kolekcjonerski na nowy rok księżycowy
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702017415611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80110 |
+| Nazwa angielska | Lunar New Year Display |
+| Nazwa polska | Model kolekcjonerski na nowy rok księżycowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 872 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 21 cm × gł. 8 cm |
+| EAN | 5702017415611 |
 
 LEGO 80110 Model kolekcjonerski na nowy rok księżycowy
 
@@ -3179,11 +5169,27 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO z okazji tradycyjnego święta to wsp
 - Pomysł na prezent dla ośmiolatków i starszych osób – wysokiej jakości zestaw 872 klocków LEGO® będzie wspaniałym prezentem na nowy rok księżycowy dla dzieci, przyjaciół i rodziny 
 - Zestaw do postawienia indywidualnie lub jako całość – każdy z modeli ma 21 cm wysokości, 21 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 80110-1: https://a.allegroimg.com/original/11be06/a97b6c6d4be5a101ae412e0eeb35
+
 ---
 
-## 80113 — Klocki Lego Zjazd Rodzinny 80113 Nowy
+## 80113 — Zjazd rodzinny
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 709.00 zł · EAN: 05702017591643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80113 |
+| Nazwa angielska | Family Reunion Celebration |
+| Nazwa polska | Zjazd rodzinny |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1823 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 29 cm × gł. 15 cm |
+| EAN | 5702017591643 |
 
 **LEGO 80113 Zjazd rodzinny**
  
@@ -3207,11 +5213,26 @@ Kolekcjonerski zestaw dla dzieci łączy się z innymi zestawami z serii LEGO Sp
 - Zabawka edukacyjna — w aplikacji LEGO® Builder znajdują się interaktywne instrukcje, a zestaw zawiera instrukcje oraz ilustrację i opis tradycyjnej rodzinnej uroczystości z okazji Święta Wiosny 
 - Buduj, baw się i postaw na półce — model tradycyjnej chińskiej restauracji do zbudowania ma 24 cm wysokości, 29 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 80113-1: https://a.allegroimg.com/original/1101aa/715e2b44484e9620d8f1fe79d4f1
+
 ---
 
-## 853960 — Lego 853960 Brelok do Kluczy Lego 2×6 dla Fana Lego Key
+## 853960 — LEGO 853960 BRELOK LEGO 2X6
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 85.50 zł · EAN: 00673419305860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853960 |
+| Nazwa angielska | 2 x 6 Brick Key Chain |
+| Nazwa polska | LEGO 853960 BRELOK LEGO 2X6 |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305860 |
 
 LEGO 853960 Brelok do Kluczy LEGO 2×6 Oryginalny Prezent dla Fana LEGO Key
 
@@ -3224,11 +5245,27 @@ Prawdziwy elegant nosi breloczek LEGO® Iconic z zestawu 853960 Breloczek LEGO®
 - Można przypiąć do kluczy lub plecaka. 
 - Klocka nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853960-1: https://a.allegroimg.com/original/01c41e/9f495a72465c888d9dcd0692a17e
+
 ---
 
-## 854050 — Lego Bałwanek i renifer zawieszka 854050
+## 854050 — Bałwanek i renifer
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 98.80 zł · EAN: 00673419332026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854050 |
+| Nazwa angielska | Snowman & Reindeer Duo |
+| Nazwa polska | Bałwanek i renifer |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419332026 |
 
 Bałwanek i renifer
 
@@ -3257,11 +5294,26 @@ Zbuduj bałwanka i renifera z zestawu LEGO® Iconic 854050, by wnieść do domu 
 
 - Minimodel bałwanka ma ok. 6 cm wysokości, a renifer mierzy ok. 5 cm. Ten wyjątkowy duet wniesie do świątecznego wystroju Twojego domu odrobinę stylu LEGO®.
 
+**Galeria:**
+
+- 854050-1: https://a.allegroimg.com/original/1184ab/8e03696c479985283dc556b13689
+
 ---
 
-## 8795 — Lego 8795 Castle Lord Vladek
+## 8795 — Lord Vladek
 
-*Kategoria: Classic · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014419742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8795 |
+| Nazwa angielska | Lord Vladek |
+| Nazwa polska | Lord Vladek |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014419742 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3279,6 +5331,10 @@ Zbuduj bałwanka i renifera z zestawu LEGO® Iconic 854050, by wnieść do domu 
 - **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**Galeria:**
+
+- 8795-1: https://a.allegroimg.com/original/115ea7/8dc12f76404b873ef7cc1eb059a4
 
 ---
 

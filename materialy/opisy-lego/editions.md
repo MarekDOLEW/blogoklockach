@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Editions — opisy produktowe (20 pozycji)
 
-## 11507 — Lego Botanicals i Editions Bukiet kwiatów Olivii Rodrigo 11507
+## 11507 — Bukiet kwiatów Olivii Rodrigo
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 137.00 zł · EAN: 05702018061824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11507 |
+| Nazwa angielska | Olivia Rodrigo’s Flower Bouquet |
+| Nazwa polska | Bukiet kwiatów Olivii Rodrigo |
+| Seria | Botanicals |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 400 |
+| Cena katalogowa | 189.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018061824 |
 
 **LEGO Botanicals i Editions Bukiet kwiatów Olivii Rodrigo 11507**
 
@@ -35,11 +45,26 @@ Odkryj inne zestawy z serii LEGO® Botanicals i LEGO® Editions (sprzedawane odd
 
 Zestaw zawiera 400 elementów i ma 25 cm wysokości
 
+**Galeria:**
+
+- 11507-1: https://a.allegroimg.com/original/115708/50bfb23c4343966de35b3aa3e5d0
+
 ---
 
-## 43011 — Lego Wydanie 43011 Lionel Messi Gwiazdorskie Chwile Piłki Nożnej
+## 43011 — LEGO Wydanie 43011 Lionel Messi - Gwiazdorskie Chwile Piłki Nożnej
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 72.99 zł · EAN: 05702018069516 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43011 |
+| Nazwa angielska | Lionel Messi – Football Highlights |
+| Nazwa polska | LEGO Wydanie 43011 Lionel Messi - Gwiazdorskie Chwile Piłki Nożnej |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 24 cm × gł. 15 cm |
+| EAN | 5702018069516 |
 
 LEGO Editions Football 43011 Lionel Messi piłkarskie momenty
  
@@ -61,11 +86,26 @@ Ta kreatywna zabawka stanowi doskonały prezent w sportowym stylu dla chłopców
 - Pomocna dłoń — wschodzące gwiazdy piłki nożnej mogą uzyskać dostęp do cyfrowych instrukcji w aplikacji LEGO® Builder, gdzie można śledzić postępy, przybliżać i obracać piłkarskie modele w 3D. 
 - Wymiary — ten 500-elementowy zestaw ma 13 cm wysokości, 24 cm szerokości i 15 cm głębokości.
 
+**Galeria:**
+
+- 43011-1: https://a.allegroimg.com/original/11d222/68d6da604e968cc2262ecc27caa2
+
 ---
 
-## 43012 — Lego Wydanie 43012 Cristiano Ronaldo Piłkarskie Chwile Chwały
+## 43012 — LEGO Wydanie 43012 Cristiano Ronaldo - Piłkarskie Chwile Chwały
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 78.98 zł · EAN: 05702018069523 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43012 |
+| Nazwa angielska | Cristiano Ronaldo – Football Highlights |
+| Nazwa polska | LEGO Wydanie 43012 Cristiano Ronaldo - Piłkarskie Chwile Chwały |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 21 cm × gł. 17 cm |
+| EAN | 5702018069523 |
 
 LEGO Editions Football 43012 Cristiano Ronaldo piłkarskie momenty
  
@@ -87,11 +127,26 @@ Ten kreatywny model to doskonały prezent dla chłopców, dziewczynek i miłośn
 - Pomocna dłoń — wschodzące gwiazdy piłki nożnej mogą uzyskać dostęp do cyfrowych instrukcji w aplikacji LEGO® Builder, gdzie można śledzić postępy i obracać piłkarskie modele w 3D. 
 - Wymiary — ten 490-elementowy zestaw ma 11 cm wysokości, 21 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 43012-1: https://a.allegroimg.com/original/114987/0f17910a47d593ae124da06c1a6f
+
 ---
 
-## 43013 — Lego Editions 43013 Kylian Mbappé piłkarskie momenty
+## 43013 — LEGO Editions Football 43013 Kylian Mbappe piłkarskie momenty
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 75.78 zł · EAN: 05702018069530 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43013 |
+| Nazwa angielska | Kylian Mbappé – Football Highlights |
+| Nazwa polska | LEGO Editions Football 43013 Kylian Mbappe piłkarskie momenty |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 24 cm × gł. 15 cm |
+| EAN | 5702018069530 |
 
 Świętuj gwiazdę francuskiej reprezentacji narodowej dzięki zestawowi LEGO® Editions Kylian Mbappé – Gwiazdorskie Chwile Futbolu (43013) dla chłopców, dziewczynek i fanów sportu od 10 lat
 
@@ -115,11 +170,26 @@ Zestaw będzie doskonałym prezentem urodzinowym lub świątecznym dla chłopcó
 
 • WYMIARY – Ten model wystawowy składa się z 490 elementów i mierzy ponad 13 cm wysokości, 24 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 43013-1: https://a.allegroimg.com/original/111b34/93439bd94176a8c775165ab5dee9
+
 ---
 
-## 43015 — Lego Editions 43015 Lionel Messi piłkarska legenda
+## 43015 — LEGO Editions Football 43015 Lionel Messi piłkarska legenda
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 243.00 zł · EAN: 05702018069554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43015 |
+| Nazwa angielska | Lionel Messi – Football Legend |
+| Nazwa polska | LEGO Editions Football 43015 Lionel Messi piłkarska legenda |
+| Seria | Editions |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 958 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 21 cm × gł. 14 cm |
+| EAN | 5702018069554 |
 
 Oddaj hołd sportowej ikonie dzięki zestawowi LEGO® Editions Lionel Messi – Piłkarska legenda (43015) dla chłopców, dziewczynek i fanów piłki nożnej od 12 lat.
 
@@ -143,11 +213,26 @@ Zestaw będzie doskonałym prezentem urodzinowym lub świątecznym dla chłopcó
 
 • WYMIARY – Zestaw składa się z 958 elementów, a w pozie zwycięstwa mierzy ponad 27 cm wysokości, 21 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 43015-1: https://a.allegroimg.com/original/113dba/2ef15fea484684d6680f0d19569c
+
 ---
 
-## 43016 — Lego Editions Cristiano Ronaldo piłkarskie momenty 43012
+## 43016 — LEGO Editions Football 43012 Cristiano Ronaldo piłkarskie momenty
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702018069561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43016 |
+| Nazwa angielska | Cristiano Ronaldo – Football Legend |
+| Nazwa polska | LEGO Editions Football 43012 Cristiano Ronaldo piłkarskie momenty |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 21 cm |
+| EAN | 5702018069561 |
 
 **LEGO Editions Cristiano Ronaldo — piłkarskie momenty 43012**
 
@@ -173,11 +258,26 @@ Dzieci mają dostęp do cyfrowych instrukcji budowania w aplikacji LEGO® Builde
 
 Ten 490-elementowy zestaw ma 11 cm wysokości i 21 cm szerokości
 
+**Galeria:**
+
+- 43016-1: https://a.allegroimg.com/original/11650c/52452c8d410a9610b20a0ace5b9e
+
 ---
 
-## 43017 — Lego Edycja 43017 Kask Oscara Piastriego z zespołu McLaren Mastercard F1
+## 43017 — Kask Oscar Piastri McLaren Mastercard F1 Team
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 248.99 zł · EAN: 05702018069578 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43017 |
+| Nazwa angielska | McLaren Mastercard F1 Team Oscar Piastri Helmet |
+| Nazwa polska | Kask Oscar Piastri McLaren Mastercard F1 Team |
+| Seria | F1 |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 793 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069578 |
 
 LEGO Editions Formuła 1 43017 Kask Oscar Piastri McLaren Mastercard F1 Team
 
@@ -187,11 +287,26 @@ Miłośnicy motoryzacji będą mogli wyrazić swoją pasję do F1®, budując te
 
 Zabawę urozmaica aplikacja LEGO® Builder, gdzie początkujący mistrzowie mogą śledzić swoje postępy oraz przybliżać i obracać swoje dzieła. Zestaw składa się z 793 elementów.
 
+**Galeria:**
+
+- 43017-1: https://a.allegroimg.com/original/1107a5/0f8434e74427844b36b7d688a125
+
 ---
 
-## 43018 — Lego Editions 43018 Lionel Messi Chwila zwycięstwa
+## 43018 — Lionel Messi — cieszynka
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 484.99 zł · EAN: 05702018069585 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43018 |
+| Nazwa angielska | Lionel Messi – Celebration |
+| Nazwa polska | Lionel Messi — cieszynka |
+| Seria | Editions |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1427 |
+| Cena katalogowa | 779.99 zł |
+| Wymiary złożonego | wys. 38 cm × szer. 47 cm × gł. 5 cm |
+| EAN | 5702018069585 |
 
 LEGO Editions Football 43018 Lionel Messi cieszynka
 
@@ -211,11 +326,26 @@ Ten zestaw konstrukcyjny to ciekawy pomysł na prezent urodzinowy lub świątecz
 - **CYFROWA POMOC** — wschodzące gwiazdy piłki nożnej mogą korzystać z cyfrowych instrukcji w aplikacji LEGO® Builder, gdzie można śledzić postępy i obracać modele w 3D.
 - **WYMIARY** — zestaw zawiera 1427 elementów i ma 38 cm wysokości, 47 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 43018-1: https://a.allegroimg.com/original/116367/ed266ae14f2795eb22c915d291cf
+
 ---
 
-## 43019 — Lego Editions Sports 43019 piłka nożna
+## 43019 — LEGO Editions Sports 43019 Piłka nożna
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 369.98 zł · EAN: 05702018069592 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43019 |
+| Nazwa angielska | Football |
+| Nazwa polska | LEGO Editions Sports 43019 Piłka nożna |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1498 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 21 cm × gł. 21 cm |
+| EAN | 5702018069592 |
 
 LEGO Editions Sports 43019 Piłka nożna
 
@@ -236,11 +366,26 @@ Zestaw konstrukcyjny stanowi wspaniałą ozdobę dzięki czarnej podstawce, któ
 - LEGO® Editions — odkryj inne sportowe i kolekcjonerskie zestawy konstrukcyjne (sprzedawane osobno) z kolekcji LEGO Editions. 
 - Wymiary — piłka nożna LEGO® w tym 1498-elementowym zestawie ma 22 cm wysokości, 21 cm szerokości i 21 cm głębokości.
 
+**Galeria:**
+
+- 43019-1: https://a.allegroimg.com/original/11fdd2/b4c7cf7946c0a43bcfb547114fd2
+
 ---
 
-## 43020 — Lego Editions Oficjalny Puchar Świata Fifa 43020
+## 43020 — Oficjalny Puchar Świata FIFA
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 613.99 zł · EAN: 05702018069608 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43020 |
+| Nazwa angielska | FIFA World Cup Official Trophy |
+| Nazwa polska | Oficjalny Puchar Świata FIFA |
+| Seria | Editions |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2842 |
+| Cena katalogowa | 779.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069608 |
 
 LEGO Editions Oficjalny Puchar Świata FIFA 43020
 
@@ -296,11 +441,26 @@ Wymiary — model pucharu składający się z 2842 elementów ma 36 cm wysokośc
 
 **EAN:** 5702018069608
 
+**Galeria:**
+
+- 43020-1: https://a.allegroimg.com/original/1161af/8de115014e9589c83eec03ddcb57
+
 ---
 
-## 43022 — Lego Editions Kask Lewis Hamilton Scuderia Ferrari Hp 43022
+## 43022 — LEGO Editions 43022 Kask Scuderia Ferrari Lewis Hamilton HP
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 265.97 zł · EAN: 05702018069615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43022 |
+| Nazwa angielska | Scuderia Ferrari HP Lewis Hamilton Helmet |
+| Nazwa polska | LEGO Editions 43022 Kask Scuderia Ferrari Lewis Hamilton HP |
+| Seria | Editions |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 884 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018069615 |
 
 LEGO® Editions 43022 Kask Lewis Hamilton Scuderia Ferrari HP F1®
  
@@ -379,11 +539,26 @@ Jeżeli szukasz wyjątkowego prezentu dla miłośnika Formuły 1®, Ferrari lub 
  
 **Zbuduj legendarny kask mistrza świata F1® i pokaż swoją pasję do motorsportu z LEGO® Editions 43022!** 🏎️🏁🔥
 
+**Galeria:**
+
+- 43022-1: https://a.allegroimg.com/original/2942b9/308b541e4892ac208abaa6735c59
+
 ---
 
-## 43023 — Lego Edycje 43023 Kask Lando Norrisa z zespołu McLaren Mastercard F1
+## 43023 — Kask Lando Norris McLaren Mastercard F1 Team
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 268.99 zł · EAN: 05702018069622 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43023 |
+| Nazwa angielska | McLaren Mastercard F1 Team Lando Norris Helmet |
+| Nazwa polska | Kask Lando Norris McLaren Mastercard F1 Team |
+| Seria | F1 |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 793 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm × gł. 13 cm |
+| EAN | 5702018069622 |
 
 LEGO Editions Formuła 1 43023 Kask Lando Norris McLaren Mastercard F1 Team
 
@@ -403,11 +578,26 @@ Zestaw z modelem to świetny prezent urodzinowy dla nastolatków, chłopców, dz
 - LEGO® Editions — zapoznaj się z serią LEGO Editions, aby odkryć więcej zestawów inspirowanych F1® (sprzedawanych osobno), które zachwycą fanów Formuły 1®.
 - Wymiary — ten 793-elementowy zestaw z kaskiem Lando Norrisa LEGO® ma 18 cm wysokości, 11 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 43023-1: https://a.allegroimg.com/original/111eb8/345a7a4f41d7b9f1e6eaf167235b
+
 ---
 
-## 43024 — * Lego Editions Formula 1 Kask Ayrton Senna 43024
+## 43024 — Kask Ayrton Senna
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 312.89 zł · EAN: 05702018069639 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43024 |
+| Nazwa angielska | Ayrton Senna Helmet |
+| Nazwa polska | Kask Ayrton Senna |
+| Seria | F1 |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 931 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069639 |
 
 LEGO EDITIONS FORMULA 1 - Kask Ayrton Senna 43024
  
@@ -434,11 +624,26 @@ Ten zestaw kolekcjonerski to**świetny pomysł na prezent dla chłopca ** lub dz
 - CYFROWY PIT STOP - aspirujący kierowcy mogą poczuć emocje z F1, śledząc swoje postępy oraz powiększając i obracając swoje dzieło w aplikacji LEGO Builder 
 - KLOCKI LEGO EDITIONS - zapoznaj się z serią LEGO Editions, aby odkryć więcej zestawów inspirowanych F1 (sprzedawanych oddzielnie), które zachwycą fanów Formuły 1
 
+**Galeria:**
+
+- 43024-1: https://a.allegroimg.com/original/11db7c/5926a09447628f3156fc7ca41480
+
 ---
 
-## 43027 — Lego Edycja 43027 Vini Jr. Piłkarskie Chwile Chwały
+## 43027 — LEGO Edycja 43027 Vini Jr. - Piłkarskie Chwile Chwały
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702018069660 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43027 |
+| Nazwa angielska | Vini Jr. – Soccer Highlights |
+| Nazwa polska | LEGO Edycja 43027 Vini Jr. - Piłkarskie Chwile Chwały |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702018069660 |
 
 LEGO Editions Football 43027 Vini Jr. piłkarskie momenty
  
@@ -460,11 +665,26 @@ Spraw, aby urodziny i inne specjalne okazje były niezapomniane dzięki temu nie
 - Pomocna dłoń — wschodzące gwiazdy piłki nożnej mogą uzyskać dostęp do cyfrowych instrukcji w aplikacji LEGO® Builder, gdzie można śledzić postępy i obracać piłkarskie modele w 3D. 
 - Wymiary — ten 510-elementowy zestaw ma 10 cm wysokości, 19 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 43027-1: https://a.allegroimg.com/original/11befe/6cf73e9d4a578fe6e9b1c0a04dd6
+
 ---
 
-## 43028 — Lego Editions Płyta winylowa Olivii Rodrigo 43028
+## 43028 — Płyta winylowa Olivii Rodrigo
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 90.40 zł · EAN: 05702018069677 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43028 |
+| Nazwa angielska | Olivia Rodrigo’s Vinyl |
+| Nazwa polska | Płyta winylowa Olivii Rodrigo |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 360 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069677 |
 
 **LEGO Editions Płyta winylowa Olivii Rodrigo 43028**
 
@@ -490,11 +710,26 @@ Połącz ten model z innymi zestawami Olivii Rodrigo (sprzedawanymi oddzielnie)
 
 Zestaw zawiera 360 elementów i mierzy 18 cm szerokości
 
+**Galeria:**
+
+- 43028-1: https://a.allegroimg.com/original/115413/2cc682c84e6c9d6cfd183ec9b326
+
 ---
 
-## 43029 — Lego Editions Księżyc z koncertu Olivii Rodrigo 43029
+## 43029 — Księżyc z koncertu Olivii Rodrigo
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 157.33 zł · EAN: 05702018069684 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43029 |
+| Nazwa angielska | Olivia Rodrigo’s Concert Moon |
+| Nazwa polska | Księżyc z koncertu Olivii Rodrigo |
+| Seria | Editions |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 670 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 22 cm |
+| EAN | 5702018069684 |
 
 **LEGO Editions Księżyc z koncertu Olivii Rodrigo 43029**
 
@@ -518,11 +753,26 @@ Połącz ten model z innymi zestawami Olivii Rodrigo (sprzedawanymi oddzielnie)
 
 Ten 670-elementowy zestaw ma 17 cm wysokości i 22 cm szerokości
 
+**Galeria:**
+
+- 43029-1: https://a.allegroimg.com/original/112e07/9be419594b219d7bbdf6c158a1f8
+
 ---
 
-## 43030 — Lego Editions Skrytka Olivii Rodrigo 43030
+## 43030 — Skrytka Olivii Rodrigo
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702018069691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43030 |
+| Nazwa angielska | Olivia Rodrigo’s Secret Storage |
+| Nazwa polska | Skrytka Olivii Rodrigo |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1085 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 25 cm × gł. 16 cm |
+| EAN | 5702018069691 |
 
 Klocki LEGO® Editions-
 
@@ -552,11 +802,26 @@ Pokaż swoją sympatię i stwórz gadżety godne prawdziwej gwiazdy z zestawem k
 
 - WYMIARY — ten 1085-elementowy zestaw ma 27 cm wysokości, 25 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 43030-1: https://a.allegroimg.com/original/1137df/c709959b4775b3dcb25e2a3ad16d
+
 ---
 
-## 43031 — Lego Editions Podwójna gitara Olivii Rodrigo 43031
+## 43031 — Podwójna gitara Olivii Rodrigo
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 388.00 zł · EAN: 05702018069707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43031 |
+| Nazwa angielska | Olivia Rodrigo’s Dual Guitar |
+| Nazwa polska | Podwójna gitara Olivii Rodrigo |
+| Seria | Editions |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1228 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069707 |
 
 **LEGO Editions Podwójna gitara Olivii Rodrigo 43031**
 
@@ -582,11 +847,26 @@ Połącz ten model z innymi zestawami Olivii Rodrigo (sprzedawanymi oddzielnie)
 
 Ten 1228-elementowy zestaw ma 50 cm wysokości
 
+**Galeria:**
+
+- 43031-1: https://a.allegroimg.com/original/11ecd4/a77f6bf74d9ca95193f354f1941b
+
 ---
 
-## 43032 — Lego Editions Football 43032 Oficjalne logo Fifa World Cup 2026
+## 43032 — Oficjalne logo FIFA World Cup 2026
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 138.88 zł · EAN: 05702018069233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43032 |
+| Nazwa angielska | FIFA World Cup 2026 Official Emblem |
+| Nazwa polska | Oficjalne logo FIFA World Cup 2026 |
+| Seria | Editions |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018069233 |
 
 LEGO 43032 Oficjalne logo FIFA World Cup 2026
 
@@ -626,11 +906,26 @@ Czas na budowanie
 
 Przygotuj się na wielkie piłkarskie emocje i zbuduj oficjalne logo FIFA World Cup 2026 - LEGO 43032 to wyjątkowy zestaw dla każdego fana futbolu!
 
+**Galeria:**
+
+- 43032-1: https://a.allegroimg.com/original/1126ae/39b6f05848e0b30ec46d5f74a34a
+
 ---
 
-## 43033 — Lego Editions Football 43033 Koszulka piłkarska reprezentacji Usa
+## 43033 — LEGO Editions Football 43033 Koszulka piłkarska reprezentacji USA
 
-*Kategoria: Editions · cena Allegro (2026-08-17): 76.98 zł · EAN: 05702018069240 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43033 |
+| Nazwa angielska | 2026 U.S. Soccer National Team Jersey |
+| Nazwa polska | LEGO Editions Football 43033 Koszulka piłkarska reprezentacji USA |
+| Seria | Editions |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702018069240 |
 
 LEGO Editions Football 43033 Koszulka piłkarska reprezentacji USA
  
@@ -651,6 +946,10 @@ Zestaw będzie też doskonałym prezentem urodzinowym lub świątecznym dla chł
 - Kolekcja LEGO® Editions — odkryj więcej zestawów inspirowanych sportami (sprzedawanych oddzielnie), które zachwycą fanów piłki nożnej i nie tylko. 
 - Pomocna dłoń — cyfrowe instrukcje są dostępne w aplikacji LEGO® Builder, gdzie dzieci mogą obracać swoje dzieła w 3D i śledzić postępy. 
 - Wymiary — ten 167-elementowy zestaw ma 21 cm wysokości, 14 cm szerokości i 8 cm głębokości.
+
+**Galeria:**
+
+- 43033-1: https://a.allegroimg.com/original/11ab16/7271a8cd42dd88b67f5ffe870e9a
 
 ---
 

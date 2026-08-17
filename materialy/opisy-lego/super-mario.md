@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Super Mario — opisy produktowe (92 pozycji)
+# LEGO Super Mario — opisy produktowe (90 pozycji)
 
-## 30385 — Lego 30385 Mario Grzybowa Niespodzianka
+## 30385 — Grzybowa Niespodzianka
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702016668070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30385 |
+| Nazwa angielska | Super Mushroom Surprise Expansion Set |
+| Nazwa polska | Grzybowa Niespodzianka |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668070 |
 
 NOWE KLOCKI LEGO Z SERII SUPER MARIO
 
@@ -27,11 +38,27 @@ Wiek: 6+
 
 Ilość klocków: 18
 
+**Galeria:**
+
+- 30385-1: https://a.allegroimg.com/original/111b33/793468c44377aff8318f86e4cf59
+
 ---
 
-## 30389 — Lego Mario 30389 Fuzzy i platforma z grzybem
+## 30389 — Fuzzy i platforma z grzybem
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 12.90 zł · EAN: 05702016912364 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30389 |
+| Nazwa angielska | Fuzzy & Mushroom Platform Expansion Set |
+| Nazwa polska | Fuzzy i platforma z grzybem |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912364 |
 
 LEGO Super Mario 30389 Fuzzy i platforma z grzybem
 
@@ -53,11 +80,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 Galeria LEGO Super Mario 30389 Fuzzy i platforma z grzybem
 
+**Galeria:**
+
+- 30389-1: https://a.allegroimg.com/original/11c145/a72bdd4c46dd949b5607ad206825
+
 ---
 
-## 30509 — Lego Mario Lego zestaw rozszerzający
+## 30509 — LEGO Super Mario Drzewo Yellow Yoshiego zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702017155371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30509 |
+| Nazwa angielska | Yellow Yoshi's Fruit Tree Expansion Set |
+| Nazwa polska | LEGO Super Mario Drzewo Yellow Yoshiego zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155371 |
 
 **Przedmiotem sprzedaży jest dodatek do LEGO MARIO w postaci wyłącznie 6 sztuk przebrania/kostiumu - BEZ FIGURKI MARIA:**
 
@@ -78,11 +121,26 @@ Ta kreatywna zabawka do zbudowania **nie wymaga baterii** — zacznie działać,
 
 Przedmiot wykonany z plastiku. W tej aukcji zamawiają Państwo wszystkie widoczne na zdjęciu kostiumy, w innej naszej aukcji można kupić pojedyncze sztuki.
 
+**Galeria:**
+
+- 30509-1: https://a.allegroimg.com/original/11cd2b/1ff06b4841799ccd69fd9905a023
+
 ---
 
-## 30702 — Lego Klocki Mario 30702 Mario Kart Toad
+## 30702 — Mario Kart – Toad (Pit Crew)
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 15.00 zł · EAN: 05702017819846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30702 |
+| Nazwa angielska | Toad (Pit Crew) |
+| Nazwa polska | Mario Kart – Toad (Pit Crew) |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 39 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819846 |
 
 LEGO Super Mario - Mario Kart – Toad (Pit Crew) 30702
  
@@ -105,11 +163,27 @@ Toad (Pit Crew) to idealny dodatek do pozostałych zestawów LEGO Super Mario (s
 - pomysł na prezent - dla chłopców, którzy lubią grać w Mario 
 - rozbudź dziecięcą kreatywność - zabawa klockami rozwija pomysłowość i myślenie przestrzenne
 
+**Galeria:**
+
+- 30702-1: https://a.allegroimg.com/original/11f643/8df409434c0da73d7f71ff926839
+
 ---
 
-## 40414 — Lego Mario 40414 nowy zestaw Julivo
+## 40414 — lego 40414 super mario monty mole i supergrzyb
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016720112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40414 |
+| Nazwa angielska | Monty Mole & Super Mushroom Expansion Set |
+| Nazwa polska | lego 40414 super mario monty mole i supergrzyb |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720112 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -137,11 +211,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 40414-1: https://a.allegroimg.com/original/117512/5f91a13743c69da89cabdbfa0a2d
+
 ---
 
-## 40787 — Klocki Lego Mario Kart Spiny Shell 234 elementy 18+
+## 40787 — Mario Kart - Spiny Shell
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 279.95 zł · EAN: 05702017830780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40787 |
+| Nazwa angielska | Mario Kart – Spiny Shell |
+| Nazwa polska | Mario Kart - Spiny Shell |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 10 cm × gł. 10 cm |
+| EAN | 5702017830780 |
 
 LEGO Super Mario 40787 - Mario Kart™ - Spiny Shell
  
@@ -166,11 +256,27 @@ Ilość klocków:** 234**
  
 - Wymiary — ten 234-elementowy **model ma 10 cm wysokości, 10 cm szerokości i 10 cm głębokości**
 
+**Galeria:**
+
+- 40787-1: https://a.allegroimg.com/original/1113c1/fe94e96645928252022e03a6dff9
+
 ---
 
-## 71360 — Zestaw Lego Mario 71360 Przygody Z Mario Poziom Startowy
+## 71360 — Klocki LEGO 71360 Przygody z Mario poziom startowy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 310.00 zł · EAN: 05702016618396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71360 |
+| Nazwa angielska | Adventures with Mario Starter Course |
+| Nazwa polska | Klocki LEGO 71360 Przygody z Mario poziom startowy |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618396 |
 
 ZESTAW LEGO SUPER MARIO - 71360 - PRZYGODY Z MARIO - POZIOM STARTOWY
 
@@ -212,11 +318,27 @@ Zestaw LEGO Super Mario 71360 to doskonały wybór dla dzieci od 6 roku życia, 
 
 To propozycja, która świetnie sprawdzi się jako prezent urodzinowy, świąteczny lub po prostu niespodzianka bez okazji. LEGO Mario ożywia klasyczną postać w zupełnie nowej formie, dzięki czemu zestaw zachwyca zarówno młodszych, jak i starszych fanów Nintendo. Jeśli szukasz zabawki, która łączy technologię, kreatywność i emocje, ten zestaw będzie strzałem w dziesiątkę i zapewni długie godziny świetnej zabawy.
 
+**Galeria:**
+
+- 71360-1: https://a.allegroimg.com/original/00e098/eea77b0c4f7889a3f68f20883945
+
 ---
 
-## 71362 — Zestaw Lego Mario 71362 Twierdza Strażnicza
+## 71362 — Klocki LEGO Super Mario 71362 Twierdza strażnicza
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702016618419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71362 |
+| Nazwa angielska | Guarded Fortress Expansion Set |
+| Nazwa polska | Klocki LEGO Super Mario 71362 Twierdza strażnicza |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 468 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 38 cm × gł. 32 cm |
+| EAN | 5702016618419 |
 
 ZESTAW LEGO SUPER MARIO - 71362 - TWIERDZA STRAŻNICZA
 
@@ -252,11 +374,27 @@ Największą zaletą zestawu jest jego interaktywność i możliwość decydowan
 
 Zestaw LEGO Super Mario 71362 to doskonała propozycja dla dzieci od 8 roku życia, które lubią kreatywną zabawę i interaktywne wyzwania. Solidna konstrukcja, aż 468 elementów oraz interaktywne funkcje sprawiają, że zestaw dostarcza długich godzin angażującej zabawy. To świetny wybór zarówno jako prezent urodzinowy, jak i niespodzianka bez okazji – szczególnie dla fanów gier Nintendo i przygód Mario. Twierdza strażnicza łączy budowanie, strategię i zabawę w jeden dynamiczny system, który rozwija kreatywność i zachęca do eksperymentowania, dlatego idealnie sprawdzi się jako wyjątkowy upominek, który na długo pozostanie w pamięci. Dzięki możliwości łączenia z innymi zestawami z serii LEGO Super Mario, pozwoli on na nieograniczone budowanie własnych poziomów i tworzenie unikalnych przygód.
 
+**Galeria:**
+
+- 71362-1: https://a.allegroimg.com/original/259270/86b6c7044fcf820f051e24a4b4ae
+
 ---
 
-## 71363 — Klocki Lego Mario Pustynny Pokey 71363 Box Nowe
+## 71363 — Pustynny Pokey
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 119.90 zł · EAN: 05702016618426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71363 |
+| Nazwa angielska | Desert Pokey Expansion Set |
+| Nazwa polska | Pustynny Pokey |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618426 |
 
 Klocki LEGO SUPER MARIO Pustynny Pokey 71363
 
@@ -268,11 +406,27 @@ Oficjalny produkt firmy LEGO.
 
 Produkt nowy (zapakowany w pudełko).
 
+**Galeria:**
+
+- 71363-1: https://a.allegroimg.com/original/11332a/7e1f392c47b5b80271233b8df8a4
+
 ---
 
-## 71365 — Zestaw Lego Mario 71365 Megazjeżdzalnia Piranha Plant
+## 71365 — Klocki LEGO Super Mario 71365 Megazjeżdżalnia Piranha
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 144.00 zł · EAN: 05702016618440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71365 |
+| Nazwa angielska | Piranha Plant Power Slide Expansion Set |
+| Nazwa polska | Klocki LEGO Super Mario 71365 Megazjeżdżalnia Piranha |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 27 cm × gł. 23 cm |
+| EAN | 5702016618440 |
 
 ZESTAW LEGO SUPER MARIO - 71365 - MEGAZJEŻDZALNIA PIRANHA PLANT
 
@@ -308,11 +462,27 @@ Megazjeżdżalnia Piranha Plant została zaprojektowana tak, aby zapewnić maksy
 
 Zestaw LEGO Super Mario 71365 to idealny wybór dla dzieci, które uwielbiają aktywną i kreatywną zabawę. Dzięki unikalnej konstrukcji, interaktywnym elementom i możliwości rozbudowy zestaw zapewnia długie godziny rozrywki oraz rozwija zręczność i wyobraźnię. To doskonały dodatek do kolekcji LEGO Super Mario, który urozmaici każdy poziom i wprowadzi nowe wyzwania. Świetnie sprawdzi się jako prezent urodzinowy, świąteczny lub niespodzianka bez okazji – dla każdego młodego fana przygód Mario i budowania z klocków LEGO.
 
+**Galeria:**
+
+- 71365-1: https://a.allegroimg.com/original/055a4f/79b690f747548dd9b75bd02438fe
+
 ---
 
-## 71366 — Klocki Lego Mario 71366 Ostrzał Banzai Bill Zestaw Dodatkowy
+## 71366 — Zestaw LEGO Super Mario 71366 Ostrzał Banzai Bill
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 134.91 zł · EAN: 05702016618457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71366 |
+| Nazwa angielska | Boomer Bill Barrage Expansion Set |
+| Nazwa polska | Zestaw LEGO Super Mario 71366 Ostrzał Banzai Bill |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11,5 cm × szer. 24 cm × gł. 20 cm |
+| EAN | 5702016618457 |
 
 KLOCKI LEGO SUPER MARIO - 71366 - OSTRZAŁ BANZAI BILL - ZESTAW DODATKOWY
 
@@ -348,11 +518,27 @@ Największą atrakcją zestawu jest wirująca platforma, która zmusza gracza do
 
 Zestaw LEGO Super Mario 71366 to świetny wybór dla dzieci od 7 roku życia, które lubią aktywną, kreatywną zabawę i rywalizację. Interaktywny charakter zestawu, możliwość rozbudowy oraz dynamiczne mechanizmy sprawiają, że jest to propozycja, która angażuje na długie godziny. To nie tylko rozszerzenie do większego świata LEGO Super Mario, ale także samodzielna inspiracja do tworzenia własnych przygód. Dzięki łatwemu łączeniu z innymi zestawami oraz cyfrowym instrukcjom budowania, zestaw rozwija wyobraźnię i zdolności konstrukcyjne. Może być doskonałym prezentem urodzinowym, świątecznym lub niespodzianką bez okazji – zawsze dostarczając mnóstwo emocji i satysfakcji z zabawy.
 
+**Galeria:**
+
+- 71366-1: https://a.allegroimg.com/original/008ce4/88dbddaa456290881e665c9fc485
+
 ---
 
-## 71367 — Lego 71367 Mario Yoshi i dom Mario zestaw rozszerzający
+## 71367 — Yoshi i dom Mario
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702016618464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71367 |
+| Nazwa angielska | Mario's House & Yoshi Expansion Set |
+| Nazwa polska | Yoshi i dom Mario |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618464 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -365,11 +551,27 @@ Numer magazynowy sprzedawcy: 20260261 - 20260262
 
 Przybliżone wymiary opakowania:** 26,2 x 19,1 x 6,1 cm**
 
+**Galeria:**
+
+- 71367-1: https://a.allegroimg.com/original/11f8fd/8c7cc091403a85d01d6198857260
+
 ---
 
-## 71368 — Lego Mario 71368 Toad szuka skarbu zestaw rozszerzający
+## 71368 — Toad szuka skarbu - zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702016618471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71368 |
+| Nazwa angielska | Toad's Treasure Hunt Expansion Set |
+| Nazwa polska | Toad szuka skarbu - zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 464 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 44 cm × gł. 41 cm |
+| EAN | 5702016618471 |
 
 LEGO Super Mario 71368
  
@@ -391,11 +593,27 @@ Moduł w podstawowej konfiguracji ma ok. 17 cm wysokości, 44 cm szerokości i 4
  
 Zestaw nie wymaga baterii — aby zabawa nabrała tempa, wystarczy połączyć go z figurką LEGO® Mario™ z zestawu Przygody z Mario — poziom startowy.
 
+**Galeria:**
+
+- 71368-1: https://a.allegroimg.com/original/119b53/2abf6531424ca4ec1c0778d36cbe
+
 ---
 
-## 71369 — Lego Mario 71369 Walka w zamku Bowsera
+## 71369 — Walka w zamku Bowsera
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702016618488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71369 |
+| Nazwa angielska | Bowser's Castle Boss Battle Expansion Set |
+| Nazwa polska | Walka w zamku Bowsera |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618488 |
 
 Oferta sprzedaży zestawu LEGO Super Mario 71369 Walka w zamku Bowsera.
 
@@ -407,21 +625,53 @@ Zestaw jest fabrycznie zapakowany.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 71369-1: https://a.allegroimg.com/original/117729/6fe2824a497fbc963bee8214444e
+
 ---
 
-## 71371 — Outlet Lego Mario 71371 Helikopterowy Mario Outlet Zdjęcia
+## 71371 — Helikopterowy Mario
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 157.99 zł · EAN: 05702016618501 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71371 |
+| Nazwa angielska | Propeller Mario Power-Up Pack |
+| Nazwa polska | Helikopterowy Mario |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618501 |
 
 UWAGA! ZESTAW OUTLET! PROSZĘ SPRAWDZIĆ ZDJĘCIA!
 
 o Ulepszenie z helikopterowym strojem dla figurki (71371) sprawi, że figurka LEGO Mario(TM) (brak w komplecie) będzie mogła teraz ,,lecieć" po monety, a gra LEGO(R) Super Mario(TM) stanie się jeszcze fajniejsza. o Strój pasuje na figurkę LEGO(R) Mario(TM) z zestawu Przygody z Mario -- poziom startowy (71360). Dzięki temu kostiumowi podczas ,,lotu" figurka LEGO Mario będzie wydawać dźwięk pracującego śmigła. o Gdy Helikopterowy Mario unosi się w powietrze, gracze zyskują nowe możliwości zarabiania cyfrowych monet. Dzieci mogą przerobić cały pokój na poziom gry LEGO(R) Mario(TM) i świetnie się bawić, gdy figurka bohatera będzie oblatywać wszystkie zakamarki. o Liczący 13 elementów zestaw do budowania LEGO(R) pozwala w ciekawy sposób zmodyfikować zestaw Przygody z Mario -- poziom startowy (71360) oraz zestawy dodatkowe. Będzie świetnym prezentem na urodziny lub pod choinkę dla fanów oraz kreatywnych dzieci w wieku od 6 lat. o Zestaw Poziom startowy i zestawy dodatkowe LEGO(R) Mario(TM) można uzupełnić także o inne niesamowite ulepszenia, takie jak Ognisty Mario -- ulepszenie (71370), Mario kot -- ulepszenie (71372) oraz Mario budowniczy -- ulepszenie (71373). o Ten zestaw LEGO(R) nie wymaga baterii -- włączy się, gdy tylko połączysz go z figurką LEGO Mario(TM)
 
+**Galeria:**
+
+- 71371-1: https://a.allegroimg.com/original/119461/205dd0fc453eabfee9cee23f032a
+
 ---
 
-## 71372 — Lego Mario 71372 Mario Kot
+## 71372 — Mario Kot
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 248.00 zł · EAN: 05702016618518 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71372 |
+| Nazwa angielska | Cat Mario Power-Up Pack |
+| Nazwa polska | Mario Kot |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618518 |
 
 Interaktywny kostium dla figurki LEGO® Super Mario™ do kocich harców! Zestaw Mario kot — ulepszenie (71372) sprawi, że LEGO® Super Mario™ zyska nowe cechy, a zabawa stanie się ciekawsza.
  
@@ -433,11 +683,27 @@ Radość konkurowania Kolekcjonerskie zestawy LEGO Super Mario idealnie nadają 
  
 Wykorzystując poziom startowy, zestawy dodatkowe oraz ulepszenia, fani mogą konstruować własne poziomy gry i bawić się na nich bez końca.
 
+**Galeria:**
+
+- 71372-1: https://a.allegroimg.com/original/0577e0/684f74bd4d17b834982a5920017a
+
 ---
 
-## 71373 — Klocki Lego Mario 71373 Mario Budowniczy Zestaw Dodatkowy
+## 71373 — Klocki LEGO Super Mario  71373 Mario budowniczy dodatek
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702016618525 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71373 |
+| Nazwa angielska | Builder Mario Power-Up Pack |
+| Nazwa polska | Klocki LEGO Super Mario  71373 Mario budowniczy dodatek |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618525 |
 
 KLOCKI LEGO SUPER MARIO - 71373 - MARIO BUDOWNICZY - ZESTAW DODATKOWY
 
@@ -471,11 +737,27 @@ Model składa się z 10 elementów, co czyni go jednym z najmniejszych, ale jedn
 
 Zestaw LEGO 71373 to świetna propozycja dla dzieci, które chcą urozmaicić swoją zabawę w świecie LEGO Super Mario i odkryć nowe sposoby zdobywania punktów. Dzięki prostemu, ale pomysłowemu działaniu, zestaw wprowadza świeżość do rozgrywki i zachęca do kreatywnego budowania własnych tras. To idealny dodatek dla fanów, którzy już posiadają zestaw startowy i chcą rozszerzyć swoje możliwości. Dzięki niewielkim rozmiarom i dużej funkcjonalności zestaw sprawdzi się jako szybki, ale efektowny prezent. Będzie świetnym wyborem na urodziny, święta lub zupełnie bez okazji — zawsze zapewniając dodatkową dawkę radości i interaktywnej zabawy.
 
+**Galeria:**
+
+- 71373-1: https://a.allegroimg.com/original/055b71/dea7a4094ca0a50d4be674c67122
+
 ---
 
-## 71376 — Lego Mario 71376 Spadający Thwomp
+## 71376 — Spadający Thwomp
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016687194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71376 |
+| Nazwa angielska | Thwomp Drop Expansion Set |
+| Nazwa polska | Spadający Thwomp |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016687194 |
 
 Przedmiot w ofercie: LEGO Super Mario 71376 Spadający Thwomp.
 
@@ -491,21 +773,53 @@ Zawiera platformę zjazdową dla LEGO® Mario™ (figurka nie jest częścią ze
 
 Pozdrawiam i zapraszam do zakupów.
 
+**Galeria:**
+
+- 71376-1: https://a.allegroimg.com/original/112a10/cf39f6f04a86b686ca23e52720aa
+
 ---
 
-## 71377 — Lego Mario 71377 King Boo i nawiedzone podwórze zestaw rozszerzający
+## 71377 — King Boo i nawiedzone podwórze - zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 333.48 zł · EAN: 05702016687200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71377 |
+| Nazwa angielska | King Boo and the Haunted Yard Expansion Set |
+| Nazwa polska | King Boo i nawiedzone podwórze - zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 431 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17,5 cm × szer. 42,5 cm × gł. 27,5 cm |
+| EAN | 5702016687200 |
 
 LEGO 71377 King Boo i nawiedzone podwórze - zestaw rozszerzający
  
 Twoje dziecko jest fanem gry Super Mario? Warto zwrócić więc uwagę na zestawy rozszerzające - LEGO Mario King Boo i nawiedzone podgórze. Znajdziesz tam figurkę Kinga Boo, dwie Goomby oraz cztery figurki Swoopów. To gwarancja pozytywnej zabawy. Chcesz dostać się do ukrytej gwiazdki? W takim razie gracze muszą nadepnąć na Goomby, stanąć na pajęczynie, powalić drzewo, a potem skoczyć na głowy kręcących się Swoopów i przewrócić Kinga Boo. Brzmi ekscytująco! Sprawdź też aplikację i intuicyjne Instructions PLUS. LEGO 71377 zachęca do zabawy w pojedynkę lub z przyjaciółmi. Zestaw ten wzbogaci LEGO Super Mario Przygody z Mario o upiornie zabawne i zakręcone wyzwania. Zestaw ma ok. 17,5 cm wysokości, 42,5 cm szerokości i 27,5 cm głębokości.
 
+**Galeria:**
+
+- 71377-1: https://a.allegroimg.com/original/110bc4/c50631d74410940531c4995e8ba7
+
 ---
 
-## 71380 — Lego Mario 71380 Mistrzowskie przygody
+## 71380 — Mistrzowskie przygody
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 243.00 zł · EAN: 05702016912456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71380 |
+| Nazwa angielska | Master Your Adventure Maker Set |
+| Nazwa polska | Mistrzowskie przygody |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 366 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912456 |
 
 - **LEGO Super Mario 71380 – Zestaw kreatywny: Stwórz własną przygodę** to rozszerzenie zestawu startowego z serii **LEGO Super Mario**, które daje graczom jeszcze więcej możliwości tworzenia i personalizowania poziomów z ulubionym bohaterem gier Nintendo – Mario.
 Ten interaktywny zestaw zawiera **moduł z kostką personalizacji**, która umożliwia zmianę zasad gry i dodanie nowych wyzwań. Znajdziesz tu również przeszkody, wrogów i elementy specjalne, które urozmaicą każdą przygodę!
@@ -518,11 +832,27 @@ Ten interaktywny zestaw zawiera **moduł z kostką personalizacji**, która umo
 - Zamek, rury, przeszkody i dekoracje do tworzenia własnych map,
 - 366 elementów do łączenia z innymi zestawami z serii Super Mario.
 
+**Galeria:**
+
+- 71380-1: https://a.allegroimg.com/original/050245/15dac5b54c40a29b1819438f4571
+
 ---
 
-## 71381 — Lego Mario 71381 nowy zestaw Julivo
+## 71381 — Spotkanie z Chain Chompem
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702016912463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71381 |
+| Nazwa angielska | Chain Chomp Jungle Encounter Expansion Set |
+| Nazwa polska | Spotkanie z Chain Chompem |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm × gł. 15 cm |
+| EAN | 5702016912463 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -563,11 +893,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 71381-1: https://a.allegroimg.com/original/11c8b1/05c4ea88428b89a389c42bf8f039
+
 ---
 
-## 71382 — Lego Mario 71382 Zawikłane zadanie Piranha Plant
+## 71382 — Zawikłane zadanie Piranha Plant
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016913255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71382 |
+| Nazwa angielska | Piranha Plant Puzzling Challenge Expansion Set |
+| Nazwa polska | Zawikłane zadanie Piranha Plant |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm × gł. 16 cm |
+| EAN | 5702016913255 |
 
 LEGO Super Mario Klocki Zestaw Zawikłane Zadanie Piranha Plant
  
@@ -585,11 +931,27 @@ Dlaczego warto kupić ten produkt?
 - jest uzupełnieniem poziomu Przygody z Mario — zestaw startowy (71360), który jest potrzebny do interaktywnej zabawy 
 - moduł ma ok. 9 cm wysokości, 8 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 71382-1: https://a.allegroimg.com/original/11394b/5797d7924d518e840a73ad3f40a2
+
 ---
 
-## 71383 — Zestaw Lego Mario 71383 Trujące Bagno Wigglera
+## 71383 — Klocki LEGO Super Mario 71383 Trujące bagno Wigglera
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 215.00 zł · EAN: 05702016913262 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71383 |
+| Nazwa angielska | Wiggler's Poison Swamp Expansion Set |
+| Nazwa polska | Klocki LEGO Super Mario 71383 Trujące bagno Wigglera |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 31 cm × gł. 26 cm |
+| EAN | 5702016913262 |
 
 ZESTAW LEGO SUPER MARIO - 71383 - TRUJĄCE BAGNO WIGGLERA
 
@@ -625,11 +987,27 @@ Model oferuje szereg funkcji, które sprawiają, że rozgrywka staje się bardzi
 
 Zestaw LEGO Super Mario 71383 to doskonała propozycja dla dzieci, które lubią dynamiczną, interaktywną zabawę i tworzenie własnych poziomów gry. Dzięki 374 elementom, ciekawym funkcjom, możliwości łączenia z innymi zestawami, produkt zapewnia długie godziny kreatywnej rozrywki. To świetny prezent urodzinowy lub upominek bez okazji, który rozwija wyobraźnię i daje mnóstwo satysfakcji z budowania i zabawy w świecie LEGO Super Mario.
 
+**Galeria:**
+
+- 71383-1: https://a.allegroimg.com/original/11e879/86055a494c9d900eec6dd7f9d908
+
 ---
 
-## 71385 — Lego Mario 71385 Mario szop
+## 71385 — Mario szop
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016913286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71385 |
+| Nazwa angielska | Tanooki Mario Power-Up Pack |
+| Nazwa polska | Mario szop |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913286 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -668,11 +1046,27 @@ LEGO Mario bez granic Kolekcjonerskie zestawy LEGO Super Mario pozwalają bawić
 - Od 1958 r. klocki LEGO niezmiennie spełniają rygorystyczne standardy branżowe, dzięki czemu są zawsze jednolite i można z nich złożyć solidne modele. 
 - Elementy LEGO® są testowane i analizowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71385-1: https://a.allegroimg.com/original/11579a/9f24d41e4e2491137a8e8765dff0
+
 ---
 
-## 71386 — Lego Mario Zestawy postaci seria 2 71386
+## 71386 — Lego Super Mario Zestawy postaci Seria 2 71386
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 25.07 zł · EAN: 05702016913378 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71386 |
+| Nazwa angielska | Huckit Crab |
+| Nazwa polska | Lego Super Mario Zestawy postaci Seria 2 71386 |
+| Seria | Super Mario |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913378 |
 
 LEGO Super Mario Zestawy postaci seria 2 71386
 
@@ -695,11 +1089,27 @@ Cechy produktu:
 - W zbiorze jest 10 wyjątkowych postaci LEGO Super Mario do kolekcjonowania i zabawy: Huckit Crab, Spiny Cheep Cheep, Ninji, Foo, Parachute Goomba, Para-Beetle, Poison Mushroom, Thwimp, Fly Guy i Bone Goomba.
 - Aby wykorzystać wszystkie możliwości tych postaci, potrzebny jest zestaw Przygody z Mario — zestaw startowy (71360), w którym znajduje się figurka LEGO Mario
 
+**Galeria:**
+
+- 71386-1: https://a.allegroimg.com/original/115d7c/1d46370148d39b0b89628f2ef684
+
 ---
 
-## 71387 — Klocki Lego Mario 71387 Przygody z Luigim zestaw startowy
+## 71387 — 71387
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702016912593 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71387 |
+| Nazwa angielska | Adventures with Luigi Starter Course |
+| Nazwa polska | 71387 |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912593 |
 
 Lego Super Mario Przygody z Luigim Starter 71387
  
@@ -711,11 +1121,26 @@ Ten modułowy zestaw LEGO(R) do budowania zawiera 280 elementów i będzie świe
  
 Figurka LEGO(R) Luigiego jest zasilana dwoma bateriami AAA (do nabycia osobno).
 
+**Galeria:**
+
+- 71387-1: https://a.allegroimg.com/original/05b6da/75092ed64c2b862c94b15a4f80b7
+
 ---
 
-## 71388 — Lego Mario 71388 Boss Sumo Bro i wieża
+## 71388 — Boss Sumo Bro i wieża
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016912609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71388 |
+| Nazwa angielska | Boss Sumo Bro Topple Tower Expansion Set |
+| Nazwa polska | Boss Sumo Bro i wieża |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 231 |
+| Cena katalogowa | 139.99 zł |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702016912609 |
 
 Pozwól dzieciom urozmaicić ich świat LEGO® Super Mario™ o kolejne ciekawe wyzwanie dzięki zestawowi Boss Sumo Bro i przewracana wieża — zestaw dodatkowy (71388). Zestaw zawiera wieżę, którą LEGO® Mario™ i LEGO® Luigi™ (figurki nie są częścią zestawu) mogą rozchybotać, skacząc na przełączniki u jej podstawy. Wieżę można zbudować tak, aby miała różną wysokość, a po zrzuceniu Bossa Sumo Bro na jej szczycie odsłania się blok gwiazdy. W zestawie znajduje się również figurka Crowbera.
  
@@ -740,11 +1165,27 @@ Kolekcjonerskie zestawy LEGO Super Mario pozwalają przenieść ulubione postaci
 - Elementy LEGO® już od 1958 roku spełniają surowe branżowe standardy, dzięki czemu zawsze do siebie pasują, mocno się łączą i pozwalają budować solidne modele. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71388-1: https://a.allegroimg.com/original/05a5e9/3f577b4d43d8840a50f5c9792690
+
 ---
 
-## 71389 — Lego Mario 71389 Podniebny świat Lakitu 484 el.
+## 71389 — Podniebny świat Lakitu
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 202.67 zł · EAN: 05702016912616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71389 |
+| Nazwa angielska | Lakitu Sky World Expansion Set |
+| Nazwa polska | Podniebny świat Lakitu |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 484 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 35 cm × gł. 27 cm |
+| EAN | 5702016912616 |
 
 Podniebny świat Lakitu — zestaw dodatkowy (71389) to zestaw, który pozwoli dzieciom wzbogacić świat LEGO® Super Mario™ o nowe ciekawe wyzwanie. W zestawie znajdują się figurki Lakitu, Bullet Billa i Fuzzy’ego, a także blok czasu pozwalający zdobyć kilka dodatkowych chwil podczas rozgrywania poziomu.
 
@@ -768,11 +1209,26 @@ Kolekcjonerskie zestawy LEGO Super Mario przenoszą postacie znane ze świata Su
 - Już od 1958 roku elementy LEGO® spełniają surowe standardy branżowe, dzięki czemu są jednolite, można je z łatwością połączyć i mocno się trzymają. 
 - Klocki konstrukcyjne LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71389-1: https://a.allegroimg.com/original/257c07/90a15ecf48ebb39d786d950a6ba3
+
 ---
 
-## 71390 — Lego Mario Walka Z Reznorami 71390 Zestaw Klocki
+## 71390 — Walka z Reznorami
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 278.98 zł · EAN: 05702016913293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71390 |
+| Nazwa angielska | Reznor Knockdown Expansion Set |
+| Nazwa polska | Walka z Reznorami |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 862 |
+| Cena katalogowa | 329.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 56 cm × gł. 30 cm |
+| EAN | 5702016913293 |
 
 LEGO SUPER MARIO
 
@@ -803,11 +1259,27 @@ Kolekcjonerskie zestawy LEGO Super Mario pozwalają przenieść ulubione postaci
 - Zestaw jest doskonały do zabawy w pojedynkę, ale można go też połączyć z figurką LEGO® Mario™ lub LEGO® Luigi™ (figurki nie są częścią zestawu) za pomocą technologii Bluetooth, aby bawić się ze znajomym i zdobywać dodatkowe monety za współpracę.
 - Moduł w podstawowej konfiguracji ma ok. 25 cm wysokości, 56 cm szerokości i 30 cm głębokości, ale można go przebudować i połączyć z innymi zestawami LEGO® Super Mario™ na wiele sposobów.
 
+**Galeria:**
+
+- 71390-1: https://a.allegroimg.com/original/115b0d/5360b97840e3a60aa2ce2428ac1e
+
 ---
 
-## 71391 — 71391 Lego Mario Sterowiec Bowsera Dodatek
+## 71391 — Sterowiec Bowsera
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 618.39 zł · EAN: 05702016913309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71391 |
+| Nazwa angielska | Bowser's Airship Expansion Set |
+| Nazwa polska | Sterowiec Bowsera |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 19 cm |
+| EAN | 5702016913309 |
 
 Zestaw dodatkowy 71391 pozwala dzieciom zbudować kultowy sterowiec Bowsera, który świetnie sprawdzi się jako ozdoba i umożliwi rozbudowanie świata LEGO® Super Mario™. Sterowiec może przejść w „tryb latania”, a po rozłożeniu — w „tryb rejsu”. Zmierz się z różnymi wyzwaniami: pokonaj mechaniczną rękę Bowsera i użyj bloku POW, aby wykurzyć Rocky Wrencha z kryjówki.
 
@@ -832,11 +1304,27 @@ Kolekcjonerskie zestawy LEGO Super Mario przenoszą ulubione postacie ze świata
 - Elementy LEGO® spełniają surowe branżowe standardy, dzięki czemu zawsze do siebie pasują i mocno się łączą — i tak jest niezmiennie od 1958 roku.
 - Klocki i elementy konstrukcyjne LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71391-1: https://a.allegroimg.com/original/05c9dc/7a1460df46338ea09ecba4947f5d
+
 ---
 
-## 71395 — Lego 71395 Mario Pytajnikowy blok Mario 64 Ostatnia Sztuka! Unikat!
+## 71395 — Pytajnikowy blok Mario 64
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 1579.99 zł · EAN: 05702016912432 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71395 |
+| Nazwa angielska | Super Mario 64 Question Mark Block |
+| Nazwa polska | Pytajnikowy blok Mario 64 |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2064 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912432 |
 
 **LEGO® Super Mario 64™ Blok z pytajnikiem (71395)**
 
@@ -861,11 +1349,27 @@ Seria LEGO® Super Mario oferuje szeroki wybór zestawów startowych, rozszerze�
 
 To idealny zestaw dla fanów Nintendo, kolekcjonerów oraz wszystkich, którzy chcą połączyć sentyment do klasyki z kreatywną zabawą LEGO®.
 
+**Galeria:**
+
+- 71395-1: https://a.allegroimg.com/original/11b648/04fbeede41a3a9b26c3a987a0aff
+
 ---
 
-## 71396 — Lego 71396 Mario Samochód klauna Bowsera Jr. zestaw rozszerzający
+## 71396 — Zestaw rozszerzający Samochód klauna Bowsera Jr.
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 63.77 zł · EAN: 05702017154084 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71396 |
+| Nazwa angielska | Bowser Jr.'s Clown Car Expansion Set |
+| Nazwa polska | Zestaw rozszerzający Samochód klauna Bowsera Jr. |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 10 cm |
+| EAN | 5702017154084 |
 
 Zestaw rozszerzający LEGO® Super Mario™ Samochód klauna Bowsera Jr. pozwala dzieciom rozbudować zestaw startowy o nowe powietrzne wyzwanie z dodatkowymi monetami do zebrania.
  
@@ -893,11 +1397,27 @@ Wzbij się w przestworza dzięki temu ekscytującemu zestawowi rozszerzającemu 
 - Wysoka jakość bez kompromisów - elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność,że łatwo się łączą i mocno się trzymają 
 - Bezpieczeństwo potwierdzone testami - klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71396-1: https://a.allegroimg.com/original/256323/b3e52f0345b99383282fe945e2c2
+
 ---
 
-## 71398 — Klocki Lego Mario 71398 Nabrzeże Dorrie Zestaw Rozszerzający
+## 71398 — Klocki LEGO Super Mario 71398 Zestaw rozszerzający Nabrzeże Dorrie
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 147.00 zł · EAN: 05702017155180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71398 |
+| Nazwa angielska | Dorrie's Beachfront Expansion Set |
+| Nazwa polska | Klocki LEGO Super Mario 71398 Zestaw rozszerzający Nabrzeże Dorrie |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 229 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 36 cm × gł. 27 cm |
+| EAN | 5702017155180 |
 
 KLOCKI LEGO SUPER MARIO - 71398 - NABRZEŻE DORRIE - ZESTAW ROZSZERZAJĄCY
 
@@ -933,11 +1453,27 @@ Nabrzeże Dorrie to nie tylko spokojna plaża, ale również miejsce pełne inte
 
 Zestaw LEGO Super Mario 71398 to idealny wybór dla dzieci, które lubią kreatywną zabawę, przygody i budowanie własnych światów. Dzięki możliwości łączenia z innymi zestawami z serii LEGO Super Mario daje nieograniczone opcje rozbudowy i tworzenia unikalnych poziomów. To zestaw, który świetnie sprawdzi się zarówno do zabawy solo, jak i w grupie, rozwijając wyobraźnię i zachęcając do eksperymentowania. Kolorowa plaża, sympatyczna Dorrie i interaktywne funkcje sprawiają, że każda rozgrywka jest inna. To doskonały pomysł na prezent urodzinowy, ale również świetna niespodzianka bez okazji – szczególnie dla fanów Mario i kreatywnych zestawów LEGO, którzy lubią budować, odkrywać i rywalizować w świecie pełnym przygód.
 
+**Galeria:**
+
+- 71398-1: https://a.allegroimg.com/original/055b6f/e21e3aff4d1496a31b98baf66a97
+
 ---
 
-## 71400 — Lego 71400 Mario Duży jeżowiec i zabawa na plaży zestaw dodatkowy
+## 71400 — Duży jeżowiec i zabawa na plaży
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 333.33 zł · EAN: 05702017155203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71400 |
+| Nazwa angielska | Big Urchin Beach Ride Expansion Set |
+| Nazwa polska | Duży jeżowiec i zabawa na plaży |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 536 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 49 cm × gł. 47 cm |
+| EAN | 5702017155203 |
 
 Zestaw konstrukcyjny LEGO® Super Mario™ 71400 Zestaw rozszerzający Duży jeżowiec i zabawa na plaży (536 elementów)
  
@@ -970,11 +1506,27 @@ Dzięki zestawowi rozszerzającemu Nabrzeże Dorrie dzieci mogą wzbogacić swoj
 - Kreatywność nie zna granic - kolekcjonerskie zestawy LEGO® Super Mario™ pozwalają powołać do życia ulubione postacie ze świata Super Mario™. Zestawy można rozszerzać i przerabiać, urządzając niezliczone kreatywne wyzwania 
 - Bezpieczeństwo przede wszystkim - dokładnie testujemy elementy LEGO®, więc mamy pewność, że spełniają one surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71400-1: https://a.allegroimg.com/original/11f633/73b0634a4a03bb5cef21d2cec43c
+
 ---
 
-## 71401 — Lego Mario Zestaw Zabawa w straszonego w rezydencji Luigiego 71401
+## 71401 — Zabawa w straszonego w rezydencji Luigiego
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702017155210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71401 |
+| Nazwa angielska | Luigi's Mansion Haunt-and-Seek Expansion Set |
+| Nazwa polska | Zabawa w straszonego w rezydencji Luigiego |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 877 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 44 cm × gł. 36 cm |
+| EAN | 5702017155210 |
 
 LEGO® Super Mario™ 71401 Zestaw rozszerzający Zabawa w straszonego w rezydencji Luigiego™ (877 elementów)
 
@@ -1012,33 +1564,27 @@ Nieograniczone możliwości tworzenia poziomów - modułowe zestawy LEGO® Super
 
 Bezpieczeństwo przede wszystkim - klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia wymagające światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 71402 — Lego Mario 71402 Zestawy postaci seria 4
-
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702017155227 · in stock*
-
-Klocki LEGO® Super Mario
- 
-Przygody z Luigim zestaw startowy
- 
-wiek:6+
- 
-elementy-280
-
-Podaruj dzieciom zestaw Przygody z Luigim — zestaw startowy (71387), aby otworzyć przed nimi drzwi do interaktywnego uniwersum LEGO® Super Mario™. Zawiera on figurkę LEGO® Luigiego™, która żywiołowo reaguje na otoczenie za pomocą wyświetlacza LCD oraz głośniczka i będzie idealnym prezentem dla dzieci lubiących nadawać ton zabawie. Zadaniem graczy jest pomagać LEGO Luigiemu w pokonaniu wirującej huśtawki i ukończeniu zadań z lataniem — za wszystko można zarobić cyfrowe monety. Figurka może też wchodzić w interakcje z Pink Yoshim i stanąć do walki z Boom Boomem oraz Bone Goombą. W tym biomie Tower znalazły się też klocki w kolorze brązowego nugata — one również wyzwalają u LEGO Luigiego różne reakcje, zaś pytajnikowy blok pozwala mu zdobywać dodatkowe nagrody.
- 
-Kreatywna zabawa
- 
-Nieograniczone możliwości
- 
-Kolekcjonerskie zestawy zabaw LEGO Super Mario pozwalają grać w nowy sposób, przenosząc do prawdziwego świata kultowe postacie z gier Super Mario. Seria obejmuje zestawy startowe i rozszerzające oraz ulepszenia, a fani mogą łączyć je w najróżniejsze kombinacje, tworząc własne poziomy.
+- 71401-1: https://a.allegroimg.com/original/05d01d/ff4e642a407a833f0348512c3654
 
 ---
 
-## 71403 — Klocki Lego Mario 71403 Przygody z Peach zestaw startowy
+## 71403 — Przygody z Peach zestaw startowy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702017155234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71403 |
+| Nazwa angielska | Adventures with Peach Starter Course |
+| Nazwa polska | Przygody z Peach zestaw startowy |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 354 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155234 |
 
 LEGO Super Mario 71403 Przygody z Peach zestaw startowy
  
@@ -1066,11 +1612,26 @@ Baw się dobrze podczas wykonywania zadań z prezentami i wystrzel figurkę Lava
 - Buduj niepowtarzalne poziomy — kolekcjonerskie zabawki konstrukcyjne LEGO® Super Mario™ oferują fanom nieograniczone możliwości rozbudowywania, przekształcania i tworzenia unikatowych poziomów umożliwiających wielogodzinną zabawę w zbieranie monet 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO® na niemal każdy możliwy sposób, aby mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71403-1: https://a.allegroimg.com/original/11640e/22345b19408bba2e980ba969a972
+
 ---
 
-## 71404 — Lego 71404 But Goomby zestaw rozszerzający
+## 71404 — LEGO SUPER MARIO 71404 But Goomby
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017155241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71404 |
+| Nazwa angielska | Goomba's Shoe Expansion Set |
+| Nazwa polska | LEGO SUPER MARIO 71404 But Goomby |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 76 |
+| Cena katalogowa | 45.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702017155241 |
 
 LEGO® 71404 But Goomby - zestaw rozszerzający
 
@@ -1104,11 +1665,26 @@ Kolekcjonerskie zestawy LEGO Super Mario to fantastyczne prezenty dla dzieci, kt
 - Wysoka jakość bez kompromisów — elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że do siebie pasują i mocno się trzymają
 - Gwarancja bezpieczeństwa — klocki konstrukcyjne LEGO® są dokładnie testowane i sprawdzane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71404-1: https://a.allegroimg.com/original/11e058/6f8e298f4bb0af13007ed22b22f1
+
 ---
 
-## 71405 — Lego Mario 71405 Salta Fuzzy’ego zestaw rozszerzający
+## 71405 — Salta Fuzzy’ego zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702017155258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71405 |
+| Nazwa angielska | Fuzzy Flippers Expansion Set |
+| Nazwa polska | Salta Fuzzy’ego zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 154 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 20 cm × gł. 17 cm |
+| EAN | 5702017155258 |
 
 Wzbogać swój poziom LEGO® Super Mario™ o podniebne wyzwanie z figurkami latających Fuzzych. Wskocz na pomarańczową grzybową trampolinę i dopadnij przeciwników. A gdy zabraknie Ci cennych sekund, nie zapomnij wskoczyć na blok czasu.
  
@@ -1128,11 +1704,26 @@ Dzieci w wieku od sześciu lat mogą wzbogacić swoje poziomy LEGO® Super Mario
 - Wspólna kreatywna zabawa — kolekcjonerskie zestawy LEGO® Super Mario™ oferują nieograniczone możliwości rozbudowywania, przebudowywania i tworzenia unikatowych poziomów w sam raz do zabawy w pojedynkę lub z rodziną i znajomymi 
 - Bezpieczeństwo przede wszystkim — klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71405-1: https://a.allegroimg.com/original/11c5b1/4c700ef94ad0bf7608f626fe1400
+
 ---
 
-## 71406 — Lego Mario Dom prezentów Yoshiego zestaw rozszerzający 71406
+## 71406 — Dom prezentów Yoshiego zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702017155265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71406 |
+| Nazwa angielska | Yoshi's Gift House Expansion Set |
+| Nazwa polska | Dom prezentów Yoshiego zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 246 |
+| Cena katalogowa | 159.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017155265 |
 
 LEGO Super Mario Dom prezentów Yoshiego - zestaw rozszerzający 71406
 
@@ -1154,11 +1745,26 @@ Cechy produktu:
 - Prezent dla sześciolatków i starszych dzieci — podaruj ten 246-elementowy zestaw jako prezent pod choinkę lub bez okazji dzieciom, które lubią nowe trendy i mają już zestaw startowy LEGO Super Mario (71360, 71387 lub 71403) wymagany do zabawy
 - Przebudowuj i łącz — modułowy zestaw w swojej podstawowej konfiguracji ma ok
 
+**Galeria:**
+
+- 71406-1: https://a.allegroimg.com/original/110eb8/41a99de2414c84701ac1afbfa0e5
+
 ---
 
-## 71407 — Lego Mario 71407 Cat Peach i lodowa wieża zestaw rozszerzający
+## 71407 — Cat Peach i lodowa wieża - zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702017155272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71407 |
+| Nazwa angielska | Cat Peach Suit and Frozen Tower Expansion Set |
+| Nazwa polska | Cat Peach i lodowa wieża - zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 494 |
+| Cena katalogowa | 329.99 zł |
+| Wymiary złożonego | wys. 35 cm × szer. 32 cm × gł. 20 cm |
+| EAN | 5702017155272 |
 
 LEGO Super Mario 71407 Cat Peach i lodowa wieża - zestaw rozszerzający
  
@@ -1191,11 +1797,26 @@ Zestawy startowe i rozszerzające LEGO Super Mario pozwalają fanom rozbudowywa�
 - Wysoka jakość — już od 1958 roku elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają 
 - Dzięki temu mamy pewność, że każdy z nich spełnia wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71407-1: https://a.allegroimg.com/original/257d3a/0a6d0d1f449cba5cf307a3bf5cb1
+
 ---
 
-## 71408 — Lego Mario 71408 Zamek Peach. Nowy, zdjęcia.
+## 71408 — Zamek Peach
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702017155289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71408 |
+| Nazwa angielska | Peach's Castle Expansion Set |
+| Nazwa polska | Zamek Peach |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1216 |
+| Cena katalogowa | 579.99 zł |
+| Wymiary złożonego | wys. 30 cm × szer. 36 cm × gł. 48 cm |
+| EAN | 5702017155289 |
 
 LEGO Super Mario 71408 Zamek Peach
 
@@ -1231,11 +1852,26 @@ Zestawy startowe i rozszerzające LEGO Super Mario pozwalają fanom rozbudowywa�
 - Wysoka jakość — elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają, pozwalając budować solidne modele 
 - Bezpieczeństwo przede wszystkim — klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71408-1: https://a.allegroimg.com/original/1197c6/7f6053e54e509be6f0715e3ae576
+
 ---
 
-## 71409 — Lego Mario Big Spike i chmury zestaw rozszerzający 71409
+## 71409 — Big Spike i chmury zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017155296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71409 |
+| Nazwa angielska | Big Spike's Cloudtop Challenge Expansion Set |
+| Nazwa polska | Big Spike i chmury zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 540 |
+| Cena katalogowa | 329.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 38 cm × gł. 25 cm |
+| EAN | 5702017155296 |
 
 LEGO Super Mario 71409 Big Spike i chmury zestaw rozszerzający
  
@@ -1268,11 +1904,27 @@ Ten zestaw doskonale sprawdzi się jako prezent dla siedmiolatków i starszych d
 - Kreatywność dzieci rozkwita — kolekcjonerskie zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują zabawę w zbieranie monet i nieograniczone kreatywne wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy 
 - Wysoka jakość — elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku. Dzięki temu łączą się łatwo i dobrze trzymają, co pozwala budować solidne modele
 
+**Galeria:**
+
+- 71409-1: https://a.allegroimg.com/original/25b7c1/874081ef41de9a0dc48346897c18
+
 ---
 
-## 71410 — Lego 71410 Mario Zestawy postaci seria 5
+## 71410 — Zestawy postaci seria 5
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 184.31 zł · EAN: 05702017155302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71410 |
+| Nazwa angielska | Red Yoshi |
+| Nazwa polska | Zestawy postaci seria 5 |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155302 |
 
 LEGO 71410 Super Mario - Zestawy postaci - seria 5
 
@@ -1296,11 +1948,27 @@ Do zabawy potrzeba zestawu startowego 71360, 71387 lub 71403.
 
 Postać może być ozdobą lub dodatkiem do budowanych poziomów.
 
+**Galeria:**
+
+- 71410-1: https://a.allegroimg.com/original/1193f1/bac3896a4f88a471d9abed81c6e6
+
 ---
 
-## 71411 — Lego Mario 71411 Potężny Bowser
+## 71411 — Potężny Bowser
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 1004.60 zł · EAN: 05702017155319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71411 |
+| Nazwa angielska | The Mighty Bowser |
+| Nazwa polska | Potężny Bowser |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2807 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 28 cm |
+| EAN | 5702017155319 |
 
 **LEGO Super Mario 71411 Potężny Bowser**
  
@@ -1338,11 +2006,27 @@ Zestaw LEGO Super Mario Potężny Bowser (71411) - zbuduj imponującego Króla K
 - Jakość na medal - elementy LEGO spełniają rygorystyczne branżowe standardy jakości, dzięki czemu łatwo się łączą, mocno się trzymają i pozwalają tworzyć solidne modele 
 - Bezpieczeństwo przede wszystkim - klocki i elementy konstrukcyjne LEGO są testowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71411-1: https://a.allegroimg.com/original/11b745/beae665141d2ab02dedfd0b198eb
+
 ---
 
-## 71412 — Lego Mario 71412 Wielka zła wyspa zestaw rozszerzający
+## 71412 — LEGO Super Mario 71412 Wielka zła wyspa zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017229461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71412 |
+| Nazwa angielska | Big Bad Island Expansion Set |
+| Nazwa polska | LEGO Super Mario 71412 Wielka zła wyspa zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 354 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 35 cm × gł. 16 cm |
+| EAN | 5702017229461 |
 
 LEGO® Super Mario™
  
@@ -1370,11 +2054,26 @@ Odwiedź wielką złą wyspę i stocz na niej wielkie bitwy. Wskocz na wyrzutni�
  
 Przebudowuj i łącz — modułowy zestaw w swojej podstawowej konfiguracji ma ok. 14 cm wysokości, 35 cm szerokości i 16 cm głębokości. Można go również połączyć z innymi zestawami LEGO® Super Mario™
 
+**Galeria:**
+
+- 71412-1: https://a.allegroimg.com/original/059859/f3175570450081f27f4c1a0a8050
+
 ---
 
-## 71414 — Lego Mario 71414 Rozszerzenie: Uderzenie Conadora
+## 71414 — Conkdor's Noggin Bopper Expansion Set
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 62.00 zł · EAN: 05702017399874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71414 |
+| Nazwa angielska | Conkdor's Noggin Bopper Expansion Set |
+| Nazwa polska | Conkdor's Noggin Bopper Expansion Set |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 130 |
+| Cena katalogowa | 69.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 6 cm × gł. 15 cm |
+| EAN | 5702017399874 |
 
 Czy uda ci się pokonać Conkdora? Wskocz na przełącznik przed tą ogromną postacią z długą szyją, dużym dziobem i fajnymi okularami. Ale bądź ostrożny, bo kiedy wylądujesz na przełączniku, Conkdor będzie próbował cię dziobać. Pokonaj go, skacząc mu po głowie, a następnie odbij się od trampoliny, aby ponownie się podnieść!
  
@@ -1404,11 +2103,27 @@ Kolekcjonerskie zestawy LEGO Super Mario Starter and Expansion pozwalają fanom 
 - Wysoka jakość - LEGO® elementy spełniają rygorystyczne standardy branżowe, zapewniając, że są spójne, zawsze kompatybilne oraz z łatwością łączą się i rozrywają 
 - Gwarantowane bezpieczeństwo - LEGO® i elementy konstrukcyjne są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają one wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71414-1: https://a.allegroimg.com/original/051808/c7ed754047d7a9a94c7079a68996
+
 ---
 
-## 71415 — Lego 71415 Mario Mario lodowy strój i kraina lodu ----- Outlet
+## 71415 — Mario lodowy strój i kraina lodu zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017415697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71415 |
+| Nazwa angielska | Ice Mario Suit and Frozen World Expansion Set |
+| Nazwa polska | Mario lodowy strój i kraina lodu zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415697 |
 
 - 
 
@@ -1434,11 +2149,27 @@ Kreatywność bez granic
 
 Zestawy startowe i rozszerzające LEGO Super Mario pozwalają fanom rozbudowywać, przekształcać i tworzyć własne unikatowe poziomy, na których przez wiele godzin można się bawić w zbieranie monet.
 
+**Galeria:**
+
+- 71415-1: https://a.allegroimg.com/original/05e645/c90288bf40b08dc97832a88205a6
+
 ---
 
-## 71416 — Lego 71416 Mario Przejażdżka po fali lawy
+## 71416 — Przejażdżka po fali lawy - zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 239.95 zł · EAN: 05702017399836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71416 |
+| Nazwa angielska | Lava Wave Ride Expansion Set |
+| Nazwa polska | Przejażdżka po fali lawy - zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 32 cm × gł. 15 cm |
+| EAN | 5702017399836 |
 
 LEGO 71416 Super Mario - Przejażdżka po fali lawy - zestaw rozszerzający
 
@@ -1480,11 +2211,26 @@ Ten kolekcjonerski zestaw to świetny prezent dla dzieci w wieku od siedmiu lat,
 
 - Gwarancja bezpieczeństwa – klocki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71416-1: https://a.allegroimg.com/original/11bccb/c36d859d4ccaa5c607763c6c455f
+
 ---
 
-## 71417 — Lego 71417 Mario Śniegowa Przygoda Fliprusa
+## 71417 — Śniegowa przygoda Fliprusa – zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017415703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71417 |
+| Nazwa angielska | Fliprus Snow Adventure Expansion Set |
+| Nazwa polska | Śniegowa przygoda Fliprusa – zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 567 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 39 cm × gł. 26 cm |
+| EAN | 5702017415703 |
 
 LEGO Super Mario 71417 Śniegowa przygoda Fliprusa zestaw rozszerzający
 
@@ -1524,11 +2270,26 @@ Kreatywność dzieci rozkwita kolekcjonerskie zestawy LEGO Super Mario do zabawy
 
 Wysoka jakość elementy LEGO spełniają wymogi najwyższych standardów branżowych już od 1958 roku. Dzięki temu łączą się łatwo i dobrze trzymają, co pozwala budować solidne modele
 
+**Galeria:**
+
+- 71417-1: https://a.allegroimg.com/original/11ff12/52fb1e1a4282a79f130fe713cf46
+
 ---
 
-## 71418 — Lego Mario Kreatywna skrzyneczka 71418
+## 71418 — Kreatywna skrzyneczka zestaw twórcy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 227.66 zł · EAN: 05702017415710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71418 |
+| Nazwa angielska | Creativity Toolbox Maker Set |
+| Nazwa polska | Kreatywna skrzyneczka zestaw twórcy |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 588 |
+| Cena katalogowa | 279.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017415710 |
 
 LEGO SUPER MARIO
 
@@ -1572,11 +2333,27 @@ Specyfikacja zestawu:
 - **Płeć dziecka:** chłopcy i dziewczynki
 - **Ilość elementów:** 588
 
+**Galeria:**
+
+- 71418-1: https://a.allegroimg.com/original/115e93/006df2524b5f99f0349d32a9677d
+
 ---
 
-## 71419 — Lego 71419 Mario Peach lot balonem i ogródek
+## 71419 — Peach – lot balonem i ogródek – zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 225.21 zł · EAN: 05702017434094 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71419 |
+| Nazwa angielska | Peach's Garden Balloon Ride Expansion Set |
+| Nazwa polska | Peach – lot balonem i ogródek – zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 453 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434094 |
 
 LEGO 71419 Super Mario - Peach - lot balonem i ogródek - zestaw rozszerzający
 
@@ -1592,11 +2369,26 @@ Ilość klocków:** 453**
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 71419-1: https://a.allegroimg.com/original/119330/577d1af24adc8f7d7560918a4beb
+
 ---
 
-## 71420 — Lego Mario 71420 Nosorożec Rambi
+## 71420 — Nosorożec Rambi
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 26.99 zł · EAN: 05702017415727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71420 |
+| Nazwa angielska | Rambi the Rhino Expansion Set |
+| Nazwa polska | Nosorożec Rambi |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 106 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702017415727 |
 
 LEGO Super Mario 71420 Nosorożec Rambi
  
@@ -1652,11 +2444,26 @@ Zabawa w rozbijanie skał z nosorożcem Rambim Przygotuj się na przygody z LEGO
  
 • Klocki LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71420-1: https://a.allegroimg.com/original/059c6c/83d84303498b9de7dba2eb1addef
+
 ---
 
-## 71421 — klocki Lego Mario 71421 Dżunglowy koncert Dixie Kong zest. rozszerz.
+## 71421 — Dixie Kong and the Jungle Concert - Zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702017415734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71421 |
+| Nazwa angielska | Dixie Kong's Jungle Jam Expansion Set |
+| Nazwa polska | Dixie Kong and the Jungle Concert - Zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 174 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 24 cm × gł. 10 cm |
+| EAN | 5702017415734 |
 
 Dzięki temu zestawowi LEGO® Super Mario™ Dżunglowy koncert Dixie Kong — zestaw rozszerzający (71421), dzieci mogą wybrać się do dżungli, domu Donkey Konga™. Zestaw zawiera figurki Dixie Kong i papugi Squawksa, scenę do zbudowania, scenerię dżungli oraz instrumenty muzyczne i sprzęt. Umieść LEGO® Mario™, LEGO® Luigiego™ lub LEGO® Peach™ (figurki nie wchodzą w skład zestawu) na środku sceny i obróć je, aby połączone ze sobą platformy sceniczne zaczęły się obracać, uruchamiając muzyczne dźwięki. Uwaga: do interaktywnej gry wymagany jest zestaw startowy 71360, 71387 lub 71403.
 
@@ -1678,11 +2485,26 @@ Ten kolekcjonerski zestaw świetnie sprawdzi się jako prezent dla kreatywnych d
 - Cyfrowe instrukcje — pobierz aplikację LEGO® Super Mario™, która zawiera instrukcje budowania, inspirujące pomysły i nie tylko.
 - Kreatywność dzieci rozkwita — kolekcjonerskie zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują zabawę w zbieranie monet i nieograniczone kreatywne wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy
 
+**Galeria:**
+
+- 71421-1: https://a.allegroimg.com/original/053c43/894e129d4891a3681118b20fab8f
+
 ---
 
-## 71422 — Klocki Lego Mario 71422 Piknik w domu Mario zestaw rozszerzający
+## 71422 — Piknik w domu Mario - dodatek
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017415741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71422 |
+| Nazwa angielska | Picnic at Mario's House Expansion Set |
+| Nazwa polska | Piknik w domu Mario - dodatek |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 259 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 24 cm × gł. 20 cm |
+| EAN | 5702017415741, 5702017525983 |
 
 Klocki LEGO Super Mario 71422 Piknik w domu Mario - zestaw rozszerzający
 
@@ -1732,11 +2554,28 @@ Odwiedź Mario w jego domu i zorganizujcie piknik z Yellow Yoshim. Zjedz ciastka
 
 • Elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71422-1: https://a.allegroimg.com/original/11fccc/a22077f44ad79cfdceacdc8b1796
+- 71422-2: https://a.allegroimg.com/original/11b250/c1a271314104a915b65b91793fcd
+
 ---
 
-## 71423 — Lego Mario Walka w zamku Dry Bowsera 71423
+## 71423 — Bitwa na zamku
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 865.77 zł · EAN: 05702017415758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71423 |
+| Nazwa angielska | Dry Bowser Castle Battle Expansion Set |
+| Nazwa polska | Bitwa na zamku |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 46 cm × gł. 31 cm |
+| EAN | 5702017415758 |
 
 LEGO SUPER MARIO
 
@@ -1790,11 +2629,26 @@ Czy potrafisz uratować Purple Toada z zamku? Znajdź tajne wejście… ale uwa�
 
 • Elementy LEGO spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71423-1: https://a.allegroimg.com/original/0531c9/e40a6e8048298a25be4a093d6b92
+
 ---
 
-## 71424 — Klocki Lego Mario 71424 Domek na drzewie Donkey Konga zestaw roz.
+## 71424 — Domek na drzewie Donkey Konga
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702017415765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71424 |
+| Nazwa angielska | Donkey Kong's Tree House |
+| Nazwa polska | Domek na drzewie Donkey Konga |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 555 |
+| Cena katalogowa | 289.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 46 cm × gł. 17 cm |
+| EAN | 5702017415765 |
 
 LEGO Super Mario 71424 Domek na drzewie Donkey Konga
  
@@ -1848,11 +2702,26 @@ Wskocz na grzbiet Donkey Konga, tupnij i rozbijaj różne rzeczy! Zrzuć banana 
  
 • Elementy LEGO spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71424-1: https://a.allegroimg.com/original/296983/c9913d5d49abae8c90179d85023d
+
 ---
 
-## 71425 — 71425 Lego Mario Przejażdżka wagonikiem
+## 71425 — Przejażdżka wagonikiem Diddy Konga zestaw rozszerzający
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 313.90 zł · EAN: 05702017415772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71425 |
+| Nazwa angielska | Diddy Kong's Mine Cart Ride Expansion Set |
+| Nazwa polska | Przejażdżka wagonikiem Diddy Konga zestaw rozszerzający |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1157 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 51 cm × gł. 50 cm |
+| EAN | 5702017415772 |
 
 **71425 LEGO SUPER MARIO Przejażdżka wagonikiem** 
 
@@ -1900,11 +2769,26 @@ W 1975 roku w zestawach pojawiły się pierwsze proste minifigurki, a obecną fo
  
 Koncern Lego w 2010 posiadał około 70% udziału w światowym rynku klocków, co oznacza, iż około 400 mln ludzi bawi się corocznie jej produktam
 
+**Galeria:**
+
+- 71425-1: https://a.allegroimg.com/original/115913/2baa7e504ea0a4be19e0fbd8f4a9
+
 ---
 
-## 71426 — Lego Mario 71426 Lego Mario 71426 Kwiatek Pirania
+## 71426 — LEGO SUPER MARIO 71426 KWIATEK PIRANIA
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 239.80 zł · EAN: 05702017415789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71426 |
+| Nazwa angielska | Piranha Plant |
+| Nazwa polska | LEGO SUPER MARIO 71426 KWIATEK PIRANIA |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 540 |
+| Cena katalogowa | 289.99 zł |
+| Wymiary złożonego | wys. 23 cm × szer. 11 cm × gł. 17 cm |
+| EAN | 5702017415789 |
 
 **PRODUCENT**: LEGO
  
@@ -1933,11 +2817,27 @@ Zwróć uwagę na inne wysokiej jakości zestawy LEGO dla dorosłych z tej kolek
 - Najwyższa jakość — klocki LEGO® spełniają wymagające branżowe standardy jakości, więc możesz mieć pewność, że łatwo się łączą i mocno się trzymają 
 - Gwarancja bezpieczeństwa — testujemy elementy LEGO® na niemal każdy możliwy sposób, aby mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71426-1: https://a.allegroimg.com/original/0596ec/c0fdbfa74236b471778493648039
+
 ---
 
-## 71427 — Lego 71427 Mario Statki powietrzne Larry’ego i Mortona
+## 71427 — Zestaw rozszerzający sterowce Larry'ego i Mortona
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 449.89 zł · EAN: 05702017434100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71427 |
+| Nazwa angielska | Larry's and Morton’s Airships Expansion Set |
+| Nazwa polska | Zestaw rozszerzający sterowce Larry'ego i Mortona |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1062 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 12 cm |
+| EAN | 5702017434100 |
 
 LEGO® 71427 Super Mario - Statki powietrzne Larry’ego i Mortona — zestaw rozszerzający
 
@@ -1989,11 +2889,27 @@ Otwórz statek Mortona, aby rozpocząć bitwę.
 
 - Nieograniczona kreatywność — kolekcjonerskie zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują zabawę w zbieranie monet i nieograniczone wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy
 
+**Galeria:**
+
+- 71427-1: https://a.allegroimg.com/original/11f1a1/327bf455427da5e5f79d32144911
+
 ---
 
-## 71428 — Dodatek kompatybilny do Lego Mario
+## 71428 — Yoshi i fantastyczny las jaj – dodatek
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 30.00 zł · EAN: 05702017592749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71428 |
+| Nazwa angielska | Yoshis' Egg-cellent Forest Expansion Set |
+| Nazwa polska | Yoshi i fantastyczny las jaj – dodatek |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592749 |
 
 **Przedmiotem sprzedaży jest dodatek do LEGO MARIO w postaci wyłącznie 1 sztuki przebrania/kostiumu - BEZ FIGURKI MARIA:**
 
@@ -2014,11 +2930,27 @@ Ta kreatywna zabawka do zbudowania **nie wymaga baterii** — zacznie działać,
 
 Przedmiot wykonany z plastiku. Po złożeniu zamówienia należy podać informację, który kostium Państwo wybieracie w innym przypadku wysyłamy losowo.
 
+**Galeria:**
+
+- 71428-1: https://a.allegroimg.com/original/11cd2b/1ff06b4841799ccd69fd9905a023
+
 ---
 
-## 71429 — Lego 71429 Mario Nabbit w sklepie Toada zestaw rozszerzający Nowe
+## 71429 — Nabbit w sklepie Toada
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 138.15 zł · EAN: 05702017592756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71429 |
+| Nazwa angielska | Nabbit at Toad's Shop |
+| Nazwa polska | Nabbit w sklepie Toada |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 23 cm × gł. 12 cm |
+| EAN | 5702017592756 |
 
 LEGO 71429 Super Mario - Nabbit w sklepie Toada - zestaw rozszerzający
 
@@ -2048,21 +2980,53 @@ Interaktywną zabawę zapewnią figurki LEGO® Mario™, LEGO® Luigi™ lub LEG
 
 - Sklep do zbudowania z klocków — **sklep Toada ma 16 cm wysokości, 23 cm szerokości i 12 cm głębokości** i można go dodać do innych zestawów LEGO® Super Mario™
 
+**Galeria:**
+
+- 71429-1: https://a.allegroimg.com/original/298c9f/7a6661b04b45bebbcb284a1821b7
+
 ---
 
-## 71430 — Lego Mario 71430 Śnieżna przygoda z rodziną pingwinów
+## 71430 — Śnieżna przygoda z rodziną pingwinów
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702017592398 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71430 |
+| Nazwa angielska | Penguin Family Snow Adventure Expansion Set |
+| Nazwa polska | Śnieżna przygoda z rodziną pingwinów |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592398 |
 
 Śniegowa przygoda penguinów – zestaw rozszerzający
 
 Super Mario™ Śniegowa przygoda penguinów – zestaw rozszerzający LEGO® Super Mario™ Śniegowa przygoda penguinów — zestaw rozszerzający LEGO® Super Mario™ Śniegowa przygoda penguinów — zestaw rozszerzający Zbuduj magiczny, śnieżny świat z figurkami penguina, małego penguina i Goomby z gry LEGO® Super Mario™. Kreatywna zabawa z postaciami Super Mario™ do zbudowania W zestawie LEGO® Super Mario™ Śniegowa przygoda penguinów — zestaw rozszerzający (71430) na siedmiolatków i starsze dzieci czeka wspaniała zabawa w odgrywanie ról. Oferuje ona instrukcje budowania, inspiracje dotyczące pomysłów na budowanie oraz zabawę, a także bezpieczne forum, na którym dzieci mogą dzielić się modelami. Dołącz do penguina i małego penguina, aby przeżyć z nimi magiczną zimową przygodę! Bawcie się w jaskini… ale uważajcie na Goombę! Następnie zjedźcie lodową ślizgawką, która zmienia się w lodowisko. A jeśli chcecie przeżyć interaktywną, cyfrową przygodę, pomóżcie figurkom LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (nie są częścią zestawu) odnaleźć zagubionego rodzica małego penguina!
 
+**Galeria:**
+
+- 71430-1: https://a.allegroimg.com/original/2927a8/72d2a7ab4005849d73dc1d88ade7
+
 ---
 
-## 71431 — Lego Mario 71431 Muscle car Bowsera zestaw rozszerzający
+## 71431 — Samochód sportowy Bowsera
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702017592404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71431 |
+| Nazwa angielska | Bowser's Muscle Car Expansion Set |
+| Nazwa polska | Samochód sportowy Bowsera |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 458 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm |
+| EAN | 5702017592404 |
 
 Muscle car Bowsera — zestaw rozszerzający
 
@@ -2079,11 +3043,27 @@ Cechy zestawu:
 - **Pobudź dziecięcą kreatywność** — zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują interaktywną zabawę w zbieranie monet i kreatywne wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy
 - **Pojazd do zbudowania** — samochód Bowsera ma 7 cm wysokości, 15 cm długości i 10 cm szerokości. Model można połączyć z innymi zestawami LEGO® Super Mario™
 
+**Galeria:**
+
+- 71431-1: https://a.allegroimg.com/original/1136cc/5d41ffe0464e9a1cc2f48b2ef323
+
 ---
 
-## 71432 — Lego 71432 nowy zestaw Julivo
+## 71432 — Dorrie i przygody wraku
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702017592411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71432 |
+| Nazwa angielska | Dorrie's Sunken Shipwreck Adventure Expansion Set |
+| Nazwa polska | Dorrie i przygody wraku |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 30 cm × gł. 21 cm |
+| EAN | 5702017592411 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2118,11 +3098,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 71432-1: https://a.allegroimg.com/original/29d10c/939acd4d41a6988a19d91e7c935b
+
 ---
 
-## 71433 — Lego Mario 71433 Goomba i plac zabaw zestaw klocków dla dzieci 7+
+## 71433 — Super Mario 71433 Goombas na boisku
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702017592428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71433 |
+| Nazwa angielska | Goombas' Playground |
+| Nazwa polska | Super Mario 71433 Goombas na boisku |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592428 |
 
 LEGO Super Mario 71433 Goomba i plac zabaw
 
@@ -2134,11 +3130,27 @@ Ciesz się zabawą z tym wspaniałym i pełnym przygód zestawem dla dzieci LEGO
 
 • Zestaw LEGO® Super Mario™ Goomba do przygodowego odgrywania ról • Zabawny zestaw kolekcjonerski Nintendo® z 3 figurkami Goomby • Zmontowany pień drzewa z wyskakującym Goombą i huśtawką • Dodaj interaktywną figurkę (brak w zestawie) i ciesz się interaktywną grą cyfrową • Spraw radość chłopcom dzięki temu prezentowi Nintendo®,Dziewczętom i fanom gier wideo od 7 lat • Instrukcje budowania i wiele innych treści można znaleźć w aplikacji towarzyszącej LEGO® Super Mario™ • Zestawy LEGO® Super Mario™ inspirują wyobraźnię dzieci • Pień drzewa i huśtawka mają ponad 18 cm szerokości
 
+**Galeria:**
+
+- 71433-1: https://a.allegroimg.com/original/05c052/4e6f78624c339c945c6467c91488
+
 ---
 
-## 71434 — Lego Mario Soda Jungle zestaw twórcy 71434
+## 71434 — Soda Jungle - zestaw twórcy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 200.90 zł · EAN: 05702017592435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71434 |
+| Nazwa angielska | Soda Jungle Maker Set |
+| Nazwa polska | Soda Jungle - zestaw twórcy |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 598 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592435 |
 
 **LEGO Super Mario Soda Jungle - zestaw twórcy 71434**
 
@@ -2162,11 +3174,27 @@ Ta zabawka do przebudowywania doskonale nadaje się do zabawy w pojedynkę lub j
 
 • Kolekcjonerskie zestawy LEGO® Super Mario™ pozwalają dzieciom rozwijać kreatywność
 
+**Galeria:**
+
+- 71434-1: https://a.allegroimg.com/original/112f9d/09e37ff248bb8b4aef9e41d9b7d7
+
 ---
 
-## 71435 — Lego Mario 71435 Roy i bitwa na zamku Peach zamek
+## 71435 — Super Mario 71435 Bitwa pod Royem w Peach Castle
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702017592442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71435 |
+| Nazwa angielska | Battle with Roy at Peach's Castle |
+| Nazwa polska | Super Mario 71435 Bitwa pod Royem w Peach Castle |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 738 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592442 |
 
 **LEGO Super Mario Roy i bitwa na zamku Peach 71435**
  
@@ -2188,11 +3216,27 @@ Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO Super Mario, któr
  
 • Zestawy LEGO® Super Mario™ pomagają dzieciom rozwijać wyobraźnię
 
+**Galeria:**
+
+- 71435-1: https://a.allegroimg.com/original/29a7e6/4ff0a3614552a8e1cae706cfd037
+
 ---
 
-## 71436 — Lego 71436 Mario Rezydencja Kinga Boo
+## 71436 — Super Mario 71436 King Boo i nawiedzony dwór
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 799.99 zł · EAN: 05702017592459 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71436 |
+| Nazwa angielska | King Boo's Haunted Mansion |
+| Nazwa polska | Super Mario 71436 King Boo i nawiedzony dwór |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 932 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592459 |
 
 **LEGO Super Mario Nawiedzona rezydencja Kinga Boo 71436**
  
@@ -2214,11 +3258,27 @@ Instrukcje budowania do tego kolekcjonerskiego zestawu Nintendo® znajdują się
  
 • Zestawy LEGO® Super Mario™ pomagają dzieciom rozwijać wyobraźnię
 
+**Galeria:**
+
+- 71436-1: https://a.allegroimg.com/original/298671/bfeaffa746e8a290850251fcafd1
+
 ---
 
-## 71437 — Lego 71437 Mario Bowser i pociąg ekspresowy
+## 71437 — Bowser i pociąg ekspresowy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 948.99 zł · EAN: 05702017592466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71437 |
+| Nazwa angielska | The Bowser Express Train |
+| Nazwa polska | Bowser i pociąg ekspresowy |
+| Seria | Super Mario |
+| Grupa wiekowa | — |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1392 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 12 cm |
+| EAN | 5702017592466 |
 
 Klocki LEGO Super Mario 71437 - Bowser i pociąg ekspresowy
 
@@ -2253,11 +3313,26 @@ Zestaw LEGO Super Mario - Bowser i pociąg ekspresowy trafił do sprzedaży w 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71437-1: https://a.allegroimg.com/original/1131a7/9e17585442dda51546b1b56c2e5f
+
 ---
 
-## 71438 — Lego 71438 Mario World: Mario i Yoshi
+## 71438 — Super Mario 71438 Świat Super Mario: Mario i Yoshi
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 448.90 zł · EAN: 05702017592770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71438 |
+| Nazwa angielska | Super Mario World: Mario & Yoshi |
+| Nazwa polska | Super Mario 71438 Świat Super Mario: Mario i Yoshi |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1215 |
+| Cena katalogowa | 579.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017592770 |
 
 LEGO 71438 Super Mario World: Mario i Yoshi
 
@@ -2276,11 +3351,26 @@ Zestaw pozwala odtworzyć charakterystyczną, pixel-artową scenę z **Super Mar
 
 Zestaw świetnie prezentuje się na półce, biurku czy w kolekcji związanej z Nintendo. To ciekawa propozycja dla osób, które lubią połączenie klasycznych gier, nostalgii i kreatywnego budowania.
 
+**Galeria:**
+
+- 71438-1: https://a.allegroimg.com/original/05667a/0ede152d4b1393a8f37d2bbf76f5
+
 ---
 
-## 71439 — Lego 71439 Mario Przygody z interaktywną figurką Lego Mario Nowe
+## 71439 — Super Mario 71439 Przygody z interaktywnym LEGO Mario
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 292.15 zł · EAN: 05702017595634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71439 |
+| Nazwa angielska | Adventures with Interactive LEGO Mario |
+| Nazwa polska | Super Mario 71439 Przygody z interaktywnym LEGO Mario |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 218 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 3 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702017595634 |
 
 LEGO 71439 Super Mario - Przygody z interaktywną figurką LEGO Mario
 
@@ -2314,11 +3404,26 @@ Pokonaj poziom od rury startowej do słupka końcowego, wywołując cyfrowe reak
 
 - Wymiary — zestaw z rurą startową w tym 218-elementowym zestawie ma 3 cm wysokości, 10 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 71439-1: https://a.allegroimg.com/original/05d7d8/628ec2354912bb899875cab8cd46
+
 ---
 
-## 71440 — Lego Mario Przygody z interaktywną figurką Lego Luigi 71440
+## 71440 — Przygody z interaktywną figurką LEGO Luigi
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 159.98 zł · EAN: 05702017595641 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71440 |
+| Nazwa angielska | Adventures with Interactive LEGO Luigi |
+| Nazwa polska | Przygody z interaktywną figurką LEGO Luigi |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 210 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017595641 |
 
 **LEGO Super Mario Przygody z interaktywną figurką LEGO Luigi 71440**
 
@@ -2344,11 +3449,26 @@ Aby poszerzyć możliwości zabawy i stworzyć wyjątkowe poziomy, połącz mode
 
 • Model zatrutego ogrodu ma 12 cm głębokości
 
+**Galeria:**
+
+- 71440-1: https://a.allegroimg.com/original/11100d/ec81c7494d66b99525243e0482e9
+
 ---
 
-## 71441 — Lego Mario 71441 Przygody z interaktywną figurką Lego Peach
+## 71441 — LEGO Super Mario 71441 Przygody z interaktywną figurką LEGO Peach
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 165.80 zł · EAN: 05702017595658 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71441 |
+| Nazwa angielska | Adventures with Interactive LEGO Peach |
+| Nazwa polska | LEGO Super Mario 71441 Przygody z interaktywną figurką LEGO Peach |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 208 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm × gł. 7 cm |
+| EAN | 5702017595658 |
 
 LEGO Super Mario 71441 Przygody z interaktywną figurką LEGO Peach
 
@@ -2367,21 +3487,51 @@ Instrukcje budowania znajdują się w pudełku lub w aplikacji LEGO® Super Mari
 - Pobudź dziecięcą kreatywność — zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują interaktywną zabawę w zbieranie monet i ciekawe wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy.
 - Wymiary — sekcja z chmurką w tym 208-elementowym zestawie ma 11 cm wysokości, 11 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 71441-1: https://a.allegroimg.com/original/11b710/d808a2f046e58bfc19ea56277130
+
 ---
 
-## 72031 — Lego Mario 72031 Mario Kart Rower Yoshiego
+## 72031 — Mario Kart - Rower Yoshiego
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 50.99 zł · EAN: 05702017816487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72031 |
+| Nazwa angielska | Mario Kart - Yoshi Bike |
+| Nazwa polska | Mario Kart - Rower Yoshiego |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 133 |
+| Cena katalogowa | 64.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816487 |
 
 Mario Kart™ – Yoshi Bike
 
 Super Mario™ LEGO Super Mario: Mario Kart — Yoshi Bike, Zabawka dla Dziecka do Zbudowania, Zestaw dla 7-latka, dla Chłopca i Dziewczynki, z Figurką Light-Blue Yoshiego, Prezent dla Graczy i Fanów Nintendo, 72031 królestwo grzybów toad luigi waluigi wario bowser poziomy dziecko dziewczyna chłopak syn córka koopa troopa 6 8 9 10 nostalgiczny gadżety do gier pamiątki klocki tor wyścigi klasyczne monety ikony popkultury lat 90 magiczny świat Mario Kart™ – Yoshi Bike LEGO® Super Mario™: Mario Kart™ — Yoshi Bike LEGO® Super Mario™: Mario Kart™ — Yoshi Bike 72031, prezent Wsiądź na motocykl Yoshiego i omijaj przeszkody dzięki zestawowi Mario Kart™ — ekscytującemu prezentowi urodzinowemu w stylu Nintendo®. Zestaw Mario Kart™ do odgrywania wyścigów! Przygotuj się na emocjonującą jazdę i driftowanie z tym kolekcjonerskim zestawem LEGO® Super Mario™: Mario Kart™ — Yoshi Bike (72031). To świetny pomysł na prezent w stylu Nintendo® dla chłopców, dziewczynek i graczy w wieku od siedmiu lat. Zestaw zawiera zbudowany z klocków model Yoshi Bike i figurkę Light-Blue Yoshiego, która pojawia się po raz pierwszy w zestawach LEGO Super Mario. Pomóż Light-Blue Yoshiemu prowadzić motocykl, mijać cztery pachołki, wystrzeliwać muszle z motocykla i omijać banana.Usadź figurkę LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (z zestawów 71439, 71440 lub 71441 — sprzedawane osobno) na motocyklu, aby rozpocząć interaktywną zabawę z efektami dźwiękowymi startu wyścigu, trąbienia, driftowania i lewitowania. Rozglądaj się za skrzynią, w której znajdziesz losowe cyfrowe przedmioty do wykorzystania w wyścigu.Ten zestaw LEGO Super Mario świetnie nadaje się do zabawy samodzielnej lub w większym gronie. Sprawdź inne zestawy LEGO Super Mario: Mario Kart (sprzedawane osobno), aby stworzyć jeszcze więcej fajnych pojazdów do ścigania. Przygotuj się na akcję rodem z Mario Kart™ z Light-Blue Yoshim! Wsiądź na Yoshi Bike i driftuj między pachołkami… lub rzucaj w nie pociskami. Ale uważaj na śliskiego banana! Usadź figurkę LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu) za kierownicą, aby uruchomić dźwięki i efekty wizualne z gry Mario Kart i zdobyć przedmioty ze skrzyni do wykorzystania w wyścigu! • Pomysł na prezent w stylu Nintendo® dla dzieci — jedź i driftuj na zbudowanym z klocków modelu Yoshi Bike dzięki temu zestawowi LEGO® Super Mario™: Mario Kart™ • Zawiera figurkę Light-Blue Yoshiego — w zestawie znajduje się figurka Light-Blue Yoshiego, która po raz pierwszy pojawiła się w zestawie LEGO® Super Mario™, oraz banan z buzią • Yoshi Bike — umieść Light-Blue Yoshiego na Yoshi Bike’u i przejedź między czterema pachołkami, rzucaj muszlami z motocykla i omijaj banana • Interaktywna zabawa — jedź na motocyklu Yoshi Bike figurką LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu), aby uruchomić efekty dźwiękowe/wizualne z gry Mario Kart™ i zdobyć cyfrowe przedmioty ze skrzyni • Fajny prezent urodzinowy dla dzieci — podaruj ten zestaw do budowania chłopcom, dziewczynkom i graczom w gry Nintendo® w wieku od siedmiu lat.
 
+**Galeria:**
+
+- 72031-1: https://a.allegroimg.com/original/05bc8c/a9a958c24c1db677f1d04b066f4c
+
 ---
 
-## 72032 — Lego Mario 72032 Mario Kart Standardowy gokart -opis
+## 72032 — Mario Kart - Standardowy Kart
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 68.00 zł · EAN: 05702017816494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72032 |
+| Nazwa angielska | Mario Kart - Standard Kart |
+| Nazwa polska | Mario Kart - Standardowy Kart |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 174 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816494 |
 
 LEGO Super Mario 72032 Mario Kart - Standardowy gokart
 
@@ -2411,11 +3561,27 @@ Ten zestaw kolekcjonerski Nintendo® doskonale nadaje się do samodzielnej i wsp
 
 • Mario Kart™ ma ponad 14 cm długości
 
+**Galeria:**
+
+- 72032-1: https://a.allegroimg.com/original/05a35a/ff6e89654a76a54d303813f03af3
+
 ---
 
-## 72033 — Lego Mario 72033 Mario Kart – Donkey Kong i Dk Jumbo
+## 72033 — Mario Kart – Donkey Kong i DK Jumbo
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 157.00 zł · EAN: 05702017816500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72033 |
+| Nazwa angielska | Mario Kart – Donkey Kong & DK Jumbo |
+| Nazwa polska | Mario Kart – Donkey Kong i DK Jumbo |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702017816500 |
 
 LEGO 72033 Super Mario Mario Kart Donkey Kong i
  
@@ -2439,11 +3605,26 @@ Instrukcje budowania tego zestawu Nintendo znajdziesz w pudełku lub w aplikacji
 - Pobudź dziecięcą kreatywność — zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują interaktywną zabawę w zbieranie monet i ciekawe wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy 
 - Wymiary — zestaw z 387 elementami obejmuje samochód do zbudowania, który ma 8 cm wysokości, 15 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 72033-1: https://a.allegroimg.com/original/056226/9fa2d88c4ed5a3c707f5d8f9cc62
+
 ---
 
-## 72034 — Lego Mario: Mario Kart Baby Mario kontra Baby Luigi 72034
+## 72034 — Baby Mario kontra Baby Luigi
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702017816517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72034 |
+| Nazwa angielska | Mario Kart – Baby Mario vs. Baby Luigi |
+| Nazwa polska | Baby Mario kontra Baby Luigi |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 321 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816517 |
 
 **LEGO Super Mario: Mario Kart - Baby Mario kontra Baby Luigi 72034**
 
@@ -2469,21 +3650,51 @@ Instrukcje budowania tego zestawu Nintendo znajdują się w pudełku lub w aplik
 
 • Samochód do zbudowania ma 10 cm długości
 
+**Galeria:**
+
+- 72034-1: https://a.allegroimg.com/original/110833/34cb2af544f8a32ee2d4c691cc2f
+
 ---
 
-## 72035 — Klocki Lego Mario 72035 Mario Kart – Toad i jego garaż
+## 72035 — Toad i jego garaż
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017816524 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72035 |
+| Nazwa angielska | Mario Kart – Toad's Garage |
+| Nazwa polska | Toad i jego garaż |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 390 |
+| Cena katalogowa | 174.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816524 |
 
 Mario Kart™ – Toad i jego garaż
 
 Super Mario™ LEGO Super Mario: Mario Kart — Toad i jego garaż, Zabawka dla Dziecka do Zbudowania, 2 Figurki Blue Toadów, Pomysł na Prezent dla 8-latka, dla Chłopca i Dziewczynki, Zestaw dla Gracza, 72035 królestwo grzybów yoshi waluigi donkey kong wario bowser poziomy dziecko dziewczyna chłopak dziwczynka chłopiec syn córka koopa troopa 7 9 10 gadżety do gier pamiątki klocki tor wyścigi klasyczne monety ikony popkultury lat 90 magiczna kraina Mario Kart™ – Toad i jego garaż LEGO® Super Mario™: Mario Kart™ — Toad i jego garaż LEGO® Super Mario™: Mario Kart™ — Toad i jego garaż 72035 Pomóż Blue Toadowi (Pit Crew) przygotować B Dashera do wyścigu dzięki zestawowi Mario Kart™. To świetny prezent urodzinowy dla dzieci i graczy. Zestaw do przebudowywania z gry Mario Kart™ Pozwól dzieciom wcielić się w rolę ekipy technicznej w garażu Toada i przygotować B Dashera do wyścigów dzięki temu zestawowi LEGO® Super Mario™: Mario Kart™ (72035). To świetny pomysł na prezent w stylu Nintendo® dla chłopców, dziewczynek i graczy w wieku od ośmiu lat. Zestaw zawiera dwie figurki Blue Toadów w niebieskich kombinezonach ekipy technicznej, a także działający podnośnik, opony standardowe lub niebieskie i narzędzia. B Dasher ma miotacz muszli, a dzieci mogą również dołączyć klakson i silnik z maszyn losujących.Dodaj figurkę LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (z zestawów 71439, 71440 lub 71441 — sprzedawanych osobno), aby rozpocząć interaktywną zabawę z cyfrowymi interakcjami imitującymi jazdę, drifting i latanie B Dasherem, a także wybrać dźwięki klaksonu i silnika z maszyn losujących.Instrukcje budowania tego kolekcjonerskiego zestawu Nintendo znajdują się w pudełku oraz w aplikacji LEGO Super Mario. Sprawdź także inne zestawy LEGO Super Mario: Mario Kart (sprzedawane osobno). Dołącz do Blue Toadów (Pit Crew) w garażu i przygotuj gokarta B Dasher do wyścigów! Zbuduj go według własnego pomysłu! Zmień opony, zamontuj klakson i silnik, użyj narzędzi i komunikuj się przez krótkofalówkę. Zaproś LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu) do garażu, aby wybrać dźwięki klaksonu i silnika w maszynie losującej i poprowadzić samochód! • Pomysł na prezent w stylu Nintendo® — podczas zabawy zestawem LEGO® Super Mario™: Mario Kart™ dzieci wcielą się w członków załogi pit stopu, którzy przygotowują gokarta B Dasher do wyścigów w garażu Toada • Dwie kolekcjonerskie figurki Nintendo® Blue Toad (Pit Crew) — ten zestaw LEGO® z gry Mario Kart™ zawiera dwie figurki Blue Toadów (Pit Crew) w niebieskich kombinezonach z akcesoriami • Zabawka do przebudowania — umieść gokart na podnośniku i zamontuj standardowe opony lub niebieskie standardowe opony, klakson lub silnik z maszyn losujących i nie tylko • Interaktywna zabawa — umieść LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu) w gokarcie lub na znacznikach akcji maszyn losujących, aby wywołać cyfrowe interakcje • Prezent urodzinowy LEGO® Super Mario™ — podaruj ten zestaw do budowania chłopcom, dziewczynkom i graczom w gry Nintendo® w wieku od ośmiu lat.
 
+**Galeria:**
+
+- 72035-1: https://a.allegroimg.com/original/05012e/8b1429c74611a26a05d210c845b4
+
 ---
 
-## 72036 — Lego 72036 Mario Mario Kart Zestaw Baby Peach i Grand Prix
+## 72036 — Zestaw baby peach i grand prix
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 232.00 zł · EAN: 05702017816531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72036 |
+| Nazwa angielska | Mario Kart - Baby Peach & Grand Prix Set |
+| Nazwa polska | Zestaw baby peach i grand prix |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 823 |
+| Cena katalogowa | 349.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 33 cm × gł. 4 cm |
+| EAN | 5702017816531 |
 
 LEGO Super Mario - Mario Kart – Zestaw Baby Peach i Grand Prix 72036
 
@@ -2513,49 +3724,51 @@ Sprawdź pełną ofertę zestawów LEGO Super Mario: Mario Kart (sprzedawanych o
 - Pobudź dziecięcą kreatywność — zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują interaktywną zabawę w zbieranie monet i fajne wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy 
 - Wymiary — bramka startowa w tym 823-elementowym zestawie ma 18 cm wysokości, 33 cm szerokości i 4 cm głębokości
 
----
+**Galeria:**
 
-## 72037 — Lego Mario 72037 Mario I Standard Kart
-
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017816548 · in stock*
-
-Klocki LEGO Super Mario 72037 - Mario Kart: Mario i Standard Kart
-
-Przygotuj się na kreatywną przygodę z zestawem Mario Kart: Mario i Standard Kart (72037) modelem do zbudowania i ozdoby dla mężczyzn, kobiet i wszystkich fanów gry. Ten zestaw konstrukcyjny Nintendo zawiera figurkę Mario z ruchomą głową i rękami, siedzącą za kierownicą kultowego pojazdu z gry Mario Kart. Umieść Standard Kart na specjalnej podstawce, która umożliwia ustawienie go pod dynamicznym kątem, imitującym jazdę z dużą prędkością lub drift w Mario Kart. Ten szczegółowy model LEGO Super Mario będzie świetną ozdobą do sypialni, salonu, pokoju gier lub biura każdego fana.
-
-Szczegółowe instrukcje, które poprowadzą Cię przez przygodę z budowaniem, znajdują się w pudełku lub w aplikacji LEGO Builder. Aplikacja ma również intuicyjne narzędzia, które pozwalają powiększać i obracać cyfrową wersję 3D Twojego modelu podczas budowania, śledzić postępy i zapisywać wszystkie zestawy w jednym miejscu.
-
-Zestaw LEGO Super Mario dla dorosłych pokaż swoją miłość do wyścigów Mario Kart dzięki tej zbudowanej z klocków figurce Nintendo przedstawiającej kultową postać Mario w Standard Karcie
-
-Możliwość ustawiania dynamicznych póz figurka Marioma ruchomą głowę i ręce, a podstawka umożliwia prezentację Standard Karta pod dynamicznymi kątami, imitującymi szybką jazdę lub drift
-
-Wciągające budowanie zestaw oferuje kreatywną rozrywkę dla zaawansowanych konstruktorów LEGO i zawiera szczegółowe instrukcje, dzięki czemu fani Super Mario, którzy dopiero zaczynają przygodę z LEGO, również mogą cieszyć się budowaniem
-
-Dekoracja z gry Super Mario ten model do zbudowania i ozdoby będzie świetną dekoracją pokoju lub biura każdego fana gier
-
-Kolekcjonerski prezent dla dorosłych graczy spraw sobie przyjemność lub podaruj ten model mężczyznom, kobietom i każdemu dorosłemu fanowi Super Mario
-
-Aplikacja LEGO Builder pobierz aplikację, aby uzyskać dostęp do intuicyjnych instrukcji budowania i narzędzi umożliwiających powiększanie i obracanie cyfrowego obrazu modelu w 3D, śledzenie postępów i nie tylko
-
-Model kolekcjonerski z serii LEGO Super Mario ten zestaw konstrukcyjny LEGO jest częścią szerokiej kolekcji LEGO dla dorosłych, którzy uwielbiają się relaksować, oddając się spokojnym i twórczym zadaniom
-
-Wymiary ten model kolekcjonerski obejmuje 1972 elementy i ma 22 cm wysokości, 32 cm długości i 19 cm szerokości
+- 72036-1: https://a.allegroimg.com/original/11eda4/8d40b8704e02ad5290fe6e0578da
 
 ---
 
-## 72038 — Klocki Lego Mario 72038 Mario Kart Wario i King Boo 512 el.
+## 72038 — Super Mario 72038 Mario Kart – Wario i King Boo
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 132.99 zł · EAN: 05702017816555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72038 |
+| Nazwa angielska | Mario Kart – Wario & King Boo |
+| Nazwa polska | Super Mario 72038 Mario Kart – Wario i King Boo |
+| Seria | Super Mario |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 512 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816555 |
 
 Mario Kart™ — Wario i King Boo
 
 Super Mario™,Super Mario Mario Kart™ – Wario King Boo LEGO® Super Mario™: Mario Kart™ — Wario i King Boo LEGO® Super Mario™: Mario Kart™ — Wario i King Boo 72038 Przygotuj się na wyścigi, drift i latanie z Wario i Kingiem Boo w ich niesamowitych pojazdach z gry Mario Kart™ zbudowanych z klocków. LEGO® Super Mario™ na prezent dla graczy Ścigaj się, driftuj, szybuj i walcz dzięki zestawowi LEGO® Super Mario™: Mario Kart™ — Wario i King Boo (72038). To świetny pomysł na prezent z postaciami Nintendo® dla chłopców, dziewczynek i graczy w wieku od ośmiu lat. Zestaw zawiera dwie figurki LEGO Super Mario, modele kultowych pojazdów Badwagon i Teddy Buggy, a także dwa pachołki. Każdy gokart ma funkcję wystrzeliwania skorup i driftu, a Badwagon ma odczepiany szybowiec, który pasuje również do Teddy Buggy.Usadź figurkę LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (z zestawów 71439, 71440, 71441 lub 72043 — sprzedawanych osobno) za kierownicą gokarta, aby rozpocząć interaktywną zabawę z efektami dźwiękowymi i wizualnymi imitującymi trąbienie, drift i szybowanieInstrukcje budowania tego zestawu LEGO Nintendo znajdują się w pudełku lub w aplikacji LEGO® Super Mario™. Szukaj też innych zestawów LEGO Super Mario: Mario Kart (sprzedawanych osobno), w których znajdziesz inne postacie i pojazdy, którymi można się ścigać i odgrywać bitwy. Zestaw zawiera 512 elementów. Dołącz do Wario w Badwagonie i Kinga Boo w Teddy Buggy podczas emocjonujących wyścigów rodem z gry Mario Kart™! Strzelaj skorupami z gokartów i omijaj pachołki. Przymocuj szybowiec do Badwagonu i wzbij się w przestworza. Kieruj pojazdami z LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu), aby uruchomić dźwięki i efekty wizualne trąbienia, driftu i szybowania! • Wyścigi w stylu Mario Kart™ — połącz siły z Wario w Badwagonie i Kingiem Boo w Teddy Buggy, aby wziąć udział w bitwach ze strzelaniem skorupami, driftowaniem i szybowaniem, a także wyścigach z omijaniem pachołków • Dwie figurki LEGO® Super Mario™ — ten zestaw zawiera figurki Wario i Kinga Boo do odgrywania ról • Driftujące pojazdy z gry Mario Kart™ — Badwagon i Teddy Buggy mają funkcję wystrzeliwania skorup i driftu, a Badwagon ma odczepiany szybowiec, który pasuje również do Teddy Buggy • Interaktywna zabawa — jedź pojazdem Teddy Buggy lub Badwagonem z figurką LEGO® Mario™, LEGO® Luigi™ lub LEGO® Peach™ (figurki nie są częścią zestawu), aby uruchomić efekty dźwiękowe lub wizualne z gry Mario Kart™ • Prezent w stylu Nintendo® dla chłopców, dziewczynek i graczy w wieku od ośmiu lat — podaruj ten zestaw jako prezent dla dzieci i graczy.
 
+**Galeria:**
+
+- 72038-1: https://a.allegroimg.com/original/058655/a7b1905341ea9abaab8dccfd1d1b
+
 ---
 
-## 72039 — Lego 72039 Mario Mario Kart Bowser i jego zamek
+## 72039 — Super Mario 72039 Mario Kart – Bowser i jego zamek
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 313.89 zł · EAN: 05702017816562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72039 |
+| Nazwa angielska | Mario Kart – Bowser's Castle |
+| Nazwa polska | Super Mario 72039 Mario Kart – Bowser i jego zamek |
+| Seria | Super Mario |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1068 |
+| Cena katalogowa | 449.99 zł |
+| Wymiary złożonego | wys. 26 cm × szer. 36 cm × gł. 21 cm |
+| EAN | 5702017816562 |
 
 LEGO Super Mario - Mario Kart - Bowser i jego zamek 72039
 
@@ -2578,21 +3791,51 @@ Zorganizuj wyścigi dzięki zestawowi LEGO® Super Mario™ Mario Kart™ — Bo
 - Pobudź dziecięcą kreatywność — zestawy LEGO® Super Mario™ do zabawy w pojedynkę i w grupie oferują interaktywną zabawę w zbieranie monet i ciekawe wyzwania, a także pozwalają rozbudowywać i przekształcać poziomy
 - Wymiary — zamek Bowsera w tym 1068-elementowym zestawie ma 26 cm wysokości, 36 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 72039-1: https://a.allegroimg.com/original/115e2b/cb307a9d4fdeb49c28d819bc4abc
+
 ---
 
-## 72040 — Lego Mario 72040 Mario 72040 Kapitan Ropucha i jego obóz
+## 72040 — Super Mario 72040 Kapitan Ropucha i jego obóz
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 58.07 zł · EAN: 05702017816579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72040 |
+| Nazwa angielska | Captain Toad's Camp |
+| Nazwa polska | Super Mario 72040 Kapitan Ropucha i jego obóz |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 159 |
+| Cena katalogowa | 64.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816579 |
 
 Captain Toad i obóz
 
 Super Mario™,Super Mario Captain Toad's Camp LEGO® Super Mario™ Captain Toad i obóz Zabawka LEGO® Super Mario™ Captain Toad i obóz 72040 Szukaj ukrytego skarbu, zawal most, pokonaj wrogów i baw się w obozie Captain Toada dzięki tej fajnej zabawce LEGO® Super Mario™. Fajna zabawka LEGO® Super Mario™ do odgrywania ról Odkrywaj obóz Captain Toada i szukaj ukrytego skarbu dzięki zestawowi dla dzieci LEGO® Super Mario™ (72040). To świetny pomysł na upominek dla chłopców, dziewczynek i wszystkich fanów w wieku od sześciu lat. Zestaw zawiera namiot do zbudowania z ogniskiem dla Captain Toada, most, który można zawalić, ukryte diamenty i skrzynię ze skarbami. Są tu też trzy figurki LEGO Super Mario — Captain Toad, Goomba i turnip — a także akcesoria, w tym plecak do zbudowania oraz kilof i patelnia, które inspirują do odgrywania ról.Wystarczy dodać figurkę LEGO® Mario™, LEGO® Luigiego™ lub LEGO® Peach™ (z zestawów 71439, 71440, 71441 lub 72043 — sprzedawanych osobno), aby rozpocząć interaktywną zabawę. Figurki umożliwiają wywoływanie fajnych cyfrowych reakcji po wskoczeniu na znacznik akcji w namiocie i pokonaniu Goomby.Instrukcje budowania tego zestawu LEGO Nintendo znajdują się w pudełku oraz w aplikacji LEGO Super Mario. Sprawdź także inne zestawy LEGO Super Mario (sprzedawane osobno). Zestaw zawiera 159 elementów. Rozbij obóz z Captain Toadem! Rozłóż namiot, rozpal ognisko i przygotuj posiłek. Zburz most, aby przewrócić Goombę, a następnie rzuć w niego turnipem. Szukaj diamentów i schowaj je w skrzyni ze skarbami. • Fajny zestaw do zabawy LEGO® Super Mario™ dla dzieci — zbuduj namiot i ognisko, szukaj skarbów, zawal most, pokonaj wrogów i nie tylko w obozie Captain Toada • Trzy figurki LEGO® Super Mario™ do zabawy w odgrywanie ról — ten zestaw LEGO Nintendo® zawiera figurkę Captain Toada, turnipa i Goomby, a także plecak do zbudowania oraz kilof, patelnię i diamenty • Ciekawe funkcje — pomóż Captain Toadowi zawalić most i sprawić, by wróg wpadł do lawowej rzeki, poszukaj \"diamentów\" i schowaj je w skrzyni ze skarbami, a następnie zrelaksuj się w namiocie • Interaktywna zabawa — wskocz na znacznik akcji na namiocie (oraz na Goombie i turnipie) figurkami LEGO® Mario™, LEGO® Luigiego™ lub LEGO® Peach™ (nie są dołączone do tego zestawu) i wywołaj cyfrowe reakcje • Upominek dla dzieci — podaruj ten zestaw do budowania chłopcom, dziewczynkom i graczom w wieku od sześciu lat.
 
+**Galeria:**
+
+- 72040-1: https://a.allegroimg.com/original/1180d8/26e7b25543deab78681b7f25a061
+
 ---
 
-## 72041 — Lego Mario 72041 Mario Toad i jego przyjęcie domowe
+## 72041 — Super Mario 72041 Toad i jego przyjęcie domowe
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 104.71 zł · EAN: 05702017816586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72041 |
+| Nazwa angielska | Party at Toad's House |
+| Nazwa polska | Super Mario 72041 Toad i jego przyjęcie domowe |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 276 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816586 |
 
 LEGO Super Mario 72041 Super Mario Toad i jego przyjęcie domowe
 
@@ -2617,31 +3860,77 @@ Super Mario™,Super Mario Party at Toad's House LEGO® Super Mario™ Toad i do
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017816586
 
+**Galeria:**
+
+- 72041-1: https://a.allegroimg.com/original/11e0f2/a8c8486b4338a4481e1db83654c9
+
 ---
 
-## 72042 — Lego Mario Prince Florian i Castle Bowser 72042
+## 72042 — Prince Florian i Castle Bowser
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702017816593 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72042 |
+| Nazwa angielska | Prince Florian & Castle Bowser |
+| Nazwa polska | Prince Florian i Castle Bowser |
+| Seria | Super Mario |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1251 |
+| Cena katalogowa | 449.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017816593 |
 
 Prince Florian i Castle Bowser
 
 Super Mario™,Super Mario Prince Florian Castle Bowser LEGO® Super Mario™ Prince Florian i Castle Bowser LEGO® Super Mario™ Prince Florian i Castle Bowser 72042 Niesamowity zestaw konstrukcyjny do odgrywania ról i ozdoby zawiera szczegółowy model zamku Bowsera i cztery figurki LEGO® Super Mario™. LEGO® Super Mario™ na prezent dla dzieci i graczy Dzięki temu fajnemu zestawowi LEGO® Super Mario™ (72042) dzieci mogą odtworzyć bitwy z gry Super Mario Bros™ Wonder i uwolnić Prince Floriana z zamku Castle Bowser. Szczegółowy zestaw z klocków to fantastyczny prezent dla chłopców, dziewczynek i wszystkich graczy w wieku od dziewięciu lat. Zawiera figurki Różowego Yoshiego, Fiery Note Piranha, Prince Floriana i Wonder Bowsera Jr. do zabawy w odgrywanie ról i ozdoby. Podnieś Castle Bowser z podstawki i odstaw, aby odsłonić szczegółowe wnętrze, w tym celę z Prince Florianem, a następnie podnieś cały zamek, aby bawić się w latanie, lub po prostu podnieś górną część, aby \"latać\" i strzelać kulą ognia z ust.Dodaj figurkę LEGO® Mario™, LEGO® Luigiego™ lub LEGO® Peach™ (z zestawów 71439, 71440, 71441 lub 72043 — sprzedawanych osobno), aby rozpocząć interaktywną zabawę, w tym walkę z ostatecznym bossem.Sprawdź także inne fajne zestawy LEGO Super Mario (sprzedawane osobno). Zestaw zawiera 1251 elementów. Czy uda Ci się uwolnić Prince Floriana z zamku Castle Bowser? Podnieś zamek z podstawki i odstaw, by odsłonić celę. Podnieś cały zamek, by wzbić się nim w powietrze albo unieś głowę Bowsera i wystrzel kulę ognia z jego ust. • Zestaw LEGO® Super Mario™ do zabawy w odgrywanie ról i ozdoby — odtwórz bitwy z gry Super Mario Bros™ Wonder z \"latającym\" i strzelającym kulą ognia bossem Castle Bowserem i pomóż uwolnić księcia Floriana • Pięć postaci Nintendo® do odgrywania ról — ten zestaw do zabawy i ozdoby zawiera dużą, składaną figurkę Castle Bowsera , a także Różowego Yoshiego, Fiery Note Piranha, Prince Floriana i Wonder Bowsera Jr. • Ciekawe funkcje — podnieś zamek Castle Bowser z podstawki i odstaw go, aby odsłonić wnętrze, w tym celę Prince Floriana, a potem podnieś cały zamek (lub tylko jego górną część), aby nim \"latać\" • Interaktywna zabawa — dodaj do tego zestawu figurki LEGO® Mario™, LEGO® Luigiego™ lub LEGO® Peach™ (figurki nie są częścią zestawu), aby uzyskać cyfrowe reakcje i rozegrać walkę z ostatecznym bossem z gry Super Mario Bros™ Wonder • Prezent LEGO® Super Mario™ — podaruj ten zestaw chłopcom, dziewczynkom i graczom w wieku od dziewięciu lat.
 
+**Galeria:**
+
+- 72042-1: https://a.allegroimg.com/original/05a2b9/0cbfe6794443be86d60aac96bf28
+
 ---
 
-## 72043 — Lego Mario 72043 Interaktywna figurka Lego Mario i Standard Kart
+## 72043 — Super Mario 72043 Mario Kart – Interaktywny LEGO Mario i Standardowy Kart
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702017816609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72043 |
+| Nazwa angielska | Mario Kart – Interactive LEGO Mario & Standard Kart |
+| Nazwa polska | Super Mario 72043 Mario Kart – Interaktywny LEGO Mario i Standardowy Kart |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816609 |
 
 Mario Kart™ — Interaktywna figurka LEGO® Mario™ i Standard Kart
 
 Super Mario™,Super Mario Mario Kart™ – Interactive LEGO® Mario™ Standard Kart LEGO® Super Mario™: Mario Kart™ — Interaktywna figurka LEGO® Mario™ i Standard Kart LEGO® Super Mario™: Mario Kart™ — Interaktywna figurka LEGO® Mario™ i Standard Kart 72043 Ten zestaw zawiera wszystko, co potrzebne, aby bawić się w ekscytujące, interaktywne wyścigi LEGO® Mario™ Mario Kart w jego Standard Karcie. Fantastyczny zestaw LEGO® Super Mario™ dla graczy Dzięki zestawowi z gry Mario Kart™ (72043) dzieci mogą zbudować własny tor wyścigowy i połączyć siły z LEGO® Mario™ w jego Standard Karcie podczas interaktywnych wyścigów. Zestaw LEGO® Super Mario™ to świetny pomysł na prezent dla chłopców, dziewczynek i graczy w wieku od siedmiu lat. Zawiera interaktywną figurkę LEGO Mario i Standard Kart z funkcją driftu i wyrzutni skorup do odgrywania wyścigów. Na torze znajduje się strefa startowa, łączone barierki, pachołki i strefa dla zwycięzców. Prowadź Standard Kart z LEGO Mario za kierownicą, aby uruchomić dźwięki i efekty wizualne Mario Kart, zdobywaj cyfrowe nagrody ze skrzynek, pokonaj Bob-omba i Thwompa i zobacz, jak LEGO Mario reaguje na zielone i czerwone płytki LEGO.Sprawdź pełną ofertę zestawów LEGO Super Mario: Mario Kart (sprzedawanych osobno), aby zbudować więcej pojazdów i postaci, które urozmaicą zabawę.Instrukcje budowania znajdują się w pudełku lub w aplikacji LEGO Super Mario. Ten zestaw zawiera 278 elementów. Przygotuj się na wyścig z LEGO® Mario™! Stwórz swój własny, wyjątkowy tor wyścigowy z barierkami i pachołkami. Jedź, driftuj i strzelaj skorupami w Standard Karcie, aby uruchomić dźwięki i efekty wizualne Mario Kart™. Zdobywaj nagrody ze skrzynek i obserwuj, jak LEGO Mario reaguje na zielone i czerwone płytki LEGO. Pokonaj Bob-omba i Thwompa i świętuj zwycięstwo w strefie dla zwycięzców! • Zestaw z gry Mario Kart™ dla dzieci — dzięki temu zestawowi Nintendo® LEGO stworzysz fajny tor LEGO® Super Mario™ do odgrywania interaktywnych wyścigów z LEGO® Mario™ w Standard Karcie • Trzy figurki LEGO® Super Mario™ — interaktywna figurka LEGO® Mario™, figurki Bob-omba i Thwompa, a także element banana z buzią • Zbuduj i ścigaj się — standardowy gokart z funkcją driftu i wystrzeliwania skorup, skrzynia z przedmiotami, trzy łączone barierki, dwa pachołki oraz strefa startowa i strefa dla zwycięzców ze znacznikami akcji • Interaktywna zabawka — ścigaj się Standard Kartem z LEGO® Mario™ za kierownicą, zdobywaj cyfrowe nagrody ze skrzynek, pokonaj Bob-omba i Thwompa, obserwuj, jak LEGO Mario reaguje na zielone i czerwone płytki LEGO i wiele więcej • Ekscytująca zabawka dla chłopców, dziewczynek i wszystkich graczy w wieku od siedmiu lat — zapewnij dzieciom wiele godzin zabawy w wyścigi i odgrywanie ról dzięki temu zestawowi konstrukcyjnemu LEGO® Super Mario™ • Zabawka z gry Mario Kart™ do odgrywania interaktywnych wyścigów z figurką LEGO® Mario™ • Interaktywna figurka LEGO® Mario™ oraz figurki Bob-omba i Thwompa • Jedź i driftuj w Standard Karcie z wyrzutnią skorup i figurką LEGO® Mario™ • Skrzynka z przedmiotami, strefa startu, strefa dla zwycięzców ze znacznikami akcji i wiele więcej • Fajny prezent dla chłopców, dziewczynek i graczy w wieku od siedmiu lat • Rozbuduj zabawę dzięki innym zestawom LEGO® Super Mario™: Mario Kart™ (sprzedawanym osobno) • Zestawy LEGO® Super Mario™ pomagają dzieciom rozwijać kreatywność
 
+**Galeria:**
+
+- 72043-1: https://a.allegroimg.com/original/05abec/55a6eb3a4635b6e9d9af825f3df8
+
 ---
 
-## 72044 — Lego Mario: Mario Kart Piranha Plant i pogoń za ulepszeniami 72044
+## 72044 — LEGO Super Mario: Mario Kart - Piranha Plant i pogoń za ulepszeniami 72044
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017824932 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72044 |
+| Nazwa angielska | Mario Kart – Piranha Plant Power-Up Pursuit |
+| Nazwa polska | LEGO Super Mario: Mario Kart - Piranha Plant i pogoń za ulepszeniami 72044 |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 588 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824932 |
 
 **LEGO Super Mario: Mario Kart - Piranha Plant i pogoń za ulepszeniami 72044**
 
@@ -2669,11 +3958,27 @@ Zestawy LEGO® Super Mario™ pomagają dzieciom rozwijać kreatywność
 
 Tanooki Kart ma 12 cm długości
 
+**Galeria:**
+
+- 72044-1: https://a.allegroimg.com/original/11f3c0/e9d80a9c47bca137b10a39c85c9d
+
 ---
 
-## 72045 — Zestaw klocków Lego Mario – Mario Kart, 249 elementów, 7+
+## 72045 — Super Mario 72045 Mario Kart – Shy Guy i P-Wing
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 83.90 zł · EAN: 05702017824949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72045 |
+| Nazwa angielska | Mario Kart – Shy Guy & P-Wing |
+| Nazwa polska | Super Mario 72045 Mario Kart – Shy Guy i P-Wing |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824949 |
 
 Jedź, dryfuj, lataj, wystrzel granaty i wiele więcej dzięki temu zestawowi LEGO® Super Mario™: Mario Kart™ (72045) dla dzieci. Zestaw sprawdzi się jako zabawny prezent urodzinowy dla chłopców, dziewczynek i gamerów w wieku od 7 lat i zawiera figurkę Shy Guya oraz replikę P-Winga z klocków z funkcją wystrzeliwania granatów w postaci skorup, oponami Standard Tires i zdejmowanym szybowcem. W zestawie również bananowy element, który możesz rzucić na gokarty przeciwników!
  
@@ -2694,11 +3999,26 @@ Instrukcje budowania tego zestawu Nintendo® LEGO znajdziesz w pudełku lub w ap
 - Liczba elementów: 249 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 72045-1: https://a.allegroimg.com/original/29436f/2e4ed4df42309f1daf7c9d42ed5f
+
 ---
 
-## 72046 — Lego 72046 Game Boy Nintendo Model kolekcjonerski Mario
+## 72046 — Game Boy
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 167.99 zł · EAN: 05702017816616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72046 |
+| Nazwa angielska | Game Boy |
+| Nazwa polska | Game Boy |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 421 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816616 |
 
 Zestaw LEGO Game Boy Nintendo (72046) – Model kolekcjonerski Super Mario
 
@@ -2730,11 +4050,26 @@ Szerokość: 9 cm
 
 Głębokość: 3 cm
 
+**Galeria:**
+
+- 72046-1: https://a.allegroimg.com/original/116f50/fc5765f543c2af8daf6a88d50747
+
 ---
 
-## 72050 — Lego Mario Kart Luigi i Mach 8 72050
+## 72050 — LEGO Super Mario 72050 Mario Kart Luigi i Mach 8
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 579.98 zł · EAN: 05702018067529 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72050 |
+| Nazwa angielska | Mario Kart – Luigi & Mach 8 |
+| Nazwa polska | LEGO Super Mario 72050 Mario Kart Luigi i Mach 8 |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018067529 |
 
 **LEGO Mario Kart - Luigi i Mach 8 72050**
 
@@ -2760,11 +4095,26 @@ Stanowi fajny dodatek do zestawu Mario Kart™: Mario i Standard Kart (72037), s
 
 Ten model kolekcjonerski LEGO® Super Mario™ ma 41 cm długości
 
+**Galeria:**
+
+- 72050-1: https://a.allegroimg.com/original/11f1b4/efd1ffbd43e680a097e89cdd6863
+
 ---
 
-## 72051 — Lego 72051 Mario Automat do gry Donkey Kong
+## 72051 — Automat do gry Donkey Kong
 
-*Kategoria: Super Mario · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702018063842 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72051 |
+| Nazwa angielska | Donkey Kong Arcade |
+| Nazwa polska | Automat do gry Donkey Kong |
+| Seria | Super Mario |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1367 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | wys. 39 cm × szer. 27 cm × gł. 15 cm |
+| EAN | 5702018063842 |
 
 LEGO SUPER MARIO - Automat do gry Donkey Kong 72051
  
@@ -2792,6 +4142,10 @@ Buduj sprytniej dzięki aplikacji LEGO Builder - powiększaj, obracaj model w 3D
 - TRÓJWYMIAROWE INSTRUKCJE BUDOWANIA - dzięki aplikacji LEGO Builder możesz budować modele, korzystając z instrukcji 3D, śledzić swoje postępy i zapisywać wszystkie zestawy w aplikacji 
 - KOLEKCJONERSKI GADŻET Z GRĄ - ten zestaw z modelem jest częścią szerokiej kolekcji LEGO dla dorosłych, którzy uwielbiają się relaksować, oddając się spokojnym i twórczym zadaniom 
 - WYMIARY - ten 1367-elementowy zestaw ma 39 cm wysokości, 27 cm szerokości i 15 cm głębokości
+
+**Galeria:**
+
+- 72051-1: https://a.allegroimg.com/original/1159c7/4b8949e1442c81c8dae561c4e0c2
 
 ---
 

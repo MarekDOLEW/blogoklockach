@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Super Heroes — opisy produktowe (327 pozycji)
+# LEGO Super Heroes — opisy produktowe (322 pozycji)
 
-## 10781 — Lego 10781 Marvel Technotrójkołowiec Spider-Mana
+## 10781 — Technotrójkołowiec Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702017150642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10781 |
+| Nazwa angielska | Spider-Man's Techno Trike |
+| Nazwa polska | Technotrójkołowiec Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017150642 |
 
 **Podaruj młodym fanom Spider-Mana ekscytujący zestaw z trójkołowcem, Milesem Moralesem i superzłoczyńcą Zielonym Goblinem.**
 
@@ -37,21 +48,53 @@ Podaruj odrobinę zabawy młodym pajęczym bohaterom dzięki temu ciekawemu zest
 
 • Bezpieczna zabawa — pojazdy i zestawy LEGO® Marvel Spider-Man są testowane na wszystkie możliwe sposoby, więc możesz mieć pewność, że spełniają rygorystyczne standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10781-1: https://a.allegroimg.com/original/11d8a0/6ffb7c334fbabe29d13dbbcddcfe
+
 ---
 
-## 10782 — Lego Heroes 10782 Hulk vs Rhino
+## 10782 — Hulk kontra Rhino
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 139.38 zł · EAN: 05702017150659 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10782 |
+| Nazwa angielska | Hulk vs. Rhino Truck Showdown |
+| Nazwa polska | Hulk kontra Rhino |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017150659 |
 
 Lego SUPER HEROES 10782 Hulk vs Rhino
 
 O Emocje jak w produkcjach Marvela -- dzieci w wieku od czterech lat mogą połączyć siły ze Spider-Manem i Hulkiem LEGO(R) Marvel oraz odgrywać sceny z najnowszego serialu Marvela emitowanego na platformie Disney+o Prezent dla dzieci, które uwielbiają pojazdy -- zestaw LEGO(R) Marvel Spidey i super-kumple Hulk kontra Rhino -- starcie pojazdów (10782) zawiera dwa pojazdy LEGO, trzy minifigurki, plecak odrzutowy dla Spider-Mana i skarbiec bankuo Spider-Man i Hulk powstrzymują Rhino -- dzieci i dorośli będą się świetnie bawić, gdy dwa potężne samochody się zderzą, a Spider-Man złapie Rhino w pajęczynę i uratuje sytuacjęo Prezent urodzinowy dla przedszkolaków -- ten zestaw LEGO(R) Marvel zawiera klocek startowy oraz proste instrukcje budowania. Dzięki nim czterolatki i starsze dzieci mogą uczyć się budowania i nabierać większej pewności siebieo Całe mnóstwo funkcji -- figurka Hulka do zbudowania ma dwie wymienne głowy z różnymi wyrazami twarzy, plecak odrzutowy Spider-Mana strzela pociskami, a skarbiec ma zdejmowany pojemnik, który mieści się w bagażniku pojazdu Rhinoo Wymiary -- pojazd Hulka ma ok. 4 cm wysokości i 10 cm długości. Pojazd Rhino ma ok. 6 cm wysokości i 11 cm długości
 
+**Galeria:**
+
+- 10782-1: https://a.allegroimg.com/original/113fd2/d0d10ca5432dbc9338fbcd9f08b5
+
 ---
 
-## 10783 — Lego Heroes 10783 Spider-Man w laboratorium Doca Ocka
+## 10783 — Spider-Man w laboratorium Doca Ocka
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 333.75 zł · EAN: 05702017150666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10783 |
+| Nazwa angielska | Spider-Man at Doc Ock's Lab |
+| Nazwa polska | Spider-Man w laboratorium Doca Ocka |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 131 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm |
+| EAN | 5702017150666 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -99,11 +142,27 @@ Ten zestaw LEGO 4+ daje wielką frajdę, a jednocześnie pozwala młodym superbo
 - Niezmiennie wysoka jakość — zestawy LEGO® są zgodne z rygorystycznymi standardami jakości obowiązującymi w branży, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku 
 - Nawet sam Hulk nie da mu rady
 
+**Galeria:**
+
+- 10783-1: https://a.allegroimg.com/original/25bc7c/9895284543439d787058f6edc5f3
+
 ---
 
-## 10784 — Lego 10784 Marvel Relaks w kryjówce Spider-Mana
+## 10784 — Relaks w kryjówce Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017151670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10784 |
+| Nazwa angielska | Spider-Man Webquarters Hangout |
+| Nazwa polska | Relaks w kryjówce Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm |
+| EAN | 5702017151670 |
 
 LEGO 10784 Marvel - Relaks w kryjówce Spider-Mana
 
@@ -127,41 +186,87 @@ Zestawy LEGO 4+ zawierają klocki startowe, które stanowią solidną bazę, na 
 
 - Funkcje ułatwiające budowanie — zestawy z serii 4+ zawierają klocki startowe, które ułatwiają budowanie. W komplecie są także proste instrukcje z obrazkami zrozumiałe nawet dla maluchów, które dopiero uczą się czytać
 
----
+**Galeria:**
 
-## 10789 — Lego Marvel 10789 Spider-Man w samochodzie i Doc Ock
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 67.99 zł · EAN: 05702016695366 · in stock*
-
-LEGO Batman Movie 10789 Samochód Spider-Mana i Doc Ock
- 
-Wprowadź dzieci w świat klasycznej akcji z superbohaterami z zestawem LEGO® Marvel Samochód Spider-Mana i Doc Ock (10789). Dzięki kultowym postaciom, superfajnemu pojazdowi i niesamowitym akcesoriom ten zestaw jest idealny dla dzieci w wieku od czterech lat.
- 
-Spider-Man i Doc Ock w pajęczym pościgu
- 
-Kradzież diamentów rozpoczyna akcję i prowadzi dzieci ku niekończącym się pomysłowym przygodom. Zestaw zawiera dwie minifigurki – Spider-Mana i Doc Ocka – oraz samochód z dwoma świecącymi w ciemności pajęczynami. Specjalny klocek startowy w postaci podwozia auta zachęca dzieci do samodzielnego zbudowania samochodu Spider-Mana. Proste instrukcje są dostępne w formie kolorowej broszury z obrazkami, a aby zabawa była jeszcze lepsza i cyfrowa, aplikacja LEGO Builder zawiera intuicyjne narzędzia do powiększania i obracania, które pozwalają dzieciom wizualizować budowany przez nie model.
- 
-Świetna zabawa dla całej rodziny
- 
-Zestawy dla dzieci powyżej czterech lat to idealny sposób na wspólne budowanie dla dzieci i dorosłych, bez względu na to, czy mają już doświadczenie w budowaniu z klocków LEGO czy robią to po raz pierwszy.
-
- 
-- Świecące w ciemności elementy – zestaw LEGO® Marvel Samochód Spider-Mana i Doc Ock (10789) zawiera minifigurki superbohaterów i pojazd stworzony z myślą o dzieciach w wieku od czterech lat 
-- Kultowe postacie – w zestawie minifigurki Spider-Mana i Doc Ocka, a także samochód z dwoma świecącymi w ciemności sieciami i klocek startowy w formie podwozia, aby zachęcić początkujących budowniczych 
-- Rozbudowana zabawa – Doc Ock skradł diamenty, więc rozpoczyna się pajęczy pościg i niekończące się przygody 
-- Prezent dla dzieci – dzięki klockowi startowemu i prostemu budowaniu ten zestaw wspiera rozwój dzieci w wieku od czterech lat podczas niekończącej się praktycznej i pomysłowej zabawy 
-- Frajda gdziekolwiek jesteście – samochód ma 4 cm wysokości, 8 cm długości i 4 cm szerokości, dzięki czemu dzieci mogą się bawić w dowolnym miejscu 
-
- 
-- Kreatywne budowanie – drukowane, ilustrowane instrukcje pokazują cel każdego etapu budowania, a aplikacja LEGO® Builder oferuje cyfrowe narzędzia do powiększania i obracania, dzięki którym dzieci mogą wizualizować swój model podczas budowania 
-- Rozbudowana zabawa – zestawy LEGO® dla dzieci od czterech lat wprowadzą je w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego 
-- Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
+- 10784-1: https://a.allegroimg.com/original/45b709/81915494432abdaa0e0fa9ff4613
 
 ---
 
-## 10790 — Lego Marvel 10790 Drużyna Spider-Mana w latarni Zielonego Goblina
+## 10789 — LEGO Marvel 10789 Samochód Spider-Mana i Doc Ocka
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 373.33 zł · EAN: 05702017424156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10789 |
+| Nazwa angielska | Spider-Man's Car and Doc Ock |
+| Nazwa polska | LEGO Marvel 10789 Samochód Spider-Mana i Doc Ocka |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 4899888645849, 5702016695366, 5702017424149 |
+
+Klocki LEGO Lego Marvel Super Heroes 10789 Samochód Spider-Mana i Doc Ock
+
+**LEGO**®** Marvel Super Heroes 10789 Samochód Spider-Mana i Doc Ock** to doskonały wybór dla dzieci, które uwielbiają dynamiczną zabawę, superbohaterów i kreatywne budowanie. Ten zestaw łączy w sobie emocjonujący klimat uniwersum Marvela z satysfakcją samodzielnego składania modelu, który od razu staje się pretekstem do tworzenia własnych historii. To propozycja, która świetnie sprawdzi się zarówno jako prezent, jak i jako ciekawy element kolekcji fanów LEGO®.
+
+**Zestaw 10789** przyciąga uwagę nie tylko licencją Marvel, ale także pomysłową formą zabawy. Dziecko może wcielić się w rolę Spider-Mana, ścigając przeciwnika i odtwarzając ulubione sceny z komiksów oraz filmów. To świetny sposób na rozwijanie wyobraźni, cierpliwości i zdolności manualnych, a jednocześnie gwarancja wielu godzin angażującej rozrywki.
+
+Dlaczego warto wybrać ten model?
+
+☑️ Świecące w ciemności elementy – zestaw LEGO® Marvel Samochód Spider-Mana i Doc Ock (10789) zawiera minifigurki superbohaterów i pojazd stworzony z myślą o dzieciach w wieku od czterech lat
+
+☑️ Kultowe postacie – w zestawie minifigurki Spider-Mana i Doc Ocka, a także samochód z dwoma świecącymi w ciemności sieciami i klocek startowy w formie podwozia, aby zachęcić początkujących budowniczych
+
+☑️ Rozbudowana zabawa – Doc Ock skradł diamenty, więc rozpoczyna się pajęczy pościg i niekończące się przygody
+
+☑️ Prezent dla dzieci – dzięki klockowi startowemu i prostemu budowaniu ten zestaw wspiera rozwój dzieci w wieku od czterech lat podczas niekończącej się praktycznej i pomysłowej zabawy
+
+☑️ Frajda gdziekolwiek jesteście – samochód ma 4 cm wysokości, 8 cm długości i 4 cm szerokości, dzięki czemu dzieci mogą się bawić w dowolnym miejscu☑️ Rozbudowana zabawa – zestawy LEGO® dla dzieci od czterech lat wprowadzą je w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego
+
+Jeśli szukasz zestawu, który łączy **akcję, zabawę i markową jakość LEGO**®, ten model będzie strzałem w dziesiątkę. To produkt, który nie tylko cieszy podczas składania, ale też długo nie nudzi się po zakończeniu budowy. **Kupując ten zestaw, dajesz dziecku więcej niż klocki — dajesz mu misję ratowania dnia razem ze Spider-Manem.**
+
+**Mały spoiler dla niezdecydowanych:** z takim zestawem nawet Doc Ock nie zdąży uciec, bo ten zakup wpada do koszyka szybciej niż pajęcza sieć!
+
+❔ Dlaczego warto kupić zestaw w naszym sklepie:
+
+☑️ Oferujemy tylko fabrycznie nowe, oryginalne zestawy LEGO®, zapewniając autentyczne doznania podczas zabawy.
+
+☑️ Zdjęcia nr 5 i 6 przedstawiają zestaw w rzeczywistości.
+
+☑️ Zakupione zestawy są pakowane z najwyższą starannością.
+
+☑️ Stosujemy wypełniacze, folie bąbelkowe i karton, tak aby produkt dotarł do adresata w nienaruszonym stanie.
+
+☕ Zachęcamy do zapoznania się z naszymi innymi aukcjami, gdzie znajdą Państwo wiele innych fantastycznych zestawów LEGO®.
+
+❤️ Dziękujemy za zaufanie i życzymy udanych zakupów!
+
+**Galeria:**
+
+- 10789-1: https://a.allegroimg.com/original/05597e/3bac8eef40cfb1900251d86899ef
+- 10789-2: https://a.allegroimg.com/original/118ee0/2c9e0b5a4a4090baa9949a3cc71c
+- 10789-3: https://a.allegroimg.com/original/11f5aa/4d49a8144e56ba328f9bdb102f9b
+
+---
+
+## 10790 — Drużyna Spider-Mana w latarni Zielonego Goblina
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10790 |
+| Nazwa angielska | Team Spidey at Green Goblin's Lighthouse |
+| Nazwa polska | Drużyna Spider-Mana w latarni Zielonego Goblina |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 31 cm × gł. 21 cm |
+| EAN | 5702017424156 |
 
 LEGO Batman Movie 10790 Drużyna Spider-Mana w latarni Zielonego Goblina
  
@@ -187,11 +292,27 @@ Zestawy dla dzieci powyżej czterech lat to idealny sposób na wspólne budowani
 - Rozbudowana zabawa – zestawy LEGO® dla dzieci od czterech lat wprowadzą je w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 10790-1: https://a.allegroimg.com/original/057be2/229d03694a53a964f89ab9977cb5
+
 ---
 
-## 10791 — 10791 Lego Marvel Spidey Mobilna kwatera drużyny Spider-Mana
+## 10791 — Mobilna kwatera drużyny Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 633.60 zł · EAN: 05702017424163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10791 |
+| Nazwa angielska | Team Spidey's Mobile Headquarters |
+| Nazwa polska | Mobilna kwatera drużyny Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702017424163 |
 
 LEGO Batman Movie 10791 Mobilna kwatera drużyny Spider-Mana
 
@@ -215,11 +336,27 @@ Zestawy dla dzieci powyżej czterech lat to idealny sposób na wspólne budowani
 - Rozbudowana zabawa – zestawy LEGO® dla dzieci od czterech lat wprowadzą je w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 10791-1: https://a.allegroimg.com/original/05ac54/a91f84154dd6a5ffb3104610b068
+
 ---
 
-## 10792 — Lego Heroes Mobilna kwatera drużyny Spider-Mana 10792
+## 10792 — Marvel 10792 Pojazd wiertniczy
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702017582405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10792 |
+| Nazwa angielska | Drill Spinner Vehicle |
+| Nazwa polska | Marvel 10792 Pojazd wiertniczy |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017582405 |
 
 Klocki LEGO® Marvel-
 
@@ -241,11 +378,27 @@ Zaprojektowane z myślą o początkujących konstruktorach zestawy dla dzieci w 
 - Niespodzianka dla fanów Spider-Mana — zestaw ze Spinem i Electro to świetna gratka dla fanów serialu Disney+ Spidey i super-kumple
 - Prezent dla dzieci — klocek startowy i proste instrukcje budowania sprawiają, że zestaw nadaje się dla wszystkich małych konstruktorów i fanów superbohaterów.
 
+**Galeria:**
+
+- 10792-1: https://a.allegroimg.com/original/118e7d/f3a6a4ad49f8b57679ec71203c59
+
 ---
 
-## 10793 — Lego 10793 Marvel Heroes Spidey kontra Zielony Goblin
+## 10793 — Spidey kontra Zielony Goblin
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 145.59 zł · EAN: 05702017580265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10793 |
+| Nazwa angielska | Spidey vs. Green Goblin |
+| Nazwa polska | Spidey kontra Zielony Goblin |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 14 cm |
+| EAN | 5702017580265 |
 
 Klocki LEGO Marvel Super Heroes 10793 - Spidey kontra Zielony Goblin
 
@@ -287,11 +440,27 @@ Zestaw LEGO Marvel Super Heroes - Spidey kontra Zielony Goblin trafił do sprz
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10793-1: https://a.allegroimg.com/original/11adf8/cc08bda649b58cd64654bf824963
+
 ---
 
-## 10794 — Lego 10794 Marvel Heroes Siedziba główna Pajęczej Drużyny
+## 10794 — Marvel 10794 Baza pająków zespołu Spidey
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 333.33 zł · EAN: 05702017582474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10794 |
+| Nazwa angielska | Team Spidey Web Spinner Headquarters |
+| Nazwa polska | Marvel 10794 Baza pająków zespołu Spidey |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017582474 |
 
 Nowy, fabrycznie zaplombowany zestaw.
 
@@ -305,11 +474,27 @@ Lego MARVEL 10794 Siedziba
 
 Ten zestaw bohaterów akcji LEGO Marvel zawiera minifigurki Spidermana, Iron Mana, Milesa "Spin" Moralesa, Ghost-Spidera i Zoli. W zestawie jest duży mech dla Zoli z ruchomymi nogami i pazurami, za pomocą którego można chwycić minifigurkę, a także latający spinner z obracającymi się śmigłami, otwieranym kokpitem i dużym różowym elementem sieci. Wyposażenie głównego budynku inspiruje dzieci do odgrywania ról, odzwierciedlając zainteresowania superbohaterów nauką, muzyką i malarstwem.
 
+**Galeria:**
+
+- 10794-1: https://a.allegroimg.com/original/2942df/b0076cfe4551a0a82c823d49429f
+
 ---
 
-## 10921 — Lego Duplo 10921 Laboratorium superbohaterów Marvel Hero Nowe
+## 10921 — DUPLO
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 349.90 zł · EAN: 05702016618112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10921 |
+| Nazwa angielska | Super Heroes Lab |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618112 |
 
 Twój malec też może zostać superbohaterem
  
@@ -351,11 +536,26 @@ Seria: Duplo
 
 Nowy Oryginalny Zestaw Klocków LEGO DUPLO
 
+**Galeria:**
+
+- 10921-1: https://a.allegroimg.com/original/00f3ae/8f0e9bc24966996bd61e7e15b73f
+
 ---
 
-## 10937 — Lego Heroes 10937 Batman Zestaw Ucieczka z Azylu Arkham
+## 10937 — LEGO OUT 10937 SUPER HEROES ARKHAM ASYLUM BREAKOUT
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1399.95 zł · EAN: 05702014973398 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10937 |
+| Nazwa angielska | Batman: Arkham Asylum Breakout |
+| Nazwa polska | LEGO OUT 10937 SUPER HEROES ARKHAM ASYLUM BREAKOUT |
+| Seria | Super Heroes |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1619 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973398 |
 
 LEGO SUPER HEROES 10937 BATMAN Zestaw Ucieczka z Azylu Arkham
 
@@ -388,11 +588,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 10937-1: https://a.allegroimg.com/original/11978c/f98b51cc4661ac5441c9dd8bd98c
+
 ---
 
-## 11198 — Lego(r) Spidey 11198 Pościg Spina za Electro w dino
+## 11198 — Pościg Spina za Electro w dinopojeździe
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 53.90 zł · EAN: 05702017814797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11198 |
+| Nazwa angielska | Spin and Electro Dinosaur Vehicle Chase |
+| Nazwa polska | Pościg Spina za Electro w dinopojeździe |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814797 |
 
 Podaruj małym fanom serialu Spidey i Super-Kumple tę zabawkę do odgrywania ról z superbohaterami. Zestaw Pościg Spina za Electro w Dinopojeździe (11198) został zaprojektowany z myślą o rozwijaniu kreatywności dzieci, doskonaleniu umiejętności rozwiązywania problemów i inspirowaniu do twórczej zabawy. To pomysł na prezent dla chłopca i dziewczynki w wieku od 4 lat.
 
@@ -400,11 +616,26 @@ Zestaw LEGO Marvel pozwala odtwarzać sceny z serialu Spidey i Super-Kumple. Zaw
 
 Zestaw LEGO dla 4-latka to fajna zabawka dla dziecka do zbudowania, która daje możliwość wspólnego budowania, a więc sposób na kreatywny rodzinny czas.
 
+**Galeria:**
+
+- 11198-1: https://a.allegroimg.com/original/112d7f/6b19da5846b4a02cee6538394533
+
 ---
 
-## 11199 — Lego Marvel 11199 Misja ratunkowa zespołu Spidey'ego Zestaw i Poradnik 4w1
+## 11199 — Dołącz do drużyny Spidey i uratuj dinozaury ciężarówką
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 115.23 zł · EAN: 05702017814803 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11199 |
+| Nazwa angielska | Team Spidey Dino Crawler Rescue |
+| Nazwa polska | Dołącz do drużyny Spidey i uratuj dinozaury ciężarówką |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814803 |
 
 LEGO Marvel 11199 Misja ratunkowa zespołu Spidey'ego Zestaw i Poradnik 4w1
 
@@ -430,21 +661,52 @@ Marvel LEGO Marvel Spidey i Super-Kumple Misja Ratunkowa Zespołu Spidey’ego w
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017814803
 
+**Galeria:**
+
+- 11199-1: https://a.allegroimg.com/original/110304/c759f5e345899a1a6cb5e02ae7d0
+
 ---
 
-## 11200 — Lego Marvel Spidey Bitwa Spidey’ego i Gobby’ego przy domku na drzewie 11200
+## 11200 — Bitwa Spidey'ego i Gobby'ego przy domku na drzewie
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 158.94 zł · EAN: 05702017814810 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11200 |
+| Nazwa angielska | Spidey and Gobby's Raptor Battle at Tree House HQ |
+| Nazwa polska | Bitwa Spidey'ego i Gobby'ego przy domku na drzewie |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814810 |
 
 Bitwa Spidey’ego i Gobby’ego przy domku na drzewie
 
 Marvel LEGO Marvel Spidey i Super-Kumple Bitwa Spidey’ego i Gobby’ego przy Domku na Drzewie, Kreatywna Zabawka dla Dziecka z Superbohaterami i Dinozaurami, Prezent dla 4-latka, Chłopca i Dziewczynki, 11200 spider man avengers kapitan ameryka thor hulk iron man thanos chłopiec syn siostrzeniec dziecko 5 6 7 8 bloki klocki budowa doktor octopus nosorożec ciocia may zielony goblin sandman peter parker mj gwen miles morales webster czarna pantera Bitwa Spidey’ego i Gobby’ego przy domku na drzewie LEGO® Marvel Spidey i super-kumple Bitwa Spidey’ego i Gobby’ego przy domku na drzewie LEGO® Marvel Spidey i super-kumple Bitwa Spidey’ego i Gobby’ego przy domku na drzewie 11200 LEGO® Spidey i super-kumple Bitwa Spidey’ego i Gobby’ego przy domku na drzewie ze stegozaurem i raptorem superbohaterów do zbudowania. Stegozaur i raptor superbohaterów do zbudowania Dzieci w wieku od czterech lat, które uwielbiają superbohaterów, dinozaury i zabawki do zbudowania będą zachwycone zestawem LEGO® Marvel Spidey i super-kumple Bitwa Spidey’ego i Gobby’ego przy domku na drzewie (11200).Domek na drzewie ma trzy platformy, w tym jedną z dużym ekranem wyświetlającym misję drużyny. W zestawie są minifigurki Trapster, Ghost-Spidera i Trace-E, a także figurki dinozaurów do zbudowania: Spidey-Rex, Gobby-Raptor i Dino-Spin. Pojazd Trapster ma dwa miotacze. Akcesoria obejmują duże elementy z sieciami, czerwone diamenty, skrzynię skarbów, mapę skarbów, kiełbasę, jajko, udko kurczaka, lornetkę i topór. Do zestawu dołączone są kolorowe intuicyjne instrukcje z ilustracjami. Oddzielne torebki zawierają klocki i duży klocek startowy, dzięki czemu budowanie jest szybkie i łatwe.Zestawy LEGO dla dzieci w wieku od czterech lat to świetny sposób na wspólne budowanie rodziców i dzieci. Drużyna Spidey’ego przebywa w dinocentrum dowodzenia i eksploruje jaskinię czaszek dinozaurów, gdy nagle atakuje ich Gobby-Raptor! Spidey-Rex i Dino-Spin próbują odeprzeć atak ale Trapster strzela do bohaterów z wyrzutni dysków. Ghost-Spider wpada na swojej sieci, aby pomóc przyjaciołom w walce ze złoczyńcami. A po zasłużonym zwycięstwie nadchodzi czas na planowanie kolejnych przygód!
 
+**Galeria:**
+
+- 11200-1: https://a.allegroimg.com/original/05ce93/45359e284860b54d7a9e9f2d3c67
+
 ---
 
-## 11206 — Lego Marvel Spidey na motocyklu kontra Rhino 11206
+## 11206 — LEGO Spidey 11206 Pająk na rowerze kontra nosorożec
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 30.97 zł · EAN: 05702018062456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11206 |
+| Nazwa angielska | Spidey on his Motorcycle vs. Rhino |
+| Nazwa polska | LEGO Spidey 11206 Pająk na rowerze kontra nosorożec |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702018062456 |
 
 Zapewnij dzieciom superbohaterską akcję i podaruj im zestaw **Spidey na motocyklu kontra Rhino** (11206) dla chłopców i dziewczynek od 4 lat. Ten zestaw, zawierający minifigurki Spidey'ego i Rhina oraz motocykl w kształcie pająka, pomoże dzieciom rozwijać ich zdolności twórcze.
  
@@ -460,11 +722,27 @@ Dzieci pomogą Spidey'emu odzyskać skradziony niebieski klejnot, unikać lataj�
 - Liczba elementów: 61 
 - Odpowiednie dla dzieci od 4 lat
 
+**Galeria:**
+
+- 11206-1: https://a.allegroimg.com/original/292c14/1036dd0a4840979f5e5d8d7cb493
+
 ---
 
-## 11207 — Lego Marvel Spidey: podwodne pojazdy dla dzieci 11207
+## 11207 — Spidey: podwodne pojazdy
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 108.78 zł · EAN: 05702018062463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11207 |
+| Nazwa angielska | Spidey: Underwater Vehicles |
+| Nazwa polska | Spidey: podwodne pojazdy |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018062463 |
 
 **LEGO | Marvel Spidey: podwodne pojazdy dla dzieci 11207**
 
@@ -488,11 +766,26 @@ Zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzają je w świat twór
 
 Łódź podwodna w kształcie wieloryba w tym 154-elementowym zestawie ma 14 cm długości
 
+**Galeria:**
+
+- 11207-1: https://a.allegroimg.com/original/1187dc/668641cd4e6eb1269cc8c9e78b09
+
 ---
 
-## 11208 — Lego Marvel Spidey i jego fantastyczni przyjaciele 11208 Statek piracki
+## 11208 — LEGO Marvel Spidey i jego fantastyczni przyjaciele 11208
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 157.57 zł · EAN: 05702018063491 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11208 |
+| Nazwa angielska | Team Spidey Pirate Ship |
+| Nazwa polska | LEGO Marvel Spidey i jego fantastyczni przyjaciele 11208 |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 6 cm |
+| EAN | 5702018063491 |
 
 Wyrusz w rejs pełen fantazji z kreatywnym zestawem **Piracki statek zespołu Spideya** (11208) ze Spideyem, Zielonym Goblinem, Ghost-Spiderem i Milesem „Spinem” Moralesem. Ten zestaw dla dziewczynek i chłopców w wieku od 4 lat to świetny sposób na rozwijanie umiejętności podczas zabawnego odkrywania morza i Wyspy Pająka.
 
@@ -521,11 +814,26 @@ Ten zestaw ze Spideyem jest pełen funkcji i zawiera statek piracki, Wyspę Paj�
  
 - Nadaje się dla dzieci od 4 lat
 
+**Galeria:**
+
+- 11208-1: https://a.allegroimg.com/original/113ca8/39e0a43c4d89a1c7cd01ef1eebf2
+
 ---
 
-## 30160 — Lego DC Heroes 30160 Batman Jet Surfer saszetka klocki
+## 30160 — Zestaw
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 62.99 zł · EAN: 05702014858374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30160 |
+| Nazwa angielska | Bat Jetski |
+| Nazwa polska | Zestaw |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014858374 |
 
 Witam
 
@@ -541,11 +849,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30160-1: https://a.allegroimg.com/original/118a10/a73aaf444325961d4ddcd8f0b769
+
 ---
 
-## 30161 — Lego Heroes 30161 Batmobile
+## 30161 — Batmobile
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014858626 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30161 |
+| Nazwa angielska | Batmobile |
+| Nazwa polska | Batmobile |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014858626 |
 
 **LEGO zestaw  - polybag**
 
@@ -571,11 +894,26 @@ Rafał
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30161-1: https://a.allegroimg.com/original/11cb9c/489ff808469faaf3bf088ed45d9f
+
 ---
 
-## 30166 — Nowy Lego Heroes DC 30166 Unikat Robin Motocykl Batman Misb 2013
+## 30166 — ROBIN MOTOCYKL BATMAN MISB 2013
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 149.99 zł · EAN: 00673419193979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30166 |
+| Nazwa angielska | Robin and Redbird Cycle |
+| Nazwa polska | ROBIN MOTOCYKL BATMAN MISB 2013 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419193979 |
 
 Cześć!
 
@@ -595,11 +933,27 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30166-1: https://a.allegroimg.com/original/11f6c7/45eb34c74c8f984402e4293ba5eb
+
 ---
 
-## 30167 — Lego Marvel 30167 Iron Man vs. Fighting Drone saszetka klocki minifigurka
+## 30167 — 30167
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702014994331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30167 |
+| Nazwa angielska | Iron Man vs. Fighting Drone |
+| Nazwa polska | 30167 |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014994331 |
 
 Czas pożegnać się z kolekcją ponad 600 sztuk różnych polybagów LEGO. Kompletowana latami z różnych zakątków świata idzie na sprzedaż.
 
@@ -623,11 +977,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30167-1: https://a.allegroimg.com/original/118c66/6baf0e2e451285b6e8a74a3fdbcb
+
 ---
 
-## 30301 — Lego Heroes 30301 DC Heroes 30301 Batwing
+## 30301 — DC Super Heroes 30301 Batwing
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015129350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30301 |
+| Nazwa angielska | Batwing |
+| Nazwa polska | DC Super Heroes 30301 Batwing |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129350 |
 
 **LEGO zestaw  - polybag**
 
@@ -653,21 +1022,53 @@ Rafał
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30301-1: https://a.allegroimg.com/original/11a1f0/382a94824af7a40419e995f61b21
+
 ---
 
-## 30302 — Lego Heroes 30302 Spiderman
+## 30302 — spiderman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015129367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30302 |
+| Nazwa angielska | Spider-Man Glider |
+| Nazwa polska | spiderman |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129367 |
 
 LEGO Super Heroes 30302 Spiderman
 
 Zestaw LEGO Marvel Super Heroes - Szybowiec Spider-Mana trafił do sprzedaży w 2014 roku. Numer katalogowy tego zestawu to 30302. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Marvel Super Heroes - Spider-Man Glider. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30302-1: https://a.allegroimg.com/original/111f08/45abec70401e876e66a24b7b5359
+
 ---
 
-## 30304 — Lego 30304 Marvel Heroes Quinjet Avengersów- Polybag
+## 30304 — Quinjet Avengersów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 45.90 zł · EAN: 05702015357340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30304 |
+| Nazwa angielska | The Avengers Quinjet |
+| Nazwa polska | Quinjet Avengersów |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357340 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -679,11 +1080,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 30304-1: https://a.allegroimg.com/original/1136f7/bc7fd70643b6add764b42e7c8d6c
+
 ---
 
-## 30443 — Lego Spider-man No Way Home Polybag 30443
+## 30443 — brak informacji
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017153490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30443 |
+| Nazwa angielska | Spider-Man Bridge Battle |
+| Nazwa polska | brak informacji |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153490 |
 
 Lego SPIDER-MAN No Way Home Polybag 30443
 
@@ -691,11 +1108,26 @@ Zestawy LEGO w saszetkach to dobry pomysł na upominek lub jako dodatek do preze
  
 LEGO rozwija umiejętnośći manualne oraz zdolność dziecka do myślenia przestrzennego.
 
+**Galeria:**
+
+- 30443-1: https://a.allegroimg.com/original/11373d/0df733d44062b975f9e571e6630d
+
 ---
 
-## 30446 — Lego Heroes 30446 Batmobil saszetka z klockami
+## 30446 — Batmobil
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702015608770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30446 |
+| Nazwa angielska | The Batmobile |
+| Nazwa polska | Batmobil |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608770 |
 
 Witam
 
@@ -711,11 +1143,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30446-1: https://a.allegroimg.com/original/11bd9c/a7511119427191056e9bd841d902
+
 ---
 
-## 30450 — Lego Heroes 30450 Royal Talon Fighter
+## 30450 — ROYAL TALON FIGHTER
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702016122435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30450 |
+| Nazwa angielska | Royal Talon Fighter |
+| Nazwa polska | ROYAL TALON FIGHTER |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122435 |
 
 LEGO Super Heroes 30450
 
@@ -725,11 +1173,27 @@ Zestaw klocków LEGO Marvel Super Heroes - Royal Talon Fighter 30450 z kultowego
 
 Kolekcja LEGO® Marvel pozwala na zabawę w najbardziej niesamowite historie na świecie z udziałem bohaterów i złoczyńców oraz ich supermocy, a także niewiarygodnych pojazdów i oszałamiających gadżetów! Nieważne, czy jesteś fanem Iron Mana, Thora, Czarnej Pantery czy któregoś z pozostałych niesamowitych superbohaterów z naszego zespołu, z pewnością powrócisz jeszcze nieraz, by ponownie przeżyć radość, jaką daje ratowanie świata.
 
+**Galeria:**
+
+- 30450-1: https://a.allegroimg.com/original/0385ad/12009fd74b60b373466f62b75787
+
 ---
 
-## 30452 — Lego Heroes Avengers Iron Man I Dum-e 30452 Polybag
+## 30452 — Super Heroes
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 44.75 zł · EAN: 05702016374674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30452 |
+| Nazwa angielska | Iron Man and Dum-E |
+| Nazwa polska | Super Heroes |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374674 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -743,21 +1207,52 @@ Rok wydania:** 2019**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu (polybag-u).**
 
+**Galeria:**
+
+- 30452-1: https://a.allegroimg.com/original/11ee34/4f6fe31d4109b88c399ab966625b
+
 ---
 
-## 30454 — Lego Heroes Shang-Chi i Wielki Obrońca 30454
+## 30454 — LEGO SUPER HEROES MARVEL AVANGERS
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 21.99 zł · EAN: 05702016912036 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30454 |
+| Nazwa angielska | Shang-Chi and the Great Protector |
+| Nazwa polska | LEGO SUPER HEROES MARVEL AVANGERS |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912036 |
 
 **Klocki LEGO 30454 Shang-Chi i Wielki Obrońca**
 
 Zestaw klocków LEGO 30454 Marvel Shang-Chi i Wielki Obrońca został przedstawiony w 2021 roku i składa się z 55 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 30454-1: https://a.allegroimg.com/original/1123c1/f676af51459096fdf7dee8d49c86
+
 ---
 
-## 30455 — Lego 30455 Heroes Batmobil
+## 30455 — brak informacji
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 15.35 zł · EAN: 05702016911763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30455 |
+| Nazwa angielska | Batmobile |
+| Nazwa polska | brak informacji |
+| Seria | Super Heroes |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2022 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911763 |
 
 LEGO Klocki Super Heroes 30455 Batmobil
 
@@ -774,11 +1269,26 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 68 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30455-1: https://a.allegroimg.com/original/111f9e/aea5ab1c4866b0f8a75e823e618f
+
 ---
 
-## 30612 — Lego The Batman Movie 30612 Batgirl
+## 30612 — Batgirl
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 116.00 zł · EAN: 05702015925860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30612 |
+| Nazwa angielska | Batgirl |
+| Nazwa polska | Batgirl |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015925860 |
 
 **Sprzedajemy tylko ORYGINALNE minifigurki Lego oraz klocki Lego**
 
@@ -790,11 +1300,26 @@ Zestaw nowy. Wydany 2017 roku
 
 Zapraszamy na pozostałe nasze aukcje gdzie znajdziesz inne minifigurki jak i pojedyncze klocki na sztuki oraz całe zestawy.
 
+**Galeria:**
+
+- 30612-1: https://a.allegroimg.com/original/11f004/eed9c1454a92bff4cb19862d1f04
+
 ---
 
-## 30614 — Lego Heroes 30614 Heroes
+## 30614 — Super Heroes
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016123814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30614 |
+| Nazwa angielska | Lex Luthor |
+| Nazwa polska | Super Heroes |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123814 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -813,11 +1338,26 @@ Zapraszamy na pozostałe nasze aukcje gdzie znajdziesz inne minifigurki jak i po
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 30614-1: https://a.allegroimg.com/original/117f41/c6dcf8104170a6964b835074e34f
+
 ---
 
-## 30617 — Nowy Lego DC 30617 Green Lantern Jessica Cruz misb 2018
+## 30617 — Green Lantern Jessica Cruz
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 334.99 zł · EAN: 05702016175837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30617 |
+| Nazwa angielska | Green Lantern Jessica Cruz |
+| Nazwa polska | Green Lantern Jessica Cruz |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016175837 |
 
 Cześć!
 
@@ -837,11 +1377,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30617-1: https://a.allegroimg.com/original/118977/d0645fc04519b23e8cfeee388af2
+
 ---
 
-## 30623 — Lego DC Heroes 30623 Shazam! saszetka klocki minifigurka
+## 30623 — Lego DC Shazam!
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016396218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30623 |
+| Nazwa angielska | SHAZAM! |
+| Nazwa polska | Lego DC Shazam! |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016396218 |
 
 Witam
 
@@ -855,11 +1410,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30623-1: https://a.allegroimg.com/original/1110f0/9b13a5aa4c859443e1b0d630a34d
+
 ---
 
-## 30652 — Lego Heroes Marvel 30652 Doktor Strange portal międzywymiarowy
+## 30652 — Doktor Strange - portal międzywymiarowy
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 15.00 zł · EAN: 05702017421551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30652 |
+| Nazwa angielska | Doctor Strange's Interdimensional Portal |
+| Nazwa polska | Doktor Strange - portal międzywymiarowy |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421551 |
 
 Klocki Lego Super Heroes Marvel 30652 Doktor Strange - portal międzywymiarowy
 
@@ -881,11 +1452,26 @@ Figurka Doktora Strange'a oraz portal międzywymiarowy w foliowym blisterze.
 
 Oferowane przez nas produkty są nowe, oryginalne i fabrycznie zapakowane.
 
+**Galeria:**
+
+- 30652-1: https://a.allegroimg.com/original/1111c0/30ba780042c1bca6a9c59b3b024d
+
 ---
 
-## 30653 — Lego 30653 DC Batman 1992
+## 30653 — Batman 1992
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 23.22 zł · EAN: 00673419377089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30653 |
+| Nazwa angielska | Batman 1992 |
+| Nazwa polska | Batman 1992 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421124, 673419377089 |
 
 LEGO 30653 Batman 1992 – Powrót do klasyki DC Comics
 
@@ -913,11 +1499,28 @@ Ten zestaw LEGO to nie tylko zabawka, ale również wspaniała pamiątka dla mi�
 
 Zestaw LEGO 30653 Batman 1992 to idealny wybór dla tych, którzy chcą połączyć pasję do LEGO z miłością do Batmana. Nie czekaj, dodaj ten wyjątkowy zestaw do swojej kolekcji już dziś i poczuj się jak prawdziwy superbohater!
 
+**Galeria:**
+
+- 30653-1: https://a.allegroimg.com/original/113dae/02a7f2d446438f14a2b5d03692bd
+- 30653-2: https://a.allegroimg.com/original/11c163/73c8fdcc48a183693bde5d17144e
+
 ---
 
-## 30679 — Lego Heroes Marvel Motocykl Venoma 30679
+## 30679 — Motocykl Venoma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 14.19 zł · EAN: 05702017590172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30679 |
+| Nazwa angielska | Venom Street Bike |
+| Nazwa polska | Motocykl Venoma |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590172 |
 
 LEGO MARVEL MOTOCYKL VENOMA Z WYRZUTNIAMI MOTOR SPIDERMAN KLOCKI 30679
 
@@ -941,11 +1544,27 @@ LEGO MARVEL MOTOCYKL VENOMA Z WYRZUTNIAMI MOTOR SPIDERMAN KLOCKI 30679
  
 **Producent** - LEGO
 
+**Galeria:**
+
+- 30679-1: https://a.allegroimg.com/original/117000/9eb50d6646f3ae805ab626817f59
+
 ---
 
-## 30707 — Lego Heroes 30707 Napad Venoma Na Muzeum
+## 30707 — Napad Venoma na muzeum
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 13.75 zł · EAN: 05702017819396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30707 |
+| Nazwa angielska | Venom's Museum Robbery |
+| Nazwa polska | Napad Venoma na muzeum |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819396 |
 
 Lego
 
@@ -987,21 +1606,52 @@ Przenieś się do świata Marvela i odegraj dynamiczną scenę napadu Venoma na 
 
 ✔️ Limitowana edycja promocyjna – trudna do zdobycia w sklepach!
 
+**Galeria:**
+
+- 30707-1: https://a.allegroimg.com/original/11ba3a/0cd15db3459783cf697bc510828e
+
 ---
 
-## 30726 — Lego Batman: Bruce Wayne i kostium Batmana 30726
+## 30726 — Batman: Bruce Wayne i kostium Batmana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 12.49 zł · EAN: 05702018058107 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30726 |
+| Nazwa angielska | Batman: Bruce Wayne and the Batsuit |
+| Nazwa polska | Batman: Bruce Wayne i kostium Batmana |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058107 |
 
 **LEGO Batman: Bruce Wayne i kostium Batmana 30726**
 
 W batjaskini Bruce Wayne™ jest zajęty pracą przy batkomputerze. W pobliżu wisi jego kostium Batmana™ strzeżony przez promienie laserowe. Aby zdobyć kombinezon, dzieci muszą usunąć wszystkie z nich.
 
+**Galeria:**
+
+- 30726-1: https://a.allegroimg.com/original/11e05e/220fa8b3428280678699f2a73701
+
 ---
 
-## 40334 — Lego 40334 Marvel Heroes Wieża Avengersów
+## 40334 — 40334
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702016371178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40334 |
+| Nazwa angielska | Avengers Tower |
+| Nazwa polska | 40334 |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 30 cm × gł. 5 cm |
+| EAN | 5702016371178 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1029,11 +1679,27 @@ PACZKI .
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 - Wymiary ok. 30 cm wysokości, 30 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 40334-1: https://a.allegroimg.com/original/03a21d/b2b023034d869350b21ef3b24c57
+
 ---
 
-## 40418 — Lego 40418 Marvel Falcon I Czarna Wdowa Ruszają Do Ataku
+## 40418 — Falcon i Czarna Wdowa ruszają do ataku
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 99.45 zł · EAN: 00673419326162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40418 |
+| Nazwa angielska | Falcon & Black Widow Team Up |
+| Nazwa polska | Falcon i Czarna Wdowa ruszają do ataku |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419326162 |
 
 LEGO 40418 MARVEL - FALCON I CZARNA WDOWA RUSZAJĄ DO ATAKU
 
@@ -1057,11 +1723,27 @@ Dwie popularne postacie Avengersów — skrzydlaty Falcon i superwojowniczka Cza
 - Skrzydła Falcona można ręcznie ustawić w położeniu do lotu.
 - Ręcznie sterowane sześciolufowe działko strzela dużymi pociskami LEGO®.
 
+**Galeria:**
+
+- 40418-1: https://a.allegroimg.com/original/114a80/793209604b1aac7147006afdc1f5
+
 ---
 
-## 40454 — Lego Heroes 40454 Spider-Man kontra Venom i Iron Venom
+## 40454 — Spider-Man kontra Venom i Iron Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 104.60 zł · EAN: 00673419337526 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40454 |
+| Nazwa angielska | Spider-Man versus Venom and Iron Venom |
+| Nazwa polska | Spider-Man kontra Venom i Iron Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419337526 |
 
 **LEGO 40454 SUPER HEROES SPIDER-MAN KONTRA VENOM**
  
@@ -1074,11 +1756,27 @@ Miłośnikom filmów Marvela spodoba się ten dynamiczny zestaw z popularnym sup
 - Minifigurki mają akcesoria, takie jak broń energetyczna Spider-Mana i Iron Venoma oraz dwa hot dogi Pork Grinda. 
 - Wciągająca zabawka konstrukcyjna dla młodych superbohaterów w wieku od 6 lat.
 
+**Galeria:**
+
+- 40454-1: https://a.allegroimg.com/original/11c86b/d6359a3b4f5fa6e6ad1e0745ef9c
+
 ---
 
-## 40525 — Lego Heroes 40525 Bitwa Końca gry
+## 40525 — Endgame battle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 84.00 zł · EAN: 00673419358934 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40525 |
+| Nazwa angielska | Endgame Battle Accessory Pack |
+| Nazwa polska | Endgame battle |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419358934 |
 
 Klocki LEGO Marvel Super Heroes 40525 - Bitwa z „Końca gry”
  
@@ -1093,11 +1791,26 @@ Miłośnikom superbohaterów spodoba się zestaw LEGO® Marvel Bitwa z „Końca
  
 **☑️ Zakupione zestawy są pakowane z najwyższą starannością.**
 
+**Galeria:**
+
+- 40525-1: https://a.allegroimg.com/original/11683a/0d93c28449cbbf72492135b76645
+
 ---
 
-## 4527 — Lego Heroes 4527 The Joker Nowe
+## 4527 — The Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014836792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4527 |
+| Nazwa angielska | The Joker |
+| Nazwa polska | The Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014836792 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1107,11 +1820,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO DC Comics Super Heroes The Joker 4527 **został pokazany w 2012 roku i zbudowany jest z 57 klocków LEGO®. Klocki przeznaczone są dla dzieci od 6 roku życia.
 
+**Galeria:**
+
+- 4527-1: https://a.allegroimg.com/original/1199cc/ec935278492b8d59ec6ba8f0ef8b
+
 ---
 
-## 4529 — Lego Heroes 4529 Mech Iron Man
+## 4529 — Iron Man
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702014836815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4529 |
+| Nazwa angielska | Iron Man |
+| Nazwa polska | Iron Man |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014836815 |
 
 LEGO Super Heroes 4529
 
@@ -1128,11 +1857,27 @@ O produkcie:
 
 LEGO Super Heroes 4529 Iron Man to zestaw klocków dla chłopców w wieku 6 lat i więcej, który pozwala na stworzenie postaci ulubionego bohatera - Iron Mana. Produkt pochodzi od znanej i cenionej marki LEGO, gwarantującej wysoką jakość wykonania. Zestaw 4529 Iron Man to idealna propozycja dla fanów superbohaterów, którzy chcą rozwijać swoją wyobraźnię i kreatywność podczas zabawy.
 
+**Galeria:**
+
+- 4529-1: https://a.allegroimg.com/original/118d18/f7b4d2224966b235657a32722814
+
 ---
 
-## 4597 — Lego Heroes 4597 Captain America
+## 4597 — Captain America
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 328.00 zł · EAN: 05702014836839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4597 |
+| Nazwa angielska | Captain America |
+| Nazwa polska | Captain America |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014836839 |
 
 LEGO Super Heroes 4597
 
@@ -1142,11 +1887,27 @@ Kapitan Ameryka
 
 Wyjątkowy zestaw dla fanów Kapitana Ameryki. Zestaw trafił do produkcji w 2012 roku. Zestaw skierowany do dzieci w wieku 6+
 
+**Galeria:**
+
+- 4597-1: https://a.allegroimg.com/original/11360a/d7e5f76943bc81f1e502e208e581
+
 ---
 
-## 5008076 — Lego 5008076 Marvel Heroes Taksówka Marvel Unikat Edycja Limitowana
+## 5008076 — Taksówka Marvel
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 359.21 zł · EAN: 05702017659053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008076 |
+| Nazwa angielska | Taxi |
+| Nazwa polska | Taksówka Marvel |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017659053 |
 
 LEGO 5008076/6487484 Marvel Super Heroes - Taksówka Marvel
 
@@ -1162,11 +1923,26 @@ Ilość klocków: 150
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 5008076-1: https://a.allegroimg.com/original/1197f3/a1af4ef74aaa95f1be251d8723e5
+
 ---
 
-## 6858 — Lego Heroes 6858 Ucieczka Kobiety Kot DC
+## 6858 — Lego Super Heroes DC 6858 Catwoman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014842298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6858 |
+| Nazwa angielska | Catwoman Catcycle City Chase |
+| Nazwa polska | Lego Super Heroes DC 6858 Catwoman |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842298 |
 
 LEGO Super Heroes 6858
 
@@ -1181,11 +1957,26 @@ Ucieczka Kobiety Kot
 
 **Kartonik posiada delikatnie przetarcia na rogach**
 
+**Galeria:**
+
+- 6858-1: https://a.allegroimg.com/original/11568e/464ce6594b4d9fe4afb01d400dbf
+
 ---
 
-## 6860 — Lego Batman 6860 The Batcave
+## 6860 — LEGO 6860 - SUPER HEROES - The Batcave
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1349.00 zł · EAN: 00673419168342 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6860 |
+| Nazwa angielska | The Batcave |
+| Nazwa polska | LEGO 6860 - SUPER HEROES - The Batcave |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 690 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842304, 673419168342 |
 
 KLOCKI Lego SUPER HEROES 6860 - BATCAVE - JASKINIA BATMANA
 
@@ -1217,11 +2008,27 @@ Wiek dziecka
 
 NOWY
 
+**Galeria:**
+
+- 6860-1: https://a.allegroimg.com/original/030508/4098fde9469397b487d7bd636949
+- 6860-2: https://9.allegroimg.com/original/030508/4098fde9469397b487d7bd636949
+
 ---
 
-## 6862 — Lego Heroes 6862 Superman vs Power Armour Lex
+## 6862 — Superman vs Power Armour Lex
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702014842335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6862 |
+| Nazwa angielska | Secret Space Voyager |
+| Nazwa polska | Superman vs Power Armour Lex |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1991 |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842335 |
 
 **Copilot said:**
 
@@ -1254,21 +2061,52 @@ Lex Luthor, największy wróg Supermana, zbudował potężny pancerz bojowy zasi
 
 Zestaw należy do pierwszej serii **LEGO DC Super Heroes** i zawiera ekskluzywną wersję minifigurki **Lexa Luthora**, co czyni go szczególnie atrakcyjnym dla kolekcjonerów.
 
+**Galeria:**
+
+- 6862-1: https://a.allegroimg.com/original/114c23/c05076614bb1b689c0c7434ca620
+
 ---
 
-## 6863 — Lego 6863 Heroes Bitwa nad miastem Gotham
+## 6863 — LEGO 6863 Super Heroes Bitwa nad miastem Gotham
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 790.00 zł · EAN: 05702014842366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6863 |
+| Nazwa angielska | Batwing Battle Over Gotham City |
+| Nazwa polska | LEGO 6863 Super Heroes Bitwa nad miastem Gotham |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842366 |
 
 Klocki LEGO DC Super Heroes 6863 - Bitwa nad miastem Gotham
 
 Zestaw LEGO DC Super Heroes - Bitwa nad miastem Gotham trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 6863. Zawiera 278 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO DC Super Heroes - Batwing Battle Over Gotham City. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 6863-1: https://a.allegroimg.com/original/11a1ab/9a6961e24c84890b4e4ab89637f6
+
 ---
 
-## 6865 — Lego Heroes 6865 Captain America's Avenging Cycle
+## 6865 — Captain America's Avenging Cycle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 550.00 zł · EAN: 05702014842397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6865 |
+| Nazwa angielska | Captain America's Avenging Cycle |
+| Nazwa polska | Captain America's Avenging Cycle |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842397 |
 
 **Copilot said:**
 
@@ -1299,11 +2137,27 @@ Wyrusz do walki wraz z Kapitanem Ameryką na jego legendarnym motocyklu **Avengi
 
 To niewielki, ale kolekcjonersko ceniony zestaw z pierwszej fali LEGO Marvel, idealny dla fanów Kapitana Ameryki i uniwersum Avengers
 
+**Galeria:**
+
+- 6865-1: https://a.allegroimg.com/original/115ee3/39b345424df2afb77379032ed00f
+
 ---
 
-## 6866 — Lego Heroes 6866 Wolverine's Chopper Showdown
+## 6866 — Wolverine's Chopper Showdown
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 2100.00 zł · EAN: 05702014842403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6866 |
+| Nazwa angielska | Wolverine's Chopper Showdown |
+| Nazwa polska | Wolverine's Chopper Showdown |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842403 |
 
 LEGO 6866 – Wolverine’s Chopper Showdown
  
@@ -1347,11 +2201,27 @@ Według recenzji:
 - Dla kolekcjonerów ceniących **unikatyczne minifigurki** i egzemplarze z wyższej półki. 
 - Dla osób szukających kombinacji **zabawy + ekspozycji**, z dynamiczną konfrontacją helikopter
 
+**Galeria:**
+
+- 6866-1: https://a.allegroimg.com/original/1136ff/22b544a74186a6c1942e36086f2c
+
 ---
 
-## 6867 — Lego Heroes 6867 Ucieczka Lokiego
+## 6867 — Ucieczka Lokiego
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 650.00 zł · EAN: 05702014842410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6867 |
+| Nazwa angielska | Loki's Cosmic Cube Escape |
+| Nazwa polska | Ucieczka Lokiego |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842410 |
 
 **LEGO 6867 Loki's Cosmic Cube Escape** to zestaw z serii **LEGO Marvel Super Heroes**, wydany w 2012 roku. Zawiera **181 elementów** i jest przeznaczony dla dzieci w wieku **6-12 lat**.
 
@@ -1375,11 +2245,27 @@ Zestaw zawiera 3 minifigurki:
 
 To ciekawy zestaw dla fanów filmu **Avengers** i kolekcjonerów pierwszych zestawów LEGO Marvel.
 
+**Galeria:**
+
+- 6867-1: https://a.allegroimg.com/original/1171a2/ce532a4645bcb7dde8bdca7ed8eb
+
 ---
 
-## 6868 — Lego Heroes 6868 Hulk i Ucieczka z Helicarriera
+## 6868 — Hulk i Ucieczka z Helicarriera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 790.00 zł · EAN: 05702014842427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6868 |
+| Nazwa angielska | Hulk's Helicarrier Breakout |
+| Nazwa polska | Hulk i Ucieczka z Helicarriera |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842427 |
 
 LEGO Super Heroes 6868 Hulk i Ucieczka z Helicarriera
 
@@ -1401,11 +2287,27 @@ LEGO Super Heroes 6868 Hulk i Ucieczka z Helicarriera to produkt odpowiedni zar�
 
 Podsumowując, LEGO Super Heroes 6868 Hulk i Ucieczka z Helicarriera to zestaw klocków, który z pewnością dostarczy wiele radości i ciekawych wrażeń.
 
+**Galeria:**
+
+- 6868-1: https://a.allegroimg.com/original/11edbc/6ac84b32478ab16cb5905d70ae79
+
 ---
 
-## 6869 — Lego Heroes 6869 Quinjet Aerial Battle
+## 6869 — Quinjet Aerial Battle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014842434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6869 |
+| Nazwa angielska | Quinjet Aerial Battle |
+| Nazwa polska | Quinjet Aerial Battle |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 735 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842434 |
 
 **Numer katalogowy**: 6869
 
@@ -1430,11 +2332,27 @@ Podsumowując, LEGO Super Heroes 6868 Hulk i Ucieczka z Helicarriera to zestaw k
 - Zestaw chwalony jako jeden z najlepszych z 2012: solidne wykonanie, dobrze dobrane wrażenia zabawowe — „trudno się oderwać”
 - Recenzent zachwala ukryty mechanizm wyrzutu drona i pojemną „klatkę” dla złoczyńców, a także estetyczny design i pakiet części
 
+**Galeria:**
+
+- 6869-1: https://a.allegroimg.com/original/11c0d4/c5ecd4514a2389aaf982b6f777d3
+
 ---
 
-## 6873 — Lego Heroes 6873 Marvel Spider-man i Doc Ock
+## 6873 — Spider-man i zasadzka Doc Ock
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 720.00 zł · EAN: 05702014842694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6873 |
+| Nazwa angielska | Spider-Man's Doc Ock Ambush |
+| Nazwa polska | Spider-man i zasadzka Doc Ock |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842694 |
 
 Dane podstawowe
 
@@ -1462,11 +2380,26 @@ możliwość „wślizgnięcia się” Spider-Mana przez przewód wentylacyjny (
 
 pojazd z wyrzutniami pocisków pozwala na dynamiczną akcję i ucieczkę Doc Ocka.
 
+**Galeria:**
+
+- 6873-1: https://a.allegroimg.com/original/11f287/64bc9bd84fe5b78610f2b1d94ee0
+
 ---
 
-## 70169 — Lego Ultra Agents: 70169 Tajna patrolówka
+## 70169 — LEGO 70169 Ultra Agents - Tajna patrolówka
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 460.07 zł · EAN: 05702015353854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70169 |
+| Nazwa angielska | Agent Stealth Patrol |
+| Nazwa polska | LEGO 70169 Ultra Agents - Tajna patrolówka |
+| Seria | Super Heroes |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 475 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353854 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1500,11 +2433,26 @@ W zestawie:
 
 - minifigurki elitarnego agenta Jacka Fury, Toxikity i profesora Brainsteina.
 
+**Galeria:**
+
+- 70169-1: https://a.allegroimg.com/original/118ac2/c3020e2349e5aa1bb9c8067d8362
+
 ---
 
-## 70922 — Klocki Lego The Lego Batman Movie Zestaw Rezydencja Jokera 70922
+## 70922 — Rezydencja Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 3149.00 zł · EAN: 05702016093056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70922 |
+| Nazwa angielska | The Joker Manor |
+| Nazwa polska | Rezydencja Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 3444 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 55 cm × szer. 66 cm × gł. 27 cm |
+| EAN | 5702016093056 |
 
 Zestaw zawiera 3444 elementów, aby skonstruować rezydencję Jokera z filmu The LEGO Batman Movie.
  
@@ -1530,11 +2478,26 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 70922-1: https://a.allegroimg.com/original/00ee50/c64c0aef4633b76a9ae30c2fb479
+
 ---
 
-## 71227 — Lego 71227 Dimensions Krusty Simpsons
+## 71227 — KRUSTY & CLOWN BIKE
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 149.00 zł · EAN: 05051892187657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71227 |
+| Nazwa angielska | Krusty Fun Pack |
+| Nazwa polska | KRUSTY & CLOWN BIKE |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187657 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1558,11 +2521,26 @@ LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 71227-1: https://a.allegroimg.com/original/11ecba/85f93283433ca6d12f271d97f62b
+
 ---
 
-## 71236 — Lego Dimensions 71236 Fun Pack Superman DC Comics
+## 71236 — 1
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 129.99 zł · EAN: 05051892188807 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71236 |
+| Nazwa angielska | Superman Fun Pack |
+| Nazwa polska | 1 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188807 |
 
 WITAM
 
@@ -1587,11 +2565,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71236-1: https://a.allegroimg.com/original/111af0/5caae3c04512b640e8f72cd4efa3
+
 ---
 
-## 76000 — Lego Heroes 76000 Arctic Batman vs Mr.Freeze Aquaman on Ice
+## 76000 — Arctic Batman vs. Mr. Freeze
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 436.59 zł · EAN: 05702014967144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76000 |
+| Nazwa angielska | Arctic Batman vs. Mr. Freeze: Aquaman on Ice |
+| Nazwa polska | Arctic Batman vs. Mr. Freeze |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014967144 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1613,11 +2606,26 @@ PACZKI
 
 Zestaw LEGO DC Super Heroes - Arctic Batman vs. Mr. Freeze trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 76000. Zawiera 198 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO DC Super Heroes - Arctic Batman vs. Mr Freeze : Aquaman on Ice. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 76000-1: https://a.allegroimg.com/original/053e5a/36bcb2bc41b2b066847245a9c46c
+
 ---
 
-## 76001 — Klocki Lego Batman Tumbler 76001 Nietoperz kontra Bane ; Pościg w Tumblerze
+## 76001 — LEGO 76001 DC Comics Super Heroes Batman kontra Bane: Pościg w Tumblerze
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 552.04 zł · EAN: 05702014972469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76001 |
+| Nazwa angielska | The Bat vs. Bane: Tumbler Chase |
+| Nazwa polska | LEGO 76001 DC Comics Super Heroes Batman kontra Bane: Pościg w Tumblerze |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 367 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972469 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1667,11 +2675,26 @@ Nietoperz ma ok. 7 cm wysokości. 20 cm długości i 14 cm rozpiętości.
 
 Tumbler ma ok. 4 cm wysokości. 11 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 76001-1: https://a.allegroimg.com/original/03e28f/aa7aa0aa45b192063236f5cf1fc8
+
 ---
 
-## 76003 — Lego Zestaw Marvel DC Comics Heroes Bitwa o Smallville 76003
+## 76003 — Superman Battle Smallville
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015051484 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76003 |
+| Nazwa angielska | Superman: Battle of Smallville |
+| Nazwa polska | Superman Battle Smallville |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 418 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 25 cm |
+| EAN | 5702014972681, 5702015051484 |
 
 LEGO DC Comics Super HeroesBitwa o Smallville 76003
 
@@ -1699,11 +2722,27 @@ Pomóż Supermanowi™ powstrzymać Kryptonian przed przejęciem miasta w bitwie
 - **Desantowiec ma ok. 15 cm wysokości, 22 cm długości i 25 cm szerokości.**
 - **Samochód terenowy ma ok. 12 cm wysokości, 11 cm długości i 6 cm szerokości.**
 
+**Galeria:**
+
+- 76003-1: https://a.allegroimg.com/original/031766/65116ceb4695a9325691d8d93eaf
+
 ---
 
-## 76004 — Lego 76004 Marvel Heroes Spider-Man Pościg
+## 76004 — 76004
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 416.22 zł · EAN: 05702014972698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76004 |
+| Nazwa angielska | Spider-Man: Spider-Cycle Chase |
+| Nazwa polska | 76004 |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972698 |
 
 LEGO Marvel Super Heroes 76004 - Spider-Man Pościg
 
@@ -1727,11 +2766,27 @@ PACZKI .
 
 Zestaw LEGO Marvel Super Heroes - Spider-Man Pościg trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 76004. Zawiera 237 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Marvel Super Heroes - Spider-Man : Spider-Cycle Chase. Grupa wiekowa tego produktu to 6+
 
+**Galeria:**
+
+- 76004-1: https://a.allegroimg.com/original/03a483/47ace5e24329bd3a5465adaaefff
+
 ---
 
-## 76006 — Lego Heroes 76006 Iron Man Bitwa o port Extremis
+## 76006 — LEGO Iron Man Bitwa o Port Extremis
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702014972711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76006 |
+| Nazwa angielska | Iron Man: Extremis Sea Port Battle |
+| Nazwa polska | LEGO Iron Man Bitwa o Port Extremis |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972711 |
 
 LEGO Super Heroes 76006
 
@@ -1741,11 +2796,27 @@ Iron Man - Bitwa o port Extremis
 
 Powstrzymaj ucieczkę Killiana jako Iron Man i War Machine z serii LEGO® Marvel Super Heroes! Wysadź motorówkę wybuchającą boją, odpal podwójne rakiety i atakuj z działa, które War Machine ma na ramieniu! Zestaw zawiera 3 minifigurki z bronią: Aldricha Killiana, Iron Mana w zbroi Mark 42 i War Machine z działem na ramieniu.
 
+**Galeria:**
+
+- 76006-1: https://a.allegroimg.com/original/05e883/c31935154feca34bc337a53c910a
+
 ---
 
-## 76007 — Lego Heroes 76007 Atak na posiadłość Malibu
+## 76007 — 76007
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 736.38 zł · EAN: 05702014972728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76007 |
+| Nazwa angielska | Iron Man: Malibu Mansion Attack |
+| Nazwa polska | 76007 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702014972728 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1785,11 +2856,27 @@ Mandaryn i jego żołnierz Extremis atakują posiadłość Tony’ego Starka w M
 
 • Sekcja posiadłości w Malibu ma ok. 10 cm wysokości, 20 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 76007-1: https://a.allegroimg.com/original/05b0c2/1fbf87e243da807b728a5caa94be
+
 ---
 
-## 76008 — Lego Heroes 76008 Sh Iron Man v Mandarin Ostatnie starcie
+## 76008 — LEGO SH Iron Man v Mandarin Ostatnie starcie 76008
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 355.00 zł · EAN: 05702015031820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76008 |
+| Nazwa angielska | Iron Man vs. The Mandarin: Ultimate Showdown |
+| Nazwa polska | LEGO SH Iron Man v Mandarin Ostatnie starcie 76008 |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm |
+| EAN | 5702015031820 |
 
 Czas na ostateczne starcie między Iron Manem a Mandarynem na nabrzeżu w Miami. Staw czoła ultramocnemu opancerzonemu samochodowi z obrotowym miotaczem ognia i 2 wystrzeliwanymi ogniowymi rakietami! Wymanewruj złoczyńcę i nie pozwól mu przypalić superbohatera! Zestaw zawiera 2 minifigurki z bronią: Iron Mana w zbroi Heart Breaker oraz Mandaryna.
 
@@ -1804,11 +2891,26 @@ LEGO Marvel Super Heroes - 76008 Iron Man vs Mandarin: Ostatnie starc- Nowe
 
 Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
+**Galeria:**
+
+- 76008-1: https://a.allegroimg.com/original/053014/2203a4a747fda06fdf59e5762636
+
 ---
 
-## 76009 — Lego Heroes 76009 Superman Ucieczka Black Zero Misb 2013
+## 76009 — 76009
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702015032834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76009 |
+| Nazwa angielska | Superman: Black Zero Escape |
+| Nazwa polska | 76009 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015032834, 673419200363 |
 
 Nowy zestaw LEGO 76009 Super Heroes
  
@@ -1820,11 +2922,26 @@ Superman Black Zero Escape
 - Broń obejmuje kryptoński blaster, zabierz Lois do kapsuły ratunkowej i uciekaj do bezpieczeństwa. 
 - Kapsułki ewakuacyjne mają ponad 2 wysokie, 3 długości i 3 szerokości
 
+**Galeria:**
+
+- 76009-1: https://a.allegroimg.com/original/055bbc/ec8904ef4856b487fdfaba95fa34
+
 ---
 
-## 76010 — Lego Heroes 76010 Batman starcie z pingwinem
+## 76010 — Batman starcie z pingwinem
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702015127530 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76010 |
+| Nazwa angielska | Batman: The Penguin Face off |
+| Nazwa polska | Batman starcie z pingwinem |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015127530 |
 
 **LEGO DC Super Heroes Batman™: Starcie z Pingwinem 76010 – KOLEKCJONERSKI ZESTAW**
 
@@ -1858,11 +2975,26 @@ Na sprzedaż klasyczny zestaw LEGO DC Super Heroes przedstawiający starcie Batm
 
 **realne zdjęcia**
 
+**Galeria:**
+
+- 76010-1: https://a.allegroimg.com/original/113257/68211f5440ca90c0be96d6435011
+
 ---
 
-## 76012 — Lego 76012 Batman Pościg Człowieka Zagadki Nowy
+## 76012 — Klocki LEGO Batman 76012 Pościg człowieka zagadki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702015128063 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76012 |
+| Nazwa angielska | Batman: The Riddler Chase |
+| Nazwa polska | Klocki LEGO Batman 76012 Pościg człowieka zagadki |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015128063 |
 
 Mam na sprzedaż zestaw "Batman Pościg Człowieka-zagadki" z LEGO Batman, numer katalogowy 76012.
 
@@ -1876,11 +3008,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 76012-1: https://a.allegroimg.com/original/117f8d/8364865f495ab5a23904c7fa713b
+
 ---
 
-## 76013 — Lego Heroes 76013 Batman Parowy walec Jokera
+## 76013 — LEGO Super Heroes 76013 Batman Parowy walec Jokera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 520.00 zł · EAN: 05702015128773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76013 |
+| Nazwa angielska | Batman: The Joker Steam Roller |
+| Nazwa polska | LEGO Super Heroes 76013 Batman Parowy walec Jokera |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 486 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015128773 |
 
 LEGO SUPER HEROES BATMAN 76013
 
@@ -1905,11 +3052,27 @@ Opis produktu
  
 LEGO Super Hero Batman™: Parowy walec Jokera to odsłona jednego z epizodów związanych z super bohaterem – Batmanem. Joker sieje wśród mieszkańców Gotham zniszczenie i panikę swym parowym walcem, który niszczy na swojej drodze wszystko, co tylko spotka. Tylko Batman, dzięki rakietom zamontowanym na swoim Batwingu, może przeciwstawić się okrutnemu Jokerowi i jego sitwie. W zestawie, oprócz Batmna, znajdują się figurki Batgirl, Robina, Jokera i jego zbira.
 
+**Galeria:**
+
+- 76013-1: https://3.allegroimg.com/original/038fdc/9ab30a954452aaa5595247aaad33
+
 ---
 
-## 76014 — Lego Heroes 76014 Trójkołowiec Pająka Kontra Electro
+## 76014 — LEGO 76014 SUPER HEROES SPIDER-MAN VS ELECTRO
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015128780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76014 |
+| Nazwa angielska | Spider-Trike vs. Electro |
+| Nazwa polska | LEGO 76014 SUPER HEROES SPIDER-MAN VS ELECTRO |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 8 cm |
+| EAN | 5702015128780 |
 
 LEGO Super Heroes 76014
 
@@ -1926,11 +3089,27 @@ Staw czoła Electro ze Spider-Manem w nowym trójkołowcu! Electro sieje postrac
 - Przewróć Electro wystrzeliwanymi rakietami i wystrzel Spider-Mana z siedzenia, by zaskoczyć wroga.
 - Trójkołowiec ma ok. 5 cm wysokości, 11 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 76014-1: https://a.allegroimg.com/original/11a807/45f0c1d742abbdfc46aaee9c9640
+
 ---
 
-## 76015 — Lego Heroes 76015 Doc Ock Napad Ciężarówką
+## 76015 — 76015
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 377.41 zł · EAN: 05702015128797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76015 |
+| Nazwa angielska | Doc Ock Truck Heist |
+| Nazwa polska | 76015 |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702015128797 |
 
 LEGO® 76015 Marvel Super Heroes - Doc Ock Napad Ciężarówką
 
@@ -2010,11 +3189,27 @@ Specyfikacja zestawu LEGO 76015
 - **Waga opakowania (g):** 390 (0,39kg)
 - **Wymiary złożonego zestawu (cm):** 7 x 16 x 6
 
+**Galeria:**
+
+- 76015-1: https://a.allegroimg.com/original/117f6e/b1226e2a4b0faba80136c771a677
+
 ---
 
-## 76016 — Lego Zestaw Heros Spiderman Centrum ratunkowe Pająka 76016
+## 76016 — 76016
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 499.95 zł · EAN: 05702015129022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76016 |
+| Nazwa angielska | Spider-Helicopter Rescue |
+| Nazwa polska | 76016 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129022 |
 
 LEGO Zestaw Super Heros - Spiderman Centrum ratunkowe Pająka 76016
 
@@ -2040,11 +3235,27 @@ Spider-Helicopter Rescue
 - Wystrzel sieć i schwytaj w nią Zielonego Goblina™
 - Uskocz przed rakietami wystrzelonymi z lotni.
 
+**Galeria:**
+
+- 76016-1: https://6.allegroimg.com/original/03b774/ee994ed941b287372a02aa914da6
+
 ---
 
-## 76017 — Lego Heroes 76017 Captain America vs. Hydra
+## 76017 — Captain America vs. Hydra
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 370.00 zł · EAN: 05702015129039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76017 |
+| Nazwa angielska | Captain America vs. Hydra |
+| Nazwa polska | Captain America vs. Hydra |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129039 |
 
 **Lego Super Heroes 76017 Captain America vs. Hydra**
  
@@ -2070,11 +3281,27 @@ W razie jakichkolwiek wątpliwości chętnie udzielę dodatkowych informacji.
  
 683’
 
+**Galeria:**
+
+- 76017-1: https://a.allegroimg.com/original/05afb0/d063caba431998903c4bedbea885
+
 ---
 
-## 76018 — Lego Heroes 76018 Hulk Zniszczenie labora.
+## 76018 — LEGO Super Heroes 76018 Hulk Zniszczenie labora.
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015129046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76018 |
+| Nazwa angielska | Hulk Lab Smash |
+| Nazwa polska | LEGO Super Heroes 76018 Hulk Zniszczenie labora. |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 398 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 26 cm × gł. 16 cm |
+| EAN | 5702015129046 |
 
 Lego Super Heroes Zniszczenie laboratorium 76018
  
@@ -2114,11 +3341,27 @@ Informacje Dodatkowe
  
 Możliwość dowiezienia klocków w sobotę i niedziele po uzgodnieniu terminu.
 
+**Galeria:**
+
+- 76018-1: https://a.allegroimg.com/original/117780/bbefdf1a462d91ac7037216fb172
+
 ---
 
-## 76019 — Lego Marvel Heroes 76019 Kosmiczny Starblaster Nowe
+## 76019 — Kosmiczny Starblaster
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015129053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76019 |
+| Nazwa angielska | Starblaster Showdown |
+| Nazwa polska | Kosmiczny Starblaster |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129053 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2128,11 +3371,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 76019 Kosmiczny Starblaster **został pokazany w 2014 roku i zbudowany jest z 196 klocków LEGO®. W klockach znajdziesz też 3 minifigurki. Zestaw przeznaczony jest dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 76019-1: https://a.allegroimg.com/original/1193ef/91dcef2d4566afce95ee4013ae3e
+
 ---
 
-## 76022 — Lego Heroes 76022 X-Men kontra Sentinel
+## 76022 — X-Men vs. Sentinel
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 949.99 zł · EAN: 05702015129282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76022 |
+| Nazwa angielska | X-Men vs. The Sentinel |
+| Nazwa polska | X-Men vs. Sentinel |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129282 |
 
 **LEGO DC Super Heroes X-Men kontra Sentinel 76022 – KOLEKCJONERSKI ZESTAW**
 
@@ -2164,11 +3423,26 @@ Na sprzedaż wyjątkowy zestaw LEGO DC Super Heroes 76022 przedstawiający widow
 
 **realne zdjęcia**
 
+**Galeria:**
+
+- 76022-1: https://a.allegroimg.com/original/05263a/98fda88a43bbb0aa1e95b2012692
+
 ---
 
-## 76023 — Lego Heroes 76023 The Tumbler Nowe
+## 76023 — Super Heroes The Tumbler 76023
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1484.00 zł · EAN: 05702015129299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76023 |
+| Nazwa angielska | The Tumbler |
+| Nazwa polska | Super Heroes The Tumbler 76023 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1869 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 24 cm |
+| EAN | 5702015129299 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2186,11 +3460,26 @@ Zmierz się z wyzwaniem skonstruowania Tumblera — absolutnie niezwykłego mode
 - Do zestawu dołączono ulotkę na temat pojazdu Tumbler, który wystąpił w filmach trylogii Batman™ Mroczny Rycerz 
 - Wymiary Tumblera: 15 cm wysokości, 40 cm długości i 24 cm szerokości
 
+**Galeria:**
+
+- 76023-1: https://a.allegroimg.com/original/11e8e6/7001b8204566a78b32368abca0f8
+
 ---
 
-## 76025 — Lego Heroes 76025 Lego Heroes Zielona Latarnia Sinestro 76025
+## 76025 — LEGO Super Heroes Zielona Latarnia Sinestro 76025
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702015353908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76025 |
+| Nazwa angielska | Green Lantern vs. Sinestro |
+| Nazwa polska | LEGO Super Heroes Zielona Latarnia Sinestro 76025 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353908 |
 
 - Marka: **LEGO**
 - Nr zestawu: **76025**
@@ -2201,11 +3490,26 @@ Zmierz się z wyzwaniem skonstruowania Tumblera — absolutnie niezwykłego mode
 - **stan - nowe, fabrycznie zaplombowane**
 - **stan pudełka: 6/6 ( idealny ) - unikat kolekcjonerski**
 
+**Galeria:**
+
+- 76025-1: https://a.allegroimg.com/original/1176ab/7b7e47f24195a6841fcf06cd5d60
+
 ---
 
-## 76026 — Lego Heroes 76026 Głodny Grodd
+## 76026 — Glodny Grod
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015353915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76026 |
+| Nazwa angielska | Gorilla Grodd Goes Bananas |
+| Nazwa polska | Glodny Grod |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353915 |
 
 P. G ostr
  
@@ -2232,11 +3536,26 @@ Goryl Grodd sieje spustoszenie w Gotham City, szukając swego porannego banana! 
  
 G
 
+**Galeria:**
+
+- 76026-1: https://f.allegroimg.com/original/0040c0/cae5fe3a40e3a736bb2425027c9f
+
 ---
 
-## 76027 — Lego Heroes 76027 Heroes
+## 76027 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 460.00 zł · EAN: 05702015353922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76027 |
+| Nazwa angielska | Black Manta Deep Sea Strike |
+| Nazwa polska | SUPER HEROES |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353922 |
 
 Lego 76027 Super Heroes Atak Czarnej Manty - Opis i dane produktu
 
@@ -2266,11 +3585,26 @@ Ilość elementów: 387
 
 Wiek: Od 6 lat
 
+**Galeria:**
+
+- 76027-1: https://a.allegroimg.com/original/00a671/9580e1cd42bc8462da316ffc8c2c
+
 ---
 
-## 76028 — Lego 76028 Heroes Inwazja Darkseida
+## 76028 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 899.99 zł · EAN: 05702015353939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76028 |
+| Nazwa angielska | Darkseid Invasion |
+| Nazwa polska | SUPER HEROES |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 545 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353939 |
 
 Lego 76028 HEROES Inwazja Darkseida
 
@@ -2288,11 +3622,27 @@ Pozostałe parametry
 
 Wymiary opakowania: 47.8 x 30.2 x 6.2 cm.
 
+**Galeria:**
+
+- 76028-1: https://a.allegroimg.com/original/038ba4/0ab5aa0e49e388c3a703304bd712
+
 ---
 
-## 76029 — Lego Heroes 76029 Iron Man vs. Ultron Unikat Kolekcjonerski
+## 76029 — Iron Man vs. Ultron
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 326.99 zł · EAN: 05702015353991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76029 |
+| Nazwa angielska | Iron Man vs. Ultron |
+| Nazwa polska | Iron Man vs. Ultron |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702015353991 |
 
 **LEGO MARVEL SUPER HEROES 76029 Iron Man vs. Sub Ultron**
 
@@ -2319,11 +3669,27 @@ Stań u boku Iron Mana MK45, aby w ostatecznej bitwie zmierzyć się z armią Ul
 - Wyrzuć oficera Sub Ultrona z jego miejsca z pomocą wysoko skaczącego Iron Mana! 
 - Wymiary pojazdu Ultrona: 8 cm wysokości, 10 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 76029-1: https://a.allegroimg.com/original/055fbe/5fcc58bf4082bcc691ddf9d73a44
+
 ---
 
-## 76030 — Lego Heroes 76030 Avengersi pogoń za Hydrą
+## 76030 — Super Heroes
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 255.00 zł · EAN: 05702015354004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76030 |
+| Nazwa angielska | Avengers Hydra Showdown |
+| Nazwa polska | Super Heroes |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 220 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 12 cm |
+| EAN | 5702015354004 |
 
 Zestaw LEGO® 76030 Avengersi w pogoni za Hydrą
 
@@ -2343,21 +3709,53 @@ Dołącz do Thora i Hawkeye'a ścigających zbira z Hydry przez zimowy las Sokov
 - Wymiary pojazdu 4x4 Avengersów: 9 cm wysokości, 12 cm długości i 6 cm szerokości
 - Wymiary terenówki Hydry 11 cm wysokości, 12 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 76030-1: https://a.allegroimg.com/original/0021ab/8675b47042d894f54d26a8ed8058
+
 ---
 
-## 76031 — Lego 76031 Marvel Heroes Hulk Buster atakuje
+## 76031 — 76031
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 705.00 zł · EAN: 05702015354011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76031 |
+| Nazwa angielska | The Hulk Buster Smash |
+| Nazwa polska | 76031 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354011 |
 
 KLOCKI LEGO SUPER HEROES AVENGERS #3 76031
 
 Hulk został uwięziony przez Szkarłatną Wiedźmę, która potraktuje superbohatera elektrycznym pociskiem, jeśli tylko spróbuje on uciec! Umieść Iron Mana w kokpicie potężnego mecha Hulk Buster i ruszaj na ratunek. Po drodze musisz odeprzeć atak latającego Ultrona Prime'a. Przestawiaj ręce i nogi Hulk Bustera, aby ustawiać go w groźnych pozach bojowych i chwytać złoczyńców potężnymi dłońmi. Kiedy zamkniesz Ultrona Prime'a w uścisku mecha, posadź Iron Mana na jego Super Jumperze. Dopadnij Szkarłatną Wiedźmę jednym celnym skokiem i uwolnij uwięzionego Hulka! W zestawie 3 minifigurki z bronią i akcesoriami: Iron Man, Ultron Prime i Szkarłatna Wiedźma, a także figurka Hulk.
 
+**Galeria:**
+
+- 76031-1: https://a.allegroimg.com/original/0046d2/9542631b403ea8d19de6e5dd3adb
+
 ---
 
-## 76032 — Lego Heroes 76032 Pościg Avengersów w Quinjecie Nowe Unikatowe
+## 76032 — POŚCIG AVENGERSÓW
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702015354028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76032 |
+| Nazwa angielska | The Avengers Quinjet City Chase |
+| Nazwa polska | POŚCIG AVENGERSÓW |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 722 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 41 cm × gł. 6 cm |
+| EAN | 5702015354028 |
 
 **LEGO Super Heroes 76032 Pościg Avengersów w Quinjecie**
 
@@ -2395,11 +3793,26 @@ Na sprzedaż świetny zestaw z serii LEGO Marvel Super Heroes – Quinjet City C
 - **Wymiary motocykla Kapitana Ameryki: 3 cm wysokości, 6 cm długości i 2 cm szerokości** 
 - **Wymiary ciężarówki-laboratorium: 7 cm wysokości, 10 cm długości i 6 cm szerokości**
 
+**Galeria:**
+
+- 76032-1: https://a.allegroimg.com/original/00fa1d/d58a107d40f898ba10b3b672ed05
+
 ---
 
-## 76034 — Lego Heroes 76034 Lego Heroes Pościg w zatoce 76034
+## 76034 — LEGO Super Heroes Pościg w zatoce 76034
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015353953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76034 |
+| Nazwa angielska | Batboat Harbor Pursuit |
+| Nazwa polska | LEGO Super Heroes Pościg w zatoce 76034 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 264 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm × gł. 10 cm |
+| EAN | 5702015353953 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2433,11 +3846,26 @@ Deathstroke ukradł z banku diamenty i teraz ucieka na swoim opancerzonym skuter
 - Wymiary skutera wodnego Deathstroke'a: 3 cm wysokości, 10 cm długości i 7 cm szerokości 
 - Wymiary poduszkowców: 4 cm wysokości, 9 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 76034-1: https://a.allegroimg.com/original/114a8e/8d5858804330b524f52facca172f
+
 ---
 
-## 76035 — Klocki Lego Heroes Batman Jokerland 76035
+## 76035 — Klocki LEGO Super Heroes Jokerland 76035
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702015353960 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76035 |
+| Nazwa angielska | Jokerland |
+| Nazwa polska | Klocki LEGO Super Heroes Jokerland 76035 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1037 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 23 cm × gł. 9 cm |
+| EAN | 5702015353960 |
 
 **LEGO 76035 Super Heroes Batman Jokerland**
 
@@ -2483,11 +3911,27 @@ Wymiary batmobilu: 7 cm wysokości, 24 cm długości i 7 cm szerokości
 
 Wymiary armaty: 6 cm wysokości, 8 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 76035-1: https://a.allegroimg.com/original/11c113/9ea2796248efa244e9f944ad594a
+
 ---
 
-## 76037 — Klocki Lego Heroes 76037 Atak Rhino i Sandmana
+## 76037 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702015354042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76037 |
+| Nazwa angielska | Rhino and Sandman Super Villain Team-up |
+| Nazwa polska | SUPER HEROES |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 27 cm × gł. 14 cm |
+| EAN | 5702015354042 |
 
 LEGO
 
@@ -2512,11 +3956,27 @@ SPIDERMAN  ATAK RHINO I SANDMANA
 - **Plac budowy ma ponad 21 cm wysokości, 27 cm szerokości i 14 cm głębokości** 
 - **Rhino Mech ma ponad 11 cm wysokości, 6 cm długości i 10 cm szerokości**
 
+**Galeria:**
+
+- 76037-1: https://e.allegroimg.com/original/0135c6/2aead9d44da6a887ecfbcc109aae
+
 ---
 
-## 76038 — Lego Heroes 76038 atak na wieżę Avengrsów
+## 76038 — atak na wieżę Avengrsów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 795.00 zł · EAN: 05702015357241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76038 |
+| Nazwa angielska | Attack on Avengers Tower |
+| Nazwa polska | atak na wieżę Avengrsów |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 515 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357241 |
 
 LEGO SUPER HEROES 76038 ATAK NA
 
@@ -2540,11 +4000,27 @@ Liczba elementów 511
 
 Pozostałe parametry
 
+**Galeria:**
+
+- 76038-1: https://a.allegroimg.com/original/00ff89/267e1f734f5cbf07d239e2c4c40e
+
 ---
 
-## 76041 — Lego Heroes 76041 Demolka w fortecy Hydry
+## 76041 — Demolka w fortecy Hydry
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 810.00 zł · EAN: 05702015357265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76041 |
+| Nazwa angielska | The Hydra Fortress Smash |
+| Nazwa polska | Demolka w fortecy Hydry |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 405 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 24 cm × gł. 13 cm |
+| EAN | 5702015357265 |
 
 Lego 76041 SUPER HEROES Demolka w fortecy Hydry
 
@@ -2572,11 +4048,27 @@ Weź udział w trudnej misji Avengersów i odzyskaj Różdżkę Lokiego z Fortec
 - Wymiary czołgu Hydry: 8 cm wysokości, 12 cm długości i 8 cm szerokości
 - Figurka przedstawiająca Hulka ma 7 cm wysokości
 
+**Galeria:**
+
+- 76041-1: https://a.allegroimg.com/original/1199a2/aee476d34869a6b2350ed0644145
+
 ---
 
-## 76042 — Lego Heroes 76042 Lotniskowiec Shield Helicarrier
+## 76042 — Lotniskowiec SHIELD Helicarrier
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 2299.95 zł · EAN: 05702015357272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76042 |
+| Nazwa angielska | The SHIELD Helicarrier |
+| Nazwa polska | Lotniskowiec SHIELD Helicarrier |
+| Seria | Marvel |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2996 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357272 |
 
 LEGO Super Heroes 76042
 
@@ -2604,11 +4096,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 76042-1: https://a.allegroimg.com/original/112e9c/c24780bc49a295ea0dc147004217
+
 ---
 
-## 76044 — Lego Heroes 76044 Clash of the Heroes
+## 76044 — Clash of the Heroes
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702015597579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76044 |
+| Nazwa angielska | Clash of the Heroes |
+| Nazwa polska | Clash of the Heroes |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597579 |
 
 Klocki LEGO Super Heroes Wyzwanie bohaterów 76044
  
@@ -2622,11 +4129,26 @@ Kategoria wiekowa: od 6. roku życia
 
 Klocki LEGO Super Heroes Wyzwanie bohaterów to zestaw 92 klocków i figurek, które spędzają sen z powiek fanom komiksów… Znajdziemy tutaj dwóch niesamowitych herosów, którymi są Superman oraz Batman. Los chciał, że zaczęli ze sobą walczyć. Klocki są nawiązaniem do filmu, który na początku 2016 roku wchodzi do kin, mianowicie: „Batman v Superman: Świt sprawiedliwości”. Oboje mają silne charaktery i niezwykłe umiejętności, który z nich okaże się sprytniejszy? A może będą musieli połączyć siły, żeby walczyć z kimś znacznie potężniejszym od nich samych. Zestaw zawiera takie akcesoria jak: wyrzutnie kryptonitu czy kusza.
 
+**Galeria:**
+
+- 76044-1: https://a.allegroimg.com/original/1186d2/812430494673b0d77c01c380bebd
+
 ---
 
-## 76045 — Lego Heroes 76045 Przechwycenie kryptonitu
+## 76045 — Przechwycenie kryptonitu
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702015597586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76045 |
+| Nazwa angielska | Kryptonite Interception |
+| Nazwa polska | Przechwycenie kryptonitu |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 10 cm |
+| EAN | 5702015597586 |
 
 **Zestaw posiada solidne wgniotki na kartoniku oraz pęknięcie na krawędzi kartonu.**
 
@@ -2656,11 +4178,27 @@ Klocki LEGO Super Heroes Wyzwanie bohaterów to zestaw 92 klocków i figurek, kt
 - **Wymiary Batmobilu: 5 cm wysokości, 18 cm długości i 10 cm szerokości.** 
 - **Wymiary wózka widłowego: 8 cm wysokości, 10 cm długości i 7 cm szerokości.**
 
+**Galeria:**
+
+- 76045-1: https://a.allegroimg.com/original/11c1bd/7f4154d44bd0b8334e0a2441e299
+
 ---
 
-## 76047 — Lego Heroes 76047 Pościg Czarnej Pantery Nowe
+## 76047 — 76047
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015597609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76047 |
+| Nazwa angielska | Black Panther Pursuit |
+| Nazwa polska | 76047 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 287 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 17 cm |
+| EAN | 5702015597609 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2682,11 +4220,27 @@ Odrzutowiec Czarnej Pantery, terenówka Kapitana Ameryki i motocykl Zimowego Żo
 - Wymiary terenówki Kapitana Ameryki: ok. 6 cm wysokości, 11 cm długości i 6 cm szerokości. 
 - Motocykl Zimowego Żołnierza ma ok. 3 cm wysokości, 6 cm długości i 2 cm szerokości.
 
+**Galeria:**
+
+- 76047-1: https://a.allegroimg.com/original/118938/b6d51b9547f0b0e687e0d70af362
+
 ---
 
-## 76048 — Klocki Lego 76048 Marvel Heroes Atak Żelaznej Czaszki Unikat
+## 76048 — LEGO 76048 Marvel Super Heroes Atak Żelaznej Czaszki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 418.99 zł · EAN: 05702015597616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76048 |
+| Nazwa angielska | Iron Skull Sub Attack |
+| Nazwa polska | LEGO 76048 Marvel Super Heroes Atak Żelaznej Czaszki |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 335 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702015597616 |
 
 **LEGO Marvel Super Heroes Atak Łodzi Podwodnej Iron Skulla 76048 – KOLEKCJONERSKI ZESTAW**
 
@@ -2726,11 +4280,27 @@ Na sprzedaż efektowny zestaw LEGO Marvel Super Heroes przedstawiający podwodn�
 - **Łódź podwodna Żelaznej Czaszki ma ok. 9 cm wysokości, 23 cm długości i 12 cm szerokości.**
 - **Wymiary skutera Hydra Divera to ok. 4 cm długości, 4 cm szerokości i 2 cm wysokości.**
 
+**Galeria:**
+
+- 76048-1: https://a.allegroimg.com/original/113473/fb55732040378e612b0377045307
+
 ---
 
-## 76049 — Lego Heroes 76049 Unikat Kolekcjonerski
+## 76049 — 76049
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 899.99 zł · EAN: 05702015597623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76049 |
+| Nazwa angielska | Avenjet Space Mission |
+| Nazwa polska | 76049 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 523 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597623 |
 
 **LEGO Marvel Super Heroes Kosmiczna Misja Avenjeta 76049 – KOLEKCJONERSKI ZESTAW**
 
@@ -2762,11 +4332,27 @@ Na sprzedaż efektowny zestaw LEGO Marvel Super Heroes przedstawiający kosmiczn
 
 **realne zdjęcia produktu**
 
+**Galeria:**
+
+- 76049-1: https://a.allegroimg.com/original/118dff/d43417904570a7ab80f11b654ad6
+
 ---
 
-## 76051 — Lego 76051 Hero Airport Battle
+## 76051 — Lego 76051 Super Hero Airport Battle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 880.00 zł · EAN: 05702015597647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76051 |
+| Nazwa angielska | Super Hero Airport Battle |
+| Nazwa polska | Lego 76051 Super Hero Airport Battle |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 807 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597647 |
 
 Klocki LEGO Captain America Movie 2 to ogromny zestaw aż 807 elementów, który pozwala na emocjonującą zabawę w przygody ulubionego superbohatera. W zestawie 8 minfigurek.
 
@@ -2785,11 +4371,26 @@ kategoria wiekowa: od 8. lat
 
 Klocki LEGO Captain America Movie 2 przedstawiają emocjonującą bitwę na lotnisku. Z ogromnego zestawu 807 elementów, chłopcy mogą stworzyć wieżę lotniskową z ruchomą bramką i pomieszczeniami, przeprowadzić atak na olbrzyma, poruszać się lotniskowymi wózkami do przewożenia bagażu oraz uciec przy pomocy samolotu Quinjet. Z tym zestawem chłopcy mogą odegrać sceny walki dobra ze złem przy użyciu ulubionych bohaterów: Capitana America i Iron Mana, których poznali w filmowych przygodach. Szeregi zła zasila wielki Gigant-Man, którego pokonanie wymaga równie wielkiego wysiłku i współpracy. W zestawie znajdują się również figurki: Ant-Man, Scarlet Witch, Agenta 13. Zabawa w wieży przyniesie wiele emocji! Są w niej pomieszczenia biurowe, pokój kontroli lotów. We wnętrzu wieży znajduje się dźwignia, która może spowodować eksplozję ścian! Zabawa z tym emocjonującym zestawem z pewnością przypadnie chłopcom do gustu.
 
+**Galeria:**
+
+- 76051-1: https://b.allegroimg.com/original/053053/447479cd4ea3b0c91d4d6853d40b
+
 ---
 
-## 76052 — Lego 76052 Heroes Batcave
+## 76052 — Super Heroes Batcave
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1339.95 zł · EAN: 05702015597654 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76052 |
+| Nazwa angielska | Batman Classic TV Series - Batcave |
+| Nazwa polska | Super Heroes Batcave |
+| Seria | Super Heroes |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 2526 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597654 |
 
 LEGO Super Heroes 76052
 
@@ -2817,11 +4418,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 76052-1: https://a.allegroimg.com/original/11d224/a2fce29b489da84b04f6f375221a
+
 ---
 
-## 76053 — Lego Heroes 76053 Pościg w Gotham City DC Unikat
+## 76053 — 76053
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015597661 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76053 |
+| Nazwa angielska | Batman: Gotham City Cycle Chase |
+| Nazwa polska | 76053 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015597661 |
 
 **PRODUCENT**: LEGO
  
@@ -2840,11 +4456,26 @@ Pomóż Batmanowi doścignąć Harley na Batmotorze, który ma wielkie koła z g
 - Wymiary Batmotoru: ok. 5 cm wysokości, 15 cm długości i 6 cm szerokości. 
 - Wymiary motocykla Harley Quinn: ok. 8 cm wysokości, 12 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 76053-1: https://a.allegroimg.com/original/117a3a/639a44c34b2eaab9a208e15af372
+
 ---
 
-## 76054 — Lego Heroes 76054 Strach na Wróble
+## 76054 — Strach na Wróble
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 585.00 zł · EAN: 05702015597678 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76054 |
+| Nazwa angielska | Batman: Scarecrow Harvest of Fear |
+| Nazwa polska | Strach na Wróble |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 563 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 24 cm |
+| EAN | 5702015597678 |
 
 LEGO SUPER HEROES 76054
  
@@ -2866,11 +4497,27 @@ Zatrzymaj Scarecrowa i Killer Motha, którzy próbują rozsiać toksynę strachu
 - Kombajn Scarecrowa ma ok. 8 cm wysokości, 20 cm długości i 13 cm szerokości. 
 - Ciągnik ma ok. 4 cm wysokości, 8 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 76054-1: https://a.allegroimg.com/original/00ec85/46ec505d4bbaadc1de08e45f83d3
+
 ---
 
-## 76057 — Lego 76057 @@@ Scarlet Spider @@@figurka z zestawu
+## 76057 — Spiderman: Pajęczy wojownik
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 444.44 zł · EAN: 05702015597708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76057 |
+| Nazwa angielska | Spider-Man: Web Warriors Ultimate Bridge Battle |
+| Nazwa polska | Spiderman: Pajęczy wojownik |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1092 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597708 |
 
 **Lego 76057 :: Marvel Super Heroes**
 
@@ -2884,11 +4531,27 @@ z zestawu: pajęczy wojownik - ultimate bridge battle - walka na moście
 
 poniższy opis pochodzi z WWW producenta i dotyczy zestawu z którego pochodzi figurka:
 
+**Galeria:**
+
+- 76057-1: https://a.allegroimg.com/original/030a9c/10ab4c18425fab86515e7b55caeb
+
 ---
 
-## 76059 — Lego Heroes 76059 Pułapka z Mackami Doktora Octopusa
+## 76059 — Pułapka z Mackami Doktora Octopusa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 574.37 zł · EAN: 05702015597722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76059 |
+| Nazwa angielska | Spider-Man: Doc Ock's Tentacle Trap |
+| Nazwa polska | Pułapka z Mackami Doktora Octopusa |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 446 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597722 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2922,11 +4585,27 @@ Odegraj scenariusz morskiej wyprawy ratunkowej i pomóż kapitanowi Stacy'emu or
 
 - W zestawie akcesoria: klocek mocy Białej Tygrysicy oraz deska surfingowa, sieć do wyrzucania i lina Spidermana.
 
+**Galeria:**
+
+- 76059-1: https://a.allegroimg.com/original/05688f/767829b843d8ba33d72b848af851
+
 ---
 
-## 76060 — Lego Marvel Heroes 76060 Sanctum Sanctorum doktora Strange'a
+## 76060 — Sanctum Sanctorum doktora Strange'a
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 278.30 zł · EAN: 05702015597739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76060 |
+| Nazwa angielska | Doctor Strange's Sanctum Sanctorum |
+| Nazwa polska | Sanctum Sanctorum doktora Strange'a |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597739 |
 
 Klocki LEGO® 76060 Marvel Super Heroes Sanctum Sanctorum doktora Strange'a
 
@@ -2949,11 +4628,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci w wieku od 7 lat. Sprawdzi się dla fanów serii LEGO® Marvel Super Heroes oraz scen z udziałem Doktora Strange'a, Karla Mordo i The Ancient One.
 
+**Galeria:**
+
+- 76060-1: https://a.allegroimg.com/original/11fece/a4eec2aa4aeba60980f5ca670121
+
 ---
 
-## 76061 — Lego Heroes 76061 Batman Catwoman
+## 76061 — Batman Catwoman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702015597746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76061 |
+| Nazwa angielska | Mighty Micros: Batman vs. Catwoman |
+| Nazwa polska | Batman Catwoman |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702015597746 |
 
 **PRODUCENT**: LEGO
 
@@ -2973,11 +4667,26 @@ Ten zabawny zestaw klocków został zaprojektowany specjalnie z myślą o małyc
 - Wymiary Batmobilu Mighty Micros: ok. 3 cm wysokości, 5 cm długości i 4 cm szerokości.
 - Wymiary samochodziku Mighty Micros Kobiety-Kota: ok. 5 cm wysokości, 6 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 76061-1: https://0.allegroimg.com/original/00b203/a743255c4488ac1267503d193c00
+
 ---
 
-## 76062 — Lego DC Heroes 76062 Robin kontra Bane Klocki Mighty Micros Nowe
+## 76062 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 159.31 zł · EAN: 05702015597753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76062 |
+| Nazwa angielska | Mighty Micros: Robin vs. Bane |
+| Nazwa polska | SUPER HEROES |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597753 |
 
 LEGO 76062 DC Super Heroes - Robin kontra Bane
 
@@ -3007,11 +4716,26 @@ W zestawie broń: strzelba wyrzucająca hak Robina i dynamit Bane'a.
 
 Samochodzik Mighty Micros Robina ma ok. 5 cm długości, 4 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 76062-1: https://a.allegroimg.com/original/030a02/d659ac3a44b599e4717a9cf56984
+
 ---
 
-## 76063 — Lego Heroes 76063 Flash kontra Kapitan Cold
+## 76063 — Flash kontra Kapitan Cold
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015597760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76063 |
+| Nazwa angielska | Mighty Micros: The Flash vs. Captain Cold |
+| Nazwa polska | Flash kontra Kapitan Cold |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702015597760 |
 
 **LEGO Super Heroes, Robin kontra Bane, zestaw klock**
 
@@ -3025,11 +4749,27 @@ Robin walczy z Banem, który rozrabia w swojej wiertnicy Mighty Micros. Trzeba d
 - Wymiary wiertnicy Mighty Micros Bane'a: ok. 5 cm wysokości, 9 cm długości i 4 cm szerokości.
 - **NOWE, FABRYCZNIE ZAPLOMBOWANE**
 
+**Galeria:**
+
+- 76063-1: https://a.allegroimg.com/original/00db55/a51011874c87a043fb102ba959ed
+
 ---
 
-## 76066 — Lego Heroes 76066 Hulk kontra Ultron
+## 76066 — Hulk kontra Ultron
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702015597791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76066 |
+| Nazwa angielska | Mighty Micros: Hulk vs. Ultron |
+| Nazwa polska | Hulk kontra Ultron |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702015597791 |
 
 LEGO Super Heroes 76066
 
@@ -3049,11 +4789,26 @@ Wymiary pojazdu Mighty Micros Hulka: ok. 3 cm wysokości, 5 cm długości i 5 cm
 
 Wymiary pojazdu Mighty Micros Ultrona: ok. 6 cm wysokości, 7 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 76066-1: https://a.allegroimg.com/original/112aea/8104807740d89ac75c62df077c19
+
 ---
 
-## 76068 — Lego DC Heroes 76068 Mighty Micros: Superman kontra Bizarro
+## 76068 — LEGO 76068 Mighty Micros: Superman kontra Bizarro
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 172.88 zł · EAN: 05702015867658 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76068 |
+| Nazwa angielska | Mighty Micros: Superman vs. Bizarro |
+| Nazwa polska | LEGO 76068 Mighty Micros: Superman kontra Bizarro |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015867658 |
 
 Klocki LEGO DC Super Heroes 76068 - Mighty Micros: Superman kontra Bizarro
 
@@ -3070,11 +4825,26 @@ W tym zabawnym zestawie z serii Mighty Micros Superman™ może zmierzyć się z
 
 Zestaw LEGO DC Super Heroes - Mighty Micros: Superman kontra Bizarro trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 76068. Zawiera 93 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO DC Super Heroes - Mighty Micros: Superman vs. Bizarro. Grupa wiekowa tego produktu to 5+.
 
+**Galeria:**
+
+- 76068-1: https://a.allegroimg.com/original/114cc9/348518c34cbb9d45bac14b19bc24
+
 ---
 
-## 76069 — Klocki Lego Heroes Mighty Micros: Batman kontra Killer Moth 76069
+## 76069 — Batman vs. Killer Moth
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 109.90 zł · EAN: 05702015867665 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76069 |
+| Nazwa angielska | Mighty Micros: Batman vs. Killer Moth |
+| Nazwa polska | Batman vs. Killer Moth |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm |
+| EAN | 5702015867665 |
 
 Zestaw LEGO 76069 Batman™ kontra Killer Moth™
 
@@ -3092,11 +4862,26 @@ Posadź Batmana™ za sterami Batcoptera i odegraj sceny walki powietrznej międ
 
 **14 cm * 12 cm * 5 cm ***
 
+**Galeria:**
+
+- 76069-1: https://a.allegroimg.com/original/11ffd8/a5f53b334035b1d19a7433b1ea6b
+
 ---
 
-## 76070 — Lego 76070 DC Heroes Mighty Micros: Wonder Woman kontra Doomsday
+## 76070 — Super Heroes Wonder Woman kontra Doomsday
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 85.21 zł · EAN: 05702015869072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76070 |
+| Nazwa angielska | Mighty Micros: Wonder Woman vs. Doomsday |
+| Nazwa polska | Super Heroes Wonder Woman kontra Doomsday |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015869072 |
 
 LEGO DC 76070 Micros: Wonder Woman kontra Doomsday
 
@@ -3126,11 +4911,27 @@ W tym zabawnym zestawie Mighty Micros stają do walki Wonder Woman™ i Doomsday
 
 - Wymiary samochodziku Mighty Micros Doomsdaya: ok. **4 cm wysokości, 7 cm długości i 4 cm szerokości.**
 
+**Galeria:**
+
+- 76070-1: https://a.allegroimg.com/original/05c15c/8fa508cf4bb6b06461c342411e98
+
 ---
 
-## 76071 — Lego 76071 Marvel Heroes Mighty Micros: Spider-Man kontra Skorpion
+## 76071 — Spider-Man Kontra Skorpion
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 215.21 zł · EAN: 05702015868570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76071 |
+| Nazwa angielska | Mighty Micros: Spider-Man vs. Scorpion |
+| Nazwa polska | Spider-Man Kontra Skorpion |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868570 |
 
 Klocki LEGO 76071 Marvel Super Heroes - Mighty Micros: Spider-Man kontra Skorpion
 
@@ -3148,11 +4949,27 @@ Liczna minifigurek: **2**
 
 Oto walka robali: Spider-Man przeciwko Skorpionowi! Odegraj scenkę, w której Spider-Man dzielnie stawia czoła jadowitemu wrogowi, Skorpionowi. Samochodzik Mighty Micros Skorpiona ma ruchome szczypce i ogon zakończony żądłem, a niebiesko-czerwony łazik Spider-Mana jest wyposażony w rury wydechowe. Spider-Man ma swojego minipająka, a superzłoczyńca - miniskorpiona. W zestawie dwie minifigurki z miniaturowymi nogami.
 
+**Galeria:**
+
+- 76071-1: https://a.allegroimg.com/original/0534e6/556ede5947dd8595d650580bade3
+
 ---
 
-## 76072 — Lego Heroes 76072 Iron Man kontra Thanos papierowa torba Lego
+## 76072 — LEGO Super Heroes 76072 Iron Man kontra Thanos
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 118.88 zł · EAN: 05702015868587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76072 |
+| Nazwa angielska | Mighty Micros: Iron Man vs. Thanos |
+| Nazwa polska | LEGO Super Heroes 76072 Iron Man kontra Thanos |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702015868587, 673419266413 |
 
 **LEGO SUPER HEROES**
 
@@ -3183,11 +5000,28 @@ Odegraj zabawne starcie w stylu Mighty Micros między dwójką potężnych rywal
 
 **W tym zestawie otrzymujesz klocki LEGO 76072 wraz z papierową torbą LEGO!**
 
+**Galeria:**
+
+- 76072-1: https://a.allegroimg.com/original/111540/5df287f448428c57ed289e5e89a9
+- 76072-2: https://a.allegroimg.com/original/117b18/a2a9d30b4c49a77048770ea90165
+
 ---
 
-## 76073 — Lego Heroes 76073 Wolverine kontra Magneto Nowe
+## 76073 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015868594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76073 |
+| Nazwa angielska | Mighty Micros: Wolverine vs. Magneto |
+| Nazwa polska | SUPER HEROES |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702015868594 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3207,11 +5041,27 @@ Odegraj sceny z walki potężnych mutantów, Wolverine’a i Magneto. Wolverine 
 - Wymiary samochodzika Mighty Micros Wolverine'a: ok. 3 cm wysokości, 5 cm długości i 4 cm szerokości. 
 - Wymiary samochodzika Mighty Micros Magneto: ok. 3 cm wysokości, 5 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 76073-1: https://a.allegroimg.com/original/117aae/7e94e86e42d4a754cf90c19c3ca8
+
 ---
 
-## 76076 — Lego Heroes 76076 Odrzutowiec Kapitana Ameryki
+## 76076 — Odrzutowiec Kapitana Ameryki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 329.87 zł · EAN: 05702015868617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76076 |
+| Nazwa angielska | Captain America Jet Pursuit |
+| Nazwa polska | Odrzutowiec Kapitana Ameryki |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868617 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3247,11 +5097,27 @@ Ms. Marvel wyruszyła na pomoc i próbuje odzyskać tarczę Kapitana Ameryki z �
 
 - Przełącznik w ogonie samolotu przełącza maszynę z trybu lotu w ustawienie bojowe, gdy przesuniesz go do przodu. Zrób to i wystrzel w Superadaptoida z obydwu miotaczy dysków!
 
+**Galeria:**
+
+- 76076-1: https://a.allegroimg.com/original/0026d9/0337f5804142b2a2d2c531991a9c
+
 ---
 
-## 76078 — Lego Heroes 76078 Ulk Kontra Czerwony Hulk
+## 76078 — ULK KONTRA CZERWONY HULK
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702015868631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76078 |
+| Nazwa angielska | Hulk vs. Red Hulk |
+| Nazwa polska | ULK KONTRA CZERWONY HULK |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868631 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3270,11 +5136,27 @@ Ms. Marvel wyruszyła na pomoc i próbuje odzyskać tarczę Kapitana Ameryki z �
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 76078-1: https://a.allegroimg.com/original/11fa96/115b96414107885c2b4cdce040b6
+
 ---
 
-## 76080 — Lego Heroes 76080 Zemsta Ayeshy Nowe
+## 76080 — SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 626.00 zł · EAN: 05702015868655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76080 |
+| Nazwa angielska | Ayesha's Revenge |
+| Nazwa polska | SUPER HEROES |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 323 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702015868655 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3295,11 +5177,27 @@ Odegraj kosmiczny pojedynek z tym ekscytującym zestawem z serii Strażnicy Gala
 - Wymiary Złotego Drona: ok. 5 cm wysokości, 7 cm długości i 8 cm szerokości. 
 - Wymiary fragmentu klifu: ok. 6 cm szerokości, 6 cm głębokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 76080-1: https://a.allegroimg.com/original/119bf2/49cbf4fa4696a3cbd40e5852864e
+
 ---
 
-## 76081 — Klocki Lego Heroes Zestaw Milano kontra Abilisk 76081
+## 76081 — Milano kontra Abilisk
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015868662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76081 |
+| Nazwa angielska | The Milano vs. The Abilisk |
+| Nazwa polska | Milano kontra Abilisk |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 460 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868662 |
 
 LEGO Marvel Super Heroes 76081 – Milano kontra Abilisk
 
@@ -3331,11 +5229,27 @@ Przeżyj ponownie widowiskową scenę otwierającą film Strażnicy Galaktyki Vo
 
 **Rok wydania:** 2017
 
+**Galeria:**
+
+- 76081-1: https://a.allegroimg.com/original/051b77/0d7d07b64c058781e90f8e96c97f
+
 ---
 
-## 76082 — Klocki Lego Marvel Heroes Walka o bankomat 76082
+## 76082 — WALKA O BANKOMAT
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702015868679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76082 |
+| Nazwa angielska | ATM Heist Battle |
+| Nazwa polska | WALKA O BANKOMAT |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868679 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3359,11 +5273,27 @@ Przeżyj ponownie widowiskową scenę otwierającą film Strażnicy Galaktyki Vo
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 76082-1: https://a.allegroimg.com/original/11185e/8a4230b34a049ffd23cb72130372
+
 ---
 
-## 76084 — Klocki Lego Marvel Heroes Ostateczna bitwa o Asgard
+## 76084 — LEGO Marvel Super Heroes Ostateczna bitwa o Asgard 76084
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015868693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76084 |
+| Nazwa angielska | The Ultimate Battle for Asgard |
+| Nazwa polska | LEGO Marvel Super Heroes Ostateczna bitwa o Asgard 76084 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 20 cm |
+| EAN | 5702015868693 |
 
 Klocki LEGO 76084 Marvel Super Heroes - Ostateczna bitwa o Asgard
  
@@ -3392,11 +5322,26 @@ Wsiądź do statku kosmicznego Komodor i pomóż Thorowi, Bruce’owi Bannerowi 
 - Statek kosmiczny Komodor ma ok. 3 cm wysokości, 22 cm długości i 20 cm szerokości. 
 - Wilk Fenris ma ok. 8 cm wysokości, 16 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 76084-1: https://a.allegroimg.com/original/00aaa0/8d2170ec4689a330c1c6c8ad2f4a
+
 ---
 
-## 76085 — Lego 76085 Bitwa o Atlantis Aquaman Strażnicy Atlantydy Parademon
+## 76085 — Bitwa o Atlantis
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 249.50 zł · EAN: 00673419267038 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76085 |
+| Nazwa angielska | Battle of Atlantis |
+| Nazwa polska | Bitwa o Atlantis |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 17 cm × gł. 7 cm |
+| EAN | 5702015868709, 673419267038 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -3420,11 +5365,27 @@ Połącz siły z Aquamanem™ i strażnikami Atlantydy, by powstrzymać skacząc
 
 Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyjnych i są wyłączną własnością firmy LEGO®
 
+**Galeria:**
+
+- 76085-1: https://a.allegroimg.com/original/1106d5/b9da756e4093b290014fa58f0035
+- 76085-2: https://a.allegroimg.com/original/055bb3/96f5fcd0490b965e0d19679dcd6e
+
 ---
 
-## 76086 — Lego Heroes 76086 Atak Knightcrawlera w tunelu
+## 76086 — Atak Knightcrawlera w tunelu
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 475.40 zł · EAN: 05702015868716 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76086 |
+| Nazwa angielska | Knightcrawler Tunnel Attack |
+| Nazwa polska | Atak Knightcrawlera w tunelu |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 622 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 18 cm |
+| EAN | 5702015868716 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3454,11 +5415,27 @@ Jeździj i pełzaj pojazdem terenowym Batmana i odbierz Mother Box złym Paradem
 - Knightcrawler ma ok. 10 cm wysokości, 22 cm długości i 18 cm szerokości w trybie jazdy oraz ok. 8 cm wysokości, 30 cm długości i 18 cm szerokości w trybie pełzania.
 - Mother Box ma ok. 1,6 cm wysokości i 1,6 cm kwadratowego powierzchni.
 
+**Galeria:**
+
+- 76086-1: https://a.allegroimg.com/original/05219a/49cda784462faa716b346be52a79
+
 ---
 
-## 76088 — Lego Heroes 76088 Thor kontra Hulk: starcie na arenie Marvel wgniotki
+## 76088 — LEGO AVENGERS THOR SH 170 CZAS ULTRONA
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 888.00 zł · EAN: 05702015868730 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76088 |
+| Nazwa angielska | Thor vs. Hulk: Arena Clash |
+| Nazwa polska | LEGO AVENGERS THOR SH 170 CZAS ULTRONA |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 492 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 39 cm × gł. 7 cm |
+| EAN | 5702015868730 |
 
 Kartonik posiada delikatne wgniotki, zestaw nowy.
 
@@ -3485,11 +5462,27 @@ Specyfikacja zestawu LEGO 76088
 - Opakowanie: pudełko kartonowe 
 - Waga opakowania (g) 780 (0,78kg)
 
+**Galeria:**
+
+- 76088-1: https://a.allegroimg.com/original/001c73/56a0b813456e92b3bda041d82a82
+
 ---
 
-## 76089 — Lego Marvel Heroes 76089 Spider-Man vs. Sandman Pajęczy Odrzutowiec
+## 76089 — Spider-Man vs. Sandman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702016110524 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76089 |
+| Nazwa angielska | Mighty Micros: Scarlet Spider vs. Sandman |
+| Nazwa polska | Spider-Man vs. Sandman |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702016110524 |
 
 LEGO MARVEL SUPER HEROES 76089 Spider-Man vs. Sandman
 
@@ -3508,11 +5501,27 @@ Urządź pojedynek LEGO® Marvel Super Heroes Mighty Micros między Scarlet Spid
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 76089-1: https://a.allegroimg.com/original/039061/52bb8aa84d21a3eebe6349ef6f2d
+
 ---
 
-## 76090 — Lego 76090 Heroes Star-lord Vs Nebula
+## 76090 — HERO
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 96.21 zł · EAN: 05702016110517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76090 |
+| Nazwa angielska | Mighty Micros: Star-Lord vs. Nebula |
+| Nazwa polska | HERO |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110517 |
 
 **Lego Super Heroes Star-Lord vs. Nebula 76090**. Pomóż Star-Lordowi odebrać kasetę skradzioną przez Nebulę! Dołącz do pościgu Star-Lorda za złoczyńcą Nebulą w zestawie LEGO® Marvel Super Heroes Mighty Micros. Sprawdź, który pojazd wygra: statek Milano Star-Lorda czy Nekropojazd Nebuli z opancerzonymi bokami do taranowania. Star-Lord ma głowę z dwiema twarzami i uzbrojony jest w kosmiczny blaster, dzięki któremu może odebrać Nebuli skradzioną przez niego kasetę. Ten popularny zestaw z superbohaterami dla dzieci zawiera dwie minifigurki z krótkimi nogami.
 
@@ -3540,11 +5549,26 @@ Nr katalogowy: 76090
  
 Ilość klocków w zestawie: 86
 
+**Galeria:**
+
+- 76090-1: https://a.allegroimg.com/original/058393/62ae037b450481022288981860fe
+
 ---
 
-## 76093 — Lego DC Heroes 76093 Nightwing vs. The Joker Mighty Micros -nowy
+## 76093 — Super Heroes 76093 - Nightwing vs. The Joker - Mighty Micros
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 179.50 zł · EAN: 05702016110876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76093 |
+| Nazwa angielska | Mighty Micros: Nightwing vs. The Joker |
+| Nazwa polska | Super Heroes 76093 - Nightwing vs. The Joker - Mighty Micros |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm |
+| EAN | 5702016110876 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -3569,11 +5593,26 @@ Pozwól sobie na mrożoną przekąskę w tym zestawie LEGO® DC Comics Super Her
 
 Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyjnych i są wyłączną własnością firmy LEGO®
 
+**Galeria:**
+
+- 76093-1: https://a.allegroimg.com/original/118135/ab1b17f64baf85018afddda0254a
+
 ---
 
-## 76094 — Lego 76094 Heroes Supergirl Vs Brainiac
+## 76094 — SUPERGIRL VS BRAINIAC
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702016110487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76094 |
+| Nazwa angielska | Mighty Micros: Supergirl vs. Brainiac |
+| Nazwa polska | SUPERGIRL VS BRAINIAC |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016110487 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -3600,11 +5639,26 @@ Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyj
 - **Rakieta ma ok. 4 cm wysokości, 5 cm długości i 5 cm szerokości.**
 - **UFO ma ok. 5 cm wysokości, 5 cm długości i 4 cm szerokości.**
 
+**Galeria:**
+
+- 76094-1: https://b.allegroimg.com/original/032036/7472190a4c0baa47045f5c5a880b
+
 ---
 
-## 76095 — Lego DC Heroes 76095 Aquaman: Atak Black Manty Łódź Podwodna Klocki
+## 76095 — Aquaman: Atak Black Manty
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 575.21 zł · EAN: 05702016110470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76095 |
+| Nazwa angielska | Black Manta Strike |
+| Nazwa polska | Aquaman: Atak Black Manty |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 25 cm |
+| EAN | 5702016110470 |
 
 LEGO DC Super Heroes 76095 - Aquaman: Atak Black Manty
 
@@ -3638,11 +5692,26 @@ Zestaw zawiera też podwodną scenkę do zbudowania z dwoma odczepianymi skarbam
 
 - **Łódź podwodna Black Manty** ma ok. 4 cm wysokości, 25 cm długości i 25 cm szerokości.
 
+**Galeria:**
+
+- 76095-1: https://a.allegroimg.com/original/0311bc/57f98dd945428bd03cff861a212d
+
 ---
 
-## 76096 — Lego 76096 DC Heroes Superman i Krypto
+## 76096 — Superman i Krypto Łączą Siły
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 429.99 zł · EAN: 05702016110463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76096 |
+| Nazwa angielska | Superman & Krypto Team-Up |
+| Nazwa polska | Superman i Krypto Łączą Siły |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110463 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -3654,11 +5723,26 @@ Zdjęcie zawarte na aukcji jest poglądowe.
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO.
 
+**Galeria:**
+
+- 76096-1: https://a.allegroimg.com/original/11a717/9fb344bb4535b25f3f8eb645a25d
+
 ---
 
-## 76098 — Lego Heroes Lodowy Superwyścig 76098
+## 76098 — Lodowy superwyścig
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1209.99 zł · EAN: 05702016110449 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76098 |
+| Nazwa angielska | Speed Force Freeze Pursuit |
+| Nazwa polska | Lodowy superwyścig |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702016110449 |
 
 LEGO SUPER HEROES LODOWY SUPERWYŚCIG 76098
 
@@ -3698,11 +5782,27 @@ Lodowy samochód Killer Frost ma ok. 7 cm wysokości, 15 cm długości i 5 cm sz
 
 1FEF-122E5
 
+**Galeria:**
+
+- 76098-1: https://a.allegroimg.com/original/11d7df/38e9c3334ce685b0493487a8b667
+
 ---
 
-## 76099 — Lego 76099 Marvel Heroes Pojedynek z nosorożcem w pobliżu kopalni
+## 76099 — Pojedynek z nosorożcem w pobliżu kopalni
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 279.98 zł · EAN: 05702016110432 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76099 |
+| Nazwa angielska | Rhino Face-Off by the Mine |
+| Nazwa polska | Pojedynek z nosorożcem w pobliżu kopalni |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 229 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702016110432 |
 
 Klocki LEGO Marvel Super Heroes 76099 - Pojedynek z nosorożcem w pobliżu kopalni
 
@@ -3738,11 +5838,27 @@ Zestaw LEGO Marvel Super Heroes - Pojedynek z nosorożcem w pobliżu kopalni t
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76099-1: https://a.allegroimg.com/original/00671f/ec161d934bc2b36ac7f458dbc6e4
+
 ---
 
-## 76100 — Lego Heroes 76100 Atak Myśliwca Royal Talon
+## 76100 — LEGO SUPER HEROES 76100 ATAK MYŚLIWCA ROYAL TALON
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 377.88 zł · EAN: 05702016110425 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76100 |
+| Nazwa angielska | Royal Talon Fighter Attack |
+| Nazwa polska | LEGO SUPER HEROES 76100 ATAK MYŚLIWCA ROYAL TALON |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm |
+| EAN | 5702016110425 |
 
 Przedmiotem aukcji jest
 
@@ -3778,11 +5894,27 @@ Wymiary:
 
 - Royal Talon Fighter ma ok. 7 cm wysokości, 21 cm długości i 16 cm szerokości.
 
+**Galeria:**
+
+- 76100-1: https://a.allegroimg.com/original/115744/e80950f24e61b4dcab1c8ab1f440
+
 ---
 
-## 76104 — Lego 76104 Heroes Hulkbuster, Bruce Banner, Falcon
+## 76104 — Hulkbuster
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702016110562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76104 |
+| Nazwa angielska | The Hulkbuster Smash-Up |
+| Nazwa polska | Hulkbuster |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 16 cm |
+| EAN | 5702016110562 |
 
 LEGO Super Heroes 76104 WALKA W HULKBUSTERZE
  
@@ -3806,11 +5938,27 @@ Ilość klocków 375 szt.
  
 Wiek 7-14 lat
 
+**Galeria:**
+
+- 76104-1: https://a.allegroimg.com/original/00a121/274aacd347ca9796e9605a31166a
+
 ---
 
-## 76105 — Lego Heroes 76105 Hulkbuster Wersja Ultron
+## 76105 — HULKBUSTER WERSJA ULTRON
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 790.00 zł · EAN: 05702016110326 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76105 |
+| Nazwa angielska | The Hulkbuster: Ultron Edition |
+| Nazwa polska | HULKBUSTER WERSJA ULTRON |
+| Seria | Marvel |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 22 cm |
+| EAN | 5702016110326 |
 
 LEGO Hulkbuster: wersja Ultron 76105
  
@@ -3829,11 +5977,27 @@ Szczegółowa wersja mecha Hulkbustera z klocków LEGO jest idealna do budowania
 - Platforma (bez wysięgników i biurka) ma ok. 19 cm szerokości, 21 cm głębokości i 2 cm wysokości. 
 - Zestaw zawiera świecący klocek LEGO.
 
+**Galeria:**
+
+- 76105-1: https://a.allegroimg.com/original/035c63/c230be77420ea699a60583eb757d
+
 ---
 
-## 76108 — Lego Heroes 76108 Starcie w Sanctum Sanctorum
+## 76108 — Starcie w Sanctum Sanctorum
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702016110197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76108 |
+| Nazwa angielska | Sanctum Sanctorum Showdown |
+| Nazwa polska | Starcie w Sanctum Sanctorum |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1004 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 20 cm × gł. 21 cm |
+| EAN | 5702016110197 |
 
 Sięgnij po zestaw LEGO® Marvel Super Heroes 76108 Starcie w Sanctum Sanctorum i odegraj walkę między Iron Spider-Manem, Iron Manem i Doktorem Strange’em a superzłoczyńcami. Ten pasjonujący zestaw zawiera składany, trójpoziomowy nowojorski budynek, w którym mieści się Sanctum Sanctorum Doktora Strange'a. Jest w nim ściana z funkcją wybuchania, ukryty Kamień Nieskończoności oraz pizzeria i mieszkanie Petera Parkera, które mają okna z funkcją wybuchania. Z dachu można wystrzelić minifigurkę, a ze znajdującej się na nim wieży wodnej opuścić Iron Spider-Mana. Ten zestaw z superbohaterami zawiera także odczepiany róg ulicy ze scenką oraz cztery minifigurki i dużą figurkę z bronią i 20 elementami mocy.
 
@@ -3854,11 +6018,27 @@ Sięgnij po zestaw LEGO® Marvel Super Heroes 76108 Starcie w Sanctum Sanctorum 
 - Przeżyj ponownie pasjonujące chwile z filmu Marvel Super Heroes Avengers: Wojna bez granic.
 - Model ma ok. 30 cm wysokości, 20 cm szerokości i 21 cm głębokości.
 
+**Galeria:**
+
+- 76108-1: https://a.allegroimg.com/original/00fc17/9fe616df4e3b9acab1308f2cee72
+
 ---
 
-## 76109 — Lego Heroes 76109 Badacze kwantowej krainy Nowe
+## 76109 — Badacze kwantowej krainy
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 519.00 zł · EAN: 05702016109047 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76109 |
+| Nazwa angielska | Quantum Realm Explorers |
+| Nazwa polska | Badacze kwantowej krainy |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109047 |
 
 WITAM SERDECZNIE.
 
@@ -3870,11 +6050,26 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 76109-1: https://a.allegroimg.com/original/118140/971020dc495fa1da19f7a10067fc
+
 ---
 
-## 76110 — Lego Heroes 76110 Batman i atak szponów
+## 76110 — 76110
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702016109030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76110 |
+| Nazwa angielska | Batman: The Attack of the Talons |
+| Nazwa polska | 76110 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109030 |
 
 Oferta sprzedaży nowego zestawu LEGO Super Heroes 76110 Batman i atak szponów.
 
@@ -3890,11 +6085,26 @@ Nie wysyłam za pobraniem ani za granicę.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 76110-1: https://a.allegroimg.com/original/11ee37/77553df74c569db294a17e249683
+
 ---
 
-## 76111 — Lego Heros 76111 Pojedynek Z Brother Eye
+## 76111 — Pojedynek z Brother-Eye
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 397.88 zł · EAN: 00673419280921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76111 |
+| Nazwa angielska | Batman: Brother Eye Takedown |
+| Nazwa polska | Pojedynek z Brother-Eye |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 16 cm |
+| EAN | 5702016109023, 673419280921 |
 
 LEGO SUPER HEROS 76111 BATMAN POJEDYNEK Z BROTHER.
 
@@ -3922,11 +6132,27 @@ W zestawie jest też peleryna Batwoman. Minifigurki Batwoman™ i OMAC-a™ to n
 
 **Brother Eye™** ma ok. 6 cm wysokości, 18 cm długości i 22 cm szerokości.
 
+**Galeria:**
+
+- 76111-1: https://a.allegroimg.com/original/11baed/3318f4514951b42fccce696143ec
+- 76111-2: https://a.allegroimg.com/original/03a3ba/ce71ff304cb8aee3315018df3759
+
 ---
 
-## 76112 — Klocki Lego Heroes 76112 Zdalnie sterowany Batmobil
+## 76112 — Klocki LEGO Super Heroes 76112 Zdalnie sterowany Batmobil
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702016109016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76112 |
+| Nazwa angielska | App-Controlled Batmobile |
+| Nazwa polska | Klocki LEGO Super Heroes 76112 Zdalnie sterowany Batmobil |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 13 cm |
+| EAN | 5702016109016 |
 
 LEGO SUPER HEROES
  
@@ -3940,11 +6166,27 @@ W zestawie znajduje się 11 nowych broni i akcesoriów Batmana , które można w
  
 Model przeznaczony wyłącznie do użytku w pomieszczeniach. Batmobil ma ok. 9 cm wysokości, 19 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 76112-1: https://8.allegroimg.com/original/001f38/0ce5bac34a72a93a55ab5415c5d8
+
 ---
 
-## 76113 — Lego Marvel Heroes 76113 Pościg motocyklowy Spider-Mana Nowe
+## 76113 — POŚCIG MOTOCYKLOWY
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016368666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76113 |
+| Nazwa angielska | Spider-Man Bike Rescue |
+| Nazwa polska | POŚCIG MOTOCYKLOWY |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702016368666, 673419302890 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3965,11 +6207,28 @@ Zestaw klocków **LEGO Marvel Super Heroes Pościg motocyklowy Spider-Mana 76113
 - Motocykl Spider-Mana do zbudowania ma ok. 5 cm wysokości, 13 cm długości i 6 cm szerokości.
 - Generator ma ok. 3 cm wysokości, 13 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 76113-1: https://a.allegroimg.com/original/11ccea/63d0db634ab19c65d376461daf05
+- 76113-2: https://1.allegroimg.com/original/03e0d9/723b51e5461eaf9e70e4d7f9c821
+
 ---
 
-## 76115 — Lego Heroes 76115 Pajęczy Mech kontra Venom Spider-Man May Marvel
+## 76115 — Pajęczy Mech kontra Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 795.00 zł · EAN: 05702016368888 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76115 |
+| Nazwa angielska | Spider Mech vs. Venom |
+| Nazwa polska | Pajęczy Mech kontra Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 604 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 4 cm |
+| EAN | 5702016368888, 673419302913 |
 
 LEGO MARVEL SUPER HEROES Spider-Man 76115 Pajęczy Mech kontra Venom
 
@@ -3989,11 +6248,27 @@ Dołącz do Spider-Mana i Ghost Spidera, którzy próbują uratować ciocię May
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 76115-1: https://a.allegroimg.com/original/11874b/0f26bd5f46e0a5769f1009461a34
+- 76115-2: https://d.allegroimg.com/original/03dbb1/c1932d1d4967838d818630ad991d
+
 ---
 
-## 76116 — Lego Heroes 76116 Łódź podwodna
+## 76116 — Łódź Podwodna Batmana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 469.00 zł · EAN: 00673419302920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76116 |
+| Nazwa angielska | Batman Batsub and the Underwater Clash |
+| Nazwa polska | Łódź Podwodna Batmana |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 11 cm |
+| EAN | 5702016368895, 673419302920 |
 
 Odegraj zaciekłą walkę z Mistrzem Oceanów™ w zestawie LEGO® DC Batman™ 76116 Łódź podwodna Batmana™. Łódź Batmana do zbudowania ma otwierany, okrągły kokpit, w którym zmieści się minifigurka, ruchome chwytaki do trzymania broni, skrzydła obracające się o 360 stopni, obracające się wirniki z tyłu oraz odczepiane płetwy, które można założyć Batmanowi na stopy. W tym ciekawym zestawie z Batmanem znajdziesz również trzy minifigurki LEGO z bronią, figurkę rekina oraz 10 klocków przedstawiających wodę, które można w trakcie zabawy doczepić do modeli, minifigurek i broni.
 
@@ -4007,11 +6282,27 @@ Odegraj zaciekłą walkę z Mistrzem Oceanów™ w zestawie LEGO® DC Batman™ 
 - Minifigurki Aquamana™ i Mistrza Oceanów™ to nowości na styczeń 2019 r.
 - Łódź podwodna Batmana ma ok. 5 cm wysokości, 21 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 76116-1: https://a.allegroimg.com/original/05234c/8da3ecc746c89450dab78374bae2
+- 76116-2: https://a.allegroimg.com/original/038322/7ca418bd4e92a37a7d522e0dc259
+
 ---
 
-## 76118 — Lego Heroes 76118 Walka z Mr. Freeze’em
+## 76118 — Walka z Mr. Freeze’em
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 364.02 zł · EAN: 05702016369120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76118 |
+| Nazwa angielska | Mr. Freeze Batcycle Battle |
+| Nazwa polska | Walka z Mr. Freeze’em |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369120 |
 
 Klocki LEGO Super Heroes Walka z Mr. Freeze’em
 
@@ -4034,19 +6325,49 @@ Opis produktu:
 - W komplecie jest również skuter śnieżny z miejscem na minifigurkę Mr. Freeze’a™. 
 - Akcesoria w zestawie: hełm Mr. Freeze’a (nowość na czerwiec 2019 r.), jego plecak z niestrzelającym zamrażaczem oraz 10 elementów bojowych, które można doczepiać do modeli, minifigurek i broni.
 
+**Galeria:**
+
+- 76118-1: https://a.allegroimg.com/original/009ac4/5e8f003943d4b24e0ad06ec3dafb
+
 ---
 
-## 76119 — Lego Heroes 76119 Batmobile: w pogoni za Jokerem
+## 76119 — Batmobile: w pogoni za Jokerem
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702016369137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76119 |
+| Nazwa angielska | Batmobile: Pursuit of The Joker |
+| Nazwa polska | Batmobile: w pogoni za Jokerem |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 342 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016369137 |
 
 - W zestawie dwie minifigurki LEGO (nowości na czerwiec 2019 r.): Batman i Joker.- Batmobile ma otwieraną kabinę z miejscem na minifigurkę i szczegółową deską rozdzielczą, dwa ukryte, rozkładane miotacze klocków, podnoszoną maskę, zbudowany z klocków silnik, funkcję automatycznego obracania płomienia w rurze wydechowej, symbole Batmana na felgach, dwa skrzydła nietoperza oraz przezroczyste żółte i czerwone lampy.- Płomień wydobywający się z rury wydechowej automatycznie obraca się podczas poruszania pojazdem.- W tym zestawie LEGO Batman znajduje się miotacz klocków Jokera oraz 10 elementów bojowych, które można doczepiać do modeli, minifigurek i broni.- Ten ciekawy model to świetny prezent dla fanów Batmana.- W aplikacji LEGO Life znajdziesz intuicyjne ekstra instrukcje budowania tego zestawu z superbohaterem. Można je łatwo powiększać i obracać, a tryb podglądu pozwala wizualizować powstający model, co pomoże w budowaniu nawet najmłodszym konstruktorom.- Batmobile ma ok. 7 cm wysokości, 24 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 76119-1: https://a.allegroimg.com/original/00818c/4bd8cc5e4fd89f97c9794ee46a47
+
 ---
 
-## 76122 — Lego Heroes Atak na Jaskinię Batmana 76122
+## 76122 — LEGO SUPER HEROES Atak na Jaskinię Batmana 76122
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702016369045 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76122 |
+| Nazwa angielska | Batcave Clayface Invasion |
+| Nazwa polska | LEGO SUPER HEROES Atak na Jaskinię Batmana 76122 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1038 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 43 cm × gł. 9 cm |
+| EAN | 5702016369045 |
 
 LEGO SUPER HEROES 76122 Atak Clayface'a™ na Jaskinię Batmana
 
@@ -4071,11 +6392,27 @@ Zainspiruj dzieci do tworzenia własnych, mrożących krew w żyłach przygód z
 - Czołg Batmana™ ma ok. 8 cm wysokości, 8 cm długości i 7 cm szerokości.
 - Clayface™ ma ok. 12 cm wysokości.
 
+**Galeria:**
+
+- 76122-1: https://a.allegroimg.com/original/11126b/9107719d40629abd23ead7771297
+
 ---
 
-## 76124 — Lego Marvel Heroes Pogromca Machiny Wojennej 76124
+## 76124 — Pogromca War Machine
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016369069 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76124 |
+| Nazwa angielska | War Machine Buster |
+| Nazwa polska | Pogromca War Machine |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 14 cm |
+| EAN | 5702016369069 |
 
 Ant-Man potrzebuje pomocy! Uratuj go przed Outriderami w zestawie LEGO® Marvel Avengers 76124 Pogromca War Machine. Ten niesamowity model ma otwierany kokpit z miejscem dla minifigurki, szybkostrzelne działko na sześć klocków, dwa odczepiane miotacze klocków, dwie wystrzeliwane rakiety, chwytliwe ręce i otwierany schowek na dodatkową amunicję. W tym imponującym zestawie konstrukcyjnym znajdziesz też cztery minifigurki, za pomocą których można odgrywać emocjonujące sceny z filmów „Avengers” Marvela. Są wśród nich minifigurki War Machine i Ant-Mana z nowymi nadrukami kombinezonów grupy Avengers (nowość na marzec 2019 r.).
 
@@ -4087,11 +6424,27 @@ Ant-Man potrzebuje pomocy! Uratuj go przed Outriderami w zestawie LEGO® Marvel
 - Z tym kreatywnym zestawem konstrukcyjnym LEGO® możesz odtworzyć emocjonujące sceny akcji z filmów „Avengers” Marvela. 
 - Pogromca War Machine ma ok. 17 cm wysokości, 6 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 76124-1: https://a.allegroimg.com/original/05d0db/c572e8c24f00ac5b008375e8ecaf
+
 ---
 
-## 76125 — Klocki Lego Zbroje Iron Mana 76125 524 elementy 7 lat
+## 76125 — Zbroje Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 367.51 zł · EAN: 05702016369670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76125 |
+| Nazwa angielska | Iron Man Hall of Armor |
+| Nazwa polska | Zbroje Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 524 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 35 cm × gł. 17 cm |
+| EAN | 5702016369670 |
 
 Zbuduj laboratorium Iron Mana i przetestuj różne zbroje!
  
@@ -4111,11 +6464,27 @@ Przeprowadzaj eksperymenty z Tonym Starkiem i złap Outriderów w zestawie LEGO 
 - Laboratorium Iron Mana ze standardowo ustawionymi modułami ma ok. 13 cm wysokości, 35 cm szerokości i 17 cm głębokości. 
 - Zbroja Igor ma ok. 9 cm wysokości, 5 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 76125-1: https://a.allegroimg.com/original/0591c4/5e2950da48c1b66dbe8495592be4
+
 ---
 
-## 76127 — Lego Heroes 76127 Kapitan Marvel i atak Skrullów
+## 76127 — Kapitan Marvel i atak Skrullów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016369694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76127 |
+| Nazwa angielska | Captain Marvel and The Skrull Attack |
+| Nazwa polska | Kapitan Marvel i atak Skrullów |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 21 cm |
+| EAN | 5702016369694 |
 
 LEGO SUPER HEROES 76127 KAPITAN MARVEL I ATAK SKRULLÓW
 
@@ -4130,11 +6499,27 @@ Cechy zestawu:
 - Sięgnij po wypakowany akcją zestaw z superbohaterami i odtwórz pełne napięcia sceny z filmu Kapitan Marvel. 
 - Quin-jet ma ok. 11 cm wysokości, 30 cm długości i 21 cm szerokości.
 
+**Galeria:**
+
+- 76127-1: https://a.allegroimg.com/original/112e0d/095ff7454c199a010e76eba9be05
+
 ---
 
-## 76129 — Lego 76129 @@@ Hydroman Figurka sh581 @@@ Spiderman
+## 76129 — Atak Hydro-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 63.33 zł · EAN: 05702016369717 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76129 |
+| Nazwa angielska | Hydro-Man Attack |
+| Nazwa polska | Atak Hydro-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369717 |
 
 **Lego 76129 :: Marvel Super Heroes**
 
@@ -4148,11 +6533,27 @@ z zestawu: atak hydro-mana / hydroman attack
 
 elementy pochodzą z nowego zestawu LEGO 76129:
 
+**Galeria:**
+
+- 76129-1: https://a.allegroimg.com/original/039b1d/c553300c4af9a1c9a010a7e17f81
+
 ---
 
-## 76133 — Lego 76133 Marvel Heroes Pościg samochodowy Spider-Mana Goblin Auto
+## 76133 — Pościg samochodowy Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 159.50 zł · EAN: 05702016369731 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76133 |
+| Nazwa angielska | Spider-Man Car Chase |
+| Nazwa polska | Pościg samochodowy Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702016369731 |
 
 Przedmiotem sprzedaży jest kompletny fabrycznie zapakowany zestaw klocków
 
@@ -4186,21 +6587,52 @@ Zapewnij swojemu dziecku emocjonującą zabawę w odgrywanie ról z zestawem LEG
 
 - Samochodzik Spider-Mana ma ok. 9 cm wysokości, 11 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 76133-1: https://a.allegroimg.com/original/11a8ea/5d6632144399851f33e0f8f8f0e2
+
 ---
 
-## 76134 — Lego Heroes 76134 Doktor Octopus: Skok na Diamenty Nowe
+## 76134 — Doktor Octopus: Skok na Diamenty
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016369748 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76134 |
+| Nazwa angielska | Spider-Man: Doc Ock Diamond Heist |
+| Nazwa polska | Doktor Octopus: Skok na Diamenty |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369748 |
 
 Klocki LEGO Marvel Super Heroes 76134 - Doktor Octopus - skok na diamenty
  
 Pozwól swojemu młodemu superbohaterowi urządzić pościg za motorówką Doktora Octopusa w rewelacyjnym zestawie LEGO® Marvel Spider-Man 76134 Doktor Octopus — skok na diamenty. Ten pomysłowy zestaw konstrukcyjny LEGO 4+ został zaprojektowany z myślą o przedszkolakach i małych dzieciach. Specjalna podstawka startowa pozwala nawet zupełnym nowicjuszom poczuć dumę z samodzielnego złożenia budynków, pojazdów i nie tylko. Zestaw zawiera proste instrukcje, które pomogą zacząć budowanie i zabawę, a młodym budowniczym wyjaśnią cel poszczególnych kroków budowania. Dzięki temu dzieci rozwijają wyobraźnię i pewność siebie, poznając świat budowania z klocków LEGO w scenerii znanej z serii LEGO Marvel. Budowa modelu będzie dla nich świetną zabawą — jest tu dok z działającym dźwigiem do podnoszenia kontenera, motorówka Doktora Octopusa z mechanicznymi ramionami i samolot Spider-Mana wyposażony w miotacz dysków oraz pajęczynę, którą można doczepić do motorówki lub kontenera. Ten prosty zestaw do zbudowania ze Spider-Manem z serii LEGO Marvel zawiera również trzy minifigurki, które zapewnią dzieciom długie godziny twórczej zabawy.
 
+**Galeria:**
+
+- 76134-1: https://a.allegroimg.com/original/067c2e/c8c8af1a402d94fdd3221b97a49e
+
 ---
 
-## 76137 — Lego Heroes 76137 Lego Heroes 76137 Batman i rabunek
+## 76137 — LEGO SUPER HEROES 76137 Batman i rabunek
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016369755 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76137 |
+| Nazwa angielska | Batman vs. The Riddler Robbery |
+| Nazwa polska | LEGO SUPER HEROES 76137 Batman i rabunek |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702016369755 |
 
 LEGO Batman i rabunek Człowieka-Zagadki 76137
  
@@ -4222,21 +6654,53 @@ LEGO DC Batman 76137 Batman i rabunek Człowieka-Zagadki wprowadzi przedszkolak�
 - Batmobile ma ok. 4 cm wysokości, 15 cm długości i 4 cm szerokości. 
 - Bankomat ma ok. 5 cm wysokości, 5 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 76137-1: https://a.allegroimg.com/original/005bad/a854fb964f89b46087f2904e635c
+
 ---
 
-## 76140 — Lego Avengers 76140 Mech Iron Mana
+## 76140 — Mech Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702016618020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76140 |
+| Nazwa angielska | Iron Man Mech |
+| Nazwa polska | Mech Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618020 |
 
 Pomóż Iron Manowi obronić świat przed złoczyńcami i najeźdźcami z kosmosu! Potrzebujesz więcej mocy? Posadź opancerzonego Avengersa za sterami mecha Iron Mana! Nic nie powstrzyma ogromnego, potężnego, mechanicznego Iron Mana… Możesz iść, gdzie chcesz! Schwytać wszystko, co chcesz! Nic nie stanie Ci na drodze.
  
 Młodzi superbohaterowie mogą ponownie przeżyć emocjonujące sceny z filmów Marvela o Avengersach dzięki ruchomej figurce z zestawu LEGO® Marvel Avengers Mech Iron Mana (76140). Gdy Iron Man zasiądzie za sterami opancerzonego mecha, złoczyńcy muszą mieć się na baczności.  Wspaniała zabawka konstrukcyjna z Iron Manem dla dzieci Miłośnikom Avengersów Marvela spodoba się pełna atrakcji figurka mecha Iron Mana. Kokpit robota można otworzyć i umieścić w środku minifigurkę Iron Mana. Miotacz klocków zamontowany nad głową pozwoli rozprawić się z każdym zagrożeniem, a ruchome ramiona i nogi zapewniają doskonałą zwinność.  Akcja w stylu Marvela z figurkami LEGO superbohaterów Zestawy do budowania LEGO Marvel Avengers otwierają przed dziećmi emocjonujący świat pełen bohaterskich przygód. Pojazdy, mechy, budynki, minifigurki, broń i gadżety można kolekcjonować i używać ich do odgrywania ulubionych scen z filmów lub wymyślania własnych historyjek.
 
+**Galeria:**
+
+- 76140-1: https://a.allegroimg.com/original/055c8f/a3e65f6840eaa90bbe86d3cca97d
+
 ---
 
-## 76141 — Lego Heroes 76141 Mech Thanosa, Klocki, Pomysł
+## 76141 — Mech Thanosa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 130.00 zł · EAN: 05702016618037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76141 |
+| Nazwa angielska | Thanos Mech |
+| Nazwa polska | Mech Thanosa |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702016618037 |
 
 DZIEŃ DOBRY :)
 
@@ -4256,11 +6720,27 @@ To świetny prezent dla dzieci od 6 lat. o Mech Thanosa ma ok. 11 cm wysokości,
 
 **POLECAM i ZAPRASZAM DO ZAKUPU**
 
+**Galeria:**
+
+- 76141-1: https://a.allegroimg.com/original/00fa51/5716722f4ae68973d71a232553ff
+
 ---
 
-## 76142 — Lego Heroes 76142 Avengers Walka na motocykl
+## 76142 — LEGO SUPER HEROES 76142 Avengers Walka na motocykl
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 247.40 zł · EAN: 05702016618044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76142 |
+| Nazwa angielska | Avengers Speeder Bike Attack |
+| Nazwa polska | LEGO SUPER HEROES 76142 Avengers Walka na motocykl |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618044 |
 
 LEGO SUPER HEROES 76142 Avengers Walka na motocyklu
 
@@ -4278,11 +6758,27 @@ Imponujący motocykl Czarnej Pantery, trzy minifigurki LEGO®, wspaniała broń 
 
 **WIEK 6+**
 
+**Galeria:**
+
+- 76142-1: https://a.allegroimg.com/original/11f1b5/38e2e37e43b9a986db43a801cb34
+
 ---
 
-## 76145 — Lego Heroes 76145 Marvel Eternals atak powietrzny
+## 76145 — Marvel Eternals atak powietrzny
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 42.99 zł · EAN: 05702016831337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76145 |
+| Nazwa angielska | Eternals' Aerial Assault |
+| Nazwa polska | Marvel Eternals atak powietrzny |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016831337 |
 
 LEGO Marvel Eternals atak powietrzny 76145
  
@@ -4309,11 +6805,27 @@ Zestawy LEGO Marvel opowiadające o Przedwiecznych to seria unikatowych zabawek 
 - Zabawki konstrukcyjne LEGO® spełniają surowe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76145-1: https://a.allegroimg.com/original/255929/0743933942b68b390037133364f4
+
 ---
 
-## 76148 — Lego 76148 Heroes Spider-Man kontra Doc Ock
+## 76148 — Spider-Man kontra Doc Ock
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702016619317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76148 |
+| Nazwa angielska | Spider-Man vs. Doc Ock |
+| Nazwa polska | Spider-Man kontra Doc Ock |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619317 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -4325,11 +6837,27 @@ Zdjęcie zawarte na aukcji jest poglądowe.
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO.
 
+**Galeria:**
+
+- 76148-1: https://a.allegroimg.com/original/111d22/700f43d24e248910f07815dec70a
+
 ---
 
-## 76149 — Lego 76149 Spider Man Groźny Mysterio Helikopter Mech Bank Nowy
+## 76149 — Spider-Man - Groźny Mysterio
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 219.50 zł · EAN: 05702016619294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76149 |
+| Nazwa angielska | The Menace of Mysterio |
+| Nazwa polska | Spider-Man - Groźny Mysterio |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619294 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -4352,11 +6880,27 @@ Zestaw LEGO® Marvel Spider-Man Groźny Mysterio (76149) to zestaw konstrukcyjny
 
 Opis oraz znaki towarowe są własnością marki LEGO.
 
+**Galeria:**
+
+- 76149-1: https://a.allegroimg.com/original/111dac/dc9477d8482c888f9f5cf0b0c6a5
+
 ---
 
-## 76150 — Lego Heroes, Marvel 76150 Pajęczy odrzutowiec kontra mech Venoma
+## 76150 — Pajęczy odrzutowiec kontra mech Venoma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016619300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76150 |
+| Nazwa angielska | Spiderjet vs. Venom Mech |
+| Nazwa polska | Pajęczy odrzutowiec kontra mech Venoma |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 371 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619300 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4378,11 +6922,27 @@ Dzieciom spodobają się niezliczone sceny akcji z zestawu LEGO® Marvel Spider-
 - Szukasz prezentu ze Spider-Manem dla kogoś, kto nie zna się na budowaniu z klocków LEGO®? Żaden problem! W zestawie z mechem Venoma znajdziesz przejrzyste instrukcje, które pozwolą dzieciom szybko złożyć model i brać się do zabawy. 
 - Zestawy LEGO® Marvel Spider-Man to gwarancja pomysłowej zabawy w pojedynkę i w grupie. Przygody z superbohaterami przypadną do gustu dzieciom, które chcą odgrywać sceny znane z filmów, wymyślać własne historyjki lub po prostu ustawić imponujący model konstrukcyjny z serii Marvel na półce.
 
+**Galeria:**
+
+- 76150-1: https://a.allegroimg.com/original/11ba4e/31e1b0094dddb68fccd4eedd6fdf
+
 ---
 
-## 76154 — Zestaw Lego Heroes 76154 Zasadzka Dewiantów
+## 76154 — Klocki LEGO Super Heroes 76154 Zasadzka Dewiantów!
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 87.75 zł · EAN: 05702016619355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76154 |
+| Nazwa angielska | Deviant Ambush! |
+| Nazwa polska | Klocki LEGO Super Heroes 76154 Zasadzka Dewiantów! |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619355 |
 
 ZESTAW LEGO SUPER HEROES - 76154 - ZASADZKA DEWIANTÓW
 
@@ -4420,11 +6980,26 @@ Zestaw został zaprojektowany z myślą o dzieciach od 6 roku życia, dlatego bu
 
 Model LEGO 76154 to doskonały wybór dla każdego fana superbohaterów, filmu „The Eternals” oraz kreatywnego budowania. Zestaw oferuje atrakcyjne minifigurki, ruchomego przeciwnika, wiele akcesoriów oraz możliwość łączenia z innymi modelami z serii, co sprawia, że zabawa nie kończy się po złożeniu konstrukcji. świetny prezent urodzinowy, świąteczny lub miła niespodzianka bez okazji, która z pewnością wywoła uśmiech na twarzy każdego młodego fana Marvela i zapewni mu wiele godzin fantastycznej zabawy.
 
+**Galeria:**
+
+- 76154-1: https://a.allegroimg.com/original/251a00/7825f0f94061a3644d335efb5f56
+
 ---
 
-## 76155 — Lego Marvel Przedwieczni W cieniu Arishem 76155
+## 76155 — W cieniu Arishem
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 178.99 zł · EAN: 05702016619409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76155 |
+| Nazwa angielska | In Arishem's Shadow |
+| Nazwa polska | W cieniu Arishem |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 493 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619409 |
 
 Klocki LEGO® Marvel Super Heroes
 
@@ -4455,11 +7030,26 @@ LEGO Marvel The Eternals to seria unikatowych zestawów konstrukcyjnych, które 
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że zestaw konstrukcyjny, który podarujesz dziecku, spełnia wysokie standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 76155-1: https://a.allegroimg.com/original/11bc7b/d6ad1a14487baee75af9d23ee961
+
 ---
 
-## 76156 — Lego 76156 Marvel Domo powstaje
+## 76156 — LEGO Marvel Domo powstaje 76156
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 219.90 zł · EAN: 05702016619362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76156 |
+| Nazwa angielska | Rise of the Domo |
+| Nazwa polska | LEGO Marvel Domo powstaje 76156 |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1040 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619362 |
 
 LEGO 76156 Marvel Domo powstaje
 
@@ -4497,11 +7087,26 @@ LEGO 76156 Marvel Domo powstaje
 
 Galeria LEGO 76156 Marvel Domo powstaje
 
+**Galeria:**
+
+- 76156-1: https://a.allegroimg.com/original/11e3dd/1bb456a944de86783be05cb6e7d6
+
 ---
 
-## 76157 — Lego 76157 DC Comics Heroes Wonder Woman vs Cheetah
+## 76157 — Wonder Woman vs Cheetah
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 118.45 zł · EAN: 05702016619577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76157 |
+| Nazwa angielska | Wonder Woman vs. Cheetah |
+| Nazwa polska | Wonder Woman vs Cheetah |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 371 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 17 cm |
+| EAN | 5702016619577 |
 
 LEGO 76157 DC Comics Super Heroes Wonder Woman vs Cheetah
 
@@ -4525,11 +7130,26 @@ Znasz sceny z filmu o Wonder Woman z 1984 roku? Z pewnością zaskoczy Cię LEG
 
 LEGO 76157 to zestaw z 2020 roku, który jest przeznaczony dla dzieci powyżej 8 roku życia i młodzieży. Składa się on z 371 klocków.
 
+**Galeria:**
+
+- 76157-1: https://a.allegroimg.com/original/11bba6/d9af455c4443b566d1a9e71d0d1b
+
 ---
 
-## 76158 — Lego Heroes 76158 Pościg Batłodzią Za Pingwi
+## 76158 — LEGO SUPER HEROES
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702016619379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76158 |
+| Nazwa angielska | Batboat The Penguin Pursuit! |
+| Nazwa polska | LEGO SUPER HEROES |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619379 |
 
 LEGO SUPER HEROES 76158 POŚCIG BATŁODZIĄ ZA PINGWINEM
 
@@ -4549,11 +7169,26 @@ Zestaw zawiera proste instrukcje, które wyjaśnią maluchom cel poszczególnych
 
 **Wymiary opakowania:** 19.1 x 14.1 x 4.6 cm
 
+**Galeria:**
+
+- 76158-1: https://a.allegroimg.com/original/112dd4/3dbd94b7422ca972cd599633de26
+
 ---
 
-## 76159 — Lego Heroes 76159 Trójkołowy motocykl Jokera
+## 76159 — Trójkołowy motocykl Jokera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016619386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76159 |
+| Nazwa angielska | Joker's Trike Chase |
+| Nazwa polska | Trójkołowy motocykl Jokera |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 440 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619386 |
 
 Zestaw LEGO® DC Batman™ Trójkołowy motocykl Jokera (76159) ucieszy każdego małego fana Batmana i Jokera™. Są w nim kultowe pojazdy, świetna broń i postacie znane z filmów o Batmanie.
  
@@ -4579,11 +7214,26 @@ Zestawy LEGO DC Batman pozwalają dzieciom poczuć emocje i przeżywać świetne
 - Wszystkie zabawki konstrukcyjneLEGO® spełniają najwyższe standardy branżowe, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku! 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76159-1: https://a.allegroimg.com/original/00eb83/207dc80b453e82f86eb3572cc374
+
 ---
 
-## 76160 — Lego Batman 76160 Ciężarówka Mobilna Baza Batmana
+## 76160 — MOBILNA BAZA BATMANA
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 929.00 zł · EAN: 05702016619393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76160 |
+| Nazwa angielska | Mobile Bat Base |
+| Nazwa polska | MOBILNA BAZA BATMANA |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619393 |
 
 ZESTAW JEST NOWY I ORYGINALNIE ZAPAKOWANY MOŻNA ODEBRAĆ OSOBIŚCIE W NASZYM SKLEPIE
 
@@ -4608,11 +7258,26 @@ Zestawy LEGO DC Batman pozwalają dzieciom poczuć emocje i przeżywać świetne
 - Zabawki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku!
 - Klocki i elementy LEGO® są zrzucane, podgrzewane,zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że zestaw do zbudowania, który podarujesz dziecku, spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 76160-1: https://a.allegroimg.com/original/1129ca/0d8290dd479f9d0aec9fbe8191e9
+
 ---
 
-## 76161 — Lego Zestaw Heroes 76161 Batwing z 1989 roku Batman
+## 76161 — Batwing z 1989 roku
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 864.00 zł · EAN: 05702016669404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76161 |
+| Nazwa angielska | 1989 Batwing |
+| Nazwa polska | Batwing z 1989 roku |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 2363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 58 cm |
+| EAN | 5702016669404 |
 
 Daj się pochłonąć nowemu projektowi konstrukcyjnemu i zbuduj samolot Batwing LEGO®. Ten niezwykle szczegółowy model jest wspaniałą repliką kultowego samolotu Batwing z filmu o BATMANIE™ z 1989 r., a do tego ma ruchome funkcje i realistyczne akcesoria. Zbudowany model można wyeksponować na półce razem z trzema filmowymi minifigurkami — wykorzystaj w tym celu stojak lub specjalny element umożliwiający powieszenie konstrukcji na ścianie, aby zaoszczędzić miejsce i osiągnąć lepszy efekt.
  
@@ -4640,11 +7305,27 @@ Zestawy do budowania z klocków LEGO Zrób sobie przerwę od codzienności i si�
 - Do łączenia i rozdzielania klocków oraz elementów LEGO® nie potrzeba supermocy. Klocki i elementy są zgodne z najwyższymi standardami branżowymi, dzięki czemu zawsze do siebie pasują i łatwo je rozdzielić. 
 - Klocki i elementy LEGO® są rygorystycznie testowane, abyśmy mieli pewność, że ten wyjątkowy kolekcjonerski model spełnia najwyższe standardy bezpieczeństwa w GOTHAM CITY™ — i w każdym innym miejscu na Ziemi.
 
+**Galeria:**
+
+- 76161-1: https://a.allegroimg.com/original/110e32/c9e8fb10468f9fd4660eaf94c745
+
 ---
 
-## 76164 — Lego Heroes 76164 Hulkbuster konta agenci
+## 76164 — Hulkbuster konta agenci
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 354.79 zł · EAN: 05702016757644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76164 |
+| Nazwa angielska | Iron Man Hulkbuster versus A.I.M. Agent |
+| Nazwa polska | Hulkbuster konta agenci |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 456 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 20 cm |
+| EAN | 5702016757644 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4687,41 +7368,27 @@ Fajne zabawki LEGO Avengers i minifigurki superbohaterów Zestawy LEGO Marvel Av
 
 Zestaw LEGO Marvel Super Heroes - Hulkbuster Iron Mana kontra agenci A.I.M. trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 76164. Zawiera 456 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Marvel Super Heroes - Iron Man Hulkbuster versus A.I.M. Agent. Grupa wiekowa tego produktu to 8+.
 
----
+**Galeria:**
 
-## 76165 — Lego Heroes 76165 Hełm Iron Mana
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 749.99 zł · EAN: 05702016757651 · in stock*
-
-Podobizna latającego superbohatera — Iron Mana — może teraz na stałe zagościć w Twoim domu. Budowanie tego imponującego kolekcjonerskiego modelu LEGO® będzie satysfakcjonującym projektem, a po ukończeniu otrzymasz kultowy hełm jednego z najbardziej rozpoznawalnych kinowych bohaterów. Model jest wyposażony w solidną podstawkę i po zbudowaniu możesz ustawić go w dowolnie wybranym pomieszczeniu. Na pewno będzie przyciągać wzrok!
- 
-Zrób prezent drzemiącemu w Tobie superbohaterowi i podaruj mu hełm Iron Mana z klocków LEGO®
- 
-Kolekcjonerski hełm Iron Mana z klocków LEGO® to Twoja szansa na ucieczkę od rzeczywistości. Satysfakcjonująca zabawa w budowanie dla dorosłych fanów filmów Marvela.
-
-Hełm Iron Mana z serii LEGO® Marvel Avengers przywołuje klasyczny komiksowy styl, a jego budowanie może być prawdziwym testem Twoich zdolności konstruktorskich. Model do zabawy i kolekcji z realistycznymi detalami Klocki LEGO wraz ze specjalnymi czerwonymi i złotymi zdobieniami oraz świecącymi naklejkami z rysunkiem oczu pozwolą Ci uchwycić doskonale znane kontury i wspaniałe szczegóły hełmu Iron Mana. Ten kolekcjonerski rarytas ma solidną podstawkę i tabliczkę z napisem — gdziekolwiek go postawisz, znajdzie się w centrum uwagi i wzbudzi pełne zachwytu komentarze.
- 
-Hełm Iron Mana zrobi jeszcze większe wrażenie, jeśli ustawisz go obok innych realistycznych modeli LEGO. Zestawy do budowania z klocków LEGO Zrób sobie przerwę od codzienności i sięgnij po zestawy konstrukcyjne LEGO, aby przypomnieć sobie, jaką przyjemność może dawać kreatywne budowanie. Zestawy LEGO dla dorosłych dają wiele satysfakcji i świetnie wyglądają, a przy tym mogą być znakomitym prezentem na urodziny lub pod choinkę dla każdego, kto jest zainteresowany budowaniem modeli lub kulturą komiksu.
-
- 
-- Przetestuj swoje konstruktorskie supermoce na modelu hełmu Iron Mana z zestawu LEGO® Marvel Avengers. Jesteś dorosłym fanem Marvela lub po prostu uwielbiasz budowanie z klocków? Ten model będzie w sam raz! 
-- Za pomocą klocków LEGO® i naklejek z grafikami model w ciekawy sposób oddaje wygląd kultowego hełmu Iron Mana i z pewnością obudzi wspomnienia klasycznych scen z filmów o Avengersach. Model z klocków stoi na solidnej podstawie i ma tabliczkę z nazwą. 
-- Klocki LEGO wraz z czerwonymi i złotymi zdobieniami oraz naklejkami z rysunkiem oczu pozwolą Ci uchwycić doskonale znane kontury i wspaniałe szczegóły hełmu Iron Mana. Świetnie wygląda obok innych modeli LEGO Marvel. 
-- Nieważne, czy jesteś fanem Marvela, miłośnikiem LEGO® czy jednym i drugim — ten liczący 480 elementów zestaw będzie wyzwaniem konstrukcyjnym i sposobem na oderwanie się od rzeczywistości. Świetnie sprawdzi się jako prezent urodzinowy, bożonarodzeniowy lub po prostu drobny podarunek. 
-- Hełm Iron Mana ma ok. 19 cm wysokości, 10 cm szerokości i 13 cm głębokości. Nie zajmuje wiele miejsca, ale dzięki wyróżniającym się, realistycznym detalom z pewnością przyciągnie wzrok każdego miłośnika uniwersum Marvela. 
-
- 
-- Nie wymaga baterii. Budowanie hełmu Iron Mana z zestawu LEGO® Marvel Avengers to zajęcie, które angażuje dłonie. Powolny proces przekształcania 480 klocków LEGO we wspaniały model pomoże Ci się uwolnić od stresu. 
-- W komplecie są doskonałe i przejrzyście napisane instrukcje, więc realizację fascynującego projektu możesz rozpocząć zaraz po otwarciu pudełka. 
-- Zestaw to część serii modeli LEGO® Marvel, które mają dostarczyć satysfakcji z budowania i przyciągać spojrzenia fanów klocków oraz miłośników kultury komiksu. 
-- Do łączenia i rozdzielania klocków i elementów LEGO® nie potrzeba supermocy. Od 1958 r. niezmiennie pozostają one zgodne z ze standardami branżowymi, dzięki czemu zawsze do siebie pasują i łatwo je rozdzielić. 
-- Klocki i elementy LEGO® są rygorystycznie testowane, abyśmy mieli pewność, że ten wyjątkowy model kolekcjonerski spełnia najwyższe standardy bezpieczeństwa — te ziemskie i te z uniwersum Marvela!
+- 76164-1: https://a.allegroimg.com/original/059fa5/2d79ad9942a7bbe7e3b4c721f5ea
 
 ---
 
-## 76166 — Lego 76166 Marvel Heroes Walka o Wieżę Avengersów
+## 76166 — Walka o Wieżę Avengersów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 977.41 zł · EAN: 05702016761382 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76166 |
+| Nazwa angielska | Avengers Tower Battle |
+| Nazwa polska | Walka o Wieżę Avengersów |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016761382 |
 
 Klocki LEGO Marvel Super Heroes 76166 - Walka o Wieżę Avengersów
 
@@ -4767,11 +7434,27 @@ Zestaw LEGO Marvel Super Heroes - Walka o Wieżę Avengersów trafił do sprze
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76166-1: https://a.allegroimg.com/original/05cf85/6cb321a34c3d9295ec73c127003c
+
 ---
 
-## 76167 — Lego Heroes 76167 Zbrojownia Iron Mana
+## 76167 — Zbrojownia Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016826784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76167 |
+| Nazwa angielska | Iron Man Armory |
+| Nazwa polska | Zbrojownia Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016826784 |
 
 LEGO Super Heroes 76167 Zbrojownia Iron Mana
 
@@ -4781,11 +7464,27 @@ Gwarantuję kuloodporną wysyłkę
 
 W razie dodatkowych pytań proszę użyć formularza allegro, w przypadkach pilnych można znaleźć numer kontaktowy na dole ogłoszenia.
 
+**Galeria:**
+
+- 76167-1: https://a.allegroimg.com/original/11d45d/720117e94df3a71c9d58861683cd
+
 ---
 
-## 76169 — Lego Marvel 76169 Opancerzony mech Thora nowy
+## 76169 — Opancerzony Mech Thora
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 248.50 zł · EAN: 05702016698244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76169 |
+| Nazwa angielska | Thor Mech Armor |
+| Nazwa polska | Opancerzony Mech Thora |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016698244, 5702016912746 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -4812,11 +7511,28 @@ Dzieci mogą walczyć z wrogami wspólnie z Thorem, który wymachuje swoim legen
 
 Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyjnych i są wyłączną własnością firmy LEGO®
 
+**Galeria:**
+
+- 76169-1: https://a.allegroimg.com/original/115a30/c7889dca40508df022e90aa4a6c1
+- 76169-2: https://a.allegroimg.com/original/111114/05125949441a98af2f198fb4ce67
+
 ---
 
-## 76170 — Lego Heroes 76170 Iron Man kontra Thanos
+## 76170 — Iron Man kontra Thanos
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 208.90 zł · EAN: 05702016912753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76170 |
+| Nazwa angielska | Iron Man vs. Thanos |
+| Nazwa polska | Iron Man kontra Thanos |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702016912753 |
 
 Iron Man prowadzi epicką walkę z Thanosem o Rękawicę Nieskończoności. Posadź opancerzonego superbohatera w superszybkim odrzutowcu i zaatakuj złoczyńcę. Gdy Thanos spróbuje go zestrzelić z potężnej wieżyczki strzelniczej, wystrzel w jego kierunku dwa dyski z odrzutowca. Walka będzie jeszcze bardziej zaciekła na ziemi, gdzie podstawki mocy zwiększą możliwości Iron Mana i Thanosa!
 
@@ -4836,11 +7552,27 @@ Wszystkie zestawy 4+ mają przejrzyste instrukcje, a dodatkowo można skorzysta�
 - Elementy LEGO® spełniają surowe wymogi branżowych standardów — i tak jest niezmiennie od 1958 roku. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki z zestawów 4+. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 76170-1: https://a.allegroimg.com/original/251609/37caf15242bc90ca4f42006e5593
+
 ---
 
-## 76172 — Lego Heroes 76172 Pojedynek Z Sandmanem
+## 76172 — POJEDYNEK Z SANDMANEM
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702016912777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76172 |
+| Nazwa angielska | Spider-Man and Sandman Showdown |
+| Nazwa polska | POJEDYNEK Z SANDMANEM |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016912777 |
 
 LEGO MARVEL SPIDER MAN
 
@@ -4866,11 +7598,27 @@ Zestaw LEGO® Marvel Spider-Man 76172 Pojedynek Spider-Mana z Sandmanem to ogrom
  
 • Zabawka konstrukcyjna z superbohaterami ma ok. 4 cm wysokości, 9 cm szerokości i 6 cm głębokości, a elementy są na tyle małe, by dzieci mogły je wygodnie chwytać i układać. To świetna rozrywka dla całej rodziny!
 
+**Galeria:**
+
+- 76172-1: https://a.allegroimg.com/original/113910/de69011841dca43b6a2250a3d39f
+
 ---
 
-## 76174 — Lego Heroes 76174 Monster truck Spider-Mana kontra Mysterio
+## 76174 — Monster truck Spider-Mana kontra Mysterio
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702016912791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76174 |
+| Nazwa angielska | Spider-Man's Monster Truck vs. Mysterio |
+| Nazwa polska | Monster truck Spider-Mana kontra Mysterio |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 439 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912791 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4894,11 +7642,27 @@ Zestaw LEGO® Marvel Spider-Man 76172 Pojedynek Spider-Mana z Sandmanem to ogrom
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 76174-1: https://a.allegroimg.com/original/253555/5f5ac14546128bc158b6085b61ef
+
 ---
 
-## 76175 — Lego Heroes 76175 Atak na kryjówkę Spider-Mana dla chłopca
+## 76175 — Atak na kryjówkę Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 737.10 zł · EAN: 05702016912876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76175 |
+| Nazwa angielska | Attack on the Spider Lair |
+| Nazwa polska | Atak na kryjówkę Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 17 cm |
+| EAN | 5702016912876 |
 
 Serdecznie zapraszam do zakupu klocków firmy LEGO
 
@@ -4931,11 +7695,27 @@ Nawet superbohaterowie muszą czasem odpocząć w swoim pokoju. Ale tylko Spider
 - Elementy LEGO® są zgodne z rygorystycznymi standardami branżowymi, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76175-1: https://a.allegroimg.com/original/05ac83/0d49b1ab41a6b453b42012a0e713
+
 ---
 
-## 76176 — Lego 76176 Marvel Shang Chi Legenda 10 Pierścieni
+## 76176 — UCIECZKA PRZED DZIESIĘCIOMA PIERŚCIENIAMI
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 114.48 zł · EAN: 05702016912883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76176 |
+| Nazwa angielska | Escape From The Ten Rings |
+| Nazwa polska | UCIECZKA PRZED DZIESIĘCIOMA PIERŚCIENIAMI |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702016912883 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -4970,11 +7750,27 @@ Nawet superbohaterowie muszą czasem odpocząć w swoim pokoju. Ale tylko Spider
 - **Klocki i elementy LEGO® spełniają najwyższe standardy branżowe, dzięki czemu zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić .**
 - **Zestawy LEGO® spełniają rygorystyczne światowe standardy bezpieczeństwa.**
 
+**Galeria:**
+
+- 76176-1: https://a.allegroimg.com/original/11e830/1465aab74fc98c3eb76ea9ec76ad
+
 ---
 
-## 76177 — Klocki Lego 76177 Marvel Bitwa w Starożytnej Wiosce Smok 400 pcs 8+
+## 76177 — Bitwa w Starożytnej Wiosce
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 164.94 zł · EAN: 05702016912890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76177 |
+| Nazwa angielska | Battle at the Ancient Village |
+| Nazwa polska | Bitwa w Starożytnej Wiosce |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 12 cm |
+| EAN | 5702016912890 |
 
 Klocki LEGO Marvel Super Heroes 76177 - Bitwa w Starożytnej Wiosce
 
@@ -5002,11 +7798,27 @@ Ruchome, przypominające węża ciało złożonego z klocków smoka może się s
 
 Zestaw LEGO Marvel Super Heroes - Bitwa w Starożytnej Wiosce trafił do sprzedaży w 2021 roku
 
+**Galeria:**
+
+- 76177-1: https://a.allegroimg.com/original/05ebaa/550910e1440aba61fe1fd4820da5
+
 ---
 
-## 76178 — Klocki Lego Heroes Daily Bugle 76178
+## 76178 — Daily Bugle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1888.49 zł · EAN: 05702016912807 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76178 |
+| Nazwa angielska | Daily Bugle |
+| Nazwa polska | Daily Bugle |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3772 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 82 cm × szer. 27 cm × gł. 27 cm |
+| EAN | 5702016912807 |
 
 LEGO Super Heroes 76178 Daily Bugle
  
@@ -5034,11 +7846,26 @@ Zapomnij na chwilę o zgiełku życia codziennego, składając zestawy konstrukc
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76178-1: https://a.allegroimg.com/original/25e004/405264184c7ca93e9d2003995394
+
 ---
 
-## 76179 — Lego 76179 DC Heroes Motocyklowy pościg
+## 76179 — Motocyklowy pościg Batmana i Seliny Kyle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702016911664 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76179 |
+| Nazwa angielska | Batman & Selina Kyle Motorcycle Pursuit |
+| Nazwa polska | Motocyklowy pościg Batmana i Seliny Kyle |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911664 |
 
 **Klocki LEGO DC Super Heroes 76179 - Motocyklowy pościg Batmana i Seliny Kyle**
  
@@ -5048,11 +7875,26 @@ Przygody Batmana na dwóch kółkachPościg motocyklowy z Batmanem i Seliną Kyl
  
 Szaleńcza akcja — imponujący zestaw z dwoma motocyklami LEGO® DC Batman™: Motocyklowy pościg Batmana™ i Seliny Kyle™ (76179) oferuje dzieciom emocjonującą zabawę w stylu filmu „Batman”Dwie minifigurki — Batman™ w płaszczu z materiału oraz Selina Kyle™, a do tego Batarang™, miotacz liny z hakiem, łańcuch, klejnot i świecący w ciemności sygnał wzywający BatmanaWciągająca zabawa klockami — emocjonujący pościg motocyklowy z Batmanem™ i Seliną Kyle™ rozwinie wyobraźnię dzieci i zachęci je do odgrywania dalszych przygód z superbohateramiŚwietna zabawka dla siedmiolatków i starszych dzieci — ten wielofunkcyjny zestaw będzie doskonałym prezentem dla fanów Batmana™ i młodych pasjonatów motocykli,
 
+**Galeria:**
+
+- 76179-1: https://a.allegroimg.com/original/11c125/76715d554352bb37d8b89133e9c6
+
 ---
 
-## 76180 — Lego Marvel Batman kontra Joker: pościg Batmobilem 76180
+## 76180 — Batman kontra Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702016912975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76180 |
+| Nazwa angielska | Batman vs. The Joker: Batmobile Chase |
+| Nazwa polska | Batman kontra Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016912975 |
 
 Klocki LEGO® Marvel Super Heroes
 
@@ -5075,11 +7917,27 @@ LEGO® DC Batman™: Batman kontra Joker™: pościg Batmobilem™ (76180) to wi
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe — i tak jest niezmiennie od 1958 roku. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki z zestawów 4+.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 76180-1: https://a.allegroimg.com/original/11d7fd/05b32f75449a981673c874663054
+
 ---
 
-## 76184 — Lego Heroes 76184 Spider-Man kontra Mysterio
+## 76184 — Spider-Man kontra Mysterio i jego dron
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702016913019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76184 |
+| Nazwa angielska | Spider-Man vs. Mysterio's Drone Attack |
+| Nazwa polska | Spider-Man kontra Mysterio i jego dron |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016913019 |
 
 Praktyczna i twórcza zabawa
 
@@ -5105,11 +7963,27 @@ Zestaw LEGO 4+ to prawdziwa gratka dla każdego dziecka — i dla całej jego ro
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe — i tak jest niezmiennie od 1958 roku. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki z zestawów 4+.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 76184-1: https://a.allegroimg.com/original/11741b/882ff92548b9844881a91fb1ceef
+
 ---
 
-## 76185 — Lego 76185 Spider-Man w warsztacie w Sanctum
+## 76185 — Spider-Man w warsztacie w Sanctum
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702016913026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76185 |
+| Nazwa angielska | Spider-Man at the Sanctum Workshop |
+| Nazwa polska | Spider-Man w warsztacie w Sanctum |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 22 cm × gł. 22 cm |
+| EAN | 5702016913026 |
 
 Spider-Man, MJ i Wong odwiedzają Doctora Strange’a w piwnicy Sanctum Sanctorum. To niezwykłe pomieszczenie wypełnione jest ciekawymi przedmiotami. Nagle do środka wpada ogromny, potworny owad. Trzeba się z nim zmierzyć! Spider-Man strzela pajęczyną, Doctor Strange używa peleryny lewitacyjnej, MJ atakuje świecznikiem — a potwór łapie w swoje szpony Wonga!
 
@@ -5125,11 +7999,27 @@ Miłośnicy Marvela mogą zabłysnąć wśród przyjaciół, chwaląc się zesta
 - Elementy LEGO® są zgodne z rygorystycznymi standardami branżowymi, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76185-1: https://a.allegroimg.com/original/051af8/83ef7b5446ca91ecb6ef49161de4
+
 ---
 
-## 76186 — Zestaw Lego Marvel Heroes 76186 Helikopter Bojowy Czarnej Pantery
+## 76186 — Klocki LEGO Marvel 76186 Helikopter Czarnej Pantery
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 109.32 zł · EAN: 05702016913033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76186 |
+| Nazwa angielska | Black Panther Dragon Flyer |
+| Nazwa polska | Klocki LEGO Marvel 76186 Helikopter Czarnej Pantery |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 28 cm |
+| EAN | 5702016913033 |
 
 ZESTAW LEGO MARVEL SUPER HEROES - 76186 - HELIKOPTER BOJOWY CZARNEJ PANTERY
 
@@ -5167,11 +8057,27 @@ Model helikoptera inspirowany technologią Wakandy zachwyca swoim unikalnym wygl
 
 Helikopter Czarnej Pantery to zestaw, który łączy w sobie dynamiczną akcję, dopracowane detale i ogromne możliwości zabawy. Dzięki znanym postaciom, efektownemu pojazdowi i interaktywnym funkcjom zapewnia wiele godzin kreatywnej rozrywki zarówno podczas budowania, jak i późniejszego odgrywania przygód. Możliwość łączenia z innymi zestawami LEGO® Marvel dodatkowo zwiększa jego atrakcyjność i pozwala rozwijać własny świat superbohaterów. To doskonały wybór na prezent urodzinowy, świąteczny lub bez okazji – idealny dla każdego fana Marvela, który marzy o emocjonujących starciach i niezwykłych misjach w powietrzu.
 
+**Galeria:**
+
+- 76186-1: https://a.allegroimg.com/original/115962/c93cc68f46d59391553d38eaaabb
+
 ---
 
-## 76187 — Lego Heroes 76187 Venom
+## 76187 — Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016913088 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76187 |
+| Nazwa angielska | Venom |
+| Nazwa polska | Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 9 cm × gł. 19 cm |
+| EAN | 5702016913088 |
 
 **Odkryj niezwykły zestaw LEGO – nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
 
@@ -5217,11 +8123,26 @@ Zapomnij o zgiełku życia codziennego i przypomnij sobie, jaką radość daje k
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76187-1: https://a.allegroimg.com/original/00b2f4/410dd26e40789cdeb23dc5e775ee
+
 ---
 
-## 76188 — Lego 76188 Klasyczny Batmobil 345 elementów 7+
+## 76188 — Klasyczny Batmobil
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702016974355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76188 |
+| Nazwa angielska | Batman Classic TV Series Batmobile |
+| Nazwa polska | Klasyczny Batmobil |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016974355 |
 
 Pędź przez GOTHAM CITY™ klasycznym Batmobilem™ Batmana™ z oryginalnego serialu z 1966 roku. Joker™ znów rozrabia i tylko Ty możesz go powstrzymać. Otwórz bagażnik i wyjmij z niego Bataranga™. Jeśli wolisz mieć auto bez miotaczy klocków, możesz przebudować maskę, by była całkowicie gładka. Po zakończonej walce możesz ustawić swoją rewelacyjną maszynę do walki z przestępczością na specjalnej obrotowej podstawce, by wyglądała jak najlepiej pod każdym kątem. Ten wspaniały pojazd ma otwierany bagażnik, w którym znajdziesz Bataranga™ i dodatkowe klocki do przebudowania maski — można zbudować ją z miotaczami klocków albo bez. Po zakończonej akcji Batmobil można ustawić na obrotowej podstawce, by ta niesamowita maszyna do walki z przestępczością wyglądała jak najlepiej pod każdym kątem.
 
@@ -5241,11 +8162,27 @@ Pędź przez GOTHAM CITY™ klasycznym Batmobilem™ Batmana™ z oryginalnego s
  
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76188-1: https://a.allegroimg.com/original/112c46/686d524e41a4b8b3dcd5be79a729
+
 ---
 
-## 76189 — Lego 76189 Marvel Heroes Kapitan Ameryka i pojedynek z Hydrą
+## 76189 — Kapitan Ameryka i pojedynek z Hydrą
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 71.47 zł · EAN: 05702016913170 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76189 |
+| Nazwa angielska | Captain America and Hydra Face-Off |
+| Nazwa polska | Kapitan Ameryka i pojedynek z Hydrą |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702016913170 |
 
 Klocki LEGO Marvel Super Heroes 76189 - Kapitan Ameryka i pojedynek z Hydrą
 
@@ -5288,11 +8225,27 @@ Zestaw LEGO Marvel Super Heroes - Kapitan Ameryka i pojedynek z Hydrą trafił
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76189-1: https://a.allegroimg.com/original/05fb20/f2053ad14dcda915c074d4e699e7
+
 ---
 
-## 76190 — Lego Heroes 76190 Zadyma z Iron Mongerem
+## 76190 — Zadyma z Iron Mongerem
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 283.30 zł · EAN: 05702016913187 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76190 |
+| Nazwa angielska | Iron Man: Iron Monger Mayhem |
+| Nazwa polska | Zadyma z Iron Mongerem |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 479 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913187 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5330,11 +8283,27 @@ Zestaw LEGO® Marvel Iron Man: zadyma z Iron Mongerem (76190) zawiera mecha z ru
  
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76190-1: https://a.allegroimg.com/original/113f31/9f64bc6245fcb8c757c087368e99
+
 ---
 
-## 76191 — Klocki Lego Heroes Rękawica Nieskończoności 76191 590 elementów
+## 76191 — LEGO Marvel Avengers Rękawica Nieskończoności 76191
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016913194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76191 |
+| Nazwa angielska | Infinity Gauntlet |
+| Nazwa polska | LEGO Marvel Avengers Rękawica Nieskończoności 76191 |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 590 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 13 cm × gł. 11 cm |
+| EAN | 5702016913194 |
 
 LEGO Super Heroes Rękawica Nieskończoności 76191
 
@@ -5360,11 +8329,27 @@ Zapomnij na chwilę o zgiełku życia codziennego i odpręż się, składając z
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76191-1: https://a.allegroimg.com/original/29bdea/11ccff594d30a106fd48189cd839
+
 ---
 
-## 76192 — Lego Heroes Avengers: Koniec gry ostateczna bitwa 76192
+## 76192 — Endgame Final Battle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702016913200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76192 |
+| Nazwa angielska | Avengers: Endgame Final Battle |
+| Nazwa polska | Endgame Final Battle |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 527 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 37 cm × gł. 12 cm |
+| EAN | 5702016913200 |
 
 Zestaw LEGO® Marvel Avengers: Koniec gry — ostateczna bitwa (76192) oferuje rozrywkę rodem z klasycznych filmów akcji Marvela.
  
@@ -5390,11 +8375,27 @@ Zestawy LEGO Marvel Avengers z kolekcjonerskimi pojazdami, mechami, budynkami, m
 - Elementy LEGO® są zgodne z rygorystycznymi standardami jakości obowiązującymi w branży, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76192-1: https://a.allegroimg.com/original/054812/d7f7a85c47f4a62eab478078fde6
+
 ---
 
-## 76193 — Klocki Lego Heroes Statek Strażników 76193
+## 76193 — Statek Strażników
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016913217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76193 |
+| Nazwa angielska | The Guardians' Ship |
+| Nazwa polska | Statek Strażników |
+| Seria | Marvel |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1901 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 59 cm |
+| EAN | 5702016913217 |
 
 LEGO Super Heroes 76193 Statek Strażników
 
@@ -5420,11 +8421,27 @@ Zestawy konstrukcyjne z serii Marvel Avengers pozwalają dzieciom ponownie prze�
 - Elementy LEGO są zgodne z rygorystycznymi standardami jakości obowiązującymi w branży, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76193-1: https://a.allegroimg.com/original/110c83/0a945be3472eb84087f5aedf5286
+
 ---
 
-## 76194 — Klocki Lego Heroes Sakaariański Iron Man 76194 369 elementów
+## 76194 — 76194 - LEGO Super Heroes - Sakaariański Iron Man Tony’ego Starka
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016913224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76194 |
+| Nazwa angielska | Tony Stark's Sakaarian Iron Man |
+| Nazwa polska | 76194 - LEGO Super Heroes - Sakaariański Iron Man Tony’ego Starka |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913224 |
 
 Fani filmów Marvela mogą przenieść się do nowego wymiaru budowania i zabawy, gdzie czekają na nich kreatywne przygody z zestawem LEGO® Marvel Sakaariański Iron Man Tony’ego Starka (76194). Ten wspaniały zestaw LEGO Marvel pozwala ośmiolatkom i starszym dzieciom odgrywać sceny z dostępnego na platformie Disney+ animowanego serialu „What If…?” wytwórni Marvel Studios oraz poznawać nowe historie ze świata Marvel Cinematic Universe.
  
@@ -5444,11 +8461,27 @@ Ten ekscytujący zestaw inspirowany światem Marvel Cinematic Universe zawiera t
 - Elementy LEGO® spełniają wymogi rygorystycznych standardów branżowych, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76194-1: https://a.allegroimg.com/original/255d43/0d0d7a9a4227b235a51e65295500
+
 ---
 
-## 76195 — Lego Heroes 76195 Bojowy dron Spider-Mana
+## 76195 — Bojowy dron Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 147.99 zł · EAN: 05702016913231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76195 |
+| Nazwa angielska | Spider-Man's Drone Duel |
+| Nazwa polska | Bojowy dron Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913231 |
 
 LEGO® Marvel Spider Man-
 
@@ -5468,11 +8501,27 @@ Charakterystyczne rozpostarte skrzydła nikczemnego Sępa są kuszącym celem dl
 - Zestaw LEGO® Marvel Bojowy dron Spider-Mana (76195) oczaruje każdego miłośnika filmów Marvela oraz jego przyjaciół. Ten emocjonujący zestaw z superbohaterem przenosi zabawę w przestworza. 
 - W komplecie są dwie minifigurki inspirujące do twórczej zabawy — Spider-Man i Sęp — a do tego dron do zbudowania z czterema silnikami i dwoma miotaczami klocków.
 
+**Galeria:**
+
+- 76195-1: https://a.allegroimg.com/original/11cb30/bfe3f2ac471e852afe0da60faeba
+
 ---
 
-## 76198 — Lego Heroes 76198 Bitwa Mechów Spider i Dr
+## 76198 — LEGO 76198 Marvel Super Heroes - Bitwa mechów Spider-Mana i Doktora
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702016989694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76198 |
+| Nazwa angielska | Spider-Man & Doctor Octopus Mech Battle |
+| Nazwa polska | LEGO 76198 Marvel Super Heroes - Bitwa mechów Spider-Mana i Doktora |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016989694 |
 
 Do każdej ręki weź fantastycznego mecha Marvela — i ruszaj do boju! Zestaw LEGO® Marvel Spider-Man: Bitwa mechów Spider-Mana i Doktora Octopusa (76198) zapewnia dzieciom podwójną dawkę zabawy w superbohaterów.
 
@@ -5493,11 +8542,27 @@ Zestaw z dwoma mechami Spider-Mana i Doktora Octopusa zawiera minifigurki pilot�
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76198-1: https://a.allegroimg.com/original/119e9e/2aaa9f1b40d3a62b31148d8068f6
+
 ---
 
-## 76199 — Klocki Lego Heroes Carnage 546 elementów
+## 76199 — Carnage
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 397.00 zł · EAN: 05702016989687 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76199 |
+| Nazwa angielska | Carnage |
+| Nazwa polska | Carnage |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 546 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 9 cm × gł. 15 cm |
+| EAN | 5702016989687 |
 
 **Lego Marvel Super Heroes Carnage 76199.**
  
@@ -5523,11 +8588,27 @@ Zbuduj z klocków LEGO® podobiznę Carnage’a — bezlitosnego superzłoczyńc
  
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76199-1: https://a.allegroimg.com/original/11254e/d74950654e5e84dea67d2e39557f
+
 ---
 
-## 76201 — Lego Marvel 76201 Kapitan Carter i Niszczyciel Hydry
+## 76201 — Kapitan Carter i Niszczyciel Hydry
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 179.90 zł · EAN: 05702016989502 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76201 |
+| Nazwa angielska | Captain Carter & The Hydra Stomper |
+| Nazwa polska | Kapitan Carter i Niszczyciel Hydry |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016989502 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -5549,11 +8630,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 76201-1: https://a.allegroimg.com/original/113458/5c7e1fc8476da53dbb694fd8a1ed
+
 ---
 
-## 76202 — 76202 Lego Marvel Mechaniczna zbroja Wolverine’a
+## 76202 — Marvel Mechaniczna zbroja Wolverine’a
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 57.00 zł · EAN: 05702017154183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76202 |
+| Nazwa angielska | Wolverine Mech Armor |
+| Nazwa polska | Marvel Mechaniczna zbroja Wolverine’a |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154183 |
 
 LEGO Marvel Mechaniczna zbroja Wolverine’a 76202
  
@@ -5574,11 +8671,27 @@ Kreatywna zabawa osiągnie nowe wyżyny, gdy dzieci posadzą minifigurkę Wolver
 - Więcej mechów to więcej zabawy! — w serii LEGO® Marvel znajdziesz o wiele więcej mechów do zebrania, więc dzieci mogą urządzać prawdziwe mechaniczne bitwy 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76202-1: https://a.allegroimg.com/original/11d9a5/0648eb9a4000ab841b79bebfe03f
+
 ---
 
-## 76203 — Lego Marvel Heroes Mechaniczna zbroja Iron Mana 76203
+## 76203 — Mechaniczna zbroja Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702017154190 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76203 |
+| Nazwa angielska | Iron Man Mech Armor |
+| Nazwa polska | Mechaniczna zbroja Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154190 |
 
 Klocki LEGO Marvel Super Heroes 76203 - Mechaniczna zbroja Iron Mana
 
@@ -5599,11 +8712,27 @@ Klocki nowe.
 
 Gwarantujemy odpowiednie zapakowanie klocków, aby nic nie uległo uszkodzeniu w transporcie.
 
+**Galeria:**
+
+- 76203-1: https://a.allegroimg.com/original/117a25/3fafbd6645ceab70028c8eca6b4e
+
 ---
 
-## 76206 — Lego Marvel Heroes 76206 Figurka Iron Mana
+## 76206 — Figurka Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 224.44 zł · EAN: 05702017154213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76206 |
+| Nazwa angielska | Iron Man Figure |
+| Nazwa polska | Figurka Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 381 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154213 |
 
 LEGO Marvel Figurka Iron Mana 76206
  
@@ -5623,11 +8752,26 @@ Ta wierna replika zbroi Iron Mana z filmu „Avengers: Czas Ultrona” wytwórni
 - Kultowe zestawy — wszystkie zabawki konstrukcyjne LEGO® Marvel to wysokiej jakości zestawy, które gwarantują młodym superbohaterom niezliczone możliwości pomysłowej rozrywki 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76206-1: https://a.allegroimg.com/original/0572ca/8ba5b97d44eb99a1319d9aa0476d
+
 ---
 
-## 76208 — Zestaw Lego Marvel Avengers 76208 Kozia Łódź
+## 76208 — Klocki LEGO Marvel Super Heroes Avengers 76208 Kozia łódź
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 247.07 zł · EAN: 05702017154237 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76208 |
+| Nazwa angielska | The Goat Boat |
+| Nazwa polska | Klocki LEGO Marvel Super Heroes Avengers 76208 Kozia łódź |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 564 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702017154237 |
 
 ZESTAW LEGO MARVEL AVENGERS - 76208 - KOZIA ŁÓDŹ
 
@@ -5665,11 +8809,27 @@ Kozia łódź Thora to nie tylko efektowny model, ale także pełna funkcji zaba
 
 Zestaw LEGO Marvel 76208 to znakomity wybór dla każdego młodego fana przygód Thora i niezwykłych historii z uniwersum Marvela. Zestaw oferuje nie tylko atrakcyjny wygląd i dużą liczbę elementów, ale przede wszystkim ogromne możliwości kreatywnej zabawy. Dzięki różnorodnym minifigurkom, licznym akcesoriom oraz funkcjonalnej konstrukcji dziecko może rozwijać wyobraźnię i tworzyć własne scenariusze pełne akcji. Dodatkowym atutem jest kompatybilność z innymi zestawami z tej serii, co pozwala stopniowo rozbudowywać kolekcję. To idealny prezent urodzinowy, świąteczny lub spontaniczny upominek bez okazji, który z pewnością wywoła uśmiech na twarzy obdarowanej osoby. Jeśli szukasz zestawu, który łączy w sobie zabawę, kreatywność i efektowny wygląd, ten model będzie doskonałym wyborem zarówno dla dzieci, jak i fanów Marvela w każdym wieku.
 
+**Galeria:**
+
+- 76208-1: https://a.allegroimg.com/original/112b82/8cd89f0344608ccd389efa2de23b
+
 ---
 
-## 76209 — Lego 76209 Marvel Młot Thora
+## 76209 — Młot Thora
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1139.90 zł · EAN: 05702017189673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76209 |
+| Nazwa angielska | Thor's Hammer |
+| Nazwa polska | Młot Thora |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 979 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189673 |
 
 Zestaw LEGO® Marvel Młot Thora
  
@@ -5704,11 +8864,26 @@ W komplecie jest minifigurka Thora oraz ciekawa funkcja: **schowek w obuchu mło
  
 6. Odbierz produkt i podziel się z nami swoją opinią!
 
+**Galeria:**
+
+- 76209-1: https://a.allegroimg.com/original/111fc1/3ca4dd7a4d989d47a323d508fd88
+
 ---
 
-## 76210 — Klocki Lego Zestaw Marvel Hulkbuster 76210
+## 76210 — Hulkbuster
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 2599.00 zł · EAN: 05702017154244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76210 |
+| Nazwa angielska | Hulkbuster |
+| Nazwa polska | Hulkbuster |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 4049 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 52 cm × szer. 47 cm |
+| EAN | 5702017154244 |
 
 LEGO Marvel 76210 Hulkbuster
  
@@ -5724,11 +8899,27 @@ Model LEGO Marvel Hulkbuster (76210) jest idealnym odwzorowaniem wielkości i si
 - Prezent dla dorosłych — znasz kogoś, kto uwielbia składać modele lub jest fanem filmów ze studia Marvel? Ten projekt to idealna kombinacja wyzwania i przyjemności, która przyniesie osobie obdarowanej nie lada satysfakcję 
 - Filmowa pamiątka — pokaż, jak uwielbiasz filmy Marvela, i ustaw ten model w widocznym miejscu w domu lub w pracy. Zbroja ma 52 cm wysokości, 47 cm szerokości i 24 cm grubości, więc robi wrażenie
 
+**Galeria:**
+
+- 76210-1: https://a.allegroimg.com/original/051b0c/c9ec500b49c7ac079497e712f8c5
+
 ---
 
-## 76211 — Lego Marvel Statek Shuri 76211
+## 76211 — Statek Shuri
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 99.26 zł · EAN: 05702017154251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76211 |
+| Nazwa angielska | Shuri's Sunbird |
+| Nazwa polska | Statek Shuri |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154251 |
 
 LEGO Marvel Statek Shuri 76211
 
@@ -5749,11 +8940,27 @@ Cechy produktu:
 - Prezent dla fanów Marvela — świetny prezent urodzinowy lub świąteczny dla ośmioletnich i starszych superbohaterów
 - Przygody w przestworzach — statek Shuri ma ok
 
+**Galeria:**
+
+- 76211-1: https://a.allegroimg.com/original/117b80/4384c8ee4f918fac879cac150972
+
 ---
 
-## 76212 — Lego Marvel Heroes 76212 Laboratorium Shuri
+## 76212 — Laboratorium Shuri
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017154268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76212 |
+| Nazwa angielska | Shuri's Lab |
+| Nazwa polska | Laboratorium Shuri |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702017154268 |
 
 LEGO Super Heroes 76212 Laboratorium Shuri
  
@@ -5780,11 +8987,26 @@ W laboratorium Shuri sporo się dzieje. Shuri testuje swoje imponujące rękawic
 - Dla młodej wyobraźni — zestawy LEGO® 4+ wprowadzą Twoje dziecko w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76212-1: https://a.allegroimg.com/original/25804c/1f51c28f4cabad7868520158c911
+
 ---
 
-## 76213 — Lego Marvel 76213 Sala Tronowa Króla Namora 7+
+## 76213 — Sala tronowa króla Namora
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702017154572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76213 |
+| Nazwa angielska | King Namor's Throne Room |
+| Nazwa polska | Sala tronowa króla Namora |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702017154572 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -5815,11 +9037,27 @@ Elegancka i stylowa łódź podwodna z filmu „Czarna Pantera: Wakanda w moim s
 - Gwarancja jakości — elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76213-1: https://a.allegroimg.com/original/1109cb/5c1a936f4940af51b6a0c0c79f28
+
 ---
 
-## 76214 — Lego Marvel 76214 Czarna Pantera Wojna Na Wodzie 8+ Nowy
+## 76214 — Marvel Czarna Pantera: Wojna z wodą
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702017154589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76214 |
+| Nazwa angielska | Black Panther: War on the Water |
+| Nazwa polska | Marvel Czarna Pantera: Wojna z wodą |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 545 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154589 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -5852,11 +9090,27 @@ Statek Royal Sea Leopard to luksusowy okręt z filmu „Czarna Pantera: Wakanda 
 - Gwarancja jakości — elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76214-1: https://a.allegroimg.com/original/11cd9c/d535ab264188a8fea240943879c4
+
 ---
 
-## 76215 — Lego Heroes 76215 Czarna Pantera
+## 76215 — Czarna Pantera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1749.00 zł · EAN: 05702017189680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76215 |
+| Nazwa angielska | Black Panther |
+| Nazwa polska | Czarna Pantera |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2961 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 46 cm × szer. 39 cm |
+| EAN | 5702017189680 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5899,11 +9153,27 @@ Szczegółowa replika ma niemal naturalnej wielkości głowę, popiersie i ręce
 - Odpręż się i odpocznij – zestawy LEGO® dla dorosłych to satysfakcjonujące projekty konstrukcyjne, które dają przyjemność jeszcze długo po zakończeniu pracy nad składaniem modelu
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76215-1: https://a.allegroimg.com/original/11c862/b30a8559432887e41c376eb3e981
+
 ---
 
-## 76216 — Lego 76216 Marvel Zbrojownia Iron Mana
+## 76216 — Zbrojownia Iron Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 519.00 zł · EAN: 05702017154596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76216 |
+| Nazwa angielska | Iron Man Armory |
+| Nazwa polska | Zbrojownia Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 496 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702017154596 |
 
 LEGO Super Heroes 76216 Zbrojownia Iron Mana
  
@@ -5924,34 +9194,27 @@ Odkryj zbrojownię Tony’ego Starka. Zobacz zbroje Iron Mana MK3, MK25 i MK85. 
 - Jeszcze lepsza zabawa w superbohaterów – rozbudowana seria zabawek konstrukcyjnych LEGO® Marvel zapewnia dzieciom wysokiej jakości zestawy i nieskończenie wiele możliwości zabawy
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
----
+**Galeria:**
 
-## 76217 — Lego Heroes 76217 Ja jestem Groot Figurka Groot Marvel
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 227.89 zł · EAN: 05702017154602 · in stock*
-
-LEGO Super Heroes 76217 Ja jestem Groot
- 
-Podaruj ruchomy model małego Groota z filmów Marvela dzieciom w wieku od 10 lat dzięki zestawowi LEGO® Marvel Ja jestem Groot (76217).
- 
-Baw się lub ustaw Groota na półce
- 
-Każdy fan „Strażników galaktyki vol. 2” zna scenę, w której mały Groot tańczy. Teraz dzieci mogą odtworzyć ten i inne filmowe momenty dzięki szczegółowemu, ruchomemu modelowi tego uroczego i psotnego malucha. Model do zbudowania można ustawiać w różnych pozycjach, a w zestawie jest też model kasety do muzycznej zabawy. Ponadto dostępna jest aplikacja Instrukcje budowania LEGO, gdzie dzieci mogą oglądać, przybliżać i obracać model podczas budowania, jeszcze bardziej angażując się w cały proces.
-
- 
-- Ruchomy model małego Groota – kolekcjonerski model LEGO® Marvel Ja jestem Groot (76217) można ustawiać w różnych pozycjach 
-- Kultowa postać Marvela – dzieci mogą zbudować własnego Groota znanego ze „Strażników galaktyki vol. 2” Marvela. W zestawie znajduje się też kaseta i tabliczka z napisem 
-- Odtwórz taneczne ruchy – ten model do zbudowania można łatwo ustawiać w różnych pozycjach. W zestawie jest też model kasety do muzycznej zabawy 
-- Prezent dla dzieci – wyjątkowy podarunek na urodziny, święta lub inne okazje dla dzieci w wieku od 10 lat, które są fanami Strażników galaktyki Marvela oraz uroczego małego Groota 
-- Buduj, baw się, postaw na półce – ruchomy model ma 26 cm wysokości, a w zestawie znajduje się kaseta i tabliczka z napisem 
-- Rozbudowana zabawa w superbohaterów – rozbudowana seria zabawek konstrukcyjnych LEGO® Marvel zapewnia dzieciom wysokiej jakości zestawy i nieskończenie wiele możliwości zabawy 
-- Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
+- 76216-1: https://a.allegroimg.com/original/115b47/b5f72456489183a909c16c9ece7c
 
 ---
 
-## 76218 — Klocki Lego Marvel Heroes Zestaw Sanctum Sanctorum 76218
+## 76218 — Sanctum Sanctorum
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702017154619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76218 |
+| Nazwa angielska | Sanctum Sanctorum |
+| Nazwa polska | Sanctum Sanctorum |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2708 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 31 cm × gł. 26 cm |
+| EAN | 5702017154619 |
 
 Ten trzypiętrowy, trójwymiarowy budynek przywoła dwie niezapomniane sceny z dwóch filmów Marvela: „Avengers: Wojna bez granic” i „Doktor Strange w multiwersum obłędu”. Zestaw zawiera dziewięć kultowych minifigurek, kilka elementów do ozdabiania i niezliczoną liczbę autentyczny szczegółów. Budując ten dom, masz całą masę możliwości — zabawa nigdy się nie kończy.
 
@@ -5975,11 +9238,27 @@ W zestawie znajdziesz też dziewięć minifigurek: Doktor Strange, Wong, Iron Ma
 - Odpręż się i podładuj swoje baterie — zestawy LEGO® dla dorosłych to satysfakcjonujące projekty konstrukcyjne, które dają przyjemność jeszcze długo po zakończeniu pracy nad ich składaniem 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76218-1: https://a.allegroimg.com/original/05fb02/6267e7d146298639c3093fc4ade5
+
 ---
 
-## 76219 — Lego 76219 Bitwa mechów Spider-Mana i Goblina
+## 76219 — Bitwa mechów Spider-Mana i Zielonego Goblina
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 164.90 zł · EAN: 05702016701432 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76219 |
+| Nazwa angielska | Spider-Man & Green Goblin Mech Battle |
+| Nazwa polska | Bitwa mechów Spider-Mana i Zielonego Goblina |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 296 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016701432, 5702017189697 |
 
 Klocki LEGO Marvel Super Heroes 76219 - Bitwa mechów Spider-Mana i Zielonego Goblina
 
@@ -5999,11 +9278,27 @@ Dwa potworne mechy z minifigurkami popularnych superbohaterów z filmów Marvela
 - Gwarancja jakości — elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76219-1: https://a.allegroimg.com/original/110ac9/274836e54973a64e1441dba50fa2
+- 76219-2: https://a.allegroimg.com/original/117d7f/dc89be3e4a79ab61953455e2f59c
+
 ---
 
-## 76220 — Lego 76220 DC Heroes Batman kontra Harley Quinn
+## 76220 — Batman kontra Harley Quinn
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702017189703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76220 |
+| Nazwa angielska | Batman versus Harley Quinn |
+| Nazwa polska | Batman kontra Harley Quinn |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702017189703 |
 
 LEGO 76220 DC Super Heroes - Batman kontra Harley Quinn
 
@@ -6020,11 +9315,27 @@ Najlepszy zestaw dla małych superbohaterówZestaw z pojazdami obejmuje dwie pop
 - Prezent dla małych superbohaterów – ten zestaw LEGO® 4+ obejmuje klocek startowy z podwoziem motocykla i proste instrukcje budowania, aby rozwijać podstawowe umiejętności u dzieci w wieku od 4 lat 
 - Przenośna zabawa – Batmotor™ ma 3 cm wysokości, 9 cm długości i 4 cm szerokości, więc jest wystarczająco duży na długie godziny niezapomnianych przygód i wystarczająco mały do układania i zabawy dla małych dziecięcych rączek.
 
+**Galeria:**
+
+- 76220-1: https://a.allegroimg.com/original/11a351/35a8a56240cc8a9ee985586a9bea
+
 ---
 
-## 76223 — Lego Marvel 76223 Nanorękawica
+## 76223 — 76223 LEGO Marvel Super Heroes Nanorękawica
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 648.00 zł · EAN: 05702017154640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76223 |
+| Nazwa angielska | Nano Gauntlet |
+| Nazwa polska | 76223 LEGO Marvel Super Heroes Nanorękawica |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 675 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5051300917258, 5702017154640 |
 
 LEGO Marvel 76223 Nanorękawica
 
@@ -6040,11 +9351,27 @@ LEGO Marvel 76223 Nanorękawica to niezwykły zestaw, który pozwala na zbudowan
 
 Nasze klocki są nowe, oryginalne i fabrycznie zapakowane.
 
+**Galeria:**
+
+- 76223-1: https://a.allegroimg.com/original/05da3b/c0228d5e46648f8f2c4362d93aec
+- 76223-2: https://a.allegroimg.com/original/115066/a526693f4882ac6beb6967aedb07
+
 ---
 
-## 76224 — Lego 76224 DC Batman Batmobil Pościg Batmana za Jokerem ----- Outlet
+## 76224 — Pościg Batmana za Jokerem, Kultowy Samochód
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 322.22 zł · EAN: 05702017501000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76224 |
+| Nazwa angielska | Batmobile: Batman vs. The Joker Chase |
+| Nazwa polska | Pościg Batmana za Jokerem, Kultowy Samochód |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 438 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017501000 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -6058,11 +9385,27 @@ DC Batman Batmobil: Pościg Batmana za Jokerem LEGO DC Batmobil: Pościg Batmana
 
 Przygoda z Batmanem — na kółkach! Ten zestaw z Batmobilem przypomina akcję i emocje z klasycznego filmu z 1989 roku. Podnoszony dach zapewnia dostęp do kokpitu pojazdu z miejscem na minifigurkę. Gdy dzieci przekręcą dźwignię z boku samochodu, uniosą się dwa wbudowane miotacze. Płomień przymocowany do rury wydechowej obraca się, gdy Batmobil się porusza, a otwierany bagażnik zapewnia miejsce do przechowywania dołączonego batarangu, ostrza harpuna i kajdanek. W zestawie są dwie minifigurki — Batman i Joker — oraz akcesoria, takie jak hełm i peleryna. Dodatkową cyfrową zabawę zapewni intuicyjna aplikacja LEGO Builder, w której konstruktorzy mogą powiększać i obracać modele w 3D, a także śledzić swoje postępy. Dołącz do Batmana, który ściga Jokera w swoim niesamowitym Batmobilu, a z rury wydechowej buchają płomienie. Gdy złoczyńca pojawi się w zasięgu wzroku, przekręć dźwignię, która podnosi wyposażenie samochodu, i zatrzymaj Batmobil. Batman wyskakuje z kokpitu, otwiera bagażnik i chwyta batarang oraz kajdanki. Ale gdzie się podział Joker?
 
+**Galeria:**
+
+- 76224-1: https://a.allegroimg.com/original/296a35/aee5f2904732b4ae778999b01d00
+
 ---
 
-## 76225 — Lego Marvel 76225 Figurka Milesa Moralesa Klocki Lego
+## 76225 — Figurka Milesa Moralesa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 134.99 zł · EAN: 05702017154657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76225 |
+| Nazwa angielska | Miles Morales |
+| Nazwa polska | Figurka Milesa Moralesa |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154657 |
 
 - LEGO Super Heroes 76225 Figurka Milesa Moralesa
 W pełni ruchoma figurka Milesa Moralesa do zbudowania
@@ -6091,11 +9434,27 @@ Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgnia
 
 - Zbuduj własnego Milesa Moralesa – a potem poruszaj nim, ustawiaj w pozach i baw się jak na prawdziwego pajęczego bohatera przystało! Możesz dołączyć do ulubionych przygód Spider-Mana, brać udział we własnych ekscytujących misjach, a po skończonej zabawie ustawić model w fajnej pozie na półce!
 
+**Galeria:**
+
+- 76225-1: https://a.allegroimg.com/original/11bb13/231ea2464fa6960f2bd6a62a81af
+
 ---
 
-## 76226 — Lego Spider-Man Figurka Spider-Mana 76226
+## 76226 — Figurka Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702017151120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76226 |
+| Nazwa angielska | Spider-Man |
+| Nazwa polska | Figurka Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017151120, 5702017154664 |
 
 LEGO Super Heroes 76226 Figurka Spider-Mana
  
@@ -6123,11 +9482,28 @@ Ta figurka wzorowana na Spider-Manie z uniwersum Marvela jest realistyczną kopi
 - Jeszcze więcej zabawy w superbohaterów – seria LEGO® Marvel oferuje więcej zestawów, w tym figurki Milesa Moralesa (76225) i Venoma (76230) 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76226-1: https://a.allegroimg.com/original/05cee1/3b13aede4e098a7d498f58d6e421
+- 76226-2: https://a.allegroimg.com/original/11e8be/aa6beb3b464aa64b5b35406b6e7e
+
 ---
 
-## 76230 — Lego Heroes 76230 Figurka Venoma
+## 76230 — Figurka Venoma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702017324340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76230 |
+| Nazwa angielska | Venom |
+| Nazwa polska | Figurka Venoma |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017324340 |
 
 LEGO Super Heroes 76230 Figurka Venoma
  
@@ -6154,11 +9530,27 @@ Ta figurka wzorowana na Venomie, kosmicznym symbioncie, z uniwersum Marvela jest
 - Jeszcze więcej zabawy w superbohaterów – seria LEGO® Marvel oferuje więcej zestawów, w tym figurki Milesa Moralesa (76225) i Spider-Mana (76226)
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76230-1: https://a.allegroimg.com/original/116009/5cbdc49945d1993e0b3b0f4dcbc9
+
 ---
 
-## 76232 — Lego Heroes 76232 Marvel Gracik Kapitan Marvel święta
+## 76232 — Marvel 76232 Hoopty
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 228.89 zł · EAN: 05702017241098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76232 |
+| Nazwa angielska | The Hoopty |
+| Nazwa polska | Marvel 76232 Hoopty |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 420 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241098 |
 
 LEGO Super Heroes 76232 Marvel Gracik Kapitan Marvel / NOWY / UNIKAT
 
@@ -6192,11 +9584,27 @@ Dzieci rozwijają wyobraźnię, wymyślając przygody na pokładzie spektakularn
 - Gwarancja jakości – elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i łatwo się z nich buduje
 - Gwarancja bezpieczeństwa – klocki i elementy LEGO® Marvel są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76232-1: https://a.allegroimg.com/original/11de7a/83a1880b430c861009c9b362dc92
+
 ---
 
-## 76237 — Lego Marvel Sanktuarium II bitwa z Końca gry 76237
+## 76237 — Sanktuarium II bitwa z Końca gry
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 237.77 zł · EAN: 05702017072432 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76237 |
+| Nazwa angielska | Sanctuary II: Endgame Battle |
+| Nazwa polska | Sanktuarium II bitwa z Końca gry |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017072432 |
 
 **Lego Marvel Sanktuarium II bitwa z Końca gry 76237**
  
@@ -6206,11 +9614,26 @@ Szczegółowy statek kosmiczny i kultowe postacie
  
 Statek kosmiczny Sanktuarium II z czterema skrzydłami i sześcioma złowrogimi miotaczami klocków oddaje w ręce dzieci pełną akcji rozrywkę rodem z filmów Marvela. Przestronny kokpit można otworzyć, by przyjrzeć się z bliska siedzeniu pilota i panelowi sterowania, za pomocą którego potężny Thanos steruje całym statkiem. Niżej w ładowni znajduje się Rękawica Nieskończoności. W komplecie są trzy minifigurki: Iron Man z niebieską bronią energetyczną i miotaczem, Kapitan Marvel z ognistą bronią energetyczną i tarczą oraz Thanos ze złotym hełmem i mieczem o dwóch ostrzach. Wytrzymałe uchwyty z boku pozwalają dzieciom trzymać duży statek i manewrować nim podczas odgrywania scen z filmu „Avengers: Koniec gry” wytwórni Marvel Studios oraz wymyślania własnych niezapomnianych przygód.
 
+**Galeria:**
+
+- 76237-1: https://a.allegroimg.com/original/0585d5/4bda05a94c6c8693ca6d8c8c1276
+
 ---
 
-## 76238 — Lego 76238 DC Heroes Maska Batmana z klasycznego serialu
+## 76238 — Maska Batmana z klasycznego serialu telewizyjnego
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 173.90 zł · EAN: 05702017072449 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76238 |
+| Nazwa angielska | Classic TV Series Batman Cowl |
+| Nazwa polska | Maska Batmana z klasycznego serialu telewizyjnego |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 372 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 10 cm × gł. 12 cm |
+| EAN | 5702017072449 |
 
 Daj się ponieść radości budowania i odtwórz model maski w wyjątkowym stylu serialu o Batmanie™.
  
@@ -6228,11 +9651,26 @@ Wersja LEGO charakterystycznej maski Mściciela w Płaszczu™ z pewnością prz
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76238-1: https://a.allegroimg.com/original/11e383/fbbb63dc4a03883530b91cc47619
+
 ---
 
-## 76239 — Lego 76239 DC Heroes Batman Tumbler: starcie ze Strachem na Wróble
+## 76239 — Batman Tumbler: starcie ze Strachem na Wróble
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 269.50 zł · EAN: 05060211028281 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76239 |
+| Nazwa angielska | Batmobile Tumbler: Scarecrow Showdown |
+| Nazwa polska | Batman Tumbler: starcie ze Strachem na Wróble |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 422 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5060211028281, 5702017100098 |
 
 Zapraszam do zakupu zestawu Lego z serii DC Super Heroes:
 
@@ -6252,11 +9690,26 @@ Batmobil™ Tumbler z trylogii filmów o Mrocznym Rycerzu™ to jeden z najbardz
 - Elementy LEGO® są zgodne z rygorystycznymi standardami jakości obowiązującymi w branży, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76239-1: https://a.allegroimg.com/original/25988d/5de245dc42b3b6f1f6920fbf9870
+
 ---
 
-## 76240 — Lego Heroes 76240 Batmobil Tumbler
+## 76240 — Batmobil Tumbler
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1109.00 zł · EAN: 05702017100104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76240 |
+| Nazwa angielska | Batmobile Tumbler |
+| Nazwa polska | Batmobil Tumbler |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 2049 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 25 cm |
+| EAN | 5702017100104 |
 
 LEGO Super Heroes 76240 Batmobil Tumbler
  
@@ -6284,11 +9737,27 @@ Sięgnij po zestawy konstrukcyjne LEGO dla dorosłych, aby przypomnieć sobie, j
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76240-1: https://a.allegroimg.com/original/05b730/a6911ffc4b36afd9e572c58acd2d
+
 ---
 
-## 76241 — Lego Marvel Mechaniczna zbroja Hulka 76241
+## 76241 — LEGO Marvel Mechaniczna zbroja Hulka 76241
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702017419619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76241 |
+| Nazwa angielska | Hulk Mech Armor |
+| Nazwa polska | LEGO Marvel Mechaniczna zbroja Hulka 76241 |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419619 |
 
 LEGO® Marvel 76241
  
@@ -6342,11 +9811,27 @@ Darmowa aplikacja LEGO® Builder, dostępna na urządzenia mobilne, pokazuje **
  
 Ten 138-elementowy zestaw to zabawka spełniająca najbardziej surowe branżowe standardy, więc **nic nie popsuje zabawy w superbohaterów!**
 
+**Galeria:**
+
+- 76241-1: https://a.allegroimg.com/original/05cc00/7a6137ed49d1b4c664e1d47abf2b
+
 ---
 
-## 76242 — Lego Heroes 76242 Mechaniczna zbroja Thanosa
+## 76242 — Mechaniczna zbroja Thanosa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 107.44 zł · EAN: 05702017419626 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76242 |
+| Nazwa angielska | Thanos Mech Armor |
+| Nazwa polska | Mechaniczna zbroja Thanosa |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419626 |
 
 Lego SUPER HEROES 76242 Mechaniczna zbroja Thanosa
 
@@ -6366,11 +9851,27 @@ Minifigurka LEGO Thanosa pasuje do otwieranego kokpitu mecha. W pełni ruchome r
 - Gwarancja jakości - elementy LEGO(R) spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić.
 - Pewność i bezpieczeństwo - elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76242-1: https://a.allegroimg.com/original/11e36e/b5e36e8b49f585335be67f3590d2
+
 ---
 
-## 76243 — Lego Heroes 76243 Mechaniczna zbroja Rocketa Rocket Mech Marvel Nowe
+## 76243 — Mechaniczna zbroja Rocketa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 74.90 zł · EAN: 05702017419633 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76243 |
+| Nazwa angielska | Rocket Mech Armor |
+| Nazwa polska | Mechaniczna zbroja Rocketa |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419633 |
 
 LEGO MARVEL SUPER HEROES
 
@@ -6390,11 +9891,27 @@ Seria: Marvel Super Heroes
 
 Nowy Oryginalny Zestaw Klocków LEGO MARVEL SUPER HEROES
 
+**Galeria:**
+
+- 76243-1: https://a.allegroimg.com/original/113d59/2939a33344deb8cd48a8f754ec86
+
 ---
 
-## 76244 — Klocki Lego Marvel 76244 Miles Morales kontra Morbius Spider-Man
+## 76244 — Miles Morales kontra Morbius
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 143.77 zł · EAN: 05702017419640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76244 |
+| Nazwa angielska | Miles Morales vs. Morbius |
+| Nazwa polska | Miles Morales kontra Morbius |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 220 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702017419640 |
 
 LEGO Super Heroes 76244 Miles Morales kontra Morbius
  
@@ -6418,11 +9935,27 @@ Pozwól odtwarzać scenki z Marvela dzieciom w wieku od siedmiu lat dzięki zest
 - Nieograniczona zabawa w superbohaterów – rozbudowana seria zabawek konstrukcyjnych LEGO® Marvel zapewnia dzieciom nieskończenie wiele możliwości zabawy 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76244-1: https://a.allegroimg.com/original/055a71/4dbc286e420ebad25c991aef000a
+
 ---
 
-## 76245 — Zestaw klocków Lego Marvel Upiorny jeździec mech i motor
+## 76245 — Upiorny Jeździec mech i motor
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 147.04 zł · EAN: 05702017419657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76245 |
+| Nazwa angielska | Ghost Rider Mech & Bike |
+| Nazwa polska | Upiorny Jeździec mech i motor |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 264 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702017419657 |
 
 LEGO Super Heroes 76245 Upiorny Jeździec mech i motor
  
@@ -6446,11 +9979,27 @@ Podaruj małym superbohaterom w wieku od siedmiu lat ten duży model LEGO® Marv
 - Jeszcze więcej zabawy – szeroka oferta modeli do budowania i łączenia z serii LEGO® Marvel rozwija wyobraźnię dzieci dzięki innowacyjnym funkcjom i niezliczonym możliwościom zabawy 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76245-1: https://a.allegroimg.com/original/05e20c/bb113c9f4ca88094ab4db9432b64
+
 ---
 
-## 76247 — Lego Heroes 76247 Hulkbuster: bitwa o Wak...
+## 76247 — Hulkbuster: bitwa o Wakandę
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 373.15 zł · EAN: 05702017419664 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76247 |
+| Nazwa angielska | The Hulkbuster: The Battle of Wakanda |
+| Nazwa polska | Hulkbuster: bitwa o Wakandę |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 385 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419664 |
 
 Lego SUPER HEROES 76247 Hulkbuster: bitwa o Wak...
 
@@ -6472,11 +10021,27 @@ Inspirowany sceną z filmu Marvel Studios ,,Avengers: Wojna bez granic" zestaw z
 - Gwarancja jakości - elementy LEGO(R) spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić.
 - Pewność i bezpieczeństwo - elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76247-1: https://a.allegroimg.com/original/117549/98174bfb43128363266baab32790
+
 ---
 
-## 76248 — Lego 76248 Marvel Heroes Quinjet Avengersów
+## 76248 — Quinjet Avengersów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 421.79 zł · EAN: 05702017419671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76248 |
+| Nazwa angielska | The Avengers Quinjet |
+| Nazwa polska | Quinjet Avengersów |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 795 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 35 cm |
+| EAN | 5702017419671 |
 
 Klocki LEGO Marvel Super Heroes 76248 - Quinjet Avengersów
  
@@ -6506,11 +10071,27 @@ Gwarancja jakości – elementy LEGO® spełniają najwyższe branżowe standard
  
 Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76248-1: https://a.allegroimg.com/original/113750/fa69cfea458ba88083af30a10afd
+
 ---
 
-## 76249 — Lego 76249 Marvel Heroes Groot jako Venom
+## 76249 — Groot jako Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 304.78 zł · EAN: 05702017419688 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76249 |
+| Nazwa angielska | Venomized Groot |
+| Nazwa polska | Groot jako Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 630 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419688 |
 
 **Gwarantuję solidne zapakowanie klocków**
  
@@ -6520,11 +10101,27 @@ Zbuduj figurkę Groota, który częściowo stał się Venomem, a następnie dope
 
 Jeszcze więcej zabawy — zabawki LEGO® Marvel dają nieograniczone możliwości. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa • Dzieci budują własnego venomowego Groota i dodają klocki, gdy Venom przejmuje kontrolę nad Grootem • Zestaw zawiera Groota do zbudowania z długim językiem, ostrymi zębami i mackami Venoma • W pełni ruchome ręce, nogi, biodra i głowa pobudzają wyobraźnię • Świetny prezent na urodziny, święta lub inną okazję dla dzieci w wieku od 10 lat • Figurka ma 27 cm wysokości, więc można ją wszędzie zabrać ze sobą • Dzieci mogą przybliżać i obracać zestawy w 3D, korzystając z intuicyjnej aplikacji LEGO® Builder • Figurkę można połączyć z innymi zestawami LEGO® Marvel — zabawa będzie wtedy jeszcze lepsza • Elementy LEGO® spełniają rygorystyczne standardy jakości • Klocki i elementy LEGO® spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76249-1: https://a.allegroimg.com/original/0541af/58c36b6c425892f8e136e51cc93b
+
 ---
 
-## 76250 — Lego Marvel Heroes 76250 Szpony Z Adamantium Wolverine’a
+## 76250 — Szpony Z Adamantium Wolverine’a
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 402.00 zł · EAN: 05702017433837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76250 |
+| Nazwa angielska | Wolverine's Adamantium Claws |
+| Nazwa polska | Szpony Z Adamantium Wolverine’a |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 596 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 14 cm × gł. 9 cm |
+| EAN | 5702017433837 |
 
 LEGO 76250 Marvel Super Heroes - Szpony z adamantium Wolverine’a
  
@@ -6553,11 +10150,27 @@ Zapomnij na chwilę o zgiełku życia codziennego i odpręż się, składając z
  
 - Okazja do skupienia się — dzięki serii zestawów LEGO® dla dorosłych miłośnicy modeli mogą zagłębić się w satysfakcjonującym projekcie, który będzie źródłem satysfakcji jeszcze długo po zakończeniu budowania
 
+**Galeria:**
+
+- 76250-1: https://a.allegroimg.com/original/113e5e/0759febf43ab9c5fb7f2571bcc48
+
 ---
 
-## 76251 — Lego Marvel Heroes 76251 Hełm Star-Lorda
+## 76251 — Hełm Star-Lorda
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 358.99 zł · EAN: 05702017433844 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76251 |
+| Nazwa angielska | Star-Lord's Helmet |
+| Nazwa polska | Hełm Star-Lorda |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 602 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm × gł. 13 cm |
+| EAN | 5702017433844 |
 
 Klocki LEGO Marvel Super Heroes 76251 - Hełm Star-Lorda
 
@@ -6595,11 +10208,26 @@ Jak złożyć zamówienie?
 - Czekaj na dostawę.
 - Odbierz produkt, zbuduj zaawansowany model i uchwyć styl i emocje „Strażników Galaktyki” Marvela!
 
+**Galeria:**
+
+- 76251-1: https://a.allegroimg.com/original/11a577/42a4393e4b63a030399591568b18
+
 ---
 
-## 76252 — Lego Heroes 76252 Jaskinia Batmana w ramce
+## 76252 — Jaskinia Batmana w ramce
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 3799.00 zł · EAN: 05702017419695 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76252 |
+| Nazwa angielska | Batcave Shadowbox |
+| Nazwa polska | Jaskinia Batmana w ramce |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 3981 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 51 cm × gł. 14 cm |
+| EAN | 5702017419695 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6636,11 +10264,26 @@ Mierząca 51 cm scenka z Jaskinią Batmana zawiera wiele autentycznych detali, w
  
 - Gratka dla kolekcjonerów – mierząca **29 cm wysokości, 51 cm szerokości i 14 cm głębokości** scenka z Batmanem™ będzie stanowić ozdobę w każdym domu lub miejscu pracy
 
+**Galeria:**
+
+- 76252-1: https://a.allegroimg.com/original/11c791/13b4ae3c4dd7ab27f4ea0aa60749
+
 ---
 
-## 76253 — Lego Heroes 76253 Kwatera Główna Strażnicy Galaktyki 2 figurki
+## 76253 — LEGO Marvel Kwatera Strażników Galaktyki 76253
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 34.44 zł · EAN: 05702017419701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76253 |
+| Nazwa angielska | Guardians of the Galaxy Headquarters |
+| Nazwa polska | LEGO Marvel Kwatera Strażników Galaktyki 76253 |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 13 cm × gł. 5 cm |
+| EAN | 5702017419701 |
 
 LEGO Super Heroes 76253 Kwatera Strażników Galaktyki
  
@@ -6662,11 +10305,26 @@ Fani filmów Marvela rozpoznają tę kwaterę superbohaterów ze „Strażników
 - Nieograniczona zabawa w superbohaterów – rozbudowana seria zabawek konstrukcyjnych LEGO® Marvel zapewnia dzieciom nieskończenie wiele możliwości zabawy 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76253-1: https://a.allegroimg.com/original/259cf4/6cddd993400b831c4dfa1db55d8d
+
 ---
 
-## 76254 — Lego Marvel Statek kosmiczny małego Rocketa 76254
+## 76254 — Statek kosmiczny małego Rocketa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 116.82 zł · EAN: 05702017419718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76254 |
+| Nazwa angielska | Baby Rocket's Ship |
+| Nazwa polska | Statek kosmiczny małego Rocketa |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 23 cm |
+| EAN | 5702017419718 |
 
 LEGO Super Heroes Statek kosmiczny małego Rocketa
 
@@ -6704,11 +10362,26 @@ Certyfikaty, opinie, atesty: **CE**
 
 • Gwarancja bezpieczeństwa – klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76254-1: https://a.allegroimg.com/original/1130aa/ab10c9634f388ae0a2d03b3a2cd2
+
 ---
 
-## 76255 — Lego Marvel Nowy Statek Strazników 76255
+## 76255 — Nowy statek Strażników
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 323.90 zł · EAN: 05702017419725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76255 |
+| Nazwa angielska | The New Guardians' Ship |
+| Nazwa polska | Nowy statek Strażników |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 26 cm |
+| EAN | 5702017419725 |
 
 NOWY STATEK STRAZNIKÓW
 
@@ -6736,11 +10409,27 @@ Wyrusz na misję ze Strażnikami Galaktyki! Umieść Mantis, Draxa i Star-Lorda 
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 76255-1: https://a.allegroimg.com/original/1173c5/d4e35d4c4dacb4fa00b5bd1f870b
+
 ---
 
-## 76256 — Lego 76256 Marvel Figurka Ant-Mana do zbudowania
+## 76256 — LEGO Marvel Super Heroes 76256 - Figurka Ant-Mana do zbudowania
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 176.45 zł · EAN: 05702017433851 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76256 |
+| Nazwa angielska | Ant-Man Construction Figure |
+| Nazwa polska | LEGO Marvel Super Heroes 76256 - Figurka Ant-Mana do zbudowania |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017433851 |
 
 LEGO 76256 Marvel Figurka Ant-Mana do zbudowania
 
@@ -6770,11 +10459,26 @@ LEGO Marvel™ to seria zestawów, która cieszy się niesłabnącą popularno�
 
 Zabawki LEGO są synonimem jakości i bezpieczeństwa. Klocki LEGO są testowane na wiele różnych sposobów, aby zapewnić, że spełniają one rygorystyczne światowe standardy bezpieczeństwa. Dzięki temu możemy być pewni, że nasze dzieci bawią się bezpiecznie, a same klocki zawsze idealnie do siebie pasują, co ułatwia budowanie.
 
+**Galeria:**
+
+- 76256-1: https://a.allegroimg.com/original/117b7a/39e983b64e558eb140c36e2ef96f
+
 ---
 
-## 76257 — Lego(r) Marvel 76257 Figurka Wolverina
+## 76257 — Figurka do zbudowania: Wolverine
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 172.73 zł · EAN: 05702017498607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76257 |
+| Nazwa angielska | Wolverine Construction Figure |
+| Nazwa polska | Figurka do zbudowania: Wolverine |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419732, 5702017498607 |
 
 LEGO(R) MARVEL 76257 Figurka Wolverina
 
@@ -6795,11 +10499,27 @@ Kultowa postać z Marvela
 - Gwarancja jakości -- elementy LEGO(R) spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i łatwo się z nich buduje 
 - Gwarancja bezpieczeństwa -- klocki i elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76257-1: https://a.allegroimg.com/original/292a7a/8748563040088045833f79dc2a46
+- 76257-2: https://a.allegroimg.com/original/112a56/ee851dda4985bc28fe94bb05c91a
+
 ---
 
-## 76258 — Lego Heroes 76258 Lego Heroes Figurka Kapitana Ameryki 76258
+## 76258 — LEGO Super Heroes Figurka Kapitana Ameryki 76258
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 112.64 zł · EAN: 05702017419749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76258 |
+| Nazwa angielska | Captain America Construction Figure |
+| Nazwa polska | LEGO Super Heroes Figurka Kapitana Ameryki 76258 |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419749 |
 
 LEGO Super Heroes 76258 Figurka do zbudowania: Kapitan Ameryka
  
@@ -6821,11 +10541,26 @@ Ta kolekcjonerska figurka z Avengersów Marvela dostarczy mnóstwo zabawy podcza
 - Jeszcze więcej zabawy w superbohaterów — seria LEGO® Marvel zawiera więcej zestawów, w tym figurki Wolverine’a (76257), Spider-Mana (76226) i Venoma (76230) 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76258-1: https://a.allegroimg.com/original/052a5b/7e4e625948ea83d3830df07d3e4a
+
 ---
 
-## 76259 — Lego 76259 DC Heroes Figurka Batmana do zbudowania
+## 76259 — Figurka Batmana do zbudowania
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 167.99 zł · EAN: 05702017419756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76259 |
+| Nazwa angielska | Batman Construction Figure |
+| Nazwa polska | Figurka Batmana do zbudowania |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 275 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419756 |
 
 Klocki LEGO DC Super Heroes 76259 - Figurka Batmana do zbudowania
 
@@ -6860,11 +10595,27 @@ Zestaw LEGO DC Super Heroes - Figurka Batmana do zbudowania trafił do sprzeda
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76259-1: https://a.allegroimg.com/original/1177e8/2c6c80bd4bdbac35abf6eb18bea7
+
 ---
 
-## 76260 — Lego 76260 Marvel Heroes Motocykle Czarnej Wdowy i Kapitana Ameryki
+## 76260 — Motocykle Czarnej Wdowy i Kapitana Ameryki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 122.48 zł · EAN: 05702017419763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76260 |
+| Nazwa angielska | Black Widow & Captain America Motorcycles |
+| Nazwa polska | Motocykle Czarnej Wdowy i Kapitana Ameryki |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702017419763 |
 
 Klocki LEGO Marvel Super Heroes 76260 - Motocykle Czarnej Wdowy i Kapitana Ameryki
 
@@ -6905,11 +10656,27 @@ Zestaw LEGO Marvel Super Heroes - Motocykle Czarnej Wdowy i Kapitana Ameryki t
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76260-1: https://a.allegroimg.com/original/115009/9a45470e46ce80e451f50b49246c
+
 ---
 
-## 76261 — 76261 Lego Marvel Ostateczne starcie Spider-Mana Zestaw Kolekcjonerski
+## 76261 — Marvel 76261 Ostateczna bitwa Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 748.99 zł · EAN: 05702017419770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76261 |
+| Nazwa angielska | Spider-Man Final Battle |
+| Nazwa polska | Marvel 76261 Ostateczna bitwa Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 900 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 20 cm × gł. 22 cm |
+| EAN | 5702017419770 |
 
 LEGO Marvel Ostateczne starcie Spider-Mana 76261
 
@@ -6955,11 +10722,26 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
 
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76261-1: https://a.allegroimg.com/original/29e452/ea96f66f48e99ac9c45af38c7a12
+
 ---
 
-## 76262 — Lego 76262 Marvel Heroes Tarcza Kapitana Ameryki 3128 elementów
+## 76262 — Marvel 76262 Tarcza Kapitana Ameryki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 940.00 zł · EAN: 05702017419787 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76262 |
+| Nazwa angielska | Captain America's Shield |
+| Nazwa polska | Marvel 76262 Tarcza Kapitana Ameryki |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 3128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419787 |
 
 LEGO Super Heroes 76262 Tarcza Kapitana Ameryki
  
@@ -7003,11 +10785,26 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
  
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76262-1: https://a.allegroimg.com/original/05cc6a/0fdff6ef439cad80d146ad82d534
+
 ---
 
-## 76263 — Lego Heroes 76263 Lego Heroes 76263 Hulkbuster vs Thanos
+## 76263 — LEGO Super Heroes 76263 Hulkbuster vs Thanos
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 56.42 zł · EAN: 05702017419794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76263 |
+| Nazwa angielska | Iron Man Hulkbuster vs. Thanos |
+| Nazwa polska | LEGO Super Heroes 76263 Hulkbuster vs Thanos |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm |
+| EAN | 5702017419794 |
 
 LEGO Super Heroes 76263 Hulkbuster vs Thanos
  
@@ -7053,11 +10850,26 @@ Czy mu się uda? Ktokolwiek wygra tę potyczkę, emocjonująca bitwa nigdy się 
  
 • Zestawy LEGO są zgodne z najbardziej surowymi światowymi standardami bezpieczeństwa
 
+**Galeria:**
+
+- 76263-1: https://a.allegroimg.com/original/0567cc/ecdaf68b49bab844e4bcd0305a24
+
 ---
 
-## 76264 — Lego DC Heroes 76264 Batmobil Pogoń: Batman kontra Joker Klocki
+## 76264 — Batman kontra Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 145.21 zł · EAN: 05702017419800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76264 |
+| Nazwa angielska | Batmobile Pursuit: Batman vs. The Joker |
+| Nazwa polska | Batman kontra Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702017419800 |
 
 LEGO DC Super Heroes 76264 - Batmobil Pogoń: Batman kontra Joker
 
@@ -7095,11 +10907,26 @@ Zestawy 4+ to idealny sposób na wspólne budowanie dzieci i dorosłych, bez wzg
 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76264-1: https://a.allegroimg.com/original/29a9d9/52afc7914fa89ecfb10379dd4f53
+
 ---
 
-## 76265 — Lego Heroes 76265 Batwing: Batman vs Joker
+## 76265 — LEGO Super Heroes 76265 Batwing: Batman kontra Jok
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 276.55 zł · EAN: 05702017166100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76265 |
+| Nazwa angielska | Batwing: Batman vs. The Joker |
+| Nazwa polska | LEGO Super Heroes 76265 Batwing: Batman kontra Jok |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 357 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 24 cm |
+| EAN | 5702017166100, 5702017419817 |
 
 LEGO Super Heroes 76265 Batwing: Batman kontra Joker
  
@@ -7145,11 +10972,27 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
  
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76265-1: https://a.allegroimg.com/original/0590e6/f9e585154b0ea7982fffa569643b
+
 ---
 
-## 76266 — Lego Heroes 76266 Marvel Koniec gry – ostateczna bitwa na święta
+## 76266 — Koniec gry – ostateczna bitwa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 329.98 zł · EAN: 05702017419824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76266 |
+| Nazwa angielska | Endgame Final Battle |
+| Nazwa polska | Koniec gry – ostateczna bitwa |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 794 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 21 cm × gł. 21 cm |
+| EAN | 5702017419824 |
 
 LEGO Super Heroes 76266 Marvel Koniec gry – ostateczna bitwa / NOWY / UNIKAT
 
@@ -7184,11 +11027,27 @@ Dzięki temu zestawowi z innowacyjnymi funkcjami i filmowymi detalami dzieci mog
 - Gwarancja jakości — elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i łatwo się z nich buduje
 - Gwarancja bezpieczeństwa — klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76266-1: https://a.allegroimg.com/original/11af5f/3e7735cd46abacb010124624e719
+
 ---
 
-## 76269 — Lego 76269 Marvel Heroes Wieża Avengersów
+## 76269 — Marvel Super Heroes - Wieża Avengersów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 2279.00 zł · EAN: 05702017419831 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76269 |
+| Nazwa angielska | Avengers Tower |
+| Nazwa polska | Marvel Super Heroes - Wieża Avengersów |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 90 cm × szer. 34 cm × gł. 25 cm |
+| EAN | 5702017419831 |
 
 Odtwórz najbardziej kultowy budynek w uniwersum Avengersów dzięki zestawowi LEGO Marvel Wieża Avengersów. Ten monumentalny projekt dla dorosłych do zbudowania i ustawienia na półce jest pełen niezapomnianych scen i klasycznych postaci.
  
@@ -7208,11 +11067,26 @@ Wciągająca zabawa dla budowniczych Zestawy LEGO dla dorosłych to wymagające 
 - Odpręż się i podładuj baterie — zestawy LEGO dla dorosłych to satysfakcjonujące projekty konstrukcyjne, które dają przyjemność jeszcze długo po zakończeniu pracy nad ich składaniem 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76269-1: https://a.allegroimg.com/original/050ba2/7cb4ca164406add068199de7294c
+
 ---
 
-## 76270 — Lego DC Heroes Mechaniczna zbroja Batmana 76270 Zestaw i Ebook 4w1
+## 76270 — DC Batman 76272 Jaskinia Batmana i Batman, Batgirl i Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 76.98 zł · EAN: 05702017590219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76270 |
+| Nazwa angielska | Batman Mech Armor |
+| Nazwa polska | DC Batman 76272 Jaskinia Batmana i Batman, Batgirl i Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590219 |
 
 LEGO DC Super Heroes - Mechaniczna zbroja Batmana 76270 Zestaw i Ebook 4w1
 
@@ -7282,11 +11156,26 @@ Dodatkową cyfrową zabawę zapewnia intuicyjna aplikacja LEGO Builder, która u
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017590219
 
+**Galeria:**
+
+- 76270-1: https://a.allegroimg.com/original/11435c/c80e3ba944bb9ebaf99df22c1f01
+
 ---
 
-## 76271 — Lego DC Batman 76271 Niezwykły Duży Obraz Gotham City Panorama 4210 Klocki
+## 76271 — DC Batman 76271 Panorama Gotham City
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702017590226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76271 |
+| Nazwa angielska | Batman: The Animated Series Gotham City |
+| Nazwa polska | DC Batman 76271 Panorama Gotham City |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 4210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590226 |
 
 Zbuduj kultową panoramę miasta Gotham w mrocznym stylu dzięki temu zestawowi dla fanów Batmana. Zawiera on detale z serialu Batman: The Animated Series oraz ukryte scenki. Batman: Gotham z serialu The Animated Series (76271) to wspaniały prezent dla modelarzy i fanów komiksów.
 
@@ -7296,11 +11185,26 @@ Panorama miasta Gotham składająca się z 4210 elementów ma 76 cm szerokości.
 - Klasyczne postacie — w tym zestawie konstrukcyjnym dla dorosłych znajdują się cztery minifigurki LEGO DC Batman: Batman, Joker, Harley Quinn i Kobieta-Kot
 - Prezent dla fanów Hoker – zestaw zawiera wiele rozpoznawalnych przez fanów detali, szczegółowe nawiązania do złoczyńców oraz wyjmowany mały Batmobil i Batwing
 
+**Galeria:**
+
+- 76271-1: https://a.allegroimg.com/original/05498c/122f25ee48c49cb79616378005ec
+
 ---
 
-## 76272 — Lego 76272 DC Jaskinia Batmana z Batmanem, Batgirl i Jokerem
+## 76272 — DC Batman 76272 Jaskinia Batmana oraz Batman, Batgirl i Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 204.99 zł · EAN: 05702017590233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76272 |
+| Nazwa angielska | The Batcave with Batman, Batgirl and The Joker |
+| Nazwa polska | DC Batman 76272 Jaskinia Batmana oraz Batman, Batgirl i Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702017590233 |
 
 LEGO 76272 DC - Jaskinia Batmana z Batmanem, Batgirl i Jokerem
 
@@ -7328,11 +11232,26 @@ Dodatkową cyfrową zabawę zapewnia intuicyjna aplikacja LEGO Builder, w które
 
 - Prezent z serii LEGO® Batman™ — ten zestaw składa się ze 184 elementów, a jaskinia Batmana ma 11 cm wysokości, 13 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 76272-1: https://a.allegroimg.com/original/45b980/bca2965d4f80a6c99c466dfa9eb0
+
 ---
 
-## 76273 — Klocki Lego Batman 76273
+## 76273 — DC Batman 76273 Figurka do zbudowania: Batman i motocykl Bat-Pod
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702017590240 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76273 |
+| Nazwa angielska | Batman Construction Figure and the Bat-Pod Bike |
+| Nazwa polska | DC Batman 76273 Figurka do zbudowania: Batman i motocykl Bat-Pod |
+| Seria | Super Heroes |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 713 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590240 |
 
 KLOCKI LEGO BATMAN 76273
 
@@ -7354,11 +11273,26 @@ Zabawa w dowolnym miejscu➡️Figurka Batmana z tego 713-elementowego zestawu m
 
 ✅Jest wystarczająco duża, aby zapewnić epicką zabawę, i wystarczająco mała, aby dzieci mogły ją zabrać ze sobą, dokądkolwiek się wybiorą
 
+**Galeria:**
+
+- 76273-1: https://a.allegroimg.com/original/117910/098d386d4937a0d99f5bcb7ac2b3
+
 ---
 
-## 76274 — Klocki Lego Heroes 76274 DC Batman I Batmobil Harley Quinn
+## 76274 — DC Batman 76274 Batman i Batmobil kontra Harley Quinn i pan Freeze
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 221.69 zł · EAN: 05702017590257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76274 |
+| Nazwa angielska | Batman with the Batmobile vs Harley Quinn and Mr. Freeze |
+| Nazwa polska | DC Batman 76274 Batman i Batmobil kontra Harley Quinn i pan Freeze |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 435 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590257 |
 
 KLOCKI LEGO 76274
 
@@ -7397,11 +11331,27 @@ Ten zestaw to świetny prezent dla małych miłośników Batmana, superbohateró
 - Seria LEGO® DC — rozbudowana seria zabawek konstrukcyjnych LEGO® DC zapewnia dzieciom nieskończenie wiele możliwości zabawy 
 - Duży batmobil™ — ten 435-elementowy zestaw zawiera batmobil, który mierzy 28 cm długości
 
+**Galeria:**
+
+- 76274-1: https://a.allegroimg.com/original/058a99/56f6167c42a0bea860c5b9c40696
+
 ---
 
-## 76275 — Lego Marvel 76275 Pościg na motocyklu Spider Man vs Doc 77el
+## 76275 — Pościg na motocyklu: Spider-Man vs. Doc Ock
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 75.95 zł · EAN: 05702017590264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76275 |
+| Nazwa angielska | Motorcycle Chase: Spider-Man vs. Doc Ock |
+| Nazwa polska | Pościg na motocyklu: Spider-Man vs. Doc Ock |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 57020142125209, 5702017590264 |
 
 LEGO 76275 Marvel Pościg na motocyklu: Spider-Man vs. Doc Ock wiek 6+ lat (77 pcz)
 
@@ -7449,11 +11399,28 @@ Zestaw LEGO 76275 Marvel jest kompatybilny ze wszystkimi zestawami LEGO, co pozw
 
 Tagi: LEGO, Marvel, 76275, zabawki dla dzieci, klocki, Spider-Man, Doc Ock, kreatywna zabawa, superbohaterowie, 6+ lat, 77 pcz.
 
+**Galeria:**
+
+- 76275-1: https://a.allegroimg.com/original/11f813/bc9e8e6b47349e512081e18aaf55
+- 76275-2: https://a.allegroimg.com/original/11142f/20f8c72641d3949222d44af1b0fa
+
 ---
 
-## 76276 — Lego Marvel Heroes Mechaniczna zbroja Venoma vs. Miles Morales 76276
+## 76276 — Mechaniczna zbroja Venoma vs. Miles Morales
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 42.49 zł · EAN: 05702017591377 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76276 |
+| Nazwa angielska | Venom Mech Armor vs. Miles Morales |
+| Nazwa polska | Mechaniczna zbroja Venoma vs. Miles Morales |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591377 |
 
 LEGO Marvel Super Heroes Mechaniczna zbroja Venoma vs. Miles Morales 76276
 
@@ -7494,11 +11461,27 @@ Ruchomy mech Venoma do zbudowania ma przegubowe ramiona, nogi i dłonie ze szpon
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017591377
 
+**Galeria:**
+
+- 76276-1: https://a.allegroimg.com/original/11095a/8e5e85d241b9868c8c73a4c271ec
+
 ---
 
-## 76277 — Lego Heroes 76277 Mechaniczna zbroja War Machine
+## 76277 — War Machine Mech Armor
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 57.97 zł · EAN: 05702017454054 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76277 |
+| Nazwa angielska | War Machine Mech Armor |
+| Nazwa polska | War Machine Mech Armor |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017454054, 5702017590271 |
 
 LEGO Super Heroes 76277 Mechaniczna zbroja War Machine
 
@@ -7538,11 +11521,26 @@ Zestaw LEGO Marvel Mechaniczna zbroja War Machine (76277) zawiera w pełni rucho
 
 • Zabawa w podróży — 154-elementowy zestaw z mechem ma 11 cm wysokości, więc świetnie nadaje się do zabawy w dowolnym miejscu
 
+**Galeria:**
+
+- 76277-1: https://a.allegroimg.com/original/292663/c8b2179d44cf8b078a8d3b76306c
+
 ---
 
-## 76278 — Lego Heroes 76278 Rocket's Warbird kontra. Ronana
+## 76278 — Rocket's Warbird kontra. Ronana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 112.77 zł · EAN: 05702017590288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76278 |
+| Nazwa angielska | Rocket's Warbird vs. Ronan |
+| Nazwa polska | Rocket's Warbird kontra. Ronana |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 290 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590288 |
 
 Każdy młody superbohater byłby dumny z takiego statku kosmicznego jak ten z zestawu LEGO® Marvel Warbird Rocketa vs. Ronan (76278). Dzięki niemu dzieci w wieku od ośmiu lat odtworzą bitwę o Xandar ze Strażników Galaktyki Marvela i przemierzą kosmos, przeżywając własne, niekończące się przygody.
  
@@ -7564,11 +11562,26 @@ Ten zestaw ze Strażników Galaktyki Marvela jest idealny dla miłośników film
  
 • 290-elementowy zestaw ma 15 cm długości i 24 cm szerokości
 
+**Galeria:**
+
+- 76278-1: https://a.allegroimg.com/original/1142be/138e524d4e58b2abbb54f7418340
+
 ---
 
-## 76279 — Lego Marvel 76279 Wyścigowy samochód Spider-Mana i Venom Zielony Goblin
+## 76279 — Samochód wyścigowy Spider-Mana i Zielony Goblin Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 81.99 zł · EAN: 05702017590295 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76279 |
+| Nazwa angielska | Spider-Man Race Car & Venom Green Goblin |
+| Nazwa polska | Samochód wyścigowy Spider-Mana i Zielony Goblin Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 227 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590295 |
 
 Wielbiciele superbohaterów, minifigurek Marvela i fajnych pojazdów będą zachwyceni tym zestawem LEGO® Marvel, w którym znajduje się samochód Spider-Mana, szybowiec Zielonego Goblina i deskorolka Ghost-Spider. Wyścigówka Spider-Mana i Zielony Goblin (76279) to zabawka na czasie, która będzie doskonałym prezentem dla chłopców i dziewczynek w wieku od siedmiu lat.
  
@@ -7590,11 +11603,27 @@ Spider-Man, Ghost-Spider i zvenomowany Zielony Goblin biorą udział w dynamiczn
  
 • 227-elementowy zestaw zawiera samochód mierzący 14 cm długości
 
+**Galeria:**
+
+- 76279-1: https://a.allegroimg.com/original/29a500/20a2b5aa40c3bf91f840857f9bf8
+
 ---
 
-## 76280 — Lego Marvel Spider-man Vs. Sandman Ostateczna Bitwa 76280
+## 76280 — Spider-Man kontra. Sandman: Ostatni bastion
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017590301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76280 |
+| Nazwa angielska | Spider-Man vs. Sandman: Final Battle |
+| Nazwa polska | Spider-Man kontra. Sandman: Ostatni bastion |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590301 |
 
 Spider-Man vs. Sandman: ostateczna bitwa
 
@@ -7618,11 +11647,26 @@ Seria LEGO® Marvel — szeroki wybór zabawek konstrukcyjnych LEGO Marvel zains
 
 347-elementowy zestaw — zestaw ma 12 cm wysokości
 
+**Galeria:**
+
+- 76280-1: https://a.allegroimg.com/original/11844a/40245c304d89bead57d82555ec88
+
 ---
 
-## 76281 — Lego Heroes 76281 X-Men X-Jet Nowy Zestaw Klocków Lego!!!
+## 76281 — X-Men X-Jet
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 274.80 zł · EAN: 05702017590318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76281 |
+| Nazwa angielska | X-Men X-Jet |
+| Nazwa polska | X-Men X-Jet |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590318 |
 
 LEGO® Marvel Odrzutowiec X-Menów (76281) to idealny pojazd dla fanów superfajnych samolotów, zabawek LEGO Marvel do zbudowania i serialu telewizyjnego X-Men '97 Marvela. Jeśli szukasz zabawek LEGO Marvel jako popularnego prezentu dla dzieci w wieku od ośmiu lat, odrzutowiec X-Menów do zbudowania to idealne rozwiązanie, dzięki któremu wcielą się w superbohaterów.
 
@@ -7644,11 +11688,26 @@ Ten niesamowity zestaw z samolotem wzorowanym na odrzutowcu X-Menów z serialu X
 
 • Gotowy 359-elementowy model ma 30 cm długości
 
+**Galeria:**
+
+- 76281-1: https://a.allegroimg.com/original/29e97f/7eb2dedd4b48a28e14678f6800c1
+
 ---
 
-## 76282 — Klocki Lego Marvel 76282 Rocket i Mały Groot Strażnicy Galaktyki 566 el.
+## 76282 — Rakieta i mały Groot
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702017590325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76282 |
+| Nazwa angielska | Rocket & Baby Groot |
+| Nazwa polska | Rakieta i mały Groot |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 566 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590325 |
 
 Przenieś akcję z filmów Marvela na wyższy poziom dzięki zestawowi LEGO® Marvel Rocketa i Małego Groota (76282). Ta zabawka dla chłopców i dziewczynek w wieku od 10 lat jest ruchoma, zawiera realistyczne szczegóły i ma 22 cm wysokości. Ta figurka Rocketa to coś więcej niż zwykła zabawka. To realistyczne odtworzenie kultowej postaci ze Strażników Galaktyki Marvela.
  
@@ -7670,11 +11729,26 @@ Ruchomy model do zbudowania odzwierciedla buntowniczą postawę bohatera i jego 
  
 • Ten 566-elementowy, ruchomy model ma 22 cm wysokości
 
+**Galeria:**
+
+- 76282-1: https://a.allegroimg.com/original/292159/a3ff029a4e009c5468e05d3ea221
+
 ---
 
-## 76284 — Zestaw klocków Lego Marvel Heroes Figurka Zielonego Goblina 76284
+## 76284 — Figurka do zbudowania: Zielony Goblin
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 115.99 zł · EAN: 05702017590332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76284 |
+| Nazwa angielska | Green Goblin Construction Figure |
+| Nazwa polska | Figurka do zbudowania: Zielony Goblin |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590332 |
 
 Witamy,
 
@@ -7700,42 +11774,52 @@ Ta kolekcjonerska zabawka przedstawiająca złoczyńcę Marvela gwarantuje świe
  
 • Figurka Zielonego Goblina z tego 471-elementowego zestawu ma 24 cm wysokości
 
----
+**Galeria:**
 
-## 76285 — Lego Marvel Maska Spider-Mana 76285
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 309.94 zł · EAN: 05702017602097 · in stock*
-
-**LEGO Marvel Maska Spider-Mana 76285**
-
-Dorośli fani Marvela mogą pokazać swoją pasję do Spider-Mana, budując tę kolekcjonerską maskę Spider-Mana LEGO® Marvel (76285). Ten realistyczny i szczegółowy model do zbudowania oddaje styl kultowego superbohatera, jednej z najbardziej rozpoznawalnych postaci w uniwersum Marvela.
-
-Model do zbudowania składający się z 487 elementów ma 19 cm wzrostu i jest umieszczony na solidnej podstawce z tabliczką. Możesz go zbudować z pomocą cyfrowych instrukcji, które znajdziesz w aplikacji LEGO Builder. Seria LEGO Marvel dla dorosłych zapewnia satysfakcjonujące doświadczenie podczas budowania i na długo po ustawieniu gotowego modelu na półce
-
-- Maska Spider-Mana LEGO® Marvel — ta realistyczna i szczegółowa maska kultowego człowieka-pająka zapewni dorosłym fanom Marvela satysfakcjonujące doświadczenie podczas budowania
-- Zbuduj i pochwal się — maska Spider-Mana do zbudowania ma podstawkę z tabliczką z napisem
-- Satysfakcjonujące wyzwanie — budując ten wciągający projekt, konstruktorzy mogą się odprężyć, odtwarzając postać z komiksów Marvela
-- Kolekcjonerski model LEGO® Marvel — ten zestaw konstrukcyjny dla doświadczonych modelarzy można ustawić na półce, gdzie każdy będzie go podziwiał
-- Superbohaterski prezent LEGO® — maska Spider-Mana to świetny prezent dla miłośników filmów Marvela, dla mamy lub taty, albo po prostu dla siebie
-- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
-- Inne zestawy dla dorosłych — ten model do zbudowania i postawienia na półce należy do serii zestawów LEGO® dla dorosłych, zaprojektowanych z myślą o satysfakcjonującym wyzwaniu i odprężeniu dla konstruktorów
-- 487-elementowy zestaw — gotowa maska Spider-Mana LEGO® Marvel z podstawką i tabliczką ma 19 cm wysokości
+- 76284-1: https://a.allegroimg.com/original/05fcf3/a2da86f54905826b2266957b7ad4
 
 ---
 
-## 76286 — Klocki Lego Marvel 76286 Strażnicy Galaktyki Milano 2090 elementów
+## 76286 — Marvel 76286 Strażnicy Galaktyki: Mediolan
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1420.00 zł · EAN: 05702017590097 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76286 |
+| Nazwa angielska | The Milano Spaceship |
+| Nazwa polska | Marvel 76286 Strażnicy Galaktyki: Mediolan |
+| Seria | Marvel |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2090 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590097 |
 
 Strażnicy Galaktyki: Milano
 
 Marvel Strażnicy Galaktyki: Milano LEGO® Marvel Strażnicy Galaktyki: Milano LEGO® Marvel Strażnicy Galaktyki: Milano 76286 Zestaw LEGO® Marvel Strażnicy Galaktyki ze szczegółowym modelem statku kosmicznego to świetny pomysł na prezent dla młodych superbohaterów. Szczegółowy statek kosmiczny z minifigurkami Avengersów LEGO® Marvel Strażnicy Galaktyki: Milano (76286) to zestaw do zbudowania dla 12-letnich i starszych fanów Avengersów. Zawiera realistyczne detale z kultowego filmu i zapewnia młodym superbohaterom nieziemską zabawę i możliwości eksponowania dzieła.Zestaw jest inspirowany statkiem kosmicznym z pierwszego filmu Strażnicy Galaktyki. Ma sześć regulowanych skrzydeł i cztery ruchome tylne dopalacze. W zestawie są minifigurki Star-Lorda, Gamory, Draxa i Rocketa, a także figurka Małego Groota. Statek można ustawić na podstawce, aby wyeksponować go na półce. Aplikacja LEGO Builder oferuje cyfrowe narzędzia do powiększania i obracania modeli w 3D. Mknij przez galaktykę na pokładzie statku kosmicznego Strażników Galaktyki Milano! Wyposażono go w sześć regulowanych skrzydeł i cztery ruchome tylne dopalacze. W kabinie załogi urzęduje Star-Lord, Gamora i Rocket, a z tyłu odpoczywają sobie Drax i Mały Groot, słuchając magnetofonu — bo każdy bohater potrzebuje fajnego podkładu muzycznego! • Statek kosmiczny do zbudowania — LEGO® Marvel Strażnicy Galaktyki: Milano to zestaw dla dzieci w wieku od 12 lat, które mają już doświadczenie w budowaniu z klocków LEGO • Zestaw z minifigurkami Avengersów — ten statek kosmiczny do zbudowania zawiera minifigurki Star-Lorda, Gamory, Draxa i Rocketa, a także figurkę Małego Groota. W zestawie jest podstawka do ekspozycji • Statek Strażników Galaktyki pełen detali — dzięki trzem parom regulowanych skrzydeł i czterem ruchomym tylnym dopalaczom ten zestaw ze statkiem kosmicznym LEGO® Marvel umożliwia dzieciom odgrywanie realistycznych scen z Avengersami w roli głównej •
 
+**Galeria:**
+
+- 76286-1: https://a.allegroimg.com/original/05e2cc/39d0d92e4f35bee67204c3d4f6ed
+
 ---
 
-## 76287 — Lego Marvel Iron Man Z Motocyklem I Hulk 76287 Dla Dziecka 4+
+## 76287 — Marvel 76287 Iron Man z wioślarzem i Hulkiem
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 53.99 zł · EAN: 05702017590103 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76287 |
+| Nazwa angielska | Iron Man with Bike and The Hulk |
+| Nazwa polska | Marvel 76287 Iron Man z wioślarzem i Hulkiem |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 5702017590103 |
 
 LEGO(R) SUPER HEROES 76287 Iron Man i Hulk
 
@@ -7762,11 +11846,26 @@ Zestawy dla najmłodszych zestawy LEGO(R) 4+ wprowadzą Twoje dziecko w świat u
  
 Zestaw dla czterolatków i starszych dzieci z 68 elementami motocykl ma 4 cm wysokości, 9 cm długości i 3 cm szerokości, a dom ma 6 cm wysokości, 6 cm szerokości i 3 cm głębokości
 
+**Galeria:**
+
+- 76287-1: https://a.allegroimg.com/original/111746/a1b2e25d47de8fd98cc9fe46222f
+
 ---
 
-## 76288 — Lego Marvel Avengers 76288 Iron Man I Iron Legion Vs Żołnierz Hydry
+## 76288 — Marvel 76288 Iron Man i Żelazny Legion wady. Żołnierz Hydry
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702017590110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76288 |
+| Nazwa angielska | Iron Man & Iron Legion vs. Hydra Soldier |
+| Nazwa polska | Marvel 76288 Iron Man i Żelazny Legion wady. Żołnierz Hydry |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702017590110 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -7793,11 +11892,27 @@ Zestaw zawiera cztery minifigurki: Iron Mana, dwóch członków Iron Legion i ż
 - Kolekcjonerskie zestawy z superbohaterami — zestawy LEGO® Marvel zapewniają młodym superbohaterom nieograniczone możliwości budowania i twórczej zabawy
 - Zestaw ze 135 elementami — zestaw LEGO® Marvel Iron Man i Iron Legion kontra żołnierz Hydry ma 7 cm wysokości, 12 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 76288-1: https://a.allegroimg.com/original/0533ab/dee64e5940d2b1e5d1ca7c4e3760
+
 ---
 
-## 76289 — Lego Marvel Heroes Thor kontra figurka konstrukcyjna Surtura 76289
+## 76289 — Thor kontra figurka konstrukcyjna Surtura
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 128.98 zł · EAN: 05702017590127 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76289 |
+| Nazwa angielska | Thor vs. Surtur Construction Figure |
+| Nazwa polska | Thor kontra figurka konstrukcyjna Surtura |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 245 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590127 |
 
 **LEGO Marvel Super Heroes Thor kontra figurka konstrukcyjna Surtura 76289**
 
@@ -7821,11 +11936,27 @@ Zestaw zawiera trzy minifigurki: Thora i dwóch ognistych demonów. Podobnie jak
 
 • 245-elementowy zestaw zawiera figurkę do zbudowania o wysokości 18 cm
 
+**Galeria:**
+
+- 76289-1: https://a.allegroimg.com/original/117979/ea595a7a4457a07fccf9fcb626cf
+
 ---
 
-## 76290 — Lego 76290 Heroes Avengers kontra Lewiatan
+## 76290 — Marvel 76290 Avengers kontra. Lewiatan
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 259.45 zł · EAN: 05702017590134 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76290 |
+| Nazwa angielska | The Avengers vs. The Leviathan |
+| Nazwa polska | Marvel 76290 Avengers kontra. Lewiatan |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590134 |
 
 LEGO(R) SUPER HEROES 76290 Avengers kontra Lewiatan
 
@@ -7852,11 +11983,26 @@ Jeszcze większe możliwości zabawy z superbohaterami czekają w całej serii z
  
 347-elementowy zestaw z Lewiatanem ma 27 cm długości
 
+**Galeria:**
+
+- 76290-1: https://a.allegroimg.com/original/11cf41/52b5b3df4252b0f00f375f944c7f
+
 ---
 
-## 76291 — Lego Klocki Marvel Heroes 76291 Avengers: Czas Ultrona
+## 76291 — Marvel 76291 Avengers: Czas Ultrona
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 364.99 zł · EAN: 05702017590141 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76291 |
+| Nazwa angielska | The Avengers Assemble: Age of Ultron |
+| Nazwa polska | Marvel 76291 Avengers: Czas Ultrona |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 613 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590141 |
 
 ✅ **Avengersi kontra Hydra** – zestaw pozwala odtworzyć pełną akcji bitwę inspirowaną filmem „Avengers: Czas Ultrona”.
 
@@ -7971,11 +12117,26 @@ Tak. Aplikacja pozwala między innymi **obracać modele w 3D, przybliżać konst
 - **Wsparcie aplikacji LEGO Builder:** tak
 - **Przeznaczenie:** budowanie, zabawa i ekspozycja
 
+**Galeria:**
+
+- 76291-1: https://a.allegroimg.com/original/0526c2/e50e35cd46a1b2567e70f340c450
+
 ---
 
-## 76292 — Lego Marvel 76292 Kapitan Ameryka Kontra Czerwony Hulk zestaw klocków
+## 76292 — Pojedynek: Kapitan Ameryka vs. Czerwony Hulk
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 215.88 zł · EAN: 05702017598857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76292 |
+| Nazwa angielska | Captain America vs. Red Hulk Battle |
+| Nazwa polska | Pojedynek: Kapitan Ameryka vs. Czerwony Hulk |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 18 cm |
+| EAN | 5702017598857 |
 
 **PRODUCENT**: LEGO
 
@@ -7998,38 +12159,27 @@ Ten pojazd do zbudowania jest idealny do samodzielnego odgrywania ról. Aby zape
 - Seria LEGO® Marvel — rozbudowana seria zabawek konstrukcyjnych i figurek LEGO® Marvel zapewnia dzieciom nieskończenie wiele możliwości zabawy
 - Poręczny odrzutowiec — odrzutowiec w tym 223-elementowym zestawie ma 4 cm wysokości, 19 cm długości i 18 cm szerokości
 
----
+**Galeria:**
 
-## 76294 — Lego 76294 X-Men: Instytut Xaviera
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1349.99 zł · EAN: 05702017590158 · in stock*
-
-LEGO 76294 X-Men: Instytut Xaviera
-
-Klocki **LEGO 76294 X-Men: Instytut Xaviera** to spektakularny zestaw dla fanów Marvela, który pozwala odtworzyć kultowy **Instytut Xaviera dla Utalentowanej Młodzieży** – siedzibę drużyny X-Men. Konstrukcja zachwyca szczegółami, prezentując wielopiętrową rezydencję z charakterystyczną architekturą i bogatym wnętrzem pełnym nawiązań do komiksów oraz seriali. Znajdziemy tu m.in. pomieszczenia treningowe, laboratorium, gabinet Profesora X, a także sekcje mieszkalne, dzięki czemu zestaw oferuje mnóstwo możliwości zabawy i ekspozycji.
-
-W komplecie znajdują się minifigurki kultowych bohaterów, takich jak **Professor X, Cyclops, Wolverine, Storm, Beast** i inni członkowie drużyny X-Men. Zestaw wyposażono także w liczne akcesoria – elementy technologiczne, sprzęt treningowy czy symbole drużyny – które pozwalają odgrywać epickie sceny oraz tworzyć własne historie z uniwersum mutantów.
-
-To idealna propozycja zarówno dla kolekcjonerów, jak i młodszych fanów Marvela, którzy chcą rozbudować swoje superbohaterskie zbiory.
-
-**Parametry:**
-
-- **Seria:** LEGO Marvel
-- **Model:** 76294 – X-Men: Instytut Xaviera
-- **Motyw:** Kultowa siedziba drużyny X-Men
-- **Minifigurki:** Professor X, Wolverine, Cyclops, Storm, Beast i inni (zależnie od zestawu)
-- **Konstrukcja:** Wielopiętrowy budynek z pomieszczeniami tematycznymi
-- **Funkcje:** Otwierane sekcje, szczegółowe wnętrza, liczne elementy interaktywne
-- **Przeznaczenie:** Zabawa + kolekcjonowanie
-- **Rekomendowany wiek:** Dla fanów Marvela i LEGO
-- **Akcesoria:** Sprzęt treningowy, elementy technologiczne, dekoracyjne detale
-- **Zastosowanie:** Kreatywna zabawa, ekspozycja, uzupełnienie kolekcji Marvel
+- 76292-1: https://a.allegroimg.com/original/1169a5/922cac0e4c41b448516acbb2c4e5
 
 ---
 
-## 76295 — Lego Marvel Heroes 76295 Lotniskowiec Avengersów Outlet 7/10
+## 76295 — Lotniskowiec Avengersów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 284.99 zł · EAN: 05702017598864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76295 |
+| Nazwa angielska | The Avengers Helicarrier |
+| Nazwa polska | Lotniskowiec Avengersów |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 509 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 22 cm |
+| EAN | 5702017598864 |
 
 OUTLET!!! Spłaszczone/przetarte/wgniecione/porysowane pudełko. Stan 7/10
 
@@ -8063,11 +12213,26 @@ Ten zestaw dla dorosłych fanów superbohaterów to niezwykle szczegółowa repl
  
 - Satysfakcjonujący projekt i atrakcyjna ozdoba — cały zestaw zawiera **509 elementów** i ma** 18 cm wysokości, 33 cm długości i 22 cm szerokości**
 
+**Galeria:**
+
+- 76295-1: https://a.allegroimg.com/original/119c9c/a9d371e84daaa3fb8440aa7b5e7e
+
 ---
 
-## 76296 — Klocki Lego Marvel Heroes Figurka nowego Kapitana Ameryki
+## 76296 — Figurka nowego Kapitana Ameryki
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017600307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76296 |
+| Nazwa angielska | New Captain America Construction Figure |
+| Nazwa polska | Figurka nowego Kapitana Ameryki |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600307 |
 
 Klocki LEGO Marvel Super Heroes - Figurka nowego Kapitana Ameryki
 
@@ -8109,149 +12274,26 @@ Specyfikacja techniczna w pigułce:
 - **Cechy szczególne:** W pełni ruchome stawy, regulowane skrzydła, kultowa tarcza, dron Redwing w zestawie.
 - **Wysokość figurki:** Ok. 25 cm (idealny rozmiar do zabawy i postawienia na półce).
 
----
+**Galeria:**
 
-## 76297 — Lego Marvel 76297 Tańczący Groot Strażnicy Galaktyki 459 el. 10+
-
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 156.99 zł · EAN: 05702017601076 · in stock*
-
-🌱🎵 LEGO Marvel 76297 – Tańczący Groot
-
-**I am Groot!** 🌱 Zbuduj jedną z najbardziej sympatycznych postaci Marvela i wpraw ją w ruch! **LEGO Marvel 76297 Tańczący Groot** to interaktywny model inspirowany bohaterem „Strażników Galaktyki”, który naprawdę zaczyna tańczyć po przekręceniu specjalnego uchwytu.
-
-Ruchoma głowa i ramiona, słuchawki, okulary przeciwsłoneczne oraz wymienne tabliczki sprawiają, że Groot może zmieniać wygląd i świetnie prezentuje się również jako dekoracja pokoju fana Marvela.
-
-⭐ Dlaczego warto?
-
-**🕺 Groot naprawdę tańczy!**
-
-Największą atrakcją zestawu jest specjalny mechanizm ukryty w doniczce. Wystarczy **przekręcić uchwyt z tyłu**, aby połączone elementy Groota zaczęły się poruszać i tańczyć.
-
-**🌱 Ruchoma konstrukcja**
-
-Groot ma **obracaną głowę oraz ruchome ramiona**, dzięki czemu można ustawiać go w różnych pozycjach i zmieniać charakter ekspozycji.
-
-**🎧 Słuchawki i okulary**
-
-W zestawie znajdują się zabawne akcesoria do personalizacji Groota, w tym **słuchawki, okulary przeciwsłoneczne oraz dodatkowe liście**.
-
-**🪧 3 wymienne tabliczki**
-
-Doniczkę można spersonalizować za pomocą jednej z **trzech różnych tabliczek z napisami**, w tym wariantu nawiązującego do serialu „Ja jestem Groot”.
-
-**🪴 Schowek w doniczce**
-
-Niepotrzebne w danym momencie dodatki nie muszą się zgubić – w podstawie znajduje się **wbudowany schowek na akcesoria**.
-
-**🧱 459 elementów**
-
-Zestaw składa się z **459 klocków**, oferując ciekawy projekt konstrukcyjny dla dzieci od 10 lat oraz starszych fanów Marvela.
-
-**📱 LEGO Builder**
-
-Zestaw współpracuje z aplikacją LEGO Builder, w której można powiększać i obracać model w 3D oraz śledzić postępy podczas budowania.
-
-**🖼️ Świetny model na półkę**
-
-Po zakończeniu budowania Groot może zostać efektowną dekoracją biurka, pokoju gracza lub kolekcji LEGO Marvel.
-
-🎯 Idealny dla
-
-✅ fanów Marvela
-
-✅ miłośników Groota
-
-✅ fanów Strażników Galaktyki
-
-✅ dzieci od 10. roku życia
-
-✅ kolekcjonerów LEGO Marvel
-
-✅ osób lubiących ruchome modele LEGO
-
-✅ dekoracji pokoju lub biurka
-
-✅ na prezent urodzinowy lub świąteczny
-
-📋 Specyfikacja
-
-🔹 **Marka:** LEGO
-
-🔹 **Seria:** LEGO Marvel
-
-🔹 **Nazwa:** Tańczący Groot
-
-🔹 **Numer zestawu:** 76297
-
-🔹 **EAN (GTIN):** **5702017601076**
-
-🔹 **UPC:** 673419394369
-
-🔹 **Liczba elementów:** **459**
-
-🔹 **Wiek:** **10+**
-
-🔹 **Postać:** Groot
-
-🔹 **Uniwersum:** Marvel / Strażnicy Galaktyki
-
-🔹 **Funkcja tańca:** tak
-
-🔹 **Ruchoma głowa:** tak
-
-🔹 **Ruchome ramiona:** tak
-
-🔹 **Schowek na akcesoria:** tak
-
-🔹 **Słuchawki:** tak
-
-🔹 **Okulary przeciwsłoneczne:** tak
-
-🔹 **Dodatkowe liście:** tak
-
-🔹 **Liczba tabliczek:** 3
-
-🔹 **Wysokość gotowego modelu:** ponad **22 cm**
-
-🔹 **Aplikacja LEGO Builder:** tak
-
-🔹 **Baterie:** nie są wymagane
-
-📦 Zawartość zestawu
-
-✔️ 459 elementów LEGO
-
-✔️ Groot do zbudowania
-
-✔️ doniczka z mechanizmem tańca
-
-✔️ słuchawki
-
-✔️ okulary przeciwsłoneczne
-
-✔️ dodatkowe liście
-
-✔️ 3 wymienne tabliczki
-
-✔️ wbudowany schowek na akcesoria
-
-✔️ instrukcja budowania
-
-✔️ dostęp do instrukcji LEGO Builder
-
-✔️ oryginalne opakowanie LEGO
-
-✨ Groot, który nie zamierza stać spokojnie!
-
-Ten model daje więcej możliwości niż klasyczna figurka do postawienia na półce. 🌱🎶 Załóż Grootowi słuchawki i okulary, wybierz tabliczkę na doniczkę, a następnie przekręć uchwyt i zobacz, jak cała postać zaczyna się poruszać.
-
-🚀 **Świetne połączenie budowania, zabawy i efektownej dekoracji dla każdego fana Groota i Strażników Galaktyki!**
+- 76296-1: https://a.allegroimg.com/original/058424/acc691ca4566a7f57980c108c2c4
 
 ---
 
-## 76298 — Lego Heroes Figurka Spider-mana Do Zbudowania (76298) (klocki)
+## 76298 — Marvel 76298 Figurka do zbudowania: Żelazny Spider-Man
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 142.39 zł · EAN: 05702017590165 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76298 |
+| Nazwa angielska | Iron Spider-Man Construction Figure |
+| Nazwa polska | Marvel 76298 Figurka do zbudowania: Żelazny Spider-Man |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 303 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590165 |
 
 LEGO Super Heroes Figurka Spider-mana do zbudowania (76298) [KLOCKI]
 
@@ -8283,11 +12325,26 @@ Lego SUPER HEROES 76298 L/50076298.
 
 **SKU:** 2842549
 
+**Galeria:**
+
+- 76298-1: https://a.allegroimg.com/original/11c2f5/d4b99ae745beabfdb1782ea11a9b
+
 ---
 
-## 76300 — 76300 Lego Heroes 76300 Batman Arkham Asylum
+## 76300 — Arkham Asylum
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1347.77 zł · EAN: 05702017824192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76300 |
+| Nazwa angielska | Arkham Asylum |
+| Nazwa polska | Arkham Asylum |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2953 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 25 cm × gł. 26 cm |
+| EAN | 5702017824192 |
 
 LEGO® DC Batman™ Arkham Asylum™ (76300) to kolekcjonerski zestaw dla dorosłych fanów superbohaterów. Ten model legendarnej placówki jest pełen autentycznych detali, fajnych funkcji i kultowych postaci. Zestaw idealnie sprawdzi się na prezent dla mężczyzn i kobiet lubiących gadżety z Batmanem.
 
@@ -8304,21 +12361,51 @@ Seria zestawów LEGO dla dorosłych zapewnia konstruktorom wciągające i satysf
 - Inne zestawy dla dorosłych — ten model do zbudowania należy do serii zestawów LEGO® dla dorosłych (sprzedawanych osobno), zaprojektowanych z myślą o satysfakcjonującym wyzwaniu i odprężeniu dla konstruktorów
 - Model Arkham Asylum™ z 2953 elementami — model ma 32 cm wysokości, 25 cm szerokości i 26 cm głębokości
 
+**Galeria:**
+
+- 76300-1: https://a.allegroimg.com/original/11135d/dfbbccf448c4a6a1c2e7bd20c533
+
 ---
 
-## 76301 — Lego Heroes 76301 Batman i Batmobil kontra Pan Freeze Torba Lego
+## 76301 — Batman i Batmobil kontra Pan Freeze
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017817750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76301 |
+| Nazwa angielska | Batman & Batmobile vs. Mr. Freeze |
+| Nazwa polska | Batman i Batmobil kontra Pan Freeze |
+| Seria | Super Heroes |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817750 |
 
 Batman™ i Batmobil kontra Mr. Freeze™
 
 DC Batman™ Batman™ i Batmobil kontra Mr. Freeze™ LEGO® DC Batman™: Batman™ i Batmobil kontra Mr. Freeze™ LEGO® DC Batman™: Batman™ i Batmobil kontra Mr. Freeze™ 76301 Zestaw z pojazdem Batman™ i Batmobil kontra Mr. Freeze™ idealnie sprawdzi się jako upominek dla dzieci w wieku od czterech lat. Batmobil™ na prezent dla małych fanów Batmana™ Batman™ i Batmobil kontra Mr. Freeze™ (76301) to kreatywny zestaw LEGO® stworzony, aby pomóc czterolatkom i starszym dzieciom rozwijać umiejętności budowania podczas odgrywania przygód z superbohaterami. Zestaw LEGO DC jest pełen fajnych akcesoriów, które urozmaicają zabawę małych fanów Batmana, i fajnych pojazdów.Zestaw zawiera minifigurki Mr. Freeze’a i Batmana, a także Batmobil do zbudowania, w którym jest miejsce na minifigurkę Batmana. Dzieci mogą wystrzeliwać elementy imitujące lód z wyrzutni z otworem na górze, gdzie można schować miotacz lodu Mr. Freeze’a lub lody. Do Batmobilu można przyczepić dwa lodowe diamenty, dzięki czemu dzieci mogą bawić się w \"zamrażanie\" pojazdu. W zestawie znajduje się kolorowa, ilustrowana broszura z intuicyjnymi instrukcjami. Oddzielne torebki z klockami i duży klocek startowy sprawiają, że budowanie jest szybkie i przyjemne.Zestawy LEGO dla dzieci w wieku od czterech lat to świetny sposób na wspólne budowanie rodziców i dzieci. Batmobil™ ściga Mr. Freeze’a™, który ukradł diament. Batman™ rzuca Batarangiem™, aby zatrzymać złoczyńcę, ale ten odpłaca się atakiem miotaczem lodu i zamraża Batmobil! Czy Batmanowi uda się rozmrozić pojazd i doprowadzić wroga przed oblicze sprawiedliwości? Czas to sprawdzić!
 
+**Galeria:**
+
+- 76301-1: https://a.allegroimg.com/original/05418a/a16268ad4ac5916d1a973c164867
+
 ---
 
-## 76302 — Klocki Lego DC 76302 Mech Supermana kontra Lex Luthor Superman 6+
+## 76302 — Mech Superman kontra Lex Luthor
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 52.16 zł · EAN: 05702017817767 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76302 |
+| Nazwa angielska | Superman Mech vs. Lex Luthor |
+| Nazwa polska | Mech Superman kontra Lex Luthor |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817767 |
 
 Klocki LEGO DC 76302 Mech Supermana kontra Lex Luthor Superman 
 
@@ -8344,11 +12431,26 @@ Ten zestaw LEGO DC Superman zawiera dwie minifigurki: Supermana z materiałową 
 
 - Zestaw ze 120 elementami — mech Supermana™ do zbudowania ma 11 cm wysokości i zapewnia dużo radości każdemu młodemu fanowi akcji
 
+**Galeria:**
+
+- 76302-1: https://a.allegroimg.com/original/05e558/67ff84d54253983cf86208144a94
+
 ---
 
-## 76303 — Lego DC Batman: Tumbler Batmana Vs Dwie Twarze i Joker 76303
+## 76303 — Kubek Batman kontra Dwie Twarze i Joker
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 184.99 zł · EAN: 05702017817774 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76303 |
+| Nazwa angielska | Batman Tumbler vs. Two-Face & The Joker |
+| Nazwa polska | Kubek Batman kontra Dwie Twarze i Joker |
+| Seria | Super Heroes |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 429 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817774 |
 
 LEGO DC Batman: Tumbler Batmana VS Dwie Twarze i Joker 76303
 
@@ -8356,11 +12458,26 @@ LEGO DC Batman: Tumbler Batmana VS Dwie Twarze i Joker 76303
 
 DC Batman™ Tumbler Batmana™ kontra Dwie Twarze i Joker™ LEGO® DC Batman™: Tumbler Batmana™ kontra Dwie Twarze i Joker™ LEGO® DC Batman™: Tumbler Batmana™ kontra Dwie Twarze i Joker™ Wręcz dzieciom zestaw Tumbler Batmana™ kontra Dwie Twarze i Joker™, aby mogły zbudować ten kultowy cud techniki, który uzupełniają trzy minifigurki. Zabawka z kultowym tumblerem Batmobilem™ Tumbler Batmana™ kontra Dwie Twarze i Joker™ (76303) to świetna zabawka dla małych miłośników Batmana, pojazdów, kreatywnych zestawów LEGO® i superbohaterów. Ośmiolatki i starsze dzieci z chęcią zbudują kultowy pojazd Batmobil™ znany z trylogii o Mrocznym Rycerzu.Ten zestaw LEGO Batman zawiera trzy minifigurki znanych postaci: Batmana uzbrojonego w Batarang™, Jokera trzymającego plik banknotów i Dwóch Twarzy z charakterystyczną srebrną monetą. Tumbler Batmobil otwiera się, odsłaniając panel sterowania i kokpit z miejscem dla Batmana. W rurze wydechowej znajduje się element z płomieniem, a projektor z batsygnałem (nie świeci) przechyla się i obraca o 360 stopni w obu kierunkach. Dodatkową cyfrową zabawę oferuje intuicyjna aplikacja LEGO Builder, w której można obracać modele w 3D i śledzić swoje postępy. Joker™ i Dwie Twarze™ połączyli siły i mają zamiar rozpętać chaos w mieście Gotham! Ustaw batsygnał w odpowiedniej pozycji, aby wezwać pomoc. Batman™ łapie swój Batarang™ i wskakuje do kokpitu Tumblera™. Sprawdza panel sterowania, aktywuje miotacze klocków i pędzi do akcji. Co będzie dalej? To Ty o tym zadecydujesz!
 
+**Galeria:**
+
+- 76303-1: https://a.allegroimg.com/original/051452/df2b9aca47b1aa4b47ecc695cf14
+
 ---
 
-## 76304 — Klocki Lego Heroes 76304 DC Heroes Batmobil Batman Forever
+## 76304 — Superbohaterowie 76304 Batman Forever Batmobile
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702017817781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76304 |
+| Nazwa angielska | Batman Forever Batmobile |
+| Nazwa polska | Superbohaterowie 76304 Batman Forever Batmobile |
+| Seria | Super Heroes |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 909 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 12 cm |
+| EAN | 5702017817781 |
 
 LEGO DC Super Heroes
 
@@ -8405,11 +12522,27 @@ Specyfikacja zestawu:
 
 - **Płeć dziecka: **chłopcy
 
+**Galeria:**
+
+- 76304-1: https://a.allegroimg.com/original/1128b3/030b5e8d484781a1a2239c20eb60
+
 ---
 
-## 76307 — Klocki Lego 76307 Marvel Mech Iron Mana Kontra Ultron Zestaw
+## 76307 — Mech Iron Mana kontra Ultron
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 69.00 zł · EAN: 04894041730325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76307 |
+| Nazwa angielska | Iron Man Mech vs. Ultron |
+| Nazwa polska | Mech Iron Mana kontra Ultron |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4894041730325, 5702017817804 |
 
 KLOCKI LEGO 76307 MARVEL MECH IRON MANA KONTRA ULTRON ZESTAW PREZENT
 
@@ -8440,11 +12573,28 @@ Ten zestaw LEGO Marvel z mechem
 
 **• ✅Zestaw zawiera 101 elementów i ma 12 cm wysokości**
 
+**Galeria:**
+
+- 76307-1: https://a.allegroimg.com/original/117c21/9588d31b48b9a662f641e8016d51
+- 76307-2: https://a.allegroimg.com/original/05b449/ccf3e5984342a6c392c39d51e50b
+
 ---
 
-## 76308 — Lego Heroes 76308 Mech Spider-Mana kontra Anty-Venom
+## 76308 — Mech Spider-Mana kontra Anti-Venom
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 33.74 zł · EAN: 05702017817811 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76308 |
+| Nazwa angielska | Spider-Man Mech vs. Anti-Venom |
+| Nazwa polska | Mech Spider-Mana kontra Anti-Venom |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817811 |
 
 LEGO Super Heroes 76308 Mech Spider-Mana kontra Anty-Venom
 
@@ -8469,11 +12619,27 @@ Marvel Mech Spider-Mana kontra Anti-Venom LEGO® Marvel Mech Spider-Mana kontra 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017817811
 
+**Galeria:**
+
+- 76308-1: https://a.allegroimg.com/original/11b527/df1c23ac42af8985b129f2c63c1f
+
 ---
 
-## 76309 — Lego Marvel Heroes 76309 Spider-Man kontra muscle car Venoma
+## 76309 — Spider-Man kontra muscle car Venoma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 85.60 zł · EAN: 05702017817828 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76309 |
+| Nazwa angielska | Spider-Man vs. Venom Muscle Car |
+| Nazwa polska | Spider-Man kontra muscle car Venoma |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017817828 |
 
 LEGO Marvel Super Heroes 76309 - Spider-Man kontra muscle car Venoma
 
@@ -8499,11 +12665,27 @@ Zabawka z samochodem Venoma zawiera trzy minifigurki: Spider-Mana z wyrzutnią p
 
 - Zestaw z 254 elementami — venomowy samochód ma 4 cm wysokości, 20 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 76309-1: https://a.allegroimg.com/original/051f6b/9436dd6d4ea392087ec957281330
+
 ---
 
-## 76310 — Lego 76310 Marvel Heroes Auto Iron Mana i Czarna Pantera vs Hulk
+## 76310 — Auto Iron Mana i Czarna Pantera kontra Czerwony Hulk
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 134.95 zł · EAN: 05702017817835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76310 |
+| Nazwa angielska | Iron Man Car & Black Panther vs. Red Hulk |
+| Nazwa polska | Auto Iron Mana i Czarna Pantera kontra Czerwony Hulk |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017817835 |
 
 LEGO® Marvel Super Heroes 76310 - Auto Iron Mana i Czarna Pantera kontra Czerwony Hulk
  
@@ -8523,31 +12705,79 @@ Zestaw zawiera minifigurki Iron Mana, Czarnej Pantery i Czerwonego Hulka, a tak�
 - Zabawki dla małych superbohaterów — szeroka seria zestawów konstrukcyjnych LEGO® Marvel otwiera przed dziećmi stale zmieniający się świat przygód superbohaterów 
 - Zestaw z 295 elementami — samochód Iron Mana ma 4 cm wysokości, 15 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 76310-1: https://a.allegroimg.com/original/05db83/5d35c7a34be19798a16a7a7b31cf
+
 ---
 
-## 76312 — 76312 Lego Heroes Monster truck Hulka kontra Thanos
+## 76312 — Monster truck Hulka kontra Thanos
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 105.77 zł · EAN: 05702017817859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76312 |
+| Nazwa angielska | The Hulk Truck vs. Thanos |
+| Nazwa polska | Monster truck Hulka kontra Thanos |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 229 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm |
+| EAN | 5702017817859 |
 
 Monster truck Hulka kontra Thanos
 
 Marvel The Hulk Truck vs. Thanos LEGO® ǀ Marvel Monster truck Hulka kontra Thanos LEGO® ǀ Marvel Monster truck Hulka kontra Thanos 76312 LEGO® ǀ Marvel Monster truck Hulka kontra Thanos zawiera monster trucka z amortyzatorami do zbudowania. To świetny pomysł na prezent dla dzieci. Monster truck LEGO® ǀ Marvel z minifigurkami Hulka i Thanosa LEGO® ǀ Marvel Monster truck Hulka kontra Thanos (76312) to zestaw zawierający monster trucka Hulka i dwie minifigurki superbohaterów. Wspaniale się sprawdzi jako prezent dla chłopców i dziewczynek w wieku od siedmiu lat, fanów filmów o Avengersach Marvela, dużych samochodów i zestawów LEGO.Potężny monster truck LEGO ǀ Marvel do zbudowania zawiera minifigurkę Hulka ze zdejmowanym hełmem i minifigurkę Thanosa z Tesseraktem i Rękawicą Nieskończoności. Pojazd superbohatera ma podnoszoną kabinę, zapewniającą dostęp do fotela kierowcy, z miejscem na minifigurkę Hulka. Zewnętrzną część zdobi napis \"Hulk Smash!\" (Hulk rozwala!) i grafiki z twarzą Hulka. Dzięki dużym obrotowym kołom, solidnej konstrukcji i amortyzującemu zawieszeniu monster truck poradzi sobie nawet z najtrudniejszymi misjami. Dodatkową cyfrową zabawę zapewnia intuicyjna aplikacja LEGO Builder, w której można powiększać, obracać modele w 3D i śledzić swoje postępy. Zestaw zawiera 231 elementów. Przygotuj się na rozwałkę Hulka, ale tym razem na kołach! Otwórz kabinę monster trucka Hulka i posadź zielonego superbohatera za kierownicą. Czas rozprawić się z Thanosem! Dzięki ogromnym kołom i amortyzowanemu zawieszeniu nic nie stanie na przeszkodzie hulkowemu pojazdowi! • Samochód Hulka z wielkimi kołami — LEGO® ǀ Marvel Monster truck Hulka kontra Thanos to zestaw z superbohaterskim pojazdem dla chłopców i dziewczynek w wieku od siedmiu lat • Minifigurki LEGO® ǀ Marvel — zestaw zawiera minifigurkę Hulka ze zdejmowanym hełmem oraz minifigurkę Thanosa z Tesseraktem i Rękawicą Nieskończoności • Terenowy monster truck do zbudowania — pojazd superbohatera ma fotel kierowcy z miejscem na minifigurkę Hulka i duże, obrotowe koła z amortyzowanym zawieszeniem • Monstertruck Avengersa — zewnętrzna część ciężarówki jest uosobieniem Hulka — ma zielony kolor, napis \"Hulk Smash!\" i grafikę z twarzami Hulka • Prezent dla małych fanów Hulka — ten fajny zestaw konstrukcyjny LEGO® to świetny pomysł na prezent dla chłopców i dziewczynek, którzy są fanami superbohaterów i fajnych pojazdów • Jeszcze więcej zabawy — sprawdź inne zestawy LEGO® ǀ Marvel do zbudowania (sprzedawane osobno), które dzieci mogą kolekcjonować i łączyć, aby jeszcze bardziej rozwinąć swoje możliwości kreatywnej zabawy • Zabawki dla małych superbohaterów — szeroka seria zestawów konstrukcyjnych LEGO® | Marvel otwiera przed dziećmi stale zmieniający się świat przygód superbohaterów • Zestaw z 231 elementami — monster truck Hulka ma 12 cm wysokości, 14 cm długości i 9 cm szerokości • Zestaw z wielkim monster truckiem Hulka i dwiema minifigurkami: Hulka i Thanosa • Jedna z minifigurek ma zdejmowany hełm, a druga Tesserakt i Rękawicę Nieskończoności • Samochód terenowy ma duże, skrętne koła z amortyzowanym zawieszeniem • Na karoserii ciężarówki znajdują się napisy \"Hulk Smash!
 
+**Galeria:**
+
+- 76312-1: https://a.allegroimg.com/original/117e7c/7999411e4eb4854735490ae759b7
+
 ---
 
-## 76313 — Lego Heroes 76313 Logo Marvel z minifigurkami
+## 76313 — Logo MARVEL z minifigurkami
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 324.00 zł · EAN: 05702017817866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76313 |
+| Nazwa angielska | MARVEL Logo |
+| Nazwa polska | Logo MARVEL z minifigurkami |
+| Seria | Marvel |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 931 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817866 |
 
 Logo MARVEL z minifigurkami
 
 Marvel Logo MARVEL z minifigurkami LEGO® Marvel: Logo MARVEL z minifigurkami Zestaw LEGO® Marvel: Logo MARVEL z minifigurkami 76313 Zestaw Logo MARVEL z minifigurkami to kolekcjonerski prezent zawierający pięć kultowych postaci z uniwersum Marvela. Kolekcjonerski model z logo Marvela i pięcioma minifigurkami Logo MARVEL z minifigurkami (76313) to wysokiej jakości kolekcjonerski model z pięcioma minifigurkami Avengersów. Będzie on świetnym prezentem dla dzieci i fanów superbohaterów w wieku od 12 lat.Zestaw do zbudowania z logo MARVEL składa się z jaskrawych czerwonych i białych klocków. Dzieci naciskają trzy oddzielne przyciski na górze logo, aby minifigurki Hulka, Thora, Iron Mana, Czarnej Wdowy i Kapitana Ameryki mogły wyskoczyć z modelu. Każda minifigurka z łatwością wraca do swojej pierwotnej pozycji. Dodatkową cyfrową zabawę zapewnia intuicyjna aplikacja LEGO Builder, w której można powiększać i obracać modele w 3D oraz śledzić swoje postępy. Kultowe czerwono-białe logo MARVEL jest symbolem wartkiej akcji, przygody i superbohaterów. Ale ta wersja logo MARVEL z klocków LEGO® zawiera również kilka niespodzianek. Naciśnij elementy na górze modelu, aby uwolnić najpotężniejszych bohaterów na świecie. Hulk, Thor, Iron Man, Czarna Wdowa i Kapitan Ameryka przebijają się przez klocki, ożywiając emocje z uniwersum Marvela na Twoich oczach!
 
+**Galeria:**
+
+- 76313-1: https://a.allegroimg.com/original/05a4c4/012ae3e34a70ba558b69343f97ba
+
 ---
 
-## 76314 — Lego Heroes Captain America Wojna Bohaterów Bitwa 76314
+## 76314 — Kapitan Ameryka: Wojna bohaterów — bitwa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 352.49 zł · EAN: 05702017817873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76314 |
+| Nazwa angielska | Captain America: Civil War Battle |
+| Nazwa polska | Kapitan Ameryka: Wojna bohaterów — bitwa |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 736 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817873 |
 
 Lego Super Heroes Captain America Wojna Bohaterów Bitwa 76314
 
@@ -8575,11 +12805,27 @@ Zestaw zawiera 736 elementów
 
 **EAN:** 5702017817873
 
+**Galeria:**
+
+- 76314-1: https://a.allegroimg.com/original/1168b8/9b1e262a4d4abcbd3ef73b72ea5b
+
 ---
 
-## 76315 — Lego Marvel 76315 Laboratorium Iron Mana Zbrojownia 384 el. 8+
+## 76315 — Laboratorium Iron Mana: Zbrojownia
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 185.99 zł · EAN: 05702017817880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76315 |
+| Nazwa angielska | Iron Man's Laboratory: Hall of Armor |
+| Nazwa polska | Laboratorium Iron Mana: Zbrojownia |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 384 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817880 |
 
 🦾⚙️ LEGO® Marvel Laboratorium Iron Mana: Zbrojownia 76315 – 384 Elementy
 
@@ -8682,11 +12928,27 @@ Doskonały wybór dla dzieci od 8 lat oraz wszystkich miłośników Iron Mana i 
 
 LEGO® Marvel **Laboratorium Iron Mana: Zbrojownia** pozwala odtworzyć jedno z najbardziej rozpoznawalnych miejsc w świecie Avengersów. Dzięki licznym funkcjom, ruchomemu mechowi, kapsułom na zbroje i znanym bohaterom dzieci mogą tworzyć własne historie pełne akcji lub rozbudowywać swoją kolekcję zestawów LEGO® Marvel. Zestaw zapewnia wiele godzin kreatywnej zabawy i świetnie prezentuje się na półce po zakończeniu budowy.
 
+**Galeria:**
+
+- 76315-1: https://a.allegroimg.com/original/054974/4b33eddd4cf6ab172cf804f24696
+
 ---
 
-## 76316 — Lego Marvel Heroes 76316 Figurka Fantastycznej Czwórki vs. Galactus
+## 76316 — Figurka Fantastycznej Czwórki kontra Galactus
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 184.07 zł · EAN: 05702017817897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76316 |
+| Nazwa angielska | Fantastic Four vs. Galactus Construction Figure |
+| Nazwa polska | Figurka Fantastycznej Czwórki kontra Galactus |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 427 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817897 |
 
 LEGO Marvel Super Heroes 76316 - Figurka Fantastycznej Czwórki kontra Galactus
 
@@ -8705,11 +12967,27 @@ Zestaw LEGO ǀ Marvel zawiera cztery minifigurki: Pana Fantastic z rozciągliwym
 - Zabawki dla małych superbohaterów — szeroka seria zestawów konstrukcyjnych LEGO® | Marvel otwiera przed dziećmi stale zmieniający się świat przygód superbohaterów
 - Zestaw z 427 elementami — w pełni ruchoma figurka Galactusa ma 28 cm wysokości
 
+**Galeria:**
+
+- 76316-1: https://a.allegroimg.com/original/290e7c/30dd99d8496dafc8b6907e0162b3
+
 ---
 
-## 76317 — klocki Lego Marvel 76317 Mieszkanie Petera Parkera Spider-Man
+## 76317 — Mieszkanie Petera Parkera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017817903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76317 |
+| Nazwa angielska | Peter Parker’s Apartment |
+| Nazwa polska | Mieszkanie Petera Parkera |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 394 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 12 cm × gł. 8 cm |
+| EAN | 5702017817903 |
 
 Mieszkanie Petera Parkera (76317) to wysokiej jakości kolekcjonerski zestaw LEGO® ǀ Marvel Spider-Man dla fanów modeli do budowania, minifigurek superbohaterów i wybuchowej akcji. Dzięki nieograniczonym możliwościom zabawy zarówno wewnątrz, jak i na zewnątrz mieszkania, ten zestaw z superbohaterami będzie świetnym prezentem dla dzieci w wieku od ośmiu lat.
 
@@ -8725,51 +13003,131 @@ Zestaw do zbudowania zawiera cztery minifigurki: Hobgoblina na szybowcu z bombam
 - Zestawy LEGO® ǀ Marvel — szeroka seria zestawów konstrukcyjnych LEGO® | Marvel otwiera przed dziećmi stale zmieniający się świat przygód superbohaterów
 - Zestaw z 394 elementami — mieszkanie ma 16 cm wysokości, 12 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 76317-1: https://a.allegroimg.com/original/054996/6729b12044c28f1777a00639522d
+
 ---
 
-## 76319 — Lego Marvel Heroes 76319 Kapitan Ameryka kontra Thanos Statek bojowy
+## 76319 — Kapitan Ameryka kontra Thanos
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 57.80 zł · EAN: 05702017817910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76319 |
+| Nazwa angielska | Captain America vs. Thanos |
+| Nazwa polska | Kapitan Ameryka kontra Thanos |
+| Seria | Marvel |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817910 |
 
 Kapitan Ameryka kontra Thanos
 
 Marvel Captain America vs. Thanos LEGO® ǀ Marvel Kapitan Ameryka kontra Thanos Zestaw LEGO® ǀ Marvel Kapitan Ameryka kontra Thanos 76319 LEGO® ǀ Marvel Kapitan Ameryka kontra Thanos to zestaw ze statkami superbohaterów i minifigurkami dla dzieci w wieku od czterech lat. Zestaw z Kapitanem Ameryką i Thanosem Kapitan Ameryka kontra Thanos (76319) to zestaw dla chłopców i dziewczynek w wieku od czterech lat. Zabawka konstrukcyjna zawiera statki kosmiczne i minifigurki LEGO® ǀ Marvel i świetnie się sprawdzi jako prezent na każdą okazję.Zestaw zawiera dwie minifigurki: Thanosa w statku kosmicznym w kształcie Rękawicy Nieskończoności z ruchomymi \"palcami\" i wyrzutnią rakiet oraz Kapitana Amerykę w superszybkim Quinjecie z dwiema wyrzutniami klocków, otwieranym kokpitem i ukrytym schowkiem na tarczę. Osobny model zawiera kosmiczny kamień, który inspiruje do pomysłowej zabawy, gdy Kapitan Ameryka próbuje powstrzymać Thanosa przed kradzieżą cennego klejnotu. Każda torebka zawiera klocki i duży klocek startowy, co pozwala na szybkie zbudowanie modelu i postaci oraz szybkie rozpoczęcie zabawy. Intuicyjne instrukcje są umieszczone w kolorowej broszurze. Zestaw zawiera 107 elementów.Zestawy dla dzieci w wieku od czterech lat to świetny sposób na wspólne budowanie rodziców i dzieci. Thanos pędzi przez galaktykę w swoim statku kosmicznym przypominającym Rękawicę Nieskończoności, aby ukraść cenny kamień kosmiczny. Dzięki wyrzutni rakiet i ruchomym \"palcom\" statku nikt nie ośmieli się stanąć mu na drodze! Ale kiedy Kapitan Ameryka nadlatuje w swoim superszybkim Quinjecie z dwiema wyrzutniami, nadchodzi czas na kosmiczne starcie! • Zabawka z superbohaterami dla dzieci — zestaw Kapitan Ameryka kontra Thanos został stworzony dla chłopców i dziewczynek w wieku od czterech lat, którzy są fanami superbohaterów, statków kosmicznych i fajnych pojazdów • Minifigurki LEGO® ǀ Marvel — minifigurka Kapitana Ameryki z tarczą i minifigurka Thanosa z hełmem to kultowe postacie, dzięki którym dzieci mogą odgrywać ciekawe historie • Statki kosmiczne — statek Thanosa jest wzorowany na jego Rękawicy Nieskończoności i ma ruchome \"palce\" oraz wyrzutnię rakiet, natomiast Kapitan Ameryka pilotuje swojego Quinjeta wyposażonego w dwie wyrzutnie i otwierany kokpit • Akcja superbohaterów — osobny model przedstawia kosmiczny kamień, który inspiruje do pomysłowej zabawy, gdy Kapitan Ameryka próbuje powstrzymać Thanosa przed kradzieżą cennego klejnotu • Prezent dla miłośników Marvela — ten zestaw z Kapitanem Ameryką i Thanosem to świetny pomysł na prezent dla dzieci w wieku od czterech lat • Zestaw ze statkami i superbohaterami dla dzieci w wieku od czterech lat • Dwie minifigurki LEGO® ǀ Marvel: Thanos i Kapitan Ameryka z tarczą • Statek w kształcie Rękawicy Nieskończoności z wyrzutnią rakiet oraz Quinjet z dwiema wyrzutniami • Dzieci pomagają Kapitanowi Ameryce powstrzymać Thanosa przed kradzieżą cennego klejnotu • Prezent dla miłośników Marvela i dzieci w wieku od czterech lat • Dzieci mogą przybliżać i obracać zestawy w 3D, korzystając z intuicyjnej aplikacji LEGO® Builder • Zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzają je w świat twórczej zabawy
 
+**Galeria:**
+
+- 76319-1: https://a.allegroimg.com/original/0552df/251e9b9f43d2b3fc0a22a1e7eff2
+
 ---
 
-## 76320 — Lego Marvel 76320 Iron Man I War Machine Kontra Drony Hammera
+## 76320 — Iron Man i War Machine kontra drony Hammera
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 54.89 zł · EAN: 05702017817927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76320 |
+| Nazwa angielska | Iron Man & War Machine vs. Hammer Drones |
+| Nazwa polska | Iron Man i War Machine kontra drony Hammera |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 204 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817927 |
 
 Iron Man i War Machine kontra drony Hammera
 
 Marvel Iron Man War Machine vs. Hammer Drones LEGO® ǀ Marvel Iron Man i War Machine kontra drony Hammera LEGO® ǀ Marvel Iron Man i War Machine kontra drony Hammera 76320 LEGO® ǀ Marvel Iron Man i War Machine kontra drony Hammera to zestaw z kolekcjonerskimi postaciami z filmu Iron Man 2 studia Marvel. Zestaw do odgrywania bitew z Iron Manem Iron Man i War Machine kontra drony Hammera (76320) to zestaw dla dzieci, które lubią zabawki LEGO® ǀ Marvel do odgrywania bitew. Dzięki fajnym funkcjom i broniom świetnie się sprawdzi jako prezent dla chłopców i dziewczynek w wieku od siedmiu lat.Zestaw przedstawia epicką scenę bitwy z filmu Iron Man 2 studia Marvel i zawiera minifigurki Iron Mana i War Machine oraz dwa składane drony Hammera. Drony Hammera są w pełni ruchome, dzięki czemu dzieci mogą ustawiać figurki w realistycznych, dynamicznych pozach. Zielony dron Hammera ma wyrzutnię sprężynową na ramieniu, a niebieski ma wyrzutnie na obu ramionach. War Machine ma czerwone blastery w dłoniach i stopach oraz miotacz klocków na ramieniu. Iron Man jest wyposażony w niebieskie blastery w dłoniach i stopach i może strzelać elementami imitującymi laserowe promienie. Dodatkową cyfrową zabawę oferuje intuicyjna aplikacja LEGO Builder, w której można powiększać, obracać modele w 3D i śledzić swoje postępy. Zestaw zawiera 204 elementy. Połącz siły z Iron Manem i War Machine w pełnych akcji bitwach z dronami Hammera! Unikaj sprężynowej wyrzutni zielonego drona i zniszcz ją potężnym laserem Iron Mana. Uważaj na podwójne miotacze niebieskiego drona! War Machine odpowiada płonącymi czerwonymi blasterami i zamontowanym na ramieniu miotaczem klocków. Ale drony wciąż nadchodzą — i tylko Ty możesz je powstrzymać! • Zestaw do budowania i zabawy z superbohaterami — Iron Man i War Machine kontra drony Hammera to świetny upominek dla chłopców i dziewczynek w wieku od siedmiu lat • Minifigurki LEGO® ǀ Marvel — zawiera minifigurkę Iron Mana z niebieskimi miotaczami w dłoniach i stopach oraz bronią laserową, a także minifigurkę War Machine z czerwonymi miotaczami w dłoniach i stopach oraz miotaczem klocków • Zabawki do zbudowania — drony Hammera są w pełni ruchome, dzięki czemu dzieci mogą ustawiać figurki w różnych pozycjach, co zapewnia realistyczną i dynamiczną zabawę • Roboty stworzone do walki — zielony dron Hammera ma na ramieniu wyrzutnię sprężynową, a niebieski ma miotacze na każdym ramieniu • Prezent dla fanów superbohaterów — podaruj ten zestaw chłopcom i dziewczynkom w wieku od siedmiu lat, którzy lubią Iron Mana, bitwy i filmy Marvela • Zabawka konstrukcyjna z Iron Manem do odgrywania bitew dla dzieci w wieku od siedmiu lat • Minifigurki Iron Mana i War Machine z blasterami w dłoniach i stopach oraz broniami • Drony Hammera są w pełni ruchome, co zapewnia realistyczną i dynamiczną zabawę • Zielony i niebieski drony Hammera mają wbudowane wyrzutnie • To świetny prezent dla dzieci lubiących Iron Mana, odgrywanie bitew i filmy Marvela • Dzieci mogą przybliżać i obracać zestawy w 3D, korzystając z intuicyjnej aplikacji LEGO® Builder • Zestawy z superbohaterami LEGO® | Marvel pozwalają dzieciom przeżywać przygody z superbohaterami
 
+**Galeria:**
+
+- 76320-1: https://a.allegroimg.com/original/29c29d/9ce35bd94a828b4da1a101b1e471
+
 ---
 
-## 76321 — Lego Heroes 76321 Spider-Man kontra Doc Ock: Scena w metrze Marvel
+## 76321 — Spider-Man kontra Doc Ock: scena w metrze
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017817934 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76321 |
+| Nazwa angielska | Spider-Man vs. Doc Ock Subway Train Scene |
+| Nazwa polska | Spider-Man kontra Doc Ock: scena w metrze |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817934 |
 
 Spider-Man kontra Doc Ock — scena w metrze
 
 Marvel Spider-Man vs. Doc Ock Subway Train Scene LEGO® ǀ Marvel Spider-Man kontra Doc Ock — scena w metrze LEGO® ǀ Marvel Spider-Man kontra Doc Ock — scena w metrze 76321 Spider-Man kontra Doc Ock — scena w metrze to fajny prezent LEGO® ǀ Marvel dla fanów szalonych akcji, pamiątek z filmów i zestawów z superbohaterami. Zestaw Spider-Man kontra Doc Ock do odgrywania bitew Spider-Man kontra Doc Ock — scena w metrze (76321) to zestaw z pociągiem dla dzieci, które uwielbiają emocjonujące przygody i zabawki LEGO® ǀ Marvel. Dzięki nieskończonym możliwościom kreatywnej zabawy i ustawiania na półce ta zabawka konstrukcyjna z superbohaterem świetnie sprawdzi się jako prezent dla chłopców i dziewczynek w wieku od dziewięciu lat.Ten zestaw z metrem jest inspirowany kultową sceną z filmu Spider-Man 2 studia Marvel. Zawiera on cztery minifigurki: J. Jonah Jamesona, ciocię May, Spider-Mana i Doc Ocka. Minifigurka Spider-Mana ma wymienne głowy — w masce i bez — oraz dużą pajęczynę, którą można przymocować do pociągu. Minifigurka Doc Ocka ma cztery ruchome macki, w tym dwie z elementami laserowego promienia i dwie z uchwytami, które można przymocować do pociągu. Podnoszony dach zapewnia dostęp do wnętrza pociągu, w którym jest miejsce dla minifigurki. Dodatkową cyfrową zabawę zapewnia intuicyjna aplikacja LEGO Builder, w której konstruktorzy mogą powiększać, obracać modele w 3D i śledzić swoje postępy. Pędzący pociąg wymyka się spod kontroli, a na pokładzie jest J. Jonah Jameson i ciocia May! Spider-Man wkracza do akcji, wspinając się na przód pociągu i strzelając pajęczyną, aby go spowolnić. Ale Doc Ock obejmuje pociąg swoimi miażdżącymi mackami. Czy Spider-Man powstrzyma złoczyńcę i uratuje pasażerów, czy też Doc Ock mu w tym przeszkodzi? Los pociągu jest w Twoich rękach! • Spider-Man kontra Doc Ock — scena w metrze — ten zestaw LEGO® ǀ Marvel z pociągiem do zbudowania będzie świetnym prezentem dla chłopców i dziewczynek w wieku od dziewięciu lat, którym można się bawić i ustawiać na półce • Minifigurki LEGO® ǀ Marvel — zestaw konstrukcyjny zawiera minifigurki z filmu Spider-Man 2 studia Marvel: Spider-Mana, Doc Ocka, J. Jonah Jamesona i cioci May • Przygoda pełna akcji — Spider-Man używa dużej sieci, aby zatrzymać pędzący pociąg z pasażerami na pokładzie, ale Doc Ock łapie wagon miażdżącymi mackami • Kolekcjonerskie przedmioty LEGO® ǀ Marvel — minifigurka Spider-Mana ma dwie głowy do wyboru — w masce i bez, a podnoszony dach pociągu zapewnia dostęp do wnętrza z miejscem dla pasażera • Zestaw z pociągiem metra dla dzieci — ten zestaw będzie świetnym prezentem dla chłopców i dziewczynek w wieku od dziewięciu lat, którzy lubią filmy Marvela, pełne akcji przygody i odgrywanie bitew • Zestaw z pociągiem pozwala odtworzyć scenę z filmu Spider-Man 2 • Zawiera cztery minifigurki: Spider-Mana, Doc Ocka, J. Jonah Jamesona i ciocię May • Spider-Man ma dużą pajęczynę, a Doc Ock ma cztery ruchome macki • Minifigurka Spider-Mana ma dwie głowy do wyboru — z maską i bez • Zestaw z metrem to świetny prezent dla chłopców i dziewczynek w wieku od dziewięciu lat • Dzieci mogą przybliżać i obracać zestawy w 3D, korzystając z intuicyjnej aplikacji LEGO® Builder • Zestawy z superbohaterami LEGO® | Marvel pozwalają dzieciom przeżywać przygody z superbohaterami
 
+**Galeria:**
+
+- 76321-1: https://a.allegroimg.com/original/053f5c/d54a62374f01bc0660967edce130
+
 ---
 
-## 76322 — Klocki Lego Heroes 76322 Avengers: Koniec gry Thor kontra Chitauri
+## 76322 — Avengers: Koniec gry — Thor kontra Chitauri
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 148.38 zł · EAN: 05702017817941 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76322 |
+| Nazwa angielska | Avengers: Endgame Thor vs. Chitauri |
+| Nazwa polska | Avengers: Koniec gry — Thor kontra Chitauri |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 373 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817941 |
 
 Avengers: Koniec gry Thor kontra Chitauri
 
 Marvel Avengers: Endgame Thor vs. Chitauri LEGO® ǀ Marvel Avengers: Koniec gry Thor kontra Chitauri LEGO® ǀ Marvel Avengers: Koniec gry Thor kontra Chitauri 76322 LEGO® ǀ Marvel Avengers: Koniec gry Thor kontra Chitauri to zestaw z superbohaterami, który oddaje w ręce dzieci epicką bitwę mecha z potworem. Zestaw z Avengersami do odgrywania bitwy z potworem LEGO® ǀ Marvel Avengers: Koniec gry Thor kontra Chitauri (76322) to wysokiej jakości zabawka z superbohaterami. Ten wszechstronny zestaw będzie świetnym prezentem dla dzieci w wieku od ośmiu lat, które lubią filmy Marvela, mechy, bohaterów i film Avengers: Koniec gryWzorowany na kultowej scenie bitwy z Avengersami Marvela zestaw zawiera dwie duże figurki LEGO: mecha Iron Patriota, który zawiera cztery miotacze klocków, i straszliwego goryla Chitauri. Obie są ruchome, co umożliwia dynamiczną zabawę. W zestawie jest też siedem minifigurek: Iron Patriot MK2, Rocket z dużym miotaczem klocków, Thor ze Stormbreakerem i czterech Chitauri (dwóch ma złote miotacze klocków). Inne funkcje obejmują dwa skutery odrzutowe i małą przestrzeń dla Thora, w której można przechowywać zapasowe elementy do miotacza. Ten zestaw można połączyć z zestawem Avengers: Koniec gry — ostateczna bitwa (76323), co zapewnia dodatkowe możliwości zabawy. Konstruktorzy mogą również powiększać i obracać modele w 3D za pomocą fajnej, intuicyjnej aplikacji LEGO Builder. Zestaw zawiera 373 elementy. Wojownicy Chitauri przypuszczają atak megagorylem! Thor wskakuje do akcji z toporem w ręku, ale bestia chwyta go w swoje miażdżące pazury. Iron Patriot przybywa mechem, aby pomóc przyjacielowi. Rocket też dołącza do bitwy na ramieniu mecha, celując swoim dużym miotaczem klocków, gdy dwóch Chitauri pędzi na skuterach odrzutowych. Kto wygra epicki pojedynek mecha z potworem? Ty o tym zdecydujesz! • Zabawa w bitwę superbohaterów — Avengers: Koniec gry Thor kontra Chitauri to zestaw LEGO® ǀ Marvel Avengers dla chłopców i dziewczynek w wieku od ośmiu lat, którzy są fanami zabawkowych mechów i bohaterów • Minifigurki LEGO® ǀ Marvel — w zestawie znajduje się siedem minifigurek: Iron Patriot MK2, Rocket z dużym miotaczem klocków, Thor ze Stormbreakerem oraz czterech Chitauri, z czego dwóch ma złote miotacze klocków • Figurki superbohaterów do zbudowania — zestaw zawiera dwie duże figurki LEGO® — mecha Iron Patriota z czterema miotaczami klocków i przerażającego goryla Chitauri — które są ruchome, co umożliwia dynamiczną zabawę • Akcesoria do odgrywania bitew i przygód — inne funkcje obejmują dwa skutery odrzutowe i małą przestrzeń dla minifigurki Thora, w której można przechowywać zapasowe klocki do miotacza • Prezent dla miłośników Marvela — podaruj ten zestaw z superbohaterami dzieciom i miłośnikom modeli mechów, bohaterów akcji i filmu Avengers: Koniec gry studia Marvel • Akcja superbohaterów dla fanów mechów i filmu Avengers: Koniec gry studia Marvel • Zestaw zawiera Iron Patriota, Rocketa, Thora i cztery minifigurki Chitauri oraz 11 wyrzutni • Figurki dużego mecha Iron Patriota i goryla Chitauri są ruchome, co zapewnia dynamiczną zabawę • Inne funkcje obejmują dwa skutery odrzutowe i podstawkę dla Thora • Ten zestaw z superbohaterami będzie wspaniałym prezentem dla miłośników Marvela • Dzieci mogą przybliżać i obracać zestawy w 3D, korzystając z intuicyjnej aplikacji LEGO® Builder • Zestawy z superbohaterami LEGO® | Marvel pozwalają dzieciom przeżywać przygody z superbohaterami
 
+**Galeria:**
+
+- 76322-1: https://a.allegroimg.com/original/29bd35/af7872434c12b51046a0c62486af
+
 ---
 
-## 76323 — Lego Marvel 76323 Avengers Koniec Gry Ostateczna Bitwa 621 el.
+## 76323 — Avengers: Koniec gry — ostateczna bitwa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 312.99 zł · EAN: 05702017817958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76323 |
+| Nazwa angielska | Avengers: Endgame Final Battle |
+| Nazwa polska | Avengers: Koniec gry — ostateczna bitwa |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817958 |
 
 🦸‍♂️⚔️ LEGO Marvel Avengers: Koniec gry – Ostateczna bitwa 76323
 
@@ -8861,21 +13219,53 @@ Aplikacja LEGO Builder umożliwia korzystanie z interaktywnych instrukcji 3D ora
 
 LEGO Marvel 76323 pozwala przenieść emocje z filmu **Avengers: Koniec gry** prosto do pokoju dziecka. Bogaty zestaw postaci, ruchomy mech Ant-Mana oraz efektowne portale sprawiają, że każda zabawa staje się nową superbohaterską przygodą. Po zakończeniu zabawy model świetnie prezentuje się również jako efektowna ozdoba na półce.
 
+**Galeria:**
+
+- 76323-1: https://a.allegroimg.com/original/05f15a/8bffab3c49218bfdc99a9407c1ea
+
 ---
 
-## 76324 — 76324 Lego Heroes Marvel Spider-Man i Oscorp,
+## 76324 — Spider-Man i Oscorp
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 427.77 zł · EAN: 05702017817965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76324 |
+| Nazwa angielska | Spider-Man vs. Oscorp |
+| Nazwa polska | Spider-Man i Oscorp |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 808 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817965 |
 
 Spider-Man i Oscorp
 
 Marvel Spider-Man vs. Oscorp LEGO® ǀ Marvel Spider-Man i Oscorp Zestaw konstrukcyjny LEGO® ǀ Marvel Spider-Man i Oscorp 76324 Dzieci odegrają scenki dzięki ośmiu minifigurkom LEGO®, w tym Spider-Mana, Ghost-Spider, Spider-Woman, Milesa Moralesa i Zielonego Goblina. Miejskie starcia ze Spider-Manem i Milesem Moralesem LEGO® ǀ Marvel Spider-Man i Oscorp (76324) to wysokiej jakości zestaw do budowania, zabawy i eksponowania, który jest pełen superbohaterów, kultowych postaci i słynnych miejsc. Każde pomieszczenie jest wyposażone w odpowiedni sprzęt i akcesoria. Osiem minifigurek LEGO z filmów Marvela zapewnia niekończącą się pajęczą przygodę: Spider-Man, Spider-Woman, Miles Morales z motocyklem, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter i Zielony Goblin z szybowcem. Przezroczyste elementy pozwalają dzieciom ustawiać postacie w realistycznych pozach. A dzięki aplikacji LEGO Builder dzieci mogą dzielić się kreatywną zabawą z przyjaciółmi i rodziną. Zestaw zawiera 808 elementów. Dołącz do Spider-Mana, Ghost-Spider, Milesa Moralesa i przyjaciół w pełnej akcji bitwie z Zielonym Goblinem, Venomem i innymi złoczyńcami na ulicach Nowego Jorku! Miasto jest Twoim placem zabaw, na którym rozegra się epicka bitwa!
 
+**Galeria:**
+
+- 76324-1: https://a.allegroimg.com/original/113d09/6d6d4ee04e8ab9e918a2febda0e3
+
 ---
 
-## 76325 — Lego Marvel Avengers Czas Ultrona Quinjet 76325
+## 76325 — Avengers: Czas Ultrona — Quinjet
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 398.90 zł · EAN: 05702017817972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76325 |
+| Nazwa angielska | Avengers: Age of Ultron Quinjet |
+| Nazwa polska | Avengers: Czas Ultrona — Quinjet |
+| Seria | Marvel |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1131 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 45 cm |
+| EAN | 5702017817972 |
 
 **AVENGERS – CZAS ULTRONA – QUINJET**
 
@@ -8899,11 +13289,27 @@ Avengers: Czas Ultrona — Quinjet (76325) to kolekcjonerski zestaw konstrukcyjn
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 76325-1: https://a.allegroimg.com/original/1166e6/0c298c3740179036c86878db41ba
+
 ---
 
-## 76326 — Lego Marvel 76326 Popiersie Iron Spider-Mana 379 el. Kolekcja 18+
+## 76326 — Popiersie Iron Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 197.99 zł · EAN: 05702017817989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76326 |
+| Nazwa angielska | Iron Spider-Man Bust |
+| Nazwa polska | Popiersie Iron Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 379 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817989 |
 
 🕷️🦾 LEGO® Marvel Popiersie Iron Spider-Mana 76326 – 379 Elementów
 
@@ -8991,11 +13397,27 @@ Idealnie sprawdzi się jako dekoracja biura, pokoju gracza lub kolekcji LEGO Mar
 
 LEGO Marvel Popiersie Iron Spider-Mana to model stworzony z myślą o dorosłych kolekcjonerach. Starannie odwzorowane detale, ruchome elementy i elegancka podstawka sprawiają, że gotowy model świetnie prezentuje się w każdej kolekcji. Budowanie zapewnia relaks, a gotowy efekt przyciąga wzrok każdego fana uniwersum Marvel.
 
+**Galeria:**
+
+- 76326-1: https://a.allegroimg.com/original/054d35/055aa6cc43a79343d29dfcc0e767
+
 ---
 
-## 76327 — Lego Marvel Popiersie Iron Mana MK4 76327
+## 76327 — Popiersie Iron Mana MK4
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 176.22 zł · EAN: 05702017824208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76327 |
+| Nazwa angielska | Iron Man MK4 Bust |
+| Nazwa polska | Popiersie Iron Mana MK4 |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 436 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824208 |
 
 LEGO Marvel Popiersie Iron Mana MK4 76327
 
@@ -9026,11 +13448,26 @@ Ten zestaw superbohaterów jest **wierną repliką** kultowej zbroi MK4 z filmu 
  
 - Nadaje się od 18 lat
 
+**Galeria:**
+
+- 76327-1: https://a.allegroimg.com/original/29ee0a/1d38c76247e0960c6b31e923a166
+
 ---
 
-## 76328 — Lego Heroes Klasyczny Serial Telewizyjny Batman Batmobil 76328
+## 76328 — LEGO 76328 DC Super Heroes Klasyczny Batmobil
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 643.90 zł · EAN: 05702017719726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76328 |
+| Nazwa angielska | Batman: The Classic TV Series Batmobile |
+| Nazwa polska | LEGO 76328 DC Super Heroes Klasyczny Batmobil |
+| Seria | Super Heroes |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1822 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 18 cm |
+| EAN | 5702017719726 |
 
 **Klasyczny serial telewizyjny Batman™ — Batmobil™**
 
@@ -9049,11 +13486,27 @@ Seria zestawów LEGO dla dorosłych zapewnia satysfakcjonujący i wciągający p
 - Inne zestawy dla dorosłych — ten kreatywny model należy do serii zestawów LEGO® dla dorosłych, zaprojektowanych z myślą o satysfakcjonującym wyzwaniu i odprężeniu dla konstruktorów
 - Zestaw z 1822 elementami — złożony Batmobil ma 14 cm wysokości, 50 cm długości i 18 cm szerokości
 
+**Galeria:**
+
+- 76328-1: https://a.allegroimg.com/original/11ef74/6cb9c7be4585a99735abe05a6a37
+
 ---
 
-## 76329 — Zestaw Lego 76329 Maska Milesa Moralesa 487 elementów Marvel Heroes
+## 76329 — Maska Milesa Moralesa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 299.89 zł · EAN: 05702017824628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76329 |
+| Nazwa angielska | Miles Morales' Mask |
+| Nazwa polska | Maska Milesa Moralesa |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 10 cm × gł. 12 cm |
+| EAN | 5702017824628 |
 
 **LEGO 76329 Maska Milesa Moralesa**
  
@@ -9077,11 +13530,26 @@ Seria zestawów LEGO dla dorosłych zapewnia konstruktorom wciągające i satysf
  
 **Stan**
 
+**Galeria:**
+
+- 76329-1: https://a.allegroimg.com/original/11c35e/500e386d418e913e4fc75965260f
+
 ---
 
-## 76330 — Lego Heroes 76330 Logo Batmana
+## 76330 — LEGO Super Heroes 76330 Logo Batmana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 238.00 zł · EAN: 05702018063132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76330 |
+| Nazwa angielska | Batman Logo |
+| Nazwa polska | LEGO Super Heroes 76330 Logo Batmana |
+| Seria | Super Heroes |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 678 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 36 cm × gł. 9 cm |
+| EAN | 5702018063132 |
 
 **LEGO DC Batman 76330 Logo Batmana**
 
@@ -9107,11 +13575,26 @@ Bonus do odblokowania cyfrowo: odbierz złotą postać w grze wideo LEGO Batman 
 
 • Wymiary — 678-elementowy zestaw LEGO® DC Batman™ ma 23 cm wysokości, 36 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 76330-1: https://a.allegroimg.com/original/05e784/64fbac734fe8aa04b99a7d9540a5
+
 ---
 
-## 76331 — Klocki Lego DC Batman: Batmobil z filmu Batman v Superman 76331
+## 76331 — KLOCKI LEGO DC Batman: Batmobil z filmu Batman v Superman 76331
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 86.89 zł · EAN: 05702018063149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76331 |
+| Nazwa angielska | Batman v Superman Batmobile |
+| Nazwa polska | KLOCKI LEGO DC Batman: Batmobil z filmu Batman v Superman 76331 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 220 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 10 cm |
+| EAN | 5702018063149 |
 
 **LEGO DC Batman 76331 Batmobil z filmu Batman v Superman**
  
@@ -9137,11 +13620,26 @@ Bonus do odblokowania cyfrowo: kup zestaw Batmobil™ z filmu Batman v Superman�
  
 • Wymiary — 220-elementowy zestaw LEGO® DC Batman™ Batmobil™ z filmu Batman v Superman™ ma 5 cm wysokości, 18 cm długości i 10 cm szerokości
 
+**Galeria:**
+
+- 76331-1: https://a.allegroimg.com/original/051715/32cea39845d1b1ecc207430f9823
+
 ---
 
-## 76332 — Lego 76332 DC Comics Heroes Batmobil Z Filmu Batman
+## 76332 — Batmobil z filmu Batman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702018063156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76332 |
+| Nazwa angielska | The Batman Batmobile |
+| Nazwa polska | Batmobil z filmu Batman |
+| Seria | Batman |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 330 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063156 |
 
 **LEGO 76332 DC COMICS SUPER HEROES BATMOBIL Z FILMU BATMAN**
 
@@ -9154,11 +13652,26 @@ Dzięki zestawowi Batmobil z filmu Batman (76332) z modelem samochodu dla chłop
 - Liczba figurek [szt]: 1
 - Wiek: 9 lat
 
+**Galeria:**
+
+- 76332-1: https://a.allegroimg.com/original/11817f/e5b86f6a464f8b39d813ac1df301
+
 ---
 
-## 76333 — Lego DC Comics Heroes 76333 Batmobil z filmu Batman i Robin
+## 76333 — Zestaw konstrukcyjny LEGO DC Batman: Batmobil z filmu Batman i Robin 76333
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702018063163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76333 |
+| Nazwa angielska | Batman & Robin Batmobile |
+| Nazwa polska | Zestaw konstrukcyjny LEGO DC Batman: Batmobil z filmu Batman i Robin 76333 |
+| Seria | Super Heroes |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 272 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702018063163 |
 
 **LEGO 76333 Batmobil z filmu Batman i Robin**
 
@@ -9185,19 +13698,49 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 76333-1: https://a.allegroimg.com/original/11cb63/9cce0fb149849af23d3fb585515f
+
 ---
 
-## 76334 — Lego Marvel 76334 Epicka bitwa: Spider-Man kontra Sandman
+## 76334 — Epicka bitwa: Spider-Man kontra Sandman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 70.58 zł · EAN: 05702018063170 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76334 |
+| Nazwa angielska | Epic Battle: Spider-Man vs. Sandman |
+| Nazwa polska | Epicka bitwa: Spider-Man kontra Sandman |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063170 |
 
 Wkrocz do akcji dzięki zestawowi z filmu Spider-Man 3 wytwórni Marvel Studios! Kiedy Sandman powstaje z gruzów, Spider-Man zeskakuje na pajęczej sieci, aby go obalić. Ale chwila! Venom i jego przerażające macki też tu są i przygotowują się do ataku! Co stanie się później? Możesz ustawić ten ekscytujący model w swoim pokoju lub wyjąć minifigurki i rozpocząć własne przygody superbohaterów.
 
+**Galeria:**
+
+- 76334-1: https://a.allegroimg.com/original/29fd80/9a426321473d84e8936dc97e3838
+
 ---
 
-## 76335 — Klocki Lego Heroes 76335 Spider-Man kontra Ghost Rider na motocyklu
+## 76335 — 76335 Spider-Man kontra Ghost Rider na motocyklu
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 30.00 zł · EAN: 05702018063187 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76335 |
+| Nazwa angielska | Spider-Man vs. Ghost Rider Motorcycle |
+| Nazwa polska | 76335 Spider-Man kontra Ghost Rider na motocyklu |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702018063187 |
 
 W sprzedaży:
 
@@ -9225,11 +13768,26 @@ Minifigurka Ghost Ridera przedstawiona jest jako szkielet z płomieniami wydobyw
 
 - Wymiary — motocykl w tym 72-elementowym zestawie ma 4 cm wysokości, 14 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 76335-1: https://a.allegroimg.com/original/053d7b/49d7132c46f9aea1e78f372202bb
+
 ---
 
-## 76337 — Lego Marvel 76337 Miles Morales kontra Spider-Man 2099 Mech
+## 76337 — LEGO Marvel 76337 Mech Milesa Moralesa
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 37.99 zł · EAN: 05702018063200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76337 |
+| Nazwa angielska | Miles Morales Mech vs. Spider-Man 2099 |
+| Nazwa polska | LEGO Marvel 76337 Mech Milesa Moralesa |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063200 |
 
 LEGO Marvel 76337 Miles Morales kontra Spider-Man 2099 Mech
 
@@ -9251,19 +13809,49 @@ Cyfrowy wymiar budowania
 
 Zbudowanie zestawu to dopiero początek przygody. Dzięki intuicyjnej aplikacji LEGO Builder, młodzi konstruktorzy mogą wejść w cyfrowy świat instrukcji. Aplikacja umożliwia powiększanie i obracanie modelu w 3D, co pomaga zwizualizować postępy i budować z większą pewnością siebie. To doskonały prezent dla fanów Marvela, łączący tradycyjną zabawę klockami z nowoczesną technologią.
 
+**Galeria:**
+
+- 76337-1: https://a.allegroimg.com/original/110058/8c58ed6f431ebd020dd72fae9d12
+
 ---
 
-## 76338 — Lego Heroes 76338 Marvel Bitwa mechów Spiderman vs Ghost Mechy Lego
+## 76338 — LEGO Marvel 76338 Bitwa mechów
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 94.99 zł · EAN: 05702018063217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76338 |
+| Nazwa angielska | Mech Battle: Spider-Man vs. Doc Ock |
+| Nazwa polska | LEGO Marvel 76338 Bitwa mechów |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 315 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063217 |
 
 Przygotuj się na wielki pojedynek, w którym Spider-Man i Ghost-Spider zmierzą się z Doc Ockiem w walce na mechy! Oba mechy skręcają się, obracają, poruszają i przyjmują epickie pozy. Czy wyrzutnia klocków mecha Iron Spidera zmusi Doktora Ocka do odwrotu? Czy rzucający pajęczyną Ghost-Spider splącze macki Doktora Ocka? Tylko Ty możesz zdecydować, jak zakończy się ta epicka bitwa!Zabawka konstrukcyjna dla 6-latka — zestaw LEGO | Marvel bitwa mechów: Spider-Man kontra Doc Ock dla dzieci zawiera dwa ruchome mechy oraz trzy minifigurki LEGODwa ruchome mechy — mech Spider-Mana i mech Doc Ocka mają otwierane kokpity dla minifigurek pilotów i są w pełni ruchome, co zapewnia wiele możliwości dynamicznej zabawy w odgrywanie walkiAkcesoria LEGO | Marvel do odgrywania bitew — zabawka konstrukcyjna zawiera dwie pajęcze liny, dwa miotacze dla mecha Iron Spidera, cztery ruchome macki dla mecha Doc Ocka oraz dwie pajęczyny dla Ghost-SpideraZestawy LEGO | Marvel dla dzieci – zabawki konstrukcyjne z serii LEGO | Marvel przenoszą dzieci do świata pełnego wyobraźni i przygód z udziałem ulubionych superbohaterów i scen z filmów MarvelaZestaw dla fana Spider-Mana — zabawka dla chłopców i dziewczynek, dzięki której dzieci mogą dołączyć do Spider-Mana i Ghost-Spidera w epickiej walce mechów przeciwko złoczyńcy Doc OckowiPomysł na prezent dla 6-latka i miłośników Marvela — te dwa, w pełni ruchome mechy bohaterów uniwersum Marvela sprawdzą się jako prezent dla chłopców i dziewczynek od 6 lat i fanów zabawek ze Spider-ManemJeszcze więcej ruchomych figurek mechów — zabawę można urozmaicić łącząc także inne zestawy klocków LEGO z figurkami mechów (sprzedawane osobno)
 
+**Galeria:**
+
+- 76338-1: https://a.allegroimg.com/original/0507c3/c558b2b347aaa5ef232e5383fe3a
+
 ---
 
-## 76339 — Lego 76339 Marvel Heroes Fantastyczna Czwórka H.e.r.b.i.e.
+## 76339 — Fantastyczna Czwórka H.E.R.B.I.E.
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 199.90 zł · EAN: 05702018063224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76339 |
+| Nazwa angielska | The Fantastic Four H.E.R.B.I.E. |
+| Nazwa polska | Fantastyczna Czwórka H.E.R.B.I.E. |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 747 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063224 |
 
 LEGO 76339 MARVEL SUPER HEROES FANTASTYCZNA CZWÓRKA H.E.R.B.I.E.
 
@@ -9281,11 +13869,27 @@ Zestaw klocków LEGO Marvel Fantastyczna Czwórka H.E.R.B.I.E. (76339) kultowa p
 
 **Ruchome elementy, unikalny design i wyjątkowy klimat Fantastycznej Czwórki doskonale urozmaici każdą kolekcję LEGO Marvel.**
 
+**Galeria:**
+
+- 76339-1: https://a.allegroimg.com/original/117bb8/b3a0a7cd45bd96d37d14430cfc05
+
 ---
 
-## 76340 — * Lego Heroes Kalendarz adwentowy na 2026 rok 76340
+## 76340 — LEGO Marvel Kalendarz adwentowy na 2026 rok
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702018063231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76340 |
+| Nazwa angielska | Super Heroes Marvel Advent Calendar 2026 |
+| Nazwa polska | LEGO Marvel Kalendarz adwentowy na 2026 rok |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 317 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063231 |
 
 LEGO SUPER HEROES - Kalendarz adwentowy na 2026 rok 76340
  
@@ -9313,11 +13917,26 @@ Odliczając dni do wielkiego dnia, dzieci mogą łączyć prezenty i odgrywać p
 - Zestawy z gadżetami dla fanów Marvela - przenieś dzieci do świata pełnego wyobraźni i przygód z udziałem kultowych bohaterów i scen z filmów Marvela 
 - 24 dni pełne niespodzianek - odliczaj dni do świąt w superbohaterskim stylu dzięki temu kalendarzowi adwentowemu z 317 elementami
 
+**Galeria:**
+
+- 76340-1: https://a.allegroimg.com/original/119f7b/818e821c41a3a03d57a85f2bcf1a
+
 ---
 
-## 76341 — Zestaw klocków Lego 76341 Marvel Heroes Groot w stroju Ravagera
+## 76341 — LEGO Marvel 76341 Groot w stroju Huncwota
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 178.00 zł · EAN: 05702018063248 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76341 |
+| Nazwa angielska | Ravager Jumpsuit Groot |
+| Nazwa polska | LEGO Marvel 76341 Groot w stroju Huncwota |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 604 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063248 |
 
 W sprzedaży:
 
@@ -9345,11 +13964,26 @@ Ten kolekcjonerski zestaw LEGO ǀ Marvel przedstawia Groota w stroju Ravagera, k
 
 - Wymiary — Groot w stroju Ravagera LEGO® ǀ Marvel zawiera 604 elementy i ma 25 cm wysokości
 
+**Galeria:**
+
+- 76341-1: https://a.allegroimg.com/original/112212/d3f89f764a25beed7d63710e0836
+
 ---
 
-## 76342 — Lego Marvel 76342 Spider-Man kontra Mysterio: Daily Bugle
+## 76342 — LEGO Super Heroes 76342 Spider-Man kontra Mysterio: Daily Bugle
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 356.24 zł · EAN: 05702018063255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76342 |
+| Nazwa angielska | Spider-Man vs. Mysterio: The Daily Bugle |
+| Nazwa polska | LEGO Super Heroes 76342 Spider-Man kontra Mysterio: Daily Bugle |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 781 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 20 cm × gł. 6 cm |
+| EAN | 5702018063255 |
 
 LEGO Super Heroes 76342 Spider-Man kontra Mysterio: Daily Bugle
 
@@ -9369,11 +14003,26 @@ Zestaw konstrukcyjny LEGO ǀ Marvel Daily Bugle zawiera minifigurki Spider-Mana,
 - Tryb „Wspólne budowanie” — aplikacja LEGO® Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu.
 - Wymiary — budynek Daily Bugle w tym 781-elementowym zestawie ma 33 cm wysokości, 20 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 76342-1: https://a.allegroimg.com/original/0596f3/3bd3af3c49ebb4ba0270d5b66aa9
+
 ---
 
-## 76343 — Lego Marvel 76343 Epicka Bitwa: Hulkbuster Kontra Hulk
+## 76343 — Epicka bitwa: Hulkbuster kontra Hulk
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 158.98 zł · EAN: 05702018063262 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76343 |
+| Nazwa angielska | Epic Battle: Hulkbuster vs. The Hulk |
+| Nazwa polska | Epicka bitwa: Hulkbuster kontra Hulk |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 413 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063262 |
 
 💥🛡️ **LEGO MARVEL EPICKA BITWA: HULKBUSTER KONTRA HULK 76343 (413 EL.)** 🛡️💥
 
@@ -9408,11 +14057,26 @@ Przenieś się w sam środek spektakularnego starcia superbohaterów z zestawem 
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 76343-1: https://a.allegroimg.com/original/057e09/bda2f3194ec294af349f4ec20439
+
 ---
 
-## 76344 — Lego Marvel Iron Man Mark 3 edycja kolekcjonerska 76344
+## 76344 — Děti: Hračky: Stavebnice: LEGO: Sady: Super Heroes: Název sady; Lego 76344
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 396.86 zł · EAN: 05702018063279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76344 |
+| Nazwa angielska | Iron Man Mark 3 Collectors' Edition |
+| Nazwa polska | Děti: Hračky: Stavebnice: LEGO: Sady: Super Heroes: Název sady; Lego 76344 |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063279 |
 
 **LEGO Marvel Iron Man Mark 3 - edycja kolekcjonerska 76344**
 
@@ -9436,11 +14100,26 @@ Odkryj bardziej satysfakcjonujące i wciągające projekty dzięki zestawom LEGO
 
 Ten zestaw składający się z 1297 elementów zawiera figurkę Iron Mana o wysokości 38 cm
 
+**Galeria:**
+
+- 76344-1: https://a.allegroimg.com/original/118036/053d802f4463ae8d19c1863ecdf3
+
 ---
 
-## 76345 — * Lego Heroes Popiersie Doktora Dooma 76345
+## 76345 — Popiersie Doktora Dooma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 209.99 zł · EAN: 05702018063286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76345 |
+| Nazwa angielska | Doctor Doom Bust |
+| Nazwa polska | Popiersie Doktora Dooma |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 379 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 14 cm × gł. 7 cm |
+| EAN | 5702018063286, 5702018156476 |
 
 LEGO SUPER HEROES - Popiersie Doktora Dooma 76345
  
@@ -9467,11 +14146,27 @@ Ta imponująca ozdoba z postacią z uniwersum Marvela to przemyślany prezent dl
 - ZESTAWY DLA DOROSŁYCH - te zestawy LEGO zostały stworzone jako satysfakcjonujący, wciągający projekt dla dorosłych konstruktorów 
 - WYMIARY - ten 379-elementowy zestaw ma 17 cm wysokości, 14 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 76345-1: https://a.allegroimg.com/original/11c096/5089b59842c8b2721250339e94e6
+- 76345-2: https://a.allegroimg.com/original/1190e9/513f51b2401faf0d5350e4610bba
+
 ---
 
-## 76346 — Lego Marvel 76346 Figurka Bohatera: Spider-man
+## 76346 — Figurka Spider-Mana
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702018063293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76346 |
+| Nazwa angielska | Spider-Man Hero Figure |
+| Nazwa polska | Figurka Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 813 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063293 |
 
 LEGO Super Heroes 76346 Figurka Spider-Mana
 
@@ -9487,11 +14182,26 @@ A dzięki aplikacji LEGO Builder dzieci mogą budować z pewnością siebie. Mog
 
 Zestaw składa się z 813 elementów.
 
+**Galeria:**
+
+- 76346-1: https://a.allegroimg.com/original/11e0c4/63b998af4962a3ecbccbaa4c19c3
+
 ---
 
-## 76349 — Lego Marvel 76349 Pościg Spider-Mana za Więźniarką 367 el. 8+
+## 76349 — Pościg Spider-Mana za więźniarką
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 157.99 zł · EAN: 05702018063323 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76349 |
+| Nazwa angielska | Spider-Man Prison Transport Chase |
+| Nazwa polska | Pościg Spider-Mana za więźniarką |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 367 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063323 |
 
 🕷️🚓 LEGO® Marvel Pościg Spider-Mana za Więźniarką 76349 – 367 Elementów
 
@@ -9588,11 +14298,26 @@ Idealny na urodziny, święta i każdą inną okazję.
 
 LEGO Marvel Pościg Spider-Mana za Więźniarką pozwala odtworzyć emocjonujące sceny z filmu **Spider-Man: Całkiem nowy dzień**. Dzięki rozbudowanemu pojazdowi, czterem minifigurkom i licznym akcesoriom dzieci mogą tworzyć własne historie pełne pościgów, walki dobra ze złem i spektakularnych akcji superbohaterów.
 
+**Galeria:**
+
+- 76349-1: https://a.allegroimg.com/original/111325/21e7a2ca46c3bed5373bbfc1f288
+
 ---
 
-## 76350 — Lego Marvel Heroes Epickie starcie: Spider-Man kontra Hulk 76350
+## 76350 — Epickie starcie: Spider-Man kontra Hulk
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 285.99 zł · EAN: 05702018063330 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76350 |
+| Nazwa angielska | Spider-Man vs. Hulk Epic Clash |
+| Nazwa polska | Epickie starcie: Spider-Man kontra Hulk |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 534 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 36 cm × szer. 24 cm × gł. 13 cm |
+| EAN | 5702018063330 |
 
 LEGO MARVEL SUPER HEROES - Epickie starcie: Spider-Man kontra Hulk 76350
  
@@ -9617,11 +14342,26 @@ Przenieś się do filmu Spider-Man: Całkiem nowy dzień dzięki**zestawowi Epic
 - Tryb „Wspólne budowanie” —aplikacja LEGO Builder umożliwia zabawę z przyjaciółmi i rodziną, podczas której każdy może zbudować część zestawu, korzystając z instrukcji na swoim urządzeniu 
 - Wymiary — ten 534-elementowy zestaw ma 36 cm wysokości, 24 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 76350-1: https://a.allegroimg.com/original/11f7dc/efb853bb426f81bdc045b4e3ffdc
+
 ---
 
-## 76354 — Lego Heroes 76354 Lotniskowiec T.a.r.c.z.y.
+## 76354 — Lotniskowiec T.A.R.C.Z.Y.
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1240.58 zł · EAN: 05702018063354 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76354 |
+| Nazwa angielska | S.H.I.E.L.D. Helicarrier |
+| Nazwa polska | Lotniskowiec T.A.R.C.Z.Y. |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3057 |
+| Cena katalogowa | 1599.99 zł |
+| Wymiary złożonego | wys. 30 cm × szer. 44 cm |
+| EAN | 5702018063354 |
 
 LEGO Super Heroes 76354 Lotniskowiec T.A.R.C.Z.Y.
 
@@ -9640,11 +14380,26 @@ Model kolekcjonerski pojazdu składający się z 3057 elementów oddaje pełną 
 - Inne zestawy dla dorosłych — te zestawy LEGO® zostały stworzone jako satysfakcjonujący, wciągający projekt dla dorosłych konstruktorów.
 - Wymiary — zestaw z 3057 elementami ma 30 cm wysokości, 68 cm długości i 44 cm szerokości.
 
+**Galeria:**
+
+- 76354-1: https://a.allegroimg.com/original/116af1/390aef154d79add0d4115bf866ec
+
 ---
 
-## 76356 — Lego Marvel Heroes 76356 Popiersie Venoma
+## 76356 — Popiersie Venoma
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 270.00 zł · EAN: 05702018068991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76356 |
+| Nazwa angielska | Venom Bust |
+| Nazwa polska | Popiersie Venoma |
+| Seria | Marvel |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 413 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702018068991 |
 
 **LEGO 76356 Popiersie Venoma**
 
@@ -9669,11 +14424,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 76356-1: https://a.allegroimg.com/original/116317/bb12147343578fe06de9eee2cba8
+
 ---
 
-## 7784 — Lego Batman 7784 – Batmobil: Edycja Kolekcjonerska
+## 7784 — The Batmobile
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 3300.00 zł · EAN: 05702014475373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7784 |
+| Nazwa angielska | The Batmobile Ultimate Collectors' Edition |
+| Nazwa polska | The Batmobile |
+| Seria | Super Heroes |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 1045 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014475373 |
 
 **LEGO Batman 7784 – Batmobil: Edycja Kolekcjonerska (The Batmobile – Ultimate Collectors' Edition)** to wyjątkowy i rzadki zestaw dla fanów Mrocznego Rycerza oraz kolekcjonerów modeli LEGO. Ten imponujący pojazd inspirowany klasycznymi komiksami i filmami o Batmanie to prawdziwa perełka, która zachwyca detalami i rozmiarem.
 
@@ -9698,11 +14468,26 @@ Wymiary (przybliżone):
 - Szerokość: ok. **16 cm**
 - Wysokość: ok. **9 cm**
 
+**Galeria:**
+
+- 7784-1: https://a.allegroimg.com/original/11c91c/59855c08405f9bb418ffcfd4b329
+
 ---
 
-## 77903 — Lego Batman Sdcc Gotham Grading Afa Comic Con 77903 Misb choinka mikołaj
+## 77903 — Batman
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 2998.88 zł · EAN: 00673419317658 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77903 |
+| Nazwa angielska | The Dark Knight of Gotham City |
+| Nazwa polska | Batman |
+| Seria | Super Heroes |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 427 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419317658 |
 
 Nowy, fabrycznie zamknięty zestaw Lego, numer 1013/1500. Posiada grading firmy AFA z oceną 8.5.
 
@@ -9714,11 +14499,26 @@ Numer:** 77903**
 
 Nazwa:** The Dark Knight of Gotham City - San Diego Comic-Con 2019 Exclusive**
 
+**Galeria:**
+
+- 77903-1: https://a.allegroimg.com/original/11af86/a2e1df1b474aa2ce2e90096bb4f4
+
 ---
 
-## 79117 — Lego Ninja Turtles 79117 Inwazja na kryjówkę żółwi
+## 79117 — Klocki LEGO Turtles 79117 Inwazja na kryjówkę
 
-*Kategoria: Super Heroes · cena Allegro (2026-08-17): 1629.00 zł · EAN: 05702015126632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79117 |
+| Nazwa angielska | Turtle Lair Invasion |
+| Nazwa polska | Klocki LEGO Turtles 79117 Inwazja na kryjówkę |
+| Seria | Super Heroes |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 888 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015126632 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -9736,6 +14536,10 @@ Nazwa:** The Dark Knight of Gotham City - San Diego Comic-Con 2019 Exclusive**
 - **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**Galeria:**
+
+- 79117-1: https://a.allegroimg.com/original/11b460/0bc0f7ac490eb648924a979690ae
 
 ---
 

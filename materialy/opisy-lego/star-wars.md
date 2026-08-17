@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Star Wars — opisy produktowe (531 pozycji)
+# LEGO Star Wars — opisy produktowe (525 pozycji)
 
-## 10188 — Lego Star Wars Zestaw Kolekcjonerski Death Star Gwiazda Śmierci Ucs 10188
+## 10188 — Lego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 4699.00 zł · EAN: 00673419130578 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10188 |
+| Nazwa angielska | Death Star |
+| Nazwa polska | Lego |
+| Seria | Star Wars |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3803 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 41 cm × szer. 42 cm |
+| EAN | 673419130578 |
 
 LEGO Star Wars 10188 – Death Star (Gwiazda Śmierci)
 
@@ -49,11 +60,27 @@ Potężny superlaser niszczący planety.
 
 **Rok wydania:** 2008
 
+**Galeria:**
+
+- 10188-1: https://a.allegroimg.com/original/1104e4/6e78bebe4918bf499c80b9c4862f
+
 ---
 
-## 10195 — Lego Star Wars 10195 Republic Dropship At-ot Nowy unikat
+## 10195 — Republic Dropship AT-OT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 8355.00 zł · EAN: 00673419121835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10195 |
+| Nazwa angielska | Republic Dropship with AT-OT |
+| Nazwa polska | Republic Dropship AT-OT |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1758 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419121835 |
 
 LEGO Star Wars 10195 Republic Dropship AT-OT
  
@@ -71,21 +98,53 @@ O produkcie:
  
 LEGO Star Wars 10195 Republic Dropship AT-OT to zestaw składający się z 2503 elementów, przeznaczony dla dzieci powyżej 8 lat. Zestaw bazuje na motywach serii Star Wars i pozwala na złożenie repliki pojazdu Republic Dropship AT-OT, który pojawił się w filmie "Zemsta Sithów". Produkt ten jest idealny dla fanów zarówno LEGO, jak i Star Wars. Zestaw rozwija zdolności manualne dziecka i dostarcza wiele godzin zabawy.
 
+**Galeria:**
+
+- 10195-1: https://a.allegroimg.com/original/111b88/d2d1808f46d8beb68066a9b42883
+
 ---
 
-## 10212 — Klicki Lego Star Wars Zestaw Kolekcjonerski Imperial Shuttle 10212
+## 10212 — 10212 Imperial Shuttle
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 9999.00 zł · EAN: 00673419131261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10212 |
+| Nazwa angielska | Imperial Shuttle |
+| Nazwa polska | 10212 Imperial Shuttle |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2503 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419131261 |
 
 Nowy zestaw klocków LEGO Star Wars 10212 Imperial Shuttle. Plomby nienaruszone, pudełko w bardzo dobrym/dobrym stanie.
 
 Unikalny statek Imperatora z VI części Gwiezdnych Wojen. Teraz możesz sam zbudować tą wielką ikonę pojazdów Star Wars w prawdziwej skali minifig. Imperial Shuttle jest bardzo szczegółowy. Posiada podwójne skrzydła poruszane za pomocą dwóch kluczy z tyłu pojazdu. Ten model Ultimate Collector's posiada funkcję otwierania czaszy gdzie mieszczą się cztery miejsca w kokpicie oraz ma podwójne działa laserowe. W miejsce zdejmowanego podwozia można doczepić podstawkę która pomogą wyeksponować model z rozłożonymi skrzydłami. Wymiary złożonego statku to 28" (71cm) wysokości stojąc na podstawkach i 22" (57cm) szerokości z rozłożonymi skrzydłami. W zestawie znajduje sie 5 minifigurek - Darth Vader, Imperial Pilot, Imperial Officer, Stormtrooper i Luke Skywalker.
 
+**Galeria:**
+
+- 10212-1: https://a.allegroimg.com/original/11dc0c/61c4f5a5425ba29e374d07ada511
+
 ---
 
-## 10215 — Lego 10215 Star Wars Obi-wan Starfighter
+## 10215 — STAR WARS OBI-WAN STARFIGHTER
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 00673419131278 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10215 |
+| Nazwa angielska | Obi-Wan's Jedi Starfighter |
+| Nazwa polska | STAR WARS OBI-WAN STARFIGHTER |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 676 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419131278 |
 
 LEGO 10215 STAR WARS OBI-WAN STARFIGHTER
  
@@ -102,11 +161,27 @@ O produkcie:
  
 LEGO 10215 STAR WARS OBI-WAN STARFIGHTER to zestaw klocków dla dzieci powyżej 10 roku życia. Zestaw, z bohaterem z sagi Gwiezdnych Wojen - Obi-Wanem Kenobim, pozwala na samodzielne składanie statku kosmicznego. Zestaw posiada wysokiej jakości klocki i dokładnie odwzorowany design, co pozwala na odtworzenie ulubionych scen z filmów. LEGO 10215 STAR WARS OBI-WAN STARFIGHTER to idealny wybór dla każdego miłośnika Gwiezdnych Wojen, który chce poczuć się jak prawdziwy Jedi.
 
+**Galeria:**
+
+- 10215-1: https://a.allegroimg.com/original/116909/8c8200304fbab82feed3e58077a6
+
 ---
 
-## 10221 — Lego Star Wars 10221 Star Destroyer Ucs Nowy
+## 10221 — Super Star Destroyer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 6699.00 zł · EAN: 00673419145701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10221 |
+| Nazwa angielska | Super Star Destroyer |
+| Nazwa polska | Super Star Destroyer |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419145701 |
 
 LEGO Star Wars 10221 Gwiezdny Super Niszczyciel Imperium
  
@@ -160,11 +235,27 @@ większych segmentów w celu zajrzenia do środka. **Solidnie wykonany** moste
  
 Na stanowisku pracy czy poza nim, jego obecność wpasuje się w każde nowe środowisko i **da o sobie znać kiedy zbliża się czas wolny!**
 
+**Galeria:**
+
+- 10221-1: https://a.allegroimg.com/original/113f3d/392b7c744123a8f85c8f3d4549b6
+
 ---
 
-## 10225 — Lego Star Wars 10225 R2-D2 Uszk. Op.
+## 10225 — R2-D2
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 989.95 zł · EAN: 05702014846647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10225 |
+| Nazwa angielska | R2-D2 |
+| Nazwa polska | R2-D2 |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2127 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014846647 |
 
 LEGO Star Wars 10225 R2-D2
 
@@ -195,11 +286,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 10225-1: https://a.allegroimg.com/original/11d81f/9a92f76446c090fd4bfbd5f0668b
+
 ---
 
-## 10227 — Lego Star Wars 10227 B-Wing Starfighter Nowe
+## 10227 — B-wing Starfighter - UCS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2595.47 zł · EAN: 05702014846739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10227 |
+| Nazwa angielska | B-wing Starfighter |
+| Nazwa polska | B-wing Starfighter - UCS |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014846739, 673419169189 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -223,11 +330,28 @@ Idealny prezent dla dorosłych fanów LEGO i Star Wars
  
 LEGO 10227 B-Wing Starfighter to zestaw stworzony z myślą o dorosłych kolekcjonerach. Świetnie sprawdzi się jako prezent dla każdego fana Gwiezdnych Wojen – zarówno na urodziny, święta, jak i specjalne okazje. Model jest częścią prestiżowej serii UCS, dlatego stanowi również doskonałą inwestycję kolekcjonerską – zestawy z tej linii zyskują z czasem na wartości.
 
+**Galeria:**
+
+- 10227-1: https://a.allegroimg.com/original/11d612/e61ac3f9412eae9239083bda2b80
+- 10227-2: https://a.allegroimg.com/original/110802/f0bd61f9485b88b6d845cc92e435
+
 ---
 
-## 10240 — Lego Star Wars 10240 Red Five X-wing Starfighter
+## 10240 — Red Five X-wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014975323 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10240 |
+| Nazwa angielska | Red Five X-Wing Starfighter |
+| Nazwa polska | Red Five X-wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1559 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975323 |
 
 Stan pudełka bardzo dobry. Plomby lekko naruszone ze względu na czas przechowywania. Woreczki nienaruszone. Jest to unikat sprzed 10 lat.
  
@@ -246,11 +370,27 @@ Zestaw LEGO Star Wars - Red Five X-wing Starfighter trafił do sprzedaży w 20
 
 Opakowanie jest takie jak na zdjęciu. Plomby nie są naruszone.
 
+**Galeria:**
+
+- 10240-1: https://a.allegroimg.com/original/05d96e/69e613ff4393be296bcf9fa62ec4
+
 ---
 
-## 20016 — Lego Star Wars 20016 Imperial Shuttle saszetka klocki Bricktober unikat
+## 20016 — Imperial Shuttle
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 185.00 zł · EAN: 00673419128933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20016 |
+| Nazwa angielska | Imperial Shuttle |
+| Nazwa polska | Imperial Shuttle |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419128933 |
 
 Witam
 
@@ -266,11 +406,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 20016-1: https://a.allegroimg.com/original/11d42d/9b7bcbcb469d8fe8540b3f75bf88
+
 ---
 
-## 20018 — Lego Star Wars 20018 At-at Walker saszetka klocki unikat rarytas
+## 20018 — AT-AT Walker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 229.00 zł · EAN: 00673419128940 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20018 |
+| Nazwa angielska | AT-AT Walker |
+| Nazwa polska | AT-AT Walker |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419128940 |
 
 Witam
 
@@ -286,11 +442,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 20018-1: https://a.allegroimg.com/original/1144be/952b8ed74a948a57b29c9c480333
+
 ---
 
-## 2017 — nowy Lego 5702015540629 Star Wars Limitowany Unikat Ostatni Jedi Misb 2017
+## 2017 — Limited Edition LEGO Star Wars Pack
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 684.99 zł · EAN: 05702015540629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2017 |
+| Nazwa angielska | Choo Choo Train |
+| Nazwa polska | Limited Edition LEGO Star Wars Pack |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015540629 |
 
 Cześć!
 
@@ -308,11 +479,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2017-1: https://a.allegroimg.com/original/118a6d/97e89ade45498bf9c37f623da750
+
 ---
 
-## 290463 — Lego Star Wars 911729 Droid Gunship saszetka z klockami
+## 290463 — Droid Gunship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 35.00 zł · EAN: 05060976586958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 290463 |
+| Nazwa angielska | — |
+| Nazwa polska | Droid Gunship |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976586958 |
 
 Witam
 
@@ -328,11 +514,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 290463-1: https://a.allegroimg.com/original/113d03/a67d14c146068266005b71c43375
+
 ---
 
-## 30005 — Lego Star Wars 30005 Imperial Speeder Bike
+## 30005 — Imperial Speeder Bike
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 133.99 zł · EAN: 05702014596399 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30005 |
+| Nazwa angielska | Imperial Speeder Bike |
+| Nazwa polska | Imperial Speeder Bike |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014596399 |
 
 **LEGO Star Wars Imperial Speeder Bike 30005 – KOLEKCJONERSKI ZESTAW**
 
@@ -360,11 +562,27 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Imperial Spee
 
 • Zestaw nowy, fabrycznie zaplombowany
 
+**Galeria:**
+
+- 30005-1: https://a.allegroimg.com/original/117200/41e9146b4fd9b29144f32b2b62e0
+
 ---
 
-## 30051 — Lego Star Wars 30051 Mini X-wing saszetka klocki Statek model wycofany
+## 30051 — Mini X-wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014807419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30051 |
+| Nazwa angielska | X-wing Fighter - Mini |
+| Nazwa polska | Mini X-wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014807419 |
 
 Witam
 
@@ -380,11 +598,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30051-1: https://a.allegroimg.com/original/11222b/d1b38f804132971f91cfca58d5c0
+
 ---
 
-## 30056 — Lego Star Wars 30056 Star Destroyer saszetka z klockami model wycofany
+## 30056 — Star Destroyer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702014857438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30056 |
+| Nazwa angielska | Star Destroyer |
+| Nazwa polska | Star Destroyer |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857438 |
 
 Zestaw **LEGO Star Wars 30056 – Mini Star Destroyer** to mały, kolekcjonerski model kultowego statku Imperium z uniwersum Star Wars. Zestaw został wydany w **2012 roku** jako część serii Star Wars Mini Building Set i składa się z **38 elementów**.
 
@@ -416,11 +650,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30056-1: https://a.allegroimg.com/original/11a9d6/fef7c883460cbd34ef0273b52310
+
 ---
 
-## 30057 — Lego Star Wars 30057 Anakin's Podracer saszetka z klockami unikat
+## 30057 — Anakin's Podracer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702014857452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30057 |
+| Nazwa angielska | Anakin's Podracer |
+| Nazwa polska | Anakin's Podracer |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857452 |
 
 Witam
 
@@ -436,11 +686,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30057-1: https://a.allegroimg.com/original/1179ec/b4ca7a114ebc8256d7435893a288
+
 ---
 
-## 30058 — Lego Star Wars Stap Speeder Droid 30058 Bez Figurki
+## 30058 — STAP
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702014857469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30058 |
+| Nazwa angielska | STAP |
+| Nazwa polska | STAP |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857469 |
 
 **✅ NOWA ORYGINALNA KONSTRUKCJA LEGO**
 
@@ -452,11 +718,27 @@ Konstrukcja zapakowana jest w ochronny plastikowy woreczek. Wysyłka z Polski do
 
 *****  ZAPRASZAM do kliknięcia zakładki WSZYSTKIE PRZEDMIOTY SPRZEDAJĄCEGO w której można znaleźć wiele innych ciekawych elementów i minifigurek *****
 
+**Galeria:**
+
+- 30058-1: https://a.allegroimg.com/original/111669/e321dd304ca88074b667fc3f904d
+
 ---
 
-## 30240 — Lego Star Wars 30240 Z-95 Headhunter saszetka klocki statek
+## 30240 — Z-95 Headhunter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702014966642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30240 |
+| Nazwa angielska | Z-95 Headhunter |
+| Nazwa polska | Z-95 Headhunter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014966642 |
 
 Witam
 
@@ -472,11 +754,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30240-1: https://a.allegroimg.com/original/11d1a7/118cb5904f359496e6104515dd40
+
 ---
 
-## 30246 — Lego Star Wars 30246 Imperial Shuttle saszetka z klockami statek
+## 30246 — Imperial Shuttle
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015125000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30246 |
+| Nazwa angielska | Imperial Shuttle |
+| Nazwa polska | Imperial Shuttle |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125000 |
 
 Witam
 
@@ -492,11 +790,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30246-1: https://a.allegroimg.com/original/117900/a94978924fb884a6e7adba1ac05e
+
 ---
 
-## 30247 — Lego Star Wars 30247 ARC-170 Starfighter saszetka z klockami unikat
+## 30247 — ARC-170 Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702015125017 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30247 |
+| Nazwa angielska | ARC-170 Starfighter |
+| Nazwa polska | ARC-170 Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125017 |
 
 Witam
 
@@ -512,11 +826,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30247-1: https://a.allegroimg.com/original/11a1cf/40319c3f4a44a32efafbf4587744
+
 ---
 
-## 30272 — Lego Star Wars 30272 A-Wing Starfighter saszetka z klockami statek
+## 30272 — LEGO Star Wars A-Wing Starfighter 30272
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702015357166 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30272 |
+| Nazwa angielska | A-Wing Starfighter |
+| Nazwa polska | LEGO Star Wars A-Wing Starfighter 30272 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357166 |
 
 Witam
 
@@ -534,11 +864,27 @@ Rafał
 
 **BD**
 
+**Galeria:**
+
+- 30272-1: https://a.allegroimg.com/original/117349/bec7cb1644d3b513bd51cf80e43f
+
 ---
 
-## 30275 — Klocki Lego Star Wars Tie Advanced 30275
+## 30275 — TIE Advanced
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 24.90 zł · EAN: 05702015357487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30275 |
+| Nazwa angielska | TIE Advanced Prototype |
+| Nazwa polska | TIE Advanced |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357487 |
 
 LEGO STAR WARS
 
@@ -556,11 +902,27 @@ Wyjątkowy zestaw dla fanów popularnej serialu Star Wars Rebelianci. Zbuduj mod
 
 Zestaw został przedstawiony w 2015 roku i składa się z 47 klocków oraz instrukcji.
 
+**Galeria:**
+
+- 30275-1: https://a.allegroimg.com/original/03d42a/e4fac19f4447afbb17184f088f74
+
 ---
 
-## 30276 — Lego Star Wars 30276 First Order Special Forces saszetka wycofana klocki
+## 30276 — First Order Special Forces.
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015415064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30276 |
+| Nazwa angielska | First Order Special Forces TIE Fighter |
+| Nazwa polska | First Order Special Forces. |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015415064 |
 
 Witam
 
@@ -580,11 +942,27 @@ Rafał
 
 .
 
+**Galeria:**
+
+- 30276-1: https://a.allegroimg.com/original/11d244/71977c6f4a04a469a54e4bed3c14
+
 ---
 
-## 30277 — Lego Star Wars 30277 First Order Star Destroyer saszetka z klockami
+## 30277 — LEGO STAR WARS 30277 FIRST ORDER STAR DESTROYER
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702015608589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30277 |
+| Nazwa angielska | First Order Star Destroyer |
+| Nazwa polska | LEGO STAR WARS 30277 FIRST ORDER STAR DESTROYER |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608589 |
 
 Witam
 
@@ -600,11 +978,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30277-1: https://a.allegroimg.com/original/0145c6/bd0982c94d129b62414c3d3ec746
+
 ---
 
-## 30278 — Lego Star Wars 30278 Poe's X-wing Fighter saszetka klocki statek
+## 30278 — Poe's X-wing Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015608596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30278 |
+| Nazwa angielska | Poe's X-wing Fighter |
+| Nazwa polska | Poe's X-wing Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608596 |
 
 Witam
 
@@ -622,11 +1016,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30278-1: https://a.allegroimg.com/original/11b65f/0eddbc0a4afea04b8dba628514ca
+
 ---
 
-## 30279 — Lego Star Wars 30279 Kylo Ren's Command Shuttle saszetka klocki
+## 30279 — LEGO
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 52.00 zł · EAN: 05702015608602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30279 |
+| Nazwa angielska | Kylo Ren's Command Shuttle |
+| Nazwa polska | LEGO |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608602 |
 
 Witam
 
@@ -642,11 +1052,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30279-1: https://a.allegroimg.com/original/01633b/8494f5b34ab7b7ec68b8923afc8e
+
 ---
 
-## 30380 — Lego Star Wars 30380 Kylo Ren's Shuttle saszetka z klockami
+## 30380 — Kylo Ren's Shuttle - Mini polybag
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702016122077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30380 |
+| Nazwa angielska | Kylo Ren's Shuttle |
+| Nazwa polska | Kylo Ren's Shuttle - Mini polybag |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122077 |
 
 Witam
 
@@ -662,11 +1088,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30380-1: https://a.allegroimg.com/original/11b737/d3646bf14772a3e910d59a646003
+
 ---
 
-## 30383 — Lego Star Wars 30383 Naboo Starfighter saszetka z klockami statek
+## 30383 — Naboo Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702016376166 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30383 |
+| Nazwa angielska | Naboo Starfighter |
+| Nazwa polska | Naboo Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016376166 |
 
 Witam
 
@@ -682,11 +1124,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30383-1: https://a.allegroimg.com/original/11e9fb/4a5e2712408eb8da165172689ff2
+
 ---
 
-## 30384 — Lego Star Wars 30384 Snowspeeder saszetka z klockami
+## 30384 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702016376777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30384 |
+| Nazwa angielska | Snowspeeder |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016376777 |
 
 Witam
 
@@ -702,11 +1160,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30384-1: https://a.allegroimg.com/original/11c5e1/cc391dfa475cb71d82eef88210bf
+
 ---
 
-## 30386 — Lego Star Wars 30386
+## 30386 — Poe Dameron X-wing Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016667868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30386 |
+| Nazwa angielska | Poe Dameron's X-wing Fighter |
+| Nazwa polska | Poe Dameron X-wing Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667868 |
 
 LEGO STAR WARS 30386
 
@@ -716,11 +1190,27 @@ LEGO STAR WARS 30386
 
 **Edycja limitowana!**
 
+**Galeria:**
+
+- 30386-1: https://a.allegroimg.com/original/11dcaa/e4d955e7418ea5188734d993b6a3
+
 ---
 
-## 30388 — Lego Star Wars Imperialny Wahadłowiec 30388 Polybag
+## 30388 — Imperialny Wahadłowiec
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016912050 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30388 |
+| Nazwa angielska | Imperial Shuttle |
+| Nazwa polska | Imperialny Wahadłowiec |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912050 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -734,11 +1224,27 @@ Rok wydania:** 2021**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
+**Galeria:**
+
+- 30388-1: https://a.allegroimg.com/original/1170a9/86863bb84a5eadb139d7e6695c3f
+
 ---
 
-## 30461 — Lego Star Wars 30461 Ścigacz podracer saszetka klocki
+## 30461 — ŚCIGACZ PODRACER POLYBAG
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702016376784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30461 |
+| Nazwa angielska | Podracer |
+| Nazwa polska | ŚCIGACZ PODRACER POLYBAG |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016376784 |
 
 Witam
 
@@ -754,11 +1260,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30461-1: https://a.allegroimg.com/original/11598a/83a78c0f4a83b285e1490115b9ba
+
 ---
 
-## 30495 — Lego Star Wars 30495 At-st saszetka z klockami
+## 30495 — AT-ST
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 19.89 zł · EAN: 05702017153506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30495 |
+| Nazwa angielska | AT-ST |
+| Nazwa polska | AT-ST |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153506 |
 
 Witam
 
@@ -787,11 +1309,27 @@ Rafał
 - **Głębokość (mm):** 20
 - **Waga (g):** 49
 
+**Galeria:**
+
+- 30495-1: https://a.allegroimg.com/original/11ebca/9de026634fc9a81da27da824a657
+
 ---
 
-## 30496 — Lego Star Wars 30496 U-Wing Fighter saszetka z klockami
+## 30496 — LEGO STAR WARS U-WING
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015877039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30496 |
+| Nazwa angielska | U-Wing Fighter |
+| Nazwa polska | LEGO STAR WARS U-WING |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015877039 |
 
 Witam
 
@@ -807,11 +1345,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30496-1: https://a.allegroimg.com/original/11673f/e1e40cd345c699d6b033b46c786a
+
 ---
 
-## 30497 — Lego Star Wars 30497 First Order Heavy Assault Walker saszetka klocki
+## 30497 — First Order Heavy Assault Walker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015877046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30497 |
+| Nazwa angielska | First Order Heavy Assault Walker |
+| Nazwa polska | First Order Heavy Assault Walker |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015877046 |
 
 **Lego Star Wars Ciężka maszyna krocząca 30497**. Nowa wersja Ciężkiej Machiny Kroczącej AT-ST w postaci mini. Zarówno dla kolekcjonerów jak i młodszych miłośników całej sagi. Edycja limitowana, jest to promocyjny polybag mini. Należy do nowej serii Lego Star Wars - The Last Jedi.
 
@@ -845,21 +1399,53 @@ Nr katalogowy: 30497
  
 Ilość klocków w zestawie: 54
 
+**Galeria:**
+
+- 30497-1: https://a.allegroimg.com/original/11d6e2/bd51a1344dd7a72552bca3dbe53b
+
 ---
 
-## 30498 — Lego Star Wars 30498 Imperialny AT-Hauler Polybag 2018
+## 30498 — star wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 62.88 zł · EAN: 05702016117561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30498 |
+| Nazwa angielska | Imperial AT-Hauler |
+| Nazwa polska | star wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117561 |
 
 Klocki LEGO Star Wars 30498 - Imperialny AT-Hauler
 
 Zestaw LEGO Star Wars - Imperialny AT-Hauler trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 30498. Zawiera 49 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Star Wars - Imperial AT-Hauler. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30498-1: https://a.allegroimg.com/original/117f7f/598c4f5e4fdc976187caaacb76bf
+
 ---
 
-## 30605 — Lego Star Wars 30605 Finn (FN-2187) saszetka klocki minifigurka
+## 30605 — Finn (FN-2187)
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 73.99 zł · EAN: 05702015618113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30605 |
+| Nazwa angielska | Finn (FN-2187) |
+| Nazwa polska | Finn (FN-2187) |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015618113 |
 
 Witam
 
@@ -875,11 +1461,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30605-1: https://a.allegroimg.com/original/11751f/70bf02f04313a25fc31bdf6df1ef
+
 ---
 
-## 30611 — Lego Star Wars 30611 R2-D2 saszetka klocki minifigurka unikat
+## 30611 — R2-D2
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015890076 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30611 |
+| Nazwa angielska | R2-D2 |
+| Nazwa polska | R2-D2 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015890076 |
 
 Witam
 
@@ -895,11 +1497,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30611-1: https://a.allegroimg.com/original/03cc1f/339d1c0f431daf100e336b895f48
+
 ---
 
-## 30625 — Lego Star Wars 30625 Luke Skywalker Z Mlekiem Nowy
+## 30625 — Luke Skywalker with Blue Milk
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016686395 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30625 |
+| Nazwa angielska | Luke Skywalker with Blue Milk |
+| Nazwa polska | Luke Skywalker with Blue Milk |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016686395 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -919,11 +1537,27 @@ Numer katalogowy tego zestawu to 30625.
 
 Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 30625-1: https://a.allegroimg.com/original/11eae7/b4e96d164f57840347ec160925a4
+
 ---
 
-## 30654 — Lego Star Wars 30654 X-Wing Starfighter
+## 30654 — X-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 32.49 zł · EAN: 05702017421100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30654 |
+| Nazwa angielska | X-Wing Starfighter |
+| Nazwa polska | X-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421100 |
 
 ★LEGO STAR WARS X-WING STARFIGHTER ZESTAW 30654★
 
@@ -951,11 +1585,27 @@ Zestaw zawiera 72 elementy ✅
  
 6. Odbierz paczke i ciesz się świetnym zestawem!✅
 
+**Galeria:**
+
+- 30654-1: https://a.allegroimg.com/original/11abe5/809a241449dbbbfc3f74ff587d39
+
 ---
 
-## 30680 — 30680 Lego Star Wars Aat saszetka mały zestaw Gwiezdne Wojny 6+
+## 30680 — stars wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017590189 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30680 |
+| Nazwa angielska | AAT |
+| Nazwa polska | stars wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590189 |
 
 LEGO 30680 Star Wars AAT
 
@@ -967,11 +1617,26 @@ LEGO 30680 Star Wars AAT
 - Dane techniczne: - Nazwa produktu: LEGO 30680 Star Wars AAT - Liczba klocków: 75 - Seria: Star Wars - Grupa wiekowa: 6+ - Realistyczna replika pojazdu AAT 
 - Przyłącz się do rosnącej społeczności miłośników LEGO i ciesz się twórczym budowaniem razem!
 
+**Galeria:**
+
+- 30680-1: https://a.allegroimg.com/original/058717/bcd21e6e4937bbde3ffa67325d4a
+
 ---
 
-## 30685 — Lego Star Wars Minimodel Tie Interceptor 30685
+## 30685 — MINIMODEL TIE INTERCEPTOR
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017676371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30685 |
+| Nazwa angielska | TIE Interceptor |
+| Nazwa polska | MINIMODEL TIE INTERCEPTOR |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017676371 |
 
 LEGO Star Wars Minimodel TIE Interceptor 30685
 
@@ -981,11 +1646,26 @@ Uczcij 25 rocznicę serii LEGO® Star Wars™ i zainspiruj młodych fanów Gwiez
 
 Zestaw zawiera 48 klocków LEGO.
 
+**Galeria:**
+
+- 30685-1: https://a.allegroimg.com/original/119127/6d079a2a42e480e2b3bbe5f7c9fd
+
 ---
 
-## 30727 — Lego Star Wars 30727 Tie Advanced Myśliwiec Dartha Vadera Mini Model
+## 30727 — Minimodel TIE Advanced
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 10.00 zł · EAN: 05702018058114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30727 |
+| Nazwa angielska | TIE Advanced Mini-Build |
+| Nazwa polska | Minimodel TIE Advanced |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058114 |
 
 LEGO Star Wars Minimodel TIE Advanced 30727
 
@@ -993,21 +1673,52 @@ Zainspiruj dzieci do wymyślania pełnych akcji przygód dzięki miniaturowej we
 
 Gwiezdne Wojny: Nowa nadzieja.
 
+**Galeria:**
+
+- 30727-1: https://a.allegroimg.com/original/112205/a6bdaa0348d1aa8e342a5e626cd9
+
 ---
 
-## 30728 — Lego Star Wars Minimodel Brzeszczota 30728
+## 30728 — LEGO Star Wars 30728 Minimodel Brzeszczota
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 12.49 zł · EAN: 05702018058121 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30728 |
+| Nazwa angielska | The Razor Crest Mini-Build |
+| Nazwa polska | LEGO Star Wars 30728 Minimodel Brzeszczota |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058121 |
 
 **LEGO Star Wars Minimodel Brzeszczota 30728**
 
 Pozwól dzieciom odgrywać własne ekscytujące misje z filmu Star Wars: The Mandalorian & Grogu™ z miniaturową wersją statku gwiezdnego Brzeszczot zbudowaną z klocków LEGO®.
 
+**Galeria:**
+
+- 30728-1: https://a.allegroimg.com/original/116c74/cdd0a739412585335c0fc662e4cf
+
 ---
 
-## 3340 — Zestaw Lego Star Wars 3340 Sith Minifigure Pack Nowy Misb 2000
+## 3340 — Sith Minifigure Pack
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 800.00 zł · EAN: 05702012009679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3340 |
+| Nazwa angielska | Star Wars #1 - Sith Minifig Pack |
+| Nazwa polska | Sith Minifigure Pack |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2000 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012009679 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO
 
@@ -1028,11 +1739,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 3340-1: https://a.allegroimg.com/original/119447/d47ca0fe4d269474c9804cff2aca
+
 ---
 
-## 3850033 — nowy Lego 3850033 Pick a Model Exclusive Lego Store London Unikat Misb 2017
+## 3850033 — Guardsman
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702015989404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3850033 |
+| Nazwa angielska | Guardsman |
+| Nazwa polska | Guardsman |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015989404 |
 
 Cześć!
 
@@ -1050,11 +1776,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 3850033-1: https://a.allegroimg.com/original/11a020/15f6a43c459d8b127501f4553a5d
+
 ---
 
-## 4002019 — Lego Star Wars 4002019 Christmas X-wing Zestaw Pracowniczy
+## 4002019 — LEGO Star Wars 4002019 Christmas X-wing Zestaw
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 3190.00 zł · EAN: 00673419058346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002019 |
+| Nazwa angielska | Yuletide Squadron Xmas-Wing Starfighter |
+| Nazwa polska | LEGO Star Wars 4002019 Christmas X-wing Zestaw |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1038 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419058346 |
 
 **LEGO® 4002019 Star Wars – Christmas X-wing to limitowana edycja zestawu, która z pewnością zadowoli każdego fana LEGO Star Wars. Wydany w 2019 roku, ten zestaw składa się z 1038 elementów i 3 minifigurek.**
 
@@ -1064,11 +1806,27 @@ Pozdrawiam.
 
 **LEGO® 4002019 Star Wars – Christmas X-wing to nie tylko doskonały zestaw dla fanów LEGO Star Wars, ale także świetna inwestycja dla kolekcjonerów. Zestaw ten jest już wycofany z produkcji, co czyni go rzadkim i pożądanym przez wielu kolekcjonerów na całym świecie.**
 
+**Galeria:**
+
+- 4002019-1: https://a.allegroimg.com/original/11666f/6ddc9cc64b31b73fd7499262a71a
+
 ---
 
-## 40268 — Lego Star Wars 40268 Droid R3-M2 Polybag 6+
+## 40268 — R3-M2
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702015879026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40268 |
+| Nazwa angielska | R3-M2 |
+| Nazwa polska | R3-M2 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015879026 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1096,11 +1854,27 @@ W modelu znajdziesz też 1 minifigurki.
 
 Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 40268-1: https://a.allegroimg.com/original/11b9fc/b867e1a1477793cbbcf8b7a60d22
+
 ---
 
-## 40288 — Lego Star Wars 40288 BB-8 saszetka z klockami unikat
+## 40288 — BB8
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016122930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40288 |
+| Nazwa angielska | BB-8 |
+| Nazwa polska | BB8 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122930 |
 
 Witam
 
@@ -1116,11 +1890,27 @@ Rafał
 
 Zestaw został wydany w woreczku foliowym.
 
+**Galeria:**
+
+- 40288-1: https://a.allegroimg.com/original/11ecd4/7ae7f1db496a851baa01f6244079
+
 ---
 
-## 40298 — Lego Star Wars 40298 Dj saszetka polybag z minifigurką klocki
+## 40298 — Star Wars Minifigurka DJ-a
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 67.99 zł · EAN: 00673419287388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40298 |
+| Nazwa angielska | DJ |
+| Nazwa polska | Star Wars Minifigurka DJ-a |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287388 |
 
 LEGO STAR WARS 40298 - DJ
 
@@ -1143,11 +1933,27 @@ Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są 
  
 ©LEGO and the LEGO logo are trademarks of the LEGO Group ©
 
+**Galeria:**
+
+- 40298-1: https://a.allegroimg.com/original/111b05/fcfdb23a45dc8a3acc1adcc26067
+
 ---
 
-## 40299 — Lego Star Wars 40299 Kessel Mine Worker
+## 40299 — Kessel Mine Worker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419287395 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40299 |
+| Nazwa angielska | Kessel Mine Worker |
+| Nazwa polska | Kessel Mine Worker |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287395 |
 
 **LEGO zestaw  - polybag**
 
@@ -1173,21 +1979,53 @@ Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są 
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 40299-1: https://a.allegroimg.com/original/035951/43f01c0e4b93b46d526de4c46be7
+
 ---
 
-## 40333 — Lego Star Wars 40333 Bitwa o Hoth
+## 40333 — Bitwa o Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016371161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40333 |
+| Nazwa angielska | Battle of Hoth - 20th Anniversary Edition |
+| Nazwa polska | Bitwa o Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371161 |
 
 LEGO Mikromodel Bitwa o Hoth 40333
 
 Wzbogać swoją kolekcję o wspaniały mikromodel Bitwa o Hoth! W zestawie znajdziesz maszynę kroczącą z ruchomymi nogami i głową, dwa śmigacze śnieżne oraz generator z bazy Echo, dokładnie takie, jakie pamiętasz z filmu Gwiezdne wojny: Imperium kontratakuje.
 
+**Galeria:**
+
+- 40333-1: https://a.allegroimg.com/original/00ffc3/46c03bf949219dc200e848c90582
+
 ---
 
-## 40362 — Lego Star Wars 40362 Mikromodel Bitwa o Endor
+## 40362 — 40362
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.79 zł · EAN: 05702016390070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40362 |
+| Nazwa angielska | Battle of Endor - 20th Anniversary Edition |
+| Nazwa polska | 40362 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016390070 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1211,21 +2049,53 @@ Uczcij Triple Force Friday i 20. rocznicę serii konstrukcyjnej, sięgając po e
 
 Zestaw LEGO Star Wars - Mikromodel Bitwa o Endor trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 40362. Zawiera 197 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Star Wars - Battle of Endor - 20th Anniversary Edition
 
+**Galeria:**
+
+- 40362-1: https://a.allegroimg.com/original/034d03/2150e9f34adb96e3bfc7e90168af
+
 ---
 
-## 40407 — Lego Star Wars Bitwa o Gwiazdę Śmierci II 40407
+## 40407 — star wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016656671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40407 |
+| Nazwa angielska | Death Star II Battle |
+| Nazwa polska | star wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656671 |
 
 Klocki LEGO Star Wars 40407 - Bitwa o Gwiazdę Śmierci II
 
 Uczcij Dzień Gwiezdnych wojen™, budując walki Jedi z filmu „Gwiezdne wojny: Powrót Jedi” za pomocą zestawu LEGO® przedstawiającego bitwę o Gwiazdę Śmierci II z A-wingiem i TIE Interceptorem!
 
+**Galeria:**
+
+- 40407-1: https://a.allegroimg.com/original/113ceb/65c039c34a948d0890d78d3a64ef
+
 ---
 
-## 40451 — Zestaw Lego Star Wars 40451 Gwiezdne Wojny: Gospodarstwo Na Tatooine
+## 40451 — Klocki LEGO Star Wars 40451 Gospodarstwo na Tatooine
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702016910995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40451 |
+| Nazwa angielska | Tatooine Homestead |
+| Nazwa polska | Klocki LEGO Star Wars 40451 Gospodarstwo na Tatooine |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 9 cm × gł. 17 cm |
+| EAN | 5702016910995 |
 
 ZESTAW LEGO STAR WARS - 40451 - GWIEZDNE WOJNY: GOSPODARSTWO NA TATOOINE
 
@@ -1261,11 +2131,27 @@ Model ma ok. 4 cm wysokości, 9 cm szerokości i 17 cm głębokości, co czyni g
 
 LEGO Star Wars 40451 to wyjątkowy zestaw dla każdego fana Gwiezdnych Wojen, który ceni sobie klimatyczne sceny i kolekcjonerskie miniatury. Niewielka liczba elementów sprawia, że budowa jest szybka i satysfakcjonująca, a jednocześnie efekt końcowy robi duże wrażenie dzięki bogactwu detali i odniesień do filmu. To świetny wybór na prezent urodzinowy, świąteczny lub po prostu bez okazji – idealny zarówno dla młodszych konstruktorów, jak i dorosłych kolekcjonerów. Możliwość łączenia z innymi zestawami LEGO Star Wars sprawia, że model zyskuje dodatkową wartość i może stać się częścią większej, imponującej ekspozycji. To niewielka diorama, która potrafi przenieść wyobraźnię prosto na Tatooine i zapewnić wiele radości z budowania i kolekcjonowania.
 
+**Galeria:**
+
+- 40451-1: https://a.allegroimg.com/original/11ebb4/a39b4b9d40ffac388aee4114a19e
+
 ---
 
-## 40483 — Lego 40483 Miecz świetlny Luke'a Skywalkera
+## 40483 — Miecz świetlny Luke'a Skywalkera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702016988055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40483 |
+| Nazwa angielska | Luke Skywalker's Lightsaber |
+| Nazwa polska | Miecz świetlny Luke'a Skywalkera |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 20 cm × gł. 8 cm |
+| EAN | 5702016988055 |
 
 LEGO 40483
 
@@ -1275,11 +2161,27 @@ Miecz świetlny Luke'a Skywalkera
 - Ten przeznaczony dla dorosłych zestaw LEGO® Star Wars™ liczy 173 elementy i oprócz podstawki i tabliczki z nazwą zawiera szczegółowe instrukcje.
 - Model ma ok. 7 cm wysokości, 20 cm szerokości i 8 cm głębokości. Świetnie nadaje się na prezent świąteczny lub urodzinowy dla fanów Star Wars™, którzy mogą postawić go na półce jako ozdobę.
 
+**Galeria:**
+
+- 40483-1: https://a.allegroimg.com/original/1171b2/1c1c18274cf7837b550a73082225
+
 ---
 
-## 40558 — Lego 40558 Star Wars Stacja dowodzenia żołnierza oddziału klonów klocki
+## 40558 — Stacja dowodzenia klonów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419359955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40558 |
+| Nazwa angielska | Clone Trooper Command Station |
+| Nazwa polska | Stacja dowodzenia klonów |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419359955 |
 
 LEGO® 40557 Obrona Hoth™
 
@@ -1297,11 +2199,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40558-1: https://a.allegroimg.com/original/11d051/3362b32f4a50be91ec7abde9e91a
+
 ---
 
-## 40591 — Zestaw Lego Star Wars – 40591 – Gwiazda Śmierci II Z Gwiezdnych Wojen
+## 40591 — Klocki LEGO Star Wars 40591 Gwiazda Śmierci II
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 278.00 zł · EAN: 05702017423906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40591 |
+| Nazwa angielska | Death Star II |
+| Nazwa polska | Klocki LEGO Star Wars 40591 Gwiazda Śmierci II |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423906 |
 
 ZESTAW LEGO STAR WARS – 40591 – GWIAZDA ŚMIERCI II Z GWIEZDNYCH WOJEN
 
@@ -1337,11 +2255,27 @@ Ten zestaw LEGO wiernie oddaje charakterystyczny wygląd Gwiazdy Śmierci II, sk
 
 Zestaw LEGO Star Wars 40591 Gwiazda Śmierci II to doskonały prezent dla każdego miłośnika uniwersum Star Wars oraz pasjonata konstrukcji LEGO. Jego wyjątkowość wynika nie tylko z wyjątkowej jakości wykonania, ale również z głębokiego powiązania z jedną z najważniejszych ikon popkultury. To model, który zachwyci zarówno dorosłych kolekcjonerów, jak i młodszych fanów, oferując im nie tylko radość z budowania, ale także unikalny element do kolekcji, który przyciąga wzrok i budzi emocje. Dzięki kompaktowym rozmiarom, solidnemu wykonaniu i efektownej podstawce, Gwiazda Śmierci II stanie się prawdziwą ozdobą każdego wnętrza. Ten zestaw to idealny wybór na urodzinowy prezent lub podarunek bez okazji, który z pewnością zostanie doceniony przez każdego fana LEGO i Star Wars, pozostawiając trwałe wspomnienia i satysfakcję z własnoręcznie zbudowanego dzieła.
 
+**Galeria:**
+
+- 40591-1: https://a.allegroimg.com/original/11b18f/3fddf21f4acdbcdda6b179f6813a
+
 ---
 
-## 40658 — Lego 40658 Star Wars Świąteczna diorama z Sokołem Millennium Święta
+## 40658 — 40658 Star Wars - Świąteczna diorama z Sokołem Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702017471556 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40658 |
+| Nazwa angielska | Millennium Falcon Holiday Diorama |
+| Nazwa polska | 40658 Star Wars - Świąteczna diorama z Sokołem Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471556 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1351,11 +2285,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40658-1: https://a.allegroimg.com/original/111e4c/3f8a77e54d329c3f37cb8e253ec8
+
 ---
 
-## 40686 — Lego 40686 Star Wars Transporter droidów Federacji Handlowej
+## 40686 — LEGO Star Wars 40686 - Statek MTT Federacji Handlowej
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017597157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40686 |
+| Nazwa angielska | Trade Federation Troop Carrier |
+| Nazwa polska | LEGO Star Wars 40686 - Statek MTT Federacji Handlowej |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017597157 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -1371,11 +2321,27 @@ Numer magazynowy sprzedawcy: 20260314
 
 Przybliżone wymiary opakowania:** 20,3 x 7,6 x 7,6 cm**
 
+**Galeria:**
+
+- 40686-1: https://a.allegroimg.com/original/11a607/ef29079f453d9ee1e5f54a41e8ab
+
 ---
 
-## 40730 — Lego 40730 Star Wars Miecz Świetlny
+## 40730 — LEGO 40730
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 442.00 zł · EAN: 05702017598772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40730 |
+| Nazwa angielska | Luke Skywalker's Lightsaber |
+| Nazwa polska | LEGO 40730 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 m + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598772 |
 
 LEGO® 40730 Miecz świetlny Luke’a Skywalkera
 
@@ -1388,11 +2354,27 @@ Wyzwól moc swej kreatywności, budując zestaw dla dorosłych LEGO® Star Wars
 - Model kolekcjonerski do zbudowania — ten zestaw należy do serii zestawów konstrukcyjnych LEGO® Star Wars™ dla dorosłych, zaprojektowanych z myślą o osobach, które lubią budować satysfakcjonujące projekty i spędzać czas wolny w kreatywny sposób 
 - Wymiary — 145-elementowy miecz świetlny LEGO® Star Wars™ ma 26 cm długości i 8 cm średnicy
 
+**Galeria:**
+
+- 40730-1: https://a.allegroimg.com/original/113555/051352454735868ad5219748f208
+
 ---
 
-## 40755 — Lego Star Wars 40755 Imperialny transportowiec kontra śmigacz Rebelii
+## 40755 — Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702017726878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40755 |
+| Nazwa angielska | Imperial Dropship vs. Rebel Scout Speeder |
+| Nazwa polska | Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 383 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm × gł. 16 cm |
+| EAN | 5702017726878 |
 
 LEGO 40755 Star Wars - Imperialny transportowiec kontra zwiadowczy śmigacz Rebelii
  
@@ -1426,11 +2408,27 @@ Ten fajny zestaw z Gwiezdnych Wojen dla dzieci w wieku od ośmiu lat zawiera trz
  
 - Wymiary — transportowiec ma 6 cm wysokości, 14 cm długości i 8 cm szerokości, a śmigacz ma 7 cm wysokości, 16 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 40755-1: https://a.allegroimg.com/original/11afab/6c38434e48df83cc16ccf9f1bed6
+
 ---
 
-## 40765 — Lego Star Wars 40765 Ośrodek szkoleniowy na Kamino 3 klony kadetów
+## 40765 — Ośrodek szkoleniowy na Kamino
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 162.99 zł · EAN: 05702017830254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40765 |
+| Nazwa angielska | Kamino Training Facility |
+| Nazwa polska | Ośrodek szkoleniowy na Kamino |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 8 cm |
+| EAN | 5702017830254 |
 
 LEGO Star Wars 40765 Ośrodek szkoleniowy na Kamino 3 klony kadetów / NOWY / UNIKAT
 
@@ -1457,11 +2455,27 @@ Zbuduj armię klonów i przygotuj ją do bitwy w ośrodku szkoleniowym na Kamino
 - Kreatywny prezent dla fanów Gwiezdnych Wojen™ — ten zestaw konstrukcyjny LEGO® to świetny prezent dla dzieci i wszystkich fanów Gwiezdnych Wojen w wieku od 10 lat
 - Buduj, eksponuj i baw się — pojazd KE-8 Enforcer do zbudowania w tym 190-elementowym zestawie LEGO® Star Wars™ ma 24 cm wysokości, 5 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 40765-1: https://a.allegroimg.com/original/11f9cc/bb42fe8c4ebb88e0c948f7e68055
+
 ---
 
-## 40771 — Lego 40771 Star Wars Myśliwiec Tie Ze Stanowiskiem W Imperialnym Hangarze
+## 40771 — Myśliwiec TIE ze stanowiskiem w imperialnym hangarze
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702017829814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40771 |
+| Nazwa angielska | TIE Fighter with Imperial Hangar Rack |
+| Nazwa polska | Myśliwiec TIE ze stanowiskiem w imperialnym hangarze |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm |
+| EAN | 5702017829814 |
 
 Odtwórz kultowy myśliwiec TIE i zadokuj go na stanowisku w imperialnym hangarze dzięki temu zestawowi LEGO® Star Wars™ (40771) dla dzieci w wieku od 10 lat. Zawiera myśliwiec TIE i stanowisko, które można przymocować do ściany hangaru Gwiazdy Śmierci. W zestawie znajdują się również trzy minifigurki LEGO Star Wars, w tym dwóch szturmowców, a także wózek serwisowy, który można dodać do modelu Gwiazdy Śmierciz serii Ultimate Collector Series. Zestaw zawiera 236 elementów.
 
@@ -1474,11 +2488,26 @@ Odtwórz kultowy myśliwiec TIE i zadokuj go na stanowisku w imperialnym hangarz
 - Przymocuj stojak do ściany w hangarze Gwiazdy Śmierci i zadokuj myśliwiec TIE w środku 
 - Wymiary — myśliwiec TIE LEGO® Star Wars™ w tym 236-elementowym zestawie ma 9 cm wysokości, 8 cm długości i 11 cm szerokości
 
+**Galeria:**
+
+- 40771-1: https://a.allegroimg.com/original/11715c/011e77164041a77087a18fca8f85
+
 ---
 
-## 40806 — * Lego Star Wars Piernikowa maszyna krocząca At-at 40806
+## 40806 — Piernikowa maszyna krocząca AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 205.88 zł · EAN: 05702017829968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40806 |
+| Nazwa angielska | Gingerbread AT-AT Walker |
+| Nazwa polska | Piernikowa maszyna krocząca AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 697 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 10 cm |
+| EAN | 5702017829968 |
 
 LEGO STAR WARS - Piernikowa maszyna krocząca AT-AT 40806
  
@@ -1505,11 +2534,27 @@ Ten świąteczny zestaw konstrukcyjny **zawiera AT-AT w stylu domku z piernika i
 - Odkryj całą serię - zestawy LEGO Star Wars (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie kultowych scen, wymyślanie własnych historii lub eksponowanie modeli z klocków 
 - Wymiary - maszyna krocząca AT-AT LEGO Star Wars w tym 697-elementowym zestawie ma 19 cm wysokości, 23 cm długości i 10 cm szerokości
 
+**Galeria:**
+
+- 40806-1: https://a.allegroimg.com/original/11a8ab/10c29e81480ca71f91ec2d703e72
+
 ---
 
-## 4485 — Lego Star Wars 4485 Sebulba's Podracer Mini 2003 rok
+## 4485 — Sebulba's Podracer Mini
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702014260306 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4485 |
+| Nazwa angielska | Sebulba's Podracer & Anakin's Podracer |
+| Nazwa polska | Sebulba's Podracer Mini |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014260306 |
 
 LEGO Star Wars 4485 Sebulba's Podracer Mini
 
@@ -1523,11 +2568,27 @@ O produkcie:
 
 LEGO Star Wars 4485 Sebulba's Podracer Mini to zestaw klocków idealny dla młodych fanów Gwiezdnych Wojen. Pozwala na zbudowanie miniatury Sebulby, charakterystycznego pojazdu z sagi. Klocki mają wysoką jakość wykonania i dopracowane szczegóły, co pochodzi od znanej i cenionej marki LEGO. Instrukcja krok po kroku pozwala na łatwe złożenie pojazdu, a kreatywność dziecka może być rozwijana na każdym etapie. LEGO Star Wars 4485 Sebulba's Podracer Mini jest idealnym prezentem dla dzieci powyżej 6 lat.
 
+**Galeria:**
+
+- 4485-1: https://a.allegroimg.com/original/112f0c/f06fbdc2476bbbfc126221d761cf
+
 ---
 
-## 4486 — Lego Star Wars 4486 Mini At-st & Snowspeeder nowy zestaw klocków unikat
+## 4486 — Mini AT-ST & Snowspeeder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702014260290 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4486 |
+| Nazwa angielska | AT-ST & Snowspeeder - Mini |
+| Nazwa polska | Mini AT-ST & Snowspeeder |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014260290 |
 
 Witam
 
@@ -1543,11 +2604,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 4486-1: https://a.allegroimg.com/original/116ed3/62a2048f4a2b90da7d64c578a9e7
+
 ---
 
-## 4505 — Lego 4504 Star Wars Millennium Falcon
+## 4505 — LEGO 4504 Star Wars - Millennium Falcon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702014365902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4505 |
+| Nazwa angielska | Sea Machines |
+| Nazwa polska | LEGO 4504 Star Wars - Millennium Falcon |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014365902 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1571,21 +2648,52 @@ Rafał
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4505-1: https://a.allegroimg.com/original/116d3a/0476bd6144578e5d540d916315b9
+
 ---
 
-## 5005376 — Lego Star Wars 5005376 Darth Vader Kapsuła rocznicowa
+## 5005376 — Kapsuła rocznicowa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 164.88 zł · EAN: 00673419290869 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005376 |
+| Nazwa angielska | Darth Vader |
+| Nazwa polska | Kapsuła rocznicowa |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419290869 |
 
 Klocki LEGO Star Wars 5005376 - Kapsuła rocznicowa
 
 Zestaw LEGO Star Wars - Kapsuła rocznicowa trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 5005376. Zawiera 36 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Star Wars Anniversary Pod. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 5005376-1: https://a.allegroimg.com/original/064feb/3536246c4ee29ef53e26d9b1ee3c
+
 ---
 
-## 5008162 — Lego 5008162 Star Wars Limited Edition Kredyt plus naszywki Nowe Kolekcjon.
+## 5008162 — Edycja Kolekcjonerska Wojny Klonów KREDYT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 575.21 zł · EAN: 05060373576125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008162 |
+| Nazwa angielska | Star Wars Collectible: Clone Wars E |
+| Nazwa polska | Edycja Kolekcjonerska Wojny Klonów KREDYT |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373576125 |
 
 LEGO® Star Wars 5008162 - Collectible: Clone Wars Edition - LIMITOWANE
 
@@ -1601,11 +2709,26 @@ Zestaw LEGO mocno limitowany składa się z dwóch naszywek oraz jednego metalow
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 5008162-1: https://a.allegroimg.com/original/118773/bbc159374cfca138b9ceab17bd1c
+
 ---
 
-## 5010320 — Lego Star Wars 5010320 Ozdoba z Mandalorianinem i Grogu
+## 5010320 — Ozdoba z Mandalorianinem i Grogu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.98 zł · EAN: 05060093913385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5010320 |
+| Nazwa angielska | The Mandalorian and Grogu Display |
+| Nazwa polska | Ozdoba z Mandalorianinem i Grogu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060093913385 |
 
 LEGO 5010320 Ozdoba z Mandalorianinem i Grogu
 
@@ -1641,11 +2764,27 @@ Czas na budowanie
 
 Dodaj odrobinę galaktycznego klimatu do swojej kolekcji - LEGO 5010320 z Mandalorianinem i Grogu to zestaw, który z pewnością przyciągnie spojrzenia!
 
+**Galeria:**
+
+- 5010320-1: https://a.allegroimg.com/original/117b17/2e25a73a48ce8f2112b96b8cf5ff
+
 ---
 
-## 66775 — Lego Star Wars 66775 Bitwa o Hoth Unikat
+## 66775 — Bitwa o Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 882.00 zł · EAN: 00673419390606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66775 |
+| Nazwa angielska | Hoth Combo Pack |
+| Nazwa polska | Bitwa o Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 691 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419390606 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
  
@@ -1658,11 +2797,27 @@ Dodaj odrobinę galaktycznego klimatu do swojej kolekcji - LEGO 5010320 z Mandal
 - **✅ Zachwyca jakością wykonania i dbałością o detale** 
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 66775-1: https://a.allegroimg.com/original/11cced/dc4cf3ce44b0a30a45f189a13772
+
 ---
 
-## 6965 — Lego Star Wars 6965 Tie Interceptor Kabaya saszetka klocki unikat
+## 6965 — TIE Interceptor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014399471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6965 |
+| Nazwa angielska | TIE Interceptor |
+| Nazwa polska | TIE Interceptor |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014399471 |
 
 Witam
 
@@ -1682,11 +2837,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 6965-1: https://a.allegroimg.com/original/113a78/d65617df4444864a450f73caf650
+
 ---
 
-## 7103 — nowy Lego Star Wars 7103 Jedi Duel Dooku Yoda unikat Misb 2002
+## 7103 — Jedi Duel
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2549.99 zł · EAN: 05702014151802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7103 |
+| Nazwa angielska | Jedi Duel |
+| Nazwa polska | Jedi Duel |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2002 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014151802 |
 
 Cześć!
 
@@ -1704,11 +2875,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 7103-1: https://a.allegroimg.com/original/11121a/e6452df740aeba46b6a49a1d1620
+
 ---
 
-## 75001 — Lego Star Wars 75001 Republic Troopers vs. Sith Troopers Nowe
+## 75001 — REPUBLIC TROOPERS VS SITH TROOPERS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702014974913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75001 |
+| Nazwa angielska | Republic Troopers vs. Sith Troopers |
+| Nazwa polska | REPUBLIC TROOPERS VS SITH TROOPERS |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974913 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1720,11 +2907,27 @@ LEGO Star Wars, Republic Troopers™ vs. Sith™ Troopers , zestaw klocków, 750
  
 Zestaw klocków LEGO 75001 Republic Troopers™ vs. żołnierze Sith™ został pokazany w 2013 roku i zbudowany jest z 63 klocków LEGO®. W klockach znajdziesz także 4 minifigurki. Zestaw klocków przeznaczony jest dla dzieci powyżej 6 roku życia. Kod EAN klocków LEGO® 75001 to: 5702014974913
 
+**Galeria:**
+
+- 75001-1: https://a.allegroimg.com/original/117222/534362f04b93a67eebc4d2471a4d
+
 ---
 
-## 75002 — Lego Star Wars 75002 At-rt Nowe
+## 75002 — AT-RT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702014974906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75002 |
+| Nazwa angielska | AT-RT |
+| Nazwa polska | AT-RT |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974906 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1745,11 +2948,27 @@ Zestaw **LEGO 75002 **to doskonały wybór dla fanów Star Wars, którzy uwielbi
 - Ruchome elementy AT-RT dla jeszcze większej frajdy z zabawy. 
 - Kultowe postacie: Yoda i żołnierz 501. Legionu.
 
+**Galeria:**
+
+- 75002-1: https://a.allegroimg.com/original/112fe2/567e5a08420faddaa6e1a447c7cc
+
 ---
 
-## 75004 — Klocki Lego Star Wars Z-95 Headhunter Zestaw Kolekcjonerski 75004
+## 75004 — Z-95 Headhunter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1098.00 zł · EAN: 05702014974883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75004 |
+| Nazwa angielska | Z-95 Headhunter |
+| Nazwa polska | Z-95 Headhunter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 373 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 32 cm |
+| EAN | 5702014974883 |
 
 LEGO 75004 Star Wars Z-95 Headhunter™Zestaw LEGO Star Wars Z-95 Headhunter™ (75004) został wydany w 2013 roku i składa się z 373 klocków. Jest to model myśliwca Z-95 Headhunter, znanego z serialu animowanego "Gwiezdne wojny: Wojny klonów". Zestaw zawiera trzy minifigurki: pilota-klona, żołnierza 501. Legionu Klonów oraz mistrza Jedi Ponga Krella, a także różne bronie i akcesoria, w tym dwa podwójne miecze świetlne i blaster.
 
@@ -1757,11 +2976,27 @@ Model Z-95 Headhuntera charakteryzuje się chowanym podwoziem, otwieranym kokpit
 
 Wymiary złożonego modelu to około 9 cm wysokości, 39 cm długości i 32 cm szerokości.
 
+**Galeria:**
+
+- 75004-1: https://a.allegroimg.com/original/053073/35736d974e81b69fd298281ae692
+
 ---
 
-## 75005 — Lego Star Wars Zestaw Rancor Pit 75005
+## 75005 — LEGO 75005 Star Wars Rancor Pit
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014974876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75005 |
+| Nazwa angielska | Rancor Pit |
+| Nazwa polska | LEGO 75005 Star Wars Rancor Pit |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974876 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1780,11 +3015,27 @@ Wymiary złożonego modelu to około 9 cm wysokości, 39 cm długości i 32 cm s
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 75005-1: https://a.allegroimg.com/original/052301/ce0adabc4a89aebe1e19f76e56b4
+
 ---
 
-## 75006 — Lego Star Wars 75006 Jedi Starfighter i Kamiino
+## 75006 — Jedi Starfighter i Kamiino
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014974241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75006 |
+| Nazwa angielska | Jedi Starfighter & Planet Kamino |
+| Nazwa polska | Jedi Starfighter i Kamiino |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974241 |
 
 Nowy, nieotwierany zestaw LEGO® 75006: Jedi Starfighter i Kamino.
 
@@ -1792,11 +3043,27 @@ Stan pudełka pokazany na zdjęciach.
 
 Oceaniczna planeta Kamino to wrogi, niegościnny świat pełen kotłujących się fal i gwałtownych sztormów. Udaj się na Kamino wraz z mistrzem Jedi Obi-Wanem Kenobim w scenie z filmu „Gwiezdne wojny: epizod 2 — Atak klonów”! Śmigaj jego minimodelem Jedi Starfighter i odkryj powstanie tajnej armii klonów Republiki!.
 
+**Galeria:**
+
+- 75006-1: https://0.allegroimg.com/original/057ec1/96030f9a4b78a3b047cbbdd94b00
+
 ---
 
-## 75008 — Lego Star Wars 75008 Tie Bomber i Pole Asteroid
+## 75008 — TIE Bomber i pole asteroid
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702014974265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75008 |
+| Nazwa angielska | TIE Bomber & Asteroid Field |
+| Nazwa polska | TIE Bomber i pole asteroid |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974265 |
 
 LEGO Star Wars 75008 TIE Bomber & Pole Asteroid
 
@@ -1811,11 +3078,27 @@ Zestaw obejmuje:
 - minifigurkę pilota TIE,
 - podstawkę z nazwą.
 
+**Galeria:**
+
+- 75008-1: https://a.allegroimg.com/original/11b330/41097ab047c7b2c3a891c5efa275
+
 ---
 
-## 75009 — Lego Star Wars 75009 Planets 4 Snowspeeder & Planet Hoth nowy zestaw klocki
+## 75009 — Planets 4 Snowspeeder & Planet Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702014974678 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75009 |
+| Nazwa angielska | Snowspeeder & Planet Hoth |
+| Nazwa polska | Planets 4 Snowspeeder & Planet Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974678 |
 
 Witam
 
@@ -1831,11 +3114,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 75009-1: https://a.allegroimg.com/original/05d83c/9bb5e3d64eefa3b5c7af0bdcfc6b
+
 ---
 
-## 75012 — Lego Star Wars 75012 Barc Speeder z przyczepką Nowe
+## 75012 — BARC Speeder z przyczepką
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702014974869 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75012 |
+| Nazwa angielska | BARC Speeder with Sidecar |
+| Nazwa polska | BARC Speeder z przyczepką |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974869 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1847,11 +3146,27 @@ LEGO Star Wars 75012 BARC Speeder z Bocznym Wózkiem – Zestaw z Kapitanem Rexe
  
 Zestaw LEGO Star Wars 75012 – **BARC Speeder z bocznym wózkiem ** to doskonała propozycja dla fanów Gwiezdnych Wojen i kolekcjonerów unikalnych zestawów LEGO. W komplecie znajdują się **cztery minifigurki **: Kapitan Rex w specjalnym pancerzu z fazy II, Obi-Wan Kenobi, dwóch komandosów droidów oraz szybki speeder BARC z odczepianym bocznym wózkiem. Dzięki ruchomym elementom i uzbrojeniu zestaw świetnie nadaje się do odtwarzania dynamicznych scen bitewnych. LEGO 75012 to prawdziwa gratka dla każdego fana sagi Star Wars i miłośnika klasycznych zestawów z 2013 roku!
 
+**Galeria:**
+
+- 75012-1: https://a.allegroimg.com/original/110504/f4c0a8524f5fa9e6089e1dc5a382
+
 ---
 
-## 75013 — Klocki Lego Star Wars Zestaw umbarra tank 75013
+## 75013 — umbarra tank
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1179.00 zł · EAN: 05702014974852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75013 |
+| Nazwa angielska | Umbaran MHC (Mobile Heavy Cannon) |
+| Nazwa polska | umbarra tank |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 493 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974852 |
 
 LEGO Star Wars - 75013 Umbarran MHC
 
@@ -1865,11 +3180,27 @@ Zestaw **LEGO 75013 **to idealny wybór dla fanów **Star Wars **, którzy c
 - Kultowe postacie z Wojen Klonów, w tym Pong Krell.
 - Idealny prezent dla miłośników galaktycznych bitew.
 
+**Galeria:**
+
+- 75013-1: https://a.allegroimg.com/original/11295a/bd1e41eb451f9f13b8a57991a8b3
+
 ---
 
-## 75014 — Lego Star Wars 75014 – Battle of Hoth
+## 75014 — Battle Of Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 985.00 zł · EAN: 05702014974845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75014 |
+| Nazwa angielska | Battle Of Hoth |
+| Nazwa polska | Battle Of Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974845 |
 
 **LEGO 75014** to zestaw z kultowej serii LEGO Star Wars, oparty na jednej z najbardziej znanych bitew z oryginalnej trylogii — **Bitwie o Hoth**, przedstawionej w Star Wars: Imperium kontratakuje.
 
@@ -1919,11 +3250,27 @@ Zestaw odwzorowuje **bitwę Rebeliantów z Imperium galaktycznym na lodowej plan
 
 ✔ świetna zabawa i ekspozycja scen bitewnych
 
+**Galeria:**
+
+- 75014-1: https://6.allegroimg.com/original/0583e8/fcc542ae4a8f8789fcd72e81d436
+
 ---
 
-## 75015 — Klocki Lego Star Wars Zestaw Corporate Alliance Tank Droid 75015
+## 75015 — Corporate Alliance Tank Droid
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014974838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75015 |
+| Nazwa angielska | Corporate Alliance Tank Droid |
+| Nazwa polska | Corporate Alliance Tank Droid |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974838 |
 
 **LEGO Star Wars 75015 Corporate Alliance Tank Droid**.
 
@@ -1949,11 +3296,27 @@ To właśnie tutaj 75015 błyszczy najbardziej. W pudełku znajdziemy 3 postacie
 - **Droid Bojowy (Battle Droid):** Klasyczny „piszczel” w standardowym kolorze.
 - **Clone Trooper (Phase I):** Żołnierz klon z pierwszej fazy pancerza, idealny do budowania armii.
 
+**Galeria:**
+
+- 75015-1: https://a.allegroimg.com/original/051993/6c268c134dcca36ff33168dfc4f5
+
 ---
 
-## 75016 — Klocki Lego Star Wars Zestaw Homing Spider Droid 75016
+## 75016 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014974821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75016 |
+| Nazwa angielska | Homing Spider Droid |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 19 cm |
+| EAN | 5702014974821 |
 
 Zestaw **LEGO Star Wars Homing Spider Droid 75016** to model inspirowany wydarzeniami z filmu "Gwiezdne Wojny™: Epizod II - Atak klonów" oraz serialu animowanego "Wojny Klonów". Wydany został w 2013 roku i składa się z **295 elementów**. Przeznaczony jest dla dzieci w wieku od 7 do 12 lat.
 
@@ -1973,11 +3336,27 @@ Można go łączyć z innymi zestawami z Bitwy o Geonosis, takimi jak Droid Soju
 
 Wymiary zbudowanego Homing Spider Droida to około 20 cm wysokości, 26 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 75016-1: https://a.allegroimg.com/original/11353d/86b3119b4575ad42cb60a813bef4
+
 ---
 
-## 75017 — Klocki Lego Star Wars Zestaw Pojedynek na Genosis 75017
+## 75017 — Klocki LEGO 75017 Star Wars Pojedynek na Genosis
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75017 |
+| Nazwa angielska | Duel on Geonosis |
+| Nazwa polska | Klocki LEGO 75017 Star Wars Pojedynek na Genosis |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 391 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974814 |
 
 KLOCKI LEGO STAR WARS POJEDYNEK NA GENOSIS 75017
 
@@ -2001,11 +3380,27 @@ Zestaw został zaprojektowany tak, aby oddać dramaturgię pojedynku:
 - **Błyskawice Mocy:** W zestawie znajdziesz specjalne elementy imitujące błyskawice, którymi Dooku razi przeciwników.
 - **Plany Gwiazdy Śmierci:** Zestaw zawiera drukowany element (tile) z planami ostatecznej broni Imperium – kluczowy detal fabularny!
 
+**Galeria:**
+
+- 75017-1: https://a.allegroimg.com/original/05f88e/10cb8f6f4fa38b478c034343d638
+
 ---
 
-## 75019 — Klocki Lego Star Wars Zestaw Maszyna Bojowa At-te 75019
+## 75019 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014974791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75019 |
+| Nazwa angielska | AT-TE |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 794 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974791, 673419191449 |
 
 Klocki LEGO Star Wars Zestaw AT-TE 75019
 
@@ -2043,11 +3438,28 @@ Zestaw **LEGO Star Wars AT-TE 75019** to duży model kroczącej maszyny bojowej,
 
 Zestaw 75019 jest doskonały do odgrywania epickich bitew z "Wojen Klonów", zwłaszcza tych rozgrywających się na planetach takich jak Geonosis. Duże rozmiary modelu, liczne funkcje interaktywne (ruchome nogi, działka, otwierane sekcje) oraz obecność rzadkich minifigurek Mistrzów Jedi (Mace Windu i Coleman Trebor) sprawiają, że jest to bardzo ceniony zestaw zarówno przez młodszych fanów LEGO, jak i dorosłych kolekcjonerów. Możliwość połączenia go z innymi zestawami z Bitwy o Geonosis (takimi jak Homing Spider Droid 75016 czy Droid Sojuszu Korporacyjnego 75015) pozwala na zbudowanie większej i bardziej dynamicznej sceny.
 
+**Galeria:**
+
+- 75019-1: https://a.allegroimg.com/original/11e56a/3033e0f047b6bb127605635a7758
+- 75019-2: https://a.allegroimg.com/original/053a47/7238ee5546d58b5428347e9b2cc9
+
 ---
 
-## 75020 — Klocki Lego Star Wars Zestaw Barka Żeglowa Jabby 75020
+## 75020 — Barka Żaglowa Jabby
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702014974784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75020 |
+| Nazwa angielska | Jabba's Sail Barge |
+| Nazwa polska | Barka Żaglowa Jabby |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 850 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974784 |
 
 Klocki LEGO Star Wars Zestaw Barka Żeglowa Jabby 75020
 
@@ -2087,11 +3499,27 @@ Zestaw **LEGO Star Wars Barka Żeglowa Jabby 75020** to kultowy model statku kos
 
 Zestaw 75020 to doskonała propozycja dla fanów oryginalnej trylogii Gwiezdnych Wojen, pozwalająca na odtworzenie jednej z najbardziej pamiętnych scen z "Powrotu Jedi". Bogactwo detali, funkcji oraz obecność unikatowych minifigurek (takich jak Leia w stroju niewolnicy, Max Rebo czy Ree-Yees) sprawiają, że jest to bardzo pożądany przedmiot wśród kolekcjonerów. Możliwość połączenia go z zestawem **Rancor Pit 75005** i **Pałacem Jabby 9516** tworzy rozbudowaną dioramę, która jeszcze bardziej zwiększa jego atrakcyjność.
 
+**Galeria:**
+
+- 75020-1: https://a.allegroimg.com/original/11d4ff/76b1b2e6417db986019645e61cd1
+
 ---
 
-## 75022 — Lego Star Wars 75022 Mandalorian Speeder Nowe
+## 75022 — Mandalorian Speeder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 681.00 zł · EAN: 05702014974746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75022 |
+| Nazwa angielska | Mandalorian Speeder |
+| Nazwa polska | Mandalorian Speeder |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974746 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2131,11 +3559,27 @@ Dlaczego warto kupić LEGO® 75022?
  
 Nie przegap okazji, by zdobyć **LEGO® 75022 Mandalorian Speeder™ **i dołączyć do Mandalorian w walce o galaktykę! 🌌🔥💫
 
+**Galeria:**
+
+- 75022-1: https://a.allegroimg.com/original/114f60/f3ff628e43679857339c48e58e3a
+
 ---
 
-## 75024 — Lego Star Wars 75024 HH-87 Starhopper Nowe
+## 75024 — 75024
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702014974739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75024 |
+| Nazwa angielska | HH-87 Starhopper |
+| Nazwa polska | 75024 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 37 cm |
+| EAN | 5702014974739 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2155,11 +3599,27 @@ Przeniknij do załogi Cada Bane'a i odkryj jego nikczemne plany jako Obi-Wan Ken
 - Wypuść piracki śmigacz z ładowni. 
 - Wymiary: ok. 15 cm wysokości, 23 cm długości i 37 cm szerokości z rozpostartymi skrzydłami.
 
+**Galeria:**
+
+- 75024-1: https://a.allegroimg.com/original/115ddf/655de7ea489d91d7c53b7c38cf21
+
 ---
 
-## 75025 — Lego 75025 Star Wars Jedi Defender-class Cruiser old Republic Nowy Zestaw
+## 75025 — 75025
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2499.99 zł · EAN: 05702014974722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75025 |
+| Nazwa angielska | Jedi Defender-class Cruiser |
+| Nazwa polska | 75025 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 927 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974722 |
 
 - **Zestaw NOWY oryginalny LEGO.**
 - **Brak oryginalnego pudełka. Wszystkie klocki oraz figurki są oryginalnie zapakowane w woreczki fabrycznie zamknięte. 6 woreczków.**
@@ -2179,11 +3639,27 @@ Ten fantastyczny model z wczesnego okresu świata Gwiezdnych Wojen ma mnóstwo �
 
 Zestaw zawiera 927 elementów oraz 4 minifigurki z bronią: rycerza Jedi, negocjatora Jedi, wojownika Sithów i żołnierza Sithów.
 
+**Galeria:**
+
+- 75025-1: https://a.allegroimg.com/original/1144f1/2e38dfc54c72bb5c6d73d2efc3f1
+
 ---
 
-## 75030 — Lego Star Wars 75030 Millennium Falcon
+## 75030 — Millennium Falcon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702015121019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75030 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | Millennium Falcon |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121019 |
 
 Lego Star Wars 75030 Millennium Falcon
  
@@ -2202,11 +3678,27 @@ Włącz hiper napęd i rusza w pościg za okrętami Imperium !
  
 Zestaw zawiera minifigurkę Hana Solo z pistoletem blasterowym.
 
+**Galeria:**
+
+- 75030-1: https://d.allegroimg.com/original/03d6e1/e06b46644724a47f49dbf9e32f6d
+
 ---
 
-## 75033 — Lego Star Wars 75033 Star Destroyer
+## 75033 — LEGO 75033 - Star Destroyer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 148.97 zł · EAN: 05702015121057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75033 |
+| Nazwa angielska | Star Destroyer |
+| Nazwa polska | LEGO 75033 - Star Destroyer |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702015121057 |
 
 LEGO Star Wars 75033 - Star Destroyer
 
@@ -2256,11 +3748,27 @@ LEGO® 75033 Star Wars - Star Destroyer
 
 **W powiększeniu: Ślad po metce został podretuszowany. Widoczność w zależności od kąta oświetlenia i kąta patrzenia.**
 
+**Galeria:**
+
+- 75033-1: https://a.allegroimg.com/original/11feb9/39d662934657b722942284620c78
+
 ---
 
-## 75034 — Lego 75034 Star Wars Death Star Troopers Szturmowcy z Gwiazdy Śmierci
+## 75034 — 75034
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 325.21 zł · EAN: 05702015121088 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75034 |
+| Nazwa angielska | Death Star Troopers |
+| Nazwa polska | 75034 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121088 |
 
 LEGO 75034 Star Wars - Death Star Troopers
 
@@ -2276,11 +3784,27 @@ Ilość klocków:** 83**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 75034-1: https://a.allegroimg.com/original/05473e/4c3b789449619d3946b51ed951e2
+
 ---
 
-## 75035 — Lego Star Wars Żołnierze z Kashyyyk 75035
+## 75035 — Kashyyyk Troopers
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702015121101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75035 |
+| Nazwa angielska | Kashyyyk Troopers |
+| Nazwa polska | Kashyyyk Troopers |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702015121101 |
 
 Klocki LEGO Star Wars 75035 - Kashyyyk Troopers
  
@@ -2295,11 +3819,27 @@ Przygotuj elitarny 41 korpus do walki o planetę Kashyyyk! Odtwórz emocjonując
 - Zawiera unikalne hełmy żołnierzy-klonów z Kashyyyk. 
 - Ścigacz bagienny ma ok. 6 cm wysokości, 8 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 75035-1: https://a.allegroimg.com/original/115004/640a3330461da97b9b8746178b2b
+
 ---
 
-## 75036 — Lego Star Wars 75036 Utapau Troopers
+## 75036 — LEGO Star Wars 75036 - Utapau Troopers
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 478.97 zł · EAN: 05702015121132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75036 |
+| Nazwa angielska | Utapau Troopers |
+| Nazwa polska | LEGO Star Wars 75036 - Utapau Troopers |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 7 cm |
+| EAN | 5702015121132 |
 
 LEGO Star Wars 75036 - Utapau Troopers
 
@@ -2345,11 +3885,27 @@ LEGO® 75036 Star Wars - Utapau Troopers
 
 **Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach, załamanie w prawym dolnym roku, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Poszczególne egzemplarze różnią się nieco. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 75036-1: https://a.allegroimg.com/original/116034/4acd85944262adda3d6ed1916e6a
+
 ---
 
-## 75037 — Klocki Lego Star Wars Zestaw Bitwa na Saleucami 75037
+## 75037 — Bitwa na Saleucami
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75037 |
+| Nazwa angielska | Battle on Saleucami |
+| Nazwa polska | Bitwa na Saleucami |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121156 |
 
 Klocki LEGO Star Wars Zestaw Bitwa na Saleucami 75037
 
@@ -2375,11 +3931,27 @@ Zestaw 75037 jest idealny do odgrywania szybkich potyczek i scen zwiadowczych z 
 
 Mimo że jest to mniejszy zestaw, obecność BARC Troopera czyni go atrakcyjnym dla kolekcjonerów i fanów armii klonów. Zestaw jest już wycofany z produkcji.
 
+**Galeria:**
+
+- 75037-1: https://a.allegroimg.com/original/05ea68/526d9d8e47999c126bf6e7f52574
+
 ---
 
-## 75038 — Klocki Lego Star Wars Zestaw Statek Jedi Interceptor 75038
+## 75038 — 75038
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015121163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75038 |
+| Nazwa angielska | Jedi Interceptor |
+| Nazwa polska | 75038 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121163 |
 
 **Klocki LEGO Star Wars Zestaw Statek Jedi Interceptor 75038**
 
@@ -2424,11 +3996,27 @@ Oryginalne pudełko LEGO: **TAK**
 
 Rok prezentacji: **2014**
 
+**Galeria:**
+
+- 75038-1: https://6.allegroimg.com/original/0075a7/6a84489c42549d2eb8f202a7c866
+
 ---
 
-## 75039 — Klocki Lego Star Wars Zestaw V-wing Starfighter 75039
+## 75039 — V-wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015121170 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75039 |
+| Nazwa angielska | V-Wing Starfighter |
+| Nazwa polska | V-wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 11 cm |
+| EAN | 5702015121170 |
 
 **KLOCKI LEGO V-WING STARFIGHTER 75039**
 
@@ -2452,11 +4040,27 @@ Myśliwiec V-Wing ma ok. 13 cm wysokości, 22 cm długości i 11 cm szerokości.
 
 Zestaw LEGO Star Wars - V-Wing Starfighter trafił do sprzedaży w 2014 roku.
 
+**Galeria:**
+
+- 75039-1: https://a.allegroimg.com/original/05a657/7709c45f41588768be340723b0fc
+
 ---
 
-## 75040 — Klocki Lego Star Wars Zestaw General Grievous' Wheel Bike 75040
+## 75040 — 75040
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015121187 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75040 |
+| Nazwa angielska | General Grievous' Wheel Bike |
+| Nazwa polska | 75040 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm |
+| EAN | 5702015121187 |
 
 Klocki LEGO Star Wars 75040 - General Grievous’ Wheel Bike
 
@@ -2478,11 +4082,27 @@ Odtwórz ekscytujące sceny z trzeciego epizodu „Gwiezdnych Wojen” — „Ze
 
 Wymiary: ok. 14 cm wysokości, 16 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 75040-1: https://a.allegroimg.com/original/112159/a004ca654709acbada70b417310f
+
 ---
 
-## 75041 — Lego Star Wars 75041 Vulture Droid
+## 75041 — 75041
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015119535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75041 |
+| Nazwa angielska | Vulture Droid |
+| Nazwa polska | 75041 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 13 cm |
+| EAN | 5702015119535 |
 
 Klocki LEGO Star Wars 75041 - Vulture Droid
 
@@ -2497,11 +4117,27 @@ Patroluj niebo nad planetą Coruscant wraz z droidem-sępem separatystów. Potem
 - Wymiary: ok. 17 cm wysokości, 10 cm długości i 13 cm szerokości.
 - Połącz z myśliwcem przechwytującym Jedi™ (zestaw 75038), aby stoczyć kosmiczny pojedynek.
 
+**Galeria:**
+
+- 75041-1: https://a.allegroimg.com/original/05b976/2475cbe14bb5b5a13e9822e9a962
+
 ---
 
-## 75042 — Klocki Lego Star Wars Zestaw Droid Gunship 75042
+## 75042 — LEGO Star Wars 75042 Droid Gunship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015119542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75042 |
+| Nazwa angielska | Droid Gunship |
+| Nazwa polska | LEGO Star Wars 75042 Droid Gunship |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 439 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119542 |
 
 Klocki LEGO Star Wars Zestaw Droid Gunship 75042
 
@@ -2533,11 +4169,27 @@ Zestaw **LEGO Star Wars Droid Gunship 75042** to model potężnego statku bojowe
 
 Zestaw 75042 Droid Gunship jest idealny do odgrywania scen bitew z "Wojen Klonów", zwłaszcza tych rozgrywających się na planecie Kashyyyk, gdzie Droid Gunshipy były powszechnie używane. Liczne funkcje strzelania i możliwość dynamicznego obracania silnikami zapewniają intensywną zabawę.
 
+**Galeria:**
+
+- 75042-1: https://a.allegroimg.com/original/11eac6/1998efef4b0e818826f31a51924b
+
 ---
 
-## 75043 — Klocki Lego Star Wars Zestaw At-ap 75043
+## 75043 — 75043
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015119559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75043 |
+| Nazwa angielska | AT-AP |
+| Nazwa polska | 75043 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 14 cm |
+| EAN | 5702015119559 |
 
 LEGO Star Wars 75043 AT-AP
 
@@ -2561,11 +4213,27 @@ Odtwórz ekscytujące sceny z trzeciego epizodu „Gwiezdnych Wojen” — „Ze
 
 Wymiary: ok. 25 cm wysokości, 25 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 75043-1: https://0.allegroimg.com/original/00ff02/ff1b37e541e7921b88db27de5280
+
 ---
 
-## 75044 — Klocki Lego Star Wars Zestaw Droid Tri-fighter 75044
+## 75044 — Wars Droid Tri -fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015119566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75044 |
+| Nazwa angielska | Droid Tri-Fighter |
+| Nazwa polska | Wars Droid Tri -fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 14 cm |
+| EAN | 5702015119566 |
 
 **Zestaw jest NOWY, oryginalnie zamknięty/zaplombowany.**
 
@@ -2584,21 +4252,53 @@ Kanclerz Palpatine™ został schwytany! Trzeba go przetransportować zanim ryce
 - Wymiary: ok. 13 cm wysokości, 20 cm długości i 14 cm szerokości
 - Połącz z modelem Jedi™ Interceptor (zestaw 75038), aby odtworzyć jeszcze bardziej ekscytującą bitwę o Coruscant.
 
+**Galeria:**
+
+- 75044-1: https://a.allegroimg.com/original/1132c4/6dd4740c4a88aca54d7cca575f2d
+
 ---
 
-## 75045 — Lego 75045 Star Wars Republic AV-7 A-v Cannon
+## 75045 — Lego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1375.00 zł · EAN: 05702015122375 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75045 |
+| Nazwa angielska | Republic AV-7 Anti-Vehicle Cannon |
+| Nazwa polska | Lego |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 434 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122375 |
 
 Zestaw jest nowy w tym znaczeniu, że jest fabrycznie zapieczętowany. Jednakże pudełko nosi lekkie ślady długiego składowania. Są niewielkie otarcia na rogach i krawędziach pudełka itp.
 
 Wysyłka do 5 dni roboczych od wpłynięcia wpłaty. PROSZĘ O PRZMYŚLANE ZAKUPY.
 
+**Galeria:**
+
+- 75045-1: https://a.allegroimg.com/original/11f4ee/a63871e04574b0647e0c18d34c11
+
 ---
 
-## 75046 — Klocki Lego Star Wars Zestaw Coruscant Statek policyjny 75046
+## 75046 — 75046
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702015122382 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75046 |
+| Nazwa angielska | Coruscant Police Gunship |
+| Nazwa polska | 75046 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 481 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122382 |
 
 LEGO 75046 Star Wars - Coruscant Police Gunship: Szczegółowy Opis
 
@@ -2629,11 +4329,27 @@ Zestaw zawiera **cztery minifigurki**, które są kluczowym elementem dla fanów
 - **Anakin Skywalker:** Popularny Jedi w swojej zbroi z okresu Wojen Klonów.
 - **Ashoka Tano (młodsza wersja):** Ulubiona postać wielu fanów, padawan Anakina, w swojej charakterystycznej szacie. Ta wersja Ahsoki jest szczególnie poszukiwana przez kolekcjonerów.
 
+**Galeria:**
+
+- 75046-1: https://a.allegroimg.com/original/05f83e/56acc79e489bade7aa27925b40fa
+
 ---
 
-## 75048 — Lego Star Wars 75048 Phantom Nowe
+## 75048 — 75048
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 582.00 zł · EAN: 05702015122399 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75048 |
+| Nazwa angielska | The Phantom |
+| Nazwa polska | 75048 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm |
+| EAN | 5702015122399 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2655,11 +4371,27 @@ Dołącz do Sojuszu Rebeliantów i rusz do walki ze złym Imperium w promie sztu
 - Wymiary promu Phantom: 9 cm wysokości, 19 cm długości i 10 cm szerokości 
 - Możliwość połączenia ze statkiem kosmicznym Ghost z zestawu 75053
 
+**Galeria:**
+
+- 75048-1: https://a.allegroimg.com/original/11b170/3401ff804b048904f406b4eb4796
+
 ---
 
-## 75049 — Klocki Lego Star Wars Zestaw Snowspeeder 75049
+## 75049 — LEGO STAR WARS 75049 SNOWSPEEDER
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015122405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75049 |
+| Nazwa angielska | Snowspeeder |
+| Nazwa polska | LEGO STAR WARS 75049 SNOWSPEEDER |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122405 |
 
 ZESTAW STAR WARS
 
@@ -2697,11 +4429,27 @@ Zestaw zawiera:
 - **Blaster** 
 - **Karabin blasterowy szturmowca**
 
+**Galeria:**
+
+- 75049-1: https://a.allegroimg.com/original/111b00/e18a2a7f4414a7793dba525a22f5
+
 ---
 
-## 75050 — Klocki Lego Star Wars Zestaw B-Wing 75050
+## 75050 — LEGO Star Wars 75050 B-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015122412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75050 |
+| Nazwa angielska | B-Wing |
+| Nazwa polska | LEGO Star Wars 75050 B-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 448 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122412 |
 
 **LEGO 75050 STAR WARS KLOCKI MYŚLIWIEC B-WING**
  
@@ -2709,11 +4457,27 @@ Odtwórz epickie sceny z filmu Gwiezdne wojny: Część VI — Powrót Jedi i in
  
 W zestawie 3 minifigurki z wyborem broni i akcesorium: Ten Numb™, pilot Szarego Szwadronu i Generał Airen Cracken™.dpieraj ataki Imperium, pilotując B-winga™ z obracanym kokpitem, 4 dużymi silnikami, 2 sprężynowymi działkami i składanymi skrzydłami. Ilość elementów: 448.
 
+**Galeria:**
+
+- 75050-1: https://a.allegroimg.com/original/113c49/38a514de46b8afc239a5a0657604
+
 ---
 
-## 75051 — Lego Star Wars 75051 Myśliwiec Jedi Scout
+## 75051 — Myśliwiec Jedi Scout
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702015122429 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75051 |
+| Nazwa angielska | Jedi Scout Fighter |
+| Nazwa polska | Myśliwiec Jedi Scout |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122429 |
 
 **Oryginalny zestaw Lego Star Wars 75051 Jedi Scout Fighter**
 
@@ -2744,11 +4508,27 @@ Myśliwiec dysponuje:
 - holokronami 
 - czujnikami ciepła
 
+**Galeria:**
+
+- 75051-1: https://b.allegroimg.com/original/00d4bc/87c57c2b4eabba9e358af2abf58b
+
 ---
 
-## 75052 — Lego Star Wars 75052 Kantyna Mos Eisley
+## 75052 — Kantyna Mos Eisley
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 950.00 zł · EAN: 05702015122436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75052 |
+| Nazwa angielska | Mos Eisley Cantina |
+| Nazwa polska | Kantyna Mos Eisley |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 616 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122436 |
 
 Klocki LEGO Star Wars 75052 - Kantyna Mos Eisley
  
@@ -2819,21 +4599,53 @@ Funkcje i możliwości zabawy
 - Można odtworzyć kultowe sceny filmowe, np. **pojedynku Hana Solo z Greedo**.
 - Wiele interaktywnych elementów: bar, scena muzyczna, dewback, ścigacz i drzwi przesuwne.
 
+**Galeria:**
+
+- 75052-1: https://a.allegroimg.com/original/05d63d/767d642748f2aeaf598f44713b1b
+
 ---
 
-## 75053 — Lego 75053 Star Wars The Ghost
+## 75053 — 75053
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2650.00 zł · EAN: 05702015122443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75053 |
+| Nazwa angielska | The Ghost |
+| Nazwa polska | 75053 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 929 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122443 |
 
 Zestaw jest nowy w tym znaczeniu, że jest fabrycznie zapieczętowany. Jednakże pudełko nosi lekkie ślady długiego składowania. Są niewielkie otarcia na rogach i krawędziach pudełka.
 
 Wysyłka do 5 dni roboczych od wpłynięcia wpłaty. PROSZĘ O PRZMYŚLANE ZAKUPY.
 
+**Galeria:**
+
+- 75053-1: https://a.allegroimg.com/original/1120b4/b654b12a48619fbe5fd3432b3e36
+
 ---
 
-## 75054 — Klocki Lego Star Wars Zestaw Maszyna krocząca At-at 75054
+## 75054 — AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015123778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75054 |
+| Nazwa angielska | AT-AT |
+| Nazwa polska | AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 11 cm |
+| EAN | 5702015123778 |
 
 LEGO Star Wars 75054 – Maszyna Krocząca AT-AT
 
@@ -2877,11 +4689,27 @@ To absolutny klasyk z 2014 roku! Zestaw **75054** to dla wielu fanów "Gwiezdnyc
 
 **Rok wydania:** 2014 (zestaw wycofany, kolekcjonerski).
 
+**Galeria:**
+
+- 75054-1: https://a.allegroimg.com/original/111592/739aa1154c14ab7d26942089c56b
+
 ---
 
-## 75055 — Klocki Lego Star Wars Zestaw Imperial Star Destroyer 75055
+## 75055 — Imperial Star Destroyer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015123785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75055 |
+| Nazwa angielska | Imperial Star Destroyer |
+| Nazwa polska | Imperial Star Destroyer |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 33 cm |
+| EAN | 5702015123785 |
 
 LEGO Star Wars 75055 Imperial Star Destroyer
 
@@ -2903,11 +4731,27 @@ Odgrywaj klasyczne sceny z Gwiezdnych Wojen z Mrocznym Władcą Sithów, Darthem
 
 Ma ok. 19 cm wysokości, 50 cm długości i 33 cm szerokości
 
+**Galeria:**
+
+- 75055-1: https://c.allegroimg.com/original/003b95/1af4a8ca4c39b15b580576b710bc
+
 ---
 
-## 75058 — Lego Star Wars 75058 Mtt Nowe
+## 75058 — mtt
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015123808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75058 |
+| Nazwa angielska | MTT |
+| Nazwa polska | mtt |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 954 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm |
+| EAN | 5702015123808 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2928,11 +4772,27 @@ Zawieź droidy na pole bitwy w mocno opancerzonym pojeździe MTT™! Ten transpo
 - Odtwórz bitwę o Naboo z filmu Gwiezdne wojny: Część I — Mroczne widmo 
 - Wymiary: 15 cm wysokości, 31 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 75058-1: https://a.allegroimg.com/original/11d73e/6ec300ca407698a38bccc5cf0dd6
+
 ---
 
-## 75059 — Lego 75059 Star Wars Zestaw Sandcrawler
+## 75059 — Sandcrawler
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 3100.00 zł · EAN: 05702015123815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75059 |
+| Nazwa angielska | Sandcrawler |
+| Nazwa polska | Sandcrawler |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3296 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 16 cm |
+| EAN | 5702015123815 |
 
 LEGO Star Wars 75059 Sandcrawler UCS
 
@@ -2960,11 +4820,27 @@ Ten imponujący model wiernie odwzorowuje legendarny pojazd Jawów z Tatooine, z
 
 **Dodatkowe akcesoria:** Ścigacz Jawów oraz miecz świetlny Luke'a Skywalkera dopełniają całości.
 
+**Galeria:**
+
+- 75059-1: https://a.allegroimg.com/original/0519bd/47668074487382bb7cd63043a70d
+
 ---
 
-## 75060 — Lego Star Wars 75060 Slave I Ucs Opis
+## 75060 — 75060
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702015123822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75060 |
+| Nazwa angielska | Slave I |
+| Nazwa polska | 75060 |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1996 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 37 cm |
+| EAN | 5702015123822 |
 
 LEGO Star Wars Slave I - UCS
  
@@ -2985,11 +4861,27 @@ Wyśledź zbiegów wraz z legendarnym łowcą nagród — Bobą Fettem, na pokł
 
 Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 75060-1: https://a.allegroimg.com/original/119319/afb80ebe493d86cc2dd84499b3a9
+
 ---
 
-## 75073 — Klocki Lego Star Wars Star Wars Droid Sęp L-75073
+## 75073 — Star Wars Droid Sęp
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015349093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75073 |
+| Nazwa angielska | Vulture Droid |
+| Nazwa polska | Star Wars Droid Sęp |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349093 |
 
 Przygotuj się do ataku na wojska Republiki ze śmiercionośnym mikromyśliwcem z ze stawu Droid Sęp LEGO® Star Wars. Ta ciekawa, pomniejszona wersja bojowego droida LEGO® Star Wars Separatystów ma dobrze oddane szczegóły, w tym 2 pociski, skrzydła zmieniające pozycję w trybie lotu i maszyny kroczącej, a nawet miniaturowy kopkpit, w którym można posadzić Droida-Pilota. Wskakuj za stery, przechodź do lotu i ruszaj zapolować na siły Republiki na niebie ponad planetą Coruscant! Zestaw zawiera droida-pilota z miotaczem.
 
@@ -3002,11 +4894,27 @@ Zestaw zawiera droida-pilota z miotaczem
 - Znane z trzeciego epizodu serii Gwiezdne Wojny pod tytułem „Zemsta Sithów”.
 - Wymiary: ok. 8 x 3 x 8 cm w trybie kroczenia i ok. 6 x 8 x 8 cm w trybie lotu
 
+**Galeria:**
+
+- 75073-1: https://a.allegroimg.com/original/118c2d/5f6a39bf427a8db4ee1a5ff60948
+
 ---
 
-## 75074 — Lego Star Wars 75074 Śmigacz śnieżny Nowe
+## 75074 — 75074
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 153.00 zł · EAN: 05702015349109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75074 |
+| Nazwa angielska | Snowspeeder |
+| Nazwa polska | 75074 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349109 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3027,11 +4935,27 @@ Popędź lodowymi polami planety Hoth w zwinnej miniaturce śmigacza z zestawu L
 - Znane z piątego epizodu serii Gwiezdne Wojny pod tytułem „Imperium kontratakuje”!
 - Wymiary: ok. 6 x 8 x 8 cm
 
+**Galeria:**
+
+- 75074-1: https://a.allegroimg.com/original/113452/a02cb79b4801827bc910bf8215f4
+
 ---
 
-## 75075 — Lego Star Wars 75075 At-at
+## 75075 — AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702015349116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75075 |
+| Nazwa angielska | AT-AT |
+| Nazwa polska | AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349116 |
 
 LEGO STAR WARS 75075 AT-AT
  
@@ -3050,11 +4974,27 @@ Ruszaj na bazę Rebeliantów na planecie Hoth na pokładzie miniaturki niezwykł
 - Znane z piątego epizodu serii Gwiezdne Wojny pod tytułem „Imperium kontratakuje”! 
 - Wymiary: ok. 9 x 8 x 3 cm
 
+**Galeria:**
+
+- 75075-1: https://a.allegroimg.com/original/114fd5/249ab33d473cb238522b57e9e0cb
+
 ---
 
-## 75078 — Lego Star Wars 75078 Transport szturmowców Imperium Nowe
+## 75078 — Imperial Troop Transport
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 274.00 zł · EAN: 05702015351133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75078 |
+| Nazwa angielska | Imperial Troop Transport |
+| Nazwa polska | Imperial Troop Transport |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015351133 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3075,11 +5015,27 @@ Wyśledź kryjówkę rebeliantów na planecie Lothal, wysyłając tam zbrojny od
 - Znane z telewizyjnego filmu animowanego Star Wars: Rebels 
 - Wymiary modelu: ok. 8 x 5 x 8 cm
 
+**Galeria:**
+
+- 75078-1: https://a.allegroimg.com/original/11e014/213490204194badb61327480d876
+
 ---
 
-## 75079 — Lego Star Wars 75079 Mroczni szturmowcy
+## 75079 — Mroczni szturmowcy
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 315.21 zł · EAN: 05702015351140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75079 |
+| Nazwa angielska | Shadow Troopers |
+| Nazwa polska | Mroczni szturmowcy |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015351140 |
 
 Klocki LEGO Star Wars 75079 - Mroczni szturmowcy
  
@@ -3112,11 +5068,27 @@ Specyfikacja zestawu LEGO 75079
 - **Waga opakowania (g):** 120 (0,12kg) 
 - **Wymiary złożonego zestawu (cm):** 3.5 x 13 x 8
 
+**Galeria:**
+
+- 75079-1: https://5.allegroimg.com/original/003b35/d29da0e048bd8900e0c17cebd645
+
 ---
 
-## 75080 — Lego 75080 Star Wars Aat Misb z 2015r
+## 75080 — 75080
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015349147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75080 |
+| Nazwa angielska | AAT |
+| Nazwa polska | 75080 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349147 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3126,11 +5098,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75080-1: https://a.allegroimg.com/original/117e78/d24eafbf4200a70fb584bee42f91
+
 ---
 
-## 75081 — Klocki Lego 75081 Star Wars T-16 Skyhopper
+## 75081 — LEGO 75081 Star Wars T-16 Skyhopper
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 277.97 zł · EAN: 05702015349154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75081 |
+| Nazwa angielska | T-16 Skyhopper |
+| Nazwa polska | LEGO 75081 Star Wars T-16 Skyhopper |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349154 |
 
 Klocki LEGO Star Wars 75081 - T-16 Skyhopper FV
 
@@ -3172,11 +5160,27 @@ Specyfikacja zestawu LEGO 75081
 
 **Zdjęcia poniżej przedstawiają analogiczny zestaw, wcześniej sprzedany, jeszcze z przetarciami. Aktualne są prosto z fabrycznego kartonu zbiorczego, BEZ metki i zarysowań.**
 
+**Galeria:**
+
+- 75081-1: https://a.allegroimg.com/original/110e2d/cb2976b3456183af073dfbd51537
+
 ---
 
-## 75082 — Lego Star Wars 75082 Myśliwiec Inkwizytora
+## 75082 — Myśliwiec Inkwizytora
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702015351157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75082 |
+| Nazwa angielska | TIE Advanced Prototype |
+| Nazwa polska | Myśliwiec Inkwizytora |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015351157 |
 
 LEGO STAR WARS
 
@@ -3204,11 +5208,27 @@ Zestaw LEGO 75082 Myśliwiec Inkwizytora
 
 28 cm * 26 cm * 7 cm *
 
+**Galeria:**
+
+- 75082-1: https://a.allegroimg.com/original/116cbb/0e3a71eb495c90bb8125e7189e46
+
 ---
 
-## 75083 — Klocki Lego Star Wars Zestaw At-dp 75083
+## 75083 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015352093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75083 |
+| Nazwa angielska | AT-DP |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352093 |
 
 KLOCKI LEGO STAR WARS 75083 AT-DP PILOT
 
@@ -3238,11 +5258,27 @@ Wskakuj do kokpitu, zamknij właz, załaduj podwójne sprężynowe działka i pr
 
 • Eksportuj agenta Kallusa, gdy będzie poszukiwał Rebeliantów
 
+**Galeria:**
+
+- 75083-1: https://9.allegroimg.com/original/060c21/8a4eb50542459d51aa7acde53fc9
+
 ---
 
-## 75084 — Klocki Lego Star Wars Okręt bojowy Wookiee 75084 Unikat
+## 75084 — Okręt bojowy Wookiee
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 869.99 zł · EAN: 05702015352109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75084 |
+| Nazwa angielska | Wookiee Gunship |
+| Nazwa polska | Okręt bojowy Wookiee |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 570 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352109 |
 
 Zestaw LEGO® 75084 Okręt bojowy Wookiee™
 
@@ -3259,11 +5295,27 @@ Obroń Wullffwarro i jego przyjaciela Jedi, Kanana Jarrusa, korzystając z siły
 - Znane z telewizyjnego filmu animowanego Star Wars: Rebels
 - Wymiary okrętu Wookiee: ok. 16 x 31 x 18 cm
 
+**Galeria:**
+
+- 75084-1: https://a.allegroimg.com/original/1188ad/147049774807a2d3d68c0ac11301
+
 ---
 
-## 75085 — Lego Star Wars Zestaw Droid gradowy 75085
+## 75085 — Hailfire Droid
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 638.99 zł · EAN: 05702015349468 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75085 |
+| Nazwa angielska | Hailfire Droid |
+| Nazwa polska | Hailfire Droid |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349468 |
 
 **LEGO 75085 - HAILFIRE DROID**
 
@@ -3279,11 +5331,27 @@ W zestawie:
 - 2 superdroidy bojowe
 - pojazd o wymiarach 8x13 cm
 
+**Galeria:**
+
+- 75085-1: https://c.allegroimg.com/original/039950/485ea8484391ad85231b7230251c
+
 ---
 
-## 75086 — Lego Star Wars 75086 Transportowiec Battle Droid Nowe
+## 75086 — LEGO Star Wars Droid Troop Carrier 75086
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702015349475 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75086 |
+| Nazwa angielska | Battle Droid Troop Carrier |
+| Nazwa polska | LEGO Star Wars Droid Troop Carrier 75086 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349475 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3307,11 +5375,27 @@ Zestaw klocków **LEGO 75086 Transportowiec Battle Droid™ **został pokazany w
 - Wymiary transportowca droidów bojowych: ok. 6 x 29 x 8 cm 
 - Stelaże na droidy i blastery pasują do zestawu 75058 MTT (sprzedawany osobno)
 
+**Galeria:**
+
+- 75086-1: https://a.allegroimg.com/original/11cec6/8ba2c8c0441b9fa914e38ea2aa5f
+
 ---
 
-## 75088 — Lego Star Wars 75088 Komandosi Senatu nowy zestaw klocków
+## 75088 — Komandosi Senatu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702015349499 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75088 |
+| Nazwa angielska | Senate Commando Troopers |
+| Nazwa polska | Komandosi Senatu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349499 |
 
 LEGO 75088 Komandosi Senatu - rok 2015!
 
@@ -3340,11 +5424,27 @@ Rafał
 - Rozbuduj kolekcję klocków LEGO® Star Wars o ten fantastyczny zestaw bitewny
 - Wymiary wyrzutni z podstawką: ok. 8 x 8 x 8 cm
 
+**Galeria:**
+
+- 75088-1: https://a.allegroimg.com/original/11a494/a655b3b74f928ca48c7a6854169a
+
 ---
 
-## 75089 — Lego Star Wars 75089 Geonosjańscy żołnierze Nowe
+## 75089 — Geonosjańscy żołnierze
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015349505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75089 |
+| Nazwa angielska | Geonosis Troopers |
+| Nazwa polska | Geonosjańscy żołnierze |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349505 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3365,11 +5465,27 @@ Wspomóż armię klonów w walce o Geonosis, wysyłając na pomoc żołnierzy z 
 - Rozbuduj kolekcję klocków LEGO® Star Wars o ten fantastyczny zestaw bitewny 
 - Wymiary maszyny kroczącej: ok. 13 x 5 x 3 cm
 
+**Galeria:**
+
+- 75089-1: https://a.allegroimg.com/original/11b0cf/7fca98664bfeaa73e46438ec9e68
+
 ---
 
-## 75090 — Lego Star Wars 75090 Superścigacz Ezry Nowe
+## 75090 — Superścigacz Ezry
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015352116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75090 |
+| Nazwa angielska | Ezra's Speeder Bike [Redesigned Version] |
+| Nazwa polska | Superścigacz Ezry |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352116 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3388,11 +5504,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 - Znane z telewizyjnego filmu animowanego Star Wars: Rebels 
 - Wymiary ścigacza: ok. 3,5 x 16 x 5 cm w trybie jazdy i 3,5 x 15 x 5 na postoju
 
+**Galeria:**
+
+- 75090-1: https://a.allegroimg.com/original/119395/6abd29894a0382c55dec5d204aaf
+
 ---
 
-## 75091 — Lego Zestaw Star Wars Śmigacz Flash 75091
+## 75091 — Śmigacz Flash
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 410.00 zł · EAN: 05702015352147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75091 |
+| Nazwa angielska | Flash Speeder |
+| Nazwa polska | Śmigacz Flash |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm |
+| EAN | 5702015352147 |
 
 LEGO Star Wars Śmigacz Flash 75091
 
@@ -3427,11 +5559,27 @@ Siły bezpieczeństwa Naboo na pokładzie swojego Flash Speedera, wspierani prze
 - Wymiary Flash Speedera: 8 cm wysokości, 19 cm długości i 17 cm szerokości 
 - Zestaw LEGO Star Wars - Śmigacz Flash trafił do sprzedaży w 2015 roku. Numer katalogowy tego zestawu to 75091. Zawiera 312 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Star Wars - Flash Speeder.
 
+**Galeria:**
+
+- 75091-1: https://a.allegroimg.com/original/29b788/e98f2eca410fa6df650fe8c4727a
+
 ---
 
-## 75092 — Lego Star Wars 75092 Naboo Starfighter Nowe
+## 75092 — Lego 75092 Star Wars Naboo Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015352154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75092 |
+| Nazwa angielska | Naboo Starfighter |
+| Nazwa polska | Lego 75092 Star Wars Naboo Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 442 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352154 |
 
 WITAM SERDECZNIE.
 
@@ -3441,11 +5589,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 75092-1: https://a.allegroimg.com/original/007705/a46b10a14cc6a58ac46bff96e2b8
+
 ---
 
-## 75093 — Lego Star Wars 75093 Gwiazda Śmierci ostateczny pojedynek Nowe
+## 75093 — 75093
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 692.00 zł · EAN: 05702015352161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75093 |
+| Nazwa angielska | Death Star Final Duel |
+| Nazwa polska | 75093 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 724 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm × gł. 30 cm |
+| EAN | 5702015352161 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3473,11 +5637,27 @@ Odegraj słynny pojedynek Luke'a Skywalkera z Darthem Vaderem i Imperatorem Palp
 - Scena znana z filmu Gwiezdne Wojny: Epizod 6 Powrót Jedi 
 - Wymiary sali tronowej (po otwarciu): 14 cm wysokości, 32 cm szerokości i 30 cm głębokości
 
+**Galeria:**
+
+- 75093-1: https://a.allegroimg.com/original/11f6f3/eb6f3e664f05a73529aed2cd9995
+
 ---
 
-## 75094 — Lego Star Wars 75094 Imperialny wahadłowiec Tydirium
+## 75094 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015352376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75094 |
+| Nazwa angielska | Imperial Shuttle Tydirium |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 937 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352376 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3496,11 +5676,27 @@ Odegraj słynny pojedynek Luke'a Skywalkera z Darthem Vaderem i Imperatorem Palp
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 75094-1: https://a.allegroimg.com/original/0591b0/3ac1757d4634af0c4333568fa734
+
 ---
 
-## 75095 — Lego Star Wars 75095 Tie Fighter Nowe
+## 75095 — TIE Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1572.00 zł · EAN: 05702015352383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75095 |
+| Nazwa angielska | TIE Fighter |
+| Nazwa polska | TIE Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352383 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3518,11 +5714,27 @@ Z dumą prezentujemy kolekcjonerski zestaw LEGO® Star Wars TIE Fighter. Ten kla
 - Wzbogać kolekcję o jeden z najbardziej charakterystycznych statków w Galaktyce 
 - Wymiary myśliwca: ok. 47 x 31 x 32 cm
 
+**Galeria:**
+
+- 75095-1: https://a.allegroimg.com/original/11d74d/b3f6fa164a56abfb3d79661f6b60
+
 ---
 
-## 75096 — Lego 75096 Star Wars Infiltrator Sithów
+## 75096 — Infiltrator Sithów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015352390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75096 |
+| Nazwa angielska | Sith Infiltrator |
+| Nazwa polska | Infiltrator Sithów |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 662 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352390 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -3540,11 +5752,27 @@ Uwaga: ostatnia fotografia przedstawia rzeczywisty stan opakowania z naciskiem n
 
 Przybliżone wymiary opakowania:** 54 x 7,8 x 28,2 cm**
 
+**Galeria:**
+
+- 75096-1: https://a.allegroimg.com/original/11cbb8/a77a0378421bbd09bd62ac6a3b45
+
 ---
 
-## 75099 — Lego Star Wars 75099 Śmigacz Reya
+## 75099 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 227.03 zł · EAN: 05702015352611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75099 |
+| Nazwa angielska | Rey's Speeder |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702015352611 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3582,11 +5810,27 @@ Pędź do akcji śmigaczem Rey. Ten niesamowity pojazd ma wszystko, czego Rey po
 
 - Wymiary: 9 cm wysokości, 14 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 75099-1: https://a.allegroimg.com/original/0045d8/46d934c64d53883d39accb706a59
+
 ---
 
-## 75101 — Lego Star Wars 75101 First Order Special Forces Tie fighter
+## 75101 — 75101
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 571.45 zł · EAN: 05702015352130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75101 |
+| Nazwa angielska | First Order Special Forces TIE Fighter |
+| Nazwa polska | 75101 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 517 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 18 cm |
+| EAN | 5702015352130 |
 
 LEGO Star Wars 75101
 
@@ -3624,11 +5868,27 @@ Ilość elementów: 517
 
 Wiek: 8 - 14
 
+**Galeria:**
+
+- 75101-1: https://a.allegroimg.com/original/00c40a/6dd2992547db95786a6daf64a3bb
+
 ---
 
-## 75102 — Lego 75102 Star Wars Poe's X-Wing Fighter Unikat z 2015r
+## 75102 — Poe's X-Wing Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015352628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75102 |
+| Nazwa angielska | Poe's X-Wing Fighter |
+| Nazwa polska | Poe's X-Wing Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352628 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3638,11 +5898,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75102-1: https://a.allegroimg.com/original/1120b5/4e733f3b461e949e1fe02c19b280
+
 ---
 
-## 75103 — Lego Star Wars 75103 Firs Order Transporter Nowe
+## 75103 — 75103
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1250.00 zł · EAN: 05702015352635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75103 |
+| Nazwa angielska | First Order Transporter |
+| Nazwa polska | 75103 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 792 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 13 cm |
+| EAN | 5702015352635 |
 
 Klocki LEGO 75103 First Order Transporter
  
@@ -3662,11 +5938,27 @@ Opuść rampę, załaduj szturmowców i przygotuj się do desantu! Pancerny tran
 - Idealne uzupełnienie każdej kolekcji LEGO® Star Wars™ 
 - Wymiary: 15 cm wysokości, 31 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 75103-1: https://a.allegroimg.com/original/000c9d/3b34375b48af8bdb1363ec63fa4f
+
 ---
 
-## 75104 — Klocki Lego Star Wars Zestaw Command Shuttle Kylo Rena 75104
+## 75104 — LEGO STAR WARS 75104 COMMAND SHUTTLE KYLO RENA
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702015352642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75104 |
+| Nazwa angielska | Kylo Ren's Command Shuttle |
+| Nazwa polska | LEGO STAR WARS 75104 COMMAND SHUTTLE KYLO RENA |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1005 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352642 |
 
 KLOCKI LEGO STAR WARS COMMAND SHUTTLE™ KYLO RENA 75104
 
@@ -3706,11 +5998,27 @@ Ruszaj do walki osobistym wahadłowcem dowodzenia Kylo Rena! Ten niesamowity sta
 - **Ilość elementów:** 1005 
 - **Certyfikaty, opinie, atesty:** CE
 
+**Galeria:**
+
+- 75104-1: https://a.allegroimg.com/original/030002/19cf96764c3d9faf2c25f74b3e68
+
 ---
 
-## 75105 — Lego Star Wars 75105 Millennium Falcon
+## 75105 — Millennium Falcon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419231619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75105 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | Millennium Falcon |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm |
+| EAN | 5702015352659, 673419231619 |
 
 Klocki LEGO Star Wars 75105 - Millennium Falcon
  
@@ -3735,11 +6043,28 @@ Sokół Millenium powraca! Jeden z najbardziej rozpoznawalnych statków sagi Gwi
 
 Zestaw LEGO Star Wars - Millennium Falcon trafił do sprzedaży w 2015 roku. Numer katalogowy tego zestawu to 75105. Zawiera 1329 klocków LEGO. W modelu znajdziesz też 6 minifigurki. Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 75105-1: https://a.allegroimg.com/original/0066d1/f0cee6df49f7b438a124e9b37fd0
+- 75105-2: https://a.allegroimg.com/original/114cf2/94ee03ac49a69481eb0e2e952d4b
+
 ---
 
-## 75106 — Lego Star Wars 75106 Imperial Asault Carrier
+## 75106 — LEGO Star Wars 75106 Imperial Asault Carrier
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1685.00 zł · EAN: 05702015367813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75106 |
+| Nazwa angielska | Imperial Assault Carrier |
+| Nazwa polska | LEGO Star Wars 75106 Imperial Asault Carrier |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 22 cm |
+| EAN | 5702015367813 |
 
 LEGO Gwiezdne Wojny Imperial Asault Carrier (Star Wars) (75106) [KLOCKI]
 
@@ -3773,11 +6098,27 @@ Uwolnij eskadrę myśliwców TIE z Imperial Assault Carrier z klocków LEGO. Zes
 
 **Wysokość (razem z opakowaniem):** 90 mm
 
+**Galeria:**
+
+- 75106-1: https://a.allegroimg.com/original/1140ea/fda41b204d0bb595157c66574c15
+
 ---
 
-## 75107 — Lego Star Wars 75107 Jango Fett Nowe
+## 75107 — Jango Fett
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 296.00 zł · EAN: 05702015429665 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75107 |
+| Nazwa angielska | Jango Fett |
+| Nazwa polska | Jango Fett |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015429665 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3795,11 +6136,27 @@ Stań do walki z Jedi u boku Jango Fetta, który wygląda lepiej niż kiedykolwi
 - Odegraj sceny epickich walk z filmu Gwiezdne wojny: Część II — Atak klonów, dołączając do zabawy figurkę Obiego-Wan Kenobiego z zestawu 75109 (sprzedawaną oddzielnie) 
 - Wysokość 24 cm
 
+**Galeria:**
+
+- 75107-1: https://a.allegroimg.com/original/110465/ae6a88a540f39fd5b8d5cb0a5606
+
 ---
 
-## 75108 — Lego 75108 Dowódca Klonów Cody Zestaw Nowy
+## 75108 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702015429870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75108 |
+| Nazwa angielska | Clone Commander Cody |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015429870 |
 
 Witam serdecznie i zapraszam do zakupu zestawu klocków:
 
@@ -3821,11 +6178,27 @@ Do zakupu dołączam niefiskalny dowód sprzedaży
 
 Zwrot do sprzedającego na koszt kupującego
 
+**Galeria:**
+
+- 75108-1: https://a.allegroimg.com/original/11fed4/b0b9552b4cceb1f0ad6830615059
+
 ---
 
-## 75109 — Lego Star Wars 75109 Obi-wan Kenobi Nowe Gdańsk
+## 75109 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702015429887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75109 |
+| Nazwa angielska | Obi-Wan Kenobi |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015429887 |
 
 LEGO STAR WARS
 
@@ -3852,11 +6225,27 @@ WYMIARY OPAKOWANIA :
 
 26 cm * 14 cm * 6 cm *
 
+**Galeria:**
+
+- 75109-1: https://a.allegroimg.com/original/11a1ff/8455bff144f08066683bd9fe58df
+
 ---
 
-## 75110 — Lego Star Wars 75110 Luke Skywalker Nowe
+## 75110 — Luke Sky
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702015429900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75110 |
+| Nazwa angielska | Luke Skywalker |
+| Nazwa polska | Luke Sky |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015429900 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3875,11 +6264,27 @@ Pokonaj złe Imperium z pomocą figurki zbudowanej z klocków Luke'a Skywalkera!
 - Odegraj epicki ostateczny pojedynek z filmu Gwiezdne wojny: Część VI — Powrót Jedi, dołączając do zabawy figurkę Dartha Vadera z zestawu 75111 (sprzedawaną oddzielnie) 
 - Wysokość 24 cm
 
+**Galeria:**
+
+- 75110-1: https://a.allegroimg.com/original/1134c3/1428162846f487dddf1206a527cd
+
 ---
 
-## 75112 — Klocki Lego Star Wars Zestaw Generał Grievous 75112
+## 75112 — Klocki LEGO Star Wars Generał Grievous 75112
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015429924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75112 |
+| Nazwa angielska | General Grievous |
+| Nazwa polska | Klocki LEGO Star Wars Generał Grievous 75112 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015429924 |
 
 **LEGO Star Wars Generał Grievous 75112**
 
@@ -3897,11 +6302,27 @@ Odegraj epicki pojedynek z filmu Gwiezdne wojny: Część III — Zemsta Sithów
 
 Wysokość 30 cm
 
+**Galeria:**
+
+- 75112-1: https://a.allegroimg.com/original/117e61/52a753444005ad2852bf6b06dfe5
+
 ---
 
-## 75113 — Lego Star Wars 75113 Rey
+## 75113 — Rey
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 74.71 zł · EAN: 05702015594219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75113 |
+| Nazwa angielska | Rey |
+| Nazwa polska | Rey |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594219 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3947,11 +6368,27 @@ Nie nadaje się dla dzieci w wieku poniżej 3 lat.
 
 Produkt spełnia normy Unii Europejskiej w zakresie bezpieczeństwa oraz wpływu na zdrowie i środowisko.
 
+**Galeria:**
+
+- 75113-1: https://a.allegroimg.com/original/06665f/469147984425ab6abf050e22625c
+
 ---
 
-## 75114 — Lego 75114 Star Wars Szturmowiec Najwyższego Porządku nowa figurka
+## 75114 — Szturmowiec Najwyższego Porządku 75114
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015594202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75114 |
+| Nazwa angielska | First Order Stormtrooper |
+| Nazwa polska | Szturmowiec Najwyższego Porządku 75114 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594202 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -3973,11 +6410,27 @@ Zbuduj ruchomą figurkę szturmowca Najwyższego Porządku i rusz na podbój Gal
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 75114-1: https://a.allegroimg.com/original/1151f6/0627e3f84424bd1e1edc284edff1
+
 ---
 
-## 75117 — Nowy Lego Star Wars 75117 Kylo Ren Misb 2016
+## 75117 — Kylo Ren
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702015594172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75117 |
+| Nazwa angielska | Kylo Ren |
+| Nazwa polska | Kylo Ren |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594172 |
 
 Cześć!
 
@@ -3997,11 +6450,27 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 75117-1: https://a.allegroimg.com/original/117958/f21eee584de3a1e01740ba6a18b0
+
 ---
 
-## 75118 — Lego Star Wars 75118 Kapitan Phasma Nowe
+## 75118 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702015593366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75118 |
+| Nazwa angielska | Captain Phasma |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593366 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4017,11 +6486,26 @@ Sięgnij po ruchomą figurkę kapitan Phasmy (do zbudowania), aby móc wydawać 
 - Dzięki solidnej budowie zabawa może być naprawdę intensywna! Sięgnij po kultową postać z przebojowego filmu Gwiezdne Wojny: Przebudzenie mocy. 
 - Figurka ma ok. 26 cm wysokości.
 
+**Galeria:**
+
+- 75118-1: https://a.allegroimg.com/original/11edac/5d3c2f514d4daccf35ae1fc83d11
+
 ---
 
-## 75119 — Lego Star Wars 75119 Sierżant Jyn Erso
+## 75119 — Sierżant Jyn Erso
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 69.85 zł · EAN: 05702015593359 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75119 |
+| Nazwa angielska | Sergeant Jyn Erso |
+| Nazwa polska | Sierżant Jyn Erso |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593359 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4067,11 +6551,27 @@ Pomóż Rebeliantom stawić czoła Imperium dzięki tej figurce sierżant Jyn Er
 
 - Figurka ma ok. 24 cm wysokości.
 
+**Galeria:**
+
+- 75119-1: https://a.allegroimg.com/original/05d358/681d02754157b384a6256c17c296
+
 ---
 
-## 75121 — Lego 75121 Star Wars Imperialny szturmowiec śmierci
+## 75121 — Imperial Death Trooper
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015593335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75121 |
+| Nazwa angielska | Imperial Death Trooper |
+| Nazwa polska | Imperial Death Trooper |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593335 |
 
 Klocki LEGO Star Wars 75121 - Imperialny szturmowiec śmierci
  
@@ -4087,11 +6587,27 @@ Stań wśród elitarnych obrońców Imperium dzięki tej figurce szturmowca śmi
 - Zestaw odpowiedni dla dzieci w wieku od 8 do 14 lat. 
 - Figurka ma ok. 26 cm wysokości.
 
+**Galeria:**
+
+- 75121-1: https://a.allegroimg.com/original/0000cb/ed5410384d1ba308a0b77fd99236
+
 ---
 
-## 75125 — Klocki Lego Star Wars X-Wing Fighter Ruchu Oporu 75125
+## 75125 — VAGDE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 100.67 zł · EAN: 05702015590600 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75125 |
+| Nazwa angielska | Resistance X-Wing Fighter |
+| Nazwa polska | VAGDE |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702015590600 |
 
 PIERWSZE ZDJĘCIE POGLĄDOWE! SPRZEDAJEMY TO CO WIDAĆ NA ZDJĘCIACH!
 
@@ -4111,11 +6627,27 @@ Przygotuj się na miniaturowe przygody w świecie Gwiezdnych Wojen z tym kolekcj
 
 HM
 
+**Galeria:**
+
+- 75125-1: https://a.allegroimg.com/original/11f597/31ff83be4f3aa654609b3de70506
+
 ---
 
-## 75126 — Klocki Lego Star Wars Śmigacz śnieżny Najwyższego Porządku 75126
+## 75126 — 75126
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.18 zł · EAN: 05702015590617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75126 |
+| Nazwa angielska | First Order Snowspeeder |
+| Nazwa polska | 75126 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015590617 |
 
 SPRZEDAJEMY TO CO WIDAĆ NA ZDJĘCIACH! PIERWSZE ZDJĘCIE POGLĄDOWE!
 
@@ -4138,11 +6670,27 @@ Cechy produktu:
 
 HM
 
+**Galeria:**
+
+- 75126-1: https://a.allegroimg.com/original/05d945/1a99b3204206ba63733dfe66af87
+
 ---
 
-## 75127 — Klocki Lego 75127 Star Wars Ghost The Ghost Microfighter Mikromyśliwiec
+## 75127 — 75127
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 275.21 zł · EAN: 05702015590624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75127 |
+| Nazwa angielska | The Ghost |
+| Nazwa polska | 75127 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015590624 |
 
 Klocki LEGO 75127 Star Wars - Ghost
 
@@ -4176,11 +6724,27 @@ Wystartuj w fantastyczny świat kolekcjonerskich mikromyśliwców LEGO z miniatu
 
 - Wymiary: 4 cm wysokości, 10 cm długości i 9 cmszerokości.
 
+**Galeria:**
+
+- 75127-1: https://a.allegroimg.com/original/051a51/2d5d72e048f5a6baa0c12246a179
+
 ---
 
-## 75128 — Lego Star Wars 75128 Tie Advanced Prototype
+## 75128 — TIE Advanced Prototype
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702015590631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75128 |
+| Nazwa angielska | TIE Advanced Prototype |
+| Nazwa polska | TIE Advanced Prototype |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702015590631 |
 
 LEGO STAR WARS 75128 TIE ADVANCED PROTOTYPE
 
@@ -4210,11 +6774,27 @@ SPECYFIKACJA:
 - **Płeć dziecka:** Chłopcy i Dziewczynki 
 - **Ilość elementów:** 93
 
+**Galeria:**
+
+- 75128-1: https://a.allegroimg.com/original/1139be/385c69b948a3bfdde52d2af138ff
+
 ---
 
-## 75129 — Oryginalne Lego 75129 Star Wars Okręt bojowy Wookiee Nowy
+## 75129 — Okręt bojowy Wookiee
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.21 zł · EAN: 05702015590648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75129 |
+| Nazwa angielska | Wookiee Gunship |
+| Nazwa polska | Okręt bojowy Wookiee |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 8 cm |
+| EAN | 5702015590648 |
 
 LEGO 75129 Star Wars - Okręt bojowy Wookiee
 
@@ -4242,11 +6822,27 @@ Przenieś się do odległej galaktyki w mikromyśliwcu Okręt bojowy Wookiee z r
 
 - Wymiary (z rozłożonymi skrzydłami): **5 cm wysokości, 8 cm długości i 8 cm szerokości.**
 
+**Galeria:**
+
+- 75129-1: https://a.allegroimg.com/original/00e15a/aa8af00b4fd88a015809b7fd71e3
+
 ---
 
-## 75130 — Lego Star Wars 75130 At-dp
+## 75130 — AT-DP
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702015590655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75130 |
+| Nazwa angielska | AT-DP |
+| Nazwa polska | AT-DP |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm |
+| EAN | 5702015590655 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4286,11 +6882,27 @@ Wykonuj epickie misje w świecie Gwiezdnych Wojen z tym świetnym mikromyśliwce
 
 - Wymiary: 8 cm wysokości,7 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 75130-1: https://a.allegroimg.com/original/00df54/06fdf9164a45853682eef13d64c2
+
 ---
 
-## 75131 — Lego Star Wars 75131 Ruch Oporu Karton Ma Uszkodzenia
+## 75131 — Ruch Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015591577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75131 |
+| Nazwa angielska | Resistance Trooper Battle Pack |
+| Nazwa polska | Ruch Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591577 |
 
 LEGO 75131 Star Wars Ruch Oporu
 
@@ -4309,11 +6921,27 @@ UWAGA !!! KARTON MA USZKODZENIA WIDOCZNE NA ZDJĘCIACH
 - **Rok prezentacji:** 2016
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 75131-1: https://a.allegroimg.com/original/052272/7fa3d0b7455ea4b94d44f5955fb3
+
 ---
 
-## 75132 — Lego 75132 Star Wars Najwyższy Porządek Battle Pack
+## 75132 — Najwyższy Porządek
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 186.00 zł · EAN: 05702015591584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75132 |
+| Nazwa angielska | First Order Battle Pack |
+| Nazwa polska | Najwyższy Porządek |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591584 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4323,11 +6951,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75132-1: https://a.allegroimg.com/original/1113bf/8d6e92a648ecbdaa2f7756c11889
+
 ---
 
-## 75133 — Lego Star Wars 75133 Żołnierze Rebelii Nowe
+## 75133 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015591591 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75133 |
+| Nazwa angielska | Rebel Alliance Battle Pack |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702015591591 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4347,11 +6991,27 @@ Twórz emocjonujące bitwy z zestawem bitewnym Rebeliantów zawierającym motoś
 - Świetny dodatek do każdej kolekcji LEGO® Star Wars. 
 - Wymiary: 4 cm wysokości, 16 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 75133-1: https://a.allegroimg.com/original/116aa1/d546d23c481ab7367d18e22b82b6
+
 ---
 
-## 75134 — Lego 75134 Star Wars Imperium Galaktyczne Battle Pack
+## 75134 — Imperium Galaktyczne
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702015591614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75134 |
+| Nazwa angielska | Galactic Empire Battle Pack |
+| Nazwa polska | Imperium Galaktyczne |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591614 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4361,11 +7021,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75134-1: https://a.allegroimg.com/original/118cb7/9a317e9047d8983f17a22c1927cc
+
 ---
 
-## 75135 — Lego Star Wars 75135 Jedi Interceptor Obi-Wana Nowe
+## 75135 — Jedi Interceptor Obi-Wana
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015591652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75135 |
+| Nazwa angielska | Obi-Wan's Jedi Interceptor |
+| Nazwa polska | Jedi Interceptor Obi-Wana |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm |
+| EAN | 5702015591652 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4383,11 +7059,27 @@ Wstrzel się w konstelację statków kosmicznych i legendarnych postaci LEGO® S
 - Odtwórz ekscytujące sceny początkowe z filmu Gwiezdne wojny: część III — Zemsta Sithów. 
 - Wymiary: 6 cm wysokości, 17 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 75135-1: https://a.allegroimg.com/original/11fb65/211ec8ac4886b859def491ba5d26
+
 ---
 
-## 75136 — Lego 75136 Star Wars Kapsuła ratunkowa Droida
+## 75136 — Kapsuła ratunkowa Droida
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015591775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75136 |
+| Nazwa angielska | Droid Escape Pod |
+| Nazwa polska | Kapsuła ratunkowa Droida |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591775 |
 
 LEGO 75136 Kapsuła ratunkowa Droida
 
@@ -4403,11 +7095,27 @@ LEGO 75136 Kapsuła ratunkowa Droida
 - **Rok prezentacji:** 2016
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 75136-1: https://a.allegroimg.com/original/057e15/e236d7714c408ab0c9c6f7328ad1
+
 ---
 
-## 75137 — Klocki Lego Star Wars Komora do zamrażania w karbonicie 75137
+## 75137 — Komora do zamrażania w karbonicie 75137
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015591829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75137 |
+| Nazwa angielska | Carbon-Freezing Chamber |
+| Nazwa polska | Komora do zamrażania w karbonicie 75137 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 18 cm × gł. 14 cm |
+| EAN | 5702015591829 |
 
 **Han Solo** został wprowadzony do karbonowej komory mrożącej i zaraz zamieni się w **zmrożony blok litego karbonitu**! Czy uda mu się pokonać Bobę Fetta i uciec, czy może już na zawsze pozostanie zamrożonym więźniem Ugnaughtów? To Ty zadecydujesz.
 
@@ -4425,11 +7133,27 @@ LEGO 75136 Kapsuła ratunkowa Droida
 - **Odtwórz niezapomniane sceny z filmu Gwiezdne Wojny: część V — Imperium kontratakuje.** 
 - Wymiary: 13 cm wysokości (z podniesionym stołem karbonitowym ), 18 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 75137-1: https://a.allegroimg.com/original/005648/96d3f57845f9927cbbb8e1fe6c2d
+
 ---
 
-## 75138 — Lego Star Wars 75138 Atak Hoth
+## 75138 — Atak Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 368.68 zł · EAN: 05702015591843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75138 |
+| Nazwa angielska | Hoth Attack |
+| Nazwa polska | Atak Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm × gł. 12 cm |
+| EAN | 5702015591843 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4469,11 +7193,27 @@ Zestaw klocków LEGO 75138 Atak Hoth™ został przedstawiony w 2016 roku i skł
 
 35 cm * 19 cm * 6 cm *
 
+**Galeria:**
+
+- 75138-1: https://a.allegroimg.com/original/05c7eb/c22836cb4c8bad75f3c3fc19a88a
+
 ---
 
-## 75139 — Lego Star Wars 75139 Bitwa o Takodana
+## 75139 — Bitwa o Takodana
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 559.00 zł · EAN: 05702015592079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75139 |
+| Nazwa angielska | Battle on Takodana |
+| Nazwa polska | Bitwa o Takodana |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 409 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592079 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4491,11 +7231,27 @@ Zestaw klocków LEGO 75138 Atak Hoth™ został przedstawiony w 2016 roku i skł
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 75139-1: https://a.allegroimg.com/original/00dda5/7025ad9647a38fcba29c1d44875e
+
 ---
 
-## 75140 — Lego Star Wars 75140 Lego Star Wars Transport Ruchu Oporu
+## 75140 — LEGO Star Wars Transport Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702015592109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75140 |
+| Nazwa angielska | Resistance Troop Transporter |
+| Nazwa polska | LEGO Star Wars Transport Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 646 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592109 |
 
 Transporter LEGO Star Wars ma niezwykle istotne zadanie do wykonania – musi przetransportować żołnierzy na pole bitwy.
  
@@ -4507,11 +7263,27 @@ Kategoria wiekowa: od 8 roku życia
 
 Klocki LEGO Star Wars Transport Ruchu Oporu 75140, to zestaw nawiązujący do najnowszego filmu Star Wars – „Przebudzenie Mocy”. Znajdziemy tutaj aż 4 mini figurki, takie jak: Księżniczka Leia, Admirał Ackbar i 2 żołnierzy Ruchu Oporu (wraz hełmami). Transporter posiada otwierane włazy, opuszczaną rampę, dostęp do kokpitu oraz uzbrojony został w podwójną wyrzutnię sprężynową. Każdy bohater posiada również swój własny pistolet blasterowy. Pojazd ma aż 33 cm szerokości, 20 cm głębokości i 8 cm wysokości. Producent rekomenduje połączenie tego zestawu z klockami o numerze 75139 – „Bitwa na planecie Tokodana”.
 
+**Galeria:**
+
+- 75140-1: https://a.allegroimg.com/original/0559e7/9354356c4955bd38d77a392db3ac
+
 ---
 
-## 75141 — Lego Star Wars 75141 Speeder Bike Kanana nowy zestaw klocków
+## 75141 — Speeder Bike Kanana
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 460.00 zł · EAN: 05702015592123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75141 |
+| Nazwa angielska | Kanan's Speeder Bike |
+| Nazwa polska | Speeder Bike Kanana |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592123 |
 
 Witam
 
@@ -4527,11 +7299,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 75141-1: https://a.allegroimg.com/original/00ee8b/de73e3424f9a8d215df523db1a6e
+
 ---
 
-## 75142 — Lego Star Wars 75142 Homing Spider Nowe
+## 75142 — Homing Spider
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702015592154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75142 |
+| Nazwa angielska | Homing Spider Droid |
+| Nazwa polska | Homing Spider |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592154 |
 
 WITAM SERDECZNIE.
 
@@ -4543,11 +7331,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 75142-1: https://a.allegroimg.com/original/110d5d/6d78611b4346b7d91350710150ac
+
 ---
 
-## 75144 — Lego Star Wars 75144 Snowspeeder Ucs
+## 75144 — Snowspeeder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1638.99 zł · EAN: 05702015592789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75144 |
+| Nazwa angielska | Snowspeeder |
+| Nazwa polska | Snowspeeder |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1703 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 29 cm |
+| EAN | 5702015592789 |
 
 LEGO Śmigacz śnieżny 75144
  
@@ -4564,11 +7368,27 @@ Dołącz do swojej kolekcji prawdziwą klasykę Gwiezdnych Wojen: śmigacz śnie
 - Akcesoria: lornetka elektroniczna oraz hełmy pilota i strzelca śmigacza śnieżnego. 
 - Wymiary śmigacza śnieżnego na stojaku ekspozycyjnym: 21 cm wysokości, 39 cm długości i 29 cm szerokości (wysokość bez stojaka: 11 cm).
 
+**Galeria:**
+
+- 75144-1: https://a.allegroimg.com/original/0076ef/3aec38f14e6abfca4fd7b0a6fe83
+
 ---
 
-## 75145 — Lego Star Wars 75145 Myśliwiec Mroku
+## 75145 — Myśliwiec Mroku
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015592796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75145 |
+| Nazwa angielska | Eclipse Fighter |
+| Nazwa polska | Myśliwiec Mroku |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592796 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4586,11 +7406,27 @@ Dołącz do swojej kolekcji prawdziwą klasykę Gwiezdnych Wojen: śmigacz śnie
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 75145-1: https://a.allegroimg.com/original/056e32/756f52ba41d0baead9bbfadfb800
+
 ---
 
-## 75147 — Lego 75147 Star Wars Gwiezdny Sęp Unikat z 2016r.
+## 75147 — Gwiezdny Sęp
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 427.00 zł · EAN: 05702015592802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75147 |
+| Nazwa angielska | StarScavenger |
+| Nazwa polska | Gwiezdny Sęp |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 558 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592802 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4600,11 +7436,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75147-1: https://a.allegroimg.com/original/11b788/d5d006cd434ea17784e3a33038f9
+
 ---
 
-## 75149 — Lego Star Wars 75149 Myśliwiec X-Wing Ruchu Oporu
+## 75149 — Myśliwiec X-Wing Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702015592826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75149 |
+| Nazwa angielska | Resistance X-Wing Fighter |
+| Nazwa polska | Myśliwiec X-Wing Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 740 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592826 |
 
 Lego Star Wars Myśliwiec X-Wing Ruchu Oporu
  
@@ -4636,11 +7488,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75149-1: https://a.allegroimg.com/original/05487e/797c7ee945829fb057b594ed3bcf
+
 ---
 
-## 75150 — Lego Star Wars 75150 Tie Advanced kontra myśliwiec A-Wing
+## 75150 — TIE Advanced kontra myśliwiec A-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 929.00 zł · EAN: 05702015592833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75150 |
+| Nazwa angielska | Vader's TIE Advanced vs. A-Wing Starfighter |
+| Nazwa polska | TIE Advanced kontra myśliwiec A-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 702 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 16 cm |
+| EAN | 5702015592833 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4671,11 +7539,27 @@ W razie wątpliwości proszę pisać lub dzwonić.
 - Wymiary myśliwca TIE Advanced: 11 cm wysokości, 14 cm długości i 16 cm szerokości. 
 - Wymiary myśliwca A-Wing z rozłożonym podwoziem: 6 cm wysokości, 18 cm długości i 15 cm szerokości.
 
+**Galeria:**
+
+- 75150-1: https://a.allegroimg.com/original/114b32/a755a89545889977a5e2ab1fe054
+
 ---
 
-## 75151 — Klocki Lego Star Wars Zestaw Turboczołg klonów 75151
+## 75151 — Turboczolg
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015592840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75151 |
+| Nazwa angielska | Clone Turbo Tank |
+| Nazwa polska | Turboczolg |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 903 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 14 cm |
+| EAN | 5702015592840 |
 
 Klocki LEGO Star Wars Zestaw Turboczołg klonów 75151
 
@@ -4705,11 +7589,27 @@ Wymiary AT- RT: 8 cm wysokości, 5 cm długości i 4 cm szerokości.
 
 Zestaw LEGO Star Wars - Turboczołg klonów trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 75151. Zawiera 903 klocków LEGO. W modelu znajdziesz też 6 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Clone Turbo Tank. Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 75151-1: https://9.allegroimg.com/original/00c976/6019584642e3b985c11478ea0999
+
 ---
 
-## 75152 — Klocki Lego Star Wars Zestaw Szturmowy czołg poduszkowy Imperium 75152
+## 75152 — Szturmowy czołg Poduszkowy Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702015593878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75152 |
+| Nazwa angielska | Imperial Assault Hovertank |
+| Nazwa polska | Szturmowy czołg Poduszkowy Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 385 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593878 |
 
 **Lego Star Wars Szturmowy czołg poduszkowy Imperium 75152**. Chirrut potrzebuje pomocy w walce ze szturmowcami patrolującymi ulice w szturmowym czołgu poduszkowym Imperium. Czołg poduszkowy Imperium jest wyposażony w podwójne działka sprężynowe, ruchome działka boczne, otwieraną ładownię górną, otwierany kokpit dla minifigurki i przezroczyste koła, dzięki którym model wygląda, jakby unosił się nad ziemią. To niesamowity, miejski pojazd patrolowy!
 
@@ -4729,11 +7629,27 @@ Zestaw zawiera:
  
 • Idealne uzupełnienie każdej kolekcji LEGO® Star Wars!
 
+**Galeria:**
+
+- 75152-1: https://9.allegroimg.com/original/00c202/6f6cf5a54e279e768f1e642c2db9
+
 ---
 
-## 75153 — Klocki Lego Star Wars Zestaw Machina krocząca At-st 75153
+## 75153 — LEGO Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 592.00 zł · EAN: 05702015593885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75153 |
+| Nazwa angielska | AT-ST Walker |
+| Nazwa polska | LEGO Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 449 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 13 cm |
+| EAN | 5702015593885 |
 
 **Klocki LEGO 75153 Machina krocząca AT-ST**
 
@@ -4756,11 +7672,27 @@ Wymiary: ok. 24 cm wysokości, 16 cm długości i 13 cm szerokości.
 
 Zestaw LEGO Star Wars - Machina krocząca AT-ST trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 75153. Zawiera 449 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - AT-ST Walker. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 75153-1: https://a.allegroimg.com/original/05dfe6/a6b3e32048ddb459d729c61298ea
+
 ---
 
-## 75154 — Lego Star Wars 75154 Tie Striker
+## 75154 — TIE STRIKER
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702015593892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75154 |
+| Nazwa angielska | TIE Striker |
+| Nazwa polska | TIE STRIKER |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 543 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 24 cm |
+| EAN | 5702015593892 |
 
 Klocki LEGO Star Wars 75154 - TIE Striker
  
@@ -4786,11 +7718,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75154-1: https://5.allegroimg.com/original/00f7c7/6a35a71446f58413cc2f51b66745
+
 ---
 
-## 75155 — Lego Star Wars Zestaw Myśliwiec U-wing Rebeliantów 75155
+## 75155 — 75155
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015593908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75155 |
+| Nazwa angielska | Rebel U-Wing Fighter |
+| Nazwa polska | 75155 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 659 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm |
+| EAN | 5702015593908 |
 
 **LEGO Star Wars Myśliwiec U-wing Rebeliantów 75155**
 
@@ -4810,11 +7758,27 @@ Idealne uzupełnienie każdej kolekcji LEGO® Star Wars!.
 
 Wymiary: ok. 10 cm wysokości, 44 cm długości i 20 cm szerokości ze złożonymi płatami lub ok. 38 cm długości i 64 cm rozpiętości po ich rozłożeniu.
 
+**Galeria:**
+
+- 75155-1: https://a.allegroimg.com/original/004771/ec6e851a4f489854578f786bd81a
+
 ---
 
-## 75156 — Lego Star Wars 75156 Imperialny wahadłowiec Krennica
+## 75156 — Imperialny wahadłowiec Krennica
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702015593915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75156 |
+| Nazwa angielska | Krennic's Imperial Shuttle |
+| Nazwa polska | Imperialny wahadłowiec Krennica |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 863 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 45 cm × szer. 56 cm |
+| EAN | 5702015593915 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4853,11 +7817,27 @@ Imperialny wahadłowiec Krennica to groźny pojazd kosmiczny. Jest wyposażony w
 
 - Wymiary: ok. 45 cm wysokości, 25 cm długości i 56 cm szerokości w trybie lotu lub ok. 33 cm wysokości i 18 cm szerokości w trybie lądowania.
 
+**Galeria:**
+
+- 75156-1: https://a.allegroimg.com/original/002203/6c3fdf9d48818128ba50183bc6a9
+
 ---
 
-## 75157 — Klocki Lego Star Wars Zestaw At-te kapitana Rexa 75157
+## 75157 — 0
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015593922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75157 |
+| Nazwa angielska | Captain Rex's AT-TE |
+| Nazwa polska | 0 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 972 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 25 cm |
+| EAN | 5702015593922 |
 
 Pomóż Kapitanowi Rexowi powstrzymać Inkwizytora Imperium Piątego Brata wspomaganego przez szturmowca przed przejęciem kontroli nad jego mocno zmodyfikowaną maszyną kroczącą AT-TE. Maszyna ma wysięgniki, drabiny, płyty pancerne, górne działo sprężynowe oraz otwieraną od góry sekcję tylną i otwierane tylne wrota. Zestaw zawiera 5 minifigurek.
 
@@ -4875,11 +7855,27 @@ Zestaw odpowiedni dla dzieci w wieku od 9 do 14 lat.
 
 Wymiary AT-TE Kapitana Rexa: 20 cm wysokości, 33 cm długości i 25 cm szerokości.
 
+**Galeria:**
+
+- 75157-1: https://8.allegroimg.com/original/0681f7/87e08a1e48fa85735df58a563278
+
 ---
 
-## 75158 — Klocki Lego Star Wars 75158 Fregata bojowa Rebeliantów
+## 75158 — Fregata bojowa Rebeliantów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702015593939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75158 |
+| Nazwa angielska | Rebel Combat Frigate |
+| Nazwa polska | Fregata bojowa Rebeliantów |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 936 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm |
+| EAN | 5702015593939 |
 
 **LEGO STAR WARS FREGATA BOJOWA - 75158**
 
@@ -4901,11 +7897,27 @@ W zestawie również klucz płaski.
 
 Wymiary fregaty bojowej rebeliantów z zamkniętymi silnikami: 12 cm wysokości, 38 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 75158-1: https://4.allegroimg.com/original/01bf5e/dd321cc641f6a241c6fc71ba0e34
+
 ---
 
-## 75159 — Lego Star Wars 75159 Gwiazda Śmierci
+## 75159 — Gwiazda Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 5599.00 zł · EAN: 05702015593946 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75159 |
+| Nazwa angielska | Death Star |
+| Nazwa polska | Gwiazda Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4016 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593946 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4931,11 +7943,27 @@ Wymiary fregaty bojowej rebeliantów z zamkniętymi silnikami: 12 cm wysokości
 
 Obejmij dowodzenie nad najstraszniejszą bronią Imperium — Gwiazdą Śmierci! Ten niesamowity model z serii Star Wars ma tak wiele pomi eszczeń, hangarów i detali, że nie wiadomo, od czego zacząć. Naprawiaj droidy w warsztacie, pilnuj więźniów w celach i walcz z pojazdami gwiezdnymi Rebelii za pomocą sprężynowego turbolasera, wież turbolaserowych i potężnego promienia przyciągającego. Możesz nawet odwiedzić imperatora Palpatine’a w sali tronowej, przemieszczać ładunki w magazynie i zająć się śmieciami w zgniatarce. W Gwieździe Śmierci nie może oczywiście zabraknąć Obi-Wana Kenobiego, Luke’a Skywalkera i Hana Solo, usiłujących pokrzyżować złowrogie plany Imperium! Czy zdołają pokonać Vadera i innych stronników Imperium? Los Gwiazdy Śmierci jest w Twoich rękach…
 
+**Galeria:**
+
+- 75159-1: https://a.allegroimg.com/original/1137d2/67530f8e43079d9006b6c812a7c2
+
 ---
 
-## 75160 — Nowy Klocki Lego Star Wars Mikromyśliwiec U-Wing 75160 Misb 2017
+## 75160 — U-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702015866484 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75160 |
+| Nazwa angielska | U-Wing Microfighter |
+| Nazwa polska | U-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866484 |
 
 Cześć!
 
@@ -4953,11 +7981,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 75160-1: https://a.allegroimg.com/original/11b5a9/05d278f84f3bb39a4ee9097a31d1
+
 ---
 
-## 75161 — Lego Star Wars 75161 Tie Striker papierowa torba Lego!
+## 75161 — TIE Striker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 116.22 zł · EAN: 05702015866507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75161 |
+| Nazwa angielska | TIE Striker Microfighter |
+| Nazwa polska | TIE Striker |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866507 |
 
 **Lego Star Wars TIE Striker™ 75161**. Zaatakuj rebeliantów potężny myśliwcem TIE Striker! Dołącz do walki na pokładzie myśliwca TIE Striker ze składanymi skrzydłami, dwoma miotaczami klocków i miejscem na pilota TIE z pistoletem blasterowym (w zestawie).
 
@@ -4985,11 +8029,27 @@ Ilość klocków w zestawie: 88
 
 **W tym zestawie otrzymujesz klocki LEGO 75161 wraz z papierową torbą LEGO!**
 
+**Galeria:**
+
+- 75161-1: https://a.allegroimg.com/original/11ba53/9c26f0aa4b08ac4068118c3f13d9
+
 ---
 
-## 75162 — Lego Star Wars 75162 Star Wars
+## 75162 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702015866521 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75162 |
+| Nazwa angielska | Y-Wing Microfighter |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm |
+| EAN | 5702015866521 |
 
 LEGO STAR WARS
 
@@ -5014,11 +8074,27 @@ Rozpocznij miniaturową przygodę LEGO® Star Wars™ na pokładzie wystrzałowe
 
 12 cm * 14 cm * 5 cm *
 
+**Galeria:**
+
+- 75162-1: https://a.allegroimg.com/original/115833/bb315a6b455792ba5866fb224380
+
 ---
 
-## 75163 — Lego Star Wars Imperialny wahadłowiec 75163 patrz zdjecia
+## 75163 — lego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015866743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75163 |
+| Nazwa angielska | Krennic's Imperial Shuttle Microfighter |
+| Nazwa polska | lego |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 11 cm |
+| EAN | 5702015866743 |
 
 Patrz zdjęcia nowy nieotwierany nosi ślady zarysowań
 
@@ -5034,11 +8110,27 @@ Odtwórz przygody z filmu „Łotr1.Gwiezdne wojny - historie” na pokładzie i
 - Odtwórz własne niesamowite sceny akcji z filmowego hitu „Gwiezdne wojny: Rogue One”.
 - Wymiary: ok. 8 cm wysokości, 8 cm długości i 11 cm szerokości ze złożonymi skrzydłami.
 
+**Galeria:**
+
+- 75163-1: https://a.allegroimg.com/original/111327/9ae0f55c420e86697d4f306dd0a1
+
 ---
 
-## 75164 — Lego Star Wars 75372 Zestaw Bitewny Klony Droidy Ścigacz Tri-droid
+## 75164 — LEGO Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702015866750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75164 |
+| Nazwa angielska | Rebel Trooper Battle Pack |
+| Nazwa polska | LEGO Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702015866750 |
 
 **Klocki LEGO 75164 Rebel Trooper**
  
@@ -5066,11 +8158,27 @@ Powiększ swoją armię zestawem bitewnym Rebel Trooper. Zestaw zawiera motośmi
  
 Zestaw LEGO Star Wars - Rebel Trooper trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 75164. Zawiera 120 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Rebel Trooper Battle Pack. Grupa wiekowa tego produktu to 6+
 
+**Galeria:**
+
+- 75164-1: https://a.allegroimg.com/original/05829a/2c56c8034ef6baacc7865d236417
+
 ---
 
-## 75165 — Lego 75165 Star Wars Żołnierze Imperium Klocki Gwiezdne Wojny Nowe
+## 75165 — Żołnierze Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 459.31 zł · EAN: 05702015866767 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75165 |
+| Nazwa angielska | Imperial Trooper Battle Pack |
+| Nazwa polska | Żołnierze Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702015866767 |
 
 LEGO Star Wars 75165 - Żołnierze Imperium
 
@@ -5102,11 +8210,27 @@ Poszerz swoją kolekcję LEGO® Star Wars™ o zestaw bitewny Imperial Trooper.
 
 - Wymiary maszyny: **10 cm wysokości, 8 cm długości i 8 cm szerokości**
 
+**Galeria:**
+
+- 75165-1: https://0.allegroimg.com/original/00a97b/88d093d7413897ca06f0cd314390
+
 ---
 
-## 75167 — Lego Star Wars 75167
+## 75167 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015866842 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75167 |
+| Nazwa angielska | Bounty Hunter Speeder Bike Battle Pack |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866842 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5133,11 +8257,27 @@ Wyrusz w drogę z **Dengarem, Bosskiem, IG-88 i 4-LOM** w ich własnym ścigaczu
 - Zburz wszystkie przeszkody potężnymi wyrzutniami klocków! 
 - Broń w zestawie: **cztery miotacze klocków i karabin blasterowy IG-88.**
 
+**Galeria:**
+
+- 75167-1: https://a.allegroimg.com/original/113906/b7722b974df69dc05a769d809632
+
 ---
 
-## 75168 — Lego Star Wars 75168 Jedi Starfighter Yody
+## 75168 — Jedi Starfighter Yody 75168
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 286.21 zł · EAN: 05702015866859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75168 |
+| Nazwa angielska | Yoda's Jedi Starfighter |
+| Nazwa polska | Jedi Starfighter Yody 75168 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 18 cm |
+| EAN | 5702015866859 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5178,11 +8318,27 @@ Dodaj klasyczny myśliwiec Jedi Yody do swojej kolekcji LEGO® Star Wars™. Ulu
  
 Zestaw LEGO Star Wars - Jedi Starfighter Yody trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 75168. Zawiera 262 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Yoda's Jedi Starfighter. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 75168-1: https://a.allegroimg.com/original/117af0/d525cb224a5aa455d146e323d6ac
+
 ---
 
-## 75169 — Oryginalne Lego Star Wars 75169 Pojedynek na Naboo Klocki Gwiezdne Wojny
+## 75169 — Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015883405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75169 |
+| Nazwa angielska | Duel on Naboo |
+| Nazwa polska | Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm × gł. 11 cm |
+| EAN | 5702015867580, 5702015883405 |
 
 LEGO Star Wars 75169 - Pojedynek na Naboo
 
@@ -5216,11 +8372,28 @@ W zestawie także trzy minifigurki.
 
 - Wymiary: **13 cm wysokości, 19 cm szerokości i 11 cm głębokości**.
 
+**Galeria:**
+
+- 75169-1: https://a.allegroimg.com/original/00cce0/7391d4414ecc86530bf77ee06d98
+- 75169-2: https://a.allegroimg.com/original/0534f6/fc1dbf64417c918368c2507dbee1
+
 ---
 
-## 75170 — Lego Star Wars Zestaw Phantom 75170
+## 75170 — Phantom
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015867597 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75170 |
+| Nazwa angielska | The Phantom |
+| Nazwa polska | Phantom |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 10 cm |
+| EAN | 5702015867597 |
 
 LEGO® Star Wars™ The Phantom
 
@@ -5244,11 +8417,27 @@ Odtwórz ekscytujące sceny z serialu animowanego „Gwiezdne wojny: Rebelianci�
 
 Wymiary: ok. 11 cm wysokości, 17 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 75170-1: https://a.allegroimg.com/original/113e98/4aef4a244839a606e8453dfc67a5
+
 ---
 
-## 75171 — Lego Star Wars 75171 Bitwa na Scarif Nowe
+## 75171 — BITWA NA SCARIF
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015867603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75171 |
+| Nazwa angielska | Battle on Scarif |
+| Nazwa polska | BITWA NA SCARIF |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 419 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 25 cm × gł. 22 cm |
+| EAN | 5702015867603 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5271,11 +8460,27 @@ Odtwórz pełne rozmachu sceny z filmowego hitu „Łotr1.Gwiezdne wojny - histo
 - Zestaw odpowiedni dla dzieci w wieku 8-14 lat. 
 - Wymiary: ok. 10 cm wysokości, 25 cm szerokości i 22 cm głębokości.
 
+**Galeria:**
+
+- 75171-1: https://a.allegroimg.com/original/11dbde/9f94ff334da7b1443fc0e6757a45
+
 ---
 
-## 75172 — Lego Star Wars 75172 Y-Wing Starfighter
+## 75172 — Y-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.90 zł · EAN: 05702015867610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75172 |
+| Nazwa angielska | Y-Wing Starfighter |
+| Nazwa polska | Y-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 691 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 20 cm |
+| EAN | 5702015867610 |
 
 Klocki LEGO Star Wars 75172 - Y-Wing Starfighter
  
@@ -5303,11 +8508,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75172-1: https://8.allegroimg.com/original/0097da/5b8d422e431ca5bcecbc4dd6fc58
+
 ---
 
-## 75173 — Lego Star Wars 75173 Lego Star Wars Śmigacz Luke'a 75173
+## 75173 — LEGO Star Wars Śmigacz Luke'a 75173
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702015867627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75173 |
+| Nazwa angielska | Luke's Landspeeder |
+| Nazwa polska | LEGO Star Wars Śmigacz Luke'a 75173 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 11 cm |
+| EAN | 5702015867627 |
 
 LEGO STAR WARS 75173 ŚMIGACZ LUKE'A SKYWALKERA
 
@@ -5336,11 +8557,27 @@ Ten model kultowego ścigacza ma otwarty kokpit z miejscem na dwie minifigurki, 
 - Zestaw odpowiedni dla dzieci w wieku 7-12 lat. 
 - Wymiary: ok. 5 cm wysokości, 18 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 75173-1: https://a.allegroimg.com/original/116699/a28fa3b04d4788ea45dc317ef019
+
 ---
 
-## 75174 — Lego Star Wars 75174 Ucieczka na pustynnej barce 75174
+## 75174 — Ucieczka na pustynnej barce 75174
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015867634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75174 |
+| Nazwa angielska | Desert Skiff Escape |
+| Nazwa polska | Ucieczka na pustynnej barce 75174 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 13 cm |
+| EAN | 5702015867634 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5371,11 +8608,27 @@ Rozgrywaj ekscytujące pojedynki nad pustynnymi wydmami z tym kultowym zestawem 
 - Wymiary barki: ok. 6 cm wysokości, 24 cm długości i 13 cm szerokości.
 - Wymiary jamy Sarlacca: ok. 10 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 75174-1: https://a.allegroimg.com/original/009124/7fc4491f422b8742ca6a20c058e4
+
 ---
 
-## 75175 — Lego Star Wars 75175 A-Wing Starfighter Nowy
+## 75175 — A-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 865.00 zł · EAN: 05702015867641 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75175 |
+| Nazwa angielska | A-Wing Starfighter |
+| Nazwa polska | A-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702015867641 |
 
 LEGO A-Wing Starfighter 75175
 
@@ -5392,11 +8645,27 @@ Wyrusz na misję LEGO Star Wars na pokładzie superszybkiego myśliwca A-Wing z 
 - Wymiary myśliwca A-wing: ok. 7 cm wysokości, 20 cm długości i 12 cm szerokości.
 - Wymiary wózka warsztatowego: ok. 7 cm wysokości, 9 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 75175-1: https://a.allegroimg.com/original/113bed/1daf912c4f69bae60f62ea3efe52
+
 ---
 
-## 75176 — Lego Star Wars 75176 Pojazd transportowy Ruchu Oporu
+## 75176 — Pojazd transportowy Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702015868495 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75176 |
+| Nazwa angielska | Resistance Transport Pod |
+| Nazwa polska | Pojazd transportowy Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702015868495 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5427,11 +8696,27 @@ Ratuj się szybką ucieczką razem z Finnem i Rose w kapsule transportowej Ruchu
 - Odtwórz ekscytujące sceny z filmu „Gwiezdne wojny: Część VIII”. 
 - Kapsuła ma ok. 10 cm wysokości, 14 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 75176-1: https://a.allegroimg.com/original/001f6a/bda58f0d4f2a82cbab69570847d2
+
 ---
 
-## 75178 — Lego Star Wars 75178 Quadjumper z Jakku
+## 75178 — Quadjumper z Jakku
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015868518 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75178 |
+| Nazwa angielska | Jakku Quadjumper |
+| Nazwa polska | Quadjumper z Jakku |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 457 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm |
+| EAN | 5702015868518 |
 
 Klocki Lego 75178 Star Wars - Quadjumper z Jakku
  
@@ -5458,11 +8743,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75178-1: https://3.allegroimg.com/original/00209e/9915ca624ede92a2353df2903483
+
 ---
 
-## 75179 — Klocki Lego Star Wars Zestaw Myśliwiec Tie Kylo Rena 75179
+## 75179 — Myśliwiec TIE Kylo Rena
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 948.00 zł · EAN: 05702015868525 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75179 |
+| Nazwa angielska | Kylo Ren's TIE Fighter |
+| Nazwa polska | Myśliwiec TIE Kylo Rena |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 630 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 23 cm |
+| EAN | 5702015868525 |
 
 **Klocki LEGO Star Wars Zestaw Myśliwiec TIE Kylo Rena 75179**
 
@@ -5479,11 +8780,27 @@ Cechy zestawu:
 - Naciśnij przyciski na wierzchu statku, by wystrzelić ze sprężynowych działek.
 - Myśliwiec ma ok. 12 cm wysokości, 41 cm długości i 23 cm szerokości.
 
+**Galeria:**
+
+- 75179-1: https://b.allegroimg.com/original/00d7c5/a8a1249e467d90f27fda0afccdbb
+
 ---
 
-## 75181 — Klocki Lego Star Wars Zestaw Y-Wing Starfighter 75181
+## 75181 — Y-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702016109665 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75181 |
+| Nazwa angielska | Y-Wing Starfighter |
+| Nazwa polska | Y-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1967 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 30 cm |
+| EAN | 5702016109665 |
 
 Klocki LEGO Star Wars Zestaw Y-Wing Starfighter 75181
 
@@ -5503,11 +8820,27 @@ Model z serii Ultimate Collector Series.
 
 Model ma ok. 7 cm wysokości, 61 cm długości i 30 cm szerokości oraz 24 cm wysokości na podstawce.
 
+**Galeria:**
+
+- 75181-1: https://a.allegroimg.com/original/032808/3e01316f4bc8b3e854d728a6225a
+
 ---
 
-## 75182 — Lego Star Wars 75182 Czołg Bojowy Republiki
+## 75182 — CZOŁG BOJOWY REPUBLIKI
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 504.50 zł · EAN: 05702015868549 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75182 |
+| Nazwa angielska | Republic Fighter Tank |
+| Nazwa polska | CZOŁG BOJOWY REPUBLIKI |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702015868549 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5541,21 +8874,53 @@ Stań do walki z armią droidów w czołgu bojowym Republiki z serii LEGO® Star
 
 - Model ma ok. 7 cm wysokości, 17 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 75182-1: https://a.allegroimg.com/original/002fdf/cbf9453e4911810a8de8b581667d
+
 ---
 
-## 75183 — Lego 75183 Star Wars Transformacja Dartha Vadera-Darth Vader Transformation
+## 75183 — Transformacja Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868556 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75183 |
+| Nazwa angielska | Darth Vader Transformation |
+| Nazwa polska | Transformacja Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868556 |
 
 LEGO 75183 Star Wars Transformacja Dartha Vadera-Darth Vader Transformation
 
 Zestaw nowy i fabrycznie zaplombowany. Woreczki nietknięte ale kartonik ledwo się trzyma. Zdjęcia przedstawiają sprzedawany zestaw
 
+**Galeria:**
+
+- 75183-1: https://a.allegroimg.com/original/110cf9/c7c41b91401596bafcadf980887a
+
 ---
 
-## 75185 — Lego Star Wars 75185 Klocki Lego Star Wars Zwiadowca
+## 75185 — Klocki LEGO Star Wars Zwiadowca I 75185
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702015868563 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75185 |
+| Nazwa angielska | Tracker I |
+| Nazwa polska | Klocki LEGO Star Wars Zwiadowca I 75185 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 557 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 20 cm |
+| EAN | 5702015868563 |
 
 LEGO
 
@@ -5579,11 +8944,27 @@ Przemierzaj galaktykę w Trackerze I z droidem myśliwskim M-OC szukającym Free
 - Do przyczepienia minifigurki do kokpitu wymagany jest specjalny naramiennik. 
 - Model ma ok. 17 cm wysokości, 34 cm długości i 20 cm szerokości.
 
+**Galeria:**
+
+- 75185-1: https://a.allegroimg.com/original/110b9f/38ac94144943962d03f482444380
+
 ---
 
-## 75186 — Lego Star Wars 75186 Grot Freemakers Arrowhead
+## 75186 — Grot
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 915.00 zł · EAN: 05702015869874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75186 |
+| Nazwa angielska | The Arrowhead |
+| Nazwa polska | Grot |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 775 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 24 cm |
+| EAN | 5702015869874 |
 
 LEGO Star Wars Grot 75186
 
@@ -5604,11 +8985,27 @@ Wykonuj niebezpieczne misje z serialu „LEGO® Star Wars: Przygody Freemakerów
 - Statek ma ok. 7 cm wysokości, 51 cm długości i 24 cm szerokości. 
 - Wózek warsztatowy ma ok. 5 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 75186-1: https://a.allegroimg.com/original/111305/da14dade48488287fcc1d7e80172
+
 ---
 
-## 75187 — Lego Star Wars 75187 BB-8 Nowe
+## 75187 — BB-8
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702015869881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75187 |
+| Nazwa angielska | BB-8 |
+| Nazwa polska | BB-8 |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 15 cm |
+| EAN | 5702015869881 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -5626,11 +9023,27 @@ Twój własny BB-8 z LEGO®! Zakręć jednym kółkiem, by obrócić mu głowę,
 - BB-8 bez podstawki ma ok. 25 cm wysokości i 15 cm szerokości. 
 - Podstawka ma ok. 26 cm długości.
 
+**Galeria:**
+
+- 75187-1: https://a.allegroimg.com/original/117da5/093edc314754b8b27af804a507b8
+
 ---
 
-## 75190 — Zestaw Lego Star Wars 75190 Niszczyciel Gwiezdny Najwyższego Porządku
+## 75190 — Niszczyciel gwiezdny Najwyższego Porządku
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015869911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75190 |
+| Nazwa angielska | First Order Star Destroyer |
+| Nazwa polska | Niszczyciel gwiezdny Najwyższego Porządku |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1416 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm |
+| EAN | 5702015869911 |
 
 W tej ofercie mamy na sprzedaż:
 
@@ -5653,11 +9066,27 @@ Specyfikacja:
 
 Zapraszamy do przeglądania naszych pozostałych ofert!
 
+**Galeria:**
+
+- 75190-1: https://a.allegroimg.com/original/119515/1277f16b4cdbbd8c2afbcc5f19a0
+
 ---
 
-## 75191 — Lego Star Wars 75191 Jedi Starfighter z hipernapędem
+## 75191 — Jedi Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015869928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75191 |
+| Nazwa angielska | Jedi Starfighter with Hyperdrive |
+| Nazwa polska | Jedi Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 825 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702015869928 |
 
 LEGO Jedi Starfighter z hipernapędem 75191
 
@@ -5678,11 +9107,27 @@ Przemierzaj galaktykę w Jedi Starfighterze Obi-Wana z hipernapędem. Ten szczeg
 
 Niżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 75191-1: https://a.allegroimg.com/original/03e857/95bde7ff413fa39675ff7e0260ad
+
 ---
 
-## 75192 — Lego Star Wars Sokół Millennium 75192
+## 75192 — Sokół Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2849.99 zł · EAN: 05702015869935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75192 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | Sokół Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 7541 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 56 cm |
+| EAN | 5702015869935 |
 
 **LEGO STAR WARS Sokół Millennium 75192**
 
@@ -5707,11 +9152,27 @@ Poznaj największego i najbardziej szczegółowego Sokoła Millennium, jakiego z
 - Ten zestaw to doskonała międzygwiezdna zabawka lub flagowy model kolekcjonerski.
 - Sokół Millenium ma ok. 21 cm wysokości, 84 cm długości i 56 cm szerokości.
 
+**Galeria:**
+
+- 75192-1: https://a.allegroimg.com/original/11b5bc/55584a174aba9001750adc22f01c
+
 ---
 
-## 75193 — Lego 75193 Star Wars Sokół Millennium
+## 75193 — Sokół Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 186.48 zł · EAN: 05702016109870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75193 |
+| Nazwa angielska | Millennium Falcon Microfighter |
+| Nazwa polska | Sokół Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 8 cm |
+| EAN | 5702016109870 |
 
 LEGO 75193 Star Wars - Sokół Millennium
 
@@ -5727,11 +9188,27 @@ Ruszaj do akcji w mikromyśliwcu Sokół Millennium. Ten zestaw LEGO®
 - Ten zestaw z serii LEGO® Star Wars jest odpowiedni dla dzieci w wieku 6–12 lat.
 - Model ma ok. 4 cm wysokości, 8 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 75193-1: https://a.allegroimg.com/original/116aef/26613ec049c68dcbc8e028f7da61
+
 ---
 
-## 75194 — Lego Star Wars 75194 Myśliwiec Tie Najwyższego Porządku
+## 75194 — Myśliwiec TIE Najwyższego Porządku
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 00673419281621 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75194 |
+| Nazwa angielska | First Order TIE Fighter Microfighter |
+| Nazwa polska | Myśliwiec TIE Najwyższego Porządku |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016109887, 673419281621 |
 
 Klocki LEGO Star Wars Myśliwiec TIE Najwyższego porządku 75194
 
@@ -5748,11 +9225,27 @@ Urządź emocjonujące kosmiczne walki z mikromyśliwcem z zestawu Myśliwiec TI
 
 Liczba elementów: 91
 
+**Galeria:**
+
+- 75194-1: https://a.allegroimg.com/original/114109/3f69d21a4964b6d9448edab9cf62
+
 ---
 
-## 75196 — Lego Star Wars 75196 A-Wing kontra Tie Silencer
+## 75196 — A-Wing kontra TIE Silencer
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 243.90 zł · EAN: 05702016109900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75196 |
+| Nazwa angielska | A-Wing vs. TIE Silencer Microfighters |
+| Nazwa polska | A-Wing kontra TIE Silencer |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109900 |
 
 NOWE LEGO 75196
  
@@ -5773,11 +9266,27 @@ NOWY W ORYGINALNYM
  
 OPAKOWANIU
 
+**Galeria:**
+
+- 75196-1: https://a.allegroimg.com/original/00051d/d5ab0b1f41d0b9833c2d9bdcc201
+
 ---
 
-## 75197 — Lego Star Wars 75197 Star Wars First Order Specialists Battle Pack 75197
+## 75197 — Klocki LEGO Star Wars First Order Specialists Battle Pack 75197
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016109917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75197 |
+| Nazwa angielska | First Order Specialists Battle Pack |
+| Nazwa polska | Klocki LEGO Star Wars First Order Specialists Battle Pack 75197 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702016109917 |
 
 **Klocki LEGO 75197 Najwyższy Porządek**
  
@@ -5818,11 +9327,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75197-1: https://6.allegroimg.com/original/0073d8/2a6b915d46938191a16b57f62746
+
 ---
 
-## 75199 — Klocki Lego Star Wars Zestaw Ścigacz bojowy generała Grievousa 75199
+## 75199 — Ścigacz generała Grievousa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016109931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75199 |
+| Nazwa angielska | General Grievous' Combat Speeder |
+| Nazwa polska | Ścigacz generała Grievousa |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm |
+| EAN | 5702016109931 |
 
 LEGO STAR WARS 75199 ŚCIGACZ BOJOWY GRIEVOUSA
 
@@ -5840,11 +9365,27 @@ Ten zestaw z serii LEGO® Star Wars jest odpowiedni dla dzieci w wieku 7–12 la
 
 Model ma ok. 7 cm wysokości, 25 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 75199-1: https://a.allegroimg.com/original/1138d7/0b1ace5040d0b5a2a26e7a7cc032
+
 ---
 
-## 75200 — Lego Star Wars 75200 Szkolenie na wyspie Ahch-To
+## 75200 — Szkolenie na wyspie Ahch-To
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016109948 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75200 |
+| Nazwa angielska | Ahch-To Island Training |
+| Nazwa polska | Szkolenie na wyspie Ahch-To |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm × gł. 17 cm |
+| EAN | 5702016109948 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5886,11 +9427,27 @@ Dołącz do Mistrza Luke’a, który szkoli Rey w swoim górskim schronieniu. W 
  
 - Zestaw LEGO Star Wars - Szkolenie na wyspie Ahch-To trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 75200. Zawiera 241 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Ahch-To Island Training.
 
+**Galeria:**
+
+- 75200-1: https://a.allegroimg.com/original/1133bb/749da74447618166c3cfba03961c
+
 ---
 
-## 75202 — Klocki Lego Star Wars Zestaw Obrona Crait 75202
+## 75202 — Klocki LEGO Star Wars 'CONF Carver with white planet trench 75202
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016109962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75202 |
+| Nazwa angielska | Defense of Crait |
+| Nazwa polska | Klocki LEGO Star Wars 'CONF Carver with white planet trench 75202 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 746 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109962 |
 
 Klocki LEGO Star Wars Zestaw Obrona Crait 75202
 
@@ -5898,11 +9455,27 @@ Obrona Crait to niezwykły zestaw z serii LEGO® Star Wars, którym bojownik Ruc
 
 Zestaw zawiera śmigacz Ruchu Oporu, wieżę ze stanowiskiem dowodzenia i element rozkładanego okopu, 5 minifigurek: Kapitan Poe Dameron, Admirał Ematt, żołnierz Ruchu Oporu i 2 śnieżnych szturmowców Najwyższego Porządku oraz elektroniczna lornetka Admirała Ematta.
 
+**Galeria:**
+
+- 75202-1: https://a.allegroimg.com/original/05490e/f787be1b460f8460c524a2e702ea
+
 ---
 
-## 75203 — Lego Star Wars 75203 Komora medyczna na Hoth Nowe
+## 75203 — Komora Medyczna na Hoth
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702016110616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75203 |
+| Nazwa angielska | Hoth Medical Chamber |
+| Nazwa polska | Komora Medyczna na Hoth |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 255 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm × gł. 18 cm |
+| EAN | 5702016110616 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5919,11 +9492,27 @@ Rozgrywaj sceny z powierzchni lodowej planety Hoth w zestawie LEGO® Star Wars 7
 - Odegraj własne niezwykłe sceny z filmu „Gwiezdne wojny: Imperium kontratakuje”. 
 - Komora medyczna (rozłożona) ma ok. 10 cm wysokości, 21 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 75203-1: https://a.allegroimg.com/original/115731/dc091f524855bec0432344bfd703
+
 ---
 
-## 75207 — Lego Star Wars 75207 Imperialny patrol Imperial Patrol Battle Pack klocki
+## 75207 — LEGO Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702016109351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75207 |
+| Nazwa angielska | Imperial Patrol Battle Pack |
+| Nazwa polska | LEGO Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702016109351 |
 
 Witam
 
@@ -5949,11 +9538,27 @@ Rozgrywaj scenki z udziałem służb porządkowych z imponującego zestawu bitew
 - Śmigacz ma ok. 3 cm wysokości, 13 cm długości i 5 cm szerokości.
 - W opakowaniu znajdziesz 4 minifigurki.
 
+**Galeria:**
+
+- 75207-1: https://a.allegroimg.com/original/05c331/25f686fb47ada483fd84e5e52a46
+
 ---
 
-## 75210 — Klocki Lego Star Wars 75210 Ścigacz molocha Gwiezdne Wojny
+## 75210 — scigacz molocha
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016110586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75210 |
+| Nazwa angielska | Moloch's Landspeeder |
+| Nazwa polska | scigacz molocha |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 464 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 11 cm |
+| EAN | 5702016110586 |
 
 **Ruszaj w pogoń za zwierzyną z przywódcą gangu Molochem w jego śmigaczu! Włóż broń do schowka, załaduj działko na wiele klocków i ruszaj w drogę. Gdy spostrzeżesz zwierzynę, pomóż Reboltowi wypuścić psy i odciąć jej drogę ucieczki. Nikt nie zadziera z potężnym Molochem!**
  
@@ -5977,11 +9582,27 @@ Rozgrywaj scenki z udziałem służb porządkowych z imponującego zestawu bitew
  
 **Rok wydania :****2018**
 
+**Galeria:**
+
+- 75210-1: https://4.allegroimg.com/original/005cd0/5e47975d44b9a91516a3702ac074
+
 ---
 
-## 75212 — Klocki Lego Star Wars Zestaw Sokół Millennium 75212
+## 75212 — Sokół Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1278.00 zł · EAN: 05702016110609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75212 |
+| Nazwa angielska | Kessel Run Millennium Falcon |
+| Nazwa polska | Sokół Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1414 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110609 |
 
 KLOCKI LEGO STAR WARS SOKÓŁ MILLENNIUM™ 75212
 
@@ -5999,11 +9620,27 @@ Przechytrz niecnego nadzorcę Quaya Tolsite’a i ucieknij z kopalni na Kessel n
 
 **Wymiar opakowania jednostkowego (SxWxG):** 37,8 x 8,7 x 58,2 cm
 
+**Galeria:**
+
+- 75212-1: https://a.allegroimg.com/original/05e88c/ab98c5d74fc5b99186dac10150b0
+
 ---
 
-## 75214 — Lego Star Wars 75214 lego Nowe
+## 75214 — lego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016110623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75214 |
+| Nazwa angielska | Anakin's Jedi Starfighter |
+| Nazwa polska | lego |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702016110623 |
 
 LEGO STAR WARS 75214 Myśliwiec Jedi Anakina
  
@@ -6019,11 +9656,27 @@ W kolekcji każdego młodego padawana przyda się zestaw LEGO® Star Wars 752
 - W komplecie miecz świetlny Anakina. 
 - Model ma ok. 8 cm wysokości, 27 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 75214-1: https://a.allegroimg.com/original/007122/047be642409cb16e9107e583e4b2
+
 ---
 
-## 75215 — Lego 75215 Star Wars Skutery Jeźdźców Chmur
+## 75215 — Skutery Jeźdźców Chmur
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702016110630 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75215 |
+| Nazwa angielska | Cloud-Rider Swoop Bikes |
+| Nazwa polska | Skutery Jeźdźców Chmur |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110630 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -6033,11 +9686,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75215-1: https://a.allegroimg.com/original/1141c9/464445a949f99cae56495568f49a
+
 ---
 
-## 75216 — Klocki Lego Star Wars Zestaw Sala Tronowa Snoke'a 75216
+## 75216 — Sala Tronowa Snoke'a
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75216 |
+| Nazwa angielska | Snoke's Throne Room |
+| Nazwa polska | Sala Tronowa Snoke'a |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 492 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 24 cm × gł. 26 cm |
+| EAN | 5702016110647 |
 
 **Klocki LEGO Star Wars 75216 - Sala Tronowa Snoke'a**
 
@@ -6047,11 +9716,27 @@ Przywódca Najwyższego Porządku Snoke, Rey, Kylo Ren i wspaniale wyszkoleni el
 
 W zestawie pięć minifigurek LEGO®: Rey, Kylo Ren, przywódca Najwyższego Porządku Snoke oraz dwóch elitarnych gwardzistów pretorianów.W sali znajduje się obracany tron Snoke’a ze schowkiem ukrytym pod spodem, dwa schowki na broń oraz pokrętła do obracania drzwi i przesuwania podłóg.Broń: miecz świetlny Rey, miecz świetlny Kylo Rena, dwuręczne laski z ostrzami gwardzistów oraz laska z biczem do złożenia.Akcesoria: bicz, który można przyczepić do laski gwardzisty.Pociągnij pokrętło i udaj, że Snoke używa swoich mrocznych mocy, by przyciągnąć do siebie Rey.Odtwórz zaciekłą bitwę z filmu „Gwiezdne wojny: Ostatni Jedi”.Model ma ok. 11 cm wysokości, 24 cm szerokości i 26 cm głębokości.
 
+**Galeria:**
+
+- 75216-1: https://0.allegroimg.com/original/004b35/205028564a8fbf3e8f37606438d0
+
 ---
 
-## 75217 — Lego Star Wars 75217 Imperialny transporter Conveyex Nowe
+## 75217 — 75217
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1159.00 zł · EAN: 00673419282321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75217 |
+| Nazwa angielska | Imperial Conveyex Transport |
+| Nazwa polska | 75217 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 622 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm |
+| EAN | 5702016110654, 673419282321 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6075,11 +9760,28 @@ Odtwórz brawurowe przygody przemytników z filmu „Han Solo: Gwiezdne wojny �
 - Połącz kilka zestawów, by stworzyć dłuższy pociąg. 
 - Imperialny transporter Conveyex z wagonem towarowym ma ok. 12 cm wysokości, 43 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 75217-1: https://a.allegroimg.com/original/002de0/1246fbf2472b88eefd14c529dae3
+- 75217-2: https://a.allegroimg.com/original/11bc7b/b5b1685444e5b668d48214267551
+
 ---
 
-## 75218 — Klocki Lego Star Wars X-Wing Starfighter 75218
+## 75218 — X-Wing Starfighter 75218
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016110661 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75218 |
+| Nazwa angielska | X-Wing Starfighter |
+| Nazwa polska | X-Wing Starfighter 75218 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 731 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 30 cm |
+| EAN | 5702016110661 |
 
 Klocki LEGO Star Wars 75218 - Myśliwiec X-Wing
  
@@ -6107,11 +9809,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75218-1: https://3.allegroimg.com/original/0010a4/a3728db747d79996ada868436223
+
 ---
 
-## 75219 — Lego Star Wars 75219 Imperialny AT-Hauler Nowe
+## 75219 — Imperialny AT-Hauler
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 879.00 zł · EAN: 00673419282345 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75219 |
+| Nazwa angielska | Imperial AT-Hauler |
+| Nazwa polska | Imperialny AT-Hauler |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 829 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 21 cm |
+| EAN | 5702016111170, 673419282345 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6134,11 +9852,28 @@ Opanuj sztukę transportowania towarów w zestawie LEGO® Star Wars 75219 Imperi
 - Odtwórz ekscytujące sceny z filmu „Han Solo: Gwiezdne wojny — historie”! 
 - Imperialny Holownik ma ok. 12 cm wysokości, 32 cm długości i 21 cm szerokości.
 
+**Galeria:**
+
+- 75219-1: https://a.allegroimg.com/original/112ee2/85da46724f278c9c6f1adfa1a422
+- 75219-2: https://a.allegroimg.com/original/03b2be/0856f0b3401484fb01a27ff3af6a
+
 ---
 
-## 75220 — Klocki Lego Star Wars 75220 Sandcrawier
+## 75220 — Sandcrawler
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1478.98 zł · EAN: 00673419282758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75220 |
+| Nazwa angielska | Sandcrawler |
+| Nazwa polska | Sandcrawler |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm |
+| EAN | 5702016111187, 673419282758 |
 
 LEGO STAR WARS 75220 SANDCRAWIER.
 
@@ -6170,11 +9905,28 @@ Odtwórz klasyczne sceny z planety Tatooine znane z filmu „Gwiezdne wojny: Now
 
 **  Model ma** ok. 18 cm wysokości, 31 cm długości i 11 cm szerokości. liczba elementów: 1239
 
+**Galeria:**
+
+- 75220-1: https://4.allegroimg.com/original/00b70f/88b538d64c9bb2ea3b27c16835f4
+- 75220-2: https://a.allegroimg.com/original/11c783/add33f7f40f094decaebe0265018
+
 ---
 
-## 75221 — Lego Star Wars 75221 Pojazd desantowy Imperium
+## 75221 — Pojazd desantowy Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702016111194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75221 |
+| Nazwa angielska | Imperial Landing Craft |
+| Nazwa polska | Pojazd desantowy Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 636 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 17 cm |
+| EAN | 5702016111194 |
 
 LEGO Star Wars 75221 Pojazd desantowy Imperium
 
@@ -6201,11 +9953,27 @@ Przeżywaj galaktyczne przygody z zestawem LEGO® Star Wars 75221 Pojazd desan
 
 Galeria LEGO Star Wars 75221 Pojazd desantowy Imperium
 
+**Galeria:**
+
+- 75221-1: https://a.allegroimg.com/original/11ade8/f406936a4a0cbd2684adcf402658
+
 ---
 
-## 75223 — Lego Star Wars 75223 Myśliwiec z Naboo
+## 75223 —  75223 
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.88 zł · EAN: 05702016370096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75223 |
+| Nazwa angielska | Naboo Starfighter Microfighter |
+| Nazwa polska |  75223  |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm |
+| EAN | 5702016370096, 673419303613 |
 
 Klocki LEGO Star Wars 75223 - Myśliwiec z Naboo
 
@@ -6220,11 +9988,28 @@ Przygotuj się na miniaturowe bitwy z zestawem LEGO® Star Wars™ 75223 Myśliw
 
 Zestaw LEGO Star Wars - Myśliwiec z Naboo trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 75223. Zawiera 62 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Naboo Starfighter Microfighter. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 75223-1: https://a.allegroimg.com/original/05401b/d3b46cf14087ae2e1f8d008db2bd
+- 75223-2: https://a.allegroimg.com/original/110523/bd03c28341c6b763661976a23261
+
 ---
 
-## 75226 — Lego Star Wars 75226 Oddział Inferno Nowe
+## 75226 — Oddział Inferno
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 406.00 zł · EAN: 05702016370126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75226 |
+| Nazwa angielska | Inferno Squad Battle Pack |
+| Nazwa polska | Oddział Inferno |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 9 cm |
+| EAN | 5702016370126 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6242,11 +10027,27 @@ Dodaj do swojej kolekcji kultowe postacie z sagi Gwiezdnych wojen™ z zestawu L
 - Wszystkie postacie z zestawu to nowości na styczeń 2019 r. 
 - Śmigacz ma ok. 4 cm wysokości, 11 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 75226-1: https://a.allegroimg.com/original/11f71e/619d1e8f4218a12e0267571e817e
+
 ---
 
-## 75227 — Klocki Lego Star Wars Zestaw Darth Vader Bust 75227
+## 75227 — Star Wars - Popiersie Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 00673419315357 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75227 |
+| Nazwa angielska | Darth Vader Bust |
+| Nazwa polska | Star Wars - Popiersie Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419315357 |
 
 Klocki LEGO Star Wars Zestaw Darth Vader Bust 75227
 
@@ -6262,11 +10063,27 @@ Zestaw **LEGO Star Wars Darth Vader Bust 75227** to unikatowy model z serii LEGO
 
 **Ekskluzywność:** Zestaw był limitowany i dostępny tylko na wybranych wydarzeniach (Star Wars Celebration Chicago 2019) oraz w sieci sklepów Target, co czyni go rzadkim i poszukiwanym przedmiotem kolekcjonerskim.
 
+**Galeria:**
+
+- 75227-1: https://a.allegroimg.com/original/114c85/eb12b87c498c89b3695501803115
+
 ---
 
-## 75229 — nowy Lego Star Wars 75229 Ucieczka z Gwiazdy Śmierci 2019 Misb
+## 75229 — Ucieczka z Gwiazdy Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 291.99 zł · EAN: 05702016370386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75229 |
+| Nazwa angielska | Death Star Escape |
+| Nazwa polska | Ucieczka z Gwiazdy Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370386 |
 
 Cześć!
 
@@ -6284,11 +10101,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 75229-1: https://a.allegroimg.com/original/11267e/8ff082bf4b649e3bee1306f8a1d4
+
 ---
 
-## 75230 — Lego Star Wars 75230 Porg
+## 75230 — Porg
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702016367386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75230 |
+| Nazwa angielska | Porg |
+| Nazwa polska | Porg |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 811 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 11 cm |
+| EAN | 5702016367386 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -6321,11 +10154,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 75230-1: https://a.allegroimg.com/original/00db55/32dbebac43e7b030743efdb6f477
+
 ---
 
-## 75233 — Klocki Lego Star Wars Zestaw Okręt bojowy droidów 75233
+## 75233 — Okręt bojowy droidów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016370393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75233 |
+| Nazwa angielska | Droid Gunship |
+| Nazwa polska | Okręt bojowy droidów |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 24 cm |
+| EAN | 5702016370393 |
 
 **LEGO STAR WARS 75233 Okręt bojowy droidów**
 
@@ -6335,11 +10184,27 @@ Powiększ swoją kolekcję o kultowy okręt bojowy droidów z serii LEGO® Star 
 
 **Okręt bojowy droidów do zbudowania **ma ok. 5 cm wysokości, 29 cm długości i 24 cm szerokości.
 
+**Galeria:**
+
+- 75233-1: https://a.allegroimg.com/original/2591f5/8e0b600e4ba9a50d194b42f837e2
+
 ---
 
-## 75234 — Klocki Lego Star Wars Zestaw Maszyna krocząca At-ap 75234
+## 75234 — Maszyna krocząca AT-AP
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016370409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75234 |
+| Nazwa angielska | AT-AP Walker |
+| Nazwa polska | Maszyna krocząca AT-AP |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 689 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370409 |
 
 Klocki LEGO Star Wars Zestaw Maszyna krocząca AT-AP 75234
 
@@ -6367,11 +10232,27 @@ Zestaw **LEGO Star Wars Maszyna krocząca AT-AP 75234** to model pojazdu bojoweg
 
 **Droid bojowy:** Klasyczny droid Separatystów.
 
+**Galeria:**
+
+- 75234-1: https://a.allegroimg.com/original/25260e/76bcc93c45c2ae8c0b18799b5cd7
+
 ---
 
-## 75235 — Lego Star Wars 75235 Atak myśliwcem X-Wing
+## 75235 — Atak myśliwcem X-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016370416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75235 |
+| Nazwa angielska | X-Wing Starfighter Trench Run |
+| Nazwa polska | Atak myśliwcem X-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm |
+| EAN | 5702016370416, 673419303842 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6406,11 +10287,28 @@ Pobaw się ze swoim dzieckiem w niezapomniane kosmiczne przygody zestawem LEGO S
 - Połącz model z zestawami Star Wars 4+ 75237 Atak myśliwcem TIE oraz 75247 Rebeliancki myśliwiec A-Wing, by przeżyć jeszcze więcej przygód wśród gwiazd.
 - X-Wing do zbudowania z serii LEGO Star Wars ma ok. 9 cm wysokości, 15 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 75235-1: https://a.allegroimg.com/original/00cee7/3ace761e4260bcfb8b98e74eab75
+- 75235-2: https://a.allegroimg.com/original/11fe47/dfe6fde24591a42a2cdef5fae357
+
 ---
 
-## 75236 — Lego Star Wars 75236 Pojedynek w bazie Starkiller
+## 75236 — 75236
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 315.00 zł · EAN: 05702016370133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75236 |
+| Nazwa angielska | Duel on Starkiller Base |
+| Nazwa polska | 75236 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702016370133 |
 
 LEGO Star Wars, Pojedynek w bazie Starkiller, 75236
 
@@ -6424,11 +10322,27 @@ Przeżyj ponownie niezapomniane chwile z filmu "Gwiezdne wojny: Przebudzenie moc
 - Minifigurka Kylo Rena ma nowe nadruki na tułowiu, głowie i nogach (nowości na kwiecień 2019 r.).
 - Zestaw konstrukcyjny LEGO Star Wars ma ok. 8 cm wysokości, 12 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 75236-1: https://a.allegroimg.com/original/111524/bad860774907bfd2251a0d0fe61d
+
 ---
 
-## 75237 — Lego Star Wars 75237 Atak Myśliwcem Tie Pilot Gwiezdne Wojny Blastery
+## 75237 — Atak Myśliwcem TIE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 273.00 zł · EAN: 05702016370423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75237 |
+| Nazwa angielska | TIE Fighter Attack |
+| Nazwa polska | Atak Myśliwcem TIE |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 12 cm |
+| EAN | 5702016370423 |
 
 LEGO STAR WARS 75237 Atak myśliwcem TIE
 
@@ -6448,11 +10362,27 @@ Wprowadź swojego malucha w świat międzygwiezdnych bitew w zestawie LEGO® Sta
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 75237-1: https://a.allegroimg.com/original/11566e/7926cdbd4a1ebde436e9acd3297b
+
 ---
 
-## 75238 — Lego Star Wars Bitwa na Endorze 75238
+## 75238 — Bitwa na Endorze
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.04 zł · EAN: 05702016370140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75238 |
+| Nazwa angielska | Action Battle Endor Assault |
+| Nazwa polska | Bitwa na Endorze |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016370140 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6486,11 +10416,27 @@ Wspólne składanie z klocków drzewa i ścigacza Imperium to doskonała rozrywk
 - Ścigacz ma ok. 6 cm wysokości, 10 cm długości i 7 cm szerokości.
 - Drzewo ma ok. 11 cm wysokości, 10 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 75238-1: https://a.allegroimg.com/original/05e4be/921e52bb40b786c78ea5d3933898
+
 ---
 
-## 75240 — Lego Star Wars 75240 Star Wars Myśliwiec Tie Majora Vonrega Unikat Nowy
+## 75240 — LEGO STAR WARS 75240 Myśliwiec TIE Majora Vonrega
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 789.99 zł · EAN: 05702016370676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75240 |
+| Nazwa angielska | Major Vonreg's TIE Fighter |
+| Nazwa polska | LEGO STAR WARS 75240 Myśliwiec TIE Majora Vonrega |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 496 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 18 cm |
+| EAN | 5702016370676 |
 
 LEGO STAR WARS 75240 Myśliwiec TIE™ Majora Vonrega
 
@@ -6505,11 +10451,27 @@ Szczegółowy model w specjalnej czarno-czerwonej kolorystyce ma otwierany kokpi
 - Nowe elementy to hełm majora Vonrega, włosy Kaza oraz odlewane części prawego i lewego skrzydła w rozmiarze 4x6 (nowości na kwiecień 2019 r.). 
 - Statek kosmiczny do zbudowania z serii LEGO® Star Wars™ ma ok. 16 cm wysokości, 23 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 75240-1: https://a.allegroimg.com/original/11656f/a8c2ce574835987ba050ad8b89ac
+
 ---
 
-## 75241 — Klocki Lego Star Wars Zestaw Obrona Bazy Echo 75241
+## 75241 — Obrona Bazy Echo
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75241 |
+| Nazwa angielska | Action Battle Echo Base Defense |
+| Nazwa polska | Obrona Bazy Echo |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 504 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 25 cm × gł. 10 cm |
+| EAN | 5702016370683 |
 
 LEGO Obrona Bazy Echo 75241
 
@@ -6533,11 +10495,27 @@ Brama wjazdowa z wieżą ma ok. 10 cm wysokości, 25 cm szerokości i 10 cm gł�
 
 Maszyna krocząca do zbudowania ma ok. 13 cm wysokości, 15 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 75241-1: https://a.allegroimg.com/original/25463d/08eb488b487888dc8f2c9eb08f0f
+
 ---
 
-## 75242 — Lego Star Wars 75242 Tie Interceptor Czarny As
+## 75242 — TIE Interceptor Czarny As
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702016370690 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75242 |
+| Nazwa angielska | Black Ace TIE Interceptor |
+| Nazwa polska | TIE Interceptor Czarny As |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 396 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 21 cm |
+| EAN | 5702016370690 |
 
 LEGO TIE Interceptor Czarny As 75242
 
@@ -6548,11 +10526,27 @@ Ten szczegółowy statek kosmiczny wyposażony jest w otwierany kokpit dla asa p
 - W zestawie są także dwa blastery.
 - TIE Interceptor ma ok. 8 cm wysokości, 36 cm długości i 21 cm szerokości.
 
+**Galeria:**
+
+- 75242-1: https://a.allegroimg.com/original/05ef2e/977384164801b3440626ef1f498b
+
 ---
 
-## 75243 — Lego Star Wars 75243 Slave I edycja rocznicowa Nowe
+## 75243 — 75243
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702016370706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75243 |
+| Nazwa angielska | Slave I - 20th Anniversary Edition |
+| Nazwa polska | 75243 |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1007 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370706, 5702016477283 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6572,11 +10566,28 @@ Czy jesteś miłośnikiem LEGO, wielkim fanem Star Wars czy po prostu szukasz or
  
 Z zestawem LEGO 75243 Slave I możesz odtworzyć najbardziej ekscytujące sceny z Gwiezdnych Wojen, tworzyć własne przygody i zanurzyć się w niesamowity świat kosmicznych łowców nagród. Z tym zestawem, każda chwila staje się okazją do niezapomnianych przygód. Przyszykuj się na wspaniałą podróż przez galaktykę z LEGO 75243 Slave I. To jest kosmiczna przygoda, której nie można przegapić!
 
+**Galeria:**
+
+- 75243-1: https://a.allegroimg.com/original/11b28c/0eda23654472a7344ba56c21bd0a
+- 75243-2: https://a.allegroimg.com/original/1151b9/03c34fb246fb8403881ad0322c7d
+
 ---
 
-## 75244 — Lego Star Wars 75244 Tantive IV
+## 75244 — Tantive IV
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1459.00 zł · EAN: 05702016371109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75244 |
+| Nazwa angielska | Tantive IV |
+| Nazwa polska | Tantive IV |
+| Seria | Star Wars |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1768 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371109 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6604,11 +10615,27 @@ Zbuduj legendarny statek z sagi Gwiezdnych wojen™ do zabawy lub ozdoby! Zestaw
 
 Model wiernie odwzorowuje wszystkie najważniejsze detale korwety Rebelii, takie jak podłużny kadłub, odczepiane kapsuły ratunkowe, podnoszone wieżyczki z miotaczami, ładownia oraz 11 ogromnych silników z tyłu. Podnieś płyty kadłuba tego fantastycznego pojazdu LEGO Star Wars, by zobaczyć szczegółowy kokpit z miejscem na dwie minifigurki, salę konferencyjną ze stołem, stojak na broń oraz panel sterowania z dwoma siedzeniami. Anteny radaru można używać również jako poręcznego uchwytu do przenoszenia modelu — albo latania nim po całym pokoju. Po zakończeniu misji ta wspaniała zabawka konstrukcyjna dla dzieci może służyć jako imponująca ozdoba każdej kolekcji LEGO Star Wars. W zestawie jest też pięć minifigurek i figurka LEGO droida R2-D2.
 
+**Galeria:**
+
+- 75244-1: https://a.allegroimg.com/original/00359c/77fb3f9e48ec91f1220ad30e2e4e
+
 ---
 
-## 75246 — Lego Star Wars 75246 Działo na Gwieździe Śmierci
+## 75246 — Działo na Gwieździe Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016370720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75246 |
+| Nazwa angielska | Death Star Cannon |
+| Nazwa polska | Działo na Gwieździe Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm × gł. 11 cm |
+| EAN | 5702016370720 |
 
 LEGO STAR WARS 75246 Działo na Gwieździe Śmierci
 
@@ -6627,11 +10654,27 @@ Każdy fan może bawić się w pełne emocji sceny LEGO® z filmu „Gwiezdne wo
  
 **Elementy 159**
 
+**Galeria:**
+
+- 75246-1: https://a.allegroimg.com/original/055685/09621d854fef810adfd6efba3519
+
 ---
 
-## 75247 — Oryginalne Lego 75247 Star Wars Rebeliancki myśliwiec A-Wing Gwiezdne Wojny
+## 75247 — Rebeliancki myśliwiec A-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.31 zł · EAN: 00673419304160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75247 |
+| Nazwa angielska | Rebel A-Wing Starfighter |
+| Nazwa polska | Rebeliancki myśliwiec A-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 11 cm |
+| EAN | 5702016370430, 673419304160 |
 
 LEGO 75247 Star Wars - Rebeliancki myśliwiec A-Wing
 
@@ -6657,11 +10700,27 @@ Ilość klocków:** 62**
 
 - Myśliwiec A-Wing z serii LEGO® Star Wars™ **ma ok. 6 cm wysokości, 13 cm długości i 11 cm szerokości**.
 
+**Galeria:**
+
+- 75247-1: https://a.allegroimg.com/original/25a06f/ff4bcf29492ba6551a1b3a70031b
+
 ---
 
-## 75248 — Lego 75248 Star Wars Myśliwiec A-Wing Ruchu Opor
+## 75248 — Myśliwiec A-Wing Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016370737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75248 |
+| Nazwa angielska | Resistance A-Wing Starfighter |
+| Nazwa polska | Myśliwiec A-Wing Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370737 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -6675,11 +10734,27 @@ Numer magazynowy sprzedawcy: 20260066
 
 Przybliżone wymiary opakowania: **7,2 x 26,2 x 19,1 cm**
 
+**Galeria:**
+
+- 75248-1: https://a.allegroimg.com/original/119e75/5196805a4e5aa45036c067f24643
+
 ---
 
-## 75249 — Klocki Lego Star Wars Zestaw Myśliwiec Y-Wing Ruchu Oporu 75249
+## 75249 — Myśliwiec Y-Wing Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016370744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75249 |
+| Nazwa angielska | Resistance Y-Wing Starfighter |
+| Nazwa polska | Myśliwiec Y-Wing Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 578 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 19 cm |
+| EAN | 5702016370744 |
 
 Dołącz nową wersję Y-Winga LEGO Star Wars do swojej kolekcji
 
@@ -6699,11 +10774,27 @@ Statek kosmiczny to doskonały prezent urodzinowy, świąteczny lub po prostu pr
 
 Zestaw z serii Star Wars ma ok. 7 cm wysokości, 43 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 75249-1: https://a.allegroimg.com/original/11d6fa/346a64f04593a105b08bdae6041c
+
 ---
 
-## 75250 — Klocki Lego Star Wars Zestaw Gwiezdne wojny 75250
+## 75250 — Gwiezdne wojny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016370751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75250 |
+| Nazwa angielska | Pasaana Speeder Chase |
+| Nazwa polska | Gwiezdne wojny |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 373 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 11 cm |
+| EAN | 5702016370751 |
 
 LEGO STAR WARS 75250 Pościg na ścigaczach w Pasaanie
 
@@ -6726,11 +10817,27 @@ Dwie zabawki konstrukcyjne LEGO® Star Wars™ z filmu „Gwiezdne wojny: Skywal
  
 **elementy 373**
 
+**Galeria:**
+
+- 75250-1: https://a.allegroimg.com/original/0019b8/3dbabfc44624b60562841d8a16e1
+
 ---
 
-## 75251 — Lego Star Wars 75251 Lego 75251 Star Wars Zamek Dartha Vadera (wgniecenie)
+## 75251 — LEGO 75251 Star Wars Zamek Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1020.00 zł · EAN: 05702016370454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75251 |
+| Nazwa angielska | Darth Vader's Castle |
+| Nazwa polska | LEGO 75251 Star Wars Zamek Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1060 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 41 cm × szer. 28 cm × gł. 23 cm |
+| EAN | 5702016370454 |
 
 Zestaw nowy, zaplombowany
 
@@ -6751,11 +10858,27 @@ Przygotuj się na sceny pełne akcji na planecie Mustafar w zestawie LEGO Star W
 - Zestaw Star Wars Zamek Dartha Vadera ma ok. 41 cm wysokości, 28 cm szerokości i 23 cm głębokości.
 - Myśliwiec TIE Advanced ma ok. 6 cm wysokości, 11 cm szerokości i 9 cm długości.
 
+**Galeria:**
+
+- 75251-1: https://a.allegroimg.com/original/25cc2b/d3b86ad64287ace97664a0e5c4c2
+
 ---
 
-## 75252 — Klocki Lego Star Wars Zestaw Gwiezdny Niszczyciel Imperium 75252 Unikat!
+## 75252 — Gwiezdny Niszczyciel Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 4949.99 zł · EAN: 05702016371116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75252 |
+| Nazwa angielska | Imperial Star Destroyer |
+| Nazwa polska | Gwiezdny Niszczyciel Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4784 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 44 cm × szer. 66 cm |
+| EAN | 5702016371116 |
 
 Powiększ swoją kolekcję o jedyny w swoim rodzaju Gwiezdny Niszczyciel Imperium!
  
@@ -6772,11 +10895,27 @@ Zbuduj i eksponuj legendę Imperium Galaktycznego — niszczyciela Devastatora. 
 - Idealny model kolekcjonerski LEGO Star Wars dla fanów sagi „Gwiezdne wojny”. 
 - Model UCS na podstawce do ekspozycji ma ok. 44 cm wysokości, 110 cm długości i 66 cm szerokości i ok. 37 cm wysokości bez podstawki.
 
+**Galeria:**
+
+- 75252-1: https://a.allegroimg.com/original/0592d5/9903a51b4b39a7b7ca7db99062dc
+
 ---
 
-## 75253 — Lego Star Wars 75253 Dowódca droidów
+## 75253 — LEGO Star Wars 75253 Dowódca droidów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1248.88 zł · EAN: 05702016369854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75253 |
+| Nazwa angielska | Droid Commander |
+| Nazwa polska | LEGO Star Wars 75253 Dowódca droidów |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 14 cm |
+| EAN | 5702016369854 |
 
 LEGO Star Wars 75253 Dowódca droidów
 
@@ -6797,11 +10936,27 @@ Fanom Gwiezdnych wojen™ od razu przypadnie do gustu zestaw LEGO Star Wars BOOS
 
 **elementy 1177**
 
+**Galeria:**
+
+- 75253-1: https://a.allegroimg.com/original/114e00/cc1e612749b4b50e8755e2f98aa3
+
 ---
 
-## 75254 — Zestaw Lego Star Wars 75254 Szturmowa Maszyna Krocząca At-st
+## 75254 — Klocki LEGO Star Wars 75254 Szturmowa maszyna krocząca AT-ST
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 287.98 zł · EAN: 05702016370768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75254 |
+| Nazwa angielska | AT-ST Raider |
+| Nazwa polska | Klocki LEGO Star Wars 75254 Szturmowa maszyna krocząca AT-ST |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 540 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 13 cm |
+| EAN | 5702016370768 |
 
 ZESTAW LEGO STAR WARS - 75254 - SZTURMOWA MASZYNA KROCZĄCA AT-ST
 
@@ -6839,11 +10994,27 @@ AT-ST z tego zestawu wyposażony jest w segmentowane, ruchome nogi, które umoż
 
 LEGO Star Wars 75254 to zestaw, który łączy w sobie efektowny wygląd, funkcjonalność i ogromne możliwości zabawy. Dzięki realistycznym detalom, ruchomym elementom oraz bogatemu zestawowi minifigurek zapewnia długie godziny kreatywnej rozrywki zarówno dzieciom, jak i dorosłym fanom uniwersum Gwiezdnych Wojen. Możliwość łączenia z innymi zestawami z tej serii dodatkowo zwiększa jego atrakcyjność i pozwala rozbudowywać kolekcję o kolejne pojazdy i sceny. To idealny wybór na prezent urodzinowy, świąteczny lub bez okazji — zarówno dla początkujących budowniczych, jak i kolekcjonerów. Jeśli szukasz zestawu, który zachwyci wyglądem i dostarczy mnóstwo emocji podczas zabawy, ten model AT-ST będzie strzałem w dziesiątkę.
 
+**Galeria:**
+
+- 75254-1: https://a.allegroimg.com/original/0002eb/1da284b44349ad0e75d72169021c
+
 ---
 
-## 75255 — Lego 75255 Star Wars Yoda
+## 75255 — Yoda
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 628.99 zł · EAN: 05702016370775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75255 |
+| Nazwa angielska | Yoda |
+| Nazwa polska | Yoda |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1771 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370775 |
 
 Klocki LEGO Star Wars 75255 - Yoda
 
@@ -6873,11 +11044,27 @@ Zestaw LEGO Star Wars - Yoda trafił do sprzedaży w 2019 roku. Numer katalogo
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75255-1: https://a.allegroimg.com/original/117299/29d080274fd1b232565171dedd4b
+
 ---
 
-## 75256 — Klocki Lego Star Wars Zestaw Wahadłowiec Kylo Rena 75256
+## 75256 — LEGO STAR WARS 75256 Wahadłowiec Kylo Rena
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016370782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75256 |
+| Nazwa angielska | Kylo Ren's Shuttle |
+| Nazwa polska | LEGO STAR WARS 75256 Wahadłowiec Kylo Rena |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1005 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 35 cm × szer. 50 cm |
+| EAN | 5702016370782 |
 
 Klocki LEGO Star Wars Wahadłowiec Kylo Rena 75256
 
@@ -6895,11 +11082,27 @@ To doskonały prezent urodzinowy, bożonarodzeniowy lub po prostu prezent z seri
 
 Z rozłożonymi skrzydłami statek LEGO® Star Wars™ ma ok. 35 cm wysokości, 21 cm długości i 50 cm szerokości.
 
+**Galeria:**
+
+- 75256-1: https://a.allegroimg.com/original/11b897/e68cbfbb4017a2005a99d3a56c24
+
 ---
 
-## 75257 — Zestaw Lego Star Wars – 75257 – Duży Sokół Millennium Z Gwiezdnych Wojen
+## 75257 — Klocki LEGO Star Wars 75257 Sokół Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 942.27 zł · EAN: 05702016370799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75257 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | Klocki LEGO Star Wars 75257 Sokół Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm |
+| EAN | 5702016370799 |
 
 ZESTAW LEGO STAR WARS – 75257 – DUŻY SOKÓŁ MILLENNIUM Z GWIEZDNYCH WOJEN
 
@@ -6937,11 +11140,27 @@ W środku Sokoła Millennium znajduje się imponująco zaprojektowane wnętrze, 
 
 LEGO Star Wars 75257 Sokół Millennium to idealny wybór dla każdego fana Gwiezdnych Wojen, który marzy o posiadaniu własnej wersji najsłynniejszego statku w galaktyce. Bogactwo detali, duża liczba elementów oraz możliwość odgrywania scen filmowych sprawiają, że zestaw zapewnia wiele godzin angażującej zabawy i satysfakcji z budowania. To doskonały prezent urodzinowy, świąteczny lub po prostu niespodzianka bez okazji – zarówno dla dzieci, jak i dorosłych kolekcjonerów. Dzięki możliwości łączenia z innymi zestawami LEGO Star Wars model zyskuje dodatkową wartość i może stać się częścią imponującej galaktycznej ekspozycji. To nie tylko zabawka, ale prawdziwa ikona kina w formie klocków LEGO, która zachwyca wyglądem i daje ogromną radość z tworzenia.
 
+**Galeria:**
+
+- 75257-1: https://a.allegroimg.com/original/11a9c7/e7b0a0944a85a09c21a417465870
+
 ---
 
-## 75258 — Lego Star Wars 75258 Ścigacz Anakina – edycja z okazji 20. rocznicy
+## 75258 — Ścigacz Anakina - edycja rocznicowa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016370713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75258 |
+| Nazwa angielska | Anakin's Podracer - 20th Anniversary Edition |
+| Nazwa polska | Ścigacz Anakina - edycja rocznicowa |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702016370713 |
 
 LEGO Star Wars 75258 - Ścigacz Anakina
 
@@ -6959,11 +11178,27 @@ Uczcij 20. rocznicę serii LEGO Star Wars zestawem 75258 Ścigacz Anakina. Nowa 
 - Odtwórz emocjonujące wyścigi z filmu „Gwiezdne wojny: Mroczne widmo” i inne sceny z tej popularnej sagi.
 - Pojazd z serii LEGO Star Wars ma ok. 10 cm wysokości, 35 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 75258-1: https://a.allegroimg.com/original/05318f/ca6bcea34996bb35bc7aa958b423
+
 ---
 
-## 75259 — Lego Star Wars 75259 Śmigacz śnieżny edycja rocznicowa Nowe
+## 75259 — Śmigacz śnieżny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016370461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75259 |
+| Nazwa angielska | Snowspeeder - 20th Anniversary Edition |
+| Nazwa polska | Śmigacz śnieżny |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 14 cm |
+| EAN | 5702016370461 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6985,11 +11220,27 @@ Uczcij ważny moment w historii serii LEGO® Star Wars™, budując model 75259 
 - Śmigacz śnieżny ma ok. 5 cm wysokości, 18 cm długości i 14 cm szerokości. 
 - Wieża z miotaczem ma ok. 8 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 75259-1: https://a.allegroimg.com/original/11714e/96e8a999410a8722c04fc38e0da5
+
 ---
 
-## 75261 — Lego Star Wars 75261 Maszyna krocząca klonów edycja rocznicowa Nowe
+## 75261 — Clone Scout Walker – 20th Anniversary Edition
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016371086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75261 |
+| Nazwa angielska | Clone Scout Walker - 20th Anniversary Edition |
+| Nazwa polska | Clone Scout Walker – 20th Anniversary Edition |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 8 cm |
+| EAN | 5702016371086 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7013,11 +11264,27 @@ LEGO® Star Wars™ 75241 Obrona Bazy Echo™ dostępny od kwietnia 2019 r. jest
 - Maszyna krocząca klonów z serii LEGO® Star Wars™ ma ok. 14 cm wysokości, 14 cm długości i 8 cm szerokości. 
 - Droid pająk do zbudowania ma ok. 8 cm wysokości, 7 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 75261-1: https://a.allegroimg.com/original/11486d/20500e4248e8935e2aa71ba8243d
+
 ---
 
-## 75262 — Lego Star Wars 75262 Statek desantowy Imperium edycja rocznicowa
+## 75262 — Statek desantowy Imperium - edycja rocznicowa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 241.57 zł · EAN: 05702016371093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75262 |
+| Nazwa angielska | Imperial Dropship - 20th Anniversary Edition |
+| Nazwa polska | Statek desantowy Imperium - edycja rocznicowa |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371093 |
 
 Klocki LEGO® 75262 Star Wars™ Statek desantowy Imperium™ — edycja rocznicowa
 
@@ -7040,11 +11307,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 6 roku życia. Sprawdzi się podczas odtwarzania scen i przygód z uniwersum Star Wars™ oraz jako rocznicowy model do ekspozycji w kolekcji LEGO® Star Wars™.
 
+**Galeria:**
+
+- 75262-1: https://a.allegroimg.com/original/11cc63/8a1a5bf74cbb93eae377d52834d3
+
 ---
 
-## 75263 — Lego 75263 Star Wars Mikromyśliwiec Y-Wing Ruchu Oporu Microfighters
+## 75263 — Mikromyśliwiec Y-Wing Ruchu Oporu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016617092 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75263 |
+| Nazwa angielska | Resistance Y-wing Microfighter |
+| Nazwa polska | Mikromyśliwiec Y-Wing Ruchu Oporu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617092 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -7054,11 +11337,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 75263-1: https://a.allegroimg.com/original/112388/702ab5714f189c420b879eab3de8
+
 ---
 
-## 75264 — Lego Star Wars 75264 Wahadłowiec Kylo Rena
+## 75264 — Wahadłowiec Kylo Rena
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 488.49 zł · EAN: 05702016617108 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75264 |
+| Nazwa angielska | Kylo Ren's Shuttle Microfighter |
+| Nazwa polska | Wahadłowiec Kylo Rena |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016617108 |
 
 Łatwy do zbudowania wahadłowiec Kylo Rena dla młodszych dzieci.
  
@@ -7076,11 +11375,27 @@ Podaruj swoim maluchom zestaw LEGO Star Wars 75264 Wahadłowiec Kylo Rena, któr
 - Klocki LEGO można łączyć i rozdzielać bez użycia Mocy! Od 1958 r. niezmiennie spełniają one najwyższe branżowe standardy, co daje nam pewność, że będą do siebie doskonale pasować, a zabawa nimi nie będzie wymagać siły. 
 - Klocki i elementy LEGO są testowane na niemal wszystkie możliwe sposoby. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa — światowe i kosmiczne!
 
+**Galeria:**
+
+- 75264-1: https://a.allegroimg.com/original/057ca2/189e42254a3fbf5f9dcf0e86144e
+
 ---
 
-## 75265 — Lego 75265 Star Wars T-16 Skyhopper kontra mikromyśliwce Bantha
+## 75265 — T-16 Skyhopper kontra mikromyśliwce Bantha
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702016617115 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75265 |
+| Nazwa angielska | T-16 Skyhopper vs. Bantha Microfighters |
+| Nazwa polska | T-16 Skyhopper kontra mikromyśliwce Bantha |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702016617115 |
 
 Klocki LEGO Star Wars 75265 - T-16 Skyhopper kontra mikromyśliwce Bantha
 
@@ -7122,11 +11437,27 @@ Zestaw LEGO Star Wars - T-16 Skyhopper kontra mikromyśliwce Bantha trafił do
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75265-1: https://a.allegroimg.com/original/1146cb/93896b3c474cb726a3a421d10dbc
+
 ---
 
-## 75266 — Zestaw Lego Star Wars 75266 Zestaw Bitewny Żołnierzy Sithów
+## 75266 — Klocki LEGO STAR WARS 75266 Zestaw żołnierzy Sithów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702016617122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75266 |
+| Nazwa angielska | Sith Troopers Battle Pack |
+| Nazwa polska | Klocki LEGO STAR WARS 75266 Zestaw żołnierzy Sithów |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 8 cm |
+| EAN | 5702016617122 |
 
 ZESTAW LEGO STAR WARS - 75266 - ZESTAW BITEWNY ŻOŁNIERZY SITHÓW
 
@@ -7164,11 +11495,27 @@ Zestaw składa się ze 105 elementów, co czyni go szybkim i przyjemnym w budowi
 
 Zestaw LEGO Star Wars 75266 to świetny wybór dla każdego fana kosmicznych bitew, który chce stworzyć własną armię i odgrywać emocjonujące starcia z uniwersum „Skywalker. Odrodzenie”. Dzięki kompaktowym rozmiarom, dużej ilości figurek i łatwemu budowaniu zestaw zapewnia mnóstwo radości już od pierwszych chwil po otwarciu pudełka. To idealna propozycja na prezent urodzinowy, świąteczny lub po prostu bez okazji – zawsze sprawi radość młodszym fanom Star Wars i zachęci ich do kreatywnej zabawy. LEGO od lat gwarantuje jakość, trwałość i bezpieczeństwo, a ten zestaw doskonale wpisuje się w tę tradycję, oferując nie tylko zabawkę, ale także możliwość budowania własnych galaktycznych historii.
 
+**Galeria:**
+
+- 75266-1: https://a.allegroimg.com/original/0584ef/b2bf16554b28831b44cbbc49e38a
+
 ---
 
-## 75267 — Lego Star Wars 75267 Zestaw bojowy Mandalorianina
+## 75267 — Zestaw bojowy Mandalorianina
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016617139 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75267 |
+| Nazwa angielska | Mandalorian Battle Pack |
+| Nazwa polska | Zestaw bojowy Mandalorianina |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016617139 |
 
 W tym kompaktowym zestawie jest wszystko, czego potrzeba do rozpalenia dziecięcej wyobraźni: cztery minifigurki mandaloriańskich wojowników z serii LEGO® Star Wars™ uzbrojonych w blastery na klocki, a także fort obronny do zbudowania i mandaloriański ścigacz z dwoma działkami.
  
@@ -7183,11 +11530,27 @@ Grupa LEGO od ponad dwóch dekad tworzy własne wersje kultowych myśliwców kos
 - Nadaje się w sam raz dla fanów serii LEGO® Star Wars™ budujących własną armię. Zawiera klocki, które zainspirują dzieci do zabawy i budowania w pojedynkę lub w grupie oraz łączenia tej zabawki z innymi zestawami LEGO Star Wars. 
 - Mandaloriański ścigacz z zestawu LEGO® Star Wars™ ma ok. 4 cm wysokości, 8 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 75267-1: https://a.allegroimg.com/original/006fa8/2f5ba52044429f1051f276a124e1
+
 ---
 
-## 75268 — Lego Star Wars 75268 Śnieżny Śmigacz
+## 75268 — ŚNIEŻNY ŚMIGACZ
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016617146 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75268 |
+| Nazwa angielska | Snowspeeder |
+| Nazwa polska | ŚNIEŻNY ŚMIGACZ |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702016617146 |
 
 LEGO STAR WARS
  
@@ -7208,11 +11571,27 @@ Cechy zestawu:
 - Ten zestaw ma 91 elementów i zawiera trzy modele, które łatwo przebudować po zakończonej bitwie, więc będzie idealnym prezentem na urodziny, pod choinkę albo z innej okazji dla każdego dziecka w wieku od 4 lat. 
 - Zabawkowy kosmiczny śmigacz śnieżny ma ok. 5 cm wysokości, 11 cm długości i 9 cm szerokości, więc łatwo spakować go i zabrać w podróż wraz z innymi modelami i minifigurkami Star Wars.
 
+**Galeria:**
+
+- 75268-1: https://a.allegroimg.com/original/058f1b/c83afbb24dd5ac3a7c6a6b05b0b7
+
 ---
 
-## 75269 — Lego Star Wars 75269 Pojedynek na planecie Mustafar Nowe
+## 75269 — Pojedynek planeta Mustafar
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702016617153 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75269 |
+| Nazwa angielska | Duel on Mustafar |
+| Nazwa polska | Pojedynek planeta Mustafar |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702016617153 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7234,11 +11613,27 @@ Przeżyj ponownie niezapomniany pojedynek na planecie Mustafar między Anakinem 
 - Łączenie i rozdzielanie klocków LEGO® nie wymaga mocy Jedi! Od 1958 r. niezmiennie spełniają one najwyższe branżowe standardy, co daje nam pewność, że pozostaną jednolite i będzie się z nich dobrze budowało. 
 - Klocki i elementy LEGO® są rygorystycznie testowane. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa — światowe i galaktyczne!
 
+**Galeria:**
+
+- 75269-1: https://a.allegroimg.com/original/11daa4/6d060cba4b0fb669fe1dc1b4dff0
+
 ---
 
-## 75270 — Zestaw Lego Star Wars 75270 Chatka Obi-wana Kenobiego Z Gwiezdnych Wojen
+## 75270 — Klocki LEGO Star Wars 75270 Chatka Obi-Wana
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702016617160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75270 |
+| Nazwa angielska | Obi-Wan's Hut |
+| Nazwa polska | Klocki LEGO Star Wars 75270 Chatka Obi-Wana |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 11 cm |
+| EAN | 5702016617160 |
 
 ZESTAW LEGO STAR WARS - 75270 - CHATKA OBI-WANA KENOBIEGO Z GWIEZDNYCH WOJEN
 
@@ -7276,11 +11671,27 @@ Zestaw składa się z 200 elementów, co czyni go idealnym wprowadzeniem do świ
 
 LEGO Star Wars 75270 to idealny zestaw dla każdego młodego fana Gwiezdnych Wojen, który chce rozwijać swoją wyobraźnię i odtwarzać kultowe sceny z filmowej sagi. Dzięki dużej liczbie detali, ciekawym minifigurkom i możliwości rozkładania modelu, zabawa nigdy się nie kończy i zawsze daje możliwości tworzenia nowych historii. To świetna propozycja na prezent urodzinowy, świąteczny lub po prostu bez okazji – zawsze sprawi radość i wprowadzi do świata Jedi, Sithów i międzygalaktycznych przygód.
 
+**Galeria:**
+
+- 75270-1: https://a.allegroimg.com/original/1196b4/6e2e67ad46cc8c5de16ed8a9b3fd
+
 ---
 
-## 75271 — Lego 75271 Star Wars Śmigacz Luke'a Skywalkera
+## 75271 — Star Wars - Śmigacz Luke'a Skywalkera LEGO-75271
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 317.99 zł · EAN: 05702016617177 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75271 |
+| Nazwa angielska | Luke Skywalker's Landspeeder |
+| Nazwa polska | Star Wars - Śmigacz Luke'a Skywalkera LEGO-75271 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617177 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -7296,11 +11707,27 @@ W komplecie znajdują się **3 minifigurki**: Luke Skywalker w ponczo, C-3PO ora
 
 Przybliżone wymiary opakowania: **26,2 × 19,1 × 6,1 cm**
 
+**Galeria:**
+
+- 75271-1: https://a.allegroimg.com/original/113ef6/157c152243f19eead13fc4ee9b41
+
 ---
 
-## 75272 — Lego Star Wars 75272 Myśliwiec Tie Sithów
+## 75272 — Myśliwiec TIE Sithów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 358.97 zł · EAN: 05702016617184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75272 |
+| Nazwa angielska | Sith TIE Fighter |
+| Nazwa polska | Myśliwiec TIE Sithów |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 470 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 22 cm |
+| EAN | 5702016617184 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -7338,21 +11765,53 @@ Podaruj dziecku smukły model LEGO myśliwca TIE Sithów (75272) z filmu „Gwie
 - Klocki LEGO można łączyć i rozdzielać bez użycia Mocy! Spełniają one najwyższebranżowe standardy, co daje nam pewność, że pozostaną jednolite i będą się łatwo łączyć. 
 - Klocki i elementy LEGO są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa — ziemskie i galaktyczne!
 
+**Galeria:**
+
+- 75272-1: https://a.allegroimg.com/original/059de6/9f32d4924e96aef1e54878612b85
+
 ---
 
-## 75273 — Lego Star Wars Zestaw Myśliwiec X-Wing Poe Damerona 75273
+## 75273 — Myśliwiec X-Wing Poe Damerona
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702016617191 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75273 |
+| Nazwa angielska | Poe Dameron's X-wing Fighter |
+| Nazwa polska | Myśliwiec X-Wing Poe Damerona |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 761 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617191 |
 
 Mnóstwo funkcji zachęcających do zabawy, w tym otwierany kokpit dla minifigurki, miejsce na R2-D2, skrzydła, które można ustawić w trybie podróżnym lub bojowym, miotacze klocków, sprężynowe pociski i chowane podwozie.
 
 W zestawie figurka LEGO(R) droida R2-D2 i trzy minifigurki z Gwiezdnych Wojen(TM) - Poe Damerona, Rycerza Ren i Jannah - z elementami, które są nowością na styczeń 2020 r. Także blastery, kusza i inne rodzaje broni. o 761-elementowy zestaw LEGO(R) Star Wars(TM) to świetny prezent dla dzieci od lat 9, gwarantującym mnóstwo satysfakcji z budowania. Połącz go z myśliwcem TIE Sithów z zestawu 75273, by odegrać sceny walk między Najwyższym Porządkiem a Ruchem Oporu.
 
+**Galeria:**
+
+- 75273-1: https://a.allegroimg.com/original/115385/291578394b94baeacc412219dcc9
+
 ---
 
-## 75274 — Lego Star Wars 75274 Hełm pilota myśliwca Tie Nowe
+## 75274 — STAR WARS 75274 PILOT TIE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016617207 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75274 |
+| Nazwa angielska | TIE Fighter Pilot |
+| Nazwa polska | STAR WARS 75274 PILOT TIE |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 724 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 13 cm × gł. 15 cm |
+| EAN | 5702016617207 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7378,19 +11837,51 @@ Kosmiczna zabawa Grupa LEGO już od 1999 r. tworzy modele kultowych statków, po
 - Klocki LEGO® można łączyć i rozdzielać bez użycia Mocy! Od 1958 r. niezmiennie spełniają one najwyższe branżowe standardy, więc doskonale do siebie pasują, a zabawa nimi nie wymaga siły. 
 - Klocki i elementy LEGO® są badane na wiele sposobów — zgniatane, skręcane, zrzucane i podgrzewane. Dzięki temu mamy pewność, że ten ciekawy zestaw konstrukcyjny Star Wars™ spełnia najwyższe standardy bezpieczeństwa — ziemskie i galaktyczne!
 
+**Galeria:**
+
+- 75274-1: https://a.allegroimg.com/original/1179a4/1ef6d35a41ea9c6d65be2a708516
+
 ---
 
-## 75275 — SHF-PD3: Lego Star Wars 75275 Myśliwiec A-Wing Starfighter
+## 75275 — A-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.88 zł · EAN: 05702016663488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75275 |
+| Nazwa angielska | A-Wing Starfighter |
+| Nazwa polska | A-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1673 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016663488 |
 
 Przypomnij sobie ulubione sceny z filmu „Gwiezdne Wojny: Powrót Jedi” dzięki zestawowi LEGO® Ultimate Collectors Series Myśliwiec A-wing (75275). Złożony z klocków model pięknie przedstawia elegancką sylwetkę tego statku. Fani docenią autentyczne detale, w tym obracające się działa laserowe i zdejmowaną pokrywę kokpitu (nowość na maj 2020 r.). Wspaniała ozdoba To spore wyzwanie konstrukcyjne dla dorosłych budowniczych. Można go składać zarówno w pojedynkę, jak i w grupie, a całości dzieła dopełnia podstawka z plakietką informacyjną i minifigurką pilota A-winga. Zobacz też inne modele do zbudowania i ustawienia na półce: Hełm szturmowca (75276) i Hełm Boby Fetta (75277). Galaktyka emocji Grupa LEGO już od 1999 roku tworzy zbudowane z klocków wersje kultowych myśliwców kosmicznych, pojazdów, miejsc i postaci z sagi „Gwiezdnych Wojen”™.
 
+**Galeria:**
+
+- 75275-1: https://a.allegroimg.com/original/11e1bc/84a73556422c91623fc94de885f9
+
 ---
 
-## 75276 — Lego 75276 Hełm szturmowca
+## 75276 — Hełm szturmowca
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 883.00 zł · EAN: 05702016617214 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75276 |
+| Nazwa angielska | Stormtrooper |
+| Nazwa polska | Hełm szturmowca |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 647 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617214 |
 
 Odtwórz groźny wygląd szturmowca z „Gwiezdnych wojen™”, budując jego hełm z kolekcjonerskiego zestawu dekoracyjnego LEGO®. Uchwyć charakterystyczny kształt i detale hełmu złożonego z klocków LEGO ozdobionych szczegółowymi naklejkami. Do tego zadania potrzebne Ci będą iście elitarne umiejętności. A gdy skończysz, możesz dumnie ustawić swoje dzieło w domu, biurze lub dowolnym innym miejscu w galaktyce.
  
@@ -7400,11 +11891,27 @@ Model z klocków LEGO ozdobionych szczegółowymi naklejkami doskonale oddaje z�
 
 Seria kolekcjonerska Model hełmu szturmowca to świetny pomysł na prezent dla dorosłych fanów „Gwiezdnych Wojen”, oferujący ciekawe wyzwanie dla każdego doświadczonego budowniczego LEGO. Jest częścią serii kolekcjonerskich modeli LEGO Star Wars.
 
+**Galeria:**
+
+- 75276-1: https://a.allegroimg.com/original/11bd28/c06e83fa4d4aa9104ea674dbc9a0
+
 ---
 
-## 75277 — Lego 75277 Hełm Boby Fetta
+## 75277 — Hełm Boby Fetta
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 493.00 zł · EAN: 05702016617221 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75277 |
+| Nazwa angielska | Boba Fett |
+| Nazwa polska | Hełm Boby Fetta |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 625 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm × gł. 11 cm |
+| EAN | 5702016617221 |
 
 Zbuduj i ustaw na półce replikę LEGO® hełmu jednego z najgroźniejszych łowców nagród w galaktyce — Boby Fetta (75277)! To wspaniały pomysł na prezent LEGO Star Wars™ dla dorosłych fanów. Zestaw oferuje spore wyzwanie konstrukcyjne zaawansowanym budowniczym LEGO, a znany kształt i autentyczne detale hełmu są pięknie odtworzone z klocków LEGO.
 
@@ -7428,19 +11935,51 @@ Grupa LEGO od 1999 r. tworzy własne wersje kultowych statków kosmicznych, poja
 - Klocki LEGO® można łączyć i rozdzielać bez użycia Mocy! Spełniają one najwyższe branżowe standardy, dzięki czemu zawsze do siebie pasują i z łatwością łączą się ze sobą podczas budowania. 
 - Klocki i elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że każdy zestaw LEGO Star Wars™ spełnia najwyższe standardy bezpieczeństwa — ziemskie i galaktyczne!
 
+**Galeria:**
+
+- 75277-1: https://a.allegroimg.com/original/0554f5/e26bddaf4535b84389ed374b08cf
+
 ---
 
-## 75278 — Lego Star Wars 75278 Star Wars D-o (75278)
+## 75278 — Star Wars - D-O (75278)
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016617238 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75278 |
+| Nazwa angielska | D-O |
+| Nazwa polska | Star Wars - D-O (75278) |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 10 cm × gł. 16 cm |
+| EAN | 5702016617238 |
 
 o Fani mogą zbudować własny kolekcjonerski model sympatycznego droida D-O (75278) z filmu ,,Gwiezdne Wojny: Skywalker. Odrodzenie". Dzięki autentycznym detalom przedstawionym w stylu LEGO(R) konstrukcja będzie fantastyczną ozdobą domu lub biura.o Droid ma ruchome anteny, a jego głowa obraca się o 360 stopni i przesuwa w tył i w przód tak jak w filmie ,,Gwiezdne Wojny(TM)". W komplecie jest też wbudowana podstawka, plakietka informacyjna oraz minifigurka D-O, która zachwyci kolekcjonerów.o Droid D-O to model do zbudowania i postawienia na półce dostępny od maja 2020 r., który będzie wspaniałym dodatkiem do kolekcji każdego fana Star Wars(TM) lub budowniczego LEGO(R).o Złożony z 519 klocków droid LEGO(R) Star Wars(TM) zapewni świetną rozrywkę wszystkim kreatywnym fanom ,,Gwiezdnych Wojen" w wieku od 10 lat i będzie rewelacyjnym prezentem urodzinowym, świątecznym lub upominkiem niespodzianką na specjalną okazję.o Droid D-O do zbudowania z klocków ma ok. 27 cm wysokości, 10 cm szerokości i 16 cm głębokości. Nie zajmuje dużo miejsca, a będzie robić ogromne wrażenie jako ozdoba biura lub domu i z pewnością zachwyci każdego.o Budowanie zabawki konstrukcyjnej nie wymaga baterii i jest doskonałym sposobem na odstresowanie.
 
+**Galeria:**
+
+- 75278-1: https://a.allegroimg.com/original/055432/c7c74c624fc580143ae5fb37a1ab
+
 ---
 
-## 75280 — Lego Star Wars 75280 Żołnierze-Klony z 501. Legionu
+## 75280 — LEGO Star Wars 75280 Żołnierze-Klony z 501. Legionu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.00 zł · EAN: 05702016617245 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75280 |
+| Nazwa angielska | 501st Legion Clone Troopers |
+| Nazwa polska | LEGO Star Wars 75280 Żołnierze-Klony z 501. Legionu |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 8 cm |
+| EAN | 5702016617245 |
 
 Zainscenizuj wielkie starcie żołnierzy klonów z 501. legionu™ i droidów bojowych armii separatystów. W wypatrywaniu droidów z kabiny AT-RT pomoże Ci elektrolornetka. . Droidy bojowe mogą odpowiedzieć salwą z blasterów. Kto będzie górą w tej niesamowitej bitwie ze świata LEGO® Star Wars™? Ty decydujesz!
 
@@ -7458,11 +11997,27 @@ Zainscenizuj wielkie starcie żołnierzy klonów z 501. legionu™ i droidów bo
 - Klocki LEGO® już od 1958 roku spełniają najwyższe standardy branżowe, co oznacza, że są solidnie wykonane i nie trzeba Mocy, aby je połączyć i rozdzielić. 
 - Klocki i elementy LEGO są testowane na niemal wszystkie możliwe sposoby. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy jakości i bezpieczeństwa — światowe i kosmiczne!
 
+**Galeria:**
+
+- 75280-1: https://a.allegroimg.com/original/257784/3cf7b1484551af84f5d4258ed641
+
 ---
 
-## 75281 — Lego Star Wars Przechwytywacz Jedi Anakina 75281
+## 75281 — Jedi Interceptor Anakina
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016617252 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75281 |
+| Nazwa angielska | Anakin's Jedi Interceptor |
+| Nazwa polska | Jedi Interceptor Anakina |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm |
+| EAN | 5702016617252 |
 
 Ten zestaw LEGO® Star Wars™ (75281) pozwoli małym wojownikom Jedi bawić się w Anakina Skywalkera, który rusza do walki za sterami swojego Jedi Interceptora. Zbudowana z klocków zabawka ma mnóstwo elementów, które zachęcą do pomysłowej zabawy: otwierany kokpit z miejscem na minifigurkę LEGO, miotacze klocków, składane klapki na skrzydłach, miejsce dla R2-D2 oraz zaczep do przechowywania miecza świetlnego Anakina i zapasu amunicji.
  
@@ -7488,11 +12043,27 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 - Klocki LEGO® z tego zestawu z Anakinem Skywalkerem można łączyć i rozdzielać bez użycia Mocy! Spełniają one najwyższe branżowe standardy, dzięki czemu zawsze do siebie pasują i z łatwością łączą się ze sobą podczas budowania. 
 - Klocki i elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa — nawet te galaktyczne!
 
+**Galeria:**
+
+- 75281-1: https://a.allegroimg.com/original/006c31/df39526a456eb3b0ec3b58ce6ab8
+
 ---
 
-## 75283 — Lego 75283 Star Wars Czołg opancerzony Aat
+## 75283 — Czołg opancerzony AAT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702016617276 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75283 |
+| Nazwa angielska | Armored Assault Tank (AAT) |
+| Nazwa polska | Czołg opancerzony AAT |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm |
+| EAN | 5702016617276 |
 
 Klocki LEGO Star Wars 75283 - Czołg opancerzony AAT
 
@@ -7534,11 +12105,27 @@ Zestaw LEGO Star Wars - Czołg opancerzony AAT trafił do sprzedaży w 2020 ro
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75283-1: https://a.allegroimg.com/original/00ab1f/8527d485446c8850d79341b53874
+
 ---
 
-## 75284 — Lego Star Wars 75284 Statek transportowy Rycerzy Ren
+## 75284 — 75284
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016617283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75284 |
+| Nazwa angielska | Knights of Ren Transport Ship |
+| Nazwa polska | 75284 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 595 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm |
+| EAN | 5702016617283 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7575,11 +12162,27 @@ Zestaw LEGO Star Wars - Czołg opancerzony AAT trafił do sprzedaży w 2020 ro
 - Klocki LEGO® można łączyć i rozdzielać bez użycia Mocy! Od 1958 r. niezmiennie spełniają one najwyższe branżowe standardy, co daje nam pewność, że będą do siebie doskonale pasować. 
 - Klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, wiec możesz mieć pewność, że ten nawiązujący do filmu „Gwiezdne Wojny: Skywalker.Odrodzenie” zestaw spełnia najwyższe ziemskie i kosmiczne standardy jakości i bezpieczeństwa!
 
+**Galeria:**
+
+- 75284-1: https://a.allegroimg.com/original/11c337/79b57b2f47e094e86bf876abeb0e
+
 ---
 
-## 75286 — Klocki Lego Star Wars Zestaw Gwiezdny myśliwiec generała Grievousa 75286
+## 75286 — Gwiezdny myśliwiec generała Grievousa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016617306 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75286 |
+| Nazwa angielska | General Grievous's Starfighter |
+| Nazwa polska | Gwiezdny myśliwiec generała Grievousa |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617306 |
 
 Podaruj dziecku zestaw LEGO® z maszyną AT-AT (75288) i pozwól mu ponownie przeżyć bitwę o Hoth oraz inne słynne historie z trylogii Gwiezdnych Wojen™!
 
@@ -7591,11 +12194,27 @@ Grupa LEGO od ponad dwóch dekad tworzy własne wersje kultowych statków kosmic
 
 To po prostu musi się podobać!
 
+**Galeria:**
+
+- 75286-1: https://a.allegroimg.com/original/00a655/e564c63242fda5258d5eda745307
+
 ---
 
-## 75288 — Lego 75288 Star Wars At-at
+## 75288 — AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1279.00 zł · EAN: 05702016617320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75288 |
+| Nazwa angielska | AT-AT |
+| Nazwa polska | AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 15 cm |
+| EAN | 5702016617320 |
 
 Klocki LEGO Star Wars 75288 - AT-AT
 
@@ -7621,11 +12240,27 @@ Grupa LEGO od ponad dwóch dekad tworzy własne wersje kultowych statków kosmic
 - Klocki LEGO® można łączyć i rozdzielać bez wzywania na pomoc Mocy! Spełniają one najwyższe standardy branżowe, więc możesz mieć pewność, że będą do siebie doskonale pasować, a zabawa nimi nie będzie wymagała siły.
 - Klocki i elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że każdy dynamiczny zestaw Star Wars™ spełnia najwyższe standardy jakości i bezpieczeństwa — ziemskie i galaktyczne!
 
+**Galeria:**
+
+- 75288-1: https://a.allegroimg.com/original/056c8c/e0d717eb4f6f8015c1d648b31527
+
 ---
 
-## 75290 — Klocki Lego Star Wars Zestaw Kantyna Mos Eisley 75290
+## 75290 — Kantyna Mos Eisley
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016663495 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75290 |
+| Nazwa angielska | Mos Eisley Cantina |
+| Nazwa polska | Kantyna Mos Eisley |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 52 cm × gł. 58 cm |
+| EAN | 5702016663495 |
 
 LEGO Star Wars 75290 Kantyna Mos Eisley
 
@@ -7659,11 +12294,27 @@ Klocki LEGO® już od 1958 r. spełniają najwyższe standardy branżowe, dzięk
 
 Klocki i elementy LEGO® są rygorystycznie testowane i analizowane, abyśmy mieli pewność, że wszystkie zestawy konstrukcyjne Star Wars™ spełniają najwyższe standardy bezpieczeństwa oraz jakości — na Ziemi i w każdej galaktyce!
 
+**Galeria:**
+
+- 75290-1: https://a.allegroimg.com/original/25cf6f/c33325894ff8b27fb0c50a253b4f
+
 ---
 
-## 75291 — Klocki Lego Star Wars Gwiazda Śmierci pojedynek 75291
+## 75291 — Gwiazda Śmierci pojedynek
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 779.83 zł · EAN: 05702016678451 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75291 |
+| Nazwa angielska | Death Star Final Duel |
+| Nazwa polska | Gwiazda Śmierci pojedynek |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 775 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 31 cm |
+| EAN | 5702016678451 |
 
 Zestaw konstrukcyjny LEGO® Star Wars 75291 pozwala dzieciom odegrać scenę ostatecznego pojedynku na Gwieździe Śmierci między Lukiem Skywalkerem a Darthem Vaderem, którą znają z filmu „Powrót Jedi” . W sali tronowej Palpatine’a dzieci znajdą wiele detali, które zainspirują je do wymyślania ciekawych historii, w tym funkcję skakania z użyciem Mocy. Schody i mostek mogą się zapaść, a Darth Vader może cisnąć Imperatora prosto do rdzenia reaktora — dokładnie jak w filmie!
 
@@ -7685,11 +12336,27 @@ LEGO Star Wars to obecnie najpopularniejsza seria LEGO, w której znajdzie się 
 - Klocki LEGO® już od 1958 roku spełniają najwyższe standardy branżowe, co oznacza, że są solidnie wykonane i nie trzeba Mocy, żeby je połączyć i rozdzielić. 
 - Klocki i elementy LEGO® są testowane na niemal wszystkie możliwe sposoby.
 
+**Galeria:**
+
+- 75291-1: https://a.allegroimg.com/original/11a457/fdc03b694b2f897c6f23759fb700
+
 ---
 
-## 75292 — Lego 75292 Star Wars Transportowiec łowcy nagród The Razor Crest
+## 75292 — The Razor Crest
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 798.00 zł · EAN: 05702016683325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75292 |
+| Nazwa angielska | The Razor Crest |
+| Nazwa polska | The Razor Crest |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1023 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 28 cm |
+| EAN | 5702016683325, 5702016914504 |
 
 Zapraszam do zakupu zestawu Lego z serii Star Wars:
 
@@ -7723,11 +12390,28 @@ Pomysły na idealny prezentGrupa LEGO już od 1999 r. tworzy modele kultowych st
 - Klocki LEGO można łączyć i rozdzielać bez użycia Mocy! Klocki spełniają najwyższe branżowe standardy, dzięki czemu można je zawsze łatwo łączyć i rozdzielać oraz budować z nich solidne modele.
 - Klocki i elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że ten zestaw z serialu „Star Wars: The Mandalorian” spełnia najwyższe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75292-1: https://a.allegroimg.com/original/118ba1/4328bc5443ad97a1e856fbaf6950
+- 75292-2: https://a.allegroimg.com/original/112b70/61d4887d4c0d9ad0f63bfd06e092
+
 ---
 
-## 75293 — Lego Star Wars Pojazd Transportowy I-ts Ruc #75293
+## 75293 — Pojazd transportowy I-TS Ruc
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 469.45 zł · EAN: 05702016762013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75293 |
+| Nazwa angielska | Resistance I-TS Transport |
+| Nazwa polska | Pojazd transportowy I-TS Ruc |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 932 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm |
+| EAN | 5702016762013 |
 
 LEGO STAR WARS POJAZD TRANSPORTOWY I-TS RUC
 
@@ -7769,11 +12453,27 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 - Klocki LEGO® można łączyć i rozdzielać bez użycia Mocy! Od 1958 r. niezmiennie spełniają one najwyższe branżowe standardy, co daje nam pewność, że będą do siebie doskonale pasować i pozwolą budować solidne modele.
 - Klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, więc możesz mieć pewność, że ten model do zbudowania spełnia najwyższe standardy jakości i bezpieczeństwa — światowe i galaktyczne!
 
+**Galeria:**
+
+- 75293-1: https://a.allegroimg.com/original/1124a6/6b54c32d4a28b6885db0fa1e060e
+
 ---
 
-## 75294 — Klocki Lego Star Wars Zestaw Pojedynek nad Bespinem 75294
+## 75294 — LEGO 75294 Star Wars - Bespin Duel
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 00673419334761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75294 |
+| Nazwa angielska | Bespin Duel |
+| Nazwa polska | LEGO 75294 Star Wars - Bespin Duel |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 23 cm × gł. 11 cm |
+| EAN | 673419334761 |
 
 Klocki LEGO Star Wars
 
@@ -7799,11 +12499,27 @@ Ten 295-elementowy zestaw konstrukcyjny Star Wars ™ doskonale nadaje się do s
 
 Model do zbudowania ma ok. 20 cm wysokości, 23 cm szerokości i 11 cm głębokości - nie wymaga dużej ilości miejsca na ekspozycję, ale jego uderzające, autentyczne detale z pewnością przyciągną uwagę ludzi Uwaga.
 
+**Galeria:**
+
+- 75294-1: https://a.allegroimg.com/original/1124ba/68522281471f8b4f65cfef7c9c77
+
 ---
 
-## 75295 — Zestaw Lego Star Wars 75295 Mikromyśliwiec Sokół Millennium
+## 75295 — Klocki LEGO Star Wars 75295 Gwiezdne Wojny Mikromiśliwiec Sokół Millenium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016912654 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75295 |
+| Nazwa angielska | Millennium Falcon Microfighter |
+| Nazwa polska | Klocki LEGO Star Wars 75295 Gwiezdne Wojny Mikromiśliwiec Sokół Millenium |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016912654 |
 
 ZESTAW LEGO STAR WARS - 75295 - MIKROMYŚLIWIEC SOKÓŁ MILLENNIUM
 
@@ -7841,11 +12557,27 @@ Zestaw składa się ze 101 elementów, co czyni go świetnym wyborem zarówno dl
 
 Mikromyśliwiec Sokół Millennium to idealny wybór dla każdego fana Star Wars, niezależnie od wieku. Łączy prostotę budowy z dużą frajdą z zabawy, a jego kultowy design sprawia, że świetnie prezentuje się także jako ozdoba na półce. To doskonały prezent urodzinowy, świąteczny lub spontaniczna niespodzianka bez okazji, która na pewno wywoła uśmiech na twarzy dziecka czy dorosłego fana LEGO i Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 75295-1: https://a.allegroimg.com/original/11972d/bf8ca10241d6940520ba89e1deec
+
 ---
 
-## 75296 — Lego Star Wars 75296 Komnata medytacyjna Dartha Vadera
+## 75296 — Komnata medytacyjna Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 414.98 zł · EAN: 05702016974348 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75296 |
+| Nazwa angielska | Darth Vader Meditation Chamber |
+| Nazwa polska | Komnata medytacyjna Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 663 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016974348 |
 
 Klocki LEGO® 75296 Star Wars™ Komnata medytacyjna Dartha Vadera™
 
@@ -7868,11 +12600,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla osób w wieku od 18 lat. Sprawdzi się dla dorosłych fanów Star Wars™ oraz konstruktorów LEGO®, którzy chcą zbudować kolekcjonerski model do ekspozycji inspirowany sceną z filmu Star Wars: Imperium kontratakuje.
 
+**Galeria:**
+
+- 75296-1: https://a.allegroimg.com/original/1163e1/f55e940b487a9aa0ea288a697b8e
+
 ---
 
-## 75297 — Lego Star Wars 75297 X-Wing Ruchu Oporu
+## 75297 — X-Wing Ruchu Oporu V29
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 166.88 zł · EAN: 05702016912661 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75297 |
+| Nazwa angielska | Resistance X-Wing |
+| Nazwa polska | X-Wing Ruchu Oporu V29 |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 19 cm |
+| EAN | 5702016912661 |
 
 Klocki LEGO Star Wars 75297 - X-Wing Ruchu Oporu
 
@@ -7899,11 +12647,27 @@ Zestawy do złożenia LEGO Star Wars 4+ wprowadzają maluchy w wieku od 4 lat ni
 
 Zestaw LEGO Star Wars - X-Wing Ruchu Oporu trafił do sprzedaży w 2021 roku. Numer katalogowy tego zestawu to 75297. Zawiera 60 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Resistance X-Wing. Grupa wiekowa tego produktu to 4+.
 
+**Galeria:**
+
+- 75297-1: https://a.allegroimg.com/original/113720/225b3f604df3a797c70933cdd717
+
 ---
 
-## 75299 — Klocki Lego Star Wars Kłopoty na Tatooine 276 elementów 7 lat
+## 75299 — Kłopoty na Tatooine
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016913989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75299 |
+| Nazwa angielska | Trouble on Tatooine |
+| Nazwa polska | Kłopoty na Tatooine |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm |
+| EAN | 5702016913989 |
 
 Dzieci mogą połączyć siły z Mandalorianinem i tuskeńskim rabusiem, by razem z nimi wykonywać misje na pustyni w zestawie LEGO® Star Wars™ 75299 Kłopoty na Tatooine. Zestaw zawiera śmigacz z miejscem na minifigurkę LEGO® i sakwę, w której może podróżować Dziecko. Jest w nim także kryjówka Tuskena do zbudowania oraz nowość na styczeń 2021 r. — balista dla tuskeńskiego rabusia.
  
@@ -7927,11 +12691,27 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 - Elementy LEGO® spełniają surowe standardy branżowe, dzięki czemu są jednolite, można je z łatwością połączyć oraz rozdzielić i mocno się trzymają — i tak jest niezmiennie od 1958 roku. 
 - Elementy zestawów LEGO® są testowane na wszelkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75299-1: https://a.allegroimg.com/original/057ec4/1afc65974b84ae261235c841146a
+
 ---
 
-## 75300 — Lego Star Wars 75300 Imperialny myśliwiec Tie
+## 75300 — Imperialny myśliwiec TIE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 346.00 zł · EAN: 05702016913606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75300 |
+| Nazwa angielska | Imperial TIE Fighter |
+| Nazwa polska | Imperialny myśliwiec TIE |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 432 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 15 cm |
+| EAN | 5702016913606 |
 
 Imperialny myśliwiec TIE w wersji z klocków LEGO® (75300) pozwoli dzieciom wcielić się w złoczyńców z klasycznej trylogii Gwiezdnych Wojen™. Model dobrze oddaje smukłe linie kultowego myśliwca Imperium i ma otwierany kokpit dla minifigurki LEGO oraz dwa sprężynowe działka.
  
@@ -7962,11 +12742,27 @@ Grupa LEGO od 1999 r. tworzy własne wersje kultowych myśliwców kosmicznych, p
 - instrukcja zestawu
 - oryginalne opakowanie zestawu
 
+**Galeria:**
+
+- 75300-1: https://a.allegroimg.com/original/056d56/6b8bcc894f9c9e928cb170781315
+
 ---
 
-## 75301 — Zestaw Lego Star Wars – 75301 – Myśliwiec X-wing Luke’a Skywalkera
+## 75301 — Klocki LEGO Star Wars 75301 Myśliwiec X-Wing Skywalkera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 383.00 zł · EAN: 05702016913965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75301 |
+| Nazwa angielska | Luke Skywalker's X-Wing Fighter |
+| Nazwa polska | Klocki LEGO Star Wars 75301 Myśliwiec X-Wing Skywalkera |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 474 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 28 cm |
+| EAN | 5702016913965 |
 
 ZESTAW LEGO STAR WARS – 75301 – MYŚLIWIEC X-WING LUKE’A SKYWALKERA
 
@@ -8004,41 +12800,27 @@ Model kłada się z 474 elementów, co zapewnia satysfakcjonujące budowanie i o
 
 Myśliwiec X-Wing Luke’a Skywalkera to idealne połączenie kultowego designu, ciekawych funkcji i emocjonującej zabawy. Dzięki realistycznym detalom i dużym możliwościom odgrywania ról zestaw zapewnia wiele godzin kreatywnej rozrywki oraz świetnie sprawdzi się jako element kolekcji. To doskonały wybór na prezent urodzinowy, świąteczny lub niespodziankę bez okazji dla każdego fana Gwiezdnych Wojen, który chce poczuć się jak prawdziwy pilot Rebelii.
 
----
+**Galeria:**
 
-## 75302 — Klocki Lego Star Wars Zestaw Imperialny wahadłowiec 75302
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 597.00 zł · EAN: 05702016914474 · in stock*
-
-Klocki LEGO Star Wars Zestaw Imperialny wahadłowiec 75302
-
-Dołącz do Dartha Vadera na pokładzie imperialnego wahadłowca i przeżyj przygody w klasycznym stylu „Gwiezdnych Wojen™”! Pomóż oficerowi Imperium usiąść w kokpicie i wystartować tym eleganckim pojazdem transportowym. Opuść skrzydła do lotu i ostrzelaj statki Rebeliantów miotaczem klocków. Złap Luke’a Skywalkera i wróć na Gwiazdę Śmierci. Kto wygra pojedynek między Jedi Lukiem a Lordem Sithów Vaderem? To Ty zdecydujesz!
-
-Klasyczny imperialny wahadłowiec do dynamicznej zabawy
-
-Rewelacyjny model LEGO® imperialnego wahadłowca i kultowe postacie z sagi „Gwiezdne Wojny™” pozwolą dzieciom odgrywać niezapomniane sceny z klasycznej trylogii.
-
-Zbuduj z klocków LEGO® elegancki imperialny wahadłowiec (75302) dla dzieci wypełniony ciekawymi funkcjami, które pozwalają odgrywać sceny z klasycznej trylogii „Gwiezdne Wojny™”.
-
-W komplecie trzy minifigurki LEGO®: Darth Vader i Luke Skywalker z mieczami świetlnymi oraz oficer Imperium z pistoletem blasterowym, a do tego kajdanki do kreatywnej zabawy.
-
-Imperialny wahadłowiec ma otwierany kokpit z miejscem na minifigurkę, otwierany pokład z miejscem na dwie minifigurki LEGO®, składane skrzydła do lotu i lądowania oraz dwa miotacze klocków.
-
-Ta wspaniała zabawka doskonale sprawdzi się jako prezent urodzinowy, gwiazdkowy lub upominek niespodzianka dla fanów „Gwiezdnych Wojen™” w wieku od 9 lat. Model można zbudować i bawić się nim samodzielnie lub z rodziną i przyjaciółmi.
-
-Imperialny wahadłowiec ma ok. 25 cm wysokości, 24 cm długości i 35 cm szerokości. W przerwach między przygodami będzie dumną ozdobą dziecięcego pokoju.
-
-Chcesz kupić ten zestaw konstrukcyjny fanowi „Gwiezdnych Wojen™”, który stawia pierwsze kroki w świecie LEGO®? Bez obaw. W komplecie znajdują się przejrzyste instrukcje, dzięki którym każdy bez trudu złoży model z pewnością siebie godną Jedi.
-
-Elementy LEGO® spełniają wymogi najwyższych standardów branżowych, dzięki czemu zawsze do siebie pasują i tworzą solidne budowle.
-
-Elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa — nawet te galaktyczne!
+- 75301-1: https://a.allegroimg.com/original/051e02/92e83746463abe290947da8e70fa
 
 ---
 
-## 75304 — Lego Star Wars 75304 Hełm Dartha Vadera
+## 75304 — Hełm Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702016914498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75304 |
+| Nazwa angielska | Darth Vader |
+| Nazwa polska | Hełm Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 834 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 15 cm × gł. 14 cm |
+| EAN | 5702016914498 |
 
 LEGO Star Wars 75304 Star Wars - Hełm Dartha Vadera (75304)
  
@@ -8065,11 +12847,27 @@ Ten wysokiej jakości zestaw należy do serii zestawów konstrukcyjnych LEGO St
 - Elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku. Dzięki temu zawsze do siebie pasują i mocno się trzymają, co pozwala tworzyć solidne modele. 
 - Klocki i elementy LEGO® są testowane na wszystkie możliwe sposoby. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia jedne z najbardziej rygorystycznych standardów bezpieczeństwa — światowe i kosmiczne!
 
+**Galeria:**
+
+- 75304-1: https://a.allegroimg.com/original/115927/895e00d94ac599b4e4ab3f776d26
+
 ---
 
-## 75306 — Lego 75306 Star Wars Imperialny droid zwiadowczy
+## 75306 — Imperialny droid zwiadowczy
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 415.07 zł · EAN: 05702016914184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75306 |
+| Nazwa angielska | Imperial Probe Droid |
+| Nazwa polska | Imperialny droid zwiadowczy |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 683 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 24 cm × gł. 11 cm |
+| EAN | 5702016914184 |
 
 Klocki LEGO Star Wars 75306 - Imperialny droid zwiadowczy
 
@@ -8114,41 +12912,27 @@ Zestaw LEGO Star Wars - Imperialny droid zwiadowczy trafił do sprzedaży w 20
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
----
+**Galeria:**
 
-## 75308 — Lego Star Wars 75308 R2-D2 Unikat! Rzadki Egzemplarz! Okazja!
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702016914191 · in stock*
-
-Przypomnij sobie klasyczne chwile z sagi „Gwiezdne Wojny”, budując tę wyjątkowo szczegółową figurkę droida R2-D2 z klocków LEGO®. Ten niezwykły model to nowość na maj 2021 roku, zachwycająca mnóstwem autentycznych detali, takich jak wysuwana tylna podpórka, obrotowa głowa, otwierane i wysuwane przednie klapy, wyciągany i obracany peryskop oraz miecz świetlny Luke’a Skywalkera ukryty w schowku w głowie droida.
- 
-Zbuduj i pochwal się
- 
-W tym ciekawym zestawie konstrukcyjnym znajdziesz również podstawkę do zbudowania z plakietką informacyjną, figurkę LEGO droida R2-D2 oraz wyjątkowy klocek LEGO upamiętniający 50. rocznicę powstania wytwórni Lucasfilm. Całość będzie rewelacyjną ozdobą każdego domu czy biura.
- 
-Specjalny prezent
- 
-Ten zestaw konstrukcyjny należy do wysokiej jakości serii zestawów LEGO Star Wars dla dorosłych i będzie doskonałym prezentem dla każdego fana „Gwiezdnych Wojen” albo doświadczonego konstruktora LEGO.
-
- 
-- Zbuduj z klocków LEGO® i ustaw na półce ten niezwykle szczegółowy model kultowej postaci z sagi „Gwiezdne Wojny”: droida R2-D2. Zestaw 75308 to nowość na maj 2021 roku. 
-- Autentyczne funkcje modelu to między innymi wysuwana tylna podpora, obrotowa głowa, wysuwane przednie klapy, ruchomy peryskop oraz miecz świetlny ukryty w schowku w głowie droida. 
-- W komplecie jest zbudowana z klocków podstawka z plakietką informacyjną, figurka LEGO® Star Wars™ droida R2-D2 oraz specjalny klocek LEGO upamiętniający 50. rocznicę powstania wytwórni Lucasfilm. 
-- Wysokiej jakości zestaw jest częścią serii kolekcjonerskich modeli LEGO® Star Wars™. 
-- Zestaw złożony z 2315 elementów oferuje satysfakcjonujące wyzwanie konstrukcyjne i będzie świetnym prezentem świątecznym lub urodzinowym dla każdego konesera „Gwiezdnych Wojen” i miłośnika serii LEGO® Star Wars. 
-
- 
-- Model kolekcjonerski R2-D2 ma ok. 31 cm wysokości, 20 cm szerokości i 15 cm głębokości, więc będzie imponującą ozdobą domu lub biura. 
-- Chcesz kupić ten zestaw kolekcjonerowi gadżetów związanych z „Gwiezdnymi Wojnami”, który nie budował wcześniej z klocków LEGO®? Bez obaw. W komplecie są łatwe instrukcje, dzięki którym każdy poradzi sobie ze złożeniem modelu. 
-- Kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych zaprojektowane zostały z myślą o wymagających hobbystach, którzy lubią relaksować się we wciągający i kreatywny sposób. 
-- Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują, łatwo się łączą i mocno trzymają. 
-- Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa.
+- 75306-1: https://a.allegroimg.com/original/0087dd/ba40eb334f61bc475b768f4e5114
 
 ---
 
-## 75309 — Klocki Lego Star Wars Zestaw Kanonierka Republiki 75309
+## 75309 — Kanonierka Republiki
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2108.84 zł · EAN: 05702016914573 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75309 |
+| Nazwa angielska | Republic Gunship |
+| Nazwa polska | Kanonierka Republiki |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 74 cm |
+| EAN | 5702016914573 |
 
 Klocki LEGO Star Wars Zestaw Kanonierka Republiki 75309
 
@@ -8188,11 +12972,27 @@ Elementy LEGO® spełniają surowe branżowe standardy, dzięki czemu są jednol
 
 Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75309-1: https://a.allegroimg.com/original/051487/bf38d66440e1a10d9c18e31d9680
+
 ---
 
-## 75310 — Lego Star Wars 75310 Starcie na Mandalore
+## 75310 — Starcie na Mandalore
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016914207 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75310 |
+| Nazwa angielska | Duel on Mandalore |
+| Nazwa polska | Starcie na Mandalore |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 7 cm |
+| EAN | 5702016914207 |
 
 Dzięki przenośnemu zestawowi Starcie na Mandalore (75310) młodzi fani mogą odegrać ekscytującą scenę z serialu „Gwiezdne wojny: Wojny klonów”. Zestaw zawiera tron z klocków LEGO® z ukrytą skrytką, w której znajduje się pistolet blasterowy, a także dekoracyjne elementy otoczenia, takie jak pękające okno — w sam raz, aby wyrzucić przez nie minifigurkę LEGO! Dzieci będą również zachwycone mandaloriańskim skarbcem, w którym można uwięzić Dartha Maula.
  
@@ -8213,11 +13013,27 @@ Grupa LEGO już od 1999 roku tworzy modele kultowych statków kosmicznych, pojaz
 - W komplecie znajdują się szczegółowe instrukcje z obrazkami, dzięki którym nawet nowicjusze bez trudu złożą model. 
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu łatwo się ze sobą łączą i mocno trzymają — i tak jest od 1958 roku. Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają rygorystyczne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75310-1: https://a.allegroimg.com/original/11abe6/d2a908cb44bf8145bfeb864cf54a
+
 ---
 
-## 75311 — Zestaw Lego Star Wars 75311 Opancerzony Maruder Imperium
+## 75311 — Klocki LEGO Star Wars 75311 Opancerzony Maruder Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702016914214 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75311 |
+| Nazwa angielska | Imperial Armored Marauder |
+| Nazwa polska | Klocki LEGO Star Wars 75311 Opancerzony Maruder Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 478 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702016914214 |
 
 ZESTAW LEGO STAR WARS - 75311 - OPANCERZONY MARUDER IMPERIUM
 
@@ -8255,11 +13071,27 @@ Zestaw składa się z 478 elementów, co zapewnia satysfakcjonujące budowanie i
 
 Opancerzony maruder Imperium to zestaw, który łączy efektowny wygląd, ciekawe funkcje i ogromne możliwości zabawy. Dzięki bogatemu wyposażeniu i kultowym postaciom zapewnia wiele godzin kreatywnej rozrywki, a po zakończonej zabawie świetnie prezentuje się na półce jako ozdoba. To idealny prezent urodzinowy, świąteczny lub niespodzianka bez okazji dla każdego fana LEGO Star Wars, który chce przeżyć własne galaktyczne przygody.
 
+**Galeria:**
+
+- 75311-1: https://a.allegroimg.com/original/05f46c/3931a55a48f0887fc08a87e3f39d
+
 ---
 
-## 75312 — Lego Star Wars 75312 Statek Kosmiczny Boby Fetta Z Gwiezdnych Wojen
+## 75312 — Zestaw LEGO Star Wars 75312 Gwiezdne Wojny Statek kosmiczny Boby Fetta 
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.09 zł · EAN: 05702016913859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75312 |
+| Nazwa angielska | Boba Fett's Starship |
+| Nazwa polska | Zestaw LEGO Star Wars 75312 Gwiezdne Wojny Statek kosmiczny Boby Fetta  |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 593 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 20 cm |
+| EAN | 5702016913859 |
 
 ZESTAW LEGO STAR WARS - 75312 - STATEK KOSMICZNY BOBY FETTA Z GWIEZDNYCH WOJEN
 
@@ -8297,11 +13129,27 @@ Model statku Boby Fetta został zaprojektowany tak, aby łączyć zabawę z eksp
 
 Zestaw LEGO Star Wars 75312 to idealny wybór dla każdego fana Gwiezdnych Wojen, niezależnie od wieku. Dzięki świetnie odwzorowanemu modelowi, minifigurkom i funkcjonalnym elementom zestaw zapewnia wiele godzin kreatywnej zabawy oraz satysfakcję z budowania. To doskonały pomysł na prezent urodzinowy, świąteczny lub zupełnie bez okazji – zawsze sprawi radość i pozwoli przenieść się do świata pełnego przygód i kosmicznych pojedynków. Model świetnie sprawdzi się również jako ozdoba pokoju, przyciągając uwagę każdego fana uniwersum Star Wars.
 
+**Galeria:**
+
+- 75312-1: https://a.allegroimg.com/original/11c072/3d1944cc443e8c168e29a8ab4235
+
 ---
 
-## 75313 — Lego Star Wars 75313 At-at Cena! Ostatnia Sztuka! Okazja!
+## 75313 — 75313
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 4899.99 zł · EAN: 05702016913866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75313 |
+| Nazwa angielska | AT-AT |
+| Nazwa polska | 75313 |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6785 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 62 cm × szer. 24 cm |
+| EAN | 5702016913866 |
 
 - **LEGO Star Wars 75313 AT-AT – Ultimate Collector Series**
 Kolekcjonerski zestaw LEGO® Star Wars™ UCS inspirowany bitwą o Hoth z filmu Imperium kontratakuje. Imponujący model AT-AT z ruchomą głową i nogami, otwieranymi lukami, obrotowymi działkami oraz realistycznymi detalami.
@@ -8339,11 +13187,27 @@ ok. 62 cm wysokości, 69 cm długości, 24 cm szerokości
 
 Efektowna ozdoba każdego wnętrza i wyjątkowy prezent na urodziny lub święta.
 
+**Galeria:**
+
+- 75313-1: https://a.allegroimg.com/original/05342c/08bdda704f3eb792917ea48006fe
+
 ---
 
-## 75314 — Lego 75314 Prom szturmowy Parszywej Zgrai
+## 75314 — Prom szturmowy Parszywej Zgrai
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702016914436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75314 |
+| Nazwa angielska | The Bad Batch Attack Shuttle |
+| Nazwa polska | Prom szturmowy Parszywej Zgrai |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 969 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914436 |
 
 Dzieci mogą wcielać się w klony z Parszywej Zgrai i wyruszać na ekscytujące misje z udziałem zbudowanego z klocków promu szturmowego z serialu „Star Wars: The Bad Batch”.
 
@@ -8367,11 +13231,27 @@ Dołącz do Parszywej Zgrai elitarnych klonów i wyrusz na ekscytujące misje ic
 - W kabinie jest miejsce dla dwóch minifigurek i schowek na broń. Zestaw zawiera także śmigacz z dwoma miotaczami klocków i śmigacz z amunicją do blastera, więc dzieci mają jeszcze więcej możliwości zabawy.
 - To doskonały zestaw konstrukcyjny do zabawy na co dzień w pojedynkę lub w grupie. Świetnie sprawdzi się też jako prezent urodzinowy i świąteczny lub jako nagroda dla kreatywnych dzieci od dziewiątego roku życia.
 
+**Galeria:**
+
+- 75314-1: https://a.allegroimg.com/original/11bd93/7aaa2ce745248c65b88c56fd5e36
+
 ---
 
-## 75315 — Lego 75315 Star Wars Imperialny lekki krążownik
+## 75315 — Imperialny lekki krążownik
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 948.99 zł · EAN: 05702016914443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75315 |
+| Nazwa angielska | Imperial Light Cruiser |
+| Nazwa polska | Imperialny lekki krążownik |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 22 cm |
+| EAN | 5702016914443 |
 
 Klocki LEGO Star Wars 75315 - Imperialny lekki krążownik
 
@@ -8409,11 +13289,27 @@ Zestaw LEGO Star Wars - Imperialny lekki krążownik trafił do sprzedaży w 2
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75315-1: https://a.allegroimg.com/original/11ba09/d61be8674c61beefa3ae089482c9
+
 ---
 
-## 75316 — Lego 75316 Star Wars Mandaloriański myśliwiec
+## 75316 — Mandaloriański myśliwiec
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016914450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75316 |
+| Nazwa angielska | Mandalorian Starfighter |
+| Nazwa polska | Mandaloriański myśliwiec |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 544 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 30 cm |
+| EAN | 5702016914450 |
 
 Niesamowity model myśliwca do zbudowania
  
@@ -8445,11 +13341,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 - Już od 1958 roku elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają. 
 - Klocki i inne elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane na wiele innych sposobów pod kątem zgodności z surowymi światowymi standardami bezpieczeństwa.
 
+**Galeria:**
+
+- 75316-1: https://a.allegroimg.com/original/05128a/b4b21a564ddd8255c4bae94500ad
+
 ---
 
-## 75318 — Zestaw Lego Star Wars 75318 Dziecko Baby Yoda
+## 75318 — Klocki LEGO Star Wars 75318 Dziecko Baby Yoda
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702016928570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75318 |
+| Nazwa angielska | The Child |
+| Nazwa polska | Klocki LEGO Star Wars 75318 Dziecko Baby Yoda |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1073 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 21 cm × gł. 13 cm |
+| EAN | 5702016928570 |
 
 ZESTAW LEGO STAR WARS – 75318 – DZIECKO BABY YODA
 
@@ -8485,11 +13397,27 @@ Zestaw składa się aż z 1073 elementów, co czyni go angażującym projektem k
 
 LEGO Star Wars 75318 to zestaw, który łączy w sobie urok, precyzję wykonania i ogromną satysfakcję z budowania. Dzięki ruchomym elementom i dopracowanym detalom model zachwyca zarówno podczas składania, jak i po ustawieniu na półce. To idealny prezent urodzinowy, świąteczny lub niespodzianka bez okazji dla każdego fana Star Wars, który chce mieć w swojej kolekcji jedną z najbardziej uwielbianych postaci galaktyki.
 
+**Galeria:**
+
+- 75318-1: https://a.allegroimg.com/original/11735e/f24041654d4b93b677dce709d034
+
 ---
 
-## 75319 — Lego Star Wars 75319 Kuźnia Zbrojmistrzyni Mandalorian
+## 75319 — Kuźnia Zbrojmistrzyni Mandalorian
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702016989410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75319 |
+| Nazwa angielska | The Armorer's Mandalorian Forge |
+| Nazwa polska | Kuźnia Zbrojmistrzyni Mandalorian |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm × gł. 16 cm |
+| EAN | 5702016989410 |
 
 - **Szczegóły Produktu LEGO STAR WARS Kuźnia Zbrojmistrzyni Mandalorian 75319**
 
@@ -8523,11 +13451,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 - Klocki i elementy LEGO są testowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75319-1: https://a.allegroimg.com/original/113160/5868f51a470595c9786cf805273c
+
 ---
 
-## 75320 — Lego 75320 Star Wars Zestaw bitewny ze szturmowcem śnieżnym
+## 75320 — Zestaw bitewny ze szturmowcem śnieżnym
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702017155067 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75320 |
+| Nazwa angielska | Snowtrooper Battle Pack |
+| Nazwa polska | Zestaw bitewny ze szturmowcem śnieżnym |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155067 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -8541,11 +13485,27 @@ Numer magazynowy sprzedawcy: 20260279 - 20260284
 
 Przybliżone wymiary opakowania:** 14,1 x 4,6 x 19,1 cm**
 
+**Galeria:**
+
+- 75320-1: https://a.allegroimg.com/original/11e2dc/c758ec714bf0b953b32ddf0e9b46
+
 ---
 
-## 75321 — Lego Star Wars 75321 Mikromyśliwiec Brzeszczot Komplet Klockow 6+ Klocki
+## 75321 — Mikromyśliwiec Brzeszczot
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702017155470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75321 |
+| Nazwa angielska | The Razor Crest Microfighter |
+| Nazwa polska | Mikromyśliwiec Brzeszczot |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm |
+| EAN | 5702017155470 |
 
 Zbuduj mikromyśliwiec Brzeszczot i połącz siły z Mandalorianinem podczas ekscytujących przygód łowców nagród! Wskocz do kokpitu i wyrusz na galaktyczną misję. Strzel klockami z miotaczy w siły Resztek Imperium. Zwiedź inne planety, używając plecaka odrzutowego Mandalorianina, i walcz z przeciwnikami, wykorzystując pistolet blasterowy. Kto wie, co odkryjesz podczas swojej przygody!
  
@@ -8573,11 +13533,27 @@ Zapoznaj dzieci z zestawami z serii LEGO® Star Wars™ dzięki łatwemu w budow
 - Zestawy LEGO® Star Wars™ dla każdego — Zestawy te pozwalają dzieciom i dorosłym odgrywać sceny z sagi Gwiezdnych Wojen, wymyślać własne przygody i budować kolekcjonerskie modele, którymi można się pochwalić 
 - Wysoka jakość — Elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku. Dzięki temu łączą się łatwo i dobrze trzymają, co pozwala budować solidne modele
 
+**Galeria:**
+
+- 75321-1: https://a.allegroimg.com/original/2541d8/a2fc357c4e20a324ac9176f0db41
+
 ---
 
-## 75322 — Lego 75322 At-st z Hoth
+## 75322 — AT-ST
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 464.00 zł · EAN: 05702017155487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75322 |
+| Nazwa angielska | Hoth AT-ST |
+| Nazwa polska | AT-ST |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 586 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 13 cm |
+| EAN | 5702017155487 |
 
 Dzieci mogą odgrywać porywające sceny z filmu „Gwiezdne Wojny: Imperium kontratakuje” dzięki pierwszemu w historii modelowi LEGO® maszyny kroczącej AT-ST z bitwy o Hoth (75322). Maszyna ma otwierany właz oraz dach, przez który minifigurka może wejść do kokpitu, a także sterowaną przy pomocy pokrętła obracaną głowę, dwa działka sprężynowe i ruchome nogi. Ta zabawka konstrukcyjna to fantastyczny prezent dla dzieci w wieku od dziewięciu lat. Zawiera również trzy minifigurki LEGO® Star Wars™, w tymChewbaccę ze śnieżną dekoracją, a także figurkę LEGO imperialnego droida zwiadowczego do kreatywnej zabawy.
  
@@ -8601,11 +13577,27 @@ Bitwa o Hoth trwa! Chewbacca i żołnierz Rebelii potrzebują Twojej pomocy w ob
 - Zabawki konstrukcyjne dla każdego — Zestawy LEGO® Star Wars™ pozwalają dzieciom i dorosłym fanom odgrywać słynne sceny, wymyślać nowe historie lub po prostu prezentować samodzielnie zbudowane modele
 - Bezpieczeństwo przede wszystkim — Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75322-1: https://a.allegroimg.com/original/339e53/4dea9fa948dcab10313be9c2ffd2
+
 ---
 
-## 75323 — Klocki Lego Star Wars Justifier 1022 elementy dla dzieci od 9 lat
+## 75323 — Justifier
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 568.99 zł · EAN: 05702017155494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75323 |
+| Nazwa angielska | The Justifier |
+| Nazwa polska | Justifier |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1022 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155494 |
 
 LEGO Star Wars 75323 Justifier
  
@@ -8649,11 +13641,27 @@ Grupa LEGO już od ponad 20 lat tworzy modele statków kosmicznych, pojazdów, m
 - najwyższa jakość - klocki LEGO® spełniają wymagające standardy jakości, dzięki czemu za każdym razem łączą się łatwo i mocno trzymają 
 - bezpieczeństwo przede wszystkim - klocki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów, dzięki czemu spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75323-1: https://a.allegroimg.com/original/053e37/83c85a804b72bb8144bbec6ca842
+
 ---
 
-## 75324 — Zestaw Lego Star Wars 75324 Atak Mrocznych Szturmowców
+## 75324 — Klocki LEGO STAR WARS 75324 Atak mrocznych szturmowców
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 165.98 zł · EAN: 05702017155500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75324 |
+| Nazwa angielska | Dark Trooper Attack |
+| Nazwa polska | Klocki LEGO STAR WARS 75324 Atak mrocznych szturmowców |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702017155500 |
 
 ZESTAW LEGO STAR WARS - 75324 - ATAK MROCZNYCH SZTURMOWCÓW
 
@@ -8691,11 +13699,27 @@ Model oferuje wiele interaktywnych elementów, które urozmaicają zabawę i poz
 
 Zestaw LEGO Star Wars 75324 to doskonały wybór dla każdego fana galaktycznych przygód. Kompaktowy rozmiar, ciekawe funkcje i znane postacie sprawiają, że zestaw zapewnia mnóstwo frajdy zarówno podczas budowania, jak i późniejszej zabawy. To model, który świetnie sprawdzi się jako element kolekcji, ale także jako inspiracja do tworzenia własnych historii. Dzięki przemyślanej konstrukcji i atrakcyjnej tematyce jest to idealny prezent urodzinowy, świąteczny lub niespodzianka bez okazji dla dzieci i dorosłych fanów Star Wars.
 
+**Galeria:**
+
+- 75324-1: https://a.allegroimg.com/original/05062b/a26c0fb349e6b6dfc8bde904c76d
+
 ---
 
-## 75325 — 75325 Lego Star Wars Myśliwiec N-1 Mandalorianina Zestaw Klocki
+## 75325 — Myśliwiec N-1 Mandalorianina
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 262.99 zł · EAN: 05702017155517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75325 |
+| Nazwa angielska | The Mandalorian's N-1 Starfighter |
+| Nazwa polska | Myśliwiec N-1 Mandalorianina |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | 2026 |
+| Liczba elementów | 412 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 29 cm |
+| EAN | 5702017155517 |
 
 LEGO Star Wars 75325 Myśliwiec N-1 Mandalorianina
 
@@ -8716,11 +13740,27 @@ Mali budowniczowie mogą przywołać opowieści z Tatooine znane z serialu „St
 - Zabawki konstrukcyjne dla osób w każdym wieku — zestawy LEGO® Star Wars™ pozwalają dzieciom i dorosłym odgrywać klasyczne sceny, wymyślać własne historie lub po prostu prezentować samodzielnie zbudowane modele
 - Najwyższa jakość — klocki i elementy LEGO® spełniają wymagające standardy jakości, dzięki czemu za każdym razem łączą się łatwo i mocno trzymają
 
+**Galeria:**
+
+- 75325-1: https://a.allegroimg.com/original/0597b9/33e1b9914613bc6e16e4149e7827
+
 ---
 
-## 75326 — Zestaw Lego Star Wars – 75326 – Sala Tronowa Boby Fetta
+## 75326 — Klocki LEGO Star Wars 75326 Sala tronowa Boby Fetta
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702017155524 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75326 |
+| Nazwa angielska | Boba Fett's Throne Room |
+| Nazwa polska | Klocki LEGO Star Wars 75326 Sala tronowa Boby Fetta |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 32 cm × gł. 20 cm |
+| EAN | 5702017155524 |
 
 ZESTAW LEGO STAR WARS – 75326 – SALA TRONOWA BOBY FETTA
 
@@ -8758,11 +13798,27 @@ W środku pałacu znajduje się tron Boby Fetta z ukrytą skrytką na broń i be
 
 LEGO Star Wars 75326 to zestaw, który łączy w sobie szczegółowość, funkcjonalność i klimat znany z popularnego serialu. Dzięki licznym minifigurkom, interaktywnym funkcjom oraz rozbudowanej strukturze pałacu oferuje długie godziny kreatywnej zabawy i możliwość odtwarzania kultowych scen lub wymyślania własnych historii. To również świetny element kolekcjonerski, który dobrze prezentuje się na półce fanów Star Wars. Zestaw idealnie sprawdzi się jako prezent urodzinowy, świąteczny lub niespodzianka bez okazji – szczególnie dla miłośników Gwiezdnych Wojen i budowania z klocków LEGO.
 
+**Galeria:**
+
+- 75326-1: https://a.allegroimg.com/original/054111/549345d9452ea53062bb71719a90
+
 ---
 
-## 75327 — Zestaw Lego Star Wars 75327 Hełm Luke'a Skywalkera Czerwony Pięć
+## 75327 — Klocki LEGO Star Wars 75327 Hełm Luke'a Skywalkera Czerwony Pięć
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017155531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75327 |
+| Nazwa angielska | Luke Skywalker (Red Five) Helmet |
+| Nazwa polska | Klocki LEGO Star Wars 75327 Hełm Luke'a Skywalkera Czerwony Pięć |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 675 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm × gł. 13 cm |
+| EAN | 5702017155531 |
 
 ZESTAW LEGO STAR WARS - 75327 - HEŁM LUKE'A SKYWALKERA CZERWONY PIĘĆ
 
@@ -8804,11 +13860,27 @@ Zestaw LEGO 75327 to idealny prezent dla każdego, kto ceni sobie połączenie p
 
 Dzięki przemyślanej konstrukcji, solidnej podstawce i wysokiej estetyce wykonania, model hełmu Luke’a będzie wyjątkową ozdobą biurka, półki lub regału, a sam proces jego składania dostarczy wiele satysfakcji. To nie tylko zabawka, ale również eksponat, który oddaje hołd jednej z najbardziej znanych postaci w historii kina. Jeżeli szukasz prezentu, który łączy kreatywność, nostalgię i wysoką jakość, ten zestaw LEGO to strzał w dziesiątkę.
 
+**Galeria:**
+
+- 75327-1: https://a.allegroimg.com/original/117c46/9fb3e9e0494faa16c3f347b41386
+
 ---
 
-## 75328 — Lego Star Wars 75328 Hełm Mandalorianina
+## 75328 — Hełm Mandalorianina
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017155548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75328 |
+| Nazwa angielska | The Mandalorian Helmet |
+| Nazwa polska | Hełm Mandalorianina |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 584 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm × gł. 12 cm |
+| EAN | 5702017155548, 885454754002 |
 
 **UWAGA ! Proszę o przeczytanie opisu oraz zapoznanie się z ofertą - zdjęcia opakowania produktu są zamieszczone w galerii !**
 
@@ -8840,11 +13912,27 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 
 **Opakowanie może posiadać ślady powstałe podczas magazynowania lub transportu, takie jak zarysowania, otarcia lub wgniecenia. Ślady te dotyczą wyłącznie opakowania i nie wpływają na stan ani funkcjonalność produktu - w przypadku tej oferty zdjęcia stanu faktycznego produktu są zamieszczone w galerii .**
 
+**Galeria:**
+
+- 75328-1: https://a.allegroimg.com/original/05dde7/bbb9cea4489d9551e7c62b78e532
+- 75328-2: https://a.allegroimg.com/original/1192f2/f833aa9446e0afe15056ba29eb2e
+
 ---
 
-## 75329 — Lego Star Wars 75329 Diorama: Szturm na Gwiazdę Śmierci
+## 75329 — Diorama: Szturm na Gwiazdę Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 00097897768984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75329 |
+| Nazwa angielska | Death Star Trench Run Diorama |
+| Nazwa polska | Diorama: Szturm na Gwiazdę Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 665 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 22 cm × gł. 15 cm |
+| EAN | 5702017155555, 97897768984 |
 
 Klocki LEGO Star Wars 75329 - Diorama: Szturm na Gwiazdę Śmierci
 
@@ -8877,11 +13965,28 @@ O zestawie
 - Jakość premium — klocki i elementy LEGO® spełniają wysokie branżowe standardy, dzięki czemu łatwo się łączą i mocno trzymają
 - Gwarancja bezpieczeństwa — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75329-1: https://a.allegroimg.com/original/11718d/3e684f7a41fc917e245e069544b7
+- 75329-2: https://a.allegroimg.com/original/25c5d7/f367b19340419b82b017d14b7144
+
 ---
 
-## 75330 — Zestaw Lego Star Wars 75330 – Diorama: Szkolenie Jedi Na Dagobah
+## 75330 — Klocki LEGO Star Wars 75330 Diorama: Szkolenie Jedi na Dagobah
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702017155562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75330 |
+| Nazwa angielska | Dagobah Jedi Training Diorama |
+| Nazwa polska | Klocki LEGO Star Wars 75330 Diorama: Szkolenie Jedi na Dagobah |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1000 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 29 cm × gł. 17 cm |
+| EAN | 5702017155562, 785984519150 |
 
 ZESTAW LEGO STAR WARS - 75330 – DIORAMA: SZKOLENIE JEDI NA DAGOBAH
 
@@ -8919,11 +14024,28 @@ Model został zaprojektowany jako część serii kolekcjonerskich dioram LEGO St
 
 Zestaw LEGO Star Wars 75330 to doskonały wybór dla każdego fana sagi – zarówno kolekcjonera, jak i osoby, która dopiero zaczyna swoją przygodę z LEGO Star Wars. Dzięki szczegółowemu wykonaniu, dużej liczbie elementów i kultowej scenie zestaw dostarcza wielu godzin satysfakcjonującego budowania oraz pięknie prezentuje się po ukończeniu. To idealny prezent urodzinowy, świąteczny lub po prostu bez okazji dla kogoś, kto kocha „Gwiezdne Wojny”. LEGO od lat tworzy wysokiej jakości zestawy Star Wars, które pozwalają dorosłym fanom i kolekcjonerom wracać do ulubionych momentów sagi i budować je na nowo w formie klocków.
 
+**Galeria:**
+
+- 75330-1: https://a.allegroimg.com/original/257d34/8689a4f74a1ca09b0eb26ffd6ee6
+- 75330-2: https://a.allegroimg.com/original/114a59/2fe5086b4439abcf5424e174b578
+
 ---
 
-## 75331 — Lego Star Wars 75331 Brzeszczot Razor Crest Grogu Unikat! Okazja!
+## 75331 — Brzeszczot
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2679.99 zł · EAN: 05702017155579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75331 |
+| Nazwa angielska | The Razor Crest |
+| Nazwa polska | Brzeszczot |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 50 cm |
+| EAN | 5702017155579 |
 
 **LEGO Star Wars 75331 Brzeszczot UCS**
  
@@ -8956,11 +14078,27 @@ Ten kolekcjonerski zestaw z serii LEGO Star Wars dla dorosłych sprawdzi się
 - Z dalekiej galaktyki do Twojego salonu — kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych zostały zaprojektowane z myślą o osobach, które lubią relaksować się przy wymagających skupienia projektach do samodzielnego wykonania 
 - Jakość to podstawa — klocki LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu łatwo się łączą i mocno trzymają, a złożone z nich modele są solidne
 
+**Galeria:**
+
+- 75331-1: https://a.allegroimg.com/original/050868/d6016d974c53bf36bb314bd76a21
+
 ---
 
-## 75332 — Lego Star Wars 75332 At-st
+## 75332 — AT-ST
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702017155586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75332 |
+| Nazwa angielska | AT-ST |
+| Nazwa polska | AT-ST |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm |
+| EAN | 5702017155586 |
 
 ZESTAW NOWY, ZAPLOMBOWANY.
 
@@ -8998,11 +14136,27 @@ Bezpieczeństwo przede wszystkim — elementy LEGO® są testowane na wszelkie m
 
 Zestaw LEGO Star Wars - AT-ST trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 75332. Zawiera 87 klocków LEGO. W modelu znajdziesz też 3 minifigurki.
 
+**Galeria:**
+
+- 75332-1: https://a.allegroimg.com/original/111d27/193aaaab48ffb82f655b13176108
+
 ---
 
-## 75333 — Lego Star Wars 75333 Myśliwiec Jedi Obi-Wana Kenobiego
+## 75333 — Myśliwiec Jedi Obi-Wana Kenobiego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.31 zł · EAN: 05702017155593 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75333 |
+| Nazwa angielska | Obi-Wan Kenobi's Jedi Starfighter |
+| Nazwa polska | Myśliwiec Jedi Obi-Wana Kenobiego |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 13 cm |
+| EAN | 5702017155593 |
 
 LEGO Star Wars 75333 Myśliwiec Jedi Obi-Wana Kenobiego
  
@@ -9030,11 +14184,27 @@ Do zestawu dołączono instrukcje budowania krok po kroku. Ale sprawdź też int
 - Kreatywna zabawa dla osób w każdym wieku — zestawy LEGO® Star Wars™ pozwalają dzieciom i dorosłym odgrywać słynne sceny, wymyślać własne niepowtarzalne historie lub po prostu prezentować samodzielnie zbudowane modele 
 - Najwyższa jakość — klocki i elementy LEGO® spełniają wymagające standardy jakości, dzięki czemu za każdym razem łączą się łatwo i mocno trzymają
 
+**Galeria:**
+
+- 75333-1: https://a.allegroimg.com/original/25a729/5dae7fba42f5a8b57d032b01f58f
+
 ---
 
-## 75334 — Lego Star Wars 75334 Obi-Wan Kenobi kontra Darth Vader
+## 75334 — Obi-Wan Kenobi kontra Darth Vader
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 217.00 zł · EAN: 05702017155609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75334 |
+| Nazwa angielska | Obi-Wan Kenobi vs. Darth Vader |
+| Nazwa polska | Obi-Wan Kenobi kontra Darth Vader |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 408 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 24 cm × gł. 19 cm |
+| EAN | 5702017155609 |
 
 Dołącz do Obi-Wana Kenobiego na polu bitwy i stocz kolejny pojedynek z Darthem Vaderem. Przeskocz ścianę ognia, skonfrontuj się z Lordem Sithów i unikaj eksplodujących wagoników. Imperialna oficer, Tala Durith, i droid NED-B przybywają w samą porę, by być świadkami tej epickiej bitwy!
 
@@ -9067,42 +14237,27 @@ Kreatywna zabawa bez granic Grupa LEGO już od 1999 roku tworzy modele kultowych
 
 **Opakowanie może posiadać ślady powstałe podczas magazynowania lub transportu, takie jak zarysowania, otarcia lub wgniecenia. Ślady te dotyczą wyłącznie opakowania i nie wpływają na stan ani funkcjonalność produktu. - w przypadku tej aukcji zdjęcia poglądowe stanu faktycznego są dodane do wglądu w galerii.**
 
----
+**Galeria:**
 
-## 75335 — Lego 75335 BD-1
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 844.00 zł · EAN: 05702017155616 · in stock*
-
-Zbuduj z klocków własny ruchomy model BD-1 z gry „Gwiezdne Wojny: Upadły zakon”! Uchwyć realistyczne detale małego pomocnika w stylu LEGO® i obracaj głowę w różne strony, odtwarzając jego urocze pozy. Dodaj płytkę informacyjną z małą figurką LEGO BD-1, by uzupełnić tę wspaniałą ozdobę.
- 
-Uroczy, kolekcjonerski droid BD-1
- 
-Fani pokochają zbudowaną z klocków wersję uroczego droida BD-1 z gry „Gwiezdne Wojny: Upadły zakon”. W zestawie znajduje się też figurka LEGO® BD-1.
- 
-Fani gry „Gwiezdne Wojny: Upadły zakon” mogą przeżyć jeszcze raz epickie przygody podczas budowania modelu droida LEGO® Star Wars™ BD-1 (75335). Ruchomą głowę droida można przechylać w przód, w tył i na boki, by ustawiać go w uroczych pozach. Fani będą zachwyceni innymi realistycznymi szczegółami, na przykład półprzejrzystymi elementami na plecach i głowie, które ukazują nastrój BD-1, a także schowkiem na stymy. Całość uzupełnia tabliczka informacyjna i figurka LEGO BD-1, którą można przyczepić obok tabliczki. Buduj, eksponuj, kolekcjonuj Ta świetna zabawka konstrukcyjna BD-1 to idealny prezent na urodziny lub święta dla fanów gry „Gwiezdne Wojny:
- 
-Upadły zakon” w wieku od 14 lat i dla każdego kolekcjonera modeli LEGO Star Wars Galaktyka pełna kreatywnej zabawy
- 
-Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miejsc i postaci z uniwersum Gwiezdnych Wojen. Szeroka oferta zestawów zachwyci fanów w każdym wieku.
-
- 
-- Model kolekcjonerski LEGO® Star Wars™ BD-1 (75335) – fani będą zachwyceni budowaniem własnego, szczegółowego modelu BD-1, droida z gry „Gwiezdne Wojny: Upadły zakon” 
-- Realistyczne detale – ten zbudowany z klocków model ma ruchome stawy i głowę przechylaną w przód, tył i na boki, a także schowek na stymy 
-- Stworzony do ozdoby – tabliczka informacyjna i figurka BD-1 LEGO®, którą można przyczepić obok figurki, uzupełniają całość 
-- Zestaw kolekcjonerski – droid BD-1 jest częścią serii modeli kolekcjonerskich LEGO® Star Wars™ 
-- Wysokiej jakości prezent dla dzieci w wieku od 14 lat — podaruj ten zestaw konstrukcyjny z 1062 elementami fanowi gry „Gwiezdne Wojny: Upadły zakon” lub fanom LEGO® Star Wars™ na urodziny lub święta 
-
- 
-- Ozdoba każdego pomieszczenia – ten zbudowany z klocków model droida BD-1 ma 31 cm wysokości 
-- Aplikacja wspomagająca budowanie — do zestawu dołączone są instrukcje, a w aplikacji Instrukcje budowania LEGO® konstruktorzy mogą przybliżać i obracać cyfrową wersję powstającego modelu 
-- Budowanie dla osób w każdym wieku – Seria LEGO® Star Wars™ obejmuje zestawy, które pozwalają dzieciom i dorosłym odtwarzać kultowe sceny, a także budować z klocków modele kolekcjonerskie 
-- Rygorystyczne testy zapewniają bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów.
+- 75334-1: https://a.allegroimg.com/original/119e70/05abc05c44fba39516638c1b17ce
 
 ---
 
-## 75336 — Outlet Lego Star Wars 75336 Transporter Inkwizytorów Scythe Statek klocki
+## 75336 — Transporter Inkwizytorów Scythe
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 524.99 zł · EAN: 05702017155623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75336 |
+| Nazwa angielska | Inquisitor Transport Scythe |
+| Nazwa polska | Transporter Inkwizytorów Scythe |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 924 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9,5 cm |
+| EAN | 5702017155623 |
 
 LEGO 75336
 
@@ -9132,11 +14287,27 @@ W zestawie są także minifigurki Bena Kenobiego, Wielkiego Inkwizytora, Revy (T
 - Zabawki konstrukcyjne dla osób w każdym wieku — zestawy LEGO® Star Wars™ pozwalają dzieciom i dorosłym odgrywać kultowe sceny, wymyślać własne historie lub po prostu prezentować samodzielnie zbudowane modele 
 - Kontrola jakości — klocki i elementy LEGO® spełniają wymagające standardy jakości, dzięki czemu są dopasowane, łatwo się łączą i mocno trzymają
 
+**Galeria:**
+
+- 75336-1: https://a.allegroimg.com/original/11e806/6ebe70a04ea0b895d57b08e43e1f
+
 ---
 
-## 75337 — Lego Star Wars 75337 Maszyna krocząca At-te
+## 75337 — Maszyna krocząca AT-TE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 617.89 zł · EAN: 05702017154541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75337 |
+| Nazwa angielska | AT-TE Walker |
+| Nazwa polska | Maszyna krocząca AT-TE |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1082 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 24 cm |
+| EAN | 5702017154541, 5702017155630, 5702017364209 |
 
 Dzień dobry.
 
@@ -9171,11 +14342,29 @@ Sprawdź całą serię LEGO Star Wars i odkryj inne zestawy dla każdego.
 - Gwarancja jakości — Klocki i elementy LEGO® spełniają wymagające standardy jakości, dzięki czemu są dopasowane, łatwo się łączą i mocno trzymają
 - Bezpieczeństwo przede wszystkim — dokładnie testujemy elementy LEGO®, więc mamy pewność, że spełniają one surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75337-1: https://a.allegroimg.com/original/115ba4/1144f7354c769c8a84a6b400242e
+- 75337-2: https://a.allegroimg.com/original/11297e/66393c094879bc0972fb98bc8a4e
+- 75337-3: https://a.allegroimg.com/original/116df5/8dc1f3b94993ad5b5a44a82f3c17
+
 ---
 
-## 75338 — Lego 75338 Star Wars Zasadzka na Ferrix
+## 75338 — LEGO Star Wars Zasadzka na Ferrix 75338
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 373.00 zł · EAN: 05702017189635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75338 |
+| Nazwa angielska | Ambush on Ferrix |
+| Nazwa polska | LEGO Star Wars Zasadzka na Ferrix 75338 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 679 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm |
+| EAN | 5702017189635 |
 
 Zapraszam do zakupu zestawu Lego z serii Star Wars:
 
@@ -9209,11 +14398,27 @@ Już od 1999 roku grupa LEGO tworzy własne wersje kultowych statków kosmicznyc
 - Zestawy dla osób w każdym wieku — Zestawy LEGO® Star Wars™ pozwalają dzieciom i dorosłym odgrywać słynne sceny, wymyślać własne niepowtarzalne historie lub po prostu prezentować samodzielnie zbudowane modele;
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 75338-1: https://a.allegroimg.com/original/050d7c/44ec037740479f279f935596ec15
+
 ---
 
-## 75339 — Lego 75339 Star Wars Diorama: Zgniatarka odpadów na Gwieździe Śmierci
+## 75339 — Diorama: Zgniatarka odpadów na Gwieździe Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 445.89 zł · EAN: 05702017189642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75339 |
+| Nazwa angielska | Death Star Trash Compactor Diorama |
+| Nazwa polska | Diorama: Zgniatarka odpadów na Gwieździe Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 802 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 22 cm × gł. 15 cm |
+| EAN | 5702017189642 |
 
 Klocki LEGO Star Wars 75339 - Diorama: Zgniatarka odpadów na Gwieździe Śmierci
 
@@ -9255,11 +14460,27 @@ Zestaw LEGO Star Wars - Diorama: Zgniatarka odpadów na Gwieździe Śmierci tr
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75339-1: https://a.allegroimg.com/original/1119df/d1f7b41d4a7a8f3e4d158efb7108
+
 ---
 
-## 75341 — Klocki Lego Star Wars Zestaw Śmigacz Luke`a Skywalkera 75341
+## 75341 — 75341
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702017155647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75341 |
+| Nazwa angielska | Luke Skywalker's Landspeeder |
+| Nazwa polska | 75341 |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1890 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 30 cm |
+| EAN | 5702017155647 |
 
 Daj się przenieść na pustynną planetę Tatooine! Zabierze Cię tam pierwszy w historii LEGO® Star Wars™ śmigacz Luke’a Skywalkera (75341) z serii Ultimate Collector Series. Nowe techniki budowania i elementy LEGO opracowane specjalnie do tego modelu umożliwiają odtworzenie kultowego pojazdu z zachowaniem najdrobniejszych detali. Od owiewki kokpitu po turbinowy silnik z brakującą osłoną — wszystko jest w nim takie, jak w filmie „Gwiezdne Wojny: Nowa nadzieja”.
 
@@ -9283,11 +14504,27 @@ Pomysł na prezent — zestaw liczący 1890 elementów będzie doskonałym preze
 
 Doskonała ozdoba — pojazd z Gwiezdnych Wojen™ do zbudowania z klocków ma ok. 10 cm wysokości, 49 cm długości i 30 cm szerokości
 
+**Galeria:**
+
+- 75341-1: https://a.allegroimg.com/original/058f9f/da97bc454718ba4e0b76fb50d66b
+
 ---
 
-## 75342 — Lego 75342 Star Wars Czołg bojowy Republiki
+## 75342 — Czołg bojowy Republiki
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 273.50 zł · EAN: 05702017189659 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75342 |
+| Nazwa angielska | Republic Fighter Tank |
+| Nazwa polska | Czołg bojowy Republiki |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 16 cm |
+| EAN | 5702017189659 |
 
 LEGO® 75342 Czołg bojowy Republiki™
 
@@ -9311,11 +14548,27 @@ Grupa LEGO już od 1999 roku tworzy modele kultowych statków kosmicznych, pojaz
 - Ciekawe zabawki dla fanów w każdym wieku — zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie kultowych scen, odgrywanie własnych historii lub po prostu eksponowanie modeli zbudowanych z klocków 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów, aby można było mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75342-1: https://a.allegroimg.com/original/119fe6/47b5e56246178fc0efccc2d228b2
+
 ---
 
-## 75343 — Lego Star Wars 75343 Hełm mrocznego szturmowca
+## 75343 — Hełm mrocznego szturmowca
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017189666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75343 |
+| Nazwa angielska | Dark Trooper Helmet |
+| Nazwa polska | Hełm mrocznego szturmowca |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 693 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm × gł. 15 cm |
+| EAN | 5702017189666 |
 
 Przejdź na ciemną stronę Mocy, budując zestaw LEGO® Star Wars™ Hełm mrocznego szturmowca™ (75343) dla dorosłych. Składanie wyrazistych konturów hełmu z drugiego sezonu serialu „Star Wars: The Mandalorian” to wspaniały sposób na odpoczynek. Hełm ma złowieszcze oczy zbudowane z przezroczystych czerwonych klocków LEGO, a na złożonej z klocków podstawce przechyla się odrobinę do przodu, co podkreśla jego realistyczny i przerażający wygląd.
  
@@ -9341,11 +14594,27 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 - Wysoka jakość — elementy LEGO® spełniają wymogi najwyższych standardów branżowych, dzięki czemu zawsze do siebie pasują i mocno się trzymają, co pozwala tworzyć solidne modele 
 - Bezpieczeństwo przede wszystkim — klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75343-1: https://a.allegroimg.com/original/0546c3/a7f7fcdf4797b31e4da310c081ec
+
 ---
 
-## 75345 — Lego Star Wars 75345 Zestaw bitewny żołnierze-klony z 501 legionu
+## 75345 — Zestaw bitewny — żołnierze-klony z 501. legionu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 62.92 zł · EAN: 05702017421292 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75345 |
+| Nazwa angielska | 501st Clone Troopers Battle Pack |
+| Nazwa polska | Zestaw bitewny — żołnierze-klony z 501. legionu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm × gł. 13 cm |
+| EAN | 5702016700091, 5702017421292 |
 
 LEGO Star Wars 75345 Zestaw bitewny żołnierze-klony z 501. legionu
  
@@ -9377,11 +14646,28 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 - Zabawki konstrukcyjne LEGO® Star Wars™ dla każdego – zestawy LEGO Star Wars pozwalają dzieciom i dorosłym fanom odgrywać słynne sceny, wymyślać nowe historie lub po prostu prezentować samodzielnie zbudowane modele 
 - Wysoka jakość – elementy LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu łatwo się łączą i mocno trzymają, a złożone z nich modele są solidne
 
+**Galeria:**
+
+- 75345-1: https://a.allegroimg.com/original/11ac63/e6a3c2ab4712a26603e96883b27f
+- 75345-2: https://a.allegroimg.com/original/111ada/508c81454275a7a311a9d8cbc017
+
 ---
 
-## 75346 — Lego Star Wars 75346 Piracki myśliwiec Pudełko zagniecione
+## 75346 — Piracki myśliwiec
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702017421308 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75346 |
+| Nazwa angielska | Pirate Snub Fighter |
+| Nazwa polska | Piracki myśliwiec |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 16 cm |
+| EAN | 5702017421308, 57020319071308 |
 
 LEGO Star Wars 75346 Piracki myśliwiec
 
@@ -9410,11 +14696,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 
 **Opakowanie może posiadać ślady powstałe podczas magazynowania lub transportu, takie jak zarysowania, otarcia lub wgniecenia. Ślady te dotyczą wyłącznie opakowania i nie wpływają na stan ani funkcjonalność produktu. - w przypadku tej aukcji zdjęcia poglądowe stanu faktycznego są dodane do wglądu w galerii.**
 
+**Galeria:**
+
+- 75346-1: https://a.allegroimg.com/original/291217/56dcba534871bb581d2d972ebbae
+
 ---
 
-## 75347 — Lego Star Wars Bombowiec Tie 75347
+## 75347 — Bombowiec TIE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 247.90 zł · EAN: 05702017421322 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75347 |
+| Nazwa angielska | TIE Bomber |
+| Nazwa polska | Bombowiec TIE |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | 2026 |
+| Liczba elementów | 625 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm |
+| EAN | 5702017421322 |
 
 BOMBOWIEC TIE™
 
@@ -9433,11 +14735,26 @@ Dołącz do Dartha Vadera i wiceadmirał Sloane, aby dowodzić misją bombowców
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 75347-1: https://a.allegroimg.com/original/1110e3/863f827b458fa316f5d9cbc4d019
+
 ---
 
-## 75348 — Lego Star Wars 75348 Mandaloriański myśliwiec kontra Tie Interceptor
+## 75348 — Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 418.99 zł · EAN: 05702017421339 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75348 |
+| Nazwa angielska | Mandalorian Fang Fighter vs. TIE Interceptor |
+| Nazwa polska | Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 957 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421339 |
 
 Klocki LEGO® 75348 Star Wars™ Mandaloriański myśliwiec Fang Fighter kontra TIE Interceptor™
 
@@ -9460,11 +14777,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 9 lat oraz fanów Star Wars™: The Mandalorian, którzy chcą budować modele statków i odgrywać sceny bitewne z udziałem mandaloriańskich oraz imperialnych pojazdów.
 
+**Galeria:**
+
+- 75348-1: https://a.allegroimg.com/original/114514/e75b134a4947a9cbc7e05e9e248b
+
 ---
 
-## 75349 — Lego Star Wars Hełm Kapitana Rexa 75349
+## 75349 — Hełm kapitana Rexa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 264.99 zł · EAN: 05702017421346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75349 |
+| Nazwa angielska | Captain Rex Helmet |
+| Nazwa polska | Hełm kapitana Rexa |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 854 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm × gł. 13 cm |
+| EAN | 5702017421346 |
 
 **LEGO Star Wars Hełm kapitana Rexa 75349**
 
@@ -9498,11 +14831,27 @@ W pudełku oraz w aplikacji LEGO Builder znajdziesz proste instrukcje, które pr
 
 • Z odległej galaktyki wprost do Twojego salonu – wysokiej jakości zestawy LEGO® Star Wars™ dla dorosłych powstały z myślą o wymagających hobbystach, takich jak Ty, zainteresowanych kreatywnymi projektami do samodzielnego wykonania
 
+**Galeria:**
+
+- 75349-1: https://a.allegroimg.com/original/114001/7f4b85c24b019295a8537f88a0c6
+
 ---
 
-## 75350 — Lego 75350 Star Wars Hełm dowódcy klonów Cody’ego
+## 75350 — Hełm dowódcy klonów Cody’ego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017421353 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75350 |
+| Nazwa angielska | Clone Commander Cody Helmet |
+| Nazwa polska | Hełm dowódcy klonów Cody’ego |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 766 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm × gł. 14 cm |
+| EAN | 5702017421353 |
 
 LEGO 75350 Star Wars - Hełm dowódcy klonów Cody’ego
 
@@ -9528,11 +14877,27 @@ Wszystko zaczęło się dawno temu, w odległej galaktyce… Teraz saga toczy si
 
 - Instrukcje budowania krok po kroku – w pudełku i w aplikacji LEGO® Builder znajdziesz ilustrowane instrukcje budowania
 
+**Galeria:**
+
+- 75350-1: https://a.allegroimg.com/original/451a6b/59902c094a41a96f3447eba3edc6
+
 ---
 
-## 75351 — Lego Star Wars 75351 Hełm księżniczki Lei
+## 75351 — LEGO Star Wars 75351 Hełm księżniczki Lei
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 237.44 zł · EAN: 05702017433509 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75351 |
+| Nazwa angielska | Princess Leia (Boushh) Helmet |
+| Nazwa polska | LEGO Star Wars 75351 Hełm księżniczki Lei |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 670 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 11 cm × gł. 14 cm |
+| EAN | 5702017433509 |
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -9545,11 +14910,27 @@ Ten kolekcjonerski zestaw z okazji 40. rocznicy premiery filmu „Gwiezdne Wojny
  
 - Kompaktowy model do zbudowania robi wrażenie – replika hełmu księżniczki Lei (Boushh) ma 17 cm wysokości, 11 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 75351-1: https://a.allegroimg.com/original/0580f5/b0f962b448e7a2b2af6ebc1ca39f
+
 ---
 
-## 75352 — Lego 75352 Star Wars Diorama: Sala tronowa Imperat
+## 75352 — LEGO STAR WARS 75352 DIORAMA SALA TRONOWA IMPERATORA
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 421.79 zł · EAN: 05702017421360 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75352 |
+| Nazwa angielska | Emperor's Throne Room Diorama |
+| Nazwa polska | LEGO STAR WARS 75352 DIORAMA SALA TRONOWA IMPERATORA |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 807 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 21 cm × gł. 17 cm |
+| EAN | 5702017421360 |
 
 Klocki LEGO Star Wars 75352 - Diorama: Sala tronowa Imperatora
 
@@ -9570,11 +14951,27 @@ LEGO BuilderDzięki aplikacji LEGO Builder możesz łatwo uporządkować swoje i
 - Gwarancja jakości — już od 1958 roku elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno trzymają.
 - Bezpieczeństwo to podstawa — klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75352-1: https://a.allegroimg.com/original/112359/5507c7ec4ea8ac9d020d1bf482ec
+
 ---
 
-## 75353 — Zestaw Lego Star Wars 75353 Diorama: Pościg Na Ścigaczu Przez Endor
+## 75353 — Klocki LEGO Star Wars 75353 Diorama: Pościg na ścigaczu przez Endor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.85 zł · EAN: 05702017421377 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75353 |
+| Nazwa angielska | Endor Speeder Chase Diorama |
+| Nazwa polska | Klocki LEGO Star Wars 75353 Diorama: Pościg na ścigaczu przez Endor |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 608 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 28 cm × gł. 18 cm |
+| EAN | 5702017421377 |
 
 ZESTAW LEGO STAR WARS - 75353 - DIORAMA: POŚCIG NA ŚCIGACZU PRZEZ ENDOR
 
@@ -9616,11 +15013,27 @@ Diorama została stworzona przede wszystkim do eksponowania, ale samo budowanie 
 
 Zestaw LEGO Star Wars 75353 to doskonały wybór dla dorosłego fana Gwiezdnych Wojen, kolekcjonera LEGO lub osoby, która lubi budowanie wyjątkowych modeli inspirowanych kultowymi scenami filmowymi. Trzy charakterystyczne minifigurki, dynamicznie ustawione ścigacze, leśna sceneria Endoru oraz pamiątkowe tabliczki sprawiają, że gotowa diorama przyciąga wzrok i świetnie prezentuje się na półce. To zestaw, który daje satysfakcję zarówno podczas budowania, jak i późniejszego podziwiania gotowego modelu. Będzie świetnym prezentem urodzinowym lub bez okazji dla fana Gwiezdnych Wojen, a także wyjątkowym upominkiem dla samego siebie. Jeśli szukasz kolekcjonerskiego zestawu, który łączy filmową nostalgię, efektowny wygląd i przyjemność budowania, LEGO Star Wars 75353 będzie bardzo dobrym wyborem.
 
+**Galeria:**
+
+- 75353-1: https://a.allegroimg.com/original/2932cb/992268974c5ab16a7d1c1b3f1127
+
 ---
 
-## 75354 — Lego 75354 Star Wars Kanonierka Gwardii Coruscańskiej Pancernie Pakowane
+## 75354 — Kanonierka Gwardii Coruscańskiej
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 759.31 zł · EAN: 05702017433806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75354 |
+| Nazwa angielska | Coruscant Guard Gunship |
+| Nazwa polska | Kanonierka Gwardii Coruscańskiej |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1083 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017433806 |
 
 LEGO 75354 Star Wars - Kanonierka Gwardii Coruscańskiej
 
@@ -9634,11 +15047,27 @@ Ilość klocków: **1083**
 
 **Gwarantuje pancerne i bezpieczne zapakowanie oraz szybką wysyłkę.**
 
+**Galeria:**
+
+- 75354-1: https://a.allegroimg.com/original/1134a4/c4d2214e4ed18c0281c05b1d0d97
+
 ---
 
-## 75355 — Klocki Lego Star Wars Zestaw Myśliwiec X-Wing 75355
+## 75355 — Myśliwiec X-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017421384 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75355 |
+| Nazwa angielska | X-Wing Starfighter |
+| Nazwa polska | Myśliwiec X-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1949 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 44 cm |
+| EAN | 5702017421384 |
 
 LEGO Star Wars 75355 - Myśliwiec X-Wing
 
@@ -9651,11 +15080,27 @@ LEGO Star Wars 75355 - Myśliwiec X-Wing
 - Model stanowiący wyzwanie — model X-Winga LEGO Star Wars ma 27 cm wysokości, 55 cm długości i 44 cm szerokości 
 - Z dalekiej galaktyki do Twojego salonu — kolekcjonerskie zestawy LEGO Star Wars dla dorosłych zostały zaprojektowane z myślą o osobach takich jak Ty, które lubią relaksować się przy rozwijających uważność projektach do samodzielnego wykonania.
 
+**Galeria:**
+
+- 75355-1: https://a.allegroimg.com/original/29e5cb/58706bb043f69ba222b3286b90bd
+
 ---
 
-## 75356 — Lego Star Wars Gwiezdny superniszczyciel Executor 75356
+## 75356 — Gwiezdny superniszczyciel typu Executor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017433813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75356 |
+| Nazwa angielska | Executor Super Star Destroyer |
+| Nazwa polska | Gwiezdny superniszczyciel typu Executor |
+| Seria | Star Wars |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | 2026 |
+| Liczba elementów | 630 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 18 cm |
+| EAN | 5702017433813 |
 
 LEGO Star Wars 76356
  
@@ -9679,11 +15124,27 @@ Gwiezdny superniszczyciel typu Executor
 - Wciągające, kreatywne budowanie — gwiezdny superniszczyciel typu Executor 
 - ma 14 cm wysokości, 43 cm długości i 18 cm szerokości
 
+**Galeria:**
+
+- 75356-1: https://a.allegroimg.com/original/29069a/10ef7e57407787657e31980c95fe
+
 ---
 
-## 75357 — Lego Star Wars 75357 Ahsoka Duch i Upiór II Gwiezdne Wojny
+## 75357 — Duch i Upiór II
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 795.00 zł · EAN: 05702017433820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75357 |
+| Nazwa angielska | Ghost & Phantom II |
+| Nazwa polska | Duch i Upiór II |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1394 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 26 cm |
+| EAN | 5702017433820 |
 
 LEGO 75357 Star Wars Duch i Upiór II, Zestaw z 2 Pojazdami Ahsoki, Zabawki Do Zbudowania Dla Fana Gwiezdnych Wojen z 5 postaciami, w tym figurką droida Choppera, Pomysł na Prezent dla 10-latka
  
@@ -9698,11 +15159,26 @@ Producent: LEGO
 - Buduj i baw się — Duch ma 12 cm wysokości, 34 cm długości i 26 cm szerokości 
 - Intuicyjne instrukcje — aplikacja LEGO Builder umożliwia powiększanie i obracanie modeli w 3D podczas budowania, a także śledzenie postępów i zapisywanie zestawów
 
+**Galeria:**
+
+- 75357-1: https://a.allegroimg.com/original/05800f/8a0fcf0b42a385977e12f244554a
+
 ---
 
-## 75358 — Lego Star Wars 75358 Świątynia Jedi Na Tenoo 4+ Nowy
+## 75358 — Świątynia Jedi w Tenoo
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 92.00 zł · EAN: 05702017421391 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75358 |
+| Nazwa angielska | Tenoo Jedi Temple |
+| Nazwa polska | Świątynia Jedi w Tenoo |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702017421391 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -9739,11 +15215,27 @@ Zabawki konstrukcyjne LEGO Star Wars dla czterolatków i starszych dzieci obe
 - Wysoka jakość — elementy LEGO® spełniają wymogi rygorystycznych standardów branżowych, dzięki czemu zawsze do siebie pasują i mocno się trzymają, co pozwala tworzyć solidne modele
 - Gwarancja bezpieczeństwa — dzięki dogłębnym testom elementów LEGO® mamy pewność, że spełniają one surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75358-1: https://a.allegroimg.com/original/05197f/aa4f2b1d471f866ebe2d7b8bfa4c
+
 ---
 
-## 75359 — Lego 75359 Star Wars Zestaw bitewny 332. oddziałem
+## 75359 — Zestaw bojowy Clone Trooper Ahsoka zawierający 332 sztuki. legion
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 108.60 zł · EAN: 05702017421407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75359 |
+| Nazwa angielska | 332nd Ahsoka's Clone Trooper Battle Pack |
+| Nazwa polska | Zestaw bojowy Clone Trooper Ahsoka zawierający 332 sztuki. legion |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 8 cm |
+| EAN | 5702017421407 |
 
 Klocki LEGO Star Wars 75359 - Zestaw bitewny z 332. oddziałem klonów Ahsoki
 
@@ -9763,11 +15255,27 @@ Galaktyka pełna zabawyOd 1999 roku Grupa LEGO odtwarza kultowe statki kosmiczn
 - Wysoka jakość — elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu łatwo się ze sobą łączą i mocno trzymają
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75359-1: https://a.allegroimg.com/original/119ce5/dc1a9f5f4b97b2e05d671db4469f
+
 ---
 
-## 75360 — Lego Star Wars 75360 Jedi Starfighter Yody Myśliwiec Yody Starfighter Nowe
+## 75360 — Wojownik Jedi Yody
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 229.90 zł · EAN: 05702017421414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75360 |
+| Nazwa angielska | Yoda's Jedi Starfighter |
+| Nazwa polska | Wojownik Jedi Yody |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421414 |
 
 LEGO STAR WARS
 
@@ -9787,11 +15295,27 @@ Seria: Star Wars
 
 Nowy Oryginalny Zestaw Klocków LEGO STAR WARS
 
+**Galeria:**
+
+- 75360-1: https://a.allegroimg.com/original/11f6b8/de86ca494b8ea856bb866343f776
+
 ---
 
-## 75361 — Lego Star Wars 75361 Pajęczy czołg
+## 75361 — Pajęczy czołg
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017421421 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75361 |
+| Nazwa angielska | Spider Tank |
+| Nazwa polska | Pajęczy czołg |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 526 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421421 |
 
 LEGO Star Wars Pajęczy czołg 75361
 
@@ -9872,11 +15396,27 @@ Model pajęczego czołgu ma 20 cm długości. Spraw, by budowanie było jeszcze 
 - **Zasilanie:** Nie dotyczy 
 - **Bateria w zestawie:** Nie
 
+**Galeria:**
+
+- 75361-1: https://a.allegroimg.com/original/051c26/c7f127c245579ca3cb16ef52040a
+
 ---
 
-## 75362 — Lego Star Wars 75362 Prom kosmiczny Jedi T-6 Ahsoki Tano
+## 75362 — Prom kosmiczny Jedi T-6 Ahsoki Tano
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702017421438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75362 |
+| Nazwa angielska | Ahsoka Tano's T-6 Jedi Shuttle |
+| Nazwa polska | Prom kosmiczny Jedi T-6 Ahsoki Tano |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421438 |
 
 LEGO Star Wars - 75362 - Prom kosmiczny Jedi T-6 Ahsoki Tano
  
@@ -9893,11 +15433,27 @@ LEGO Star Wars - 75362 - Prom kosmiczny Jedi T-6 Ahsoki Tano - informacje dodatk
 - Ilość elementów: 601 
 - Wiek dziecka: + 9 lat
 
+**Galeria:**
+
+- 75362-1: https://a.allegroimg.com/original/0547d3/c36346db48b1a30b38d990e51437
+
 ---
 
-## 75363 — Lego Star Wars Myśliwiec N-1 Mandalorianina w Mikroskali 75363 i Ebook 4w1
+## 75363 — Myśliwiec N-1 Mandalorianina w mikroskali
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017421445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75363 |
+| Nazwa angielska | The Mandalorian N-1 Starfighter Microfighter |
+| Nazwa polska | Myśliwiec N-1 Mandalorianina w mikroskali |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm |
+| EAN | 5702017421445 |
 
 Lego Star Wars Myśliwiec N-1 Mandalorianina w Mikroskali 75363 i Ebook 4w1
 
@@ -9988,11 +15544,26 @@ Ten szybki do zbudowania model myśliwca N-1 z klocków LEGO w mikroskali ma otw
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017421445
 
+**Galeria:**
+
+- 75363-1: https://a.allegroimg.com/original/11ac29/18d5a63345efa9fb445825ad3c0a
+
 ---
 
-## 75364 — Lego 75364 Star Wars E-Wing Nowej Republiki kontra Myśliwiec Shin Hati
+## 75364 — Star Wars 75364 Nowa Republika Myśliwiec e-wing vs. Myśliwiec Shin Hati
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702017421452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75364 |
+| Nazwa angielska | New Republic E-Wing vs. Shin Hati’s Starfighter |
+| Nazwa polska | Star Wars 75364 Nowa Republika Myśliwiec e-wing vs. Myśliwiec Shin Hati |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1056 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 24 cm |
+| EAN | 5702017421452 |
 
 LEGO Star Wars 75364 Star Wars E-Wing kontra Myśliwiec
  
@@ -10020,11 +15591,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 - Jakość premium — elementy LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu łatwo się łączą i mocno trzymają, a złożone z nich modele są solidne 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 75364-1: https://a.allegroimg.com/original/059947/d7dc55304a32900ff0a45f8c7ff8
+
 ---
 
-## 75365 — Klocki Lego Star Wars Zestaw Baza Rebeliantów na Yavin 4 75365
+## 75365 — Baza rebeliantów na Yavin 4
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 789.00 zł · EAN: 05702017421469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75365 |
+| Nazwa angielska | Yavin 4 Rebel Base |
+| Nazwa polska | Baza rebeliantów na Yavin 4 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1066 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 49 cm × gł. 20 cm |
+| EAN | 5702017421469 |
 
 Lego STAR WARS 75365 Baza Rebeliantów na Yavin 4
  
@@ -10082,11 +15669,27 @@ Dzięki temu zawsze do siebie pasują i mocno się trzymają
  
 • Elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75365-1: https://a.allegroimg.com/original/05d9ab/010fa7964f2d951cde5893425434
+
 ---
 
-## 75367 — Lego Klocki Star Wars 75367 Gwiezdny Niszczyciel typu Venator
+## 75367 — Krążownik typu Venator
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2328.00 zł · EAN: 05702017421476 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75367 |
+| Nazwa angielska | Venator-Class Republic Attack Cruiser |
+| Nazwa polska | Krążownik typu Venator |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 5374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 54 cm |
+| EAN | 5702017421476 |
 
 LEGO® 75367 Star Wars - Gwiezdny Niszczyciel typu Venator
  
@@ -10128,11 +15731,27 @@ Ten kolekcjonerski zestaw LEGO Star Wars dla dorosłych będzie świetnym pre
  
 - Z dalekiej galaktyki do Twojego salonu — kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych zostały zaprojektowane z myślą o osobach, które** lubią relaksować się przy wymagających skupienia projektach do samodzielnego wykonania**
 
+**Galeria:**
+
+- 75367-1: https://a.allegroimg.com/original/29ee66/bf386afc490eaae94f602d687bfe
+
 ---
 
-## 75368 — Lego Star Wars 75368 Mech Lorda Vadera
+## 75368 — Star Wars 75368 Darth Vader Mech
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702017462820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75368 |
+| Nazwa angielska | Darth Vader Mech |
+| Nazwa polska | Star Wars 75368 Darth Vader Mech |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017462820 |
 
 NOWE KLOCKI LEGO Z SERII STAR WARS
 
@@ -10190,11 +15809,27 @@ Poznaj ciemną stronę Mocy dzięki temu niesamowitemu mechowi Dartha Vadera! Ws
  
 • Elementy LEGO spełniają wysokie światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75368-1: https://a.allegroimg.com/original/05b111/dfeacd924dd99d5c681b64ad489f
+
 ---
 
-## 75369 — Lego Star Wars 75369 Mech Boby Fetta
+## 75369 — Star Wars 75369 Kostium robota Boba Fett
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017462837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75369 |
+| Nazwa angielska | Boba Fett Mech |
+| Nazwa polska | Star Wars 75369 Kostium robota Boba Fett |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017462837, 5702017468846 |
 
 LEGO Star Wars 75369 Mech Boby Fetta
 
@@ -10250,11 +15885,28 @@ Ten niesamowity zestaw do zbudowania należy do serii mechów LEGO Star Wars, kt
 
 • Elementy LEGO spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75369-1: https://a.allegroimg.com/original/1126cc/9c70324d495fb3d845b095e58de0
+- 75369-2: https://a.allegroimg.com/original/11b5c0/0c683e494e569c70351f0e9db8c5
+
 ---
 
-## 75370 — Lego Star Wars 75370 Mech Szturmowca
+## 75370 — LEGO Star Wars 75370 Mech Szturmowca
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 114.70 zł · EAN: 05702017462844 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75370 |
+| Nazwa angielska | Stormtrooper Mech |
+| Nazwa polska | LEGO Star Wars 75370 Mech Szturmowca |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017462844, 5702017529233 |
 
 Lego STAR WARS 75370 Mech Szturmowca
 
@@ -10275,11 +15927,27 @@ Kolekcjonerska zabawka LEGO Star WarsTen niesamowity mech do zbudowania należy
 - Wysoka jakość -- klocki LEGO(R) spełniają wysokie branżowe standardy jakości, dzięki czemu mocno się trzymają
 - Bezpieczeństwo przede wszystkim -- elementy LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75370-1: https://a.allegroimg.com/original/111408/7d9a9c4f49169eb71f41e1ec85c5
+- 75370-2: https://a.allegroimg.com/original/110bec/49acfdc1452f83c44309b330ed15
+
 ---
 
-## 75371 — Nowe! Lego 75371 Star Wars Chewbacca
+## 75371 — Chewbacca
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 683.01 zł · EAN: 05702017462851 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75371 |
+| Nazwa angielska | Chewbacca |
+| Nazwa polska | Chewbacca |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2319 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017462851 |
 
 LEGO Star Wars 75371 Chewbacca
 
@@ -10302,11 +15970,27 @@ Wszystko zaczęło się dawno temu w odległej galaktyce. Teraz saga trwa dalej 
 - Instrukcje krok po kroku — ilustrowane instrukcje znajdują się w pudełku i w aplikacji LEGO® Builder
 - Z odległej galaktyki wprost do Twojego salonu — kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych powstały z myślą o wymagających hobbystach, takich jak Ty, zainteresowanych kreatywnymi projektami, przy których można odpocząć
 
+**Galeria:**
+
+- 75371-1: https://a.allegroimg.com/original/053248/70f07d6d4a00a2749b276fcf46da
+
 ---
 
-## 75372 — Lego Star Wars 75372 Zestaw bitewny z żołnierzem armii klonów i droidem
+## 75372 — Zestaw bitewny z żołnierzem armii klonów i droidem bojowym
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 79.66 zł · EAN: 05702017584317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75372 |
+| Nazwa angielska | Clone Trooper & Battle Droid Battle Pack |
+| Nazwa polska | Zestaw bitewny z żołnierzem armii klonów i droidem bojowym |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 13 cm |
+| EAN | 5702017584317, 5702017968636 |
 
 LEGO® Star Wars™ Zestaw Bitewny: Odtwórz Wojny Klonów!
  
@@ -10359,11 +16043,28 @@ Idealny Prezent i Kompaktowe Wymiary
  
 Zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom odtwarzanie kultowych scen, wymyślanie własnych przygód lub po prostu eksponowanie gotowych modeli.
 
+**Galeria:**
+
+- 75372-1: https://a.allegroimg.com/original/2950ed/bf4f09b4452b985e3071190fc1c0
+- 75372-2: https://a.allegroimg.com/original/11aeb3/7b0f5f3e4cdd9178c501767a7707
+
 ---
 
-## 75373 — Lego Star Wars 75373 Pakiet bitewny Mandalorian Ambush 75373 Star Wars
+## 75373 — Zasadzka na Mandalorze — zestaw bitewny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 56.24 zł · EAN: 05702017584324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75373 |
+| Nazwa angielska | Ambush on Mandalore Battle Pack |
+| Nazwa polska | Zasadzka na Mandalorze — zestaw bitewny |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 17 cm × gł. 8 cm |
+| EAN | 5702017584324 |
 
 LEGO Star Wars 75373 Pakiet bitewny Mandalorian Ambush 75373 Star Wars
 
@@ -10423,11 +16124,26 @@ Specyfikacja zestawu:
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017584324
 
+**Galeria:**
+
+- 75373-1: https://a.allegroimg.com/original/11e322/5cfbc711493192b6512caa303b76
+
 ---
 
-## 75374 — Lego Star Wars 10+ Duży Statek The Onyx Cinder 75374
+## 75374 — LEGO STAR WARS 75374 The Onyx Cinder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 448.00 zł · EAN: 05702017584331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75374 |
+| Nazwa angielska | The Onyx Cinder |
+| Nazwa polska | LEGO STAR WARS 75374 The Onyx Cinder |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 27 cm |
+| EAN | 5702017584331 |
 
 LEGO® STAR WARS
 
@@ -10458,115 +16174,26 @@ Onyx Cinder
 
 **Kliknij "Dodaj do koszyka" i podaruj swojemu dziecku niezapomniany prezent!** Zestaw LEGO® Star Wars™ Onyx Cinder to idealny wybór dla każdego fana Gwiezdnych Wojen, który marzy o własnym statku kosmicznym i ekscytujących przygodach w galaktyce. Zapewnij swojemu dziecku godziny wspaniałej rozrywki i pozwól mu rozwijać swoje pasje!
 
----
+**Galeria:**
 
-## 75375 — 75375 Lego Star Wars Sokół Millennium
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 451.89 zł · EAN: 00673419389471 · in stock*
-
-✨ 75375 - LEGO STAR WARS - SOKÓŁ MILLENNIUM ✨
-
-{desc/100/}
-
-⭐75375 - LEGO Star Wars - Sokół Millennium⭐
-
-{desc/50/}
-
-{desc/50/}
-
-LEGO Star Wars - Sokół Millennium
-
-✅Klasyczna saga **Gwiezdnych Wojen™** może trwać w najlepsze w Twoim salonie dzięki kolekcjonerskiemu **modelowi** statku kosmicznego LEGO® **Star Wars** Sokół **Millennium** (75375).
-
-✅Skup się jak Jedi i **odtwórz** autentyczne szczegóły tego kultowego statku z filmu Gwiezdne Wojny: **Nowa nadzieja.**
-
-✅Zaprezentuj **swoje** dzieło na **podstawce,** która pokazuje Sokoła Millennium w locie z dynamicznej **perspektywy.**
-
-✅Dodaj **tabliczkę** i klocek z **okazji** 25. rocznicy LEGO Star Wars, aby stworzyć dekorację, która z pewnością **wzbudzi** nostalgiczne wspomnienia.
-
-✅Ten pojazd z **Gwiezdnych Wojen** należy do kolekcji średniej wielkości statków kosmicznych LEGO **Star** **Wars.**
-
-✅To świetny upominek dla **Ciebie** lub **prezent** dla innych fanów Gwiezdnych Wojen i **kolekcjonerów pamiątek.**
-
-{desc/50/}
-
-Buduj i postaw na półce
-
-**➡️Statek kosmiczny** LEGO® Star Wars™ Sokół Millennium ma **13 cm** wysokości, **24 cm** długości i **19 cm**szerokości
-
-Zbuduj statek LEGO® Star Wars™
-
-✅Dzięki aplikacji LEGO Builder **możesz** budować w **3D,** śledzić swoje postępy, zapisywać wszystkie **zestawy** w jednym miejscu, a nawet budować **razem** z innymi
-
-Z odległej galaktyki do Twojego salonu
-
-✅Kolekcjonerskie zestawy **LEGO® Star Wars™** dla dorosłych zostały zaprojektowane z myślą o osobach, które **lubią relaksować** się przy wymagających skupienia **projektach** do samodzielnego wykonania
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
-
-Część kolekcji statków kosmicznych LEGO® Star Wars™
-
-➡️Ten zestaw należy do serii **kolekcjonerskich** statków kosmicznych z **Gwiezdnych** Wojen do **zbudowania** w średniej skali
-
-{desc/50/}
-
-Idealna ozdoba
-
-✅Podstawka do **zbudowania** ma tabliczkę i klocek z okazji **25.** rocznicy **LEGO® Star Wars™.**
-
-➡️Model został **zaprojektowany** tak, aby eksponować **Sokoła Millennium** pod **dynamicznym** kątem
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
-
-Realistyczne szczegóły pojazdu z Gwiezdnych Wojen™
-
-➡️Odtwórz **kultowe** cechy **Sokoła Millennium** z filmu Gwiezdne Wojny: Nowa nadzieja w stylu LEGO®, w tym **kokpit, antenę satelitarną** i działka
-
-{desc/50/}
-
-Kultowe detale
-
-✅Zbuduj **kokpit,** duży **silnik** z tyłu, **działa** i nie tylko.
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
-
-Specjalnie zaprojektowana podstawka
-
-➡️Ustaw **Sokoła Millennium** pod **dynamicznym** kątem.
-
-{desc/50/}
-
-Świętuj 25. rocznicę
-
-✅Zawiera klocek z **okazji 25-lecia** zestawów **LEGO® Star Wars™.**
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
-
-{desc/50/}
+- 75374-1: https://a.allegroimg.com/original/1172a9/82a1f6844db2ac2f26e4eeab96e5
 
 ---
 
-## 75376 — Lego Star Wars Tantive IV 75376 Statek Kosmiczny 654 el.
+## 75376 — LEGO Star Wars 75376 Tantive IV
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017584355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75376 |
+| Nazwa angielska | Tantive IV |
+| Nazwa polska | LEGO Star Wars 75376 Tantive IV |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 654 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584355, 673419121842 |
 
 LEGO Star Wars Tantive IV 75376 Statek Kosmiczny 654 el.
 
@@ -10656,11 +16283,28 @@ To nowoczesny i wygodny sposób na jeszcze lepszą zabawę podczas składania mo
 
 **➡️**Model doskonale sprawdzi się jako efektowna dekoracja pokoju, biura lub kolekcji fana Gwiezdnych Wojen™.
 
+**Galeria:**
+
+- 75376-1: https://a.allegroimg.com/original/11ffb0/7eca44a04efd9a58b88b10793451
+- 75376-2: https://a.allegroimg.com/original/052f98/015a377249958ae1b23fc938c736
+
 ---
 
-## 75377 — Lego Star Wars Niewidzialna ręka 75377
+## 75377 — Niewidzialna ręka
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702017598963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75377 |
+| Nazwa angielska | Invisible Hand |
+| Nazwa polska | Niewidzialna ręka |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 557 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 9 cm |
+| EAN | 5702017598963 |
 
 LEGO®
  
@@ -10695,11 +16339,26 @@ Kreatywne wyzwanie konstruktorskie, jakie oferuje ten wyjątkowy zestaw LEGO Sta
 - Z odległej galaktyki do Twojego salonu — kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych zostały zaprojektowane z myślą o osobach, które lubią relaksować się przy wymagających skupienia projektach do samodzielnego wykonania 
 - Buduj i postaw na półce — pojazd LEGO® Star Wars™ ma 17 cm wysokości, 30 cm długości i 9 cm szerokości
 
+**Galeria:**
+
+- 75377-1: https://a.allegroimg.com/original/055033/e70214ac4fd7b27361965c1a9848
+
 ---
 
-## 75378 — Lego Star Wars 75378 Ucieczka na śmigaczu Barc
+## 75378 — UCIECZKA NA ŚCIGACZU BARC
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017584362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75378 |
+| Nazwa angielska | BARC Speeder Escape |
+| Nazwa polska | UCIECZKA NA ŚCIGACZU BARC |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 9 cm |
+| EAN | 5702017584362 |
 
 **PRODUCENT**: LEGO
  
@@ -10732,11 +16391,26 @@ Dzieci mogą także pobrać aplikację LEGO Builder, która umożliwia powiększ
 - Intuicyjne instrukcje — w aplikacji LEGO® Builder konstruktorzy mogą przybliżać, obracać i wizualizować cyfrową wersję powstającego modelu 
 - Kolekcjonerskie zabawki Star Wars™ dla fanów w każdym wieku — zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie kultowych scen, wymyślanie własnych historii lub po prostu eksponowanie modeli Buduj, eksponuj i baw się — model śmigacza BARC z koszem Star Wars™ z tego 221-elementowego zestawu ma 4 cm wysokości, 19 cm długości i 9 cm szerokości
 
+**Galeria:**
+
+- 75378-1: https://a.allegroimg.com/original/05ae90/76f56d734170990d7b179925110f
+
 ---
 
-## 75379 — Lego Star Wars 75379 R2-D2
+## 75379 — LEGO STAR WARS 75379 R2-D2
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 293.98 zł · EAN: 05702017584379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75379 |
+| Nazwa angielska | R2-D2 |
+| Nazwa polska | LEGO STAR WARS 75379 R2-D2 |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1050 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 16 cm × gł. 11 cm |
+| EAN | 5702017584379 |
 
 LEGO Star Wars 75379 R2-D2
 
@@ -10777,11 +16451,26 @@ Zaproś do swojego domu uwielbianego droida ze świata Gwiezdnych Wojen™ dzię
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017584379
 
+**Galeria:**
+
+- 75379-1: https://a.allegroimg.com/original/11eef6/02840ed1408aa81bd771c66a01bc
+
 ---
 
-## 75380 — Zestaw Lego Star Wars 75380 Diorama: Wyścig Ścigaczy W Most Espa
+## 75380 — Klocki LEGO Star Wars 75380 Diorama: Wyścig ścigaczy w Mos Espa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017584386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75380 |
+| Nazwa angielska | Mos Espa Podrace |
+| Nazwa polska | Klocki LEGO Star Wars 75380 Diorama: Wyścig ścigaczy w Mos Espa |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 718 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 30 cm × gł. 14 cm |
+| EAN | 5702017584386 |
 
 ZESTAW LEGO STAR WARS - 75380 - DIORAMA: WYŚCIG ŚCIGACZY W MOST ESPA
 
@@ -10817,11 +16506,27 @@ Model wyróżnia się niezwykłą dbałością o detale, które wiernie oddają 
 
 Zestaw LEGO Star Wars 75380 to idealna propozycja dla fanów, którzy cenią sobie kultowe sceny z sagi i spokojne, relaksujące budowanie. Realistyczne odwzorowanie wyścigu, klimatyczne detale oraz kolekcjonerska forma sprawiają, że zestaw świetnie sprawdza się jako ozdoba każdego wnętrza. To model, który nie tylko pozwala wrócić do emocji znanych z filmu, ale też daje satysfakcję z tworzenia czegoś wyjątkowego krok po kroku. Zestaw będzie doskonałym prezentem urodzinowym, ale sprawdzi się również jako upominek bez okazji – idealny dla każdego dorosłego fana Star Wars, który chce dodać do swojej kolekcji jedną z najbardziej ikonicznych scen w historii galaktycznej sagi.
 
+**Galeria:**
+
+- 75380-1: https://a.allegroimg.com/original/11662e/ce127ce34642b6b95fd8989c5a41
+
 ---
 
-## 75382 — Lego Star Wars 75382 Myśliwiec Tie
+## 75382 — TIE Interceptor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 959.98 zł · EAN: 05702017590196 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75382 |
+| Nazwa angielska | TIE Interceptor |
+| Nazwa polska | TIE Interceptor |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1931 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 33 cm |
+| EAN | 5702017590196 |
 
 LEGO® 75382 TIE Interceptor™
 
@@ -10859,21 +16564,52 @@ Zawiera instrukcje krok po kroku, a także instrukcje w aplikacji LEGO Builder, 
  
 - Buduj i postaw na półce — model pojazdu Star Wars™ w tym 1931-elementowym zestawie ma 32 cm wysokości, 40 cm długości i 33 cm szerokości
 
+**Galeria:**
+
+- 75382-1: https://a.allegroimg.com/original/05bde1/71be1d754006a5f8be1f1bd5e5ba
+
 ---
 
-## 75383 — Lego Star Wars 75383 Infiltrator Sithów Dartha Maula
+## 75383 — Infiltrator Sithów Dartha Maula
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.97 zł · EAN: 05702017600277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75383 |
+| Nazwa angielska | Darth Maul's Sith Infiltrator |
+| Nazwa polska | Infiltrator Sithów Dartha Maula |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 640 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600277 |
 
 Infiltrator Sithów Dartha Maula™
 
 Star Wars™ Infiltrator Sithów Dartha Maula™ LEGO® Star Wars™ Infiltrator Sithów Dartha Maula™ LEGO® Star Wars™ Infiltrator Sithów Dartha Maula™ 75383 Dzięki kolekcjonerskiemu zestawowi LEGO® Star Wars™ z czterema minifigurkami LEGO dzieci mogą pilotować statek kosmiczny Dartha Maula. Kolekcjonerski zestaw do zbudowania LEGO® Star Wars™ dla dzieci Zbuduj Infiltratora Sithów Dartha Maula (75383) i ścigaj nim Qui-Gon Jinna, odtwarzając scenę z filmu \"Gwiezdne Wojny: Mroczne widmo\" dzięki temu zestawowi dla dzieci w wieku od dziewięciu lat. Ten wyjątkowy zestaw to świetny pomysł na prezent dla fanów i kolekcjonerów modeli z Gwiezdnych Wojen™. Zawiera on szczegółowy model osobistego statku Dartha Maula zbudowanego z klocków LEGO® z mnóstwem ciekawych funkcji, które zainspirują Cię do pełnych akcji międzygalaktycznych przygód. Rozłóż skrzydła i schowaj podwozie do lotu, wystrzel pociski z dwóch działek sprężynowych i naciśnij spust, aby zrzucić trzy droidy zwiadowcze DRK-1 z przedniej komory.W zestawie są cztery minifigurki LEGO do kreatywnej zabawy: Darth Maul, Anakin Skywalker i Qui-Gon Jinn, a także ekskluzywna minifigurka Sawa Gerrery z okazji 25-lecia zestawów LEGO Star Wars z podstawką do ekspozycji. Darth Maul jest wyposażony w podwójny miecz świetlny, a Qui-Gon Jinn ma miecz świetlny do pojedynków. W zestawie jest także śmigacz Dartha Maula, który mieści się w kokpicie statku kosmicznego. Darth Maul ściga Qui-Gon Jinna w swoim Infiltratorze Sithów! Uważaj na sprężynowe działka i opuszczające się ze statku kosmicznego droidy zwiadowcze DRK-1. Akcja toczy się dalej na ziemi dzięki śmigaczowi Dartha Maula. Połącz siły z Anakinem Skywalkerem i użyj miecza świetlnego Qui-Gon Jinna, aby walczyć z Darthem Maulem, który dzierży podwójny miecz świetlny. Czy uda Ci się pokonać tego potężnego Lorda Sithów?
 
+**Galeria:**
+
+- 75383-1: https://a.allegroimg.com/original/050385/145fed1d42cfa94ce6f74f31fcd4
+
 ---
 
-## 75384 — Zestaw klocków Lego Star Wars Czerwony Świetlik 75384 136 el. dla dzieci 4+
+## 75384 — Czerwony Świetlik
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 111.00 zł · EAN: 05702017584409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75384 |
+| Nazwa angielska | The Crimson Firehawk |
+| Nazwa polska | Czerwony Świetlik |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584409 |
 
 W sprzedaży:
 
@@ -10901,11 +16637,27 @@ Zapoznaj przedszkolaków w wieku od czterech lat z uniwersum LEGO® Star Wars™
 
 • Statek kosmiczny Star Wars™ Karmazynowy Jastrząb ma 18 cm długości
 
+**Galeria:**
+
+- 75384-1: https://a.allegroimg.com/original/293587/dd353f26402bba9fd3c9579a8e74
+
 ---
 
-## 75385 — Lego Star Wars 75385 Pojedynek Ahsoki Tano na Peridei Admirał Thrawn
+## 75385 — Pojedynek Ahsoki Tano na Peridei
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 287.81 zł · EAN: 05702017584416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75385 |
+| Nazwa angielska | Ahsoka Tano's Duel on Peridea |
+| Nazwa polska | Pojedynek Ahsoki Tano na Peridei |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 382 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584416 |
 
 Odtwórz epicką bitwę finałową z pierwszego sezonu serialu Star Wars: Ahsoka i przeżyj nowe przygody dzięki zestawowi Pojedynek Ahsoki Tano na Peridei (75385). Ten kolekcjonerski zestaw konstrukcyjny to fajny pomysł na prezent urodzinowy dla dzieci i wszystkich fanów w wieku od ośmiu lat. Zawiera pięć minifigurek LEGO Star Wars — Ahsokę Tano, wielkiego admirała Thrawna, Morgan Elsbeth, Ezrę Bridgera i nocnego szturmowca — wraz z kultowymi akcesoriami do twórczej zabawy. Umieść postacie na platformie, która zawiera trzy wbudowane obrotnice, by odtworzyć ekscytujące bitwy, i użyj specjalnej funkcji, aby odtworzyć skok Ezry.
 
@@ -10932,71 +16684,64 @@ Przenieś się do finałowej sceny pierwszego sezonu Star Wars: Ahsoka i odtwór
 
 ✨ Odtwórz legendarną walkę. Zbuduj własną historię. Niech Moc będzie z Tobą!
 
----
+**Galeria:**
 
-## 75386 — Lego 75386 Star Wars Pojedynek Paza Vizsli I Moffa Gideona
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702017584423 · in stock*
-
-NOWE KLOCKI LEGO Z SERII STAR WARS
-
-POJEDYNEK PAZA VIZSLI I MOFFA GIDEONA
-
-NUMER KATALOGOWY 75386
-
-KLOCKI SĄ NOWE, ZAPAKOWANE FABRYCZNIE. DOSTĘPNE OD RĘKI.
-
-Numer zestawu: **75386**
-
-Wiek: 7+
-
-Ilość klocków: 286
+- 75385-1: https://a.allegroimg.com/original/1107e7/86308e3b4c27a682380c471ed666
 
 ---
 
-## 75389 — Lego Star Wars 75389 Mroczny Sokół Millennium
+## 75386 — Star Wars 75386 Bitwa pod Paz Vizsla i Moff Gideon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702017584454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75386 |
+| Nazwa angielska | Paz Vizsla and Moff Gideon Battle |
+| Nazwa polska | Star Wars 75386 Bitwa pod Paz Vizsla i Moff Gideon |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584423, 741365702115 |
 
-LEGO Star Wars
- 
-Mroczny Sokół Millennium
- 
-75389
+Zestaw światła LED BrickBling kompatybilny z  Paz Vizsla i Moff Gideon Battle, kreatywne oświetlenie kompatybilne z modelem 75386-no, tylko światła
 
-Wywróć wszechświat LEGO® Star Wars™ do góry nogami dzięki zestawowi Mroczny Sokół Millennium (75389), w którym znajduje się mroczna wersja Sokoła, znana ze specjalnego odcinka LEGO Star Wars: Rebuild the Galaxy na Disney+. 
- 
-Ten statek kosmiczny LEGO Star Wars to wspaniały prezent urodzinowy dla dzieci i wszystkich fanów w wieku od 10 lat. Ma podnoszone panele umożliwiające łatwy dostęp do szczegółowego wnętrza, w tym tronu Dartha Jara Jara, centrum dowodzenia, hipernapędu, strefy rozrywkowej i celi więziennej. Sprężynowe działka, obrotowe armatki i odczepiane stanowisko strzelca poszerzają możliwości zabawy.
- 
-**Ten zestaw ze statkiem kosmicznym do zbudowania zawiera sześć zupełnie nowych minifigurek LEGO Star Wars, w tym Dartha Jar Jara, plażowego Luke’a i Jedi Vadera.**
+O tym przedmiocie
 
-Cechy zestawu:
- 
- 
-- **Zestaw z pojazdem do zbudowania LEGO® Star Wars™ dla dzieci **— zbuduj Mrocznego Sokoła Millenium, mroczną wersję Sokoła Millenium z odcinka specjalnego serialu Rebuild the Galaxy na Disney+ i wywróć galaktykę do góry nogami 
-- **Sześć minifigurek LEGO® Star Wars™** — Darth Jar Jar, łowca nagród C-3PO, Darth Dev, Darth Rey, plażowy Luke i Jedi Vader, a także akcesoria, w tym miecze świetlne i karton z niebieskim mlekiem 
-- **Mroczny Sokół Millenium LEGO®** — ma odczepiany kokpit dla dwóch minifigurek LEGO, dwa działka sprężynowe, dwie obrotowe armatki, stanowisko strzelca dla dwóch minifigurek LEGO i talerz anteny 
-- **Łatwy dostęp** — podnieś górne panele i zajrzyj do szczegółowego wnętrza, które obejmuje odczepiany tron dla Dartha Jar Jara, centrum dowodzenia, hipernapęd, łóżka piętrowe, strefę rozrywkową i celę więzienną 
-- **Fajny pomysł na prezent dla dzieci w wieku od 10 lat** — podaruj ten zestaw LEGO® jako prezent świąteczny lub urodzinowy dla chłopców, dziewczynek i fanów Gwiezdnych Wojen™ 
-- **Kolekcjonerskie zabawki dla fanów w każdym wieku** — zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie klasycznych scen, odgrywanie własnych historii lub po prostu eksponowanie modeli zbudowanych z klocków 
-- **Wymiary **— pojazd z Gwiezdnych Wojen™ w tym 1579-elementowym zestawie ma 12 cm wysokości, 43 cm długości i 32 cm szerokości. 
+- Tylko światła - jest to oświetlenie LED specjalnie zaprojektowane z Leg 75386 Paz Vizsla i Moff Gideon Battle. Uwaga: Sprzedajemy tylko światła, bez modelu
+- Wysokiej jakości - wysokiej jakości materiały ABS i miedź są przyjmowane w celu zapewnienia jej bezpieczeństwa, trwałości. Lekka waga i małe rozmiary pozwalają, aby przewody świetlne były dobrze ukryte w modelu Paz Vizsla i Moff Gideon Battle, bez obaw, że Twój model zostanie uszkodzony podczas instalacji
+- Instalacja - Możesz uzyskać nasze instrukcje online, przechodząc przez stronę internetową wydrukowaną na broszurze. Następnie podążaj za nim krok po kroku, aby zbudować nasze światła DIY
 
-Specyfikacja zestawu:
- 
- 
-- **Producent: **LEGO 
-- **Seria: **Star Wars 
-- **Kod producenta: **75389 
-- **Wiek dziecka: **od 10 lat 
-- **Płeć dziecka:** chłopcy i dziewczynki 
-- **Ilość elementów: **1579 
-- **Ilość minifigurek:** 6
+- Power By- Zestaw światła może być zasilany przez power bank / ładowarka ścienna / usb-socket / laptop / inne urządzenie portowe USB.
+
+- Zaktualizuj swój model - to zabawny pomysł, aby rozświetlić swoją Paz Vizsla i Moff Gideon Battle. Zaskakujące światła dekoracyjne sprawią, że statyczny element wyświetlacza będzie bardziej interesujący, więc nie wahaj się zaktualizować swojego modelu do nowego poziomu
+
+A 3
+
+**Galeria:**
+
+- 75386-1: https://a.allegroimg.com/original/11272d/29fcb1f4423c8210afd25384dd88
+- 75386-2: https://a.allegroimg.com/original/115a9f/7cab9ac145169751ad915d252fd9
 
 ---
 
-## 75390 — Lego Star Wars 75390 StarWars 75390 Kostium robota X-wing Luke'a Skywalkera
+## 75390 — Star Wars 75390 Kostium robota X-wing Luke'a Skywalkera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 42.49 zł · EAN: 05702017584461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75390 |
+| Nazwa angielska | Luke Skywalker X-Wing Mech |
+| Nazwa polska | Star Wars 75390 Kostium robota X-wing Luke'a Skywalkera |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584461 |
 
 LEGO Star Wars 75390 StarWars 75390 Kostium robota X-wing Luke'a Skywalkera
 
@@ -11045,11 +16790,27 @@ Mech X-Wing Luke'a Skywalkera jest częścią kolekcjonerskiej serii mechów LEG
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017584461
 
+**Galeria:**
+
+- 75390-1: https://a.allegroimg.com/original/115db7/24bc89d84a3eba42d05e0d3b386c
+
 ---
 
-## 75391 — Lego Star Wars Mikromyśliwiec Y-Wing kapitana Rexa 75391
+## 75391 — Mikromyśliwiec Y-Wing kapitana Rexa
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 38.91 zł · EAN: 05702017584478 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75391 |
+| Nazwa angielska | Captain Rex Y-Wing Microfighter |
+| Nazwa polska | Mikromyśliwiec Y-Wing kapitana Rexa |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 8 cm |
+| EAN | 5702017584478 |
 
 **PRODUCENT**: LEGO
  
@@ -11072,11 +16833,27 @@ Ten niewielki zestaw należy do kolekcjonerskiej serii mikromyśliwców LEGO Sta
  
 - Pojazd LEGO® Star Wars™ w mikroskali do szybkiego zbudowania — zainspiruj małe dzieci do wymyślania własnych przygód z serialu „Gwiezdne Wojny: Wojny klonów” na pokładzie mikromyśliwca Y-Wing kapitana Rexa. Minifigurka LEGO® kapitana Rexa — to ciekawy pomysł na prezent dla kreatywnych dzieci. Ten zestaw do zbudowania zawiera postać kapitana Rexa z Gwiezdnych Wojen™ z dwoma pistoletami blasterowymi Pierwszy w historii model Y-Winga kapitana Rexa z klocków LEGO® — ten myśliwiec LEGO Star Wars™ w miniaturowej skali ma kokpit z miejscem na minifigurkę LEGO i dwa miotacze klocków Kolekcjonerskie mikromyśliwce LEGO® Star Wars™ — ten zestaw można połączyć z innymi mikromyśliwcami LEGO Star Wars (sprzedawanymi osobno), co zapewnia jeszcze więcej możliwości zabawy Prezent LEGO® Star Wars™ dla dzieci w wieku od sześciu lat — ten statek kosmiczny LEGO będzie fajnym prezentem dla kreatywnych chłopców, dziewczynek i każdego młodego fana Gwiezdnych Wojen Pomoc w budowaniu — odkryj intuicyjne instrukcje w aplikacji LEGO® Builder, gdzie można obejrzeć cyfrową wersję modelu w 3D i rozwinąć nowe umiejętności Kreatywne zabawki dla fanów w każdym wieku — zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen wymyślanie własnych historii lub po prostu eksponowanie modeli zbudowanych z klocków Buduj, eksponuj i baw się — model mikromyśliwca Y-Wing kapitana Rexa z tego 99-elementowego zestawu ma 2 cm wysokości, 11 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 75391-1: https://a.allegroimg.com/original/110615/a454cfe9474d9dea18fa56d39669
+
 ---
 
-## 75392 — Lego Star Wars75392 Kreatywny zestaw do budowy droidów R2-D2 Chopper
+## 75392 — Kreatywny zestaw do budowy droidów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.99 zł · EAN: 05702017600284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75392 |
+| Nazwa angielska | Creative Play Droid Builder |
+| Nazwa polska | Kreatywny zestaw do budowy droidów |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600284 |
 
 ⭐LEGO® Star Wars™ 75392 Kreatywny zestaw do budowy droidów R2-D2 Chopper QT-KT R5-J2 1186⭐
 
@@ -11112,11 +16889,26 @@ Ten niewielki zestaw należy do kolekcjonerskiej serii mikromyśliwców LEGO Sta
 
 Akcesoria pasują do wszystkich modeli, a ruchome głowy i nogi można dowolnie zamieniać między droidami. Dzięki temu każde budowanie może zakończyć się stworzeniem zupełnie nowej postaci.
 
+**Galeria:**
+
+- 75392-1: https://a.allegroimg.com/original/11cd4a/0712624a4bf1a47a5c3cd187c507
+
 ---
 
-## 75393 — Lego Star Wars 75393 Hybryda Tie Fightera i X-Winga
+## 75393 — Star Wars 75393 Myśliwiec TIE i X-wing - Zestaw Combo
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702017584485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75393 |
+| Nazwa angielska | TIE Fighter & X-Wing Mash-up |
+| Nazwa polska | Star Wars 75393 Myśliwiec TIE i X-wing - Zestaw Combo |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1063 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 34 cm |
+| EAN | 5702017584485 |
 
 **PRODUCENT**: LEGO
  
@@ -11139,11 +16931,27 @@ Ten zestaw do zbudowania zawiera także cztery minifigurki LEGO Star Wars z a
 - Fajne zestawy LEGO® Star Wars™ dla wszystkich grup wiekowych — zestawy LEGO Star Wars umożliwiają dzieciom i dorosłym fanom odtwarzanie kultowych scen, wymyślanie oryginalnych przygód lub po prostu eksponowanie modeli 
 - Wymiary — „TIE-Wing” w tym 1063-elementowym zestawie ma 6 cm wysokości, 18 cm długości i 34 cm szerokości
 
+**Galeria:**
+
+- 75393-1: https://a.allegroimg.com/original/296fd1/fc8321f2460484e0cc294f4586bf
+
 ---
 
-## 75394 — Lego Star Wars Gwiezdny Niszczyciel Imperium 75394
+## 75394 — LEGO 75394 Star Wars - Gwiezdny Niszczyciel Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 663.78 zł · EAN: 05702017600291 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75394 |
+| Nazwa angielska | Imperial Star Destroyer |
+| Nazwa polska | LEGO 75394 Star Wars - Gwiezdny Niszczyciel Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1555 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 29 cm |
+| EAN | 5702017600291 |
 
 Gwiezdny Niszczyciel Imperium
 
@@ -11167,11 +16975,26 @@ Opanuj galaktykę dzięki zestawowi LEGO® Star Wars™ Gwiezdny Niszczyciel Imp
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 75394-1: https://a.allegroimg.com/original/114f5c/afdb6b96431293e6d93cb492d6b5
+
 ---
 
-## 75396 — Lego 75396 Star Wars Pustynna barka i jama sarlacca
+## 75396 — Star Wars 75396 Pustynna łódź i Sarlacc Pit
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702017584492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75396 |
+| Nazwa angielska | Desert Skiff & Sarlacc Pit |
+| Nazwa polska | Star Wars 75396 Pustynna łódź i Sarlacc Pit |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 558 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 22 cm × gł. 13 cm |
+| EAN | 5702017584492 |
 
 Klocki LEGO Star Wars 75396 - Pustynna barka i jama sarlacca
 
@@ -11189,11 +17012,27 @@ Szczegółowe instrukcje znajdują się w pudełku i aplikacji LEGO Builder, kt�
 - Intuicyjne instrukcje — w aplikacji LEGO® Builder konstruktorzy mogą przybliżać, obracać i wizualizować cyfrową wersję powstającego modelu
 - Zestawy LEGO® Star Wars™ dla wszystkich grup wiekowych — zestawy LEGO Star Wars umożliwiają dzieciom i dorosłym fanom odtwarzanie kultowych scen, wymyślanie własnych przygód lub po prostu eksponowanie modeli Buduj, eksponuj i baw się — model jamy sarlacca w tym 558-elementowym zestawie LEGO® Star Wars™ mierzy 9 cm wysokości, 22 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 75396-1: https://a.allegroimg.com/original/115b04/a8b5075d4ce3882ffc9958af7931
+
 ---
 
-## 75397 — Lego 75397 Star Wars Barka Jabby Leia C-3PO Rebo Vizam Wooof
+## 75397 — Barka żaglowa Jabby
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1899.99 zł · EAN: 05702017590202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75397 |
+| Nazwa angielska | Jabba's Sail Barge |
+| Nazwa polska | Barka żaglowa Jabby |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3942 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590202 |
 
 LEGO Star Wars - Barka Jabby
  
@@ -11214,55 +17053,27 @@ WIEK: 18+
 
 Crimson_Brick
 
----
+**Galeria:**
 
-## 75398 — Lego Star Wars 75398 Figurka C-3PO 18+ Nowy
-
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702017584508 · in stock*
-
-**Zestaw oryginalnie zapakowany, fabrycznie nowy.**
-
-**LEGO® 75398 Star Wars - C-3PO**
-
-Nr katalogowy: 75398
-
-Ilość klocków: 1138
-
-Dla dzieci w wieku: 18+
-
-Najlepsza zabawka dla dzieci
-
-Dostępność od ręki.
-
-Zbuduj i ustaw na półce tę niezwykle szczegółową figurkę droida LEGO® Star Wars™ C-3PO. Ten kolekcjonerski zestaw to nostalgiczny pomysł na prezent dla dorosłych i fanów klasycznej sagi Gwiezdnych Wojen, który gwarantuje satysfakcjonujący i kreatywny projekt. Odtwórz każdy szczegół ulubieńca z Gwiezdnych Wojen, a następnie obracaj jego głową i ramionami, by ustawić go w kultowych pozach.
-
-Ten zestaw LEGO Star Wars dla dorosłych zawiera również podstawkę z płytką z informacjami o C-3PO i miejscem na minifigurkę LEGO C-3PO, a także klocek z okazji 25-lecia zestawów LEGO Star Wars, który uzupełnia cała ozdobę.
-
-Aby stworzyć imponującą ozdobę, ustaw swoje dzieło obok LEGO Star Wars R2-D2™ (75379, zestaw sprzedawany osobno) i zmień ustawienie ręki C-3PO, aby „klepał” swojego przyjaciela po głowie.
-
-Ciesz się każdym intuicyjnym budowaniem dzięki aplikacji LEGO® Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów oraz zapisywanie wszystkich zestawów w jednym miejscu.
-
-- Figurka droida C-3PO LEGO® Star Wars™ — zaproś do swojego domu jedną z najbardziej uroczych postaci z Gwiezdnych Wojen, budując realistyczny model C-3PO
-
-- Podziwiaj autentyczne szczegóły — odtwórz wygląd C-3PO w stylu LEGO®, obracaj jego głową i poruszaj ramionami, aby tworzyć kultowe pozy
-
-- Minifigurka LEGO® Star Wars™ C-3PO — główny model C-3PO uzupełnia minifigurka LEGO C-3PO
-
-- Element z okazji 25-lecia — zestaw zawiera podstawkę z płytką z informacjami o C-3PO i miejscem na minifigurkę LEGO® C-3PO, a także klocek LEGO Star Wars™ z okazji 25-lecia zestawów
-
-- Pomysł na nostalgiczny prezent dla dorosłych — spraw sobie przyjemność lub podaruj ten kolekcjonerski model innemu dorosłemu fanowi klasycznej sagi Gwiezdnych Wojen™ lub kolekcjonerowi zestawów LEGO® Star Wars
-
-- Zestaw kolekcjonerski z Gwiezdnych Wojen™ — zjednocz dwóch starych przyjaciół, ustawiając C-3PO obok zbudowanej z klocków figurki LEGO® droida R2-D2 (75379, sprzedawana osobno). Możesz ustawić rękę C-3PO tak, aby klepał R2-D2 po głowie
-
-- Zestawy LEGO® Star Wars™ dla dorosłych — zestawy LEGO® Star Wars dla dorosłych przeznaczone są dla hobbystów takich jak Ty, którzy lubią praktyczne, odprężające zajęcia
-
-- Fajna ozdoba do domu dla fanów Gwiezdnych Wojen™ — zbudowana z klocków figurka LEGO® droida C-3PO z tego 1138-elementowego zestawu ma 38 cm wysokości
+- 75397-1: https://a.allegroimg.com/original/05296b/d4fa31ec4d3e96fa07dd8ec8f22e
 
 ---
 
-## 75399 — Lego Star Wars 75399 Rebeliancki statek U-wing
+## 75399 — Rebeliancki myśliwiec U-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017817439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75399 |
+| Nazwa angielska | Rebel U-Wing Starfighter |
+| Nazwa polska | Rebeliancki myśliwiec U-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 594 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817439 |
 
 Dzieci łączą siły z Cassianem Andorem i K-2SO, przypominając sobie sceny z 2. Seria Star Wars: Andor™ podczas budowy **Myśliwca Rebelianckiego U-wing **(75399). Ten zestaw będzie zabawnym prezentem świątecznym lub urodzinowym dla chłopców, dziewcząt i każdego fana Star Wars™ od 8 lat.
  
@@ -11294,11 +17105,27 @@ Dzięki aplikacji LEGO Builder dzieci będą cieszyć się jeszcze większą por
  
 • Odpowiedni dla dzieci od 8 roku życia
 
+**Galeria:**
+
+- 75399-1: https://a.allegroimg.com/original/298363/e0472f4f43f7834c5d69d4be6547
+
 ---
 
-## 75400 — Lego Star Wars 75400 Star Wars Plo Koon i jego mikromyśliwiec Jedi
+## 75400 — Mikromyśliwiec Jedi Plo Koona
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 44.50 zł · EAN: 05702017817446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75400 |
+| Nazwa angielska | Plo Koon's Jedi Starfighter Microfighter |
+| Nazwa polska | Mikromyśliwiec Jedi Plo Koona |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817446 |
 
 LEGO Star Wars 75400 Star Wars Plo Koon i jego mikromyśliwiec Jedi
 
@@ -11344,11 +17171,27 @@ Ten fantastyczny zestaw **zawiera** również minifigurkę LEGO Plo Koona z nieb
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017817446
 
+**Galeria:**
+
+- 75400-1: https://a.allegroimg.com/original/1152b3/0e7888e54bac8c5bf1c3ccd792e5
+
 ---
 
-## 75401 — Lego Star Wars Interceptor Jedi Ahsoki 75401
+## 75401 — Interceptor Jedi Ahsoki
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017817453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75401 |
+| Nazwa angielska | Ahsoka's Jedi Interceptor |
+| Nazwa polska | Interceptor Jedi Ahsoki |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 290 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm |
+| EAN | 5702017817453 |
 
 Klocki LEGO® Star Wars-
 
@@ -11373,11 +17216,26 @@ Ten zestaw z Gwiezdnych Wojen doskonale nadaje się do samodzielnej zabawy, a po
 - Odkryj całą serię — zestawy LEGO® Star Wars™ (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie klasycznych scen, odgrywanie własnych historii lub po prostu eksponowanie modeli zbudowanych z klocków
 - Wymiary — pojazd LEGO® Star Wars™ w tym 290-elementowym zestawie ma 6 cm wysokości, 19 cm długości i 17 cm szerokości
 
+**Galeria:**
+
+- 75401-1: https://a.allegroimg.com/original/11d48d/7c8b7a0d4188b7b1304fdc912702
+
 ---
 
-## 75402 — Lego Star Wars 75402 Myśliwiec ARC-170 497 el.
+## 75402 — LEGO Star Wars 75402 Myśliwiec ARC-170
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 217.99 zł · EAN: 05702017817460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75402 |
+| Nazwa angielska | ARC-170 Starfighter |
+| Nazwa polska | LEGO Star Wars 75402 Myśliwiec ARC-170 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 497 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817460 |
 
 🚀⭐ LEGO Star Wars Myśliwiec ARC-170 75402 – 497 elementów
 
@@ -11471,11 +17329,26 @@ Interaktywne instrukcje 3D ułatwiają budowanie i pozwalają śledzić postępy
 
 LEGO Star Wars Myśliwiec ARC-170 75402 to doskonały zestaw dla młodych fanów Gwiezdnych Wojen. Ruchome skrzydła, otwierane kokpity i sprężynowe działka sprawiają, że model świetnie nadaje się zarówno do dynamicznej zabawy, jak i jako efektowna ozdoba kolekcji LEGO Star Wars.
 
+**Galeria:**
+
+- 75402-1: https://a.allegroimg.com/original/0507be/772e8f8640839186aa84c797bf39
+
 ---
 
-## 75403 — Lego Star Wars 75403 Grogu w wózku
+## 75403 — Grogu w wózku
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017817477 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75403 |
+| Nazwa angielska | Grogu with Hover Pram |
+| Nazwa polska | Grogu w wózku |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1048 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817477 |
 
 LEGO® Star Wars™ Grogu™ w wózku (75403)
 
@@ -11485,11 +17358,27 @@ Główny model z tego kolekcjonerskiego zestawu z Gwiezdnych Wojen uzupełniono 
  
 Zestaw zawiera szczegółowe instrukcje, a także oferuje aplikację LEGO Builder, w której znajdują się narzędzia do powiększania i obracania modelu, które zwiększają możliwości twórcze. Pokaż swoją miłość do Grogu! Kręć pokrętłami, aby sterować rękami Grogu i ustaw jego głowę i uszy w wybranej pozie. Umieść w jego dłoniach sorgańską żabę (ulubiona przekąska malucha!), gałkę zmiany biegów lub ciasteczko i ustaw go w wózku lub poza nim. Dodaj tabliczkę z informacjami ze standardową figurką LEGO® Grogu w małym wózku zbudowanym z klocków, aby uzupełnić całość.
 
+**Galeria:**
+
+- 75403-1: https://a.allegroimg.com/original/0568a5/21a933ea4cf9a4d9319427d285be
+
 ---
 
-## 75404 — Klocki Lego 75404 Star Wars Krążownik Szturmowy Typu Acclamator
+## 75404 — Krążownik szturmowy typu Acclamator
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017817262 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75404 |
+| Nazwa angielska | Acclamator-Class Assault Ship |
+| Nazwa polska | Krążownik szturmowy typu Acclamator |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817262 |
 
 Na sprzedaż **KLOCKI LEGO 75404 STAR WARS KRĄŻOWNIK SZTURMOWY TYPU ACCLAMATOR**
 
@@ -11505,21 +17394,53 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanego przez nas spr
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 75404-1: https://a.allegroimg.com/original/11786f/236555a1406faacbf6b999eb3045
+
 ---
 
-## 75405 — Lego Star Wars 75405 Krążownik typu Home One
+## 75405 — Krążownik typu Home One
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.98 zł · EAN: 05702017817576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75405 |
+| Nazwa angielska | Home One Starcruiser |
+| Nazwa polska | Krążownik typu Home One |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 559 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817576 |
 
 Krążownik typu Home One
 
 Star Wars™ LEGO Star Wars Krążownik typu Home One, Zestaw dla Dorosłych Fanów Filmu Gwiezdne Wojny: Powrót Jedi, Model Statku Kosmicznego, Pomysł na Prezent dla Nastolatków, dla Mężczyzn i Kobiet, 75405 pamiątki filmowe nowa nadzieja imperium kontratakuje nostalgia mandalorianin akolita luke skywalker yoda han solo boba fett darth vader obi wan kenobi mężczyzna tata ojciec stres lęk ulga zabawki duży wymagający rey George lucas Krążownik typu Home One LEGO® Star Wars™ Krążownik typu Home One Zestaw LEGO® Star Wars™ Krążownik typu Home One 75405 Pierwszy w historii model statku typu Home One z klocków LEGO® z filmu Gwiezdne Wojny: Powrót Jedi to świetny prezent ze świata Gwiezdnych Wojen. Kreatywny prezent dla dorosłych fanów Gwiezdnych Wojen Przywołaj wspomnienia z filmu Gwiezdne Wojny: Powrót Jedi, budując pierwszy w historii model Krążownika typu Home One LEGO® Star Wars™ (75405), którym dowodził admirał Ackbar w bitwie o Endor. Ten zestaw, który świetnie sprawdzi się jako prezent dla dorosłych fanów Gwiezdnych Wojen, zapewni satysfakcjonujący projekt. Odtwórz realistyczne detale flagowej fregaty Rebeliantów i ustaw ją na podstawce z tabliczką z napisem. Boczną część można odczepić, aby zobaczyć szczegółowe wnętrze. Zestaw zawiera również małą, zbudowaną z klocków fregatę eskortową Nebulon-B, która może \"lecieć\" obok krążownika Home One.Ten kolekcjonerski zestaw do zbudowania i ozdoby należy do kolekcji średniej wielkości statków kosmicznych LEGO Star Wars. Będzie się świetnie prezentować jako ozdoba w każdym domu miłośników Gwiezdnych Wojen.Poszerz swoje możliwości kreatywnego budowania dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie cyfrowej wersji 3D tego modelu podczas budowania — i nie tylko. Przejmij dowodzenie nad satysfakcjonującym projektem i zbuduj Krążownik typu Home One znany z filmu Gwiezdne Wojny: Powrót Jedi. Odtwórz epickie sceny bitwy o Endor, budując okręt flagowy floty Rebeliantów. Ustaw swój kolekcjonerski model na podstawce i dodaj \"lecącą\" fregatę eskortową Nebulon-B. Możesz też odczepić boczne sekcje statku typu Home One, by zajrzeć do szczegółowego wnętrza statku.
 
+**Galeria:**
+
+- 75405-1: https://a.allegroimg.com/original/05fe74/68420be64d838daad91389a42b45
+
 ---
 
-## 75406 — Lego Star Wars 75406 Statek dowodzenia Kylo Rena 386 el.
+## 75406 — Wahadłowiec dowodzenia Kylo Rena
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 204.92 zł · EAN: 05702017824574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75406 |
+| Nazwa angielska | Kylo Ren's Command Shuttle |
+| Nazwa polska | Wahadłowiec dowodzenia Kylo Rena |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 44 cm |
+| EAN | 5702017824574 |
 
 LEGO 75406
 
@@ -11541,11 +17462,26 @@ Ciesz się w pełni tym statkiem kosmicznym dzięki aplikacji LEGO Builder. Umo�
 - Z odległej galaktyki prosto do Twojego salonu — kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych przeznaczone są dla hobbystów, którzy doceniają kreatywne, odprężające zajęcia 
 - Wymiary — pojazd LEGO® Star Wars™ w trybie lotu w tym 386-elementowym zestawie ma 26 cm wysokości, 13 cm długości i 44 cm szerokości
 
+**Galeria:**
+
+- 75406-1: https://a.allegroimg.com/original/050690/9ebc50314b15aeedaf0b262d0125
+
 ---
 
-## 75407 — Lego Star Wars 75407 Logo Star Wars z klocków
+## 75407 — LEGO Star Wars 75407 Logo Star Wars wykonane z klocków
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017817583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75407 |
+| Nazwa angielska | Brick-Built Star Wars Logo |
+| Nazwa polska | LEGO Star Wars 75407 Logo Star Wars wykonane z klocków |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 700 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817583 |
 
 Zanurz się w nostalgicznych chwilach i przypomnij sobie spektakularne historie, legendarne postacie i dramatyczne sceny dzięki zestawowi LEGO® Star Wars™ (75407**) Logo Star Wars™ z klocków**. Ten kreatywny prezent dla dorosłych fanów zaprasza do zbudowania własnej wersji 3D kultowego logo, które po raz pierwszy zostało zauważone w napisach wprowadzających do filmu Gwiezdne wojny: Nowa nadzieja.
  
@@ -11575,11 +17511,26 @@ Ten kolekcjonerski zestaw wystawowy LEGO Star Wars można umieścić na dowolnej
  
 • Nadaje się od 18 lat
 
+**Galeria:**
+
+- 75407-1: https://a.allegroimg.com/original/2969e7/d5ec06e94baf855f547e33c088ba
+
 ---
 
-## 75408 — Lego Star Wars 75408 Hełm Boby Fetta
+## 75408 — LEGO Star Wars 75408 Hełm Janga Fetta
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017817590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75408 |
+| Nazwa angielska | Jango Fett Helmet |
+| Nazwa polska | LEGO Star Wars 75408 Hełm Janga Fetta |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 616 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817590 |
 
 Oddaj hość jednemu z najlepszych łowców nagród w galaktyce dzięki zestawowi konstrukcyjnemu LEGO® Star WarsTM 75408 **Hełm Jango Fetta** dla dorosłych. Zanurz się w wymagającym, praktycznym projekcie i odtwórz z klocków LEGO charakterystyczne detale hełmu noszonego przez Jango Fetta w filmie Star Wars: Atak klonów, w tym regulowaną antenę dalmierza.
  
@@ -11607,11 +17558,26 @@ Ten składany hełm jest dostarczany ze szczegółową instrukcją budowania. Mo
  
 • Odpowiednie od 18 lat
 
+**Galeria:**
+
+- 75408-1: https://a.allegroimg.com/original/295305/6e2e5f5d4cd384e6129cbe6de668
+
 ---
 
-## 75409 — Klocki Lego Star Wars 75409 Patrolowiec typu Firespray Jango Fetta Ucs
+## 75409 — Klocki LEGO Star Wars 75409 Patrolowiec typu Firespray Jango Fetta UCS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1239.99 zł · EAN: 05702017824178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75409 |
+| Nazwa angielska | Jango Fett's Firespray-Class Starship |
+| Nazwa polska | Klocki LEGO Star Wars 75409 Patrolowiec typu Firespray Jango Fetta UCS |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2970 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 39 cm |
+| EAN | 5702017824178 |
 
 Patrolowiec typu Firespray Jango Fetta
 
@@ -11635,21 +17601,52 @@ Do zestawu z kolekcjonerskim modelem LEGO Star Wars dołączone są szczegółow
 
 • **Buduj i postaw na półce** — model statku kosmicznego LEGO® Star Wars™ w tym 2970-elementowym zestawie ma 19 cm wysokości, 44 cm długości i 39 cm szerokości
 
+**Galeria:**
+
+- 75409-1: https://a.allegroimg.com/original/114928/e3c61abb4ef3a63367ae566ad983
+
 ---
 
-## 75410 — Lego Star Wars 75410 Myśliwiec N-1 Mando i Grogu
+## 75410 — Myśliwiec N-1 Mando i Grogu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 83.28 zł · EAN: 05702017817606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75410 |
+| Nazwa angielska | Mando and Grogu's N-1 Starfighter |
+| Nazwa polska | Myśliwiec N-1 Mando i Grogu |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817606 |
 
 Myśliwiec N-1 Mando i Grogu
 
 Star Wars™ LEGO Star Wars Myśliwiec N-1 Mando i Grogu, Kreatywna Zabawka dla Dziecka do Zbudowania, Prosty Zestaw dla 4-latka z 3 postaciami, w tym Grogu, Prezent dla Przedszkolaka, Chłopca i Dziewczynki, 75410 chłopiec syn dziewczyna córka dziecko 5 6 7 przygoda klocki klony wojny kolekcjonerski fikcja prezent jedi zestaw film popularny kosmos nauka sw starwars wojna akolita luke skywalker obi wan kenobi han solo darth vader księżniczka leia Myśliwiec N-1 Mando i Grogu LEGO® Star Wars™ Myśliwiec N-1 Mando i Grogu Zestaw LEGO® Star Wars™ Myśliwiec N-1 Mando i Grogu 75410 Podaruj dzieciom w wieku od czterech lat fajny zestaw konstrukcyjny, który wprowadzi je w świat budowania i zabawy w uniwersum LEGO® Star Wars™. Zabawka dla czteroletnich i starszych fanów Gwiezdnych Wojen Dzięki zestawowi Myśliwiec N-1 Mando i Grogu (75410) dzieci nauczą się budować z klocków LEGO® i odgrywać fantastyczne historie z trzeciego sezonu serialu Star Wars: The Mandalorian. Myśliwiec sprawdzi się jako prezent dla czterolatków i starszych dzieci, ponieważ zawiera klocek startowy, który ułatwia rozpoczęcie budowania. W zestawie jest także stacja paliw.Ten zestaw z modelem myśliwca N-1 zawiera trzy postacie LEGO Star Wars: Mandalorianina z mrocznym mieczem i plecakiem odrzutowym, Grogu z lewitującym wózkiem i droida R5-D4. Umieść Mandalorianina w otwieranym kokpicie myśliwca N-1, a Grogu w części pasażerskiej z tyłu.Proste obrazkowe instrukcje z tego zestawu startowego są idealne dla dzieci, które dopiero uczą się czytać. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder z narzędziami do powiększania i obracania, które pozwalają dzieciom wizualizować budowany model (no, może z małą pomocą dorosłych lub starszego rodzeństwa). Poszybuj do akcji na pokładzie myśliwca N-1 należącego do Mando i Grogu! Zatankuj paliwo na stacji paliw, wskocz do kokpitu, pomóż Grogu dostać się na fotel i rozpocznijcie misję! Odkrywaj inne planety w towarzystwie Mandalorianina z plecakiem odrzutowym i Grogu w wózku lub połącz siły z R5-D4 i odpieraj atak wrogów za pomocą mrocznego miecza Mando. Co za przygoda! • Zestaw z myśliwcem N-1 Mando i Grogu — dzięki temu zestawowi dzieci w wieku od czterech lat uczą się budować z klocków LEGO® i wymyślać własne fantastyczne historie, wcielając się w bohaterów serialu Star Wars: The Mandalorian • Trzy postacie LEGO® Star Wars™ — minifigurka LEGO Mandalorianina, figurka LEGO Grogu i figurka LEGO droida R5-D4 • Prosty model pojazdu dla dzieci — myśliwiec z Gwiezdnych Wojen zawiera klocek startowy ułatwiający budowanie, otwierany kokpit dla Mandalorianina i miejsce dla Grogu • Realistyczne, zabawne akcesoria — Mandalorianin ma mroczny miecz i plecak odrzutowy, Grogu ma lewitujący wózek, a w zestawie znajduje się również stacja paliw do zbudowania • Prezent dla czteroletnich i starszych fanów Gwiezdnych Wojen — podaruj ten zestaw z serialu Star Wars: The Mandalorian jako nagrodę lub prezent dla dzieci w wieku przedszkolnym • Ciekawa zabawa wzmacniająca rodzinne więzi — w pudełku są szczegółowe, ilustrowane instrukcje. Znajdziesz je także w aplikacji LEGO® Builder, w której znajdują się cyfrowe narzędzia do wyświetlania modelu, które poszerzają możliwości zabawy • Rozwój kreatywności — zestawy konstrukcyjne LEGO® Star Wars™ dla czterolatków i starszych dzieci wprowadzają dzieci w świat Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 75410-1: https://a.allegroimg.com/original/05be74/ae023c01455eb8e8953273e942e7
+
 ---
 
-## 75411 — Lego Star Wars 75411 Star Wars Darth Maul i jego kostium robota
+## 75411 — LEGO Star Wars 75411 Darth Maul i jego kostium robota
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 39.88 zł · EAN: 05702017817613 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75411 |
+| Nazwa angielska | Darth Maul Mech |
+| Nazwa polska | LEGO Star Wars 75411 Darth Maul i jego kostium robota |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817613 |
 
 LEGO Star Wars 75411 Star Wars Darth Maul i jego kostium robota
 
@@ -11699,11 +17696,27 @@ Darth Maul i jego kombinezon robotyczny są częścią serii kombinezonów robot
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017817613
 
+**Galeria:**
+
+- 75411-1: https://a.allegroimg.com/original/11a7d1/f69358b640bb9ea4106c792c4760
+
 ---
 
-## 75412 — Lego Star Wars Szturmowiec Śmierci i nocny szturmowiec zestaw bitewny 75412
+## 75412 — Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 59.88 zł · EAN: 05702017817620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75412 |
+| Nazwa angielska | Death Trooper & Night Trooper Battle Pack |
+| Nazwa polska | Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817620 |
 
 Dzieci zbudują własny pluton i wyruszą z nim do bitew z serialu LEGO® Star Wars: Ahsoka™ z **Pakietem bitewnym: Death Trooper i Night Trooper** (75412). Zestaw to wspaniały mały prezent dla chłopców, dziewczynek i fanów w wieku od 6 lat, który zawiera statek desantowy z miejscem na 4 minifigurki LEGO z tyłu, 2 wyrzutnie i kokpit ze zdejmowaną osłoną na minifigurkę LEGO. **W zestawie** znajdują się 4 minifigurki LEGO Star Wars™ - 2 Troopery Death i 2 Troperzy Nocne. Każdy z nich ma blaster, który można umieścić obok nich z tyłu statku desantowego. Przygotuj się na zabawne bitwy!
 
@@ -11732,11 +17745,27 @@ Nie przegap innych pakietów bojowych LEGO Star Wars (sprzedawanych osobno) i od
  
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 75412-1: https://a.allegroimg.com/original/295f99/c11acb0f45f5a82ea4be4e481180
+
 ---
 
-## 75413 — Lego Star Wars Czołg Republiki Juggernaut 75413
+## 75413 — Czołg Republiki Juggernaut
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017817637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75413 |
+| Nazwa angielska | Republic Juggernaut |
+| Nazwa polska | Czołg Republiki Juggernaut |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 813 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm |
+| EAN | 5702017817637 |
 
 LEGO Star Wars - Czołg Republiki Juggernaut 75413
 
@@ -11763,11 +17792,27 @@ Poszerz kreatywne doświadczenia dzieci dzięki aplikacji LEGO Builder, w które
 - Zabawki dla fanów w każdym wieku — zestawy LEGO® Star Wars™ (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie kultowych scen, wymyślanie własnych historii lub eksponowanie modeli z klocków
 - Wymiary — pojazd LEGO® Star Wars™ w tym 813-elementowym zestawie ma 16 cm wysokości, 31 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 75413-1: https://a.allegroimg.com/original/114c8f/d62717b943a69e12b1afd1f8eea0
+
 ---
 
-## 75414 — Lego Star Wars 75414 Snowspeeder z filmu Síla se probouzí
+## 75414 — Płomienny śmigacz śnieżny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 148.38 zł · EAN: 05702017817644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75414 |
+| Nazwa angielska | The Force Burner Snowspeeder |
+| Nazwa polska | Płomienny śmigacz śnieżny |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817644 |
 
 **LEGO Star Wars Płomienny śmigacz śnieżny dla dzieci 75414**
  
@@ -11791,11 +17836,27 @@ Odkryj więcej zestawów LEGO® Star Wars™ dla wszystkich grup wiekowych (sprz
  
 Płomienny śmigacz śnieżny ma 17 cm długości
 
+**Galeria:**
+
+- 75414-1: https://a.allegroimg.com/original/256427/982d51704b3caf0169bef819662a
+
 ---
 
-## 75415 — Lego Star Wars Hełm Kylo Rena 75415
+## 75415 — Hełm Kylo Rena
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 262.37 zł · EAN: 05702017824581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75415 |
+| Nazwa angielska | Kylo Ren Helmet |
+| Nazwa polska | Hełm Kylo Rena |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 529 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824581 |
 
 LEGO STAR WARS Hełm Kylo Rena 75415
 
@@ -11807,11 +17868,26 @@ Ten zestaw do zbudowania i ozdoby jest odpowiedni zarówno dla doświadczonych k
 
 #28197
 
+**Galeria:**
+
+- 75415-1: https://a.allegroimg.com/original/050f0d/fdf19772440599b4e811c7566519
+
 ---
 
-## 75416 — Klocki Star Wars 75416 Droid astromechaniczny Chopper (C1-10P) Lego
+## 75416 — LEGO Star Wars 75416 Astro-droid Chopper (C1-10P)
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 270.00 zł · EAN: 05702017817651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75416 |
+| Nazwa angielska | Chopper (C1-10P) Astromech Droid |
+| Nazwa polska | LEGO Star Wars 75416 Astro-droid Chopper (C1-10P) |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1039 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817651 |
 
 Zbuduj zabawny element wystawowy z uroczym zestawem LEGO® Star Wars™ (75416) **Astro-droid Chopper (C1-10P)™**. Ta figurka Choppera to uroczy prezent urodzinowy lub świąteczny dla każdego fana od 10 lat i jest inspirowana serialem Star Wars: Ahsoka™.
  
@@ -11843,11 +17919,26 @@ Buduj razem z przyjaciółmi i rodziną - aplikacja LEGO® Builder zapewnia zaba
  
 • Odpowiedni dla dzieci od 10 roku życia
 
+**Galeria:**
+
+- 75416-1: https://a.allegroimg.com/original/29745e/3fa47bd64650aed56ea180177166
+
 ---
 
-## 75417 — Lego Star Wars 75417 Maszyna krocząca At-st
+## 75417 — LEGO Star Wars Maszyna krocząca AT-ST dla dorosłych 75417
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017817668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75417 |
+| Nazwa angielska | AT-ST Walker |
+| Nazwa polska | LEGO Star Wars Maszyna krocząca AT-ST dla dorosłych 75417 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1513 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 22 cm |
+| EAN | 5702017817668 |
 
 **LEGO Star Wars 75417 Maszyna krocząca AT-ST**
  
@@ -11883,11 +17974,27 @@ Przywołaj wspomnienia z epickich bitew o Endor dzięki zestawowi dla dorosłych
 - Zestawy LEGO Star Wars dla dorosłych - zestawy LEGO Star Wars dla dorosłych są przeznaczone dla hobbystów takich jak Ty, którzy lubią kreatywne, odprężające zajęcia i chcą mieć w domu namiastkę odległej galaktyki 
 - Wymiary - pojazd z Gwiezdnych Wojen w tym 1513-elementowym zestawie ma 37 cm wysokości, 22 cm długości i 22 cm szerokości
 
+**Galeria:**
+
+- 75417-1: https://a.allegroimg.com/original/117467/915576e5400c8cf3161239061d85
+
 ---
 
-## 75419 — Lego Star Wars 75419 Gwiazda Śmierci
+## 75419 — Gwiazda Śmierci
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 4129.99 zł · EAN: 05702017824185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75419 |
+| Nazwa angielska | Death Star |
+| Nazwa polska | Gwiazda Śmierci |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9023 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 70 cm × szer. 79 cm × gł. 27 cm |
+| EAN | 5702017824185 |
 
 Klocki LEGO Star Wars 75419 - Gwiazda Śmierci
 
@@ -11915,11 +18022,26 @@ Ten model będzie spektakularnym prezentem LEGO Star Wars dla kreatywnych doros�
 
 Zestaw LEGO Star Wars - Gwiazda Śmierci trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 75419. Zawiera 9023 klocków LEGO. W modelu znajdziesz też 39 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Death Star. Grupa wiekowa tego produktu to 18+.
 
+**Galeria:**
+
+- 75419-1: https://a.allegroimg.com/original/11f307/0dca396b408d88a61b0ef2dcb98b
+
 ---
 
-## 75420 — Lego Star Wars Smart Play: śmigacz Luke'a 75420
+## 75420 — LEGO Star Wars 75420 SMART Play Śmigacz Luke'a
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702017817675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75420 |
+| Nazwa angielska | Luke's Landspeeder |
+| Nazwa polska | LEGO Star Wars 75420 SMART Play Śmigacz Luke'a |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817675 |
 
 **LEGO Star Wars SMART Play: Śmigacz Luke'a 75420**
  
@@ -11939,11 +18061,26 @@ Odkryj pełną serię klocków LEGO® Star Wars™ SMART Play™
  
 Śmigacz ma 16 cm długości
 
+**Galeria:**
+
+- 75420-1: https://a.allegroimg.com/original/115365/5535dd8b41348e780ed9244d8639
+
 ---
 
-## 75421 — Lego Star Wars 75421 Smart Play Myśliwiec Tie Dartha Vadera
+## 75421 — LEGO Star Wars 75421 SMART Play Myśliwiec TIE Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 213.98 zł · EAN: 05702017817682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75421 |
+| Nazwa angielska | Darth Vader’s TIE Fighter |
+| Nazwa polska | LEGO Star Wars 75421 SMART Play Myśliwiec TIE Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 473 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702017817682 |
 
 **LEGO Star Wars 75421 SMART Play Myśliwiec TIE Dartha Vadera**
 
@@ -11990,11 +18127,26 @@ Liczba sztuk: 1
  
 Technologia baterii: RE-CHARG LI ION
 
+**Galeria:**
+
+- 75421-1: https://a.allegroimg.com/original/11ab7d/79caa02d43a1b4bbc4b7138098b6
+
 ---
 
-## 75422 — Lego Star Wars 75422 Smart Play: Chatka Yody i szkolenie Jedi
+## 75422 — LEGO Star Wars 75422 SMART Play Chatka Yody i szkolenie Jedi
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702017817699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75422 |
+| Nazwa angielska | Yoda's Hut and Jedi Training |
+| Nazwa polska | LEGO Star Wars 75422 SMART Play Chatka Yody i szkolenie Jedi |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 440 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817699 |
 
 **LEGO Star Wars SMART Play: Chatka Yody i szkolenie Jedi 75422**
  
@@ -12020,11 +18172,26 @@ Odkryj pełną serię klocków LEGO® Star Wars™ SMART Play™
  
 Chata Yody ma 20 cm szerokości
 
+**Galeria:**
+
+- 75422-1: https://a.allegroimg.com/original/118ef1/c9e3bb094d2597ea7a68e3216ec6
+
 ---
 
-## 75423 — Lego Star Wars Smart Play X-Wing Czerwona Piątka Luke’a 75423
+## 75423 — SMART Play X-Wing Czerwona Piątka Luke’a
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702017817705 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75423 |
+| Nazwa angielska | Luke's Red Five X-wing |
+| Nazwa polska | SMART Play X-Wing Czerwona Piątka Luke’a |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 581 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817705 |
 
 **LEGO Star Wars SMART Play X-Wing Czerwona Piątka Luke’a 75423**
 
@@ -12071,11 +18238,26 @@ Liczba sztuk baterii: 1
 
 Technologia baterii: RE-CHARG LI ION
 
+**Galeria:**
+
+- 75423-1: https://a.allegroimg.com/original/11dc56/a31d9b5740d0a77d13b5c531aa2d
+
 ---
 
-## 75424 — Lego Star Wars 75424 Lego Star Wars 75424 Smart Play Atak At-st na Endor
+## 75424 — LEGO Star Wars 75424 SMART Play Atak AT-ST na Endor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 174.58 zł · EAN: 05702017817712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75424 |
+| Nazwa angielska | AT-ST Attack on Endor |
+| Nazwa polska | LEGO Star Wars 75424 SMART Play Atak AT-ST na Endor |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017817712 |
 
 **LEGO Star Wars SMART Play: Atak AT-ST na Endor 75424**
  
@@ -12101,11 +18283,26 @@ Odkryj pełną serię klocków LEGO® Star Wars™ SMART Play™
  
 Maszyna krocząca AT-ST w tym 347-elementowym zestawie ma 19 cm wysokości
 
+**Galeria:**
+
+- 75424-1: https://a.allegroimg.com/original/118697/40ba480349119c5588af590000f4
+
 ---
 
-## 75425 — Lego Star Wars 75425 Smart Play Kompatybilny Kantyna Mos Eisley
+## 75425 — LEGO Star Wars 75425 SMART Play Kantyna Mos Eisley
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017817729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75425 |
+| Nazwa angielska | Mos Eisley Cantina |
+| Nazwa polska | LEGO Star Wars 75425 SMART Play Kantyna Mos Eisley |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 666 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 48 cm × gł. 11 cm |
+| EAN | 5702017817729 |
 
 LEGO Star Wars 75425 SMART Play Kantyna Mos Eisley
 
@@ -12143,11 +18340,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko.
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy.
 
+**Galeria:**
+
+- 75425-1: https://a.allegroimg.com/original/111cdd/3a7c977a425e94292b6cd5e1fa88
+
 ---
 
-## 75426 — Lego Star Wars 75426 Smart Play: Sokół Millennium
+## 75426 — SMART Play: Sokół Millennium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017817736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75426 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | SMART Play: Sokół Millennium |
+| Seria | SMART Play |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 885 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017817736 |
 
 **LEGO Star Wars SMART Play: Sokół Millennium 75426**
  
@@ -12173,11 +18385,26 @@ Odkryj pełną serię zabawek konstrukcyjnych LEGO® Star Wars™ SMART Play™
  
 Model Sokoła Millennium ma 27 cm długości
 
+**Galeria:**
+
+- 75426-1: https://a.allegroimg.com/original/11a96e/549a7c564593b7b61d920c5dadbc
+
 ---
 
-## 75427 — Lego 75427 Star Wars Smart Play Pojedynek W Sali Tronowej I A-wing
+## 75427 — LEGO Star Wars 75427 SMART Play Pojedynek w sali tronowej i A-Wing
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 554.99 zł · EAN: 05702017817743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75427 |
+| Nazwa angielska | Throne Room Duel & A-Wing |
+| Nazwa polska | LEGO Star Wars 75427 SMART Play Pojedynek w sali tronowej i A-Wing |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 962 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 49 cm × gł. 29 cm |
+| EAN | 5702017817743 |
 
 **LEGO Star Wars 75427 SMART Play Pojedynek w sali tronowej i A-Wing**
 
@@ -12218,11 +18445,27 @@ Liczba sztuk baterii: 2
 
 Technologia baterii:RE-CHARG LI ION
 
+**Galeria:**
+
+- 75427-1: https://a.allegroimg.com/original/11f551/391bc0b340a0a81b8a301efd2331
+
 ---
 
-## 75428 — Lego Star Wars 75428 Droid Bojowy Z Platformą Stap 12+ Nowy
+## 75428 — Droid bojowy z platformą STAP
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 440.00 zł · EAN: 05702017824598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75428 |
+| Nazwa angielska | Battle Droid with STAP |
+| Nazwa polska | Droid bojowy z platformą STAP |
+| Seria | Star Wars |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1088 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 14 cm |
+| EAN | 5702017824598 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -12253,11 +18496,27 @@ Zestaw zawiera szczegółowe instrukcje, a także oferuje aplikację LEGO Builde
 - Kolekcja LEGO® Star Wars™ — zestawy LEGO Star Wars (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom odtwarzanie kultowych scen, wymyślanie własnych przygód lub po prostu eksponowanie modeli
 - Wymiary — figurka droida bojowego w tym 1088-elementowym zestawie ma 38 cm wysokości, 30 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 75428-1: https://a.allegroimg.com/original/052b82/2ad4126643fa8b8431257099c838
+
 ---
 
-## 75429 — Lego Star Wars 75429 Hełm operatora At-at
+## 75429 — Hełm operatora AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702017824604 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75429 |
+| Nazwa angielska | AT-AT Driver Helmet |
+| Nazwa polska | Hełm operatora AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 730 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 13 cm |
+| EAN | 5702017824604 |
 
 **LEGO 75429 Hełm operatora AT-AT**
 
@@ -12284,11 +18543,27 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 75429-1: https://a.allegroimg.com/original/1145c9/cade254d46b78ecab5d7107092ad
+
 ---
 
-## 75430 — Klocki Lego Star Wars Ewok Wicket 1010 elementów
+## 75430 — Ewok Wicket
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.99 zł · EAN: 05702017824611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75430 |
+| Nazwa angielska | Wicket the Ewok |
+| Nazwa polska | Ewok Wicket |
+| Seria | Star Wars |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824611 |
 
 Dzieci mogą teraz zbudować kultową postać Ewoka Wicketa dzięki zestawowi LEGO® Star Wars™ (75430). To świetny pomysł na prezent w stylu LEGO Star Wars dla chłopców, dziewczynek i wszystkich fanów w wieku od 12 lat. Będzie też fajną i uroczą ozdobą biurka, która zachwyci przyjaciół i przywoła wspomnienia z kultowych scen z filmu Gwiezdne Wojny: Powrót Jedi. Figurka zbudowana z klocków LEGO jest pełna realistycznych detali. Ma włócznię do zbudowania oraz smakołyk (taki jak ten, który dała mu księżniczka Leia w lesie Endor). Ta zabawka konstrukcyjna LEGO Star Wars zawiera również minifigurkę LEGO Ewoka Wicketa, a także tabliczkę z napisem, która uzupełni tę uroczą dekorację.
 
@@ -12303,11 +18578,26 @@ Budowanie ze znajomymi i rodziną — aplikacja LEGO® Builder oferuje świetną
 - Seria z odległej galaktyki— zestawy LEGO® Star Wars™ (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom odtwarzanie kultowych scen, wymyślanie własnych historii lub eksponowanie modeli z klocków
 - Wymiary — figurka Ewoka do zbudowania w tym 1010-elementowym zestawiema 23 cm wysokości
 
+**Galeria:**
+
+- 75430-1: https://a.allegroimg.com/original/1198e2/37c75ac24146a3bcb2c6646b3de3
+
 ---
 
-## 75431 — Lego Star Wars 75431 Pakiet bojowy żołnierzy klonów z 327. Dywizji
+## 75431 — LEGO Star Wars 75431 Klony z 327. korpusu galaktycznego
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702017901213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75431 |
+| Nazwa angielska | 327th Star Corps Clone Troopers Battle Pack |
+| Nazwa polska | LEGO Star Wars 75431 Klony z 327. korpusu galaktycznego |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017901213 |
 
 **LEGO Star Wars klony z 327. korpusu galaktycznego 75431**
 
@@ -12331,11 +18621,26 @@ Wśród zestawów konstrukcyjnych LEGO® Star Wars™ każdy fan znajdzie coś d
 
 Maszyna krocząca AT-RT LEGO® Star Wars™ ma 15 cm wysokości
 
+**Galeria:**
+
+- 75431-1: https://a.allegroimg.com/original/117521/e4d85b834c2db4dcc606f15d3054
+
 ---
 
-## 75432 — Lego Star Wars 75432 Myśliwiec V-19 Torrent Starfighter
+## 75432 — LEGO Star Wars 75432 Myśliwiec V-19 Torrent Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 197.98 zł · EAN: 05702017901220 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75432 |
+| Nazwa angielska | V-19 Torrent Starfighter |
+| Nazwa polska | LEGO Star Wars 75432 Myśliwiec V-19 Torrent Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 567 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017901220 |
 
 **LEGO Star Wars Myśliwiec V-19 Torrent dla dzieci 75432**
  
@@ -12363,11 +18668,26 @@ Odkryj więcej zestawów LEGO® Star Wars™ dla wszystkich grup wiekowych (sprz
  
 Ten pojazd z Gwiezdnych Wojen ma 20 cm długości
 
+**Galeria:**
+
+- 75432-1: https://a.allegroimg.com/original/29d2ae/dc4b4886425fbeb8b4c751a09700
+
 ---
 
-## 75433 — Lego Star Wars 75433 Jango Fett i jego statek kosmiczny
+## 75433 — LEGO Star Wars 75433 Jango Fett i jego statek kosmiczny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 227.87 zł · EAN: 05702017901237 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75433 |
+| Nazwa angielska | Jango Fett's Starship |
+| Nazwa polska | LEGO Star Wars 75433 Jango Fett i jego statek kosmiczny |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 707 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017901237 |
 
 **LEGO Star Wars Statek Jango Fetta, zabawka konstrukcyjna 75433**
  
@@ -12393,11 +18713,26 @@ Dołącz do zabawy, budując zestaw towarzyszący dla dorosłych nr 75409 (sprze
  
 Ten pojazd LEGO® Star Wars™ ma 21 cm długości
 
+**Galeria:**
+
+- 75433-1: https://a.allegroimg.com/original/29412f/3a6721a64065833086c9aecc59c9
+
 ---
 
-## 75434 — Lego Star Wars 75434 Droid Bezpieczeństwa K-2SO
+## 75434 — LEGO Star Wars 75434 Droid bezpieczeństwa K-2SO
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 266.99 zł · EAN: 05702017901244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75434 |
+| Nazwa angielska | K-2SO |
+| Nazwa polska | LEGO Star Wars 75434 Droid bezpieczeństwa K-2SO |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 845 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017901244 |
 
 LEGO Star Wars 75434 Droid Bezpieczeństwa K-2SO
 
@@ -12422,11 +18757,27 @@ Star Wars™ K-2SO™ Security Droid LEGO® Star Wars™ Droid strażniczy K-2SO
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017901244
 
+**Galeria:**
+
+- 75434-1: https://a.allegroimg.com/original/11970e/f9ad22274779ba7122f8d7c12ef4
+
 ---
 
-## 75435 — Lego 75435 Star Wars Transporter Mtt Separatystów z bitwy o Felucję
+## 75435 — Transporter MTT Separatystów z bitwy o Felucję
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.94 zł · EAN: 05702017901251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75435 |
+| Nazwa angielska | Battle of Felucia Separatist MTT |
+| Nazwa polska | Transporter MTT Separatystów z bitwy o Felucję |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 976 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 13 cm |
+| EAN | 5702017901251 |
 
 LEGO Star Wars - Transporter MTT Separatystów z bitwy o Felucję 75435
 
@@ -12451,11 +18802,26 @@ Fajny prezent dla młodych fanów Gwiezdnych Wojen zawiera dwie minifigurki LEGO
 - Odkryj całą serię — kolekcjonerskie zestawy LEGO® Star Wars™ (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie kultowych scen, wymyślanie własnych historii lub eksponowanie modeli z klocków
 - Buduj i eksponuj — pojazd do zbudowania w tym 976-elementowym zestawie LEGO® Star Wars™ ma 15 cm wysokości, 29 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 75435-1: https://a.allegroimg.com/original/118b8c/ff22d5fd43f3ac1ff53396f97dd6
+
 ---
 
-## 75436 — Lego Star Wars 75436 Mandalorian I Grogu Na Śmigaczu
+## 75436 — LEGO Star Wars 75436 Śmigacz Mandalorianina i Grogu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 27.00 zł · EAN: 05702018062951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75436 |
+| Nazwa angielska | The Mandalorian & Grogu's Speeder Bike |
+| Nazwa polska | LEGO Star Wars 75436 Śmigacz Mandalorianina i Grogu |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018062951 |
 
 Dziś do zaoferowania Państwu mamy: **LEGO STAR WARS 75436 MANDALORIAN I GROGU NA ŚMIGACZU**
 
@@ -12465,11 +18831,26 @@ Stan wizualny **IDEALNY** .
 
 Zdjęcia umieszczone w galerii odzwierciedlają faktyczny wygląd oferowanego przedmiotu.
 
+**Galeria:**
+
+- 75436-1: https://a.allegroimg.com/original/116257/56f1498d4037a764d9dc775fe6b0
+
 ---
 
-## 75437 — Lego Star Wars 75437 Cobb Vanth i speeder
+## 75437 — śmigacz
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 77.26 zł · EAN: 05702018062968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75437 |
+| Nazwa angielska | Cobb Vanth's Speeder |
+| Nazwa polska | śmigacz |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702018062968 |
 
 Połącz siły z Cobbem Vanthem i zmierz się z Cado Bane'em w pełnych akcji bitwach z tym ekscytującym zestawem konstrukcyjnym LEGO® Star Wars™ (75437) dla dzieci. Zbuduj szczegółowy model niesamowitego śmigacza Cobba Vantha z filmu „Gwiezdne Wojny: Mandalorianin” z klocków LEGO. Zestaw zawiera fotel kierowcy dla minifigurki LEGO Cobba Vantha, magazynek na broń i ukryty schowek na akcesoria, w tym hełm Boby Fetta i karton mleka Banth. W zestawie znajduje się minifigurka LEGO Cado Bane'a z dwoma pistoletami blasterowymi, a Cobb ma również plecak odrzutowy do zabawy w powietrzu.
  
@@ -12491,11 +18872,26 @@ Dzieci będą mogły cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO
 - Liczba elementów: 207 
 - Odpowiedni dla dzieci w wieku od 7 lat.
 
+**Galeria:**
+
+- 75437-1: https://a.allegroimg.com/original/05fa21/80bedb0240379492d78fa2a9994d
+
 ---
 
-## 75438 — Lego Star Wars 75438 Popiersie Yody
+## 75438 — LEGO Star Wars 75438 Popiersie Yody
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702018062975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75438 |
+| Nazwa angielska | Yoda Bust |
+| Nazwa polska | LEGO Star Wars 75438 Popiersie Yody |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 399 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 11 cm × gł. 9 cm |
+| EAN | 5702018062975 |
 
 LEGO Star Wars 75438 Popiersie Yody
  
@@ -12516,11 +18912,26 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 - Z odległej galaktyki prosto w Twoje ręce — zestawy LEGO® Star Wars™ dla dorosłych przeznaczone są dla hobbystów takich jak Ty, którzy doceniają odprężające zajęcia. 
 - Wymiary — zestaw LEGO® zawierający popiersie Yody z klocków LEGO® składa się z 399 elementów i ma 21 cm wysokości, 11 cm szerokości i 9 cm głębokości. To świetna ozdoba w stylu Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 75438-1: https://a.allegroimg.com/original/11fd28/ffb5c06b46c59336b8ecfa30d142
+
 ---
 
-## 75439 — Lego Star Wars 75439 Popiersie Dartha Vadera
+## 75439 — LEGO Star Wars 75439 Popiersie Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 154.84 zł · EAN: 05702018062982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75439 |
+| Nazwa angielska | Darth Vader Bust |
+| Nazwa polska | LEGO Star Wars 75439 Popiersie Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 14 cm × gł. 9 cm |
+| EAN | 5702018062982 |
 
 LEGO Star Wars 75439 Popiersie Dartha Vadera
  
@@ -12540,11 +18951,26 @@ Poznaj inny wymiar budowania dzięki aplikacji LEGO Builder, w której można po
 - Zestaw z Gwiezdnych Wojen — podaruj sobie lub innej osobie dorosłej, która jest fanem oryginalnej trylogii Gwiezdnych Wojen, ten imponujący zestaw do zbudowania popiersia Dartha Vadera. 
 - Wymiary — zestaw zawierający popiersie Dartha Vadera z klocków LEGO® składa się z 349 elementów i ma 18 cm wysokości, 14 cm szerokości i 9 cm głębokości. To świetna ozdoba w stylu Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 75439-1: https://a.allegroimg.com/original/110a10/ae47eb7c4721a8c92d597e54ecd8
+
 ---
 
-## 75440 — Lego Star Wars 75440 At-at
+## 75440 — LEGO Star Wars 75440 Imperium kontratakuje AT-AT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 195.78 zł · EAN: 05702018062999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75440 |
+| Nazwa angielska | AT-AT |
+| Nazwa polska | LEGO Star Wars 75440 Imperium kontratakuje AT-AT |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 525 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018062999 |
 
 LEGO Star Wars 75440 AT-AT
 
@@ -12567,21 +18993,51 @@ Uchwyć dynamiczną pozę maszyny AT-AT podczas bitwy o Hoth. Zbuduj szczegóło
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702018062999
 
+**Galeria:**
+
+- 75440-1: https://a.allegroimg.com/original/11e770/f998d17b43ad964166faff4cde9b
+
 ---
 
-## 75441 — Lego Star Wars 75441 Krążownik szturmowy typu Venator
+## 75441 — LEGO Star Wars 75441 Krążownik szturmowy typu Venator
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 234.98 zł · EAN: 05702018063002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75441 |
+| Nazwa angielska | Venator-Class Attack Cruiser |
+| Nazwa polska | LEGO Star Wars 75441 Krążownik szturmowy typu Venator |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 643 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063002 |
 
 LEGO Star Wars 75441 Krążownik szturmowy typu Venator
 
 Zaprezentuj opływowy kształt krążownika szturmowego typu Venator dzięki temu zestawowi ze statkiem gwiezdnym (75441). Użyj klocków LEGO®, aby odtworzyć charakterystyczną sylwetkę i autentyczne detale jednego z najbardziej wszechstronnych statków gwiezdnych we flocie Republiki Galaktycznej. Przeżyj ponownie sceny z filmu Gwiezdne Wojny: Zemsta Sithów podczas budowania tego szczegółowego i satysfakcjonującego modelu. Z dumą zaprezentuj swój imponujący krążownik szturmowy na podstawce z tabliczką.
 
+**Galeria:**
+
+- 75441-1: https://a.allegroimg.com/original/05d540/d292888842289756d6d900e2b436
+
 ---
 
-## 75442 — Lego Star Wars 75442 Myśliwiec N-1 Mandalorianina
+## 75442 — Myśliwiec N-1 Mandalorianina
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702018066515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75442 |
+| Nazwa angielska | The Mandalorian's N-1 Starfighter |
+| Nazwa polska | Myśliwiec N-1 Mandalorianina |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1809 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 39 cm |
+| EAN | 5702018066515 |
 
 **LEGO 75442 Myśliwiec N-1 Mandalorianina**
 
@@ -12611,19 +19067,49 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 75442-1: https://a.allegroimg.com/original/11eb60/c4ef61fa4f89a85e8ad17b843b39
+
 ---
 
-## 75443 — Lego Star Wars 75443 Lego Star Wars 75443 Gospodarstwo Grogu
+## 75443 — LEGO Star Wars 75443 Gospodarstwo Grogu
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702018063019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75443 |
+| Nazwa angielska | Grogu's Homestead |
+| Nazwa polska | LEGO Star Wars 75443 Gospodarstwo Grogu |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063019 |
 
 Spędź czas z Grogu w jego domu. Ustaw głowę, ramiona i dłonie uroczej postaci. Użyj katapulty, aby żaba z Sorgan wykonała skok! Postaw garnek na kominku, aby ugotować macki. Pomóż Grogu upiec piankę nad ogniskiem. A jeśli Grogu nadal jest głodny, sięgnij po niebieskiego makaronika!Interaktywna zabawka dla chłopca lub dziewczynki — dzieci umieszczą żabę z Sorgan na katapulcie i wykonają spektakularny skokPrezent dla 4-latka — ten zestaw z serialu \"Star Wars: The Mandalorian\" to uroczy, niewielki prezent LEGO dla chłopców, dziewczynek i fanów w wieku od 4 latRozwój kreatywności — klocki LEGO Star Wars dla 4-latków i starszych dzieci wprowadzają dzieci w świat klocków konstrukcyjnych i filmowej serii \"Gwiezdne Wojny\"Zabawa dla całej rodziny — w pudełku są szczegółowe, ilustrowane instrukcje. Dostępne są także w aplikacji LEGO Builder, w której znajdują się cyfrowe narzędzia do wyświetlania modeluZabawka dla dzieci do zbudowania — klocki dla dzieci LEGO Star Wars Dom Grogu (75443) to urocza zabawka dla 4-latka, który uczy się budować i wymyślać własne przygody inspirowane 1. sezonem serialu \"Star Wars: The Mandalorian\"Ruchoma figurka Grogu — ten zestaw klocków dla 4-latka zawiera łatwą do zbudowania figurkę Grogu z ruchomą głowę, rękami i dłońmiFajne akcesoria — dzieci zbudują kominek z garnkiem na dwie macki, umieszczą patyk z pianką w dłoni Grogu LEGO i znajdą jeden z dwóch niebieskich makaroników w brzuszku Grogu
 
+**Galeria:**
+
+- 75443-1: https://a.allegroimg.com/original/11faf5/ccf91f9341e2a974494125e84ae2
+
 ---
 
-## 75444 — Lego Star Wars 75444 Lego Star Wars 75444 Atak At-rt
+## 75444 — LEGO Star Wars 75444 Atak AT-RT
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 135.29 zł · EAN: 05702018063026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75444 |
+| Nazwa angielska | AT-RT Attack |
+| Nazwa polska | LEGO Star Wars 75444 Atak AT-RT |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 5 cm |
+| EAN | 5702018063026 |
 
 Pozwól dzieciom wyruszyć na własną przygodę z filmu Star Wars: Mandalorian i Grogu z modelem Atak AT-RT (75444). Zawiera ruchomego pieszego AT-RT z podwójną wyrzutnią oraz wieżyczkę obronną z obrotową wieżyczką i własną podwójną wyrzutnią. Umieść minifigurkę kierowcy AT-RT Salda Imperialnego lub minifigurkę LEGO® Mandaloriana na siedzeniu AT-RT (usuń element deski rozdzielczej i zrób miejsce dla figurki LEGO Groga, która pojedzie z Mandem). Otwórz wieżę obronną, aby odsłonić stojak na broń i schowek. Aby uzyskać dodatkową porcję akcji walki fantasy, wyposaż Mandaloriana w jetpack i pistolet blasterowy, a kierowcę w blaster AT-RT.
  
@@ -12645,11 +19131,26 @@ Dzieci mogą budować pewnie dzięki aplikacji LEGO Builder - powiększaj i obra
 - **Liczba elementów 297** 
 - Nadaje się dla dzieci od 7 lat.
 
+**Galeria:**
+
+- 75444-1: https://a.allegroimg.com/original/296cb2/352509d44f9e9b2467c27d2ee2ae
+
 ---
 
-## 75445 — Lego Star Wars 75445 Lego Star Wars 75445 Statek kosmiczny Anzellan
+## 75445 — LEGO Star Wars 75445 Statek kosmiczny Anzellan
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 219.98 zł · EAN: 05702018063033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75445 |
+| Nazwa angielska | Anzellan Starship |
+| Nazwa polska | LEGO Star Wars 75445 Statek kosmiczny Anzellan |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 701 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm |
+| EAN | 5702018063033 |
 
 Dzięki temu zestawowi LEGO® Star Wars™ dla dzieci możesz budować i naprawiać droidy na pokładzie statku kosmicznego Anzellan (75445), jak widać z filmu Gwiezdne wojny: Mandalorian i Grogu. Otwórz pokrywę kokpitu i zdejmij dach głównej przestrzeni, aby umieścić figurkę LEGO Grogua i 2 urocze Anzellany wewnątrz tego szczegółowego statku kosmicznego. Za pomocą elementów i narzędzi w warsztacie zmontuj droida bojowego (lub wyjmij stół warsztatowy ze statku kosmicznego i baw się nim na zewnątrz). Posadź figurki LEGO przy stole z niebieskimi ciasteczkami lub na siedzeniu przy konsoli. A kiedy nadejdzie czas, aby wylądować, opuść rampę.
 
@@ -12680,11 +19181,26 @@ Dzieci będą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builde
  
 - Nadaje się dla dzieci od 9 lat.
 
+**Galeria:**
+
+- 75445-1: https://a.allegroimg.com/original/290476/fac578104df386cb9ed967530b4e
+
 ---
 
-## 75446 — Lego Star Wars 75446 Lego Star Wars 75446 Grogu (Mandaloriański uczeń)
+## 75446 — LEGO Star Wars 75446 Grogu (Mandaloriański uczeń)
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 375.98 zł · EAN: 05702018063040 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75446 |
+| Nazwa angielska | Grogu (Mandalorian Apprentice) |
+| Nazwa polska | LEGO Star Wars 75446 Grogu (Mandaloriański uczeń) |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063040 |
 
 Zabawny model LEGO® Star WarsTM Grogu (Uczeń Mandalorianina) dla dzieci (75446) od razu przyciągnie uwagę! Zbuduj pancerz Beskar i torbę Grogu, które nosi w serialu Star Wars: Mandalorian i Grogu. Daj mu niebieskie ciasteczko jako dodatek i schowaj jedno do torby na później. Przesuwaj dźwignię, aby obracać głowę Grogu, dostosowywać jego usta, uszy, ręce i palce, a także mocować jego ramiona w różnych pozach, aby odtworzyć jego charakterystyczne pozy.
  
@@ -12706,11 +19222,26 @@ Ten zestaw to świetny prezent dla dzieci, chłopców i dziewczynek od 10 lat, i
 - **Liczba elementów: 1200** 
 - Odpowiednie dla dzieci od 10 lat.
 
+**Galeria:**
+
+- 75446-1: https://a.allegroimg.com/original/298fa6/800d27aa493abcca271681a56c83
+
 ---
 
-## 75447 — Lego Star Wars Brzeszczot 75447
+## 75447 — LEGO Star Wars 75447 Razor Crest
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018063057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75447 |
+| Nazwa angielska | The Razor Crest |
+| Nazwa polska | LEGO Star Wars 75447 Razor Crest |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 930 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063057 |
 
 **LEGO Star Wars Brzeszczot 75447**
 
@@ -12736,27 +19267,72 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 Zestaw z modelem statku Brzeszczot ma 32 cm długości
 
+**Galeria:**
+
+- 75447-1: https://a.allegroimg.com/original/118ee2/5041c2ee43319d7fb8acc18ec3f1
+
 ---
 
-## 75448 — Lego Star Wars 75448 Mech klona Shock Troopera
+## 75448 — LEGO Star Wars 75448 Mech klona Shock Troopera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702018063064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75448 |
+| Nazwa angielska | Clone Shock Trooper Mech |
+| Nazwa polska | LEGO Star Wars 75448 Mech klona Shock Troopera |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063064 |
 
 Pokaż potęgę Imperium dzięki tej niesamowitemu mechowi! Wskocz do kokpitu wraz z klonem Shock Troopera i przypnij jego karabin blasterowy z tyłu mecha. Poruszaj rękami, ramionami, nogami i stopami mecha, aby tworzyć potężne pozy bojowe. Uruchom potężny karabin blasterowy. Dzięki czerwono-białej zbroi ten mech jest gotowy do walki, kiedy tylko chcesz.Minifigurka LEGO Star Wars — minifigurkę klona Shock Troopera można umieścić w kokpicie i przypiąć jego karabin blasterowy z tyłu uzbrojonego mechaKlocki dla 6-latka z figurką do zabawy — dzieci mogą ustawić ręce, ramiona, nogi i stopy mecha, a także celować we wrogów z dużego karabinu blasterowego strzelającego klockamiInne zestawy z serii — zestawy LEGO Star Wars (sprzedawane osobno) umożliwiają dzieciom i dorosłym fanom odtwarzanie klasycznych scen, odgrywanie własnych historii lub eksponowanie modeliCiekawy sposób na budowanie — aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej śledzić postępy, przybliżać i obracać modele dzięki trójwymiarowym instrukcjomZabawka dla dzieci z mechem — dzięki zestawowi klocków LEGO Star Wars Mech klona Shock Troopera dzieci zbudują ruchomą figurką mecha i zapoznają się z pełną akcji zabawą w świecie \"Gwiezdnych Wojen\"Zestaw kolekcjonerski LEGO dla chłopca i dziewczynki — ten mech do zbudowania jest częścią kolekcji mechów LEGO Star Wars (sprzedawanych osobno)Prezent dla dzieci — ten zestaw z kolekcjonerskim mechem LEGO będzie świetnym prezentem dla 6-latka, dla chłopca, dziewczynki i starszych fanów klocków LEGO Star Wars i zestawów konstrukcyjnych
 
+**Galeria:**
+
+- 75448-1: https://a.allegroimg.com/original/1100a4/96593e2c43049e01014139358fa7
+
 ---
 
-## 75449 — Lego Star Wars 75449 Oblężenie Mandalory Zestaw Bitewny
+## 75449 — LEGO Star Wars 75449 Oblężenie Mandalory zestaw bitewny
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 54.95 zł · EAN: 05702018063071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75449 |
+| Nazwa angielska | Siege of Mandalore Battle Pack |
+| Nazwa polska | LEGO Star Wars 75449 Oblężenie Mandalory zestaw bitewny |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063071 |
 
 Przygotuj się na epicką bitwę pomiędzy mandaloriańskimi superkomandosami a 332. oddziałem żołnierzy-klonów! Poprowadź fajny ścigacz komandosów i spróbuj przedrzeć się przez barykadę żołnierzy-klonów. Aktywuj blaster strzelający klockami w śmigaczu. Ale uważaj na ostrzał z miotaczy klocków żołnierzy-klonów. Załóż plecaki odrzutowe komandosów i ruszaj do ataku z powietrza!Zabawka dla chłopca i dziewczynki ze śmigaczem — mandaloriańskiego superkomandosa można posadzić za kierownicą pojazdu LEGO Star Wars, a drugiego na tylnym siedzeniu z blasterem strzelającym klockamiZestaw LEGO dla 6-latka stworzony do akcji — dzieci mogą umieścić żołnierzy-klonów za barykadą, schować amunicję w pojemniku, a następnie wycelować i uruchomić zamontowany miotacz klockówPrezent dla dzieci — ta zabawka konstrukcyjna to świetny pomysł na prezent dla chłopca od 6 lat, dla dziewczynki, a także dla starszych fanów serialu \"Gwiezdne Wojny: Wojny klonów\"Więcej akcji, więcej bitew — inne zestawy bitewne LEGO Star Wars (sprzedawane osobno) pozwolą dzieciom budować całe plutony i odgrywać gwiezdne przygodyJeszcze lepsza interaktywna zabawa — aplikacja LEGO Builder umożliwia samodzielne budowanie dzięki narzędziom, które umożliwiają powiększanie i obracanie modeli za pomocą instrukcji 3D, śledzenie postępów i zapisywanie ich w jednym miejscuZestaw klocków dla 6-latka — z zestawem bitewnym LEGO Star Wars Oblężenie Mandalory (75449) dzieci w wieku od 6 lat mogą odegrać własną wersję bitwy z serialu \"Gwiezdne Wojny: Wojny klonów\"Cztery minifigurki LEGO Star Wars — dzieci mogą wyposażyć dwóch mandaloriańskich superkomandosów w plecaki odrzutowe i blastery, a dwóch żołnierzy-klonów 332. pułku w blastery i karabiny blasterowe
 
+**Galeria:**
+
+- 75449-1: https://a.allegroimg.com/original/11b023/335b83a94643a2872deeb38c537d
+
 ---
 
-## 75451 — Lego Star Wars Starcie z droidem wartowniczym w pałacu Huttów 75451
+## 75451 — Starcie z droidem wartowniczym w pałacu Huttów
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702018063088 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75451 |
+| Nazwa angielska | Hutt Palace Sentry Droid Showdown |
+| Nazwa polska | Starcie z droidem wartowniczym w pałacu Huttów |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 415 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063088 |
 
 **LEGO Star Wars Starcie z droidem wartowniczym w pałacu Huttów 75451**
 
@@ -12782,21 +19358,51 @@ Odkryj więcej zestawów LEGO® Star Wars™ dla wszystkich grup wiekowych (sprz
 
 Droid wartowniczy w tym 415-elementowym zestawie ma 14 cm wysokości
 
+**Galeria:**
+
+- 75451-1: https://a.allegroimg.com/original/11e212/94b452b74236ade2123d8f6f67ab
+
 ---
 
-## 75452 — Lego Star Wars 75452 Droid astromechaniczny BB-8
+## 75452 — LEGO Star Wars 75452 Droid astromechaniczny BB-8
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063095 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75452 |
+| Nazwa angielska | BB-8 Astromech Droid |
+| Nazwa polska | LEGO Star Wars 75452 Droid astromechaniczny BB-8 |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063095 |
 
 LEGO Star Wars 75452 Droid astromechaniczny BB-8™
 
 Wykorzystaj w pełni urzekający potencjał figurki Droida astromechanicznego BB-8™ dla dzieci. Użyj klocków LEGO, aby uchwycić autentyczne szczegóły kultowego droida, znanego z filmu Gwiezdne Wojny: Przebudzenie Mocy. Przesuń BB-8 po płaskiej powierzchni, aby jego głowa obracała się w losowych kierunkach. Otwórz klapę na jego tułowiu, aby odsłonić ramię z palnikiem, takie jak to, którego użył, aby pokazać Finnowi „kciuk w górę”.
 
+**Galeria:**
+
+- 75452-1: https://a.allegroimg.com/original/110747/005848b04476828e99b0ef9f3882
+
 ---
 
-## 75453 — Lego Star Wars Piaskoczołg wędrownych Jawów i bagnorożec 75453
+## 75453 — Piaskoczołg wędrownych Jawów i bagnorożec
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.74 zł · EAN: 05702018063101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75453 |
+| Nazwa angielska | Offworld Sandcrawler and Mudhorn |
+| Nazwa polska | Piaskoczołg wędrownych Jawów i bagnorożec |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1683 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063101 |
 
 **LEGO Star Wars Piaskoczołg wędrownych Jawów i bagnorożec 75453**
 
@@ -12824,11 +19430,26 @@ Odkryj więcej zestawów LEGO® Star Wars™ dla wszystkich grup wiekowych (sprz
 
 Ten 1683-elementowy zestaw zawiera piaskoczołg o długości ponad 35 cm
 
+**Galeria:**
+
+- 75453-1: https://a.allegroimg.com/original/118145/247479bc48629571965b8792aa8a
+
 ---
 
-## 75454 — Lego Star Wars At-at Resztek Imperium i INT-4 75454
+## 75454 — AT-AT Resztek Imperium i INT-4
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 529.98 zł · EAN: 05702018063118 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75454 |
+| Nazwa angielska | Imperial Remnant AT-AT with INT-4 |
+| Nazwa polska | AT-AT Resztek Imperium i INT-4 |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1453 |
+| Cena katalogowa | 689.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063118 |
 
 **LEGO Star Wars AT-AT Resztek Imperium i INT-4 75454**
 
@@ -12856,11 +19477,26 @@ Sprawdź inne zestawy z filmu Star Wars: The Mandalorian and Grogu™, sprzedawa
 
 Ten 1453-elementowy zestaw zawiera maszynę kroczącą AT-AT™ o długości ponad 37 cm
 
+**Galeria:**
+
+- 75454-1: https://a.allegroimg.com/original/11ebd6/b63714524fb28358078f81d3600f
+
 ---
 
-## 75455 — Lego Star Wars Boba Fett 75455
+## 75455 — Boba Fett
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 559.98 zł · EAN: 05702018063125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75455 |
+| Nazwa angielska | Boba Fett |
+| Nazwa polska | Boba Fett |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1544 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063125 |
 
 **LEGO Star Wars Boba Fett 75455**
 
@@ -12886,11 +19522,27 @@ Odkryj więcej kolekcjonerskich zestawów LEGO® Star Wars™ dla dorosłych (sp
 
 Ten 1544-elementowy zestaw z figurką Boby Fetta ma ponad 41 cm wysokości
 
+**Galeria:**
+
+- 75455-1: https://a.allegroimg.com/original/11e767/28a3c9524de2b37389e45188c800
+
 ---
 
-## 75456 — * Lego Star Wars Kalendarz adwentowy na 2026 rok 75456
+## 75456 — LEGO Star Wars Kalendarz adwentowy na 2026 rok
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702018062470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75456 |
+| Nazwa angielska | Star Wars Advent Calendar 2026 |
+| Nazwa polska | LEGO Star Wars Kalendarz adwentowy na 2026 rok |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 293 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062470 |
 
 LEGO STAR WARS - Kalendarz adwentowy na 2026 rok 75456
  
@@ -12916,11 +19568,26 @@ Poznaj kultowe postacie w nowym wydaniu: minifigurki LEGO z Mandalorianina i Mof
 - ODKRYJ CAŁĄ SERIĘ - zestawy LEGO Star Wars (sprzedawane oddzielnie) umożliwiają dzieciom i dorosłym fanom odtwarzanie klasycznych scen, wymyślanie własnych historii lub eksponowanie modeli zbudowanych z klocków 
 - ŚWIĄTECZNA ZABAWA - ten kalendarz adwentowy składający się z 293 elementów jest świetny do zabawy i budowania w pojedynkę lub w gronie przyjaciół i rodziny
 
+**Galeria:**
+
+- 75456-1: https://a.allegroimg.com/original/112d2b/f0a1af804a8785def4d02212241d
+
 ---
 
-## 75458 — Lego Star Wars Hełm kierowcy At-rt Resztek Imperium 75458
+## 75458 — Hełm kierowcy AT-RT Resztek Imperium
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702018068854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75458 |
+| Nazwa angielska | Imperial Remnant AT-RT Driver Helmet |
+| Nazwa polska | Hełm kierowcy AT-RT Resztek Imperium |
+| Seria | Star Wars |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 775 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068854 |
 
 **LEGO Star Wars Hełm kierowcy AT-RT Resztek Imperium 75458**
 
@@ -12946,11 +19613,26 @@ Poznaj szeroką serię zestawów LEGO® Star Wars™ dla dorosłych (sprzedawany
 
 Ten 775-elementowy zestaw ma 18 cm wysokości
 
+**Galeria:**
+
+- 75458-1: https://a.allegroimg.com/original/1104bf/d3d083594752ac004fecb7280b7d
+
 ---
 
-## 75459 — Lego Star Wars 75459 Starship Imperialny klasy Lambda
+## 75459 — Imperialny prom typu Lambda
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702018068861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75459 |
+| Nazwa angielska | Imperial Lambda-Class Shuttle |
+| Nazwa polska | Imperialny prom typu Lambda |
+| Seria | Star Wars |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 961 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | wys. 33 cm × szer. 36 cm |
+| EAN | 5702018068861 |
 
 Stwórz szczegółowy model z klocków LEGO® przedstawiający Imperialny prom typu Lambda (75459) z drugiego sezonu serialu Star Wars: The Mandalorian™ dzięki temu zestawowi kolekcjonerskiemu. Statek gwiezdny ma mnóstwo realistycznie odwzorowanych detali, które zachęcają do zabawy w odgrywanie ról. Złóż skrzydła, aby wzbić się w powietrze, i uruchom dwa działka sprężynowe. Po lądowaniu wysuń podwozie oraz opuść skrzydła i rampę. Pięć postaci, w tym pierwsza minifigurka LEGO dr. Pershinga, umożliwiają odgrywanie ról. Otwórz kokpit i umieść w nim figurkę pilota imperialnego wahadłowca. Otwórz klapy po obu stronach przedziału pasażerskiego, aby uzyskać dostęp do czterech siedzeń dla pozostałych postaci. W zestawie znajduje się również mroczny miecz Moffa Gideona oraz inne akcesoria do odgrywania bitew. Dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, przeglądać instrukcje w 3D, a także zapisywać i śledzić swoje postępy, dzieci poznają inny wymiar budowania. Ten zestaw LEGO Star Wars™ zawiera 961 elementów i z pewnością będzie niesamowitym prezentem dla chłopców i dziewczynek w wieku od 14 lat.
  
@@ -12964,11 +19646,26 @@ Stwórz szczegółowy model z klocków LEGO® przedstawiający Imperialny prom t
 - JESZCZE LEPSZA INTERAKTYWNA ZABAWA — aplikacja LEGO® Builder umożliwia samodzielne budowanie dzięki narzędziom, które pozwalają powiększać i obracać modele za pomocą instrukcji 3D, śledzić postępy i zapisywać zestawy w jednym miejscu 
 - WYMIARY — model promu w trybie lotu w tym 961-elementowym zestawie ma 33 cm wysokości, 26 cm długości i 36 cm szerokości
 
+**Galeria:**
+
+- 75459-1: https://a.allegroimg.com/original/114f5d/3da03af84b359c324a3f2e855ab7
+
 ---
 
-## 75461 — Lego 75461 Star Wars Powiększona Minifigurka Dartha Vadera
+## 75461 — Powiększona minifigurka Dartha Vadera
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702018068984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75461 |
+| Nazwa angielska | Up-Scaled Darth Vader Minifigure |
+| Nazwa polska | Powiększona minifigurka Dartha Vadera |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1028 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068984 |
 
 LEGO 75461 Star Wars Powiększona Minifigurka Dartha Vadera
 
@@ -13032,11 +19729,27 @@ UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 - **Zawiera akumulator/baterię:** Nie 
 - **Zdalnie sterowany:** Nie
 
+**Galeria:**
+
+- 75461-1: https://a.allegroimg.com/original/118c5e/0a17c59b48f9bee6e1c51832cd98
+
 ---
 
-## 75522 — Lego Star Wars 75522 Mini Boost Droid Commander saszetka klocki unikat
+## 75522 — Mini Boost Droid Commander
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016687798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75522 |
+| Nazwa angielska | Mini Droid Commander |
+| Nazwa polska | Mini Boost Droid Commander |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016687798 |
 
 Witam
 
@@ -13054,11 +19767,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 75522-1: https://a.allegroimg.com/original/112c54/07abd0d74fe289206787c1b01359
+
 ---
 
-## 75523 — Lego Star Wars 75523 Szturmowiec ze Scarif
+## 75523 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 232.45 zł · EAN: 05702015867962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75523 |
+| Nazwa angielska | Scarif Stormtrooper |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867962 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13096,11 +19825,27 @@ Obroń pozycje Imperium! Zbuduj ruchomą figurkę Szturmowca ze Scarif z zestawu
 
 26 cm * 14 cm * 6 cm *
 
+**Galeria:**
+
+- 75523-1: https://a.allegroimg.com/original/11cbb5/77530d5347efb6974b2ee6f33ce3
+
 ---
 
-## 75524 — Lego Star Wars 75524 Chirrut Imwe
+## 75524 — LEGO STAR WARS 75524 CHIRRUT IMWE KLOCKI
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015867955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75524 |
+| Nazwa angielska | Chirrut Îmwe |
+| Nazwa polska | LEGO STAR WARS 75524 CHIRRUT IMWE KLOCKI |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867955 |
 
 LEGO STAR WARS 75524 CHIRRUT IMWE
 
@@ -13134,11 +19879,27 @@ PACZKI .
 - **Dołącz do walki** z Imperium z Bazem Malbusem z zestawu 75525! 
 - **Figurka ma** ok. 23 cm wysokości.
 
+**Galeria:**
+
+- 75524-1: https://a.allegroimg.com/original/1108b6/3dcc4e144a2088087af65c6fba2e
+
 ---
 
-## 75525 — Lego Star Wars 75525 Baze Malbus
+## 75525 — KLOCKI LEGO STAR WARS 75525 BAZE MALBUS ZESTAW
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 96.05 zł · EAN: 05702015868174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75525 |
+| Nazwa angielska | Baze Malbus |
+| Nazwa polska | KLOCKI LEGO STAR WARS 75525 BAZE MALBUS ZESTAW |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868174 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13192,11 +19953,27 @@ Dołącz do walki z Imperium wraz z utalentowanym Bazem Malbusem! Ta solidna i t
 
 - **Czy baterie są dołączone:** Nie
 
+**Galeria:**
+
+- 75525-1: https://a.allegroimg.com/original/11edbe/07d2c21d464788d74d7637e97579
+
 ---
 
-## 75526 — Lego Star Wars 75526 Elitarny pilot myśliwca Tie.
+## 75526 — Elitarny pilot myśliwca TIE
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015868181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75526 |
+| Nazwa angielska | Elite TIE Fighter Pilot |
+| Nazwa polska | Elitarny pilot myśliwca TIE |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868181 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -13224,11 +20001,27 @@ Dołącz do walki z Imperium wraz z utalentowanym Bazem Malbusem! Ta solidna i t
 - **Odgrywaj niezwykłe przygody z filmowego hitu „Gwiezdne wojny: Część VIII”.** 
 - **Model ma ok. 24 cm wysokości.**
 
+**Galeria:**
+
+- 75526-1: https://a.allegroimg.com/original/00055b/d81f4eb84a749003c403b6f6f603
+
 ---
 
-## 75528 — Lego Star Wars Rey 75528
+## 75528 — Klocki LEGO Star Wars Constraction Rey 75528
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 113.22 zł · EAN: 05702015868204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75528 |
+| Nazwa angielska | Rey |
+| Nazwa polska | Klocki LEGO Star Wars Constraction Rey 75528 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868204 |
 
 LEGO Star Wars 75528 - Rey
  
@@ -13244,11 +20037,27 @@ Rozegraj pojedynek na miecze świetlne z ruchomą figurką Rey do zbudowania. Mo
 - Odgrywaj niezwykłe przygody z filmowego hitu „Gwiezdne wojny: Część VIII”. 
 - Model ma ok. 24 cm wysokości.
 
+**Galeria:**
+
+- 75528-1: https://a.allegroimg.com/original/003266/f817ddcb49199eac9a05e4041fae
+
 ---
 
-## 75529 — Lego 75529 Star Wars Elitarny gwardzista pretorianin Nowy
+## 75529 — Klocki LEGO Star Wars Constraction Elitarny gwardzista pretorianin 75529
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015868211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75529 |
+| Nazwa angielska | Elite Praetorian Guard |
+| Nazwa polska | Klocki LEGO Star Wars Constraction Elitarny gwardzista pretorianin 75529 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868211 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -13272,11 +20081,27 @@ Chroń największych dostojników Najwyższego Porządku z ruchomą figurką eli
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 75529-1: https://a.allegroimg.com/original/1151d8/b81f75c046d79c0e1629c43c6c39
+
 ---
 
-## 75530 — Lego Star Wars 75530 Chewbacca
+## 75530 — Chewbacca
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015868228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75530 |
+| Nazwa angielska | Chewbacca |
+| Nazwa polska | Chewbacca |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868228 |
 
 KLOCKI LEGO STAR WARS CONSTRACTION CHEWBACCA™ 75530
 
@@ -13314,11 +20139,27 @@ Rzuć się do bitwy razem z uwielbianym przez wszystkich Wookiee — Chewbaccą!
 - **Ilość elementów:** 179 
 - **Certyfikaty, opinie, atesty:** CE
 
+**Galeria:**
+
+- 75530-1: https://a.allegroimg.com/original/0575eb/f53d41b549c991a6205b76e58e5d
+
 ---
 
-## 75531 — Klocki Lego Star Wars Zestaw Dowódca szturmowców 75531
+## 75531 — Dowódca szturmowców
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015868235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75531 |
+| Nazwa angielska | Stormtrooper Commander |
+| Nazwa polska | Dowódca szturmowców |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868235 |
 
 **Klocki LEGO Star Wars Zestaw Dowódca szturmowców 75531**
 
@@ -13340,11 +20181,27 @@ Odgrywaj niezwykłe przygody z kultowego świata „Gwiezdnych wojen”.
 
 Model ma ok. 24 cm wysokości.
 
+**Galeria:**
+
+- 75531-1: https://a.allegroimg.com/original/00b9c3/4c16bac54745b464f4312670fa0a
+
 ---
 
-## 75532 — Lego Star Wars 75532 Zwiadowca szturmowców i jego śmigacz Nowe
+## 75532 — Zwiadowca szturmowców i jego śmigacz
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 505.00 zł · EAN: 05702015868242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75532 |
+| Nazwa angielska | Scout Trooper & Speeder Bike |
+| Nazwa polska | Zwiadowca szturmowców i jego śmigacz |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 452 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 11 cm |
+| EAN | 5702015868242 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -13365,11 +20222,27 @@ Przeżywaj niezwykłe przygody ze świata „Gwiezdnych wojen” z tym wspaniał
 - Zwiadowca szturmowców ma ok. 24 cm wysokości. 
 - Ścigacz ma ok. 16 cm wysokości, 42 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 75532-1: https://a.allegroimg.com/original/11ac68/e6cd5a594f7b885a6db2b5916ee8
+
 ---
 
-## 75533 — Lego Star Wars 75533 Boba Fett Nowe
+## 75533 — Boba Fett
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702016112085 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75533 |
+| Nazwa angielska | Boba Fett |
+| Nazwa polska | Boba Fett |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112085 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13389,11 +20262,27 @@ Ustaw łowcę nagród Bobę Fetta w pozie bojowej i ruszaj do akcji! Użyj jego 
 - Ta figurka do zbudowania jest odpowiednia dla dzieci w wieku 7–14 lat.
 - Figurka ma ok. 25 cm wysokości po rozłożeniu anteny.
 
+**Galeria:**
+
+- 75533-1: https://a.allegroimg.com/original/119c8d/6d793b2d4675944bcf0774f361ee
+
 ---
 
-## 75534 — Klocki Lego Star Wars Zestaw Darth Vader 75534
+## 75534 — Darth Vader 75534
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016112092 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75534 |
+| Nazwa angielska | Darth Vader |
+| Nazwa polska | Darth Vader 75534 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112092 |
 
 **Klocki LEGO Star Wars Constraction Darth Vade 75534 od 9 lat.**
 
@@ -13403,11 +20292,27 @@ Ta imponująca figurka ma szczegółową zbroję i dekorację na klatce piersiow
 
 Marka LEGO to coś więcej niż znane logo firmy. Wyraża ona oczekiwania ludzi względem firmy, jej produktów i usług oraz odpowiedzialność, którą Grupa LEGO ponosi, będąc członkiem światowej społeczności. Marka stanowi gwarancję jakości i oryginalności.
 
+**Galeria:**
+
+- 75534-1: https://a.allegroimg.com/original/0555c9/64358b634dbf907f05a82afa5143
+
 ---
 
-## 75535 — Lego Star Wars 75535 Han Solo
+## 75535 — Han Solo
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 155.23 zł · EAN: 05702016112108 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75535 |
+| Nazwa angielska | Han Solo |
+| Nazwa polska | Han Solo |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112108 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -13447,11 +20352,27 @@ Odgrywaj emocjonujące przygody z filmu o Hanie Solo.
  
 Figurka ma ok. 24 cm wysokości.
 
+**Galeria:**
+
+- 75535-1: https://a.allegroimg.com/original/000dd1/8e7d48984d8ebca3809461d3cbe5
+
 ---
 
-## 75536 — Lego 75536 Star Wars Szturmowiec strzelec Duża Figurka
+## 75536 — STAR WARS
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 479.50 zł · EAN: 05702016112115 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75536 |
+| Nazwa angielska | Range Trooper |
+| Nazwa polska | STAR WARS |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112115 |
 
 LEGO STAR WARS
  
@@ -13478,11 +20399,27 @@ Zestaw LEGO 75536 Szturmowiec - strzelec
  
 26 cm * 14 cm * 6 cm *
 
+**Galeria:**
+
+- 75536-1: https://a.allegroimg.com/original/002e60/c11616b24a1aa521ed44a846a60b
+
 ---
 
-## 75537 — Lego Star Wars 75537 Darth Maul
+## 75537 — 75537
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016112122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75537 |
+| Nazwa angielska | Darth Maul |
+| Nazwa polska | 75537 |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112122 |
 
 LEGO STAR WARS
 
@@ -13508,11 +20445,27 @@ Powiększ swoją kolekcję LEGO® Star Wars o niezwykle ruchomą figurkę Dartha
 
 26 cm * 14 cm * 6 cm *
 
+**Galeria:**
+
+- 75537-1: https://a.allegroimg.com/original/00bcc2/e820074a458fa559ffd9c3bda6c4
+
 ---
 
-## 7657 — Lego 7657 Star Wars At-st
+## 7657 — LEGO 7657 Star Wars - AT-ST
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702014498747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7657 |
+| Nazwa angielska | AT-ST |
+| Nazwa polska | LEGO 7657 Star Wars - AT-ST |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014498747 |
 
 **LEGO Star Wars 7657 – AT‑ST**
 
@@ -13524,11 +20477,27 @@ W komplecie znajduje się **1 minifigurka – pilot AT‑ST**, wyposażony w he�
 
 Zestaw **LEGO 7657** został wydany w **2007 roku** i przeznaczony jest dla dzieci w wieku **7–12 lat**, ale ze względu na swój klasyczny charakter i zgodność z filmowym pierwowzorem stanowi również atrakcyjny element kolekcjonerski dla dorosłych fanów LEGO Star Wars.
 
+**Galeria:**
+
+- 7657-1: https://a.allegroimg.com/original/114b0a/5b681de44358aadd678dce814f28
+
 ---
 
-## 7658 — Lego Star Wars 7658 Y-wing Fighter Nowe
+## 7658 — Y-wing Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014498730 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7658 |
+| Nazwa angielska | Y-wing Fighter |
+| Nazwa polska | Y-wing Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014498730 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13538,11 +20507,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Star Wars Y-wing Fighter™ 7658 ** został zaprezentowany w 2007 roku i zawiera 454 klocków LEGO®. W opakowaniu znajdziesz też 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci i młodzieży od 8 roku życia.
 
+**Galeria:**
+
+- 7658-1: https://a.allegroimg.com/original/110b1b/a05fccee4a3391c7b90c4db96eda
+
 ---
 
-## 7659 — Lego Star Wars 7659 Imperialny Statek Desantowy
+## 7659 — Imperialny statek desantowy
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014498723 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7659 |
+| Nazwa angielska | Imperial Landing Craft |
+| Nazwa polska | Imperialny statek desantowy |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014498723 |
 
 LEGO Star Wars 7659 Imperialny Statek Desantowy (Imperial Landing Craft)
 
@@ -13573,11 +20558,27 @@ Każda minifigurka jest uzbrojona w blaster, dzięki czemu zestaw jest kompletny
 
 LEGO Star Wars 7659 to ceniony, wycofany z produkcji zestaw, szczególnie lubiany przez fanów klasycznej trylogii oraz kolekcjonerów pojazdów Imperium.
 
+**Galeria:**
+
+- 7659-1: https://a.allegroimg.com/original/117699/06afddbb44da90bf8c2d3e76c4d6
+
 ---
 
-## 7660 — Lego Star Wars 7660 Naboo N-1 Starfighter
+## 7660 — Naboo N-1 Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1099.00 zł · EAN: 00673419091268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7660 |
+| Nazwa angielska | Naboo N-1 Starfighter and Vulture Droid |
+| Nazwa polska | Naboo N-1 Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419091268 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -13601,21 +20602,53 @@ LEGO Star Wars 7659 to ceniony, wycofany z produkcji zestaw, szczególnie lubian
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7660-1: https://a.allegroimg.com/original/115ea4/df84aad249eea8d4123561bbb57d
+
 ---
 
-## 7661 — Lego Star Wars 7661 Lego Star Wars Jedi Starfighte with Hyperdrive Booste
+## 7661 — LEGO Star Wars Jedi Starfighte with Hyperdrive Booste
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1777.00 zł · EAN: 05702014499508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7661 |
+| Nazwa angielska | Jedi Starfighter with Hyperdrive Booster Ring |
+| Nazwa polska | LEGO Star Wars Jedi Starfighte with Hyperdrive Booste |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 575 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499508 |
 
 Zestaw LEGO Star Wars - Jedi Starfighter z Hyperdrive Booster Ring
  
 Trafił do sprzedaży w 2007 roku. Numer katalogowy tego zestawu to 7661. Zawiera 575 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - Jedi Starfighter with Hyperdrive Booster Ring. Grupa wiekowa tego produktu to 9+
 
+**Galeria:**
+
+- 7661-1: https://a.allegroimg.com/original/1150e9/c08bc4c34bd1885b192606bf4ced
+
 ---
 
-## 7663 — Lego Star Wars 7663 Sith Infiltrator unikat Nowy
+## 7663 — Sith Infiltrator
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014509214 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7663 |
+| Nazwa angielska | Sith Infiltrator |
+| Nazwa polska | Sith Infiltrator |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014509214, 673419094368 |
 
 LEGO Star Wars - 7663 Sith Infiltrator - Nowe
 
@@ -13634,11 +20667,28 @@ W komplecie znajduje się **minifigurka Dartha Maula **z podwójnym mieczem świ
 
 Dodaj ten kultowy zestaw LEGO Star Wars do swojej kolekcji i przeżyj na nowo epickie sceny z odległej galaktyki!
 
+**Galeria:**
+
+- 7663-1: https://a.allegroimg.com/original/118f2c/5deff9c54f04bb86304fdbc084b1
+- 7663-2: https://a.allegroimg.com/original/11191e/53c3fd084d529f14cabcbc3e7fee
+
 ---
 
-## 7665 — Lego Star Wars Republic Cruiser Nowy 7665 Nowy Unikat
+## 7665 — 7665
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2500.00 zł · EAN: 00673419094382 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7665 |
+| Nazwa angielska | Republic Cruiser (Limited Edition - with R2-R7) |
+| Nazwa polska | 7665 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 919 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419094382 |
 
 Klocki LEGO Star Wars
  
@@ -13658,11 +20708,27 @@ Ten duży zestaw zawiera ponad 900 klocków i nie mniej niż 5 minifigurek Qui-G
 
 Republic Cruiser jest oparty na krążowniku klasy Consular z epoki Republiki.
 
+**Galeria:**
+
+- 7665-1: https://a.allegroimg.com/original/11bcfd/31025c37446987e97be52345cb0a
+
 ---
 
-## 7667 — Lego Star Wars 7667 Imperial Dropship
+## 7667 — Imperial Dropship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702014517363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7667 |
+| Nazwa angielska | Imperial Dropship |
+| Nazwa polska | Imperial Dropship |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517363 |
 
 LEGO Star Wars 7667 Imperial Dropship
  
@@ -13681,11 +20747,27 @@ O produkcie:
  
 LEGO Star Wars 7667 Imperial Dropship to zestaw klocków przeznaczony dla dzieci w wieku 6 lat i więcej. Zestaw pozwala na stworzenie modelu pojazdu ze świata Star Wars - Imperialnego Dropshipa, składającego się z 81 elementów. Jest to idealny prezent dla młodych fanów klocków LEGO i sagi Star Wars, rozwijający wyobraźnię i zdolności manualne. Produkt posiada certyfikat CE.
 
+**Galeria:**
+
+- 7667-1: https://a.allegroimg.com/original/117a72/2c968eb244c6bc64f7c2034421f2
+
 ---
 
-## 7668 — Lego Star Wars 7668 Rebel Scout Speeder Nowe
+## 7668 — Rebel Scout Speeder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 351.00 zł · EAN: 00673419102599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7668 |
+| Nazwa angielska | Rebel Scout Speeder |
+| Nazwa polska | Rebel Scout Speeder |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419102599 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13695,11 +20777,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Star Wars Rebel Scout Speeder™ **został pokazany w 2008 roku i zbudowany jest z 82 klocków LEGO®. W klockach znajdziesz jeszcze 4 minifigurki. Klocki przeznaczone są dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 7668-1: https://a.allegroimg.com/original/115032/d010b4e749e1b8a7dedcb1d6147e
+
 ---
 
-## 7671 — Lego Star Wars 7671 At-ap Walker Unikat
+## 7671 — AT-AP Walker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014517400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7671 |
+| Nazwa angielska | AT-AP Walker |
+| Nazwa polska | AT-AP Walker |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 392 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517400 |
 
 LEGO Star Wars 7671 AT-AP Walker
 
@@ -13721,11 +20819,27 @@ O produkcie:
 
 LEGO Star Wars 7671 AT-AP Walker to zestaw, który składa się z 392 elementów i pozwala na stworzenie modelu AT-AP Walkera znanego z filmów Star Wars. Produkt jest przeznaczony dla dzieci w wieku 8 lat i więcej i może być używany przez chłopców oraz dziewczynki. Zestaw został wyprodukowany przez markę LEGO, co gwarantuje jego jakość i trwałość. Certyfikat CE potwierdza bezpieczeństwo użytkowania. Jednocześnie należy pamiętać, że produkt nie nadaje się dla dzieci w wieku poniżej 36 miesięcy. LEGO Star Wars 7671 AT-AP Walker to idealny prezent dla małych fanów Star Wars, którzy chcą rozwijać swoją kreatywność i wyobraźnię.
 
+**Galeria:**
+
+- 7671-1: https://a.allegroimg.com/original/11ca4b/b6e68e134138a7ba41a0a73e14c2
+
 ---
 
-## 7678 — Lego 7678 Star Wars Droid Gunship
+## 7678 — Droid Gunship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014517479 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7678 |
+| Nazwa angielska | Droid Gunship |
+| Nazwa polska | Droid Gunship |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517479 |
 
 **Lego 7678 Star Wars Droid Gunship.**
 
@@ -13733,11 +20847,27 @@ Separatyści powracają z potężnym Droid Gunship! Ten ciężko uzbrojony pojaz
 
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 7678-1: https://a.allegroimg.com/original/11c7dc/403292a643a8ac5e3b98226291fe
+
 ---
 
-## 7680 — Lego Star Wars 7680 The Twilight
+## 7680 — The Twilight
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1760.00 zł · EAN: 05702014517493 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7680 |
+| Nazwa angielska | The Twilight - Limited Edition |
+| Nazwa polska | The Twilight |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 882 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517493 |
 
 **Dane techniczne**
 
@@ -13773,11 +20903,27 @@ Detaliczny uchwyt holowniczy (winch) oraz wysuwana kapsuła ratunkowa
 
 Model zdobywa na wartości – nowe egzemplarze kosztują dziś ponad trzy razy więcej niż cena startowa, a używane zestawy również zyskują na atrakcyjności cenowej.
 
+**Galeria:**
+
+- 7680-1: https://a.allegroimg.com/original/1171de/3d8d3e1241ceb08296cc47c656aa
+
 ---
 
-## 7748 — Lego Star Wars 7748 Lego Star Wars
+## 7748 — LEGO Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.99 zł · EAN: 00673419113298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7748 |
+| Nazwa angielska | Corporate Alliance Tank Droid |
+| Nazwa polska | LEGO Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419113298 |
 
 LEGO Star Wars ZESTAW Corporate Alliance Tank Droid
  
@@ -13791,11 +20937,27 @@ LEGO Star Wars ZESTAW Corporate Alliance Tank Droid
  
 Zestaw LEGO **Star Wars -Corporate Alliance Tank Droid** trafił do sprzedaży **w 2009 roku**. Numer katalogowy tego zestawu to 7748. Zawiera 216 klocków LEGO. W modelu znajdziesz też 4 minifigurki.
 
+**Galeria:**
+
+- 7748-1: https://a.allegroimg.com/original/111030/155e1da245b299761e14e0c9f7b5
+
 ---
 
-## 7749 — Lego Star Wars 7749 Echo Base
+## 7749 — Echo Base
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702014537200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7749 |
+| Nazwa angielska | Echo Base |
+| Nazwa polska | Echo Base |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014537200 |
 
 Podstawowe informacje
  
@@ -13823,11 +20985,27 @@ Opis zestawu i funkcje
  
 **LEGO 7749 Echo Base** to kompaktowy, ale wyjątkowy zestaw z serii Star Wars, zaoferowany w ramach 10. rocznicy. Zawiera unikalne elementy, jak Tauntaun, dynamiczną konstrukcję obronną i minifigurki. Choć nie masywny, doskonale nadaje się do dekoracji, kolekcjonowania oraz budowania makiet Hoth. Jego wartość kolekcjonerska stabilnie rośnie, a jednocześnie nadal jest dostępny w relatywnie rozsądnej cenie na rynku.
 
+**Galeria:**
+
+- 7749-1: https://a.allegroimg.com/original/11f55b/ccde9efa4168996d306766d133c7
+
 ---
 
-## 7753 — Lego Star Wars 7753 Pirate Tank
+## 7753 — Pirate Tank
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014533301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7753 |
+| Nazwa angielska | Pirate Tank |
+| Nazwa polska | Pirate Tank |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 372 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533301 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -13846,11 +21024,27 @@ Opis zestawu i funkcje
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7753-1: https://a.allegroimg.com/original/119869/0fc7713d49c4aaf89cbd48d6eef8
+
 ---
 
-## 77904 — Lego Star Wars 77904 Nebulon-b Frigate Sdcc
+## 77904 — NEBULON-B FRIGATE SDCC
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1199.00 zł · EAN: 00673419333801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77904 |
+| Nazwa angielska | Nebulon-B Frigate |
+| Nazwa polska | NEBULON-B FRIGATE SDCC |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 459 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 7 cm |
+| EAN | 673419333801 |
 
 Klocki LEGO Star Wars
 
@@ -13884,11 +21078,27 @@ Od 1999 roku Grupa LEGO odtwarza kultowe statki kosmiczne, pojazdy, lokalizacje 
 - Komponenty LEGO® spełniają rygorystyczne standardy branżowe, aby zapewnić spójne i bezpieczne połączenie. 
 - Klocki i elementy LEGO® są poddawane maksymalnym testom, aby upewnić się, że spełniają najsurowsze światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 77904-1: https://a.allegroimg.com/original/119292/f25e67b542508fdfad94cb034ce3
+
 ---
 
-## 7877 — Klocki Lego Star Wars Zestaw Naboo Starfighter 7877
+## 7877 — Naboo Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702014736870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7877 |
+| Nazwa angielska | Naboo Starfighter |
+| Nazwa polska | Naboo Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 318 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736870 |
 
 LEGO Star Wars 7877 – Naboo Starfighter to zestaw wydany w 2011 roku, inspirowany filmem Gwiezdne Wojny: Mroczne Widmo. Zestaw składa się z 318 elementów i zawiera 6 minifigurek: Anakin Skywalker (dziecko), R2-D2, pilot z Naboo, 2 czerwonych droidów bojowych oraz droidekę. Dodatkowo w zestawie znajduje się pojazd serwisowy.
 
@@ -13903,11 +21113,27 @@ LEGO Star Wars 7877 – Naboo Starfighter to zestaw wydany w 2011 roku, inspirow
 - **Funkcje**: otwierany kokpit, wyrzutnie pocisków, funkcja katapultowania R2-D2, obrotowa podstawka
 - **Rok wycofania**: 2012
 
+**Galeria:**
+
+- 7877-1: https://a.allegroimg.com/original/119990/e9db65ff4b29af82ba371dde8f75
+
 ---
 
-## 7879 — Klocki Lego Star Wars Zestaw Hoth Echo Base 7879
+## 7879 — Hoth Echo Base
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014736887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7879 |
+| Nazwa angielska | Hoth Echo Base |
+| Nazwa polska | Hoth Echo Base |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 773 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736887 |
 
 Zestaw LEGO 7879 to **Hoth Echo Base** (Baza Echo na Hoth) z serii **LEGO Star Wars**. Jest to szczegółowa replika bazy Rebelii z filmu "Imperium Kontratakuje".
 
@@ -13945,11 +21171,27 @@ Zestaw LEGO 7879 to **Hoth Echo Base** (Baza Echo na Hoth) z serii **LEGO Star W
 
 Zestaw 7879 pozwala na odtworzenie kultowych scen z Bitwy o Hoth, oferując wiele interaktywnych elementów i bogaty zestaw minifigurek.
 
+**Galeria:**
+
+- 7879-1: https://a.allegroimg.com/original/117b9d/33578a794e4e8467f97848844390
+
 ---
 
-## 7914 — Lego Star Wars 7914 Mandalorian zestaw bitewny Nowe
+## 7914 — Mandalorian Battle Pack
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702014734265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7914 |
+| Nazwa angielska | Mandalorian Battle Pack |
+| Nazwa polska | Mandalorian Battle Pack |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734265 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -13977,11 +21219,27 @@ Wkrocz do świata pełnego akcji z zestawem **LEGO® Star Wars 7914 – Mandalor
 - Świetna zabawa i idealna baza do rozszerzania własnej armii galaktycznych wojowników, 
 - Kultowy zestaw dla dzieci (6+) i dorosłych kolekcjonerów.
 
+**Galeria:**
+
+- 7914-1: https://a.allegroimg.com/original/11610a/948c314c4fb8b258ac9fc9e4c100
+
 ---
 
-## 7915 — Lego Star Wars 7915
+## 7915 — 7915
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702014734272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7915 |
+| Nazwa angielska | Imperial V-wing Starfighter |
+| Nazwa polska | 7915 |
+| Seria | Star Wars |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734272 |
 
 LEGO Star Wars 7915
  
@@ -14000,11 +21258,27 @@ O produkcie:
  
 LEGO Star Wars 7915 to zestaw klocków, który pozwala zbudować replikę pojazdu Imperial V-wing Starfighter z sagi Star Wars. Zestaw składa się z 139 elementów i jest przeznaczony dla dzieci w wieku 2 lata i więcej. Produkt spełnia wymagania bezpieczeństwa CE. LEGO Star Wars 7915 to idealny prezent dla młodych fanów Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 7915-1: https://a.allegroimg.com/original/110f28/2a30e9214c4184d33997beaea202
+
 ---
 
-## 7929 — Klocki Lego Star Wars Zestaw The Battle of Naboo 7929
+## 7929 — Battle of Naboo
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014734289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7929 |
+| Nazwa angielska | The Battle of Naboo |
+| Nazwa polska | Battle of Naboo |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734289 |
 
 LIMITOWANY ZESTAW LEGO Star Wars
 
@@ -14026,11 +21300,27 @@ Dane
 
 Uzupełnij swoja kolekcję o niedostępny juz zestaw LEGO Star Wars pochodzący z 2011roku Zestaw nigdy nie otwierany
 
+**Galeria:**
+
+- 7929-1: https://a.allegroimg.com/original/11a40f/7d8b8c924340b6b969e5199bbe8b
+
 ---
 
-## 7930 — Klocki Lego Star Wars Zestaw Bounty Hunter Assault Gunship 7930
+## 7930 — Bounty Hunter Assault Gunship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014734296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7930 |
+| Nazwa angielska | Bounty Hunter Assault Gunship |
+| Nazwa polska | Bounty Hunter Assault Gunship |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734296 |
 
 Klocki LEGO Star Wars Zestaw Bounty Hunter Assault Gunship 7930
 
@@ -14046,11 +21336,27 @@ Ruchome elementy i funkcje urozmaicające zabawę.
 
 Doskonały prezent dla miłośników Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 7930-1: https://a.allegroimg.com/original/1160ad/b4efe3de4dcfac9603fb98551f8b
+
 ---
 
-## 7931 — Klocki Lego Star Wars Zestaw T-6 Jedi Shuttle 7931
+## 7931 — 7931
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1169.00 zł · EAN: 05702014734302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7931 |
+| Nazwa angielska | Jedi T-6 Shuttle |
+| Nazwa polska | 7931 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734302 |
 
 Zestaw **LEGO Star Wars T-6 Jedi Shuttle 7931** to klasyczny model z serii LEGO Star Wars, wydany w **2011 roku** jako część podmotywa "Wojen Klonów" (The Clone Wars). Składa się z **389 elementów** i zawiera **cztery minifigurki**.
 
@@ -14074,11 +21380,27 @@ Zestaw 7931 jest bardzo ceniony za bogactwo minifigurek Jedi, które są unikaln
 - **Shaak Ti**: Ta minifigurka była wówczas unikalna dla tego zestawu i jest bardzo poszukiwana.
 - **Saesee Tiin**: Podobnie jak Shaak Ti, ta minifigurka była rzadkością.
 
+**Galeria:**
+
+- 7931-1: https://f.allegroimg.com/original/03de81/8b570714424f9b048873db8f0e0f
+
 ---
 
-## 7956 — Lego 7956 Star Wars Ewok Attack unikat z 2011r
+## 7956 — EWOK ATTACK
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014736894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7956 |
+| Nazwa angielska | Ewok Attack |
+| Nazwa polska | EWOK ATTACK |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736894 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -14088,11 +21410,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 7956-1: https://a.allegroimg.com/original/119310/1a90b593453ba4f7bc4dcacf5966
+
 ---
 
-## 7959 — Klocki Lego Star Wars Zestaw Geonosian Starfighter 7959
+## 7959 — Lego Star Wars 7959 Geonosian Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 997.00 zł · EAN: 05702014736917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7959 |
+| Nazwa angielska | Geonosian Starfighter |
+| Nazwa polska | Lego Star Wars 7959 Geonosian Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736917 |
 
 Zestaw LEGO Star Wars Geonosian Starfighter 7959 to zestaw konstrukcyjny z serii LEGO Star Wars, wydany w 2011 roku. Składa się ze 155 elementów i jest przeznaczony dla dzieci w wieku od 7 do 12 lat.
 
@@ -14110,11 +21448,27 @@ W zestawie znajdują się 3 minifigurki:
 - Dowódca klonów Cody
 - Geonosjański pilot
 
+**Galeria:**
+
+- 7959-1: https://a.allegroimg.com/original/054e29/33252d4a45a8b30b1765ddecb816
+
 ---
 
-## 7962 — Klocki Lego Star Wars Zestaw Anakin's & Sebulba's Podracers 7962
+## 7962 — Anakin's & Sebulba's Podracers
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014736931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7962 |
+| Nazwa angielska | Anakin's and Sebulba's Podracers |
+| Nazwa polska | Anakin's & Sebulba's Podracers |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 810 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736931 |
 
 LEGO 7962 ANAKIN'S & SEBULBA'S PODRACERS WYŚCIG ŚCIGACZY
 
@@ -14124,11 +21478,27 @@ Zestaw LEGO® Anakin's & Sebulba's Podracers™ został po raz pierwszy zaprez
 
 Zestaw klocków LEGO 7962 Star Wars Anakin Skywalker and Sebulba’s Podracers™ został zaprezentowany w 2011 roku i zbudowany jest z 810 klocków LEGO®. W klockach znajdziesz także 5 minifigurek. Klocki przeznaczone są dla dzieci i młodzieży od 9 roku życia. Kod EAN klocków LEGO® 7962 to: **5702014736931**.
 
+**Galeria:**
+
+- 7962-1: https://d.allegroimg.com/original/03f586/6ad473c24c2e9826ca1bacd6bd8d
+
 ---
 
-## 7965 — Lego Star Wars 7965 Millennium Falcon Nowe
+## 7965 — Millennium Falcon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1753.24 zł · EAN: 05702014736955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7965 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | Millennium Falcon |
+| Seria | Star Wars |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736955 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -14138,11 +21508,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 7965 Millennium Falcon™ ** został zaprezentowany w 2011 roku i zawiera 1254 klocków LEGO®. W zestawie klocków znajdziesz jeszcze 6 minifigurek. Zestaw klocków przeznaczony jest dla dzieci i młodzieży od 9 roku życia.
 
+**Galeria:**
+
+- 7965-1: https://a.allegroimg.com/original/1152a4/360de83042959983c688e8b22a70
+
 ---
 
-## 8015 — Lego Star Wars 8015 Assassin Droids Battle Pack nowy zestaw klocków
+## 8015 — Assassin Droids Battle Pack
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014533226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8015 |
+| Nazwa angielska | Assassin Droids Battle Pack |
+| Nazwa polska | Assassin Droids Battle Pack |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533226 |
 
 Witam, sprzedam nowy zestaw LEGO Star Wars 8015 z serii "Assassin Droids Battle Pack". Zestaw jest fabrycznie zapakowany.
 
@@ -14161,11 +21547,27 @@ Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 
 **W skład zestawu wchodzi jednoczęściowa instrukcja oraz 94 klocki, z których można zbudować ścigacz, a także 5 minifigurek – 3 Droidy Zabójców i 2 Elitarne Droidy Zabójców**. W środkowej części ścigacza znajdują się stanowiska na 2 blastery i miejsca dla 2 Droidów Zabójców.
 
+**Galeria:**
+
+- 8015-1: https://a.allegroimg.com/original/115d6b/609e6544499dba4609d407ed85ea
+
 ---
 
-## 8017 — Lego 8017 Star Wars Darth Vader's Tie Fighter
+## 8017 — 8017
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014533257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8017 |
+| Nazwa angielska | Darth Vader's TIE Fighter |
+| Nazwa polska | 8017 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533257 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14189,11 +21591,27 @@ Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8017-1: https://a.allegroimg.com/original/11f063/fbff4d0c42c49e8dcbbee8ceaec7
+
 ---
 
-## 8019 — Klocki 8019 Star Wars Republic Attack Shuttle Lego
+## 8019 — republic attack
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1499.90 zł · EAN: 00673419111829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8019 |
+| Nazwa angielska | Republic Attack Shuttle |
+| Nazwa polska | republic attack |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 636 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419111829 |
 
 **KLOCKI LEGO 8019 Star Wars Republic Attack Shuttle**
 
@@ -14239,11 +21657,27 @@ Nie czekaj! **Dodaj zestaw LEGO Star Wars 8019 do koszyka** i rozpocznij swoją 
 
 Idealny pomysł na prezent dla małych konstruktorów i fanów Star Wars!
 
+**Galeria:**
+
+- 8019-1: https://a.allegroimg.com/original/11871d/7af9edf7483ea596eb22fa55b198
+
 ---
 
-## 8031 — Lego Star Wars 8031 V-19 Torrent
+## 8031 — V-19 Torrent
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702014522671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8031 |
+| Nazwa angielska | V-19 Torrent - Mini |
+| Nazwa polska | V-19 Torrent |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014522671 |
 
 Klocki LEGO rozwijają kreatywność i wyobraźnię, uczą logicznego myślenia i cierpliwości, pozwalają na zabawę zarówno dzieciom, jak i dorosłym.
 
@@ -14253,11 +21687,27 @@ Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 
 Rafał
 
+**Galeria:**
+
+- 8031-1: https://a.allegroimg.com/original/114d93/0667736b4f30ac8085aca5c2ac2c
+
 ---
 
-## 8033 — Lego Star Wars 8033 General Grievous Starfighter saszetka klocki statek
+## 8033 — General Grievous Starfighter - Mini polybag
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014534766 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8033 |
+| Nazwa angielska | General Grievous Starfighter - Mini |
+| Nazwa polska | General Grievous Starfighter - Mini polybag |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534766 |
 
 Witam
 
@@ -14273,11 +21723,27 @@ Nowy, fabrycznie zamknięty polybag Lego.
 
 Rocznik:** 2009**
 
+**Galeria:**
+
+- 8033-1: https://a.allegroimg.com/original/11407d/d52473034dc4bcb214cce69c5dc5
+
 ---
 
-## 8036 — Lego Star Wars 8036 Separatist Shuttle unikat
+## 8036 — Separatist Shuttle
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702014533332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8036 |
+| Nazwa angielska | Separatist Shuttle |
+| Nazwa polska | Separatist Shuttle |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533332 |
 
 Separatist Shuttle 8036
 
@@ -14291,11 +21757,27 @@ Zdjęcia przedstawiające sprzedawany egzemplarz w galerii
 
 Zestaw klocków LEGO Star Wars 8036 Separatist Shuttle™ został pokazany w 2009 roku i złożysz z 259 klocków LEGO®. W zestawie klocków znajdziesz też 5 minifigurek. Klocki przeznaczone są dla dzieci i młodzieży powyżej 7 roku życia.
 
+**Galeria:**
+
+- 8036-1: https://a.allegroimg.com/original/11b5ba/0d141491423f823289988d7ca8d3
+
 ---
 
-## 8038 — Lego Star Wars 8038 Bitwa o Endor
+## 8038 — Bitwa o Endor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014533363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8038 |
+| Nazwa angielska | The Battle of Endor |
+| Nazwa polska | Bitwa o Endor |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 890 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533363, 673419111904 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14314,11 +21796,28 @@ Zestaw klocków LEGO Star Wars 8036 Separatist Shuttle™ został pokazany w 200
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8038-1: https://a.allegroimg.com/original/11a1a3/7c4421e8491d8b19a6c3b4c6a067
+- 8038-2: https://a.allegroimg.com/original/11b561/4245f25f457192ef59abc47bb2bf
+
 ---
 
-## 8039 — Lego Star Wars 8039 Unikat! Ostatnia Sztuka! Rzadki Egzemplarz!
+## 8039 — LEGO Star Wars 8039
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2989.99 zł · EAN: 05702014533370 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8039 |
+| Nazwa angielska | Venator-Class Republic Attack Cruiser |
+| Nazwa polska | LEGO Star Wars 8039 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533370 |
 
 Na sprzedaż wyjątkowy zestaw kolekcjonerski od **LEGO** z kultowej serii **Star Wars** – potężny krążownik Republiki Venator-Class Republic Attack Cruiser w wersji Ultimate Collector Series.
 
@@ -14333,11 +21832,27 @@ Imponujący model jednego z najbardziej rozpoznawalnych okrętów z czasów Woje
 
 Model prezentuje się spektakularnie na półce – to jeden z największych i najbardziej efektownych okrętów w historii serii LEGO Star Wars.
 
+**Galeria:**
+
+- 8039-1: https://a.allegroimg.com/original/11241a/3146c7f04802a6a7900ff78cc405
+
 ---
 
-## 8083 — Lego 8083 Star Wars Rebel Trooper Battle Pack zestaw z 2010r
+## 8083 — Zestaw wojenny Rebel Trooper
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702014601222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8083 |
+| Nazwa angielska | Rebel Trooper Battle Pack |
+| Nazwa polska | Zestaw wojenny Rebel Trooper |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601222 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -14347,11 +21862,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 8083-1: https://a.allegroimg.com/original/11eaa4/f53856b94ae3a1b9c594ff40cd24
+
 ---
 
-## 8084 — Lego Star Wars 8084 Zestaw bojowy Snowtrooper Nowe
+## 8084 — Zestaw bojowy Snowtrooper
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 297.11 zł · EAN: 05702014601239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8084 |
+| Nazwa angielska | Snowtrooper Battle Pack |
+| Nazwa polska | Zestaw bojowy Snowtrooper |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601239 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -14383,11 +21914,27 @@ Unikalne figurki i pojazd – tylko w tej edycji LEGO Star Wars,
 
 Doskonały zarówno dla dzieci od 6 lat, jak i dla dorosłych kolekcjonerów.
 
+**Galeria:**
+
+- 8084-1: https://a.allegroimg.com/original/1159f6/c2734ce6418a9a49a65192724f03
+
 ---
 
-## 8085 — Lego Zestaw Star Wars Freeco Speeder 8085
+## 8085 — Freeco Speeder
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702014601246 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8085 |
+| Nazwa angielska | Freeco Speeder |
+| Nazwa polska | Freeco Speeder |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601246 |
 
 LEGO Freeco Speeder 8085
 
@@ -14400,11 +21947,27 @@ LEGO Freeco Speeder 8085
 
 Zestaw klocków LEGO Star Wars Freeco Speeder™ 8085 został przedstawiony w 2010 roku i zbudowany jest z 177 klocków LEGO®. W opakowaniu znajdziesz 2 minifigurki. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 7 roku życia.
 
+**Galeria:**
+
+- 8085-1: https://a.allegroimg.com/original/111968/6731d9fe44e99e8fa87643aa0732
+
 ---
 
-## 8086 — Lego Star Wars 8086 Lego Star Wars
+## 8086 — LEGO Star Wars
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014601253 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8086 |
+| Nazwa angielska | Droid Tri-Fighter |
+| Nazwa polska | LEGO Star Wars |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 268 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 13 cm |
+| EAN | 5702014601253 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14443,11 +22006,27 @@ Ruszaj w pościg za rebeliantami na pokładzie machiny kroczącej AT-ST, wyposa�
 
 Zestaw LEGO Star Wars - Machina krocząca AT-ST trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 75153. Zawiera 449 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Star Wars - AT-ST Walker. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 8086-1: https://a.allegroimg.com/original/11c14b/704b9745445e99b1fe87905bbbbf
+
 ---
 
-## 8087 — Lego 8087 Star Wars Tie Defender
+## 8087 — TIE Defender
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014601260 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8087 |
+| Nazwa angielska | TIE Defender |
+| Nazwa polska | TIE Defender |
+| Seria | Star Wars |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601260 |
 
 LEGO 8087 Star Wars | TIE Defender.
 
@@ -14455,11 +22034,27 @@ Zbudowany w odpowiedzi na wysoce wykwalifikowane siły gwiezdne Rebelii, ściśl
 
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 8087-1: https://a.allegroimg.com/original/11cbb9/f283d42340a6a854ada573e0bff7
+
 ---
 
-## 8089 — Klocki Lego Star Wars Zestaw Hoth Wampa Cave 8089
+## 8089 — Hoth Wampa Cave
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702014601284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8089 |
+| Nazwa angielska | Hoth Wampa Cave |
+| Nazwa polska | Hoth Wampa Cave |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601284 |
 
 LEGO Star Wars 8089 Hoth Wampa Cave
 
@@ -14493,11 +22088,27 @@ Zestaw **LEGO Star Wars Hoth Wampa Cave 8089** to kultowy zestaw wydany w **2010
 
 Zestaw 8089 jest idealny do odgrywania dramatycznej sceny ucieczki Luke'a Skywalkera z jaskini Wampy. Funkcje jaskini i możliwość "pojedynku" z Wampą zapewniają dynamiczną zabawę. Chociaż zestaw ten jest już wycofany z produkcji, jego unikatowość (szczególnie duża figurka Wampy, która później pojawiła się również w zestawie 75014 Bitwa o Hoth) i wierność kultowej scenie sprawiają, że jest on poszukiwany przez kolekcjonerów i fanów Gwiezdnych Wojen.
 
+**Galeria:**
+
+- 8089-1: https://a.allegroimg.com/original/11d3a9/4bff61b74dce87312aca5e68ac47
+
 ---
 
-## 8091 — Lego Star Wars 8091 Republic Swamp Speeder
+## 8091 — 8091
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702014601291 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8091 |
+| Nazwa angielska | Republic Swamp Speeder |
+| Nazwa polska | 8091 |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601291 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14538,11 +22149,27 @@ Główne cechy:
  
 Nie przegap okazji, by wzbogacić swoją kolekcję LEGO o rzadki i poszukiwany zestaw **8091 Republic Swamp Speeder **!
 
+**Galeria:**
+
+- 8091-1: https://a.allegroimg.com/original/03bd7f/cccf67294f22a8e9262f24866a17
+
 ---
 
-## 8095 — Lego Star Wars 8095 General Grievous' Starfighter
+## 8095 — General Grievous' Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 799.95 zł · EAN: 05702014781245 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8095 |
+| Nazwa angielska | General Grievous' Starfighter |
+| Nazwa polska | General Grievous' Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014781245 |
 
 LEGO Star Wars 8095 General Grievous' Starfighter
 
@@ -14569,11 +22196,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 8095-1: https://a.allegroimg.com/original/11b3ee/bcad522e4ea6a4c4ed4627eeffb4
+
 ---
 
-## 8097 — Klocki Lego Star Wars Zestaw Statek Slave I 8097
+## 8097 — Slave I
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014601345 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8097 |
+| Nazwa angielska | Slave I |
+| Nazwa polska | Slave I |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 573 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601345 |
 
 Klocki LEGO Star Wars Zestaw Slave I 8097
 
@@ -14607,11 +22250,27 @@ Zestaw **LEGO Star Wars Slave I 8097** to model kultowego statku kosmicznego ło
 
 Zestaw 8097 Slave I pozwala na odtwarzanie kluczowych scen z "Imperium kontratakuje", takich jak schwytanie Hana Solo i jego transport przez Bobę Fetta. Funkcjonalne elementy statku i obecność ikonicznych minifigurek (Boba Fett, Han Solo, Bossk oraz kostka zamrożonego Hana) sprawiają, że jest to bardzo atrakcyjny zestaw do zabawy.
 
+**Galeria:**
+
+- 8097-1: https://a.allegroimg.com/original/11acd9/5f824c6e45539cd0e722146f240a
+
 ---
 
-## 8098 — Lego Star Wars 8098 Clone Turbo Tank
+## 8098 — Clone Turbo Tank
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 3300.00 zł · EAN: 05702014601352 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8098 |
+| Nazwa angielska | Clone Turbo Tank |
+| Nazwa polska | Clone Turbo Tank |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601352 |
 
 🚀 LEGO Star Wars 8098 – Clone Turbo Tank
 
@@ -14692,11 +22351,27 @@ zestaw nowy, nieotwarty, plomby
 
 na opakowaniu jedno małe uszkodzenie
 
+**Galeria:**
+
+- 8098-1: https://a.allegroimg.com/original/1178b8/9bf674904a029bae144002ee340b
+
 ---
 
-## 8129 — Klocki Lego Star Wars Zestaw Maszyna Bojowa At-at Walker 8129
+## 8129 — Atat Walker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1048.99 zł · EAN: 05702014601383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8129 |
+| Nazwa angielska | AT-AT Walker |
+| Nazwa polska | Atat Walker |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 815 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601383 |
 
 Klocki LEGO Star Wars Zestaw Maszyna Bojowa AT-AT Walker 8129
 
@@ -14738,11 +22413,27 @@ Zestaw 8129 jest doskonały do odgrywania kultowej Bitwy o Hoth. Dzięki ruchomy
 
 Chociaż ten konkretny model AT-AT nie jest najnowszy ani największy, duża liczba minifigurek (zwłaszcza generał Veers i śnieżny szturmowiec z plecakiem odrzutowym) czyni go atrakcyjnym dla kolekcjonerów. Zestaw jest już wycofany z produkcji
 
+**Galeria:**
+
+- 8129-1: https://a.allegroimg.com/original/11834f/dc484a5741d68eccc63d59ba48b1
+
 ---
 
-## 911720 — Lego Star Wars 911720 Ghost saszetka z klockami model wycofany
+## 911720 — Ghost
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 42.00 zł · EAN: 05056638426847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911720 |
+| Nazwa angielska | The Ghost |
+| Nazwa polska | Ghost |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638426847 |
 
 Witam
 
@@ -14756,11 +22447,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 911720-1: https://a.allegroimg.com/original/113967/31e3119d4af4be807a9c2fb89150
+
 ---
 
-## 911840 — Lego Star Wars 911840 Droideka saszetka klocki model wycofany
+## 911840 — Droideka
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 38.99 zł · EAN: 05060976588587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911840 |
+| Nazwa angielska | Droideka |
+| Nazwa polska | Droideka |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588587 |
 
 Witam
 
@@ -14776,11 +22483,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 911840-1: https://a.allegroimg.com/original/11c409/458f25e44b8e99af237f352149e5
+
 ---
 
-## 911952 — Lego Star Wars 911952 Jedi Interceptor saszetka z klockami statek
+## 911952 — Jedi Interceptor
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 21.99 zł · EAN: 05060976588808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911952 |
+| Nazwa angielska | Jedi Interceptor |
+| Nazwa polska | Jedi Interceptor |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588808 |
 
 Witam
 
@@ -14796,11 +22519,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 911952-1: https://a.allegroimg.com/original/11f811/9c3bcd8f4905bda7fb80d5699fda
+
 ---
 
-## 912056 — Zestaw Lego Star Wars Minifigure Polybag Tie Striker #912056
+## 912056 — TIE Striker
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 17.99 zł · EAN: 05056638432039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912056 |
+| Nazwa angielska | TIE Striker |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638432039 |
 
 **LEGO Star Wars polybag – TIE Striker #912056**
 
@@ -14820,11 +22559,27 @@ Zestaw LEGO 912056 „TIE Striker” to kompaktowy model imperialnego myśliwca 
 
 Ten limitowany zestaw to prawdziwa gratka dla fanów alternatywnych wersji klasycznych myśliwców TIE. Dzięki solidnej konstrukcji i estetycznemu wykończeniu, model ten świetnie sprawdzi się jako element kolekcji pojazdów Imperium lub ozdoba każdej półki miłośnika LEGO Star Wars.
 
+**Galeria:**
+
+- 912056-1: https://a.allegroimg.com/original/11a256/dc3f3ab442f3914f4f5b9f30aa39
+
 ---
 
-## 912172 — Lego Star Wars 912172 Jedi Starfighter saszetka z klockami
+## 912172 — Jedi Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 17.00 zł · EAN: 05060976587603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912172 |
+| Nazwa angielska | Jedi Starfighter |
+| Nazwa polska | Jedi Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976587603 |
 
 Witam
 
@@ -14840,11 +22595,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912172-1: https://a.allegroimg.com/original/118ac3/734c07a541d1b8a7029170e4455f
+
 ---
 
-## 912176 — Lego Star Wars 912176 Clone Turbo Tank Polybag
+## 912176 — Clone Turbo Tank
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 18.00 zł · EAN: 05060976588174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912176 |
+| Nazwa angielska | Clone Turbo Tank |
+| Nazwa polska | Clone Turbo Tank |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588174 |
 
 Witam
 
@@ -14860,11 +22631,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912176-1: https://a.allegroimg.com/original/11a44e/3a431ab44df68528d18f480345c6
+
 ---
 
-## 912178 — Lego Star Wars Republic Gunship 912178
+## 912178 — Republic Gunship
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 16.00 zł · EAN: 05060976588785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912178 |
+| Nazwa angielska | Republic Gunship |
+| Nazwa polska | Republic Gunship |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588785 |
 
 LEGO STAR WARS
 
@@ -14878,11 +22665,27 @@ REPUBLIC GUNSHIP
 
 **Edycja limitowana!**
 
+**Galeria:**
+
+- 912178-1: https://a.allegroimg.com/original/11e06c/9b4622fa47079d39d9f7e60dabbf
+
 ---
 
-## 912311 — Lego Star Wars 912311 Tie Advanced saszetka klocki statek
+## 912311 — TIE Advanced
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 13.59 zł · EAN: 05702014260337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912311 |
+| Nazwa angielska | TIE Advanced |
+| Nazwa polska | TIE Advanced |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014260337 |
 
 Witam
 
@@ -14898,11 +22701,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912311-1: https://a.allegroimg.com/original/11beaa/84d616cd41d0af3ce07d3c87caf9
+
 ---
 
-## 9490 — Lego Star Wars 9490 Droid Escape
+## 9490 — Droid Escape
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014840430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9490 |
+| Nazwa angielska | Droid Escape |
+| Nazwa polska | Droid Escape |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840430 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -14921,11 +22740,27 @@ Rafał
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 9490-1: https://a.allegroimg.com/original/11e17d/f6ef5dd74394905c1eba3d1f05ac
+
 ---
 
-## 9491 — Klocki Lego Star Wars Zestaw Działo Geonosjańskie 9491
+## 9491 — Geonosian Cannon
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702014840447 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9491 |
+| Nazwa angielska | Geonosian Cannon |
+| Nazwa polska | Geonosian Cannon |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840447 |
 
 LEGO STAR WARS 9491 Geonosian Cannon
 
@@ -14941,11 +22776,27 @@ Geonosian Warrior with Wings
 
 Geonosian Zombie with Wings
 
+**Galeria:**
+
+- 9491-1: https://a.allegroimg.com/original/116912/161b2bb0404a8fbb840cafda262f
+
 ---
 
-## 9492 — Lego Star Wars 9492 Tie Fighter
+## 9492 — TIE Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 640.00 zł · EAN: 05702014840454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9492 |
+| Nazwa angielska | TIE Fighter |
+| Nazwa polska | TIE Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 413 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840454 |
 
 - Firma** : LEGO®** 
 - Nr zestawu: **66432 UNIKAT ! 3w1 ( zestawy 9490+9492+9496 )** 
@@ -14960,11 +22811,27 @@ Geonosian Zombie with Wings
  
 **Zestaw jest NOWY, oryginalnie zamknięty/zaplombowany.**
 
+**Galeria:**
+
+- 9492-1: https://a.allegroimg.com/original/03cfc1/73933b1e409f8bfdd6e6148937da
+
 ---
 
-## 9493 — Klocki Lego Star Wars Zestaw X-Wing Starfighter 9493
+## 9493 — 9493
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702014840898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9493 |
+| Nazwa angielska | X-wing Starfighter |
+| Nazwa polska | 9493 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 560 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840898 |
 
 Klocki LEGO Star Wars 9493 - X-wing Starfigther
 
@@ -14996,11 +22863,27 @@ Zestaw **LEGO Star Wars X-wing Starfighter 9493** to kultowy model myśliwca X-w
 
 **R5-D8:** Droid astromechaniczny, również unikatowy dla tego zestawu.
 
+**Galeria:**
+
+- 9493-1: https://a.allegroimg.com/original/112b60/bbadad9a40ec96cc8b8c5e6da7c3
+
 ---
 
-## 9495 — Klocki Lego Star Wars Zestaw Gold Leader’s Y-Wing Starfighter 9495
+## 9495 — LEGO Star Wars 9495 - Gold Leader's Y-Wing Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702014841093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9495 |
+| Nazwa angielska | Gold Leader's Y-wing Starfighter |
+| Nazwa polska | LEGO Star Wars 9495 - Gold Leader's Y-Wing Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 458 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841093 |
 
 Klocki LEGO Star Wars Zestaw Gold Leader’s Y-Wing Starfighter 9495
 
@@ -15038,11 +22921,27 @@ W stroju rebeliantów, z blasterem.
 
 Zestaw 9495 umożliwia odtworzenie kultowych scen z bitwy o Gwiazdę Śmierci, w której Y-wingi odgrywały kluczową rolę w ataku na imperialną stację bojową. Funkcjonalne wyrzutnie, otwierany kokpit i detale statku zapewniają dynamiczną zabawę. Dzięki obecności ikonicznych postaci, takich jak Księżniczka Leia, i samej ikonicznej maszyny, zestaw jest atrakcyjny zarówno dla fanów Gwiezdnych Wojen, jak i kolekcjonerów.
 
+**Galeria:**
+
+- 9495-1: https://a.allegroimg.com/original/11eb0b/d4dc4b654ba997d23d8e99d45840
+
 ---
 
-## 9496 — Lego Star Wars 9496 Śmigacz pustynny Skiff
+## 9496 — Śmigacz pustynny Skiff
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014840904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9496 |
+| Nazwa angielska | Desert Skiff |
+| Nazwa polska | Śmigacz pustynny Skiff |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840904 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15066,11 +22965,27 @@ Zestaw 9495 umożliwia odtworzenie kultowych scen z bitwy o Gwiazdę Śmierci, w
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 9496-1: https://a.allegroimg.com/original/114046/d8b7c8f643cb8527fc87076be41c
+
 ---
 
-## 9497 — Klocki Lego Star Wars Zestaw Statek Striker-class Starfighter 9497
+## 9497 — Striker-class Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 874.00 zł · EAN: 05702014840911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9497 |
+| Nazwa angielska | Republic Striker Starfighter |
+| Nazwa polska | Striker-class Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840911 |
 
 GWIEZDNY MYŚLIWIEC REPUBLIKI-STARFIGHTER
  
@@ -15080,11 +22995,27 @@ Republic Striker-class Starfighter
 
 Możliwość ustawienia płatów w pozycji bojowej lub podróżnej, wystrzeliwane rakiety, tylny schowek na miecz świetlny i droid T7-O1 sprawiają, że myśliwiec jest gotowy do walki ze złowrogim Imperium Sithów!
 
+**Galeria:**
+
+- 9497-1: https://9.allegroimg.com/original/031725/9392be0b4e69859497a0c121bb29
+
 ---
 
-## 9498 — Lego Star Wars 9498 Gwiezdny myśliwiec Jedi Starfighter Tm
+## 9498 — Gwiezdny myśliwiec Jedi Starfighter TM
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 745.00 zł · EAN: 05702014840935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9498 |
+| Nazwa angielska | Saesee Tiin's Jedi Starfighter |
+| Nazwa polska | Gwiezdny myśliwiec Jedi Starfighter TM |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840935 |
 
 Podstawowe dane
 
@@ -15102,11 +23033,27 @@ Podstawowe dane
 - Myśliwiec jest uzbrojony w **cztery rakiety (flick missiles)**, posiada **otwierany kokpit**, **sterowane podwozie** oraz miejsce dla astromecha.
 - Kokpit może działać jako **kapsuła ratunkowa** — w razie potrzeby oddzielana część.
 
+**Galeria:**
+
+- 9498-1: https://6.allegroimg.com/original/034941/547833f34daf92674af58f1199a6
+
 ---
 
-## 9499 — Lego Star Wars 9499 Gungan Sub
+## 9499 — Gungan Sub
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014840966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9499 |
+| Nazwa angielska | Gungan Sub |
+| Nazwa polska | Gungan Sub |
+| Seria | Star Wars |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 465 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840966 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15125,11 +23072,27 @@ Podstawowe dane
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 9499-1: https://a.allegroimg.com/original/11e11c/c3e9a7004a579b1f6afab94b2282
+
 ---
 
-## 9500 — Lego Star Wars 9500 Sith Fury Class Interceptor
+## 9500 — Lego 9500
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014841000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9500 |
+| Nazwa angielska | Sith Fury-Class Interceptor |
+| Nazwa polska | Lego 9500 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 748 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841000 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -15153,11 +23116,27 @@ Podstawowe dane
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 9500-1: https://a.allegroimg.com/original/059441/7b345ffc43b3bf238c3ee7e57bcb
+
 ---
 
-## 9515 — Lego Star Wars 9515
+## 9515 — 9515
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2199.99 zł · EAN: 05702014841048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9515 |
+| Nazwa angielska | The Malevolence |
+| Nazwa polska | 9515 |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841048 |
 
 Zestaw LEGO Star Wars 9515 "Pancernik Malevolence" to jedna z najbardziej ekscytujących konstrukcji dla miłośników sagi Gwiezdnych Wojen. Ten zestaw umożliwia odtworzenie legendarnego pancernika Malevolence, jednego z kluczowych statków używanych przez Separatystów w czasie wojen klonów.
  
@@ -15165,11 +23144,27 @@ Głównym elementem zestawu jest imponujący model Pancernika Malevolence. Zapro
  
 W zestawie znajduje się również wiele minifigurek, które można z powodzeniem wykorzystać do rekreacji scen z filmów. Znajdziemy tu Anakina Skywalkera, Obi-Wana Kenobiego, generała Grievousa, dowódcę droidów, dwóch pilotów droidów oraz droida protokolarnego. Każda z postaci jest starannie wykonana, z odpowiednimi kostiumami, bronią i akcesoriami.
 
+**Galeria:**
+
+- 9515-1: https://a.allegroimg.com/original/036ca6/fa6f0327467c880a6e97e9c2b6b5
+
 ---
 
-## 9516 — Klocki Lego Star Wars Zestaw Jabba's Palace Pałac Jabby 9516
+## 9516 — Pałac Jabby
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 2248.00 zł · EAN: 05702014841055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9516 |
+| Nazwa angielska | Jabba's Palace |
+| Nazwa polska | Pałac Jabby |
+| Seria | Star Wars |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841055 |
 
 🏰 LEGO Star Wars: Pałac Jabby (9516) – Unikat Kolekcjonerski
 
@@ -15193,11 +23188,27 @@ Przedmiotem aukcji jest kultowy zestaw **Jabba's Palace** z 2012 roku. To rzadka
 
 **Liczba figurek:** 9 (w tym Jabba i Salacious B. Crumb)
 
+**Galeria:**
+
+- 9516-1: https://a.allegroimg.com/original/115184/05d687bb429e8bd0940298a8b5e2
+
 ---
 
-## 9525 — Lego Star Wars 9525 Pre Vizsla's Mandalorian Fighter Nowe
+## 9525 — Pre Vizsla's Mandalorian Fighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 1715.00 zł · EAN: 05702014841062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9525 |
+| Nazwa angielska | Pre Vizsla's Mandalorian Fighter |
+| Nazwa polska | Pre Vizsla's Mandalorian Fighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 403 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841062 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -15207,11 +23218,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 9525 Pre Vizsla's Mandalorian™ Fighter ** został przedstawiony w 2012 roku i zawiera 403 klocków LEGO®. W opakowaniu znajdziesz 3 minifigurki. Klocki przeznaczone są dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 9525-1: https://a.allegroimg.com/original/114a5a/c182bd2d4c53a221d595466e6435
+
 ---
 
-## 9674 — Lego 9674 Star Wars Naboo Starfighter & Naboo
+## 9674 — Naboo Starfighter
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014841109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9674 |
+| Nazwa angielska | Naboo Starfighter & Naboo |
+| Nazwa polska | Naboo Starfighter |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841109 |
 
 LEGO®
 
@@ -15221,11 +23248,27 @@ Pudełko w bardzo dobrym stanie, bez uszkodzeń.
 
 Do wysyłki zestaw będzie bezpiecznie zapakowany w dodatkowy karton.
 
+**Galeria:**
+
+- 9674-1: https://a.allegroimg.com/original/11bd3e/0890357247b6bb4fc52770be1dc9
+
 ---
 
-## 9677 — Lego Star Wars 9677 X-Wing Starfighter & Yavin4 Nowe
+## 9677 — X-Wing Starfighter & Yavin4
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014841130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9677 |
+| Nazwa angielska | X-wing Starfighter & Yavin 4 |
+| Nazwa polska | X-Wing Starfighter & Yavin4 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841130 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -15237,11 +23280,27 @@ LEGO® Star Wars™ 9677 - X-Wing Starfighter & Yavin 4 to wyjątkowy zestaw, kt
 
 Model LEGO® X-Wing Starfighter jest pełen szczegółów, a jego kompaktowy rozmiar sprawia, że świetnie nadaje się do ekspozycji. Planeta Yavin 4, istotna baza rebeliantów, doskonale dopełnia kolekcję fanów Star Wars, umożliwiając odtworzenie słynnych scen z „Nowej Nadziei.” LEGO® 9677 X-Wing Starfighter & Yavin 4 to doskonały dodatek do kolekcji LEGO Star Wars, idealny dla dzieci oraz kolekcjonerów poszukujących unikatowych modeli i replik kultowych statków.
 
+**Galeria:**
+
+- 9677-1: https://a.allegroimg.com/original/11bb74/920bbcdb4c9b9f624faeac57cf1f
+
 ---
 
-## 9678 — Lego 9678 Star Wars Twin-pod Cloud Car & Bespin Lobot
+## 9678 — Twin-pod Cloud Car & Bespin
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9678 |
+| Nazwa angielska | Twin-pod Cloud Car & Bespin |
+| Nazwa polska | Twin-pod Cloud Car & Bespin |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841161 |
 
 KLOCKI LEGO STAR WARS 9678 TWIN-POD CLOUD CAR BESPI
 
@@ -15255,17 +23314,37 @@ WIEK: 6-12 LAT
  
 ILOŚĆ ELEMENTÓW: 78
 
+**Galeria:**
+
+- 9678-1: https://a.allegroimg.com/original/03f0f4/1bb21fc34494a318ea903451f129
+
 ---
 
-## 9679 — Lego Star Wars 9679
+## 9679 — 9679
 
-*Kategoria: Star Wars · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702014841215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9679 |
+| Nazwa angielska | AT-ST & Endor |
+| Nazwa polska | 9679 |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841215 |
 
 LEGO Star Wars - 9679 AT-ST & Endor - Nowe
 
 LEGO® Star Wars™ 9679 - AT-ST & Endor to wyjątkowy zestaw dla fanów Gwiezdnych Wojen, którzy pragną odtworzyć sceny z „Powrotu Jedi” i zanurzyć się w bitwie o Endor. W zestawie znajduje się miniaturowa wersja masywnego AT-ST, znanego również jako „kurczakowy ścigacz” (Chicken Walker), używanego przez wojska Imperium do patrolowania gęstych lasów Endoru. Zestaw zawiera również minifigurkę pilota AT-ST oraz ozdobną planetę Endor w formie kuli, która idealnie sprawdzi się jako dekoracja do zawieszenia lub wyeksponowania na półce.
  
 Model AT-ST, mimo kompaktowych rozmiarów, oddaje detale tego potężnego pojazdu kroczącego, co czyni go idealnym do ekspozycji lub łączenia z innymi zestawami z serii LEGO Star Wars. Zestaw LEGO® 9679 AT-ST & Endor stanowi doskonały wybór dla dzieci, które chcą odgrywać bitwy z sagi, oraz kolekcjonerów, którzy poszukują unikatowych modeli do swojej galaktycznej kolekcji.
+
+**Galeria:**
+
+- 9679-1: https://a.allegroimg.com/original/110d2f/5dc4336b424c959b133766261495
 
 ---
 

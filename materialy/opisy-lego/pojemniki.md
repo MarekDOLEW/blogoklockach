@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Pojemniki — opisy produktowe (97 pozycji)
+# LEGO Pojemniki — opisy produktowe (86 pozycji)
 
-## 0079 — Pojemnik Okrągły 1 Czerwony Lego L-0079
+## 0079 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 27.69 zł · EAN: 05706773403004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 0079 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5706773403004 |
 
 LEGO 40301730 POJEMNIK 1 OKRĄGŁY CZERWONY
 
@@ -21,11 +31,26 @@ Pojemnik ma kształt klasycznego klocka LEGO® Łączy się z innymi pojemnikami
  
 WYMIARY PRODUKTU: 123x123x183 mm OBJĘTOŚĆ:950 ml
 
+**Galeria:**
+
+- 0079-1: https://a.allegroimg.com/original/110ee9/bb84f3ba4d40b485232c9ff555b7
+
 ---
 
-## 10000 — Lego Bidon Butelka Przeźroczysta Mexico 0,5L Nhg
+## 10000 — Guarded Inn
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 72.99 zł · EAN: 05711938246983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10000 |
+| Nazwa angielska | Guarded Inn |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938246983 |
 
 LEGO BIDON BUTELKA PRZEŹROCZYSTA MEXICO 0,5L (zabawka)
 
@@ -37,138 +62,123 @@ Zabawka "LEGO BIDON BUTELKA PRZEŹROCZYSTA MEXICO 0,5L" - opis
 
 Butelka LEGO(R) na wodę z zakrętką w kształcie klocka. Pojemność 0,5 l, rozkręcana na trzy elementy. Nadruk Mexico.
 
----
+**Galeria:**
 
-## 10265 — Mocowanie Ścienne do Samochodu Lego Technic Ford Mustang 10265
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320121 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
-
-Ford Mustang 10265
-
-**. To nie tylko praktyczne rozwiązanie do przechowywania, ale również stylowy element, który podkreśli unikalność Twojej kolekcji.**
-
-Główne cechy produktu:
-
-- Idealne Dopasowanie do Ford Mustang 10265: Nasze mocowanie ścienne zostało starannie zaprojektowane z myślą o modelu LEGO Technic Ford Mustang 10265, zapewniając bezpieczne i efektowne wyeksponowanie Twojego ulubionego samochodu.
-- Technologia Druku 3D: Wykorzystanie nowoczesnej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy detal mocowania jest zaplanowany z dbałością o detale, aby spełnić oczekiwania wymagających kolekcjonerów.
-- Materiał PET-G - Wytrzymałość i Elegancja: Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i estetykę. To nie tylko funkcjonalny element, ale również designerski dodatek, który uwydatni unikalność Twojego Ford Mustang 10265
-- Uniwersalny Montaż: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia bezinwazyjny montaż. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-
-Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj naszą pełną gamę praktycznych rozwiązań do przechowywania Twoich ulubionych zestawów LEGO.
-
-Uwydatnij swój Ford Mustang 10265 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+- 10000-1: https://a.allegroimg.com/original/1147a3/831f9ddb4f9a930563f0deb020cb
 
 ---
 
-## 10270 — Zestaw oświetlenia do Lego Creator Expert Księgarnia 10270
+## 10344 — Bambus Szczęścia
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 239.00 zł · EAN: 05905220305452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10344 |
+| Nazwa angielska | Lucky Bamboo |
+| Nazwa polska | Bambus Szczęścia |
+| Seria | Botanicals |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 325 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017814650, 5907213510492 |
 
-Zestaw oświetlenia do LEGO Creator Expert - Księgarnia 10270
+LEGO DRACENA SANDERA 10344
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+LEGO
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+Dracena sandera
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
+Botanicals Dracena sandera LEGO® Botanicals Dracena sandera Dekoracyjna roślina LEGO® Botanicals Dracena sandera 10344 Miłośnicy przyrody mogą zbudować satysfakcjonujący projekt, tworząc piękną ozdobę domu dzięki bambusowi LEGO®, który przynosi szczęście. Bambus LEGO® symbolizujący szczęście Zestaw konstrukcyjny dla dorosłych LEGO® Botanicals Dracena sandera (10344) pozwala rozwinąć kreatywność. Ten pełen detali zestaw do samodzielnego budowania umożliwia stworzenie roślinnej dekoracji, która symbolizuje spokój i szczęście.Inspirowana przyrodą, realistycznie szczegółowa roślina zawiera trzy zielone łodygi bambusa i kamyki umieszczone w doniczce z cokołem z efektem drewna. Po ukończeniu bambus staje się wspaniałą dekoracją domu lub biura, która będzie cieszyć oko przez długi czas. Aby urozmaicić kwiatową kompozycję, umieść model wśród prawdziwych roślin lub obok innych zestawów z kolekcji LEGO Botanicals (sprzedawanych osobno).Bambus, będący częścią klasycznego kwartetu pięknych roślin znanych w sztuce jako \"czworo szlachetnych\", reprezentuje sezon letni i jest uważany za symbol szczęścia. Dzięki temu ten zestaw do budowania dla dorosłych jest fajnym prezentem na specjalne okazje. Zachwyć bliskich, wręczając go na urodziny, parapetówkę lub Dzień Ojca. Zrelaksuj się, budując zestaw konstrukcyjny dla dorosłych LEGO® Botanicals Dracena sandera, który pobudza kreatywność i symbolizuje szczęście. Zbuduj dekoracyjną roślinę, która ma trzy bambusowe łodygi, kamyki, glinianą doniczkę ze złotymi detalami i cokół z imitacji drewna, a następnie ustaw ją jako ozdobę domu lub biura, która wprowadzi spokój do każdego pomieszczenia.
 
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+- **Stan:** Nowy
+- **Marka:** LEGO
+- **Numer produktu:** 10344
+- **Wiek dziecka:** 18 lat +
+- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
+- **Minimalny wiek dziecka:** 18
+- **Bohater / Bajka:** brak
+- **Płeć:** chłopcy|dziewczynki
+- **Liczba elementów:** 325
+- **Certyfikaty, opinie, atesty:** CE
+- **Waga produktu z opakowaniem jednostkowym:** 0.363
+- **Nazwa zestawu:** Bambus Szczęścia
+- **Kod taryfy celnej:** 95030035
+- **EAN:** 5702017814650
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+**Galeria:**
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10339 — Zestaw oświetlenia Led do Icons Poczta Świętego Mikołaja 10339 Pilot
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510003 · in stock*
-
-Dedykowany zestaw oświetlenia LED do Icons Poczta Świętego Mikołaja 10339
-
-Wersja z PILOTEM
-
-**Ważne: Zestaw LEGO nie jest dołączony**
-
-Odkryj ulubiony zestaw Lego na nowo!
-
-Dołącz do społeczności konstruktorów, którzy zmienili swoje zestawy LEGO®  w zapierające dech w piersiach eksponaty. Nasze dedykowane oświetlenie do Lego zapewnia idealne dopasowanie, wyjątkową jakość i elegancję, na jaką zasługuję Twoja kolekcja zestawów Lego.
-
-**Rewolucja w Twojej kolekcji Lego – łatwe w instalacji światła Led**
-
-Odśwież zestaw Lego z dedykowanymi światłami w technologi LED. Oświetlenie jest łatwe w instalacji, dzięki przemyślanej konstrukcji diod led ukrytych w oryginalnych klockach Lego. Pakiet oświetlenia jest nieinwazyjny dla Twojego zestawu Lego i praktycznie niewidoczny w trybie spoczynku  Jasne diody LED oświetlą swój zestaw Lego nawet w jasnym pomieszczeniu.
-
-32sP
+- 10344-1: https://a.allegroimg.com/original/055fd8/9a51538f46a8880dca10b55b1650
+- 10344-2: https://a.allegroimg.com/original/11ae5b/5fb6dd65488bb9b33d12f7eb84fb
 
 ---
 
-## 10344 — Lego Botanical Collection 10344 Dracena sandera Bambus Szczęścia
+## 10370 — Poinsecja
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 112.99 zł · EAN: 05907213510492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10370 |
+| Nazwa angielska | Poinsettia |
+| Nazwa polska | Poinsecja |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 608 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 22 cm × gł. 17 cm |
+| EAN | 5702017747682, 5907213510386 |
 
-**Dekoracyjna roślina LEGO® Botanicals Dracena sandera 10344**
+**Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
-Miłośnicy przyrody mogą zbudować satysfakcjonujący projekt, tworząc piękną ozdobę domu dzięki bambusowi LEGO®, który przynosi szczęście.
+LEGO® Icons 10370 Gwiazda Betlejemska
 
-Bambus LEGO® symbolizujący szczęście Zestaw konstrukcyjny dla dorosłych LEGO® Botanicals Dracena sandera (10344) pozwala rozwinąć kreatywność. Ten pełen detali zestaw do samodzielnego budowania umożliwia stworzenie roślinnej dekoracji, która symbolizuje spokój i szczęście.Inspirowana przyrodą, realistycznie szczegółowa roślina zawiera trzy zielone łodygi bambusa i kamyki umieszczone w doniczce z cokołem z efektem drewna. Po ukończeniu bambus staje się wspaniałą dekoracją domu lub biura, która będzie cieszyć oko przez długi czas. Aby urozmaicić kwiatową kompozycję, umieść model wśród prawdziwych roślin lub obok innych zestawów z kolekcji LEGO Botanicals (sprzedawanych osobno).
+Nr katalogowy: 10370
 
-Bambus, będący częścią klasycznego kwartetu pięknych roślin znanych w sztuce jako \"czworo szlachetnych\", reprezentuje sezon letni i jest uważany za symbol szczęścia. Dzięki temu ten zestaw do budowania dla dorosłych jest fajnym prezentem na specjalne okazje. Zachwyć bliskich, wręczając go na urodziny, parapetówkę lub Dzień Ojca. Zrelaksuj się, budując zestaw konstrukcyjny dla dorosłych LEGO® Botanicals Dracena sandera, który pobudza kreatywność i symbolizuje szczęście. Zbuduj dekoracyjną roślinę, która ma trzy bambusowe łodygi, kamyki, glinianą doniczkę ze złotymi detalami i cokół z imitacji drewna, a następnie ustaw ją jako ozdobę domu lub biura, która wprowadzi spokój do każdego pomieszczenia.
+Ilość klocków: 608
+
+Dla dzieci w wieku: 18+
+
+Dostępność od ręki.
+
+**Pudełko było lekko przygniecione**
+
+Stwórz elegancką, niewymagającą pielęgnacji roślinę ozdobną dzięki zestawowi dla dorosłych LEGO® Icons Gwiazda Betlejemska (10370). Stwórz ciekawy projekt lub podaruj komuś bliskiemu ponadczasową kompozycję kwiatową, która sprawdzi się jako prezent na każdą okazję.
+
+Ta replika rośliny LEGO przedstawia ruchomą poinsecję Grande Italia w plecionej doniczce. Kwiat ma zielone liście oraz pięć kępek jaskrawoczerwonych liści (przylistków) z żółtym cyjacjum pośrodku. Łatwy w budowie model gwarantuje satysfakcję z budowania i stanowi elegancką ozdobę do domu lub biura.
+
+Odpręż się dzięki inspirującej serii kreatywnych zestawów LEGO z botanicznej kolekcji LEGO dla dorosłych i miłośników kwiatów. Cyfrowa wersja instrukcji budowania jest dostępna w aplikacji LEGO Builder.
+
+- Zestaw dla dorosłych z kwiatową ozdobą do domu — zrelaksuj się, budując zestaw LEGO® Icons Gwiazda Betlejemska samodzielnie albo razem z przyjaciółmi i rodziną
+- Kreatywne budowanie dla miłośników roślin — ten zestaw zawiera wszystko, czego potrzeba do stworzenia szczegółowej repliki poinsecji Grande Italia w wersji LEGO®, wraz z plecioną doniczką
+- Ruchome elementy rośliny LEGO® – ta replika LEGO rośliny sezonowej jest ruchoma i zawiera zielone liście oraz pięć kępek listków w kształcie gwiazd(przylistków) z żółtym cyjacjum na środku
+- Dekoracja domu lub biura — dodaj odrobinę koloru do dowolnej przestrzeni dzięki tej zbudowanej z klocków kompozycji kwiatowej, która nie wymaga podlewania
+- Pomysłowy prezent — zestaw do budowania LEGO® Icons Gwiazda Betlejemska to świetny pomysł na prezent urodzinowy lub na co dzień dla dorosłych fanów zestawów LEGO oraz miłośników kwiatów
+- Zawiera cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
+- Część kolekcji botanicznej LEGO® — zrelaksuj się przy szerokiej gamie zestawów LEGO zaprojektowanych specjalnie dla dorosłych
+- Wymiary — gwiazda betlejemska wraz z doniczką w tym 608-elementowym zestawie ma 21 cm wysokości, 22 cm szerokości i 17 cm głębokości
+
+**Galeria:**
+
+- 10370-1: https://a.allegroimg.com/original/11e462/8e68fae8498ab82eec01091bc151
+- 10370-2: https://a.allegroimg.com/original/117796/482fa246481196af873a551e3de8
 
 ---
 
-## 10370 — Zestaw Lampek Do Lego Icons 10370 Gwiazda Betlejemska
+## 1050414 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.00 zł · EAN: 05907213510386 · in stock*
-
-ZESTAW LAMPEK DO LEGO ICONS 10370 GWIAZDA BETLEJEMSKA
-
-**Ważne: Zestaw LEGO nie jest dołączony**
-
-Odkryj ulubiony zestaw Lego na nowo!
-
-Dołącz do społeczności konstruktorów, którzy zmienili swoje zestawy LEGO®  w zapierające dech w piersiach eksponaty. Nasze dedykowane oświetlenie do Lego zapewnia idealne dopasowanie, wyjątkową jakość i elegancję, na jaką zasługuję Twoja kolekcja zestawów Lego.
-
-**Jak podłączyć oświetlenie?**
-
-Oświetlenie jest w formie klocków Lego z diodami LED wewnątrz. Instalacja jest bardzo prosta, wystarczy przypiąć świecący klocek do innego klocka Lego. W zestawie dołączona jest instrukcja, która przeprowadzi przez cały proces instalacji.
-
-**Jak zasilać oświetlenie?**
-
-Oświetlenie LED jest zakończone kablem USB, można wpiąć go do kostki ładowarki, aby podłączyć oświetlenie do stałego źródła zasilania. W zestawie jest dołączony powerbank na baterie 3xAA (brak baterii w zestawie) aby podłączyć oświetlenie do zasilania w sytuacji kiedy zestaw Lego stoi w trudno dostępnym miejscu, bez bliskiego źródła energii.
-
-**Czy proces instalacji oświetlenia do zestawu Lego jest łatwy?**
-
-Tak, oferowane przez nas oświetlenie do Lego jest łatwe w montażu, nawet dla osób nie posiadających zdolności techicznych.
-
----
-
-## 1050414 — Mocowanie Ścienne do Samochodu Lego Lamborghini Sián Fkp 37 42115 Sian
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1050414 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 0 + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5906438320206 |
 
 **Zapraszamy do zakupu eleganckiego mocowania ściennego dedykowanego samochodowi Lamborghini Sián FKP 37 42115 z serii LEGO Technic. To praktyczne rozwiązanie umożliwia zarówno stylowe wyeksponowanie, jak i bezpieczne przechowywanie Twojego ulubionego modelu.**
 
@@ -183,67 +193,26 @@ Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy równ
 
 Podkreśl estetykę i funkcjonalność przechowywania swojego **Lamborghini Sián FKP 37 42115**. Kup teraz mocowanie ścienne, wykonane w technologii druku 3D z materiału PET-G, i dodaj elegancji do swojej kolekcji LEGO!
 
----
+**Galeria:**
 
-## 10696 — Zestaw Lego classic 10696 Średnie Pudełko 4 płytki konstrukcyjne
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 199.99 zł · EAN: 05905951114613 · in stock*
-
-Klocki LEGO duże + płytki konstrukcyjne ZESTAW do 200zł chłopca dziewczynki
-
-⭐️ Zestaw Klocki LEGO + płytki bazowe konstrukcyjne ⭐️
-
-Idealny zestaw dla małych budowniczych! Oryginalne klocki LEGO w praktycznym pudełku oraz 4 kolorowe płytki konstrukcyjne tworzą doskonałą bazę do budowania. Stabilne, kompatybilne i pełne kolorów – gwarantują godziny twórczej zabawy!
-
-**✅ Idealny prezent**
-
-**✅ Płytki kompatybilne z popularnymi klockami**
-
-**✅ Wysoka jakość i trwałość**
-
-⭐️ Dlaczego warto? ⭐️
-
-✅ **Kreatywność bez granic** – 484 elementy i 4 płytki dają nieskończone możliwości tworzenia.
-
-✅ **Idealny prezent** – Dla chłopców i dziewczynek, na każdą okazję.
-
-✅ **Rozwój przez zabawę** – Wspiera precyzję, logiczne myślenie i zdolności manualne.
-
-✅ **Kompatybilność** – Pasuje do wszystkich popularnych klocków LEGO.
-
-✅ **Trwałość i bezpieczeństwo** – Wysoka jakość materiałów gwarantuje zabawę na lata.
-
-✅ **Dla każdego fana LEGO** – Świetna zabawa od 4 roku życia wzwyż!
-
-⭐️ Zawartość zestawu ⭐️
-
-**✅ **484 różnorodne elementy LEGO
-
-**✅ **Specjalne klocki: okna, koła, oczy i wiele innych
-
-**✅ **Solidne pudełko do przechowywania
-
-**✅ **4 kompatybilne płytki bazowe w różnych kolorach
-
-⭐️ Specyfikacja płytki ⭐️
-
-**✅ Wymiary rzeczywiste:** 25,5 x 25,5 cm
-
-**✅ Układ pinów:** 32 x 32
-
-**✅ Kolor:** Zielony, Niebieski, Szary, Żółty
-
-**✅ Materiał:** Tworzywo ABS (nietoksyczne, bezpieczne dla dzieci)
-
-**✅ Kompatybilność:** Wszystkie popularne klocki
-
-Zestaw **LEGO Classic z 4 płytkami konstrukcyjnymi **to nie tylko klocki – to solidna baza dla wyobraźni i nauki przez zabawę. Podaruj dziecku prezent, który rozwija, inspiruje i daje radość tworzenia każdego dnia!
+- 1050414-1: https://a.allegroimg.com/original/11822c/24a3a77047cda9e32214d247211c
 
 ---
 
-## 106966 — Lego Classic 10696 Kreatywne klocki Lego średnie pudełko
+## 106966 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 139.99 zł · EAN: 05905951114880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 106966 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | 484 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5905951114880 |
 
 Oto zestaw, który w żaden sposób nie ogranicza dzieci. Mogą stworzyć takie budowle, na jakie tylko mają ochotę. Ta kolekcja kolorowych klocków ma je inspirować do kreatywnego myślenia, uruchomienia wyobraźni i zachęcać do budowania, aby rozwijać swoje zdolności manualne. Te klocki umożliwiają nieskończoną zabawę.
 
@@ -251,11 +220,26 @@ Zawartość pudełka
 
 W zestawie znajduje się 484 elementów, w tym klocki w 35 różnych kolorach, 18 opon i 18 felg, a także zielona płytka konstrukcyjna 8 x 16 cm, okno z ramą i 3 zestawy oczu. Oprócz tego wszystko zamknięte jest w dużym, plastikowym pojemniku, co ułatwia utrzymanie porządku. Możecie skorzystać z przykładowych pomysłów dołączonych do zestawu
 
+**Galeria:**
+
+- 106966-1: https://a.allegroimg.com/original/11ac8a/62a47c30450181935ac69687da96
+
 ---
 
-## 110696 — Klocki Lego dla 4 5 6 7 8 9 10 11 12 Latka Do 150 Zł duży pojemnik
+## 110696 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 149.99 zł · EAN: 05905951111575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 110696 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | 484 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5905951111575 |
 
 Klocki LEGO Prezent dla 4 5 6 7 8 9 10 11 12 LATKA DO 150 ZŁ duży pojemnik
 
@@ -293,11 +277,26 @@ Kupując LEGO, inwestujesz w **długie** **godziny** **radości** i **zabawy**, 
 - **Kompatybilność z innymi zestawami**: Klocki są w pełni kompatybilne z innymi zestawami LEGO, co daje nieograniczone możliwości rozbudowy.
 - **Bezpieczne i trwałe materiały**: Wysokiej jakości plastik gwarantuje trwałość klocków i bezpieczeństwo zabawy.
 
+**Galeria:**
+
+- 110696-1: https://a.allegroimg.com/original/11ecce/b18580e74581b17c60222cd13615
+
 ---
 
-## 110698 — Zestaw Lego classic 10698 Duże Pudełko 4 płytki konstrukcyjne
+## 110698 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 299.99 zł · EAN: 05905951114903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 110698 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5905951114903 |
 
 LEGO Classic klocki DUŻE + płytki konstrukcyjne bazowe 4szt ZESTAW prezent
 
@@ -367,11 +366,26 @@ Otwórz drzwi do świata nieograniczonej kreatywności z zestawem **LEGO Classi
 
 **✅ 4 duże płytki bazowe kompatybilne z klockami**
 
+**Galeria:**
+
+- 110698-1: https://a.allegroimg.com/original/111b6f/caaf07fe48fc813e7c4a30e09d10
+
 ---
 
-## 112023 — Lego Display Gablotka Niebieska XL Na Minifigurki Klocki 4070
+## 112023 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 169.93 zł · EAN: 00887988011644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 112023 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988011644 |
 
 **LEGO DISPLAY - gablotka XL na minifigurki Iconic**
 
@@ -402,11 +416,26 @@ Otwórz drzwi do świata nieograniczonej kreatywności z zestawem **LEGO Classi
 - **Materiał: klocek wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
 - **Wyprodukowano w Unii Europejskiej**
 
+**Galeria:**
+
+- 112023-1: https://a.allegroimg.com/original/118424/2114e0ef4ca1b2dfa969350758a7
+
 ---
 
-## 112123 — Mocowanie Ścienne do Samochodu Lego Technic Mercedes F1 42171
+## 112123 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 112123 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 0 + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5906438320077 |
 
 **Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
 
@@ -425,11 +454,26 @@ Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy równ
 
 Uwydatnij swój Mercedes F1 42171 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
 
+**Galeria:**
+
+- 112123-1: https://a.allegroimg.com/original/11e480/a4b3ee244786a83c7c0f2172a366
+
 ---
 
-## 11729 — Lego Pudełko 40311726 Pojemnik głowa mała Silly Wytknięty język S
+## 11729 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 68.60 zł · EAN: 00887988011729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11729 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988011729 |
 
 Użyj pojemnika - głowy LEGO do przechowywania "różnych różności" i ciesz się symbolem LEGO w swoim pokoju. Pojemnik LEGO może być używany do przechowywania klocków LEGO i innych zabawek. Można użyć jej nawet jako miska do owoców.
 
@@ -445,11 +489,26 @@ Pojemnik w kształcie klasycznej głowy minifigurki LEGO® nadaje się do przech
 - Można łączyć z pozostałymi pojemnikami Room Copenhagen. 
 - Idealny do przechowywania mniejszych klocków i zabawek.
 
+**Galeria:**
+
+- 11729-1: https://a.allegroimg.com/original/117b92/85a7f85541a0a2a184c1a7c60330
+
 ---
 
-## 1455 — 3x Gablotka Gablota Ekspozycyjna Przezroczysta Pudełko na figurki klocki
+## 1455 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 39.90 zł · EAN: 00722725587085 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1455 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 722725587085 |
 
 Informacje o produkcie:
 
@@ -484,11 +543,26 @@ Zapraszam do zapoznania się z pełnym asortymentem sklepu. W ofercie posiadamy:
 
 Gablotka nie jest oryginalnym produktem LEGO, jest kompatybilna z klockami różnych marek, w tym LEGO
 
+**Galeria:**
+
+- 1455-1: https://a.allegroimg.com/original/11851e/a127613746fb916cb16c6cfe6962
+
 ---
 
-## 155383 — Pojemnik Lego Storage Brick Niebieski
+## 155383 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 32.90 zł · EAN: 00848442025263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 155383 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 848442025263 |
 
 PRODUKT ORYGINALNY!
 
@@ -519,34 +593,117 @@ Jako dekoracja sprawdzi się w każdej przestrzeni. Przykuwa wzrok, przechowuje 
 
 Oryginalne opakowanie jest częścią składową produktu.
 
----
+**Galeria:**
 
-## 2022 — Mocowanie Ścienne do Auta Lego Technic 2022 Ford Gt 42154
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320091 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
-
-LEGO Technic 2022 Ford GT 42154
-
-**. To nie tylko praktyczne rozwiązanie do przechowywania, ale również stylowy element, który podkreśli unikalność Twojej kolekcji.**
-
-Główne cechy produktu:
-
-- Idealne Dopasowanie do LEGO Technic 2022 Ford GT 42154: Nasze mocowanie ścienne zostało starannie zaprojektowane z myślą o modelu LEGO Technic 2022 Ford GT 42154, zapewniając bezpieczne i efektowne wyeksponowanie Twojego ulubionego samochodu.
-- Technologia Druku 3D: Wykorzystanie nowoczesnej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy detal mocowania jest zaplanowany z dbałością o detale, aby spełnić oczekiwania wymagających kolekcjonerów.
-- Materiał PET-G - Wytrzymałość i Elegancja: Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i estetykę. To nie tylko funkcjonalny element, ale również designerski dodatek, który uwydatni unikalność Twojego LEGO Technic 2022 Ford GT 42154
-- Uniwersalny Montaż: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia bezinwazyjny montaż. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-
-Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj naszą pełną gamę praktycznych rozwiązań do przechowywania Twoich ulubionych zestawów LEGO.
-
-Uwydatnij swój LEGO Technic 2022 Ford GT 42154 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+- 155383-1: https://a.allegroimg.com/original/11b33c/16c29ce24663aff48a24aeba987d
 
 ---
 
-## 2023 — Gablota Stojak na Lego Speed Champions 2023 McLaren F1 76919 i inne F1
+## 2022 — Amy Elephant
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 65.00 zł · EAN: 05908453282170 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2022 |
+| Nazwa angielska | Amy Elephant |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 1998 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5901705141218, 5906438320091 |
+
+Zestaw Oświetlenia LED BRIKSMAX dla LEGO Technic Ford GT 2022 (42154)
+
+Ożyw swój model LEGO Technic Ford GT 2022
+
+Zestaw oświetleniowy BRIKSMAX został specjalnie zaprojektowany, aby przekształcić model LEGO Technic Ford GT 2022 (42154) z statycznego obiektu w dynamiczną ekspozycję. Dodaje **nowego wymiaru** wizualnego, sprawiając, że kultowy pojazd ożywa dzięki subtelnemu lub wyrazistemu podświetleniu. Dzięki niemu Twój model Forda GT z pewnością przyciągnie wzrok, niezależnie od tego, czy jest prezentowany na półce, czy w gablocie.
+
+Precyzyjny design i bezpieczne materiały
+
+Konstrukcja zestawu oświetleniowego BRIKSMAX kładzie nacisk na estetykę i bezpieczeństwo. Użyte **bezpieczne i niezawodne materiały** gwarantują trwałość, a starannie rozmieszczone światła oraz **ukryte linie** pozwalają na stworzenie doskonałego efektu wyświetlania. To idealne rozwiązanie dla kolekcjonerów, którzy pragną dodać swoim zestawom LEGO więcej szczegółów i realizmu, bez zakłócania oryginalnego wyglądu modelu.
+
+Prosty i intuicyjny montaż
+
+Instalacja zestawu oświetleniowego BRIKSMAX jest niezwykle przystępna i nie wymaga specjalistycznych umiejętności. W celu ułatwienia całego procesu, dołączono **szczegółową instrukcję krok po kroku**, która prowadzi użytkownika przez każdy etap montażu. Dzięki temu każdy może cieszyć się przyjemnym procesem samodzielnego dopasowywania oświetlenia do swojego modelu LEGO, uzyskując profesjonalny efekt końcowy.
+
+Najważniejsze cechy
+
+ 
+- Zaprojektowany specjalnie dla **LEGO Technic Ford GT 2022 (42154)**.
+ 
+- Ożywia model, zmieniając jego wygląd z ciemnego na jasny.
+ 
+- Wykonany z **bezpiecznych i niezawodnych materiałów**.
+ 
+- Zawiera różnorodne światła oraz system **ukrywania przewodów**.
+ 
+- Umożliwia **łatwy montaż** dzięki dołączonej instrukcji krok po kroku.
+ 
+- Doskonały dodatek dla **kolekcjonerów modeli**.
+ 
+- Zasilanie **na baterie**.
+
+Specyfikacja
+
+ 
+- **Marka:** BRIKSMAX
+ 
+- **Przedział wiekowy:** Dorosły
+ 
+- **Nazwa modelu:** Zestaw oświetlenia LED dla Lego Technic Ford GT 2022
+ 
+- **Nazwa zestawu:** BRIKSMAX Lampa LED 42154
+ 
+- **Producent:** BRIKSMAX
+ 
+- **Numer części:** BX568
+ 
+- **Numer modelu:** 42154
+ 
+- **Kolor:** Niebieski
+ 
+- **Motyw:** Pojazd
+ 
+- **Styl:** Nowoczesny
+ 
+- **Wymiary przedmiotu (opakowania):** 16,5 x 12 x 4 cm
+ 
+- **Liczba sztuk:** 500
+ 
+- **Materiał:** Tworzywo sztuczne
+ 
+- **Funkcje specjalne:** Na baterie
+
+Zawartość zestawu
+
+ 
+- Zestaw diod LED i niezbędnych komponentów do oświetlenia modelu.
+ 
+- Instrukcja montażu krok po kroku.
+
+**Galeria:**
+
+- 2022-1: https://a.allegroimg.com/original/117ca9/d95bbd974c95918c7b1e7272b00c
+- 2022-2: https://a.allegroimg.com/original/11ff30/865991534bcca72c1079d3c5ed7d
+
+---
+
+## 2023 — Square Rattle
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2023 |
+| Nazwa angielska | Square Rattle |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 1983 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5908453282170 |
 
 PUDEŁKO STOJAK GABLOTKA NA KLOCKI LEGO SPEED CHRONI PRZED KURZEM I UV
 
@@ -598,11 +755,26 @@ Produkt Polski – Gwarancja Jakości
 
 Jesteśmy dumni, że nasza gablota została **wyprodukowana w Polsce**. Wybierając nasz produkt, wspierasz lokalną gospodarkę i masz pewność, że otrzymujesz produkt wykonany z dbałością o szczegóły i wysoką jakość materiałów.
 
+**Galeria:**
+
+- 2023-1: https://a.allegroimg.com/original/118cbe/5ecc199441c4811ce027a163770b
+
 ---
 
-## 20240 — Lego Lunch Box Torba Termiczna Ninjago 20240-2303
+## 20240 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.89 zł · EAN: 05711013115913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20240 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711013115913, 5711013115920 |
 
 **LUNCH BOX ŚNIADANIÓWKA  - TORBA TERMICZNA**
 
@@ -646,11 +818,27 @@ Jesteśmy dumni, że nasza gablota została **wyprodukowana w Polsce**. Wybieraj
 
 **Produkt sprzedawany bez akcesoriów - aukcja dotyczy samej torby.**
 
+**Galeria:**
+
+- 20240-1: https://a.allegroimg.com/original/114aa2/192c0ecc4fd08f42abbf2f1e8ba5
+- 20240-2: https://a.allegroimg.com/original/115f12/243f6ec04fa08e5d7c5a0e1f14ae
+
 ---
 
-## 202524 — Ramka na minifigurki, figurki Lego, regulowane półki
+## 202524 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 116.00 zł · EAN: 05907333732231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 202524 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5907333732231 |
 
 Wykonana w technologii druku 3d ramka na minifigurki LEGO.
 
@@ -680,11 +868,26 @@ W przypadku wyjęcie jednej półki mieszczą się minifigurki na koniach.
 
 Z uwagi na liczne pytanie informujemy iż Figurki nie są częścią ramki, zostały użytej jedynie w celu prezentacji walorów :)
 
+**Galeria:**
+
+- 202524-1: https://a.allegroimg.com/original/111467/0cf879034ef8aa164a5be8df72e6
+
 ---
 
-## 202619 — Ekspozytor, ramka na minifigurki, figurki Lego, 34 x 34 cm, czarna
+## 202619 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 187.00 zł · EAN: 05907333732408 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 202619 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5907333732408 |
 
 Wykonany w technologii druku 3d ekspozytor na figurki LEGO.
 
@@ -710,11 +913,26 @@ Przezroczysta szybka z Plexi
 
 Możliwość powieszenia na ścianie.
 
+**Galeria:**
+
+- 202619-1: https://a.allegroimg.com/original/117219/33d1b43a4a7fb4b8eea3db40b5af
+
 ---
 
-## 20284 — Lego Lunch Box Śniadaniówka Termiczna Ninjago Lloyd Green 3D 20284-2508
+## 20284 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 74.88 zł · EAN: 05711013150570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20284 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711013149468, 5711013150570 |
 
 **LEGO SERIA - ARTYKUŁY SZKOLNE**
 
@@ -754,11 +972,27 @@ Możliwość powieszenia na ścianie.
 
 **Wszystkie materiały są zgodne z CPSIA i nie zawierają PCW, ołowiu ani ftalanów.**
 
+**Galeria:**
+
+- 20284-1: https://a.allegroimg.com/original/119345/34a78d02474881204265670f81f7
+- 20284-2: https://a.allegroimg.com/original/11a77a/1196a9924a0190e09e32ac9e4a8c
+
 ---
 
-## 21061 — Zestaw oświetlenia do Lego Architecture Notre-Dame w Paryżu 21061
+## 21061 — Notre-Dame
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 389.00 zł · EAN: 05907213510652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21061 |
+| Nazwa angielska | Notre-Dame de Paris |
+| Nazwa polska | Notre-Dame |
+| Seria | Pojemniki |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 4383 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017582412, 5907213510652 |
 
 Zestaw oświetlenia do LEGO Architecture Notre-Dame w Paryżu 21061
 
@@ -796,85 +1030,27 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
----
+**Galeria:**
 
-## 21349 — Zestaw oświetlenia do Lego Ideas Czarno-biały kot 21349 (bez Lego)
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510140 · in stock*
-
-Zestaw oświetlenia do LEGO Ideas Czarno-biały kot 21349
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 21061-1: https://a.allegroimg.com/original/11dcd3/7f4fc5844315abd7950078a114d7
+- 21061-2: https://a.allegroimg.com/original/118581/b7edf43448d09a6099cb8418a32d
 
 ---
 
-## 21353 — Zestaw oświetlenia do Lego Ideas Ogród botaniczny 21353
+## 262515 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 249.00 zł · EAN: 05907213510614 · in stock*
-
-Zestaw oświetlenia do LEGO IDEAS Ogród botaniczny 21353
-
-**Ważne: Zestaw LEGO nie jest dołączony**
-
-Odkryj ulubiony zestaw Lego na nowo!
- 
-Dołącz do społeczności konstruktorów, którzy zmienili swoje zestawy LEGO®  w zapierające dech w piersiach eksponaty. Nasze dedykowane oświetlenie do Lego zapewnia idealne dopasowanie, wyjątkową jakość i elegancję, na jaką zasługuję Twoja kolekcja zestawów Lego.
-
-**Rewolucja w Twojej kolekcji Lego – łatwe w instalacji światła Led**
- 
-Odśwież zestaw Lego z dedykowanymi światłami w technologi LED. Oświetlenie jest łatwe w instalacji, dzięki przemyślanej konstrukcji diod led ukrytych w oryginalnych klockach Lego. Pakiet oświetlenia jest nieinwazyjny dla Twojego zestawu Lego i praktycznie niewidoczny w trybie spoczynku  Jasne diody LED oświetlą swój zestaw Lego nawet w jasnym pomieszczeniu. 
- 
-**Jak podłączyć oświetlenie?**
- 
-Oświetlenie jest w formie klocków Lego z diodami LED wewnątrz. Instalacja jest bardzo prosta, wystarczy przypiąć świecący klocek do innego klocka Lego. W zestawie dołączona jest instrukcja, która przeprowadzi przez cały proces instalacji.
- 
-**Jak zasilać oświetlenie?**
- 
-Oświetlenie LED jest zakończone kablem USB, można wpiąć go do kostki ładowarki, aby podłączyć oświetlenie do stałego źródła zasilania. W zestawie jest dołączony powerbank na baterie 3xAA (brak baterii w zestawie) aby podłączyć oświetlenie do zasilania w sytuacji kiedy zestaw Lego stoi w trudno dostępnym miejscu, bez bliskiego źródła energii.
- 
-**Czy proces instalacji oświetlenia do zestawu Lego jest łatwy?**
- 
-Tak, oferowane przez nas oświetlenie do Lego jest łatwe w montażu, nawet dla osób nie posiadających zdolności techicznych. 
-
-32sS
-
----
-
-## 262515 — Lego Pojemnik do przechowywania Zielony
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 29.99 zł · EAN: 00848442025294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 262515 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 848442025294 |
 
 LEGO Pojemnik do przechowywania Żółty
 
@@ -894,11 +1070,26 @@ Pomieści mniejsze zabawki, w tym klocki LEGO®
  
 LEGO 4001
 
+**Galeria:**
+
+- 262515-1: https://a.allegroimg.com/original/112d37/745e4aa04a22b48f4d7de2300cbe
+
 ---
 
-## 287514 — Lego Pojemnik Na Klocki Storage Brick 4 Studs Pudełko Do Przechowywania 4+
+## 287514 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.90 zł · EAN: 05702017229041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 287514 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017229041 |
 
 LEGO Pojemnik Na Klocki STORAGE BRICK 4 Studs Pudełko Do Przechowywania
 
@@ -921,11 +1112,26 @@ Produkt wykonany jest z trwałego, wysokiej jakości tworzywa, odpornego na codz
 
 **LEGO Storage Brick to idealne połączenie porządku, funkcjonalności i kultowego designu, który dzieci uwielbiają ✨**
 
+**Galeria:**
+
+- 287514-1: https://a.allegroimg.com/original/11e83e/c02259444e4ab768c51a554ad02e
+
 ---
 
-## 30910 — Duża Lego Gablota Pojemnik Podwójna Witryna Na Minifigurki Figurki 4070
+## 30910 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 98.99 zł · EAN: 05038104630910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30910 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5038104630910 |
 
 DUŻA LEGO GABLOTA POJEMNIK PODWÓJNA WITRYNA NA MINIFIGURKI FIGURKI 4070
 
@@ -949,11 +1155,26 @@ Dzięki tej dwupoziomowej gablocie fani LEGO mogą wyeksponować swoje najnowsze
 - **Wymaga baterii:** Nie
 - **Wymiary opakowania:** 41 x 21 x 20 cm
 
+**Galeria:**
+
+- 30910-1: https://a.allegroimg.com/original/11a2f6/4817baad4dae9fba81cbf08262e2
+
 ---
 
-## 380313 — Lego Pojemnik Klocek Pudełko Różowy Duży 2 Szt
+## 380313 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 112.00 zł · EAN: 05711938035280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 380313 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938035280 |
 
 Pudełko do przechowywania w kształcie klocka LEGO, zestaw 2 sztuki, różowy
  
@@ -992,11 +1213,26 @@ ____________________________
  
 - ok. 987 g
 
+**Galeria:**
+
+- 380313-1: https://a.allegroimg.com/original/1132f0/8ee08f4f406da8972ebe5e7e93c6
+
 ---
 
-## 391699 — Lego Gablotka na figurki 8 Czerwona 4065
+## 391699 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.99 zł · EAN: 05711938249403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 391699 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938249403 |
 
 LEGO Gablotka na figurki 8 Czerwona 4065
 
@@ -1024,11 +1260,26 @@ Zestaw zawiera:
 - Producent: LEGO
 - Wymiary pudełka: wys. 19 cm x szer. 20 cm x gł. 5 cm
 
+**Galeria:**
+
+- 391699-1: https://a.allegroimg.com/original/116a6b/7afe0200437a9ab5c39d30332ca3
+
 ---
 
-## 391700 — Lego Mini Pojemnik Głowa Bałwan Snowman Xs 40330817
+## 391700 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 44.99 zł · EAN: 05711938249441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 391700 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938249441 |
 
 **LEGO -  MINI POJEMNIK XS**
 
@@ -1060,11 +1311,26 @@ Zestaw zawiera:
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
 - **Wyprodukowano w Unii Europejskiej**
 
+**Galeria:**
+
+- 391700-1: https://a.allegroimg.com/original/118286/c4ae16a54b32bf1ba153ede5bab9
+
 ---
 
-## 4001 — Lego 4001 Pojemnik 1 Zielony Nowy
+## 4001 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 25.00 zł · EAN: 05706773400140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4001 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5706773400102, 5706773400140, 5706773400157, 887988009962 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1084,11 +1350,29 @@ Pojemnik ma kształt klasycznego klocka LEGO® Łączy się z innymi pojemnikami
 
 WYMIARY PRODUKTU: 125x125x180 mm OBJĘTOŚĆ: 1200 ml
 
+**Galeria:**
+
+- 4001-1: https://a.allegroimg.com/original/00066d/47e78d104f9c9a69a69f2661c19a
+- 4001-2: https://a.allegroimg.com/original/116678/239b977d4181bca77f64a20658cf
+- 4001-3: https://a.allegroimg.com/original/11644d/71cd5cbc4758a843b4f542e3b67f
+- 4001-4: https://a.allegroimg.com/original/115759/54c6a92a40d0a1a345f907014571
+
 ---
 
-## 4003 — Lego Pojemnik Klocek 4 Kontener 2x2 Brick 25 CM Pudło Sorter Czerwony
+## 4003 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 64.97 zł · EAN: 05706773400300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4003 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5706773400300 |
 
 **Witamy w sklepie Toys Company**
 
@@ -1135,11 +1419,26 @@ Można je ze sobą łączyć. Także pojemniki w kształcie głowy LEGO® w rozm
 
 Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przedmiotem sprzedaży.
 
+**Galeria:**
+
+- 4003-1: https://a.allegroimg.com/original/11cf1b/6edeb4af47ee9d0d3980ba915858
+
 ---
 
-## 4005 — Lego 40051731 Pojemnik na klocki z szufladą 2x2 niebieski
+## 4005 — Tug Boat
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 114.97 zł · EAN: 00887988010005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4005 |
+| Nazwa angielska | Tug Boat |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1982 |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988010005 |
 
 Room Copenhagen przedstawia swój klasyk – pojemnik LEGO® Storage Brick w nowej odsłonie. Od teraz pojemniki LEGO® w kształcie klocków dostępne są również w wersji z szufladkami. Te przerośnięte klocki LEGO® można układać w ten sam sposób jak oryginalne klocki LEGO®. Można nimi udekorować pokój lub biuro, można z nich budować i się nimi bawić lub używać ich, żeby posegregować swoje zabawki, klocki LEGO® lub artykuły biurowe. Szufladki zapewniają dzieciom wygodny dostęp do ich skarbów, nawet jeśli pojemnik stoi na samym dole wieży z klocków.
  
@@ -1147,11 +1446,26 @@ Wymiary: 250 x 250 x 180 mm
 
 Materiał: Polypropylene (PP)
 
+**Galeria:**
+
+- 4005-1: https://a.allegroimg.com/original/1197a5/f896dcb544558ad6b40311d22f8d
+
 ---
 
-## 4006 — Pojemnik Lego Klocek 8 niebieski 4006 Nhg
+## 4006 — Creator: Brick Tricks: Cool Cars
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 171.99 zł · EAN: 05711938029562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4006 |
+| Nazwa angielska | Creator: Brick Tricks: Cool Cars |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2000 |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938029562 |
 
 Pojemnik LEGO Klocek 8 niebieski 4006 (zabawka)
 
@@ -1164,11 +1478,26 @@ Zabawka "Pojemnik LEGO Klocek 8 niebieski 4006" - opis
 
 Pojemnik w kształcie klocka LEGO(R) z szufladami "ósemka" w kolorze błękitnym o pojemności 470 ml. Kompatybilny z pozostałymi klockami w serii.
 
+**Galeria:**
+
+- 4006-1: https://a.allegroimg.com/original/033d65/efb04042475b9f3f148dc2289b73
+
 ---
 
-## 4011195 — Lego Worek Torba Kubełek Materiałowy Pojemnik Na Klocki Pomarańczowy
+## 4011195 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.99 zł · EAN: 00757894514464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4011195 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 757894514464, 757894514471, 757894514488, 872807004563 |
 
 **LEGO WOREK TORBA**
 
@@ -1220,11 +1549,30 @@ Pojemnik w kształcie klocka LEGO(R) z szufladami "ósemka" w kolorze błękitny
 
 **- Nie zawiera klocków LEGO® ani akcesoriów.**
 
+**Galeria:**
+
+- 4011195-1: https://a.allegroimg.com/original/119dc5/65d76cdc4bf790840afe9fecabcc
+- 4011195-2: https://a.allegroimg.com/original/11995e/62dd8a2848c0baad1b6c86005196
+- 4011195-3: https://a.allegroimg.com/original/11cfa1/923ff85f4fab84d50642a8ddd7a6
+- 4011195-4: https://a.allegroimg.com/original/115d86/4ec43aaa4dc5b5d314836f5cfde4
+
 ---
 
-## 4014 — Lego 4014 Bricks Pojemnik Na Klocki Zestaw X 3 S
+## 4014 — Creator Exclusive
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 97.00 zł · EAN: 05711938033620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4014 |
+| Nazwa angielska | Creator Exclusive |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938025274, 5711938033620 |
 
 **LEGO 4014 BRICKS POJEMNIK NA KLOCKI ZESTAW X 3 S**
 
@@ -1234,11 +1582,27 @@ Są idealne do uporządkowania przestrzeni do pracy, przechowywania przyborów d
 
 Zestaw składa się z 3 pojemników w kształcie klocków LEGOW zestawie kolory: szary, czarny i białyIdealny zestaw startowyPojemniki łączą się ze sobą i umożliwiają tworzenie większych konstrukcjiProdukt sprzedawany bez klocków LEGO ani innych akcesoriówMateriał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCWWyprodukowano w Unii EuropejskiejZestaw pojemników LEGO 3w1 to fantastyczny pomysł na prezent - zarówno dla najmłodszych jak i dorosłych fanów klasycznych klocków.
 
+**Galeria:**
+
+- 4014-1: https://a.allegroimg.com/original/115582/50c798c444c29b37c0db24e9a615
+- 4014-2: https://a.allegroimg.com/original/115566/02151b67469586ce389057eb172e
+
 ---
 
-## 4015 — Lego Classic 40150001 Zestaw 4 pojemników
+## 4015 — Freighter
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 219.97 zł · EAN: 05711938024871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4015 |
+| Nazwa angielska | Freighter |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1982 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938024871 |
 
 Dzięki multipakowi szykują się porządki z uśmiechem od ucha do ucha, bowiem pojemniki w kształcie klocków LEGO® można układać podobnie jak te małe. Sprzątnie nigdy nie było tak radosne. Ponadto multipak sprawdzi się idealnie przy okazji dekorowania dziecięcego pokoju czy segregacji kosmetyków i akcesoriów do pielęgnacji niemowląt. Za sprawą formy klasycznych klocków i żywych kolorów Twoje dziecko jeszcze długo nie opuści niezwykłego świata LEGO.
  
@@ -1248,11 +1612,27 @@ Dzięki multipakowi szykują się porządki z uśmiechem od ucha do ucha, bowiem
 - Pojemniki można układać jak klasyczne klocki LEGO®. 
 - Wykonany z polipropylenu (wolny od BPA, ftalanów oraz PCW).
 
+**Galeria:**
+
+- 4015-1: https://a.allegroimg.com/original/115652/75478f7643b294bfd873ea519516
+
 ---
 
-## 4016 — Wieszaki Lego Wall Hanger Set 4016
+## 4016 — Racer
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 42.57 zł · EAN: 05711938031862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4016 |
+| Nazwa angielska | Racer |
+| Nazwa polska | Racer |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014155947, 5711938031862 |
 
 **"BEDMAG"**
  
@@ -1289,11 +1669,27 @@ Mogą służyć do powieszenia na nich kurtki, plecaka lub czapki, choć równie
  
 Stworzone zarówno z myślą o pokoju dziecka, jak i mieszkaniach dorosłych fanów LEGO®, którzy cenią sobie prosty nordycki design.
 
+**Galeria:**
+
+- 4016-1: https://a.allegroimg.com/original/11624a/a1a9e12e488793592bcb8c8de405
+- 4016-2: https://a.allegroimg.com/original/11d73f/80a6f34148e38cae8202c6c96a1f
+
 ---
 
-## 4020 — Lego Pojemnik Z Szufladą Na Biurko Brick 4 Klocek Pudełko Czarny Torba
+## 4020 — Fire Fighting Boat
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 49.51 zł · EAN: 05711938031909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4020 |
+| Nazwa angielska | Fire Fighting Boat |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1987 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938031909, 887988013044 |
 
 **Witamy w sklepie Toys Company**
 
@@ -1334,11 +1730,28 @@ Pojemnik w kształcie klasycznego klocka LEGO® gdzie do szuflady można schowa�
 
 Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przedmiotem sprzedaży.
 
+**Galeria:**
+
+- 4020-1: https://a.allegroimg.com/original/032760/605cc24b48c2a1d5bc79d2aedd72
+- 4020-2: https://a.allegroimg.com/original/11442f/edd6c22743d8b1e88a62345e4197
+
 ---
 
-## 4023 — Lego Pojemnik Na Śniadanie Klocek 8 Lunchbox Śniadaniówka Różowy Torba
+## 4023 — Fun and Adventure
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 44.97 zł · EAN: 00848442025485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4023 |
+| Nazwa angielska | Fun and Adventure |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 848442025423, 848442025485 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST
 
@@ -1370,11 +1783,27 @@ Lunchbox w kształcie klasycznego klocka LEGO® zapewnia bezpieczny i wygodny sp
 
 Prezentacja może zawierać zdjęcia poglądowe. Przedstawiają różne produkty, które nie są przedmiotem sprzedaży.
 
+**Galeria:**
+
+- 4023-1: https://a.allegroimg.com/original/117076/70d9a11b4d95adb6b6f6f6b9a28c
+- 4023-2: https://a.allegroimg.com/original/11e9dd/c7b841804e79ad015aa78b37c0f6
+
 ---
 
-## 4024008 — Lego Lunch Box Pojemnik Przezroczysty Jasnozielony Śniadaniówka XL
+## 4024008 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 74.99 zł · EAN: 05711938247126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4024008 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938247126 |
 
 **POJEMNIK ŚNIADANIÓWKA XL**
  
@@ -1404,11 +1833,26 @@ Prezentacja może zawierać zdjęcia poglądowe. Przedstawiają różne produkty
  
 **Nie zawiera klocków LEGO® ani akcesoriów.**
 
+**Galeria:**
+
+- 4024008-1: https://a.allegroimg.com/original/119ccd/c3a586cf485d8321abf805464eac
+
 ---
 
-## 4031 — Lego pojemnik w kształcie głowy dziewczyna 16x16x18,5cm
+## 4031 — Fire Rescue
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 67.15 zł · EAN: 05711938248789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4031 |
+| Nazwa angielska | Fire Rescue |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1991 |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938248789 |
 
 LEGO 4031 - Pojemnik w kształcie głowy minifigurki – mały, dziewczynka
 
@@ -1429,11 +1873,26 @@ Adresowany dla wieku: **3+**
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW.**
 - **Wyprodukowano w Unii Europejskiej.**
 
+**Galeria:**
+
+- 4031-1: https://a.allegroimg.com/original/11dbdc/e21eb46e449092ba4b1028f1c185
+
 ---
 
-## 4032172 — Lego Pojemnik Duża Głowa L Chłopiec Boy 8,5 L Lego Naklejki A4
+## 4032172 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 77.97 zł · EAN: 05711938030216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4032172 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938030216 |
 
 **LEGO - POJEMNIK PUDEŁKO**
 
@@ -1477,11 +1936,27 @@ Adresowany dla wieku: **3+**
 
 - **Wyprodukowano w Unii Europejskiej**
 
+**Galeria:**
+
+- 4032172-1: https://a.allegroimg.com/original/03ebdd/98dcdec0498f959062cd5e1e45d5
+
 ---
 
-## 4033 — Lego Storage Head Girl Mini żółty pojemnik na drobiazgi
+## 4033 — Car
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 27.47 zł · EAN: 05711938033538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4033 |
+| Nazwa angielska | Car |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938033538, 5711938033545, 5711938033552, 5904158822567 |
 
 LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 
@@ -1548,11 +2023,29 @@ LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 - **Autentyczność **- Nasz produkt pochodzi z oficjalnych kanałów dystrybucji w Unii Europejskiej, co gwarantuje jego autentyczność oraz bezpieczeństwo użytkowania.
 - **Wsparcie producenta** - Produkt objęty jest oficjalnym wsparciem producenta, zapewniającym pomoc i serwis na wysokim poziomie.
 
+**Galeria:**
+
+- 4033-1: https://a.allegroimg.com/original/11bb89/aae2675245a8b30b4eb32e531d72
+- 4033-2: https://a.allegroimg.com/original/11b00b/20fc749647e1b803a783723e0451
+- 4033-3: https://a.allegroimg.com/original/117e09/1052e9474f3089fd154786027b8e
+- 4033-4: https://a.allegroimg.com/original/111cac/38457336418db751ffd39e898176
+
 ---
 
-## 40401 — Bidon Butelka Pojemnik Z Główką Star Wars C-3PO
+## 40401 — LEGO Creator 40401 Dzień przyjaźni (polybag)
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 45.00 zł · EAN: 05706773404018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40401 |
+| Nazwa angielska | Dog and Cat Friendship Day |
+| Nazwa polska | LEGO Creator 40401 Dzień przyjaźni (polybag) |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720167, 5706773404018 |
 
 **BIDON - BUTELKA - POJEMNIK NA PICIE**** Z GŁÓWKĄ**
 
@@ -1578,11 +2071,27 @@ LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 
 **- POJEMNIK  JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 40401-1: https://a.allegroimg.com/original/034f6b/263a379e4e7197903a18a2b36bf0
+- 40401-2: https://a.allegroimg.com/original/111e72/42b649504d87a4f74375df82acf9
+
 ---
 
-## 4050 — Lego 4052 Friends Lunch Box Śniadaniówka Pojemnik
+## 4050 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 34.43 zł · EAN: 05711938023423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4050 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938023423, 5711938026813 |
 
 **SERIA - FRIENDS**
 
@@ -1613,46 +2122,27 @@ LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 - **Nadaje się do mycia w zmywarce**
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
 
----
+**Galeria:**
 
-## 4052 — Lego 4052 City Lunch Box Policja Śniadaniówka
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 54.99 zł · EAN: 00887988014829 · in stock*
-
-**SERIA - CITY**
-
-**LUNCH BOX POJEMNIK  NA KANAPKI**
-
-**ŚNIADANIÓWKA POLICJA**
-
-- **Na wieczku atrakcyjna grafika**
-- **Łatwo się otwiera - zamknięcie na wygodny klips**
-- **Ze sprytnym przesuwanym przedziałkiem w środku**
-- **Wieczko może służyć jako oryginalny talerzyk**
-- **Nadaje się do mycia w zmywarce**
-
-**Wykonany z polipropylenu (wolny od BPA, ftalanów oraz PCW).**
-
-**NR.KATALOGOWY - 40521735**
-
-**wiek 3 +**
-
-**POJEMNIK WYMIARY - 170 x 135 x 69 mm**
-
-**- OFEROWANY POJEMNIK POSIADAM NA STANIE.**
-
-**- POJEMNIK LEGO JEST NOWY I ORYGINALNY.**
-
-**Lunch box ozdobiony jest współczesnymi grafikami z motywami LEGO. Wieczko tego lunch boxa (dzięki wygodnym klipsom) może służyć jako odlotowy talerzyk. Wewnątrz pojemnika znajduje się przesuwany przedziałek, który sprytnie dzieli go na dwie części - jedną na kanapkę, drugą np. na kawałki świeżych owoców.  Pojemnik zapewnia bezpieczny i wygodny sposób na spakowanie codziennego lunchu, bez konieczności używania zbędnych opakowań.**
-
-- **Nadaje się do mycia w zmywarce**
-- **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
+- 4050-1: https://a.allegroimg.com/original/11726f/fcb3da074ee7aa3f790376cae403
+- 4050-2: https://a.allegroimg.com/original/11dca8/1f041cdd49fb85b16b61c2c67f93
 
 ---
 
-## 4055 — Lego Chima Power Bidon Pojemnik Butelka Na Picie
+## 4055 — Medium Bucket
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 34.99 zł · EAN: 05711938000769 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4055 |
+| Nazwa angielska | Medium Bucket |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938000769 |
 
 **LEGO CHIMA - POJEMNIK BUTELKA**
 
@@ -1672,11 +2162,26 @@ LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 
 **- POJEMNIK LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 4055-1: https://a.allegroimg.com/original/119e48/8a4399a9471d893d10321e0e1819
+
 ---
 
-## 4058 — Lego City Policja Lunch Set Pojemniki Bidon I Box 40581735
+## 4058 — Cameraman 1
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 64.95 zł · EAN: 00887988014843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4058 |
+| Nazwa angielska | Cameraman 1 |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988011156, 887988014843 |
 
 **LUNCH SET POJEMNIKI BIDON + ŚNIADANIÓWKA**
 
@@ -1707,11 +2212,27 @@ LEGO Storage Head Girl Mini – żółty pojemnik na drobiazgi
 - **Zestaw nadaje się do mycia w zmywarce**
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
 
+**Galeria:**
+
+- 4058-1: https://a.allegroimg.com/original/11bb2f/ad101c6f4f94bd865d5f305640d2
+- 4058-2: https://a.allegroimg.com/original/11c492/4a23ed254a5c94770bd0d8acdd72
+
 ---
 
-## 4065 — Lego witryna gablotka pojemnik na minifigurki
+## 4065 — Actor 3
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.99 zł · EAN: 00887988013099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4065 |
+| Nazwa angielska | Actor 3 |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2001 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938249410, 887988013099 |
 
 ORYGINALNA WITRYNA NA MINIFIGURKI
 
@@ -1727,11 +2248,27 @@ Dzięki zbudowanej z klocków witrynie fani LEGO® mogą pochwalić się wszystk
 - Pokaż swoje minifigurki — witryna ma osiem szarych płytek konstrukcyjnych, dzięki czemu możesz ustawić minifigurki na dwóch poziomach, w osobnych przezroczystych przegródkach z oddzielnymi drzwiczkami
 - Możliwość łączenia — witrynę o wysokości ok. 18 cm, szerokości ok. 19 cm i głębokości ok.4 cm można łączyć z innymi, aby wyeksponować więcej minifigurek. Minifigurki nie są dołączone do zestawu
 
+**Galeria:**
+
+- 4065-1: https://a.allegroimg.com/original/119e21/729002c244b6b4dcd2d35621f8b2
+- 4065-2: https://a.allegroimg.com/original/115a66/c75472524190976ce2067edbeb94
+
 ---
 
-## 4066 — Lego 4066 witryna gablotka pojemnik na minifigurki na 16 minifigurek
+## 4066 — Actor 1
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 124.99 zł · EAN: 00887988003847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4066 |
+| Nazwa angielska | Actor 1 |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2001 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 38 cm × gł. 4 cm |
+| EAN | 5711938023621, 5711938030995, 5711938032814, 5711938033026, 887988003847 |
 
 ORYGINALNA WITRYNA NA MINIFIGURKI
 
@@ -1749,11 +2286,30 @@ W tym magicznym pudełku fani LEGO mogą przechowywać i eksponować swoje ulubi
 
 **Zestaw nie obejmuje minifigurek**
 
+**Galeria:**
+
+- 4066-1: https://a.allegroimg.com/original/117650/75c3a6a74d3a970eef8ea73cd557
+- 4066-2: https://a.allegroimg.com/original/03418a/f3c8f2644031ac1936a7ec0d02f9
+- 4066-3: https://a.allegroimg.com/original/11b09d/699c72fd4692932a8324b9b28625
+- 4066-4: https://a.allegroimg.com/original/117455/14a0717a429c9890491258157461
+- 4066-5: https://a.allegroimg.com/original/110d13/f370df0e4bc1b282e68efe8c2980
+
 ---
 
-## 406600 — Gablotka Na 16 minifigurek Lego czerwona Red 406600
+## 406600 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 439.48 zł · EAN: 05908066278010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 406600 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5908066278010 |
 
 **WITRYNA NA 16 MINIFIGUREK**
  
@@ -1778,11 +2334,26 @@ W tym magicznym pudełku fani LEGO mogą przechowywać i eksponować swoje ulubi
  
 **Nowy wymiar ekspozycji Twoich minifigurek LEGO®!**
 
+**Galeria:**
+
+- 406600-1: https://a.allegroimg.com/original/11df64/604208004066a4235e45114a94ad
+
 ---
 
-## 4070 — Duża Lego Gablota Pojemnik Podwójna Witryna Na Minifigurki Figurki 4070
+## 4070 — Stand Camera
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 98.95 zł · EAN: 05711938030759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4070 |
+| Nazwa angielska | Stand Camera |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2001 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938030759 |
 
 LEGO GABLOTA POJEMNIK WITRYNA NA MINIFIGURKI CZERWONA FIGURKI LEGO 4070
 
@@ -1808,11 +2379,26 @@ Dzięki tej dwupoziomowej gablocie fani LEGO mogą wyeksponować swoje najnowsze
 - **Wymaga baterii:** Nie
 - **Wymiary opakowania:** 41 x 21 x 15,5 cm
 
+**Galeria:**
+
+- 4070-1: https://a.allegroimg.com/original/11f883/94328f67492ab144c493d64a3190
+
 ---
 
-## 4087 — Lego 4087 Mini Sorter Zielony Pudełko Walizeczka
+## 4087 — Basic Flexible Bucket, Large (Explore)
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 24.72 zł · EAN: 05711938031886 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4087 |
+| Nazwa angielska | Basic Flexible Bucket, Large (Explore) |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2002 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938031886 |
 
 **LEGO ICONIC  MINI SORTER**
  
@@ -1843,11 +2429,27 @@ Dzięki tej dwupoziomowej gablocie fani LEGO mogą wyeksponować swoje najnowsze
  
 **Sortery na klocki sprawiają, że transportowanie zestawów LEGO® staje się super-łatwe!**
 
+**Galeria:**
+
+- 4087-1: https://a.allegroimg.com/original/11e059/e04405224900a0cad22e19691df9
+
 ---
 
-## 4095 — Lego 500617 Przezroczyste niebieskie pudełko z 3 szufladkami 3-Drawer Rack
+## 4095 — Record and Play
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 180.69 zł · EAN: 05711938032098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4095 |
+| Nazwa angielska | Record and Play |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938032098 |
 
 LEGO 500617 Przezroczyste niebieskie pudełko z 3 szufladkami 3-Drawer Rack
 
@@ -1887,11 +2489,26 @@ Przezroczyste niebieskie pudełko z szufladkami LEGO® da budowniczym miejsce na
 - Na górnej powierzchni pudełka znajduje się płytka konstrukcyjna o wymiarach 32 × 32 wypustki, dająca dzieciom sporo stabilnego miejsca do budowania.
 - Całe pudełko jest wykonane z łatwego w czyszczeniu plastiku i ma zaokrąglone krawędzie zapobiegające bolesnym uderzeniom.
 
+**Galeria:**
+
+- 4095-1: https://a.allegroimg.com/original/11da18/3fdee58c49b2939e14412a4f32a3
+
 ---
 
-## 410886 — Lego Półka w kształcie klocka z ośmioma wypustkami Czerwona
+## 410886 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 87.90 zł · EAN: 05711938248819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 410886 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938248819 |
 
 LEGO - Półka w kształcie klocka z ośmioma wypustkami - Czerwona
 
@@ -1934,11 +2551,26 @@ Sprytne rozwiązanie do przechowywania
 - **Szerokość produktu:** 31
 - **Głębokość produktu:** 21
 
+**Galeria:**
+
+- 410886-1: https://a.allegroimg.com/original/11244d/eaf6340045059cb1532ca2d714fc
+
 ---
 
-## 410887 — Lego Półka ścienna w kształcie klocka Lego możliwość łączenia czerwona
+## 410887 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 45.00 zł · EAN: 05711938248857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 410887 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 15 cm × gł. 15 cm |
+| EAN | 5711938248857, 5711938248864 |
 
 **LEGO Półka ścienna w kształcie klocka LEGO możliwość łączenia czerwona**
 
@@ -1948,11 +2580,27 @@ Półka w kształcie klocka LEGO® z czterema wypustkami sprawi, że pokój dzie
 - Sprytne rozwiązanie do przechowywania — półkę można przyczepić do ściany, postawić na biurku lub połączyć z innymi produktami do przechowywania LEGO®, aby stworzyć harmonijne wnętrze
 - Dostępna w wielu kolorach (sprzedawanych osobno) — każda półka w kształcie klocka LEGO® z czterema wypustkami ma ok. 21 cm wysokości, 15 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 410887-1: https://a.allegroimg.com/original/11379a/f11e26d144e48b2a49e649e6a41d
+- 410887-2: https://a.allegroimg.com/original/110936/cff3000a4fc2b000799038cd9e33
+
 ---
 
-## 4112 — Lego Półka Podłużna Klocek 6 Czarny 41121733
+## 4112 — Brick Book Rack (All Colors)
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.80 zł · EAN: 05711938033576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4112 |
+| Nazwa angielska | Brick Book Rack (All Colors) |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938033576 |
 
 **LEGO PÓŁKA PODŁUŻNA**
 
@@ -1984,11 +2632,27 @@ Półka w kształcie klocka LEGO® z czterema wypustkami sprawi, że pokój dzie
 - **Wymiary (mm): 478 x 78 x 115**
 - **Przedmiot sprzedawany baz akcesoriów**
 
+**Galeria:**
+
+- 4112-1: https://a.allegroimg.com/original/11140f/9e9c7df04035b86d593d196387ac
+
 ---
 
-## 4117 — Lego 2 x Półka wisząca Zestaw Mała Duża Na ścianę Regał Czerwona 41171730
+## 4117 — Fantastic Flyers & Cool Cars Bucket
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 59.99 zł · EAN: 05711938034184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4117 |
+| Nazwa angielska | Fantastic Flyers & Cool Cars Bucket |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938034184 |
 
 **Witamy w Toys Company**
 
@@ -2015,11 +2679,27 @@ duża:   31,8 x 15,9 x 21,1 cm wys
 
 Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przedmiotem sprzedaży.
 
+**Galeria:**
+
+- 4117-1: https://a.allegroimg.com/original/11e2b9/1299652a4c1fbba0cdda958ebf5e
+
 ---
 
-## 4118 — Lego Pudełko do przechowywania klocków 2szt (niebieski i błękitny)
+## 4118 — Buildings, Mansions and Shops
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 110.00 zł · EAN: 05711938035273 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4118 |
+| Nazwa angielska | Buildings, Mansions and Shops |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938035273 |
 
 **LEGO Pudełko do przechowywania w kształcie klocka LEGO, 2 sztuki**
  
@@ -2047,11 +2727,27 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są prze
  
 - ok. 987 g
 
+**Galeria:**
+
+- 4118-1: https://a.allegroimg.com/original/116ef8/7a1a8a1d4847b4d20b78b4b8d2df
+
 ---
 
-## 4121 — Lego 4121 Zestaw szufelek z rozdzielaczem
+## 4121 — All Kinds of Animals
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 23.99 zł · EAN: 05711938249298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4121 |
+| Nazwa angielska | All Kinds of Animals |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938249298, 5711938249311 |
 
 Zestaw szufelek LEGO z rozdzielaczem (szara/czarna)
 
@@ -2072,30 +2768,77 @@ Kto powiedział, że porządki są nudne? Kolorowe szufelki LEGO to pomysłowe z
 - Mała szufelka:  8,8 x 12,9 x 4,8 cm
 - Duża szufelka:  13,2 x 19,4 x 7,2 cm
 
----
+**Galeria:**
 
-## 42056 — Mocowanie Ścienne do Samochodu Lego Technic 42056 Porsche 911 GT3 Rs
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320190 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic 42056 Porsche 911 GT3 RS. To nie tylko praktyczne rozwiązanie do przechowywania, ale również stylowy element, który podkreśli unikalność Twojej kolekcji.**
-
-Główne cechy produktu:
-
-- Idealne Dopasowanie do Porsche 911 GT3 RS: Nasze mocowanie ścienne zostało starannie zaprojektowane z myślą o modelu LEGO Technic 42056 Porsche 911 GT3 RS, zapewniając bezpieczne i efektowne wyeksponowanie Twojego ulubionego samochodu.
-- Technologia Druku 3D: Wykorzystanie nowoczesnej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy detal mocowania jest zaplanowany z dbałością o detale, aby spełnić oczekiwania wymagających kolekcjonerów.
-- Materiał PET-G - Wytrzymałość i Elegancja: Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i estetykę. To nie tylko funkcjonalny element, ale również designerski dodatek, który uwydatni unikalność Twojego Porsche 911 GT3 RS.
-- Uniwersalny Montaż: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia bezinwazyjny montaż. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-
-Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj naszą pełną gamę praktycznych rozwiązań do przechowywania Twoich ulubionych zestawów LEGO.
-
-Uwydatnij swój **Porsche 911 GT3 RS** dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+- 4121-1: https://a.allegroimg.com/original/11c7a5/6be79bc547e7ac1ef62b781be632
+- 4121-2: https://a.allegroimg.com/original/114eb8/73dc074f4f8e88935ff9ccdd5262
 
 ---
 
-## 42096 — Mocowanie Ścienne do Samochodu Lego Technic Lego 42096 Porsche Rsr
+## 42056 — LEGO Technic Porsche 911 GT3 RS 42056
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42056 |
+| Nazwa angielska | Porsche 911 GT3 RS |
+| Nazwa polska | LEGO Technic Porsche 911 GT3 RS 42056 |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2704 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594028, 5906438320190 |
+
+**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
+
+**Odkryj niezwykły zestaw LEGO – nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
+
+**Co otrzymujesz?**
+
+- **Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
+- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
+- **📸 Rzeczywiste zdjęcia przedstawiają oferowany produkt**
+
+**✨ Dlaczego warto wybrać LEGO?**
+
+- **✅ 100% oryginalny produkt – bez kompromisów**
+- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
+- **✅ Zachwyca jakością wykonania i dbałością o detale**
+- **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**🚚 Wysyłka**
+
+- **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
+- **Szybka realizacja zamówień**
+
+LEGO Technic 42056 - Porsche 911 GT3 RS
+
+ORYGINALNY MODEL LEGO® Technic, który przybliży Ci kultowe Porsche 911 GT3 RS. W środku pudełka znajdziesz specjalną, kolekcjonerską książeczkę, w której opisana została historia LEGO Technic oraz samochodów Porsche GT. Są tam także 4 obręcze z logo RS wykonane według oryginalnego projektu. Zestawy klocków znajdują się w pudełkach, a kolejność ich składania daje pojęcie o procesie montażu prawdziwego samochodu. Model ma oddane z dbałością o detale, pomarańczowe nadwozie, czerwone sprężyny zawieszenia, szczegółowo ukazane reflektory, światła tylne, zaciski hamulcowe oraz obręcze z oponami o niskim profilu. Model oferuje szereg funkcji, w tym otwierane drzwi i maskę z przestrzenią bagażową i walizką, a także otwieraną klapę tylną, która kryje pieczołowicie oddany 6-cylindrowy silnik w układzie bokser z ruchomymi tłokami. Ten model w skali 1:10 zapewnia fascynującą zabawę i satysfakcję z budowania.
+
+**Galeria:**
+
+- 42056-1: https://a.allegroimg.com/original/115b36/848a16a34d7fa70a420cb097cbc0
+- 42056-2: https://a.allegroimg.com/original/118ab2/f340faf1444084ad5af704d7ff13
+
+---
+
+## 42096 — Porsche 911 RSR
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42096 |
+| Nazwa angielska | Porsche 911 RSR |
+| Nazwa polska | Porsche 911 RSR |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1580 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369878, 5906438320152 |
 
 **Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
 
@@ -2116,107 +2859,161 @@ Uwydatnij swój Lego 42096 Porsche RSR
 
 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
 
----
+**Galeria:**
 
-## 42111 — Mocowanie Ścienne do Samochodu Lego Technic Dodge Charger 42111
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320138 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
-
-Dodge Charger 42111
-
-**. To nie tylko praktyczne rozwiązanie do przechowywania, ale również stylowy element, który podkreśli unikalność Twojej kolekcji.**
-
-Główne cechy produktu:
-
-- Idealne Dopasowanie do Dodge Charger 42111: Nasze mocowanie ścienne zostało starannie zaprojektowane z myślą o modelu LEGO TechnicDodge Charger 42111, zapewniając bezpieczne i efektowne wyeksponowanie Twojego ulubionego samochodu.
-- Technologia Druku 3D: Wykorzystanie nowoczesnej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy detal mocowania jest zaplanowany z dbałością o detale, aby spełnić oczekiwania wymagających kolekcjonerów.
-- Materiał PET-G - Wytrzymałość i Elegancja: Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i estetykę. To nie tylko funkcjonalny element, ale również designerski dodatek, który uwydatni unikalność Twojego Dodge Charger 42111.
-- Uniwersalny Montaż: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia bezinwazyjny montaż. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-
-Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj naszą pełną gamę praktycznych rozwiązań do przechowywania Twoich ulubionych zestawów LEGO.
-
-Uwydatnij swój Dodge Charger 42111 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+- 42096-1: https://a.allegroimg.com/original/114c66/a074bb164e739c742eede0cd9cac
+- 42096-2: https://a.allegroimg.com/original/057b96/af2996a04478a331cdc6a6155eba
 
 ---
 
-## 42123 — Mocowanie Ścienne do Modelu Lego Technic 42123 McLaren Senna Gtr
+## 42123 — McLaren Senna GTR
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42123 |
+| Nazwa angielska | McLaren Senna GTR |
+| Nazwa polska | McLaren Senna GTR |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 830 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702016913330, 5906438320640 |
 
-**LEGO Technic 42123 McLaren Senna GTR**
+LEGO Technic McLaren Senna GTR 42123
+ 
+Najszybszy. Najmocniejszy. Zdumiewająco piękny. McLaren Senna GTR™ to prawdziwa ikona toru wyścigowego. Teraz i Ty możesz zbudować własną, realistyczną replikę tego niesamowitego auta w wersji LEGO® Technic. Poznaj jego autentyczne funkcje i piękne detale konstrukcyjne, a potem umieść swój model na półce, by przyciągnąć uwagę wszystkich gości.
 
-**Mocowanie Ścienne do Modelu LEGO Technic 42123 McLaren Senna GTR**
+Zbuduj prawdziwą ikonę motoryzacji i pochwal się nią
+ 
+Pozwól fanom wyścigówek pielęgnować ich pasję podczas budowania niezwykle szczegółowego i satysfakcjonującego modelu auta McLaren Senna GTR™.
+ 
+Szukasz najlepszego prezentu dla dziecka lub nastolatka, którego pasją są supersamochody? Zestaw LEGO® Technic 42123 McLaren Senna GTR™ będzie strzałem w dziesiątkę. Dorosłym fanom McLarena też się spodoba! Model ma wiele realistycznych funkcji inspirowanych jego prawdziwym odpowiednikiem i na pewno sprawi miłośnikom wyścigów wiele radości.
 
-Zapraszamy do zakupu unikalnego mocowania ściennego dedykowanego modelowi **LEGO Technic 42123 McLaren Senna GTR**. To nie tylko praktyczny sposób na przechowywanie, ale także stylowy akcent, który podkreśli wyjątkowość Twojej kolekcji LEGO.
+Realistyczne szczegóły i zaawansowane funkcje
+ 
+McLaren Senna GTR to samochód jedyny w swoim rodzaju, a w wersji LEGO Technic jest równie imponujący co w rzeczywistości. Spójrz tylko na jego silnik V8 z ruchomymi tłokami, kultowe otwierane drzwi oraz realistyczne kolory i elementy graficzne, dzięki którym model wygląda jak prawdziwy. Steruj autem za pomocą pokrętła, a potem postaw model na półce, gdzie na pewno przyciągnie uwagę wielu osób.
+ 
+Otwórz przed dziećmi świat inżynierii
+ 
+Zestawy LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii.
 
-**Główne cechy produktu:**
+ 
+- LEGO® Technic 42123 McLaren Senna GTR™ to zdumiewający model dla fanów supersamochodów, wyposażony w mnóstwo wiernie odwzorowanych szczegółów inspirowanych prawdziwym autem. 
+- Poznaj autentyczne funkcje tego modelu, takie jak szczegółowy silnik V8 z ruchomymi tłokami oraz drzwi, które otwierają się w charakterystycznym dla McLarena stylu. 
+- Steruj zabawkowym modelem McLarena za pomocą pokrętła umieszczonego na dachu. 
+- Szukasz najlepszych pomysłów na prezent dla fana sportów motorowych lub miłośnika supersamochodów? Ten zestaw to doskonały wybór dla dziesięciolatków i starszych dzieci, które chciałyby mieć w swojej kolekcji własny model auta wyścigowego McLarena. 
+- Ten niesamowity model auta wyścigowego świetnie prezentuje się na półce i z pewnością rozpali wyobraźnię każdego dziecka oraz dorosłego, którego pasją są supersamochody, sporty motorowe lub samochody McLarena. 
 
-✅ **Idealne Dopasowanie do 42123 McLaren Senna GTR**
+ 
+- Model ma ok. 9 cm wysokości, 32 cm długości i 12 cm szerokości. 
+- Ten kolekcjonerski, zabawkowy model auta McLarena przyciąga wzrok swoimi kolorami i ozdobami, zupełnie jak jego prawdziwy odpowiednik. 
+- W świecie zestawów LEGO® Technic zaawansowane zabawki czekają na fanów budowania z LEGO, którzy są gotowi na kolejne wyzwania. 
+- Elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. 
+- Elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. 
 
-Nasze mocowanie zostało precyzyjnie zaprojektowane, aby pasować idealnie do modelu LEGO Technic 42123 McLaren Senna GTR. Dzięki temu możesz bezpiecznie i efektownie wyeksponować swój ulubiony samochód.
+**W skład produktu wchodzą:**
 
-✅ **Technologia Druku 3D**
+- oryginalne klocki LEGO
+- instrukcja zestawu
+- oryginalne opakowanie zestawu
 
-Mocowanie zostało wykonane w nowoczesnej technologii druku 3D, co zapewnia wysoką dokładność oraz trwałość. Każdy szczegół został zaplanowany z myślą o najbardziej wymagających kolekcjonerach LEGO.
+**Galeria:**
 
-✅ **Materiał PET-G – Wytrzymałość i Elegancja**
-
-Do produkcji mocowania użyliśmy trwałego i estetycznego materiału PET-G, który gwarantuje solidność, a jednocześnie świetnie się prezentuje jako designerski element w Twoim wnętrzu.
-
-✅ **Uniwersalny Montaż**
-
-Mocowanie można łatwo zamocować na ścianie za pomocą mocnej taśmy dwustronnej typu TESA (brak w zestawie) lub przykręcić za pomocą śrub (brak śrub w zestawie). Dostosuj sposób montażu do swoich potrzeb!
-
-**Oferta innych mocowań na innych aukcjach**
-
-W naszej ofercie znajdziesz również mocowania dedykowane innym modelom LEGO Technic, takim jak 42083 Bugatti Chiron czy inne kultowe zestawy. Sprawdź nasze pozostałe aukcje i znajdź idealne rozwiązanie dla swojej kolekcji!
-
-**Podkreśl wyjątkowość swojego LEGO Technic 42123 McLaren Senna GTR z naszym mocowaniem ściennym. Kup już dziś i ciesz się funkcjonalnością oraz elegancją, która wzbogaci Twoją kolekcję LEGO!**
-
----
-
-## 42127 — Mocowanie Ścienne do modelu Lego Technic 42127 Batmobile na ściane
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320169 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego stworzonego specjalnie dla modelu LEGO Technic 42127 THE BATMAN - BATMOBILE. To praktyczne i stylowe rozwiązanie, które pozwoli Ci wyeksponować i zabezpieczyć Twój Batmobil z klocków LEGO w imponujący sposób.**
-
-Główne cechy produktu:
-
-- **Idealne Dopasowanie do LEGO Technic 42127 BATMOBILE**: Nasze mocowanie ścienne zostało precyzyjnie zaprojektowane, aby idealnie pasować do modelu LEGO Technic 42127 THE BATMAN - BATMOBILE. Zapewnia ono zarówno estetyczne wyeksponowanie, jak i bezpieczne przechowywanie Twojego imponującego pojazdu.
-- **Technologia Druku 3D:** Zastosowanie zaawansowanej technologii druku 3D gwarantuje precyzję wykonania i trwałość. Każdy detal mocowania został starannie opracowany, aby spełnić oczekiwania nawet najbardziej wymagających kolekcjonerów.
-- **Materiał PET-G - Solidność i Elegancja:** Mocowanie zostało wykonane z wytrzymałego materiału PET-G, łącząc w sobie solidność i elegancję. To nie tylko funkcjonalny element, ale także designerski dodatek, który podkreśli unikalność Twojego Batmobilu.
-- **Uniwersalny Montaż:** Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia bezinwazyjny montaż. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-- **Oferta Innych Mocowań na Innych Aukcjach: **Zauważ, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj pełną gamę praktycznych rozwiązań do przechowywania swoich ulubionych zestawów LEGO.
-
-Uwydatnij swój LEGO Technic 42127 THE BATMAN - BATMOBILE dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
-
----
-
-## 42141 — Mocowanie Ścienne do Samochodu Lego Technic 42141 McLaren Formula 1
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320183 · in stock*
-
-**Zapraszamy do zakupu wyjątkowego mocowania ściennego stworzonego specjalnie dla modelu LEGO Technic 42141 McLaren Formula 1. To praktyczne i eleganckie rozwiązanie, które pozwoli Ci wyeksponować i zabezpieczyć Twój ulubiony samochód z klocków LEGO.**
-
-Główne cechy produktu:
-
-- **Idealne Dopasowanie do McLaren Formula 1**: Nasze mocowanie ścienne zostało starannie zaprojektowane, aby idealnie współgrać z modelem LEGO Technic 42141 McLaren Formula 1. To nie tylko funkcjonalne, ale także stylowe rozwiązanie do prezentacji Twojej kolekcji.
-- **Technologia Druku 3D: **Wykorzystanie zaawansowanej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy element mocowania został starannie opracowany, aby spełnić oczekiwania nawet najbardziej wymagających kolekcjonerów.
-- **Materiał PET-G - Solidność i Elegancja:** Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i elegancję. To nie tylko praktyczny element, ale również designerski dodatek, który uwydatni unikalność Twojego McLaren Formula 1.
-- **Uniwersalny Montaż**: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia łatwy montaż bez konieczności wiercenia otworów. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
-
-Oferta Innych Mocowań na Innych Aukcjach: Zauważ, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj pełną gamę praktycznych rozwiązań do przechowywania swoich ulubionych zestawów LEGO.
-
-Uwydatnij swój McLaren Formula 1 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+- 42123-1: https://a.allegroimg.com/original/11598e/2b0978494fe0929276c18f86a88d
+- 42123-2: https://a.allegroimg.com/original/0538d4/db4d32eb4cd8a63f710c4cdb890f
 
 ---
 
-## 42156 — Mocowanie Ścienne do Auta Lego Technic 42156 Peugeot 9X8 Le Mans Hybrid
+## 42127 — Batmobil
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320084 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42127 |
+| Nazwa angielska | The Batman - Batmobile |
+| Nazwa polska | Batmobil |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912630, 5906438320169 |
+
+LEGO® Technic 42127 BATMAN — BATMOBIL
+
+Zestaw nowy
+
+1360 elementów
+
+Wiek 10+
+
+Fani historii o superbohaterach będą zachwyceni budową kultowego BATMOBILU™ z części LEGO® Technic. **Model inspirowany jest najnowszą wersją BATMOBILU z filmu „BATMAN” z 2022 roku** i zawiera bardzo dużo realistycznych szczegółów oraz emocjonujących funkcji.
+
+Rozświetl noc
+
+**Model zawiera dwa świecące klocki: czerwony i żółty.** Czerwony klocek podświetla przezroczysty silnik z tyłu pojazdu, a żółty maskownicę z przodu. Inne fajne elementy modelu to układ kierowniczy na przednich kołach, mechanizm różnicowy na tylnych, obracający się płomień oraz otwierane drzwi i podnoszona maska. Dzieciom spodoba się używanie wszystkich funkcji modelu, a po skończonej zabawie **samochód ozdobi pokój młodego miłośnika superbohaterów.**
+
+Świetne wprowadzenie do świata inżynierii
+
+Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla budowniczych w każdym wieku stanowią przystępne wprowadzenie do świata inżynierii.
+
+Wciągający model pełen fajnych funkcji
+
+Model z 1360 elementów ma wiele ciekawostek, w tym układ kierowniczy, ruchome tłoki, dwa świecące klocki i wirujący płomień.
+
+**Działające światła**
+
+W zestawie są dwa świecące klocki, które ożywią BATMOBIL™.
+
+**Przezroczysty silnik**
+
+8-cylindrowy silnik ma ruchome tłoki i wirujący płomień.
+
+**Realistyczny ruch kół**
+
+Model ma układ kierowniczy, a z tyłu mechanizm różnicowy.
+
+- **Zbuduj BATMOBIL™** — z zestawem LEGO® Technic BATMAN — BATMOBIL™ 42127 dla dzieci i dorosłych odtworzysz wszystkie szczegóły kultowego pojazdu superbohatera
+
+- Inspirowany filmem „BATMAN” — ten realistycznie wyglądający model LEGO® Technic jest repliką BATMOBILU™ z filmu z 2022 roku
+
+- Rozświetlone auto —** w komplecie są dwa świecące klocki**, które ożywiają BATMOBIL™. Czerwony klocek podświetla przezroczysty silnik, a żółty klocek maskownicę z przodu
+
+- **Mnóstwo funkcji** — w tym układ kierowniczy na przednie koła, mechanizm różnicowy na tylne, ruchome tłoki, obracający się płomień oraz otwierane drzwi i podnoszona maska
+
+- Dla dziesięciolatków i starszych dzieci — dzieciom i dorosłym, którzy uwielbiają pojazdy superbohaterów, spodoba się budowanie samochodu ich ulubionego bohatera. Model będzie więc idealnym prezentem dla fanów Batmana™
+
+- Świetnie wygląda na półce — sprawdź wszystkie funkcje tej atrakcyjnej zabawki, a potem ustaw ją na widoku, by podziwiać jej realistyczny wygląd
+
+- Doskonałe proporcje — model ma **ok. 11 cm wysokości (razem z kierownicą i płomieniem na wierzchu), 45 cm długości (razem z płomieniem z tyłu) oraz 17 cm szerokości**
+
+- Satysfakcjonujące budowanie — w świecie zestawów LEGO® Technic zaawansowane modele do złożenia czekają na fanów budowania z LEGO, którzy są gotowi na trudniejsze wyzwania
+
+**Galeria:**
+
+- 42127-1: https://a.allegroimg.com/original/113296/8d1887834ccb81d63ce2c96f0045
+- 42127-2: https://a.allegroimg.com/original/111c02/3006b841451f869e2e37f59a3f1c
+
+---
+
+## 42156 — PEUGEOT 9X8 24H Le Mans Hybrid Hypercar
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42156 |
+| Nazwa angielska | Peugeot 9X8 Le Mans Hybrid Hypercar |
+| Nazwa polska | PEUGEOT 9X8 24H Le Mans Hybrid Hypercar |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1775 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424767, 5702017492841, 5906438320084 |
 
 **Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
 
@@ -2235,95 +3032,28 @@ Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy równ
 
 Uwydatnij swój LEGO Technic 42156 PEUGEOT 9X8 24H Le Mans Hybrid dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
 
----
+**Galeria:**
 
-## 42172 — Zestaw oświetlenia do Lego Technic McLaren P1 42172 (bez Lego)
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 369.00 zł · EAN: 05907213510058 · in stock*
-
-Zestaw oświetlenia do LEGO Technic McLaren P1 42172
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 42156-1: https://a.allegroimg.com/original/1106c6/d9dc8e2445d49a718f5848dc1a7b
+- 42156-2: https://a.allegroimg.com/original/110640/54b7396e4db5bd5658c3df901e6a
+- 42156-3: https://a.allegroimg.com/original/118b7a/4fab6d934da3b73a032dae3fbaea
 
 ---
 
-## 42202 — Zestaw oświetlenia do Lego Technic Ducati Panigale V4 S 42202 (bez Lego)
+## 43222 — Zamek Disneya
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 249.00 zł · EAN: 05907213510546 · in stock*
-
-Zestaw oświetlenia do LEGO Technic Motocykl Ducati Panigale V4 S 42202
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 43222 — Lego Disney Zamek Disneya 43222
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702017866949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43222 |
+| Nazwa angielska | Disney Castle |
+| Nazwa polska | Zamek Disneya |
+| Seria | Disney |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2023 |
+| Liczba elementów | 4837 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 80 cm × szer. 59 cm × gł. 33 cm |
+| EAN | 5702017424903, 5702017866949 |
 
 LEGO Disney Zamek Disneya 43222
 
@@ -2354,22 +3084,70 @@ LEGO Disney 43222 Zamek Disneya czeka na Ciebie. Nie przegap tej okazji, aby prz
 
 Zestaw klocków LEGO Disney 43222 Zamek Disneya został pokazany w 2023 roku i składa się z 4837 klocków LEGO®. W zestawie klocków znajdziesz 8 minifigurek. Zestaw przeznaczony jest dla dorosłych od 18 roku życia. Numery EAN klocków LEGO® 43222 to: **5702017866949, 5702017424903**. Kody UPC zestawu klocków LEGO® Zamek Disneya to: **673419409858, 673419378529**.
 
----
+**Galeria:**
 
-## 43247 — Zestaw oświetlenia do Klocków Elf Bez Klocków
-
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 45.00 zł · EAN: 05907213510676 · in stock*
-
-- Łatwa instalacja】 Specjalnie zaprojektowany do klocków Dobby, skrzata domowego. Wszystkie diody LED mają jednolity wzór światła, a złącza kablowe dobrze do siebie pasują instrukcja w języku angielskim
-- 【Ciesz się kreatywną zabawą DIY】 Nasz zestaw świateł LED do zestawu elfa domu Dobby zapewnia jasne oświetlenie, dzięki czemu możesz odpocząć od intensywnego życia i odzyskać piękną noc. Zestaw oświetleniowy jest idealny dla miłośników klocków którzy chcą osobiście ulepszyć swoje bloki i uczynić swoje modele bardziej zaawansowanymi, jednocześnie chcąc cieszyć się zabawą z majsterkowania.
-- 【Wiele opcji zasilania】 W zakres dostawy wchodzi kabel USB i komora baterii. Diody LED kompatybilne z klockami 76421 mogą być zasilane przez powerbank, ładowarkę, gniazdo USB, laptopa lub inne urządzenie z portem USB. Można go również używać z baterią (bateria nie wchodzi w zakres dostawy).
-- 【Bezpieczeństwo dzięki doświadczeniu】 Nasz zestaw oświetlenia dekoracyjnego kompatybilny z klockami Dobby, domowym elfem, składa się z wysokiej jakości przewodów miedzianych i jest wyposażony w ochronę przed wysoką temperaturą i spalaniem, aby przedłużyć żywotność dla Ciebie. Niskie napięcie 5 V zapewnia bezpieczniejsze wrażenia.
+- 43222-1: https://a.allegroimg.com/original/11587d/4e8f50604e9c84be2157913cbd5b
+- 43222-2: https://a.allegroimg.com/original/11394f/a6996b3c4802b1f4b2a3d7726d92
 
 ---
 
-## 4334080 — Lego Pojemnik Głowa Chłopiec 3X Zestaw L- S Xs
+## 43247 — Disney 43247 Młody Simba z Króla Lwa
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 164.00 zł · EAN: 05711938249878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43247 |
+| Nazwa angielska | Young Simba the Lion King |
+| Nazwa polska | Disney 43247 Młody Simba z Króla Lwa |
+| Seria | Disney |
+| Grupa wiekowa | 13 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591940, 5907213510676, 673419392204 |
+
+Pokaż swoją pasję do Króla Lwa dzięki figurce Simby LEGO® ǀ Disney z obracającą się głową! Poczuj twórczą radość, budując model młodego Króla Lwa z okazji 30. rocznicy powstania filmu. Spędź czas z młodszym członkiem rodziny, budując swój model, podczas gdy maluch będzie budować model lwiątka Simby. Gdy skończycie tworzyć, możecie z dumą zaprezentować swoje modele na półce.
+
+Zestaw konstrukcyjny LEGO® dla dorosłych z figurką Simby
+
+Zainspiruj fanów kreatywnym zestawem LEGO® ǀ Disney dla dorosłych z figurką Simby jako młodego Króla Lwa, którą można ustawić na półce
+
+Podziel się pasją do kultowych filmów dzięki zestawowi **LEGO® ǀ Disney Król Lew — młody Simba (43247)**. Ten zestaw konstrukcyjny dla dorosłych został stworzony z okazji 30. rocznicy powstania Króla Lwa i zawiera figurkę Simby z ruchomą głową, dziękiczemu model można ustawiać w różnych pozach. Ten zestaw dla dorosłych to ciekawy, nostalgiczny prezent, który wykorzystuje zaawansowane techniki budowania i wywołuje poczucie twórczej radości, gdy dodasz ostatni element i ustawisz Simbę na półce. Ten z estaw konstrukcyjny LEGO premium dla dorosłych stanowi wyjątkową ozdobę lub tematyczny pomysł na prezent dla dorosłych fanów Króla Lwa. Można go dodać do innych zestawów konstrukcyjnych LEGO® Disney z tej serii lub połączyć z zestawem towarzyszącym Król Lew — lwiątko Simba (wszystkie zestawy sprzedawane osobno). Możesz też cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów i zapisywanie zestawów w jednym miejscu.
+
+• Zestaw konstrukcyjny LEGO® ǀ Disney dla dorosłych — podaruj sobie lub innemu dorosłemu fanowi Króla Lwa figurkę młodego Simby, która rozbudzi nostalgię i twórczą dumę
+
+• Świętuj rocznicę filmu — ten zestaw konstrukcyjny dla dorosłych zawiera figurkę Simby w klasycznej pozie z ruchomą głową. Model powstał z okazji 30. rocznicy filmu Król Lew
+
+• Kreatywne budowanie — tę figurkę Simby LEGO® ǀ Disney z ruchomą głową można zbudować razem z zestawem towarzyszącym Król Lew — lwiątko Simba (sprzedawanym oddzielnie) dla młodszych konstruktorów
+
+• Poczuj radość z budowania — ten kolekcjonerski zestaw konstrukcyjny LEGO® zapewni dorosłym fanom relaksującą rozrywkę dzięki ambitnemu modelowi, który stanowi ciekawą ozdobę
+
+• Disnejowski prezent dla dorosłych — figurka Simby z ruchomą głową to nostalgiczny prezent dla miłośników filmu lub gratka dla Ciebie lub innego dorosłego fana DisneyaZrelaksuj się — ciesz się każdym etapem budowania dzięki aplikacji LEGO® Builder, która umożliwia śledzenie postępów, powiększanie i obracanie modelu w 3D oraz zapisywanie wszystkich zestawów w jednym miejscu
+
+• Wymiary — ten 1445-elementowy zestaw LEGO® dla dorosłych zawiera figurkę lwa do zbudowania, która ma 29 cm wysokości
+
+**Galeria:**
+
+- 43247-1: https://a.allegroimg.com/original/116a22/a435c76946869e4cca0e7dd9c460
+- 43247-2: https://a.allegroimg.com/original/05cd7b/4cc673a84dada4b8fae1530038d7
+- 43247-3: https://a.allegroimg.com/original/11d18e/756caa30486fbaf40409a44d8be4
+
+---
+
+## 4334080 — ?
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4334080 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938249878 |
 
 **LEGO -  POJEMNIK GŁOWA CHŁOPIEC**
  
@@ -2403,11 +3181,26 @@ Zestaw klocków LEGO Disney 43222 Zamek Disneya został pokazany w 2023 roku i
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW** 
 - **Wyprodukowano w Unii Europejskiej**
 
+**Galeria:**
+
+- 4334080-1: https://a.allegroimg.com/original/117eb6/90a1dd794b1a8b1436c4012d103b
+
 ---
 
-## 442288 — Collector Case Etui Pudełko Sorter Brix Box do klocków Lego
+## 442288 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 59.99 zł · EAN: 05906214422889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 442288 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5906214422889 |
 
 Brix Box – pudełko na klocki
 
@@ -2421,11 +3214,26 @@ Brix Box to idealne rozwiązanie zarówno dla kolekcjonerów, jak i dla każdego
 
 klocki przedstawione na zdjęciach nie są przedmiotem sprzedaży , służą jedynie do zaprezentowania funkcjonalności pudełka.
 
+**Galeria:**
+
+- 442288-1: https://a.allegroimg.com/original/115d3b/beceb00a46c9a38957396ce0d977
+
 ---
 
-## 455156 — Lego Pudełko do przechowywania klocków 2szt (żółty i pomarańczowy)
+## 455156 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 110.99 zł · EAN: 05711938035297 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 455156 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938035297 |
 
 **LEGO Pudełko do przechowywania w kształcie klocka LEGO, 2 sztuki**
  
@@ -2453,11 +3261,27 @@ klocki przedstawione na zdjęciach nie są przedmiotem sprzedaży , służą jed
  
 - ok. 987 g
 
+**Galeria:**
+
+- 455156-1: https://a.allegroimg.com/original/11d658/4ebb2b35416595eec8d57ff8a223
+
 ---
 
-## 4758 — Pojemnik na długopisy klocki Lego Storage Brick czerwony do przechowywania
+## 4758 — Hogwarts Express
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 39.89 zł · EAN: 00887988000013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4758 |
+| Nazwa angielska | Hogwarts Express |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988000013 |
 
 **LEGO - POJEMNIK PUDEŁKO**
  
@@ -2488,11 +3312,26 @@ klocki przedstawione na zdjęciach nie są przedmiotem sprzedaży , służą jed
 - **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW.** 
 - **Wyprodukowano w Unii Europejskiej**
 
+**Galeria:**
+
+- 4758-1: https://a.allegroimg.com/original/11d508/f04a1a8a439899c0ee8fb05573a1
+
 ---
 
-## 5005769 — Lego Przezroczysta czerwona przenośna walizka do sortowania 5005769 Nhg
+## 5005769 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 21.79 zł · EAN: 05711938031206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005769 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938031206 |
 
 LEGO Przezroczysta czerwona przenośna walizka do sortowania 5005769 (zabawka)
 
@@ -2505,11 +3344,26 @@ Zabawka "LEGO Przezroczysta czerwona przenośna walizka do sortowania 5005769" -
 
 Małe pudełko do sortowania klocków LEGO(R) w kolorze czerwonym.
 
+**Galeria:**
+
+- 5005769-1: https://a.allegroimg.com/original/25f597/ebbe1bb544df9698478f8c35be58
+
 ---
 
-## 5006157 — Lego Gablota Pojemnik Na Minifigurki Niebieski
+## 5006157 — Play and Display Case (Blue)
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 156.38 zł · EAN: 05711938030766 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006157 |
+| Nazwa angielska | Play and Display Case (Blue) |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711938030766 |
 
 Przedmiotem sprzedaży jest:
 
@@ -2533,11 +3387,26 @@ Nie zawiera minifigurek i klocków LEGO.
 
 Dzięki niebieskiej gablotce na minifigurki LEGO, Twoje dziecko może umieścić ulubionych bohaterów na widoku. To proste, wystarczy postawić figurkę na płytce za przezroczystą szybką. Gablotki można układać jak klocki lub przymocować je do ściany. To doskonałe narzędzie do zabawy, porządków i dekoracji dziecięcego pokoju. Jest idealna do uporządkowania drobnych klocków LEGO oraz udekorowania dziecięcego pokoju. No i najważniejsze, nie trzeba tak często ścierać kurzu.
 
+**Galeria:**
+
+- 5006157-1: https://a.allegroimg.com/original/118ac7/c1dc968843178300fb716e057224
+
 ---
 
-## 5006473 — Lego opakowanie na monety kolekcjonerskie 5006473
+## 5006473 — Collectable Coin Display Case
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.50 zł · EAN: 05060373573780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006473 |
+| Nazwa angielska | Collectable Coin Display Case |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373573780 |
 
 LEGO 5006473 OPAKOWANIE NA MONETY KOLEKCJONERSKIE
  
@@ -2547,11 +3416,26 @@ LEGO 5006473 OPAKOWANIE NA MONETY KOLEKCJONERSKIE
  
 **ZERO FOLII!**
 
+**Galeria:**
+
+- 5006473-1: https://a.allegroimg.com/original/11cb1a/235b67f644f1ab5e86cc67658b60
+
 ---
 
-## 5006876 — Lego 5006143 Pojemnik Z Szufladą Klocek 2 X 4
+## 5006876 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.99 zł · EAN: 00887988013006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006876 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887988013006 |
 
 ORYGINALNY POJEMNIK MARKI
 
@@ -2569,11 +3453,26 @@ PRODUKT   NOWY, ORYGINALNIE ZAPAKOWANY
 
 Ta prostokątna szuflada w kształcie klocka LEGO® o wymiarach 2x4 idealnie pasuje do biurek lub półek, zapewniając wygodne i łatwo dostępne miejsce do przechowywania różnych rzeczy. Idealnie nadaje się do biur, pokojów dziecięcych, łazienek i wszędzie tam, gdzie trzeba zachować porządek i organizację. 8 dużych wypustek na górnej powierzchni oznacza, że ​​kolorowe, dostosowane systemy przechowywania można budować i dostosowywać do zmieniających się potrzeb. Wszechstronny i funkcjonalny – Ten wytrzymały, składany, łatwy do czyszczenia plastikowy klocek z wysuwaną szufladą może służyć do przechowywania szerokiej gamy przedmiotów. Składany jak klocki LEGO® – Dzięki 8 dużym wypustkom LEGO na górze każdą szufladę biurka można łatwo połączyć z innymi, tworząc składany system przechowywania. Wygodny szeroki rozmiar – Mierząc ponad 4 cale (11 cm) wysokości, 12 cali (31 cm) szerokości i 6 cali (15 cm) głębokości, każda szuflada biurka jest duża do przechowywania i duża do stylu.
 
+**Galeria:**
+
+- 5006876-1: https://a.allegroimg.com/original/11f6d2/55fcc6c74655b108eabe5e57548a
+
 ---
 
-## 5007936 — Torba na ramię Lego z nadrukiem minifigurki 5007936 25 x 20 cm
+## 5007936 — Cross-Body Bag
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 115.31 zł · EAN: 05060373575296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007936 |
+| Nazwa angielska | Cross-Body Bag |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373575296 |
 
 Czarna torba na ramię LEGO VIP z nadrukiem minifigurki 5007936 25 x 20 cm
 
@@ -2589,11 +3488,26 @@ Torba wykonana w 100% z poliestru o wymiarach 25 cm x 20 cm, z paskiem regulowan
 
 Grupa wiekowa tego produktu to 4+
 
+**Galeria:**
+
+- 5007936-1: https://a.allegroimg.com/original/11e69b/5239693e47abbffb41570cbc2f8a
+
 ---
 
-## 6315786 — Zestaw Lego Harry Potter Mandragora 76433 Klocki 2024 Torba Lego
+## 6315786 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 309.99 zł · EAN: 50702016818376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6315786 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 50702016818376, 5702016818376 |
 
 ⭐ZESTAW LEGO HARRY POTTER MANDRAGORA 76433 KLOCKI 2024 + GRATIS TORBA LEGO
 
@@ -2683,11 +3597,27 @@ Grupa wiekowa tego produktu to 4+
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 6315786-1: https://a.allegroimg.com/original/11c627/f50c1da6421bbb8d157cb0f32d5f
+- 6315786-2: https://a.allegroimg.com/original/11e182/1df5dd254caa864ecbd83db8a7c2
+
 ---
 
-## 6315792 — Zestaw Lego Harry Potter Latający Ford Anglia Samochód 76424
+## 6315792 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.99 zł · EAN: 50702016818390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6315792 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 50702016818390 |
 
 ⭐LEGO HARRY POTTER - LATAJĄCY FORD ANGLIA 76424
 
@@ -2775,11 +3705,26 @@ Grupa wiekowa tego produktu to 4+
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 6315792-1: https://a.allegroimg.com/original/1133d4/991afc3b4f54aba2cd336457bfc4
+
 ---
 
-## 6315793 — Zestaw Lego Harry Potter Latający Ford Anglia Samochód 76424
+## 6315793 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.99 zł · EAN: 05903212313188 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6315793 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5903212313188 |
 
 ⭐LEGO HARRY POTTER - LATAJĄCY FORD ANGLIA 76424 + GRATIS TORBA
 
@@ -2879,11 +3824,26 @@ Grupa wiekowa tego produktu to 4+
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 6315793-1: https://a.allegroimg.com/original/11c85b/2485b0ca44509474d37c7f652a2b
+
 ---
 
-## 6535732 — Lego Inne 6535732 5008945 Skrzynia skarbów
+## 6535732 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 99.97 zł · EAN: 05702017865041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6535732 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017865041 |
 
 zestaw klocków LEGO 5008945 Skrzynia skarbów.
  
@@ -2904,11 +3864,26 @@ O produkcie:
  
 LEGO 6535732 SKRZYNIA SKARBÓW to doskonały wybór dla każdego fana klocków LEGO. Zestaw składa się z 154 elementów, a kolory skrzyni to odcienie brązu i beżu. Produkt przeznaczony jest dla dzieci powyżej 10 roku życia, a minimalny wiek dziecka wynosi 10 lat. Skrzynia skarbów LEGO 6535732 pozwala na przechowywanie drobiazgów i skarbów w stylowy sposób i jest idealnym dodatkiem do każdego pokoju. LEGO to znana marka na całym świecie, gwarantująca wysoką jakość produktów, co sprawia, że skrzynia skarbów LEGO 6535732 to doskonały wybór dla każdego, kto lubi tworzyć i kolekcjonować modele LEGO.
 
+**Galeria:**
+
+- 6535732-1: https://a.allegroimg.com/original/11c744/df762d4b4d1f91dab16fe7d7df87
+
 ---
 
-## 661833 — Gablotka Gablota Ekspozycyjna Przezroczysta Pudełko 3 stopnie figurki Szara
+## 661833 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 54.90 zł · EAN: 06932698755105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 661833 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 6932698755105 |
 
 Informacje o produkcie:
 
@@ -2946,11 +3921,26 @@ Zapraszamy do zapoznania się z pełnym asortymentem sklepu. W ofercie posiadamy
 
 Gablotka nie jest oryginalnym produktem LEGO, jest kompatybilna z klockami różnych marek, w tym LEGO
 
+**Galeria:**
+
+- 661833-1: https://a.allegroimg.com/original/114050/241b51c74d4ea01cbd71af65941a
+
 ---
 
-## 76348 — Lego(r) Heroes 76348 Epicka Bitwa Avengers
+## 76348 — Epicka bitwa: Avengers: Doomsday
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 1075.53 zł · EAN: 05702018149508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76348 |
+| Nazwa angielska | Epic Battle: Avengers: Doomsday |
+| Nazwa polska | Epicka bitwa: Avengers: Doomsday |
+| Seria | Marvel |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 846 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018149508 |
 
 LEGO(R) SUPER HEROES 76348 Epicka bitwa Avengers
 
@@ -2989,11 +3979,27 @@ Opakowanie zbiorcze zawiera 3 sztuki
 
 [Stamp,5702018149508,7/29/2026 3:07:01 AM]
 
+**Galeria:**
+
+- 76348-1: https://a.allegroimg.com/original/111c0a/7349b1564fd2b77cd4939256bf4a
+
 ---
 
-## 76419 — Akrylowa Gablota 28x20x12 Przezroczysta Chroni Przed Kurzem Lego Modele
+## 76419 — Zamek Hogwart i błonia
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 159.90 zł · EAN: 00786194365742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76419 |
+| Nazwa angielska | Hogwarts Castle and Grounds |
+| Nazwa polska | Zamek Hogwart i błonia |
+| Seria | Harry Potter |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2660 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017413228, 5905413616990, 757911405331, 786194365742 |
 
 ✨ AKRYLOWA GABLOTA 28x20x12 PRZEZROCZYSTA CHRONI PRZED KURZEM
 
@@ -3053,11 +4059,29 @@ Elementy gabloty są precyzyjnie wykonane i łączone za pomocą dołączonych �
 - **Montaż**: samodzielny
 - **Model LEGO w zestawie**: **NIE**
 
+**Galeria:**
+
+- 76419-1: https://a.allegroimg.com/original/1174dc/58a9b5194f5b95caf037db2b95c0
+- 76419-2: https://a.allegroimg.com/original/111e05/8a2b090e4779bc837712381f806d
+- 76419-3: https://a.allegroimg.com/original/117591/bc75b4a7492eb5de10edb85f9c10
+- 76419-4: https://a.allegroimg.com/original/05ec72/0149c2db4007b7774e54398505a3
+
 ---
 
-## 771315 — Gablota na figurki przeźroczyste pudełko na minifigurki klocki zabawki etui
+## 771315 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 14.90 zł · EAN: 00722725524080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 771315 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 m + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 722725524080 |
 
 ! FIGURKI NIE WCHODZĄ W SKŁAD OFERTY, SPRZEDAWANA JEST SAMA GABLOTA !
 
@@ -3079,11 +4103,26 @@ Wymiary gablotki:
 - Wysokość: 69mm
 - Długość: 48mm
 
+**Galeria:**
+
+- 771315-1: https://a.allegroimg.com/original/1155ab/6820cbb04e80b87819ee7800ca8c
+
 ---
 
-## 850775 — Lego 850775 Legends Of Chima Pojemnik Speedorz
+## 850775 — Legends of Chima Speedorz Storage Box
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419198875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850775 |
+| Nazwa angielska | Legends of Chima Speedorz Storage Box |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198875 |
 
 **Zapraszamy do odkrycia niezwykłej skrzyneczki LEGO – nowego, w pełni oryginalnego produktu zapakowanego w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
 
@@ -3105,11 +4144,26 @@ Wymiary gablotki:
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 850775-1: https://a.allegroimg.com/original/110b1e/39f485a64d928f648de88a585013
+
 ---
 
-## 853381 — Lego 853381 Fioletowy Pojemnik W Kształcie Klocka Lego Z Wypustkami 2x2
+## 853381 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 39.45 zł · EAN: 00673419177016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853381 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419177016 |
 
 LEGO 853381 - FIOLETOWY POJEMNIK W KSZTAŁCIE KLOCKA LEGO Z WYPUSTKAMI 2x2
 
@@ -3134,11 +4188,26 @@ Klocki do przechowywania zabawek LEGO® są niezwykle pojemne – możesz w nich
 - Pojemnik ma 4 prawdziwe wypustki LEGO®, które umożliwiają łączenie go z innymi klockami do przechowywania z wypustkami 2x2.
 - Wysokość: 9 cm, szerokość: 12,5 cm, długość: 12,5 cm.
 
+**Galeria:**
+
+- 853381-1: https://a.allegroimg.com/original/11a234/282bc73f4a70a7e0244a5effe081
+
 ---
 
-## 853382 — Lego 853382 Turkusowy Pojemnik W Kształcie Klocka Lego Z Wypustkami 2x2
+## 853382 — ?
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 39.45 zł · EAN: 00673419177023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853382 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419177023 |
 
 LEGO 853382 - TURKUSOWY POJEMNIK W KSZTAŁCIE KLOCKA LEGO Z WYPUSTKAMI 2x2
 
@@ -3163,11 +4232,26 @@ Klocki do przechowywania zabawek LEGO® są niezwykle pojemne – możesz w nich
 - Pojemnik ma 4 prawdziwe wypustki LEGO®, które umożliwiają łączenie go z innymi klockami do przechowywania z wypustkami 2x2.
 - Wysokość: 9 cm, szerokość: 12,5 cm, długość: 12,5 cm.
 
+**Galeria:**
+
+- 853382-1: https://a.allegroimg.com/original/11e1da/340701bc4cb4bd0e4ab12dd99b26
+
 ---
 
-## 8879 — Lego Gablotka na minifigurki 8 czerwona
+## 8879 — IR Speed Remote Control
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 79.99 zł · EAN: 00887988003816 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8879 |
+| Nazwa angielska | IR Speed Remote Control |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2009 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419137072, 887988003816, 887988003830 |
 
 ORYGINALNA WITRYNA NA MINIFIGURKI
 
@@ -3183,11 +4267,28 @@ Dzięki zbudowanej z klocków witrynie fani LEGO® mogą pochwalić się wszystk
 - Pokaż swoje minifigurki — witryna ma osiem szarych płytek konstrukcyjnych, dzięki czemu możesz ustawić minifigurki na dwóch poziomach, w osobnych przezroczystych przegródkach z oddzielnymi drzwiczkami
 - Możliwość łączenia — witrynę o wysokości ok. 18 cm, szerokości ok. 19 cm i głębokości ok.4 cm można łączyć z innymi, aby wyeksponować więcej minifigurek. Minifigurki nie są dołączone do zestawu
 
+**Galeria:**
+
+- 8879-1: https://a.allegroimg.com/original/110742/69d8e0cb440caf6e571f7ca017ad
+- 8879-2: https://a.allegroimg.com/original/11ccf3/7e428d9949cdbb054b9399652a12
+- 8879-3: https://a.allegroimg.com/original/1161b9/ce2674e3496d89558922d29897ca
+
 ---
 
-## 910051 — Lego 910051 Bricklink Grzybowa Wioska 2436 elementów
+## 910051 — Mushroom Village
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 1299.94 zł · EAN: 05702017828268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910051 |
+| Nazwa angielska | Mushroom Village |
+| Nazwa polska | — |
+| Seria | Pojemniki |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2436 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017828268 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -3225,11 +4326,27 @@ Maleńki Świat Cudów bawi się skalą, więc biedronka staje się góra, a du�
 
 Bardzo dziękuję za wsparcie mojej Grzybowej Wioski! Od czerwca 10Th Będziesz miał szansę zamówić zestaw w przedsprzedaży na BrickLink. Jeśli podoba Ci się mój Tiny World of Wonders, też miej otwarte oko na BDP Series 8.
 
+**Galeria:**
+
+- 910051-1: https://a.allegroimg.com/original/116f00/2947d94b4081a009acb8a664b459
+
 ---
 
-## 9394 — Mocowanie Ścienne do Lego Technic Jet Plane 9394
+## 9394 — Jet Plane
 
-*Kategoria: Pojemniki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05906438320107 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9394 |
+| Nazwa angielska | Jet Plane |
+| Nazwa polska | — |
+| Seria | Technic |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 499 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5906438320107 |
 
 **Zapraszamy do zakupu wyjątkowego mocowania ściennego dedykowanego samochodowi LEGO Technic**
 
@@ -3247,6 +4364,10 @@ Główne cechy produktu:
 Oferta Innych Mocowań na Innych Aukcjach: Warto zauważyć, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj naszą pełną gamę praktycznych rozwiązań do przechowywania Twoich ulubionych zestawów LEGO.
 
 Uwydatnij swój LEGO Technic Jet Plane (9394) dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+
+**Galeria:**
+
+- 9394-1: https://a.allegroimg.com/original/1105f7/ce4380994cdea45e8e657419e163
 
 ---
 

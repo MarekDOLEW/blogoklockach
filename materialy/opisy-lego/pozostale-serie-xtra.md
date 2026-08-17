@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Xtra — opisy produktowe (6 pozycji)
 
-## 40312 — Lego Xtra 40312 Latarnie uliczne saszetka z klockami
+## 40312 — Latarnie uliczne
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 37.99 zł · EAN: 00673419294256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40312 |
+| Nazwa angielska | Street Lamps |
+| Nazwa polska | Latarnie uliczne |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294256 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40312-1: https://a.allegroimg.com/original/03cb8f/b8ab497d455baae0987a880c4aea
+
 ---
 
-## 40368 — Lego 40368 xtra Świąteczne akcesoria
+## 40368 — Świąteczne akcesoria
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 24.45 zł · EAN: 00673419313667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40368 |
+| Nazwa angielska | Xmas Accessories |
+| Nazwa polska | Świąteczne akcesoria |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419313667 |
 
 LEGO 40368 xtra Świąteczne akcesoria
 
@@ -53,11 +78,26 @@ Dzięki zestawowi LEGO xtra 40368 Świąteczne akcesoria w Twoich modelach LEGO�
 - Przenieś swoje zestawy LEGO® w świąteczną scenerię.
 - Zestawy akcesoriów LEGO® xtra są zapakowane w zamknięte plastikowe woreczki.
 
+**Galeria:**
+
+- 40368-1: https://a.allegroimg.com/original/11099b/4c8ff1c7494c882b50f06627c6d7
+
 ---
 
-## 40376 — Lego 40376 xtra Akcesoria botaniczne
+## 40376 — Akcesoria botaniczne
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 19.45 zł · EAN: 00673419320603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40376 |
+| Nazwa angielska | Botanical Accessories |
+| Nazwa polska | Akcesoria botaniczne |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320603 |
 
 LEGO 40376 xtra Akcesoria botaniczne
 
@@ -81,11 +121,26 @@ W odświeżonym zestawie Akcesoria botaniczne LEGO xtra (40376) fani LEGO® zna
 - Ten ogródek dzieci mogą uprawiać same lub z przyjaciółmi, a łącząc go z innymi zestawami LEGO®, zyskają nieograniczone możliwości zabawy.
 - Ten zestaw konstrukcyjny będzie uroczym prezentem dla każdego dziecka w wieku od 6 lat. Zawiera 32 elementy i przystępnie napisane instrukcje, które pomogą maluchom uporać się z łączeniem klocków
 
+**Galeria:**
+
+- 40376-1: https://a.allegroimg.com/original/110850/c2ed1ce84c39998e95c2fc84d1d6
+
 ---
 
-## 853921 — Lego Xtra 853921 Brick Stickers
+## 853921 — Brick Stickers
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419307765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853921 |
+| Nazwa angielska | Brick Stickers |
+| Nazwa polska | Brick Stickers |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419307765 |
 
 LEGO® 853921 Naklejki na klocki LEGO® Xtra
 
@@ -101,11 +156,26 @@ Sięgnij po zestaw 853921 Naklejki na klocki LEGO® Xtra! Znajdziesz w nim 5 ark
 - **W zestawie 5 arkuszy naklejek** z miejskimi motywami oraz 12 klocków LEGO®, z których można zacząć budowę miasta.
 - Każdy arkusz naklejek ma ok. 14 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 853921-1: https://a.allegroimg.com/original/11baa5/1a77223f402f92ad071deb77e867
+
 ---
 
-## 854048 — Lego City 850929 Dwustronna Mata do zabawy 100x70cm
+## 854048 — Taśma z drogą
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419331999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854048 |
+| Nazwa angielska | Road Tape |
+| Nazwa polska | Taśma z drogą |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419331999 |
 
 Ścigaj się po ulicach LEGO City na Wyjątkowej Macie!
 
@@ -121,11 +191,26 @@ Po wyczerpującej podróży przez LEGO City, gdy każdy zakręt i skrzyżowanie 
 
 Nie czekaj dłużej! Zaplanuj najlepszą trasę przez LEGO City na wyjątkowej macie LEGO City i ciesz się niekończącą się zabawą i eksploracją. Odkrywaj nowe zakątki miasta, organizuj wyścigi i twórz swoje własne opowieści. LEGO City czeka na Ciebie!
 
+**Galeria:**
+
+- 854048-1: https://a.allegroimg.com/original/11fea8/5de360334af9a47a7e356b32b14e
+
 ---
 
-## 854065 — Lego 854065 Xtra Taśma z wodą
+## 854065 — Taśma z wodą
 
-*Kategoria: Pozostałe serie > Xtra · cena Allegro (2026-08-17): 49.45 zł · EAN: 00673419332002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854065 |
+| Nazwa angielska | Water Tape |
+| Nazwa polska | Taśma z wodą |
+| Seria | Pozostałe serie > Xtra |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419332002 |
 
 LEGO 854065 XTRA TAŚMA Z WODĄ
 
@@ -134,6 +219,10 @@ Miłośnikom LEGO® spodoba się morska zabawa zestawem akcesoriów Taśma z wod
 - Ten uroczy zestaw akcesoriów zawiera wszystko, czego młodzi budowniczowie potrzebują do wymyślania interesujących morskich historii: taśmę z wodą i 10 dodatkowych elementów.
 - Ten czarujący prezent LEGO® na urodziny lub święta zainspiruje sześciolatków i starsze dzieci do kreatywnej zabawy. Zestaw zawiera proste instrukcje, które pozwolą szybko rozpocząć zabawę w odgrywanie ról.
 - Taśma ma ok. 8 cm szerokości i można ją rozwinąć aż na 15 m długości. To wystarczy każdemu miłośnikowi LEGO® dowspaniałej zabawy w morskie przygody.
+
+**Galeria:**
+
+- 854065-1: https://a.allegroimg.com/original/117577/4fae7f5e4510802cae5addc39efc
 
 ---
 

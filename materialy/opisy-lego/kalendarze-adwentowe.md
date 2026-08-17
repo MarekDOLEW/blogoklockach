@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Kalendarze adwentowe — opisy produktowe (58 pozycji)
 
-## 21280 — Lego Minecraft 21280 Kalendarz Adwentowy Na 2025 Rok 10+ Nowy
+## 21280 — Minecraft Advent Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702017815374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21280 |
+| Nazwa angielska | Minecraft Advent Calendar 2025 |
+| Nazwa polska | — |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 300 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815374 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -38,11 +48,27 @@ W każdym z 24 okienek kryje się prezent, który dzieci odkrywają przed gwiazd
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO
 - 24 dni niespodzianek — dzieci mogą odliczać do świąt w stylu LEGO® Minecraft® dzięki temu pełnemu przygód, 300-elementowemu kalendarzowi adwentowemu
 
+**Galeria:**
+
+- 21280-1: https://a.allegroimg.com/original/05e5da/14e8e0b44d4d898fa26da81b4fd6
+
 ---
 
-## 2824 — Lego City 2824 Kalendarz adwentowy
+## 2824 — City Advent Calendar 2010
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 295.50 zł · EAN: 05702014602434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2824 |
+| Nazwa angielska | City Advent Calendar 2010 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602434 |
 
 Zestaw zawiera 271 elementów.
  
@@ -66,11 +92,27 @@ Zestawy adwentowe są wspaniałymi prezentami na Boże Narodzenie, ale też dosk
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 2824-1: https://a.allegroimg.com/original/11fd57/dfa7419b413baecdb237c2335933
+
 ---
 
-## 3316 — Lego Friends 3316 Kalendarz Adwentowy
+## 3316 — Friends Advent Calendar 2012
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419165617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3316 |
+| Nazwa angielska | Friends Advent Calendar 2012 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419165617 |
 
 Zestaw zawiera 212 elementów.
  
@@ -82,11 +124,27 @@ W komplecie znajdziemy 2 minilaleczki, a są to Christina i Olivia, oraz figurk�
 
 Akcesoria obejmują skrzynkę pocztową, 3 pudełka prezentowe, choinkę świąteczną, zaśnieżony mini ogródek, kojec dla psa z kością, zestaw akcesoriów do toaletki, bałwanka, mini ognisko (by się przy nim ogrzać jedząc ciasteczko i popijając mlekiem), sanki, narty, skuter śnieżny, stolik z kubeczkiem i taboretem, świątecznie udekorowaną latarnię oraz miotłę do zamiatania śniegu z kubełkiem.
 
+**Galeria:**
+
+- 3316-1: https://a.allegroimg.com/original/01e4b9/530ee1084e19ada07ea3f1bcf6f6
+
 ---
 
-## 40222 — Lego 40222 Okolicznościowe Świąteczne budowanie z Lego
+## 40222 — 24-in-1 Holiday Countdown
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015595445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40222 |
+| Nazwa angielska | 24-in-1 Holiday Countdown |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595445 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -100,11 +158,27 @@ Numer magazynowy sprzedawcy: 20260179
 
 Przybliżone wymiary opakowania:** 26 x 4,5 x 14 cm**
 
+**Galeria:**
+
+- 40222-1: https://a.allegroimg.com/original/118933/a8dd67b347fd8df3f1ba009336b3
+
 ---
 
-## 41016 — Lego Friends Kalendarz adwentowy 41016
+## 41016 — Friends Advent Calendar 2013
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014972070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41016 |
+| Nazwa angielska | Friends Advent Calendar 2013 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972070 |
 
 **LEGO FRIENDS 41016**
  
@@ -124,11 +198,27 @@ Przybliżone wymiary opakowania:** 26 x 4,5 x 14 cm**
  
 **38 cm * 26 cm * 7 cm ***
 
+**Galeria:**
+
+- 41016-1: https://a.allegroimg.com/original/11e375/648f3d184c128501c841c9c6f16f
+
 ---
 
-## 41040 — Friends Kalendarz adwentowy 41040
+## 41040 — Friends Advent Calendar 2014
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015124836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41040 |
+| Nazwa angielska | Friends Advent Calendar 2014 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124836 |
 
 Zestaw zawiera 228 elementów.
  
@@ -150,11 +240,27 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
  
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 41040-1: https://a.allegroimg.com/original/11e64c/068ecb454d438a2d76d575b03646
+
 ---
 
-## 41102 — Lego Friends Kalendarz adwentowy 41102 Unikat
+## 41102 — Friends Advent Calendar 2015
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015346917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41102 |
+| Nazwa angielska | Friends Advent Calendar 2015 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346917 |
 
 Kalendarz adwentowy – zimowa zabawa z LEGO
  
@@ -170,11 +276,27 @@ Kategoria wiekowa: od 5 lat
 
 Kalendarz adwentowy to zestaw pozwalający każdej dziewczynce na zbudowanie zimowego miasteczka, które codziennie będzie uzupełniane o nowy element. Znajdują się w nim 24 prezenty, więc można rozplanować budowę tak, aby każdego dnia pojawiał się jeden z nich. Dwie dziewczyny – Andrea i Liza – mogą korzystać ze wszystkich atrakcji, jakie pojawią się na placu. Znajdą na nim między innymi: sprzęt sportowy, świąteczne ciasta, bałwana, a także skuter śnieżny. Ogromna ilość elementów umożliwia dziecku godziny kreatywnej zabawy oraz możliwość stworzenia setek różnych konfiguracji i ustawień elementów na placu. Wszystkie elementy wykonane są z trwałego plastiku. Wiele z nich ozdobiono motywami świąteczno-zimowymi, co nadaje przyjemny klimat całemu zestawowi. Kalendarz adwentowy to samodzielna zabawka, jednak można ją wzbogacić za pomocą innych elementów z zestawów LEGO.
 
+**Galeria:**
+
+- 41102-1: https://a.allegroimg.com/original/110b4d/84321d5b4b8383019533a7f2ea49
+
 ---
 
-## 41131 — Kalendarz Adwentowy Lego Friends dla dziecka na święta klocki 2025
+## 41131 — Friends Advent Calendar 2016
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 189.90 zł · EAN: 05702015593670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41131 |
+| Nazwa angielska | Friends Advent Calendar 2016 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593670 |
 
 KALENDARZ ADWENTOWY LEGO FRIENDS dla dziecka prezent na święta klocki 2025
 
@@ -233,11 +355,26 @@ Bogate wyposażenie kalendarza adwentowego LEGO® Friends pozwala na** odgrywani
 
 **❄️odpoczywają w swoich łóżkach**
 
+**Galeria:**
+
+- 41131-1: https://a.allegroimg.com/original/1143da/b167d8164d7dbda226578841ab0e
+
 ---
 
-## 41353 — Friends Kalendarz adwentowy 41353
+## 41353 — Friends Advent Calendar 2018
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 220.17 zł · EAN: 05702016112054 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41353 |
+| Nazwa angielska | Friends Advent Calendar 2018 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 500 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016112054 |
 
 LEGO FRIENDS
  
@@ -262,11 +399,26 @@ Zestaw LEGO® Friends 41353 Kalendarz adwentowy można otwierać każdego dnia w
  
 38 cm * 26 cm * 6 cm *
 
+**Galeria:**
+
+- 41353-1: https://1.allegroimg.com/original/00d5d1/a48122584a478ac1316fae02d1e1
+
 ---
 
-## 41382 — Lego 41382 Friends Kalendarz adwentowy
+## 41382 — Friends Advent Calendar 2019
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 365.70 zł · EAN: 05702016370270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41382 |
+| Nazwa angielska | Friends Advent Calendar 2019 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 330 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016370270 |
 
 KLOCKI LEGO 41382 FRIENDS Kalendarz adwentowy
  
@@ -288,11 +440,27 @@ Pomóż swojemu młodemu budowniczemu przygotować się do świąt z zestawem LE
 - Każdy kolejny bożonarodzeniowy model pozwoli Twojemu dziecku poczuć magię świąt. 
 - Świąteczne prezenty doskonale nadają się do ozdobienia pokoju lub powieszenia na choince.
 
+**Galeria:**
+
+- 41382-1: https://a.allegroimg.com/original/1143f0/f8ba0ecd4cb08e195f16b6ac57f4
+
 ---
 
-## 41420 — Lego 41420 Kalendarz Adwentowy Friends z 2020 roku
+## 41420 — Friends Advent Calendar 2020
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 260.00 zł · EAN: 05702016616743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41420 |
+| Nazwa angielska | Friends Advent Calendar 2020 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 37 cm × gł. 6 cm |
+| EAN | 5702016616743 |
 
 Odliczanie do Bożego Narodzenia może być jeszcze bardziej ekscytujące dzięki zestawowi Kalendarz adwentowy LEGO® Friends (41420). Za każdymi drzwiczkami dzieci znajdą nową niespodziankę do zbudowania. Kalendarz jest wypełniony niezwykle uroczymi bożonarodzeniowymi postaciami, które pasują do trzech różnych scenerii: pokoju Emmy, warsztatu zabawek Świętego Mikołaja i zimowej krainy czarów. Otwierając drzwiczki, dzieci będą wzbogacać każdą scenerię o nowe elementy, co sprawi, że za każdym razem ekscytacja będzie większa.
  
@@ -316,11 +484,27 @@ Ciekawe zabawki są łatwe w budowie i zawierają proste instrukcje, dzięki kt�
 - Zestawy konstrukcyjne LEGO® spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości grupy LEGO, by małe dziecięce rączki mogły sobie łatwo poradzić z budowaniem — i tak jest niezmiennie od 1958 roku! 
 - Znajdujące się w tym zestawie z kalendarzem adwentowym klocki i minilaleczki do zbudowania zostały poddane rygorystycznym testom grupy LEGO®, dzięki którym każdy zestaw dla dzieci spełnia najwyższe globalne standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41420-1: https://a.allegroimg.com/original/00a566/360f4175471d8f2f649cbc2ac74b
+
 ---
 
-## 41690 — Friends Kalendarz adwentowy 41690
+## 41690 — Friends Advent Calendar 2021
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702016916126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41690 |
+| Nazwa angielska | Friends Advent Calendar 2021 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 370 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 37 cm × gł. 6 cm |
+| EAN | 5702016916126 |
 
 W te święta seria LEGO® Friends proponuje odrobinę wspomnień.
  
@@ -339,11 +523,27 @@ Pomóż im zbudować prezenty i włożyć je do skarpet, upiec świąteczne cias
 - Nowe zabawki i klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu są spójne i pasują do siebie — i tak jest niezmiennie od 1958 roku. 
 - Zabawki LEGO® są testowane na niemal wszelkie dostępne sposoby.
 
+**Galeria:**
+
+- 41690-1: https://a.allegroimg.com/original/1127e7/626430cb44669eafe0e49f5fa1e4
+
 ---
 
-## 41706 — Lego Friends Kalendarz adwentowy 41706
+## 41706 — Friends Advent Calendar 2022
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702017155074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41706 |
+| Nazwa angielska | Friends Advent Calendar 2022 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155074 |
 
 LEGO Friends
 
@@ -364,11 +564,26 @@ Budowanie z tym kalendarzem adwentowym nie kończy się w święta — dzieci m
 
 Odliczaj czas do świąt Bożego Narodzenia i ciesz się razem z Olivią i jej rodziną. Wybierz się z nią, jej bratankiem Santiagiem oraz jego przyjaciółką Avą na spotkanie ze Świętym Mikołajem na jarmarku. Za każdymi drzwiczkami czeka na Ciebie nowa postać, jarmarkowe stoiska z pysznościami lub zabawne zadanie. Baw się minimodelami lub udekoruj nimi swój pokój na uroczyste świętowanie!
 
+**Galeria:**
+
+- 41706-1: https://a.allegroimg.com/original/112896/6d864b8347ed87e844deed2eba31
+
 ---
 
-## 41758 — Kalendarz adwentowy Lego Friends 2023 41758 torba
+## 41758 — Friends Advent Calendar 2023
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702017415406 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41758 |
+| Nazwa angielska | Friends Advent Calendar 2023 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 37 cm × gł. 6 cm |
+| EAN | 5702017415406 |
 
 LEGO Friends Kalendarz adwentowy 41758
 
@@ -391,11 +606,26 @@ Do kalendarza dołączona jest mata i różne moduły, które można łączyć i
 - Miasto Heartlake nowej generacji - w styczniu 2023 roku świat LEGO Friends powiększy się o nowe postacie i lokalizacje, aby inspirować do kolejnych przygód
 - Pewność i bezpieczeństwo - elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41758-1: https://a.allegroimg.com/original/11261c/e4837fb547a68865027d497a801f
+
 ---
 
-## 42637 — Lego Friends 42637 Kalendarz adwentowy 2024 torba
+## 42637 — Friends Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702017591537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42637 |
+| Nazwa angielska | Friends Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 272 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591537 |
 
 Podaruj dzieciom w wieku od sześciu lat niesamowitą frajdę podczas otwierania drzwiczek Kalendarza adwentowego LEGO® Friends na 2024 rok (42637). Zestaw zawiera pięć postaci, w tym małego Olly'ego, małą Paisley, mamę, tatę i młodszą siostrę Paisley, a także dwa małe zwierzątka. W zestawie jest też figurka śnieżnego kota i mnóstwo akcesoriów.
 
@@ -410,11 +640,26 @@ Ten zestaw LEGO jest nie tylko ciekawym pomysłem na prezent bożonarodzeniowy d
 - Pomysł na prezent z 272 elementami — ten zestaw LEGO® Friends to świetny prezent na adwent, czyli okres poprzedzający gwiazdkę, dla chłopców i dziewczynek, którzy uwielbiają świąteczne zajęcia
 - Odkrywaj kolejne historie przyjaciół — sprawdź inne zabawki LEGO® Friends (sprzedawane osobno), dzięki którym dzieci odkrywają różnorodne postacie i miejsca podczas odgrywania prawdziwych przygód
 
+**Galeria:**
+
+- 42637-1: https://a.allegroimg.com/original/11c7b8/fbe0ed97404f8eaf30c9a27185f3
+
 ---
 
-## 42668 — Klocki Lego Friends 42668 Kalendarz adwentowy na 2025 rok torba
+## 42668 — Friends Advent Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702017814827 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42668 |
+| Nazwa angielska | Friends Advent Calendar 2025 |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814827 |
 
 Podaruj sześciolatkom i starszym dzieciom świąteczną radość i miłe wspomnienia, gdy będą otwierać okienka Kalendarza adwentowego na 2025 rok LEGO® Friends (42668). Zestaw zawiera pięć minilaleczek, w tym Aliyę, Autumn, Liann, Novę i Leo, a także pięć zwierząt LEGO, w tym dwa psy, świnkę morską, gekona i kota.
 
@@ -431,11 +676,27 @@ Ta kreatywna zabawka to nie tylko prezent dla dzieci na przedświąteczny czas, 
 - Opowieści o przyjaźni — seria zestawów konstrukcyjnych LEGO® Friends (sprzedawanych osobno) pozwala dzieciom odkrywać różne aspekty przyjaźni i odgrywać własne, kreatywne historie
 - Zawartość zestawu — ten 237-elementowy zestaw zawiera 24 niespodzianki na każdy przedświąteczny dzień: postacie, zwierzęta, aktywności i wiele więcej
 
+**Galeria:**
+
+- 42668-1: https://a.allegroimg.com/original/118f67/5db9e1a3499387211ac6528889a0
+
 ---
 
-## 43253 — Lego Disney 43253 Kalendarz adwentowy na 2024 rok
+## 43253 — Disney Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 127.75 zł · EAN: 05702017591544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43253 |
+| Nazwa angielska | Disney Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591544 |
 
 LEGO DISNEY
 
@@ -462,11 +723,26 @@ Po zakończeniu okresu świątecznego ten kalendarz adwentowy LEGO może nadal c
 - Pomysł na prezent dla dzieci w wieku od pięciu lat — ten zestaw to świetny prezent na Adwent lub przedświąteczny czas dla miłośników Disneya
 - Jeszcze więcej historii — zabawki z tego zestawu można łączyć z innymi zestawami konstrukcyjnymi LEGO® ǀ Disney lub zestawami LEGO (sprzedawanymi osobno), dzięki czemu dzieci mogą poszerzać możliwości zabawy i wymyślać nowe przygody i historie
 
+**Galeria:**
+
+- 43253-1: https://a.allegroimg.com/original/11f808/5f53f4a9452aaed06167dbddcfd6
+
 ---
 
-## 43273 — Lego Disney Kraina Lodu 43273 Kalendarz adwentowy na rok 2025
+## 43273 — Disney Frozen Advent Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 129.99 zł · EAN: 04056256597326 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43273 |
+| Nazwa angielska | Disney Frozen Advent Calendar 2025 |
+| Nazwa polska | — |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4056256597326, 5702017812991 |
 
 **PRODUKT:** LEGO DISNEY PRINCESS 43273 - Kalendarz adwentowy
 
@@ -506,11 +782,28 @@ Gotowi na świąteczną zabawę? Wyobraź sobie, że dzisiaj otwierasz drzwiczki
 
 -
 
+**Galeria:**
+
+- 43273-1: https://a.allegroimg.com/original/11fe9c/73320ea94fb1a43455c7d1e6faf4
+- 43273-2: https://a.allegroimg.com/original/05f93c/4875373c433fa59fcb04eb9f4a61
+
 ---
 
-## 4428 — Lego City 4428 Kalendarz Adwentowy
+## 4428 — City Advent Calendar 2012
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702014840997 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4428 |
+| Nazwa angielska | City Advent Calendar 2012 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840997 |
 
 Zestaw zawiera 248 elementów.
  
@@ -533,11 +826,26 @@ Akcesoria i małe modele to megafon, piła łańcuchowa z trzema klocami drewna,
  
 Zestawy adwentowe są wspaniałymi prezentami na Boże Narodzenie, ale też doskonałą okazją dla kolekcjonerów minifigurek, aby nabyć je za stosunkowo niską cenę, w dodatku z wieloma akcesoriami.
 
+**Galeria:**
+
+- 4428-1: https://a.allegroimg.com/original/11edf7/be410762431c991fc72c407ed8f8
+
 ---
 
-## 5009593 — 4 Plakaty Vip Lego Insiders Harry Potter druga edycja Zestaw 5–8. 5009593
+## 5009593 — Harry Potter Prints – 2nd Edition
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 285.00 zł · EAN: 05060373579539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009593 |
+| Nazwa angielska | Harry Potter Prints – 2nd Edition |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373579539 |
 
 Plakaty LEGO Harry Potter druga edycja Zestaw 5–8.
 
@@ -551,11 +859,27 @@ Stwórz magiczną ozdobę do domu dzięki tej fajnej nagrodzie dla członków pr
 - Cztery wzory — ilustrowane plakaty są inspirowane filmami Harry Potter i Zakon Feniksa, Harry Potter i Książę Półkrwi, Harry Potter i Insygnia Śmierci — część 1 i Harry Potter i Insygnia Śmierci™ — część 2
 - Magiczna nagroda ze świata Harry’ego Pottera dla członków programu LEGO® Insiders — każdy plakat ma 40 cm długości i 30 cm szerokości
 
+**Galeria:**
+
+- 5009593-1: https://a.allegroimg.com/original/114e5b/59618b99480a99e76419a0f8182f
+
 ---
 
-## 60063 — Lego 60063 City Kalendarz adwentowy
+## 60063 — City Advent Calendar 2014
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 330.00 zł · EAN: 05702015119344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60063 |
+| Nazwa angielska | City Advent Calendar 2014 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119344 |
 
 Jesteśmy grupą entuzjastów, którzy pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.
  
@@ -575,11 +899,27 @@ Zmień każdy dzień w święto budowania, odliczając na kalendarzu adwentowym 
 
 Zestaw LEGO City - Kalendarz Adwentowy trafił do sprzedaży w 2014 roku. Numer katalogowy tego zestawu to 60063. Zawiera 218 klocków LEGO. W modelu znajdziesz też 7 minifigurki. Nazwa zestawu w języku angielskim LEGO City - City Advent Calendar.
 
+**Galeria:**
+
+- 60063-1: https://a.allegroimg.com/original/11a23b/d8806c244cec87047b493cc01ac0
+
 ---
 
-## 60133 — Lego City 60133 Kalendarz adwentowy
+## 60133 — City Advent Calendar 2016
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 255.00 zł · EAN: 05702015594943 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60133 |
+| Nazwa angielska | City Advent Calendar 2016 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 290 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594943 |
 
 LEGO Kalendarz adwentowy LEGO City 60133
 
@@ -597,11 +937,27 @@ Zbierz unikalne minifigurki i dodaj je do swoich kolekcji lub zestawów.
 
 Uczcij świąteczny czas z LEGO City i niezwykłym kalendarzem adwentowym.
 
+**Galeria:**
+
+- 60133-1: https://a.allegroimg.com/original/11e2fd/bf5302754d6fb920c5f2242346f6
+
 ---
 
-## 60155 — Lego 60155 City Kalendarz adwentowy
+## 60155 — City Advent Calendar 2017
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702015866019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60155 |
+| Nazwa angielska | City Advent Calendar 2017 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866019 |
 
 **Lego City Kalendarz adwentowy 60155.** Świętuj przez cały grudzień z kalendarzem adwentowym LEGO City! Uczcij świąteczny czas z LEGO City - zestaw zawiera 24 niespodzianki, po jednej na każdy dzień sezonu świątecznego. Znajdziesz wśród nich sanie Mikołaja, chatkę z piernika, choinkę, samolocik, bałwanka, helikopter straży przybrzeżnej i nie tylko. Zestaw zawiera kilka różnych modeli do zbudowania i sześć minifigurek.
  
@@ -625,11 +981,27 @@ Nr. Katalogowy: 60155
  
 Ilość klocków w zestawie: 248
 
+**Galeria:**
+
+- 60155-1: https://a.allegroimg.com/original/032c01/15538618408e89d11067e335c2a8
+
 ---
 
-## 60201 — Lego 60201 City Kalendarz Adwentowy, Wielokolorowy
+## 60201 — City Advent Calendar 2018
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 218.00 zł · EAN: 05702016109771 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60201 |
+| Nazwa angielska | City Advent Calendar 2018 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109771 |
 
 W zestawie 60201 Kalendarz adwentowy LEGO® City czekają na Ciebie 24 emocjonujące niespodzianki! Codziennie otwieraj kolejne drzwiczki, aby sprawdzić, co za nimi znajdziesz. Unikalny pojazd, nową minifigurkę LEGO, a może nawet Świętego Mikołaja? Otwórz i zobacz!
  
@@ -643,11 +1015,27 @@ Przeżyj niezapomniane święta z ciekawym zestawem 60201 Kalendarz adwentowy LE
 - Zbierz wszystkie minifigurki i dodaj je do swoich zestawów. 
 - Poczuj magię Świąt w LEGO® City z najnowszym, najciekawszym kalendarzem adwentowym.
 
+**Galeria:**
+
+- 60201-1: https://f.allegroimg.com/original/0049e9/e93363764d0280cbaf70d01e2f3f
+
 ---
 
-## 60235 — Lego 60235 City Kalendarz adwentowy
+## 60235 — City Advent Calendar 2019
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702016369809 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60235 |
+| Nazwa angielska | City Advent Calendar 2019 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369809 |
 
 LEGO CITY KALENDARZ ADWENTOWY 60235
 
@@ -682,11 +1070,27 @@ Dzięki ciekawemu zestawowi LEGO® City 60235 Kalendarz adwentowy Twoje dziecko 
 - **Liczba elementów w zestawie:** 234 szt. 
 - **Waga brutto:** 870 g
 
+**Galeria:**
+
+- 60235-1: https://a.allegroimg.com/original/05a2ce/aa6c2ea0476c813b5d2f9d28f8e2
+
 ---
 
-## 60268 — City Kalendarz adwentowy 60268 z 2020 roku
+## 60268 — City Advent Calendar 2020
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016617542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60268 |
+| Nazwa angielska | City Advent Calendar 2020 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 342 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 26 cm |
+| EAN | 5702016617542 |
 
 Wspaniały kalendarz adwentowy LEGO® City (60268) dla chłopców, dziewczynek i fanów serialu LEGO City Adventures aż kipi od możliwości zabawy i z pewnością nie pozwoli, by w przedświąteczny czas wkradła się nuda. Poza świątecznymi modelami i „zaśnieżoną” planszą do zabawy i budowania świątecznych scenek dzieci znajdą w nim sześć postaci z serialu LEGO City — Duke'a DeTaina, Harla Hubbsa, Freyę McCloud, Rooky Partnur, Daisy Kaboom oraz Bożonarodzeniowego komendanta Wheelera w kostiumie Świętego Mikołaja! Łatwe i przyjemne budowanie Kalendarz adwentowy LEGO City to świetny prezent dla pięciolatków i starszych dzieci.
 
@@ -706,11 +1110,27 @@ Do każdego modelu dołączone są przejrzyste instrukcje budowania, które nawe
 - Zabawki LEGO® City spełniają najwyższe standardy branżowe i kryteria jakości. Dzięki temu klocki LEGO są zawsze jednolite, pasują do siebie i można je z łatwością łączyć i rozdzielać. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60268-1: https://a.allegroimg.com/original/0093ec/f06eae8f4c72be8d5d157f2fbc29
+
 ---
 
-## 60303 — klocki Lego City Kalendarz Adwentowy 60303 *duży*
+## 60303 — City Advent Calendar 2021
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 259.99 zł · EAN: 00673419338431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60303 |
+| Nazwa angielska | City Advent Calendar 2021 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 38 cm × gł. 7 cm |
+| EAN | 5702016911619, 673419338431 |
 
 Kalendarz adwentowy z niespodziankami LEGO®!
 
@@ -761,11 +1181,28 @@ Bezpieczeństwo przede wszystkim!
 
 Zabawki konstrukcyjne **LEGO® City** przechodzą gruntowne testy, aby można było mieć pewność, że **spełniają surowe wymogi bezpieczeństwa.**
 
+**Galeria:**
+
+- 60303-1: https://a.allegroimg.com/original/116437/e6cbac5145d4a31bf1fb6529273f
+- 60303-2: https://a.allegroimg.com/original/113958/2c6f2d0744f2b9f5b90409897235
+
 ---
 
-## 60381 — Kalendarz adwentowy świąteczny Lego City 60381 24 niespodzianki!
+## 60381 — City Advent Calendar 2023
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 309.00 zł · EAN: 05053014255763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60381 |
+| Nazwa angielska | City Advent Calendar 2023 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 38 cm × gł. 7 cm |
+| EAN | 5053014255763, 5702017415581 |
 
 LEGO CITY Kalendarz adwentowy 60381
 
@@ -801,11 +1238,27 @@ Ten kalendarz adwentowy to doskonały sposób na wprowadzenie magii świąt i kr
 
 **Kalendarz nowy, oryginalnie zapakowany.**
 
+**Galeria:**
+
+- 60381-1: https://a.allegroimg.com/original/1189c8/d39da3754827b47b1f2cfbdbf176
+- 60381-2: https://a.allegroimg.com/original/11c12f/7c46c3034a71b5bc6c090abcee1f
+
 ---
 
-## 60436 — Lego City 60436 Kalendarz Adwentowy Na 2024 Rok
+## 60436 — City Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017591551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60436 |
+| Nazwa angielska | City Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 195 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017591551 |
 
 WYPRZEDAŻ - PUDEŁKO NIE DLA KOLEKCJONERÓW!!
 
@@ -817,11 +1270,26 @@ Kalendarz adwentowy na 2024 rok
 
 City Kalendarz adwentowy na 2024 rok LEGO® City Kalendarz adwentowy 2024 LEGO® City Kalendarz adwentowy 2024 60436 LEGO® City Kalendarz adwentowy 2024, pełen świątecznych postaci, minimodeli i akcesoriów jest już dostępny! Prezent adwentowy pełen świątecznych akcesoriów Podkręć atmosferę i odliczaj dni do gwiazdki dzięki Kalendarzowi adwentowemu LEGO® City 2024 (60436) dla dzieci w wieku od pięciu lat. Tegoroczny kalendarz jest pełen ciekawych postaci, świątecznych minimodeli i fajnych akcesoriów dla minifigurek. Dzieci mogą również rozłożyć matę do zabawy na pudełku, aby stworzyć śnieżną zimową wioskę, idealną do odgrywania magicznych historii i przygód.Kalendarz adwentowy LEGO City to wspaniały prezent na okres przedświąteczny. Do każdej niespodzianki dołączone są szczegółowe instrukcje budowania, dzięki którym nawet początkujący konstruktorzy LEGO mogą sami złożyć swoje modele i szybko rozpocząć zabawę.Kalendarz adwentowy LEGO City 2024 zawiera mnóstwo świątecznych niespodzianek dla dzieci, które lubią kreatywną zabawę. Pociechy mogą też łączyć dołączone do kalendarza zabawki konstrukcyjne, akcesoria i minifigurki z innymi zestawami LEGO City. Odliczaj dni do gwiazdki z Kalendarzem adwentowym LEGO® City 2024, pełnym niespodzianek, dzięki którym każdy dzień będzie wyjątkowy! Za drzwiczkami kryją się ciekawe postacie w świątecznych swetrach, fajne minimodele i niesamowite akcesoria. Rozłóż matę do zabawy na pudełku, aby ukazać zimową wioskę, idealne miejsce do odgrywania magicznych historii i przygód. Baw się dobrze!
 
+**Galeria:**
+
+- 60436-1: https://a.allegroimg.com/original/116e29/905abd4f41118d73dd44c982f732
+
 ---
 
-## 60475 — Lego City 60475 Kalendarz adwentowy
+## 60475 — City Advent Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 98.00 zł · EAN: 05702017812687 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60475 |
+| Nazwa angielska | City Advent Calendar 2025 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 186 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812687 |
 
 **PRODUKT:** LEGO CITY 60475 - Kalendarz adwentowy
 
@@ -867,11 +1335,27 @@ Wprowadź magię świąt do codzienności i spraw, by grudzień był pełen uśm
 
 -
 
+**Galeria:**
+
+- 60475-1: https://a.allegroimg.com/original/29d466/b975b9e5428fb58bf9d612fadf16
+
 ---
 
-## 75023 — Lego 75023 Star Wars Kalendarz adwentowy
+## 75023 — Star Wars Advent Calendar 2013
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702014974760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75023 |
+| Nazwa angielska | Star Wars Advent Calendar 2013 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974760 |
 
 LEGO Star Wars Kalendarz adwentowy 75023
  
@@ -890,11 +1374,27 @@ O produkcie:
  
 LEGO Star Wars Kalendarz adwentowy 75023 to kreatywny sposób na wprowadzenie dzieci w świąteczny nastrój. Zestaw składa się z 24 elementów, które można wykorzystać do budowania własnej galaktyki Star Wars. Produkt jest przeznaczony dla chłopców w wieku 6 lat i starszych i jest zaprojektowany z myślą o fanach serii Star Wars. Kalendarz adwentowy 75023 to połączenie marki LEGO z bohaterami z serii Star Wars, które zapewnią dzieciom mnóstwo frajdy i kreatywności. Zawiera 254 elementy, co pozwala na stworzenie wielu unikalnych konstrukcji. Produkt jest certyfikowany zgodnie z normami CE i EN 71, co zapewnia bezpieczeństwo i wysoką jakość. LEGO Star Wars Kalendarz adwentowy 75023 to idealny prezent dla każdego fana Star Wars!
 
+**Galeria:**
+
+- 75023-1: https://a.allegroimg.com/original/112546/e25e5ae4475b909deb7acec39ec0
+
 ---
 
-## 75056 — Lego Star Wars 75056 Kalendarz adwentowy
+## 75056 — Star Wars Advent Calendar 2014
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 800.00 zł · EAN: 05702015123792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75056 |
+| Nazwa angielska | Star Wars Advent Calendar 2014 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015123792 |
 
 Przeżyj okres świąteczny na lodowej planecie Hoth z kalendarzem adwentowym LEGO® Star Wars™! Każdego grudniowego dnia otwieraj nowe drzwiczki, aby odkrywać ciekawe prezenty ze świata Star Wars - minifigurki, statki kosmiczne i pojazdy. Po zebraniu wszystkich 24 prezentów rozłóż planszę i odgrywaj zabawne scenki z planety Hoth, które z przyjemnością obejrzy cała rodzina. To doskonały prezent świąteczny dla fanów serii LEGO Star Wars z każdej galaktyki! Poczuj Moc świąt dzięki kalendarzowi adwentowemu LEGO® Star Wars™
 
@@ -906,11 +1406,27 @@ Przeżyj okres świąteczny na lodowej planecie Hoth z kalendarzem adwentowym LE
 - Zbierz wszystkie prezenty i odegraj własną zabawną scenkę z planety Hoth. 
 - To świetny prezent świąteczny dla fanów serii LEGO® Star Wars z każdej galaktyki!
 
+**Galeria:**
+
+- 75056-1: https://a.allegroimg.com/original/11ddd5/5b483b9d4035beaaee956a3e0514
+
 ---
 
-## 75097 — Lego Star Wars 75097 Kalendarz adwentowy
+## 75097 — Star Wars Advent Calendar 2015
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 330.00 zł · EAN: 05702015357289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75097 |
+| Nazwa angielska | Star Wars Advent Calendar 2015 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357289 |
 
 Kalendarz adwentowy LEGO Star Wars 75097
 
@@ -938,11 +1454,27 @@ Dane:
 - **Przedział wiekowy:** 6-14 lat 
 - **Ilość elementów:** 292
 
+**Galeria:**
+
+- 75097-1: https://a.allegroimg.com/original/05b557/a1e41b3748d8babcc418424245cd
+
 ---
 
-## 75146 — Lego Star Wars 75146 Kalendarz adwentowy
+## 75146 — Star Wars Advent Calendar 2016
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702015593953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75146 |
+| Nazwa angielska | Star Wars Advent Calendar 2016 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593953 |
 
 Kalendarz adwentowy Lego Star Wars 75146
 
@@ -959,11 +1491,27 @@ zestaw z 2016 r.
 
 Przedmioty oferowane przeze mnie do sprzedaży są moją własnością od ponad 6 miesięcy.
 
+**Galeria:**
+
+- 75146-1: https://a.allegroimg.com/original/00f4ef/a995d0e549339b1b82ebb3de042a
+
 ---
 
-## 75213 — Lego 75213 Star Wars Kalendarz Adwentowy
+## 75213 — Star Wars Advent Calendar 2018
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702016112078 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75213 |
+| Nazwa angielska | Star Wars Advent Calendar 2018 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112078 |
 
 LEGO STAR WARS
  
@@ -988,11 +1536,27 @@ Po otwarciu wszystkich przegródek możesz pobawić się we wspaniałe przygody 
 - Postacie w zestawie: Rose, Rowan, generał Merrick, droid bojowy, szturmowiec śmierci, Rathtar, guaviański ochroniarz oraz droid IG-88. 
 - Broń w zestawie: pistolet blasterowy, trzy karabiny blasterowe, dwa blastery i miecz świetlny.
 
+**Galeria:**
+
+- 75213-1: https://a.allegroimg.com/original/005a7f/115acbd54517a38fcc284aa9e023
+
 ---
 
-## 75245 — Lego Star Wars 75245 Kalendarz adwentowy
+## 75245 — Star Wars Advent Calendar 2019
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 324.99 zł · EAN: 05702016369847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75245 |
+| Nazwa angielska | Star Wars Advent Calendar 2019 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369847 |
 
 LEGO STAR WARS KALENDARZ ADWENTOWY 75245
 
@@ -1023,11 +1587,27 @@ Po otwarciu wszystkich przegródek możesz pobawić się we wspaniałe przygody 
 - **Typ:** Konstrukcyjne 
 - **Waga jednostkowa brutto:** 0,61 kg
 
+**Galeria:**
+
+- 75245-1: https://a.allegroimg.com/original/05ce00/1569e615496ea21cfe3a19a56c52
+
 ---
 
-## 75307 — Lego Star Wars 75307 Kalendarz adwentowy
+## 75307 — Star Wars Advent Calendar 2021
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016933840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75307 |
+| Nazwa angielska | Star Wars Advent Calendar 2021 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 335 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016933840 |
 
 Pozwól fanom serialu „Star Wars: Mandalorian” rozpocząć odliczanie do świąt Bożego Narodzenia w 2021 r. i codziennie cieszyć się niespodziankami dzięki kalendarzowi adwentowemu LEGO® Star Wars™ (75307). Za 24 drzwiczkami kryją się minifigurki i figurki LEGO, pojazdy do zbudowania, broń lub akcesoria inspirowane drugim sezonem serialu.
  
@@ -1050,11 +1630,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu mocno się trzymają i pozwalają budować solidne modele — i tak jest od 1958 roku. 
 - Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75307-1: https://a.allegroimg.com/original/29b23d/e920acc64bb98e04f8b4eed25e14
+
 ---
 
-## 75340 — Lego 75340 Star Wars Kalendarz adwentowy 2022rok
+## 75340 — Star Wars Advent Calendar 2022
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 202.77 zł · EAN: 05702017154411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75340 |
+| Nazwa angielska | Star Wars Advent Calendar 2022 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154411 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1099,11 +1695,27 @@ Codzienna dawka prezentów świątecznych w kalendarzu adwentowym LEGO® Star Wa
 - Najwyższa jakość — klocki i elementy LEGO® spełniają wymagające standardy jakości, dzięki czemu za każdym razem łatwo się łączą i mocno trzymają 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 75340-1: https://a.allegroimg.com/original/11f0d4/d8cb63a34abda9fd74d1a56a0f76
+
 ---
 
-## 75366 — Lego 75366 Star Wars Kalendarz Adwentowy 2023 Lego Star Wars
+## 75366 — Star Wars Advent Calendar 2023
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 164.45 zł · EAN: 05702017417110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75366 |
+| Nazwa angielska | Star Wars Advent Calendar 2023 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417110 |
 
 LEGO 75366 STAR WARS - KALENDARZ ADWENTOWY 2023 LEGO STAR WARS
 
@@ -1143,11 +1755,27 @@ Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miej
 - Najwyższa jakość — klocki LEGO® spełniają wymagające standardy jakości, dzięki czemu za każdym razem łączą się łatwo i mocno trzymają
 - Bezpieczeństwo gwarantowane — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 75366-1: https://a.allegroimg.com/original/117b3f/239fce544f0794da21844ad7875d
+
 ---
 
-## 75395 — Lego Star Wars 75395 Kalendarz adwentowy na 2024 rok
+## 75395 — Star Wars Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 199.98 zł · EAN: 05702017583426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75395 |
+| Nazwa angielska | Star Wars Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583426 |
 
 LEGO Star Wars
 
@@ -1199,11 +1827,26 @@ Specyfikacja zestawu:
 
 - **Ilość minifigurek:** 6
 
+**Galeria:**
+
+- 75395-1: https://a.allegroimg.com/original/11e478/941b07c847d2b73609786ac4bfba
+
 ---
 
-## 75418 — Lego Star Wars 75418 Kalendarz adwentowy na 2025 rok
+## 75418 — Star Wars Advent Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 131.90 zł · EAN: 05702017816906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75418 |
+| Nazwa angielska | Star Wars Advent Calendar 2025 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 263 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816906 |
 
 Klocki LEGO Star Wars 75418 Kalendarz adwentowy 2025
 
@@ -1248,11 +1891,27 @@ Specyfikacja techniczna:
 - **Zainteresowania**: Pojazdy; Kosmos
 - **Kod produktu**: LEGO Star Wars 75418 Kalendarz adwentowy na 2025 rok | 75418 | [*(001331755)*]
 
+**Galeria:**
+
+- 75418-1: https://a.allegroimg.com/original/11eba6/d4ced1694adcbd7706870c38e484
+
 ---
 
-## 7553 — LEGO7553 City Kalendarz adwentowy
+## 7553 — City Advent Calendar 2011
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702014730403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7553 |
+| Nazwa angielska | City Advent Calendar 2011 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014730403 |
 
 Zestaw zawiera 232 elementy.
  
@@ -1273,11 +1932,27 @@ Dwa większe modele w tym zestawie to posterunek policji oraz wóz policyjny. El
 
 Akcesoria obejmują choinkę świąteczną, figurki psa i ryby, 4 pudełka prezentowe, 2 sztabki złota, skuter śnieżny, katapultę z kulami do miotania, toporek, wędkę, kajdanki, i kość dla psa.
 
+**Galeria:**
+
+- 7553-1: https://a.allegroimg.com/original/11c3ee/8a735a6d4a39a33d7fa461a12eac
+
 ---
 
-## 75964 — Klocki Lego Harry Potter 75964 Kalendarz Adwentowy na Święta 2019 r
+## 75964 — Harry Potter Advent Calendar 2019
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 215.90 zł · EAN: 05702016604108 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75964 |
+| Nazwa angielska | Harry Potter Advent Calendar 2019 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016604108 |
 
 LEGO Harry Potter 75964 Kalendarz Adwentowy Klocki Prezent na Święta 2019 r
 
@@ -1298,11 +1973,26 @@ Magiczny zestaw 75964 Kalendarz adwentowy z serii LEGO® Harry Potter™ zaprasz
 - Wśród modeli znajdziesz miniaturkę Ekspresu do Hogwartu™, świątecznie udekorowany kominek z klocków, stół z Wielkiej Sali wraz z akcesoriami oraz cokół posągu z herbami czterech domów. 
 - 24 upominki zachęcą dzieci do wymyślania magicznych opowieści i odgrywania świątecznych scenek z filmów o Harrym Potterze™.
 
+**Galeria:**
+
+- 75964-1: https://a.allegroimg.com/original/032536/6962e6954494a4dbfd4fb2a4a591
+
 ---
 
-## 75981 — 75981 Lego Harry Potter Kalendarz Adwentowy Klocki Zestaw
+## 75981 — Harry Potter Advent Calendar 2020
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 185.88 zł · EAN: 05053014255688 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75981 |
+| Nazwa angielska | Harry Potter Advent Calendar 2020 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 335 |
+| Cena katalogowa | 139.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5053014255688, 5702016831276 |
 
 LEGO HARRY POTTER KALENDARZ ADWENTOWY 75981
 
@@ -1324,11 +2014,28 @@ LEGO HARRY POTTER KALENDARZ ADWENTOWY 75981
  
 Znasz dziecko, które z radością odlicza dni do Świąt? Podaruj mu zestaw **LEGO® Harry Potter Kalendarz Adwentowy 2023 (75981)**, który aż kipi od realistycznych detali. Trudno o lepszy prezent dla fanów **klocków** **Lego!**
 
+**Galeria:**
+
+- 75981-1: https://a.allegroimg.com/original/1132db/ad73bcce4ab9bd4a22b6c1c521bd
+- 75981-2: https://a.allegroimg.com/original/002514/13dff18b483d9a0d8c49e0287fd1
+
 ---
 
-## 76196 — Kalendarz adwentowy Lego Heroes Avengers 2022 Klocki 76196
+## 76196 — Marvel The Avengers Advent Calendar 2021
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 249.90 zł · EAN: 05702016912425 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76196 |
+| Nazwa angielska | Marvel The Avengers Advent Calendar 2021 |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912425 |
 
 Kalendarz adwentowy LEGO Avengers 76196
 
@@ -1355,11 +2062,26 @@ Dzieci mogą połączyć tę kolekcję niesamowitych zabawek konstrukcyjnych z i
 
 Kalendarze są nowe, fabrycznie zaplombowane. Z racji wieku, opakowania mogą posiadać niewielkie ślady przechowywania.
 
+**Galeria:**
+
+- 76196-1: https://a.allegroimg.com/original/250981/4f8bd86b41f6a9c613374f9ed510
+
 ---
 
-## 76231 — Lego Marvel Heroes Kalendarz Adwentowy 76231
+## 76231 — Guardians of the Galaxy Advent Calendar 2022
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017154428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76231 |
+| Nazwa angielska | Guardians of the Galaxy Advent Calendar 2022 |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 268 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154428 |
 
 LEGO MARVEL SUPER HEROES Kalendarz Adwentowy 76231
 
@@ -1379,11 +2101,27 @@ Minimodele — modele do zbudowania obejmują drona, blaster, statek Strażnikó
 
 Nieskończone możliwości — gdy nadejdzie wielki dzień, dzieci mogą połączyć prezenty, by odtworzyć ulubione sceny z filmów lub wymyślać nowe przygody z uniwersum Marvela
 
+**Galeria:**
+
+- 76231-1: https://a.allegroimg.com/original/11a071/d5ee20204eb9b1c908f71e2f64fc
+
 ---
 
-## 76267 — Lego Kalendarz adwentowy Marvel Avengers 76267
+## 76267 — Avengers Advent Calendar 2023
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702017419848 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76267 |
+| Nazwa angielska | Avengers Advent Calendar 2023 |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419848 |
 
 LEGO Super Heroes Kalendarz adwentowy 76267
 
@@ -1402,21 +2140,53 @@ Zorganizuj młodemu superbohaterowi wyjątkowe oczekiwanie na święta dzięki k
 - Kompatybilne z innymi zestawami LEGO(R) - prezenty zawarte w kalendarzu można z łatwością połączyć z innymi zabawkami z serii LEGO Marvel. 
 - Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76267-1: https://a.allegroimg.com/original/0534dc/8321e9d34a13b8d9ba31183263fc
+
 ---
 
-## 76293 — Lego Marvel Spider-Man Kalendarz adwentowy 2024 rok 76293
+## 76293 — Spider-Man Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702017590035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76293 |
+| Nazwa angielska | Spider-Man Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590035 |
 
 Spider-Man Kalendarz adwentowy 2024
 
 Marvel Spider-Man Kalendarz adwentowy 2024 LEGO® Marvel Spider-Man Kalendarz adwentowy 2024 LEGO® Marvel Spider-Man Kalendarz adwentowy 2024 76293 Dzięki kalendarzowi adwentowemu LEGO® Spider-Man na rok 2024 dzieci mogą codziennie odkrywać kolejne modele superbohaterów i minifigurki do zbudowania. Kalendarz adwentowy z modelami ze Spider-Mana dla dzieci Młodzi fani Marvela mogą rozpocząć odliczanie do świąt we wspaniałym stylu dzięki kalendarzowi adwentowemu LEGO® Spider-Man na 2024 rok (76293). Ten zestaw pełen fajnych modeli superbohaterów do zbudowania i minifigurek LEGO® Marvel Spider-Man to idealny prezent świąteczny dla chłopców i dziewczynek w wieku od siedmiu lat. Zabawa rozpocznie się 1 grudnia i będzie trwała jeszcze długo po otwarciu ostatnich drzwiczek!Za każdymi z 24 drzwiczek kryje się prezent, który dzieci będą mogły odkryć w kolejnym dniu przygotowań do świąt. W zestawie jest pięć minifigurek — Spider-Man, Zielony Goblin, Miles Morales, Ghost-Spider i Venom — a także minimodele i akcesoria, które dzieci znają ze scen z filmów o Spider-Manie rozgrywających się na ulicach Nowego Jorku. Należą do nich zimowy Spider-Ham, biurko Petera Parkera i choinka Electro. W zestawie są także dwa małe samochody, którymi można się ze sobą ścigać, oraz strzelająca prezentami katapulta Sandmana! Gdy nadejdzie ten wielki dzień, dzieci mogą połączyć wszystkie prezenty i odegrać własne, nieskończone przygody. Rozpocznij święta w stylu superbohaterów dzięki kalendarzowi adwentowemu LEGO® Marvel Spider-Man na rok 2024. Codziennie otwieraj kolejne drzwiczki, aby odkryć niespodziankę ze świata Spider-Mana. Znajdziesz tam pięć minifigurek, mnóstwo minimodeli, fajne akcesoria i niekończącą się zimową zabawę. Gdy nadejdzie ten wielki dzień, połącz prezenty, aby odtworzyć ulubione sceny z filmów i przygody z uniwersum Marvela. • Kalendarz adwentowy dla dzieci z superbohaterami — kalendarz adwentowy LEGO® Spider-Man na rok 2024 z 24 niespodziankami dla chłopców i dziewczynek w wieku od siedmiu lat • Małe zabawki do zbudowania – modele do zbudowania znane z rozgrywających się na ulicach Nowego Jorku scen z filmów o Spider-Manie, w tym zimowy Spider-Ham, wózek z hot dogami i choinka Electro • Minifigurki i nie tylko – w zestawie są minifigurki Spider-Mana, Zielonego Goblina, Milesa Moralesa i Venoma, a także dwa małe samochody, katapulta Sandmana i inne ciekawe upominki • Pomysłowe odgrywanie ról – gdy nadejdzie wielki dzień, dzieci mogą połączyć prezenty, aby odtwarzać sceny z filmów o Spider-Manie i wymyślać własne przygody z superbohaterami • Pomysł na prezent świąteczny — kalendarz adwentowy LEGO® Marvel Spider-Man na rok 2024 zawiera 24 niespodzianki i zachęca do zabawy z superbohaterami, która będzie trwać długo po otwarciu ostatnich drzwiczek • Kompatybilne z innymi zestawami LEGO® – prezenty z kalendarza można łączyć z innymi zabawkami z serii LEGO Marvel • Seria LEGO® Marvel — rozbudowana seria zabawek konstrukcyjnych i figurek LEGO® Marvel zapewnia dzieciom nieskończenie wiele możliwości zabawy • 24 dni pełne niespodzianek – odliczaj dni do świąt w pajęczym stylu dzięki temu 246-elementowemu kalendarzowi adwentowemu • Kalendarz adwentowy z 24 prezentami ze świata Spider-Mana dla dzieci w wieku od siedmiu lat • Minimodele obejmują zimowego Spider-Hama, wózek z hot dogami i choinkę Electro • Minifigurki Spider-Mana, Zielonego Goblina, Milesa Moralesa, Ghost-Spidera i Venoma • Dzieci mogą łączyć prezenty, aby odgrywać scenki z filmów i własne przygody • Pomysł na prezent świąteczny, który bawi jeszcze długo po otwarciu ostatnich drzwiczek • Prezenty z kalendarza łączą się z innymi zestawami LEGO® Marvel, sprzedawanymi osobno • Zestawy LEGO® Marvel gwarantują nieskończone możliwości twórczej zabawy • Spraw, by te święta były wyjątkowe dzięki 24 niespodziankom ze świata Spider-Mana
 
+**Galeria:**
+
+- 76293-1: https://a.allegroimg.com/original/2912cb/6a2a4f754edfab59e383f618ecf1
+
 ---
 
-## 76390 — Lego Kalendarz adwentowy Harry Potter 76390
+## 76390 — Harry Potter Advent Calendar 2021
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 254.85 zł · EAN: 05702016913804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76390 |
+| Nazwa angielska | Harry Potter Advent Calendar 2021 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913804 |
 
 LEGO HARRY POTTER
 
@@ -1461,11 +2231,26 @@ SPECYFIKACJA:
 - **Płeć dziecka:** Chłopcy i Dziewczynki
 - **Ilość elementów:** 274
 
+**Galeria:**
+
+- 76390-1: https://a.allegroimg.com/original/11b690/12719dfd4ace8e9119b6571af7b7
+
 ---
 
-## 76404 — Lego 76404 Harry Potter Kalendarz adwentowy 2022
+## 76404 — Harry Potter Advent Calendar 2022
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 148.00 zł · EAN: 05702017152325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76404 |
+| Nazwa angielska | Harry Potter Advent Calendar 2022 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 334 |
+| Cena katalogowa | 159.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017152325 |
 
 ZESTAW FABRYCZNIE ZAPLOMBOWANY.
 
@@ -1491,11 +2276,26 @@ Odliczaj dni do Gwiazdki z Harrym Potterem™ i spraw, by każdy dzień był mag
 - Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli™ uwielbiane postacie, znane miejsca i magiczne przygody 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76404-1: https://a.allegroimg.com/original/05a6fe/9e64ef7242418ff338042d388e84
+
 ---
 
-## 76418 — Lego Harry Potter 76418 Kalendarz adwentowy
+## 76418 — Harry Potter Advent Calendar 2023
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 192.99 zł · EAN: 05702017417080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76418 |
+| Nazwa angielska | Harry Potter Advent Calendar 2023 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 227 |
+| Cena katalogowa | 174.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017417080 |
 
 LEGO Harry Potter 76418 Kalendarz adwentowy
 
@@ -1523,21 +2323,52 @@ Minifigurki i modele do zbudowania z tego świątecznego kalendarza można łąc
 
 5702017417080
 
+**Galeria:**
+
+- 76418-1: https://a.allegroimg.com/original/11e719/53b3ff694b28982572f3a25303df
+
 ---
 
-## 76438 — Lego Harry Potter Kalendarz adwentowy 76438
+## 76438 — Harry Potter Advent Calendar 2024
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702017582993 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76438 |
+| Nazwa angielska | Harry Potter Advent Calendar 2024 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017582993 |
 
 Kalendarz adwentowy 2024
 
 Harry Potter™ Kalendarz adwentowy 2024 Kalendarz adwentowy LEGO® Harry Potter™ 2024 Zestaw Kalendarz adwentowy LEGO® Harry Potter™ 2024 76438 Kalendarz adwentowy LEGO® Harry Potter™ jest pełen świątecznych zabawek nawiązujących do każdego z domów: Gryffindoru™, Slytherinu™, Hufflepuffu™ i Ravenclawu™. Czarujący prezent świąteczny inspirujący do samodzielnej zabawy Dzięki fantastycznemu zestawowi dla dzieci Kalendarz adwentowy LEGO® Harry Potter™ 2024 (76438) każdy dzień poprzedzający Boże Narodzenie przynosi kolejną magiczną przygodę w Hogwarcie™.Dzieci odkryją minimodele LEGO Harry Potter związane z czterema domami Hogwartu, w tym gargulca i świąteczny stół dla każdego z domów: Gryffindoru™, Slytherinu™, Hufflepuffu™ i Ravenclawu™. W zestawie są także dwa z 14 kolekcjonerskich portretów Hogwartu, choinka, świąteczne upominki, pociąg ekspres do Hogwartu i wiele innych. W kalendarzu znajdziesz również siedem minifigurek LEGO Harry Potter do odgrywania ról, w tym Harry'ego Pottera, Susan Bones i profesora Flitwicka, a także figurkę Hedwigi™.Jeśli szukasz pomysłu na prezent bożonarodzeniowy nawiązujący do Harry'ego Pottera dla dzieci w wieku od siedmiu lat, to ten magiczny kalendarz zainspiruje je do samodzielnej lub grupowej zabawy w okresie świątecznym. Minifigurki i modele do zbudowania zawarte w tym kalendarzu można dodać do Wielkiej Sali z zestawu 76435. Za każdymi drzwiczkami kalendarza adwentowego LEGO® Harry Potter™ 2024 kryje się prezent bożonarodzeniowy prosto z Hogwartu. Odkryj świąteczne minimodele każdego z domów: Gryffindoru™, Slytherinu™, Hufflepuffu™ i Ravenclawu™. Wypatruj też innych kultowych przedmiotów z Hogwartu, ozdób choinkowych i minifigurek swoich ulubionych postaci. Każdego dnia znajdziesz coś nowego, aby stworzyć jeszcze więcej magicznych historii! • Świąteczna zabawka ze świata Harry'ego Pottera™ — zapewnij dzieciom magiczne budowanie każdego dnia w okresie poprzedzającym Boże Narodzenie dzięki zestawowi Kalendarz adwentowy LEGO® Harry Potter™ 2024 • Zestaw zawiera osiem postaci LEGO® Harry Potter™ — minifigurki Harry'ego Pottera, Susan Bones, Cho Chang™, Draco Malfoya™, Albusa Dumbledore'a™, profesora Flitwicka i ducha kolędniczki, a także figurkę Hedwigi™ • 16 minimodeli — stół, świąteczne akcesoria i gargulec dla każdego z czterech domów w Hogwarcie™, dwa z 14 kolekcjonerskich portretów Hogwartu, stół nauczycieli, pociąg ekspres do Hogwartu i inne świąteczne elementy • Czarodziejskie modele LEGO® Harry Potter™ — minifigurki i modele do zbudowania zawarte w tym kalendarzu można dodać do zestawu LEGO Harry Potter 76435 z Wielką Salą • Pomysł na prezent bożonarodzeniowy dla dzieci w wieku od siedmiu lat — podaruj ten 301-elementowy kalendarz jako prezent świąteczny, aby dzieci mogły odtworzyć pierwsze święta Bożego Narodzenia Harry'ego Pottera w Hogwarcie™ w stylu LEGO® • Ilustrowane instrukcje — za każdymi drzwiczkami kalendarza adwentowego oraz w aplikacji LEGO® Builder kryją się proste instrukcje obrazkowe do budowania modeli • Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli™ uwielbiane postacie, znane miejsca i magiczne przygody • Kalendarz adwentowy z domami Hogwartu dla fanów Harry’ego Pottera™ • Siedem minifigurek LEGO® Harry Potter™ oraz figurka Hedwigi™ • 16 minimodeli, w tym świąteczne akcesoria nawiązujące do czterech domów Hogwartu • Minifigurki i modele można dodać do Wielkiej Sali z zestawu 76435 • Prezent gwiazdkowy dla dzieci w wieku od siedmiu lat • Za każdymi drzwiczkami i w aplikacji LEGO® Builder znajdują się instrukcje budowania • Zestaw należy do bogatej serii LEGO® Harry Potter™
 
+**Galeria:**
+
+- 76438-1: https://a.allegroimg.com/original/057ec4/2d24449945f8898c7e867c21b136
+
 ---
 
-## 76456 — Lego Harry Potter 76456 Kalendarz adwentowy
+## 76456 — Harry Potter Advent  Calendar 2025
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702017812397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76456 |
+| Nazwa angielska | Harry Potter Advent  Calendar 2025 |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 278 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812397 |
 
 LEGO Harry Potter 76456 Kalendarz adwentowy
 
@@ -1561,19 +2392,51 @@ Ten kalendarz adwentowy wypełniony jest minifigurkami LEGO® Harry Potter™ i 
 
 • Zestaw należy do bogatej serii LEGO® Harry Potter™
 
+**Galeria:**
+
+- 76456-1: https://a.allegroimg.com/original/2965b5/9b5fa52f4bc69881afee4b4d4b7f
+
 ---
 
-## 7687 — Lego City 7687 Kalendarz adwentowy
+## 7687 — City Advent Calendar 2009
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 255.00 zł · EAN: 05702014534568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7687 |
+| Nazwa angielska | City Advent Calendar 2009 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534568 |
 
 Zestaw klocków LEGO City 7687 Kalendarz adwentowy został zaprezentowany w 2009 roku i składa się z 257 klocków LEGO®. W zestawie klocków znajdziesz jeszcze 9 minifigurek. Zestaw klocków przeznaczony jest dla dzieci od 5 roku życia.
 
+**Galeria:**
+
+- 7687-1: https://a.allegroimg.com/original/118145/9a5f3e3f405d849f19c590c53851
+
 ---
 
-## 7724 — Lego 7724 City Kalendarz adwentowy
+## 7724 — City Advent Calendar 2008
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 288.00 zł · EAN: 05702014517356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7724 |
+| Nazwa angielska | City Advent Calendar 2008 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517356 |
 
 - **Nazwa polska:** LEGO 7724 Kalendarz adwentowy
 - **Nazwa oryginalna:** LEGO 7724 Advent Calendar
@@ -1587,11 +2450,27 @@ Zestaw klocków LEGO City 7687 Kalendarz adwentowy został zaprezentowany w 20
 - **Rok prezentacji:** 2008
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 7724-1: https://a.allegroimg.com/original/11f64a/6ea3e4804cd5b82b562392894f45
+
 ---
 
-## 7904 — Lego City 7904 City Advent Calendar 2006
+## 7904 — City Advent Calendar 2006
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702014469914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7904 |
+| Nazwa angielska | City Advent Calendar 2006 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469914 |
 
 Zestaw zawiera 257 elementów.
 
@@ -1611,11 +2490,27 @@ W komplecie znajdziemy 9 minifigurek, przy czym 5 pierwszych na liście poniżej
 - pani doktor
 - policjant
 
+**Galeria:**
+
+- 7904-1: https://a.allegroimg.com/original/116fbd/feeeaf324b3eab6ea6e0de0fb2a8
+
 ---
 
-## 7907 — Lego 7907 City Kalendarz adwentowy
+## 7907 — City Advent Calendar 2007
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702014499102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7907 |
+| Nazwa angielska | City Advent Calendar 2007 |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499102 |
 
 - **Numer:** LEGO 7907
 - **Seria:** LEGO City
@@ -1624,11 +2519,27 @@ W komplecie znajdziemy 9 minifigurek, przy czym 5 pierwszych na liście poniżej
 - **Rok prezentacji:** 2007
 - Zestaw klocków LEGO 7907 Kalendarz adwentowy został pokazany w 2007 roku i zbudowany jest z 232 klocków LEGO®. W klockach znajdziesz jeszcze 8 minifigurek. Zestaw klocków przeznaczony jest dla dzieci powyżej 5 roku życia.
 
+**Galeria:**
+
+- 7907-1: https://a.allegroimg.com/original/11a493/9a524d584e1593f9b928d66c611a
+
 ---
 
-## 7958 — Lego Star Wars Boba Fett's Slave I 7958 kalendarz adwentowy
+## 7958 — Star Wars Advent Calendar 2011
 
-*Kategoria: Kalendarze adwentowe · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014734418 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7958 |
+| Nazwa angielska | Star Wars Advent Calendar 2011 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 266 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734418 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1651,6 +2562,10 @@ W komplecie znajdziemy 9 minifigurek, przy czym 5 pierwszych na liście poniżej
 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
+
+**Galeria:**
+
+- 7958-1: https://a.allegroimg.com/original/111357/dd373b144c02b95addb431234e36
 
 ---
 

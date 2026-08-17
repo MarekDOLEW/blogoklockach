@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Ninjago — opisy produktowe (282 pozycji)
+# LEGO Ninjago — opisy produktowe (281 pozycji)
 
-## 2115 — nowy Lego Ninjago Bonezai blister pack 2115 Misb 2011 Bedoes Gang
+## 2115 — Bonezai blister pack
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702014734456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2115 |
+| Nazwa angielska | Bonezai |
+| Nazwa polska | Bonezai blister pack |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734456 |
 
 Cześć!
 
@@ -29,22 +40,54 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2115-1: https://a.allegroimg.com/original/11ebd2/76c0e06a4433a4bf7db88ab4cfee
+
 ---
 
-## 2116 — Lego Ninjago Krazi 2116
+## 2116 — Krazi
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014734463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2116 |
+| Nazwa angielska | Krazi |
+| Nazwa polska | Krazi |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734463 |
 
 **Cechy produktu:**
 
 - **Autentyczne zdjęcia produktu zostały wykonane przez nas, abyś miał pełną świadomość w jakim stanie znajduje się kupowany przez Ciebie produkt.**
 - **Idealny prezent dla miłośników klocków LEGO w każdym wieku.**
 
+**Galeria:**
+
+- 2116-1: https://a.allegroimg.com/original/113e37/c9b9fdc74bbd9b72a035e4767057
+
 ---
 
-## 2518 — Lego Ninjago 2518 Quad Nuckala 2518
+## 2518 — LEGO Ninjago 2518 Quad Nuckala
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014734685 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2518 |
+| Nazwa angielska | Nuckal's ATV |
+| Nazwa polska | LEGO Ninjago 2518 Quad Nuckala |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734685 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -68,11 +111,27 @@ Pozdrawiam.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 2518-1: https://a.allegroimg.com/original/11fb89/69b33d2e4498a960bce599deb0e1
+
 ---
 
-## 30292 — Lego Ninjago Nanorobot Jay 30292
+## 30292 — Nanorobot Jay
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702015356091 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30292 |
+| Nazwa angielska | Jay Nano Mech |
+| Nazwa polska | Nanorobot Jay |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356091 |
 
 **LEGO zestaw  - polybag**
 
@@ -92,11 +151,27 @@ Pozdrawiam.
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 30292-1: https://a.allegroimg.com/original/11236f/38c3516c493b98f8c6048b3225a9
+
 ---
 
-## 30293 — Lego Ninjago 30293 Ślizgacz Kai saszetka z klockami model wycofany
+## 30293 — Ślizgacz Kai
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015356107 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30293 |
+| Nazwa angielska | Kai Drifter |
+| Nazwa polska | Ślizgacz Kai |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356107 |
 
 Witam
 
@@ -112,11 +187,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30293-1: https://a.allegroimg.com/original/111b86/1c360bb5471f9a3123f4ae136efe
+
 ---
 
-## 30294 — Lego Ninjago 30294 Smok Cowlera saszetka z klockami minifigurka unikat
+## 30294 — Smok Cowlera
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 225.00 zł · EAN: 00673419238052 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30294 |
+| Nazwa angielska | The Cowler Dragon |
+| Nazwa polska | Smok Cowlera |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419238052 |
 
 Witam
 
@@ -132,11 +223,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30294-1: https://a.allegroimg.com/original/119c36/09f1fbfd42138fde423918bbb95a
+
 ---
 
-## 30379 — Lego Ninjago 30379 Mech wstrząsu saszetka z klockami
+## 30379 — Mech Wstrząsu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 40.99 zł · EAN: 05702015876964 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30379 |
+| Nazwa angielska | Quake Mech Micro Build |
+| Nazwa polska | Mech Wstrząsu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876964 |
 
 Witam
 
@@ -150,11 +256,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30379-1: https://a.allegroimg.com/original/113747/af303918404997e003b49bfe4a7f
+
 ---
 
-## 30421 — Lego Ninjago 30421 Skybound Plane Samolot Piracki Bucko saszetka klocki
+## 30421 — Skybound Plane
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015608725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30421 |
+| Nazwa angielska | Skybound Plane |
+| Nazwa polska | Skybound Plane |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608725 |
 
 Zestaw został wydany w woreczku polietylenowym.
 
@@ -172,11 +294,27 @@ Rafał
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 30421-1: https://a.allegroimg.com/original/1127f4/2e7d87494dfda617612b63e04ab6
+
 ---
 
-## 30422 — Lego Ninjago 30422 Mini smok Kai'a Polybag Unikat 2018
+## 30422 — LEGO Ninjago 30422 Ninjago Mini smok Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 118.88 zł · EAN: 05702015608732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30422 |
+| Nazwa angielska | Kai's Mini Dragon |
+| Nazwa polska | LEGO Ninjago 30422 Ninjago Mini smok Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608732 |
 
 LEGO 30422 Ninjago - Minismok Kaia
 
@@ -186,11 +324,27 @@ Zawiera 39 klocków. W modelu znajdziesz też minifigurkę Kaia.
 
 Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30422-1: https://a.allegroimg.com/original/119ecc/88c94cc94d978017ccb21f6b966e
+
 ---
 
-## 30426 — Lego Ninjago 30426 Bagienny Poduszkowiec saszetka klocki model wycofany
+## 30426 — Bagienny Poduszkowiec
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015876971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30426 |
+| Nazwa angielska | Stealthy Swamp Airboat |
+| Nazwa polska | Bagienny Poduszkowiec |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876971 |
 
 Witam
 
@@ -206,11 +360,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30426-1: https://a.allegroimg.com/original/11209d/cb8aa0bd4da0a3639bf55a984583
+
 ---
 
-## 30427 — Lego Ninjago 30427 Lodowy Czołg saszetka z klockami
+## 30427 — Zestaw
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702015876988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30427 |
+| Nazwa angielska | Ice Tank |
+| Nazwa polska | Zestaw |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876988 |
 
 **Ice Tank polybag 30427- nowy**
 
@@ -230,11 +399,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30427-1: https://a.allegroimg.com/original/03b07c/81efbe454a5ca0ddb0631ba015bb
+
 ---
 
-## 30428 — Lego Ninjago 30428 Green Ninja Mech Dragon saszetka klocki minifigurka
+## 30428 — Green Ninja Mech Dragon
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015876995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30428 |
+| Nazwa angielska | Green Ninja Mech Dragon |
+| Nazwa polska | Green Ninja Mech Dragon |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876995 |
 
 Witam
 
@@ -250,11 +434,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30428-1: https://a.allegroimg.com/original/117675/5dec142641f0b8a0af554c9a962e
+
 ---
 
-## 30530 — Lego Ninjago 30530 Wu-cru Trening Celności saszetka z klockami minifigurka
+## 30530 — WU-CRU Target Training
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 42.00 zł · EAN: 05702016123234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30530 |
+| Nazwa angielska | WU-CRU Target Training |
+| Nazwa polska | WU-CRU Target Training |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123234 |
 
 Witam
 
@@ -274,21 +474,53 @@ Rafał
 
 **Zestaw zawiera 42 elementy w tym 2 minifigurki lego.**
 
+**Galeria:**
+
+- 30530-1: https://a.allegroimg.com/original/11fd61/ad8d24e843eb9e9e39eb443f8d6a
+
 ---
 
-## 30531 — Lego Ninjago 30531 Synowie Garmadona Polybag Unikat 2018
+## 30531 — Synowie Garmadona
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 88.88 zł · EAN: 05702016123241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30531 |
+| Nazwa angielska | Sons of Garmadon |
+| Nazwa polska | Synowie Garmadona |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123241 |
 
 Klocki LEGO Ninjago 30531 - Synowie Garmadona
 
 Zestaw LEGO Ninjago - Synowie Garmadona trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 30531. Zawiera 38 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Ninjago - Sons of Garmadon. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 30531-1: https://a.allegroimg.com/original/11822f/bce9b0b241b6a6b7e48ae97e4a9b
+
 ---
 
-## 30532 — Lego Ninjago Masters Of Spinjitzu 30532
+## 30532 — MASTERS
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 38.00 zł · EAN: 05702016123258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30532 |
+| Nazwa angielska | TURBO |
+| Nazwa polska | MASTERS |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123258 |
 
 LEGO NINJAGO
 
@@ -300,11 +532,27 @@ MASTERS OF SPINJITZU 30532
 
 **Edycja limitowana!**
 
+**Galeria:**
+
+- 30532-1: https://a.allegroimg.com/original/117bf6/86c52efb4813b261bce1c57b3bb4
+
 ---
 
-## 30536 — Lego Ninjago Legacy 30536 Rebooted Combo Charger 2W1
+## 30536 — LEGO 30536
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702016667783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30536 |
+| Nazwa angielska | Combo Charger |
+| Nazwa polska | LEGO 30536 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667783 |
 
 - **MARKA: LEGO**
 - **RODZAJ: NINJAGO: Legacy: Rebooted**
@@ -319,21 +567,53 @@ MASTERS OF SPINJITZU 30532
 
 W trosce o jakość obsługi naszych Klientów pakowanie i wysyłanie zamówionych produktów odbywa się pod nadzorem kamer z zapisem cyfrowy.
 
+**Galeria:**
+
+- 30536-1: https://a.allegroimg.com/original/11936a/9d5b51204b6c9a4347bd3a9c7f7d
+
 ---
 
-## 30537 — Lego Ninjago 30537 Awatar Jaya handlarz
+## 30537 — LEGO 30537 NINJAGO AWATAR JAYA - HANDLARZ
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 62.88 zł · EAN: 05702016667790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30537 |
+| Nazwa angielska | Merchant Avatar Jay |
+| Nazwa polska | LEGO 30537 NINJAGO AWATAR JAYA - HANDLARZ |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667790 |
 
 Klocki LEGO Ninjago 30537 - Awatar Jaya - handlarz
 
 Zestaw LEGO Ninjago - Awatar Jaya - handlarz trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 30537. Zawiera 46 klocków LEGO. W modelu znajdziesz też 1 minifigurkę. Nazwa zestawu w języku angielskim LEGO Ninjago - Merchant Avatar Jay. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30537-1: https://a.allegroimg.com/original/03a9c9/01d26a16472f80deac984a31f043
+
 ---
 
-## 30547 — Lego Ninjago 30547 Łowca smoków dragon hunter saszetka klocki
+## 30547 — Łowca smoków
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702016123265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30547 |
+| Nazwa angielska | Dragon Hunter |
+| Nazwa polska | Łowca smoków |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123265 |
 
 Witam
 
@@ -361,11 +641,27 @@ Cechy produktu:
 - Liczba elementów: 61
 - Certyfikaty, opinie, atesty: CE
 
+**Galeria:**
+
+- 30547-1: https://a.allegroimg.com/original/112baf/394067f74fb2b58def7805d4b34c
+
 ---
 
-## 30591 — Lego Ninjago Tytanowy mini Mech 30591 Saszetka Polybag
+## 30591 — Tytanowy mini Mech
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016914122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30591 |
+| Nazwa angielska | Titanium Mini Mech |
+| Nazwa polska | Tytanowy mini Mech |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914122 |
 
 Klocki Ninjago 30591 Tytanowy mini Mech
  
@@ -386,11 +682,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
  
 - **Kod ean:** 5702016914122
 
+**Galeria:**
+
+- 30591-1: https://a.allegroimg.com/original/11ec6f/fb0b0b1645ea8c9eb38e0c0eb82e
+
 ---
 
-## 30592 — Lego Ninjago 30592 Miniaturowy Piorunowy Pojazd
+## 30592 — MINIATUROWY PIORUNOWY POJAZD
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 12.79 zł · EAN: 05702017153513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30592 |
+| Nazwa angielska | Mini Thunder Raider |
+| Nazwa polska | MINIATUROWY PIORUNOWY POJAZD |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153513 |
 
 **LEGO NINJAGO 30592 MINIATUROWY PIORUNOWY POJAZD**
 
@@ -408,11 +720,27 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 30592-1: https://a.allegroimg.com/original/11014c/622a1924423993e0062a72e317de
+
 ---
 
-## 30593 — Lego Ninjago 30593 Mech w stroju Lloyda saszetka z klockami
+## 30593 — Lloyd Suit Mech
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 24.00 zł · EAN: 05702017153537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30593 |
+| Nazwa angielska | Lloyd Suit Mech |
+| Nazwa polska | Lloyd Suit Mech |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153537 |
 
 LEGO Klocki Ninjago 30593 Mech w stroju Lloyda
  
@@ -441,11 +769,26 @@ Rafał
 - **Liczba elementów:** 59 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30593-1: https://a.allegroimg.com/original/11a0bc/94a1dad14915bb992c6df5dc9e3d
+
 ---
 
-## 30608 — Lego Ninjago 30608 Minifigure Polybag Cole
+## 30608 — The Ninjago Movie Lloyd
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702015998291 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30608 |
+| Nazwa angielska | Kendo Lloyd |
+| Nazwa polska | The Ninjago Movie Lloyd |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015998291 |
 
 EGO® 30608 Ninjago Movie - Kendo Lloyd
 
@@ -461,11 +804,27 @@ Liczba minifigurek: 1
 
 Rok wydania: 2017
 
+**Galeria:**
+
+- 30608-1: https://a.allegroimg.com/original/11f6c3/93d05f8847c4a87a0404772559fd
+
 ---
 
-## 30649 — Lego Ninjago Lodowy smok 30649
+## 30649 — Lodowy smok
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 14.50 zł · EAN: 05702017421988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30649 |
+| Nazwa angielska | Ice Dragon Creature |
+| Nazwa polska | Lodowy smok |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421988 |
 
 **LEGO SERIA - ARTYKUŁY SZKOLNE**
 
@@ -501,11 +860,27 @@ Szczegółowy opis:
 
 **- WOREK LEGO JEST****NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 30649-1: https://a.allegroimg.com/original/11801e/bcc5224c4a988dfbea62a20a95b0
+
 ---
 
-## 30650 — Klocki Lego Ninjago Bitwa Kaia i Raptona
+## 30650 — Bitwa Kaia i Raptona w świątyni
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 10.41 zł · EAN: 05702017421995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30650 |
+| Nazwa angielska | Kai and Rapton's Temple Battle |
+| Nazwa polska | Bitwa Kaia i Raptona w świątyni |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421995 |
 
 LEGO Ninjago 30650 – Bitwa Kaia i Raptona w Świątyni (Polybag)
 
@@ -532,11 +907,27 @@ Przenieś się w sam środek akcji z serialu **NINJAGO® Dragons Rising**! Ten k
 
 **100% Oryginalne klocki LEGO | Kup teraz!**
 
+**Galeria:**
+
+- 30650-1: https://a.allegroimg.com/original/11b385/86c60ee04587b43fcedab452544d
+
 ---
 
-## 30674 — Lego Ninjago Smocza moc Zane’a pojazdy 30674
+## 30674 — LEGO Ninjago Smocza moc Zane’a - pojazdy 30674
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 14.89 zł · EAN: 05702017565569 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30674 |
+| Nazwa angielska | Zane's Dragon Power Vehicles |
+| Nazwa polska | LEGO Ninjago Smocza moc Zane’a - pojazdy 30674 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017565569 |
 
 Klocki Ninjago 30674 Smocza moc Zanea - pojazdy
 
@@ -596,11 +987,26 @@ Parametry
 - **seria**: Ninjago 
 - **Wymagania wiekowe**: od 7 lat
 
+**Galeria:**
+
+- 30674-1: https://a.allegroimg.com/original/11751d/c7dac8064e22b42c6adaa48dda9e
+
 ---
 
-## 30675 — Lego(r) Ninjago 30675 Turniejowy Teren Szkoleniowy Zestaw
+## 30675 — LEGO NINJAGO Turniejowy teren szkoleniowy 30675
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 8.89 zł · EAN: 05702017589176 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30675 |
+| Nazwa angielska | Tournament Training Ground |
+| Nazwa polska | LEGO NINJAGO Turniejowy teren szkoleniowy 30675 |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589176 |
 
 Lego
 
@@ -637,11 +1043,26 @@ LEGO(R) NINJAGO 30675 Turniejowy teren szkoleniowy
 
 **➡️LEGO Ninjago 30675 Turniejowy teren szkoleniowy** to doskonały wybór na prezent dla dzieci, które chcą rozwijać swoje umiejętności konstruktorskie i w pełni zanurzyć się w świecie Ninjago, tworząc pełne akcji treningi ninja!
 
+**Galeria:**
+
+- 30675-1: https://a.allegroimg.com/original/11051b/99a2a67248128dae20bc9e3ffe96
+
 ---
 
-## 30699 — Lego Ninjago Wielofunkcyjny minimech ninja 30699
+## 30699 — Wielofunkcyjny minimech ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 11.99 zł · EAN: 05702017818849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30699 |
+| Nazwa angielska | Mini Ninja Combo Mech |
+| Nazwa polska | Wielofunkcyjny minimech ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818849 |
 
 LEGO Ninjago Wielofunkcyjny minimech ninja 30699
 
@@ -649,11 +1070,26 @@ LEGO Ninjago Wielofunkcyjny minimech ninja 30699
 
 Miniwersja Wielofunkcyjnego ultramecha Zane’a (71834) jest ruchoma i ma skrzydła. Dzieci mogą przebudować ją na mikrowersje Zane’a, Riyu, odrzutowca i samochodu.
 
+**Galeria:**
+
+- 30699-1: https://a.allegroimg.com/original/05f271/419b921140a180faf67f4dabf4d4
+
 ---
 
-## 30700 — Lego Ninjago 30700 Bitwa Arina Z Dragonem- Lego
+## 30700 — Bitwa Arina z Dragonem
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 9.44 zł · EAN: 05702017818610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30700 |
+| Nazwa angielska | Arin vs. Dragonian Battle |
+| Nazwa polska | Bitwa Arina z Dragonem |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818610 |
 
 Lego
 
@@ -687,11 +1123,26 @@ Zestaw LEGO® Ninjago 30700 – Bitwa Arina z Dragonem to ekskluzywny model z se
 - **Rozwój kreatywności:** Zachęca do tworzenia własnych scenariuszy i rozwija wyobraźnię.
 - **Idealny prezent:** Świetny pomysł na prezent dla młodszych fanów LEGO® i Ninjago.
 
+**Galeria:**
+
+- 30700-1: https://a.allegroimg.com/original/11924a/b554b4a449f88a4a435ed537ad87
+
 ---
 
-## 30723 — Zestaw klocków Lego Ninjago Samochód ninja Cole’a 30723
+## 30723 — Minimodel TIE Advanced
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 11.00 zł · EAN: 05702018058077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30723 |
+| Nazwa angielska | Ninja Cole's Car |
+| Nazwa polska | Minimodel TIE Advanced |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058077 |
 
 W sprzedaży:
 
@@ -701,11 +1152,27 @@ Zestaw klocków LEGO Ninjago Samochód ninja Cole’a 30723
 
 Dzieci w wieku od sześciu lat mogą odgrywać wyścigi dzięki miniaturowej wersji superfajnego samochodu ninja, prowadzonego przez minifigurkę Cole'a uzbrojonego w złoty miecz.
 
+**Galeria:**
+
+- 30723-1: https://a.allegroimg.com/original/113b6d/04f5da7d4c4d8e843f0acfc52f80
+
 ---
 
-## 40315 — Lego Ninjago 40315 Temple Journay Board Game saszetka z klockami
+## 40315 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702016198379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40315 |
+| Nazwa angielska | Ninjago Temple Journey |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016198379 |
 
 Witam
 
@@ -721,11 +1188,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40315-1: https://a.allegroimg.com/original/119e6a/774db91946bda57a255c90dbba20
+
 ---
 
-## 40374 — Lego Ninjago 40374 Zestaw minifigurek plus złoty Zane nowy zestaw
+## 40374 — Ninjago
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 249.00 zł · EAN: 00673419320580 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40374 |
+| Nazwa angielska | Golden Zane Minifigure Accessory Set |
+| Nazwa polska | Ninjago |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320580 |
 
 Witam
 
@@ -741,19 +1224,50 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40374-1: https://a.allegroimg.com/original/1106d8/b1bb21ed4a0e8e30939ae2edd779
+
 ---
 
-## 40429 — Lego Ninjago World 40429
+## 40429 — Ninjago World
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 349.99 zł · EAN: 00673419326254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40429 |
+| Nazwa angielska | LEGOLAND Ninjago World |
+| Nazwa polska | Ninjago World |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 440 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419326254 |
 
 Zestaw klocków LEGO 40429 Świat NINJAGO® został pokazany w 2020 roku i zawiera 440 klocków LEGO®. W zestawie klocków znajdziesz również 4 minifigurki. Klocki przeznaczone są dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 40429-1: https://a.allegroimg.com/original/11283a/031bcd0443b98d297c8c8499f6a3
+
 ---
 
-## 40703 — Lego Zestaw Ninjago Mikro-miasto Ninjago 40703
+## 40703 — Mikro-miasto NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017597133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40703 |
+| Nazwa angielska | Micro NINJAGO City |
+| Nazwa polska | Mikro-miasto NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 339 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702017597133 |
 
 LEGO NINJAGO LIMITOWANE 40703
  
@@ -766,11 +1280,27 @@ Fani ninja w wieku od 10 lat mogą teraz zbudować własny model Miasta NINJAGO�
 - Modułowy model dla dzieci – dzieci mogą połączyć mikromiasto z trzema innymi zestawami (sprzedawanymi osobno), aby stworzyć małą wersję Miasta NINJAGO® 
 - Wymiary – model ma 16 cm wysokości, 10 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40703-1: https://a.allegroimg.com/original/11273c/e6d8a0c84b8bb1675c50c5b3dd40
+
 ---
 
-## 40704 — Lego Ninjago 40704 Doki mikro-miasta Ninjago
+## 40704 — Doki mikro-miasta NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702017597140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40704 |
+| Nazwa angielska | Micro NINJAGO Docks |
+| Nazwa polska | Doki mikro-miasta NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 275 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm × gł. 10 cm |
+| EAN | 5702017597140 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -783,11 +1313,27 @@ Fani ninja w wieku od 10 lat mogą teraz zbudować własny model doków Miasta N
 - Modułowy model – dzieci mogą połączyć mikromiasto z trzema innymi zestawami (sprzedawanymi osobno), w tym z zestawem Mikro-miasto NINJAGO® (40703), aby stworzyć małą wersję Miasta NINJAGO 
 - Wymiary – model ma 10 cm wysokości, 6 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 40704-1: https://a.allegroimg.com/original/116a07/41abc3884f4782aa23fe3b3b1b19
+
 ---
 
-## 40706 — Lego 40706 Ninjago Mikrorynek miejski Ninjago
+## 40706 — Mikrorynek miejski NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 114.50 zł · EAN: 05702017598734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40706 |
+| Nazwa angielska | Micro NINJAGO City Markets |
+| Nazwa polska | Mikrorynek miejski NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 7 cm |
+| EAN | 5702017598734 |
 
 Zapraszam do zakupu zestawu Lego z serii Ninjago:
 
@@ -810,11 +1356,27 @@ Dzięki temu szczegółowemu zestawowi fani ninja w wieku od 10 lat mogą zbudow
 - Prezent dla fanów NINJAGO® — ten zestaw zapewnia mnóstwo frajdy podczas budowania i zabawy. To także świetny pomysł na prezent dla dzieci, które lubią odgrywać różne przygody 
 - Wymiary — mikrorynek miejski ma 11 cm wysokości, 13 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40706-1: https://a.allegroimg.com/original/11d663/9e46091a45cb96769ffa8b917bb6
+
 ---
 
-## 5005230 — Lego Ninjago 5005230 Trening Kendo Zane saszetka kapsuła klocki minifigurka
+## 5005230 — Trening kendo Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 109.00 zł · EAN: 00673419286848 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005230 |
+| Nazwa angielska | Zane's Kendo Training Pod |
+| Nazwa polska | Trening kendo Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419286848 |
 
 Klocki LEGO Ninjago 5005230 - Trening kendo Zane'a
 
@@ -822,11 +1384,27 @@ Przygotuj się do walki dzięki przenośnej kapsule LEGO® NINJAGO® Trening ken
 
 Zestaw LEGO Ninjago - Trening kendo Zane'a trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 5005230. Zawiera 25 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Ninjago - Zane's Kendo Training Pod. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 5005230-1: https://a.allegroimg.com/original/111d35/4181e5024c5990e167f69511be01
+
 ---
 
-## 70588 — Lego Ninjago Samochód tytanowego ninja 70588
+## 70588 — Samochód tytanowego ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702015643405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70588 |
+| Nazwa angielska | Titanium Ninja Tumbler |
+| Nazwa polska | Samochód tytanowego ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 342 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702015643405 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -859,11 +1437,27 @@ Klocki LEGO Ninjago 70588 - Samochód tytanowego ninja
 - Wymiary Tumblera tytanowego ninja: 8 cm wysokości, 20 cm długości i 12 cm szerokości.
 - Wymiary odczepianego pojazdu latającego Zane'a: 8 cm długości, 8 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 70588-1: https://a.allegroimg.com/original/004f19/45d6a48f45dabeb307cf504d4194
+
 ---
 
-## 70589 — Lego 70589 Ninjago Pogromca Skał
+## 70589 — Pogromca Skał
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 680.00 zł · EAN: 05702015643412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70589 |
+| Nazwa angielska | Rock Roader |
+| Nazwa polska | Pogromca Skał |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 406 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015643412 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -873,11 +1467,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 70589-1: https://a.allegroimg.com/original/114adf/1a9bf9b34005b4c1306d1694c24d
+
 ---
 
-## 70591 — Lego Ninjago 70591 Ucieczka z więzienia Kryptarium
+## 70591 — LEGO 70591 - Ucieczka z więzienia Kryptarium
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 467.97 zł · EAN: 05702015643436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70591 |
+| Nazwa angielska | Kryptarium Prison Breakout |
+| Nazwa polska | LEGO 70591 - Ucieczka z więzienia Kryptarium |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 23 cm × gł. 9 cm |
+| EAN | 5702015643436 |
 
 LEGO Ninjago 70591 - Ucieczka z więzienia Kryptarium
 
@@ -927,11 +1537,27 @@ LEGO® 70591 Ninjago - Ucieczka z więzienia Kryptarium
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 70591-1: https://a.allegroimg.com/original/115352/db99104546298bbc289c2f229719
+
 ---
 
-## 70592 — Lego Ninjago Mech Ronina 70592
+## 70592 — Mech Ronina
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 474.99 zł · EAN: 05702015643443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70592 |
+| Nazwa angielska | Salvage M.E.C. |
+| Nazwa polska | Mech Ronina |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 439 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 21 cm |
+| EAN | 5702015643443 |
 
 Posadź Ronina w otwieranej kabinie jego mecha i szykujcie się do bitwy. To doskonalą maszyna dla łowców nagród, silnie uzbrojona i wyposażona w specjalny schowek na kradzione przedmioty. Odpal sprężynowe działko ukryte w złotym luku i unikaj ataków mrocznych ostrzy mecha Szkieletów. Unieruchom wojowników Szkieletów strzałem z miotacza sieci, po czym odczep deskorolkę lub pojazd latający i uciekaj z lupę! Rozegraj pojedynek o lupy miedzy mechem zbierającym sprzęt a mechem Szkieletów! Rozegraj pojedynek miedzy mechem Szkieletów a mechem zbierającym sprzęt, wyposażonym w działko sprężynowe, miotacz sieci, odłączany pojazd ucieczkowy i deskorolkę. W zestawie 4 minifigurki. Szykuj się do bitwy mechów: po jednej stronie łowca nagród Ronin i Nya, a po drugiej wojownicy Szkieletów. Ustawiany na różne sposoby mech Ronina ma zloty luk z działkiem sprężynowym, miotacz sieci, karabin i schowek na skradzione lupy i amunicje. Ustawiany mech Szkieletów jest uzbrojony w 2 srebrne mroczne ostrza, a w zestawie jest tez mnóstwo innej broni dla minifigurek, w tym obosieczny topór szkieletowy Kraziego. Odłącz deskorolkę lub pojazd latający od mecha zbierającego sprzęt Ronina, by pomóc mu w ucieczce. W zestawie 4 minifigurki.
 
@@ -946,11 +1572,27 @@ Posadź Ronina w otwieranej kabinie jego mecha i szykujcie się do bitwy. To dos
 - Wymiary pojazdu Ronina: 3 cm wysokości, 8 cm długości i 7 cm szerokości.
 - Wymiary mecha Szkieletów: 8 cm wysokości, 3 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 70592-1: https://a.allegroimg.com/original/119b9c/2d98104e4fbd96d5a058e37b3814
+
 ---
 
-## 70593 — Klocki Lego Ninjago Zestaw Zielony smok Nrg Green Dragon 70593
+## 70593 — Klocki LEGO Ninjago 70593 Zielony smok NRG
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 669.00 zł · EAN: 05702015643450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70593 |
+| Nazwa angielska | The Green NRG Dragon |
+| Nazwa polska | Klocki LEGO Ninjago 70593 Zielony smok NRG |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 567 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 21 cm |
+| EAN | 5702015643450 |
 
 Zaatakuj strażnicę podniebnych piratów na zielonym smoku NRG zielonego ninja Lloyda. Smok ma rozkładane skrzydła z materiału z nadrukiem zakończone szpikulcami oraz rozwidlony ogon z 2 miotaczami klocków, a do tego można go dowolnie ustawiać. Duch Cole'a pomaga Lloydowi w walce z podniebnymi piratami: Bucko, Cyrenem i Bitewnym Dublonem, uzbrojonymi w miecz podniebnych piratów, miecz, włócznię, Ostrze Dżina i przenośną katapultę, by potyczka nabrała rumieńców. W zestawie 5 minifigurek.
 
@@ -967,11 +1609,27 @@ Zaatakuj strażnicę podniebnych piratów na zielonym smoku NRG zielonego ninja 
 - Wymiary katapulty podniebnych piratów: 10 cm wysokości, 13 cm długości i 11 cm szerokości. 
 - Wymiary strażnicy podniebnych piratów: 12 cm wysokości, 5 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 70593-1: https://a.allegroimg.com/original/057d07/a76acc864f8cb14202cc67a55349
+
 ---
 
-## 70594 — Lego Ninjago 70594 Bitwa O Latarnie
+## 70594 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1699.00 zł · EAN: 05702015643467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70594 |
+| Nazwa angielska | The Lighthouse Siege |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 767 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 25 cm × gł. 32 cm |
+| EAN | 5702015643467 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1006,11 +1664,27 @@ Wymiary odrzutowca podniebnych piratów: 5 cm wysokości, 13 cm długości i 8 c
 
 Zestaw odpowiedni dla dzieci w wieku od 8 do 14 lat.
 
+**Galeria:**
+
+- 70594-1: https://a.allegroimg.com/original/11129f/eee616dc4c1c888340ea02e7a2c6
+
 ---
 
-## 70595 — Lego 70595 Ninjago Niewykrywalny pojazd ninja Nowy Bez Pudełka
+## 70595 — Niewykrywalny pojazd ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1199.90 zł · EAN: 05702015643474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70595 |
+| Nazwa angielska | Ultra Stealth Raider |
+| Nazwa polska | Niewykrywalny pojazd ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1093 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015643474 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -1024,11 +1698,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 70595-1: https://a.allegroimg.com/original/11585c/f62e58ad405483ddd7d166cf1149
+
 ---
 
-## 70599 — Lego Ninjago 70599 Smok Cole'a Nowe
+## 70599 — Klocki LEGO Ninjago Smok Cole'a 70599
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 230.00 zł · EAN: 05702015591409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70599 |
+| Nazwa angielska | Cole's Dragon |
+| Nazwa polska | Klocki LEGO Ninjago Smok Cole'a 70599 |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 18 cm |
+| EAN | 5702015591409 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1047,11 +1737,27 @@ Smok Cole'a, wojownika ninja, pomoże ci stawić czoła piratowi Bucko. Smok ma 
 - Rozegraj swoje ulubione sceny z programu NINJAGO™: Mistrzowie Spinjitzu.
 - Smok Cole'a ma ok. 7 cm wysokości, 18 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 70599-1: https://a.allegroimg.com/original/110be0/8ea76643458f92e90e05ccb42646
+
 ---
 
-## 70600 — Lego Ninjago Pościg na motocyklu 70600
+## 70600 — Pościg na motocyklu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702015591416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70600 |
+| Nazwa angielska | Ninja Bike Chase |
+| Nazwa polska | Pościg na motocyklu |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015591416 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1083,11 +1789,27 @@ Motocykl Kaia ma rozkładane złote ostrza Ninja i ukryte działko-dopalacze, a 
 - Wymiary motocykla Nyi: ok. 5 cm wysokości, 15 cm długości i 7 cm szerokości.
 - Wymiary pirackiego pojazdu: ok. 3 cm wysokości, 8cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 70600-1: https://a.allegroimg.com/original/113227/378f64d44355bccaa3b01b3fdaca
+
 ---
 
-## 70601 — Lego Ninjago 70601 Podniebny rekin dron Lloyd Flintlock Unikat Nowy
+## 70601 — Podniebny rekin
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702015591423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70601 |
+| Nazwa angielska | Sky Shark |
+| Nazwa polska | Podniebny rekin |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 16 cm |
+| EAN | 5702015591423 |
 
 Nowy zestaw klocków klocki
 
@@ -1110,11 +1832,27 @@ Skorzystaj z drona, który zmienia się w plecak odrzutowy Lloyda, by popędzić
 - Podniebny rekin ma ok. 6 cm wysokości, 27 cm długości i 16 cm szerokości.
 - Wymiary drona/plecaka odrzutowego: 9 cm wysokości, 5 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 70601-1: https://a.allegroimg.com/original/11e171/cc14a72a4ad5af4df325dc2fe578
+
 ---
 
-## 70602 — Klocki Lego Ninjago Zestaw Smok Żywiołów Jay'a 70602
+## 70602 — Smok Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 778.00 zł · EAN: 05702015591430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70602 |
+| Nazwa angielska | Jay's Elemental Dragon |
+| Nazwa polska | Smok Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 30 cm |
+| EAN | 5702015591430 |
 
 LEGO Ninjago Smok Żywiołów Jay'a 70602
 
@@ -1142,11 +1880,27 @@ Smok Żywiołów Jayama ok. 11 cm wysokości, 31 cm długości i 30 cm szerokoś
 
 Wymiary pirackiego pojazdu: ok. 11 cm wysokości, 8 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 70602-1: https://a.allegroimg.com/original/05848e/df14807f4ecd86370b8e2864f9b5
+
 ---
 
-## 70603 — Lego Ninjago Piracki sterowiec 70603
+## 70603 — Ninjago Piracki sterowiec 70603
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 659.74 zł · EAN: 05702015591447 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70603 |
+| Nazwa angielska | Raid Zeppelin |
+| Nazwa polska | Ninjago Piracki sterowiec 70603 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 1 cm × szer. 11 cm |
+| EAN | 5702015591447 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1182,11 +1936,27 @@ Odegraj scenę powietrznej walki między zeppelinem szturmowym Dublona a pojazde
 - Zeppelin szturmowy ma ok. 15 cm wysokości, ok. 29 cm długości oraz ok. 16 cm szerokości.
 - Wymiary pojazdu Zane'a: ok. 1 cm wysokości, 5 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 70603-1: https://a.allegroimg.com/original/11e4f4/ec3419fa4af2bf16642e16a488f6
+
 ---
 
-## 70604 — Lego Ninjago Wyspa Tygrysiej Wdowy 70604
+## 70604 — Wyspa Tygrysiej Wdowy
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 990.00 zł · EAN: 05702015591454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70604 |
+| Nazwa angielska | Tiger Widow Island |
+| Nazwa polska | Wyspa Tygrysiej Wdowy |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591454, 673419247702 |
 
 Zestaw LEGO® 70604 “Tiger Widow Island” z serii Ninjago Skybound wydany w 2016 roku zawiera 440 elementów i 5 minifigurek: Dogshank, Squiffy’ego, Sensei Wu, Cole’a Bucketa oraz inną postać. Ten duży zestaw obejmuje wieżę z funkcją zrzucania kokosów, linę do huśtania się, pokój misji ninja z wahadłową latarnią, mapę Ninjago, jaskinię z dźwignią otwierającą wejście, ukryte kryształy i złote elementy, ozdoby ninja, palmy i przezroczyste elementy ognia przeznaczony dla dzieci w wieku 8-14 lat.
 
@@ -1194,11 +1964,28 @@ Ta epicka wyspa ninja stanowi bazę obronną przed atakami piratów Skybound, of
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 70604-1: https://a.allegroimg.com/original/111d9a/e8c81e404c10baac62a34c08125a
+- 70604-2: https://a.allegroimg.com/original/05e558/4aacafd74d50b8db33910dac766a
+
 ---
 
-## 70605 — Lego Ninjago Zestaw Twierdza Nieszczęścia 70605
+## 70605 — Lego 70605 Twierdza Nieszczęścia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1749.00 zł · EAN: 05702015591461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70605 |
+| Nazwa angielska | Misfortune's Keep |
+| Nazwa polska | Lego 70605 Twierdza Nieszczęścia |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 754 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 45 cm |
+| EAN | 5702015591461 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1238,11 +2025,26 @@ Odegraj scenę bitwy podniebnych piratów z wojownikami Ninja. Zestaw Twierdza N
 - Wymiary łodzi ratunkowej: ok. 11 cm długości, 4 cm szerokości i 2 cm wysokości. 
 - Wymiary odrzutowego plecaka Lloyda: ok. 7 cm wysokości, 12 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 70605-1: https://a.allegroimg.com/original/052967/6a38b77a48ccbeb02603a840b34f
+
 ---
 
-## 70606 — Lego Ninjago Szkolenie Spinjitzu 70606 Ninja Klocki Nowe
+## 70606 — Szkolenie Spinjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 175.21 zł · EAN: 05702015592437 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70606 |
+| Nazwa angielska | Spinjitzu Training |
+| Nazwa polska | Szkolenie Spinjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 5702015592437 |
 
 Klocki LEGO Ninjago Movie 70606 - Szkolenie Spinjitzu
 
@@ -1260,11 +2062,26 @@ Dołącz do bohaterskich ninja w emocjonującym zestawie Trening Spinjitzu z fil
 
 - Manekin do ćwiczenia walki ma ok. 4 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 70606-1: https://a.allegroimg.com/original/0501fe/0a6ce84f4cc7a9908454e826d159
+
 ---
 
-## 70607 — Lego Ninjago Movie 70607 Pościg w Ninjago City Nowe
+## 70607 — Pościg w Ninjago City
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015592444 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70607 |
+| Nazwa angielska | NINJAGO City Chase |
+| Nazwa polska | Pościg w Ninjago City |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 3 cm |
+| EAN | 5702015592444 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1286,11 +2103,26 @@ Połącz siły z Lloydem Garmadonem, Nyą i oficerem Toczkiem i powstrzymaj zbir
 - Stragan z jedzeniem ma ok. 11 cm wysokości, 9 cm szerokości i 3 cm głębokości. 
 - Latarnie z łańcuchem lampionów mają około 14 cm wysokości, 19 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 70607-1: https://a.allegroimg.com/original/11f86b/5897b8ff4a118c7bc6f7925a8b36
+
 ---
 
-## 70608 — Lego 70608 @@ Szkielet Mapa @@ figurka z zestawu
+## 70608 — Master Falls
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 45.55 zł · EAN: 05702015592451 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70608 |
+| Nazwa angielska | Master Falls |
+| Nazwa polska | Master Falls |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592451 |
 
 **Lego 70608 :: Ninjago MOVIE**
 
@@ -1302,11 +2134,26 @@ FIGURKA + broń/akcesoria - Z ZESTAWU LEGO 70608
 
 PONIŻEJ **POGLĄDOWO:** OPIS PEŁNEGO ZESTAWU LEGO 70608
 
+**Galeria:**
+
+- 70608-1: https://a.allegroimg.com/original/113b4f/0e024d3a446eb4a5ac58ad3969c9
+
 ---
 
-## 70610 — Lego Ninjago 70610 Ninjago Movie Latająca meduza
+## 70610 — 70610
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 407.48 zł · EAN: 05702015592574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70610 |
+| Nazwa angielska | Flying Jelly Sub |
+| Nazwa polska | 70610 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 341 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 14 cm |
+| EAN | 5702015592574 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1346,11 +2193,26 @@ Dołącz do ninja Jaya w walce z Armią Rekinów i ochroń łódź Takumy przed 
 
 - Łódź ma ok. 8 cm wysokości, 16 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 70610-1: https://a.allegroimg.com/original/010506/b8c9a9344da6b4c38b61c712642d
+
 ---
 
-## 70611 — Lego Ninjago Klocki Lego Ninjago Nartnik 70611 Opis
+## 70611 — Klocki LEGO Ninjago Nartnik 70611
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015592369 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70611 |
+| Nazwa angielska | Water Strider |
+| Nazwa polska | Klocki LEGO Ninjago Nartnik 70611 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 494 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 30 cm |
+| EAN | 5702015592369 |
 
 OPAKOWANIE WGNIECIONE
 
@@ -1367,11 +2229,26 @@ Ruszaj do walki z Armią Rekinów! Udawaj, że chodzisz po wodzie i wspinasz si�
 - Odgrywaj niezwykłe sceny z filmu LEGO® NINJAGO®: FILM™.
 - Nartnik ma ok. 18 cm wysokości, 30 cm długości i 30 cm szerokości.
 
+**Galeria:**
+
+- 70611-1: https://a.allegroimg.com/original/054d09/481f629c4ee8a3a658168346cc9a
+
 ---
 
-## 70613 — Lego Ninjago Garma Mecha Man 70613
+## 70613 — Garma Mecha Man
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015592000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70613 |
+| Nazwa angielska | Garma Mecha Man |
+| Nazwa polska | Garma Mecha Man |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 747 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 24 cm |
+| EAN | 5702015592000 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1404,11 +2281,26 @@ Pomóż Lloydowi ochronić cywila przed atakiem mechanicznego człowieka Garma w
 - Odgrywaj niezwykłe sceny z filmu LEGO NINJAGO:FILM. 
 - Mechaniczny człowiek Garma ma ok. 30 cm wysokości, 14 cm długości i 24 cm szerokości.
 
+**Galeria:**
+
+- 70613-1: https://a.allegroimg.com/original/003c74/f80a339f46109adce5b41b9fc07e
+
 ---
 
-## 70616 — Lego Ninjago Lodowy pojazd pancerny 70616
+## 70616 — Lodowy pojazd pancerny
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015592611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70616 |
+| Nazwa angielska | Ice Tank |
+| Nazwa polska | Lodowy pojazd pancerny |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 914 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 23 cm |
+| EAN | 5702015592611 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1446,11 +2338,26 @@ Pomóż Zane’owi uratować Patrycję Klucz i Torbena przed żołnierzami-rekin
 - Odgrywaj niezwykłe sceny z filmu LEGO NINJAGO: FILM.
 - Lodowy pojazd pancerny ma ok. 21 cm wysokości, 31 cm długości i 23 cm szerokości.
 
+**Galeria:**
+
+- 70616-1: https://a.allegroimg.com/original/007b1f/47bd98fa4f3582404a4143cfc178
+
 ---
 
-## 70620 — Klocki Lego Ninjago Zestaw Miasto 70620
+## 70620 — Miasto
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 3749.00 zł · EAN: 05702015592635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70620 |
+| Nazwa angielska | NINJAGO City |
+| Nazwa polska | Miasto |
+| Seria | Ninjago |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 4867 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 63 cm × szer. 31 cm × gł. 42 cm |
+| EAN | 5702015592635 |
 
 LEGO Ninjago City 70620 – Kolekcjonerskie Arcydzieło (EOL)
 
@@ -1480,11 +2387,27 @@ To aż **4867 elementów** czystej radości z budowania. Model składa się z tr
 
 **Wymiary:** ok. 63 cm wysokości, 31 cm szerokości i 42 cm głębokości.
 
+**Galeria:**
+
+- 70620-1: https://a.allegroimg.com/original/11e2d9/eaf9ff4f4e8fbaf7e887f6cb8a67
+
 ---
 
-## 70623 — Klocki Lego Ninjago Cień przeznaczenia 70623
+## 70623 — Cień przeznaczenia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 679.99 zł · EAN: 05702015865814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70623 |
+| Nazwa angielska | Destiny's Shadow |
+| Nazwa polska | Cień przeznaczenia |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702015865814 |
 
 Lloyd i Cole są na pokładzie Cienia Przeznaczenia. Pomóż im pokonać Cynober i zachować kontrolę nad Ostrzem Zatrzymania Czasu! Ten uniwersalny pojazd może pływać lub latać. Ma rozkładane skrzydła, dwa miotacze klocków, a także dwa odłączane canoe i dwa wiosła. Ninja muszą zmierzyć się z Cynobrem! Gdy nadlecą V-kształtne deskolotki szkodników, a wróg sięgnie po cynobrowy topór, akcja nabierze jeszcze lepszego tempa! W zestawie trzy minifigurki.
 
@@ -1501,11 +2424,27 @@ Lloyd i Cole są na pokładzie Cienia Przeznaczenia. Pomóż im pokonać Cynober
 - Wymiary Cienia przeznaczenia: ok. 8 cm wysokości, 30 cm długości i 10 cm szerokości w trybie łodzi lub 23 cm szerokości w trybie lotu.
 - Wymiary deskolotki szkodnika: ok. 6 x 6 x 1 cm
 
+**Galeria:**
+
+- 70623-1: https://a.allegroimg.com/original/11f816/fa06324a48acb7e6f904d1aeef6d
+
 ---
 
-## 70624 — Lego Ninjago Cynobrowy Najeźdźca 70624
+## 70624 — Cynobrowy Najeźdźca
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 639.99 zł · EAN: 05702015865852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70624 |
+| Nazwa angielska | Vermillion Invader |
+| Nazwa polska | Cynobrowy Najeźdźca |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm |
+| EAN | 5702015865852 |
 
 **Pudełko posiada niewielkie przetarcia powstałe od magazynowania.**
 
@@ -1535,11 +2474,27 @@ Komandor Raggmunk i Slackjaw atakują Zane’a z pokładu Cynobrowego Najeźdźc
 - Wymiary Cynobrowego Najeźdźcy: ok. 13 cm wysokości, 22 cm długości i 19 cm szerokości. 
 - Wymiary barierki: ok. 3 cm wysokości, 5 cm szerokości i 7 cm długości.
 
+**Galeria:**
+
+- 70624-1: https://a.allegroimg.com/original/05e464/e8931c56478292f119493ff284c9
+
 ---
 
-## 70627 — Klocki Lego Ninjago Zestaw Kuźnia Smoka Kai Dragons 70627
+## 70627 — LEGO NINJAGO 70627 KUŹNIA SMOKA KAI DRAGONS
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015865845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70627 |
+| Nazwa angielska | Dragon's Forge |
+| Nazwa polska | LEGO NINJAGO 70627 KUŹNIA SMOKA KAI DRAGONS |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 27 cm × gł. 18 cm |
+| EAN | 5702015865845 |
 
 KLOCKI LEGO NINJAGO 70627 - KUŹNIA SMOKA - KAI I NYA
 
@@ -1575,11 +2530,26 @@ Smok Fuzji ma ok. 23 cm wysokości, 38 cm długości i 41 cm szerokości.
 
 Mech Buffmillion ma ponad 12 cm wysokości.
 
+**Galeria:**
+
+- 70627-1: https://a.allegroimg.com/original/05f000/c4c4b4c945e6a3af7463ae78ce52
+
 ---
 
-## 70629 — Lego 70629 Ninjago Movie Atak Piranii
+## 70629 — Klocki LEGO Ninjago Piranha Attack 70629
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 279.90 zł · EAN: 05702016092875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70629 |
+| Nazwa angielska | Piranha Attack |
+| Nazwa polska | Klocki LEGO Ninjago Piranha Attack 70629 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 9 cm |
+| EAN | 5702016092875 |
 
 LEGO NINJAGO
  
@@ -1610,11 +2580,26 @@ Odegraj ekscytujący pościg Mecha Piranii za rikszą przez Miasto NINJAGO® w z
  
 26 cm * 19 cm * 6 cm *
 
+**Galeria:**
+
+- 70629-1: https://a.allegroimg.com/original/0048a2/b7e4acc14ad8999527223053aea0
+
 ---
 
-## 70631 — Klocki Lego Ninjago Movie Zestaw Wulkaniczna kryjówka Garmadona 70631
+## 70631 — Wulkaniczna kryjówka Garmadona
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702016092882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70631 |
+| Nazwa angielska | Garmadon's Volcano Lair |
+| Nazwa polska | Wulkaniczna kryjówka Garmadona |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 521 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016092882 |
 
 Klocki LEGO Ninjago Movie 70631 - Wulkaniczna kryjówka Garmadona
 
@@ -1644,11 +2629,26 @@ Minifigurki 1. generała, Steve’a i Czterookiego to nowość na grudzień 2017
 
 Odgrywaj niezwykłe sceny z filmu LEGO® NINJAGO® MOVIE™.
 
+**Galeria:**
+
+- 70631-1: https://a.allegroimg.com/original/050015/88a18d2f4271bb0525d1dee76ab7
+
 ---
 
-## 70632 — Lego Ninjago 70632 Lego Ninjago Quake Mech Nowe
+## 70632 — Klocki LEGO Ninjago Quake Mech 70632
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016092899 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70632 |
+| Nazwa angielska | Quake Mech |
+| Nazwa polska | Klocki LEGO Ninjago Quake Mech 70632 |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 30 cm |
+| EAN | 5702016092899 |
 
 LEGO Mech wstrząsu 70632
  
@@ -1666,11 +2666,27 @@ Niezwykle ruchomy Mech wstrząsu ma jedno koło, otwierany kokpit z miejscem na 
 - Ten fajny zestaw jest odpowiedni dla dzieci w wieku 9–14 lat. 
 - Model ma ok. 33 cm wysokości, 16 cm długości oraz 30 cm szerokości.
 
+**Galeria:**
+
+- 70632-1: https://a.allegroimg.com/original/056b8b/09a11fdb431bb80b913b08c0727c
+
 ---
 
-## 70634 — Lego Ninjago 70634 Nya Mistrzyni Spinjitzu
+## 70634 — Nya mistrzyni Spinjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 147.95 zł · EAN: 05702016110746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70634 |
+| Nazwa angielska | Nya - Spinjitzu Master |
+| Nazwa polska | Nya mistrzyni Spinjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 8 cm × gł. 3 cm |
+| EAN | 5702016110746 |
 
 LEGO 70634
 
@@ -1696,11 +2712,27 @@ Zostań ninja i naucz się nowych sztuczek Spinjitzu z zestawem LEGO® NINJAGO�
 - Zabawka obrotowa Spinjitzu (bez linki) ma ok. 14 cm wysokości, 8 cm szerokości i 3 cm głębokości.
 - Stojak na broń ma ok. 4 cm wysokości, 8 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 70634-1: https://a.allegroimg.com/original/113c60/59903edc43ca851c952680d7f3ae
+
 ---
 
-## 70635 — Lego 70635 Ninjago Jay mistrz Spinjitzu spinner bączek kapsuła
+## 70635 — NINJAGO Jay mistrz Spinjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 229.50 zł · EAN: 05702016110753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70635 |
+| Nazwa angielska | Jay - Spinjitzu Master |
+| Nazwa polska | NINJAGO Jay mistrz Spinjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 8 cm × gł. 3 cm |
+| EAN | 5702016110753 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1729,11 +2761,27 @@ Przetestuj swoje umiejętności Spinjitzu z zestawem LEGO® NINJAGO® Kai — mi
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 70635-1: https://a.allegroimg.com/original/112904/244c2786427b9209f2d617483d50
+
 ---
 
-## 70636 — Lego Ninjago 70636
+## 70636 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016110760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70636 |
+| Nazwa angielska | Zane - Spinjitzu Master |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 8 cm × gł. 3 cm |
+| EAN | 5702016110760 |
 
 LEGO Zane — mistrz Spinjitzu 70636
  
@@ -1752,11 +2800,27 @@ Zbuduj zabawkę obrotową, pociągnij za linkę i ruszaj do akcji z zestawem LEG
 - Zabawka obrotowa Spinjitzu (bez linki) ma ok. 14 cm wysokości, 8 cm szerokości i 3 cm głębokości. 
 - Stojak na broń ma ok. 4 cm wysokości, 4 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 70636-1: https://a.allegroimg.com/original/117086/eceb7a7b42399763135944b691f1
+
 ---
 
-## 70641 — Lego Ninjago 70641 Nocna Zjawa ninja Nowe
+## 70641 — Nocna Zjawa ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 780.00 zł · EAN: 05702016109818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70641 |
+| Nazwa angielska | Ninja Nightcrawler |
+| Nazwa polska | Nocna Zjawa ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 552 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702016109818 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1781,11 +2845,27 @@ Wsiądź do Nocnej Zjawy ninja Lloyda, dogoń Ultra Violet na Kamiennym Motocykl
 - Kamienny Motocykl ma ok. 4 cm wysokości, 7 cm długości i 3 cm szerokości. 
 - Model znany z reklamy telewizyjnej LEGO® Ride Ninja.
 
+**Galeria:**
+
+- 70641-1: https://a.allegroimg.com/original/11144f/f9637dce472ca6c28dbd8a5aa1b7
+
 ---
 
-## 70642 — Lego @@@ Killow 8cm Motocykl @@@ z zestawu 70642
+## 70642 — Killow kontra Samuraj X
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1111.11 zł · EAN: 05702016109825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70642 |
+| Nazwa angielska | Killow vs. Samurai X |
+| Nazwa polska | Killow kontra Samuraj X |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 556 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109825 |
 
 Lego 70642 :: Ninjago - Masters of Spinjitsu
 
@@ -1797,11 +2877,27 @@ z zestawu: killow vs samurai x
 
 ELEMENTY - klocki w oryginalnych woreczkach - zestawu LEGO 70642:
 
+**Galeria:**
+
+- 70642-1: https://5.allegroimg.com/original/03e123/fcc28d2d4d078bc4dcce366c2c55
+
 ---
 
-## 70643 — Lego Ninjago Świątynia Wskrzeszenia 70643
+## 70643 — Świątynia Wskrzeszenia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016109832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70643 |
+| Nazwa angielska | Temple of Resurrection |
+| Nazwa polska | Świątynia Wskrzeszenia |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 765 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 19 cm × gł. 17 cm |
+| EAN | 5702016109832 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1840,11 +2936,27 @@ Pomóż ninja obronić Świątynię Wskrzeszenia i powstrzymać ponowne narodzin
 - Ten zestaw do budowania jest odpowiedni dla dzieci w wieku 7–14 lat.
 - Model ma ok. 26 cm wysokości, 19 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 70643-1: https://a.allegroimg.com/original/112269/ea8fe2664f3cb81c0688f9d49b4f
+
 ---
 
-## 70644 — Lego Ninjago 70644 Złoty smoczy mistrz
+## 70644 — LEGO Ninjago 70644 - Złoty - smoczy mistrz
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 219.97 zł · EAN: 05702016110784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70644 |
+| Nazwa angielska | Golden Dragon Master |
+| Nazwa polska | LEGO Ninjago 70644 - Złoty - smoczy mistrz |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 22 cm × gł. 17 cm |
+| EAN | 5702016110784 |
 
 LEGO Ninjago 70644 - Złoty - smoczy mistrz
 
@@ -1886,11 +2998,27 @@ Zestaw LEGO Ninjago - Złoty - smoczy mistrz trafił do sprzedaży w 2018 roku. 
 
 LEGO® 70644 Ninjago - Złoty - smoczy mistrz
 
+**Galeria:**
+
+- 70644-1: https://a.allegroimg.com/original/1188c0/bbc36eb24389a66ba0b8fdd2aa8f
+
 ---
 
-## 70645 — Lego 70645 Ninjago Cole smoczy mistrz Spinner Kapsuła Atak smoka
+## 70645 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 169.50 zł · EAN: 05702016110791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70645 |
+| Nazwa angielska | Cole - Dragon Master |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 22 cm × gł. 17 cm |
+| EAN | 5702016110791 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1913,11 +3041,27 @@ Naucz się władać smokami w zestawie LEGO® NINJAGO® 70645 Cole — smoczy mi
 - Więcej powietrznej zabawy ninja znajdziesz w zestawach 70644 Złoty smoczy mistrz, 70646 Jay — smoczy mistrz, 70647 Kai — smoczy mistrz oraz 70648 Zane — smoczy mistrz.
 - Zabawka (bez linki) ma ok. 19 cm wysokości, 22 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 70645-1: https://a.allegroimg.com/original/112446/dca6768b49c3b12c8e59bf0d891b
+
 ---
 
-## 70648 — Klocki Lego Ninjago Zane smoczy mistrz 70648
+## 70648 — lego
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702016110821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70648 |
+| Nazwa angielska | Zane - Dragon Master |
+| Nazwa polska | lego |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 22 cm × gł. 17 cm |
+| EAN | 5702016110821 |
 
 Klocki LEGO Ninjago 70648 - Zane - smoczy mistrz
 
@@ -1932,11 +3076,27 @@ Poszybuj w niebiosa w zestawie LEGO® NINJAGO® 70648 Zane — smoczy mistrz. Za
 - Więcej powietrznej zabawy ninja znajdziesz w zestawach 70644 Złoty smoczy mistrz, 70645 Cole — smoczy mistrz, 70646 Jay — smoczy mistrz oraz 70647 Zane — smoczy mistrz.
 - Zabawka (bez linki) ma ok. 19 cm wysokości, 22 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 70648-1: https://a.allegroimg.com/original/111a63/7402532a4550b109e6585b3ddd3f
+
 ---
 
-## 70653 — Lego Ninjago 70653 Smok Firstbourne Dragon Nowe Czytaj Opis
+## 70653 — Firstbourne
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 650.00 zł · EAN: 05702016110685 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70653 |
+| Nazwa angielska | Firstbourne |
+| Nazwa polska | Firstbourne |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 882 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110685 |
 
 UWAGA OPAKOWANIE POSIADA WKLĘŚNIĘCIE ORAZ ŚLAD PO NAKLEJCE POZA TYM JEST CAŁKOWICIE NOWE PATRZ FOTO.
 
@@ -1950,11 +3110,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 70653-1: https://a.allegroimg.com/original/11b02c/361bd4f1483f95b02ae2050f5d17
+
 ---
 
-## 70654 — Lego Ninjago 70654 Dieselnauta Nowe
+## 70654 — LEGO Ninjago Dieselnauta 70654
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702016110692 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70654 |
+| Nazwa angielska | Dieselnaut |
+| Nazwa polska | LEGO Ninjago Dieselnauta 70654 |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 23 cm |
+| EAN | 5702016110692 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1975,11 +3151,27 @@ Uwaga, niebezpieczeństwo! Iron Baron, Heavy Metal, Czaszkołom i Mordka atakuj�
 - Inne części smoczej zbroi do zebrania znajdziesz w zestawach 70650 Skrzydło przeznaczenia, 70652 Zwiastun burzy, 70653 Firstbourne oraz 70655 Smocza jama. 
 - Dieselnauta ma ok. 18 cm wysokości, 49 cm długości i 23 cm szerokości.
 
+**Galeria:**
+
+- 70654-1: https://a.allegroimg.com/original/111819/86c6b9014792b9ac67d91f10b379
+
 ---
 
-## 70655 — Lego Ninjago 70655 Smocza Jama 70655
+## 70655 — KLOCKI LEGO NINJAGO 70655 SMOCZA JAMA
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1389.00 zł · EAN: 05702016110708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70655 |
+| Nazwa angielska | Dragon Pit |
+| Nazwa polska | KLOCKI LEGO NINJAGO 70655 SMOCZA JAMA |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1660 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 51 cm × gł. 20 cm |
+| EAN | 5702016110708 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2018,11 +3210,26 @@ Dołącz do bohaterskich ninja w walce z Iron Baronem i Łowcami Smoków w zesta
 - Smocza jama ma ok. 27 cm wysokości, 51 cm szerokości i 20 cm głębokości. 
 - Smok ma ok. 9 cm wysokości, 25 cm długości i 28 cm szerokości.
 
+**Galeria:**
+
+- 70655-1: https://f.allegroimg.com/original/00c509/9fd7cf104959ab9ce656978ce15f
+
 ---
 
-## 70656 — Lego Ninjago Movie 70656 Garmadon, Garmadon, Garmadon! Nowe
+## 70656 — Garmadon, Garmadon, GARMADON
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016092905 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70656 |
+| Nazwa angielska | garmadon, Garmadon, GARMADON! |
+| Nazwa polska | Garmadon, Garmadon, GARMADON |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 830 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 26 cm |
+| EAN | 5702016092905 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2044,11 +3251,26 @@ Pomóż Lloydowi uratować Nomisa i Nancy przed atakiem Mecha Rekina w tym emocj
 - Mech Rekin Garmadona ma ok. 25 cm wysokości, 38 cm długości i 26 cm szerokości. 
 - Stoisko z hot dogami ma ok. 9 cm wysokości, 8 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 70656-1: https://a.allegroimg.com/original/118c11/9c0e9d5b473789ba61df5144b7ae
+
 ---
 
-## 70657 — Lego Ninjago Doki w Mieście 70657
+## 70657 — DOKI W MIEŚCIE NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 2899.00 zł · EAN: 05702016110715 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70657 |
+| Nazwa angielska | NINJAGO City Docks |
+| Nazwa polska | DOKI W MIEŚCIE NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 3553 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110715 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2072,11 +3294,27 @@ Pomóż Lloydowi uratować Nomisa i Nancy przed atakiem Mecha Rekina w tym emocj
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 70657-1: https://a.allegroimg.com/original/006560/71db3ed34d2d93b2c3759cf9f162
+
 ---
 
-## 70660 — Lego 70660 Ninjago Spinjitzu Jay
+## 70660 — Spinjitzu Jay
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702016367287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70660 |
+| Nazwa angielska | Spinjitzu Jay |
+| Nazwa polska | Spinjitzu Jay |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367287 |
 
 LEGO® 335550 Pluszak LEGO® Ninjago® Jay
 
@@ -2096,11 +3334,27 @@ Pluszaki w kształcie ulubionych minifigurek LEGO® to idealny prezent zarówno 
 - Tylko do czyszczenia zewnętrznego 
 - Wymiary produktu: 17,8cm x 8,9cm x 33cm
 
+**Galeria:**
+
+- 70660-1: https://a.allegroimg.com/original/00d644/585a6cd3454e981ee25e711c6bb1
+
 ---
 
-## 70661 — Lego Ninjago Spinjitzu Zane 70661
+## 70661 —  Spinjitzu Zane
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016367317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70661 |
+| Nazwa angielska | Spinjitzu Zane |
+| Nazwa polska |  Spinjitzu Zane |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367317 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2119,11 +3373,27 @@ Pluszaki w kształcie ulubionych minifigurek LEGO® to idealny prezent zarówno 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70661-1: https://a.allegroimg.com/original/110e01/72c620c74f6c95548ecbff455f5a
+
 ---
 
-## 70662 — Lego Ninjago 70662 Spinjitzu Cole Unikat 2019
+## 70662 — Spinjitzu Cole
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 218.88 zł · EAN: 05702016367324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70662 |
+| Nazwa angielska | Spinjitzu Cole |
+| Nazwa polska | Spinjitzu Cole |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 117 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016367324 |
 
 Klocki LEGO Ninjago 70662 - Spinjitzu Cole
 
@@ -2140,11 +3410,27 @@ Wykonuj wstrząsające sztuczki ninja z zestawem LEGO® NINJAGO® 70662 Spinjitz
 
 Zestaw LEGO Ninjago - Spinjitzu Cole trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 70662. Zawiera 117 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 70662-1: https://a.allegroimg.com/original/05a1bc/a2663c2b48d99e43b0bb220afc8f
+
 ---
 
-## 70663 — 70663 Lego Ninjago Spinjitzu Nya & Wu
+## 70663 — LEGO Ninjago 70663
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 339.89 zł · EAN: 05702016367331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70663 |
+| Nazwa angielska | Spinjitzu Nya & Wu |
+| Nazwa polska | LEGO Ninjago 70663 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 227 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016367331 |
 
 LEGO NINJAGO 70663 Spinjitzu Nya & Wu.
  
@@ -2170,11 +3456,27 @@ LEGO® NINJAGO® 70663 Spinjitzu Nya & Wu to podwójna dawka zabawy! Ta zabawka 
  
 **Elementy 227**
 
+**Galeria:**
+
+- 70663-1: https://a.allegroimg.com/original/005c09/241584a14e289da9596cb2c17c33
+
 ---
 
-## 70665 — Lego Ninjago 70665 Mech samuraj Nowe
+## 70665 — NINJAGO Mech-samuraj
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 296.00 zł · EAN: 05702016367355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70665 |
+| Nazwa angielska | The Samurai Mech |
+| Nazwa polska | NINJAGO Mech-samuraj |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm |
+| EAN | 5702016367355 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -2191,11 +3493,27 @@ Pomóż Nyi przebranej za Samuraja X w walce z Krunchą i Nuckalem w zestawie LE
 - Seria LEGO® NINJAGO® Legacy to nowe wersje popularnych modeli z poprzednich sezonów serialu telewizyjnego NINJAGO Mistrzowie Spinjitzu, które w nowy sposób przedstawiają kultowe konflikty. 
 - Model ma ok. 14 cm wysokości, 4 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 70665-1: https://a.allegroimg.com/original/11c67d/b27d5d4c489fb7c8be2553594246
+
 ---
 
-## 70666 — Lego Ninjago 70666 Złoty smok Nowe
+## 70666 — KLOCKI LEGO NINJAGO 70666 ZŁOTY SMOK
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 406.00 zł · EAN: 05702016367362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70666 |
+| Nazwa angielska | The Golden Dragon |
+| Nazwa polska | KLOCKI LEGO NINJAGO 70666 ZŁOTY SMOK |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 26 cm |
+| EAN | 5702016367362, 673419301718 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2214,11 +3532,28 @@ Odtwórz niezapomniane ostateczne starcie Złotego Ninja Lloyda z Władcą w zes
 - Seria LEGO® NINJAGO® Legacy to nowe wersje popularnych modeli z poprzednich sezonów serialu telewizyjnego NINJAGO Mistrzowie Spinjitzu, które w nowy sposób przedstawiają kultowe konflikty. 
 - Model ma ok. 6 cm wysokości, 24 cm długości i 26 cm szerokości.
 
+**Galeria:**
+
+- 70666-1: https://0.allegroimg.com/original/0004c4/ec2c277942ddb387bebfa56ecbb0
+- 70666-2: https://a.allegroimg.com/original/11aabc/5cff3f254f6587a5a98d9a0afc57
+
 ---
 
-## 70667 — Klocki Lego Ninjago 70667 Motocykl Kaia i skuter Zane’a
+## 70667 — Motocykl Kaia i skuter Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 435.78 zł · EAN: 00673419301725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70667 |
+| Nazwa angielska | Kai's Blade Cycle & Zane's Snowmobile |
+| Nazwa polska | Motocykl Kaia i skuter Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702016367478, 673419301725 |
 
 Klocki LEGO Ninjago 70667 - Motocykl Kaia i skuter Zane’a
 
@@ -2256,11 +3591,28 @@ Odzyskaj miecz ognia skradziony przez Wężonów w zestawie LEGO® NINJAGO® Leg
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 70667-1: https://a.allegroimg.com/original/118abe/abd4ab4e4d20b15a60386b990f54
+- 70667-2: https://a.allegroimg.com/original/11af06/54afb6074603a4f0e91623960d94
+
 ---
 
-## 70668 — Lego Ninjago 70668 Burzowy myśliwiec Jaya Nowe
+## 70668 — Burzowy myśliwiec Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016367485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70668 |
+| Nazwa angielska | Jay's Storm Fighter |
+| Nazwa polska | Burzowy myśliwiec Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 30 cm |
+| EAN | 5702016367485 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -2279,11 +3631,27 @@ Dołącz do walki ninja Nyi z Wężonami i pomóż jej odzyskać Nunczako Błysk
 - Seria LEGO® NINJAGO® Legacy to nowe wersje popularnych zestawów ninja z poprzednich sezonów serialu telewizyjnego NINJAGO Mistrzowie Spinjitzu, które w nowy sposób przedstawiają kultowe konflikty. 
 - Burzowy myśliwiec Jaya ma ok. 8 cm wysokości, 28 cm długości i 30 cm szerokości.
 
+**Galeria:**
+
+- 70668-1: https://a.allegroimg.com/original/1110d5/9badcbe0412cbefbd778b6db479e
+
 ---
 
-## 70669 — Lego Ninjago 70669 Lego Ninjago Wiertło Cole’a Nowe
+## 70669 — Klocki LEGO Ninjago Wiertło Cole’a 70669
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 850.00 zł · EAN: 05702016367492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70669 |
+| Nazwa angielska | Cole's Earth Driller |
+| Nazwa polska | Klocki LEGO Ninjago Wiertło Cole’a 70669 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 587 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367492 |
 
 **Klocki Ninjago Wiertło Colea**
  
@@ -2307,11 +3675,27 @@ Zmierz się z Wielkim Kamiennym Wojownikiem i odzyskaj Kosę Wstrząsów w zesta
  
 - Broń: dwie katany ninja Kaia z serii LEGO NINJAGO. kusza zwiadowcy Kamiennej Armii z miotaczem klocków oraz dwie katany wojownika Kamiennej Armii.
 
+**Galeria:**
+
+- 70669-1: https://a.allegroimg.com/original/05cfaa/251791a04992a2ac8fe5a9e37e05
+
 ---
 
-## 70671 — Lego 70671 Ninjago Podróż Lloyda
+## 70671 — Podróż Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 245.99 zł · EAN: 05702016365481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70671 |
+| Nazwa angielska | Lloyd's Journey |
+| Nazwa polska | Podróż Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702016365481 |
 
 Klocki LEGO Ninjago 70671 - Podróż Lloyda
 
@@ -2345,11 +3729,27 @@ Zestaw LEGO Ninjago - Podróż Lloyda trafił do sprzedaży w 2019 roku. Numer
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 70671-1: https://a.allegroimg.com/original/00becb/8dd0a1f246cc913762a26725545e
+
 ---
 
-## 70672 — Lego Ninjago Motocykl Cole'a 70672
+## 70672 — Motocykl Cole'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 383.99 zł · EAN: 05702016365498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70672 |
+| Nazwa angielska | Cole's Dirt Bike |
+| Nazwa polska | Motocykl Cole'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016365498 |
 
 Wjedź w świat przygód NINJAGO na motocyklu Cole’a!
  
@@ -2363,11 +3763,27 @@ Stań do niebezpiecznej walki z płomiennym niszczycielem w zestawie LEGO NINJAG
 - W aplikacji LEGO Life znajdziesz intuicyjne ekstra instrukcje budowania. Można je łatwo powiększać i obracać, a tryb podglądu pozwala wizualizować powstający model, co pomoże w budowaniu nawet najmłodszym konstruktorom. 
 - Motocykl ninja ma ok. 6 cm wysokości, 19 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 70672-1: https://a.allegroimg.com/original/00e270/107b772a40b6a9ffeefe2b2f7f53
+
 ---
 
-## 70673 — Lego Ninjago 70673 Szurikopter Klocki
+## 70673 — LEGO NINJAGO 70673 Szurikopter KLOCKI 
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 526.99 zł · EAN: 05702016365504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70673 |
+| Nazwa angielska | ShuriCopter |
+| Nazwa polska | LEGO NINJAGO 70673 Szurikopter KLOCKI  |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 24 cm |
+| EAN | 5702016365504 |
 
 LEGO NINJAGO 70673 Szurikopter.
 
@@ -2385,11 +3801,27 @@ Dzięki zabawkowemu helikopterowi dzieci mogą odgrywać role figurek ninja tocz
 
 **Szurikopter** ma ok. 10 cm wysokości, 31 cm długości i 24 cm szerokości.
 
+**Galeria:**
+
+- 70673-1: https://a.allegroimg.com/original/11d4d8/9d0186b94e4e96ea9378335f566c
+
 ---
 
-## 70674 — Nowe! Lego 70674 Ninjago Ognisty kieł
+## 70674 — Fire Fang
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 939.00 zł · EAN: 05702016365511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70674 |
+| Nazwa angielska | Fire Fang |
+| Nazwa polska | Fire Fang |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 463 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 18 cm |
+| EAN | 5702016365511 |
 
 W tym zestawie **LEGO NINJAGO** dzieci mogą wcielić się w postać ninja Kaia FS i stanąć do walki z czarodziejką Wężonów Aspheerą oraz wężem Ognistym kłem, by odebrać im zwój Zakazanego Spinjitzu. Przypominający kobrę Ognisty kieł z zestawu 70674 ma tron dla minifigurki, ruchomy, grzechoczący ogon z dwoma miotaczami klocków oraz łańcuchy, do których można doczepić minifigurki.
 
@@ -2406,11 +3838,27 @@ Do tego w aplikacji LEGO Life na smartfonach i tabletach znajdziesz ekstra instr
 - W aplikacji LEGO Life znajdziesz intuicyjne ekstra instrukcje budowania tego zestawu NINJAGO. Można je łatwo powiększać i obracać, a tryb podglądu pozwala wizualizować powstający model, co pomoże w budowaniu nawet najmłodszym konstruktorom. 
 - Zabawkowy wąż Ognisty kieł ma ok. 21 cm wysokości, 29 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 70674-1: https://a.allegroimg.com/original/00be5f/89c5d0084effac5570c1bd01c630
+
 ---
 
-## 70675 — Lego Ninjago Katana 4x4 70675
+## 70675 — Katana 4x4
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 611.23 zł · EAN: 05702016365528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70675 |
+| Nazwa angielska | Katana 4x4 |
+| Nazwa polska | Katana 4x4 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702016365528 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2448,11 +3896,27 @@ Ciekawa terenówka 4x4 i figurki ninja pozwolą dzieciom odegrać niezapomnianą
 - W aplikacji LEGO Life znajdziesz intuicyjne ekstra instrukcje budowania. Można je łatwo powiększać i obracać, a tryb podglądu pozwala wizualizować powstający model, co pomoże w budowaniu nawet najmłodszym konstruktorom. 
 - Pojazd ninja Katana 4x4 ma ok. 8 cm wysokości, 21 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 70675-1: https://a.allegroimg.com/original/005c47/6be080db44f1a60d930de7898ab8
+
 ---
 
-## 70677 — Lego 70677 Ninjago Perła Lądu
+## 70677 — Perła Lądu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702016365542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70677 |
+| Nazwa angielska | Land Bounty |
+| Nazwa polska | Perła Lądu |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016365542 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2471,11 +3935,27 @@ Ciekawa terenówka 4x4 i figurki ninja pozwolą dzieciom odegrać niezapomnianą
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70677-1: https://a.allegroimg.com/original/112b20/35b362e44e05a37a76c097a09402
+
 ---
 
-## 70678 — Klocki Lego Ninjago Zestaw Zamek Zapomnianego Cesarza 70678
+## 70678 — Lego Ninjago 70678 - Zamek Zapomnianego Cesarza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1699.00 zł · EAN: 05702016365559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70678 |
+| Nazwa angielska | Castle of the Forsaken Emperor |
+| Nazwa polska | Lego Ninjago 70678 - Zamek Zapomnianego Cesarza |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 32 cm × gł. 22 cm |
+| EAN | 5702016365559 |
 
 **Klocki LEGO Ninjago Zestaw Zamek Zapomnianego Cesarza 70678**
 
@@ -2503,11 +3983,27 @@ Lodowa wieża ma ok. 19 cm wysokości, 6 cm szerokości oraz 7 cm głębokości.
 
 Lodowy smok ma ok. 14 cm wysokości, 37 cm długości i 51 cm szerokości.
 
+**Galeria:**
+
+- 70678-1: https://a.allegroimg.com/original/11b16f/226abdf34606830e67f4ff70ff5e
+
 ---
 
-## 70679 — Klocki Lego Ninjago Zestaw The Ultra Dragon Smok 70679
+## 70679 — The Ultra Dragon
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1248.00 zł · EAN: 05702016365566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70679 |
+| Nazwa angielska | The Ultra Dragon |
+| Nazwa polska | The Ultra Dragon |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 951 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 44 cm |
+| EAN | 5702016365566 |
 
 LEGO Ninjago Ultrasmok 70679
 
@@ -2525,11 +4021,27 @@ Broń: dwie złote katany ninja Lloyda z serii LEGO NINJAGO, kij bo Wu, cztery s
 
 Model ma ok. 20 cm wysokości, 55 cm długości i 44 cm szerokości.
 
+**Galeria:**
+
+- 70679-1: https://a.allegroimg.com/original/03557b/56d73ff240b69d8ca85ba2bdf429
+
 ---
 
-## 70680 — Lego 70680 Ninjago Szkolenie w klasztorze Kai Nya
+## 70680 — Szkolenie w klasztorze
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 248.50 zł · EAN: 00673419308687 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70680 |
+| Nazwa angielska | Monastery Training |
+| Nazwa polska | Szkolenie w klasztorze |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 5702016394429, 673419308687 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -2553,11 +4065,28 @@ Naucz się sztuki Spinjitzu z ninja Kaiem i Nyą! Zestaw LEGO® NINJAGO® Legacy
 
 Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyjnych i są wyłączną własnością firmy LEGO®
 
+**Galeria:**
+
+- 70680-1: https://a.allegroimg.com/original/255a57/f6e708a0458ea861fe0de6b74905
+- 70680-2: https://a.allegroimg.com/original/11a2bd/e3076e8b466c80ee2599e12ed385
+
 ---
 
-## 70681 — Lego Ninjago 70681 Potęga Spinjitzu Lloyd
+## 70681 — Potęga Spinjitzu - Lloyd
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 314.59 zł · EAN: 05702016469004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70681 |
+| Nazwa angielska | Spinjitzu Slam - Lloyd |
+| Nazwa polska | Potęga Spinjitzu - Lloyd |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm × gł. 8 cm |
+| EAN | 5702016469004 |
 
 LEGO NINJAGO 70681 POTĘGA SPINJITZU LLOYD
 
@@ -2579,11 +4108,27 @@ LEGO NINJAGO 70681 POTĘGA SPINJITZU LLOYD
 
 Wymiary pudełka (wys/szer/dł): 23.8;23.0;6.2 cm
 
+**Galeria:**
+
+- 70681-1: https://a.allegroimg.com/original/118a91/ca998863445f8b3b60edd392ca26
+
 ---
 
-## 70682 — Lego Ninjago Potęga Spinjitzu Jay 70682
+## 70682 — Klocki LEGO Ninjago Potęga Spinjitzu - Jay 70682
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016469011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70682 |
+| Nazwa angielska | Spinjitzu Slam - Jay |
+| Nazwa polska | Klocki LEGO Ninjago Potęga Spinjitzu - Jay 70682 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016469011 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2602,11 +4147,27 @@ Wymiary pudełka (wys/szer/dł): 23.8;23.0;6.2 cm
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70682-1: https://a.allegroimg.com/original/11f9ee/ee21a36a4f36bd5119f4b9e0bceb
+
 ---
 
-## 70684 — Lego Ninjago 70684 Potęga Spinjitzu Kai kontra samuraj
+## 70684 — Potęga Spinjitzu - Kai kontra samuraj
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702016469035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70684 |
+| Nazwa angielska | Spinjitzu Slam - Kai vs. Samurai |
+| Nazwa polska | Potęga Spinjitzu - Kai kontra samuraj |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014780255, 5702016469035 |
 
 LEGO
 
@@ -2620,11 +4181,28 @@ Urządź spinnerową bitwę z zestawem Kai kontra samuraj!
 
 W zestawie LEGO NINJAGO 70684 Potęga Spinjitzu — Kai kontra samuraj na dzieci czeka zakręcone starcie żywiołów. Ten ciekawy zestaw zawiera spinner tornado Kaia FS oraz śnieżnego samuraja, a także zbudowany z klocków cokół ze zwojem Zakazanego Spinjitzu do wykorzystania jako cel w udawanych walkach. Spinnery mają miejsca na minifigurki i można ustawić je na łatwych do zbudowania wyrzutniach. W komplecie jest także wieczny płomień i ognista kula Kaia FS oraz lodowy kryształ i lodowa tarcza śnieżnego samuraja. Wszystkie akcesoria można wystrzelić z wyrzutni. Kreatywną zabawę ułatwią też kolekcjonerskie minifigurki Kaia FS z „silniejszym” kapturem oraz śnieżnego samuraja.
 
+**Galeria:**
+
+- 70684-1: https://a.allegroimg.com/original/030a94/5984dde7458ebe5ad29a332fa93d
+- 70684-2: https://a.allegroimg.com/original/11cc4b/158776794cf387040c0898e982e3
+
 ---
 
-## 70685 — Lego 70685 Wybuch Spinjitzu Cole Nowy
+## 70685 — Wybuch Spinjitzu - Cole
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702016616835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70685 |
+| Nazwa angielska | Spinjitzu Burst Cole |
+| Nazwa polska | Wybuch Spinjitzu - Cole |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616835 |
 
 Mam na sprzedaż zestaw "Wybuch Spinjitzu - Cole" z Lego Ninjago, numer katalogowy 70685.
 
@@ -2638,11 +4216,27 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 70685-1: https://a.allegroimg.com/original/11f056/1aa348e9400590cc29b973c86f60
+
 ---
 
-## 70686 — Lego Ninjago 70686 Wybuch Spinjitzu Kai
+## 70686 — LEGO Ninjago 70686 Wybuch Spinjitzu - Kai
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016616842 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70686 |
+| Nazwa angielska | Spinjitzu Burst Kai |
+| Nazwa polska | LEGO Ninjago 70686 Wybuch Spinjitzu - Kai |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616842 |
 
 LEGO Ninjago 70686 Wybuch Spinjitzu - Kai
 
@@ -2652,11 +4246,27 @@ Wybuchowy Kai ćwiczy Spinjitzu — sięgnij po wyjątkowy zestaw NINJAGO®, aby
 
 Imponujący zestaw LEGO® Spinjitzu Wybuch Spinjitzu — Kai (70686) to zapowiedź wielu godzin kreatywnej zabawy, podczas której dzieci będą pomagać Wybuchowemu Kaiowi zostać mistrzem Spinjitzu. Ten zestaw konstrukcyjny LEGO NINJAGO daje małym fanom wojowników ninja niezliczone możliwości wymyślania scen akcji i ćwiczenia technik Spinjitzu. Interaktywna zabawka dla mistrzów Spinjitzu Ciekawy zestaw LEGO® Spinjitzu pozwoli małym ninja przeżywać przygody w zbudowanym z klocków świecie NINJAGO®. Mogą posadzić minifigurkę Wybuchowego Kaia w spinnerze Spinjitzu i jednym naciśnięciem przycisku wysłać go prosto do akcji! Ta zabawka oczaruje fanów NINJAGO i wszystkie dzieci, które lubią używać wyobraźni. Idealna zabawka do odgrywania ról Zestawy LEGO® z wojownikami ninja dają dzieciom szansę znalezienia się w niezwykłym świecie, gdzie mogą wcielić się w postacie ulubionych ninja i podjąć walkę z siłami zła. Bogaty wybór zestawów ninja z samochodami, odrzutowcami, smokami, figurkami do zbudowania i innymi zabawkami zachwyci każdego dzieciaka.
 
+**Galeria:**
+
+- 70686-1: https://a.allegroimg.com/original/00dda7/cf4997e548c3a2627b8e6e96dd95
+
 ---
 
-## 70687 — Lego Ninjago 70687 Wybuch Spinjitzu Lloyd Spinner Wyrzutnia
+## 70687 — Wybuch Spinjitzu - Lloyd
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016616859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70687 |
+| Nazwa angielska | Spinjitzu Burst Lloyd |
+| Nazwa polska | Wybuch Spinjitzu - Lloyd |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702016616859 |
 
 LEGO NINJAGO 70687 Wybuch Spinjitzu - Lloyd
 
@@ -2672,11 +4282,27 @@ Jedyny w swoim rodzaju zestaw konstrukcyjny LEGO® NINJAGO® Spinjitzu Zestawy L
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 70687-1: https://a.allegroimg.com/original/11b9f2/25712b25407a8c97dc147ad90e85
+
 ---
 
-## 70690 — Lego 70690 Ninjago Szkolenie wojownika Spinjitzu Jaya
+## 70690 — Szkolenie wojownika Spinjitzu Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 134.99 zł · EAN: 05702017151977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70690 |
+| Nazwa angielska | Jay's Spinjitzu Ninja Training |
+| Nazwa polska | Szkolenie wojownika Spinjitzu Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 5702017151977 |
 
 Klocki LEGO Ninjago 70690 - Szkolenie wojownika Spinjitzu Jaya
 
@@ -2718,11 +4344,27 @@ Zestaw LEGO Ninjago - Szkolenie wojownika Spinjitzu Jaya trafił do sprzedaży
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 70690-1: https://a.allegroimg.com/original/116778/ea5664874e7d9401d74db28aeadf
+
 ---
 
-## 70721 — Lego Ninjago 70721 Pojazd bojowy Kaia Nowe
+## 70721 — Klocki LEGO Ninjago Ninjago Pojazd bojowy Kaia L-70721
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 824.00 zł · EAN: 05702015121064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70721 |
+| Nazwa angielska | Kai Fighter |
+| Nazwa polska | Klocki LEGO Ninjago Ninjago Pojazd bojowy Kaia L-70721 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 34 cm |
+| EAN | 5702015121064 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2742,11 +4384,27 @@ Kai zarekwirował cywilny pojazd i dzięki swojemu technoostrzu przerobił go na
 - Wyrwij Generałowi Cryptorowi czerwone technoostrze i uratuj nowe miasto Ninjago. 
 - Model ma ok. 12 cm wysokości, 26 cm długości i 34 cm szerokości.
 
+**Galeria:**
+
+- 70721-1: https://a.allegroimg.com/original/11fa49/fbcc130a4c9ea2afde98e61384ec
+
 ---
 
-## 70722 — Lego Ninjago 70722 Atak OverBorga 70722
+## 70722 — LEGO Ninjago 70722 Atak OverBorga
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015121071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70722 |
+| Nazwa angielska | OverBorg Attack |
+| Nazwa polska | LEGO Ninjago 70722 Atak OverBorga |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121071 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2765,11 +4423,27 @@ Kai zarekwirował cywilny pojazd i dzięki swojemu technoostrzu przerobił go na
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70722-1: https://a.allegroimg.com/original/113cba/800589494858b2ef763079da9215
+
 ---
 
-## 70730 — Lego Ninjago Pojazd łańcuchowy 70730
+## 70730 — Pojazd łańcuchowy
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015347273 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70730 |
+| Nazwa angielska | Chain Cycle Ambush |
+| Nazwa polska | Pojazd łańcuchowy |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347273 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2799,11 +4473,27 @@ Kai zarekwirował cywilny pojazd i dzięki swojemu technoostrzu przerobił go na
 
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 70730-1: https://a.allegroimg.com/original/11dd1e/2158d6b647d8a8803a16fc0c6d78
+
 ---
 
-## 70731 — Lego ninjago 70731 Łazik 1 Jaya
+## 70731 — ninjago
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702015347280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70731 |
+| Nazwa angielska | Jay Walker One |
+| Nazwa polska | ninjago |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702015347280 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2831,11 +4521,27 @@ Pędź przez nawiedzoną bramę w Łaziku 1 Jay'a i zdobądź aeroostrze! Wysu�
 - Wymiary Łazika 1 Jay'a: 13 cm wysokości, 25 cm długości i 13 cm szerokości
 - Wymiary nawiedzonej bramy: 10 cm wysokości, 13 cm szerokości i 3 cm głębokości
 
+**Galeria:**
+
+- 70731-1: https://a.allegroimg.com/original/1185af/ef514dc347ae9f20c4c5723a66dc
+
 ---
 
-## 70732 — Klocki Lego Ninjago Zestaw Miasto Stiix 70732
+## 70732 — City of Stiix
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 3299.00 zł · EAN: 05702015347297 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70732 |
+| Nazwa angielska | City of Stiix |
+| Nazwa polska | City of Stiix |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1069 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347297 |
 
 LEGO 70732 Ninjago | City of Stiix | Miasto Kai Jay Nya Wrayth Ghoultar.
  
@@ -2843,11 +4549,27 @@ Dołącz do dzielnych ninja próbujących wedrzeć się do nawiedzonego miasta S
  
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 70732-1: https://a.allegroimg.com/original/1147f4/b326975d4b17993e165b294ae4f4
+
 ---
 
-## 70733 — Lego 70733 Ninjago Motocykl Cole'a
+## 70733 — Motocykl Cole'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702015347303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70733 |
+| Nazwa angielska | Blaster Bike |
+| Nazwa polska | Motocykl Cole'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347303 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2857,11 +4579,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 70733-1: https://a.allegroimg.com/original/112bae/26ceef9b4326bcdc7ef5bdefdac7
+
 ---
 
-## 70734 — Lego 70734 Ninjago Smok mistrza Wu
+## 70734 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 825.00 zł · EAN: 05702015347310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70734 |
+| Nazwa angielska | Master Wu Dragon |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 575 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347310 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2871,11 +4609,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 70734-1: https://a.allegroimg.com/original/1112f6/cd318a684b41a6f098dfdcf79ef6
+
 ---
 
-## 70735 — Lego Ninjago 70735 Ronin Rex Nowe
+## 70735 — Ronin R.E.X.
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1022.00 zł · EAN: 05702015347327 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70735 |
+| Nazwa angielska | Ronin R.E.X. |
+| Nazwa polska | Ronin R.E.X. |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 547 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 21 cm × gł. 18 cm |
+| EAN | 5702015347327 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2900,11 +4654,27 @@ Ruszaj do walki z ninja-duchami na pokładzie niesamowitego statku powietrznego 
 - Wymiary pojazdu R.E.X. Ronina: 16 cm wysokości, 34 cm długości i 21 cm szerokości 
 - Wymiary smoka-ducha: 24 cm wysokości, 18 cm długości i 17 cm szerokości
 
+**Galeria:**
+
+- 70735-1: https://a.allegroimg.com/original/11b562/897d406c4eaa8136e766abf81f1f
+
 ---
 
-## 70736 — Lego Ninjago atak smoka Morro 70736
+## 70736 — ATAK SMOKA MORRO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 2899.00 zł · EAN: 05702015347334 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70736 |
+| Nazwa angielska | Attack of the Morro Dragon |
+| Nazwa polska | ATAK SMOKA MORRO |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 658 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347334 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2923,11 +4693,27 @@ Ruszaj do walki z ninja-duchami na pokładzie niesamowitego statku powietrznego 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70736-1: https://a.allegroimg.com/original/112535/9b232fa5498b864dbcd5a580a765
+
 ---
 
-## 70737 — Lego Ninjago Titan Mech Battle Tytani 70737
+## 70737 — Titan Mech Battle Tytani
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015347341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70737 |
+| Nazwa angielska | Titan Mech Battle |
+| Nazwa polska | Titan Mech Battle Tytani |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 754 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347341 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2945,11 +4731,27 @@ Ruszaj do walki z ninja-duchami na pokładzie niesamowitego statku powietrznego 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70737-1: https://a.allegroimg.com/original/005326/46ec005448a4b4cb18d42e3402dd
+
 ---
 
-## 70738 — Lego Ninjago 70738 Ostatni lot Perły Przeznaczenia
+## 70738 — Final Flight ofDestiny's Bounty
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702015347358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70738 |
+| Nazwa angielska | Final Flight of Destiny's Bounty |
+| Nazwa polska | Final Flight ofDestiny's Bounty |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347358 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2968,11 +4770,27 @@ Ruszaj do walki z ninja-duchami na pokładzie niesamowitego statku powietrznego 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70738-1: https://a.allegroimg.com/original/032d2b/c3db78524dacbda3a3cbe0903e1a
+
 ---
 
-## 70739 — Lego Ninjago Latająca kapsuła Kai`a 70739
+## 70739 — Latająca kapsuła Kai`a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015347365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70739 |
+| Nazwa angielska | Airjitzu Kai Flyer |
+| Nazwa polska | Latająca kapsuła Kai`a |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347365 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2991,11 +4809,27 @@ Ruszaj do walki z ninja-duchami na pokładzie niesamowitego statku powietrznego 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70739-1: https://a.allegroimg.com/original/05f226/825561264a6d8061a28a53b019d8
+
 ---
 
-## 70746 — Lego Ninjago Klocki Lego Ninjago 70746 Atak Śmigłowca Condra 70746
+## 70746 — KLOCKI LEGO NINJAGO 70746 ATAK ŚMIGŁOWCA CONDRA
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 829.99 zł · EAN: 05702015347433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70746 |
+| Nazwa angielska | Condrai Copter Attack |
+| Nazwa polska | KLOCKI LEGO NINJAGO 70746 ATAK ŚMIGŁOWCA CONDRA |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347433 |
 
 Lego 70746 NINJAGO Atak śmigłowca Condrai
  
@@ -3015,11 +4849,27 @@ Liczba elementów 311
  
 Pozostałe parametry
 
+**Galeria:**
+
+- 70746-1: https://a.allegroimg.com/original/00b3bf/80578e174c509f3d5bfc58e323fa
+
 ---
 
-## 70747 — Lego Ninjago Kruszarka skał 70747
+## 70747 — Kruszarka skał
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015347440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70747 |
+| Nazwa angielska | Boulder Blaster |
+| Nazwa polska | Kruszarka skał |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347440 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3051,11 +4901,27 @@ Pozostałe parametry
 - **Wymiary Kruszarki Skał: ok. 8 x 28 x 19 cm** 
 - **Wymiary posterunku Anacondrai: ok. 3,5 x 6 x 3 cm**
 
+**Galeria:**
+
+- 70747-1: https://a.allegroimg.com/original/00871e/625b88174260871840d8c86b3c78
+
 ---
 
-## 70748 — Lego Ninjago Titanium Dragon 70748
+## 70748 — Titanium Dragon
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702015347457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70748 |
+| Nazwa angielska | Titanium Dragon |
+| Nazwa polska | Titanium Dragon |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347457 |
 
 - Firma: **LEGO**®
 - Nr zestawu: **70748**
@@ -3067,11 +4933,27 @@ Pozostałe parametry
 - Oryginalna instrukcja/instrukcje LEGO: **TAK**
 - Rok prezentacji**:** **2015**
 
+**Galeria:**
+
+- 70748-1: https://a.allegroimg.com/original/1169fa/14e3e1204cabb7a39ffb7397f9a8
+
 ---
 
-## 70749 — Lego Ninjago 70749 Wężowe wrota Nowe
+## 70749 — Wężowe wrota
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1869.00 zł · EAN: 05702015347464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70749 |
+| Nazwa angielska | Enter the Serpent |
+| Nazwa polska | Wężowe wrota |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 529 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347464 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3097,11 +4979,27 @@ Jay jest w niewoli, Anacondrai uwięzili go głęboko w dżungli. Odszukaj drog�
 - Wymiary Świątyni Anacondrai: ok. 19 x 38 x 10 cm 
 - Wymiary odłączanej wieży z więzieniem: ok. 13 x 11 x 3 cm
 
+**Galeria:**
+
+- 70749-1: https://a.allegroimg.com/original/11b20e/e5a252f44bec81f9a1da3e633159
+
 ---
 
-## 70751 — Klocki Lego Ninjago Zestaw Świątynia Airjitzu 70751
+## 70751 — Świątynia Airjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702015347488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70751 |
+| Nazwa angielska | Temple of Airjitzu |
+| Nazwa polska | Świątynia Airjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2028 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347488 |
 
 LEGO 70751 Ninjago Świątynia Airjitzu
 
@@ -3131,11 +5029,27 @@ Odkryj magię orientalnej architektury i przeżyj niezapomniane przygody z mistr
 
 **Detale architektoniczne:** Misternie zdobione okna, zakrzywione dachy wykonane z klocków (unikatowa technika budowy) oraz dekoracyjne mosty tworzą spójną, zapierającą dech w piersiach całość.
 
+**Galeria:**
+
+- 70751-1: https://a.allegroimg.com/original/110f09/f5b9b03a4c998645e678d9d267b7
+
 ---
 
-## 70752 — Lego Ninjago 70752 Pułapka w dżungli Nowe
+## 70752 — Pułapka w Dżungli
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015347495 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70752 |
+| Nazwa angielska | Jungle Trap |
+| Nazwa polska | Pułapka w Dżungli |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347495 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3157,11 +5071,27 @@ Niech rozpocznie się Turniej Żywiołów! Sprzymierz się z Kaiem, który zało
 - Odtwórz ulubione sceny z serialu telewizyjnego NINJAGO Masters of Spinjitzu™
 - Wymiary pułapki w dżungli: ok. 6 x 5 x 13 cm
 
+**Galeria:**
+
+- 70752-1: https://a.allegroimg.com/original/11e678/2eecad6045b8b66b741412bff141
+
 ---
 
-## 71699 — Lego 71699 Ninjago Piorunowy pojazd
+## 71699 — 71699
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 778.00 zł · EAN: 05702016667820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71699 |
+| Nazwa angielska | Thunder Raider |
+| Nazwa polska | 71699 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 576 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 16 cm |
+| EAN | 5702016667820 |
 
 Klocki LEGO Ninjago 71699 - Piorunowy pojazd
 
@@ -3178,11 +5108,27 @@ Piorunowy pojazd z zestawu 71699 wraz z pięcioma minifigurkami zachwyci każde 
 - Klocki LEGO® od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd i można je za każdym razem z łatwością połączyć i rozdzielić. Gdy chodzi o jakość, klocki LEGO nigdy nie zawodzą — na Ziemi ani w mieście NINJAGO®!
 - Te klocki i elementy konstrukcyjne LEGO® zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Zestawy konstrukcyjne LEGO gwarantują, że dzieci i dorośli nie mają się czego obawiać.
 
+**Galeria:**
+
+- 71699-1: https://a.allegroimg.com/original/11bf63/fa8ee9774f04b5cb261585bf1a67
+
 ---
 
-## 71700 — Lego 71700 Ninjago Dżunglowy Ścigacz
+## 71700 — Dżunglowy ścigacz
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 114.45 zł · EAN: 05702016616866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71700 |
+| Nazwa angielska | Jungle Raider |
+| Nazwa polska | Dżunglowy ścigacz |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 127 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016616866 |
 
 LEGO 71700 NINJAGO Dżunglowy ścigacz
 
@@ -3211,11 +5157,27 @@ Stan: **Nowe**
 - Klocki konstrukcyjne LEGO® od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić — nawet w mieście NINJAGO®!
 - Te klocki i elementy LEGO® zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Mając zestawy konstrukcyjne LEGO, nie musisz się martwić.
 
+**Galeria:**
+
+- 71700-1: https://a.allegroimg.com/original/110279/49e4314a432f9c2a7c0449bb222e
+
 ---
 
-## 71701 — Lego Ninjago 71701 smok ognia Kaia
+## 71701 — NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016616873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71701 |
+| Nazwa angielska | Kai's Fire Dragon |
+| Nazwa polska | NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616873 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3234,11 +5196,27 @@ Stan: **Nowe**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71701-1: https://a.allegroimg.com/original/1150c8/82b7b732455889d333f3c41e9b77
+
 ---
 
-## 71702 — Lego Ninjago Złota zbroja 71702
+## 71702 — Złota zbroja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 685.00 zł · EAN: 05702016616880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71702 |
+| Nazwa angielska | Golden Mech |
+| Nazwa polska | Złota zbroja |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616880 |
 
 Zestaw LEGO® 71702 “Golden Mech” z serii Ninjago Legacy wydany w 2020 roku zawiera 489 elementów i 4 minifigurki. Ten zestaw mecha zawiera majestatycznego złotego robota ninja z ruchomymi ramionami i nogami, a w zestawie znajdują się Golden Ninja Lloyd, Mistrz Wu oraz Stone Army Scout i General Kozu, pozwalając na odtwarzanie epickich scen bitewnych z drugiego sezonu serialu.
 
@@ -3246,11 +5224,27 @@ Ten złoty mech stanowi potężną broń w arsenale ninja, oferując imponujący
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 71702-1: https://a.allegroimg.com/original/11048d/8c5743d540beb3bf7a66466d5e4e
+
 ---
 
-## 71703 — Lego 71703 Ninjago Bitwa burzowego myśliwca
+## 71703 — Bitwa burzowego myśliwca
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 203.73 zł · EAN: 05702016616897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71703 |
+| Nazwa angielska | Storm Fighter Battle |
+| Nazwa polska | Bitwa burzowego myśliwca |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm |
+| EAN | 5702016616897 |
 
 Klocki LEGO Ninjago 71703 - Bitwa burzowego myśliwca
 
@@ -3296,11 +5290,27 @@ Zestaw LEGO Ninjago - Bitwa burzowego myśliwca trafił do sprzedaży w 2020 r
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71703-1: https://a.allegroimg.com/original/112fd5/a40400164c8f862bab62143e19ee
+
 ---
 
-## 71704 — Lego Ninjago 71704 Pojazd bojowy Kaia ninja
+## 71704 — Pojazd bojowy Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016616903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71704 |
+| Nazwa angielska | Kai Fighter |
+| Nazwa polska | Pojazd bojowy Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 513 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616903 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -3310,11 +5320,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 71704-1: https://a.allegroimg.com/original/116d77/12d802354694a9d5b005620a3142
+
 ---
 
-## 71705 — Lego Ninjago 71705 Perła Przeznaczenia Nowe
+## 71705 — Perła Przeznaczenia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1349.00 zł · EAN: 05702016616910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71705 |
+| Nazwa angielska | Destiny's Bounty |
+| Nazwa polska | Perła Przeznaczenia |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1781 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616910 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3334,11 +5360,27 @@ Czy jesteś zapalonym fanem NINJAGO, miłośnikiem LEGO, czy po prostu szukasz n
  
 Przygoda z zestawem LEGO 71705 Perła Przeznaczenia przeniesie Cię do świata NINJAGO, pełnego akcji i emocji. Odtwarzaj najważniejsze sceny z życia młodych wojowników, twórz własne historie i doświadcz niesamowitych emocji. Przygotuj się na wielką zabawę z Perłą Przeznaczenia - okrętem, który nie tylko jest pięknym modelem do zbudowania, ale również obiecuje godziny wciągającej zabawy.
 
+**Galeria:**
+
+- 71705-1: https://a.allegroimg.com/original/11dace/6e66010e4cc5b2bbfa48ede90aad
+
 ---
 
-## 71706 — Lego Ninjago Samochód Cole"a 71706
+## 71706 — Samochód
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 124.19 zł · EAN: 05702016616927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71706 |
+| Nazwa angielska | Cole's Speeder Car |
+| Nazwa polska | Samochód |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016616927 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3378,11 +5420,27 @@ Zabawki LEGO NINJAGO 4+ otwierają przedszkolakom drzwi do świata niezliczonych
 - Klocki LEGO już od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić — nawet w krainie NINJAGO! 
 - Te klocki i elementy LEGO zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Mając zestawy konstrukcyjne LEGO, nie musisz się niczym martwić.
 
+**Galeria:**
+
+- 71706-1: https://a.allegroimg.com/original/05d6c7/2d5604534a53a34365feb24d70cf
+
 ---
 
-## 71708 — Zestaw klocków Lego Ninjago 218 elementów 71708
+## 71708 — KLOCKI NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 699.99 zł · EAN: 05702016616941 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71708 |
+| Nazwa angielska | Gamer's Market |
+| Nazwa polska | KLOCKI NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm |
+| EAN | 5702016616941 |
 
 LEGO NINJAGO 71708 SKLEP DLA GRACZY
 
@@ -3398,11 +5456,27 @@ LEGO NINJAGO 71708 SKLEP DLA GRACZY
 
 **Wymiary opakowania:** 26.2 x 19.1 x 6.1 cm
 
+**Galeria:**
+
+- 71708-1: https://a.allegroimg.com/original/1183ce/c27e4d274c4e8cf00e323396cb31
+
 ---
 
-## 71709 — Lego Ninjago Wyścigówki Jaya i Lloyda 71709
+## 71709 — Wyścigówki Jaya i Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 409.99 zł · EAN: 05702016616958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71709 |
+| Nazwa angielska | Jay and Lloyd's Velocity Racers |
+| Nazwa polska | Wyścigówki Jaya i Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702016616958 |
 
 Zestaw z zabawkami dla fanów Cyfrowego Jaya i Cyfrowego Lloyda ze świata NINJAGO!
  
@@ -3424,11 +5498,27 @@ Idealny prezent urodzinowy dla dzieci. Zestawy LEGO NINJAGO to drzwi do tajemnic
 - Klocki LEGO od 1958 r. niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Te klocki i elementy LEGO zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Nawet te obowiązujące w krainie NINJAGO!
 
+**Galeria:**
+
+- 71709-1: https://a.allegroimg.com/original/05888b/1a462ff04f5fb8635774031a4651
+
 ---
 
-## 71710 — Lego 71710 Ninjago Latający samochód ninja
+## 71710 — Latający samochód ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 349.45 zł · EAN: 05702016616965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71710 |
+| Nazwa angielska | Ninja Tuner Car |
+| Nazwa polska | Latający samochód ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 419 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 11 cm |
+| EAN | 5702016616965 |
 
 LEGO 71710 NINJAGO Latający samochód ninja
 
@@ -3456,11 +5546,27 @@ Fani samochodów ninja będą zachwyceni modelem z zestawu 71710 LEGO® NINJAGO
 - Zestaw ze świata wojowników ninja liczy 419 elementów i będzie świetnym prezentem na urodziny dla chłopców i dziewczynek w wieku od 8 lat, którzy będą mieć dużo satysfakcji z samodzielnego ukończenia budowy. Zabawka to nowość na styczeń 2020 r., a także gwarancja wielu godzin znakomitej rozrywki dla małych fanów wyścigów w świecie ninja.
 - Wyścigówka LEGO® jest świetna do zabawy w domu, ale można ją także łatwo spakować i zabrać w podróż. Latający samochód ninja ma ok. 6 cm wysokości, 33 cm długości 11 cm szerokości.
 
+**Galeria:**
+
+- 71710-1: https://a.allegroimg.com/original/11a983/844db2454643befe012be352ab9c
+
 ---
 
-## 71711 — Lego Ninjago 71711 Cybersmok Jaya Nowe
+## 71711 — Cybersmok Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 583.22 zł · EAN: 05702016616972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71711 |
+| Nazwa angielska | Jay's Cyber Dragon |
+| Nazwa polska | Cybersmok Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 518 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 33 cm |
+| EAN | 5702016616972 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3482,11 +5588,27 @@ Fani mechów ninja będą zachwyceni zestawem 71711 Cybersmok Jaya z serii LEGO�
 - Klocki LEGO®, z których składa się ten zabawkowy smok, już od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością rozdzielić. 
 - Klocki LEGO® użyte w tym modelu smoka zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Dając dzieciom zabawki LEGO w prezencie, wiesz, że są one w dobrych rękach.
 
+**Galeria:**
+
+- 71711-1: https://a.allegroimg.com/original/11760f/986544fe4aabb70c39ee7f5e9473
+
 ---
 
-## 71712 — Klocki Lego Ninjago świątynia Unagamiego 810 elementów 9 lat
+## 71712 — LEGO NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 694.12 zł · EAN: 05702016616989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71712 |
+| Nazwa angielska | Empire Temple of Madness |
+| Nazwa polska | LEGO NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 810 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 28 cm |
+| EAN | 5702016616989 |
 
 Zachwycająca świątynia ninja ze świata LEGO® NINJAGO® z sześcioma minifigurkami, wśród których są Cyfrowy Jay i Cyfrowy Cole z NINJAGO, a także Unagami, zły władca Prime Empire.
 
@@ -3510,11 +5632,27 @@ Ciekawe i niebanalne zestawy do budowania Zestawy konstrukcyjne LEGO® NINJAGO®
 
 - Klocki LEGO® użyte w tej zabawce akcji zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Dając dzieciom w prezencie zabawki LEGO, wiesz, że są w dobrych rękach.
 
+**Galeria:**
+
+- 71712-1: https://a.allegroimg.com/original/0082a1/533c27134fc4b89784bd1687978b
+
 ---
 
-## 71713 — Lego 71713 Ninjago Imperialny smok
+## 71713 — Imperialny smok
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 437.50 zł · EAN: 05702016667837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71713 |
+| Nazwa angielska | Empire Dragon |
+| Nazwa polska | Imperialny smok |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 14 cm |
+| EAN | 5702016667837 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -3545,11 +5683,27 @@ Zbudowanie zabawkowego smoka i odtwarzanie emocjonujących scen akcji z serialu 
 - Klocki LEGO®, z których składa się ten zabawkowy smok, już od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością rozdzielić. Są odporne nawet na atak smoka!
 - Klocki LEGO® użyte w tym zestawie NINJAGO® zostały poddane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Dając dzieciom zabawki LEGO w prezencie, wiesz, że są one w dobrych rękach.
 
+**Galeria:**
+
+- 71713-1: https://a.allegroimg.com/original/0089cc/57d72a2644c38f50b4de0030ae8d
+
 ---
 
-## 71714 — Lego Ninjago 71714 Kapsuła Gracza
+## 71714 — Kapsuła Gracza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016616996 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71714 |
+| Nazwa angielska | Kai Avatar - Arcade Pod |
+| Nazwa polska | Kapsuła Gracza |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616996 |
 
 Witamy!
 
@@ -3571,11 +5725,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71714-1: https://a.allegroimg.com/original/11471c/1b62e9784bf79ce65856e76ca1ae
+
 ---
 
-## 71715 — Lego Ninjago 71715 Awatar Jaya Kapsuła Gracza
+## 71715 — Awatar Jaya - kapsuła gracza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702016617009 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71715 |
+| Nazwa angielska | Jay Avatar - Arcade Pod |
+| Nazwa polska | Awatar Jaya - kapsuła gracza |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617009 |
 
 Witamy!
 
@@ -3597,11 +5767,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71715-1: https://a.allegroimg.com/original/11a52a/9c16d93f4f6e988cfc813d351d74
+
 ---
 
-## 71716 — Lego 71716 Ninjago Awatar Lloyda Kapsuła Gracza
+## 71716 — Awatar Lloyda - kapsuła gracza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016617016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71716 |
+| Nazwa angielska | Lloyd Avatar - Arcade Pod |
+| Nazwa polska | Awatar Lloyda - kapsuła gracza |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617016 |
 
 Witamy!
 
@@ -3623,11 +5809,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71716-1: https://a.allegroimg.com/original/1198e3/ca8d59bb45a6a7afcd7b6883d55a
+
 ---
 
-## 71717 — Lego 71717 Ninjago Podróż do Lochów Czaszki
+## 71717 — Podróż do Lochów Czaszki
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702016617023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71717 |
+| Nazwa angielska | Journey to the Skull Dungeons |
+| Nazwa polska | Podróż do Lochów Czaszki |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617023 |
 
 Oryginalne, nieotwierane opakowanie, dokładny stan opakowania patrz zdjęcie (zgniecione w transporcie)
 
@@ -3639,11 +5841,27 @@ Numer magazynowy sprzedawcy: 20260305
 
 Przybliżone wymiary opakowania: **35.3 x 18.9 x 6.9 cm**
 
+**Galeria:**
+
+- 71717-1: https://a.allegroimg.com/original/113a0f/a76b7250468f97aa20f1e2e22dfa
+
 ---
 
-## 71718 — Lego Ninjago 71718 Bojowy smok Wu
+## 71718 — Ninjago
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 281.36 zł · EAN: 05702016617030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71718 |
+| Nazwa angielska | Wu's Battle Dragon |
+| Nazwa polska | Ninjago |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617030 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3685,11 +5903,27 @@ Najlepsze zestawy z wojownikami ninja
  
 Zabawki do budowania LEGO NINJAGO pozwalają dzieciom wyruszyć na poszukiwanie przygód w pełnym tajemnic świecie, w którym mogą wcielać się w postacie ninja walczących z mrocznymi siłami, a przez to poznać kodeks honorowy swoich bohaterów. Te wyjątkowe zabawki ze smokami, samochodami i mechami pochłoną fanów NINJAGO na wiele godzin.
 
+**Galeria:**
+
+- 71718-1: https://a.allegroimg.com/original/05c8b3/b1c36b75404ab4d5aad0f3b1b18c
+
 ---
 
-## 71719 — Lego Ninjago 71719 Rogaty stwór Zane'a Nowe
+## 71719 — Rogaty stwór Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016617047 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71719 |
+| Nazwa angielska | Zane's Mino Creature |
+| Nazwa polska | Rogaty stwór Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 616 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 7 cm |
+| EAN | 5702016617047 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3715,11 +5949,27 @@ Niesamowite zabawki do zbudowania dla dzieci Dla dzieci obdarzonych wyobraźnią
 - Klocki LEGO® od 1958 r. niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Te klocki i elementy LEGO® zostały poddane rygorystycznym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Są tak solidne, że nie da im rady nawet rogaty stwór!
 
+**Galeria:**
+
+- 71719-1: https://a.allegroimg.com/original/119d63/c2be282547a898a07f7278c7f803
+
 ---
 
-## 71720 — Lego Ninjago 71720 Mech z ognia i kamienia Nowe
+## 71720 — Mech z ognia i kamienia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702016617054 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71720 |
+| Nazwa angielska | Fire Stone Mech |
+| Nazwa polska | Mech z ognia i kamienia |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 968 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 29 cm |
+| EAN | 5702016617054 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3745,11 +5995,27 @@ Idealne zabawki konstrukcyjne dla dzieci Zabawki LEGO® NINJAGO są dla maluchó
 - Klocki LEGO® z tego zestawu z mechem NINJAGO® odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - KlockiLEGO® użyte do zbudowania tego mecha spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Dając dzieciom zabawki LEGO w prezencie, wiesz, że to bezpieczna decyzja.
 
+**Galeria:**
+
+- 71720-1: https://a.allegroimg.com/original/110f13/1f4279e74c4fa589d942c4179bfe
+
 ---
 
-## 71721 — Lego Ninjago 71721 Smok Szkieletowego Czarownika Nowe
+## 71721 — Smok Szkieletowego Czarownika
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 756.00 zł · EAN: 05702016617061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71721 |
+| Nazwa angielska | Skull Sorcerer's Dragon |
+| Nazwa polska | Smok Szkieletowego Czarownika |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1016 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617061 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3771,11 +6037,27 @@ Zestaw LEGO 71721 Smok Szkieletowego Czarownika to nie tylko doskonały prezent 
 
 Ponadczasowa magia klocków LEGO połączona z ekscytującą tematyką Ninjago sprawia, że zestaw 71721 Smok Szkieletowego Czarownika staje się nie tylko elementem kolekcji, ale prawdziwym przeżyciem. Wybierz ten zestaw i pozwól dziecku na wyprawę w nieznane, pełne wyzwań krainy, gdzie tylko odwaga i wyobraźnia decydują o zwycięstwie!
 
+**Galeria:**
+
+- 71721-1: https://a.allegroimg.com/original/11a3c1/d551bcbf413d82a493d78486ae29
+
 ---
 
-## 71722 — Klocki Lego Ninjago Zestaw Lochy Szkieletowego Czarownika 71722
+## 71722 — Lochy Szkieletowego Czarownika
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 929.00 zł · EAN: 05702016617078 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71722 |
+| Nazwa angielska | Skull Sorcerer's Dungeons |
+| Nazwa polska | Lochy Szkieletowego Czarownika |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617078 |
 
 **Zestaw LEGO NINJAGO Lochy Szkieletowego Czarownika 71722**
 
@@ -3805,11 +6087,27 @@ Spinner-kostka pozwala przenieść zabawę na planszę do gry LEGO®, więc dawk
 
 **Nie czekaj, aż lochy zostaną zamknięte!** Zdobądź ten **nowy i kompletny** zestaw LEGO® NINJAGO Lochy Szkieletowego Czarownika 71722 i stań się częścią ninjańskiej akcji!
 
+**Galeria:**
+
+- 71722-1: https://a.allegroimg.com/original/118174/04c8ebe545ffa880f3de8e2f9cee
+
 ---
 
-## 71730 — Lego Ninjago Epicki zestaw bojowy Kai kontra Szkielet 71730
+## 71730 — Epicki zestaw bojowy - Kai kontra Szkielet
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702016912142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71730 |
+| Nazwa angielska | Epic Battle Set - Kai vs. Skulkin |
+| Nazwa polska | Epicki zestaw bojowy - Kai kontra Szkielet |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912142 |
 
 LEGO NINJAGO
  
@@ -3842,11 +6140,27 @@ Aby odgrywanie scenek było **jeszcze bardziej realistyczne**, w zestawie znala
 - **odlotowa platforma bojowa, **dzięki której Kai może się obracać, co pomoże mu pokonać wrogiego Skulkina, 
 - **cztery czerwone bronie, **dla jeszcze większego urozmaicenia rozgrywki.
 
+**Galeria:**
+
+- 71730-1: https://a.allegroimg.com/original/05da73/b6ee14d9490fa82eb8104644e8ee
+
 ---
 
-## 71732 — Lego Ninjago 71732 Zestaw Bojowy Jay Kontra Wężon
+## 71732 — Ninjago
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 149.49 zł · EAN: 05702016912067 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71732 |
+| Nazwa angielska | Epic Battle Set - Jay vs. Serpentine |
+| Nazwa polska | Ninjago |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 6 cm × gł. 7 cm |
+| EAN | 5702016912067 |
 
 LEGO NINJAGO
 
@@ -3887,11 +6201,27 @@ SPECYFIKACJA:
 - **Wiek:** Od 6 lat
 - **Ilość elementów:** 69
 
+**Galeria:**
+
+- 71732-1: https://a.allegroimg.com/original/111ede/9b7502c94b5997a6c5f92b6c5804
+
 ---
 
-## 71733 — Lego Ninjago Epicki zestaw bojowy Cole kontra Wojownik-duch 71733
+## 71733 — Epicki zestaw bojowy - Cole kontra Wojownik-duch
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016912388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71733 |
+| Nazwa angielska | Epic Battle Set - Cole vs. Ghost Warrior |
+| Nazwa polska | Epicki zestaw bojowy - Cole kontra Wojownik-duch |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm × gł. 8 cm |
+| EAN | 5702016912388 |
 
 Zestaw nowy, oryginalny, fabrycznie zamknięty.
 
@@ -3917,11 +6247,27 @@ Dzięki zestawom LEGO NINJAGO dzieci odstawią ekrany w kąt, by wyruszyć na ek
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie potrzebujesz do tego umiejętności ninja!
 - Klocki LEGO® spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71733-1: https://a.allegroimg.com/original/11edb4/148dc25649e3838f97b3bf1429d3
+
 ---
 
-## 71734 — Lego Ninjago 71734 Motocykl Kaia
+## 71734 — Kai's Blade Cycle
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702016912555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71734 |
+| Nazwa angielska | Kai's Blade Cycle |
+| Nazwa polska | Kai's Blade Cycle |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016912555 |
 
 KARTON POSIADA ZAGNIECENIA ITP.
 
@@ -3949,11 +6295,27 @@ Zestawy LEGO dla dzieci w wieku od 4 lat pozwalają dorosłym budować razem z p
 - Już od ponad sześciu dekad klocki do budowania LEGO® są produkowane z wysokiej jakości materiałów, aby za każdym razem można było je łatwo połączyć i rozdzielić. Nie trzeba być sprawnym i silnym jak ninja! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc możesz mieć pewność, że dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71734-1: https://a.allegroimg.com/original/111d74/19eee9914337950086d87442d403
+
 ---
 
-## 71735 — Lego Ninjago Turniej Żywiołów 71735
+## 71735 — Turniej Żywiołów
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016888744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71735 |
+| Nazwa angielska | Tournament of Elements |
+| Nazwa polska | Turniej Żywiołów |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 283 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm × gł. 24 cm |
+| EAN | 5702016888744 |
 
 Pozwól dzieciom inscenizować zdumiewające starcia z 4. sezonu serialu LEGO® NINJAGO. Pomoże im w tym zestaw 71735 Turniej Żywiołów. Niezwykle szczegółowy model świątyni jest wyposażony w platformę bojową, platformę z obrotową bronią, broń wirującą i jadeitowe ostrza.
  
@@ -3979,11 +6341,27 @@ Zestawy bojowe LEGO NINJAGO pozwalają dzieciom uciec do fantastycznego świata,
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie potrzebujesz do tego umiejętności ninja! 
 - Klocki LEGO® spełniają najwyższe światowe standardy bezpieczeństwa, więc zestawy LEGO są zawsze bezpieczne dla Twoich dzieci.
 
+**Galeria:**
+
+- 71735-1: https://a.allegroimg.com/original/25b535/7fe5083f450f9fff22ca38f673f8
+
 ---
 
-## 71736 — Lego Ninjago 71736 Kruszarka Skał
+## 71736 — Kruszarka skał
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702016888751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71736 |
+| Nazwa angielska | Boulder Blaster |
+| Nazwa polska | Kruszarka skał |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 449 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016888751 |
 
 Witamy!
 
@@ -4005,11 +6383,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71736-1: https://a.allegroimg.com/original/11f364/9c05bc47433ca4452b818488c84e
+
 ---
 
-## 71737 — Lego Ninjago 71737 Zestaw Ninjaścigacz X-1
+## 71737 — Ninjaścigacz X-1
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 355.00 zł · EAN: 05702016888768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71737 |
+| Nazwa angielska | X-1 Ninja Charger |
+| Nazwa polska | Ninjaścigacz X-1 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 599 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 11 cm |
+| EAN | 5702016888768 |
 
 Dzieci z wielką chęcią odegrają starcia wojowników ninja z Nindroidami z 3. sezonu serialu LEGO® NINJAGO®. Pomoże im w tym odświeżona wersja Ninjaścigacza X-1 z zestawu 71737. Pojazd 2 w 1 ma dwa sprężynowe działka, a w jego wnętrzu ukryty jest odjazdowy motocykl, który za pomocą przycisku można wystrzelić do walki.
  
@@ -4035,11 +6429,27 @@ Zestawy LEGO NINJAGO przenoszą dzieci do świata emocjonujących przygód. Pozw
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie potrzebujesz do tego umiejętności ninja! 
 - Klocki LEGO® spełniają najwyższe światowe standardy bezpieczeństwa, więc zestawy LEGO są zawsze bezpieczne dla Twoich dzieci.
 
+**Galeria:**
+
+- 71737-1: https://a.allegroimg.com/original/00bbab/1c42686f4697a593c352994d80fb
+
 ---
 
-## 71738 — Lego Ninjago 71738 Starcie tytanów Mech Nowe
+## 71738 — Starcie tytanów Mech
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 483.00 zł · EAN: 05702016889697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71738 |
+| Nazwa angielska | Zane's Titan Mech Battle |
+| Nazwa polska | Starcie tytanów Mech |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 840 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 15 cm |
+| EAN | 5702016889697 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4065,11 +6475,27 @@ Najlepsze prezenty dla pomysłowych dzieci Zestawy NINJAGO przenoszą dzieci do 
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie potrzebujesz do tego umiejętności ninja! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71738-1: https://a.allegroimg.com/original/11c78a/7c70cbc541c79d2c70ab4114d849
+
 ---
 
-## 71739 — Lego Ninjago 71739 Ultradźwiękowy pogromca
+## 71739 — Ultradźwiękowy pogromca
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 650.00 zł · EAN: 05702016912685 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71739 |
+| Nazwa angielska | Ultra Sonic Raider |
+| Nazwa polska | Ultradźwiękowy pogromca |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 725 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912685 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -4079,11 +6505,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 71739-1: https://a.allegroimg.com/original/11f860/a1067df245b3a70cf2853faec4dd
+
 ---
 
-## 71740 — Klocki Lego 71740 Ninjago Elektromech 106 elementów
+## 71740 — ElectroMech Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702016889574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71740 |
+| Nazwa angielska | Jay's Electro Mech |
+| Nazwa polska | ElectroMech Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm |
+| EAN | 5702016889574 |
 
 Podczas odgrywania scen z 4. Zestaw zawiera ruchomego mecha, pojazd ninja, zabawkowego pająka i złoty miecz na stojaku — w sam raz na długie przygody w świecie ninja. Nauka budowania z LEGO® NINJAGO® Ten fantastyczny zestaw został zaprojektowany specjalnie dla maluchów w wieku od 4 lat. Zabawa może rozpocząć się bardzo szybko, bo każdy z woreczków w opakowaniu zawiera klocki potrzebne do zbudowania całego modelu lub postaci. W komplecie jest też klocek startowy, więc dzieci mają częściowo złożoną podstawkę.
 
@@ -4103,11 +6545,27 @@ Rozrywka dla całej rodziny Modele LEGO® 4+ ułatwiają dorosłym zabawę z dzi
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie trzeba być sprawnym jak ninja! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71740-1: https://a.allegroimg.com/original/114726/1d80792f4ac18838e7f33e4fafe3
+
 ---
 
-## 71741 — Lego Ninjago 71741 Ogrody miasta 5685 elementów Rzadki Egzemplarz! Unikat!
+## 71741 — LEGO Ninjago Ogrody miasta NINJAGO 71741
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1649.99 zł · EAN: 05702016912692 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71741 |
+| Nazwa angielska | NINJAGO City Gardens |
+| Nazwa polska | LEGO Ninjago Ogrody miasta NINJAGO 71741 |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 73 cm × szer. 33 cm |
+| EAN | 5702016912692 |
 
 Sięgnij po zestaw Ogrody miasta NINJAGO® (71741), który przywoła miłe wspomnienia ze świata ninja. Ten jubileuszowy zestaw powstał z okazji 10. rocznicy uniwersum NINJAGO i świetnie sprawdzi się jako zabawka lub ozdoba, a jego budowanie będzie satysfakcjonującym doznaniem.
  
@@ -4132,11 +6590,27 @@ Ten imponujący model z pewnością spodoba się fanom NINJAGO bez względu na w
 - Już od ponad sześciu dekad klocki LEGO® powstają z najwyższej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie trzeba być sprawnym jak ninja! 
 - Klocki LEGO® spełniają najwyższe światowe standardy bezpieczeństwa, więc zestawy LEGO są zawsze bezpieczne dla Twoich dzieci.
 
+**Galeria:**
+
+- 71741-1: https://a.allegroimg.com/original/0507b8/233c06d84b4baac99a1e77908543
+
 ---
 
-## 71745 — Lego Ninjago 71745 Dżunglowy chopper Lloyda
+## 71745 — Dżunglowy chopper Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016889239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71745 |
+| Nazwa angielska | Lloyd's Jungle Chopper Bike |
+| Nazwa polska | Dżunglowy chopper Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 6 cm |
+| EAN | 5702016696233, 5702016889239 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4176,11 +6650,27 @@ Dzięki nim dzieciaki mogą wymyślać własne przygody w dżungli i na morzu or
 - Już od ponad sześciu dekad klocki do budowania LEGO® są produkowane z wysokiej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. Nie trzeba być sprawnym jak ninja! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71745-1: https://a.allegroimg.com/original/00f1b4/2c9185274153a0a8489abad6136e
+
 ---
 
-## 71747 — Lego Ninjago Wioska Strażników 71747
+## 71747 — Wioska strażników
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 408.90 zł · EAN: 05702016889680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71747 |
+| Nazwa angielska | The Keeper's Village |
+| Nazwa polska | Wioska strażników |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 632 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 29 cm |
+| EAN | 5702016889680 |
 
 **Wioska strażników**
 
@@ -4202,11 +6692,27 @@ Dzięki rewelacyjnej gamie zabawek LEGO NINJAGO ze smokami, robotami i świątyn
 - W sprzedaży jest dostępnych więcej zestawów NINJAGO® inspirowanych serialem telewizyjnym, w tym Dżunglowy chopper Lloyda (71745), Dżunglowy smok (71746) oraz Morska bitwa katamaranów (71748).
 - LEGO® NINJAGO® to wspaniała kolekcja ciekawych zestawów dla dzieci, które gwarantują wiele godzin kreatywnej zabawy. Każdy z nich pozwala małym konstruktorom przeżyć przygody u boku wojowników ninja i rozwinąć przydatne umiejętności.
 
+**Galeria:**
+
+- 71747-1: https://a.allegroimg.com/original/118426/cad172ad4f29bd01a93dae0552da
+
 ---
 
-## 71748 — Lego 71748 Ninjago Morska Bitwa Katamaranów
+## 71748 — Morska bitwa katamaranów
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702016889284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71748 |
+| Nazwa angielska | Catamaran Sea Battle |
+| Nazwa polska | Morska bitwa katamaranów |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 780 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016889284 |
 
 LEGO 71748 NINJAGO Morska bitwa katamaranów
 
@@ -4234,11 +6740,27 @@ Wszystkie figurki są uzbrojone we włócznie, miecze i tarcze, dzięki którym 
 - Katamaran ninja ma dwa sprężynowe działka i można złożyć go w tryb wyścigowy oraz rozłożyć w tryb bojowy.
 - Ten zestaw bojowy składający się z 780 klocków zapewnia ciekawe wyzwanie konstruktorskie dla dziewięciolatków i starszych dzieci i świetnie sprawdzi się jako imponujący prezent na urodziny lub święta.
 
+**Galeria:**
+
+- 71748-1: https://a.allegroimg.com/original/11110b/fb2d619e4d5da026f7df7828f58d
+
 ---
 
-## 71749 — Lego Ninjago Ostatni lot Perły Przeznaczenia 71749 statek ninja go perła
+## 71749 — Ostatni lot Perły Przeznaczenia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702016912708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71749 |
+| Nazwa angielska | Final Flight of Destiny's Bounty |
+| Nazwa polska | Ostatni lot Perły Przeznaczenia |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm |
+| EAN | 5702016912708 |
 
 Wyrusz w rejs okrętem ninja razem z Kaiem, Zane’em i Jayem, by stoczyć niesamowitą bitwę morską przeciwko ninja-duchowi Karennowi. Wskocz na superszybki skuter wodny lub dosiądź smoka i zaatakuj wroga z powietrza. Złap tego niebezpiecznego złoczyńcę i dobij do małej wyspy, gdzie wtrącisz go do więzienia!
 
@@ -4262,11 +6784,27 @@ Zestaw LEGO® NINJAGO® Ostatni lot Perły Przeznaczenia (71749) z okrętem peł
  
 • Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc możesz mieć pewność, że dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71749-1: https://a.allegroimg.com/original/25c280/0d2dbbf241699a902c490829db80
+
 ---
 
-## 71750 — Lego Ninjago 71750 Wodny Mech Lloyda
+## 71750 — KLOCKI NINJAGO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702016912296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71750 |
+| Nazwa angielska | Lloyd's Hydro Mech |
+| Nazwa polska | KLOCKI NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912296 |
 
 LEGO NINJAGO 71750 WODNY MECH LLOYDA
 
@@ -4274,11 +6812,27 @@ LEGO NINJAGO 71750 WODNY MECH LLOYDA
 
 **Wymiary opakowania:** 26.2 x 19.1 x 6.1 cm
 
+**Galeria:**
+
+- 71750-1: https://a.allegroimg.com/original/118dbf/fca54d3d401bb39a2d94576de189
+
 ---
 
-## 71752 — Lego Ninjago 71752 Podwodny Śmigacz Ninja
+## 71752 — Podwodny śmigacz ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702016912302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71752 |
+| Nazwa angielska | Ninja Sub Speeder |
+| Nazwa polska | Podwodny śmigacz ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702016912302 |
 
 Zestaw Podwodny śmigacz ninja (71752) pozwala dzieciom odgrywać ekscytujące sceny z najnowszego sezonu serialu LEGO® NINJAGO®. Pojazd 2 w 1 jest wyposażony w odczepianego drona, dwa miotacze klocków oraz otwierany kokpit i można go przekształcić w samochód lub łódź podwodną.
  
@@ -4303,11 +6857,27 @@ Zestawy konstrukcyjne NINJAGO pozwalają dzieciom przenieść się do pełnego z
 - Już od ponad sześciu dekad klocki LEGO® powstają z wysokiej jakości materiałów, abyśmy mogli mieć pewność, że za każdym razem da się je łatwo połączyć i rozdzielić — umiejętności i siła ninja nie są potrzebne! 
 - Klocki konstrukcyjne LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc możesz mieć pewność, że Twoje dzieci są w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71752-1: https://a.allegroimg.com/original/11565b/3b4800004e88b1215a227e740f3f
+
 ---
 
-## 71753 — Lego Ninjago Atak smoka ognia 71753
+## 71753 — Atak smoka ognia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 358.97 zł · EAN: 05702016912319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71753 |
+| Nazwa angielska | Fire Dragon Attack |
+| Nazwa polska | Atak smoka ognia |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 563 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 59 cm |
+| EAN | 5702016912319 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4345,11 +6915,27 @@ Nya w wersji Legacy jest nowością na czerwiec 2021 roku — to kolekcjonerska 
 - Już od ponad sześciu dekad klocki LEGO® są produkowane z wysokiej jakości materiałów, aby za każdym razem można było je łatwo połączyć i rozdzielić. Nie trzeba być sprawnym i silnym jak ninja! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc możesz mieć pewność, że dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71753-1: https://a.allegroimg.com/original/259886/6bd783ea4f7e826376b693d3964f
+
 ---
 
-## 71754 — Lego Ninjago 71754 Smok wodny
+## 71754 — Smok wodny
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016912326 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71754 |
+| Nazwa angielska | Water Dragon |
+| Nazwa polska | Smok wodny |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 737 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912326 |
 
 **Bogaty w szczegóły zestaw Smok wodny (71754) pozwala dzieciom odgrywać niesamowite historie z najnowszego sezonu serialu NINJAGO®. Imponujący smok ma ruchomą głowę, szczękę, nogi, szyję, skrzydła i ogon, który może posłużyć jako broń. Zestaw gwarantuje młodym konstruktorom wiele godzin zabawy, która rozwija.**
 
@@ -4373,11 +6959,27 @@ Nya w wersji Legacy jest nowością na czerwiec 2021 roku — to kolekcjonerska 
 - **Już od ponad sześciu dekad klocki LEGO® powstają z wysokiej jakości materiałów, abyśmy mogli mieć pewność, że za każdym razem da się je łatwo połączyć i rozdzielić — umiejętności i siła ninja nie są potrzebne!**
 - **Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc dzieci są zawsze w bezpiecznych rękach.**
 
+**Galeria:**
+
+- 71754-1: https://a.allegroimg.com/original/05995d/3a663f12405088813088c050b853
+
 ---
 
-## 71755 — Lego Ninjago Świątynia Bezkresnego Morza 71755
+## 71755 — Świątynia Bezkresnego Morza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 627.46 zł · EAN: 05702016912333 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71755 |
+| Nazwa angielska | Temple of the Endless Sea |
+| Nazwa polska | Świątynia Bezkresnego Morza |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1060 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 57 cm |
+| EAN | 5702016912333 |
 
 **ŚWIĄTYNIA BEZKRESNEGO MORZA**
 
@@ -4401,11 +7003,27 @@ Daj głębokiego nura do wody i przygotuj się na emocjonujące bitwy w Świąty
 
 • Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc zestawy LEGO są zawsze bezpieczne dla dzieci.
 
+**Galeria:**
+
+- 71755-1: https://a.allegroimg.com/original/11106e/d6ef738f4932aac9ab9d158f2767
+
 ---
 
-## 71756 — Lego Ninjago Pływająca Perła 71756
+## 71756 — Ninjago Pływająca Perła
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1119.00 zł · EAN: 05702016912340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71756 |
+| Nazwa angielska | Hydro Bounty |
+| Nazwa polska | Ninjago Pływająca Perła |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 30 cm |
+| EAN | 5702016912340 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4441,11 +7059,27 @@ Daj głębokiego nura do wody i przygotuj się na emocjonujące bitwy w Świąty
 - Już od ponad sześciu dekad klocki LEGO® powstają z wysokiej jakości materiałów, abyśmy mogli mieć pewność, że za każdym razem da się je łatwo połączyć i rozdzielić — umiejętności ninja nie są potrzebne! 
 - Klocki LEGO® spełniają rygorystyczne standardy bezpieczeństwa, więc dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71756-1: https://a.allegroimg.com/original/110820/7a316153461c9ff657b21bffee09
+
 ---
 
-## 71757 — Lego 71757 Ninjago Mech Ninja Lloyda
+## 71757 — Ninja Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017151618 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71757 |
+| Nazwa angielska | Lloyd's Ninja Mech |
+| Nazwa polska | Ninja Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017151618 |
 
 LEGO Ninjago Mech Ninja Lloyda
  
@@ -4479,11 +7113,27 @@ Do zestawu dołączone są interaktywne cyfrowe instrukcje budowania, dzięki kt
 - Wysoka jakość — Już od ponad sześciu dekad klocki konstrukcyjne LEGO® są produkowane tak, aby za każdym razem można było je łatwo rozdzielić. Nie trzeba być sprawnym jak ninja 
 - Zawsze w bezpiecznych rękach — Klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71757-1: https://a.allegroimg.com/original/050b4f/ee8192f940d8909bffaa23b73a28
+
 ---
 
-## 71760 — Lego Ninjago 71760 Smok gromu Jaya Evo
+## 71760 — Smok gromu Jaya EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 140.83 zł · EAN: 05702017117478 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71760 |
+| Nazwa angielska | Jay's Thunder Dragon EVO |
+| Nazwa polska | Smok gromu Jaya EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117478 |
 
 Lego NINJAGO 71760 Smok gromu Jaya EVO
 
@@ -4504,11 +7154,27 @@ Wyjątkowe zabawki do twórczej zabawyZabawki NINJAGO mają wielką moc -- przen
 - Wysoka jakość -- Już od ponad sześciu dekad klocki LEGO(R) są produkowane tak, aby za każdym razem można je było łatwo rozdzielić
 - Gwarancja bezpieczeństwa -- Klocki konstrukcyjne LEGO(R) spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71760-1: https://a.allegroimg.com/original/11b9ea/84cae1ac49e5a4056b9be1cbf8bf
+
 ---
 
-## 71761 — Lego 71761 Ninjago Energetyczny mech Zane’a Evo dla dziecka
+## 71761 — Energetyczny mech Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 195.31 zł · EAN: 05702017117263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71761 |
+| Nazwa angielska | Zane's Power Up Mech EVO |
+| Nazwa polska | Energetyczny mech Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117263 |
 
 LEGO 71761 Ninjago - Energetyczny mech Zane’a EVO
 
@@ -4540,11 +7206,27 @@ Zabawki NINJAGO odciągają dzieci od ekranów i przenoszą je do pasjonującego
 
 - Akcja w fantastycznym świecie — Zabawki LEGO® NINJAGO® odciągają dzieci od ekranów i pozwalają im przenieść się do mistycznego świata, gdzie pociechy zmierzą się z siłami
 
+**Galeria:**
+
+- 71761-1: https://a.allegroimg.com/original/114046/052853ba456695a59cbbeb8fcb15
+
 ---
 
-## 71762 — Lego 71762 Ninjago Smok ognia Kaia Evo
+## 71762 — Smok ognia Kaia EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017117249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71762 |
+| Nazwa angielska | Kai's Fire Dragon EVO |
+| Nazwa polska | Smok ognia Kaia EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 204 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117249 |
 
 Klocki LEGO Ninjago 71762 - Smok ognia Kaia EVO
 
@@ -4588,11 +7270,27 @@ Zestaw LEGO Ninjago - Smok ognia Kaia EVO trafił do sprzedaży w 2022 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71762-1: https://a.allegroimg.com/original/114f34/32346f6d4a2d99dd4ae849f89128
+
 ---
 
-## 71763 — Lego 71763 Ninjago Samochód wyścigowy Lloyda Evo
+## 71763 — Samochód wyścigowy Lloyda EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 226.49 zł · EAN: 05702017117232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71763 |
+| Nazwa angielska | Lloyd's Race Car EVO |
+| Nazwa polska | Samochód wyścigowy Lloyda EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm |
+| EAN | 5702017117232 |
 
 Klocki LEGO Ninjago 71763 - Samochód wyścigowy Lloyda EVO
 
@@ -4642,11 +7340,27 @@ Zestaw LEGO Ninjago - Samochód wyścigowy Lloyda EVO trafił do sprzedaży w 20
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71763-1: https://a.allegroimg.com/original/11de62/e02c1cd646ab921637b45c7ed634
+
 ---
 
-## 71764 — Lego Ninjago 71764 Akademia Wojowników Ninja
+## 71764 — Akademia wojowników Ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017151984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71764 |
+| Nazwa angielska | Ninja Training Center |
+| Nazwa polska | Akademia wojowników Ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 524 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017151984 |
 
 Witamy!
 
@@ -4668,11 +7382,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71764-1: https://a.allegroimg.com/original/1151e7/8f736f354db3b11c77a47d05c866
+
 ---
 
-## 71766 — Lego Ninjago Legendarny smok Lloyda 71766
+## 71766 — Legendarny smok Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017151632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71766 |
+| Nazwa angielska | Lloyd's Legendary Dragon |
+| Nazwa polska | Legendarny smok Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 747 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017151632 |
 
 Uważaj, armia niebezpiecznych węży atakuję Lloyda i Nyę! Latająca żmija ma miecze i może wzbić się w powietrze, korzystając z plecaka odrzutowego, a Pyton Dynamit strzela pociskami z potężnej naziemnej balisty. Zanim wzlecisz ku niebu, aby zmierzyć się z wężami, musisz wytresować smoka Lloyda. W nagrodę za ukończenie misji otrzymasz kolekcjonerski baner zaskoczenia.
 
@@ -4701,11 +7431,27 @@ Dzieci mają wszystko, czego potrzebują do odgrywania ekscytujących historii, 
 - Wysoka jakość — Już od ponad sześciu dekad klocki konstrukcyjne LEGO® są produkowane tak, aby za każdym razem można było je łatwo rozdzielić. Nie trzeba być sprawnym jak ninja 
 - Zawsze w bezpiecznych rękach — Klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71766-1: https://a.allegroimg.com/original/252079/4daad4b646c5808c0de96a340703
+
 ---
 
-## 71767 — Klocki Lego Ninjago Zestaw Dojo ninja w świątyni 71767
+## 71767 — Dojo ninja w świątyni
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 637.99 zł · EAN: 05702017151649 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71767 |
+| Nazwa angielska | Ninja Dojo Temple |
+| Nazwa polska | Dojo ninja w świątyni |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1394 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 54 cm × gł. 24 cm |
+| EAN | 5702017151649 |
 
 Dołącz do ninja w tajnym dojo, gdzie dowiesz się, jak zostać mistrzem Spinjitzu. Ukończ fantastyczne wyzwania i zwiedź wszystkie niezwykłe pomieszczenia na trzech piętrach. Zachowaj jednak ostrożność, ponieważ przebiegli wężowi wojownicy czekają na zewnątrz i próbują wyważyć drzwi taranem! Musisz obronić dojo! W nagrodę za wykonanie misji otrzymasz kolekcjonerski sztandar mądrości.
 
@@ -4736,11 +7482,27 @@ Zabawki NINJAGO odciągają dzieci od ekranów, pozwalając im przenieść się 
 - Wysoka jakość — Już od ponad sześciu dekad klocki LEGO® są produkowane tak, aby za każdym razem można je było łatwo rozdzielić 
 - Zawsze w bezpiecznych rękach — Klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71767-1: https://a.allegroimg.com/original/25fbbe/db421a634880929c6a0655cd23ee
+
 ---
 
-## 71768 — Lego 71768 Ninjago Złoty smoczy motocykl Jaya
+## 71768 — Złoty smoczy motocykl Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 189.50 zł · EAN: 05702017152004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71768 |
+| Nazwa angielska | Jay's Golden Dragon Motorbike |
+| Nazwa polska | Złoty smoczy motocykl Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152004 |
 
 LEGO 71768 NINJAGO Złoty smoczy motocykl Jaya
 
@@ -4770,11 +7532,27 @@ Oprócz pojazdu ninja w zestawie znajdują się dwie minifigurki: złoty smoczy 
 
 Zabawki NINJAGO odciągają dzieci od ekranów, pozwalając im przenieść się do pasjonującego świata fantasy. Młodzi konstruktorzy mogą w nim połączyć siły z odważnymi bohaterami ninja, aby stawić czoła złoczyńcom, oraz budować rewelacyjne zestawy z mechami, samochodami, odrzutowcami, smokami i świątyniami.
 
+**Galeria:**
+
+- 71768-1: https://a.allegroimg.com/original/112e10/3fd2231942b9a01733a1e0ac5d8b
+
 ---
 
-## 71769 — Lego Ninjago 71769 Smoczy krążownik Cole'a
+## 71769 — Smoczy krążownik Cole’a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 314.99 zł · EAN: 05702017152011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71769 |
+| Nazwa angielska | Cole's Dragon Cruiser |
+| Nazwa polska | Smoczy krążownik Cole’a |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 384 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152011 |
 
 Klocki LEGO® 71769 NINJAGO® Smoczy krążownik Cole’a
 
@@ -4796,11 +7574,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 8 lat, które lubią budowanie pojazdów LEGO® NINJAGO® oraz odgrywanie dynamicznych scen z udziałem ninja i przeciwników.
 
+**Galeria:**
+
+- 71769-1: https://a.allegroimg.com/original/113272/5fccafc44c83a2f68c87b11bd864
+
 ---
 
-## 71770 — Lego Ninjago 71770 Złoty smoczy odrzutowiec Zane'a Nowy P158
+## 71770 — Złoty smoczy odrzutowiec Zane’a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 364.99 zł · EAN: 05702017152028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71770 |
+| Nazwa angielska | Zane's Golden Dragon Jet |
+| Nazwa polska | Złoty smoczy odrzutowiec Zane’a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152028 |
 
 **LEGO NINJAGO 71770 Złoty smoczy odrzutowiec Zane'a NOWY, NIEOTWIERANY**
 
@@ -4808,11 +7602,27 @@ Na sprzedaż nowy, oryginalny zestaw LEGO NINJAGO 71770 Złoty smoczy odrzutowie
 
 Zestaw jest **fabrycznie zapakowany**
 
+**Galeria:**
+
+- 71770-1: https://a.allegroimg.com/original/115891/ba17445043fc86be7c2bb777fb05
+
 ---
 
-## 71771 — Klocki Lego Ninjago Zestaw Świątynia kryształowego króla 71771
+## 71771 — Świątynia kryształowego króla
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 722.22 zł · EAN: 05702017152035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71771 |
+| Nazwa angielska | The Crystal King Temple |
+| Nazwa polska | Świątynia kryształowego króla |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 703 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 10 cm × gł. 18 cm |
+| EAN | 5702017152035 |
 
 Wespnij się na szczyt świątyni i odzyskaj należącą do ninja skradzioną broń żywiołów. Tylko uważaj, bo świątynia jest pełna pułapek! Omiń je, pokonaj siedzącego na tronie Kryształowego Króla i jego Strażnika Kamienia Zemsty, a potem weź broń. Tylko Ty możesz pokrzyżować plany złoczyńców i powstrzymać ich przed podbiciem miasta NINJAGO®.
  
@@ -4844,11 +7654,27 @@ Do zestawu dołączone są interaktywne cyfrowe instrukcje, dzięki którym zaba
 - Najwyższa jakość — już od 1958 roku klocki LEGO® są produkowane tak, aby za każdym razem można było je łatwo rozdzielić 
 - Bezpieczeństwo potwierdzone testami — klocki konstrukcyjne LEGO® są poddawane rygorystycznym testom, aby można było mieć pewność, że spełniają wysokie światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71771-1: https://a.allegroimg.com/original/252e61/4a3d835545c2a8dd076ca9180784
+
 ---
 
-## 71772 — Klocki Lego Ninjago Zestaw Kryształowy król 71772
+## 71772 — LEGO 71772 Ninjago - Kryształowy król
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 669.00 zł · EAN: 05702017152042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71772 |
+| Nazwa angielska | The Crystal King |
+| Nazwa polska | LEGO 71772 Ninjago - Kryształowy król |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 722 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 40 cm |
+| EAN | 5702017152042 |
 
 Szybko! Lloyd jest sam i potrzebuje Twojej pomocy! Stań do walki z Kryształowym Królem, który przemienił się w przerażającego centaura z czterema nogami i potężnymi skrzydłami. Uważaj na jego ogromny miecz i trzech niebezpiecznych wojowników, którzy walczą u jego boku. Przeciwnik ma przewagę liczebną, ale musisz odeprzeć jego inwazję, aby ocalić miasto NINJAGO®. Nie daj się! Pokaż, że jesteś ninja!
  
@@ -4880,11 +7706,27 @@ Do zestawu dołączone są interaktywne cyfrowe instrukcje, dzięki którym zaba
 - Najwyższa jakość — już od 1958 roku klocki LEGO® są produkowane tak, aby za każdym razem można było je łatwo rozdzielić. Nie trzeba być sprawnym jak ninja 
 - Bezpieczeństwo potwierdzone testami — klocki konstrukcyjne LEGO® są poddawane rygorystycznym testom, aby można było mieć pewność, że spełniają wysokie światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71772-1: https://a.allegroimg.com/original/11f5bb/a9d4897040569240bb78ddcc6e81
+
 ---
 
-## 71773 — Lego Ninjago 71773 Złoty smoczy ścigacz Kaia Nowe
+## 71773 — Złoty smoczy ścigacz
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 626.00 zł · EAN: 05702017152059 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71773 |
+| Nazwa angielska | Kai's Golden Dragon Raider |
+| Nazwa polska | Złoty smoczy ścigacz |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 624 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm |
+| EAN | 5702017152059 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4916,11 +7758,27 @@ Kolekcjonerski model — złoty smoczy ścigacz Kaia ma ok. 13 cm wysokości, 35
 
 Fantastyczna zabawa — zabawki LEGO® NINJAGO® odciągają dzieci od ekranów i pozwalają im wkroczyć do mistycznego świata, w którym można się wcielać w wojowników ninja
 
+**Galeria:**
+
+- 71773-1: https://a.allegroimg.com/original/11f9c4/163206694ce789cd1502e6727c78
+
 ---
 
-## 71775 — Lego 71775 Ninjago Mech Samuraj X Nyi
+## 71775 — Mech Samuraj X Nyi
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 746.99 zł · EAN: 05702017152073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71775 |
+| Nazwa angielska | Nya's Samurai X MECH |
+| Nazwa polska | Mech Samuraj X Nyi |
+| Seria | Ninjago |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1003 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152073 |
 
 Klocki LEGO Ninjago 71775 - Mech Samuraj X Nyi
 
@@ -4962,11 +7820,27 @@ Zestaw LEGO Ninjago - Mech Samuraj X Nyi trafił do sprzedaży w 2022 roku. Nu
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71775-1: https://a.allegroimg.com/original/1141a5/c0e6863242928b4d1a8e0d0d3edf
+
 ---
 
-## 71776 — Lego Ninjago 71776 Wyścigówka Evo Jaya i Nyi
+## 71776 — Wyścigówka EVO Jaya i Nyi
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 258.77 zł · EAN: 05702017189628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71776 |
+| Nazwa angielska | Jay and Nya's Race Car EVO |
+| Nazwa polska | Wyścigówka EVO Jaya i Nyi |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 536 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm |
+| EAN | 5702017189628 |
 
 LEGO 71776 NINJAGO WYŚCIGÓWKA EVO JAYA I NYI
 
@@ -4978,11 +7852,27 @@ Cyfrowa zabawa dla pasjonatów budowania z LEGO® Do zestawu dołączone są int
  
 Bojowa zabawka ninja — Dzieci mogą odgrywać sceny walki w powietrzu i na ziemi dzięki zestawowi LEGO® NINJAGO® Wyścigówka EVO Jaya i Nyi (71776) z helikopterem Cztery minifigurki — Zestaw konstrukcyjny zawiera Jaya z mieczem, Nyę z włócznią, mechaniczną kobrę z mieczem i niszczyciela boa Trzy pojazdy — W tym zestawie bojowym znajdują się: samochód wyścigowy z odczepianą deskolotką oraz opancerzony helikopter z obrotowym wirnikiem Kolekcjonerski sztandar — Gdy dzieci ukończą swoją misję i pokonają wężowych wojowników, w nagrodę otrzymają nowość na styczeń 2022 roku: sztandar współpracy do umieszczenia na samochodzie Więcej nagród — Poszukaj pozostałych sztandarów w siedmiu innych zestawach NINJAGO®, takich jak Dojo ninja w świątyni (71767), Smok ognia Kaia EVO (71762) i Wielofunkcyjny ultramech Ninja (71765) Interaktywne cyfrowe instrukcje — W darmowej aplikacji Instrukcje budowania LEGO® dzieci mogą przybliżać, obracać i wizualizować cyfrową wersję powstającego modelu na smartfonie lub tablecie Budowanie i zabawa — Ten 536-elementowy zestaw pozwala kreatywnym dzieciom w wieku od siedmiu lat budując odgrywać porywające bitwy ninja z udziałem bohaterów Zabawa w podróży — Zestaw z samochodem ma ok. 21 cm wysokości, 32 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 71776-1: https://a.allegroimg.com/original/05678c/2b06bbb949dcaac4a1f9ca43ef39
+
 ---
 
-## 71777 — Lego 71777 Ninjago Smocza moc Kaia salto spinjitzu
+## 71777 — Smocza moc Kaia - salto spinjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 54.99 zł · EAN: 05702017412863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71777 |
+| Nazwa angielska | Kai’s Dragon Power Spinjitzu Flip |
+| Nazwa polska | Smocza moc Kaia - salto spinjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702017412863 |
 
 Klocki LEGO Ninjago 71777 - Smocza moc Kaia - salto spinjitzu
 
@@ -5028,11 +7918,27 @@ Zestaw LEGO Ninjago - Smocza moc Kaia - salto spinjitzu trafił do sprzedaży 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71777-1: https://a.allegroimg.com/original/11e83e/8fe7e09345c2a08bb93f206254ff
+
 ---
 
-## 71778 — Lego Ninjago 71778
+## 71778 — Smok Nyin Atak Spinjitzu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 61.89 zł · EAN: 05702017412979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71778 |
+| Nazwa angielska | Nya's Dragon Power Spinjitzu Drift |
+| Nazwa polska | Smok Nyin Atak Spinjitzu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702017412979 |
 
 Opis
  
@@ -5052,11 +7958,27 @@ Klocki Ninjago 71778 Smocza moc Nyi - driftowanie spinjitzu
 - Jakość gwarantowana - już od ponadsześciu dekad produkujemy klocki LEGO tak, aby za każdym razem można je było łatwo łączyć 
 - Zawsze w bezpiecznych rękach - klocki konstrukcyjne LEGO spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71778-1: https://a.allegroimg.com/original/0559b3/bba5e01240d5b86da02ef75c1876
+
 ---
 
-## 71780 — Lego Ninjago 71780 Kai's Ninja Racer Evo
+## 71780 — Samochód wyścigowy ninja Kaia EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 27.57 zł · EAN: 05702017399676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71780 |
+| Nazwa angielska | Kai's Ninja Race Car EVO |
+| Nazwa polska | Samochód wyścigowy ninja Kaia EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 10 cm |
+| EAN | 5702016699500, 5702017399676 |
 
 LEGO Ninjago Samochód wyścigowy ninja Kaia EVO 71780
  
@@ -5088,11 +8010,28 @@ LEGO Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i
 - Nowy sposób na budowanie – aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 71780-1: https://a.allegroimg.com/original/11ad32/f8fa3ce848bab2a49951b15f8076
+- 71780-2: https://a.allegroimg.com/original/059d95/7ca51c4646229247db652656ce2e
+
 ---
 
-## 71781 — Lego Ninjago 71781 (4szt) Starcie Lloyda z Mechem
+## 71781 — Starcie Lloyda z Mechem EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 544.49 zł · EAN: 05702017432496 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71781 |
+| Nazwa angielska | Lloyd's Mech Battle EVO |
+| Nazwa polska | Starcie Lloyda z Mechem EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399683, 5702017432496 |
 
 Lego NINJAGO 71781 (4szt) Starcie Lloyda z Mechem
 
@@ -5126,11 +8065,28 @@ Jakość gwarantowana - już od ponad sześciu dekad produkujemy klocki LEGO(R) 
 
 Zawsze w bezpiecznych rękach - klocki konstrukcyjne LEGO(R) spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71781-1: https://a.allegroimg.com/original/05c571/1df52f3c4deabaa8e84daffeea60
+- 71781-2: https://a.allegroimg.com/original/11b09f/61b912544d22beb3f84a252bca1e
+
 ---
 
-## 71782 — Lego 71782 Ninjago Smok Ziemi Cole'a Evo
+## 71782 — Smok Ziemi Cole'a EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 179.89 zł · EAN: 05702017399690 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71782 |
+| Nazwa angielska | Cole's Earth Dragon EVO |
+| Nazwa polska | Smok Ziemi Cole'a EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399690 |
 
 Klocki LEGO Ninjago 71782 - Smok Ziemi Cole'a EVO
 
@@ -5180,11 +8136,26 @@ Zestaw LEGO Ninjago - Smok Ziemi Cole'a EVO trafił do sprzedaży w 2023 roku.
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71782-1: https://a.allegroimg.com/original/05cbd7/1c7660b947d6b81958f81fc73c7c
+
 ---
 
-## 71783 — Klocki Lego Ninjago Jeździec-Mech Kaia Evo 71783
+## 71783 — Jeździec-Mech Kaia EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 149.50 zł · EAN: 05702017412993 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71783 |
+| Nazwa angielska | Kai's Mech Rider EVO |
+| Nazwa polska | Jeździec-Mech Kaia EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702017412993 |
 
 LEGO Ninjago Jeździec-Mech Kaia EVO 71783
  
@@ -5217,11 +8188,27 @@ LEGO Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i
 - Nowy sposób na budowanie – aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 71783-1: https://a.allegroimg.com/original/0508ae/74b69708489299988ea979521a60
+
 ---
 
-## 71785 — Lego Ninjago Tytan mech Jaya 71785
+## 71785 — Tytan mech Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 372.00 zł · EAN: 05702017413013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71785 |
+| Nazwa angielska | Jay's Titan Mech |
+| Nazwa polska | Tytan mech Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 794 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017413013 |
 
 1P 6M
 
@@ -5246,11 +8233,27 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Wysoka jakość - już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć.
 - Zawsze w bezpiecznych rękach - klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71785-1: https://a.allegroimg.com/original/11e21e/cfe3c03c4098a8fc3acd87431bfe
+
 ---
 
-## 71787 — Lego Ninjago 71787 Kreatywne Pudełko Z Klockami Ninja
+## 71787 — Kreatywne pudełko z klockami ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702017413037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71787 |
+| Nazwa angielska | Creative Ninja Brick Box |
+| Nazwa polska | Kreatywne pudełko z klockami ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 530 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017413037 |
 
 Witamy!
 
@@ -5272,11 +8275,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 71787-1: https://a.allegroimg.com/original/1122a9/b0ad79d940b1bc58c84dd0573e80
+
 ---
 
-## 71788 — Klocki Lego Ninjago Motocykl ninja Lloyda 64 elementy 4+ 71788
+## 71788 — Motocykl ninja Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702017399706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71788 |
+| Nazwa angielska | Lloyd's Ninja Street Bike |
+| Nazwa polska | Motocykl ninja Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399706 |
 
 LEGO Ninjago Motocykl ninja Lloyda 71788
  
@@ -5310,11 +8329,27 @@ LEGO Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i
 - Wysoka jakość – już od ponad sześciu dekad klocki konstrukcyjne LEGO® są produkowane tak, aby za każdym razem można je było łatwo łączyć. Nie trzeba być sprawnym jak ninja 
 - Zawsze w bezpiecznych rękach – klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71788-1: https://a.allegroimg.com/original/05ee1e/d065c87f459c8ac321e927b68d16
+
 ---
 
-## 71789 — Lego Ninjago Kai i Ras w pojedynku samochód motocykl 71789 auto ninja go
+## 71789 — Kai i Ras w pojedynku samochód-motocykl
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 134.14 zł · EAN: 05702017413044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71789 |
+| Nazwa angielska | Kai and Ras's Car and Bike Battle |
+| Nazwa polska | Kai i Ras w pojedynku samochód-motocykl |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702017413044 |
 
 LEGO Ninjago Kai i Ras w pojedynku samochód-motocykl 71789
  
@@ -5341,11 +8376,27 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71789-1: https://a.allegroimg.com/original/11f3e3/709aa8f441399dc7b0947bdce7a6
+
 ---
 
-## 71790 — Lego Ninjago Imperialny Łowca Smoków 71790
+## 71790 — Imperialny Łowca Smoków
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 141.00 zł · EAN: 05702017413051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71790 |
+| Nazwa angielska | Imperium Dragon Hunter Hound |
+| Nazwa polska | Imperialny Łowca Smoków |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 13 cm |
+| EAN | 5702017413051, 9506000142814 |
 
 2MG?
 
@@ -5375,11 +8426,28 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Jakość gwarantowana — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71790-1: https://a.allegroimg.com/original/05cbb5/b071e0684390b996f6ad6a9c6995
+- 71790-2: https://a.allegroimg.com/original/11aa62/f4afa74442be98f67e57dee92a87
+
 ---
 
-## 71791 — Lego 71791 Ninjago Smocza moc Zane’a wyścigówka
+## 71791 — Samochód wyścigowy Spinjitzu smoka Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 233.88 zł · EAN: 05702012417849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71791 |
+| Nazwa angielska | Zane’s Dragon Power Spinjitzu Race Car |
+| Nazwa polska | Samochód wyścigowy Spinjitzu smoka Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702012417849, 5702017413068 |
 
 LEGO Ninjago Samochód wyścigowy Spinjitzu smoka Zane'a 71791
  
@@ -5406,11 +8474,28 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71791-1: https://a.allegroimg.com/original/11197f/a3bf76fb425a9694af012c68688e
+- 71791-2: https://a.allegroimg.com/original/115d9e/82bcdf684107ba64eeed7a7e6fb7
+
 ---
 
-## 71792 — Lego Ninjago Mech Sory zmieniający się w motocykl wyścigowy 71792
+## 71792 — LEGO Ninjago Mech Sory 71792
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 236.40 zł · EAN: 05702017413075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71792 |
+| Nazwa angielska | Sora's Transforming Mech Bike Racer |
+| Nazwa polska | LEGO Ninjago Mech Sory 71792 |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 384 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 16 cm |
+| EAN | 5702017413075, 9788325343873 |
 
 LEGO Ninjago Sora i jej transformujący się robot silnikowy 71792
 
@@ -5436,11 +8521,28 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Nowy sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 71792-1: https://a.allegroimg.com/original/11d29a/d65e913b4efa9328785d85d6fc42
+- 71792-2: https://a.allegroimg.com/original/115858/58ea23e4449f89ded13ba9c7390c
+
 ---
 
-## 71793 — Lego Ninjago Lawowy smok zmieniający się w falę ognia 71793
+## 71793 — Lawowy smok zmieniający się w falę ognia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702017416540 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71793 |
+| Nazwa angielska | Heatwave Transforming Lava Dragon |
+| Nazwa polska | Lawowy smok zmieniający się w falę ognia |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 479 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 15 cm |
+| EAN | 5702017416540 |
 
 LEGO Ninjago Lawowy smok zmieniający się w falę ognia 71793
  
@@ -5467,11 +8569,26 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Jakość gwarantowana — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71793-1: https://a.allegroimg.com/original/11192c/06f05903479199f5c387702fd8e2
+
 ---
 
-## 71794 — Lego Ninjago 71794 Drużyna mechów ninja Lloyda i Arina
+## 71794 — Lloyd, Arin i ich zespół robotów ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017413082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71794 |
+| Nazwa angielska | Lloyd and Arin's Ninja Team Mechs |
+| Nazwa polska | Lloyd, Arin i ich zespół robotów ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 764 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017413082 |
 
 LEGO®
 
@@ -5509,11 +8626,27 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71794-1: https://a.allegroimg.com/original/113401/a15b14634c25a44566d13bdd0927
+
 ---
 
-## 71795 — Lego Ninjago 71795 Świątynia Smoczej Energii
+## 71795 — Świątynia smoczej energii
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702017413099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71795 |
+| Nazwa angielska | Temple of the Dragon Energy Cores |
+| Nazwa polska | Świątynia smoczej energii |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1029 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 35 cm × gł. 20 cm |
+| EAN | 5702017413099 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -5535,11 +8668,27 @@ Czteropiętrowa świątynia z owiniętym wokół niej magicznym drzewem zawiera 
 
 • Wysoka jakość już od ponad sześciu dekad produkujemy klocki LEGO tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 71795-1: https://a.allegroimg.com/original/11fac0/c71d115e4e65a05155a24e270034
+
 ---
 
-## 71796 — Lego 71796 Ninjago Smok żywiołu kontra mech cesarzowej
+## 71796 — Smok Żywiołów kontra Cesarzowa Robotów
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 518.99 zł · EAN: 05702017413105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71796 |
+| Nazwa angielska | Elemental Dragon vs. The Empress Mech |
+| Nazwa polska | Smok Żywiołów kontra Cesarzowa Robotów |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1038 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017413105 |
 
 Klocki LEGO Ninjago 71796 - Smok żywiołu kontra mech cesarzowej
 
@@ -5589,11 +8738,27 @@ Zestaw LEGO Ninjago - Smok żywiołu kontra mech cesarzowej trafił do sprzedaż
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71796-1: https://a.allegroimg.com/original/1189b6/0eb04e7c498694a6c4b1b9d445ab
+
 ---
 
-## 71797 — Lego Ninjago Nagroda losu wyścig z czasem 71797
+## 71797 — Nagroda losu - wyścig z czasem
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017413112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71797 |
+| Nazwa angielska | Destiny’s Bounty - Race Against Time |
+| Nazwa polska | Nagroda losu - wyścig z czasem |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1739 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 31 cm |
+| EAN | 5702017413112 |
 
 LEGO Ninjago Nagroda losu - wyścig z czasem 71797
  
@@ -5620,11 +8785,27 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 - Nowy sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 71797-1: https://a.allegroimg.com/original/11f890/216c4ab44244b1aa4aa26b9d9c30
+
 ---
 
-## 71798 — Lego Ninjago 71798 Nya i Arin Bitwa Na Grzbiecie Małego Smoka
+## 71798 — Nya i Arin - bitwa na grzbiecie małego smoka
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 156.08 zł · EAN: 05702017413129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71798 |
+| Nazwa angielska | Nya and Arin's Baby Dragon Battle |
+| Nazwa polska | Nya i Arin - bitwa na grzbiecie małego smoka |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 23 cm |
+| EAN | 5702017413129 |
 
 **LEGO Ninjago 71798 Nya i Arin - Bitwa Na Grzbiecie Małego Smoka **
  
@@ -5656,35 +8837,27 @@ Aplikacja LEGO Builder oferuje łatwe i intuicyjne budowanie. Powiększaj i obra
 
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 71799 — Lego Ninjago 71799 Rynek miejski Ninjago
-
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1925.00 zł · EAN: 05702017435787 · in stock*
-
-LEGO NINJAGO 71799
-
-Rynek miejski NINJAGO
-
-Zestaw składa się z 6163 elementów
-
-Produkt jest fabrycznie nowy, oryginalnie zapakowany i zaplombowany, znajduje się w naszym magazynie i jest **dostępny "od ręki".**
-
-Składa się z **6163 elementów i 21 mini figurek**
-
-Model obejmuje cztery piętra sklepów, restauracji, biur i apartamentów, a także kolejkę linową, windę, łódź, most oraz spłukiwaną toaletę.
-
-Cztery piętra zabawy — model jest pełen sklepów, restauracji, biur i mieszkań. Jest tu piekarnia, zakład kowalski, sklep wielobranżowy, sklep Borga, klub karaoke i restauracja na dachu.
-
-21 minifigurek — model zawiera wiele minifigurek do odgrywania ról, w tym kowala Kaia, Sorę w mieście, Arina w mieście, Detektywa Zane’a, Hounddoga McBraga, Gayle Gossip, Chamille, Miss Demeanor i Daretha.
-
-Zestaw ma 46 cm wysokości, 51 cm szerokości i 25 cm głębokości.
+- 71798-1: https://a.allegroimg.com/original/11a49b/d8b29daa4c6e853b6300500009c9
 
 ---
 
-## 71800 — Lego Ninjago 71800 Smok Wodny Nyi Evo 173 el. Smok Ninja
+## 71800 — Smok wodny Nyi EVO
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 141.99 zł · EAN: 05702017434018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71800 |
+| Nazwa angielska | Nya's Water Dragon EVO |
+| Nazwa polska | Smok wodny Nyi EVO |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434018 |
 
 🐉🌊 LEGO NINJAGO Smok Wodny Nyi EVO 71800 – 173 elementy
 
@@ -5776,41 +8949,104 @@ Cyfrowe instrukcje 3D ułatwiają budowanie oraz pozwalają obracać i przybliż
 
 LEGO NINJAGO Smok Wodny Nyi EVO 71800 to świetny zestaw dla młodszych fanów ninja. Ruchomy smok, możliwość rozbudowy EVO oraz trzy minifigurki zapewniają mnóstwo pomysłów na kreatywną zabawę. Po zakończeniu misji model doskonale prezentuje się również jako ozdoba dziecięcego pokoju.
 
+**Galeria:**
+
+- 71800-1: https://a.allegroimg.com/original/11ff94/222ab0f243df96bf3df602fbe6c1
+
 ---
 
-## 71801 — Lego Ninjago 71801 Atak powstającego smoka Kaia
+## 71801 — Kai i atak smoka
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 72.59 zł · EAN: 05702017566122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71801 |
+| Nazwa angielska | Kai's Rising Dragon Strike |
+| Nazwa polska | Kai i atak smoka |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 18 cm |
+| EAN | 5702017566122 |
 
 Lego NINJAGO 71801 Atak powstającego smoka Kaia
 
 o Pełna akcji zabawka ze smokiem -- chłopcy i dziewczynki w wieku od sześciu lat mogą rozgrywać bitwy z drugiego sezonu serialu telewizyjnego NINJAGO(R) Powstanie smoków ze smokiem Kaia do zbudowania.o Zestaw akcji -- dzieci mogą umieścić Kaia na grzbiecie figurki smoka, nacisnąć jego złoty ogon i posłać obie postacie do akcji.o Dwie postacie LEGO(R) NINJAGO(R) -- ten zestaw ninja zawiera minifigurkę Kaia uzbrojonego w katanę oraz złego strażnika wilczej maski z kuszą.o Element mocy smoka -- zabawka LEGO(R) zawiera niebieski element mocy smoka w jego pysku.o Prezent na przyjęcie dla dzieci -- ta zabawka ninja zapewnia kreatywne możliwości budowania i zabawy oraz stanowi świetny prezent na rozmaite okazje.o Jeszcze więcej przygód ninja -- sprawdź inne zestawy akcji NINJAGO(R) (sprzedawane osobno), aby organizować wyścigi między postaciami.o Świat ninja dla dzieci -- zestawy LEGO(R) NINJAGO(R) zawierają mechy, pojazdy i świątynie, dzięki którym dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja.o Wymiary -- ten 24-elementowy zestaw zawiera smoka do zbudowania, który ma 2 cm wysokości, 18 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 71801-1: https://a.allegroimg.com/original/11ad6d/617981914c5da8c6397b28c55e95
+
 ---
 
-## 71802 — Lego Ninjago 71802 Atak powstającego smoka Nyi
+## 71802 — Nya i atak smoka
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 72.59 zł · EAN: 05702017565088 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71802 |
+| Nazwa angielska | Nya's Rising Dragon Strike |
+| Nazwa polska | Nya i atak smoka |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 18 cm |
+| EAN | 5702017565088 |
 
 Lego NINJAGO 71802 Atak powstającego smoka Nyi
 
 o Pełna akcji zabawka ze smokiem -- chłopcy i dziewczynki w wieku od sześciu lat mogą rozgrywać bitwy z drugiego sezonu serialu telewizyjnego NINJAGO(R) Powstanie smoków ze smokiem Nyi do zbudowania.o Zestaw akcji z ninja -- dzieci mogą umieścić Nyę nagrzbiecie figurki niebieskiego smoka, nacisnąć jego złoty ogon i posłać obie postacie do akcji.o Dwie minifigurki LEGO(R) NINJAGO(R) -- ten zestaw ninja zawiera minifigurkę Nyi uzbrojoną w małą katanę, dzięki czemu dzieci mogą odgrywać role w starciach ze sz poniastym wojownikiem Wilczej Maski.o Element mocy smoka -- zabawka niebieskiego smoka ma w pysku pomarańczowy element mocy smoka.o Prezent dla ninja -- zestaw LEGO(R) NINJAGO(R) zapewnia świetną zabawę podczas budowania i zabawy. To świetny pomysł na prezent dla dzieci, które zasługują na niespodziankę.o Jeszcze więcej przygód ninja -- sprawdź inne zestawy akcji LEGO(R) NINJAGO(R) (sprzedawane osobno), aby organizować wyścigi między postaciami.o Świat ninja dla dzieci -- zestawy LEGO(R) NINJAGO(R) zawierają mechy, pojazdy i świątynie, dzięki którym dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja.o Wymiary -- ten 26-elementowy zestaw zawiera smoka do zbudowania, który ma 2 cm wysokości, 18 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 71802-1: https://a.allegroimg.com/original/110579/47742d0f4cf2b734071448761794
+
 ---
 
-## 71803 — Lego Ninjago 71803 Atak powstającego smoka Arina
+## 71803 — Arin i atak smoka
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 72.59 zł · EAN: 05702017565538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71803 |
+| Nazwa angielska | Arin's Rising Dragon Strike |
+| Nazwa polska | Arin i atak smoka |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 18 cm |
+| EAN | 5702017565538 |
 
 Lego NINJAGO 71803 Atak powstającego smoka Arina
 
 o Pełna akcji zabawka ze smokiem -- chłopcy i dziewczynki w wieku od sześciu lat mogą rozgrywać bitwy z drugiego sezonu serialu telewizyjnego NINJAGO(R) Powstanie smoków ze smokiem Arina do zbudowania.o Zestaw akcji z ninja -- dzieci mogą umieścić Arina na grzbiecie figurki żółtego smoka, nacisnąć jego złoty ogon i posłać obie postacie do akcji.o Dwie minifigurki LEGO(R) NINJAGO(R) -- ten zestaw ninja zawiera minifigurkę Arina uzbrojoną w katanę, dzięki czemu dzieci mogą odgrywać role w starciach ze szponiastym wojownikiem Wilczej Maski, który również ma miecz.o Zielony element mocy smoka -- zabawka żółtego smoka ma w pysku zielony element mocy smoka.o Prezent dla ninja -- zestaw LEGO(R) NINJAGO(R) zapewnia świetną zabawę podczas budowania i zabawy. To świetny pomysł na prezent dla dzieci, które zasługują na niespodziankę.o Jeszcze więcej przygód ninja -- sprawdź inne zestawy akcji LEGO(R) NINJAGO(R) (sprzedawane osobno), aby organizować wyścigi między postaciami.o Świat ninja dla dzieci -- zestawy LEGO(R) NINJAGO(R) zawierają mechy, pojazdy i świątynie, dzięki którym dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja.o Wymiary -- ten 27-elementowy zestaw zawiera smoka do zbudowania, który ma 2 cm wysokości, 18 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 71803-1: https://a.allegroimg.com/original/11d6ad/1abac9b74e93b7390f131ae4f1bf
+
 ---
 
-## 71804 — Lego Ninjago Robot bojowy Arina 71804
+## 71804 — Robot bojowy Arina
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 44.64 zł · EAN: 05702017565545 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71804 |
+| Nazwa angielska | Arin's Battle Mech |
+| Nazwa polska | Robot bojowy Arina |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017565545 |
 
 LEGO Ninjago Mech bojowy Arina (71804) 
  
@@ -5836,11 +9072,26 @@ Ta zabawka z ninja została zaprojektowana z myślą o świetnej zabawie czterol
  
 • 104-elementowy zestaw z mechem ma 10 cm wysokości
 
+**Galeria:**
+
+- 71804-1: https://a.allegroimg.com/original/119a4d/ed15eaa849319ced460d6ba9cae6
+
 ---
 
-## 71805 — Lego Ninjago Zestaw bitewny z mechem Jaya 71805
+## 71805 — Zestaw bitewny z mechem Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 27.98 zł · EAN: 05702017565552 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71805 |
+| Nazwa angielska | Jay's Mech Battle Pack |
+| Nazwa polska | Zestaw bitewny z mechem Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017565552 |
 
 LEGO Ninjago Zestaw bitewny z mechem Jaya (71805) 
  
@@ -5866,11 +9117,27 @@ Seria zabawek ninja do zbudowania dla dzieci LEGO NINJAGO obejmuje mechy, pojazd
  
 • 78-elementowy zestaw z mechem ma 8 cm wysokości
 
+**Galeria:**
+
+- 71805-1: https://a.allegroimg.com/original/11ccd3/478d0bba40cf86f5ffe940b9196a
+
 ---
 
-## 71806 — Lego Ninjago Mech żywiołu ziemi Cole’a 71806
+## 71806 — 71806
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 68.52 zł · EAN: 05702017553788 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71806 |
+| Nazwa angielska | Cole's Earth Mech |
+| Nazwa polska | 71806 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017553788, 5702017584515 |
 
 LEGO Ninjago Mech żywiołu ziemi Cole?a (71806) 
  
@@ -5896,11 +9163,27 @@ Zestaw zawiera dwie minifigurki — Cole’a z mieczem kataną i wojownika wilcz
  
 • 235-elementowy zestaw z mechem ma 14 cm wysokości
 
+**Galeria:**
+
+- 71806-1: https://a.allegroimg.com/original/052872/a594c7b842cb92779b3a409b88f3
+- 71806-2: https://a.allegroimg.com/original/1121fa/6fc34a6b43378a229b67048788d3
+
 ---
 
-## 71807 — Lego Ninjago Mech żywiołu technologii Sory 71807
+## 71807 — Mech żywiołu technologii Sory
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 61.95 zł · EAN: 05702017583839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71807 |
+| Nazwa angielska | Sora's Tech Mech |
+| Nazwa polska | Mech żywiołu technologii Sory |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583839 |
 
 LEGO Ninjago Mech żywiołu technologii Sory 71807
 
@@ -5947,11 +9230,27 @@ Zestaw zawiera dwie minifigurki — Sorę z dwiema katanami i szponiastego wojow
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017583839
 
+**Galeria:**
+
+- 71807-1: https://a.allegroimg.com/original/110035/4d759d2e4a408117c68c15427045
+
 ---
 
-## 71808 — Klocki Lego 71808 Ninjago Mech Żywiołu Ognia Kaia Zestaw Do Zabawy
+## 71808 — Mech żywiołu ognia Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 152.10 zł · EAN: 04894041725581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71808 |
+| Nazwa angielska | Kai's Elemental Fire Mech |
+| Nazwa polska | Mech żywiołu ognia Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4894041725581, 5063417911449, 5702017584522 |
 
 KLOCKI LEGO 71808 NINJAGO MECH ŻYWIOŁU OGNIA KAIA ZESTAW DO ZABAWY PREZENT
 
@@ -5985,11 +9284,28 @@ Zestaw z czerwonym mechem
  
 **• ✅322-elementowy zestaw z mechem ma 16 cm wysokości**
 
+**Galeria:**
+
+- 71808-1: https://a.allegroimg.com/original/299be5/6a5fec8c4c11b7d390da79f50f17
+- 71808-2: https://a.allegroimg.com/original/11aa16/720ddd9f4ac8a85f40cd3a7ea11c
+
 ---
 
-## 71809 — Lego Ninjago Smoczy Mistrz Egalt 71809
+## 71809 — Egalt – Władca Smoków
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702017584539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71809 |
+| Nazwa angielska | Egalt the Master Dragon |
+| Nazwa polska | Egalt – Władca Smoków |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 532 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 36 cm |
+| EAN | 5702017584539 |
 
 SMOCZY MISTRZ EGALT
 
@@ -6013,11 +9329,26 @@ Dzieci w wieku od ośmiu lat mogą odgrywać ekscytujące przygody z drugiego se
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 71809-1: https://a.allegroimg.com/original/11cd94/dc09fcba46b68e6cfd15bec85f9d
+
 ---
 
-## 71810 — Lego Ninjago Smoczątko Riyu 71810
+## 71810 — NINJAGO 71810 Mały smok Riyu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 97.00 zł · EAN: 05702017588773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71810 |
+| Nazwa angielska | Young Dragon Riyu |
+| Nazwa polska | NINJAGO 71810 Mały smok Riyu |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 18 cm |
+| EAN | 5702017584546, 5702017588773 |
 
 **** Zestaw zawiera model smoczątka Riyu z ruchomymi skrzydłami i nogami, ruchomym ogonem i siodłem, dzięki czemu minifigurki mogą jeździć na jego grzbiecie.PRODUCENT: LEGO
  
@@ -6038,11 +9369,26 @@ Seria zabawek ninja do zbudowania dla dzieci LEGO NINJAGO obejmuje mechy, pojazd
 - Świat ninja — zabawki LEGO® NINJAGO® zawierają mechy, pojazdy i świątynie, dzięki którym dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja 
 - Wymiary — ten 132-elementowy zestaw NINJAGO zawiera smoka do zbudowania, który ma 6 cm wysokości, 19 cm długości i 18 cm szerokości
 
+**Galeria:**
+
+- 71810-1: https://a.allegroimg.com/original/115fbe/177d583740ab9a100515a6500ad9
+
 ---
 
-## 71811 — Lego Ninjago 7+ Auto Samochód Łazik Terenowy Ninja Arina 71811
+## 71811 — LEGO NINJAGO 71811 SAMOCHÓD DROGOWY NINJA ARINA
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 173.00 zł · EAN: 05702017584553 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71811 |
+| Nazwa angielska | Arin's Ninja Off-Road Buggy Car |
+| Nazwa polska | LEGO NINJAGO 71811 SAMOCHÓD DROGOWY NINJA ARINA |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm |
+| EAN | 5702017584553 |
 
 LEGO® NINJAGO
 
@@ -6081,11 +9427,26 @@ TORBA LEGO GRATIS!
 
 **⭐ GOTOWY ZESTAW NA PREZENT ⭐**
 
+**Galeria:**
+
+- 71811-1: https://a.allegroimg.com/original/110d67/1203238243248adc01319cd754be
+
 ---
 
-## 71813 — Lego Ninjago Dojo cienia Wilczej Maski 71813
+## 71813 — Dojo cienia Wilczej Maski
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 458.06 zł · EAN: 05702017584577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71813 |
+| Nazwa angielska | Wolf Mask Shadow Dojo |
+| Nazwa polska | Dojo cienia Wilczej Maski |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 45 cm × gł. 21 cm |
+| EAN | 5702017584577 |
 
 LEGO® NINJAGO®
  
@@ -6113,11 +9474,27 @@ Jeszcze więcej przygód ninja — sprawdź inne zestawy NINJAGO® (sprzedawane 
  
 Wymiary — ten 1190-elementowy zestaw ma 36 cm wysokości, 45 cm szerokości i 21 cm głębokości.
 
+**Galeria:**
+
+- 71813-1: https://a.allegroimg.com/original/11763d/6d84ad2241358bddeef206a89e87
+
 ---
 
-## 71814 — Lego Ninjago 71814 Turniejowe miasto ze świątynią
+## 71814 — Turniejowe miasto ze świątynią
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 904.48 zł · EAN: 05702017588667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71814 |
+| Nazwa angielska | Tournament Temple City |
+| Nazwa polska | Turniejowe miasto ze świątynią |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 48 cm × szer. 63 cm × gł. 32 cm |
+| EAN | 5702017588667 |
 
 **LEGO Ninjago 71814 Turniejowe miasto ze świątynią**
  
@@ -6152,11 +9529,27 @@ Chłopcy i dziewczynki w wieku od 14 lat mogą budować, bawić się i ustawiać
 - Pomoc w budowaniu - odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności 
 - Jeszcze więcej przygód ninja - sprawdź inne zestawy LEGO Ninjago (sprzedawane osobno) ze smokami, mechami i pojazdami Wymiary - ten 3489-elementowy zestaw zawiera wyspę ze świątynią, która ma 48 cm wysokości, 63 cm szerokości i 32 cm głębokości
 
+**Galeria:**
+
+- 71814-1: https://a.allegroimg.com/original/112eb3/652e847143a187106d4a2aadc539
+
 ---
 
-## 71815 — Lego Ninjago Smocza bitwa Kaia 71815
+## 71815 — Smocza Bitwa Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 143.13 zł · EAN: 05702017584584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71815 |
+| Nazwa angielska | Kai's Source Dragon Battle |
+| Nazwa polska | Smocza Bitwa Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584584 |
 
 LEGO NINJAGO Smocza bitwa Kaia 71815
 
@@ -6179,11 +9572,27 @@ Cechy produktu:
 - Leśna pułapka i działko — ten zestaw zabawek z czerwonym smokiem zawiera małą leśną pułapkę, w której można przetrzymywać postacie, potężny pojazd z działkiem i dużą strzałą oraz trzy małe elementy płomienia
 - Prezent dla małych ninja — ten zestaw LEGO® zapewni mnóstwo frajdy podczas budowania i zabawy
 
+**Galeria:**
+
+- 71815-1: https://a.allegroimg.com/original/118180/767ea72040af8855fac0bd12becd
+
 ---
 
-## 71816 — Lego Ninjago 71816 Wioślarz lodowy Zane'a 71816
+## 71816 — Ninjago 71816 Wioślarz lodowy Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 27.64 zł · EAN: 05702017584591 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71816 |
+| Nazwa angielska | Zane's Ice Motorcycle |
+| Nazwa polska | Ninjago 71816 Wioślarz lodowy Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702017584591 |
 
 **PRODUCENT**: LEGO
  
@@ -6210,11 +9619,26 @@ Każdy zestaw ninja można stworzyć z pomocą aplikacji LEGO Builder, która po
 - Świat ninja — zestawy LEGO® NINJAGO® zawierają smoki, pojazdy i świątynie, dzięki którym dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja 
 - Wymiary — ten 84-elementowy zestaw LEGO® NINJAGO® zawiera motocykl, który ma 6 cm wysokości, 18 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 71816-1: https://a.allegroimg.com/original/05288c/a40c06d54c8d942653dfa49a55ca
+
 ---
 
-## 71818 — Klocki Lego Ninjago 71818 Arena turniejowa
+## 71818 — LEGO NINJAGO 71818 ARENA TURNIEJOWA
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 168.97 zł · EAN: 05702017584607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71818 |
+| Nazwa angielska | Tournament Battle Arena |
+| Nazwa polska | LEGO NINJAGO 71818 ARENA TURNIEJOWA |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 659 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5059444100833, 5702017584607 |
 
 LEGO NINJAGO®
  
@@ -6236,11 +9660,27 @@ W zestawie do zbudowania znajduje się sześć minifigurek — Kai i Sora w zbro
  
 Wkrocz na arenę turniejową, gdzie toczy się walka dobra ze złem! Połącz siły z Kaiem i Sorą w zbrojach turniejowych, którzy dzierżą krótkie katany podczas bitwy z Cinderem, wojownikiem wilczej maski, Złym Jayem i Tox. Musisz też uważać na ogromną spadającą beczkę i schody, które mogą się pod Tobą zapaść! Wykorzystaj szansę i zostań mistrzem!
 
+**Galeria:**
+
+- 71818-1: https://a.allegroimg.com/original/052b47/b291de3644e2aa514f47ec6a3012
+- 71818-2: https://a.allegroimg.com/original/11353e/aa0da1fd498c86ba0a8fb8d6c136
+
 ---
 
-## 71819 — Lego Ninjago 71819 Świątynia Smoczego Kamienia
+## 71819 — LEGO NINJAGO 71819 ŚWIĄTYNIA SMOCZEGO KAMIENIA
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 527.00 zł · EAN: 05702017584614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71819 |
+| Nazwa angielska | Dragon Stone Shrine |
+| Nazwa polska | LEGO NINJAGO 71819 ŚWIĄTYNIA SMOCZEGO KAMIENIA |
+| Seria | Ninjago |
+| Grupa wiekowa | 13 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 17 cm × gł. 29 cm |
+| EAN | 5057819982763, 5702017584614 |
 
 LEGO NINJAGO 71819
 
@@ -6260,11 +9700,27 @@ Sześć minifigurek — model do zbudowania zawiera Mistrza Lloyda, Mistrza Wu, 
 
 Zestaw ma 22 cm wysokości, 17 cm szerokości i 29 cm głębokości.
 
+**Galeria:**
+
+- 71819-1: https://a.allegroimg.com/original/11aebf/c9830b394d8eb5865e9b5bb0b7c0
+- 71819-2: https://a.allegroimg.com/original/11bab9/f640e52d4a50ac8089ecbb9cba84
+
 ---
 
-## 71820 — Lego Ninjago Wielofunkcyjny Pojazd Ninja 71820
+## 71820 — Ninjago 71820 Zespół Ninja i pojazd kombi
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 327.90 zł · EAN: 05702017584621 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71820 |
+| Nazwa angielska | Ninja Team Combo Vehicle |
+| Nazwa polska | Ninjago 71820 Zespół Ninja i pojazd kombi |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 576 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm |
+| EAN | 5702017584621 |
 
 **WIELOFUNKCYJNY POJAZD NINJA**
 
@@ -6288,11 +9744,27 @@ Dzięki zestawowi Wielofunkcyjny pojazd ninja (71820) dziewięciolatki i starsze
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 71820-1: https://a.allegroimg.com/original/118808/83f90f944000aa94e8819f69dca5
+
 ---
 
-## 71821 — Lego Ninjago 71821 Tytanowy smok-mech Cole’a
+## 71821 — Ninjago 71821 Cole's Dragon Titan Suit
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 477.00 zł · EAN: 05702017584638 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71821 |
+| Nazwa angielska | Cole’s Titan Dragon Mech |
+| Nazwa polska | Ninjago 71821 Cole's Dragon Titan Suit |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1055 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584638 |
 
 LEGO NINJAGO 71821
 
@@ -6310,11 +9782,26 @@ Smocze skrzydła i miecz — mech ma parę smoczych skrzydeł na plecach, wielki
 
 Mech ma 39 cm wysokości.
 
+**Galeria:**
+
+- 71821-1: https://a.allegroimg.com/original/115748/0a1a51344e8bb8f7ad9d17b78f05
+
 ---
 
-## 71822 — Lego Ninjago 71822 Smoczyca źródła ruchu
+## 71822 — Ninjago 71822 Źródło: Smok Ruchu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 542.69 zł · EAN: 05702017584645 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71822 |
+| Nazwa angielska | Source Dragon of Motion |
+| Nazwa polska | Ninjago 71822 Źródło: Smok Ruchu |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1716 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584645 |
 
 LEGO NINJAGO®
  
@@ -6336,41 +9823,102 @@ Seria zestawów i zabawek LEGO® NINJAGO obejmuje mechy, pojazdy i świątynie, 
  
 Połącz siły z ninja, którzy próbują uratować Smoczycę źródła ruchu! Przygotuj się do tajnego ataku, aby uwolnić smoka uwięzionego przez Lorda Rasa i jego armię wilczej maski. Kai i Arin uzbrojeni w katany oraz Wyldfyre z płonącymi pięściami są gotowi stawić czoła złoczyńcom! Muszą odnieść zwycięstwo, aby ocalić świat NINJAGO®!
 
+**Galeria:**
+
+- 71822-1: https://a.allegroimg.com/original/11d9a0/bccf704545a58957d6c3750e1cd2
+
 ---
 
-## 71823 — Lego Ninjago Smoczy spinner Spinjitzu Kaia 71823
+## 71823 — Smoczy spinner Spinjitzu Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017818733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71823 |
+| Nazwa angielska | Kai's Dragon Spinjitzu Spinner |
+| Nazwa polska | Smoczy spinner Spinjitzu Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818733 |
 
 Smoczy spinner Spinjitzu Kaia
 
 NINJAGO® Smoczy spinner Spinjitzu Kaia LEGO® NINJAGO® Smoczy spinner Spinjitzu Kaia Zestaw LEGO® NINJAGO® Smoczy spinner Spinjitzu Kaia 71823 Dzięki zestawowi LEGO® NINJAGO® Smoczy spinner Spinjitzu Kaia dzieci odegrają ekscytujące sceny z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Zestaw LEGO® NINJAGO® ze spinnerem i dwiema minifigurkami Smoczy spinner Spinjitzu Kaia (71823) pozwala sześciolatkom i starszym dzieciom odtwarzać ekscytujące sceny z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Dzieci będą zachwycone, budując ten mały zestaw LEGO®, a następnie naciskając przycisk wyrzutni, aby uwolnić Smoczy spinner Spinjitzu Kaia i patrzeć, jak dwa żywioły mocy odlatują, gdy trafi w cel.Zestaw zawiera dwie minifigurki: Kaia, który ma miecz i jeździ w smoczym spinnerze Spinjitzu, oraz złego dragońskiego zwiadowcę uzbrojonego w topór, a także model małego smoczego stwora. Dzieci mogą odgrywać role, organizując bitwy z tymi popularnymi postaciami NINJAGO.Seria zestawów LEGO NINJAGO (sprzedawanych osobno) obejmuje mechy, smoki i świątynie, dzięki czemu fani mogą odgrywać rozmaite historie. Każdy zestaw ninja można stworzyć z pomocą aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z łatwym i intuicyjnym budowaniem. Pokaż pełny potencjał Kaia w walce ze złowrogim dragońskim zwiadowcą! Umieść Mistrza Ognia ninja w spinnerze Spinjitzu i naciśnij przycisk wyrzutni. Zobacz, jak się obraca, aby pokonać złego przeciwnika. Gdy spinner trafi w cel, dwa żywioły mocy mogą odlecieć. Kai musi zwyciężyć, aby uratować nowy świat NINJAGO®! • Pełna akcji zabawka LEGO® NINJAGO® — chłopcy i dziewczynki w wieku od sześciu lat mogą odgrywać sceny z trzeciego sezonu serialu telewizyjnego NINJAGO® Powstanie smoków ze Smoczym spinnerem Spinjitzu Kaia • Szybki spinner — po naciśnięciu przycisku wyrzutni uruchamia się Smoczy spinner Spinjitzu Kaia, a dwa żywioły mocy odlatują, gdy zabawka trafi w cel • Dwie minifigurki NINJAGO® — ten zestaw konstrukcyjny dla dzieci zawiera Kaia w spinnerze Spinjitzu, złowrogiego dragońskiego zwiadowcę oraz model małego smoczego stwora. • Bronie — każda minifigurka NINJAGO® ma broń, co zwiększa możliwości zabawy: Kai jest wyposażony w miecz, a dragoński zwiadowca ma topór • Prezent dla małych ninja — ten zestaw LEGO® zapewni mnóstwo frajdy podczas budowania i zabawy.
 
+**Galeria:**
+
+- 71823-1: https://a.allegroimg.com/original/05f1b4/8e5e3b3e4fd1a098558ed59ea42c
+
 ---
 
-## 71824 — Lego Ninjago Spinjitzu Dragon Spinner Sory 71824
+## 71824 — Spinjitzu Dragon Spinner Sory
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 33.99 zł · EAN: 05702017818740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71824 |
+| Nazwa angielska | Sora's Dragon Spinjitzu Spinner |
+| Nazwa polska | Spinjitzu Dragon Spinner Sory |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818740 |
 
 Smoczy spinner Spinjitzu Sory
 
 NINJAGO® Smoczy spinner Spinjitzu Sory LEGO® NINJAGO® Smoczy spinner Spinjitzu Sory Zestaw LEGO® NINJAGO® Smoczy spinner Spinjitzu Sory 71824 Dzięki zestawowi LEGO® NINJAGO® Smoczy spinner Spinjitzu Sory dzieci odegrają ekscytujące sceny z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Zestaw LEGO® NINJAGO® ze spinnerem i dwiema minifigurkami Smoczy spinner Spinjitzu Sory (71824) pozwala sześciolatkom i starszym dzieciom odtwarzać ekscytujące sceny z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Dzieci będą zachwycone, budując ten mały zestaw LEGO®, a następnie naciskając przycisk wyrzutni, aby uwolnić Smoczy spinner Spinjitzu Sory i patrzeć, jak dwa żywioły mocy odlatują, gdy trafi w cel.Mały zestaw LEGO zawiera dwie minifigurki: Sorę z mieczem w smoczym spinnerze Spinjitzu, złego dragońskiego wojownika z mieczem, a także model małego smoczego stwora. Dzieci mogą odgrywać role, organizując bitwy dobra ze złem z tymi popularnymi postaciami NINJAGO.Seria zabawek ninja do zbudowania dla dzieci LEGO NINJAGO obejmuje mechy, smoki i świątynie, dzięki czemu fani mogą odgrywać różne historie. Każdy zestaw ninja można stworzyć z pomocą aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z łatwym i intuicyjnym budowaniem. Pokaż pełny potencjał Sory w walce ze złowrogim dragońskim wojownikiem! Umieść Mistrzynię Technologii ninja w spinnerze Spinjitzu i naciśnij przycisk wyrzutni. Zobacz, jak się obraca, aby pokonać złego przeciwnika. Gdy spinner trafi w cel, dwa żywioły mocy mogą odlecieć. Sora musi zwyciężyć, aby uratować nowy świat NINJAGO®! • Pełna akcji zabawka LEGO® NINJAGO® — chłopcy i dziewczynki w wieku od sześciu lat mogą odgrywać sceny z trzeciego sezonu serialu telewizyjnego NINJAGO® Powstanie smoków ze Smoczym spinnerem Spinjitzu Sory • Szybki spinner — po naciśnięciu przycisku wyrzutni uruchamia się Smoczy spinner Spinjitzu Sory, a dwa żywioły mocy odlatują, gdy zabawka trafi w cel • Dwie minifigurki NINJAGO® — ten zestaw konstrukcyjny dla dzieci zawiera Sorę w spinnerze Spinjitzu, złowrogiego dragońskiego wojownika oraz model małego smoczego stwora • Bronie — każda minifigurka NINJAGO® ma broń, co zwiększa możliwości zabawy: Sora jest wyposażona w miecz, a dragoński wojownik także ma własny miecz • Prezent dla małych ninja — ten zestaw LEGO® zapewni mnóstwo frajdy podczas budowania i twórczej zabawy.
 
+**Galeria:**
+
+- 71824-1: https://a.allegroimg.com/original/05aba6/b1e6dda4402d958939730e629ab1
+
 ---
 
-## 71826 — Lego Ninjago Smocze Spinjitzu- zestaw bitewny 71826
+## 71826 — Smocze Spinjitzu — zestaw bitewny
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 57.97 zł · EAN: 05702017818757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71826 |
+| Nazwa angielska | Dragon Spinjitzu Battle Pack |
+| Nazwa polska | Smocze Spinjitzu — zestaw bitewny |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818757 |
 
 Smocze Spinjitzu — zestaw bitewny
 
 NINJAGO® Smocze Spinjitzu — zestaw bitewny LEGO® NINJAGO® Smocze Spinjitzu — zestaw bitewny LEGO® NINJAGO® Smocze Spinjitzu — zestaw bitewny 71826 Dzięki zestawowi LEGO® NINJAGO® Smocze Spinjitzu — zestaw bitewny dzieci odegrają sceny z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Zestaw NINJAGO® z dwoma spinnerami i dwiema minifigurkami Zestaw Smocze Spinjitzu — zestaw bitewny (71826) umożliwia sześciolatkom i starszym dzieciom odgrywanie niesamowitych akcji z trzeciego sezonu serialu NINJAGO® Powstanie Smoków. Ten mały zestaw LEGO® zawiera świątynię areny, dwie minifigurki Arina i Rasa oraz dwa smocze spinnery Spinjitzu, które dzieci mogą umieścić w wyrzutniach i wystrzelić je, by ze sobą walczyły.Dzieci mogą odgrywać role i walkę dobra ze złem pomiędzy żółtym spinnerem Arina i czerwonym spinnerem Rasa, które mają odłączane żywioły mocy. Postacie NINJAGO mogą ulepszać swoje spinnery złotymi elementami, które mogą zdobyć, uderzając i rozbijając arenę bitwy.Seria zestawów LEGO NINJAGO (sprzedawanych osobno) obejmuje mechy, smoki i pojazdy, dzięki czemu fani mogą odgrywać historie ze swoimi bohaterami. Każdy zestaw ninja można stworzyć z pomocą aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z łatwym i intuicyjnym budowaniem. Zorganizuj niesamowite bitwy spinnerów między Arinem a złym Rasem! Umieść ich w smoczych spinnerach Spinjitzu i naciśnij przyciski wyrzutni. Zobacz, jak wirują w ekscytujących, superszybkich bitwach! Uderzając i niszcząc świątynię areny, mogą zdobyć specjalne złote elementy, którymi można ulepszyć spinnery. Kto odniesie zwycięstwo w tej walce? • Pełna akcji zabawka LEGO® NINJAGO® — dzięki zestawowi Smocze Spinjitzu — zestaw bitewny chłopcy i dziewczynki w wieku od sześciu lat mogą odgrywać sceny z trzeciego sezonu serialu telewizyjnego NINJAGO® Powstanie smoków • Dwa szybkie spinnery — dzieci mogą umieścić smocze spinnery Arina i Rasa w wyrzutniach, a następnie wystrzelić je, by bawić się w ekscytujące bitwy • Świątynia areny do zburzenia — Arin i Ras mogą ulepszać swoje spinnery specjalnymi złotymi elementami, które zdobywają, uderzając i burząc arenę bitewną • Dwie minifigurki postaci NINJAGO® — ten zestaw konstrukcyjny zawiera ninja Arina uzbrojonego w miecz oraz złego Rasa z mieczem • Prezent dla małych ninja — ten zestaw LEGO® zapewni mnóstwo frajdy podczas budowania i twórczej zabawy.
 
+**Galeria:**
+
+- 71826-1: https://a.allegroimg.com/original/117f2f/12a376674382a5df77947c1fcece
+
 ---
 
-## 71828 — Lego Ninjago Samochód wyścigowy Lloyda z napędem typu pull-back 71828
+## 71828 — Samochód wyścigowy Lloyda z napędem typu pull-back
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 65.56 zł · EAN: 05702017815633 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71828 |
+| Nazwa angielska | Lloyd's Pull-Back Race Car |
+| Nazwa polska | Samochód wyścigowy Lloyda z napędem typu pull-back |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815633 |
 
 LEGO Ninjago Samochód wyścigowy Lloyda z napędem typu pull-back 71828
 
@@ -6395,11 +9943,27 @@ NINJAGO® Samochód wyścigowy Lloyda z napędem typu pull-back LEGO® NINJAGO®
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017815633
 
+**Galeria:**
+
+- 71828-1: https://a.allegroimg.com/original/112ca6/03207b604fdd81ed4e473b157133
+
 ---
 
-## 71829 — Lego Ninjago Zielony leśny smok Lloyda 71829
+## 71829 — Zielony leśny smok Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 40.02 zł · EAN: 05702017815640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71829 |
+| Nazwa angielska | Lloyd's Green Forest Dragon |
+| Nazwa polska | Zielony leśny smok Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 33 cm |
+| EAN | 5702017815640 |
 
 LEGO Ninjago Zielony leśny smok Lloyda 71829
 
@@ -6437,11 +10001,27 @@ Seria zestawów LEGO NINJAGO obejmuje mechy, pojazdy i świątynie, dzięki któ
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017815640
 
+**Galeria:**
+
+- 71829-1: https://a.allegroimg.com/original/11c797/172bb25540309b96330f1c5520b4
+
 ---
 
-## 71830 — Klocki Lego Ninjago 71830 Burzowy Jeździec-mech Kaia
+## 71830 — Burzowy jeździec-mech Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 139.90 zł · EAN: 05702017815657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71830 |
+| Nazwa angielska | Kai's Mech Storm Rider |
+| Nazwa polska | Burzowy jeździec-mech Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815657 |
 
 Na sprzedaż **KLOCKI LEGO NINJAGO 71830 BURZOWY JEŹDZIEC-MECH KAIA**
 
@@ -6468,11 +10048,27 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanego przez nas spr
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 71830-1: https://a.allegroimg.com/original/11219d/06e61d0348889b2aca939a85f2e1
+
 ---
 
-## 71831 — Lego 71831 Ninjago Świątynia Spinjitzu ninja Zestaw
+## 71831 — Świątynia Spinjitzu ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 114.98 zł · EAN: 05702017815664 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71831 |
+| Nazwa angielska | Ninja Spinjitzu Temple |
+| Nazwa polska | Świątynia Spinjitzu ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815664 |
 
 LEGO 71831 Ninjago Świątynia Spinjitzu ninja Zestaw i Ebook
 
@@ -6498,11 +10094,27 @@ NINJAGO® Świątynia Spinjitzu ninja LEGO® NINJAGO® Świątynia Spinjitzu nin
 
 - **➡️ Otrzymasz oficjalny dokument w formie pliku PDF** (przesyłany po zakupie) potwierdzający oryginalność Twojego zestawu LEGO, dając Ci pewność i zadowolenie z zakupu.
 
+**Galeria:**
+
+- 71831-1: https://a.allegroimg.com/original/114e3f/53743c1845798f26ba139db9f3fb
+
 ---
 
-## 71832 — Lego Ninjago Smok chaosu Kiełogrzmot 71832
+## 71832 — Smok chaosu Thunderfang
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 268.48 zł · EAN: 05702017815671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71832 |
+| Nazwa angielska | Thunderfang Dragon of Chaos |
+| Nazwa polska | Smok chaosu Thunderfang |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 668 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815671 |
 
 Uwolnij moc chaosu z nowym zestawem LEGO® NINJAGO®!
  
@@ -6548,11 +10160,26 @@ Zestaw jest kompatybilny z aplikacją **LEGO® Builder**. To intuicyjne narzęd
  
 **Nie czekaj! Zamów zestaw LEGO® NINJAGO® Smok chaosu Kiełogrzmot już teraz i pozwól swojemu dziecku stać się obrońcą świata NINJAGO!** 🌪️🔥
 
+**Galeria:**
+
+- 71832-1: https://a.allegroimg.com/original/0571d7/a533773344dbbc07f00a06b4ab07
+
 ---
 
-## 71833 — Lego 71833 Ninjago Ras i burzowy superodrzutowiec Arina
+## 71833 — Ras, Arin i samolot superburzowy
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702017815688 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71833 |
+| Nazwa angielska | Ras and Arin's Super Storm Jet |
+| Nazwa polska | Ras, Arin i samolot superburzowy |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815688 |
 
 LEGO 71833 NINJAGO Ras i burzowy superodrzutowiec Arina
 
@@ -6594,11 +10221,27 @@ Posadź minifigurkę w kokpicie i wybierz się na przejażdżkę
 - **Zawiera akumulator/baterię:** Nie 
 - **Zdalnie sterowany:** Nie
 
+**Galeria:**
+
+- 71833-1: https://a.allegroimg.com/original/1143bf/a1a4067c4667907ff021636e7440
+
 ---
 
-## 71834 — Lego Ninjago Wielofunkcyjny ultramech Zane’a 71834
+## 71834 — Łączony ultramech Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 289.87 zł · EAN: 05702017815695 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71834 |
+| Nazwa angielska | Zane's Ultra Combiner Mech |
+| Nazwa polska | Łączony ultramech Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815695 |
 
 **LEGO NINJAGO Wielofunkcyjny ultramech Zane’a 71834**
 
@@ -6624,21 +10267,52 @@ Ten zestaw ninja zawiera sześć minifigurek, dzięki czemu dzieci mogą cieszy�
 
 • 1187-elementowy zestaw z mechem ma 35 cm wysokości
 
+**Galeria:**
+
+- 71834-1: https://a.allegroimg.com/original/11735d/325cb8f84bc9a794ab6d16175799
+
 ---
 
-## 71836 — Zestaw klocków Lego Ninjago Arcysmok skupienia 869 elementow (71836)
+## 71836 — Smok skupienia Arc
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 282.00 zł · EAN: 05702017815701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71836 |
+| Nazwa angielska | Arc Dragon of Focus |
+| Nazwa polska | Smok skupienia Arc |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 869 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815701 |
 
 Arcysmok skupienia
 
 NINJAGO®,NINJAGO Arc Dragon of Focus LEGO® NINJAGO® Arcysmok skupienia Zestaw LEGO® NINJAGO® Arcysmok skupienia 71836 Dzięki zestawowi LEGO® NINJAGO Arcysmok skupienia z minifigurkami dzieci odegrają sceny z trzeciego sezonu serialu \"NINJAGO® Powstanie smoków\". Zestaw LEGO® NINJAGO® ze smokiem i ośmioma minifigurkami Zaskocz dziewięciolatków i starsze dzieci zestawem ninja LEGO® NINJAGO® Arcysmok skupienia (71836), dzięki któremu odegrają epickie sceny akcji z trzeciego sezonu serialu NINJAGO Powstanie Smoków. Ten zestaw konstrukcyjny zawiera figurkę smoka z dwoma głowami, ruchomym ogonem, nogami, stopami, głową, szyją, szczęką i szponami. Dzieci mogą aktywować miotacz klocków na tułowiu i poruszać jego dużymi foliowymi skrzydłami za pomocą dźwigni na jego plecach.Ten zestaw bitewny zawiera osiem minifigurek postaci NINJAGO do odgrywania pełnych akcji przygód. Ponadto obejmuje wojowników ninja Lloyda, Cole’a, Wyldfyre i Kaia oraz ich pomocniczkę Pixal, z których każde ma broń, a także złoczyńców: Drixa, Zarkta i dragońskiego wojownika z broniami.Zabawę urozmaica fajny pojazd spinner Spinjitzu. Dzieci mogą umieścić w nim minifigurkę i nacisnąć przycisk na wyrzutni, która ją wystrzeliwuje. Następnie mogą obserwować, jak dwa żywioły mocy odlatują, gdy pojazd uderza w cel. Wkrocz do akcji z ninja i arcysmokiem skupienia, aby walczyć z gangiem złych Dragonów! Wystrzel strzałkę z tułowia dwugłowego smoka, aby pokonać złowrogiego Drixa, Zarkta i dragońskiego wojownika. Ale uważaj! Będą walczyć za pomocą spinnera Spinjitzu, który może obalić ninja. Lloyd i reszta ekipy muszą powstrzymać ich przed podbojem połączonego świata NINJAGO®! • Zestaw LEGO® NINJAGO® ze smokiem dla dzieci — dwugłowy arcysmok skupienia umożliwia dziewięciolatkom i starszym dzieciom odtwarzanie ekscytujących scen z trzeciego sezonu serialu telewizyjnego NINJAGO®: Powstanie Smoków • Ruchoma figurka smoka — arcysmok skupienia ma ruchomy ogon, nogi, stopy, głowę, szyję, szczękę i pazury • Interaktywny smok NINJAGO® — dzieci mogą aktywować miotacz na tułowiu smoka i poruszać dużymi foliowymi skrzydłami za pomocą dźwigni na jego grzbiecie • Osiem minifigurek NINJAGO® — ten zestaw konstrukcyjny LEGO® zawiera wojowników ninja Lloyda, Cole’a, Wyldfyre i Kaia oraz ich pomocniczkę Pixal, a także złoczyńców Drixa, Zarkta i dragońskiego wojownika • Spinner — w tym zestawie LEGO® znajduje się również spinner Spinjitzu, w którym dzieci mogą umieścić minifigurkę i nacisnąć przycisk na wyrzutni, aby wprawić go w ruch obrotowy • Prezent dla małych ninja — ten zestaw LEGO® zapewni mnóstwo frajdy podczas budowania i zabawy.
 
+**Galeria:**
+
+- 71836-1: https://a.allegroimg.com/original/05cbf5/795d003d48039495ef833cba5225
+
 ---
 
-## 71837 — Klocki Lego Ninjago Warsztaty w mieście 3244 elementy 14+ Klocki
+## 71837 — Warsztaty w mieście Ninjago
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1042.99 zł · EAN: 05702017823140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71837 |
+| Nazwa angielska | NINJAGO City Workshops |
+| Nazwa polska | Warsztaty w mieście Ninjago |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 41 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702017823140 |
 
 LEGO 71837 Ninjago - Warsztaty w mieście NINJAGO®
  
@@ -6663,11 +10337,27 @@ To **pierwszy model miasta NINJAGO z ruchomym mechem**, który dzieci mogą budo
  
 - Wymiary — ten 3244-elementowy zestaw Warsztaty w mieście NINJAGO® **ma 41 cm wysokości, 25 cm szerokości i 25 cm głębokości**
 
+**Galeria:**
+
+- 71837-1: https://a.allegroimg.com/original/113e87/177c44044f0abd6f94e16493af89
+
 ---
 
-## 71838 — Lego Ninjago 71838 Wyścig motocyklowy Kaia Figurki Klocki Motor Zestaw
+## 71838 — Wyścig motocyklowy Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 64.92 zł · EAN: 04894041727776 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71838 |
+| Nazwa angielska | Kai's Motorcycle Speed Race |
+| Nazwa polska | Wyścig motocyklowy Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4894041727776, 5702017815718 |
 
 LEGO Ninjago 71838 Wyścig motocyklowy Kaia Figurki Klocki Motor Zestaw
 
@@ -6705,11 +10395,28 @@ LEGO Ninjago 71838 Wyścig motocyklowy Kaia Figurki Klocki Motor Zestaw
 - **Z czym połączyć ten zestaw?** Zestaw świetnie współgra z **Bitwą Arina z Dragonem (30700)** lub większymi pojazdami z serii Dragons Rising, tworząc rozbudowaną flotę ninja.
 - **Czy to oryginalny produkt?** Tak, produkt jest fabrycznie nowym, oryginalnym zestawem LEGO® Ninjago z najnowszej dystrybucji.
 
+**Galeria:**
+
+- 71838-1: https://a.allegroimg.com/original/11ad3c/99bcc1494a2b8da79939231bfa74
+- 71838-2: https://a.allegroimg.com/original/116d39/474997b340c083183120b49ab698
+
 ---
 
-## 71839 — Lego Ninjago Mech Bojowy Spinjitzu Arina Zestaw Do Budowania Święta
+## 71839 — Mech bojowy Spinjitzu Arina
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 119.76 zł · EAN: 05702017908427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71839 |
+| Nazwa angielska | Arin's Spinjitzu Battle Mech |
+| Nazwa polska | Mech bojowy Spinjitzu Arina |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815725, 5702017908427 |
 
 ⭐LEGO NINJAGO MECH BOJOWY SPINJITZU ARINA ZESTAW DO BUDOWANIA PREZENT ŚWIĘTA⭐
 
@@ -6740,11 +10447,28 @@ LEGO Ninjago 71838 Wyścig motocyklowy Kaia Figurki Klocki Motor Zestaw
 - **✅Zestawy NINJAGO® pozwalają dzieciom przenieść się do emocjonującego świata fantazji** 
 - **✅Ten 213-elementowy mech ma 16 cm wysokości**
 
+**Galeria:**
+
+- 71839-1: https://a.allegroimg.com/original/11e48f/c2175b1643f8b9db1a01688ea102
+- 71839-2: https://a.allegroimg.com/original/11ef1f/a1a6105e4e01918eb5bb65924134
+
 ---
 
-## 71840 — Lego Ninjago Klocki Zestaw 71840 Pojedynek Wyścigowy Rogue Drix 3 Figurki
+## 71840 — Pojedynek wyścigowy Rogue kontra Drix
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 77.27 zł · EAN: 05702017815732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71840 |
+| Nazwa angielska | Rogue vs. Drix Race Car Duel |
+| Nazwa polska | Pojedynek wyścigowy Rogue kontra Drix |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815732 |
 
 LEGO NINJAGO Klocki Zestaw 71840 Pojedynek Wyścigowy Rogue Drix 3 Figurki
 
@@ -6808,11 +10532,27 @@ Pytania i odpowiedzi
  
 ✅Ten zestaw jest przeznaczony dla dzieci w wieku **od czterech lat**. Jest idealny zarówno dla chłopców, jak i dziewczynek, oferując im wciągającą i rozwijającą zabawę w świecie **NINJAGO Powstanie Smoków**.
 
+**Galeria:**
+
+- 71840-1: https://a.allegroimg.com/original/112519/3bf2247f41139df773a1f9163165
+
 ---
 
-## 71841 — Lego Ninjago 71841 Burzowa wioska Dragonów Zane Nya Rogue Morro Dragon
+## 71841 — Burzowa wioska Dragonów
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702017815749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71841 |
+| Nazwa angielska | Dragonian Storm Village |
+| Nazwa polska | Burzowa wioska Dragonów |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 22 cm × gł. 9 cm |
+| EAN | 5702017815749 |
 
 LEGO® Ninjago 71841 - Burzowa wioska Dragonów
 
@@ -6834,11 +10574,27 @@ Zestaw zawiera również sześć minifigurek LEGO® NINJAGO: Zane’a i Nyi, a t
 - Świat ninja — zestawy LEGO® NINJAGO® sprawiają, że dzieci mogą wkroczyć do fantastycznego świata przygód z bohaterami ninja 
 - Wymiary — ten 305-elementowy zestaw Burzowa wioska Dragonów ma 20 cm wysokości, 22 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 71841-1: https://a.allegroimg.com/original/05d82b/e113a26247a0ab1598d7d3c38e3c
+
 ---
 
-## 71842 — Klocki Lego 71842 Ninjago Rontu Władca Smoków 381 elementów od 7 lat
+## 71842 — Mistrzowski smok Rontu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 160.49 zł · EAN: 05702017815756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71842 |
+| Nazwa angielska | Rontu the Master Dragon |
+| Nazwa polska | Mistrzowski smok Rontu |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 381 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815756 |
 
 Dzięki zestawowi LEGO® NINJAGO® (71842) **Rontu – Władca Smoków** fani ninja od 7 lat będą przypominać sceny akcji z 3. serii serialu telewizyjnego NINJAGO Powstanie Smoka. Ten zestaw konstrukcyjny dla dzieci zawiera model smoka z ruchomym ogonem, nogami, skrzydłami, głową i szczęką, 2 pozycjami na plecach do umieszczenia minifigurki oraz wyrzutnią pod każdym skrzydłem.
  
@@ -6860,11 +10616,27 @@ Zestawy i **zabawki akcji** z serii LEGO NINJAGO (sprzedawane oddzielnie) zawier
 - Liczba elementów: 381 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 71842-1: https://a.allegroimg.com/original/25607c/959d37554fe585bdf68682a1b17c
+
 ---
 
-## 71843 — klocki Lego Ninjago 71843 Mech smoczego jeźdźca Rogue'a
+## 71843 — Mech Rogue — jeździec smoka
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 238.99 zł · EAN: 05702017815763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71843 |
+| Nazwa angielska | Rogue's Mech Dragon Rider |
+| Nazwa polska | Mech Rogue — jeździec smoka |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 584 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815763 |
 
 Dzięki połączonemu zestawowi ninja **Rogue i robotyczny smoczy jeździec** (71843) chłopcy i dziewczęta od 8 lat będą przypominać historie z 3. Seria serialu telewizyjnego NINJAGO® Dragon Rebelion. Dzieci mogą bawić się robotem lub pierwszym w historii smokiem robotycznym NINJAGO, który następnie łączy w niesamowity model Rogue i robotyczny smoczy jeździec.
 
@@ -6885,11 +10657,27 @@ Dzieci mogą przymocować roboty z zestawów Kaia Burzowy Jeździec i Robot (718
 - Liczba elementów: 584
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 71843-1: https://a.allegroimg.com/original/294073/4c418ce0409aa6d0b1a8d7479f29
+
 ---
 
-## 71844 — Lego Ninjago Pojazd bojowy ninja 3w1 71844
+## 71844 — Bojowy pojazd ninja
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 332.95 zł · EAN: 05702017815770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71844 |
+| Nazwa angielska | Ninja Combat Vehicle |
+| Nazwa polska | Bojowy pojazd ninja |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 561 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815770 |
 
 Zestaw LEGO Ninjago Pojazd bojowy ninja (71844)
 
@@ -6926,11 +10714,27 @@ Każda postać jest wyposażona w odpowiednią broń, co wzbogaca możliwości o
 - **Nokt i zwiadowca Spektralnych Dragonów:** Obaj dzierżą miecze. 
 - **Sekretny element:** W zestawie znajduje się sztandar z ukrytą wiadomością, którą można odczytać wyłącznie za pomocą przezroczystego ostrza ujawnienia, należącego do Cole’a.
 
+**Galeria:**
+
+- 71844-1: https://a.allegroimg.com/original/290a19/ae0cc7314ed08f8431d2b1a7f8ae
+
 ---
 
-## 71845 — Lego 71845 Ninjago Odrzutowy mech Lloyda
+## 71845 — Odrzutowy mech Lloyda
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702017815787 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71845 |
+| Nazwa angielska | Lloyd’s Jet Mech |
+| Nazwa polska | Odrzutowy mech Lloyda |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815787 |
 
 LEGO 71845 Ninjago - Odrzutowy mech Lloyda
 
@@ -6962,11 +10766,27 @@ Fajny sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci prze
 
 Wymiary — mech w tym zestawie LEGO® składającym się z 1112 elementów ma 24 cm wysokości
 
+**Galeria:**
+
+- 71845-1: https://a.allegroimg.com/original/11d6ce/1d28def843a4a711a2dacb9f81e0
+
 ---
 
-## 71846 — Klocki Lego Ninjago 71846 Mech ognistego rycerza Ninjago Legends
+## 71846 — Mech ognistego rycerza
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 359.99 zł · EAN: 05702017815794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71846 |
+| Nazwa angielska | The Fire Knight Mech |
+| Nazwa polska | Mech ognistego rycerza |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 996 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815794 |
 
 Starsi fani NINJAGO® od 14 lat powiększą swoją kolekcję modeli LEGO® NINJAGO o niesamowity i wyrafinowany zestaw **Robot ognistego Rycerza** (71846). Zestaw zawiera dramatyczną scenę robota w pelerynie i z włócznią w ręku, który walczy z pradawnym potworem wyłaniającym się z morza. **Model** świetnie sprawdzi się na wystawie w pokoju.
  
@@ -6988,21 +10808,53 @@ Aplikacja LEGO Builder pokaże Ci łatwą i intuicyjną podróż przez przygodę
 - Liczba elementów: 996 
 - Nadaje się dla dzieci od 14 lat
 
+**Galeria:**
+
+- 71846-1: https://a.allegroimg.com/original/254265/5a5e51054ad4bbc9da57e025f7dd
+
 ---
 
-## 71847 — Lego Ninjago 71847 Smok strażniczy
+## 71847 — Smok-strażnik
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017815800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71847 |
+| Nazwa angielska | The Guardian Dragon |
+| Nazwa polska | Smok-strażnik |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1650 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815800 |
 
 Smok-strażnik
 
 NINJAGO® LEGO NINJAGO Smok-strażnik, zestaw interaktywny dla 14-latka z minifigurką Mistrza Wu, pomysł na prezent dla nastolatków i ciekawe dekoracje do pokoju chłopca i dziewczynki 71847 ninjago pojazdy ninja prezent dla 8 10 11 12 18 latka ninjago smok klocki konstruktor mech robot urodziny imieniny upominek spinjitzu spinner smoczy zestaw bitewny chłopak dziewczyna mąż brat mężczyzna pomysł na prezent dla dorosłych The Guardian Dragon LEGO® NINJAGO® Smok-strażnik Zestaw konstrukcyjny LEGO® NINJAGO® Smok-strażnik 71847 Model smoka LEGO® NINJAGO® na podstawce zawiera także staw, lewitujący magiczny miecz i minifigurkę Mistrza Wu. Imponujący model smoka LEGO® NINJAGO® na podstawce Starsi fani NINJAGO® w wieku od 14 lat mogą poszerzyć swoją kolekcję modeli LEGO® NINJAGO o ten imponujący zestaw konstrukcyjny Smok-strażnik (71847). Model smoka ma ruchomą głowę, ręce i łuski, a także duże skrzydła, kolce i otoczkę nad głową. To świetny prezent dla fanów serialu NINJAGO Legends Potworności.Model stoi na niezwykle szczegółowej podstawce, na której znajdują się staw, lewitujący magiczny miecz, latarnia i brama, a także minifigurka Mistrza Wu. Całość będzie się świetnie prezentowała na półce, biurku lub stoliku nocnym w sypialni.Inne zestawy LEGO® NINJAGO (sprzedawane osobno) obejmują mechy, pojazdy i świątynie, dzięki czemu fani mogą odgrywać historie ze swoimi bohaterami. Każdą fantastyczną zabawkę można stworzyć z pomocą aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez łatwą i intuicyjną przygodę z budowaniem. Można w niej powiększać i obracać model w 3D, zapisywać zestawy i śledzić swoje postępy. Zestaw zawiera 1650 elementów. Zbuduj imponujący i niezwykle szczegółowy model LEGO® NINJAGO® dzięki zestawowi Smok-strażnik. Ta figurka smoka ma ruchomą głowę, ręce i łuski, a także duże skrzydła, kolce i otoczkę nad głową. Jest umieszczona na podstawce, na której znajduje się staw, lewitujący magiczny miecz, latarnia i brama, a także minifigurka Mistrza Wu. • Model smoka NINJAGO® — starsi fani NINJAGO mogą uzupełnić swoją kolekcję modeli LEGO® NINJAGO o ten niezwykły zestaw konstrukcyjny Smok-strażnik • Mnóstwo szczegółów — podstawkę Smoka-strażnika zdobi staw, lewitujący magiczny miecz, latarnia i brama, które urozmaicają opowiadanie historii • Ruchoma figurka smoka — fani ninja mogą ustawiać głowę, ramiona i łuski smoka w różnych pozycjach, gdy stoi na półce lub stoliku nocnym • Minifigurka NINJAGO® — zestaw LEGO® zawiera minifigurkę Mistrza Wu z kosturem • Prezent dla fanów NINJAGO® — ten zestaw zapewnia satysfakcjonujące budowanie i jest świetnym pomysłem na prezent dla fanów serialu NINJAGO Legends Potworności, którzy chcą pochwalić się swoją pasją • Zestaw z modelem majestatycznego smoka NINJAGO® • Podstawka do ekspozycji zawiera staw, bramę i lewitujący magiczny miecz • Figurka smoka ma ruchomą głowę i ręce, co ułatwia odgrywanie historii o ninja • Zestaw zawiera minifigurkę Mistrza Wu z kosturem • Wyjątkowy prezent dla fanów NINJAGO® w wieku od 14 lat • Odkryj intuicyjne instrukcje budowania w 3D w aplikacji LEGO® Builder • Zestawy LEGO® NINJAGO® pozwalają dzieciom wkroczyć do świata fantazji
 
+**Galeria:**
+
+- 71847-1: https://a.allegroimg.com/original/2991c5/372b910a4da98265572215a62f99
+
 ---
 
-## 71848 — Lego Ninjago Perła Świątyni 71848
+## 71848 — Perła Świątyni
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 716.55 zł · EAN: 05702017815817 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71848 |
+| Nazwa angielska | The Temple Bounty |
+| Nazwa polska | Perła Świątyni |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 2387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815817 |
 
 LEGO NINJAGO Perła Świątyni 71848
 
@@ -7030,11 +10882,27 @@ Cechy produktu:
 - Prezent dla fanów NINJAGO® — ten zestaw gwarantuje świetną zabawę i będzie ciekawym pomysłem na prezent dla nastolatków, którzy uwielbiają opowiadać historie
 - Fajny sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie
 
+**Galeria:**
+
+- 71848-1: https://a.allegroimg.com/original/110be9/9e5ff9b54e63b8b9c7238518da35
+
 ---
 
-## 71849 — Lego Ninjago Nya kontra zmutowany potwór na spinnerze 71849
+## 71849 — Spinner: Nya kontra potwór-mutant
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 29.90 zł · EAN: 05702018033982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71849 |
+| Nazwa angielska | Nya vs. Mutation Monster Spinner |
+| Nazwa polska | Spinner: Nya kontra potwór-mutant |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018033982 |
 
 **LEGO NINJAGO Nya kontra zmutowany potwór na spinnerze 71849**
 
@@ -7060,11 +10928,27 @@ Zestawy NINJAGO® pozwalają dzieciom przenieść się do emocjonującego świat
 
 49-elementowy zestaw zawiera spinner o długości 11 cm
 
+**Galeria:**
+
+- 71849-1: https://a.allegroimg.com/original/11ef35/247b3e324fcea0c96bb67750c45a
+
 ---
 
-## 71850 — Lego Ninjago 71850 Lloyd Kontra Ziemny Potwór Na Spinnerze
+## 71850 — Spinner: Lloyd kontra potwór ziemi
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 29.87 zł · EAN: 05702018033999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71850 |
+| Nazwa angielska | Lloyd vs. Earth Monster Spinner |
+| Nazwa polska | Spinner: Lloyd kontra potwór ziemi |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702018033999 |
 
 Dziewczynki i chłopcy od 6 lat będą się świetnie bawić podczas budowania zabawki bojowej LEGO® NINJAGO® **Lloyd kontra spinner ziemnego potwora** (71850) i odtworzą sceny z 4. sezonu serialu NINJAGO Powstanie Smoków. Po zakończeniu budowania dzieci mogą nacisnąć przycisk wyrzutni, aby uwolnić spinner i szybko go rozkręcić, obserwując, czy po trafieniu celu odlecą z niego 2 elementy mocy żywiołów.
  
@@ -7086,11 +10970,26 @@ Seria zestawów i zabawek przygodowych LEGO NINJAGO zawiera dopracowane roboty, 
 - Liczba elementów: 52 
 - Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 71850-1: https://a.allegroimg.com/original/29467d/af765f2847e29dc5078ea5745278
+
 ---
 
-## 71851 — Lego Ninjago Smok-mech Kaia Zestaw Bitewny 71851
+## 71851 — LEGO Ninjago 71851 Smok-mech Kaia zestaw bitewny
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 27.85 zł · EAN: 05702018031971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71851 |
+| Nazwa angielska | Kai's Dragon Mech Battle Pack |
+| Nazwa polska | LEGO Ninjago 71851 Smok-mech Kaia zestaw bitewny |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018031971 |
 
 LEGO NINJAGO Smok-mech Kaia - zestaw bitewny 71851
 
@@ -7102,11 +11001,26 @@ Seria zestawów i zabawek LEGO NINJAGO dla dzieci obejmuje mechy, smoki i świą
 
 -------------------------------------------------------------------------
 
+**Galeria:**
+
+- 71851-1: https://a.allegroimg.com/original/11c1a4/56d8f5b94fcb950f5fb0894549e1
+
 ---
 
-## 71853 — 71853 Lego Ninjago Bitwa W Smoczym Mechu Jaya
+## 71853 — LEGO Ninjago 71853 Bitwa w smoczym mechu Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702018055236 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71853 |
+| Nazwa angielska | Jay's Dragon Mech Fight |
+| Nazwa polska | LEGO Ninjago 71853 Bitwa w smoczym mechu Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018055236 |
 
 LEGO NINJAGO 71853 Bitwa w smoczym mechu Jaya
 
@@ -7132,11 +11046,27 @@ Wprowadzenie do świata budowania zestawy LEGO dla przedszkolaków pomagają dzi
 
 Wymiary ten 107-elementowy zestaw konstrukcyjny dla dzieci zawiera smoczego mecha Jaya o wysokości 10 cm
 
+**Galeria:**
+
+- 71853-1: https://a.allegroimg.com/original/11f5d0/6e0bcd8f4fb08ac05701b9d67de4
+
 ---
 
-## 71854 — Lego Ninjago 71854 Mech specjalny Cole’a i Zane w smoczej zbroi
+## 71854 — Misyjny mech Cole'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 80.43 zł · EAN: 05702018031988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71854 |
+| Nazwa angielska | Cole's Mission Mech & Dragon Zane |
+| Nazwa polska | Misyjny mech Cole'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018031988 |
 
 Chłopcy i dziewczynki w wieku od 7 lat pokochają budowanie tej nindżowskiej zabawki LEGO® NINJAGO® **Robota bojowego Cole'a i smoczego Zanea** (71854) i odtworzą sceny z 4. sezonu serialu NINJAGO Powstanie smoków. Zestaw zawiera robota z ruchomą głową, ramionami, naramiennikami, palcami, nogami i kostkami. Jest też kokpit, w którym można umieścić minifigurkę.
  
@@ -7158,21 +11088,52 @@ Zestawy LEGO NINJAGO dla dzieci **zawierają** szczegółowe roboty, smoki i św
 - Liczba elementów: 364 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 71854-1: https://a.allegroimg.com/original/29542e/09154a74496fa1f22f74177e640f
+
 ---
 
-## 71855 — Lego Ninjago Zabawka w stylu ninja Lego Ninjago Bitwa smoka Riyu 71855
+## 71855 — Zabawka w stylu ninja LEGO NINJAGO Bitwa smoka Riyu 71855
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 168.99 zł · EAN: 05702018055243 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71855 |
+| Nazwa angielska | Ninja Dragon Riyu's Battle |
+| Nazwa polska | Zabawka w stylu ninja LEGO NINJAGO Bitwa smoka Riyu 71855 |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018055243 |
 
 LEGO Ninjago 71855 Bitwa smoka Riyu
 
 Chłopcy i dziewczynki w wieku od siedmiu lat będą zachwyceni budowaniem zestawu LEGO® NINJAGO® Bitwa smoka Riyu (71855) i odtwarzaniem scen z czwartego sezonu serialu NINJAGO®: Powstanie Smoków. Ten imponujący zestaw zawiera smoka z ruchomymi skrzydłami, nogami, stopami, łapami, nadgarstkami, pazurami, głową, ogonem i ramionami. Postać jest uzbrojona w ogromny miecz i shurikena. Dzieci mogą dokonać ekscytującej zamiany i użyć broni z zestawu Mech specjalny Cole’a i Zane w smoczej zbroi (71854)(sprzedawanego osobno). Ten zestaw LEGO ze smokiem zawiera cztery minifigurki: wojowników ninja Arina i Nyę w smoczej formie oraz złoczyńców: zmutowanego potwora i lojalistę. Seria zabawek LEGO NINJAGO dla dzieci obejmuje mechy, smoki i świątynie, dzięki którym fani mogą odgrywać scenki z udziałem ninja. Dzieci mogą budować z pewnością siebie, korzystając z aplikacji LEGO Builder, w której można powiększać modele, obracać je w 3D i śledzić postępy dzięki prostym instrukcjom cyfrowym. Zestaw składa się z 347 elementów.
 
+**Galeria:**
+
+- 71855-1: https://a.allegroimg.com/original/113b4d/7a05ba7e490ea7b8881b7fe65619
+
 ---
 
-## 71856 — Lego Ninjago 71856 Wielofunkcyjny samochód Jaya
+## 71856 — Transformujący samochód Jaya
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 166.60 zł · EAN: 05702018055267 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71856 |
+| Nazwa angielska | Jay's Transforming Car |
+| Nazwa polska | Transformujący samochód Jaya |
+| Seria | Ninjago |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm |
+| EAN | 5702018055267 |
 
 LEGO Ninjago 71856 Wielofunkcyjny samochód Jaya
 
@@ -7196,11 +11157,27 @@ Seria zestawów i zabawek LEGO NINJAGO dla dzieci obejmuje mechy, smoki i świą
 - Uniwersum zabawek LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów ninja.
 - Wymiary — zestaw z 387 elementami obejmuje samochód, który ma 11 cm wysokości, 20 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 71856-1: https://a.allegroimg.com/original/296e3c/40d7aaa34a16b0684056ea492450
+
 ---
 
-## 71857 — Lego Ninjago Bitwa ninja: domek na drzewie z pojazdami 71857
+## 71857 — Bitwa o domek ninja na drzewie
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 247.69 zł · EAN: 05702018055670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71857 |
+| Nazwa angielska | Ninja Vehicle Tree House Battle |
+| Nazwa polska | Bitwa o domek ninja na drzewie |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 642 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018055670 |
 
 **LEGO NINJAGO Bitwa ninja: domek na drzewie z pojazdami 71857**
 
@@ -7226,19 +11203,49 @@ Zestawy NINJAGO® pozwalają dzieciom przenieść się do emocjonującego świat
 
 642-elementowy zestaw ninja z domkiem na drzewie ma 22 cm wysokości
 
+**Galeria:**
+
+- 71857-1: https://a.allegroimg.com/original/11f8e3/7df7332f447192b09f298114f613
+
 ---
 
-## 71858 — Lego Ninjago 71858 Kuźnia Cztery Bronie 15-lecie
+## 71858 — LEGO Ninjago 71858 Kuźnia Cztery Bronie 15-lecie
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 309.98 zł · EAN: 05702018031995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71858 |
+| Nazwa angielska | Four Weapons Blacksmith 15th Anniversary |
+| Nazwa polska | LEGO Ninjago 71858 Kuźnia Cztery Bronie 15-lecie |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018031995 |
 
 Świętuj 15. rocznicę serialu \"LEGO® NINJAGO®\" i zbuduj kultową kuźnię — pierwszą lokalizację z odcinka pilotażowego. Otwórz ją, aby odkryć sypialnię i kuźnię pełną detali, a także poszukaj zestawu ukrytych naklejek ninja i mapy złotych broni. Zestaw zawiera sześć minifigurek, w tym pierwszą w historii kolekcjonerską figurkę Mistrza Ziemi na podstawce.
 
+**Galeria:**
+
+- 71858-1: https://a.allegroimg.com/original/055885/b0679dd7443b9b0a16f1736fc24d
+
 ---
 
-## 71859 — Lego Ninjago Smok życia, zabawka dla dzieci 71859
+## 71859 — Smok życia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 309.98 zł · EAN: 05702018055687 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71859 |
+| Nazwa angielska | The Dragon of Life |
+| Nazwa polska | Smok życia |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1050 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055687 |
 
 **LEGO NINJAGO Smok życia, zabawka dla dzieci 71859**
 
@@ -7264,11 +11271,26 @@ Zestawy NINJAGO® pozwalają dzieciom przenieść się do emocjonującego świat
 
 1050-elementowy zestaw ze smokiem ma 55 cm szerokości
 
+**Galeria:**
+
+- 71859-1: https://a.allegroimg.com/original/113633/540640f343c89c2fe1343374f160
+
 ---
 
-## 71860 — Lego Ninjago 71860 Tytanowy Robot Lloyda: 15 lat Ninjago
+## 71860 — LEGO NINJAGO Tytanowy mech Lloyda - 15. rocznica 71860
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 402.98 zł · EAN: 05702018055694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71860 |
+| Nazwa angielska | Lloyd's Titan Mech 15th Anniversary |
+| Nazwa polska | LEGO NINJAGO Tytanowy mech Lloyda - 15. rocznica 71860 |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1293 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018055694 |
 
 Dzięki tej imponującej i bogatej w funkcje zabawce z mechem chłopcy, dziewczynki i nostalgiczni fani ninja w wieku od 14 lat mogą świętować 15-lecie serialu telewizyjnego LEGO® NINJAGO®. Zestaw LEGO® NINJAGO® Tytanowy mech Lloyda — 15. rocznica (71860) to ulepszona wersja ulubionego przez fanów oryginalnego modelu Tytanowy mech Lloyda (70676).
  
@@ -7276,11 +11298,26 @@ Mech ma kilka ruchomych części ciała, w tym skrzydła, nogi, stopy, ramiona i
  
 Zestaw zawiera trzy minifigurki: Lloyda i Grimfaxa z serialu telewizyjnego oraz kolekcjonerską figurkę Mistrza Lodu na podstawce. Fani ninja mogą budować z pewnością siebie, korzystając z aplikacji LEGO® Builder, w której można powiększać modele, obracać je w 3D i śledzić postępy dzięki prostym instrukcjom cyfrowym. Zestaw składa się z 1293 elementów.
 
+**Galeria:**
+
+- 71860-1: https://a.allegroimg.com/original/05c824/a737a273468cbad7e217c02e9bf1
+
 ---
 
-## 71861 — Lego Ninjago 71861 Stare miasto 15 lecie
+## 71861 — Stare miasto - 15-lecie
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 1689.99 zł · EAN: 05702018066393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71861 |
+| Nazwa angielska | The Old Town 15th Anniversary |
+| Nazwa polska | Stare miasto - 15-lecie |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 4851 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 53 cm × gł. 44 cm |
+| EAN | 5702018066393 |
 
 Chłopcy, dziewczynki i fani NINJAGO® w wieku od 14 lat mogą uczcić historię serialu telewizyjnego „LEGO® NINJAGO”, budując zestaw konstrukcyjny Stare miasto — 15-lecie (71861). Ten zestaw z repliką miasta składa się z czterech modułów: bramy wejściowej, poczty i warsztatu, trzypiętrowej wieży oraz punktu obserwacyjnego, które można połączyć w okrąg, ustawić w linii o szerokości ponad 100 cm lub bawić się nimi osobno. Ta zabawka w stylu ninja jest pełna nostalgicznych nawiązań i zawiera tyrolkę, po której mogą poruszać się minifigurki, działający dźwig, wózek z herbatą, warsztat stolarski, eksplodującą ścianę i posąg Pierwszego Mistrza Spinjitzu, drzewa wiśniowe, ukryte wejście, artefakty ninja i tajną kryjówkę. Zestaw zawiera 23 minifigurki postaci z serialu telewizyjnego, w tym wszystkich siedmioro oryginalnych ninja oraz, po raz pierwszy w historii, trzy minifigurki kolekcjonerskie na podstawce. Dzieci mogą zbudować zestaw, korzystając z aplikacji LEGO Builder z prostymi instrukcjami cyfrowymi. Zestaw składa się z 4851 elementów.
  
@@ -7294,11 +11331,26 @@ Chłopcy, dziewczynki i fani NINJAGO® w wieku od 14 lat mogą uczcić historię
 - Uniwersum zabawek LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów ninja 
 - Wymiary — ta pełna nostalgicznych nawiązań zabawka składająca się z 4851 elementów zawiera główny model starego miasta o wymiarach 34 cm wysokości, 53 cm szerokości i 44 cm głębokości
 
+**Galeria:**
+
+- 71861-1: https://a.allegroimg.com/original/11ce55/84dd87604b68b954f198da4840fb
+
 ---
 
-## 71862 — Lego Ninjago 71862 Zestaw bojowy: Smoczy strój Lloyda
+## 71862 — Smoczy mech Lloyda — zestaw bitewny
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 29.48 zł · EAN: 05702018055700 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71862 |
+| Nazwa angielska | Lloyd's Dragon Mech Battle Pack |
+| Nazwa polska | Smoczy mech Lloyda — zestaw bitewny |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 81 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055700 |
 
 LEGO Ninjago 71862 Smoczy mech Lloyda zestaw bitewny
  
@@ -7320,11 +11372,26 @@ Seria zestawów LEGO® NINJAGO obejmuje mechy, smoki i świątynie, dzięki któ
 - UNIWERSUM PRZYGÓD LEGO® NINJAGO® — szeroka kolekcja zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów. 
 - WYMIARY — ten 81-elementowy zestaw zawiera ruchomą figurkę smoczego mecha o wysokości 9 cm.
 
+**Galeria:**
+
+- 71862-1: https://a.allegroimg.com/original/11cba5/68e97b08460ea9ed91e9ff9358f2
+
 ---
 
-## 71863 — Lego Ninjago 71863 Zilvar I Smoczy Potwór Grimtak
+## 71863 — Zilvar i smocza bestia Grimtak
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 56.15 zł · EAN: 05702018055717 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71863 |
+| Nazwa angielska | Zilvar and Grimtak the Dragon Beast |
+| Nazwa polska | Zilvar i smocza bestia Grimtak |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 232 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055717 |
 
 🐉🥷 **LEGO NINJAGO ZILVAR I SMOCZA BESTIA GRIMTAK 71863 (232 EL.)** 🥷🐉
 
@@ -7359,11 +11426,26 @@ Przenieś się w sam środek emocjonujących starć z 4. sezonu serialu NINJAGO�
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 71863-1: https://a.allegroimg.com/original/118bc3/fdfbf84e4e4099fe229865e74733
+
 ---
 
-## 71864 — Lego Ninjago 71864 Połączalne pojazdy Kaia i Cole'a
+## 71864 — Wielofunkcyjne pojazdy Kaia i Cole'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 83.48 zł · EAN: 05702018055809 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71864 |
+| Nazwa angielska | Kai and Cole's Combiner Vehicles |
+| Nazwa polska | Wielofunkcyjne pojazdy Kaia i Cole'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 394 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702018055809 |
 
 LEGO Ninjago 71864 Wielofunkcyjne pojazdy Kaia i Cole’a
  
@@ -7385,11 +11467,26 @@ Seria zestawów LEGO NINJAGO obejmuje mechy, smoki i świątynie, dzięki który
 - ZESTAWY Z UNIWERSUM LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów ninja. 
 - WYMIARY — ten 394-elementowy zestaw zawiera łazika, który ma 9 cm wysokości, 18 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 71864-1: https://a.allegroimg.com/original/11a7db/86479d73421c955381c15f2e2d8b
+
 ---
 
-## 71865 — Lego Ninjago Bitwa lodowego smoka Zane’a 71865
+## 71865 — Bitwa lodowego smoka Zane'a
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702018055816 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71865 |
+| Nazwa angielska | Zane's Ice Dragon Battle |
+| Nazwa polska | Bitwa lodowego smoka Zane'a |
+| Seria | Ninjago |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 141 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055816 |
 
 **LEGO NINJAGO Bitwa lodowego smoka Zane’a 71865**
 
@@ -7415,11 +11512,26 @@ Zestawy LEGO® dla przedszkolaków pokazują dzieciom radość z budowania
 
 141-elementowy zestaw z figurką smoka ma 36 cm szerokości
 
+**Galeria:**
+
+- 71865-1: https://a.allegroimg.com/original/11b834/42c9abae423783aa9788047c9ce5
+
 ---
 
-## 71866 — Lego Ninjago 71866 Wystawa Ninja: 15 Lat Ninjago
+## 71866 — LEGO Ninjago 71866 Ozdoba z postaciami ninja 15-lecie
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 116.55 zł · EAN: 05702018055748 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71866 |
+| Nazwa angielska | Ninja Character Display 15th Anniversary |
+| Nazwa polska | LEGO Ninjago 71866 Ozdoba z postaciami ninja 15-lecie |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 447 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018055748 |
 
 🏯🐉 **LEGO NINJAGO OZDOMA Z POSTACIAMI NINJA – 15-LECIE 71866 (447 EL.)** 🐉🏯
 
@@ -7456,11 +11568,26 @@ Jubileuszowy zestaw z okazji 15. rocznicy serii LEGO® NINJAGO®, szczegółowy 
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 71866-1: https://a.allegroimg.com/original/291b8c/dffe4c754c298bbb8a569f335fc5
+
 ---
 
-## 71867 — Lego Ninjago 71867 Czerwony Niszczyciel Kaia: 15 lat Ninjago
+## 71867 — Ninjaścigacz X-1 — 15-lecie
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 221.98 zł · EAN: 05702018055755 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71867 |
+| Nazwa angielska | X-1 Ninja Charger 15th Anniversary |
+| Nazwa polska | Ninjaścigacz X-1 — 15-lecie |
+| Seria | Ninjago |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 691 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702018055755 |
 
 LEGO Ninjago 71867 Ninjaścigacz X-1 15-lecie
  
@@ -7482,11 +11609,26 @@ Odkryj więcej pomysłów na fajne prezenty dla fanów ninja w serii LEGO NINJAG
 - Zestawy konstrukcyjne LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów. 
 - Wymiary — ten 691-elementowy zestaw ma 8 cm wysokości, 25 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 71867-1: https://a.allegroimg.com/original/1166d9/9579e86944b1a4021534ee62bac9
+
 ---
 
-## 71868 — Lego Ninjago 71868 Wyldfyre i transformowalny kombinezon smoka
+## 71868 — Transformujący smoczy mech Wyldfyre
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 268.99 zł · EAN: 05702018055823 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71868 |
+| Nazwa angielska | Wyldfyre's Transforming Dragon Mech |
+| Nazwa polska | Transformujący smoczy mech Wyldfyre |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 821 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 35 cm |
+| EAN | 5702018055823 |
 
 LEGO Ninjago 71868 Transformujący smoczy mech Wyldfyre
  
@@ -7508,11 +11650,26 @@ Zestawy LEGO NINJAGO pozwalają fanom ninja przenieść się do fantastycznego �
 - UNIWERSUM ZESTAWÓW LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie ulubionych bohaterów. 
 - WYMIARY — pojazd w tym 821-elementowym zestawie ma 15 cm wysokości, 38 cm długości i 35 cm szerokości.
 
+**Galeria:**
+
+- 71868-1: https://a.allegroimg.com/original/11c890/41b2c8bf45f4971bee2afbd20562
+
 ---
 
-## 71869 — Lego Ninjago 71869 Nagroda Losu na Lądzie
+## 71869 — Perła Lądu
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702018055830 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71869 |
+| Nazwa angielska | Land Bounty |
+| Nazwa polska | Perła Lądu |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1214 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 17 cm |
+| EAN | 5702018055830 |
 
 LEGO Ninjago 71869 Perła Lądu
  
@@ -7534,11 +11691,26 @@ Będą wyobrażać sobie starcia między bohaterami a złoczyńcami dzięki sze�
 - UNIWERSUM ZESTAWÓW LEGO® NINJAGO® — szeroka oferta zestawów pozwala fanom ninja przenieść się do świata fantazji i kreatywnie bawić się w towarzystwie bohaterów ninja i złoczyńców. 
 - WYMIARY — model Perły Lądu w tym 1214-elementowym zestawie ma 24 cm wysokości, 35 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 71869-1: https://a.allegroimg.com/original/11b9b1/941c0a5b4c189b906325186f12d7
+
 ---
 
-## 71870 — Klocki Lego Ninjago 71870 Bliźniacze Tytanowe Mechy
+## 71870 — Bliźniacze tytanowe mechy
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702018055779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71870 |
+| Nazwa angielska | The Twin Titan Mechs |
+| Nazwa polska | Bliźniacze tytanowe mechy |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1707 |
+| Cena katalogowa | 599.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055779 |
 
 LEGO Ninjago 71870 Bliźniacze tytanowe mechy
 
@@ -7566,11 +11738,26 @@ Jeszcze więcej zabawy fani mogą przenieść się do fascynującego świata nin
 
 Wymiary ten zestaw składający się z 1707 elementów zawiera tytanowego mecha Kai i tytanowego mecha Nyi, które mają 26 cm wysokości.
 
+**Galeria:**
+
+- 71870-1: https://a.allegroimg.com/original/11b311/caa0cc69429ebc4e94e890bcc613
+
 ---
 
-## 71871 — Lego Ninjago 71871 Bitwa o Smocze Ostrze
+## 71871 — Bitwa o Smocze Ostrze
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 301.99 zł · EAN: 05702018055786 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71871 |
+| Nazwa angielska | Battle at the Dragon's Blade |
+| Nazwa polska | Bitwa o Smocze Ostrze |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1016 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 29 cm × szer. 38 cm × gł. 24 cm |
+| EAN | 5702018055786 |
 
 LEGO Ninjago 71871 Bitwa o Smocze Ostrze
 
@@ -7593,11 +11780,26 @@ Dodaj cztery minifigurki: Jina, Mirę, Mistrza Ivo i wojownika Oni, aby uzyskać
 
 - **WYMIARY** — ten 1016-elementowy zestaw z modelem w oryginalnej pozie ma 29 cm wysokości, 38 cm szerokości i 24 cm długości.
 
+**Galeria:**
+
+- 71871-1: https://a.allegroimg.com/original/11afba/5f51e9224802b6aaae5ae98be10b
+
 ---
 
-## 71872 — Lego Ninjago Bitwa z ultrasmokiem 71872
+## 71872 — Bitwa z ultrasmokiem
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702018055793 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71872 |
+| Nazwa angielska | Ultra Dragon Battle |
+| Nazwa polska | Bitwa z ultrasmokiem |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2178 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055793 |
 
 **LEGO NINJAGO Bitwa z ultrasmokiem 71872**
 
@@ -7623,11 +11825,26 @@ Zabawki NINJAGO® pozwalają fanom ninja przenieść się do emocjonującego św
 
 2178-elementowy zestaw z figurką smoka ma 40 cm wysokości
 
+**Galeria:**
+
+- 71872-1: https://a.allegroimg.com/original/11fe47/61692aa44a4fbf3e036f8caddfe1
+
 ---
 
-## 80046 — Lego 80046 Podniebny sterowiec Monkie Kida
+## 80046 — Podniebny sterowiec Monkie Kida
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017416113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80046 |
+| Nazwa angielska | Monkie Kid's Cloud Airship |
+| Nazwa polska | Podniebny sterowiec Monkie Kida |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 540 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 28 cm |
+| EAN | 5702017416113 |
 
 **LEGO MONKIE KID 80046 PODNIEBNY STEROWIEC MONKIE KIDA**
  
@@ -7654,11 +11871,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią �
 
 **5-10 w galerii zdjęć produktu).**
 
+**Galeria:**
+
+- 80046-1: https://a.allegroimg.com/original/1188a1/4a4d5be84590ae88b3a4d6be9e7c
+
 ---
 
-## 80047 — Lego 80047 Monkie Kid Smok Strażnik Mei
+## 80047 — Smok Strażnik Mei
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 258.00 zł · EAN: 05702017416120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80047 |
+| Nazwa angielska | Mei's Guardian Dragon |
+| Nazwa polska | Smok Strażnik Mei |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 605 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 17 cm |
+| EAN | 5702017416120 |
 
 **LEGO MONKIE KID 80047 SMOK-STRAŻNIK MEI**
  
@@ -7683,11 +11915,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid to świetny prezent dla dzieci, który p
 - Jakość premium — Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim — klocki i elementy konstrukcyjne LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80047-1: https://a.allegroimg.com/original/112861/53234ef5407eac1c3f35687adae9
+
 ---
 
-## 80048 — Lego Monkie Kid 80048 Potężny Azure Lion Ninjago święta
+## 80048 — Potężny Azure Lion
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 348.98 zł · EAN: 05702017416137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80048 |
+| Nazwa angielska | The Mighty Azure Lion |
+| Nazwa polska | Potężny Azure Lion |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 789 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416137 |
 
 LEGO Monkie Kid 80048 Potężny Azure Lion Ninjago / NOWY / UNIKAT
 
@@ -7726,11 +11973,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią �
 - Jakość premium — elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku, dzięki czemu łatwo się łączą i dobrze trzymają
 - Bezpieczeństwo potwierdzone testami — klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80048-1: https://a.allegroimg.com/original/11dfdc/cd0ff85d485cb21378404fbaf455
+
 ---
 
-## 80055 — Lego Monkie Kid 80055 Ciężarówka ekipy Monkie Kida
+## 80055 — Ciężarówka Ekipy Monkie Kida
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 360.00 zł · EAN: 05702017584690 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80055 |
+| Nazwa angielska | Monkie Kid's Team Power Truck |
+| Nazwa polska | Ciężarówka Ekipy Monkie Kida |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 712 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 14 cm |
+| EAN | 5702017584690 |
 
 **LEGO 80055 Ciężarówka ekipy Monkie Kida**
 
@@ -7755,11 +12017,26 @@ Nowy, oryginalnie zapakowany, pudełko posiada niewielkie zarysowania (rzeczywis
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 80055-1: https://a.allegroimg.com/original/11f185/c82bac7e4c81a051435d57a64e88
+
 ---
 
-## 80057 — Lego 80057 Mech ognistego pierścienia Nezhy .
+## 80057 — Mech Ognistego Pierścienia Nezhy
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017584713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80057 |
+| Nazwa angielska | Nezha's Ring of Fire Mech |
+| Nazwa polska | Mech Ognistego Pierścienia Nezhy |
+| Seria | Ninjago |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584713 |
 
 LEGO 80057 Monkie Kid - Mech ognistego pierścienia Nezhy
  
@@ -7792,11 +12069,27 @@ Zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią „Wędrówka na 
  
 - Wymiary — ten 1163-elementowy zestaw zawiera ruchomego ognistego mecha, który ma 32 cm wysokości
 
+**Galeria:**
+
+- 80057-1: https://a.allegroimg.com/original/11238b/a81f8c4748418f1ebec9d7df5e4c
+
 ---
 
-## 853758 — Nowe Lego Ninjago Jay's Kendo njo448 853758
+## 853758 — Kapsuła treningowa Jay's Kendo
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 199.97 zł · EAN: 00673419287142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853758 |
+| Nazwa angielska | Jay's Kendo Training Pod |
+| Nazwa polska | Kapsuła treningowa Jay's Kendo |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287142 |
 
 Przedmiotem oferty jest **oryginalne**:
 
@@ -7822,11 +12115,27 @@ Przedmiotem oferty jest **oryginalne**:
 
 **Zapraszamy na pozostałe aukcje.**
 
+**Galeria:**
+
+- 853758-1: https://a.allegroimg.com/original/112cba/c3b4fc314418a757bedfeac8cc1e
+
 ---
 
-## 853899 — Lego 853899 Ninjago Kapsuła Treningowa Kendo Lloyda
+## 853899 — LEGO Ninjago Kapsuła treningowa Kendo Lloyda 853899
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 89.45 zł · EAN: 00673419304733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853899 |
+| Nazwa angielska | Lloyd's Kendo Training Pod |
+| Nazwa polska | LEGO Ninjago Kapsuła treningowa Kendo Lloyda 853899 |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419304733 |
 
 LEGO 853899 NINJAGO - KAPSUŁA TRENINGOWA KENDO LLOYDA
 
@@ -7848,11 +12157,26 @@ Stan: **Nowe**
 
 Zestaw LEGO Ninjago - Trening kendo Lloyda - kapsuła trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 853899. Zawiera 25 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Ninjago - Lloyd's Kendo Training Pod. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 853899-1: https://a.allegroimg.com/original/11da05/d90fc32f47149291adef5e591009
+
 ---
 
-## 854311 — Lego Ninjago 854311 Miecz Lloyda z pochwą
+## 854311 — Miecz Lloyda z pochwą
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 130.00 zł · EAN: 00673419410663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854311 |
+| Nazwa angielska | Lloyd's Sword with Sheath |
+| Nazwa polska | Miecz Lloyda z pochwą |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410663 |
 
 **LEGO 854311 Miecz Lloyda z pochwą**
 
@@ -7873,11 +12197,27 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 854311-1: https://a.allegroimg.com/original/113e60/b2ea563d44b28743ac76ebf8bec6
+
 ---
 
-## 9441 — Lego 9441 Mieczocykl Kaia
+## 9441 — Mieczocykl Kaia
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014831087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9441 |
+| Nazwa angielska | Kai's Blade Cycle |
+| Nazwa polska | Mieczocykl Kaia |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831087 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7896,11 +12236,27 @@ Nowy, oryginalnie zapakowany.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 9441-1: https://a.allegroimg.com/original/1157da/41f135c04ce6ab93949a400aaf4b
+
 ---
 
-## 9447 — Lego Ninjago Lasha's Bite Cycle 9447
+## 9447 — Lasha's Bite Cycle
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702014831216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9447 |
+| Nazwa angielska | Lasha's Bite Cycle |
+| Nazwa polska | Lasha's Bite Cycle |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831216 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7919,11 +12275,27 @@ Nowy, oryginalnie zapakowany.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 9447-1: https://a.allegroimg.com/original/119628/dfdefae44f1ab6ff766bfb6a64af
+
 ---
 
-## 9457 — Lego 9457 Ninjago Niszcząca Kula Ogniokła Lloyd Garmadon Fangdam Cole
+## 9457 — Niszcząca Kula Ogniokła
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014831322 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9457 |
+| Nazwa angielska | Fangpyre Wrecking Ball |
+| Nazwa polska | Niszcząca Kula Ogniokła |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 415 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831322 |
 
 LEGO 9457 Ninjago | Niszcząca Kula Ogniokła |  Lloyd Garmadon Fangdam Cole.
 
@@ -7931,11 +12303,27 @@ Lloyd Garmadon nie cofnie się przed niczym, by odzyskać złotą laskę Fangpyr
 
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 9457-1: https://a.allegroimg.com/original/11f639/f5d1a6ef482f9e34bd300353b767
+
 ---
 
-## 9552 — Lego Ninjago Lloyd Garmadon 9552
+## 9552 — Lloyd Garmadon
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014837249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9552 |
+| Nazwa angielska | Lloyd Garmadon |
+| Nazwa polska | Lloyd Garmadon |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837249 |
 
 **LEGO zestaw  - polybag**
 
@@ -7957,11 +12345,27 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 9552-1: https://a.allegroimg.com/original/119ab5/a4e9aef04d5aaea24fd498293115
+
 ---
 
-## 9567 — Lego 9567 Ninjago Fang-Suei Spinner
+## 9567 — Fang Suei
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702014837355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9567 |
+| Nazwa angielska | Fang-Suei |
+| Nazwa polska | Fang Suei |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837355 |
 
 **LEGO Ninjago – oryginalny spinner z minifigurką**
 
@@ -7993,11 +12397,27 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
 **📦 Każdy spinner starannie zabezpieczamy na czas wysyłki**
 
+**Galeria:**
+
+- 9567-1: https://a.allegroimg.com/original/110621/9c31bfcf40d7ad9579f911285705
+
 ---
 
-## 9571 — Lego Ninjago Lego 9571 Ninjago Fangdam 9571
+## 9571 — LEGO 9571 Ninjago - Fangdam
 
-*Kategoria: Ninjago · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014837416 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9571 |
+| Nazwa angielska | Fangdam |
+| Nazwa polska | LEGO 9571 Ninjago - Fangdam |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837416 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8015,6 +12435,10 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 - **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**Galeria:**
+
+- 9571-1: https://a.allegroimg.com/original/112fd8/510e080d499da1437b8c6271adc7
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Brick Sketches — opisy produktowe (7 pozycji)
 
-## 40386 — Lego Brick Sketches 40386 Batman 8+ Nowy
+## 40386 — Batman
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702016656770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40386 |
+| Nazwa angielska | Batman |
+| Nazwa polska | Batman |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702016656770 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -29,11 +39,26 @@ To prawdziwa gratka dla fanów Mściciela w Płaszczu™, którzy dzięki zestaw
 - Liczący 115 elementów zestaw to część serii LEGO® Brick Sketches™, w której na dzieci w wieku od 8 lat czekają kolekcjonerskie, trójwymiarowe portrety ulubionych bohaterów do zbudowania z klocków na płytkach 12x16.
 - Portret Batmana™ o wymiarach około 13 cm wysokości, 9 cm szerokości i 3 cm grubości z serii LEGO® Brick Sketches™ będzie świetną ozdobą dziecięcego pokoju. Można postawić go na półce albo powiesić na wbudowanym haczyku.
 
+**Galeria:**
+
+- 40386-1: https://a.allegroimg.com/original/115c4f/6fe9dd4842468d0111a6efca63a1
+
 ---
 
-## 40428 — 40428 Lego DC Brick Sketches Joker Zestaw Klocki Lego
+## 40428 — Joker
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 60.49 zł · EAN: 05702016762419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40428 |
+| Nazwa angielska | The Joker |
+| Nazwa polska | Joker |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702016762419 |
 
 Klocki LEGO Brick Sketches 40428 - The Joker
 
@@ -43,11 +68,26 @@ Dzięki zestawowi LEGO® Brick Sketches™ 40428 fani opowieści o Batmanie™ m
 - Liczący 170 elementów zestaw dla dzieci w wieku od 8 lat to część serii LEGO® Brick Sketches™, w której na fanów czekają kolekcjonerskie, trójwymiarowe portrety kultowych bohaterów do zbudowania z klocków na płytkach 12x16.
 - Portret Jokera™ o wymiarach około 13 cm wysokości, 9 cm szerokości i 3 cm grubości z serii LEGO® Brick Sketches™ będzie niezwykłą ozdobą dziecięcego pokoju. Można postawić go na półce lub nocnej szafce albo powiesić na wbudowanym haczyku.
 
+**Galeria:**
+
+- 40428-1: https://a.allegroimg.com/original/111203/dda91ea14c3d995e85ee08dbbf33
+
 ---
 
-## 40431 — Lego Brick Sketches 40431 Star Wars Figurka Droid BB-8
+## 40431 — BrickSketches Star Wars Figurka Droid BB-8 Ramka Obraz Obrazek z Minifigurka
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 77.89 zł · EAN: 05702016762426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40431 |
+| Nazwa angielska | BB-8 |
+| Nazwa polska | BrickSketches Star Wars Figurka Droid BB-8 Ramka Obraz Obrazek z Minifigurka |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702016762426 |
 
 LEGO® 40431 Brick Sketches™ — BB-8™
 
@@ -58,11 +98,26 @@ Zestaw LEGO® Brick Sketches™ 40431 to prawdziwa gratka dla małych i dużych 
 - Liczący 171 elementów zestaw to część serii LEGO® Brick Sketches™, w której czekają kolekcjonerskie, trójwymiarowe portrety kultowych bohaterów do zbudowania z klocków na płytkach 12x16 — idealne na prezent dla dzieci w wieku od 8 lat. 
 - BB-8 w wersji LEGO® Brick Sketches™ ma ok. 13 cm wysokości, 9 cm szerokości i 3 cm grubości. Można postawić go na kominku albo powiesić na ścianie — będzie świetną ozdobą pokoju.
 
+**Galeria:**
+
+- 40431-1: https://a.allegroimg.com/original/1108b9/79392f8d49179722f4d03ff3a0df
+
 ---
 
-## 40456 — Zestaw Lego Brick Sketches 40456 Ramka Z Myszką Miki
+## 40456 — Klocki LEGO Brick Sketches 40456 Myszka Miki
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 49.90 zł · EAN: 05702016910896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40456 |
+| Nazwa angielska | Mickey Mouse |
+| Nazwa polska | Klocki LEGO Brick Sketches 40456 Myszka Miki |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 3 cm |
+| EAN | 5702016910896 |
 
 ZESTAW LEGO BRICK SKETCHES - 40456 - RAMKA Z MYSZKĄ MIKI
 
@@ -98,11 +153,26 @@ Gotowy portret Myszki Miki ma około 13 cm wysokości, 9 cm szerokości i 3 cm g
 
 Zestaw LEGO Brick Sketches 40456 to idealny wybór na prezent dla każdego miłośnika Disneya, LEGO i kreatywnych dekoracji. Dzięki swojej formie łączy zabawę z estetyką, tworząc gotowy obrazek, który może stać się wyjątkową ozdobą wnętrza. To doskonały upominek na urodziny, święta lub po prostu bez okazji – dla każdego, kto ceni kultowe postacie i lubi budować coś nietypowego. Kompaktowy rozmiar, kolekcjonerski charakter oraz możliwość łączenia z innymi zestawami Brick Sketches sprawiają, że model ten ma duży potencjał kolekcjonerski. To nie tylko zestaw klocków, ale także małe dzieło sztuki LEGO, które zachwyca prostotą, stylem i rozpoznawalnością bohatera, czyli Myszki Miki.
 
+**Galeria:**
+
+- 40456-1: https://a.allegroimg.com/original/11013c/827245c043fbb57e3628b10b9f96
+
 ---
 
-## 40457 — Zestaw Lego Brick Sketches 40457 Ramka Z Myszką Minnie
+## 40457 — Klocki LEGO Brick Sketches 40457 Myszka Minnie
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 49.90 zł · EAN: 05702016910902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40457 |
+| Nazwa angielska | Minnie Mouse |
+| Nazwa polska | Klocki LEGO Brick Sketches 40457 Myszka Minnie |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 3 cm |
+| EAN | 5702016910902 |
 
 ZESTAW LEGO BRICK SKETCHES - 40457 - RAMKA Z MYSZKĄ MINNIE
 
@@ -138,11 +208,26 @@ Seria LEGO Brick Sketches została stworzona z myślą o osobach, które lubią 
 
 Zestaw LEGO Brick Sketches 40457 to doskonały wybór dla każdego fana Disneya, kolekcjonera LEGO oraz osób, które lubią kreatywne i oryginalne dekoracje. Zestaw zapewnia przyjemność budowania, a po ukończeniu staje się efektowną ozdobą, którą można postawić na półce lub zawiesić na ścianie. Kompaktowe wymiary oraz charakterystyczny wygląd sprawiają, że model świetnie prezentuje się w każdej kolekcji LEGO Brick Sketches. Możliwość łączenia go z innymi zestawami z tej serii dodatkowo zwiększa jego atrakcyjność i pozwala tworzyć własną galerię ulubionych bohaterów. To świetny prezent urodzinowy, podarunek pod choinkę lub miła niespodzianka bez okazji dla dzieci i dorosłych, którzy uwielbiają świat Disneya oraz kreatywne budowanie z klocków LEGO.
 
+**Galeria:**
+
+- 40457-1: https://a.allegroimg.com/original/11bf5b/2b0188b74f1493fbf183353a3130
+
 ---
 
-## 40535 — Lego Brick Sketches 40535 Iron Man
+## 40535 — Iron Man
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017166889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40535 |
+| Nazwa angielska | Iron Man |
+| Nazwa polska | Iron Man |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 3 cm |
+| EAN | 5702017166889 |
 
 Dzięki zestawowi LEGO® Brick Sketches™ Iron Man (40535) fani Iron Mana w wieku od ośmiu lat mogą tworzyć własne dzieła sztuki przedstawiające kultowego superbohatera. Ilustrację można wyeksponować na płaskiej powierzchni lub powiesić na ścianie za pomocą dołączonego haczyka. Płytka konstrukcyjna 12 x 16 sprawia, że wszystkie klocki LEGO mocno trzymają się na miejscu. To świetny prezent dla dzieci na urodziny lub Święta. Doskonale sprawdzi się jako dodatek do kolekcji portretów postaci LEGO Brick Sketches.
 
@@ -151,11 +236,26 @@ Dzięki zestawowi LEGO® Brick Sketches™ Iron Man (40535) fani Iron Mana w wie
 - Dla ośmiolatków i starszych dzieci — liczący 214 elementów zestaw to część serii LEGO® Brick Sketches™, która zawiera kolekcjonerskie trójwymiarowe portrety kultowych bohaterów do zbudowania z klocków na płytkach 12 x 16 
 - Ozdoba godna wyeksponowania — ta ilustracja z klocków LEGO® ma ok. 13 cm wysokości, 9 cm szerokości i 3 cm głębokości. Będzie ciekawą, kolorową ozdobą pokoju każdego dziecka
 
+**Galeria:**
+
+- 40535-1: https://a.allegroimg.com/original/11f6d1/6fa016b346ce8bdef5cec6bf35d7
+
 ---
 
-## 40536 — Lego 40536 Miles Morales, Klocki , Pomysł
+## 40536 — Miles Morales
 
-*Kategoria: Pozostałe serie > Brick Sketches · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017166896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40536 |
+| Nazwa angielska | Miles Morales |
+| Nazwa polska | Miles Morales |
+| Seria | Pozostałe serie > Brick Sketches |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 3 cm |
+| EAN | 5702017166896 |
 
 LEGO® 40536 Miles Morales
 
@@ -172,6 +272,10 @@ Polecam i Zapraszam Do Zakupu
 - Ilustracja z superbohaterem — młodzi konstruktorzy LEGO® i fani Spider-Mana mogą zbudować kolekcjonerski portret Brick Sketches™ przedstawiający słynnego pajęczego bohatera, Milesa Moralesa
 - Dla ośmiolatków i starszych dzieci — liczący 200 elementów zestaw to część serii LEGO® Brick Sketches™, która zawiera kolekcjonerskie trójwymiarowe portrety kultowych bohaterów do zbudowania z klocków na płytkach 12 x 16
 - Ozdoba godna wyeksponowania — ta ilustracja z klocków LEGO® ma ok. 13 cm wysokości, 9 cm szerokości i 3 cm głębokości. Będzie ciekawą, kolorową ozdobą pokoju każdego dziecka
+
+**Galeria:**
+
+- 40536-1: https://a.allegroimg.com/original/111b94/4670c2e54981b7413eddb2dee58b
 
 ---
 

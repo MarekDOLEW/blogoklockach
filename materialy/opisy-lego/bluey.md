@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Bluey — opisy produktowe (7 pozycji)
 
-## 11201 — Lego Bluey 11201 Bluey, Chloe i zabawa na placu zabaw
+## 11201 — Playground Fun with Bluey
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 55.12 zł · EAN: 05702017813424 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11201 |
+| Nazwa angielska | Playground Fun with Bluey |
+| Nazwa polska | — |
+| Seria | Bluey |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 23 cm × gł. 17 cm |
+| EAN | 5702017813424 |
 
 LEGO Blue
  
@@ -50,11 +60,26 @@ Specyfikacja zestawu:
 - **Wiek dziecka:** od 4 lat 
 - **Płeć dziecka:** chłopcy i dziewczynki
 
+**Galeria:**
+
+- 11201-1: https://a.allegroimg.com/original/058a1e/bdaf0c044ca1ad152a02b12b0f0d
+
 ---
 
-## 11202 — Lego Bluey 11202 Bluey i rodzinna wycieczka samochodem na plażę
+## 11202 — Bluey’s Beach & Family Car Trip
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 86.12 zł · EAN: 05702017813431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11202 |
+| Nazwa angielska | Bluey’s Beach & Family Car Trip |
+| Nazwa polska | — |
+| Seria | Bluey |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702017813431 |
 
 LEGO Blue
  
@@ -97,11 +122,26 @@ Specyfikacja zestawu:
 - **Wiek dziecka:** od 4 lat 
 - **Płeć dziecka: **chłopcy i dziewczynki
 
+**Galeria:**
+
+- 11202-1: https://a.allegroimg.com/original/055e06/bfac84754a2b967cd475ece475e1
+
 ---
 
-## 11203 — Lego Bluey: Dom rodzinny Blue 11203
+## 11203 — Bluey’s Family House
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 215.00 zł · EAN: 05702017813448 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11203 |
+| Nazwa angielska | Bluey’s Family House |
+| Nazwa polska | — |
+| Seria | Bluey |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 382 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813448 |
 
 **LEGO Bluey: Dom rodzinny Blue 11203**
 
@@ -127,11 +167,26 @@ Wszystkie zestawy LEGO® DUPLO® Blue inspirują do niekończącej się zabawy i
 
 382-elementowy zestaw z domem ma 21 cm wysokości
 
+**Galeria:**
+
+- 11203-1: https://a.allegroimg.com/original/118dfe/e2237cf24b2a9d4686a1279a9ccc
+
 ---
 
-## 11216 — Lego Bluey 11216 Babunie z Bingo i Blue
+## 11216 — Babunie z Bingo i Blue
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 46.97 zł · EAN: 05702018069486 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11216 |
+| Nazwa angielska | Grannies with Bingo and Bluey |
+| Nazwa polska | Babunie z Bingo i Blue |
+| Seria | Bluey |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 80 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 21 cm × gł. 7 cm |
+| EAN | 5702018069486 |
 
 LEGO Bluey 11216 Babunie z Bingo i Blue
  
@@ -151,11 +206,26 @@ Postacie Blue i Bingo są przebrane za babcie, Krysię i Ritę. Minifigurka Bing
 - Rozwój umiejętności — zestawy LEGO® Blue zostały zaprojektowane tak, aby inspirować kreatywną zabawę w odgrywanie ról nawiązującą do ulubionych postaci, jednocześnie wspierając kolejne etapy rozwoju dziecka. 
 - Wymiary — ten 80-elementowy zestaw ma 6 cm wysokości, 21 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 11216-1: https://a.allegroimg.com/original/114175/cdcf1cd442d9a9b3b9ad7d22b7aa
+
 ---
 
-## 11217 — Lego Bluey 11217 Rodzina Blue z klocków
+## 11217 — Rodzina Blue z klocków
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 232.08 zł · EAN: 05702018069493 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11217 |
+| Nazwa angielska | Brick-Built Bluey Family |
+| Nazwa polska | Rodzina Blue z klocków |
+| Seria | Bluey |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 466 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069493 |
 
 LEGO Bluey 11217 Rodzina Blue z klocków
 
@@ -173,11 +243,26 @@ Figurki mają ruchome łapki, ogony i dłonie, które mogą trzymać akcesoria. 
 - Rozwój umiejętności — ta seria zabawek dla dzieci została zaprojektowana tak, aby inspirować do kreatywnego odgrywania ról, z którymi dzieci będą się identyfikować, jednocześnie wspierając etapy rozwoju.
 - Wymiary — ten 466-elementowy zestaw konstrukcyjny zawiera figurki Blue i Bingo o wysokości 13 cm oraz figurki mamy i taty o wysokości 15 cm.
 
+**Galeria:**
+
+- 11217-1: https://a.allegroimg.com/original/110611/c8c7216847afbc82329d835874bd
+
 ---
 
-## 11221 — Lego Bluey 11221 Rusty, Bluey i szkoła
+## 11221 — Szkoła z Ryżykiem i Blue
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 65.71 zł · EAN: 05702018069509 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11221 |
+| Nazwa angielska | School with Rusty and Bluey |
+| Nazwa polska | Szkoła z Ryżykiem i Blue |
+| Seria | Bluey |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 106 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702018069509 |
 
 LEGO Bluey 11221 Szkoła z Ryżykiem i Blue
  
@@ -197,15 +282,34 @@ Zabawka zawiera rozpoznawalne elementy z odcinków takich jak Wcześniaczek: ozd
 - Rozwój umiejętności — zestawy LEGO® Blue zostały zaprojektowane tak, aby inspirować kreatywną zabawę w odgrywanie ról inspirowaną ulubionymi postaciami, jednocześnie wspierając kolejne etapy rozwoju dziecka. 
 - Wymiary — ten 106-elementowy zestaw ma 8 cm wysokości, 25 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 11221-1: https://a.allegroimg.com/original/116cd8/c9e0d8cb488e9de584cb36ead15c
+
 ---
 
-## 30713 — Lego Bluey Wytworna restauracja z Bingo 30713
+## 30713 — Fancy Restaurant with Bingo
 
-*Kategoria: Bluey · cena Allegro (2026-08-17): 12.04 zł · EAN: 05702018058053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30713 |
+| Nazwa angielska | Fancy Restaurant with Bingo |
+| Nazwa polska | — |
+| Seria | Bluey |
+| Grupa wiekowa | — |
+| Rok wydania | 2026 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058053 |
 
 **LEGO Bluey Wytworna restauracja z Bingo 30713**
 
 Bingo bawi się w kuchni dla lalek, gotując dla mamy i taty. W czapce kucharskiej i z widelcem w ręku przyrządza pyszności na patelni z jajkiem, fasolką po bretońsku, sałatką i deserem.
+
+**Galeria:**
+
+- 30713-1: https://a.allegroimg.com/original/11da77/dd69f1bc4a55a9ae11630ba032df
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Avatar — opisy produktowe (9 pozycji)
 
-## 75571 — Lego 75571 Avatar Neytiri i Thanator kontra Quaritch w kombinezonie Pzm
+## 75571 — Neytiri i Thanator kontra Quaritch w kombinezonie PZM
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016913590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75571 |
+| Nazwa angielska | Neytiri & Thanator vs. AMP Suit Quaritch |
+| Nazwa polska | Neytiri i Thanator kontra Quaritch w kombinezonie PZM |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 560 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm × gł. 10 cm |
+| EAN | 5702016913590 |
 
 LEGO 75571 Avatar - Neytiri i Thanator kontra Quaritch w kombinezonie PZM
 
@@ -39,11 +49,26 @@ Dzięki kultowym postaciom i lokalizacjom zestawy LEGO Avatar umożliwiają dzie
 
 LEGO 75571
 
+**Galeria:**
+
+- 75571-1: https://a.allegroimg.com/original/110606/cf54b322466b9de72ca3a0791e85
+
 ---
 
-## 75572 — Lego Avatar 75572 Pierwszy lot na zmorze Jake’a i Neytiri
+## 75572 — Pierwszy lot na zmorze Jake’a i Neytiri
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 648.00 zł · EAN: 05702016913682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75572 |
+| Nazwa angielska | Jake & Neytiri's First Banshee Flight |
+| Nazwa polska | Pierwszy lot na zmorze Jake’a i Neytiri |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 572 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 32 cm |
+| EAN | 5702016913682 |
 
 LEGO Avatar Pierwszy lot na zmorze Jake'a i Neytiri 75572
  
@@ -74,11 +99,26 @@ Udowodnij, że zasługujesz na dołączenie do Na’vi i wzbij się w powietrze 
 - Wysoka jakość — elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa i jest gotowy do niekończącej się zabawy
 
+**Galeria:**
+
+- 75572-1: https://a.allegroimg.com/original/119210/56db99ae4733941c4564a7c6e4d1
+
 ---
 
-## 75573 — Klocki Lego Avatar 75573 Latające góry: stanowisko 26 i Samson Zpz
+## 75573 — Floating Mountains: Site 26 and RDA Samson
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 325.89 zł · EAN: 05702016913781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75573 |
+| Nazwa angielska | Floating Mountains: Site 26 & RDA Samson |
+| Nazwa polska | Floating Mountains: Site 26 and RDA Samson |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 887 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 24 cm |
+| EAN | 5702016913781 |
 
 LEGO Avatar Latające góry: stanowisko 26 i Samson ZPZ 75573
 
@@ -107,11 +147,26 @@ Odkrywaj Pandorę z Jakiem, Normem, dr Grace i Trudy dzięki temu zestawowi LEGO
 - Wysoka jakość — elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa oraz jest solidny i gotowy do zabawy
 
+**Galeria:**
+
+- 75573-1: https://a.allegroimg.com/original/25896a/e935e794448ba79ce6a3f8d4cd2a
+
 ---
 
-## 75574 — Klocki Lego Avatar Zestaw Toruk Makto i Drzewo Dusz 75574
+## 75574 — Toruk Makto i Drzewo Dusz
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016913798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75574 |
+| Nazwa angielska | Toruk Makto & Tree of Souls |
+| Nazwa polska | Toruk Makto i Drzewo Dusz |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 39 cm |
+| EAN | 5702016913798 |
 
 LEGO Avatar Toruk Makto i Drzewo Dusz 75574
 
@@ -141,11 +196,26 @@ Dołącz do Jake’a Sully’ego, Neytiri, Mo’at i Tsu’Tey przy Drzewie Dusz
 - Wysoka jakość — elementy konstrukcyjne i zestawy LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa oraz jest solidny i gotowy do samodzielnej zabawy
 
+**Galeria:**
+
+- 75574-1: https://a.allegroimg.com/original/2556a0/35468b774d84a7b707faed4cd5e0
+
 ---
 
-## 75575 — Lego 75575 Avatar Odkrycie ilu
+## 75575 — Odkrycie ilu
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 212.00 zł · EAN: 05702017421872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75575 |
+| Nazwa angielska | Ilu Discovery |
+| Nazwa polska | Odkrycie ilu |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421872 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -162,11 +232,26 @@ Numer magazynowy sprzedawcy: 20260274 - 20260276
 
 Przybliżone wymiary opakowania:** 26,2 x 14,1 x 4,8 cm**
 
+**Galeria:**
+
+- 75575-1: https://a.allegroimg.com/original/114737/55a53f1a4556ace9a5f95baf6591
+
 ---
 
-## 75576 — Zestaw klocków Lego Avatar Przygoda ze skimwingiem 75576
+## 75576 — LEGO AVATAR Przygoda ze skimwingiem 75576
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 246.89 zł · EAN: 05702017421889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75576 |
+| Nazwa angielska | Skimwing Adventure |
+| Nazwa polska | LEGO AVATAR Przygoda ze skimwingiem 75576 |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 33 cm |
+| EAN | 5702017421889 |
 
 LEGO Avatar 75576 Przygoda ze skimwingiem
  
@@ -200,11 +285,26 @@ Zestawy LEGO Avatar zawierają kultowe pojazdy, maszyny, zwierzęta, stworzenia 
 - Wysoka jakość – elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać 
 - Bezpieczeństwo przede wszystkim – testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa i jest gotowy do zabawy
 
+**Galeria:**
+
+- 75576-1: https://a.allegroimg.com/original/059bf4/2c19feec49aea87784228c9328df
+
 ---
 
-## 75577 — Lego Avatar 75577 Łódź podwodna Mako
+## 75577 — Łódź podwodna Mako
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 414.90 zł · EAN: 05702017421896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75577 |
+| Nazwa angielska | Mako Submarine​ |
+| Nazwa polska | Łódź podwodna Mako |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 553 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm |
+| EAN | 5702017421896 |
 
 Klocki LEGO Avatar 75577 - Łódź podwodna Mako
  
@@ -228,11 +328,26 @@ Zestawy LEGO Avatar zawierają kultowe pojazdy, maszyny, zwierzęta, stworzenia 
 - Drukowane i cyfrowe instrukcje budowania – w aplikacji LEGO® Builder na smartfony i tablety można przybliżać i obracać powstający model, by obejrzeć go ze wszystkich stron
 - Kolekcjonowanie zestawów – połącz ten kolekcjonerski zestaw z innymi z serii LEGO® Avatar, aby zwiększyć możliwości zabawy i zbudować własną wersję Pandory, fikcyjnego egzoksiężyca
 
+**Galeria:**
+
+- 75577-1: https://a.allegroimg.com/original/05e483/3baec5dc45f28357f41d93707c83
+
 ---
 
-## 75578 — Lego Avatar 75578 Dom na rafie klanu Metkayina
+## 75578 — LEGO Avatar Dom na rafie klanu Metkayina 75578
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 479.90 zł · EAN: 05702017421902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75578 |
+| Nazwa angielska | Metkayina Reef Home |
+| Nazwa polska | LEGO Avatar Dom na rafie klanu Metkayina 75578 |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 41 cm × gł. 25 cm |
+| EAN | 5702017421902 |
 
 LEGO 75578 Dom na rafie klanu Metkayina
  
@@ -258,11 +373,26 @@ Zestaw LEGO® Avatar Dom na rafie klanu Metkayina (75578) rozbudzi wyobraźnię 
 - Sprawdzona jakość – elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać 
 - Bezpieczeństwo przede wszystkim – testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa i jest gotowy do zabawy
 
+**Galeria:**
+
+- 75578-1: https://a.allegroimg.com/original/11d88a/0cf0d23947f7a38493291ddb8926
+
 ---
 
-## 75579 — Lego Avatar Payakan The Tulkun I Mech-krab 75579
+## 75579 — Tulkun Payakan i kostium kraba
 
-*Kategoria: Pozostałe serie > Avatar · cena Allegro (2026-08-17): 618.90 zł · EAN: 05702017421919 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75579 |
+| Nazwa angielska | Payakan the Tulkun & Crabsuit |
+| Nazwa polska | Tulkun Payakan i kostium kraba |
+| Seria | Pozostałe serie > Avatar |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 761 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 32 cm |
+| EAN | 5702017421919 |
 
 **Payakan the Tulkun i mech-krab**
 
@@ -287,6 +417,10 @@ Zanurz się w oceanach egzoksiężyca Pandory podczas zabawy zestawem LEGO® Ava
 • Wysoka jakość – elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać
 
 • Sprawdzone bezpieczeństwo – testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny z serii Avatar spełnia surowe wymogi bezpieczeństwa i jest gotowy do zabawy
+
+**Galeria:**
+
+- 75579-1: https://a.allegroimg.com/original/1146aa/752cefa44ee5b2ee07b297cac968
 
 ---
 

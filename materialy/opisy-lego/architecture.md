@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Architecture — opisy produktowe (63 pozycji)
+# LEGO Architecture — opisy produktowe (62 pozycji)
 
-## 21000 — Lego Architecture 21000 Lego 21000 Architecture Willis Tower
+## 21000 — LEGO 21000 Architecture - Willis Tower
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702014804265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21000 |
+| Nazwa angielska | Sears Tower |
+| Nazwa polska | LEGO 21000 Architecture - Willis Tower |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014804265 |
 
 LEGO Architecture 21000 - Willis Tower (Sears Tower)
  
@@ -27,11 +37,26 @@ Wymiary: 228 mm wysokości i 80 mm szerokości!
  
 Model jest wystarczająco kompaktowy, by zmieścić się na biurku lub półce, jednocześnie na tyle duży, by przyciągać uwagę i stanowić centralny punkt dekoracyjny w pomieszczeniu.
 
+**Galeria:**
+
+- 21000-1: https://a.allegroimg.com/original/117377/304155274f1e867cde2d8fba17d0
+
 ---
 
-## 21002 — Lego Architecture 21002 Empire State Building
+## 21002 — LEGO
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 438.00 zł · EAN: 05702014712836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21002 |
+| Nazwa angielska | Empire State Building |
+| Nazwa polska | LEGO |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014712836 |
 
 LEGO ARCHITECTURE 21002 EMPIRE STATE BUILDING
  
@@ -59,11 +84,26 @@ Postaw na klasykę z LEGO i przenieś kawałek Nowego Jorku na swoją półkę!
 
 - 28 x 25,5 x 16 cm
 
+**Galeria:**
+
+- 21002-1: https://a.allegroimg.com/original/119d46/471d529b41b39bcb60269141eb75
+
 ---
 
-## 21003 — Lego Architecture 21003 Seattle Space Needle
+## 21003 — LEGO Architecture Seattle Space Needle 21003
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 438.53 zł · EAN: 05702014712843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21003 |
+| Nazwa angielska | Seattle Space Needle |
+| Nazwa polska | LEGO Architecture Seattle Space Needle 21003 |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014712843 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -89,11 +129,26 @@ Seattle Space Needle 21003
 
 Zestaw LEGO Architecture - Seattle Space Needle trafił do sprzedaży w 2009 roku. Numer katalogowy tego zestawu to 21003. Zawiera 57 klocków LEGO. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 21003-1: https://a.allegroimg.com/original/007cbb/4c027fdc4d24be4d7bf87a3a8734
+
 ---
 
-## 21004 — Lego Architecture 21004 – Muzeum Guggenheima
+## 21004 — LEGO Architecture 21004 – Muzeum Guggenheima
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 730.00 zł · EAN: 05702014712850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21004 |
+| Nazwa angielska | Solomon R. Guggenheim Museum |
+| Nazwa polska | LEGO Architecture 21004 – Muzeum Guggenheima |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 13 cm |
+| EAN | 5702014712850 |
 
 **LEGO Architecture 21004 – Muzeum Guggenheima**
 
@@ -110,11 +165,26 @@ Model oddaje unikalny kształt spiralnej galerii oraz nowoczesne detale elewacji
 - Część serii LEGO Architecture, która celebruje największe osiągnięcia architektury z całego świata.
 - Rekomendowany wiek: **12+**.
 
+**Galeria:**
+
+- 21004-1: https://a.allegroimg.com/original/11ff07/d362dc1a4ad9898bf26337a76edd
+
 ---
 
-## 21005 — Lego Architecture 21005 – Fallingwater
+## 21005 — Fallingwater Mill Run
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 2100.00 zł · EAN: 05702014712881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21005 |
+| Nazwa angielska | Fallingwater |
+| Nazwa polska | Fallingwater Mill Run |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 811 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014712881 |
 
 LEGO Architecture 21005 – Fallingwater
 
@@ -142,19 +212,49 @@ Co warto wiedzieć
 
 **LEGO 21005 Fallingwater** to elegancki i klasyczny model architektoniczny, świetnie nadający się do postawienia na półce – zarówno dla pasjonatów architektury, jak i kolekcjonerów LEGO. Choć etap z niedużymi kafelkami bywa powtarzalny, całość dostarcza satysfakcjonującego doświadczenia i piękny efekt wizualny.
 
+**Galeria:**
+
+- 21005-1: https://a.allegroimg.com/original/11e94e/6d82a5dd4886b2f4746f8e78dabb
+
 ---
 
-## 21006 — Lego Architecture 21006 Biały dom
+## 21006 — 21006
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702014804241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21006 |
+| Nazwa angielska | The White House |
+| Nazwa polska | 21006 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 561 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014804241 |
 
 W Stanach Zjednoczonych jest niewiele budynków, których bogata historia i symbolika może dorównywać Białemu Domowi. 16 lipca 1792 r. prezydent Jerzy Waszyngton zdecydował, że spośród sześciu konkurujących ze sobą projektów uznanych architektów, to praca Jamesa Hobana zasługuje na realizację. Ta sześciokondygnacyjna konstrukcja z piaskowca jest przykładem połączenia neoklasycystycznego federalizmu z elementami irlandzkiego palladianizmu. Prace budowlane prowadzono w latach 1792–1800, natomiast w 1814 r. obiekt przebudowano z powodu wybuchu pożaru. Ten wchodzący w skład serii LEGO® Landmark model Białego Domu został zaprojektowany przez amerykańskiego architekta Adama Reeda Tuckera we współpracy z zespołem projektantów LEGO.
 
+**Galeria:**
+
+- 21006-1: https://a.allegroimg.com/original/005d75/d018088c4909839a2264820a3431
+
 ---
 
-## 21007 — Zestaw Lego Architecture Rockefeller Center 21007
+## 21007 — Rockefeller Center, Centrum Rockefellera
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014804258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21007 |
+| Nazwa angielska | Rockefeller Center |
+| Nazwa polska | Rockefeller Center, Centrum Rockefellera |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014804258, 673419160155 |
 
 LEGO Architecture 21007 - Rockefeller Center
 
@@ -167,21 +267,52 @@ Zestaw **LEGO Architecture 21007 – Rockefeller Center** to miniaturowa wersja 
 - Zbudowany głównie z **szarych i przezroczystych klocków**, co nadaje mu elegancki wygląd i realistyczne proporcje.
 - Do zestawu dołączona jest **broszura z informacjami historycznymi** o Rockefeller Center i jego znaczeniu dla architektury Nowego Jorku.
 
+**Galeria:**
+
+- 21007-1: https://a.allegroimg.com/original/1151e0/fef1088c45acbd0de981f73f1c91
+- 21007-2: https://a.allegroimg.com/original/11f7f7/04f481934f6ab9ff7030d16c2c3a
+
 ---
 
-## 21008 — Lego Architecture 21008 Burj Khalifa
+## 21008 — Burj Khalifa
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702014802599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21008 |
+| Nazwa angielska | Burj Khalifa |
+| Nazwa polska | Burj Khalifa |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014802599 |
 
 Zestaw LEGO® 21008 “Burj Khalifa” z serii Architecture wydany w 2011 roku zawiera 208 elementów. Ten model architektoniczny odwzorowuje ikoniczną wieżę Burj Khalifa z Dubaju, mierzy ponad 41 cm wysokości z podstawą ponad 11 cm, i zawiera broszurę informacyjną z detalhami dotyczącymi projektu i historii tego słynnego budynku.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 21008-1: https://a.allegroimg.com/original/11a1af/7ef07a5648fbb026271fedb6690e
+
 ---
 
-## 21009 — Lego Architecture 21009 Farnsworth House Usa Unikat
+## 21009 — FARNSWORTH HOUSE - USA UNIKAT
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 2135.00 zł · EAN: 05702014802605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21009 |
+| Nazwa angielska | Farnsworth House |
+| Nazwa polska | FARNSWORTH HOUSE - USA UNIKAT |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 546 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014802605 |
 
 **LEGO Architecture 21009 Farnsworth House (USA)**
 
@@ -200,11 +331,26 @@ Zestaw składa się z 546 elementów i należy do prestiżowej serii LEGO Archit
 
 Idealny prezent dla fanów architektury, nowoczesnego wzornictwa oraz kolekcjonerów wyjątkowych zestawów LEGO.
 
+**Galeria:**
+
+- 21009-1: https://a.allegroimg.com/original/112412/edc1668c40859403cb5a4512568b
+
 ---
 
-## 21011 — Lego Architecture 21011 Brama Brandenburska
+## 21011 — Brama Brandenburska
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 745.00 zł · EAN: 00673419159692 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21011 |
+| Nazwa angielska | Brandenburg Gate |
+| Nazwa polska | Brama Brandenburska |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9,2 cm × szer. 22,4 cm × gł. 9,6 cm |
+| EAN | 5702014802636, 673419159692 |
 
 LEGO Architecture 21011 Brama Brandenburska
  
@@ -223,11 +369,26 @@ Brama Brandenburska, której budowę zlecił król Fryderyk Wilhelm II Pruski i 
 - Wymiary: 9,2 cm wysokości, 22,4 cm szerokości i 9,6 cm głębokości 
 - Seria LEGO Architecture to inspiracja dla przyszłych architektów, inżynierów i projektantów, a także dla fanów architektury z całego świata. Wykorzystaj klocki LEGO, aby odtworzyć słynne budowle.
 
+**Galeria:**
+
+- 21011-1: https://a.allegroimg.com/original/1106fa/2482a11e4ee79012313469972e9b
+
 ---
 
-## 21012 — Lego Architecture 21012 Sydney Opera House
+## 21012 — Sydney Opera House
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702014842328 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21012 |
+| Nazwa angielska | Sydney Opera House |
+| Nazwa polska | Sydney Opera House |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842328 |
 
 LEGO Architecture 21012 LEGO 21012 Architecture Sydney Opera House
 
@@ -242,11 +403,26 @@ O produkcie:
 
 LEGO Architecture 21012 LEGO 21012 Architecture Sydney Opera House to zestaw klocków dla dzieci w wieku 12 lat i więcej. Wyprodukowany przez markę LEGO, zapewnia wysoką jakość i trwałość. Zestaw ten pozwala na rozwijanie kreatywności, wyobraźni oraz zdolności manualnych. Model Sydney Opera House to kultowy budynek, który zaciekawi każdego fana architektury. Zestaw zawiera elementy umożliwiające zbudowanie pięknej repliki opery. To doskonały prezent dla chłopców i dziewcząt, którzy lubią spędzać czas aktywnie, tworząc coś z własnych rąk.
 
+**Galeria:**
+
+- 21012-1: https://a.allegroimg.com/original/05f149/4f864b404950acf3042497175166
+
 ---
 
-## 21014 — Lego Architecture 21014 Willa Savoye
+## 21014 — Willa Savoye
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1659.00 zł · EAN: 05702014842359 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21014 |
+| Nazwa angielska | Villa Savoye |
+| Nazwa polska | Willa Savoye |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 660 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014842359 |
 
 LEGO Architecture 21014 Willa Savoye
  
@@ -263,11 +439,26 @@ O produkcie:
  
 LEGO Architecture 21014 Willa Savoye to zestaw klocków, który umożliwia zbudowanie modelu słynnej Willi Savoye. Zestaw składa się z 660 elementów i przeznaczony jest dla dzieci powyżej 12 roku życia oraz dla kolekcjonerów. Marka LEGO gwarantuje wysoką jakość wykonania produktu oraz bezpieczeństwo użytkowania. Zestaw ten pozwala na rozwijanie kreatywności, cierpliwości i precyzji u dzieci. LEGO Architecture 21014 Willa Savoye to idealny prezent dla miłośników architektury oraz fanów klocków LEGO.
 
+**Galeria:**
+
+- 21014-1: https://a.allegroimg.com/original/11f84f/a6972fda415c9dc4be3101b38020
+
 ---
 
-## 21016 — Lego Architecture 21016 Sungnyemun
+## 21016 — Sungnyemun
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702014914223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21016 |
+| Nazwa angielska | Sungnyemun |
+| Nazwa polska | Sungnyemun |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014914223 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -291,11 +482,26 @@ LEGO Architecture 21014 Willa Savoye to zestaw klocków, który umożliwia zbudo
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 21016-1: https://a.allegroimg.com/original/11f4ba/f87f7fb84472ae74ed75e565eca7
+
 ---
 
-## 21017 — Lego Architecture 21017 Hotel Imperial
+## 21017 — LEGO 21017 ARCHITECTURE HOTEL IMPERIAL
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 873.18 zł · EAN: 05702014973107 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21017 |
+| Nazwa angielska | Imperial Hotel |
+| Nazwa polska | LEGO 21017 ARCHITECTURE HOTEL IMPERIAL |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 28 cm × gł. 24 cm |
+| EAN | 5702014973107 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -327,11 +533,26 @@ Zbierz wszystkie modele serii LEGO® Architecture
 
 Wymiary: 10 cm wysokości, 28 cm szerokości i 24 cm głębokości
 
+**Galeria:**
+
+- 21017-1: https://a.allegroimg.com/original/117ec3/a079ae5a4308ac3976aa083cd4e6
+
 ---
 
-## 21018 — Lego Architecture Kwatera Główna Onz 21018
+## 21018 — Architecture
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 679.75 zł · EAN: 05702014973114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21018 |
+| Nazwa angielska | United Nations Headquarters |
+| Nazwa polska | Architecture |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 597 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973114 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -347,11 +568,26 @@ Rok wydania:** 2013**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 26x19x7cm**
 
+**Galeria:**
+
+- 21018-1: https://a.allegroimg.com/original/116953/53c1e31a4517a28b525852974b15
+
 ---
 
-## 21019 — Lego Architecture 21019 Wieża Eiffla
+## 21019 — Wieża Eiffla
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014973206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21019 |
+| Nazwa angielska | The Eiffel Tower |
+| Nazwa polska | Wieża Eiffla |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973206 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -384,11 +620,26 @@ Obecnie wieża Eiffla jest jednym z najbardziej rozpoznawalnych budynków świat
  
 Ten wyjątkowy model pozwala zbudować własną wieżę Eiffla z  klocków LEGO, a następnie ozdobić nią dom, biuro lub dowolne inne miejsce!
 
+**Galeria:**
+
+- 21019-1: https://a.allegroimg.com/original/03b270/8164eb1643e683cd8accff150b73
+
 ---
 
-## 21020 — Lego Architecture 21020 Fontanna di Trevi
+## 21020 — Fontanna di Trevi
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702015124300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21020 |
+| Nazwa angielska | Trevi Fountain |
+| Nazwa polska | Fontanna di Trevi |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 731 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 20 cm × gł. 14 cm |
+| EAN | 5702015124300 |
 
 LEGO Architecture 21020 - Fontanna di Trevi
 
@@ -401,11 +652,26 @@ Zbuduj z klocków LEGO® szczegółowy model słynnej Fontanny di Trevi, czyli 
 - Zbierz wszystkie modele LEGO® z serii Architecture Landmark i Architect 
 - Seria LEGO® Architecture, stworzona dla miłośników projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli za pomocą klocków LEGO
 
+**Galeria:**
+
+- 21020-1: https://9.allegroimg.com/original/00dd3b/9b505baf4521991a4d4b32ec7289
+
 ---
 
-## 21021 — Lego Architecture 21021 – Marina Bay Sands
+## 21021 — Marina Bay Sands
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 5500.00 zł · EAN: 05702015161077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21021 |
+| Nazwa angielska | Marina Bay Sands |
+| Nazwa polska | Marina Bay Sands |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 602 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm × gł. 6 cm |
+| EAN | 5702015161077 |
 
 **LEGO Architecture 21021 – Marina Bay Sands**
 
@@ -422,11 +688,26 @@ Model wiernie oddaje trzy wieże budynku z charakterystycznym "statkiem" na szcz
 - Przeznaczony dla kolekcjonerów, miłośników architektury i osób powyżej **12. roku życia**.
 - Wydanie limitowane – zestaw był dostępny głównie w regionie Azji i jest obecnie kolekcjonerską rzadkością.
 
+**Galeria:**
+
+- 21021-1: https://a.allegroimg.com/original/11579d/654b54c1428a8505a4d5d1c21771
+
 ---
 
-## 21022 — Klocki Lego Architecture Zestaw Mauzoleum Lincolna 21022
+## 21022 — LEGO 21022 Mauzoleum Lincolna
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 684.00 zł · EAN: 05702015354318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21022 |
+| Nazwa angielska | Lincoln Memorial |
+| Nazwa polska | LEGO 21022 Mauzoleum Lincolna |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354318 |
 
 LEGO Architecture 21022 - Memoriał Lincolna
 
@@ -441,11 +722,26 @@ Zbuduj z klocków LEGO® model Mauzoleum Abrahama Lincolna — pomnika wystawion
 - Zbierz wszystkie modele LEGO® z serii Architecture Landmark i Architect
 - Seria LEGO® Architecture, stworzona dla miłośników projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli za pomocą klocków LEGO
 
+**Galeria:**
+
+- 21022-1: https://a.allegroimg.com/original/114fe7/cf9932984829a3c905b940fdef68
+
 ---
 
-## 21023 — Lego Architecture 21023 Flatiron Building. Nowy. Bardzo dobry stan.
+## 21023 — 21023
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702015354301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21023 |
+| Nazwa angielska | Flatiron Building |
+| Nazwa polska | 21023 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354301 |
 
 **Nowy nieotwierany zestaw Lego 21023 Flatiron Building.**
 
@@ -475,11 +771,26 @@ Zbierz wszystkie modele LEGO® z serii Architecture Landmark i Architect
 
 Seria LEGO® Architecture, stworzona dla miłośników projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli za pomocą klocków LEGO
 
+**Galeria:**
+
+- 21023-1: https://a.allegroimg.com/original/119ccf/b911f9914aa1973ecee0ba41f975
+
 ---
 
-## 21024 — Klocki Lego Architecture Zestaw Luwr 21024
+## 21024 — 21024
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 838.99 zł · EAN: 05702015354288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21024 |
+| Nazwa angielska | Louvre |
+| Nazwa polska | 21024 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 695 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 17 cm × gł. 19 cm |
+| EAN | 5702015354288 |
 
 Zestaw **LEGO Architecture 21024 Luwr** to jeden z najbardziej eleganckich i poszukiwanych modeli z tej serii. Jako zestaw wycofany z produkcji (**Retired**), stanowi nie tylko piękną ozdobę biurka, ale i doskonałą inwestycję kolekcjonerską.
 
@@ -513,11 +824,26 @@ To idealny wybór dla miłośników historii, podróży i wyrafinowanego designu
 
 **Wymiary:** ok. 13 cm wysokości, 17 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 21024-1: https://b.allegroimg.com/original/003529/f75e225e4d108fde2a7567c8ab1b
+
 ---
 
-## 21026 — Klocki Lego Architecture Wenecja 21026
+## 21026 — 21026
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1065.99 zł · EAN: 05702015591232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21026 |
+| Nazwa angielska | Venice |
+| Nazwa polska | 21026 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 25 cm × gł. 3 cm |
+| EAN | 5702015591232 |
 
 **Lego Architecture Wenecja 21026**. Odtwórz historyczną i architektoniczną wielkość Wenecji dzięki realistycznemu modelowi z klocków LEGO®. W kolekcji LEGO Architecture Skyline znajdziesz modele, które będą doskonale prezentować się w domu i biurze. Są przeznaczone dla wszystkich osób interesujących się podróżami, architekturą jako przejawem kultury, historią i projektowaniem. Wzajemne proporcje budowli z każdego zestawu odpowiadają rzeczywistości, a ich kolory są takie jak w naturze. W tym zestawie znajdziesz most Rialto, Bazylikę św. Marka, dzwonnicę św. Marka, św. Teodora, skrzydlatego lwa św. Marka, a także Most Westchnień. Uzupełnieniem całości jest ozdobna tabliczka z napisem „Venice”.
 
@@ -537,11 +863,26 @@ W zestawie most Rialto, Bazylika św. Marka, dzwonnica św. Marka, św. Teodor, 
 
 • Wymiary: 14 cm wysokości, 25 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 21026-1: https://a.allegroimg.com/original/00969a/3dbed11d41f4ba0c6d12ef70cb28
+
 ---
 
-## 21027 — Lego Architecture 21027 Berlin Nowe
+## 21027 — berlin
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 978.00 zł · EAN: 05702015591225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21027 |
+| Nazwa angielska | Berlin |
+| Nazwa polska | berlin |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 25 cm × gł. 5 cm |
+| EAN | 5702015591225 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -564,11 +905,26 @@ Sięgnij realistyczny model z klocków LEGO®, by otworzyć berlińską mieszank
 - Seria LEGO® Architecture, stworzona dla miłośników projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli z klocków LEGO.
 - Wymiary: 23 cm wysokości, 25 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 21027-1: https://a.allegroimg.com/original/114d26/f6cb34b34232b6e91738717c983c
+
 ---
 
-## 21028 — Lego Architecture 21028 Nowy Jork
+## 21028 — Nowy Jork
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 191.88 zł · EAN: 05702015591218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21028 |
+| Nazwa angielska | New York City |
+| Nazwa polska | Nowy Jork |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 598 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm × gł. 4 cm |
+| EAN | 5702015591218 |
 
 LEGO Architecture 21028
  
@@ -586,11 +942,26 @@ Seria LEGO Architecture, stworzona dla miłośników projektowania, architektury
  
 Wymiary: 26 cm wysokości, 25 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 21028-1: https://a.allegroimg.com/original/1120c5/08b612144f7b88f2b801b721d7ad
+
 ---
 
-## 21029 — Klocki Lego Architecture Zestaw Pałac Buckingham 21029
+## 21029 — Pałac Buckingham
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 694.00 zł · EAN: 05702015591201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21029 |
+| Nazwa angielska | Buckingham Palace |
+| Nazwa polska | Pałac Buckingham |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 780 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm × gł. 19 cm |
+| EAN | 5702015591201 |
 
 LEGO Architecture 21029 - Pałac Buckingham
 
@@ -612,11 +983,26 @@ Zestaw jest odpowiedni dla dzieci w wieku od 12 lat.
 
 Wymiary: ok. 10 cm wysokości, 20 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 21029-1: https://a.allegroimg.com/original/052e2f/12e8b3204c94bea70c7383385199
+
 ---
 
-## 21030 — Klocki Lego Architecture Kapitol Stanów Zjednoczonych 21030
+## 21030 — Kapitol Stanów Zjednoczonych
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015591195 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21030 |
+| Nazwa angielska | United States Capitol Building |
+| Nazwa polska | Kapitol Stanów Zjednoczonych |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1032 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 44 cm × gł. 14 cm |
+| EAN | 5702015591195 |
 
 LEGO Kapitol Stanów Zjednoczonych 21030
 
@@ -634,11 +1020,26 @@ Odkryj tajniki architektury klasycznego budynku Stanów Zjednoczonych, Kapitolu.
 - Zestaw jest odpowiedni dla dzieci w wieku od 12 lat.
 - Wymiary: ok. 16 cm wysokości, 44 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 21030-1: https://a.allegroimg.com/original/052b21/4faa328746afb452e25f7c121d04
+
 ---
 
-## 21031 — Lego Architecture 21031 Burj Khalifa
+## 21031 — Klocki LEGO Architecture Burj Khalifa 21031
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 677.20 zł · EAN: 05702015591188 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21031 |
+| Nazwa angielska | Burj Khalifa |
+| Nazwa polska | Klocki LEGO Architecture Burj Khalifa 21031 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702015591188 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -672,11 +1073,26 @@ Zbuduj model najwyższego wieżowca Dubaju z klocków LEGO®. Popularny model wi
 - Seria LEGO® Architecture, stworzona dla miłośników projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli z klocków LEGO. 
 - Wymiary: 39 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 21031-1: https://a.allegroimg.com/original/1116bf/0dbf973345ab89312a1ac559e9b8
+
 ---
 
-## 21032 — Lego Architecture 21032 Sydney torebka
+## 21032 — Sydney
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 968.90 zł · EAN: 05702015865319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21032 |
+| Nazwa angielska | Sydney |
+| Nazwa polska | Sydney |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865319 |
 
 LEGO Architecture 21032 Sydney
 
@@ -690,11 +1106,26 @@ Odtwórz architektoniczne piękno Sydney dzięki realistycznemu modelowi z klock
 - Sięgnij po kolekcję LEGO® Architecture Skyline, by odtworzyć najpiękniejsze z miast świata. 
 - Seria LEGO® Architecture, stworzona dla miłośników podróży, projektowania, architektury i historii, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli z klocków LEGO.
 
+**Galeria:**
+
+- 21032-1: https://a.allegroimg.com/original/11d4ac/4c442e194285ab3f8674885145de
+
 ---
 
-## 21033 — Klocki Lego Architecture Zestaw Chicago 21033
+## 21033 — Klocki LEGO Architecture Chicago 21033
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702015865326 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21033 |
+| Nazwa angielska | Chicago |
+| Nazwa polska | Klocki LEGO Architecture Chicago 21033 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 444 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 22 cm × gł. 5 cm |
+| EAN | 5702015865326 |
 
 **LEGO Architecture 21033 Chicago**
 
@@ -726,11 +1157,26 @@ Model łączy w sobie historyczne konstrukcje z nowoczesnymi drapaczami chmur, z
 
 **Wymiary **Ok. 20 cm wysokości, 22 cm szerokości i 5 cm głębokości
 
+**Galeria:**
+
+- 21033-1: https://0.allegroimg.com/original/000441/ac32730c45ffbf2abbfc699a43d0
+
 ---
 
-## 21034 — Lego Architecture 21034 London Nowy Zestaw Prezentowy Londyn Makieta
+## 21034 — LEGO Architecture 21034 London NOWY ZESTAW PREZENTOWY LONDYN MAKIETA
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702015922494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21034 |
+| Nazwa angielska | London |
+| Nazwa polska | LEGO Architecture 21034 London NOWY ZESTAW PREZENTOWY LONDYN MAKIETA |
+| Seria | Architecture |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2016 |
+| Liczba elementów | 468 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 28 cm × gł. 8 cm |
+| EAN | 5702015865333, 5702015922494 |
 
 ⭐ LEGO Architecture 21034 London NOWY ZESTAW PREZENTOWY LONDYN ⭐
 
@@ -758,11 +1204,27 @@ Model łączy w sobie historyczne konstrukcje z nowoczesnymi drapaczami chmur, z
 
 ✅ **Wymiary**: ok. 15 cm wysokości, 28 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 21034-1: https://a.allegroimg.com/original/05b850/bac511214b24865a01eecbe56b6c
+- 21034-2: https://a.allegroimg.com/original/256d85/ee06e13546c98318e24357a34bfd
+
 ---
 
-## 21035 — Lego 21035 Architecture Muzeum Guggenheima
+## 21035 — MUZEUM GUGGENHEIMA
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702015865340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21035 |
+| Nazwa angielska | Solomon R. Guggenheim Museum |
+| Nazwa polska | MUZEUM GUGGENHEIMA |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 744 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865340 |
 
 Oryginalne, nieotwierane opakowanie,
 
@@ -776,11 +1238,26 @@ Numer magazynowy sprzedawcy: 20260278
 
 Przybliżone wymiary opakowania: **28,2 x 9,5 x 26,2 cm**
 
+**Galeria:**
+
+- 21035-1: https://a.allegroimg.com/original/1102fa/89907c1044029c1cb491d38c929b
+
 ---
 
-## 21036 — Lego Architecture Zestaw Łuk Triumfalny Paryż 21036
+## 21036 — Łuk Triumfalny
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 575.00 zł · EAN: 05702015865357 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21036 |
+| Nazwa angielska | Arc de Triomphe |
+| Nazwa polska | Łuk Triumfalny |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865357 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -807,11 +1284,26 @@ Odtwórz architektoniczną elegancję jednego z najbardziej znanych pomników na
 - Seria LEGO® Architecture, stworzona dla miłośników podróży, architektury, historii i projektowania, oddaje hołd światowej architekturze poprzez odtwarzanie najsłynniejszych budowli z klocków LEGO.
 - Złożenie modelu stanowi fascynujące wyzwanie i zapewnia dużo satysfakcji.
 
+**Galeria:**
+
+- 21036-1: https://a.allegroimg.com/original/11da5f/1a52e77e4321bdb96532027a854c
+
 ---
 
-## 21037 — Lego Architecture 21037 House
+## 21037 — House
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702015867481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21037 |
+| Nazwa angielska | LEGO House |
+| Nazwa polska | House |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 774 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 22 cm × gł. 19 cm |
+| EAN | 5702015867481 |
 
 LEGO ARCHITECTURE 21037
 
@@ -832,11 +1324,26 @@ WIEK:12+
 
 ILOŚĆ ELEMENTÓW:774
 
+**Galeria:**
+
+- 21037-1: https://a.allegroimg.com/original/116b75/9751b6ce44da9d404f53d7b07729
+
 ---
 
-## 21039 — Klocki Lego Architecture Zestaw Szanghaj 21039
+## 21039 — Klocki LEGO Architecture Szanghaj 21039
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016111880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21039 |
+| Nazwa angielska | Shanghai |
+| Nazwa polska | Klocki LEGO Architecture Szanghaj 21039 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 597 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 28 cm × gł. 7 cm |
+| EAN | 5702016111880 |
 
 Odwiedź Szanghaj z niesamowitym modelem LEGO Architecture Skyline!
 
@@ -856,21 +1363,51 @@ Ten kolekcjonerski zestaw pamiątkowy zawiera prawie 600 klocków i jest odpowie
 
 Wymiary: ok. 25 cm wysokości, 28 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 21039-1: https://a.allegroimg.com/original/05975f/04f7372646b7b6ef66f387f1d5ba
+
 ---
 
-## 21041 — Klocki Lego Architecture Zestaw Wielki Mur Chiński 21041
+## 21041 — Wielki Mur Chiński
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 478.99 zł · EAN: 05702016111873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21041 |
+| Nazwa angielska | Great Wall of China |
+| Nazwa polska | Wielki Mur Chiński |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 551 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111873 |
 
 Zestaw LEGO® 21041 Wielki Mur Chiński
 
 Zestaw LEGO Architecture 21041 Wielki Mur Chiński pozwoli Ci zbudować z klocków LEGO® model architektonicznego cudu. Wielki Mur, rozciągający się na długości tysięcy kilometrów w północnych Chinach, to najdłuższa budowla zbudowana ludzką ręką. W dawnych czasach obsadzony był ponad milionem strażników i służył do obrony północnych granic Imperium Chińskiego. Mur budowano i przebudowywano między V wiekiem p.n.e. a XVI wiekiem n.e., a obecnie znajduje się on na liście światowego dziedzictwa UNESCO i jest popularną atrakcją turystyczną. Ten szczegółowy model przedstawia dwie wieże połączone krętym fragmentem fortyfikacji na szczycie ciemnozielonego, górzystego krajobrazu z dolinami porośniętymi bujną roślinnością, drzewami i jeziorami. Całość uzupełniają dekoracyjne płytki w języku angielskim i chińskim. Poznaj sprytne techniki konstrukcyjne, dzięki którym Mur wije się wzdłuż pagórków, wyginając się w górę i w dół między szczytami na nierównym, pofałdowanym terenie. Połączenie kilku modeli pozwala stworzyć dłuższy Wielki Mur.
 
+**Galeria:**
+
+- 21041-1: https://e.allegroimg.com/original/005d67/4c6e621444d0a94c49498672827e
+
 ---
 
-## 21042 — Lego Architecture Statua Wolności 21042
+## 21042 — Statua Wolności
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 377.90 zł · EAN: 05702016111859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21042 |
+| Nazwa angielska | Statue of Liberty |
+| Nazwa polska | Statua Wolności |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 44 cm × szer. 14 cm × gł. 14 cm |
+| EAN | 5702016111859 |
 
 STATUA WOLNOŚCI
 
@@ -892,11 +1429,26 @@ Uczcij monumentalne połączenie architektury i rzeźby w zestawie LEGO® Archit
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 21042-1: https://a.allegroimg.com/original/1178b9/6a0108c54b9aa6e15b22d8d60d27
+
 ---
 
-## 21043 — Lego Architecture San Francisco 21043
+## 21043 — San Francisco
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 510.90 zł · EAN: 05702016368307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21043 |
+| Nazwa angielska | San Francisco |
+| Nazwa polska | San Francisco |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 28 cm × gł. 7 cm |
+| EAN | 5702016368307 |
 
 **San Francisco**
 
@@ -920,11 +1472,26 @@ Sięgnij po realistyczny model 21043 z kolekcji LEGO® Architecture Skyline i od
 
     • Model ma ok. 16 cm wysokości, 28 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 21043-1: https://a.allegroimg.com/original/113ad4/ba2297cb41259aed1fd6f613cb9d
+
 ---
 
-## 21044 — Lego Architecture 21044 Paryż
+## 21044 — Paryż
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 219.84 zł · EAN: 05702016368314 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21044 |
+| Nazwa angielska | Paris |
+| Nazwa polska | Paryż |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 649 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 28 cm × gł. 11 cm |
+| EAN | 5702016368314 |
 
 Uchwyć majestatyczną architekturę Paryża w zestawie LEGO® Architecture Skyline Paryż. Ta inspirująca panorama miasta przedstawia słynny Łuk Triumfalny, Pola Elizejskie, Wieżę Montparnasse, halę Grand Palais, Wieżę Eiffla i Luwr. Każdy model LEGO jest niepowtarzalny, a złożenie go daje satysfakcję. Zestaw zachowuje realistyczne kolory i wzajemny stosunek rozmiarów poszczególnych obiektów. Ten model będzie doskonałą ozdobą domu lub biura!
  
@@ -939,11 +1506,26 @@ Zbuduj panoramę z najsłynniejszymi atrakcjami Paryża. Zestaw 21044 LEGO® Arc
 - Zestaw zawiera ponad 694 klocki. 
 - Panorama ma ok. 22 cm wysokości, 28 cm szerokości i 11 cm głębokości.
 
+**Galeria:**
+
+- 21044-1: https://a.allegroimg.com/original/05c2b1/b8c8b326475b83d13279c711f972
+
 ---
 
-## 21045 — Lego Architecture 21045 Trafalgar Square
+## 21045 — Trafalgar Square
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702016368321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21045 |
+| Nazwa angielska | Trafalgar Square |
+| Nazwa polska | Trafalgar Square |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 24 cm × gł. 20 cm |
+| EAN | 5702016368321 |
 
 Zbuduj Trafalgar Square z serii LEGO Architecture!
  
@@ -962,11 +1544,26 @@ Ten kolekcjonerski model do zbudowania zawiera dekoracyjną płytkę z nazwą i 
 - Złożenie tego zestawu LEGO Architecture stanowi fascynujące wyzwanie i zapewnia dużo satysfakcji. 
 - Wymiary: ok. 12 cm wysokości, 24 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 21045-1: https://a.allegroimg.com/original/0537d9/41b53fd84b5385d9311e5717bbab
+
 ---
 
-## 21046 — Lego Architecture 21046 Empire State Building
+## 21046 — Empire State Building
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1098.88 zł · EAN: 00673419160100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21046 |
+| Nazwa angielska | Empire State Building |
+| Nazwa polska | Empire State Building |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1767 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 55 cm × szer. 20 cm × gł. 12 cm |
+| EAN | 5702016368338, 673419160100 |
 
 LEGO ARCHITECTURE 21046 Empire State Building
 
@@ -988,11 +1585,27 @@ Podnieś swoje umiejętności konstruktora LEGO® na wyższy poziom z zestawem L
 
 **ILOŚC KLOCKÓW 1767**
 
+**Galeria:**
+
+- 21046-1: https://a.allegroimg.com/original/055c91/a517be0441479249810c2b7b86a3
+- 21046-2: https://a.allegroimg.com/original/11f41d/1810b503478897698c3ff727d43c
+
 ---
 
-## 21047 — Klocki Lego Architecture Las Vegas 21047
+## 21047 — Las Vegas
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 422.04 zł · EAN: 05702016348897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21047 |
+| Nazwa angielska | Las Vegas |
+| Nazwa polska | Las Vegas |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 501 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 27 cm × gł. 7 cm |
+| EAN | 5702016348897 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1030,11 +1643,26 @@ Sięgnij po realistyczny model 21047 z kolekcji LEGO Architecture Skyline i odtw
 
 - Wymiary: ok. 19 cm wysokości, 27 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 21047-1: https://a.allegroimg.com/original/005872/bc3ad4d942e8a0aff8e7ecf965c2
+
 ---
 
-## 21050 — Lego Architecture 21050 Studio
+## 21050 — Studio
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 1499.95 zł · EAN: 05702014973213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21050 |
+| Nazwa angielska | Architecture Studio |
+| Nazwa polska | Studio |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973213 |
 
 LEGO Architecture 21050 Studio
 
@@ -1061,11 +1689,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 21050-1: https://a.allegroimg.com/original/11c09f/c5e1f29942e29c42b44465e4b023
+
 ---
 
-## 21051 — Klocki Lego Architecture Zestaw Japonia Tokio 21051
+## 21051 — Tokio
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 410.00 zł · EAN: 05702016617337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21051 |
+| Nazwa angielska | Tokyo |
+| Nazwa polska | Tokio |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 547 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 27 cm × gł. 10 cm |
+| EAN | 5702016617337 |
 
 Kolekcjonerski zestaw dla dorosłych, który ukazuje niesamowitą panoramę zabudowy Tokio!
  
@@ -1085,11 +1728,26 @@ Szczegółowy model z zestawu 21051 LEGO Architecture Skyline Collection do post
 - Klocki LEGO spełniają najwyższe standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
 - Klocki LEGO są testowane na niemal wszystkie możliwe sposoby. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny LEGO Architecture spełnia najwyższe standardy bezpieczeństwa, a solidność konstrukcji Twojej pamiątki z Tokio będzie dorównywać jej pięknu.
 
+**Galeria:**
+
+- 21051-1: https://a.allegroimg.com/original/050658/8a5345d54c48b6f271ce19bb895d
+
 ---
 
-## 21052 — Zestaw Lego Architecture 21052 Dubaj Zjednoczone Emiraty Arabskie
+## 21052 — Klocki LEGO Architecture 21052 Dubaj
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 485.00 zł · EAN: 05702016617344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21052 |
+| Nazwa angielska | Dubai |
+| Nazwa polska | Klocki LEGO Architecture 21052 Dubaj |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 740 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 27 cm × gł. 7 cm |
+| EAN | 5702016617344 |
 
 ZESTAW LEGO ARCHITECTURE - 21052 - DUBAJ - ZJEDNOCZONE EMIRATY ARABSKIE
 
@@ -1125,11 +1783,26 @@ Model składa się z 740 elementów, które tworzą spójną i efektowną kompoz
 
 Zestaw LEGO 21052 to doskonały wybór dla wszystkich, którzy pasjonują się architekturą, podróżami i nowoczesnym designem. Ten elegancki model nie tylko zapewnia satysfakcję z budowania, ale także staje się efektowną ozdobą domu lub biura. Dzięki swojemu uniwersalnemu charakterowi zestaw świetnie sprawdzi się jako prezent urodzinowy, upominek bez okazji lub wyjątkowa pamiątka dla kogoś, kto odwiedził Dubaj lub marzy o podróży do tego niezwykłego miasta. Zestaw można łączyć z innymi modelami z serii LEGO Architecture, tworząc kolekcję najsłynniejszych miast świata.
 
+**Galeria:**
+
+- 21052-1: https://a.allegroimg.com/original/255755/643607bf43cc9352f4caad13cb29
+
 ---
 
-## 21054 — Klocki Lego Architektura 21054 Biały Dom 1483 elementy
+## 21054 — Architektura 21054 Biały Dom
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702016617368 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21054 |
+| Nazwa angielska | The White House |
+| Nazwa polska | Architektura 21054 Biały Dom |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1483 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 47 cm × gł. 20 cm |
+| EAN | 5702016617368 |
 
 Brak Ci czasu? Masz wrażenie, że jesteś w ciągłym biegu? W takim razie pomyśl o naładowaniu akumulatorów — gdy tylko znajdziesz chwilkę, podejmij się ciekawego, kreatywnego projektu. Taki jest właśnie sens budowania Białego Domu z klocków LEGO®.
  
@@ -1154,11 +1827,26 @@ Sięgnij po ten wyszukany model, by oderwać się od codziennych stresów — b�
 - Klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie i można je za każdym razem z łatwością połączyći rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i inne elementy LEGO® przechodzą rygorystyczne testy, dzięki którym można mieć pewność, że każdy zestaw spełnia najwyższe standardy jakości i bezpieczeństwa — a to oznacza, że ta miniaturka Białego Domu jest równie solidna, co piękna.
 
+**Galeria:**
+
+- 21054-1: https://a.allegroimg.com/original/054c0c/9e00a48047228b6fa966c14b03e8
+
 ---
 
-## 21055 — Lego Architecture 21055 Burdż Chalifa
+## 21055 — Burdż Chalifa
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 687.09 zł · EAN: 05702016748635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21055 |
+| Nazwa angielska | Burj Khalifa |
+| Nazwa polska | Burdż Chalifa |
+| Seria | Architecture |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016748635 |
 
 Klocki LEGO® 21055 Architecture Burdż Chalifa
 
@@ -1180,11 +1868,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla osób od 16 lat. Będzie odpowiedni dla miłośników architektury, Dubaju, historii, podróży i designu, którzy chcą zbudować model znanego wieżowca w formie LEGO®.
 
+**Galeria:**
+
+- 21055-1: https://a.allegroimg.com/original/1108a8/43bdc2e0418abf5a997a7d41d9a3
+
 ---
 
-## 21056 — Lego Architecture Tadż Mahal 21056
+## 21056 — Tadż Mahal
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702016914139 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21056 |
+| Nazwa angielska | Taj Mahal |
+| Nazwa polska | Tadż Mahal |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 2022 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 23 cm × gł. 23 cm |
+| EAN | 5702016914139 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1225,11 +1928,26 @@ Zestaw LEGO® Architecture 21056 z kolekcji Landmarks to doskonała pozycja dla 
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze się ze sobą łączą i solidnie trzymają.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21056-1: https://a.allegroimg.com/original/29ddbf/10d84ac245b3beccdf049547048f
+
 ---
 
-## 21057 — Lego Architecture 21057 Architecture Singapur
+## 21057 — Architecture Singapur
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017152332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21057 |
+| Nazwa angielska | Singapore |
+| Nazwa polska | Architecture Singapur |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 827 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 28 cm × gł. 9 cm |
+| EAN | 5702017152332 |
 
 LEGO ARCHITECTURE
 
@@ -1261,11 +1979,26 @@ Ten kolekcjonerski zestaw należy do serii zestawów LEGO Architecture, które p
 
 155/63/N/19/1/22/A/19142/B/18S
 
+**Galeria:**
+
+- 21057-1: https://a.allegroimg.com/original/117ec3/1c5b72ed4e0eb392ed4c4a63f551
+
 ---
 
-## 21058 — Lego Architecture 21058 Piramida Cheopsa
+## 21058 — 21058
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702017152349 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21058 |
+| Nazwa angielska | Great Pyramid of Giza |
+| Nazwa polska | 21058 |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 35 cm × gł. 32 cm |
+| EAN | 5702017152349 |
 
 LEGO Architecture 21058 Piramida Cheopsa
  
@@ -1293,11 +2026,26 @@ Przenieś się w czasie na plac budowy piramidy Cheopsa w Gizie. Podnieś zewnę
 - Jakość premium — elementy LEGO® spełniają rygorystyczne branżowe standardy, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno trzymają 
 - Dzięki temu mamy pewność, że każdy z nich spełnia wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 21058-1: https://a.allegroimg.com/original/111827/ee9585f74141835e0c08970f2db2
+
 ---
 
-## 21060 — Lego Architecture Zamek Himeji 21060
+## 21060 — Zamek Himeji
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 448.00 zł · EAN: 05702017417721 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21060 |
+| Nazwa angielska | Himeji Castle |
+| Nazwa polska | Zamek Himeji |
+| Seria | Architecture |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417721, 5702017525297 |
 
 Odtwórz legendarne detale jednego z najsłynniejszych budynków w Japonii dzięki spektakularnemu zestawowi LEGO® Architecture Zamek Himeji.
 
@@ -1335,42 +2083,27 @@ Spędź miło czas, budując własny model zamku z klocków LEGO®, który majes
 
 • Elementy LEGO® spełniają wymagające światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 21061 — Lego Architecture 21061 Notre-Dame w Paryżu
-
-*Kategoria: Architecture · cena Allegro (2026-08-17): 719.99 zł · EAN: 05702017582412 · in stock*
-
-LEGO Architecture 21061 Notre-Dame w Paryżu
-
-- Producent: LEGO
-- Seria: Architecture
-- Kod producenta: 21061
-- Ilość elementów: 4383
-- Przedział wiekowy: Od 18 lat
-- Płeć: Chłopak, Dziewczyna
-- Wymiary opakowania: 55 cm x 38 cm x 13 cm
-
-Dlaczego warto dokonać zakupu właśnie u nas?
-
-- Nasze produkty zawsze są oryginalne i posiadają gwarancję
-- Oferujemy konkurencyjne ceny na rynku oraz wysoką jakość towaru
-- Gwarantujemy szybką realizacje zamówień oraz fachową i miłą obsługę
-- Sprawdź opinie naszych klientów i przekonaj się czy warto nam zaufać
-
-Opis produktu:
-
-- Stan produktu: **NOWY** - Pudełko fabrycznie zamknięte, nigdy nie otwierane. (Europejska dystrybucja)
-
-Galeria produktu:
-
-Zdjęcia poglądowe
+- 21060-1: https://a.allegroimg.com/original/118cad/3b8bd907426eac49df35c5fbf343
+- 21060-2: https://a.allegroimg.com/original/11b9dc/0a822d9d4fb38d8f73b9e0200306
 
 ---
 
-## 21062 — 21062 Lego Architecture Fontanna di Trevi 21062
+## 21062 — LEGO Architecture 21062 Fontanna di Trevi
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 547.77 zł · EAN: 05702017816753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21062 |
+| Nazwa angielska | Trevi Fountain |
+| Nazwa polska | LEGO Architecture 21062 Fontanna di Trevi |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1880 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 38 cm × gł. 18 cm |
+| EAN | 5702017816753 |
 
 **PRODUKT:** LEGO ARCHITECTURE 21062 - FONTANNA DI TREVI
 
@@ -1398,11 +2131,26 @@ Ten zestaw z serii LEGO Architecture zachwyci każdego dorosłego miłośnika hi
 
 -
 
+**Galeria:**
+
+- 21062-1: https://a.allegroimg.com/original/1139f1/dcfa11e643308428e6ede591cb25
+
 ---
 
-## 21063 — Lego Architecture 21063 Zamek Neuschwanstein 3455 el.
+## 21063 — LEGO Architecture 21063 Zamek Neuschwanstein
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702017816760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21063 |
+| Nazwa angielska | Neuschwanstein Castle |
+| Nazwa polska | LEGO Architecture 21063 Zamek Neuschwanstein |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3455 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816760 |
 
 **LEGO Architecture 21063 – Zamek Neuschwanstein**
 
@@ -1432,11 +2180,26 @@ Złożony model stanowi efektowną dekorację domu, gabinetu lub biura. To równ
 
 **Szybka i bezpiecznie zabezpieczona wysyłka**
 
+**Galeria:**
+
+- 21063-1: https://a.allegroimg.com/original/1102a6/f02363fb4bf79436de46cb250f73
+
 ---
 
-## 21064 — Lego Architecture Paryż miasto miłości 21064
+## 21064 — LEGO Architecture 21064 Paryż – Miasto Miłości
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 254.97 zł · EAN: 05702018063668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21064 |
+| Nazwa angielska | Paris - City of Love |
+| Nazwa polska | LEGO Architecture 21064 Paryż – Miasto Miłości |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 958 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 27 cm × gł. 5 cm |
+| EAN | 5702018063668 |
 
 Klocki LEGO® Architecture
 
@@ -1459,11 +2222,26 @@ Podczas tworzenia oprawionej dekoracji ściennej możesz poznać inny wymiar bud
 - Zestawy LEGO® Architecture — model z kolekcji LEGO Architecture należy do serii wysokiej jakości zestawów (sprzedawanych osobno), które zostały stworzone z myślą o dorosłych osobach uwielbiających kreatywną rozrywkę
 - Wymiary — ten odprężający model panoramy Paryża, składający się z 958 elementów, ma 30 cm wysokości, 27 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 21064-1: https://a.allegroimg.com/original/11201c/be955cd049e584b86eea2a1f535b
+
 ---
 
-## 21066 — Lego 21066 Architecture
+## 21066 — Nowy Jork — Wielkie Jabłko
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 424.81 zł · EAN: 05702018063675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21066 |
+| Nazwa angielska | New York City – The Big Apple |
+| Nazwa polska | Nowy Jork — Wielkie Jabłko |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1465 |
+| Cena katalogowa | 599.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063675 |
 
 LEGO 21066 Architecture
 
@@ -1481,11 +2259,26 @@ Idealny prezent dla pasjonatów LEGO i architektury
 
 **LEGO 21066 Architecture** sprawdzi się jako stylowy prezent dla miłośników **klocków LEGO**, fanów **architektury** oraz osób poszukujących oryginalnej dekoracji z charakterem. Dzięki uniwersalnej estetyce gotowy model może stać się efektownym elementem aranżacji wnętrza, a jednocześnie pamiątką związaną z pasją do projektowania i słynnych budowli.
 
+**Galeria:**
+
+- 21066-1: https://a.allegroimg.com/original/117f79/c25fc0c443359f0475b048bee38c
+
 ---
 
-## 21067 — Lego Architecture Tower Bridge 21067
+## 21067 — Tower Bridge
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 949.96 zł · EAN: 05702018063705 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21067 |
+| Nazwa angielska | Tower Bridge |
+| Nazwa polska | Tower Bridge |
+| Seria | Architecture |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3745 |
+| Cena katalogowa | 1299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063705 |
 
 **LEGO Architecture Tower Bridge 21067**
 
@@ -1511,11 +2304,26 @@ Model należy do kolekcji zestawów dla dorosłych, którzy lubią kreatywne pro
 
 3745 elementów kreatywnego potencjału w zestawie o szerokości 89 cm
 
+**Galeria:**
+
+- 21067-1: https://a.allegroimg.com/original/116510/d724e75a4f17a9cbe92f5da0691d
+
 ---
 
-## 4000010 — Lego Architecture 4000010 Architect Billund House
+## 4000010 — Architect Billund House
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702015289603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4000010 |
+| Nazwa angielska | LEGO House |
+| Nazwa polska | Architect Billund House |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015289603 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1534,11 +2342,26 @@ Model należy do kolekcji zestawów dla dorosłych, którzy lubią kreatywne pro
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4000010-1: https://a.allegroimg.com/original/11490c/576015a84443a4c8cc14b2fccb45
+
 ---
 
-## 4000016 — Lego Architecture 4000016
+## 4000016 — 4000016
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015399340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4000016 |
+| Nazwa angielska | Billund Airport |
+| Nazwa polska | 4000016 |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 24 cm × gł. 20 cm |
+| EAN | 5702015399340 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1572,11 +2395,26 @@ Model należy do kolekcji zestawów dla dorosłych, którzy lubią kreatywne pro
 - Złożenie tego zestawu LEGO® Architecture stanowi fascynujące wyzwanie i zapewnia dużo satysfakcji. 
 - Wymiary: ok. 12 cm wysokości, 24 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 4000016-1: https://a.allegroimg.com/original/116716/471b3f284555bbb4c80cfbdb7cb4
+
 ---
 
-## 40199 — Klocki Lego 40199 Architecture Billund Airport 286 elementów
+## 40199 — LEGO 40199 Billund Airport
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 545.99 zł · EAN: 05702016123562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40199 |
+| Nazwa angielska | Billund Airport |
+| Nazwa polska | LEGO 40199 Billund Airport |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123562 |
 
 Klocki LEGO 40199 Architecture - Billund Airport
 
@@ -1600,11 +2438,26 @@ Ten zestaw doskonale oddaje atmosferę lotniska i stanowi niezwykłą ozdobę dl
 
 Rok wydania 2018 r.
 
+**Galeria:**
+
+- 40199-1: https://a.allegroimg.com/original/11f192/da4323224c0296d10d12c0e3bf54
+
 ---
 
-## 40585 — 40585 Lego Świat cudów Świata Tadż Mahal Partenon Mur Chiński i Skarbiec
+## 40585 — Świat cudów
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 107.79 zł · EAN: 05702017423777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40585 |
+| Nazwa angielska | World of Wonders |
+| Nazwa polska | Świat cudów |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 382 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 36 cm × gł. 9 cm |
+| EAN | 5702017423777 |
 
 **LEGO 40585 ŚWIAT CUDÓW UNIKAT**
 
@@ -1614,11 +2467,26 @@ Złóż hołd czterem najsłynniejszym budowlom na świecie, składając zestaw 
 - Dokąd się wybierzesz? Zbuduj Tadż Mahal, Wielki Mur Chiński, Partenon i Skarbiec Faraona w Petrze w wersji LEGO®. Każda budowla ma swoją tabliczkę z nazwą
 - Wymiary — ten kolekcjonerski model ma 7 cm wysokości, 36 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 40585-1: https://a.allegroimg.com/original/1101f5/2a0ab07b49038b66e7e24fdbb901
+
 ---
 
-## 40590 — Lego 40590 Domy Świata 2
+## 40590 — Domy Świata 2
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 233.49 zł · EAN: 05702017423890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40590 |
+| Nazwa angielska | Houses of the World 2 |
+| Nazwa polska | Domy Świata 2 |
+| Seria | Architecture |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm × gł. 9 cm |
+| EAN | 5702017423890 |
 
 Oto drugi zestaw z serii LEGO® Houses – piękny dom z Afryki Północnej (40590). Budując jego architektoniczne szczegóły, podziwiaj tradycyjne, kolorowe wzornictwo z Afryki Północnej. Modułowa konstrukcja sprawia, że można go łączyć z innymi domami z kolekcji (40583, 40594 and 40599), które są dostępne osobno.
 
@@ -1633,11 +2501,26 @@ Oto drugi zestaw z serii LEGO® Houses – piękny dom z Afryki Północnej (405
 - Prezent dla podróżników i miłośników architektury – podaruj ten zestaw osobie, która interesuje się różnymi kulturami 
 - Wymiary – model ma 11 cm wysokości, 11 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 40590-1: https://a.allegroimg.com/original/11dd01/de2a74624fe38478a793ebabce5a
+
 ---
 
-## 40594 — Oryginalne Lego 40594 Domy świata 3 Klocki Limited
+## 40594 — Domy Świata 3
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702017470443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40594 |
+| Nazwa angielska | Houses of the World 3 |
+| Nazwa polska | Domy Świata 3 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017470443 |
 
 LEGO 40594 - Domy świata 3 EDYCJA LIMITOWANA
 
@@ -1653,11 +2536,26 @@ Ilość klocków:** 278**
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 40594-1: https://a.allegroimg.com/original/11f9be/d9289cfe4324b95252b0980cc87f
+
 ---
 
-## 40599 — Lego 40599 Chiński Dom
+## 40599 — Domy Świata 4
 
-*Kategoria: Architecture · cena Allegro (2026-08-17): 203.99 zł · EAN: 05702017471396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40599 |
+| Nazwa angielska | Houses of the World 4 |
+| Nazwa polska | Domy Świata 4 |
+| Seria | Architecture |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 318 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702017471396 |
 
 LEGO® 40599 Domy świata 4
  
@@ -1667,6 +2565,10 @@ Pełen autentycznych detali zestaw (40599) jest inspirowany tradycyjnymi chińsk
 
 - Prezent dla podróżników i miłośników architektury — podaruj ten zestaw osobie, która interesuje się Chinami lub różnymi kulturami
 - Wymiary — model ma 11 cm wysokości, 9 cm szerokości i 8 cm głębokości
+
+**Galeria:**
+
+- 40599-1: https://a.allegroimg.com/original/1122cb/7a77db4e4f978fa3154fac169fe5
 
 ---
 

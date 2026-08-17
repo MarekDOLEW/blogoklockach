@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Animal Crossing — opisy produktowe (16 pozycji)
 
-## 30662 — Lego 30662 Animal Crossing Mona's Pumpkin Patch, construction toy
+## 30662 — Dyniowy ogród Maple
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 7.99 zł · EAN: 05702017592671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30662 |
+| Nazwa angielska | Maple's Pumpkin Garden |
+| Nazwa polska | Dyniowy ogród Maple |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592671 |
 
 Dzięki temu małemu zestawowi LEGO dzieci w wieku 6 lat i starsze mogą odtworzyć scenę z serii „Przejście dla zwierząt”. W zestawie minifigurka Mony. Mona może podlewać swoje rośliny za pomocą konewki i wspinać się po drabinie, aby zajrzeć pod małe drzewko. Nr artykułu: 100015522
 
@@ -33,11 +43,26 @@ Dzięki temu małemu zestawowi LEGO dzieci w wieku 6 lat i starsze mogą odtworz
 
  Uwaga: Niebezpieczeństwo uduszenia wskutek połknięcia małych części!
 
+**Galeria:**
+
+- 30662-1: https://a.allegroimg.com/original/117d73/769a2a814327ab4c3c24370e66a0
+
 ---
 
-## 30731 — Lego Animal Crossing 30731 Tom Nook i latający
+## 30731 — Tom Nook i latający prezent
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 13.24 zł · EAN: 05702018058497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30731 |
+| Nazwa angielska | Tom Nook and Flying Present |
+| Nazwa polska | Tom Nook i latający prezent |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058497 |
 
 LEGO 30731 Tom Nook i latający prezent
 
@@ -70,11 +95,26 @@ Czas na budowanie
 
 Pomóż Tomowi Nookowi zdobyć latający prezent i stwórz własną scenkę inspirowaną światem Animal Crossing. LEGO 30731 Tom Nook i latający prezent to niewielki zestaw, który dostarczy mnóstwo radości podczas budowania i będzie doskonałym uzupełnieniem każdej kolekcji LEGO.
 
+**Galeria:**
+
+- 30731-1: https://a.allegroimg.com/original/1147a5/0bbbe2c94a638ae31692ae7216a7
+
 ---
 
-## 77046 — Gra Lego 77046 Lego Animal Crossing Przyjęcie urodzinowe Juliana
+## 77046 — Animal Crossing 77046 Julian i przyjęcie urodzinowe
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 37.89 zł · EAN: 05702017591452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77046 |
+| Nazwa angielska | Julian's Birthday Party |
+| Nazwa polska | Animal Crossing 77046 Julian i przyjęcie urodzinowe |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591452 |
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -102,11 +142,26 @@ Podaruj dzieciom zestaw do przebudowywania z gry wideo Animal Crossing. Ten modu
  
 -
 
+**Galeria:**
+
+- 77046-1: https://a.allegroimg.com/original/29d886/c70c7fc5469f8aefbe102a76d00a
+
 ---
 
-## 77047 — Klocki Lego Animal Crossing 77047 Zabawy na świeżym powietrzu Bunnie
+## 77047 — Animal Crossing 77047 Króliczki i zajęcia na świeżym powietrzu
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 39.88 zł · EAN: 05702017592374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77047 |
+| Nazwa angielska | Bunnie's Outdoor Activities |
+| Nazwa polska | Animal Crossing 77047 Króliczki i zajęcia na świeżym powietrzu |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592374 |
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -136,11 +191,26 @@ Zestawy LEGO(R) Animal Crossing pozwalają wykazać się kreatywnością, dzięk
  
 -
 
+**Galeria:**
+
+- 77047-1: https://a.allegroimg.com/original/295fb6/5aae988c4a7abc98fe9aa0c54e4e
+
 ---
 
-## 77048 — Klocki Lego Animal Crossing 77048 Kapp'n i rejs dookoła wyspy
+## 77048 — Animal Crossing 77048 Kapp'n na wyspie
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702017592343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77048 |
+| Nazwa angielska | Kapp'n's Island Boat Tour |
+| Nazwa polska | Animal Crossing 77048 Kapp'n na wyspie |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592343 |
 
 **-**
 
@@ -160,11 +230,26 @@ Podaruj dzieciom zestaw do przebudowywania z gry wideo Animal Crossing, który b
 
 -
 
+**Galeria:**
+
+- 77048-1: https://a.allegroimg.com/original/29f1d0/470f92cb4e7eac432313bd02257d
+
 ---
 
-## 77049 — Zestaw klocków Lego Animal Crossing wizyta u Isabelle
+## 77049 — Wizyta u Isabelle
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702017592367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77049 |
+| Nazwa angielska | Isabelle's House Visit |
+| Nazwa polska | Wizyta u Isabelle |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592367 |
 
 PUDEŁKO POGNIECIONE I PODRAPANE - NIE NADAJE SIE NA PREZENT !!! PRODUKT NIE UZYWANY
 
@@ -180,11 +265,26 @@ Na stole warsztatowym leży karta z przepisem, a w drzewie ukryta jest niespodzi
 
 -
 
+**Galeria:**
+
+- 77049-1: https://a.allegroimg.com/original/05afa7/74b1444a4e1ea0552e90a400d690
+
 ---
 
-## 77050 — Lego Animal Crossing 77050 Nook's Cranny I Domek Rosie Nowy Zestaw
+## 77050 — Animal Crossing 77050 Nook's Cranny i Dom Rosie
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 127.39 zł · EAN: 05702017592480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77050 |
+| Nazwa angielska | Nook's Cranny & Rosie's House |
+| Nazwa polska | Animal Crossing 77050 Nook's Cranny i Dom Rosie |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 535 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 39 cm × gł. 14 cm |
+| EAN | 5702017592480 |
 
 Przedmiotem oferty jest NOWY i ORYGINALNY zestaw klocków LEGO:
 
@@ -212,11 +312,26 @@ Mali konstruktorzy mogą przestawiać modułowe płytki konstrukcyjne i akcesori
 
 - Mnóstwo zabawy dla małych konstruktorów — w standardowej konfiguracji ten 535-elementowy model ma 15 cm wysokości, 39 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 77050-1: https://a.allegroimg.com/original/29ad38/d138d243476b9075ed7e5802c2e9
+
 ---
 
-## 77051 — Lego Animal Crossing Lot z Dodo Airlines 77051
+## 77051 — Lot Animal Crossing 77051 liniami Dodo Airlines
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017592718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77051 |
+| Nazwa angielska | Fly with Dodo Airlines |
+| Nazwa polska | Lot Animal Crossing 77051 liniami Dodo Airlines |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 27 cm × gł. 10 cm |
+| EAN | 5702017592718 |
 
 Dzięki zestawowi LEGO® Animal Crossing™ Lot z Dodo Airlines (77051) siedmiolatki i starsze dzieci puszczą wodze fantazji. Wyruszą na pokładzie wodnosamolotu LEGO, aby zwiedzać nową wyspę, zupełnie jak w grze Animal Crossing.
 
@@ -238,31 +353,76 @@ Zestaw zawiera instrukcje w aplikacji LEGO Builder, w której dzieci mogą powi�
 
 - Kreatywne zabawki do złożenia — te zestawy LEGO® pozwalają dzieciom wykorzystywać kreatywność i umiejętność opowiadania historii do odkrywania świata Animal Crossing™ nawet wtedy, kiedy mają przerwę od ekranuWymiary — ten 292-elementowy zestaw zawiera lotnisko, które ma 13 cm wysokości, 27 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 77051-1: https://a.allegroimg.com/original/0519d7/17501cb04285b50f2b9d2fac6e7b
+
 ---
 
-## 77052 — Klocki Lego Animal Crossing Koncert K.k. na placu 550 el.
+## 77052 — KK i koncert na placu
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702017592725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77052 |
+| Nazwa angielska | K.K.'s Concert at the Plaza |
+| Nazwa polska | KK i koncert na placu |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 550 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 24 cm × gł. 16 cm |
+| EAN | 5702017592725 |
 
 Koncert K.K. na placu
 
 Animal Crossing™ Koncert K.K. na placu LEGO® Animal Crossing™ Koncert K.K. na placu Zabawka LEGO® Animal Crossing™ Koncert K.K. na placu 77052 Zabawka do przebudowywania inspirowana grą Animal Crossing™ z minifigurkami K.K., Isabelle i Audie oraz modelem kampera na kółkach. Zestaw LEGO® Animal Crossing™ z trzema figurkami Dzięki zestawowi LEGO® Animal Crossing™ Koncert K.K. na placu (77052) siedmiolatki i starsze dzieci mogą wymyślać historie inspirowane serią gier Animal Crossing™. Najpierw zbudują scenki znane z gry, a następnie dzięki trzem minifigurkom LEGO® Animal Crossing i wielu rozpoznawalnym akcesoriom odegrają dowolne przygody i historie!Dzieci przygotowują koncert dla K.K., podając mu mikrofon z dachu kampera, grając na gitarze lub dołączając do Isabelle podczas grupowego rozciągania. Razem z Audie poznają najnowsze ploteczki w kawiarni, a następnie udają się do ratusza, gdzie mogą otrzymać kartę z przepisami do samodzielnego zrobienia, wymienić nagrody w bankomacie i sprawdzić, czy w koszu nie ma nowych produktów. Podobnie jak w grze, drzewo kryje w sobie niespodziankę, a flagę Resident Services można spersonalizować. Dzieci mogą także zmieniać położenie płytek konstrukcyjnych, aby zmienić wygląd zestawu LEGO Animal Crossing. Nadeszła jesień i K.K. ma zamiar dać koncert na placu przed Resident Services. Pomóż mu przygotować się do występu. Przynieś mikrofon i gitarę z dachu kampera, znajdź magnetofon i zwiększ głośność, aby Isabelle i Audie mogły ćwiczyć rozciąganie. Sprawdź też pudełko z używanymi rzeczami, aby zobaczyć, czy pojawiło się coś nowego. Na koniec usiądź przy stole i delektuj się napojem z Audie. • Zabawka dla siedmiolatków i starszych dzieci — zestaw LEGO® Animal Crossing™ Koncert K.K. na placu gwarantuje kreatywnym dzieciom wiele godzin zabawy rodem z gry • Trzy rozpoznawalne postacie z Animal Crossing™ — ten zestaw zawiera minifigurki K.K., Isabelle i Audie, model Resident Services z kawiarnią oraz kampera na kółkach • Mnóstwo funkcji do odkrycia — dzieci organizują koncert, odwiedzają Resident Services, spędzają czas w kawiarni lub otwierają kampera, aby K.K mógł przenocować • Zabawka do przebudowywania — dzięki dużej liczbie akcesoriów, dodatkowym płytkom do flagi i modułowym płytkom konstrukcyjnym dzieci mają swobodę twórczą, mogą eksperymentować i zmieniać wygląd swojego zestawu • Prezent dla siedmiolatków i starszych dzieci — ten zestaw to świetny prezent na specjalne okazje dla każdego fana Animal Crossing lub kreatywnych dzieci, które uwielbiają odgrywać role • Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu, a także inne funkcje zapewniające większą radość z budowania • Zabawa dla fanów gry — dzięki tym zestawom LEGO® dzieci mogą twórczo się bawić i opowiadać historie osadzone w świecie Animal Crossing™ nawet wtedy, kiedy mają przerwę od ekranu • Wymiary — w standardowej konfiguracji ten 550-elementowy model zawiera budynek Resident Services, który ma 16 cm wysokości, 24 cm szerokości i 16 cm głębokości • Resident Services i kamper gwarantują wiele godzin zabawy • Trzy minifigurki, w tym K.K., oraz kamper na kółkach • Dzieci mogą załatwiać sprawy w Resident Services lub pójść na koncert K.K. • Zabawka do przebudowywania obejmuje modułowe płytki konstrukcyjne i mnóstwo akcesoriów • Zestaw LEGO® Animal Crossing™ to świetny prezent dla dzieci w wieku od siedmiu lat • Aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji budowania • Dzieci mogą dalej odkrywać świat Animal Crossing™, nawet kiedy akurat mają przerwę od ekranu • 550-elementowy zestaw z modelem Resident Services, który ma 16 cm wysokości
 
+**Galeria:**
+
+- 77052-1: https://a.allegroimg.com/original/05d55f/a87bee3e46f3be153a128367622e
+
 ---
 
-## 77053 — Lego Obserwacja Gwiazd Z Celeste 77053
+## 77053 — Obserwacja gwiazd z Celeste
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 21.79 zł · EAN: 05702017815824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77053 |
+| Nazwa angielska | Stargazing with Celeste |
+| Nazwa polska | Obserwacja gwiazd z Celeste |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815824 |
 
 Obserwacja gwiazd z Celeste
 
 Animal Crossing™ LEGO Animal Crossing Obserwacja gwiazd z Celeste, Zabawka dla Dziecka do Zbudowania, Zestaw dla Gracza i Fana Kosmosu, z Minifigurką i Teleskopem, Prezent dla 6-latki, Dziewczynki i Chłopca 77053 nowe horyzonty raymond bob marshall shino tom nook chłopak dziewczyna upominek klocki dziecko dzieci 5 7 8 9 niezależna gra figurki nintendo classic konstrukcja uroczy timmy tommy słodkie zwierzaki kultowy nostalgiczny gracze kosmos galaktyka Obserwacja gwiazd z Celeste LEGO® Animal Crossing™ Obserwacja gwiazd z Celeste LEGO® Animal Crossing™ Obserwacja gwiazd z Celeste 77053 Zabawka z kempingiem inspirowana grą wideo Animal Crossing™ zachęca dzieci w wieku od sześciu lat do wymyślania historii o obserwacji gwiazd. Zabawka z teleskopem do zabawy w obserwację gwiazd Szukasz prezentu dla dziecka, które uwielbia LEGO® Animal Crossing™? Zestaw konstrukcyjny Obserwacja gwiazd z Celeste (77053) to świetny prezent na każdą okazję dla chłopców i dziewczynek w wieku od sześciu lat, którzy kochają zabawki związane z astronomią i kreatywną zabawę w odgrywanie ról.Dzieci zbudują scenkę plenerową inspirowaną grą wideo. Mogą ustawić teleskop i odgrywać role z minifigurką Celeste, sowy, która czyta swoją książkę o astronomii. Fani gry rozpoznają tę scenę, gdy będą obserwować spadające gwiazdy i wymyślać życzenie, a następnie zbiorą fragmenty spadającej gwiazdy, aby ozdobić fotel w kształcie półksiężyca.Dzięki modułowym płytkom konstrukcyjnym zestaw umożliwia zmianę wyglądu kempingu. Młodzi konstruktorzy mogą również cieszyć się cyfrową zabawą dzięki aplikacji LEGO Builder, w której mogą powiększać i obracać modele w 3D. Kreatywne zabawki LEGO Animal Crossing pozwalają dzieciom wymyślać historie ze znanymi postaciami i sceneriami z serii gier wideo, także poza ekranem. Czy jest coś lepszego niż obserwowanie gwiazd na kempingu w świetle księżyca? Dołącz do Celeste, która obserwuje niebo przez teleskop i pomóż jej zidentyfikować konstelacje za pomocą książki o astronomii. A co to? Spadająca gwiazda! Szybko, pomyśl życzenie! Zbieraj fragmenty gwiazd tak, jak w grze wideo. Rozsiądź się wygodnie w fotelu w kształcie półksiężyca i ciesz się ucztą przy świecach.
 
+**Galeria:**
+
+- 77053-1: https://a.allegroimg.com/original/0581ee/f75b61bc4ef0bf36397d625f54fb
+
 ---
 
-## 77054 — Klocki Lego Animal Crossing 77054 Leif Jego Karawan Oraz Sklep Ogrodniczy
+## 77054 — Animal Crossing 77054 Leif, przyczepa kempingowa i ogrodnictwo
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 93.00 zł · EAN: 05702017815855 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77054 |
+| Nazwa angielska | Leif's Caravan & Garden Shop |
+| Nazwa polska | Animal Crossing 77054 Leif, przyczepa kempingowa i ogrodnictwo |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 263 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815855 |
 
 Na sprzedaż **KLOCKI LEGO LEIF I JEGO KARAWAN ORAZ SKLEP OGRODNICZY 77054**
 
@@ -289,19 +449,49 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanego przez nas spr
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 77054-1: https://a.allegroimg.com/original/1149d2/42daa57c40b1ade6497fb2023a7d
+
 ---
 
-## 77055 — Klocki Lego Animal Crossing Able Sisters i sklep odzieżowy (77055)
+## 77055 — Animal Crossing 77055 Sklep odzieżowy dla sióstr Able
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017815923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77055 |
+| Nazwa angielska | Able Sisters' Clothing Shop |
+| Nazwa polska | Animal Crossing 77055 Sklep odzieżowy dla sióstr Able |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815923 |
 
 Zestaw (77055) zawiera mnóstwo akcesoriów, które zainspirują do kreatywnej modowej zabawy dziewczynki i chłopców w wieku od sześciu lat, a także fanów gier wideo Animal Crossing™. Dzieci mogą również cieszyć się łatwym i intuicyjnym budowaniem z aplikacją LEGO Builder, w której mogą powiększać i obracać model w 3D i śledzić swoje postępy. Chcesz zmienić wygląd? Pomóż miłośnikowi mody, Sashy, wybrać nową koszulę. Kieruj się wskazówkami Mabel, a następnie uzupełnij stylizację akcesoriami.
 
+**Galeria:**
+
+- 77055-1: https://a.allegroimg.com/original/0557d2/fea29e31439991b51830f3ec1835
+
 ---
 
-## 77056 — Lego Animal Crossing 77056 Blathers i kolekcja muzealna
+## 77056 — Blathers i kolekcja muzealna
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 217.98 zł · EAN: 05702017815947 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77056 |
+| Nazwa angielska | Blathers's Museum Collection |
+| Nazwa polska | Blathers i kolekcja muzealna |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 543 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 25 cm × gł. 17 cm |
+| EAN | 5702017815947 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -322,11 +512,26 @@ Ten zestaw LEGO® obejmuje muzeum z serii gier wideo Animal Crossing. Dzieci mog
 - Instrukcje 3D — dzieci mogą pobrać aplikację LEGO® Builder, aby korzystać z cyfrowych narzędzi do powiększania i obracania modeli w 3D, zapisywania zestawów i śledzenia postępów
 - Zestaw z 543 elementami — po otwarciu model muzeum z fontanną na zewnątrz ma 11 cm wysokości, 25 cm szerokości i 17 cm głębokości
 
+**Galeria:**
+
+- 77056-1: https://a.allegroimg.com/original/11302f/d5cf8bdb4fd8aa2bf6afb867164d
+
 ---
 
-## 77057 — Lego Animal Crossing Kreatywne domy: Pory zabawy 77057
+## 77057 — Kreatywne domy: Zabawne pory roku
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 274.99 zł · EAN: 05702017815961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77057 |
+| Nazwa angielska | Creative Houses: Seasons of Fun |
+| Nazwa polska | Kreatywne domy: Zabawne pory roku |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 814 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 42 cm × gł. 11 cm |
+| EAN | 5702017815961 |
 
 **PRODUKT:** LEGO ANIMAL CROSSING 77057 - Kreatywne domy: Pory Zabawy
 
@@ -374,11 +579,26 @@ Odkryj, jak przyjemnie jest urządzać własny świat z klockami LEGO® i bohate
 
 -
 
+**Galeria:**
+
+- 77057-1: https://a.allegroimg.com/original/05343f/9563dc084eb981ca87c32351eb3d
+
 ---
 
-## 77058 — Przytulny dom Goldie Lego 77058
+## 77058 — Animal Crossing 77058 Przytulny dom Goldie
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017815985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77058 |
+| Nazwa angielska | Goldie's Cosy House |
+| Nazwa polska | Animal Crossing 77058 Przytulny dom Goldie |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702017815985 |
 
 **-**
 
@@ -430,11 +650,26 @@ Zbuduj przytulne miejsce pełne uroku i dołącz do Goldie w jej codziennych prz
 
 -
 
+**Galeria:**
+
+- 77058-1: https://a.allegroimg.com/original/055123/e65964c24ac1b23be332fa335194
+
 ---
 
-## 77059 — Lego Animal Crossing Timmy i Tommy na spacerze 77059
+## 77059 — Timmy i Tommy na spacerze
 
-*Kategoria: Animal Crossing · cena Allegro (2026-08-17): 190.85 zł · EAN: 05702018068298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77059 |
+| Nazwa angielska | Timmy & Tommy's Fun Day Out |
+| Nazwa polska | Timmy i Tommy na spacerze |
+| Seria | Animal Crossing |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 513 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068298 |
 
 **LEGO Animal Crossing Timmy i Tommy na spacerze 77059**
 
@@ -457,6 +692,10 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 Zestawy LEGO® Animal Crossing™ to świetny sposób na kreatywną zabawę
 
 Ten 513-elementowy zestaw ma 24 cm szerokości
+
+**Galeria:**
+
+- 77059-1: https://a.allegroimg.com/original/11e43b/15863def4eeca281efccd8a478a5
 
 ---
 

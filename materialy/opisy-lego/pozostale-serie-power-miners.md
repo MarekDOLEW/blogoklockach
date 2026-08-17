@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Power Miners — opisy produktowe (2 pozycji)
 
-## 40906 — Lego 40906 Restauracje świata: Japonia Edycja Limitowana
+## 40906 — Restauracje świata: Japonia
 
-*Kategoria: Pozostałe serie > Power Miners · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702018071618 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40906 |
+| Nazwa angielska | Restaurants of the World: Japan |
+| Nazwa polska | Restauracje świata: Japonia |
+| Seria | Pozostałe serie > Power Miners |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702018071618 |
 
 **Zestaw LEGO® 40906 - Restauracje świata: Japonia / Restaurants of the World: Japan Edycja Limitowana**
 
@@ -25,11 +35,26 @@ Rozwijaj swoją kreatywność dzięki zestawowi LEGO® Restauracje świata: Japo
 - Pomysł na prezent — ten zestaw to idealny prezent na urodziny lub każdą inną okazję dla chłopców i dziewczynek w wieku od 12 lat, a także dla fanów LEGO®, smakoszy i podróżników 
 - Wymiary — zestaw zawiera 289 elementów i ma 16 cm wysokości, 10 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40906-1: https://a.allegroimg.com/original/1110ea/2c79f0d04585a1c1081c15c6befb
+
 ---
 
-## 8190 — Lego Power Miners 8190 Claw Catcher Chwytacz
+## 8190 — Claw Catcher
 
-*Kategoria: Pozostałe serie > Power Miners · cena Allegro (2026-08-17): 1088.00 zł · EAN: 05702014602410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8190 |
+| Nazwa angielska | Claw Catcher |
+| Nazwa polska | Claw Catcher |
+| Seria | Pozostałe serie > Power Miners |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602410 |
 
 LEGO Power Miners 8190 Claw Catcher
  
@@ -46,6 +71,10 @@ O produkcie:
 LEGO Power Miners 8190 Claw Catcher to zestaw klocków dla dzieci w wieku 8 lat i starszych. Zestaw pozwala na stworzenie funkcjonalnego pojazdu górniczego z ruchomą chwytakową ręką, idealnego do zbierania skał i minerałów.
  
 Zaletą zestawu jest rozwijanie kreatywności i umiejętności manualnych dziecka. Zestaw składa się z 197 klocków i jest łatwy do złożenia. Jest to doskonała zabawka dla chłopców i dziewcząt, która zapewni wiele godzin wspaniałej zabawy.
+
+**Galeria:**
+
+- 8190-1: https://a.allegroimg.com/original/1192d8/04a22dc74545a81815cc042f7723
 
 ---
 

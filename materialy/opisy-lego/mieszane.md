@@ -1,130 +1,53 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Mieszane — opisy produktowe (9 pozycji)
+# LEGO Mieszane — opisy produktowe (6 pozycji)
 
-## 10347 — Klocki Lego Botanicals 10347 Mały Słoneczny Bukiet Klocki Dzieci
+## 10347 — Mały Słoneczny Bukiet
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 179.90 zł · EAN: 05906841430226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10347 |
+| Nazwa angielska | Petite Sunny Bouquet |
+| Nazwa polska | Mały Słoneczny Bukiet |
+| Seria | Botanicals |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 373 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 22 cm × szer. 8 cm × gł. 5 cm |
+| EAN | 5702017814667, 5906841430073, 5906841430226 |
 
-⭐ WIECZNIE KWITNĄCY PREZENT! LEGO® ICONS 10347 MAŁY SŁONECZNY BUKIET ŻÓŁTYCH KWIATÓW ⭐
+Mały bukiet żółtych kwiatów
 
-⭐ KWIATY, KTÓRE NIGDY NIE WIĘDNĄ – NOWOŚĆ W KOLEKCJI
+Botanicals LEGO Mały bukiet żółtych kwiatów, zabawka dla dziecka do zbudowania, zestaw konstrukcyjny dla 9-latka i prezent dla chłopców i dziewczynek, dekoracja wiosenna, ozdoba ze sztucznych kwiatów 10347 zaręczyny rocznica przyjaciółka przyjaciel żona nastolatki koleżanka bukiecik 8 10 11 12 12 osiemnastka 18 kwiaciarnia florysta suszone wiązanka róże piękne czerwone białe polne sukulenty wianek na stół niespodzianka relaks hobby Petite Sunny Bouquet LEGO® Botanicals Mały bukiet żółtych kwiatów Zestaw LEGO® Botanicals Mały bukiet żółtych kwiatów 10347 Rozsiewaj radość dzięki temu bukiecikowi LEGO® pełnemu pastelowych kwiatów, który zachwyci każdego miłośnika ozdób. Mały bukiet LEGO® dla dzieci i początkujących dekoratorów Patrz, jak kwitnie kreatywność podczas budowania zestawu LEGO® Botanicals Mały bukiet żółtych kwiatów (10347). Bukiet jest pełen energetycznych kolorów i detali, tworząc piękną dekorację, która będzie cieszyć oko przez długi czas. To świetny zestaw dla dzieci w wieku od dziewięciu lat.Początkujący floryści w każdym wieku będą się świetnie bawić, budując bukiet, który jest wypełniony wiosennymi kwiatami LEGO, w tym kraspediami, dzwonkami, paprociami, krwawnikiem, różową gerberą, piwonią i tulipanem. Dzięki regulowanym łodygom mogą stworzyć własną kompozycję kwiatową. Po zakończeniu budowania i aranżacji bukietu dzieci i dorośli mogą z dumą ustawić go w swoim pokoju lub postawić jako dekorację na biurku.Rozsiej radość i wręcz ten zestaw konstrukcyjny z kwiatami jako prezent na urodziny lub inną okazję dla dzieci i dorosłych miłośników kwiatów. Dzięki aplikacji LEGO Builder możesz zaprosić do wspólnego budowania członków rodziny oraz przyjaciół. Wpuść do domu trochę słońca i zbuduj zestaw konstrukcyjny LEGO® Botanicals Mały bukiet żółtych kwiatów. Puść wodze kreatywności i stwórz siedem kwiatów LEGO w pastelowych kolorach w tym dzwoneczki, różowe gerbery i kraspedie, a następnie ułóż z nich kompozycję, która będzie cieszyć oko. Dzięki aplikacji LEGO Builder możesz zaprosić do wspólnego budowania rodzinę i przyjaciół. • Dekoracja kwiatowa — rozwijaj kreatywność dzieci dzięki zestawowi LEGO® Botanicals Mały bukiet żółtych kwiatów dla dzieci w wieku od dziewięciu lat • Kwiaty LEGO® — bukiet rozkwita siedmioma odmianami wiosennych kwiatów w pastelowych kolorach: kraspediami, dzwonkami, paprociami, krwawnikiem, gerberą, piwonią oraz tulipanem • Regulowane łodygi — bukiet ma regulowane łodygi, które zachęcają budowniczych do kreatywności i tworzenia bukietów według własnego pomysłu • Dekoracje LEGO® — po zbudowaniu wiosennego bukietu można go ustawić jako dekorację domu lub biura • Kwiaty na prezent — zestaw konstrukcyjny to inspirowany przyrodą zestaw, który sprawdzi się jako prezent na urodziny lub inną okazję dla dzieci i początkujących florystów w każdym wieku • Jeszcze więcej kwiatów — ten bukiet z klocków można połączyć z innymi zestawami z kolekcji LEGO® Botanicals (sprzedawanymi osobno) • Budowanie ze znajomymi i rodziną — aplikacja LEGO® Builder oferuje świetną zabawę w większym gronie, aby dzielić się radością budowania z klocków LEGO • Wymiary — zestaw z bukietem zawiera 373 elementy, a wymiary kwiatów są różne. Jedna z możliwych kompozycji ma 22 cm wysokości, 8 cm szerokości i 5 cm głębokości • Kwiatowa ozdoba dla dziewięciolatków i starszych dzieci • Zawiera siedem odmian kwiatów LEGO® w pastelowych kolorach • Regulowane łodygi umożliwiają konstruktorom personalizację bukietu • Ustaw bukiet LEGO® jako dekorację domu lub biura • Prezent urodzinowy lub upominek dla dzieci i początkujących florystów • Odkryj inne zestawy (sprzedawane osobno) z serii LEGO® Botanicals • Aplikacja LEGO® Builder umożliwi wspólne budowanie zestawu • 373-elementowy bukiet ma 22 cm wysokości
 
-✅ **Zobacz, jak rozkwita kreatywność!** Ten zestaw **LEGO® Botanicals 10347** to pełna życia kompozycja złożona z różnorodnych, **energetycznych kwiatów LEGO®**, która wnosi do wnętrza radość, kolor i **pozytywną energię**. Jest to **idealny zestaw** dla dzieci **od 9 roku życia**, dorosłych miłośników natury oraz **początkujących florystów LEGO®**. Kupując go, zyskujesz **GWARANCJĘ ZADOWOLENIA** obdarowanej osoby!
+**Galeria:**
 
-⭐ AUTENTYCZNE GATUNKI I REGULOWANE DETALE
-
-✅ **Bukiet składa się z siedmiu gatunków kwiatów LEGO®**, wiernie odwzorowanych w pastelowych i **żółtych odcieniach**, takich jak **Kraspedie, Dzwonki, Paprocie, Krwawniki, Różowa gerbera, Piwonia i Tulipan**. To połączenie **sztuki, relaksu i designu**! Co więcej, **każdy kwiat ma ruchome, regulowane łodygi**, które pozwalają **dowolnie zmieniać wysokość i układ** całej kompozycji, umożliwiając stworzenie własnego, **wyjątkowego mini bukietu**.
-
-⭐ TWÓRZ, UKŁADAJ I DEKORUJ KAŻDE WNĘTRZE
-
-✅ **Po zbudowaniu możesz ułożyć własną, wyjątkową kompozycję** i postawić ją w ulubionym wazonie lub dekoracyjnej doniczce. Ten **Mały bukiet żółtych kwiatów** idealnie prezentuje się w **salonie, sypialni, biurze** lub jako ozdoba stołu. Stanowi **piękno natury** w formie, która **nigdy nie traci blasku**! Połącz go z innymi zestawami z **Kolekcji LEGO® Botanicals**, aby stworzyć **własny kwiatowy ogród LEGO®**.
-
-⭐ RELAKS, WSPÓLNA ZABAWA I CYFROWE WSPARCIE
-
-✅ **Zestaw LEGO® Botanicals 10347** pozwala na **kreatywną, odprężającą zabawę** w budowanie i aranżowanie. **Wspólne tworzenie bukietu** z rodziną lub przyjaciółmi to świetny sposób na spędzenie czasu **bez ekranów**. Dodatkowo, w **aplikacji LEGO® Builder** możesz śledzić postępy, **obracać model w 3D** i zaprosić bliskich do **wspólnego budowania**.
-
-⭐ IDEALNY PREZENT NA KAŻDĄ OKAZJĘ I SPECYFIKACJA
-
-✅ **Mały bukiet żółtych kwiatów** to **świetny upominek** na Dzień Kobiet, Dzień Matki, Święta, urodziny lub parapetówkę. Sprawdzi się jako **elegancki prezent dla dorosłych** i inspirujący zestaw dla dzieci. Zestaw prezentuje się wyjątkowo również w **oryginalnym, stylowym opakowaniu LEGO® Botanicals**.
-
-- **Cecha:** Szczegóły Techniczne
-- **Kod producenta:** 10347
-- **Seria:** LEGO® ICONS Botanicals
-- **Ilość elementów:** 373 (Dane z pierwotnego zapytania; dla pewności podaję 373, zgodnie z zestawem)
-- **Sugerowany wiek:** 9+
-- **Zawartość:** Siedem gatunków kwiatów LEGO® w żółtych i pastelowych odcieniach
+- 10347-1: https://a.allegroimg.com/original/11d5ff/e05efbb14acfadf94353826ba038
+- 10347-2: https://a.allegroimg.com/original/119d97/a3980f974878b125a82c2830307f
+- 10347-3: https://a.allegroimg.com/original/1183c9/2d959f8945188ef1c250ce81bf4b
 
 ---
 
-## 11501 — Lego Botanicals 11501 Bukiet tulipanów
+## 4002021 — The Temple of Celebrations
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 249.90 zł · EAN: 05906841431438 · in stock*
-
-Pozwól rozkwitnąć kreatywności i stwórz bukiet tulipanów LEGO® Zbuduj każdy z kwiatów i podziwiaj realistyczne detale i kolory — odkryjesz żywe zielone pąki, fioletowe zamknięte tulipany oraz czerwone, żółte i różowe otwarte kwiaty, a także zielone liście i łodygi, które można ustawiać według własnego pomysłu. Po zakończeniu budowania bukietu z dumą wyeksponuj go jako kwiatową dekorację.
-
----
-
-## 31377 — Lego Creator 3W1 31377 Klocki Żółw I Kwiat LILII Wodnej Kameleon Żabka
-
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 59.90 zł · EAN: 05908032110306 · in stock*
-
-✨ LEGO CREATOR 3W1 31377 KLOCKI ŻÓŁW I KWIAT LILII WODNEJ KAMELEON ŻABKA ✨
-
-✅ 3 MODELE W 1 ZESTAWIE – WIĘCEJ ZABAWY
-
-➡️ Zbuduj uroczego żółwia z kwiatem lilii wodnej
-
-➡️ Przebuduj go w kolorowego kameleona lub zabawną żabę
-
-➡️ Jeden zestaw – aż trzy różne możliwości zabawy
-
-✅ ROZWIJA KREATYWNOŚĆ I WYOBRAŹNIĘ
-
-➡️ Twórz własne historie i przygody ze zwierzętami
-
-➡️ Idealna zabawa w odgrywanie ról
-
-➡️ Pomaga rozwijać zdolności manualne i logiczne myślenie
-
-✅ RUCHOME ELEMENTY – JESZCZE WIĘCEJ FRAJDY
-
-➡️ Żółw porusza głową i pyszczkiem
-
-➡️ Kameleon może ruszać głową i ogonem
-
-➡️ Żaba otwiera pyszczek – realistyczna zabawa gwarantowana
-
-✅ IDEALNY PREZENT DLA DZIECKA 7+
-
-➡️ Świetny pomysł na prezent dla chłopca i dziewczynki
-
-➡️ Sprawdzi się na urodziny, święta i inne okazje
-
-➡️ Radość z budowania i zabawy w jednym
-
-✅ ZABAWKA I DEKORACJA W JEDNYM
-
-➡️ Gotowe modele świetnie prezentują się na półce
-
-➡️ Ozdoba pokoju dziecka, która przyciąga uwagę
-
-➡️ Duma z własnoręcznie zbudowanej konstrukcji
-
-✅ SPRAWDZONA JAKOŚĆ LEGO
-
-➡️ Wysoka jakość wykonania i trwałość klocków
-
-➡️ Idealne dopasowanie elementów
-
-➡️ Bezpieczna i sprawdzona zabawa dla dzieci
-
-✅ CZĘŚĆ SERII LEGO CREATOR 3W1
-
-➡️ Połącz z innymi zestawami i twórz jeszcze większe przygody
-
-➡️ Rozwijaj pasję dziecka do budowania i odkrywania
-
-➡️ Każdy zestaw to nowe możliwości i pomysły
-
-✅ NAUKA PRZEZ ZABAWĘ
-
-➡️ Wspiera rozwój koncentracji i cierpliwości
-
-➡️ Uczy planowania i budowania krok po kroku
-
-➡️ Idealne połączenie zabawy i nauki 🧩
-
----
-
-## 4002021 — Lego Ninjago Lego The Temple of Celebrations 4002021 Świątynia Nowy Unikat
-
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 1199.90 zł · EAN: 40020212021400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002021 |
+| Nazwa angielska | The Temple of Celebrations |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 40020212021400 |
 
 **LEGO 4002021 – Ekskluzywny prezent świąteczny dla pracowników LEGO (Employee Gift Set)**
 
@@ -136,11 +59,26 @@ Zestaw przedstawia klimatyczną zimową scenę z budynkami LEGO Campus, minifigu
 
 **Dostępność:** Tylko dla pracowników LEGO
 
+**Galeria:**
+
+- 4002021-1: https://a.allegroimg.com/original/11264a/3d5b67fb4717a7569327a106ee00
+
 ---
 
-## 4002024 — Lego 4002024 Fabryki Narodowe Zwierzęta
+## 4002024 — LEGO Factories National Animals
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 595.31 zł · EAN: 00726529206616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002024 |
+| Nazwa angielska | LEGO Factories National Animals |
+| Nazwa polska | — |
+| Seria | Mieszane |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 726529206616 |
 
 **LEGO 4002024 – Zestaw Prezentowy ze Zwierzętami 2024**
 
@@ -169,11 +107,26 @@ Zestaw zawiera 1601 elementów i umożliwia zbudowanie 8 szczegółowych modeli 
 
 **Rzadko spotykany zestaw – idealny wybór dla kolekcjonerów i fanów unikatowych edycji LEGO.**
 
+**Galeria:**
+
+- 4002024-1: https://a.allegroimg.com/original/11a603/cf160c6d4c63b422e29b5757cda6
+
 ---
 
-## 5008918 — Lego 5008918 Akcesoria Torba plażowa Oryginalna Lata Wakacji! na plażę
+## 5008918 — Summer Beach Bag
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 135.21 zł · EAN: 05060373577504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008918 |
+| Nazwa angielska | Summer Beach Bag |
+| Nazwa polska | — |
+| Seria | Mieszane |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373577504 |
 
 LEGO 5008918 Akcesoria - Torba plażowa
 
@@ -185,11 +138,26 @@ Dostępność od ręki.
 
 Wysokiej jakości torba typu tote bag z letnim nadrukiem LEGO® z kultowym motywem plażowym. Dzięki zamknięciu na zamek zawartość torby zawsze jest bezpieczna. Wewnątrz torby znajduje się również kieszonka, która zapewnia porządek i łatwiejszy dostęp do mniejszych przedmiotów. Mierząca aż 40cm x 35cm torba pomieści wszystko, czego potrzebujesz na plaży. Radosny letni design i wyraziste kolory.
 
+**Galeria:**
+
+- 5008918-1: https://a.allegroimg.com/original/1120a7/380412a34edb99eedf4a931d8f2e
+
 ---
 
-## 52510 — Lego Star Wars 52510 klocki, płytka i długopis
+## 52510 — Imperial TIE Fighter Recruitment Bag Stationery Set
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 96.99 zł · EAN: 04895028525101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52510 |
+| Nazwa angielska | Imperial TIE Fighter Recruitment Bag Stationery Set |
+| Nazwa polska | — |
+| Seria | Mieszane |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028525101 |
 
 **Notatnik LEGO® Star Wars™️ TIE Fighter z zestawem klocków, płytką i długopisem**
 
@@ -199,11 +167,27 @@ Wiek: 6+
 
 Ilość elementów: 42
 
+**Galeria:**
+
+- 52510-1: https://a.allegroimg.com/original/11634c/c79451bd4796930a6be60eb81d7e
+
 ---
 
-## 5771 — Lego 5771 Creator 3 w 1 Dom na wzgórzu
+## 5771 — Hillside House
 
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014732759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5771 |
+| Nazwa angielska | Hillside House |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 714 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014732759 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -222,25 +206,9 @@ Ilość elementów: 42
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
----
+**Galeria:**
 
-## 6315786 — Lego torba torebka 6315786 10 sztuk IN001
-
-*Kategoria: Mieszane · cena Allegro (2026-08-17): 24.89 zł · EAN: 05702016818376 · in stock*
-
-Przedmiotem sprzedaży jest **NOWA** firmowa torebka papierowa na zdjęciu
-
-LEGO 6315786, kod EAN 5702016818376
-
-Stan: **nowy**
-
-Cena za: **10 sztuk**
-
-Na pozostałych aukcjach dostępne są klocki, które mogą być wspaniałym prezentem zapakowanym w oferowane firmowe opakowanie. Dobierz komplet do swoich potrzeb.
-
-Jeden koszt przesyłki dla całego zamówienia
-
-IN001-10
+- 5771-1: https://a.allegroimg.com/original/11a1bc/bb5c69f64bda9326642316179359
 
 ---
 

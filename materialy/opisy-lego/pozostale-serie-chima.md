@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Chima — opisy produktowe (40 pozycji)
 
-## 30252 — Nowy Lego Chima 30252 Crug's Swamp Jet Misb 2013
+## 30252 — Crug's Swamp Jet
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 72.50 zł · EAN: 05702014977679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30252 |
+| Nazwa angielska | Crug's Swamp Jet |
+| Nazwa polska | Crug's Swamp Jet |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014977679 |
 
 Cześć!
 
@@ -27,11 +37,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30252-1: https://a.allegroimg.com/original/11fcf3/4c3e8f014e21877afbcaa9a30946
+
 ---
 
-## 30253 — Lego Chima 30253 Leonidas Jungle Dragster
+## 30253 — Dragster
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 42.00 zł · EAN: 05702014977686 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30253 |
+| Nazwa angielska | Leonidas' Jungle Dragster |
+| Nazwa polska | Dragster |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014977686 |
 
 **Sprzedajemy tylko ORYGINALNE minifigurki Lego oraz klocki Lego**
 
@@ -49,11 +74,26 @@ Ilość elementów: 30
 
 Zapraszamy na pozostałe nasze aukcje gdzie znajdziesz inne minifigurki jak i pojedyncze klocki na sztuki oraz całe zestawy.
 
+**Galeria:**
+
+- 30253-1: https://a.allegroimg.com/original/11646b/7e480a8d4408a67bfc11a28c44c5
+
 ---
 
-## 30254 — Lego Chima 30254 Razcal's Double Crosser saszetka z klockami
+## 30254 — LEGO Chima 30254 Razcal's Double-Crosser
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702014977693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30254 |
+| Nazwa angielska | Razcal's Double-Crosser |
+| Nazwa polska | LEGO Chima 30254 Razcal's Double-Crosser |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014977693 |
 
 Witam
 
@@ -67,11 +107,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30254-1: https://a.allegroimg.com/original/111d6e/8c2b5d3a49779a591e49ab4952d5
+
 ---
 
-## 30262 — Lego Chima 30262 Gorzan's Walker 30262
+## 30262 — Zestaw LEGO Chima Gorzan's Walker 30262
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015125024 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30262 |
+| Nazwa angielska | Gorzan's Walker |
+| Nazwa polska | Zestaw LEGO Chima Gorzan's Walker 30262 |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125024 |
 
 **LEGO zestaw  - polybag**
 
@@ -95,11 +150,26 @@ Rafał
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30262-1: https://a.allegroimg.com/original/11519c/915d74f74150a1be607fed4d4cf5
+
 ---
 
-## 6070577 — nowy Lego Chima 30266 Lodowy łazik Sykora Misb 2014
+## 6070577 — LEGO Chima 30266 - Lodowy łazik Sykora
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015154956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6070577 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO Chima 30266 - Lodowy łazik Sykora |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015154956 |
 
 Cześć!
 
@@ -117,11 +187,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6070577-1: https://a.allegroimg.com/original/110800/a4bec735423492576db077574e35
+
 ---
 
-## 70004 — Lego Chima 70004 Wilczy Pojazd Wakza
+## 70004 — WILCZY POJAZD WAKZA
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014971431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70004 |
+| Nazwa angielska | Wakz' Pack Tracker |
+| Nazwa polska | WILCZY POJAZD WAKZA |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971431 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -140,11 +225,26 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70004-1: https://a.allegroimg.com/original/05e9e1/af5989d449b282d5424c59b5513b
+
 ---
 
-## 70006 — Lego Chima 70006 Krokodyla łódź Craggera
+## 70006 — Krokodyla łódź Craggera
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702014971455 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70006 |
+| Nazwa angielska | Cragger's Command Ship |
+| Nazwa polska | Krokodyla łódź Craggera |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 610 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971455 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -163,11 +263,26 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70006-1: https://a.allegroimg.com/original/111959/6c776248422a83aa566e422ca535
+
 ---
 
-## 70007 — Lego Chima 70007 Eglor's Twin Bike
+## 70007 — Eglor's Twin Bike
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014971462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70007 |
+| Nazwa angielska | Eglor's Twin Bike |
+| Nazwa polska | Eglor's Twin Bike |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971462 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -186,11 +301,26 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70007-1: https://a.allegroimg.com/original/056d79/267decaf44048c175af79c98a007
+
 ---
 
-## 70009 — Lego Chima 70009 Pojazd bojowy Worriza
+## 70009 — LEGO 70009 - Pojazd bojowy Worriza
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 1474.97 zł · EAN: 05702015034470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70009 |
+| Nazwa angielska | Worriz's Combat Lair |
+| Nazwa polska | LEGO 70009 - Pojazd bojowy Worriza |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 664 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971530, 5702015034470 |
 
 Klocki LEGO Chima 70009 - Pojazd bojowy Worriza
 
@@ -232,11 +362,27 @@ LEGO® 70009 Legends of Chima - Pojazd bojowy Worriza
 
 **Poniżej w dużym powiększeniu, wydobyte odpowiednim oświetleniem delikatne wgniecenie, normalnie nie rzuca się w oczy.**
 
+**Galeria:**
+
+- 70009-1: https://a.allegroimg.com/original/11d7a3/2e424b7b4db9a4c60895405e7c87
+- 70009-2: https://a.allegroimg.com/original/11052c/fd1f837e4adeb3609cc772cf9113
+
 ---
 
-## 70013 — Lego Chima 70013 Lego Chima 70013 Orzeł Napastnik Equili
+## 70013 — LEGO CHIMA 70013 ORZEŁ NAPASTNIK EQUILI
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702014971981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70013 |
+| Nazwa angielska | Equila's Ultra Striker |
+| Nazwa polska | LEGO CHIMA 70013 ORZEŁ NAPASTNIK EQUILI |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 339 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971981 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -255,21 +401,51 @@ LEGO® 70009 Legends of Chima - Pojazd bojowy Worriza
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70013-1: https://a.allegroimg.com/original/03e18c/59d8feb546a4a51d5033dc7d0f13
+
 ---
 
-## 70100 — Lego Chima 70100 Pierścień ognia
+## 70100 — Pierścień ognia
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702014972056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70100 |
+| Nazwa angielska | Ring of Fire |
+| Nazwa polska | Pierścień ognia |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972056 |
 
 LEGO Chima 70100 Pierścień ognia
  
 Wskocz do LEGO pierścienia ognia przy pomocy Speedora kruka, wystarczy tylko, że pociągniesz linkę. Spróbuj także, ścigać się na rampie. Graj z przyjaciółmi i sprawdzaj swoje możliwości oraz wyczucie czasu w grze LEGO.W zestawie klocków LEGO Chima znajdziemy - figurkę Razara, Speedor kruka, pierścień ognia, rampę, 2 fire szyszki, rip-cord, power-up, 6 i 5 Chi kart, standardową broń Chi. Rywalizuj z przyjaciółmi w pełnej umiejętności grze! Wspaniała zabawa z nowymi zestawami LEGO Chima.
 
+**Galeria:**
+
+- 70100-1: https://a.allegroimg.com/original/110e8f/3de4fada4ebca63d5e5f92205981
+
 ---
 
-## 70105 — Lego 70105 Legends of Chima Gniazdo
+## 70105 — LEGO 70105 Legends of Chima - Gniazdo
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 82.00 zł · EAN: 05702014972209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70105 |
+| Nazwa angielska | Nest Dive |
+| Nazwa polska | LEGO 70105 Legends of Chima - Gniazdo |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972209 |
 
 LEGO 70105 Legends of Chima - Gniazdo
 
@@ -301,11 +477,26 @@ Wspaniała zabawa z klockami LEGO dla 1-2 graczy.
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70105-1: https://a.allegroimg.com/original/11e927/b4c737aa4addb1601bf52b1d5877
+
 ---
 
-## 70106 — Lego 70106 Legends of Chima Lodowa wieża
+## 70106 — LEGO Chima 70106 - Lodowa wieża
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702014972216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70106 |
+| Nazwa angielska | Ice Tower |
+| Nazwa polska | LEGO Chima 70106 - Lodowa wieża |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972216 |
 
 LEGO 70106 Legends of Chima - Lodowa wieża
 
@@ -335,11 +526,26 @@ Ta gra przeznaczona jest dla 1 lub więcej graczy!
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70106-1: https://a.allegroimg.com/original/1165d4/f45e3a5648f584c87ffa462cca58
+
 ---
 
-## 70109 — Lego Chima 70109 Klocki Lego Chima 70109 Wirujące Pnącza
+## 70109 — Klocki LEGO CHIMA 70109 - Wirujące Pnącza
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702014972261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70109 |
+| Nazwa angielska | Whirling Vines |
+| Nazwa polska | Klocki LEGO CHIMA 70109 - Wirujące Pnącza |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972261 |
 
 - **Klocki LEGO CHIMA****WIRUJĄCE PNĄCZA** 
 - **Numer katalogowy: 70109** 
@@ -363,11 +569,26 @@ Ta gra przeznaczona jest dla 1 lub więcej graczy!
 - **Tylko kilku dzielnych bohaterów rozumie prawdziwą naturę Chi i to właśnie nadużycie tej nieposkromionej energii prowadzi do zniszczenia królestwa Chima.** 
 - **Historie bohaterów oraz historie tych którzy chcą ich zniszczyć znane są jako Legendy królestwa Chima.**
 
+**Galeria:**
+
+- 70109-1: https://a.allegroimg.com/original/0314f0/800cb5234e34825d0ebce4f07055
+
 ---
 
-## 70124 — Lego Chima 70124 Legend Beast Ptak Orzeł Eris Broń Topór Tarcza
+## 70124 — Chima
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702015124898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70124 |
+| Nazwa angielska | Eagle Legend Beast |
+| Nazwa polska | Chima |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 19 cm |
+| EAN | 5702015124898 |
 
 LEGO CHIMA 70124 Orzeł
 
@@ -388,11 +609,26 @@ Poleć wraz z Eris nad magicznym królestwem Chima i odwiedź Pustkowia, gdzie s
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 70124-1: https://a.allegroimg.com/original/11f51c/2a8e1b1448e6944c791149bebe66
+
 ---
 
-## 70130 — Lego Legends of Chima 70130 Pajęczy ścigacz Sparratusa Nowe
+## 70130 — bra
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 472.00 zł · EAN: 05702015123853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70130 |
+| Nazwa angielska | Sparratus' Spider Stalker |
+| Nazwa polska | bra |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 20 cm |
+| EAN | 5702015123853 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -414,11 +650,26 @@ Pomóż Gorzanowi uniknąć przerażającego Pajęczego Ścigacza Sparratusa i w
 - Pomóż Gorzanowi odzyskać CHI od złego plemienia pająków
 - Wymiary: 9 cm wysokości, 20 cm długości i 20 cm szerokości
 
+**Galeria:**
+
+- 70130-1: https://a.allegroimg.com/original/11789f/7d8f3622417c8ff26d655b62ffba
+
 ---
 
-## 70132 — Lego Legends of Chima 70132 Żądło Scorma Nowe
+## 70132 — LEGO CHIMA ŻĄDŁO SCORMSA
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015123976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70132 |
+| Nazwa angielska | Scorm's Scorpion Stinger |
+| Nazwa polska | LEGO CHIMA ŻĄDŁO SCORMSA |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 434 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 30 cm |
+| EAN | 5702015123976 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -443,11 +694,26 @@ Scorm, król skorpionów, ukradł trochę energii CHI, a inne plemiona bardzo st
 - Wyciągnij granaty CHI z plecaka Lavala i rzucaj nimi we wroga 
 - Wymiary: 15 cm wysokości, 32 cm długości i30 cm szerokości
 
+**Galeria:**
+
+- 70132-1: https://a.allegroimg.com/original/11e79b/a24cd1a14f3db9a6c5466b19b793
+
 ---
 
-## 70133 — Lego Legends of Chima 70133 Jaskinia Spinlyna Nowe
+## 70133 — Jaskinia Spinlyna
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702015123983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70133 |
+| Nazwa angielska | Spinlyn's Cavern |
+| Nazwa polska | Jaskinia Spinlyna |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 407 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015123983 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -457,11 +723,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Spinlyn, pajęcza królowa, wpełzła ze zdobytym CHI do swojej przerażającej jaskini. Teraz ta wielka sześcionożna pajęczyca wykorzystuje wyciągarkę, by opuszczać się na ziemię i patrolować swoje leże. Wybierz się na terytorium pająków razem z Eris i Rogonem dosiadającym potężnego nosorożcowego motocykla. Strzelaj z katapulty, unikaj sieci i trujących pocisków Spinlyn, aby odzyskać złote CHI. Musisz działać sprawnie, zanim ten potężny pająk wystrzeli z więzienia sieć, która wyrzuci w powietrze Eris, przywódczynię plemienia orłów. Zestaw zawiera 3 minifigurki z bronią: Spinlyn, Rogona i Eris w nowej zbroi.
 
+**Galeria:**
+
+- 70133-1: https://a.allegroimg.com/original/115802/42cf1400429cb5910439130c8b3d
+
 ---
 
-## 70141 — Lego Legends of Chima 70141 Szybowiec lodowy Vardy'ego Nowe
+## 70141 — Lego Legends of Chima Szybowiec lodowy Vardy'ego 70141
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702015124010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70141 |
+| Nazwa angielska | Vardy's Ice Vulture Glider |
+| Nazwa polska | Lego Legends of Chima Szybowiec lodowy Vardy'ego 70141 |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 28 cm × gł. 7 cm |
+| EAN | 5702015124010 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -483,11 +764,26 @@ Zły Vardy ukradł CHI i ucieka w swoim superfajnym szybowcu lodowym! Umieść L
 - Wymiary odczepianej lotni: 7 cm długości, 19 cm szerokości i 3 cm wysokości 
 - Wymiary stanowiska bojowego Lundora: 7 cm wysokości, 9 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 70141-1: https://a.allegroimg.com/original/11b25d/c62349ec42739c4f8ae353725247
+
 ---
 
-## 70142 — Lego Chima 70142 Ognisty pojazd Eris
+## 70142 — Eris' Fire Eagle Flyer
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 649.97 zł · EAN: 05702015249652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70142 |
+| Nazwa angielska | Eris' Fire Eagle Flyer |
+| Nazwa polska | Eris' Fire Eagle Flyer |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm × gł. 30 cm |
+| EAN | 5702015124027, 5702015249652 |
 
 LEGO Chima 70142 - Ognisty pojazd Eris
 
@@ -549,11 +845,27 @@ LEGO® 70142 Legends of Chima - Ognisty pojazd Eris
 
 **Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Ogólny stan zestawu bardzo dobry.**
 
+**Galeria:**
+
+- 70142-1: https://a.allegroimg.com/original/0560ea/9ad4b36f4fdcbfffbed746d1f223
+- 70142-2: https://a.allegroimg.com/original/1109ff/4a257bde4e4a905c29f7cf3e7f70
+
 ---
 
-## 70143 — Lego 70143 Legends of Chima Machina Sir Fangara
+## 70143 — 70143
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702015124034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70143 |
+| Nazwa angielska | Sir Fangar's Sabre-Tooth Walker |
+| Nazwa polska | 70143 |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 415 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124034 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -572,11 +884,26 @@ LEGO® 70142 Legends of Chima - Ognisty pojazd Eris
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70143-1: https://a.allegroimg.com/original/11af76/59718872461aa1008e4bb2508882
+
 ---
 
-## 70144 — Lego Chima 70144 Legends of Chima Ognisty pojazd Lavala
+## 70144 — 70144
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015124041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70144 |
+| Nazwa angielska | Laval's Fire Lion |
+| Nazwa polska | 70144 |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124041 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -600,11 +927,26 @@ LEGO® 70142 Legends of Chima - Ognisty pojazd Eris
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 70144-1: https://2.allegroimg.com/original/06b15d/1643cccf4993b3024355dc938b22
+
 ---
 
-## 70149 — Lego Chima 70149 Ogniste ostrza
+## 70149 — Ogniste ostrza
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015124683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70149 |
+| Nazwa angielska | Scorching Blades |
+| Nazwa polska | Ogniste ostrza |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124683 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -622,11 +964,26 @@ LEGO® 70142 Legends of Chima - Ognisty pojazd Eris
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70149-1: https://a.allegroimg.com/original/11f35d/2fb66cbd4eb6afb06304d32aabd7
+
 ---
 
-## 70151 — Lego 70151 Legends of Chima Lodowe Kolce
+## 70151 — LEGO 70151 Legends of Chima - Lodowe Kolce
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702015124706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70151 |
+| Nazwa angielska | Frozen Spikes |
+| Nazwa polska | LEGO 70151 Legends of Chima - Lodowe Kolce |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124706 |
 
 LEGO 70151 Legends of Chima - Lodowe Kolce
 
@@ -654,11 +1011,26 @@ Wymiary opakowania: 28 cm x 24 cm x 5,5 cm.
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70151-1: https://a.allegroimg.com/original/11ba4d/39f2fdec406b841cf292c82d7252
+
 ---
 
-## 70201 — Lego Chima 70201 Chi Eris
+## 70201 — CHI Eris
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014975309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70201 |
+| Nazwa angielska | CHI Eris |
+| Nazwa polska | CHI Eris |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975309 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -684,21 +1056,51 @@ Wymiary opakowania: 28 cm x 24 cm x 5,5 cm.
 
 LEGO CHI Eris - Rzuć się w wir bitwy z CHI Eris — zwinną przywódczynią plemienia Orłów, przemienioną dzięki mocy CHI w nadzwyczajną budowaną wojowniczkę! Atakuj z powietrza jej wydłużonym toporem, potężnymi szponami, skrzydłami ze złotymi ostrzami i zbroją z kulą CHI. CHI Eris jest mistrzynią strategii — wykorzystaj jej szybkość, zwinność i spryt, by przechytrzyć CHI Worriza i wyleniałe kundle z plemienia Wilków. Zestaw zawiera: - CHI Eris; - Topór; - Orla zbroja; „Królestwo CHIMA — niegdyś nieskażony, naturalny raj — stało się polem bitwy między ośmioma zwierzęcymi plemionami. Od tysiąca lat zwierzęce plemiona rządzą krainą CHIMA. Do niedawna między lwami, krokodylami, orłami, wilkami, gorylami, krukami, nosorożcami i niedźwiedziami panował pokój. Zwierzęta bawiły się i pracowały wspólnie, a współpraca zapewniała im dobrobyt — aż w CHIMIE wybuchł konflikt. Najlepsi przyjaciele są dziś wrogami. Plemiona walczą o surowiec naturalny zwany CHI, potężny żywioł, który może być zarówno źródłem życia, jak i zniszczenia. Tylko nieliczni dzielni bohaterowie w krainie CHIMA rozumieją prawdziwą naturę CHI i wiedzą, że jego niewłaściwe wykorzystanie grozi całkowitym upadkiem królestwa. Ich dzieje, a także losy tych, którzy chcą ich zniszczyć, znane są jako... LEGENDY CHIMA.”; Klocki wykonane z niezwykłą precyzją, co gwarantuje ich wysoką jakość.
 
+**Galeria:**
+
+- 70201-1: https://a.allegroimg.com/original/11d868/9de15fe14904b39951f8f494978d
+
 ---
 
-## 70202 — Lego Chima 70202 Chi GorzanM Unikat 2013 Rok!
+## 70202 — CHI Gorzan
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702014975286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70202 |
+| Nazwa angielska | CHI Gorzan |
+| Nazwa polska | CHI Gorzan |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975286 |
 
 CHI Gorzan 70202
 
 CHI Gorzan - to model klocków z serii Legedny Chima firmy LEGO, przeznaczony do zabawy dla dzieci w wieku 6-12 lat. Gorzan to wojownik plemienia Goryli, które od wieków zamieszkuje królestwo Chimy. Maczuga z kolcami, solidny pancerz, ostre naramienniki oraz ogromna siła to główne atuty tego bohatera. Zadbaj o harmonię w krainie CHI! Nieograniczone możliwości zabawy! Zestaw zawiera: - CHI Gorzan; - Morgensztern; - Goryla zbroja; „Królestwo CHIMA — niegdyś nieskażony, naturalny raj — stało się polem bitwy między ośmioma zwierzęcymi plemionami. Od tysiąca lat zwierzęce plemiona rządzą krainą CHIMA. Do niedawna między lwami, krokodylami, orłami, wilkami, gorylami, krukami, nosorożcami i niedźwiedziami panował pokój. Zwierzęta bawiły się i pracowały wspólnie, a współpraca zapewniała im dobrobyt — aż w CHIMIE wybuchł konflikt. Najlepsi przyjaciele są dziś wrogami. Plemiona walczą o surowiec naturalny zwany CHI, potężny żywioł, który może być zarówno źródłem życia, jak i zniszczenia. Tylko nieliczni dzielni bohaterowie w krainie CHIMA rozumieją prawdziwą naturę CHI i wiedzą, że jego niewłaściwe wykorzystanie grozi całkowitym upadkiem królestwa. Ich dzieje, a także losy tych, którzy chcą ich zniszczyć, znane są jako... LEGENDY CHIMA.”; Klocki wykonane z niezwykłą precyzją, co gwarantuje ich wysoką jakość.
 
+**Galeria:**
+
+- 70202-1: https://a.allegroimg.com/original/11a3ef/92f8deb649109801b99060caf2fa
+
 ---
 
-## 70203 — Lego Legends of Chima 70203 Chi Cragger
+## 70203 — CHI Cragger
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014975279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70203 |
+| Nazwa angielska | CHI Cragger |
+| Nazwa polska | CHI Cragger |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975279 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -717,11 +1119,26 @@ CHI Gorzan - to model klocków z serii Legedny Chima firmy LEGO, przeznaczony do
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70203-1: https://a.allegroimg.com/original/114c16/89068fa843a78cf98c054e90bfd4
+
 ---
 
-## 70204 — Lego Chima 70204 Legends of Chima Chi Worriz Unikat 2013 Rok!
+## 70204 — Legends of Chima CHI Worriz
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014975156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70204 |
+| Nazwa angielska | CHI Worriz |
+| Nazwa polska | Legends of Chima CHI Worriz |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975156 |
 
 LEGO 70204 Legends of Chima - CHI Worriz
  
@@ -738,11 +1155,26 @@ Urządź polowanie na wrogie plemiona z CHI Worrizem! Ten budowany wojownik CHI 
  
 Klocki wykonane z niezwykłą precyzją, co gwarantuje ich wysoką jakość.
 
+**Galeria:**
+
+- 70204-1: https://a.allegroimg.com/original/1196ea/fb954564411fbf0425607439bc64
+
 ---
 
-## 70205 — Lego Chima 70205 Lego Chima 70205 Chi Razar
+## 70205 — LEGO CHIMA 70205 CHI RAZAR
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014975132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70205 |
+| Nazwa angielska | CHI Razar |
+| Nazwa polska | LEGO CHIMA 70205 CHI RAZAR |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975132 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -761,11 +1193,26 @@ Klocki wykonane z niezwykłą precyzją, co gwarantuje ich wysoką jakość.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70205-1: https://a.allegroimg.com/original/110175/accaf5d244beb0eea2fc52b9833d
+
 ---
 
-## 70207 — Lego Chima 70207 Chi Cragger Unikat Nowy 2014 Rok!
+## 70207 — CHI Cragger
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015115179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70207 |
+| Nazwa angielska | CHI Cragger |
+| Nazwa polska | CHI Cragger |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19.5 cm × szer. 7.5 cm |
+| EAN | 5702015115179 |
 
 Zestaw zawiera 58 elementów, aby skonstruować legendarnego krokodyla z królestwa Chima.
 
@@ -779,11 +1226,26 @@ Opakowanie jest zaplombowane fabrycznie
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 70207-1: https://b.allegroimg.com/original/058091/9d5ac7fa415bbc5cd925ac91f42b
+
 ---
 
-## 70210 — Lego Chima 70210 Lego Chima 70210 Chi Vardy
+## 70210 — LEGO CHIMA 70210 CHI VARDY
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015115216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70210 |
+| Nazwa angielska | CHI Vardy |
+| Nazwa polska | LEGO CHIMA 70210 CHI VARDY |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115216 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -802,11 +1264,26 @@ LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70210-1: https://a.allegroimg.com/original/117aed/c118b3954814a55c535ff20015e5
+
 ---
 
-## 70211 — Lego Chima 70211 Chi Fluminox
+## 70211 — CHI Fluminox
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015115223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70211 |
+| Nazwa angielska | CHI Fluminox |
+| Nazwa polska | CHI Fluminox |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115223 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -827,11 +1304,26 @@ LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, 
 
 Dzięki mocy CHI, Fluminox zostaje przemieniony w ognistego wojownika do budowania. Dzięki wielkim ognistym skrzydłom i elastycznym kończynom przywódca plemienia Feniksów jest niezwykle zwinny w trakcie walki. Złota zbroja dodaje mu blasku, a w napierśniku ukryte ma ogniste CHI. Do ataku używa ostrych pazurów i wielkiej płomiennej kuszy. Zestaw przeznaczony dla dzieci w wieku 7+ i zawiera 91 elementów w tym: - Elementy niezbędne do zbudowania Fliminoksa z elastycznymi kończynami, złotą zbroją, CHI w napierśniku, półprzeźroczysty dziób, ; - Ogromna ognista kusza; - Walcz z CHI Sir Fangar zestawu 70212; - Połącz z CHI Laval z zestawu 70206 zgodnie z instrukcją dostępną pod linkiem, aby zbudować jeszcze większą figurkę CHI Fliminox; - Około 22 cm wysokości;
 
+**Galeria:**
+
+- 70211-1: https://a.allegroimg.com/original/051ce0/3341751746ba9c1934b99f5cb855
+
 ---
 
-## 70220 — Lego 70220 Legends of Chima Motocykl Strainora
+## 70220 — LEGO 70220 Legends of Chima - Motocykl Strainora
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702015347822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70220 |
+| Nazwa angielska | Strainor's Saber Cycle |
+| Nazwa polska | LEGO 70220 Legends of Chima - Motocykl Strainora |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347822 |
 
 L**EGO 70220 Legends of Chima - Motocykl Strainora**
 
@@ -881,11 +1373,26 @@ Grupa wiekowa tego produktu to 7+.
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70220-1: https://a.allegroimg.com/original/11d983/d1b038d043fca43ce3e8997d1dfe
+
 ---
 
-## 70221 — Lego Chima 70221 Pojazd Flinxa 70221
+## 70221 — Pojazd Flinxa 70221
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015347815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70221 |
+| Nazwa angielska | Flinx's Ultimate Phoenix |
+| Nazwa polska | Pojazd Flinxa 70221 |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347815 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -903,11 +1410,26 @@ Grupa wiekowa tego produktu to 7+.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70221-1: https://a.allegroimg.com/original/118c2b/573cb54f4c0a86b15be37eca3b8a
+
 ---
 
-## 70222 — Lego Chima 70222 Pojazd Tormaka
+## 70222 — Pojazd Tormaka
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015347808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70222 |
+| Nazwa angielska | Tormak's Shadow Blazer |
+| Nazwa polska | Pojazd Tormaka |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347808 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -944,11 +1466,26 @@ Tormak porwał CHI i wieje swoim Shadow Blazerem, jednak latający Gorzan zobacz
  
 Zestaw LEGO Legends of Chima - Pojazd Tormaka trafił do sprzedaży w 2015 roku. Numer katalogowy tego zestawu to 70222. Zawiera 311 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Legends of Chima - Tormaks Shadow Blazer. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 70222-1: https://a.allegroimg.com/original/11aa6f/69718bc24f35b8e24cc17f5db27d
+
 ---
 
-## 70225 — Lego Chima 70225 Machina Bladvica
+## 70225 — Machina Bladvica
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702015347778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70225 |
+| Nazwa angielska | Bladvic's Rumble Bear |
+| Nazwa polska | Machina Bladvica |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 415 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm |
+| EAN | 5702015347778 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -983,11 +1520,26 @@ Iceklaw ukradł ładunek CHI i ucieka w superszybkich saniach lodowych. Pomaga m
 - Niedźwiedź-mech Bladvica ma ok. 10 cm wysokości, 25 cm długości i 20 cm szerokości w trybie ognistego chi, a ok. 19 cm wysokości, 13 cm długości i 20 cm szerokości w trybie mechamyśliwca. 
 - Sanie lodowe Iceklawa mają ok. 3 cm wysokości, 7 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 70225-1: https://a.allegroimg.com/original/0576d1/43d1658d4a8ea8cb3db12612cd28
+
 ---
 
-## 70226 — Lego Chima 70226 Lodowa forteca plemienia mamutów
+## 70226 — Lodowa forteca plemienia mamutów
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702015347266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70226 |
+| Nazwa angielska | Mammoth's Frozen Stronghold |
+| Nazwa polska | Lodowa forteca plemienia mamutów |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 35 cm × gł. 20 cm |
+| EAN | 5702015347266 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1023,11 +1575,26 @@ Rinona została schwytana przez plemię mamutów. Jest uwięziona w niesamowitej
 - Pojazd z mechanizmem powalającym kłami ma ok. 6 cm wysokości, 9 cm długości i 7 cm szerokości.
 - Nosorożcojazd Rogona ma ok. 7 cm wysokości, 11 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 70226-1: https://a.allegroimg.com/original/11c1a2/010db6804b3599532f1a59fcf8b6
+
 ---
 
-## 70227 — Lego Chima 70227 King Crominus' Rescue
+## 70227 — King Crominus' Rescue
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015347259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70227 |
+| Nazwa angielska | King Crominus' Rescue |
+| Nazwa polska | King Crominus' Rescue |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 863 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347259 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1046,11 +1613,26 @@ Rinona została schwytana przez plemię mamutów. Jest uwięziona w niesamowitej
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70227-1: https://a.allegroimg.com/original/11fefe/f3029bd94b54a59731850338804e
+
 ---
 
-## 70229 — Lego Chima 70229 Plemię lwów
+## 70229 — Plemię lwów
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 258.99 zł · EAN: 05702015347235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70229 |
+| Nazwa angielska | Lion Tribe Pack |
+| Nazwa polska | Plemię lwów |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347235 |
 
 Zestaw zawiera 107 elementów, aby skonstruować zespół kosmiczny w laboratorium testowym.
 
@@ -1058,11 +1640,26 @@ Fabrycznie nowy, oryginalnie zapakowany zestaw Lego 70229.
 
 Do wysyłki będzie bezpiecznie zapakowany w dodatkowy karton.
 
+**Galeria:**
+
+- 70229-1: https://a.allegroimg.com/original/1133fd/04a5d6e147ecbc06e6b5c89fd3cb
+
 ---
 
-## 70231 — Lego Chima 70231 Plemię krokodyli
+## 70231 — Plemię krokodyli
 
-*Kategoria: Pozostałe serie > Chima · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015347211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70231 |
+| Nazwa angielska | Crocodile Tribe Pack |
+| Nazwa polska | Plemię krokodyli |
+| Seria | Pozostałe serie > Chima |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015347211 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1097,6 +1694,10 @@ Zawrzyj sojusz z plemieniem Krokodyli, aby udaremnić niecny plan Sir Fangara, k
 - Wymiary Bagiennej Procy: ok. 3,5 x 3 x 3 cm
 - Wymiary sztandaru Krokodyli: ok. 9 x 3 x 3 cm
 - Wymiary jednej krokodylej stopy: ok. 3,5 x 3 x 2 cm
+
+**Galeria:**
+
+- 70231-1: https://a.allegroimg.com/original/1177b9/8ccfd8a54a15bb8bd591074c9f82
 
 ---
 

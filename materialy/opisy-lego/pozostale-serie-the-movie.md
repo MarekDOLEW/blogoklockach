@@ -1,25 +1,50 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > The Movie — opisy produktowe (43 pozycji)
 
-## 30280 — Lego The Lego Movie 30280 Element oporu Unikat 2014
+## 30280 — Element oporu
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 68.88 zł · EAN: 05702015133050 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30280 |
+| Nazwa angielska | The Piece of Resistance |
+| Nazwa polska | Element oporu |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015133050 |
 
 Klocki LEGO The LEGO Movie 30280 - Element oporu
 
 Zestaw LEGO The LEGO Movie - Element oporu trafił do sprzedaży w 2014 roku. Numer katalogowy tego zestawu to 30280. Zawiera 33 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO The LEGO Movie - The Piece of Resistance. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 30280-1: https://a.allegroimg.com/original/111512/73724281465c8ad7a06d199723d3
+
 ---
 
-## 30282 — Lego Movie Supertajny Oddział Policji 30282 Polybag
+## 30282 — Supertajny Oddział Policji
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 39.75 zł · EAN: 05702015133975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30282 |
+| Nazwa angielska | Super Secret Police Enforcer |
+| Nazwa polska | Supertajny Oddział Policji |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015133975 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -33,11 +58,26 @@ Rok wydania:** 2014**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
+**Galeria:**
+
+- 30282-1: https://a.allegroimg.com/original/117f2f/cba7f2e04e3a954557f58edeee1b
+
 ---
 
-## 30340 — Klocki Lego Movie Serce Podarunek Emmeta Figurka Torba Prezentowa Lego
+## 30340 — Podarunek Emmeta
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 27.97 zł · EAN: 05702016373110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30340 |
+| Nazwa angielska | Emmet's 'Piece' Offering |
+| Nazwa polska | Podarunek Emmeta |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016373110 |
 
 **Witamy w sklepie z zabawkami ToysCompany**
 
@@ -65,11 +105,26 @@ W tym mini - zestawie znajduje się **1 figurka kultowego Emmeta** z dwiema twar
 
 **Prezentacja może zawierać zdjęcia poglądowe. Przedstawiają różne produkty, które nie są przedmiotem sprzedaży.**
 
+**Galeria:**
+
+- 30340-1: https://a.allegroimg.com/original/11b0dc/1aba356d4c8095cba1ca8cc2f5ff
+
 ---
 
-## 30528 — Lego 30528 The Lego Movie 2 Minimistrz Stalowobrody saszetka minifigurka
+## 30528 — Metal Beard
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702016372243 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30528 |
+| Nazwa angielska | Mini Master-Building MetalBeard |
+| Nazwa polska | Metal Beard |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016372243 |
 
 Witam
 
@@ -85,11 +140,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30528-1: https://a.allegroimg.com/original/1177d1/03420201457f92d2147e37a536f9
+
 ---
 
-## 30529 — Lego Movie 2 30529 Mini Master-Building Emmet saszetka minifigurka klocki
+## 30529 — LEGO MOVIE 2 Mini Master-Building EMMET
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016372250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30529 |
+| Nazwa angielska | Mini Master-Building Emmet |
+| Nazwa polska | LEGO MOVIE 2 Mini Master-Building EMMET |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016372250 |
 
 Witam
 
@@ -105,11 +175,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30529-1: https://a.allegroimg.com/original/111c03/82dab8c047caa69f453cff2bb24c
+
 ---
 
-## 30620 — Lego the Movie 30620 Emmet Star-Stuck saszetka klocki minifigurka
+## 30620 — LEGO PRZYGODA 2 MOVIE 30620
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419305679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30620 |
+| Nazwa angielska | Star-Stuck Emmet |
+| Nazwa polska | LEGO PRZYGODA 2 MOVIE 30620 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305679 |
 
 Witam
 
@@ -125,11 +210,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30620-1: https://a.allegroimg.com/original/117f9c/c50a9fa44aa59799b9607e007e92
+
 ---
 
-## 52365 — Lego Movie Staticker Sweet Mayhem. Składanka
+## 52365 — LEGO Movie Staticker Sweet Mayhem 52365
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 9.99 zł · EAN: 04895028523657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52365 |
+| Nazwa angielska | Sweet Mayhem Staticker |
+| Nazwa polska | LEGO Movie Staticker Sweet Mayhem 52365 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523657 |
 
 Lego Movie - Staticker Sweet Mayhem. Składanka
 
@@ -172,11 +272,26 @@ Produkt odpowiedni dla dzieci w wieku od 6 lat
 
 ZADCXEK0000000
 
+**Galeria:**
+
+- 52365-1: https://a.allegroimg.com/original/11a264/97f41b1845848bf7830436a85581
+
 ---
 
-## 52378 — Lego 52378 The Movie 2 Staticker Naklejki Elekrtostatyczne Duplo
+## 52378 — LEGO 52378 THE MOVIE 2 STATICKER NAKLEJKI ELEKRTOSTATYCZNE DUPLO
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 22.99 zł · EAN: 04895028523787 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52378 |
+| Nazwa angielska | Duplo Duck Staticker |
+| Nazwa polska | LEGO 52378 THE MOVIE 2 STATICKER NAKLEJKI ELEKRTOSTATYCZNE DUPLO |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523787 |
 
 **ZESTAW  LEGO STATICKER**
 
@@ -196,11 +311,26 @@ ZADCXEK0000000
 
 **- ZESTAW  LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52378-1: https://6.allegroimg.com/original/0328c1/e64345ca43108359aa82188079a6
+
 ---
 
-## 70800 — Lego The Movie 70800 Ucieczka szybowcem
+## 70800 — Ucieczka szybowcem
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702015121217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70800 |
+| Nazwa angielska | Getaway Glider |
+| Nazwa polska | Ucieczka szybowcem |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm |
+| EAN | 5702015121217 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -230,11 +360,26 @@ Dołącz do zespołu wykonującego bardzo ważną pracę! Pomóż pracownikom po
 - Obejrzyj LEGO® Film, aby zobaczyć ulubione postacie w akcji. 
 - Model ma ok. 11 cm wysokości, 6 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 70800-1: https://a.allegroimg.com/original/115340/f30fa93f4e7191f8c9f5060a8980
+
 ---
 
-## 70801 — Lego The Movie 70801 Sala tortur
+## 70801 — Sala tortur
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702015121224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70801 |
+| Nazwa angielska | Melting Room |
+| Nazwa polska | Sala tortur |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121224 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -258,11 +403,26 @@ Odciągnij i puść, a czarny mistrz wyścigów na pewno zajmie pierwsze miejsce
 
 Wygładzone linie sylwetki czarnego mistrza wyścigów LEGO® mogą oznaczać tylko jedno… prędkość! Odciągnij ten superszybki samochód i puść, a zobaczysz, jak mknie naprzód! Czarno-pomarańczowa kolorystyka zapewnia bardzo atrakcyjny wygląd, a arkusz kalkomanii w kolorze zwiększa liczbę szczegółów. Jeszcze więcej zabawy zapewni połączenie tego modelu z pustynną wyścigówką z zestawu LEGO® Technic 42027 — pozwoli to zbudować ciężarówkę wyścigową z dwoma silnikami odciągowymi!
 
+**Galeria:**
+
+- 70801-1: https://a.allegroimg.com/original/114c7f/068c70b34a1ca69142bc09936c38
+
 ---
 
-## 70804 — Lego The Movie 70804 The Lego Movie Maszyna do lodów
+## 70804 — 70804 The LEGO Movie - Maszyna do lodów
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702015121255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70804 |
+| Nazwa angielska | Ice Cream Machine |
+| Nazwa polska | 70804 The LEGO Movie - Maszyna do lodów |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 20 cm |
+| EAN | 5702015121255 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -310,11 +470,26 @@ Czerwony alarm! Mikro Szef strzela potrójnymi rakietami w przypadkowego biegacz
 
 .
 
+**Galeria:**
+
+- 70804-1: https://a.allegroimg.com/original/11ade0/ae4a8dea420a845d64657f79bdcd
+
 ---
 
-## 70808 — Lego The Movie 70808 Cycle Chase
+## 70808 — Super Cycle Chase
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 670.00 zł · EAN: 05702015122290 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70808 |
+| Nazwa angielska | Super Cycle Chase |
+| Nazwa polska | Super Cycle Chase |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 514 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm × gł. 17 cm |
+| EAN | 5702015122290 |
 
 LEGO The LEGO Movie 70808 – Super Cycle Chase
 
@@ -393,11 +568,26 @@ Dodatkowe akcesoria to m.in.
 
 ✔ Sporo elementów i zabawy dla dzieci i kolekcjonerów
 
+**Galeria:**
+
+- 70808-1: https://a.allegroimg.com/original/0548bb/4354209e4876ab26d8c98e92b7ca
+
 ---
 
-## 70810 — Klocki The Lego Movie Zestaw Statek Okręt Morska Krowa Śiwobrodego 70810
+## 70810 — 70810
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702015122313 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70810 |
+| Nazwa angielska | MetalBeard's Sea Cow |
+| Nazwa polska | 70810 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 2741 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 61 cm × szer. 19 cm |
+| EAN | 5702015122313 |
 
 LEGO THE LEGO MOVIE Morska Krowa Śiwobrodego 7 70810
 
@@ -405,11 +595,26 @@ Statek charakteryzuje się szczegółowym wykonaniem, w tym ruchomymi kotwicami,
 
 Zestaw zawiera również dwa Mikro Menagery: większy z rozkładanymi skrzydłami i ukrytymi pociskami, a mniejszy z miotaczem sieci. Morska Krowa Stalowobrodego mierzy 58 cm długości, 61 cm wysokości (z masztami) i 19 cm szerokości, co czyni ją jednym z największych zestawów z serii "LEGO Przygoda".
 
+**Galeria:**
+
+- 70810-1: https://a.allegroimg.com/original/11e316/ca34469d4470ba46571169d9155d
+
 ---
 
-## 70811 — Lego The Movie 70811 Latająca Armatka Wodna
+## 70811 — Latająca Armatka Wodna
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015122320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70811 |
+| Nazwa angielska | The Flying Flusher |
+| Nazwa polska | Latająca Armatka Wodna |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 19 cm |
+| EAN | 5702015122320 |
 
 Zestaw LEGO 70811 Latająca armatka wodna
  
@@ -428,11 +633,26 @@ Spłucz Mikromenedżera latającą armatką wodną! Popisz się kreatywnością 
 - Furgonetka hydraulików ma ok. 9 cm wysokości, 14 cm długości i 5 cm szerokości. 
 - Mikromenedżer ma ok. 6 cm wysokości, 7 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 70811-1: https://a.allegroimg.com/original/11f8b6/3c34b69d4bcca99592fc49cc7d8f
+
 ---
 
-## 70813 — Lego The Movie 70813 Pojazdy Ratownicze
+## 70813 — Pojazdy Ratownicze
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015122344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70813 |
+| Nazwa angielska | Rescue Reinforcements |
+| Nazwa polska | Pojazdy Ratownicze |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 859 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 34 cm |
+| EAN | 5702015122344 |
 
 Podwójny kłopot! Zaskocz największego Mikro Szefa z lądu i powietrza dzięki mechowi strażackiemu i wiatrakowemu helikopterowi. Zmocz nikczemnego robota z obrotowej armatki wodnej mecha strażackiego. Rozkręć śmigła wiatrakowego helikoptera i poszybuj w niebiosa. Namierz Mikro Szefa z kurzej lornetki i obrzuć go jabłkami oraz marchewkami przez klapę. Zestaw zawiera 5 minifigurek: Strażaka Jaromira, Farmera Heńka, Robota SWAT, Megafankę i Fana Blacktrona.
 
@@ -450,11 +670,26 @@ Podwójny kłopot! Zaskocz największego Mikro Szefa z lądu i powietrza dzięki
 - Wiatrakowy helikopter ma ok. 14 cm wysokości, 18 cm długości i 19 cm szerokości.
 - Mikro Szef ma ok. 15 cm wysokości, 12 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 70813-1: https://a.allegroimg.com/original/1194e9/63d1ef4641828676b4330e334481
+
 ---
 
-## 70814 — Lego The Movie 70814 Lego Movie Emmet's Construct Mech
+## 70814 — Lego Movie Emmet's Construct Mech 70814
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702015122351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70814 |
+| Nazwa angielska | Emmet's Construct-o-Mech |
+| Nazwa polska | Lego Movie Emmet's Construct Mech 70814 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 708 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122351 |
 
 🚧 LEGO 70814 – Emmet’s Construct-o-Mech
 
@@ -536,11 +771,26 @@ Minifigurki są bardzo charakterystyczne i popularne wśród kolekcjonerów LEGO
 - **Rok wydania:** 2014
 - **Status:** Wycofany (retired)
 
+**Galeria:**
+
+- 70814-1: https://a.allegroimg.com/original/05ca8b/51b8cf4a4e83b15b96ebc41d575a
+
 ---
 
-## 70815 — Lego The Movie 70815 statek tajnej policji
+## 70815 — 70815
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015122368 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70815 |
+| Nazwa angielska | Super Secret Police Dropship |
+| Nazwa polska | 70815 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 853 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122368 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -559,19 +809,49 @@ Minifigurki są bardzo charakterystyczne i popularne wśród kolekcjonerów LEGO
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70815-1: https://a.allegroimg.com/original/112dc3/3a387fad499dbcf3432f99a3f83f
+
 ---
 
-## 70816 — Lego The Movie 70816 Kosmiczny Statek Benka Rzadki Egzemplarz! Unikat!
+## 70816 — Kosmiczny Statek Benka
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 1779.99 zł · EAN: 05702015122474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70816 |
+| Nazwa angielska | Benny's Spaceship, Spaceship, SPACESHIP! |
+| Nazwa polska | Kosmiczny Statek Benka |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 940 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122474 |
 
 LEGO 70816 Benny's Spaceship, Spaceship, SPACESHIP! – kultowy zestaw z filmu LEGO Przygoda. Zawiera 940 elementów oraz minifigurki Benny'ego, Robo Emmeta, Space Wyldstyle i Robo Pilota, a także figurkę Astro Kitty. Model statku kosmicznego posiada ruchome skrzydła, otwierany kokpit oraz liczne funkcje i detale inspirowane klasyczną serią LEGO Space. Świetna propozycja zarówno dla kolekcjonerów, jak i fanów budowania oraz kosmicznych przygód.
 
+**Galeria:**
+
+- 70816-1: https://a.allegroimg.com/original/03f219/65d829894277b19c96200858459e
+
 ---
 
-## 70818 — Lego The Movie 70818 Dwupoziomowa kanapa Emetta. Nowy, opis i zdjęcia.
+## 70818 — Dwupoziomowa kanapa Emetta
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015391573 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70818 |
+| Nazwa angielska | Double-Decker Couch |
+| Nazwa polska | Dwupoziomowa kanapa Emetta |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm × gł. 3 cm |
+| EAN | 5702015391573 |
 
 Nowy oryginalny nieotwierany zestaw Lego 70818 Kanapa Emmeta.
 
@@ -590,11 +870,26 @@ Wymiary modeli:
 - dwupoziomowa kanapa ma ok. 8 cm wysokości, 10 cm szerokości i 3 cm głębokości;
 - samochód Emmeta ma ok. 8 cm wysokości, 6 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 70818-1: https://a.allegroimg.com/original/00e72f/e5623f5c4438a83ef568dc8fd6b0
+
 ---
 
-## 70820 — Lego The Movie 70820 Movie Maker
+## 70820 — Movie Maker
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 248.99 zł · EAN: 05702016367928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70820 |
+| Nazwa angielska | Movie Maker |
+| Nazwa polska | Movie Maker |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 482 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 16 cm × gł. 28 cm |
+| EAN | 5702016367928 |
 
 Klocki LEGO The LEGO Movie 2 70820 - LEGO Movie Maker
  
@@ -616,11 +911,26 @@ Nakręć własny film za pomocą zestawu konstrukcyjnego THE LEGO® MOVIE 2™ 7
 - Reksplorer Rexa ma ok. 4 cm wysokości, 7 cm długości i 6 cm szerokości. 
 - Kosmiczny najeźdźca ma ok. 10 cm wysokości.
 
+**Galeria:**
+
+- 70820-1: https://a.allegroimg.com/original/056737/2bd0c08846858ab4241d19caaa97
+
 ---
 
-## 70821 — Lego The Lego Movie 2 70821 Warsztat Emmeta i Benka Klocki Nowe Limitowan
+## 70821 — Warsztat Emmeta i Benka
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 159.31 zł · EAN: 05702016367935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70821 |
+| Nazwa angielska | Emmet and Benny's 'Build and Fix' Workshop! |
+| Nazwa polska | Warsztat Emmeta i Benka |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Liczba elementów | 117 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702016367935 |
 
 LEGO The LEGO Movie 2 70821 - Warsztat Emmeta i Benka
 
@@ -658,11 +968,26 @@ Zestaw zawiera proste instrukcje, które pomogą zacząć budowanie i zabawę, a
 
 - Stacja benzynowa ma ok. 6 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 70821-1: https://a.allegroimg.com/original/1144e5/cd4ab26f45f1ae6f1454b1c2ff83
+
 ---
 
-## 70822 — Lego The Movie 70822 Najlepsi przyjaciele Kici Rożek
+## 70822 — Najlepsi przyjaciele Kici Rożek
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 59.90 zł · EAN: 05702016367942 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70822 |
+| Nazwa angielska | Unikitty's Sweetest Friends EVER! |
+| Nazwa polska | Najlepsi przyjaciele Kici Rożek |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm |
+| EAN | 5702016367942 |
 
 LEGO 70822 Movie 2 Najlepsi Przyjaciele Kici Rożek
  
@@ -690,11 +1015,26 @@ Dzięki temu zestawowi stworzysz legendarny podwieczorek i odegrasz ulubione sce
 - Kategoria wiekowa: 5+ 
 - Ilość elementów: 76
 
+**Galeria:**
+
+- 70822-1: https://f.allegroimg.com/original/007cda/686cc9054c8b9d50b0415b79b2cf
+
 ---
 
-## 70823 — Lego The Lego Movie Trójkołowiec Emmeta 70823
+## 70823 — LEGO THE LEGO MOVIE
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 99.95 zł · EAN: 00673419302227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70823 |
+| Nazwa angielska | Emmet's Thricycle! |
+| Nazwa polska | LEGO THE LEGO MOVIE |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 3 cm |
+| EAN | 5702016367959, 673419302227 |
 
 Rozwiń swoje umiejętności mistrza konstrukcji z zestawem THE LEGO® MOVIE 2™ 70823 Trójkołowiec Emmeta. Ten niesamowity model do zbudowania ma siedzenie dla minifigurki, trzy ułożone pionowo gumowe opony oraz składane podpory stabilizacyjne. W komplecie jest stacja benzynowa z pompą paliwa do zbudowania, funkcją katapulty i miejscem parkingowym dla trójkołowca, a także postacie z filmu LEGO PRZYGODA 2 — minifigurka Emmeta oraz zbudowany z klocków kosmiczny najeźdźca z kłapiącą paszczą i obracającym się okiem cyklopa.
 
@@ -707,11 +1047,27 @@ Rozwiń swoje umiejętności mistrza konstrukcji z zestawem THE LEGO® MOVIE 2�
 - Trójkołowiec Emmeta ma ok. 16 cm wysokości, 7 cm długości i 3 cm szerokości.
 - Stacja benzynowa ma ok. 7 cm wysokości, 11 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 70823-1: https://a.allegroimg.com/original/1174bf/682be79047d19f4b4fbcb45d48fa
+- 70823-2: https://a.allegroimg.com/original/117456/f6200daa4f8aa5b1089cb3322481
+
 ---
 
-## 70824 — Lego The Movie 70824 Królowa Wisimi I'powiewa
+## 70824 — Królowa Wisimi I'powiewa
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 64.95 zł · EAN: 05702016367966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70824 |
+| Nazwa angielska | Introducing Queen Watevra Wa'Nabi |
+| Nazwa polska | Królowa Wisimi I'powiewa |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367966 |
 
 Zestaw LEGO® 70824 “Introducing Queen Watevra Wa’Nabi” z serii The LEGO® Movie 2 wydany w 2019 roku zawiera 115 elementów i 4 minifigurki: Królową Watreverą Wa’Nabi w formie konia, Lucy, Sweet Mayhem, Susan oraz budowalną figurkę Baranara. Zestaw obejmuje Królową Wateverę Wa’Nabi w formie konia z obracającą się platformą, 4 wymienne twarze do przebudowy w formę stosu klocków, oraz postacie Sweet Mayhem i Susan mini-doll przeznaczony dla dzieci od 6 lat.
 
@@ -719,11 +1075,26 @@ Ten zestaw pozwala dzieciom na spotkanie Królowej Watevry Wa’Nabi po raz pier
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 70824-1: https://a.allegroimg.com/original/1194a0/7a38f2274a92b3c24de85634983e
+
 ---
 
-## 70825 — Lego 70825 The Lego Movie 2 Pudełko konstruktora Królowej Wisimi!
+## 70825 — Movie Pudełko konstruktora Królowej Wisimi!
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016368079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70825 |
+| Nazwa angielska | Queen Watevra's Build Whatever Box! |
+| Nazwa polska | Movie Pudełko konstruktora Królowej Wisimi! |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 455 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368079 |
 
 - **Oryginalne, nienaruszone opakowanie**
 
@@ -734,11 +1105,26 @@ Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawi
 
 - **Wymiary elementu dł. x szer. x wys:** 9,5 x 22,2 x 26,2 cm;
 
+**Galeria:**
+
+- 70825-1: https://a.allegroimg.com/original/11fd1e/18f0f38648249644cd988464a6b7
+
 ---
 
-## 70826 — Lego Movie Przygoda 70826 Trex T-rex Dino Dinozaur
+## 70826 — Rex's Rex-treme Offroader!
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016368086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70826 |
+| Nazwa angielska | Rex's Rex-treme Offroader! |
+| Nazwa polska | — |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016368086 |
 
 ZESTAW JEST NOWY I ORYGINALNIE ZAPAKOWANY
 
@@ -790,11 +1176,26 @@ Dinozaur zwiadowczy natomiast ma kłapiące szczęki, ruchome nogi, dwa miotacze
 
 • Dinozaur wykonawczy ma ok. 7 cm wysokości, 13 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 70826-1: https://a.allegroimg.com/original/066794/43fafcef417da9345cf37f3fc749
+
 ---
 
-## 70828 — Lego The Movie 70828 Autobus imprezowy
+## 70828 — Autobus imprezowy
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 247.99 zł · EAN: 05702016368109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70828 |
+| Nazwa angielska | Pop-Up Party Bus |
+| Nazwa polska | Autobus imprezowy |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1024 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 23 cm |
+| EAN | 5702016368109 |
 
 Lego Movie Klocki Autobus Imprezowy
  
@@ -810,11 +1211,26 @@ Dodatkowo dach i boki pojazdu można otworzyć, by łatwiej dostać się do śro
 - Autobus imprezowy ma ok. 24 cm wysokości, 30 cm długości i 23 cm szerokości. 
 - Zeber ma ok. 8 cm wysokośc
 
+**Galeria:**
+
+- 70828-1: https://9.allegroimg.com/original/00890c/f3d749914eef8f5b6881059fae19
+
 ---
 
-## 70829 — Lego Movie 70829 Łazik Emmeta i Lucy Nowe
+## 70829 — Łazik Emmeta i Lucy
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 324.07 zł · EAN: 05702016368116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70829 |
+| Nazwa angielska | Emmet and Lucy's Escape Buggy! |
+| Nazwa polska | Łazik Emmeta i Lucy |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 550 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 13 cm |
+| EAN | 5702016368116 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -836,11 +1252,26 @@ Salwuj się ucieczką w zestawie THE LEGO® MOVIE 2™ 70829 Łazik Emmeta i Luc
 - Łazik ma ok. 15 cm wysokości, 22 cm długości i 13 cm szerokości. 
 - Podstawka do zbudowania ma ok. 8 cm wysokości, 5 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 70829-1: https://a.allegroimg.com/original/1142ce/1b18b5844740a09f308cae6d8d87
+
 ---
 
-## 70830 — Lego 70830 The Lego Movie 2 Gwiezdny statek Słodkiej Zadymy
+## 70830 — Gwiezdny statek Słodkiej Zadymy
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 446.99 zł · EAN: 05702016368123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70830 |
+| Nazwa angielska | Sweet Mayhem's Systar Starship! |
+| Nazwa polska | Gwiezdny statek Słodkiej Zadymy |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 502 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 28 cm |
+| EAN | 5702016368123, 673419302296 |
 
 Klocki LEGO The LEGO Movie 2 70830 - Gwiezdny statek Słodkiej Zadymy
 
@@ -868,11 +1299,27 @@ Gwiezdny statek Słodkiej Zadymy próbuje pochwycić Lucy i Emmeta w zestawie TH
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 70830-1: https://1.allegroimg.com/original/002dba/aceedd884a9ca6b6ab1893a85671
+- 70830-2: https://a.allegroimg.com/original/11855f/1760395047c79fb0e1cd1ba52062
+
 ---
 
-## 70831 — Lego The Movie 70831 Dom Emmeta/Rakieta ratunkowa
+## 70831 — Dom Emmeta/Rakieta ratunkowa
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 609.00 zł · EAN: 05702016368130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70831 |
+| Nazwa angielska | Emmet's Dream House / Rescue Rocket! |
+| Nazwa polska | Dom Emmeta/Rakieta ratunkowa |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 706 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 13 cm × gł. 13 cm |
+| EAN | 5702016368130 |
 
 **Lego 70831 The Movie Dom Emmeta/Rakieta Ratunkowa**
 
@@ -902,11 +1349,26 @@ Barykada ma około 3 cm wysokości, 16 cm szerokości i 6 cm głębokości.
 
 Klocki przeznaczone dla dzieci 8+.
 
+**Galeria:**
+
+- 70831-1: https://a.allegroimg.com/original/11c955/1d012a8449e192f6524156a6760a
+
 ---
 
-## 70833 — Lego Movie 70833 Zestaw Konstrukcyjny Lucy Klocki
+## 70833 — LEGO MOVIE 70833 ZESTAW KONSTRUKCYJNY LUCY KLOCKI
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 123.88 zł · EAN: 05702016368154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70833 |
+| Nazwa angielska | Lucy's Builder Box! |
+| Nazwa polska | LEGO MOVIE 70833 ZESTAW KONSTRUKCYJNY LUCY KLOCKI |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702016368154 |
 
 LEGO MOVIE 70833 ZESTAW KONSTRUKCYJNY LUCY
 
@@ -922,11 +1384,26 @@ LEGO MOVIE 70833 ZESTAW KONSTRUKCYJNY LUCY
 - **Scena do tańca ma** ok. 10 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 - **Spa Kici Rożek ma** ok. 9 cm wysokości, 10 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 70833-1: https://a.allegroimg.com/original/116261/4944571349a5adc6d6cbe51876d1
+
 ---
 
-## 70834 — Lego Movie 2 70834 Trójkołowiec Stalowobrodego
+## 70834 — TRÓJKOŁOWIEC STALOWOBRODEGO
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016368161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70834 |
+| Nazwa angielska | MetalBeard's Heavy Metal Motor Trike! |
+| Nazwa polska | TRÓJKOŁOWIEC STALOWOBRODEGO |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 461 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 19 cm |
+| EAN | 5702016368161 |
 
 LEGO MOVIE 70834 TRÓJKOŁOWIEC STALOWOBRODEGO
 
@@ -941,11 +1418,26 @@ LEGO MOVIE 70834 TRÓJKOŁOWIEC STALOWOBRODEGO
 - **Ten zabawny zestaw konstrukcyjny** pozwoli odtworzyć sceny z filmu LEGO® PRZYGODA 2™.
 - **Model ma** ok. 17 cm wysokości, 31 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 70834-1: https://a.allegroimg.com/original/0160f5/bbec7da04b94a1488a416b1b043e
+
 ---
 
-## 70835 — Lego Movie 2 70835 Rexplorer Rexa
+## 70835 — LEGO
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 476.20 zł · EAN: 05702016368185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70835 |
+| Nazwa angielska | Rex's Rexplorer! |
+| Nazwa polska | LEGO |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368185 |
 
 **PRODUCENT:** LEGO
 
@@ -957,11 +1449,26 @@ Pomóż Rexowi, Emmetowi i raptorom pokonać zwierzliny w kosmicznym zestawie TH
 
 - Zestaw 1187 elementów.
 
+**Galeria:**
+
+- 70835-1: https://a.allegroimg.com/original/03f9c9/ac5f6c054f4aafaa2134daa3390d
+
 ---
 
-## 70836 — Lego The Movie 70836 7768360310
+## 70836 — 7768360310
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 137.99 zł · EAN: 05702016368192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70836 |
+| Nazwa angielska | Battle-Ready Batman and MetalBeard |
+| Nazwa polska | 7768360310 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm × gł. 5 cm |
+| EAN | 5702016368192 |
 
 Klocki Lego Movie Batman i Stalowobrody 70836
 
@@ -1002,11 +1509,26 @@ Ten pełen akcji zestaw składa się z pirata Stalowobrodego z filmu Lego przygo
 
 **Wiek dziecka :  6+**
 
+**Galeria:**
+
+- 70836-1: https://a.allegroimg.com/original/015c20/214169014ca5959ff4d904aa7614
+
 ---
 
-## 70837 — Lego Movie 70837 Błyszczące spa Nowe
+## 70837 — Błyszczące spa
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 206.67 zł · EAN: 05702016368208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70837 |
+| Nazwa angielska | Shimmer & Shine Sparkle Spa! |
+| Nazwa polska | Błyszczące spa |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 694 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 31 cm × gł. 12 cm |
+| EAN | 5702016368208 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1025,11 +1547,26 @@ Z zestawem THE LEGO MOVIE 2™ 70837 Błyszczące spa dzieci mogą wcielić się
 - Dzieci z chęcią pobawią się tym popularnym zestawem umożliwiającym odgrywanie zabawnych scen z filmu LEGO® PRZYGODA 2™. 
 - Zabawkowe spa z filmu LEGO® PRZYGODA 2™ ma ok. 14 cm wysokości, 31 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 70837-1: https://a.allegroimg.com/original/115705/0d1f9f5640b097691c9ae915e9d8
+
 ---
 
-## 70838 — Lego The Lego Movie 2 70838 Pałac Królowej Wisimi
+## 70838 — Pałac Królowej Wisimi
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702016368215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70838 |
+| Nazwa angielska | Queen Watevra's 'So-Not-Evil' Space Palace |
+| Nazwa polska | Pałac Królowej Wisimi |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 997 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 48 cm × szer. 34 cm × gł. 18 cm |
+| EAN | 5702016368215 |
 
 LEGO Pałac Królowej Wisimi 70838
  
@@ -1045,11 +1582,26 @@ W zestawie 70838 Pałac Królowej Wisimi na dzieci czeka mnóstwo kosmicznych pr
 - Ten fantastyczny zestaw konstrukcyjny z pałacem pozwoli dzieciom odtworzyć zabawne sceny z filmu LEGO PRZYGODA 2. 
 - Zabawkowy pałac ma ok. 48 cm wysokości, 34 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 70838-1: https://a.allegroimg.com/original/115fa4/65106100435d90c32e7b4ad9debf
+
 ---
 
-## 70839 — Lego The Movie 2 70839 Rexcelsior Nowe
+## 70839 — Rexcelsior
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 1165.00 zł · EAN: 05702016368222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70839 |
+| Nazwa angielska | The Rexcelsior! |
+| Nazwa polska | Rexcelsior |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1826 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 21 cm |
+| EAN | 5702016368222 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -1068,11 +1620,26 @@ Dzieci z radością zbudują model 70839 Rexcelsior i wcielą się w popularne p
 - Z tym kreatywnym zestawem dzieci mogą odtwarzać nieziemskie sceny z filmu LEGO® PRZYGODA 2™. 
 - Zabawkowy statek kosmiczny LEGO® Rexcelsior ma ok. 19 cm wysokości, 40 cm długości i 21 cm szerokości.
 
+**Galeria:**
+
+- 70839-1: https://a.allegroimg.com/original/1134a2/578008304561bbbc501dde262299
+
 ---
 
-## 70840 — Klocki Lego The Lego Movie 2 Zestaw Witajcie w Apokalipsburgu! 70840
+## 70840 — 70840
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 4198.00 zł · EAN: 05702016368239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70840 |
+| Nazwa angielska | Welcome to Apocalypseburg! |
+| Nazwa polska | 70840 |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 3178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 52 cm × szer. 49 cm × gł. 33 cm |
+| EAN | 5702016368239 |
 
 **LEGO THE LEGO® MOVIE 2™ 70840 Witajcie w Apokalipsburgu!**
 
@@ -1120,11 +1687,26 @@ Ten wspaniały zestaw ze Statuą Wolności pozwoli odtworzyć zabawne sceny z fi
 
 Ten zestaw ze stycznia 2019 r. ma ok. 52 cm wysokości, 49 cm szerokości i 33 cm głębokości.
 
+**Galeria:**
+
+- 70840-1: https://a.allegroimg.com/original/11e85f/d553383d4d5aa98ae48450281bc5
+
 ---
 
-## 70841 — Lego The Lego Movie 2 70841 Kosmiczna drużyna Benka
+## 70841 — Movie
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 149.90 zł · EAN: 05702016395396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70841 |
+| Nazwa angielska | Benny's Space Squad |
+| Nazwa polska | Movie |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016395396, 673419308786 |
 
 LEGO MOVIE 70841 Kosmiczna drużyna Benka.
 
@@ -1144,11 +1726,27 @@ Akcesoria: zbiorniki powietrza i hełmy dla wszystkich minifigurek, krótkofaló
  
 **Elementy 68**
 
+**Galeria:**
+
+- 70841-1: https://a.allegroimg.com/original/00a2d4/ee60e6774395aab57d6dc7ce3e8d
+- 70841-2: https://d.allegroimg.com/original/00a2d4/ee60e6774395aab57d6dc7ce3e8d
+
 ---
 
-## 70849 — Lego Przygoda Movie 70849 Myśliwiec Słodka Żyleta Emmet Statek Kosmiczny
+## 70849 — Myśliwiec Słodka Żyleta
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 499.90 zł · EAN: 05702016604474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70849 |
+| Nazwa angielska | Wyld-Mayhem Star Fighter |
+| Nazwa polska | Myśliwiec Słodka Żyleta |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 405 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 24 cm |
+| EAN | 5702016604474 |
 
 LEGO MOVIE 70849 Myśliwiec Słodka Żyleta
 
@@ -1168,11 +1766,26 @@ Dzieci będą się doskonale bawić, wcielając się w popularne postacie z film
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 70849-1: https://a.allegroimg.com/original/11be5c/c40b79f64371ab4181a6064228c2
+
 ---
 
-## 7952 — nowy Lego 7952 Kingdoms Castle Kalendarz Adwentowy 2010 Misb
+## 7952 — KIndoms Kalendarz Adwentowy
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 699.99 zł · EAN: 05702014603035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7952 |
+| Nazwa angielska | Castle Advent Calendar 2010 (Kingdoms) |
+| Nazwa polska | KIndoms Kalendarz Adwentowy |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603035 |
 
 Cześć!
 
@@ -1190,11 +1803,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 7952-1: https://a.allegroimg.com/original/11eca9/14e4b5d244f9bb95c7963cdb0199
+
 ---
 
-## 853864 — Zestaw akcesoriów Lego The Movie 853864 niemowlę niemowlak bobas
+## 853864 — Sharkira dziecko niemowle niemowlak bobas emet figurka minifigurka
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 116.00 zł · EAN: 00673419305341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853864 |
+| Nazwa angielska | — |
+| Nazwa polska | Sharkira dziecko niemowle niemowlak bobas emet figurka minifigurka |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305341 |
 
 Oferta sprzedaży zestawu akcesoriów LEGO The Movie 853864.
 
@@ -1206,11 +1834,26 @@ Produkt jest fabrycznie zapakowany.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 853864-1: https://a.allegroimg.com/original/1176d0/2539b2ca49fab4796623df4b193f
+
 ---
 
-## 853874 — Lego Kapsuła Emmeta 853874
+## 853874 — LEGO The Movie 853874 Kapsuła Emeta
 
-*Kategoria: Pozostałe serie > The Movie · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419305587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853874 |
+| Nazwa angielska | Emmet's Construction Pod |
+| Nazwa polska | LEGO The Movie 853874 Kapsuła Emeta |
+| Seria | Pozostałe serie > The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305587 |
 
 **LEGO KAPSUŁA EMMETA 853874**
 
@@ -1229,6 +1872,10 @@ Zawiera minifigurkę Emmeta, płytkę konstrukcyjną LEGO przymocowaną do wnęt
 - Spójrz na soczewkowy obraz pod różnymi kątami, aby zobaczyć głowę Emmeta lub logo LEGO® PRZYGODA 2™.
 
 - Mierzy ponad 2 cale (6 cm) wysokości, 2 cale (6 cm) szerokości i 1 cala (3 cm) głębokości.
+
+**Galeria:**
+
+- 853874-1: https://a.allegroimg.com/original/117b04/cd826a99427283aed86e50316994
 
 ---
 

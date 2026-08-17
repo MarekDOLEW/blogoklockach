@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO DREAMZzz — opisy produktowe (42 pozycji)
+# LEGO DREAMZzz — opisy produktowe (41 pozycji)
 
-## 30636 — Saszetka Polybag Lego DREAMZzz 30636 Pajęcza ucieczka Z-Bloba i Bunchu
+## 30636 — LEGO DREAMZzz Pajęcza ucieczka Z-Bloba i Bun 30636
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 7.99 zł · EAN: 05702017421582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30636 |
+| Nazwa angielska | Z-Blob and Bunchu Spider Escape |
+| Nazwa polska | LEGO DREAMZzz Pajęcza ucieczka Z-Bloba i Bun 30636 |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421582 |
 
 LEGO® 30636 DREAMZzz - Pajęcza ucieczka Z-Bloba i Bunchu
  
@@ -32,11 +42,26 @@ Grupa wiekowa tego produktu to 7+.
  
 Chcesz wiedzieć, co by się stało, gdybyśmy mogli kontrolować najśmielsze sny? Zestawy LEGO DREAMZzz pozwalają dzieciom puścić wodze wyobraźni i wreszcie wykorzystać pełen potencjał swoich snów. Te innowacyjne zestawy do budowy są inspirowane postaciami i fabułą popularnego serialu LEGO DREAMZzz. Fabularne instrukcje zachęcają dzieci do działania, dając im dowolność tworzenia fantastycznych stworzeń i pojazdów — jakie tylko sobie wymarzą. Zobacz, jak dzieci bawią się tymi fantastycznymi zabawkami, puszczając wodze kreatywności i przekraczając granice wyobraźni.
 
+**Galeria:**
+
+- 30636-1: https://a.allegroimg.com/original/11ac73/726215c4432493ac5a7c5b9c9101
+
 ---
 
-## 30660 — Lego DREAMZzz 30660 Plecak odrzutowy z dopalaczami Zoey Nowy Polybag
+## 30660 — Plecak odrzutowy z dopalaczami Zoey
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 8.99 zł · EAN: 05702017589961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30660 |
+| Nazwa angielska | Zoey's Dream Jet Pack Booster |
+| Nazwa polska | Plecak odrzutowy z dopalaczami Zoey |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589961, 5702017710648 |
 
 LEGO 30660 DREAMZzz Plecak odrzutowy z dopalaczami Zoey Pajęcza ucieczka Z-Bloba i Bunchu
 
@@ -81,11 +106,27 @@ Produkt **nieodpowiedni dla dzieci poniżej 3 roku życia**. Istnieje ryzyko zad
 - **Zasilanie:** Nie dotyczy 
 - **Bateria w zestawie:** Nie
 
+**Galeria:**
+
+- 30660-1: https://a.allegroimg.com/original/114144/060ec0bd4035bfbdb77d726bc3a0
+- 30660-2: https://a.allegroimg.com/original/11d7de/95adc079453b86a5af2affac8b4d
+
 ---
 
-## 30698 — 30698 Lego DREAMZzz Latający kontroler Coopera minimodel 53 Elementy!!!
+## 30698 — Latający kontroler Coopera - minimodel
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 13.49 zł · EAN: 05702017819389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30698 |
+| Nazwa angielska | Cooper's Flying Controller Mini Build |
+| Nazwa polska | Latający kontroler Coopera - minimodel |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819389 |
 
 LEGO DREAMZzz
  
@@ -110,11 +151,26 @@ Specyfikacja zestawu:
 - **Wiek dziecka: **od 7 lat 
 - **Płeć dziecka: **chłopcy i dziewczynki
 
+**Galeria:**
+
+- 30698-1: https://a.allegroimg.com/original/11c182/2674e7444e06a56b6c553cc59dc3
+
 ---
 
-## 40657 — Zestaw Lego DREAMZzz 40657 Wioska Marzeń
+## 40657 — Klocki LEGO Dreamzzzz 40657 Wioska Marzeń
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702017471273 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40657 |
+| Nazwa angielska | Dream Village |
+| Nazwa polska | Klocki LEGO Dreamzzzz 40657 Wioska Marzeń |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 434 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702017471273 |
 
 ZESTAW LEGO DREAMZzz - 40657 - WIOSKA MARZEŃ
 
@@ -156,11 +212,26 @@ Zestaw LEGO DREAMZzz 40657 to świetny wybór dla dzieci, które lubią budowani
 
 To doskonały zestaw zarówno dla fanów serialu LEGO DREAMZzz, jak i dzieci, które po prostu uwielbiają kolorowe, fantastyczne konstrukcje LEGO. Dzięki odpowiedniemu poziomowi trudności będzie ciekawym wyzwaniem dla dzieci od 7 roku życia, a możliwość przebudowywania wioski sprawia, że zabawa może za każdym razem wyglądać inaczej. Zestaw będzie świetnym prezentem urodzinowym, ale równie dobrze sprawdzi się jako wyjątkowa niespodzianka bez okazji. To prezent, który łączy satysfakcję z budowania, kreatywną zabawę i możliwość tworzenia własnych historii w niezwykłym świecie snów.
 
+**Galeria:**
+
+- 40657-1: https://a.allegroimg.com/original/11c5fb/cccabd9b47638a7c9aef3d513aba
+
 ---
 
-## 71453 — Lego DREAMZzz 71453 Izzie i króliczek Bunchu
+## 71453 — Izzie i króliczek Bunchu
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017125510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71453 |
+| Nazwa angielska | Izzie and Bunchu the Bunny |
+| Nazwa polska | Izzie i króliczek Bunchu |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017125510, 5702017419237 |
 
 LEGO Izzie i króliczek Bunchu 71453
  
@@ -216,11 +287,27 @@ Pomóż Izzie uratować jej pluszowego króliczka Bunchu przed złym Koszmarniki
 
 • Klocki LEGO spełniają rygorystyczne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71453-1: https://a.allegroimg.com/original/11049e/e2dd80ba49dc930b494c783a8127
+- 71453-2: https://a.allegroimg.com/original/11a340/22d72bbf401680a236bc2a8ebd6d
+
 ---
 
-## 71454 — Lego 71454 DREAMZzz Mateo i robot Z-Blob
+## 71454 — Mateo i robot Z-Blob
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 122.98 zł · EAN: 05702017419244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71454 |
+| Nazwa angielska | Mateo and Z-Blob the Robot |
+| Nazwa polska | Mateo i robot Z-Blob |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419244 |
 
 Klocki LEGO DREAMZzz 71454 - Mateo i robot Z-Blob
 
@@ -262,11 +349,26 @@ Zestaw LEGO DREAMZzz - Mateo i robot Z-Blob trafił do sprzedaży w 2023 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 71454-1: https://a.allegroimg.com/original/118c39/0d457ade4b8b9e0463e2818969b0
+
 ---
 
-## 71455 — 71455 Lego DREAMZzz Klatkoszmarnik
+## 71455 — Klatkoszmarnik
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 148.38 zł · EAN: 05702017419251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71455 |
+| Nazwa angielska | Grimkeeper the Cage Monster |
+| Nazwa polska | Klatkoszmarnik |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419251 |
 
 71455 LEGO DREAMZzz KLATKOSZMARNIK
 
@@ -282,11 +384,26 @@ Dwa sposoby na budowanie — dzieci mogą zbudować furgonetkę w trybie imprezo
 
 Wiek:7+
 
+**Galeria:**
+
+- 71455-1: https://a.allegroimg.com/original/118803/032c99e34d7598005822790140f9
+
 ---
 
-## 71456 — Klocki Lego Dreamz 71456 Żółwia furgonetka pani Castillo
+## 71456 — Żółwia furgonetka pani Castillo
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 185.99 zł · EAN: 05702017419268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71456 |
+| Nazwa angielska | Mrs. Castillo's Turtle Van |
+| Nazwa polska | Żółwia furgonetka pani Castillo |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 434 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419268, 5908052720295 |
 
 ⭐71456 - LEGO DREAMZzz - Żółwia Furgonetka Pani Castillo⭐
 
@@ -356,11 +473,27 @@ Ważni pasażerowie
 
 ➡️Przyjazna dla dzieci **instrukcja** krok po kroku ułatwia **budowanie,** a modułowa **konstrukcja** pozwala na łatwe połączenie zestawu z innymi produktami z serii **LEGO** DREAMZzz, **zapewniając** jeszcze więcej możliwości **zabawy.**
 
+**Galeria:**
+
+- 71456-1: https://a.allegroimg.com/original/113955/3dd271314a1e914a336524101e01
+- 71456-2: https://a.allegroimg.com/original/11a990/0c322d374c4da838032146b53d9b
+
 ---
 
-## 71457 — Lego DREAMZzz Latający koń Pegasus 71457
+## 71457 — Latający koń Pegasus
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 166.29 zł · EAN: 05702017419374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71457 |
+| Nazwa angielska | Pegasus Flying Horse |
+| Nazwa polska | Latający koń Pegasus |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 482 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419374 |
 
 LEGO DREAMZzz Latający koń Pegasus 71457
 
@@ -394,11 +527,26 @@ Główne cechy:
 - Wymiary — w największej formie pegaz ma 20 cm wysokości
 - Pomoc na wyciągnięcie ręki — zestaw zawiera instrukcje budowania oparte na fabule serialu
 
+**Galeria:**
+
+- 71457-1: https://a.allegroimg.com/original/115ce3/c716d45f463baccf496c83aac044
+
 ---
 
-## 71460 — Lego 71460 Dreamzzz Kosmiczny autobus pana Oza
+## 71460 — Kosmiczny autobus pana Oza
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017419404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71460 |
+| Nazwa angielska | Mr. Oz's Space Bus |
+| Nazwa polska | Kosmiczny autobus pana Oza |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 878 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419404 |
 
 Lego 71460 Dreamzzz Kosmiczny autobus pana Oza
 
@@ -406,11 +554,26 @@ Pozwól dzieciom w wieku od dziewięciu lat wyruszyć na szaloną przejażdżkę
 
 Fantastyczne minifigurki Szczegółowe minifigurki pana Oza i Mateo ożywią odgrywane przygody. Dzieci mogą umieścić załogę w statku kosmicznym i przygotować się do startu!
 
+**Galeria:**
+
+- 71460-1: https://a.allegroimg.com/original/11b304/704988454e589e213e15b62c7d68
+
 ---
 
-## 71461 — Lego DREAMZzz 71461 Fantastyczny domek na drzewie
+## 71461 — Fantastyczny domek na drzewie
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702017419411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71461 |
+| Nazwa angielska | Fantastical Tree House |
+| Nazwa polska | Fantastyczny domek na drzewie |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 37 cm × gł. 14 cm |
+| EAN | 5702017419411 |
 
 LEGO DREAMZzz fantastyczny domek na drzewie 71461 1257 el.
  
@@ -450,57 +613,26 @@ Model jest wzorowany na magicznym domku na drzewie, w którym spotykają się bo
  
 • Klocki LEGO spełniają rygorystyczne standardy bezpieczeństwa.
 
----
+**Galeria:**
 
-## 71469 — Klocki Lego DREAMZzz Zestaw Koszmarny Rekinokręt 2 w 1 71469
-
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702017419428 · in stock*
-
-LEGO DREAMZzz 71469 Koszmarny Rekinokręt
-
-Dzięki zestawowi LEGO DREAMZzz Statek koszmarnego rekina (71469) dzieci w wieku od 10 lat wkroczą do świata snów. Nocny Łowca schwytał ulubionego pluszaka Izzie i połączył go ze statkiem pirackim, tworząc potworny pojazd, który dzieci mogą teraz zbudować. Jeden pojazd do zbudowania na dwa sposoby Dzieci mogą zbudować pojazd na dwa sposoby — w trybie statku lub w trybie czołgu. Tryb statku ma potężne silniki i żagle, a tryb czołgu ma fajne akcesoria i latające gałki oczne. Dwie opcje budowania zachęcają do kreatywności i zapewniają jeszcze fajniejszą zabawę Ciekawe funkcje Rekini statek jest pełen fajnych funkcji, które zachwycą dzieci. Można otworzyć szczękę i umieścić w niej minifigurkę, nacisnąć przycisk, aby odkryć sekretną skrzynię ze skarbami, zdjąć tylną kabinę i nie tylko. Pojazd jest również wyposażony w wieżyczki po obu stronach, które mogą się obracać i strzelać, a pośrodku znajduje się klatka i zapadnia. Nocny Łowca użył mocy sennych statków, aby schwytać ulubionego pluszaka Izzie i połączyć go ze statkiem pirackim, tworząc w ten sposób przerażający rekini statek zombie! Teraz dzięki temu fantastycznemu zestawowi LEGO DREAMZzz możesz zanurzyć się w świecie snów i zbudować ten przerażający statek. Wybierz tryb statku, aby wyposażyć go w potężne silniki i żagle, lub tryb czołgu, aby dodać fajne akcesoria i latające gałki oczne!
-
-• Dwa sposoby budowania — statek można zbudować w trybie statku lub czołgu, dzięki czemu zestaw rozwija kreatywność i stwarza więcej możliwości zabawy
- 
-• Dwa tryby — tryb statku jest wyposażony w potężne silniki i żagle, a tryb czołgu ma fajne akcesoria i latające gałki oczne
- 
-• Interesujące funkcje — rekini statek ma otwierające się szczęki, ukrytą skrzynię ze skarbami, odczepianą kabinę z tyłu, zapadnię i obrotowe wieżyczki
- 
-• Cztery minifigurki — szczegółowe minifigurki Mateo, Izzie, Novy i Króla Koszmarów urozmaicają zabawę
- 
-• Wiele godzin zabawy — zestaw jest przeznaczony dla dzieci w wieku od 10 lat, które spędzą wiele godzin na zabawie samodzielnie lub z przyjaciółmi
- 
-• Wymiary — statek koszmarnego rekina ma 31 cm wysokości, 60 cm długości i 25 cm szerokości
- 
-• Instrukcje budowania oparte na fabule — zestaw zawiera instrukcje budowania oparte na fabule serialu. Są one również dostępne w wersji cyfrowej w aplikacji LEGO Builder
- 
-• Najwyższa jakość — klocki LEGO są zaprojektowane tak, aby zawsze łatwo się łączyć
- 
-• Zestaw dla dzieci LEGO DREAMZzz Statek koszmarnego rekina
- 
-• Pojazd można zbudować w trybie statku lub czołgu
- 
-• W trybie statku pojazd ma potężne żagle, a w trybie czołgu latające gałki oczne
- 
-• Ciekawe funkcje obejmują otwierające się szczęki i ukrytą skrzynię ze skarbami
- 
-• Zawiera szczegółowe minifigurki Mateo, Izzie, Novy i Króla Koszmarów
- 
-• Ciekawy model dla dzieci w wieku od 10 lat
- 
-• Model ma 31 cm wysokości i 60 cm długości
- 
-• Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania
- 
-• Klocki LEGO są zaprojektowane tak, aby zawsze łatwo się łączyć
- 
-• Klocki LEGO spełniają rygorystyczne standardy bezpieczeństwa.
+- 71461-1: https://a.allegroimg.com/original/0507db/8c334d0244b5946a32111742a769
 
 ---
 
-## 71471 — Lego DREAMZzz 71471 Mateo i jego Suv
+## 71471 — Mateo i jego SUV
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 33.00 zł · EAN: 05702017584195 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71471 |
+| Nazwa angielska | Mateo's Off-Road Car |
+| Nazwa polska | Mateo i jego SUV |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584195 |
 
 LEGO 71471 Terenówka Mateo
  
@@ -524,11 +656,26 @@ Koszmarnik ukradł klepsydrę, więc musisz pomóc Mateo i Z-Blobowi ją odzyska
  
 • W trybie terenówki model ma 5 cm wysokości i 12 cm długości
 
+**Galeria:**
+
+- 71471-1: https://a.allegroimg.com/original/29bdfa/7b52ac6e44d99fbc86da50327c91
+
 ---
 
-## 71472 — Lego DREAMZzz 71472 Balon na ogrzane powietrze Izzie
+## 71472 — Balon na ogrzane powietrze Izzie
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 50.52 zł · EAN: 05702017584201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71472 |
+| Nazwa angielska | Izzie's Narwhal Hot-Air Balloon |
+| Nazwa polska | Balon na ogrzane powietrze Izzie |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 14 cm |
+| EAN | 5702017584201 |
 
 LEGO DREAMZzz 71472 Balon na ogrzane powietrze Izzie
 
@@ -564,11 +711,26 @@ Postacie LEGO® DREAMZzz™
 
 Figurki Bunchu i koszmarnika nakręcają akcję.
 
+**Galeria:**
+
+- 71472-1: https://a.allegroimg.com/original/05cbdb/560c5ce7423e942e488e2ff3b89a
+
 ---
 
-## 71475 — Lego 71475 Kosmiczny Samochód Pana Oza
+## 71475 — Pan Oz i jego kosmiczny samochód
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 119.90 zł · EAN: 05702017584218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71475 |
+| Nazwa angielska | Mr. Oz's Space Car |
+| Nazwa polska | Pan Oz i jego kosmiczny samochód |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702017584218 |
 
 **LEGO DREAMZzz - Kosmiczny samochód pana Oza**
 
@@ -596,11 +758,26 @@ Ilość elementów: 350
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 71475-1: https://a.allegroimg.com/original/112ec2/50b8583d4afda377658867df57eb
+
 ---
 
-## 71476 — Lego DREAMZzz 71476 Zoey i sowokot Zian
+## 71476 — Zoey i kot Zian
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 157.29 zł · EAN: 05702017584225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71476 |
+| Nazwa angielska | Zoey and Zian the Cat-Owl |
+| Nazwa polska | Zoey i kot Zian |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 437 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 21 cm |
+| EAN | 5702017584225 |
 
 LEGO 71476 Zoey i sowokot Zian
  
@@ -626,11 +803,26 @@ Zabawę urozmaicają trzy minifigurki: Zoey, Coopera i Nocnego Łowcy, a także 
  
 • Ten 437-elementowy zestaw ma 20 cm wysokości i 21 cm szerokości
 
+**Galeria:**
+
+- 71476-1: https://a.allegroimg.com/original/29e350/7f5ac9b1447f8284e831d322636d
+
 ---
 
-## 71477 — Klocki Lego DREAMZzz 71477 Wieża Piaskina Sandmana Pająk Ptak
+## 71477 — Wieża Sandmana
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 264.98 zł · EAN: 05702017584232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71477 |
+| Nazwa angielska | The Sandman's Tower |
+| Nazwa polska | Wieża Sandmana |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 723 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584232 |
 
 LEGO 71477 Wieża Piaskina
 
@@ -652,11 +844,26 @@ Zestaw z zamkiem nabiera życia dzięki Izzie, Mateo, Loganowi, Piaskinowi i nik
  
 • Wieża w tym 723-elementowym zestawie ma 47 cm wysokości
 
+**Galeria:**
+
+- 71477-1: https://a.allegroimg.com/original/29d8a1/c560b88141119aa36ca8c64c4544
+
 ---
 
-## 71478 — Lego 71478 Północny Kruk Nigdywiedźmy
+## 71478 — DREAMZzz 71478 Neverwitch i jej nocny kruk
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 399.90 zł · EAN: 05702017584249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71478 |
+| Nazwa angielska | The Never Witch's Midnight Raven |
+| Nazwa polska | DREAMZzz 71478 Neverwitch i jej nocny kruk |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 51 cm × gł. 44 cm |
+| EAN | 5702017584249 |
 
 **LEGO DREAMZzz - Północny kruk Nigdywiedźmy**
 
@@ -684,11 +891,26 @@ Ilość elementów: 1203
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 71478-1: https://a.allegroimg.com/original/11e33b/7722b41a4a3b8d4d8f9889a0123f
+
 ---
 
-## 71479 — Lego Dreamzzz 71479 Koci Motocykl Zoey 7+ Nowy
+## 71479 — DREAMZzz 71479 Zoey i jej koci rower
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 62.00 zł · EAN: 05702017584256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71479 |
+| Nazwa angielska | Zoey's Cat Motorcycle |
+| Nazwa polska | DREAMZzz 71479 Zoey i jej koci rower |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702017584256 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -717,11 +939,26 @@ Ten zestaw to gratka dla dzieci, pobudzająca kreatywność. Zestaw LEGO DREAMZz
 - Instrukcje budowania z fabułą — zestaw zawiera instrukcje budowania z fabułą. Są one również dostępne w wersji cyfrowej w aplikacji LEGO® Builder
 - Wymiary — koci motocykl w tym 226-elementowym zestawie ma 11 cm wysokości, 22 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 71479-1: https://a.allegroimg.com/original/053ef5/c3eea7454532a751aee64ca932f7
+
 ---
 
-## 71480 — Lego DREAMZzz 71480 Mocarna panda Logana
+## 71480 — Mocarna panda Logana
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 94.90 zł · EAN: 05702017584263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71480 |
+| Nazwa angielska | Logan the Mighty Panda |
+| Nazwa polska | Mocarna panda Logana |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 342 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584263 |
 
 LEGO DREAMZzz 71480
 
@@ -734,21 +971,51 @@ STAN KLOCKÓW:  ** NOWY - zamknięty fabrycznie**
 - **pudełko - ****ORYGINALNE LEGO**
 - **zamieszczone zdjęcia przedstawiają sprzedawany przedmiot**
 
+**Galeria:**
+
+- 71480-1: https://a.allegroimg.com/original/1131cb/f0da4e804009854a78dd1567c817
+
 ---
 
-## 71481 — Lego DREAMZzz 71481 Zwierzaki ze snu Izzie
+## 71481 — DREAMZzz 71481 Izzie i jej wymarzone zwierzęta
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 110.83 zł · EAN: 05702017584270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71481 |
+| Nazwa angielska | Izzie's Dream Animals |
+| Nazwa polska | DREAMZzz 71481 Izzie i jej wymarzone zwierzęta |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584270 |
 
 Zwierzaki ze snu Izzie
 
 DREAMZzz™ Zwierzaki ze snu Izzie LEGO® DREAMZzz™ Zwierzaki ze snu Izzie Zabawka DREAMZzz™ Zwierzaki ze snu Izzie 71481 Wyrusz w podróż do Świata Snów z zestawem LEGO® DREAMZzz™ z jajkiem, w którym znajdują się figurki pandy czerwonej, żółwia i ptaka. Pobudź wyobraźnię dzieci zestawem z sennymi zwierzątkami Pobudź wyobraźnię ośmiolatków i starszych dzieci dzięki zestawowi LEGO® DREAMZzz™ Zwierzaki ze snu Izzie (71481). Oferuje on trzy ciekawe sposoby budowania: mali Senni Agenci mogą zmienić jajko w pandę czerwoną, a następnie w ptaka lub żółwia morskiego. Panda czerwona może ścigać kruka na lądzie, fantastyczny ptak może lecieć w ślad za nim po niebie, a mityczny żółw może go gonić pod wodą.Ten zestaw LEGO DREAMZzz urozmaicają dwie minifigurki: bohaterska Izzie i jej mroczna sobowtórka Dizzy, a także figurka Snoludka i mała figurka pandy czerwonej. Zawiera on także instrukcje budowania z fabułą, które pozwalają dzieciom wziąć udział w akcji i cieszyć się nieograniczoną twórczą zabawą. Odwiedź krainę bestii z Izzie i pomóż jej odzyskać wspomnienie skradzione przez jej złą sobowtórkę Dizzy, która lata na grzbiecie kruka Nigdywiedźmy. Odkryj magiczne jajko i pomóż Izzie przekształcić je w fantastyczne stworzenie, które będzie ścigać kruka. Zbuduj pandę czerwoną, która ściga go na lądzie, ptaka, który ściga go w przestworzach, lub żółwia morskiego, który ściga go pod wodą! • Puść wodze fantazji — pobudź kreatywność ośmiolatków i starszych dzieci dzięki magicznemu jajku LEGO® DREAMZzz™ Zwierzaki ze snu Izzie • Zestaw ze zwierzętami — młodzi marzyciele mogą wybrać własną przygodę, przebudowując jajko na trzy ruchome stworzenia: pandę czerwoną, ptaka lub żółwia morskiego • Trzy przygody — panda czerwona goni kruka na lądzie, fantastyczny ptak ściga go na niebie, a mityczny żółw płynie za nim pod wodą • Izzie kontra Dizzy — zestaw konstrukcyjny ożywiają minifigurki Izzie i Dizzy, dzięki czemu dzieci mogą zapoznać się z figurką bohaterki i jej złą sobowtórką • Fantastyczny prezent dla dzieci — ten zestaw będzie świetnym prezentem na urodziny lub święta dla ośmiolatków i starszych dzieci, a także dla fanów serialu LEGO® DREAMZzz™ i miłośników zwierząt • Weź udział w akcji — zestaw zawiera instrukcje budowania z fabułą, które są dostępne także w aplikacji LEGO® Builder, gdzie dzieci mogą obracać modele i śledzić postępy • Świat najśmielszych snów — seria LEGO® DREAMZzz™ pobudza wyobraźnię i pozwala małym Śniącym wybierać własne przygody podczas budowania fantastycznych pojazdów i stworzeń • Wymiary — 328-elementowy zestaw z pandą czerwoną ma 19 cm wysokości • Magiczne jajko dla ośmiolatków i starszych dzieci, inspirowane serialem LEGO® DREAMZzz™ • Mali Senni Agenci mogą zmienić jajko w trzy ruchome zwierzątka • Możliwość zbudowania pandy czerwonej, ptaka lub żółwia morskiego • Minifigurki Izzie i Dizzy ożywiają zestaw • Fajny prezent na urodziny lub święta dla dzieci i fanów serialu LEGO® DREAMZzz™ • Drukowane instrukcje budowania z fabułą są też dostępne w aplikacji LEGO® Builder • Zestawy LEGO® DREAMZzz™ pobudzają najśmielsze sny dzieci do życia • 328-elementowy zestaw z pandą czerwoną ma 19 cm wysokości
 
+**Galeria:**
+
+- 71481-1: https://a.allegroimg.com/original/058db4/61ac8adf4214814638ca870af025
+
 ---
 
-## 71483 — Lego Dreamzzz The Never Witch's Nightmare Creatures 71483
+## 71483 — DREAMZzz 71483 Neverwitch i jej koszmarne stworzenia
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 146.99 zł · EAN: 05702017584287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71483 |
+| Nazwa angielska | The Never Witch's Nightmare Creatures |
+| Nazwa polska | DREAMZzz 71483 Neverwitch i jej koszmarne stworzenia |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 457 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584287 |
 
 Lego Dreamzzz The Never Witch's Nightmare Creatures 71483
 
@@ -764,11 +1031,26 @@ Lego Dreamzzz The Never Witch's Nightmare Creatures 71483
 
 **EAN:** 5702017584287
 
+**Galeria:**
+
+- 71483-1: https://a.allegroimg.com/original/119e6f/4ed7694f4e0f98ce4afee04944a2
+
 ---
 
-## 71484 — Lego DREAMZzz Dinorobot Coopera C-rex 71484
+## 71484 — DREAMZzz 71484 Cooper i jego robot-dinozaur C-rex
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 265.57 zł · EAN: 05702017584294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71484 |
+| Nazwa angielska | Cooper's C-Rex Robot Dinosaur |
+| Nazwa polska | DREAMZzz 71484 Cooper i jego robot-dinozaur C-rex |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 917 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584294 |
 
 Dziewięciolatki i starsze dzieci puszczą wodze fantazji podczas budowania i zabawy zestawem LEGO® DREAMZzz™ Dinorobot Coopera C-Rex (71484). Inspirowany serialem telewizyjnym model umożliwia dzieciom zbudowanie niesamowitego dinozaura na dwa sposoby.
 
@@ -792,11 +1074,26 @@ Zoey i Cooper, ich mroczne sobowtóry, Doey i Dooper, oraz figurka Sneaka ożywi
 
 - Rozmiary — zestaw składa się z 917 elementów, a figurka tyranozaura ma 18 cm wysokości
 
+**Galeria:**
+
+- 71484-1: https://a.allegroimg.com/original/115a83/91924ccc4993b602e43dc6890f70
+
 ---
 
-## 71485 — Lego DREAMZzz Mech-rycerz Mateo I Z-bloba 71485
+## 71485 — DREAMZzz 71485 Mateo i rycerski robot bojowy Z-Blob
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 375.98 zł · EAN: 05702017584300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71485 |
+| Nazwa angielska | Mateo and Z-Blob the Knight Battle Mech |
+| Nazwa polska | DREAMZzz 71485 Mateo i rycerski robot bojowy Z-Blob |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584300 |
 
 MECH-RYCERZ MATEO I Z-BLOBA
 
@@ -814,11 +1111,26 @@ Pomysł na prezent urodzinowy — zestaw do przebudowywania będzie dobrym preze
 
 Instrukcje budowania z fabułą — zestaw zawiera instrukcje budowania z fabułą, dostępne również w wersji cyfrowej w aplikacji LEGO Builder, gdzie można przybliżać i obracać modele w 3D
 
+**Galeria:**
+
+- 71485-1: https://a.allegroimg.com/original/11e07d/e45b8d8a48eabad2cca7d027938b
+
 ---
 
-## 71486 — 71486 Lego DREAMZzz Zamek Nocturnia
+## 71486 — Zamek Nocturnia
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 614.00 zł · EAN: 05702017590370 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71486 |
+| Nazwa angielska | Castle Nocturnia |
+| Nazwa polska | Zamek Nocturnia |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1742 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 41 cm × szer. 31 cm × gł. 31 cm |
+| EAN | 5702017590370 |
 
 Dziewięciolatki i starsze dzieci mogą popisać się kreatywnością, budując zestaw LEGO DREAMZzz Zamek Nocturnia (71486). Inspirowany serialem telewizyjnym zamek można przebudować i stworzyć trzy różne wersje budowli pełnych magicznych detali.
 
@@ -835,11 +1147,26 @@ Zestaw ożywia fajna figurka mantikory i sześć minifigurek: Mateo i Izzie, ich
 - Świat najdzikszych snów — seria LEGO DREAMZzz pobudza wyobraźnię i pozwala małym Śniącym wybierać własne przygody podczas budowania fantastycznych pojazdów i stworzeń
 - Wymiary — zestaw ma 1742 elementy, a zamek mierzy 41 cm wysokości, 31 cm szerokości i 31 cm głębokości
 
+**Galeria:**
+
+- 71486-1: https://a.allegroimg.com/original/119233/8e0b12c84152b6a2130e128f7c60
+
 ---
 
-## 71487 — Klocki Lego Dreamzzz 71487 Przygody Z Bloba Roboty I Pojazdy Figurki +torba
+## 71487 — Przygody Z-Bloba- roboty i pojazdy
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 119.90 zł · EAN: 05702017812120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71487 |
+| Nazwa angielska | Z-Blob's Robot and Vehicle Adventures |
+| Nazwa polska | Przygody Z-Bloba- roboty i pojazdy |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017812120 |
 
 ✅ W KRAINIE SNÓW! LEGO DREAMZzz 71487: 20 SPOSOBÓW NA STWORZENIE PRZYGODY ✅
 
@@ -859,31 +1186,76 @@ Zestaw ożywia fajna figurka mantikory i sześć minifigurek: Mateo i Izzie, ich
 
 ✅ Rozpocznij nieograniczone sny i stwórz 20 niesamowitych maszyn – kup LEGO DREAMZzz 71487 i zdominuj świat robotów i pojazdów już dziś!
 
+**Galeria:**
+
+- 71487-1: https://a.allegroimg.com/original/11c798/b045522341f6ab057960ed753603
+
 ---
 
-## 71488 — Lego Dreamzzz 71488 Kreatywne Zwierzęce Przygody Bunchu
+## 71488 — Kreatywne zwierzęce przygody Bunchu
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 36.87 zł · EAN: 05702017812137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71488 |
+| Nazwa angielska | Bunchu's Creative Animal Adventures |
+| Nazwa polska | Kreatywne zwierzęce przygody Bunchu |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017812137 |
 
 Kreatywne zwierzęce przygody Bunchu
 
 DREAMZzz™ Kreatywne zwierzęce przygody Bunchu LEGO® DREAMZzz™ Kreatywne zwierzęce przygody Bunchu LEGO® DREAMZzz™ Kreatywne zwierzęce przygody Bunchu 71488 Zestaw dla dzieci LEGO® DREAMZzz™ ze zwierzątkiem pozwoli młodym sennym agentom odkryć 20 sposobów na zbudowanie Bunchu. Ten niesamowity króliczek ma ogromny potencjał i pozwala młodym sennym agentom w wieku od siedmiu lat odkryć 20 ekscytujących sposobów na zbudowanie Bunchu.Kreatywność dzieci poszybuje do gwiazd, gdy zbudują uroczą figurkę króliczka Bunchu z ruchomymi nogami, rękami, stopami, ogonem i uszami, a następnie przebudują ją na 19 niesamowitych zwierzątek. Opcje budowania obejmują lwa, żółwia, jelenia, motyla, ważkę i nie tylko! Minifigurka Izzie, która ma nowy strój i pluszaka, ożywia zestaw i zachęca do kreatywnej zabawy w odgrywanie ról oraz wymyślania nowych przygód dla bohaterki LEGO DREAMZzz i jej króliczego pomocnika.Ta zabawka do przebudowywania to świetny prezent dla dzieci i fanów serialu LEGO DREAMZzz. Zawiera instrukcje budowania z fabułą, dzięki czemu młodzi senni agenci mogą zanurzyć się w świecie snów, ciesząc się wieloma godzinami zabawy. Dołącz do Izzie i jej uroczego króliczka Bunchu, by przeżyć nową, ekscytującą przygodę podczas zabawy zestawem konstrukcyjnym LEGO® DREAMZzz™ Kreatywne zwierzęce przygody Bunchu! Daj się ponieść wyobraźni i zbuduj uroczą figurkę Bunchu, a następnie zmień ją w inne zwierzątko. Dzięki 19 opcjom budowania Bunchu może stać się lwem, żółwiem, jeleniem, motylem, ważką i nie tylko!
 
+**Galeria:**
+
+- 71488-1: https://a.allegroimg.com/original/05863f/da0476a24de89c6de5ed3ccf67a1
+
 ---
 
-## 71489 — Lego DREAMZzz 71489 Odrzutowy kontroler Coopera
+## 71489 — Odrzutowy kontroler Coopera
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702017812144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71489 |
+| Nazwa angielska | Cooper's Gaming Controller Jet |
+| Nazwa polska | Odrzutowy kontroler Coopera |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 266 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017812144 |
 
 LEGO DREAMZzz 71489 Odrzutowy kontroler Coopera
 
 DREAMZzz™ Odrzutowy kontroler Coopera LEGO® DREAMZzz™ Odrzutowy kontroler Coopera Prezent LEGO® DREAMZzz™ Odrzutowy kontroler Coopera 71489 Wznieś się na nowe poziomy kreatywności dzięki temu niesamowitemu zestawowi, który pozwoli małym sennym agentom zbudować fajny kontroler do gier. Uwolnij swoją kreatywność i zbuduj kontroler LEGO® Zestaw konstrukcyjny LEGO® DREAMZzz™ Odrzutowy kontroler Coopera (71489) zachęca chłopców i dziewczynki do rozwijania wyobraźni. Ten fantastyczny zestaw, inspirowany serialem, pozwala fanom zbudować zabawkę w kształcie kontrolera, którą można przebudować.Mali senni agenci mogą zbudować główny model w kształcie kontrolera do gier, a następnie przekształcić go w odrzutowiec lub helikopter. Obie opcje są wyposażone w dwa miotacze klocków i otwierany kokpit z miejscem na minifigurkę. Akcję ożywia Cooper z bronią oraz figurka cyberpająka-mózgowca z dwoma przewodami do wsysania pojazdów Coopera.Ten zestaw to wspaniały prezent dla dzieci, graczy i fanów pojazdów. Zawiera instrukcje budowania z fabułą, które pozwalają dzieciom na twórczą zabawę i przeżywanie przygód w towarzystwie Coopera. Pomóż Cooperowi pokonać złego cyberpająka-mózgowca, który psuje jego pojazdy! Dzięki temu zestawowi LEGO® DREAMZzz™ możesz złożyć fajny model w kształcie kontrolera do gier, a następnie przekształcić go w niesamowity odrzutowiec lub helikopter. Oba modele mają miotacze i otwierany kokpit, a także minifigurkę Coopera i figurkę cyberpająka-mózgowca! • Zabawka z elementem gry wideo — zestaw konstrukcyjny dla dzieci LEGO® DREAMZzz™ Odrzutowy kontroler Coopera pozwala chłopcom i dziewczynkom tworzyć zabawki do przebudowywania i przeżywać coraz to nowe przygody • Jeden zestaw, dwie przygody — główny model kontrolera do gier można przekształcić w latający odrzutowiec lub helikopter.
 
+**Galeria:**
+
+- 71489-1: https://a.allegroimg.com/original/052884/7eb0b2004cae85aedc5c5d099ac2
+
 ---
 
-## 71490 — Lego Dreamzzz 71490 Izzie I Gamerski Królik Bunchu 7+
+## 71490 — Izzie i gamerski Bunchu
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702017812151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71490 |
+| Nazwa angielska | Izzie and Bunchurro the Gaming Bunny |
+| Nazwa polska | Izzie i gamerski Bunchu |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702017812151 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -914,21 +1286,51 @@ Zestaw z mechami i pojazdami to świetny prezent dla dzieci i fanów serialu. Za
 - W wirze akcji — zestaw zawiera instrukcje budowania z fabułą, które zachęcają dzieci do zaangażowania się w przygody w świecie snów
 - Wymiary — zestaw zawiera 252 elementy, a model króliczka z deskorolką mierzy 18 cm wysokości, 12 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 71490-1: https://a.allegroimg.com/original/058690/5ddfdd2c4280952731155483dbdf
+
 ---
 
-## 71491 — Zestaw Lego DREAMZzz Samochód wyścigowy Mateo i Z-Bloba
+## 71491 — Samochód wyścigowy Mateo i Z-Bloba
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 157.89 zł · EAN: 05702017812168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71491 |
+| Nazwa angielska | Mateo and the Z-Blob Action Race Car |
+| Nazwa polska | Samochód wyścigowy Mateo i Z-Bloba |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 485 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017812168 |
 
 Samochód wyścigowy Mateo i Z-Bloba
 
 DREAMZzz™ Samochód wyścigowy Mateo i Z-Bloba LEGO® DREAMZzz™ Samochód wyścigowy Mateo i Z-Bloba LEGO® DREAMZzz™ Samochód wyścigowy Mateo i Z-Bloba 71491 Pobudź wyobraźnię dzieci podczas zabawy tym niesamowitym zestawem z pojazdem LEGO®, który pozwala dzieciom zbudować go na dwa sposoby. Twórcza zabawa niesamowitym pojazdem LEGO® Przenieś się do świata snów podczas zabawy zestawem LEGO® DREAMZzz™ Samochód wyścigowy Mateo i Z-Bloba (71491) dla ośmiolatków i starszych dzieci. Inspirowany serialem zestaw sprawi, że dzieci pomogą Mateo i Z-Blobowi uratować snoludka VR przed cyberpająkiem-mózgowcem!Mali senni agenci będą się świetnie bawić, budując główny model, a następnie przebudowując go na wyścigową terenówkę lub superszybki motocykl. Niesamowite szczegóły obejmują zdejmowaną przednią szybę, koła i dwa miotacze z sześcioma pociskami, a także odczepiane moduły, które można przymocować do innych zestawów z serii LEGO DREAMZzz z 2025 roku. Akcję ożywiają minifigurki Mateo i złoczyńcy D-Shocka, a także Z-Blob, cyberpająk-mózgowiec i snoludek VR.Świetny prezent dla dzieci i miłośników pojazdów — ten fantastyczny zestaw zawiera instrukcje budowania z fabułą, które zachęcają młodych sennych agentów do wkroczenia do akcji i dołączenia do Mateo i Z-Bloba podczas ekscytującej przygody. Dołącz do Mateo i Z-Bloba podczas epickiej przygody! Zły cyberpająk-mózgowiec złapał snoludka VR, i tylko Ty możesz pomóc go uratować dzięki temu niesamowitemu zestawowi! Wybierz, czy chcesz stworzyć fajną terenówkę, czy superszybki motocykl! Fajne detale obejmują zdejmowany daszek, koła i dwa miotacze z sześcioma pociskami, a także minifigurki Mateo i D-Shocka!
 
+**Galeria:**
+
+- 71491-1: https://a.allegroimg.com/original/056524/c0818b6641e3b224a54feaef57ba
+
 ---
 
-## 71492 — Klocki Lego DREAMZzz 71492 Ognisty kameleon Mateo 2w1 Minifigurki Zero
+## 71492 — DREAMZzz 71492 Mateo i jego ognisty kameleon
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 144.90 zł · EAN: 05702017818856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71492 |
+| Nazwa angielska | Mateo's Fire Chameleon |
+| Nazwa polska | DREAMZzz 71492 Mateo i jego ognisty kameleon |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 443 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 11 cm |
+| EAN | 5702017818856 |
 
 Klocki Lego DREAMZzz 71492 Ognisty kameleon Mateo 2w1 Minifigurki Zero
 
@@ -958,11 +1360,26 @@ Ten fantastyczny zestaw sprawdzi się doskonale jako prezent urodzinowy lub na i
 - Wymagania wiekowe od 7 lat
 - Liczba elementów: 443
 
+**Galeria:**
+
+- 71492-1: https://a.allegroimg.com/original/114158/5f0dad9e4d51a89533c85060db07
+
 ---
 
-## 71494 — Lego DREAMZzz 71494 Sowa czasu Zoey
+## 71494 — Sowa czasu Zoey
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 109.89 zł · EAN: 05702017818870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71494 |
+| Nazwa angielska | Zoey's Time Owl |
+| Nazwa polska | Sowa czasu Zoey |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818870 |
 
 LEGO 71494 DREAMZzz Sowa czasu Zoey
 
@@ -980,11 +1397,26 @@ Model sowy na prezent — zestaw sprawdzi się jako prezent, a także upominek d
 
 Rozmiary — zestaw składa się z 359 elementów, a figurka sowy ma 15 cm wysokości
 
+**Galeria:**
+
+- 71494-1: https://a.allegroimg.com/original/0522e3/5a66e3c84b6d8565804e99a084b7
+
 ---
 
-## 71495 — Lego DREAMZzz 71495 DREAMZzz 71495 Mateo kontra robot Cyberbrain
+## 71495 — DREAMZzz 71495 Mateo kontra robot Cyberbrain
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 85.89 zł · EAN: 05702017818887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71495 |
+| Nazwa angielska | Mateo vs. Cyber Brain Mech |
+| Nazwa polska | DREAMZzz 71495 Mateo kontra robot Cyberbrain |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818887 |
 
 LEGO DREAMZzz 71495 DREAMZzz 71495 Mateo kontra robot Cyberbrain
 
@@ -1032,11 +1464,26 @@ Ten wspaniały zestaw konstrukcyjny stanowi niesamowity prezent dla chłopców i
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017818887
 
+**Galeria:**
+
+- 71495-1: https://a.allegroimg.com/original/11190f/88fe2fac442496b2049848a7f10d
+
 ---
 
-## 71499 — Lego DREAMZzz Sprayowa ciężarówka Mateo 71499
+## 71499 — DREAMZzz 71499 Pojazd Mateo pomalowany sprayem
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 313.32 zł · EAN: 05702017818900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71499 |
+| Nazwa angielska | Mateo's Spray Paint Truck |
+| Nazwa polska | DREAMZzz 71499 Pojazd Mateo pomalowany sprayem |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 929 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818900 |
 
 **LEGO DREAMZzz Sprayowa ciężarówka Mateo 71499**
 
@@ -1060,11 +1507,26 @@ Sprawdź także inne zestawy konstrukcyjne LEGO® DREAMZzz™ (sprzedawane osobn
 
 Ten 929-elementowy zestaw z ciężarówką ma 42 cm długości
 
+**Galeria:**
+
+- 71499-1: https://a.allegroimg.com/original/1123f1/a8b014a74c1098f0fc38c87940d0
+
 ---
 
-## 71500 — Lego DREAMZzz Koszmarny Rekinokręt podwodny 71500
+## 71500 — DREAMZzz 71500 Nightmare Shark Submarine
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 447.78 zł · EAN: 05702017818917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71500 |
+| Nazwa angielska | Nightmare Shark Submarine |
+| Nazwa polska | DREAMZzz 71500 Nightmare Shark Submarine |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1413 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017818917 |
 
 **LEGO DREAMZzz Koszmarny Rekinokręt podwodny 71500**
 
@@ -1090,11 +1552,26 @@ Sprawdź także inne zestawy konstrukcyjne LEGO® DREAMZzz™ (sprzedawane osobn
 
 Ten 1413-elementowy zestaw ma 25 cm wysokości i 51 cm długości
 
+**Galeria:**
+
+- 71500-1: https://a.allegroimg.com/original/11f21c/5f0773614c9ea57a716c4a035f7c
+
 ---
 
-## 71508 — Lego DREAMZzz Lisi mech-strażnik 71508
+## 71508 — LEGO DREAMZzz Lisi mech-strażnik 71508, zabawka
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702018062944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71508 |
+| Nazwa angielska | Fox Guardian Mech |
+| Nazwa polska | LEGO DREAMZzz Lisi mech-strażnik 71508, zabawka |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm × gł. 20 cm |
+| EAN | 5702018062944 |
 
 LEGO DREAMZzz - Lisi mech-strażnik 71508
 
@@ -1117,11 +1594,26 @@ Rozbudź wyobraźnię dzieci dzięki zestawowi LEGO® DREAMZzz™ Lisi mech-stra
 - Jeszcze więcej kreatywnych zabawek — poszerz twórcze przygody dzięki innym zestawom konstrukcyjnym z kolekcji LEGO® DREAMZzz™ (sprzedawanym osobno), oferującym szeroki wybór zwierząt, mechów i pojazdów
 - Wymiary — 883-elementowa zabawka przedstawiająca zwierzęcego mecha ma po złożeniu jako lisi mech-wojownik 26 cm wysokości, 25 cm szerokości i 20 cm głębokości
 
+**Galeria:**
+
+- 71508-1: https://a.allegroimg.com/original/11931f/266a42d5441fbbc10b3f26421eb1
+
 ---
 
-## 71512 — Lego DREAMZzz Krokodylołódź podwodna 71512
+## 71512 — Zabawka LEGO DREAMZzz Krokodylołódź podwodna 71512
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 224.63 zł · EAN: 05702018063545 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71512 |
+| Nazwa angielska | Crocodile Submarine |
+| Nazwa polska | Zabawka LEGO DREAMZzz Krokodylołódź podwodna 71512 |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063545 |
 
 **LEGO DREAMZzz Krokodylołódź podwodna 71512**
 
@@ -1147,11 +1639,26 @@ Odkryj inne zestawy z serii LEGO® DREAMZzz™ (sprzedawane osobno)
 
 Zestaw zawiera 1107 elementów i ma 42 cm długości w trybie krokodyla
 
+**Galeria:**
+
+- 71512-1: https://a.allegroimg.com/original/118696/52e46c1e4f8fa1c8237bddf09ffa
+
 ---
 
-## 71513 — Lego DREAMZzz Koszmarna skorpionowa koparka 71513
+## 71513 — LEGO DREAMZzz Koszmarna skorpionowa koparka 71513, zabawka
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 146.98 zł · EAN: 05702018063552 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71513 |
+| Nazwa angielska | Nightmare Scorpion Digger |
+| Nazwa polska | LEGO DREAMZzz Koszmarna skorpionowa koparka 71513, zabawka |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 505 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063552 |
 
 **LEGO DREAMZzz Koszmarna skorpionowa koparka 71513**
 
@@ -1177,11 +1684,26 @@ Odkryj inne zestawy z serii LEGO® DREAMZzz™ (sprzedawane osobno)
 
 W trybie skorpionowej koparki zestaw składający się z 505 elementów ma 23 cm szerokości
 
+**Galeria:**
+
+- 71513-1: https://a.allegroimg.com/original/1189e7/fc7ac28240a7969bdc4d74f595e0
+
 ---
 
-## 71514 — Lego DREAMZzz Dinostatek kosmiczny 71514
+## 71514 — Zestaw konstrukcyjny LEGO DREAMZzz Dinostatek kosmiczny 71514
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 307.59 zł · EAN: 05702018063682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71514 |
+| Nazwa angielska | Dino Jet |
+| Nazwa polska | Zestaw konstrukcyjny LEGO DREAMZzz Dinostatek kosmiczny 71514 |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1007 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063682 |
 
 **LEGO DREAMZzz Dinostatek kosmiczny 71514**
 
@@ -1207,11 +1729,26 @@ Odkryj inne zestawy z serii LEGO® DREAMZzz™ (sprzedawane osobno)
 
 Brontozaur w tym 1007-elementowym zestawie ma 23 cm wysokości
 
+**Galeria:**
+
+- 71514-1: https://a.allegroimg.com/original/1148b9/d2764766463cadcd4fee2f30737f
+
 ---
 
-## 71515 — Lego DREAMZzz Rekinoczołg tygrysi 71515
+## 71515 — Zestaw LEGO DREAMZzz Rekinoczołg tygrysi 71515
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702018063699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71515 |
+| Nazwa angielska | Tiger Shark Tank |
+| Nazwa polska | Zestaw LEGO DREAMZzz Rekinoczołg tygrysi 71515 |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1548 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 40 cm |
+| EAN | 5702018063699 |
 
 LEGO DREAMZzz - Rekinoczołg tygrysi 71515
 
@@ -1234,11 +1771,26 @@ Pobudź wyobraźnię dzieci dzięki zestawowi konstrukcyjnemu LEGO® DREAMZzz™
 - Jeszcze więcej kreatywnych zabawek — poszerz twórcze przygody dzięki innym zestawom konstrukcyjnym z kolekcji LEGO® DREAMZzz™ (sprzedawanym osobno), oferującym szeroki wybór zwierząt, mechów i pojazdów
 - Wymiary — po zbudowaniu rekinoczołg w tym 1548-elementowym zestawie ma 18 cm wysokości, 18 cm długości i 40 cm szerokości
 
+**Galeria:**
+
+- 71515-1: https://a.allegroimg.com/original/119192/edaa93ac44b0af34fd6461db6bc7
+
 ---
 
-## 854307 — Lego DREAMZzz 854307 Miecz w kształcie Z-Bloba Mateo
+## 854307 — Miecz w kształcie Z-Bloba Mateo
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 64.00 zł · EAN: 00673419410625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854307 |
+| Nazwa angielska | Mateo's Z-Blob Sword |
+| Nazwa polska | Miecz w kształcie Z-Bloba Mateo |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410625 |
 
 **LEGO 854307 Miecz w kształcie Z-Bloba Mateo**
 
@@ -1258,11 +1810,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 854307-1: https://a.allegroimg.com/original/11069f/aeb65b2645569f06f747ab93a60f
+
 ---
 
-## 854308 — Lego 854308 DREAMZzz Miecz Izzie
+## 854308 — Izzie's Sword
 
-*Kategoria: DREAMZzz · cena Allegro (2026-08-17): 64.98 zł · EAN: 00673419410632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854308 |
+| Nazwa angielska | Izzie's Sword |
+| Nazwa polska | Izzie's Sword |
+| Seria | DREAMZzz |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410632 |
 
 LEGO® 854308 Miecz Izzie
 
@@ -1274,6 +1841,10 @@ Dzieci przeniosą się do świata snów dzięki niesamowitej zabawce dla sześci
 - Kreatywne odgrywanie ról — początkujący senni agenci będą się świetnie bawić, odtwarzając ulubione momenty z LEGO® DREAMZzz™ i wymyślając nowe historie 
 - Pomysł na prezent dla chłopców i dziewczynek — miecz będzie świetnym prezentem dla dzieci, które lubią wcielać się w role 
 - Wymiary — miecz ma 52 cm długości
+
+**Galeria:**
+
+- 854308-1: https://a.allegroimg.com/original/11eb80/19abdbee455eaea610373e48d327
 
 ---
 

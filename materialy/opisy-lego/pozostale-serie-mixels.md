@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Mixels — opisy produktowe (42 pozycji)
 
-## 41520 — Lego Mixels 41520
+## 41520 — LEGO Mixels 41520 Torts
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 53.52 zł · EAN: 05702015122245 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41520 |
+| Nazwa angielska | Torts |
+| Nazwa polska | LEGO Mixels 41520 Torts |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122245 |
 
 LEGO® 41520 TORTS
 
@@ -20,11 +30,26 @@ TORTS ma wielkie nieforemne stopy, które czynią go najwolniejszym członkiem b
 - Dodaj zestaw 41522 SCORPI z serii LEGO® Mixels™, w którym pojawia się postać z plemienia Spikelów, aby stworzyć szalonego wymieszanego Mixela
 - Wysokość 6 cm
 
+**Galeria:**
+
+- 41520-1: https://a.allegroimg.com/original/11b03f/1abdf53d45f1bae3f27f8436dba0
+
 ---
 
-## 41527 — Lego Mixels 41527 Rokit Seria 4 2015 rok
+## 41527 — Rokit
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015356114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41527 |
+| Nazwa angielska | Rokit |
+| Nazwa polska | Rokit |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356114 |
 
 **LEGO zestaw  - polybag**
 
@@ -44,11 +69,26 @@ TORTS ma wielkie nieforemne stopy, które czynią go najwolniejszym członkiem b
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41527-1: https://a.allegroimg.com/original/11bd20/61cbb1374a6e9ac22b2d7bf80098
+
 ---
 
-## 41529 — Lego Mixels 41529 Nurp-Naut Seria 4 2015 rok
+## 41529 — Nurp-Naut
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015356138 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41529 |
+| Nazwa angielska | Nurp-Naut |
+| Nazwa polska | Nurp-Naut |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356138 |
 
 **LEGO zestaw  - polybag**
 
@@ -68,11 +108,26 @@ TORTS ma wielkie nieforemne stopy, które czynią go najwolniejszym członkiem b
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41529-1: https://a.allegroimg.com/original/117968/2b6fb13b49dcad56894d3efec9e3
+
 ---
 
-## 41530 — Lego 41530 Mixels Meltus Seria 4 2015 rok
+## 41530 — 41530
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015356145 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41530 |
+| Nazwa angielska | Meltus |
+| Nazwa polska | 41530 |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356145 |
 
 **LEGO zestaw  - polybag**
 
@@ -92,11 +147,26 @@ TORTS ma wielkie nieforemne stopy, które czynią go najwolniejszym członkiem b
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41530-1: https://a.allegroimg.com/original/058674/f480d35c4615923aeeeeebf0a9f5
+
 ---
 
-## 41533 — Lego Mixels 41533 Globert Seria 4 2015 rok
+## 41533 — LEGO 41533 Mixels Globert
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015356275 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41533 |
+| Nazwa angielska | Globert |
+| Nazwa polska | LEGO 41533 Mixels Globert |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356275 |
 
 **LEGO zestaw  - polybag**
 
@@ -118,11 +188,26 @@ TORTS ma wielkie nieforemne stopy, które czynią go najwolniejszym członkiem b
 
 Zestaw LEGO Mixels - Globert 41533 zawiera 45 klocków LEGO. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 41533-1: https://a.allegroimg.com/original/11cbc6/816ca790441ebef6847c363186c3
+
 ---
 
-## 41536 — Lego Mixels 41536 gox Seria 5 2015 rok
+## 41536 — lego 41536 mixels gox
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015356343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41536 |
+| Nazwa angielska | Gox |
+| Nazwa polska | lego 41536 mixels gox |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356343 |
 
 **LEGO zestaw  - polybag**
 
@@ -142,11 +227,26 @@ Zestaw LEGO Mixels - Globert 41533 zawiera 45 klocków LEGO. Grupa wiekowa tego 
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41536-1: https://a.allegroimg.com/original/11fa6c/a710aa8a47b1b8e90d1aee87c8af
+
 ---
 
-## 41537 — Lego Mixels 41537 Jinky Seria 5 2015 rok
+## 41537 — Mixels Jinky 41537
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015356350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41537 |
+| Nazwa angielska | Jinky |
+| Nazwa polska | Mixels Jinky 41537 |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356350 |
 
 **LEGO zestaw  - polybag**
 
@@ -166,11 +266,26 @@ Zestaw LEGO Mixels - Globert 41533 zawiera 45 klocków LEGO. Grupa wiekowa tego 
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41537-1: https://a.allegroimg.com/original/114470/95ff4ddd42cbadb6ecfa489a71d9
+
 ---
 
-## 41538 — Lego Mixels 41538 kamzo Seria 52015 rok
+## 41538 — 41538
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015356572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41538 |
+| Nazwa angielska | Kamzo |
+| Nazwa polska | 41538 |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356572 |
 
 **LEGO zestaw  - polybag**
 
@@ -190,11 +305,26 @@ Zestaw LEGO Mixels - Globert 41533 zawiera 45 klocków LEGO. Grupa wiekowa tego 
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41538-1: https://a.allegroimg.com/original/11452c/d5fe79b4443c898dc7035f0d54f2
+
 ---
 
-## 41539 — Lego Mixels 41539 Krog Nowe Seria 5 Gdańsk
+## 41539 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015356589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41539 |
+| Nazwa angielska | Krog |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356589 |
 
 **LEGO MIXELS 41539**
 
@@ -219,11 +349,26 @@ Zestaw LEGO 41539 Krog
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41539-1: https://a.allegroimg.com/original/1180cb/74af553a45ab9d34bf94c42d5697
+
 ---
 
-## 41541 — Lego Mixels 41541 Snoof Seria 5 2015 rok
+## 41541 — Snoof
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015356602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41541 |
+| Nazwa angielska | Snoof |
+| Nazwa polska | Snoof |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356602 |
 
 **LEGO zestaw  - polybag**
 
@@ -243,11 +388,26 @@ Zestaw LEGO 41539 Krog
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41541-1: https://a.allegroimg.com/original/117001/dff5ff0f411485858bb8bc014316
+
 ---
 
-## 41542 — Lego Mixels 41542 Spugg Nowe Seria 5 Gdańsk
+## 41542 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702015356619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41542 |
+| Nazwa angielska | Spugg |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356619 |
 
 **LEGO MIXELS 41542**
 
@@ -275,11 +435,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41542-1: https://a.allegroimg.com/original/11ce66/770239d24854888e3fb697e7f6f4
+
 ---
 
-## 41543 — Lego Mixels 41543 Turg Seria 5 2015 rok
+## 41543 — turg
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015356657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41543 |
+| Nazwa angielska | Turg |
+| Nazwa polska | turg |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356657 |
 
 **LEGO zestaw  - polybag**
 
@@ -299,11 +474,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41543-1: https://a.allegroimg.com/original/1144f6/5d22853b4d42a6a7e1de7b2a3029
+
 ---
 
-## 41544 — Lego 41544 Mixels 5 Tungster Seria 5 2015 rok
+## 41544 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015356664 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41544 |
+| Nazwa angielska | Tungster |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356664 |
 
 **LEGO zestaw  - polybag**
 
@@ -323,11 +513,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41544-1: https://a.allegroimg.com/original/118d9d/1b9459714bca826e264664e7bf86
+
 ---
 
-## 41545 — Lego Mixels 41545 Kramm Seria 6 2015 rok
+## 41545 — Kramm
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015356770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41545 |
+| Nazwa angielska | Kramm |
+| Nazwa polska | Kramm |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356770 |
 
 **LEGO zestaw  - polybag**
 
@@ -347,11 +552,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41545-1: https://a.allegroimg.com/original/117333/307ef1164ee8b6b36fd5159155f5
+
 ---
 
-## 41546 — Lego Mixels 41546 mixels forx Seria 6 2015 rok
+## 41546 — mixels forx
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015356787 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41546 |
+| Nazwa angielska | Forx |
+| Nazwa polska | mixels forx |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356787 |
 
 **LEGO zestaw  - polybag**
 
@@ -371,11 +591,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41546-1: https://a.allegroimg.com/original/11e096/9c085f0c4ac48fa975fde4483a76
+
 ---
 
-## 41547 — Lego Mixels 41547 Wuzzo Seria 6 2015 rok
+## 41547 — Wuzzo
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015356794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41547 |
+| Nazwa angielska | Wuzzo |
+| Nazwa polska | Wuzzo |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356794 |
 
 **LEGO zestaw  - polybag**
 
@@ -395,11 +630,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41547-1: https://a.allegroimg.com/original/11c7c8/1a362539476185d42f7e237e961c
+
 ---
 
-## 41548 — Lego Mixels 41548 Dribbal Miksele Seria 6 2015 rok
+## 41548 — Dribbal Miksele 41548
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015356800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41548 |
+| Nazwa angielska | Dribbal |
+| Nazwa polska | Dribbal Miksele 41548 |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356800 |
 
 **LEGO zestaw  - polybag**
 
@@ -419,11 +669,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41548-1: https://a.allegroimg.com/original/03954b/a575b34d42dbb7abe777f45247a5
+
 ---
 
-## 41549 — Lego Mixels 41549 Gurggle Seria 6 2015 rok
+## 41549 — Gurggle
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015356824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41549 |
+| Nazwa angielska | Gurggle |
+| Nazwa polska | Gurggle |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356824 |
 
 **LEGO zestaw  - polybag**
 
@@ -443,11 +708,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41549-1: https://a.allegroimg.com/original/019be3/01e2a288481899c765678c284c3f
+
 ---
 
-## 41550 — Lego Mixels 41550 Slusho Seria 6 2015 rok
+## 41550 — A
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015356831 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41550 |
+| Nazwa angielska | Slusho |
+| Nazwa polska | A |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356831 |
 
 **LEGO zestaw  - polybag**
 
@@ -478,11 +758,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41550-1: https://a.allegroimg.com/original/11d9fc/3c9d429549da91367c47c81d1a3d
+
 ---
 
-## 41551 — Lego Mixels 41551 Snax Seria 6 2015 rok
+## 41551 — Snax
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015356848 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41551 |
+| Nazwa angielska | Snax |
+| Nazwa polska | Snax |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356848 |
 
 **LEGO zestaw  - polybag**
 
@@ -514,11 +809,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41551-1: https://a.allegroimg.com/original/11bc03/67d9876d4632bf32416e55c0bffb
+
 ---
 
-## 41552 — Lego Mixels 41552 Berp Seria 6 2015 Rok
+## 41552 — Berp
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015356855 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41552 |
+| Nazwa angielska | Berp |
+| Nazwa polska | Berp |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356855 |
 
 **LEGO zestaw  - polybag**
 
@@ -538,11 +848,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41552-1: https://a.allegroimg.com/original/05e176/32e195164552855f333141e178bb
+
 ---
 
-## 41553 — Lego Mixels 41553 Vaka Waka Seria 6 2015 rok
+## 41553 — Vaka-Waka
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015356862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41553 |
+| Nazwa angielska | Vaka-Waka |
+| Nazwa polska | Vaka-Waka |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356862 |
 
 **LEGO zestaw  - polybag**
 
@@ -562,11 +887,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41553-1: https://a.allegroimg.com/original/11c0b6/6087432d4cfc9a0e16231d0413e5
+
 ---
 
-## 41554 — Lego Mixels 41554 Kuffs Seria 7 2016rok
+## 41554 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015592048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41554 |
+| Nazwa angielska | Kuffs |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592048 |
 
 **LEGO zestaw  - polybag**
 
@@ -586,11 +926,26 @@ Spugg jest zawsze czujny i wszystkiego ciekawy. Ten członek plemienia Lizersów
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41554-1: https://a.allegroimg.com/original/01dba2/9da1fe3e4695a08f2544b28de191
+
 ---
 
-## 41555 — Lego Mixels 41555 Busto Miksele Seria 7 fabrycznie nowy
+## 41555 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 119.50 zł · EAN: 00673419248785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41555 |
+| Nazwa angielska | Busto |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594080, 673419248785 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -613,11 +968,27 @@ Ten Mixel z plemienia MCPD jest po prostu zbyt miły... wypuszcza więźniów, j
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41555-1: https://a.allegroimg.com/original/1174cc/a50a45e64ab09cd2189aad17c786
+- 41555-2: https://a.allegroimg.com/original/006a1f/4f9e44704a048db1680267370084
+
 ---
 
-## 41556 — Lego Mixels 41556 Tiketz Miksele Seria 7 fabrycznie nowy
+## 41556 — Tiketz
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 149.50 zł · EAN: 00673419248792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41556 |
+| Nazwa angielska | Tiketz |
+| Nazwa polska | Tiketz |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594097, 673419248792 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -641,11 +1012,27 @@ Ten wyjątkowo ruchliwy Mixel właśnie ukończył akademię MCPD i po prostu ni
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41556-1: https://a.allegroimg.com/original/11adce/24845ab4437cb2f4c35cc92fd863
+- 41556-2: https://a.allegroimg.com/original/1103da/b6ea35a742b9baf0f1923ff8af61
+
 ---
 
-## 41557 — Lego 41557 Mixels Camillot Seria 7 2016 rok
+## 41557 — LEGO 41557 Mixels Camillot
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015594103 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41557 |
+| Nazwa angielska | Camillot |
+| Nazwa polska | LEGO 41557 Mixels Camillot |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594103 |
 
 **LEGO zestaw  - polybag**
 
@@ -665,11 +1052,26 @@ LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41557-1: https://a.allegroimg.com/original/11cab0/cf7a975742b4965373cf288d5cb8
+
 ---
 
-## 41558 — Lego Mixels 41558 Mixadel Miksele Seria 7 fabrycznie nowy
+## 41558 — Mixadel 
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.50 zł · EAN: 00673419248815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41558 |
+| Nazwa angielska | Mixadel |
+| Nazwa polska | Mixadel  |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594110, 673419248815 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -693,11 +1095,27 @@ Ten snob z wyższych sfer nie wierzy w miksowanie ze zwykłymi MIXELAMI, woli so
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41558-1: https://a.allegroimg.com/original/11cf1e/a49d3bbf4ee99999943993cb69db
+- 41558-2: https://a.allegroimg.com/original/115e3b/149abbd8468bacae04aade24aeaf
+
 ---
 
-## 41559 — Lego Mixels 41559 Paladum Miksele Seria 7 fabrycznie nowy
+## 41559 — Paladum
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.50 zł · EAN: 00673419248822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41559 |
+| Nazwa angielska | Paladum |
+| Nazwa polska | Paladum |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594127, 673419248822 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -720,11 +1138,26 @@ Ta jednooka kreatura podobna do latającego konia to maskotka Camillota z zestaw
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41559-1: https://a.allegroimg.com/original/11389d/8a881050425f9597aa2118150b3d
+
 ---
 
-## 41560 — Lego Mixels 41560 Jamzy Miksele Seria 7 fabrycznie nowy
+## 41560 — lego mixels jamzy
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419248839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41560 |
+| Nazwa angielska | Jamzy |
+| Nazwa polska | lego mixels jamzy |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594134, 673419248839 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -747,11 +1180,27 @@ Ten Mixel w kształcie kultowego Frendera Mixokastera to urodzony rockman, a jeg
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41560-1: https://a.allegroimg.com/original/11243e/759f1cf14c88a02bda8666875ab8
+- 41560-2: https://a.allegroimg.com/original/11cac0/1e1ba33d4dbfb5ba83618ce20484
+
 ---
 
-## 41561 — Lego 41561 Mixels Tapsy Seria 7 2016 rok
+## 41561 — LEGO 41561 Mixels - Tapsy
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015594141 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41561 |
+| Nazwa angielska | Tapsy |
+| Nazwa polska | LEGO 41561 Mixels - Tapsy |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594141 |
 
 **LEGO zestaw  - polybag**
 
@@ -771,11 +1220,26 @@ LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
 **• Może stanowić uzupełnienie większych zestawów**
 
+**Galeria:**
+
+- 41561-1: https://a.allegroimg.com/original/115b7e/0309115c446ba1c66c3b8b399d19
+
 ---
 
-## 41562 — Lego Mixels 41562 Trumpsy Miksele Seria 7 fabrycznie nowy
+## 41562 — lego mixels trumpsy
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 89.50 zł · EAN: 00673419249454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41562 |
+| Nazwa angielska | Trumpsy |
+| Nazwa polska | lego mixels trumpsy |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594158, 673419249454 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -799,11 +1263,27 @@ Ten muzyczny Mixel z MixOrleanu ma głowę w kształcie trąby i wydęte policzk
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41562-1: https://a.allegroimg.com/original/11e750/298b578041bd83c6f5406c1f3428
+- 41562-2: https://a.allegroimg.com/original/11a9bd/7edbccbb48688109377dd8d6b920
+
 ---
 
-## 41563 — Lego Mixels 41563 Splasho
+## 41563 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 24.90 zł · EAN: 05702015594684 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41563 |
+| Nazwa angielska | Splasho |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594684 |
 
 **LEGO 41563 Mixels Splasho**
  
@@ -818,11 +1298,26 @@ Splasho wygląda jak hydrant i dowodzi plemieniem MCFD. Ma zmrużone oczy, wielk
 - Zestaw odpowiedni dla dzieci w wieku od 6 lat. 
 - Wysokość 11 cm.
 
+**Galeria:**
+
+- 41563-1: https://a.allegroimg.com/original/119d9a/11684c8b4bf7aa93a9d729848799
+
 ---
 
-## 41564 — Lego Mixels 41564 Aquad
+## 41564 — Aquad
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 39.98 zł · EAN: 05702015594691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41564 |
+| Nazwa angielska | Aquad |
+| Nazwa polska | Aquad |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594691 |
 
 Zestaw LEGO 41564 Aquad
  
@@ -840,11 +1335,26 @@ Aquad oto skrzydlaty Mixel z plemienia MCFD, który gasi pożary z powietrza. Ma
 - Zestaw odpowiedni dla dzieci w wieku od 6 lat. 
 - Wysokość ok. 7 cm.
 
+**Galeria:**
+
+- 41564-1: https://a.allegroimg.com/original/11ec41/a80363e8425f86524118de2c7b77
+
 ---
 
-## 41565 — Lego Mixels 41565 Hydro
+## 41565 — Hydro
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 32.88 zł · EAN: 05702015594707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41565 |
+| Nazwa angielska | Hydro |
+| Nazwa polska | Hydro |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594707 |
 
 LEGO Mixels 41565 Hydro
  
@@ -861,11 +1371,26 @@ Dzięki drabiniastej szyi Hydro z plemienia MCFD potrafi sięgnąć dosłownie w
 - Zestaw odpowiedni dla dzieci w wieku od 6 lat. 
 - Wysokość ok. 9 cm.
 
+**Galeria:**
+
+- 41565-1: https://a.allegroimg.com/original/111b09/878981104f20980005c343c28718
+
 ---
 
-## 41566 — Lego 41566 Mixels Sharx
+## 41566 — LEGO 41566 Mixels Sharx
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 44.45 zł · EAN: 05702015594714 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41566 |
+| Nazwa angielska | Sharx |
+| Nazwa polska | LEGO 41566 Mixels Sharx |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594714 |
 
 LEGO 41566 Mixels Sharx
 
@@ -889,11 +1414,26 @@ Sharxowi to kapitan z plemienia Pyrratz. Na scenie jest ostry jak brzytwa! Ten g
 
 - Ilość elementów: 55Wiek: 6+
 
+**Galeria:**
+
+- 41566-1: https://a.allegroimg.com/original/11a0e5/9c84b3754a8b9e4b0033e08c8d75
+
 ---
 
-## 41569 — Lego Mixels 41569 Surgeo Nowe Seria 8 Gdańsk
+## 41569 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702015594745 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41569 |
+| Nazwa angielska | Surgeo |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594745 |
 
 **LEGO MIXELS 41569**
 
@@ -924,11 +1464,26 @@ Przygotuj się do operacji wraz z Surgeo! Ten Mixel to chodząca szafka medyczna
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41569-1: https://a.allegroimg.com/original/119df6/193d1cd747b6924e4c32d8b0123f
+
 ---
 
-## 41570 — Lego Mixels 41570 Skrubz Nowe Seria 8 Gdańsk
+## 41570 — MIXELS
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702015594165 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41570 |
+| Nazwa angielska | Skrubz |
+| Nazwa polska | MIXELS |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594165 |
 
 **LEGO MIXELS 41570**
 
@@ -958,11 +1513,26 @@ Pomóż Skrubzowi, prawdziwej podporze oddziału ratunkowego! Ten Mixel ma wbudo
 
 **18 cm * 13 cm * 3 cm ***
 
+**Galeria:**
+
+- 41570-1: https://a.allegroimg.com/original/118a8b/56115e62497fb15feeda017db6dd
+
 ---
 
-## 41572 — Lego 41572 Mixels Gobbol
+## 41572 — Gobbol
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 99.90 zł · EAN: 05702015595087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41572 |
+| Nazwa angielska | Gobbol |
+| Nazwa polska | Gobbol |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595087, 673419249706 |
 
 Klocki LEGO Mixels 41572 - Gobbol
 
@@ -990,11 +1560,27 @@ Pędź po śmieciarską rozrywkę z Gobbolem! Ten członek plemienia Trashoz ma 
 
 - Wysokość ok. 6 cm.
 
+**Galeria:**
+
+- 41572-1: https://a.allegroimg.com/original/006e70/0f2098f54ae8b80991ee775c5ed8
+- 41572-2: https://a.allegroimg.com/original/114b3c/b7b962664f59a64d41312abb7ab4
+
 ---
 
-## 41574 — Lego 41574 Mixels 9 Compax
+## 41574 — LEGO 41574 Mixels 9 Compax
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 89.81 zł · EAN: 05702015595100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41574 |
+| Nazwa angielska | Compax |
+| Nazwa polska | LEGO 41574 Mixels 9 Compax |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595100 |
 
 LEGO 41574 Mixels 9 Compax
 
@@ -1018,11 +1604,26 @@ Compax dzielnie przegryza się przez śmieci, które zalegają na ulicach Mixopo
 
 - Ilość elementów: 66Wiek: 6+
 
+**Galeria:**
+
+- 41574-1: https://a.allegroimg.com/original/11f619/9b5823744dbe90a8715053b8004a
+
 ---
 
-## 41578 — Lego 41578 Mixels 9 Screeno
+## 41578 — LEGO 41578 Mixels 9 Screeno
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 74.90 zł · EAN: 05702015595148 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41578 |
+| Nazwa angielska | Screeno |
+| Nazwa polska | LEGO 41578 Mixels 9 Screeno |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595148 |
 
 LEGO 41578 Mixels 9 Screeno
 
@@ -1046,11 +1647,26 @@ Telewizyjny reporter Screeno wywęszy każdy gorący temat! Ten ubrany w garnitu
 
 - Wiek: 6+Ilość elementów: 73
 
+**Galeria:**
+
+- 41578-1: https://a.allegroimg.com/original/11af75/249191194df98bd9d987d5eb4f37
+
 ---
 
-## 41579 — Lego 41579 Mixels 9 Camsta
+## 41579 — LEGO 41579 Mixels 9 Camsta
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 89.81 zł · EAN: 05702015595155 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41579 |
+| Nazwa angielska | Camsta |
+| Nazwa polska | LEGO 41579 Mixels 9 Camsta |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595155 |
 
 LEGO 41579 Mixels 9 Camsta
 
@@ -1072,11 +1688,26 @@ Leć po najnowsze wiadomości z helireporterem Camstą! Ten członek plemienia N
 
 - Ilość elementów: 62Wiek: 6+
 
+**Galeria:**
+
+- 41579-1: https://a.allegroimg.com/original/1174f2/f128ddf1427db5b61def6a9b2b1a
+
 ---
 
-## 41580 — Lego 41580 Mixels 9 Myke
+## 41580 — Myke
 
-*Kategoria: Pozostałe serie > Mixels · cena Allegro (2026-08-17): 71.67 zł · EAN: 05702015595162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41580 |
+| Nazwa angielska | Myke |
+| Nazwa polska | Myke |
+| Seria | Pozostałe serie > Mixels |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595162 |
 
 LEGO 41580 Mixels 9 Myke
 
@@ -1101,6 +1732,10 @@ Urządź zabawę w nagrywanie programów telewizyjnych z Myke'iem — ten Mixel 
 - Ilość elementów: 63
 
 - Wiek: 6+
+
+**Galeria:**
+
+- 41580-1: https://a.allegroimg.com/original/01acdc/74d70f534ee98edaa457c9d3dc7d
 
 ---
 

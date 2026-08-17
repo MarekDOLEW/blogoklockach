@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > DC Super Hero Girls — opisy produktowe (6 pozycji)
 
-## 41230 — Lego 41230 DC Hero Girls Batgirl i Pościg Batjetem
+## 41230 — Batgirl i pościg Batjetem
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015814270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41230 |
+| Nazwa angielska | Batgirl Batjet Chase |
+| Nazwa polska | Batgirl i pościg Batjetem |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015814270 |
 
 LEGO 41230 DC Super Hero Girls | Batgirl i Pościg Batjetem.
 
@@ -17,11 +27,26 @@ Wskocz prosto do pełnego akcji świata LEGO® DC Super Hero Girls™, by razem 
 
 Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
+**Galeria:**
+
+- 41230-1: https://a.allegroimg.com/original/1133f7/d4e3367d4bdd97db01280fda8955
+
 ---
 
-## 41231 — Klocki Lego Harley Quinn Na Ratunek 41231 DC Hero Girls
+## 41231 — HARLEY QUINN NA RATUNEK
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015814287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41231 |
+| Nazwa angielska | Harley Quinn To The Rescue |
+| Nazwa polska | HARLEY QUINN NA RATUNEK |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm × gł. 7 cm |
+| EAN | 5702015814287 |
 
 Na sprzedaż** KLOCKI LEGO HARLEY QUINN NA RATUNEK 41231 DC SUPER HERO GIRLS**
 
@@ -66,11 +91,26 @@ Pomocy! Zieloni Kryptomici uwielbiają rozrabiać. Tym razem włamali się do ka
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 41231-1: https://a.allegroimg.com/original/112d29/324559154e75b7f5dc128966a110
+
 ---
 
-## 41232 — Lego DC Hero Girls 41232 Szkoła superbohaterek
+## 41232 — Szkoła superbohaterek
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 650.00 zł · EAN: 05702015814294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41232 |
+| Nazwa angielska | Super Hero High School |
+| Nazwa polska | Szkoła superbohaterek |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 712 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 33 cm × gł. 10 cm |
+| EAN | 5702015814294 |
 
 Klocki LEGO DC Super Hero Girls 41232 - Szkoła superbohaterek
 
@@ -94,11 +134,26 @@ Wskocz prosto do pełnego akcji świata LEGO® DC Super Hero Girls™, gdzie Sup
 - Wymiary motocykla Trującego Bluszczu: ok. 3 cm wysokości, 8 cm długości i 3 cm szerokości.
 - Wymiary odrzutowca Leny: ok. 6 cm wysokości, 15 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 41232-1: https://a.allegroimg.com/original/052af1/d13245874c549873e9153d64c7a8
+
 ---
 
-## 41233 — Klocki Lego Lashina i jej pojazd 145 elementów 7 lat+
+## 41233 — LEGO SUPER HERO 41233 LASHINA I JEJ POJAZD PREZENT
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 59.90 zł · EAN: 05702015865500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41233 |
+| Nazwa angielska | Lashina Tank |
+| Nazwa polska | LEGO SUPER HERO 41233 LASHINA I JEJ POJAZD PREZENT |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015865500 |
 
 Lego DC Super Hero Girl 41233 Lashina i Jej pojazd
 
@@ -137,11 +192,26 @@ Lashina i Jej pojazd
 
 **Wiek dziecka : 7 +**
 
+**Galeria:**
+
+- 41233-1: https://a.allegroimg.com/original/005f3a/83638ff84fa9ba7c3daca9ea1b3b
+
 ---
 
-## 41234 — Klocki Lego DC Hero Girls Helikopter Bumblebee 41234
+## 41234 — Helikopter Bumblebee
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 134.32 zł · EAN: 05702015865517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41234 |
+| Nazwa angielska | Bumblebee Helicopter |
+| Nazwa polska | Helikopter Bumblebee |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm |
+| EAN | 5702015865517, 673419265256 |
 
 KLOCKI LEGO DC SUPER HERO GIRLS - HELIKOPTER BUMBLEBLEE 41234
 
@@ -163,11 +233,27 @@ Zawiera mały miotacz klocków dla Kryptomitów. W zestawie akcesoria: cztery kl
  
 **Zestaw odpowiedni dla dzieci w wieku 7-12 lat.**
 
+**Galeria:**
+
+- 41234-1: https://a.allegroimg.com/original/11e5f9/0d600ea643b28a8f17cefeb82219
+- 41234-2: https://a.allegroimg.com/original/0099a9/e20d50c844ef894303b2c59d59ba
+
 ---
 
-## 41236 — 41236 Lego DC Hero Girls Harley Quinn Batman Misb 2017 Opis
+## 41236 — LEGO Jurassic World Pościg za pteranodonem 75926
 
-*Kategoria: Pozostałe serie > DC Super Hero Girls · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702015867696 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41236 |
+| Nazwa angielska | Harley Quinn Dorm |
+| Nazwa polska | LEGO Jurassic World Pościg za pteranodonem 75926 |
+| Seria | Pozostałe serie > DC Super Hero Girls |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702015867696 |
 
 LEGO Sypialnia Harley Quinn 41236
  
@@ -190,6 +276,10 @@ Dołącz do emocjonującego świata LEGO DC Super Hero Girls — pomóż Harley 
 - Hulajnoga ma ok. 4 cm wysokości, 3 cm długości i 1 cm szerokości. 
 
 UWAGA: Kartonik ma delikatne zagięcia w narożnikach pudełka, ale jest oryginalnie zamknięty.
+
+**Galeria:**
+
+- 41236-1: https://a.allegroimg.com/original/0049fc/d5e437424ee4ba0cdd55a8e90cd2
 
 ---
 

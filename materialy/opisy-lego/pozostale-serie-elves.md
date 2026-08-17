@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Elves — opisy produktowe (29 pozycji)
 
-## 30375 — Lego Elves Minifigure Polybag 30375
+## 30375 — Elves Sira's Adventurous Airglider
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 37.00 zł · EAN: 05702015608527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30375 |
+| Nazwa angielska | Sira's Adventurous Airglider |
+| Nazwa polska | Elves Sira's Adventurous Airglider |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608527 |
 
 **LEGO zestaw  - polybag**
 
@@ -35,11 +45,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30375-1: https://a.allegroimg.com/original/11b37d/fc37bb1b47af996aac345bc74f8c
+
 ---
 
-## 41073 — Lego 41073 Elves Statek Naidy
+## 41073 — Statek Naidy
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015352765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41073 |
+| Nazwa angielska | Naida's Epic Adventure Ship |
+| Nazwa polska | Statek Naidy |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352765 |
 
 Oryginalne, nieotwierane opakowanie,
 
@@ -55,11 +80,26 @@ Numer magazynowy sprzedawcy: 20260266
 
 Przybliżone wymiary opakowania: **28,2 x 5,9 x 26,2 cm**
 
+**Galeria:**
+
+- 41073-1: https://a.allegroimg.com/original/112b34/39c451b343f5b0509cb4975fa622
+
 ---
 
-## 41074 — Lego Elves 41074 Azari i magiczna piekarnia Nowe
+## 41074 — Klocki LEGO Elves Azari i magiczna piekarnia 41074
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 527.00 zł · EAN: 05702015352772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41074 |
+| Nazwa angielska | Azari and the Magical Bakery |
+| Nazwa polska | Klocki LEGO Elves Azari i magiczna piekarnia 41074 |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 324 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702015352772 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -78,11 +118,26 @@ Pomóż elfce ognia — Azari Firedancer, znaleźć klucz ognia w bardzo nietypo
 - Wymiary magicznej piekarni: 14 cm wysokości, 17 cm szerokości i 12 cm głębokości
 - Zbierz wszystkie modele z serii LEGO® Elfy, aby zdobyć 4 magiczne klucze i odesłać Emily Jones z powrotem do świata ludzi
 
+**Galeria:**
+
+- 41074-1: https://a.allegroimg.com/original/118203/30718a444a6abf94d63e25faee04
+
 ---
 
-## 41075 — Lego Elves 41075 Kryjówka Elfów Na Drzewie Nowy Zestaw Lego
+## 41075 — KRYJÓWKA ELFÓW NA DRZEWIE
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 698.99 zł · EAN: 05702015352789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41075 |
+| Nazwa angielska | The Elves' Treetop Hideaway |
+| Nazwa polska | KRYJÓWKA ELFÓW NA DRZEWIE |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 505 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702015352789 |
 
 - **LEGO® 41075 Elves - Kryjówka elfów na drzewie Zestaw NOWY oryginalnie zapakowany, zaplombowany.**
 - **Super prezent dla dziecka.**
@@ -122,11 +177,26 @@ Specyfikacja zestawu LEGO 41075
 - **Waga opakowania (g):** 880 (0,88kg) 
 - **Wymiary złożonego zestawu (cm):** 17 x 25 x 12
 
+**Galeria:**
+
+- 41075-1: https://a.allegroimg.com/original/03504c/8bae4356465c8b394b04581aaa83
+
 ---
 
-## 41076 — Lego Elves 41076 Farran and the Crystal Hollow
+## 41076 — Farran and the Crystal Hollow
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015352796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41076 |
+| Nazwa angielska | Farran and the Crystal Hollow |
+| Nazwa polska | Farran and the Crystal Hollow |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702015352796 |
 
 Klocki LEGO Elves 41076 - Farran i dziupla z kryształem
  
@@ -137,11 +207,26 @@ Wraz z elfem ziemi — Farranem Leafshade, podążaj według mapy, aby odkryć t
 - Wymiary katapulty wiewiórki: 5 cm wysokości, 4 cm szerokości i 4 cm głębokości 
 - Zbierz wszystkie modele z serii LEGO® Elfy, aby zdobyć 4 magiczne klucze i odesłać Emily Jones z powrotem do świata ludzi
 
+**Galeria:**
+
+- 41076-1: https://a.allegroimg.com/original/1103eb/3b7eda7f41929d708330d8016591
+
 ---
 
-## 41077 — Lego Elves 41077 Sanie pegaza Airy
+## 41077 — Sanie pegaza Airy
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015352802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41077 |
+| Nazwa angielska | Aira's Pegasus Sleigh |
+| Nazwa polska | Sanie pegaza Airy |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 319 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 10 cm × gł. 7 cm |
+| EAN | 5702015352802 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -181,11 +266,26 @@ Zbuduj latające sanie dla elfki wiatru, Airy Whisperwind. Wznieś się wysoko w
 - Wiatrak ma 13 cm wysokości, 10 cm szerokości i 7 cm głębokości 
 - Sanie ciągnięte przez pegazy (z 2 pegazami i rozłożonymi skrzydłami) mają 5 cm wysokości, 26 cm długości i 12 cm szerokości
 
+**Galeria:**
+
+- 41077-1: https://a.allegroimg.com/original/113656/e007ca184c93990e65d42430ab5b
+
 ---
 
-## 41078 — Lego Elves Zamek w chmurach Skyry 41078
+## 41078 — ZAMEK
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 1449.00 zł · EAN: 05702015352819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41078 |
+| Nazwa angielska | Skyra's Mysterious Sky Castle |
+| Nazwa polska | ZAMEK |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 808 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352819 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -204,11 +304,26 @@ Zbuduj latające sanie dla elfki wiatru, Airy Whisperwind. Wznieś się wysoko w
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41078-1: https://a.allegroimg.com/original/00327c/428e88f64ba6aa2265c989e0eabf
+
 ---
 
-## 41173 — Lego Elves 41173 Szkoła Smoków w Elvendale pudełko otwarte
+## 41173 — Szkoła Smoków w Elvendale
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702015593465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41173 |
+| Nazwa angielska | Elvendale School of Dragons |
+| Nazwa polska | Szkoła Smoków w Elvendale |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 16 cm × gł. 10 cm |
+| EAN | 5702015593465 |
 
 **Pudełko było otwarte, woreczki są fabrycznie zamknięte, zestaw jest nienaruszony oprócz pudełka.**
 
@@ -229,11 +344,26 @@ Odwiedź Szkołę Smoków w Elvendale, gdzie smoczy trener Tidus Burzolot uczy l
 - W zestawie dodatkowe elementy w postaci klepsydry, szkolnego dzwonka, tablicy, listu, wyrzutni ciasteczek, pióra, kredy, pudełka z ciasteczkami oraz gąbki do mazania. 
 - Wymiary Szkoły Smoków: 12 cm wysokości, 16 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 41173-1: https://a.allegroimg.com/original/11d09b/d7a08f4e4112a8f126a9c61b3c1d
+
 ---
 
-## 41175 — Lego Elves 41175 Jaskinia Smoka Ognia Nowe
+## 41175 — Fire Dragon's Lava Cave
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702015594585 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41175 |
+| Nazwa angielska | Fire Dragon's Lava Cave |
+| Nazwa polska | Fire Dragon's Lava Cave |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 441 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm × gł. 8 cm |
+| EAN | 5702015594585 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -254,11 +384,26 @@ Pomóż Emily Jones i Azari w badaniu jaskini wulkanicznej Smoka Ognia. Późnie
 - Smoczyca Zonya ma ponad 13 cm wysokości, 28 cm długości i 33 cm rozpiętości skrzydeł. 
 - Wulkaniczna jaskinia ma 9 cm wysokości, 16 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 41175-1: https://a.allegroimg.com/original/11cd9b/60a81e2e42e99b5148971d49fcd1
+
 ---
 
-## 41176 — Lego Elves 41176 Sekretne targowisko Nowe
+## 41176 — SEKRETNE TARGOWISKO
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 1033.00 zł · EAN: 05702015594592 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41176 |
+| Nazwa angielska | The Secret Market Place |
+| Nazwa polska | SEKRETNE TARGOWISKO |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 691 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 28 cm × gł. 10 cm |
+| EAN | 5702015594592 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -280,11 +425,26 @@ Elvendale to miejsce pełne przygód! Czeka tu na ciebie sekretne targowisko z 2
 - Smok Thorne ma ok. 8 cm wysokości, 18 cm długości i 23 cm rozpiętości skrzydeł. 
 - Sekretne targowisko ma ok. 18 cm wysokości, 28 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 41176-1: https://a.allegroimg.com/original/11e941/76ce980541329a6f51f64a78f4ee
+
 ---
 
-## 41177 — Lego Elves 41177 Kopalnia drogocennego kryształu Nowe
+## 41177 — The Precious Crystal Mine
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702015594608 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41177 |
+| Nazwa angielska | The Precious Crystal Mine |
+| Nazwa polska | The Precious Crystal Mine |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 273 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm × gł. 17 cm |
+| EAN | 5702015594608 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -304,11 +464,26 @@ Wybierz się na poszukiwanie przygód z Naidą i Farranem. Zajrzyj wraz z nimi d
 - Zestaw odpowiedni dla dzieci w wieku od 8 do 12 lat. 
 - Wymiary kopalni kryształów: ok. 12 cm wysokości, 12 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 41177-1: https://a.allegroimg.com/original/11825c/00236f454f67880a17ab18176438
+
 ---
 
-## 41178 — Lego Elves 41178 Świątynia Smoka Nowe
+## 41178 — The Dragon Sanctuary
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 1638.00 zł · EAN: 05702015594615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41178 |
+| Nazwa angielska | The Dragon Sanctuary |
+| Nazwa polska | The Dragon Sanctuary |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 585 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 11 cm × gł. 14 cm |
+| EAN | 5702015594615 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -330,11 +505,26 @@ Dołącz do Tidusa i Airy w 3-poziomowej Świątyni Smoka, gdzie może się pomi
 - Wymiary Świątyni Smoka: ok. 30 cm wysokości, 11 cm szerokości i 14 cm głębokości. 
 - Smoczyca wiatru Gust ma ok. 9 cm wysokości, 27 cm długości i 35 cm rozpiętości skrzydeł.
 
+**Galeria:**
+
+- 41178-1: https://a.allegroimg.com/original/112b5c/1d1b7a224644982b84f27e71934b
+
 ---
 
-## 41179 — Lego Elves Na ratunek królowej smoków 41179
+## 41179 — Queen Dragon's Rescue
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015594622 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41179 |
+| Nazwa angielska | Queen Dragon's Rescue |
+| Nazwa polska | Queen Dragon's Rescue |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 836 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 9 cm × gł. 25 cm |
+| EAN | 5702015594622 |
 
 LEGO Elves Na ratunek królowej smoków 41179
 
@@ -352,11 +542,26 @@ LEGO Elves Na ratunek królowej smoków 41179
 
 LEGO Elves Na ratunek królowej smoków 41179
 
+**Galeria:**
+
+- 41179-1: https://a.allegroimg.com/original/11d146/f6fd0f5f4e5ab06cd3ebd3bb597a
+
 ---
 
-## 41180 — Lego Elves 41180 Magiczny Zamek Nowe
+## 41180 — LEGO ELVES zestaw 41180 MAGICZNY ZAMEK RAGANY
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015594639 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41180 |
+| Nazwa angielska | Ragana's Magic Shadow Castle |
+| Nazwa polska | LEGO ELVES zestaw 41180 MAGICZNY ZAMEK RAGANY |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1014 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 38 cm |
+| EAN | 5702015594639 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -376,11 +581,26 @@ Naida i Aira wybrały się do 3-poziomowego Magicznego Mrocznego Zamku, by zbada
 - Zestaw odpowiedni dla dzieci w wieku od 8 do 12 lat. 
 - Magiczny Mroczny Zamek ma ok. 30 cm wysokości, 38 cm szerokości i 14 cm głębokośc i.
 
+**Galeria:**
+
+- 41180-1: https://a.allegroimg.com/original/11af80/0cc7c6b649bcbb3e5d69c25514ee
+
 ---
 
-## 41181 — Lego Elves 41181 Gondola Naidy i gobliński złodziej Nowe
+## 41181 — Gondola Naidy i gobliński złodziej
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702015865913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41181 |
+| Nazwa angielska | Naida's Gondola & the Goblin Thief |
+| Nazwa polska | Gondola Naidy i gobliński złodziej |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702015865913 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -405,11 +625,26 @@ Nowe przygody w Elvendale już czekają! Dołącz do elfki wody Naidy, która wy
 - Gondola ma ok. 4 cm wysokości, 11 cm długości i 3 cm szerokości. 
 - Scenka z wyspy ma ok. 4 cm wysokości, 5 cm długości i 5 cm głębokości.
 
+**Galeria:**
+
+- 41181-1: https://a.allegroimg.com/original/113028/6900d08a4bb7a3557d5ecdd2a8e1
+
 ---
 
-## 41182 — Lego 41182 Elves Zasadzka na Sophie Jones outlet
+## 41182 — Zasadzka na Sophie Jones
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702015865920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41182 |
+| Nazwa angielska | The Capture of Sophie Jones |
+| Nazwa polska | Zasadzka na Sophie Jones |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702015865920, 673419264822 |
 
 Witaj na aukcji.
 
@@ -451,11 +686,27 @@ Dołącz do Sophie Jones, która przemknęła się przez magiczny portal, by odw
 
 Produkty który kupujesz na przedmiotowej aukcji jest fabrycznie nowy, oryginalnie zapakowany, z polskimi oznaczeniami na opakowaniu. Kupując u nas masz pewność że zawsze dostaniesz przedmiot zgodny z opisem.
 
+**Galeria:**
+
+- 41182-1: https://a.allegroimg.com/original/0328d0/256bf6a8443793f51e461568371a
+- 41182-2: https://a.allegroimg.com/original/1177de/e1aa47164a0e8e6df6acbe8ef9eb
+
 ---
 
-## 41183 — Lego Elves 41183 Zły smok Króla Goblinów
+## 41183 — Zły smok Króla Goblinów
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702015865937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41183 |
+| Nazwa angielska | The Goblin King's Evil Dragon |
+| Nazwa polska | Zły smok Króla Goblinów |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 339 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm × gł. 5 cm |
+| EAN | 5702015865937 |
 
 Lego Elves Zły smok Króla Goblinów 41183
 
@@ -496,11 +747,26 @@ Informacje Dodatkowe
  
 Możliwość dowiezienia klocków w sobotę i niedziele po uzgodnieniu terminu.
 
+**Galeria:**
+
+- 41183-1: https://a.allegroimg.com/original/05d925/1256764648339723f9ef7d1220f6
+
 ---
 
-## 41184 — Lego Elves 41184 Sterowiec Airy Nowe
+## 41184 — STEROWIEC AIRY
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 362.00 zł · EAN: 00673419265652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41184 |
+| Nazwa angielska | Aira's Airship & the Amulet Chase |
+| Nazwa polska | STEROWIEC AIRY |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 24 cm |
+| EAN | 5702015865944, 673419265652 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -524,11 +790,27 @@ Nowe, ekscytujące przygody w Elvendale! Dołącz do Emily Jones i elfki wiatru 
 - Wymiary sterowca: ok. 16 cm wysokości, 24 cm długości i 24 cm szerokości. 
 - Szybowiec goblina ma ok. 5 cm wysokości, 4 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 41184-1: https://a.allegroimg.com/original/11fd29/a82a771343118b2fa583f49c76cc
+- 41184-2: https://a.allegroimg.com/original/0074ef/08234c4c4a0d8bbcefcfd7028a2a
+
 ---
 
-## 41185 — Lego Elves 41185 Magicznie uratowani z wioski goblinów
+## 41185 — Magicznie uratowani z wioski goblinów
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 379.00 zł · EAN: 00673419265669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41185 |
+| Nazwa angielska | Magic Rescue from the Goblin Village |
+| Nazwa polska | Magicznie uratowani z wioski goblinów |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 637 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865951, 673419265669 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -552,11 +834,27 @@ Nowe, ekscytujące przygody w Elvendale! Dołącz do Emily Jones i elfki wiatru 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41185-1: https://a.allegroimg.com/original/111bb0/2606596a4b138a29c6380296914f
+- 41185-2: https://a.allegroimg.com/original/11415e/47db74324e2d860d5e915d6b27b8
+
 ---
 
-## 41186 — Klocki Lego Elves 41186 Azari i leśna ucieczka goblinów outlet
+## 41186 — Azari i leśna ucieczka goblinów
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702015865968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41186 |
+| Nazwa angielska | Azari & the Goblin Forest Escape |
+| Nazwa polska | Azari i leśna ucieczka goblinów |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 12 cm |
+| EAN | 5702015865968 |
 
 Oryginalne klocki Lego.
 
@@ -583,11 +881,26 @@ Klocki wysyłane są w folii bąbelkowej oraz dodatkowym kartonie zewnętrznym.
 
 Polska dystrybucja.
 
+**Galeria:**
+
+- 41186-1: https://a.allegroimg.com/original/11a908/d2d32075436ba95f1e3f9bf0b251
+
 ---
 
-## 41187 — Lego Elves 41187 Ukryta lecznica Rosalyn Nowe
+## 41187 — lego 41187
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 637.00 zł · EAN: 05702015866873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41187 |
+| Nazwa angielska | Rosalyn's Healing Hideout |
+| Nazwa polska | lego 41187 |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 460 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 23 cm |
+| EAN | 5702015866873 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -609,11 +922,26 @@ Przeżyj ekscytujące przygody w Elvendale — czeka na Ciebie Rosalyn Nocnycie�
 - Smok z rozłożonymi skrzydłami ma ok. 5 cm wysokości, 20 cm długości i 23 cm szerokości. 
 - Ukryta lecznica ma ok. 16 cm wysokości, 9 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 41187-1: https://a.allegroimg.com/original/11e976/f3ea981f463291a1045192baa967
+
 ---
 
-## 41188 — Lego Elves 41188 Ucieczka z fortecy Króla Goblinów
+## 41188 — LEGO Elves - 41188 Ucieczka z fortecy Króla Goblinów
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702015866880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41188 |
+| Nazwa angielska | Breakout from the Goblin King's Fortress |
+| Nazwa polska | LEGO Elves - 41188 Ucieczka z fortecy Króla Goblinów |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 695 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 28 cm × gł. 13 cm |
+| EAN | 5702015866880 |
 
 ZESTAW LEGO ELVES 41188 UCIECZKA Z FORTECY KRÓLA GOBLINÓW
 
@@ -648,11 +976,26 @@ Wymiary:
  
 -  Forteca Króla Goblinów ma ok. 20 cm wysokości, 28 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 41188-1: https://a.allegroimg.com/original/00afaf/ac5722ea4cd3a726b2a90d829a5c
+
 ---
 
-## 41190 — Lego Elves 41190 Emily Jones i ucieczka orła
+## 41190 — Emily Jones i ucieczka orła
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702016100600 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41190 |
+| Nazwa angielska | Emily Jones & the Eagle Getaway |
+| Nazwa polska | Emily Jones i ucieczka orła |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016100600 |
 
 LEGO ELVES EMILY JONES I UCIECZKA ORŁA 41190
  
@@ -684,11 +1027,26 @@ wymiary orła z rozłożonymi skrzydłami: 5x15x12 cm
  
 wymiary jaskini z lotnią: 8x6x5 cm
 
+**Galeria:**
+
+- 41190-1: https://a.allegroimg.com/original/0540b9/e56a5217434791e1b869618ddccf
+
 ---
 
-## 41191 — Lego 41191 Elves Naida I Zasadzka Na Żółwia Wody
+## 41191 — Naida i zasadzka na żółwia wody
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 118.45 zł · EAN: 05702016100617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41191 |
+| Nazwa angielska | Naida & the Water Turtle Ambush |
+| Nazwa polska | Naida i zasadzka na żółwia wody |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 9 cm |
+| EAN | 5702016100617 |
 
 LEGO 41191 ELVES - NAIDA I ZASADZKA NA ŻÓŁWIA WODY
 
@@ -723,11 +1081,26 @@ Skorzystaj ze swoich magicznych zdolności i pomóż Naidzie obronić magiczną 
 - „Pływająca” wysepka ma ok. 5 cm wysokości, 9 cm szerokości i 6 cm głębokości,
 - Łódka ma ok. 6 cm wysokości, 6 cm długości i 2 cm szerokości.
 
+**Galeria:**
+
+- 41191-1: https://a.allegroimg.com/original/118a2b/626aefc240b1a7626f0134e95ef1
+
 ---
 
-## 41192 — Lego Elves 41192 Klocki Lego Elves Azari i schwytanie lwa ognia 41192
+## 41192 — Klocki LEGO Elves Azari i schwytanie lwa ognia 41192
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 548.00 zł · EAN: 05702016100624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41192 |
+| Nazwa angielska | Azari & the Fire Lion Capture |
+| Nazwa polska | Klocki LEGO Elves Azari i schwytanie lwa ognia 41192 |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702016100624 |
 
 Klocki LEGO Elves 41192 - Azari i schwytanie lwa ognia
 
@@ -749,11 +1122,26 @@ Skorzystaj ze swoich magicznych zdolności i pomóż Azari oraz lwu strażnikowi
 
 Poniższe zdjęcia przestawiają stan rzeczywisty, widoczne delikatne obtarcia na rantach kartonika.
 
+**Galeria:**
+
+- 41192-1: https://a.allegroimg.com/original/0591cf/f6de30824a879bcc7a619a960950
+
 ---
 
-## 41193 — Lego Elves 41193 Aira i pieśń smoka wiatru Nowe
+## 41193 — Elves
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016100631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41193 |
+| Nazwa angielska | Aira & the Song of the Wind Dragon |
+| Nazwa polska | Elves |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 451 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 25 cm |
+| EAN | 5702016100631 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -777,11 +1165,26 @@ Skorzystaj ze swoich magicznych zdolności i pomóż Airze, Lumii oraz smokowi s
 - Szkoła muzyczna ma ok. 15 cm wysokości, 10 cm szerokości i 5 cm głębokości. 
 - Statek powietrzny ma ok. 8 cm wysokości, 7 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 41193-1: https://a.allegroimg.com/original/11f925/e530a0f4407bb898cbc7e596d632
+
 ---
 
-## 41194 — Klocki Lego Elves Wieża Noctury 41194
+## 41194 — Elves
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 719.10 zł · EAN: 05702016100648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41194 |
+| Nazwa angielska | Noctura's Tower & the Earth Fox Rescue |
+| Nazwa polska | Elves |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 646 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 20 cm × gł. 8 cm |
+| EAN | 5702016100648 |
 
 NOWE ORYGINALNE
 
@@ -819,11 +1222,26 @@ ORYGINALNYM
 
 OPAKOWANIU
 
+**Galeria:**
+
+- 41194-1: https://a.allegroimg.com/original/11b7e3/dda9b1fe4b3c82b92098c52c7c75
+
 ---
 
-## 41195 — Lego Elves 41195 Pojedynek Emily i Noctury
+## 41195 — Pojedynek Emily i Noctury
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 451.12 zł · EAN: 05702016100655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41195 |
+| Nazwa angielska | Emily & Noctura's Showdown |
+| Nazwa polska | Pojedynek Emily i Noctury |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 650 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016100655 |
 
 LEGO Elves 41195 Pojedynek Emily i Noctury
 
@@ -848,11 +1266,26 @@ LEGO Elves 41195 Pojedynek Emily i Noctury
 
 **DK**
 
+**Galeria:**
+
+- 41195-1: https://a.allegroimg.com/original/116948/bd4e1e6a4ae580a3ac5e2f8108d8
+
 ---
 
-## 41196 — Lego 41196 Elves Atak Nietoperzy Na Elvenstar
+## 41196 — ATAK NIETOPERZY NA ELVENSTAR
 
-*Kategoria: Pozostałe serie > Elves · cena Allegro (2026-08-17): 799.90 zł · EAN: 05702016100662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41196 |
+| Nazwa angielska | The Elvenstar Tree Bat Attack |
+| Nazwa polska | ATAK NIETOPERZY NA ELVENSTAR |
+| Seria | Pozostałe serie > Elves |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 30 cm × gł. 10 cm |
+| EAN | 5702016100662 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -887,6 +1320,10 @@ LEGO Elves 41195 Pojedynek Emily i Noctury
 - **Drzewo Elvenstar ma ok. 26 cm wysokości, 30 cm szerokości i 10 cm głębokości.**
 - **Zła nietoperzyca Noctura z rozłożonymi skrzydłami ma ok. 7 cm wysokości i 25 cm szerokości.**
 - **Portal ma ok. 12 cm wysokości, 13 cm szerokości i 5 cm głębokości.**
+
+**Galeria:**
+
+- 41196-1: https://2.allegroimg.com/original/03157d/24085ed54e2582a6c0f1cbb2c822
 
 ---
 

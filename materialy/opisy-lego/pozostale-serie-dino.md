@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Dino — opisy produktowe (2 pozycji)
 
-## 5883 — Lego Friends 41721 Ekologiczna farma Nowe
+## 5883 — Lego Dino: 5883 - Wieża Pteranodona Używane
 
-*Kategoria: Pozostałe serie > Dino · cena Allegro (2026-08-17): 417.00 zł · EAN: 05702014831643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5883 |
+| Nazwa angielska | Tower Takedown |
+| Nazwa polska | Lego Dino: 5883 - Wieża Pteranodona Używane |
+| Seria | Pozostałe serie > Dino |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702014831643 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -45,11 +55,26 @@ Wciągająca zabawa w budowanie – bezpłatna aplikacja Instrukcje budowania LE
  
 Farma dla dzieci, które dbają o środowisko – zabawki rodem z miasta Heartlake pomagają dzieciom zrozumieć, że mogą wiele osiągnąć, gdy pracują zespołowo
 
+**Galeria:**
+
+- 5883-1: https://a.allegroimg.com/original/117fd2/0719272843f38868e7eacfe7b63a
+
 ---
 
-## 5885 — Lego Dino 5885 Pułapka na triceratopsa
+## 5885 — Pułapka na triceratopsa
 
-*Kategoria: Pozostałe serie > Dino · cena Allegro (2026-08-17): 655.00 zł · EAN: 05702014840393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5885 |
+| Nazwa angielska | Triceratops Trapper |
+| Nazwa polska | Pułapka na triceratopsa |
+| Seria | Pozostałe serie > Dino |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840393 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
  
@@ -71,6 +96,10 @@ Farma dla dzieci, które dbają o środowisko – zabawki rodem z miasta Heartla
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet** 
 
 Potężny triceratops szaleje w okolicy i kieruje się prosto w stronę miasta! Użyj broni usypiających, zwab go do klatki i załaduj na ciężarówkę, zanim zacznie demolować miasto! Zestaw zawiera 2 minifigurki pogrom ców i dinozaura triceratopsa.
+
+**Galeria:**
+
+- 5885-1: https://a.allegroimg.com/original/112b08/9958214f4b53b1ba93bbbb91158c
 
 ---
 

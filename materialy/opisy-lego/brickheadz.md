@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO BrickHeadz — opisy produktowe (160 pozycji)
+# LEGO BrickHeadz — opisy produktowe (159 pozycji)
 
-## 40203 — Klocki Lego BrickHeadz 40203 Dracula Wampir Nietoperz Halloween BrickHeadz
+## 40203 — Wampir i Nietoperz
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 184.00 zł · EAN: 05702015594530 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40203 |
+| Nazwa angielska | Vampire and Bat |
+| Nazwa polska | Wampir i Nietoperz |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm × gł. 5 cm |
+| EAN | 5702015594530 |
 
 LEGO BrickHeadz 40203 Dracula Wampir Nietoperz Halloween BrickHeadz Prezent
 
@@ -31,11 +42,27 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
  
 2. **CZARNA** **FOLIA STRETCH** - Zabezpieczy Twoje klocki przed kurzem, wodą i wilgocią.
 
+**Galeria:**
+
+- 40203-1: https://a.allegroimg.com/original/114256/98cff9164ad8a26347500828795a
+
 ---
 
-## 40251 — Lego 40251 Miniświnka skarbonka
+## 40251 — LEGO Mini Świnka Skarbonka 3w1 40251
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015867450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40251 |
+| Nazwa angielska | Mini Piggy Bank |
+| Nazwa polska | LEGO Mini Świnka Skarbonka 3w1 40251 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702015867450 |
 
 *
  
@@ -61,11 +88,27 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
  
 2. **CZARNA** **FOLIA STRETCH** - Zabezpieczy Twoje klocki przed kurzem, wodą i wilgocią.
 
+**Galeria:**
+
+- 40251-1: https://a.allegroimg.com/original/003d23/87ba91c64e768d12dbcf54c3b19a
+
 ---
 
-## 40272 — Lego 40272 Brickheadz Wiedźma na Halloween
+## 40272 — Wiedźma
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702016122039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40272 |
+| Nazwa angielska | Witch |
+| Nazwa polska | Wiedźma |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122039 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -75,11 +118,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40272-1: https://a.allegroimg.com/original/110a6c/b8ad1e864186ba7f133c1e030304
+
 ---
 
-## 40273 — Lego 40273 BrickHeadz Indyk na Święto Dziękczynienia.
+## 40273 — BrickHeadz INDYK -TURKEY
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702016122046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40273 |
+| Nazwa angielska | Turkey |
+| Nazwa polska | BrickHeadz INDYK -TURKEY |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122046 |
 
 LEGO Indyk na Święto Dziękczynienia 40273
  
@@ -96,11 +155,27 @@ Zbuduj sympatycznego indyka z zestawu LEGO BrickHeadz 40273, aby okazać wdzięc
 - Model ma ok. 8 cm wysokości bez podstawki. 
 - Wymiary podstawki: ok. 11 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 40273-1: https://a.allegroimg.com/original/11bc8f/9c8c590e4571908362e35f9db5c5
+
 ---
 
-## 40274 — Lego BrickHeadz 40274 Święty Mikołaj i Pani Mikołajowa
+## 40274 — święty mikołaj
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016122053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40274 |
+| Nazwa angielska | Mr. Claus & Mrs. Claus |
+| Nazwa polska | święty mikołaj |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 341 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122053 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -134,11 +209,27 @@ Zaproś do domu Świętego Mikołaja i Panią Mikołajową z zestawu 40274 LEGO 
 - Każdy z modeli ma ok. 8 cm wysokości bez podstawki.
 - Wymiary podstawki: ok. 11 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 40274-1: https://a.allegroimg.com/original/116704/83bbd09a4221b051e6f8421f6175
+
 ---
 
-## 40348 — Lego BrickHeadz 40348 Klaun z urodzinowego przyjęcia
+## 40348 — Klaun z urodzinowego przyjęcia
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 77.76 zł · EAN: 05702016370805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40348 |
+| Nazwa angielska | Birthday Clown |
+| Nazwa polska | Klaun z urodzinowego przyjęcia |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370805 |
 
 Klocki LEGO® 40348 BrickHeadz™ Klaun z urodzinowego przyjęcia
 
@@ -160,11 +251,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla osób od 10 lat. Sprawdzi się dla fanów serii LEGO® BrickHeadz™ oraz osób lubiących budowane figurki z sezonowym, urodzinowym motywem.
 
+**Galeria:**
+
+- 40348-1: https://a.allegroimg.com/original/11d711/6c2aa55842cf9db05bec3c727ece
+
 ---
 
-## 40349 — Lego Brickheadz 40349 Walentynkowy szczeniaczek. Nieduże zagniecenia.
+## 40349 — Walentynkowy szczeniaczek
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016370812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40349 |
+| Nazwa angielska | Puppy |
+| Nazwa polska | Walentynkowy szczeniaczek |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370812 |
 
 Fabrycznie nowy, oryginalnie zapakowany zestaw Lego 40349 Brickheadz - Walentynkowy szczeniaczek.
 
@@ -172,11 +279,27 @@ Pudęłko ma nieduże zagniecenia, bez wpływu na zawartość.
 
 Do wysyłki będzie bezpiecznie zapakowany w dodatkowy karton.
 
+**Galeria:**
+
+- 40349-1: https://a.allegroimg.com/original/114458/2f832028466e96e85758f2e99a5c
+
 ---
 
-## 40350 — Lego 40350 BrickHeadz Kurczak Misb z 2019r
+## 40350 — KURCZAK WIELKANOCNY
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016370829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40350 |
+| Nazwa angielska | Chick |
+| Nazwa polska | KURCZAK WIELKANOCNY |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370829 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -186,11 +309,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40350-1: https://a.allegroimg.com/original/111720/3dcb91f1426a89056f706c5305c1
+
 ---
 
-## 40351 — Lego 40351 BrickHeadz Duch na Halloween
+## 40351 — Duch na Halloween
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702016370836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40351 |
+| Nazwa angielska | Ghost |
+| Nazwa polska | Duch na Halloween |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370836 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -200,11 +339,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40351-1: https://a.allegroimg.com/original/114783/eea6ef474bce85882a2d337c2972
+
 ---
 
-## 40353 — Zestaw Lego Brickheadz 40353 Renifer, Elf I Elfka
+## 40353 — Klocki LEGO Brickheadz 40353 Renifer, elf i elfka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702016370850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40353 |
+| Nazwa angielska | Reindeer, Elf & Elfie |
+| Nazwa polska | Klocki LEGO Brickheadz 40353 Renifer, elf i elfka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370850 |
 
 ZESTAW LEGO BRICKHEADZ - 40353 - RENIFER, ELF I ELFKA
 
@@ -242,11 +397,27 @@ Najbardziej charakterystycznym elementem zestawu jest renifer umieszczony w cent
 
 LEGO BrickHeadz 40353 to zestaw, który idealnie oddaje magię świąt i sprawdzi się jako dekoracja w każdym domu. Dzięki możliwości łączenia z innymi zestawami z serii BrickHeadz oraz kompaktowym wymiarom, model świetnie nadaje się do kolekcjonowania i ekspozycji. To także przyjemny projekt konstrukcyjny, który nie tylko bawi podczas budowania, ale również cieszy oko przez cały sezon świąteczny. Zestaw będzie świetnym prezentem urodzinowym, świątecznym lub po prostu bez okazji – dla każdego fana LEGO, który ceni sobie klimat i kreatywność.
 
+**Galeria:**
+
+- 40353-1: https://a.allegroimg.com/original/11d4a2/2e5bceaf4d0fb3bf02b2376e23ac
+
 ---
 
-## 40354 — Lego BrickHeadz 40354 Chłopak tańczący taniec smoka
+## 40354 — Chłopak tańczący taniec smoka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702016370867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40354 |
+| Nazwa angielska | Dragon Dance Guy |
+| Nazwa polska | Chłopak tańczący taniec smoka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370867 |
 
 Klocki LEGO BrickHeadz 40354 - Chłopak tańczący taniec smoka
  
@@ -257,11 +428,27 @@ Model Chłopak tańczący taniec smoka z zestawu 40354 LEGO® BrickHeadz™ pomo
 - Łącząc z sobą figurki LEGO® BrickHeadz™ do samodzielnego zbudowania, możesz tworzyć odlotowe hybrydy albo własne niezwykłe postacie. 
 - Figurka Chłopaka tańczącego taniec smoka ma ok. 9 cm wysokości.
 
+**Galeria:**
+
+- 40354-1: https://a.allegroimg.com/original/113ef7/53670af443ca9403076e6a969434
+
 ---
 
-## 40367 — Lego 40367 Brickheadz Statua Wolności
+## 40367 — Statua Wolności
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 74.45 zł · EAN: 05702016538946 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40367 |
+| Nazwa angielska | Lady Liberty |
+| Nazwa polska | Statua Wolności |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016538946 |
 
 LEGO 40367 BRICKHEADZ - STATUA WOLNOŚCI
 
@@ -284,11 +471,27 @@ Uczcij niepodległość, budując figurkę LEGO® Brickheadz™ 40367 Statua Wol
 - Statua Wolności z serii LEGO® Brickheadz™ w piaskowozielonym kolorze ze złotą pochodnią.
 - Statua Wolności ma ok. 11 cm wysokości.
 
+**Galeria:**
+
+- 40367-1: https://a.allegroimg.com/original/11ab42/9aa7743f47a4a0dfa442981ddd08
+
 ---
 
-## 40377 — Lego 40377 BrickHeadz Kaczor Donald
+## 40377 — 40377
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016656701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40377 |
+| Nazwa angielska | Donald Duck |
+| Nazwa polska | 40377 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656701 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -304,11 +507,27 @@ Numer magazynowy sprzedawcy: 20260237 - 20260246
 
 Przybliżone wymiary opakowania:** 12,1 x 9,1 x 7,9 cm**
 
+**Galeria:**
+
+- 40377-1: https://a.allegroimg.com/original/119c47/fa38c7fa4cf7859e128759a4fcce
+
 ---
 
-## 40378 — Lego 40378 BrickHeadz Disney Goofy i Pluto
+## 40378 — 40378
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702016656718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40378 |
+| Nazwa angielska | Goofy and Pluto |
+| Nazwa polska | 40378 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656718 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -318,11 +537,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40378-1: https://a.allegroimg.com/original/11e775/739226414c26be3a8237de3a6673
+
 ---
 
-## 40380 — Lego 40380 BrickHeadz Wielkanocna owieczka
+## 40380 — Wielkanocna owieczka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016656732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40380 |
+| Nazwa angielska | Sheep |
+| Nazwa polska | Wielkanocna owieczka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656732 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -332,11 +567,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40380-1: https://a.allegroimg.com/original/118d1a/58547f9341be99ff3a4ae581fda1
+
 ---
 
-## 40381 — Zestaw Lego Brickheadz 40381 Monkey King Małpi Król
+## 40381 — Klocki LEGO Brickheadz 40381 Monkey King Małpi król
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016656749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40381 |
+| Nazwa angielska | Monkey King |
+| Nazwa polska | Klocki LEGO Brickheadz 40381 Monkey King Małpi król |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656749 |
 
 ZESTAW LEGO BRICKHEADZ - 40381 - MONKEY KING - MAŁPI KRÓL
 
@@ -372,11 +623,27 @@ Figurka Monkey Kinga mierzy około 13 cm wysokości, dzięki czemu mimo swoich n
 
 Zestaw LEGO 40381 to doskonały wybór dla fanów klocków, kolekcjonerów serii BrickHeadz oraz osób zainteresowanych azjatycką kulturą i legendami. Zestaw łączy przyjemność budowania, atrakcyjny wygląd gotowego modelu i kolekcjonerski charakter, dzięki czemu sprawdzi się zarówno jako zabawka, jak i dekoracja pokoju. Możliwość łączenia go z innymi zestawami BrickHeadz dodatkowo zwiększa jego atrakcyjność i zachęca do rozbudowy kolekcji. To świetny prezent urodzinowy, świąteczny lub niespodzianka bez okazji dla dziecka, nastolatka albo dorosłego fana wyjątkowych modeli LEGO. Jeśli szukasz niedużego, ale efektownego zestawu z ciekawym motywem i oryginalnym designem, LEGO 40381 Monkey King będzie strzałem w dziesiątkę i z pewnością sprawi dużo radości każdemu obdarowanemu.
 
+**Galeria:**
+
+- 40381-1: https://a.allegroimg.com/original/11fa68/bc5a69cd463792b8fab9343277df
+
 ---
 
-## 40383 — Lego 40383 Brickheadz Panna Młoda
+## 40383 — Panna młoda
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40383 |
+| Nazwa angielska | Bride |
+| Nazwa polska | Panna młoda |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656756 |
 
 LEGO 40383 BRICKHEADZ - PANNA MŁODA
 
@@ -402,11 +669,27 @@ Panna młoda LEGO® BrickHeadz™ (40383) może być ciekawym upominkiem dla kre
 - Ten prosty model nadaje się dla każdej osoby w wieku od 10 lat, a jego budowanie jest naprawdę ciekawe,
 - Figurka panny młodej do zbudowania składa się z 306 elementów i ma ok. 8 cm wysokości, a do tego tworzy świetną parę z panem młodym LEGO® BrickHeadz™ z zestawu 40384.
 
+**Galeria:**
+
+- 40383-1: https://a.allegroimg.com/original/11fbeb/44a59d8b46c2b9e1b90effa2d554
+
 ---
 
-## 40384 — Lego 40384 Brickheadz Pan Młody
+## 40384 — Pan młody
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016656763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40384 |
+| Nazwa angielska | Groom |
+| Nazwa polska | Pan młody |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 255 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656763 |
 
 LEGO 40384 BRICKHEADZ - PAN MŁODY
 
@@ -432,11 +715,27 @@ Zestaw Pan młody LEGO® BrickHeadz™ (40384) może być świetnym upominkiem d
 - Ten prosty model nadaje się dla każdej osoby w wieku od 10 lat, a jego budowanie jest naprawdę ciekawe,
 - Figurka pana młodego do zbudowania składa się z 255 elementów i ma ok. 8 cm wysokości, a do tego tworzy świetną parę z panną młodą LEGO® BrickHeadz™ z zestawu 40383.
 
+**Galeria:**
+
+- 40384-1: https://a.allegroimg.com/original/119d63/d520ef2445b5a210d4605a68b03c
+
 ---
 
-## 40412 — Lego BrickHeadz 40412 Hagrid i Hardodziob
+## 40412 — Hagrid i Hardodziob
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016720099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40412 |
+| Nazwa angielska | Hagrid & Buckbeak |
+| Nazwa polska | Hagrid i Hardodziob |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720099 |
 
 Klocki LEGO BrickHeadz 40412 - Hagrid i Hardodziob
  
@@ -447,11 +746,27 @@ Zestaw LEGO® Hagrid™ i Hardodziob™ (40412) zachwyci każdego fana filmów o
 - Hagrid™ ma latarnię i swą słynną różdżkę ukrytą w różowej parasolce. 
 - Zestaw liczy 270 elementów, ma ok. 9 cm wysokości i jest odpowiedni dla każdego, kto ukończył 10 rok życia.
 
+**Galeria:**
+
+- 40412-1: https://a.allegroimg.com/original/11e297/b2922af941d0b2b276a0b5614365
+
 ---
 
-## 40420 — Lego Brickheadz Minions 40420 Gru, Stuart i Otto
+## 40420 — LEGO Brickheadz Minions 40420 Gru, Stuart i Otto
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702016720228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40420 |
+| Nazwa angielska | Gru, Stuart and Otto |
+| Nazwa polska | LEGO Brickheadz Minions 40420 Gru, Stuart i Otto |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720228 |
 
 Klocki LEGO BrickHeadz 40420 - Gru, Stuart i Otto
  
@@ -463,11 +778,27 @@ W zestawie LEGO® BrickHeadz™ Gru, Stuart i Otto (40420) znajdziesz trzy posta
 - Masz ochotę na więcej złośliwych psot? Połącz tę zabawkę z zestawem LEGO® BrickHeadz™ 40421 Belle Bottom, Kevin i Bob. 
 - Figurka Gru ma ok. 8 cm wysokości, Minionki mają po ok. 6 cm wysokości, a cały zestaw liczy 244 elementy, więc dzieciaki będą mieć mnóstwo radości podczas budowania, zabawy i prezentowania gotowych modeli.
 
+**Galeria:**
+
+- 40420-1: https://a.allegroimg.com/original/11abaf/e1936de04c309b90efbffcb7229c
+
 ---
 
-## 40421 — Lego 40421 BrickHeadz Belle Bottom Kevin i Bob Nowe
+## 40421 — Brickheadz
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016720235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40421 |
+| Nazwa angielska | Belle Bottom, Kevin and Bob |
+| Nazwa polska | Brickheadz |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720235 |
 
 Wszystkie wystawione przez nas zestawy są oryginalne
 
@@ -491,11 +822,27 @@ Zestaw LEGO BrickHeadz - Belle Bottom, Kevin i Bob trafił do sprzedaży w 202
 
 PONIEŻEJ RZECZYWISTE ZDJĘCIA ZESTAWU
 
+**Galeria:**
+
+- 40421-1: https://a.allegroimg.com/original/11a219/93a6485f4f28910b6e855054bb40
+
 ---
 
-## 40422 — Lego 40422 Brickheadz Frankenstein
+## 40422 — Frankenstein
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016720242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40422 |
+| Nazwa angielska | Frankenstein |
+| Nazwa polska | Frankenstein |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720242 |
 
 LEGO 40422 BRICKHEADZ - FRANKENSTEIN
 
@@ -520,11 +867,27 @@ Zestaw Frankenstein z serii LEGO® BrickHeadz™ (40422) to zabawna interpretacj
 - W połączeniu z innymi modelami LEGO® BrickHeadz™ pozwala stworzyć imponującą kolekcję.
 - Zabawka składa się ze 108 elementów, ma ok. 9 cm wysokości i bez względu na porę roku dostarczy dzieciom potwornie dobrej zabawy.
 
+**Galeria:**
+
+- 40422-1: https://a.allegroimg.com/original/11e7fd/aa8afa4242d28cd3cfd70fb25a16
+
 ---
 
-## 40425 — Lego 40425 BrickHeadz Dziadek do orzechów
+## 40425 — Dziadek do orzechów
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 104.00 zł · EAN: 05702016720273 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40425 |
+| Nazwa angielska | Nutcracker |
+| Nazwa polska | Dziadek do orzechów |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720273 |
 
 Oryginalne, nieotwierane opakowanie,
 
@@ -541,11 +904,27 @@ Numer magazynowy sprzedawcy: 20260057, 20260118, 20260119, 20260120, 20260092, 2
 
 Przybliżone wymiary opakowania: **14,1 x 12,2 x 6,1 cm**
 
+**Galeria:**
+
+- 40425-1: https://a.allegroimg.com/original/11884b/cb4cbef945ef99a2bdb3a50b30a9
+
 ---
 
-## 40436 — Lego BrickHeadz 40436 Japoński kot szczęścia
+## 40436 — 40436
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016721157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40436 |
+| Nazwa angielska | Lucky Cat |
+| Nazwa polska | 40436 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016721157 |
 
 LEGO® 40436 Japoński kot szczęścia
 
@@ -556,11 +935,27 @@ Uroczy kot szczęścia z zestawu LEGO® BrickHeadz™ (40436) będzie świetnym 
 - Model jest odpowiedni dla wszystkich w wieku od 10 lat. Podaruj go, by życzyć szczęśliwego Nowego Roku. 
 - Model kota szczęścia ma 134 elementy i ok. 8 cm wysokości. Możesz go podarować o dowolnej porze roku, by w ciekawy, tradycyjny sposób złożyć życzenia pomyślności.
 
+**Galeria:**
+
+- 40436-1: https://a.allegroimg.com/original/03017a/0d6e66f6492b8efcacb139ee0dc2
+
 ---
 
-## 40440 — Lego BrickHeadz 40440 Owczarek niemiecki
+## 40440 — Owczarek niemiecki
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 92.76 zł · EAN: 05702016910353 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40440 |
+| Nazwa angielska | German Shepherd and Puppy |
+| Nazwa polska | Owczarek niemiecki |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910353 |
 
 Klocki LEGO® 40440 BrickHeadz™ Owczarek niemiecki
 
@@ -586,11 +981,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest odpowiedni dla dzieci od 8 lat, kolekcjonerów LEGO® BrickHeadz™ oraz osób lubiących psy i modele zwierząt z klocków.
 
+**Galeria:**
+
+- 40440-1: https://a.allegroimg.com/original/1143dd/deecd082491e95266ad33adcd3aa
+
 ---
 
-## 40441 — Lego BrickHeadz 40441 Koty krótkowłose
+## 40441 — Koty krótkowłose
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702016910872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40441 |
+| Nazwa angielska | Shorthair Cat and Kitten |
+| Nazwa polska | Koty krótkowłose |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910872 |
 
 LEGO 40441 BrickHeadz Koty krótkowłose
  
@@ -615,11 +1026,27 @@ Ten kolekcjonerski zestaw konstrukcyjny BrickHeadz™ z kotem i kociątkiem do z
 - Ten 250-elementowy model ma ok. 8 cm wysokości i zawiera kokardę, ruchomy ogon i ozdobiony kosz dla kociaków. 
 - Świetny prezent dla fanów LEGO®, kolekcjonerów modeli BrickHeadz™ i miłośników zwierząt w wieku od 8 lat.
 
+**Galeria:**
+
+- 40441-1: https://a.allegroimg.com/original/11ec72/7155e88a429496d35ba327a9956e
+
 ---
 
-## 40442 — Lego BrickHeadz 40442 Złota rybka
+## 40442 — Złota rybka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702016910889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40442 |
+| Nazwa angielska | Goldfish and Fry |
+| Nazwa polska | Złota rybka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910889 |
 
 Przedmiot w ofercie: LEGO BrickHeadz 40442 Złota rybka.
 
@@ -637,11 +1064,27 @@ Dzieciom, które kochają zwierzęta, na pewno spodoba się ten kolekcjonerski z
 
 Pozdrawiam i zapraszam do zakupów.
 
+**Galeria:**
+
+- 40442-1: https://a.allegroimg.com/original/118df5/33801e194366af54a4f393a2771e
+
 ---
 
-## 40443 — Zestaw Lego Brickheadz 40443 Kolorowa Papużka I Pisklęcie
+## 40443 — Klocki LEGO Brickheadz 40443 Papużka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 74.00 zł · EAN: 05702016910360 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40443 |
+| Nazwa angielska | Budgie and Chick |
+| Nazwa polska | Klocki LEGO Brickheadz 40443 Papużka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910360 |
 
 ZESTAW LEGO BRICKHEADZ - 40443 - KOLOROWA PAPUŻKA I PISKLĘCIE
 
@@ -679,11 +1122,27 @@ Zestaw składa się z 261 elementów, co czyni go przyjemnym i relaksującym pro
 
 Model BrickHeadz 40443 to doskonały wybór dla każdego miłośnika ptaków, zwierząt oraz kolekcjonerskich modeli LEGO. Dzięki swojemu uroczemu wyglądowi, kompaktowym wymiarom i dekoracyjnemu charakterowi zestaw świetnie sprawdzi się jako ozdoba każdego wnętrza. To idealny prezent zarówno na urodziny, jak i jako drobny upominek bez okazji – coś, co wywołuje uśmiech i daje przyjemność z budowania. Prosty, a jednocześnie efektowny model sprawia, że zestaw ten jest świetnym dodatkiem do kolekcji BrickHeadz i jednocześnie relaksującą formą kreatywnej zabawy.
 
+**Galeria:**
+
+- 40443-1: https://a.allegroimg.com/original/113320/bfa1382d4bc5a9ae026ace8a61d2
+
 ---
 
-## 40466 — Lego 40466 BrickHeadz Pandy na Chiński Nowy Rok
+## 40466 — Chinese New Year Pandas
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 137.77 zł · EAN: 05702016910704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40466 |
+| Nazwa angielska | Chinese New Year Pandas |
+| Nazwa polska | Chinese New Year Pandas |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910704 |
 
 LEGO® 40466 Pandy na Chiński Nowy Rok
 
@@ -694,11 +1153,27 @@ Dzięki cudownemu zestawowi LEGO® BrickHeadz™ 40466 Pandy na chiński Nowy Ro
 - Ten zestaw zawiera trzy pandy LEGO® BrickHeadz™ — mamę i dwa młode — a także latarnię i drzewko mandarynkowe do zbudowania. 
 - Mama panda ma ok. 8 cm wysokości, a każdy z dwóch małych misiów ma ok. 5 cm wysokości.
 
+**Galeria:**
+
+- 40466-1: https://a.allegroimg.com/original/1140d1/768c2104472383bb09e2a3552603
+
 ---
 
-## 40476 — Lego 40476 BrickHeadz Disney Kaczka Daisy
+## 40476 — Kaczka Daisy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 67.00 zł · EAN: 05702016961379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40476 |
+| Nazwa angielska | Daisy Duck |
+| Nazwa polska | Kaczka Daisy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016961379 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -708,11 +1183,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40476-1: https://a.allegroimg.com/original/112cb1/40bd75fc47a2826d17bf91bf6c0b
+
 ---
 
-## 40477 — Lego 40477 BrickHeadz Sknerus McKwacz, Hyzio, Dyzio i Zyzio
+## 40477 — Sknerus McKwacz, Hyzio, Dyzio i Zyzio
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.77 zł · EAN: 05702016961249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40477 |
+| Nazwa angielska | Scrooge McDuck, Huey, Dewey & Louie |
+| Nazwa polska | Sknerus McKwacz, Hyzio, Dyzio i Zyzio |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 340 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016961249 |
 
 LEGO® 40477 Sknerus McKwacz, Hyzio, Dyzio i Zyzio
 
@@ -723,11 +1214,27 @@ Kolekcjonerski zestaw do zbudowania LEGO® BrickHeadz™ ǀ Disney 40477 Sknerus
 - Świetny prezent dla fanów LEGO®, kolekcjonerów modeli BrickHeadz™ i miłośników Disneya w wieku od 10 lat. 
 - Postać Sknerusa mierzy ok. 10 cm wysokości, a kaczątka mają po ok. 6 cm. Zestaw liczy 340 elementów, a każda z postaci stoi na czarnej podstawce BrickHeadz™.
 
+**Galeria:**
+
+- 40477-1: https://a.allegroimg.com/original/11e1de/bd1615d4482ebfb9956c2dde17f7
+
 ---
 
-## 40479 — Lego 40479 BrickHeadz Dalmatyńczyk
+## 40479 — Dalmatyńczyk
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 116.99 zł · EAN: 05702016988420 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40479 |
+| Nazwa angielska | Dalmatian and Puppy |
+| Nazwa polska | Dalmatyńczyk |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988420 |
 
 LEGO 40479 BrickHeadz - Dalmatyńczyk / Dalmatian
 
@@ -757,11 +1264,27 @@ Psiaki siedzą razem na solidnej płytce konstrukcyjnej w ozdobionym koszu. Zest
 
 Kupując u nas dbasz o środowisko. Dzięki Tobie świat produkuje mniej odpadów.
 
+**Galeria:**
+
+- 40479-1: https://a.allegroimg.com/original/11dd7b/fc9ed14a4b60992c03b586dbd956
+
 ---
 
-## 40480 — Lego 40480 BrickHeadz Pręgowany rudy kot
+## 40480 — Pręgowany rudy kot
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 297.90 zł · EAN: 05702016988628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40480 |
+| Nazwa angielska | Ginger Tabby and Kitten |
+| Nazwa polska | Pręgowany rudy kot |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988628 |
 
 Klocki LEGO BrickHeadz 40480 - Pręgowany rudy kot
 
@@ -771,11 +1294,27 @@ Młodym miłośnikom zwierząt z pewnością przypadnie do gustu ten kolekcjoner
 - Ten 269-elementowy model ma ok. 8 cm wysokości i zawiera turkusowy szal, ruchomy ogon i ozdobiony kosz dla kociaków.
 - Świetny prezent dla fanów LEGO®, kolekcjonerów modeli BrickHeadz™ i miłośników zwierząt w wieku od 8 lat.
 
+**Galeria:**
+
+- 40480-1: https://a.allegroimg.com/original/11b65d/c841e20447d6b7c43999d4875bb1
+
 ---
 
-## 40482 — Lego BrickHeadz 40482 Chomik
+## 40482 — Chomik
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 162.02 zł · EAN: 05702016988635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40482 |
+| Nazwa angielska | Hamster and Baby Hamster |
+| Nazwa polska | Chomik |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988635 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -807,11 +1346,27 @@ Zestaw zawiera 243 klocki LEGO.
 
 - Doskonały prezent dla dzieci od 8. roku życia, które uwielbiają zwierzęta i budowanie z klocków LEGO®.
 
+**Galeria:**
+
+- 40482-1: https://a.allegroimg.com/original/11e653/0753802f4b7b921b03ff33f052ba
+
 ---
 
-## 40490 — Zestaw Lego Brickheadz 40490 Ninjago 10 Legacy
+## 40490 — Klocki LEGO Brickheadz 40490 Ninjago Legacy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 166.97 zł · EAN: 05702017006079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40490 |
+| Nazwa angielska | Ninjago 10 |
+| Nazwa polska | Klocki LEGO Brickheadz 40490 Ninjago Legacy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 406 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017006079 |
 
 ZESTAW LEGO BRICKHEADZ - 40490 - NINJAGO 10 LEGACY
 
@@ -849,11 +1404,27 @@ Największą odskocznią od standardowych BrickHeadzów jest Firstbourne Dragon.
 
 Zestaw LEGO 40490 to doskonały wybór dla fanów Ninjago, kolekcjonerów serii BrickHeadz oraz osób, które cenią wyjątkowe i rocznicowe zestawy LEGO. Trzy różnorodne modele – Złoty Lloyd, Nya Samurai X i Firstbourne Dragon – tworzą efektowną całość, która świetnie prezentuje się na półce, biurku lub wśród innych modeli z kolekcji. 406 elementów zapewnia satysfakcjonujące budowanie, a charakterystyczne detale sprawiają, że gotowe konstrukcje od razu przyciągają uwagę. Możliwość połączenia zestawu z innymi modelami z serii pozwala dodatkowo rozbudowywać kolekcję i stworzyć większą ekspozycję. To świetny wybór zarówno dla młodszych konstruktorów, jak i starszych fanów Ninjago, którzy szukają ciekawego zestawu nawiązującego do historii tej serii. LEGO 40490 będzie świetnym prezentem urodzinowym, ale równie dobrze sprawdzi się jako wyjątkowa niespodzianka bez okazji – dla fana ninja, smoków, BrickHeadz lub po prostu klasycznych zestawów LEGO.
 
+**Galeria:**
+
+- 40490-1: https://a.allegroimg.com/original/1121e3/78a0423c4858974a51b1bcd14f7f
+
 ---
 
-## 40492 — Lego BrickHeadz Szkieletowa Dama La Catrina 40492
+## 40492 — LEGO BRICKHEADZ 40492 SZKIELETOWA DAMA LA CATRINA 149
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.80 zł · EAN: 05702017005911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40492 |
+| Nazwa angielska | La Catrina |
+| Nazwa polska | LEGO BRICKHEADZ 40492 SZKIELETOWA DAMA LA CATRINA 149 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017005911 |
 
 **LEGO BrickHeadz Szkieletowa dama 40492**
 
@@ -867,11 +1438,27 @@ Ten 141-elementowy model jest fajny do zbudowania w pojedynkę lub z przyjació�
 
 Stojąc ponad 3,5 cala. Ten model do zbudowania o wysokości 9 cm stanowi kolorowy dodatek do obchodów Dnia Zmarłych. Wspaniały prezent dla dzieci i wszystkich kolekcjonerów LEGO® BrickHeadz™ w wieku od 10 lat.
 
+**Galeria:**
+
+- 40492-1: https://a.allegroimg.com/original/11f663/9f0855f943b6873b54bf0515358e
+
 ---
 
-## 40495 — Lego BrickHeadz 40495 Harry, Hermoine, Ron & Hagrid
+## 40495 — Harry, Hermoine, Ron & Hagrid
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016995985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40495 |
+| Nazwa angielska | Harry, Hermione, Ron & Hagrid |
+| Nazwa polska | Harry, Hermoine, Ron & Hagrid |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016995985 |
 
 ZESTAW LEGO BRICKHEADZ 40495
 
@@ -886,11 +1473,27 @@ Cechy zestawu:
 - Składanie, zabawa i dekoracja — budowniczym LEGO® i fanom Harry’ego Pottera™ w wieku od 10 lat spodoba się ten kreatywny zestaw konstrukcyjny. 
 - Atrakcyjne modele — z tego zestawu 466 klocków można zbudować figurkę Hagrida™ o wysokości ok. 9 cm oraz figurki trojga uczniów o wysokości ok. 5 cm.
 
+**Galeria:**
+
+- 40495-1: https://a.allegroimg.com/original/116193/ecd12ba745d9ad128cd479653b51
+
 ---
 
-## 40496 — Lego BrickHeadz 40496 Voldemort, Nagini i Bellatrix
+## 40496 — Voldemort, Nagini i Bellatrix
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 123.99 zł · EAN: 05702016996012 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40496 |
+| Nazwa angielska | Voldemort, Nagini & Bellatrix |
+| Nazwa polska | Voldemort, Nagini i Bellatrix |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016996012 |
 
 Klocki LEGO® 40496 BrickHeadz™ Voldemort™, Nagini i Bellatrix
 
@@ -911,11 +1514,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw będzie odpowiedni dla osób od 10 lat, które interesują się światem Harry Potter™ i chcą zbudować postacie z filmowej serii w charakterystycznej formie LEGO® BrickHeadz™.
 
+**Galeria:**
+
+- 40496-1: https://a.allegroimg.com/original/11ebc5/62f5f6f845fd9ced420730ea911e
+
 ---
 
-## 40539 — Zestaw Lego Brickheadz Star Wars 40539 Ahsoka Tano Z Gwiezdnych Wojen
+## 40539 — Klocki LEGO Brickheadz Star Wars 40539 Gwiezdne Wojny Figurka Ahsoka Tano
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 71.95 zł · EAN: 05702017166902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40539 |
+| Nazwa angielska | Ahsoka Tano |
+| Nazwa polska | Klocki LEGO Brickheadz Star Wars 40539 Gwiezdne Wojny Figurka Ahsoka Tano |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm × gł. 7 cm |
+| EAN | 5702017166902 |
 
 ZESTAW LEGO BRICKHEADZ STAR WARS - 40539 - AHSOKA TANO Z GWIEZDNYCH WOJEN
 
@@ -951,11 +1570,27 @@ Budowanie Ahsoki Tano to nie tylko świetna zabawa, ale także okazja do docenie
 
 LEGO BrickHeadz Ahsoka Tano to doskonały wybór dla każdego fana Star Wars, niezależnie od wieku. Łączy w sobie prostotę budowania, efektowny wygląd i kolekcjonerski charakter, dzięki czemu sprawdzi się zarówno jako ozdoba, jak i element większej kolekcji. To świetny pomysł na prezent urodzinowy, świąteczny lub bez okazji – szczególnie dla dzieci od 10. roku życia oraz dorosłych fanów serii. Dzięki kompaktowym rozmiarom i atrakcyjnej formie zestaw łatwo dopasuje się do każdej przestrzeni, a sam proces budowania dostarczy wiele satysfakcji. Jeśli szukasz niedużego, ale efektownego zestawu LEGO, który łączy pasję do budowania z miłością do kultowej sagi, ten model będzie strzałem w dziesiątkę.
 
+**Galeria:**
+
+- 40539-1: https://a.allegroimg.com/original/11e478/3a1e48a54091b649ebf9bda02f41
+
 ---
 
-## 40540 — Lego Brickheadz 40540 Chłopak Tańczący Taniec Lwa
+## 40540 — Chłopak tańczący taniec lwa
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017166919 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40540 |
+| Nazwa angielska | Lion Dance Guy |
+| Nazwa polska | Chłopak tańczący taniec lwa |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166919 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -977,11 +1612,27 @@ Dostępność od ręki.
 
 Grupa wiekowa tego produktu to 10+
 
+**Galeria:**
+
+- 40540-1: https://a.allegroimg.com/original/1186c9/4d3dd06547a5a56bf4e136b4fabb
+
 ---
 
-## 40541 — Lego BrickHeadz 40541 Portret z klocków Manchester United Unikat
+## 40541 — Portret z klocków Manchester United
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40541 |
+| Nazwa angielska | Manchester United Go Brick Me |
+| Nazwa polska | Portret z klocków Manchester United |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 530 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166926 |
 
 LEGO® 40541 Portret z klocków — Manchester United
 
@@ -992,11 +1643,27 @@ Dzieci i fani Manchesteru United będą się świetnie bawić, budując modele B
 - Model do przebudowywania — dzieci mają do wyboru trzy odcienie skóry, cztery różne kolory włosów i wiele fryzur. Mogą również wybrać numer do naklejenia na koszulce dzięki dwóm arkuszom naklejek 
 - Do zabawy i ozdoby — model ma ok. 8 cm wysokości. W zestawie są też mała bramka i piłka, dzięki którym fani Manchesteru United będą się jeszcze lepiej bawić
 
+**Galeria:**
+
+- 40541-1: https://a.allegroimg.com/original/110baf/3c4e933f4543a920c2d899a08ba3
+
 ---
 
-## 40542 — Lego 40542 Portret z klocków Fc Barcelona
+## 40542 — Portret z klocków FC Barcelona
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.45 zł · EAN: 05702017241760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40542 |
+| Nazwa angielska | FC Barcelona Go Brick Me |
+| Nazwa polska | Portret z klocków FC Barcelona |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 530 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241760 |
 
 LEGO® 40542 Portret z klocków — FC Barcelona
 
@@ -1007,11 +1674,27 @@ Dzieci i fani FC Barcelony będą się świetnie bawić, budując modele BrickHe
 - Model do przebudowywania — dzieci mają do wyboru trzy odcienie skóry, cztery różne kolory włosów i wiele fryzur. Mogą również wybrać numer do naklejenia na koszulce dzięki dwóm arkuszom naklejek 
 - Do zabawy i ozdoby — model ma ok. 8 cm wysokości. W zestawie są też mała bramka i piłka, dzięki którym fani FC Barcelony będą się jeszcze lepiej bawić
 
+**Galeria:**
+
+- 40542-1: https://a.allegroimg.com/original/11aa3e/eb1d5bb1419fbf7ffb4fd91c4289
+
 ---
 
-## 40543 — Lego 40543 Bernardyn
+## 40543 — Bernardyn
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017166933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40543 |
+| Nazwa angielska | St. Bernard |
+| Nazwa polska | Bernardyn |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166933 |
 
 Miłośnicy psów będą zachwyceni zestawem LEGO® BrickHeadz™ Bernardyn (40543) do zbudowania i zabawy. **Przeurocze modele psa i szczeniaka noszą śliczne różowe obroże i mają wystawione języki.** Psiaki siedzą obok zielonego krzaczka. Można je ustawić na płytce konstrukcyjnej lub odczepić do zabawy w odgrywanie scenek. To zestaw w sam raz dla dzieci w wieku od ośmiu lat.
 
@@ -1020,11 +1703,27 @@ Miłośnicy psów będą zachwyceni zestawem LEGO® BrickHeadz™ Bernardyn (405
 
 - **Do zabawy i ozdoby —** psy mają ok. 8 cm wysokości, więc dzieci mogą je z dumą wyeksponować na płytce konstrukcyjnej lub odczepić je i odgrywać ekscytujące historie podczas zabawy
 
+**Galeria:**
+
+- 40543-1: https://a.allegroimg.com/original/119e62/d7f694d74942ab87d8b8ab2fb5cc
+
 ---
 
-## 40544 — Lego BrickHeadz 40544 Buldog francuski
+## 40544 — Buldog francuski
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017166940 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40544 |
+| Nazwa angielska | French Bulldog |
+| Nazwa polska | Buldog francuski |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166940 |
 
 Klocki LEGO BrickHeadz 40544 - Buldog francuski
  
@@ -1037,11 +1736,27 @@ Miłośnicy zwierząt będą zachwyceni zestawem LEGO® BrickHeadz™ Buldog fra
  
 Zestaw LEGO BrickHeadz - Buldog francuski trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 40544. Zawiera 237 klocków LEGO. Nazwa zestawu w języku angielskim LEGO BrickHeadz - Pets - French Bulldog. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 40544-1: https://a.allegroimg.com/original/115405/58b0379c4bd78bc5e039db225dad
+
 ---
 
-## 40546 — Lego 40546 Pudel
+## 40546 — Pudel
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 122.00 zł · EAN: 05702017241784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40546 |
+| Nazwa angielska | Poodle |
+| Nazwa polska | Pudel |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702017241784 |
 
 Klocki LEGO BrickHeadz 40546 - Pudel
 
@@ -1051,53 +1766,27 @@ Zachwyć młodych miłośników psów modelem LEGO® BrickHeadz™ Pudel (40546)
 - Ozdoba dziecięcego pokoju — model ma ok. 8 cm wysokości, 12 cm szerokości i 7 cm głębokości. Będzie wspaniałą kolorową ozdobą każdego biurka
 - Prezent dla chłopców i dziewczynek kochających psy — zestaw nadaje się na prezent na urodziny lub bez okazji dla ośmioletnich i starszych miłośników psiaków
 
----
+**Galeria:**
 
-## 40547 — Zestaw Lego Brickheadz Star Wars 40547 Obi-wan Kenobi I Darth Vader
-
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 114.31 zł · EAN: 05702017241791 · in stock*
-
-ZESTAW LEGO BRICKHEADZ STAR WARS - 40547 - OBI-WAN KENOBI I DARTH VADER
-
-✅ Najważniejsze cechy zestawu :
-
-**Seria** : LEGO Brickheadz
-
-**Numer zestawu** : 40547
-
-**Elementy** : 260
-
-**Minifigurki** : 2
-
-**Sugerowany wiek** : 10+
-
-**Wymiary opakowania** : 19cm x 14cm x 7cm
-
-**Waga opakowania** : 270g
-
-**Wymiary zestawu** : 13cm x 8cm x 4cm
-
-**Stan** : Nowy w zaplombowanym pudełku
-
-**Gwarancja** : 24 miesiące
-
-✅ Obi-Wan Kenobi i Darth Vader – legendarne starcie w stylu BrickHeadz
-
-Zestaw LEGO BrickHeadz 40547 „Obi-Wan Kenobi i Darth Vader” to wyjątkowa propozycja dla fanów uniwersum Star Wars, która pozwala odtworzyć jedno z najbardziej ikonicznych starć w historii sagi. W tej kolekcjonerskiej odsłonie LEGO przedstawia dwóch legendarnych bohaterów: mistrza Jedi Obi-Wana Kenobiego oraz jego dawnego ucznia, który przeszedł na ciemną stronę Mocy – Dartha Vadera. Każda z figurek została zaprojektowana w charakterystycznym, uproszczonym stylu BrickHeadz, który mimo swojej klockowej formy zachowuje rozpoznawalne detale postaci. Zestaw składa się z 260 elementów, co sprawia, że budowa jest szybka, ale jednocześnie satysfakcjonująca. W modelu nie zabrakło takich detali jak miecze świetlne obu bohaterów czy charakterystyczne czerwone oczy Dartha Vadera, które podkreślają jego mroczną stronę.
-
-✅ Kolekcjonerski i ekspozycyjny charakter
-
-Model został stworzony z myślą o fanach, którzy chcą nie tylko budować, ale także kolekcjonować i eksponować swoje ulubione postacie z uniwersum Star Wars. Każda figurka ma około 8 cm wysokości i stoi na własnej podstawce konstrukcyjnej, co umożliwia ich wspólne lub osobne ustawienie. Dzięki temu zestaw świetnie sprawdza się jako dekoracja biurka, półki lub element większej kolekcji LEGO BrickHeadz. Seria pozwala tworzyć rozbudowane kolekcje różnych bohaterów, a ten zestaw stanowi ważny element dla fanów sagi Star Wars. W pudełku znajduje się papierowa instrukcja budowania, a dodatkowo dostępna jest ona także w aplikacji LEGO Builder na smartfony i tablety, co znacznie ułatwia proces składania i pozwala wygodnie śledzić kolejne etapy budowy. To sprawia, że nawet mniej doświadczeni konstruktorzy poradzą sobie bez problemu z montażem modeli.
-
-✅ Świetny pomysł na prezent
-
-LEGO BrickHeadz 40547 to idealny wybór dla każdego fana Star Wars, który chce mieć w swojej kolekcji symboliczne przedstawienie jednego z najważniejszych konfliktów w galaktyce. Dzięki kompaktowej formie, kolekcjonerskiemu charakterowi i wysokiej jakości wykonania zestaw świetnie sprawdzi się jako ozdoba oraz element większej serii BrickHeadz. To doskonały pomysł na prezent urodzinowy, świąteczny lub zupełnie bez okazji – zarówno dla młodszych fanów, jak i dorosłych kolekcjonerów. Prosta, ale efektowna forma budowania sprawia, że zestaw daje dużo satysfakcji, a jednocześnie szybko staje się wyjątkową dekoracją.
+- 40546-1: https://a.allegroimg.com/original/11274f/97b033d34dcb902cbb878d59b7a7
 
 ---
 
-## 40548 — Lego BrickHeadz 40548 Hołd dla Spice Girls
+## 40548 — Hołd dla Spice Girls
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 176.39 zł · EAN: 05702017166957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40548 |
+| Nazwa angielska | Spice Girls Tribute |
+| Nazwa polska | Hołd dla Spice Girls |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 578 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166957 |
 
 Klocki LEGO® 40548 BrickHeadz™ Hołd dla Spice Girls
 
@@ -1119,11 +1808,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw będzie odpowiedni dla osób od 16 lat, które interesują się serią LEGO® BrickHeadz™ oraz zespołem Spice Girls. To model kolekcjonerski do budowania i ustawienia na ekspozycji.
 
+**Galeria:**
+
+- 40548-1: https://a.allegroimg.com/original/118fc3/3c4492df45e1a8692b96554529b6
+
 ---
 
-## 40549 — Lego 40549 Stranger Things BrickHeadz Demogorgon i Jedenastka
+## 40549 — Demogorgon & Eleven
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 248.00 zł · EAN: 05702017166964 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40549 |
+| Nazwa angielska | Demogorgon & Eleven |
+| Nazwa polska | Demogorgon & Eleven |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166964 |
 
 Zestaw nowy, nigdy nie otwierany.
  
@@ -1142,11 +1847,27 @@ Oto coś, co zachwyci wszystkich fanów netfliksowego serialu Stranger Things TM
 
 Zestaw LEGO BrickHeadz - Demogorgon i Jedenastka trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 40549. Zawiera 192 klocków LEGO. Nazwa zestawu w języku angielskim LEGO BrickHeadz - Demogorgon & Eleven. Grupa wiekowa tego produktu to 16+.
 
+**Galeria:**
+
+- 40549-1: https://a.allegroimg.com/original/111446/a801874740599369a79655b1d523
+
 ---
 
-## 40550 — Lego 40550 BrickHeadz Chip i Dale
+## 40550 — Chip i Dale
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702017166971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40550 |
+| Nazwa angielska | Chip & Dale |
+| Nazwa polska | Chip i Dale |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 5702017166971 |
 
 Klocki LEGO BrickHeadz 40550 - Chip i Dale
 
@@ -1172,11 +1893,27 @@ Zestaw LEGO BrickHeadz - Chip i Dale trafił do sprzedaży w 2022 roku. Numer 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40550-1: https://a.allegroimg.com/original/11ad82/5f254f7d4a8d8bf461b40f6f981c
+
 ---
 
-## 40552 — Lego 40552 Brickheadz Toy Story Buzz Astral
+## 40552 — Buzz Lightyear
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.00 zł · EAN: 05702017166995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40552 |
+| Nazwa angielska | Buzz Lightyear |
+| Nazwa polska | Buzz Lightyear |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166995 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1186,11 +1923,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40552-1: https://a.allegroimg.com/original/111c9f/917f675548ebae31ccd1a1bc2d30
+
 ---
 
-## 40553 — Lego 40553 BrickHeadz Toy story Chudy i Bou
+## 40553 — Chudy i Bou
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 129.50 zł · EAN: 05702017167008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40553 |
+| Nazwa angielska | Woody and Bo Peep |
+| Nazwa polska | Chudy i Bou |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 296 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 5702017167008 |
 
 Klocki LEGO BrickHeadz 40553 - Chudy i Bou
  
@@ -1203,11 +1956,27 @@ Masz ochotę na spotkanie z ulubionymi filmowymi bohaterami? Zbuduj figurki LEGO
 
 Zestaw LEGO BrickHeadz - Chudy i Bou trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 40553. Zawiera 296 klocków LEGO. Nazwa zestawu w języku angielskim LEGO BrickHeadz - Woody and Bo Peep. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 40553-1: https://a.allegroimg.com/original/11718f/b2f744774f2f900262bc36d5e785
+
 ---
 
-## 40554 — Zestaw Lego Brickheadz 40554 Jack Sully I Jego Awatar
+## 40554 — Klocki LEGO Brickheadz 40554 Jake Sully i jego awatar
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 81.31 zł · EAN: 05702017241807 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40554 |
+| Nazwa angielska | Jake Sully & his Avatar |
+| Nazwa polska | Klocki LEGO Brickheadz 40554 Jake Sully i jego awatar |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241807 |
 
 ZESTAW LEGO BRICKHEADZ - 40554 - JACK SULLY I JEGO AWATAR
 
@@ -1245,11 +2014,27 @@ Oba modele wyróżniają się dużą dbałością o detale, mimo swojej uproszcz
 
 Zestaw LEGO BrickHeadz 40554 to doskonały wybór dla każdego fana „Avatara” oraz kolekcjonera klocków LEGO. Dzięki ciekawej tematyce, dwóm różnym wersjom postaci i możliwości łączenia z innymi zestawami BrickHeadz, model ten dostarcza zarówno satysfakcji z budowania, jak i późniejszej ekspozycji. To świetny prezent urodzinowy, świąteczny lub po prostu drobny upominek bez okazji dla dzieci od 10 roku życia i dorosłych fanów serii. Zestaw łączy w sobie prostotę konstrukcji, efektowny wygląd i element kolekcjonerski, co sprawia, że idealnie sprawdzi się jako upominek dla każdego miłośnika LEGO i filmowego świata Pandory.
 
+**Galeria:**
+
+- 40554-1: https://a.allegroimg.com/original/11eb33/ed1b497b497d81284ca6069b6aab
+
 ---
 
-## 40559 — Lego BrickHeadz 40559 Struś Pędziwiatr i Kojot
+## 40559 — Struś Pędziwiatr i Kojot
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 101.87 zł · EAN: 05702017174594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40559 |
+| Nazwa angielska | Road Runner & Wile E. Coyote |
+| Nazwa polska | Struś Pędziwiatr i Kojot |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 4 cm |
+| EAN | 5702017174594 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1277,11 +2062,27 @@ Narób hałasu z klockowymi figurkami postaci ze Zwariowanych melodii™ — **S
 
 - Pomysł na nostalgiczny prezent — Największa figurka ma ok. 10 cm wysokości, 4 cm szerokości i 6 cm grubości. Doskonale sprawdzi się jako prezent urodzinowy, świąteczny lub bez okazji dla każdego fana kreskówek
 
+**Galeria:**
+
+- 40559-1: https://a.allegroimg.com/original/1174c1/a3dff7264f788dd8ffd946f2cfbe
+
 ---
 
-## 40560 — Lego BrickHeadz 40560 Profesorowie Hogwartu
+## 40560 — Profesorowie Hogwartu
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 214.97 zł · EAN: 05702017241616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40560 |
+| Nazwa angielska | Professors of Hogwarts |
+| Nazwa polska | Profesorowie Hogwartu |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241616 |
 
 **Zestawy są NOWE, oryginalnie zamknięte/zaplombowane.**
 
@@ -1295,11 +2096,27 @@ Narób hałasu z klockowymi figurkami postaci ze Zwariowanych melodii™ — **S
 
 Oto czarujący upominek dla wszystkich dziesięciolatków i starszych dzieci, które lubią filmy o Harrym Potterze™. Zestaw LEGO® BrickHeadz™ Profesorowie Hogwartu™ (40560) pozwala zbudować ciekawe modele BrickHeadz czworga nauczycieli. Figurki nadają się doskonale zarówno do zabawy, jak i do wyeksponowania, a do tego mają wiele autentycznych detali. Profesor Snape™ nosi czarną szatę, profesor McGonagall™ ma na sobie zieloną suknię, kapelusz czarownicy i złote pióra, minifigurka profesora Moody’egoma dziwaczne magiczne oko, a profesor Trelawney ma na głowie kolorową opaskę.
 
+**Galeria:**
+
+- 40560-1: https://a.allegroimg.com/original/117721/aa89eb1f49d3bfac4cd047a5a6b2
+
 ---
 
-## 40615 — Zestaw Lego Brickheadz Star Wars 40615 Tuskeński Rabuś
+## 40615 — Klocki LEGO Brickheadz Star Wars 40615 Tuskeński rabuś
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 57.80 zł · EAN: 05702017424002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40615 |
+| Nazwa angielska | Tusken Raider |
+| Nazwa polska | Klocki LEGO Brickheadz Star Wars 40615 Tuskeński rabuś |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm × gł. 5 cm |
+| EAN | 5702017424002 |
 
 ZESTAW LEGO BRICKHEADZ STAR WARS - 40615 - TUSKEŃSKI RABUŚ
 
@@ -1335,11 +2152,27 @@ Model składa się ze 152 elementów, które pozwalają na zbudowanie szczegół
 
 Zestaw LEGO 40615 to doskonała propozycja dla każdego miłośnika filmowej sagi „Gwiezdne Wojny”, który chce wzbogacić swoją kolekcję o wyjątkową i charakterystyczną postać. Dzięki kompaktowym wymiarom, starannemu wykonaniu i wiernemu odwzorowaniu filmowego bohatera, zestaw świetnie sprawdzi się jako dekoracja oraz element kolekcji. To również świetny wybór na prezent – zarówno urodzinowy, jak i wręczony bez okazji – który z pewnością ucieszy fanów sagi i konstrukcyjnych wyzwań LEGO. Prosta, ale efektowna forma BrickHeadz sprawia, że model prezentuje się atrakcyjnie po złożeniu i daje satysfakcję z budowania. To niewielki zestaw, który potrafi dostarczyć dużej radości i świetnie uzupełnia każdą kolekcję LEGO Star Wars.
 
+**Galeria:**
+
+- 40615-1: https://a.allegroimg.com/original/116caf/53d146fe4083915a475ed9eb9258
+
 ---
 
-## 40616 — Lego BrickHeadz 40616 Harry Potter i Cho Chang
+## 40616 — Harry Potter i Cho Chang
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702017471259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40616 |
+| Nazwa angielska | Harry Potter & Cho Chang |
+| Nazwa polska | Harry Potter i Cho Chang |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471259 |
 
 LEGO 40616 BrickHeadz - Harry Potter i Cho Chang
  
@@ -1364,11 +2197,27 @@ Dzięki autentycznym detalom, takim jak stroje do quidditcha Gryffindoru™ i Ra
  
 - Pomysł na prezent dla fanów LEGO® Harry Potter™ w wieku od 10 lat — podaruj fanowi Harry'ego Pottera ten składający się z 267 elementów zestaw na urodziny, prezent świąteczny lub jako niespodziankę
 
+**Galeria:**
+
+- 40616-1: https://a.allegroimg.com/original/11de06/8db68409400fb04aecf991a3a818
+
 ---
 
-## 40617 — Lego 40617 BrickHeadz Draco Malfoy i Cedric Diggory
+## 40617 — Draco Malfoy i Cedric Diggory
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017471266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40617 |
+| Nazwa angielska | Draco Malfoy & Cedric Diggory |
+| Nazwa polska | Draco Malfoy i Cedric Diggory |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471266 |
 
 LEGO 40617 BrickHeadz Draco Malfoy i Cedric Diggory
 
@@ -1398,11 +2247,27 @@ LEGO BrickHeadz 40617 Draco Malfoy™ i Cedric Diggory to nie tylko idealna zab
 
 Jako doskonały pomysł na prezent dla dzieci w wieku od 10 lat, zestaw LEGO BrickHeadz Draco Malfoy™ i Cedric Diggory sprawdzi się jako urodzinowy, świąteczny lub okolicznościowy upominek dla każdego fana magii i przygód Harry'ego Pottera. Daj im szansę na odkrycie tajemnic czarodziejskiego świata, budując własne postaci ulubionych bohaterów.
 
+**Galeria:**
+
+- 40617-1: https://a.allegroimg.com/original/1110f3/312850cf4291ab243d96e184ec0a
+
 ---
 
-## 40618 — Lego BrickHeadz 40618 Kingsley Shacklebolt i Nimfadora Tonks
+## 40618 — Kingsley Shacklebolt i Nimfadora Tonks
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 107.00 zł · EAN: 05702017471471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40618 |
+| Nazwa angielska | Kingsley Shacklebolt & Nymphadora Tonks |
+| Nazwa polska | Kingsley Shacklebolt i Nimfadora Tonks |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471471 |
 
 **LEGO BrickHeadz Kingsley Shacklebolt i Nimfadora Tonks 40618**
  
@@ -1413,11 +2278,27 @@ Fani mogą ponownie przeżyć sceny z filmu Harry Potter i Zakon Feniksa™, bud
 - Model do ustawienia na półce — każda postać ma 8 cm wysokości wraz z podstawką 
 - Pomysł na prezent dla dzieci w wieku od 10 lat — podaruj fanowi Harry'ego Pottera ten składający się z 250 elementów zestaw LEGO® na urodziny, prezent świąteczny lub jako niespodziankę
 
+**Galeria:**
+
+- 40618-1: https://a.allegroimg.com/original/118134/8e0c3ec74708a9424f8a0cc29dbb
+
 ---
 
-## 40619 — Lego BrickHeadz 40619 Ewa i Wall-e
+## 40619 — EWA i WALL-E
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.49 zł · EAN: 05702017424019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40619 |
+| Nazwa angielska | EVE & WALL•E |
+| Nazwa polska | EWA i WALL-E |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424019 |
 
 LEGO® 40619 EWA i WALL-E
 
@@ -1428,11 +2309,27 @@ Zaskocz fanów filmu i dzieci w wieku od 10 lat tym kultowym zestawem BrickHeadz
 - Nowoczesna ozdoba – 155-elementowy zestaw konstrukcyjny LEGO® BrickHeadz™ dla dzieci w wieku od 10 lat zawiera szczegółowe instrukcje oraz podstawkę do postawienia na półce 
 - Wymiary – WALL-E ma 5 cm wysokości, a EWA 8 cm wysokości
 
+**Galeria:**
+
+- 40619-1: https://a.allegroimg.com/original/1190a0/970509374a429d5f586e9160da60
+
 ---
 
-## 40620 — Lego Brickheadz 40620 Cruella I Diabolina 10+ Nowy
+## 40620 — Cruella i Diabolina
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 84.00 zł · EAN: 05702017424026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40620 |
+| Nazwa angielska | Cruella & Maleficent |
+| Nazwa polska | Cruella i Diabolina |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424026 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1452,11 +2349,27 @@ Zaskocz fanów filmu i dzieci w wieku od 10 lat tym zestawem BrickHeadz™ z Cru
 - Kultowa ozdoba – 320-elementowy zestaw konstrukcyjny LEGO® BrickHeadz™ dla dzieci w wieku od 10 lat zawiera szczegółowe instrukcje oraz podstawkę do postawienia na półce
 - Wymiary – Cruella De Mon ma 8 cm wysokości, a Diabolina 9 cm wysokości
 
+**Galeria:**
+
+- 40620-1: https://a.allegroimg.com/original/11a9f5/fb03de4348e0a6866d397b61f609
+
 ---
 
-## 40621 — Lego 40621 Vaiana i Merida
+## 40621 — Vaiana i Merida
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017424033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40621 |
+| Nazwa angielska | Moana & Merida |
+| Nazwa polska | Vaiana i Merida |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 410 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424033 |
 
 Zapraszam do zakupu zestawu Lego z serii Brickheadz:
 
@@ -1480,11 +2393,27 @@ Zainspiruj dzieci w wieku od 10 lat tym zestawem BrickHeadz™ zawierającym fig
 - Ozdoba pełna przygód – 410-elementowy zestaw konstrukcyjny LEGO® BrickHeadz™ dla dzieci w wieku od 10 lat zawiera szczegółowe instrukcje oraz podstawkę do postawienia na półce 
 - Wymiary – Vaiana i Merida mają po 8 cm wysokości
 
+**Galeria:**
+
+- 40621-1: https://a.allegroimg.com/original/11f297/9196070c4e999b257a69e02583a5
+
 ---
 
-## 40622 — Lego BrickHeadz Disney 100 urodziny 40622
+## 40622 — LEGO 40622 DISNEY 100 URODZINY
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017424040 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40622 |
+| Nazwa angielska | Disney 100th Celebration |
+| Nazwa polska | LEGO 40622 DISNEY 100 URODZINY |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 501 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424040 |
 
 LEGO® 40622 Disney — 100. urodziny
 
@@ -1495,11 +2424,27 @@ Pomóż dzieciom w wieku od 10 lat świętować urodziny Disneya, wręczając im
 - Kultowa ozdoba – 501-elementowy zestaw konstrukcyjny LEGO® BrickHeadz™ dla dzieci w wieku od 10 lat zawiera szczegółowe instrukcje oraz podstawkę do postawienia na półce. To świetny prezent kolekcjonerski dla fanów Disneya 
 - Wymiary – Oswald, Myszka Miki, Królewna Śnieżka i Dzwoneczek mają po 9 cm wysokości
 
+**Galeria:**
+
+- 40622-1: https://a.allegroimg.com/original/1184a0/b7c273374b7880ce1b82842a47b4
+
 ---
 
-## 40623 — Lego BrickHeadz 40623 Bohaterowie bitwy o Endor Star Wars
+## 40623 — Bohaterowie bitwy o Endor
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 208.99 zł · EAN: 05702017424057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40623 |
+| Nazwa angielska | Battle of Endor Heroes |
+| Nazwa polska | Bohaterowie bitwy o Endor |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 549 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424057 |
 
 Klocki LEGO BrickHeadz 40623 - Bohaterowie bitwy o Endor
  
@@ -1510,11 +2455,27 @@ Klocki LEGO BrickHeadz 40623 - Bohaterowie bitwy o Endor
 - Stworzone do eksponowania — każda postać w tym składającym się z 549 elementów zestawie ma podstawkę. Zestaw dla dzieci w wieku od 10 lat zawiera także miecz świetlny Luke'a, włócznię Wicketa i przekąskę Lei 
 - Wysokiej jakości upominek — ten zestaw to świetny prezent urodzinowy lub świąteczny dla fanów Gwiezdnych Wojen™ w wieku od 10 lat. Figurka droida R2-D2 LEGO® ma 5 cm wysokości
 
+**Galeria:**
+
+- 40623-1: https://a.allegroimg.com/original/11a5e2/19e52ea94f73a2b0df11eca9ad71
+
 ---
 
-## 40624 — Lego 40624 BrickHeadz Minecraft Alex
+## 40624 — Alex
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 78.00 zł · EAN: 05702017424064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40624 |
+| Nazwa angielska | Alex |
+| Nazwa polska | Alex |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424064 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1524,11 +2485,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40624-1: https://a.allegroimg.com/original/11ee7e/df640f1c4d8385ead439d7e9a2c3
+
 ---
 
-## 40625 — Zestaw Lego BrickHeadz 40625 Lama Nowe Idealny
+## 40625 — Lama
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.99 zł · EAN: 05702017414492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40625 |
+| Nazwa angielska | Llama |
+| Nazwa polska | Lama |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017414492 |
 
 ZESTAW LEGO BRICKHEADZ MINECRAFT 40625
  
@@ -1543,11 +2520,27 @@ Cechy zestawu:
 - Realistyczne detale – ta kolorowa figurka prezentuje moba z gry Minecraft® 
 - Do zabawy i ozdoby – figurka z serii BrickHeadz™ (inne figurki są sprzedawane oddzielnie) ma 8 cm wysokości i jest wyposażona w podstawkę ułatwiającą ustawienie na półce
 
+**Galeria:**
+
+- 40625-1: https://a.allegroimg.com/original/115c49/e655e5a0444e9953a0ad38816e6c
+
 ---
 
-## 40626 — Lego 40626 BrickHeadz Zombie
+## 40626 — Zombie
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 88.99 zł · EAN: 05702017423791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40626 |
+| Nazwa angielska | Zombie |
+| Nazwa polska | Zombie |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423791 |
 
 Klocki LEGO BrickHeadz 40626 - Zombie
 
@@ -1573,11 +2566,27 @@ Zestaw LEGO BrickHeadz - Zombie trafił do sprzedaży w 2023 roku. Numer katal
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40626-1: https://a.allegroimg.com/original/11a091/c8c0ff1e419fa6fbf9c71df03e80
+
 ---
 
-## 40627 — Lego BrickHeadz 40627 Sonic the Hedgehog Idealny
+## 40627 — Sonic the Hedgehog
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.50 zł · EAN: 05702017471488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40627 |
+| Nazwa angielska | Sonic the Hedgehog |
+| Nazwa polska | Sonic the Hedgehog |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471488 |
 
 Fani Sonica the Hedgehoga™ chętnie oderwą się od ekranów, aby oddać hołd swojemu ulubionemu niebieskiemu bohaterowi. Ten zestaw LEGO® BrickHeadz™ Sonic the Hedgehog™ (40627) zawiera płytkę konstrukcyjną, dzięki czemu stanowi fajną ozdobę na biurko lub stanowisko do gier. Podaruj w prezencie fanom Sonica w wieku od 10 lat.
 
@@ -1587,11 +2596,27 @@ Fani Sonica the Hedgehoga™ chętnie oderwą się od ekranów, aby oddać hołd
 
 - Wymiary – Sonic the Hedgehog™ ma 8 cm wysokości
 
+**Galeria:**
+
+- 40627-1: https://a.allegroimg.com/original/11dad0/265d1d7146cea58d361d8ab28641
+
 ---
 
-## 40628 — Klocki Lego Sonic the Hedgehog BrickHeadz 40628 Miles „Tails” Prower
+## 40628 — Miles Tails Prower
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 66.99 zł · EAN: 05702017471495 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40628 |
+| Nazwa angielska | Miles "Tails" Prower |
+| Nazwa polska | Miles Tails Prower |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 131 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471495 |
 
 LEGO® 40628 BrickHeadz - Miles „Tails” Prower
 
@@ -1601,11 +2626,27 @@ Uroczy Tails to ulubieniec fanów uniwersum Sonica the Hedgehoga™. Teraz mogą
 - Ciekawa ozdoba – ten zestaw LEGO® BrickHeadz™ Miles „Tails” Prower (40628) zawiera płytkę konstrukcyjną, aby fani mogli stworzyć ozdobę na biurko lub stanowisko do grania
 - Wymiary — Tails ma 8 cm wysokości
 
+**Galeria:**
+
+- 40628-1: https://a.allegroimg.com/original/11da25/fbab4af2466b9d87ec0f23a2a39a
+
 ---
 
-## 40630 — Lego BrickHeadz 40630 Frodo i Gollum
+## 40630 — Frodo i Gollum
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017423807 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40630 |
+| Nazwa angielska | Frodo & Gollum |
+| Nazwa polska | Frodo i Gollum |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423807 |
 
 Klocki LEGO BrickHeadz 40630 - Frodo i Gollum
  
@@ -1616,11 +2657,27 @@ Fanom sagi Władca Pierścieni™ spodoba się ten kolekcjonerski zestaw LEGO® 
 - Pomysł na prezent dla dzieci w wieku od 10 lat – ten składający się ze 184 elementów zestaw konstrukcyjny będzie świetnym prezentem dla fanów Władcy Pierścieni™, konstruktorów LEGO® i kolekcjonerów LEGO BrickHeadz™ 
 - Buduj i kolekcjonuj – Frodo™ ma 8 cm wysokości, a Gollum™ 5 cm wysokości. Do każdego modelu dołączona jest podstawka
 
+**Galeria:**
+
+- 40630-1: https://a.allegroimg.com/original/11cca3/2afb85d340658c89eb46b512802c
+
 ---
 
-## 40631 — Lego BrickHeadz Gandalf Szary i Balrog (40631) LoTR Władca pierścieni
+## 40631 — Gandalf Szary i Balrog
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017423814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40631 |
+| Nazwa angielska | Gandalf the Grey and Balrog |
+| Nazwa polska | Gandalf Szary i Balrog |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 348 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423814 |
 
 Klocki LEGO BrickHeadz 40631 - Gandalf Szary i Balrog
  
@@ -1631,11 +2688,27 @@ Klocki LEGO BrickHeadz 40631 - Gandalf Szary i Balrog
 - Pomysł na prezent dla dzieci w wieku od 10 lat – ten składający się z 348 elementów zestaw konstrukcyjny będzie świetnym prezentem dla fanów Władcy Pierścieni™, konstruktorów LEGO® i kolekcjonerów LEGO BrickHeadz™ 
 - Buduj i kolekcjonuj – figurki Gandalfa Szarego™ i Balroga™ mają 9 cm wysokości. Każdy z tych modeli kolekcjonerskich jest wyposażony w podstawkę
 
+**Galeria:**
+
+- 40631-1: https://a.allegroimg.com/original/11fd54/292c3fad46d2b8c758959654b3ad
+
 ---
 
-## 40632 — Lego BrickHeadz 40632 Aragorn i Arwena
+## 40632 — Aragorn i Arwena
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702017423821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40632 |
+| Nazwa angielska | Aragorn and Arwen |
+| Nazwa polska | Aragorn i Arwena |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423821 |
 
 Klocki LEGO BrickHeadz 40632 - Aragorn i Arwena
  
@@ -1646,11 +2719,27 @@ Obudź wspomnienia ze sceny ślubu Aragorna™ i Arweny™ z filmu „Władca Pi
 - Pomysł na prezent dla dzieci w wieku od 10 lat – ten składający się z 261 elementów zestaw konstrukcyjny będzie świetnym prezentem dla fanów Władcy Pierścieni™, konstruktorów LEGO® i kolekcjonerów LEGO BrickHeadz™ 
 - Buduj i kolekcjonuj – figurki Aragorna™ i Arweny™ mają 8 cm wysokości. Do każdego modeludołączona jest podstawka
 
+**Galeria:**
+
+- 40632-1: https://a.allegroimg.com/original/117f26/e79d9306407cb075deeed4d22589
+
 ---
 
-## 40668 — Lego BrickHeadz 40668 Figurki Kapitana Ameryki i Czerwonego Hulka
+## 40668 — Figurki Kapitana Ameryki i Czerwonego Hulka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 63.49 zł · EAN: 05702017598581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40668 |
+| Nazwa angielska | Captain America & Red Hulk Figures |
+| Nazwa polska | Figurki Kapitana Ameryki i Czerwonego Hulka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598581 |
 
 Lego Brickheadz 40668 - Figurki Kapitana Ameryki i Czerwonego Hulka
  
@@ -1664,11 +2753,27 @@ Kolekcjonerskie figurki superbohaterów LEGO® BrickHeadz™ to świetny prezent
 - LEGO® BrickHeadz™ na prezent — te kolekcjonerskie figurki BrickHeadz to świetny pomysł na prezent dla każdego małego superbohatera, fanów filmów Marvela lub konstruktorów LEGO 
 - Giganci Marvela w miniwersji — obie figurki składają się łącznie z 202 elementów, a Kapitan Ameryka i Czerwony Hulk mierzą 8 cm wysokości
 
+**Galeria:**
+
+- 40668-1: https://a.allegroimg.com/original/1163ed/d01cfadf426c894cb7448458b980
+
 ---
 
-## 40669 — Lego 40669 BrickHeadz Figurka Iron Man MK5
+## 40669 — Figurka Iron Man MK5
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017598598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40669 |
+| Nazwa angielska | Iron Man MK5 Figure |
+| Nazwa polska | Figurka Iron Man MK5 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598598 |
 
 Klocki LEGO BrickHeadz 40669 - Figurka Iron Man MK5
 
@@ -1702,11 +2807,27 @@ Zestaw LEGO BrickHeadz - Figurka Iron Man MK5 trafił do sprzedaży w 2024 roku.
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40669-1: https://a.allegroimg.com/original/1151d7/0b0cd6334814955d3c88c992f7cc
+
 ---
 
-## 40670 — Lego BrickHeadz 40670 Marvel Iron Spider-Man
+## 40670 — Klocki LEGO BrickHeadz 40670 - Iron Spider-Man
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 53.98 zł · EAN: 05702017596020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40670 |
+| Nazwa angielska | Iron Spider-Man |
+| Nazwa polska | Klocki LEGO BrickHeadz 40670 - Iron Spider-Man |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017596020 |
 
 LEGO® 40670 Iron Spider-man
 
@@ -1720,11 +2841,27 @@ Fani Spider-Mana będą zachwyceni tym kolekcjonerskim modelem człowieka-pająk
 - Gratka dla dzieci i fanów Marvela – ta kolekcjonerska postać BrickHeadz™ będzie świetnym prezentem dla budowniczych LEGO® lub fanów superbohaterów 
 - Mnóstwo zabawy – ten ciekawy model składa się z 91 elementów. Po złożeniu i ustawieniu na podstawie ma 8 cm wysokości
 
+**Galeria:**
+
+- 40670-1: https://a.allegroimg.com/original/1106e0/f9cfe1ec4242bf035d5bbd6cf301
+
 ---
 
-## 40671 — Klocki Lego BrickHeadz 40671 Groot w doniczce
+## 40671 — Klocki LEGO BrickHeadz 40671 - Groot w doniczce
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702017596037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40671 |
+| Nazwa angielska | Potted Groot |
+| Nazwa polska | Klocki LEGO BrickHeadz 40671 - Groot w doniczce |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017596037 |
 
 LEGO® 40671 Groot w doniczce
 
@@ -1738,11 +2875,27 @@ Fani Strażników Galaktyki Marvela i serialu Ja jestem Groot Disney+ będą zac
 - Gratka dla dzieci i fanów Marvela – ta kolekcjonerska postać BrickHeadz™ będzie świetnym prezentem dla budowniczych LEGO® lub fanów superbohaterów 
 - Mnóstwo zabawy – ten ciekawy model składa się ze 113elementów. Po złożeniu i ustawieniu na podstawie ma 9 cm wysokości
 
+**Galeria:**
+
+- 40671-1: https://a.allegroimg.com/original/111aec/c06a7d16428ca86aa5a8b7172f4a
+
 ---
 
-## 40672 — Klocki Lego BrickHeadz 40672 Sonic the Hedgehog: Knuckles i Shadow
+## 40672 — Klocki LEGO BrickHeadz 40672 - Sonic the Hedgehog: Knuckles i Shadow
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 136.99 zł · EAN: 05702017595818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40672 |
+| Nazwa angielska | Sonic the Hedgehog: Knuckles & Shadow |
+| Nazwa polska | Klocki LEGO BrickHeadz 40672 - Sonic the Hedgehog: Knuckles i Shadow |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595818 |
 
 LEGO® 40672 BrickHeadz - Sonic the Hedgehog: Knuckles i Shadow
 
@@ -1754,11 +2907,27 @@ Ta dwójka postaci w wersji BrickHeadz™ będzie świetnym upominkiem dla dzies
 - Wielezestawów do zebrania – fani mogą ustawić na półce także inne modele z serii LEGO® BrickHeadz™ (sprzedawane osobno)Gratka dla dzieci i fanów Sonica – ten kolekcjonerski zestaw postaci BrickHeadz™ będzie świetnym prezentem dla budowniczych LEGO®, modelarzy lub fanów jeża Sonica
 - Wspaniała zabawa – 298-elementowy zestaw zawiera figurkę Shadowa o wysokości 9 cm i Knucklesa o wysokości 8 cm
 
+**Galeria:**
+
+- 40672-1: https://a.allegroimg.com/original/11a775/566946ac4bae8f244161c838dee8
+
 ---
 
-## 40673 — Lego BrickHeadz 40673 Myszka Miki Wiosenny Festiwal Myszka Miki Disney Nowe
+## 40673 — Myszka Miki w stroju na wiosenny festiwal
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 34.90 zł · EAN: 05702017596723 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40673 |
+| Nazwa angielska | Spring Festival Mickey Mouse |
+| Nazwa polska | Myszka Miki w stroju na wiosenny festiwal |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017596723 |
 
 LEGO® 40673 Myszka Miki w stroju na wiosenny festiwal
 
@@ -1788,11 +2957,27 @@ Seria: BrickHeadz
 
 Nowy Oryginalny Zestaw Klocków LEGO BRICKHEADZ
 
+**Galeria:**
+
+- 40673-1: https://a.allegroimg.com/original/1154f5/8af887c4495c94f1494d5e9e3dfe
+
 ---
 
-## 40674 — Lego BrickHeadz 40674 Stitch
+## 40674 — Stitch
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.12 zł · EAN: 05702017595825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40674 |
+| Nazwa angielska | Stitch |
+| Nazwa polska | Stitch |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595825 |
 
 LEGO® 40674 Stitch
 
@@ -1808,11 +2993,27 @@ Wiele zestawów do zebrania – fani mogą ustawić Stitcha na półce wraz z in
  
 Mnóstwo zabawy – ten 152-elementowy model ma 9 cm wysokości i stoi na solidnej podstawce
 
+**Galeria:**
+
+- 40674-1: https://a.allegroimg.com/original/113f48/222be107440da5527f9c2ee0917d
+
 ---
 
-## 40675 — Lego BrickHeadz 40675 Dowódca klonów Cody
+## 40675 — Dowódca klonów Cody
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702017597089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40675 |
+| Nazwa angielska | Commander Cody |
+| Nazwa polska | Dowódca klonów Cody |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm × gł. 6 cm |
+| EAN | 5702017597089 |
 
 LEGO®
  
@@ -1836,11 +3037,27 @@ Przywołaj wspomnienia z filmu Gwiezdne Wojny: Zemsta Sithów dzięki figurce LE
 - Świetny prezent dla młodych i dorosłych fanów Gwiezdnych Wojen™ – podaruj ten zestaw LEGO® na urodziny lub bez okazji kolekcjonerom, dzieciom i fanom Gwiezdnych Wojen w wieku od 10 lat 
 - Buduj i baw się — ten 147-elementowy model LEGO® Star Wars™ z okazji 25-lecia sagi ma 8 cm wysokości, 5 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 40675-1: https://a.allegroimg.com/original/1198ae/1a5509324517a141dd4f410f9c85
+
 ---
 
-## 40676 — Lego BrickHeadz 40676 Star Wars postacie z filmu Mroczne Widmo
+## 40676 — Mroczne widmo
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 212.90 zł · EAN: 05702017597096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40676 |
+| Nazwa angielska | The Phantom Menace |
+| Nazwa polska | Mroczne widmo |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm × gł. 5 cm |
+| EAN | 5702017597096 |
 
 **Lego 40676 Star Wars Mroczne widmo Nowość BrickHeadz**
 
@@ -1856,11 +3073,27 @@ Przywołaj wspomnienia z filmu Gwiezdne Wojny: Zemsta Sithów dzięki figurce LE
 - Świetny prezent dla młodych i dorosłych fanów Gwiezdnych Wojen™ – podaruj ten zestaw LEGO® na urodziny lub bez okazji kolekcjonerom, dzieciom i fanom Gwiezdnych Wojen w wieku od 10 lat 
 - Buduj i baw się — ten 732-elementowy zestaw zawiera sześć figurek LEGO® do zbudowania, które mają 6 cm wysokości, 4 cm szerokości i 5 cm głębokości
 
+**Galeria:**
+
+- 40676-1: https://a.allegroimg.com/original/1154cd/19b025db4d05b7c4c7c05903867d
+
 ---
 
-## 40677 — Lego BrickHeadz 40677 Harry Potter figurki z filmu Więzień Azkabanu
+## 40677 — Figurki z filmu Więzień Azkabanu
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 233.90 zł · EAN: 05702017597072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40677 |
+| Nazwa angielska | Prisoner of Azkaban Figures |
+| Nazwa polska | Figurki z filmu Więzień Azkabanu |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 697 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017597072 |
 
 LEGO® 40677 Figurki z filmu „Więzień Azkabanu”
 
@@ -1871,11 +3104,27 @@ LEGO® 40677 Figurki z filmu „Więzień Azkabanu”
 - Idealna ozdoba na półkę – każda z postaci LEGO® BrickHeadz™ ma 8 cm wysokości wraz z podstawą. Figurki Harry’ego Pottera™, Hermiony Granger™ i Syriusza Blacka™ mają też różdżki 
 - Pomysł na prezent dla dzieci w wieku od 10 lat — podaruj fanowi Harry'ego Pottera ten składający się z 697 elementów zestaw LEGO® na urodziny, święta lub jako niespodziankę
 
+**Galeria:**
+
+- 40677-1: https://a.allegroimg.com/original/11f759/2d3d9f624080b1bd2d36100ab7e5
+
 ---
 
-## 40726 — Lego BrickHeadz 40726 85-lecie Batmana limitowana edycja
+## 40726 — 85-lecie Batmana - limitowana edycja
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702017689852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40726 |
+| Nazwa angielska | Limited Edition Batman 85th Anniversary |
+| Nazwa polska | 85-lecie Batmana - limitowana edycja |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017689852 |
 
 LEGO® 40726 Batman™ 85-lecie Batmana™ — limitowana edycja
 
@@ -1895,11 +3144,27 @@ LEGO® Batman™ 85-lecie Batmana™ — limitowana edycja (40726) to wyjątkowy
 - **Kolekcjonerski prezent** – podaruj fanom Batmana lub małym superbohaterom ten wyjątkowy zestaw z ośmioma plakatami i figurką akcji DC 8 w 1 w wersji BrickHeadz™ 
 - Wymiary – całość składa się z **325 elementów**, a figurki Batmana™ LEGO® BrickHeadz™ różnią się wysokością, jednak większość z nich ma **8 cm wysokości**
 
+**Galeria:**
+
+- 40726-1: https://a.allegroimg.com/original/11d80e/3a20a6624598a54cd58ccafbc68f
+
 ---
 
-## 40728 — Lego 40728 BrickHeadz Fortnite Bombowe Barwy Klocki Nowe
+## 40728 — Bombowe Barwy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702017598741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40728 |
+| Nazwa angielska | Brite Bomber |
+| Nazwa polska | Bombowe Barwy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598741 |
 
 LEGO 40728 BrickHeadz - Bombowe Barwy
 
@@ -1923,11 +3188,27 @@ Postać z gry – przenieś zabawę z gry Fortnite do prawdziwego świata dzięk
 
 Wymiary – postać Bombowe Barwy w tym 151-elementowym zestawie **ma 8 cm wysokości**
 
+**Galeria:**
+
+- 40728-1: https://a.allegroimg.com/original/110ef4/e7de4b144a3e89699425903fa512
+
 ---
 
-## 40748 — Lego BrickHeadz 40748 Batman 8w1
+## 40748 — LEGO BrickHeadz 40748 - Batman 8w1
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.78 zł · EAN: 05702017652887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40748 |
+| Nazwa angielska | Batman 8in1 Figure |
+| Nazwa polska | LEGO BrickHeadz 40748 - Batman 8w1 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652887 |
 
 LEGO 40748 BrickHeadz - Batman 8w1
  
@@ -1954,11 +3235,27 @@ Zestaw BrickHeadz 8 w 1 do budowania, zabawy i ustawiania na półce to świetny
  
 - Wybierz swój model Batmana™ — zestaw obejmuje łącznie **325 elementów**, a każda z opcji figurki LEGO® BrickHeadz™ Batman ma trochę inną wysokość, jednak najczęściej ma **9 cm wysokości**
 
+**Galeria:**
+
+- 40748-1: https://a.allegroimg.com/original/11bf47/a8a64e0144c3a2fc62d834182450
+
 ---
 
-## 40751 — Lego BrickHeadz 40751 Legolas i Gimli Eol
+## 40751 — LEGO BrickHeadz 40751 - Legolas i Gimli
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 174.99 zł · EAN: 05702017652917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40751 |
+| Nazwa angielska | Legolas & Gimli |
+| Nazwa polska | LEGO BrickHeadz 40751 - Legolas i Gimli |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652917 |
 
 **LEGO® BrickHeadz 40751 Legolas i Gimli**
  
@@ -1981,11 +3278,27 @@ Przywołaj wspomnienia z niesamowitych przygód Drużyny Pierścienia dzięki fi
 - Pomysł na prezent dla dzieci w wieku od 10 lat — ten składający się z 297 elementów zestaw konstrukcyjny będzie świetnym prezentem dla chłopców i dziewczynek oraz fanów Władcy Pierścieni lub kolekcjonerów LEGO® BrickHeadz™
 - Wymiary – figurka Legolasa ma 9 cm wysokości, a figurka Gimliego ma 8 cm
 
+**Galeria:**
+
+- 40751-1: https://a.allegroimg.com/original/112c4e/4832e5ea4427a617c055438a29ec
+
 ---
 
-## 40752 — Lego 40752 BrickHeadz Carl, Russell i Kevin postacie z filmu Odlot
+## 40752 — Carl, Russell i Kevin
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 127.95 zł · EAN: 05702017652924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40752 |
+| Nazwa angielska | Carl, Russell & Kevin |
+| Nazwa polska | Carl, Russell i Kevin |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 308 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652924 |
 
 LEGO 40752 BrickHeadz - Carl, Russell i Kevin
 
@@ -2007,11 +3320,27 @@ Fani w wieku od 10 lat mogą okazać swoją pasję do filmu Odlot studia Disney 
 
 - Zestaw z 308 elementami – figurka Carla ma 9 cm wysokości, Russella – 7 cm, a figurka Kevina ma 13 cm wysokości
 
+**Galeria:**
+
+- 40752-1: https://a.allegroimg.com/original/111ec6/58aced3a4c13aa01fbfe5807ccfe
+
 ---
 
-## 40753 — Lego Brickheadz 40753 Disney Encanto Mirabel Madrigal 10+
+## 40753 — Mirabel Madrigal
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017652931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40753 |
+| Nazwa angielska | Mirabel Madrigal |
+| Nazwa polska | Mirabel Madrigal |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652931 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -2041,11 +3370,27 @@ Oczaruj dzieci i fanów filmów w wieku od 10 lat zestawem LEGO® BrickHeadz™ 
 
 - Rozmiary — zestaw składa się ze 179 elementów, a figurka Mirabel Madrigal ma 9 cm wysokości
 
+**Galeria:**
+
+- 40753-1: https://a.allegroimg.com/original/113d91/e909841a43639a5a53ff32e1e036
+
 ---
 
-## 40760 — Lego 40760 Brickheadz Przygodowy Skórek Z Tropików I Dowódczyni Drużyny
+## 40760 — Przygodowy Skórek z Tropików i Dowódczyni Drużyny Przytulanek
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 124.45 zł · EAN: 05702017830209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40760 |
+| Nazwa angielska | Adventure Peely & Cuddle Team Leader |
+| Nazwa polska | Przygodowy Skórek z Tropików i Dowódczyni Drużyny Przytulanek |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830209 |
 
 LEGO 40760 BRICKHEADZ - PRZYGODOWY SKÓREK Z TROPIKÓW I DOWÓDCZYNI DRUŻYNY
 
@@ -2072,11 +3417,27 @@ Zbuduj dwie kultowe postacie z gry wideo dzięki zestawowi LEGO® Fortnite® Bri
 - Prezent dla gracza — zestaw świetnie sprawdzi się jako prezent dla chłopców i dziewczynek, a także graczy i fanów LEGO® Fortnite® w każdym wieku
 - Wymiary — zestaw zawiera 258 elementów. Przygodowy Skórek ma 10 cm wysokości, a Dowódczyni Drużyny Przytulanek ma 8 cm wysokości
 
+**Galeria:**
+
+- 40760-1: https://a.allegroimg.com/original/115e7c/cb915512424dadc00f7dd9e832d7
+
 ---
 
-## 40791 — Lego 40791 Harry Potter BrickHeadz Czara Ognia figurki Goblet of Fire Nowe
+## 40791 — Czara Ognia — figurki
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702017829890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40791 |
+| Nazwa angielska | The Goblet of Fire Figures |
+| Nazwa polska | Czara Ognia — figurki |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 671 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829890 |
 
 Klocki LEGO BrickHeadz 40791 - Czara Ognia - figurki
 
@@ -2095,11 +3456,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 40791-1: https://a.allegroimg.com/original/116260/18c6b8dd41df9b3d4028e3e694a8
+
 ---
 
-## 40792 — Lego BrickHeadz 40792 Dumbo
+## 40792 — Dumbo
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 51.00 zł · EAN: 05702017830285 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40792 |
+| Nazwa angielska | Dumbo |
+| Nazwa polska | Dumbo |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830285 |
 
 LEGO® 40792 Dumbo
 
@@ -2113,11 +3490,27 @@ Ożyw magię Disneya dzięki temu zestawowi konstrukcyjnemu LEGO® BrickHeadz™
 - Prezent dla dzieci — zestaw konstrukcyjny Disneya można podarować jako prezent lub zabawkę dla dzieci, miłośników zwierząt i dorosłych fanów Disneya 
 - Wymiary — zestaw składa się ze 176 elementów, a figurka Dumbo ma 9 cm wysokości
 
+**Galeria:**
+
+- 40792-1: https://a.allegroimg.com/original/11968c/07785a694e43b5dc41299bdce80c
+
 ---
 
-## 40793 — Figurki Toma i Jerry 212 el. 40793 Klocki Lego BrickHeadz
+## 40793 — Figurki Toma i Jerry’ego
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 71.99 zł · EAN: 05702017802169 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40793 |
+| Nazwa angielska | Tom & Jerry Figures |
+| Nazwa polska | Figurki Toma i Jerry’ego |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017802169 |
 
 Świętuj 85 lat wybryków Toma i Jerry'ego, budując zestaw LEGO® BrickHeadz™ Figurki Toma i Jerry’ego. Ożyw komiczną relację z kreskówki, budując figurki kota i myszy z akcesoriami. Jerry podpala ogon Toma zapałką, podczas gdy Tom goni go z młotkiem.
  
@@ -2131,11 +3524,27 @@ Tom jest figurką BrickHeadz w standardowym rozmiarze, a Jerry to wersja miniatu
 - Prezent dla dzieci w wieku od 10 lat — ten zestaw to świetny prezent dla dzieci lub każdego, kto uwielbia nostalgiczne zabawki z Tomem i Jerrym 
 - Wymiary — zestaw z 212 elementami zawiera figurkę Toma o wysokości 8 cm oraz figurkę Jerry’ego o wysokości 6 cm
 
+**Galeria:**
+
+- 40793-1: https://a.allegroimg.com/original/11d81d/0e613ed04136b57659af80cf84b0
+
 ---
 
-## 40794 — 40794 Lego BrickHeadz Wicked Elphaby I Glindy Zestaw Klocki Lego
+## 40794 — Wicked: Figurki Elphaby i Glindy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 89.96 zł · EAN: 05702017829906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40794 |
+| Nazwa angielska | Elphaba & Glinda Figures |
+| Nazwa polska | Wicked: Figurki Elphaby i Glindy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829906 |
 
 LEGO 40794 BrickHeadz - Wicked: Figurki Elphaby i Glindy
 
@@ -2157,11 +3566,27 @@ Figurki są umieszczone na solidnych płytkach konstrukcyjnych i stanowią niesa
  
 - 325-elementowy zestaw konstrukcyjny — figurka Glindy ma 6 cm wysokości, a figurka Elphaby ma 7 cm wysokości
 
+**Galeria:**
+
+- 40794-1: https://a.allegroimg.com/original/11bb28/774475044f9f9a3acf3262f24792
+
 ---
 
-## 40795 — Lego BrickHeadz Star Wars 40795 Luke Skywalker pilot Rebelii na święta
+## 40795 — Luke Skywalker (pilot Rebelii)
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 58.98 zł · EAN: 05702017830292 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40795 |
+| Nazwa angielska | Luke Skywalker (Rebel Pilot) |
+| Nazwa polska | Luke Skywalker (pilot Rebelii) |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830292 |
 
 LEGO BrickHeadz  Star Wars 40795  LUKE SKYWALKER pilot Rebelii  / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2188,11 +3613,27 @@ Przywołaj wspomnienia z emocjonującego ataku Rebeliantów na Gwiazdę Śmierci
 - Prezent dla dzieci i dorosłych fanów Gwiezdnych Wojen — podaruj ten model jako upominek na każdą okazję dzieciom w wieku od 10 lat oraz wszystkim kolekcjonerom i fanom Gwiezdnych Wojen
 - Wymiary — ten 138-elementowy zestaw LEGO® Star Wars™ zawiera figurkę, która ma 8 cm wysokości
 
+**Galeria:**
+
+- 40795-1: https://a.allegroimg.com/original/118b5a/6d9c4c2248e597ed0db92a981dfc
+
 ---
 
-## 40796 — Lego BrickHeadz Star Wars 40796 Zemsta Sithów bohaterowie i złoczyńcy
+## 40796 — Zemsta Sithów
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702017830308 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40796 |
+| Nazwa angielska | Revenge of the Sith Heroes & Villains |
+| Nazwa polska | Zemsta Sithów |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 656 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830308 |
 
 Lego BrickHeadz Star Wars 40796 Zemsta Sithów bohaterowie i złoczyńcy / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2219,11 +3660,27 @@ Oddaj hołd bohaterom i złoczyńcom z filmu Gwiezdne Wojny: Zemsta Sithów™ w
 - Prezent dla dzieci i dorosłych fanów Gwiezdnych Wojen — podaruj ten zestaw LEGO® jako upominek na każdą okazję dzieciom w wieku od 10 lat oraz wszystkim kolekcjonerom i fanom Gwiezdnych Wojen
 - Zestaw do zbudowania i ozdoby — ten 656-elementowy zestaw zawiera pięć figurek LEGO® Star Wars™ o wysokości 8 cm
 
+**Galeria:**
+
+- 40796-1: https://a.allegroimg.com/original/11b49d/9c1507dd4b1eb3179c45164a40ac
+
 ---
 
-## 40797 — Lego BrickHeadz 40797 Kłapouchy
+## 40797 — Kłapouchy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 59.98 zł · EAN: 05702017830315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40797 |
+| Nazwa angielska | Eeyore |
+| Nazwa polska | Kłapouchy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830315 |
 
 LEGO® 40797 Kłapouchy
 
@@ -2237,11 +3694,27 @@ Wejdź do Stumilowego Lasu i zbuduj ulubieńca Disneya dzięki zestawowi dla dzi
 - Prezent dla dzieci — zestaw ze zwierzątkiem do zbudowania można podarować jako prezent lub zabawkę dla dzieci, miłośników zwierząt i dorosłych fanów Disneya 
 - Wymiary — zestaw składa się ze 156 elementów, a figurka Kłapouchego ma 7,5 cm wysokości
 
+**Galeria:**
+
+- 40797-1: https://a.allegroimg.com/original/11e9c0/f4e667344a4fba1f78cad3ca4f80
+
 ---
 
-## 40798 — Lego 40798 BrickHeadz Panda czerwona Mei Disney Pixar TurningRed
+## 40798 — Panda czerwona Mei
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702017830537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40798 |
+| Nazwa angielska | Red Panda Mei |
+| Nazwa polska | Panda czerwona Mei |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830537 |
 
 LEGO® 40798 Panda czerwona Mei
 
@@ -2255,11 +3728,27 @@ Spraw, by fan Disneya i Pixara dał się ponieść kreatywności i podaruj mu ze
 - Prezent dla dzieci — zestaw konstrukcyjnyDisneya można podarować jako prezent lub zabawkę dla dzieci, miłośników zwierząt i dorosłych fanów Disneya 
 - Wymiary — zestaw składa się ze 121 elementów, a figurka pandy ma 8,5 cm wysokości
 
+**Galeria:**
+
+- 40798-1: https://a.allegroimg.com/original/11c2a3/2cc65f9f4ad9bf577e9518de6a4e
+
 ---
 
-## 40801 — Lego BrickHeadz Stranger Things 40801 Figurki Dustina Mike’a Willa i Lucasa
+## 40801 — Figurki Dustina, Mike'a, Willa i Lucasa
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702017829937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40801 |
+| Nazwa angielska | Mike, Dustin, Lucas and Will Figures |
+| Nazwa polska | Figurki Dustina, Mike'a, Willa i Lucasa |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 542 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829937 |
 
 Zabierz fanów serialu Stranger Things na kreatywną przygodę z realistycznymi figurkami LEGO® BrickHeadz™ Mike’a, Dustina, Lucasa i Willa (40801). Kolekcjonerskie charakterystyczne postacie stoją na solidnych podstawkach i z pewnością sprawią frajdę podczas budowania, zabawy i eksponowania. Figurki Mike’a, Dustina, Lucasa i Willa świetnie się prezentują samodzielnie lub obok innych postaci LEGO BrickHeadz (sprzedawanych osobno). To świetny prezent dla dzieci w wieku od 10 lat.
  
@@ -2271,11 +3760,27 @@ Zabierz fanów serialu Stranger Things na kreatywną przygodę z realistycznymi 
 - Postacie z serialu Stranger Things dla dzieci — ten zestaw LEGO® BrickHeadz™ to świetny pomysł na prezent dla dziewczynek i chłopców w wieku od 10 lat, którzy są fanami serialu Netflixa Stranger Things i kolekcjonerskich figurek LEGO BrickHeadz 
 - Zestaw z 542 elementami — największa z czterech figurek LEGO® BrickHeadz™ ma 9 cm wysokości
 
+**Galeria:**
+
+- 40801-1: https://a.allegroimg.com/original/11de02/c84678eb4515a4ce72f686e1458f
+
 ---
 
-## 40803 — Lego 40803 BrickHeadz Transformers Robot i pojazd Optimus Prime zestaw Nowy
+## 40803 — Robot i pojazd Optimus Prime
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 107.49 zł · EAN: 05702017830544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40803 |
+| Nazwa angielska | Optimus Prime Robot & Vehicle |
+| Nazwa polska | Robot i pojazd Optimus Prime |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830544 |
 
 Klocki LEGO BrickHeadz 40803 - Robot i pojazd Optimus Prime
 
@@ -2294,11 +3799,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 40803-1: https://a.allegroimg.com/original/11d346/da1702c84a99bbad2aa54b8e0ff2
+
 ---
 
-## 40804 — Lego BrickHeadz 40804 Transformers Robot i pojazd Bumblebee
+## 40804 — Robot i pojazd Bumblebee
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 124.89 zł · EAN: 05702017830551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40804 |
+| Nazwa angielska | Bumblebee Robot & Vehicle |
+| Nazwa polska | Robot i pojazd Bumblebee |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830551 |
 
 LEGO 40804 BrickHeadz - Robot i pojazd Bumblebee
  
@@ -2326,11 +3847,27 @@ Każda figurka stoi na solidnej płytce konstrukcyjnej, dzięki czemu ten zestaw
  
 - Wymiary — ten 253-elementowy zestaw zawiera figurkę Bumblebee **mierzącą 8 cm wysokości i figurkę w trybie samochodu LEGO® mierzącą 7 cm długości**
 
+**Galeria:**
+
+- 40804-1: https://a.allegroimg.com/original/11d389/94a5da1a411a8eda16329cda8c85
+
 ---
 
-## 40821 — Lego 40821 Okolicznościowe Zakochane niedźwiedzie na Walentynki
+## 40821 — Zakochane niedźwiedzie
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 111.98 zł · EAN: 05702017830698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40821 |
+| Nazwa angielska | Love Bears |
+| Nazwa polska | Zakochane niedźwiedzie |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 287 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm × gł. 5 cm |
+| EAN | 5702017830698 |
 
 LEGO 40821 Okolicznościowe Zakochane niedźwiedzie Prezent na Walentynki
 
@@ -2372,11 +3909,26 @@ Podaruj prezent, który nie zwiędnie i nie zostanie zapomniany. Zakochane nied�
 
 **Zrób niespodziankę bliskiej osobie i wybierz zestaw pełen miłości. Zamów LEGO® 40821 już dziś!**
 
+**Galeria:**
+
+- 40821-1: https://a.allegroimg.com/original/114254/a96db03f457193f0261b75262022
+
 ---
 
-## 40856 — Lego BrickHeadz 40856 The Mandalorian and Grogu: Sojusznicy i złoczyńcy
+## 40856 — The Mandalorian and Grogu: Sojusznicy i złoczyńcy
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 184.97 zł · EAN: 00673419425650 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40856 |
+| Nazwa angielska | The Mandalorian and Grogu: Allies & Villains |
+| Nazwa polska | The Mandalorian and Grogu: Sojusznicy i złoczyńcy |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 661 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419425650 |
 
 **LEGO 40856 BrickHeadz Star Wars**
  
@@ -2394,11 +3946,26 @@ Zbuduj zestaw The Mandalorian and Grogu: Sojusznicy i złoczyńcy (40856) w styl
 - Prezent dla dzieci i dorosłych — podaruj ten zestaw konstrukcyjny jako prezent dla chłopców, dziewczynek i wszystkich fanów lub kolekcjonerów w wieku od 10 lat, aby mogli stworzyć własną dekorację w stylu Gwiezdnych Wojen 
 - Wymiary — pięć figurek LEGO® Star Wars™ do zbudowania w tym 661-elementowym zestawie ma 5 cm wysokości, a najwyższa z nich ma 8 cm wysokości
 
+**Galeria:**
+
+- 40856-1: https://a.allegroimg.com/original/11f408/a61d005e43eda1937a1b6cb913dd
+
 ---
 
-## 40860 — Lego BrickHeadz 40860 Toy Story
+## 40860 — Toy Story
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702018071250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40860 |
+| Nazwa angielska | Toy Story |
+| Nazwa polska | Toy Story |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 528 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071250 |
 
 **LEGO 40860 Toy Story**
 
@@ -2419,11 +3986,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40860-1: https://a.allegroimg.com/original/114ffd/432f4af74b9fb694a068991b2c5d
+
 ---
 
-## 40861 — Lego 40861 BrickHeadz Figurki Sulley’ego, Mike’a i Boo
+## 40861 — Figurki Sulley’ego, Mike’a i Boo
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 116.32 zł · EAN: 05702018071045 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40861 |
+| Nazwa angielska | Sulley, Mike and Boo Figures |
+| Nazwa polska | Figurki Sulley’ego, Mike’a i Boo |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 303 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702018071045 |
 
 Klocki LEGO BrickHeadz 40861 - Figurki Sulley’ego, Mike’a i Boo
 
@@ -2457,11 +4039,26 @@ Zestaw LEGO BrickHeadz - Figurki Sulley’ego, Mike’a i Boo trafił do sprzeda
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40861-1: https://a.allegroimg.com/original/112082/5d71b9724af2a129540506776793
+
 ---
 
-## 40878 — Lego 40878 BrickHeadz Figurki Wojowniczych żółwi ninja
+## 40878 — Figurki Wojowniczych żółwi ninja
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 183.03 zł · EAN: 05702018071083 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40878 |
+| Nazwa angielska | Teenage Mutant Ninja Turtles Figures |
+| Nazwa polska | Figurki Wojowniczych żółwi ninja |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 567 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071083 |
 
 Klocki LEGO BrickHeadz 40878 - Figurki Wojowniczych żółwi ninja
 
@@ -2490,11 +4087,27 @@ Zestaw LEGO BrickHeadz - Figurki Wojowniczych żółwi ninja trafił do sprzed
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40878-1: https://a.allegroimg.com/original/117fb8/ff748068451ebb0ec1af3166e109
+
 ---
 
-## 40879 — Lego BrickHeadz 40879 Stranger Things: Jedenastka Max Demogorgon Holly
+## 40879 — Figurki Jedenastki, Max, Demogorgona i Holly
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.49 zł · EAN: 05702018071090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40879 |
+| Nazwa angielska | Eleven, Max, Demogorgon and Holly Figures |
+| Nazwa polska | Figurki Jedenastki, Max, Demogorgona i Holly |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 584 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071090 |
 
 LEGO BrickHeadz 40879 Stranger Things: Figurki Jedenastki, Maxa, Demogorgona i Holly / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -2526,11 +4139,27 @@ Wyrusz na Drugą Stronę dzięki zestawowi LEGO® BrickHeadz™ Stranger Things:
 
 - Wymiary — zestaw składa się z 584 elementów i zawiera figurki Demogorgona o wysokości 10 cm, Max o wysokości 9 cm oraz Eleven i Holly o wysokości 8 cm
 
+**Galeria:**
+
+- 40879-1: https://a.allegroimg.com/original/11ff15/549b4a6448ce8a2a0ce4d0db272b
+
 ---
 
-## 40881 — Lego Fortnite 40881 BrickHeadz Lama zaopatrzeniowa i Paluch Rybny
+## 40881 — Lama Zaopatrzeniowa i Palucha Rybnego — figurki
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.98 zł · EAN: 05702018071113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40881 |
+| Nazwa angielska | Supply Llama & Fishstick Figures |
+| Nazwa polska | Lama Zaopatrzeniowa i Palucha Rybnego — figurki |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 300 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071113 |
 
 LEGO 40881 BrickHeadz - Lama Zaopatrzeniowa i Palucha Rybnego - figurki
  
@@ -2544,11 +4173,27 @@ LEGO® Fortnite® BrickHeadz™ Lama Zaopatrzeniowa i Paluch Rybny — figurki (
 - Pomysł na prezent dla miłośników gier — zestaw konstrukcyjny to świetny prezent na urodziny lub inne okazje dla chłopców i dziewczynek w każdym wieku 
 - Wymiary — zestaw zawiera 300 elementów Figurki Lamy Zaopatrzeniowej i Palucha Rybnego mają 10 cm wysokości
 
+**Galeria:**
+
+- 40881-1: https://a.allegroimg.com/original/11e6e0/33888ce74424bfbc5a86f37fb662
+
 ---
 
-## 40884 — Lego 40884 BrickHeadz Drift i Raven figurki
+## 40884 — Drift i Raven — figurki
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 94.94 zł · EAN: 05702017992860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40884 |
+| Nazwa angielska | Drift & Raven Figures |
+| Nazwa polska | Drift i Raven — figurki |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017992860 |
 
 Klocki LEGO BrickHeadz 40884 - Drift i Raven - figurki
 
@@ -2577,11 +4222,26 @@ Zestaw LEGO BrickHeadz - Drift i Raven - figurki trafił do sprzedaży w 2025 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40884-1: https://a.allegroimg.com/original/1141b3/7673150e4c31a073cfc6c1811606
+
 ---
 
-## 40910 — Lego BrickHeadz 40910 Mistrz Rzucania Mięsem i Podniebna hamburger fortnite
+## 40910 — Mistrz Rzucania Mięsem i Podniebna – figurki
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 158.87 zł · EAN: 05702018071632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40910 |
+| Nazwa angielska | Beef Boss & Skye Figures |
+| Nazwa polska | Mistrz Rzucania Mięsem i Podniebna – figurki |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 288 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071632 |
 
 **LEGO 40910 Mistrz Rzucania Mięsem i Podniebna – figurki**
  
@@ -2601,11 +4261,26 @@ Przenieś radość z grania poza ekran dzięki zestawowi LEGO® Fortnite® Brick
  
 Nowy, oryginalnie zapakowany.
 
+**Galeria:**
+
+- 40910-1: https://a.allegroimg.com/original/11df4c/15cacfcb4d6f97959f6d1363277b
+
 ---
 
-## 40922 — Lego BrickHeadz 40922 Lilo i Stitch Andzia
+## 40922 — Lilo i Stitch: Andzia
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 68.99 zł · EAN: 05702018071144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40922 |
+| Nazwa angielska | Lilo & Stitch: Angel |
+| Nazwa polska | Lilo i Stitch: Andzia |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071144 |
 
 Klocki LEGO BrickHeadz 40922 - Lilo i Stitch: Andzia
  
@@ -2620,11 +4295,26 @@ Zaskocz dzieci tym uroczym zestawem LEGO® BrickHeadz™ Lilo i Stitch: Andzia (
 - Rozpoznawalna postać — ten zestaw konstrukcyjny LEGO® jest utrzymany w charakterystycznej dla Andzi różowej kolorystyce i odznacza się kultowymi już elementami: antenkami, dużymi uszami i ogonkiem postaci 
 - Pomysł na prezent dla kinomaniaków — ten zestaw będzie świetnym upominkiem dla chłopców i dziewczynek w wieku od 10 lat, a także wszystkich konstruktorów LEGO®, modelarzy i fanów Lilo i Stitcha Disneya
 
+**Galeria:**
+
+- 40922-1: https://a.allegroimg.com/original/11addb/213656104f158afcf2dfc25966b8
+
 ---
 
-## 40923 — Lego BrickHeadz 40923 Figurki Shreka, Osła i Ciastka
+## 40923 — Figurki Shreka, Osła i Ciastka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 119.98 zł · EAN: 05702018071441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40923 |
+| Nazwa angielska | Shrek, Donkey & Gingy Figures |
+| Nazwa polska | Figurki Shreka, Osła i Ciastka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 259 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071441 |
 
 Zestaw konstrukcyjny LEGO® BrickHeadz™ Figurki Shreka, Osła i Ciastka (40923) dla chłopców i dziewczynek w wieku od 10 lat pozwoli im przenieść się do krainy Zasiedmiogórogrodu. Wszystkie trzy postacie są łatwo rozpoznawalne, a Shrek trzyma klasyczną tabliczkę „Beware Ogre” („Uwaga, ogr”). Wprowadź magię z filmów o Shreku do swojego domu, eksponując figurki jako dekoracje filmowe. Zestaw stanowi doskonały pomysł na prezent dla chłopców, dziewczynek, fanów Shreka i kolekcjonerów w wieku od 10 lat. Zestaw składa się z 260 elementów.
 
@@ -2635,11 +4325,27 @@ Zestaw konstrukcyjny LEGO® BrickHeadz™ Figurki Shreka, Osła i Ciastka (40923
 - Prezent dla fanów Shreka — podaruj ten zestaw chłopcom, dziewczynkom i fanom Shreka na urodziny, święta i inne wyjątkowe okazje
 - Wymiary — 260-elementowy zestaw zawiera figurki Shreka o wysokości 8 cm, Osła o wysokości 7 cm oraz Ciastka o wysokości 5 cm
 
+**Galeria:**
+
+- 40923-1: https://a.allegroimg.com/original/11b8cf/745ee6554c65a949a7958e6bd0e0
+
 ---
 
-## 40924 — Lego BrickHeadz 40924 Megatron jako robot i pojazd
+## 40924 — Megatron jako robot i pojazd
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 109.69 zł · EAN: 05702018071458 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40924 |
+| Nazwa angielska | Megatron Robot & Vehicle |
+| Nazwa polska | Megatron jako robot i pojazd |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 224 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071458 |
 
 Klocki LEGO® 40924 BrickHeadz™ Megatron jako robot i pojazd
 
@@ -2665,11 +4371,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 10 roku życia oraz fanów Transformers, którzy lubią budować modele kolekcjonerskie LEGO® BrickHeadz™ i odtwarzać sceny inspirowane tym uniwersum.
 
+**Galeria:**
+
+- 40924-1: https://a.allegroimg.com/original/114e63/104759834a13bcd45e81be221cb8
+
 ---
 
-## 40925 — Lego BrickHeadz 40925 Alicja w Krainie Czarów
+## 40925 — Alicja w Krainie Czarów
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.71 zł · EAN: 05702018071465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40925 |
+| Nazwa angielska | Alice in Wonderland |
+| Nazwa polska | Alicja w Krainie Czarów |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 601 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071465 |
 
 Wpadnij do króliczej nory dzięki zestawowi **LEGO BrickHeadz ǀ Disney Alicja w Krainie Czarów (40925) **— to unikatowy pomysł na prezent dla dziewczynek, chłopców i miłośników filmów w wieku od 10 lat.
  
@@ -2689,11 +4410,27 @@ Zestaw składa się z 601 elementów.
 - Pomysł na prezent dla miłośników Alicji w Krainie Czarów — podaruj dziewczynkom, chłopcom i miłośnikom filmów ten zestaw konstrukcyjny o tematyce filmowej na urodziny, święta i inne specjalne okazje 
 - Wymiary — zestaw składa się z 601 elementów. Alicja ma 8 cm wysokości, Biały Królik 10 cm, Szalony Kapelusznik 12 cm, a Kot z Cheshire ma 9 cm
 
+**Galeria:**
+
+- 40925-1: https://a.allegroimg.com/original/11e71b/32f16eb34976bff54600d0f810d1
+
 ---
 
-## 41487 — Lego BrickHeadz 41487 Ninjago Lloyd
+## 41487 — Ninjago Lloyd
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41487 |
+| Nazwa angielska | Lloyd |
+| Nazwa polska | Ninjago Lloyd |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016198980 |
 
 LEGO BrickHeadz 41487 Ninjago Lloyd
 
@@ -2701,11 +4438,27 @@ LEGO BrickHeadz 41487 Ninjago Lloyd
 
 Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych klocków LEGO® BrickHeadz, które pokazują wszystkie charakterystyczne detale jego postaci, w tym strój ninja z opaską na czoło i pas. Postać ma także odłączaną katanę oraz kolekcjonerską podstawkę z ikoną BrickHeadz, aby można było ją łatwo postawić na wybranym miejscu, na przykład w domu lub w pracy.
 
+**Galeria:**
+
+- 41487-1: https://a.allegroimg.com/original/117ce5/151c11f1483e9a1691c4d2453244
+
 ---
 
-## 41488 — Lego BrickHeadz 41488 Mistrz Wu
+## 41488 — Mistrz Wu
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016198997 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41488 |
+| Nazwa angielska | Master Wu |
+| Nazwa polska | Mistrz Wu |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016198997 |
 
 LEGO BrickHeadz 41488 Mistrz Wu
 
@@ -2713,11 +4466,27 @@ LEGO BrickHeadz 41488 Mistrz Wu
 
 Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych klocków LEGO® BrickHeadz, które pokazują wszystkie charakterystyczne detale jego postaci, w tym strój ninja z opaską na czoło i pas. Postać ma także odłączaną katanę oraz kolekcjonerską podstawkę z ikoną BrickHeadz, aby można było ją łatwo postawić na wybranym miejscu, na przykład w domu lub w pracy.
 
+**Galeria:**
+
+- 41488-1: https://a.allegroimg.com/original/114f8f/a09d707a4f28889f10ee9be1f861
+
 ---
 
-## 41585 — Lego BrickHeadz 41585 Batman
+## 41585 — Batman
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015864244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41585 |
+| Nazwa angielska | Batman |
+| Nazwa polska | Batman |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015864244 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2735,11 +4504,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Lloyda z kolorowych kloc
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41585-1: https://a.allegroimg.com/original/1170c5/f3d2dc3e4da4a2984484214dd1b2
+
 ---
 
-## 41586 — Lego 41586 BrickHeadz DC Batgirl
+## 41586 — Batgirl
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702015864251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41586 |
+| Nazwa angielska | Batgirl |
+| Nazwa polska | Batgirl |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015864251 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2749,11 +4534,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 41586-1: https://a.allegroimg.com/original/11792a/7c020ead4010a48d6c031f93f529
+
 ---
 
-## 41587 — Lego BrickHeadz 41587 BrickHeadz Robin
+## 41587 — BrickHeadz - ROBIN
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702015864268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41587 |
+| Nazwa angielska | Robin |
+| Nazwa polska | BrickHeadz - ROBIN |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015864268 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -2778,11 +4579,27 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 - **Wysokość 7 cm bez płytki konstrukcyjnej.** 
 - **Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 1 cm.**
 
+**Galeria:**
+
+- 41587-1: https://a.allegroimg.com/original/03f14f/87f902d743589e09be57a683d73c
+
 ---
 
-## 41588 — Lego BrickHeadz 41588 Joker
+## 41588 — Joker
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702015868976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41588 |
+| Nazwa angielska | The Joker |
+| Nazwa polska | Joker |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868976 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2806,11 +4623,27 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41588-1: https://a.allegroimg.com/original/1172a7/440a487242c9be8da1b4aca25a3f
+
 ---
 
-## 41589 — Lego BrickHeadz 41589 Lego 41589 BrickHeadz Kapitan Ameryka
+## 41589 — LEGO 41589 BrickHeadz - Kapitan Ameryka
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015868983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41589 |
+| Nazwa angielska | Captain America |
+| Nazwa polska | LEGO 41589 BrickHeadz - Kapitan Ameryka |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868983 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2840,19 +4673,51 @@ Zbuduj figurkę Captain America w zestawie BrickHeadz z kolorowych klocków LEGO
 - Wysokość 7 cm bez płytki konstrukcyjnej.
 - Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 1 cm.
 
+**Galeria:**
+
+- 41589-1: https://a.allegroimg.com/original/062e7f/9c33471e4116baacb304655f8209
+
 ---
 
-## 41590 — Lego BrickHeadz 41590 Iron Man
+## 41590 — Iron Man
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 240.00 zł · EAN: 05702015868990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41590 |
+| Nazwa angielska | Iron Man |
+| Nazwa polska | Iron Man |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868990 |
 
 Zbuduj klasycznego superbohatera wszech czasów, takiego jak Iron Man z kinowego przeboju Marvela \"Kapitan Ameryka: Wojna bohaterów\", z nowymi figurkami do budowania LEGO® BrickHeadz dostępnymi od marca 2017 r. Zobacz czerwoną i żółtą zbroję naukowca milionera oraz zaprezentuj figurkę Iron Man na specjalnej płytce konstrukcyjnej.
 
+**Galeria:**
+
+- 41590-1: https://a.allegroimg.com/original/01fddb/58f855364342a183a7738bfefd2e
+
 ---
 
-## 41592 — Lego BrickHeadz 41592 Hulk
+## 41592 — 41592
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 174.00 zł · EAN: 05702015869010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41592 |
+| Nazwa angielska | The Hulk |
+| Nazwa polska | 41592 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869010 |
 
 **Lego BrickHeadz Hulk 41592**. Baw się uderzająco dobrze z zestawem LEGO® BrickHeadz Hulk! Zbuduj niezwykłą figurkę w zestawie Hulk BrickHeadz z kolorowych klocków LEGO System, które odtwarzają wszystkie charakterystyczne szczegóły, takie jak nakładane pięści i włosy oraz niesamowite muskuły. Ćwicz swoje nowe muskuły BrickHeadz w domu, biurze czy gdziekolwiek zechcesz.
 
@@ -2872,11 +4737,27 @@ Nr katalogowy: 41592
  
 Ilość klocków w zestawie: 93
 
+**Galeria:**
+
+- 41592-1: https://a.allegroimg.com/original/11998a/d7256b964326abfcbff68fa5b45c
+
 ---
 
-## 41593 — Lego BrickHeadz 41593 Kapitan Jack Sparrow
+## 41593 — LEGO
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015869034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41593 |
+| Nazwa angielska | Captain Jack Sparrow |
+| Nazwa polska | LEGO |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869034 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2905,11 +4786,27 @@ Z tą figurką do budowania BrickHeadz, dostępną od kwietnia 2017 r., możesz 
 - Wysokość 7 cm bez płytki konstrukcyjnej.
 - Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 1 cm.
 
+**Galeria:**
+
+- 41593-1: https://a.allegroimg.com/original/116377/b3b989094067ba44fe9564b7f4a4
+
 ---
 
-## 41594 — Lego 41594 BrickHeadz Piraci z Karaibów Kapitan Armando Salazar
+## 41594 — Kapitan Armando Salazar
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702015869041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41594 |
+| Nazwa angielska | Captain Armando Salazar |
+| Nazwa polska | Kapitan Armando Salazar |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869041 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2919,11 +4816,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 41594-1: https://a.allegroimg.com/original/1180d1/57408d284573bdda0c9557030794
+
 ---
 
-## 41595 — Lego 41595 BrickHeadz Bella
+## 41595 — BELLE
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015869058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41595 |
+| Nazwa angielska | Belle |
+| Nazwa polska | BELLE |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869058 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2952,11 +4865,27 @@ Zbuduj figurkę Belli w wersji BrickHeadz zawierającą kolorowe klocki LEGO Sys
 - Wysokość 7 cm bez płytki konstrukcyjnej. 
 - Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 1 cm.
 
+**Galeria:**
+
+- 41595-1: https://a.allegroimg.com/original/116300/e0daec64496998d718332dbbba38
+
 ---
 
-## 41596 — Lego 41596 BrickHeadz Disney Bestia
+## 41596 — LEGO BrickHeadz
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015869065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41596 |
+| Nazwa angielska | Beast |
+| Nazwa polska | LEGO BrickHeadz |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869065 |
 
 LEGO 41596 BRICKHEADZ
 
@@ -2974,11 +4903,27 @@ Odtwórz Bestię z tą piękną figurką do budowania BrickHeadz zawierającą k
  
 Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 1 cm.
 
+**Galeria:**
+
+- 41596-1: https://1.allegroimg.com/original/03bcd8/cc300f9d46a5bada169ff0f7b191
+
 ---
 
-## 41597 — Lego BrickHeadz 41597 Go Brick Me
+## 41597 — Go Brick Me
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016072624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41597 |
+| Nazwa angielska | Go Brick Me |
+| Nazwa polska | Go Brick Me |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 708 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016072624 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3005,11 +4950,27 @@ Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 
 - Ten ciekawy zestaw z postaciami do zbudowania jest odpowiedni dla dzieci w wieku od 10 lat. 
 - Płytki mają ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41597-1: https://a.allegroimg.com/original/006ffa/bdaad44548d19e7c9d3ce2793f09
+
 ---
 
-## 41598 — Lego 41598 BrickHeadz The Flash
+## 41598 — 41598
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016072631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41598 |
+| Nazwa angielska | The Flash |
+| Nazwa polska | 41598 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016072631 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3033,11 +4994,27 @@ Wymiary płytki konstrukcyjnej: kwadrat o bokach o długości 4 cm i wysokości 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41598-1: https://a.allegroimg.com/original/007260/fc0f7dd749b1aae77d97b76f6757
+
 ---
 
-## 41600 — Lego 41600 BrickHeadz Aquaman
+## 41600 — BrickHeadz - AQUAMAN
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 126.13 zł · EAN: 05702016072655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41600 |
+| Nazwa angielska | Aquaman |
+| Nazwa polska | BrickHeadz - AQUAMAN |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016072655 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3066,11 +5043,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Aquamana™ z kolorowych
 - Wysokość: ok. 7 cm bez płytki konstrukcyjnej.
 - Wymiary płytki konstrukcyjnej: kwadrat ok. 4 x 4 cm o wysokości ok. 1 cm.
 
+**Galeria:**
+
+- 41600-1: https://a.allegroimg.com/original/05ada6/090a38934044b69d9d7df2f9f4b4
+
 ---
 
-## 41601 — Lego BrickHeadz 41601 Cyborg
+## 41601 — 41601
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016072662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41601 |
+| Nazwa angielska | Cyborg |
+| Nazwa polska | 41601 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016072662 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3098,11 +5091,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Cyborga™ z kolorowych 
 - Wysokość: ok. 7 cm bez płytki konstrukcyjnej.
 - Wymiary płytki konstrukcyjnej: kwadrat ok. 4 x 4 cm o wysokości ok. 1 cm.
 
+**Galeria:**
+
+- 41601-1: https://a.allegroimg.com/original/053563/6099f9c3458db20588a8ca7ba8c7
+
 ---
 
-## 41602 — Lego BrickHeadz 41602 Rey
+## 41602 — LEGO 41602 BrickHeadz Rey
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016074772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41602 |
+| Nazwa angielska | Rey |
+| Nazwa polska | LEGO 41602 BrickHeadz Rey |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016074772 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3125,11 +5134,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj postać Cyborga™ z kolorowych 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41602-1: https://a.allegroimg.com/original/004dd3/877fba4546839aba0fe8386ebc4d
+
 ---
 
-## 41603 — Lego BrickHeadz 41603 Kylo Ren
+## 41603 — Kylo Ren
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 140.68 zł · EAN: 05702016077469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41603 |
+| Nazwa angielska | Kylo Ren |
+| Nazwa polska | Kylo Ren |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016077469 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3170,11 +5195,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę Kylo Rena™ z klocków
 - Wysokość: ok. 7 cm bez płytki konstrukcyjnej.
 - Wymiary płytki konstrukcyjnej: kwadrat ok. 4 x 4 cm o wysokości ok. 1 cm.
 
+**Galeria:**
+
+- 41603-1: https://a.allegroimg.com/original/00fd84/c6d4d64641ec82310f7bca95fd82
+
 ---
 
-## 41604 — Lego BrickHeadz 41604 Iron Man MK50
+## 41604 — BrickHeadz
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016111071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41604 |
+| Nazwa angielska | Iron Man MK50 |
+| Nazwa polska | BrickHeadz |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111071 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3218,11 +5259,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Iron Mana MK50 z kolorowych kloc
  
 • Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41604-1: https://a.allegroimg.com/original/00a7ac/075a8ba34f4c82f11251bd51c681
+
 ---
 
-## 41605 — Lego BrickHeadz 41605 Thanos
+## 41605 — Thanos
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016111064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41605 |
+| Nazwa angielska | Thanos |
+| Nazwa polska | Thanos |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111064 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3246,11 +5303,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Iron Mana MK50 z kolorowych kloc
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41605-1: https://a.allegroimg.com/original/001278/a4b6aa88415ab88a9e2f5bbc691d
+
 ---
 
-## 41606 — Lego 41606 BrickHeadz Star-Lord
+## 41606 — BrickHeadz
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 218.29 zł · EAN: 05702016111033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41606 |
+| Nazwa angielska | Star-Lord |
+| Nazwa polska | BrickHeadz |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111033 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3283,11 +5356,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Star-Lorda z kolorowych klocków
 - Model ma ok. 7 cm wysokości bez podstawki. 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41606-1: https://a.allegroimg.com/original/0003cc/098b9c3b4dc4921a7fed625e7de5
+
 ---
 
-## 41607 — Lego BrickHeadz 41607 Lego BrickHeadz Gamora 41607
+## 41607 — LEGO BrickHeadz Gamora 41607
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016111002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41607 |
+| Nazwa angielska | Gamora |
+| Nazwa polska | LEGO BrickHeadz Gamora 41607 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111002 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3311,11 +5400,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj Star-Lorda z kolorowych klocków
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41607-1: https://a.allegroimg.com/original/00b232/07c9c2cc4fbb9f9107c63c2b7a5c
+
 ---
 
-## 41608 — Lego BrickHeadz 41608 Han Solo
+## 41608 — LEGO BrickHeadz Han Solo 41608
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702016110975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41608 |
+| Nazwa angielska | Han Solo |
+| Nazwa polska | LEGO BrickHeadz Han Solo 41608 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110975 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3351,11 +5456,27 @@ Zestaw LEGO BrickHeadz 41608 Han Solo zapewnia świetną zabawę podczas budowan
 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41608-1: https://a.allegroimg.com/original/0061e1/7b55714543768734afbc9f5c3bad
+
 ---
 
-## 41609 — Klocki Lego BrickHeadz Zestaw Chewbacca 41609
+## 41609 — CHEWBACCA
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 478.00 zł · EAN: 05702016110944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41609 |
+| Nazwa angielska | Chewbacca |
+| Nazwa polska | CHEWBACCA |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110944 |
 
 Zestaw LEGO® BrickHeadz™ 41609 Chewbacca zapewnia świetną zabawę podczas budowania z kolorowych klocków LEGO, które oddają wszystkie kultowe detale tej postaci z sagi „Gwiezdnych wojen”, takie jak zmierzwiona sierść i pas na amunicję. Figurka ma także odczepiany blaster oraz kolekcjonerską podstawkę z logo BrickHeadz, aby można było ją łatwo postawić na wybranym miejscu, na przykład w domu lub w pracy.
 
@@ -3369,11 +5490,27 @@ Chewbacca ma ok. 7 cm wysokości bez podstawki.
 
 Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41609-1: https://7.allegroimg.com/original/007fb8/3d4788484618963a6e2d37541f37
+
 ---
 
-## 41610 — Lego BrickHeadz 41610 Batman i Superman
+## 41610 — Batman i Superman
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016110937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41610 |
+| Nazwa angielska | Tactical Batman & Superman |
+| Nazwa polska | Batman i Superman |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110937 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3397,11 +5534,27 @@ Podstawka ma ok. 4 cm kwadratowych powierzchni.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41610-1: https://a.allegroimg.com/original/009fc8/6ff7c4174635b62da10721b383b0
+
 ---
 
-## 41613 — Lego BrickHeadz 41613 Mr. Incredible & Frozone
+## 41613 — Mr. Incredible & Frozone
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702016110890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41613 |
+| Nazwa angielska | Mr. Incredible & Frozone |
+| Nazwa polska | Mr. Incredible & Frozone |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110890 |
 
 Klocki LEGO BrickHeadz 41613 - Incredibles 2: Pan Iniemamocny i Mrożon
  
@@ -3415,11 +5568,27 @@ Figurki Pana Iniemamocnego i Mrożona z zestawu LEGO® BrickHeadz™ 41613 zapew
 - Każdy z modeli ma ok. 7 cm wysokości bez podstawki. 
 - Płytki mają ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41613-1: https://a.allegroimg.com/original/1165ab/f476c90c4a88854e23598a367e8c
+
 ---
 
-## 41614 — Lego 41614 BrickHeadz Owen & Blue
+## 41614 — 41614
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 214.00 zł · EAN: 05702016110883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41614 |
+| Nazwa angielska | Owen & Blue |
+| Nazwa polska | 41614 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110883 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3443,11 +5612,27 @@ Figurki Pana Iniemamocnego i Mrożona z zestawu LEGO® BrickHeadz™ 41613 zapew
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41614-1: https://a.allegroimg.com/original/11ac7d/06c7b18c44c693fe5334b0029589
+
 ---
 
-## 41615 — Lego 41615 BrickHeadz Harry Potter i Hedwiga
+## 41615 — LEGO Harry Potter 41615
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 318.23 zł · EAN: 05702016110555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41615 |
+| Nazwa angielska | Harry Potter & Hedwig |
+| Nazwa polska | LEGO Harry Potter 41615 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110555 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3476,11 +5661,27 @@ Figurki Harry’ego Pottera™ i Hedwigi™ z zestawu LEGO® BrickHeadz™ 41615
 - Młody Harry Potter™ ma ok. 7 cm wysokości bez podstawki.
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41615-1: https://a.allegroimg.com/original/00e39b/15bc56c7486ab586760da5c097b9
+
 ---
 
-## 41616 — Lego Harry Potter BrickHeadz 41616 Hermiona Granger
+## 41616 — Klocki LEGO BrickHeadz 41616 - Hermiona Granger
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016110548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41616 |
+| Nazwa angielska | Hermione Granger |
+| Nazwa polska | Klocki LEGO BrickHeadz 41616 - Hermiona Granger |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 127 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110548 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3515,11 +5716,27 @@ Model LEGO BrickHeadz 41616 Hermiona Granger zapewnia świetną zabawę podczas 
 - Figurka Hermiony ma ok. 7 cm wysokości bez podstawki. 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41616-1: https://a.allegroimg.com/original/117317/b80627b44a5d9bcdf561295c4c9f
+
 ---
 
-## 41617 — Lego 41617 BrickHeadz Elsa
+## 41617 — Lego frozen 41617
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016110531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41617 |
+| Nazwa angielska | Elsa |
+| Nazwa polska | Lego frozen 41617 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110531 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3549,11 +5766,27 @@ Sięgnij po klocki LEGO® i zbuduj figurkę BrickHeadz™ Elsy z przebojowego fi
 - Do każdej postaci LEGO® BrickHeadz™ do zbudowania dołączamy kolekcjonerską podstawkę do samodzielnego złożenia.
 - Zbierz inne postacie z przebojowego filmu Disneya „Kraina lodu” i powiększ swoją kolekcję figurek LEGO® BrickHeadz™! Mamy dla Ciebie o wiele więcej zestawów nawiązujących do najpopularniejszych filmów, seriali, gier i komiksów.
 
+**Galeria:**
+
+- 41617-1: https://a.allegroimg.com/original/11ff44/7fa77d4f4f62a104f0faa3dcb952
+
 ---
 
-## 41618 — Lego BrickHeadz 41618 Lego BrickHeadz 41618 Anna i Olaf
+## 41618 — LEGO BrickHeadz 41618 Anna i Olaf
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702016176223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41618 |
+| Nazwa angielska | Anna & Olaf |
+| Nazwa polska | LEGO BrickHeadz 41618 Anna i Olaf |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176223 |
 
 Klocki LEGO BrickHeadz 41618 - Anna i Olaf
  
@@ -3569,11 +5802,27 @@ Figurki LEGO® BrickHeadz™ Anny i Olafa Disneya zapewniają świetną zabawę 
 
 Zestaw LEGO BrickHeadz - Anna i Olaf trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 41618. Zawiera 201 klocków LEGO. Nazwa zestawu w języku angielskim LEGO BrickHeadz - Anna & Olaf. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 41618-1: https://2.allegroimg.com/original/009976/f361593a4b3cb61ee5e8f757dfa2
+
 ---
 
-## 41619 — Lego BrickHeadz 41619 Lego brickheadz 41619 Darth Vader
+## 41619 — LEGO brickheadz 41619 Darth Vader
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016176605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41619 |
+| Nazwa angielska | Darth Vader |
+| Nazwa polska | LEGO brickheadz 41619 Darth Vader |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176605 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3604,11 +5853,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę LEGO® BrickHeadz™ Da
 - Figurka Dartha Vadera ma ok. 7 cm wysokości bez podstawki.
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41619-1: https://a.allegroimg.com/original/11d4aa/3f723bc746a089ba6c3cb4da8298
+
 ---
 
-## 41620 — Lego BrickHeadz 41620 Stormtrooper szturmowiec Star Wars Misb 2018
+## 41620 — 41620
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016176612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41620 |
+| Nazwa angielska | Stormtrooper |
+| Nazwa polska | 41620 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176612 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3639,11 +5904,27 @@ Zafunduj sobie dawkę świetnej zabawy i zbuduj figurkę LEGO® BrickHeadz™ sz
 - Ten model LEGO® Star Wars ma ok. 7 cm wysokości bez podstawki.
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41620-1: https://a.allegroimg.com/original/003fb2/0c705d3646549f9a2269ec506250
+
 ---
 
-## 41621 — Lego BrickHeadz 41621 Ron Weasley i Albus Dumbledore
+## 41621 — 41621
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702016176629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41621 |
+| Nazwa angielska | Ron Weasley & Albus Dumbledore |
+| Nazwa polska | 41621 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 245 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176629 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3676,11 +5957,27 @@ W zestawie LEGO® BrickHeadz™ 41621 Ron Weasley™ i Albus Dumbledore™ znajd
 - Modele z filmów o Harrym Potterze™ mają ok. 7 cm wysokości bez podstawek.
 - Podstawki są kwadratowe i mają wielkość ok. 4 x 4 cm.
 
+**Galeria:**
+
+- 41621-1: https://a.allegroimg.com/original/110909/308783054dc5a759e7a9f91a4af8
+
 ---
 
-## 41622 — Lego 41622 BrickHeadz Ghostbusters Peter Venkman i Slimer Unikat z 2018r
+## 41622 — Peter Venkman i Slimer
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702016176230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41622 |
+| Nazwa angielska | Peter Venkman & Slimer |
+| Nazwa polska | Peter Venkman i Slimer |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176230 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3690,11 +5987,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 41622-1: https://a.allegroimg.com/original/11d4c8/02b28d0a48e2ac00af3b7038fbf9
+
 ---
 
-## 41623 — Lego BrickHeadz 41623 arielka i urszula
+## 41623 — arielka i urszula
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702016176247 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41623 |
+| Nazwa angielska | Ariel & Ursula |
+| Nazwa polska | arielka i urszula |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176247 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3729,11 +6042,27 @@ Figurki LEGO® BrickHeadz™ Arielki i Urszuli zapewniają świetną zabawę pod
 - Modele Arielki i Urszuli Disneya mają ok. 7 cm wysokości bez podstawki. 
 - Podstawki mają ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41623-1: https://a.allegroimg.com/original/1179ec/693f41c949269063f8ee1eadd30f
+
 ---
 
-## 41624 — Lego BrickHeadz 41624 Myszka Miki
+## 41624 — BrickHeadz Mickey
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016176254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41624 |
+| Nazwa angielska | Mickey Mouse |
+| Nazwa polska | BrickHeadz Mickey |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176254 |
 
 LEGO BrickHeadz 41624 Myszka Miki
 
@@ -3745,11 +6074,27 @@ LEGO BrickHeadz 41624 Myszka Miki
 - Model ma ok. 7 cm wysokości bez podstawki.
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41624-1: https://a.allegroimg.com/original/1151fa/cdbfd7fa4999966add86075a6530
+
 ---
 
-## 41626 — Lego BrickHeadz 41626 Groot and rocket
+## 41626 — Groot and rocket
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016176476 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41626 |
+| Nazwa angielska | Groot & Rocket |
+| Nazwa polska | Groot and rocket |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 189 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176476 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3773,11 +6118,27 @@ LEGO BrickHeadz 41624 Myszka Miki
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41626-1: https://a.allegroimg.com/original/053a39/b2af8f7a4e39ac31277403c645a7
+
 ---
 
-## 41627 — Lego 41627 BrickHeadz Luke Skywalker i Yoda Nowe naPrezent Oryginalne
+## 41627 — 41627
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016176483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41627 |
+| Nazwa angielska | Luke Skywalker & Yoda |
+| Nazwa polska | 41627 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176483 |
 
 LEGO 41627 BrickHeadz - Luke Skywalker i Yoda
 
@@ -3789,11 +6150,27 @@ Ilość klocków:** 215**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 41627-1: https://a.allegroimg.com/original/111793/e93b8f164a878edbd6b4240ee781
+
 ---
 
-## 41628 — Lego BrickHeadz 41628 Star Wars Księżniczka Leia
+## 41628 — LEGO Brickheadz Star Wars Księżniczka Leia
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 179.49 zł · EAN: 05702016176490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41628 |
+| Nazwa angielska | Princess Leia Organa |
+| Nazwa polska | LEGO Brickheadz Star Wars Księżniczka Leia |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176490 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3827,11 +6204,27 @@ Figurka LEGO BrickHeadz 41628 Księżniczka Leia Organa zapewnia świetną zabaw
 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41628-1: https://a.allegroimg.com/original/00bb69/b3f727524784bcb1e8641294d129
+
 ---
 
-## 41629 — Klocki Lego BrickHeadz Zestaw Boba Fett 41629
+## 41629 — LEGO Star Wars BrickHeadz Boba Fett
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 474.00 zł · EAN: 05702016176506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41629 |
+| Nazwa angielska | Boba Fett |
+| Nazwa polska | LEGO Star Wars BrickHeadz Boba Fett |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176506 |
 
 szybkiej
  
@@ -3861,19 +6254,51 @@ Figurka LEGO® BrickHeadz™ 41629 Boby Fetta™ zapewnia świetną zabawę podc
 - Model ma ok. 7 cm wysokości bez podstawki. 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41629-1: https://3.allegroimg.com/original/00238b/669dc62e4e31bb1d8b637ff5e203
+
 ---
 
-## 41630 — Lego BrickHeadz 41630 Jack Skellington i Sally
+## 41630 — Jack Skellington i Sally
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702016176513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41630 |
+| Nazwa angielska | Jack Skellington & Sally |
+| Nazwa polska | Jack Skellington i Sally |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176513 |
 
 Sięgnij po klocki LEGO® BrickHeadz™ i zbuduj własne figurki Jacka Skellingtona i Sally z popularnego filmu Disneya i Tima Burtona \"Miasteczko Halloween\". Dyniowy król ma przerażające usta i garnitur w czarne prążki, a Sally dekorowane oczy i niestaranny wygląd szmacianej lalki. Ustaw upiornych zakochanych na podstawkach i pokaż ich wszystkim swoim znajomym.
 
+**Galeria:**
+
+- 41630-1: https://a.allegroimg.com/original/11b5e1/a34cfa67469b851ec81810e6b499
+
 ---
 
-## 41632 — Lego BrickHeadz 41632 Homer Simpson i Klaun Krusty
+## 41632 — LEGO BrickHeadz 41632 - Homer Simpson i Klaun Krusty
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016176537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41632 |
+| Nazwa angielska | Homer Simpson & Krusty the Clown |
+| Nazwa polska | LEGO BrickHeadz 41632 - Homer Simpson i Klaun Krusty |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176537 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3904,11 +6329,27 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 - Każda postać z Simpsonów™ ma ok. 7 cm wysokości bez podstawki.
 - Podstawki mają ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41632-1: https://a.allegroimg.com/original/00ec4b/bc5cfc5c4247a8a26dd19583e98c
+
 ---
 
-## 41635 — Lego Movie BrickHeadz 41635 Wyldstyle
+## 41635 — Wyldstyle
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41635 |
+| Nazwa angielska | Wyldstyle |
+| Nazwa polska | Wyldstyle |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419309868 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3927,11 +6368,27 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41635-1: https://a.allegroimg.com/original/117c17/013959084cb8b57717b3d178966e
+
 ---
 
-## 41636 — Lego Movie BrickHeadz 41636 Benny
+## 41636 — Benny
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 899.00 zł · EAN: 00673419309875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41636 |
+| Nazwa angielska | Benny |
+| Nazwa polska | Benny |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419309875 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3950,11 +6407,27 @@ Sięgnij po kolorowe klocki i zafunduj sobie wspaniałą zabawę! Zestaw LEGO® 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41636-1: https://a.allegroimg.com/original/113cd4/ab0c0b6a43e5a78aec9751c86ffe
+
 ---
 
-## 75232 — Lego 75232 Star Wars Kylo Ren i żołnierz Sithów
+## 75232 — 75232
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016644180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75232 |
+| Nazwa angielska | Kylo Ren & Sith Trooper |
+| Nazwa polska | 75232 |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016644180 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3979,11 +6452,27 @@ Zbuduj i eksponuj legendarnych złoczyńców z serii Star Wars™ — przywódc�
 - Każda figurka LEGO® Star Wars™ ma ok. 7 cm wysokości.
 - Podstawki są kwadratowe i mają wielkość ok. 4 x 4 cm.
 
+**Galeria:**
+
+- 75232-1: https://a.allegroimg.com/original/00541a/4dd50be0464b92cc8d6279269f1e
+
 ---
 
-## 75317 — Lego BrickHeadz Star Wars 75317 Mandalorianin i Dziecko
+## 75317 — Mandalorianin i Dziecko
 
-*Kategoria: BrickHeadz · cena Allegro (2026-08-17): 113.51 zł · EAN: 05702016899856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75317 |
+| Nazwa angielska | The Mandalorian & The Child |
+| Nazwa polska | Mandalorianin i Dziecko |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016899856 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4028,6 +6517,10 @@ Grupa LEGO już od 1999 r. tworzy modele kultowych statków, pojazdów, miejsc i
 - W ekscytującej gamie zabawek do budowania LEGO® Star Wars™ czekają modele kolekcjonerskie do zabawy i postawienia na półce oraz zestawy konstrukcyjne, z którymi odtworzysz najlepsze sceny kinowej sagi. Każdy fan znajdzie w niej coś dla siebie, bez względu na wiek. 
 - Klocki LEGO® z tego zestawu można łączyć i rozdzielać bez użycia Mocy! Spełniają one najwyższe branżowe standardy, dzięki czemu mają zawsze jednolity wygląd i z łatwością łączą się ze sobą podczas budowania. 
 - Klocki i elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa — te ziemskie i te z dalekich galaktyk!
+
+**Galeria:**
+
+- 75317-1: https://a.allegroimg.com/original/110363/1d9c7e8148ee883f53ab707fee75
 
 ---
 

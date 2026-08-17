@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Juniors — opisy produktowe (44 pozycji)
 
-## 10671 — Lego 10671 Juniors Alarm Pożarowy Remiza strażacka Straż wóz strażacki
+## 10671 — 10671
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 329.50 zł · EAN: 05702015125369 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10671 |
+| Nazwa angielska | Fire Emergency |
+| Nazwa polska | 10671 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 123 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 20 cm × gł. 12 cm |
+| EAN | 5702015125369 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -38,11 +48,26 @@ Włączyć alarm! Kosz na śmieci płonie i czas wezwać odważnych strażaków!
 - Wymiary wozu strażackiego: 6 cm wysokości, 9 cm długości i 5 cm szerokości
 - Wymiary podwozia: 8 cm długości, 5 cm szerokości i 3 cm wysokości
 
+**Galeria:**
+
+- 10671-1: https://a.allegroimg.com/original/11e84d/78a75fdb42d9a484442aa43ef7c5
+
 ---
 
-## 10672 — Lego Juniors 10672 Batman: Obrona jaskini Komplet: Joker, Batman, Robin
+## 10672 — Batman: Defend the Batcave
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 484.21 zł · EAN: 05702015125574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10672 |
+| Nazwa angielska | Batman: Defend the Batcave |
+| Nazwa polska | Batman: Defend the Batcave |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125574 |
 
 LEGO Juniors 10672 - Batman: Obrona jaskini
 
@@ -84,11 +109,26 @@ Jest to również znakomity prezent! Zawiera 3 minifigurki: Batmana™, Robina i
 
 - Podwozie ma ok. 8 cm długości, 5 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 10672-1: https://a.allegroimg.com/original/1195cf/ce974a9840e0b05e10739197dd86
+
 ---
 
-## 10673 — Lego Juniors 10673 Wyścigi samochodowe. Nowy.
+## 10673 — Klocki LEGO Juniors Wyścigi samochodowe 10673
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702015125581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10673 |
+| Nazwa angielska | Race Car Rally |
+| Nazwa polska | Klocki LEGO Juniors Wyścigi samochodowe 10673 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 2 cm |
+| EAN | 5702015125581 |
 
 Klocki LEGO Juniors 10673 - Dzień wyścigów
 
@@ -112,11 +152,26 @@ Zajmij miejsce na pozycji startowej i ruszaj w najbardziej ekscytującym wyścig
 - Bramka mety ma ok. 11 cm wysokości, 14 cm szerokości i 2 cm głębokości.
 - Charakterystyczne pudełko LEGO® ma ok. 15 cm wysokości, 37 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 10673-1: https://8.allegroimg.com/original/00c6bd/a3aae5cb4ddd919a7a531ce5e948
+
 ---
 
-## 10674 — Lego Juniors 10674 Kucyk z farmy
+## 10674 — 10674
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702015125598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10674 |
+| Nazwa angielska | Pony Farm |
+| Nazwa polska | 10674 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125598 |
 
 LEGO Juniors 10674  Farma z Kucykiem
  
@@ -142,11 +197,26 @@ Zestaw zawiera:
 - Producent: LEGO 
 - 15,5 cm x szer. 34 cm  x gł. 18 cm
 
+**Galeria:**
+
+- 10674-1: https://9.allegroimg.com/original/007503/3e2bb7ec450dac4767fba6cd8da9
+
 ---
 
-## 10677 — Lego Juniors Friends Wycieczka na plażę 10677 dla dziewczynki
+## 10677 — Wycieczka na plażę
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 78.99 zł · EAN: 05702015353724 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10677 |
+| Nazwa angielska | Beach Trip |
+| Nazwa polska | Wycieczka na plażę |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353724 |
 
 Opis: pudełko lekko starte
 
@@ -165,11 +235,26 @@ Zafunduj sobie dzień plażowej zabawy z zestawem Wycieczka na plażę LEGO® Ju
 - Samochód ma ok. 3,5 x 8 x 3 cm
 - Deska ma ok. 3,5 x 2 x 2 cm
 
+**Galeria:**
+
+- 10677-1: https://a.allegroimg.com/original/118511/725a8ad64dd2aa20857f67468b17
+
 ---
 
-## 10685 — Lego 10685 Juniors Walizeczka straż pożarna
+## 10685 — Juniors walizeczka straż pożarna 10685
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015354332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10685 |
+| Nazwa angielska | Fire Suitcase |
+| Nazwa polska | Juniors walizeczka straż pożarna 10685 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354332 |
 
 LEGO 10685 Juniors - Walizeczka - straż pożarna
 
@@ -187,11 +272,26 @@ Ten zestaw LEGO Juniors z **2015 roku** powstał, aby ułatwić rozpoczęcie za
 - Motocykl strażacki ma ok. 3,5 x 5 x 3 cm
 - Wymiary remizy to ok. 6 x 10 x 3 cm
 
+**Galeria:**
+
+- 10685-1: https://a.allegroimg.com/original/11a6cb/889b4b2940e397665bc5f8ab41b8
+
 ---
 
-## 10686 — Lego Juniors 10686 Dom Rodzinny
+## 10686 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 290.09 zł · EAN: 05702015354349 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10686 |
+| Nazwa angielska | Family House |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354349 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -222,11 +322,26 @@ Odgrywaj niekończące się przygody z LEGO Juniors  w łatwym do zbudowania do
 
 W Zestawie  LEGO Juniors Dom Rodzinny znajdziesz: minifigurki: mamę, tatę i dziecko oraz figurkę psa. Zawiera łatwy do zbudowania dom rodzinny z kuchnią, dużym pokojem, sypialnią dziecięcą, łazienką, basenem, miejscem na grilla, budą dla psa i rowerem z klocków LEGO. Zestaw ma otwierane drzwi, okna, szafki kuchenne i skrzynkę pocztową. Zaprojektowano w sposób modułowy, co pozwala na różne rodzaje zabawy.
 
+**Galeria:**
+
+- 10686-1: https://a.allegroimg.com/original/00b384/989a46984f71a97ad54b23451bea
+
 ---
 
-## 10687 — Lego Juniors 10687 Kryjówka Spider Mana
+## 10687 — KRYJÓWKA SPIDER MANA
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015354356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10687 |
+| Nazwa angielska | Spider-Man Hideout |
+| Nazwa polska | KRYJÓWKA SPIDER MANA |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354356 |
 
 LEGO Juniors 10687 KRYJÓWKA SPIDER MANA
 
@@ -234,11 +349,26 @@ LEGO Juniors 10687 KRYJÓWKA SPIDER MANA
 
 Seria LEGO® Juniors powstała, aby wprowadzić dzieci w wieku od 4 do 7 lat w świat LEGO® dzięki charakterystycznym, ciekawym i prostym w konstrukcji modelom. Zestawy LEGO Juniors® zawierają elementy pozwalające na szybkie rozpoczęcie zabawy oraz numerowane paczki, z których można składać modele z pomocą rodziców albo samodzielnie — co będzie szczególnie satysfakcjonujące dla małych konstruktorów. W ten sposób dzieci mogą zyskać pewność siebie, która jest bardzo istotna na tym etapie rozwoju.
 
+**Galeria:**
+
+- 10687-1: https://f.allegroimg.com/original/00973a/a94a75a34075ac32a10217b2aa0f
+
 ---
 
-## 10720 — Lego 10720 Juniors Pościg helikopterem policyjnym Klocki Policja Złodzieje
+## 10720 — Pościg helikopterem policyjnym
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 259.21 zł · EAN: 05702015590662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10720 |
+| Nazwa angielska | Police Helicopter Chase |
+| Nazwa polska | Pościg helikopterem policyjnym |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702015590662 |
 
 LEGO 10720 Juniors - Pościg helikopterem policyjnym
 
@@ -268,11 +398,26 @@ Ten zestaw LEGO® to łatwy początek budowania z klocków LEGO dla dzieci w wie
 
 - Wymiary bankomatu: 4 cm wysokości, 1 cm szerokościi2 cm głębokości.
 
+**Galeria:**
+
+- 10720-1: https://8.allegroimg.com/original/004e9e/b46df4ad44f190f1f21c78c1e228
+
 ---
 
-## 10722 — Klocki Lego Juniors Starcie z wężem 10722
+## 10722 — lego
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015591782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10722 |
+| Nazwa angielska | Snake Showdown |
+| Nazwa polska | lego |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015591782 |
 
 opakowanie delikatne wgniecione patrz zdjęcia
 
@@ -293,11 +438,26 @@ Dołącz do akcji z zestawami LEGO® Juniors NINJAGO™! Pomóż Kaiowi stoczyć
 - Wymiary motocykla: 4 cm wysokości, 9 cm długości i 2 cm szerokości.
 - Wymiary świątyni złotego kostura Węży: 11 cm wysokości, 6 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 10722-1: https://a.allegroimg.com/original/11f747/838b96284acca5807e02293da566
+
 ---
 
-## 10723 — Lego 10723 Juniors Disney Princess kareta Arielki z delfinami
+## 10723 — 10723
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015591812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10723 |
+| Nazwa angielska | Ariel's Dolphin Carriage |
+| Nazwa polska | 10723 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591812 |
 
 Lego 10723 JUNIORS Disney Princess kareta Arielki z delfinem
  
@@ -317,11 +477,26 @@ Liczba elementów 70
  
 Pozostałe parametry
 
+**Galeria:**
+
+- 10723-1: https://3.allegroimg.com/original/00bfe3/567bdd5c4930833aec9d57699633
+
 ---
 
-## 10724 — Lego Juniors 10724 Batman i Superman kontra Lex luthor 2016 Rok! Unikat
+## 10724 — Batman i Superman kontra Lex luthor
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 305.00 zł · EAN: 05702015591867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10724 |
+| Nazwa angielska | Batman & Superman vs. Lex Luthor |
+| Nazwa polska | Batman i Superman kontra Lex luthor |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702015591867 |
 
 Pomóż Batmanowi i Supermanowi w walce z Leksem Luthorem w pojeździe-robocie. W zestawie LEGO znajdziesz też Batmobil i Jaskinię Nietoperza.
  
@@ -346,11 +521,26 @@ Do pełnego akcji świata Supermana i Batmana wprowadzą Cię łatwe do złożen
 - Wymiary pojazdu-robota Leksa Luthora: ok. 6 cm wysokości, 13 cm długości i 13 cm szerokości. 
 - Wymiary Jaskini Nietoperza: ok. 9 cm wysokości, 12 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 10724-1: https://a.allegroimg.com/original/00cd77/a00f87d24ca9b2c41a82458e2395
+
 ---
 
-## 10725 — Lego 10725 Juniors Zaginiona świątynia
+## 10725 — lego
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 224.00 zł · EAN: 05702015592116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10725 |
+| Nazwa angielska | Lost Temple |
+| Nazwa polska | lego |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592116 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -364,11 +554,26 @@ Numer magazynowy sprzedawcy: 20260296
 
 Przybliżone wymiary opakowania: **28,2 x 5,9 x 26,2 cm**
 
+**Galeria:**
+
+- 10725-1: https://a.allegroimg.com/original/11307a/c95097db495c8fac4e917d8f1de1
+
 ---
 
-## 10726 — Lego Juniors 10726 Przyczepa konna Stephanie
+## 10726 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015592147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10726 |
+| Nazwa angielska | Stephanie's Horse Carriage |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592147 |
 
 Lego 10726 JUNIORS Przyczepa konna Stephanie
  
@@ -408,11 +613,26 @@ Wymiary:
  
 - Powóz: 4 x 5 x 5 cm
 
+**Galeria:**
+
+- 10726-1: https://a.allegroimg.com/original/11de94/cda10f644b129f666c22c2ff8fb6
+
 ---
 
-## 10729 — Lego Juniors 10729 Kareta Kopciuszka
+## 10729 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 242.55 zł · EAN: 05702015592413 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10729 |
+| Nazwa angielska | Cinderella's Carriage |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm × gł. 9 cm |
+| EAN | 5702015592413 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -464,11 +684,26 @@ Cechy zestawu:
 
 - Wymiary karocy z koniem: ok. 9 cm wysokości, 18 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 10729-1: https://a.allegroimg.com/original/00578a/1fe8436b4702bfb66b0264a83b5a
+
 ---
 
-## 10730 — Lego Juniors 10730 Disney Auta Cars 3 Katapulta Zygzaka McQueena Unikat
+## 10730 — LEGO Juniors Katapulta Zygzaka McQueena 10730
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015864237 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10730 |
+| Nazwa angielska | Lightning McQueen Speed Launcher |
+| Nazwa polska | LEGO Juniors Katapulta Zygzaka McQueena 10730 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm |
+| EAN | 5702015864237 |
 
 Przedmiotem sprzedaży jest kompletny fabrycznie zapakowany zestaw klocków
 
@@ -496,11 +731,26 @@ Dołącz do emocjonującego świata filmu „Auta 3” wytwórni Disney•Pixar.
 - Zygzak McQueen ma ok. 3 cm wysokości, 7 cm długości i 3 cm szerokości.
 - Katapulta ma ok. 6 cm wysokości, 11 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10730-1: https://a.allegroimg.com/original/00d7ac/08f212f44a9bbf51969826a11521
+
 ---
 
-## 10731 — Lego Juniors 10731 Symulator wyścigu Cruz Ramirez 2017 rok Disney Cars Auta
+## 10731 — LEGO Juniors 10731 Symulator wyścigu Cruz Ramirez
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702015868259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10731 |
+| Nazwa angielska | Cruz Ramirez Race Simulator |
+| Nazwa polska | LEGO Juniors 10731 Symulator wyścigu Cruz Ramirez |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm |
+| EAN | 5702015868259 |
 
 LEGO Cars 10731 Symulator Cruz Ramirez
  
@@ -519,11 +769,26 @@ Zalecane dla dzieci w wieku 4-7 lat
 
 RZECZYWISTE ZDJĘCIA ZESTAWU:
 
+**Galeria:**
+
+- 10731-1: https://d.allegroimg.com/original/00f254/0480684b4ecabef8d1ee92f4abcd
+
 ---
 
-## 10732 — Lego Juniors Auta Cars 10732 Punkt Serwisowy Guido i Luigiego Disney Pixar
+## 10732 — Punkt Serwisowy Guido i Luigiego 
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702015868266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10732 |
+| Nazwa angielska | Guido and Luigi's Pit Stop |
+| Nazwa polska | Punkt Serwisowy Guido i Luigiego  |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702015868266 |
 
 LEGO JUNIORS Auta Cars 10732 Punkt Serwisowy Guido i Luigiego
 
@@ -543,11 +808,26 @@ Dołącz do emocjonującego świata filmu „Auta 3” wytwórni Disney•Pixar.
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10732-1: https://a.allegroimg.com/original/11c49d/cf5ce9a44d1e97436db88fef9467
+
 ---
 
-## 10733 — Lego Juniors 10733 Składowisko u Złomka
+## 10733 — Składowisko u Złomka
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702015868303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10733 |
+| Nazwa angielska | Mater's Junkyard |
+| Nazwa polska | Składowisko u Złomka |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702015868303 |
 
 **Nowy (z 2017r.) oryginalny zestaw klocków LEGO®, będący obecnie baardzo rzadko dostępnym unikatem.**
 
@@ -586,11 +866,26 @@ Zestaw LEGO Juniors - Auta 3 - Składowisko u Złomka trafił do sprzedaży w 20
  
 LEGO® 10733 Juniors - Auta 3 - Składowisko u Złomka
 
+**Galeria:**
+
+- 10733-1: https://9.allegroimg.com/original/005491/cccdf0e74fada6980f80ea3607f9
+
 ---
 
-## 10735 — Lego Juniors 10735 Pościg furgonetką policyjną
+## 10735 — Police Truck Chase
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702015868341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10735 |
+| Nazwa angielska | Police Truck Chase |
+| Nazwa polska | Police Truck Chase |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868341 |
 
 Zestaw LEGO® 10735 “Police Truck Chase” z serii Juniors City wydany w 2017 roku zawiera 90 elementów i 2 minifigurki: policjanta i przestępcy. Zestaw obejmuje policyjny wóz z otwieraną celą, barieradę ruchu drogowego z ruchomą bramką, motocykl dla przestępcy z elementem klejnotu, oraz akcesoria takie jak kajdanki i walkie-talkie, przeznaczony dla dzieci w wieku 4-7 lat.
 
@@ -598,11 +893,26 @@ Ten zestaw serii Juniors wprowadza najmłodszych konstruktorów (od 4 lat) w św
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 10735-1: https://a.allegroimg.com/original/000e1a/3aa25d5d4446939afb8614b6fc40
+
 ---
 
-## 10737 — Lego Juniors 10737 Batman Kontra Mr. Freeze Unikat 2017 Rok!
+## 10737 — Lego
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015868365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10737 |
+| Nazwa angielska | Batman vs. Mr. Freeze |
+| Nazwa polska | Lego |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702015868365 |
 
 Zestaw LEGO® 10737 Batman™ kontra Mr. Freeze™
  
@@ -637,11 +947,26 @@ Lodowe więzienie ma ok. 7 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
 PLOMBY ORYGINALNE, ZESTAW NOWY - PUDEŁKO POSIADA DUŻE **WGNIECENIE** WIDOCZNE NA ZDJĘCIACH
 
+**Galeria:**
+
+- 10737-1: https://8.allegroimg.com/original/00cb8c/0afe9cba45fe8cd7ed9935872d38
+
 ---
 
-## 10739 — Lego Juniors 10739 Klocki Lego Juniors Atak rekinów 10739
+## 10739 — Klocki LEGO Juniors Atak rekinów 10739
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 160.00 zł · EAN: 05702015868785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10739 |
+| Nazwa angielska | Shark Attack |
+| Nazwa polska | Klocki LEGO Juniors Atak rekinów 10739 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702015868785 |
 
 LEGO Juniors 10739 Atak rekinów
 
@@ -663,11 +988,26 @@ Dołącz do Kaia i Lloyda w walce przeciwko Żarłaczowi. Zestaw zawiera salę �
 - Samochód-rekin ma ok. 6 cm wysokości, 10 cm długości i 6 cm szerokości, a z rozłożonymi płetwami ok. 10 cm szerokości. 
 - Motocykl z wysuniętym płomieniem ma ok. 6 cm wysokości, 12 cm długości i 2 cm szerokości.
 
+**Galeria:**
+
+- 10739-1: https://a.allegroimg.com/original/00526b/16ad1fe2488cbd8a698ce65546e9
+
 ---
 
-## 10740 — Lego Juniors 10740 Patrol strażacki
+## 10740 — 10740
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015868792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10740 |
+| Nazwa angielska | Fire Patrol Suitcase |
+| Nazwa polska | 10740 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 28 cm |
+| EAN | 5702015868792 |
 
 Klocki LEGO Juniors 10740 - Patrol strażacki
 
@@ -687,11 +1027,26 @@ Z tym świetnym i łatwym do przenoszenia walizkowym zestawem zawsze możesz wyr
 - Wymiary motocykla: ok. 3 cm wysokości, 6 cm długości i 3 cm szerokości.
 - Wymiary opuszczonego domu razem z płytką podstawową: ok. 7 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 10740-1: https://a.allegroimg.com/original/11dab9/aa883c594c0680da17568efcacbe
+
 ---
 
-## 10742 — Lego Juniors 10742 Auta 3 Trening szybkości
+## 10742 — Auta 3 - Trening szybkości
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 315.21 zł · EAN: 05702015868808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10742 |
+| Nazwa angielska | Willy's Butte Speed Training |
+| Nazwa polska | Auta 3 - Trening szybkości |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm |
+| EAN | 5702015868808 |
 
 Klocki LEGO Juniors 10742 - Auta 3 - Trening szybkości
  
@@ -709,11 +1064,26 @@ Włącz silniki w tym superszybkim zestawie LEGO® Juniors Trening szybkości na
 - Prędkościomierz ma ok. 7 cm wysokości, 4 cm szerokości i 4 cm głębokości. 
 - Rampa ma ok. 3 cm wysokości, 8 cm szerokości i 11 cm głębokości.
 
+**Galeria:**
+
+- 10742-1: https://a.allegroimg.com/original/000cc6/54f7aef747e09458530d2b82cb5a
+
 ---
 
-## 10743 — Lego Auta 3 10743 Warsztat Smokey’ego Klocki z filmu Auta Nowe
+## 10743 — Warsztat
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 485.21 zł · EAN: 05702015868815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10743 |
+| Nazwa angielska | Smokey's Garage |
+| Nazwa polska | Warsztat |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm × gł. 7 cm |
+| EAN | 5702015868815 |
 
 LEGO® 10743 Juniors - Auta 3 - Warsztat Smokey’ego
 
@@ -731,11 +1101,26 @@ Po ciężkim dniu treningów na torze wyścigowym Zygzakowi McQueenowi przyda si
 - Warsztat ma ok. 7 cm wysokości, 16 cm szerokości i 7 cm głębokości.
 - Dźwig ma ok. 9 cm wysokości, 3 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10743-1: https://3.allegroimg.com/original/003974/43368e8e4eafb8d0b7219e93ba73
+
 ---
 
-## 10744 — Lego Auta 3 10744 Szalona ósemka w Thunder Hollow Nowe
+## 10744 — LEGO Juniors 10744 Szalona ósemka w Thunder Hollow
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015868822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10744 |
+| Nazwa angielska | Thunder Hollow Crazy 8 Race |
+| Nazwa polska | LEGO Juniors 10744 Szalona ósemka w Thunder Hollow |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868822 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -755,11 +1140,26 @@ Zapomnij o zasadach uczciwej rywalizacji! W tym łatwym do zbudowania zestawie L
 - Łatwe do zbudowania modele składają się z dużych elementów, a proste instrukcje montażu pozwalają dzieciom szybko zabrać się do budowania i zabawy. 
 - Akcesoria: obracający się znak stop panny Fritter, trzy pomarańczowe pachołki, trzy beczki oleju, cztery opony, dwa płomienie i różne części samochodowe.
 
+**Galeria:**
+
+- 10744-1: https://a.allegroimg.com/original/110993/bbb5957a430b907f86b96135272a
+
 ---
 
-## 10747 — Lego Juniors 10747 Wakacje na plaży
+## 10747 — Wakacje na plaży
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702015868853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10747 |
+| Nazwa angielska | Andrea and Stephanie's Beach Holiday |
+| Nazwa polska | Wakacje na plaży |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868853 |
 
 **Lego Juniors Wakacje na plaży 10747**. Spędź dzień na plaży razem ze Stephanie i Andreą! Gdy słońce zaczyna mocniej świecić, Stephanie i Andrea nabierają ochoty na zabawę! Wybierz się razem z nimi na plażę, gdzie czeka mnóstwo świetnej zabawy — na przykład na zjeżdżalni! Zestaw LEGO® Friends pozwoli Ci także podpłynąć do motorówki albo pochlapać się w morzu razem z uroczym delfinem. Po takiej zabawie każdy poczułby pragnienie, więc wróć na brzeg i zamów koktajl w budce. Później możesz wyciągnąć się na leżaku. Nie zapomnij nasmarować się kremem do opalania!
 
@@ -787,11 +1187,26 @@ Nr katalogowy: 10747
  
 Ilość klocków w zestawie: 143
 
+**Galeria:**
+
+- 10747-1: https://0.allegroimg.com/original/0006ad/2b1f2e9048e888ffc4b41d29c4c0
+
 ---
 
-## 10748 — Lego 10748 Juniors Przyjęcie Dla Zwierzaków Emmy
+## 10748 — Przyjęcie dla zwierzaków Emmy
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016092790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10748 |
+| Nazwa angielska | Emma's Pet Party |
+| Nazwa polska | Przyjęcie dla zwierzaków Emmy |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702016092790 |
 
 LEGO 10748 JUNIORS - PRZYJĘCIE DLA ZWIERZAKÓW EMMY
 
@@ -826,11 +1241,26 @@ Stan: **Nowe**
 - Wymiary taczki: ok. 5 cm szerokości, 2 cm wysokości i 2 cm głębokości,
 - Wymiary podstawki pod tort: ok. 5 cm wysokości, kwadrat ok. 3 na 3 cm.
 
+**Galeria:**
+
+- 10748-1: https://a.allegroimg.com/original/11b43c/7df4d35a484d85ee1c7b826a3f3e
+
 ---
 
-## 10749 — Lego Juniors 10749 Klocki Lego Juniors Targ ekologiczny Mii 10749
+## 10749 — Klocki LEGO Juniors Targ ekologiczny Mii 10749
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 129.42 zł · EAN: 05702016092998 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10749 |
+| Nazwa angielska | Mia's Organic Food Market |
+| Nazwa polska | Klocki LEGO Juniors Targ ekologiczny Mii 10749 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016092998 |
 
 Ze smakołykami z ekologicznego straganu Mii każdy dzień zacznie się wspaniale. Łatwa do zbudowania furgonetka ma podwozie ułatwiające montaż, otwierany bok i obrotowy szyld. W zestawie jest też karuzela, kilka osobnych skrzynek i stół piknikowy z siedzeniami. Ta kolorowa zabawka zawiera też proste wskazówki budowania i zabawy. Składanie rozpoczyna się od większych klocków, by mali konstruktorzy poczuli się pewniej. W zestawie minilaleczka oraz figurka króliczka.
  
@@ -846,11 +1276,26 @@ Ze smakołykami z ekologicznego straganu Mii każdy dzień zacznie się wspanial
 - Ławka ma ok. 3 cm wysokości, 6 cm szerokości i 3 cm głębokości. 
 - Karuzela ma ok. 9 cm szerokości, 2 cm wysokości i 1 cm głębokości.
 
+**Galeria:**
+
+- 10749-1: https://a.allegroimg.com/original/05ff2c/3e18ed544c0d9d92041e46c56634
+
 ---
 
-## 10750 — Lego Juniors 10750 Samochód robót drogowych Nowe
+## 10750 — Klocki LEGO Juniors Samochód robót 10750
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702016092974 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10750 |
+| Nazwa angielska | Road Repair Truck |
+| Nazwa polska | Klocki LEGO Juniors Samochód robót 10750 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702016092974 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -873,11 +1318,26 @@ Dołącz do ekipy robót drogowych LEGO® City i pomóż zadbać o ulice. W tym 
 - Zestawy LEGO® Juniors są w pełni zgodne ze wszystkimi innymi zestawami LEGO.
 - Ciężarówka z przyczepą ma ok. 6 cm wysokości, 18 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 10750-1: https://a.allegroimg.com/original/11438d/57bd567a4f478ff604f844883845
+
 ---
 
-## 10751 — Lego Juniors 10751 Górski Pościg Policyjny Gdańsk
+## 10751 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702016092981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10751 |
+| Nazwa angielska | Mountain Police Chase |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016092981 |
 
 LEGO JUNIORS
 
@@ -907,11 +1367,26 @@ WYMIARY OPAKOWANIA :
 
 26 cm * 19 cm * 6 cm *
 
+**Galeria:**
+
+- 10751-1: https://a.allegroimg.com/original/116724/99330b2b4f64a3366bcc4157a9fe
+
 ---
 
-## 10754 — Lego Juniors @@@ Spiderman +sieć @@@ figurka z 10754
+## 10754 — Spider-Man kontra Skorpion
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 53.33 zł · EAN: 05702016117332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10754 |
+| Nazwa angielska | Spider-Man vs. Scorpion Street Showdown |
+| Nazwa polska | Spider-Man kontra Skorpion |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117332 |
 
 **Lego 10754 :: Juniors**
 
@@ -923,11 +1398,26 @@ z zestawu: spiderman vs scorpion
 
 poniższy opis pochodzi z WWW producenta, dotyczy kompletnego zestawu i ma charakter poglądowy:
 
+**Galeria:**
+
+- 10754-1: https://a.allegroimg.com/original/03f7f7/0c45abef41e688c5f5b785fa16bd
+
 ---
 
-## 10755 — Lego Juniors 10755 Klock iLEGO Juniors Wodny pościg Zane’a 10755
+## 10755 — Klock iLEGO Juniors Wodny pościg Zane’a 10755
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 158.49 zł · EAN: 05702016117349 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10755 |
+| Nazwa angielska | Zane's Ninja Boat Pursuit |
+| Nazwa polska | Klock iLEGO Juniors Wodny pościg Zane’a 10755 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 131 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016117349 |
 
 KLOCKI LEGO ZESTAW JUNIORS 10755 Wodny pościg Zane'a
 
@@ -975,11 +1465,26 @@ Wymiary:
  
 **Klocki przeznaczone dla osób w wieku  4-7 lat.**
 
+**Galeria:**
+
+- 10755-1: https://7.allegroimg.com/original/00a19c/2eb080d242c1b2a677c6de43f787
+
 ---
 
-## 10757 — Lego Juniors 10757 Jurassic World: Na ratunek raptorom
+## 10757 — Jurassic World: Na ratunek raptorom
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702016117363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10757 |
+| Nazwa angielska | Raptor Rescue Truck |
+| Nazwa polska | Jurassic World: Na ratunek raptorom |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702016117363, 673419284103 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1017,11 +1522,26 @@ Pozwól swojemu dziecku poznać emocje związane z odkrywaniem i przygodami w ś
 - Klatka ma ok. 4 cm wysokości, 7 cm szerokości i 6 cm głębokości. 
 - Raptor ma ok. 7 cm wysokości, 12 cm długości i 3 cm szerok
 
+**Galeria:**
+
+- 10757-1: https://a.allegroimg.com/original/118867/97d4289c49629857ea9c135562c9
+
 ---
 
-## 10759 — Lego Juniors 10759 Pościg Elastyny
+## 10759 — Pościg Elastyny
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702016117585 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10759 |
+| Nazwa angielska | Elastigirl's Rooftop Pursuit |
+| Nazwa polska | Pościg Elastyny |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm |
+| EAN | 5702016117585 |
 
 LEGO JUNIORS 10759 POŚCIG ELASTYNY.
 
@@ -1049,11 +1569,26 @@ Zestawy LEGO® Juniors są w pełni zgodne ze wszystkimi innymi zestawami LEGO.
  
 **Motocykl Elastyny** ma ok. 3 cm wysokości, 9 cm długości i 2 cm szerokości.
 
+**Galeria:**
+
+- 10759-1: https://a.allegroimg.com/original/032aac/651a23c447229da5e26853c41544
+
 ---
 
-## 10760 — Lego Juniors Napad Człowieka Szpadla na bank 10760
+## 10760 — LEGO Juniors Napad Człowieka Szpadla na bank 10760
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016117592 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10760 |
+| Nazwa angielska | Underminer Bank Heist |
+| Nazwa polska | LEGO Juniors Napad Człowieka Szpadla na bank 10760 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm |
+| EAN | 5702016117592 |
 
 LEGO Juniors 19760 Napad Człowieka Szpadla na bank
 
@@ -1075,11 +1610,26 @@ Rozbudź wyobraźnię swojego dziecka emocjonującymi zestawami z serii LEGO® J
 - Pojazd Iniemamocnych ma ok. 4 cm wysokości, 15 cm długości i 6 cm szerokości. 
 - Skarbiec banku ma ok. 9 cm wysokości, 6 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 10760-1: https://a.allegroimg.com/original/05f908/1fa32464457b85258633ebbbb463
+
 ---
 
-## 10761 — Klocki Lego Juniors Zestaw Wielka ucieczka z domu 10761
+## 10761 — 10761
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016117608 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10761 |
+| Nazwa angielska | The Great Home Escape |
+| Nazwa polska | 10761 |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 8 cm |
+| EAN | 5702016117608 |
 
 LEGO JUNIORS 10761 WIELKA UCIECZKA Z DOMU.
 
@@ -1111,11 +1661,26 @@ Zestawy LEGO® Juniors są w pełni zgodne ze wszystkimi innymi zestawami LEGO.
 
 **Samochód Cegły** ma ok. 4 cm wysokości, 10 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 10761-1: https://a.allegroimg.com/original/113f29/f8af456c474c99b13fd3686c8eef
+
 ---
 
-## 10762 — Lego Juniors 10762 Juniors
+## 10762 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 139.90 zł · EAN: 05702016117615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10762 |
+| Nazwa angielska | Belle's Story Time |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm × gł. 9 cm |
+| EAN | 5702016117615 |
 
 LEGO Juniors 10762 Opowieści Belli
 
@@ -1138,11 +1703,26 @@ Urządź przyjęcie i posłuchaj opowieści razem z księżniczką Disneya Bell�
 - Zamek księżniczki ma ok. 13 cm wysokości, 6 cm szerokości i 9 cm głębokości. 
 - Podstawka ze stołem piknikowym ma ok. 4 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10762-1: https://a.allegroimg.com/original/11ecca/a96df5fa4ae5a8d04fc8bfabe359
+
 ---
 
-## 10763 — Lego Juniors Friends 10763 Domek nad jeziorem Stephanie
+## 10763 — JUNIORS
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 249.49 zł · EAN: 05702016117622 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10763 |
+| Nazwa angielska | Stephanie's Lakeside House |
+| Nazwa polska | JUNIORS |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm × gł. 20 cm |
+| EAN | 5702016117622 |
 
 **Klocki LEGO Juniors Domek nad jeziorem Stephanie**
 
@@ -1165,11 +1745,26 @@ Przeżyj ciekawe przygody z zestawem LEGO® Juniors 10763 Domek nad jeziorem Ste
 - Dom z modułami ułożonymi jeden na drugim ma ok. 15 cm wysokości, 12 cm szerokości i 20 cm głębokości. 
 - Każdy skuter wodny ma ok. 4 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 10763-1: https://a.allegroimg.com/original/11124f/34d29f844cd08dc09db60a2b686d
+
 ---
 
-## 10764 — Lego Juniors 10764 Lotnisko
+## 10764 — Lotnisko
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 400.00 zł · EAN: 05702016117639 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10764 |
+| Nazwa angielska | City Central Airport |
+| Nazwa polska | Lotnisko |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 19 cm × gł. 6 cm |
+| EAN | 5702016117639 |
 
 LEGO Juniors Lotnisko 10764
 
@@ -1191,11 +1786,26 @@ Samolot pasażerski ma ok. 7 cm wysokości, 13 cm długości i 14 cm szerokości
  
 Wózek bagażowy z dwiema przyczepkami ma ok. 3 cm wysokości, 13 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 10764-1: https://a.allegroimg.com/original/00832f/f86a80684365a421648bc249d569
+
 ---
 
-## 30338 — Lego Juniors 30338 Samochód Strażacki Choinka Strażak Gaśnica Polybag
+## 30338 — Samochód Strażacki
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702015870283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30338 |
+| Nazwa angielska | Fire Car |
+| Nazwa polska | Samochód Strażacki |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870283 |
 
 Przedmiotem oferty jest **fabrycznie nowy**, miniaturowy zestaw klocków LEGO Juniors (seria powiązana tematycznie z LEGO City) o numerze katalogowym 30338 - Samochód strażacki.
 
@@ -1224,11 +1834,26 @@ Produkt jest **nowy**, fabrycznie i oryginalnie zamknięty w foliowej saszetce.
 
 **Mamy ich więcej!** Zapraszamy na nasze inne aukcje, gdzie znajdziesz wiele ciekawych modeli innych saszetek klocków LEGO!
 
+**Galeria:**
+
+- 30338-1: https://a.allegroimg.com/original/117998/2348f0fe4d449d07b5dca3e563d0
+
 ---
 
-## 30339 — Lego 30339 Juniors Patrol Drogowy Klocki Saszetka Z Klockami
+## 30339 — LEGO ZESTAW CITY
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702016123210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30339 |
+| Nazwa angielska | Traffic Light Patrol |
+| Nazwa polska | LEGO ZESTAW CITY |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123210 |
 
 Przedmiotem oferty jest fabrycznie nowy, miniaturowy zestaw klocków LEGO Juniors (seria powiązana z LEGO City) o numerze katalogowym 30339 - Patrol drogowy.
 
@@ -1255,11 +1880,26 @@ Produkt jest **nowy**, fabrycznie i **oryginalnie zamknięty** w foliowym worecz
 
 - Oryginalnie zamkniętą saszetkę LEGO Juniors 30339 (w tym klocki do złożenia radiowozu, minifigurka policjanta w okularach przeciwsłonecznych, sygnalizator świetlny oraz obrazkowa instrukcja montażu)
 
+**Galeria:**
+
+- 30339-1: https://a.allegroimg.com/original/118b72/bee8779d473384835aa42f7c637c
+
 ---
 
-## 40609 — Lego klocki 40609 Świąteczna Frajda mix elementy dodatkowe Vip- Nowe
+## 40609 — Świąteczna frajda
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702017471204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40609 |
+| Nazwa angielska | Christmas Fun VIP Add-On Pack |
+| Nazwa polska | Świąteczna frajda |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 146 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471204 |
 
 **NOWE oryginalne elementy LEGO**
 
@@ -1275,15 +1915,34 @@ Zdjęcie użyte za zgodą serwisu Fanklockow_pl
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Niniejsza witryna nie jest sponsorowana, autoryzowana ani wspierana przez Grupę LEGO
 
+**Galeria:**
+
+- 40609-1: https://a.allegroimg.com/original/11eb9b/e3edb7114563940a00bec33fc83f
+
 ---
 
-## 4655 — Lego 4655 City Stacja Szybkiej Naprawy
+## 4655 — fr
 
-*Kategoria: Pozostałe serie > Juniors · cena Allegro (2026-08-17): 499.00 zł · EAN: 00673419020312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4655 |
+| Nazwa angielska | Quick Fix Station |
+| Nazwa polska | fr |
+| Seria | Pozostałe serie > Juniors |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2003 |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419020312 |
 
 Klocki LEGO City 4655 - Stacja Szybkiej Naprawy
 
 Zestaw LEGO City - Stacja Szybkiej Naprawy trafił do sprzedaży w 2003 roku. Numer katalogowy tego zestawu to 4655. Zawiera 97 klocków LEGO. W modelu znajdziesz też 2 minifigurki.
+
+**Galeria:**
+
+- 4655-1: https://a.allegroimg.com/original/119855/99d1eb9a44f095fb851339c0cf28
 
 ---
 

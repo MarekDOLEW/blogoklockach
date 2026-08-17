@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Technic — opisy produktowe (233 pozycji)
+# LEGO Technic — opisy produktowe (224 pozycji)
 
-## 1237 — Lego Technic Robot humanoidalny Honda Asimo 1237 Misb 2001 mikołaj choinka
+## 1237 — Honda Asimo Robot
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702012017438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1237 |
+| Nazwa angielska | Honda Promotional Set |
+| Nazwa polska | Honda Asimo Robot |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012017438 |
 
 Nowy, fabrycznie zamknięty polybag Lego wraz z pudełkiem i arkuszem naklejek. Unikatowy promocyjny zestaw dostępny od stycznia do marca 2001 roku w salonach samochodowych Honda w Japonii. Wydany z okazji zaprezentowania najbardziej zaawansowanego technologicznie robota humanoidalnego - Asimo. Zawiera najrzadszy element Technic w historii - biały pin 3L.
 
@@ -21,11 +32,26 @@ Numer:** 1237**
 
 Nazwa:** Honda Asimo Robot**
 
+**Galeria:**
+
+- 1237-1: https://a.allegroimg.com/original/1156ae/e1cf4e9d49ef8272f71fe5cb40f1
+
 ---
 
-## 2290 — Lego Technic Batyskaf Łódź Podwodna Badawcza Odkrywcza Statek L0002290
+## 2290 — Batyskaf
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702017816241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2290 |
+| Nazwa angielska | — |
+| Nazwa polska | Batyskaf |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816241 |
 
 LEGO® Technic: Batyskaf – Badawcza Łódź Podwodna (L0002290)
 
@@ -59,11 +85,27 @@ LEGO® Technic: Batyskaf – Badawcza Łódź Podwodna (L0002290)
 
 Zapraszamy na nasze oferty!
 
+**Galeria:**
+
+- 2290-1: https://a.allegroimg.com/original/11deae/48f1c0c04dd1b017c7e4800aaf70
+
 ---
 
-## 30433 — Lego 42233 Technic Potężne Maszyny Dźwig Z Kulą Wyburzeniową NR5
+## 30433 — Ładowarka kołowa Volvo
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 22.49 zł · EAN: 05702017159164 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30433 |
+| Nazwa angielska | Volvo Wheel Loader |
+| Nazwa polska | Ładowarka kołowa Volvo |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017159164 |
 
 **ZESTAW LEGO**
 
@@ -90,11 +132,27 @@ Zapraszamy na nasze oferty!
 - **POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności.**
 - **Elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić.**
 
+**Galeria:**
+
+- 30433-1: https://a.allegroimg.com/original/112a23/c3dc8ea84c9d8a1cb6c071ad2a4e
+
 ---
 
-## 30465 — Lego Technic 30465 Helikopter 2021 rok! polybag saszetka
+## 30465 — brak informacji
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016912869 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30465 |
+| Nazwa angielska | Helicopter |
+| Nazwa polska | brak informacji |
+| Seria | Technic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912869 |
 
 LEGO Klocki Technic 30465 Helikopter
 
@@ -116,11 +174,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Bohater:** brak 
 - **Płeć:** Chłopcy
 
+**Galeria:**
+
+- 30465-1: https://a.allegroimg.com/original/115e2d/00a4aa3d4ed7ba0421fe0649db01
+
 ---
 
-## 30682 — Lego Technic 30682 Nasa Mars Rover Perseverance
+## 30682 — NASA Mars Rover Perseverance
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 15.85 zł · EAN: 05702017595481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30682 |
+| Nazwa angielska | NASA Mars Rover Perseverance |
+| Nazwa polska | NASA Mars Rover Perseverance |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595481 |
 
 ⭐LEGO 30682 Technic NASA Mars Rover Perseverance ⭐
 
@@ -136,11 +210,26 @@ Nowość od **LEGO Technic - model NASA Mars Rover Perseverance.**
  
 ✅Rozpocznij swoją kosmiczną przygodę dzięki LEGO Technic - NASA Mars Rover Perseverance już dziś!
 
+**Galeria:**
+
+- 30682-1: https://a.allegroimg.com/original/053ebc/19ffee784d848ad5904795f58190
+
 ---
 
-## 30710 — Lego(r) Technic 30710 Miniładowarka 7+
+## 30710 — Miniładowarka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 12.37 zł · EAN: 05702017820231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30710 |
+| Nazwa angielska | Skid-Steer Loader |
+| Nazwa polska | Miniładowarka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017820231 |
 
 Lego
 
@@ -151,21 +240,52 @@ LEGO(R) TECHNIC 30710 Miniładowarka
 
 Podaruj siedmiolatkom i starszym dzieciom niesamowity zestaw z miniładowarką. Dzięki modelowi mogą bawić się w plac budowy i obracać pokrętłem, aby podnosić i opuszczać ramię z łyżką.
 
+**Galeria:**
+
+- 30710-1: https://a.allegroimg.com/original/11e620/b220dafa458785260a75f23d4da9
+
 ---
 
-## 30735 — 30735 Lego Technic Hot Rod Car Nowy I Zestaw Klocków Lego!!!
+## 30735 — Hot rod
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 10.44 zł · EAN: 05702018070512 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30735 |
+| Nazwa angielska | Hot Rod Car |
+| Nazwa polska | Hot rod |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018070512 |
 
 **LEGO Technic Hot rod 30735**
  
 Zaskocz fanów motoryzacji tym modelem samochodu LEGO® Technic Hot Rod. Pojazd ma ruchome tłoki, grube opony i odważną kolorystykę inspirowaną kultowymi samochodami typu hot rod.
 
+**Galeria:**
+
+- 30735-1: https://a.allegroimg.com/original/11939c/d1459b534955b37bc875ab78a200
+
 ---
 
-## 42000 — Lego Technic 42000 Samochód wyścigowy Nowe
+## 42000 — LEGO 42000
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014973008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42000 |
+| Nazwa angielska | Grand Prix Racer |
+| Nazwa polska | LEGO 42000 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973008 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -186,11 +306,27 @@ Zestaw **LEGO 42000 **to doskonały wybór dla fanów motoryzacji i konstrukcji,
 - Funkcje techniczne: zawieszenie, silnik V8 i skrętne koła. 
 - Możliwość przebudowy na wóz serwisowy.
 
+**Galeria:**
+
+- 42000-1: https://a.allegroimg.com/original/110e49/5372fb1f404d921a2d6630e958e3
+
 ---
 
-## 42001 — Lego 42001 Technic 2w1 Mały samochód terenowy, Off-road, buggy 4x4
+## 42001 — Klocki LEGO Technic 42001 Mini Off-Roader
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014973015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42001 |
+| Nazwa angielska | Mini Off-Roader |
+| Nazwa polska | Klocki LEGO Technic 42001 Mini Off-Roader |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702014973015 |
 
 LEGO 42001 Technic 2w1 - Mały samochód terenowy, Off-road, buggy 4x4
 
@@ -205,11 +341,27 @@ W tym modelu realistycznie odzwierciedlono atrakcyjne detale, takie jak przeznac
 
 .
 
+**Galeria:**
+
+- 42001-1: https://a.allegroimg.com/original/05e748/72ef34a346cd8bd0efce8d4d1f53
+
 ---
 
-## 42002 — Lego Technic 42002 Poduszkowiec – Terenowa Przygoda 2w1 wgniotka
+## 42002 — Lego 42002
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702014973022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42002 |
+| Nazwa angielska | Hovercraft |
+| Nazwa polska | Lego 42002 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973022 |
 
 LEGO Technic 42002 Poduszkowiec – Terenowa Przygoda 2w1
 
@@ -233,11 +385,27 @@ Szukasz modelu, który poradzi sobie na wirtualnym lądzie, wodzie i lodzie? Zes
 - **Wprowadzenie do świata Technic:** Zoptymalizowana liczba elementów (170 sztuk) sprawia, że jest to idealny model startowy dla dzieci, które dopiero zaczynają swoją przygodę z bardziej skomplikowanymi konstrukcjami opartymi na osiach i pinach.
 - **Sportowy design:** Opływowa sylwetka i dynamiczna, czarno-biało-czerwona kolorystyka nadają maszynie prawdziwie wyścigowego charakteru.
 
+**Galeria:**
+
+- 42002-1: https://a.allegroimg.com/original/05d766/6bf18e41484da1b74b69c945d4a5
+
 ---
 
-## 42005 — Lego Technic 42005 2w1 Monster truck, auto na resorach
+## 42005 — 42005
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 589.00 zł · EAN: 05702014966574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42005 |
+| Nazwa angielska | Monster Truck |
+| Nazwa polska | 42005 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014966574 |
 
 Niesamowity monster truck LEGO® Technic to maszyna do zadań specjalnych! Ten model „2 w 1” jest wyposażony w zawieszenie na 4 koła, napęd na cztery koła oraz monstrualnie wielkie gumowe opony. Karoserię ozdabiają nadruki płomieni. Zmiażdż przeciwników i zachwyć tłumy, a potem zmień ciężarówkę w łazik z tylnym zawieszeniem, układem kierowniczym tylnej osi oraz ruchomym tylnym spojlerem i wyrusz na rajd po wydmach!
 
@@ -246,11 +414,27 @@ Niesamowity monster truck LEGO® Technic to maszyna do zadań specjalnych! Ten 
 - Zawieszenie na 4 koła do jazdy w ekstremalnych warunkach, napęd na wszystkie koła, ozdobne nadruki płomieni oraz monstrualnie wielkie koła 
 - Całkowita ilość elementów: 329
 
+**Galeria:**
+
+- 42005-1: https://a.allegroimg.com/original/0537df/66d59774492bae922f67dccdad32
+
 ---
 
-## 42006 — Lego Technic 42006 Koparka Nowe
+## 42006 — LEGO TECHNIC - Koparka 42006
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1176.00 zł · EAN: 05702014974210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42006 |
+| Nazwa angielska | Excavator |
+| Nazwa polska | LEGO TECHNIC - Koparka 42006 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 720 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974210 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -282,11 +466,27 @@ Dlaczego warto kupić LEGO 42006?
  
 Nie przegap okazji, by dodać **LEGO 42006 Koparkę Gąsienicową **do swojej kolekcji i poczuć się jak prawdziwy operator ciężkiego sprzętu! 🚧🔧
 
+**Galeria:**
+
+- 42006-1: https://a.allegroimg.com/original/116d98/870753c949759972112add66aeea
+
 ---
 
-## 42007 — Lego Technic 42007 Motor crossowy Nowe
+## 42007 — 42007
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014975354 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42007 |
+| Nazwa angielska | Moto Cross Bike |
+| Nazwa polska | 42007 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975354 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -296,11 +496,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Ten niesamowity motor crossowy nie boi się żadnego toru! Wytrzymały jednoślad z klocków LEGO® Technic ma mnóstwo realistycznych elementów, takich jak napęd łańcuchowy, ruchome tłoki, przednie i tylne zawieszenie oraz opony z terenowym bieżnikiem. Ten efektowny model „2 w 1” wygląda całkiem jak prawdziwy motocykl! Model można przebudować w motocykl wyścigowy z zawieszeniem przednim i tylnym oraz silnikiem z ruchomymi tłokami.
 
+**Galeria:**
+
+- 42007-1: https://a.allegroimg.com/original/11f4d5/e79dacfc4cea880c3103895ef7ed
+
 ---
 
-## 42008 — Lego Technic 42008 Wóz techniczny
+## 42008 — Wóz techniczny
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1449.95 zł · EAN: 05702014975590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42008 |
+| Nazwa angielska | Service Truck |
+| Nazwa polska | Wóz techniczny |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 15 cm |
+| EAN | 5702014975590 |
 
 UWAGA ! Zestaw nowy, nieotwierany, oryginalnie zapakowany. Kilka lat przeleżał na magazynie - możliwe lekkie przetarcia/rysy pudełka. Nie jest to outlet ani zwrot.
 
@@ -319,11 +535,27 @@ Gdy tylko jakiś pojazd utknie w drodze, możesz wyruszyć na ratunek wytrzymał
 - Wymiary: ok. 15 cm wysokości, 44 cm długości i 15 cm szerokości. 
 - Wymiary ciężarówki z przyczepą: ok. 34 cm wysokości z podniesionym dźwigiem, 57 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 42008-1: https://a.allegroimg.com/original/110900/7f37512a4d5bbddce87bb9588a9c
+
 ---
 
-## 42009 — Klocki Lego Technic Zestaw Ruchomy żuraw Mk II 42009
+## 42009 — LEGO Technic Ruchomy żuraw MK II 42009
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 2399.00 zł · EAN: 05702014975606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42009 |
+| Nazwa angielska | Mobile Crane MK II |
+| Nazwa polska | LEGO Technic Ruchomy żuraw MK II 42009 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2606 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 15 cm |
+| EAN | 5702014975606 |
 
 LEGO Technic 42009 – Ruchomy Żuraw MKII (Mobile Crane MKII)
 
@@ -351,11 +583,27 @@ Przedmiotem sprzedaży jest jeden z największych i najbardziej szczegółowych 
 
 **Maksymalna wysokość ramienia:** ok. 77 cm!
 
+**Galeria:**
+
+- 42009-1: https://a.allegroimg.com/original/11c75d/4dd363ed46b2a8098d783df1016a
+
 ---
 
-## 42010 — Lego 42010 Technic Off-road Racer
+## 42010 — ROAD RACER 
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702014975613 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42010 |
+| Nazwa angielska | Off-Road Racer |
+| Nazwa polska | ROAD RACER  |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975613 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -379,11 +627,27 @@ Przedmiotem sprzedaży jest jeden z największych i najbardziej szczegółowych 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 42010-1: https://a.allegroimg.com/original/055d8b/56c615414ec08a48bc89a887dcc9
+
 ---
 
-## 42011 — Lego 42011 Technic Samochód wyścigowy, formuła na napęd Unikat z 2013 R.
+## 42011 — 42011
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014975620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42011 |
+| Nazwa angielska | Race Car |
+| Nazwa polska | 42011 |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975620 |
 
 LEGO 42011 Samochód wyścigowy
 
@@ -397,11 +661,27 @@ Superszybki, zwinny i elegancki samochód wyścigowy to świetne wprowadzenie w 
 
 W przypadku jakichkolwiek problemów z płatnością lub innych proszę o informacje - zawsze chętnie służę pomocą i radą :)
 
+**Galeria:**
+
+- 42011-1: https://a.allegroimg.com/original/054b16/1bdb297d4b9392c437a1f83e9d1f
+
 ---
 
-## 42022 — Lego 42022 Technic Hot Rod składany dach Unikat z roku 2014 Nowy
+## 42022 — Technic Pojazd Hot Rod
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015122504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42022 |
+| Nazwa angielska | Hot Rod |
+| Nazwa polska | Technic Pojazd Hot Rod |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 414 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm |
+| EAN | 5702015122504 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -426,11 +706,27 @@ Zasiądź za kierownicą niesamowitego hot roda LEGO® Technic i ruszaj z piskie
 - Zademonstruj wszystkim kalkomanie przedstawiające czaszkę i płomienie.
 - Hot Rod ma ok. 8 cm wysokości, 27 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 42022-1: https://a.allegroimg.com/original/112906/560777b24a5a85a213b49806f473
+
 ---
 
-## 42023 — Lego Technic 42023 Maszyny Budowlane Nowe
+## 42023 — Maszyny Budowlane
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015122511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42023 |
+| Nazwa angielska | Construction Crew |
+| Nazwa polska | Maszyny Budowlane |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 833 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702015122511 |
 
 **Klocki LEGO 42023 Maszyny budowlane**
  
@@ -452,11 +748,27 @@ Niesamowite maszyny budowlane LEGO® Technic pozwolą Ci odtworzyć w skali ca�
 - Wywrotka ma ok. 10 cm wysokości, 20 cm długości i 7 cm szerokości. 
 - Koparka ma ok. 17 cm wysokości, 22 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 42023-1: https://a.allegroimg.com/original/11ece2/534785b84645b237012b61a01da2
+
 ---
 
-## 42024 — Lego Technic 42024 Lego Nowe
+## 42024 — LEGO
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015122528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42024 |
+| Nazwa angielska | Container Truck |
+| Nazwa polska | LEGO |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 948 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm |
+| EAN | 5702015122528 |
 
 *
  
@@ -494,11 +806,27 @@ W TROSCE PRZED USZKODZENIEM W TRANSPORCIE, TWÓJ PRZEDMIOT ZAWSZE WYSYŁAM DODAT
  
 2. **CZARNA** **FOLIA STRETCH** - Zabezpieczy Twoje klocki przed kurzem, wodą i wilgocią.
 
+**Galeria:**
+
+- 42024-1: https://a.allegroimg.com/original/1110e5/fecd7e894606b5dd08b3fa0d0d0a
+
 ---
 
-## 42025 — Lego Technic 42025 Samolot transportowy
+## 42025 — 42025
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015122535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42025 |
+| Nazwa angielska | Cargo Plane |
+| Nazwa polska | 42025 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122535 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -521,11 +849,27 @@ Klocki LEGO Technic 42025 - Samolot Transportowy
  
 Rozpędź się na pasie startowym i wzbij w powietrze, przewożąc kolejny ładunek — ten model to największy i najbardziej wymagający z dotychczasowych modeli samolotów LEGO® Technic. Ale ten samolot to dużo więcej niż tylko model — ma mnóstwo realistycznych funkcji, dzięki którym może skuteczniej wypełniać swoje zadania. Poruszaj drążkiem i obserwuj, jak klapy, stery wysokości i lotki zmieniają położenie, a potem skorzystaj z silników LEGO® Power Functions, aby otwierać przedni i tylni luk bagażowy, chować podwozie i uruchamiać śmigła. Zupełnie jak w rzeczywistości! Model można przebudować w poduszkowiec transportowy.
 
+**Galeria:**
+
+- 42025-1: https://a.allegroimg.com/original/11a9b5/11fed66446dda0234453a8115a57
+
 ---
 
-## 42026 — Lego Technic 42026 Czarny Zdobywca Dróg Formuła Bolid Pull Back Unikat
+## 42026 — Czarny Zdobywca Dróg
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702015122542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42026 |
+| Nazwa angielska | Black Champion Racer |
+| Nazwa polska | Czarny Zdobywca Dróg |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 10 cm |
+| EAN | 5702015122542 |
 
 LEGO TECHNIC 42026 Czarny Zdobywca Dróg
 
@@ -549,11 +893,27 @@ Wygładzone linie sylwetki czarnego mistrza wyścigów LEGO® mogą oznaczać ty
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 42026-1: https://a.allegroimg.com/original/1193bc/3d0e289a48d790c6d300cfaace00
+
 ---
 
-## 42027 — Lego Technic Pustynna wyścigówka 42027
+## 42027 — Pustynna wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015122559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42027 |
+| Nazwa angielska | Desert Racer |
+| Nazwa polska | Pustynna wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702015122559, 673419210423 |
 
 Zestaw zawiera 148 elementów, aby skonstruować pustynną wyścigówkę, przystosowaną do jazdy w trudnym terenie.
 
@@ -569,11 +929,28 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 42027-1: https://a.allegroimg.com/original/053ee5/d354e61e4cc7a10824529465bc3f
+- 42027-2: https://a.allegroimg.com/original/0534d6/b6a109fd4b8fad09772bb4c84726
+
 ---
 
-## 42028 — Lego Technic 42028 Buldożer Nowe
+## 42028 — Buldożer
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702015122566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42028 |
+| Nazwa angielska | Bulldozer |
+| Nazwa polska | Buldożer |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 617 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 16 cm × gł. 28 cm |
+| EAN | 5702015122566 |
 
 - Numer zestawu: 42028 
 - Liczba elementów: 617 
@@ -591,11 +968,27 @@ Przygotuj się do spychania wielkich ciężarów przy pomocy niesamowitego buldo
 - Wymiary buldożera: 13 cm wysokości, 29 cm długości i 16 cm szerokości 
 - Wymiary koparki łańcuchowej: 12 cm wysokości, 28 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 42028-1: https://a.allegroimg.com/original/11636a/e695a9ad4b8fb8d7ee533aa53343
+
 ---
 
-## 42029 — Lego Technic 42029 Ciężarówka Po Tuningu Nowe
+## 42029 — Ciężarówka Po Tuningu
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702015122573 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42029 |
+| Nazwa angielska | Customized Pick up Truck |
+| Nazwa polska | Ciężarówka Po Tuningu |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1063 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122573 |
 
 NOWY
  
@@ -621,11 +1014,27 @@ Wiek:** 10-16 lat**
 
 Transportuj wielkie ciężary w trudnym terenie za pomocą gigantycznej czerwonej ciężarówki z platformą! Ten wytrzymały pojazd wyposażony jest w wielkie koła, mocne podwozie, całkowicie niezależne zawieszenie, duży silnik V6, solidną osłonę chłodnicy z wyciągarką oraz przechylaną platformę. Wykorzystaj Zestaw napędowy Power Functions 8293 (nie wchodzi w skład tego zestawu), aby zautomatyzować działanie wyciągarki i platformy oraz zamontować na pojeździe jasne przednie światła LED-owe. Możliwość przebudowania w efektowny ciągnik zrywkowy.Zjedź z drogi w ciężarówce po tuningu typu ,,2w1" wyposażonej w olbrzymie koła, solidną osłonę chłodnicy, ruchomą wyciągarkę i niezależne zawieszenie.
 
+**Galeria:**
+
+- 42029-1: https://a.allegroimg.com/original/0169a9/f1b3e81c42faa20476cb0ab40481
+
 ---
 
-## 42030 — Lego Technic Koparka Volvo L350F 42030
+## 42030 — LEGO Technic Koparka VOLVO L350F 42030
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1599.99 zł · EAN: 05702015122580 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42030 |
+| Nazwa angielska | Remote-Controlled Volvo L350F Wheel Loader |
+| Nazwa polska | LEGO Technic Koparka VOLVO L350F 42030 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1636 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 16 cm × gł. 50 cm |
+| EAN | 5702015122580 |
 
 KLOCKI LEGO TECHNIC 42030 2 W 1 KOPARKA VOLVO L350F
  
@@ -673,11 +1082,27 @@ ILOŚĆ ELEMENTÓW: 1636
  
 WIEK: +11
 
+**Galeria:**
+
+- 42030-1: https://a.allegroimg.com/original/05d377/48c78c11460293f507ec180a88ad
+
 ---
 
-## 42032 — Lego 42032 Technic Mała ładowarka gąsienicowa
+## 42032 — Mała ładowarka gąsienicowa
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702015350037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42032 |
+| Nazwa angielska | Compact Tracked Loader |
+| Nazwa polska | Mała ładowarka gąsienicowa |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm × gł. 13 cm |
+| EAN | 5702015350037 |
 
 LEGO 42032 Technic - Mała ładowarka gąsienicowa
 
@@ -692,11 +1117,27 @@ Oczyść drogę za pomocą małej ładowarki gąsienicowej! Ten solidny model LE
 - Wymiary małej ładowarki gąsienicowej (z opuszczoną łyżką): 9 cm wysokości, 17 cm długości i 8 cm szerokości
 - Wymiary pługa gąsienicowego: 8 cm wysokości, 13 cm długości i 11 cm szerokości
 
+**Galeria:**
+
+- 42032-1: https://a.allegroimg.com/original/457a6b/e8004b0942069476a95ea96d6919
+
 ---
 
-## 42034 — Lego 42034 Technic Quad kład Terenówka Unikat z 2015 roku
+## 42034 — Quad
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015350013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42034 |
+| Nazwa angielska | Quad Bike |
+| Nazwa polska | Quad |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 21 cm |
+| EAN | 5702015350013 |
 
 Nowy zestaw klocków
 
@@ -727,11 +1168,27 @@ Pokonuj nawet najtrudniejszy teren dzięki wytrzymałemu quadowi LEGO® Technic!
 - Waga opakowania (g) 318 (0,318kg)
 - Wymiary złożonego zestawu (cm) 9 x 15 x 9
 
+**Galeria:**
+
+- 42034-1: https://a.allegroimg.com/original/00d798/cb8337364433a51a6b5db6b4f5d0
+
 ---
 
-## 42035 — Lego Technic 42035 Ciężarówka Górnicza 2w1 Spycharka
+## 42035 — Ciężarówka Górnicza
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702015350006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42035 |
+| Nazwa angielska | Mining Truck |
+| Nazwa polska | Ciężarówka Górnicza |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 10 cm × gł. 20 cm |
+| EAN | 5702015350006 |
 
 LEGO TECHNIC 42035 Ciężarówka Górnicza
 
@@ -754,11 +1211,27 @@ Zasiądź za kierownicą wielkiej ciężarówki górniczej!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 42035-1: https://a.allegroimg.com/original/114111/64c298c04b23aec442303f20f583
+
 ---
 
-## 42036 — Lego Technic 42036 Miejski motocykl 2 w 1 Czytaj Opis
+## 42036 — Street Motorcycle
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702015349994 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42036 |
+| Nazwa angielska | Street Motorcycle |
+| Nazwa polska | Street Motorcycle |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349994 |
 
 WITAM SERDECZNIE.
 
@@ -772,11 +1245,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 42036-1: https://a.allegroimg.com/original/1139ef/672e5b0b45a0b95209dd5fbc5328
+
 ---
 
-## 42037 — Lego Technic 42037 Terenówka
+## 42037 — Terenówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 386.61 zł · EAN: 05702015349987 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42037 |
+| Nazwa angielska | Formula Off-Roader |
+| Nazwa polska | Terenówka |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 494 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349987 |
 
 LEGO Technic 42037 Terenówka
 
@@ -806,11 +1295,27 @@ LEGO Technic 42037 Terenówka
 
 **DK**
 
+**Galeria:**
+
+- 42037-1: https://a.allegroimg.com/original/11eb42/8bc262f24dcd9a2fea2208474980
+
 ---
 
-## 42038 — Lego Technic 42038 Łazik Arktyczny
+## 42038 — Łazik Arktyczny
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015350051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42038 |
+| Nazwa angielska | Arctic Truck |
+| Nazwa polska | Łazik Arktyczny |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 913 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 18 cm |
+| EAN | 5702015350051 |
 
 Zasiądź za kierownicą ogromnego łazika arktycznego LEGO® Technic.   Ten potężny łazik śnieżny przeznaczony jest do pokonywania arktycznego terenu i wielkich zasp.   Wyposażony jest w 4 wielkie gąsienice zapewniające maksymalną zwrotność, działające przednie zawieszenie,   ogromną kabinę z otwieranymi drzwiami, złożony mechanizm zawieszenia zapewniający optymalną elastyczność,   działające ramię dźwigu z hakiem i wciągarką, odchylaną skrzynię ładunkową, a także charakteryzuje się   efektowną kolorystyką łączącą jasny pomarańcz z czernią.
 
@@ -826,11 +1331,27 @@ Zasiądź za kierownicą ogromnego łazika arktycznego LEGO® Technic.   Ten po
 - Wymiary łazika arktycznego (z obniżonym wysięgnikiem): 16 cm wysokości, 40 cm długości i 18 cm szerokości 
 - Wymiary gąsienicowego pickupa: xx cm wysokości, xx cm długości i xx cm szerokości
 
+**Galeria:**
+
+- 42038-1: https://a.allegroimg.com/original/0009ed/5061c8844fcfaa544591fa2fb3c0
+
 ---
 
-## 42039 — Klocki Lego Technic Zestaw Superszybka wyścigówka 2 w 1 42039
+## 42039 — 42039
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702015349789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42039 |
+| Nazwa angielska | 24 Hours Race Car |
+| Nazwa polska | 42039 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm |
+| EAN | 5702015349789 |
 
 Ścigaj się z zatrważającą prędkością w niebywale szybkiej długodystansowej wyścigówce! Ten solidny model z serii LEGO® Technic z pieczołowicie oddanymi szczegółami ma wszystko to, co prawdziwa wyścigówka: szczegółowo oddany silnik V8 z ruchomymi tłokami, otwierane pionowo drzwi, w pełni niezależne zawieszenie, działający przedni układ kierowniczy, wysoko umieszczone błotniki oraz otwierany bagażnik przedni i pokrywę silnika. Załóż rękawice i wciśnij pedał gazu! Wykorzystaj zestaw napędowy 8293 Funkcje mechaniczne (nie wchodzi w skład tego zestawu), aby zamontować w pojeździe jasne reflektory LED oraz zautomatyzować otwieranie drzwi i pokrywy silnika. Z tego modelu typu 2 w 1 można zbudować wyścigowego SUV-a.
 
@@ -850,11 +1371,27 @@ Wykorzystaj zestaw napędowy 8293 Funkcje mechaniczne LEGO® (nie wchodzi w skł
 
 Wymiary długodystansowej wyścigówki: 10 cm wysokości, 48 cm długości i 21 cm szerokości
 
+**Galeria:**
+
+- 42039-1: https://3.allegroimg.com/original/0052e1/93baa96247808f05604e0f4c8213
+
 ---
 
-## 42040 — Klocki Lego Technic Zestaw 2w1 Samolot strażacki Odrzutowiec 42040
+## 42040 — Samolot strażacki
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 868.00 zł · EAN: 05702015349772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42040 |
+| Nazwa angielska | Fire Plane |
+| Nazwa polska | Samolot strażacki |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 578 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 44 cm × gł. 38 cm |
+| EAN | 5702015349772 |
 
 Klocki LEGO 42040 Samolot strażacki
 
@@ -876,11 +1413,27 @@ Wymiary samolotu strażackiego: 17 cm wysokości, 34 cm długości i 44 cm sz
 
 Wymiary samolotu odrzutowego: 14 cm wysokości, 38 cm długości i 19 cm szerokości
 
+**Galeria:**
+
+- 42040-1: https://e.allegroimg.com/original/00cbb5/524144ac49febf4843c836bc38de
+
 ---
 
-## 42041 — Lego Technic 42041 Ciężarówka wyścigowa Nowe
+## 42041 — Ciężarówka wyścigowa
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015349765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42041 |
+| Nazwa angielska | Race Truck |
+| Nazwa polska | Ciężarówka wyścigowa |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 608 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm × gł. 33 cm |
+| EAN | 5702015349765 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -900,11 +1453,27 @@ Przygotuj się na emocjonująco szybką jazdę w ciężarówce wyścigowej LEGO�
 - Wymiary ciężarówki wyścigowej: 15 cm wysokości, 32 cm długości i 14 cm szerokości 
 - Wymiary samochodu wyścigowego: 9 cm wysokości, 33 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 42041-1: https://a.allegroimg.com/original/113782/e8806252487783cbf64704c8816c
+
 ---
 
-## 42042 — Lego Technic 42042 Żuraw gąsienicowy Nowe
+## 42042 — 42042
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1429.00 zł · EAN: 05702015349758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42042 |
+| Nazwa angielska | Crawler Crane |
+| Nazwa polska | 42042 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 61 cm × szer. 20 cm × gł. 58 cm |
+| EAN | 5702015349758 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -926,11 +1495,27 @@ Zrób miejsce dla potężnego żurawia gąsienicowego LEGO® Technic! Ten ogromn
 - Wymiary żurawia gąsienicowego: 61 cm wysokości, 60 cm długości i 20 cm szerokości 
 - Wymiary mobilnego żurawia wieżowego: 60 cm wysokości, 58 cm długości i 20 cm szerokości
 
+**Galeria:**
+
+- 42042-1: https://a.allegroimg.com/original/11aea1/5089613d4e7a82bb734e4b7d261f
+
 ---
 
-## 42043 — Lego Technic 42043 Mercedes Benz Arocs 3245 Nowe
+## 42043 — Mercedes-Benz Arocs 3245
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 2485.00 zł · EAN: 05702015349741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42043 |
+| Nazwa angielska | Mercedes-Benz Arocs 3245 |
+| Nazwa polska | Mercedes-Benz Arocs 3245 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2793 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 14 cm |
+| EAN | 5702015349741 |
 
 LEGO Technic 42043 - Mercedes-Benz Arocs 3245
  
@@ -964,11 +1549,27 @@ Wymiary modelu Mercedes-Benz Arocs 3245 (ze schowanymi podporami i ramieniem żu
  
 Wymiary przegubowej ciężarówki budowlanej Mercedes-Benz (z wysuniętym wysięgnikiem żurawia): 53 cm wysokości, 77 cm długości i 14 cm szerokości; 31 cm wysokości ze schowanym wysięgnikiem żurawia
 
+**Galeria:**
+
+- 42043-1: https://a.allegroimg.com/original/005d58/2ade35a04e6bbd2d0267cc9f3ec4
+
 ---
 
-## 42044 — Lego Technic 42044 Odrzutowiec
+## 42044 — Odrzutowiec
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702015590921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42044 |
+| Nazwa angielska | Display Team Jet |
+| Nazwa polska | Odrzutowiec |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015590921 |
 
 LEGO Technic 42044 Odrzutowiec
 
@@ -982,11 +1583,27 @@ Kategoria wiekowa: od 7 roku życia
 
 LEGO Technic to seria zestawów, które łączą ze sobą tradycyjne klocki z licznymi dodatkami, takie jak: ośki, przekładnie, siłowniki i tym podobne. Są to zabawki, które dają zdecydowanie większe możliwości w budowie coraz to bardziej realistycznych konstrukcji. Prezentowany produkt to zestaw typu 2w1, który daje możliwość budowy z tych samych klocków dwóch różnych samolotów. Pierwszy to odrzutowiec średniopłatowy z wyciąganym podwoziem, a drugi to samolot w klasycznym układzie, z obracającym się śmigłem z przodu, typu kaskaderskiego. W zestawie znajduje się aż 113 elementów, co zapewni wyśmienitą zabawę podczas budowy. Odrzutowiec ma wymiary: 28 x 21 x 10 cm, a samolot kaskaderski: 21 x 21 x 7 cm.
 
+**Galeria:**
+
+- 42044-1: https://a.allegroimg.com/original/054dbb/037ea0a5405d9548ee7b76190da8
+
 ---
 
-## 42045 — Lego Technic 42045 Wyścigowy wodolot Łódź Speedboat 2w1
+## 42045 — Wyścigowy wodolot
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 244.42 zł · EAN: 05702015590938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42045 |
+| Nazwa angielska | Hydroplane Racer |
+| Nazwa polska | Wyścigowy wodolot |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 13 cm |
+| EAN | 5702015590938 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1010,11 +1627,27 @@ Marzy ci się podium w wyścigach na wodzie? Zbuduj wyścigowy wodolot, który m
 - Wyścigowy wodolot ma ok. 6 cm wysokości, 23 cm długości i 13 cm szerokości.
 - Wymiary łodzi wyścigowej to 6 cm wysokości, 21 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42045-1: https://a.allegroimg.com/original/1114be/8b2bd3d04497a190aaa9ea35e4fe
+
 ---
 
-## 42046 — Lego Technic 42046 Wyścigówka zbiegów Hot-Rod napęd pull-back Unikat
+## 42046 — Getaway Racer
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702015590945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42046 |
+| Nazwa angielska | Getaway Racer |
+| Nazwa polska | Getaway Racer |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702015590945 |
 
 Nowy zestaw klocków
 
@@ -1042,11 +1675,27 @@ Wyścigówki zbiegów nie dogoni żaden pościg! To wyjątkowe auto w ciemnoszar
 - Łącząc model z radiowozem z zestawu 42047, możesz zbudować niesamowity ekstremalny policyjny pościgowiec.
 - Model połączony ekstremalnego policyjnego pościgowca ma ok. 7 cm wysokości, 26 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42046-1: https://a.allegroimg.com/original/11883d/8d64501c43429c2d895eb1b81075
+
 ---
 
-## 42047 — Lego Technic 42047 Radiowóz pościgowy policja terenówka na dużych kołach
+## 42047 — Radiowóz pościgowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 249.50 zł · EAN: 05702015590952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42047 |
+| Nazwa angielska | Police Interceptor |
+| Nazwa polska | Radiowóz pościgowy |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702015590952 |
 
 Nowy zestaw klocków
 
@@ -1074,11 +1723,27 @@ Wezwij szybki jak wiatr radiowóz pościgowy, utrzymany w kolorach białym, czar
 - Łącząc ten model z wyścigówką zbiegów z zestawu 42046, możesz zbudować niesamowity model kombi: ekstremalny policyjny pościgowiec.
 - Model połączony ekstremalnego policyjnego pościgowca ma ok. 7 cm wysokości, 26 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42047-1: https://a.allegroimg.com/original/05b1bf/748245ff424c8d8ca882ec13cf5e
+
 ---
 
-## 42048 — Klocki Lego Technic Zestaw Gokart Kart wyścigowy 42048
+## 42048 — Lego Technic 42048 Race Kart
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015590969 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42048 |
+| Nazwa angielska | Race Kart |
+| Nazwa polska | Lego Technic 42048 Race Kart |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702015590969 |
 
 Klocki LEGO TECHNIC Gokart 42048
 
@@ -1098,11 +1763,27 @@ Wymiary gokarta to 8 cm wysokości, 23 cm długości i 12 cm szerokości.
 
 Torowa wyścigówka ma ok. 8 cm wysokości, 25 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 42048-1: https://a.allegroimg.com/original/051922/952b502d4c0aa1a1bad547c46f06
+
 ---
 
-## 42049 — Lego Technic 42049 Ładowarka górnicza
+## 42049 — Ładowarka górnicza
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702015591973 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42049 |
+| Nazwa angielska | Mine Loader |
+| Nazwa polska | Ładowarka górnicza |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591973 |
 
 LEGO TECHNIC
  
@@ -1120,11 +1801,27 @@ Wybierz się na przejażdżkę maszyną, której niestraszne podziemne korytarze
  
 Ta realistyczna replika górniczej ładowarki zabierze cię na przejażdżkę kopalnianymi chodnikami. Jest pomalowana w czarno-żółte barwy, ma uniwersalny chwytak, silnik z ruchomymi tłokami, przegubowy centralny mechanizm kierowniczy i wielkie opony. Ten solidny model „2 w 1” z serii LEGO® Technic zawiera też elementy ładunku. Gdy zapragniesz odmiany, możesz przebudować go na kombajn górniczy — dawka emocji będzie podwójna! Do pobrania jest dostępna aplikacja z instrukcjami budowania obu modeli w 3D.
 
+**Galeria:**
+
+- 42049-1: https://a.allegroimg.com/original/11f324/203d9f7a456a9a619d5c4ffdb78a
+
 ---
 
-## 42050 — Lego 42050 Technic Dragster model silnika V8 wyścigówka 2w1 Unikat
+## 42050 — LEGO TECHNIC
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 575.00 zł · EAN: 05702015591980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42050 |
+| Nazwa angielska | Drag Racer |
+| Nazwa polska | LEGO TECHNIC |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 647 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 16 cm |
+| EAN | 5702015591980 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1154,11 +1851,27 @@ Potężny Dragster całą trasę wyścigu pokonuje z przednimi kołami w górze 
 - W pozycji jazdy na tylnych kołach Dragster sięga w górę na ok. 25 cm.
 - Dragster z doładowaniem ma ok. 19 cm wysokości, 60 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 42050-1: https://a.allegroimg.com/original/119431/80e339854bfe8182dad2dfe6d203
+
 ---
 
-## 42052 — Lego Technic 42052 nowy zestaw Julivo
+## 42052 — TECHNIC
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1025.00 zł · EAN: 05702015592062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42052 |
+| Nazwa angielska | Heavy Lift Helicopter |
+| Nazwa polska | TECHNIC |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1042 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592062 |
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -1203,11 +1916,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 42052-1: https://a.allegroimg.com/original/116218/5aa0b6764384a197621b18456107
+
 ---
 
-## 42053 — Lego Technic 42053 Volvo EW160E
+## 42053 — Volvo EW160E
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702015592055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42053 |
+| Nazwa angielska | Volvo EW160E |
+| Nazwa polska | Volvo EW160E |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592055 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -1217,11 +1946,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 42053-1: https://a.allegroimg.com/original/113ad4/ccf93f424739af0ba20ab2b30ae7
+
 ---
 
-## 42054 — Klocki Lego Technic 2w1 Claas Xerion 5000 Trac VC 42054
+## 42054 — 42054
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1841.44 zł · EAN: 05702015594073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42054 |
+| Nazwa angielska | CLAAS XERION 5000 TRAC VC |
+| Nazwa polska | 42054 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1977 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594073 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1249,11 +1994,27 @@ Ten model LEGO® Technic typu „2 w 1” przedstawia potężny ciągnik CLAAS X
 
 Po włączeniu silnika Power Functions, który znajduje się w zestawie, można unosić kabinę i obracać ją o 180° stopni, a także operować wszechstronnym dźwigiem i rozkładać podpory. Pojazd jest wyjątkowo zwrotny dzięki możliwości skręcania kół osi przedniej, obu osi oraz kół obu osi w tym samym kierunku. Wielkie opony ciągnikowe zapewniają optymalną przyczepność i siłę uciągu na wszystkich rodzajach nawierzchni. Przeróbka dźwigu umożliwia zamianę modelu w ciągnik CLAAS XERION 5000 TRAC VC z pługiem zgarniającym.
 
+**Galeria:**
+
+- 42054-1: https://a.allegroimg.com/original/00cd17/d676187f4f9e96e634d44ea12129
+
 ---
 
-## 42055 — Klocki Lego Technic Zestaw Górnicza koparka kołowa 42055
+## 42055 — Kombajn górniczy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 2488.00 zł · EAN: 05702015594011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42055 |
+| Nazwa angielska | Bucket Wheel Excavator |
+| Nazwa polska | Kombajn górniczy |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3929 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 10 cm |
+| EAN | 5702015594011 |
 
 LEGO Technic Zestaw Górnicza koparka kołowa 42055
 
@@ -1287,43 +2048,27 @@ Ciężarówka górnicza ma ok. 10 cm wysokości, 19 cm długości i 10 cm szerok
 
 Zestaw wymaga baterii: 6xAA. Nie dołączone do zestawu
 
----
+**Galeria:**
 
-## 42056 — Lego Technic 42056 Lego Technic Porsche 911 GT3 Rs 42056
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 3949.00 zł · EAN: 05702015594028 · in stock*
-
-**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
-
-**Odkryj niezwykły zestaw LEGO – nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
-
-**Co otrzymujesz?**
-
-- **Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
-- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
-- **📸 Rzeczywiste zdjęcia przedstawiają oferowany produkt**
-
-**✨ Dlaczego warto wybrać LEGO?**
-
-- **✅ 100% oryginalny produkt – bez kompromisów**
-- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
-- **✅ Zachwyca jakością wykonania i dbałością o detale**
-- **✅ Wspaniała rozrywka solo lub z bliskimi**
-
-**🚚 Wysyłka**
-
-- **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
-- **Szybka realizacja zamówień**
-
-LEGO Technic 42056 - Porsche 911 GT3 RS
-
-ORYGINALNY MODEL LEGO® Technic, który przybliży Ci kultowe Porsche 911 GT3 RS. W środku pudełka znajdziesz specjalną, kolekcjonerską książeczkę, w której opisana została historia LEGO Technic oraz samochodów Porsche GT. Są tam także 4 obręcze z logo RS wykonane według oryginalnego projektu. Zestawy klocków znajdują się w pudełkach, a kolejność ich składania daje pojęcie o procesie montażu prawdziwego samochodu. Model ma oddane z dbałością o detale, pomarańczowe nadwozie, czerwone sprężyny zawieszenia, szczegółowo ukazane reflektory, światła tylne, zaciski hamulcowe oraz obręcze z oponami o niskim profilu. Model oferuje szereg funkcji, w tym otwierane drzwi i maskę z przestrzenią bagażową i walizką, a także otwieraną klapę tylną, która kryje pieczołowicie oddany 6-cylindrowy silnik w układzie bokser z ruchomymi tłokami. Ten model w skali 1:10 zapewnia fascynującą zabawę i satysfakcję z budowania.
+- 42055-1: https://0.allegroimg.com/original/00e8c3/1ce6e4e54eb89e8d29f24ab2f370
 
 ---
 
-## 42057 — Lego Technic 42057 nowy zestaw Julivo
+## 42057 — 42057
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015869447 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42057 |
+| Nazwa angielska | Ultralight Helicopter |
+| Nazwa polska | 42057 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 18 cm |
+| EAN | 5702015869447 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -1361,11 +2106,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 42057-1: https://a.allegroimg.com/original/009a11/05803b94416db21038a5e49a7464
+
 ---
 
-## 42058 — Lego 42058 Technic Kaskaderski motocykl ścigacz- napęd pull-back rampa
+## 42058 — Technic 42058  Kaskaderski motocykl 
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702015869454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42058 |
+| Nazwa angielska | Stunt Bike |
+| Nazwa polska | Technic 42058  Kaskaderski motocykl  |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869454 |
 
 **Nowy zestaw klocków**
 
@@ -1387,11 +2148,27 @@ Opis:
 
 Uruchom potężny silnik typu pull-back, a motocykl jak strzała popędzi po pochylni.
 
+**Galeria:**
+
+- 42058-1: https://a.allegroimg.com/original/0050e8/244faa1a4781ba2670d312006f72
+
 ---
 
-## 42059 — Lego Technic Kaskaderska terenówka 42059 Nowy
+## 42059 — 42059
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015869461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42059 |
+| Nazwa angielska | Stunt Truck |
+| Nazwa polska | 42059 |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702015869461 |
 
 LEGO 42059 TECHNIC Kaskaderska Terenówka
  
@@ -1433,11 +2210,27 @@ WIEK: 7-14 LAT
  
 - Kaskaderska Terenówka
 
+**Galeria:**
+
+- 42059-1: https://a.allegroimg.com/original/11f4af/65db745045e39f87c65445aa5606
+
 ---
 
-## 42061 — Lego Technic 42061 Ładowarka teleskopowa Nowe
+## 42061 — Ładowarka teleskopowa
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702015869683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42061 |
+| Nazwa angielska | Telehandler |
+| Nazwa polska | Ładowarka teleskopowa |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 10 cm |
+| EAN | 5702015869683 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1462,11 +2255,27 @@ Dzięki tej replice prawdziwej ładowarki teleskopowej sięgniesz naprawdę wyso
 - Wymiary ładowarki teleskopowej z rozsuniętym wysięgnikiem to ok. 22 cm wysokości, 30 cm długości i 10 cm szerokości, a po złożeniu wysięgnika ok. 10 cm wysokości i 23 cm długości.
 - Wymiary samochodu holowniczego to 11 cm wysokości, 21 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42061-1: https://a.allegroimg.com/original/115b3b/8b83e6344d8da752c465e7a53bda
+
 ---
 
-## 42062 — Lego Technic 42062 Plac przeładunkowy Nowe
+## 42062 — Plac przeładunkowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 604.00 zł · EAN: 05702015869690 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42062 |
+| Nazwa angielska | Container Yard |
+| Nazwa polska | Plac przeładunkowy |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 631 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702015869690 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1493,11 +2302,27 @@ Solidne i odwzorowane z dbałością o szczegóły modele z zestawu Plac przeła
 - Wózek bramowy (całkowicie rozsunięty) ma ok. ok. 24 cm wysokości, 11 cm długości i 24 cm szerokości, a po zsunięciu ok. 17 cm wysokości i 11 cm szerokości. 
 - Ciężarówka do wózka bramowego z kontenerem ma ok. ok. 9 cm wysokości, 18 cm długości i 7 cm szerokości, a bez kontenera ok. 7 cm wysokości.
 
+**Galeria:**
+
+- 42062-1: https://a.allegroimg.com/original/119155/593d4042489d98d8607d1fa257f6
+
 ---
 
-## 42063 — Klocki Lego Technic motocykl Bmw R 1200 Gs Adventure 603 elementów plastik
+## 42063 — BMW R 1200 GS Adventure
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015869706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42063 |
+| Nazwa angielska | BMW R 1200 GS Adventure |
+| Nazwa polska | BMW R 1200 GS Adventure |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 603 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 10 cm |
+| EAN | 5702015869706 |
 
 LEGO TECHNIC 42063 MOTOCYKL BMW R1200 GS ADVENTURE
 
@@ -1526,11 +2351,27 @@ Ta realistyczna replika LEGO® Technic przybliży Ci nowoczesne rozwiązania mot
 - **Certyfikaty, opinie, atesty:** CE 
 - **EAN:** 5702015869706
 
+**Galeria:**
+
+- 42063-1: https://a.allegroimg.com/original/11407e/809e9bd748a49fdf3456e9123cb8
+
 ---
 
-## 42064 — Lego Technic Zestaw Statek badawczy Helikopter 42064
+## 42064 — LEGO
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1049.00 zł · EAN: 05702015869713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42064 |
+| Nazwa angielska | Ocean Explorer |
+| Nazwa polska | LEGO |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 23 cm |
+| EAN | 5702015869713 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1569,11 +2410,27 @@ Zestaw Statek badawczy LEGO® Technic zaprasza do przeżycia morskich przygód. 
 - Wymiary pchacza to ok. 16 cm wysokości, 24 cm długości i 13 cm szerokości. 
 - Wymiary barki to ok. 8 cm wysokości, 39 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 42064-1: https://a.allegroimg.com/original/112d26/bc2e0b884949a4052bec65e61da4
+
 ---
 
-## 42065 — Lego Technic Zdalnie Sterowana Wyścigówka 42065 b
+## 42065 — 42065 LEGO TECHNIC Zdalnie Sterowana Wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 777.49 zł · EAN: 05702015869720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42065 |
+| Nazwa angielska | RC Tracked Racer |
+| Nazwa polska | 42065 LEGO TECHNIC Zdalnie Sterowana Wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 370 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm |
+| EAN | 5702015869720 |
 
 Zdalnie sterowana wyścigówka
 
@@ -1591,19 +2448,51 @@ Całkowicie zmechanizowana, Zdalnie sterowana wyścigówka LEGO® Technic potraf
 • Wymiary zdalnie sterowanej wyścigówki gąsienicowej: ok. 9 cm wysokości, 22 cm długości i 16 cm szerokości.
 • Wymiary zdalnie sterowanego wozu terenowego: ok. 15 cm wysokości, 20 cm długości i 16 cm szerokości.
 
+**Galeria:**
+
+- 42065-1: https://a.allegroimg.com/original/11f39d/b537257d465eb7c4bb3deef040f2
+
 ---
 
-## 42066 — Lego Technic Zestaw Samolot Mysliwiec Odrzutowiec 42066
+## 42066 — TECHNIC
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 918.00 zł · EAN: 05702015869737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42066 |
+| Nazwa angielska | Air Race Jet |
+| Nazwa polska | TECHNIC |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869737 |
 
 **LEGO Technic Zestaw Samolot Odrzutowiec 42066**Budowa tego fantastycznego, aerodynamicznego modelu LEGO® Technic da Ci mnóstwo zadowolenia! Niebiesko-czarno-czerwony odrzutowiec wyścigowy ma naprawdę świetne naklejki wyścigowe i szereg detali, które podnoszą jego autentyzm, a także niezwykłe funkcje zmechanizowane. Włącz znajdujący się w zestawie silnik Power Functions, by ustawić dyszę silnika odrzutowego w położeniu do startu poziomego lub pionowego, otworzyć kadłub, opuścić lub wciągnąć podwozie, otworzyć klapkę kryjącą kręcący się silnik turbowentylatorowy lub ustawić klapy w położeniu do lotu! W tym niezwykłym modelu znajdziesz także wszechstronny układ kierowniczy przedniego koła, ruchome płaszczyzny sterowe na ogonie oraz ukazany ze szczegółami otwierany kokpit. A gdy nabierzesz ochoty na nowe konstruktorskie wyzwanie, możesz przerobić ten model na świetny prywatny samolot odrzutowy.
 
+**Galeria:**
+
+- 42066-1: https://a.allegroimg.com/original/0569fa/b4bc02fd41cbac4cb63dfa77a005
+
 ---
 
-## 42068 — Klocki Lego Technic Pojazd straży pożarnej 42068 1094 elementy
+## 42068 — Klocki LEGO Technic Pojazd straży pożarnej 42068
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1379.00 zł · EAN: 05702015869744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42068 |
+| Nazwa angielska | Airport Rescue Vehicle |
+| Nazwa polska | Klocki LEGO Technic Pojazd straży pożarnej 42068 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1094 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 15 cm |
+| EAN | 5702015869744 |
 
 Klocki LEGO Technic 42068 - Pojazd straży pożarnej
 
@@ -1619,11 +2508,27 @@ Ta realistyczna replika prawdziwego lotniskowego pojazdu ratowniczego z serii LE
 - Lotniskowy pojazd ratowniczy (z rozłożonym wysięgnikiem) ma ok. 42 cm wysokości, 45 cm długości i 15 cm szerokości, a po złożeniu wysięgnika jego wysokość to ok. 17 cm.
 - Pojazd straży pożarnej (z rozłożonym wysięgnikiem) ma ok. 31 cm wysokości, 55 cm długości i 13 cm szerokości, a po złożeniu wysięgnika jego wysokość to ok. 14 cm.
 
+**Galeria:**
+
+- 42068-1: https://a.allegroimg.com/original/05c899/e6b9e5304d2eafe497ff778ec71c
+
 ---
 
-## 42069 — Lego Technic zestaw ekstremalna przygoda 42069
+## 42069 — 42069
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015869751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42069 |
+| Nazwa angielska | Extreme Adventure |
+| Nazwa polska | 42069 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2382 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869751 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1643,11 +2548,27 @@ Ta realistyczna replika prawdziwego lotniskowego pojazdu ratowniczego z serii LE
 
 Sprawdź niezwykłą przyczepność i manewrowość tego ekstremalnego pojazdu z czterema terenowymi gąsienicami i działającym zawieszeniem, podnoszonymi drzwiami i opuszczanymi stopniami bocznymi, podnoszonym namiotem dachowym, działającą wyciągarką, przednim układem kierowniczym, otwieraną maską, szczegółowym silnikiem V8 z ruchomymi tłokami i zamykaną tylną klapą. Model ma również wysuwaną szufladę bagażową, dwa boczne schowki z apteczką i dwiema gaśnicami oraz bagażnik na dachu z dwoma kanistrami w rzadkim, ciemnozielonym kolorze. Ten zestaw LEGO® Technic 2 w 1 z dekoracyjnymi naklejkami składa się z żółtych, czarnych i fioletowych elementów i można go przebudować na mobilną bazę.
 
+**Galeria:**
+
+- 42069-1: https://a.allegroimg.com/original/00c7e1/3b08e1a04a74aff3924ace87a0f9
+
 ---
 
-## 42070 — Lego Technic 42070 Terenowy holownik 6x6 1862 elementy
+## 42070 — Klocki LEGO Technic Terenowy holownik 6x6 42070
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1490.00 zł · EAN: 05702015869768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42070 |
+| Nazwa angielska | 6x6 All Terrain Tow Truck |
+| Nazwa polska | Klocki LEGO Technic Terenowy holownik 6x6 42070 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1862 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 51 cm × szer. 37 cm |
+| EAN | 5702015869768 |
 
 LEGO Terenowy holownik 6x6 42070
  
@@ -1668,11 +2589,27 @@ Spiesz na pomoc innym pojazdom w całkowicie zdalnie sterowanym terenowym holown
 - Terenowy holownik 6x6 z podniesionym wysięgnikiem i wysuniętymi podporami ma ok. 51 cm wysokości, 63 cm długości i 37 cm szerokości, a po opuszczeniu wysięgnika i złożeniu podpór ma ok. 26 cm wysokości i 20 cm szerokości. 
 - Model B ma ok. 23 cm wysokości, 47 cm długości i 23 cm szerokości.
 
+**Galeria:**
+
+- 42070-1: https://a.allegroimg.com/original/05d439/05d6d8594d99bd1240b059c2c0e5
+
 ---
 
-## 42071 — Lego Technic 42071 Klocki 2018 Spychacz 42071 kartonik podniszczony
+## 42071 — Klocki LEGO Technic Spycharka 42071
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702016093247 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42071 |
+| Nazwa angielska | Dozer Compactor |
+| Nazwa polska | Klocki LEGO Technic Spycharka 42071 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016093247 |
 
 LEGO TECHNIC SPYCZ 42071
 
@@ -1700,11 +2637,27 @@ Poznaj prawdziwą moc tej autentycznej repliki prawdziwej spycharki z kabiną ki
 - **Typ:** Waga jednostkowa brutto 
 - **Konstrukcyjne:** 0,3 kg
 
+**Galeria:**
+
+- 42071-1: https://a.allegroimg.com/original/05b37e/458568be433cad52312237c65291
+
 ---
 
-## 42072 — Lego Technic 42072 Żółta wyścigówka
+## 42072 — Żółta wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702016093254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42072 |
+| Nazwa angielska | WHACK! |
+| Nazwa polska | Żółta wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702016093254 |
 
 LEGO TECHNIC
  
@@ -1726,11 +2679,27 @@ Pojazd ma mocny silnik typu pull-back, wytrzymały przedni zderzak, duży spojle
  
 Wyścigówka kombi ma ok. 9 cm wysokości, 20 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42072-1: https://a.allegroimg.com/original/0505b3/ab9cf9f74ad7b58f53fe8b3343f4
+
 ---
 
-## 42073 — Lego Technic 42073 Czerwona wyścigówka nowy zestaw klocków
+## 42073 — Czerwona wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 194.99 zł · EAN: 05702016093261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42073 |
+| Nazwa angielska | BASH! |
+| Nazwa polska | Czerwona wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702016093261 |
 
 Witam
 
@@ -1758,11 +2727,27 @@ Cechy zestawu:
 - Czerwona wyścigówka ma ok. 7 cm wysokości, 17 cm długości i 9 cm szerokości. 
 Wyścigówka kombi ma ok. 9 cm wysokości, 20 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 42073-1: https://a.allegroimg.com/original/00218b/268cc60e491ead7f84e365f9c8ba
+
 ---
 
-## 42074 — Lego Technic 42074 Jacht wyścigowy Katamaran Żaglówka Łódź
+## 42074 — Klocki LEGO Technic Jacht wyścigowy 42074
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702016093971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42074 |
+| Nazwa angielska | Racing Yacht |
+| Nazwa polska | Klocki LEGO Technic Jacht wyścigowy 42074 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 8 cm |
+| EAN | 5702016093971 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1791,11 +2776,27 @@ Wkrocz do świata sportów wodnych z rewelacyjnym Jachtem wyścigowym LEGO® Tec
 - Jacht wyścigowy ma ok. 29 cm wysokości, 36 cm długości i 8 cm szerokości.
 - Katamaran ma ok. 27 cm wysokości, 31 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 42074-1: https://a.allegroimg.com/original/000e56/4ee94c154ef994a5c229404ec67e
+
 ---
 
-## 42076 — Klocki Lego Technic Zestaw Poduszkowiec 42076
+## 42076 — Klocki LEGO Technic Poduszkowiec 42076
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 598.99 zł · EAN: 05702016116908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42076 |
+| Nazwa angielska | Hovercraft |
+| Nazwa polska | Klocki LEGO Technic Poduszkowiec 42076 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1020 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 16 cm |
+| EAN | 5702016116908 |
 
 KLOCKI LEGO ZESTAW TECHNIC 42076 PODUSZKOWIEC NOWOŚĆ 2018
 
@@ -1833,11 +2834,27 @@ Wymiary:
 -        Poduszkowiec ma ok. 20 cm wysokości, 40 cm długości i 16 cm szerokości. 
 -     Łódź odrzutowa ma ok. 14 cm wysokości, 44 cm długości i 15 cm szerokości.
 
+**Galeria:**
+
+- 42076-1: https://a.allegroimg.com/original/05a07e/58af40674942aa21e0a079683676
+
 ---
 
-## 42077 — Lego Technic 42077 Niebieska wyścigówka
+## 42077 — Niebieska wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702016116915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42077 |
+| Nazwa angielska | Rally Car |
+| Nazwa polska | Niebieska wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1005 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016116915 |
 
 Klocki LEGO® 42077 Technic Niebieska wyścigówka
 
@@ -1862,11 +2879,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla budowniczych od 10. roku życia. Sprawdzi się u osób, które lubią pojazdy techniczne, realistyczne mechanizmy oraz modele z funkcjami takimi jak zawieszenie, układ kierowniczy i ruchome elementy silnika.
 
+**Galeria:**
+
+- 42077-1: https://a.allegroimg.com/original/117511/4085798a4ebf9a14c71ecd068f2f
+
 ---
 
-## 42078 — Klocki Lego Technic Zestaw Tir Ciężarówka Mack Anthem 42078
+## 42078 — LEGO Technic Klocki LEGO Technic MACK Anthem 42078
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1484.00 zł · EAN: 05702016116939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42078 |
+| Nazwa angielska | Mack Anthem |
+| Nazwa polska | LEGO Technic Klocki LEGO Technic MACK Anthem 42078 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2595 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016116939 |
 
 LEGO ZESTAW TECHNIC 42078 MACK ANTHEM
 
@@ -1888,11 +2921,27 @@ Ten zaawansowany zestaw LEGO® Technic zapewnia fascynującą zabawę i satysfak
 
 Model 2-w-1: przebudowuje się w replikę słynnego śmieciarza Mack LR.
 
+**Galeria:**
+
+- 42078-1: https://b.allegroimg.com/original/00c520/c06cb045452f819bdf35c278e04b
+
 ---
 
-## 42079 — Lego 42079 Technic Wózek widłowy Nowe
+## 42079 — Technic
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016116946 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42079 |
+| Nazwa angielska | Heavy Duty Forklift |
+| Nazwa polska | Technic |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 592 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm |
+| EAN | 5702016116946 |
 
 Klocki LEGO TECHNIC
  
@@ -1920,11 +2969,27 @@ Przenieś zabawę klockami LEGO® Technic na wyższy poziom — poznaj zestaw 42
 - Wózek widłowy ma ok. 18 cm wysokości, 33 cm długości i 12 cm szerokości. 
 - Samochód holowniczy ma ok. 13 cm wysokości, 32 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 42079-1: https://a.allegroimg.com/original/117c67/994a77904ef09b839cea676ebb99
+
 ---
 
-## 42080 — Lego Technic Maszyna Leśna 42080 b
+## 42080 — KLOCKI LEGO TECHNIC 42080 MASZYNA LEŚNA
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016116984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42080 |
+| Nazwa angielska | Forest Machine |
+| Nazwa polska | KLOCKI LEGO TECHNIC 42080 MASZYNA LEŚNA |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1003 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 13 cm |
+| EAN | 5702016116984 |
 
 **Maszyna leśna**
 
@@ -1948,11 +3013,27 @@ Ciesz się satysfakcją z budowania i zabawy, jaką zapewnia zestaw LEGO® Techn
 
 Ładowarka do drewna ma ok. 17 cm wysokości, 35 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 42080-1: https://a.allegroimg.com/original/1131e3/63576cdf4945ac030c0a7f1568bc
+
 ---
 
-## 42081 — Lego Technic Klocki 42081 Volo Ładowarka Kołowa
+## 42081 — Volvo ładowarka kołowa ZEUX, 42081
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 669.88 zł · EAN: 00673419283861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42081 |
+| Nazwa angielska | Volvo Concept Wheel Loader ZEUX |
+| Nazwa polska | Volvo ładowarka kołowa ZEUX, 42081 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 21 cm |
+| EAN | 5702016116953, 673419283861 |
 
 LEGO TECHNIC 42081 VOLO ŁADOWARKA KOŁOWA.
 
@@ -1980,11 +3061,28 @@ LEGO TECHNIC 42081 VOLO ŁADOWARKA KOŁOWA.
 
 **Elementy 1167**
 
+**Galeria:**
+
+- 42081-1: https://a.allegroimg.com/original/2578e9/68ee4ea345c2a17e8d10517a048a
+- 42081-2: https://a.allegroimg.com/original/119c4f/63f9e02f480ca5abb6717831c5b2
+
 ---
 
-## 42082 — Klocki Lego Technic 42082 Dźwig
+## 42082 — Dźwig
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1742.00 zł · EAN: 00673419283878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42082 |
+| Nazwa angielska | Rough Terrain Crane |
+| Nazwa polska | Dźwig |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4057 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 100 cm × szer. 26 cm |
+| EAN | 5702016116960, 673419283878 |
 
 LEGO TECHNIC 42082 DŹWIG.
 
@@ -2012,11 +3110,28 @@ Zestaw 2 w 1 LEGO® Technic: można przebudować na mobilny kafar.
 
 **Elementy 4057**
 
+**Galeria:**
+
+- 42082-1: https://a.allegroimg.com/original/112978/71f4a95344d9a800ee2d65dd5025
+- 42082-2: https://a.allegroimg.com/original/058e66/0fa415cc480cbe914693310328ca
+
 ---
 
-## 42083 — Lego Technic Bugatti Chiron 42083
+## 42083 — Bugatti Chiron
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702016116977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42083 |
+| Nazwa angielska | Bugatti Chiron |
+| Nazwa polska | Bugatti Chiron |
+| Seria | Technic |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3599 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 32 cm |
+| EAN | 5702016116977 |
 
 LEGO Technic Bugatti Chiron 42083
  
@@ -2045,11 +3160,27 @@ Zestaw dostarczany jest w wysokiej klasy pudełku zawierającym kolekcjonerską 
 - Zestaw odpowiedni dla dzieci w wieku od 16 lat. 
 - Bugatti Chiron ma ok. 14 cm wysokości, 56 cm długości i 32 cm szerokości.
 
+**Galeria:**
+
+- 42083-1: https://a.allegroimg.com/original/116f62/b81841c4429f9bc1a007b24f4722
+
 ---
 
-## 42084 — Lego Technic 42084 Hakowiec Ciężarówka Wóz strażacki Straż 2w1
+## 42084 — Hakowiec
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 199.50 zł · EAN: 05702016093988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42084 |
+| Nazwa angielska | Hook Loader |
+| Nazwa polska | Hakowiec |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016093988, 673419280495 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2077,11 +3208,28 @@ Ta autentyczna replika LEGO® Technic prawdziwego hakowca dostarczy Ci mnóstwa 
 - Hakowiec ma ok. 8 cm wysokości, 14 cm długości i 7 cm szerokości.
 - Lotniskowy wóz strażacki ma ok. 8 cm wysokości, 16 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 42084-1: https://a.allegroimg.com/original/11abb2/626793a6441080c89505a2f0cfba
+- 42084-2: https://a.allegroimg.com/original/11d628/1b1a765b4448bd0c1fd87ec419fe
+
 ---
 
-## 42088 — Lego Technic 42088 Ciężarówka z wysięgnikiem Holownik Hakowiec
+## 42088 — Ciężarówka z wysięgnikiem
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702016396294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42088 |
+| Nazwa angielska | Cherry Picker |
+| Nazwa polska | Ciężarówka z wysięgnikiem |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702016396294 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2108,11 +3256,27 @@ Wyjaśnij swojemu młodemu pasjonatowi LEGO® podstawy działania kół zębatyc
 - Ciężarówka ze złożonym wysięgnikiem ma ok. 7 cm wysokości, 14 cm długości i 5 cm szerokości, a po rozsunięciu wysięgnika ma ok. 12 cm wysokości.
 - Holownik ma ok. 7 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 42088-1: https://a.allegroimg.com/original/0087a9/12ccabc54e008780bafcff788bda
+
 ---
 
-## 42089 — Lego Technic 42089 Motorówka nowy zestaw klocków model z 2019 r.
+## 42089 — 42089
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702016369342 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42089 |
+| Nazwa angielska | Power Boat |
+| Nazwa polska | 42089 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369342, 5702016677676 |
 
 Witam
 
@@ -2137,11 +3301,27 @@ Pędź do mety aerodynamicznym modelem 2 w 1 LEGO® Technic 42089 Motorówka. Ł
 - **Liczba elementów w zestawie:** Waga jednostkowa brutto 
 - **174 szt.:** 0,26 kg
 
+**Galeria:**
+
+- 42089-1: https://a.allegroimg.com/original/001d41/9424e01843b69c5407312dfd5fbb
+
 ---
 
-## 42090 — Lego Technic 42090 Monster Truck Złoczyńców
+## 42090 — Monster truck złoczyńców
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 108.48 zł · EAN: 05702016369359 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42090 |
+| Nazwa angielska | Getaway Truck |
+| Nazwa polska | Monster truck złoczyńców |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm |
+| EAN | 5702016369359 |
 
 PRZEDMIOTEM AUKCJI JEST NOWY ORYGINALNIE ZAPAKOWANY ZESTAW
 
@@ -2162,11 +3342,27 @@ Zestaw LEGO® Technic 42090 Monster truck złoczyńców to przepis na dynamiczn�
 
 Klocki wysyłamy w dniu otrzymania przelewu w usztywnionym kartonie zapewniającym bezpieczną dostawę .Zapraszamy również na inne nasze aukcje.
 
+**Galeria:**
+
+- 42090-1: https://a.allegroimg.com/original/11a876/0e9a68274affb3594e34d8dd2000
+
 ---
 
-## 42091 — Lego Technic 42091 Policyjny Pościg Pull back
+## 42091 — POLICYJNY POŚCIG
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 329.99 zł · EAN: 00673419303224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42091 |
+| Nazwa angielska | Police Pursuit |
+| Nazwa polska | POLICYJNY POŚCIG |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369366, 673419303224 |
 
 LEGO TECHNIC POLICYJNY POŚCIG 42091
 
@@ -2194,11 +3390,28 @@ Uruchom napęd typu pull-back i rozpocznij dynamiczny pościg radiowozem z zesta
 - **Typ:** Konstrukcyjne 
 - **Waga jednostkowa brutto:** 0,16 kg
 
+**Galeria:**
+
+- 42091-1: https://a.allegroimg.com/original/11fc78/a55414ba4ba88b362757c50f1dce
+- 42091-2: https://a.allegroimg.com/original/0524d5/a2a90112467399bf7a845c216fb9
+
 ---
 
-## 42093 — Lego Technic 42093 Chevrolet Corvette ZR1 2 w 1
+## 42093 — Chevrolet Corvette ZR1
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 268.75 zł · EAN: 05702016369588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42093 |
+| Nazwa angielska | Chevrolet Corvette ZR1 |
+| Nazwa polska | Chevrolet Corvette ZR1 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 579 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702016369588, 673419303248 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2232,11 +3445,28 @@ Odtwórz prawdziwe arcydzieło inżynierii w zestawie LEGO Technic 42093 Chevrol
 - Chevrolet Corvette ma ok. 8 cm wysokości, 29 cm długości i 12 cm szerokości.
 - Hot rod ma ok. 8 cm wysokości, 23 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 42093-1: https://a.allegroimg.com/original/058fec/ea9ac99441f29b09b929adf8322d
+- 42093-2: https://a.allegroimg.com/original/05bb68/8b1f875b4f1888c2e9a77950cbdf
+
 ---
 
-## 42094 — Klocki Lego Technic Zestaw Koparka gąsienicowa 42094
+## 42094 — Tracked Loader
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016368055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42094 |
+| Nazwa angielska | Tracked Loader |
+| Nazwa polska | Tracked Loader |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 827 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 15 cm |
+| EAN | 5702016368055 |
 
 Zbuduj wspaniałą, wielofunkcyjną maszynę budowlaną — Koparką gąsienicową LEGO® Technic. Ten fantastyczny, żółto-czarny model jest ozdobiony naklejkami i wyposażony w ciekawe połączenie funkcji ręcznych
 
@@ -2260,11 +3490,27 @@ Ciesz się satysfakcją z budowania i zabawy, jaką zapewnia zestaw LEGO® Techn
 
 • Śmieciarka gąsienicowa ma ok. 14 cm wysokości, 25 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 42094-1: https://a.allegroimg.com/original/11e569/6d5ec1bb4bdbad0c5e4b7abcde75
+
 ---
 
-## 42095 — Lego Technic 42095 nowy zestaw Julivo
+## 42095 — Sterowana wyścigówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016368062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42095 |
+| Nazwa angielska | Remote-Controlled Stunt Racer |
+| Nazwa polska | Sterowana wyścigówka |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 324 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 15 cm |
+| EAN | 5702016368062 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2299,34 +3545,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
----
+**Galeria:**
 
-## 42096 — Lego Technic 42096 Porsche 911 Rsr
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702016369878 · in stock*
-
-**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
-
-**Odkryj niezwykły zestaw LEGO – nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
-
-**📦 Co otrzymujesz?**
-
-- **🆕 Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
-- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
-- **📸 Rzeczywiste zdjęcia przedstawiają oferowany produkt**
-
-**✨ Dlaczego warto wybrać LEGO?**
-
-- **✅ 100% oryginalny produkt – bez kompromisów**
-- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
-- **✅ Zachwyca jakością wykonania i dbałością o detale**
-- **✅ Wspaniała rozrywka solo lub z bliskimi**
+- 42095-1: https://a.allegroimg.com/original/05a8dc/18c1f6df426da1258cb920ad0e43
 
 ---
 
-## 42097 — Lego Technic 42097 Żuraw typu pająk
+## 42097 — Żuraw typu pająk
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 758.99 zł · EAN: 05702016369885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42097 |
+| Nazwa angielska | Compact Crawler Crane |
+| Nazwa polska | Żuraw typu pająk |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 920 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 51 cm × szer. 40 cm |
+| EAN | 5702016369885 |
 
 LEGO Żuraw typu pająk 42097
  
@@ -2344,11 +3583,27 @@ Zestaw LEGO Technic 42097 Żuraw typu pająk pomoże młodym konstruktorom LEGO 
 - Żuraw typu pająk z wysuniętym wysięgnikiem i rozłożonymi podporami ma ok. 51 cm wysokości, 49 cm długości i 40 cm szerokości. 
 - Mały żuraw wieżowy z wysuniętym wysięgnikiem i rozłożonymi podporami ma ok. 50 cm wysokości, 35 cm długości i 22 cm szerokości.
 
+**Galeria:**
+
+- 42097-1: https://a.allegroimg.com/original/0056f1/d21b35e64acb935110d94f3e3654
+
 ---
 
-## 42098 — Lego Technic 42098 Laweta
+## 42098 — Laweta
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702016369892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42098 |
+| Nazwa angielska | Car Transporter |
+| Nazwa polska | Laweta |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2493 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 13 cm |
+| EAN | 5702016369892 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2384,11 +3639,27 @@ Zestaw LEGO Technic 42098 Laweta pozwoli młodym budowniczym LEGO poznać podsta
 - Wymiary niebieskiego samochodu: ok. 8 cm wysokości, 27 cm długości i 12 cm szerokości.
 - Ciężarówka LEGO Technic i samochody pokazowe mają ok. 14 cm wysokości, 87 cm długości i 15 cm szerokości.
 
+**Galeria:**
+
+- 42098-1: https://a.allegroimg.com/original/057402/88e752474862913cb0c9680b982a
+
 ---
 
-## 42099 — Lego Technic 42099 Zdalnie sterowany pojazd terenowy Nowy
+## 42099 — Zdalnie sterowany pojazd terenowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1495.00 zł · EAN: 05702016369908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42099 |
+| Nazwa angielska | 4x4 X-treme Off-Roader |
+| Nazwa polska | Zdalnie sterowany pojazd terenowy |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 958 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369908 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2410,11 +3681,27 @@ To więcej niż zestaw klocków LEGO - to prawdziwe wyzwanie dla każdego fana L
  
 Dzięki zestawowi LEGO 42099 - Zdalnie sterowany pojazd terenowy, możesz poczuć prawdziwą moc pod palcami i odkryć nieskończone możliwości zabawy. Czy jesteś gotów na tę przygodę? Twój własny pojazd terenowy czeka na Ciebie, gotowy, aby przemierzać nieznane ścieżki i tworzyć niezapomniane historie. Na koniec dnia, nawet gdy twoja przygoda dobiegnie końca, możesz cieszyć się swoim zdalnie sterowanym pojazdem terenowym jako wyjątkowym modelem kolekcjonerskim. A przecież jutro to nowy dzień pełen przygód!
 
+**Galeria:**
+
+- 42099-1: https://a.allegroimg.com/original/1133a5/aa63a7374665bc392d07f5fa70a0
+
 ---
 
-## 42100 — Lego Technic 42100 Koparka Liebherr R 9800
+## 42100 — KOPARKA LIEBHERR R 9800
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702016369915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42100 |
+| Nazwa angielska | Liebherr R 9800 Excavator |
+| Nazwa polska | KOPARKA LIEBHERR R 9800 |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 27 cm |
+| EAN | 5702016369915, 781621990832 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2467,11 +3754,28 @@ Ekran sterowania jednym dotknięciem pozwala użytkownikom kreślić wzory porus
 - Nie jest zgodny z systemami Power Functions. 
 - Koparka Liebherr R 9800 ma ok. 39 cm wysokości, 65 cm długości i 27 cm szerokości.
 
+**Galeria:**
+
+- 42100-1: https://a.allegroimg.com/original/054f75/8823107445dda9d2e24b9b1f86a3
+- 42100-2: https://a.allegroimg.com/original/11a0e2/3cd4424b4a34a4e2642f08dcd2a4
+
 ---
 
-## 42102 — Lego 42102 Technic Mini Claas Xerion
+## 42102 — Mini CLAAS XERION
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016616415 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42102 |
+| Nazwa angielska | Mini CLAAS XERION |
+| Nazwa polska | Mini CLAAS XERION |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016616415 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -2488,11 +3792,27 @@ Numer magazynowy sprzedawcy: 20260220
 
 Przybliżone wymiary opakowania:** 15,7 x 14,1 x 6,1 cm**
 
+**Galeria:**
+
+- 42102-1: https://a.allegroimg.com/original/113cff/6654362942258f668621b04721c2
+
 ---
 
-## 42103 — Lego 42103 Technic Dragster
+## 42103 — Dragster
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702016616422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42103 |
+| Nazwa angielska | Dragster |
+| Nazwa polska | Dragster |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 225 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 10 cm |
+| EAN | 5702016616422 |
 
 Klocki LEGO Technic 42103 - Dragster
 
@@ -2526,11 +3846,27 @@ Zestaw LEGO Technic - Dragster trafił do sprzedaży w 2020 roku. Numer katalo
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 42103-1: https://a.allegroimg.com/original/050c5b/732e1c33401ea346fd1551a022e1
+
 ---
 
-## 42105 — Lego 42105 Technic Katamaran
+## 42105 — Katamaran
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702016616446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42105 |
+| Nazwa angielska | Catamaran |
+| Nazwa polska | Katamaran |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 404 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616446 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -2544,11 +3880,27 @@ Numer magazynowy sprzedawcy: 20260218, 20260285
 
 Przybliżone wymiary opakowania:** 7 x 26,2 x 38,2 cm**
 
+**Galeria:**
+
+- 42105-1: https://a.allegroimg.com/original/1140c5/6dbb36794b7ebd98ce64d0b51d5c
+
 ---
 
-## 42106 — Lego Technic Duży Samochód Sportowy z Napędem Model dla Dzieci
+## 42106 — 42106
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016616453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42106 |
+| Nazwa angielska | Stunt Show Truck & Bike |
+| Nazwa polska | 42106 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 610 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616453 |
 
 LEGO Technic NEOM McLaren Extreme E Race Car 42166
 
@@ -2591,11 +3943,27 @@ Dzieci uczą się planowania, cierpliwości i rozwiązywania problemów w natura
 
 Wspólne budowanie z rodzeństwem czy rodzicami wspiera rozwój społeczny i uczy współpracy.
 
+**Galeria:**
+
+- 42106-1: https://a.allegroimg.com/original/11cf1e/c24ee7a34b148925fc95dc6490ce
+
 ---
 
-## 42107 — Lego Technic 42107 Ducati Panigale V4 R
+## 42107 — Ducati Panigale V4 R
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 400.00 zł · EAN: 05702016616460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42107 |
+| Nazwa angielska | Ducati Panigale V4 R |
+| Nazwa polska | Ducati Panigale V4 R |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 646 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 8 cm |
+| EAN | 5702016616460 |
 
 LEGO Technic Ducati Panigale V4 R 42107
 
@@ -2622,11 +3990,27 @@ Ten model motocykla należy do gamy zestawów LEGO Technic, co oznacza, że budo
 - Jakość jest ważna. Warto więc wspomnieć, że zestawy konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu ich elementy można zawsze łatwo połączyć — i tak jest niezmiennie od 1958 roku.
 - Plastikowe modele LEGO® Technic przechodzą wyczerpujące testy. Sprawdzamy je dokładnie, by mieć pewność, że każdy z nich spełnia najwyższe światowe standardybezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 42107-1: https://a.allegroimg.com/original/055765/8db366c04f6180ba0b2c63136549
+
 ---
 
-## 42108 — Lego 42108 Technic Żuraw samochodowy 1292 elementy
+## 42108 — Żuraw samochodowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702016617474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42108 |
+| Nazwa angielska | Mobile Crane |
+| Nazwa polska | Żuraw samochodowy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617474 |
 
 Ten wyjątkowo wysoki model przybliża zasadę działania dźwigów
  
@@ -2650,11 +4034,27 @@ Ten zaawansowany model LEGO Technic stanowi duże wyzwanie dla budowniczych i je
 - Zabawki konstrukcyjne muszą być odporne. Warto więc wspomnieć, że zestawy LEGO Technic odpowiadają najwyższym branżowym standardom jakości. Dzięki temu poszczególne elementy można zawsze łatwo połączyć. 
 - Poddajemy elementy LEGO Technic wyczerpującym testom, by mieć pewność, że każdy zestaw do budowania zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości. To świetna wiadomość, jeśli szukasz właśnie idealnego prezentu dla fana LEGO.
 
+**Galeria:**
+
+- 42108-1: https://a.allegroimg.com/original/00f26c/088ae10b417ab8a60cba90a5005d
+
 ---
 
-## 42109 — Klocki Lego Technic Zestaw Auto Wyścigowe Top Gear Zdalnie Sterowany 42109
+## 42109 — Auto Wyścigowe Top Gear
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702016617481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42109 |
+| Nazwa angielska | App-Controlled Top Gear Rally Car |
+| Nazwa polska | Auto Wyścigowe Top Gear |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 463 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617481 |
 
 Wysokooktanowa zabawa w wyścigi dla fanów samochodów sportowych!
 
@@ -2667,11 +4067,27 @@ Zestawy LEGO Technic są przeznaczone dla dzieci i dorosłych, którzy uwielbiaj
 - Do kierowania nim służą trzy ekrany wyświetlane na smartfonie lub tablecie.
 - Zbuduj samochód. Przygotuj się do akcji! Dzięki bogactwu funkcji sterowania kierowca może jechać do przodu, do tyłu, skręcać, przyspieszać i hamować, a także odtwarzać efekty dźwiękowe i w czasie rzeczywistym odbierać informacje zwrotne!
 
+**Galeria:**
+
+- 42109-1: https://a.allegroimg.com/original/111c75/3c78ecfa4a84841d3822139fa109
+
 ---
 
-## 42110 — Klocki Lego Technic Zestaw Land Rover Defender Suv 42110
+## 42110 — Land Rover Defender
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1228.00 zł · EAN: 05702016604115 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42110 |
+| Nazwa angielska | Land Rover Defender |
+| Nazwa polska | Land Rover Defender |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2573 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 20 cm |
+| EAN | 5702016604115, 5905220305414 |
 
 **LEGO Technic Land Rover Defender 42110**Projektowanie samochodów to sztuka na światowym poziomie, a Ty możesz się o tym przekonać dzięki temu niezwykle autentycznemu modelowi 42110 LEGO Technic Land Rover Defender do postawienia na półce. Ta imponująca replika LEGO została opracowana we współpracy z firmą Land Rover i oddaje niesamowity poziom wyrafinowania pojazdu poprzez jego czyste, nowoczesne linie i wyprofilowaną powierzchnię.
 
@@ -2705,11 +4121,28 @@ Zestaw zawiera ponad 2500 klocków.
 
 Land Rover Defender ma ponad 22 cm wysokości, 42 cm długości i 20 cm szerokości.
 
+**Galeria:**
+
+- 42110-1: https://a.allegroimg.com/original/0517e9/b94468c247e385955407bff58e76
+- 42110-2: https://a.allegroimg.com/original/11d218/3a515a03491f9bc44c40406cf8ed
+
 ---
 
-## 42111 — Klocki Lego Technic Zestaw Auto Dom's Dodge Charger Fast & Furious
+## 42111 — Dom's Dodge Charger
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702016617498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42111 |
+| Nazwa angielska | Dom's Dodge Charger |
+| Nazwa polska | Dom's Dodge Charger |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1077 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617498, 5906438320138 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2740,11 +4173,28 @@ Model nawiązuje do kultowego samochodu Dodge Charger R/T z lat 70 i ma mnóstwo
  
 Gotowy model Dodge’a Chargera pozwoli fanom odgrywać klasyczne sceny pełnych napięcia ulicznych pościgów z „Szybkich i wściekłych”, więc zabawa będzie jeszcze lepsza. Niesamowita kreatywna zabawka konstrukcyjna W świecie zestawów LEGO Technic zaawansowane zabawki czekają na fanów budowania z LEGO, którzy są gotowi do kolejnych wyzwań.
 
+**Galeria:**
+
+- 42111-1: https://a.allegroimg.com/original/05ab13/1cfcea754d00b2fb1426ac70e50b
+- 42111-2: https://a.allegroimg.com/original/11bdb4/bd0c8e614fbeb59fdb1a221257f1
+
 ---
 
-## 42112 — Lego Technic 42112 Wielka Betoniarka Ciężarówka
+## 42112 — Betoniarka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 720.00 zł · EAN: 05702016617504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42112 |
+| Nazwa angielska | Cement Mixer |
+| Nazwa polska | Betoniarka |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm |
+| EAN | 5702016617504 |
 
 OPIS:
 
@@ -2769,11 +4219,27 @@ Zestawy konstrukcyjne z modelami LEGO Technic są idealne dla fanów LEGO, któr
 - Zestawy konstrukcyjne LEGO® Technic spełniają najwyższe standardy branżowe, dzięki czemu ich elementy można zawsze łatwo połączyć.
 - Dokładnie testujemy zestawy LEGO® Technic, by mieć pewność, że każdy z nich spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 42112-1: https://a.allegroimg.com/original/053e5d/e274983a4fe4824d02b659addfb0
+
 ---
 
-## 42114 — Lego Technic 42114 Wozidło przegubowe Volvo 6x6
+## 42114 — Wozidło przegubowe Volvo 6x6
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1650.00 zł · EAN: 05702016617528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42114 |
+| Nazwa angielska | 6x6 Volvo Articulated Hauler |
+| Nazwa polska | Wozidło przegubowe Volvo 6x6 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617528 |
 
 **Lego 42114 Technic Wozidło przegubowe Volvo 6x6**
  
@@ -2785,11 +4251,26 @@ Różne ekrany sterowania pozwalają jeździć do przodu i do tyłu, a także sk
 
 Realistyczne detale zachęcają do kreatywnej zabawy Zestawy LEGO Technic z modelami budowlanymi ucieszą fanów LEGO, którzy mają ochotę podjąć wyzwanie skonstruowania pojazdów wyglądających i jeżdżących jak prawdziwe.
 
+**Galeria:**
+
+- 42114-1: https://a.allegroimg.com/original/05c144/2f4b81aa4f7b8157334616c578d1
+
 ---
 
-## 42115 — Lego Technic Lamborghini Sian Fkp 37 42115 Unikat święta
+## 42115 — Lamborghini Sián FKP 37
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1798.98 zł · EAN: 05702016832075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42115 |
+| Nazwa angielska | Lamborghini Sián FKP 37 |
+| Nazwa polska | Lamborghini Sián FKP 37 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 3696 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 25 cm |
+| EAN | 5702016617535, 5702016832075 |
 
 LEGO Technic 42115 Lamborghini Sián FKP 37 / NOWY / UNIKAT
 
@@ -2837,11 +4318,28 @@ Zestaw z modelem Sián FKP 37 do zbudowania pozwoli Ci miło spędzić wolne chw
 
 - Dokładnie testujemy zestawy LEGO® Technic, by mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 42115-1: https://a.allegroimg.com/original/0504a9/2b9050e74a2988ef169264c9ef16
+- 42115-2: https://a.allegroimg.com/original/11b7ad/b72e93074f9daa3f324bca08843e
+
 ---
 
-## 42116 — Lego Technic 42116 Mini ładowarka koparka 2w1
+## 42116 — Technic Miniładowarka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016889215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42116 |
+| Nazwa angielska | Skid Steer Loader |
+| Nazwa polska | Technic Miniładowarka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702016889215 |
 
 Jeśli szukasz prezentu dla dzieci, które uwielbiają bawić się w plac budowy, zestaw LEGO® Technic 42116 będzie strzałem w dziesiątkę, który da im frajdę na wiele godzin. Chłopcy i dziewczynki w wieku od 7 lat będą się wspaniale bawić podczas budowania miniładowarki, a to dopiero początek! Po złożeniu modelu mogą wymyślać niezliczone budowlane przygody i poznać wszystkie realistyczne funkcje pojazdu. Dwufunkcyjna łyżka, kabina kierowcy, panel sterowania, klatka bezpieczeństwa oraz przednie i tylne reflektory są wszystkim, czego dzieci potrzebują do kreatywnej zabawy na wiele godzin.
 
@@ -2870,31 +4368,79 @@ W świecie zestawów LEGO Technic zaawansowane zabawki czekają na małych fanó
 
 **Zdjęcia opakowania (stanu faktycznego) są zamieszczone w galerii zdjęć !**
 
+**Galeria:**
+
+- 42116-1: https://a.allegroimg.com/original/253b1b/f2e3be6e43f8b6c0ed624e6bff2b
+
 ---
 
-## 42117 — Lego Technic Samolot wyścigowy 42117
+## 42117 — Samolot wyścigowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702016890914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42117 |
+| Nazwa angielska | Race Plane |
+| Nazwa polska | Samolot wyścigowy |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 23 cm |
+| EAN | 5702016890914 |
 
 LEGO Technic 42117 Samolot wyścigowy
  
 o Zestaw LEGO(R) Technic 42117 Samolot wyścigowy to doskonały prezent dla młodych kadetów. Dzięki żywym kolorom, naklejkom sponsorów i obrotowemu skrzydłu model wygląda jak prawdziwy. o Samolot jest bogaty w detale, które spodobają się każdemu miłośnikowi lotnictwa. Wśród nich znajdują się otwierane pokrywy silnika, podwozie oraz obrotowe śmigło. Każdy z tych elementów zachęca do zabawy w odgrywanie ról. o Dzieci mogą zbudować solidny model samolotu wyścigowego, a następnie przerobić go na samolot odrzutowy, by zabawa była jeszcze lepsza. o To doskonały prezent urodzinowy, świąteczny lub bez okazji dla siedmiolatków i starszych dzieci, które lubią samoloty. o Model samolotu wyścigowego ma ok. 9 cm wysokości (ze śmigłem), 18 cm długości i 23 cm szerokości. o Instructions PLUS to interaktywne instrukcje, które sprawią, że budowanie będzie jeszcze lepszą zabawą. Są one dostępne poprzez be = zpłatną aplikację LEGO(R) Building Instructions i oferują funkcje powiększania oraz obracania, dzięki którym dzieci zbudują model samodzielnie. o W świecie zestawów LEGO(R) Technic zaawansowane zabawki czekają na małych fanów budowania z LEGO, którzy są gotowi na kolejne wyzwania.
 
+**Galeria:**
+
+- 42117-1: https://a.allegroimg.com/original/000121/5ee324af49dea8f5050738b15961
+
 ---
 
-## 42118 — Lego Technic 42118 Monster Jam Grave Digger
+## 42118 — Monster Jam Grave Digger
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 145.17 zł · EAN: 05702016890815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42118 |
+| Nazwa angielska | Monster Jam Grave Digger |
+| Nazwa polska | Monster Jam Grave Digger |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016890815 |
 
 Lego Technic Monster Jam Grave Digger 42118
  
 Szukasz interesującego prezentu dla chłopców i dziewczynek uwielbiających pojazdy z pokazów Monster Jam®? Zestaw LEGO® Technic 42118 Monster Jam Grave Digger® z napędem typu pull-back i wieloma funkcjami będzie strzałem w dziesiątkę. Wśród realistycznych detali modelu znajdują się ozdoby Grave Diggera przedstawiające duchy i płomienie, a także wielkie opony, ruchoma flaga oraz czerwone reflektory przednie. Ekscytujący świat pokazów Monster Jam ożyje, gdy dzieci będą wykonywać niesamowite akrobacje za kierownicą jednego z najbardziej znanych monster trucków na świecie.Wspaniała zabawka 2 w 1Masz ochotę na nowe wyzwanie? Świetnie się składa! Model Grave Diggera można przerobić na łazik terenowy, by zabawa była jeszcze lepsza. To interaktywny poradnik, w którym dzieci znajdą narzędzia do powiększania i obracania modelu ułatwiające budowanie.Inspiracja dla nowego pokolenia inżynierówPojazdy wchodzące w skład zestawów LEGO Technic wyglądają i działają jak prawdziwe, dlatego są dla młodych fanów LEGO doskonałe na początek przygody z inżynierią i mechaniką.
 
+**Galeria:**
+
+- 42118-1: https://a.allegroimg.com/original/113204/324697664825a0014d366ca849a9
+
 ---
 
-## 42119 — Lego Technic 42119 Monster Jam Max-d
+## 42119 — Monster Jam Max-D
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 148.00 zł · EAN: 05702016890631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42119 |
+| Nazwa angielska | Monster Jam Max-D |
+| Nazwa polska | Monster Jam Max-D |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 11 cm |
+| EAN | 5702016890631 |
 
 Zachęć młodych miłośników pokazów Monster Jam® do zbudowania własnego monster trucka. Pomoże Ci w tym zestaw konstrukcyjny LEGO® Technic 42119 Monster Jam Max-D®. Wyposażony w napęd typu pull-back model sprawi, że chłopcy i dziewczynki szybko nauczą się wykonywać ekscytujące akrobacje na arenie Monster Jam. Pojazd 2 w 1 ma wiele niesamowitych funkcji, zupełnie jak jego prawdziwy odpowiednik. Spójrz tylko na te realistyczne ozdoby, kolory, kolce i ruchomą flagę.
 
@@ -2920,11 +4466,27 @@ Zestawy LEGO Technic są dla młodych fanów LEGO doskonałe na początek przygo
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO®Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42119-1: https://a.allegroimg.com/original/11c1d9/bda8a3ec4d108463c74c90167a0c
+
 ---
 
-## 42120 — Lego Technic Poduszkowiec Ratowniczy 42120 Nowy
+## 42120 — Poduszkowiec ratowniczy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702016890761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42120 |
+| Nazwa angielska | Rescue Hovercraft |
+| Nazwa polska | Poduszkowiec ratowniczy |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 457 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016890761 |
 
 LEGO TECHNIC 42120 PODUSZKOWIEC RATOWNICZY 2W1
 
@@ -2951,11 +4513,27 @@ Dodatkowo zestaw 2w1 umożliwia przebudowanie poduszkowca w alternatywny model, 
 
 JŁ
 
+**Galeria:**
+
+- 42120-1: https://a.allegroimg.com/original/113078/6d2d5de444efaa39083af8395e81
+
 ---
 
-## 42121 — Lego Technic 42121 Wytrzymała koparka Nowy P306
+## 42121 — Wytrzymała koparka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 497.00 zł · EAN: 05702016695052 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42121 |
+| Nazwa angielska | Heavy-Duty Excavator |
+| Nazwa polska | Wytrzymała koparka |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016695052, 5702016890976 |
 
 LEGO Technic 42121 Wytrzymała koparka
 
@@ -2985,11 +4563,28 @@ W komplecie są też „kamienie” z klocków LEGO i cztery pachołki. A gdy pr
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42121-1: https://a.allegroimg.com/original/118d67/12a146b94a8b90759ae5c2e964d0
+- 42121-2: https://a.allegroimg.com/original/118bc9/55e7604a4002a1af99283c939b32
+
 ---
 
-## 42122 — Lego Technic 42122 Jeep Wrangler Nowe
+## 42122 — Jeep Wrangler
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016913316 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42122 |
+| Nazwa angielska | Jeep Wrangler |
+| Nazwa polska | Jeep Wrangler |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 665 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 13 cm |
+| EAN | 5702016913316 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3014,111 +4609,27 @@ Wciągające wyzwanie dla młodych konstruktorów LEGO W świecie LEGO Technic z
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
----
+**Galeria:**
 
-## 42123 — Lego Technic 42123 McLaren Senna Gtr
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 334.00 zł · EAN: 05702016913330 · in stock*
-
-LEGO Technic McLaren Senna GTR 42123
- 
-Najszybszy. Najmocniejszy. Zdumiewająco piękny. McLaren Senna GTR™ to prawdziwa ikona toru wyścigowego. Teraz i Ty możesz zbudować własną, realistyczną replikę tego niesamowitego auta w wersji LEGO® Technic. Poznaj jego autentyczne funkcje i piękne detale konstrukcyjne, a potem umieść swój model na półce, by przyciągnąć uwagę wszystkich gości.
-
-Zbuduj prawdziwą ikonę motoryzacji i pochwal się nią
- 
-Pozwól fanom wyścigówek pielęgnować ich pasję podczas budowania niezwykle szczegółowego i satysfakcjonującego modelu auta McLaren Senna GTR™.
- 
-Szukasz najlepszego prezentu dla dziecka lub nastolatka, którego pasją są supersamochody? Zestaw LEGO® Technic 42123 McLaren Senna GTR™ będzie strzałem w dziesiątkę. Dorosłym fanom McLarena też się spodoba! Model ma wiele realistycznych funkcji inspirowanych jego prawdziwym odpowiednikiem i na pewno sprawi miłośnikom wyścigów wiele radości.
-
-Realistyczne szczegóły i zaawansowane funkcje
- 
-McLaren Senna GTR to samochód jedyny w swoim rodzaju, a w wersji LEGO Technic jest równie imponujący co w rzeczywistości. Spójrz tylko na jego silnik V8 z ruchomymi tłokami, kultowe otwierane drzwi oraz realistyczne kolory i elementy graficzne, dzięki którym model wygląda jak prawdziwy. Steruj autem za pomocą pokrętła, a potem postaw model na półce, gdzie na pewno przyciągnie uwagę wielu osób.
- 
-Otwórz przed dziećmi świat inżynierii
- 
-Zestawy LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii.
-
- 
-- LEGO® Technic 42123 McLaren Senna GTR™ to zdumiewający model dla fanów supersamochodów, wyposażony w mnóstwo wiernie odwzorowanych szczegółów inspirowanych prawdziwym autem. 
-- Poznaj autentyczne funkcje tego modelu, takie jak szczegółowy silnik V8 z ruchomymi tłokami oraz drzwi, które otwierają się w charakterystycznym dla McLarena stylu. 
-- Steruj zabawkowym modelem McLarena za pomocą pokrętła umieszczonego na dachu. 
-- Szukasz najlepszych pomysłów na prezent dla fana sportów motorowych lub miłośnika supersamochodów? Ten zestaw to doskonały wybór dla dziesięciolatków i starszych dzieci, które chciałyby mieć w swojej kolekcji własny model auta wyścigowego McLarena. 
-- Ten niesamowity model auta wyścigowego świetnie prezentuje się na półce i z pewnością rozpali wyobraźnię każdego dziecka oraz dorosłego, którego pasją są supersamochody, sporty motorowe lub samochody McLarena. 
-
- 
-- Model ma ok. 9 cm wysokości, 32 cm długości i 12 cm szerokości. 
-- Ten kolekcjonerski, zabawkowy model auta McLarena przyciąga wzrok swoimi kolorami i ozdobami, zupełnie jak jego prawdziwy odpowiednik. 
-- W świecie zestawów LEGO® Technic zaawansowane zabawki czekają na fanów budowania z LEGO, którzy są gotowi na kolejne wyzwania. 
-- Elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. 
-- Elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. 
-
-**W skład produktu wchodzą:**
-
-- oryginalne klocki LEGO
-- instrukcja zestawu
-- oryginalne opakowanie zestawu
+- 42122-1: https://a.allegroimg.com/original/110ef0/401cdb23492f9cfce3a7042019b9
 
 ---
 
-## 42127 — Lego Technic 42127 Batmobil
+## 42128 — Ciężki samochód pomocy drogowej
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702016912630 · in stock*
-
-LEGO® Technic 42127 BATMAN — BATMOBIL
-
-Zestaw nowy
-
-1360 elementów
-
-Wiek 10+
-
-Fani historii o superbohaterach będą zachwyceni budową kultowego BATMOBILU™ z części LEGO® Technic. **Model inspirowany jest najnowszą wersją BATMOBILU z filmu „BATMAN” z 2022 roku** i zawiera bardzo dużo realistycznych szczegółów oraz emocjonujących funkcji.
-
-Rozświetl noc
-
-**Model zawiera dwa świecące klocki: czerwony i żółty.** Czerwony klocek podświetla przezroczysty silnik z tyłu pojazdu, a żółty maskownicę z przodu. Inne fajne elementy modelu to układ kierowniczy na przednich kołach, mechanizm różnicowy na tylnych, obracający się płomień oraz otwierane drzwi i podnoszona maska. Dzieciom spodoba się używanie wszystkich funkcji modelu, a po skończonej zabawie **samochód ozdobi pokój młodego miłośnika superbohaterów.**
-
-Świetne wprowadzenie do świata inżynierii
-
-Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla budowniczych w każdym wieku stanowią przystępne wprowadzenie do świata inżynierii.
-
-Wciągający model pełen fajnych funkcji
-
-Model z 1360 elementów ma wiele ciekawostek, w tym układ kierowniczy, ruchome tłoki, dwa świecące klocki i wirujący płomień.
-
-**Działające światła**
-
-W zestawie są dwa świecące klocki, które ożywią BATMOBIL™.
-
-**Przezroczysty silnik**
-
-8-cylindrowy silnik ma ruchome tłoki i wirujący płomień.
-
-**Realistyczny ruch kół**
-
-Model ma układ kierowniczy, a z tyłu mechanizm różnicowy.
-
-- **Zbuduj BATMOBIL™** — z zestawem LEGO® Technic BATMAN — BATMOBIL™ 42127 dla dzieci i dorosłych odtworzysz wszystkie szczegóły kultowego pojazdu superbohatera
-
-- Inspirowany filmem „BATMAN” — ten realistycznie wyglądający model LEGO® Technic jest repliką BATMOBILU™ z filmu z 2022 roku
-
-- Rozświetlone auto —** w komplecie są dwa świecące klocki**, które ożywiają BATMOBIL™. Czerwony klocek podświetla przezroczysty silnik, a żółty klocek maskownicę z przodu
-
-- **Mnóstwo funkcji** — w tym układ kierowniczy na przednie koła, mechanizm różnicowy na tylne, ruchome tłoki, obracający się płomień oraz otwierane drzwi i podnoszona maska
-
-- Dla dziesięciolatków i starszych dzieci — dzieciom i dorosłym, którzy uwielbiają pojazdy superbohaterów, spodoba się budowanie samochodu ich ulubionego bohatera. Model będzie więc idealnym prezentem dla fanów Batmana™
-
-- Świetnie wygląda na półce — sprawdź wszystkie funkcje tej atrakcyjnej zabawki, a potem ustaw ją na widoku, by podziwiać jej realistyczny wygląd
-
-- Doskonałe proporcje — model ma **ok. 11 cm wysokości (razem z kierownicą i płomieniem na wierzchu), 45 cm długości (razem z płomieniem z tyłu) oraz 17 cm szerokości**
-
-- Satysfakcjonujące budowanie — w świecie zestawów LEGO® Technic zaawansowane modele do złożenia czekają na fanów budowania z LEGO, którzy są gotowi na trudniejsze wyzwania
-
----
-
-## 42128 — Klocki Lego Technic Zestaw Ciężki samochód pomocy drogowej 42128
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 1087.00 zł · EAN: 05702016913354 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42128 |
+| Nazwa angielska | Heavy Duty Tow Truck |
+| Nazwa polska | Ciężki samochód pomocy drogowej |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2017 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 14 cm |
+| EAN | 5702016913354 |
 
 Lego TECHNIC 42128 Ciężki samochód pomocy drogowej
 
@@ -3134,11 +4645,26 @@ Model samochodu pomocy drogowej z dźwigiem ma ok. 22 cm wysokości (z opuszczon
 
 Steruj ciężarówką, obracając znajdujące się na dachu pokrętło. Otwórz maskę, aby przyjrzeć się sześciocylindrowemu silnikowi rzędowemu z ruchomymi tłokami.
 
+**Galeria:**
+
+- 42128-1: https://a.allegroimg.com/original/25aaba/edaddba94f719c355d9e32b4c5b8
+
 ---
 
-## 42129 — Zestaw Lego Technic 42129 Ciężarówka Mercedes-benz Zentros Z Napędem 4X4
+## 42129 — Klocki LEGO Technic 42129 Ciężarówka Mercedes-Benz Zetros z napędem na 4 koła
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1085.00 zł · EAN: 05702016912845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42129 |
+| Nazwa angielska | 4x4 Mercedes-Benz Zetros Trial Truck |
+| Nazwa polska | Klocki LEGO Technic 42129 Ciężarówka Mercedes-Benz Zetros z napędem na 4 koła |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 2110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 19 cm |
+| EAN | 5702016912845 |
 
 ZESTAW LEGO TECHNIC - 42129 - CIĘŻARÓWKA MERCEDES-BENZ ZENTROS Z NAPĘDEM 4X4
 
@@ -3174,11 +4700,27 @@ Ten model to nie tylko statyczna konstrukcja, ale również zaawansowana technol
 
 Zestaw LEGO Technic 42129 to doskonały wybór na prezent dla każdego fana motoryzacji, technologii i wymagających konstrukcji. To zestaw, który nie tylko zapewnia wiele godzin satysfakcjonującego budowania, ale także oferuje interaktywną zabawę dzięki sterowaniu aplikacją i realistycznym funkcjom technicznym. Idealnie sprawdzi się jako prezent urodzinowy, świąteczny lub niespodzianka bez okazji – zarówno dla nastolatków, jak i dorosłych konstruktorów. Dzięki solidnej konstrukcji i ogromnej liczbie funkcji model nie tylko świetnie wygląda, ale też daje możliwość eksperymentowania i testowania go w różnych warunkach terenowych. To połączenie zabawy, inżynierii i nowoczesnej technologii sprawia, że zestaw wyróżnia się na tle innych i dostarcza wyjątkowych wrażeń. Jeśli szukasz czegoś efektownego, rozwijającego i jednocześnie angażującego na długi czas, ten model będzie strzałem w dziesiątkę i na pewno zrobi ogromne wrażenie na obdarowanej osobie.
 
+**Galeria:**
+
+- 42129-1: https://a.allegroimg.com/original/11fbbd/b9c93e9645d6b8fffc5a2d633bf8
+
 ---
 
-## 42130 — Lego Technic 42130 Bmw M 1000 Rr
+## 42130 — BMW M 1000 RR
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 978.50 zł · EAN: 05702017024400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42130 |
+| Nazwa angielska | BMW Motorrad M 1000 RR |
+| Nazwa polska | BMW M 1000 RR |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1920 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 17 cm |
+| EAN | 5702016912920, 5702017024400 |
 
 LEGO Technic BMW M 1000 RR 42130
  
@@ -3212,11 +4754,27 @@ Zestaw LEGO Technic BMW M 1000 RR należy do kolekcji modeli LEGO dla dorosłych
 - Materiały wysokiej jakości — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo na pierwszym miejscu — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42130-1: https://a.allegroimg.com/original/119817/5619d14b468db0c3f05c7e2c9ab6
+
 ---
 
-## 42131 — Lego Technic 42131 Sterowany przez aplikację buldożer Cat D11
+## 42131 — Sterowany przez aplikację buldożer CAT D11
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 2638.00 zł · EAN: 05702016912937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42131 |
+| Nazwa angielska | Cat D11 Bulldozer |
+| Nazwa polska | Sterowany przez aplikację buldożer CAT D11 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3854 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 37 cm |
+| EAN | 5702016912937 |
 
 LEGO Technic Sterowany przez aplikację buldożer CAT D11 42131
 
@@ -3238,11 +4796,27 @@ Elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki c
 
 Elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42131-1: https://a.allegroimg.com/original/117b09/bc3c4fd14df09f26774beec8fcd1
+
 ---
 
-## 42132 — Lego 42132 Technic Motocykl
+## 42132 — Technic Motocykl
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 94.45 zł · EAN: 05702017117096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42132 |
+| Nazwa angielska | Motorcycle |
+| Nazwa polska | Technic Motocykl |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702017117096 |
 
 LEGO 42132 TECHNIC - MOTOCYKL
 
@@ -3282,11 +4856,27 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 - Bezkompromisowa jakość — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić,
 - Bezpieczeństwo gwarantowane — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 42132-1: https://a.allegroimg.com/original/11587b/1e6eb0634a958f894db8bc14178c
+
 ---
 
-## 42133 — Lego Technic 2 In 1 Ładowarka teleskopowa 42133
+## 42133 — Technic Ładowarka teleskopowa
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 98.79 zł · EAN: 05702017116914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42133 |
+| Nazwa angielska | Telehandler |
+| Nazwa polska | Technic Ładowarka teleskopowa |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702017116914 |
 
 Ciekawy model 2 w 1 sprawdzi się jako upominek dla dzieci
  
@@ -3309,11 +4899,27 @@ Trudno się bez niej obejść na placu budowy! Składanie modelu i poznawanie ws
 - Bezkompromisowa jakość — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo gwarantowane — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42133-1: https://a.allegroimg.com/original/11b589/dc9fd19742e3891c17afecb2354a
+
 ---
 
-## 42134 — Lego Technic 42134 Monster Jam Megalodon
+## 42134 — Monster Jam Megalodon
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 139.38 zł · EAN: 05702017154916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42134 |
+| Nazwa angielska | Monster Jam Megalodon |
+| Nazwa polska | Monster Jam Megalodon |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm |
+| EAN | 5702017154916 |
 
 Lego TECHNIC 42134 Monster Jam Megalodon
 
@@ -3334,11 +4940,27 @@ Inspiracja dla przyszłych inżynierówPojazdy wchodzące w skład zestawów kon
 - Materiały wysokiej jakości -- elementy LEGO(R) Technic spełniają wysokie standardy branżowe, dzięki czemu masz pewność, że są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić
 - Bezpieczeństwo przede wszystkim -- elementy LEGO(R) Technic są testowane na wszystkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 42134-1: https://a.allegroimg.com/original/118228/d9c830d84ef5bb1c97879b810b98
+
 ---
 
-## 42135 — Lego Technic Monster Jam El Toro Loco Truck 42135 Zestaw 7+ Klocki
+## 42135 — LEGO TECHNIC MONSTER JAM EL TORO LOCO TRUCK 42135 ZESTAW 7+ KLOCKI PREZENT
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 159.99 zł · EAN: 05060211032394 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42135 |
+| Nazwa angielska | Monster Jam El Toro Loco |
+| Nazwa polska | LEGO TECHNIC MONSTER JAM EL TORO LOCO TRUCK 42135 ZESTAW 7+ KLOCKI PREZENT |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5060211032394, 5060211036200, 5702017155999 |
 
 ⭐LEGO TECHNIC MONSTER JAM EL TORO LOCO TRUCK 42135
 
@@ -3400,57 +5022,28 @@ Inspiracja dla przyszłych inżynierówPojazdy wchodzące w skład zestawów kon
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
----
+**Galeria:**
 
-## 42136 — Lego Technic John Deere 42136 Traktor Ciągnik Zestaw i Ebook 4w1
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 199.78 zł · EAN: 05702017156576 · in stock*
-
-Lego Technic John Deere 42136 Traktor Ciągnik Zestaw i Ebook 4w1
-
-LEGO
-
-LEGO Technic Traktor John Deere 9620R 4WD 42136
- 
-Ośmiolatkom i starszym dzieciom zafascynowanym zabawkowymi traktorami spodoba się zestaw konstrukcyjny LEGO® Technic Traktor John Deere 9620R 4WD (42136). Zaprojektowany we współpracy z firmą John Deere traktor z przyczepą ma sporo realistycznych funkcji.
-
-Wyzwanie konstrukcyjne i zabawa w odgrywanie rólMłodzi miłośnicy traktorów będą zachwyceni możliwością zbudowania własnego traktora John Deere, a podczas składania modelu poznają wszystkie szczegóły działania tej maszyny. Przyczepę można przechylić, co ułatwia przewożenie ciężkich ładunków. Koła nadają się do jazdy po trudnym terenie, a dyszel ma dodatkowy zawias, dzięki czemu przyczepa może z łatwością jechać w górę i w dół stoków.
- 
-Wprowadzenie do świata inżynieriiModele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii.
-
- 
-- Zaawansowany model dla fanów traktorów — budując ciekawy zestaw LEGO® Technic Traktor John Deere 9620R 4WD (42136), dzieci poznają wiele fascynujących funkcji inżynieryjnych 
-- Owoc współpracy — projektanci LEGO® ściśle współpracowali z firmą John Deere, by przygotować model traktora z realistycznymi funkcjami i wyglądem 
-- Przyczepa z wywrotką do zabawy — wywrotkę można przechylić, co pomaga transportować ładunki podczas zabawy, a koła przyczepy dostosowane są do jazdy po każdym terenie 
-- Przegubowy układ kierowniczy — ruch tego zabawkowego traktora John Deere inspirowany jest działaniem prawdziwej maszyny 
-- Pomysł na prezent dla młodych miłośników traktorów — model konstrukcyjny traktora dla ośmiolatków i starszych dzieci 
-
- 
-- Wymiary — traktor z przyczepą ma ok. 9 cm wysokości, 35 cm długości i 9 cm szerokości 
-- Nauka przez zabawę — w świecie zestawów LEGO® Technic zaawansowane zabawki konstrukcyjne czekają na fanów budowania z LEGO, którzy są gotowi na trudniejsze wyzwania 
-- Materiały najwyższej jakości — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
-
-- **Stan:** Nowy
-- **Marka:** LEGO
-- **Numer produktu:** 42136
-- **Wiek dziecka:** 8 lat +
-- **Nazwa zestawu:** Traktor John Deere 9620R 4WD
-- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci poniżej określonego wieku. Do używania pod nadzorem osoby dorosłej|Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
-- **Minimalny wiek dziecka:** 8
-- **Bohater / Bajka:** brak
-- **Płeć:** chłopcy|dziewczynki
-- **Liczba elementów:** 390
-- **Materiał:** plastik
-- **Certyfikaty, opinie, atesty:** CE
-- **Waga produktu z opakowaniem jednostkowym:** 0.65
-- **Kod taryfy celnej:** 95030035
-- **EAN:** 5702017156576
+- 42135-1: https://a.allegroimg.com/original/111fb7/743e1abe4516ab11ea1c162f134f
+- 42135-2: https://a.allegroimg.com/original/112e9b/3bc44c304ecf9748735979cd33df
+- 42135-3: https://a.allegroimg.com/original/1134ae/f54831ea4db084ffe41e44c7a4db
 
 ---
 
-## 42137 — Zestaw klocków 42137 Lego Technic Formula E Porsche 99X Electric 422 elemen
+## 42137 — Technic Formula E Porsche 99X Electric
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 166.96 zł · EAN: 05702017156156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42137 |
+| Nazwa angielska | Formula E Porsche 99X Electric |
+| Nazwa polska | Technic Formula E Porsche 99X Electric |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 422 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702017156156 |
 
 LEGO Technic Formula E Porsche 99X Electric 42137
 
@@ -3484,11 +5077,27 @@ Zbuduj ikonę wyścigów Formuły E® z zestawu LEGO® Technic Formula E® Porsc
 
 **Opakowanie może posiadać ślady powstałe podczas magazynowania lub transportu, takie jak zarysowania, otarcia lub wgniecenia. Ślady te dotyczą wyłącznie opakowania i nie wpływają na stan ani funkcjonalność produktu. - w przypadku tej aukcji zdjęcia poglądowe stanu faktycznego są dodane do wglądu w galerii.**
 
+**Galeria:**
+
+- 42137-1: https://a.allegroimg.com/original/11852a/cb0298de4d42a21967f89f8d7d59
+
 ---
 
-## 42138 — Lego Technic 42138 Ford Mustang Shelby GT500 Ostatnia Sztuka! Unikat!
+## 42138 — Ford Mustang Shelby GT500
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 304.99 zł · EAN: 05702017156385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42138 |
+| Nazwa angielska | Ford Mustang Shelby GT500 |
+| Nazwa polska | Ford Mustang Shelby GT500 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 544 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702017156385 |
 
 LEGO Technic Ford Mustang Shelby GT500 Pull Back 42138
  
@@ -3516,11 +5125,27 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 - Wysoka jakość - elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim - elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42138-1: https://a.allegroimg.com/original/117277/4f33610d4210a4330776a018d861
+
 ---
 
-## 42139 — Lego Technic Pojazd terenowy 42139
+## 42139 — Pojazd terenowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 596.99 zł · EAN: 05702017117287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42139 |
+| Nazwa angielska | All-Terrain Vehicle |
+| Nazwa polska | Pojazd terenowy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 764 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm |
+| EAN | 5702017117287 |
 
 LEGO TECHNIC
 
@@ -3562,11 +5187,27 @@ SPECYFIKACJA ZESTAWU:
 - **Płeć dziecka:** Dla chłopców
 - **Ilość elementów:** 764
 
+**Galeria:**
+
+- 42139-1: https://a.allegroimg.com/original/11a658/8ba1ebe64ade9eb286e3d747a373
+
 ---
 
-## 42140 — Lego 42140 Technic 2w1 Pojazd Sterowany Aplikacją Zestaw Oświetleniowy
+## 42140 — Klocki LEGO Technic 42140 zmiennokształtny pojazd sterowany przez aplikację
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 931.75 zł · EAN: 05702017155784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42140 |
+| Nazwa angielska | App-Controlled Transformation Vehicle |
+| Nazwa polska | Klocki LEGO Technic 42140 zmiennokształtny pojazd sterowany przez aplikację |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 772 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155784 |
 
 LEGO TECHNIC 2w1 - 42140 - POJAZD STEROWANY APLIKACJĄ + ZESTAW OŚWIETLENIOWY
 
@@ -3604,45 +5245,62 @@ Jednym z największych atutów tego zestawu jest możliwość zdalnego sterowani
 
 Zestaw LEGO Technic 42140 to znakomity prezent dla starszych dzieci, nastolatków oraz dorosłych, którzy pasjonują się techniką, mechaniką i dynamiczną zabawą. Wymagający i precyzyjny montaż, wspierany przez szczegółową, 140-stronicową instrukcję papierową oraz cyfrową wersję z interaktywnym widokiem 3D w aplikacji LEGO Builder, zapewnia satysfakcję z budowania oraz rozwój zdolności manualnych i logicznego myślenia. Dzięki wyjątkowej konstrukcji oraz zaawansowanym funkcjom sterowania, model dostarcza długie godziny angażującej rozrywki i pozwala na eksperymentowanie z różnymi trybami jazdy. Ten zestaw to doskonały wybór na prezent urodzinowy lub bez specjalnej okazji, który nie tylko rozwija pasję do nowoczesnych technologii, ale też staje się wartościowym elementem każdej kolekcji LEGO Technic.
 
----
+**Galeria:**
 
-## 42141 — Lego Technic 42141 Samochód wyścigowy McLaren Formula 1
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702017160795 · in stock*
-
-**LEGO Technic McLaren Formula 1 42141**
- 
-Zestaw LEGO Technic Samochód wyścigowy McLaren Formula 1 (42141) to model kolekcjonerski przeznaczony dla dorosłych miłośników motoryzacji.
- 
-Model został opracowany w ścisłej współpracy projektantów LEGO Technic z ekspertami McLaren Racing. Prace nad wersją z klocków i prawdziwym samochodem wyścigowym przebiegały równocześnie.
- 
-**Szczegóły modelu**
- 
-Model LEGO Technic odwzorowuje kluczowe elementy konstrukcyjne prawdziwego bolidu. Posiada:
- 
- 
-- silnik cylindrowy V6 z ruchomymi tłokami, 
-- układ kierowniczy, 
-- zawieszenie, 
-- mechanizm różnicowy. 
- 
-Budowanie repliki samochodu McLaren F1 to zajęcie, które pozwala na skupienie się na procesie konstrukcji i odtworzeniu szczegółów pojazdu. Po złożeniu model może pełnić funkcję ozdoby.
- 
-**Główne cechy zestawu:**
- 
- 
-- **Replika samochodu McLaren F1:** Szczegółowy model bolidu F1 na sezon 2022. 
-- **Efekt współpracy:** Projekt powstał we współpracy z zespołem McLaren Racing. 
-- **Realistyczne funkcje:** Model wyposażony jest w działający silnik V6, układ kierowniczy, zawieszenie i mechanizm różnicowy. 
-- **Wymiary:** Model ma ok. 13 cm wysokości, 65 cm długości i 27 cm szerokości. 
-- **Instrukcje:** Do zestawu dołączona jest broszura zawierająca instrukcje budowania oraz informacje dotyczące współpracy projektowej. 
-- **Wykończenie:** Model można uzupełnić naklejkami sponsorów, odwzorowującymi wygląd prawdziwych samochodów wyścigowych.
+- 42140-1: https://a.allegroimg.com/original/11526a/2e8c8d664128876c78c49b8f8755
 
 ---
 
-## 42143 — Lego Technic Ferrari Daytona SP3 42143
+## 42141 — Samochód wyścigowy McLaren Formula 1
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1589.99 zł · EAN: 05702017159041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42141 |
+| Nazwa angielska | McLaren Formula 1 Team 2022 (First Edition) |
+| Nazwa polska | Samochód wyścigowy McLaren Formula 1 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1432 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017160795, 5906438320183 |
+
+**Zapraszamy do zakupu wyjątkowego mocowania ściennego stworzonego specjalnie dla modelu LEGO Technic 42141 McLaren Formula 1. To praktyczne i eleganckie rozwiązanie, które pozwoli Ci wyeksponować i zabezpieczyć Twój ulubiony samochód z klocków LEGO.**
+
+Główne cechy produktu:
+
+- **Idealne Dopasowanie do McLaren Formula 1**: Nasze mocowanie ścienne zostało starannie zaprojektowane, aby idealnie współgrać z modelem LEGO Technic 42141 McLaren Formula 1. To nie tylko funkcjonalne, ale także stylowe rozwiązanie do prezentacji Twojej kolekcji.
+- **Technologia Druku 3D: **Wykorzystanie zaawansowanej technologii druku 3D gwarantuje wysoką precyzję wykonania i trwałość. Każdy element mocowania został starannie opracowany, aby spełnić oczekiwania nawet najbardziej wymagających kolekcjonerów.
+- **Materiał PET-G - Solidność i Elegancja:** Mocowanie zostało wykonane z trwałego materiału PET-G, łącząc w sobie solidność i elegancję. To nie tylko praktyczny element, ale również designerski dodatek, który uwydatni unikalność Twojego McLaren Formula 1.
+- **Uniwersalny Montaż**: Mocowanie można łatwo zamocować na ścianie, korzystając z mocnej taśmy typu TESA (brak w zestawie), co umożliwia łatwy montaż bez konieczności wiercenia otworów. Alternatywnie, dostępny jest otwór przygotowany do montażu na ścianie, co pozwala na przykręcenie mocowania (brak śruby w zestawie).
+
+Oferta Innych Mocowań na Innych Aukcjach: Zauważ, że posiadamy również inne mocowania dedykowane różnym modelom LEGO Technic, dostępne na innych naszych aukcjach. Odkryj pełną gamę praktycznych rozwiązań do przechowywania swoich ulubionych zestawów LEGO.
+
+Uwydatnij swój McLaren Formula 1 dzięki mocowaniu ściennej. Kup teraz, aby cieszyć się funkcjonalnością i stylowym wyglądem, który doda elegancji Twojej kolekcji LEGO!
+
+**Galeria:**
+
+- 42141-1: https://a.allegroimg.com/original/05be7f/b727932648919182856bce5a9c3a
+- 42141-2: https://a.allegroimg.com/original/11252e/5500b1ad4eb0a4183a6f05fe7b79
+
+---
+
+## 42143 — Ferrari Daytona SP3
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42143 |
+| Nazwa angielska | Ferrari Daytona SP3 |
+| Nazwa polska | Ferrari Daytona SP3 |
+| Seria | Technic |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 3778 |
+| Cena katalogowa | 1949.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017159041 |
 
 LEGO® Technic Ferrari Daytona SP3 42143 – Kolekcjonerski Model Superauta 1:8 | 3778 Elementów
 
@@ -3696,11 +5354,27 @@ Specyfikacja
 - Stan: Nowy
 - Oryginalne opakowanie: Tak
 
+**Galeria:**
+
+- 42143-1: https://a.allegroimg.com/original/052ad5/fd7b6b5b4335a1b576535f3ee692
+
 ---
 
-## 42144 — Klocki Lego Technic Zestaw Dźwig z chwytakiem 42144
+## 42144 — Dźwig z chwytakiem
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 751.00 zł · EAN: 05702017160818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42144 |
+| Nazwa angielska | Material Handler |
+| Nazwa polska | Dźwig z chwytakiem |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 835 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 17 cm |
+| EAN | 5702017160818 |
 
 Interesujesz się mechaniką i inżynierią? Jeśli tak, to na pewno pokochasz ten zestaw! Zestaw LEGO® Technic Dźwig z chwytakiem pokaże Ci, jak naprawdę działają dźwigi. Ma wiele ręcznych i pneumatycznych funkcji, więc dowiesz się, jak ten potężny pojazd sortuje, układa i załadowuje różne materiały gotowe do przetworzenia.
  
@@ -3731,11 +5405,27 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 - Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42144-1: https://a.allegroimg.com/original/05dfdb/325e457e4bd2b8115e408f38cbd7
+
 ---
 
-## 42145 — Lego 42145 Technic Helikopter Ratunkowy Airbus 175
+## 42145 — Helikopter ratunkowy Airbus H175
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1299.99 zł · EAN: 05702017174693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42145 |
+| Nazwa angielska | Airbus H175 Rescue Helicopter |
+| Nazwa polska | Helikopter ratunkowy Airbus H175 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2001 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 13 cm |
+| EAN | 5702017160641, 5702017174693 |
 
 **ZESTAW LEGO**
 
@@ -3767,11 +5457,27 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 - **Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii.**
 - **Elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić.**
 
+**Galeria:**
+
+- 42145-1: https://a.allegroimg.com/original/119eff/4cebdcb741f48cf82c01ab8e93f9
+- 42145-2: https://a.allegroimg.com/original/05a2a6/362a40a049d39550743a33d2b3e2
+
 ---
 
-## 42146 — Lego Technic 42146 Żuraw gąsienicowy Liebherr Lr 13000
+## 42146 — Żuraw gąsienicowy Liebherr LR 13000
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 3049.99 zł · EAN: 05702017156026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42146 |
+| Nazwa angielska | Liebherr Crawler Crane LR 13000 |
+| Nazwa polska | Żuraw gąsienicowy Liebherr LR 13000 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156026 |
 
 Lego TECHNIC Żuraw gąsienicowy Liebherr LR 13000 (42146)
 
@@ -3779,11 +5485,27 @@ Lego TECHNIC Żuraw gąsienicowy Liebherr LR 13000 (42146)
  
 Model porusza się, a jego konstrukcja odzwierciedla rzeczywistą maszynę. Funkcje żurawia można uruchamiać za pomocą aplikacji CONTROL+. Realistyczne funkcje obejmują sterowanie kabiną, obrotową platformę, wychylny wysięgnik, wciągarkę i czujnik obciążenia.
 
+**Galeria:**
+
+- 42146-1: https://a.allegroimg.com/original/29bdfc/eb3f89664de2804ba95b84c95ed0
+
 ---
 
-## 42147 — Lego Technic 42147 Wywrotka
+## 42147 — Wywrotka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702017400075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42147 |
+| Nazwa angielska | Dump Truck |
+| Nazwa polska | Wywrotka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702017400075 |
 
 Lego TECHNIC 42147 Wywrotka
 
@@ -3803,11 +5525,27 @@ Odgrywanie ról na budowieDzieciom spodoba się kierowanie wywrotką po wymyślo
 - Wysoka jakość - elementy LEGO(R) Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić
 - Bezpieczeństwo przede wszystkim - elementy LEGO(R) Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 42147-1: https://a.allegroimg.com/original/11f338/c838ae98468cbdc3b55c945257ea
+
 ---
 
-## 42148 — Lego Technic 42148 Ratrak
+## 42148 — Ratrak
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 55.22 zł · EAN: 05702017400082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42148 |
+| Nazwa angielska | Snow Groomer |
+| Nazwa polska | Ratrak |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702017400082 |
 
 LEGO Technic Ratrak 42148
  
@@ -3840,11 +5578,27 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 - Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42148-1: https://a.allegroimg.com/original/05f4d4/8f055e2448e78eb746f140e6351f
+
 ---
 
-## 42149 — Lego Technic 42149 Monster Jam Dragon
+## 42149 — Monster Jam Dragon
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017400099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42149 |
+| Nazwa angielska | Monster Jam Dragon |
+| Nazwa polska | Monster Jam Dragon |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 11 cm |
+| EAN | 5702017400099 |
 
 LEGO® Technic Monster Jam™ Dragon™ to fajny zestaw 2 w 1. Można z niego zbudować dwa modele: pojazd Monster Jam™ Dragon™ lub krokodyli pojazd terenowy.
  
@@ -3882,11 +5636,27 @@ Myślisz, że potrafisz prowadzić maszynę z Monster Jam™? Już czas przetest
  
 • Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42149-1: https://a.allegroimg.com/original/11664c/8309a20f43f884ac4775db79a3fc
+
 ---
 
-## 42150 — Lego Technic Monster Jam Monster Mutt Dalmatian 42150
+## 42150 — Technic
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016699548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42150 |
+| Nazwa angielska | Monster Jam Monster Mutt Dalmatian |
+| Nazwa polska | Technic |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702016699548, 5702017400105 |
 
 Zabawa pełna prędkości dla fanów Monster Jam™ – model 2 w 1 z pojazdem LEGO® Technic Monster Jam™ Monster Mutt™ Dalmatian, który zmienia się w ciężarówkę wyścigową.
 
@@ -3924,45 +5694,81 @@ Gotowi na zabawę na arenie Monster Jam™? W szranki stanie LEGO® Technic Mons
 
 • Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 42150-1: https://a.allegroimg.com/original/110a3e/a1f4ddfa4b259a89de2ad290534a
+- 42150-2: https://a.allegroimg.com/original/11f0c5/e7bb7b46425a9b4e61c45673ccb4
+
 ---
 
-## 42151 — Lego Technic 42151 Bugatti Bolide
+## 42151 — Bugatti Bolide
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 154.86 zł · EAN: 05702017424736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42151 |
+| Nazwa angielska | Bugatti Bolide |
+| Nazwa polska | Bugatti Bolide |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 905 |
+| Cena katalogowa | 214.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 50702016699333, 5702014734975, 5702017424736, 8720453160800 |
 
-LEGO Technic Bolid Bugatti 42151
- 
-Przygotuj się na spotkanie z buntownikiem. Bolid Bugatti przesuwa granice motosportów. Teraz Twoja kolej, by zbudować ten kultowy samochód wyścigowy dzięki zestawowi LEGO® Technic Bolid Bugatti. Pochwal się detalami samochodu, w tym działającym silnikiem W16, układem kierowniczym i skrzydłowymi drzwiami. Dodaj naklejki, aby uzupełnić wspaniały wygląd.
+Przygotuj się na spotkanie z buntownikiem. **Bolid Bugatti** przesuwa granice motosportów. Teraz Twoja kolej, by zbudować ten kultowy samochód wyścigowy dzięki zestawowi LEGO® Technic Bolid Bugatti. Pochwal się detalami samochodu, w tym działającym **silnikiem W16**, **układem kierowniczym i skrzydłowymi drzwiami**. Dodaj naklejki, aby uzupełnić wspaniały wygląd.
 
-Wyzwanie inżynieryjne dla fanów samochodów sportowych
- 
+**Wyzwanie inżynieryjne dla fanów samochodów sportowych**
+
 Zachęć dzieci do zbudowania kultowego auta wyścigowego z zestawu LEGO® Technic Bolid Bugatti.
- 
-Zainspiruj dziewięciolatka lub starsze dziecko do zbudowania własnego modelu samochodu wyścigowego dzięki zestawowi LEGO® Technic Bolid Bugatti (42151). Dzieci mogą odtwarzać realistyczne detale, w tym silnik W16, układ kierowniczy i drzwi skrzydłowe. Wspaniały wygląd auta przykuwa uwagę swoją czarno-żółtą kolorystyką i realistycznymi naklejkami. Po zbudowaniu i obejrzeniu samochodu można z dumą ustawić model kolekcjonerski jako ozdobę.
- 
+
+Zainspiruj dziewięciolatka lub starsze dziecko do zbudowania własnego modelu samochodu wyścigowego dzięki zestawowi LEGO® Technic Bolid Bugatti (42151). Dzieci mogą odtwarzać **realistyczne detale, w tym silnik W16, układ kierowniczy i drzwi skrzydłowe**. **Wspaniały wygląd auta przykuwa uwagę swoją czarno-żółtą kolorystyką i realistycznymi naklejkami. Po zbudowaniu i obejrzeniu samochodu można z dumą ustawić model kolekcjonerski jako ozdobę.**
+
 Świetne wprowadzenie do świata inżynierii
- 
+
 Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzięki czemu wprowadzają młodych budowniczych LEGO w świat inżynierii w przystępny i realistyczny sposób. Łatwe i intuicyjne budowanie umożliwi aplikacja LEGO Builder. Dzieci mogą w niej przybliżać i obracać modele w 3D, zapisywać zestawy i śledzić swoje postępy.
 
- 
-- Model dla miłośników sportów motorowych – postaw wyzwanie fanom motoryzacji w wieku od dziewięciu lat i podaruj im szczegółowy model LEGO® Technic Bolid Bugatti (42151) 
-- Przyciągające uwagę detale – dzieci mogą budować i odkrywać pracę silnika W16, układ kierowniczy i drzwi skrzydłowe samochodu wyścigowego Bugatti 
-- Wzorowane na oryginale – model bolidu Bugatti ma czarno-żółtą kolorystykę, a całości dopełniają naklejki 
-- Prezent dla dzieci w wieku od dziewięciu lat – podaruj model Bugatti dziecku, które uwielbia samochody wyścigowe i modele aut sportowych 
-- Do zabawy i ozdoby – po zbudowaniu samochodu, gdy zabawa jest skończona dzieci mogą z dumą ustawić model kolekcjonerski na półce 
-- Wymiary – model LEGO® Technic ma 8 cm wysokości, 31 cm długości i 13 cm szerokości 
+- **Model dla miłośników sportów motorowych** – postaw wyzwanie fanom motoryzacji w wieku od dziewięciu lat i podaruj im szczegółowy model LEGO® Technic Bolid Bugatti (42151)
 
- 
-- Pomoc w budowaniu – odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając umiejętności dziecka 
-- Wprowadzenie do świata inżynierii – modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii 
-- Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
-- Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
+- **Przyciągające uwagę detale** – dzieci mogą budować i odkrywać pracę silnika W16, układ kierowniczy i drzwi skrzydłowe samochodu wyścigowego Bugatti
+
+- **Wzorowane na oryginale** – model bolidu Bugatti ma czarno-żółtą kolorystykę, a całości dopełniają naklejki
+
+- Prezent dla dzieci w wieku od dziewięciu lat – podaruj model Bugatti dziecku, które uwielbia samochody wyścigowe i modele aut sportowych
+
+- Do zabawy i ozdoby – po zbudowaniu samochodu, gdy zabawa jest skończona dzieci mogą z dumą ustawić model kolekcjonerski na półce
+
+- **Wymiary – model LEGO® Technic ma 8 cm wysokości, 31 cm długości i 13 cm szerokości**
+
+- Pomoc w budowaniu – odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając umiejętności dziecka
+- Wprowadzenie do świata inżynierii – modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii
+- Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić
+- Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
+
+**Galeria:**
+
+- 42151-1: https://a.allegroimg.com/original/0555f7/36fc80c0489faa439607f25f28fe
+- 42151-2: https://a.allegroimg.com/original/111ed6/039c9f6143cc9744ed88d5921f2d
+- 42151-3: https://a.allegroimg.com/original/1190d7/577964b14768946b6865695fdc17
 
 ---
 
-## 42152 — Lego Technic 42152 Samolot gaśniczy
+## 42152 — Samolot gaśniczy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017425320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42152 |
+| Nazwa angielska | Firefighter Aircraft |
+| Nazwa polska | Samolot gaśniczy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017425320 |
 
 LEGO 42152 TECHNIC SAMOLOT GAŚNICZY 1134 ELEMENTY
  
@@ -3988,11 +5794,27 @@ Kreatywne wprowadzenie do świata inżynierii
 - **Zabawa w gaszenie** – zestaw zawiera niebieskie elementy LEGO, dzięki którym dzieci mogą załadować „wodę” do samolotu strażackiego, a następnie otworzyć właz, aby ugasić wyimaginowane pożary 
 - **Prezent dla dzieci w wieku od 10 lat** – ten zestaw z modelem samolotu to świetny prezent na urodziny lub inną okazję dla dzieci, które kochają zabawki strażackie
 
+**Galeria:**
+
+- 42152-1: https://a.allegroimg.com/original/116c0d/2f9d776e44c6984cfc4f24f08403
+
 ---
 
-## 42154 — Lego Technic 2022 Ford Gt 42154
+## 42154 — Ford GT, wersja z 2022 roku
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 401.97 zł · EAN: 05702017424965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42154 |
+| Nazwa angielska | 2022 Ford GT |
+| Nazwa polska | Ford GT, wersja z 2022 roku |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm |
+| EAN | 5702017424965 |
 
 **LEGO Technic Ford GT, wersja z 2022 roku 42154**
 
@@ -4024,11 +5846,27 @@ Wydajność w najpotężniejszym wydaniu. Poznaj Forda GT z 2022 roku – supers
 
 • Elementy LEGO® Technic spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 42154-1: https://a.allegroimg.com/original/112b27/e7071e60407fb77c08346ff52ec5
+
 ---
 
-## 42155 — Lego Technic Batman 42155 Batmotor
+## 42155 — Batmotor
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 230.00 zł · EAN: 05702017424750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42155 |
+| Nazwa angielska | The Batman - Batcycle |
+| Nazwa polska | Batmotor |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 641 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 11 cm |
+| EAN | 5702017424750 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -4058,37 +5896,26 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 - Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
----
+**Galeria:**
 
-## 42156 — Lego Technic 42156 Peugeot 9X8 Le Mans Hybrid
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 719.99 zł · EAN: 05702017424767 · in stock*
-
-LEGO® Technic
-
-PEUGEOT 9X8 24H
-
-Le Mans Hybrid Hypercar
-
-NUMER KATALOGOWY: **42156**
-
-LINIA: **Technic**
-
-ILOŚĆ ELEMENTÓW:** 1775**
-
-WIEK: **18+**
-
-Świętuj 100-lecie wyścigów w Le Mans w 2023 roku dzięki temu zestawowi dla dorosłych LEGO® Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar (42156). Samochód zadebiutuje w klasie LMH mistrzostw świata w wyścigach długodystansowych, a Ty będziesz cieszyć się satysfakcjonującym projektem odzwierciedlającym innowacyjne detale. Realistyczne szczegóły Podziwiaj detale podczas składania modelu samochodu wyścigowego w skali 1:10. Poznaj system hybrydowy z silnikiem tłokowym V6, który łączy się z tylnymi kołami oraz modelową wersję silnika elektrycznego i podłączonego do niego akumulatora. Zwróć uwagę na zaprojektowane specjalnie dla tego modelu zawieszenie oraz układ kierowniczy, którym można poruszać za pomocą kierownicy lub koła zębatego na dachu samochodu. Świecące w ciemności elementy świetlne oddają atmosferę prawdziwego 24-godzinnego wyścigu.
-
-Zyskaj pełną perspektywę Aplikacja LEGO Builder oferuje łatwy sposób na uporządkowanie instrukcji. Korzystaj z aplikacji, aby powiększać iobracać modele w 3D, zapisywać zestawy, śledzić postępy i znajdować inspiracje.
-
-Stań w szranki w tej trudnej konkurencji motorowej dzięki zestawowi dla dorosłych LEGO® Technic PEUGEOT 9X8 24H Le Mans Hybrid Hypercar. Ten pełen niesamowitych detali model to projekt prawdziwego samochodu wyścigowego bez tylnego skrzydła. Pobudź w sobie ducha rywalizacji, odtwarzając system hybrydowy, otwierane drzwi, układ kierowniczy i zawieszenie. Następnie ustaw swój model na półce i pochwal się wszystkim swoją pasją.
+- 42155-1: https://a.allegroimg.com/original/056500/709d0af4485a9e5100f620f1c606
 
 ---
 
-## 42157 — Lego Technic 42157 Ciągnik leśny John Deere 948L-II
+## 42157 — Ciągnik leśny John Deere 948L-II
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 798.79 zł · EAN: 05702017425177 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42157 |
+| Nazwa angielska | John Deere 948L-II Skidder |
+| Nazwa polska | Ciągnik leśny John Deere 948L-II |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1492 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 19 cm |
+| EAN | 5702017119069, 5702017425177 |
 
 LEGO Technic Ciągnik leśny John Deere 948L-II 42157
  
@@ -4115,11 +5942,28 @@ Zestawy konstrukcyjne LEGO Technic składają się z realistycznie poruszającyc
 - Wysoka jakość — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42157-1: https://a.allegroimg.com/original/29e4e9/8dd66a7e4fe39e327aab728f1b0f
+- 42157-2: https://a.allegroimg.com/original/114a9b/bc1a019242c282d0133eb6eb7151
+
 ---
 
-## 42158 — Lego Technic 42158 Marsjański łazik Nasa Perseverance
+## 42158 — NASA Mars Rover Perseverance
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 335.00 zł · EAN: 05702017425184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42158 |
+| Nazwa angielska | NASA Mars Rover Perseverance |
+| Nazwa polska | NASA Mars Rover Perseverance |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 23 cm |
+| EAN | 5702017425184 |
 
 LEGO Technic Marsjański łazik NASA Perseverance 42158
  
@@ -4147,11 +5991,27 @@ Dzieci mogą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder
 - Wysoka jakość — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 42158-1: https://a.allegroimg.com/original/291e33/d8de901248c6a4a83664e1e1ee8d
+
 ---
 
-## 42159 — Lego Technic 42159 Yamaha MT-10 Sp
+## 42159 — Yamaha MT-10 SP
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 979.49 zł · EAN: 05702017425191 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42159 |
+| Nazwa angielska | Yamaha MT-10 SP |
+| Nazwa polska | Yamaha MT-10 SP |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1478 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017425191 |
 
 Lego TECHNIC 42159 Yamaha MT-10 SP
  
@@ -4169,11 +6029,27 @@ Każdy szczegół został przemyślany tak, aby ten model był jak najbardziej w
  
 Ten zestaw należy do kolekcji zestawów konstrukcyjnych LEGO dla dorosłych. To świetny projekt dla Ciebie lub idealny prezent dla fanów motocykli i entuzjastów Yamahy. Po satysfakcjonującym budowaniu można zająć się odkrywaniem jego szczegółowych funkcji.
 
+**Galeria:**
+
+- 42159-1: https://a.allegroimg.com/original/05640a/417818c8487dbeeb19cbcff0a5ff
+
 ---
 
-## 42160 — Lego Technic 42160 Audi Rs Q e-tron
+## 42160 — Audi RS Q e-tron
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 586.18 zł · EAN: 05702017425207 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42160 |
+| Nazwa angielska | Audi RS Q e-tron |
+| Nazwa polska | Audi RS Q e-tron |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 914 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 19 cm |
+| EAN | 5702017425207 |
 
 LEGO Technic 42160 Audi RS Q e-tron 42160
  
@@ -4223,11 +6099,27 @@ Przygotuj się na zbudowanie repliki jednego z najbardziej innowacyjnych samocho
  
 • Elementy LEGO Technic spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 42160-1: https://a.allegroimg.com/original/1112ed/33850884482b870e97f4162797ad
+
 ---
 
-## 42161 — Lego Technic 42161 Lamborghini Huracán Tecnica
+## 42161 — Lamborghini Huracán Tecnica
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 177.46 zł · EAN: 05702017425214 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42161 |
+| Nazwa angielska | Lamborghini Huracán Tecnica |
+| Nazwa polska | Lamborghini Huracán Tecnica |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 806 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 4056256612074, 5702017425214, 781791002229 |
 
 LEGO Technic 42161 Lamborghini Huracan Tecnica
 
@@ -4280,11 +6172,29 @@ Uwielbiasz samochody Lamborghini? Marzysz o posiadaniu własnego Lamborghini Hur
  
 • Elementy LEGO Technic spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 42161-1: https://a.allegroimg.com/original/05b591/ebe2b3c44a229d39c0422fefd7f0
+- 42161-2: https://a.allegroimg.com/original/11eaaa/b6552abf43ce95b5e6fa30af0f95
+- 42161-3: https://a.allegroimg.com/original/11364b/23b052c548e1afe92718b9c88e41
+
 ---
 
-## 42162 — Lego Technic 42162 Bugatti Bolide Agile Blue
+## 42162 — Bugatti Bolide Agile Blue
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 298.88 zł · EAN: 05702017433516 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42162 |
+| Nazwa angielska | Bugatti Bolide Agile Blue |
+| Nazwa polska | Bugatti Bolide Agile Blue |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 905 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702017433516 |
 
 LEGO Technic 42162 - Bugatti Bolide Agile Blue
  
@@ -4302,11 +6212,26 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i ruch, przez co wprowadzają
 - Do zabawy i ozdoby — po zbudowaniu samochodu, gdy zabawa jest skończona dzieci mogą z dumą ustawić model kolekcjonerski na półce 
 - Wymiary — model LEGO® Technic ma 8 cm wysokości, 31 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 42162-1: https://a.allegroimg.com/original/05dfc3/21d011ad4dd8b11a110bd95a04d5
+
 ---
 
-## 42163 — Lego Technic 42163 Ciężki buldożer
+## 42163 — Ciężki buldożer
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 26.38 zł · EAN: 05702017560717 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42163 |
+| Nazwa angielska | Heavy-Duty Bulldozer |
+| Nazwa polska | Ciężki buldożer |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017560717 |
 
 LEGO Technic Buldożer do zadań specjalnych (42163) 
  
@@ -4328,11 +6253,27 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
  
 • 195-elementowy zestaw ma 8 cm wysokości i 10 cm długości
 
+**Galeria:**
+
+- 42163-1: https://a.allegroimg.com/original/1153b1/b6e33a47423fa5908c0d2cc7a70c
+
 ---
 
-## 42164 — Lego Technic Wyścigowy Łazik Terenowy 42164
+## 42164 — Wyścigowy łazik terenowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 45.98 zł · EAN: 05702017567167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42164 |
+| Nazwa angielska | Off-Road Race Buggy |
+| Nazwa polska | Wyścigowy łazik terenowy |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 219 |
+| Cena katalogowa | 64.99 zł |
+| Wymiary złożonego | — |
+| EAN | 4897038559015, 5702017567167 |
 
 LEGO TECHNIC WYŚCIGOWY ŁAZIK TERENOWY 42164
 
@@ -4368,11 +6309,27 @@ Ten 219-elementowy zestaw to fantastyczny, przystępny wstęp do świata inżyni
 - ✅ **Zasilanie:** Brak (model w 100% mechaniczny)
 - ✅ **Certyfikat bezpieczeństwa:** CE
 
+**Galeria:**
+
+- 42164-1: https://a.allegroimg.com/original/110e12/5511773747108654774cd4d3e959
+- 42164-2: https://a.allegroimg.com/original/11c213/3e295b9d49619239f3b2725d355e
+
 ---
 
-## 42165 — Lego Technic 42165 Samochód Mercedes Amg F1 W14 E Napęd Pull-back Auto
+## 42165 — Technic 42165 Mercedes-AMG F1 W14 E Performance Pull-Back
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 96.90 zł · EAN: 05702017600864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42165 |
+| Nazwa angielska | Mercedes-AMG F1 W14 Pull-Back |
+| Nazwa polska | Technic 42165 Mercedes-AMG F1 W14 E Performance Pull-Back |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600864 |
 
 **LEGO® Technic Mercedes-AMG F1 W14 E Performance Pull-Back (42165)**
 
@@ -4392,11 +6349,26 @@ Model charakteryzuje się autentycznymi detalami inspirowanymi prawdziwym bolide
 - Zalecany wiek: od 7 lat
 - Wymiary modelu (po złożeniu):Wysokość: ok. 6 cmDługość: ok. 24 cmSzerokość: ok. 10 cm
 
+**Galeria:**
+
+- 42165-1: https://a.allegroimg.com/original/11b6af/6575f7754508822b66938b7dde09
+
 ---
 
-## 42166 — 42166 Lego Technic Neom McLaren Extreme E Race Car
+## 42166 — NEOM McLaren Extreme E Race Car
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 162.00 zł · EAN: 04897038558131 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42166 |
+| Nazwa angielska | NEOM McLaren Extreme E Race Car |
+| Nazwa polska | NEOM McLaren Extreme E Race Car |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4897038558131, 5702017583518 |
 
 42166 - LEGO Technic - NEOM McLaren Extreme E Race Car
 
@@ -4506,11 +6478,28 @@ Parametry
 - **liczba elementów**: 252 szt.
 - **wiek dziecka**: 7 lat +
 
+**Galeria:**
+
+- 42166-1: https://a.allegroimg.com/original/11ac06/76e6dc1e428e8abe013a70d897e9
+- 42166-2: https://a.allegroimg.com/original/29de35/30c089b5418c8d7e7f4ab483d184
+
 ---
 
-## 42167 — Lego Technic 42167 Mack Lr Elektryczna śmieciarka
+## 42167 — Śmieciarka Mack LR Electric
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 106.44 zł · EAN: 05702017583525 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42167 |
+| Nazwa angielska | Mack LR Electric Garbage Truck |
+| Nazwa polska | Śmieciarka Mack LR Electric |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 503 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702017583525 |
 
 LEGO® TECHNIC Śmieciarka Mack® LR Electric Ciężarówka (503 el.)
 
@@ -4556,11 +6545,27 @@ Szukasz prezentu na urodziny, Święta lub Dzień Dziecka? **LEGO® Technic Śmi
 
 **Zapraszamy do zakupu! Podaruj swojemu dziecku radość z budowania i odkrywania świata techniki z LEGO® Technic!**
 
+**Galeria:**
+
+- 42167-1: https://a.allegroimg.com/original/2995c9/518f25d74800893cd25d7bc2cd70
+
 ---
 
-## 42168 — Lego Technic John Deere 42168
+## 42168 — Sieczkarnia samojezdna John Deere 9700
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 168.98 zł · EAN: 05702017583532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42168 |
+| Nazwa angielska | John Deere 9700 Forage Harvester |
+| Nazwa polska | Sieczkarnia samojezdna John Deere 9700 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 559 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583532 |
 
 LEGO Technic Kombajn paszowy John Deere 9700 (42168) 
  
@@ -4584,11 +6589,26 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
  
 • 559-elementowy zestaw ma 11 cm wysokości i 25 cm długości
 
+**Galeria:**
+
+- 42168-1: https://a.allegroimg.com/original/297d23/8156002d48519423a4af65a1dacc
+
 ---
 
-## 42169 — Lego Technic Neom McLAREN Formuła E Race Car 42169
+## 42169 — Technic 42169 NEOM McLaren Formuła E samochód wyścigowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 165.89 zł · EAN: 05702017583549 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42169 |
+| Nazwa angielska | NEOM McLaren Formula E Race Car |
+| Nazwa polska | Technic 42169 NEOM McLaren Formuła E samochód wyścigowy |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 452 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583549 |
 
 **SZABLON**
 
@@ -4596,11 +6616,27 @@ Opis opis opis Opis opis opis Opis opis opis Opis opis opis Opis opis opis Opis 
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 42169-1: https://a.allegroimg.com/original/1141e5/59fb78c34d2e90e10327335f0cf6
+
 ---
 
-## 42170 — Lego Technic 42170 Motocykl Kawasaki Ninja H2R Dla Dziecka 10+
+## 42170 — Motocykl Kawasaki Ninja H2R
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 264.89 zł · EAN: 05702017583556 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42170 |
+| Nazwa angielska | Kawasaki Ninja H2 Motorcycle |
+| Nazwa polska | Motocykl Kawasaki Ninja H2R |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 643 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583556 |
 
 LEGO Technic 42170 Motocykl Kawasaki Ninja H2R
  
@@ -4626,11 +6662,27 @@ Zestawy LEGO Technic dla dzieci zawierają realistyczne detale, które w przyst�
  
 • 643-elementowy zestaw ma 17 cm wysokości i 31 cm długości
 
+**Galeria:**
+
+- 42170-1: https://a.allegroimg.com/original/29326d/c782f7e24500b7979e35ea6eba50
+
 ---
 
-## 42171 — Lego Technic Mercedes-AMG F1 W14 E Performance 42171
+## 42171 — Mercedes-AMG F1 W14 E Performance
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 714.99 zł · EAN: 05702017583563 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42171 |
+| Nazwa angielska | Mercedes-AMG F1 W14 E Performance |
+| Nazwa polska | Mercedes-AMG F1 W14 E Performance |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1642 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583563 |
 
 **LEGO Technic Mercedes-AMG F1 W14 E Performance 42171**
 
@@ -4652,41 +6704,85 @@ Funkcje obejmują układ kierowniczy, którym można sterować za pomocą kierow
 
 • 1642-elementowy zestaw ma 13 cm wysokości i 63 cm długości
 
----
+**Galeria:**
 
-## 42172 — Lego Technic McLaren P1 42172
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 1435.14 zł · EAN: 05702017595672 · in stock*
-
-**LEGO Technic McLaren P1 42172**
-
-Rozpal w sobie miłość do supersamochodów dzięki temu wciągającemu zestawowi LEGO® Technic McLaren P1™ dla dorosłych. Poznawaj szczegóły, budując imponujący model w skali 1:8, i odkrywaj takie funkcje, jak siedmiobiegowa skrzynia biegów z bębnem, zawieszenie i silnik tłokowy V8. Podziwiaj regulowane tylne skrzydło i otwierane drzwi motylkowe, a potem z dumą ustaw ukończony model na półce. Podobnie jak prawdziwy samochód, wersja LEGO Technic ma swój własny, unikalny numer seryjny, który zapewnia dostęp do ekskluzywnych treści online.
-
-Od pełnego ekscytacji otwieranie pudełka po nadawanie ostatnich szlifów — ten zestaw LEGO Technic stanowi satysfakcjonujące wyzwanie dla dorosłych fanów budowania. To idealny prezent dla miłośników supersamochodów i fanów McLarena, który będzie wspaniałą ozdobą i ambitnym projektem.
-
-• Zestaw dla dorosłych LEGO® Technic McLaren P1™
-
-• Wśród funkcji jest silnik tłokowy V8, siedmiobiegowa skrzynia biegów, otwierane drzwi i nie tylko
-
-• Ciesz się satysfakcjonującym modelem w skali 1:8
-
-• Zawiera płytkę z unikalnym numerem seryjnym
-
-• Prezent dla automaniaków i dorosłych konstruktorów, którzy lubią ambitne projekty
-
-• Odkryj intuicyjne instrukcje budowania w 3D w aplikacji LEGO® Builder
-
-• 3893-elementowy zestaw ma 14 cm wysokości
-
-• Zawiera płytkę z unikalnym numerem seryjnym
-
-• Prezent dla automaniaków i dorosłych konstruktorów, którzy lubią ambitne projekty
+- 42171-1: https://a.allegroimg.com/original/1179cd/af66725747d9bd7a71873857fd14
 
 ---
 
-## 42173 — Lego Technic 42173 Koenigsegg Jesko Absolut Szary Hipersamochód i Ebook 4w1
+## 42172 — McLaren P1
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 156.28 zł · EAN: 05702017584072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42172 |
+| Nazwa angielska | McLaren P1 |
+| Nazwa polska | McLaren P1 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 3893 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595672, 5907213510058 |
+
+Zestaw oświetlenia do LEGO Technic McLaren P1 42172
+
+Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+
+Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+
+**Wydobądź więcej ze swojego zestawu LEGO®.**
+
+Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
+
+Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
+
+**W zestawie:**
+
+• Gotowe do podłączenia oświetlenie LED (USB-A)
+
+• Pojemnik na baterie
+
+• Instrukcja montażu
+
+Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
+
+- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
+- Prosty montaż. Bez narzędzi. Bez lutowania
+- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+
+**Galeria:**
+
+- 42172-1: https://a.allegroimg.com/original/11425c/30c586834feeba859118563f3bae
+- 42172-2: https://a.allegroimg.com/original/115699/00ee995449f199cefa6fea633207
+
+---
+
+## 42173 — Szary hipersamochód Koenigsegg Jesko Absolut
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42173 |
+| Nazwa angielska | Koenigsegg Jesko Absolut Grey Hypercar |
+| Nazwa polska | Szary hipersamochód Koenigsegg Jesko Absolut |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 801 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584072 |
 
 LEGO Technic 42173 Koenigsegg Jesko Absolut Szary Hipersamochód i Ebook 4w1
 
@@ -4712,11 +6808,26 @@ Technic LEGO Technic Szary hipersamochód Koenigsegg Jesko Absolut, Zabawka dla 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017584072
 
+**Galeria:**
+
+- 42173-1: https://a.allegroimg.com/original/11e653/1997a98d47d4a317e5e267853975
+
 ---
 
-## 42174 — Lego 42174 Technic Water 2024
+## 42174 — Jacht Technic 42174 Emirates Team New Zealand AC75
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017584089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42174 |
+| Nazwa angielska | Emirates Team New Zealand AC75 Yacht |
+| Nazwa polska | Jacht Technic 42174 Emirates Team New Zealand AC75 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 962 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 68 cm × szer. 33 cm |
+| EAN | 5702017584089 |
 
 Rozbudź swoją miłość do jachtów dzięki zestawowi, który zabierze Cię w sam środek rozgrywek o legendarny Puchar Ameryki. Wyobraź sobie, że stajesz się częścią zespołu i zbuduj elementy szczegółowego jachtu LEGO® Technic Jacht Emirates Team New Zealand AC75 (42174).
 
@@ -4732,11 +6843,27 @@ Ten zestaw z jachtem należy do kolekcji modeli dla dorosłych fanów LEGO i bę
 - Instrukcje budowania 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D
 - Wymiary — 962-elementowy zestaw z modelem ma 68 cm wysokości, 56 cm długości i 33 cm szerokości
 
+**Galeria:**
+
+- 42174-1: https://a.allegroimg.com/original/1170c2/79e2bb3d45edb955e2ebe86ca122
+
 ---
 
-## 42175 — Lego Technic 42175 Ciężarówka Volvo Fmx i koparka EC230 Electric
+## 42175 — Ciężarówka Volvo FMX i koparka EC230 Electric
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702017584096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42175 |
+| Nazwa angielska | Volvo FMX Truck & EC230 Electric Excavator |
+| Nazwa polska | Ciężarówka Volvo FMX i koparka EC230 Electric |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702017584096 |
 
 LEGO Technic 42175 Ciężarówka Volvo FMX i koparka EC230 Electric
 
@@ -4764,11 +6891,27 @@ Zainspiruj dzieci do zbudowania własnego pojazdu budowlanego do zadań specjaln
  
 • Wymiary — 2274-elementowy zestaw z modelem ma 8 cm wysokości, 68 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 42175-1: https://a.allegroimg.com/original/05410a/b0bd60774aaea0c7acd270d59137
+
 ---
 
-## 42176 — Lego Technic 42176 Samochód wyścigowy Porsche GT4 e-Performance
+## 42176 — Samochód wyścigowy Porsche GT4 e-Performance
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 488.99 zł · EAN: 05702017584102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42176 |
+| Nazwa angielska | Porsche GT4 e-Performance |
+| Nazwa polska | Samochód wyścigowy Porsche GT4 e-Performance |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 834 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584102 |
 
 Samochód wyścigowy Porsche GT4 e-Performance
 
@@ -4785,11 +6928,27 @@ Podaruj **ekscytujące doświadczenie inżynieryjne** dzieciom w wieku **10 lat 
 
 **Połącz luksus, technologię i porywającą zabawę w jednym zestawie!**
 
+**Galeria:**
+
+- 42176-1: https://a.allegroimg.com/original/05b1e6/c5bf36454047b770a59ef44a712d
+
 ---
 
-## 42177 — Lego Technic 42177 Mercedes-Benz G 500 Professional Line
+## 42177 — Mercedes-Benz G 500 PROFESSIONAL Line
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 827.00 zł · EAN: 05702017584119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42177 |
+| Nazwa angielska | Mercedes-Benz G 500 PROFESSIONAL Line |
+| Nazwa polska | Mercedes-Benz G 500 PROFESSIONAL Line |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2891 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 20 cm |
+| EAN | 5702017584119, 5907213510065 |
 
 LEGO 42177 Mercedes-Benz G 500 PROFESSIONAL Line
 
@@ -4815,11 +6974,27 @@ Uczcij 45. rocznicę urodzin jednego z najbardziej lubianych pojazdów terenowyc
  
 • Wymiary — 2891-elementowy zestaw z modelem ma 22 cm wysokości, 43 cm długości i 20 cm szerokości
 
+**Galeria:**
+
+- 42177-1: https://a.allegroimg.com/original/2936d7/9a4aed2c4637842ab505ddf41fbc
+- 42177-2: https://a.allegroimg.com/original/1127ef/33ca5a33409e963f8279c8ad0b9c
+
 ---
 
-## 42178 — Lego Technic 42178 Ładowarka kosmiczna Technic 42178 LT78
+## 42178 — Ładowarka kosmiczna Technic 42178 LT78
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 141.89 zł · EAN: 05702017584126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42178 |
+| Nazwa angielska | Surface Space Loader |
+| Nazwa polska | Ładowarka kosmiczna Technic 42178 LT78 |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 435 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584126 |
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -4841,11 +7016,27 @@ Aplikacja LEGO Builder poprowadzi Twoje dziecko przez intuicyjną przygodę budo
  
 -
 
+**Galeria:**
+
+- 42178-1: https://a.allegroimg.com/original/294e8b/df816eb74abaa1ac650086356611
+
 ---
 
-## 42179 — Lego Technic 42179 Planeta Ziemia i Księżyc na orbitach
+## 42179 — Planeta Ziemia i Księżyc na orbicie
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702017584133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42179 |
+| Nazwa angielska | Planet Earth and Moon in Orbit |
+| Nazwa polska | Planeta Ziemia i Księżyc na orbicie |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 526 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584133 |
 
 LEGO Technic 42179 Planeta Ziemia i Księżyc na orbicie
 
@@ -4865,21 +7056,53 @@ Zestawy LEGO Technic dla dzieci zawierają realistyczne detale, które w przyst�
  
 • 526-elementowy zestaw ma 24 cm wysokości
 
+**Galeria:**
+
+- 42179-1: https://a.allegroimg.com/original/057ecb/c7e698c24f97b7dbe9e3cf1ff174
+
 ---
 
-## 42180 — Lego 42180 Technic Marsjański łazik eksploracyjny
+## 42180 — Łazik marsjański Technic 42180
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 725.20 zł · EAN: 05702017584140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42180 |
+| Nazwa angielska | Mars Crew Exploration Rover |
+| Nazwa polska | Łazik marsjański Technic 42180 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1599 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584140 |
 
 **Klocki LEGO Technic 42180 - Marsjański łazik eksploracyjny**
  
 Zainspiruj dzieci w wieku od 11 lat do poznawania tajników misji na Marsie dzięki zestawowi LEGO® Technic Marsjański łazik eksploracyjny (42180). Ten szczegółowy zestaw z łazikiem marsjańskim jest pełen realistycznych funkcji. Model rozkłada się, odsłaniając skrzynię łazika, a dzieci mogą przetestować zawieszenie, ustawiając łazik w odpowiednim położeniu. Następnie mogą użyć dźwigu do podniesienia robota-łazika, narzędzi i reaktora paliwowego. Pomieszczenia mieszkalne załogi obejmują miejsca do odpoczynku, prysznic, toaletę, bieżnię i lodówkę. Dostępna jest też winda, pojemniki na recykling i próbki oraz kanistry z gazem i wodą.
 
+**Galeria:**
+
+- 42180-1: https://a.allegroimg.com/original/1164f7/8573b94d4a09b4ac45065fbd60e6
+
 ---
 
-## 42181 — Lego Technic 42181 Statek kosmiczny Heavy Cargo
+## 42181 — Ciężki statek kosmiczny Technic 42181 VTOL LT81
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 547.75 zł · EAN: 05702017584157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42181 |
+| Nazwa angielska | VTOL Heavy Cargo Spaceship LT81 |
+| Nazwa polska | Ciężki statek kosmiczny Technic 42181 VTOL LT81 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584157 |
 
 Lego TECHNIC 42181 Statek kosmiczny Heavy Cargo
 
@@ -4889,11 +7112,26 @@ Zestaw jest pełen ciekawych funkcji, w tym przekładni, które obracają silnik
 
 Aby przenieść kosmiczne przygody do innego wymiaru, ten zestaw zawiera także specjalną kosmiczną śluzę powietrzną, którą można połączyć z innymi kompatybilnymi zestawami LEGO o tematyce kosmicznej (sprzedawanymi osobno). A dzięki aplikacji LEGO Builder dzieci mogą powiększać i obracać modele w 3D podczas budowania, zapisywać zestawy i śledzić ich postępy.
 
+**Galeria:**
+
+- 42181-1: https://a.allegroimg.com/original/1131d9/a44c097344b09c92fda7866b0484
+
 ---
 
-## 42182 — Lego Technic Księżycowy Pojazd Rozpoznawczy Nasa Apollo Lrv 42182 Zestaw
+## 42182 — Technic 42182 Księżycowy pojazd rozpoznawczy NASA Apollo - LRV
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 537.99 zł · EAN: 05702017584164 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42182 |
+| Nazwa angielska | NASA Apollo Lunar Roving Vehicle - LRV |
+| Nazwa polska | Technic 42182 Księżycowy pojazd rozpoznawczy NASA Apollo - LRV |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1913 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584164 |
 
 LEGO TECHNIC KSIĘŻYCOWY POJAZD ROZPOZNAWCZY NASA APOLLO - LRV 42182 ZESTAW
 
@@ -4941,11 +7179,27 @@ Po zakończeniu budowy, łazik staje się niesamowitą, przyciągającą wzrok d
 
 ✅ **Zrób krok dla ludzkości w swoim własnym domu!** Zbuduj legendarny łazik i ciesz się kosmicznym projektem, który inspiruje na każdym kroku.
 
+**Galeria:**
+
+- 42182-1: https://a.allegroimg.com/original/055456/e63fc5624643b37b6bfc494549dc
+
 ---
 
-## 42184 — Lego Technic 42184 Biały hipersamochód Koenigsegg Jesko Absolut
+## 42184 — Biały hipersamochód Koenigsegg Jesko Absolut
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017599106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42184 |
+| Nazwa angielska | Koenigsegg Jesko Absolut White Hypercar |
+| Nazwa polska | Biały hipersamochód Koenigsegg Jesko Absolut |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 801 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702017599106 |
 
 LEGO Technic 42184 Biały hipersamochód Koenigsegg Jesko Absolut
 
@@ -4971,11 +7225,26 @@ Podaruj dziesięciolatkom i starszym dzieciom ekscytujący projekt konstrukcyjny
  
 • Wymiary — 801-elementowyzestaw z modelem samochodu ma 8 cm wysokości, 28 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 42184-1: https://a.allegroimg.com/original/29cf6a/971406424eae87cf734194922fb3
+
 ---
 
-## 42196 — Lego Technic 42196 Pomarańczowe Lamborghini Huracán Tecnica Uwaga Opis
+## 42196 — Pomarańczowe Lamborghini Huracán Tecnica
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017677248 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42196 |
+| Nazwa angielska | Lamborghini Huracán Tecnica Orange |
+| Nazwa polska | Pomarańczowe Lamborghini Huracán Tecnica |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 806 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702017677248 |
 
 **WADY OPAKOWANIA JAK NA ZDJĘCIACH !!!**
 
@@ -4991,61 +7260,158 @@ Mechanizmy i ruch w zestawach LEGO Technic są realistyczne, dzięki czemu wprow
 - Inspirowany prawdziwym modelem — ten zestaw z modelem Lamborghini jest utrzymany w pomarańczowej kolorystyce. To atrakcyjny model, który po zakończonej zabawie można ustawić na półce
 - Wymiary — 806-elementowy zestaw z samochodem ma 8 cm wysokości, 28 cm długości i 12 cm szerokości
 
+**Galeria:**
+
+- 42196-1: https://a.allegroimg.com/original/11d517/549ba7824056add77420543649b9
+
 ---
 
-## 42197 — Lego Technic Koparko-ładowarka 42197
+## 42197 — Koparko-ładowarka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 28.89 zł · EAN: 05702017802589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42197 |
+| Nazwa angielska | Backhoe Loader |
+| Nazwa polska | Koparko-ładowarka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 104 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017802589 |
 
 Koparko-ładowarka
 
 Technic Koparko-ładowarka LEGO® Technic Koparko-ładowarka Zestaw z pojazdem LEGO® Technic Koparko-ładowarka 42197 Ten zestaw konstrukcyjny dla dzieci zawiera koparko-ładowarkę LEGO® Technic z ruchomą łyżką, podporami i tylną koparką. Pojazd do zbudowania to świetny pomysł na prezent dla dzieci Zestaw LEGO® Technic Koparko-ładowarka (42197) to świetna zabawka dla dzieci w wieku od siedmiu lat, które uwielbiają pojazdy budowlane. Dzięki niemu będą gotowe na każdą pracę budowlaną! Ten fajny model umożliwia młodym budowniczym wypełnianie różnych zadań na placu budowy. Mogą wjechać ładowarką i opuścić podpory, aby uzyskać dodatkowe wsparcie. Następnie przekręcą pokrętło, aby poruszać przednią łyżką w górę i w dół lub wypróbują tylną koparkę, aby zająć się kolejnym zadaniem na placu budowy.Zestawy pojazdów LEGO Technic charakteryzują się realistycznymi ruchami, dzięki czemu mali konstruktorzy LEGO zapoznają się ze światem inżynierii. Ten zestaw to świetny prezent dla dzieci, które uwielbiają ładowarki, koparki i zabawki budowlane.Dzięki aplikacji LEGO Builder dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy. Dzięki zaufanej koparko-ładowarce będziesz w stanie stawić czoła każdemu zadaniu! Przekręć pokrętło, aby podnieść i opuścić łyżkę, ustaw ładowarkę w odpowiedniej pozycji i opuść podpory, aby uzyskać dodatkowe wsparcie. Następnie wypróbuj tylną koparkę, aby wypełnić kolejne zadanie na placu budowy. Cóż za niesamowita praca!
 
+**Galeria:**
+
+- 42197-1: https://a.allegroimg.com/original/118b56/f5ca0481434cad4a00af3912db2d
+
 ---
 
-## 42198 — Lego Technic samolot transportowy 42198
+## 42198 — Samolot transportowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 73.02 zł · EAN: 05702017816203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42198 |
+| Nazwa angielska | Bush Plane |
+| Nazwa polska | Samolot transportowy |
+| Seria | Technic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816203 |
 
 Samolot transportowy
 
 Technic Samolot transportowy LEGO® Technic Samolot transportowy Zestaw z pojazdem LEGO® Technic Samolot transportowy 42198 Ten zestaw zawiera samolot transportowy LEGO® Technic z obrotowym śmigłem i świetnie sprawdzi się jako prezent dla dzieci, które lubią pojazdy. Model samolotu dla małych miłośników pojazdów LEGO® Fantazja ośmiolatków i starszych dzieci wzbije się na wyżyny podczas budowania i poznawania funkcji zestawu LEGO® Technic Samolot transportowy (42198). Naciśnij dźwignię, aby uruchomić obrotowe śmigło, wyreguluj lotki na skrzydłach bocznych i ogonie, a następnie otwórz pokrywę silnika, aby podziwiać czterocylindrowy silnik tłokowy. Pojazd zdobią paski zebry, zupełnie jak w prawdziwych samolotach transportowych w rezerwatach przyrody.Zestawy pojazdów LEGO Technic charakteryzują się realistycznym ruchem, który wprowadza małych konstruktorów LEGO do świata inżynierii. Ten zestaw będzie świetnym prezentem dla dzieci, które uwielbiają samoloty i pojazdy LEGO. Zobacz, jak dzieci rozwijają swoje umiejętności budowania, bawiąc się tym samolotem transportowym.Dzięki aplikacji LEGO Builder dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy. Wzbij się w przestworza z Samolotem transportowym LEGO® Technic. Naciśnij dźwignię, aby uruchomić obrotowe śmigło. Wyreguluj lotki na skrzydłach bocznych, służących do sterowania, oraz na ogonie odpowiedzialnym za wznoszenie. Następnie otwórz pokrywę silnika, aby podziwiać czterocylindrowy silnik tłokowy. Teraz można ruszać na pas startowy!
 
+**Galeria:**
+
+- 42198-1: https://a.allegroimg.com/original/05943f/f44a7ce54f1d8c84b70b09f3da5f
+
 ---
 
-## 42199 — Lego Technic 42199 Monster Jam DIGatron z silnikiem nawijającym
+## 42199 — Monster Jam DIGatron
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 76.78 zł · EAN: 05702017816227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42199 |
+| Nazwa angielska | Monster Jam DIGatron Pull-Back |
+| Nazwa polska | Monster Jam DIGatron |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816227 |
 
 Monster Jam™ DIGatron™
 
 Technic Monster Jam™ DIGatron™ LEGO® Technic Monster Jam™ DIGatron™ Zabawka LEGO® Technic Monster Jam™ DIGatron™ 42199 Ta zabawkowa ciężarówka LEGO® Technic Monster Jam™ DIGatron™ ma fajny napęd typu pull-back, gwarantujący kreatywną zabawę. Fajny samochód dla dzieci i fanów Monster Jam™ Pojazd dla siedmiolatków i starszych dzieci pozwala im odtwarzać ekscytujące akrobacje w stylu Monster Jam™. LEGO® Technic Monster Jam™ DIGatron™ (42199) ma fajny napęd typu pull-back, dzięki któremu ciężarówka pędzi przed siebie, gdy dzieci odtwarzają oszałamiające sztuczki monster trucków.Ten szczegółowy monster truck odznacza się atrakcyjną kolorystyką i realistycznymi funkcjami Monster Jam, w tym łyżką DIGatrona, chwytakiem i ogromnymi oponami. Szukasz niepowtarzalnego prezentu dla dzieci? Ten zestaw to świetna opcja dla każdego, kto uwielbia emocje towarzyszące zawodom Monster Jam.Zestawy LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii. Wykonuj przeczące prawu grawitacji akrobacje Monster Jam™ potężnym DIGatronem™! Ta nieprzejednana maszyna łączy moc kultowej koparki z niesamowitymi ruchami monster trucka. Zbuduj ciężarówkę z łyżką, chwytakiem i realistycznymi oponami, a następnie pociągnij pojazd do tyłu, aby go rozpędzić i wykonać oszałamiające sztuczki godne prawdziwego kierowcy Monster Jam!
 
+**Galeria:**
+
+- 42199-1: https://a.allegroimg.com/original/05327e/ae7b991a4d979feee6ca48ba17f5
+
 ---
 
-## 42200 — Klocki Lego Technic Monster Jam ThunderROARus 42200 232 elementy pull-back
+## 42200 — Monster Jam ThunderROARus z napędem typu pull-back
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 72.75 zł · EAN: 05702017816234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42200 |
+| Nazwa angielska | Monster Jam ThunderROARus Pull-Back |
+| Nazwa polska | Monster Jam ThunderROARus z napędem typu pull-back |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816234 |
 
 Monster Jam™ ThunderROARus™ z napędem typu pull-back
 
 Technic Monster Jam™ ThunderROARus™ z napędem typu pull-back LEGO® Technic Monster Jam™ ThunderROARus™ z napędem typu pull-back LEGO® Technic Monster Jam™ ThunderROARus™ z napędem typu pull-back Ten zestaw dla fanów Monster Jam™ zawiera ciężarówkę w kształcie dinozaura z napędem typu pull-back. Ciężarówka z napędem pull-back do akrobacji Monster Jam™ Oto samochód z napędem typu pull-back, który zachwyci wszystkich fanów Monster Jam™ w wieku od siedmiu lat. Zestaw LEGO® Technic Monster Jam™ ThunderROARus™ z napędem typu pull-back (42200) ma napęd pull-back, dzięki któremu dzieci mogą rozpędzić pojazd i odtworzyć emocjonujące sztuczki niczym ich ulubieni kierowcy monster trucków.Ten szczegółowy monster truck ma atrakcyjny wygląd, w tym kolce, łuski i zęby ThunderROARusa — gwiazdy Monster Jam inspirowanej dinozaurami!Zestawy pojazdów LEGO Technic charakteryzują się realistycznymi ruchami, dzięki czemu mali konstruktorzy LEGO zapoznają się ze światem inżynierii. Ten zestaw to świetny prezent dla dzieci, które uwielbiają Monster Jam, sporty motorowe i pojazdy LEGO. Ma kolce! Ma łuski! I kąsa! Przedstawiamy jedynego i niepowtarzalnego ThunderROARusa™! Łącząc zręczną robotykę z dziką mocą dinozaura, ten monster truck jest zawsze gotowy do akcji. Pociągnij ciężarówkę do tyłu, aby ją rozpędzić, i odtwórz zapierające dech w piersiach akrobacje, zupełnie jak prawdziwy kierowca Monster Jam™.
 
+**Galeria:**
+
+- 42200-1: https://a.allegroimg.com/original/05df6b/3df5820c412c99b6ae883976b9f8
+
 ---
 
-## 42202 — Lego Technic Motocykl Ducati Panigale V4 S 42202
+## 42202 — Motocykl Ducati Panigale V4 S
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 574.00 zł · EAN: 05702017816258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42202 |
+| Nazwa angielska | Ducati Panigale V4 S Motorcycle |
+| Nazwa polska | Motocykl Ducati Panigale V4 S |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1603 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816258, 5907213510546 |
 
 Motocykl Ducati Panigale V4 S
 
 Technic Motocykl Ducati Panigale V4 S LEGO® Technic Motocykl Ducati Panigale V4 S Zestaw LEGO® Technic Motocykl Ducati Panigale V4 S 42202 Pomysł na prezent dla fanów marki Ducati. Zbuduj szczegółową replikę stylowego motocykla Ducati Panigale V4 S na podstawce. Prezent dla dorosłych fanów motocykli Ducati Serce zabije Ci mocniej, kiedy zbudujesz zestaw dla dorosłych LEGO® Technic Motocykl Ducati Panigale V4 S (42202). Dzięki imponującym detalom i autentycznym funkcjom oddasz hołd Ducati Panigale V4 S — najszybszemu motocyklowi wyścigowemu o najwyższych osiągach w stajni Ducati.Przetestuj przednie i tylne zawieszenie oraz układ kierowniczy. Sprawdź pedał zmiany biegów z trzybiegową skrzynią (plus bieg jałowy). Zobacz, jak tylne koło napędza łańcuch, który łączy się ze skrzynią biegów i silnikiem V4. Kultowy czerwony kolor Ducati sprawia, że ten model będzie świetnym pomysłem na prezent dla fanów motocykli. W zestawie jest także podstawka do ekspozycji, dzięki czemu jednoślad można ustawić jako ozdobę.Spełnij marzenie o posiadaniu superwydajnej maszyny i ciesz się relaksującym projektem budowlanym dzięki kolekcji zestawów pojazdów LEGO Technic dla dorosłych. Do zestawu dołączono instrukcje, a w aplikacji LEGO Builder znajdziesz również ich cyfrową wersję. Styl. Elegancja. Imponujące osiągi. Ducati Panigale V4 S ma wszystko. Teraz możesz zbudować własną wersję tego supermotocykla dzięki zestawowi LEGO® Technic. Ciesz się projektem budowlanym, montując przednie i tylne zawieszenie oraz pedały zmiany biegów z trzybiegową skrzynią (plus bieg jałowy). Sprawdź układ kierowniczy, a następnie umieść swój model na półce, by oddać hołd marce Dukati. • Zestaw z motocyklem dla dorosłych — zestaw dla dorosłych LEGO® Technic Motocykl Ducati Panigale V4 S, wzorowany na najszybszym motocyklu Ducati, sprawi, że serce zabijce Ci mocniej • LEGO® Technic Motocykl Ducati Panigale V4 S — model jest pełen imponujących detali i autentycznych elementów, takich jak przednie i tylne zawieszenie oraz układ kierowniczy • Realistyczna skrzynia biegów — sprawdź pedał zmiany biegów z trzybiegową skrzynią (plus bieg jałowy) i użyj tylnego koła do napędzania łańcucha, który łączy się ze skrzynią biegów i silnikiem V4 • Pomysł na prezent — ten zestaw to pomysł na prezent lub upominek dla dorosłych, którzy lubią angażujące projekty konstrukcyjne, motocykle Ducati lub pojazdy.
 
+**Galeria:**
+
+- 42202-1: https://a.allegroimg.com/original/051632/767ed3ca4802884b2b49d0e0264f
+- 42202-2: https://a.allegroimg.com/original/1164c2/05262db345e797cf554564456f6f
+
 ---
 
-## 42203 — Lego Technic 42203 Wywrotka Z Przechylna Skrzynia Ciezarowka
+## 42203 — Wywrotka z przechylaną skrzynią
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 157.99 zł · EAN: 05702017816265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42203 |
+| Nazwa angielska | Tipping Dump Truck |
+| Nazwa polska | Wywrotka z przechylaną skrzynią |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 462 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm |
+| EAN | 5702017816265 |
 
 **KLOCKI LEGO CITY WYWROTKA Z PRZECHYLANĄ SKRZYNIĄ**
 
@@ -5068,11 +7434,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Wprowadzenie do świata inżynierii — zestawy i zabawki konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii
 - Wymiary — 462-elementowy zestaw z wywrotką ma 14 cm wysokości, 28 cm długości i 11 cm szerokości
 
+**Galeria:**
+
+- 42203-1: https://a.allegroimg.com/original/05b5e8/85eb14e142e8b8dcb0462e18cc92
+
 ---
 
-## 42204 — Lego Technic Fast and Furious Toyota Supra MK4 42204
+## 42204 — Fast and Furious Toyota Supra MK4
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017816272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42204 |
+| Nazwa angielska | Fast and Furious Toyota Supra MK4 |
+| Nazwa polska | Fast and Furious Toyota Supra MK4 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 810 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816272 |
 
 **LEGO Technic Fast and Furious Toyota Supra MK4 42204**
 
@@ -5096,11 +7478,27 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 
 • 810-elementowy zestaw z pojazdem LEGO® ma 30 cm długości
 
+**Galeria:**
+
+- 42204-1: https://a.allegroimg.com/original/11fb4b/886c1a5a4c09bfe882234313392b
+
 ---
 
-## 42205 — Lego Technic 42205 Chevrolet Corvette Stingray
+## 42205 — Chevrolet Corvette Stingray
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 184.98 zł · EAN: 05702017816289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42205 |
+| Nazwa angielska | Chevrolet Corvette Stingray |
+| Nazwa polska | Chevrolet Corvette Stingray |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm |
+| EAN | 5702017816289 |
 
 **LEGO Technic 42205 Chevrolet Corvette Stingray**
  
@@ -5135,11 +7533,26 @@ Dzięki zestawowi LEGO Technic Chevrolet Corvette Stingray (42205) dziewięciola
 - Wprowadzenie do świata inżynierii - modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii 
 - Wymiary - 732-elementowy zestaw z samochodem ma 8 cm wysokości, 27 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 42205-1: https://a.allegroimg.com/original/11197b/621c13934a4e83fb7a63001a0f94
+
 ---
 
-## 42206 — Lego Technic Bolid F1 Oracle Red Bull Racing RB20 42206
+## 42206 — Technic 42206 Oracle Red Bull Racing RB20 F1 Car
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 764.68 zł · EAN: 05702017816296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42206 |
+| Nazwa angielska | Oracle Red Bull Racing RB20 F1 Car |
+| Nazwa polska | Technic 42206 Oracle Red Bull Racing RB20 F1 Car |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1639 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816296 |
 
 **LEGO Technic Bolid F1 Oracle Red Bull Racing RB20 42206**
 
@@ -5161,11 +7574,26 @@ Odkryj satysfakcjonujące zestawy z pojazdami LEGO® Technic dla dorosłych (spr
 
 1639-elementowy zestaw z bolidem F1 LEGO® ma 63 cm długości
 
+**Galeria:**
+
+- 42206-1: https://a.allegroimg.com/original/11c6e0/3dc517e04b409c35b956168d18b1
+
 ---
 
-## 42207 — Lego 42207 Bolid F1 Ferrari SF-24
+## 42207 — Bolid F1 Ferrari SF-24
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 710.49 zł · EAN: 05702017816302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42207 |
+| Nazwa angielska | Ferrari SF-24 F1 Car |
+| Nazwa polska | Bolid F1 Ferrari SF-24 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816302 |
 
 LEGO Technic 42207 Bolid F1 Ferrari SF-24 dla dorosłych 18+ (1361 el.)
 
@@ -5235,11 +7663,27 @@ Kompatybilność
 
 ✅ Elementy można wykorzystać w innych konstrukcjach technicznych
 
+**Galeria:**
+
+- 42207-1: https://a.allegroimg.com/original/1189d8/c12f07124767aae0a403ae0d2f23
+
 ---
 
-## 42208 — Lego Technic 42208 Aston Martin Valkyrie Komplet Klocków 9+
+## 42208 — Aston Martin Valkyrie
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 174.86 zł · EAN: 05702017816319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42208 |
+| Nazwa angielska | Aston Martin Valkyrie |
+| Nazwa polska | Aston Martin Valkyrie |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 707 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816319 |
 
 Zainspirowany prawdziwym samochodem Aston Martin, ten zestaw zachwyci miłośników samochodów sportowych swoim charakterystycznym aerodynamicznym designem i przyciągającą wzrok kombinacją kolorów.
  
@@ -5261,11 +7705,27 @@ Zestaw stanowi doskonały prezent dla małych miłośników pojazdów. Dzieci mo
 - Liczba elementów: 707 
 - Nadaje się dla dzieci od 9 lat
 
+**Galeria:**
+
+- 42208-1: https://a.allegroimg.com/original/29efd2/305eb0d04632b5bd3803c2e8e035
+
 ---
 
-## 42209 — Lego Technic Ładowarka kołowa Volvo L120 Electric 42209
+## 42209 — Ładowarka kołowa Volvo L120 Electric
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 291.00 zł · EAN: 05702017816326 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42209 |
+| Nazwa angielska | Volvo L120 Electric Wheel Loader |
+| Nazwa polska | Ładowarka kołowa Volvo L120 Electric |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 973 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm |
+| EAN | 5702017816326 |
 
 LEGO Technic - Ładowarka kołowa Volvo L120 Electric 42209
 
@@ -5293,37 +7753,27 @@ Zestawy LEGO Technic zawierają realistyczne detale, które w przystępny sposó
 - Wprowadzenie do świata inżynierii — modele konstrukcyjne LEGO Technic (sprzedawane osobno) składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii
 - Wymiary — zestaw składający się z 973 elementów zawiera ładowarkę, która ma 14 cm wysokości, 35 cm długości i 11 cm szerokości
 
----
+**Galeria:**
 
-## 42210 — Lego Technic 42210 2 Szybcy i wściekli Samochód Nissan Skyline Gt-r (R34)
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017816333 · in stock*
-
-Naciśnij pedał na podłogę z zestawem samochodowym dla fanów filmów Szybcy i wściekli. Zestaw LEGO® Technic 2 Fast 2 Furious (42210) **Samochód Nissan Skyline GT-R** **(R34)** dla dorosłych jest pełen zabawnych funkcji, które oddają ducha tego kultowego samochodu.
- 
-**Zbuduj** autentyczne detale modelu, takie jak układ kierowniczy oraz przednie i tylne zawieszenie. Zajrzyj pod maskę i zobacz 6-cylindrowy silnik z ruchomymi tłokami. Dostosuj skrzydło i wypróbuj pierwszą w historii funkcję dryfowania w zestawach LEGO Technic, która podnosi samochód, dzięki czemu możesz przypomnieć sobie imponujące manewry z ulubionych scen wyścigowych. Otwórz drzwi i usiądź na fotelu kierowcy z 3 butelkami NOS. Ten zestaw to nieoczywisty element wystawy i wspaniały prezent dla fanów samochodów z filmów Szybcy i wściekli.
- 
-Drukowana instrukcja jest dołączona do opakowania, a cyfrową wersję instrukcji można również znaleźć w aplikacji LEGO Builder.
-
-**Specyfikacje**
- 
- 
-- Zestaw samochodowy z filmu Szybcy i wściekli dla dorosłych 
-- Szczegóły modelu obejmują układ kierowniczy, zawieszenie, regulowane skrzydło i 3 NOS 
-- Funkcja dryfowania samochodu podnosi samochód, dzięki czemu można wykonywać zabawne manewry 
-- Zbuduj szczegóły samochodu, takie jak 6-cylindrowy silnik z ruchomymi tłokami 
-- Kreatywny prezent dla dorosłych, którzy kochają przyciągające wzrok projekty i modele samochodów 
-- W aplikacji LEGO® Builder znajdziesz cyfrową wersję instrukcji budowania 
-- Wzbogacający zestaw pojazdów LEGO® Technic dla dorosłych (sprzedawany oddzielnie) 
-- Model samochodu LEGO® Technic ma ponad 41 cm długości 
-- Liczba elementów: 1410 
-- Nadaje się od 18 lat
+- 42209-1: https://a.allegroimg.com/original/110aaa/862afacf46f58ba4e42c9d2ee862
 
 ---
 
-## 42211 — Lego 42211 Technic Kosmiczny Łazik Księżycowy Lunar Outpost klocki Nowe
+## 42211 — Kosmiczny łazik księżycowy Lunar Outpost
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 299.89 zł · EAN: 05702017816340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42211 |
+| Nazwa angielska | Lunar Outpost Moon Rover Space Vehicle |
+| Nazwa polska | Kosmiczny łazik księżycowy Lunar Outpost |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1082 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm |
+| EAN | 5702017816340 |
 
 Klocki LEGO Technic 42211 - Kosmiczny łazik księżycowy Lunar Outpost
 
@@ -5348,11 +7798,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 42211-1: https://a.allegroimg.com/original/11cc52/110ebbe24d81bd700990c2864793
+
 ---
 
-## 42212 — Klocki Lego 42212 Technic Ferrari Fxx K 897 elementów 10 lat
+## 42212 — Ferrari FXX K
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 164.98 zł · EAN: 05702017816357 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42212 |
+| Nazwa angielska | Ferrari FXX K |
+| Nazwa polska | Ferrari FXX K |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 897 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816357 |
 
 Ferrari FXX K
 
@@ -5390,11 +7855,26 @@ Zestawy pojazdów LEGO Technic charakteryzują się realistycznymi ruchami, dzi�
 
 • Zapisuj postępy, przybliżaj i obracaj model w 3D dzięki aplikacji LEGO® Builder • Zestawy LEGO Technic mają realistyczne mechanizmy i poruszają się jak prawdziwe pojazdy
 
+**Galeria:**
+
+- 42212-1: https://a.allegroimg.com/original/11a83f/b5217a8945e1970c3bac11898b3e
+
 ---
 
-## 42213 — Lego Technic 42213 Suv Ford Bronco
+## 42213 — TECHNIC 42213 SUV Ford Bronco
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 193.79 zł · EAN: 05702017816364 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42213 |
+| Nazwa angielska | Ford Bronco SUV |
+| Nazwa polska | TECHNIC 42213 SUV Ford Bronco |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 943 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816364 |
 
 Lego SUV Ford Bronco®
 
@@ -5404,11 +7884,26 @@ Dzieci mogą kierować LEGO SUV-em, obracając koło zapasowe z tyłu pojazdu LE
  
 Te klocki LEGO Technic to zabawka konstrukcyjna i edukacyjna, w sam raz dla małych inżynierów i miłośników modeli samochodów. Dzięki aplikacji LEGO Builder dzieci mogą łatwo budować, przybliżać i obracać model LEGO Forda w 3D, zapisywać swoje zestawy i śledzić postępy. Zabawka konstrukcyjna zawiera 943 elementy.
 
+**Galeria:**
+
+- 42213-1: https://a.allegroimg.com/original/05758c/1592ecbc499ab08331561b6b0b98
+
 ---
 
-## 42214 — Lego Technic 42214 Supersamochód Lamborghini Revuelto
+## 42214 — Technic 42214 Lamborghini Revuelto
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 534.95 zł · EAN: 05702017816371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42214 |
+| Nazwa angielska | Lamborghini Revuelto Super Sports Car |
+| Nazwa polska | Technic 42214 Lamborghini Revuelto |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 17 cm |
+| EAN | 5702017816371 |
 
 **LEGO TECHNIC 42214 SUPERSAMOCHÓD LAMBORGHINI REVUELTO**
 
@@ -5430,21 +7925,53 @@ Wprowadzenie do świata inżynierii modele konstrukcyjne LEGO Technic składają
 
 Wymiary 1135-elementowy zestaw z modelem ma 9 cm wysokości, 40 cm długości i 17 cm szerokości
 
+**Galeria:**
+
+- 42214-1: https://a.allegroimg.com/original/11f4a2/c6fd242348bdb719e8ab21e069a9
+
 ---
 
-## 42215 — Lego Technic 42215 Klocki Volvo EC500 Hybrydowa koparka
+## 42215 — Koparka Volvo EC500 Hybrid
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1218.00 zł · EAN: 05702017816388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42215 |
+| Nazwa angielska | Volvo EC500 Hybrid Excavator |
+| Nazwa polska | Koparka Volvo EC500 Hybrid |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816388 |
 
 Koparka Volvo EC500 Hybrid
 
 Technic LEGO Technic Koparka Volvo EC500 Hybrid, zmechanizowany pojazd budowlany, zestaw konstrukcyjny dla dorosłych, model kolekcjonerski, pomysł na prezent dla mężczyzn i kobiet, ozdoba do salonu 42215 koparka na pilota maszyna budowlana lego mechaniczne mąż żona tata dzień ojca imieniny urodziny upominek gadżety motoryzacja technik robotyka majsterkowanie STEM zabawki nastolatki 18 40 samochody buldożer dźwig traktor john deere harwester Volvo EC500 Hybrid Excavator LEGO® Technic Koparka Volvo EC500 Hybrid Zestaw LEGO® Technic Koparka Volvo EC500 Hybrid 42215 Stwórz pojazd hybrydowy z wymiennymi narzędziami, łyżką i młotem. Zestaw ten będzie świetnym prezentem dla dorosłych. Pomysł na prezent dla dorosłych fanów pojazdów budowlanych Zrelaksuj się przy projekcie konstrukcyjnym, budując szczegóły zestawu dla dorosłych LEGO® Technic Koparka Volvo EC500 Hybrid (42215). Budowa to dopiero początek wspaniałej przygody z tym pełnym funkcji pojazdem. Przetestuj swoją koparkę ze zmechanizowanymi funkcjami i przekładnią, aby odkryć jej możliwości. Użyj dźwigni, aby wybrać jedną z czterech funkcji, które poruszają wysięgnikiem i ramieniem koparki oraz narzędziami LEGO — młotem i łyżką. Funkcje ręczne obejmują otwierane drzwi kabiny, ruchome gąsienice i obracającą się kabinę koparki.Dzięki realistycznym ruchom zestaw ten będzie świetnym prezentem dla dorosłych, którzy lubią budować zaawansowane zestawy LEGO lub pojazdy budowlane.Spełnij marzenie o posiadaniu superwydajnej maszyny i ciesz się relaksującym projektem budowlanym dzięki kolekcji zestawów pojazdów LEGO Technic dla dorosłych. Do zestawu dołączono instrukcje, a w aplikacji LEGO Builder znajdziesz również ich cyfrową wersję. Zestaw zawiera 2359 elementów. Stwórz satysfakcjonujący projekt, ożywiając szczegóły tego imponującego modelu koparki Volvo EC500 Hybrid. Ten zestaw konstrukcyjny dla dorosłych jest pełen funkcji, które zachwycą fanów potężnych pojazdów. Użyj dźwigni, aby poruszać wysięgnikiem, ramieniem, młotem i łyżką koparki. Funkcje ręczne obejmują otwierane drzwi kabiny, ruchome gąsienice i obracającą się kabinę koparki.
 
+**Galeria:**
+
+- 42215-1: https://a.allegroimg.com/original/059c14/0b4f184e4780898db89e1ad08b69
+
 ---
 
-## 42217 — klocki Lego Technic 42217 Niebieski Chevrolet Corvette Stingray Samochód
+## 42217 — Niebieski Chevrolet Corvette Stingray
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 237.97 zł · EAN: 05702017824550 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42217 |
+| Nazwa angielska | Chevrolet Corvette Stingray Blue |
+| Nazwa polska | Niebieski Chevrolet Corvette Stingray |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm |
+| EAN | 5702017824550 |
 
 LEGO® Technic 42217 - Niebieski Chevrolet Corvette Stingray
 
@@ -5464,11 +7991,26 @@ Dzięki aplikacji LEGO Builder dzieci mogą cieszyć się łatwym i intuicyjnym 
 - Wprowadzenie do świata inżynierii — modele konstrukcyjne LEGO Technic (sprzedawane osobno) składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii
 - Wymiary — 732-elementowy zestaw z samochodem ma 8 cm wysokości, 27 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 42217-1: https://a.allegroimg.com/original/050e91/163aaaeb42c08f9d59b400c5bd1b
+
 ---
 
-## 42218 — Lego Technic 42218 Harwester kołowy John Deere 1470H
+## 42218 — LEGO Technic 42218 Harwester kołowy John Deere 1470H
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702018035016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42218 |
+| Nazwa angielska | John Deere 1470H Wheeled Harvester |
+| Nazwa polska | LEGO Technic 42218 Harwester kołowy John Deere 1470H |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 117 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 5 cm |
+| EAN | 5702018035016 |
 
 Zainspiruj chłopców i dziewczynki od 7 lat do leśnych przygód z zestawem LEGO® Technic **Kombajn John Deere 1470H **(42218). Ten pojazd jest wyposażony w mnóstwo funkcji, które zachwycą małych fanów marki John Deere. Przyjrzyj się ramieniu obracającemu się o 180 stopni, a następnie przejdź do akcji: dzieci mogą otwierać i zamykać chwytak, aby podnosić i opuszczać kłody. Ta zabawka edukacyjna STEM posiada również specjalne zawieszenie i przegubowe sterowanie, które dzieci mogą przetestować. Dzięki przyciągającej wzrok kolorystyce w zielonych, czarnych i żółtych barwach John Deere, ten zestaw stanowi zabawną zabawkę, którą dzieci będą się bawić godzinami.
  
@@ -5488,11 +8030,26 @@ Zestawy LEGO Technic posiadają realistyczne mechanizmy i funkcje ruchu, które 
 - Liczba elementów: 117 
 - Dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42218-1: https://a.allegroimg.com/original/299964/fad9f63b42e390fa23efbe7f8a65
+
 ---
 
-## 42219 — Lego 42219 Technic Zestaw Monster Jam Grave Digger Ogień i lód 7+ 263pcs
+## 42219 — LEGO Technic 42219 Monster Jam Grave Digger Ogień i lód
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 71.34 zł · EAN: 05702018035023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42219 |
+| Nazwa angielska | Monster Jam Grave Digger Fire and Ice |
+| Nazwa polska | LEGO Technic 42219 Monster Jam Grave Digger Ogień i lód |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 263 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702018035023 |
 
 Rozpocznij godziny ekscytującej zabawy z nakręcaną ciężarówką Monster Jam™ dla chłopców i dziewczynek od 7 lat. Poruszaj monster truck LEGO® Technic **Monster Jam™ Grave Digger™ Ogień i lód** (42219) za pomocą nakręcanego silnika. Przygotuj się na emocjonującą grę, podczas której mali miłośnicy monster trucków mogą naśladować swoje ulubione sztuczki i akrobacje z areny Monster Jam.
  
@@ -5514,11 +8071,26 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i funkcje ruchu, które z ła
 - Liczba elementów: 263 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42219-1: https://a.allegroimg.com/original/2939dc/0240ac794c988c5322ab732831e1
+
 ---
 
-## 42220 — Lego Technic 42220 Monster Jam Sparkle Smash z napędem typu pull-back
+## 42220 — LEGO Technic 42220 Monster Jam Sparkle Smash z napędem typu pull-back
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 75.15 zł · EAN: 05702018034804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42220 |
+| Nazwa angielska | Monster Jam  Sparkle Smash Pull-Back |
+| Nazwa polska | LEGO Technic 42220 Monster Jam Sparkle Smash z napędem typu pull-back |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 11 cm |
+| EAN | 5702018034804 |
 
 Przypomnij sobie ekscytującą akcję Monster Jam™ z tą zabawką dla dziewczynek i chłopców od 7 lat. Skorzystaj z niesamowitej funkcji naciągania, ruszaj ciężarówką Sparkle Smash™ (42220) na pełnych obrotach i naśladuj niesamowite akrobacje, które wykonują legendarne monster trucki.
  
@@ -5540,54 +8112,26 @@ Zestawy LEGO Technic mają realistyczne mechanizmy i funkcje ruchu, które z ła
 - Liczba elementów: 243 
 - Nadaje się dla dzieci od 7 lat
 
----
+**Galeria:**
 
-## 42221 — Klocki Lego Technic 42221 Rakieta Sls Nasa Artemis
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 181.99 zł · EAN: 05702018067499 · in stock*
-
-LEGO TECHNIC
-
-Rakieta SLS NASA Artemis
-
-42221
-
-Wyrusz w odkrywczą podróż dzięki zestawowi z Rakietą SLS NASA Artemis (42221) dla chłopców, dziewczynek i dzieci w wieku od dziewięciu lat.
-
-Zestaw edukacyjny LEGO® Technic przedstawia moment startu rakiety w trzech etapach. Obróć korbką, aby zobaczyć, jak rakiety nośne odłączają się od stopnia głównego, który następnie również się odłącza. Kontynuuj obracanie, aby obejrzeć odłączenie górnego stopnia wraz z modułem silnika, statkiem kosmicznym Orion i systemem ratunkowym. Ten zestaw z rakietą do zbudowania został opracowany we współpracy z NASA i ESA. Dzięki temu dzieci mogą poznać system startowy, który wyśle statek kosmiczny Orion na orbitę księżycową. Zestaw zawiera cztery nanofigurki astronautów, ciekawe detale w postaci niebieskich płomieni oraz tabliczkę informacyjną, dzięki której można stworzyć atrakcyjną ozdobę.
-
-**Ten zestaw konstrukcyjny LEGO Technic to świetny prezent dla miłośników kosmosu. Dzieci mogą budować z pewnością siebie, korzystając z aplikacji LEGO Builder, w której można powiększać modele, obracać je w 3D i śledzić postępy dzięki prostym instrukcjom cyfrowym. Zestaw składa się z 632 elementów.**
-
-Cechy zestawu:
-
-- **Zbuduj system startowy** — uchwyć moment startu rakiety dzięki zestawowi LEGO® Technic Rakieta SLS NASA Artemis (42221) dla chłopców, dziewczynek i dzieci w wieku od dziewięciu lat
-- **Odtwórz proces odłączania stopni** — ten edukacyjny zestaw pokazuje, jak rakieta rozdziela się podczas startu, gdy dzieci obracają korbką, aby zobaczyć start w trzech odrębnych etapach
-- **Stworzone we współpracy z NASA** — ten zestaw z rakietą do zbudowania został opracowany we współpracy z NASA i ESA. Dzięki temu dzieci mogą poznać system startowy, który wyśle statek kosmiczny Orion na orbitę księżycową
-- **Cztery nanofigurki astronautów** — ten kosmiczny zestaw LEGO® Technic zawiera cztery nanofigurki astronautów oraz tabliczkę informacyjną, więc dzieci mogą stworzyć ciekawą dekorację
-- **Pomysł na prezent **— ten zestaw konstrukcyjny LEGO® Technic to świetny prezent dla chłopców, dziewczynek i miłośników kosmosu w wieku od dziewięciu lat, którzy chcieliby zbudować model przedstawiający etapy startu rakiety
-- **Odkryj więcej zestawów** — sprawdź inne ekscytujące zabawki z zestawów LEGO® Technic (sprzedawane osobno), które odzwierciedlają realistyczne ruchy i mechanizmy, by inspirować młodych konstruktorów
-- **Ciekawy sposób na budowanie** — aplikacja LEGO® Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki trójwymiarowym instrukcjom
-- **Wymiary** — zestaw składający się z 632 elementów zawiera model o wysokości 70 cm, długości 16 cm i szerokości 8 cm, gdy rakieta znajduje się na górze.
-
-Specyfikacja zestawu:
-
-- **Numer katalogowy: **LEGO 42221
-
-- **Seria: **LEGO Technic
-
-- **Liczba elementów: **632
-
-- **Rok wydania: **2026 (1.01.2026)
-
-- **Wiek dziecka:** od 9 lat
-
-- **Płeć dziecka:** chłopcy i dziewczynki
+- 42220-1: https://a.allegroimg.com/original/29d684/204ba5ca49178643bae40b06c5de
 
 ---
 
-## 42222 — Lego Technic 42222 Hipersamochód Bugatti Chiron Pur Sport, Dzień Dziecka
+## 42222 — LEGO Technic 42222 Hipersamochód Bugatti Chiron Pur Sport
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 213.91 zł · EAN: 05702018067505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42222 |
+| Nazwa angielska | Bugatti Chiron Pur Sport Hypercar |
+| Nazwa polska | LEGO Technic 42222 Hipersamochód Bugatti Chiron Pur Sport |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 771 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702018067505 |
 
 LEGO Technic 42222 Hipersamochód Bugatti Chiron Pur Sport
 
@@ -5605,11 +8149,26 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 - Odkryj więcej zestawów — sprawdź inne ekscytujące zabawki z zestawów LEGO® Technic (sprzedawane osobno), które odzwierciedlają realistyczne ruchy i mechanizmy, by inspirować młodych konstruktorów.
 - Wymiary — 771-elementowy zestaw z modelem samochodu ma 8 cm wysokości, 29 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 42222-1: https://a.allegroimg.com/original/296eb9/f47c6b7a445482cc22433c9cafb3
+
 ---
 
-## 42223 — Lego Technic 42223 Samochód Wyścigowy 1966 Ford GT40 Mkii
+## 42223 — LEGO Technic 42223 Samochód wyścigowy 1966 Ford GT40 MKII
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 218.45 zł · EAN: 05702018067048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42223 |
+| Nazwa angielska | 1966 Ford GT40 MKII Race Car |
+| Nazwa polska | LEGO Technic 42223 Samochód wyścigowy 1966 Ford GT40 MKII |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 793 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702018067048 |
 
 Wyrusz na zwycięstwo i świętuj ikonę motoryzacji z modelem LEGO® Technic Samochód wyścigowy 1966 Ford GT40 MKII (42223) dla dorosłych. Miłośnicy samochodów, wyścigów i entuzjaści budowania w wieku od 18 lat tchną życie w najbardziej prestiżowy wyścig wytrzymałościowy na świecie dzięki tej realistycznej wersji kultowego weterana.
 
@@ -5640,11 +8199,26 @@ Wybierz się na przejażdżkę napędzaną pragnieniem zestawów potężnych poj
  
 - Nadaje się od 18 lat
 
+**Galeria:**
+
+- 42223-1: https://a.allegroimg.com/original/29aaf9/d6013bc6463da3c67a7dd57a6bab
+
 ---
 
-## 42224 — Lego Technic 42224 Samochód Porsche 911 GT3 R Rexy Ao Racing
+## 42224 — LEGO Technic 42224 Samochód Porsche 911 GT3 R REXY AO Racing
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018067062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42224 |
+| Nazwa angielska | Porsche 911 GT3 R REXY AO Racing Car |
+| Nazwa polska | LEGO Technic 42224 Samochód Porsche 911 GT3 R REXY AO Racing |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 16 cm |
+| EAN | 5702018067062 |
 
 Rozpędź ekscytującą zabawę dzięki temu samochodowi wyścigowemu z motywem dinozaura dla dzieci w wieku od 11 lat. Model LEGO® Technic **Porsche 911 GT3 R REXY AO Racing** (42224) jest pełen ciekawych detali i stworzony dla chłopców i dziewczynek, którzy kochają akcję na torze.
  
@@ -5666,11 +8240,26 @@ Zestaw to świetny prezent dla miłośników dinozaurów i samochodów. Zestawy 
 - Liczba elementów: 1313 
 - Dla dzieci w wieku od 11 lat
 
+**Galeria:**
+
+- 42224-1: https://a.allegroimg.com/original/29f2c7/5d32924b4b12b35f89fef8ca838f
+
 ---
 
-## 42225 — Lego Technic 42225 Żółty motocykl
+## 42225 — LEGO Technic 42225 Żółty motocykl
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 29.93 zł · EAN: 05702018069356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42225 |
+| Nazwa angielska | Yellow Motorcycle |
+| Nazwa polska | LEGO Technic 42225 Żółty motocykl |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702018069356 |
 
 **LEGO Technic 42225 Żółty motocykl**
  
@@ -5700,11 +8289,26 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
  
 •
 
+**Galeria:**
+
+- 42225-1: https://a.allegroimg.com/original/05154b/c42649d942c0866a2eed6a3db0e8
+
 ---
 
-## 42226 — Lego Technic Samochód wyścigowy Bmw M4 GT3 Evo 42226
+## 42226 — LEGO Technic 42226 Samochód wyścigowy BMW M4 GT3 EVO
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018067680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42226 |
+| Nazwa angielska | BMW M4 GT3 EVO Race Car |
+| Nazwa polska | LEGO Technic 42226 Samochód wyścigowy BMW M4 GT3 EVO |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 747 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702018067680 |
 
 **LEGO Technic 42226 Samochód wyścigowy BMW M4 GT3 EVO**
 
@@ -5730,11 +8334,26 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 
 • Wymiary — 747-elementowy zestaw z modelem samochodu BMW ma 8 cm wysokości, 29 cm długości i 13 cm szerokości
 
+**Galeria:**
+
+- 42226-1: https://a.allegroimg.com/original/056ce7/8fe528cf4dc1ab975dad0b50839c
+
 ---
 
-## 42227 — Lego Technic 42227 Suv Jeep Wrangler Rubicon
+## 42227 — LEGO Technic 42227 SUV Jeep Wrangler Rubicon
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 199.98 zł · EAN: 05702018065532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42227 |
+| Nazwa angielska | Jeep Wrangler Rubicon SUV |
+| Nazwa polska | LEGO Technic 42227 SUV Jeep Wrangler Rubicon |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 723 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm |
+| EAN | 5702018065532 |
 
 **LEGO Technic 42227 SUV Jeep Wrangler Rubicon**
  
@@ -5760,11 +8379,26 @@ Zabawki LEGO Technic składają się z realistycznie poruszających się mechani
  
 • Wymiary — LEGO® Jeep® w tym 723-elementowym zestawie ma 15 cm wysokości, 26 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 42227-1: https://a.allegroimg.com/original/052694/811c34914019ad8e8d8e0b8a83b1
+
 ---
 
-## 42228 — Lego Technic 42228 Bolid McLaren MCL39 F1
+## 42228 — LEGO Technic 42228 Bolid McLaren MCL39 F1
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 639.00 zł · EAN: 05702018067697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42228 |
+| Nazwa angielska | McLaren MCL39 F1 Car |
+| Nazwa polska | LEGO Technic 42228 Bolid McLaren MCL39 F1 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1675 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018067697 |
 
 **LEGO Technic Bolid McLaren MCL39 F1 42228**
 
@@ -5774,11 +8408,26 @@ Złóż elementy bolidu McLaren MCL39 F1® z 2025 roku, budując układ kierowni
 
 Zbuduj swoją wymarzoną kolekcję pojazdów LEGO Technic dla dorosłych (każdy sprzedawany osobno). Poznaj inny wymiar budowania dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, przeglądać instrukcje w 3D, a także zapisywać i śledzić swoje postępy. Zestaw składa się z 1675 elementów.
 
+**Galeria:**
+
+- 42228-1: https://a.allegroimg.com/original/11a732/c9b2546646279f53ca240763741c
+
 ---
 
-## 42229 — Lego Technic 42229 Samochód Mitsubishi Eclipse z serii Szybcy i wściekli
+## 42229 — Samochód Fast and Furious Mitsubishi Eclipse
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 193.27 zł · EAN: 05702018067703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42229 |
+| Nazwa angielska | Fast and Furious Mitsubishi Eclipse Car |
+| Nazwa polska | Samochód Fast and Furious Mitsubishi Eclipse |
+| Seria | Technic |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 827 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 13 cm |
+| EAN | 5702018067703 |
 
 LEGO Technic 42229 Samochód Fast and Furious Mitsubishi Eclipse
  
@@ -5800,11 +8449,26 @@ Zestawy LEGO Technic obejmują realistycznie poruszające się mechanizmy, któr
 - Intuicyjne instrukcje — aplikacja LEGO® Builder poprowadzi przez budowanie. Konstruktorzy mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki trójwymiarowym instrukcjom. 
 - Wymiary — 827-elementowy zestaw z modelem samochodu ma 9 cm wysokości, 31 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 42229-1: https://a.allegroimg.com/original/11087d/d3a2b75e40d6bd7223b54cc68f9b
+
 ---
 
-## 42231 — Lego Technic 42151 Bugatti Bolide
+## 42231 — Samochód Fast and Furious Dodge Charger R/T
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702018067710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42231 |
+| Nazwa angielska | Fast and Furious Dodge Charger R/T Car |
+| Nazwa polska | Samochód Fast and Furious Dodge Charger R/T |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1516 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702018067710 |
 
 Klocki LEGO Technic 42151 - Bugatti Bolide
 
@@ -5835,11 +8499,26 @@ O zestawie
 
 Galeria zestawu:
 
+**Galeria:**
+
+- 42231-1: https://a.allegroimg.com/original/11b24e/7657be934797a0e78f8ad2dbe7a4
+
 ---
 
-## 42232 — Lego Technic 42232 Koenigsegg Sadair's Spear Megacar
+## 42232 — Koenigsegg Sadair's Spear Megacar
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1900.00 zł · EAN: 05702018067086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42232 |
+| Nazwa angielska | Koenigsegg Sadair's Spear Megacar |
+| Nazwa polska | Koenigsegg Sadair's Spear Megacar |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 4104 |
+| Cena katalogowa | 1949.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 28 cm |
+| EAN | 5702018067086 |
 
 LEGO Technic 42232 Koenigsegg Sadair's Spear Megacar
 
@@ -5863,11 +8542,27 @@ Spełnij swoje marzenie o budowaniu superszybkich pojazdów dzięki gamie kolekc
 - **Instrukcje budowania w 3D** — dzięki aplikacji LEGO® Builder możesz budować modele, korzystając z instrukcji 3D, śledzić swoje postępy i zapisywać wszystkie zestawy. 
 - **Wymiary** — 4104-elementowy zestaw z modelem samochodu ma 15 cm wysokości, 59 cm długości i 28 cm szerokości.
 
+**Galeria:**
+
+- 42232-1: https://a.allegroimg.com/original/1143b6/1bf89f1e400f93dc01c3811c5014
+
 ---
 
-## 42233 — Lego Technic 42233 Potężne Maszyny
+## 42233 — Potężne maszyny
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702018067512 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42233 |
+| Nazwa angielska | Road Roller |
+| Nazwa polska | Potężne maszyny |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 44 |
+| Cena katalogowa | 20.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067512 |
 
 Mnóstwo inspiracji i przygód na budowie czeka na dzieci w pudełku z niespodzianką, które skrywa jeden z modeli LEGO Technic Potężne maszyny (42233). Te zestawy z niespodzianką to świetny prezent dla chłopców i dziewczynek od 7 lat, dzięki któremu mogą złożyć i wyeksponować kolekcjonerski model pojazdu.
 
@@ -5879,11 +8574,26 @@ Specyfikacja
 
 KOLEKCJONERSKI POJAZD Zachwyć dzieci, które kochają pojazdy i klocki, zestawem LEGO Technic Potężne maszyny (42233) z niespodzianką dla chłopców i dziewczynek od 7 latODKRYJ 8 MASZYN Każde pudełko z niespodzianką zawiera 1 zabawkę, w tym walec drogowy, ładowarkę kołową, wywrotkę, betoniarkę, dźwig z kulą do wyburzeń, dźwig samojezdny, spychacz lub koparkęZABAWNE FUNKCJE Każdy model wyposażony jest we własną ruchomą funkcję LEGO Technic, która przybliża dzieciom podstawowe procedury techniczne podczas budowaniaZAWIERA KARTY DO GRY Każde pudełko z niespodzianką zawiera 1 kartę do gry z ciekawymi informacjami i obrazkiem drogi, z którymi dzieci mogą zagrać w szybką grę z przyjaciółmi, jednocześnie tworząc kolekcjęPOMYSŁ NA PREZENT DLA DZIECI Zachwyć małych budowniczych tym prezentem dla chłopców i dziewczynek, dzięki któremu mogą złożyć model i wymyślić historię ze swoją własną potężną maszynąBUDUJ, BAW SIĘ I EKSPOONU Zestawy pojazdów budowlanych LEGO Technic pobudzają do odgrywania ról i świetnie uzupełnią dziecięcą kolekcję samochodzików na półce, stoliku nocnym lub biurkuPUDEŁKA Z NIESPODZIANKĄ Każdy kolekcjonerski pojazd jest zapakowany we własne opakowanie, w którym dzieci znajdą 1 model, 1 kartę do gry i instrukcję montażuPRAKTYCZNY POMOCNIK Odkryj cyfrową instrukcję w aplikacji LEGO Builder, gdzie dzieci mogą przybliżać i obracać swoje modele w 3D, śledzić postępy i zapisywać zestawy. Pomoże im to w rozwijaniu nowych umiejętności
 
+**Galeria:**
+
+- 42233-1: https://a.allegroimg.com/original/1117ff/3639d9284c41a44866628c08ad0c
+
 ---
 
-## 42234 — Lego Technic Samochód sportowy Dodge Viper Gts-r 42234
+## 42234 — Samochód sportowy Dodge Viper GTS-R
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 208.55 zł · EAN: 05702018067543 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42234 |
+| Nazwa angielska | Dodge Viper GTS-R Sports Car |
+| Nazwa polska | Samochód sportowy Dodge Viper GTS-R |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 805 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067543 |
 
 **LEGO Technic Samochód sportowy Dodge Viper GTS-R 42234**
 
@@ -5909,11 +8619,26 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 805-elementowy model ma 30 cm długości
 
+**Galeria:**
+
+- 42234-1: https://a.allegroimg.com/original/111d43/7cab484c41838b41d2c934d95ad9
+
 ---
 
-## 42235 — Lego Technic Samochód Ferrari 488 Pista 42235
+## 42235 — Samochód Ferrari 488 Pista
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 209.54 zł · EAN: 05702018067727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42235 |
+| Nazwa angielska | Ferrari 488 PISTA Car |
+| Nazwa polska | Samochód Ferrari 488 Pista |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 882 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067727 |
 
 **LEGO Technic Samochód Ferrari 488 PISTA 42235**
 
@@ -5939,11 +8664,26 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 882-elementowy model samochodu ma 28 cm długości
 
+**Galeria:**
+
+- 42235-1: https://a.allegroimg.com/original/115649/6206378a43789c855efc26fd356d
+
 ---
 
-## 42236 — Lego Technic Warsztat tuningowy: samochód Ford Mustang Gt 42236
+## 42236 — Warsztat tuningowy: samochód Ford Mustang GT
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018067567 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42236 |
+| Nazwa angielska | Custom Garage Ford Mustang GT Car |
+| Nazwa polska | Warsztat tuningowy: samochód Ford Mustang GT |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 973 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067567 |
 
 **LEGO Technic Warsztat tuningowy: samochód Ford Mustang GT 42236**
 
@@ -5969,11 +8709,26 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 973-elementowy zestaw z samochodem w standardowej wersji ma długość 27 cm
 
+**Galeria:**
+
+- 42236-1: https://a.allegroimg.com/original/11fa53/3bf27b25422d935bb0fee257b474
+
 ---
 
-## 42238 — Lego Technic Motocykl Ducati Desmo450 MX Factory 42238
+## 42238 — Motocykl Ducati Desmo450 MX Factory
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 161.37 zł · EAN: 05702018067772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42238 |
+| Nazwa angielska | Ducati Desmo450 MX Factory Motorcycle |
+| Nazwa polska | Motocykl Ducati Desmo450 MX Factory |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 457 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067772 |
 
 **LEGO Technic Motocykl Ducati Desmo450 MX Factory 42238**
 
@@ -5999,11 +8754,26 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 457-elementowy model z motocyklem ma 31 cm długości
 
+**Galeria:**
+
+- 42238-1: https://a.allegroimg.com/original/113094/69ee314f48769bdd3fc6174b2aff
+
 ---
 
-## 42239 — Lego Technic 42239 Batmobil Tumbler
+## 42239 — Batmobile Tumbler
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702018067789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42239 |
+| Nazwa angielska | Batmobile Tumbler |
+| Nazwa polska | Batmobile Tumbler |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 719 |
+| Cena katalogowa | 819.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm |
+| EAN | 5702018067789 |
 
 LEGO Technic 42239 Batmobile Tumbler
  
@@ -6024,11 +8794,26 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 - TRÓJWYMIAROWE INSTRUKCJE BUDOWANIA — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy. 
 - WYMIARY — 719-elementowy zestaw z modelem Batmobilu ma 11 cm wysokości, 31 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 42239-1: https://a.allegroimg.com/original/119219/ed6cc5334b1ea0ca6d4bc7196ccb
+
 ---
 
-## 42240 — Lego Technic Bolid F1 Aston Martin Aramco AMR25 42240
+## 42240 — Bolid F1 Aston Martin Aramco AMR25
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 775.99 zł · EAN: 05702018067796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42240 |
+| Nazwa angielska | Aston Martin Aramco AMR25 F1 Car |
+| Nazwa polska | Bolid F1 Aston Martin Aramco AMR25 |
+| Seria | Technic |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1547 |
+| Cena katalogowa | 999.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067796 |
 
 **LEGO Technic Bolid F1 Aston Martin Aramco AMR25 42240**
 
@@ -6054,11 +8839,26 @@ Zapisuj zestawy, powiększaj je i obracaj dzięki instrukcjom budowania 3D
 
 1547-elementowy zestaw zawiera bolid LEGO® F1® o długości 61 cm
 
+**Galeria:**
+
+- 42240-1: https://a.allegroimg.com/original/1117b4/b10d1a2b4b8dba37ea79fdb31ddf
+
 ---
 
-## 42241 — Lego Technic Zielony hipersamochód Bugatti Chiron Pur Sport 42241
+## 42241 — Zielony hipersamochód Bugatti Chiron Pur Sport
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 229.99 zł · EAN: 05702018069776 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42241 |
+| Nazwa angielska | Green Bugatti Chiron Pur Sport Hypercar |
+| Nazwa polska | Zielony hipersamochód Bugatti Chiron Pur Sport |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 771 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069776 |
 
 **LEGO Technic Zielony hipersamochód Bugatti Chiron Pur Sport 42241**
 
@@ -6084,11 +8884,26 @@ Intuicyjna aplikacja LEGO® Builder zapewni dzieciom niezwykłą radość z budo
 
 771-elementowy model ma 29 cm długości
 
+**Galeria:**
+
+- 42241-1: https://a.allegroimg.com/original/119ea1/7332bf62420fb15752fe40fdedf9
+
 ---
 
-## 42242 — Lego Technic 42242 Mercedes-Benz Unimog U 5023 z dźwigiem
+## 42242 — Mercedes-Benz Unimog U 5023 z dźwigiem
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702018069806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42242 |
+| Nazwa angielska | Mercedes-Benz Unimog U 5023 with Crane |
+| Nazwa polska | Mercedes-Benz Unimog U 5023 z dźwigiem |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1189 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 13 cm |
+| EAN | 5702018069806 |
 
 LEGO Technic 42242 Mercedes-Benz Unimog U 5023 z dźwigiem
 
@@ -6108,93 +8923,26 @@ Zestawy LEGO Technic składają się z realistycznie poruszających się mechani
 - **POMOC W BUDOWANIU** — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy.
 - **Wymiary** — 1189-elementowy zestaw z modelem samochodu z dźwigiem ma 18 cm wysokości, 31 cm długości i 13 cm szerokości.
 
----
+**Galeria:**
 
-## 60374 — Lego City Terenowy pojazd Straży Pożarnej Zestaw 60374 Nowe Klocki Lego
-
-*Kategoria: Technic · cena Allegro (2026-08-17): 314.89 zł · EAN: 05709976473362 · in stock*
-
-✨ LEGO CITY Terenowy pojazd STRAŻY POŻARNEJ ZESTAW 60374 NOWE KLOCKI LEGO ✨
-
-⭐ DLACZEGO TEN ZESTAW?
-
-**❤️ Święta 2024!** Bestseller każdego okresu świątecznego, spraw dziecku radość przez **każdy dzień!**
-
-**❤️ Cechy i funkcje** – wóz strażacki ma ruchomy dźwig, a dzieci mogą użyć gaśnicy i drona, aby wyrzucić elementy gaszące
-
-**❤️ Szukasz prezentu dla dzieci?** – Spraw, by urodziny, święta lub inne okazje były wyjątkowe dzięki temu zestawowi dla dzieci w wieku od siedem lat, które uwielbiają strażackie zestawy
-
-**❤️ Modele do zabawy i ustawienia na półce** – po złożeniu terenowy pojazd straży pożarnej ma 12 cm wysokości, 26 cm długości i 6 cm szerokości
-
-**❤️ W komplecie akcesoria dla minifigurek LEGO®** – ten zestaw zawiera sporo fajnych akcesoriów do pomysłowej zabawy, takich jak radio, topór, piła, klucz hakowy i kubek
-
-**❤️ Interaktywny, cyfrowy przewodnik po budowaniu** – w aplikacji LEGO® Builder na smartfony i tablety dzieci mogą powiększać i obracać powstające modele, by obejrzeć je z każdej strony
-
-**❤️ Pomoc w rozwijaniu kreatywności** – podczas budowania i zabawy dzieci nabierają pewności siebie i ćwiczą ważne umiejętności
-
-**❤️ Testy jakości** – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku
-
-➡️ KLOCKI NOWE, FABRYCZNIE ZAPAKOWANE
-
-➡️ ZESTAW Z OFICJALNEJ DYSTRYBUCJI
-
-⭐ Doskonały prezent
-
-➡️  Prezent na specjalną okazję — ta zabawka konstrukcyjna LEGO będzie doskonałym prezentem na urodziny, pod choinkę, na wielkanoc i z każdej innej okazji dla młodych budowniczych.
-
-⭐ Wysoka jakość i bezpieczeństwo
-
-➡️  Wszystkie klocki LEGO wyróżniają się wysoką jakością wykonania. Elementy LEGO są poddawane specjalistycznym testom wytrzymałościowym, podczas których są upuszczane, zgniatane, zginane, podgrzewane i rysowane. Zostały solidnie przebadane i doskonale znoszą wszelkie tego typu okoliczności, spełniając najwyższe standardy bezpieczeństwa.
-
-⭐ Zestaw zawiera ilustrowane instrukcje i aplikację LEGO Builder
-
-➡️ Cyfrowe narzędzie do przybliżania i obracania modelu pomaga dzieciom zwizualizować każdy model ze wszystkich perspektyw podczas budowania.
-
-⭐ Zabawki rozwijające dziecięcą kreatywność.
-
-➡️ Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realistycznych pojazdów, szczegółowych budynków i niezwykłych postaci zestawy zachęcają do pomysłowej, swobodnej zabawy i wymyślania własnych historii.
-
-⭐ Udane Święta z LEGO!
-
-➡️ **Rozpal pasję do zabawy w strażaków dzięki zestawowi LEGO® City Terenowy pojazd straży pożarnej!**
-
-⭐ Dlaczego LEGO to idealny prezent?
-
-✔️ **Rozwija kreatywność: **Zestawy Lego pozwalają dzieciom wyrazić swoją wyobraźnię i tworzyć własne projekty. Mogą budować wszystko, co przyszło im do głowy.
-
-✔️ **Uczy logicznego myślenia:** Konstruowanie z klocków Lego wymaga rozumowania przestrzennego i logicznego myślenia. Dziecko musi planować, jak połączyć różne elementy, by osiągnąć zamierzony efekt.
-
-✔️ **Rozwija umiejętności manualne: **Układanie klocków wymaga precyzyjnych ruchów rąk, co pomaga w rozwoju sprawności manualnej i koordynacji.
-
-✔️ **Stymuluje zdolności problemowe: **Kiedy coś nie wychodzi tak, jak dziecko chciało, musi szukać rozwiązania. To kształtuje umiejętność rozwiązywania problemów i pokonywania trudności.
-
-✔️ **Zachęca do współpracy:** Zbudowanie większego projektu może wymagać pomocy od innych, co uczy współpracy, komunikacji i dzielenia się pomysłami.
-
-✔️ **Buduje wytrwałość i cierpliwość: **Czasami skomplikowane projekty Lego mogą być wyzwaniem, ale wytrwałość w dążeniu do ukończenia zadania jest nagradzana.
-
-⭐ Jak złożyć zamówienie?
-
-1. Kup teraz. ✅
-
-2. Zapoznaj się z informacją o formach i czasie dostawy. ✅
-
-3. Wybierz sposób płatności. ✅
-
-4. Wszelkie dodatkowe informacje wpisz w wiadomość dla sprzedającego.✅
-
-5. Czekaj na dostawę. ✅
-
-6. Odbierz paczke i ciesz się świetnym zestawem!✅
-
-**Produkt jest nowy, wysyłany od dystrybutora!**
-
-⭐  GORĄCO ZAPRASZAM DO PEWNYCH I BEZPIECZNYCH ZAKUPÓW ⭐
+- 42242-1: https://a.allegroimg.com/original/110f8f/19ab9ae44d31aa19e40560671603
 
 ---
 
-## 6332749 — Lego Technic 42128 Ciężki samochód pomocy drogowej
+## 6332749 — LEGO Technic 42128
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1739.99 zł · EAN: 05702016913361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6332749 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO Technic 42128 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 14 cm |
+| EAN | 5702016913361 |
 
 Klocki LEGO Technic 42128 - Ciężki samochód pomocy drogowej
 
@@ -6238,11 +8986,27 @@ Jak złożyć zamówienie?
 
 Pozostałe zdjęcia
 
+**Galeria:**
+
+- 6332749-1: https://a.allegroimg.com/original/11d8f1/0d9be43e42618dd1eb753b9dbe6a
+
 ---
 
-## 66318 — Lego Technic 66318 Zestaw 4w1
+## 66318 — Super Zestaw 4w1
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1700.00 zł · EAN: 05702014596177 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66318 |
+| Nazwa angielska | Technic Super Pack 4 in 1 |
+| Nazwa polska | Super Zestaw 4w1 |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 984 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014596177 |
 
 Techniczne dane i zawartość
 
@@ -6269,11 +9033,27 @@ Techniczne dane i zawartość
 
 **LEGO Technic 66318 Super Pack 4 in 1** to wyjątkowy zestaw z serii Technic, który łączy 4 modele w jednym pakiecie, w tym jedyny silnik PF w zestawie Value Pack. Choć nie zawiera minifigurek, rekompensuje to szeroka gama modeli i satysfakcja z budowy. Świetny wybór zarówno dla kolekcjonerów, jak i fanów Technica poszukujących kompaktowego, ale funkcjonalnego zestawu.
 
+**Galeria:**
+
+- 66318-1: https://a.allegroimg.com/original/11434f/e77e50d0411f80c141b46594e862
+
 ---
 
-## 8041 — Klocki Lego Technic Zestaw Wyścigowa ciężarówka 8041
+## 8041 — Wyścigowa ciężarówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014602533 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8041 |
+| Nazwa angielska | Race Truck |
+| Nazwa polska | Wyścigowa ciężarówka |
+| Seria | Technic |
+| Grupa wiekowa | 9 m + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 608 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602533 |
 
 LEGO TECHNIC Wyścigowa ciężarówka 8041
  
@@ -6287,11 +9067,27 @@ LEGO TECHNIC Wyścigowa ciężarówka 8041
  
 Zestaw klocków LEGO Technic 8041 Race Truck został zaprezentowany w 2010 roku i składa się z 608 klocków LEGO®. Klocki przeznaczone są dla dzieci i młodzieży powyżej 9 roku życia.
 
+**Galeria:**
+
+- 8041-1: https://a.allegroimg.com/original/2901b6/29d74d4d4ba1abab2030f8ccdecb
+
 ---
 
-## 8043 — Klocki Lego Technic Zestaw Zmotoryzowana koparka 2w1 Sterowana Rc 8043
+## 8043 — 8043
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702014601635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8043 |
+| Nazwa angielska | Motorized Excavator |
+| Nazwa polska | 8043 |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1123 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 15 cm |
+| EAN | 5702014601635 |
 
 LEGO Technic - 8043 Zmotoryzowana koparka
 
@@ -6316,11 +9112,27 @@ LEGO 8043 Zmotoryzowana Koparka to idealny wybór dla każdego, kto ceni sobie w
 
 Nie czekaj, zanurz się w świat inżynierii z LEGO Technic i stwórz własną zmotoryzowaną koparkę już dziś!
 
+**Galeria:**
+
+- 8043-1: https://a.allegroimg.com/original/112684/3ad85e5b4c91bf3315447c1b7ed9
+
 ---
 
-## 8049 — Lego Technic 8049 Traktor z ładowarką kłód Nowe
+## 8049 — Tractor with Log Loader Traktor
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702014601680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8049 |
+| Nazwa angielska | Tractor with Log Loader |
+| Nazwa polska | Tractor with Log Loader Traktor |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 525 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601680 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6352,11 +9164,27 @@ Dlaczego warto kupić LEGO 8049?
  
 Zbuduj swój własny **Traktor Leśny LEGO 8049 **i przenieś się do świata realistycznych maszyn roboczych! 🚜🌲🔧
 
+**Galeria:**
+
+- 8049-1: https://a.allegroimg.com/original/11cf99/5e1572274eb9b343379383d1a69e
+
 ---
 
-## 8063 — Lego Technic 8063 Traktor z przyczepą
+## 8063 — Traktor z przyczepą
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1590.00 zł · EAN: 05702014539778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8063 |
+| Nazwa angielska | Tractor with Trailer |
+| Nazwa polska | Traktor z przyczepą |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014539778 |
 
 Klocki LEGO Technic 8063 - Traktor z przyczepą
 
@@ -6437,11 +9265,27 @@ Projektanci LEGO® ściśle **współpracowali z firmą John Deere**, aby przyg
  
 **Gwarantuje najwyższą jakość i wierność oryginałowi.**
 
+**Galeria:**
+
+- 8063-1: https://a.allegroimg.com/original/118e00/bc9a356e45a5b9fe01515dccfe10
+
 ---
 
-## 8070 — Klocki Lego Technic Zestaw 2w1 Samochód Sportowy Supercar i Hot Rod 8070
+## 8070 — Lego Technic 8070 Supercar
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014734951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8070 |
+| Nazwa angielska | Supercar |
+| Nazwa polska | Lego Technic 8070 Supercar |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734951 |
 
 Zestaw Lego Technic 8070 Samochód Sportowy
 
@@ -6476,11 +9320,27 @@ Cechy produktu:
 - Materiał: Plastik
 - Certyfikaty, opinie, atesty: CE
 
+**Galeria:**
+
+- 8070-1: https://a.allegroimg.com/original/11a320/e8145f394cd880ad80741ed0abd3
+
 ---
 
-## 8071 — Lego Technic 8071 Bucket Truck
+## 8071 — Bucket Truck
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 485.00 zł · EAN: 05702014734968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8071 |
+| Nazwa angielska | Lift Truck |
+| Nazwa polska | Bucket Truck |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 593 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734968 |
 
 **Zbuduj potężną maszynę i sięgnij wysoko z zestawem LEGO Technic 8071!**
 
@@ -6501,11 +9361,26 @@ Oferuję na sprzedaż klasyczny, wycofany z produkcji zestaw LEGO Technic 8071 �
 - **Liczba elementów:** 593
 - **Rok wydania:** 2011
 
+**Galeria:**
+
+- 8071-1: https://a.allegroimg.com/original/115158/f72e19ac49c0b5716625143d77b7
+
 ---
 
-## 81000 — 81000 Lego Forma Koi karp ryba Japońska
+## 81000 — Koi
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016520149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 81000 |
+| Nazwa angielska | Koi |
+| Nazwa polska | Koi |
+| Seria | Technic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 293 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016520149 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6524,11 +9399,27 @@ Oferuję na sprzedaż klasyczny, wycofany z produkcji zestaw LEGO Technic 8071 �
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 81000-1: https://a.allegroimg.com/original/116f28/b0a92d6e44c59a6e0c656fd01079
+
 ---
 
-## 8109 — Klocki Lego Technic Zestaw Ciężarówka z płaską platformą 8109
+## 8109 — Laweta
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 2299.00 zł · EAN: 05702014734982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8109 |
+| Nazwa angielska | Flatbed Truck |
+| Nazwa polska | Laweta |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734982 |
 
 Zestaw LEGO Technic Ciężarówka z płaską platformą 8109
 
@@ -6558,11 +9449,27 @@ LEGO Technic Ciężarówka z płaską platformą 8109
 
 Nie przegap okazji, dodaj ten wyjątkowy zestaw do swojej kolekcji!
 
+**Galeria:**
+
+- 8109-1: https://a.allegroimg.com/original/11f190/84c7250345e0b5502ca7066f419f
+
 ---
 
-## 8110 — Lego 8110 Technic Mercedes-Benz Unimog U 400 Klocki
+## 8110 — Unimog U400
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1930.00 zł · EAN: 05702014734999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8110 |
+| Nazwa angielska | Mercedes-Benz Unimog U400 |
+| Nazwa polska | Unimog U400 |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2048 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734999 |
 
 **LEGO Technic 8110 – Mercedes-Benz Unimog U 400** to zaawansowany zestaw z serii Technic, który pozwala zbudować realistyczny model legendarnego pojazdu terenowego Unimog U 400, stworzonego we współpracy z firmą **Mercedes-Benz**. To wyjątkowe połączenie inżynierii i funkcjonalności, idealne dla fanów techniki oraz wymagających konstruktorów.
 
@@ -6582,11 +9489,27 @@ Cechy:
 - Autentyczne detale i funkcje techniczne.
 - Rekomendowany wiek: **11–16 lat** (lub starsi entuzjaści LEGO Technic).
 
+**Galeria:**
+
+- 8110-1: https://a.allegroimg.com/original/119ca8/c71a8fae4b2fa442692200396127
+
 ---
 
-## 8259 — Lego Technic 8259 Buldożer
+## 8259 — Buldożer
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702014532403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8259 |
+| Nazwa angielska | Mini Bulldozer |
+| Nazwa polska | Buldożer |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532403 |
 
 LEGO 8259 Technic - Buldożer z 2009 roku
  
@@ -6604,11 +9527,27 @@ Jest to model „2-in-1” - można go przebudować na koparkę. Ilustracja mode
 
 Instrukcje budowania obu modeli (podstawowego i alternatywnego) znajdują się w zestawie.
 
+**Galeria:**
+
+- 8259-1: https://a.allegroimg.com/original/11250a/a06ea632495abb2126dd492e6c9e
+
 ---
 
-## 8264 — Klocki Lego Technic Zestaw 2 w 1Wywrotka Koparka Budowlana Hauler 8264
+## 8264 — Hauler
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014533424 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8264 |
+| Nazwa angielska | Hauler |
+| Nazwa polska | Hauler |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 575 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533424 |
 
 **Nowe klocki LEGO Technic 8264 - Ciężarówka z naczepą.**
 
@@ -6648,11 +9587,27 @@ Ciężarówka z platformą (Flatbed Truck)
 
 **Wiek **9–16 lat
 
+**Galeria:**
+
+- 8264-1: https://a.allegroimg.com/original/11745d/289e99de499cbeba606cd90ae9c2
+
 ---
 
-## 8265 — Lego Technic 8265 Ładowarka front loader Nowe
+## 8265 — 8265 ładowarka / front loader TECHNIC
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702014532434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8265 |
+| Nazwa angielska | Front Loader |
+| Nazwa polska | 8265 ładowarka / front loader TECHNIC |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1061 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532434 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6666,11 +9621,27 @@ Model wyposażono w skrętny układ kierowniczy, ruchome ramię podnoszące oraz
 
 LEGO 8265 składa się z 1064 elementów, co czyni go jednym z większych zestawów budowlanych swojej epoki. Charakterystyczna żółto-czarna kolorystyka oraz liczne detale techniczne sprawiają, że model doskonale prezentuje się na półce kolekcjonerskiej.
 
+**Galeria:**
+
+- 8265-1: https://a.allegroimg.com/original/1169ef/d2d485c049ab822db3363a9901c9
+
 ---
 
-## 8274 — Lego Technic Kombajn zbożowy 8274
+## 8274 — Kombajn zbożowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014500075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8274 |
+| Nazwa angielska | Combine Harvester |
+| Nazwa polska | Kombajn zbożowy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1025 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500075 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6689,11 +9660,27 @@ LEGO 8265 składa się z 1064 elementów, co czyni go jednym z większych zestaw
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8274-1: https://a.allegroimg.com/original/112e9f/f9bbde66482cbf5458fccb77a602
+
 ---
 
-## 8284 — Lego Technic 42136 Traktor John Deere 9620R 4WD
+## 8284 — Dune Buggy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 248.85 zł · EAN: 05702014457492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8284 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | Dune Buggy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 872 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702014457492 |
 
 Klocki LEGO Technic 42136 - Traktor John Deere 9620R 4WD
 
@@ -6721,11 +9708,27 @@ Modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających
 - Materiały najwyższej jakości — elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo to nasz priorytet — elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 8284-1: https://a.allegroimg.com/original/11c9c3/f75df98c43b2a8dbb825a707b5c8
+
 ---
 
-## 8295 — Lego Technic 8295 Podnośnik teleskopowy Nowe
+## 8295 — Podnośnik teleskopowy
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702014518278 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8295 |
+| Nazwa angielska | Telescopic Handler |
+| Nazwa polska | Podnośnik teleskopowy |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1182 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518278 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6735,11 +9738,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Technic 8295 Podnośnik teleskopowy ** został zaprezentowany w 2008 roku i składa się z 1182 klocków LEGO®. Klocki przeznaczone są dla dzieci i młodzieży od 10 roku życia.
 
+**Galeria:**
+
+- 8295-1: https://a.allegroimg.com/original/112325/2e0c7f1a4042894e081d3fc00663
+
 ---
 
-## 8297 — Lego Technic 8297 Samochód terenowy Nowe
+## 8297 — Technic
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702014518285 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8297 |
+| Nazwa angielska | Off-Roader |
+| Nazwa polska | Technic |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1097 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518285 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6759,11 +9778,27 @@ Zestaw **LEGO® Technic 8297 – Samochód terenowy **to prawdziwa gratka dla mi
  
 Dzięki dużej liczbie elementów zestaw gwarantuje satysfakcję z budowy oraz efektowny model do ekspozycji. LEGO 8297 to świetny wybór dla fanów serii **Technic **, którzy cenią realistyczne rozwiązania i wyzwania konstrukcyjne
 
+**Galeria:**
+
+- 8297-1: https://a.allegroimg.com/original/11a6b7/530b9cbd4e638d927d327c8b01fe
+
 ---
 
-## 8436 — Klocki Lego Technic Zestaw 3w1 Ciężarówka żuraw pneumatyczny holownik 8436
+## 8436 — Ciężarówka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014365841 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8436 |
+| Nazwa angielska | Truck |
+| Nazwa polska | Ciężarówka |
+| Seria | Technic |
+| Grupa wiekowa | 10 m + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1027 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014365841 |
 
 **LEGO Technic 8436 – Ciężarówka z żurawiem pneumatycznym**
 
@@ -6794,11 +9829,27 @@ Otwierane burty platformy transportowej.
 - **Rok wydania:** 2004
 - **Liczba elementów:** ok. 1025
 
+**Galeria:**
+
+- 8436-1: https://a.allegroimg.com/original/111cd7/34f681104964b5f94e3067ea65ba
+
 ---
 
-## 8445 — Lego Speed Champions Porshe 963 Wyścigówka Samochód Formuła 1 Zabawka 9+
+## 8445 — Indy Storm
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016032598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8445 |
+| Nazwa angielska | Indy Storm / Formula 1 Racer |
+| Nazwa polska | Indy Storm |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 1999 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 446 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016032598 |
 
 ⭐LEGO SPEED CHAMPIONS PORSHE 963 WYŚCIGÓWKA SAMOCHÓD FORMUŁA 1 ZABAWKA 9+⭐
 
@@ -6835,11 +9886,27 @@ Wymiary:
 
 **Minifigurka w zestawie,** **samochód zawiera minifigurkę kierowcy z kaskiem i włosami,** którą można umieścić w kokpicie i odgrywać przygody na drodze.
 
+**Galeria:**
+
+- 8445-1: https://a.allegroimg.com/original/1187f8/69fec3c74add95d2d7edf66fc87e
+
 ---
 
-## 8453 — Lego Technic 8453 Ładowarka (2003 rok)
+## 8453 — Ładowarka
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 685.00 zł · EAN: 05702014264946 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8453 |
+| Nazwa angielska | Front End Loader |
+| Nazwa polska | Ładowarka |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014264946 |
 
 LEGO Technic 8453 Front‑End Loader (Ładowarka)
 
@@ -6862,11 +9929,27 @@ LEGO Technic 8453 Front‑End Loader (Ładowarka)
 
 **LEGO Technic 8453 – Front‑End Loader** to klasyczna ładowarka z 2003 roku, zawierająca 214 elementów i skonstruowana w duchu solidnych, mechanicznych modeli. Oferuje realistyczne sterowanie i pracujące ramię, a także możliwość zbudowania alternatywnej wersji „scrapera”.
 
+**Galeria:**
+
+- 8453-1: https://a.allegroimg.com/original/117971/6db080ed4a7897e270956cff8bf4
+
 ---
 
-## 8455 — Lego Technic 8455 Koparka Excavator
+## 8455 — Excavator
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1950.00 zł · EAN: 00673419018944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8455 |
+| Nazwa angielska | Backhoe Loader |
+| Nazwa polska | Excavator |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 704 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419018944 |
 
 Dane techniczne
 
@@ -6909,11 +9992,27 @@ Alternatywny model (B‑model) – ładowarka czołowa
 
 **LEGO 8455 Back-Hoe Loader** to klasyczny model Technic z funkcjonalnością, która robi wrażenie do dziś — dziesięć cylindrów pneumatycznych, dwa pompy ręczne, realistyczne ruchome elementy i alternatywny model. To zestaw edukacyjny, ale też prawdziwy obiekt kolekcjonerski. Idealny dla osób chcących wejść w świat pneumatyki LEGO.
 
+**Galeria:**
+
+- 8455-1: https://a.allegroimg.com/original/117b17/d944d07642e2b7501c25b6d0fd40
+
 ---
 
-## 8513 — nowy Lego 8513 Technic Robo Riders Dust Bionicle Misb 2000
+## 8513 — dust
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702012006760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8513 |
+| Nazwa angielska | Dust |
+| Nazwa polska | dust |
+| Seria | Technic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2000 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012006760 |
 
 Cześć!
 
@@ -6931,11 +10030,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 8513-1: https://a.allegroimg.com/original/116f50/6f8dec324ed0a89dcd081df9eb34
+
 ---
 
-## 9393 — Lego Technic 9393 Traktor
+## 9393 — Traktor
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702014837478 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9393 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | Traktor |
+| Seria | Technic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 353 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837478 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -6945,11 +10060,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 9393-1: https://a.allegroimg.com/original/117e91/21b0497442628bbae11ffdadf5c5
+
 ---
 
-## 9395 — Klocki Lego Technic Furgonetka Pomocy Drogowej 9395 954 elementy
+## 9395 — LEGO TECHNIC Pick-Up Tow Truck 9395
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014837492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9395 |
+| Nazwa angielska | Pick-Up Tow Truck |
+| Nazwa polska | LEGO TECHNIC Pick-Up Tow Truck 9395 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 954 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837492 |
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -6969,11 +10100,27 @@ Ratuj zepsute samochody półciężarówką pomocy drogowej z amerykańskim szyk
  
 Zestaw klocków LEGO Technic Furgonetka pomocy drogowej 9395 został przedstawiony w 2012 roku i składa się z 954 klocków LEGO®. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 10 roku życia
 
+**Galeria:**
+
+- 9395-1: https://a.allegroimg.com/original/11152d/6db3071544f78c3f36bc56c95481
+
 ---
 
-## 9396 — Lego Technic 9396 Helikopter
+## 9396 — LEGO
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014837508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9396 |
+| Nazwa angielska | Helicopter |
+| Nazwa polska | LEGO |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1056 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837508 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6992,11 +10139,27 @@ Zestaw klocków LEGO Technic Furgonetka pomocy drogowej 9395 został przedstaw
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 9396-1: https://a.allegroimg.com/original/11db8f/1f5790f744079342ae2ca017009a
+
 ---
 
-## 9397 — Lego Technic 9397 Ciężarówka do transportu drewna
+## 9397 — 9397
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1455.00 zł · EAN: 05702014837515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9397 |
+| Nazwa angielska | Logging Truck |
+| Nazwa polska | 9397 |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1308 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837515 |
 
 - LEGO Technic 9397 - Ciężarówka z wyciągarką
 Odkryj niezwykłą LEGO Technic 9397 Ciężarówkę z wyciągarką, która zachwyca realistycznymi funkcjami i szczegółowym wykonaniem! Ten imponujący model oferuje ruchome tłoki, działającą wyciągarkę i mechanizm skrętu, co zapewnia autentyczne wrażenia z budowania i zabawy. Dzięki solidnej konstrukcji i klasycznemu wyglądowi ciężarówki leśnej, zestaw jest idealny dla fanów LEGO Technic i kolekcjonerów.
@@ -7013,11 +10176,27 @@ Odkryj niezwykłą LEGO Technic 9397 Ciężarówkę z wyciągarką, która zachw
 
 Dodaj LEGO 9397 do swojej kolekcji i ciesz się niezwykłą jakością modelu Technic!
 
+**Galeria:**
+
+- 9397-1: https://a.allegroimg.com/original/1151ab/c7788ce54603befc83414d0fbc83
+
 ---
 
-## 9398 — Klocki Lego Technic Zestaw Crawler Sterowany Wóz Rc z napędem 4X4 9398
+## 9398 — Wóz z napędem
 
-*Kategoria: Technic · cena Allegro (2026-08-17): 1699.00 zł · EAN: 05702014837522 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9398 |
+| Nazwa angielska | 4 x 4 Crawler |
+| Nazwa polska | Wóz z napędem |
+| Seria | Technic |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837522 |
 
 LEGO Technic 9398 – Wóz z Napędem 4x4 (Rock Crawler)
 
@@ -7048,6 +10227,10 @@ Przedmiotem sprzedaży jest jeden z najbardziej zaawansowanych modeli zdalnie st
 **1x pilot zdalnego sterowania**,
 
 **1x schowek na baterie (Battery Box)**.
+
+**Galeria:**
+
+- 9398-1: https://a.allegroimg.com/original/114da1/c9ff59a0473489f999bb487a109e
 
 ---
 

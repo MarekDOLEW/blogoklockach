@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Boost — opisy produktowe (1 pozycji)
 
-## 17101 — Lego Boost 17101 Zestaw kreatywny build code play otwarty kartonik
+## 17101 — Zestaw kreatywny
 
-*Kategoria: Pozostałe serie > Boost · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702015930000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 17101 |
+| Nazwa angielska | Creative Toolbox |
+| Nazwa polska | Zestaw kreatywny |
+| Seria | Pozostałe serie > Boost |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 847 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015930000 |
 
 Kartonik otwarty, woreczki fabrycznie zamknięte, zestaw nowy
 
@@ -33,6 +43,10 @@ Niesamowity Zestaw kreatywny LEGO BOOST przenosi budowanie z LEGO na zupełnie n
 - Wyzwania ze szczegółowymi objaśnieniami dla początkujących pozwalają rozwinąć umiejętności programowania. 
 - Ł‎ącząc ten zestaw z arktyczną terenówką zwiadowczą LEGO® City 60194 zbudujesz pojazd, którym można sterować! Za pomocą aplikacji LEGO BOOST możesz sterować podnośnikiem, badać próbki czujnikiem koloru, pomóc wielorybowi wrócić do morza i robić wiele innych rzeczy. Tak wspaniałych możliwości interaktywnej zabawy jeszcze nie było! 
 - Połącz ten zestaw ze Zwiastunem burzy LEGO NINJAGO 70652 i uwolnij smoka błyskawic!
+
+**Galeria:**
+
+- 17101-1: https://a.allegroimg.com/original/11f71d/9644b7044a739a1dfefe5dcc1b5f
 
 ---
 

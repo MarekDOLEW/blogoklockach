@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Castle — opisy produktowe (24 pozycji)
 
-## 10193 — Klocki Lego Castle Zestaw Średniowieczna wioska z targiem 10193
+## 10193 — LEGO CASTLE średniowieczny rynek 10193
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 1918.99 zł · EAN: 00673419124300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10193 |
+| Nazwa angielska | Medieval Market Village |
+| Nazwa polska | LEGO CASTLE średniowieczny rynek 10193 |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 1601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419124300 |
 
 LEGO® 10193 – Medieval Market Village | Kultowy zestaw Castle dla miłośników średniowiecza!
 
@@ -43,11 +53,26 @@ Kompatybilny z innymi zestawami rycerskimi – idealny jako tło dla armii rycer
 
 LEGO® 10193 – Medieval Market Village to więcej niż zabawka – to **unikatowy element kolekcji **, który z czasem zyskuje na wartości. Cieszy się ogromną popularnością wśród fanów LEGO, miłośników historii oraz osób budujących własne średniowieczne miasta z klocków.
 
+**Galeria:**
+
+- 10193-1: https://a.allegroimg.com/original/0372d9/39bf32ca485c9226a62f84bbd0bc
+
 ---
 
-## 1463 — Zestaw Lego Castle: Crusaders 1695 Treasure Chest Nowy Misb 1992
+## 1463 — Treasure Cart
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 1280.00 zł · EAN: 00042884014636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1463 |
+| Nazwa angielska | Treasure Cart |
+| Nazwa polska | Treasure Cart |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1992 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884014636 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO
 
@@ -68,11 +93,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 1463-1: https://a.allegroimg.com/original/1157bd/f21570b24db7bc9a826c587b4d1d
+
 ---
 
-## 1752 — nowy Lego System Castle 1752 Boat with Armor łódka z uzbrojeniem Misb 1996
+## 1752 — Boat with Armor
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 393.99 zł · EAN: 05702010917525 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1752 |
+| Nazwa angielska | Boat with Armour |
+| Nazwa polska | Boat with Armor |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1996 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010917525 |
 
 Cześć!
 
@@ -90,11 +130,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1752-1: https://a.allegroimg.com/original/117f08/9dac435748719183ff0107fc56f8
+
 ---
 
-## 2540 — Lego 2540 System Castle Catapault Cart Batlord Misb Unikat z 1998r
+## 2540 — CATAPAULT CART
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702010925407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2540 |
+| Nazwa angielska | Fright Knights Catapult Cart |
+| Nazwa polska | CATAPAULT CART |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010925407 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -104,11 +159,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 2540-1: https://a.allegroimg.com/original/110e8f/14083ab74b68b16cbadf861c14cc
+
 ---
 
-## 2848 — Lego 2848 System Castle Fright Knights Batlord Misb Unikat z 1997r
+## 2848 — 2848
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702010928484 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2848 |
+| Nazwa angielska | Fright Knights Flying Machine |
+| Nazwa polska | 2848 |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928484 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -118,11 +188,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 2848-1: https://a.allegroimg.com/original/118a82/18ac448d4a58ab7fd5b23ef22930
+
 ---
 
-## 2872 — nowy Lego System Castle Fright Knights 2872 Wiedźma i Kominek Misb 1997
+## 2872 — Wiedźma i Kominek
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702010928729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2872 |
+| Nazwa angielska | Witch and Fireplace |
+| Nazwa polska | Wiedźma i Kominek |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928729 |
 
 Cześć!
 
@@ -140,11 +225,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2872-1: https://a.allegroimg.com/original/11d07e/ccf3f1a24c1ebc695a6a307fade4
+
 ---
 
-## 40567 — Zestaw Lego Creator 40567 Leśna Kryjówka
+## 40567 — Klocki LEGO Creator 40567 Leśna kryjówka
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 254.00 zł · EAN: 05702017241876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40567 |
+| Nazwa angielska | Forest Hideout |
+| Nazwa polska | Klocki LEGO Creator 40567 Leśna kryjówka |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241876 |
 
 ZESTAW LEGO CREATOR - 40567 - LEŚNA KRYJÓWKA
 
@@ -186,11 +287,27 @@ Do zestawu dołączona jest papierowa instrukcja budowania, a jej cyfrowa wersja
 
 LEGO 40567 to zestaw, który łączy w sobie nostalgię, kreatywną zabawę i kolekcjonerską wartość. Starannie wykonane detale, klimatyczna sceneria oraz wierne nawiązania do legendarnego modelu z 1987 roku sprawiają, że budowa dostarcza mnóstwo satysfakcji, a gotowa konstrukcja staje się efektowną ozdobą każdej kolekcji. To doskonały wybór zarówno dla dorosłych fanów klasycznych zestawów, jak i młodszych miłośników budowania, którzy dopiero odkrywają świat LEGO. Leśna Kryjówka będzie świetnym prezentem urodzinowym, świątecznym lub miłą niespodzianką bez okazji. To zestaw, który zachwyca ponadczasowym stylem, dopracowanym wykonaniem i wyjątkowym klimatem, dzięki czemu z pewnością wywoła uśmiech na twarzy każdego miłośnika klocków LEGO.
 
+**Galeria:**
+
+- 40567-1: https://a.allegroimg.com/original/11a19d/dde8416f47129d3a434c703255ba
+
 ---
 
-## 40601 — Lego Castle 40601 Majisto's Magical Workshop
+## 40601 — Majisto's Magical Workshop
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017471419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40601 |
+| Nazwa angielska | Majisto’s Magical Workshop |
+| Nazwa polska | Majisto's Magical Workshop |
+| Seria | Icons |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702017471419 |
 
 NAZWA: Magiczny warsztat Majisto
  
@@ -213,11 +330,26 @@ Sentymentalny zestaw LEGO® 40601 Magiczny warsztat Majisto przeniesie Cię do p
 - Oryginalne detale — model składający się z 367 elementów ma wiele oryginalnych funkcji i można go rozłożyć, aby obejrzeć wnętrze. Zestaw zawiera minifigurkę Majisto z różdżką i minifigurkę rycerza 
 - Pomysł na prezent dla fanów LEGO® w wieku od 12 lat — zbudowany z klocków warsztat ma 19 cm wysokości,17 cm szerokości i 13 cm głębokości. Można go zbudować samodzielnie lub wraz z rodziną
 
+**Galeria:**
+
+- 40601-1: https://a.allegroimg.com/original/11a4a7/4d26165d4187b45ca2b6bf043fab
+
 ---
 
-## 4801 — Zestaw Lego Castle: Knights Kingdom I 4801 Defense Archer Nowy Misb 2000
+## 4801 — Defence Archer
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702012000218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4801 |
+| Nazwa angielska | Defense Archer |
+| Nazwa polska | Defence Archer |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012000218 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO
 
@@ -238,11 +370,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 4801-1: https://a.allegroimg.com/original/11d5e3/ca5ac6164b888afc776d325186a0
+
 ---
 
-## 4806 — Castle Lego 4806 Machina z toporami
+## 4806 — Machina z toporami
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702012000263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4806 |
+| Nazwa angielska | Axe Cart |
+| Nazwa polska | Machina z toporami |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012000263 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -266,11 +413,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4806-1: https://a.allegroimg.com/original/11a4fd/a8178ed74045a9e4f14d6aaf9996
+
 ---
 
-## 4816 — Lego Castle 4816 Knight’s Catapult
+## 4816 — Knight’s Catapult
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 670.00 zł · EAN: 05702012009884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4816 |
+| Nazwa angielska | Knight's Catapult |
+| Nazwa polska | Knight’s Catapult |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012009884 |
 
 Dane podstawowe
 
@@ -299,11 +461,26 @@ Dane podstawowe
 - Dobry jako **dodatek** do większych zestawów z zamkami — mobilna katapulta to praktyczny element scenek bitewnych.
 - Dla miłośników minifigurek i budzki kolekcjonerskiej — łatwy do uzupełnienia i łączenia z innymi częściami.
 
+**Galeria:**
+
+- 4816-1: https://a.allegroimg.com/original/11e291/973299234740adbf9ef7da523b8a
+
 ---
 
-## 4819 — Lego 4819 Bull's Attack Wagon Castle
+## 4819 — 4819
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702012009914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4819 |
+| Nazwa angielska | Rebel Chariot |
+| Nazwa polska | 4819 |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012009914 |
 
 **LEGO 4819 Bulls' Attack Wagon** (znany też jako Rebel Chariot) to niewielki, ale kolekcjonersko interesujący zestaw z serii Knights' Kingdom I w ramach linii Castle.
 
@@ -320,11 +497,26 @@ Dane podstawowe
 
 - Model przedstawia **konny wóz / rydwan** — czyli lekki wóz zaprzężony w konia, typowy dla
 
+**Galeria:**
+
+- 4819-1: https://a.allegroimg.com/original/11820d/437d0f7d472080ada07c67bc4717
+
 ---
 
-## 5614 — nowy Lego Castle 5614 Dobry czarodziej Misb 2008
+## 5614 — Dobry czarodziej
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 245.99 zł · EAN: 05702014515901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5614 |
+| Nazwa angielska | The Good Wizard |
+| Nazwa polska | Dobry czarodziej |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014515901 |
 
 Cześć!
 
@@ -342,11 +534,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5614-1: https://a.allegroimg.com/original/11d5e2/9e72751546e98c23162d838eecfa
+
 ---
 
-## 6048 — Lego castle 6048 warsztat wizarda
+## 6048 — Warsztat Wizarda
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 1299.00 zł · EAN: 00042884060480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6048 |
+| Nazwa angielska | Majisto's Magical Workshop |
+| Nazwa polska | Warsztat Wizarda |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1993 |
+| Liczba elementów | 188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884060480 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -365,11 +572,26 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 6048-1: https://a.allegroimg.com/original/11905f/686428b249928ab6d8f9faf0fce6
+
 ---
 
-## 6487473 — Lego Castle 6487473 Szary Zamek Zamek Rycerski Limitowane Castle Nowe
+## 6487473 — Szary zamek
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 89.90 zł · EAN: 05702017659008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6487473 |
+| Nazwa angielska | — |
+| Nazwa polska | Szary zamek |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017659008 |
 
 LEGO PROMOCYJNE 5008074/6487473 - SZARY ZAMEK
 
@@ -401,11 +623,26 @@ Seria: Castle
 
 Nowy Oryginalny Zestaw Klocków LEGO CASTLE
 
+**Galeria:**
+
+- 6487473-1: https://a.allegroimg.com/original/117bb5/2a5ebfc548a789da0e53e7ddf9ac
+
 ---
 
-## 70400 — Lego 70400 Zasadzka w Lesie Nowy
+## 70400 — Zasadzka w lesie
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 300.00 zł · EAN: 05702014973053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70400 |
+| Nazwa angielska | Forest Ambush |
+| Nazwa polska | Zasadzka w lesie |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973053 |
 
 Zestaw "Zasadzka w lesie" z serii LEGO Rycerze (Castle), numer katalogowy 70400.
 
@@ -419,11 +656,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 70400-1: https://a.allegroimg.com/original/11ea7c/b9c4b10f49e3854b7f35690733df
+
 ---
 
-## 70401 — Lego Castle 70401 ucieczka ze złotem
+## 70401 — 70401
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 589.00 zł · EAN: 05702014973060 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70401 |
+| Nazwa angielska | Gold Getaway |
+| Nazwa polska | 70401 |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973060 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -441,11 +693,26 @@ Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70401-1: https://a.allegroimg.com/original/113591/9d29f8844035bf0174f2442c637f
+
 ---
 
-## 70402 — Lego Castle 70402 Napad na wartownię70402
+## 70402 — Klocki LEGO Castle Castle Napad na wartownię L-70402
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014973077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70402 |
+| Nazwa angielska | The Gatehouse Raid |
+| Nazwa polska | Klocki LEGO Castle Castle Napad na wartownię L-70402 |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973077 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -464,11 +731,26 @@ Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70402-1: https://a.allegroimg.com/original/057ea6/e3bdeee04850ba2094ef123d0c7e
+
 ---
 
-## 70403 — Lego Castle 70403 Smocza góra Nowe
+## 70403 — Dragon Mountain
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 1385.00 zł · EAN: 05702014973084 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70403 |
+| Nazwa angielska | Dragon Mountain |
+| Nazwa polska | Dragon Mountain |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 24 cm × gł. 13 cm |
+| EAN | 5702014973084 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -494,11 +776,26 @@ Udaj się na smoczą górę i stocz walkę z jej ognistym strażnikiem! Załaduj
 - Katapulta ma ok. 4 cm wysokości, 12 cm długości i 9 cm szerokości. 
 - Smok ma ok. 11 cm wysokości, 35 cm długości i 33 cm szerokości.
 
+**Galeria:**
+
+- 70403-1: https://a.allegroimg.com/original/111f58/88527a3848b4904d2d24df9d7a37
+
 ---
 
-## 7946 — Klocki Lego Kingdoms Zestaw Zamek króla 7946
+## 7946 — King's Castle
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 2528.00 zł · EAN: 05702014602984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7946 |
+| Nazwa angielska | King's Castle |
+| Nazwa polska | King's Castle |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 933 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602984 |
 
 **LEGO Kingdoms 7946 Zamek Króla – rycerska przygoda w średniowiecznym świecie!**
 
@@ -506,11 +803,26 @@ Przenieś się do epoki rycerzy, smoków i epickich bitew dzięki zestawowi **LE
 
 LEGO 7946 to idealna propozycja dla kolekcjonerów i miłośników klasycznych serii LEGO. Zestaw liczy aż **933 elementy **, które tworzą szczegółowy i efektowny model średniowiecznego zamku. To doskonały prezent dla każdego fana historii i budowania!
 
+**Galeria:**
+
+- 7946-1: https://a.allegroimg.com/original/1141d8/5e92237940559e11bd98400b405b
+
 ---
 
-## 7950 — Lego Kingdoms 7950 Ostateczna rozgrywka rycerzy nowy zestaw klocków
+## 7950 — Ostateczna rozgrywka rycerzy
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702014603028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7950 |
+| Nazwa angielska | Knight's Showdown |
+| Nazwa polska | Ostateczna rozgrywka rycerzy |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603028 |
 
 Witam
 
@@ -530,11 +842,26 @@ Rafał
 
 Zestaw nowy, nigdy nie otwierany.
 
+**Galeria:**
+
+- 7950-1: https://a.allegroimg.com/original/1133fb/ba7c0c484efd9b3255a6e7cf42b3
+
 ---
 
-## 7955 — Lego Castle 7955 Kingdoms
+## 7955 — Kingdoms
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014603059 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7955 |
+| Nazwa angielska | Wizard |
+| Nazwa polska | Kingdoms |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603059 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
  
@@ -555,11 +882,26 @@ Zestaw nowy, nigdy nie otwierany.
  
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 
+**Galeria:**
+
+- 7955-1: https://a.allegroimg.com/original/034a4e/945721884ddfbdcc3e2fc0da88a7
+
 ---
 
-## 8791 — 8791 Lego Castle Knights Kingdom II Sir Danju Nowy, otarcie.
+## 8791 — Sir Danju
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014419704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8791 |
+| Nazwa angielska | Sir Danju |
+| Nazwa polska | — |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014419704 |
 
 Nowy nieotwierany zestaw Lego 8791 Knights & Kingdoms Sir Danju.
 
@@ -567,11 +909,26 @@ Z przodu w bardzo dobrym stanie, z tyłu jest częściowo oderwana folia z nadru
 
 Legenda pośród rycerzy. Jako jedyny opanował niesamowitą technikę ataku cięcia z obrotu nowym, większym mieczem i tarczą. Herb: Wilk!
 
+**Galeria:**
+
+- 8791-1: https://a.allegroimg.com/original/1158b7/d0f5f2714a82aa2613ef26496eac
+
 ---
 
-## 8822 — Lego Castle 8822 Gargoyle Bridge Knights Kingdom
+## 8822 — Gargoyle Bridge
 
-*Kategoria: Pozostałe serie > Castle · cena Allegro (2026-08-17): 985.00 zł · EAN: 05702014469822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8822 |
+| Nazwa angielska | Gargoyle Bridge |
+| Nazwa polska | Gargoyle Bridge |
+| Seria | Pozostałe serie > Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469822 |
 
 Witam
 
@@ -602,6 +959,10 @@ Pudełko jest zaplombowane fabrycznie, w stanie praktycznie wyśmienitym. Na tyl
 Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego produktu, tzn. nigdy nie są to ilustracje producenta lub stockowe. Jedynie ostatnia ilustracja w galerii, przedstawiająca złożony model, pochodzi z innego źródła.
 
 Zestaw zawiera 250 elementów, aby skonstruować most Gargoyole w krainie Morcji.
+
+**Galeria:**
+
+- 8822-1: https://a.allegroimg.com/original/110e6d/c5fbf30348b0ba49f75d53c31d10
 
 ---
 

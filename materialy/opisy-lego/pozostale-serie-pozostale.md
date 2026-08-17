@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Pozostałe serie > Pozostałe — opisy produktowe (95 pozycji)
+# LEGO Pozostałe serie > Pozostałe — opisy produktowe (94 pozycji)
 
-## 1197745 — Lego Creator 3 zestawy saszetek 11977,11945,11947.
+## 1197745 — Lego 
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 207.77 zł · EAN: 09789963519644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1197745 |
+| Nazwa angielska | — |
+| Nazwa polska | Lego  |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | — |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 9789963519644 |
 
 Klocki nie nadają się dla dzieci poniżej 3 roku życia ze względu na ryzyko połknięcia.
 
@@ -25,11 +35,26 @@ Lego 11947
 
 Karton 196
 
+**Galeria:**
+
+- 1197745-1: https://a.allegroimg.com/original/11d432/15803ba54dc3848d982d5c4a1f3b
+
 ---
 
-## 1251 — nowy Lego System 1251 Shell gokart go-cart unikat Misb 1999
+## 1251 — Go-cart
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 192.99 zł · EAN: 00042884012519 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1251 |
+| Nazwa angielska | Go-Cart |
+| Nazwa polska | Go-cart |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1999 |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884012519 |
 
 Cześć!
 
@@ -47,11 +72,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1251-1: https://a.allegroimg.com/original/11c490/aa1a3b6e4419b09dd51b9ebc4bbc
+
 ---
 
-## 1787 — Zestaw Lego Space: Unitron 1787 Crater Cruiser Nowy Misb 1995
+## 1787 — Crater Cruiser
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1450.00 zł · EAN: 05702017784625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1787 |
+| Nazwa angielska | Crater Cruiser |
+| Nazwa polska | Crater Cruiser |
+| Seria | inna |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 1995 |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017784625 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO
 
@@ -72,11 +112,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 1787-1: https://a.allegroimg.com/original/1107e8/75d6951644a8af9e34612af60ddd
+
 ---
 
-## 2000414 — Lego 2000414 Starter Kit
+## 2000414 — Starter Kit
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 184.50 zł · EAN: 05702014536678 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2000414 |
+| Nazwa angielska | Starter Kit |
+| Nazwa polska | Starter Kit |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014536678 |
 
 LEGO Serious play - 2000414 - Zestaw początkowy
 
@@ -97,11 +152,26 @@ Program LEGO® SERIOUS PLAY® to innowacyjny proces, który pozwala usprawnić d
  
 Polecam!
 
+**Galeria:**
+
+- 2000414-1: https://a.allegroimg.com/original/11e11c/7abd38a84c8a9bf66078fc09ded5
+
 ---
 
-## 2000446 — Lego Education 2000446 Building My Sg Singapur
+## 2000446 — BUILDING MY SG SET : SG50 SPECIAL
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 249.95 zł · EAN: 05702015572439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2000446 |
+| Nazwa angielska | Building My SG - Reflect, Celebrate, Inspire |
+| Nazwa polska | BUILDING MY SG SET : SG50 SPECIAL |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | — |
+| Rok wydania | 2015 |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015572439 |
 
 **LEGO EDUCATION 2000446 BUILDING MY SG SINGAPUR**
 
@@ -115,11 +185,26 @@ Wymiary opakowania:
 
 - 26 x 14 x 5 cm
 
+**Galeria:**
+
+- 2000446-1: https://a.allegroimg.com/original/110aac/7b20ebbb491dba3b8e24dd6f1240
+
 ---
 
-## 20206 — Lego Mba 20206 The Lost Village Opuszczona Wioska
+## 20206 — The Lost Village
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 359.00 zł · EAN: 00673419169455 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20206 |
+| Nazwa angielska | Level Three - Kit 7, The Lost Village |
+| Nazwa polska | The Lost Village |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 229 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419169455 |
 
 LEGO
 
@@ -137,11 +222,26 @@ Dobór klocków zawartych w zestawie stwarza szeroki wachlarz możliwości uło�
 
 Produkt nowy, w oryginalnym opakowaniu.
 
+**Galeria:**
+
+- 20206-1: https://7.allegroimg.com/original/017cad/81c788584d9591d82b51ab2aad37
+
 ---
 
-## 20216 — Lego Master Builder Academy 20216 Robot & Micro Designer
+## 20216 — Master Builder Academy Robot & Micro Designer
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 520.00 zł · EAN: 00673419201728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20216 |
+| Nazwa angielska | Robot & Micro Designer (Kits 2 - 3 Redesign) |
+| Nazwa polska | Master Builder Academy Robot & Micro Designer |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 383 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419201728 |
 
 LEGO 20216 – Robot & Micro Designer (Master Builder Academy)
 
@@ -170,11 +270,26 @@ LEGO 20216 – Robot & Micro Designer (Master Builder Academy)
 - To niewielkie, edukacyjne zestawy – typowe dla serii MBA.
 - Pudełko zawiera wygodne przegrody na elementy, książeczki i minifigurki – wszystko zaprojektowane tak, by ułatwiać naukę i porządkowanie.
 
+**Galeria:**
+
+- 20216-1: https://a.allegroimg.com/original/11bca3/866a1b4840d889e16f9bf03349af
+
 ---
 
-## 20217 — Lego Mba Action Desinger (20217) [klocki]
+## 20217 — Master Builder Academy Action Desinger
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 879.09 zł · EAN: 00673419201735 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20217 |
+| Nazwa angielska | Action Designer (Kits 4 - 6 Redesign) |
+| Nazwa polska | Master Builder Academy Action Desinger |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 576 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419201735 |
 
 LEGO MBA Action Desinger (20217) [KLOCKI]
 
@@ -194,11 +309,26 @@ LEGO MBA Action Desinger
 
 **SKU:** 370977
 
+**Galeria:**
+
+- 20217-1: https://a.allegroimg.com/original/11a34b/172011504a639d8915b56c742ea8
+
 ---
 
-## 30090 — nowy Lego Pharaoh's Quest Desert Glider 30090 Misb 2011
+## 30090 — Paharaos Quest Desert Gilder
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702014807396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30090 |
+| Nazwa angielska | Desert Glider |
+| Nazwa polska | Paharaos Quest Desert Gilder |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014807396 |
 
 Cześć!
 
@@ -216,11 +346,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30090-1: https://a.allegroimg.com/original/1159b7/cee1530f45e49fa2d8f495bac093
+
 ---
 
-## 30630 — Lego 30630 Wyścigówka 3w1 Auto 61 Klocków 2K Drive
+## 30630 — Wyścigówka Aquadirt
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 12.90 zł · EAN: 05702017310183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30630 |
+| Nazwa angielska | Aquadirt Racer |
+| Nazwa polska | Wyścigówka Aquadirt |
+| Seria | Speed Champions |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017310183 |
 
 Figurka LEGO - Aquadirt 2K GAMES Wyścigówka - zestaw 61 klocków LEGO 3 w 1
 
@@ -247,11 +392,26 @@ Parametry
 - **Wysokość**: 2.4
 - **Głębokość**: 17
 
+**Galeria:**
+
+- 30630-1: https://a.allegroimg.com/original/11d227/b80ed5e14fb396db7c3441c48a0c
+
 ---
 
-## 3831 — Lego SpongeBob 3831 Rocket Ride Nowe
+## 3831 — Spongebob Rocket Ride
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 2177.00 zł · EAN: 05702014516113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3831 |
+| Nazwa angielska | Rocket Ride |
+| Nazwa polska | Spongebob Rocket Ride |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516113 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -273,11 +433,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
  
 Zestaw przedstawia zabawną scenę z rakietą, w której **SpongeBob i Patrick **wyruszają w kosmiczną przygodę. Charakterystyczny, kolorowy design oraz unikalne minifigurki sprawiają, że to świetna propozycja dla fanów serii oraz inwestorów LEGO.
 
+**Galeria:**
+
+- 3831-1: https://a.allegroimg.com/original/1170fe/5a4cbcbd48a399ae333449bf2c6f
+
 ---
 
-## 3832 — Lego Spongebob 3832 The Emergency Room. Jazda w karetce. Ideał do kolekcji
+## 3832 — The Emergency Room. Jazda w karetce.
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702014525993 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3832 |
+| Nazwa angielska | The Emergency Room |
+| Nazwa polska | The Emergency Room. Jazda w karetce. |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014525993 |
 
 Nowy, nieotwierany zestaw Lego 3832 Spongebob Jazda karetką.
 
@@ -285,11 +460,26 @@ Stan opakowania bardzo dobry, pokazany na zdjęciach.
 
 Zestaw LEGO SpongeBob - The Emergency Room trafił do sprzedaży w 2008 roku. Numer katalogowy tego zestawu to 3832. Zawiera 236 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Grupa wiekowa tego produktu to 7+
 
+**Galeria:**
+
+- 3832-1: https://a.allegroimg.com/original/113121/d231a1a549edad7b97264b48c9a3
+
 ---
 
-## 391506 — Lego Chima 391506 Fire Catapult Nowy
+## 391506 — Fire Catapult
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 8.99 zł · EAN: 05060668955857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 391506 |
+| Nazwa angielska | Fire Catapult |
+| Nazwa polska | Fire Catapult |
+| Seria | Chima |
+| Grupa wiekowa | — |
+| Rok wydania | 2015 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060668955857 |
 
 LEGO CHIMA 391506 Fire Catapult NOWY
 
@@ -307,11 +497,27 @@ Dokładam wszelkich starań aby moje aukcje były jak najlepiej opisane.
 
 Serdecznie zapraszam do zakupu oraz kontaktu w sprawie elementów których poszukujesz.
 
+**Galeria:**
+
+- 391506-1: https://a.allegroimg.com/original/11d21c/8fb4897543f6974bcf53335b8a91
+
 ---
 
-## 40012 — Lego 40012 Halloween Pumpkin Dynia saszetka klocki unikat
+## 40012 — Halloween Pumpkin
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419145985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40012 |
+| Nazwa angielska | Halloween Pumpkin |
+| Nazwa polska | Halloween Pumpkin |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419145985 |
 
 Witam
 
@@ -329,11 +535,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40012-1: https://a.allegroimg.com/original/11d96f/1de6c2a948bab751fa23b8957bd7
+
 ---
 
-## 40017 — Lego 40017 Wielkanocny koszyczek
+## 40017 — Easter Basket
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702014773042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40017 |
+| Nazwa angielska | Easter Basket |
+| Nazwa polska | Easter Basket |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014773042 |
 
 LEGO 40017 - Wielkanocny koszyczek
 
@@ -345,11 +567,26 @@ Zbuduj koszyk pełen wielkanocnej zabawy z LEGO®! Podaruj w te święta uroczy,
 - **Wymiary:** koszyczek ma ponad 7 cm szerokości i 7 cm wysokości.
 - **Idealny pomysł na świąteczny prezent!**
 
+**Galeria:**
+
+- 40017-1: https://a.allegroimg.com/original/118b16/aa8b1f994d76bdf05cfccc5cac7b
+
 ---
 
-## 4002014 — Lego 4002014 Hub Birds
+## 4002014 — Hub Birds
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1349.00 zł · EAN: 00673419238182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002014 |
+| Nazwa angielska | LEGO HUB Birds |
+| Nazwa polska | Hub Birds |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 827 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419238182 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -373,11 +610,27 @@ Zbuduj koszyk pełen wielkanocnej zabawy z LEGO®! Podaruj w te święta uroczy,
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4002014-1: https://a.allegroimg.com/original/11f33a/8c51562140efbc50ac0d79b439d9
+
 ---
 
-## 4002017 — Lego 4002017 dziadek do orzechów edycja limitowana
+## 4002017 — dziadek do orzechów
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1250.00 zł · EAN: 00673419123242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002017 |
+| Nazwa angielska | Nutcracker |
+| Nazwa polska | dziadek do orzechów |
+| Seria | Technic |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 732 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419123242 |
 
 **LEGO 4002017 Dziadek do orzechów (Nutcracker) – edycja ekskluzywna**
 
@@ -399,11 +652,27 @@ Model składa się z **732 elementów**, a po zbudowaniu prezentuje się jako wy
 
 LEGO 4002017 Dziadek do orzechów to rzadki i ceniony zestaw, który łączy świąteczną tradycję z inżynieryjną precyzją LEGO, stanowiąc wyjątkową pozycję w każdej kolekcji.
 
+**Galeria:**
+
+- 4002017-1: https://a.allegroimg.com/original/1177cc/6c61f5eb4378af5c56abd53bbfff
+
 ---
 
-## 40048 — Lego 40048 tort urodzinowy saszetka z klockami model wycofany
+## 40048 — Birthday Cake
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 49.00 zł · EAN: 00673419180924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40048 |
+| Nazwa angielska | Birthday Cake |
+| Nazwa polska | Birthday Cake |
+| Seria | Seasonal |
+| Grupa wiekowa | — |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419180924 |
 
 Witam
 
@@ -419,11 +688,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40048-1: https://a.allegroimg.com/original/118b5b/04ebef6e41f1b35b1f49b3a3b6f4
+
 ---
 
-## 40057 — Lego Exclusive 40057 Praca w Ogrodzie Spadające Liście saszetka
+## 40057 — Praca w Ogrodzie
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 125.00 zł · EAN: 00673419183819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40057 |
+| Nazwa angielska | Fall Scene |
+| Nazwa polska | Praca w Ogrodzie |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419183819 |
 
 Witam
 
@@ -437,11 +722,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40057-1: https://a.allegroimg.com/original/11f554/868dd7a94011a51bddce5fb1464f
+
 ---
 
-## 40145 — Lego Classic 40145 Lego Store Otwarcie Sklepu
+## 40145 — Otwarcie Sklepu
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 117.90 zł · EAN: 00673419234016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40145 |
+| Nazwa angielska | LEGO Store |
+| Nazwa polska | Otwarcie Sklepu |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 413 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419234016 |
 
 **LEGO 40145 – Otwarcie Sklepu**
 
@@ -462,11 +762,26 @@ Najważniejsze cechy zestawu:
 
 LEGO 40145 Otwarcie Sklepu to nie tylko zestaw klocków, ale także symbol świata pełnego kreatywności, zabawy i nieograniczonej wyobraźni. Idealny dla kolekcjonerów oraz wszystkich osób, które chcą mieć własny fragment uniwersum LEGO na swojej półce.
 
+**Galeria:**
+
+- 40145-1: https://a.allegroimg.com/original/114fb8/eb0860f044908a62cf7af2e236c3
+
 ---
 
-## 40197 — Lego 40197 Upominkowy zestaw ślubny Nowe
+## 40197 — Upominkowy zestaw ślubny 40197
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 494.00 zł · EAN: 00673419289887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40197 |
+| Nazwa angielska | Wedding Favour 2018 |
+| Nazwa polska | Upominkowy zestaw ślubny 40197 |
+| Seria | inna |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | 2018 |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 13 cm |
+| EAN | 673419289887 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -482,11 +797,27 @@ Upominkowy zestaw ślubny do zbudowania sprawi, że Twój wielki dzień będzie 
 - W zestawie są też trzy peruki dla panny młodej i kapelusz dla pana młodego.
 - Model ma ok. 9 cm wysokości, 9 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 40197-1: https://a.allegroimg.com/original/119bc7/a3146dd4475db023db94fa3317ec
+
 ---
 
-## 40204 — Lego 40204 Okolicznościowe Świąteczny obiad Lego
+## 40204 — Świąteczny obiad LEGO
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 47.90 zł · EAN: 05702015594547 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40204 |
+| Nazwa angielska | Pilgrim's Feast |
+| Nazwa polska | Świąteczny obiad LEGO |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594547 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -499,11 +830,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 40204-1: https://a.allegroimg.com/original/11ecd8/170134cf48e79b93897d41294277
+
 ---
 
-## 40234 — Lego 40234 Rok Koguta Rok 2017 157 elementów
+## 40234 — Year of the Rooster
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 595.99 zł · EAN: 05702015617413 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40234 |
+| Nazwa angielska | Year of the Rooster |
+| Nazwa polska | Year of the Rooster |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015617413 |
 
 **LEGO 40234 Rok Koguta**
 
@@ -543,11 +890,27 @@ Wymiary opakowania:
 
 - 14 x 12 x 4,5 cm
 
+**Galeria:**
+
+- 40234-1: https://a.allegroimg.com/original/117a50/3222106c44b7867e63f6a60cc286
+
 ---
 
-## 40237 — Lego 40237 Pogoń za jajkiem wielkanocnym
+## 40237 — Pogoń za jajkiem wielkanocnym
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 88.00 zł · EAN: 05702015867009 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40237 |
+| Nazwa angielska | Easter Egg Hunt |
+| Nazwa polska | Pogoń za jajkiem wielkanocnym |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867009 |
 
 LEGO 40237 Pogoń za jajkiem wielkanocnym
 
@@ -573,11 +936,26 @@ LEGO 40237 Pogoń za jajkiem wielkanocnym
 
 **Stan**
 
+**Galeria:**
+
+- 40237-1: https://a.allegroimg.com/original/11684d/e6f889474c97b17f491d25ab67e1
+
 ---
 
-## 40248 — Lego 40248 Minibudowa Robot saszetka z klockami edycja limitowana
+## 40248 — Robot
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015867412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40248 |
+| Nazwa angielska | Robot |
+| Nazwa polska | Robot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867412 |
 
 Witam
 
@@ -593,11 +971,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40248-1: https://a.allegroimg.com/original/1112bf/70a285b1424cbfb661b6f00217e7
+
 ---
 
-## 40262 — Lego 40262 Świąteczny pociąg
+## 40262 — Świąteczny pociąg
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702015868471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40262 |
+| Nazwa angielska | Christmas Train Ride |
+| Nazwa polska | Świąteczny pociąg |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 169 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 19 cm × gł. 17 cm |
+| EAN | 5702015868471 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -636,11 +1030,27 @@ Wszyscy do wagonów, świąteczny pociąg LEGO® zaraz wyrusza! W zestawie znaj
 
 - Zestaw LEGO Promocyjne - Świąteczny pociąg trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 40262. Zawiera 169 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Promocyjne - Christmas Train Ride. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 40262-1: https://a.allegroimg.com/original/112bd1/a64b4c4344cab2da43dbbecf3657
+
 ---
 
-## 40293 — Lego 40293 Bożonarodzeniowa karuzela Nowy
+## 40293 — Bożonarodzeniowa karuzela
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702016122961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40293 |
+| Nazwa angielska | Christmas Carousel |
+| Nazwa polska | Bożonarodzeniowa karuzela |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122961 |
 
 LEGO 40293 Bożonarodzeniowa karuzela NOWY
 
@@ -651,11 +1061,26 @@ LEGO 40293 Bożonarodzeniowa karuzela NOWY
 
 Świąteczna linia LEGO - Bożonarodzeniowa karuzela - to idealny zestaw na prezent dla każdego dziecka. Ruchome  elementy sprawiają, że zabawa karuzelą jest jeszcze lepsza. Zestaw składa się z 251 elementów, w tym z pociągu z wagonikami oraz choinki. Z największej ilości elementów zostanie utworzona karuzela z ruchomymi elementami.
 
+**Galeria:**
+
+- 40293-1: https://a.allegroimg.com/original/113fba/9d6ef0784385b5393b80da2563de
+
 ---
 
-## 40400 — Lego Miscellaneous 40400 Drzewo z jabłkami jabłonka ptaszek saszetka klocki
+## 40400 — Bird in a tree
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702016656893 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40400 |
+| Nazwa angielska | Apple Tree |
+| Nazwa polska | Bird in a tree |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656893 |
 
 Witam
 
@@ -671,11 +1096,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40400-1: https://a.allegroimg.com/original/11980f/ff69fb464aeb81d72294e66ce1e3
+
 ---
 
-## 40426 — Lego 40426 Bożonarodzeniowy wieniec 2 w 1
+## 40426 — Bożonarodzeniowy wieniec 2 w 1
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 203.99 zł · EAN: 05702016720280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40426 |
+| Nazwa angielska | Christmas Wreath 2-in-1 |
+| Nazwa polska | Bożonarodzeniowy wieniec 2 w 1 |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720280 |
 
 LEGO® 40426 Bożonarodzeniowy wieniec 2 w 1
 
@@ -693,11 +1134,26 @@ Wiek 9+
 
 - Adwentowy stroik ma ok. 25 cm średnicy. Świece w pełnej długości mają ponad 8 cm, ale można je także skrócić, tak aby naśladowały wypalanie się prawdziwych świeczek.
 
+**Galeria:**
+
+- 40426-1: https://a.allegroimg.com/original/11fbac/fdbada064720ad65194d67a599c0
+
 ---
 
-## 40501 — Chd: Lego 40501 House Drewniana kaczka
+## 40501 — Drewniana kaczka
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 599.88 zł · EAN: 05702016757323 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40501 |
+| Nazwa angielska | The Wooden Duck |
+| Nazwa polska | Drewniana kaczka |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 18 cm × gł. 12 cm |
+| EAN | 5702016757323 |
 
 **Typ produktu: **Zestaw
 
@@ -720,34 +1176,26 @@ Zestaw konstrukcyjny LEGO® Każdy jest wspaniały (40516) to Twój własny symb
 - Zestaw ma ok. 10 cm wysokości, 18 cm szerokości i 12 cm głębokości. 
 - Zestaw konstrukcyjny dla dorosłych LEGO® Każdy jest wspaniały (40516) to ciekawy sposób na cieszenie się różnorodnością podczas budowania przyciągającej wzrok ozdoby, która będzie doskonale wyglądać w każdej części domu.
 
----
+**Galeria:**
 
-## 40573 — Lego Choinka 40573 Lego
-
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 152.99 zł · EAN: 05702017241937 · in stock*
-
-LEGO Choinka 40573 (zabawka)
-
-- Producent: **LEGO**
-- Wiek: **od 12 lat**
-- Płeć: **chłopiec lub dziewczynka**
-- Kod paskowy (EAN): **5702017241937**
-
-Zabawka "LEGO Choinka 40573" - opis
-
-Zbuduj przyciągającą wzrok świąteczną ozdobę dzięki zestawowi konstrukcyjnemu LEGO Choinka (40573). Kolorowe drzewko jest ozdobione ornamentami oraz świeczkami i stoi na dekoracyjnej podstawce. Zwieńcz choinkę gwiazdką, którą można założyć na czubek. Ten model dwa w jednym pozwala zbudować jedną dużą choinkę lub dwie mniejsze.
-
-- Choinka inna niż wszystkie - zbuduj świąteczną ozdobę dzięki zestawowi konstrukcyjnemu LEGO Choinka (40573). To doskonały prezent dla dzieci i miłośników Świąt w wieku od 12 lat.
-
-- Dwa modele w jednym - możesz zbudować jedną większą choinkę lub dwie mniejsze. Niezależnie od wyboru będziesz się świetnie bawić, ozdabiając gałęzie drzewka bożonarodzeniowymi dekoracjami.
-
-- Wymiary - większa choinka ma ok. 30.0 cm wysokości, średnia ma ok. 23.0 cm wysokości, a mała - ok. 16.0 cm wysokości. Możesz zbudować jedną choinkę lub dwie mniejsze.
+- 40501-1: https://a.allegroimg.com/original/119f87/4ab3a70d4404a778bcec02aa6e11
 
 ---
 
-## 40574 — Lego Classic 40574 Sklep firmowy
+## 40574 — Sklep firmowy
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702017241944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40574 |
+| Nazwa angielska | Lego Brand Store |
+| Nazwa polska | Sklep firmowy |
+| Seria | Classic |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 541 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm × gł. 5 cm |
+| EAN | 5702017241944 |
 
 LEGO 40644
  
@@ -768,11 +1216,26 @@ Zestaw LEGO® Piniata (40644) dla ośmiolatków i starszych dzieci wprowadzi imp
 - Ruchomy osiołek – dzieci mogą ruszać głową, szyją, ogonem, nogami i uszami osiołka, bawić się nim lub postawić jako dekorację 
 - Wymiary – piniata ma 10 cm wysokości, 5 cm szerokości i 5 cm głębokości. Będzie świetnym prezentem na imprezę o każdej porze roku
 
+**Galeria:**
+
+- 40574-1: https://a.allegroimg.com/original/111a35/ccd1c8bf45aba325160b3e275644
+
 ---
 
-## 40593 — Lego 40593 Kreatywna zabawa 12 w 1
+## 40593 — Kreatywna zabawa 12 w 1
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 74.00 zł · EAN: 05702017470436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40593 |
+| Nazwa angielska | Fun Creativity 12-in-1 |
+| Nazwa polska | Kreatywna zabawa 12 w 1 |
+| Seria | Unikitty |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017470436 |
 
 LEGO Promocyjne 40593 Kreatywna zabawa 12 w 1
 
@@ -789,11 +1252,26 @@ Zabawka zachęca do kreatywności w domu lub podczas podróży, a do tego może 
 - 12 modeli — zestaw zawiera elementy do zbudowania 12 różnych modeli, w tym pojazdów, budynków, zwierząt, jedzenia i innych przedmiotów. Poza tym możesz stworzyć coś zupełnie nowego 
 - Buduj i przebudowuj — zestaw pomaga rozwinąć wyobraźnię i umiejętności opowiadania historii podczas podróży lub wakacji, a gotowe modele stanowią piękną ozdobę
 
+**Galeria:**
+
+- 40593-1: https://a.allegroimg.com/original/11b5d9/f351e05a46c1b6e45ca5e1b2ee31
+
 ---
 
-## 40605 — Lego Vip 40605 Rok księżycowy saszetka z klockami edycja limitowana
+## 40605 — Lunar New Year
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 43.99 zł · EAN: 05702017422152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40605 |
+| Nazwa angielska | Lunar New Year VIP Add-On Pack |
+| Nazwa polska | Lunar New Year |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017422152 |
 
 LEGO 40605 to nie tylko zabawka, to także piękny element dekoracyjny, który wprowadzi magiczną atmosferę święta do każdego domu. Jako limitowana edycja, ten zestaw jest rzadkim i pożądanym dodatkiem dla kolekcjonerów LEGO i miłośników kultury wschodniej. Nie przegap okazji, aby wzbogacić swoją kolekcję o ten wyjątkowy zestaw.
 
@@ -802,11 +1280,26 @@ LEGO 40605 to nie tylko zabawka, to także piękny element dekoracyjny, który w
 - Klocki marki LEGO
 - Instrukcja
 
+**Galeria:**
+
+- 40605-1: https://a.allegroimg.com/original/11c7d4/0131df3f4eceb9fe1e8223f322fa
+
 ---
 
-## 40606 — Lego Vip 40606 Wiosenna Frajda
+## 40606 — Wiosenna Frajda
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 69.89 zł · EAN: 05702017422169 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40606 |
+| Nazwa angielska | Spring Fun VIP Add-On Pack |
+| Nazwa polska | Wiosenna Frajda |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017422169 |
 
 Klocki LEGO Promocyjne 40606 - Wiosenna frajda - zestaw dodatkowy VIP
  
@@ -820,11 +1313,26 @@ Bardzo poważnie podchodzimy do zadowolenia klientów dlatego priorytetem jest z
  
 Samo pudełko z klockami także zabezpieczamy folią przed spakowaniem.
 
+**Galeria:**
+
+- 40606-1: https://a.allegroimg.com/original/1102ab/33a7570e4ca7a83119357688c643
+
 ---
 
-## 40608 — Lego 40608 Halloweenowa Frajda 6+ Polybag Nowy
+## 40608 — Halloweenowa Frajda - zestaw dodatkowy VIP
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702017471198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40608 |
+| Nazwa angielska | Halloween Fun VIP Add-On Pack |
+| Nazwa polska | Halloweenowa Frajda - zestaw dodatkowy VIP |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471198 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -848,11 +1356,26 @@ Zawartość zestawu LEGO 40608 zapewnia szerokie możliwości zabawy i eksperyme
 
 Wszystkie klocki są łatwe do połączenia i rozdzielenia, co sprzyja rozwijaniu zdolności manualnych oraz stymuluje wyobraźnię. Jest to również doskonała okazja, by wpleść element edukacyjny w zabawę, ucząc dzieci o tradycjach związanych z Halloween, jednocześnie dając im narzędzia do wyrażenia własnych pomysłów i koncepcji związanych z tym świętem.
 
+**Galeria:**
+
+- 40608-1: https://a.allegroimg.com/original/11528e/50a17c504c61b2f8246632547c80
+
 ---
 
-## 40610 — Lego Vip 40610 Zimowa frajda saszetka z klockami limited
+## 40610 — Zimowa frajda - zestaw dodatkowy VIP
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 72.00 zł · EAN: 05702017471211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40610 |
+| Nazwa angielska | Winter Fun VIP Add-On Pack |
+| Nazwa polska | Zimowa frajda - zestaw dodatkowy VIP |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471211 |
 
 Witam
 
@@ -876,11 +1399,26 @@ LEGO zestaw dodatkowy VIP **"Zimowa frajda"**
 
 Zestaw LEGO Promocyjne - Zimowa frajda - zestaw dodatkowy VIP trafił do sprzedaży w 2023 roku. Numer katalogowy tego zestawu to 40610. Zawiera 142 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Promocyjne - Winter Fun VIP Add-On Pack
 
+**Galeria:**
+
+- 40610-1: https://a.allegroimg.com/original/112708/fbc5b17d4150b648266d523f57b5
+
 ---
 
-## 40638 — Lego Creator 40638 Ozdoba w Kształcie Serca na Walentynki
+## 40638 — LEGO Iconic 40638 Ozdoba w Kształcie Serca
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 33.75 zł · EAN: 05702017422725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40638 |
+| Nazwa angielska | Heart Ornament |
+| Nazwa polska | LEGO Iconic 40638 Ozdoba w Kształcie Serca |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 20 cm |
+| EAN | 5702017422725, 5906361140087 |
 
 LEGO Creator 40638 - Ozdoba w Kształcie Serca - Prezent na Walentynki
 
@@ -918,11 +1456,27 @@ W pudełku oraz w instrukcji znajdziesz dwa gotowe pomysły na zdobienie, które
 
 **Podaruj radość z budowania i kawałek swojego serca. Zamów zestaw LEGO® 40638 już dziś!**
 
+**Galeria:**
+
+- 40638-1: https://a.allegroimg.com/original/11e825/ecf12d854c47ac3579ad4f76ce75
+
 ---
 
-## 40640 — Lego Classic 40640 Dziadek do orzechów
+## 40640 — Dziadek do orzechów
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 53.00 zł · EAN: 05702017470351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40640 |
+| Nazwa angielska | Nutcracker |
+| Nazwa polska | Dziadek do orzechów |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017470351 |
 
 **LEGO Dziadek do orzechów 40640**
 
@@ -932,11 +1486,27 @@ Obchodź święta z zestawem Dziadek do orzechów LEGO® (40640). Ta kultowa fig
 - Świąteczny prezent — Dziadek do orzechów LEGO® (40640) będzie wspaniałym prezentem dla każdego w wieku od ośmiu lat
 - Wymiary — po zbudowaniu figurka dziadka do orzechów ma 16 cm wysokości i będzie stanowić świetną ozdobę każdego pokoju
 
+**Galeria:**
+
+- 40640-1: https://a.allegroimg.com/original/0522b4/bb415ca144b6b73f54a32118a344
+
 ---
 
-## 40642 — Lego Classic 40642 Piernikowe ozdoby wgniotka
+## 40642 — Piernikowe ozdoby
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017471525 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40642 |
+| Nazwa angielska | Gingerbread Ornaments |
+| Nazwa polska | Piernikowe ozdoby |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471525 |
 
 **delikatna wgniotka, która spowodowała niewielkie rozdarcie narożnika kartonika, niewielkie obcierki**
 
@@ -960,11 +1530,27 @@ Zbuduj każdą figurkę po swojemu, tworząc niepowtarzalne projekty, które wpr
 
 Świetny pomysł na prezent — wywołaj świąteczny uśmiech u budowniczych LEGO® w wieku od sześciu lat i wręcz im ten zestaw jako niespodziankę na urodziny, święta lub z innej okazji.
 
+**Galeria:**
+
+- 40642-1: https://a.allegroimg.com/original/11b5b0/4199b92045d6b917c46be658411e
+
 ---
 
-## 40679 — Lego 40679 Okolicznościowe Miłosne pudełko prezentowe
+## 40679 — Miłosne pudełko prezentowe
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 82.46 zł · EAN: 05702017596006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40679 |
+| Nazwa angielska | Love Gift Box |
+| Nazwa polska | Miłosne pudełko prezentowe |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm × gł. 6 cm |
+| EAN | 5702017596006 |
 
 Klocki LEGO Okolicznościowe 40679 - Miłosne pudełko prezentowe
 
@@ -990,11 +1576,27 @@ Dzięki prezentom walentynkowym w zestawie LEGO® Miłosne pudełko prezentowe (
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40679-1: https://a.allegroimg.com/original/11f608/0923ee5f4bb7ab54c97cffad4aee
+
 ---
 
-## 40682 — Lego 40682 Classic Wiosenny domek Zając i kurczak
+## 40682 — Wiosenny domek
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 48.99 zł · EAN: 05702017596754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40682 |
+| Nazwa angielska | Spring Garden House |
+| Nazwa polska | Wiosenny domek |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 13 cm |
+| EAN | 5702017596754 |
 
 LEGO OKOLICZNOŚCIOWE 40682
  
@@ -1009,11 +1611,26 @@ WIOSENNY DOMEK
 - Wielkanocna zabawka — Wiosenny domek to świetny prezent sezonowy dla dzieci w wieku od sześciu lat, które uwielbiają zwierzęta i przyrodę 
 - Wymiary — ten 277-elementowy model ma 13 cm wysokości, 9 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 40682-1: https://a.allegroimg.com/original/1161cb/a1f108624cf096bb389d243b3ab4
+
 ---
 
-## 40685 — Lego Classic 40685 Park wodny
+## 40685 — Park wodny
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 104.50 zł · EAN: 05702017597881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40685 |
+| Nazwa angielska | Water Park |
+| Nazwa polska | Park wodny |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 19 cm × gł. 10 cm |
+| EAN | 5702017597881 |
 
 LEGO 40685 Promocyjne - Park wodny
  
@@ -1040,11 +1657,26 @@ Zestaw LEGO® Park wodny (40685) to świetny prezent z okazji Dnia Dziecka dla d
  
 - Wymiary — ten **132-elementowy** model ma **16 cm wysokości, 19 cm szerokości i 10 cm głębokości**
 
+**Galeria:**
+
+- 40685-1: https://a.allegroimg.com/original/115e40/6fac28494dfcaa59876cd9414243
+
 ---
 
-## 40688 — Lego Ideas 40688 Puchar
+## 40688 — Puchar
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 89.50 zł · EAN: 05702017596051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40688 |
+| Nazwa angielska | Trophy |
+| Nazwa polska | Puchar |
+| Seria | Ideas |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 10 cm × gł. 7 cm |
+| EAN | 5702017596051 |
 
 LEGO® 40688 Puchar
 
@@ -1057,11 +1689,27 @@ Uczcij sukces, wręczając Puchar LEGO® dzieciom w wieku od siedmiu lat. Do tro
 - Pomysłowy prezent LEGO® na Dzień Matki, Dzień Ojca lub inne okazje – do pucharu dołączono płytki, na których znajdują się dedykacje dla najlepszej mamy, najlepszego taty, najlepszego przyjaciela, mistrza oraz płytka z gratulacjami
 - Wymiary – Puchar LEGO® ma 11 cm wysokości, 10 cm szerokości i 7 cm głębokości. To idealny sposób na uczczenie sukcesów dzieci
 
+**Galeria:**
+
+- 40688-1: https://a.allegroimg.com/original/115453/ec2089644270b7ac8d32c329fde4
+
 ---
 
-## 40707 — Lego Creator 40707 Rok węża
+## 40707 — Rok węża
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 37.77 zł · EAN: 05702017598789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40707 |
+| Nazwa angielska | Year of the Snake |
+| Nazwa polska | Rok węża |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702017598789 |
 
 LEGO® 40707 Rok węża
 
@@ -1074,11 +1722,26 @@ Rozwiń kreatywność ośmiolatków i starszych dzieci w ten Nowy Rok księżyco
 - Pomysł na prezent dla dzieci — zestaw doskonale sprawdzi się jako prezent na Nowy Rok księżycowy, a także jako zabawka dla dzieci, które uwielbiają zwierzęta
 - Wymiary — zestaw zawiera 174 elementy, a wąż ma 9 cm wysokości, 10 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40707-1: https://a.allegroimg.com/original/11ff9f/f880677d45a19fc740c57ad84d29
+
 ---
 
-## 40746 — Klocki Lego Classic 40746 Ciężarówka Świętego Mikołaja
+## 40746 — LEGO Iconic 40746 Ciężarówka Świętego Mikołaja
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 54.60 zł · EAN: 05702017598574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40746 |
+| Nazwa angielska | Santa's Delivery Truck |
+| Nazwa polska | LEGO Iconic 40746 Ciężarówka Świętego Mikołaja |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 7 cm |
+| EAN | 5702017598574 |
 
 Klocki LEGO Classic 40746 Ciężarówka Świętego Mikołaja
 
@@ -1134,11 +1797,26 @@ Po zbudowaniu zestaw stanowi magiczną dekorację świąteczną LEGO. To także 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017598574
 
+**Galeria:**
+
+- 40746-1: https://a.allegroimg.com/original/11073d/be1640ce422da1f0f38aad71368e
+
 ---
 
-## 40776 — Zestaw Lego Creator 40776 Stoisko Z Gorącą Czekoladą
+## 40776 — Klocki LEGO Creator 40776 Stoisko z gorącą czekoladą
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 69.85 zł · EAN: 00673419408486 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40776 |
+| Nazwa angielska | Hot Chocolate Stand |
+| Nazwa polska | Klocki LEGO Creator 40776 Stoisko z gorącą czekoladą |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 256 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 16 cm × gł. 10 cm |
+| EAN | 673419408486 |
 
 ZESTAW LEGO CREATOR - 40776 - STOISKO Z GORĄCĄ CZEKOLADĄ
 
@@ -1176,11 +1854,27 @@ Model wyróżnia się bogactwem świątecznych detali, które nadają mu wyjątk
 
 Zestaw LEGO Creator 40776 to idealny wybór dla wszystkich, którzy lubią klimatyczne, świąteczne modele i kreatywną zabawę. To zestaw, który nie tylko świetnie wygląda po złożeniu, ale również daje dużo radości podczas budowania i odgrywania scenek. Dzięki swojemu wyjątkowemu charakterowi sprawdzi się jako prezent urodzinowy, świąteczny lub zupełnie bez okazji – po prostu, aby sprawić komuś radość.
 
+**Galeria:**
+
+- 40776-1: https://a.allegroimg.com/original/11641b/bba0c49d4f9db04308166a587ebb
+
 ---
 
-## 40779 — Lego 40779 Rok konia
+## 40779 — Rok konia
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 37.49 zł · EAN: 05702017829876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40779 |
+| Nazwa angielska | Year of the Horse |
+| Nazwa polska | Rok konia |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702017829876 |
 
 Podaruj szczęście chłopcom i dziewczynkom w wieku od ośmiu lat w formie zestawu LEGO® Rok konia (40779). Ten model kultowego zwierzęcia zodiakalnego ma biało-brązową grzywę i uniesione kopyto. Koń stoi na podstawie ozdobionej kwiatami i złotymi liśćmi. Po zbudowaniu stanowi uroczą ozdobę na Święto Wiosny, którą można cieszyć się nie tylko od święta. Zestaw zawiera 132 elementy.
  
@@ -1192,11 +1886,26 @@ Podaruj szczęście chłopcom i dziewczynkom w wieku od ośmiu lat w formie zest
 - Upominek dla dzieci — zestaw będzie wspaniałym prezentem dla każdego, kto chce uczcić Święto Wiosny, a także ciekawym upominkiem dla chłopców i dziewczynek uwielbiających zwierzęta 
 - Wymiary — koń w tym 132-elementowym zestawie ma 10 cm wysokości, 9 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 40779-1: https://a.allegroimg.com/original/111325/408d9392451eaec4dcafc9885c1a
+
 ---
 
-## 40783 — Klocki Lego Diorama rafy koralowej Classic 260 elementów
+## 40783 — LEGO 40783 Diorama rafy koralowej
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 98.98 zł · EAN: 05702017830773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40783 |
+| Nazwa angielska | Coral Reef Diorama |
+| Nazwa polska | LEGO 40783 Diorama rafy koralowej |
+| Seria | Classic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm × gł. 12 cm |
+| EAN | 5702017830773 |
 
 **Diorama z rafą koralową**
  
@@ -1210,11 +1919,26 @@ LEGO® Diorama z rafą koralową (40783) to drugi zestaw z kolekcjonerskiej seri
 - Prezent dla dzieci i miłośników oceanu — zestaw będzie kreatywnym prezentem dla każdego wielbiciela przyrody, morskich stworzeń i morza 
 - Wymiary — 260-elementowy zestaw z modelem ma 9 cm wysokości, 11 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 40783-1: https://a.allegroimg.com/original/11e377/9fedd3784fd0adf673de47d2d9d6
+
 ---
 
-## 40805 — Lego Ideas 40805 Automat do gry
+## 40805 — Automat do gry
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 189.55 zł · EAN: 05702017829951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40805 |
+| Nazwa angielska | Arcade Machine |
+| Nazwa polska | Automat do gry |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 468 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 11 cm × gł. 8 cm |
+| EAN | 5702017829951 |
 
 Fani gier wideo mają teraz okazję zbudować fajną ozdobę do pokoju dzięki zestawowi LEGO® Automat do gry (40805). Ten fajny model kolekcjonerski otwiera się, odsłaniając pokój gracza z miniaturowym automatem do gier do zbudowania, komputerem, sofą i minifigurką LEGO® z kontrolerem. Włóż dołączone do zestawu monety do gniazda automatu, który je ponownie wyrzuci. Ten model z pewnością zainspiruje każdego gracza w wieku od 10 lat i dorosłych fanów gier.
 
@@ -1226,11 +1950,26 @@ Fani gier wideo mają teraz okazję zbudować fajną ozdobę do pokoju dzięki z
 - Prezent w stylu retro dla dzieci i dorosłych fanów gier wideo — podaruj ten 468-elementowy zestaw konstrukcyjny LEGO® dzieciom w wieku od 10 lat i dorosłym fanom gier 
 - Wymiary — ten model automatu do gier do zbudowania ma 16 cm wysokości, 11 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40805-1: https://a.allegroimg.com/original/11baab/04dda1d0479ca1f5414f635457cc
+
 ---
 
-## 40807 — Lego Iconic 40807 Urodzinowe cyferki
+## 40807 — LEGO Iconic 40807 Urodzinowe cyferki
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 61.83 zł · EAN: 05702017830810 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40807 |
+| Nazwa angielska | Birthday Numbers |
+| Nazwa polska | LEGO Iconic 40807 Urodzinowe cyferki |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7,5 cm × szer. 4,5 cm × gł. 3 cm |
+| EAN | 5702017830810 |
 
 LEGO Iconic 40807 Urodzinowe cyferki
 
@@ -1250,11 +1989,26 @@ Ten zestaw to nie tylko świetny prezent urodzinowy, z którego można korzysta�
 - Wspólne budowanie — dzieci mogą budować klocki LEGO® samodzielnie lub z przyjaciółmi i rodziną.
 - Wymiary — każda cyfra ma 7,5 cm wysokości, 4,5 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 40807-1: https://a.allegroimg.com/original/1190d8/39287c024033a92bc619b13d3fc9
+
 ---
 
-## 40816 — Lego Ikoniczne 40816 Dekoracyjne jajko wielkanocne
+## 40816 — LEGO Iconic 40816 Dekoracyjna pisanka
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 43.90 zł · EAN: 05702017830742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40816 |
+| Nazwa angielska | Decorative Easter Egg |
+| Nazwa polska | LEGO Iconic 40816 Dekoracyjna pisanka |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702017830742 |
 
 LEGO® 40816 Dekoracyjna pisanka
 
@@ -1269,11 +2023,26 @@ Ten zestaw konstrukcyjny to świetny prezent dla dzieci i miłośników wiosenny
 - Wiosenny prezent dla dorosłych i dzieci — ten fajny wiosenny model będzie wspaniałym prezentem dla dzieci i miłośników świąt, który może cieszyć oko przez cały rok 
 - Wymiary — zestaw z 386 elementami zawiera model pisanki do zbudowania, która ma 10 cm wysokości, 7 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40816-1: https://a.allegroimg.com/original/05e210/7443f10c4ee9be5035ac090dbcfe
+
 ---
 
-## 40817 — Lego Creator 40817 Żółta walizka podróżna
+## 40817 — Żółta walizka podróżna
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 74.43 zł · EAN: 05702017830575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40817 |
+| Nazwa angielska | Yellow Travel Suitcase |
+| Nazwa polska | Żółta walizka podróżna |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830575, 5702017887821 |
 
 LEGO Creator 40817 Żółta walizka podróżna
 
@@ -1305,11 +2074,27 @@ Spakuj paszport i przygotuj się na przygodę dzięki zestawowi konstrukcyjnemu 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017830575
 
+**Galeria:**
+
+- 40817-1: https://a.allegroimg.com/original/1114e0/0aa706af46c3a3c7f1cd5bd07f04
+- 40817-2: https://a.allegroimg.com/original/11b3ab/4aaf79b74b57bdbd76db38f8ccf3
+
 ---
 
-## 40822 — Lego Iconic 40822 Dyniowy pickup
+## 40822 — Dyniowy pickup
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 45.88 zł · EAN: 05702017830865 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40822 |
+| Nazwa angielska | Jack-o'-Lantern Pickup Truck |
+| Nazwa polska | Dyniowy pickup |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702017830865 |
 
 LEGO Inne
 
@@ -1348,11 +2133,26 @@ SPECYFIKACJA ZESTAWU:
 - **Wiek**: 8 lat
 - **Płeć: **dziewczynki, chłopcy
 
+**Galeria:**
+
+- 40822-1: https://a.allegroimg.com/original/0585ee/58b663974a35a4d6a7571a43fddf
+
 ---
 
-## 40824 — Lego Uroczy kanarek Tweety 40824 Lego
+## 40824 — LEGO Iconic 40824 Uroczy kanarek Tweety
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 99.24 zł · EAN: 05702017830582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40824 |
+| Nazwa angielska | Sweetheart Tweety Bird |
+| Nazwa polska | LEGO Iconic 40824 Uroczy kanarek Tweety |
+| Seria | Seasonal |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 412 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830582 |
 
 LEGO Uroczy kanarek Tweety 40824 (zabawka)
 
@@ -1379,11 +2179,26 @@ Bukiet i serce - w drugim wydaniu Tweety może pozować z bukietem kwiatów, kt�
 
 - Wymiary - zestaw składa się z 412 elementów, a figurka Tweety’ego ma 17.0 cm wysokości.
 
+**Galeria:**
+
+- 40824-1: https://a.allegroimg.com/original/11bff3/4c66b7ca427baed4522b723ddce9
+
 ---
 
-## 40825 — Klocki Lego Iconic 40825 Wieniec na Halloween
+## 40825 — Wieniec na Halloween
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 126.51 zł · EAN: 05702017831022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40825 |
+| Nazwa angielska | Halloween Wreath |
+| Nazwa polska | Wieniec na Halloween |
+| Seria | Seasonal |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 617 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 26 cm |
+| EAN | 5702017831022 |
 
 LEGO ICONIC 
 
@@ -1427,11 +2242,26 @@ SPECYFIKACJA ZESTAWU:
 
 - **Płeć:** dziewczynki, chłopcy
 
+**Galeria:**
+
+- 40825-1: https://a.allegroimg.com/original/116274/8943acc546f596deb593fc654947
+
 ---
 
-## 40864 — Lego 40864 Mistrz Szczęścia klocki zestaw figurka Fortune Master Nowy
+## 40864 — Mistrz Szczęścia LEGO 40864, ozdoba na święto wiosny
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 154.99 zł · EAN: 05702018058268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40864 |
+| Nazwa angielska | Fortune Master |
+| Nazwa polska | Mistrz Szczęścia LEGO 40864, ozdoba na święto wiosny |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 11 cm × gł. 10 cm |
+| EAN | 5702018058268 |
 
 Klocki LEGO Inne 40864 - Mistrz Szczęścia
 
@@ -1463,31 +2293,84 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
----
+**Galeria:**
 
-## 40867 — Lego Classic 40867 Litery Pełne Miłości
-
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 107.77 zł · EAN: 05702018071069 · in stock*
-
-LEGO 40867 Litery pełne miłości
-
-Dekoracja pełna miłości
- 
-Ta ozdoba składa się z liter wykonanych z różowych klocków na niebieskiej podstawie, które tworzą słowo „LOVE” („miłość”) lub „I – serduszko – U” („kocham cię”).
-
-**Pomysł na sezonową dekorację LEGO®**
- 
-Kolorowy zestaw stanowi uroczą ozdobę.
-
-Kolorowe kreacje
- 
-Dziewczynki i chłopcy w wieku od ośmiu lat mogą wykazać się kreatywnością, układając litery i personalizując je za pomocą kwiatowych dodatków.
+- 40864-1: https://a.allegroimg.com/original/11626b/2a6797e2482dbf0e1b04ea539bb8
 
 ---
 
-## 40890 — Lego 40890 Wielkanocne dekoracje
+## 40867 — LEGO Litery pełne miłości 40867, zabawka konstrukcyjna, dekoracja
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 72.90 zł · EAN: 05702018074114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40867 |
+| Nazwa angielska | Love Letters |
+| Nazwa polska | LEGO Litery pełne miłości 40867, zabawka konstrukcyjna, dekoracja |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071069, 5907213511055 |
+
+Zestaw oświetlenia do LEGO LOVE Litery pełne miłości #40867
+
+Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+
+Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+
+**Wydobądź więcej ze swojego zestawu LEGO®.**
+
+Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
+
+Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
+
+**W zestawie:**
+
+• Gotowe do podłączenia oświetlenie LED (USB-A)
+
+• Pojemnik na baterie
+
+• Instrukcja montażu
+
+Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
+
+- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
+- Prosty montaż. Bez narzędzi. Bez lutowania
+- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+
+**Galeria:**
+
+- 40867-1: https://a.allegroimg.com/original/05aa78/ddfc4d6f48c9ba2ab821524b2876
+- 40867-2: https://a.allegroimg.com/original/11d156/af6e4c1142e4b1991671f07c0443
+
+---
+
+## 40890 — Wielkanocne dekoracje
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40890 |
+| Nazwa angielska | Easter Decorations |
+| Nazwa polska | Wielkanocne dekoracje |
+| Seria | Seasonal |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm × gł. 2 cm |
+| EAN | 5702018074114 |
 
 Klocki LEGO 40890 - Wielkanocne dekoracje
  
@@ -1501,11 +2384,26 @@ Rozwiń kreatywność dziewczynek i chłopców w wieku od siedmiu lat dzięki ze
 - Prezent dla dzieci na Wielkanoc — zabawka konstrukcyjna to świetny pomysł na prezent wielkanocny dla dzieci, a także gratka dla miłośników zwierząt i dekoracji LEGO® 
 - Wymiary — zestaw zawiera 312 elementów, a pisanka ma 5 cm wysokości, 5 cm szerokości i 2 cm głębokości
 
+**Galeria:**
+
+- 40890-1: https://a.allegroimg.com/original/11cb6b/b3deaa4749cfb9ee03a25fdee470
+
 ---
 
-## 41287 — Klocki Lego Powerpuff Girls 41287 Pojedynek Bajki, 144 elementy, 6 lat
+## 41287 — LEGO 41287 Powerpuff Girls - Pojedynek Bajki na placu zabaw
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702016111729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41287 |
+| Nazwa angielska | Bubbles Playground Showdown |
+| Nazwa polska | LEGO 41287 Powerpuff Girls - Pojedynek Bajki na placu zabaw |
+| Seria | Powerpuff Girls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702016111729 |
 
 Klocki LEGO Powerpuff Girls 41287 - Pojedynek Bajki na placu zabaw
  
@@ -1523,11 +2421,26 @@ Urządź pojedynek z Księżniczką Forsiastą w zestawie LEGO® The Powerpuff G
 - Zjeżdżalnia ma ok. 4 cm wysokości, 8 cm szerokości i 3 cm głębokości. 
 - Karuzela ma ok. 3 cm wysokości i 6 cm średnicy.
 
+**Galeria:**
+
+- 41287-1: https://a.allegroimg.com/original/11190e/83f9dccf436f8aeae0de416852d9
+
 ---
 
-## 45305 — WeDo 2.0 Czujnik przechyłu 45305
+## 45305 — Lego WeDo 2.0 Czujnik przechyłu 45305
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 57.75 zł · EAN: 00673419251594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45305 |
+| Nazwa angielska | WeDo 2.0 Tilt Sensor |
+| Nazwa polska | Lego WeDo 2.0 Czujnik przechyłu 45305 |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 784 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419251594 |
 
 Czujnik przechyłu 45305 typu wedo 2.0
 
@@ -1537,11 +2450,26 @@ Podłącz czujnik ruchu i wykrywaj wychylenie obiektu w różnych pozycjach.
 
 Nie jest wymagana żadna konfiguracja; po prostu podłącz czujnik wychylenia, a zostanie on automatycznie zidentyfikowany przez oprogramowanie LWD 2.0.
 
+**Galeria:**
+
+- 45305-1: https://a.allegroimg.com/original/1105d3/1ccd114e455d8265d2d94388ee90
+
 ---
 
-## 4788 — nowy Lego City Alpha Team 4788 Ogel Mutant Ray Misb 2002
+## 4788 — Ogel Mutant Ray
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 349.99 zł · EAN: 00673419012461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4788 |
+| Nazwa angielska | Ogel Mutant Ray |
+| Nazwa polska | Ogel Mutant Ray |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419012461 |
 
 Cześć!
 
@@ -1559,11 +2487,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4788-1: https://a.allegroimg.com/original/1165c8/db30ca364fa492984ee25bf0741c
+
 ---
 
-## 4798 — nowy Lego 4798 Alpha Team Evil Ogel Attack Misb 2002
+## 4798 — Evil Ogel Attack
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702014152366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4798 |
+| Nazwa angielska | Evil Ogel Attack |
+| Nazwa polska | Evil Ogel Attack |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152366 |
 
 Cześć!
 
@@ -1581,11 +2524,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4798-1: https://a.allegroimg.com/original/111823/a4a985194f11be0a5b4070158b23
+
 ---
 
-## 5004934 — Lego 5004934 zestaw świąteczny choinka figurki
+## 5004934 — CHOINKA ŚWIĄTECZNA
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 88.00 zł · EAN: 00673419274197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004934 |
+| Nazwa angielska | Christmas Ornament |
+| Nazwa polska | CHOINKA ŚWIĄTECZNA |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274197 |
 
 5004934 - ŚWIĄTECZNY ORNAMENT
 
@@ -1593,11 +2552,26 @@ Zestaw klocków LEGO 5004934 Christmas Ornament został przedstawiony w 2017 r
 
 Ozdoba bożonarodzeniowa LEGO 5004934 to 66-elementowy sezonowy zestaw promocyjny z 2 minifigurkami wydany w 2017 roku.
 
+**Galeria:**
+
+- 5004934-1: https://a.allegroimg.com/original/11b104/75f9b11c4fcd9e4724a200f0c9f1
+
 ---
 
-## 5006911 — Lego 6392344 Stary aparat Vintage Camera Vip
+## 5006911 — Vintage Camera
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 165.99 zł · EAN: 05702017228532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006911 |
+| Nazwa angielska | Vintage Camera |
+| Nazwa polska | Vintage Camera |
+| Seria | Uniwersalne |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017228532 |
 
 **Zestaw jest nowy, zapakowany fabrycznie ze wszystkimi plombami. Pudełko zostanie starannie zabezpieczone i zapakowane w opakowanie zbiorcze z odpowiednią ilością wypełniaczy, które pomogą dotrzeć paczce do celu bez uszkodzeń.**
 
@@ -1611,11 +2585,26 @@ Ilość klocków:** 179**
  
 Zestaw ten pochodzi z edycji limitowanej z 2021 roku, adresowany dla użytkowników Lego VIP. Nie był dostępny w sprzedaży.
 
+**Galeria:**
+
+- 5006911-1: https://a.allegroimg.com/original/110b29/b1bf6e604d5c9abd74f77c3cec8d
+
 ---
 
-## 5008897 — Lego 6533581 Kółko I Krzyżyk Tic Tac Toe
+## 5008897 — Kółko i krzyżyk
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702017853185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008897 |
+| Nazwa angielska | Tic Tac Toe |
+| Nazwa polska | Kółko i krzyżyk |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017853185 |
 
 LEGO 5008897 Kółko i krzyżyk
  
@@ -1638,21 +2627,51 @@ Najważniejsze cechy zestawu:
  
 Zestaw **LEGO 5008897 Kółko i Krzyżyk** to świetna opcja na spędzenie czasu w gronie rodziny i przyjaciół, a także oryginalny sposób na ożywienie klasycznej zabawy.
 
+**Galeria:**
+
+- 5008897-1: https://a.allegroimg.com/original/11b1a7/6246ea794520bf517a057faca034
+
 ---
 
-## 5522 — Lego 5522 Zestaw na Złotą Rocznicę
+## 5522 — Zestaw na Złotą Rocznicę
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 550.00 zł · EAN: 05702014524682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5522 |
+| Nazwa angielska | Golden Anniversary Set |
+| Nazwa polska | Zestaw na Złotą Rocznicę |
+| Seria | inna |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2008 |
+| Liczba elementów | 700 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014524682 |
 
 Klocki LEGO Promocyjne 5522 - Zestaw na Złotą Rocznicę
 
 Zestaw LEGO Promocyjne - Zestaw na Złotą Rocznicę trafił do sprzedaży w 2008 roku. Numer katalogowy tego zestawu to 5522. Zawiera 700 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Promocyjne - Golden Anniversary Set. Grupa wiekowa tego produktu to 4+. Aktualnie, nowy zestaw nie jest dostępny w sprzedaży ale możesz sprawdzić dostępność używanych klocków LEGO Promocyjne - Zestaw na Złotą Rocznicę.
 
+**Galeria:**
+
+- 5522-1: https://a.allegroimg.com/original/11ddf7/3a4ebb0b47189956282162328cac
+
 ---
 
-## 5906 — Lego System Adventurers 5906 Ruler of the Jungle Władca Dżungli Unikat 1999
+## 5906 — Władca Dżungli
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 499.90 zł · EAN: 05702012000379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5906 |
+| Nazwa angielska | Ruler of the Jungle |
+| Nazwa polska | Władca Dżungli |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1999 |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012000379 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -1666,11 +2685,26 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5906-1: https://a.allegroimg.com/original/11a4b1/6c100f7c43a68d02108c38015c6b
+
 ---
 
-## 6070574 — Lego 30265 Legends of Chima Ognisty motocykl Worriza saszetka klocki
+## 6070574 — LEGO 30265 Legends of Chima - Ognisty motocykl Worriza
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 56.49 zł · EAN: 05702015154949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6070574 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO 30265 Legends of Chima - Ognisty motocykl Worriza |
+| Seria | Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015154949 |
 
 Witam
 
@@ -1686,19 +2720,49 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 6070574-1: https://a.allegroimg.com/original/115387/6cba08884c5ba0b734647615a3f1
+
 ---
 
-## 6313291 — Lego 5006085 Czerwony klocek Lego do zbudowania 2x4
+## 6313291 — Czerwony klocek
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016807431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6313291 |
+| Nazwa angielska | — |
+| Nazwa polska | Czerwony klocek |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016807431 |
 
 Zestaw LEGO Promocyjne - Czerwony klocek LEGO do zbudowania 2x4 trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 5006085. Zawiera 72 klocki LEGO. Nazwa zestawu w języku angielskim LEGO Promocyjne - Buildable 2x4 Red Brick. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 6313291-1: https://a.allegroimg.com/original/110f7e/f1de666e4d048c7cb0097e502af9
+
 ---
 
-## 6495 — Lego 6495 Time Cruisers Czarna Magia Nowy
+## 6495 — Time Tunnelator
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 380.00 zł · EAN: 05702010964956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6495 |
+| Nazwa angielska | Time Tunnelator |
+| Nazwa polska | Time Tunnelator |
+| Seria | Classic |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010964956 |
 
 Zestaw "Czarna Magia" z LEGO Time Cruisers, numer katalogowy 6495.
 
@@ -1712,11 +2776,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 6495-1: https://a.allegroimg.com/original/11c38e/cf9ae1c94b5e91bd253475d398b7
+
 ---
 
-## 6572 — Lego Town 6572 Ekipa z żaglowozem nowy zestaw z 1998 roku
+## 6572 — Wind Runners
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 199.00 zł · EAN: 00042884065720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6572 |
+| Nazwa angielska | Wind Runners |
+| Nazwa polska | Wind Runners |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884065720 |
 
 UNIKATOWY ZESTAW POCHODZI Z 1998 ROKU!
 
@@ -1734,11 +2813,26 @@ Przenieś się do złotej ery klocków z lat 90.! Zestaw **6572 Wind Runners** t
 
 To prawdziwa gratka dla kolekcjonerów serii Town oraz fanów stylu vintage. Pojazd doskonale wzbogaci każdą klasyczną makietę i wywoła uśmiech nostalgii!
 
+**Galeria:**
+
+- 6572-1: https://a.allegroimg.com/original/11c07e/55c3212545c687ecf8a8cc118e82
+
 ---
 
-## 6713 — nowy Lego System 6713 Town Race Grip 'n' Go Challenge Misb 2000
+## 6713 — Grip 'n' Go Challenge
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702012006883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6713 |
+| Nazwa angielska | Grip 'n' Go Challenge |
+| Nazwa polska | Grip 'n' Go Challenge |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 283 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012006883 |
 
 Cześć!
 
@@ -1756,11 +2850,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6713-1: https://a.allegroimg.com/original/1165be/f17938564ce28987f320fe05ae76
+
 ---
 
-## 70162 — Lego Ultra Agents Kabriolet Agenta 70162
+## 70162 — kabriolet agenta
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702015124256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70162 |
+| Nazwa angielska | Infearno Interception |
+| Nazwa polska | kabriolet agenta |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124256 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1784,11 +2893,26 @@ Pozdrawiam.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 70162-1: https://a.allegroimg.com/original/05b52b/c64730ee4f269bc0476426733983
+
 ---
 
-## 70170 — Klocki Lego Ultra Agents Zestaw Ultrakopter kontra AntiMatter 70170
+## 70170 — Ultrakopter kontra AntiMatter
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015354202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70170 |
+| Nazwa angielska | UltraCopter vs. AntiMatter |
+| Nazwa polska | Ultrakopter kontra AntiMatter |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 614 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354202 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -1804,11 +2928,26 @@ Pozdrawiam.
 
 AntiMatter chce przejąć kontrolę nad miastem, otwierając swą potężną laską portale, przez które przedostanie się zło. Wezwij elitarnego agenta Maxa Burnsa i ultraagentkę Cailę Phoenix. Czas wsiadać do niesamowitego Ultrakoptera i ruszać do walki Zapakuj najpotrzebniejszy ekwipunek do tylnego przedziału, zakręć wielkim, podwójnym wirnikiem i wznieś się w niebo! Twoim celem jest antygrawitacyjny pojazd AntiMattera uzbrojony w miotacze. Uwaga, ma pociski do pstrykania i będzie próbował cię zestrzelić! Koniec z podkradaniem się — wysuń wyrzutnie i przejdź do trybu bojowego, a potem wypal z potężnych sprężynowych miotaczy! Później wysuń linę, opuść Elitarnego Agenta i zrób porządek z AntiMatterem, póki nie jest za późno. Odegraj inne ekscytujące scenariusze w wersji cyfrowej na tablecie przy użyciu gadżetu Ultra App i 4 zestawów AppBrick! Zestaw zawiera 4 minifigurki z bronią i dodatkami: Dowódca Solomon Blaze, elitarny agent Max Burns, ultraagentka Caila Phoenix i AntiMatter.
 
+**Galeria:**
+
+- 70170-1: https://a.allegroimg.com/original/112eb6/2c06a65a4254a50775c21413bfaa
+
 ---
 
-## 72423 — Lego 72423 Shrek, Osiołek i Kot w butach
+## 72423 — Shrek, Osioł i Kot w butach
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 412.00 zł · EAN: 05702018085769 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72423 |
+| Nazwa angielska | Shrek, Donkey & Puss in Boots |
+| Nazwa polska | Shrek, Osioł i Kot w butach |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1403 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 21 cm × gł. 16 cm |
+| EAN | 5702018085769 |
 
 Odkryj wszystkie warstwy magii filmów o Shreku, budując skomplikowane, ruchome figurki LEGO® Shrek, Osioł i Kot w Butach (72423). Ten zestaw to wspaniały element kolekcjonerski i dekoracyjny dla fanów w wieku od 18 lat, który świetnie zaprezentuje się na półce lub biurku. Zestaw zawiera figurki Shreka i Osła zbudowane z klocków oraz minifigurkę Kota w Butach, stojące razem na podstawce z motywem bagna. Scenę uzupełnia autentyczna tabliczka „Beware, ogre” (Uwaga, ogr), słoneczniki, cebula i niebieski kwiat z czerwonymi kolcami. Odkryj ukryte nawiązania do filmu, bezpiecznie schowane w brzuchu Shreka.
 
@@ -1835,11 +2974,26 @@ Zestaw zawiera 1403 elementy.
  
 - WYMIARY – Zestaw składa się z 1403 elementów, a model ma ponad 24 cm wysokości, 21 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 72423-1: https://a.allegroimg.com/original/11324f/cc0994f544e6b86127a0345b2180
+
 ---
 
-## 7296 — Lego Dino 2010 7296 Pułapka na dinozaury 4WD Nowe
+## 7296 — Lego Dino 7296 Dino 4WD Trapper
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702014466845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7296 |
+| Nazwa angielska | Dino 4WD Trapper |
+| Nazwa polska | Lego Dino 7296 Dino 4WD Trapper |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014466845 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1849,11 +3003,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 7296 DINO 2010 Pułapka na dinozaury 4WD **został pokazany w 2005 roku i zbudowany jest z 283 klocków LEGO®. W opakowaniu znajdziesz też 1 minifigurkę. Klocki przeznaczone są dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 7296-1: https://a.allegroimg.com/original/11d380/414cab944119bb36a6287f50e35a
+
 ---
 
-## 7312 — Zestaw Lego Space: Life on Mars 7312 T3-Trike Nowy Misb 2001
+## 7312 — T3 Trike - 7312
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702012012921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7312 |
+| Nazwa angielska | T3-Trike |
+| Nazwa polska | T3 Trike - 7312 |
+| Seria | Space Police |
+| Grupa wiekowa | — |
+| Rok wydania | 2001 |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012012921 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO.
 
@@ -1874,11 +3043,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 7312-1: https://a.allegroimg.com/original/111a96/4667b98249cea0af82eae2ff4451
+
 ---
 
-## 7326 — Lego Pharaoh’s Quest 7326 Przebudzenie sfinksa Nowe
+## 7326 — Sphinx Secret Surprise
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1429.00 zł · EAN: 05702014734883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7326 |
+| Nazwa angielska | Rise of the Sphinx |
+| Nazwa polska | Sphinx Secret Surprise |
+| Seria | Indiana Jones |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 527 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734883 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1892,11 +3076,26 @@ Ten zestaw wyróżnia się dużą, ruchomą figurą Sfinksa, który skrywa sekre
  
 Zestaw klocków **LEGO Pharaoh’s Quest Przebudzenie sfinksa **został przedstawiony w 2011 roku i zbudowany jest z 527 klocków LEGO®. W zestawie klocków znajdziesz 3 minifigurki. Klocki przeznaczone są dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 7326-1: https://a.allegroimg.com/original/11c1b1/f89daff24814809661dbdb277861
+
 ---
 
-## 7409 — Lego 7409 Orient Expedition Tajemnica Grobowca, Lord Sam Sinister, 2003 r
+## 7409 — Tajemnica Grobowca
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702014264304 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7409 |
+| Nazwa angielska | Secret of the Tomb |
+| Nazwa polska | Tajemnica Grobowca |
+| Seria | Kingdoms |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014264304 |
 
 **STAN PUDEŁKA 9.5/10**
  
@@ -1904,21 +3103,51 @@ Klocki LEGO Orient Expedition 7409 - Tajemnica Grobowca
  
 Zestaw LEGO Orient Expedition - Tajemnica Grobowca trafił do sprzedaży w 2003 roku. Numer katalogowy tego zestawu to 7409. Zawiera 42 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Orient Expedition - Secret of the Tomb. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 7409-1: https://a.allegroimg.com/original/1144cf/34dc2f5b4931ad1388c6a1040955
+
 ---
 
-## 7411 — Lego 7411 Orient Expedition Ryk Tyguraha
+## 7411 — Ryk Tyguraha
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014261716 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7411 |
+| Nazwa angielska | Tygurah's Roar |
+| Nazwa polska | Ryk Tyguraha |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014261716 |
 
 Zestaw LEGO® 7411 “Tygurah’s Roar” z serii Adventurers - Orient Expedition wydany w 2003 roku zawiera 94 elementy. Ten przygodowy zestaw zawiera dużego tygrysa Tygurah, most z funkcją zawalania się oraz 1 minifigurkę poszukiwacza przygód z pułapkami i akcesoriami.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 7411-1: https://a.allegroimg.com/original/11447f/0907e2fc42878e8d2bfa3555e757
+
 ---
 
-## 75827 — Lego Ideas 75827 Posterunek straży pożarnej Nowe
+## 75827 — Posterunek straży pożarnej
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 4179.00 zł · EAN: 05702015598323 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75827 |
+| Nazwa angielska | Firehouse Headquarters |
+| Nazwa polska | Posterunek straży pożarnej |
+| Seria | inna |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 4634 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 25 cm × gł. 38 cm |
+| EAN | 5702015598323 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1958,11 +3187,26 @@ Wymiary: ok. 36 cm wysokości, 25 cm szerokości i 38 cm głębokości.
  
 Po otwarciu ścian: ok. 36 cm wysokości, 46 cm szerokości i 38 cm głębokości.
 
+**Galeria:**
+
+- 75827-1: https://a.allegroimg.com/original/11b82f/ee2f375445afa2b136b6df1dbf3e
+
 ---
 
-## 7585 — Lego Belville 7581 Zimowe stajnie królewskie
+## 7585 — LEGO 7585 Belville Stajnia
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 449.95 zł · EAN: 00673419126809 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7585 |
+| Nazwa angielska | Horse Stable |
+| Nazwa polska | LEGO 7585 Belville Stajnia |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419126809 |
 
 LEGO Belville 7581 Zimowe stajnie królewskie
 
@@ -1989,11 +3233,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 7585-1: https://a.allegroimg.com/original/117e99/9819184b4c138bba6714a50be3de
+
 ---
 
-## 7586 — Lego Belville 7586 Dom pełen słońca Uszk. Op.
+## 7586 — Sunshine Home
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 689.95 zł · EAN: 05702014516878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7586 |
+| Nazwa angielska | Sunshine Home |
+| Nazwa polska | Sunshine Home |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 447 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516878 |
 
 LEGO Belville 7586 Dom pełen słońca
 
@@ -2024,11 +3283,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 7586-1: https://a.allegroimg.com/original/11dbbd/068033254b9baabab2a5b1602c9e
+
 ---
 
-## 75901 — Lego 75901 Scooby-doo Przygody w Tajemniczym Samolocie nowy klocki unikat
+## 75901 — LEGO 75901 Scooby-doo Przygody w Tajemniczym Samolocie
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 959.00 zł · EAN: 05702015349727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75901 |
+| Nazwa angielska | Mystery Plane Adventures |
+| Nazwa polska | LEGO 75901 Scooby-doo Przygody w Tajemniczym Samolocie |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 735 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349727 |
 
 Klocki LEGO Scooby-Doo Przygody w tajemniczym samolocie 75901
 
@@ -2047,11 +3321,26 @@ Pudełko jest w bardzo dobrym stanie, z minimalnymi śladami przechowywania wido
 
 Zapraszam do zakupu!
 
+**Galeria:**
+
+- 75901-1: https://a.allegroimg.com/original/118b5b/9260472a4a4b96e9551cceb0304d
+
 ---
 
-## 75903 — Lego Scooby-Doo 75903 Nawiedzona latarnia Nowe
+## 75903 — Nawiedzona Latarnia
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1429.00 zł · EAN: 05702015349703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75903 |
+| Nazwa angielska | Haunted Lighthouse |
+| Nazwa polska | Nawiedzona Latarnia |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 437 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 24 cm × gł. 12 cm |
+| EAN | 5702015349703 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2075,11 +3364,26 @@ Zbadaj nawiedzoną latarnię ze Scoobym-Doo i jego ekipą! Steruj łodzią z Dap
 - Wyspa z nawiedzoną latarnią ma ponad 25 cm wysokości, 24 cm szerokości i 12 cm głębokości 
 - Motorówka ma ponad 4 cm wysokości, 13 cm długości i 4 cm szerokościKudłaty; Daphne; Verona Dempsey; latarnik; pan Brown; potwór
 
+**Galeria:**
+
+- 75903-1: https://a.allegroimg.com/original/116ea5/326488ed4df996877be7ab7b8745
+
 ---
 
-## 75904 — Lego Scooby-Doo 75904 Tajemniczy dwór Nowe
+## 75904 — Tajemniczy dwór
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 2089.00 zł · EAN: 05702015349697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75904 |
+| Nazwa angielska | Mystery Mansion |
+| Nazwa polska | Tajemniczy dwór |
+| Seria | The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 860 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 32 cm × gł. 14 cm |
+| EAN | 5702015349697 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2104,11 +3408,26 @@ Pędź z Kudłatym i Velmą motocyklem do tajemniczego dworu, aby pomóc Daphne 
 - Motocykl ma ponad 3 cm wysokości, 6 cm długości i 4 cm szerokości 
 - Krwiożercza roślina ma ponad 7 cm wysokości, 4 cm szerokości i 5 cm głębokości
 
+**Galeria:**
+
+- 75904-1: https://a.allegroimg.com/original/118928/6c6c7a4045cdbe1950fd28dfcc9c
+
 ---
 
-## 79004 — Lego Hobbit Barrel Escape 79004
+## 79004 — Hobbit Ucieczka w beczkach
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1349.00 zł · EAN: 05702014961296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79004 |
+| Nazwa angielska | Barrel Escape |
+| Nazwa polska | Hobbit Ucieczka w beczkach |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 334 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014961296 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2132,11 +3451,26 @@ Pędź z Kudłatym i Velmą motocyklem do tajemniczego dworu, aby pomóc Daphne 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 79004-1: https://a.allegroimg.com/original/111a47/0724686645bc9702419b07a4468d
+
 ---
 
-## 80011 — Lego Monkie Kid 80011 Piekielny Pojazd Red Sona
+## 80011 — Piekielna ciężarówka Czerwonego Syna
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016617665 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80011 |
+| Nazwa angielska | Red Son's Inferno Truck |
+| Nazwa polska | Piekielna ciężarówka Czerwonego Syna |
+| Seria | Pozostałe serie > Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617665 |
 
 Oferta sprzedaży zestawu klocków LEGO Monkie Kid 80011 PIEKIELNY POJAZD RED SONA.
 
@@ -2148,21 +3482,53 @@ Zestaw jest fabrycznie zapakowany.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 80011-1: https://a.allegroimg.com/original/119ecd/32ca0fb7434a94108a706ee4af37
+
 ---
 
-## 80102 — Klocki Lego Zestaw Dragon Dance 80102
+## 80102 — LEGO 80102 Okolicznościowe - Taniec smoka
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016391831 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80102 |
+| Nazwa angielska | Dragon Dance |
+| Nazwa polska | LEGO 80102 Okolicznościowe - Taniec smoka |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 622 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016391831 |
 
 Klocki LEGO Okolicznościowe 80102 - Taniec smoka
  
 Zestaw LEGO Okolicznościowe - Taniec smoka trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 80102. Zawiera 622 klocków LEGO. W modelu znajdziesz też 5 minifigurki. Nazwa zestawu w języku angielskim LEGO Okolicznościowe - Dragon Dance. Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 80102-1: https://a.allegroimg.com/original/11476b/d31d060c403ca4bd57458c74c400
+
 ---
 
-## 80107 — Klocki Lego Chińskie Święto Latarni 80107
+## 80107 — Chińskie święto latarni
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 738.00 zł · EAN: 05702016911015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80107 |
+| Nazwa angielska | Spring Lantern Festival |
+| Nazwa polska | Chińskie święto latarni |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1793 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 38 cm × gł. 25 cm |
+| EAN | 5702016911015 |
 
 LEGO 80107
  
@@ -2182,11 +3548,27 @@ WIEK:8+
  
 ILOŚĆ ELEMENTÓW:1793
 
+**Galeria:**
+
+- 80107-1: https://a.allegroimg.com/original/1126c7/a73cd8244c7cb06413ff4e6d3b38
+
 ---
 
-## 80108 — Lego 80108 Rok Księżycowy Tradycje
+## 80108 — Tradycje Nowego Roku Księżycowego
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702017186764 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80108 |
+| Nazwa angielska | Lunar New Year Traditions |
+| Nazwa polska | Tradycje Nowego Roku Księżycowego |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1066 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 27 cm × gł. 23 cm |
+| EAN | 5702017186764 |
 
 **LEGO 80108 Nowy Rok Księżycowy tradycje**
 
@@ -2202,11 +3584,26 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO przedstawiające tradycyjne święta 
 
 **Modułowy zestaw do zbudowania i zabawy przedstawiający rodzinne tradycje związane z Księżycowym Nowym Rokiem** podczas składania kolorowego zestawu LEGO 80108 dzieci poznają chińskie zwyczaje noworoczne i świetnie się bawią**12 minifigurek LEGO ożywia każdą scenkę** bóg bogactwa, właściciel straganu, para, mężczyzna, dziewczynka oraz sześcioosobowa rodzina: tata, mama, dziadek, babcia, dziewczynka i chłopiecSześć scenek, które można łączyć na różne sposoby każdy z sześciu modułów przedstawia świąteczną tradycję: wiosenne porządki, robienie zakupów spożywczych, przygotowywanie dekoracji na szczęście i wymienianie się prezentami z rodzinąPomysł na prezent dla ośmiolatków i starszych dzieci wysokiej jakości zestaw 1066 klocków LEGO będzie wspaniałym prezentem na chiński Nowy Rok dla dzieci, które interesują się najnowszymi trendami**Do budowania i ozdoby** modele tradycji związanych z Księżycowym Nowym Rokiem upiększą każdy dom, a w podstawowym ustawieniu mają ok. 9 cm wysokości, 27 cm szerokości i 23 cm głębokości**Równocześnie może budować nawet sześć osób** zestaw zawiera osobne ilustrowane broszury ze szczegółowymi instrukcjami składania wszystkich sześciu modułów, więc cała rodzina może budować wspólnie**Edukacyjna zabawa** zestawy LEGO przedstawiające tradycyjne święta zawierają modele do zbudowania z klocków, które można ustawić na półce lub wykorzystać do emocjonującej zabawy w odgrywanie ról związanych z chińską kulturąKontrola jakości LEGO elementy LEGO spełniają surowe branżowe standardy jakości, więc zawsze do siebie pasują, łatwo się łączą i dobrze trzymająTesty bezpieczeństwa klocki i elementy LEGO są dokładnie testowane, więc mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80108-1: https://a.allegroimg.com/original/11429c/09a8e3a24b7480a2d781f3a0dd4b
+
 ---
 
-## 80118 — Lego Inne 80118 Chińska petarda noworoczna
+## 80118 — Chińska petarda noworoczna
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702018033098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80118 |
+| Nazwa angielska | Fortune Firecracker |
+| Nazwa polska | Chińska petarda noworoczna |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1039 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 47 cm × szer. 27 cm × gł. 7 cm |
+| EAN | 5702018033098 |
 
 LEGO Inne 80118
  
@@ -2226,19 +3623,51 @@ Przybliż dzieciom kulturę Wschodu — podaruj ten zestaw konstrukcyjny LEGO® 
  
 Wymiary — model Chińskiej petardy noworocznej w tym 1039-elementowym zestawie ma 47 cm wysokości, 27 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 80118-1: https://a.allegroimg.com/original/113563/b87aebbd4e9bb70275cfc7869934
+
 ---
 
-## 850791 — Lego 850791 Akcesoria Zestaw Figurek Urodzinowych
+## 850791 — Minifigure Birthday Set
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 127.00 zł · EAN: 00673419198950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850791 |
+| Nazwa angielska | Minifigure Birthday Set |
+| Nazwa polska | Minifigure Birthday Set |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198950 |
 
 Zestaw LEGO Akcesoria - Zestaw Figurek Urodzinowych trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 850791. Zawiera 28 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Akcesoria - LEGO Minifigure Birthday Set. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 850791-1: https://a.allegroimg.com/original/113885/60f630864388881f90c9760bb332
+
 ---
 
-## 854037 — Lego 854037 Świąteczna Bombka Z Mikołajem Nowy
+## 854037 — Świąteczna bombka z Mikołajem
 
-*Kategoria: Pozostałe serie > Pozostałe · cena Allegro (2026-08-17): 143.12 zł · EAN: 00673419332040 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854037 |
+| Nazwa angielska | Christmas Ornament Santa |
+| Nazwa polska | Świąteczna bombka z Mikołajem |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419332040 |
 
 Klocki LEGO Okolicznościowe 854037 - Świąteczna bombka z Mikołajem
 
@@ -2250,6 +3679,10 @@ Ho, ho, ho! Świętuj Boże Narodzenie z zestawem LEGO® Iconic 854037, budując
 - Fani LEGO® w każdym wieku będą się świetnie bawić, budując przezroczystą, świąteczną bombkę z postacią Mikołaja, choinką i prezentami w środku oraz czerwoną kokardką na zewnątrz.
 - Ten liczący 43 elementy zestaw będzie świetnym prezentem pod choinkę dla 6-latków i starszych dzieci. Zawiera przejrzyste, ilustrowane instrukcje, więc z budową świątecznej scenki poradzi sobie nawet kompletny żółtodziób.
 - Bombka ma ok. 7 cm średnicy i można powiesić ją na choince albo postawić wraz z innymi bożonarodzeniowymi dekoracjami. Z pewnością rozweseli wszystkich domowników!
+
+**Galeria:**
+
+- 854037-1: https://a.allegroimg.com/original/11c4b0/6bd8bfb341b481de38476a1500da
 
 ---
 

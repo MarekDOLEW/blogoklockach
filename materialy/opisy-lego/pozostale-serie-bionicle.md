@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Bionicle — opisy produktowe (43 pozycji)
 
-## 40581 — 40581 Lego Bionicle Tahu i Takua Nowy I Zestaw Klockó Lego!!!
+## 40581 — Tahu i Takua
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 175.99 zł · EAN: 05702017423159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40581 |
+| Nazwa angielska | BIONICLE Tahu and Takua |
+| Nazwa polska | Tahu i Takua |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423159 |
 
 ZESTAW LEGO BIONICLE 40581
  
@@ -22,11 +33,26 @@ Dzieci, które lubią urocze psy, będą zachwycone tym kolekcjonerskim zestawem
 - Zestaw ma ok. 8 cm wysokości i składa się z 252 elementów. Większy pies ma obrożę z dzwonkiem i siedzi w koszu razem ze szczeniakiem. 
 - Świetny prezent dla fanów LEGO®, kolekcjonerów modeli BrickHeadz™ i miłośników zwierząt w wieku od 8 lat.
 
+**Galeria:**
+
+- 40581-1: https://a.allegroimg.com/original/114a07/b8e892554c07874b9673978a2356
+
 ---
 
-## 70778 — Lego Bionicle Obrońca Dżungli Unikatowy 2015 rok Nowy Oryginał 70778
+## 70778 — Obrońca dżungli
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015351003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70778 |
+| Nazwa angielska | Protector of Jungle |
+| Nazwa polska | Obrońca dżungli |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015351003 |
 
 **LEGO BIONICLE**
 
@@ -62,11 +88,26 @@ WYMIARY OPAKOWANIA :
 
 **19 cm x 14 cm x 5 cm**
 
+**Galeria:**
+
+- 70778-1: https://a.allegroimg.com/original/116071/4b9a8d594e4c92b9578834727702
+
 ---
 
-## 70779 — Lego Bionicle Obrońca Skał Unikatowy 2015 rok Nowy Oryginał 70779
+## 70779 — Obrońca Skał
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015350990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70779 |
+| Nazwa angielska | Protector of Stone |
+| Nazwa polska | Obrońca Skał |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350990 |
 
 **LEGO BIONICLE**
 
@@ -103,11 +144,26 @@ WYMIARY OPAKOWANIA :
 
 **19 cm x 14 cm x 5 cm**
 
+**Galeria:**
+
+- 70779-1: https://a.allegroimg.com/original/111df0/cd22b4fb423793d5cdf15fda7551
+
 ---
 
-## 70781 — Lego Bionicle Obrońca Ziemi Unikatowy 2015 rok Nowy Oryginał 70781
+## 70781 — Obrońca Ziemi
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015350976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70781 |
+| Nazwa angielska | Protector of Earth |
+| Nazwa polska | Obrońca Ziemi |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350976 |
 
 **LEGO BIONICLE**
 
@@ -143,11 +199,26 @@ WYMIARY OPAKOWANIA :
 
 **19 cm x 14 cm x 5 cm**
 
+**Galeria:**
+
+- 70781-1: https://a.allegroimg.com/original/1145fe/d7652b434bc89edf34eb8bbc4b68
+
 ---
 
-## 70782 — Lego Bionicle Obrońca Lodu Unikatowy Nowy 2015 rok Oryginał 70782
+## 70782 — BIONICLE
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015350860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70782 |
+| Nazwa angielska | Protector of Ice |
+| Nazwa polska | BIONICLE |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350860 |
 
 **LEGO BIONICLE**
 
@@ -185,11 +256,26 @@ WYMIARY OPAKOWANIA :
 
 **19 cm x 14 cm x 5 cm**
 
+**Galeria:**
+
+- 70782-1: https://a.allegroimg.com/original/112cca/50d49eba4e9f823478c676d8c08a
+
 ---
 
-## 70783 — Lego Bionicle Obrońca Ognia Unikatowy Nowy 2015 rok Oryginał 70783
+## 70783 — BIONICLE
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015350853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70783 |
+| Nazwa angielska | Protector of Fire |
+| Nazwa polska | BIONICLE |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350853 |
 
 **LEGO BIONICLE**
 
@@ -227,11 +313,26 @@ WYMIARY OPAKOWANIA :
 
 **19 cm x 14 cm x 5 cm**
 
+**Galeria:**
+
+- 70783-1: https://a.allegroimg.com/original/1132ca/16d4e31546749d62247762dd488f
+
 ---
 
-## 70785 — Lego Bionicle 70785 Pohatu Władca Skał Oryginał Unikatowy Nowy 2015 rok
+## 70785 — Pohatu - Władca Skał
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015350839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70785 |
+| Nazwa angielska | Pohatu - Master of Stone |
+| Nazwa polska | Pohatu - Władca Skał |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350839 |
 
 **LEGO BIONICLE**
 
@@ -266,11 +367,26 @@ WYMIARY OPAKOWANIA :
 
 **22 cm x 17 cm x 5 cm**
 
+**Galeria:**
+
+- 70785-1: https://a.allegroimg.com/original/11aa47/71b66d4d49909d338e36d972ea51
+
 ---
 
-## 70786 — Lego Bionicle 70786 Gali Władczyni Wody Zestaw Klocków Unikatowy Nowy
+## 70786 — Gali Master of Water
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015350822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70786 |
+| Nazwa angielska | Gali - Master of Water |
+| Nazwa polska | Gali Master of Water |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350822 |
 
 **LEGO BIONICLE**
 
@@ -301,11 +417,26 @@ WYMIARY OPAKOWANIA :
 
 **22 cm x 17 cm x 5 cm**
 
+**Galeria:**
+
+- 70786-1: https://a.allegroimg.com/original/11ea90/19d17de74776923e7050f64684d8
+
 ---
 
-## 70787 — Lego Bionicle Tahu Władca Ognia Unikatowy Nowy 2015 rok Oryginał 70787
+## 70787 — Klocki LEGO Bionicle Tahu - Władca Ognia 70787
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 799.99 zł · EAN: 05702015350419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70787 |
+| Nazwa angielska | Tahu - Master of Fire |
+| Nazwa polska | Klocki LEGO Bionicle Tahu - Władca Ognia 70787 |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350419 |
 
 **LEGO BIONICLE**
 
@@ -342,11 +473,26 @@ WYMIARY OPAKOWANIA :
 
 **22 cm x 17 cm x 5 cm**
 
+**Galeria:**
+
+- 70787-1: https://a.allegroimg.com/original/11cb64/b34faad8482c82108bd6b46f148e
+
 ---
 
-## 70788 — Lego Bionicle Kopaka Władca Lodu Unikatowy Nowy 2015 rok Oryginał 70788
+## 70788 — Kopaka - Władca Lodu
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 799.99 zł · EAN: 05702015350365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70788 |
+| Nazwa angielska | Kopaka - Master of Ice |
+| Nazwa polska | Kopaka - Władca Lodu |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350365 |
 
 **LEGO BIONICLE**
 
@@ -385,11 +531,26 @@ WYMIARY OPAKOWANIA :
 
 **22 cm x 17 cm x 5 cm**
 
+**Galeria:**
+
+- 70788-1: https://a.allegroimg.com/original/119b63/dd5cc8ea4fd0b454c4c9432a46f5
+
 ---
 
-## 70789 — Lego Bionicle 70789 Onua Władca Ziemi
+## 70789 — LEGO 70789 - Onua - Władca Ziemi
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 695.97 zł · EAN: 05702015350358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70789 |
+| Nazwa angielska | Onua - Master of Earth |
+| Nazwa polska | LEGO 70789 - Onua - Władca Ziemi |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350358 |
 
 LEGO Bionicle 70789 - Onua - Władca Ziemi
 
@@ -443,11 +604,26 @@ LEGO® 70789 Bionicle - Onua - Władca Ziemi
 
 **W powiększeniu: Niewielkie pęknięcie w lewym, górnym rogu, nie wpływające na ogólny, bardzo dobry stan zestawu.**
 
+**Galeria:**
+
+- 70789-1: https://a.allegroimg.com/original/110f29/34955db340c3a23690a7fcfe4184
+
 ---
 
-## 70790 — Lego Bionicle 70790 Lord Pająków Zagłady
+## 70790 — Lord Pająków Zagłady
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015350334 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70790 |
+| Nazwa angielska | Lord of Skull Spiders |
+| Nazwa polska | Lord Pająków Zagłady |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350334 |
 
 Zestaw nowy, fabrycznie zamknięty.
 
@@ -465,11 +641,26 @@ Ustaw monstrualnego Lorda Pająków Zagłady na straży wejścia do starożytneg
 - Wzbogać zabawę i figurki z zestawów LEGO® BIONICLE® Obrońcy i Władcy, aby nadać bitwom więcej rozmachu
 - Wysokość ok. 4 cm, szerokość ok. 18 cm
 
+**Galeria:**
+
+- 70790-1: https://a.allegroimg.com/original/05352f/a8b139484f14bdc090c0d4461d89
+
 ---
 
-## 70791 — Lego Bionicle 70791 Lego Bionicle 70791 Czaszkowy wojownik
+## 70791 — Lego Bionicle 70791 Czaszkowy wojownik
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015350327 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70791 |
+| Nazwa angielska | Skull Warrior |
+| Nazwa polska | Lego Bionicle 70791 Czaszkowy wojownik |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350327 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -488,11 +679,26 @@ Ustaw monstrualnego Lorda Pająków Zagłady na straży wejścia do starożytneg
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70791-1: https://a.allegroimg.com/original/00b2da/9e6fda8b417e98ea7fe3c42c06f6
+
 ---
 
-## 70792 — Lego Bionicle 70792 Rozcinacz
+## 70792 — Rozcinacz
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015350310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70792 |
+| Nazwa angielska | Skull Slicer |
+| Nazwa polska | Rozcinacz |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350310 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -511,11 +717,26 @@ Ustaw monstrualnego Lorda Pająków Zagłady na straży wejścia do starożytneg
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70792-1: https://a.allegroimg.com/original/118298/e4524f664b54afb9b55f22d9f1de
+
 ---
 
-## 70793 — Lego Bionicle 70793 Lego Bionicle Strażnik Czaszka 70793
+## 70793 — LEGO Bionicle Strażnik Czaszka 70793
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015350280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70793 |
+| Nazwa angielska | Skull Basher |
+| Nazwa polska | LEGO Bionicle Strażnik Czaszka 70793 |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350280 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -534,11 +755,26 @@ Ustaw monstrualnego Lorda Pająków Zagłady na straży wejścia do starożytneg
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70793-1: https://a.allegroimg.com/original/0056ec/79c668b94565be6e0238c1a84519
+
 ---
 
-## 70794 — Lego Bionicle 70794 Czaszkowy Skorpion Oryginał Unikatowy Nowy 2015 rok
+## 70794 — Czaszkowy skorpion
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702015349673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70794 |
+| Nazwa angielska | Skull Scorpio |
+| Nazwa polska | Czaszkowy skorpion |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 20 cm |
+| EAN | 5702015349673 |
 
 **LEGO BIONICLE**
 
@@ -576,11 +812,26 @@ WYMIARY OPAKOWANIA :
 
 **22 cm x 17 cm x 5 cm**
 
+**Galeria:**
+
+- 70794-1: https://a.allegroimg.com/original/11ad27/e82aaf20484282ba9d8d61a59111
+
 ---
 
-## 70795 — Lego Bionicle 70795 Twórca Masek vs Władca Czaszek
+## 70795 — LEGO 70795 - Twórca Masek kontra Władca Czaszek
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 625.97 zł · EAN: 05702015348461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70795 |
+| Nazwa angielska | Mask Maker vs. Skull Grinder |
+| Nazwa polska | LEGO 70795 - Twórca Masek kontra Władca Czaszek |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015348461 |
 
 Klocki LEGO 70795 Bionicle- Twórca Masek kontra Władca Czaszek
 
@@ -622,11 +873,26 @@ Specyfikacja zestawu LEGO 70795
 - Waga opakowania (g) 420 (0,42kg)
 - Wymiary opakowania (cm) 22.2 x 26.2 x 6.2
 
+**Galeria:**
+
+- 70795-1: https://a.allegroimg.com/original/11e009/5ec1e0eb4a519d617bb609596641
+
 ---
 
-## 71301 — Lego Bionicle 71301 Ketar Kamienna istota
+## 71301 — Ketar Kamienna istota
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015594233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71301 |
+| Nazwa angielska | Ketar Creature of Stone |
+| Nazwa polska | Ketar Kamienna istota |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594233 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -658,11 +924,26 @@ Aktywuj funkcję kamiennych pazurów, by pokonać mroczną pułapkę. Połączen
 - Element jednoczący pozwala jednym kliknięciem połączyć z zestawem 71306 Pohatu — zjednoczyciel kamienia.
 - Istoty żywiołów mogą też jednoczyć się z innymi Toa, by tworzyć nowego rodzaju moce!
 
+**Galeria:**
+
+- 71301-1: https://a.allegroimg.com/original/0075e8/0fd55be34fa887aabe951f04cb11
+
 ---
 
-## 71303 — Lego Bionicle 71303 ikir
+## 71303 — ikir
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015594257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71303 |
+| Nazwa angielska | Ikir Creature of Fire |
+| Nazwa polska | ikir |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594257 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -681,11 +962,26 @@ Aktywuj funkcję kamiennych pazurów, by pokonać mroczną pułapkę. Połączen
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71303-1: https://a.allegroimg.com/original/009d79/93bf59cf4e8081c52d45f261e990
+
 ---
 
-## 71304 — Lego Bionicle 71304 Terak ziemna istota
+## 71304 — Terak - ziemna istota
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015594264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71304 |
+| Nazwa angielska | Terak Creature of Earth |
+| Nazwa polska | Terak - ziemna istota |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594264 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -704,11 +1000,26 @@ Aktywuj funkcję kamiennych pazurów, by pokonać mroczną pułapkę. Połączen
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71304-1: https://a.allegroimg.com/original/110d6b/7d4c32bf44379d8fdf3640b24fff
+
 ---
 
-## 71309 — Lego Bionicle 71309 Onua
+## 71309 — Onua
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015594318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71309 |
+| Nazwa angielska | Onua Uniter of Earth |
+| Nazwa polska | Onua |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594318 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -743,11 +1054,26 @@ W epickim świecie LEGO BIONICLE Onua — zjednoczyciel ziemi musi poprowadzić 
 - Połącz z zestawem 71304 Terak — zmiemna istota jednym kliknięciem z użyciem elementu jednoczącego, by stworzyć potężną zbroję.
 - Zamieniaj z innymi istotami z serii LEGO BIONICLE 2016, by tworzyć nowe kombinacje mocy bojowych.
 
+**Galeria:**
+
+- 71309-1: https://a.allegroimg.com/original/00b02b/d437c93d499b811153cd23b515c7
+
 ---
 
-## 71310 — Lego Bionicle 71310 Umarak Łowca
+## 71310 — Umarak Łowca
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702015594325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71310 |
+| Nazwa angielska | Umarak the Hunter |
+| Nazwa polska | Umarak Łowca |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594325 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -766,11 +1092,26 @@ W epickim świecie LEGO BIONICLE Onua — zjednoczyciel ziemi musi poprowadzić 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71310-1: https://a.allegroimg.com/original/003111/b3cc80be47bfaa5d6c869fe093a9
+
 ---
 
-## 71313 — Lego Bionicle 71313 Lawowa Bestia
+## 71313 — Lawowa Bestia
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 780.00 zł · EAN: 05702015594356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71313 |
+| Nazwa angielska | Lava Beast |
+| Nazwa polska | Lawowa Bestia |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594356 |
 
 LEGO Lawowa bestia 71313
  
@@ -789,11 +1130,26 @@ Lawowa Besta to jedyna latająca bestia żywiołów w serii LEGO BIONICLE z roku
 - Wysokość 22 cm. 
 - Zanim połączysz się z Internetem, spytaj rodziców o zgodę.
 
+**Galeria:**
+
+- 71313-1: https://a.allegroimg.com/original/0066f8/feff400249f394c749a49e7bb3fc
+
 ---
 
-## 71315 — Lego Bionicle 71315 Bestia wstrząsu
+## 71315 — Bestia wstrząsu
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015594370 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71315 |
+| Nazwa angielska | Quake Beast |
+| Nazwa polska | Bestia wstrząsu |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594370 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -819,11 +1175,26 @@ Lawowa Besta to jedyna latająca bestia żywiołów w serii LEGO BIONICLE z roku
 
 Bestia Wstrząsu wprowadzi Cię w fantastyczno-bajkowy świat LEGO® BIONICLE®. Włącz ramię bojowe i wymierz przeciwnikom potężny cios! Odrzuć Maskę Zepsucia i użyj uszkodzonej Maski Jedności Onuy, aby odnowić energię. Bestia Wstrząsu ma głowę BIONICLE® z przyciskiem odrzucania maski oraz funkcję odczepiania maski po trafieniu w szczękę. - Postać ma głowę BIONICLE® z przyciskiem odłączania maski, Maskę Zepsucia, funkcję odczepiania maski po trafieniu w szczękę, ramię bojowe z pięścią w kształcie kryształu oraz napierśnik z unikalną dekoracją. Do tego posiada ruchome przeguby oraz szpony. - Umieść uszkodzoną Maskę Jedności Onuy w szponach Bestii. - Naciśnij spust głowy BIONICLE® Bestii, by zwolnić Maskę Zepsucia i zyskać dodatkową moc dzięki Masce Jedności Onuy. - W zestawie także uszkodzona Maska Jedności Onuy. - Solidna konstrukcja pozwala na aktywną zabawę. - Zestaw odpowiedni dla dzieci w wieku od 7 do 14 lat. - Wysokość 24 cm. - Instrukcje budowania, gry, animacje i inne atrakcje znajdziesz na stronie LEGO.pl/BIONICLE. Zanim połączysz się z Internetem, spytaj rodziców o zgodę.
 
+**Galeria:**
+
+- 71315-1: https://a.allegroimg.com/original/1195c0/761cc04347ca850a53ff6247274a
+
 ---
 
-## 8540 — Lego 8540 Bionicle Vakama Nowy
+## 8540 — Vakama
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 215.00 zł · EAN: 05702012014161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8540 |
+| Nazwa angielska | Vakama |
+| Nazwa polska | Vakama |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012014161 |
 
 Zestaw "Vakama" z LEGO Bionicle, numer katalogowy 8540.
 
@@ -837,11 +1208,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8540-1: https://a.allegroimg.com/original/1186e0/a3fcff414a199bbe78babe1535c6
+
 ---
 
-## 8543 — Lego 8543 Bionicle Nokama Nowy
+## 8543 — Nokama
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 220.00 zł · EAN: 00042884085438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8543 |
+| Nazwa angielska | Nokama |
+| Nazwa polska | Nokama |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884085438 |
 
 Zestaw "Nokama" z LEGO Bionicle, numer katalogowy 8543.
 
@@ -855,11 +1241,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8543-1: https://a.allegroimg.com/original/115303/07af96ea4f19bc2b1c8ee194c971
+
 ---
 
-## 8544 — Lego 8544 Bionicle Nuju Nowy
+## 8544 — Nuju
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 210.00 zł · EAN: 00042884085445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8544 |
+| Nazwa angielska | Nuju |
+| Nazwa polska | Nuju |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884085445 |
 
 Zestaw "Nuju" z LEGO Bionicle, numer katalogowy 8544.
 
@@ -873,11 +1274,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8544-1: https://a.allegroimg.com/original/1160c8/9bcef90741979bd412ec511a165c
+
 ---
 
-## 8550 — Lego 8550 Bionicle Gahlok Va Nowy
+## 8550 — Gahlok Va
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 185.00 zł · EAN: 00673419011082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8550 |
+| Nazwa angielska | Gahlok Va |
+| Nazwa polska | Gahlok Va |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419011082 |
 
 Zestaw "Gahlok Va" z LEGO Bionicle, numer katalogowy 8550.
 
@@ -891,11 +1307,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8550-1: https://a.allegroimg.com/original/113980/bd37d4d143829199ba86b35461a6
+
 ---
 
-## 8560 — Nowe Lego Bionicle 8560 Pahrak Unikat Zaplombowane
+## 8560 — Pahrak
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702014152717 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8560 |
+| Nazwa angielska | Pahrak |
+| Nazwa polska | Pahrak |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152717 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -919,11 +1350,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8560-1: https://a.allegroimg.com/original/11e278/72364ae647d1b2f771bd79e033ef
+
 ---
 
-## 8561 — Lego Bionicle 8561 Nuhvok Nowe Zaplombowane Unikat
+## 8561 — Nuhvok
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702014152731 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8561 |
+| Nazwa angielska | Nuhvok |
+| Nazwa polska | Nuhvok |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152731 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -947,11 +1393,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8561-1: https://a.allegroimg.com/original/1160be/d27fb9d04056ac43c4e04b1e2ab1
+
 ---
 
-## 8562 — Lego Bionicle 8562 Gahlok Nowe Zaplombowane Unikat
+## 8562 — Gahlok
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702014152748 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8562 |
+| Nazwa angielska | Gahlok |
+| Nazwa polska | Gahlok |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152748 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -975,11 +1436,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8562-1: https://a.allegroimg.com/original/11a8a1/22c32c95407095ca39308030dbda
+
 ---
 
-## 8582 — nowy Lego Bionicle 8582 Matoro Misb 2003
+## 8582 — Matoro
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702014266292 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8582 |
+| Nazwa angielska | Matoro |
+| Nazwa polska | Matoro |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014266292 |
 
 Cześć!
 
@@ -997,11 +1473,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 8582-1: https://a.allegroimg.com/original/117597/25443f8c4989b7bb23fb841b31f4
+
 ---
 
-## 8584 — Lego 8584 Bionicle Hewkii Nowy
+## 8584 — Hewkii
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 215.00 zł · EAN: 05702014266315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8584 |
+| Nazwa angielska | Hewkii |
+| Nazwa polska | Hewkii |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014266315 |
 
 Zestaw "Hewkii" z LEGO Bionicle, numer katalogowy 8584.
 
@@ -1015,11 +1506,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8584-1: https://a.allegroimg.com/original/112807/c828019b4596b47e90f23e25115d
+
 ---
 
-## 8585 — Lego 8585 Bionicle Hafu Nowy
+## 8585 — Hafu
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702014266322 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8585 |
+| Nazwa angielska | Hafu |
+| Nazwa polska | Hafu |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014266322 |
 
 Zestaw "Hafu" z LEGO Bionicle, numer katalogowy 8585.
 
@@ -1033,11 +1539,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8585-1: https://a.allegroimg.com/original/11c736/27f1a50b40fda96929e52014db8f
+
 ---
 
-## 8591 — Lego Bionicle 8591 Rahkshi Vorahk Nowe Zaplombowane Unikat
+## 8591 — Vorahk
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702014265646 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8591 |
+| Nazwa angielska | Vorahk |
+| Nazwa polska | Vorahk |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014265646 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -1063,11 +1584,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8591-1: https://a.allegroimg.com/original/11d534/a24fcf6c4c7fa7a398b89896d680
+
 ---
 
-## 8614 — Lego Bionicle 8614 Vahki Nuurakh Unikat Zaplombowane
+## 8614 — Nuurakh
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 380.00 zł · EAN: 05702014362543 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8614 |
+| Nazwa angielska | Vahki Nuurakh |
+| Nazwa polska | Nuurakh |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014362543 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -1093,11 +1629,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8614-1: https://a.allegroimg.com/original/119923/2dae6c014231bd994b5e92f81e32
+
 ---
 
-## 8618 — Nowe Lego Bionicle 8618 Vahki Rorzakh Fabrycznie Zapakowane Unikat
+## 8618 — Vahki Rorzakh
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702014364608 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8618 |
+| Nazwa angielska | Vahki Rorzakh |
+| Nazwa polska | Vahki Rorzakh |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014364608 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -1123,11 +1674,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8618-1: https://a.allegroimg.com/original/11d2b4/a87943b642a6837eec602d3dbe64
+
 ---
 
-## 8619 — Lego Bionicle 8619 Vahki Keerakh Nowe Zaplombowane Unikat
+## 8619 — Vahki Keerakh
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 390.00 zł · EAN: 00673419033671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8619 |
+| Nazwa angielska | Vahki Keerakh |
+| Nazwa polska | Vahki Keerakh |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419033671 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -1153,11 +1719,26 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 8619-1: https://a.allegroimg.com/original/110945/d771b8bb47e7b3fcb1711a5cc64d
+
 ---
 
-## 8719 — Lego 8719 Bionicle Zamor Spheres Nowy
+## 8719 — Lego 8719 Bionicle - Kule ZAMOR
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702014467484 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8719 |
+| Nazwa angielska | Zamor Spheres |
+| Nazwa polska | Lego 8719 Bionicle - Kule ZAMOR |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014467484 |
 
 Zestaw "Zamor Spheres" z LEGO Bionicle, numer katalogowy 8719.
 
@@ -1171,11 +1752,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8719-1: https://a.allegroimg.com/original/11fd01/6cc907fd4a70938d46a85e1c73f7
+
 ---
 
-## 8722 — Lego 8722 Bionicle Kazi Nowy
+## 8722 — Kazi
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702014462441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8722 |
+| Nazwa angielska | Kazi |
+| Nazwa polska | Kazi |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014462441 |
 
 Zestaw "Kazi" z LEGO Bionicle, numer katalogowy 8722.
 
@@ -1189,11 +1785,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8722-1: https://a.allegroimg.com/original/113193/634c74b5487f9f1df2cff36fd1f5
+
 ---
 
-## 8723 — Lego 8723 Bionicle Piruk Nowy
+## 8723 — Piruk
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 350.00 zł · EAN: 00673419077606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8723 |
+| Nazwa angielska | Piruk |
+| Nazwa polska | Piruk |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419077606 |
 
 Zestaw "Piruk" z LEGO Bionicle, numer katalogowy 8723.
 
@@ -1207,11 +1818,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8723-1: https://a.allegroimg.com/original/11b91e/272be7244076a96753882a2a24ae
+
 ---
 
-## 8724 — Lego 8724 Bionicle Garan Nowy
+## 8724 — Garan
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 215.00 zł · EAN: 00673419077033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8724 |
+| Nazwa angielska | Garan |
+| Nazwa polska | Garan |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419077033 |
 
 Zestaw "Garan" z LEGO Bionicle, numer katalogowy 8724.
 
@@ -1225,11 +1851,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 8724-1: https://a.allegroimg.com/original/112093/13fbf6d8469a8238856ce51f1b89
+
 ---
 
-## 8725 — Lego 8725 Bionicle Balta Nowy
+## 8725 — Balta
 
-*Kategoria: Pozostałe serie > Bionicle · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702014462601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8725 |
+| Nazwa angielska | Balta |
+| Nazwa polska | Balta |
+| Seria | Pozostałe serie > Bionicle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014462601 |
 
 Zestaw "Balta" z LEGO Bionicle, numer katalogowy 8725.
 
@@ -1242,6 +1883,10 @@ Szczegóły:
 - Angielska nazwa: Balta
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
+
+**Galeria:**
+
+- 8725-1: https://a.allegroimg.com/original/112ae5/77f946cc4cc8976a671d1779a6bc
 
 ---
 

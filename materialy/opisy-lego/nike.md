@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Nike — opisy produktowe (3 pozycji)
 
-## 43008 — Lego 43008 Nike Nike Dunk x Lego Set
+## 43008 — Nike Dunk x LEGO Set
 
-*Kategoria: Nike · cena Allegro (2026-08-17): 451.86 zł · EAN: 05702017824239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43008 |
+| Nazwa angielska | Nike Dunk |
+| Nazwa polska | Nike Dunk x LEGO Set |
+| Seria | Nike |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 38 cm × gł. 13 cm |
+| EAN | 5702017824239, 5906623334889 |
 
 Klocki LEGO Nike 43008 - Nike Dunk x LEGO® Set
 
@@ -49,11 +59,27 @@ Zestaw LEGO Nike - Nike Dunk x LEGO® Set trafił do sprzedaży w 2025 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 43008-1: https://a.allegroimg.com/original/11779b/b4358e4548f890ddcca57cecb6ca
+- 43008-2: https://a.allegroimg.com/original/1190ca/4c170c3242c0ae35a5e95b21c598
+
 ---
 
-## 43010 — Lego 43010 Nike Nike Slam Dunk
+## 43010 — LEGO Nike Slam Dunk 43010, ozdoba dla fanów koszykówki
 
-*Kategoria: Nike · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702017824215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43010 |
+| Nazwa angielska | Nike Slam Dunk |
+| Nazwa polska | LEGO Nike Slam Dunk 43010, ozdoba dla fanów koszykówki |
+| Seria | Nike |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 809 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 25 cm × gł. 14 cm |
+| EAN | 5702017824215 |
 
 LEGO 43010 Nike Slam Dunk
  
@@ -75,11 +101,26 @@ Podaruj prezent za trzy punkty chłopcom, dziewczynkom i fanom koszykówki, któ
 - Kolekcja LEGO® Nike — sprawdź także inne zestawy konstrukcyjne (sprzedawane osobno) z kolekcji LEGO Nike, które pozwolą Ci rozwinąć kreatywność i pokazać swoją miłość do sportu, stylu i kultury 
 - Wymiary — zestaw zawiera 809 elementów i ma 37 cm wysokości, 25 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 43010-1: https://a.allegroimg.com/original/11d5c5/e33bc8da4c4298910ce63a9c6de5
+
 ---
 
-## 43021 — Lego 43021 Nike Dunk Trickshot
+## 43021 — LEGO Nike Dunk Trickshot 43021, prezent w sportowym stylu
 
-*Kategoria: Nike · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702017985299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43021 |
+| Nazwa angielska | Nike Dunk Trickshot |
+| Nazwa polska | LEGO Nike Dunk Trickshot 43021, prezent w sportowym stylu |
+| Seria | Nike |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702017985299 |
 
 Zapraszam do zakupu zestawu Lego z serii Nike:
 
@@ -109,6 +150,10 @@ Ten kolorowy sportowy model świetnie się sprawdzi jako prezent dla fanów spor
 - Aplikacja LEGO® Builder — instrukcje są dostępne w formie cyfrowej w aplikacji LEGO Builder, w której początkujący koszykarze mogą powiększać i obracać modele oraz śledzić postępy
 - Kolekcja LEGO® Nike — sprawdź także inne zestawy konstrukcyjne (sprzedawane osobno) z kolekcji LEGO Nike, które pozwolą Ci rozwinąć kreatywność i pokazać swoją miłość do sportu, stylu i kultury
 - Wymiary — zestaw zawiera 454 elementy i ma 16 cm wysokości, 17 cm szerokości i 13 cm głębokości
+
+**Galeria:**
+
+- 43021-1: https://a.allegroimg.com/original/05dbe5/8856f6d54c8f92f08761910a0b5b
 
 ---
 

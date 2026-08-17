@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Minionki — opisy produktowe (12 pozycji)
 
-## 30387 — Lego Minions Illuminations Bob Z Ramionami Robota 30387 Polybag
+## 30387 — Bob Minion z ramionami robota
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 109.75 zł · EAN: 05702016756968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30387 |
+| Nazwa angielska | Bob Minion with Robot Arms |
+| Nazwa polska | Bob Minion z ramionami robota |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016756968 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -23,11 +33,26 @@ Rok wydania:** 2021**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
+**Galeria:**
+
+- 30387-1: https://a.allegroimg.com/original/1128fd/21ac15f347a88bc68892233fb1b5
+
 ---
 
-## 30678 — Lego 30678 Minionki Odrzutowa Deskorolka Minionków
+## 30678 — DESPICABLE ME
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 15.79 zł · EAN: 05702017591513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30678 |
+| Nazwa angielska | Minions' Jetboard |
+| Nazwa polska | DESPICABLE ME |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591513 |
 
 NOWE KLOCKI LEGO Z SERII MINIONKI
 
@@ -43,11 +68,26 @@ Wiek: 6+
 
 Ilość klocków: 48
 
+**Galeria:**
+
+- 30678-1: https://a.allegroimg.com/original/11919e/ae77d64e40ea8381632b610b9c1b
+
 ---
 
-## 40511 — Lego Minions 40511 Minionki I Trening Kung-fu Nowe
+## 40511 — Trening Kung Fu
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419349925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40511 |
+| Nazwa angielska | Minions Kung Fu Training |
+| Nazwa polska | Trening Kung Fu |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419349925 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -67,11 +107,26 @@ Zestaw LEGO® Minions: Minionki i trening kung-fu (40511) zachwyci małego fana 
 - W zestawie ekskluzywna minifigurka LEGO® Belle Bottom.
 - W pudełku broń treningowa, którą postacie mogą trzymać, a także manekin treningowy, by dzieci mogły wymyślać i odgrywać pełne akcji przygody z Minionkami.
 
+**Galeria:**
+
+- 40511-1: https://a.allegroimg.com/original/11f8f2/6592f76944518cc0d23900b3baee
+
 ---
 
-## 75546 — Lego 75546 Minionki w laboratorium Gru
+## 75546 — Minionki w laboratorium Gru
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 114.45 zł · EAN: 05702016619164 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75546 |
+| Nazwa angielska | Minions in Gru's Lab |
+| Nazwa polska | Minionki w laboratorium Gru |
+| Seria | Minionki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702016619164 |
 
 Masz ochotę na twórczą wizytę w Laboratorium Gru z zestawu LEGO® Minions? Minionki pomogły zmienić piwnicę Gru w laboratorium. Teraz przygotowują się do zabawy. Dołącz do psotnych Minionków, które zjeżdżają prosto w banany i testują pojazd na rampie. Zobacz, czy uda im się rozbić pojazd o ogrodzenie!
  
@@ -99,11 +154,26 @@ Ten zestaw LEGO 4+ to świetny sposób na naukę budowania dla dzieci od 4 lat. 
 - Klocki do budowania LEGO® spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości Grupy LEGO. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Dokładnie testujemy elementy zestawów LEGO® Minions, by mieć pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75546-1: https://a.allegroimg.com/original/25d35e/af6e5cc04b97bf0b09f3556e80f0
+
 ---
 
-## 75547 — Lego Minionki Nauka Pilotażu Minionka #75547
+## 75547 — Nauka pilotażu Minionka
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 194.45 zł · EAN: 05702016619171 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75547 |
+| Nazwa angielska | Minion Pilot in Training |
+| Nazwa polska | Nauka pilotażu Minionka |
+| Seria | Minionki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 24 cm |
+| EAN | 5702016619171 |
 
 LEGO MINIONKI NAUKA PILOTAŻU MINIONKA
 
@@ -145,11 +215,26 @@ Ten zestaw LEGO 4+ może być świetnym sposobem na naukę budowania dla dzieci 
 - Klocki do budowania LEGO® spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości Grupy LEGO. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić.
 - Dokładnie testujemy elementy zestawów LEGO® Minions, by mieć pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75547-1: https://a.allegroimg.com/original/1139d7/cc65babd4deabb969ffc2c5f81e9
+
 ---
 
-## 75549 — Lego 75549 Minions Niepowstrzymany Motocykl Ucieka
+## 75549 — Niepowstrzymany motocykl ucieka
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702016619195 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75549 |
+| Nazwa angielska | Unstoppable Bike Chase |
+| Nazwa polska | Niepowstrzymany motocykl ucieka |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619195 |
 
 Rozpoczyna się pościg! Pomóż Gru i Minionkom obronić kamień zodiaku przed złoczyńcami, którzy chcą go odzyskać. 
 
@@ -157,11 +242,26 @@ Minionki będą się musiały pospieszyć, żeby przechytrzyć czarne charaktery
 
 Podaruj dzieciom zestaw LEGO Minions 75549, by mogły zbudować niepowstrzymany motocykl emocje gwarantowane! W pudełku są trzy figurki Gru, Bob i Stuart więc zabawa zacznie się szybko i nigdy się nie skończy. Fani będą zachwyceni, mogąc zbudować motocykl i użyć go do odgrywania ulubionych scen z filmu Minionki: Wejście Gru. Odgrywanie ról z ulubionymi postaciami Minionków Zaczynajmy zabawę niech Gru wsiądzie na motocykl. Minionki Bob i Stuart mogą usiąść z przodu, zająć miejsce za Gru albo pojechać na rakietowych rolkach. Dzieci uczą się budować Zabawki z serii LEGO Minions otwierają przed dziećmi drzwi do świata ulubionych psotnych stworków. Instructions PLUS to interaktywne instrukcje, które sprawią, że budowanie będzie jeszcze lepszą zabawą. Są one dostępne w darmowej aplikacji LEGO Life na smartfony i tablety i pozwalają obracać oraz przybliżać widok modelu, tak aby nawet małe dzieci mogły samodzielne połączyć klocki LEGO.
 
+**Galeria:**
+
+- 75549-1: https://a.allegroimg.com/original/11879f/ba439e47412d8718f1d935cb0608
+
 ---
 
-## 75550 — Lego Minionki 75550 Minionki i walka kung-fu
+## 75550 — Minionki i walka kung-fu
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 228.00 zł · EAN: 05702016619201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75550 |
+| Nazwa angielska | Minions Kung Fu Battle |
+| Nazwa polska | Minionki i walka kung-fu |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 13 cm × gł. 26 cm |
+| EAN | 5702016619201 |
 
 Dołącz do Minionków, które ćwiczą walkę kung-fu i świętują w zestawie LEGO® Minions. Najpierw poćwiczcie ciosy bronią ze stojaka na drewnianym manekinie. Później możecie wybrać się na paradę z chińskim smokiem i podziwiać klockowe fajerwerki, które startują z dachu świątyni. Gdy na zewnątrz świątyni pojawi się Otto, emocje sięgną zenitu!
  
@@ -189,11 +289,26 @@ Ekscytujący sposób budowania. Instrukcje Instructions PLUS to interaktywny prz
 - Klocki do budowania LEGO® spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości Grupy LEGO. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Dokładnie testujemy elementy zestawów LEGO® Minions, by mieć pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75550-1: https://a.allegroimg.com/original/006811/b1b528ca4107b4b11235e35e5696
+
 ---
 
-## 75551 — Lego Minions 75551 Minionki z klocków i ich gniazdo Nowe
+## 75551 — Minionki z klocków i ich gniazdo
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016619218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75551 |
+| Nazwa angielska | Brick-Built Minions and Their Lair |
+| Nazwa polska | Minionki z klocków i ich gniazdo |
+| Seria | Minionki |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 876 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619218 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -205,11 +320,26 @@ Mamy świetną propozycję dla fanów żółtych Minionków! Chcecie skakać z r
  
 Zestaw LEGO Minionki z klocków i ich gniazdko to sposób na kreatywną zabawę pełną emocji i dawki humoru! Zastanawiasz się skąd powstał pomysł na ten zestaw? Został on zainspirowany filmem „Minionki: Wejście Gru”. LEGO 75551 nie wymaga baterii. Jest on napędzany wyobraźnią dzieci. Bawcie się w odgrywanie ról! Zestaw z 2020 roku składa się z 876 klocków i jest przeznaczony do zabawy dla dzieci powyżej 8 roku życia.
 
+**Galeria:**
+
+- 75551-1: https://a.allegroimg.com/original/114484/9678b5154f5291d501262bd4d383
+
 ---
 
-## 75580 — Lego Despicable Me 4 75580 Minionki i bananowóz
+## 75580 — I Złoczyńca 4 75580 Mimoni i samochód bananowy
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017590462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75580 |
+| Nazwa angielska | Minions and Banana Car |
+| Nazwa polska | I Złoczyńca 4 75580 Mimoni i samochód bananowy |
+| Seria | Minionki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 136 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590462 |
 
 Sprawdź bananowóz minionków z siedzeniem kierowcy i wyciąganym silnikiem. Zabawkowy pojazd zawiera cztery minionki i akcesoria. Mega Minion Dave trzyma silnik w jednej ręce, a sztangę w drugiej. Mel maluje portret banana, podczas gdy tajny agent AVL Tim lata ze śmigłem na głowie i pilotem w dłoni. Na ziemi znajduje się jego baza z wyjątkowymi narzędziami, np. goglami rentgenowskimi. Pit Crew Ron pełni służbę przy przewijaku, więc ma przy sobie cały sprzęt, w tym pistolet do usuwania brudnych pieluch. Na konstruktorów czeka także cyfrowa zabawa w aplikacji LEGO Builder, gdzie mogą powiększać i obracać zestawy.
 
@@ -218,11 +348,26 @@ Sprawdź bananowóz minionków z siedzeniem kierowcy i wyciąganym silnikiem. Za
 - Kreatywne budowanie — mały samochodzik, cztery różne figurki minionków oraz narzędzia i akcesoria sprawiają, że ten zestaw oferuje mnóstwo możliwości zabawy 
 - Fajne akcesoria — sztanga Dave'a, okulary rentgenowskie i czapka ze śmigłem tajnego agenta AVL Tima, pistolet do usuwania brudnych pieluch Pit Crew Rona, banan i obraz LEGO przedstawiający banana
 
+**Galeria:**
+
+- 75580-1: https://a.allegroimg.com/original/110f85/f19694104c62afb7af88e46ddd60
+
 ---
 
-## 75581 — Lego Minionki 75581 Villain Me 4 75581 Mimoni i muzyczny autobus imprezowy
+## 75581 — Villain Me 4 75581 Mimoni i muzyczny autobus imprezowy
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 156.44 zł · EAN: 05702017591476 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75581 |
+| Nazwa angielska | Minions' Music Party Bus |
+| Nazwa polska | Villain Me 4 75581 Mimoni i muzyczny autobus imprezowy |
+| Seria | Minionki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 379 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591476 |
 
 Zapewnij fanom minionków i dzieciom uwielbiającym pojazdy zabawę 2 w 1 dzięki zestawowi LEGO Despicable Me 4 Imprezowy autobus minionków. Ten kreatywny zestaw dla dzieci zawiera zabawkowy autobus, który po otwarciu ukazuje imprezę minionków. Ta wielofunkcyjna zabawka filmowa jest idealna dla chłopców i dziewczynek. Zestaw zawiera cztery figurki minionków: Phila, Mela, Dave'a i latającego Mega Minionka Gusa, który poraz pierwszy pojawia się w filmie Despicable Me 4. Autobus ma miejsce dla kierowcy i drążek na dachu, który Gus może chwycić. Pojazd rozsuwa się w połowie z jednej strony, a dach podnosi się, odsłaniając parkiet taneczny, stanowisko dla DJ-a, gitarę elektryczną, pianino, mikrofon, oświetlenie, głośniki i jacuzzi! Wiele elementów można odczepić, aby bawić się nimi oddzielnie. Ta ciekawa zabawka dla dzieci zachwyca jaskrawymi kolorami i fajnymi akcesoriami, w tym flagą, balonem, lodami, czapeczkami, napojami, światłami, głośnikami i ekranami.
 
@@ -231,11 +376,26 @@ Zapewnij fanom minionków i dzieciom uwielbiającym pojazdy zabawę 2 w 1 dzięk
 - Wszechstronny pojazd — autobus ma miejsce dla kierowcy i drążek na dachu (którego Gus może s ię trzymać!). Z jednej strony pojazd otwiera się do połowy, ukazując stanowisko dla DJ-a, parkiet taneczny i imprezowe jacuzzi 
 - Kreatywne budowanie i zabawa — akcesoria, w tym gitara elektryczna, pianino, mikrofon, światła, głośniki, ekrany, flaga, balon, czapeczki, lody i napoje inspirują do pomysłowej zabawy
 
+**Galeria:**
+
+- 75581-1: https://a.allegroimg.com/original/1187e7/315bc2bb414e81166853a13f9f1a
+
 ---
 
-## 75582 — Lego Gru I Minionki Z Klocków 75582 Jerry Dave Beedoo Mel Kevin Minions
+## 75582 — LEGO GRU I MINIONKI Z KLOCKÓW 75582 JERRY DAVE BEEDOO MEL KEVIN MINIONS
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 297.77 zł · EAN: 05702017591483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75582 |
+| Nazwa angielska | Brick-Built Gru and Minions |
+| Nazwa polska | LEGO GRU I MINIONKI Z KLOCKÓW 75582 JERRY DAVE BEEDOO MEL KEVIN MINIONS |
+| Seria | Minionki |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 839 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 23 cm × gł. 16 cm |
+| EAN | 5702017591483 |
 
 LEGO MINIONKI
 
@@ -259,11 +419,26 @@ Duża figurka Gru ma ruchome ręce, dłonie i palce, dzięki czemu dzieci mogą 
 - Instrukcje 3D — dzieci mogą pobrać aplikację LEGO® Builder, aby korzystać z cyfrowych narzędzi do powiększania i obracania modeli w 3D, zapisywania zestawów i śledzenia postępów
 - Do zabawy i ustawienia na półce — ten zestaw z 839 elementami ma 28 cm wysokości, 23 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 75582-1: https://a.allegroimg.com/original/115e1e/5667f4a34aecae46b305b3748513
+
 ---
 
-## 75583 — Lego Minionki Rodzinna Rezydencja Gru I Minionków 75583
+## 75583 — I Villain 4 75583 Dom rodzinny Mimoniego i Gru
 
-*Kategoria: Minionki · cena Allegro (2026-08-17): 367.90 zł · EAN: 05702017591490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75583 |
+| Nazwa angielska | Minions and Gru's Family Mansion |
+| Nazwa polska | I Villain 4 75583 Dom rodzinny Mimoniego i Gru |
+| Seria | Minionki |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 868 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 21 cm × gł. 11 cm |
+| EAN | 5702017591490 |
 
 **MINIONKI - RODZINNA REZYDENCJA GRU I MINIONKÓW**
 
@@ -286,6 +461,10 @@ Odtwórz znany z filmu budynek z domkiem na drzewie dzięki zestawowi LEGO® Des
 • Zestaw z 868 elementami — dom Gru ma 27 cm wysokości, 21 cm szerokości i 11 cm głębokości
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
+
+**Galeria:**
+
+- 75583-1: https://a.allegroimg.com/original/11b57b/665eb2ca49d090fd625ff5f1b572
 
 ---
 

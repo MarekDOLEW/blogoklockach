@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Racers — opisy produktowe (31 pozycji)
 
-## 30030 — nowy Lego Racers 30030 Czerwona wyścigówka Rally Raider Misb 2010
+## 30030 — rally raider
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 45.10 zł · EAN: 05702014708587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30030 |
+| Nazwa angielska | Racing Car |
+| Nazwa polska | rally raider |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014708587 |
 
 Cześć!
 
@@ -27,11 +37,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30030-1: https://a.allegroimg.com/original/114cb0/1c9506c848eb83705551c64cdda7
+
 ---
 
-## 30191 — Lego Racers Shell 30191 Scuderia Ferrari Truck saszetka z klockami pojazd
+## 30191 — LEGO Racers Shell Scuderia Ferrari Truck 30191
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015035217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30191 |
+| Nazwa angielska | Scuderia Ferrari Truck |
+| Nazwa polska | LEGO Racers Shell Scuderia Ferrari Truck 30191 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015035217 |
 
 Witam
 
@@ -55,11 +80,26 @@ Rafał
 - Rok wydania: 2012 
 - Il. elementów: 41
 
+**Galeria:**
+
+- 30191-1: https://a.allegroimg.com/original/115e50/ae0f4d8045599c6b9096d8b74b8a
+
 ---
 
-## 30194 — Lego Racers 30194 Ferrari 458 Italia saszetka z klockami
+## 30194 — Italia
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702014951419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30194 |
+| Nazwa angielska | 458 Italia |
+| Nazwa polska | Italia |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014951419, 5702015036009 |
 
 LEGO 30194 LEGO Racers 458 Italia pull back
 
@@ -90,11 +130,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30194-1: https://a.allegroimg.com/original/11d039/53df45c648c4a8f02e77013bbcbd
+- 30194-2: https://a.allegroimg.com/original/1159f1/d1e2a9fa42b982d8bc978af5bc8f
+
 ---
 
-## 30195 — Lego Racers Ferrari 30195 Fxx Misb 2012 shell
+## 30195 — FXX
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702015036030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30195 |
+| Nazwa angielska | FXX |
+| Nazwa polska | FXX |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015036030 |
 
 LEGO Racers 30195 FXX
  
@@ -111,11 +167,26 @@ O produkcie:
  
 LEGO Racers 30195 FXX to zestaw klocków LEGO dla dzieci w wieku od 6 lat. Zestaw składa się z 53 elementów, które pozwalają na stworzenie modelu samochodu FXX. Produkt pochodzi z oferty marki LEGO i posiada certyfikat CE, co gwarantuje jego bezpieczeństwo i zgodność z normami europejskimi. Dzięki zestawowi LEGO Racers 30195 FXX, dziecko może rozwijać swoją kreatywność oraz umiejętności manualne, a także spędzać czas na zabawie.
 
+**Galeria:**
+
+- 30195-1: https://a.allegroimg.com/original/111956/aad13def4711b46b3b9c6cf172bf
+
 ---
 
-## 40190 — Lego Racers 40190 Ferrari F138 saszetka z klockami
+## 40190 — Ferrari F138
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 57.99 zł · EAN: 05702015243087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40190 |
+| Nazwa angielska | F138 |
+| Nazwa polska | Ferrari F138 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015243087 |
 
 Witam
 
@@ -131,11 +202,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40190-1: https://a.allegroimg.com/original/113343/1b1e3d1e43718e7d1f57755a628b
+
 ---
 
-## 40195 — Lego Racers 40195 stacja Shell saszetka z klockami model wycofany
+## 40195 — Shell Station
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015243124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40195 |
+| Nazwa angielska | Shell Station |
+| Nazwa polska | Shell Station |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015243124 |
 
 Witam
 
@@ -151,11 +237,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40195-1: https://a.allegroimg.com/original/112d47/9bbd1129489c94009df5c9d31e23
+
 ---
 
-## 4592 — Lego Racers 4592: Red Monster
+## 4592 — Red Monster
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 20.00 zł · EAN: 00673419010955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4592 |
+| Nazwa angielska | Red Monster |
+| Nazwa polska | Red Monster |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419010955 |
 
 **LEGO**
 
@@ -191,11 +292,26 @@ Wśród zdjęć znajdują się zarówno zdjęcia producenta prezentujące zestaw
 
 Zestawy wysyłam rozłożone na pojedyncze elementy, co ogranicza ryzyko uszkodzeń podczas transportu.
 
+**Galeria:**
+
+- 4592-1: https://a.allegroimg.com/original/11b93f/1a4d817c40a58b4c8a48ff76787f
+
 ---
 
-## 7968 — Lego Racers 7968 Strong wgniotki
+## 7968 — Strong
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702014600645 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7968 |
+| Nazwa angielska | Strong |
+| Nazwa polska | Strong |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014600645 |
 
 Kartonik posiada wgniotki
 
@@ -208,11 +324,26 @@ Zestaw LEGO Racers 7968 to prawdziwa gratka dla fanów szybkiej jazdy, motoryzac
 - **Świetna bawialność:** Pojazd został stworzony do wyścigów i crash-testów w pokoju. Konstrukcja jest zwarta i wytrzymała, dzięki czemu przetrwa najostrzejsze zmagania na torze.
 - **Wartość kolekcjonerska:** To klasyczny zestaw z lubianej linii Power Racers, który od wielu lat nie jest już produkowany i stanowi świetne uzupełnienie kolekcji.
 
+**Galeria:**
+
+- 7968-1: https://a.allegroimg.com/original/119fdc/9bf5d4194dfaa5ded125cf12a6ce
+
 ---
 
-## 8119 — Lego Racers 8119 Odlotowa wyścigówka
+## 8119 — Thunder Racer
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 200.00 zł · EAN: 00673419112123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8119 |
+| Nazwa angielska | Thunder Racer |
+| Nazwa polska | Thunder Racer |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419112123 |
 
 8119 Lego Racers Tiny Turbos Speed Champions Samochód 1:55 autko MISB 2009
  
@@ -232,11 +363,26 @@ O produkcie:
  
 8119 Lego Racers Tiny Turbos Speed Champions Samochód 1:55 autko MISB 2009 to idealna zabawka dla dzieci powyżej 6 lat. Zestaw składa się z 48 elementów i umożliwia dziecku zbudowanie własnego Thunder Racer, który jest częścią serii Lego Racers Tiny Turbos Speed Champions. Produkt marki LEGO zapewnia bezpieczeństwo i wysoką jakość. Posiada certyfikaty CE, potwierdzające zgodność z europejskimi standardami. Thunder Racer to idealna zabawka dla dzieci, które lubią wyścigi i zmagania na torze. Produkt nie nadaje się dla dzieci poniżej 36 miesięcy.
 
+**Galeria:**
+
+- 8119-1: https://a.allegroimg.com/original/1121c4/4d2b84b9402aa1da82d5a7633625
+
 ---
 
-## 8125 — Lego Racers 8125 Lego Racers 8125 Tor wyścigowy Thunder
+## 8125 — Lego Racers 8125 Tor wyścigowy Thunder
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 300.00 zł · EAN: 05702014534056 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8125 |
+| Nazwa angielska | Thunder Raceway |
+| Nazwa polska | Lego Racers 8125 Tor wyścigowy Thunder |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534056 |
 
 LEGO - przedsiębiorstwo zabawkarskie, założone przez Ole Kirka Christiansena 12 października 1932 roku w Billund w Danii.
  
@@ -284,11 +430,26 @@ Niesamowite wyścigi uliczne, całe mnóstwo przeszkód i pojazdów zamieni pok�
  
 Jest to UNIKATOWY model z 2009 r.
 
+**Galeria:**
+
+- 8125-1: https://a.allegroimg.com/original/034c39/e8095402497a9bed9556ccd5178a
+
 ---
 
-## 8126 — Lego Racers 8126 Lego Racers Desert Challenge 8126
+## 8126 — LEGO Racers Desert Challenge 8126
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 300.00 zł · EAN: 05702014534070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8126 |
+| Nazwa angielska | Desert Challenge |
+| Nazwa polska | LEGO Racers Desert Challenge 8126 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534070 |
 
 LEGO Racers 8126 LEGO Racers Desert Challenge 8126
 
@@ -305,21 +466,51 @@ O produkcie:
 
 LEGO Racers 8126 LEGO Racers Desert Challenge 8126 to zestaw klocków LEGO przeznaczony dla dzieci w wieku 6 lat i więcej. Zawiera 144 elementy, które pozwalają na zbudowanie wyścigowego pojazdu, którym dziecko może przeprowadzić emocjonujące wyścigi na pustyni. Zestaw pochodzi od marki LEGO, co gwarantuje wysoką jakość i trwałość klocków. Produkt jest przeznaczony zarówno dla chłopców, jak i dziewcząt. Posiada certyfikat CE, co oznacza, że spełnia europejskie standardy bezpieczeństwa. LEGO Racers 8126 LEGO Racers Desert Challenge 8126 to doskonały pomysł na prezent dla każdego małego miłośnika wyścigów.
 
+**Galeria:**
+
+- 8126-1: https://a.allegroimg.com/original/11da71/a25527b4414799f4b9b096656a93
+
 ---
 
-## 8142 — Lego Speed Champions 77242 Bolid F1 Ferrari SF-24
+## 8142 — Ferrari 248 F1
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 104.98 zł · EAN: 00673419092050 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8142 |
+| Nazwa angielska | Ferrari 248 F1 1:24 [Vodafone Version] |
+| Nazwa polska | Ferrari 248 F1 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419092050 |
 
 Bolid F1® Ferrari SF-24
 
 Speed Champions LEGO Speed Champions Bolid F1 Ferrari SF-24, Model Pojazdu, Zabawka dla Dziecka do Zbudowania, Zestaw Konstrukcyjny z Minifigurką Kierowcy, Pomysł na Prezent dla 10-latka, Chłopca i Dziewczynki 77242 jazda o życie drive to survive will buxton wyścigi merch grand prix gp tor fia paddock pit stop pit lane podium pole position kalendarz prezent zabawki carlos sainz lewis hamilton Robert Kubica kolekcjonerskie chłopiec syn 9 11 12 nastolatek Bolid F1® Ferrari SF-24 LEGO® Speed Champions Bolid F1® Ferrari SF-24 Zestaw LEGO® Speed Champions Bolid F1® Ferrari SF-24 77242 Fani Formuły 1® i dzieci w wieku od 10 lat mogą zbudować, bawić się i ustawić na półce imponujący model Ferrari SF-24 F1 LEGO® Speed Champions. Zestaw z bolidem F1® Ferrari SF-24 Dziesięciolatki i starsze dzieci mogą teraz doświadczyć emocji rodem z Formuły 1® dzięki zestawowi z kierowcą LEGO® Speed Champions Bolid F1® Ferrari SF-24 (77242). Model Ferrari zawiera detale prawdziwego bolidu, który brał udział w sezonie 2024 Formuły 1. Dzieci i dorośli kolekcjonerzy mogą zbudować imponujący model, ścigać się nim i ustawić go na półce.Model samochodu F1 ma kokpit otwierany przez podniesienie pałąka systemu halo, tylne skrzydło, zawieszenie typu wishbone, naklejki sponsorów i szersze tylne opony z napisem \"Pirelli\". Bolid F1 zawiera także minifigurkę kierowcy w kombinezonie Ferrari i kasku, którego można umieścić w kokpicie i odgrywać wyścigi.Zestawy LEGO Speed Champions umożliwiają fanom wyścigów zbudowanie modeli najbardziej kultowych pojazdów na świecie, w tym innych bolidów Formuły 1 (sprzedawanych osobno) z sezonu 2024. Każdy zestaw można zbudować, korzystając z drukowanych instrukcji budowania lub aplikacji LEGO Builder, która poprowadzi Ciebie i Twoje dziecko przez przygodę z budowaniem. Poczuj się jak na wyścigu Formuły 1®, budując bolid Ferrari SF-24. Zbuduj, eksponuj i baw się tym niesamowitym modelem LEGO® Speed Champions, który zawiera realistyczne detale samochodu Formuły 1 z sezonu 2024. Zestaw zawiera również minifigurkę kierowcy Ferrari, którą można umieścić w kokpicie i wykorzystać do odgrywania wyścigów.
 
+**Galeria:**
+
+- 8142-1: https://a.allegroimg.com/original/05c0ec/02680e1949a0832af9e65e1da873
+
 ---
 
-## 8146 — Lego Racers 8146 Samochód Nitro Muscle Unikat
+## 8146 — Nitro Muscle
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702014500778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8146 |
+| Nazwa angielska | Nitro Muscle |
+| Nazwa polska | Nitro Muscle |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 598 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500778 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -343,11 +534,26 @@ Speed Champions LEGO Speed Champions Bolid F1 Ferrari SF-24, Model Pojazdu, Zaba
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8146-1: https://a.allegroimg.com/original/119a5e/cea4da0f4027b439531720f601fb
+
 ---
 
-## 8153 — Lego Racers 8153 Ferrari F1 Truck 1:55
+## 8153 — Ferrari F1 Truck 1:55
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 760.00 zł · EAN: 05702014516175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8153 |
+| Nazwa angielska | Ferrari F1 Truck 1:55 |
+| Nazwa polska | Ferrari F1 Truck 1:55 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 270 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516175 |
 
 LEGO Racers 8153 Ferrari F1 Truck 1:55
  
@@ -363,11 +569,26 @@ O produkcie:
  
 LEGO Racers 8153 Ferrari F1 Truck 1:55 to zestaw klocków dla dzieci powyżej 7 roku życia. Wykonany jest przez znaną markę LEGO, co gwarantuje wysoką jakość wykonania oraz trwałość zabawki. Zestaw przedstawia ciężarówkę Ferrari F1 i pozwala dziecku na budowanie własnej ciężarówki z klocków LEGO. Dodatkowo, rozwija kreatywność, zdolności manualne oraz wyobraźnię dziecka. LEGO Racers 8153 Ferrari F1 Truck 1:55 to prezent dla każdego dziecka, które interesuje się wyścigami i samochodami.
 
+**Galeria:**
+
+- 8153-1: https://a.allegroimg.com/original/11da74/2e5668ea45bdb91fa820e77a8abe
+
 ---
 
-## 8154 — Lego 8154 Racers Brick Street Customs
+## 8154 — Brick Street Customs
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 749.00 zł · EAN: 00673419101868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8154 |
+| Nazwa angielska | Brick Street Customs |
+| Nazwa polska | Brick Street Customs |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 1021 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419101868 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -391,11 +612,26 @@ LEGO Racers 8153 Ferrari F1 Truck 1:55 to zestaw klocków dla dzieci powyżej 7 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8154-1: https://a.allegroimg.com/original/114f36/8485c6634527bbe63ee99d49db69
+
 ---
 
-## 8155 — Lego Racers 8155 Ferrari F1 Pit Nowe
+## 8155 — Ferrari Pit Stop
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 1055.00 zł · EAN: 05702014516274 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8155 |
+| Nazwa angielska | Ferrari F1 Pit 1:55 |
+| Nazwa polska | Ferrari Pit Stop |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 482 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516274 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -407,11 +643,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
  
 W zestawie znajdziesz **samochód wyścigowy Ferrari **, stanowiska techniczne, figurki mechaników oraz mnóstwo akcesoriów, które pozwalają odtworzyć prawdziwą atmosferę toru wyścigowego. To świetna propozycja nie tylko dla dzieci, ale także dla dorosłych fanów motoryzacji i kolekcjonerów zestawów LEGO Ferrari.
 
+**Galeria:**
+
+- 8155-1: https://a.allegroimg.com/original/11a567/7071d21b4ba2ac74bc307a21d230
+
 ---
 
-## 8184 — Lego Racers 8184 Twin X-treme Rc
+## 8184 — Twin X-treme RC
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014534346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8184 |
+| Nazwa angielska | Twin X-treme RC |
+| Nazwa polska | Twin X-treme RC |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534346 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -429,11 +680,26 @@ W zestawie znajdziesz **samochód wyścigowy Ferrari **, stanowiska techniczne, 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8184-1: https://a.allegroimg.com/original/11b6f9/f5925326486e8e8315d1a83c1986
+
 ---
 
-## 8185 — Lego Racers 8185 Racers Ferrari Truck
+## 8185 — Racers Ferrari Truck 5 lat+
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014533882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8185 |
+| Nazwa angielska | Ferrari Truck |
+| Nazwa polska | Racers Ferrari Truck 5 lat+ |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 539 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533882 |
 
 Zestaw LEGO® 8185 “Ferrari Truck” z serii Racers wydany w 2009 roku zawiera 534-535 elementów i 5 minifigurek. Ten zaawansowany zestaw transportowy zawiera ciężarówkę Ferrari F1 z przyczepą artykułowaną, otwieranym pojazdem F1 w tylnej części, autentycznymi logotypami sponsorów (Shell, Vodafone, Bridgestone, Brembo, Magneti Marelli, SKF, NGK Spark Plugs) oraz narzędziami pit stopu przeznaczony dla dzieci w wieku 8-14 lat.
 
@@ -441,11 +707,26 @@ Ten spektakularny zestaw przenosi fascynację Formuły 1 do świata logistyki tr
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 8185-1: https://a.allegroimg.com/original/116c10/80d944d841829f67fc01351c6762
+
 ---
 
-## 8186 — Lego 8186 Racers Street Extreme
+## 8186 — LEGO 8186 Racers Street Extreme
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 1250.00 zł · EAN: 00673419112109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8186 |
+| Nazwa angielska | Street Extreme |
+| Nazwa polska | LEGO 8186 Racers Street Extreme |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 757 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419112109 |
 
 Zestaw klocków LEGO Racers 8186 Street Extreme został pokazany w 2009 roku i zawiera 757 klocków LEGO®. Zestaw klocków przeznaczony jest dla dzieci powyżej 7 roku życia.
  
@@ -457,19 +738,49 @@ Zespół GAPITO
 
 Zbuduj dwie rozkładane płyty uliczne i ciesz się doskonałą zabawą wyścigową. Zskocz z dachu garażu, ale uważaj na barykadę policyjną i helikopter! Następnie napełnij swój flitzer, napraw go i już można przejść dalej. Zestaw zawiera dwie płyty uliczne, garaż parkingowy z działającą platformą podnośnikową, stację benzynową, sześć fajnych turbo racer i helikopter.
 
+**Galeria:**
+
+- 8186-1: https://a.allegroimg.com/original/117442/943f313b4a3fa67e29cd49f2c93d
+
 ---
 
-## 8301 — Lego Racers 8301 Miejski Egzekutor
+## 8301 — Miejski Egzekutor
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702014733640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8301 |
+| Nazwa angielska | Urban Enforcer |
+| Nazwa polska | Miejski Egzekutor |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | 2011 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733640 |
 
 Uliczni rajdowcy nie mają szans w wyścigu z tym ultranowoczesnym samochodem policyjnym wyposażonym w olbrzymi silnik, wyścigowe opony i koguta. Możesz go również połączyć z zestawem 8302 Jeździec Hot Rod, budując supe rsamochód!
 
+**Galeria:**
+
+- 8301-1: https://a.allegroimg.com/original/116a3a/fba2c2294692a1a377d734d82850
+
 ---
 
-## 8378 — Lego Red Beast Rc 8379 Racers
+## 8378 — Red Beast RC
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702014377004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8378 |
+| Nazwa angielska | Red Beast RC |
+| Nazwa polska | Red Beast RC |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014377004 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -499,11 +810,26 @@ Uliczni rajdowcy nie mają szans w wyścigu z tym ultranowoczesnym samochodem po
 
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8378-1: https://a.allegroimg.com/original/11bf7e/a0e413b94995ac0ed9f234bd2229
+
 ---
 
-## 8386 — Lego Racers 8386 Ferrari F1 Racer 1:10
+## 8386 — Ferrari F1 Racer 1:10
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702014376984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8386 |
+| Nazwa angielska | Ferrari F1 Racer 1:10 |
+| Nazwa polska | Ferrari F1 Racer 1:10 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 719 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014376984 |
 
 Zestaw LEGO® 8386 “Ferrari F1 Racer 1:10” z serii Racers wydany w 2004 roku zawiera 722 elementy. Ten zaawansowany model w skali 1:10 odwzorowuje bolid Formuły 1 Ferrari z funkcjonalnym sterowaniem, sprężynowanym zawieszeniem, pracującym silnikiem V10 z ruchomymi tłokami i autentycznymi nadrukami sponsorów Shell, Vodafone, Bridgestone oraz Amd.
 
@@ -511,11 +837,26 @@ Ten prestiżowy kolekcjonerski model stanowi szczyt zaawansowania LEGO® Technic
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 8386-1: https://a.allegroimg.com/original/113738/61caa7184022a379c6d0bd5302bb
+
 ---
 
-## 8491 — Lego Racers Ram Rod 8491 wyścigówka autko wyścigowe
+## 8491 — racers
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702014516311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8491 |
+| Nazwa angielska | Ram Rod |
+| Nazwa polska | racers |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516311 |
 
 Klocki LEGO Racers 8491 - Ram Rod
 
@@ -525,11 +866,26 @@ Zawiera 72 klocków LEGO, z których zbudujemy rampę do skoków, bramę i wyśc
 
 Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 8491-1: https://a.allegroimg.com/original/11a03a/93c77fc845659070503365ff1fc0
+
 ---
 
-## 8496 — Lego Zestaw Racers Wyścigi Auta Pustynny Młot Desert Hammer 8496
+## 8496 — Pustynny Młot
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702014516380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8496 |
+| Nazwa angielska | Desert Hammer |
+| Nazwa polska | Pustynny Młot |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014516380 |
 
 LEGO Racers 8496 Pustynny Młot
 
@@ -547,11 +903,26 @@ LEGO Racers 8496 Pustynny Młot
 
 - Zestaw LEGO® jest nowy i oryginalnie zapakowany.
 
+**Galeria:**
+
+- 8496-1: https://a.allegroimg.com/original/11f75d/f0f211e74d599ec981cfedbf4720
+
 ---
 
-## 8645 — Lego Rcaers 8645 Muscle Slammer Bike
+## 8645 — Muscle Slammer Bike
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014420953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8645 |
+| Nazwa angielska | Muscle Slammer Bike |
+| Nazwa polska | Muscle Slammer Bike |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014420953 |
 
 Zestaw **LEGO Racers 8645 – Muscle Slammer Bike** to dynamiczny model wyścigowego motocykla typu drag-bike, który świetnie oddaje klimat szybkich ścigaczy z serii Racers.
 
@@ -563,11 +934,26 @@ Motocykl ma charakterystyczny, muskularny wygląd z **szerokimi tylnymi oponami*
 
 To świetna propozycja dla fanów klasycznych zestawów LEGO z początku lat 2000., którzy lubią szybkie, kompaktowe modele z charakterem.
 
+**Galeria:**
+
+- 8645-1: https://a.allegroimg.com/original/115ff8/70bd33554a3a91ca81019931351c
+
 ---
 
-## 8647 — Lego Racers 8647 Night Racer Nowe
+## 8647 — Night Racer
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702014420977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8647 |
+| Nazwa angielska | Night Racer |
+| Nazwa polska | Night Racer |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014420977 |
 
 WITAM SERDECZNIE.
 
@@ -579,11 +965,26 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 8647-1: https://a.allegroimg.com/original/11ac83/bd0d5c6a4e37b8a10a49faa143f5
+
 ---
 
-## 8651 — Lego Racers 8651 Jumping Giant
+## 8651 — 8651
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014421011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8651 |
+| Nazwa angielska | Jumping Giant |
+| Nazwa polska | 8651 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 242 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014421011 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -602,11 +1003,26 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8651-1: https://a.allegroimg.com/original/11b996/1f4a1ef24633b6c011be0c36007a
+
 ---
 
-## 8658 — Lego 8658 Racers Big Bling Wheelie
+## 8658 — Big Bling Wheelie
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419060226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8658 |
+| Nazwa angielska | Big Bling Wheelie |
+| Nazwa polska | Big Bling Wheelie |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419060226 |
 
 LEGO 8658 Racers - Big Bling Wheelie
 
@@ -617,11 +1033,26 @@ To prawdziwa bestia wśród terenówek w wersji mini! Dzięki stylowej, chromowa
 - **Połącz ten zestaw z modelem 8655 RX-Sprinter**, aby zbudować 8-kołową, potężną maszynę (instrukcje budowania w zestawie)!
 - **W zestawie poręczne etui** do przenoszenia w kształcie garażu.
 
+**Galeria:**
+
+- 8658-1: https://a.allegroimg.com/original/1197f7/91032bcf4efc825831c39fcfebac
+
 ---
 
-## 8668 — Lego Racers 8668 Side Rider 55
+## 8668 — Side Rider 55
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 149.00 zł · EAN: 00673419079143 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8668 |
+| Nazwa angielska | Side Rider 55 |
+| Nazwa polska | Side Rider 55 |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419079143 |
 
 Zestaw **LEGO Racers 8668 – Side Rider 55** to dynamiczny model z serii Racers / Power Racers, wydany w **2006 roku**.
 
@@ -633,11 +1064,26 @@ Zestaw zawiera **110 elementów**, a jego konstrukcja jest prosta, ale efektowna
 
 **LEGO Racers 8668** to świetna propozycja dla fanów małych, szybkich pojazdów z serii LEGO oraz dla kolekcjonerów zestawów z początku lat 2000., którzy cenią sobie nostalgiczny klimat i mechaniczny napęd pull-back.
 
+**Galeria:**
+
+- 8668-1: https://a.allegroimg.com/original/113dae/a0c06e724962a6da5a4b4a4e2d62
+
 ---
 
-## 8672 — Lego Racers 8672 Ferrari Finish Line
+## 8672 — FERRARI FINISH LINE
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014467941 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8672 |
+| Nazwa angielska | Ferrari Finish Line |
+| Nazwa polska | FERRARI FINISH LINE |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 573 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014467941 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -661,11 +1107,26 @@ Zestaw zawiera **110 elementów**, a jego konstrukcja jest prosta, ale efektowna
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8672-1: https://a.allegroimg.com/original/112ae2/6c17311143ddbaaceab807f54f1c
+
 ---
 
-## 8899 — Lego Racers 8899 Racers Krokodyle bagno Wyścig Poduszkowiec rzadki zestaw
+## 8899 — Racers Krokodyle bagno
 
-*Kategoria: Pozostałe serie > Racers · cena Allegro (2026-08-17): 428.99 zł · EAN: 05702014602571 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8899 |
+| Nazwa angielska | Gator Swamp |
+| Nazwa polska | Racers Krokodyle bagno |
+| Seria | Pozostałe serie > Racers |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 354 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602571 |
 
 LEGO RACERS 8899 KROKODYLE BAGNO
 
@@ -702,6 +1163,10 @@ Przenieś się do świata emocjonujących wyścigów wśród krokodyli dzięki z
 🎁 **Idealny prezent dla fanów wyścigów i przygód** LEGO Racers 8899 Krokodyle Bagno to doskonały pomysł na prezent dla dzieci i młodzieży, które kochają wyścigi i emocjonujące przygody. Zestaw zapewnia wspaniałe wrażenia podczas budowania i zabawy, rozwijając kreatywność i zdolności manualne.
 
 📏 **Wymiary** Zestaw składa się z 354 elementów i jest odpowiedni dla dzieci powyżej 7 roku życia. To idealny sposób na spędzenie kreatywnego czasu, odkrywanie nowych możliwości budowania i przeżywanie niezapomnianych przygód.
+
+**Galeria:**
+
+- 8899-1: https://a.allegroimg.com/original/11d60f/38a6f16b49eabdb3998d295feb84
 
 ---
 

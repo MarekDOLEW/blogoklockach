@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Overwatch — opisy produktowe (10 pozycji)
 
-## 75970 — Lego Overwatch 75970 Smuga Vs. Trupia Wdowa
+## 75970 — Smuga vs. Trupia Wdowa
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 478.64 zł · EAN: 00673419302708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75970 |
+| Nazwa angielska | Tracer vs. Widowmaker |
+| Nazwa polska | Smuga vs. Trupia Wdowa |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702016368475, 673419302708 |
 
 LEGO OVERWATCH 75970 SMUGA VS. TRUPIA WDOWA
 
@@ -35,11 +45,27 @@ Wykonuj epickie misje rodem z gry Overwatch® w zestawie LEGO® Overwatch 75970 
 
 D8DA-70920
 
+**Galeria:**
+
+- 75970-1: https://a.allegroimg.com/original/112112/a3251c804969b69fb97f309bfdcc
+- 75970-2: https://a.allegroimg.com/original/11e177/e28051f343b59e6f36cae06d4dd2
+
 ---
 
-## 75971 — Klocki Lego Overwatch 75971 Hanzo vs. Genji
+## 75971 — Hanzo vs. Genji
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 255.75 zł · EAN: 05702016368482 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75971 |
+| Nazwa angielska | Hanzo vs. Genji |
+| Nazwa polska | Hanzo vs. Genji |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 22 cm × gł. 9 cm |
+| EAN | 5702016368482 |
 
 Oryginalne klocki Lego.
 
@@ -62,21 +88,51 @@ Zbuduj z klocków LEGO® dojo Hanamura z dwójką smoczych braci z gry Overwatch
 
 Klocki wysyłane są w folii bąbelkowej oraz dodatkowym kartonie zewnętrznym.
 
+**Galeria:**
+
+- 75971-1: https://a.allegroimg.com/original/118106/219739e04894b8f0d3d60d22a964
+
 ---
 
-## 75972 — Lego Overwatch 75972 Dorado pojedynek
+## 75972 — Dorado - pojedynek
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 380.00 zł · EAN: 05702016368499 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75972 |
+| Nazwa angielska | Dorado Showdown |
+| Nazwa polska | Dorado - pojedynek |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 419 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 15 cm × gł. 4 cm |
+| EAN | 5702016368499 |
 
 LEGO 75972 OVERWATCH DORADO - POJEDYNEK
  
 **Pojedynek Żołnierza-76 ze Żniwiarzem trwa! Dwóch potężnych bohaterów toczy bój o rdzeń fuzyjny na mapie Dorado zainspirowanej corocznym świętem Festival de la Luz. Teraz z klocków LEGO® możesz zbudować znany budynek z punktem kontrolnym, miniaturowy targ, latarnię oraz ciężarówkę z ładunkiem. W zestawie znajduje się Żołnierz-76 z ciężkim karabinem pulsacyjnym, Żniwiarz z dwiema Piekielnymi Strzelbami oraz McCree z sześciostrzałowym rewolwerem Rozjemcą. Lepiej nie wchodź im w drogę! Zbuduj kultowy budynek z mapy Dorado oraz ciężarówkę z ładunkiem w zestawie LEGO® Overwatch 75972 Dorado — pojedynek. Zestaw, zainspirowany popularną na całym świecie zespołową grą akcji, przedstawia doskonale rozpoznawalny budynek z popularnej mapy Dorado. W komplecie są trzy postacie: Żołnierz-76, Żniwiarz oraz McCree. Uzbrojenie z gry Overwatch, budynek z mapy Dorado oraz ciężarówka z ładunkiem wyglądająca jak ta w grze z pewnością zachęcą fanów do zbudowania zestawu i ustawienia go na półce. Natomiast młodsi gracze z chęcią pobawią się pojazdem i miniaturowym targiem. W zestawie minifigurki: Żołnierz-76, Żniwiarz i McCree. Budynek z mapy Dorado ma trzy okna (dwa z okiennicami), lampy, latarnię, mały stragan targowy i bramę, przez którą może przejechać ciężarówka z ładunkiem. Ciężarówka z ładunkiem ma miejsce dla minifigurki, wyjmowany generator oraz ukryte koła, które dają efekt unoszenia się nad jezdnią — zupełnie jak w grze. W komplecie broń postaci z gry Overwatch®: ciężki karabin pulsacyjny Żołnierza-76, dwie Piekielne Strzelby Żniwiarza oraz sześciostrzałowy rewolwer Rozjemca należący do McCree. Overwatch® studia Blizzard Entertainment — twórców legendarnej gry „World of Warcraft®” — szybko zyskał rzeszę zapalonych fanów z całego świata, którzy tworzą animowane seriale online oraz komiksy i organizują międzynarodowe zawody e-sportowe. Zestawy LEGO® Overwatch® to doskonały prezent dla fanów tej hitowej gry wideo. Budynek z mapy Dorado ma ok. 17 cm wysokości, 15 cm szerokości i 4 cm głębokości. Ciężarówka z ładunkiem ma ok. 8 cm wysokości, 15 cm długości i 8 cm szerokości.**
 
+**Galeria:**
+
+- 75972-1: https://4.allegroimg.com/original/009794/e63ebace44c3a05b3621044e0f44
+
 ---
 
-## 75973 — 75973 Lego Overwatch Overwatch D.Va & Reinhardt
+## 75973 — 75973 Overwatch D.Va & Reinhardt
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 898.89 zł · EAN: 05702016368505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75973 |
+| Nazwa angielska | D.Va & Reinhardt |
+| Nazwa polska | 75973 Overwatch D.Va & Reinhardt |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 455 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368505 |
 
 LEGO D.Va & Reinhardt 75973
  
@@ -94,11 +150,26 @@ Zbuduj kultowego mecha i zmechanizowaną zbroję z zestawu LEGO Overwatch 75973 
 - Model D.Vy ma ok. 15 cm wysokości. 
 - Model Reinhardta ma ok. 14 cm wysokości.
 
+**Galeria:**
+
+- 75973-1: https://a.allegroimg.com/original/11574d/146d3ab6410587058ab0530c5e67
+
 ---
 
-## 75974 — Lego Overwatch 75974 Bastion Klocki
+## 75974 — LEGO OVERWATCH 75974 BASTION KLOCKI
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 984.88 zł · EAN: 00673419302746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75974 |
+| Nazwa angielska | Bastion |
+| Nazwa polska | LEGO OVERWATCH 75974 BASTION KLOCKI |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 602 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368512, 673419302746 |
 
 LEGO OVERWATCH 75974 BASTION
 
@@ -110,11 +181,27 @@ LEGO OVERWATCH 75974 BASTION
 - **zestawy konstrukcyjne z serii LEGO Overwatch to doskonały prezent** kolekcjonerski dla fanów tej hitowej gry wideo
 - **figurka Bastiona** w trybie zwiadowcy ma ok. 26 cm wysokości, a w trybie czołgu ok. 17 cm wysokości
 
+**Galeria:**
+
+- 75974-1: https://a.allegroimg.com/original/115e60/11cea9554ee48e67e6d2f3eb9089
+- 75974-2: https://a.allegroimg.com/original/114ece/b43eb38940e5812572caad12f9f6
+
 ---
 
-## 75975 — Lego Overwatch 75975 Posterunek: Gibraltar
+## 75975 — Posterunek: Gibraltar
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 446.49 zł · EAN: 05702016368529 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75975 |
+| Nazwa angielska | Watchpoint: Gibraltar |
+| Nazwa polska | Posterunek: Gibraltar |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 730 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 19 cm |
+| EAN | 5702016368529 |
 
 LEGO Posterunek: Gibraltar 75975
  
@@ -133,11 +220,26 @@ Zbuduj kultową rakietę i wieżę startową znane z niezwykle lubianej mapy w g
 - Połączone rakiety mają ok. 5 cm wysokości, 37 cm długości i 19 cm szerokości. 
 - Wieża startowa ma ok. 37 cm wysokości, 22 cm szerokości i 22 cm głębokości.
 
+**Galeria:**
+
+- 75975-1: https://a.allegroimg.com/original/11ec5c/b8e1a13d437b94303e469d9992de
+
 ---
 
-## 75976 — Lego Overwatch 75976 Overwatch Burzyciel Nowy I Zestaw Klocków!!
+## 75976 — Overwatch Burzyciel
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 522.00 zł · EAN: 05702016553031 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75976 |
+| Nazwa angielska | Wrecking Ball |
+| Nazwa polska | Overwatch Burzyciel |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 227 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm |
+| EAN | 5702016553031 |
 
 LEGO Overwatch 75976 Burzyciel NOWY I ORYGINALNY ZESTAW KLOCKÓW!!!
 
@@ -152,11 +254,26 @@ Wykonuj epickie misje rodem z gry Overwatch z zestawem LEGO Overwatch 75976 Burz
 - Overwatch studia Blizzard Entertainment — twórców legendarnej gry „World of Warcraft” — szybko zyskał rzeszę zapalonych fanów z całego świata, którzy tworzą animowane filmy oraz komiksy i organizują międzynarodowe zawody e-sportowe.
 - Kreatywny model Burzyciela ma ok. 11 cm wysokości, 11 cm długości i 13 cm szerokości. Zestawy z serii konstrukcyjnej LEGO Overwatch to doskonały prezent dla fanów tej popularnej na całym świecie zespołowej gry akcji.
 
+**Galeria:**
+
+- 75976-1: https://a.allegroimg.com/original/05bbb0/31172e7e4699850451f6215e4df5
+
 ---
 
-## 75977 — Lego Overwatch 75977 Lego Wieprzu i Złomiarz (Junkrat & Roadhog)
+## 75977 — lego wieprzu i złomiarz
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702016553048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75977 |
+| Nazwa angielska | Junkrat & Roadhog |
+| Nazwa polska | lego wieprzu i złomiarz |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016553048 |
 
 **Zestaw klocków LEGO Overwatch 75977 Lego Wieprzu i Złomiarz (Junkrat & Roadhog)**
 
@@ -172,21 +289,52 @@ Dzieci i dorośli z chęcią zbudują ten szczegółowy model z gry Overwatch - 
 
 Scenka zawiera autentyczne detale z gry Overwatch, które spodobają się młodszym i starszym: szyld z nazwą miasta Junkertown oraz żółty motocykl, którym można bawić się osobno
 
+**Galeria:**
+
+- 75977-1: https://a.allegroimg.com/original/05dcd4/7fa8d15a4b96afe2354589106834
+
 ---
 
-## 75987 — Lego Overwatch 75987 Omnic Bastion Unikat 2018
+## 75987 — Omnic Bastion
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 368.88 zł · EAN: 00673419305815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75987 |
+| Nazwa angielska | Omnic Bastion |
+| Nazwa polska | Omnic Bastion |
+| Seria | Pozostałe serie > Overwatch |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 182 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305815 |
 
 Klocki LEGO Overwatch 75987 - Omnic Bastion
 
 Zestaw LEGO Overwatch - Omnic Bastion trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 75987. Zawiera 182 klocków LEGO. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 75987-1: https://a.allegroimg.com/original/115dc2/a77134884fc38727303a7c4fa019
+
 ---
 
-## 76961 — Lego 76961 Centrum Dla Odwiedzających
+## 76961 — Centrum dla odwiedzających: atak tyranozaura i raptora
 
-*Kategoria: Pozostałe serie > Overwatch · cena Allegro (2026-08-17): 749.90 zł · EAN: 05702017421964 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76961 |
+| Nazwa angielska | Visitor Center: T. rex & Raptor Attack |
+| Nazwa polska | Centrum dla odwiedzających: atak tyranozaura i raptora |
+| Seria | Jurassic World |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 693 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 32 cm × gł. 17 cm |
+| EAN | 5702017421964 |
 
 LEGO 76961 CENTRUM DLA ODWIEDZAJĄCYCH
 
@@ -203,6 +351,10 @@ Centrum dla odwiedzających ma 16 cm wysokości, 32 cm szerokości i 17 cm głę
 **Wiek: 12+**
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
+
+**Galeria:**
+
+- 76961-1: https://a.allegroimg.com/original/116a61/acd7e8844d02aadb87e4e32e8101
 
 ---
 

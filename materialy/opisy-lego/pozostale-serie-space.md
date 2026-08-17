@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Space — opisy produktowe (10 pozycji)
 
-## 1195 — Lego Space Life on Mars 1195 Alien Encounter saszetka klocki unikat rarytas
+## 1195 — Alien Encounter
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 149.00 zł · EAN: 05060976580550 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1195 |
+| Nazwa angielska | Alien Encounter |
+| Nazwa polska | Alien Encounter |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976580550 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 1195-1: https://a.allegroimg.com/original/1165f0/22a345b346cfbf361420c24eb656
+
 ---
 
-## 2543 — nowy Lego System Space Ufo Shell 2543 Statek kosmiczny unikat Misb 1998
+## 2543 — Alien Space Plane
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702010925438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2543 |
+| Nazwa angielska | Spacecraft |
+| Nazwa polska | Alien Space Plane |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010925438 |
 
 Cześć!
 
@@ -47,11 +72,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2543-1: https://a.allegroimg.com/original/11273b/f227466a48e784a95e95eff28f4b
+
 ---
 
-## 30230 — Lego Space 30230 Mini Mech Unikat Kolekcjonerski
+## 30230 — Mini Mech
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 83.99 zł · EAN: 05702014967359 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30230 |
+| Nazwa angielska | Mini Mech |
+| Nazwa polska | Mini Mech |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014967359 |
 
 **LEGO 30230 Mini Mech – KOLEKCJONERSKI POLYBAG LEGO GALAXY SQUAD**
 
@@ -85,11 +125,26 @@ Na sprzedaż zestaw LEGO 30230 Mini Mech z serii Galaxy Squad, wydany w 2013 rok
 
 • oryginalny polybag LEGO
 
+**Galeria:**
+
+- 30230-1: https://a.allegroimg.com/original/1108da/6fbfab6a4768a27d05eac8a0e70d
+
 ---
 
-## 40921 — Lego 40921 Powiększona minifigurka niebieskiego astronauty
+## 40921 — Powiększona minifigurka niebieskiego astronauty
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 278.90 zł · EAN: 05702018071137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40921 |
+| Nazwa angielska | Up-Scaled Blue Astronaut Minifigure |
+| Nazwa polska | Powiększona minifigurka niebieskiego astronauty |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 793 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071137 |
 
 Zapraszam do zakupu zestawu Lego z serii Space:
 
@@ -114,11 +169,26 @@ Zaskocz fanów LEGO® w wieku od 10 lat tym zestawem do zbudowania Powiększonej
 - Prezent dla miłośników kosmosu — zestawy klocków LEGO® o tematyce kosmicznej to świetny pomysł na prezent naurodziny i inne specjalne okazje dla chłopców, dziewczynek i fanów LEGO w każdym wieku
 - Wymiary — powiększona minifigurka astronauty składająca się z 793 elementów ma 26 cm wysokości.
 
+**Galeria:**
+
+- 40921-1: https://a.allegroimg.com/original/118674/d868f4264cde9ee211b37ba41e46
+
 ---
 
-## 6800 — nowy Lego System Space Ufo 6800 Cyber Blaster Misb 1997
+## 6800 — Cyber Blaster
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 158.99 zł · EAN: 05702010968008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6800 |
+| Nazwa angielska | Cyber Blaster |
+| Nazwa polska | Cyber Blaster |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010968008 |
 
 Cześć!
 
@@ -136,11 +206,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6800-1: https://a.allegroimg.com/original/114f10/671977a444e2939d760371421d84
+
 ---
 
-## 6818 — nowy Lego System Space Ufo 6818 Cyborg Scout Misb 1997
+## 6818 — Cyborg Scout
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 384.99 zł · EAN: 00042884068189 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6818 |
+| Nazwa angielska | Cyborg Scout |
+| Nazwa polska | Cyborg Scout |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884068189 |
 
 Cześć!
 
@@ -158,11 +243,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6818-1: https://a.allegroimg.com/original/11cb53/42f3d2074bf3bccde41c3b63bafb
+
 ---
 
-## 6836 — nowy Lego System Space 6836 Ufo V-Wing Fighter Badacz gruntu Misb 1997
+## 6836 — V-Wing Fighter
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 439.99 zł · EAN: 00042884068363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6836 |
+| Nazwa angielska | V-Wing Fighter |
+| Nazwa polska | V-Wing Fighter |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 1997 |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884068363 |
 
 Cześć!
 
@@ -180,11 +280,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6836-1: https://a.allegroimg.com/original/11ca9f/88ede1534679a30d5a24538e23cd
+
 ---
 
-## 70702 — Lego Galaxy Squad 70702 Wielkie żądło Nowe
+## 70702 — Wielkie żądło
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702014975293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70702 |
+| Nazwa angielska | Warp Stinger |
+| Nazwa polska | Wielkie żądło |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975293 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -194,11 +309,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 70702 Wielkie żądło **został zaprezentowany w 2013 roku i zawiera 310 klocków LEGO®. W klockach znajdziesz jeszcze 3 minifigurki. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 70702-1: https://a.allegroimg.com/original/11ed1f/ff4a109e4fcfbbfc6e04c611caa3
+
 ---
 
-## 70705 — Lego Space 70705 Galaxy Squad Pogromca robaków
+## 70705 — Klocki Galaxy Galaxy Pogromca robaków L
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 814.97 zł · EAN: 05702014975125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70705 |
+| Nazwa angielska | Bug Obliterator |
+| Nazwa polska | Klocki Galaxy Galaxy Pogromca robaków L |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 711 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975125 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -254,11 +384,26 @@ Robot Sidekick
 
 i skrzydlatego obcego komaroida z wyborem broni.
 
+**Galeria:**
+
+- 70705-1: https://a.allegroimg.com/original/05729a/0acf1a1643f8b437dd18d0929d42
+
 ---
 
-## 70709 — Lego 70709 Galaxy Squad Galaktyczny Tytan
+## 70709 — Galaktyczny Tytan
 
-*Kategoria: Pozostałe serie > Space · cena Allegro (2026-08-17): 1489.00 zł · EAN: 05702014974661 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70709 |
+| Nazwa angielska | Galactic Titan |
+| Nazwa polska | Galaktyczny Tytan |
+| Seria | Pozostałe serie > Space |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1012 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974661 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -276,6 +421,10 @@ i skrzydlatego obcego komaroida z wyborem broni.
 - **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**Galeria:**
+
+- 70709-1: https://a.allegroimg.com/original/119c17/accf6aa440828fa73d68d77abbd7
 
 ---
 

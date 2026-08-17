@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Dots — opisy produktowe (73 pozycji)
 
-## 30556 — Lego Dots 30556 Mała ramka z serii Dots Saszetka Polybag
+## 30556 — Mała ramka z serii DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 30.00 zł · EAN: 05702016668728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30556 |
+| Nazwa angielska | Mini Frame |
+| Nazwa polska | Mała ramka z serii DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668728 |
 
 **Nazwa produktu:** Lego DOTS 30556 Klocki Mała ramka z serii DOTS
  
@@ -32,11 +42,26 @@ Parametry
 - **Ilość figurek**: nie 
 - **Linia/Licencja**: Lego DOTS
 
+**Galeria:**
+
+- 30556-1: https://a.allegroimg.com/original/03e1bf/abd0b5e9428fba2666bbb399baba
+
 ---
 
-## 30557 — Lego Dots 30557 Podstawka na zdjęcia saszetka z klockami
+## 30557 — Podstawka na zdjęcia
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 31.49 zł · EAN: 05702016915921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30557 |
+| Nazwa angielska | Photo Holder Cube |
+| Nazwa polska | Podstawka na zdjęcia |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915921 |
 
 Witam
 
@@ -52,11 +77,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30557-1: https://a.allegroimg.com/original/1170d5/1cea56564f8a9d6fe720f309bd71
+
 ---
 
-## 30560 — Lego Dots 30560 Tablica Ogłoszeń Dots
+## 30560 — Tablica ogłoszeń DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 14.00 zł · EAN: 05702017155760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30560 |
+| Nazwa angielska | Pineapple Photo Holder and Mini Board |
+| Nazwa polska | Tablica ogłoszeń DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155760 |
 
 Witamy
 
@@ -76,11 +116,26 @@ W zestawie znajduje się:
 
 Zapraszamy do zakupu :)
 
+**Galeria:**
+
+- 30560-1: https://a.allegroimg.com/original/11d140/bc1d6ac34d3cb080bcea9325af5a
+
 ---
 
-## 30637 — Lego Dots 30637 Tacka w kształcie zwierzaka i zawieszka na torbę saszetka
+## 30637 — Tacka w kształcie zwierzaka i zawieszka na torbę
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 23.79 zł · EAN: 05702017400303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30637 |
+| Nazwa angielska | Animal Tray and Bag Tag |
+| Nazwa polska | Tacka w kształcie zwierzaka i zawieszka na torbę |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017400303 |
 
 **Lego Klocki DOTS 30637 Tacka w kształcie zwierzaka i zawieszka na torbę**
  
@@ -95,11 +150,26 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - Liczba elementów: **94** 
 - Rozmiar zestawu: **Mały**
 
+**Galeria:**
+
+- 30637-1: https://a.allegroimg.com/original/11eda2/6e84b29549d6bf42c529fa4f9ce1
+
 ---
 
-## 40561 — Lego Dots 40561 Pojemnik na długopisy
+## 40561 — Pojemnik na długopisy
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 112.50 zł · EAN: 05702017241999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40561 |
+| Nazwa angielska | Pencil Holder |
+| Nazwa polska | Pojemnik na długopisy |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241999 |
 
 **LEGO DOTS 40561 – Pojemnik na ołówki**
 
@@ -116,11 +186,26 @@ Zestaw **40561** był wydany jako limitowany produkt promocyjny (GWP), co czyn
 - **Dwie sekcje:** Pojemnik składa się z głównej części na przybory oraz ruchomej, zdejmowanej końcówki (gumki), co zwiększa jego funkcjonalność.
 - **Kreatywny prezent:** Zestaw świetnie rozwija zdolności manualne i wyobraźnię, będąc jednocześnie estetyczną ozdobą pokoju.
 
+**Galeria:**
+
+- 40561-1: https://a.allegroimg.com/original/1180e6/f23222e34e7c98796b75b346f0b2
+
 ---
 
-## 41801 — Lego Dots 41801 Bransoletka Moje Zwierzaki Unikat Klocki Opis
+## 41801 — Moje Zwierzaki - Bransoletka
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017400167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41801 |
+| Nazwa angielska | My Pets Bracelet |
+| Nazwa polska | Moje Zwierzaki - Bransoletka |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017400167 |
 
 LEGO Dots 41801 Bransoletka - Moje Zwierzaki Unikat Klocki
 
@@ -152,11 +237,26 @@ Zestawy DOTS wprowadzają dzieci, które je tworzą i ozdabiają, w świat zabaw
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41801-1: https://a.allegroimg.com/original/0537cc/fbdcb01a4cfaa9f977f91feb2cea
+
 ---
 
-## 41803 — Lego Dots 41803 5702017419909
+## 41803 — Seria 8 - Brokat i połysk
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017419909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41803 |
+| Nazwa angielska | Extra DOTS Series 8 – Glitter and Shine |
+| Nazwa polska | Seria 8 - Brokat i połysk |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017419909 |
 
 Dziś do zaoferowania Państwu mamy:** LEGO DOTS 41803 5702017419909**
 
@@ -166,11 +266,26 @@ Zdjęcia w galerii odzwierciedlają faktyczny wygląd i stan opakowania sprzedaw
 
 Więcej szczegółowych informacji o funkcjach tego modelu znajdą Państwo na oficjalnej stronie producenta.
 
+**Galeria:**
+
+- 41803-1: https://a.allegroimg.com/original/11093e/75b99c7a43f3a8851ea1919d51a0
+
 ---
 
-## 41805 — Lego Dots Kreatywny zwierzak szuflada 41805
+## 41805 — Kreatywny zwierzak - szuflada
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 114.90 zł · EAN: 05702017421179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41805 |
+| Nazwa angielska | Creative Animal Drawer |
+| Nazwa polska | Kreatywny zwierzak - szuflada |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 643 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421179 |
 
 LEGO Dots 41805 Kreatywny zwierzak szuflada
  
@@ -194,11 +309,26 @@ Zestawy DOTS wprowadzają dzieci, które tworzą i ozdabiają zestawy, w świat 
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41805-1: https://a.allegroimg.com/original/057ac1/16d93ce54c8ca59b75db6dee62dd
+
 ---
 
-## 41806 — Lego Dots Pełny zestaw imprezowy 41806
+## 41806 — Pełny zestaw imprezowy
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 176.49 zł · EAN: 05702017432182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41806 |
+| Nazwa angielska | Ultimate Party Kit |
+| Nazwa polska | Pełny zestaw imprezowy |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702017432182 |
 
 LEGO® 41806 DOTS - Pełny zestaw imprezowy
 
@@ -224,11 +354,26 @@ Zestawy DOTS wprowadzają dzieci, które tworzą i ozdabiają zestawy, w świat 
 - Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41806-1: https://a.allegroimg.com/original/055283/35a438f54695835dc9bdd3222bb8
+
 ---
 
-## 41807 — Lego Dots Megazestaw kreatywnego projektanta 41807
+## 41807 — Megazestaw kreatywnego projektanta
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 248.88 zł · EAN: 05702017421186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41807 |
+| Nazwa angielska | Bracelet Designer Mega Pack |
+| Nazwa polska | Megazestaw kreatywnego projektanta |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421186 |
 
 LEGO DOTS
 
@@ -270,11 +415,26 @@ SPECYFIKACJA ZESTAWU:
 - **Płeć dziecka:** chłopcy i dziewczynki
 - **Ilość elementów:** 388
 
+**Galeria:**
+
+- 41807-1: https://a.allegroimg.com/original/110249/59923ce9484dafa269c4349d590d
+
 ---
 
-## 41808 — Lego 41808 Dots Zestaw akcesoriów z Hogwartu
+## 41808 — Akcesoria z Hogwartu
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 72.77 zł · EAN: 05702017421193 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41808 |
+| Nazwa angielska | Hogwarts Accessories Pack |
+| Nazwa polska | Akcesoria z Hogwartu |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421193 |
 
 LEGO Dots 41808 Akcesoria z Hogwartu
  
@@ -300,11 +460,26 @@ Pokaż swoją miłość do świata Harry’ego Pottera™ dzięki zestawowi akce
 - Niezrównana jakość – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że zestaw LEGO® DOTS spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41808-1: https://a.allegroimg.com/original/0572c9/9a7d8c694453b842cc0bc26b7e22
+
 ---
 
-## 41809 — Lego 41809 Dots Pojemnik na długopisy w kształcie Hedwigi
+## 41809 — Stojak na długopisy z Hedwigą
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 145.55 zł · EAN: 05702017421209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41809 |
+| Nazwa angielska | Hedwig Pencil Holder |
+| Nazwa polska | Stojak na długopisy z Hedwigą |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 518 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 5 cm |
+| EAN | 5702017421209 |
 
 Rozbudź kreatywność fanów Harry'ego Pottera™ dzięki pojemnikowi na długopisy, pojemnikowi na karteczki w kształcie listu, płytkom i inspiracjom.
  
@@ -334,11 +509,26 @@ Uporządkuj biurko z pomocą pierzastego przyjaciela! Stwórz Pojemnik na długo
 - Niezrównana jakość – elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41809-1: https://a.allegroimg.com/original/2553d1/db7620d14b6982098b4a1690aa21
+
 ---
 
-## 41811 — Lego Dots Harry Potter 41811 Zestaw Organizera na Biurko z Hogwartu
+## 41811 — Hogwarts desk set
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017425115 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41811 |
+| Nazwa angielska | Hogwarts Desktop Kit |
+| Nazwa polska | Hogwarts desk set |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 856 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 9 cm |
+| EAN | 5702017425115 |
 
 Powrót do Hogwartu™! Przygotuj swoje biurko szkolne z tym zestawem LEGO® DOTS. Rozpakuj elementy, złóż ramkę na zdjęcia (i wybierz swoją ulubioną dekorację), tackę na szalik, uchwyt na notatki Złoty Znicz™ i sekretne pudełko, a następnie rozłóż naklejkę. Posortuj kolory i zacznij dekorować. Płytki zawierają 10 losowych, unikalnych płytek, które ulepszą Twoje projekty inspirowane Harrym Potterem™!
  
@@ -370,11 +560,26 @@ Zestawy DOTS dają dzieciom radość z zabawy LEGO podczas tworzenia i personali
 - Niezrównana jakość - od 1958 roku komponenty zestawu LEGO® spełniają rygorystyczne standardy branżowe, zapewniając, że są zawsze kompatybilne 
 - Bezpieczeństwo przede wszystkim – LEGO® kawałki są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu masz pewność, że spełniają rygorystyczne światowe normy bezpieczeństwa
 
+**Galeria:**
+
+- 41811-1: https://a.allegroimg.com/original/25ffd9/7401bea340a885c61d32214291b4
+
 ---
 
-## 41900 — Lego Dots 41900 Lego Dots 41900 Bransoletka Z Tęczą
+## 41900 — LEGO DOTS 41900 - BRANSOLETKA Z TĘCZĄ
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 45.99 zł · EAN: 05702016667523 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41900 |
+| Nazwa angielska | Rainbow |
+| Nazwa polska | LEGO DOTS 41900 - BRANSOLETKA Z TĘCZĄ |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667523 |
 
 LEGO Dots LEGO DOTS 41900 - BRANSOLETKA
  
@@ -406,11 +611,26 @@ Możliwość pomysłowego udekorowania bransoletki we własny sposób zapewni dz
  
 - Upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy płytki i bransoletki LEGO® DOTS™, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41900-1: https://a.allegroimg.com/original/032600/7b4119b84a23a3fb041a44cdf27c
+
 ---
 
-## 41901 — Lego Dots Bransoletka ze stylowymi zwierzakami 41901
+## 41901 — LEGO DOTS 41901 - BRANSOLETKA STYLOWE ZWIERZAKI
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 70.00 zł · EAN: 05702016616705 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41901 |
+| Nazwa angielska | Funky Animals |
+| Nazwa polska | LEGO DOTS 41901 - BRANSOLETKA STYLOWE ZWIERZAKI |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616705 |
 
 Wystrzałowa bransoletka, która pozwoli dzieciom rozwinąć skrzydła wyobraźni
  
@@ -429,11 +649,26 @@ Ten ciekawy zestaw składa się z różowej regulowanej bransoletki, która pasu
 - Płytki i bransoletki LEGO DOTS spełniają najwyższe standardy branżowe oraz nasze własne rygorystyczne kryteria jakości. Dzięki temu wszystkie części pasują do siebie, solidnie się ze sobą łączą i można je za każdym razem z łatwością rozdzielić.
 - Upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy płytki i bransoletki LEGO DOTS, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41901-1: https://a.allegroimg.com/original/115094/d11a571b46f4aa7c7df8c41e38df
+
 ---
 
-## 41902 — Lego Dots 41902 Bransoletka Z Jednorożcem
+## 41902 — LEGO DOTS 41902 - BRANSOLETKA Z JEDNOROŻCEM
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702016616712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41902 |
+| Nazwa angielska | Sparkly Unicorn |
+| Nazwa polska | LEGO DOTS 41902 - BRANSOLETKA Z JEDNOROŻCEM |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616712 |
 
 LEGO Dots 41902 BRANSOLETKA Z JEDNOROŻCEM
 
@@ -454,11 +689,26 @@ Ten wspaniały zestaw składa się z lawendowej regulowanej bransoletki, która 
 - Płytki i bransoletki LEGO DOTS spełniają najwyższe standardy branżowe oraz nasze własne rygorystyczne kryteria jakości. Dzięki temu wszystkie części pasują do siebie, solidnie się ze sobą łączą i można je za każdym razem z łatwością rozdzielić.
 - Upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41902-1: https://a.allegroimg.com/original/05cbbf/7d01855b422e9e101e2ba6f0ecd9
+
 ---
 
-## 41903 — Lego Dots 41903 Lego Dots 41903 Bransoletka Cuda Kosmosu
+## 41903 — LEGO DOTS 41903 BRANSOLETKA CUDA KOSMOSU
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016616729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41903 |
+| Nazwa angielska | Cosmic Wonder |
+| Nazwa polska | LEGO DOTS 41903 BRANSOLETKA CUDA KOSMOSU |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616729 |
 
 **PRODUCENT:** LEGO
  
@@ -488,11 +738,26 @@ Możliwość pomysłowego udekorowania bransoletki we własny sposób zapewni dz
 - Płytki i bransoletki LEGO® DOTS™ spełniają najwyższe standardy branżowe oraz nasze własne rygorystyczne kryteria jakości. Dzięki temu wszystkie części pasują do siebie, solidnie się ze sobą łączą i można je za każdym razem z łatwością rozdzielić. 
 - Upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy płytki i bransoletki LEGO® DOTS™, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41903-1: https://a.allegroimg.com/original/11f7cc/c66425a042ec9cb1797092bcf52e
+
 ---
 
-## 41904 — Lego Dots 41904 Lego Dots 41904 Stojaki Na Zdjęcia Z Motywem Zwierzęcym
+## 41904 — LEGO DOTS 41904 - STOJAKI NA ZDJĘCIA Z MOTYWEM ZWIERZĘCYM
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 177.00 zł · EAN: 05702016668643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41904 |
+| Nazwa angielska | Animal Picture Holders |
+| Nazwa polska | LEGO DOTS 41904 - STOJAKI NA ZDJĘCIA Z MOTYWEM ZWIERZĘCYM |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 423 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668643 |
 
 LEGO DOTS 41904 STOJAKI NA ZDJĘCIA MOTYW ZWIERZĘCY
 
@@ -509,11 +774,26 @@ Dołączona tacka do przechowywania i sortowania ułatwia sprzątanie po zabawie
 - Klocki i płytki LEGO® spełniają najwyższe standardy branżowe i nasze własne kryteria jakościowe, dzięki czemu są ze sobą zgodne, a klocki można za każdym razem mocno połączyć i z łatwością rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i płytki LEGO®, by mieć pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41904-1: https://a.allegroimg.com/original/11abe1/b67fc7c34b148cdaab9a6471b750
+
 ---
 
-## 41905 — Lego 41905 Dots Tęczowy stojak biżuterie dla dziewczynki
+## 41905 — DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702016616736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41905 |
+| Nazwa angielska | Rainbow Jewelry Stand |
+| Nazwa polska | DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616736 |
 
 LEGO 41905 DOTS - Tęczowy stojak na biżuterie
 
@@ -551,11 +831,26 @@ Stojak ma tackę na akcesoria i pięć haczyków, na których można wieszać bi
 
 - Klocki i płytki LEGO® spełniają najwyższe standardy branżowe i nasze własne kryteria jakościowe, dzięki czemu są ze sobą zgodne, a klocki można za każdym razem mocno połączyć i z łatwością rozdzielić — i tak jest niezmiennie od 1958 roku.
 
+**Galeria:**
+
+- 41905-1: https://a.allegroimg.com/original/003c71/58f2e8e940e792822651e7fc552a
+
 ---
 
-## 41907 — Lego Dots 41907 Organizer na biurko
+## 41907 — Organizer na biurko
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016668667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41907 |
+| Nazwa angielska | Desk Organizer |
+| Nazwa polska | Organizer na biurko |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 405 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668667 |
 
 LEGO Dots 41907 Organizer na biurko
 
@@ -563,11 +858,26 @@ LEGO Dots 41907 Organizer na biurko
 
 Zbuduj organizer na biurko w swoim stylu! Zmontuj organizer, a potem udekoruj jego ścianki. Możesz trzymać w nim zapasowe przybory i ulubione zdjęcie bądź ważną notatkę. Ma nawet szufladę, w której możesz ukryć cenny drobiazg! Puść wodze wyobraźni i zaprojektuj własny wzór lub skorzystaj z instrukcji i pomysłów, które znajdziesz na arkuszu w zestawie. Udekoruj swój organizer tak, jak lubisz — to łatwy sposób, by wykazać się kreatywnością! #dotyourworld
 
+**Galeria:**
+
+- 41907-1: https://a.allegroimg.com/original/05171f/31f2593f454f8d0826f515d96999
+
 ---
 
-## 41908 — Lego Dots 41908 Dodatki Seria 1 6+
+## 41908 — Dodatki S1
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 16.90 zł · EAN: 05702016667547 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41908 |
+| Nazwa angielska | Extra DOTS - Series 1 |
+| Nazwa polska | Dodatki S1 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667547 |
 
 Seria 1 dodatków DOTS — zastrzyk kreatywnej energii dla młodego projektanta
 
@@ -586,11 +896,26 @@ Stan:** nowy**
 - Zestawy LEGO DOTS to propozycje niesamowitych prac ręcznych dla dzieci. Ten wesoły zestaw dodatków do bransoletek i dekoracji oferuje inspirujące możliwości swobodnego projektowania, które wzmocnią kreatywność i pewność siebie dzieci.
 - Płytki LEGO spełniają najwyższe standardy branżowe i nasze własne kryteria jakościowe, dzięki czemu są ze sobą zgodne, a klocki można za każdym razem mocno połączyć i z łatwością rozdzielić.
 
+**Galeria:**
+
+- 41908-1: https://a.allegroimg.com/original/035f04/c7338e53476ba9a3f4608bf4b21e
+
 ---
 
-## 41909 — Lego Dots 41909 Bransoletki z syrenim wdziękiem
+## 41909 — Bransoletki z syrenim wdziękiem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016667554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41909 |
+| Nazwa angielska | Mermaid Vibes |
+| Nazwa polska | Bransoletki z syrenim wdziękiem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667554 |
 
 LEGO Dots 41909
 
@@ -604,11 +929,26 @@ Akcesoria dla małych, kreatywnych syrenek
 
 Zestaw daje mnóstwo zabawy i pozwala dzieciom puścić wodze fantazji przy samodzielnym ozdabianiu bransoletek, które można później podarować znajomym. Dzieci mogą także wymieniać się projektami, tworząc unikalne bransoletki — tu wszystko będzie pasować! Ten zestaw świetnie sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z dowolnej innej okazji.
 
+**Galeria:**
+
+- 41909-1: https://a.allegroimg.com/original/05bf6f/ea917e614279943f9e49c58a63b7
+
 ---
 
-## 41910 — Lego Dots 41910 Bransoletki z lodami dla przyjaciół
+## 41910 — DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 64.90 zł · EAN: 05702016667561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41910 |
+| Nazwa angielska | Ice Cream Besties |
+| Nazwa polska | DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667561 |
 
 LEGO® 41910 Bransoletki z lodami dla przyjaciół
 
@@ -634,11 +974,26 @@ Ten kreatywny zestaw artystyczny pozwala dzieciom tworzyć bransoletki we własn
 - Klocki konstrukcyjne i płytki LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i płytki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41910-1: https://a.allegroimg.com/original/0508ab/b3fe27494e4886b454dfa84dfaf4
+
 ---
 
-## 41911 — Lego 41911 Dots Bransoletka sportowa
+## 41911 — LEGO 41911 DOTS Bransoletka sportowa
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016668575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41911 |
+| Nazwa angielska | Go Team! |
+| Nazwa polska | LEGO 41911 DOTS Bransoletka sportowa |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668575 |
 
 LEGO 41911 DOTS - Bransoletka sportowa
  
@@ -654,11 +1009,26 @@ Kreatywny zestaw dla projektantów bransoletek Ten świetny zestaw z bransoletk�
 - Bransoletka z kreatywnego zestawu do budowania ma ok. 20 cm długości, więc dzieci mogą ją mieć zawsze przy sobie. Mali projektanci mogą poćwiczyć tworzenie różnych wzorów, a potem z dumą nosić na ręce najbardziej udaną wersję. 
 - Zabawa zaczyna się od udekorowania bransoletki — wystarczy otworzyć opakowanie.
 
+**Galeria:**
+
+- 41911-1: https://a.allegroimg.com/original/11f406/5ddbd7e343498a6fe241ce0c1569
+
 ---
 
-## 41912 — Lego Dots Bransoletka Z Papużkami Nierozłączkami 41912
+## 41912 — LEGO DOTS 41912 BRANSOLETKA PAPUŻKI NIEROZŁĄCZK
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 54.75 zł · EAN: 05702016668582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41912 |
+| Nazwa angielska | Love Birds |
+| Nazwa polska | LEGO DOTS 41912 BRANSOLETKA PAPUŻKI NIEROZŁĄCZK |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668582 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -674,11 +1044,26 @@ Rok wydania:** 2020**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu**
 
+**Galeria:**
+
+- 41912-1: https://a.allegroimg.com/original/115ded/c08c56bb4c668dbfec25e831bb1c
+
 ---
 
-## 41913 — Lego 41913 Dots Megazestaw bransoletek
+## 41913 — Megazestaw bransoletek
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702016668674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41913 |
+| Nazwa angielska | Mega Pack |
+| Nazwa polska | Megazestaw bransoletek |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668674 |
 
 LEGO 41913 DOTS - Megazestaw bransoletek
 
@@ -698,11 +1083,26 @@ Cała radość zabawy tym artystycznym zestawem polega na tym, że dzieci mogą 
 - Ten kreatywny zestaw spodoba się każdemu fanowi rękodzieła. Elastyczne bransoletki i kolorowe płytki do dekoracji będą ekscytującym prezentem dla chłopców i dziewczynek w wieku od 6 lat — pod choinkę, na urodziny lub z dowolnej innej okazji.
 - Każda z bransoletek ma ok. 20 cm długości, a po zakończonej zabawie przyszli projektanci mogą uporządkować płytki i bezpiecznie umieścić je w przegródkach przenośnego pojemnika.
 
+**Galeria:**
+
+- 41913-1: https://a.allegroimg.com/original/45cca5/849b6cc742b9b13cfa6b1174dd5b
+
 ---
 
-## 41914 — Lego Dots 41914 Kreatywne ramki na zdjęcia
+## 41914 — Kreatywne ramki na zdjęcia
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016668681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41914 |
+| Nazwa angielska | Picture Frame |
+| Nazwa polska | Kreatywne ramki na zdjęcia |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 398 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668681 |
 
 LEGO Dots 41914
 
@@ -720,11 +1120,26 @@ Ramki można ustawiać osobno albo łączyć na różne sposoby za pomocą specj
 
 Gotowe ramki i umieszczone w nich zdjęcia staną się ozdobą dziecięcej sypialni, a gdy się znudzą, mali projektanci mogą je dowolnie przerobić. Zestaw świetnie sprawdzi się też jako prezent na Boże Narodzenie, urodziny lub z dowolnej innej okazji.
 
+**Galeria:**
+
+- 41914-1: https://a.allegroimg.com/original/05dd30/1abb869a4dfaad40f07b6790f109
+
 ---
 
-## 41915 — Lego Dots 41915 Szkatułka na biżuterię
+## 41915 — LEGO DOTS 41915 Szkatułka na biżuterię
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702016668698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41915 |
+| Nazwa angielska | Jewelry Box |
+| Nazwa polska | LEGO DOTS 41915 Szkatułka na biżuterię |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 12 cm × gł. 14 cm |
+| EAN | 5702016668698 |
 
 Lego Dots 41915 Szkatułka na biżuterię
 
@@ -747,11 +1162,26 @@ Wesoła zabawa przy tworzeniu praktycznych dzieł Zabawa tym zestawem jest taka 
 - Doskonała do budowania i twórczej zabawy. Dzięki przejrzystym instrukcjom złożenie szkatułki będzie świetną zabawą, a arkusz z pomysłami podpowie, jak ją udekorować. Dołączony pojemnik do przechowywania ułatwia sprzątanie po zabawie oraz sortowanie płytek.
 - Zestawy LEGO® DOTS to propozycje niesamowitych prac ręcznych dla dzieci. Ta sprytna szkatułka na biżuterię daje dzieciom inspirujące możliwości swobodnego projektowania, które wzmocnią ich kreatywność i pewność siebie.
 
+**Galeria:**
+
+- 41915-1: https://a.allegroimg.com/original/1162c4/edafc7b7408c8a51e9489c08e589
+
 ---
 
-## 41916 — Lego Dots 41916 Dots
+## 41916 — DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 8.90 zł · EAN: 05702016668599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41916 |
+| Nazwa angielska | Extra DOTS - Series 2 |
+| Nazwa polska | DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668599 |
 
 Podaruj dzieciom kreatywną zabawę z akcesoriami LEGO DOTS z serii 2! Te akcesoria pozwalają wzbogacić zestawy o niepowtarzalny styl i tworzyć oryginalne dekoracje oraz biżuterię.
 
@@ -778,11 +1208,26 @@ Kompatybilne z
 
 innymi zestawami LEGO DOTS
 
+**Galeria:**
+
+- 41916-1: https://a.allegroimg.com/original/111a2d/23b68c904c8db55334eff8cd89c4
+
 ---
 
-## 41917 — Lego Dots 41917 Bransoletka z magicznym lasem
+## 41917 — 41917
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702016668605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41917 |
+| Nazwa angielska | Magic Forest |
+| Nazwa polska | 41917 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668605 |
 
 LEGO Dots 41917 Bransoletka z magicznym lasem
 
@@ -790,11 +1235,26 @@ LEGO Dots 41917 Bransoletka z magicznym lasem
 
 Zestaw Bransoletka z magicznym lasem pozwala zrobić prześliczną biżuterię! Rozłóż bransoletkę na płasko i doczep do niej płytki w wielu różnych kolorach. Możesz skorzystać z pomysłów przedstawionych na opakowaniu lub wymyślić własny, ciekawy projekt. Jeśli pasuje to do Twojej osobowości, możesz także dodać płytki w kolorze złota, opalizujące i takie, które świecą w ciemności. Załóż bransoletkę, by pokazać się światu z zupełnie nowej strony. Zmieniając ozdoby, możesz zaprezentować głębię swojej osobowości! #dotyourworld
 
+**Galeria:**
+
+- 41917-1: https://a.allegroimg.com/original/1120bb/c16122d44db190fc66638b4b2846
+
 ---
 
-## 41921 — Lego Dots 41921 Lego Dots Dodatki Seria 3 41921
+## 41921 — Lego Dots Dodatki Seria 3 41921
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 16.66 zł · EAN: 05702016914597 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41921 |
+| Nazwa angielska | Extra DOTS - Series 3 |
+| Nazwa polska | Lego Dots Dodatki Seria 3 41921 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914597 |
 
 Dzieci oraz fani prac ręcznych pokochają ten wyjątkowy zestaw z trzecią serią dodatków DOTS (41921), który zawiera płytki z sekretnymi dekoracjami! Płytki z tego woreczka dają się łączyć z rozmaitymi zestawami LEGO® DOTS i pozwalają dzieciom odświeżyć lub rozbudować ich wcześniejsze dzieła — na przykład dopasować je do stroju, humoru lub stylu pomieszczenia.
  
@@ -818,11 +1278,26 @@ Mały woreczek to świetny dodatek do innych zestawów DOTS i pomysł na drobny 
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41921-1: https://a.allegroimg.com/original/059fe8/e2e5f80e4d3eaa1da1341c927c97
+
 ---
 
-## 41922 — Lego Dots 41922 Bransoletka z kaktusem papierowa torba Lego!
+## 41922 — Bransoletka z kaktusem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016915174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41922 |
+| Nazwa angielska | Cool Cactus |
+| Nazwa polska | Bransoletka z kaktusem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915174 |
 
 Fani przyrody będą się wspaniale bawić przy projektowaniu bransoletki z zestawu LEGO® DOTS Bransoletka z kaktusem (41922). Kreatywna zabawka zawiera regulowaną, elastyczną opaskę w jasnozielonym kolorze, która pasuje na każdy nadgarstek, a do tego 32 kolorowe płytki — w tym specjalne płytki z nadrukiem kaktusa. Ozdobienie bransoletek jest łatwe i intuicyjne, więc dzieci mogą dopasować je do własnego stroju lub humoru.
 
@@ -845,11 +1320,26 @@ Pełne radości projektowanie własnej biżuterii todla dzieci okazja, by nauczy
 
 W tym zestawie otrzymujesz klocki LEGO wraz z oryginalną papierową torbą LEGO!
 
+**Galeria:**
+
+- 41922-1: https://a.allegroimg.com/original/11284a/77ff5be64fcdbac55001137895ef
+
 ---
 
-## 41923 — Lego Dots 41923 Bransoletki z potworkami
+## 41923 — Bransoletki z potworkami
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702016914832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41923 |
+| Nazwa angielska | Monster |
+| Nazwa polska | Bransoletki z potworkami |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914832 |
 
 **LEGO Dots 41923 Bransoletki z potworkami**
 
@@ -875,11 +1365,26 @@ Zestawy LEGO DOTS pozwalają dzieciom tworzyć i dekorować rozmaite modele, a p
 
 11
 
+**Galeria:**
+
+- 41923-1: https://a.allegroimg.com/original/251ee6/7ed9b45b4e759523c63fe527d442
+
 ---
 
-## 41924 — Lego Dots 41924 Tajny schowek
+## 41924 — Tajny schowek
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702016914849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41924 |
+| Nazwa angielska | Secret Holder |
+| Nazwa polska | Tajny schowek |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 451 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702016914849 |
 
 Fajny zestaw LEGO DOTS z tajnym schowkiem (41924) zainspiruje miłośników zwierząt i prac ręcznych !
 
@@ -917,11 +1422,26 @@ Schowek z kotkiem to świetny prezent dla chłopców i dziewczynek !
 - Elementy LEGO spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41924-1: https://a.allegroimg.com/original/11b90c/b65ef33142fbafd92864fd51e812
+
 ---
 
-## 41925 — Lego Dots 41925 Tajne skrzyneczki
+## 41925 — Tajne skrzyneczki
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702016914856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41925 |
+| Nazwa angielska | Secret Boxes |
+| Nazwa polska | Tajne skrzyneczki |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 273 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 9 cm |
+| EAN | 5702016914856 |
 
 Dzieci lubiące prace ręczne będą zachwycone tajnymi skrzyneczkami LEGO® D 
 - Pochwal się wyobraźnią! Ten fajny zestaw pozwala zbudować zamykaną skrzyneczkę w kształcie książki z działającym zamkiem i skrytką i małą skrzyneczkę z ramką na zdjęcie. Zawiera też dwa klucze, tacę i mnóstwo płytek! 
@@ -936,11 +1456,26 @@ Dzieci lubiące prace ręczne będą zachwycone tajnymi skrzyneczkami LEGO® D
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41925-1: https://a.allegroimg.com/original/05f1a9/042d5cd34502800cc6711595c422
+
 ---
 
-## 41926 — Lego 41926 Dots Kreatywny zestaw z tortem
+## 41926 — Kreatywny zestaw z tortem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 198.90 zł · EAN: 05702016914863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41926 |
+| Nazwa angielska | Creative Party Kit |
+| Nazwa polska | Kreatywny zestaw z tortem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 623 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702016914863 |
 
 Klocki LEGO DOTS 41926 - Kreatywny zestaw z tortem
 
@@ -965,11 +1500,26 @@ Przy projektowaniu babeczek dzieci mogą puścić wodze wyobraźni i pochwalić 
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41926-1: https://a.allegroimg.com/original/1167d6/78fd476a4961a3e4fcedf1d1878c
+
 ---
 
-## 41927 — Lego 41927 Dots Zawieszka z psem
+## 41927 — Zawieszka z psem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 87.90 zł · EAN: 05702016915020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41927 |
+| Nazwa angielska | Bag Tag Dog |
+| Nazwa polska | Zawieszka z psem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702016915020 |
 
 Klocki LEGO DOTS 41927 - Zawieszka z psem
 
@@ -995,11 +1545,26 @@ Dzieci mogą wiele razy budować i ozdabiać własną zawieszkę, dopasować min
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41927-1: https://a.allegroimg.com/original/112892/2714f89d49aea16dc65ba4f9a47f
+
 ---
 
-## 41928 — Lego 41928 Dots Zawieszka z narwalem
+## 41928 — Zawieszka z narwalem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 54.90 zł · EAN: 05702016915037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41928 |
+| Nazwa angielska | Bag Tag Narwhal |
+| Nazwa polska | Zawieszka z narwalem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702016915037 |
 
 Klocki LEGO DOTS 41928 - Zawieszka z narwalem
 
@@ -1025,11 +1590,26 @@ Dzieci mogą ozdobić zawieszkę zgodnie ze swoim gustem, zmienić minę narwala
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41928-1: https://a.allegroimg.com/original/050caf/53da2aab462a8e2fffaa59a77d76
+
 ---
 
-## 41929 — Lego Dots 41929 Zawieszka z leopardem Klocki dla dziewczynki Nowe
+## 41929 — 41929
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 145.21 zł · EAN: 05702016915044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41929 |
+| Nazwa angielska | Bag Tag Leopard |
+| Nazwa polska | 41929 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915044 |
 
 LEGO DOTS 41929 - Zawieszka z leopardem
 
@@ -1051,19 +1631,49 @@ Idealna niespodzianka Zawieszka składa się z niewielkiej kostki, silikonowego 
 
 Dla młodych miłośników prac ręcznych Dzieci mogą ozdobić zawieszkę zgodnie ze swoim gustem, zmienić minę leoparda i pokazać swoje dzieło przyjaciołom. Ten świetny zestaw będzie doskonałym drobnym upominkiem, który pozwoli dzieciakom rozwijać pasję do prac ręcznych oraz umiejętność wyrażania swoich myśli i uczuć.
 
+**Galeria:**
+
+- 41929-1: https://a.allegroimg.com/original/05c2a0/abe782ae42bcb3bff19bc71204a2
+
 ---
 
-## 41930 — Lego Dots 41930 Lego Dots Zawieszka z pandą 41930
+## 41930 — Lego Dots Zawieszka z pandą 41930
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 94.00 zł · EAN: 05702016915051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41930 |
+| Nazwa angielska | Bag Tag Panda |
+| Nazwa polska | Lego Dots Zawieszka z pandą 41930 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702016915051 |
 
 o Każdemu dziecku spodoba się zestaw LEGO(R) DOTS Zawieszka z pandą (41930), który zawiera wytrzymałą kostkę z zaczepem, separator płytek w kształcie klucza oraz sporo kolorowych płytek.o Zawieszkę można ozdobić wzorami zasugerowanymi na opakowaniu lub skorzystać z własnej kreatywności i umiejętności, by stworzyć inne kreatywne wzory.o Dołączone płytki świetnie nadają się do dekorowania i można ich używać także z innymi artystycznymi zestawami, takimi jak Dodatki DOTS - seria 3 lub 4 (41921 lub 41931), aby zabawa była jeszcze lepsza!o Chłopcom i dziewczynkom w wieku od 6 lat zainteresowanym pracami ręcznymi spodoba się ten rewelacyjny zestaw. Kreatywną zawieszkę można szybko złożyć i udekorować, a co więcej będzie ona pasować do każdego plecaka czy torby.o Pomysłowa zabawa w przenośnym rozmiarze. Każda z naszych zawieszek jest wytrzymała i przydatna oraz ma ok. 4 cm wysokości i 3 cm szerokości oraz głębokości.o Zestawy LEGO(R) DOTS to atrakcyjne zabawki dla miłośników prac ręcznych. Zawieszka z pandą daje dzieciom swobodne możliwości dekorowania i dostosowywania, które pomagają rozwijać pewność siebie podczas wesołej zabawy.
 
+**Galeria:**
+
+- 41930-1: https://a.allegroimg.com/original/05b32f/205b7bb34206894bb15dfcf8684b
+
 ---
 
-## 41931 — Lego 41931 Dodatki Dots Seria 4
+## 41931 — Lego 41931 dodatki dots seria 4
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 11.00 zł · EAN: 05702016915266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41931 |
+| Nazwa angielska | Extra DOTS - Series 4 |
+| Nazwa polska | Lego 41931 dodatki dots seria 4 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915266 |
 
 LEGO 41931 Dodatki Dots Seria 4
 
@@ -1071,11 +1681,26 @@ Dzieci oraz fani prac ręcznych pokochają ten wyjątkowy zestaw z czwartą seri
 
 Dzięki niemu mogą zrealizować jeszcze więcej pomysłów na dekorowanie, wymieniać się z przyjaciółmi i chwalić swoimi wyjątkowymi projektami.
 
+**Galeria:**
+
+- 41931-1: https://a.allegroimg.com/original/11ef00/d1a8bc094109bd19573a31dced6a
+
 ---
 
-## 41932 — Lego Dots 41932 Dots
+## 41932 — DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 9.90 zł · EAN: 05702016915877 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41932 |
+| Nazwa angielska | Extra DOTS - Series 5 |
+| Nazwa polska | DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915877 |
 
 Lego 41932 Dodatki Kropki seria 5
 
@@ -1087,11 +1712,26 @@ Dla entuzjastów majsterkowania Ten kompaktowy zestaw sprawia wiele radości, po
 
 Możesz ozdobić dowolne inne zestawy DOTS i LEGO akcesoriami DOTS, dzięki czemu będą one wspaniałą nagrodą, niespodzianką lub prezentem bez okazji dla każdego kreatywnego dzieciaka.
 
+**Galeria:**
+
+- 41932-1: https://a.allegroimg.com/original/11833d/df5fdb7c4b9c883b0f1eaf9ac9c4
+
 ---
 
-## 41933 — Lego 41933 Dots Muzyczna bransoletka
+## 41933 — Muzyczna bransoletka
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 59.98 zł · EAN: 05702016915884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41933 |
+| Nazwa angielska | Music |
+| Nazwa polska | Muzyczna bransoletka |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915884 |
 
 Klocki LEGO DOTS 41933 - Muzyczna bransoletka
 
@@ -1129,11 +1769,26 @@ Zestaw LEGO DOTS - Muzyczna bransoletka trafił do sprzedaży w 2021 roku. Num
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 41933-1: https://a.allegroimg.com/original/11b568/ff4345884f05a3d0363951545dc4
+
 ---
 
-## 41934 — Lego 41934 Dots Bransoletki z gwiazdami
+## 41934 — Bransoletki z gwiazdami
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016915891 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41934 |
+| Nazwa angielska | Starlight |
+| Nazwa polska | Bransoletki z gwiazdami |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915891 |
 
 LEGO 41934 DOTS - Bransoletki z gwiazdami
 
@@ -1153,11 +1808,26 @@ Pełne radości projektowanie własnej biżuterii to dla dzieci jednocześnie ok
 
 - Zabawa zaczyna się od dekorowania bransoletek — wystarczy otworzyć woreczek. Dzieci mogą tworzyć własne projekty lub skorzystać z łatwych inspiracji, dzięki którym łączenie klocków to bułka z masłem.
 
+**Galeria:**
+
+- 41934-1: https://a.allegroimg.com/original/45ee8a/632ce07d4b059912e96e46a33e4d
+
 ---
 
-## 41935 — Lego Dots 41935 Rozmaitości Dots Wielokolorowy
+## 41935 — Rozmaitości DOTS
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702016915839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41935 |
+| Nazwa angielska | Lots of DOTS |
+| Nazwa polska | Rozmaitości DOTS |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1040 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915839 |
 
 LEGO Dots 41935 Rozmaitości DOTS
 
@@ -1185,19 +1855,49 @@ Zestaw gwarantuje całe mnóstwo radości, ponieważ zachęca dzieci do wymienia
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je łatwo połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41935-1: https://a.allegroimg.com/original/25afdb/929432814e01bb86700d1811e6cb
+
 ---
 
-## 41936 — Lego Dots 41936 pojemnik na długopisy
+## 41936 — pojemnik na długopisy
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 79.50 zł · EAN: 05702016915846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41936 |
+| Nazwa angielska | Pencil Holder |
+| Nazwa polska | pojemnik na długopisy |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 7 cm |
+| EAN | 5702016915846 |
 
 o Zestaw LEGO(R) DOTS Pojemnik na długopisy (41936) zachęca dzieci do kreatywnej zabawy i rozwija wyobraźnię. Ozdabianie rakiety we własny sposób pomaga rozwijać umiejętności tworzenia projektów.o Pojemnik w kształcie rakiety! Dekorowanie wielofunkcyjnego pojemnika pomoże dzieciom w nauce wyrażania siebie. Mogą to zrobić zarówno na podstawie dołączonych do zestawu inspiracji, jak i wymyślić zupełnie nowy wzór.o Co jest w środku? Ten ciekawy zestaw zawiera klocki potrzebne do złożenia rakiety z otwieraną ramką w kształcie okienka na zdjęcie lub rysunek z przodu oraz przegródką na długopisy i inne przybory z tyłu.o Zestaw Pojemnik na długopisy (41936) spodoba się każdemu miłośnikowi kosmosu lub rękodzieła w wieku od 6 lat. Rakieta do ozdobienia kolorowymi płytkami sprawdzi się jako twórczy prezent dla chłopców i dziewczynek.o Przydatna i ładna rakieta ma ok. 18 cm wysokości i 7 cm szerokości, a młodzi projektanci mogą bez końca ćwiczyć na niej tworzenie kreatywnych wzorów.o Zestaw LEGO(R) DOTS z tacką do przechowywania pozwoli dzieciom stworzyć i udekorować własną ozdobę do pokoju, dając im radość i pomagając zyskać większą pewność siebie oraz rozwinąć kreatywne umiejętności.
 
+**Galeria:**
+
+- 41936-1: https://a.allegroimg.com/original/11c636/27f50dff40ad89168cbcf13dbb89
+
 ---
 
-## 41937 — Lego Dots Letni wielopak 41937
+## 41937 — Letni wielopak
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702016915853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41937 |
+| Nazwa angielska | Multi Pack - Summer Vibes |
+| Nazwa polska | Letni wielopak |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 441 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 5702016915853 |
 
 Szukasz prezentu urodzinowego związanego z rękodziełem? Zestaw LEGO® DOTS Letni wielopak (41937) będzie doskonałym wyborem. To kreatywny zestaw początkowy z serii DOTS, który oferuje dzieciom możliwość rozwijania umiejętności tworzenia wzorów oraz wzmacniania pewności siebie podczas ozdabiania coraz bardziej szczegółowych przedmiotów.
  
@@ -1222,11 +1922,26 @@ Letni wielopak gwarantuje całe mnóstwo radości, ponieważ oferuje dzieciom mo
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je łatwo połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41937-1: https://a.allegroimg.com/original/1162d0/8283a5c34609bea995d5bcf343ef
+
 ---
 
-## 41939 — Lego Dots 41939 Zawieszka ze smokiem
+## 41939 — Zawieszka ze smokiem
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 25.00 zł · EAN: 05702016915341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41939 |
+| Nazwa angielska | Bag Tag Dragon |
+| Nazwa polska | Zawieszka ze smokiem |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 5702016915341 |
 
 Fenomenalny zestaw LEGO® DOTS Zawieszka ze smokiem (41939) zachwyci każdego miłośnika smoków i rękodzieła! Wytrzymałe akcesorium wysokiej jakości to świetna okazja dla dzieci do zaprojektowania i ozdobienia własnego groźnego smoka, który będzie pilnował kluczy lub plecaka.
  
@@ -1251,11 +1966,26 @@ Dzieci mogą zmieniać wygląd zawieszki albo minę smoka i wymieniać się wzor
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41939-1: https://a.allegroimg.com/original/11cfde/41a9ea3246ac9ffb5e5090eb332e
+
 ---
 
-## 41940 — Lego 41940 Dots Zawieszka z jednorożcem
+## 41940 — ZAWIESZKA Z JEDNOROŻCEM
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702016915358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41940 |
+| Nazwa angielska | Bag Tag Unicorn |
+| Nazwa polska | ZAWIESZKA Z JEDNOROŻCEM |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 5702016915358 |
 
 Lego 41940 DOTS Zawieszka z jednorożcem
 
@@ -1305,11 +2035,26 @@ Baterie w zestawie Nie
 
 Zasilanie Nie dotyczy
 
+**Galeria:**
+
+- 41940-1: https://a.allegroimg.com/original/11f86c/82ee5be74b2781531a3fc703f593
+
 ---
 
-## 41942 — Lego Dots 41942 Głębiny bransoletki z zawieszkami
+## 41942 — Głębiny bransoletki z zawieszkami
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 78.00 zł · EAN: 05702017156101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41942 |
+| Nazwa angielska | Into The Deep |
+| Nazwa polska | Głębiny bransoletki z zawieszkami |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156101 |
 
 Dwie wąskie bransoletki z zestawu LEGO® DOTS Głębiny można ułożyć na płasko, by za pomocą kolorowych płytek stworzyć na nich podwodne wzory. Wystarczy dodać opalizujące płytki i świecące w ciemności meduzy, a potem przyczepić fioletową zawieszkę w kształcie serca do zaczepu, by pokazać wszystkim swój styl. Masz ochotę coś zmienić? Wzór na bransoletce można zawsze przerobić, albo wymienić się biżuterią z rodziną i przyjaciółmi!
  
@@ -1343,11 +2088,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO i pozwalają
 
 11
 
+**Galeria:**
+
+- 41942-1: https://a.allegroimg.com/original/0506d8/3216db67411eb4c4c6fb2d877fa3
+
 ---
 
-## 41943 — Lego Dots 41943 Gracz bransoletka z zawieszkami
+## 41943 — game
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 43.99 zł · EAN: 05702017156118 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41943 |
+| Nazwa angielska | Gamer |
+| Nazwa polska | game |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156118 |
 
 Z zestawem Gracz — bransoletka z zawieszkami zdobędziesz kolejny poziom! Bransoletkę LEGO® DOTS można położyć na płasko, by przyczepić do niej płytki w żywych kolorach. Neonowe płytki z motywami gier wideo możesz ułożyć w kreatywny sposób oddający Twoją osobowość, a na koniec doczepić przykuwającą wzrok zawieszkę. Gdy założysz taką bransoletkę, cały świat pozna Twoją pasję do grania! Masz ochotę coś zmienić? Wzór na bransoletce możesz przerobić w każdej chwili! #dotyourworld
 
@@ -1376,11 +2136,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 
 11
 
+**Galeria:**
+
+- 41943-1: https://a.allegroimg.com/original/11d7b9/b910815e4fb7af1127547edfadc9
+
 ---
 
-## 41944 — Lego Dots 41944 Cukierkowa kicia bransoletka
+## 41944 — Cukierkowa kicia bransoletka
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702017156125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41944 |
+| Nazwa angielska | Candy Kitty Bracelet & Bag Tag |
+| Nazwa polska | Cukierkowa kicia bransoletka |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156125 |
 
 Z zestawem LEGO® DOTS Cukierkowa kicia Twój styl będzie naprawdę słodki! Zestaw Dodatki DOTS — seria 6 (sprzedawany oddzielnie) zapewni Ci jeszcze więcej możliwości tworzenia cukierkowych bransoletek i zawieszek.
  
@@ -1401,11 +2176,26 @@ Zachęć dziecko do rozwijania kreatywności wesołym zestawem artystycznym LEGO
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41944-1: https://a.allegroimg.com/original/291dae/085617954808b11cda529ab84ac0
+
 ---
 
-## 41946 — Lego Dots 41946 Seria Dots 6
+## 41946 — Seria DOTS 6
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 10.39 zł · EAN: 05702017156149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41946 |
+| Nazwa angielska | Extra DOTS - Series 6 |
+| Nazwa polska | Seria DOTS 6 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156149 |
 
 LEGO DOTS Dodatki DOTS seria 6 41946
  
@@ -1436,11 +2226,26 @@ DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatywnego two
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41946-1: https://a.allegroimg.com/original/059477/015dce884f85ae8f591a9e1f881d
+
 ---
 
-## 41947 — Lego 41947 Dots Miki i przyjaciele megazestaw bransoletek
+## 41947 — Miki i przyjaciele megazestaw bransoletek
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 169.45 zł · EAN: 05702017155708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41947 |
+| Nazwa angielska | Mickey & Friends Bracelets Mega Pack |
+| Nazwa polska | Miki i przyjaciele megazestaw bransoletek |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155708 |
 
 LEGO 41947 DOTS Miki i przyjaciele megazestaw bransoletek
 
@@ -1477,11 +2282,26 @@ Z zestawem DOTS dzieci poczują, czym jest radość z zabawy klockami LEGO oraz 
 - Kieszonkowa zabawa — bransoletka ma ponad 20 cm długości, więc dzieci mają sporo miejsca na kreatywne popisy i mogą ciągle na nowo wyrażać swój nastrój lub styl
 - Zabawa w dekorowanie zaczyna się od razu — proste inspiracje znajdujące się na wierzchu i wewnątrz pudełka ułatwiają tworzenie wzorów z kolorowych i brokatowych płytek, a także płytek z motywami z Myszki Miki i przyjaciół
 
+**Galeria:**
+
+- 41947-1: https://a.allegroimg.com/original/115d4e/431f67604e909eb8c69d84c075d5
+
 ---
 
-## 41948 — Lego 41948 Dots Uroczy banan pojemnik na długopisy
+## 41948 — KROKI 41948
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 144.44 zł · EAN: 05702017155715 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41948 |
+| Nazwa angielska | Cute Banana Pen Holder |
+| Nazwa polska | KROKI 41948 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 438 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 14 cm |
+| EAN | 5702017155715 |
 
 LEGO DOTS Uroczy banan pojemnik na długopisy 41948
  
@@ -1502,11 +2322,26 @@ Miłośnikom rękodzieła spodoba się zestaw z funkcjonalną dekoracją do poko
 - Zabawny i funkcjonalny upominek dla sześciolatków i starszych dzieci — miłośnikom rękodzieła spodoba się ten wyjątkowy zestaw do dekorowania. Przydatny pojemnik na długopisy i sporo kolorowych płytek będą wspaniałym prezentem 
 - Przestrzeń twórcza — pojemnik na długopisy ma ok. 12 cm wysokości i 14 cm szerokości oraz głębokości, dzieci mają więc mnóstwo miejsca na kreatywne popisy i pokazywanie wszystkim swojego nietuzinkowego stylu
 
+**Galeria:**
+
+- 41948-1: https://a.allegroimg.com/original/05c160/8bcd58f14f87830a9853fac04fcd
+
 ---
 
-## 41949 — Lego 41949 Dots Megazestaw zawieszek wiadomości
+## 41949 — Megazestaw zawieszek
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702017155722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41949 |
+| Nazwa angielska | Bag Tags Mega Pack - Messaging |
+| Nazwa polska | Megazestaw zawieszek |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155722 |
 
 Szukasz prezentu związanego z rękodziełem? LEGO® DOTS Megazestaw zawieszek — wiadomości (41949) to coś dla Ciebie. Zestaw przeznaczony dla sześciolatków i starszych dzieci zawiera pięć płaskich zawieszek w stylu breloczka do kluczy z kółkami do zawieszania. W komplecie jest też dużo barwnych, opalizujących i zadrukowanych płytek do dekoracji, w tym płytki z nadrukowanymi literami. Układanie z nich wzorów jest łatwe i intuicyjne, a dzięki pięciu różnym zawieszkom do ozdobienia dzieciom nigdy niezabraknie możliwości zabawy. Zestaw nadaje się zarówno do wykorzystania w grupie, jak i do samodzielnej zabawy, a ukończone zawieszki można nosić lub wymieniać się nimi z innymi. Pakiet Dodatki DOTS — seria 6 (sprzedawany oddzielnie) zapewni młodym projektantom jeszcze więcej płytek, a co za tym idzie jeszcze więcej frajdy!
  
@@ -1528,11 +2363,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41949-1: https://a.allegroimg.com/original/115869/004c157a4ee1ab7d7b46b88f87f1
+
 ---
 
-## 41950 — Lego Dots Rozmaitości Dots literki 41950
+## 41950 — Lettering
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 94.99 zł · EAN: 05702017156187 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41950 |
+| Nazwa angielska | Lots of DOTS – Lettering |
+| Nazwa polska | Lettering |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 722 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156187 |
 
 LEGO DOTS Rozmaitości DOTS literki 41950
  
@@ -1559,11 +2409,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41950-1: https://a.allegroimg.com/original/059a76/19f24d6f457d861cb83494a95e73
+
 ---
 
-## 41952 — Lego Dots 41952 Duża tablica ogłoszeń ślad po naklejce cenowej
+## 41952 — Duża tablica ogłoszeń
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702017156194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41952 |
+| Nazwa angielska | Big Message Board |
+| Nazwa polska | Duża tablica ogłoszeń |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 943 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156194 |
 
 Na pudełku pozostały ślady po ściągniętej cenie
 
@@ -1591,11 +2456,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41952-1: https://a.allegroimg.com/original/05ce98/7b33a8b14e44bf2fac8f5dde5393
+
 ---
 
-## 41953 — Lego Dots 41953 Tęczowa bransoletka z zawieszkami 41953
+## 41953 — Tęczowa bransoletka z zawieszkami 41953
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 89.98 zł · EAN: 05702017156200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41953 |
+| Nazwa angielska | Rainbow |
+| Nazwa polska | Tęczowa bransoletka z zawieszkami 41953 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156200 |
 
 LEGO DOTS
  
@@ -1623,11 +2503,26 @@ Dzięki zestawowi LEGO® DOTS Tęczowa bransoletka z zawieszkami (41953) miłoś
 - Elementy LEGO® wchodzące w skład tego zestawu spełniają najwyższe standardy jakości 
 - Zestaw LEGO® DOTS Tęczowa bransoletka z zawieszkami spełnia wysokie standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41953-1: https://a.allegroimg.com/original/05b231/feccd5ee4ee68cddc867c9fb71e0
+
 ---
 
-## 41954 — Lego Dots 41954 Nalepka
+## 41954 — Nalepka
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 18.90 zł · EAN: 05702017156231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41954 |
+| Nazwa angielska | Adhesive Patch |
+| Nazwa polska | Nalepka |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156231 |
 
 Znasz sześcioletniego lub starszego fana rękodzieła, który lubi wszystko ozdabiać? Zestaw LEGO® DOTS Nalepka (41954) to coś w sam raz dla dzieci o takich zainteresowaniach. Ten kreatywny zestaw zawiera nalepkę, którą można przykleić do każdej twardej, równej powierzchni, a także ponad 90 kolorowych płytek. Proces tworzenia jest łatwy i intuicyjny, więc dzieci mogą zaprojektować własną, niepowtarzalną nalepkę, która będzie pasować do ich pasji i stylu. A gdy najdzie je ochota, mogą w każdej chwili zmodyfikować nalepkę.
 
@@ -1645,11 +2540,26 @@ Nieograniczone możliwości zabawy i wyrażania siebie — dzięki zestawom LEGO
 Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41954-1: https://a.allegroimg.com/original/11c77b/d3c1ac0242d4a63269e5a3d01259
+
 ---
 
-## 41955 — Lego Dots 41955 Naszywka
+## 41955 — LEGO DOTS Naszywka 41955
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 19.90 zł · EAN: 05702017156248 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41955 |
+| Nazwa angielska | Stitch-on Patch |
+| Nazwa polska | LEGO DOTS Naszywka 41955 |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156248 |
 
 Znasz jakiegoś ośmiolatka lub starszego miłośnika rękodzieła i ponadczasowej mody? Ten rewelacyjny, kreatywny zestaw LEGO® DOTS Naszywka (41955) to coś w sam raz dla dzieci o takich zainteresowaniach. Zawiera elastyczną płytkę konstrukcyjną w układzie 6 × 6 wypustek, którą można przytwierdzić do niemal każdej tkaniny, a także ponad 90 kolorowych płytek ozdobnych. W pudełku znajdują się instrukcje i pomysły na wzory do wykonania, więc dzieci mogą przyszyć naszywkę do ubrania, torby, czapki lub czego tylko chcą, a potem stworzyć własne, niepowtarzalne akcesorium pasujące do ubioru lub zainteresowania.
 
@@ -1667,11 +2577,26 @@ Nieograniczone możliwości zabawy i wyrażania siebie — dzięki zestawom LEGO
 Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41955-1: https://a.allegroimg.com/original/11643b/1ea0343c466d88ff0dbc36beabae
+
 ---
 
-## 41956 — Lego Dots 41956 Ramki na zdjęcia w kształcie lodów i bransoletka
+## 41956 — Ramki na zdjęcia w kształcie lodów i bransoletka
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017155937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41956 |
+| Nazwa angielska | Picture Frames & Bracelet Ice Cream |
+| Nazwa polska | Ramki na zdjęcia w kształcie lodów i bransoletka |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 474 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 24 cm |
+| EAN | 5702017155937 |
 
 Czas na zabawę ze smakołykami LEGO® DOTS! Zbuduj ramki na zdjęcia w kształcie lodów i ozdób je rewelacyjnymi, kolorowymi płytkami. To samo zrób z niewielką bransoletką po rozłożeniu jej na płaskiej powierzchni. Ułóż ramki jedna na drugiej w dowolnej kolejności, opraw w nie swoje ulubione zdjęcia, a potem powieś bransoletkę i inne elementy biżuterii na patyczkach. A może masz ochotę na coś innego? W każdej chwili możesz przebudować ramki i bransoletkę. #youDOTyou
  
@@ -1700,11 +2625,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że ten zestaw DOTS spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41956-1: https://a.allegroimg.com/original/058248/ffeb7c03434dbfb6d88182d846e4
+
 ---
 
-## 41957 — Lego Dots 41957 Megazestaw nalepek
+## 41957 — Megazestaw nalepek
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 109.77 zł · EAN: 05702017155364 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41957 |
+| Nazwa angielska | Adhesive Patches Mega Pack |
+| Nazwa polska | Megazestaw nalepek |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 486 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155364 |
 
 LEGO Dots 41957 Megazestaw nalepek
  
@@ -1728,11 +2668,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że Megazestaw nalepek spełnia rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41957-1: https://a.allegroimg.com/original/115299/677a5aa541de93fba455c9a1e2fa
+
 ---
 
-## 41958 — Lego Dots 41958 Dodatki Sport seria 7
+## 41958 — Dodatki Sport seria 7
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 11.50 zł · EAN: 05702017156279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41958 |
+| Nazwa angielska | Extra DOTS Series 7 - Sport |
+| Nazwa polska | Dodatki Sport seria 7 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156279 |
 
 LEGO® DOTS Dodatki DOTS — seria 7: SPORT
  
@@ -1791,11 +2746,26 @@ Zestawy do kreatywnego tworzenia
 - **Wysoka jakość bez kompromisów —** elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują 
 - **Bezpieczeństwo przede wszystkim —** elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że zestaw Dodatki DOTS — seria 7: SPORT spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41958-1: https://a.allegroimg.com/original/2515cd/737330214125883b8eaeb5c3c374
+
 ---
 
-## 41959 — Lego Dots 41959 Pojemnik z uroczą pandą
+## 41959 — Pojemnik z uroczą pandą
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 166.88 zł · EAN: 05702017155975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41959 |
+| Nazwa angielska | Cute Panda Tray |
+| Nazwa polska | Pojemnik z uroczą pandą |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 517 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155975 |
 
 LEGO DOTS
 
@@ -1837,11 +2807,26 @@ SPECYFIKACJA ZESTAWU:
 - **Płeć dziecka:** dziewczynki
 - **Ilość elementów:** 517
 
+**Galeria:**
+
+- 41959-1: https://a.allegroimg.com/original/11b133/ec5ebce14307afdcabedf12003b4
+
 ---
 
-## 41960 — Lego 41960 Dots Duże Pudełko 7+ Nowe
+## 41960 — Duże pudełko
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702017155982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41960 |
+| Nazwa angielska | Big Box |
+| Nazwa polska | Duże pudełko |
+| Seria | Dots |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 479 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155982 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1872,11 +2857,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz kreatyw
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że zestaw LEGO® DOTS Duże pudełko spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41960-1: https://a.allegroimg.com/original/11bc8c/4c26109e415b9d85d8468cd03e21
+
 ---
 
-## 41961 — 41961 Lego Dots Zestaw narzędzi projektanta wzorki Klocki
+## 41961 — Zestaw narzędzi projektanta - wzorki
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017156309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41961 |
+| Nazwa angielska | Designer Toolkit - Patterns |
+| Nazwa polska | Zestaw narzędzi projektanta - wzorki |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1096 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm |
+| EAN | 5702017156309 |
 
 41961 LEGO DOTS Zestaw narzędzi projektanta wzorki Klock
  
@@ -1894,11 +2894,26 @@ Zestawy DOTS przybliżają dzieciom radość z zabawy klockami LEGO oraz tworzen
 - **Swoboda i pewność siebie** — ten zestaw LEGO® DOTS to esencja swobodnego tworzenia. Dodatki do noszenia i proste w budowie ozdoby dają okazję do stworzenia malutkiego dzieła sztuki i zabawy połączonej z rozwijaniem pomysłowości oraz wytrwałości 
 - **Nieograniczone możliwości zabawy i wyrażania siebie** — dzięki zestawom LEGO® DOTS dzieci mogą odkryć, jak wielką radość dają klocki LEGO, i pobawić się w tworzenie oraz ozdabianie własnej biżuterii, dodatków do noszenia lub dekoracji
 
+**Galeria:**
+
+- 41961-1: https://a.allegroimg.com/original/1155de/4a74611c4dd4aa5a558de522d0ad
+
 ---
 
-## 41962 — Lego 41962 Dots Kreatywny rodzinny zestaw z jednorożcem
+## 41962 — Unicorn Creative Family Pack
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 183.33 zł · EAN: 05702017188355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41962 |
+| Nazwa angielska | Unicorn Creative Family Pack |
+| Nazwa polska | Unicorn Creative Family Pack |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 707 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 12 cm |
+| EAN | 5702017188355 |
 
 Stwórz coś pięknego samodzielnie lub z rodziną i znajomymi — pomoże Ci w tym Kreatywny rodzinny zestaw z jednorożcem LEGO® DOTS. Zbuduj różne modele, które sprawdzą się zarówno jako ozdoba do założenia, jak i element wystroju wnętrza. Zestaw zawiera dwie niewielkie bransoletki, pojemnik na przybory w kształcie jednorożca, małą tablicę ogłoszeń i chorągiewki na sznurku. Jest tu również mnóstwo kolorowych płytek i trzy torebki z płytkami z literami alfabetu. Czas na zabawę! #youDOTyou!
  
@@ -1928,11 +2943,26 @@ Kreatywny rodzinny zestaw z jednorożcem LEGO® DOTS (41962) urozmaici każde sp
  
 • Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że Kreatywny rodzinny zestaw z jednorożcem spełnia światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41962-1: https://a.allegroimg.com/original/1133e1/15c5aa784d4aa5112472c66b08df
+
 ---
 
-## 41963 — Lego Dots 41963 Myszka Mickey i Minnie naszywka
+## 41963 — Myszka Miki i Myszka Minnie
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 11.90 zł · EAN: 05702017156330 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41963 |
+| Nazwa angielska | Mickey & Friends Stitch-On Patch |
+| Nazwa polska | Myszka Miki i Myszka Minnie |
+| Seria | Dots |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156330 |
 
 Czy Twoje dziecko ma co najmniej osiem lat i interesuje się rękodziełem, postaciami Disneya i stylizacjami? Teraz może realizować wszystkie swoje pasje dzięki temu zestawowi LEGO® DOTS ǀ Disney Myszka Miki i Myszka Minnie — naszywka (41963)! W jego skład wchodzą elastyczna, czerwona naszywka 6×6, wiele kolorowych płytek oraz płytki z motywami Myszki Miki i Myszki Minnie Disneya.
 
@@ -1953,11 +2983,26 @@ Nieograniczone możliwości zabawy i wyrażania siebie — dzięki zestawom LEGO
 Niezrównana jakość — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41963-1: https://a.allegroimg.com/original/1126ff/f43796df4876b93e7fef1d2a6e2f
+
 ---
 
-## 41964 — Lego Dots 41964 Zestaw szkolny Myszka Miki i Minnie
+## 41964 — Mickey Mouse and Minnie Mouse school set
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702017156361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41964 |
+| Nazwa angielska | Back To School Project Box |
+| Nazwa polska | Mickey Mouse and Minnie Mouse school set |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 669 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156361 |
 
 LEGO® DOTS
  
@@ -1977,11 +3022,26 @@ Twórz i dekoruj co tylko chcesz! Zestawy DOTS przybliżają dzieciom radość z
  
 Pokaż swoim przyjaciołom i rodzinie, jak bardzo kochasz Myszkę Miki i Myszkę Minnie Disneya dzięki temu zestawowi szkolnemu! Otwórz zestaw LEGO® DOTS i odkryj możliwości konstrukcyjne ramki na zdjęcia, małej komody, uchwytu na karteczki samoprzylepne, dwóch płaskich wieszaków na torbę oraz naklejek. Zainspiruj się obrazkami na opakowaniu lub daj się ponieść wyobraźni! Chcesz odświeżyć swój styl? #youDOTyou!
 
+**Galeria:**
+
+- 41964-1: https://a.allegroimg.com/original/295a6a/6e016f3c4969a8657be25bd3fe14
+
 ---
 
-## 5007219 — Lego Dots 5007219 Felt Stickers
+## 5007219 — Felt Stickers
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 35.21 zł · EAN: 05060373574213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007219 |
+| Nazwa angielska | DOTS Felt Stickers |
+| Nazwa polska | Felt Stickers |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373574213 |
 
 LEGO DOTS - Felt Stickers
 
@@ -1995,11 +3055,26 @@ Ilość klocków: **8**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę**
 
+**Galeria:**
+
+- 5007219-1: https://a.allegroimg.com/original/119f49/f27880ca479582587451a1c66970
+
 ---
 
-## 5007220 — Lego 4 Taśmy dekoracyjne Dots 4 sztuki Oryginalne Nowe
+## 5007220 — Kraft Tape x 4
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 35.21 zł · EAN: 05060373574206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007220 |
+| Nazwa angielska | DOTS Craft Tape |
+| Nazwa polska | Kraft Tape x 4 |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373574206 |
 
 LEGO DOTS Kraft Tape x 4
 
@@ -2015,11 +3090,26 @@ Ilość elementów: **4 sztuki** (w rozmiarze biurowym - średnica jednej **rolk
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 5007220-1: https://a.allegroimg.com/original/118dfe/382a05b24509be04401332ad6fde
+
 ---
 
-## 52799 — Lego 52799 Dots Piórnik Z Kolorowymi Płytkami
+## 52799 — PIÓRNIK Z KOLOROWYMI PŁYTKAMI
 
-*Kategoria: Dots · cena Allegro (2026-08-17): 39.95 zł · EAN: 04895028527990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52799 |
+| Nazwa angielska | — |
+| Nazwa polska | PIÓRNIK Z KOLOROWYMI PŁYTKAMI |
+| Seria | Dots |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028527990 |
 
 **LEGO SERIA - DOTS**
 
@@ -2042,6 +3132,10 @@ Ilość elementów: **4 sztuki** (w rozmiarze biurowym - średnica jednej **rolk
 **- PIÓRNIK  LEGO JEST NOWY I ORYGINALNY.**
 
 **Ten całkowicie wyjątkowy piórnik LEGO DOTS zawiera 4 autentyczne płytki LEGO wbudowane w front piórnika i 46 kolorowych płytek do dekoracji i personalizacji. Możesz także dołączyć swoją ulubioną minifigurkę lub ozdobić ją i zbudować z własnych klocków LEGO. Piórnik nadaje się do uporządkowania innych artykułów piśmiennych LEGO DOTS, takich jak długopisy i markery żelowe, oraz do bezpiecznego przechowywania płytek. Wykonany z wytrzymałego tworzywa . Zabawny i funkcjonalny dodatek do każdego biurka!**
+
+**Galeria:**
+
+- 52799-1: https://a.allegroimg.com/original/11f694/c09d073a4db580926e13f12a2b9f
 
 ---
 

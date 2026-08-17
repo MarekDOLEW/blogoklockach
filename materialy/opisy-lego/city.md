@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO City — opisy produktowe (601 pozycji)
+# LEGO City — opisy produktowe (599 pozycji)
 
-## 10105 — Lego City Worek Plecak 10105 -2211
+## 10105 — LEGO CITY WOREK PLECAK 10105 -2211
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05711013100599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10105 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO CITY WOREK PLECAK 10105 -2211 |
+| Seria | miasto |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711013100599 |
 
 **LEGO CITY**
 
@@ -45,11 +55,26 @@ Szczegółowy opis:
 
 **- WOREK LEGO JEST ****NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 10105-1: https://a.allegroimg.com/original/1114bc/e59060c54542b44cafa51749c438
+
 ---
 
-## 10128 — Lego City 10128 Przejazd kolejowy
+## 10128 — Przejazd kolejowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014359857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10128 |
+| Nazwa angielska | Train Level Crossing |
+| Nazwa polska | Przejazd kolejowy |
+| Seria | pociąg |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014359857 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -68,11 +93,26 @@ Szczegółowy opis:
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10128-1: https://a.allegroimg.com/original/11f7c1/9525eb614bae9aae3b7062b9c07d
+
 ---
 
-## 10156 — Lego City 10156 Truck 2 x brelok Lego
+## 10156 — TRUCK
 
-*Kategoria: City · cena Allegro (2026-08-17): 390.00 zł · EAN: 05702014433977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10156 |
+| Nazwa angielska | LEGO Truck |
+| Nazwa polska | TRUCK |
+| Seria | ruch drogowy |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014433977 |
 
 Nowy, fabrycznie zamknięty zestaw Lego.
 
@@ -102,11 +142,26 @@ Unikatowy Breloczek !
 
 Zestaw składa się z dwóch breloczków które po złączeniu **tworzą jedno wspólne serce.**
 
+**Galeria:**
+
+- 10156-1: https://a.allegroimg.com/original/1183d2/6c79360f4036ba9de664ed2624a4
+
 ---
 
-## 10173 — Lego Creator Expert Holiday Train 10173, Zimowy pociąg
+## 10173 — 10173
 
-*Kategoria: City · cena Allegro (2026-08-17): 3999.00 zł · EAN: 05702014473560 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10173 |
+| Nazwa angielska | Holiday Train |
+| Nazwa polska | 10173 |
+| Seria | pociąg |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 969 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014473560 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -130,11 +185,26 @@ Zestaw składa się z dwóch breloczków które po złączeniu **tworzą jedno 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10173-1: https://a.allegroimg.com/original/116575/cb7371924233b83184af456fd69d
+
 ---
 
-## 10200 — Lego City 10200 Custom Car Garage
+## 10200 — Custom Car Garage
 
-*Kategoria: City · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702014533080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10200 |
+| Nazwa angielska | Custom Car Garage |
+| Nazwa polska | Custom Car Garage |
+| Seria | ruch drogowy |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 893 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533080 |
 
 Klocki LEGO Factory 10200 - Custom Car Garage
 
@@ -150,11 +220,26 @@ Grupa wiekowa tego produktu to 10+.
 
 Zespół BRICKDUCKS
 
+**Galeria:**
+
+- 10200-1: https://a.allegroimg.com/original/113746/e129ee3c42948ee0bece1bc1df9a
+
 ---
 
-## 1253 — nowy Lego System City Shell Ferrari 1253 F1 Transporter bolidu Misb 1999
+## 1253 — Shell Race Car Transporter
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702012005251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1253 |
+| Nazwa angielska | Shell Car Transporter |
+| Nazwa polska | Shell Race Car Transporter |
+| Seria | miasto |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 1999 |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012005251 |
 
 Cześć!
 
@@ -172,11 +257,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1253-1: https://a.allegroimg.com/original/11b2d4/4b36f6e84b9f845187ebff580aa3
+
 ---
 
-## 1610 — nowy Lego System Town City 1610 Samochód Policyjny Policja Misb 1991
+## 1610 — police car
 
-*Kategoria: City · cena Allegro (2026-08-17): 198.99 zł · EAN: 00042884016104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1610 |
+| Nazwa angielska | Police Car |
+| Nazwa polska | police car |
+| Seria | miasto |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 1991 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884016104 |
 
 Cześć!
 
@@ -194,11 +294,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1610-1: https://a.allegroimg.com/original/11dfa9/32aeb3964b61a39b0805507baff5
+
 ---
 
-## 1612 — nowy Lego System Legoland Town 1612 Wyścigówka F1 bolid Misb 1988
+## 1612 — Victory Racer
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.99 zł · EAN: 00042884016128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1612 |
+| Nazwa angielska | Victory Racer |
+| Nazwa polska | Victory Racer |
+| Seria | miasto |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1988 |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884016128 |
 
 Cześć!
 
@@ -216,11 +331,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1612-1: https://a.allegroimg.com/original/11a828/cbb344da4af1bc6db3beb71650ab
+
 ---
 
-## 20213 — Lego Plecak Szkolny Optimo Plus City Policja 20213
+## 20213 — LEGO PLECAK SZKOLNY OPTIMO PLUS CITY POLICJA 20213-2205
 
-*Kategoria: City · cena Allegro (2026-08-17): 394.99 zł · EAN: 05711013098179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20213 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO PLECAK SZKOLNY OPTIMO PLUS CITY POLICJA 20213-2205 |
+| Seria | policja |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5711013098179 |
 
 **LEGO SERIA - ARTYKUŁY SZKOLNE**
 
@@ -292,11 +422,26 @@ Szczegółowy opis:
 
 **Torba szkolna Optimo Plus to stylowy tornister z ergonomicznym, wygodnym przepływem powietrza, wszystkimi podstawowymi funkcjami i dodatkową przestrzenią dla dzieci w wieku szkolnym, z wyściełaną tylną przegrodą na foldery A4, książki lub zeszyt. Jest to tornister, który dobrze dba o plecy dziecka i pozwala na dokładne dopasowanie torby dzięki indywidualnym możliwościom regulacji pasów naramiennych, pasa biodrowego, pasa piersiowego i górnych taśm – wszystko po to, aby zapewnić jak najlepsze dopasowanie do ciała i rozkład masy. Dzięki mocnemu, wzmocnionemu dolnemu panelowi torba może stać stabilnie nawet przy otwartej pokrywie, dzięki czemu zapewnia łatwy dostęp i szybki przegląd zawartości. Plecak Optimo Plus wesprze plecy Twojego dziecka nawet w dni z dużym obciążeniem. Wytrzymała torba, która ułatwia dziecku porządkowanie książek jak najbliżej pleców, przechowywanie świeżych przekąsek w przestronnej, izolowanej termicznie kieszeni, przypinanie kluczy lub portfela LEGO w torbie lub noszenie torby gimnastycznej, która jest częścią torby zestaw osobno lub przypięty do górnej części torby dla idealnego rozłożenia ciężaru.****Przyjazny dla środowiska plecak ECO wykonany z przetworzonych butelek PET.**
 
+**Galeria:**
+
+- 20213-1: https://a.allegroimg.com/original/11639f/27fa63c74554a6ac5b33da6bb9e8
+
 ---
 
-## 2963 — nowy Lego System Town City 2963 Extreme Team Racer Misb 1998
+## 2963 — Extreme Team Racer
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702010929634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2963 |
+| Nazwa angielska | Extreme Team Racer |
+| Nazwa polska | Extreme Team Racer |
+| Seria | miasto |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010929634 |
 
 Cześć!
 
@@ -314,11 +459,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2963-1: https://a.allegroimg.com/original/1146eb/f41528634408ac6cdbdc111c99e1
+
 ---
 
-## 30000 — Lego City 30000 Medic's Car
+## 30000 — Medic's Car
 
-*Kategoria: City · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702014596474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30000 |
+| Nazwa angielska | Doctor With Car |
+| Nazwa polska | Medic's Car |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014596474 |
 
 Witam
 
@@ -332,11 +493,27 @@ Klocki są fabrycznie nowe, zapakowane w oryginalny Polybag
 
 Zapraszam na moje pozostałe aukcje z klockami Lego (systematycznie będę starał się zwiększać asortyment)
 
+**Galeria:**
+
+- 30000-1: https://a.allegroimg.com/original/115db6/93bea2d94950b07f7116bb7f366a
+
 ---
 
-## 30010 — Lego 30010 City Fire Chief Komendant Straży Pożarn
+## 30010 — Polybag Fire Chief
 
-*Kategoria: City · cena Allegro (2026-08-17): 75.31 zł · EAN: 00673419153836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30010 |
+| Nazwa angielska | Fire Chief |
+| Nazwa polska | Polybag Fire Chief |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419153836 |
 
 LEGO 30010 City - Komendant Straży Pożarnej
 
@@ -352,11 +529,27 @@ Ilość klocków:** 31**
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 30010-1: https://a.allegroimg.com/original/11b71c/30c5ef3d47e3999d7d9d1439a343
+
 ---
 
-## 30012 — Lego City 30012 Polybag Microlight
+## 30012 — Polybag Microlight
 
-*Kategoria: City · cena Allegro (2026-08-17): 46.00 zł · EAN: 05702014725997 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30012 |
+| Nazwa angielska | Mini Airplane |
+| Nazwa polska | Polybag Microlight |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014725997 |
 
 Witam
 
@@ -370,11 +563,27 @@ Klocki są fabrycznie nowe, zapakowane w oryginalny Polybag
 
 Zapraszam na moje pozostałe aukcje z klockami Lego (systematycznie będę starał się zwiększać asortyment)
 
+**Galeria:**
+
+- 30012-1: https://a.allegroimg.com/original/11b917/58ce9a6a41b3aa05fd5333c93940
+
 ---
 
-## 30013 — Lego City 30013 Quad policyjny saszetka z klockami model wycofany
+## 30013 — Quad Policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702014726024 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30013 |
+| Nazwa angielska | Police Quad |
+| Nazwa polska | Quad Policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014726024 |
 
 Witam
 
@@ -390,11 +599,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30013-1: https://a.allegroimg.com/original/03b639/1db3b7b545e5ac399172cc5e23b8
+
 ---
 
-## 30017 — nowy Lego City 30017 Łódź policyjna Misb 2012
+## 30017 — Łódź policyjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702014857483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30017 |
+| Nazwa angielska | Police Boat |
+| Nazwa polska | Łódź policyjna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857483 |
 
 Cześć!
 
@@ -412,11 +637,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30017-1: https://a.allegroimg.com/original/11864e/ce1de6704a27906c7099fef1fbde
+
 ---
 
-## 30018 — Lego City 30018 Samolot Policyjny saszetka z klockami
+## 30018 — Samolot Policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702014857490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30018 |
+| Nazwa angielska | Police Plane |
+| Nazwa polska | Samolot Policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857490 |
 
 Witam
 
@@ -432,11 +673,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30018-1: https://a.allegroimg.com/original/118458/5995ab13410db70e229ba9079ac2
+
 ---
 
-## 30151 — Lego City 30151 Spychacz saszetka z klockami model wycofany
+## 30151 — Polybag Mining Dozer
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702014857704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30151 |
+| Nazwa angielska | Mining Dozer |
+| Nazwa polska | Polybag Mining Dozer |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857704 |
 
 Witam
 
@@ -454,11 +711,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30151-1: https://a.allegroimg.com/original/116b96/0d5e020e4e74ae6f1b065a389951
+
 ---
 
-## 30152 — Lego City 30152 Polybag Mining Quad/Górniczy Quad
+## 30152 — Quad górniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702014857711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30152 |
+| Nazwa angielska | Mining Quad |
+| Nazwa polska | Quad górniczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014857711 |
 
 Witam
 
@@ -472,11 +745,27 @@ Klocki są fabrycznie nowe, zapakowane w oryginalny Polybag
 
 Zapraszam na moje pozostałe aukcje z klockami Lego (systematycznie będę starał się zwiększać asortyment)
 
+**Galeria:**
+
+- 30152-1: https://a.allegroimg.com/original/11d692/6599e4774ba7becbbe9bafcfbebc
+
 ---
 
-## 30221 — Lego City 30221 Samochód Wóz strażacki saszetka z klockami
+## 30221 — wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 37.00 zł · EAN: 05702014960893 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30221 |
+| Nazwa angielska | Fire Car |
+| Nazwa polska | wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014960893 |
 
 Witam
 
@@ -490,11 +779,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30221-1: https://a.allegroimg.com/original/11fdb3/070363db4a15af45d296233a95df
+
 ---
 
-## 30222 — Lego City 30222 Helikopter policyjny
+## 30222 — Helikopter policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 88.99 zł · EAN: 05702014960909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30222 |
+| Nazwa angielska | Police Helicopter |
+| Nazwa polska | Helikopter policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014960909 |
 
 **LEGO 30222 Police Helicopter – KOLEKCJONERSKI POLYBAG LEGO CITY**
 
@@ -530,11 +835,27 @@ Na sprzedaż zestaw LEGO City 30222 Police Helicopter w oryginalnym polybagu. Ni
 
 **• UNIKAT KOLEKCJONERSKI**
 
+**Galeria:**
+
+- 30222-1: https://a.allegroimg.com/original/11454d/3e6c7acc457cb8ceafdee0e4c939
+
 ---
 
-## 30225 — Lego City 30225 Seaplanei Oryginalne Nowe Klocki Samolot
+## 30225 — Samolot Straży przybrzeżnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 220.31 zł · EAN: 05702014992405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30225 |
+| Nazwa angielska | Seaplane |
+| Nazwa polska | Samolot Straży przybrzeżnej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014992405 |
 
 LEGO® 30225 City - Seaplane
 
@@ -550,11 +871,27 @@ Ilość klocków:** 37**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 30225-1: https://a.allegroimg.com/original/11bc70/177ec8a146d39bb1eb8bac85821d
+
 ---
 
-## 30227 — Lego City 30227 Policja Wodna Policjanci I Złodzieje
+## 30227 — Policja wodna
 
-*Kategoria: City · cena Allegro (2026-08-17): 18.55 zł · EAN: 05702015129312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30227 |
+| Nazwa angielska | Police Watercraft |
+| Nazwa polska | Policja wodna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129312 |
 
 **Witamy!!!**
 
@@ -586,11 +923,27 @@ W przypadku odbioru osobistego towaru prosimy udać się do tej lokalizacji.
 
 W siedzibie firmy nie jest prowadzona żadna sprzedaż.
 
+**Galeria:**
+
+- 30227-1: https://a.allegroimg.com/original/11b1e0/c065415a43dcbcb3cb2ff6815e7d
+
 ---
 
-## 30229 — Lego City 30229 Podnośnik Serwisowy saszetka z klockami
+## 30229 — Repair Lift
 
-*Kategoria: City · cena Allegro (2026-08-17): 60.00 zł · EAN: 05702015129336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30229 |
+| Nazwa angielska | Repair Lift |
+| Nazwa polska | Repair Lift |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015129336 |
 
 LEGO City 30229 Repair Lift
 
@@ -611,11 +964,27 @@ Zestaw LEGO City 30229 Repair Lift to produkt marki LEGO, należący do serii Mi
 
 Dzięki zestawowi LEGO City 30229 Repair Lift dziecko może zbudować własną windę serwisową i cieszyć się godzinami kreatywnej zabawy. Produkt posiada certyfikat CE, co oznacza, że spełnia wymagania dotyczące bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 30229-1: https://a.allegroimg.com/original/112291/c2c297564746b7f55e52167f6394
+
 ---
 
-## 30312 — Lego City 30312 Młot wyburzeniowy saszetka z klockami model wycofany
+## 30312 — Młot wyburzeniowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015357647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30312 |
+| Nazwa angielska | Demolition Driller |
+| Nazwa polska | Młot wyburzeniowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357647 |
 
 Witam
 
@@ -631,11 +1000,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30312-1: https://a.allegroimg.com/original/11d26f/8cb9aeeb4252aa07fb402c2eacc8
+
 ---
 
-## 30314 — Lego City 30314 Wyścigowy Gokart saszetka z klockami
+## 30314 — wyścigowy gokart
 
-*Kategoria: City · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015357333 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30314 |
+| Nazwa angielska | Go-Kart Racer |
+| Nazwa polska | wyścigowy gokart |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357333 |
 
 Witam
 
@@ -651,11 +1036,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30314-1: https://a.allegroimg.com/original/11a37e/3dc9a799438ba9323f682bfb1110
+
 ---
 
-## 30346 — Lego City 30346 helikopter z więziennej wyspy saszetka z klockami
+## 30346 — helikopter z więziennej wyspy
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702015608534 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30346 |
+| Nazwa angielska | Prison Island Helicopter |
+| Nazwa polska | helikopter z więziennej wyspy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608534 |
 
 Witam
 
@@ -671,11 +1072,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30346-1: https://a.allegroimg.com/original/11fb0f/d63b9533404287f61454a5a90042
+
 ---
 
-## 30347 — Lego 30347 City Samochód Strażacki Polybag
+## 30347 — Fire Car
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.90 zł · EAN: 05702015608541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30347 |
+| Nazwa angielska | Fire Car |
+| Nazwa polska | Fire Car |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608541 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -687,11 +1104,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 30347-1: https://a.allegroimg.com/original/112448/243ce83c46f18a1c624204285246
+
 ---
 
-## 30348 — Lego City 30348 Mini Wywrotka saszetka z klockami minifigurka
+## 30348 — Mini Dumper
 
-*Kategoria: City · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015608558 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30348 |
+| Nazwa angielska | Mini Dumper |
+| Nazwa polska | Mini Dumper |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608558 |
 
 Witam
 
@@ -713,11 +1146,27 @@ W komplecie znajdziemy minifigurkę pracownika drogowego, **która w takiej apar
  
 Akcesoria uwzględniają świder pneumatyczny, drogową barierkę ostrzegawczą, miotłę i łopatę.
 
+**Galeria:**
+
+- 30348-1: https://a.allegroimg.com/original/11b495/cdd00ff7496db1c1f6ff41a927d4
+
 ---
 
-## 30351 — Lego City 30351 Helikopter Policyjny saszetka z klockami
+## 30351 — Helikopter Policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015876599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30351 |
+| Nazwa angielska | Police Helicopter |
+| Nazwa polska | Helikopter Policyjny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876599 |
 
 Witam
 
@@ -733,11 +1182,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30351-1: https://a.allegroimg.com/original/11b013/a8c423964be08ef94fdd92361e07
+
 ---
 
-## 30352 — Lego City 30352 Samochód policyjny polybag saszetka 2017 rok!
+## 30352 — Samochód policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702015876155 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30352 |
+| Nazwa angielska | Police Car |
+| Nazwa polska | Samochód policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876155 |
 
 LEGO 30352 City - Policjant z Drogówki
  
@@ -755,11 +1220,27 @@ LEGO 30352 City - Policjant z Drogówki
 - liczba elementów: 46, w tym 1 minifigurka 
 - do zestawu dołączona jest papierowa instrukcja
 
+**Galeria:**
+
+- 30352-1: https://a.allegroimg.com/original/016bf0/e48ade5c42d1babd497d7db2946e
+
 ---
 
-## 30353 — Lego City 30353 Traktor saszetka z klockami minifigurka
+## 30353 — Traktor
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015876162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30353 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | Traktor |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876162 |
 
 Witam
 
@@ -779,11 +1260,27 @@ Zestaw zawiera 47 elementów, aby skonstruować mały **model traktora z pługie
  
 Jak na tak mały model, zawiera on imponującą ilość detali i prezentuje się znakomicie.
 
+**Galeria:**
+
+- 30353-1: https://a.allegroimg.com/original/1162d4/b6e6610d47a18fabc39fe93fac71
+
 ---
 
-## 30355 — Lego 30355 City Dżunglowa terenówka
+## 30355 — LEGO 30355 City - Dżunglowa terenówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 46.99 zł · EAN: 05702015876889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30355 |
+| Nazwa angielska | Jungle ATV |
+| Nazwa polska | LEGO 30355 City - Dżunglowa terenówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876889 |
 
 LEGO City 30355 – Łazik Terenowy
 
@@ -811,11 +1308,27 @@ Szukasz idealnego, drobnego upominku dla fana klocków? **LEGO City 30355** to
 - Nagrodę za dobre wyniki w szkole. 
 - Uzupełnienie makiety LEGO City o pojazd zwiadowczy.
 
+**Galeria:**
+
+- 30355-1: https://a.allegroimg.com/original/11a925/583dd3c94549a1f2a8f53d92fd60
+
 ---
 
-## 30356 — Lego City 30356 stoisko z hot dogami saszetka z klockami
+## 30356 — stoisko z hot dogami
 
-*Kategoria: City · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016122671 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30356 |
+| Nazwa angielska | Hot Dog Stand |
+| Nazwa polska | stoisko z hot dogami |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122671 |
 
 Witam
 
@@ -831,11 +1344,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30356-1: https://a.allegroimg.com/original/11077d/cb44fe1d4bd7a3f539cfae77f623
+
 ---
 
-## 30357 — Lego City 30357 Robotnik drogowy saszetka klocki minifigurka
+## 30357 — Robotnik drogowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016122688 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30357 |
+| Nazwa angielska | Road Worker |
+| Nazwa polska | Robotnik drogowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122688 |
 
 Witam
 
@@ -851,11 +1380,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30357-1: https://a.allegroimg.com/original/11a2bb/747493eb48d4baa37fd7cf0abf41
+
 ---
 
-## 30359 — Lego City Minifigure Polybag Police Water Plane #30359
+## 30359 — Policyjny Wodolot
 
-*Kategoria: City · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702016122701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30359 |
+| Nazwa angielska | Police Water Plane |
+| Nazwa polska | Policyjny Wodolot |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122701 |
 
 **LEGO City polybag – Police Water Plane #30359**
 
@@ -875,11 +1420,27 @@ Zestaw LEGO 30359 „Police Water Plane” to miniaturowy model wodnosamolotu po
 
 Zestaw stanowi doskonały dodatek do kolekcji policyjnych modeli LEGO City, łącząc w sobie prostotę budowy z ciekawym wyglądem. Dzięki edycji limitowanej nabiera on szczególnej wartości kolekcjonerskiej i sprawdzi się zarówno w zabawie, jak i jako element ekspozycji. To świetna propozycja dla miłośników policyjnych akcji i pasjonatów LEGO.
 
+**Galeria:**
+
+- 30359-1: https://a.allegroimg.com/original/1181cb/1b1821934705929ef9a8c90c1dfe
+
 ---
 
-## 30361 — Lego 30361 City Strażacki Quad Strażak Polybag
+## 30361 — Strażacki Quad
 
-*Kategoria: City · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702016374773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30361 |
+| Nazwa angielska | Fire ATV |
+| Nazwa polska | Strażacki Quad |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374773 |
 
 LEGO 30361 CITY STRAŻACKI QUAD STRAŻAK POLYBAG
 
@@ -907,11 +1468,27 @@ Zestawy **LEGO** inspirują chłopców i dziewczynki do budowania, tworzenia i w
 
 **LEGO 30361 City Strażacki quad** z **2019 roku** składa się z** 39 klocków**. Dedykowane na prezent dla dzieci i młodzieży powyżej **5 roku życia. **Wymiary opakowania: **17 cm x 16 cm x 1,5 cm**
 
+**Galeria:**
+
+- 30361-1: https://a.allegroimg.com/original/110e2b/4d6e00e6440fa303f5e71635cc1e
+
 ---
 
-## 30362 — Lego City 30362 Policyjny plecak odrzutowy saszetka klocki minifigurka
+## 30362 — Policyjny plecak odrzutowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702016374780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30362 |
+| Nazwa angielska | Sky Police Jetpack |
+| Nazwa polska | Policyjny plecak odrzutowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374780 |
 
 Witam
 
@@ -927,11 +1504,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30362-1: https://a.allegroimg.com/original/116a2a/9bd6bda04365b138fa352e999590
+
 ---
 
-## 30363 — Lego City 30363 Łódź wyścigowa saszetka z klockami minifigurka
+## 30363 — Race Boat
 
-*Kategoria: City · cena Allegro (2026-08-17): 20.00 zł · EAN: 05702016374797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30363 |
+| Nazwa angielska | Race Boat |
+| Nazwa polska | Race Boat |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374797 |
 
 Witam
 
@@ -947,11 +1540,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30363-1: https://a.allegroimg.com/original/01b10a/cb9c55554330ab0dbb4313582d37
+
 ---
 
-## 30365 — Lego City 30365 Astronauta plus satelita saszetka klocki minifigurka
+## 30365 — Space Satellite
 
-*Kategoria: City · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702016374810 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30365 |
+| Nazwa angielska | Space Satellite |
+| Nazwa polska | Space Satellite |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374810 |
 
 Witam
 
@@ -976,11 +1585,27 @@ Rafał
 - **Liczba elementów:** 36 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30365-1: https://a.allegroimg.com/original/11a94c/159b92764c7783feeb41bbdeb37c
+
 ---
 
-## 30367 — Lego City 30367 Helikopter policyjny śmigłowiec pilot policjant Policja
+## 30367 — Helikopter policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016668766 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30367 |
+| Nazwa angielska | Police Helicopter |
+| Nazwa polska | Helikopter policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668766 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -994,11 +1619,27 @@ Zestaw zawiera 39 elementów.
 
 Zestaw zawiera helikopter do zbudowania i jedną minifigurkę pilota policjanta.
 
+**Galeria:**
+
+- 30367-1: https://a.allegroimg.com/original/1166d7/a171aa244e73832b4c2ca339edb0
+
 ---
 
-## 30369 — Lego 30369 City Łazik plażowy 45 elementów 2020 rok!
+## 30369 — Beach Buggy
 
-*Kategoria: City · cena Allegro (2026-08-17): 36.00 zł · EAN: 05702016668988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30369 |
+| Nazwa angielska | Beach Buggy |
+| Nazwa polska | Beach Buggy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668988 |
 
 LEGO
 
@@ -1015,11 +1656,27 @@ LEGO
 
 ORYGINALNY, NOWA SASZETKA / POLYBAG
 
+**Galeria:**
+
+- 30369-1: https://a.allegroimg.com/original/11c407/85809bc24797a5c4f508f820297a
+
 ---
 
-## 30370 — Lego City Explorer Diver 30370 Nurek Badacz głębinowy
+## 30370 — Nurek oceaniczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 25.00 zł · EAN: 05702016668995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30370 |
+| Nazwa angielska | Ocean Diver |
+| Nazwa polska | Nurek oceaniczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668995 |
 
 LEGO City Explorer Diver 30370 NUREK Badacz głębinowy
 
@@ -1033,11 +1690,27 @@ LEGO City Explorer Diver 30370 NUREK Badacz głębinowy
 
 **Więcej zestawów do zebrania i połączenia **- Sprzedawane oddzielnie zestawy LEGO  można łączyć, aby  zabawa była jeszcze lepsza!
 
+**Galeria:**
+
+- 30370-1: https://a.allegroimg.com/original/11c6c3/04be4360416988936038dd1ee250
+
 ---
 
-## 30567 — Lego 30567 City Policyjny skuter wodny, policjantka z radiem
+## 30567 — Police Water Scooter
 
-*Kategoria: City · cena Allegro (2026-08-17): 20.00 zł · EAN: 05702016912531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30567 |
+| Nazwa angielska | Police Water Scooter |
+| Nazwa polska | Police Water Scooter |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912531 |
 
 LEGO 30567 CITY POLICYJNY SKUTER WODNY
 
@@ -1045,11 +1718,27 @@ Słychać syreny policyjne! – to wspaniały skuter wodny z serii LEGO City mkn
  
 Policyjny skuter wodny to uroczy model LEGO, który wspaniale wpisze się w krajobraz miasteczka z klocków lub pozwoli dopiero rozpocząć przygodę z serią City. Zestaw zawiera klocki do zbudowania skutera wodnego, figurę policjantki w kamizelce ratunkowej i czapce, krótkofalówkę oraz odczepiane kajdanki. Wszystko, czego trzeba, by ścigać groźnych przestępców w serii LEGO City.
 
+**Galeria:**
+
+- 30567-1: https://a.allegroimg.com/original/1145fb/b836a4c24c71a82e97a5e53c7695
+
 ---
 
-## 30568 — Lego City 30568 Deskorolkarz saszetka z klockami
+## 30568 — DESKOROLKARZ
 
-*Kategoria: City · cena Allegro (2026-08-17): 28.99 zł · EAN: 05702016911893 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30568 |
+| Nazwa angielska | Skater |
+| Nazwa polska | DESKOROLKARZ |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911893 |
 
 Witam
 
@@ -1065,11 +1754,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30568-1: https://a.allegroimg.com/original/114e8f/b8f5126d4c7293e7606952c9ef4e
+
 ---
 
-## 30570 — Lego City 30570 Poduszkowiec ratowników dzikich zwierząt saszetka klocki
+## 30570 — Poduszkowiec ratowników dzikich zwierząt
 
-*Kategoria: City · cena Allegro (2026-08-17): 16.89 zł · EAN: 05702016911954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30570 |
+| Nazwa angielska | Wildlife Rescue Hovercraft |
+| Nazwa polska | Poduszkowiec ratowników dzikich zwierząt |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911954 |
 
 Witam
 
@@ -1095,11 +1800,27 @@ Zestawy LEGO zawsze zapewniają niezwykłą zabawę chłopcom i dziewczynkom.  
 - **Liczba elementów:** 4 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30570-1: https://a.allegroimg.com/original/117d49/8d31a7fa4eeab567824f74b29452
+
 ---
 
-## 30585 — Lego City 30585 Patrol Straży Pożarnej saszetka z klockami
+## 30585 — Patrol Straży Granicznej
 
-*Kategoria: City · cena Allegro (2026-08-17): 23.89 zł · EAN: 05702017160979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30585 |
+| Nazwa angielska | Fire Patrol Vehicle |
+| Nazwa polska | Patrol Straży Granicznej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017160979 |
 
 Witam
 
@@ -1117,11 +1838,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30585-1: https://a.allegroimg.com/original/1153e1/a90c6e754c8381b0949c4a1ebd22
+
 ---
 
-## 30588 — Klocki Lego City Plac zabaw dla dzieci 30588
+## 30588 — Plac zabaw
 
-*Kategoria: City · cena Allegro (2026-08-17): 23.99 zł · EAN: 05702017160993 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30588 |
+| Nazwa angielska | Kids' Playground |
+| Nazwa polska | Plac zabaw |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017160993 |
 
 KLOCKI CITY 30588 PLAC ZABAW
 
@@ -1161,11 +1898,27 @@ Mały [Lego 1 - 200]
 - **Seria**: City 
 - **Wymagania wiekowe**: od 5 lat
 
+**Galeria:**
+
+- 30588-1: https://a.allegroimg.com/original/11d1a9/64c78f094099a954ac3ecd896e67
+
 ---
 
-## 30589 — Lego City 30589 Wyścigowy Gokart saszetka z klockami minifigurka
+## 30589 — Wyścigowy Gokart
 
-*Kategoria: City · cena Allegro (2026-08-17): 23.00 zł · EAN: 05702017161006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30589 |
+| Nazwa angielska | Go-Kart Racer |
+| Nazwa polska | Wyścigowy Gokart |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017161006 |
 
 Witam
 
@@ -1181,11 +1934,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30589-1: https://a.allegroimg.com/original/115b30/1d23756047bca9072b5054938642
+
 ---
 
-## 30638 — Lego City 30638 Rower policyjny szkolenie
+## 30638 — Rower policyjny - szkolenie
 
-*Kategoria: City · cena Allegro (2026-08-17): 15.90 zł · EAN: 05702017421483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30638 |
+| Nazwa angielska | Police Bike Training |
+| Nazwa polska | Rower policyjny - szkolenie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421483 |
 
 LEGO City 30638 Rower policyjny szkolenie
 
@@ -1205,11 +1974,27 @@ LEGO City 30638 Rower policyjny - szkolenie Zestawy LEGO inspirują chłopców i
 
 Galeria LEGO City 30638 Rower policyjny szkolenie
 
+**Galeria:**
+
+- 30638-1: https://a.allegroimg.com/original/11a0fb/a689155344af84d1903af52a9060
+
 ---
 
-## 30639 — Lego City 30639 Wybieg dla psów i hulajnoga
+## 30639 — Wybieg dla psów i hulajnoga
 
-*Kategoria: City · cena Allegro (2026-08-17): 16.50 zł · EAN: 05702017421490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30639 |
+| Nazwa angielska | Dog Park and Scooter |
+| Nazwa polska | Wybieg dla psów i hulajnoga |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421490 |
 
 Klocki City 30639 Wybieg dla psów i hulajnoga
  
@@ -1259,11 +2044,27 @@ Parametry
 - **Seria**: City 
 - **Wymagania wiekowe**: od 5 lat
 
+**Galeria:**
+
+- 30639-1: https://a.allegroimg.com/original/115d48/ee88e1ce4685a998f1bf95b2452b
+
 ---
 
-## 30640 — Klocki Lego 30640 City Samochód Wyścigowy 44EL Auto Formuła F1
+## 30640 — LEGO CITY 30640 Samochód wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017421506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30640 |
+| Nazwa angielska | Race Car |
+| Nazwa polska | LEGO CITY 30640 Samochód wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421506 |
 
 Witamy
 
@@ -1283,11 +2084,27 @@ W zestawie znajduje się:
 
 Zapraszamy do zakupu :)
 
+**Galeria:**
+
+- 30640-1: https://a.allegroimg.com/original/111c3a/609478e04d1cab3b0bc614d9c52d
+
 ---
 
-## 30663 — Klocki Lego City 30663 Kosmiczny Latający Motocykl
+## 30663 — LEGO 30663 City - Kosmiczny latający motocykl
 
-*Kategoria: City · cena Allegro (2026-08-17): 11.99 zł · EAN: 05702017567426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30663 |
+| Nazwa angielska | Space Hoverbike |
+| Nazwa polska | LEGO 30663 City - Kosmiczny latający motocykl |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567426 |
 
 KLOCKI LEGO CITY 30663 KOSMICZNY LATAJĄCY MOTOCYKL
 
@@ -1309,11 +2126,27 @@ Na wpłatę czekamy do 5 dni- brak wpłaty spowoduje anulowanie zamówienia!
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 30663-1: https://a.allegroimg.com/original/11cd8c/a13e5cc14b1a972887a9cc4ffeb6
+
 ---
 
-## 30664 — Lego City 30664 Policyjny łazik terenowy
+## 30664 — LEGO 30664 City - Policyjny łazik terenowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 12.99 zł · EAN: 05702017567433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30664 |
+| Nazwa angielska | Police Off-Road Buggy Car |
+| Nazwa polska | LEGO 30664 City - Policyjny łazik terenowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567433 |
 
 Klocki **LEGO City 30664 – Policyjny łazik terenowy** to świetny zestaw, który pozwoli dzieciom wcielić się w rolę stróża prawa patrolującego miasto. Ten zestaw składający się z 36 elementów jest idealny dla dzieci od 5. roku życia, oferując zabawę w konstrukcję i pościg za przestępcami.
  
@@ -1328,11 +2161,26 @@ Klocki **LEGO City 30664 – Policyjny łazik terenowy** to świetny zestaw, kt�
  
 **LEGO City 30664 Policyjny łazik terenowy** to idealny pomysł na prezent, który z pewnością sprawi radość każdemu małemu fanowi policyjnych akcji.
 
+**Galeria:**
+
+- 30664-1: https://a.allegroimg.com/original/11fefe/6ef9558b4da6a0ecaddbc5205ae2
+
 ---
 
-## 30665 — Lego(r) City 30665 Spotkanie Z Małym Gorylem
+## 30665 — LEGO CITY Spotkanie z małym gorylem 30665
 
-*Kategoria: City · cena Allegro (2026-08-17): 9.47 zł · EAN: 05702017592695 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30665 |
+| Nazwa angielska | Baby Gorilla Encounter |
+| Nazwa polska | LEGO CITY Spotkanie z małym gorylem 30665 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 34 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017592695 |
 
 LEGO(R) CITY 30665 Spotkanie z malym gorylem
 
@@ -1342,11 +2190,26 @@ LEGO(R) CITY 30665 Spotkanie z malym gorylem
 
 Podaruj pięcioletnim i starszym odkrywcom ten fajny zestaw LEGO(R) City ze scenerią dżungli, minifigurką weterynarza oraz figurkami żaby i małego goryla.
 
+**Galeria:**
+
+- 30665-1: https://a.allegroimg.com/original/11bb26/ce7e13194da48c011852b6a0daee
+
 ---
 
-## 30693 — Lego(r) City 30693 Policyjny Skuter Wodny Zestaw
+## 30693 — Policyjny skuter wodny
 
-*Kategoria: City · cena Allegro (2026-08-17): 11.44 zł · EAN: 05702017819358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30693 |
+| Nazwa angielska | Police Water Scooter |
+| Nazwa polska | Policyjny skuter wodny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 29 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819358 |
 
 Lego
 
@@ -1357,11 +2220,26 @@ LEGO(R) CITY 30693 Policyjny skuter wodny
 
 Przemierzaj fale podczas rejsu patrolowego Policyjnym skuterem wodnym LEGO(R) City. W zestawie znajduje się minifigurka policjanta, a także kamizelka ratunkowa, kask i kajdanki.
 
+**Galeria:**
+
+- 30693-1: https://a.allegroimg.com/original/11a4ff/1da738c740c69a96e55537cc6895
+
 ---
 
-## 30694 — Lego City 30694 Kosmiczny Mech Naukowy
+## 30694 — Kosmiczny mech naukowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 14.00 zł · EAN: 05702017820200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30694 |
+| Nazwa angielska | Space Science Mech |
+| Nazwa polska | Kosmiczny mech naukowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 49 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017820200 |
 
 LEGO Kosmiczny mech naukowy
 
@@ -1374,21 +2252,52 @@ Najważniejsze parametry techniczne:
 - **Konstrukcja - Typ produktu:** Zestaw do budowania
 - **Zawartość opakowania - Liczba części:** 49 szt.
 
+**Galeria:**
+
+- 30694-1: https://a.allegroimg.com/original/110715/0ce805224000b9c1431d5a9d5807
+
 ---
 
-## 30719 — Mały zestaw klocków Lego City 30719 Gokart wyścigowy
+## 30719 — Gokart wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702018058947 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30719 |
+| Nazwa angielska | Go-Kart Racer |
+| Nazwa polska | Gokart wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 48 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018058947 |
 
 **LEGO City Gokart wyścigowy 30719**
  
 Podkręć obroty kreatywnej zabawy dzięki zestawowi LEGO® City Gokart wyścigowy, zawierającemu niskoprofilowy pojazd wyścigowy z oponami typu slick oraz minifigurkę kierowcy.
 
+**Galeria:**
+
+- 30719-1: https://a.allegroimg.com/original/11e5d2/fa3053b94b7aabf9e13507f3982f
+
 ---
 
-## 3180 — Lego City 3180 Cysterna Unikat Kolekcjonerski Jedyny W Polsce
+## 3180 — Cysterna
 
-*Kategoria: City · cena Allegro (2026-08-17): 799.99 zł · EAN: 05702014601840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3180 |
+| Nazwa angielska | Tank Truck |
+| Nazwa polska | Cysterna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601840 |
 
 **LEGO 3180 Tank Truck – KOLEKCJONERSKI ZESTAW LEGO CITY**
 
@@ -1430,11 +2339,27 @@ Według mojej wiedzy, w momencie wystawiania aukcji jest to JEDYNY dostępny w P
 
 **REALNE ZDJĘCIA PRODUKTU**
 
+**Galeria:**
+
+- 3180-1: https://a.allegroimg.com/original/113d1f/44bcc31b45ae80ae0cf74c1a28a6
+
 ---
 
-## 3181 — Klocki Lego City Samolot pasażerski samolot 60367
+## 3181 — Samolot pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702014784208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3181 |
+| Nazwa angielska | Passenger Plane |
+| Nazwa polska | Samolot pasażerski |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014784208 |
 
 Lego City 60367 Samolot pasażerski
  
@@ -1452,11 +2377,27 @@ Lego City 60367 Samolot pasażerski
 - **Liczba elementów :** 913 
 - **Liczba minifigurek :** 9
 
+**Galeria:**
+
+- 3181-1: https://a.allegroimg.com/original/05fea6/24a058fd4fafa4f5ca582869859e
+
 ---
 
-## 3182 — Lego 3182 City Lotnisko
+## 3182 — Lotnisko
 
-*Kategoria: City · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702014601864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3182 |
+| Nazwa angielska | Airport |
+| Nazwa polska | Lotnisko |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 703 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601864 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1475,11 +2416,27 @@ Lego City 60367 Samolot pasażerski
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 3182-1: https://a.allegroimg.com/original/2999c2/96559fdd4b3fa75ba8634d7d6e47
+
 ---
 
-## 3367 — Lego City 3367 Prom kosmiczny Nowe
+## 3367 — Prom Kosmiczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 472.00 zł · EAN: 05702014724198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3367 |
+| Nazwa angielska | Space Shuttle |
+| Nazwa polska | Prom Kosmiczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014724198 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1489,11 +2446,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO City 3367 Prom kosmiczny **został pokazany w 2011 roku i zawiera 231 klocków LEGO®. W opakowaniu znajdziesz także 1 minifigurkę. Klocki przeznaczone są dla dzieci od 5 roku życia.
 
+**Galeria:**
+
+- 3367-1: https://a.allegroimg.com/original/11d1be/415a4af4468cb19c17fb5ee58421
+
 ---
 
-## 3368 — Lego City 3368 Centrum kosmiczne. Idealne pudełko.
+## 3368 — Centrum kosmiczne
 
-*Kategoria: City · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014724204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3368 |
+| Nazwa angielska | Rocket Launch Center |
+| Nazwa polska | Centrum kosmiczne |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 494 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014724204 |
 
 LEGO City - 3368 Centrum kosmiczne - Nowe
 
@@ -1503,11 +2476,26 @@ Dodatkowo w zestawie znajdziesz cztery minifigurki: astronautę, technika, nauko
  
 LEGO® City 3368 to idealny wybór na prezent dla dzieci od 6 roku życia, które interesują się tematyką kosmosu i nauki.
 
+**Galeria:**
+
+- 3368-1: https://a.allegroimg.com/original/113e9c/8a8b69134e56acc37bda85b43956
+
 ---
 
-## 3420 — nowy Lego Sports 3420 Piłka nożna Japońska wersja Totalny Unikat Misb 2002
+## 3420 — CHAMPIONSHIP CHALLENGE II
 
-*Kategoria: City · cena Allegro (2026-08-17): 1999.99 zł · EAN: 05702014152144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3420 |
+| Nazwa angielska | Championship Challenge II |
+| Nazwa polska | CHAMPIONSHIP CHALLENGE II |
+| Seria | miasto |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152144 |
 
 Cześć!
 
@@ -1525,11 +2513,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 3420-1: https://a.allegroimg.com/original/119669/0eaf7bb045a0b552812dc1ec9b32
+
 ---
 
-## 3439 — Nowy Lego System 3439 Town City Spy Runner Unikat Misb 2000
+## 3439 — Spy Runner
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.99 zł · EAN: 00042884034399 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3439 |
+| Nazwa angielska | Spy Runner |
+| Nazwa polska | Spy Runner |
+| Seria | miasto |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884034399 |
 
 Cześć!
 
@@ -1547,11 +2550,27 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 3439-1: https://a.allegroimg.com/original/112b63/387ab6054c85829752a96f868a61
+
 ---
 
-## 40177 — Lego City 40177 Jungle Explorer Kit saszetka klocki unikat model z 2017 r.
+## 40177 — Jungle Explorer Kit
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015997676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40177 |
+| Nazwa angielska | City Jungle Explorer Kit |
+| Nazwa polska | Jungle Explorer Kit |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015997676 |
 
 Sprzedaję nowy, fabrycznie zapakowany zestaw LEGO City 40177 - Jungle Explorer Kit. To saszetka z klockami, idealna dla małych odkrywców.
 
@@ -1563,11 +2582,26 @@ W zestawie znajduje się wszystko, co widoczne na zdjęciu - figurka poszukiwacz
 
 Idealny jako dodatek do kolekcji lub drobny prezent.
 
+**Galeria:**
+
+- 40177-1: https://a.allegroimg.com/original/11f59f/90cd60834e2f9b29716da936b5d7
+
 ---
 
-## 40310 — Lego City 40310 Xtra akcesoria botaniczne
+## 40310 — Xtra akcesoria botaniczne
 
-*Kategoria: City · cena Allegro (2026-08-17): 100.00 zł · EAN: 00673419293037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40310 |
+| Nazwa angielska | Botanical Accessories |
+| Nazwa polska | Xtra akcesoria botaniczne |
+| Seria | farma |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419293037 |
 
 Klocki LEGO xtra 40310 -
 
@@ -1579,11 +2613,27 @@ Z pakietem LEGO xtra 40310 Akcesoria Botaniczne poczujesz się jak architekt kra
 
 - W tym ciekawym zestawie czekają 24 różne dodatki związane z ogrodami, w tym drzewa, krzewy i inne rośliny, dwie żółte żabki, a do tego ogrodzenia, liście i kwiaty.
 
+**Galeria:**
+
+- 40310-1: https://a.allegroimg.com/original/03105b/47a5f46047db93c76def27eb77ed
+
 ---
 
-## 40526 — Lego City 40526 Elektryczne hulajnogi i ładowarka
+## 40526 — Elektryczne hulajnogi i ładowarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 57.50 zł · EAN: 00673419365321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40526 |
+| Nazwa angielska | Electric Scooters & Charging Dock |
+| Nazwa polska | Elektryczne hulajnogi i ładowarka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419365321 |
 
 LEGO City 40526 Elektryczne hulajnogi i ładowarka.
 
@@ -1597,19 +2647,51 @@ Pozwól dzieciom bawić się jeszcze lepiej dzięki zestawowi LEGO® City Elektr
 - Producent: Lego
 - Ilość elementów: 50
 
+**Galeria:**
+
+- 40526-1: https://a.allegroimg.com/original/1155ed/0e1550fc4322bd8a522899c0eb75
+
 ---
 
-## 40578 — Lego City 40578 Sklepik z kanapkami
+## 40578 — Sklepik z kanapkami
 
-*Kategoria: City · cena Allegro (2026-08-17): 118.50 zł · EAN: 05702017241975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40578 |
+| Nazwa angielska | Sandwich Shop |
+| Nazwa polska | Sklepik z kanapkami |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241975 |
 
 Zestaw LEGO City - Sklepik z kanapkami trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 40578. Zawiera 110 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Sandwich Shop. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 40578-1: https://a.allegroimg.com/original/1145ee/2cba44b048c199ee5c352a7cfc4e
+
 ---
 
-## 40582 — Lego 40582 City Terenowa karetka z napędem 4x4
+## 40582 — Terenowa karetka z napędem 4x4
 
-*Kategoria: City · cena Allegro (2026-08-17): 160.00 zł · EAN: 05702017423555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40582 |
+| Nazwa angielska | 4x4 Off-Road Ambulance Rescue |
+| Nazwa polska | Terenowa karetka z napędem 4x4 |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 162 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017423555 |
 
 LEGO 40582 City - Terenowa karetka z napędem 4x4
 
@@ -1620,11 +2702,26 @@ Dzięki zestawowi LEGO® City Terenowa karetka z napędem 4x4 (40582) dzieci mog
 - Ciekawe funkcje dodają realizmu – karetka terenowa jest wyposażona w wyciągane nosze i bagażnik dachowy do przewożenia roweru górskiego 
 - Wymiary – zestaw ze 162 elementami obejmuje zabawkową karetkę, która ma 7 cm wysokości, 14 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 40582-1: https://a.allegroimg.com/original/114870/6f974ee54bce8e37cae63fbc18d9
+
 ---
 
-## 40715 — Lego Space 40715 Stadko kosmitów
+## 40715 — Stadko kosmitów
 
-*Kategoria: City · cena Allegro (2026-08-17): 61.99 zł · EAN: 05702017596068 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40715 |
+| Nazwa angielska | Alien Pack |
+| Nazwa polska | Stadko kosmitów |
+| Seria | miasto |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm × gł. 7 cm |
+| EAN | 5702017596068 |
 
 LEGO®
  
@@ -1648,11 +2745,26 @@ Niech Twoja wyobraźnia poszybuje w kosmos podczas budowania zestawu LEGO® Stad
 - Pomysł na prezent dla dzieci – podaruj początkującym astronautom i ciekawym świata dzieciom zestaw nie z tej ziemi 
 - Wymiary — zestaw zawiera 181 elementów, a kosmiczna sceneria ma 7 cm wysokości, 6 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40715-1: https://a.allegroimg.com/original/11447e/de94aa5a460b9cbd045b2de9b982
+
 ---
 
-## 40716 — Lego Space 40716 Środowisko Naturalne Kosmitów 7+
+## 40716 — Środowisko naturalne kosmitów
 
-*Kategoria: City · cena Allegro (2026-08-17): 63.00 zł · EAN: 05702017597171 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40716 |
+| Nazwa angielska | Alien Planet Habitat |
+| Nazwa polska | Środowisko naturalne kosmitów |
+| Seria | inna |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm × gł. 8 cm |
+| EAN | 5702017597171 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1677,11 +2789,27 @@ Wkrocz do galaktyki pełnej twórczej zabawy dzięki zestawowi LEGO® Środowisk
 - Pomysł na prezent – ten zestaw LEGO® zapewni mnóstwo frajdy małym astronautom i dzieciom ciekawym świata
 - Wymiary — zestaw zawiera 206 elementów, a kosmiczne środowisko ma 6 cm wysokości, 17 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40716-1: https://a.allegroimg.com/original/115978/7625a55c450a9f5b210669e21921
+
 ---
 
-## 4200 — Lego City 4200 Górniczy wóz terenowy Nowe
+## 4200 — Górniczy Wóz Terenowy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 153.00 zł · EAN: 05702014822894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4200 |
+| Nazwa angielska | Mining 4 x 4 |
+| Nazwa polska | Górniczy Wóz Terenowy L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014822894 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1691,11 +2819,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 4200 Górniczy wóz terenowy **został zaprezentowany w 2012 roku i składa się z 102 klocków LEGO®. W zestawie klocków znajdziesz 1 minifigurkę. Klocki przeznaczone są dla dzieci powyżej 5 roku życia.
 
+**Galeria:**
+
+- 4200-1: https://a.allegroimg.com/original/117d45/1cfd436d4bd3a91eb162eb30d32c
+
 ---
 
-## 4202 — Lego City 4202 Ciężarówka Górnicza Nowe
+## 4202 — Ciężarówka Górnicza
 
-*Kategoria: City · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702014837959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4202 |
+| Nazwa angielska | Mining Truck |
+| Nazwa polska | Ciężarówka Górnicza |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837959 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST NOWY ORYGINALNIE ZAPLOMBOWANY ZESTAW LEGO CITY 4202
 
@@ -1705,11 +2849,27 @@ NAŻYCZENIE CHĘTNIE PRZEŚLĘ DODATKOWE ZDJĘCIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 4202-1: https://a.allegroimg.com/original/11b249/ec04ac0545c291ef0317364f345b
+
 ---
 
-## 4203 — Lego City 4203 Koparka z transporterem L
+## 4203 — Koparka z transporterem L
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702014840577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4203 |
+| Nazwa angielska | Excavator Transport |
+| Nazwa polska | Koparka z transporterem L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840577 |
 
 LEGO 4203 City Koparka z transporterem
  
@@ -1726,11 +2886,27 @@ Informacja o produkcie:
 - seria: City 
 - x szer. x wys.): 38 x 26 x 7cm
 
+**Galeria:**
+
+- 4203-1: https://a.allegroimg.com/original/05a1b5/d2b4d40c483ea631ec0fa160b3b0
+
 ---
 
-## 4204 — Lego City 4204 Kopalnia Nowe
+## 4204 — Kopalnia L
 
-*Kategoria: City · cena Allegro (2026-08-17): 1539.00 zł · EAN: 05702014840584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4204 |
+| Nazwa angielska | The Mine |
+| Nazwa polska | Kopalnia L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 748 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840584 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1762,21 +2938,53 @@ To doskonałe narzędzie do nauki o pracy w kopalni, maszynach i całym procesie
 
 W zestawie znajduje się 4 minifigurki górników wyposażonych w kaski, łopaty, kilofy i inne narzędzia. LEGO zadbało także o detale, takie jak dynamit, światła ostrzegawcze, znaki bezpieczeństwa czy nawet złote samorodki, które dzieci mogą "odkrywać" w sztolni.
 
+**Galeria:**
+
+- 4204-1: https://a.allegroimg.com/original/117e1c/d7620d1748839df81101ab4b7382
+
 ---
 
-## 4206 — Lego City 4206 Śmieciarka
+## 4206 — Śmieciarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014840973 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4206 |
+| Nazwa angielska | 9V Train Switching Track Collection |
+| Nazwa polska | Śmieciarka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840973 |
 
 Klocki LEGO City 4206 - Ciężarówka do recyklingu
 
 Zestaw LEGO City - Ciężarówka do recyklingu trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 4206. Zawiera 297 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Recycling Truck.
 
+**Galeria:**
+
+- 4206-1: https://a.allegroimg.com/original/1118fc/ff7e6b0441b79c1f008ff8fb2839
+
 ---
 
-## 4207 — Klocki Lego City Zestaw Parking Garaż z Windą Myjnia Samochodowa 4207
+## 4207 — Warszat Samochodowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1079.00 zł · EAN: 05702014840980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4207 |
+| Nazwa angielska | City Garage |
+| Nazwa polska | Warszat Samochodowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 933 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 38 cm |
+| EAN | 5702014840980 |
 
 LEGO City Zestaw Parking Garaż z Windą Myjnia Samochodowa 4207
 
@@ -1812,11 +3020,27 @@ Niebieski samochód ma ok. 4 cm wysokości, 4 cm szerokości i 11 cm długości.
 
 Samochód kempingowy ma ok. 5 cm wysokości, 4 cm szerokości i 11 cm długość.
 
+**Galeria:**
+
+- 4207-1: https://a.allegroimg.com/original/119f1f/41f06a99401a920b6d63751d961e
+
 ---
 
-## 4208 — Lego City 4208 Terenowy wóz strażacki 243 elem.
+## 4208 — Terenowy wóz strażacki 243 elem.
 
-*Kategoria: City · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702014830622 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4208 |
+| Nazwa angielska | 4x4 Fire Truck |
+| Nazwa polska | Terenowy wóz strażacki 243 elem. |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014830622 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1835,11 +3059,27 @@ Samochód kempingowy ma ok. 5 cm wysokości, 4 cm szerokości i 11 cm długość
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4208-1: https://a.allegroimg.com/original/1148d9/7662380e4aa4b8b9c3c88186c14d
+
 ---
 
-## 4209 — Lego City 4209 Samolot strażacki Nowe
+## 4209 — Samolot strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702014830318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4209 |
+| Nazwa angielska | Fire Plane |
+| Nazwa polska | Samolot strażacki |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 522 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014830318 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1861,11 +3101,27 @@ Idealny pomysł na prezent
  
 Zestaw LEGO® 4209 City – Samolot strażacki to doskonały pomysł na prezent dla dzieci, które interesują się pojazdami, samolotami oraz służbami ratunkowymi. Sprawdzi się jako upominek na urodziny, święta czy inne wyjątkowe okazje. Klasyczna jakość LEGO gwarantuje trwałość klocków oraz bezpieczeństwo zabawy, co doceni każdy rodzic.
 
+**Galeria:**
+
+- 4209-1: https://a.allegroimg.com/original/119e0f/3eb776b54ab28d52cefed6e58529
+
 ---
 
-## 4429 — Lego City 4429 Centrum Ratunkowe
+## 4429 — Centrum Ratunkowe
 
-*Kategoria: City · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014841024 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4429 |
+| Nazwa angielska | Helicopter Rescue |
+| Nazwa polska | Centrum Ratunkowe |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 425 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014841024 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1884,11 +3140,27 @@ Zestaw LEGO® 4209 City – Samolot strażacki to doskonały pomysł na prezent 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4429-1: https://a.allegroimg.com/original/116202/a9405d0a4942b659e4f429a71098
+
 ---
 
-## 4430 — Lego 4430 City Transport straży pożarnej Nowy Bez Pudełka
+## 4430 — Fire Transporter
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.90 zł · EAN: 05702014836433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4430 |
+| Nazwa angielska | Mobile Fire Command Center |
+| Nazwa polska | Fire Transporter |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 522 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014836433 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -1902,11 +3174,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 4430-1: https://a.allegroimg.com/original/119aff/05957a924f9f8c49a27dc5dc882b
+
 ---
 
-## 4431 — Lego City 4431 Karetka
+## 4431 — Karetka
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702014825109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4431 |
+| Nazwa angielska | Ambulance |
+| Nazwa polska | Karetka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014825109 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1930,11 +3218,27 @@ Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Prze
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4431-1: https://a.allegroimg.com/original/11587d/dcd0d348426c8fc1b119ecf10786
+
 ---
 
-## 4432 — Lego 4432 City Śmieciarka, Śmieciarz, Ciężarówka
+## 4432 — Śmieciarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702015000789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4432 |
+| Nazwa angielska | Garbage Truck |
+| Nazwa polska | Śmieciarka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015000789 |
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -1954,11 +3258,27 @@ Zestaw ten pozwala na stworzenie wspaniałej zabawki z realistycznymi detalami, 
  
 LEGO City 4432 Śmieciarka to doskonały wybór dla rodziców, którzy chcą zapewnić swojemu dziecku nie tylko rozrywkę, ale także edukację.
 
+**Galeria:**
+
+- 4432-1: https://a.allegroimg.com/original/11aca9/99fbaa314979bf2fbe203f973b03
+
 ---
 
-## 4435 — Lego City 4435 samochód z przyczepą kempingową
+## 4435 — samochód z przyczepą kempingową
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014825147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4435 |
+| Nazwa angielska | Car and Caravan |
+| Nazwa polska | samochód z przyczepą kempingową |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014825147 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1981,11 +3301,27 @@ LEGO City 4432 Śmieciarka to doskonały wybór dla rodziców, którzy chcą zap
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4435-1: https://a.allegroimg.com/original/1144b6/c01be63c4cfca8ac52d611fd24b8
+
 ---
 
-## 4437 — Lego City 4437 Pościg Policyjny. Nowy.
+## 4437 — Pościg Policyjny L
 
-*Kategoria: City · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702014825154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4437 |
+| Nazwa angielska | Police Pursuit |
+| Nazwa polska | Pościg Policyjny L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014825154 |
 
 LEGO CITY 4437
 
@@ -2005,11 +3341,27 @@ Uzupełnij klasyczną serię policyjną dzieci poszukują nowych scenariuszy do 
 
 - sztabkę złota i inne elementy.
 
+**Galeria:**
+
+- 4437-1: https://a.allegroimg.com/original/0527e3/dabc069a4d5abfbddf427f5182cc
+
 ---
 
-## 4439 — Lego City 4439 Helikopter Transportowy L
+## 4439 — Helikopter Transportowy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014840782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4439 |
+| Nazwa angielska | Heavy-Duty Helicopter |
+| Nazwa polska | Helikopter Transportowy L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840782 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2033,11 +3385,27 @@ Uzupełnij klasyczną serię policyjną dzieci poszukują nowych scenariuszy do 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4439-1: https://a.allegroimg.com/original/117f3a/06c4ae8749b2b939aab201644030
+
 ---
 
-## 4440 — Lego City 4440 Leśny posterunek policji L
+## 4440 — Leśny posterunek policji L
 
-*Kategoria: City · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702014840959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4440 |
+| Nazwa angielska | Forest Police Station |
+| Nazwa polska | Leśny posterunek policji L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 633 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840959 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2056,11 +3424,27 @@ Uzupełnij klasyczną serię policyjną dzieci poszukują nowych scenariuszy do 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4440-1: https://a.allegroimg.com/original/110fe4/bb7bc76946669b812e3bea609dd5
+
 ---
 
-## 4441 — Klocki Lego City Zestaw Samochód dla psów policyjnych 4441
+## 4441 — Van policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702014830301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4441 |
+| Nazwa angielska | Police Dog Van |
+| Nazwa polska | Van policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014830301 |
 
 Klocki LEGO City Zestaw Samochód dla psów policyjnych 4441
 
@@ -2094,11 +3478,27 @@ Zestaw **LEGO City Samochód dla psów policyjnych 4441** to klasyczny model poj
 
 Zestaw 4441 oferuje wiele scenariuszy do zabawy w role. Dzieci mogą odgrywać pościgi, w których policjantka wraz ze swoim psem tropią złodzieja i odzyskują skradzione dobra. Samochód z dedykowanym miejscem dla psa, a także kryjówka złodzieja, sprzyjają kreatywnemu opowiadaniu historii i rozwiązywaniu zagadek.
 
+**Galeria:**
+
+- 4441-1: https://a.allegroimg.com/original/1128ac/5a08051a420db50b4544851a1f85
+
 ---
 
-## 4641 — Lego 4641 Speed Boat Łódź wyścigowa Misb z 2011
+## 4641 — Speed Boat
 
-*Kategoria: City · cena Allegro (2026-08-17): 70.00 zł · EAN: 05702014727274 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4641 |
+| Nazwa angielska | Speed Boat |
+| Nazwa polska | Speed Boat |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014727274 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2108,11 +3508,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 4641-1: https://a.allegroimg.com/original/116331/41456015428e887da02b0f41045e
+
 ---
 
-## 4643 — Lego City 4643 Transporter motorówek
+## 4643 — Transporter motorówek
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.95 zł · EAN: 05702014727298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4643 |
+| Nazwa angielska | Power Boat Transporter |
+| Nazwa polska | Transporter motorówek |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014727298 |
 
 LEGO City 4643 Transporter motorówek
 
@@ -2139,11 +3555,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 4643-1: https://a.allegroimg.com/original/111bc7/2ebc3afb4ef69bd6939fd75af203
+
 ---
 
-## 4645 — Lego City 4645 Port Nowe
+## 4645 — Port
 
-*Kategoria: City · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014727311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4645 |
+| Nazwa angielska | Harbor |
+| Nazwa polska | Port |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 551 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014727311 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2173,11 +3605,26 @@ Zestaw **LEGO 4645 – Port **to idealna okazja, by wcielić się w rolę portow
  
 🌊 **Zbuduj swój własny port LEGO City i rozpocznij wielką przygodę na morzu! **🚢⚓
 
+**Galeria:**
+
+- 4645-1: https://a.allegroimg.com/original/118dd7/d829c9c84a7d9b2bbfc182086be0
+
 ---
 
-## 4799 — nowy Lego City Alpha Team 4799 Ogel Drone Octopus Misb 2002
+## 4799 — Ogel Drone Octopus
 
-*Kategoria: City · cena Allegro (2026-08-17): 254.99 zł · EAN: 05702014152373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4799 |
+| Nazwa angielska | Ogel Drone Octopus |
+| Nazwa polska | Ogel Drone Octopus |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014152373 |
 
 Cześć!
 
@@ -2195,11 +3642,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4799-1: https://a.allegroimg.com/original/1151db/3af66bde467186e226884d0c1fdc
+
 ---
 
-## 4898 — Lego 4898 City Motorówka Straż Przybrzeżna
+## 4898 — MOTORÓWKA STRAŻ PRZYBRZEŻNA
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702014517226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4898 |
+| Nazwa angielska | Coast Guard Boat |
+| Nazwa polska | MOTORÓWKA STRAŻ PRZYBRZEŻNA |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517226 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -2221,11 +3684,26 @@ Pozdrawiam.
 
 **- ZESTAW KLOCKÓW LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 4898-1: https://a.allegroimg.com/original/113a49/c22997024ff3a64ed9dbcec7785e
+
 ---
 
-## 5004932 — Lego 5004932 Niezbędnik podróżny Walizka podróżnika paszport
+## 5004932 — Travel Building Suitcase
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.99 zł · EAN: 00673419269315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004932 |
+| Nazwa angielska | My Travel Companion |
+| Nazwa polska | Travel Building Suitcase |
+| Seria | miasto |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269315 |
 
 LEGO Promocyjne 5004932
 
@@ -2237,11 +3715,27 @@ Kreatywny zestaw przeznaczony jest dla młodych podróżników, fotografów oraz
 
 Dodatkowo w środku znaleźć można zakładki do urozmaicania kompozycji zdjęć z minifigurką, oraz replikę LEGO paszportu pełnego uroczych zdjęć z wykorzystaniem klocków LEGO.
 
+**Galeria:**
+
+- 5004932-1: https://a.allegroimg.com/original/117767/031bbfca43c9ba9e5b216482ab12
+
 ---
 
-## 5611 — nowy Lego City 5611 śmieciarz pracownik komunalny Misb 2008
+## 5611 — Public Works
 
-*Kategoria: City · cena Allegro (2026-08-17): 78.99 zł · EAN: 05702014517141 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5611 |
+| Nazwa angielska | Public Works |
+| Nazwa polska | Public Works |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517141 |
 
 Cześć!
 
@@ -2259,11 +3753,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5611-1: https://a.allegroimg.com/original/11f82f/222c1bbe401e96c18d165cfaccb3
+
 ---
 
-## 5621 — Lego City 5621 Kajak straży przybrzeżnej
+## 5621 — Kajak straży przybrzeżnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014517295 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5621 |
+| Nazwa angielska | Coast Guard Kayak |
+| Nazwa polska | Kajak straży przybrzeżnej |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517295 |
 
 ** Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2288,11 +3798,27 @@ Pozdrawiam.
 
 **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 5621-1: https://a.allegroimg.com/original/1122e0/f644d66c4cf89c59546a24886093
+
 ---
 
-## 60000 — Lego City 60000 Motocykl Strażacki zestaw z 2013 roku
+## 60000 — Motocykl Strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702014959415 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60000 |
+| Nazwa angielska | Fire Motorcycle |
+| Nazwa polska | Motocykl Strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702014959415 |
 
 LEGO 60000 Motocykl strażacki
 
@@ -2314,11 +3840,27 @@ Szybko! W LEGO® City płonie kontener z odpadkami do recyklingu! Pomóż straż
 - Ugaś ogień! 
 - Motocykl strażacki ma ok. 4 cm wysokości, 6 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 60000-1: https://a.allegroimg.com/original/114e11/e54d437548979896d78279143f67
+
 ---
 
-## 60001 — Lego City 60001 Samochód straży pożarnej Klocki Straż Pożarna
+## 60001 — Samochód komendanta straży pożarnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 175.31 zł · EAN: 05702014959385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60001 |
+| Nazwa angielska | Fire Rescue |
+| Nazwa polska | Samochód komendanta straży pożarnej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959385 |
 
 LEGO City 60001 - Samochód komendanta straży pożarnej
 
@@ -2334,21 +3876,53 @@ Ilość klocków:** 80**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 60001-1: https://a.allegroimg.com/original/05d5f9/00dd457940ed91348aa76a0698f6
+
 ---
 
-## 60002 — Lego City 60463 Wóz strażacki z drabiną
+## 60002 — Wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 74.54 zł · EAN: 05702014959446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60002 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959446 |
 
 Wóz strażacki z drabiną
 
 City Wóz strażacki z drabiną LEGO® City Wóz strażacki z drabiną Zabawka dla dzieci LEGO® City Wóz strażacki z drabiną 60463 LEGO® City Wóz strażacki z drabiną z dwiema minifigurkami strażaków zainspiruje miłośników wozów strażackich w wieku od 4 lat do wspaniałych przygód. Fajny zestaw strażacki dla czterolatków i starszych dzieci Dołącz do swoich pociech w wieku od czterech lat i przeżyjcie niesamowite przygody podczas zabawy zestawem LEGO® Wóz strażacki z drabiną (60463). Klasyczny model ma kabinę kierowcy i podnoszoną drabinę z zabawkową gaśnicą. Zestaw zawiera również dwa migoczące płomienie LEGO, ręczną gaśnicę i dwie minifigurki strażaków do odgrywania ról i opowiadania historii.Łatwy do zbudowania wóz strażacki zawiera klocek startowy LEGO Starter Brick i ilustrowane instrukcje. Dzieci mogą też rozwinąć swoją kreatywność dzięki instrukcjom 3D w aplikacji LEGO Builder. Mogą w niej odkrywać i zapisywać zestawy, śledzić własne postępy w budowaniu oraz powiększać i obracać modele ze wszystkich stron.Strażackie zestawy LEGO City to bogate w funkcje zabawki poruszające się w powietrzu, po lądzie i po wodzie, które umożliwiają pomysłową zabawę bez ograniczeń. Dzieci mogą dodać ten wóz strażacki z drabiną do innych zestawów z serii LEGO City (sprzedawanych osobno) i przeżyć jeszcze fajniejsze przygody! Ratunku! Pożar! Czas odpalić potężny wóz strażacki z drabiną i popędzić na miejsce zdarzenia! W LEGO® City czekają na Ciebie pełne akcji przygody!
 
+**Galeria:**
+
+- 60002-1: https://a.allegroimg.com/original/0599c6/a78e8e8548baae4231f4de1d2977
+
 ---
 
-## 60003 — Lego City 60003 Alarm pożarowy Nowe
+## 60003 — Alarm pożarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014959453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60003 |
+| Nazwa angielska | Fire Emergency |
+| Nazwa polska | Alarm pożarowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702014959453 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2368,11 +3942,27 @@ NA POMOC! Opuszczony dom stanął w ogniu i tylko strażacy z LEGO® City mogą 
 - tWóz strażacki ma ok. 8 cm wysokości, 16 cm długości i 5 cm szerokości.
 - tDom ma ok. 14 cm wysokości, 12 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 60003-1: https://a.allegroimg.com/original/11c0e2/afebc5474761a1dc6d529d57c23d
+
 ---
 
-## 60004 — Lego City 60004 Remiza strażacka Nowe
+## 60004 — Remiza strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014959460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60004 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza strażacka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 753 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959460 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2400,11 +3990,27 @@ Dzięki LEGO 60004 możesz odgrywać dynamiczne sceny akcji i poczuć się jak p
  
 Zbuduj własną **remizę strażacką LEGO City **i zadbaj o bezpieczeństwo w Twoim mieście! 🚒🔥
 
+**Galeria:**
+
+- 60004-1: https://a.allegroimg.com/original/11764b/3b05342b49f8be384400a8543b25
+
 ---
 
-## 60005 — Lego City 60005 Łódź strażacka Nowe
+## 60005 — Łódź Strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702014959576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60005 |
+| Nazwa angielska | Fire Boat |
+| Nazwa polska | Łódź Strażacka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959576 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2428,11 +4034,27 @@ Zestaw pozwala odgrywać scenariusze ratunkowe na wodzie, rozwijając wyobraźni
  
 **Odkryj świat LEGO City i dołącz do akcji ratunkowej na wodzie! **
 
+**Galeria:**
+
+- 60005-1: https://a.allegroimg.com/original/11d258/f0cd58b048f0ab9c870895f8ed82
+
 ---
 
-## 60006 — Lego City 60006 Quad Policyjny
+## 60006 — Quad Policyjny L
 
-*Kategoria: City · cena Allegro (2026-08-17): 129.04 zł · EAN: 05702014959422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60006 |
+| Nazwa angielska | Police ATV |
+| Nazwa polska | Quad Policyjny L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959422 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2456,11 +4078,27 @@ LEGO City 60006 - Quad policyjny
 
 Zestaw LEGO City - Quad policyjny trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 60006. Zawiera 51 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Police ATV. Grupa wiekowa tego produktu to 5+
 
+**Galeria:**
+
+- 60006-1: https://a.allegroimg.com/original/05bf25/33381e8c43e28fd8ea828f8e98f6
+
 ---
 
-## 60007 — Lego City 60007 Superszybki pościg
+## 60007 — Superszybki pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014959590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60007 |
+| Nazwa angielska | High Speed Chase |
+| Nazwa polska | Superszybki pościg |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 283 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959590 |
 
 LEGO City - Superszybki pościg 60007 [KLOCKI]
  
@@ -2484,11 +4122,27 @@ LEGO City - Superszybki pościg 60007 [KLOCKI]
  
 **SKU:** 221982
 
+**Galeria:**
+
+- 60007-1: https://a.allegroimg.com/original/05bc0f/69fefc27411e827e23bdd08477d3
+
 ---
 
-## 60008 — Lego City 60008 Włamanie do muzeum
+## 60008 — LEGO City 60008 - Włamanie do muzeum
 
-*Kategoria: City · cena Allegro (2026-08-17): 825.97 zł · EAN: 05702015004923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60008 |
+| Nazwa angielska | Museum Break-in |
+| Nazwa polska | LEGO City 60008 - Włamanie do muzeum |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 563 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959606, 5702015004923 |
 
 LEGO City 60008 - Włamanie do muzeum
 
@@ -2517,11 +4171,28 @@ LEGO® 60008 City - Włamanie do muzeum
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 60008-1: https://a.allegroimg.com/original/11dff3/90b363b440deaeaaf86b8cfa45ae
+- 60008-2: https://a.allegroimg.com/original/11be5e/0442c9794562823baa32ba624626
+
 ---
 
-## 60010 — Lego 60010 City Helikopter strażacki, strażak, ogień
+## 60010 — Helikopter Strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702014959583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60010 |
+| Nazwa angielska | Fire Helicopter |
+| Nazwa polska | Helikopter Strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 26 cm |
+| EAN | 5702014959583 |
 
 KLOCKI LEGO CITY STRAŻACKI HELIKOPTER 60010
 
@@ -2553,11 +4224,27 @@ Fabryka ma około 12 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
 **UWAGA: LEKKO ODARTE OPAKOWANIE, PROSZĘ SPRAWDZIĆ ZDJĘCIA!**
 
+**Galeria:**
+
+- 60010-1: https://a.allegroimg.com/original/03d0b7/4f92686744419c429c7047d4c95b
+
 ---
 
-## 60011 — Lego City 60011 Na ratunek surferowi
+## 60011 — Na ratunek surferowi L
 
-*Kategoria: City · cena Allegro (2026-08-17): 116.42 zł · EAN: 05702014974111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60011 |
+| Nazwa angielska | Surfer Rescue |
+| Nazwa polska | Na ratunek surferowi L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974111 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2590,11 +4277,27 @@ Ratunku! Do brzegu zbliża się rekin, a surfer nie zdaje sobie sprawy z niebezp
  
 Zestaw klocków LEGO City 60011 Na ratunek surferowi został zaprezentowany w 2013 roku i zbudowany jest z 32 klocków LEGO®. W opakowaniu znajdziesz 2 minifigurki. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 60011-1: https://a.allegroimg.com/original/0577fa/96a712ba467cb169d6972cdcde2f
+
 ---
 
-## 60012 — Lego City 60012 Wóz terenowy i łódź nurków
+## 60012 — Wóz terenowy i łódź nurków L
 
-*Kategoria: City · cena Allegro (2026-08-17): 257.00 zł · EAN: 05702014974128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60012 |
+| Nazwa angielska | Coast Guard 4 x 4 |
+| Nazwa polska | Wóz terenowy i łódź nurków L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974128 |
 
 LEGO City 60012 Wóz terenowy i łódź nurków
  
@@ -2606,11 +4309,27 @@ Grupa wiekowa tego produktu to 5+.
  
 To nowy zestaw oryginalnie zamknięty w opakowaniu.
 
+**Galeria:**
+
+- 60012-1: https://a.allegroimg.com/original/05bcab/2e2dd5b048cc8da6799c044f40a8
+
 ---
 
-## 60013 — Lego City 60013 Helikopter Nowe
+## 60013 — Helikopter
 
-*Kategoria: City · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702014974135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60013 |
+| Nazwa angielska | Coast Guard Helicopter |
+| Nazwa polska | Helikopter |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974135 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST NOWY ORYGINALNIE ZAPLOMBOWANY ZESTAW LEGO CITY 60013
 
@@ -2620,11 +4339,27 @@ NAŻYCZENIE CHĘTNIE PRZEŚLĘ DODATKOWE ZDJĘCIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60013-1: https://a.allegroimg.com/original/119108/44b5b89b498581b5be57bf3d21ac
+
 ---
 
-## 60014 — Lego 60014 City Patrol straży przybrzeżnej Nowy Bez Pudełka
+## 60014 — Patrol straży przybrzeżnej L
 
-*Kategoria: City · cena Allegro (2026-08-17): 529.90 zł · EAN: 05702014974142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60014 |
+| Nazwa angielska | Coast Guard Patrol |
+| Nazwa polska | Patrol straży przybrzeżnej L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 449 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974142 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -2638,11 +4373,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60014-1: https://a.allegroimg.com/original/114b30/56ee6af4458bab54bd6441db9587
+
 ---
 
-## 60016 — Lego City 60016 Cysterna Unikat Kolekcjonerski
+## 60016 — Cysterna
 
-*Kategoria: City · cena Allegro (2026-08-17): 574.99 zł · EAN: 05702014959439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60016 |
+| Nazwa angielska | Tanker Truck |
+| Nazwa polska | Cysterna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702014959439 |
 
 LEGO® 60016 City - Cysterna
 
@@ -2690,11 +4441,27 @@ Grupa wiekowa tego produktu to 5+.
 
 LEGO® 60016 City - Cysterna
 
+**Galeria:**
+
+- 60016-1: https://a.allegroimg.com/original/055e56/46b7680a4693a3f4b76f7e30b0c7
+
 ---
 
-## 60018 — Lego City 60018 betoniarka. Nowy
+## 60018 — betoniarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 398.00 zł · EAN: 05702014959408 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60018 |
+| Nazwa angielska | Cement Mixer |
+| Nazwa polska | betoniarka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014959408 |
 
 **LEGO**
 
@@ -2709,11 +4476,27 @@ Nowy nieotwierany zestaw Lego.
  
 - **ZESTAW** **NOWY, ORYGINALNIE ZAPLOMBOWANY , NIEOTWIERANY, PEŁNOWARTOŚCIOWY, BEZ USZKODZEŃ !**
 
+**Galeria:**
+
+- 60018-1: https://a.allegroimg.com/original/05b0f3/554257664a0fbaf7d4759ac87d60
+
 ---
 
-## 60019 — Lego City 60019 Samolot kaskaderski
+## 60019 — Samolot kaskaderski L
 
-*Kategoria: City · cena Allegro (2026-08-17): 223.15 zł · EAN: 05702014973862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60019 |
+| Nazwa angielska | Stunt Plane |
+| Nazwa polska | Samolot kaskaderski L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973862 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2739,21 +4522,53 @@ Samolot kaskaderski
 
 Zestaw LEGO City - Samolot kaskaderski trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 60019. Zawiera 140 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Stunt Plane. Grupa wiekowa tego produktu to 5+
 
+**Galeria:**
+
+- 60019-1: https://a.allegroimg.com/original/0544dc/7e9d92d34e7ab88535e60750e4d3
+
 ---
 
-## 60020 — Lego City 60020 Ciężarówka Cargo
+## 60020 — Ciężarówka 
 
-*Kategoria: City · cena Allegro (2026-08-17): 412.00 zł · EAN: 05702014974081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60020 |
+| Nazwa angielska | Cargo Truck |
+| Nazwa polska | Ciężarówka  |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974081 |
 
 Zestaw LEGO® 60020 “Cargo Truck” z serii City wydany w 2013 roku zawiera 321 elementów. Ten zestaw transportowy zawiera ciężarówkę towarową z otwieranym panelem bocznym, wózek widłowy z ruchomymi widłami oraz 3 minifigurki: kierowcę ciężarówki, operatora wózka widłowego i pracownika.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 60020-1: https://a.allegroimg.com/original/11856a/159ca2ae484387b13bb6a2a3b646
+
 ---
 
-## 60021 — Klocki Lego City 60021 Wirolot towarowy
+## 60021 — LEGO 60021 - Wirolot towarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 659.97 zł · EAN: 05702014974098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60021 |
+| Nazwa angielska | Cargo Heliplane |
+| Nazwa polska | LEGO 60021 - Wirolot towarowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 30 cm |
+| EAN | 5702014974098 |
 
 Klocki LEGO City 60021 - Wirolot towarowy
 
@@ -2810,11 +4625,27 @@ LEGO® 60021 City - Wirolot towarowy
 
 **Jasne miejsca na krawędziach to odbicia światła.**
 
+**Galeria:**
+
+- 60021-1: https://a.allegroimg.com/original/11f338/4f3f1a394671936440f16c046f4e
+
 ---
 
-## 60022 — Lego City 60022 Terminal towarowy L
+## 60022 — Terminal towarowy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014974104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60022 |
+| Nazwa angielska | Cargo Terminal |
+| Nazwa polska | Terminal towarowy L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 658 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974104 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2838,11 +4669,27 @@ LEGO® 60021 City - Wirolot towarowy
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 60022-1: https://8.allegroimg.com/original/05c9ee/18fab5754c09aa0d129b76d96a18
+
 ---
 
-## 60023 — Lego City 60023 Zestaw Startowy Karetka Straż Pożarna Policja Motocykl
+## 60023 — Zestaw Startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 398.99 zł · EAN: 05702014974197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60023 |
+| Nazwa angielska | City Starter Set |
+| Nazwa polska | Zestaw Startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 272 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702014974197 |
 
 LEGO CITY 60023 Zestaw Startowy
 
@@ -2868,11 +4715,27 @@ Odkryj radość budowania dzięki zestawowi startowemu LEGO® City z 3 najbardzi
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60023-1: https://a.allegroimg.com/original/11e370/fd2cf5754b299812f31e6b4822d5
+
 ---
 
-## 60026 — Lego City 60026 Town Squere Rynek Miasta
+## 60026 — Town Squere L
 
-*Kategoria: City · cena Allegro (2026-08-17): 1029.99 zł · EAN: 05702014974234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60026 |
+| Nazwa angielska | Town Square |
+| Nazwa polska | Town Squere L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 914 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974234 |
 
 **LEGO City 60026 - Rynek**
 
@@ -2898,11 +4761,27 @@ Rynek miasta LEGO® City zawsze tętni życiem! Użyj ruchomego żurawia, aby us
 
 W przypadku jakichkolwiek problemów z płatnością lub innych proszę o informacje - zawsze chętnie służę pomocą i radą :)
 
+**Galeria:**
+
+- 60026-1: https://a.allegroimg.com/original/11eca2/103b36754068a66e03a74e19b9ea
+
 ---
 
-## 60027 — Lego City 60027 Monster Truck Transporter Nowe
+## 60027 — Monster Truck Transporter
 
-*Kategoria: City · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014974180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60027 |
+| Nazwa angielska | Monster Truck Transporter |
+| Nazwa polska | Monster Truck Transporter |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702014974180 |
 
 Klocki LEGO City 60027 - Transporter monster trucków
  
@@ -2947,11 +4826,27 @@ Metka na pudełku zawiera archiwalną już cenę, prosimy nie sugerować się ni
 
 Metka na pudełku zawiera archiwalną już cenę, prosimy nie sugerować się nią (dołączamy czyste metki, jeśli byłaby konieczność ukrycia ceny np. gdy jest na prezent).
 
+**Galeria:**
+
+- 60027-1: https://a.allegroimg.com/original/119495/75e0f63e46d98d7af97c6fd49633
+
 ---
 
-## 60032 — Lego City 60032 Skuter Śnieżny L
+## 60032 — Skuter Śnieżny L
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015119245 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60032 |
+| Nazwa angielska | Arctic Snowmobile |
+| Nazwa polska | Skuter Śnieżny L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119245 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -2961,21 +4856,53 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60032-1: https://a.allegroimg.com/original/11fbc7/bb3cfe574226b9bcc641cc884064
+
 ---
 
-## 60033 — Lego City 60033 Arktyczny łazik lodowy
+## 60033 — Arktyczny łazik lodowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015119252 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60033 |
+| Nazwa angielska | Arctic Ice Crawler |
+| Nazwa polska | Arktyczny łazik lodowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119252 |
 
 KLOCKI LEGO CITY ARKTYCZNY ŁAZIK LODOWY 60033
 
 Arktyczny łazik lodowy z serii LEGO® City pozwoli dotrzeć nawet w najbardziej niedostępne zakątki mroźnej krainy! Ten niezwykle wytrzymały pojazd wyposażony jest w liczne światła i gąsienice, dzięki którym świetnie radzi sobie w lodowym terenie, a także w radar i antenę, które zapewniają kontakt z zespołem wsparcia. Pomóż badaczowi Arktyki odkryć ukryte w lodzie sekrety za pomocą kilofu i piły tarczowej. Mocny obrotowy żuraw pozwoli umieścić znaleziska w pojeździe, by można bezpiecznie dowieźć je do bazy. W zestawie minifigurka badacza Arktyki z wyborem akcesoriów. Pokonuj lodową pustynię, bawiąc się zestawem Arktyczny łazik lodowy z serii LEGO® City, w którym znajdziesz minifigurkę badacza Arktyki oraz pojazd z obrotowym żurawiem, radarem i anteną.
 
+**Galeria:**
+
+- 60033-1: https://a.allegroimg.com/original/009ce2/6b2a478a463b82d137de2298c6e4
+
 ---
 
-## 60034 — Lego City 60034 Arktyczny helikopter dźwigowy
+## 60034 — Arktyczny helikopter dźwigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 557.87 zł · EAN: 05702015119269 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60034 |
+| Nazwa angielska | Arctic Helicrane |
+| Nazwa polska | Arktyczny helikopter dźwigowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119269 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3026,11 +4953,27 @@ Zapewnij powietrzne wsparcie ekspedycji naukowej za pomocą arktycznego helikopt
 - arktyczny helikopter dźwigowy (wys./dł./szer.): 17x36x31 cm 
 - psi zaprzęg: 16x4x2 cm
 
+**Galeria:**
+
+- 60034-1: https://a.allegroimg.com/original/0555ae/3b692de44381b4dd3a4f7d925511
+
 ---
 
-## 60035 — Lego City 60035 Mobilna Jednostka Arktyczna
+## 60035 — Mobilna Jednostka Arktyczna
 
-*Kategoria: City · cena Allegro (2026-08-17): 610.26 zł · EAN: 05702015119276 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60035 |
+| Nazwa angielska | Arctic Outpost |
+| Nazwa polska | Mobilna Jednostka Arktyczna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119276 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3052,11 +4995,27 @@ PACZKI .
 
 **Mobilna jednostka arktyczna z serii LEGO® City umożliwia dotarcie w odległe zakątki oraz zbadanie w profesjonalnym laboratorium ukrytych w lodzie tajemnic! Potężny silnik i wielkie opony ciężarówki sprawiają, że potrafi ona sobie poradzić nawet z najcięższym terenem. Wyjmij z bagażnika skrzynkę z narzędziami, a potem zdejmij ze ścianek pojazdu klucz oraz piłę tarczową. Otwórz odłączane mobilne laboratorium, aby odsłonić imponujący zestaw instrumentów, obejmujący m.in. mikroskop i ekrany komputerowe. Cały ten sprzęt pomoże badaczom w szukaniu tajemnic ukrytych w lodzie. Przetnij za pomocą piły łańcuchowej lodową bryłę i przyczep ją łańcuchem do quada, który zawiezie znalezisko do placówki. Następnie uruchom żuraw, aby przenieść lód do laboratorium i poddać go testom. W zestawie 3 minifigurki badaczy Arktyki z akcesoriami.**
 
+**Galeria:**
+
+- 60035-1: https://a.allegroimg.com/original/11f51c/f8c774f040ad8ff993e0ca2fd4d8
+
 ---
 
-## 60036 — Lego City Zestaw Arktyczna Baza 60036
+## 60036 — Arktyczna baza
 
-*Kategoria: City · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015119283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60036 |
+| Nazwa angielska | Arctic Base Camp |
+| Nazwa polska | Arktyczna baza |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 735 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119283 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3074,11 +5033,27 @@ PACZKI .
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60036-1: https://a.allegroimg.com/original/03e77c/c5c9d89c4378b4521b561d64a0fe
+
 ---
 
-## 60041 — Lego City 60041 Pościg za przestępcą Nowe
+## 60041 — Pościg za przestępcą L
 
-*Kategoria: City · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702015115445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60041 |
+| Nazwa angielska | Crook Pursuit |
+| Nazwa polska | Pościg za przestępcą L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115445 |
 
 WITAM SERDECZNIE.
 
@@ -3090,11 +5065,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60041-1: https://a.allegroimg.com/original/114321/64e3ba904fdd9b58112b42e0c958
+
 ---
 
-## 60043 — Lego City 60043 Furgonetka policyjna
+## 60043 — Furgonetka policyjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702015115469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60043 |
+| Nazwa angielska | Prisoner Transporter |
+| Nazwa polska | Furgonetka policyjna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115469 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3113,11 +5104,27 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60043-1: https://a.allegroimg.com/original/11df6d/7dcf38724733b3348122d573cc82
+
 ---
 
-## 60044 — Lego City Mobilna jednostka policji 60044 Unikat
+## 60044 — Mobilna jednostka policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 779.99 zł · EAN: 05702015139182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60044 |
+| Nazwa angielska | Mobile Police Unit |
+| Nazwa polska | Mobilna jednostka policji |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 7 cm |
+| EAN | 5702015115575, 5702015139182 |
 
 Zestaw LEGO 60044 Mobilna jednostka policji
 
@@ -3132,11 +5139,28 @@ Ustaw mobilną jednostkę policji w odpowiedniej lokalizacji, ustaw tarczę odbi
 - Schwytaj złoczyńcę i zamknij go w areszcie.
 - Mobilna jednostka policji ma ok. 16 cm wysokości, 30 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 60044-1: https://a.allegroimg.com/original/11c02c/c6449167486096ebee01aac4790b
+- 60044-2: https://a.allegroimg.com/original/115090/d7f0c2bc458cb5f89fdac8fea4c1
+
 ---
 
-## 60045 — Lego City 60045 Patrol policyjny L
+## 60045 — Patrol policyjny L
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015115582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60045 |
+| Nazwa angielska | Police Patrol |
+| Nazwa polska | Patrol policyjny L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 408 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115582 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3162,11 +5186,27 @@ Ustaw mobilną jednostkę policji w odpowiedniej lokalizacji, ustaw tarczę odbi
 
 Złoczyńca ucieka z pieniędzmi w pontonie! Ruszaj do akcji w wozie policyjnym i wyśledź go przy użyciu mobilnej stacji wywiadowczej. Odłącz przyczepę, przekręć kołowrót i spuść na wodę ponton policyjny, a potem ruszaj w pościg. Schwytaj złoczyńcę zanim dotrze do swojej kryjówki w latarni morskiej i ukryje łup pod deskami! Zestaw zawiera 3 minifigurki z wyborem dodatków: 2 policjantów i złoczyńcę.Zestaw klocków LEGO® City Patrol policyjny został zaprezentowany w 2014 roku i składa się z 408 klocków LEGO®. W opakowaniu znajdziesz 3 minifigurki. Klocki przeznaczone są dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 60045-1: https://a.allegroimg.com/original/0586f6/0c23d5504e9a94e702866bbb8549
+
 ---
 
-## 60046 — Klocki Lego City Zestaw Helikopter zwiadowczy Policji 60046
+## 60046 — Helikopter zwiadowczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702015115599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60046 |
+| Nazwa angielska | Helicopter Surveillance |
+| Nazwa polska | Helikopter zwiadowczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 45 cm × gł. 16 cm |
+| EAN | 5702015115599 |
 
 KLOCKI LEGO CITY 60046 HELIKOPTER POLICYJNY
 
@@ -3208,11 +5248,27 @@ Zestaw zawiera 5 minifigurek z wyborem dodatków: 3 policjantów i 2 złoczyńc�
 
 • Odszukaj właz, aby uciec przez dach.
 
+**Galeria:**
+
+- 60046-1: https://b.allegroimg.com/original/0395de/cf0569a54752a42f4bb1be2f5bfb
+
 ---
 
-## 60047 — Klocki Lego City Zestaw Komisariat Posterunek policji Helikopter 60047
+## 60047 — Posterunek policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702015115605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60047 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 854 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 45 cm × gł. 16 cm |
+| EAN | 5702015115605 |
 
 LEGO City, Posterunek policji, 60047
 
@@ -3236,21 +5292,53 @@ Włącz alarm na posterunku policji! Wóz holowniczy wyrwał okno do celi, pozwa
 - Motocykl policyjny ma ok. 7 cm wysokości, 6 cm długości i 4 cm szerokości.
 - Wóz holowniczy złoczyńców ma ok. 6 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60047-1: https://7.allegroimg.com/original/00eec5/3f746dd849db9e3bf38435109857
+
 ---
 
-## 60048 — Lego City 60048 Oddział policyjny z psem
+## 60048 — Oddział policyjny z psem
 
-*Kategoria: City · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702015115612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60048 |
+| Nazwa angielska | Police Dog Unit |
+| Nazwa polska | Oddział policyjny z psem |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115612 |
 
 Zestaw LEGO® 60048 “Police Dog Unit” z serii City wydany w 2014 roku zawiera 249 elementów. Ten policyjny zestaw obejmuje pojazd terenowy z psami policyjnymi, hot rod przestępców, kryjówkę z peryskopem oraz 3 minifigurki (policjant i 2 złodzieje) ze skradzionymi dobrami.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 60048-1: https://a.allegroimg.com/original/11aadb/2d55cc264fcc8c9dffeba856ab0e
+
 ---
 
-## 60050 — Lego City 60050 Dworzec kolejowy wgniotki
+## 60050 — Dworzec kolejowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 704.00 zł · EAN: 05702015119313 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60050 |
+| Nazwa angielska | Train Station |
+| Nazwa polska | Dworzec kolejowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 423 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 50 cm × gł. 21 cm |
+| EAN | 5702015119313 |
 
 Wgniotki na opakowaniu
 
@@ -3268,11 +5356,27 @@ Pojedź taksówką w miejsce, które nigdy nie zasypia — na ruchliwy dworzec k
 - Usiądź na peronie i poczytaj gazetę 
 - Wymiary dworca kolejowego: 13 cm wysokości, 50 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 60050-1: https://a.allegroimg.com/original/00d7a2/68796ada4fd1866903b4c805aa78
+
 ---
 
-## 60051 — Lego City Zestaw Zdalnie Sterowany Rc Superszybki pociąg pasażerski 60051
+## 60051 — Superszybki pociąg pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 1349.99 zł · EAN: 05702015119320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60051 |
+| Nazwa angielska | High-Speed Passenger Train |
+| Nazwa polska | Superszybki pociąg pasażerski |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 610 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 5 cm × gł. 27 cm |
+| EAN | 5702015119320 |
 
 - Poruszaj się po mieście z błyskawiczną prędkością w zasilanym szybkim pociągu pasażerskim z serii LEGO® City. Korzystaj z 8-kanałowego, 7-biegowego pilota na podczerwień, aby z maksymalną prędkością poprowadzić pociąg po łukowatych torach. Super wydajny pociąg ma opływowy kształt, aerodynamiczny przód oraz odbieraki prądu zamocowane na dachu. Podnieś dach lokomotywy i posadź maszynistę za efektowną konsolą. Otwórz wagony pasażerskie, aby uzyskać dostęp do siedzeń i stolików. Poczekaj z podróżnym na stacji, a kiedy pociąg odjedzie pomóż rowerzyście bezpiecznie przejechać na drugą stronę torów. W zestawie 3 minifigurki: maszynista, podróżny i rowerzysta. 
 
@@ -3302,11 +5406,27 @@ Pojedź taksówką w miejsce, które nigdy nie zasypia — na ruchliwy dworzec k
 - Każdy z prostych odcinków torów kolejowych ma 13 cm długości i 6 cm szerokości 
 - Wymiary stacji: 7 cm wysokości, 19 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 60051-1: https://a.allegroimg.com/original/051779/639106e04b4d905de6dfa73d0198
+
 ---
 
-## 60052 — Lego City 60052 Pociąg towarowy
+## 60052 — Pociąg towarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1629.99 zł · EAN: 05702015119337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60052 |
+| Nazwa angielska | Cargo Train |
+| Nazwa polska | Pociąg towarowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 888 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119337 |
 
 **LEGO 60052 City - Pociąg Towarowy**
 
@@ -3360,11 +5480,27 @@ Steruj pociągiem towarowym za pomocą 7-biegowego pilota na podczerwień wyprze
 
 Polecam
 
+**Galeria:**
+
+- 60052-1: https://c.allegroimg.com/original/00d1c0/79ce7fcf406ba173904984e593ec
+
 ---
 
-## 60053 — Lego City 60053 Samochód Wyścigowy Kierowca Puchar
+## 60053 — Samochód Wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702015094023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60053 |
+| Nazwa angielska | Race Car |
+| Nazwa polska | Samochód Wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702015094023 |
 
 LEGO CITY 60053 Samochód Wyścigowy
 
@@ -3389,11 +5525,27 @@ Superszybki samochód wyścigowy wyprzedzi każdego rajdowca!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60053-1: https://a.allegroimg.com/original/11810c/6d8b3ab44da4a8783d77f093f1b0
+
 ---
 
-## 60054 — Lego 60054 City Samochód naprawczy L
+## 60054 — Samochód naprawczy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015094030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60054 |
+| Nazwa angielska | Light Repair Truck |
+| Nazwa polska | Samochód naprawczy L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015094030 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3403,11 +5555,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 60054-1: https://a.allegroimg.com/original/114ce4/25d5cd184c8fbebaecbba17d630f
+
 ---
 
-## 60055 — Lego City 60055 Monster Truck cieżarówka pickup terenówka Unikat
+## 60055 — Monster Truck
 
-*Kategoria: City · cena Allegro (2026-08-17): 169.50 zł · EAN: 05702015094047 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60055 |
+| Nazwa angielska | Monster Truck |
+| Nazwa polska | Monster Truck |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015094047 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -3419,11 +5587,27 @@ cieżarówka - pickup - terenówka - UNIKAT
 
 Unikat z roku 2014 - pudełko jest delikatnie pogniecione - dwa ostatnie zdjęcia przedstawiają sprzedawany zestaw
 
+**Galeria:**
+
+- 60055-1: https://a.allegroimg.com/original/113bbe/f8c714934d61b2d413ef7c4c9b53
+
 ---
 
-## 60058 — Lego City 60058 Terenówka ze ślizgaczem
+## 60058 — Terenówka ze ślizgaczem L
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015115643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60058 |
+| Nazwa angielska | SUV with Watercraft |
+| Nazwa polska | Terenówka ze ślizgaczem L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115643 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3433,11 +5617,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 60058-1: https://a.allegroimg.com/original/11e737/f5bfd67f48eea4a0836581ec3f8a
+
 ---
 
-## 60059 — Lego City 60059 Ciężarówka do transp. drewna L
+## 60059 — Ciężarówka do transp. drewna L
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015115650 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60059 |
+| Nazwa angielska | Logging Truck |
+| Nazwa polska | Ciężarówka do transp. drewna L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702015115650 |
 
 LEGO City 60059 Logging Truck (Ciężarówka do transportu drewna). Zestaw jest z 2014 roku i nie jest już produkowany. To prawdziwy unikat, z całą odpowiedzialnością można rzec, iż jest to biały kruk. Nowe zestawy 60059 na rynku to dziś rzadkość, występują bardzo sporadycznie.
  
@@ -3491,11 +5691,27 @@ Opisy LEGO® są jasno opisane.
  
 Jestem osobą fizyczną, a sprzedawane przeze mnie zestawy są moją własnością dłużej niż 6 miesięcy. Sprzedaż na zasadzie wymiany kolekcjonerskiej – likwiduję swoją kolekcję LEGO®.
 
+**Galeria:**
+
+- 60059-1: https://a.allegroimg.com/original/05dc5b/13c56097481586854fce22442b0b
+
 ---
 
-## 60060 — Lego City 60060 Transporter samochodów
+## 60060 — Transporter samochodów
 
-*Kategoria: City · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702015119221 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60060 |
+| Nazwa angielska | Auto Transporter |
+| Nazwa polska | Transporter samochodów |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702015119221 |
 
 Klocki LEGO City 60060 - Transporter Samochodów.
 
@@ -3547,11 +5763,27 @@ LEGO® 60060 City - Transporter Samochodów
 
 **Czysta metka na pudełku zasłania archiwalną już cenę, aby nie drażnić rekina (finansowego ;)**
 
+**Galeria:**
+
+- 60060-1: https://a.allegroimg.com/original/114b21/2d649a9043209132ecf0406b21cc
+
 ---
 
-## 60061 — Lego City 60061 Lotniskowy wóz strażacki
+## 60061 — Lotniskowy wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702015119238 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60061 |
+| Nazwa angielska | Airport Fire Truck |
+| Nazwa polska | Lotniskowy wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 326 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702015119238 |
 
 Klocki LEGO 60061 Lotniskowy wóz strażacki
  
@@ -3579,11 +5811,27 @@ Rozwiń wąż pożarniczy, aby skierować więcej wody na płomienie.
 
 Akcesoria: 2 realistyczne elementy przedstawiające wodę, aparat tlenowy, szlifierka kątowa i topór.
 
+**Galeria:**
+
+- 60061-1: https://a.allegroimg.com/original/11d262/3a227492486f8ea6f78ee02f3ffb
+
 ---
 
-## 60064 — Klocki Lego City Zestaw Arktyczny Samolot Dostawczy Cargo 60064
+## 60064 — Arktyczny samolot dostawczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015119306 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60064 |
+| Nazwa angielska | Arctic Supply Plane |
+| Nazwa polska | Arktyczny samolot dostawczy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119306 |
 
 LEGO City Arktyczny Samolot Dostawczy Cargo (60064): Szczegółowy Opis
 
@@ -3634,11 +5882,27 @@ W skład zestawu wchodzą **trzy minifigurki**, które reprezentują zespół ar
 
 Minifigurki są szczegółowo wykonane, z nadrukami oddającymi detale strojów i wyposażenia.
 
+**Galeria:**
+
+- 60064-1: https://a.allegroimg.com/original/11406b/9492f1f742f39fe687a6aade76dd
+
 ---
 
-## 60065 — Lego City 60065 Patrolowy quad Unikat Nowy 2015 Rok!
+## 60065 — Patrolowy quad 
 
-*Kategoria: City · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702015350242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60065 |
+| Nazwa angielska | ATV Patrol |
+| Nazwa polska | Patrolowy quad  |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702015350242 |
 
 Zestaw zawiera 58 elementy, aby skonstruować scenę pościgu złoczyńcy ukrytego na bagnach.
 
@@ -3654,11 +5918,27 @@ Pudełko jest zaplombowane fabrycznie. Proszę zanalizować zdjęcia.
 
 RZECZYWISTE ZDJĘCIE ZESTAWU PONIŻEJ, DLA PORÓWNIANIA WIELKOŚCI OBOK DŁONI.
 
+**Galeria:**
+
+- 60065-1: https://4.allegroimg.com/original/050216/e923da394313b1915aed1976e994
+
 ---
 
-## 60066 — Lego 60066 City Policja wodna zestaw startowy
+## 60066 — Policja z bagien startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 159.90 zł · EAN: 05702015350259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60066 |
+| Nazwa angielska | Swamp Police Starter Set |
+| Nazwa polska | Policja z bagien startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702015350259 |
 
 LEGO 60066 City - Policja wodna - zestaw startowy
 
@@ -3676,11 +5956,27 @@ Ratunku! Złoczyńcy uciekają na tratwie wypełnionej po brzegi zrabowanymi tow
 
 - Wymiary quada: 5 cm wysokości, 8 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 60066-1: https://a.allegroimg.com/original/458e44/ff8a56514830bbddbab9d0e24e2b
+
 ---
 
-## 60068 — Klocki Lego City Zestaw Kryjówka rabusiów 60068
+## 60068 — Kryjówka rabusiów
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015350570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60068 |
+| Nazwa angielska | Crooks' Hideout |
+| Nazwa polska | Kryjówka rabusiów |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 473 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm × gł. 13 cm |
+| EAN | 5702015350570 |
 
 Klocki LEGO City 60068 - Kryjówka rabusiów
 
@@ -3706,11 +6002,27 @@ Wymiary policyjnego pontonu: 9cm długości, 5cm szerokości i 2cm wysokości
 
 Wymiary motorówki złoczyńców: 8cm wysokości, 16cm długości i 7cm szerokości
 
+**Galeria:**
+
+- 60068-1: https://a.allegroimg.com/original/05aa8f/deed775a4de5ae62d4488ccfcee3
+
 ---
 
-## 60069 — Lego City 60069 Posterunek policji z bagien
+## 60069 — Posterunek policji z bagien
 
-*Kategoria: City · cena Allegro (2026-08-17): 658.77 zł · EAN: 05702015350587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60069 |
+| Nazwa angielska | Swamp Police Station |
+| Nazwa polska | Posterunek policji z bagien |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 707 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 39 cm × gł. 25 cm |
+| EAN | 5702015350587 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3766,11 +6078,27 @@ Wiek 6 -12 lat
 
 Ilość elementów: 707
 
+**Galeria:**
+
+- 60069-1: https://a.allegroimg.com/original/00460a/81e0e895450b923e06b513233fc0
+
 ---
 
-## 60070 — Lego City 60070 Pościg hydroplanem
+## 60070 — Klocki Pościg hydroplanem L
 
-*Kategoria: City · cena Allegro (2026-08-17): 284.27 zł · EAN: 05702015350594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60070 |
+| Nazwa angielska | Water Plane Chase |
+| Nazwa polska | Klocki Pościg hydroplanem L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 263 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702015350594 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3803,11 +6131,27 @@ Ziuuu! Złoczyńca próbuje uciec w potężnym samochodzie terenowym, ale policj
 - Wymiary policyjnego hydroplanu: 8cm wysokości, 20cm długości i 20cm szerokości
 - Wymiary samochodu terenowego złoczyńcy: 7cm wysokości, 13cm długości i 6cm szerokości
 
+**Galeria:**
+
+- 60070-1: https://a.allegroimg.com/original/051d81/a1b62a0b49399eca56986ae0c25e
+
 ---
 
-## 60071 — Lego City 60071 Wielkie zatrzymanie
+## 60071 — Wielkie zatrzymanie
 
-*Kategoria: City · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702015350600 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60071 |
+| Nazwa angielska | Hovercraft Arrest |
+| Nazwa polska | Wielkie zatrzymanie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 331 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm × gł. 13 cm |
+| EAN | 5702015350600 |
 
 Polecamy Państwu Nowy Zestaw z serii LEGO CITY POLICJA:
  
@@ -3855,11 +6199,27 @@ WIELKIE ZATRZYMANIE
 
 GALERIA
 
+**Galeria:**
+
+- 60071-1: https://c.allegroimg.com/original/00c640/c380c17f4e618030dfb0b97bb53c
+
 ---
 
-## 60072 — Lego City 60072 Wyburzanie startowy
+## 60072 — Wyburzanie startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 135.83 zł · EAN: 05702015349840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60072 |
+| Nazwa angielska | Demolition Starter Set |
+| Nazwa polska | Wyburzanie startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm |
+| EAN | 5702015349840 |
 
 LEGO® 60072 City - Wyburzanie - zestaw startowy
 
@@ -3939,11 +6299,27 @@ Specyfikacja zestawu LEGO 60072
 - **Waga opakowania (g):** 130 (0,13kg) 
 - **Wymiary złożonego zestawu (cm):** -
 
+**Galeria:**
+
+- 60072-1: https://a.allegroimg.com/original/1147ac/fdaf09fa401c921d8769e38bba54
+
 ---
 
-## 60074 — Lego City 60074 Buldożer
+## 60074 — Buldożer
 
-*Kategoria: City · cena Allegro (2026-08-17): 387.11 zł · EAN: 05702015349857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60074 |
+| Nazwa angielska | Bulldozer |
+| Nazwa polska | Buldożer |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 384 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 11 cm |
+| EAN | 5702015349857 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3987,11 +6363,27 @@ W zestawie 2 minifigurki robotników wyburzeniowych (mężczyzna i kobieta) wraz
 
 **Wiek:** 6-12
 
+**Galeria:**
+
+- 60074-1: https://a.allegroimg.com/original/06fb69/9460473549eebfbefe3c3bf48091
+
 ---
 
-## 60075 — Lego City 60075 Koparka i ciężarówka
+## 60075 — Koparka i ciężarówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015349864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60075 |
+| Nazwa angielska | Excavator and Truck |
+| Nazwa polska | Koparka i ciężarówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 6 cm × gł. 17 cm |
+| EAN | 5702015349864 |
 
 Klocki LEGO 60075 City - Koparka i ciężarówka
 
@@ -4030,11 +6422,27 @@ Specyfikacja zestawu LEGO 60075
 - Opakowanie: pudełko kartonowe 
 - Waga opakowania (g) 700 (0,7kg)
 
+**Galeria:**
+
+- 60075-1: https://3.allegroimg.com/original/00faf6/77dc266f4f4e8933b5b81a96cde3
+
 ---
 
-## 60076 — Klocki Lego City Plac Budowy Rozbiórka Koparka Wyburzacz 60076
+## 60076 — Rozbiórka
 
-*Kategoria: City · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702015350174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60076 |
+| Nazwa angielska | Demolition Site |
+| Nazwa polska | Rozbiórka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 776 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 11 cm × gł. 19 cm |
+| EAN | 5702015350174 |
 
 Klocki LEGO City 60076 - Rozbiórka
 
@@ -4060,11 +6468,27 @@ Wymiary ładowarki: 9 cm wysokości, 19 cm długości i 7 cm szerokości
 
 Wymiary wywrotki: 7 cm wysokości, 13 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60076-1: https://a.allegroimg.com/original/00f9ff/a998985b4a7694154fa0adb4d53a
+
 ---
 
-## 60078 — Lego City 60078 Miniprom kosmiczny
+## 60078 — Miniprom kosmiczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015349819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60078 |
+| Nazwa angielska | Utility Shuttle |
+| Nazwa polska | Miniprom kosmiczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015349819 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4082,11 +6506,27 @@ Wymiary wywrotki: 7 cm wysokości, 13 cm długości i 6 cm szerokości
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60078-1: https://a.allegroimg.com/original/004f4c/0862f7d945aa8bd35e191170b456
+
 ---
 
-## 60079 — Lego City 60079 Transporter odrzutowca
+## 60079 — Transporter odrzutowca
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702015349826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60079 |
+| Nazwa angielska | Training Jet Transporter |
+| Nazwa polska | Transporter odrzutowca |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 448 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm × gł. 39 cm |
+| EAN | 5702015349826 |
 
 **LEGO CITY 60079**
  
@@ -4132,11 +6572,27 @@ Kategoria wiekowa: 5-12 lat.
  
 **38 cm * 26 cm * 7 cm ***
 
+**Galeria:**
+
+- 60079-1: https://a.allegroimg.com/original/030427/6cfd20b94e08800b6edc5034f588
+
 ---
 
-## 60080 — Lego City 60080 Kosmodrom
+## 60080 — LEGO City 60080 - Kosmodrom
 
-*Kategoria: City · cena Allegro (2026-08-17): 1395.97 zł · EAN: 05702015349833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60080 |
+| Nazwa angielska | Spaceport |
+| Nazwa polska | LEGO City 60080 - Kosmodrom |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 586 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 19 cm × gł. 28 cm |
+| EAN | 5702015349833 |
 
 LEGO City 60080 - Kosmodrom
 
@@ -4197,11 +6653,27 @@ Zestaw LEGO City - Kosmodrom trafił do sprzedaży w 2015 roku.
 
 **Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 60080-1: https://a.allegroimg.com/original/11cdc5/4f9265424967a18802a0c9742f3c
+
 ---
 
-## 60081 — Lego City 60081 Samochód pomocy drogowej Nowy Zestaw Unikat
+## 60081 — Samochód pomocy drogowej
 
-*Kategoria: City · cena Allegro (2026-08-17): 298.99 zł · EAN: 05702015350198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60081 |
+| Nazwa angielska | Pickup Tow Truck |
+| Nazwa polska | Samochód pomocy drogowej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm × gł. 11 cm |
+| EAN | 5702015350198 |
 
 - **NOWY ZESTAW ORYGINALNIE ZAPAKOWANY LEGO.**
 - **SUPER PREZENT DLA KOLEKCJONERA.**
@@ -4217,11 +6689,27 @@ O nie… samochód się zepsuł! Oto zadanie dla pomocy drogowej LEGO® City! Ws
 - Wymiary ciężarówki: 10 cm wysokości, 19 cm długości i 6 cm szerokości 
 - Wymiary samochodu: 4 cm wysokości, 11 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 60081-1: https://a.allegroimg.com/original/11c531/77fe3c204e16981d1506520d9a96
+
 ---
 
-## 60082 — Lego 60082 City Mała terenówka z przyczepką
+## 60082 — Mała terenówka z przyczepką
 
-*Kategoria: City · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702015350204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60082 |
+| Nazwa angielska | Dune Buggy Trailer |
+| Nazwa polska | Mała terenówka z przyczepką |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702015350204 |
 
 LEGO 60082 City - Mała terenówka z przyczepką
 
@@ -4241,11 +6729,27 @@ Wybierz się łazikiem na przejażdżkę po plaży LEGO® City! Nowy łazik już
 - Wymiary przyczepy (z podniesioną rampą): 14cm długości
 - Wymiary łazika: 4cm wysokości, 9cm długości i 5cm szerokości
 
+**Galeria:**
+
+- 60082-1: https://a.allegroimg.com/original/4506b1/12cbe74a461188d9c502f709c945
+
 ---
 
-## 60083 — Lego City 60083 Pług śnieżny
+## 60083 — Pług śnieżny
 
-*Kategoria: City · cena Allegro (2026-08-17): 322.11 zł · EAN: 05702015350211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60083 |
+| Nazwa angielska | Snowplow Truck |
+| Nazwa polska | Pług śnieżny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350211 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4278,11 +6782,27 @@ LEGO City 60083 - Pług śnieżny
 - Włącz funkcję sypania soli 
 - Przebij się przez grubą warstwę śniegu!
 
+**Galeria:**
+
+- 60083-1: https://a.allegroimg.com/original/0037f4/a267f1194f548ec4c9fa5c310db6
+
 ---
 
-## 60084 — Lego City 60084 Transporter motocykli
+## 60084 — Transporter motocykli
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015350228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60084 |
+| Nazwa angielska | Racing Bike Transporter |
+| Nazwa polska | Transporter motocykli |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350228 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4306,11 +6826,27 @@ Klocki nowe, zapakowane w oryginalne pudełko, nie otwierane.
 
 Ekipa motocyklistów LEGO® City rusza na stadion, gdzie odbędzie się ostatni wyścig motocyklowych mistrzostw! Dołącz do najlepszych z najlepszych w niesamowitym transporterze motocykli z niezwykle szybkimi maszynami na pokładzie. Po dotarciu na stadion pomóż w zdejmowaniu motocykli i ruszaj na tor. Widownia szaleje — to będzie wyjątkowy wyścig! Kto zajmie najwyższe miejsce na podium i wróci do domu z trofeum? W zestawie 2 minifigurki motocyklistów wraz z akcesoriami.
 
+**Galeria:**
+
+- 60084-1: https://a.allegroimg.com/original/11c80a/952bfd0d4dc4a76c95f7c3f7c6af
+
 ---
 
-## 60085 — Lego City 60085 Terenówka z motorówką
+## 60085 — Terenówka z motorówką
 
-*Kategoria: City · cena Allegro (2026-08-17): 519.00 zł · EAN: 05702015350235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60085 |
+| Nazwa angielska | 4x4 with Powerboat |
+| Nazwa polska | Terenówka z motorówką |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm × gł. 28 cm |
+| EAN | 5702015350235 |
 
 Lego City
 
@@ -4351,11 +6887,27 @@ Informacje Dodatkowe
  
 Możliwość dowiezienia klocków w sobotę i niedziele po uzgodnieniu terminu.
 
+**Galeria:**
+
+- 60085-1: https://a.allegroimg.com/original/11f5ea/9f453a0f45d3a4a923df338c6b65
+
 ---
 
-## 60086 — Lego City 60086 Zestaw startowy
+## 60086 — startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 290.09 zł · EAN: 05702015350884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60086 |
+| Nazwa angielska | City Starter Set |
+| Nazwa polska | startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 242 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm × gł. 7 cm |
+| EAN | 5702015350884 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4419,11 +6971,27 @@ Brrrrmmm… bum! Złoczyńca z plecakiem pełnym łupów próbuje uciec w swojej
  
 • Wymiary motorówki: 9 cm długości, 5 cm szerokości i 2 cm wysokości
 
+**Galeria:**
+
+- 60086-1: https://a.allegroimg.com/original/036656/df431e374ce698504df09e054afa
+
 ---
 
-## 60088 — Lego 60088 City Strażacy zestaw startowy
+## 60088 — Strażacy startowy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702015350181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60088 |
+| Nazwa angielska | Fire Starter Set |
+| Nazwa polska | Strażacy startowy L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350181 |
 
 Lego 60088 CITY Strażacy zestaw startowy
 
@@ -4439,11 +7007,27 @@ Wymiary op. 15,7x14x4,4 cm
 
 Skala 92 EL
 
+**Galeria:**
+
+- 60088-1: https://a.allegroimg.com/original/036a98/4cbdacc8497c879a748f7bde1c66
+
 ---
 
-## 60091 — Lego 60091 City Podwodny świat zestaw startowy
+## 60091 — Morskie głębiny startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.90 zł · EAN: 05702015350624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60091 |
+| Nazwa angielska | Deep Sea Starter Set |
+| Nazwa polska | Morskie głębiny startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350624 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -4456,11 +7040,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60091-1: https://a.allegroimg.com/original/11efc2/9b42815b4a45a8c55ac884953327
+
 ---
 
-## 60092 — Lego City 60092 Łódź głębinowa Nowe
+## 60092 — Łódź głębinowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 479.99 zł · EAN: 05702015350631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60092 |
+| Nazwa angielska | Deep Sea Submarine |
+| Nazwa polska | Łódź głębinowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm |
+| EAN | 5702015350631 |
 
 LEGO City - 60092 Łódź głębinowa - Nowe
 
@@ -4490,11 +7090,27 @@ Poznaj sekrety oceanu za pomocą łodzi głębinowej! Badacze dna morskiego LEGO
 
 - Łódź głębinowa ma ponad 9 cm wysokości, 19 cm długości i 11 cm szerokości
 
+**Galeria:**
+
+- 60092-1: https://a.allegroimg.com/original/115022/1b0eb1234113aa35d9d993399b07
+
 ---
 
-## 60093 — Lego City 60093 Helikopter badaczy Nowe
+## 60093 — Helikopter badaczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702015350648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60093 |
+| Nazwa angielska | Deep Sea Helicopter |
+| Nazwa polska | Helikopter badaczy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 12 cm |
+| EAN | 5702015350648 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4517,11 +7133,27 @@ Uwaga! Badacze dna morskiego w łodzi głębinowej są atakowani przez rekina i 
 - Helikopter ma ponad 12 cm wysokości, 24 cm długości i 8 cm szerokości 
 - Łódź głębinowa ma ponad 6 cm wysokości, 12 cm długości i 10 cm szerokości
 
+**Galeria:**
+
+- 60093-1: https://a.allegroimg.com/original/11efcf/9d634c2f4da996b28eb553565740
+
 ---
 
-## 60095 — Klocki Lego City Zestaw Statek do badań głębinowych 60095
+## 60095 — Statek do badań głębinowych
 
-*Kategoria: City · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015350655 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60095 |
+| Nazwa angielska | Deep Sea Exploration Vessel |
+| Nazwa polska | Statek do badań głębinowych |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 18 cm × gł. 28 cm |
+| EAN | 5702015350655 |
 
 Lego City Statek do badań głębinowych 60095
 
@@ -4585,11 +7217,27 @@ Wymiary:
  
 - klatka przeciw rekinom ma ponad 8 cm wysokości, 5 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60095-1: https://a.allegroimg.com/original/119333/73cf069a4651b02cfe0767688cb7
+
 ---
 
-## 60096 — Lego City 60096 Głębinowa baza L Nowe
+## 60096 — Głębinowa baza L
 
-*Kategoria: City · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015350877 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60096 |
+| Nazwa angielska | Deep Sea Operation Base |
+| Nazwa polska | Głębinowa baza L |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 907 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015350877 |
 
 WITAM SERDECZNIE.
 
@@ -4601,11 +7249,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60096-1: https://a.allegroimg.com/original/1193e3/50072f644b6190c26e0331f1f3a7
+
 ---
 
-## 60097 — Lego City 60097 Zestaw Plac miejski Tramwaj Helikopter Auta Laweta Sklep
+## 60097 — Plac miejski
 
-*Kategoria: City · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702015350891 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60097 |
+| Nazwa angielska | City Square |
+| Nazwa polska | Plac miejski |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1683 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm × gł. 10 cm |
+| EAN | 5702015350891 |
 
 LEGO City 60097 Plac miejski
  
@@ -4629,11 +7293,27 @@ Wiek 6-12 lat
  
 Ilość elementów: 1683
 
+**Galeria:**
+
+- 60097-1: https://a.allegroimg.com/original/058342/f34f65d34cf1afd56c959c09175f
+
 ---
 
-## 60098 — Lego City 60098 HeavyHaul Train Pociąg towarowy
+## 60098 — Heavy Haul Train
 
-*Kategoria: City · cena Allegro (2026-08-17): 1849.00 zł · EAN: 05702015350914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60098 |
+| Nazwa angielska | Heavy-Haul Train |
+| Nazwa polska | Heavy Haul Train |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 984 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm × gł. 28 cm |
+| EAN | 5702015350914 |
 
 - 5 minifigurek z różnymi akcesoriami: maszynista, technik, spawacz, operator dźwigu i kierowca koparki
 - Pociąg towarowy zawiera zasilaną lokomotywę z 8-kanałowym, 7-biegowym pilotem, węglarkę, 2 platformy, helikopter, koparkę i dźwig
@@ -4660,11 +7340,27 @@ Ilość elementów: 1683
 - Łukowate odcinki torów mają ponad 14 cm długości i 6 cm szerokości
 - Proste odcinki torów mają ponad 13 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60098-1: https://a.allegroimg.com/original/11b8d3/3b264460477bacee6c425efbd12f
+
 ---
 
-## 60100 — Lego 60100 City Lotnisko zestaw startowy Klocki Helikopter Latanie Nowe
+## 60100 — Lotnisko startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 234.31 zł · EAN: 00673419247351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60100 |
+| Nazwa angielska | Airport Starter Set |
+| Nazwa polska | Lotnisko startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 4 cm |
+| EAN | 5702015590556, 673419247351 |
 
 LEGO 60100 City - Lotnisko - zestaw startowy
 
@@ -4700,11 +7396,28 @@ Dołącz do pracowników poczty z LEGO® City — zestaw zawiera helikopter z ob
 
 - Skrzynka pocztowa ma ok. 3 cm wysokości.
 
+**Galeria:**
+
+- 60100-1: https://a.allegroimg.com/original/110310/17f31de24f0fb91cd7f8f8ae066e
+- 60100-2: https://a.allegroimg.com/original/11261e/03604dce40478274c471c6c58cde
+
 ---
 
-## 60101 — Klocki Lego City Zestaw Samolot transportowy 60101
+## 60101 — Samolot transportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 460.00 zł · EAN: 05702015590563 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60101 |
+| Nazwa angielska | Airport Cargo Plane |
+| Nazwa polska | Samolot transportowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702015590563 |
 
 Klocki LEGO City Zestaw Samolot transportowy 60101
 
@@ -4734,11 +7447,27 @@ Samolot transportowy ma ok. 10 cm wysokości, 24 cm długości i 27 cm rozpięto
 
 Pojazd obsługi lotniska ma ok. 4 cm wysokości, 6 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 60101-1: https://a.allegroimg.com/original/05b881/314da56c46ba85c76d378fc757a9
+
 ---
 
-## 60102 — Lego City 60102 Lotnisko obsługa Vip Nowe
+## 60102 — Lotnisko obsługa VIP ów
 
-*Kategoria: City · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702015591676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60102 |
+| Nazwa angielska | Airport VIP Service |
+| Nazwa polska | Lotnisko obsługa VIP ów |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591676 |
 
 WITAM SERDECZNIE.
 
@@ -4750,11 +7479,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60102-1: https://a.allegroimg.com/original/1160b3/eb18fba540368b0e100cccb76fd8
+
 ---
 
-## 60103 — Lego City 60103 Pokazy lotnicze Nowe
+## 60103 — Pokazy lotnicze
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015591706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60103 |
+| Nazwa angielska | Airport Air Show |
+| Nazwa polska | Pokazy lotnicze |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 670 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591706 |
 
 WITAM SERDECZNIE.
 
@@ -4766,11 +7511,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60103-1: https://a.allegroimg.com/original/118be1/eb55ef9342f6bed88e2b52ebb07e
+
 ---
 
-## 60104 — Lego City Zestaw Lotniskowy terminal pasażerski Samolot 60104
+## 60104 — Lotniskowy terminal pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702015591720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60104 |
+| Nazwa angielska | Airport Passenger Terminal |
+| Nazwa polska | Lotniskowy terminal pasażerski |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 694 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 31 cm × gł. 12 cm |
+| EAN | 5702015591720 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4817,11 +7578,27 @@ Wybierz się na wycieczkę linią lotniczą LEGO® City! Zestaw zawiera fasadę
 - Przyczepa-cysterna ma ok. 4 cm wysokości, 9 cm długości i 3 cm szerokości 
 - Schody samobieżne mają ok. 6 cm wysokości, 7 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 60104-1: https://a.allegroimg.com/original/05a7a0/c92aa3dc468e8b86b592b6c255ca
+
 ---
 
-## 60105 — Lego 60105 City Strażacki quad
+## 60105 — Strażacki quad L
 
-*Kategoria: City · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702015591737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60105 |
+| Nazwa angielska | Fire ATV |
+| Nazwa polska | Strażacki quad L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702015591737 |
 
 LEGO 60105 City - Strażacki quad
 
@@ -4836,11 +7613,27 @@ Strażacki quad z zestawu LEGO® City to okazja do zabawy w straż pożarną. W 
 - Wymiary quada strażackiego: ok. 3 cm wysokości, 6 cm długości i 5 cm szerokości.
 - Wymiary ruin: ok. 5 cm wysokości, 4 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60105-1: https://a.allegroimg.com/original/45aef2/8e48d58a42eebbc3e337faa234c9
+
 ---
 
-## 60106 — Lego City 60106 Strażacy startowy
+## 60106 — Strażacy startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 131.95 zł · EAN: 05702015591744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60106 |
+| Nazwa angielska | Fire Starter Set |
+| Nazwa polska | Strażacy startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702015591744 |
 
 ****
 
@@ -4875,11 +7668,27 @@ PACZKI .
 - Wymiary poduszkowca strażackiego: 4 cm wysokości, 10 cm długości i 4 cm szerokości. 
 - Nabrzeże ma ok. 8 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 60106-1: https://a.allegroimg.com/original/053d14/d7086aad477295a639c8c6a5f984
+
 ---
 
-## 60107 — Lego City 60107 Wóz strażacki z drabiną
+## 60107 — Wóz strażacki z drabiną
 
-*Kategoria: City · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702015591768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60107 |
+| Nazwa angielska | Fire Ladder Truck |
+| Nazwa polska | Wóz strażacki z drabiną |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591768 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4902,11 +7711,27 @@ PACZKI .
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 60107-1: https://a.allegroimg.com/original/008ea8/3174716145c2b50f3ff63428df93
+
 ---
 
-## 60108 — Lego City 60108 Helikopter strażacki Śmigłowiec Motor Akcja ratunkowa Straż
+## 60108 — Helikopter strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015591874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60108 |
+| Nazwa angielska | Fire Response Unit |
+| Nazwa polska | Helikopter strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702015591874 |
 
 Nowy zestaw klocków
 
@@ -4930,11 +7755,27 @@ Dołącz do drużyny, która broni LEGO® City, kiedy zrobi się naprawdę gorą
 - Motocykl ma ok. 4 cm wysokości, 7 cm długości i 2 cm szerokości.
 - Kontener ze złożonymi płomieniami ma ok. 6 cm wysokości, 12 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 60108-1: https://a.allegroimg.com/original/11d79d/25af9a294826871f882b82235cd9
+
 ---
 
-## 60109 — Lego City 60109 Łódź Strażacka Łódka Straż klocki
+## 60109 — Łódź strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 615.00 zł · EAN: 05702015591881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60109 |
+| Nazwa angielska | Fire Boat |
+| Nazwa polska | Łódź strażacka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 412 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 16 cm |
+| EAN | 5702015591881 |
 
 Wypłyń razem z 3 strażakami na ratunek latarnikowi.
 
@@ -4946,11 +7787,27 @@ Kategoria wiekowa: od 6. roku życia
 
 Co zrobić, jeżeli zapali się latarnia morska umiejscowiona na małej wysepce? Jest tylko jedno właściwe rozwiązanie, należy zwołać wyszkoloną ekipę strażaków i załadować ich na łódź strażacką. Otóż, mają oni do dyspozycji najnowocześniejszą jednostkę, która posiada działo wodne na specjalnym wysięgniku, dzięki czemu dosięgnie i ugasi ona każdy ogień, nawet w najtrudniejszym miejscu. Łódź jest czerwono-biała, posiada świetnie odwzorowany mostek, punkt medyczny, kuchnię, reflektory przydatne podczas pracy w ciemnościach oraz żółtą szalupę ratunkową. W zestawie znajdziemy takie akcesoria, jak: 2 gaśnice, siekierę, zestaw pierwszej pomocy, klucz, czy walkie-talkie. Łódź ma 32 cm długości, 30 cm wysokości i 16 cm szerokości.
 
+**Galeria:**
+
+- 60109-1: https://a.allegroimg.com/original/003307/9668aa4c4957b10ccd2d66d00107
+
 ---
 
-## 60110 — Lego City 60110 Remiza strażacka
+## 60110 — Remiza strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015591898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60110 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza strażacka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 919 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591898 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4970,11 +7827,27 @@ Co zrobić, jeżeli zapali się latarnia morska umiejscowiona na małej wysepce?
 
 ​
 
+**Galeria:**
+
+- 60110-1: https://a.allegroimg.com/original/00e620/03065c5240828d2d2bc42410b198
+
 ---
 
-## 60111 — Lego City 60111 Strażacki wóz techniczny
+## 60111 — Strażacki wóz techniczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015591911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60111 |
+| Nazwa angielska | Fire Utility Truck |
+| Nazwa polska | Strażacki wóz techniczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702015591911 |
 
 Klocki LEGO City 60111 - Strażacki wóz techniczny
 
@@ -4988,11 +7861,27 @@ Antena satelitarna w niebezpieczeństwie! Na szczęście na miejsce pędzi już 
 - Przyczepa ma ok. 6 cm wysokości, 19 cm długości i 8 cm szerokości.
 - Wieża telewizji satelitarnej ma ok. 18 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 60111-1: https://a.allegroimg.com/original/1162af/42033f5f481a9f35929e23533c6d
+
 ---
 
-## 60114 — Lego City 60114 Łódź wyścigowa
+## 60114 — Łódź wyścigowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.50 zł · EAN: 05702015594059 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60114 |
+| Nazwa angielska | Race Boat |
+| Nazwa polska | Łódź wyścigowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702015594059, 673419249850 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -5012,11 +7901,28 @@ Siadaj za sterami łodzi wyścigowej. Wysuń się na prowadzenie i prosto do met
 - W zestawie akcesoria: czerwona i zielona boja oraz koło ratunkowe.
 - Wymiary łodzi wyścigowej to 5 cm wysokości, 13 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60114-1: https://a.allegroimg.com/original/00464e/639db0d249169b89bb46690db7d6
+- 60114-2: https://6.allegroimg.com/original/00464e/639db0d249169b89bb46690db7d6
+
 ---
 
-## 60115 — Lego City 60115 Terenówka
+## 60115 — Terenówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702015594066 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60115 |
+| Nazwa angielska | 4 x 4 Off Roader |
+| Nazwa polska | Terenówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594066, 673419249867 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5034,11 +7940,28 @@ Siadaj za sterami łodzi wyścigowej. Wysuń się na prowadzenie i prosto do met
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60115-1: https://a.allegroimg.com/original/11cbfb/dbf3458e4e27a5b1ec3e2283ed5b
+- 60115-2: https://a.allegroimg.com/original/0015e2/17bfc81f4a6688572e4d516e44c2
+
 ---
 
-## 60116 — Lego City 60116 Samolot ratowniczy
+## 60116 — Samolot ratowniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702015594776 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60116 |
+| Nazwa angielska | Ambulance Plane |
+| Nazwa polska | Samolot ratowniczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594776 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5071,11 +7994,27 @@ Wymiary:
 - samolotu ratowniczego (wys./gł./rozpiętość): ok. 11 x 22 x 27 cm 
 - motocykla (wys./dł./szer.): ok. 4 x 6 x 2 cm
 
+**Galeria:**
+
+- 60116-1: https://a.allegroimg.com/original/00ea19/bc1190e444b2ab16bc53f058a5ff
+
 ---
 
-## 60117 — Lego City 60117 Van z przyczepą kempingową
+## 60117 — Van z przyczepą kempingową
 
-*Kategoria: City · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015594783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60117 |
+| Nazwa angielska | Van & Caravan |
+| Nazwa polska | Van z przyczepą kempingową |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594783 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5095,11 +8034,27 @@ Wymiary:
 
 Zestawy z serii LEGO City cieszą się ogromnym powodzeniem. Prezentowany produkt to autko typu VAN wraz z przyczepą kempingową. Aby zabawa była jeszcze lepsza, producent dołączył 3 mini figurki: kobietę, mężczyznę i psa. Auto w modnym, niebieskim kolorze, z otwieranymi drzwiami, doskonale się prezentuje wśród zieleni lasu, bądź polany. Przyczepa kempingowa nie dość, że wygląda bardzo nowocześnie, to jest również niezwykle praktyczna. Producent zapewnił sprytny dostęp do jej wnętrza. Wystarczy jednym ruchem ręki otworzyć jedną ściankę. Została ona przymocowana na zawiasie. Niby tak proste rozwiązanie, a jakże ułatwiające zabawę. W środku znajduje się kuchenka oraz łóżko. Do zestawu dołączone zostały również takie akcesoria, jak: grill, ekspres do kawy, 2 kiełbaski, czy kość dla pieska. Samochód ma wymiary: 12 x 6 x 6 cm, a przyczepa: 13 x 6 x 5 cm.
 
+**Galeria:**
+
+- 60117-1: https://a.allegroimg.com/original/00ae53/620ff83a4b7788405b2302fb2054
+
 ---
 
-## 60118 — Lego City 60118 Śmieciarka
+## 60118 — Śmieciarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 376.00 zł · EAN: 05702015594790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60118 |
+| Nazwa angielska | Garbage Truck |
+| Nazwa polska | Śmieciarka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594790 |
 
 Zestaw LEGO® 60118 "Garbage Truck" z serii City wydany w 2016 roku zawiera 246 elementów i 2 minifigurki (kierowcę i pomocnika śmieciarki). Zestaw obejmuje śmieciarkę z funkcjonalnym podnośnikiem poruszającym się w górę i w dół oraz pojemnikiem, który się przechyla i otwiera, aby opróżnić śmieci, uzupełniony miotłą, łopatą i innymi akcesoriami czyszczącymi, przeznaczony dla dzieci w wieku 5-12 lat.
 
@@ -5107,11 +8062,27 @@ Ten praktyczny zestaw wprowadza dzieci w świat serwisu miasta poprzez zajęcia 
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 60118-1: https://a.allegroimg.com/original/0541cd/e414e509421b98d7b62fb3019cb6
+
 ---
 
-## 60119 — Lego City 60119 Prom
+## 60119 — Prom
 
-*Kategoria: City · cena Allegro (2026-08-17): 382.27 zł · EAN: 05702015594806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60119 |
+| Nazwa angielska | Ferry |
+| Nazwa polska | Prom |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm |
+| EAN | 5702015594806 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5144,11 +8115,27 @@ Prom sprawia, że biznes w LEGO® City może się kręcić. Ma otwierane bramki
 - Wymiary promu: ok. 16 cm wysokości, 34 cm długości i 13 cm szerokości. 
 - Wymiary samochodu: ok. 4 cm wysokości, 10 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 60119-1: https://a.allegroimg.com/original/005ed2/55707d834780a6fccf6df188db19
+
 ---
 
-## 60120 — Lego City 60120 Wulkan zestaw startowy Nowe
+## 60120 — Wulkan startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 153.00 zł · EAN: 05702015594813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60120 |
+| Nazwa angielska | Volcano Starter Set |
+| Nazwa polska | Wulkan startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 3 cm × gł. 5 cm |
+| EAN | 5702015594813 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5169,11 +8156,27 @@ Weź udział w ekscytującej przygodzie z LEGO® City — wyprawie badawczej do 
 - Wulkan ma ok. 3 cm wysokości, 3 cm szerokości i 5 cm głębokości. 
 - Wymiary pojazdu terenowego: 7 cm wysokości, 6 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 60120-1: https://a.allegroimg.com/original/118938/b4fb77b9433ca28c26efba7b138a
+
 ---
 
-## 60121 — Lego City 60121 Samochód naukowców
+## 60121 — Samochód naukowców
 
-*Kategoria: City · cena Allegro (2026-08-17): 270.69 zł · EAN: 05702015594820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60121 |
+| Nazwa angielska | Volcano Exploration Truck |
+| Nazwa polska | Samochód naukowców |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702015594820, 673419249928 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5222,11 +8225,27 @@ Zestaw klocków LEGO 60121 City Samochód naukowców został zaprezentowany w 
 
 **26 cm * 19 cm * 5 cm ***
 
+**Galeria:**
+
+- 60121-1: https://a.allegroimg.com/original/112d3a/efc573504605a6d16a9d7098a729
+
 ---
 
-## 60122 — Lego City 60122 Łazik wulkaniczny
+## 60122 — Łazik wulkaniczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 348.26 zł · EAN: 05702015594837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60122 |
+| Nazwa angielska | Volcano Crawler |
+| Nazwa polska | Łazik wulkaniczny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 324 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594837 |
 
 ****
 
@@ -5262,11 +8281,27 @@ Wszechstronny łazik wulkaniczny pozwoli Ci dokonać jeszcze większych odkryć.
 - Otwórz głaz kilofem, aby odsłonić ukryty kryształ. 
 - Akcesoria: kilof, głaz, kryształ i łopata.
 
+**Galeria:**
+
+- 60122-1: https://a.allegroimg.com/original/11a5a2/bdc43a81436dbc759b6c7ba9c990
+
 ---
 
-## 60123 — Lego City 60123 Helikopter dostawczy
+## 60123 — Helikopter dostawczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 379.95 zł · EAN: 05702015594844 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60123 |
+| Nazwa angielska | Volcano Supply Helicopter |
+| Nazwa polska | Helikopter dostawczy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594844 |
 
 LEGO City 60123 Helikopter dostawczy
 
@@ -5293,11 +8328,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 60123-1: https://a.allegroimg.com/original/11dc2f/25b8befb48a9bc2d92a135549faa
+
 ---
 
-## 60124 — Lego City 60124 Baza badaczy wulkanów Nowe
+## 60124 — Baza badaczy wulkanów
 
-*Kategoria: City · cena Allegro (2026-08-17): 1165.00 zł · EAN: 00673419249959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60124 |
+| Nazwa angielska | Volcano Exploration Base |
+| Nazwa polska | Baza badaczy wulkanów |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 824 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 17 cm × gł. 17 cm |
+| EAN | 5702015594851, 673419249959 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5325,11 +8376,28 @@ Dzięki bazie naukowców badających wulkany możesz wziąć udział w dokonywan
 - Pojazd-wywrotka ma ok. 4 cm wysokości, 7 cm długości i 5 cm szerokości. 
 - Dron ma ok. 6 cm długości, 10 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 60124-1: https://a.allegroimg.com/original/1154d8/e6843ae94e8781a26534b8f4eb20
+- 60124-2: https://a.allegroimg.com/original/054173/75c5020d47b3a264bf208b22b6a3
+
 ---
 
-## 60125 — Lego City 60125 Ciężki helikopter transportowy
+## 60125 — Ciężki helikopter transportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015594868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60125 |
+| Nazwa angielska | Volcano Heavy-Lift Helicopter |
+| Nazwa polska | Ciężki helikopter transportowy |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 26 cm |
+| EAN | 5702015594868 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5376,11 +8444,27 @@ Dzięki ogromnemu, przystosowanemu do badania wulkanów ciężkiemu helikopterow
 - Ładowarka ma ok. 7 cm wysokości, 13 cm długości i 6 cm szerokości. 
 - Wywrotka ma ok. 7 cm wysokości, 11 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60125-1: https://a.allegroimg.com/original/112c91/3da68f28493f990c6dbbf35dbcee
+
 ---
 
-## 60126 — Lego City 60126 Ucieczka na kole Policja Nowe
+## 60126 — Ucieczka na kole L
 
-*Kategoria: City · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702015594875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60126 |
+| Nazwa angielska | Tire Escape |
+| Nazwa polska | Ucieczka na kole L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594875 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST NOWY ORYGINALNIE ZAPLOMBOWANY ZESTAW LEGO CITY 60126 UCIECZKA NA KOLE POLICJA
 
@@ -5388,11 +8472,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60126-1: https://a.allegroimg.com/original/11ef7b/3783b44b4f1da730ba40a6d93878
+
 ---
 
-## 60127 — Lego City 60127 Więzienna Wyspa
+## 60127 — Więzienna Wyspa
 
-*Kategoria: City · cena Allegro (2026-08-17): 214.90 zł · EAN: 05702015594882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60127 |
+| Nazwa angielska | Prison Island Starter Set |
+| Nazwa polska | Więzienna Wyspa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594882 |
 
 **NOWY ZAPLOMBOWANY ZESTAW**
 
@@ -5406,11 +8506,27 @@ Kategoria wiekowa: od 5. roku życia
 
 Na zestaw LEGO City Więzienna Wyspa składa się z fragmentu nabrzeża, z niewielką skrytką na łupy, łazika policyjnego, motorówki złoczyńców oraz 4 figurek i wielu akcesoriów. Akcesoria, takie jak banknoty, kajdanki, walkie-talkie, łańcuch, kilof i inne pozwalają odgrywać wiele wariantów odwiecznego problemu, jakim są ucieczki złoczyńców i policyjne pościgi. Kto zwycięży tym razem? Wymiar sprawiedliwości czy rabusie, którym udało się umknąć ze zrabowaną gotówką? Wśród czterech figurek z zestawu znajdują się dwaj złoczyńcy, policjant, policjantka. Wymiary zbudowanego łazika: 6 x 6 x 4 cm, wymiary nabrzeża: 4 x 8 x 8 cm.
 
+**Galeria:**
+
+- 60127-1: https://8.allegroimg.com/original/00b4ea/ab33707445369c954ffe95ed6168
+
 ---
 
-## 60128 — Lego City 60128 Policyjny pościg
+## 60128 — Policyjny pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015594899 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60128 |
+| Nazwa angielska | Police Pursuit |
+| Nazwa polska | Policyjny pościg |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594899, 673419249997 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5434,11 +8550,28 @@ Na zestaw LEGO City Więzienna Wyspa składa się z fragmentu nabrzeża, z niewi
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 60128-1: https://5.allegroimg.com/original/004046/b0880df24a189be27360843d8175
+- 60128-2: https://a.allegroimg.com/original/066ec0/dd6853264d819dbfc4ab952a430a
+
 ---
 
-## 60129 — Lego 60129 City Policyjna łódź patrolowa *policja *nowy
+## 60129 — Policyjna łódź patrolowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015594905 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60129 |
+| Nazwa angielska | Police Patrol Boat |
+| Nazwa polska | Policyjna łódź patrolowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 9 cm |
+| EAN | 5702015594905 |
 
 **LEGO**
 
@@ -5469,11 +8602,27 @@ Zamknij złodziejaszka w celi policyjnej łodzi patrolowej LEGO® City i odtran
 - Wymiary policyjnej łodzi patrolowej: 15 cm wysokości, 31 cm długości i 9 cm szerokości.
 - Motorówka przestępców ma ok. 4 cm wysokości, 19 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 60129-1: https://a.allegroimg.com/original/11bab6/e8714ea84d5d949d95bc900fd9e2
+
 ---
 
-## 60130 — Lego City 60130 nowy zestaw Julivo
+## 60130 — Więzienna Wyspa
 
-*Kategoria: City · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702015594912 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60130 |
+| Nazwa angielska | Prison Island |
+| Nazwa polska | Więzienna Wyspa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 754 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 34 cm × gł. 27 cm |
+| EAN | 5702015594912 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -5512,11 +8661,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60130-1: https://a.allegroimg.com/original/009f3d/21d0c09a4e5a8405e683cab569df
+
 ---
 
-## 60131 — Lego City 60131 Klocki Wyspa rabusiów zestaw z 2016 roku
+## 60131 — Klocki Wyspa rabusiów
 
-*Kategoria: City · cena Allegro (2026-08-17): 385.00 zł · EAN: 05702015594929 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60131 |
+| Nazwa angielska | Crooks Island |
+| Nazwa polska | Klocki Wyspa rabusiów |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 17 cm × gł. 9 cm |
+| EAN | 5702015594929 |
 
 LEGO City 60131 Klocki Wyspa rabusiów
  
@@ -5537,11 +8702,27 @@ Dołącz do złoczyńców, którzy snują swe niecne plany na Wyspie rabusiów L
 - Helikopter policyjny ma ok. 9 cm wysokości, 17 cm długości i 4 cm szerokości. 
 - Wymiary skutera złoczyńców to ok. 6 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 60131-1: https://a.allegroimg.com/original/05e8c6/879b53e841c38f32f79fe08013dc
+
 ---
 
-## 60132 — Lego City 60132 Stacja Paliw
+## 60132 — Stacja paliw
 
-*Kategoria: City · cena Allegro (2026-08-17): 1049.00 zł · EAN: 00673419250030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60132 |
+| Nazwa angielska | Service Station |
+| Nazwa polska | Stacja paliw |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 515 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594936, 673419250030 |
 
 KLOCKI LEGO CITY STACJA PALIW 60132
 
@@ -5579,11 +8760,28 @@ Kim chcesz dzisiaj zostać? Otwórz warsztat samochodowy i zacznij dzień jako m
 - **Poziom trudności złożenia:** Trudny 
 - **Rodzaj:** Plastikowe > Klocki dla dzieci Plastikowe
 
+**Galeria:**
+
+- 60132-1: https://9.allegroimg.com/original/037f87/d44d7d5c44c3a01613bdd0aa8509
+- 60132-2: https://a.allegroimg.com/original/037f87/d44d7d5c44c3a01613bdd0aa8509
+
 ---
 
-## 60134 — Lego City 60134 Zabawa w parku
+## 60134 — Zabawa w parku
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015594950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60134 |
+| Nazwa angielska | Fun in the park - City People Pack |
+| Nazwa polska | Zabawa w parku |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594950 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5610,11 +8808,27 @@ Ten wspaniały zestaw pozwoli Ci zaludnić miasto różnorodnymi minifigurkami. 
 - Kręć się na karuzeli. 
 - Akcesoria: ławka parkowa, stół piknikowy, stoisko z hot dogami (wraz z hot dogiem i parasolem), 2 drzewa, rower, wałek do malowania i kubeł na farbę, kosiarka, piłka, rogalik, kosz, szyld, ogrodzenie, walizka i kwiaty.
 
+**Galeria:**
+
+- 60134-1: https://a.allegroimg.com/original/11acaf/b14adfd14ffebf74030fcfef2d6e
+
 ---
 
-## 60136 — Lego 60136 City Policja zestaw startowy
+## 60136 — Policja startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702015865227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60136 |
+| Nazwa angielska | Police Starter Set |
+| Nazwa polska | Policja startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 5702015865227 |
 
 LEGO 60136 City - Policja - zestaw startowy
 
@@ -5632,11 +8846,27 @@ Chcesz znaleźć się w samym sercu akcji? Pomóż policji z LEGO® City zatrzym
 - Wymiary bankomatu: 5 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 - Wymiary quada: 7 cm wysokości, 8 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 60136-1: https://a.allegroimg.com/original/452ec3/b2d455434b35836cab0d9ec90811
+
 ---
 
-## 60137 — Lego City Zestaw Policja Eskorta Policyjna 60137
+## 60137 — Eskorta policyjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 193.99 zł · EAN: 05702015865234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60137 |
+| Nazwa angielska | Tow Truck Trouble |
+| Nazwa polska | Eskorta policyjna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702015865234 |
 
 LEGO CITY POLICJA ESKORTA POLICYJNA 60137
 
@@ -5666,11 +8896,27 @@ Masz ochotę na trochę akcji? Dołącz do policjantów z LEGO® City, którzy 
 - Motocykl pościgowy ma ok. 3 cm wysokości, 7 cm długości i 3 cm szerokości.
 - Wymiary sejfu: ok. 6 cm wysokości, 4 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60137-1: https://a.allegroimg.com/original/11aeee/1d275cb3417ba9c14ba4c866598a
+
 ---
 
-## 60138 — Klocki Lego City 60138 Szybki Pościg Policja
+## 60138 — Szybki pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 604.99 zł · EAN: 00673419263825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60138 |
+| Nazwa angielska | High-speed Chase |
+| Nazwa polska | Szybki pościg |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 26 cm |
+| EAN | 5702015865258, 673419263825 |
 
 KLOCKI LEGO CITY 60138 SZYBKI POŚCIG POLICJA HIT
 
@@ -5706,11 +8952,28 @@ Masz ochotę na trochę akcji? Pomóż policjantom z LEGO® City, którzy razem 
 
 - Auto sportowe ma ok. 4 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60138-1: https://a.allegroimg.com/original/11f1c1/2c46c40d4fe0b95b23306486a686
+- 60138-2: https://a.allegroimg.com/original/111808/e437940f4382b642671f0dee3f8f
+
 ---
 
-## 60139 — Klocki Lego City 60139 Mobilne centrum dowodzenia
+## 60139 — Mobilne Centrum Dowodzenia
 
-*Kategoria: City · cena Allegro (2026-08-17): 418.78 zł · EAN: 05702015865265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60139 |
+| Nazwa angielska | Mobile Command Center |
+| Nazwa polska | Mobilne Centrum Dowodzenia |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702015865265 |
 
 Klocki LEGO City 60139 - Mobilne centrum dowodzenia
 
@@ -5749,11 +9012,27 @@ Masz ochotę na trochę akcji? Dołącz do policjantów z LEGO® City, którzy p
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 60139-1: https://a.allegroimg.com/original/11223d/80ba5a524d508a134a6638b217f8
+
 ---
 
-## 60140 — Lego 60140 City Włamanie buldożerem, policja, helikopter, bank Nowy
+## 60140 — Włamanie buldożerem
 
-*Kategoria: City · cena Allegro (2026-08-17): 945.00 zł · EAN: 05702015865647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60140 |
+| Nazwa angielska | Bulldozer Break-In |
+| Nazwa polska | Włamanie buldożerem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 561 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702015865647 |
 
 **LEGO**
  
@@ -5794,11 +9073,27 @@ Dołącz do akcji i pomóż policji z LEGO® City, która próbuje uchronić ba
 - Wymiary policyjnej furgonetki: 8 cm wysokości, 16 cm długości i 7 cm szerokości. 
 - Wymiary buldożera: 6 cm wysokości, 11 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 60140-1: https://a.allegroimg.com/original/11ca99/23f914e54325bf2979d076e2b55e
+
 ---
 
-## 60141 — Lego City Zestaw Posterunek policji 60141
+## 60141 — Posterunek policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 1339.00 zł · EAN: 05702015865654 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60141 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 894 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 36 cm × gł. 36 cm |
+| EAN | 5702015865654 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5831,11 +9126,27 @@ Dołącz do akcji i pomóż policji z LEGO® City, która próbuje uchronić ba
 - Policyjny motocykl ma ok. 3 cm wysokości, 7 cm długości i 2 cm szerokości. 
 - Auto złoczyńców ok. 6 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60141-1: https://a.allegroimg.com/original/113fae/c8aa83f84bc0b0052d4a79099199
+
 ---
 
-## 60144 — Lego City 60144 Samolot wyścigowy Nowy, zdjęcia
+## 60144 — Samolot wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 199.50 zł · EAN: 05702015865685 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60144 |
+| Nazwa angielska | Race Plane |
+| Nazwa polska | Samolot wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 15 cm |
+| EAN | 5702015865685, 673419264631 |
 
 Klocki LEGO City
 
@@ -5857,11 +9168,27 @@ Tłumy już czekają na niezwykły pokaz pilotażu. Siądź ze sterami samolotu 
  
 • Wymiary samolotu wyścigowego: ok. 8 cm wysokości, 18 cm długości i 15 cm szerokości.
 
+**Galeria:**
+
+- 60144-1: https://b.allegroimg.com/original/00b8a8/6143428d4b35ad6273bcb94e2f4b
+
 ---
 
-## 60145 — Lego City 60145 Łazik Buggy terenówka nowy zestaw klocków
+## 60145 — Łazik
 
-*Kategoria: City · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702015865692 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60145 |
+| Nazwa angielska | Buggy |
+| Nazwa polska | Łazik |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865692 |
 
 Witam
 
@@ -5879,11 +9206,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 60145-1: https://a.allegroimg.com/original/004d61/e04adf284760a7c2c2752eb7ac44
+
 ---
 
-## 60146 — Lego City 60146 Kaskaderska terenówka. Nowy, zdjęcia.
+## 60146 — Kaskaderska terenówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702015865722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60146 |
+| Nazwa angielska | Stunt Truck |
+| Nazwa polska | Kaskaderska terenówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 9 cm |
+| EAN | 5702015865722 |
 
 Klocki LEGO City 60129 - Policyjna łódź patrolowa
 
@@ -5902,11 +9245,27 @@ Zamknij złodziejaszka w celi policyjnej łodzi patrolowej LEGO® City i odtrans
 
 Zestaw LEGO City - Policyjna łódź patrolowa trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 60129. Zawiera 200 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Police Patrol Boat
 
+**Galeria:**
+
+- 60146-1: https://b.allegroimg.com/original/00dec0/0dad3ace4684a6859c9503e45c0b
+
 ---
 
-## 60147 — Lego City 60147 Łódź Rybacka Rekin Statek Ryba Wędkarz Kamizelka Ratunkowa
+## 60147 — Łódź Rybacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702015865739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60147 |
+| Nazwa angielska | Fishing Boat |
+| Nazwa polska | Łódź Rybacka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702015865739 |
 
 LEGO CITY 60147 Łódź Rybacka
 
@@ -5927,11 +9286,27 @@ Masz ochotę wypłynąć na wody zatoki? Nie zapomnij zabrać wędki i kamizelki
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60147-1: https://a.allegroimg.com/original/1178f4/52cda2f24ff7bac7d0c5886783df
+
 ---
 
-## 60148 — Lego City 60148 Wyścigowy Zespół Quadowy Samochód Pickup Przyczepa
+## 60148 — Wyścigowy Zespół Quadowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015865760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60148 |
+| Nazwa angielska | ATV Race Team |
+| Nazwa polska | Wyścigowy Zespół Quadowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702015865760 |
 
 LEGO CITY 60148 Wyścigowy Zespół Quadowy
 
@@ -5957,11 +9332,27 @@ Podrasuj quada i przygotuj się do startu!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60148-1: https://a.allegroimg.com/original/110db7/3ccb9716425caf056edaa84ef130
+
 ---
 
-## 60149 — Lego City 60149 Terenówka 4x4 z katamaranem
+## 60149 — Terenówka 4x4 z katamaranem
 
-*Kategoria: City · cena Allegro (2026-08-17): 163.96 zł · EAN: 05702015865777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60149 |
+| Nazwa angielska | 4x4 with Catamaran |
+| Nazwa polska | Terenówka 4x4 z katamaranem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702015865777, 673419264686 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6005,11 +9396,28 @@ Przygotuj się na żeglarskie przygody na pokładzie katamaranu. Model ma podwó
 
 Zestaw klocków LEGO City Terenówka 4x4 z katamaranem 60149 został zaprezentowany w 2017 roku i zbudowany jest z 198 klocków LEGO®. W opakowaniu znajdziesz 2 minifigurki. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 60149-1: https://a.allegroimg.com/original/116ef5/0e980f624b3f8d7b6030a30973d5
+- 60149-2: https://a.allegroimg.com/original/1165d0/6bbfe8a64270a05922332b5eee68
+
 ---
 
-## 60150 — Lego City 60150 Foodtruck z pizzą Unikat
+## 60150 — Foodtruck z pizzą
 
-*Kategoria: City · cena Allegro (2026-08-17): 308.00 zł · EAN: 05702015865784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60150 |
+| Nazwa angielska | Pizza Van |
+| Nazwa polska | Foodtruck z pizzą |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702015865784 |
 
 LEGO City 60150 - Foodtruck z pizzą
 
@@ -6041,11 +9449,27 @@ Foodtruck z pizzą LEGO® City pozwala na świetną zabawę w przygotowanie i po
 - Wymiary skutera: ok. 3 cm wysokości, 5 cm długości i 2 cm szerokości. 
 - Wymiary stolika z parasolem: ok. 6 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 60150-1: https://a.allegroimg.com/original/052dcc/7a23b98d4b6e8b7de4633421db24
+
 ---
 
-## 60151 — Lego City 60151 Transporter dragsterów
+## 60151 — Transporter dragsterów
 
-*Kategoria: City · cena Allegro (2026-08-17): 335.20 zł · EAN: 05702015865975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60151 |
+| Nazwa angielska | Dragster Transporter |
+| Nazwa polska | Transporter dragsterów |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865975 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6082,11 +9506,27 @@ Z zestawem Transporter dragsterów LEGO® City dołączysz do grona kierowców 
 - Zatankuj maszynę i gotowe — można startować! 
 - Wśród akcesoriów znajdziesz narzędzia, baryłkę z paliwem, kubek i sygnalizator świetlny do zbudowania
 
+**Galeria:**
+
+- 60151-1: https://a.allegroimg.com/original/00ba6a/4e53fcd44f0288a6082f1ba51794
+
 ---
 
-## 60152 — Lego 60152 City Zamiatacz ulic i koparka
+## 60152 — Zamiatacz
 
-*Kategoria: City · cena Allegro (2026-08-17): 509.99 zł · EAN: 05702015865982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60152 |
+| Nazwa angielska | Sweeper & Excavator |
+| Nazwa polska | Zamiatacz |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702015865982 |
 
 Zestaw LEGO® 60152 Zamiatacz ulic i koparka
 
@@ -6109,11 +9549,27 @@ Dopilnuj, by ulice LEGO® City były zawsze przejezdne! Pomoże Ci w tym ekipa r
 - Przyczepa ma ok. 3 cm wysokości, 17 cm długości i 8 cm szerokości.
 - Koparka ma ok. 8 cm wysokości, 13 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60152-1: https://a.allegroimg.com/original/11d5cd/6070f5f946e3b9a7e30c5b3d2fe3
+
 ---
 
-## 60153 — Lego City 60153 Zabawa na plaży Nowe
+## 60153 — Town Zabawa na plaży
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015865999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60153 |
+| Nazwa angielska | People Pack - Fun At The Beach |
+| Nazwa polska | Town Zabawa na plaży |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 169 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865999 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6134,11 +9590,27 @@ Dodaj nowych mieszkańców do swojego miasta LEGO® City z tym zestawem wypełni
 - Zbuduj zamek z piasku na plaży.
 - Akcesoria: kajak z wiosłem, wieża ratownicza, megafon, lornetka, siatka i piłka do siatkówki, hamak, dwa drzewa, odtwarzacz MP3, stoisko z lodami, dwa lody i dodatkowy rożek, banknot, parasol, aparat fotograficzny, zamek z piasku, łopatka, wiaderko, kosz na śmieci, miotła, banan, złota moneta, wykrywacz metalu i radio.
 
+**Galeria:**
+
+- 60153-1: https://a.allegroimg.com/original/1170df/402b588242aab4787872e53f283f
+
 ---
 
-## 60154 — Lego City 60154 Town Przystanek autobusowy
+## 60154 — Town Przystanek autobusowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702015866002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60154 |
+| Nazwa angielska | Bus Station |
+| Nazwa polska | Town Przystanek autobusowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 337 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866002 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6165,11 +9637,27 @@ Autobus ma otwierane przednie i boczne drzwi, bagażnik rowerowy z tyłu, siedze
  
 Dzięki nim dzieci będą mogły tworzyć mnóstwo nowych scenariuszy zabaw. Podjadą rowerem na przystanek, gdzie przesiądą się na miejską komunikację, kupią gazetę i zimny napój w kiosku, lub pomogą niepełnosprawnemu pasażerowi przepychając wózek inwalidzki po rampie do środka autobusu. Zestaw 60154 doskonale nadaje się do samodzielnej zabawy, może być także wspaniałym uzupełnieniem posiadanego już miasteczka LEGO CITY.
 
+**Galeria:**
+
+- 60154-1: https://a.allegroimg.com/original/119b04/d9d74a38481fb9cb2184aeefdc45
+
 ---
 
-## 60157 — Lego City 60157 Jungle Explorers Dżungla startowy
+## 60157 — Jungle Explorers Dżungla startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702015866033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60157 |
+| Nazwa angielska | Jungle Starter Set |
+| Nazwa polska | Jungle Explorers Dżungla startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866033 |
 
 Zestaw LEGO® 60157 "Jungle Starter Set" z serii City Jungle Explorers wydany w 2017 roku zawiera 88 elementów i 3 minifigurki (badacza dżungli, naukowca i pilota łodzi). Zestaw obejmuje łódź eksploracyjną z miejscem na sprzęt, drzewo z ukrytym skarbem, funkcjonującą lupę do obserwacji zwierząt, oraz figurki krokodyla, węża i żaby, przeznaczony dla dzieci w wieku 5-12 lat.
 
@@ -6177,11 +9665,27 @@ Ten przygodowy zestaw wprowadza małych odkrywców w ekscytujący świat eksplor
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 60157-1: https://a.allegroimg.com/original/057be2/fb989964461c8ee665a0833ff4b1
+
 ---
 
-## 60158 — Lego City 60158 Helikopter Transportowy Dżungla
+## 60158 — Jungle Explorers Helikopter transportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702015866057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60158 |
+| Nazwa angielska | Jungle Cargo Helicopter |
+| Nazwa polska | Jungle Explorers Helikopter transportowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm |
+| EAN | 5702015866057 |
 
 LEGO CITY
  
@@ -6219,11 +9723,27 @@ SPECYFIKACJA:
 - **Ilość elementów:** 201 
 - **** 26.2 x 19.1 x 6.1 cm
 
+**Galeria:**
+
+- 60158-1: https://a.allegroimg.com/original/11c46d/10d2ac6343b189aa0a376e309334
+
 ---
 
-## 60159 — Lego City 60159 Jungle Explorers Misja półgąsienicowej terenówki
+## 60159 — Jungle Explorers Misja półgąsienicowej terenówki
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702015866255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60159 |
+| Nazwa angielska | Jungle Halftrack Mission |
+| Nazwa polska | Jungle Explorers Misja półgąsienicowej terenówki |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 378 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702015866255 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6256,11 +9776,27 @@ Zbadaj tajemnice dżungli LEGO® City czekające na Ciebie w zestawie Misja pó�
 
 Zestaw LEGO City - Misja półgąsienicowej terenówki trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 60159. Zawiera 378 klocków LEGO. W modelu znajdziesz też 2 minifigurki.
 
+**Galeria:**
+
+- 60159-1: https://a.allegroimg.com/original/116531/2768e1184cc6a75a6b2f0fa86031
+
 ---
 
-## 60160 — Lego 60160 City Mobilne laboratorium
+## 60160 — Jungle Explorers Mobilne laboratorium
 
-*Kategoria: City · cena Allegro (2026-08-17): 555.00 zł · EAN: 05702015866279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60160 |
+| Nazwa angielska | Jungle Mobile Lab |
+| Nazwa polska | Jungle Explorers Mobilne laboratorium |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 5702015866279 |
 
 LEGO 60160 City - Mobilne laboratorium
 
@@ -6282,11 +9818,27 @@ Dokonaj niezwykłego odkrycia w głębi dżungli LEGO® City. Zestaw zawiera mob
 - Kajak ma ok. 11 cm długości. 
 - Figurka krokodyla ma ok. 11 cm długości.
 
+**Galeria:**
+
+- 60160-1: https://a.allegroimg.com/original/11d594/a9f93ed94cc3a9dc19bf8619384a
+
 ---
 
-## 60161 — Lego City 60161 Baza w dżungli
+## 60161 — Baza w dżungli
 
-*Kategoria: City · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702015866286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60161 |
+| Nazwa angielska | Jungle Exploration Site |
+| Nazwa polska | Baza w dżungli |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 813 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866286 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6310,11 +9862,27 @@ Dokonaj niezwykłego odkrycia w głębi dżungli LEGO® City. Zestaw zawiera mob
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 60161-1: https://a.allegroimg.com/original/1196d5/b7f93c7a44c1ba3dfbd9060bcca8
+
 ---
 
-## 60162 — Lego 60162 Helikopter w dżungli 1250 elementów
+## 60162 — Helikopter w dżungli dżungla
 
-*Kategoria: City · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702015866293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60162 |
+| Nazwa angielska | Jungle Air Drop Helicopter |
+| Nazwa polska | Helikopter w dżungli dżungla |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866293 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6336,11 +9904,27 @@ Dokonaj niezwykłego odkrycia w głębi dżungli LEGO® City. Zestaw zawiera mob
 
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60162-1: https://a.allegroimg.com/original/033ec8/0a411ffe4019ac5f96d6e1630ed3
+
 ---
 
-## 60163 — Lego City 60163 Coast Guard Straż przybrzeżna startowy nowy zestaw klocków
+## 60163 — Coast Guard Straż przybrzeżna startowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015866309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60163 |
+| Nazwa angielska | Coast Guard Starter Set |
+| Nazwa polska | Coast Guard Straż przybrzeżna startowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702015866309 |
 
 Witam
 
@@ -6366,11 +9950,27 @@ wieża ratownicza ma ok. 8 cm wysokości, 4 cm szerokości i 5 cm głębokości
 
 figurka rekina ma ok. 7 cm długości
 
+**Galeria:**
+
+- 60163-1: https://a.allegroimg.com/original/00aaf7/82b353b94e55b845715b72fb30b5
+
 ---
 
-## 60164 — Lego 60164 City Hydroplan ratowniczy, skuter wodny, marynarz
+## 60164 — Coast Guard Hydroplan ratowniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702015866316 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60164 |
+| Nazwa angielska | Sea Rescue Plane |
+| Nazwa polska | Coast Guard Hydroplan ratowniczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 24 cm |
+| EAN | 5702015866316 |
 
 LEGO CITY 60164 Hydroplan Ratowniczy
  
@@ -6392,11 +9992,27 @@ Wstąp w szeregi dzielnych strażników przybrzeżnych LEGO® City z zestawem Hy
 - Szalupa ratunkowa ma ok. 3 cm wysokości, 6 cm długości i 4 cm szerokości. 
 - Skuter wodny ma ok. 6 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 60164-1: https://a.allegroimg.com/original/0005f3/c22476e74f1da8106cea5985c5f3
+
 ---
 
-## 60165 — Lego City 60165 Coast Guard Terenówka szybkiego reagowania
+## 60165 — Coast Guard Terenówka szybkiego reagowania
 
-*Kategoria: City · cena Allegro (2026-08-17): 315.00 zł · EAN: 05702015866378 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60165 |
+| Nazwa angielska | 4 x 4 Response Unit |
+| Nazwa polska | Coast Guard Terenówka szybkiego reagowania |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702015866378 |
 
 - Wezwij jednostkę ratowniczą straży przybrzeżnej i pomóż nurkowi, który utknął na morzu! 
 - Pędź do brzegu w terenówce szybkiego reagowania. 
@@ -6422,11 +10038,27 @@ Wstąp w szeregi dzielnych strażników przybrzeżnych LEGO® City z zestawem Hy
 - Figurka ośmiornicy ma ok. 6 cm długości, 5 cm szerokości i 2 cm wysokości. 
 - Boja ma ok. 8 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60165-1: https://a.allegroimg.com/original/009884/44ed38e84a15a25c0901fa0896fc
+
 ---
 
-## 60166 — Lego City 60166 Helikopter ratunkowy do zadań specjalnych Nowe
+## 60166 — Coast Guard Helikopter ratunkowy do zadań specjalnych
 
-*Kategoria: City · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702015866385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60166 |
+| Nazwa angielska | Heavy-Duty Rescue Helicopter |
+| Nazwa polska | Coast Guard Helikopter ratunkowy do zadań specjalnych |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 415 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 10 cm |
+| EAN | 5702015866385 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6450,11 +10082,27 @@ Dołącz do dzielnego zespołu straży przybrzeżnej LEGO® City w helikopterze 
 - Latarnia morska i wrak mają ok. 9 cm wysokości, 6 cm szerokości i 10 cm głębokości. 
 - Figurka rekina ma ok. 7 cm długości.
 
+**Galeria:**
+
+- 60166-1: https://a.allegroimg.com/original/11c244/88a88a304f01a9705b6f938bdde4
+
 ---
 
-## 60167 — Lego City 60167 Kwatera Straży Przybrzeżnej Straż Nowe
+## 60167 — Coast Guard Kwatera straży przybrzeżnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015866415 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60167 |
+| Nazwa angielska | Coast Guard Head Quarters |
+| Nazwa polska | Coast Guard Kwatera straży przybrzeżnej |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 792 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866415 |
 
 WITAM SERDECZNIE.
 
@@ -6466,11 +10114,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60167-1: https://a.allegroimg.com/original/11d7e9/270c2198441aa8e04dbaaa6006ad
+
 ---
 
-## 60168 — Lego 60168 City Na ratunek żaglówce
+## 60168 — Sailboat Rescue
 
-*Kategoria: City · cena Allegro (2026-08-17): 287.00 zł · EAN: 05702015866422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60168 |
+| Nazwa angielska | Sailboat Rescue |
+| Nazwa polska | Sailboat Rescue |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866422 |
 
 LEGO® 60168 City - Na ratunek żaglówce
 
@@ -6484,11 +10148,27 @@ Stan opakowania BDB.
 
 **Zapraszam**
 
+**Galeria:**
+
+- 60168-1: https://a.allegroimg.com/original/112927/f247eff5405ca72208be945b43cd
+
 ---
 
-## 60169 — Lego City 60169 Terminal towarowy Nowe
+## 60169 — Town Terminal towarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 791.00 zł · EAN: 05702015866446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60169 |
+| Nazwa angielska | Cargo Terminal |
+| Nazwa polska | Town Terminal towarowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 740 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702015866446 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -6518,11 +10198,27 @@ Dołącz do załogi terminalu towarowego LEGO® City, która zapewnia nieprzerwa
 - Skuter wodny ma ok. 4 cm długości, 3 cm szerokości i 2 cm wysokości. 
 - Pudełka LEGO® mają łącznie ok. 3 cm szerokości, 4 cm głębokości i 1 cm wysokości.
 
+**Galeria:**
+
+- 60169-1: https://a.allegroimg.com/original/115931/b013f1a04eab8f49f3de816e94a9
+
 ---
 
-## 60170 — Lego 60170 City Pościg za terenówką
+## 60170 — Pościg za terenówką
 
-*Kategoria: City · cena Allegro (2026-08-17): 104.99 zł · EAN: 05702016093773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60170 |
+| Nazwa angielska | Off-Road Chase |
+| Nazwa polska | Pościg za terenówką |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 3 cm |
+| EAN | 5702016093773 |
 
 Klocki LEGO City 60170 - Pościg za terenówką
 
@@ -6560,11 +10256,27 @@ Zestaw LEGO City - Pościg za terenówką trafił do sprzedaży w 2018 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60170-1: https://a.allegroimg.com/original/11922f/edf452b447a7b165a18a4a288a56
+
 ---
 
-## 60171 — Lego City 60171 Uciekinierzy w górach
+## 60171 — Uciekinierzy w górach
 
-*Kategoria: City · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016109542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60171 |
+| Nazwa angielska | Mountain Fugitives |
+| Nazwa polska | Uciekinierzy w górach |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109542 |
 
 LEGO City Uciekinierzy w górach
 
@@ -6581,11 +10293,27 @@ LEGO City Uciekinierzy w górach
 - **Rok prezentacji:** 2018
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 60171-1: https://a.allegroimg.com/original/05abeb/d7014c3c4545879719f8c4042f4b
+
 ---
 
-## 60172 — Lego City 60172 Pościg górską drogą
+## 60172 — Pościg górską drogą
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702016077537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60172 |
+| Nazwa angielska | Dirt Road Pursuit |
+| Nazwa polska | Pościg górską drogą |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016077537 |
 
 LEGO CITY POŚCIG GÓRSKĄ DROGĄ 60172
  
@@ -6597,11 +10325,27 @@ Siadaj za kierownicą i ruszaj w góry! W zestawie Pościg górską drogą znajd
  
 Przypnij odznakę i dołącz do ekipy Górskiej Policji z LEGO® City, która ściga złoczyńców polną drogą! W tym ekscytującym zestawie czeka na Ciebie policyjna terenówka z miejscem dla minifigurki w kabinie i wyrzutnią sieci, policyjny motocykl crossowy, a także terenówka złodziejaszków z miejscem na łupy z tyłu. W pudełku znajdziesz też element lawiny z funkcją uwalniania głazu. W zestawie są 3 minifigurki: 2 policjantów i złoczyńca.
 
+**Galeria:**
+
+- 60172-1: https://a.allegroimg.com/original/00751c/9d9860f9428180ab1986eb00a02a
+
 ---
 
-## 60173 — Lego City 60173 Aresztowanie w górach Nowe
+## 60173 — Zatčení v horách
 
-*Kategoria: City · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702016077544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60173 |
+| Nazwa angielska | Mountain Arrest |
+| Nazwa polska | Zatčení v horách |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 303 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 8 cm |
+| EAN | 5702016077544 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6624,11 +10368,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 - Wymiary kryjówki: ok. 13 cm wysokości, 12 cm szerokości i 7 cm głębokości. 
 - Model znany z reklamy telewizyjnej Policja LEGO® City.
 
+**Galeria:**
+
+- 60173-1: https://a.allegroimg.com/original/1121a1/ed7262004ecbbb363af80e988ad1
+
 ---
 
-## 60174 — Lego City 60174 nowy zestaw Julivo
+## 60174 — Górski posterunek policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 1140.00 zł · EAN: 05702016109559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60174 |
+| Nazwa angielska | Mountain Police Headquarters |
+| Nazwa polska | Górski posterunek policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 663 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm |
+| EAN | 5702016109559, 673419281492 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -6668,11 +10428,28 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60174-1: https://a.allegroimg.com/original/00f4b8/6b858a824dbda9705d1f406f69a2
+- 60174-2: https://a.allegroimg.com/original/11fb03/b13e27684d039d82c7ec25274709
+
 ---
 
-## 60175 — Lego City 60175 nowy zestaw Julivo
+## 60175 — Napad nad górską rzeką
 
-*Kategoria: City · cena Allegro (2026-08-17): 475.00 zł · EAN: 05702016109566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60175 |
+| Nazwa angielska | Mountain River Heist |
+| Nazwa polska | Napad nad górską rzeką |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm |
+| EAN | 5702016109566 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -6711,11 +10488,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60175-1: https://a.allegroimg.com/original/002805/ef65e93142cfba44d1b7381c0f98
+
 ---
 
-## 60176 — Lego 60176 City Ucieczka rzeką Idealny na święta dla dziecka
+## 60176 — Ucieczka rzeką
 
-*Kategoria: City · cena Allegro (2026-08-17): 284.21 zł · EAN: 00673419281515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60176 |
+| Nazwa angielska | Wild River Escape |
+| Nazwa polska | Ucieczka rzeką |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109573, 673419281515 |
 
 LEGO 60176 City - Ucieczka rzeką
 
@@ -6751,11 +10544,28 @@ Nr. Katalogowy: 60176
  
 Ilość klocków w zestawie: 126
 
+**Galeria:**
+
+- 60176-1: https://a.allegroimg.com/original/110c15/a14f4db5404aac18057858c1de11
+- 60176-2: https://a.allegroimg.com/original/007f64/9b6b0096435e905b9346ee8afe3d
+
 ---
 
-## 60177 — Lego City 60177 Odrzutowiec pokazowy
+## 60177 — Odrzutowiec pokazowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016075151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60177 |
+| Nazwa angielska | Airshow Jet |
+| Nazwa polska | Odrzutowiec pokazowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm |
+| EAN | 5702016075151 |
 
 **Lego 60177**
 
@@ -6780,11 +10590,27 @@ Odrzutowiec pokazowy z LEGO® City jest gotów do wspaniałych ewolucji! Ten mod
 - Ten zestaw do budowania jest odpowiedni dla dzieci w wieku 5–12 lat. 
 - Wymiary odrzutowca pokazowego: ok. 7 cm wysokości, 18 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 60177-1: https://a.allegroimg.com/original/05a643/4cd62b644cc78a739fb0e7464324
+
 ---
 
-## 60178 — Lego City 60178 Wyścigowy samochód
+## 60178 — Wyścigowy samochód
 
-*Kategoria: City · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016075168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60178 |
+| Nazwa angielska | Speed Record Car |
+| Nazwa polska | Wyścigowy samochód |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm |
+| EAN | 5702016075168 |
 
 Klocki LEGO City 60178 - Wyścigowy samochód
  
@@ -6801,11 +10627,27 @@ Złap za kierownicę wyścigowego samochodu LEGO® City i zaczekaj na zielone ś
 
 Pudełko w stanie dst
 
+**Galeria:**
+
+- 60178-1: https://2.allegroimg.com/original/004721/dbe11b2345eaa9922cb1ca8a82c2
+
 ---
 
-## 60179 — Lego City 60179 Helikopter medyczny
+## 60179 — Helikopter medyczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016077483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60179 |
+| Nazwa angielska | Ambulance Helicopter |
+| Nazwa polska | Helikopter medyczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702016077483 |
 
 LEGO CITY 60179 Helikopter medyczny
  
@@ -6826,11 +10668,27 @@ Dołącz do ekipy ratunkowej LEGO® City i leć na pomoc helikopterem medycznym!
 
 LEGO CITY 60179 Helikopter medyczny
 
+**Galeria:**
+
+- 60179-1: https://a.allegroimg.com/original/255280/72671d72451699a3c1709b8c2960
+
 ---
 
-## 60180 — Lego City 60180 Monster truck
+## 60180 — Monster truck
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.99 zł · EAN: 00673419279802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60180 |
+| Nazwa angielska | Monster Truck |
+| Nazwa polska | Monster truck |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm |
+| EAN | 5702016077490, 673419279802 |
 
 LEGO City 60180 Monster truck
 
@@ -6848,11 +10706,28 @@ Wymiary:
 
 Klocki LEGO City 60180 Monster truck to zestaw do składania i zabawy przeznaczony dla osób w wieku 6- 12 lat.
 
+**Galeria:**
+
+- 60180-1: https://a.allegroimg.com/original/005428/3bd1e1c64f89b851c5af67e4e19e
+- 60180-2: https://e.allegroimg.com/original/005428/3bd1e1c64f89b851c5af67e4e19e
+
 ---
 
-## 60181 — Lego City 60181 Forest Tractor
+## 60181 — Forest Tractor
 
-*Kategoria: City · cena Allegro (2026-08-17): 364.00 zł · EAN: 05702016077506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60181 |
+| Nazwa angielska | Forest Tractor |
+| Nazwa polska | Forest Tractor |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702016077506 |
 
 LEGO Traktor leśny 60181
  
@@ -6873,11 +10748,27 @@ Leśny traktor z serii LEGO City to okazja, by popracować na świeżym powietrz
 - Wymiary sosenki: ok. 4 cm szerokości, 2 cm wysokości i 2 cm głębokości. 
 - Model znany z reklamy telewizyjnej Superpojazdy LEGO City.
 
+**Galeria:**
+
+- 60181-1: https://a.allegroimg.com/original/00c453/737c7a7048c7989fcd3eb0f117ff
+
 ---
 
-## 60182 — Lego City 60182 Pickup z przyczepą
+## 60182 — Pickup z przyczepą
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016077513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60182 |
+| Nazwa angielska | Pickup & Caravan |
+| Nazwa polska | Pickup z przyczepą |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016077513 |
 
 LEGO CITY
  
@@ -6912,11 +10803,27 @@ SPECYFIKACJA:
 - **Ilość elementów:** 344 
 - **** 35.1 x 18.9 x 6.8 cm
 
+**Galeria:**
+
+- 60182-1: https://a.allegroimg.com/original/00768d/6aaa946f4b3682be442f59c99cd8
+
 ---
 
-## 60184 — Lego City 60184 Ekipa górnicza Nowe
+## 60184 — Ekipa górnicza
 
-*Kategoria: City · cena Allegro (2026-08-17): 142.00 zł · EAN: 05702016109504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60184 |
+| Nazwa angielska | Mining Team |
+| Nazwa polska | Ekipa górnicza |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016109504 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6942,11 +10849,27 @@ Zestaw klocków **LEGO City Ekipa górnicza ** został zaprezentowany w 2018 rok
 - Stos kamieni ma ok. 4 cm wysokości, 7 cm szerokości i 5 cm głębokości.
 - Wymiary stanowiska badawczego: ok. 5 cm wysokości, 3 cm szerokości i 2 cm głębokości.
 
+**Galeria:**
+
+- 60184-1: https://a.allegroimg.com/original/1197db/0068ee4e4592b3d574a2f9874ba0
+
 ---
 
-## 60185 — Lego City 60185 Kruszarka górnicza
+## 60185 — Kruszarka górnicza
 
-*Kategoria: City · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702016109511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60185 |
+| Nazwa angielska | Mining Power Splitter |
+| Nazwa polska | Kruszarka górnicza |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 127 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109511 |
 
 Rusz na poszukiwania żyły złota z Kruszarką górniczą LEGO CITY Górnictwo
  
@@ -6954,11 +10877,27 @@ Odkryj magię tworzenia i zbuduj swoje niezwykłe miasto z zestawami LEGO CITY. 
  
 Ciebie również ogarnęła już gorączka złota? Pora zakasać rękawy i wyruszyć do kopalni. Wskakuj na pokład kruszarki górniczej i w drogę. Kto wie jakie skarby na Ciebie czekają?! Widzisz tą ogromna skałę? Na co czekasz użyj młota pneumatycznego i rozłup ją. Pośród skruszonych odłamków błyszczy dorodny samorodek. Szukaj dalej, może to jest Twój dzień i odkryłeś prawdziwą żyłę złota. Co to było? Też to widziałeś? Tam za skałami coś błyszczy pięknym blaskiem. Czyżby to była bryłka złota? O nie! To wielki, świecący pająk! Bierz nogi za pas i uciekaj gdzie pieprz rośnie zanim go zdenerwujesz. Bycie poszukiwaczem złota to nie lada wyzwanie! Wyjedź na powierzchnię i odpocznij. Jutro kolejna dawka wrażeń.
 
+**Galeria:**
+
+- 60185-1: https://a.allegroimg.com/original/0097c1/09023462426bb71ff45656804e08
+
 ---
 
-## 60186 — Lego City 60186 Ciężkie wiertło górnicze
+## 60186 — Ciężkie wiertło górnicze
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016109528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60186 |
+| Nazwa angielska | Mining Heavy Driller |
+| Nazwa polska | Ciężkie wiertło górnicze |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 11 cm |
+| EAN | 5702016109528 |
 
 **Wyrusz po złoty skarb z Ciężkim wiertłem górniczym LEGO CITY Górnictwo**
  
@@ -6981,11 +10920,27 @@ Rusz na wielką wyprawę po cenny kruszec! Daj się porwać gorączce złota! Wy
 - jaskinia ma ok. 10 cm wysokości, 12 cm szerokości i 6 cm głębokości 
 - wymiary mobilnego laboratorium: ok. 3 cm wysokości, 6 cm szerokości i 2 cm głębokości
 
+**Galeria:**
+
+- 60186-1: https://a.allegroimg.com/original/05f23d/ad8fd541460ca70766ff2d614889
+
 ---
 
-## 60188 — Klocki Lego City Zestaw kopalnia Koparka Wywrotka 60188
+## 60188 — kopalnia
 
-*Kategoria: City · cena Allegro (2026-08-17): 1449.00 zł · EAN: 05702016109535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60188 |
+| Nazwa angielska | Mining Experts Site |
+| Nazwa polska | kopalnia |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 14 cm |
+| EAN | 5702016109535 |
 
 **LEGO CITY KOPALNIA 60188**
 
@@ -7021,11 +10976,27 @@ Kopalnia z torem ma ok. 12 cm wysokości, 15 cm szerokości i 37 cm głębokośc
 
 Wymiary mobilnego laboratorium: ok. 4 cm wysokości, 3 cm szerokości i 1 cm głębokości.
 
+**Galeria:**
+
+- 60188-1: https://a.allegroimg.com/original/11d484/7dbbf23c4cd18e82b53ea5896380
+
 ---
 
-## 60190 — Lego 60190 City Arktyczny ślizgacz Nowe klocki dla dziecka
+## 60190 — Arktyczny ślizgacz
 
-*Kategoria: City · cena Allegro (2026-08-17): 220.31 zł · EAN: 00673419281256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60190 |
+| Nazwa angielska | Arctic Ice Glider |
+| Nazwa polska | Arktyczny ślizgacz |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm |
+| EAN | 5702016108781, 673419281256 |
 
 LEGO 60190 City - Arktyczny ślizgacz
 
@@ -7051,11 +11022,28 @@ Odkryj coś niesamowitego w zestawie LEGO® City 60190 Arktyczny ślizgacz. Znaj
 
 - Ślizgacz ma ok. **6 cm wysokości, 11 cm długości i 8 cm szerokości.**
 
+**Galeria:**
+
+- 60190-1: https://a.allegroimg.com/original/25fccd/7c3d9eba47e4962d9e871930eef0
+- 60190-2: https://a.allegroimg.com/original/11a8cb/2461a967400ca230f705e04caa14
+
 ---
 
-## 60191 — Lego City Arctic 60191 Arktyczny Zespół Badawczy Skuter Pies Husky
+## 60191 — Arktyczny Zespół Badawczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 177.99 zł · EAN: 05702016108798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60191 |
+| Nazwa angielska | Arctic Exploration Team |
+| Nazwa polska | Arktyczny Zespół Badawczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm |
+| EAN | 5702016108798 |
 
 LEGO CITY 60191 Arktyczny Zespół Badawczy
 
@@ -7076,11 +11064,27 @@ Weź aparat i dołącz do badaczy z zestawu LEGO® City 60191 Arktyczny zespó�
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60191-1: https://a.allegroimg.com/original/110ed6/7d0aea834990b63f51a15fbd529f
+
 ---
 
-## 60192 — Lego City 60192 Arktyczny Łazik Lodowy
+## 60192 — Arktyczny łazik lodowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 368.50 zł · EAN: 00673419280792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60192 |
+| Nazwa angielska | Arctic Ice Crawler |
+| Nazwa polska | Arktyczny łazik lodowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 14 cm |
+| EAN | 5702016109450, 673419280792 |
 
 LEGO CITY 60192 Arktyczny Łazik Lodowy
  
@@ -7099,11 +11103,27 @@ Wydobądź coś niezwykłego w zestawie LEGO® City 60192 Arktyczny łazik lodow
 - Lodowy łazik ma ok. 13 cm wysokości, 15 cm długości i 14 cm szerokości.
 - Bryła lodu ma ok. 3 cm wysokości, 5 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 60192-1: https://a.allegroimg.com/original/25968a/2f4f4be54556bf1dc5f64b989b27
+
 ---
 
-## 60193 — Lego City 60193 Arktyczny transport powietrzny
+## 60193 — Arktyczny transport powietrzny
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016109467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60193 |
+| Nazwa angielska | Arctic Air Transport |
+| Nazwa polska | Arktyczny transport powietrzny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 30 cm |
+| EAN | 5702016109467 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7144,11 +11164,27 @@ Przetransportuj drogocenne znalezisko w zestawie LEGO® City 60193 Arktyczny tra
 
 - bryła lodu ma ok. 7 cm wysokości, 3 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 60193-1: https://a.allegroimg.com/original/051e71/9cb7c721472ebd2d8ad1af8eba88
+
 ---
 
-## 60195 — Klocki Lego City 60195 Arktyczna baza mobilna
+## 60195 — Arktyczna baza mobilna
 
-*Kategoria: City · cena Allegro (2026-08-17): 1449.98 zł · EAN: 00673419280822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60195 |
+| Nazwa angielska | Arctic Mobile Exploration Base |
+| Nazwa polska | Arktyczna baza mobilna |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 786 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702016109481, 673419280822 |
 
 LEGO CITY 60195 ARKTYCZNA BAZA MOBILNA.
 
@@ -7196,11 +11232,28 @@ Skuter śnieżny ma ok. 3 cm wysokości, 8 cm długości i 1 cm szerokości.
 
 Mamut ma ok. 7 cm wysokości.
 
+**Galeria:**
+
+- 60195-1: https://a.allegroimg.com/original/115810/646999c94508af6c7c2ae565250e
+- 60195-2: https://a.allegroimg.com/original/0040f4/b62481454f938fac897abd120c89
+
 ---
 
-## 60196 — Lego City 60196 Arktyczny samolot dostawczy Nowe
+## 60196 — Arktyczny samolot dostawczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1088.00 zł · EAN: 05702016109498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60196 |
+| Nazwa angielska | Arctic Supply Plane |
+| Nazwa polska | Arktyczny samolot dostawczy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 707 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 27 cm |
+| EAN | 5702016109498 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7223,47 +11276,27 @@ Wzbij się w powietrze z ciekawymi znaleziskami w zestawie LEGO® City 60196 Ark
 - Lodowa góra ma ok. 8 cm wysokości, 12 cm szerokości i 10 cm głębokości. 
 - Tygrys szablozębny ma ok. 4 cm wysokości.
 
----
+**Galeria:**
 
-## 60198 — Lego City 60198 Pociąg towarowy
-
-*Kategoria: City · cena Allegro (2026-08-17): 852.91 zł · EAN: 05702016109795 · in stock*
-
-LEGO City 60198 Pociąg towarowy
- 
-Załaduj towary na potężny pociąg z zestawu LEGO® City 60198 Pociąg towarowy i dostarcz je na czas. Ten ciekawy pojazd z serii LEGO City wyposażony jest w silnik z 10-biegowym pilotem Bluetooth, otwieraną kabinę maszynisty, wagon z obracanym i wysuwanym dźwigiem, wagon towarowy z dwoma kontenerami oraz wagon towarowy na drewno.
- 
-W zestawie jest także wóz opancerzony z otwieranymi drzwiami oraz wózek widłowy z otwieraną klatką bezpieczeństwa i podnoszonymi widłami. Do tego fantastycznego zestawu LEGO dołączony jest okrągły tor składający się z 16 zakrzywionych i 16 prostych fragmentów, a także zwrotnica kolejowa z dźwignią, centrum zarządzania ruchem kolejowym z drabiną, dwie palety do zbudowania z banknotami, sztabki złota, skuter śnieżny oraz sześć minifigurek LEGO.
-
- 
-- W zestawie sześć minifigurek LEGO®: czterech pracowników kolei, ochroniarz i złodziejaszek. 
-- Pojazd wyposażony jest w silnik z 10-biegowym pilotem Bluetooth, pantograf na otwieranym dachu oraz kabinę maszynisty z panelem sterowania. 
-- Do pociągu można doczepić wagon towarowy na drewno, wagon z obracanym i wysuwanym dźwigiem oraz wagon towarowy z dwoma kontenerami, które mają haki do ładowania na dachu i miejsce na palety. 
-- W zestawie jest centrum zarządzania ruchem kolejowym wyposażone w drabinę i sygnalizację świetlną, okrągły tor składający się z 16 zakrzywionych i 16 prostych fragmentów torów, zwrotnica kolejowa z dźwignią, samochód do przewozu pieniędzy z otwieranymi drzwiami oraz działający wózek widłowy z otwieraną klatką bezpieczeństwa. 
-- Akcesoria: klucz, 12 sztabek złota, cztery banknoty, dwie palety do zbudowania, trzy kłody drewna i skuter śnieżny. 
-- Otwórz dach, by zajrzeć do lokomotywy pełnej ciekawych detali. 
-- Steruj pociągiem towarowym za pomocą 10-biegowego pilota Bluetooth. 
-- Podnieś kłody drewna i załaduj je na wagon dźwigiem z obrotowym i ruchomym wysięgnikiem. 
-
- 
-- Włóż palety do kontenerów wózkiem widłowym, a potem podnieś je dźwigiem i załaduj na wagon towarowy. 
-- Ustaw tory w różnych konfiguracjach i transportuj ładunki po swoim mieście. 
-- Typ i liczbę potrzebnych baterii znajdziesz na opakowaniu produktu. 
-- Pilot Bluetooth dołączony do zestawu nie jest zgodny ze starszymi modelami pociągów LEGO® sterowanych na podczerwień. 
-- Pociąg towarowy ma ok. 11 cm wysokości, 82 cm długości i 6 cm szerokości. 
-- Silnik ma ok. 11 cm wysokości, 27 cm długości i 6 cm szerokości. 
-- Wagon na drewno ma ok. 5 cm wysokości, 15 cm długości i 6 cm szerokości. 
-- Wagon z dźwigiem ma ok. 10 cm wysokości, 22 cm długości i 5 cm szerokości. 
-- Wagon z kontenerami ma ok. 9 cm wysokości, 18 cm długości i 5 cm szerokości. 
-- Wóz opancerzony ma ok. 6 cm wysokości, 15 cm długości i 6 cm szerokości. 
-- Centrum zarządzania ruchem kolejowym ma ok. 21 cm wysokości, 8 cm szerokości i 12 cm głębokości. 
-- Wózek widłowy ma ok. 7 cm wysokości, 5 cm szerokości i 12 cm głębokości.
+- 60196-1: https://a.allegroimg.com/original/11ac28/f2d089994af1be2d6544854bda36
 
 ---
 
-## 60200 — Lego City 60200 Stolica Nowe
+## 60200 — Capital City
 
-*Kategoria: City · cena Allegro (2026-08-17): 1198.00 zł · EAN: 05702016109580 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60200 |
+| Nazwa angielska | Capital City |
+| Nazwa polska | Capital City |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 13 cm × gł. 12 cm |
+| EAN | 5702016109580 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7289,11 +11322,27 @@ Posmakuj wielkomiejskiego życia w stylu LEGO® City z fantastycznym zestawem 60
 - Dwupiętrowy autobus ma ok. 10 cm wysokości, 20 cm długości i 5 cm szerokości. 
 - Samochód sportowy ma ok. 4 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60200-1: https://a.allegroimg.com/original/11c4c4/3d8cf8df482bb00417a45d7eb75a
+
 ---
 
-## 60202 — Lego City 60202 Niesamowite przygody
+## 60202 — Niesamowite przygody
 
-*Kategoria: City · cena Allegro (2026-08-17): 317.99 zł · EAN: 05702016108958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60202 |
+| Nazwa angielska | People Pack - Outdoor Adventures |
+| Nazwa polska | Niesamowite przygody |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016108958 |
 
 Zestaw "Niesamowite przygody" z LEGO City, numer katalogowy 60202. Zestaw zawiera aż 15 minifigurek Lego City z licznymi akcesoriami. Idealny do uzupełnienia makiety miasta.
 
@@ -7307,11 +11356,27 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 60202-1: https://a.allegroimg.com/original/113e8b/577c11644bcea6ad6d867a5d49dc
+
 ---
 
-## 60203 — Lego City 60203 Kurort narciarski
+## 60203 — Kurort narciarski
 
-*Kategoria: City · cena Allegro (2026-08-17): 473.46 zł · EAN: 05702016595451 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60203 |
+| Nazwa angielska | Ski Resort |
+| Nazwa polska | Kurort narciarski |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 806 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702016595451 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -7353,11 +11418,27 @@ Młodzi fani sportów zimowych z pewnością nie będą się nudzić z pełnym p
 - 15 cm wysokości, 12 cm szerokości i 7 cm głębokości. 
 - Rampa typu grind rail ma ok. 11 cm szerokości.
 
+**Galeria:**
+
+- 60203-1: https://a.allegroimg.com/original/000c01/cd1b7a2e48519574313f4f78ac29
+
 ---
 
-## 60204 — Lego City Zestaw Szpital Helikopter Karetka Hospital 60204
+## 60204 — Szpital
 
-*Kategoria: City · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016108965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60204 |
+| Nazwa angielska | City Hospital |
+| Nazwa polska | Szpital |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 861 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016108965 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -7376,11 +11457,26 @@ Młodzi fani sportów zimowych z pewnością nie będą się nudzić z pełnym p
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 60204-1: https://a.allegroimg.com/original/256e5b/664425f84190b75903e42500c919
+
 ---
 
-## 60205 — Klocki Lego City Tory 60205
+## 60205 — Tory
 
-*Kategoria: City · cena Allegro (2026-08-17): 55.09 zł · EAN: 05702016199055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60205 |
+| Nazwa angielska | Tracks |
+| Nazwa polska | Tory |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 20 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016199055, 673419294089 |
 
 **LEGO City Tory 60205**
 
@@ -7394,11 +11490,28 @@ Z elastycznym zestawem LEGO® City 60205 Tory pokonasz każdą przeszkodę! Wyd�
 
 • Jeszcze więcej zabawy czeka Cię po podłączeniu torów do istniejących zestawów LEGO®, takich jak 60197 Pociąg pasażerski.
 
+**Galeria:**
+
+- 60205-1: https://a.allegroimg.com/original/114d38/b25c78884474a3e9f865c21d8263
+- 60205-2: https://a.allegroimg.com/original/117f8e/501e8d734a85b546e18cee226859
+
 ---
 
-## 60206 — Lego City 60206 nowy zestaw Julivo
+## 60206 — Policyjny patrol powietrzny
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016369816 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60206 |
+| Nazwa angielska | Sky Police Jet Patrol |
+| Nazwa polska | Policyjny patrol powietrzny |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 11 cm |
+| EAN | 5702016369816, 673419303729 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -7437,11 +11550,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60206-1: https://a.allegroimg.com/original/056193/a0d2683d4fa28f95c8b9809fc050
+
 ---
 
-## 60207 — Lego City 60207 Pościg policyjnym dronem
+## 60207 — Pościg policyjnym dronem
 
-*Kategoria: City · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702016369564 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60207 |
+| Nazwa angielska | Sky Police Drone Chase |
+| Nazwa polska | Pościg policyjnym dronem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm |
+| EAN | 5702016369564, 673419303675 |
 
 Nowy nieotwierany zestaw Lego. Pudełko w bardzo dobrym stanie.
 
@@ -7459,11 +11588,28 @@ Patroluj ulice miasta LEGO City z lotu ptaka w emocjonującym zestawie 60207 Po�
 - Dron złodziejaszka ma ok. 3 cm wysokości, 9 cm długości i 9 cm szerokości. 
 - Pomnik ze złotą minifigurką na cokole ma ok. 9 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60207-1: https://a.allegroimg.com/original/11cbc9/a8d752154302b33b8744363a40a1
+- 60207-2: https://a.allegroimg.com/original/05e38e/72142491425aabbc034a8a4ffe6b
+
 ---
 
-## 60208 — Lego City 60208 Aresztowanie Spadochroniarza Samolot Policja Quad Motocykl
+## 60208 — Aresztowanie Spadochroniarza
 
-*Kategoria: City · cena Allegro (2026-08-17): 328.99 zł · EAN: 05702016369779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60208 |
+| Nazwa angielska | Sky Police Parachute Arrest |
+| Nazwa polska | Aresztowanie Spadochroniarza |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 20 cm |
+| EAN | 5702016369779 |
 
 LEGO CITY 60208 Aresztowanie Spadochroniarza
 
@@ -7483,11 +11629,27 @@ Patroluj ulice miasta LEGO® City z lotu ptaka w niesamowitym zestawie 60208 Are
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60208-1: https://a.allegroimg.com/original/118ce5/4f64862142a59daa11a35316b5bb
+
 ---
 
-## 60209 — Lego Rabunek diamentów 60209
+## 60209 — Rabunek diamentów
 
-*Kategoria: City · cena Allegro (2026-08-17): 426.89 zł · EAN: 05702016369922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60209 |
+| Nazwa angielska | Sky Police Diamond Heist |
+| Nazwa polska | Rabunek diamentów |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm |
+| EAN | 5702016369922 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -7515,11 +11677,27 @@ PACZKI .
 
 Odzyskaj skradzione klejnoty w emocjonującym zestawie dla dzieci Rabunek diamentów! Patroluj ulice miasta LEGO® City z lotu ptaka w niesamowitym zestawie 60209 Rabunek diamentów. Znajdziesz w nim policyjną furgonetkę opancerzoną z otwieranym dachem, klockiem ze światłem i dźwiękiem (nowość na styczeń 2019 r.), celą więzienną i wyciąganym sejfem z klejnotem. Ten emocjonujący zestaw policyjny LEGO City zawiera także policyjny plecak odrzutowy ze skrzydłami, helikopter złodziejaszków z obrotowymi wirnikami, plastikową liną do wspinania się i otwieranym kokpitem, a także cztery minifigurki. W zestawie cztery minifigurki LEGO® City: dwoje funkcjonariuszy policji powietrznej i dwoje złodziejaszków. W komplecie policyjny plecak odrzutowy ze skrzydłami, policyjna furgonetka opancerzona z otwieranym dachem, klockiem ze światłem i dźwiękiem (nowość na styczeń 2019 r.), celą więzienną i wyciąganym sejfem z klejnotem, a także helikopter złodziejaszków z dwoma obrotowymi wirnikami, otwieranym kokpitem i plastikową liną, za pomocą której można ukraść sejf. Akcesoria: klejnot, trzy hełmy z podnoszonymi wizjerami, czapka, piła tarczowa i kajdanki. Naciśnij klocek ze światłem i dźwiękiem na policyjnej furgonetce, a inne samochody zjadą Ci z drogi. Zakręć wirnikami helikoptera i udaj, że zawisa on nad policyjnym pojazdem. Policyjna furgonetka opancerzona ma ok. 8 cm wysokości, 17 cm długości i 8 cm szerokości. Plecak odrzutowy ze skrzydłami ma ok. 9 cm długości i 4 cm szerokości. Helikopter złodziejaszków ma ok. 10 cm wysokości, 21 cm długości i 20 cm szerokości. Liczba elementów: 400 Wiek: +6 lata Grupa LEGO to jedna z najbardziej rozpoznawalnych firm z branży zabawek dla dzieci. Firma LEGO założona została w 1932 roku w Danii przez Olego Kirka Christiansena. Klocki produkowane przez Grupę LEGO słyną z wysokiej jakości i doskonałej precyzji. Grupa LEGO jest jednym z nielicznych producentów, który większość swoich zabawek produkuje wciąż w Europie (Dania i Czechy). Zabawki sygnowane znakiem LEGO® słyną jako nieliczne obecnie zabawki wielopokoleniowe - ze względu na ich legendarną trwałość i kompatybilność, zestawami swoich rodziców z równą pasją bawić się będą ich dzieci! LEGO® City to najpopularniejsza seria duńskiego producenta, oparta na motywie życia w mieście LEGO® City! Dzięki uniwersalnemu motywowi, dzieci mogą budować maszyny, pojazdy i budowle znane z otaczającego ich świata. Dzięki podziałowi na pomniejsze serie takie jak: LEGO® City Policja, LEGO® City Straż Pożarna, LEGO® City Lotnisko, LEGO® City Straż Przybrzeżna i wiele innych, każdy maluch znajdzie tu coś dla siebie. Zróżnicowane zadania mogą rozgrywać się na lądzie, pod nim, w powietrzu i na wodzie - co doskonale wzbogaca świat LEGO® City i czyni go niezwykle kompleksowym i realistycznym. Polecamy!
 
+**Galeria:**
+
+- 60209-1: https://a.allegroimg.com/original/111ac6/5d069e0b44a094372ae2725e51fc
+
 ---
 
-## 60210 — Lego City 60210 Baza policji powietrznej
+## 60210 — Baza policji powietrznej
 
-*Kategoria: City · cena Allegro (2026-08-17): 689.00 zł · EAN: 00673419303903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60210 |
+| Nazwa angielska | Sky Police Air Base |
+| Nazwa polska | Baza policji powietrznej |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 529 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 22 cm × gł. 5 cm |
+| EAN | 673419303903 |
 
 Przeżywaj niezapomniane przygody na ziemi i w powietrzu we wspaniałym zestawie LEGO City Baza policji powietrznej!
  
@@ -7541,11 +11719,27 @@ Patroluj ulice miasta LEGO City z lotu ptaka w szczegółowym zestawie 60210 Baz
 - Samochód złoczyńców ma ok. 4 cm wysokości, 12 cm długości i 4 cm szerokości. 
 - Spadochron ma ok. 29 cm wysokości i 20 cm szerokości.
 
+**Galeria:**
+
+- 60210-1: https://a.allegroimg.com/original/0571ec/dd72c88f4cf48065ab743f669b6a
+
 ---
 
-## 60212 — Lego City 60212 Płonący grill
+## 60212 — Płonący grill
 
-*Kategoria: City · cena Allegro (2026-08-17): 125.49 zł · EAN: 05702016369243 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60212 |
+| Nazwa angielska | Barbecue Burn Out |
+| Nazwa polska | Płonący grill |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702016369243, 673419303002 |
 
 LEGO Płonący grill 60212
  
@@ -7567,11 +11761,27 @@ Dołącz do zabawy i chroń miasto LEGO City ze swoim dzieckiem w zestawie 60212
 - Wóz strażacki ma ok. 9 cm wysokości, 8 cm długości i 5 cm szerokości. 
 - Drzewo i grill mają ok. 6 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 60212-1: https://a.allegroimg.com/original/11a80a/110495a542aab5f7de3e09f58c72
+
 ---
 
-## 60213 — Lego City 60213 Pożar w dokach
+## 60213 — Pożar w dokach
 
-*Kategoria: City · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016369250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60213 |
+| Nazwa angielska | Dock Side Fire |
+| Nazwa polska | Pożar w dokach |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702016369250, 673419303019 |
 
 LEGO Pożar w dokach 60213
 
@@ -7591,11 +11801,27 @@ Zadbaj o bezpieczeństwo nabrzeża w ciekawym zestawie LEGO City 60213 Pożar w 
 - Łódź straży pożarnej ma ok. 5 cm wysokości, 13 cm długości i 6 cm szerokości.
 - Fragment doków ma ok. 3 cm wysokości, 9 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 60213-1: https://a.allegroimg.com/original/057175/51dce3124955af78ea7588455fdc
+
 ---
 
-## 60214 — Lego 60214 City Na ratunek w płonącym barze
+## 60214 — Na ratunek w płonącym barze
 
-*Kategoria: City · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016369267 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60214 |
+| Nazwa angielska | Burger Bar Fire Rescue |
+| Nazwa polska | Na ratunek w płonącym barze |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369267 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -7610,11 +11836,27 @@ Numer magazynowy sprzedawcy: 20260257
 
 Przybliżone wymiary opakowania: 38,2 x 26,2 x 5,6 cm
 
+**Galeria:**
+
+- 60214-1: https://a.allegroimg.com/original/1113e2/849c472a4df7a385d4fa9a5ce2db
+
 ---
 
-## 60215 — Lego City 60215 nowy zestaw Julivo
+## 60215 — Remiza strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702016369373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60215 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza strażacka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 509 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 21 cm × gł. 27 cm |
+| EAN | 5702016369373 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -7654,11 +11896,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60215-1: https://a.allegroimg.com/original/11bec9/83a25ab8403dabf97ff3e278a2a2
+
 ---
 
-## 60216 — Klocki Lego City Zestaw Straż pożarna w śródmieściu 60216
+## 60216 — Straż pożarna w śródmieściu
 
-*Kategoria: City · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702016369489 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60216 |
+| Nazwa angielska | Downtown Fire Brigade |
+| Nazwa polska | Straż pożarna w śródmieściu |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 943 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702016369489 |
 
 Dołącz do akcji w śródmieściu i pomóż bohaterskim strażakom!
 
@@ -7686,11 +11944,27 @@ Zadbaj o bezpieczeństwo mieszkańców LEGO City w niesamowitym zestawie 60216 S
 - Dźwig ma ok. 24 cm wysokości, 21 cm długości i 11 cm szerokości.
 - Helikopter ma ok. 8 cm wysokości, 19 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 60216-1: https://a.allegroimg.com/original/050a52/732a38ac4d2b980bea4fb1557e06
+
 ---
 
-## 60217 — Lego City 60217 Samolot strażacki
+## 60217 — Samolot strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016369496 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60217 |
+| Nazwa angielska | Fire Plane |
+| Nazwa polska | Samolot strażacki |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 33 cm |
+| EAN | 5702016369496, 673419303507 |
 
 LEGO Samolot strażacki 60217
  
@@ -7712,11 +11986,27 @@ Pomóż strażakom LEGO City uratować leśne zwierzaki w emocjonującym zestawi
 - Terenówka strażacka ma ok. 7 cm wysokości, 11 cm długości i 5 cm szerokości. 
 - Drzewo z norą skunksa ma ok. 10 cm wysokości, 12 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 60217-1: https://a.allegroimg.com/original/11d5ee/abd6b7134608bffb77451233288a
+
 ---
 
-## 60218 — Lego City 60218 Pustynna wyścigówka rajdówka buggy Atv terenówka
+## 60218 — Pustynna wyścigówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702016369502 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60218 |
+| Nazwa angielska | Desert Rally Racer |
+| Nazwa polska | Pustynna wyścigówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016369502 |
 
 Nowy zestaw klocków
 
@@ -7735,11 +12025,27 @@ Pędź w stronę mety superszybkim samochodzikiem z zestawu LEGO® City 60218 Pu
 - Zmień położenie spojlera, a dzięki dodatkowemu dociskowi pojedziesz jeszcze szybciej!
 - Pustynna wyścigówka ma ok. 6 cm wysokości, 12 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60218-1: https://a.allegroimg.com/original/25260e/6b7c139d43aa955b65c32749e9f5
+
 ---
 
-## 60219 — Lego City 60219 Koparka Klocki Miasto Budowa Nowe Oryginalne
+## 60219 — Koparka
 
-*Kategoria: City · cena Allegro (2026-08-17): 129.15 zł · EAN: 00673419303521 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60219 |
+| Nazwa angielska | Construction Loader |
+| Nazwa polska | Koparka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702016369519, 673419303521 |
 
 LEGO 60219 City - Koparka
 
@@ -7765,11 +12071,27 @@ Koparka ma ok. 7 cm wysokości, 12 cm długości i 5 cm szerokości.
 
 Ogrodzenie i sterta gruzu mają ok. 4 cm szerokości.
 
+**Galeria:**
+
+- 60219-1: https://a.allegroimg.com/original/05e1ce/aff11bcd4c58a4b55d846eb3697c
+
 ---
 
-## 60220 — Lego City 60220 Śmieciarka
+## 60220 — Śmieciarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 179.49 zł · EAN: 05702016369526 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60220 |
+| Nazwa angielska | Garbage Truck |
+| Nazwa polska | Śmieciarka |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702016369526 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -7814,11 +12136,27 @@ Zestaw zawiera proste instrukcje, które pomogą zacząć budowanie i zabawę, a
 - Śmieciarka ma ok. 9 cm wysokości, 14 cm długości i 7 cm szerokości. 
 - Kontener ma ok. 4 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60220-1: https://a.allegroimg.com/original/11247f/2bc1983b434c85077a22faac2db6
+
 ---
 
-## 60221 — Lego City 60221 Jacht
+## 60221 — Jacht
 
-*Kategoria: City · cena Allegro (2026-08-17): 316.00 zł · EAN: 05702016369533 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60221 |
+| Nazwa angielska | Diving Yacht |
+| Nazwa polska | Jacht |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702016369533 |
 
 LEGO Jacht 60221
  
@@ -7837,11 +12175,27 @@ Zwiedź podwodny świat w zestawie LEGO City 60221 Jacht! Ten luksusowy jacht do
 - **Jacht ma ok. 8 cm wysokości, 23 cm długości i 6 cm szerokości.** 
 - **Fragment dna morskiego ma ok. 5 cm wysokości, 4 cm szerokości i 4 cm głębokości.**
 
+**Galeria:**
+
+- 60221-1: https://a.allegroimg.com/original/05d835/1994df664d3d983b68cdc374c6b3
+
 ---
 
-## 60222 — Lego City 60222 Pług gąsienicowy
+## 60222 — Pług gąsienicowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016369540 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60222 |
+| Nazwa angielska | Snow Groomer |
+| Nazwa polska | Pług gąsienicowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702016369540 |
 
 LEGO Pług gąsienicowy 60222
  
@@ -7858,11 +12212,27 @@ Narciarze z miasta LEGO City z pewnością docenią pracę pojazdu z zestawu 602
 - Pchnij boki lemiesza do środka, by zagarniać śnieg z drogi. 
 - Pług gąsienicowy ma ok. 10 cm wysokości, 18 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 60222-1: https://a.allegroimg.com/original/058411/261b82434650ba6dca7898a7f1de
+
 ---
 
-## 60223 — Lego City 60223 nowy zestaw Julivo
+## 60223 — Transporter kombajnu
 
-*Kategoria: City · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016369557 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60223 |
+| Nazwa angielska | Harvester Transport |
+| Nazwa polska | Transporter kombajnu |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016369557 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -7900,11 +12270,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60223-1: https://a.allegroimg.com/original/00adaf/bd892d7e4b76941f276fdace841f
+
 ---
 
-## 60226 — Lego City 60226 Wyprawa badawcza na Marsa
+## 60226 — Wyprawa badawcza na Marsa
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016369960 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60226 |
+| Nazwa angielska | Mars Research Shuttle |
+| Nazwa polska | Wyprawa badawcza na Marsa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 273 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369960 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -7914,11 +12300,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60226-1: https://a.allegroimg.com/original/11e67c/5b479fb34925b2bb4d25db6af4ff
+
 ---
 
-## 60227 — Lego City 60227 Stacja kosmiczna na Księżycu Nowe
+## 60227 — Stacja kosmiczna na Księżycu
 
-*Kategoria: City · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016370478 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60227 |
+| Nazwa angielska | Lunar Space Station |
+| Nazwa polska | Stacja kosmiczna na Księżycu |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 412 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 12 cm |
+| EAN | 5702016370478 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -7943,11 +12345,27 @@ Daj młodym odkrywcom kosmosu okazję do zabawy inspirowanym pracą NASA zestawe
 - Moduł mieszkalny ma ok. 7 cm wysokości, 7 cm długości i 6 cm szerokości. 
 - Centralna śluza powietrzna ma ok. 7 cm wysokości, 11 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 60227-1: https://a.allegroimg.com/original/11a23b/f08bcc064979bcb8c4540b82f17e
+
 ---
 
-## 60228 — Lego City 60228 Centrum lotów kosmicznych
+## 60228 — Centrum lotów kosmicznych
 
-*Kategoria: City · cena Allegro (2026-08-17): 825.55 zł · EAN: 05702016370485 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60228 |
+| Nazwa angielska | Deep Space Rocket and Launch Control |
+| Nazwa polska | Centrum lotów kosmicznych |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 837 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 11 cm × gł. 6 cm |
+| EAN | 5702016370485, 716852280551 |
 
 LEGO Centrum lotów kosmicznych 60228
  
@@ -7974,11 +12392,28 @@ Daj młodym odkrywcom kosmosu okazję do zabawy inspirowanym pracą NASA zestawe
 - Kolejka jednotorowa ma ok. 3 cm wysokości, 10 cm długości i 3 cm szerokości. 
 - Tor kolejki ma ok. 8 cm wysokości, 36 cm głębokości i 47 cm szerokości.
 
+**Galeria:**
+
+- 60228-1: https://a.allegroimg.com/original/05e029/1d0eb82542fca67f5fdd243c3ff5
+- 60228-2: https://a.allegroimg.com/original/11dfe5/21e8a8d741c5902217751f235149
+
 ---
 
-## 60229 — Lego City Transport I Montaż Rakiety 60229
+## 60229 — Transport i montaż rakiety
 
-*Kategoria: City · cena Allegro (2026-08-17): 654.76 zł · EAN: 05702016370492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60229 |
+| Nazwa angielska | Rocket Assembly & Transport |
+| Nazwa polska | Transport i montaż rakiety |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1055 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm |
+| EAN | 5702016370492 |
 
 **Transport i montaż rakiety**
 
@@ -8012,19 +12447,51 @@ Daj młodym odkrywcom kosmosu okazję do samodzielnej zabawy inspirowanym pracą
 
 • Pomieszczenie kontroli lotów ma ok. 12 cm wysokości, 15 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 60229-1: https://a.allegroimg.com/original/119b27/ee59c7ae4e08b7766b37b9ec293f
+
 ---
 
-## 60230 — Lego City 60230 Badania kosmiczne minifigurki
+## 60230 — Badania kosmiczne minifigurki
 
-*Kategoria: City · cena Allegro (2026-08-17): 234.00 zł · EAN: 05702016370508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60230 |
+| Nazwa angielska | People Pack – Space Research and Development |
+| Nazwa polska | Badania kosmiczne minifigurki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702016370508 |
 
 - W zestawie 14 minifigurek LEGO City: siedmioro astronautów, reporter, kamerzysta, trener, inżynier zajmujący się dronem, inżynier aeronautyczny, inżynier mechanik oraz botaniczka, a do tego figurka robota.- W komplecie obracająca się wirówka przeciążeniowa, dwa łóżka, bieżnia, dron z obracającym się wirnikiem, kapsuła z rośliną, podest dla robota, fragment kamienistego terenu, stanowisko komputerowe z ekranem oraz rakieta testowa na stojaku.- Akcesoria w zestawie: szkło powiększające, spawarka, biała flaga, megafon, aparat fotograficzny, mikrofon, głowa kosmity na patyku, dwa hełmy astronautów z niebieskimi wizjerami, hełm astronauty ze złotym wizjerem, skafander do spacerów kosmicznych ze złotym wizjerem i lampą, kosz na śmieci, kubek, pilot do drona, pudełka na pizzę, pizza, dwie geody (nowość na czerwiec 2019 r.) oraz skrzynka z narzędziami.- Zakręć wirówką przeciążeniową i pomóż astronautom w treningu przed podróżą kosmiczną.- Ta ciekawa zabawka konstrukcyjna doskonale sprawdzi się jako prezent dla dziecka.- Fragment kamienistego terenu ma ok. 4 cm szerokości i 3 cm głębokości.- Podest dla robota ma ok. 3 cm szerokości i 3 cm głębokości.- Dron ma ok. 3 cm długości i 3 cm szerokości.- Stanowisko komputerowe ma ok. 3 cm wysokości i 4 cm szerokości.- Kapsuła do uprawy roślin ma ok. 3 cm wysokości, 5 cm szerokości i 3 cm głębokości.- Wirówka przeciążeniowa z łóżkami ma ok. 4 cm wysokości, 4 cm szerokości i 18 cm głębokości.- Bieżnia ma ok. 4 cm głębokości.- Stojak na rakietę ma ok. 4 cm wysokości, 3 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 60230-1: https://a.allegroimg.com/original/009301/e86a95524018a6ae57e9ef3e95f9
+
 ---
 
-## 60231 — Lego City 60231 Terenówka Komendantki Straży poż.
+## 60231 — Terenówka komendantki straży poż.
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016370515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60231 |
+| Nazwa angielska | Fire Chief Response Truck |
+| Nazwa polska | Terenówka komendantki straży poż. |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016370515 |
 
 Zapewnij dziecku zabawę i akcję dzięki temu odlotowemu zestawowi z wozem strażackim!
  
@@ -8045,11 +12512,27 @@ Do tego w aplikacji LEGO Life na smartfonach i tabletach znajdziesz ekstra instr
 - Wóz strażacki ma ok. 6 cm wysokości, 16 cm długości i 7 cm szerokości. 
 - Skrzynka elektryczna razem z płytą naziemną ma ok. 3 cm2 .
 
+**Galeria:**
+
+- 60231-1: https://a.allegroimg.com/original/0553eb/ea819ea2453a890fcbe4d5402090
+
 ---
 
-## 60232 — Lego City 60232 Centrum motoryzacyjne wgniotka
+## 60232 — Centrum motoryzacyjne
 
-*Kategoria: City · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702016370522 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60232 |
+| Nazwa angielska | Garage Center |
+| Nazwa polska | Centrum motoryzacyjne |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702016370522 |
 
 Delikatna wgniotka na kartoniku
 
@@ -8074,11 +12557,27 @@ Wprowadź swojego młodego mechanika w świat motoryzacji z tym zestawem. Ten ze
 - Warsztat samochodowy ma ok. 11 cm wysokości, 12 cm szerokości i 11 cm głębokości.
 - Dystrybutor paliwa ma ok. 8 cm wysokości, 12 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 60232-1: https://a.allegroimg.com/original/05f0f2/ba62932a41a89d64e787d2eb3fd5
+
 ---
 
-## 60233 — Lego 60233 City Otwarcie Sklepu Z Pączkami
+## 60233 — Otwarcie sklepu z pączkami
 
-*Kategoria: City · cena Allegro (2026-08-17): 489.45 zł · EAN: 05702016370539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60233 |
+| Nazwa angielska | Donut Shop Opening |
+| Nazwa polska | Otwarcie sklepu z pączkami |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 790 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702016370539 |
 
 LEGO 60233 CITY - OTWARCIE SKLEPU Z PĄCZKAMI
 
@@ -8115,11 +12614,27 @@ Ten pełen akcji, inspirowany animowanym serialem telewizyjnym LEGO® City zesta
 - Sklep z pączkami z pączkiem na dachu ma ok. 17 cm wysokości, 14 cm szerokości i 6 cm głębokości.
 - Sklep z zabawkami ma ok. 13 cm wysokości, 12 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 60233-1: https://a.allegroimg.com/original/1131fe/f098cf234e56b6c9526a21b65961
+
 ---
 
-## 60234 — Lego City 60234 Wesołe miasteczko minifigurki
+## 60234 — Wesołe miasteczko minifigurki
 
-*Kategoria: City · cena Allegro (2026-08-17): 224.00 zł · EAN: 05702016370553 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60234 |
+| Nazwa angielska | People Pack - Fun Fair |
+| Nazwa polska | Wesołe miasteczko minifigurki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm |
+| EAN | 5702016370553 |
 
 Pobudź wyobraźnię swojego dziecka dzięki temu ciekawemu zestawowi minifigurek!
 
@@ -8133,11 +12648,27 @@ Zabawa w odgrywanie ról podczas przygód w mieście LEGO City jest jeszcze wię
 - Basenik dla kaczek z gry w rzut pierścieniem ma ok. 3 cm szerokości i 3 cm głębokości.
 - Siłomierz ma ok. 8 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 60234-1: https://a.allegroimg.com/original/05764c/a479ffd6469d902bccc201b35ce6
+
 ---
 
-## 60236 — Lego 60236 City Ulica i skrzyżowanie
+## 60236 — Ulica i skrzyżowanie
 
-*Kategoria: City · cena Allegro (2026-08-17): 198.99 zł · EAN: 05702016369786 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60236 |
+| Nazwa angielska | Straight and T-junction |
+| Nazwa polska | Ulica i skrzyżowanie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369786 |
 
 LEGO 60236 City - Ulica i skrzyżowanie
 
@@ -8147,11 +12678,27 @@ Wydłuż ulice swojego miasta z zestawem LEGO® City 60236 Ulica i skrzyżowanie
 - Połącz płytki konstrukcyjne z zestawami LEGO® City, które już masz, i poszerz swoje możliwości zabawy.
 - Każda z płytek konstrukcyjnych ma bok o długości 25 cm
 
+**Galeria:**
+
+- 60236-1: https://a.allegroimg.com/original/451cd5/5523231e4a6a815ff5b29f68b043
+
 ---
 
-## 60237 — Lego City 60237 Zakręt i skrzyżowanie
+## 60237 — Zakręt i skrzyżowanie
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702016369793 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60237 |
+| Nazwa angielska | Curve and Crossroad |
+| Nazwa polska | Zakręt i skrzyżowanie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369793 |
 
 LEGO CITY 60237 Zakręt i skrzyżowanie
 
@@ -8170,11 +12717,26 @@ Wydłuż ulice swojego miasta z zestawem LEGO® City 60237 Zakręt i skrzyżowan
  
 **Elementy 2**
 
+**Galeria:**
+
+- 60237-1: https://a.allegroimg.com/original/056c46/9334f08b4851a3bd969732512114
+
 ---
 
-## 60238 — Lego City Zwrotnice 60238
+## 60238 — Zwrotnice
 
-*Kategoria: City · cena Allegro (2026-08-17): 53.98 zł · EAN: 05702016364675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60238 |
+| Nazwa angielska | Switch Tracks |
+| Nazwa polska | Zwrotnice |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 8 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016364675 |
 
 KLOCKI LEGO 60238 CITY Zwrotnice
 
@@ -8184,11 +12746,27 @@ Z zestawem LEGO® City 60238 Zwrotnice zbudujesz nowe tory dla pociągów towaro
 
 • Jeszcze więcej zabawy czeka Cię po podłączeniu torów do istniejących zestawów LEGO®, takich jak 60198 Pociąg towarowy.
 
+**Galeria:**
+
+- 60238-1: https://a.allegroimg.com/original/11156e/07f4ae3d439fb9b0f9ff48730b08
+
 ---
 
-## 60239 — Lego City 60239 Samochód policyjny Radiowóz Policja
+## 60239 — Samochód policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.50 zł · EAN: 05702016396201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60239 |
+| Nazwa angielska | Police Patrol Car |
+| Nazwa polska | Samochód policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016396201 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -8205,11 +12783,27 @@ Pomóż kierować ruchem na ulicach miasta w zestawie LEGO® City 60239 Samochó
 - W komplecie są także dwa pachołki drogowe.
 - Samochód policyjny ma ok. 4 cm wysokości, 12 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60239-1: https://a.allegroimg.com/original/115df2/faeaebf04972b693df04780c94d8
+
 ---
 
-## 60240 — Oryginalne Lego 60240 City Przygoda w kajaku dla dziecka
+## 60240 — Przygoda w kajaku
 
-*Kategoria: City · cena Allegro (2026-08-17): 220.31 zł · EAN: 00673419308984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60240 |
+| Nazwa angielska | Kayak Adventure |
+| Nazwa polska | Przygoda w kajaku |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702016396188, 673419308984 |
 
 LEGO 60240 City - Przygoda w kajaku
 
@@ -8235,11 +12829,27 @@ Przeżyj ciekawy dzień na świeżym powietrzu w rewelacyjnym zestawie LEGO® Ci
 
 - Kajak ma ok. **11 cm długości.**
 
+**Galeria:**
+
+- 60240-1: https://a.allegroimg.com/original/05785d/5c9faa8b4c93a4cf66c74d8de4ee
+
 ---
 
-## 60241 — Lego City 60241 Oddział Policyjny z Psem Samochód Radiowóz Klejnoty Policja
+## 60241 — Oddział Policyjny z Psem
 
-*Kategoria: City · cena Allegro (2026-08-17): 118.90 zł · EAN: 05702016617559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60241 |
+| Nazwa angielska | Police Dog Unit |
+| Nazwa polska | Oddział Policyjny z Psem |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702016617559 |
 
 LEGO CITY 60241 Oddział Policyjny z Psem
 
@@ -8255,11 +12865,27 @@ Dzieci uwielbiają odgrywać role bohaterów życia codziennego, a zestaw LEGO®
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60241-1: https://a.allegroimg.com/original/110a84/02b805e94bbca072acb02053792d
+
 ---
 
-## 60243 — Lego City 60243 Pościg helikopterem policyjnym
+## 60243 — Pościg helikopterem policyjnym
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016617771 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60243 |
+| Nazwa angielska | Police Helicopter Chase |
+| Nazwa polska | Pościg helikopterem policyjnym |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 26 cm |
+| EAN | 5702016617771 |
 
 Klocki LEGO City 60243 - Pościg helikopterem policyjnym
 
@@ -8271,11 +12897,27 @@ Zestaw LEGO® City Pościg helikopterem policyjnym (60243) z policyjnym helikopt
 - Szukasz fajnych zabawek dla dzieci od 5 lat? Ten zestaw doskonale sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z innej okazji dla miłośników serii LEGO® City oraz chłopców i dziewczynek uwielbiających pełną akcji zabawę w odgrywanie ról. Model wymaga jedynie podstawowych umiejętności konstrukcyjnych.
 - Helikopter Sama Grizzleda po zbudowaniu ma ok. 11 cm wysokości, 30 cm długości i 26 cm szerokości, a ciężarówka Snake'a Rattlera — ok. 5 cm wysokości, 10 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60243-1: https://a.allegroimg.com/original/117959/ccd714324d68a9e36dd9947b4f1d
+
 ---
 
-## 60244 — Lego City 60244 Laweta helikoptera policyjnego
+## 60244 — Laweta helikoptera policyjnego
 
-*Kategoria: City · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016617788 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60244 |
+| Nazwa angielska | Police Helicopter Transport |
+| Nazwa polska | Laweta helikoptera policyjnego |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 317 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702016617788 |
 
 Przedmiot w ofercie: LEGO City 60244 Laweta helikoptera policyjnego.
 
@@ -8307,11 +12949,27 @@ Zapraszam do zakupów.
 - Klocki LEGO spełniają najwyższe standardy branżowe, dzięki czemu można je za każdym razem z łatwością połączyć i rozdzielić, a wszystkie zabawki konstrukcyjne LEGO City pasują do siebie.
 - W Grupie LEGO dokładnie testujemy zestawy LEGO City, by mieć pewność, że każda z tych unikalnych zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60244-1: https://a.allegroimg.com/original/00f8cb/ef4086ab453ab02df0a761d6340e
+
 ---
 
-## 60245 — Lego 60245 City Napad Z Monster Truckiem
+## 60245 — Napad z monster truckiem
 
-*Kategoria: City · cena Allegro (2026-08-17): 349.45 zł · EAN: 05702016617795 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60245 |
+| Nazwa angielska | Police Monster Truck Heist |
+| Nazwa polska | Napad z monster truckiem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702016617795 |
 
 LEGO 60245 CITY - NAPAD Z MONSTER TRUCKIEM
 
@@ -8342,19 +13000,51 @@ Młodzi bohaterowie i fani czadowego serialu telewizyjnego LEGO® City zachwycą
 - Zestawy konstrukcyjne LEGO® City spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie, a klocki można za każdym razem z łatwością połączyć i rozdzielić.
 - W Grupie LEGO rygorystycznie testujemy wszystkie elementy LEGO®, dzięki czemu mamy pewność, że każda z naszych zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60245-1: https://a.allegroimg.com/original/1121b4/fc4f26e64feea25331510e942d5a
+
 ---
 
-## 60246 — Lego City @@@ Posteruek Policji 60246 @@@ 7 figurek +2 psy!
+## 60246 — Posterunek policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 455.55 zł · EAN: 05702016617801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60246 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 48 cm × gł. 15 cm |
+| EAN | 5702016617801 |
 
 o Wspaniały zestaw do budowania dla miłośników akcji. Model LEGO(R) City Posterunek policji (60246) ma wybuchającą celę więzienną, fajne pojazdy i ciekawe postacie. Świetna rozrywka zaczyna się już w momencie otwarcia pudełka. o Co jest w pudełku? Zabawkowy posterunek policji, dwa samochody, motocykl i dron. o Dzieciom spodobają się funkcje posterunku policji: reflektor ze świecącym klockiem, wybuchająca cela, z której uciekają więźniowie, czy samochód policyjny wyposażony w klocek z dźwiękiem. To prawdziwa gratka dla miłośników policji LEGO(R) City. o Zestaw LEGO(R) City Posterunek policji przeznaczony jest dla dzieci od 6 lat. Świetnie sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z innej okazji dla miłośników odgrywania ról oraz składania modeli samochodów i innych zabawek. o Posterunek policji po zbudowaniu ma ok. 24 cm wysokości, 48 cm szerokości i 15 cm głębokości, a furgonetka policyjna -- 6 cm wysokości, 12 cm długości i 7 cm szerokości. o Klocek z dźwiękiem i świecący klocek do działania wymagają po jednej okrągłej płaskiej baterii CR1216. Dobra wiadomość: baterie są w zestawie!
 
+**Galeria:**
+
+- 60246-1: https://a.allegroimg.com/original/05e9db/5e86977c45f1a6b19bd28946d08d
+
 ---
 
-## 60247 — Lego City 60247 Pożar lasu
+## 60247 — Pożar lasu
 
-*Kategoria: City · cena Allegro (2026-08-17): 80.00 zł · EAN: 05702016617818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60247 |
+| Nazwa angielska | Forest Fire |
+| Nazwa polska | Pożar lasu |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016617818 |
 
 Uratuj sowę w zestawie strażackim dla dzieci
 
@@ -8377,11 +13067,27 @@ Zestawy strażackie LEGO City pozwalają dzieciom zanurzyć się w świecie swob
 - Ciekawe zabawki konstrukcyjne LEGO City spełniają najwyższe standardy branżowe, dzięki czemu klocki można za każdym razem z łatwością połączyć i rozdzielić.
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, zarysowujemy i rozciągamy klocki konstrukcyjne LEGO City, by mieć pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60247-1: https://a.allegroimg.com/original/05500c/c3c11f044043a8b5ccd67f96ff30
+
 ---
 
-## 60248 — Lego 60248 City Helikopter strażacki leci na ratunek
+## 60248 — Helikopter strażacki leci na ratunek
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.49 zł · EAN: 05702016617825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60248 |
+| Nazwa angielska | Fire Helicopter Response |
+| Nazwa polska | Helikopter strażacki leci na ratunek |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702016617825 |
 
 LEGO 60248 City - Helikopter strażacki leci na ratunek
 
@@ -8402,11 +13108,27 @@ Zestawy strażackie LEGO City zawierają szeroką gamę wypełnionych funkcjami 
 - Po zbudowaniu helikopter z napędem na linkę ma ok. 6 cm wysokości, 19 cm długości i 12 cm szerokości, a quad ma ok. 4 cm wysokości, 8 cm długości i 4 cm szerokości.
 - Produkt nie wymaga baterii! Siłą napędową tej zabawki LEGO® jest linka i dziecięca wyobraźnia. Wystarczy otworzyć torebki z klockami LEGO i od razu brać się do zabawy w strażaków!
 
+**Galeria:**
+
+- 60248-1: https://a.allegroimg.com/original/45daa2/eab9a7b84cc4a2b411a1713c7e7b
+
 ---
 
-## 60251 — Lego City 60251 Monster Truck Superpojazdy Samochód Kierowca Opis
+## 60251 — Monster Truck
 
-*Kategoria: City · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702016617856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60251 |
+| Nazwa angielska | Monster Truck |
+| Nazwa polska | Monster Truck |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016617856 |
 
 **Proszę o uważne zapoznanie się z opisem aukcji.**
 
@@ -8424,11 +13146,27 @@ Zestaw LEGO® City Monster truck (60251) spodoba się dzieciom, które uwielbiaj
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 60251-1: https://a.allegroimg.com/original/116850/e0685dcf4bddb8738fcb600aa2a6
+
 ---
 
-## 60252 — Lego City 60252 nowy zestaw Julivo
+## 60252 — Buldożer budowlany
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016617863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60252 |
+| Nazwa angielska | Construction Bulldozer |
+| Nazwa polska | Buldożer budowlany |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 5702016617863 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -8465,11 +13203,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60252-1: https://a.allegroimg.com/original/258ad0/88e91c4f4faf822aed0a9baed088
+
 ---
 
-## 60253 — Lego City 60253 Furgonetka z lodami Food Truck
+## 60253 — Furgonetka z lodami
 
-*Kategoria: City · cena Allegro (2026-08-17): 131.49 zł · EAN: 05702016617870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60253 |
+| Nazwa angielska | Ice-cream Truck |
+| Nazwa polska | Furgonetka z lodami |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702016617870 |
 
 LEGO City 60253 Furgonetka z lodami
  
@@ -8497,11 +13251,27 @@ Zestawy z serii LEGO City Superpojazdy pozwalają dzieciom przyjrzeć się z bli
 - Zestawy konstrukcyjne LEGO® City spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie, a klocki można za każdym razem z łatwością połączyć i rozdzielić. 
 - W Grupie LEGO rygorystycznie testujemy nasze elementy LEGO®, dzięki czemu mamy pewność, że każda z naszych zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60253-1: https://a.allegroimg.com/original/115e40/c55d39cd40a0a17234c3a9fa97d6
+
 ---
 
-## 60254 — Lego City 60254 Transporter Łodzi Wyścigowej
+## 60254 — LEGO CITY 60254 TRANSPORTER ŁODZI WYŚCIGOWEJ
 
-*Kategoria: City · cena Allegro (2026-08-17): 224.99 zł · EAN: 05702016617887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60254 |
+| Nazwa angielska | Race Boat Transporter |
+| Nazwa polska | LEGO CITY 60254 TRANSPORTER ŁODZI WYŚCIGOWEJ |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 24 cm |
+| EAN | 5702016617887 |
 
 KLOCKI LEGO CITY 60254 TRANSPORTER ŁODZI WYŚCIGOWEJ
 
@@ -8533,11 +13303,27 @@ Zachęcam do zapoznania się z moimi
 
 pozostałymi aukcjami
 
+**Galeria:**
+
+- 60254-1: https://a.allegroimg.com/original/119669/8cd6f6604420a0c96e4d75fe6a27
+
 ---
 
-## 60256 — Lego City 60256 Samochody wyścigowe
+## 60256 — Samochody wyścigowe
 
-*Kategoria: City · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702016617900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60256 |
+| Nazwa angielska | Racing Cars |
+| Nazwa polska | Samochody wyścigowe |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016617900 |
 
 Ruszaj z piskiem opon do zabawkowego wyścigu
  
@@ -8559,11 +13345,27 @@ W zestawach z pojazdami LEGO City dzieci znajdą niesamowitą gamę superszybkic
 - Wszystkie zabawki konstrukcyjne dla dzieci LEGO City spełniają najwyższe standardy branżowe i rygorystyczne kryteria jakościowe Grupy LEGO, dzięki czemu klocki można za każdym razem z łatwością połączyć i rozdzielić. 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, zarysowujemy i rozciągamy klocki konstrukcyjne LEGO City, by mieć pewność, że każda zabawka spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60256-1: https://a.allegroimg.com/original/051d19/193d85064e869eca113f55d36599
+
 ---
 
-## 60257 — Lego City 60257 Stacja benzynowa
+## 60257 — Stacja benzynowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 416.22 zł · EAN: 05702016617917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60257 |
+| Nazwa angielska | Service Station |
+| Nazwa polska | Stacja benzynowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 354 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702016617917 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -8603,11 +13405,27 @@ Zestawy z pojazdami LEGO City zawierają całą gamę superszybkich modeli na k�
 - Klocki konstrukcyjne LEGO spełniają najwyższe standardy branżowe, dzięki czemu można je za każdym razem z łatwością połączyć i rozdzielić, a wszystkie zestawy LEGO City pasują do siebie. 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki LEGO City, by mieć pewność, że każdy zestaw konstrukcyjny spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60257-1: https://a.allegroimg.com/original/008781/25fa578041238b786a2ccf4ab29b
+
 ---
 
-## 60258 — Klocki Lego City Zestaw Warsztat tuningowy Holownik Auta 60258
+## 60258 — Warsztat tuningowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 484.09 zł · EAN: 05702016617924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60258 |
+| Nazwa angielska | Tuning Workshop |
+| Nazwa polska | Warsztat tuningowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 897 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702016617924 |
 
 W komplecie jest warsztat, holownik, a nawet niewielki salon samochodowy, w którym można kupić podejrzane pojazdy w atrakcyjnych cenach. Zabawa na tym się nie kończy! Dzieci mają do dyspozycji również całą gamę ciekawych postaci i imponujących pojazdów: jest tu Tread Octane ze swoim ukochanym hot rodem, a także Harl Hubbs ze zwariowanym rakietowym motocyklem. W takim towarzystwie można przeżyć niejedną zabawną przygodę.
  
@@ -8620,19 +13438,51 @@ Zestaw zawiera proste instrukcje budowania, które pomogą przemienić początku
 - Dzieci mogą uruchomić podnośnik warsztatowy, podnieść samochód lewarkiem czy odholować zepsuty pojazd holownikiem. Zestaw można również połączyć z innymi zabawkami LEGO®, by mieć więcej możliwości zabawy i budowania. 
 - Warsztat Treada Octane'a po zbudowaniu ma ok. 14 cm wysokości, 17 cm szerokości i 13 cm głębokości, a holownik — 7 cm wysokości, 18 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60258-1: https://a.allegroimg.com/original/0509b7/ded46e7f40278ef5bccfc5f8533a
+
 ---
 
-## 60260 — Lego City 60260 Powietrzny wyścig
+## 60260 — Powietrzny wyścig
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016617948 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60260 |
+| Nazwa angielska | Air Race |
+| Nazwa polska | Powietrzny wyścig |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 20 cm |
+| EAN | 5702016617948 |
 
 o Zestaw LEGO(R) City Powietrzny wyścig z różnymi pojazdami wkręci dziecięcą wyobraźnię na wysokie obroty. o Co jest w pudełku? o Helikopter na linkę można wystrzelić w powietrze. Samolot kaskaderski i helikoptery mają otwierane kokpity, a w każdym z nich można posadzić jedną z trzech minifigurek pilotów, które także znajdują się w zestawie. o Zestaw LEGO(R) City Powietrzny wyścig (60260) doskonale sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z innej okazji dla pięciolatków i starszych dzieci, które uwielbiają zabawkowe pojazdy. Model wymaga jedynie podstawowych umiejętności konstrukcyjnych. o Samolot kaskaderski ma ok. 8 cm wysokości, 20 cm długości i 20 cm szerokości, a helikoptery mają po ok. 7 cm wysokości, 18 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 60260-1: https://a.allegroimg.com/original/05c6a2/431d79e94adeaa4f1adbe6318e93
+
 ---
 
-## 60261 — Lego City 60261 Centralny port lotniczy Nowe
+## 60261 — Centralny port lotniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 626.00 zł · EAN: 05702016617955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60261 |
+| Nazwa angielska | Central Airport |
+| Nazwa polska | Centralny port lotniczy |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 24 cm × gł. 9 cm |
+| EAN | 5702016617955 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -8658,11 +13508,27 @@ Kreatywny świat LEGO City Zestawy z lotniskiem LEGO City są pełne realistyczn
 - Zestawy z lotniskiem LEGO® City spełniają najwyższe standardy branżowe i kryteria jakości, by można było mieć pewność, że zawarte w nich klocki i elementy są jednolite, pasują do siebie i można je z łatwością łączyć i rozdzielać.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że każdy zestaw konstrukcyjny dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60261-1: https://a.allegroimg.com/original/11bc42/7db0719446b0ad9386c1122f9916
+
 ---
 
-## 60262 — Lego City 60262 Samolot pasażerski
+## 60262 — Samolot pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 1050.00 zł · EAN: 05702016617962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60262 |
+| Nazwa angielska | Passenger Airplane |
+| Nazwa polska | Samolot pasażerski |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 669 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617962 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -8672,11 +13538,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 60262-1: https://a.allegroimg.com/original/115d56/5bffe8af455da14bfd1f94582818
+
 ---
 
-## 60263 — Lego City 60263 Oceaniczna Mini Łódź Podwodna
+## 60263 — Klocki LEGO City 60263 Oceaniczna mini łódź podwodna
 
-*Kategoria: City · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016617979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60263 |
+| Nazwa angielska | Ocean Mini-Submarine |
+| Nazwa polska | Klocki LEGO City 60263 Oceaniczna mini łódź podwodna |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617979 |
 
 LEGO CITY - 60263 - OCEANICZNA MINI ŁÓDŹ PODWODNA
 
@@ -8714,11 +13596,27 @@ Model oceanicznej miniłodzi podwodnej to nie tylko świetna zabawka, ale także
 
 Zestaw LEGO City 60263 to świetny prezent dla każdego malucha zainteresowanego oceanem i podwodnymi tajemnicami. Prosty proces budowania, dopasowany do najmłodszych konstruktorów, sprawia, że dzieci szybko zaczną czerpać radość z własnoręcznie stworzonego pojazdu. To doskonały wybór na urodziny, święta czy bez specjalnej okazji, by zachęcić dziecko do kreatywnej zabawy i nauki. Wysoka jakość klocków LEGO gwarantuje trwałość i bezpieczeństwo użytkowania, a możliwość łączenia z innymi zestawami LEGO City pozwala na rozbudowę świata podwodnych przygód. Co więcej, zestaw nie jest już produkowany, więc to wyjątkowa okazja, aby poszerzyć kolekcję o unikalny model. Oceaniczna mini łódź podwodna zapewni długie godziny fascynującej zabawy i rozbudzi w dziecku pasję do odkrywania i poznawania otaczającego świata.
 
+**Galeria:**
+
+- 60263-1: https://a.allegroimg.com/original/11f3ee/612b9cf942d98416213d58f2312c
+
 ---
 
-## 60264 — Lego City Łódź Podwodna Badaczy Oceanu 60264
+## 60264 — Łódź podwodna badaczy oceanu
 
-*Kategoria: City · cena Allegro (2026-08-17): 253.69 zł · EAN: 05702016617986 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60264 |
+| Nazwa angielska | Ocean Exploration Submarine |
+| Nazwa polska | Łódź podwodna badaczy oceanu |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm |
+| EAN | 5702016617986 |
 
 ŁÓDŹ PODWODNA BADACZY OCEANU
 
@@ -8734,11 +13632,27 @@ Zanurkuj w najgłębsze otchłanie oceanu na pokładzie łodzi podwodnej LEGO® 
 • Oceaniczne zestawy LEGO® City zostały zaprojektowane zgodnie z najwyższymi standardami i wymogami branżowymi. Dzięki temu klocki zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 • Wszystkie klocki i elementy LEGO® City poddajemy wyczerpującym testom, by mieć pewność, że nasze zestawy do budowania zabawek spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60264-1: https://a.allegroimg.com/original/110cca/8b98d3704bdcbe6ee62c53d88691
+
 ---
 
-## 60265 — Lego City 60265 Baza badaczy oceanu
+## 60265 — Baza badaczy oceanu
 
-*Kategoria: City · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702016617993 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60265 |
+| Nazwa angielska | Ocean Exploration Base |
+| Nazwa polska | Baza badaczy oceanu |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 497 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617993 |
 
 Ekipa badaczy oceanu z bazy LEGO City zaprasza w odwiedziny. Rekin i płaszczka już tam są! Baza pozwala wymieniać moduły mieszkalny, sypialny i badawczy, a ponadto jest w niej wszystko, co potrzebne do eksploracji morskich głębin, w tym łódź podwodna, dźwig oraz dron. Znajdzie się nawet ekspres do kawy! Wejście do łodzi podwodnej prowadzi przez komorę dekompresyjną. Wsiądź, oddokuj i ruszaj w drogę, by wyrwać morzu jego tajemnice!
  
@@ -8756,11 +13670,27 @@ Zestaw LEGO® City 5+ zawiera proste instrukcje budowania. Dzieci mogą też sko
  
 Zestawy dla wielbicieli oceanu zawierają także budynki z mnóstwem funkcji, fajne pojazdy i ciekawe postacie, które zainspirują przyszłych odkrywców do wymyślania realistycznych scenariuszy zabawy.
 
+**Galeria:**
+
+- 60265-1: https://a.allegroimg.com/original/051f46/f4d5730e4202839337b336655277
+
 ---
 
-## 60266 — Klocki Lego City 60266 Statek badaczy oceanu
+## 60266 — Statek badaczy oceanu
 
-*Kategoria: City · cena Allegro (2026-08-17): 1049.97 zł · EAN: 05702016618006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60266 |
+| Nazwa angielska | Ocean Exploration Ship |
+| Nazwa polska | Statek badaczy oceanu |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 745 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 17 cm |
+| EAN | 5702016618006 |
 
 Klocki LEGO City 60266 - Statek badaczy oceanu
 
@@ -8801,11 +13731,27 @@ Fajnezabawki konstrukcyjne dla dzieci LEGO City z dumą wspiera działania grupy
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 60266-1: https://a.allegroimg.com/original/111a15/9654eae147d19742dad619580482
+
 ---
 
-## 60270 — Lego City 60270 Policyjny Zestaw Klocków
+## 60270 — Police Brick Box
 
-*Kategoria: City · cena Allegro (2026-08-17): 325.02 zł · EAN: 05702016669022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60270 |
+| Nazwa angielska | Police Brick Box |
+| Nazwa polska | Police Brick Box |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 14 cm × gł. 5 cm |
+| EAN | 5702016669022 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -8851,11 +13797,27 @@ Zestaw LEGO City Policyjny zestaw klocków (60270) przypadnie do gustu każdemu 
 
 - Klocki i elementy LEGO są poddawane rygorystycznym testom, dzięki czemu mamy pewność, że każda zabawka LEGO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60270-1: https://a.allegroimg.com/original/058af1/b395ecda4a38bdc238050fb99f2e
+
 ---
 
-## 60271 — Lego 60271 City Rynek
+## 60271 — Rynek
 
-*Kategoria: City · cena Allegro (2026-08-17): 738.99 zł · EAN: 05702016669039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60271 |
+| Nazwa angielska | Main Square |
+| Nazwa polska | Rynek |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1517 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 27 cm × gł. 15 cm |
+| EAN | 5702016669039 |
 
 Klocki LEGO City 60271 - Rynek
 
@@ -8901,11 +13863,27 @@ Zestaw LEGO City - Rynek trafił do sprzedaży w 2020 roku. Numer katalogowy t
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60271-1: https://a.allegroimg.com/original/11c62e/9c4d55ce434a9f286376ea587688
+
 ---
 
-## 60272 — Lego City Transport Łodzi Elitarnej Jednostki Policji 60272
+## 60272 — City
 
-*Kategoria: City · cena Allegro (2026-08-17): 199.75 zł · EAN: 05702016686487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60272 |
+| Nazwa angielska | Elite Police Boat Transport |
+| Nazwa polska | City |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016686487 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -8921,11 +13899,27 @@ Rok wydania:** 2020**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 26x19x6cm**
 
+**Galeria:**
+
+- 60272-1: https://a.allegroimg.com/original/11dc38/890d3a5f41ea81358ddaedfcacef
+
 ---
 
-## 60273 — Lego City 60273 nowy zestaw Julivo
+## 60273 — Policyjny pościg za wiertnicą
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016686494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60273 |
+| Nazwa angielska | Elite Police Driller Chase |
+| Nazwa polska | Policyjny pościg za wiertnicą |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016686494 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -8970,11 +13964,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60273-1: https://a.allegroimg.com/original/1137b1/abb7d9314da6ad4f7869427b07de
+
 ---
 
-## 60274 — Lego City 60274 Zatrzymanie w latarni morskiej helikopter na pływakach
+## 60274 — Zatrzymanie w latarni morskiej
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.50 zł · EAN: 05702016686500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60274 |
+| Nazwa angielska | Elite Police Lighthouse Arrest |
+| Nazwa polska | Zatrzymanie w latarni morskiej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 189 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702016686500 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -9003,11 +14013,27 @@ Realistyczne przygody z odgrywaniem ról Zestawy z policją specjalną LEGO City
 - Wszystkie zestawy konstrukcyjne LEGO® City spełniają najwyższe standardy branżowe i kryteria jakości. Dzięki temu klocki LEGO są zawsze jednolite, pasują do siebie i można je z łatwością łączyć i rozdzielać.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że każdy zestaw konstrukcyjny dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 60274-1: https://a.allegroimg.com/original/11206e/0d7ebb8740269c0a16af844797b7
+
 ---
 
-## 60276 — Zestaw klocków Lego policyjny konwój więzienny
+## 60276 — Policyjny konwój więzienny
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016912197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60276 |
+| Nazwa angielska | Police Prisoner Transport |
+| Nazwa polska | Policyjny konwój więzienny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912197 |
 
 Zestaw LEGO® 60276 “Police Prisoner Transport” z serii City wydany w 2021 roku zawiera 244 elementy i 4 minifigurki z serii telewizyjnej LEGO® City Adventures: Duke’a DeTaina, Snake’a Rattlera, Clary The Criminal oraz policjanta. Zestaw obejmuje pojazd transportu więźniów z funkcją eksplozji, rozpędzony samochód podjazdowy terrorystów oraz motocykl policyjny, przeznaczony dla dzieci od 5 lat.
 
@@ -9015,11 +14041,27 @@ Ten ekscytujący zestaw przenosi dzieci w świat dramatycznych pościgów policy
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 60276-1: https://a.allegroimg.com/original/11099d/384646e74fa98cdf51ee770b1bec
+
 ---
 
-## 60277 — Lego City 60277 Policyjna łódź patrolowa Policja dron nurek
+## 60277 — Policyjna łódź patrolowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702016912111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60277 |
+| Nazwa angielska | Police Patrol Boat |
+| Nazwa polska | Policyjna łódź patrolowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912111 |
 
 Nowy zestaw klocków
 
@@ -9039,11 +14081,27 @@ Budowanie to zabawa Zestaw zawiera proste instrukcje budowania i pozwala korzyst
 
 Fajne zabawki dla dzieci Policyjne zestawy LEGO City z realistycznymi pojazdami i niezwykłymi postaciami inspirują do opowiadania historii, które w ciekawy i pomysłowy sposób odzwierciedlają rzeczywistość.
 
+**Galeria:**
+
+- 60277-1: https://a.allegroimg.com/original/05b463/7523465e4adab15343a633fd4c93
+
 ---
 
-## 60279 — Lego 60279 City Mały wóz strażacki
+## 60279 — Mały wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 84.49 zł · EAN: 05702016912043 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60279 |
+| Nazwa angielska | Fire Hazard Truck |
+| Nazwa polska | Mały wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702016912043 |
 
 Klocki LEGO City 60279 - Mały wóz strażacki
 
@@ -9093,11 +14151,27 @@ Zestaw LEGO City - Mały wóz strażacki trafił do sprzedaży w 2021 roku. Nu
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60279-1: https://a.allegroimg.com/original/115665/cc13539740b09024f7582a9b5cc4
+
 ---
 
-## 60280 — Lego City 4+ 60280 Wóz strażacki z drabiną Staż Pożarna
+## 60280 — Wóz strażacki z drabiną
 
-*Kategoria: City · cena Allegro (2026-08-17): 198.49 zł · EAN: 05702016700589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60280 |
+| Nazwa angielska | Fire Ladder Truck |
+| Nazwa polska | Wóz strażacki z drabiną |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702016700589, 5702016911534 |
 
 Zestaw LEGO® City Wóz strażacki z drabiną (60280) to prawdziwa okazja dla miłośników akcji! Poza kultowym wozem z podnoszoną drabiną dzieci znajdą w pudełku hydrant oraz klocki „płomieni” LEGO, które można ustawić jeden na drugim. Nie zabrakło także minifigurek Freyi McCloud i strażaka, więc wszystko jest gotowe do odgrywania przygód z serialu LEGO City Adventures!
 
@@ -9122,11 +14196,28 @@ Zestawy LEGO City są pełne budynków z rozmaitymi funkcjami, realistycznych po
 - Szukasz zabawki wysokiej jakości? Elementy zestawów LEGO® City spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
 - Bezpieczeństwo jest najważniejsze. Klocki i inne elementy zestawów LEGO® City są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60280-1: https://a.allegroimg.com/original/11d6a8/1bd3b4a44353bad5231a3eb57846
+- 60280-2: https://a.allegroimg.com/original/118987/8cdc21e74e85957f54aeb41643b1
+
 ---
 
-## 60281 — Lego City 60281 nowy zestaw Julivo
+## 60281 — Strażacki helikopter ratunkowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702016911541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60281 |
+| Nazwa angielska | Fire Rescue Helicopter |
+| Nazwa polska | Strażacki helikopter ratunkowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702016911541 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -9171,11 +14262,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60281-1: https://a.allegroimg.com/original/11e9d6/507d71324d05b34fc261625d3d13
+
 ---
 
-## 60282 — Lego City 60282 nowy zestaw Julivo
+## 60282 — Strażacka jednostka dowodzenia
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702016911558 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60282 |
+| Nazwa angielska | Fire Command Unit |
+| Nazwa polska | Strażacka jednostka dowodzenia |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702016911558 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -9220,11 +14327,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60282-1: https://a.allegroimg.com/original/1115ad/696015ed41c194bf17445e312e35
+
 ---
 
-## 60283 — Lego City 60283 Wakacyjny kamper
+## 60283 — 60283
 
-*Kategoria: City · cena Allegro (2026-08-17): 199.99 zł · EAN: 57020168897722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60283 |
+| Nazwa angielska | Holiday Camper Van |
+| Nazwa polska | 60283 |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702016889772, 57020168897722 |
 
 LEGO City 60283 Wakacyjny kamper
  
@@ -9251,11 +14374,28 @@ Kreatywny świat LEGO City Modele superpojazdów LEGO City idealnie nadają się
 - Elementy zestawów LEGO® City spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
 - Klocki i inne elementy zestawów LEGO® City są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60283-1: https://a.allegroimg.com/original/115241/6d180a5e42e0954613a18143d2b1
+- 60283-2: https://a.allegroimg.com/original/11afde/bd9d4b4747259461712a7c3696df
+
 ---
 
-## 60284 — Lego 60284 City Mini wywrotka roboty drogowe taczki Nowy Zestaw
+## 60284 — Pojazd do robót drogowych
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.50 zł · EAN: 05702016694079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60284 |
+| Nazwa angielska | Roadwork Truck |
+| Nazwa polska | Pojazd do robót drogowych |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702016694079, 5702016889604 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -9290,11 +14430,28 @@ Zestawy LEGO City z superpojazdami pobudzają wyobraźnię pełnymi funkcji zaba
 
 Zdjęcia i opis są własnością LEGO i zostały użyte jedynie w celach informacyjnych.
 
+**Galeria:**
+
+- 60284-1: https://a.allegroimg.com/original/11de88/72f03153467b957170a79fe8fac5
+- 60284-2: https://a.allegroimg.com/original/2595d0/e18bdb9e4ae48346ef4bf5b5d05a
+
 ---
 
-## 60285 — Lego City 60285 Samochód sportowy wgniotki na pudełku
+## 60285 — Samochód sportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 147.00 zł · EAN: 05702016889703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60285 |
+| Nazwa angielska | Sports Car |
+| Nazwa polska | Samochód sportowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016889703 |
 
 Pudełko posiada wgniotki
 
@@ -9341,11 +14498,27 @@ Ponadto, zabawa klockami pozwoli **rozwinąć u dzieci zręczność, kreatywno�
 - WIEK: **5+** 
 - NUMER KATALOGOWY: **60285**
 
+**Galeria:**
+
+- 60285-1: https://a.allegroimg.com/original/2573f2/3da03be1487e9b2b026a7e1e0849
+
 ---
 
-## 60286 — Lego City 60286 Plażowy quad ratunkowy
+## 60286 — Plażowy quad ratunkowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 114.80 zł · EAN: 05702016889710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60286 |
+| Nazwa angielska | Beach Rescue ATV |
+| Nazwa polska | Plażowy quad ratunkowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702016889710 |
 
 Zafunduj swojemu codziennemu bohaterowi wiele godzin fascynującej zabawy z zestawem LEGO® City Plażowy quad ratunkowy (60286), w którym znajdzie model quada z otwierającą się klatką bezpieczeństwa, skuter wodny i przyczepę do jego przewożenia. Jest tam także minifigurka ratownika i figurka rekina, więc można od razu zacząć odgrywać bohaterskie przygody nad brzegiem morza.
  
@@ -9370,11 +14543,27 @@ Zestawy z serii LEGO City z superpojazdami pobudzają wyobraźnię dzieci pełny
 - Wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60286-1: https://a.allegroimg.com/original/058062/2fb5fd6c4d18aba138b82543f2e9
+
 ---
 
-## 60287 — Lego City Farma 60287 Traktor Z Ruchomą Łyżką Ciągnik
+## 60287 — Traktor
 
-*Kategoria: City · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016889727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60287 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | Traktor |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702016889727 |
 
 LEGO City 60287 Traktor
 
@@ -9401,11 +14590,27 @@ W zestawach z LEGO City dzieci znajdą swoje ulubione realistyczne maszyny oraz 
 - Wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60287-1: https://a.allegroimg.com/original/11295e/32300fcf4b7395789c2c645069d1
+
 ---
 
-## 60288 — Lego City 60288 Transporter łazika wyścigowego
+## 60288 — Transporter łazika wyścigowego
 
-*Kategoria: City · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016889734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60288 |
+| Nazwa angielska | Race Buggy Transporter |
+| Nazwa polska | Transporter łazika wyścigowego |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016889734 |
 
 W zestawie LEGO® City Transporter łazika wyścigowego (60288) nie ma słabych punktów! W pudełku na dzieci czeka SUV z przyczepką do przewożenia łazika Baja oraz dwie minifigurki kierowców wyścigowych, którzy są gotowi, by ruszyć na tor — jest tam wszystko, czego potrzeba do niezapomnianego wyścigu! Zestaw do budowania dla chłopców i dziewczynek od piątego roku życia Ten niezwykły zestaw LEGO zawiera proste instrukcje lub instrukcje PLUS, które są dostępne w aplikacji LEGO Building Instructions i pozwalają korzystać z funkcji przybliżania i obracania widoku — dzięki nim budowanie to bułka z masłem! Fajne zabawki dla dzieci.
 
@@ -9424,11 +14629,27 @@ Zestawy z serii Superpojazdy LEGO City pobudzają wyobraźnię dzieci pełnymi f
 - Wszystkie elementy LEGO®spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60288-1: https://a.allegroimg.com/original/054fb6/8a3ca00b47c0a42417e2c2783b40
+
 ---
 
-## 60289 — Lego City 60289 nowy zestaw Julivo
+## 60289 — Transporter odrzutowca pokazowego
 
-*Kategoria: City · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702016889741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60289 |
+| Nazwa angielska | Airshow Jet Transporter |
+| Nazwa polska | Transporter odrzutowca pokazowego |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm |
+| EAN | 5702016889741 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -9473,11 +14694,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60289-1: https://a.allegroimg.com/original/0596e3/124ad38c48bea846d0a5af042e0a
+
 ---
 
-## 60290 — Lego City 60290 Skatepark deskorolka Obtarcia Opakowania
+## 60290 — Skatepark
 
-*Kategoria: City · cena Allegro (2026-08-17): 183.00 zł · EAN: 05702016911510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60290 |
+| Nazwa angielska | Skate Park |
+| Nazwa polska | Skatepark |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911510 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -9503,11 +14740,27 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 60290-1: https://a.allegroimg.com/original/11872c/c238556a42258b17cc556cb23601
+
 ---
 
-## 60291 — Klocki Lego 60291 City Dom rodzinny
+## 60291 — Dom rodzinny
 
-*Kategoria: City · cena Allegro (2026-08-17): 475.00 zł · EAN: 05702016911527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60291 |
+| Nazwa angielska | Family House |
+| Nazwa polska | Dom rodzinny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702016911527 |
 
 LEGO 60291 City - Dom rodzinny
 
@@ -9590,11 +14843,27 @@ W zestawie dzieci znajdą akcesoria LEGO®, w tym miecz, gitarę i głośnik, p�
 
  i doniczkę, radio, puchar, kije hokejowe, konsolę do gier i płaski telewizor.
 
+**Galeria:**
+
+- 60291-1: https://a.allegroimg.com/original/11e4e7/8f8d1d954bcb95d45fc5302cedb8
+
 ---
 
-## 60292 — Lego City 60292 Centrum miasta miasto myjnia stacja benzynowa pizzeria
+## 60292 — Centrum miasta
 
-*Kategoria: City · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702016912012 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60292 |
+| Nazwa angielska | Town Center |
+| Nazwa polska | Centrum miasta |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 790 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 41 cm × gł. 44 cm |
+| EAN | 5702016912012 |
 
 Wybierz się z wizytą do świata serialu LEGO® City Adventures — to możliwe dzięki wyjątkowemu zestawowi LEGO City Centrum miasta (60292). Jest tam pizzeria, stacja recyklingu, myjnia, stacja ładowania samochodów elektrycznych, dojo do ćwiczenia sztuk walki oraz park z atrakcjami dla dzieci, a do tego w pudełku czekają minifigurki postaci LEGO City. Zestaw zawiera też płytki ulic LEGO City, wiec zabawkę można łączyć z innymi zestawami, dowolnie rozbudowując miasto! Doskonały pomysł na prezent dla sześciolatków i starszych dzieci Zestaw zawiera łatwy poradnik budowania, ale dzieci mogą też użyć instrukcji Instructions PLUS w aplikacji LEGO Building Instructions — pozwalają one korzystać z funkcji przybliżania i obrotu widoku, dzięki którym każdy zostanie mistrzem konstrukcji. Kreatywny świat LEGO CityZestawy LEGO City są pełne budynków z rozmaitymi funkcjami, realistycznych pojazdów i ciekawych postaci, które zachęcają do budowania i samodzielnego wymyślania zabaw opartych na scenariuszach z prawdziwego życia.
 
@@ -9617,11 +14886,26 @@ Wybierz się z wizytą do świata serialu LEGO® City Adventures — to możliwe
  
 • Zabawki konstrukcyjne LEGO® City przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 60292-1: https://a.allegroimg.com/original/25bc96/7d329f6545a5bec9676549956c68
+
 ---
 
-## 60293 — Lego Stuntz 60293 Park Kaskaderski 170 Elementów Motocykl Napędzany Kołem
+## 60293 — Park kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016911961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60293 |
+| Nazwa angielska | Stunt Park |
+| Nazwa polska | Park kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 170 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 30 cm × gł. 13,5 cm |
+| EAN | 5702016911961 |
 
 Lego City Park kaskaderski 60293. Ten zestaw LEGO 60293 City Park kaskaderski (60293) zawiera zabawkowy motocykl napędzany kołem zamachowym, który umożliwia spektakularne akrobacje kaskaderskie. Dzieci aktywują motocykl, aby poszybować przez szereg niesamowitych rekwizytów i wyzwań, i mogą szybko przekonfigurować moduły kaskaderskie do różnych zawodów i występów.
 
@@ -9643,11 +14927,26 @@ Zestawy LEGO City Stuntz umieszczają dzieci w centrum akcji dzięki motocyklom 
 - Wszystkie komponenty LEGO® City spełniają rygorystyczne standardy branżowe, aby zapewnić ich kompatybilność oraz za każdym razem konsekwentne łączenie i rozdzielanie. 
 - Klocki i elementy LEGO® City są upuszczane, podgrzewane, kruszone, skręcane i analizowane, aby upewnić się, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60293-1: https://a.allegroimg.com/original/11f59f/208f938d47259d922d3bae4df8aa
+
 ---
 
-## 60294 — Klocki Lego City 60294 Ciężarówka kaskaderska Stuntz 6+
+## 60294 — Ciężarówka kaskaderska
 
-*Kategoria: City · cena Allegro (2026-08-17): 238.90 zł · EAN: 05702016912579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60294 |
+| Nazwa angielska | Stunt Show Truck |
+| Nazwa polska | Ciężarówka kaskaderska |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 420 |
+| Cena katalogowa | 269.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 7 cm |
+| EAN | 5702016912579 |
 
 Klocki LEGO City 60294 Ciężarówka kaskaderska Stuntz
 
@@ -9679,11 +14978,26 @@ Z zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dyspo
 
 - Klocki i inne elementy zestawów LEGO® City są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60294-1: https://a.allegroimg.com/original/053d64/095b7dfb4e6caba2c1985d71bb5b
+
 ---
 
-## 60295 — Zestaw Lego City Stuntz 60295 Duża Arena Pokazów Kaskaderskich
+## 60295 — Klocki LEGO City Stuntz 60295 Arena pokazów kaskaderskich
 
-*Kategoria: City · cena Allegro (2026-08-17): 342.00 zł · EAN: 05702016912548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60295 |
+| Nazwa angielska | Stunt Show Arena |
+| Nazwa polska | Klocki LEGO City Stuntz 60295 Arena pokazów kaskaderskich |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 668 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm |
+| EAN | 5702016912548 |
 
 ZESTAW LEGO CITY STUNTZ - 60295 - DUŻA ARENA POKAZÓW KASKADERSKICH
 
@@ -9719,21 +15033,53 @@ Największą atrakcją zestawu są funkcje kaskaderskie oparte na mechanizmie ko
 
 Zestaw LEGO City 60295 to idealny wybór dla każdego dziecka, które uwielbia emocjonującą akcję i pojazdy. Bogactwo funkcji, ogrom możliwości zabawy oraz efektowne sceny kaskaderskie sprawiają, że zestaw zapewnia długie godziny kreatywnej rozrywki. Dzięki możliwości łączenia z innymi zestawami LEGO City Stuntz można tworzyć jeszcze większe i bardziej spektakularne areny. To doskonały pomysł na prezent urodzinowy, świąteczny lub po prostu bez okazji – zawsze wtedy, gdy chcesz sprawić radość i podarować coś, co rozwija wyobraźnię. Arena kaskaderska to nie tylko zabawka, ale prawdziwe centrum emocjonujących pokazów, które zachwyci każdego młodego fana LEGO.
 
+**Galeria:**
+
+- 60295-1: https://a.allegroimg.com/original/11a9b1/31f878e541018f433bb44d43de4d
+
 ---
 
 ## 60296 — Lego 60296 City Wheelie na motocyklu kaskaderskim
 
-*Kategoria: City · cena Allegro (2026-08-17): 28.99 zł · EAN: 05702016912203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60296 |
+| Nazwa angielska | Wheelie Stunt Bike |
+| Nazwa polska | Lego 60296 City Wheelie na motocyklu kaskaderskim |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912203 |
 
 Lego 60296 City Wheelie na motocyklu kaskaderskim
 
 Zestaw LEGO® City Wheelie na motocyklu kaskaderskim (60296) to gwarancja długich godzin świetnej zabawy fajnym motocyklem napędzanym kołem zamachowym, który pozwala wykonywać niezwykłe wheelie i akrobacje w powietrzu. Dodaj do tego nieustraszoną bohaterkę serialu telewizyjnego LEGO City Adventures Raze i możesz ruszać do ekscytującej kaskaderskiej zabawy!Dla chłopców i dziewczynek w wieku od 5 latZestaw dla dzieci zawiera broszurę z łatwymi instrukcjami budowania oraz funkcję Instructions PLUS. To interaktywny poradnik dla konstruktorów dostępny w darmowej aplikacji Instrukcje budowania LEGO na smartfony i tablety, który pozwala przybliżać i obracać model, więc budowanie z klocków LEGO to prawdziwa bułka z masłem.Pozwól dziecku zostać gwiazdą pokazuZ zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dyspozycji mają motocykle kaskaderskie napędzane kołem zamachowym, fajne pojazdy, realistyczne konstrukcje oraz ciekawe postacie, które inspirują do pomysłowego odgrywania ról opartych na rzeczywistych sytuacjach. A żeby zabawa była jeszcze bardziej emocjonująca, dzieci mogą połączyć kilka zestawów z pełnego akcji świata LEGO City Stuntz.
 
+**Galeria:**
+
+- 60296-1: https://a.allegroimg.com/original/119b81/42d6162948889fee6d09081d6d89
+
 ---
 
-## 60297 — Lego City 60297 Demolka na motocyklu kaskaderski
+## 60297 — Demolka na motocyklu kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 29.77 zł · EAN: 05702016912715 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60297 |
+| Nazwa angielska | Demolition Stunt Bike |
+| Nazwa polska | Demolka na motocyklu kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 2 cm |
+| EAN | 5702016912715 |
 
 Doskonała rozrywka dla chłopców i dziewczynek w wieku od 5 lat
  
@@ -9755,11 +15101,27 @@ Z zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dyspo
 - Wszystkie elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60297-1: https://a.allegroimg.com/original/1172da/87dfb87d42ab916cbc2238225a42
+
 ---
 
-## 60298 — Lego 60298 City Rakietowy motocykl kaskaderski
+## 60298 — Rakietowy motocykl kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 41.99 zł · EAN: 05702016911596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60298 |
+| Nazwa angielska | Rocket Stunt Bike |
+| Nazwa polska | Rakietowy motocykl kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 2 cm |
+| EAN | 5702016911596 |
 
 Ten interaktywny poradnik budowania z możliwością powiększania i obracania modelu pomoże małym budowniczym LEGO szybko zostać mistrzami konstrukcji.
  
@@ -9780,11 +15142,27 @@ Z zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dys
 - Produkcja klocków i elementów LEGO® odbywa się zawsze w zgodzie z rygorystycznymi branżowymi standardami jakości, dzięki czemu wszystko do siebie pasuje, a budowanie jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Zabawki konstrukcyjne LEGO® przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 60298-1: https://a.allegroimg.com/original/11f884/b7e225434f9b885cce43759266db
+
 ---
 
-## 60299 — Klocki Lego City Konkurs kaskaderski 60299 Kaskaderzy
+## 60299 — Kaskaderzy
 
-*Kategoria: City · cena Allegro (2026-08-17): 77.99 zł · EAN: 05702016911602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60299 |
+| Nazwa angielska | Stunt Competition |
+| Nazwa polska | Kaskaderzy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 22 cm × gł. 11 cm |
+| EAN | 5702016911602 |
 
 Klocki LEGO City Konkurs kaskaderski 60299
 
@@ -9814,19 +15192,51 @@ Z zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dyspo
 - Elementy zestawów LEGO® City spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić.
 - Klocki i inne elementy zestawów LEGO® City są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60299-1: https://a.allegroimg.com/original/116693/0b310edf49aa813b1a0f3220fc88
+
 ---
 
-## 60300 — Lego City 60300 Quad ratowników dzikich zwierząt
+## 60300 — Quad ratowników dzikich zwierząt
 
-*Kategoria: City · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702016911916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60300 |
+| Nazwa angielska | Wildlife Rescue ATV |
+| Nazwa polska | Quad ratowników dzikich zwierząt |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016911916 |
 
 o Zestaw LEGO(R) City Quad ratowników dzikich zwierząt (60300) z ciekawymi zwierzętami, minifigurką badacza, quadem ze skrętnymi kołami i małą scenerią imitującą sawannę to doskonała pozycja dla początkujących odkrywców w wieku od 5 lat.o W pudełku znajduje się wszystko, czego dzieci potrzebują do zbudowania quada ze skrętnymi kołami, chwytakiem i dronem, a także drzewo, banan, kupka, minifigurka badacza, dwie figurki małp i figurka skorpiona.o Dzięki temu kreatywnemu zestawowi konstrukcyjnemu dzieci mogą skręcać quadem w prawo i w lewo, przechylając go, a także przenieść skorpiona w inne miejsce za pomocą chwytaka i odgrywać ciekawe historie z udziałem ratowników zwierząt.o To doskonały prezent na urodziny lub inną okazję dla miłośników zwierząt. Dzieci mogą też połączyć go z innymi zestawami LEGO(R) City z dzikimi zwierzętami, aby zabawa i przygody były jeszcze lepsze.o Quad ratowników dzikich zwierząt po zbudowaniu ma ok. 4 cm wysokości, 7 cm długości i 5 cm szerokości, więc bez problemu zmieszczą się na nim minifigurka badacza, dron i chwytak.o Zestaw nie wymaga baterii -- jego siłą napędową jest bujna wyobraźnia początkujących odkrywców.
 
+**Galeria:**
+
+- 60300-1: https://a.allegroimg.com/original/05e73e/1525216e480aa259551ee6e4b78c
+
 ---
 
-## 60301 — Lego City Terenówka ratowników dzikich zwierząt 60301
+## 60301 — Terenówka ratowników zwierząt
 
-*Kategoria: City · cena Allegro (2026-08-17): 187.68 zł · EAN: 05702016911923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60301 |
+| Nazwa angielska | Wildlife Rescue Off-Roader |
+| Nazwa polska | Terenówka ratowników zwierząt |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016911923 |
 
 LEGO City 60301 Terenówka ratowników zwierząt
  
@@ -9854,11 +15264,27 @@ Zestawy LEGO City z dzikimi zwierzętami są pełne dobrze znanych zwierząt, re
 - Elementy zestawów LEGO® City spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
 - Każdy klocek LEGO® przechodzi gruntowne testy, dzięki którym mamy pewność, że zestawy odpowiadają rygorystycznym światowym wymogom bezpieczeństwa.
 
+**Galeria:**
+
+- 60301-1: https://a.allegroimg.com/original/05a118/49b925274c51ae1d25a21311c50e
+
 ---
 
-## 60302 — Lego City 60302 Na ratunek dzikim zwierzętom 525 elementów 6 lat+
+## 60302 — Na ratunek dzikim zwierzętom
 
-*Kategoria: City · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702016911930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60302 |
+| Nazwa angielska | Wildlife Rescue Operation |
+| Nazwa polska | Na ratunek dzikim zwierzętom |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 525 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 31 cm |
+| EAN | 5702016911930 |
 
 Wielomodelowy zestaw LEGO® City Na ratunek zwierzętom (60302) zawiera mnóstwo niezwykłych funkcji, w tym odlotowy helikopter z wyciągarką, pojazd gąsienicowy, scenerię imitującą sawannę z funkcją osuwiska oraz polową klinikę weterynaryjną. W komplecie są też zabawkowe słonie, krokodyle, małpa i zespół ratowników, więc dzieci mogą liczyć na wiele godzin nieograniczonej zabawy w ratowanie zwierząt.
  
@@ -9884,11 +15310,26 @@ Zestawy LEGO City z dzikimi zwierzętami zawierają dobrze znane zwierzaki, real
 - Wszystkie elementy konstrukcyjne LEGO® City spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują, a budowanie z nich jest przyjemnością. 
 - Klocki i inne elementy zestawów LEGO® City są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60302-1: https://a.allegroimg.com/original/258c0e/9323c428477aafc17627ddba2a9f
+
 ---
 
-## 60304 — Lego City 60304 Płyty drogowe
+## 60304 — Płyty drogowe
 
-*Kategoria: City · cena Allegro (2026-08-17): 56.69 zł · EAN: 05702016912289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60304 |
+| Nazwa angielska | Road Plates |
+| Nazwa polska | Płyty drogowe |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 112 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 44 cm × gł. 38 cm |
+| EAN | 5702016912289 |
 
 LEGO City 60304 Płyty drogowe
  
@@ -9912,11 +15353,27 @@ Zestawy LEGO City zachęcają do swobodnej zabawy i kreatywności. Są w nich bu
 - Produkcja klocków i elementów LEGO® odbywa się zawsze w zgodzie z rygorystycznymi branżowymistandardami jakości, dzięki czemu wszystko do siebie pasuje, a budowanie jest przyjemnością — i tak jest niezmiennie od 1958 roku. 
 - Zabawki konstrukcyjne LEGO® City przechodzą gruntowne testy, aby można było mieć pewność, że spełniają surowe wymogi bezpieczeństwa.
 
+**Galeria:**
+
+- 60304-1: https://a.allegroimg.com/original/29ef04/3997ab9a4a858dd8fdd38e8ac50f
+
 ---
 
-## 60305 — Lego City 60305 Laweta
+## 60305 — Laweta
 
-*Kategoria: City · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702016980523 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60305 |
+| Nazwa angielska | Car Transporter |
+| Nazwa polska | Laweta |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 342 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 8 cm |
+| EAN | 5702016980523 |
 
 Klocki LEGO City 60305 - Laweta
 
@@ -9936,11 +15393,27 @@ Zestawy z superpojazdami LEGO City zawierają realistyczne modele i ciekawe post
 - Zabawkadoskonale sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z innej okazji dla chłopców i dziewczynek w wieku od 5 lat.
 - Wymiary gotowej lawety LEGO® City: ok. 11 cm wysokości, 31 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 60305-1: https://a.allegroimg.com/original/1136af/48a241c04f2d84d0838e9b8ecdb8
+
 ---
 
-## 60307 — Klocki Lego City 60307 Obóz ratowników dzikich zwierząt
+## 60307 — Obóz ratowników dzikich zwierząt
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702016980547 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60307 |
+| Nazwa angielska | Wildlife Rescue Camp |
+| Nazwa polska | Obóz ratowników dzikich zwierząt |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 503 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 26 cm × gł. 20 cm |
+| EAN | 5702016980547 |
 
 Klocki LEGO City 60307 - Obóz ratowników dzikich zwierząt
 
@@ -9984,11 +15457,27 @@ Zestawy LEGO City z dzikimi zwierzętami są pełne dobrze znanych zwierząt, re
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 60307-1: https://a.allegroimg.com/original/1165c5/0ae56461429985675f6371ff4303
+
 ---
 
-## 60309 — Lego 60309 City Selfie na motocyklu kaskaderskim
+## 60309 — Selfie na motocyklu kaskaderskim
 
-*Kategoria: City · cena Allegro (2026-08-17): 34.00 zł · EAN: 05702017028002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60309 |
+| Nazwa angielska | Selfie Stunt Bike |
+| Nazwa polska | Selfie na motocyklu kaskaderskim |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017028002 |
 
 **LEGO ® 60309 CITY Selfie na motocyklu kaskaderskim**
 
@@ -10000,11 +15489,27 @@ Klocki zalecane od 5 roku życia.
 
 Sklep z klockami LEGO ® Zapraszamy.
 
+**Galeria:**
+
+- 60309-1: https://a.allegroimg.com/original/11ae05/e526d79e43cabab40c2742cb1f13
+
 ---
 
-## 60310 — Lego City Stuntz Motocykl kaskaderski z kurczakiem 60310
+## 60310 — Motocykl kaskaderski z kurczakiem
 
-*Kategoria: City · cena Allegro (2026-08-17): 25.00 zł · EAN: 05702017024226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60310 |
+| Nazwa angielska | Chicken Stunt Bike |
+| Nazwa polska | Motocykl kaskaderski z kurczakiem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 2 cm |
+| EAN | 5702017024226 |
 
 Lego City Stuntz Motocykl kaskaderski z kurczakiem 60310
 
@@ -10026,11 +15531,27 @@ To interaktywny poradnik dla konstruktorów dostępny w darmowej aplikacji Instr
 
 Z zestawami LEGO City Stuntz dzieci znajdą się w samym środku akcji. Do dyspozycji mają motocykle napędzane kołem zamachowym, realistyczne konstrukcje oraz fajne postacie, które inspirują do pomysłowego odgrywania ról. A żeby zabawa była jeszcze ciekawsza, możesz połączyć kilka zestawów z fantastycznego świata LEGO City Stuntz!
 
+**Galeria:**
+
+- 60310-1: https://a.allegroimg.com/original/11ac09/7d9e40f44f53a53760a2c5bb628d
+
 ---
 
-## 60311 — Lego City 60311 Ognisty motocykl kaskaderski
+## 60311 — Ognisty motocykl kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702017024233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60311 |
+| Nazwa angielska | Fire Stunt Bike |
+| Nazwa polska | Ognisty motocykl kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 2 cm |
+| EAN | 5702017024233 |
 
 KLOCKI LEGO CITY 60311
  
@@ -10049,11 +15570,27 @@ Uruchom motocykl kaskaderski napędzany kołem zamachowym i przygotuj się na pe
  
 **OSTRZEŻENIE! ZAWIERA MAŁE ELEMENTY! RYZYKO ZADŁAWIENIA!**
 
+**Galeria:**
+
+- 60311-1: https://a.allegroimg.com/original/114d29/260b03ab4bb196ad66b1853526ea
+
 ---
 
-## 60312 — Lego City 60312 Radiowóz
+## 60312 — Radiowóz
 
-*Kategoria: City · cena Allegro (2026-08-17): 28.53 zł · EAN: 05702017161884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60312 |
+| Nazwa angielska | Police Car |
+| Nazwa polska | Radiowóz |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 94 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702017161884 |
 
 LEGO® City Radiowóz 60312 - zestaw konstrukcyjny dla dzieci od 5 lat; w komplecie minifigurka policjanta z zabawkową latarką i czapką policyjną (94 elementy)
  
@@ -10086,11 +15623,27 @@ Zaproś dzieci do emocjonującego świata LEGO® City ciekawym zestawem z radiow
 - Zabawa inspirowana prawdziwym życiem - w zestawach LEGO® City znajdziesz budynki, pojazdy i postacie, które zachęcają do pomysłowego odgrywania ról w realistycznych scenariuszach 
 - Bezpieczeństwo przede wszystkim - elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60312-1: https://a.allegroimg.com/original/1110aa/defedc3b47ccbe791b352b3ebae8
+
 ---
 
-## 60313 — Klocki Lego 60313 City Ciężarówka z kosmiczną karuzelą
+## 60313 — Ciężarówka Z Kosmiczną Karuzelą
 
-*Kategoria: City · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702017230474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60313 |
+| Nazwa angielska | Space Ride Amusement Truck |
+| Nazwa polska | Ciężarówka Z Kosmiczną Karuzelą |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 21 cm × gł. 35 cm |
+| EAN | 5702017230474 |
 
 ZESTAW LEGO 60313 CIĘŻARÓWKA Z KARUZELĄ
  
@@ -10127,11 +15680,27 @@ ZESTAW ZAWIERA
  
 - 1 x Zestaw LEGO 10280 Bukiet Kwiatów
 
+**Galeria:**
+
+- 60313-1: https://a.allegroimg.com/original/11717d/3c1b29064b09a232e36848d09269
+
 ---
 
-## 60314 — Lego City Policyjny pościg za furgonetką z lodami
+## 60314 — Policyjny pościg za furgonetką z lodami
 
-*Kategoria: City · cena Allegro (2026-08-17): 201.82 zł · EAN: 05702017161891 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60314 |
+| Nazwa angielska | Ice Cream Truck Police Chase |
+| Nazwa polska | Policyjny pościg za furgonetką z lodami |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 317 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 5 cm |
+| EAN | 5702017161891 |
 
 Lego CITY Policyjny pościg za furgonetką z lodami
 
@@ -10152,11 +15721,27 @@ Kreatywny świat LEGO CityZestawy LEGO City są pełne realistycznych pojazdów,
 - Jakość to nasz priorytet -- wszystkie elementy LEGO(R) spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością -- i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim -- klocki i inne elementy zestawów LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60314-1: https://a.allegroimg.com/original/1166cb/06798d3748b0b5763e2386fc5462
+
 ---
 
-## 60315 — Lego City 60315 mobilne centrum dowodzenia policji
+## 60315 — Mobilne centrum dowodzenia policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 407.48 zł · EAN: 05702017161907 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60315 |
+| Nazwa angielska | Police Mobile Command Truck |
+| Nazwa polska | Mobilne centrum dowodzenia policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 436 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702017161907 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -10204,11 +15789,27 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych budynków
 - Jakość jest naszym priorytetem — wszystkie elementy LEGO®spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60315-1: https://a.allegroimg.com/original/11b086/1b23f45c4a3f8ba66eeec8cce75c
+
 ---
 
-## 60316 — Lego City Klocki 60316 Posterunek policji
+## 60316 — Posterunek policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 255.00 zł · EAN: 57020132115074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60316 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 668 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 28 cm × gł. 24 cm |
+| EAN | 4895202218584, 57020132115074, 5702017161914 |
 
 LEGO City 60316 Posterunek policji
 
@@ -10243,11 +15844,29 @@ Nie nadaje się dla dzieci w wieku poniżej 3 lat.
 
  Produkt spełnia normy Unii Europejskiej w zakresie bezpieczeństwa oraz wpływu na zdrowie i środowisko.
 
+**Galeria:**
+
+- 60316-1: https://a.allegroimg.com/original/114c33/faf27089468fbeddbf3f28412d62
+- 60316-2: https://a.allegroimg.com/original/116285/eaebd3ec4383b4a6489ca94a64ec
+- 60316-3: https://a.allegroimg.com/original/11e45c/2d1a9fbf4f40a8dde6c5d341ad8b
+
 ---
 
-## 60317 — Lego 60317 City Napad na bank Policja Złodzieje Klocki Nowe Oryginalne
+## 60317 — Napad na bank
 
-*Kategoria: City · cena Allegro (2026-08-17): 1175.21 zł · EAN: 05702017161921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60317 |
+| Nazwa angielska | Police Chase at the Bank |
+| Nazwa polska | Napad na bank |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 915 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702017161921 |
 
 LEGO 60317 City - Napad na bank
 
@@ -10289,11 +15908,27 @@ Betty, Hacksaw Hank i Vito napadli na bank miejski. Łup! Robią w ścianach ogr
 - Testy jakości — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60317-1: https://a.allegroimg.com/original/1113c2/cd9b69f24ab1b52a144f59c2975f
+
 ---
 
-## 60318 — Zestaw klocków Lego City Helikopter strażacki 60318 53 elementy 4+
+## 60318 — Helikopter strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 118.00 zł · EAN: 05702017161020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60318 |
+| Nazwa angielska | Fire Helicopter |
+| Nazwa polska | Helikopter strażacki |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702017161020 |
 
 LEGO City 60318 Helikopter strażacki
  
@@ -10325,11 +15960,27 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych budynków
 - Pomoc w rozwijaniu ważnych umiejętności — kreatywna zabawa zestawami LEGO® City rozwija motorykę i wzmacnia pewność siebie dzieci 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60318-1: https://a.allegroimg.com/original/05cf7d/e389f5ad4a079c7cad4aea819589
+
 ---
 
-## 60319 — Lego 60319 City Akcja strażacka i policyjny pościg
+## 60319 — Akcja strażacka i policyjny pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 198.48 zł · EAN: 05702017161037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60319 |
+| Nazwa angielska | Fire Rescue & Police Chase |
+| Nazwa polska | Akcja strażacka i policyjny pościg |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702017161037 |
 
 Klocki LEGO City 60319 - Akcja strażacka i policyjny pościg
 
@@ -10379,11 +16030,27 @@ Zestaw LEGO City - Akcja strażacka i policyjny pościg trafił do sprzedaży 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60319-1: https://a.allegroimg.com/original/1125f3/4dce43374aad9412d2bce130bf72
+
 ---
 
-## 60320 — Lego City Remiza strażacka 60320
+## 60320 — Remiza strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 591.99 zł · EAN: 05702017161624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60320 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza strażacka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 540 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 34 cm × gł. 32 cm |
+| EAN | 5702017161518, 5702017161624 |
 
 LEGO CITY
 
@@ -10436,11 +16103,28 @@ SPECYFIKACJA ZESTAWU:
 - **Ilość minifigurek:** 5
 - **Wymiary pudełka (wys/szer/dł):** 354;378;94 mm
 
+**Galeria:**
+
+- 60320-1: https://a.allegroimg.com/original/11557c/eeb3e18f4b268ab0cad63151eb5e
+- 60320-2: https://a.allegroimg.com/original/054a8a/a4d8936446f49f13f03118a25e91
+
 ---
 
-## 60321 — Lego City Straż pożarna 60321
+## 60321 — Straż pożarna
 
-*Kategoria: City · cena Allegro (2026-08-17): 522.00 zł · EAN: 05702017161631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60321 |
+| Nazwa angielska | Fire Brigade |
+| Nazwa polska | Straż pożarna |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 766 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 34 cm × gł. 32 cm |
+| EAN | 5702017161525, 5702017161631 |
 
 **2M 1W**
 
@@ -10471,11 +16155,28 @@ Wymiary — po zbudowaniu fabryka sardynek ma ok. 30 cm wysokości, 34 cm szerok
 
 UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 
+**Galeria:**
+
+- 60321-1: https://a.allegroimg.com/original/11d46f/ad8b4e124f2a89a1bbfc8cac7c52
+- 60321-2: https://a.allegroimg.com/original/11a037/66c69abd44df985139b9200267b7
+
 ---
 
-## 60322 — Lego 60322 City Samochód wyścigowy
+## 60322 — Samochód wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 44.40 zł · EAN: 05702017117102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60322 |
+| Nazwa angielska | Race Car |
+| Nazwa polska | Samochód wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702017117102 |
 
 LEGO
 
@@ -10505,11 +16206,27 @@ Model LEGO® City Samochód wyścigowy (60322) wprowadzi dzieci w świat emocjon
 
 • Pomoc dla młodszych budowniczych — ten zestaw 4+ zawiera klocek startowy LEGO®, ilustrowaną broszurę z instrukcjami oraz cyfrowy przewodnik po budowaniu dostępny w bezpłatnej aplikacji Instrukcje budowania LEGO
 
+**Galeria:**
+
+- 60322-1: https://a.allegroimg.com/original/116d2d/024b4aab4a8e8e59c20ed729ec08
+
 ---
 
-## 60323 — 60323 Lego City Samolot kaskaderski
+## 60323 — Samolot kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702016693799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60323 |
+| Nazwa angielska | Stunt Plane |
+| Nazwa polska | Samolot kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016693799, 5702017116921 |
 
 **60323 - LEGO City - Samolot kaskaderski**
 
@@ -10612,11 +16329,28 @@ Parametry
 - **liczba elementów**: 59 szt.
 - **wiek dziecka**: 5 lat +
 
+**Galeria:**
+
+- 60323-1: https://a.allegroimg.com/original/111aac/dbdce5de427a81bbc2be4cda5e95
+- 60323-2: https://a.allegroimg.com/original/11cc49/19159caa470981b5f21b3957e866
+
 ---
 
-## 60324 — Lego City 60324 Żuraw podróżny
+## 60324 — Żuraw podróżny
 
-*Kategoria: City · cena Allegro (2026-08-17): 338.00 zł · EAN: 05702017117607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60324 |
+| Nazwa angielska | Mobile Crane |
+| Nazwa polska | Żuraw podróżny |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 340 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702017117607 |
 
 LEGO City 60324 Żuraw samochodowy
  
@@ -10645,11 +16379,27 @@ Dzieciom zainteresowanym pojazdami budowlanymi spodoba się zestaw z żurawiem s
 - Fajna zabawka dla dzieci - zestaw LEGO® City Żuraw samochodowy (60324) będzie wspaniałym prezentem na urodziny lub z innej okazji dla chłopców i dziewczynek od 7 lat 
 - Idealny do zabawy i ustawienia na półce - po złożeniu żuraw samochodowy ma ok. 9 cm wysokości, 25 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 60324-1: https://a.allegroimg.com/original/1182dc/d51450b742248ecbe23e87d754e0
+
 ---
 
-## 60325 — Lego City 60325 Ciężarówka z betoniarką
+## 60325 — Ciężarówka z betoniarką
 
-*Kategoria: City · cena Allegro (2026-08-17): 129.22 zł · EAN: 05702017161556 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60325 |
+| Nazwa angielska | Cement Mixer Truck |
+| Nazwa polska | Ciężarówka z betoniarką |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702017161556 |
 
 Lego CITY 60325 Ciężarówka z betoniarką
 
@@ -10670,11 +16420,27 @@ Odkrywanie świata przez zabawęDzieci widzą dokoła siebie mnóstwo fascynują
 - Zabawki najwyższej jakości -- wszystkie elementy LEGO(R) spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością -- i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim -- klocki i inne elementy zestawów LEGO(R) są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60325-1: https://a.allegroimg.com/original/11e8af/6531bd6c4ef786125b19a8669cad
+
 ---
 
-## 60326 — Lego 60326 City Piknik w parku
+## 60326 — Piknik w parku
 
-*Kategoria: City · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017189710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60326 |
+| Nazwa angielska | Picnic in the Park |
+| Nazwa polska | Piknik w parku |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm × gł. 13 cm |
+| EAN | 5702017189710 |
 
 **LEGO CITY 60326 PIKNIK W PARKU**
 
@@ -10698,11 +16464,27 @@ W zestawach LEGO City dzieci znajdą szczegółowe budynki, realistyczne pojazdy
 - Zabawa inspirowana prawdziwym życiem — w zabawkach LEGO® City znajdziesz budynki, pojazdy i postacie, które zachęcają do pomysłowego odgrywania ról w realistycznych scenariuszach
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60326-1: https://a.allegroimg.com/original/117c7c/1a9f40fd4d07be0e0a239367c00a
+
 ---
 
-## 60327 — Lego City Przyczepa Do Przewozu Koni #60327
+## 60327 — Przyczepa do przewozu koni
 
-*Kategoria: City · cena Allegro (2026-08-17): 179.50 zł · EAN: 05702017117614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60327 |
+| Nazwa angielska | Horse Transporter |
+| Nazwa polska | Przyczepa do przewozu koni |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702016699029, 5702017117614 |
 
 LEGO CITY PRZYCZEPA DO PRZEWOZU KONI
 
@@ -10744,11 +16526,28 @@ Z zestawami LEGO City Superpojazdy dzieci znajdą się w samym środku akcji, a 
 - Zabawki najwyższej jakości — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku,
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60327-1: https://a.allegroimg.com/original/115b3d/e1db5cb34ae1a8b41f0f440fe9b6
+- 60327-2: https://a.allegroimg.com/original/1196f4/07b7a11b4fdb84ac86e37c73e62f
+
 ---
 
-## 60328 — Zestaw Lego City 60328 Stanowisko Ratownicze Na Plaży
+## 60328 — Klocki LEGO City 60328 Stanowisko ratownicze na plaży
 
-*Kategoria: City · cena Allegro (2026-08-17): 194.01 zł · EAN: 05702017161587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60328 |
+| Nazwa angielska | Beach Lifeguard Station |
+| Nazwa polska | Klocki LEGO City 60328 Stanowisko ratownicze na plaży |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 22 cm × gł. 20 cm |
+| EAN | 5702017161587 |
 
 ZESTAW LEGO CITY - 60328 - STANOWISKO RATOWNICZE NA PLAŻY
 
@@ -10788,11 +16587,27 @@ Zestaw został zaprojektowane tak, aby jak najlepiej oddać klimat pracy ratowni
 
 LEGO City 60328 to doskonały wybór na prezent urodzinowy lub niespodziankę bez okazji dla dzieci od 5 lat. Łączy w sobie ciekawą tematykę plażową, realistyczne funkcje i dużo możliwości kreatywnej zabawy, dzięki czemu szybko staje się ulubionym zestawem. To idealna propozycja dla małych fanów przygód, zwierząt i ratowniczych akcji, którzy lubią tworzyć własne historie i rozwijać wyobraźnię. Jak wszystkie zestawy LEGO, również ten spełnia rygorystyczne standardy jakości i bezpieczeństwa, co gwarantuje trwałość i łatwość łączenia elementów z innymi modelami.
 
+**Galeria:**
+
+- 60328-1: https://a.allegroimg.com/original/11506a/baa07c04420ba7148419c8421ead
+
 ---
 
-## 60329 — Lego City Dzień w szkole 60329
+## 60329 — Dzień w szkole
 
-*Kategoria: City · cena Allegro (2026-08-17): 563.88 zł · EAN: 05702017162232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60329 |
+| Nazwa angielska | School Day |
+| Nazwa polska | Dzień w szkole |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 27 cm × gł. 25 cm |
+| EAN | 5702017161594, 5702017162232 |
 
 LEGO CITY
 
@@ -10845,11 +16660,28 @@ SPECYFIKACJA ZESTAWU:
 - **Ilość minifigurek:** 7
 - **Wymiary pudełka (wys/szer/dł):** 354;378;70.5 mm
 
+**Galeria:**
+
+- 60329-1: https://a.allegroimg.com/original/0521bb/a434f0bf4b05b934c128fe31113b
+- 60329-2: https://a.allegroimg.com/original/11058b/918b0ac845148a85792b386ab1c4
+
 ---
 
-## 60330 — Lego City 60330 Zestaw Szpital
+## 60330 — Szpital
 
-*Kategoria: City · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702017161600 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60330 |
+| Nazwa angielska | Hospital |
+| Nazwa polska | Szpital |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 816 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017161600 |
 
 Witamy!
 
@@ -10873,11 +16705,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 60330-1: https://a.allegroimg.com/original/11ea8e/7e72c0a248dbaa08de283203c59f
+
 ---
 
-## 60331 — Lego City Stuntz Motocykl kaskaderski 60331
+## 60331 — Turystyczny motocykl kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 25.00 zł · EAN: 05702017161938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60331 |
+| Nazwa angielska | Touring Stunt Bike |
+| Nazwa polska | Turystyczny motocykl kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017161938 |
 
 LEGO City Stuntz Motocykl kaskaderski 60331
 
@@ -10895,11 +16743,27 @@ Napędzany kołem zamachowym motocykl kaskaderski zapewnia wiele godzin zabawy p
 
 **Więcej zestawów do zebrania i połączenia **- Sprzedawane oddzielnie zestawy LEGO City Stuntz można łączyć, aby kaskaderska zabawa była jeszcze lepsza!
 
+**Galeria:**
+
+- 60331-1: https://a.allegroimg.com/original/11a926/21704aa742b8be5a8fd73425fc76
+
 ---
 
-## 60332 — Lego 60332 City Motocykl kaskaderski skorpiona
+## 60332 — Motocykl kaskaderski brawurowego skorpiona
 
-*Kategoria: City · cena Allegro (2026-08-17): 25.99 zł · EAN: 05702017161945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60332 |
+| Nazwa angielska | Reckless Scorpion Stunt Bike |
+| Nazwa polska | Motocykl kaskaderski brawurowego skorpiona |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017161945 |
 
 LEGO 60332 City Motocykl kaskaderski skorpiona
 
@@ -10931,11 +16795,27 @@ LEGO 60332 City Motocykl kaskaderski skorpiona
 
 ✅wiek: 5+
 
+**Galeria:**
+
+- 60332-1: https://a.allegroimg.com/original/1107a9/47edeb594ac79730cfd492525d3d
+
 ---
 
-## 60333 — Lego City 60333 Kaskaderski motocykl-wanna
+## 60333 — Kaskaderski motocykl-wanna
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017161952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60333 |
+| Nazwa angielska | Bathtub Stunt Bike |
+| Nazwa polska | Kaskaderski motocykl-wanna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3,5 cm × szer. 2 cm |
+| EAN | 5702017161952 |
 
 LEGO City 60333 Kaskaderski motocykl-wanna
  
@@ -10964,11 +16844,27 @@ Zestaw z motocyklem kaskaderskim zawiera łatwe instrukcje z obrazkami, dzięki 
 - Nauka podczas zabawy — zestawy LEGO® City zawierają inspirujące budowle, pojazdy i postacie, które zachęcają dzieci do pomysłowej zabawy, zwiększają ich pewność siebie i pomagają rozwijać umiejętności kreatywne 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60333-1: https://a.allegroimg.com/original/11d626/0f13d7404d51a866217f15ebf6b1
+
 ---
 
-## 60335 — Lego City 60335 Dworzec kolejowy Autobus Peron
+## 60335 — Dworzec kolejowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 585.49 zł · EAN: 05702017189727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60335 |
+| Nazwa angielska | Train Station |
+| Nazwa polska | Dworzec kolejowy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 907 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 37 cm × gł. 12 cm |
+| EAN | 5702017189727 |
 
 **LEGO City 60335 Dworzec kolejowy**
 
@@ -11001,11 +16897,27 @@ Dzięki zestawom LEGO City dzieci znajdą się w samym środku akcji. Pełne rea
 - Zabawki najwyższej jakości — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60335-1: https://a.allegroimg.com/original/055f1c/2d80055042fab299f83ffad28d7d
+
 ---
 
-## 60336 — Lego City 60336 Pociąg towarowy
+## 60336 — Pociąg towarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1194.99 zł · EAN: 05702017189734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60336 |
+| Nazwa angielska | Freight Train |
+| Nazwa polska | Pociąg towarowy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017189734 |
 
 Klocki LEGO City 60336 - Pociąg towarowy
 
@@ -11035,11 +16947,27 @@ O zestawie
 - Gwarancja jakości — wszystkie elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60336-1: https://a.allegroimg.com/original/11bf58/69c7e671494faaa8317f14798590
+
 ---
 
-## 60337 — Lego City Ekspresowy pociąg pasażerski 60337
+## 60337 — Ekspresowy pociąg pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 516.15 zł · EAN: 05702017162126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60337 |
+| Nazwa angielska | Passenger Express Train |
+| Nazwa polska | Ekspresowy pociąg pasażerski |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 764 |
+| Cena katalogowa | 689.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm |
+| EAN | 5702017162126, 5905413616419 |
 
 **Zestaw LEGO® City Ekspresowy pociąg pasażerski (60337)** zawiera zdalnie sterowaną lokomotywę z działającymi, ściemnianymi przednimi reflektorami i technologią Powered Up, wagon restauracyjny, wagon pasażerski, peron, 24 elementy torów kolejowych i sześć minifigurek do nieograniczonej zabawy w odgrywanie ról.
 
@@ -11063,11 +16991,27 @@ Na peron właśnie wjeżdża szybkobieżny ekspresowy pociąg pasażerski z roz�
 - Ciekawa zabawa w budowanie — ten zestaw konstrukcyjny LEGO® City zawiera proste instrukcje budowania każdego modelu 
 - 24 elementy torów kolejowych — w zestawie LEGO® City Ekspresowy pociąg pasażerski znajduje się 16 torów łukowatych i osiem torów prostych
 
+**Galeria:**
+
+- 60337-1: https://a.allegroimg.com/original/116d60/fd04475048a5b99d3bd98430a025
+- 60337-2: https://a.allegroimg.com/original/119a33/ba832fc14af896af19dc7b4a9bb1
+
 ---
 
-## 60338 — Lego 60338 City Kaskaderska pętla i szympans demolka
+## 60338 — Kaskaderska pętla i szympans demolka
 
-*Kategoria: City · cena Allegro (2026-08-17): 143.99 zł · EAN: 05702017162072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60338 |
+| Nazwa angielska | Chimpanzee Smash Stunt Loop |
+| Nazwa polska | Kaskaderska pętla i szympans demolka |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 226 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 17 cm × gł. 40 cm |
+| EAN | 5702017162072, 5702017162201 |
 
 LEGO City 60338 Kaskaderska pętla i szympans demolka
  
@@ -11096,11 +17040,27 @@ Uruchom motocykl napędzany kołem zamachowym i ruszaj do zabawy w zestawie LEGO
 - Kreatywny zestaw — z zabawkami LEGO® City Stuntz dzieci są w samym środku akcji, a budowle, pojazdy i postacie zachęcają do zabawy w świecie wyobraźni 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60338-1: https://a.allegroimg.com/original/113bac/cda20afb47b7a7f98ba439004e7a
+- 60338-2: https://a.allegroimg.com/original/254170/f83e80784cf680538a3fd14eab0c
+
 ---
 
-## 60339 — Zestaw Lego City 60339 Kaskaderska Arena Z Dwoma Pętlami
+## 60339 — Klocki LEGO City 60339 Kaskaderska arena z dwoma pętlami
 
-*Kategoria: City · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017162089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60339 |
+| Nazwa angielska | Double Loop Stunt Arena |
+| Nazwa polska | Klocki LEGO City 60339 Kaskaderska arena z dwoma pętlami |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 598 |
+| Cena katalogowa | 699.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 16 cm × gł. 34 cm |
+| EAN | 5702017162089 |
 
 ZESTAW LEGO CITY - 60339 - KASKADERSKA ARENA Z DWOMA PĘTLAMI
 
@@ -11142,11 +17102,26 @@ Zestaw idealnie sprawdzi się także w zabawie z przyjaciółmi – można urzą
 
 Zestaw LEGO City 60339 to bez wątpienia fantastyczny pomysł na prezent – zarówno na urodziny, święta, jak i bez żadnej szczególnej okazji. Dzięki swojej rozbudowanej formie i dynamicznemu charakterowi zapewnia wielogodzinną, emocjonującą zabawę, która przyciąga uwagę dzieci i zachęca do kreatywnego działania. Zestaw łączy w sobie widowiskowość, funkcjonalność i możliwość tworzenia niepowtarzalnych historii. Doskonale prezentuje się na półce, ale przede wszystkim spełnia swoją funkcję jako dynamiczne centrum zabawy, które można stale rozwijać i dostosowywać do własnych pomysłów. Jeśli szukasz prezentu, który zrobi wrażenie, pobudzi wyobraźnię i dostarczy mnóstwa radości, ten zestaw to wybór, który na pewno nie zawiedzie.
 
+**Galeria:**
+
+- 60339-1: https://a.allegroimg.com/original/05e7c2/c2da17bb45c1ba37996fb8669b08
+
 ---
 
-## 60340 — Lego City 60340 Wyzwanie kaskaderskie ostrze
+## 60340 — Wyzwanie kaskaderskie ostrze
 
-*Kategoria: City · cena Allegro (2026-08-17): 78.77 zł · EAN: 05702017162096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60340 |
+| Nazwa angielska | The Blade Stunt Challenge |
+| Nazwa polska | Wyzwanie kaskaderskie ostrze |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 154 |
+| Cena katalogowa | 79.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 20 cm × gł. 22 cm |
+| EAN | 5702017162096 |
 
 Przygotuj się na emocjonujące wyczyny w zestawie LEGO® City Wyzwanie kaskaderskie: ostrze (60340) zawierającym zabawkowy motocykl napędzany kołem zamachowym do wykonywania prawdziwych sztuczek kaskaderskich. Zestaw można połączyć z innymi zabawkami z serii LEGO City Stuntz, by zabawa w pokazy kaskaderskie była jeszcze lepsza.
  
@@ -11171,11 +17146,26 @@ Uruchom motocykl kaskaderski napędzany kołem zamachowym i przebij się przez b
 - Idealne do kreatywnej zabawy — z zabawkami LEGO® City Stuntz dzieci są w samym środku akcji, a budowle, pojazdy i postacie zachęcają do kreatywnej rozrywki w świecie wyobraźni 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60340-1: https://a.allegroimg.com/original/1127cc/77de7c1840af8275bde100c1a547
+
 ---
 
-## 60341 — Lego 60341 City Wyzwanie kaskaderskie: przewracanie
+## 60341 — Wyzwanie kaskaderskie: przewracanie
 
-*Kategoria: City · cena Allegro (2026-08-17): 68.84 zł · EAN: 05702017162102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60341 |
+| Nazwa angielska | The Knockdown Stunt Challenge |
+| Nazwa polska | Wyzwanie kaskaderskie: przewracanie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 117 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 20 cm × gł. 14 cm |
+| EAN | 5702017162102 |
 
 Klocki LEGO City 60341 - Wyzwanie kaskaderskie: przewracanie
 
@@ -11220,11 +17210,27 @@ Zestaw LEGO City - Wyzwanie kaskaderskie: przewracanie trafił do sprzedaży w
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60341-1: https://a.allegroimg.com/original/25a04a/2c7d3347497ba6991d26f943fca6
+
 ---
 
-## 60342 — Lego 60342 City Wyzwanie kaskaderskie: atak rekina
+## 60342 — LEGO 60342 City - Wyzwanie kaskaderskie: atak rekina
 
-*Kategoria: City · cena Allegro (2026-08-17): 105.99 zł · EAN: 05702017162119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60342 |
+| Nazwa angielska | The Shark Attack Stunt Challenge |
+| Nazwa polska | LEGO 60342 City - Wyzwanie kaskaderskie: atak rekina |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 26 cm × gł. 9 cm |
+| EAN | 5702017162119 |
 
 LEGO 60342 City - Wyzwanie kaskaderskie: atak rekina
 
@@ -11250,11 +17256,27 @@ Z zabawkami LEGO City dzieci znajdą się w samym środku akcji, a imponujące p
 
 - W komplecie fajne akcesoria LEGO® — minifigurki mają akcesoria, takie jak dwa diamenty, skrzynka z narzędziami, mapa skarbów i skrzynia ze skarbem
 
+**Galeria:**
+
+- 60342-1: https://a.allegroimg.com/original/451db8/fc4badb44b5e811aca88405ac7db
+
 ---
 
-## 60344 — Lego 60344 City Kurnik z kurczakami
+## 60344 — LEGO 60344 City - Kurnik z kurczakami
 
-*Kategoria: City · cena Allegro (2026-08-17): 69.99 zł · EAN: 05702017161167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60344 |
+| Nazwa angielska | Chicken Henhouse |
+| Nazwa polska | LEGO 60344 City - Kurnik z kurczakami |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 5 cm |
+| EAN | 5702017161167 |
 
 LEGO 60344 City - Kurnik z kurczakami
 
@@ -11280,11 +17302,27 @@ Zestawy z farmą LEGO City oferują nieograniczone możliwości zabawy, a szczeg
 
 - W komplecie ciekawe akcesoria dla minifigurek — w zestawie Kurnik z kurczakami znajdziesz też kask, skrzynię, dwa jajka i kwiatek
 
+**Galeria:**
+
+- 60344-1: https://a.allegroimg.com/original/450369/c7ffdb57454c8b368b65971fccc4
+
 ---
 
-## 60345 — Lego City 60345 Furgonetka na targu
+## 60345 — Furgonetka na targu
 
-*Kategoria: City · cena Allegro (2026-08-17): 184.99 zł · EAN: 05702017161693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60345 |
+| Nazwa angielska | Farmers Market Van |
+| Nazwa polska | Furgonetka na targu |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 17 cm |
+| EAN | 5702017161693 |
 
 Dzieciom, które lubią wcielać się w pomysłowe role, spodoba się zestaw LEGO® City Furgonetka na targu (60345).
  
@@ -11310,11 +17348,27 @@ Hurra! Furgonetka na targu sprzedaje dziś pyszne, świeże warzywa. Pomóż far
 - Zabawki najwyższej jakości — wszystkie elementy LEGO®spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60345-1: https://a.allegroimg.com/original/25719d/efb1702c4f60a154d237e671e0a0
+
 ---
 
-## 60346 — Lego City 60346 Stodoła i zwierzęta gospodarskie
+## 60346 — Stodoła i zwierzęta gospodarskie
 
-*Kategoria: City · cena Allegro (2026-08-17): 285.58 zł · EAN: 05702017161723 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60346 |
+| Nazwa angielska | Barn & Farm Animals |
+| Nazwa polska | Stodoła i zwierzęta gospodarskie |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 5 cm |
+| EAN | 5702017161723 |
 
 LEGO City 60346 Stodoła i zwierzęta gospodarskie
 
@@ -11342,11 +17396,27 @@ Wybierz się do stodoły na farmie LEGO City, gdzie możesz zająć się owcą, 
 - Zabawa, która pomaga w nauce — budynki, pojazdy i postacie z zestawów LEGO City zachęcają dzieci do pomysłowej zabawy, która zwiększa ich pewność siebie i rozwija umiejętności kreatywne 
 - Bezpieczeństwo przede wszystkim — elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60346-1: https://a.allegroimg.com/original/114a0e/1ed508364a919a2537d177439f74
+
 ---
 
-## 60347 — Lego City 60347 Sklep spożywczy
+## 60347 — Sklep spożywczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 519.00 zł · EAN: 05702017161617 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60347 |
+| Nazwa angielska | Grocery Store |
+| Nazwa polska | Sklep spożywczy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 404 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 36 cm × gł. 13 cm |
+| EAN | 5702017161617 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -11374,11 +17444,27 @@ Wybierz się do stodoły na farmie LEGO City, gdzie możesz zająć się owcą, 
 - Nauka podczas zabawy — budynki, pojazdy i postacie z zestawów LEGO® City zachęcają dzieci do pomysłowej, kreatywnej zabawy, która rozwija ważne życiowe umiejętności i pozwala nabrać więcej pewności siebie 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60347-1: https://a.allegroimg.com/original/255600/03bb305549aaa588c89bd9070aac
+
 ---
 
-## 60349 — Lego City 60349 Stacja kosmiczna na Księżycu
+## 60349 — Stacja kosmiczna na Księżycu
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702017161761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60349 |
+| Nazwa angielska | Lunar Space Station |
+| Nazwa polska | Stacja kosmiczna na Księżycu |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 28 cm |
+| EAN | 5702017161761 |
 
 LEGO City 60349 Stacja kosmiczna na Księżycu
  
@@ -11406,11 +17492,27 @@ W kosmicznych zestawach LEGO City znajdziesz szczegółowe modele inspirowane pr
 - Nacisk na jakość — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60349-1: https://a.allegroimg.com/original/116511/955300354d37bb84a7b69ed91fcc
+
 ---
 
-## 60350 — Lego City 60350 Stacja badawcza na Księżycu
+## 60350 — Stacja badawcza na Księżycu
 
-*Kategoria: City · cena Allegro (2026-08-17): 644.44 zł · EAN: 05702017161792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60350 |
+| Nazwa angielska | Lunar Research Base |
+| Nazwa polska | Stacja badawcza na Księżycu |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 786 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 40 cm × gł. 25 cm |
+| EAN | 5702017161792 |
 
 LEGO City Stacja badawcza na Księżycu 60350
  
@@ -11441,11 +17543,27 @@ Posadź lądownik księżycowy na powierzchni i ruszaj na poszukiwanie niezapomn
 - Rozwój kreatywności — kosmiczne zestawy LEGO® City inspirowane prawdziwymi maszynami, pojazdami i rakietami NASA zachęcają dzieci do swobodnej, twórczej zabawy odzwierciedlającej zdarzenia z prawdziwego życia 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60350-1: https://a.allegroimg.com/original/254f97/9605a46e4c06a35a1eaccd3ba0db
+
 ---
 
-## 60351 — Lego City Start Rakiety Z Kosmodromu 60351
+## 60351 — Start rakiety z kosmodromu
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.34 zł · EAN: 05702017161808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60351 |
+| Nazwa angielska | Rocket Launch Center |
+| Nazwa polska | Start rakiety z kosmodromu |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 11 cm |
+| EAN | 5702017161808 |
 
 START RAKIETY Z KOSMODROMU
 
@@ -11473,11 +17591,27 @@ Witaj na kosmodromie LEGO® City! Właśnie trwają przygotowania do brawurowej 
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 60351-1: https://a.allegroimg.com/original/116b7a/8d00c7314ce8a564988011c2e6a5
+
 ---
 
-## 60353 — Lego City 60353 Misja ratowania dzikich zwierząt
+## 60353 — Misja ratowania dzikich zwierząt
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017189741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60353 |
+| Nazwa angielska | Wild Animal Rescue Missions |
+| Nazwa polska | Misja ratowania dzikich zwierząt |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702017189741 |
 
 LEGO City 60353 Misja ratowania dzikich zwierząt
  
@@ -11503,11 +17637,27 @@ Zostaw instrukcje budowania i daj się porwać do niesamowitego świata interakt
 - Zestaw wykorzystujący aplikację — zestawy LEGO® City Missions wymagają smartfonu lub tabletu z zainstalowaną aplikacją Instrukcje budowania LEGO 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60353-1: https://a.allegroimg.com/original/1174ea/2a58c1fa4a66afec26a78173f1c9
+
 ---
 
-## 60354 — Klocki Lego 60354 Wyprawy badawcze statkiem kosmiczny Mars
+## 60354 — Wyprawy badawcze statkiem marsjańskim
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017189758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60354 |
+| Nazwa angielska | Mars Spacecraft Exploration Missions |
+| Nazwa polska | Wyprawy badawcze statkiem marsjańskim |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702017189758 |
 
 LEGO City 60354 Wyprawy badawcze statkiem marsjańskim
  
@@ -11532,11 +17682,26 @@ Dzięki zestawom LEGO City Missions dzieci mogą się wcielić w bohaterów i pr
 - Zestaw wykorzystujący aplikację — zestawy LEGO® City Missions wymagają smartfonu lub tabletu z zainstalowaną aplikacją Instrukcje budowania LEGO 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60354-1: https://a.allegroimg.com/original/113351/1fbdcf4f47f2bff7e8ec0da1b2c1
+
 ---
 
-## 60355 — Lego City Missions 60355 Śledztwa wodnej policji
+## 60355 — Śledztwa wodnej policji
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.50 zł · EAN: 05702017189765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60355 |
+| Nazwa angielska | Water Police Detective Missions |
+| Nazwa polska | Śledztwa wodnej policji |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 278 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702017189765 |
 
 LEGO City 60355 Śledztwa wodnej policji
  
@@ -11563,11 +17728,27 @@ Zostaw instrukcje budowania i daj się porwać do niesamowitego świata interakt
 - Zestaw wykorzystujący aplikację — zestawy LEGO® City Missions wymagają smartfonu lub tabletu z zainstalowaną aplikacją Instrukcje budowania LEGO 
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60355-1: https://a.allegroimg.com/original/11a8f5/ce0218b04e20a85bac957ceddebe
+
 ---
 
-## 60356 — Lego 60356 Motocykl Kaskaderski
+## 60356 — Motocykl kaskaderski z niedźwiedziem
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.90 zł · EAN: 05702017416182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60356 |
+| Nazwa angielska | Bear Stunt Bike |
+| Nazwa polska | Motocykl kaskaderski z niedźwiedziem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416182 |
 
 **Motocykl kaskaderski z niedźwiedziem**
 
@@ -11579,11 +17760,26 @@ Ilość elementów: 10
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 60356-1: https://a.allegroimg.com/original/113f63/b389232048b780bbeaf4669f4d0c
+
 ---
 
-## 60357 — Lego City 60357 Wyzwanie kaskaderskie ciężarówka i ogniste obręcze
+## 60357 — Wyzwanie kaskaderskie ciężarówka i ogniste obręcze
 
-*Kategoria: City · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702017416175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60357 |
+| Nazwa angielska | Stunt Truck & Ring of Fire Challenge |
+| Nazwa polska | Wyzwanie kaskaderskie ciężarówka i ogniste obręcze |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 479 |
+| Cena katalogowa | 229.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017416175 |
 
 Zorganizuj pokaz w mieście dzięki zestawowi LEGO® City Wyzwanie kaskaderskie – ciężarówka i ogniste obręcze (60357). Ten zabawkowy zestaw dla dzieci w wieku od sześciu lat zawiera ciężarówkę z płonącymi rurami wydechowymi oraz przyczepę z platformą i składaną rampą startową, a także trzema regulowanymi ognistymi obręczami. Wystarczy dodać napędzany kołem zamachowym motocykl kaskaderski, kierowcę ciężarówki i dwie minifigurki kaskaderów, aby zapewnić sobie godziny pełnej akcji zabawy.
 
@@ -11597,11 +17793,27 @@ Z zestawami LEGO City dzieci znajdą się w samym środku akcji, a realistyczne 
 
 ILOŚĆ ELEMENTÓW 479
 
+**Galeria:**
+
+- 60357-1: https://a.allegroimg.com/original/1193cd/44eb150d4bbc9c9b8a9a3dee6f74
+
 ---
 
-## 60358 — Lego City 60358 Cybermotocykl kaskaderski
+## 60358 — Cybermotocykl kaskaderski
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017416199 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60358 |
+| Nazwa angielska | Cyber Stunt Bike |
+| Nazwa polska | Cybermotocykl kaskaderski |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 2 cm |
+| EAN | 5702017416199 |
 
 LEGO City 60358 Cybermotocykl kaskaderski
  
@@ -11635,11 +17847,27 @@ Dzięki zestawom LEGO City dzieci znajdą się w samym środku akcji, a imponuj�
 - Zabawki najwyższej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60358-1: https://a.allegroimg.com/original/25ae0b/7e18976b474fb74372009692f887
+
 ---
 
-## 60359 — Lego City Wyzwanie kaskaderskie rampa z kołe 60359
+## 60359 — Wyzwanie kaskaderskie rampa z kołem do przeskakiwania
 
-*Kategoria: City · cena Allegro (2026-08-17): 124.27 zł · EAN: 05702017416205 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60359 |
+| Nazwa angielska | Dunk Stunt Ramp Challenge |
+| Nazwa polska | Wyzwanie kaskaderskie rampa z kołem do przeskakiwania |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 144 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 16 cm × gł. 25 cm |
+| EAN | 5702017416205 |
 
 LEGO CITY
 
@@ -11684,11 +17912,26 @@ Specyfikacja zestawu:
 - **Ilość elementów:** 144
 - **Ilość minifigurek:** 1
 
+**Galeria:**
+
+- 60359-1: https://a.allegroimg.com/original/11e544/bf7277c0461799cb35e96a4f1732
+
 ---
 
-## 60360 — Lego 60360 Wyzwanie Kaskaderskie
+## 60360 — Wyzwanie kaskaderskie obracające się okręgi
 
-*Kategoria: City · cena Allegro (2026-08-17): 139.90 zł · EAN: 05702017416212 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60360 |
+| Nazwa angielska | Spinning Stunt Challenge |
+| Nazwa polska | Wyzwanie kaskaderskie obracające się okręgi |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 117 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017416212 |
 
 **Wyzwanie kaskaderskie **
 
@@ -11700,11 +17943,26 @@ Liczba elementów: 117
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 60360-1: https://a.allegroimg.com/original/11afef/e6ea8b0e4188aaf46e3bcaadf747
+
 ---
 
-## 60361 — klocki Lego City 60361 Ekstremalne wyzwanie kaskaderskie
+## 60361 — Ekstremalne wyzwanie kaskaderskie
 
-*Kategoria: City · cena Allegro (2026-08-17): 226.00 zł · EAN: 05702017416229 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60361 |
+| Nazwa angielska | Ultimate Stunt Riders Challenge |
+| Nazwa polska | Ekstremalne wyzwanie kaskaderskie |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 385 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 28 cm × gł. 24 cm |
+| EAN | 5702017416229 |
 
 LEGO City 60361 Ekstremalne wyzwanie kaskaderskie
 
@@ -11732,11 +17990,27 @@ Dzięki zabawkom LEGO City dzieci znajdą się w samym środku akcji, a imponuj�
 - Zabawki najwyższej jakości – wszystkie elementy LEGO®spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60361-1: https://a.allegroimg.com/original/2595c6/05369752417bbad13ebc2e3c8faa
+
 ---
 
-## 60362 — Zestaw Lego City 60362 Myjnia Samochodowa
+## 60362 — Klocki LEGO City 60362 Myjnia samochodowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 168.00 zł · EAN: 05702017415017 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60362 |
+| Nazwa angielska | Car Wash |
+| Nazwa polska | Klocki LEGO City 60362 Myjnia samochodowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 15 cm × gł. 11 cm |
+| EAN | 5702017410708, 5702017415017 |
 
 ZESTAW LEGO CITY - 60362 - MYJNIA SAMOCHODOWA
 
@@ -11778,11 +18052,28 @@ W pudełku znajduje się papierowa, kolorowa instrukcja, która jest dostępna r
 
 Model LEGO City 60362 to idealny wybór dla dzieci, które lubią samochody, budowanie oraz zabawę w odgrywanie ról. Będzie sprawdzonym prezentem urodzinowym, świątecznym lub upominkiem bez okazji dla każdego młodego fana LEGO i serii City. Dzięki połączeniu budowania, funkcjonalnego modelu samochodu i kreatywnej zabawy, zestaw może zapewnić wiele godzin angażującej rozrywki i stać się ciekawym elementem większej kolekcji LEGO City. Zestaw świetnie sprawdzi się zarówno podczas samodzielnej zabawy, jak i wspólnego budowania oraz odgrywania scenek z rodzeństwem czy rodzicami.
 
+**Galeria:**
+
+- 60362-1: https://a.allegroimg.com/original/296874/d80241634d82891536b222bee65e
+- 60362-2: https://a.allegroimg.com/original/05c063/01bafe024c8495e2a15dab5e27bb
+
 ---
 
-## 60363 — Klocki Lego Lodziarnia 60363 Miasto 296 elementów 6 lat
+## 60363 — Lodziarnia
 
-*Kategoria: City · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702017415635 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60363 |
+| Nazwa angielska | Ice Cream Shop |
+| Nazwa polska | Lodziarnia |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 296 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm × gł. 12 cm |
+| EAN | 5702017415635 |
 
 LEGO City 60363 Lodziarnia
  
@@ -11809,11 +18100,27 @@ Zestawy LEGO City oferują nieograniczone możliwości zabawy, a szczegółowe b
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60363-1: https://a.allegroimg.com/original/05aa1f/e3feffbb4bebb0ea1ab96cf137c9
+
 ---
 
-## 60364 — klocki Lego City 60364 Skatepark uliczny Rampa Deskorolka Skate Miasto opis
+## 60364 — Skatepark uliczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 455.04 zł · EAN: 05702017415642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60364 |
+| Nazwa angielska | Street Skate Park |
+| Nazwa polska | Skatepark uliczny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 44 cm × gł. 25 cm |
+| EAN | 5702017415642 |
 
 Lekkie wgniecenie na pudełku
 
@@ -11842,11 +18149,27 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych budynków
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60364-1: https://a.allegroimg.com/original/05f630/127c1d334f78b9a16e42d8d680ea
+
 ---
 
-## 60365 — Lego 60365 City Apartamentowiec
+## 60365 — Zespół apartamentów
 
-*Kategoria: City · cena Allegro (2026-08-17): 483.90 zł · EAN: 05702017415659 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60365 |
+| Nazwa angielska | Apartment Building |
+| Nazwa polska | Zespół apartamentów |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 688 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 21 cm × gł. 20 cm |
+| EAN | 5702017415659 |
 
 Klocki LEGO City 60365 - Apartamentowiec
 
@@ -11871,11 +18194,27 @@ Zestawy LEGO City zawierają realistyczne modele, fajne pojazdy i inspirujące p
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60365-1: https://a.allegroimg.com/original/25da0e/14d50f5f4b4293c4f126340d87b6
+
 ---
 
-## 60366 — Lego City 60366 Teren narciarski i wspinaczkowy
+## 60366 — Teren narciarski i wspinaczkowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 739.00 zł · EAN: 05702017415666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60366 |
+| Nazwa angielska | Ski and Climbing Center |
+| Nazwa polska | Teren narciarski i wspinaczkowy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1045 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 21 cm × gł. 45 cm |
+| EAN | 5702017415666 |
 
 LEGO City 60366 Teren narciarski i wspinaczkowy
  
@@ -11901,11 +18240,26 @@ Zestawy LEGO City pozwalają dzieciom przenieść się w sam środek akcji dzię
 - Akcja bez ograniczeń — podaruj dzieciom więcej zabawy i przygód, łącząc ten zestaw z innymi zestawami z serii LEGO® City 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60366-1: https://a.allegroimg.com/original/115fea/d7be6fa3457e87eef211ce95ef0b
+
 ---
 
-## 60367 — Lego City 60367 Samolot pasażerski
+## 60367 — Samolot pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 309.86 zł · EAN: 05702017416274 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60367 |
+| Nazwa angielska | Passenger Airplane |
+| Nazwa polska | Samolot pasażerski |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 913 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017416274 |
 
 Lego City 60367 Samolot pasażerski
  
@@ -11923,11 +18277,27 @@ Lego City 60367 Samolot pasażerski
 - **Liczba elementów :** 913 
 - **Liczba minifigurek :** 9
 
+**Galeria:**
+
+- 60367-1: https://a.allegroimg.com/original/05fea6/24a058fd4fafa4f5ca582869859e
+
 ---
 
-## 60368 — Lego City 60368 Statek Badawczy Arktyki Zestaw
+## 60368 — Łódź badacza Arktyki
 
-*Kategoria: City · cena Allegro (2026-08-17): 554.29 zł · EAN: 05702017416281 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60368 |
+| Nazwa angielska | Arctic Explorer Ship |
+| Nazwa polska | Łódź badacza Arktyki |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 815 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017416281 |
 
 ✅ **Ogromny statek robi świetne wrażenie**
 
@@ -12028,11 +18398,27 @@ szerokość: 17 cm
 
 - Aplikacja: LEGO Builder
 
+**Galeria:**
+
+- 60368-1: https://a.allegroimg.com/original/11d7b7/aac145a94b6d86c7871f8d154c2d
+
 ---
 
-## 60369 — Lego City 60369 Szkolenie psów policyjnych w terenie
+## 60369 — Szkolenie psów policyjnych w terenie
 
-*Kategoria: City · cena Allegro (2026-08-17): 83.50 zł · EAN: 05702017416298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60369 |
+| Nazwa angielska | Mobile Police Dog Training |
+| Nazwa polska | Szkolenie psów policyjnych w terenie |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017416298 |
 
 Hau, hau! Dołącz do oddziału K9 policji LEGO® CITY i weź udział w szkoleniu psów. Załaduj sprzęt na przyczepę, tylko nie zapomnij o miskach do karmienia! Pomóż podekscytowanemu psu policyjnemu i szczeniaczkowi wsiąść do SUV-a i wyrusz na psie szkolenie. Gdy dotrzesz na miejsce, ustaw równoważnię, płotek i stopnie i przygotuj się na dzień pełen zabawy.
  
@@ -12063,11 +18449,27 @@ LEGO City Policyjne zestawy LEGO City są pełne realistycznych pojazdów, szcze
 - Rozwijanie umiejętności kreatywnych – zestawy LEGO® City wzmacniają pewność siebie dzieci i pomagają im rozwijać ważne umiejętności, ponieważ zawierają realistyczne zabawki i ciekawe postacie inspirujące do swobodnej zabawy w świecie wyobraźni 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60369-1: https://a.allegroimg.com/original/05ef42/7358df0046edb5001e8c07032139
+
 ---
 
-## 60370 — Lego 60370 City Posterunek policji pościg
+## 60370 — Posterunek policji – pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702017416304 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60370 |
+| Nazwa angielska | Police Station Chase |
+| Nazwa polska | Posterunek policji – pościg |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 26 cm × gł. 12 cm |
+| EAN | 5702017416304 |
 
 Klocki LEGO City 60370 - Posterunek policji - pościg
 
@@ -12114,11 +18516,27 @@ Zestaw LEGO City - Posterunek policji - pościg trafił do sprzedaży w 2023 r
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 60370-1: https://a.allegroimg.com/original/11dea2/9c581fd54b879e8401e310895510
+
 ---
 
-## 60371 — Klocki Lego City 60371 Parking dla pojazdów uprzywilejowanych
+## 60371 — Parking dla pojazdów uprzywilejowanych
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702017416311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60371 |
+| Nazwa angielska | Emergency Vehicles HQ |
+| Nazwa polska | Parking dla pojazdów uprzywilejowanych |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 706 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 23 cm × gł. 19 cm |
+| EAN | 5702017416311 |
 
 LEGO City 60371 Parking dla pojazdów uprzywilejowanych
  
@@ -12152,11 +18570,27 @@ Zabawki konstrukcyjne LEGO City inspirują do wymyślania scenariuszy, które od
 - Zabawki najwyższej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60371-1: https://a.allegroimg.com/original/296b42/efd35586423086145d6d3fdce092
+
 ---
 
-## 60372 — Lego City 60372 Akademia policyjna
+## 60372 — Akademia policyjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 545.00 zł · EAN: 05702017416328 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60372 |
+| Nazwa angielska | Police Training Academy |
+| Nazwa polska | Akademia policyjna |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 823 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 49 cm × gł. 25 cm |
+| EAN | 5702017416328 |
 
 LEGO City 60372 Akademia policyjna
  
@@ -12189,11 +18623,26 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych budynków
 - Nacisk na jakość – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60372-1: https://a.allegroimg.com/original/11fa01/98954230479f8707ebcd6ba4c1b3
+
 ---
 
-## 60373 — Lego City Łódź strażacka 60373
+## 60373 — Łódź strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 61.75 zł · EAN: 05702017416335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60373 |
+| Nazwa angielska | Fire Rescue Boat |
+| Nazwa polska | Łódź strażacka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 144 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702017416335 |
 
 LEGO City 60373 Łódź strażacka
  
@@ -12227,49 +18676,127 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych budynków
 - Jakość jest naszym priorytetem – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
 - Kontrola bezpieczeństwa – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
----
+**Galeria:**
 
-## 60374 — Lego City 60374 Samochód strażacki terenowy
-
-*Kategoria: City · cena Allegro (2026-08-17): 223.16 zł · EAN: 05702017416342 · in stock*
-
-LEGO City 60374 Terenowy pojazd straży pożarnej
- 
-Dołącz do strażaków LEGO® City w ultranowoczesnym terenowym pojeździe. Ma on wszystko, czego trzeba, by ratować innych! Skorzystaj z sikawki i drona, który wypuszcza elementy gaszące. Przygotuj się do akcji!
- 
-Najwyższej jakości zestaw strażacki LEGO® City
- 
-Pełen akcji zestaw strażacki LEGO® City zawiera nowoczesny wóz strażacki z fajnymi funkcjami, trzy minifigurki i mnóstwo akcesoriów.
- 
-Rozpal pasję do zabawy w strażaków dzięki zestawowi LEGO® City Terenowy pojazd straży pożarnej (60374). Ten wóz strażacki ma odczepiane centrum dowodzenia, drona strażackiego i drona lądowego. Dzieci mogą wyrzucać z wozu i drona różne elementy, które imitują wodę i pianę gaśniczą. Wystarczy tylko dodać scenerię leśną i miejską oraz trzy minifigurki, aby oddać się wielogodzinnej zabawie w strażaków!
- 
-Zabawa w budowanie dla dzieci w wieku od 7 lat
- 
-Zestaw zawiera ilustrowane instrukcje i aplikację LEGO Builder – cyfrowe narzędzie do przybliżania i obracania modelu pomaga dzieciom zwizualizować każdy model ze wszystkich perspektyw podczas budowania.
- 
-Zabawki rozwijające dziecięcą kreatywność
- 
-Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realistycznych pojazdów, szczegółowych budynków i niezwykłych postaci zestawy zachęcają do pomysłowej, swobodnej zabawy i wymyślania własnych historii.
-
- 
-- Wielofunkcyjny zestaw strażacki – zestaw LEGO® City Terenowy pojazd straży pożarnej (60374) jest idealny dla dzieci, które uwielbiają pełną akcji zabawę 
-- Co jest w pudełku? – Wszystko, czego dzieci potrzebują, by zbudować wóz strażacki z dronem strażackim i lądowym, centrum dowodzenia, scenerią pożaru w lesie i w mieście, trzema minifigurkami i figurką królika 
-- Cechy i funkcje – wóz strażacki ma ruchomy dźwig, a dzieci mogą użyć gaśnicy i drona, aby wyrzucić elementy gaszące 
-- Szukasz prezentu dla dzieci? – Spraw, by urodziny, święta lub inne okazje były wyjątkowe dzięki temu zestawowi dla dzieci w wieku od siedem lat, które uwielbiają strażackie zestawy 
-- Modele do zabawy i ustawienia na półce – po złożeniu terenowy pojazd straży pożarnej ma 12 cm wysokości, 26 cm długości i 6 cm szerokości 
-
- 
-- W komplecie akcesoria dla minifigurek LEGO® – ten zestaw strażacki zawiera sporo fajnych akcesoriów do pomysłowej zabawy, takich jak radio, topór, piła, klucz hakowy i kubek 
-- Interaktywny, cyfrowy przewodnik po budowaniu – w aplikacji LEGO® Builder na smartfony i tablety dzieci mogą powiększać i obracać powstające modele, by obejrzeć je z każdej strony 
-- Pomoc w rozwijaniu kreatywności – podczas budowania i zabawy dzieci nabierają pewności siebie i ćwiczą ważne umiejętności 
-- Testy jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
-- Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
+- 60373-1: https://a.allegroimg.com/original/05baaf/71e9866c452ba5e5864fa20a8d54
 
 ---
 
-## 60375 — Lego City 60375 Remiza strażacka i wóz strażacki straż strażak
+## 60374 — Samochód strażacki terenowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 389.98 zł · EAN: 05702017416359 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60374 |
+| Nazwa angielska | Fire Command Truck |
+| Nazwa polska | Samochód strażacki terenowy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 502 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 5702017416342, 5709976473362, 97898876558 |
+
+✨ LEGO CITY Terenowy pojazd STRAŻY POŻARNEJ ZESTAW 60374 NOWE KLOCKI LEGO ✨
+
+⭐ DLACZEGO TEN ZESTAW?
+
+**❤️ Święta 2024!** Bestseller każdego okresu świątecznego, spraw dziecku radość przez **każdy dzień!**
+
+**❤️ Cechy i funkcje** – wóz strażacki ma ruchomy dźwig, a dzieci mogą użyć gaśnicy i drona, aby wyrzucić elementy gaszące
+
+**❤️ Szukasz prezentu dla dzieci?** – Spraw, by urodziny, święta lub inne okazje były wyjątkowe dzięki temu zestawowi dla dzieci w wieku od siedem lat, które uwielbiają strażackie zestawy
+
+**❤️ Modele do zabawy i ustawienia na półce** – po złożeniu terenowy pojazd straży pożarnej ma 12 cm wysokości, 26 cm długości i 6 cm szerokości
+
+**❤️ W komplecie akcesoria dla minifigurek LEGO®** – ten zestaw zawiera sporo fajnych akcesoriów do pomysłowej zabawy, takich jak radio, topór, piła, klucz hakowy i kubek
+
+**❤️ Interaktywny, cyfrowy przewodnik po budowaniu** – w aplikacji LEGO® Builder na smartfony i tablety dzieci mogą powiększać i obracać powstające modele, by obejrzeć je z każdej strony
+
+**❤️ Pomoc w rozwijaniu kreatywności** – podczas budowania i zabawy dzieci nabierają pewności siebie i ćwiczą ważne umiejętności
+
+**❤️ Testy jakości** – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku
+
+➡️ KLOCKI NOWE, FABRYCZNIE ZAPAKOWANE
+
+➡️ ZESTAW Z OFICJALNEJ DYSTRYBUCJI
+
+⭐ Doskonały prezent
+
+➡️  Prezent na specjalną okazję — ta zabawka konstrukcyjna LEGO będzie doskonałym prezentem na urodziny, pod choinkę, na wielkanoc i z każdej innej okazji dla młodych budowniczych.
+
+⭐ Wysoka jakość i bezpieczeństwo
+
+➡️  Wszystkie klocki LEGO wyróżniają się wysoką jakością wykonania. Elementy LEGO są poddawane specjalistycznym testom wytrzymałościowym, podczas których są upuszczane, zgniatane, zginane, podgrzewane i rysowane. Zostały solidnie przebadane i doskonale znoszą wszelkie tego typu okoliczności, spełniając najwyższe standardy bezpieczeństwa.
+
+⭐ Zestaw zawiera ilustrowane instrukcje i aplikację LEGO Builder
+
+➡️ Cyfrowe narzędzie do przybliżania i obracania modelu pomaga dzieciom zwizualizować każdy model ze wszystkich perspektyw podczas budowania.
+
+⭐ Zabawki rozwijające dziecięcą kreatywność.
+
+➡️ Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realistycznych pojazdów, szczegółowych budynków i niezwykłych postaci zestawy zachęcają do pomysłowej, swobodnej zabawy i wymyślania własnych historii.
+
+⭐ Udane Święta z LEGO!
+
+➡️ **Rozpal pasję do zabawy w strażaków dzięki zestawowi LEGO® City Terenowy pojazd straży pożarnej!**
+
+⭐ Dlaczego LEGO to idealny prezent?
+
+✔️ **Rozwija kreatywność: **Zestawy Lego pozwalają dzieciom wyrazić swoją wyobraźnię i tworzyć własne projekty. Mogą budować wszystko, co przyszło im do głowy.
+
+✔️ **Uczy logicznego myślenia:** Konstruowanie z klocków Lego wymaga rozumowania przestrzennego i logicznego myślenia. Dziecko musi planować, jak połączyć różne elementy, by osiągnąć zamierzony efekt.
+
+✔️ **Rozwija umiejętności manualne: **Układanie klocków wymaga precyzyjnych ruchów rąk, co pomaga w rozwoju sprawności manualnej i koordynacji.
+
+✔️ **Stymuluje zdolności problemowe: **Kiedy coś nie wychodzi tak, jak dziecko chciało, musi szukać rozwiązania. To kształtuje umiejętność rozwiązywania problemów i pokonywania trudności.
+
+✔️ **Zachęca do współpracy:** Zbudowanie większego projektu może wymagać pomocy od innych, co uczy współpracy, komunikacji i dzielenia się pomysłami.
+
+✔️ **Buduje wytrwałość i cierpliwość: **Czasami skomplikowane projekty Lego mogą być wyzwaniem, ale wytrwałość w dążeniu do ukończenia zadania jest nagradzana.
+
+⭐ Jak złożyć zamówienie?
+
+1. Kup teraz. ✅
+
+2. Zapoznaj się z informacją o formach i czasie dostawy. ✅
+
+3. Wybierz sposób płatności. ✅
+
+4. Wszelkie dodatkowe informacje wpisz w wiadomość dla sprzedającego.✅
+
+5. Czekaj na dostawę. ✅
+
+6. Odbierz paczke i ciesz się świetnym zestawem!✅
+
+**Produkt jest nowy, wysyłany od dystrybutora!**
+
+⭐  GORĄCO ZAPRASZAM DO PEWNYCH I BEZPIECZNYCH ZAKUPÓW ⭐
+
+**Galeria:**
+
+- 60374-1: https://a.allegroimg.com/original/11ac68/42b8f96b447b96f637d7e6c9b2cc
+- 60374-2: https://a.allegroimg.com/original/11741d/14970f0149ffb7b5f580dc343f66
+- 60374-3: https://a.allegroimg.com/original/1125ae/9268b3784cf68caf1116c5961bbf
+
+---
+
+## 60375 — Remiza strażacka i wóz strażacki
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60375 |
+| Nazwa angielska | Fire Station and Fire Truck |
+| Nazwa polska | Remiza strażacka i wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 18 cm × gł. 19 cm |
+| EAN | 5702017416359 |
 
 LEGO City 60375 Remiza strażacka i wóz strażacki
 
@@ -12356,11 +18883,27 @@ Oczywiście – wszystkie elementy są kompatybilne z innymi zestawami LEGO.
 
 Tak, zestaw obsługuje **LEGO Builder** z instrukcją 3D.
 
+**Galeria:**
+
+- 60375-1: https://a.allegroimg.com/original/116f8e/7012e4594afda999cad8f5966d62
+
 ---
 
-## 60376 — Lego City Skuter śnieżny badacza Arktyki 60376
+## 60376 — Arktyczny skuter śnieżny
 
-*Kategoria: City · cena Allegro (2026-08-17): 63.99 zł · EAN: 05702017416366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60376 |
+| Nazwa angielska | Arctic Explorer Snowmobile |
+| Nazwa polska | Arktyczny skuter śnieżny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702017412573, 5702017416366 |
 
 LEGO City 60376 Arktyczny skuter śnieżny
  
@@ -12388,11 +18931,28 @@ Dzieci dorastają w otoczeniu niesamowitych pojazdów i maszyn, a dzięki zestaw
 - Zabawki najwyższej jakości — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60376-1: https://a.allegroimg.com/original/0573ca/32c7ed8e447da394ffcb602555a4
+- 60376-2: https://a.allegroimg.com/original/058b20/0e8ef81a48878478c60af54d24e8
+
 ---
 
-## 60377 — Lego City 60377 Łódź do nurkowania badacza
+## 60377 — Okręt podwodny zwiadowczy dla nurków
 
-*Kategoria: City · cena Allegro (2026-08-17): 260.00 zł · EAN: 05702017416373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60377 |
+| Nazwa angielska | Explorer Diving Boat |
+| Nazwa polska | Okręt podwodny zwiadowczy dla nurków |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 182 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702017416373 |
 
 LEGO City 60377 Okręt podwodny zwiadowczy dla nurków
  
@@ -12420,11 +18980,27 @@ Zestawy LEGO City zawierają fajne pojazdy, realistyczne konstrukcje i zabawne p
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60377-1: https://a.allegroimg.com/original/113b5b/36ae681449a8bd015b0e4634cb04
+
 ---
 
-## 60378 — Lego City 60378 Zestaw Ciężarówka i laboratorium badawcze
+## 60378 — Ciężarówka i laboratorium badawcze
 
-*Kategoria: City · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702017416380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60378 |
+| Nazwa angielska | Arctic Explorer Truck and Mobile Lab |
+| Nazwa polska | Ciężarówka i laboratorium badawcze |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416380 |
 
 LEGO City 60378 Ciężarówka i laboratorium badawcze
 
@@ -12436,11 +19012,27 @@ Dzięki zestawom LEGO City dzieci znajdą się w samym środku akcji. Do dyspozy
 
 #31406
 
+**Galeria:**
+
+- 60378-1: https://a.allegroimg.com/original/05db2a/78e3f5534760ac73d962152e0755
+
 ---
 
-## 60379 — Lego City 60379 Łódź podwodna badacza dna morskiego
+## 60379 — Łódź podwodna badacza dna morskiego
 
-*Kategoria: City · cena Allegro (2026-08-17): 629.99 zł · EAN: 05702017416397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60379 |
+| Nazwa angielska | Deep-Sea Explorer Submarine |
+| Nazwa polska | Łódź podwodna badacza dna morskiego |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 842 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm |
+| EAN | 5702017416397 |
 
 UWAGA: PUDEŁKO POSIADA OBTARCIA PÓŁKOWE NA RANTACH
 
@@ -12470,11 +19062,27 @@ Zestawy LEGO City zawierają fajne pojazdy, realistyczne konstrukcje i zabawne p
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60379-1: https://a.allegroimg.com/original/11a761/866546984a799bf4c5eb77c40ba5
+
 ---
 
-## 60380 — Lego City 60380 Centrum miasta Śródmieście
+## 60380 — Centrum miasta
 
-*Kategoria: City · cena Allegro (2026-08-17): 1715.97 zł · EAN: 05702017419473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60380 |
+| Nazwa angielska | Downtown |
+| Nazwa polska | Centrum miasta |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 45 cm × gł. 38 cm |
+| EAN | 5702017419473 |
 
 LEGO CITY
 
@@ -12524,11 +19132,27 @@ Specyfikacja zestawu:
 - **Ilość minifigurek:** 14
 - **Ilość zwierzątek: **1
 
+**Galeria:**
+
+- 60380-1: https://a.allegroimg.com/original/114a18/d5bae74f4d66bbb2e1bccad21fb9
+
 ---
 
-## 60382 — Lego City 60382 Karetka weterynaryjna szpital lekarz lekarka pielegniarka
+## 60382 — Karetka weterynaryjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 118.99 zł · EAN: 05702017399812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60382 |
+| Nazwa angielska | Vet Van Rescue |
+| Nazwa polska | Karetka weterynaryjna |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702017399812 |
 
 Dołącz do misji ratowania zwierząt. Załaduj wyposażenie i wyrusz karetką weterynaryjną. Weź udział w przygodach i opiece nad zwierzętami dzięki zestawom LEGO® City!
  
@@ -12558,11 +19182,27 @@ Zestawy LEGO® City wzmacniają pewność siebie dzieci i pomagają im rozwijać
 - Zabawka, która bawi i uczy – zestawy LEGO® City wzmacniają pewność siebie dzieci i pomagają im rozwijać ważne umiejętności, ponieważ zawierają zabawki i ciekawe postacie inspirujące do swobodnej zabawy w świecie wyobraźni 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60382-1: https://a.allegroimg.com/original/25010e/ecc437a94f87bfbe848d2efac728
+
 ---
 
-## 60383 — Lego 60383 City Elektryczny samochód sportowy
+## 60383 — Elektryczny samochód sportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 78.40 zł · EAN: 05702017399829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60383 |
+| Nazwa angielska | Electric Sports Car |
+| Nazwa polska | Elektryczny samochód sportowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702017399829 |
 
 LEGO 60383 CITY Elektryczny samochód sportowy
 
@@ -12589,11 +19229,27 @@ LEGO CITY 60383 Elektryczny samochód sportowy
 - Zabawki najwyższej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 60383-1: https://a.allegroimg.com/original/11c15c/8c69868040a69393888752c6fddb
+
 ---
 
-## 60384 — Lego 60384 City Pingwinia Furgonetka Ze Slushem
+## 60384 — Pingwinia furgonetka ze slushem
 
-*Kategoria: City · cena Allegro (2026-08-17): 124.50 zł · EAN: 05702017398860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60384 |
+| Nazwa angielska | Penguin Slushy Van |
+| Nazwa polska | Pingwinia furgonetka ze slushem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 5702017378015, 5702017398860 |
 
 LEGO 60384 CITY - PINGWINIA FURGONETKA ZE SLUSHEM
 
@@ -12635,11 +19291,28 @@ Dzieci widzą dokoła siebie mnóstwo fascynujących pojazdów i maszyn, a dzię
 - Jakość, na której można polegać – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku,
 - Testowane aż do granic – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 60384-1: https://a.allegroimg.com/original/11a7f5/867aed7a494d872386c111ca0b7e
+- 60384-2: https://a.allegroimg.com/original/11927a/698ea97545e4b0d7411ef1cfe6f5
+
 ---
 
-## 60385 — Lego City 60385 Koparka
+## 60385 — Koparka
 
-*Kategoria: City · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017416403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60385 |
+| Nazwa angielska | Construction Digger |
+| Nazwa polska | Koparka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702017416403 |
 
 LEGO City 60385 Koparka
  
@@ -12673,11 +19346,27 @@ Dzieci widzą dokoła siebie mnóstwo fascynujących pojazdów i maszyn, a dzię
 - Nacisk na jakość – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60385-1: https://a.allegroimg.com/original/11047b/7d3a43e5456d9c6cde008541dd54
+
 ---
 
-## 60387 — Lego City 60387 Przygody samochodem terenowym z napędem 4x4
+## 60387 — Przygody samochodem terenowym z napędem 4x4
 
-*Kategoria: City · cena Allegro (2026-08-17): 163.80 zł · EAN: 05702017416427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60387 |
+| Nazwa angielska | 4x4 Off-Roader Adventures |
+| Nazwa polska | Przygody samochodem terenowym z napędem 4x4 |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702014215122, 5702017416427 |
 
 LEGO City 60387 Przygody samochodem terenowym z napędem 4x4
  
@@ -12709,11 +19398,28 @@ Zestawy z serii LEGO City Superpojazdy pobudzają wyobraźnię dzieci pełnymi f
 - Nauka poprzez zabawę – zestawy LEGO® City pomagają dzieciom nabrać pewności siebie i ważnych życiowych umiejętności podczas swobodnej zabawy 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60387-1: https://a.allegroimg.com/original/114e91/0f86ff0c4b0a859be098cae6a487
+- 60387-2: https://a.allegroimg.com/original/054ce3/d7e565e34d23ba07c6681a80d218
+
 ---
 
-## 60388 — Lego City 60388 Ciężarówka na turniej gier
+## 60388 — Ciężarówka na turniej gier
 
-*Kategoria: City · cena Allegro (2026-08-17): 308.99 zł · EAN: 05702017416434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60388 |
+| Nazwa angielska | Gaming Tournament Truck |
+| Nazwa polska | Ciężarówka na turniej gier |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm |
+| EAN | 5702017416434 |
 
 LEGO City 60388 Ciężarówka na turniej gier
  
@@ -12745,11 +19451,27 @@ Dzieci widzą dokoła siebie mnóstwo fascynujących pojazdów i maszyn, a dzię
 - Zabawki najwyższej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60388-1: https://a.allegroimg.com/original/11d295/69cec8ee4ef283d54460fc89353b
+
 ---
 
-## 60389 — Lego City 60389 Warsztat tuningowania samochodów
+## 60389 — Warsztat tuningowania samochodów
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702017416441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60389 |
+| Nazwa angielska | Custom Car Garage |
+| Nazwa polska | Warsztat tuningowania samochodów |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 507 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702015147842, 5702017416441 |
 
 LEGO City 60389 Warsztat tuningowania samochodów
  
@@ -12783,11 +19505,28 @@ Dzieci widzą dokoła siebie mnóstwo fascynujących pojazdów i maszyn, a dzię
 - Nacisk na jakość – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60389-1: https://a.allegroimg.com/original/05f9d8/9d5150194bc4a40302bc965f79e6
+- 60389-2: https://a.allegroimg.com/original/055d32/ba4efa094481b903ef52f0c3295d
+
 ---
 
-## 60390 — Lego City 60390 Traktor w parku
+## 60390 — Traktor w parku
 
-*Kategoria: City · cena Allegro (2026-08-17): 143.00 zł · EAN: 05702017416458 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60390 |
+| Nazwa angielska | Park Tractor |
+| Nazwa polska | Traktor w parku |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017416458 |
 
 LEGO City 60390 Traktor w parku
  
@@ -12821,11 +19560,27 @@ Zestawy LEGO City Superpojazdy oferują realistyczne pojazdy i maszyny oraz zaba
 - Zabawki najwyższej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60390-1: https://a.allegroimg.com/original/112f62/77d4a3f6456bae65e6f2d785ae18
+
 ---
 
-## 60391 — Lego City Ciężarówki i dźwig z kulą wyburzeń 60391
+## 60391 — Pojazdy budowlane i kule do wyburzania
 
-*Kategoria: City · cena Allegro (2026-08-17): 269.89 zł · EAN: 05702017416465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60391 |
+| Nazwa angielska | Construction Trucks and Wrecking Ball Crane |
+| Nazwa polska | Pojazdy budowlane i kule do wyburzania |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702017416465 |
 
 LEGO City 60391 Pojazdy budowlane i kule do wyburzania
 
@@ -12850,11 +19605,27 @@ Dzieci widzą dokoła siebie mnóstwo fascynujących pojazdów i maszyn, a dzię
 - Nauka poprzez zabawę — zestawy LEGO® City pomagają dzieciom nabrać pewności siebie i ważnych życiowych umiejętności podczas swobodnej zabawy
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60391-1: https://a.allegroimg.com/original/11cdfa/1d9f1996432c98d043ffb6236780
+
 ---
 
-## 60392 — Lego City 60392 Motocykl policyjny pościg
+## 60392 — Motocykl policyjny  - pościg za samochodem
 
-*Kategoria: City · cena Allegro (2026-08-17): 58.50 zł · EAN: 05702017407111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60392 |
+| Nazwa angielska | Police Bike Car Chase |
+| Nazwa polska | Motocykl policyjny  - pościg za samochodem |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 4902278229670, 5702017407111, 5702017416571 |
 
 LEGO CITY 60392 MOTOR POLICYJNY MOTOCYKL POŚCIG
 
@@ -12888,11 +19659,29 @@ Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realisty
 
 Zestaw LEGO City - Motocykl policyjny - pościg za samochodem trafił do sprzedaży w 2023 roku. Numer katalogowy tego zestawu to 60392. Zawiera 59 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Police Bike Car Chase. Grupa wiekowa tego produktu to 5+.
 
+**Galeria:**
+
+- 60392-1: https://a.allegroimg.com/original/111c44/561af57947d7af925458dedcf0fa
+- 60392-2: https://a.allegroimg.com/original/11e09e/bf132d604b5da0d521259b007f4b
+- 60392-3: https://a.allegroimg.com/original/11908f/025a4f7a43eeb0a4dad759981f3f
+
 ---
 
-## 60393 — Lego City 60393 Wóz strażacki 4x4 – misja ratunkowa
+## 60393 — Wóz strażacki 4x4 – misja ratunkowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702017416588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60393 |
+| Nazwa angielska | 4x4 Fire Truck Rescue |
+| Nazwa polska | Wóz strażacki 4x4 – misja ratunkowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702017416588 |
 
 LEGO City 60393 Wóz strażacki 4x4 – misja ratunkowa
  
@@ -12925,11 +19714,27 @@ Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realisty
 - Nauka przez zabawę – kreatywna zabawa zestawami LEGO City w pojedynkę lub w grupie pomaga rozwijać motorykę i wzmacnia pewność siebie dzieci 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60393-1: https://a.allegroimg.com/original/118442/b47c6ce54964a1495b5cc0b112c8
+
 ---
 
-## 60395 — Lego City 60395 nowy zestaw Julivo
+## 60395 — Wielki zestaw wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 161.00 zł · EAN: 05702017433103 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60395 |
+| Nazwa angielska | Combo Race Pack |
+| Nazwa polska | Wielki zestaw wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 362 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702017433103 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -12974,11 +19779,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 60395-1: https://a.allegroimg.com/original/05fa62/d748014544fdaf34b1d05ef27501
+
 ---
 
-## 60396 — Lego City 60396 Podrasowane samochody wyścigowe
+## 60396 — LEGO City 60396 Podrasowane samochody wyścigowe
 
-*Kategoria: City · cena Allegro (2026-08-17): 164.99 zł · EAN: 05702017433110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60396 |
+| Nazwa angielska | Modified Race Cars |
+| Nazwa polska | LEGO City 60396 Podrasowane samochody wyścigowe |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017433110 |
 
 Klocki LEGO CITY - 60396 PODRASOWANE SAMOCHODY WYŚCIGOWE
 
@@ -13002,11 +19823,27 @@ LEGO City to znakomita seria zestawów klocków LEGO, która umożliwia dziecio
  
 **WIEK: 6+** LAT
 
+**Galeria:**
+
+- 60396-1: https://a.allegroimg.com/original/11ef65/060eea934bc7ac19bc38f54b7e2c
+
 ---
 
-## 60398 — Lego City 60398 Dom rodzinny i samochód elektryczny
+## 60398 — Dom rodzinny i samochód elektryczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017462363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60398 |
+| Nazwa angielska | Family House and Electric Car |
+| Nazwa polska | Dom rodzinny i samochód elektryczny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 462 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702017462363 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -13049,11 +19886,27 @@ Zestawy LEGO City oferują nieograniczone możliwości zabawy, a szczegółowe b
 - Jakość, na której można polegać — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują,a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Testowane aż do granic — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 60398-1: https://a.allegroimg.com/original/113ea2/795444c94ecea0a9b70aa4209300
+
 ---
 
-## 60399 — Lego 60399 Zielony Samochód Wyścigowy
+## 60399 — Zielony samochód wyścigowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 59.90 zł · EAN: 05702017566726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60399 |
+| Nazwa angielska | Green Race Car |
+| Nazwa polska | Zielony samochód wyścigowy |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702017566726 |
 
 **Lego City - Zielony samochód wyścigowy**
 
@@ -13083,21 +19936,53 @@ Ilość elementów: 56
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 60399-1: https://a.allegroimg.com/original/11e5a6/6fe06d5a4487bcbd4ab548287cc1
+
 ---
 
-## 60400 — Lego City 60400 Gokarty i kierowcy wyścigowi Torba lego
+## 60400 — Gokarty i kierowcy wyścigowi
 
-*Kategoria: City · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017647876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60400 |
+| Nazwa angielska | Go-Karts and Race Drivers |
+| Nazwa polska | Gokarty i kierowcy wyścigowi |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 99 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm |
+| EAN | 5702017566733, 5702017647876 |
 
 LEGO City 60400 Gokarty i kierowcy wyścigowi + Torba lego
 
 Zestaw z gokartami -- podczas zabawy zestawem LEGO(R) City Gokarty i kierowcy wyścigowi na pięciolatków i starsze dzieci czekają emocjonujące wyścigi.o Zawartość pudełka -- dzieci znajdą tu wszystko, czego potrzeba do zbudowania turkusowego i pomarańczowego gokarta, a także dwie minifigurki kierowców i puchar.o Twórcza zabawa -- usadź minifigurkę kierowcy LEGO(R) w kokpicie i odkrywaj świat kreatywnej zabawy i niesamowitych przygód.o Interaktywny przewodnik -- dzieci mogą powiększać i obracać modele w 3D, śledzić postępy w budowaniu oraz przeglądać i zapisywać wirtualne zestawy w intuicyjnej aplikacji LEGO(R) Builder.o Szukasz ciekawego prezentu dla pięciolatka lub starszego dziecka? Zaskocz je tym zestawem z gokartami, który świetnie sprawdzi się na urodziny i inne okazje.o Akcja bez ograniczeń -- podaruj dzieciom więcej zabawy i przygód, łącząc ten mały zestaw z innymi zestawami z serii LEGO(R) City (sprzedawanymi osobno).o Nauka poprzez zabawę -- zabawki LEGO(R) City pomagają dzieciom nabrać pewności siebie i zdobyć ważne życiowe umiejętności podczas swobodnej zabawy.o LEGO(R) City do zabawy i ozdoby -- zestaw z 99 elementami obejmuje modele gokartów, które mają 3 cm wysokości, 8 cm długości i 4 cm szerokości .
 
+**Galeria:**
+
+- 60400-1: https://a.allegroimg.com/original/05b52d/c460e8004e869a9c301e09b6253a
+- 60400-2: https://a.allegroimg.com/original/11c94a/200dd85949e2a189ea5a7a2db0fc
+
 ---
 
-## 60401 — Lego City 60401 Walec budowlany
+## 60401 — Walec budowlany
 
-*Kategoria: City · cena Allegro (2026-08-17): 32.40 zł · EAN: 05702017566740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60401 |
+| Nazwa angielska | Construction Steamroller |
+| Nazwa polska | Walec budowlany |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 78 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 57020143740456, 5702017566740 |
 
 LEGO City 60401 Walec budowlany
 
@@ -13121,19 +20006,51 @@ o Walec dla dzieci w wieku od pięciu lat -- LEGO(R) City Walec budowlany z grub
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017566740
 
+**Galeria:**
+
+- 60401-1: https://a.allegroimg.com/original/1110a1/d3eb015b4af3b51dc4ff588007e7
+- 60401-2: https://a.allegroimg.com/original/112dfb/bf55af974dedb6d849487812d9bb
+
 ---
 
-## 60402 — Lego 60402 City Niebieski monster truck
+## 60402 — Niebieski monster truck
 
-*Kategoria: City · cena Allegro (2026-08-17): 41.61 zł · EAN: 05702017566757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60402 |
+| Nazwa angielska | Blue Monster Truck |
+| Nazwa polska | Niebieski monster truck |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 148 |
+| Cena katalogowa | 64.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm |
+| EAN | 5702017566757 |
 
 o Zestaw z monster truckiem -- dzięki niebieskiemu monster truckowi LEGO(R) City dzieci mogą odgrywać niesamowite pokazy i przeżywać terenowe przygody.o Zawartość pudełka -- znajdziesz tu wszystko, czego potrzebują dzieci do zbudowania niebieskiego monster trucka, a także minifigurkę kierowcy.o Interesująca zabawka -- dzieci mogą usadzić minifigurkę kierowcy w kokpicie monster trucka i zorganizować pokaz trików i akrobacji.o Interaktywny przewodnik -- odkryj intuicyjną aplikację LEGO(R) Builder. Tutaj dzieci mogą powiększać i obracać modele w 3D, śledzić postępy w budowaniu oraz przeglądać i zapisywać wirtualne zestawy.o Prezent na każdą okazję -- ten zestaw wyścigowy z monster truckiem to świetny prezent na każdą okazję dla dzieci i fanów wyścigów wwieku od siedmiu lat.o Zabawa bez ograniczeń -- podaruj dzieciom więcej zabawy i przygód, łącząc ten zestaw z innymi zestawami z serii LEGO(R) City (sprzedawanymi osobno).o Miasto bez granic -- LEGO(R) City to miejsce, gdzie dzieci mogą puścić wodze fantazji d zięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy.o Wymiary -- monster truck w tym 148-elementowym zestawie ma 9 cm wysokości, 13 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 60402-1: https://a.allegroimg.com/original/05f130/9389d7384e06a3158dddb55f824a
+
 ---
 
-## 60403 — Lego City 60403 Karetka i snowboardzista
+## 60403 — Karetka i snowboardzista
 
-*Kategoria: City · cena Allegro (2026-08-17): 77.20 zł · EAN: 05702017566764 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60403 |
+| Nazwa angielska | Emergency Ambulance and Snowboarder |
+| Nazwa polska | Karetka i snowboardzista |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 79 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702017566764 |
 
 LEGO CITY 
 
@@ -13187,11 +20104,27 @@ Specyfikacja zestawu:
 
 - **Ilość minifigurek:** 2
 
+**Galeria:**
+
+- 60403-1: https://a.allegroimg.com/original/111c43/f7e968464b06a28a1c4a07da228f
+
 ---
 
-## 60404 — 60404 Lego City Ciężarówka z burgerami
+## 60404 — Ciężarówka z burgerami
 
-*Kategoria: City · cena Allegro (2026-08-17): 108.77 zł · EAN: 05063238118874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60404 |
+| Nazwa angielska | Burger Truck |
+| Nazwa polska | Ciężarówka z burgerami |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 194 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5063238118874, 5702017567471 |
 
 60404 - LEGO City - Ciężarówka z burgerami
 
@@ -13303,11 +20236,28 @@ Parametry
 - **liczba elementów**: 194 szt.
 - **wiek dziecka**: 5 lat +
 
+**Galeria:**
+
+- 60404-1: https://a.allegroimg.com/original/11b54d/d3fff80841a3a5ca02e068ab66a4
+- 60404-2: https://a.allegroimg.com/original/05155f/9ade279d47bc953cd440a407bd5d
+
 ---
 
-## 60405 — Lego 60405 City Helikopter ratunkowy górskie pogotowie ratunkowe raca
+## 60405 — Rescue Helicopter
 
-*Kategoria: City · cena Allegro (2026-08-17): 188.00 zł · EAN: 05702017567488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60405 |
+| Nazwa angielska | Emergency Rescue Helicopter |
+| Nazwa polska | Rescue Helicopter |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 226 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 26 cm |
+| EAN | 5702017567488 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -13340,11 +20290,27 @@ Zestawy LEGO City sprawią, że dzieci znajdą się w centrum akcji podczas nieo
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy
 - Wymiary — helikopter w tym 226-elementowym zestawie ma 9 cm wysokości, 31 cm długości i 26 cm szerokości
 
+**Galeria:**
+
+- 60405-1: https://a.allegroimg.com/original/1150b8/f06f01e941e8b2a617b20e8e5251
+
 ---
 
-## 60406 — 60406 Lego City Samochód wyścigowy i laweta
+## 60406 — Ciężarówka z samochodem wyścigowym
 
-*Kategoria: City · cena Allegro (2026-08-17): 203.30 zł · EAN: 05702017599083 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60406 |
+| Nazwa angielska | Race Car and Car Carrier Truck |
+| Nazwa polska | Ciężarówka z samochodem wyścigowym |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017518909, 5702017567495, 5702017599083 |
 
 60406 - LEGO City - Samochód wyścigowy i laweta
 
@@ -13451,11 +20417,29 @@ Parametry
 - **Seria**: Pojazdy
 - **Kod produktu**: 5702017567495
 
+**Galeria:**
+
+- 60406-1: https://a.allegroimg.com/original/11cf5e/6bee1c934c0faef7f27a46dfb4f7
+- 60406-2: https://a.allegroimg.com/original/11fb81/2f297d43489795eb1e04aaabe22d
+- 60406-3: https://a.allegroimg.com/original/05c9b8/6702ac814d2aac0907f9f1913759
+
 ---
 
-## 60407 — Lego City 60407 Czerwony piętrowy autobus wycieczkowy
+## 60407 — Czerwony, piętrowy autokar
 
-*Kategoria: City · cena Allegro (2026-08-17): 85.82 zł · EAN: 05702017582894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60407 |
+| Nazwa angielska | Red Double-Decker Sightseeing Bus |
+| Nazwa polska | Czerwony, piętrowy autokar |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 384 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702017582894 |
 
 LEGO® City
  
@@ -13489,11 +20473,27 @@ Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze 
  
 Wymiary — piętrowy autobus w tym 384-elementowym zestawie ma 11 cm wysokości, 21 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60407-1: https://a.allegroimg.com/original/112324/c2eef377461b8a6b0ce2997bc663
+
 ---
 
-## 60408 — Lego City 7+ Duża Ciężarówka, Laweta Do Przewozu Samochodów 60408
+## 60408 — Miasto 60408 Ciężarówka do przewozu samochodów sportowych
 
-*Kategoria: City · cena Allegro (2026-08-17): 490.00 zł · EAN: 05702017582900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60408 |
+| Nazwa angielska | Car Transporter Truck with Sports Cars |
+| Nazwa polska | Miasto 60408 Ciężarówka do przewozu samochodów sportowych |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 998 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702017582900 |
 
 LEGO® City
 
@@ -13524,11 +20524,27 @@ Laweta z samochodami sportowymi
 
 **Kliknij "Dodaj do koszyka" i podaruj swojemu dziecku niezapomniany prezent!** Zestaw LEGO® City Laweta z samochodami sportowymi to idealny wybór dla każdego fana motoryzacji, który marzy o własnej lawetie i kolekcji samochodów sportowych. Zapewnij swojemu dziecku godziny wspaniałej rozrywki i pozwól mu rozwijać swoje pasje!
 
+**Galeria:**
+
+- 60408-1: https://a.allegroimg.com/original/11344b/f2e30fb34ceba0ecd6f46d2b5d88
+
 ---
 
-## 60409 — Lego City Żółty ruchomy żuraw 60409
+## 60409 — City 60409 Żółty mobilny dźwig budowlany
 
-*Kategoria: City · cena Allegro (2026-08-17): 560.00 zł · EAN: 05702017582917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60409 |
+| Nazwa angielska | Yellow Mobile Construction Crane |
+| Nazwa polska | City 60409 Żółty mobilny dźwig budowlany |
+| Seria | City |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 68 cm × szer. 25 cm |
+| EAN | 5702017582917 |
 
 LEGO® City
  
@@ -13562,11 +20578,27 @@ Poznaj LEGO® City — to miejsce, gdzie dzieci mogą puścić wodze fantazji dz
 
 Wymiary — zestaw z 1116 elementami obejmuje dźwig, który z wysuniętym wysięgnikiem i podporami ma 68 cm wysokości, 48 cm długości i 25 cm szerokości.
 
+**Galeria:**
+
+- 60409-1: https://a.allegroimg.com/original/11660a/564f5b4547e1a972411cadcc293c
+
 ---
 
-## 60410 — Lego 60410 City Strażacki motocykl ratunkowy
+## 60410 — Motocykl ratowniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702017582924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60410 |
+| Nazwa angielska | Fire Rescue Motorcycle |
+| Nazwa polska | Motocykl ratowniczy |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702017582924 |
 
 LEGO 60410 City - Strażacki motocykl ratunkowy
 
@@ -13592,19 +20624,50 @@ Zestawy LEGO City są pełne realistycznych pojazdów, szczegółowych akcesori�
 
 - Wymiary — motocykl w tym 57-elementowym zestawie ma 5 cm wysokości, 13 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60410-1: https://a.allegroimg.com/original/4546e0/768081ae453ca54a6506c110769d
+
 ---
 
-## 60411 — Lego City 60411 Strażacki helikopter ratunkowy
+## 60411 — Strażacki helikopter ratunkowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 26.87 zł · EAN: 05702017582931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60411 |
+| Nazwa angielska | Fire Rescue Helicopter |
+| Nazwa polska | Strażacki helikopter ratunkowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 85 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017582931 |
 
 o Zabawkowy helikopter strażacki dla dzieci w wieku od pięciu lat -- zestaw LEGO(R) City Strażacki helikopter ratunkowy zapewni dzieciom emocjonujące strażackie przygody.o Zawartość pudełka -- zestaw zawiera wszystko, czego dzieci potrzebują do zbudowania strażackiego helikoptera oraz minifigurkę pilota-strażaka.o Twórcza zabawa -- dzieci mogą usadzić pilota w otwieranym kokpicie, kręcić wirnikami i strzelać elementami LEGO(R) imitującymi wodę z armatek wodnych.o Ciekawy helikopter z interaktywnymi instrukcjami -- odkryj aplikację LEGO(R) Builder. Tutaj dzieci mogą powiększać i obracać modele w 3D, śledzić postępy w budowaniu oraz przeglądać i zapisywać wirtualne zestawy.o Mały zestaw dla pięciolatków i starszych dzieci, które uwielbiają kreatywną zabawę -- podaruj małym bohaterom ten ciekawy strażacki helikopter ratunkowy.o Nieograniczone możliwości zabawy -- podaruj dzieciom więcej zabawy i przygód, łącząc ten zestaw z innymi zestawami ze strażackiej serii LEGO(R) City (sprzedawanymi osobno).o Miasto bez granic -- LEGO(R) City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy.o Wymiary -- helikopter w tym 85-elementowym zestawie ma 9 cm wysokości, 22 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60411-1: https://a.allegroimg.com/original/295a37/2e1d91664429af3387ce50078040
+
 ---
 
-## 60412 — Lego City 60412 Wóz strażacki 4x4 i łódź ratownicza
+## 60412 — Wóz strażacki 4x4 i łódź ratownicza
 
-*Kategoria: City · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702017582948 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60412 |
+| Nazwa angielska | 4x4 Fire Engine with Rescue Boat |
+| Nazwa polska | Wóz strażacki 4x4 i łódź ratownicza |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017582948 |
 
 Zestaw z terenowym wozem strażackim i łodzią ratunkową
  
@@ -13630,11 +20693,27 @@ Strażackie zestawy LEGO City to bogate w funkcje zabawki poruszające się w po
  
 • Terenowy wóz strażacki z przyczepą w tym 301-elementowym zestawie ma 30 cm długości
 
+**Galeria:**
+
+- 60412-1: https://a.allegroimg.com/original/115ec6/f808153341e3897978e0209967eb
+
 ---
 
-## 60413 — Lego City 60413 Straż Pożarna samolot ratunkowy 3 minifigurki Lego
+## 60413 — Strażacki samolot ratunkowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 283.99 zł · EAN: 05702017582955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60413 |
+| Nazwa angielska | Fire Rescue Plane |
+| Nazwa polska | Strażacki samolot ratunkowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 478 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 34 cm |
+| EAN | 5702017582955 |
 
 LEGO City Straż Pożarna samolot ratunkowy z funkcją zrzutu wody 60413
 
@@ -13657,11 +20736,26 @@ LEGO City Straż Pożarna samolot ratunkowy z funkcją zrzutu wody 60413
 
 Strażackie zestawy LEGO City to bogate w funkcje zabawki poruszające się w powietrzu, po lądzie i po wodzie, które umożliwiają pomysłową zabawę bez ograniczeń. **Dzieci mogą dodać ten strażacki samolot ratunkowy do innych zestawów z serii LEGO City (sprzedawanych osobno) i przeżyć jeszcze ciekawsze przygody!**
 
+**Galeria:**
+
+- 60413-1: https://a.allegroimg.com/original/11b2f9/c4828d2146f5bb785d9bc079db1a
+
 ---
 
-## 60414 — Lego City Remiza strażacka z wozem strażackim 60414
+## 60414 — Remiza strażacka z wozem strażackim
 
-*Kategoria: City · cena Allegro (2026-08-17): 253.38 zł · EAN: 05702017582962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60414 |
+| Nazwa angielska | Fire Station with Fire Truck |
+| Nazwa polska | Remiza strażacka z wozem strażackim |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 843 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017582962 |
 
 Remiza strażacka z wozem strażackim dla dzieci w wieku od sześciu lat - zestaw LEGO City zawierający nowoczesną remizę z centrum dowodzenia i zabawkowy pojazd ratunkowy gwarantuje pełne akcji strażackie przygody.
  
@@ -13677,11 +20771,26 @@ Odkryj świat kreatywnej zabawy - podaruj dzieciom więcej zabawy i przygód, ł
  
 Miasto bez granic - LEGO City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania i tworzenia.
 
+**Galeria:**
+
+- 60414-1: https://a.allegroimg.com/original/05f09b/cde4c5b94e77a7ef1efb61de2e7b
+
 ---
 
-## 60415 — Lego City 60415 Pościg za samochodem policyjnym i samochodem sportowym
+## 60415 — Pościg za samochodem policyjnym i samochodem sportowym
 
-*Kategoria: City · cena Allegro (2026-08-17): 49.46 zł · EAN: 05702017583679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60415 |
+| Nazwa angielska | Police Car and Muscle Car Chase |
+| Nazwa polska | Pościg za samochodem policyjnym i samochodem sportowym |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 213 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702017583679 |
 
 Przeżyj niesamowitą zabawę i emocje dzięki temu zestawowi z samochodem policyjnym dla dzieci w wieku od sześciu lat. Zestaw LEGO® City Pościg radiowozu za muscle carem (60415) dla chłopców i dziewczynek zawiera fajny radiowóz pościgowy i pojazd uciekiniera, a także minifigurki policjanta i złoczyńcy, które umożliwiają zabawę w odgrywanie ról i opowiadanie historii.
  
@@ -13707,11 +20816,27 @@ Twoje City nie zna granic! Zestawy LEGO City to idealny prezent dla każdego dzi
  
 • Radiowóz w tym 213-elementowym zestawie ma 14 cm długości
 
+**Galeria:**
+
+- 60415-1: https://a.allegroimg.com/original/290ad1/e44466f84a17aee473b5bce3bce0
+
 ---
 
-## 60417 — Lego 60417 City Policyjna Motorówka I Kryjówka Złodziejaszków
+## 60417 — Policyjna motorówka i kryjówka złodziejaszków
 
-*Kategoria: City · cena Allegro (2026-08-17): 177.77 zł · EAN: 05702017583693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60417 |
+| Nazwa angielska | Police Speedboat and Crooks' Hideout |
+| Nazwa polska | Policyjna motorówka i kryjówka złodziejaszków |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 20 cm × gł. 12 cm |
+| EAN | 5702017583693 |
 
 LEGO 60417 CITY - POLICYJNA MOTORÓWKA I KRYJÓWKA ZŁODZIEJASZKÓW
 
@@ -13747,11 +20872,27 @@ Twoje City bez granic! Dzięki zestawom LEGO City dzieci mają do dyspozycji faj
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy,
 - Wymiary — kryjówka złodziejaszków w tym 311-elementowym zestawie ma 19 cm wysokości, 20 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 60417-1: https://a.allegroimg.com/original/114aa7/46c2f9ae4422bb0bbb90e5debb79
+
 ---
 
-## 60418 — Lego City 60418 Policyjna ciężarówka z laboratorium kryminalnym
+## 60418 — Mobilne laboratorium kryminalistyczne policjantów
 
-*Kategoria: City · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702017583709 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60418 |
+| Nazwa angielska | Police Mobile Crime Lab Truck |
+| Nazwa polska | Mobilne laboratorium kryminalistyczne policjantów |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 674 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583709 |
 
 SKLEP "e-DOMEK" POLECA !
 
@@ -13783,11 +20924,27 @@ Twoje City bez granic! Dzięki zestawom LEGO City dzieci mają do dyspozycji faj
 
 • Ciężarówka w tym 674-elementowym zestawie ma 25 cm długości
 
+**Galeria:**
+
+- 60418-1: https://a.allegroimg.com/original/1198de/2ca4726940a3a4a6b666de9e5082
+
 ---
 
-## 60419 — Lego City 60419 Policja z Więziennej Wyspy
+## 60419 — Policja z Więziennej Wyspy
 
-*Kategoria: City · cena Allegro (2026-08-17): 347.48 zł · EAN: 05702017583716 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60419 |
+| Nazwa angielska | Police Prison Island |
+| Nazwa polska | Policja z Więziennej Wyspy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 980 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583716 |
 
 Zestaw **LEGO City Policja z Więziennej Wyspy** jest pełen ciekawych cech i funkcji, które zapewniają wiele godzin pomysłowej zabawy.
  
@@ -13803,11 +20960,27 @@ Zabawa bez ograniczeń - podaruj dzieciom więcej zabawy i przygód, łącząc t
  
 Zestawy LEGO City - LEGO City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia i odkrywania.
 
+**Galeria:**
+
+- 60419-1: https://a.allegroimg.com/original/052dfd/e27983f64dc7b502d32549cb12c6
+
 ---
 
-## 60420 — Lego City 60420 Żółta koparka
+## 60420 — Żółta koparka
 
-*Kategoria: City · cena Allegro (2026-08-17): 209.99 zł · EAN: 05702017586939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60420 |
+| Nazwa angielska | Yellow Construction Excavator |
+| Nazwa polska | Żółta koparka |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 633 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 11 cm |
+| EAN | 5702017586939 |
 
 **PRODUCENT**: LEGO
  
@@ -13839,11 +21012,27 @@ A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten pojazd budowlany
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy 
 - Wymiary — koparka w tym 633-elementowym zestawie ma 12 cm wysokości, 32 cm długości i 11 cm szerokości
 
+**Galeria:**
+
+- 60420-1: https://a.allegroimg.com/original/29328e/79ce2e774b1db8c98ceb4415301f
+
 ---
 
-## 60421 — Lego 60421 City Świat Robotów Z Rollercoasterem
+## 60421 — Miasto 60421 Park rozrywki Robotic World
 
-*Kategoria: City · cena Allegro (2026-08-17): 649.45 zł · EAN: 05702017587257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60421 |
+| Nazwa angielska | Robot World Roller-Coaster Park |
+| Nazwa polska | Miasto 60421 Park rozrywki Robotic World |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 986 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 54 cm × gł. 27 cm |
+| EAN | 5702017587257 |
 
 LEGO® City
  
@@ -13877,11 +21066,26 @@ Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze 
  
 Wymiary — kolejka górska w tym 986-elementowym zestawie ma 25 cm wysokości, 54 cm szerokości i 27 cm głębokości.
 
+**Galeria:**
+
+- 60421-1: https://a.allegroimg.com/original/11ae12/73a7c13f4f8089206054530dd72d
+
 ---
 
-## 60422 — Lego City Nadmorski port ze statkiem towarowym 60422
+## 60422 — Port ze statkiem towarowym
 
-*Kategoria: City · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017587288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60422 |
+| Nazwa angielska | Seaside Harbor with Cargo Ship |
+| Nazwa polska | Port ze statkiem towarowym |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1226 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 45 cm × gł. 30 cm |
+| EAN | 5702017587288 |
 
 LEGO City Nadmorski port ze statkiem towarowym 60422
 
@@ -13911,11 +21115,27 @@ Cechy produktu:
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy
 - Wymiary — port w tym 1226-elementowym zestawie ma 25 cm wysokości, 45 cm szerokości i 30 cm głębokości
 
+**Galeria:**
+
+- 60422-1: https://a.allegroimg.com/original/11e50f/612051754488986f0a2a02793263
+
 ---
 
-## 60423 — Lego City 60423 Tramwaj miejski ze stacją
+## 60423 — Tramwaj miejski ze stacją
 
-*Kategoria: City · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017589190 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60423 |
+| Nazwa angielska | Downtown Streetcar and Station |
+| Nazwa polska | Tramwaj miejski ze stacją |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 811 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm |
+| EAN | 5702017589190 |
 
 LEGO CITY 60423 Tramwaj miejski ze stacją
 
@@ -13943,11 +21163,27 @@ Zachwyć siedmioletnich i starszych fanów zabawkowych pociągów i tramwajów z
  
 • Wymiary — tramwaj w tym 811-elementowym zestawie ma 10 cm wysokości, 53 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 60423-1: https://a.allegroimg.com/original/1127ff/708d01d842d1801c1726274a21c5
+
 ---
 
-## 60424 — Lego 60424 City Quad badacza dżungli z pandą czerwoną
+## 60424 — City 60424 ATV eksploracji dżungli - Misja Czerwonej Pandy
 
-*Kategoria: City · cena Allegro (2026-08-17): 64.80 zł · EAN: 05702017585222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60424 |
+| Nazwa angielska | Jungle Explorer ATV |
+| Nazwa polska | City 60424 ATV eksploracji dżungli - Misja Czerwonej Pandy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702017585222 |
 
 LEGO 60424 City - Quad badacza dżungli z pandą czerwoną
 
@@ -13973,11 +21209,27 @@ Zestawy LEGO City to świetny pomysł na prezent urodzinowy lub świąteczny. Dz
 
 - Wymiary — quad w tym 92-elementowym zestawie LEGO® City ma 5 cm wysokości, 9 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 60424-1: https://a.allegroimg.com/original/45863d/26e340ff4ff4ad8d4a5def01228d
+
 ---
 
-## 60425 — Lego City 60425 Wodolot badaczki dżungli
+## 60425 — City 60425 Hydroplan eksploracji dżungli
 
-*Kategoria: City · cena Allegro (2026-08-17): 214.99 zł · EAN: 05702017585239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60425 |
+| Nazwa angielska | Jungle Explorer Water Plane |
+| Nazwa polska | City 60425 Hydroplan eksploracji dżungli |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 16 cm |
+| EAN | 5702017585239 |
 
 **PRODUCENT**: LEGO
 
@@ -14009,11 +21261,26 @@ A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw ze zwierz
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki budowlom, pojazdom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy 
 - Wymiary — samolot w tym 177-elementowym zestawie LEGO® City ma 8 cm wysokości, 18 cm długości i 16 cm szerokości
 
+**Galeria:**
+
+- 60425-1: https://a.allegroimg.com/original/056e07/0d4588db467e9b75b47513133dc2
+
 ---
 
-## 60426 — Lego City Terenówka Badacza Dżungli 60426
+## 60426 — City 60426 Pojazd terenowy do eksploracji dżungli
 
-*Kategoria: City · cena Allegro (2026-08-17): 126.90 zł · EAN: 05702017586014 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60426 |
+| Nazwa angielska | Jungle Explorer Off-Road Truck |
+| Nazwa polska | City 60426 Pojazd terenowy do eksploracji dżungli |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 314 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702017586014 |
 
 **TERENÓWKA BADACZA DŻUNGLI – 60426**
 
@@ -14041,11 +21308,26 @@ Wymiary — ciężarówka w tym 314-elementowym zestawie LEGO®City ma 11 cm wys
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 60426-1: https://a.allegroimg.com/original/1164a5/0df6e5d84ed79721c1e06b0aa044
+
 ---
 
-## 60429 — Lego City Statek Kosmiczny Odkrywanie Asteroidy 60429 Figurka Zestaw Ebook
+## 60429 — Odkrycie statku kosmicznego i asteroidy
 
-*Kategoria: City · cena Allegro (2026-08-17): 84.89 zł · EAN: 05702017567501 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60429 |
+| Nazwa angielska | Spaceship and Asteroid Discovery |
+| Nazwa polska | Odkrycie statku kosmicznego i asteroidy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 126 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017567501 |
 
 Lego City Statek Kosmiczny Odkrywanie Asteroidy 60429 Figurka Zestaw Ebook
 
@@ -14069,11 +21351,27 @@ o Zestaw LEGO(R) City ze statkiem kosmicznym -- podaruj swojemu małemu odkrywcy
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017567501
 
+**Galeria:**
+
+- 60429-1: https://a.allegroimg.com/original/110f38/d405984a45b78f864d460c698001
+
 ---
 
-## 60430 — Zestaw Lego City Międzygwiezdny Statek Kosmiczny 60430 dla dziecka
+## 60430 — Statek międzygwiezdny
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.98 zł · EAN: 05702017607061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60430 |
+| Nazwa angielska | Interstellar Spaceship |
+| Nazwa polska | Statek międzygwiezdny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 240 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 17 cm |
+| EAN | 5702017558844, 5702017588094, 5702017607061 |
 
 ⭐LEGO CITY MIĘDZYGWIEZDNY STATEK KOSMICZNY 60430
 
@@ -14153,11 +21451,29 @@ o Zestaw LEGO(R) City ze statkiem kosmicznym -- podaruj swojemu małemu odkrywcy
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 60430-1: https://a.allegroimg.com/original/05a49b/713a66e74a9fbb45a239f441399b
+- 60430-2: https://a.allegroimg.com/original/111da3/e1c0bbf644a286d125c1b26cdc5f
+- 60430-3: https://a.allegroimg.com/original/11182a/adc69c5341aca55709bba501a09c
+
 ---
 
-## 60431 — Lego City Kosmiczny łazik i badanie życia w kosmosie 60431
+## 60431 — Eksploracja pojazdu kosmicznego i obcego życia
 
-*Kategoria: City · cena Allegro (2026-08-17): 117.77 zł · EAN: 05702017588216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60431 |
+| Nazwa angielska | Space Explorer Rover and Alien Life |
+| Nazwa polska | Eksploracja pojazdu kosmicznego i obcego życia |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017588216 |
 
 **LEGO City Kosmiczny łazik i badanie życia w kosmosie 60431**
 
@@ -14183,11 +21499,27 @@ Zestawy LEGO City z kosmicznymi zabawkami stanowią świetny prezent. Zawierają
 
 • Łazik w tym 311-elementowym zestawie ma 22 cm długości
 
+**Galeria:**
+
+- 60431-1: https://a.allegroimg.com/original/1113d9/51fd428f40e0b7f60f557a0cac5d
+
 ---
 
-## 60432 — Klocki Lego City 60432 Wóz dowodzenia z żurawiem ładunkowym Duży łazik
+## 60432 — LEGO 60432 City - Wóz dowodzenia z żurawiem ładunkowym
 
-*Kategoria: City · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017588223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60432 |
+| Nazwa angielska | Command Rover and Crane Loader |
+| Nazwa polska | LEGO 60432 City - Wóz dowodzenia z żurawiem ładunkowym |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 758 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm |
+| EAN | 5702017588223 |
 
 LEGO CITY 60432 WÓZ DOWODZENIA Z ŻURAWIEM ŁADUNKOWYM
  
@@ -14207,11 +21539,26 @@ Zestawy kosmiczne LEGO City zawierają realistyczne pojazdy, szczegółowe budyn
 - Zabawa bez ograniczeń - zestawy kosmiczne LEGO City zawierają realistyczne pojazdy, szczegółowe budynki i inspirujące postacie, które łączą fantazję z rzeczywistością, zapewniając nieograniczoną, twórczą zabawę 
 - Wymiary - łazik kosmiczny w tym 758-elementowym zestawie ma 11 cm wysokości, 33 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 60432-1: https://a.allegroimg.com/original/057313/72898ed44409aa9e7d7964f23e3b
+
 ---
 
-## 60433 — Lego City 60433 Modułowa stacja kosmiczna Klocki Zestaw Kosmiczny Nowe
+## 60433 — Modułowa stacja kosmiczna
 
-*Kategoria: City · cena Allegro (2026-08-17): 759.31 zł · EAN: 05702017588230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60433 |
+| Nazwa angielska | Modular Space Station |
+| Nazwa polska | Modułowa stacja kosmiczna |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1097 |
+| Cena katalogowa | 429.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 40 cm × gł. 35 cm |
+| EAN | 5702017588230 |
 
 LEGO City 60433 - Modułowa stacja kosmiczna
 
@@ -14241,11 +21588,27 @@ W zestawie jest także sześć minifigurek członków załogi kosmicznej, dzięk
 
 - Wymiary — stacja kosmiczna w tym 1097-elementowym zestawie **ma 9 cm wysokości, 40 cm szerokości i 35 cm głębokości**
 
+**Galeria:**
+
+- 60433-1: https://a.allegroimg.com/original/05132c/dde823474bb485f19557d3b299ee
+
 ---
 
-## 60434 — 60434 Lego City Stacja kosmiczna i stanowisko startowe rakiety
+## 60434 — Stacja kosmiczna i stanowisko startowe rakiety
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702017587318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60434 |
+| Nazwa angielska | Space Base and Rocket Launchpad |
+| Nazwa polska | Stacja kosmiczna i stanowisko startowe rakiety |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1422 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 19 cm × gł. 29 cm |
+| EAN | 5702017587318 |
 
 Zestaw dla ośmiolatków i starszych dzieci LEGO® City Stacja kosmiczna i stanowisko startowe rakiety (60434) jest pełen funkcji gwarantujących przygody nie z tego świata. Sterownia i wieża z dźwigiem górują nad głównym sektorem, który otwiera się, umożliwiając dostęp do karuzeli ze sprzętem, laboratorium naukowego i strefy z przekąskami. Zestaw zawiera także statek kosmiczny, stanowisko startowe, pojazd budowlany i scenkę z planetą z zabawkowymi kryształami energetycznymi i roślinnością, a takżesześć minifigurek członków załogi kosmicznej oraz figurki robota i dwóch kosmitów do pomysłowego odgrywania ról.
 
@@ -14269,11 +21632,27 @@ Zestawy kosmiczne LEGO City zawierają realistyczne pojazdy, szczegółowe budyn
 
 - Wymiary — baza kosmiczna z dźwigiem w tym 1422-elementowym zestawie ma 33 cm wysokości, 19 cm szerokości i 29 cm głębokości
 
+**Galeria:**
+
+- 60434-1: https://a.allegroimg.com/original/053979/0cb9353545cd96fc0d0a0c5326d9
+
 ---
 
-## 60435 — Lego City 60435 City 60435 Sportsman holowanie i naprawa
+## 60435 — City 60435 Sportsman holowanie i naprawa
 
-*Kategoria: City · cena Allegro (2026-08-17): 81.87 zł · EAN: 05702017587325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60435 |
+| Nazwa angielska | Tow Truck and Sports Car Repair |
+| Nazwa polska | City 60435 Sportsman holowanie i naprawa |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702017587325 |
 
 LEGO City 60435 City 60435 Sportsman holowanie i naprawa
 
@@ -14331,11 +21710,27 @@ Wymiary — laweta w tym 101-elementowym zestawie LEGO® City ma 7 cm wysokości
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017587325
 
+**Galeria:**
+
+- 60435-1: https://a.allegroimg.com/original/114327/8c28819d4dac84abc6d71699c1ac
+
 ---
 
-## 60437 — Lego City 60437 Helikopter badaczy dżungli w bazie
+## 60437 — City 60437 Helikopter zwiadowczy w dżungli w wodzie Base Camp
 
-*Kategoria: City · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702017590820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60437 |
+| Nazwa angielska | Jungle Explorer Helicopter at Base Camp |
+| Nazwa polska | City 60437 Helikopter zwiadowczy w dżungli w wodzie Base Camp |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 881 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm |
+| EAN | 5702017590820 |
 
 **PRODUCENT**: LEGO
 
@@ -14365,11 +21760,27 @@ A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw z innymi 
 - Zawiera płytkę z mapą — połącz zabawkową mapę dołączoną do tego zestawu z mapami z trzech innych zestawów (sprzedawanych osobno), aby otrzymać przewodnik po dżungli LEGO® City 
 - Wymiary — helikopter w tym 881-elementowym zestawie ma 17 cm wysokości, 40 cm długości i 25 cm szerokości
 
+**Galeria:**
+
+- 60437-1: https://a.allegroimg.com/original/059a24/b1b2bd0d4507b1e50df8d2fb56f4
+
 ---
 
-## 60438 — Zestaw Lego City 60438 Biała Żagłówka Z Kolorowym Żaglem
+## 60438 — Klocki LEGO City 60438 Żaglówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 124.00 zł · EAN: 05702017599595 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60438 |
+| Nazwa angielska | Sailboat |
+| Nazwa polska | Klocki LEGO City 60438 Żaglówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 6 cm |
+| EAN | 5702017599595, 673419392907 |
 
 ZESTAW LEGO CITY - 60438 - BIAŁA ŻAGŁÓWKA Z KOLOROWYM ŻAGLEM
 
@@ -14407,11 +21818,28 @@ Zestaw LEGO City 60438 przenosi dzieci w wieku od 5 lat w świat pełen morskich
 
 Żaglówka z zestawu LEGO City 60438 to doskonały wybór dla dzieci, które uwielbiają pojazdy wodne, kreatywną zabawę i budowanie własnych historii. Model po złożeniu ma wymiary 21 cm wysokości, 25 cm długości oraz 6 cm szerokości, dzięki czemu świetnie prezentuje się zarówno podczas zabawy, jak i ustawiony na półce. To idealna propozycja na prezent urodzinowy, świąteczny lub zupełnie bez okazji – zawsze wywoła uśmiech i zachęci do twórczego spędzania czasu. Połączenie realistycznych detali, minifigurek oraz możliwości rozbudowy świata LEGO City sprawia, że zestaw daje wiele godzin angażującej zabawy i inspiruje do wymyślania nowych przygód na wodzie.
 
+**Galeria:**
+
+- 60438-1: https://a.allegroimg.com/original/05a035/049fcff04dbaaa4526ee0678cc7a
+- 60438-2: https://a.allegroimg.com/original/1112fd/948f240f45108c560a21bfcb41bb
+
 ---
 
-## 60439 — Lego City 60439 Kosmiczne Laboratorium Naukowe 6+ Nowe
+## 60439 — LEGO City 60439 - Kosmiczne laboratorium naukowe
 
-*Kategoria: City · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702017599601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60439 |
+| Nazwa angielska | Space Science Lab |
+| Nazwa polska | LEGO City 60439 - Kosmiczne laboratorium naukowe |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 560 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm × gł. 15 cm |
+| EAN | 5702017599601 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -14442,11 +21870,27 @@ Zestawy kosmiczne LEGO City zawierają realistyczne pojazdy, szczegółowe budyn
 - Zabawa bez ograniczeń — zestawy kosmiczne LEGO® City zawierają realistyczne pojazdy, szczegółowe budynki i inspirujące postacie, które łączą fantazję z rzeczywistością, zapewniając nieograniczoną, twórczą zabawę
 - Wymiary — laboratorium kosmiczne w tym 560-elementowym zestawie ma 13 cm wysokości, 21 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 60439-1: https://a.allegroimg.com/original/058633/887b39d04115992855d078dfe012
+
 ---
 
-## 60440 — Lego City 60440 Żółta Ciężarówka Dostawcza Auto Klocki Zestaw Nowy
+## 60440 — Żółta ciężarówka dostawcza
 
-*Kategoria: City · cena Allegro (2026-08-17): 430.45 zł · EAN: 05702017599618 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60440 |
+| Nazwa angielska | Yellow Delivery Truck |
+| Nazwa polska | Żółta ciężarówka dostawcza |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1061 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017599618 |
 
 **⚡ WAŻNE INFORMACJE O STANIE PRODUKTU ⚡**
 
@@ -14510,11 +21954,27 @@ Zestawy kosmiczne LEGO City zawierają realistyczne pojazdy, szczegółowe budyn
 
 🔥 Kliknij "Kup teraz" i zdobądź tę wielką ciężarówkę dostawczą już dziś! 🛒🚀
 
+**Galeria:**
+
+- 60440-1: https://a.allegroimg.com/original/11102a/8d06f1e048dabb8bf8ba80cb813e
+
 ---
 
-## 60441 — Lego City 60441 Zestaw z badaczami kosmosu
+## 60441 — Pakiet Odkrywców Kosmosu
 
-*Kategoria: City · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702017678122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60441 |
+| Nazwa angielska | Space Explorers Pack |
+| Nazwa polska | Pakiet Odkrywców Kosmosu |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017678122 |
 
 LEGO®
 
@@ -14542,41 +22002,102 @@ Zestaw składający się z 240 elementów, w którym znajduje się statek kosmic
 
 Zestaw kosmiczny LEGO® City zawiera realistyczne pojazdy, szczegółowe budynki i inspirujące postacie, które łączą fantazję z rzeczywistością, zapewniając nieograniczoną, twórczą zabawę.
 
+**Galeria:**
+
+- 60441-1: https://a.allegroimg.com/original/293156/d5c3e7b544b38c8ccf8f95127ae4
+
 ---
 
-## 60442 — Lego City F1 Kierowca i bolid McLaren 60442
+## 60442 — F1 City Driver 60442 z samochodem wyścigowym McLaren
 
-*Kategoria: City · cena Allegro (2026-08-17): 33.14 zł · EAN: 05702017812489 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60442 |
+| Nazwa angielska | F1 Driver with McLaren Race Car |
+| Nazwa polska | F1 City Driver 60442 z samochodem wyścigowym McLaren |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 86 |
+| Cena katalogowa | 54.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812489 |
 
 F1® Kierowca i bolid McLaren
 
 City F1® Kierowca i bolid McLaren LEGO® City F1® Kierowca i bolid McLaren Zestaw LEGO® City F1® Kierowca i bolid McLaren 60442 Podczas zabawy zestawem LEGO® City F1® Kierowca i bolid McLaren dzieci staną w szranki na torze, ścigając się bolidem z oponami typu slick. LEGO® City F1® bolid McLaren Dzięki zestawowi LEGO® City F1® Kierowca i bolid McLaren (60442) sześciolatki i starsze dzieci mogą poczuć prawdziwe emocje na wysokich obrotach. Ten mały pojazd ma superaerodynamiczną konstrukcję bolidu Formuły 1® z oponami typu slick i zawiera minifigurkę kierowcy F1 zespołu McLaren do kreatywnej zabawy i opowiadania historii. Odkryj dynamiczną serię zestawów LEGO z pojazdami Formuły 1 dla dzieci i dorosłych.Ten model LEGO F1 zawiera drukowane instrukcje budowania oraz cyfrowe instrukcje w aplikacji LEGO Builder. Dzieci mogą w niej powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Dzieci dorastają otoczone niesamowitymi pojazdami i maszynami, a dzięki zestawom LEGO City z realistycznymi modelami i ciekawymi postaciami do odgrywania ról mogą bliżej je poznać. Dzieci mogą dodać ten zestaw z bolidem do innych (sprzedawanych osobno) z serii LEGO City F1, aby urozmaicić wyścigi. Wkrocz do świata Formuły 1® dzięki zestawowi LEGO® City F1® Kierowca i bolid McLaren. Poznaj superaerodynamiczną konstrukcję bolidu i opony typu slick zapewniające maksymalną prędkość i łatwe pokonywanie zakrętów. Wsiądź za kierownicę i poczuj przypływ adrenaliny tuż po starcie. Pokonuj zakręty i wsłuchaj się w okrzyki kibiców, gdy z każdym okrążeniem zbliżasz się do zwycięstwa! • Bolid LEGO® Formuła 1® dla dzieci w wieku od sześciu lat — dzięki zestawowi LEGO City F1® Kierowca i bolid McLaren dzieci mogą wziąć udział w emocjonujących wyścigach • Zawartość zestawu — zestaw zawiera wszystko, czego dzieci potrzebują do zbudowania bolidu F1® zespołu McLaren, oraz minifigurkę kierowcy • Idealny model do zabawy i ozdoby — ten mały pojazd ma superaerodynamiczną konstrukcję bolidu F1® z oponami typu slick. Zawiera także minifigurkę kierowcy McLarena, aby urozmaicić zabawę w wyścigi • Cyfrowa zabawa w budowanie — ten zestaw z bolidem LEGO® zawiera instrukcje dostępne w aplikacji LEGO® Builder, w której dzieci mogą zapisywać zestawy, śledzić postępy oraz powiększać i obracać modele w 3D podczas budowania • Fajny prezent dla dzieci — zaskocz małego fana wyścigów tym modelem bolidu LEGO® F1® zespołu McLaren.
 
+**Galeria:**
+
+- 60442-1: https://a.allegroimg.com/original/0527db/6c22d04447d7808a3253a5d292c8
+
 ---
 
-## 60443 — Lego City F1 Pit stop i mechanicy z bolidem Ferrari 60443
+## 60443 — Pit stop City 60443 F1 i personel Ferrari
 
-*Kategoria: City · cena Allegro (2026-08-17): 84.98 zł · EAN: 05702017812496 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60443 |
+| Nazwa angielska | F1 Pit Stop & Pit Crew with Ferrari Car |
+| Nazwa polska | Pit stop City 60443 F1 i personel Ferrari |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 322 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 5 cm |
+| EAN | 5702017812496 |
 
 F1® Pit stop i mechanicy z bolidem Ferrari
 
 City F1® Pit stop i mechanicy z bolidem Ferrari LEGO® City F1® Pit stop i mechanicy z bolidem Ferrari LEGO® City F1® Pit stop i mechanicy z bolidem Ferrari 60443 Z zestawem LEGO® City F1® przeprowadzisz superszybką wymianę opon! Zabawka obejmuje pit stop F1, ekipę serwisową i bolid Ferrari. Zestaw LEGO® City z pit stopem zespołu Ferrari Przenieś emocje z toru wyścigowego do dziecięcego pokoju dzięki zestawowi LEGO® City F1® Pit stop i mechanicy z bolidem Ferrari (60443) dla dzieci w wieku od sześciu lat. Ten zestaw zawiera wszystko, czego dzieci potrzebują do błyskawicznych pit stopów, w tym świeże opony typu slick, pistolety do kół i ekipę, która zajmuje swoje pozycję po naciśnięciu przełącznika, aby przeprowadzić superszybką wymianę opon. Ten zestaw z bolidem Formuły 1® Ferrari oraz minifigurkami kierowcy i czterech członków załogi pit stopu będzie idealnym prezentem dla małych fanów wyścigów.Ten model LEGO F1 zawiera drukowane instrukcje budowania oraz cyfrowe instrukcje w aplikacji LEGO Builder. Dzieci mogą w niej powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Poczuj wyścigowe emocje dzięki temu zestawowi LEGO City F1, który świetnie się sprawdzi jako prezent świąteczny lub urodzinowy dla młodych fanów wyścigów. Odkryj dynamiczną serię zestawów konstrukcyjnych LEGO F1 dla dzieci i dorosłych (sprzedawanych osobno). Przygotuj się na szybką akcję w pit stopie F1® zespołu Ferrari! Zbierz ekipę pit stopu i wezwij kierowcę na błyskawiczną kontrolę. Sprawdź silnik i załóż świeże opony typu slick za pomocą pistoletu do kół. Następnie wróć do wyścigu, aby pobić rekord okrążenia! Przygotuj się na niesamowite przygody w pit stopie F1 w LEGO® City! • Bolid LEGO® F1® — przenieś emocje z toru Formuły 1® do dziecięcego pokoju dzięki zestawowi LEGO City F1 z pit stopem, ekipą serwisową i bolidem Ferrari dla dzieci w wieku od sześciu lat • Zawartość zestawu — zestaw zawiera wszystko, czego dzieci potrzebują, aby zbudować pit stop F1® i zabawkowy bolid Ferrari, a także minifigurki kierowcy i czterech członków ekipy serwisowej • Model F1® z ciekawymi funkcjami — wjedź samochodem do pit stopu i naciśnij dźwignię, aby załoga pit stopu zajęła pozycję do wymiany opon • Zestaw LEGO® F1® z akcesoriami do realistycznej zabawy w pit stop — akcesoria dla minifigurek LEGO obejmują narzędzia, nowe opony i pistolety do kół • Fajny prezent świąteczny lub urodzinowy dla dzieci — zaskocz sześcioletnich i starszych miłośników wyścigów tym zestawem do zabawy LEGO® City F1® • Cyfrowa zabawa w budowanie — ten zestaw z małym pit stopem F1® zawiera instrukcje dostępne w aplikacji LEGO® Builder, w której dzieci mogą zapisywać zestawy, śledzić postępy oraz powiększać i obracać modele w 3D podczas budowania • Jeszcze więcej szybkiej jazdy z F1® — sprawdź też inne zestawy konstrukcyjne LEGO® F1® (sprzedawane osobno), aby budować, ustawiać bolidy na półce i odgrywać wyścigi z całą rodziną • Wymiary — model pit stopu w tym 322-elementowym zestawie ma 8 cm wysokości, 14 cm szerokości i 5 cm głębokości • Zestaw LEGO® City F1® Pit stop i mechanicy z bolidem Ferrari dla dzieci w wieku od sześciu lat • Zestaw z pit stopem F1®, bolidem Ferrari, minifigurką kierowcy oraz czterema mechanikami • Po wciśnięciu dźwigni ekipa serwisowa pit stopu F1® zajmuje stanowiska do zmiany opon • Akcesoria dla minifigurek F1® LEGO®: narzędzia, świeże opony typu slick i pistolety do opon • Podaruj ten zestaw z pojazdem na urodziny lub święta dzieciom w wieku od sześciu lat • Do zestawu LEGO® z pit stopem dołączono instrukcje w 3D w aplikacji LEGO® Builder • Odkryj serię zestawów LEGO® F1® dla całej rodziny (sprzedawanych osobno) • Model pit stopu w 322-elementowym zestawie LEGO® City ma 14 cm szerokości
 
+**Galeria:**
+
+- 60443-1: https://a.allegroimg.com/original/05fb49/315ed5ae41a1b4ee4346edbc6baa
+
 ---
 
-## 60444 — Lego Klocki City F1 Garaż i bolidy Mercedes-AMG i Alpine 60444
+## 60444 — Garaż City 60444 F1 i samochody Mercedes-AMG i Alpine
 
-*Kategoria: City · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702017812502 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60444 |
+| Nazwa angielska | F1 Garage & Mercedes-AMG & Alpine Cars |
+| Nazwa polska | Garaż City 60444 F1 i samochody Mercedes-AMG i Alpine |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 678 |
+| Cena katalogowa | 349.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812502 |
 
 F1® Garaż i bolidy Mercedes-AMG i Alpine
 
 City F1® Garaż i bolidy Mercedes-AMG i Alpine LEGO® City F1® Garaż i bolidy Mercedes-AMG i Alpine LEGO® City F1® Garaż i bolidy Mercedes-AMG i Alpine 60444 Zestaw LEGO® City F1® Garaż i bolidy Mercedes-AMG i Alpine zawiera garaż z dwiema zatoczkami do startów, dwa bolidy i sześć minifigurek. Zestaw z garażem i bolidami LEGO® City F1® Szukasz fajnego prezentu dla małych miłośników aut? Siedmiolatki i starsze dzieci mogą wkroczyć do ekscytującego świata Formuły 1® z zestawem LEGO® City F1® Garaż i bolidy Mercedes-AMG i Alpine (60444). Ten model wyposażony w uchwyt do przenoszenia rozkłada się, odsłaniając garaż i warsztat dla bolidów ze stołami warsztatowymi, wózkami narzędziowymi, spawarkami i wieżą opon typu slick. Dzieci mogą przesunąć dźwignię, aby wystrzelić bolidy F1 z zatoczek startowych, a epickie historie na torze wyścigowym urozmaicą dwie minifigurki kierowców, cztery minifigurki mechaników oraz puchar.Ten model LEGO F1 zawiera cyfrowe instrukcje w aplikacji LEGO Builder. Dzieci mogą w niej powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Poczuj wyścigowe emocje dzięki temu zestawowi LEGO City F1, który świetnie się sprawdzi jako prezent świąteczny lub urodzinowy dla młodych fanów wyścigów. Odkryj dynamiczną serię zestawów konstrukcyjnych LEGO F1 dla dzieci i dorosłych (sprzedawanych osobno). Zobacz opony typu slick, fajne stoły warsztatowe i wózki narzędziowe. Pomóż mechanikom dopracować samochody wyścigowe, a następnie zapnij pasy i przygotuj się do startu z garażu. Kto zdobędzie puchar dla najlepszego kierowcy? Przygotuj się na emocjonujący wyścig Formuły 1® w LEGO® City! • Garaż z bolidami LEGO® F1® — przenieś emocje z toru Formuły 1® do dziecięcego pokoju dzięki zestawowi LEGO City F1 Garaż i bolidy Mercedes-AMG i Alpine dla dzieci w wieku od siedmiu lat • Zawartość zestawu — zestaw zawiera garaż ze stołami warsztatowymi, narzędziami i spawarkami, wieżą opon typu slick oraz dwoma bolidami F1®.
 
+**Galeria:**
+
+- 60444-1: https://a.allegroimg.com/original/05d57e/10073c904a60a0184b4d9972994e
+
 ---
 
-## 60445 — Lego City 60445 F1 Ciezarowka Z Bolidami RB20 I AMR24 F1 Naczepa Tir
+## 60445 — Ciężarówka F1 z bolidami RB20 i AMR24
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702017812519 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60445 |
+| Nazwa angielska | F1 Truck with RB20 & AMR24 F1 Cars |
+| Nazwa polska | Ciężarówka F1 z bolidami RB20 i AMR24 |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1086 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702017812519 |
 
 **NOWE LEGO CITY F1 CIĘŻARÓWKA Z BOLIDAMI RB20 I AMR24 F1**
 
@@ -14601,11 +22122,27 @@ Dzieci mogą połączyć ten zestaw z bolidami Formuły 1 LEGO z innymi (sprzeda
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki pojazdom, budowlom i postaciom, które motywują do budowania, tworzenia, odkrywania i zabawy
 - Wymiary — zestaw LEGO® City z 1086 elementami obejmuje ciężarówkę z przyczepą, która ma 9 cm wysokości, 44 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 60445-1: https://a.allegroimg.com/original/052ca2/23a37a7f41beba4b66fedd0b3195
+
 ---
 
-## 60446 — Lego Zestaw City 60446 Modułowy Galaktyczny Statek Kosmiczny
+## 60446 — Miasto 60446 Modulowy galaktyczny gospodarstwo kosmiczne
 
-*Kategoria: City · cena Allegro (2026-08-17): 374.45 zł · EAN: 05702017812526 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60446 |
+| Nazwa angielska | Modular Galactic Spaceship |
+| Nazwa polska | Miasto 60446 Modulowy galaktyczny gospodarstwo kosmiczne |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 29 cm |
+| EAN | 5702017812526 |
 
 LEGO City 60446 Modułowy galaktyczny statek kosmiczny
  
@@ -14643,11 +22180,27 @@ Przerób statek kosmiczny, tak by powstał prom i baza lądowa.
  
 W zestawie cztery minifigurki astronautów oraz figurki kosmity i robota.
 
+**Galeria:**
+
+- 60446-1: https://a.allegroimg.com/original/055beb/0226fa3f430fb0c198a6018d74c4
+
 ---
 
-## 60447 — Lego City 60447 Górska ciężarówka terenowa 4x4
+## 60447 — Górska terenówka 4x4
 
-*Kategoria: City · cena Allegro (2026-08-17): 71.99 zł · EAN: 00673419403504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60447 |
+| Nazwa angielska | Off-Road 4x4 Mountain Truck |
+| Nazwa polska | Górska terenówka 4x4 |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 221 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017812533, 673419403504 |
 
 Górska ciężarówka terenowa 4x4
 
@@ -14676,21 +22229,28 @@ O zestawie
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki pojazdom, budowlom i mieszkańcom, którzy motywują do budowania, tworzenia, odkrywania i zabawy
 - Wymiary — zestaw z 221 elementami obejmuje zabawkową ciężarówkę terenową, która ma 7 cm wysokości, 13 cm długości i 6 cm szerokości
 
----
+**Galeria:**
 
-## 60448 — Lego City 60448 Czerwony samochód sportowy
-
-*Kategoria: City · cena Allegro (2026-08-17): 36.35 zł · EAN: 05702017812403 · in stock*
-
-Czerwony samochód sportowy
-
-City Czerwony samochód sportowy LEGO® City Czerwony samochód sportowy Zestaw LEGO® City Czerwony samochód sportowy 60448 Fani szybkich i stylowych aut będą zachwyceni Czerwonym samochodem sportowym LEGO® City z fajnymi felgami i przyciemnianą kabiną dla minifigurki. Samochód sportowy LEGO® dla dzieci w wieku od pięciu lat Podaruj pięcioletniemu lub starszemu miłośnikowi motoryzacji zestaw LEGO® City Czerwony samochód sportowy (60448). Ten elegancki supersamochód ma fajne felgi, opony niskoprofilowe i przyciemnianą kabinę. Dzieci mogą posadzić minifigurkę kierowcy za kierownicą, schować telefon komórkowy i akcesoria do mycia auta w bagażniku, a potem ruszyć na autostradę, by przeżyć superszybkie przygody!Ten łatwy do zbudowania zestaw LEGO z samochodem sportowym zawiera drukowane instrukcje budowania oraz instrukcje 3D w aplikacji LEGO Builder — cyfrowym narzędziu do powiększania i obracania, które pomaga dzieciom wizualizować modele z różnych perspektyw.Dzięki zestawom LEGO City dzieci mają do dyspozycji fajne pojazdy, realistyczne budynki oraz ciekawe postacie, które inspirują do nieograniczonej twórczej zabawy. A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw z innymi z serii LEGO City (sprzedawanymi osobno). Poruszaj się po ulicach w wielkim stylu w Czerwonym samochodzie sportowym LEGO® City! Ten elegancki supersamochód ma fajne felgi, niskoprofilowe opony i przyciemniane szyby w kokpicie z otwieranym dachem. Otwórz bagażnik, aby schować telefon komórkowy i sprzęt do mycia auta. Następnie wskocz za kierownicę i ruszaj na autostradę. Co za frajda!
+- 60447-1: https://a.allegroimg.com/original/05373b/cef6e3544b05bda8bca618c9adf4
+- 60447-2: https://a.allegroimg.com/original/05b509/3299686b42f98f55f36229b13e50
 
 ---
 
-## 60449 — Lego City Pościg terenówką policyjną 60449
+## 60449 — Pościg terenówką policyjną 
 
-*Kategoria: City · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702017824543 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60449 |
+| Nazwa angielska | Off-Road Police Car Chase |
+| Nazwa polska | Pościg terenówką policyjną  |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 467 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824543, 5702017911656 |
 
 **LEGO City Pościg terenówką policyjną 60449**
 
@@ -14705,11 +22265,27 @@ Wciśnij gaz do dechy i rozpocznij przygodę z zestawem LEGO® City Pościg tere
 - Zestawy LEGO® City wspierają rozwój istotnych umiejętności życiowych
 - Policyjny SUV w tym 467-elementowym zestawie ma 14 cm długości
 
+**Galeria:**
+
+- 60449-1: https://a.allegroimg.com/original/119c07/287da1aa4f1e8c1dbf6b754a92de
+- 60449-2: https://a.allegroimg.com/original/111a6e/862d61d54d649fbbb2b616ef7351
+
 ---
 
-## 60451 — Klocki Lego City 60451 Karetka Pogotowia Zestaw Do Budowania
+## 60451 — Ambulans
 
-*Kategoria: City · cena Allegro (2026-08-17): 125.10 zł · EAN: 05710698067838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60451 |
+| Nazwa angielska | Emergency Ambulance |
+| Nazwa polska | Ambulans |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 184 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812410, 5710698067838 |
 
 KLOCKI LEGO CITY 60451 KARETKA POGOTOWIA ZESTAW DO BUDOWANIA PREZENT
 
@@ -14746,11 +22322,27 @@ KLOCKI LEGO CITY 60451 KARETKA POGOTOWIA ZESTAW DO BUDOWANIA PREZENT
  
 **• ✅Karetka w tym 184-elementowym zestawie ma 14 cm długości**
 
+**Galeria:**
+
+- 60451-1: https://a.allegroimg.com/original/1125eb/a866a95045aa81ecbfb7c7208d57
+- 60451-2: https://a.allegroimg.com/original/058a12/18d81d3141e791c35f78c921ab0a
+
 ---
 
-## 60452 — Zestaw Lego City Mobilna Pączkarnia Ciężarówka Z Pączkami 60452 Klocki
+## 60452 — ZESTAW LEGO CITY MOBILNA PĄCZKARNIA CIĘŻARÓWKA Z PĄCZKAMI 60452 KLOCKI
 
-*Kategoria: City · cena Allegro (2026-08-17): 89.98 zł · EAN: 04894041730363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60452 |
+| Nazwa angielska | Donut Truck |
+| Nazwa polska | ZESTAW LEGO CITY MOBILNA PĄCZKARNIA CIĘŻARÓWKA Z PĄCZKAMI 60452 KLOCKI |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 196 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 4894041730363, 5702017812427 |
 
 ⭐LEGO CITY MOBILNA PĄCZKARNIA CIĘŻARÓWKA Z PĄCZKAMI 60452
 
@@ -14830,11 +22422,27 @@ KLOCKI LEGO CITY 60451 KARETKA POGOTOWIA ZESTAW DO BUDOWANIA PREZENT
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 60452-1: https://a.allegroimg.com/original/114e4f/5bab533449898f909aad96c339cf
+- 60452-2: https://a.allegroimg.com/original/05580d/7eaebcf24364bf4d0b3430852619
+
 ---
 
-## 60453 — Zestaw Lego City 60453 Furgonetka Ratowników Plażowych dla dziecka
+## 60453 — ZESTAW LEGO CITY 60453 FURGONETKA RATOWNIKÓW PLAŻOWYCH PREZENT dla dziecka
 
-*Kategoria: City · cena Allegro (2026-08-17): 96.99 zł · EAN: 04894041728759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60453 |
+| Nazwa angielska | Lifeguard Beach Rescue Truck |
+| Nazwa polska | ZESTAW LEGO CITY 60453 FURGONETKA RATOWNIKÓW PLAŻOWYCH PREZENT dla dziecka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 214 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 4894041728759, 5702017812434 |
 
 ⭐LEGO CITY 60453 FURGONETKA RATOWNIKÓW PLAŻOWYCH
 
@@ -14914,21 +22522,52 @@ KLOCKI LEGO CITY 60451 KARETKA POGOTOWIA ZESTAW DO BUDOWANIA PREZENT
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 60453-1: https://a.allegroimg.com/original/1197c6/25f2a088490a8de40923de5bdd7d
+- 60453-2: https://a.allegroimg.com/original/11db69/9d756019421cba838019db1c1d87
+
 ---
 
-## 60454 — Lego City 60454 Wakacyjna przyczepa przygodowa
+## 60454 — Miasto 60454 Wakacyjna przyczepa przygodowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 76.21 zł · EAN: 05702017812441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60454 |
+| Nazwa angielska | Holiday Adventure Camper Van |
+| Nazwa polska | Miasto 60454 Wakacyjna przyczepa przygodowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 385 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812441 |
 
 Wakacyjny kamper pełen przygód
 
 City Wakacyjny kamper pełen przygód LEGO® City Wakacyjny kamper pełen przygód Zestaw LEGO® City Wakacyjny kamper pełen przygód 60454 W zestawie LEGO® City Wakacyjny kamper pełen przygód czeka długa wakacyjna zabawa w towarzystwie dwóch minifigurek i figurki małego dziecka. Zestaw z kamperem LEGO® Dzięki zestawowi LEGO® City Wakacyjny kamper pełen przygód (60454) dzieci mogą podróżować do wymarzonych miejsc. Ten fajny zestaw dla sześciolatków i starszych dzieci zawiera wiele realistycznych funkcji, w tym nowoczesną przestrzeń mieszkalną z kuchnią, toaletą, łóżkami piętrowymi i łóżeczkiem, stół i dwa krzesła do użytku w środku i na zewnątrz, a także zabawkową gitarę i ognisko. Wystarczy dodać minifigurki mamy i taty z dzieckiem, aby rozpocząć twórczą zabawę i opowiadanie historii.Ten zestaw z kamperem LEGO City zawiera drukowane szczegółowe instrukcje. Dzieci mogą również cieszyć się zabawnym i intuicyjnym budowaniem z aplikacją LEGO Builder, w której mogą powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Superpojazdy LEGO City to bogate w funkcje zabawki poruszające się w powietrzu, po lądzie i po wodzie, które umożliwiają pomysłową zabawę bez ograniczeń. Dzieci mogą dodać tego kampera do innych zestawów z serii LEGO City (sprzedawanych osobno) i przeżyć jeszcze fajniejsze przygody! Wyrusz w wakacyjną podróż na pokładzie tego luksusowego kampera. Podróżuj po górach, jeziorach i parkach narodowych, rozkoszując się wszystkimi wygodami. Ciesz się nowoczesną przestrzenią z kuchnią, toaletą i łóżkami dla całej rodziny. Wystaw meble ogrodowe, chwyć gitarę i usiądź przy ognisku, aby wspólnie śpiewać.
 
+**Galeria:**
+
+- 60454-1: https://a.allegroimg.com/original/0541d9/550bfaeb4a308934fe4b97fcc902
+
 ---
 
-## 60455 — Lego City 60455 Pościg motocyklem policyjnym
+## 60455 — Miasto 60455 Policja Motocyklowa Pościg
 
-*Kategoria: City · cena Allegro (2026-08-17): 26.99 zł · EAN: 05702017812458 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60455 |
+| Nazwa angielska | Police Motorcycle chase |
+| Nazwa polska | Miasto 60455 Policja Motocyklowa Pościg |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 65 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812458 |
 
 Zaskocz swojego młodego bohatera akcji tym ekscytującym zestawem **Policyjny pościg motocyklowy** (60455) od LEGO® City. Jest idealny dla małych budowniczych od 4 lat i oferuje wspaniały motocykl policyjny z szerokimi oponami, deskorolkę złodzieja i otwierany minibankomat z banknotem. Wystarczy dodać minifigurki policjanta i złodzieja, aby cieszyć się godzinami pomysłowej zabawy i opowiadania historii.
  
@@ -14950,11 +22589,27 @@ Dzięki zestawom policyjnym LEGO City dzieci wyruszą na pełne akcji przygody b
 - Ilość elementów: 65 
 - Nadaje się dla dzieci od 4 lat
 
+**Galeria:**
+
+- 60455-1: https://a.allegroimg.com/original/29511b/fdccc0584bb989565febbdb4cd02
+
 ---
 
-## 60456 — Lego City 60456 Pościg łodzią policyjną
+## 60456 — Pościg łodzią policyjną
 
-*Kategoria: City · cena Allegro (2026-08-17): 95.11 zł · EAN: 05702017812465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60456 |
+| Nazwa angielska | Police Boat Chase |
+| Nazwa polska | Pościg łodzią policyjną |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 264 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812465 |
 
 Mali bohaterowie pokochają zestaw LEGO® City (60456) **Pościg w łodzi policyjnej**. Ten zestaw jest idealny dla budowniczych od 6 lat i **zawiera** łódź policyjną z dwoma silnikami zawieszenia i całą więzienną na pokładzie, a do tego motorówkę. Oba statki pływają po wodzie, a dzieci mogą wyruszyć z nimi na napięte pościgi policyjne z 2 policjantami, przestępcą, szybkim rekinem i skradzionym rubinem!
  
@@ -14975,11 +22630,27 @@ Twoje miasto, twoje zasady! Dzięki zestawom LEGO City dzieci wyruszą na pełne
 - Liczba elementów: 264 
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60456-1: https://a.allegroimg.com/original/29b93c/e7d613ba491e874dd2544d839297
+
 ---
 
-## 60457 — Lego City 60457 Policyjny Warsztat Tuningowy Radiowóz Mechanik
+## 60457 — Policyjny warsztat tuningowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 208.95 zł · EAN: 05702017812571 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60457 |
+| Nazwa angielska | Custom Police Car garage |
+| Nazwa polska | Policyjny warsztat tuningowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 42 cm × gł. 21 cm |
+| EAN | 5702017812571 |
 
 ⭐LEGO City 60457 Policyjny Warsztat Tuningowy Radiowóz  Mechanik⭐
 
@@ -15029,31 +22700,76 @@ LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazjidzięki pojazd
 
 Model warsztatu w tym 489-elementowym zestawie ma 11 cm wysokości, 42 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 60457-1: https://a.allegroimg.com/original/11faa9/33500d9c428f92c03f06566b3373
+
 ---
 
-## 60458 — Lego City Zestaw wyścigówek: pizza kontra wóz strażacki 60458
+## 60458 — Pakiet wyścigowy City 60458: Dostawa pizzy vs. wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 21.79 zł · EAN: 05702017812588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60458 |
+| Nazwa angielska | Pizza vs. Fire Truck Race Car Pack |
+| Nazwa polska | Pakiet wyścigowy City 60458: Dostawa pizzy vs. wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 70 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812588 |
 
 Zestaw wyścigówek: pizza kontra wóz strażacki
 
 City Zestaw wyścigówek: pizza kontra wóz strażacki LEGO® City Zestaw wyścigówek: pizza kontra wóz strażacki LEGO® City Zestaw wyścigówek: pizza kontra wóz strażacki 60458 LEGO® City Zestaw wyścigówek: pizza kontra wóz strażacki gwarantuje emocjonujące wyścigi. Zawiera dwie wyścigówki z kucharzem i strażakiem. Zestaw wyścigówek Podaruj pięcioletnim i starszym fanom wyścigów zestaw LEGO® City Zestaw wyścigówek: pizza kontra wóz strażacki (60458). Zawiera on dwie wyścigówki i dwie minifigurki. Dzieci mogą wcielić się w szefa kuchni w gorącym kawałku pizzy lub strażaka w rozgrzanym do czerwoności wozie strażackim. Kto zwycięży? Przekonaj się, biorąc udział w miejskim wyścigu!Ten zestaw z wyścigówkami LEGO City zawiera drukowane szczegółowe instrukcje. Dzieci mogą również cieszyć się ciekawym budowaniem z aplikacją LEGO Builder, w której mogą powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Dzięki zestawom LEGO City dzieci mają do dyspozycji fajne pojazdy, realistyczne budynki oraz ciekawe postacie, które inspirują do nieograniczonej zabawy. A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw z innymi z serii LEGO City (sprzedawanymi osobno). Przygotuj się na epicki wyścig podczas zabawy Zestawem wyścigówek: pizza kontra wóz strażacki. Na ulice LEGO® City zawitały miejskie wyścigi! Na linii startu stanie gorący kawałek pizzy oraz rozpalony do czerwoności wóz strażacki! Kto pierwszy przekroczy linię mety? Czy będzie to kucharz czy strażak? Przygotuj się na superszybkie i emocjonujące przygody! • Zestaw z wyścigówkami — podaruj pięcioletnim i starszym fanom wyścigów zestaw LEGO® City Zestaw wyścigówek: pizza kontra wóz strażacki • Zawartość zestawu — zestaw zawiera wszystko, czego potrzebują dzieci do zbudowania auta w kształcie kawałka pizzy i wozu strażackiego, a także figurki kucharza i strażaka • Twórcza zabawa — wystarczy posadzić figurkę kierowcy LEGO® w wyścigówce, by odkrywać świat ekscytujących wyścigów i fajnych przygód • Fajny zestaw z wyścigówkami i interaktywnym przewodnikiem — dzieci mogą powiększać i obracać modele w 3D, śledzić postępy w budowaniu oraz przeglądać i zapisywać wirtualne zestawy w intuicyjnej aplikacji LEGO® Builder • Szukasz ciekawego prezentu dla pięciolatka lub starszego dziecka?
 
+**Galeria:**
+
+- 60458-1: https://a.allegroimg.com/original/056eb1/6d78f6c74f4ca36ef2f3458ef62d
+
 ---
 
-## 60459 — Lego City 60459 Pakiet wyścigowy City 60459: Samolot kontra łóżko szpitalne
+## 60459 — Pakiet wyścigowy City 60459: Samolot kontra. łóżko szpitalne
 
-*Kategoria: City · cena Allegro (2026-08-17): 21.89 zł · EAN: 05702017812595 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60459 |
+| Nazwa angielska | Airplane vs. Hospital Bed Race Car Pack |
+| Nazwa polska | Pakiet wyścigowy City 60459: Samolot kontra. łóżko szpitalne |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 70 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812595 |
 
 Zestaw wyścigówek: samolot kontra łóżko szpitalne
 
 City Zestaw wyścigówek: samolot kontra łóżko szpitalne LEGO® City Zestaw wyścigówek: samolot kontra łóżko szpitalne LEGO® City Zestaw wyścigówek: samolot kontra łóżko szpitalne 60459 LEGO® City Zestaw wyścigówek: samolot kontra łóżko szpitalne gwarantuje emocjonujące wyścigi. Zawiera dwie wyścigówki z pilotem i pacjentem. Zestaw z autami w kształcie samolotu i łóżka szpitalnego Podaruj fanom wyścigów w wieku od pięciu lat zestaw LEGO® City Zestaw wyścigówek: samolot kontra łóżko szpitalne (60459). Zawiera on dwie wyścigówki i dwie minifigurki. Dzieci mogą odgrywać wyścigi między pilotem szybującego samolotu a pacjentem na zaskakująco szybkim łóżku szpitalnym. Kto zwycięży? Przekonaj się o tym i weź udział w miejskim wyścigu!Ten zestaw z wyścigówkami LEGO City zawiera drukowane szczegółowe instrukcje. Dzieci mogą również cieszyć się zabawnym budowaniem z aplikacją LEGO Builder, w której mogą powiększać i obracać modele w 3D, śledzić postępy oraz odkrywać i zapisywać inne zestawy.Dzięki zestawom LEGO City dzieci mają do dyspozycji fajne pojazdy, realistyczne budynki oraz ciekawe postacie, które inspirują do kreatywnej zabawy. A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw z innymi z serii LEGO City (sprzedawanymi osobno). Weź udział w szalonym wyścigu dzięki zestawowi Zestaw wyścigówek: samolot kontra łóżko szpitalne. Na ulice LEGO® City zawitały miejskie wyścigi! Do walki staną pikujący samolot i zaskakująco szybkie łóżko szpitalne! Kto jako pierwszy przekroczy linię mety? Czy będzie to pilot czy pacjent? Przygotuj się na pełną rywalizacji zabawę! • Zestaw z wyścigówkami — zaskocz pięcioletnich i starszych miłośników wyścigów zestawem LEGO® City Zestaw wyścigówek: samolot kontra łóżko szpitalne • Zawartość zestawu — zestaw zawiera wszystko, czego potrzebują dzieci do zbudowania wyścigówek w kształcie samolotu i szpitalnego łóżka, a także pilota i pacjenta w roli kierowców • Twórcza zabawa — wystarczy posadzić figurkę kierowcy LEGO® w wyścigówce, by odkrywać świat ekscytujących wyścigów i fajnych przygód • Fajny zestaw z wyścigówkami i interaktywnym przewodnikiem — dzieci mogą powiększać i obracać modele w 3D, śledzić postępy w budowaniu oraz przeglądać i zapisywać wirtualne zestawy w intuicyjnej aplikacji LEGO® Builder • Szukasz ciekawego prezentu dla pięciolatka lub starszego dziecka?
 
+**Galeria:**
+
+- 60459-1: https://a.allegroimg.com/original/05195d/d9f502894ad7b3c7fef8767b8ea4
+
 ---
 
-## 60460 — Lego City Bez granic: tor z rampami dla wyścigówek 60460
+## 60460 — Miasto 60460 Twoje zazady: Tor ryszyskowy z podjazdami
 
-*Kategoria: City · cena Allegro (2026-08-17): 196.98 zł · EAN: 05702017812601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60460 |
+| Nazwa angielska | No Limits: Race Car Ramp Track |
+| Nazwa polska | Miasto 60460 Twoje zazady: Tor ryszyskowy z podjazdami |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 436 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 22 cm × szer. 33 cm × gł. 14 cm |
+| EAN | 5702017812601 |
 
 LEGO City Bez granic: tor z rampami dla wyścigówek 60460
 
@@ -15086,11 +22802,26 @@ Cechy produktu:
 - Akcja bez ograniczeń — dodaj tę zabawkę do innych zestawów z serii LEGO® City (sprzedawanych osobno), aby poszerzyć możliwości zabawy
 - Wymiary — rampa w tym 436-elementowym zestawie ma 22 cm wysokości, 33 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 60460-1: https://a.allegroimg.com/original/115c53/e1aa520449c4a4ce953612235f86
+
 ---
 
-## 60461 — Zestaw Lego 60461 City Czerwony Traktor Z Przyczepą I Owcą Klocki
+## 60461 — City 60461 Czerwony traktor z przyczepą i owcami
 
-*Kategoria: City · cena Allegro (2026-08-17): 89.98 zł · EAN: 04056256597517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60461 |
+| Nazwa angielska | Red Farm Tractor with Trailer & Sheep |
+| Nazwa polska | City 60461 Czerwony traktor z przyczepą i owcami |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 116 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 4056256597517, 5702017812618 |
 
 ⭐LEGO 60461 CITY CZERWONY TRAKTOR Z PRZYCZEPĄ I OWCĄ
 
@@ -15168,11 +22899,28 @@ Cechy produktu:
 
 ⭐  GORĄCO ZAPRASZAM DO PEWNYCH I BEZPIECZNYCH ZAKUPÓW ⭐
 
+**Galeria:**
+
+- 60461-1: https://a.allegroimg.com/original/052e8b/a98c902e4ecebc17fe3fcaf35ffc
+- 60461-2: https://a.allegroimg.com/original/11bf42/bb04bab74e7495af0be59d94e74a
+
 ---
 
-## 60462 — Lego City 60462 Zestaw z Helikopterem, Wozem Strażackim i Łodzią Podwodną
+## 60462 — Zestaw z helikopterem, wozem strażackim i łodzią podwodną
 
-*Kategoria: City · cena Allegro (2026-08-17): 208.99 zł · EAN: 05702017812625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60462 |
+| Nazwa angielska | Helicopter, Fire Truck & Submarine Remix |
+| Nazwa polska | Zestaw z helikopterem, wozem strażackim i łodzią podwodną |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 874 |
+| Cena katalogowa | 259.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 23 cm |
+| EAN | 5702017812625 |
 
 LEGO City 60462 Zestaw z helikopterem, wozem strażackim i łodzią podwodną
 
@@ -15215,21 +22963,53 @@ Aplikacja LEGO® Builder
 
 W aplikacji dzieci mogą budować modele LEGO® w 3D.
 
+**Galeria:**
+
+- 60462-1: https://a.allegroimg.com/original/05d403/d37357214b0ba65df369e5b147d3
+
 ---
 
-## 60463 — Lego City Wóz strażacki z drabiną 60463 4+ 82 elementy
+## 60463 — Wóz strażacki z drabiną
 
-*Kategoria: City · cena Allegro (2026-08-17): 53.43 zł · EAN: 05702017784694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60463 |
+| Nazwa angielska | Fire Ladder Truck |
+| Nazwa polska | Wóz strażacki z drabiną |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 82 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017784694 |
 
 Wóz strażacki z drabiną
 
 City Wóz strażacki z drabiną LEGO® City Wóz strażacki z drabiną Zabawka dla dzieci LEGO® City Wóz strażacki z drabiną 60463 LEGO® City Wóz strażacki z drabiną z dwiema minifigurkami strażaków zainspiruje miłośników wozów strażackich w wieku od 4 lat do wspaniałych przygód. Fajny zestaw strażacki dla czterolatków i starszych dzieci Dołącz do swoich pociech w wieku od czterech lat i przeżyjcie niesamowite przygody podczas zabawy zestawem LEGO® Wóz strażacki z drabiną (60463). Klasyczny model ma kabinę kierowcy i podnoszoną drabinę z zabawkową gaśnicą. Zestaw zawiera również dwa migoczące płomienie LEGO, ręczną gaśnicę i dwie minifigurki strażaków do odgrywania ról i opowiadania historii.Łatwy do zbudowania wóz strażacki zawiera klocek startowy LEGO Starter Brick i ilustrowane instrukcje. Dzieci mogą też rozwinąć swoją kreatywność dzięki instrukcjom 3D w aplikacji LEGO Builder. Mogą w niej odkrywać i zapisywać zestawy, śledzić własne postępy w budowaniu oraz powiększać i obracać modele ze wszystkich stron.Strażackie zestawy LEGO City to bogate w funkcje zabawki poruszające się w powietrzu, po lądzie i po wodzie, które umożliwiają pomysłową zabawę bez ograniczeń. Dzieci mogą dodać ten wóz strażacki z drabiną do innych zestawów z serii LEGO City (sprzedawanych osobno) i przeżyć jeszcze fajniejsze przygody! Ratunku! Pożar! Czas odpalić potężny wóz strażacki z drabiną i popędzić na miejsce zdarzenia! W LEGO® City czekają na Ciebie pełne akcji przygody!
 
+**Galeria:**
+
+- 60463-1: https://a.allegroimg.com/original/05aff1/fdd9e37a419dafaad3335f69d049
+
 ---
 
-## 60464 — Klocki Lego City 60464 Miasto Williams Racing I Haas F1 Samochody Wyścigow
+## 60464 — Bolidy F1 Williams Racing i Haas
 
-*Kategoria: City · cena Allegro (2026-08-17): 50.85 zł · EAN: 05702017812632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60464 |
+| Nazwa angielska | F1 Williams Racing & Haas F1 Race Cars |
+| Nazwa polska | Bolidy F1 Williams Racing i Haas |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 92 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812632 |
 
 Przedmiotem aukcj są:
 
@@ -15248,11 +23028,27 @@ Przedmiotem aukcj są:
 - Informacje dot. bezpieczeństwa i zgodności produktu: Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
 - Minimalny wiek dziecka: 4
 
+**Galeria:**
+
+- 60464-1: https://a.allegroimg.com/original/11c31a/d6a9b41b4eb59cf2e0a07e50d3c6
+
 ---
 
-## 60465 — Lego City 60465 Samolot pogotowia ratunkowego
+## 60465 — Samolot pogotowia ratunkowego
 
-*Kategoria: City · cena Allegro (2026-08-17): 154.34 zł · EAN: 05702017812649 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60465 |
+| Nazwa angielska | Emergency Air Ambulance Airplane |
+| Nazwa polska | Samolot pogotowia ratunkowego |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 403 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812649 |
 
 Rozbudź wyobraźnię dzieci dzięki zestawowi LEGO® City (60465) **Samolot służb ratunkowych** dla dzieci od 6 lat. Ten dwusilnikowy samolot oferuje szereg wspaniałych funkcji dla miłośników modeli samolotów, w tym rozkładane schody i pokładowe laboratorium medyczne. ****
  
@@ -15271,11 +23067,27 @@ Dzięki zestawom LEGO City dzieci wyruszą na pełną akcji przygodę budowlaną
 - Liczba elementów: 403 
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60465-1: https://a.allegroimg.com/original/05666e/09c4a01a48b29c8e415b4a3c20d2
+
 ---
 
-## 60466 — Lego 60466 złoty buldożer
+## 60466 — Żółty buldożer
 
-*Kategoria: City · cena Allegro (2026-08-17): 173.14 zł · EAN: 05702017812656 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60466 |
+| Nazwa angielska | Yellow Bulldozer |
+| Nazwa polska | Żółty buldożer |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 682 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812656 |
 
 Oczaruj miłośników pojazdów z budowy od 8 lat zestawem LEGO® City (60466) **Żółty spychacz**. Ten imponujący model jest pełen realistycznych detali i funkcji, w tym lemiesza podnoszącego, podwójnego tylnego rozdrabniacza i wyrafinowanego silnika z widocznymi ruchomymi tłokami i obracającym się wentylatorem chłodnicy. **Zestaw** zawiera również znak ostrzegawczy i minifigurkę kierowcy oraz 2 pracowników do pomysłowej zabawy.
  
@@ -15296,11 +23108,27 @@ Dzięki zestawom LEGO City dzieci wyruszą na pełne akcji przygody budowlane i 
 - Liczba elementów: 682 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 60466-1: https://a.allegroimg.com/original/297c18/5d614d7345fd86ac79f55ea2c054
+
 ---
 
-## 60467 — Lego City Wóz Holowniczy Z Dźwigiem 60467
+## 60467 — Wóz holowniczy z dźwigiem
 
-*Kategoria: City · cena Allegro (2026-08-17): 405.90 zł · EAN: 05702017812663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60467 |
+| Nazwa angielska | Heavy-Duty Recovery Tow Truck with Crane |
+| Nazwa polska | Wóz holowniczy z dźwigiem |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 793 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017812663 |
 
 **Wóz holowniczy z dźwigiem**
 
@@ -15326,11 +23154,27 @@ Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze 
 
 Wymiary — wóz holowniczy z rotatorem w tym 793-elementowym zestawie LEGO® City ma 9 cm wysokości, 28 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60467-1: https://a.allegroimg.com/original/110158/cb2e8a8e45d497fed8f340f21a88
+
 ---
 
-## 60469 — Lego City Centralny dworzec kolejowy 60469
+## 60469 — Centralny dworzec kolejowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 264.98 zł · EAN: 05702017822181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60469 |
+| Nazwa angielska | Central Train Station |
+| Nazwa polska | Centralny dworzec kolejowy |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 752 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822181 |
 
 Zestaw LEGO® City (60469) **Główny dworzec kolejowy** dla dzieci od 7 lat ma 3 piętra i jest pełen wspaniałych funkcji do kreatywnej zabawy. W modelu stacji z klasyczną wieżą zegarową znajdziesz przytulną kawiarnię, funkcjonalną windę, sterownię, przystanek autobusowy, 2 perony pasażerskie, ekran z rozkładami jazdy i automat biletowy. Nie brakuje wozu konserwacyjnego wyposażonego w platformę roboczą, 6 minifigurek, figurkę dziecka i 2 figurki gołębi do zabawy w postacie i opowiadania historii.
 
@@ -15357,11 +23201,27 @@ W zestawach z serii LEGO City czekają na Ciebie wspaniałe pojazdy, realistyczn
  
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 60469-1: https://a.allegroimg.com/original/295466/b35131b1496a84e7e2529283c01f
+
 ---
 
-## 60470 — Lego City Ekspres polarny arktycznych odkrywców 60470
+## 60470 — Ekspres polarny arktycznych odkrywców
 
-*Kategoria: City · cena Allegro (2026-08-17): 619.99 zł · EAN: 05702017822198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60470 |
+| Nazwa angielska | Explorers' Arctic Polar Express Train |
+| Nazwa polska | Ekspres polarny arktycznych odkrywców |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1517 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702017822198 |
 
 LEGO City - Ekspres polarny arktycznych odkrywców 60470
 
@@ -15390,11 +23250,27 @@ Zestawy LEGO City zawierają fajne pojazdy, realistyczne budynki i ciekawe posta
 - Kreatywne modele i cyfrowa zabawa — aplikacja LEGO Builder poprowadzi dzieci przez budowanie dzięki narzędziom, które pozwalają przybliżać i obracać model w 3D oraz śledzić postępy podczas budowania
 - Wymiary – pociąg z silnikiem i dwoma wagonami w tym 1517-elementowym zestawie ma 8 cm wysokości, 70 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60470-1: https://a.allegroimg.com/original/11af4d/a95a6c8346aa9a19b9fc3fb0e69b
+
 ---
 
-## 60471 — Klocki Lego City 60471 Ciężarówka z laboratorium arktycznej odkrywczyni
+## 60471 — Ciężarówka z laboratorium arktycznej odkrywczyni
 
-*Kategoria: City · cena Allegro (2026-08-17): 359.99 zł · EAN: 05702017812670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60471 |
+| Nazwa angielska | Arctic Explorer Science Lab Truck |
+| Nazwa polska | Ciężarówka z laboratorium arktycznej odkrywczyni |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1057 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812670 |
 
 Zachwyć małych poszukiwaczy przygód od 8 lat zabawką STEM LEGO® City (60471) **Ciężarówka z laboratorium dla odkrywców Arktyki.** Ten realistyczny zestaw zawiera przegubową ciężarówkę z zawieszeniem 6 kół, opony z głębokim wzorem, obrotowe obserwatorium dachowe i wspaniałe wyrafinowane wnętrze, w tym kabinę kierowcy, laboratorium i przytulny salon, łazienkę, kuchnię i sypialnię. **Model** zawiera również model skutera śnieżnego, jaskinię arktyczną, 5 minifigurek odkrywców i 3 figurki arktycznych wilków, w tym szczeniaka do kreatywnej zabawy.
  
@@ -15414,21 +23290,52 @@ W zestawach z serii LEGO City czekają na Ciebie pojazdy, budynki i postacie, kt
 - Liczba elementów: 1064 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 60471-1: https://a.allegroimg.com/original/293330/5c522c3146b89ff6b751bae65f94
+
 ---
 
-## 60472 — Lego City 60472 Złomowisko z samochodami Podnośnik Dźwig do samochodów
+## 60472 — Złomowisko z samochodami
 
-*Kategoria: City · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702017815121 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60472 |
+| Nazwa angielska | Scrapyard with Cars |
+| Nazwa polska | Złomowisko z samochodami |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 871 |
+| Cena katalogowa | 349.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815121 |
 
 Złomowisko z samochodami
 
 City Złomowisko z samochodami LEGO® City Złomowisko z samochodami Zabawka LEGO® City Złomowisko z samochodami 60472 Zestaw LEGO® City Złomowisko z samochodami zawiera zgniatarkę samochodów, dźwig z chwytakiem, dwa auta do przebudowywania i cztery minifigurki. Zestaw ze złomowiskiem LEGO® City Dzięki zestawowi LEGO® City Złomowisko z samochodami siedmiolatki i starsze dzieci wkroczą do ekscytującego świata recyklingu. Jest on pełny fajnych funkcji, które obejmują działający dźwig z chwytakiem i zgniatarkę, która zamienia pojazdy w kostki po naciśnięciu dźwigni. XX wieku i sprzedawać odzyskane części, felgi i opony w starym budynku biurowym. Wystarczy dodać cztery minifigurki pracowników i można zaczynać wspaniałą zabawę!Ten kreatywny zestaw zawiera szczegółowe drukowane instrukcje budowania oraz instrukcje 3D w aplikacji LEGO Builder. Dzieci mogą w niej powiększać i obracać modele w 3D, śledzić postępy oraz zapisywać zestawy.Dzięki zestawom LEGO City dzieci mają do dyspozycji fajne pojazdy, realistyczne budynki oraz ciekawe postacie, które inspirują do kreatywności. A żeby zabawa była jeszcze ciekawsza, możesz połączyć ten zestaw z innymi z serii LEGO City (sprzedawanymi osobno). Weź klucz ze skrzynki narzędziowej i rozłóż na części dwa klasyki z lat 80. XX w. Następnie za pomocą dźwigu z chwytakiem podnieś je do zgniatarki i naciśnij dźwignię, aby zmienić je w kostki złomu. Niesamowite!
 
+**Galeria:**
+
+- 60472-1: https://a.allegroimg.com/original/05bb5d/ebcc50d04321b9d78ccdeb7e3dc7
+
 ---
 
-## 60473 — Lego City 60473 Wieża City
+## 60473 — Wieża City
 
-*Kategoria: City · cena Allegro (2026-08-17): 990.00 zł · EAN: 05702017824321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60473 |
+| Nazwa angielska | The City Tower |
+| Nazwa polska | Wieża City |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1941 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 49 cm × szer. 48 cm × gł. 44 cm |
+| EAN | 5702017824321 |
 
 **LEGO 60473 Wieża City**
 
@@ -15455,11 +23362,27 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 60473-1: https://a.allegroimg.com/original/11154c/dce7d4674430835895a5335d14cc
+
 ---
 
-## 60474 — Lego City 60474 Padok F1 Z Bolidami Vcarb I Sauber 6+ Nowy
+## 60474 — Padok F1 z bolidami VCARB i Sauber
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702017864440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60474 |
+| Nazwa angielska | F1 Grid with VCARB & Sauber Race Cars |
+| Nazwa polska | Padok F1 z bolidami VCARB i Sauber |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702017864440, 673419409704 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -15492,11 +23415,27 @@ Poczuj wyścigowe emocje dzięki temu zestawowi LEGO City F1, który świetnie s
 - Świat bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki pojazdom, budowlom i postaciom, które motywują do budowania, tworzenia, odkrywania i zabawy
 - Wymiary — bolid LEGO® F1® w tym 313-elementowym zestawie ma 3 cm wysokości, 14 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 60474-1: https://a.allegroimg.com/original/1168fb/b0332a21486295abc9b4b30fea86
+- 60474-2: https://a.allegroimg.com/original/115700/9bcf927b4e939cc5119f34caeb74
+
 ---
 
-## 60478 — Lego City betoniarka żółta ciężarówka budowlana 371 elementów 60478
+## 60478 — LEGO City 60478 Betoniarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 127.99 zł · EAN: 05702018056790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60478 |
+| Nazwa angielska | Cement Mixer |
+| Nazwa polska | LEGO City 60478 Betoniarka |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 371 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702018056790 |
 
 Fani zabawek budowlanych pokochają zestaw LEGO® City Betoniarka (60478) dla dzieci w wieku od 7 lat. Ten szczegółowy model betoniarki z 8 gumowymi oponami posiada duży bęben z systemem ślimakowym Archimedesa. Obracając pokrętłem, dzieci mogą mieszać beton LEGO, a następnie spuszczać go przez regulowany rynienkę zrzutową, tak jak podczas prawdziwego wylewania betonu. Ta duża ciężarówka ma również uchylną kabinę kierowcy, która umożliwia dostęp do silnika. Akcesoria obejmują taczkę, znak drogowy i 2 bariery, a także minifigurki kierowcy, pracownika budowlanego i architekta do realistycznej zabawy.
  
@@ -15518,11 +23457,26 @@ Aplikacja LEGO Builder zapewnia dzieciom pewność i wsparcie podczas budowania.
 - Liczba elementów: 371 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 60478-1: https://a.allegroimg.com/original/29bd75/0b37db9443e9a5cb2224eee869df
+
 ---
 
-## 60479 — Lego City 60479 Furgonetka policyjnego konwoju więziennego
+## 60479 — LEGO City 60479 Furgonetka policyjnego konwoju więziennego
 
-*Kategoria: City · cena Allegro (2026-08-17): 47.71 zł · EAN: 05702018031759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60479 |
+| Nazwa angielska | Police Prisoner Transport Van |
+| Nazwa polska | LEGO City 60479 Furgonetka policyjnego konwoju więziennego |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 198 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702018031759 |
 
 Przygotuj się na ekscytujące przygody z zestawem LEGO® City **Samochód policyjny do transportu więźniów** (60479) dla dzieci od 6 lat. Model wozu policyjnego ma wyrafinowaną kabinę kierowcy i celę więzienną z miejscem dla 2 przestępców. Dzieci mogą wyrwać drzwi celi za pomocą zabawki w postaci motocykla z łańcuchem i hakiem. Wystarczy dodać minifigurkę policjanta i 2 minifigurki przestępców, aby odtworzyć ekscytującą scenę z ucieczką z więzienia.
 
@@ -15553,11 +23507,26 @@ Aplikacja LEGO Builder zapewnia dzieciom bezpieczeństwo i wsparcie podczas budo
  
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60479-1: https://a.allegroimg.com/original/29cfc4/cec39d0d459bbe1109773141dc96
+
 ---
 
-## 60480 — Lego City 60480 Żółta ładowarka z koparką
+## 60480 — Żółta koparko-ładowarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 86.97 zł · EAN: 05702018056806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60480 |
+| Nazwa angielska | Yellow Backhoe Loader |
+| Nazwa polska | Żółta koparko-ładowarka |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 301 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702018056806 |
 
 LEGO City 60480 Żółta koparko-ładowarka
  
@@ -15579,11 +23548,26 @@ A dzięki aplikacji LEGO Builder dzieci mogą powiększać i obracać model w 3D
 - INTERAKTYWNE BUDOWANIE — dzięki aplikacji LEGO® Builder dzieci mogą cieszyć się intuicyjnym budowaniem. Mogą w niej przybliżać i obracać model w 3D oraz zapisywać postępy. 
 - WYMIARY — zestaw z 301 elementami obejmuje pojazd budowalny, który ma 10 cm wysokości, 28 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 60480-1: https://a.allegroimg.com/original/110150/3fc1de1b45ccb61e86ff807c36fc
+
 ---
 
-## 60481 — Lego City 60481 Lego City 60481 Pojazdy Ciężarówka policyjna
+## 60481 — LEGO City 60481 Pojazdy Ciężarówka policyjna
 
-*Kategoria: City · cena Allegro (2026-08-17): 25.89 zł · EAN: 05702018031766 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60481 |
+| Nazwa angielska | Rides – Police Truck |
+| Nazwa polska | LEGO City 60481 Pojazdy Ciężarówka policyjna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 71 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702018031766 |
 
 Rozpoutej akční policejní dobrodružství s miniaturní stavebnicí LEGO® City Autíčka – **Radiowóz policyjny** (60481) dla dzieci od 5 lat. Ten składany radiowóz policyjny ma stylowe felgi, niskoprofilowe opony gumowe, zderzak, kraty więzienne i światła ostrzegawcze, oferując małym konstruktorom zabawny sposób na odkrywanie świata LEGO City. Zestaw zawiera również minifigurkę młodego policjanta LEGO City Autíčka, która idealnie pasuje do kabiny kierowcy, zapewniając dzieciom godziny zabawy w policjantów.
  
@@ -15605,11 +23589,26 @@ Dzieci będą cieszyć się budowaniem modelu LEGO City Autíčka – Radiowóz 
 - Liczba elementów: 71 
 - Odpowiednie dla dzieci od 5 lat.
 
+**Galeria:**
+
+- 60481-1: https://a.allegroimg.com/original/29bef3/4cbd4e7b4e8b9205757f8a34b138
+
 ---
 
-## 60483 — Klocki Lego City 60483 Pojazdy Ładowarka Kołowa Dla Dziecka
+## 60483 — LEGO City 60483 Samochody – Ładowarka budowlana
 
-*Kategoria: City · cena Allegro (2026-08-17): 30.50 zł · EAN: 05702018031889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60483 |
+| Nazwa angielska | Rides – Construction Loader |
+| Nazwa polska | LEGO City 60483 Samochody – Ładowarka budowlana |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 61 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018031889 |
 
 Lego
 
@@ -15654,11 +23653,27 @@ Specyfikacja zestawu
 - **Liczba elementów:** 61
 - **Postacie:** 1 minifigurka pracownika budowlanego
 
+**Galeria:**
+
+- 60483-1: https://a.allegroimg.com/original/29d17d/9b9ceeec4347b4597411fafd3f9f
+
 ---
 
-## 60484 — Lego 60484 City Pojazdy Gamingowa Wyścigówka
+## 60484 — Pojazdy — gamingowa wyścigówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 31.00 zł · EAN: 05702018031896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60484 |
+| Nazwa angielska | Rides – Gaming Race Car |
+| Nazwa polska | Pojazdy — gamingowa wyścigówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 64 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018031896 |
 
 LEGO 60484 City Pojazdy Gamingowa wyścigówka
 
@@ -15676,11 +23691,26 @@ Indeks: 2098712
 
 Prosty w budowie modelPodaruj małym automaniakom w wieku od pięciu lat zestaw LEGO City Pojazdy Gamingowa wyścigówka (60484). Zaprojektowany z myślą o kreatywnej zabawie mały model wyścigówki z dużymi gumowymi oponami, kokpitem kierowcy i płonącą rurą wydechową stanowi doskonałe wprowadzenie do kreatywnego świata LEGO City. Zestaw składa się z 64 elementów i jest przeznaczony dla dzieci powyżej 5 roku życia.
 
+**Galeria:**
+
+- 60484-1: https://a.allegroimg.com/original/11d9aa/6e5a62474b809a487acc201b403b
+
 ---
 
-## 60485 — Lego City 60485 Hot Rod
+## 60485 — LEGO City 60485 Hot rod
 
-*Kategoria: City · cena Allegro (2026-08-17): 28.89 zł · EAN: 05702018031902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60485 |
+| Nazwa angielska | Hot Rod |
+| Nazwa polska | LEGO City 60485 Hot rod |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 81 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm |
+| EAN | 5702018031902 |
 
 Mali miłośnicy samochodów wyścigowych od 5 lat mogą wyruszyć na superszybkie wyścigi z samochodzikiem LEGO® City **Hot rod** (60485). Ten zestaw samochodowy zachwyci małych budowniczych dzięki wyrafinowanym elementom wyścigowym, w tym ogromnym tylnym oponom, kokpitowi kierowcy z podnoszonym dachem i wspaniałemu fioletowemu kolorowi z neonowymi zielonymi płomieniami. Wystarczy dodać minifigurkę kierowcy, aby rozpocząć superszybką jazdę!
 
@@ -15711,21 +23741,51 @@ Dzieci będą cieszyć się budowaniem modelu LEGO Hot rodu z intuicyjną aplika
  
 - Odpowiednie dla dzieci od 5 lat
 
+**Galeria:**
+
+- 60485-1: https://a.allegroimg.com/original/291d5e/ed9f6f4e46bfad2bb21f33c95687
+
 ---
 
-## 60486 — Lego City 60486 Supersamochód elektryczny
+## 60486 — LEGO City 60486 Supersamochód elektryczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 32.29 zł · EAN: 05702018031919 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60486 |
+| Nazwa angielska | EV Supercar |
+| Nazwa polska | LEGO City 60486 Supersamochód elektryczny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 109 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018031919 |
 
 LEGO City 60486 Supersamochód elektryczny
 
 Wyrusz do LEGO® City superfajnym supersamochodem elektrycznym. Ten opływowy samochód sportowy z pewnością przyciągnie uwagę dzięki aerodynamicznemu kształtowi, przyciemnianej osłonie kokpitu i efektownej czerwono-czarnej kolorystyce. Następnie usiądź na fotelu kierowcy, chwyć kierownicę i przygotuj się na emocje. To będzie szybka jazda!
 
+**Galeria:**
+
+- 60486-1: https://a.allegroimg.com/original/0511f5/d543862a401e8cc8e63838c46485
+
 ---
 
-## 60487 — Lego City 60487 Żółta taksówka
+## 60487 — LEGO City 60487 Żółta taksówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 39.98 zł · EAN: 05702018031926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60487 |
+| Nazwa angielska | Yellow Taxi |
+| Nazwa polska | LEGO City 60487 Żółta taksówka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 122 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702018031926 |
 
 Dzieci w wieku od 5 lat, które kochają samochody i klocki, będą się podwójnie dobrze bawić dzięki zestawowi konstrukcyjnemu LEGO® City **Żółta taksówka** (60487). Ten zabawny zestaw zawiera nowoczesną, elektryczną żółtą taksówkę z otwieranym bagażnikiem na bagaże i podnoszoną maską, która odsłania model silnika elektrycznego. Model samochodu zawiera nadrukowane naklejki, w tym ekran GPS, logo taksówki, reklamę na dachu i baterie. Dzieci mogą również zdjąć dach i włożyć do środka minifigurki taksówkarza i turystów, z którymi będą się bawić i tworzyć historie.
  
@@ -15747,11 +23807,26 @@ Dzieci będą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builde
 - Liczba elementów: 122 
 - Odpowiednie dla dzieci od 5 lat
 
+**Galeria:**
+
+- 60487-1: https://a.allegroimg.com/original/29c8a8/298ded5042ab81edf3b70d398648
+
 ---
 
-## 60488 — Lego City 60488 Food truck z frytkami
+## 60488 — LEGO City 60488 Food truck z frytkami
 
-*Kategoria: City · cena Allegro (2026-08-17): 53.07 zł · EAN: 05702018056813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60488 |
+| Nazwa angielska | Fries Food Truck |
+| Nazwa polska | LEGO City 60488 Food truck z frytkami |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 216 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702018056813 |
 
 Sprzedawaj frytki z zestawem LEGO® City **Przekąski mobilne z frytkami** (60488) dla dzieci od 5 lat. Kolorowe stoisko z fast foodami ma zdejmowany kiosk w kształcie gigantycznego pudełka z frytkami. Dzieci mogą zdjąć dach, aby dostać się do wyrafinowanej przestrzeni do przygotowywania posiłków, w której znajdą frytkownicę, przyprawy i przesuwane okienko do podawania posiłków. Model jezdnego fast foodu ma również otwieraną maskę z modelem silnika, a także minifigurkę sprzedawcy i klienta.
  
@@ -15773,11 +23848,27 @@ Dzieci mogą pewnie budować model mobilnych przekąsek dzięki aplikacji LEGO B
 - Liczba elementów: 216 
 - Nadaje się dla dzieci od 5 lat
 
+**Galeria:**
+
+- 60488-1: https://a.allegroimg.com/original/29f64a/1878305f4a66a23614da0c81783e
+
 ---
 
-## 60489 — Klocki Lego City 60489 Odrzutowiec kontra samochód 259 elementów
+## 60489 — Odrzutowiec kontra samochód
 
-*Kategoria: City · cena Allegro (2026-08-17): 88.43 zł · EAN: 05702018056820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60489 |
+| Nazwa angielska | Jet vs. Car |
+| Nazwa polska | Odrzutowiec kontra samochód |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 259 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm × gł. 13 cm |
+| EAN | 5702018056820 |
 
 Podwójny zestaw konstrukcyjny LEGO® City **Myśliwiec kontra samochód** (60489) zawiera stylowy supersamochód i naddźwiękowy samolot, które zapewnią małym konstruktorom godziny wyścigowej zabawy. Model myśliwca ma skrzydła o profilu strzałki, podwójne pionowe stateczniki i stabilizatory. Dzieci mogą włączyć dopalanie myśliwca, przesuwając dźwignię, i otworzyć kokpit supersamochodu, aby przyjrzeć się szczegółowemu wnętrzu z fotelem wyścigowym. Umieść minifigurki pilota i kierowcy wyścigowego i rozpocznij ekscytujące wyścigi.
  
@@ -15799,11 +23890,27 @@ Ten zestaw pojazdów LEGO zawiera samochód sportowy i samolot odrzutowy. Dzieci
 - Liczba elementów: 259 
 - Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60489-1: https://a.allegroimg.com/original/2923f2/3dd9abc24f74bbbfcb3765ecbdd4
+
 ---
 
-## 60490 — Lego City 60490 Pług śnieżny 263 el. 6+ zestaw
+## 60490 — Pług śnieżny
 
-*Kategoria: City · cena Allegro (2026-08-17): 65.10 zł · EAN: 05702018056592 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60490 |
+| Nazwa angielska | Snowplow |
+| Nazwa polska | Pług śnieżny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 263 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702018056592 |
 
 Zestaw LEGO® City **Pług śnieżny** (60490) dla dzieci w wieku od 6 lat to idealny prezent dla małych bohaterów. Dzieci mogą przechylać, podnosić i opuszczać przedni pług, ładować elementy LEGO imitujące sól do zasobnika i pchać pojazd, aby aktywować funkcję rozsypywania soli. Ta ciężarówka ma również dwumiejscową kabinę, którą można odchylić, aby uzyskać dostęp do silnika, boczne schowki na elementy soli oraz zaczepy do mocowania narzędzi. Dodaj minifigurkę kierowcy i rozpocznij ekscytujące przygody związane z odśnieżaniem.
  
@@ -15825,11 +23932,27 @@ Dzieci będą cieszyć się budowaniem modelu pojazdu LEGO dzięki intuicyjnej a
 - Liczba elementów: 263 
 - Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60490-1: https://a.allegroimg.com/original/29dc88/6b8a06304f7f88461dee500ec9ad
+
 ---
 
-## 60491 — Lego City 60491 Laweta dla motocykli
+## 60491 — Laweta dla motocykli
 
-*Kategoria: City · cena Allegro (2026-08-17): 48.14 zł · EAN: 05702018056608 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60491 |
+| Nazwa angielska | Motorcycle Transporter |
+| Nazwa polska | Laweta dla motocykli |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 88 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702018056608 |
 
 Wprowadź dzieci w świat kreatywnej zabawy od 4. roku życia dzięki zestawowi LEGO® City **Ciężarówka do przewozu motocykli **(60491). Ten zestaw z pojazdami zawiera ciężarówkę z platformą i masywnymi gumowymi oponami, 2 motocykle sportowe oraz 2 minifigurki kierowców w kaskach. Dzieci mogą używać rampy do ładowania i rozładowywania motocykli, brać udział w ekscytujących wyścigach motocyklowych z minifigurką w kabinie i cieszyć się zabawnymi przygodami na drodze.
  
@@ -15851,11 +23974,26 @@ Zestaw to świetny prezent urodzinowy lub na każdą inną okazję dla dzieci, k
 - Liczba elementów: 88 
 - Odpowiednie dla dzieci od 4 lat
 
+**Galeria:**
+
+- 60491-1: https://a.allegroimg.com/original/2977fa/b3aefa544c42b8df039d9f2ea330
+
 ---
 
-## 60492 — Lego City 60492 Samolot transportowy
+## 60492 — Samolot pasażerski
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.39 zł · EAN: 05702018056837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60492 |
+| Nazwa angielska | Passenger Jet |
+| Nazwa polska | Samolot pasażerski |
+| Seria | City |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 118 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm |
+| EAN | 5702018056837 |
 
 LEGO City 60492 Samolot pasażerski
  
@@ -15875,11 +24013,27 @@ Ten lotniczy zestaw konstrukcyjny został zaprojektowany, aby pomóc dzieciom ro
 - POMOCNA DŁOŃ — ta kreatywna zabawka edukacyjna zawiera klocek startowy i proste instrukcje obrazkowe, które są idealne dla młodych konstruktorów, a także intuicyjne wskazówki cyfrowe w aplikacji LEGO® Builder. 
 - WYMIARY — ten 118-elementowy zestaw LEGO® z modelem samolotu ma 10 cm wysokości, 27 cm długości i 20 cm szerokości.
 
+**Galeria:**
+
+- 60492-1: https://a.allegroimg.com/original/119475/14bc0a6d446182ae099d94aa206a
+
 ---
 
-## 60493 — Lego City 60493 ciężarówka F1 z bolidem Audi F1
+## 60493 — Ciężarówka F1 z bolidem Audi
 
-*Kategoria: City · cena Allegro (2026-08-17): 138.88 zł · EAN: 05702018056844 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60493 |
+| Nazwa angielska | F1 Display Truck with Audi F1 Race Car |
+| Nazwa polska | Ciężarówka F1 z bolidem Audi |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 508 |
+| Cena katalogowa | 189.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702018056844 |
 
 **LEGO City 60493 Ciężarówka F1 z bolidem Audi F1**
 
@@ -15900,11 +24054,26 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - Wymiary — ciężarówka w tym 508-elementowym zestawie LEGO® City ma 8 cm wysokości, 24 cm długości i 7 cm szerokości. 
 - Miasto bez granic — LEGO® City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki pojazdom, budowlom i postaciom, które motywują do budowania, tworzenia, odkrywania i zabawy.
 
+**Galeria:**
+
+- 60493-1: https://a.allegroimg.com/original/118e80/7deab8574163a594fc470fda9390
+
 ---
 
-## 60494 — Lego City 60494 Wywrotka i ładowarka czołowa
+## 60494 — Wywrotka i ładowarka czołowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702018056851 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60494 |
+| Nazwa angielska | Dump Truck & Front End Loader |
+| Nazwa polska | Wywrotka i ładowarka czołowa |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1132 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 10 cm |
+| EAN | 5702018056851 |
 
 LEGO City 60494 Wywrotka i ładowarka czołowa
  
@@ -15926,21 +24095,52 @@ Zabierz dzieci w kreatywną podróż dzięki aplikacji LEGO Builder, w której m
 - CYFROWE INSTRUKCJE — aplikacja LEGO® Builder zabiera dzieci w kreatywną podróż, podczas której mogą powiększać i obracać modele w 3D oraz śledzić i zapisywać swoje postępy podczas budowania. 
 - WYMIARY — model wywrotki w tym 1132-elementowym zestawie LEGO® City ma 10 cm wysokości, 29 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 60494-1: https://a.allegroimg.com/original/1168cc/7ab35ead4eb69b4590d6026b2410
+
 ---
 
-## 60495 — Lego City 60495 Ciężarówka recyklingowa
+## 60495 — Ciężarówka recyklingowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 177.28 zł · EAN: 05702018056868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60495 |
+| Nazwa angielska | Recycling Truck |
+| Nazwa polska | Ciężarówka recyklingowa |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 434 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056868 |
 
 LEGO City 60495 Ciężarówka recyklingowa
 
 Zestaw konstrukcyjny LEGO® City Ciężarówka recyklingowa (60495) jest pełen realistycznych detali, które pobudzają wyobraźnię podczas zabawy. Zabawkowa ciężarówka ma przegrodę do sortowania elementów LEGO imitujących szkło i papier, a także klipsy do przechowywania narzędzi i szczegółową kabinę kierowcy. Dzieci mogą przechylić kabinę, aby obejrzeć imitację silnika elektrycznego, nacisnąć dźwignię, aby podnieść i opróżnić dwa kontenery do ciężarówki, a także podnieść pojemnik, aby wysypać posortowane odpady przez jedną z dwóch tylnych klap. Wystarczy tylko dodać minifigurki kierowcy oraz pracownika i można zaczynać! Ten szczegółowy zestaw z modelem ciężarówki to świetny prezent dla siedmioletnich i starszych chłopców i dziewczynek, którzy uwielbiają interaktywne zabawki do kreatywnej zabawy. Dodaj go do innych zestawów LEGO City (sprzedawanych osobno), aby przeżyć jeszcze więcej przygód. Dzięki zestawowi LEGO Ciężarówka recyklingowa dzieci mogą cieszyć się intuicyjnym budowaniem w aplikacji LEGO Builder, powiększając i obracając elementy za pomocą instrukcji 3D, a także zapisując i śledząc postępy podczas budowania. Zestaw składa się z 434 elementów.
 
+**Galeria:**
+
+- 60495-1: https://a.allegroimg.com/original/11d92f/3bf3b65f4253a246f227d5c0824b
+
 ---
 
-## 60496 — Lego City 60496 Dostawa pizzy z pojazdami
+## 60496 — Dostawa pizzy z pojazdami
 
-*Kategoria: City · cena Allegro (2026-08-17): 159.26 zł · EAN: 05702018056875 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60496 |
+| Nazwa angielska | Pizza Delivery Experience with Vehicles |
+| Nazwa polska | Dostawa pizzy z pojazdami |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 494 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 27 cm × gł. 12 cm |
+| EAN | 5702018056875 |
 
 Ta zabawkowa pizzeria, wyposażona w miejsce do przygotowywania jedzenia i jadalnię, jest pełna funkcji dla dzieci, które uwielbiają zabawę w restaurację oraz zabawkowe pojazdy. Obróć pokrętło i zobacz, jak płomienie migoczą, gdy pizza trafia do pieca opalanego drewnem. Następnie naciśnij dźwignię, aby uruchomić sportowy samochód dostawczy z płomieniami, który wystrzeliwuje pizzę z maski.
  
@@ -15958,11 +24158,26 @@ A dzięki aplikacji LEGO Builder dzieci mogą zyskać pewność siebie, powięks
 - POMOCNA DŁOŃ W BUDOWANIU — aplikacja LEGO® Builder zabiera dzieci w kreatywną podróż, podczas której mogą powiększać i obracać modele w 3D oraz śledzić i zapisywać swoje postępy podczas budowania. 
 - WYMIARY — model pizzerii w tym 494-elementowym zestawie LEGO® City ma 16 cm wysokości, 27 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 60496-1: https://a.allegroimg.com/original/11db1e/94ff89b448b7aafd0e7cdbe729f3
+
 ---
 
-## 60497 — Lego City 60497 Automatyczna myjnia samochodowa
+## 60497 — Automatyczna myjnia samochodowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 175.98 zł · EAN: 05702018056882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60497 |
+| Nazwa angielska | Drive-Through Car Wash |
+| Nazwa polska | Automatyczna myjnia samochodowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 583 |
+| Cena katalogowa | 234.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702018056882 |
 
 LEGO City 60497 Automatyczna myjnia samochodowa
  
@@ -15982,11 +24197,26 @@ Zabierz dzieci w kreatywną podróż dzięki intuicyjnej aplikacji LEGO® Builde
 - INTERAKTYWNE INSTRUKCJE — aplikacja LEGO® Builder poprowadzi dzieci przez cyfrowe budowanie. Mogą w niej oglądać modele w 3D oraz śledzić postępy. 
 - WYMIARY — myjnia samochodowa w tym 583-elementowym zestawie ma 13 cm wysokości, 19 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 60497-1: https://a.allegroimg.com/original/29747b/1a9ed49b4875af1c025e8c04d373
+
 ---
 
-## 60498 — Lego City Traktor 60498
+## 60498 — LEGO City Traktor 60498, zestaw konstrukcyjny z minifigurką
 
-*Kategoria: City · cena Allegro (2026-08-17): 43.92 zł · EAN: 05702018031933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60498 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | LEGO City Traktor 60498, zestaw konstrukcyjny z minifigurką |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 204 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702018031933 |
 
 Zestaw LEGO® City **Traktor **(60498) dla dzieci od 6 lat w pełni rozbudzi dziecięcą wyobraźnię. Wyrafinowany pojazd rolniczy szczyci się świeżym niebiesko-zielonym kolorem i 4 dużymi gumowymi oponami. Mali budowniczowie mogą zdjąć dach kabiny, posadzić w środku minifigurkę rolnika, otworzyć maskę, aby sprawdzić silnik, i wyruszyć na ekscytujące przygody na wsi.
 
@@ -16017,11 +24247,26 @@ Dzieci będą cieszyć się budowaniem modelu LEGO Traktor z intuicyjną aplikac
  
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60498-1: https://a.allegroimg.com/original/299442/ce0ad25049ddadbb300cc9b35327
+
 ---
 
-## 60499 — Lego City 60499 Lotniskowy wóz strażacki, samochód, auto
+## 60499 — LEGO City 60499 Lotniskowy wóz strażacki
 
-*Kategoria: City · cena Allegro (2026-08-17): 228.03 zł · EAN: 05702018056899 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60499 |
+| Nazwa angielska | Airport Fire Truck |
+| Nazwa polska | LEGO City 60499 Lotniskowy wóz strażacki |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 691 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 8 cm |
+| EAN | 5702018056899 |
 
 LEGO City 60499 Lotniskowy wóz strażacki
 
@@ -16040,11 +24285,26 @@ Dzieci mogą budować z pewnością siebie, korzystając z aplikacji LEGO Builde
 - Akcesoria dla minifigurek — ten zestaw strażacki zawiera akcesoria LEGO®, w tym hełmy strażackie, klucz i cyfrową klawiaturę.
 - Wymiary — lotniskowy wóz strażacki w tym 691-elementowym zestawie LEGO® ma 11 cm wysokości, 31 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 60499-1: https://a.allegroimg.com/original/29f84f/b3b8626d4db29a46f136ad98562a
+
 ---
 
-## 60500 — Lego City 60500 Dostawczak Lego
+## 60500 — city furgonetka
 
-*Kategoria: City · cena Allegro (2026-08-17): 79.36 zł · EAN: 05702018056905 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60500 |
+| Nazwa angielska | The LEGO Van |
+| Nazwa polska | city furgonetka |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 276 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702018056905 |
 
 Ciesz się niekończącymi się godzinami zabawy dzięki zestawowi LEGO® City **Furgonetka LEGO** (60500) dla dzieci w wieku od 6 lat. Dzieci mogą opuszczać boczne ściany furgonetki, aby uzyskać dostęp do przestrzeni ładunkowej, podnosić maskę, aby zajrzeć do silnika, i otwierać tylne drzwi. Zestaw zawiera również wózek ręczny, paletę z 4 miniaturowymi pudełkami LEGO oraz minifigurki kierowcy i pracownika, które zapewnią żywą i kreatywną zabawę.
 
@@ -16075,11 +24335,26 @@ Dzieci będą cieszyć się budowaniem modelu furgonetki LEGO dzięki intuicyjne
  
 - Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 60500-1: https://a.allegroimg.com/original/297393/331949384dacbbb5a06f944d1864
+
 ---
 
-## 60501 — Lego City Park rollercoasterów Lava Land 60501
+## 60501 — Park rollercoasterów Lava Land
 
-*Kategoria: City · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702018056912 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60501 |
+| Nazwa angielska | Lava Land Roller Coaster Park |
+| Nazwa polska | Park rollercoasterów Lava Land |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1165 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056912 |
 
 **LEGO City Park rollercoasterów Lava Land 60501**
 
@@ -16103,11 +24378,26 @@ Spraw, aby budowanie było przyjemnością dzięki aplikacji LEGO® Builder
 
 Model rollercoastera LEGO® w tym 1165-elementowym zestawie ma 54 cm szerokości
 
+**Galeria:**
+
+- 60501-1: https://a.allegroimg.com/original/1176d6/902c877e4608996b2886aabb8b2c
+
 ---
 
-## 60502 — Lego City 60502 Lotnisko z samolotem
+## 60502 — LEGO City 60502 Lotnisko z samolotem
 
-*Kategoria: City · cena Allegro (2026-08-17): 308.59 zł · EAN: 05702018056929 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60502 |
+| Nazwa angielska | Airport with Airplane |
+| Nazwa polska | LEGO City 60502 Lotnisko z samolotem |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 887 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 28 cm × szer. 37 cm × gł. 24 cm |
+| EAN | 5702018056929 |
 
 Dziecięca wyobraźnia może wznieść się na wyżyny dzięki zestawowi LEGO® City **Lotnisko z samolotem** (60502) dla dzieci od 8 lat. Ten szczegółowy model lotniska jest pełen elementów i funkcji do ożywienia zabawy. Dzieci mogą sprawdzać bagaż za pomocą skanera, obracać wykrywaczem metali, aby odkryć prześwietlenie szkieletu, i zmieniać tablicę odlotów, wybierając spośród 4 miejsc docelowych. Zestaw zawiera również stylowy samolot pasażerski z dopracowaną kabiną i składanymi schodami, ciągnik lotniskowy i rękaw. Wystarczy dodać 9 minifigurek i rozpocząć godziny pomysłowej zabawy.
  
@@ -16129,11 +24419,26 @@ Połączcie się z przyjaciółmi lub rodziną i skorzystajcie z trybu Buduj raz
 - Liczba elementów: 887 
 - Odpowiednie dla dzieci od 8 lat
 
+**Galeria:**
+
+- 60502-1: https://a.allegroimg.com/original/29a415/e3b28f354d0492782730a8efe264
+
 ---
 
-## 60503 — Lego City Helikopter straży przybrzeżnej 60503
+## 60503 — LEGO City 60503 Helikopter straży przybrzeżnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 195.74 zł · EAN: 05702018056936 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60503 |
+| Nazwa angielska | Coast Guard Helicopter |
+| Nazwa polska | LEGO City 60503 Helikopter straży przybrzeżnej |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 551 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056936 |
 
 **LEGO City Helikopter straży przybrzeżnej 60503**
 
@@ -16159,11 +24464,26 @@ Połącz z innymi zestawami konstrukcyjnymi pojazdów LEGO® City (sprzedawanymi
 
 Czerwony helikopter w tym 551-elementowym zestawie ma 38 cm długości
 
+**Galeria:**
+
+- 60503-1: https://a.allegroimg.com/original/116da0/31ea00e8410180f1b2e780b5a904
+
 ---
 
-## 60504 — 60504 Lego City Łódź ratunkowa i helikopter straży przybrzeżnej
+## 60504 — LEGO City Łódź ratunkowa i helikopter straży przybrzeżnej 60504
 
-*Kategoria: City · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702018056943 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60504 |
+| Nazwa angielska | Coast Guard Rescue Boat & Helicopter |
+| Nazwa polska | LEGO City Łódź ratunkowa i helikopter straży przybrzeżnej 60504 |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 742 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056943 |
 
 Dzieci w wieku od 7 lat wyruszą na oceaniczną przygodę z zestawem LEGO® City Łódź ratunkowa i helikopter straży przybrzeżnej (60504). Pływający statek oferuje szereg funkcji i elementów, w tym zdejmowane warstwy pokładu, które zapewniają dzieciom łatwy dostęp do mostka, kabin i kambuza. Dzieci mogą zwodować łódź ratunkową z rampy lub wzbić się w powietrze w fajnym helikopterze, który czeka na pokładzie na lądowisku. W zestawie znajduje się również druga łódź, płomienie LEGO, 5 minifigurek i figurka psa, co pozwala na pomysłowe odgrywanie historii. Wszystkie 3 łodzie unoszą się na wodzie.
 
@@ -16171,11 +24491,26 @@ Ten model pojazdu ratunkowego to świetna niespodzianka lub prezent urodzinowy d
 
 Dzieci będą się świetnie bawić, budując model LEGO za pomocą intuicyjnej aplikacji LEGO Builder, która pozwala powiększać i obracać model w 3D, a także zapisywać i śledzić postępy budowy. Zestaw zawiera 742 elementy.
 
+**Galeria:**
+
+- 60504-1: https://a.allegroimg.com/original/110ecb/be8374864605a77ce00c25468670
+
 ---
 
-## 60505 — Lego City 60505 Zestaw z samolotem, ciężarówką serwisową i poduszkowcem
+## 60505 — LEGO City 60505 Zestaw z samolotem, ciężarówką serwisową i poduszkowcem
 
-*Kategoria: City · cena Allegro (2026-08-17): 215.99 zł · EAN: 05702018056950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60505 |
+| Nazwa angielska | Airplane, Service Truck & Hovercraft Remix |
+| Nazwa polska | LEGO City 60505 Zestaw z samolotem, ciężarówką serwisową i poduszkowcem |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 990 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702018056950 |
 
 **KARTON NIE JEST IDEALNY MA LEKKIE WGNIECENIA JAK NA ZDJ NR 2-5.**
 
@@ -16199,11 +24534,26 @@ Dzieci będą cieszyć się budowaniem modelu samolotu, poduszkowca i pojazdu LE
 - Liczba elementów: 990 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 60505-1: https://a.allegroimg.com/original/29a4b6/51f7b9814da8ac9ceefbdb6e4b4f
+
 ---
 
-## 60506 — Lego City 60506 Historyczna tramwaj plażowa
+## 60506 — Tramwaj przy plaży
 
-*Kategoria: City · cena Allegro (2026-08-17): 219.48 zł · EAN: 05702018056967 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60506 |
+| Nazwa angielska | Classic Beach Tram |
+| Nazwa polska | Tramwaj przy plaży |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 693 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702018056967 |
 
 LEGO City 60506 Tramwaj przy plaży
  
@@ -16225,11 +24575,26 @@ A dzięki aplikacji LEGO Builder dzieci mogą budować z większą pewnością s
 - INTERAKTYWNE INSTRUKCJE — aplikacja LEGO® Builder poprowadzi dzieci przez cyfrowe budowanie. Mogą w niej przybliżać i obracać modele dzięki trójwymiarowym instrukcjom oraz śledzić postępy. 
 - WYMIARY — model pojazdu w tym 693-elementowym zestawie ma 9 cm wysokości, 22 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60506-1: https://a.allegroimg.com/original/113a84/0dae47ca4d3e8d16b6d3f74edf0e
+
 ---
 
-## 60508 — 60508 Lego City Napad na policyjny pociąg Zestaw Klocki Lego
+## 60508 — LEGO City 60508 Napad na policyjny pociąg
 
-*Kategoria: City · cena Allegro (2026-08-17): 636.99 zł · EAN: 05702018056974 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60508 |
+| Nazwa angielska | Police Train Heist |
+| Nazwa polska | LEGO City 60508 Napad na policyjny pociąg |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1313 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702018056974 |
 
 **LEGO City 60508 Napad na policyjny pociąg**
 
@@ -16248,11 +24613,26 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - Ciekawy sposób na budowanie — aplikacja LEGO® Builder poprowadzi konstruktorów przez cyfrowe budowanie. Mogą w niej przybliżać i obracać modele dzięki trójwymiarowym instrukcjom oraz śledzić postępy i zapisywać zestawy.
 - Wymiary — lokomotywa z trzema wagonami platformowymi w tym 1313-elementowym zestawie LEGO® City ma 9 cm wysokości, 80 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 60508-1: https://a.allegroimg.com/original/11ac6a/6054cc884376977652df0fccaa7d
+
 ---
 
-## 60509 — Klocki Lego City 60509 Portowy pociąg towarowy, dźwig i ciężarówka
+## 60509 — Portowy pociąg towarowy, dźwig i ciężarówka
 
-*Kategoria: City · cena Allegro (2026-08-17): 386.00 zł · EAN: 05702018056615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60509 |
+| Nazwa angielska | Harbor Freight Train with Crane & Truck |
+| Nazwa polska | Portowy pociąg towarowy, dźwig i ciężarówka |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 803 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702018056615 |
 
 LEGO® City 60509 -Portowy pociąg towarowy, dźwig i ciężarówka
  
@@ -16272,11 +24652,27 @@ Cztery kontenery zawierają zabawkową chłodnię z dwoma rożkami do lodów, pu
 - WPRAW POCIĄG W RUCH — możesz także dodać zestaw LEGO® Power Functions (sprzedawany oddzielnie), aby wprawić w ruch lokomotywę i sterować nią za pomocą aplikacji Powered Up lub pilota, co poszerzy możliwości zabawy 
 - WYMIARY — model pociągu z lokomotywą i dwoma wagonami platformowymi w tym 803-elementowym zestawie ma 10 cm wysokości, 53 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 60509-1: https://a.allegroimg.com/original/111064/10d0a70543eda9657d8e3e0d26ee
+
 ---
 
-## 60510 — * Lego City Kalendarz adwentowy na 2026 rok 60510
+## 60510 — LEGO City Kalendarz adwentowy na 2026 rok
 
-*Kategoria: City · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702018056783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60510 |
+| Nazwa angielska | City Advent Calendar 2026 |
+| Nazwa polska | LEGO City Kalendarz adwentowy na 2026 rok |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 252 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056783 |
 
 LEGO CITY - Kalendarz adwentowy na 2026 rok 60510
  
@@ -16304,11 +24700,26 @@ Dzieci mogą również łączyć zabawki do zbudowania, akcesoria i minifigurki 
 - Więcej zestawów do odkrycia - podaruj dzieciom więcej zabawy i przygód, łącząc zabawki z kalendarza z innymi zestawami z serii LEGO City (sprzedawanymi osobno) 
 - Twoje City bez limitów - LEGO City to miejsce, gdzie dzieci mogą puścić wodze fantazji dzięki pojazdom, budowlom i postaciom, które motywują do budowania, tworzenia, odkrywania i zabawy
 
+**Galeria:**
+
+- 60510-1: https://a.allegroimg.com/original/11f79e/f9aa45884346be242f260c31478e
+
 ---
 
-## 60511 — Lego City 60511 Parowóz w stylu vintage
+## 60511 — Retro pociąg z lokomotywą parową
 
-*Kategoria: City · cena Allegro (2026-08-17): 261.98 zł · EAN: 05702018067949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60511 |
+| Nazwa angielska | Vintage Steam Train |
+| Nazwa polska | Retro pociąg z lokomotywą parową |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 575 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702018067949 |
 
 LEGO City 60511 Retro pociąg z lokomotywą parową
  
@@ -16332,21 +24743,51 @@ Zabierz dzieci w kreatywną podróż dzięki aplikacji LEGO® Builder, w której
 - WPRAW POCIĄG W RUCH — możesz także dodać zestaw LEGO® Power Functions (sprzedawany oddzielnie), aby wprawić w ruch lokomotywę i sterować nią za pomocą aplikacji Powered Up lub pilota, co poszerzy możliwości zabawy. 
 - WYMIARY — pociąg w tym 575-elementowym zestawie ma 9 cm wysokości, 45 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 60511-1: https://a.allegroimg.com/original/110e27/6f43fd754dcab44e6e47cac77b05
+
 ---
 
-## 60512 — Lego 60512 City Furgonetka z rowerami górskimi
+## 60512 — Furgonetka z rowerami górskimi
 
-*Kategoria: City · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702018067956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60512 |
+| Nazwa angielska | Mountain Bike Adventure Van |
+| Nazwa polska | Furgonetka z rowerami górskimi |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 260 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067956 |
 
 Klocki LEGO City 60512 - Furgonetka z rowerami górskimi
 
 Dzieci mogą wybrać się tam, gdzie poniesie je wyobraźnia, dzięki zestawowi LEGO® City Furgonetka z rowerami górskimi (60512) dla chłopców i dziewczynek w wieku od 7 lat. Samochód ma wszystko, co potrzebne do rozpoczęcia przygody na łonie natury — grube gumowe opony, otwierane tylne drzwi i przesuwane boczne drzwi ułatwiające dostęp do przestrzeni ładunkowej. Młodzi poszukiwacze przygód mogą złożyć bagażnik rowerowy, zamocować dwa rowery górskie, załadować skrzynkę z narzędziami i wyruszyć w góry. Zestaw zawiera również dwie minifigurki oraz akcesoria, takie jak kaski rowerowe, stojak do naprawy rowerów, klucz, zapasową oponę i pompkę, które zapewnią wiele godzin zabawy w odgrywanie ról. Ten pełen akcji zestaw konstrukcyjny, przeznaczony dla chłopców i dziewczynek, którzy uwielbiają zabawkowe pojazdy i rowery górskie, stanowi świetny prezent na każdą okazję. Zabierz dzieci w kreatywną podróż dzięki aplikacji LEGO® Builder, w której mogą powiększać i obracać modele w 3D oraz śledzić swoje postępy podczas budowania. Zestaw składa się z 260 elementów.
 
+**Galeria:**
+
+- 60512-1: https://a.allegroimg.com/original/11e7c0/c1e0994f45b48aa3edd02cecc3b9
+
 ---
 
-## 6318 — Lego Town 6318 Kwiaty, drzewa i płoty
+## 6318 — KWIATY, DRZEWA, PŁOTY
 
-*Kategoria: City · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702010963188 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6318 |
+| Nazwa angielska | Flowers, Trees and Fences |
+| Nazwa polska | KWIATY, DRZEWA, PŁOTY |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1996 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010963188 |
 
 Podstawowe informacje
 
@@ -16375,11 +24816,26 @@ Zestaw **LEGO 6318 – Flowers, Trees and Fences** to niewielka, lecz inspirują
 
 .
 
+**Galeria:**
+
+- 6318-1: https://a.allegroimg.com/original/119dfa/c23b1b784776960c565de9c2551a
+
 ---
 
-## 6400 — Lego 6400 Gokart Nowy
+## 6400 — Miniaturowa laweta
 
-*Kategoria: City · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702012006234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6400 |
+| Nazwa angielska | Go-Kart |
+| Nazwa polska | Miniaturowa laweta |
+| Seria | miasto |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012006234 |
 
 Zestaw "Gokart" z LEGO Town/City, numer katalogowy 6400.
 
@@ -16393,11 +24849,26 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 6400-1: https://a.allegroimg.com/original/1110fa/def3f31a416c807a2ba2675ad456
+
 ---
 
-## 6471 — nowy Lego Town city 6471 Samochód patrolowy policja Misb 2000
+## 6471 — Samochód patrolowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 149.99 zł · EAN: 00042884064716 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6471 |
+| Nazwa angielska | 4WD Police Patrol |
+| Nazwa polska | Samochód patrolowy |
+| Seria | miasto |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884064716 |
 
 Cześć!
 
@@ -16415,11 +24886,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6471-1: https://a.allegroimg.com/original/118b83/487a7bb54f0fb02863c24ad4702e
+
 ---
 
-## 6526 — nowy Lego System Legoland Town 6526 Red Line Racer Misb 1989
+## 6526 — Red Line Racer
 
-*Kategoria: City · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702010965267 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6526 |
+| Nazwa angielska | Red Line Racer |
+| Nazwa polska | Red Line Racer |
+| Seria | miasto |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 1989 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010965267 |
 
 Cześć!
 
@@ -16437,11 +24923,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6526-1: https://a.allegroimg.com/original/110b39/10a092df42d1bf387f6adf8e577b
+
 ---
 
-## 66193 — Lego City Medical Pack 66193
+## 66193 — LEGO City Medical Super Pack
 
-*Kategoria: City · cena Allegro (2026-08-17): 1700.00 zł · EAN: 05702014513976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66193 |
+| Nazwa angielska | City Medical Super Pack |
+| Nazwa polska | LEGO City Medical Super Pack |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 815 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014513976 |
 
 **LEGO Super Pack 66193 – Rzadki zestaw z 4 kompletami!**
 
@@ -16458,11 +24960,26 @@ Każdy zestaw można zbudować osobno, a razem tworzą kompletny system ratownic
 
 To **rzadki, kolekcjonerski zestaw specjalny**, który nie jest już produkowany. Idealny zarówno do zabawy, jak i do uzupełnienia kolekcji LEGO.
 
+**Galeria:**
+
+- 66193-1: https://a.allegroimg.com/original/11c91d/47a8b4fe4750b41e4243258f65b5
+
 ---
 
-## 6621 — nowy Lego 6621 Legoland Town City Wóz strażacki strażak Misb 1984
+## 6621 — Fire Truck
 
-*Kategoria: City · cena Allegro (2026-08-17): 959.99 zł · EAN: 05702010662142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6621 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Fire Truck |
+| Seria | miasto |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1984 |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010662142 |
 
 Cześć!
 
@@ -16480,11 +24997,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 6621-1: https://a.allegroimg.com/original/119a6e/236502ab4410b57d618ca3380b98
+
 ---
 
-## 66360 — Lego City 66360 City Pack 4 in 1
+## 66360 — City Super Pack 4 in 1
 
-*Kategoria: City · cena Allegro (2026-08-17): 969.00 zł · EAN: 00673419355452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66360 |
+| Nazwa angielska | City Super Pack 4 in 1 |
+| Nazwa polska | City Super Pack 4 in 1 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 871 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419355452 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16508,11 +25041,27 @@ Pozdrawiam.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 66360-1: https://a.allegroimg.com/original/11d849/d5d9cb8e4b06bca5473f70432cb8
+
 ---
 
-## 66389 — Lego City 66389 Police Pack 5 in 1 (2011)
+## 66389 — LEGO City 66389 Police Super Pack 5 in 1 (2011)
 
-*Kategoria: City · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702014815216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66389 |
+| Nazwa angielska | City Super Pack 5 in 1 |
+| Nazwa polska | LEGO City 66389 Police Super Pack 5 in 1 (2011) |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 828 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014815216 |
 
 **LEGO City 66389 – Super Pack 5 w 1 (Policja)**
 
@@ -16539,11 +25088,27 @@ Głównym elementem zestawu jest mobilne centrum dowodzenia policji (7288), a do
 
 **Świetny wybór na prezent, do kolekcji lub aktywnej zabawy.**
 
+**Galeria:**
+
+- 66389-1: https://a.allegroimg.com/original/11aecc/9edaf42444c09e4ae2b53c57ae4c
+
 ---
 
-## 66493 — Lego City 66493 Miasto Superpack 4w1 L
+## 66493 — Miasto Superpack 4w1 L
 
-*Kategoria: City · cena Allegro (2026-08-17): 2249.00 zł · EAN: 05702015298339 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66493 |
+| Nazwa angielska | City Train Super Pack 4 in 1 |
+| Nazwa polska | Miasto Superpack 4w1 L |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015298339 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16567,11 +25132,27 @@ Głównym elementem zestawu jest mobilne centrum dowodzenia policji (7288), a do
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 66493-1: https://a.allegroimg.com/original/11d256/c2a1738a4f818bb7933a9ea20a43
+
 ---
 
-## 66523 — Lego 66523 City Pack 3w1 60060 60053 60055 *unikat *nowy
+## 66523 — Lego City 66523 Zestaw 3 w 1- 60060, 60053, 60055
 
-*Kategoria: City · cena Allegro (2026-08-17): 733.00 zł · EAN: 05702015524520 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66523 |
+| Nazwa angielska | City Super Pack 3-in-1 |
+| Nazwa polska | Lego City 66523 Zestaw 3 w 1- 60060, 60053, 60055 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015524520 |
 
 **LEGO**
 
@@ -16593,11 +25174,27 @@ ilość figurek:** 4**
 
 - **ZESTAW** **NOWY, ORYGINALNIE ZAPLOMBOWANY , NIEOTWIERANY, PEŁNOWARTOŚCIOWY !**
 
+**Galeria:**
+
+- 66523-1: https://a.allegroimg.com/original/118400/ee4eea404a33bd35e2654d51ca72
+
 ---
 
-## 66540 — Lego City 66540 Volcano Value Pack Nowe
+## 66540 — Volcano Value Pack
 
-*Kategoria: City · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702015779005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66540 |
+| Nazwa angielska | City Super Pack 3 in 1 |
+| Nazwa polska | Volcano Value Pack |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 829 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015779005 |
 
 WITAM SERDECZNIE.
 
@@ -16611,11 +25208,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 66540-1: https://a.allegroimg.com/original/11db82/ae479f134e39a511774a73a8adce
+
 ---
 
-## 66541 — Lego City 66541 Straż Pożarna 3 w 1. Pack 3 in 1
+## 66541 — Straż Pożarna 3 w 1. Super Pack 3 in 1.
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015779029 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66541 |
+| Nazwa angielska | City Super Pack 3 in 1 |
+| Nazwa polska | Straż Pożarna 3 w 1. Super Pack 3 in 1. |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015779029 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16634,11 +25247,27 @@ ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 66541-1: https://a.allegroimg.com/original/1128fa/488c711b4aa8beb896c8ddd214a8
+
 ---
 
-## 66682 — Lego City 66682 Lego City 66682 Bundla Pack
+## 66682 — LEGO City 66682 Bundla Pack
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017177472 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66682 |
+| Nazwa angielska | City 3in1 Bundle Pack |
+| Nazwa polska | LEGO City 66682 Bundla Pack |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017177472 |
 
 Wyjątkowy pakiet klocków LEGO Bundle Pack 66682, składający się z aż 3 osobnych zastawów (60242, 60239, 60241).
 
@@ -16662,11 +25291,27 @@ Maluchy uwielbiają odgrywać role bohaterów życia codziennego, a zestaw LEGO�
 
 Ilość klocków: 67
 
+**Galeria:**
+
+- 66682-1: https://a.allegroimg.com/original/11476d/c1eab9394ca18309178fde06a41e
+
 ---
 
-## 7207 — Lego City 7207 Łódź straży pożarnej
+## 7207 — Łódź straży pożarnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 859.00 zł · EAN: 05702014780026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7207 |
+| Nazwa angielska | Fire Boat |
+| Nazwa polska | Łódź straży pożarnej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014780026 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16690,11 +25335,27 @@ Ilość klocków: 67
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7207-1: https://a.allegroimg.com/original/11cd06/5c5387ff43268f71dda90cc06bf1
+
 ---
 
-## 7208 — Lego City 7208 Remiza Nowe
+## 7208 — Remiza Strażacka
 
-*Kategoria: City · cena Allegro (2026-08-17): 1165.00 zł · EAN: 05702014601901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7208 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza Strażacka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 662 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601901 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -16720,19 +25381,51 @@ Dzięki LEGO 7208 możesz odgrywać dynamiczne sceny akcji i poczuć się jak pr
  
 Zbuduj własną **remizę strażacką LEGO City ** i zadbaj o bezpieczeństwo w Twoim mieście! 🚒🔥
 
+**Galeria:**
+
+- 7208-1: https://a.allegroimg.com/original/11cc90/0c39377f4957b2509daafc56d159
+
 ---
 
-## 7235 — Klocki Lego Policja Motocykl policyjny 7235
+## 7235 — Motocykl policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014428812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7235 |
+| Nazwa angielska | Police Motorcycle (Black Sticker Version) |
+| Nazwa polska | Motocykl policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014428812 |
 
 Od dziś jesteś policjantem wyposażonym w najszybszy motocykl w mieście. Podczas codziennych patroli na ulicach LEGO City możesz dogonić i zatrzymać każdego uciekającego bandytę. Ruszaj pilnować prawa i porządku na ul icach!
 
+**Galeria:**
+
+- 7235-1: https://a.allegroimg.com/original/119657/3be58e8b4319998f457b87f7c9f3
+
 ---
 
-## 7236 — Lego City 60312 Radiowóz
+## 7236 — Radiowóz
 
-*Kategoria: City · cena Allegro (2026-08-17): 59.99 zł · EAN: 00673419109390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7236 |
+| Nazwa angielska | Police Car (Black Sticker Version) |
+| Nazwa polska | Radiowóz |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 673419109390 |
 
 LEGO® City Radiowóz 60312 - zestaw konstrukcyjny dla dzieci od 5 lat; w komplecie minifigurka policjanta z zabawkową latarką i czapką policyjną (94 elementy)
  
@@ -16766,11 +25459,27 @@ Zaproś dzieci do emocjonującego świata LEGO® City ciekawym zestawem z radiow
 - Gwarancja jakości - wszystkie elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu są jednolite i zawsze do siebiepasują, a budowanie z nich jest przyjemnością - i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim - elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 7236-1: https://a.allegroimg.com/original/11b53c/c3e7112349dc8f7e4a333c49d4af
+
 ---
 
-## 7239 — Lego City 7239 Klocków Straż pożarna
+## 7239 — Klocków Straż pożarna
 
-*Kategoria: City · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702014428850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7239 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Klocków Straż pożarna |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014428850 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16789,11 +25498,27 @@ Zaproś dzieci do emocjonującego świata LEGO® City ciekawym zestawem z radiow
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7239-1: https://a.allegroimg.com/original/115293/bef96217405e83bf56e5b8681a38
+
 ---
 
-## 7246 — Lego 7246 City Minikoparka
+## 7246 — Minikoparka
 
-*Kategoria: City · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702014428928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7246 |
+| Nazwa angielska | Mini Digger |
+| Nazwa polska | Minikoparka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014428928 |
 
 LEGO 7246 City - Minikoparka
 
@@ -16801,11 +25526,27 @@ To unikalny zestaw z 2005 roku
 
 Pomóż budować LEGO® City! W LEGO City powstaje kolejny budynek, a Twoim zadaniem jest pomóc w jego budowie! Wykorzystaj minikoparkę, aby wykonać powierzone zadanie. Podnoś i opuszczaj ruchomą łyżkę. W zestawie minifigurka robotnika budowlanego wraz z narzędziami.
 
+**Galeria:**
+
+- 7246-1: https://a.allegroimg.com/original/45e2ad/506e331c46a0a7415dbeb20bd759
+
 ---
 
-## 7248 — Oryginalne Lego 7248 City Koparka Zestaw z 2005 roku Nowy
+## 7248 — Digger
 
-*Kategoria: City · cena Allegro (2026-08-17): 784.31 zł · EAN: 00673419058131 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7248 |
+| Nazwa angielska | Digger |
+| Nazwa polska | Digger |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 127 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419058131 |
 
 LEGO 7248 City - Koparka
 
@@ -16821,11 +25562,27 @@ Ilość elementów: 127
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 7248-1: https://a.allegroimg.com/original/11d942/4023eaf64b23a825c9d602fe8395
+
 ---
 
-## 7249 — Lego City 7249 dźwig żuraw budowa
+## 7249 — dźwig żuraw budowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 1510.00 zł · EAN: 05702014428959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7249 |
+| Nazwa angielska | XXL Mobile Crane |
+| Nazwa polska | dźwig żuraw budowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 524 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014428959 |
 
 LEGO City 7249 dźwig żuraw budowa
 
@@ -16844,11 +25601,27 @@ LEGO City 7249 dźwig żuraw budowa to zestaw klocków dla dzieci powyżej 6 lat
 
 Zespół BRICKDUCKS
 
+**Galeria:**
+
+- 7249-1: https://a.allegroimg.com/original/1114e7/3c131c144c08ae2fabe54a296886
+
 ---
 
-## 7285 — Lego City 7285 Police Dog Unit
+## 7285 — Lego 7285 Police Dog Unit
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014724013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7285 |
+| Nazwa angielska | Police Dog Unit |
+| Nazwa polska | Lego 7285 Police Dog Unit |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014724013 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16872,11 +25645,27 @@ Zespół BRICKDUCKS
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7285-1: https://a.allegroimg.com/original/11a862/b23dc89442c0a70288cb15798e8a
+
 ---
 
-## 7286 — Lego City 7286 Prisoner Transport, Konwój.
+## 7286 — Konwój
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014724051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7286 |
+| Nazwa angielska | Prisoner Transport |
+| Nazwa polska | Konwój |
+| Seria | City |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014724051 |
 
 Nowe oryginalne i unikatowe klocki LEGO City 7286 - Konwój.
 
@@ -16888,11 +25677,27 @@ Fabrycznie **zaplombowany.**
  
 ************ śląskie**.**
 
+**Galeria:**
+
+- 7286-1: https://a.allegroimg.com/original/11650a/5fe00fd34e159f378be180b7aa62
+
 ---
 
-## 7288 — Lego City 7288 Mobilna Jednostka Policji.
+## 7288 — Mobilna Jednostka Policji L
 
-*Kategoria: City · cena Allegro (2026-08-17): 548.00 zł · EAN: 05702014724105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7288 |
+| Nazwa angielska | Mobile Police Unit |
+| Nazwa polska | Mobilna Jednostka Policji L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 408 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014724105 |
 
 LEGO CITY 7288 Mobilna jednostka policji
 
@@ -16902,11 +25707,27 @@ Pudełko bez zagnieceń, ale na dolnej ściance jest ślad po odklejeniu metki z
 
 Dojedź na miejsce i zadbaj o bezpieczeństwo miasta LEGO City! Detektyw w centrum sterowania powiadamia policjanta, że złodziej ucieka w samochodzie sportowym ze sztabką złota. Dogoń go policyjnym motocyklem i zamknij w samochodzie-areszcie!
 
+**Galeria:**
+
+- 7288-1: https://a.allegroimg.com/original/110087/38353b0b4e66a22a3addf1a4257d
+
 ---
 
-## 7499 — Lego City 60205 Tory
+## 7499 — Elastyczne tory
 
-*Kategoria: City · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702014730380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7499 |
+| Nazwa angielska | Flexible Rails |
+| Nazwa polska | Elastyczne tory |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014730380 |
 
 LEGO City 60205 Tory
  
@@ -16919,11 +25740,27 @@ Wydłuż tory swojego pociągu osobowego dzięki zestawowi LEGO City 60205 Tory.
 - Dodaj elastyczne tory do linii kolejowej LEGO City, by omijać przeszkody i problematyczne kształty. 
 - Jeszcze więcej zabawy czeka Cię po podłączeniu torów do istniejących zestawów LEGO, takich jak 60197 Pociąg pasażerski.
 
+**Galeria:**
+
+- 7499-1: https://a.allegroimg.com/original/057b23/2e1b114d46d2864e7903db7d8702
+
 ---
 
-## 7630 — Lego City 7630 Front End Loader 7630
+## 7630 — Front End Loader - 7630
 
-*Kategoria: City · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014534414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7630 |
+| Nazwa angielska | Front-End Loader |
+| Nazwa polska | Front End Loader - 7630 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534414, 673419112390 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16941,11 +25778,28 @@ Wydłuż tory swojego pociągu osobowego dzięki zestawowi LEGO City 60205 Tory.
 
 - **Pudełko w stanie dobrym**
 
+**Galeria:**
+
+- 7630-1: https://a.allegroimg.com/original/11326c/1046ba654ec6a38d024c05174120
+- 7630-2: https://a.allegroimg.com/original/111e2c/6ecb240b416d8af8e6eb332ddbbe
+
 ---
 
-## 7632 — Lego City 7632 Żuraw
+## 7632 — Żuraw
 
-*Kategoria: City · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702014534438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7632 |
+| Nazwa angielska | Crawler Crane |
+| Nazwa polska | Żuraw |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 481 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534438 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16964,11 +25818,27 @@ Wydłuż tory swojego pociągu osobowego dzięki zestawowi LEGO City 60205 Tory.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7632-1: https://a.allegroimg.com/original/11b794/ce4182644ea79755b6327121a570
+
 ---
 
-## 7633 — Lego City 7633 Plac Budowy
+## 7633 — Town Construction Site 877 el.
 
-*Kategoria: City · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014534445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7633 |
+| Nazwa angielska | Construction Site |
+| Nazwa polska | Town Construction Site 877 el. |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 898 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534445 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -16987,11 +25857,27 @@ Wydłuż tory swojego pociągu osobowego dzięki zestawowi LEGO City 60205 Tory.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7633-1: https://a.allegroimg.com/original/11e50c/e5ed540d45f38b98d5f9292ea20a
+
 ---
 
-## 7637 — Lego 7637 City Farma Nowy Unikat
+## 7637 — Farma
 
-*Kategoria: City · cena Allegro (2026-08-17): 1380.00 zł · EAN: 05702014534483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7637 |
+| Nazwa angielska | Farm |
+| Nazwa polska | Farma |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 609 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534483 |
 
 Farma z LEGO City, numer katalogowy 7637.
 
@@ -17005,11 +25891,27 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 7637-1: https://a.allegroimg.com/original/11579b/37be2f044ce58fa8648be4ec622e
+
 ---
 
-## 7639 — Lego 7639 Camper Samochód kempingowy
+## 7639 — Camper
 
-*Kategoria: City · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014534506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7639 |
+| Nazwa angielska | Camper |
+| Nazwa polska | Camper |
+| Seria | City |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534506 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17027,11 +25929,27 @@ Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7639-1: https://a.allegroimg.com/original/111368/e22a78a2400bb6f625654f1561b5
+
 ---
 
-## 7643 — Lego City 7643 Air Show Plane Nowe
+## 7643 — Air Show Plane
 
-*Kategoria: City · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419113007 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7643 |
+| Nazwa angielska | Air Show Plane |
+| Nazwa polska | Air Show Plane |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419113007 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST NOWY ORYGINALNIE ZAPLOMBOWANY ZESTAW LEGO CITY 7643
 
@@ -17041,11 +25959,27 @@ NAŻYCZENIE CHĘTNIE PRZEŚLĘ DODATKOWE ZDJĘCIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 7643-1: https://a.allegroimg.com/original/11acac/6e289fb94e289106a059c39ff7bf
+
 ---
 
-## 7684 — Lego City Farma 7684 Gospodarstwo Świnie Nowy Unikat
+## 7684 — Farma Hodowla świń i traktor
 
-*Kategoria: City · cena Allegro (2026-08-17): 799.99 zł · EAN: 05702014601932 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7684 |
+| Nazwa angielska | Pig Farm & Tractor |
+| Nazwa polska | Farma Hodowla świń i traktor |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 256 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601932 |
 
 LEGO CITY 7684 Hodowla Świń i Traktor
 
@@ -17067,11 +26001,27 @@ Ilość ludzików: 2
 
 Kategoria wiekowa: 5+
 
+**Galeria:**
+
+- 7684-1: https://a.allegroimg.com/original/11754e/9a6c642947d0bb2bc3498e67e7fa
+
 ---
 
-## 7685 — Lego 7685 City spycharka Unikat z 2009r.
+## 7685 — spycharka 351 elementów
 
-*Kategoria: City · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702014534544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7685 |
+| Nazwa angielska | Dozer |
+| Nazwa polska | spycharka 351 elementów |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 352 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534544 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -17081,11 +26031,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 7685-1: https://a.allegroimg.com/original/1175a1/ae7871074329bb44b2d6e954e64c
+
 ---
 
-## 7686 — Lego 7686 City Laweta do przewozu helikoptera
+## 7686 — Helicopter Transporter
 
-*Kategoria: City · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702014534551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7686 |
+| Nazwa angielska | Helicopter Transporter |
+| Nazwa polska | Helicopter Transporter |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 377 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534551 |
 
 Klocki LEGO City Zestaw Laweta do przewozu helikoptera 7686
  
@@ -17109,11 +26075,27 @@ LEGO City 7686 Helicopter Transporter to doskonała zabawka dla chłopców i dzi
  
 Podsumowując, LEGO City 7686 Helicopter Transporter to wysokiej jakości zestaw klocków z serii Ruch Drogowy, który zapewni dziecku wiele godzin zabawy i rozwijania umiejętności manualnych oraz wyobraźni.
 
+**Galeria:**
+
+- 7686-1: https://a.allegroimg.com/original/11944c/6f72e104414ca46afcdc9fd49fd8
+
 ---
 
-## 7731 — Lego City Furgonetka Lego Van Bus 60500
+## 7731 — Klocki Furgonetka pocztowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 108.71 zł · EAN: 05702014517172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7731 |
+| Nazwa angielska | Mail Van |
+| Nazwa polska | Klocki Furgonetka pocztowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517172 |
 
 LEGO CITY Furgonetka LEGO Van Bus 60500
 
@@ -17127,11 +26109,27 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 
 9225
 
+**Galeria:**
+
+- 7731-1: https://a.allegroimg.com/original/11b7c7/92b02ca640a0a35ff9b9d79eb259
+
 ---
 
-## 7733 — Lego City 66256 pack 7733 7242 7991 7990
+## 7733 — Truck & Forklift
 
-*Kategoria: City · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702014517196 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7733 |
+| Nazwa angielska | Truck & Forklift |
+| Nazwa polska | Truck & Forklift |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517196 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17155,11 +26153,27 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7733-1: https://a.allegroimg.com/original/1124fa/0cae990041408ca9e37337018d99
+
 ---
 
-## 7734 — Lego City Lotnisko Samolot transportowy cargo 7734
+## 7734 — Samolot transportowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1549.00 zł · EAN: 05702014517202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7734 |
+| Nazwa angielska | Cargo Plane |
+| Nazwa polska | Samolot transportowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 463 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517202 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17183,11 +26197,27 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7734-1: https://a.allegroimg.com/original/113b98/9666619d4d409fac4f47be1c7f60
+
 ---
 
-## 7736 — Lego City 7736 Quad straży przybrzeżnej
+## 7736 — Quad straży przybrzeżnej
 
-*Kategoria: City · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014517219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7736 |
+| Nazwa angielska | Coast Guard Quad Bike |
+| Nazwa polska | Quad straży przybrzeżnej |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517219 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17206,11 +26236,27 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7736-1: https://a.allegroimg.com/original/11f073/145496fd4ed1a68ff6c84ac8264f
+
 ---
 
-## 7738 — Lego City 7738 Helikopter i tratwa straży
+## 7738 — Helikopter i tratwa straży
 
-*Kategoria: City · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014517233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7738 |
+| Nazwa angielska | Coast Guard Helicopter and Life Raft |
+| Nazwa polska | Helikopter i tratwa straży |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517233 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17229,11 +26275,27 @@ Dzieci poznają inny wymiar budowania dzięki aplikacji LEGO Builder, w której 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7738-1: https://a.allegroimg.com/original/11c038/606b54eb4331b4921e2fcec960ca
+
 ---
 
-## 7741 — Lego City 7741 Helikopter policyjny
+## 7741 — Helikopter policyjny
 
-*Kategoria: City · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702014517318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7741 |
+| Nazwa angielska | Police Helicopter |
+| Nazwa polska | Helikopter policyjny |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517318 |
 
 LEGO® 7741 City - Helikopter policyjny
  
@@ -17261,11 +26323,27 @@ Zawartość zestawu:
  
 Przed wystawieniem zostały sprawdzane pod względem ilości elementów wg. katalogu. Do tego instrukcja w bardzo dobrym stanie.
 
+**Galeria:**
+
+- 7741-1: https://a.allegroimg.com/original/037736/3bf0a4144d6b8323013ffc8d7fb1
+
 ---
 
-## 7743 — Lego City 7743
+## 7743 — 7743
 
-*Kategoria: City · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702014517332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7743 |
+| Nazwa angielska | Police Command Center |
+| Nazwa polska | 7743 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 524 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014517332 |
 
 ** Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17290,11 +26368,27 @@ Przed wystawieniem zostały sprawdzane pod względem ilości elementów wg. kata
 
 **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7743-1: https://a.allegroimg.com/original/11f72b/0fe8c00649e48dffff1a32945871
+
 ---
 
-## 7746 — Lego City 7746 Walec Drogowy
+## 7746 — Walec Drogowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702014536258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7746 |
+| Nazwa angielska | Single-Drum Roller |
+| Nazwa polska | Walec Drogowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014536258 |
 
 LEGO City - 7746 Walec - Nowe
 
@@ -17313,11 +26407,27 @@ Jako zestaw sprzed ponad dekady, **LEGO 7746 Walec **jest dziś trudno dostępny
  
 Dodaj ten rzadki zestaw do swojej kolekcji już dziś i ciesz się kawałkiem budowlanej historii LEGO!
 
+**Galeria:**
+
+- 7746-1: https://a.allegroimg.com/original/038127/b07e1691457dab79da8989a578f4
+
 ---
 
-## 7848 — Klocki Lego City Ciężarówka ToysRus 7848
+## 7848 — Ciężarówka ToysRus
 
-*Kategoria: City · cena Allegro (2026-08-17): 999.00 zł · EAN: 00673419136952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7848 |
+| Nazwa angielska | Toys 'R' Us Truck |
+| Nazwa polska | Ciężarówka ToysRus |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419136952 |
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -17327,11 +26437,27 @@ Dodaj ten rzadki zestaw do swojej kolekcji już dziś i ciesz się kawałkiem bu
 - **Autentyczne zdjęcia produktu zostały wykonane przez nas, abyś miał pełną świadomość w jakim stanie znajduje się kupowany przez Ciebie produkt.** 
 - **Idealny prezent dla miłośników klocków LEGO w każdym wieku.**
 
+**Galeria:**
+
+- 7848-1: https://a.allegroimg.com/original/118412/a03bee7347c1bbb2fd2c241cc285
+
 ---
 
-## 7894 — Lego City 7894 Lotnisko 700 elementów
+## 7894 — Port Lotniczy
 
-*Kategoria: City · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702014466951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7894 |
+| Nazwa angielska | Airport |
+| Nazwa polska | Port Lotniczy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 700 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014466951 |
 
 LEGO City 7894 Lotnisko 700 elementów
 
@@ -17346,11 +26472,27 @@ O produkcie:
 
 LEGO City 7894 Lotnisko 700 elementów to zestaw klocków dla dzieci w wieku 5 lat i więcej. Zawiera 700 elementów, które pozwalają zbudować lotnisko. Produkt pochodzi od marki LEGO, która oferuje zabawki najwyższej jakości. Zestaw Lotnisko 700 elementów należy do serii Miasto, która oferuje wiele różnych zestawów do budowania i eksplorowania. Produkt przeznaczony jest zarówno dla chłopców, jak i dziewcząt. Zestaw ten pozwala na rozwijanie umiejętności manualnych oraz logicznego myślenia. LEGO City 7894 Lotnisko 700 elementów to idealna zabawka, która pozwala na kreatywną zabawę przez wiele godzin.
 
+**Galeria:**
+
+- 7894-1: https://a.allegroimg.com/original/1182ec/88b2282e4d74bb8a09abaf1bbe1b
+
 ---
 
-## 7895 — Lego 60238 Zwrotnice do Pociągu i Tramwaju 60197 60198 60336 60337 60423
+## 7895 — Zwrotnica kolejowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 86.60 zł · EAN: 05702014469884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7895 |
+| Nazwa angielska | Switching Tracks for RC Trains |
+| Nazwa polska | Zwrotnica kolejowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469884 |
 
 LEGO 60238 Zwrotnice do Pociągu i Tramwaju 60197 60198 60336 60337 60423
 
@@ -17364,11 +26506,27 @@ Z zestawem LEGO® City 60238 Zwrotnice zbudujesz nowe tory dla pociągów towaro
 
 #7197
 
+**Galeria:**
+
+- 7895-1: https://a.allegroimg.com/original/11accb/ee52fcf94663b8a332dd2194cc59
+
 ---
 
-## 7897 — Lego City 7897 Pociąg Nowe
+## 7897 — High Speed Train Locomotive
 
-*Kategoria: City · cena Allegro (2026-08-17): 2089.00 zł · EAN: 05702014469860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7897 |
+| Nazwa angielska | Passenger Train |
+| Nazwa polska | High Speed Train Locomotive |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 501 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469860 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -17380,11 +26538,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO City 7897 Pociąg ** został przedstawiony w 2006 roku i zbudowany jest z 501 klocków LEGO®. W opakowaniu znajdziesz także 3 minifigurki. Klocki przeznaczone są dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 7897-1: https://a.allegroimg.com/original/110883/164a72064663ba8d000c33ff1d66
+
 ---
 
-## 7898 — Lego City 7898 Zielony pociąg towarowy
+## 7898 — Zielony pociąg towarowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 3299.00 zł · EAN: 05702014469853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7898 |
+| Nazwa angielska | Cargo Train Deluxe |
+| Nazwa polska | Zielony pociąg towarowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 856 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469853 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17403,11 +26577,27 @@ Zestaw klocków **LEGO City 7897 Pociąg ** został przedstawiony w 2006 roku i 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 7898-1: https://a.allegroimg.com/original/11d666/ef02fbbc4a53be982ea9da361e22
+
 ---
 
-## 7905 — Zestaw Klocki Lego City Żuraw Budowlany Dźwig Budowa 7905
+## 7905 — Dźwig
 
-*Kategoria: City · cena Allegro (2026-08-17): 1749.00 zł · EAN: 05702014480063 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7905 |
+| Nazwa angielska | Building Crane |
+| Nazwa polska | Dźwig |
+| Seria | City |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 721 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014480063 |
 
 LEGO City 7905 Wielki Żuraw Budowlany – Gigant Twojej Budowy!
 
@@ -17430,11 +26620,26 @@ Zestaw 7905 to nie tylko maszyna, ale cała ekipa gotowa do pracy:
 - **Akcesoria:** Paleta, cegły, barierki ochronne, taczka oraz elementy konstrukcyjne, które można podnosić.
 - **Wielofunkcyjny barak:** Miejsce narad ekipy budowlanej z otwieranymi drzwiami.
 
+**Galeria:**
+
+- 7905-1: https://a.allegroimg.com/original/116626/b37c7dd3493db01fa5fc977c9cd3
+
 ---
 
-## 79109 — Lego City 79109 Pojedynek w Colby
+## 79109 — Pojedynek w Colby
 
-*Kategoria: City · cena Allegro (2026-08-17): 669.44 zł · EAN: 05702014972551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79109 |
+| Nazwa angielska | Colby City Showdown |
+| Nazwa polska | Pojedynek w Colby |
+| Seria | miasto |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 587 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702014972551 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -17474,11 +26679,27 @@ Zawiera 5 minifigurek z bronią i wyposażeniem: Jeźdźca znikąd, Tonto, Stra�
 - Wymiary biura szeryfa: ok 13 cm wysokości, 17 cm szerokości i 9 cm głębokości
 - Bank ma ok. 14 cm wysokości, 17 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 79109-1: https://a.allegroimg.com/original/11a8c1/0f9a5782462898d3634ac5b8c068
+
 ---
 
-## 7937 — Lego City 7937 Dworzec kolejowy Nowe
+## 7937 — Stacja Kolejowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702014602588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7937 |
+| Nazwa angielska | Train Station |
+| Nazwa polska | Stacja Kolejowa |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602588 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -17509,11 +26730,27 @@ Odkryj niesamowite możliwości budowania z zestawem LEGO 7937 Dworzec kolejowy.
  
 **Podsumowanie: **LEGO 7937 Dworzec kolejowy to doskonały wybór dla każdego fana kolei i LEGO. Dodaj go do swojej kolekcji i stwórz realistyczny świat, w którym pociągi kursują na czas, a pasażerowie z uśmiechem czekają na peronie. Zamów już dziś i ciesz się niekończącą się zabawą!
 
+**Galeria:**
+
+- 7937-1: https://a.allegroimg.com/original/11cc1a/79c126844e528b3c4c4bbc27f3f6
+
 ---
 
-## 7938 — Klocki Lego City Zestaw Zdalnie Sterowany Pociąg osobowy kolejowy Rc 7938
+## 7938 — Pociąg Osobowy
 
-*Kategoria: City · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014602601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7938 |
+| Nazwa angielska | Passenger Train |
+| Nazwa polska | Pociąg Osobowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 669 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602601 |
 
 LEGO City Zdalnie Sterowany Pociąg osobowy 7938
 
@@ -17563,11 +26800,27 @@ Może stanowić cenny dodatek do każdej kolekcji LEGO City.
 
 **Zapraszam do zakupu!**
 
+**Galeria:**
+
+- 7938-1: https://a.allegroimg.com/original/119fd6/80c2a36147a2ad989ae55963cd29
+
 ---
 
-## 7939 — Klocki Lego City Zestaw Pociąg towarowy Sterowany Rc 7939
+## 7939 — Klocki Pociąg Towarowy L
 
-*Kategoria: City · cena Allegro (2026-08-17): 1898.99 zł · EAN: 05702014602618 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7939 |
+| Nazwa angielska | Cargo Train |
+| Nazwa polska | Klocki Pociąg Towarowy L |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 839 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602618 |
 
 Klocki LEGO City Zestaw Pociąg towarowy 7939
 
@@ -17611,11 +26864,27 @@ Zestaw **LEGO City Pociąg towarowy 7939** to duży, realistyczny zestaw z serii
 
 Zestaw 7939 oferuje kompleksowe doświadczenie zabawy w koleje. Dzieci mogą nie tylko zbudować pociąg i tory, ale także sterować nim zdalnie, załadowywać i rozładowywać towary za pomocą dźwigu i wózka widłowego, a także odgrywać scenariusze związane z logistyką i transportem. Jest to świetna okazja do rozwijania umiejętności motorycznych i kreatywnego myślenia.
 
+**Galeria:**
+
+- 7939-1: https://a.allegroimg.com/original/0516c8/38305ff14ddbbbf1af2dcd66a838
+
 ---
 
-## 7942 — Lego 7942 City Terenowa Ekipa Ratunkowa Nowy
+## 7942 — Terenowa ekipa ratunkowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702014498853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7942 |
+| Nazwa angielska | Off Road Fire Rescue |
+| Nazwa polska | Terenowa ekipa ratunkowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 131 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014498853 |
 
 Terenowa ekipa ratunkowa z LEGO City, numer katalogowy 7942.
 
@@ -17629,11 +26898,27 @@ Szczegóły:
 
 Zapraszam do zobaczenia moich pozostałych ogłoszeń Lego, może również coś Państwa zainteresuje. Mam na sprzedaż wiele kultowych serii, takich jak: Rycerze, Piraci, Miasto (City/Town), Kosmos (Space), Poszukiwacze przygód (Adventurers), Paradisa, Western, Chima, Technic.
 
+**Galeria:**
+
+- 7942-1: https://a.allegroimg.com/original/1114a0/6ac4e0d24d30a4ddb48123cca571
+
 ---
 
-## 7945 — Lego City 7945 Straż pożarna Remiza strażacka
+## 7945 — Fire Station
 
-*Kategoria: City · cena Allegro (2026-08-17): 1450.00 zł · EAN: 05702014498815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7945 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Fire Station |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 600 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014498815 |
 
 LEGO CITY 7945
 
@@ -17651,11 +26936,27 @@ Ponadto zespół strażaków i dwa realistyczne pojazdy strażackie - wielki wó
 
 Zestaw z 2007 roku w idealnym stanie dla kolekcjonera.
 
+**Galeria:**
+
+- 7945-1: https://a.allegroimg.com/original/111e99/429d8cdc474aa39cb045e0005b21
+
 ---
 
-## 7990 — Lego City 7990 Betoniarka Nowe
+## 7990 — Betoniarka
 
-*Kategoria: City · cena Allegro (2026-08-17): 549.00 zł · EAN: 00673419091053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7990 |
+| Nazwa angielska | Cement Mixer |
+| Nazwa polska | Betoniarka |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419091053 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -17669,11 +26970,27 @@ Zestaw zawiera szczegółowy pojazd budowlany oraz figurkę kierowcy z akcesoria
  
 Dołącz do budowlanej przygody z LEGO City! Kup LEGO 7990 Betoniarka i stwórz miasto swoich marzeń!
 
+**Galeria:**
+
+- 7990-1: https://a.allegroimg.com/original/111507/87807bfa451a8c2234fe23a73a38
+
 ---
 
-## 7991 — Lego 7991 City Śmieciarka, śmieciarz, kubeł Unikat z 2007 r.
+## 7991 — Podnośnik kontenerów 7992
 
-*Kategoria: City · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702014499089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7991 |
+| Nazwa angielska | Recycle Truck |
+| Nazwa polska | Podnośnik kontenerów 7992 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499089 |
 
 LEGO 7991 Śmieciarka
  
@@ -17689,11 +27006,27 @@ Zawiera minifigurkę pracownika, a także kosz na śmieci, wózek i akcesoria.
  
 Ciężarówka ma 18 cm długości.
 
+**Galeria:**
+
+- 7991-1: https://a.allegroimg.com/original/113f66/bfad74fd456eb54d47236025b740
+
 ---
 
-## 7993 — Lego City 7993 Stacja obsługi Nowe
+## 7993 — stacja benzynowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 857.00 zł · EAN: 05702014499065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7993 |
+| Nazwa angielska | Service Station |
+| Nazwa polska | stacja benzynowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 402 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499065 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -17727,11 +27060,27 @@ Dlaczego warto kupić LEGO 7993 Stacja Paliw?
  
 Nie przegap okazji, aby dodać **LEGO 7993 Stacja Paliw **do swojej kolekcji! 🏙⛽🚗
 
+**Galeria:**
+
+- 7993-1: https://a.allegroimg.com/original/1182e2/84c9e5d94c62bcdabdd10880ede7
+
 ---
 
-## 7994 — Lego City 7994 Port Nowe
+## 7994 — City Harbor
 
-*Kategoria: City · cena Allegro (2026-08-17): 2199.00 zł · EAN: 05702014499058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7994 |
+| Nazwa angielska | City Harbor |
+| Nazwa polska | City Harbor |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 659 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499058 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -17741,11 +27090,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków LEGO City 7994 Port został przedstawiony w 2007 roku i składa się z 661 klocków LEGO®. W zestawie klocków znajdziesz również 5 minifigurek. Klocki przeznaczone są dla dzieci powyżej 6 roku życia
 
+**Galeria:**
+
+- 7994-1: https://a.allegroimg.com/original/11a73c/f267ed504a2697ad2c495a0d5e8b
+
 ---
 
-## 7997 — Lego 7997 City Stacja kolejowa
+## 7997 — Stacja kolejowa
 
-*Kategoria: City · cena Allegro (2026-08-17): 860.00 zł · EAN: 05702014499034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7997 |
+| Nazwa angielska | Train Station |
+| Nazwa polska | Stacja kolejowa |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499034 |
 
 LEGO City 7997 – Stacja kolejowa 
 
@@ -17791,11 +27156,27 @@ Zestaw przedstawia niewielką **miejską stację kolejową**, typową dla przedm
 
 - ceny nowych, zaplombowanych egzemplarzy są **znacznie wyższe niż cena katalogowa z 2007 r.**,
 
+**Galeria:**
+
+- 7997-1: https://a.allegroimg.com/original/112fcf/4d9fa4084a0dbe888ba90b734ba6
+
 ---
 
-## 7998 — Lego City 7998 wywrotka Nowe
+## 7998 — Heavy Hauler
 
-*Kategoria: City · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702014501973 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7998 |
+| Nazwa angielska | Heavy Hauler |
+| Nazwa polska | Heavy Hauler |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 332 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014501973 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -17807,11 +27188,27 @@ Klocki LEGO City 7998 - Mega wywrotka
  
 Zestaw LEGO City - Mega wywrotka trafił do sprzedaży w 2007 roku. Numer katalogowy tego zestawu to 7998. Zawiera 332 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO City - Heavy Hauler. Grupa wiekowa tego produktu to 5+
 
+**Galeria:**
+
+- 7998-1: https://a.allegroimg.com/original/114ad9/484f9ded44c9a6ef2ed46d66d306
+
 ---
 
-## 8398 — nowy Lego City 8398 Bbq Stand Misb 2009
+## 8398 — grillowanie
 
-*Kategoria: City · cena Allegro (2026-08-17): 108.99 zł · EAN: 05702014518636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8398 |
+| Nazwa angielska | BBQ Stand |
+| Nazwa polska | grillowanie |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518636 |
 
 Cześć!
 
@@ -17829,11 +27226,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 8398-1: https://a.allegroimg.com/original/11cf54/28ed842c4534b7921160cd8435b9
+
 ---
 
-## 8401 — Lego City 8401 Klocki Kolekcja Minifigurek z Miasta
+## 8401 — Klocki Kolekcja Minifigurek z Miasta
 
-*Kategoria: City · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702014518667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8401 |
+| Nazwa angielska | City Minifigure Collection |
+| Nazwa polska | Klocki Kolekcja Minifigurek z Miasta |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518667 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17852,11 +27265,27 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8401-1: https://a.allegroimg.com/original/11c344/31aec9874a279b8d91b67eb02752
+
 ---
 
-## 8403 — Klocki Lego City Zestaw Kamienica Dom w mieście 8403
+## 8403 — Dom w mieście
 
-*Kategoria: City · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014518681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8403 |
+| Nazwa angielska | City House |
+| Nazwa polska | Dom w mieście |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 383 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518681 |
 
 **Stwórz urokliwy fragment miejskiego życia z zestawem LEGO City Kamienica Dom w mieście 8403!**
 
@@ -17899,11 +27328,27 @@ Przenieś tętniącą atmosferę miasta do swojej kolekcji LEGO City dzięki uro
 
 **Dodaj uroku i życia do swojego LEGO City z zestawem Kamienica Dom w mieście 8403! Nie czekaj, stwórz swój własny fragment miejskiej historii!**
 
+**Galeria:**
+
+- 8403-1: https://a.allegroimg.com/original/11ad13/dc31ec6d4d08ab8cbc31b7e357ce
+
 ---
 
-## 8404 — Lego City 8404 Transport publiczny
+## 8404 — transport publiczny
 
-*Kategoria: City · cena Allegro (2026-08-17): 1369.95 zł · EAN: 05702014518698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8404 |
+| Nazwa angielska | Public Transport |
+| Nazwa polska | transport publiczny |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 864 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518698 |
 
 LEGO City 8404 Transport publiczny
 
@@ -17936,11 +27381,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 8404-1: https://a.allegroimg.com/original/1157fb/cf18e8f44ce2bb6257603d616d1a
+
 ---
 
-## 8632 — Lego 8632 Agents Misja 2: Polowanie na bagnach
+## 8632 — 7632
 
-*Kategoria: City · cena Allegro (2026-08-17): 469.00 zł · EAN: 00673419101943 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8632 |
+| Nazwa angielska | Mission 2: Swamp Raid |
+| Nazwa polska | 7632 |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419101943 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -17959,11 +27419,27 @@ Zdjęcia poglądowe
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 8632-1: https://a.allegroimg.com/original/11a25a/7769489f4ffea62297658c8f1130
+
 ---
 
-## 952001 — Lego City 952001 Policjant Na Motorze Kajdanki saszetka klocki minifigurka
+## 952001 — Policjant na motorze plus kajdanki
 
-*Kategoria: City · cena Allegro (2026-08-17): 21.00 zł · EAN: 05060976587498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952001 |
+| Nazwa angielska | Policeman & Motorbike |
+| Nazwa polska | Policjant na motorze plus kajdanki |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976587498 |
 
 Witam
 
@@ -17979,11 +27455,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 952001-1: https://a.allegroimg.com/original/117ad3/d3cfeb7c48eca4e64ae35b92e85d
+
 ---
 
-## 952008 — Zestaw Lego City Minifigure Polybag Guy on Water Scooter #952008
+## 952008 — Guy on Water Scooter #952008
 
-*Kategoria: City · cena Allegro (2026-08-17): 16.99 zł · EAN: 04903447123706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952008 |
+| Nazwa angielska | Jet-ski |
+| Nazwa polska | Guy on Water Scooter #952008 |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4903447123706 |
 
 **LEGO City polybag – Guy on Water Scooter #952008**
 
@@ -18003,11 +27495,27 @@ Zestaw LEGO 952008 „Guy on Water Scooter” to dynamiczny doskonały zestaw pr
 
 Dostępny jako limitowana edycja magazynowa, zestaw świetnie sprawdzi się zarówno jako samodzielna dekoracja, jak i dodatek do większych makiet plażowo‑przybrzeżnych. Prosty, ale pełen letniego klimatu model zyskuje wyjątkową wartość kolekcjonerską.
 
+**Galeria:**
+
+- 952008-1: https://a.allegroimg.com/original/1190a7/92cc78d34f54980dbf862a472577
+
 ---
 
-## 952010 — Lego 952010 City Figurka na Motocyklu pomarańczowy motor klocki zestaw Nowy
+## 952010 — LEGO City 952010 Detective on Motorcycle
 
-*Kategoria: City · cena Allegro (2026-08-17): 21.99 zł · EAN: 05060976586194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952010 |
+| Nazwa angielska | Pete Python, Daredevil PI |
+| Nazwa polska | LEGO City 952010 Detective on Motorcycle |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976586194 |
 
 LEGO City Detektyw na Motocyklu Polybag (952010-1)
  
@@ -18033,11 +27541,27 @@ Szukasz czegoś wyjątkowego?  
  
 ✔️ Akcesoria i MOCe
 
+**Galeria:**
+
+- 952010-1: https://a.allegroimg.com/original/11ffe3/b992d8094bbb87e92cd1c99b3543
+
 ---
 
-## 952302 — Lego City 952302, Figurka Policjant w pojedzie terenowym polybag
+## 952302 — Policjant w pojedzie terenowym
 
-*Kategoria: City · cena Allegro (2026-08-17): 20.00 zł · EAN: 05056638409642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952302 |
+| Nazwa angielska | Police Buggy |
+| Nazwa polska | Policjant w pojedzie terenowym |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638409642 |
 
 - Producent - LEGO
 
@@ -18061,11 +27585,27 @@ Cechy produktu:
 
 **Saszetki pochodzą jako dodatki do magazynów i mogą występować w różnym stanie wizualnym. Często posiadają zagniecenia, ślady przechowywania lub transportu, a także pozostałości kleju lub taśmy wynikające z fabrycznego mocowania. Saszetki nie były otwierane ani modyfikowane, a ich zawartość jest oryginalna.**
 
+**Galeria:**
+
+- 952302-1: https://a.allegroimg.com/original/11d25f/69d65e894b8e8dc1f205b55a3339
+
 ---
 
-## 952508 — Lego 952508 Odkrywca Poduszkowiec Jungle Explorer with Swamp Boat City
+## 952508 — 952508 ODKRYWCA PODUSZKOWIEC
 
-*Kategoria: City · cena Allegro (2026-08-17): 16.97 zł · EAN: 05702017583747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952508 |
+| Nazwa angielska | Explorer & Hovercraft |
+| Nazwa polska | 952508 ODKRYWCA PODUSZKOWIEC |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583747 |
 
 **LEGO - CITY - Jungle Explorer with Swamp Boat**
 
@@ -18101,6 +27641,10 @@ Cechy produktu:
 - **Zawierają małe części.  Ryzyko zadławienia.  Nie nadaje się dla dzieci poniżej 36 miesięcy.**
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
+**Galeria:**
+
+- 952508-1: https://a.allegroimg.com/original/115f65/3b489c2c436199e55505e91fb4f1
 
 ---
 

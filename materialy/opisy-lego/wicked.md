@@ -1,35 +1,75 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Wicked — opisy produktowe (10 pozycji)
 
-## 75681 — Klocki Lego Wicked 75681 Glinda, Elphaba i Nessarose, 304 elementy
+## 75681 — Wicked 75681 Glinda, Elphaba i Nessarose na Uniwersytecie Shiz
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702017758633 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75681 |
+| Nazwa angielska | Glinda, Elphaba & Nessarose at Shiz Uni |
+| Nazwa polska | Wicked 75681 Glinda, Elphaba i Nessarose na Uniwersytecie Shiz |
+| Seria | Wicked |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017758633 |
 
 Glinda, Elphaba i Nessarose na Shiz University
 
 Wicked LEGO Wicked Glinda, Elphaba i Nessarose na Shiz University, Kreatywna Zabawka dla Dziecka, dla Dziewczynki i Chłopca, Łódka i Dom do Zbudowania, 3 Minilaleczki, Pomysł na Prezent dla 7-latki, 75681 Magiczny domek dla lalek i łódka — zestaw LEGO Wicked Glinda, Elphaba i Nessarose na Shiz University to interpretacja kultowej sceny z filmu, gdzie dziewczynki się poznają Zawiera trzy postacie z filmu — ta zabawka dla dziecka, dla dziewczynki i chłopca, zawiera minilaleczki Glindy, Elphaby i Nessarose, wózek inwalidzki, walizki, pulpit i księgę zaklęć Odtwórz magię filmu 'Wicked' — ten zestaw LEGO dla 7-latki jest pełny znanych detali z filmu: łódź Glindy, dziennik Elphaby oraz mnóstwo magicznych elementów Kreatywne zabawki dla 7-latki — fani mogą spersonalizować model elementami dekoracyjnymi i odkryć jeszcze więcej ciekawych treści LEGO Wicked po zeskanowaniu ukrytego kodu QR Zabawki dla dziewczynek i chłopców — sprawdź inne zestawy LEGO Wicked (sprzedawane osobno) inspirowane filmem, które dostępne są też w aplikacji LEGO Builder Pomysł na prezent dla 7-latki i fanów filmu Wicked — ta zabawka dla dziecka to fajny prezent dla dziewczynek i chłopców, którzy uwielbiają zabawę w odgrywanie ról Wprowadź do domu filmową magię — zestawy LEGO Wicked pozwalają dzieciom i fanom filmu Wicked ponownie przeżyć przygody Elphaby i Glindy w krainie Oz Glinda, Elphaba i Nessarose na Shiz University LEGO® Wicked Glinda, Elphaba i Nessarose na Shiz University LEGO® Wicked Glinda, Elphaba i Nessarose na Shiz University Dzięki zestawowi dla dzieci w wieku od siedmiu lat z minilaleczkami Glindy, Elphaby i Nessarose fani filmu Wicked zbudują i poznają Uniwersytet Shiz. Fantastyczny zestaw zawiera minilaleczkę Glindy Siedmiolatki i starsze dzieci przeniosą się do krainy Oz, budując zestaw Glinda, Elphaba i Nessarose na Shiz University (75681). To świetny prezent dla miłośników domków dla lalek i fanów filmu Wicked.Dzięki zestawowi LEGO® Wicked fani filmu wybiorą się we wspaniałą podróż, towarzysząc Glindzie podczas rejsu na Uniwersytet Shiz. Inspirowana filmem różowa łódź ma żagiel na zawiasach. To świetny pomysł na prezent nawiązujący do filmu Wicked, który umożliwia odgrywanie historii minilaleczkami Glindy, Elphaby i Nessarose.Szczegółowy, dwupiętrowy model zawiera dwa balkony i pokój na książki z pulpitem. Dzieci mogą zeskanować kod QR, aby odblokować wyjątkowe treści online z LEGO Wicked. Mały domek dla lalek jest pełny kreatywnych akcesoriów, takich jak kwiaty, eliksiry i naklejka na wózek Nessarose, aby dzieci mogły spersonalizować zestaw zgodnie ze swoimi upodobaniami. Wypłyń w ekscytujący rejs po krainie Oz. Dołącz do Glindy na jej łodzi żaglowej i popłyńcie na spotkanie z Elphabą i Nessarose na Uniwersytecie Shiz. Wypakuj kufry pełne modnych akcesoriów i odkrywaj detale z filmu Wicked, w tym pokój z dziennikiem. Zeskanuj ukryty w zestawie kod QR, aby przeżyć więcej przygód z LEGO® Wicked . Pamiętaj tylko, aby najpierw poprosić dorosłego o zgodę.
 
+**Galeria:**
+
+- 75681-1: https://a.allegroimg.com/original/05c619/3fd109b54f87bdc3c8e1c864c9a4
+
 ---
 
-## 75682 — Lego Wicked 75682 Figurki Elphaby i Glindy
+## 75682 — Figurki Elphaba i Glinda
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017758138 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75682 |
+| Nazwa angielska | Elphaba & Glinda Figures |
+| Nazwa polska | Figurki Elphaba i Glinda |
+| Seria | Wicked |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 558 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017758138 |
 
 Figurki Elphaby i Glindy
 
 Zabawka do zbudowania z Glindą i Elphabą Zabierz dziesięcioletnich i starszych fanów filmu Wicked w magiczną podróż i odtwórz urzekającą scenę. Zestaw LEGO® Wicked Figurki Elphaby i Glindy (75682) odtwarza moment, w którym Elphaba zdobywa się na odwagę i łamie prawa grawitacji.Ten zestaw LEGO gwarantuje godziny nieograniczonej zabawy, podczas której fani mogą odtwarzać sceny z filmu Wicked lub wymyślać własne historie. Zabawę ożywiają ruchome ręce i głowy postaci, którymi można poruszać w rytm piosenki z filmu \"Defying Gravity\". Utwór można odtworzyć, skanując kod QR ukryty w zestawie.Zestaw pełen znanych z filmu elementów do odgrywania historii zawiera okno z widokiem na krainę Oz, miotłę Elphaby, torebkę i koronę Glindy oraz podstawkę, dzięki której figurki można wyeksponować na półce. Całość urozmaici aplikacja LEGO Builder, w której dzieci mogą powiększać i obracać swój model w 3D, zapisywać zestawy i śledzić postępy. Przeżyj ponownie magiczną chwilę z filmu Wicked! Odtwórz scenę, w której Elphaba łamie prawa grawitacji, dzięki dużym figurkom Elphaby i Glindy. Dodaj akcesoria, zmień stroje i ustaw je w pozach. Zeskanuj ukryty kod QR, aby uzyskać dostęp do utworu \"Defying Gravity\" ze ścieżki dźwiękowej filmu oraz wyjątkowych treści LEGO®. Zanim się zalogujesz, najpierw poproś o pozwolenie osobę dorosłą!
 
+**Galeria:**
+
+- 75682-1: https://a.allegroimg.com/original/0590a2/9e36f6144723adfc1d96fe900760
+
 ---
 
-## 75683 — Klocki Lego Wicked 75683 Akademik Glindy i Elphaby
+## 75683 — Wicked 75683 Zarówno Glinda, jak i Elphaba mają wykształcenie akademickie
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 179.89 zł · EAN: 05702017758145 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75683 |
+| Nazwa angielska | Glinda & Elphaba's Dormitory |
+| Nazwa polska | Wicked 75683 Zarówno Glinda, jak i Elphaba mają wykształcenie akademickie |
+| Seria | Wicked |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 740 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 18 cm × gł. 11 cm |
+| EAN | 5702017758145 |
 
 Klocki LEGO Wicked 75683 Akademik Glindy i Elphaby
 
@@ -55,11 +95,26 @@ Dzieci mogą zeskanować ukryty w zestawie kod QR, aby uzyskać dostęp do wyją
 
 - Wymiary — w zamkniętej konfiguracji ten 740-elementowy zestaw LEGO® Wicked ma 20 cm wysokości, 18 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 75683-1: https://a.allegroimg.com/original/051be4/71f8eabd49d6ae6d73006f3cf849
+
 ---
 
-## 75684 — Lego Wicked 75684 Powitanie w Emerald City
+## 75684 — Witamy w Szmaragdowym Mieście
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 320.00 zł · EAN: 05702017758152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75684 |
+| Nazwa angielska | Welcome to Emerald City |
+| Nazwa polska | Witamy w Szmaragdowym Mieście |
+| Seria | Wicked |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 945 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 37 cm × gł. 13 cm |
+| EAN | 5702017758152 |
 
 LEGO WICKED 75684
 
@@ -79,21 +134,51 @@ Model wieży zawiera księgę zaklęć Grimmerie, stoisko z jabłkami w polewie,
 
 Zestaw z Emerald City ma 39 cm wysokości, 37 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 75684-1: https://a.allegroimg.com/original/11deb4/c81128ac4043bd50950ef14c66ba
+
 ---
 
-## 75685 — Klocki Lego Obraz Emerald City 1518 elementów
+## 75685 — Obraz Emerald City
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702017812939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75685 |
+| Nazwa angielska | Emerald City Wall Art |
+| Nazwa polska | Obraz Emerald City |
+| Seria | Wicked |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1518 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812939 |
 
 **75685 Obraz Emerald City**
  
 Ozdób swój dom magicznymi scenami dzięki kolorowemu zestawowi LEGO Wicked Obraz Emerald City (75685). Ten zestaw LEGO dla dorosłych, inspirowany musicalem Wicked, łączy sztukę i klocki LEGO w jedną dekorację ścienną. Odznacza się charakterystycznymi kolorami — różowym symbolizującym Glindę, zielonym Elphabę i żółtym Yellow Brick Road — i przywołuje wspomnienia niezwykłych przygód bohaterów. To kreatywny pomysł na dekoracje domu i ozdobę na biurko lub ścianę. Prezent dla kobiet, mężczyzn i fanów Wicked pozwala ożywić kultowe sceny w formacie 3D. Ten kolekcjonerski zestaw LEGO przedstawia znane miejsca z filmu: Shiz University, Munchkinland i Emerald City. W środku ukryta jest bańka Glindy, magiczny las oraz skrytka mieszcząca cztery minifigurki LEGO — Dorotkę, Tchórzliwego Lwa, Stracha na Wróble i Blaszanego Drwala, a także inne niespodzianki. Model LEGO Wicked to interaktywny zestaw konstrukcyjny dla dorosłych, który zapewnia relaks i satysfakcję z budowania. To także fajny pomysł na prezent, np. na urodziny czy imieniny. Ten zestaw LEGO z filmu Wicked zawiera 1518 elementów i sprawdzi się jako ozdoba do salonu lub biura.
 
+**Galeria:**
+
+- 75685-1: https://a.allegroimg.com/original/29a4b8/3d0ef02d4ecf95364f7fbb8663fb
+
 ---
 
-## 75687 — Lego Wicked 75687 Kryjówka Elphaby
+## 75687 — Kryjówka Elphaby
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 67.89 zł · EAN: 05702017812953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75687 |
+| Nazwa angielska | Elphaba's Retreat |
+| Nazwa polska | Kryjówka Elphaby |
+| Seria | Wicked |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 13 cm |
+| EAN | 5702017812953 |
 
 **LEGO Wicked 75687 Kryjówka Elphaby**
  
@@ -129,11 +214,26 @@ Pozwól dzieciom odkrywać świat magii i odgrywania ról dzięki zestawowi dla 
 - Wprowadź do domu filmową magię - zestawy LEGO Wicked pozwalają chłopcom, dziewczynkom i fanom filmów Wicked ponownie przeżyć przygody Elphaby i Glindy 
 - Wymiary - ten 228-elementowy model LEGO Wicked ma 9 cm wysokości, 19 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 75687-1: https://a.allegroimg.com/original/11bedd/a98d4e7b455b9cd482aaa45d3683
+
 ---
 
-## 75688 — Lego Wicked 75688 Dzień ślubu Glindy
+## 75688 — Dzień ślubu Glindy
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 131.20 zł · EAN: 05702017812960 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75688 |
+| Nazwa angielska | Glinda’s Wedding Day |
+| Nazwa polska | Dzień ślubu Glindy |
+| Seria | Wicked |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702017812960 |
 
 Otwórz świat kreatywnych zabaw dzięki zestawowi do odgrywania ról LEGO® Wicked Dzień ślubu Glindy (75688) dla dzieci w wieku od ośmiu lat. Dziewczynki, chłopcy i fani musicalu Wicked zbudują ten piękny model, a następnie odegrają dramatyczną scenę z Wicked: For Good, w której Glinda przygotowuje się do ślubu z Fiyero.
  
@@ -151,21 +251,51 @@ Po skończonej zabawie dzieci mogą zamknąć model z filmu Wicked, łącząc ze
 - Intuicyjne instrukcje — aplikacja LEGO® Builder poprowadzi Ciebie i Twoje dziecko przez budowanie dzięki narzędziom, które pozwalają przybliżać i obracać model w 3D, zapisywać zestawy oraz śledzić postępy 
 - Wymiary — po złożeniu ten 476-elementowy zestaw dla chłopców i dziewczynek ma 11 cm wysokości, 20 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 75688-1: https://a.allegroimg.com/original/293c3f/bd13db0b433b8d4c64cbec55f5c9
+
 ---
 
-## 75689 — Klocki Lego Wicked 75689 Emerald City i Kiamo Ko Castle
+## 75689 — Děti: Hračky: Stavebnice: LEGO: Sady: Wicked: Název sady; City a zámek Kiamo Ko
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702017813172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75689 |
+| Nazwa angielska | Emerald City & Kiamo Ko Castle |
+| Nazwa polska | Děti: Hračky: Stavebnice: LEGO: Sady: Wicked: Název sady; City a zámek Kiamo Ko |
+| Seria | Wicked |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 860 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813172 |
 
 **75689 Emerald City i Kiamo Ko Castle**
  
 Podaruj dzieciom w wieku od 9 lat nieograniczone przygody dzięki zestawowi LEGO Wicked Emerald City i Kiamo Ko Castle (75689). Ta zabawka konstrukcyjna dla dziewczynek, chłopców i fanów filmów Wicked pozwala odtworzyć emocjonalne zakończenie musicalu, odgrywając role Glindy w Emerald City i Elphaby w Kiamo Ko Castle. To kreatywna zabawka LEGO dla dzieci i świetny pomysł na prezent dla 9-latki lub chłopca. Ten zestaw LEGO Wicked zawiera minilaleczki LEGO Glindy i Elphaby oraz figurkę latającej małpy. Dzieci mogą odkrywać szczegółowe modele i wszystkie ich detale: w Emerald City znajdą sypialnię i ukrytą mapę Oz, a w Kiamo Ko Castle — Grymuar i tajny schowek, w którym Elphaba może zniknąć, by podążyć za swoim przeznaczeniem za tęczę z klocków LEGO. Zestawy LEGO Wicked łączą kreatywne zabawki konstrukcyjne z magią filmu, dzięki czemu dzieci mogą odgrywać sceny lub tworzyć własne historie. Ten zamek LEGO i kolorowe Emerald City to także dekoracja pokoju dziecięcego, która będzie przypominać o krainie Oz. Ta zabawka dla dziecka do zbudowania zawiera 860 elementów i dostarcza wielu godzin twórczej zabawy.
 
+**Galeria:**
+
+- 75689-1: https://a.allegroimg.com/original/29578b/96a6565443268c8fc4e97588f404
+
 ---
 
-## 75690 — Lego 75690 Wicked Wizyta Glindy i Elphaby w Munchkinland Nowe
+## 75690 — Wizyta Glindy i Elphaby w Munchkinland
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702017824802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75690 |
+| Nazwa angielska | Glinda & Elphaba Visit Munchkinland |
+| Nazwa polska | Wizyta Glindy i Elphaby w Munchkinland |
+| Seria | Wicked |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 744 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 23 cm × gł. 11 cm |
+| EAN | 5702017824802 |
 
 Podaruj dzieciom w wieku od dziewięciu lat inspirującą zabawkę, dzięki której odtworzą przygody z filmu Wicked. Zestaw Wizyta Glindy i Elphaby w Munchkinland (75690) to wyjątkowy pomysł na prezent dla dzieci, które uwielbiają zestawy do budowania małych domków i gadżety z filmu Wicked. Przedstawia on scenę, w której Elphaba i Glinda wracają do Munchkinlandu.
  
@@ -179,15 +309,34 @@ Fani filmu Wicked ukoronują Glindę pośród tulipanów Munchkinlandu, a nastę
 - Przenieś magię do domu — zestawy LEGO® Wicked dla dziewczynek i chłopców umożliwiają fanom filmów zbudowanie świata magii i zapewniają radość z przygód rodem z filmu Wicked
 - Pomoc w budowaniu — odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności Wymiary — model domku w tym 744-elementowym zestawie ma 21 cm wysokości, 23 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 75690-1: https://a.allegroimg.com/original/11dd4b/6f2c2bf442d39abc04e174aa8879
+
 ---
 
-## 75691 — Lego Wicked 75691 Podpórki pod książki z Glindą i Elphabą
+## 75691 — Podpórki pod książki z Glindą i Elphabą
 
-*Kategoria: Wicked · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702017836393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75691 |
+| Nazwa angielska | Glinda & Elphaba Bookends |
+| Nazwa polska | Podpórki pod książki z Glindą i Elphabą |
+| Seria | Wicked |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017836393 |
 
 75691 Podpórki pod książki z Glindą i Elphabą
  
 Ten uroczy zestaw LEGO Wicked Podpórki pod książki z Glindą i Elphabą (75691) pozwoli przenieść wyobraźnię do świata Wicked podczas przeglądania domowej biblioteczki. To zestaw konstrukcyjny dla dorosłych fanów, którzy lubią kreatywne ozdoby do salonu, dekoracje na półki z książkami i klocki LEGO dla dorosłych. Zielona podpórka do książek Elphaby obejmuje model Emerald City, zieloną butelkę eliksiru i Grymuar ze schowkami na minifigurki Czarnoksiężnika i Fiyero. Różowa podpórka na książki Glindy zawiera model Shiz University, motyla i ukrytą przestrzeń na minifigurki Madame Morrible i Pfannee. Ten zestaw kolekcjonerski LEGO Wicked zawiera aż sześć minifigurek, w tym Glindę i Elphabę. To pomysł na prezent dla kobiet, mężczyzn i mola książkowego, a także świetny wybór na prezenty na imieniny lub urodziny. Obie podpórki do książek LEGO mają osobną instrukcję, więc można je budować wspólnie z bliską osobą. Zestaw konstrukcyjny dla dorosłych liczy 1327 elementów.
+
+**Galeria:**
+
+- 75691-1: https://a.allegroimg.com/original/291ab8/360a1e1243a4a641688bb6460ad6
 
 ---
 

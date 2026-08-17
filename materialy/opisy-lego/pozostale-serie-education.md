@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Education — opisy produktowe (24 pozycji)
 
-## 1069652 — Lego Classic 1069652 Lego Classic Kreatywne Klocki Duży Zestaw 484 El.
+## 1069652 — LEGO CLASSIC KREATYWNE KLOCKI DUŻY ZESTAW KLOCKÓW ŚREDNIE PUDEŁKO 484 EL.
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 179.00 zł · EAN: 09788889865866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1069652 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO CLASSIC KREATYWNE KLOCKI DUŻY ZESTAW KLOCKÓW ŚREDNIE PUDEŁKO 484 EL. |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | — |
+| Liczba elementów | 484 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 9788889865866 |
 
 ▶ LEGO CLASSIC KREATYWNE KLOCKI DUŻY ZESTAW KLOCKÓW ŚREDNIE PUDEŁKO 484 EL.
 
@@ -101,11 +111,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
  
 **Wspólna zabawa z innymi dziećmi, czy rodzicami** to wspaniały sposób na budowanie pozytywnych relacji. Wzmacniają się w ten sposób więzi pomiędzy dziećmi, a także dziećmi i ich rodzicami. Wspólna zabawa **uczy cierpliwości**, wspólnego **poszukiwania rozwiązań**, otwartości na pomysły innych, a także **asertywności **i umiejętności prezentowania **własnych pomysłów**. Tu każda koncepcja jest dobra, co pomaga w budowaniu **akceptacji i pewności siebie**. Wspólna zabawa jest nie tylko przyjemna, ale i bardzo rozwija.
 
+**Galeria:**
+
+- 1069652-1: https://a.allegroimg.com/original/112cdb/d361b2e549faa6bc9916858aa491
+
 ---
 
-## 45024 — Lego Education Duplo Steam Park 45024
+## 45024 — LEGO Education DUPLO STEAM Park
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1380.00 zł · EAN: 05702016123418 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45024 |
+| Nazwa angielska | STEAM Park |
+| Nazwa polska | LEGO Education DUPLO STEAM Park |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123418 |
 
 Zestaw LEGO® Education DUPLO® STEAM Park
 
@@ -142,11 +167,26 @@ Używanie klocków rozwija małą motorykę, kompetencje techniczne i  umiejęt
 - Wyrażanie uczuć i myśli innych ludzi
 - Rozumienie, jak postępowanie jednego człowieka może wpłynąć na życie innych
 
+**Galeria:**
+
+- 45024-1: https://a.allegroimg.com/original/119b5f/a4b0acd14fa68ce7478e12997c35
+
 ---
 
-## 45025 — Lego Education Duplo Coding Express 45025
+## 45025 — Coding Express
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1750.00 zł · EAN: 05702016349436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45025 |
+| Nazwa angielska | Coding Express |
+| Nazwa polska | Coding Express |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016349436 |
 
 **Zabawa w kodowanie**
 
@@ -176,11 +216,26 @@ Zestaw sprawdzi się jako element przedszkolnych pracowni DUPLO i w domu jako du
 
 Do zabawy ze starszymi dziećmi można wykorzystać darmową aplikację na tablet. Pozwala ona zmieniać działanie płytek i wprowadzać do zabawy własne programistyczne pomysły.
 
+**Galeria:**
+
+- 45025-1: https://a.allegroimg.com/original/11c404/6df3fdf642f0894eeda88d47867b
+
 ---
 
-## 45028 — Lego Education Duplo Mój Świat XL 45028
+## 45028 — Lego Education Duplo Mój świat XL 45028
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1750.00 zł · EAN: 05702016677461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45028 |
+| Nazwa angielska | My XL World |
+| Nazwa polska | Lego Education Duplo Mój świat XL 45028 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677461 |
 
 **LEGO Education DUPLO Mój Świat XL 45028**
 
@@ -197,11 +252,26 @@ Zestaw zawiera:
 
 Dodatkową wartością zestawu jest możliwość pracy z dziećmi metodą 6 klocków. Jest to sposób na wsparcie rozwoju dzieci, również tych z różnymi niepełnosprawnościami.
 
+**Galeria:**
+
+- 45028-1: https://a.allegroimg.com/original/11354d/5871450e4da399451bdca283ac58
+
 ---
 
-## 45200 — Lego Education 45200 Zestaw naukowy z misją na Księżyc
+## 45200 — Zestaw naukowy z misją na Księżyc
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017590042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45200 |
+| Nazwa angielska | Moon Mission Science Kit |
+| Nazwa polska | Zestaw naukowy z misją na Księżyc |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 38 cm × gł. 9 cm |
+| EAN | 5702017590042 |
 
 LEGO 45200 Education
 
@@ -244,11 +314,26 @@ To wspaniale, że dorośli mogą wspierać naukę dzieci za pomocą fajnego zest
 
 - Wymiary — ten 519-elementowy zestaw kosmiczny LEGO® zawiera model platformy startowej o wymiarach 14 cm wysokości, 38 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 45200-1: https://a.allegroimg.com/original/11048e/c4242239435d84f0e1b6351dcbfd
+
 ---
 
-## 45201 — Lego Education 45201 Zestaw naukowy ze zwierzętami Antarktydy
+## 45201 — Zestaw naukowy ze zwierzętami Antarktydy
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702017587356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45201 |
+| Nazwa angielska | Antarctic Animals Science Kit |
+| Nazwa polska | Zestaw naukowy ze zwierzętami Antarktydy |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 461 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 25 cm × gł. 26 cm |
+| EAN | 5702017587356 |
 
 **LEGO 45201 Zestaw naukowy ze zwierzętami Antarktydy**
 
@@ -273,11 +358,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 45201-1: https://a.allegroimg.com/original/1187af/8fb2626a4fe18d3dc925ff849f79
+
 ---
 
-## 45202 — Lego Education 45202 Zestaw naukowy z misją na Marsa
+## 45202 — Zestaw naukowy z misją na Marsa
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702018066492 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45202 |
+| Nazwa angielska | Mars Mission Science Kit |
+| Nazwa polska | Zestaw naukowy z misją na Marsa |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 933 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 49 cm × szer. 12 cm × gł. 18 cm |
+| EAN | 5702018066492 |
 
 **LEGO 45202 Zestaw naukowy z misją na Marsa**
 
@@ -302,11 +402,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 45202-1: https://a.allegroimg.com/original/110812/88553d1f4416966b41bdfac027ca
+
 ---
 
-## 45203 — Lego Education 45203 Zestaw naukowy ze zwierzętami Arktyki
+## 45203 — Zestaw naukowy ze zwierzętami Arktyki
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702018066508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45203 |
+| Nazwa angielska | Arctic Animals Science Kit |
+| Nazwa polska | Zestaw naukowy ze zwierzętami Arktyki |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 19 cm × gł. 8 cm |
+| EAN | 5702018066508 |
 
 **LEGO 45203 Zestaw naukowy ze zwierzętami Arktyki**
 
@@ -331,11 +446,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 45203-1: https://a.allegroimg.com/original/11af58/a55d57ac482b93830fdf310eebec
+
 ---
 
-## 45300 — Lego Education 45300 WeDo 2.0 Basic 45300
+## 45300 — WeDo 2.0 Basic 45300
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1950.00 zł · EAN: 05702015608800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45300 |
+| Nazwa angielska | WeDo 2.0 Core Set |
+| Nazwa polska | WeDo 2.0 Basic 45300 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608800, 5702017156538 |
 
 Klocki LEGO WeDo
  
@@ -383,11 +513,27 @@ Kompatybilność oprogramowania:
  
 Dla firm 12 miesięcy
 
+**Galeria:**
+
+- 45300-1: https://a.allegroimg.com/original/00d8fe/004e23cc432d9543dd888768022b
+- 45300-2: https://a.allegroimg.com/original/1138ad/93170a6c4b1ab2560a85474fddba
+
 ---
 
-## 45345 — Klocki Lego Education 45345 Spike Essential Zestaw edukacyjny
+## 45345 — Spike Essential
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1619.90 zł · EAN: 05702016677591 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45345 |
+| Nazwa angielska | SPIKE Essential |
+| Nazwa polska | Spike Essential |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 449 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677591 |
 
 Zapraszam do zakupu  zestawu
 
@@ -425,11 +571,26 @@ LEGO® Education SPIKE™ Essential to ciekawy sposób na praktyczną naukę prz
 - Rozwiązywanie problemów związanych z opowiadanymi historiami.
 - Opanowanie słownictwa związanego z umiejętnościami społecznymi i emocjami podczas pomagania bohaterom historii w rozwiązaniu problemu.
 
+**Galeria:**
+
+- 45345-1: https://a.allegroimg.com/original/1150fc/0cc78ce04203a3f26b4004a782d7
+
 ---
 
-## 45400 — Lego Education BricQ Motion Prime 45400
+## 45400 — LEGO Education BricQ Motion Prime 45400
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702016677607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45400 |
+| Nazwa angielska | BricQ Motion Prime |
+| Nazwa polska | LEGO Education BricQ Motion Prime 45400 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 562 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677607 |
 
 Sklep NeoRobot zaprasza do zakupu:
 
@@ -502,11 +663,26 @@ Zapraszamy do zakupu przez Allegro oraz przez naszą stronę internetową, gdzie
 
 **NeoRobots Sp. z o.o.**
 
+**Galeria:**
+
+- 45400-1: https://a.allegroimg.com/original/1120cc/3b9c165843249aced85b0abc07db
+
 ---
 
-## 45401 — Lego Education BricQ Motion Essential 45401
+## 45401 — LEGO Education BricQ Motion Essential 45401
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016677614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45401 |
+| Nazwa angielska | BricQ Motion Essential |
+| Nazwa polska | LEGO Education BricQ Motion Essential 45401 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 523 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677614 |
 
 Sklep NeoRobot zaprasza do zakupu:
 
@@ -559,11 +735,26 @@ Zapraszamy do zakupu przez Allegro oraz przez naszą stronę internetową, gdzie
 
 **NeoRobots Sp. z o.o.**
 
+**Galeria:**
+
+- 45401-1: https://a.allegroimg.com/original/119138/b6789e4f48cba5decd9bfb327a58
+
 ---
 
-## 45521 — Lego Education Informatyka i Ai 8+ 45521
+## 45521 — LEGO Education Informatyka i AI 8+
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 2289.00 zł · EAN: 05702018066232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45521 |
+| Nazwa angielska | Computer Science & AI Kit 3-5 |
+| Nazwa polska | LEGO Education Informatyka i AI 8+ |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018066232 |
 
 LEGO  Education 45521 Informatyka i AI 8+
 
@@ -579,11 +770,26 @@ Wprowadź podstawy informatyki oraz naukę o sztucznej inteligencji dostosowaną
 - 1 x Kabel USB,
 - 1 x Wytrzymałe, sztaplowane pudełko do przechowywania,
 
+**Galeria:**
+
+- 45521-1: https://a.allegroimg.com/original/114c93/d0351ea44130bce2f129bbc8c8da
+
 ---
 
-## 45544 — Lego Education 45544 Zestaw bazowy nowy
+## 45544 — Zestaw bazowy
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 4200.00 zł · EAN: 05702016364309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45544 |
+| Nazwa angielska | EV3 Core Set |
+| Nazwa polska | Zestaw bazowy |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 541 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016364309 |
 
 „Produkt jest zaplombowany. Po zerwaniu plomby zwrot nie będzie przyjmowany. Produkt kolekcjonerski.”
 
@@ -621,11 +827,26 @@ Pudełko oryginalnie zamknięte przez producenta, wszystko nowe !!!
  
 **Oprogramowanie jest darmowe i dystrybuowane drogą elektroniczną.**
 
+**Galeria:**
+
+- 45544-1: https://a.allegroimg.com/original/00a24c/b2582750475481daec6636db6ca6
+
 ---
 
-## 45601 — Lego Education 45601 Lego Technic Large Hub for Spike Prime
+## 45601 — Edukacja
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 8990.00 zł · EAN: 00673419313360 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45601 |
+| Nazwa angielska | Large Hub |
+| Nazwa polska | Edukacja |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419313360 |
 
 LEGO Education 45601 LEGO Technic serce do SPIKE Prime
 
@@ -637,21 +858,51 @@ LEGO® Technic™ Large Hub to zaawansowane, ale łatwe w użyciu urządzenie w 
 - **LEGO - wiek:** 6+ 
 - **Liczba elementów:** 2
 
+**Galeria:**
+
+- 45601-1: https://a.allegroimg.com/original/112d7b/6ee8ab9f4ced85b6dcd53878fbb9
+
 ---
 
-## 45620 — Lego Education Nauki przyrodnicze i ścisłe 5+ 45620
+## 45620 — Nauki przyrodnicze i ścisłe
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 1640.00 zł · EAN: 05702017603254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45620 |
+| Nazwa angielska | Science Kit Year 1-3 |
+| Nazwa polska | Nauki przyrodnicze i ścisłe |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017603254 |
 
 Zaprojektowane z myślą o osiąganiu lepszych wyników w nauce przedmiotów przyrodniczych i ścisłych, rozwiązanie LEGO® Education Nauki przyrodnicze i ścisłe oferuje nauczycielom możliwość przeprowadzenia lekcji dla dzieci w wieku od 5 lat. Każdy z uczniów ma szansę na odniesienie sukcesu dzięki współpracy z rówieśnikami w trakcie praktycznego rozwiązywania problemów naukowych. Zestaw zawiera klocki LEGO®, instrukcje budowania, interaktywny sprzęt i kabel USB do ładowania, dzięki czemu angażuje uczniów, zmieniając klasę w swoiste centrum ciekawości, w którym aż kipi od ekscytujących odkryć.
  
 Zestaw ten zawiera ponad 40 dostosowanych do założeń podstawy programowej lekcji, opartych na dociekaniu, które są wyjątkowo intuicyjne w przygotowaniu i realizacji. Dzięki temu można maksymalnie wykorzystać czas zajęć i zapewnić natychmiastowe zaangażowanie uczniów w klasie. Podczas lekcji dostosowanych do odpowiedniego wieku, uczniowie mierzą się z zagadnieniami naukowymi w praktyce i wspólnie opracowują rozwiązania. Zachwyć uczniów opartym na dociekaniach odkrywaniem pojęć naukowych.
 
+**Galeria:**
+
+- 45620-1: https://a.allegroimg.com/original/116fd0/ae604c874196ae74050495163d07
+
 ---
 
-## 45621 — Lego Education Nauki przyrodnicze i ścisłe 8+ 45621
+## 45621 — Science Kit Year 4-6
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 2050.00 zł · EAN: 05702017603834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45621 |
+| Nazwa angielska | Science Kit Year 4-6 |
+| Nazwa polska | Science Kit Year 4-6 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017603834 |
 
 Zaprojektowane z myślą o osiąganiu lepszych wyników w nauce przedmiotów przyrodniczych i ścisłych, rozwiązanie LEGO® Education Nauki przyrodnicze i ścisłe oferuje nauczycielom możliwość przeprowadzenia lekcji dla dzieci w wieku od 8 lat, które umożliwiają każdemu z uczniów odniesienie sukcesu i sprzyjają współpracy podczas praktycznego rozwiązywania problemów naukowych.
  
@@ -677,11 +928,26 @@ Wymiary: 426 x 105 x 308 mm,
  
 Waga: 2,5kg
 
+**Galeria:**
+
+- 45621-1: https://a.allegroimg.com/original/11d18f/1886819e41bdb7fe674851def1fe
+
 ---
 
-## 45681 — Lego Spike Prime zestaw rozszerzający z płytką 45681
+## 45681 — Spike Prime
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 798.00 zł · EAN: 05702016875546 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45681 |
+| Nazwa angielska | SPIKE Prime Expansion Set (v2) |
+| Nazwa polska | Spike Prime |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 604 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016875546 |
 
 LEGO EDUCATION
 
@@ -713,11 +979,26 @@ Kartonowe pudełko
 - czujnik koloru,
 - duży silnik.
 
+**Galeria:**
+
+- 45681-1: https://a.allegroimg.com/original/114b34/b9d07c144236ad898cb72e3521a9
+
 ---
 
-## 45811 — Lego Education 45811 World Robot Olympiad Brick
+## 45811 — LEGO 45811 WORLD ROBOT OLYMPIAD BRICK SET
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702015725132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45811 |
+| Nazwa angielska | World Robotic Olympiad Brick Set |
+| Nazwa polska | LEGO 45811 WORLD ROBOT OLYMPIAD BRICK SET |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 724 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015725132 |
 
 **LEGO Education 45811 WORLD ROBOT OLYMPIAD**
 
@@ -734,11 +1015,26 @@ Kartonowe pudełko
 - Wiek: 10+
 - Ilość elementów: 724
 
+**Galeria:**
+
+- 45811-1: https://a.allegroimg.com/original/111222/622675ff415ca72f4533415b5a09
+
 ---
 
-## 8449631 — Lego Education Spike Prime zestaw podstawowy 45678
+## 8449631 — Spike Prime
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 2194.67 zł · EAN: 05702016376319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8449631 |
+| Nazwa angielska | — |
+| Nazwa polska | Spike Prime |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016376319 |
 
 LEGO EDUCATION
 
@@ -761,11 +1057,26 @@ Zestaw LEGO® Education SPIKE™ Prime to narzędzie do nauki przedmiotów STEAM
 - Środowisko programowania typu przeciągnij i upuść na tablety i komputery bazuje na popularnym języku programowania Scratch, którego używają miliony dzieci na całym świecie.
 - 3 zgodne ze standardami nauczania moduły STEAM dla klas 4–8 zawierają głównie 45-minutowe zajęcia dotyczące inżynierii i informatyki. W komplecie szczegółowe scenariusze lekcji online i materiały dla nauczycieli.
 
+**Galeria:**
+
+- 8449631-1: https://a.allegroimg.com/original/11086d/bac98c6f4a1eb8be058ee82a92a0
+
 ---
 
-## 9303 — Lego Edukacja 9303 Lotnisko
+## 9303 — Lotnisko
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 499.95 zł · EAN: 05702014162167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9303 |
+| Nazwa angielska | Creator Community Builders |
+| Nazwa polska | Lotnisko |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2004 |
+| Liczba elementów | 1180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014162167 |
 
 LEGO 9303 Lotnisko
 
@@ -794,11 +1105,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 9303-1: https://a.allegroimg.com/original/116785/6a153b154c069d9a3e6e16a92f6e
+
 ---
 
-## 9333 — Lego Education 9333 Vehicles Set Zestaw pojazdów
+## 9333 — Vehicles Set
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 865.55 zł · EAN: 05702014700871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9333 |
+| Nazwa angielska | Vehicles |
+| Nazwa polska | Vehicles Set |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2010 |
+| Liczba elementów | 934 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014700871 |
 
 LEGO Education 9333 Vehicles Set – Ogromny Zestaw Pojazdów (934 elementy!)
 
@@ -818,11 +1144,26 @@ Przedmiotem oferty jest unikatowy zestaw **LEGO Education 9333 Vehicles Set** z 
 - **Rok wydania:** 2010
 - **Liczba elementów:** 934
 
+**Galeria:**
+
+- 9333-1: https://a.allegroimg.com/original/111c66/5602815941448aad8704356f05c0
+
 ---
 
-## 9386 — Lego Education 9386
+## 9386 — Lego 9386
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702014709102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9386 |
+| Nazwa angielska | Doors Windows & Roof Tiles |
+| Nazwa polska | Lego 9386 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2010 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014709102 |
 
 Klocki LEGO Education
 
@@ -840,13 +1181,32 @@ Ten zestaw daje ogromny wybór okien z ​​roletami , drzwi i dachówek .
 
 Wszystko, czego potrzebujesz , aby tworzyć i budować swoje własne miasto.
 
+**Galeria:**
+
+- 9386-1: https://a.allegroimg.com/original/112c66/c131e38a4de3a46393e55aadcc5a
+
 ---
 
-## 9388 — Lego Education System Małe płytki budowlane 9388
+## 9388 — Small Building Plates 9388
 
-*Kategoria: Pozostałe serie > Education · cena Allegro (2026-08-17): 190.00 zł · EAN: 00673419168168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9388 |
+| Nazwa angielska | Small Building Plates |
+| Nazwa polska | Small Building Plates 9388 |
+| Seria | Pozostałe serie > Education |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2012 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419168168 |
 
 22 płytki są świetną podstawą różnorodnych konstrukcji. Zestaw uzupełnia pracownie szkolne i domowe zestawy klocków. Pomaga młodym architektom w konstruowaniu projektów. Jest też ważnym elementem w pracowniach matematycznych - pomaga w nauce abstrakcyjnych pojęć dzięki przełożeniu ich na realne budowle.
+
+**Galeria:**
+
+- 9388-1: https://a.allegroimg.com/original/11e49c/eb6241804de1adfb55c0d975f284
 
 ---
 

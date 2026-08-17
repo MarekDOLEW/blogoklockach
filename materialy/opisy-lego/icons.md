@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO ICONS — opisy produktowe (115 pozycji)
+# LEGO ICONS — opisy produktowe (102 pozycji)
 
-## 10273 — Lego Icons 10273 Dom strachu
+## 10273 — Dom strachu
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1045.00 zł · EAN: 05702016668001 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10273 |
+| Nazwa angielska | Haunted House |
+| Nazwa polska | Dom strachu |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 68 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702016668001 |
 
 LEGO Creator Expert 10273 Dom strachu
  
@@ -37,11 +48,27 @@ Wprowadziliśmy nowe opakowania zestawów dla dorosłych konstruktorów, aby uł
 - Klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są rygorystycznie testowane, abyśmy mieli pewność, że każdy zestaw konstrukcyjny spełnia najwyższe standardy bezpieczeństwa oraz jakości i wytrzyma trudy zabawy.
 
+**Galeria:**
+
+- 10273-1: https://a.allegroimg.com/original/0510f3/eef30f4c4fb58ba84416fe6f329f
+
 ---
 
-## 10274 — Klocki Lego 10274 Creator Expert ECTO-1 Pogromców duchów ----- Outlet
+## 10274 — ECTO-1 Pogromców duchów
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 988.88 zł · EAN: 05702016668018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10274 |
+| Nazwa angielska | ECTO-1 |
+| Nazwa polska | ECTO-1 Pogromców duchów |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2352 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22,5 cm × szer. 16,5 cm |
+| EAN | 3616303321444, 5702016668018 |
 
 **Nowy, zestaw, klocki oryginalnie w woreczkach.**
 
@@ -69,11 +96,28 @@ Ten zestaw LEGO z samochodem do zbudowania należy do serii inspirujących model
 - Model ECTO-1 to wyzwanie konstruktorskie stworzone z myślą o dorosłych. Ucieszy wszystkich fanów Pogromców duchów™ i klocków LEGO®, dając im zajęcie na wiele godzin. Żaden wielbiciel modeli samochodów nie przejdzie koło niego obojętnie.
 - ECTO-1 ma wiele realistycznych detali, a do tego jest całkiem spory — ma ok. 22,5 cm wysokości, 47 cm długości i 16,5 cm szerokości. Taki model w kolekcji to powód do dumy!
 
+**Galeria:**
+
+- 10274-1: https://a.allegroimg.com/original/0592cd/9a618f8c46e08ace0ce59cefa750
+- 10274-2: https://a.allegroimg.com/original/115b64/201338c842eb9a1fa0b04710746f
+
 ---
 
-## 10276 — Klocki Koloseum Dla Dorosłych lego 3d kalendarz
+## 10276 — KOLOSEUM
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702016668032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10276 |
+| Nazwa angielska | Colosseum |
+| Nazwa polska | KOLOSEUM |
+| Seria | Icons |
+| Grupa wiekowa | 1 m + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9036 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668032 |
 
 Magiczny kalendarz papierowy 3D „Rzymskie Koloseum” na rok 2026: nasz kalendarz 3D na rok 2026 przeniesie Cię w świat monumentalnej architektury okresu cesarskiego. Ten szczegółowy kalendarz z odrywanymi kartkami odsłania nowy fragment kultowego Koloseum dzień po dniu, aż w końcu przekształca się w zachwycający, trójwymiarowy model papierowy. Ten fascynujący, codzienny rytuał zachwyca całą rodzinę i stanowi idealny prezent dla wszystkich miłośników historii i architektury. Kalendarz całoroczny na rok 2026: nasz kreatywny kalendarz zabierze Cię w roczną podróż odkrywczą do starożytnego Rzymu. Każda oddzielona kartka w roku 2026 przybliża Cię do ukończenia tego archeologicznego arcydzieła i wypełnia każdy dzień ekscytującym oczekiwaniem i radością odkrywania. Ten kalendarz oferuje pełną funkcjonalność od 1 stycznia, łącząc praktyczną użyteczność z wizualną przyjemnością i towarzysząc Ci przez cały rok pełen wrażeń.
 
@@ -81,11 +125,27 @@ Informacje o produkcie i zastosowanie: codzienne, wyjmowane arkusze kalendarza w
 
 Monumentalna, trójwymiarowa dekoracja na Twoje biurko: ostatniego dnia 2026 roku Twoje arcydzieło zostanie ukończone. Ukończone Koloseum przekształca się z funkcjonalnego kalendarza biurkowego w imponującą, trójwymiarową dekorację z papieru. Ten ozdobny symbol rzymskiej sztuki i historii inżynierii stanie się centralnym punktem Twojego biurka przez cały rok, dodając przestrzeni roboczej atmosfery ponadczasowej elegancji.
 
+**Galeria:**
+
+- 10276-1: https://a.allegroimg.com/original/11b130/0c82f5174af78d61a99f1007ed5a
+
 ---
 
-## 10277 — Lego 10277 Creator Expert Lokomotywa Crocodile
+## 10277 — Lokomotywa Crocodile
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702016757460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10277 |
+| Nazwa angielska | Crocodile Locomotive |
+| Nazwa polska | Lokomotywa Crocodile |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016757460 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -102,11 +162,27 @@ Numer magazynowy sprzedawcy: 202603012
 
 Przybliżone wymiary opakowania: **54 x 28,2 x 9,1 cm**
 
+**Galeria:**
+
+- 10277-1: https://a.allegroimg.com/original/113e05/c770ffd34a78a170845e625f610d
+
 ---
 
-## 10279 — Lego Icons 10279 Volkswagen T2 Camper Van
+## 10279 — Volkswagen T2 Camper Van
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 895.00 zł · EAN: 05702016913736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10279 |
+| Nazwa angielska | Volkswagen T2 Camper Van |
+| Nazwa polska | Volkswagen T2 Camper Van |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm |
+| EAN | 5702016913736 |
 
 Wspominasz swoje wycieczki, planujesz podróże, a może po prostu chcesz dać wyraz swojej pasji do samochodów kempingowych? Zestaw konstrukcyjny LEGO® 10279 Mikrobus kempingowy Volkswagen T2 na pewno przypadnie Ci do gustu. Zrelaksuj się, budując model mikrobusa kempingowego, a potem przyjrzyj się jego szczegółowemu wnętrzu i ustaw auto na półce, aby przypominało Ci o tym, że świat przygód czeka tuż za rogiem.
  
@@ -132,11 +208,27 @@ Ten zestaw jest częścią kolekcji zestawów konstrukcyjnych LEGO dla dorosłyc
 - Elementy konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
 
+**Galeria:**
+
+- 10279-1: https://a.allegroimg.com/original/116c8e/e9ecc199474db0123b125105edf8
+
 ---
 
-## 10282 — Zestaw Lego Icons 10282 Biały But Adidas Originals Superstar
+## 10282 — Klocki LEGO Icons 10282 But adidas Originals Superstar
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 394.98 zł · EAN: 05702016914030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10282 |
+| Nazwa angielska | adidas Originals Superstar |
+| Nazwa polska | Klocki LEGO Icons 10282 But adidas Originals Superstar |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 731 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm |
+| EAN | 5702016914030 |
 
 ZESTAW LEGO ICONS - 10282 - BIAŁY BUT ADIDAS ORIGINALS SUPERSTAR
 
@@ -172,11 +264,27 @@ Model LEGO adidas Originals Superstar został zaprojektowany z ogromną dbałoś
 
 LEGO Icons 10282 to idealny wybór na prezent dla każdego fana marki adidas, sneakerheadów oraz dorosłych miłośników LEGO. To zestaw, który łączy modę, design i kreatywne budowanie, oferując nie tylko satysfakcję z konstrukcji, ale także efektowny model do ekspozycji. Świetnie sprawdzi się jako prezent urodzinowy, świąteczny albo po prostu jako wyjątkowy upominek bez okazji. Dzięki dopracowanym detalom i kolekcjonerskiemu charakterowi z pewnością zachwyci każdego obdarowanego i stanie się wyjątkowym elementem dekoracyjnym w domu lub biurze.
 
+**Galeria:**
+
+- 10282-1: https://a.allegroimg.com/original/0502a4/0189a26b407880c9ca9d771c836e
+
 ---
 
-## 10289 — Lego 10289 Strelicja królewska
+## 10289 — Bird of Paradise
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1184.00 zł · EAN: 05702016973563 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10289 |
+| Nazwa angielska | Bird of Paradise |
+| Nazwa polska | Bird of Paradise |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016973563 |
 
 **LEGO Strelicja królewska 10289**
 
@@ -202,37 +310,27 @@ Strelicja królewska, jeden z najpiękniejszych kwiatów na świecie, może osi�
 
 • Klocki konstrukcyjne LEGO® produkowane są z wysokiej jakości materiałów. Zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku.
 
----
+**Galeria:**
 
-## 10290 — Klocki Lego Creator Expert Pickup 10290 Unikat! Okazja! Rzadki Egzemplarz!
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702016972030 · in stock*
-
-Trudno o lepszą ucieczkę od współczesności! Zbuduj pickupa LEGO® (10290) i wybierz się w podróż w lata 50. ubiegłego wieku. Ten realistyczny model klasycznej półciężarówki ma charakterystyczne, zaokrąglone linie i mnóstwo szczegółów. Przyjrzyj mu się bliżej, a odkryjesz realistyczną platformę z nadkolami, otwierane drzwi i klapę oraz zdejmowane drewniane poręcze.
- 
-Ciesz się z biegu czasu To auto ciężko pracuje przez cały rok, wożąc produkty z Ekologicznej Farmy. W pudełku jest wiele akcesoriów, więc możesz stworzyć ekspozycję, która ukaże różne pory roku. Jest tam taczka z kwiatami i konewka, która przywodzi na myśl wiosnę. W lecie pickup może wozić dwie drewniane skrzynki, pomidory i marchewki oraz bańkę na mleko. Jesienią może pojawić się charakterystyczna skrzynia z dyniami, a zimą ozdobisz model stroikiem i prezentem.
- 
-Podróże są świetne Ten zestaw jest częścią serii kolekcjonerskich modeli LEGO dla dorosłych, którzy cenią sobie piękne projekty. To wciągające wyzwanie konstruktorskie i doskonały prezent dla wszystkich miłośników starych pickupów.
-
- 
-- Zbuduj model LEGO®, który wiernie przedstawia rolniczego pickupa z lat 50. Przyjrzyj się wszystkim realistycznym funkcjom, a potem ustaw kolekcjonerski samochód na półce, aby móc podziwiać jego klasyczne linie. 
-- Model pickupa z zestawu LEGO® 10290 to dla dorosłych okazja, aby zaangażować się we wciągający projekt odtwarzania kultowego pojazdu z epoki klasycznego motoryzacyjnego designu. 
-- Przyjrzyj mu się bliżej, a odkryjesz liczne realistyczne detale, w tym platformę z nadkolami, otwierane drzwi i klapę oraz zdejmowane drewniane poręcze. 
-- Świeżo z pola! W pudełku znajdziesz różne akcesoria na kolejne pory roku: taczki z konewką, warzywa i bańkę na mleko, skrzynię z dyniami oraz świąteczny stroik i paczkę z prezentem. 
-- Pokieruj pickupem, a potem obejrzyj wnętrze przez otwierane drzwi. Możesz także podnieść maskę, pod którą kryje się silnik. 
-
- 
-- Ten zaprojektowany dla dorosłych budowniczych LEGO® model da Ci mnóstwo satysfakcji z budowania, a po ukończeniu zostanie ozdobą kolekcji. Może być także doskonałym prezentem dla każdego, kto uwielbia zabytkowe pickupy z lat 50. 
-- Wymiary: ok. 14 cm wysokości, 33 cm długości i 14 cm szerokości. 
-- Ten zestaw LEGO® z zabytkowym pickupem z lat 50. jest częścią serii kreatywnych modeli konstrukcyjnych stworzonych dla dorosłych miłośników budowania, którzy lubią piękne wzornictwo, starannie oddane szczegóły i elegancką architekturę. 
-- Elementy konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
-- Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
+- 10289-1: https://a.allegroimg.com/original/1100f5/bdbc85ae4e67b6d15100214b2aa3
 
 ---
 
-## 10294 — Klocki Lego Titanic 10294 9090 elementów Egzemplarz! Unikat! Okazja!
+## 10294 — Titanic
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 3199.99 zł · EAN: 05702016914320 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10294 |
+| Nazwa angielska | Titanic |
+| Nazwa polska | Titanic |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9090 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 44 cm × szer. 16 cm |
+| EAN | 5702016914320 |
 
 Słynny Titanic rozpala wyobraźnię ludzi na całym świecie od roku 1912, gdy wyruszył w swój tragiczny rejs. Dzięki zestawowi LEGO® Titanic (10294) możesz zbudować ogromny kolekcjonerski model, który będzie dla niego hołdem.
  
@@ -258,11 +356,26 @@ Ten statek to jeden z największych modeli LEGO w historii — ma ok. 135 cm dł
 - Elementy konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
 
+**Galeria:**
+
+- 10294-1: https://a.allegroimg.com/original/1148bf/0516abda4a6aa554cfb9c720df35
+
 ---
 
-## 10295 — Lego Icons Porsche 911 1458 el. 10295
+## 10295 — Porsche 911
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 519.98 zł · EAN: 05702016914351 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10295 |
+| Nazwa angielska | Porsche 911 Turbo & 911 Targa |
+| Nazwa polska | Porsche 911 |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1458 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 16 cm |
+| EAN | 5702016914351, 5905220305124 |
 
 LEGO Creator Expert Porsche 911 (10295)
  
@@ -295,11 +408,28 @@ Kabina pasażerska została zaprojektowana z dbałością o szczegóły. Kolorys
  
 Zestaw LEGO 10295 Porsche 911 to produkt skierowany do dorosłych (sugerowany wiek 18+), stanowiący model ekspozycyjny, który łączy walory kolekcjonerskie z zaawansowanym doświadczeniem budowy.
 
+**Galeria:**
+
+- 10295-1: https://a.allegroimg.com/original/256f46/8c2c88ca4f6fbdffec90927aebee
+- 10295-2: https://a.allegroimg.com/original/114a21/e833ed29474f89c14ccd4d131568
+
 ---
 
-## 10297 — Lego Icons 10297 Hotel Butikowy Modular Buildings Nowy
+## 10297 — Hotel butikowy
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 964.64 zł · EAN: 05702017151847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10297 |
+| Nazwa angielska | Boutique Hotel |
+| Nazwa polska | Hotel butikowy |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3066 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702017151847, 5905220305834 |
 
 Przedmiotem oferty jest NOWY i ORYGINALNY zestaw klocków LEGO:
 
@@ -325,11 +455,28 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj własne architektoniczne ar
 - Wysokiej jakości materiały — Klocki konstrukcyjne LEGO® powstają z najwyższej jakości materiałów. Zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim — Bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, by mieć pewność, że każdy model jest równie solidny co bezpieczny
 
+**Galeria:**
+
+- 10297-1: https://a.allegroimg.com/original/054752/d1850c2148b4a69e7f0d3c852a22
+- 10297-2: https://a.allegroimg.com/original/11177a/ab2790474daba1d4256f68084377
+
 ---
 
-## 10298 — Lego Creator Expert 10298 Vespa 125 zestaw klocków 1106 elementów
+## 10298 — LEGO CREATOR EXPERT 10298 Vespa 125 super zestaw klocków 1106 elementów
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 412.50 zł · EAN: 05702017151861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10298 |
+| Nazwa angielska | Vespa 125 |
+| Nazwa polska | LEGO CREATOR EXPERT 10298 Vespa 125 super zestaw klocków 1106 elementów |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 12 cm |
+| EAN | 5702017151861 |
 
 LEGO CREATOR EXPERT 10298 Vespa 125 super zestaw klocków 1106 elementów
 
@@ -369,11 +516,27 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj swoją kolekcję wymarzonyc
 - Wysokiej jakości materiały — klocki konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim — bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten zestaw z modelem skutera marki Vespa jest solidny
 
+**Galeria:**
+
+- 10298-1: https://a.allegroimg.com/original/11796a/543041c94c3ebe77a0e1f5f681d1
+
 ---
 
-## 10299 — Lego 10299 Creator Expert Stadion Realu Madryt Santiago Bernabéu
+## 10299 — 10299
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 3865.54 zł · EAN: 05702017153179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10299 |
+| Nazwa angielska | Real Madrid – Santiago Bernabéu Stadium |
+| Nazwa polska | 10299 |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5876 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 44 cm × gł. 38 cm |
+| EAN | 5702017153179 |
 
 Klocki LEGO Creator Expert 10299 - Stadion Realu Madryt - Santiago Bernabéu
 
@@ -423,11 +586,26 @@ Zestaw LEGO Creator Expert - Stadion Realu Madryt - Santiago Bernabéu trafił
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10299-1: https://a.allegroimg.com/original/11aca4/0b2466f64020a1edee0871389fe5
+
 ---
 
-## 10300 — Lego Icons 10300 Wehikuł Czasu Z Powrotu Do Przyszłości
+## 10300 — Wehikuł czasu z Powrotu do przyszłości
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702017153186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10300 |
+| Nazwa angielska | Back to the Future Time Machine |
+| Nazwa polska | Wehikuł czasu z Powrotu do przyszłości |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1872 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 19 cm |
+| EAN | 5702017153186 |
 
 Mamy coś specjalnego dla dorosłych fanów filmowej serii Powrót do przyszłości: oto zestaw konstrukcyjny LEGO Wehikuł czasu z Powrotu do przyszłości (10300). Daj się pochłonąć swojej pasji do jednej z najbardziej lubianych trylogii filmowych na świecie, budując którąś z trzech wersji samochodu potrafiącego przenosić się w czasie.
 
@@ -446,11 +624,27 @@ Ten zestaw LEGO jest najnowszym w kolekcji filmowych samochodów. Stanowi wciąg
 - Wysokiej jakości materiały klocki konstrukcyjne LEGO powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim bezpieczeństwo i jakość klocków LEGO są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten model jest solidny
 
+**Galeria:**
+
+- 10300-1: https://a.allegroimg.com/original/11ab25/ae485bd24544b91c8987dece5599
+
 ---
 
-## 10302 — Lego Icons Optimus Prime 10302
+## 10302 — Optimus Prime
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 641.90 zł · EAN: 05702017153209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10302 |
+| Nazwa angielska | Optimus Prime |
+| Nazwa polska | Optimus Prime |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1508 |
+| Cena katalogowa | 769.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm |
+| EAN | 5702017153209 |
 
 **OPTIMUS PRIME**
 
@@ -476,11 +670,27 @@ Przenieś się w czasie do lat 80. XX wieku, składając imponujący model legen
 
 • Bezpieczeństwo przede wszystkim — bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten model jest solidny.
 
+**Galeria:**
+
+- 10302-1: https://a.allegroimg.com/original/1106d5/e67bf55d4ffbbf1832d66b9be211
+
 ---
 
-## 10304 — Klocki Lego Icons Zestaw Chevrolet Camaro Z28 10304
+## 10304 — Chevrolet Camaro Z28
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017153254 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10304 |
+| Nazwa angielska | Chevrolet Camaro Z/28 1969 |
+| Nazwa polska | Chevrolet Camaro Z28 |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1456 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm |
+| EAN | 5702017153254 |
 
 **LEGO Creator Expert Chevrolet Camaro Z28 10304**
  
@@ -512,40 +722,27 @@ Rozwijaj kreatywność. Ćwicz koncentrację. Zbuduj swoją kolekcję wymarzonyc
  
 • Elementy LEGO® są poddawane rygorystycznym testom i kontrolom jakości
 
----
+**Galeria:**
 
-## 10305 — Lego Icons Zamek Rycerzy Herbu Lew 10305
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 2257.90 zł · EAN: 05702017153261 · in stock*
-
-**ZAMEK RYCERZY HERBU LEW**
-
-Dawno temu było sobie dziecko, które uwielbiało budować z klocków LEGO®. Teraz to dziecko jest już dorosłe i mamy dla niego nową misję. Z okazji dziewięćdziesięciolecia historii LEGO stworzono zestaw Zamek rycerzy herbu Lew (10305), który jest nową interpretacją oryginalnego zamku LEGO oraz modelem, o który od lat prosili fani.
-
-Opowieści o ekscytujących wyprawach
-
-Niesamowity zestaw jest pełen niespodzianek. Odkryj wspaniałe detale z każdej strony modelu do zbudowania, a następnie otwórz go, by zajrzeć do środka. Są tam ukryte korytarze, ruchome ściany, sekretne schowki, średniowieczny most zwodzony i otwierana brama, a także młyn wodny, wieże i baszty, komnaty, zbrojownia i wiele więcej. Dzięki 22 minifigurkom możesz odegrać sceny bitewne i rozmaite historie.
-
-Nie spiesz się
-
-Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zamek to wciągający projekt dla Ciebie lub świetny prezent dla każdego fana historii i zamków.
-
-- Nowa wersja klasycznego zamku – odpręż się przy budowaniu wszelkich detali tego modelu do zbudowania Zamek rycerzy herbu Lew (10305), który inspirowany jest klasycznymi zestawami LEGO®
-- Na prośbę fanów LEGO® – ten zestaw z okazji dziewięćdziesięciolecia historii LEGO został stworzony po przeprowadzeniu ankiety wśród 55 000 osób na platformie LEGO Ideas
-- 4514 elementów – ciesz się wielogodzinnym budowaniem i twórz detale tego wspaniałego modelu. Odkryj jego elementy z każdej strony i otwórz zamek, by zajrzeć do pełnego szczegółów wnętrza
-- Wiele średniowiecznych detali – podnieś i opuść most zwodzony oraz bramę, odkryj ukryte korytarze, ucieknij z lochu, uruchom młyn wodny i przygotuj się do walki w zbrojowni
-- Sekretna kryjówka – zbuduj tajną kryjówkę dla ludzi lasu. Gdy zaatakują, zrzuć ich do lochu przez zapadnię w podłodze i pomóż im uciec sekretnym korytarzem
-- 22 minifigurki – ożyw historie o królowej, rycerzach, łucznikach, magach i ludziach lasu dzięki kolekcji minifigurek i akcesoriom zaprojektowanym specjalnie na potrzeby tego zestawu
-- Wymiary – zamknięty model zamku ma 38 cm wysokości, 44 cm szerokości i 33 cm głębokości
-- Dla dorosłych, którzy nie przestają marzyć – ten zestaw LEGO® jest częścią serii zestawów konstrukcyjnych stworzonych dla dorosłych miłośników budowania, którzy lubią piękne wzornictwo, starannie oddane szczegóły i elegancką architekturę
-- Wysokiej jakości materiały – klocki konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić – i tak jest niezmiennie od 1958 roku
-- Bezpieczeństwo przede wszystkim – bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten model jest solidny
+- 10304-1: https://a.allegroimg.com/original/052808/cda6af524d4baf7910b6a67f75ee
 
 ---
 
-## 10306 — Lego Icons 10306 konsola Atari 2600
+## 10306 — Atari 2600
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1080.00 zł · EAN: 05702017153278 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10306 |
+| Nazwa angielska | Atari 2600 |
+| Nazwa polska | Atari 2600 |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2532 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 33 cm × gł. 22 cm |
+| EAN | 5702017153278 |
 
 Gotowi, by zagrać?
  
@@ -605,11 +802,27 @@ Nie przeszkadzać: tu się gra
  
 **Zajęcie dla dorosłych** – ten zestaw LEGO jest częścią serii zestawów konstrukcyjnych stworzonych dla dorosłych miłośników budowania, którzy lubią modele kolekcjonerskie i doceniają starannie oddane szczegóły
 
+**Galeria:**
+
+- 10306-1: https://a.allegroimg.com/original/055bfc/bc8fa9b84228b0b8bc393d57bb8a
+
 ---
 
-## 10307 — Lego Wieża Eiffla 10307 10001 elementów
+## 10307 — Wieża Eiffla
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 3149.00 zł · EAN: 05702017153292 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10307 |
+| Nazwa angielska | Eiffel Tower |
+| Nazwa polska | Wieża Eiffla |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 10001 |
+| Cena katalogowa | 2699.99 zł |
+| Wymiary złożonego | wys. 149 cm × szer. 57 cm × gł. 57 cm |
+| EAN | 5702017153292, 5906040658216 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -650,35 +863,90 @@ Odwiedź nowe miejsca dzięki zestawom LEGO dla dorosłych. Odkryj najwspanialsz
 - Wysokiej jakości materiały – klocki konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić – i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten model do zbudowania jest solidny
 
----
+**Galeria:**
 
-## 10308 — Lego 10308 Świąteczna główna ulica
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 778.00 zł · EAN: 05702017153285 · in stock*
-
-LEGO Icons "Świąteczna główna ulica". Numer katalogowy- 10308, ilość elementów- 1514.
- 
-Pełen świątecznej radości zestaw LEGO® Świąteczna główna ulica (10308) to najnowsza pozycja z popularnej serii LEGO Winter Village. Następnie stwórz tramwaj, który zabierze klientów do domu.
- 
-Mknij przez śnieg
- 
-Czy jest coś lepszego niż przejażdżka świątecznym tramwajem? Stwórz wszystkie detale pojazdu, w tym miejsca dla czterech minifigurek. Możesz nawet uruchomić model, dodając LEGO Powered Up oraz tory i światła (wszystkie sprzedawane oddzielnie).
- 
-Roztaczaj świąteczną atmosferę
- 
-Dodatkowo w zestawie znajduje się przystanek tramwajowy i dziecko wysyłające list do Świętego Mikołaja. Całość uzupełniają cztery instrukcje, dzięki którym model może budować cała rodzina.
- 
- 
-- Wsiądź do tramwaju – zbuduj tramwaj przewożący minifigurki. Ma on świąteczne dekoracje i cztery miejsca dla pasażerów 
-- Sześć minifigurek – ożyw świąteczną wioskę LEGO® dzięki zestawowi minifigurek. 
-- Model kompatybilny z Powered Up – wpraw model w ruch, dodając LEGO® Powered Up oraz własne tory i światła (wszystkie sprzedawane oddzielnie) 
-- Wymiary – model ma 10 cm wysokości, 17 cm długości i 7 cm szerokości
+- 10307-1: https://a.allegroimg.com/original/11f3c4/afab743c4c999239f01c9d11fe01
+- 10307-2: https://a.allegroimg.com/original/11f815/c356e95b4fe6bd742a4c127d042d
 
 ---
 
-## 10312 — Lego Icons 10312 Klub jazzowy
+## 10308 — Świąteczna główna ulica
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1148.00 zł · EAN: 05702017416625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10308 |
+| Nazwa angielska | Holiday Main Street |
+| Nazwa polska | Świąteczna główna ulica |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1514 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153285, 796435814526 |
+
+Oświetlenie GC378 do klocków 10308 Holiday Main Street
+
+**Parametry**
+
+- Napięcie robocze: poniżej 5 V
+- Zasilanie: USB (kompatybilne z power bankiem, komputerem lub ładowarką)
+- Materiały: przewody miedziane, elementy z tworzywa ABS
+- Kompatybilność: wyłącznie z zestawem LEGO 10308
+- Wymaga podstawowej zdolności manualnej – nie ciągnąć przewodów
+- Opakowanie: oryginalne
+
+**Zawartość opakowania:**
+
+– Komplet przewodów z diodami LED dopasowanymi do zestawu 10308
+
+– Moduł zasilający USB
+
+– Elementy montażowe ułatwiające instalację
+
+– Instrukcja obsługi
+
+Zainwestuj w zestaw GC378 i spraw, by Twoje świąteczne miasteczko rozbłysło magią. Dzięki niemu model 10308 Holiday Main Street stanie się nie tylko ozdobą półki, ale także wyjątkowym elementem dekoracyjnym, który rozświetli zimowe wieczory. Kupując w naszym sklepie masz pewność wysokiej jakości produktu i szybkiej dostawy – spraw, by te święta były naprawdę wyjątkowe.
+
+**Oświetlenie GC378 do zestawu klocków 10308 Holiday Main Street**
+
+Podkreśl wyjątkowy klimat świątecznej makiety dzięki zestawowi oświetleniowemu GC378, zaprojektowanemu specjalnie do modelu klocków 10308 Holiday Main Street. To idealne uzupełnienie budowli, które sprawi, że Twoje świąteczne miasteczko nabierze blasku i ożyje po zmroku. Lampki LED nadają konstrukcji ciepłego, nastrojowego światła, dzięki któremu każdy detal zestawu będzie prezentował się jeszcze bardziej efektownie i magicznie. To doskonały sposób, aby wprowadzić świąteczną atmosferę do wnętrza i zachwycić zarówno dzieci, jak i dorosłych.
+
+**Najważniejsze cechy produktu:**
+
+– Dedykowany komplet oświetleniowy pasujący do zestawu 10308 Holiday Main Street.
+
+– Diody LED emitujące przyjemne, ciepłe światło.
+
+– Łatwy montaż, dostosowany do konstrukcji klocków bez ingerencji w ich strukturę.
+
+– Podkreśla szczegóły budowli i tworzy wyjątkowy świąteczny klimat.
+
+– Zasilanie przez USB – możliwość podłączenia do powerbanku, ładowarki lub portu w komputerze.
+
+**Galeria:**
+
+- 10308-1: https://a.allegroimg.com/original/11e18a/db0bc4fb4a979b6c7dbbca3d8151
+- 10308-2: https://a.allegroimg.com/original/1119ba/42afe291409b99246a87c3644d4b
+
+---
+
+## 10312 — Klub jazzowy
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10312 |
+| Nazwa angielska | Jazz Club |
+| Nazwa polska | Klub jazzowy |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2899 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416625, 5905413616587 |
 
 Przygotuj się na noc pełną muzyki, jazzu i pizzy.
  
@@ -694,11 +962,28 @@ Zestaw **LEGO Icons Klub jazzowy (10312)** to Twój bilet na najlepszy występ w
 - Nawiązuj znajomości – wśród postaci znajduje się piosenkarz jazzowy, perkusista i basista z akcesoriami Zestaw zawiera także elementy dekoracyjne: nie potrzeba naklejek 
 - Cyfrowe instrukcje budowania – aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania dołączonych do tego zestawu
 
+**Galeria:**
+
+- 10312-1: https://a.allegroimg.com/original/05bc41/0cff06d549cd99c7e972b080afcb
+- 10312-2: https://a.allegroimg.com/original/111e50/fab2e6bb4659a5580e5486befa7a
+
 ---
 
-## 10314 — Lego Icons 10314 Stroik z suszonych kwiatów
+## 10314 — Stroik z suszonych kwiatów
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 217.77 zł · EAN: 05702017416878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10314 |
+| Nazwa angielska | Dried Flower Centerpiece |
+| Nazwa polska | Stroik z suszonych kwiatów |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 812 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 40 cm × gł. 13 cm |
+| EAN | 5702017416878 |
 
 - Rozwijaj kreatywność – stwórz ozdobę LEGO® Icons Stroik z suszonych kwiatów (10314) dzięki temu relaksującemu zestawowi dla dorosłych 
 - Inspirowany jesienią – ten kwiatowy zestaw konstrukcyjny jest pełen kolorowych kwiatów inspirowanych barwami jesieni, a jego głównymi elementami są gerbera i róża 
@@ -713,108 +998,27 @@ Zestaw **LEGO Icons Klub jazzowy (10312)** to Twój bilet na najlepszy występ w
 - Model wysokiej jakości – klocki LEGO® spełniają rygorystyczne standardy. Od ponad 60 lat są niezmiennie kompatybilne i łatwe w łączeniu 
 - Bezpieczeństwo gwarantowane – nasze klocki i elementy są dokładnie testowane, aby spełniać światowe standardy dotyczące bezpieczeństwa i jakości, zapewniając Ci poczucie bezpieczeństwa przy składaniu zestawów konstrukcyjnych LEGO®
 
----
+**Galeria:**
 
-## 10315 — Lego Icons 10315 Cichy Ogród
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 313.98 zł · EAN: 05702017416885 · in stock*
-
-LEGO ICONS 10315 Cichy ogród
- 
-LEGO ICONS 10315 Zaciszny ogród
-
-Zaciszny ogród
- 
-Icons Zaciszny ogród LEGO Icons Zaciszny ogród Zestaw konstrukcyjny dla dorosłych LEGO Icons Zaciszny ogród 10315 (1363 elementy) Stwórz czarującą ozdobę do domu lub biura dzięki zestawowi dla dorosłych LEGO Icons Zaciszny ogród.
- 
-Puść wodze wyobraźni Ciesz się wciągającym projektem dzięki zestawowi dla dorosłych LEGO Icons Zaciszny ogród (10315). Odpręż się, tworząc każdy piękny szczegół i zmieniaj aranżację, aby stworzyć idealną ozdobę do domu lub biura. Bogaty w funkcje ogród Ten model, wzorowany na tradycyjnym japońskim ogrodzie, zawiera most łukowy, strumień, karpia koi, kwiaty lotosu, drzewa, skały, kamienne latarnie oraz pawilon ze szczegółowo odtworzoną salą do ceremonii parzenia herbaty. To raj dla dorosłych i świetny pomysł na prezent dla entuzjastów ogrodnictwa i treningu uważności. Zapoznaj się z inspirującą ofertą zestawów konstrukcyjnych LEGO dla dorosłych. Odpręż się dzięki zestawowi LEGO Icons Zaciszny ogród (10315). Rozkoszuj się relaksującym projektem, budując tę inspirowaną Japonią przystań z pawilonem, mostem łukowym, strumieniem, karpiem koi, kwiatami lotosu, drzewami, skałami i kamiennymi latarniami. Uspokój umysł, zmieniając aranżację ogrodu, a potem ustaw model w domu lub biurze, aby wszyscy mogli się nim cieszyć.
-
-• Zbuduj piękny ogród i zajmij się nim — poświęć czas temu pomysłowemu projektowi konstrukcyjnemu LEGO Icons Zaciszny ogród (10315) dla dorosłych
- 
-• Co jest w pudełku? Wszystko, czego potrzeba do zbudowania modelu ogrodu zen z pawilonem, mostem łukowym, strumieniem, karpiem koi, kwiatami lotosu, drzewami, skałami i kamiennymi latarniami
- 
-• Modyfikuj swoją kompozycję — otwory w podstawie modelu ogrodu zen ułatwiają zmianę układu, dzięki czemu można tworzyć różne konfiguracje i aranżacje
- 
-• Pomysłowy prezent — zestaw LEGO Icons Zaciszny ogród został stworzony dla dorosłych fanów LEGO i kreatywnych projektów ogrodniczych
- 
-• Autentyczne akcesoria — akcesoria LEGO obejmują imbryk i trzepaczkę
- 
-• Cyfrowe instrukcje budowania — aplikacja LEGO Builder zawiera cyfrową wersję instrukcji do zestawu
- 
-• Wymiary — zestaw ma 21 cm wysokości, 32 cm szerokości i 20 cm głębokości
- 
-• Ciesz się chwilą — odkryj zestaw LEGO Icons Zaciszny ogród, część serii zestawów konstrukcyjnych przeznaczonych dla dorosłych fanów budowania
- 
-• Wysokiej jakości materiały — klocki konstrukcyjne LEGO powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć — i tak jest niezmiennie od 1958 roku
- 
-• Zrelaksuj się, budując zestaw LEGO Icons Zaciszny ogród
- 
-• Szczegółowy zestaw inspirowany tradycyjnym ogrodem zen
- 
-• Twórz różne konfiguracje i ustaw model w domu lub biurze
- 
-• Pomysł na prezent dla dorosłych fanów LEGO i kreatywnych projektów ogrodniczych • Autentyczne akcesoria — akcesoria LEGO obejmują imbryk i trzepaczkę
- 
-• Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania
- 
-• Zestaw ma 21 cm wysokości, 32 cm szerokości i 20 cm głębokości
- 
-• Jeden z wielu zestawów LEGO dla dorosłych
- 
-• Klocki LEGO można za każdym razem z łatwością połączyć
- 
-• Elementy LEGO spełniają wysokie standardy bezpieczeństwa i jakości
+- 10314-1: https://a.allegroimg.com/original/114f9f/bd4a9ffe4d6a8fdf00b0762755c3
 
 ---
 
-## 10316 — Klocki Lego Icons Władca Pierścieni: Rivendell 10316
+## 10317 — Land Rover Classic Defender 90
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1779.00 zł · EAN: 05702017416892 · in stock*
-
-Prawdziwe szaleństwo dla fanów Władcy Pierścieni!
- 
-**Ponad 6 tys. elementów, 15 minifigurek bohaterów Lord of the Rings!**
- 
-Wymiary:
- 
-wys.: 16" (39cm)
- 
-szer.: 30" (75cm)
- 
-głęb.: 20" (50cm)
-
-Odkrywaj Śródziemie™
- 
-Uczcij uwielbianą filmową trylogię za pomocą niesamowitego nowego zestawu LEGO® Icons Władca Pierścieni: Rivendell™. Ten niesamowity zestaw zawiera 15 minifigurek postaci i realistyczne detale, które będziesz stopniowo odkrywać podczas budowania. Dzięki niemu możesz odtworzyć ulubione sceny z filmów i snuć zupełnie nowe historie.
-
-Imponujący zestaw dla fanów!
-
-Odwiedź Rivendell™ dzięki zestawowi kolekcjonerskiemu z serii LEGO® Władca Pierścieni™ (10316). Projekt jest wzorowany na dolinie ze Śródziemia™, gdzie rozpoczęła się słynna wyprawa. Zestaw dla dorosłych zawiera 6167 elementów i jest pełen detali, które docenią fani filmu.
- 
-Tchnij życie w kultowe sceny
- 
-Zestaw konstrukcyjny jest udekorowany listowiem, które sprawia wrażenie przebywania w głębi lasu Rivendell™ i zawiera magiczne detale, w tym elfią kuźnię, zagracony gabinet Elronda, fragmenty Narsila™ oraz obrazy i posągi z historii Śródziemia™. W zestawie jest też 15 minifigurek, które ożywią ulubione sceny. Minifigurki mają odczepiane nogi, więc możesz usadzić je wokół stołu i odtworzyć kultową scenę narady u Elronda™.
- 
-Nie spiesz się
- 
-Zestaw, o który ubiegali się fani, został zaprojektowany dla miłośników Władcy Pierścieni™ i wielbicieli filmu, którzy doceniają zachwycające projekty.
- 
- 
-- Zbuduj dolinę ze Śródziemia™ ⁠– zbuduj i pochwal się Rivendell™ w wersji LEGO® dzięki zestawowi dla dorosłych WŁADCA PIERŚCIENI: RIVENDELL™ (10316) 
-- 6167 elementów pełnych filmowej magii – to angażujący projekt pełen detali i odniesień do filmowej trylogii Władcy Pierścieni™, które rozpoznają wszyscy fani 
-- Szczegółowe dekoracje – detale obejmują sypialnię Froda i gabinet Elronda, a różne pomieszczenia można eksponować osobno, na przykład naradę u Elronda™ można odłączyć od głównego modelu 
-- Kultowe postacie – zestaw zawiera 15 minifigurek, w tym kultowe postacie: Froda™, Sama™, Bilba Bagginsa™, Boromira™, Gimliego™, Aragorna™, Legolasa i Gandalfa Szarego™ 
-- Odtwórz swoje ulubione sceny ⁠– zestaw ułatwia odtworzenie kultowych momentów, w tym sceny narady u Elronda™ oraz momentu, w którym Drużyna Pierścienia przekracza most na początku swojej podróży 
-- Wymiary ⁠– zestaw ma 39 cm wysokości, 75 cm szerokości i 50 cm głębokości i jest podzielony na trzy sekcje: wieżę, krąg rady i altanę z rzeką i mostem 
-- Podaruj jako prezent – zestaw będzie wspaniałym prezentem dla miłośników filmu i fanów Władcy Pierścieni™, którzy z chęcią zagłębią się w lasy Rivendell™ 
-- Nie spiesz się – zestaw jest częścią serii LEGO® dla dorosłych, którzy doceniają imponujące projekty i szczegółowe detale 
-- Wysokiej jakości materiały – klocki LEGO® są jednolite, zawsze do siebie pasują i są wykonywane z wysokiej jakości materiałów od 1958 roku
-
----
-
-## 10317 — Klocki Lego Icons Zestaw Land Rover Classic Defender 90 10317
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702017416908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10317 |
+| Nazwa angielska | Land Rover Classic Defender 90 |
+| Nazwa polska | Land Rover Classic Defender 90 |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 16 cm |
+| EAN | 5702017416908 |
 
 **LEGO Icons Land Rover Classic Defender 90**
 
@@ -832,114 +1036,61 @@ Prezent dla fanów samochodów – ten zestaw będzie idealnym prezentem dla mi�
 
 Wymiary – model bez dodatków ma 16 cm wysokości, 32 cm długości i 16 cm szerokości
 
----
+**Galeria:**
 
-## 10318 — Lego 10318 Icons Concorde
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 775.95 zł · EAN: 05702017416915 · in stock*
-
-LEGO 10318 Icons - Concorde
-
-Wybierz się w przestworza, budując zestaw konstrukcyjny dla dorosłych LEGO® Icons Concorde (10318). Zrelaksuj się podczas tworzenia szczegółowej repliki najsłynniejszego pasażerskiego samolotu naddźwiękowego.
-
-LEGO 10318 Icons - Concorde
-
-**Wiernie odwzorowane detale**
-
-Podobnie jak jej angielsko-francuski oryginał, ta szczegółowa replika odrzutowca pasażerskiego ma odchylany dziób, działające podwozie, wysuwane tylne koło, skrzydła typu delta z ruchomymi sterami wysokości oraz odchylane górne i dolne stery. Posiada również łatwo dostępną część z fotelami i jest wyposażona w stojak, dzięki któremu można ustawić samolot w trybach lotu, startu lub lądowania.
-
-LEGO 10318 Icons - Concorde
-
-**Dane techniczne**:
-
-- **Producent:** LEGO
-- **Seria: **Icons - Concorde
-- **Wiek:** 18+
-- **Kod katalogowy:** 10318
-- **Liczba elementów:** 2083
-
-LEGO 10318 Icons - Concorde
-
-**Odpręż się za sterami samolotu**
-
-Skorzystaj z okazji do relaksu dzięki temu kolekcjonerskiemu zestawowi konstrukcyjnemu, który jest doskonałym pomysłem na prezent dla fanów Concorde'a i modeli samolotów. Zapoznaj się z inspirującą ofertą zestawów LEGO dla dorosłych.
-
-LEGO 10318 Icons - Concorde
-
-- Ciesz się relaksującą podróżą — zrelaksuj się, budując zestaw dla dorosłych LEGO® Icons Concorde (10318)
-- Co jest w pudełku? — Wszystko, czego potrzebujesz, aby zbudować szczegółową replikę LEGO® Concorde'a, najsłynniejszego na świecie pasażerskiego samolotu naddźwiękowego
-- Funkcje — samolot ma odchylany dziób, działające podwozie, wysuwane tylne koło, skrzydła typu delta z ruchomymi sterami wysokości, górne i dolne stery na zawiasach oraz część z fotelami
-- Zbuduj i pochwal się — ten model dla kolekcjonerów ma podstawkę ekspozycyjną do ustawiania samolotu w trybie lotu, startu lub lądowania
-- Prezent dla miłośników samolotów — podaruj ten zestaw LEGO® Icons dorosłym fanom Concorde’a i modeli samolotów
-- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
-- Wymiary — model ma 15 cm wysokości, 105 cm długości i 43 cm szerokości
-- Zrelaksuj się — model Concorde’a pochodzi z serii zaawansowanych zestawów LEGO® dla dorosłych
-- Nacisk na jakość — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
-- Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
-
-Galeria LEGO 10318 Icons - Concorde
+- 10317-1: https://a.allegroimg.com/original/050a34/8c7bcc4b4dad956007fc8d824f87
 
 ---
 
-## 10320 — Lego Icons Twierdza Eldorado 10320
+## 10321 — Corvette
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 910.85 zł · EAN: 05702017416922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10321 |
+| Nazwa angielska | Corvette |
+| Nazwa polska | Corvette |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416939, 5905049413000 |
 
-**LEGO ICONS Twierdza Eldorado 10320**
+P51401 Lego led światło oświetlenie cooldac 10321 Icons Chevrolet Corvette
 
-Odkryj na nowo świat LEGO® Pirates z zestawem konstrukcyjnym dla dorosłych LEGO Icons Twierdza Eldorado (10320). Ten hołd dla kultowego modelu z lat osiemdziesiątych XX wieku (6276) zawiera nowe funkcje, które zachwycą fanów serii LEGO Pirates. Zbudowany z klocków model obejmuje szczegółowe pokoje, a nowe elementy konstrukcyjne umożliwiają ekspresję, zachowując jednocześnie klasyczny charakter oryginalnego zestawu.
+Łatwy montaż – specjalnie zaprojektowane do modelu 10321 Icons Corvette. Wszystkie diody LED zapewniają równomierne oświetlenie, a złącza kablowe dobrze pasują do siebie. Język polski może nie być dostępny w instrukcji.
 
-Ciesz się budowaniem
+- Ciesz się kreatywną zabawą w majsterkowanie – nasz zestaw oświetlenia LED do modelu Corvette zapewnia jasne oświetlenie, które pomoże Ci odpocząć od zabieganego życia i odzyskać piękną noc. Ten zestaw oświetleniowy jest idealny dla miłośników modeli LEGO, aby własnoręcznie ulepszyć swoje klocki i uczynić swoje modele bardziej zaawansowanymi, czerpiąc przyjemność z majsterkowania.
 
-Odkrywaj ukryte skarby, budując klocek po klocku kultową twierdzę, w tym biuro admirała, pirackie więzienie i szereg tajnych pomieszczeń. Połącz modułowe sekcje, aby stworzyć różne konfiguracje i odegrać epickie sceny bitewne z działającymi armatami, ośmioma minifigurkami i fajnym pirackim galeonem z żaglami z wzorzystego materiału.
+- Wiele opcji zasilania: w zestawie znajduje się kabel USB oraz pojemnik na baterie, co zapewnia różne opcje zasilania. Światła LED dopasowane do zestawu LEGO 10321 można zasilać za pomocą power banku, ładowarki, gniazda USB, laptopa lub innego urządzenia USB. Możesz go również zasilać bateriami (bateria nie jest dołączona).
 
-Nie spiesz się
+- Doświadczenie w zapewnieniu bezpieczeństwa – nasz zestaw dekoracyjnych światełek do zestawu Icons Corvette wykonany jest z wysokiej jakości przewodów miedzianych, które posiadają ochronę przed ciepłem i spaleniem, co może wydłużyć czas użytkowania. Niskie napięcie 5 V zapewnia bezpieczniejsze użytkowanie.
+- Idealny prezent i czarująca prezentacja – nasze oświetlenie do zestawu 10321 są doskonałym prezentem na urodziny, Boże Narodzenie, Nowy Rok, Dzień Dziecka, ukończenie szkoły, Święto Dziękczynienia i walentynki dla każdego miłośnika modelarstwa.
 
-Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zestaw utrzymany w pirackiej tematyce to wciągający projekt dla Ciebie lub świetny prezent dla każdego fana klasycznych zestawów LEGO.
+**Galeria:**
 
-• Odkryj na nowo skarby z dzieciństwa, budując zestaw LEGO® Icons Twierdza Eldorado
-
-• Zawiera twierdzę, statek piracki, łódź, osiem minifigurek i trzy figurki zwierząt
-
-• Połącz moduły i twórz różne konfiguracje twierdzy
-
-• Prezent dla dorosłych fanów serii LEGO® Pirates z lat osiemdziesiątych XX wieku
-
-• Zestaw ma 27 cm wysokości i 70 cm szerokości
-
-• Akcesoria dla minifigurek obejmują armaty, mapę, biurko, świecę i pióro
-
-• Aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji budowania
-
-• Odprężający projekt dla dorosłych fanów LEGO®
-
-• Klocki LEGO® za każdym razem z łatwością łączą się ze sobą
-
-• Elementy LEGO® spełniają wysokie standardy bezpieczeństwa i jakości
+- 10321-1: https://a.allegroimg.com/original/110378/8fd0079746c2a480fd37087a639b
+- 10321-2: https://a.allegroimg.com/original/11926f/ac9912204e4f990be80dfd6d1a8e
 
 ---
 
-## 10321 — Klocki Lego Corvette 10321 1210 elementów dla dzieci 18 lat
+## 10323 — Automat do gry Pac-Man
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 876.99 zł · EAN: 05702017416939 · in stock*
-
-Powrót prawdziwie amerykańskiej ikony
- 
-Replika zabytkowego modelu Chevrolet Corvette C1 z 1961 roku w wersji z klocków LEGO® ma całe mnóstwo oryginalnych detali wzorowanych na tym ponadczasowym samochodzie: eleganckie krzywizny klasycznej sylwetki i stylowe wnętrze.
-
-Niskie ukłony dla sportowej legendy amerykańskiej motoryzacji z 1961 roku: oto Corvette.
- 
-Dzięki naszemu modelowi z serii LEGO Icons odtworzysz ten kultowy, ogniście czerwony kabriolet z klocków. Jest tak dopracowany, że niemal poczujesz, jak suniesz nim po ulicach, a wiatr rozwiewa Ci włosy. Oryginalny biały pas, charakterystyczna przednia szyba, potężny silnik i bagażnik to tylko kilka elementów, które zbudujesz. Acha, nie zapomnij zwieńczyć swojego dzieła logiem Corvetty na masce!
-
-Firma Chevrolet stworzyła Corvette jako jeden ze swoich pierwszych samochodów sportowych. Nie trzeba było długo czekać, żeby ta elegancka bryka zawładnęła sercami zarówno automaniaków, jak i hollywoodzkich reżyserów, którzy chętnie wykorzystywali ją w słynnych produkcjach filmowych. Zaparkuj swoją replikę na półce, aby wszyscy mogli ją podziwiać –
- 
-możesz wybrać wersję ze stałym lub otwartym dachem.
-
----
-
-## 10323 — Lego Icons 10323 Automat do gry Pac-Man
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 969.89 zł · EAN: 05702017416946 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10323 |
+| Nazwa angielska | PAC-MAN Arcade |
+| Nazwa polska | Automat do gry Pac-Man |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | 2026 |
+| Liczba elementów | 2651 |
+| Cena katalogowa | 1149.99 zł |
+| Wymiary złożonego | wys. 32 cm × szer. 25 cm × gł. 17 cm |
+| EAN | 5702017416946 |
 
 Wybierz się w podróż do lat osiemdziesiątych ubiegłego wieku dzięki zestawowi LEGO Icons Automat do gry Pac-Man dla dorosłych. Ciesz się satysfakcjonującym projektem, który jest repliką kultowej gry zręcznościowej z labiryntem, uważanej przez wielu za najbardziej wpływową grę wideo wszechczasów.
  
@@ -961,11 +1112,26 @@ Spędź miło czas, powołując do życia świetny zestaw konstrukcyjny LEGO dla
 - Wymiary — automat do gry Pac-Man (zabawka nie jest działającym systemem do grania) ma ponad 32 cm wysokości, 25 cm szerokości i 17 cm głębokości 
 - Dodatkowe funkcje — naciśnij przycisk na podstawie wyświetlacza, aby zmienić kierunek i zachowanie figurek Pac-Mana, Blinky’ego i Clyde’a. Otwórz tylną część, aby zobaczyć mechanizm pościgu w labiryncie
 
+**Galeria:**
+
+- 10323-1: https://a.allegroimg.com/original/11dc6d/b1e23d694931a71a96710dac0646
+
 ---
 
-## 10325 — Zestaw klocków Lego 10325 górska chata 1517 elementów
+## 10325 — 10325 ICONS - Górska chata
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 588.00 zł · EAN: 05702017416953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10325 |
+| Nazwa angielska | Alpine Lodge |
+| Nazwa polska | 10325 ICONS - Górska chata |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1517 |
+| Cena katalogowa | 439.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017416953 |
 
 Zrelaksuj się i zbuduj przytulny, ośnieżony pensjonat z pokojami gościnnymi i płonącymi kominkami.
  
@@ -982,28 +1148,27 @@ Odpręż się, budując ten wysokiej jakości zestaw LEGO. Jest on częścią ko
 - Co jest w pudełku? Wszystko, czego potrzebujesz do zbudowania trzypiętrowej górskiej chaty, lodowiska, kabiny toaletowej, skutera śnieżnego i przyczepy, a także choinka, pięć minifigurek oraz figurki kota, wiewiórki i ptaka 
 - Elementy i funkcje — naciśnij kominek, aby podświetlić drewniane polana w recepcji i w pokoju na drugim piętrze
 
----
+**Galeria:**
 
-## 10326 — Lego Icons 10326 Muzeum Historii Naturalnej
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1239.90 zł · EAN: 05702017589886 · in stock*
-
-Specyfikacja techniczna:
-
-- **Seria**: LEGO® Icons
-- **Wiek**: Od 18 lat
-- **Płeć**: Dla chłopców; Dla dziewczynek
-- **Numer katalogowy**: 10326
-- **Ilość elementów**: 4014
-- **Kod produktu**: LEGO Icons 10326 Muzeum Historii Naturalnej | 10326 | [*(001202301)*]
-
-Galeria
+- 10325-1: https://a.allegroimg.com/original/1192aa/31550c064475a37edeead110e294
 
 ---
 
-## 10327 — Lego Icons 10327 Diuna Atreides Royal Ornithopter
+## 10327 — Diuna: Atreides Royal Ornithopter
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 635.23 zł · EAN: 05702017655932 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10327 |
+| Nazwa angielska | Dune Atreides Royal Ornithopter |
+| Nazwa polska | Diuna: Atreides Royal Ornithopter |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 79 cm |
+| EAN | 5702017583471, 5702017655932 |
 
 LEGO ICONS 10327 Diuna — Atreides Royal Ornithopter 
  
@@ -1022,72 +1187,28 @@ Stwórz szczegółową replikę kultowego statku powietrznego z filmu Diuna z 20
 - Świetny prezent dla kinomaniaka – ten zestaw LEGO Icons Diuna należy do serii zaawansowanych modeli do zbudowania dla dorosłych; będzie fajnym prezentem pod choinkę dla mężczyzny i dla kobiet, oraz na rocznicę dla męża i żony 
 - Wymiary — statek powietrzny z rozłożonymi skrzydłami w tym 1369-elementowym zestawie ma 23 cm wysokości, 57 cm długości i 79 cm szerokości
 
----
+**Galeria:**
 
-## 10330 — Lego Icons 10330 McLaren MP4/4 i Ayrton Senna
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 215.98 zł · EAN: 05702017583495 · in stock*
-
-LEGO® Icons McLaren MP4/4 i Ayrton Senna 10330
-
-Zbuduj legendę Formuły 1! Ten zestaw to **obowiązkowa pozycja dla każdego fana motorsportu i Ayrtona Senny**.
- 
-**Informacje o Produkcie:**
- 
- 
-- **Model:** Autentyczna replika kultowego samochodu wyścigowego **McLaren MP4/4** z 1988 roku. 
-- **Wielkość:** Skala 1:12. 
-- **Wymiary**: ok. 12 cm wysokości, 32 cm długości i 17 cm szerokości. 
-- **Dodatek:** Minifigurka legendarnego kierowcy **Ayrtona Senny** na specjalnym stojaku w kształcie podium z kultowym cytatem. 
-- **Wiek:** 18+ (Kolekcjonerski model dla dorosłych). 
-- **Liczba elementów:** 693. 
-- **Szczegóły:** 
--Działające **kierowanie** i **zawieszenie**.
- 
--Szczegółowy, turbodoładowany **silnik V6**.
- 
--Regulowany **tylny spojler**.
- 
--Opony typu slick.
- 
- 
-**Dlaczego Warto?**
- 
- 
-- **Prawdziwa Ikona:** Model maszyny, która zdominowała sezon F1 w 1988 roku. 
-- **Wartość Kolekcjonerska:** Idealny element wystawowy i hołd dla jednego z największych kierowców wszech czasów. 
-- **Wciągające Doświadczenie Budowania:** Projekt stworzony z myślą o dorosłych miłośnikach precyzji i detalu. 
-
-**WIEK DZIECKA **: +18 LAT
+- 10327-1: https://a.allegroimg.com/original/11745f/accc7c504e4fa520dac5da72b554
+- 10327-2: https://a.allegroimg.com/original/053f82/d74cc34a4345a25e4fd8ce1968bf
 
 ---
 
-## 10331 — Lego Icons Zimorodek 10331
+## 10332 — Ikony 10332 Średniowieczny plac
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 181.04 zł · EAN: 05702017599564 · in stock*
-
-**Zimorodek**
-
-Stwórz efektowną ozdobę swojego domu lub biura dzięki temu zestawowi dla dorosłych. Zestaw LEGO® Icons Zimorodek (10331) to świetny prezent dla miłośników ptaków i wciągający projekt dla nowych i doświadczonych konstruktorów LEGO.
-
-Model przedstawia zimorodka, znanego z efektownego upierzenia i niezwykłych umiejętności łowieckich, wynurzającego się z wody podczas połowu ryb. Wodna scenka zawiera trzciny do zbudowania i może służyć także jako podstawka do ekspozycji. Ustaw głowę i szpony ptaka w wybranej pozie, a potem ustaw go na półce, aby inni także mogli go podziwiać.
-
-Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO zaprojektowanych specjalnie dla dorosłych. Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania do tego zestawu.
-
-- Zestaw konstrukcyjny z zimorodkiem — zrelaksuj się podczas budowania zestawu dla dorosłych LEGO® Icons Zimorodek
-- Kreatywny projekt konstrukcyjny — ten zestaw zawiera wszystko, czego potrzebujesz do stworzenia majestatycznego zimorodka podczas połowu ryb w wersji LEGO®, a także scenkę wodną, która służy również jako podstawka do ekspozycji
-- Cechy i funkcje — model zimorodka ma ruchomą głowę i szpony, a scenka z trzcinami do zbudowania może służyć również jako podstawka do ekspozycji
-- Ozdoba na biurko do domu i gabinetu — dodaj odrobinę natury do każdego pomieszczenia dzięki temu zestawowi LEGO® Icons Zimorodek
-- Zachęcający do uważności prezent dla miłośników ptaków — podaruj ten zestaw konstrukcyjny LEGO® Icons jako prezent świąteczny lub urodzinowy dla miłośników ornitologii, tropikalnych ptaków, wystroju wnętrz i modeli LEGO
-- Zawiera cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
-- Projekty LEGO® dla dorosłych — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno) stworzonych specjalnie dla dorosłych
-- Wymiary — ten 834-elementowy model ma 21 cm wysokości, 31 cm szerokości i 17 cm głębokości
-
----
-
-## 10332 — Lego Icons 10332 Średniowieczny plac
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1168.00 zł · EAN: 05702017589893 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10332 |
+| Nazwa angielska | Medieval Town Square |
+| Nazwa polska | Ikony 10332 Średniowieczny plac |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589893 |
 
 Zrelaksuj się, budując **LEGO Icons Medieval Town Square (10332)** dla dorosłych. Ten wspaniały prezent dla miłośników historii to wysokiej jakości model średniowiecznego rynku w Felsy, który po raz pierwszy pojawił się jako zestaw budynków w 2009 roku. Zawiera nowe, interesujące budynki i elementy ze średniowiecza, w tym starą farmę, fabrykę sera, zajazd, warsztat poboru myta i wartownię.
 
@@ -1101,11 +1222,26 @@ Zawartość pudełka – zestaw zawiera wszystko, czego potrzebujesz, aby zbudow
 
 **Cechy i funkcje** – zestaw LEGO Icons jest pełen interesujących szczegółów. Zawiera między innymi dźwig w warsztacie stolarza i skrzynkę pocztową w pokoju karczmy
 
+**Galeria:**
+
+- 10332-1: https://a.allegroimg.com/original/059741/4368f9fb4f7d9d3d1b505d92aeb8
+
 ---
 
-## 10333 — Klocki Lego Władca Pierścieni: Barad-dûr 5471 elementów 18+
+## 10333 — Władca pierścieni: Barad-dûr
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702017589909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10333 |
+| Nazwa angielska | The Lord of the Rings: Barad-dûr |
+| Nazwa polska | Władca pierścieni: Barad-dûr |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 5471 |
+| Cena katalogowa | 1999.99 zł |
+| Wymiary złożonego | wys. 83 cm × szer. 45 cm × gł. 30 cm |
+| EAN | 5702017589909 |
 
 LEGO® 10333 Władca Pierścieni: Barad-dûr™
  
@@ -1147,11 +1283,27 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO dla doros
  
 - Wymiary — twierdza w tym 5471-elementowym zestawie ma 83 cm wysokości, 45 cm szerokości i 30 cm głębokości
 
+**Galeria:**
+
+- 10333-1: https://a.allegroimg.com/original/05b4ae/05f6d9494a0f949e45312c44b4d4
+
 ---
 
-## 10334 — Lego Icons Radio W Stylu Retro 10334
+## 10334 — Radio w stylu retro
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 374.88 zł · EAN: 05702017583501 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10334 |
+| Nazwa angielska | Retro Radio |
+| Nazwa polska | Radio w stylu retro |
+| Seria | Icons |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 906 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 32 cm × szer. 23 cm × gł. 7 cm |
+| EAN | 5702017583501 |
 
 **RADIO W STYLU RETRO**
 
@@ -1170,11 +1322,27 @@ Ten zestaw LEGO będzie świetnym prezentem urodzinowych dla dorosłych miłośn
 - Zestawy konstrukcyjne LEGO® dla dorosłych — ten zestaw LEGO Icons stanowi część inspirującej serii kreatywnych zestawów LEGO zaprojektowanych specjalnie dla dorosłych
 - Wymiary — radio (z anteną postawioną w pionie) w tym 906-elementowym zestawie ma 32 cm wysokości, 23 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 10334-1: https://a.allegroimg.com/original/11d261/eac11ff34f769694d69463506c3f
+
 ---
 
-## 10337 — Lego Icons Lamborghini Countach 5000 Quattrovalvole 10337
+## 10337 — Lamborghini Countach 5000 Quattrovalvole
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702017589916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10337 |
+| Nazwa angielska | Lamborghini Countach 5000 Quattrovalvole |
+| Nazwa polska | Lamborghini Countach 5000 Quattrovalvole |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1506 |
+| Cena katalogowa | 779.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm |
+| EAN | 5702017589916 |
 
 LEGO Icons Lamborghini Countach
 
@@ -1195,11 +1363,27 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO, zaprojektowanych spe
 - Projekty LEGO® dla dorosłych — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych
 - Wymiary — białe Lamborghini Countach 5000 Quattrovalvole w tym 1506-elementowym zestawie ma 9 cm wysokości, 34 cm długości i 16 cm szerokości
 
+**Galeria:**
+
+- 10337-1: https://a.allegroimg.com/original/058de6/efe65d5646c3a1012784c41c5ef2
+
 ---
 
-## 10338 — Zestaw klocków Lego Icons Bumblebee (10338)
+## 10338 — Bumblebee
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 319.89 zł · EAN: 05702017589923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10338 |
+| Nazwa angielska | Bumblebee |
+| Nazwa polska | Bumblebee |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 950 |
+| Cena katalogowa | 399.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm |
+| EAN | 5702017589923, 5907213510102 |
 
 Poznaj motoryzacyjną doskonałość i stwórz zestaw dla dorosłych LEGO® Icons Lamborghini Countach 5000 Quattrovalvole (10337). Podaruj go znajomemu miłośnikowi aut lub samodzielnie wybierz się w pasjonującą podróż po tym cudzie techniki, odtwarzając szczegół po szczególe kultowy samochód sportowy, który słynie ze swego wyglądu i wyjątkowych osiągów.
  
@@ -1217,66 +1401,205 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO, zaprojektowanych spe
 - Projekty LEGO® dla dorosłych — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych 
 - Wymiary — białe Lamborghini Countach 5000 Quattrovalvole w tym 1506-elementowym zestawie ma 9 cm wysokości, 34 cm długości i 16 cm szerokości
 
----
+**Galeria:**
 
-## 10339 — Lego Icons Poczta Świętego Mikołaja (10339) Nowy
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 595.00 zł · EAN: 05702017589930 · in stock*
-
-OUTLET
-
-ZESTAW NOWY, FABRYCZNIE ZAPLOMBOWANY. Produkt w pełni wartościowy. PUDEŁKO LEKKO USZKODZONE.
-
-LEGO ICONS 10339 - Poczta Świętego Mikołaja
-
-Nr katalogowy:** 10339**
-
-Adresowany dla wieku: 18+
-
-Ilość klocków:** 1440**
-
-S1
+- 10338-1: https://a.allegroimg.com/original/29b74f/426ea28542f981fd5ee5bb8467f7
+- 10338-2: https://a.allegroimg.com/original/116dc0/e9b51ad445a682d5738235a4a632
 
 ---
 
-## 10340 — 10340 Lego Icons Wieniec 10340
+## 10339 — Poczta Świętego Mikołaja
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 367.77 zł · EAN: 05702017589947 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10339 |
+| Nazwa angielska | Santa's Post Office |
+| Nazwa polska | Poczta Świętego Mikołaja |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1440 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589930, 5907213510003 |
+
+Dedykowany zestaw oświetlenia LED do Icons Poczta Świętego Mikołaja 10339
+
+Wersja z PILOTEM
+
+**Ważne: Zestaw LEGO nie jest dołączony**
+
+Odkryj ulubiony zestaw Lego na nowo!
+
+Dołącz do społeczności konstruktorów, którzy zmienili swoje zestawy LEGO®  w zapierające dech w piersiach eksponaty. Nasze dedykowane oświetlenie do Lego zapewnia idealne dopasowanie, wyjątkową jakość i elegancję, na jaką zasługuję Twoja kolekcja zestawów Lego.
+
+**Rewolucja w Twojej kolekcji Lego – łatwe w instalacji światła Led**
+
+Odśwież zestaw Lego z dedykowanymi światłami w technologi LED. Oświetlenie jest łatwe w instalacji, dzięki przemyślanej konstrukcji diod led ukrytych w oryginalnych klockach Lego. Pakiet oświetlenia jest nieinwazyjny dla Twojego zestawu Lego i praktycznie niewidoczny w trybie spoczynku  Jasne diody LED oświetlą swój zestaw Lego nawet w jasnym pomieszczeniu.
+
+32sP
+
+**Galeria:**
+
+- 10339-1: https://a.allegroimg.com/original/11c321/0c111ae249c69ec54bf9a72bf0fe
+- 10339-2: https://a.allegroimg.com/original/11c127/47210d8245238774374cee564961
+
+---
+
+## 10340 — Wieniec
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10340 |
+| Nazwa angielska | Wreath |
+| Nazwa polska | Wieniec |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589947 |
 
 Wieniec
 
 Botanicals Wieniec LEGO® Icons Wieniec Zestaw LEGO® Icons Wieniec 10340, świąteczna ozdoba do domu Stwórz klimatyczną dekorację dzięki zestawowi LEGO® Icons Wieniec, który stanowi kreatywny prezent dla dorosłych. Zestaw z ozdobą do domu LEGO® Icons Wieniec Odpręż się lub podaruj bliskiej osobie zestaw dla dorosłych LEGO® Icons Wieniec (10340). Uchwyć jesienno-zimowy klimat i stwórz przepiękną ozdobę na chłodną porę roku. Ten imponujący wieniec LEGO® stanowi dekorację stołu lub ścian, lecz sprawdzi się także jako prezent na święta lub inną specjalną okazję.Wieniec ma cztery pętelki do zawieszania i można go także zbudować w formie girlandy. Wybieraj pomiędzy czerwonymi, niebieskimi i białymi jagodami lub stwórz własną kompozycję. Ułóż plasterki pomarańczy, szyszki, laski cynamonu i zielone gałązki, aby uzyskać idealny wygląd.Cyfrowa wersja instrukcji budowania do zestawów LEGO Icons jest dostępna w aplikacji LEGO Builder. Odkryj przestrzeń do relaksu dzięki inspirującej ofercie kreatywnych projektów konstrukcyjnych LEGO dla dorosłych. Spraw przyjemność sobie lub podaruj bliskiej osobie zestaw dla dorosłych LEGO® Icons Wieniec. Uchwyć jesienno-zimowy klimat w postaci wieńca lub girlandy i umieść je na ścianie lub stole. Ruchome gałązki jodły, kolorowe jagody, plasterki pomarańczy, ciepły cynamon i szyszki dopełnią całości. Ciesz się budowaniem i planowaniem szczegółów, a następnie pochwal się swoim dziełem.
 
----
+**Galeria:**
 
-## 10341 — Lego Icons 10341 Rakieta Sls Nasa Artemis
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 986.00 zł · EAN: 05702017589954 · in stock*
-
-Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
-
-Zależy nam na tym, aby każdy zestaw trafił w Państwa ręce w idealnym stanie, dlatego też kładziemy specjalny nacisk na sposób zabezpieczania i pakowania oferowanych zestawów. Do pakowania używamy kartonów 5 lub 7 warstwowych, 3-4 warstwy folii bąbelkowej + wypełniacze.
-
-Zrelaksuj się przy kreatywnym projekcie dzięki wysokiej jakości zestawowi LEGO® Icons Rakieta SLS NASA Artemis (10341). Zbuduj model inspirowany rakietą NASA z dwoma rakietami bocznymi na paliwo stałe, kapsułą Oriona i szczegółową mobilną wieżą startową.
- 
-Ta wierna replika przedstawia prawdziwe systemy startowe i zawiera wysuwane przewody wieży startowej, wspornik rakiety i mostek dla załogi, odłączane dopalacze na paliwo stałe i stopnie rakiety. W zestawie jest także model modułu Orion z rozkładanymi panelami słonecznymi, które można umieścić wewnątrz rakiety lub na osobnej podstawce. Całość uzupełnia tabliczka z napisem. Model świetnie sprawdzi się jako ozdoba do domu lub biura.
- 
-Odpręż się dzięki inspirującej ofercie zestawów LEGO dla dorosłych. Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania do tego zestawu.
- 
- 
-- Zestaw z modelem rakiety NASA — rozpocznij kreatywny projekt dzięki zestawowi LEGO® Icons Rakieta SLS NASA Artemis dla dorosłych miłośników kosmosu 
-- Zawartość pudełka — kreatywny zestaw zawiera wszystko, czego potrzebujesz, aby zbudować wielostopniową rakietę z dwoma rakietami bocznymi na paliwo stałe, kapsułą Oriona i szczegółową mobilną wieżą startową 
-- Cechy i funkcje — ten model inspirowany rakietą NASA ma wysuwane przewody wieży startowej, wspornik rakiety i mostek dla załogi, odczepiane boczne silniki na paliwo stałe i stopnie rakiety 
-- Ozdoba do domu i biura – ciesz się wciągającym projektem, a potem ustaw swoje dzieło na półce, aby wszyscy mogli je podziwiać 
-- Kosmiczny prezent dla dorosłych — spraw sobie przyjemność lub podaruj zestaw konstrukcyjny LEGO® Icons Rakieta SLS NASA Artemis znajomemu miłośnikowi kosmosu jako prezent świąteczny lub bez okazji 
-- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu LEGO Icons Wciągające projekty LEGO dla dorosłych — ten zestaw konstrukcyjny LEGO Icons należy do linii zaawansowanych zestawów z modelami dla dorosłych 
-- Wymiary — ten 3601-elementowy model rakiety SLS LEGO® Icons ma 70 cm wysokości, 27 cm szerokości i 30 cm głębokości
+- 10340-1: https://a.allegroimg.com/original/11b65e/611ae969479c843d53910c89512f
 
 ---
 
-## 10350 — Lego Icons 10350 Dom w stylu angielskim
+## 10341 — Rakieta SLS NASA Artemis
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 915.99 zł · EAN: 05702017813219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10341 |
+| Nazwa angielska | NASA Artemis Space Launch System |
+| Nazwa polska | Rakieta SLS NASA Artemis |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3601 |
+| Cena katalogowa | 1129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017589954, 5906871031134 |
+
+Zestaw Oświetleniowy BrickBling z Pilotem do LEGO 10341 NASA Artemis Space Launch System
+
+Zdalne Sterowanie Oświetleniem Modelu
+
+Ten zestaw oświetleniowy pozwala na dynamiczne i interaktywne rozświetlenie modelu LEGO 10341 NASA Artemis Space Launch System. Dzięki dołączonemu **pilotowi zdalnego sterowania**, użytkownik może precyzyjnie zarządzać oświetleniem, wybierając, które fragmenty modelu mają zostać podświetlone. Taka funkcjonalność umożliwia tworzenie różnorodnych scen świetlnych i ożywienie konstrukcji.
+
+- Możliwość włączania i wyłączania światła w wybranych częściach modelu.
+
+- Personalizacja wizualnej prezentacji systemu startowego.
+
+Prosta i Bezpieczna Instalacja
+
+Zestaw został zaprojektowany z myślą o maksymalnej prostocie montażu. Wszystkie diody LED zapewniają **jednolite światło**, a złącza przewodów są idealnie dopasowane, co ułatwia podłączenie. Aby zapewnić płynny proces instalacji, do zestawu dołączone są szczegółowe **instrukcje wideo lub PDF**, które krok po kroku przeprowadzą użytkownika przez każdy etap montażu.
+
+Trwałość i Wszechstronne Opcje Zasilania
+
+Produkt wykonano z **wysokiej jakości kabli miedzianych**, co gwarantuje jego trwałość i niezawodność. Bezpieczeństwo użytkowania podnosi wbudowane zabezpieczenie przed wysoką temperaturą i spaleniem, a niskie napięcie pracy **5 V** jest bezpieczne w obsłudze. Zestaw oferuje również wszechstronne opcje zasilania, dostosowując się do preferencji użytkownika.
+
+- Zasilanie z power banku.
+
+- Podłączenie do ładowarki USB.
+
+- Korzystanie z gniazda USB w laptopie lub innych urządzeniach.
+
+- Możliwość użycia baterii (bateria nie jest częścią zestawu).
+
+Najważniejsze Cechy Produktu
+
+- **Zdalne sterowanie** oświetleniem za pomocą pilota.
+
+- Kompatybilność z modelem LEGO **10341 NASA Artemis Space Launch System**.
+
+- Łatwa instalacja dzięki intuicyjnej konstrukcji i wsparciu **instrukcjami wideo/PDF**.
+
+- Wykonany z **wysokiej jakości kabli miedzianych**.
+
+- Zabezpieczenie przed wysoką temperaturą i spaleniem.
+
+- Bezpieczne niskie napięcie **5 V**.
+
+- Wiele opcji zasilania: USB lub bateria.
+
+- Zapewnia jasne i efektowne oświetlenie modelu.
+
+Specyfikacja Techniczna
+
+- **Marka:** BrickBling
+
+- **Numer modelu:** DE-10341-P66102
+
+- **Nazwa zestawu:** Zestaw oświetlenia
+
+- **Kraj pochodzenia:** Chiny
+
+- **Źródło światła:** elektryczne
+
+- **Źródło zasilania:** Bateria lub USB
+
+- **Typ montażu:** Montaż na stojąco
+
+- **Funkcje specjalne źródła światła:** pilot zdalnego sterowania
+
+- **Współczynnik oddawania barw:** 80
+
+- **Liczba źródeł światła:** 1
+
+- **Czy baterie są dołączone do zestawu?:** Nie
+
+- **Zgodność z inteligentnym domem:** Brak
+
+- **Materiał:** Miedź
+
+- **Materiał do zacienienia:** miedź
+
+- **Kolor:** pomarańczowy, szary, biały
+
+Zawartość Zestawu
+
+- Zestaw oświetleniowy LED (dedykowany dla modelu LEGO 10341 NASA Artemis Space Launch System)
+
+- Moduł zdalnego sterowania
+
+- Pilot zdalnego sterowania
+
+- Kabel USB
+
+- Komora na baterie
+
+- Instrukcja instalacji (wideo/PDF)
+
+**Galeria:**
+
+- 10341-1: https://a.allegroimg.com/original/0521ca/f6acfb064ef49111c3953a177d30
+- 10341-2: https://a.allegroimg.com/original/116062/16cb53354710aaada588749f4201
+
+---
+
+## 10350 — Dom w stylu angielskim
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10350 |
+| Nazwa angielska | Tudor Corner |
+| Nazwa polska | Dom w stylu angielskim |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3266 |
+| Cena katalogowa | 999.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 26 cm × gł. 25 cm |
+| EAN | 5702017813219 |
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1297,11 +1620,27 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO dla doros
 - Część kolekcji budynków modułowych LEGO® — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych
 - Wymiary — dom w stylu angielskim w tym 3266-elementowym zestawie ma 31 cm wysokości, 26 cm szerokości i 25 cm głębokości
 
+**Galeria:**
+
+- 10350-1: https://a.allegroimg.com/original/114b49/f43f5365448a825880c5ee184bf4
+
 ---
 
-## 10351 — Lego Icons 10351 Sherlock Holmes: Book nook
+## 10351 — Sherlock Holmes: Book nook
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 474.99 zł · EAN: 05702017824475 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10351 |
+| Nazwa angielska | Sherlock Holmes: Book Nook |
+| Nazwa polska | Sherlock Holmes: Book nook |
+| Seria | Icons |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 37 cm × gł. 6 cm |
+| EAN | 5702017824475 |
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1328,11 +1667,27 @@ Odkryj inspirującą ofertę kreatywnych zestawów LEGO dla dorosłych. Aplikacj
 - Zestawy LEGO® dla dorosłych — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych
 - Wymiary — po rozłożeniu zestaw Sherlock Holmes: Book nook, składający się z 1359 elementów, ma 21 cm wysokości, 37 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10351-1: https://a.allegroimg.com/original/0573f6/a8a638754e88a3dcb202cebc3cf3
+
 ---
 
-## 10352 — Zestaw do układania Lego Icons 10352 The Simpsons: Krusty Burger 1635 el.
+## 10352 — The Simpsons: Krusty Burger
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 728.99 zł · EAN: 05702017829128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10352 |
+| Nazwa angielska | The Simpsons: Krusty Burger |
+| Nazwa polska | The Simpsons: Krusty Burger |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1635 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 24 cm × gł. 20 cm |
+| EAN | 5702017829128 |
 
 Zbuduj legendarny fast-food w Springfield dzięki zestawowi dla dorosłych LEGO® Icons The Simpsons™: Krusty Burger (10352). Stwórz szczegółowy model ulubionej restauracji Homera z kuchnią, jadalnią, toaletą i okienkiem drive-thru. Ta pozycja obowiązkowa dla każdego fana Simpsonów zawiera również znak z logo Krusty Burger, replikę klaunowego samochodu Homera, a także minifigurki Homera, Barta i Lisy Simpsonów, farmera Krusty’ego, Pomocnika Boba, Piszczyka i oficera Lou.
 
@@ -1350,11 +1705,27 @@ Odpręż się dzięki ofercie zestawów LEGO dla dorosłych. Aplikacja LEGO Buil
 - Więcej zestawów do odkrycia — poznaj inspirującą serię kreatywnych zestawów konstrukcyjnych (sprzedawanych osobno) stworzonych specjalnie dla dorosłych 
 - Wymiary — budynek w tym 1635-elementowym zestawie The Simpsons™: Krusty Burger ma 23 cm wysokości, 24 cm szerokości i 20 cm głębokości
 
+**Galeria:**
+
+- 10352-1: https://a.allegroimg.com/original/11c3e6/4351785d4cc39f1a9e557a26d5cc
+
 ---
 
-## 10353 — 10353 Lego Outlet Williams Racing F1 Mansell Zestaw Formuła 1 Klocki Lego
+## 10353 — Williams Racing FW14B i Nigel Mansell
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 201.98 zł · EAN: 05702017815862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10353 |
+| Nazwa angielska | Williams Racing FW14B & Nigel Mansell |
+| Nazwa polska | Williams Racing FW14B i Nigel Mansell |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 799 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815862 |
 
 LEGO 10353 Williams Racing FW14B i Nigel Mansell
 
@@ -1362,11 +1733,26 @@ zewnętrzne opakowanie posiada delikatnie zagięcia bez wpływu na zawartość
 
 Icons Williams Racing FW14B i Nigel Mansell LEGO® Icons Williams Racing FW14B i Nigel Mansell LEGO® Icons Williams Racing FW14B i Nigel Mansell 10353 Podaruj fanom Formuły 1® zestaw konstrukcyjny dla dorosłych z bolidem LEGO® Icons Williams Racing FW14B i Nigel Mansell. Zestaw LEGO® Icons Williams Racing FW14B i Nigel Mansell Poznaj historię innowacji Formuły 1® i zbuduj zestaw konstrukcyjny dla dorosłych LEGO® Icons Williams Racing FW14B i Nigel Mansell (10353), który stanowi świetną ozdobę do domu lub biura. Zbuduj replikę legendarnego bolidu F1, dzięki któremu Nigel Mansell zwyciężył w Mistrzostwach Świata Formuły 1® w 1992 roku. W zestawie jest także minifigurka Nigela Mansella. Ten model premium sprawdzi się jako fajna dekoracja lub prezent na święta lub urodziny dla fanów Formuły 1.Bolid LEGO Icons Williams FW14B ma działający układ kierowniczy, szerokie tylne opony typu slick z nadrukowanym napisem \"Goodyear\" i szczegółowy silnik, a także podstawkę z danymi i statystykami pojazdu. Minifigurka Nigela Mansella ma kask i podstawkę w kształcie podium ze zdjęciem i cytatem z legendarnego kierowcy.Odpręż się dzięki ofercie kreatywnych zestawów LEGO F1 dla dorosłych, dzieci i rodzin. Aplikacja LEGO Builder zawiera instrukcje budowania w 3D do tego zestawu z bolidem. Zestaw LEGO® Icons dla dorosłych to ukłon w stronę Formuły 1®. Stwórz szczegółowy model bolidu Williams Racing FW14B, w którym Nigel Mansell zdobył mistrzostwo świata F1® w 1992 roku. Ta autentyczna replika ma szerokie tylne opony typu slick, działający układ kierowniczy i szczegółowy silnik. W zestawie znajdują się osobne podstawki dla samochodu i minifigurki Nigela Mansella.
 
+**Galeria:**
+
+- 10353-1: https://a.allegroimg.com/original/05f734/ebe5863a4e0bb666002f0f916565
+
 ---
 
-## 10354 — 10354 Lego Władca Pierścieni: Shire 2017 elementów 18+
+## 10354 — LEGO ICONS 10354 - Władca pierścieni: Shire
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1087.77 zł · EAN: 05702017829135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10354 |
+| Nazwa angielska | The Lord of the Rings: The Shire |
+| Nazwa polska | LEGO ICONS 10354 - Władca pierścieni: Shire |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2017 |
+| Cena katalogowa | 1149.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 45 cm × gł. 27 cm |
+| EAN | 5702017829135, 5907213510812 |
 
 Klocki LEGO ICONS 10354 - Władca pierścieni: Shire™
 
@@ -1387,11 +1773,28 @@ Odpręż się dzięki inspirującej ofercie zestawów LEGO dla dorosłych. Aplik
 
 Zestaw LEGO ICONS - Władca pierścieni: Shire™ trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 10354. Zawiera 2017 klocków LEGO. W modelu znajdziesz też 9 minifigurki. Nazwa zestawu w języku angielskim LEGO ICONS - The Lord of The Rings: The Shire™. Grupa wiekowa tego produktu to 18+.
 
+**Galeria:**
+
+- 10354-1: https://a.allegroimg.com/original/11a858/67205b6849de82bc8f46439fd18f
+- 10354-2: https://a.allegroimg.com/original/113075/130205b74020a9263ba875f8adf0
+
 ---
 
-## 10355 — Lego Icons 10355 Blacktron Renegade
+## 10355 — Blacktron Renegade
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 429.90 zł · EAN: 05702017829142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10355 |
+| Nazwa angielska | Blacktron Renegade |
+| Nazwa polska | Blacktron Renegade |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 30 cm |
+| EAN | 5702017829142 |
 
 Wyjątkowy sklep z klockami LEGO
 
@@ -1436,11 +1839,26 @@ Ten zestaw zawiera oddzielne torebki z klockami, dzięki czemu idealnie nadaje s
 
 - Wymiary — statek Blacktron Renegade w tym **1151-elementowym **zestawie ma 9 cm wysokości, 47 cm długości i 30 cm szerokości
 
+**Galeria:**
+
+- 10355-1: https://a.allegroimg.com/original/11c22e/7f7711884002a0e9dec391bfd04b
+
 ---
 
-## 10356 — Lego Icons 10356 Star Trek: U.s.s. Enterprise NCC-1701-D
+## 10356 — Star Trek: U.S.S. Enterprise NCC-1701-D
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1410.36 zł · EAN: 05702017829159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10356 |
+| Nazwa angielska | Star Trek: U.S.S. Enterprise NCC-1701-D |
+| Nazwa polska | Star Trek: U.S.S. Enterprise NCC-1701-D |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3600 |
+| Cena katalogowa | 1649.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 48 cm |
+| EAN | 5702017829159 |
 
 Wybierz się w nostalgiczną podróż z zestawem dla dorosłych LEGO® Icons Star Trek: U.S.S. Enterprise NCC-1701-D™ (10356). Zbuduj niezwykle szczegółową replikę legendarnego okrętu Gwiezdnej Floty wyposażoną w odłączany spodek dowódcy, dodatkowy kadłub, gondolę warp z charakterystycznymi czerwono-niebieskimi detalami, otwierany hangar wahadłowca, dwa małe wahadłowce oraz kątową podstawkę do ekspozycji z projektem i statystykami statku.
 
@@ -1460,11 +1878,26 @@ W aplikacji LEGO Builder znajdują się trójwymiarowe instrukcje budowania. Zes
 - Zestawy konstrukcyjne dla dorosłych LEGO® Icons — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych 
 - Wymiary — model statku kosmicznego U.S.S. Enterprise wraz z podstawką do ekspozycji w tym zestawie składającym się z 3600 elementów ma 27 cm wysokości, 60 cm długości i 48 cm szerokości
 
+**Galeria:**
+
+- 10356-1: https://a.allegroimg.com/original/11b3e8/06aab2ff40d4a6b5f97e84179aef
+
 ---
 
-## 10357 — Klocki Lego Shelby Cobra 427 S/c 1241 elementów 10357
+## 10357 — LEGO Icons 10357 Shelby Cobra 427 S/C
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017829166 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10357 |
+| Nazwa angielska | Shelby Cobra 427 S/C |
+| Nazwa polska | LEGO Icons 10357 Shelby Cobra 427 S/C |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1241 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm |
+| EAN | 5702017829166, 5907213510690 |
 
 Podaruj zestaw LEGO® Icons Shelby Cobra 427 S/C (10357) znajomemu miłośnikowi samochodów lub pozwól sobie na chwilę relaksu przy tym satysfakcjonującym projekcie. Odtwórz legendarny samochód sportowy z lat 60. dwudziestego wieku, słynący z kultowego designu i oszałamiających osiągów, dzięki którym zdominował świat wyścigów.
  
@@ -1482,11 +1915,27 @@ Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania do tego zes
 - Projekty LEGO® Icons dla dorosłych — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych 
 - Wymiary — model Shelby Cobra 427 S/C w tym 1241-elementowym zestawie ma 9 cm wysokości, 30 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 10357-1: https://a.allegroimg.com/original/113e3d/1d829fd64f22bac8401772bb799f
+- 10357-2: https://a.allegroimg.com/original/113a52/a9bc4aca46f68f3edcc2846d4026
+
 ---
 
-## 10358 — Lego Icons 10358 Transformers: Soundwave
+## 10358 — Transformers: Soundwave
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 633.98 zł · EAN: 05702017829173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10358 |
+| Nazwa angielska | Transformers: Soundwave |
+| Nazwa polska | Transformers: Soundwave |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1505 |
+| Cena katalogowa | 779.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017829173 |
 
 LEGO ICONS 10358 Transformers: Soundwave
 
@@ -1524,21 +1973,26 @@ W zestawie znajdziesz kasety, rakietę, miotacz laserowy i strzałki.
 
 **Technologia: Alkaliczne**
 
----
+**Galeria:**
 
-## 10359 — Klocki Zestaw Lego Icons 10359 Fontanna w ogrodzie
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 287.99 zł · EAN: 05702017815879 · in stock*
-
-Fontanna w ogrodzie
-
-Icons Fontanna w ogrodzie LEGO® Icons Fontanna w ogrodzie Zestaw dla dorosłych LEGO® Icons Fontanna w ogrodzie 10359 Zbuduj wyjątkową, kolorową ozdobę do domu lub biura z zestawu dla dorosłych LEGO® Icons Fontanna w ogrodzie. Zestaw dla dorosłych z fontanną ogrodową Zrelaksuj się podczas budowania zestawu dla dorosłych LEGO® Icons Fontanna w ogrodzie (10359), który będzie stanowił piękną ozdobę domowego biura. Odpręż się i odtwórz misterne detale, ustaw drzewka, kwiaty i pergole oraz przestawiaj sekcje ogrodu, by osiągnąć pożądany wygląd.Ten model z kolekcji Ogrody świata, inspirowany pięknem i różnorodnością architektury krajobrazu, obejmuje piętrową fontannę, ozdobną misę, ścieżkę z dekoracyjnych płytek i ukwiecone winorośle, które zdobią białe kolumnowe pergole z czerwonym dachem. W ogrodzie jest też kwitnąca winorośl, dwa drzewa cyprysowe, czerwony bodziszek, białe petunie, czerwony hibiskus, różowa bugenwilla i nagietki, a także figurki zwierząt: ptaka, żaby i ćmy.Odpręż się dzięki szerokiej ofercie zestawów LEGO, zaprojektowanych specjalnie dla dorosłych (sprzedawane osobno). Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania w 3D do tego zestawu z ogrodem LEGO. Poczuj ciepło bijące od Fontanny w ogrodzie LEGO® Icons. Stwórz kolorową oazę z piętrową fontanną, zdobioną misą, ścieżką wyłożoną zdobnymi płytkami, drzewami, różnymi stworzeniami i winoroślami, które okalają białe kolumnowe pergole z czerwonym dachem. Odpręż się, budując i przebudowując ogród, aby uzyskać wymarzoną ozdobę, która będzie cieszyć oko.
+- 10358-1: https://a.allegroimg.com/original/11b090/1d820636429cbfac7e052e2ac69f
 
 ---
 
-## 10360 — Klocki Lego Icons 10360 Nosiciel wahadłowców
+## 10360 — Nosiciel wahadłowców
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 875.99 zł · EAN: 05702017829180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10360 |
+| Nazwa angielska | Shuttle Carrier Aircraft |
+| Nazwa polska | Nosiciel wahadłowców |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2417 |
+| Cena katalogowa | 999.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 53,5 cm |
+| EAN | 5702017829180 |
 
 Świętuj historyczne innowacje w dziedzinie lotnictwa i kosmonautyki, budując zestaw dla dorosłych LEGO® Icons Nosiciel wahadłowców (10360). Stwórz model Boeinga™ 747™ i promu NASA Enterprise, które pomogły ukształtować erę podróży w kosmos. Odprężsię, odtwarzając każdy misterny szczegół, a następnie z dumą ustaw swoje dzieło na półce jako ozdobę.
  
@@ -1555,27 +2009,27 @@ Skorzystaj z okazji do relaksu dzięki temu kolekcjonerskiemu zestawowi konstruk
 - Zestawy konstrukcyjne dla dorosłych — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych 
 - Wymiary — model Boeinga™ 747™ z zamocowanym promem NASA w tym 2417-elementowymzestawie ma 27 cm wysokości, 63 cm długości i 53,5 cm szerokości
 
----
+**Galeria:**
 
-## 10361 — Klocki Lego Icons 10361 Świąteczny Ekspres Pociąg Lokomotywa Christmas
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 478.90 zł · EAN: 05702017829197 · in stock*
-
-klocki LEGO ICONS 10361 Świąteczny ekspres Pociąg Lokomotywa Christmas
-
-estaw LEGO Icons Świąteczny ekspres (10361) już tu jest! Zbuduj lokomotywę z wyskakującym kominem, wagonem węglowym, platformą z niedźwiedziem polarnym trzymającym dzwonek oraz wagonem mieszkalnym z meblami. Ten zestaw dla dorosłych zawiera również cztery minifigurki i peron z ławką i latarnią, a także minimodele, w tym wydrukowany w 3D element pociągu (pierwszy taki w historii zestawów LEGO dostępnych w sprzedaży). Zbuduj tor wokół swojej choinki i dodaj zestaw LEGO Powered Up (sprzedawany osobno), aby wprawić lokomotywę w ruch.
-
-Wejdź na pokład pociągu i wybierz się w ujmującą podróż po budowaniu lub zaproponuj przyjaciołom i rodzinie wspólne budowanie z aplikacją LEGO Builder. Można w niej powiększać i obracać modele w 3D, śledzić i zapisywać swoje postępy oraz odkrywać nowe modele LEGO. Ten zestaw zawiera również dwa zestawy drukowanych instrukcji do wspólnego budowania.
-
-Zrelaksuj się dzięki inspirującej serii kreatywnych projektów konstrukcyjnych LEGO stworzonych z myślą o dorosłych. Zestaw zawiera 956 elementów.
-
-**Wymiary zestaw z ekspresem świątecznym i wagonami w tym 956-elementowym zestawie ma 13 cm wysokości, 49 cm długości i 7 cm szerokości**
+- 10360-1: https://a.allegroimg.com/original/11361e/bcb5eb814d37a5f51cffcea17168
 
 ---
 
-## 10363 — Lego Icons 10363 Latająca maszyna Leonarda da Vinci
+## 10363 — Maszyna latająca Leonarda da Vinci
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017815893 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10363 |
+| Nazwa angielska | Leonardo da Vinci's Flying Machine |
+| Nazwa polska | Maszyna latająca Leonarda da Vinci |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 493 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 35 cm |
+| EAN | 5702017815893 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -1598,11 +2052,26 @@ Zrelaksuj się podczas budowania kolekcjonerskiego zestawu ze skrzydłowcem LEGO
 - Zestawy konstrukcyjne dla dorosłych — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych
 - Wymiary — maszyna latająca w tym 493-elementowym zestawie ma 25 cm wysokości, 29 cm długości i 35 cm szerokości
 
+**Galeria:**
+
+- 10363-1: https://a.allegroimg.com/original/11ecb5/7e484d354c69885c0dc5ba73659c
+
 ---
 
-## 10365 — Lego Icons Piraci Z Karaibów Statek Kapitana Jacka Sparrowa 10365
+## 10365 — STATEK KAPITANA JACKA SPARROWA
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1478.90 zł · EAN: 05702017829203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10365 |
+| Nazwa angielska | Captain Jack Sparrow's Pirate Ship |
+| Nazwa polska | STATEK KAPITANA JACKA SPARROWA |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2862 |
+| Cena katalogowa | 1499.99 zł |
+| Wymiary złożonego | wys. 64 cm × szer. 23 cm |
+| EAN | 5702017829203 |
 
 **Statek piracki kapitana Jacka Sparrowa**
 
@@ -1621,11 +2090,26 @@ Znajdź chwilę na odpoczynek dzięki zestawom LEGO dla dorosłych. W aplikacji 
 - Zestawy konstrukcyjne dla dorosłych LEGO® Icons — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych
 - Wymiary — zestaw z 2862 elementami obejmuje statek piracki, który ma 64 cm wysokości, 64 cm długości i 23 cm szerokości
 
+**Galeria:**
+
+- 10365-1: https://a.allegroimg.com/original/110fb0/9e64865e43359813f6a3175e5f78
+
 ---
 
-## 10366 — Lego Icons 10366 Tropikalne akwarium 4154 elementy
+## 10366 — LEGO Icons 10366 Tropikalne akwarium
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1631.00 zł · EAN: 05702017829210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10366 |
+| Nazwa angielska | Tropical Aquarium |
+| Nazwa polska | LEGO Icons 10366 Tropikalne akwarium |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 4154 |
+| Cena katalogowa | 1949.99 zł |
+| Wymiary złożonego | wys. 36 cm × szer. 52 cm × gł. 28 cm |
+| EAN | 5702017829210 |
 
 Odpręż się przy budowaniu ozdobnego zestawu dla dorosłych LEGO® Icons Tropikalne akwarium (10366). Stwórz szczegółowy model LEGO tętniącego życiem i kolorowego podwodnego świata. Ułóż każdy element wedle uznania i ustaw swoje dzieło w domu lub w pracy, aby wszyscy mogli się nim zachwycać.
  
@@ -1643,11 +2127,26 @@ Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO zaprojekt
 - Zestawy konstrukcyjne dla dorosłych LEGO® — zrelaksuj się dzięki inspirującej ofercie zestawów konstrukcyjnych LEGO (sprzedawanych osobno), stworzonych specjalnie dla dorosłych 
 - Wymiary — akwarium w tym 4154-elementowym zestawie ma 36 cm wysokości, 52 cm szerokości i 28 cm głębokości
 
+**Galeria:**
+
+- 10366-1: https://a.allegroimg.com/original/119a31/4f1ddce3482da79c867d8d6d6a17
+
 ---
 
-## 10367 — Lego Icons Władca pierścieni: Book nook z Balrogiem 10367
+## 10367 — Władca pierścieni Book nook z Balrogiem
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017815909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10367 |
+| Nazwa angielska | The Lord of the Rings: Balrog Book Nook |
+| Nazwa polska | Władca pierścieni Book nook z Balrogiem |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1201 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815909 |
 
 **LEGO Icons Władca pierścieni: Book nook z Balrogiem 10367**
  
@@ -1669,46 +2168,27 @@ Sprawdź ofertę kreatywnych zestawów LEGO® dla dorosłych fanów budowania
  
 Po rozłożeniu, składający się z 1201 elementów Book nook z Balrogiem ma 44 cm szerokości
 
----
+**Galeria:**
 
-## 10370 — Lego Icons 10370 Gwiazda Betlejemska 18+ Outlet
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702017747682 · in stock*
-
-**Zestaw oryginalnie zapakowany, fabrycznie nowy.**
-
-LEGO® Icons 10370 Gwiazda Betlejemska
-
-Nr katalogowy: 10370
-
-Ilość klocków: 608
-
-Dla dzieci w wieku: 18+
-
-Dostępność od ręki.
-
-**Pudełko było lekko przygniecione**
-
-Stwórz elegancką, niewymagającą pielęgnacji roślinę ozdobną dzięki zestawowi dla dorosłych LEGO® Icons Gwiazda Betlejemska (10370). Stwórz ciekawy projekt lub podaruj komuś bliskiemu ponadczasową kompozycję kwiatową, która sprawdzi się jako prezent na każdą okazję.
-
-Ta replika rośliny LEGO przedstawia ruchomą poinsecję Grande Italia w plecionej doniczce. Kwiat ma zielone liście oraz pięć kępek jaskrawoczerwonych liści (przylistków) z żółtym cyjacjum pośrodku. Łatwy w budowie model gwarantuje satysfakcję z budowania i stanowi elegancką ozdobę do domu lub biura.
-
-Odpręż się dzięki inspirującej serii kreatywnych zestawów LEGO z botanicznej kolekcji LEGO dla dorosłych i miłośników kwiatów. Cyfrowa wersja instrukcji budowania jest dostępna w aplikacji LEGO Builder.
-
-- Zestaw dla dorosłych z kwiatową ozdobą do domu — zrelaksuj się, budując zestaw LEGO® Icons Gwiazda Betlejemska samodzielnie albo razem z przyjaciółmi i rodziną
-- Kreatywne budowanie dla miłośników roślin — ten zestaw zawiera wszystko, czego potrzeba do stworzenia szczegółowej repliki poinsecji Grande Italia w wersji LEGO®, wraz z plecioną doniczką
-- Ruchome elementy rośliny LEGO® – ta replika LEGO rośliny sezonowej jest ruchoma i zawiera zielone liście oraz pięć kępek listków w kształcie gwiazd(przylistków) z żółtym cyjacjum na środku
-- Dekoracja domu lub biura — dodaj odrobinę koloru do dowolnej przestrzeni dzięki tej zbudowanej z klocków kompozycji kwiatowej, która nie wymaga podlewania
-- Pomysłowy prezent — zestaw do budowania LEGO® Icons Gwiazda Betlejemska to świetny pomysł na prezent urodzinowy lub na co dzień dla dorosłych fanów zestawów LEGO oraz miłośników kwiatów
-- Zawiera cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
-- Część kolekcji botanicznej LEGO® — zrelaksuj się przy szerokiej gamie zestawów LEGO zaprojektowanych specjalnie dla dorosłych
-- Wymiary — gwiazda betlejemska wraz z doniczką w tym 608-elementowym zestawie ma 21 cm wysokości, 22 cm szerokości i 17 cm głębokości
+- 10367-1: https://a.allegroimg.com/original/299791/a31951244b43b8f577dd68dec2b8
 
 ---
 
-## 10375 — Lego Icons 10375 Jak Wytresować Smoka Szczerbatek 18+ Nowy
+## 10375 — Jak wytresować smoka: Szczerbatek
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702017910062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10375 |
+| Nazwa angielska | How to Train Your Dragon: Toothless |
+| Nazwa polska | Jak wytresować smoka: Szczerbatek |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 784 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017910062 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1737,11 +2217,27 @@ Ten zestaw ze smokiem to idealny pomysł na prezent świąteczny lub urodzinowy 
 - Więcej zestawów do odkrycia — sprawdź inspirującą serię kreatywnych zestawów (sprzedawanych osobno) stworzonych specjalnie dla dorosłych
 - Wymiary — zestaw Jak wytresować smoka: Szczerbatek w tym 784-elementowym zestawie zawiera figurkę o wysokości 16 cm
 
+**Galeria:**
+
+- 10375-1: https://a.allegroimg.com/original/11e83d/eaad44684503b169f99c32924409
+
 ---
 
-## 10391 — Lego Icons 10391 Radość z Pharrellem Williamsem
+## 10391 — Na Księżyc z Pharrellem Williamsem
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 377.78 zł · EAN: 05702017462790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10391 |
+| Nazwa angielska | Over the Moon with Pharrell Williams |
+| Nazwa polska | Na Księżyc z Pharrellem Williamsem |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 966 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 49 cm × szer. 19 cm |
+| EAN | 5702017462790 |
 
 **LEGO Icons 10391 Radość z Pharrellem Williamsem**
 
@@ -1767,11 +2263,27 @@ Kreatywny prezent dla dorosłych — to świetny pomysł na upominek dla dorosł
 
 Wymiary — model ma 49 cm wysokości, 20 cm głębokości i 19 cm szerokości
 
+**Galeria:**
+
+- 10391-1: https://a.allegroimg.com/original/11ff60/283e3fff4eb981a01d1818b2c145
+
 ---
 
-## 10497 — Lego 10497 – Galaktyczny odkrywca – Edycja jubileuszowa
+## 10497 — Galaktyczny odkrywca
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702017189208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10497 |
+| Nazwa angielska | Galaxy Explorer |
+| Nazwa polska | Galaktyczny odkrywca |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189208 |
 
 LEGO 10497 – Galaktyczny odkrywca – Edycja jubileuszowa
  
@@ -1791,11 +2303,26 @@ Odkrywaj galaktykę, budując statek z:
  
 Zanurz się w budowaniu, odtwarzając kultowe detale, i ciesz się gotowym modelem jako efektowną ozdobą. To idealny prezent dla fanów LEGO, miłośników kosmosu i kolekcjonerów klasycznych zestawów!
 
+**Galeria:**
+
+- 10497-1: https://a.allegroimg.com/original/111c5b/5800ae084eb39e436a57a2b13785
+
 ---
 
-## 11370 — Lego Icons 11370 Stranger Things: Dom Creelów
+## 11370 — LEGO Icons 11370 Stranger Things: Dom Creela
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1048.98 zł · EAN: 05702018069363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11370 |
+| Nazwa angielska | Stranger Things: The Creel House |
+| Nazwa polska | LEGO Icons 11370 Stranger Things: Dom Creela |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2593 |
+| Cena katalogowa | 1199.99 zł |
+| Wymiary złożonego | wys. 29 cm × szer. 50 cm × gł. 17 cm |
+| EAN | 5702018069363 |
 
 Przejdź na Drugą Stronę dzięki zestawowi LEGO® Icons Stranger Things: Dom Creelów (11370) z minidomem dla dorosłych. Ten niezwykle szczegółowy model mrocznej gotyckiej rezydencji zawiera samochód Steve'a, furgonetkę radiową WSQK oraz rower Willa. Dom ma bogato zdobioną fasadę i otwartą tylną część z dostępem do przedpokoju, jadalni, salonu, sypialni Alice i Henry'ego, mrożącego krew w żyłach korytarza na piętrze oraz dwóch pomieszczeń na poddaszu.
 
@@ -1819,11 +2346,26 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 - Zestawy LEGO® dla osób powyżej 18 lat — sprawdź inspirującą serię zestawów (sprzedawanych osobno) stworzonych specjalnie dla dorosłych 
 - Wymiary — model domu w 2593-elementowym zestawie LEGO® Icons Stranger Things: Dom Creelów ma 29 cm wysokości, 50 cm szerokości i 17 cm głębokości
 
+**Galeria:**
+
+- 11370-1: https://a.allegroimg.com/original/1174cd/6e9b37214e93a197426516ce4321
+
 ---
 
-## 11371 — Lego Icons Ulica handlowa 11371
+## 11371 — Zestaw LEGO Icons Ulica handlowa 11371
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702018032046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11371 |
+| Nazwa angielska | Shopping Street |
+| Nazwa polska | Zestaw LEGO Icons Ulica handlowa 11371 |
+| Seria | Icons |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3456 |
+| Cena katalogowa | 1099.99 zł |
+| Wymiary złożonego | wys. 36 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702018032046 |
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1850,11 +2392,26 @@ ELEMENT KOLEKCJI BUDYNKÓW MODUŁOWYCH LEGO® – Zrelaksuj się dzięki inspiru
  
 WYMIARY – Model LEGO® Icons Ulica handlowa składa się z 3456 elementów i mierzy ponad 36 cm wysokości, 25 cm szerokości i 25 cm głębokości
 
+**Galeria:**
+
+- 11371-1: https://a.allegroimg.com/original/053776/016611eb44d19305f5e109b5c201
+
 ---
 
-## 11372 — Lego Icons Jesienny ogród z chatką 11372
+## 11372 — LEGO Icons 11372 Domek i jesienny ogród
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702018062760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11372 |
+| Nazwa angielska | Autumn Cottage Garden |
+| Nazwa polska | LEGO Icons 11372 Domek i jesienny ogród |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1102 |
+| Cena katalogowa | 479.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062760 |
 
 **LEGO Icons Jesienny ogród z chatką 11372**
 
@@ -1880,11 +2437,26 @@ Odkryj więcej zestawów z kolekcji LEGO® Icons Ogrody świata
 
 Jesienny ogród z chatką składa się z 1102 elementów i ma 29 cm szerokości
 
+**Galeria:**
+
+- 11372-1: https://a.allegroimg.com/original/116229/2d2c152c453b913a70ca860ce932
+
 ---
 
-## 11373 — Lego Icons 11373 Władca pierścieni: Hełm Saurona
+## 11373 — LEGO Icons 11373 Władca pierścieni: Hełm Saurona
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 223.95 zł · EAN: 05702018063576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11373 |
+| Nazwa angielska | The Lord of the Rings: Sauron's Helmet |
+| Nazwa polska | LEGO Icons 11373 Władca pierścieni: Hełm Saurona |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 538 |
+| Cena katalogowa | 319.99 zł |
+| Wymiary złożonego | wys. 33 cm × szer. 13 cm × gł. 13 cm |
+| EAN | 5702018063576 |
 
 LEGO Icons 11373 Władca pierścieni: Hełm Saurona
 
@@ -1905,11 +2477,26 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 - Instrukcje budowania w 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D. 
 - Wymiary — model hełmu w tym 538-elementowym zestawie LEGO® Icons Władca pierścieni: Hełm Saurona ma 33 cm wysokości, 13 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 11373-1: https://a.allegroimg.com/original/115481/7ba3f9b7469aa70291c6c6c7afc1
+
 ---
 
-## 11375 — Klocki Lego Icons 11375 Ferrari F2004 i Michael Schumacher
+## 11375 — Klocki LEGO Icons 11375 Ferrari F2004 i Michael Schumacher
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702018063583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11375 |
+| Nazwa angielska | Ferrari F2004 & Michael Schumacher |
+| Nazwa polska | Klocki LEGO Icons 11375 Ferrari F2004 i Michael Schumacher |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 735 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 13 cm |
+| EAN | 5702018063583 |
 
 **LEGO Icons 11375 Ferrari F2004 i Michael Schumacher**
 
@@ -1932,11 +2519,26 @@ Buduj sprytniej dzięki aplikacji LEGO Builder — powiększaj, obracaj model w 
 - Jeszcze więcej szybkiej jazdy z F1 — sprawdź też inne zestawy konstrukcyjne LEGO® F1 (sprzedawane osobno), aby budować, ustawiać bolidy na półce i odgrywać wyścigi z całą rodziną. 
 - Wymiary — bolid LEGO® Icons Ferrari F2004 w tym 735-elementowym zestawie ma 7 cm wysokości, 32 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 11375-1: https://a.allegroimg.com/original/114a08/ea4ead1049cd8314157ffcab1bb4
+
 ---
 
-## 11376 — Lego Icons Ford Model T 11376
+## 11376 — LEGO ICONS 11376 Ford Model T
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11376 |
+| Nazwa angielska | Ford Model T |
+| Nazwa polska | LEGO ICONS 11376 Ford Model T |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1060 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063590 |
 
 **LEGO Icons Ford Model T 11376**
 
@@ -1962,11 +2564,26 @@ Ten model samochodu pochodzi z serii zestawów LEGO® Icons (sprzedawanych osobn
 
 Zabytkowy samochód w tym zestawie ma 29 cm długości
 
+**Galeria:**
+
+- 11376-1: https://a.allegroimg.com/original/111c74/937ba48a488b88961a046151aa15
+
 ---
 
-## 11377 — Lego Icons 11377 The Lord of the Rings: Minas Tirith
+## 11377 — Władca pierścieni: Minas Tirith
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 3549.98 zł · EAN: 05702018069813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11377 |
+| Nazwa angielska | The Lord of the Rings: Minas Tirith |
+| Nazwa polska | Władca pierścieni: Minas Tirith |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 8278 |
+| Cena katalogowa | 2799.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069813 |
 
 **LEGO (11377) Ikony Władca Pierścieni: Minas Tirith**
 
@@ -2007,11 +2624,26 @@ Jako element ekspozycyjny, Minas Tirith został zaprojektowany tak, aby był osz
 
 Samo doświadczenie budowlane jest rozległe i bardzo wciągające. Dzięki tysiącom elementów i zaawansowanym technikom konstrukcyjnym, zestaw oferuje dziesiątki godzin czasu budowania. Budowniczowie mogą oczekiwać skomplikowanych sekcji architektonicznych, warstwowej inżynierii strukturalnej i satysfakcjonującego postępu, gdy Białe Miasto stopniowo wznosi się od bazy do Cytadeli powyżej.
 
+**Galeria:**
+
+- 11377-1: https://a.allegroimg.com/original/113983/3ee2adb842e18d40bb69d5c42468
+
 ---
 
-## 11378 — Lego 11378 Icons Samolot pasażerski Douglas DC-3 Pan Am
+## 11378 — Douglas DC-3 PAN AM Airliner
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 949.99 zł · EAN: 05702018069820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11378 |
+| Nazwa angielska | Douglas DC-3 PAN AM Airliner |
+| Nazwa polska | Douglas DC-3 PAN AM Airliner |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1903 |
+| Cena katalogowa | 949.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 76 cm |
+| EAN | 5702018069820 |
 
 LEGO 11378 Icons Samolot pasażerski Douglas DC-3 PAN AM
 
@@ -2047,11 +2679,26 @@ UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 - **Zawiera akumulator/baterię:** Nie 
 - **Zdalnie sterowany:** Nie
 
+**Galeria:**
+
+- 11378-1: https://a.allegroimg.com/original/11296b/7b617cb043d79a5fd55ab1691d00
+
 ---
 
-## 11380 — Lego Icons Rower szosowy 11380
+## 11380 — Rower szosowy
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 388.99 zł · EAN: 05702018063613 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11380 |
+| Nazwa angielska | Road Bike |
+| Nazwa polska | Rower szosowy |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1015 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063613 |
 
 **LEGO Icons Rower szosowy 11380**
 
@@ -2077,11 +2724,26 @@ Odkryj całą serię inspirujących zestawów konstrukcyjnych LEGO® dla dorosł
 
 Model roweru szosowego LEGO® w tym 1015-elementowym zestawie ma 60 cm długości
 
+**Galeria:**
+
+- 11380-1: https://a.allegroimg.com/original/1189ac/15082deb4ab2a2d56e4b31eb78dc
+
 ---
 
-## 11381 — Lego Ikony 11381 Jaguar E-Type
+## 11381 — Jaguar Type E
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 461.99 zł · EAN: 05702018063620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11381 |
+| Nazwa angielska | Jaguar E-type |
+| Nazwa polska | Jaguar Type E |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1673 |
+| Cena katalogowa | 599.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm |
+| EAN | 5702018063620 |
 
 LEGO Icons 11381 Jaguar E-Type
  
@@ -2101,11 +2763,26 @@ A dzięki aplikacji LEGO Builder można powiększać i obracać model w 3D oraz 
 - **WIĘCEJ ZESTAWÓW DO ODKRYCIA** — zrelaksuj się, tworząc modele z zestawów LEGO® Icons (sprzedawanych oddzielnie) — inspirującej serii satysfakcjonujących projektów kreatywnych dla dorosłych.
 - **WYMIARY** — model Jaguara E-Type w tym 1673-elementowym zestawie ma 9 cm wysokości, 37 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 11381-1: https://a.allegroimg.com/original/11ac7a/36e5e1554f98b3ee9b46b4e52db3
+
 ---
 
-## 11382 — Lego Icons 11382 Kosmiczny Teleskop Hubble’a
+## 11382 — Kosmiczny Teleskop Hubble'a
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 420.00 zł · EAN: 05702018063637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11382 |
+| Nazwa angielska | Hubble Space Telescope |
+| Nazwa polska | Kosmiczny Teleskop Hubble'a |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1252 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | wys. 32 cm × szer. 38 cm |
+| EAN | 5702018063637 |
 
 LEGO Icons 11382 Kosmiczny Teleskop Hubble’a
  
@@ -2127,11 +2804,26 @@ Zbuduj ten naukowy model kosmiczny, korzystając ze szczegółowej instrukcji 3D
 - **ZESTAWY LEGO® DLA DOROSŁYCH** — poszerz swoją kolekcję i odkryj inspirującą serię zestawów LEGO Icons (sprzedawanych oddzielnie) stworzonych specjalnie dla dorosłych fanów. 
 - **WYMIARY** — model teleskopu w tym 1252-elementowym zestawie konstrukcyjnym inspirowanym astronomią ma, przy otwartych drzwiach przysłony, 32 cm wysokości, 38 cm długości i 38 cm szerokości.
 
+**Galeria:**
+
+- 11382-1: https://a.allegroimg.com/original/11d635/940860a24eecad3eebcafeb94992
+
 ---
 
-## 11383 — * Lego Icons Rezydencja burmistrzyni 11383
+## 11383 — Rezydencja burmistrzyni
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 386.89 zł · EAN: 05702018063644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11383 |
+| Nazwa angielska | Mayor Manor |
+| Nazwa polska | Rezydencja burmistrzyni |
+| Seria | Icons |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1420 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 30 cm × gł. 13 cm |
+| EAN | 5702018063644, 5702018276303 |
 
 LEGO ICONS - Rezydencja burmistrzyni 11383
  
@@ -2158,11 +2850,27 @@ Zanurz się w fascynującym projekcie, konstruując**misternie dopracowane detal
 - WIĘCEJ ZESTAWÓW DO ZEBRANIA I ODKRYWANIA - zrelaksuj się dzięki inspirującej serii zestawów LEGO (sprzedawanych oddzielnie) zaprojektowanych z myślą o dorosłych 
 - WYMIARY - ta 1420-elementowa rezydencja w zestawie LEGO Icons ma 27 cm wysokości, 30 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 11383-1: https://a.allegroimg.com/original/11ee42/fb08b4664548ae93a37f042ed7b2
+- 11383-2: https://a.allegroimg.com/original/116755/bb45e46f4934b8f12e83d4aeab18
+
 ---
 
-## 11384 — Lego Icons 11384 Szczeniak Golden Retriever
+## 11384 — Szczeniak golden retriever
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 419.98 zł · EAN: 05702018063651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11384 |
+| Nazwa angielska | Golden Retriever Puppy |
+| Nazwa polska | Szczeniak golden retriever |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2102 |
+| Cena katalogowa | 599.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063651 |
 
 Odpręż się przy uroczym projekcie dzięki zestawowi konstrukcyjnemu LEGO® Icons Szczeniak golden retriever (11384) dla dorosłych. Ruchoma figurka oddaje urok tej popularnej rasy psów, dlatego zachwyci zarówno miłośników zwierząt, jak i fanów goldenretrieverów. Ustaw głowę, uszy i ogon figurki szczeniaka oraz unieś jego przednią łapkę, aby odtworzyć różne urocze pozy. Otwórz pyszczek, aby odsłonić białe ząbki, i dodaj różowy język, aby nadać mu jeszcze więcej charakteru. Ten uroczy piesek LEGO z ozdobną obrożą i zawieszką będzie cudowną ozdobą każdej przestrzeni. Korzystaj z aplikacji LEGO Builder, powiększając i obracając model w 3D i budując zgodnie ze szczegółowymi cyfrowymi instrukcjami, a jednocześnie zapisując swoje postępy — wszystko to z poziomu aplikacji. Zestaw składa się z 2102 elementów.
 
@@ -2178,11 +2886,26 @@ Odpręż się przy uroczym projekcie dzięki zestawowi konstrukcyjnemu LEGO® Ic
 - Odprężające zestawy LEGO® dla dorosłych — sprawdź inspirującą serię zestawów (sprzedawanych osobno) stworzonych specjalnie dla dorosłych 
 - Wymiary — po złożeniu model Szczeniak golden retriever z serii LEGO® Icons, składający się z 2102 elementów, ma 30 cm wysokości
 
+**Galeria:**
+
+- 11384-1: https://a.allegroimg.com/original/11c326/a367d9b5415f9b10046b8f5b11b7
+
 ---
 
-## 11386 — Lego Icons 11386 SpongeBob Kanciastoporty: Bikini Dolne
+## 11386 — SpongeBob Kanciastoporty: Bikini Dolne
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 869.00 zł · EAN: 05702018069844 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11386 |
+| Nazwa angielska | SpongeBob SquarePants: Bikini Bottom |
+| Nazwa polska | SpongeBob Kanciastoporty: Bikini Dolne |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1794 |
+| Cena katalogowa | 899.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069844 |
 
 GRATIS!!!  katalog LEGO 2026 i opakowanie prezentowe + niespodzianka
 
@@ -2197,11 +2920,26 @@ Tylko zakup przed premierą gwarantuję taką cene.
 
 Wysyłka zestawu będzie możliwa dopiero po premierze 1 listopada 2026!
 
+**Galeria:**
+
+- 11386-1: https://a.allegroimg.com/original/119f4e/09aa1fce47709a5ff851fa82aa29
+
 ---
 
-## 11389 — Lego 11389 Icons Projekt Hail Mary
+## 11389 — LEGO Icons 11389 Savior
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 499.98 zł · EAN: 05702018069226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11389 |
+| Nazwa angielska | Project Hail Mary |
+| Nazwa polska | LEGO Icons 11389 Savior |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 830 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | wys. 30 cm × szer. 22 cm |
+| EAN | 5702018069226 |
 
 **LEGO Ikony 11389 Odyseja Kosmiczna**
  
@@ -2231,11 +2969,26 @@ Buduj mądrzej z aplikacją LEGO Builder – przybliżaj i obracaj model w 3D, �
  
 • Odpowiednie dla osób w wieku 18 lat i starszych
 
+**Galeria:**
+
+- 11389-1: https://a.allegroimg.com/original/292adb/01af39104fb19b7bb53e0c881986
+
 ---
 
-## 30701 — Klocki Lego Botanicals Kwiaty Polne 30701
+## 30701 — Kwiaty polne
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702017818627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30701 |
+| Nazwa angielska | Field Flowers |
+| Nazwa polska | Kwiaty polne |
+| Seria | Botanicals |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 77 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017818627 |
 
 PRODUCENT: LEGO
 
@@ -2263,11 +3016,26 @@ Prezent dla miłośników przyrody podaruj ten zestaw z kwiatami w prezencie dzi
 
 Wymiary kwiaty różnią się długością, ale na przykład dmuchawiec ma 19 cm wysokości
 
+**Galeria:**
+
+- 30701-1: https://a.allegroimg.com/original/117fee/3bcdf9f743ffb45be8ec4918e3ac
+
 ---
 
-## 4000013 — Lego 4000013 Boże Narodzenie rzadki dla pracownika 2013
+## 4000013 — PRACOWNICZY
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 465.00 zł · EAN: 00673419216630 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4000013 |
+| Nazwa angielska | A LEGO Christmas Tale |
+| Nazwa polska | PRACOWNICZY |
+| Seria | ICONS |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 435 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419216630 |
 
 LEGO 4000013 – A LEGO Christmas Tale
 
@@ -2297,11 +3065,27 @@ Dodatkowo jest specjalny świecący kafel‑kamień, który dodaje uroku całej 
 - Zestaw był rozdawany pracownikom LEGO, członkom LEGO Ambassador Network i LEGO Certified Professionals – nakład ograniczony do około 14 000 egzemplarzy brickranker.com.
 - Nie wprowadzono go do regularnej sprzedaży – dziś to gratka kolekcjonerska.
 
+**Galeria:**
+
+- 4000013-1: https://a.allegroimg.com/original/11cd51/11281bd74ebc9d7900893546fe4a
+
 ---
 
-## 40485 — Klocki Lego Fc Barcelona Celebration 178 elementów
+## 40485 — FC Barcelona Celebration
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 354.00 zł · EAN: 05702016988505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40485 |
+| Nazwa angielska | FC Barcelona Celebration |
+| Nazwa polska | FC Barcelona Celebration |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 178 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988505 |
 
 LEGO 40485 Zwycięstwo drużyny FC Barcelona
  
@@ -2325,11 +3109,27 @@ Dołącz do kibiców drużyny FC Barcelona, którzy świętują zwycięstwo swoj
  
 Zestaw klocków LEGO Zwycięstwo drużyny FC Barcelona został zaprezentowany w 2021 roku i składa się z 178 klocków LEGO®. W zestawie klocków znajdziesz 4 minifigurki. Zestaw przeznaczony jest dla dorosłych od 18 roku życia
 
+**Galeria:**
+
+- 40485-1: https://a.allegroimg.com/original/1147bd/abeaa6db49559101189255e44dc3
+
 ---
 
-## 40486 — Lego Icons 40486 Mini But Adidas Originals Superstar
+## 40486 — MINI BUT ADIDAS ORIGINALS SUPERSTAR
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702016988680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40486 |
+| Nazwa angielska | Adidas Originals Superstar |
+| Nazwa polska | MINI BUT ADIDAS ORIGINALS SUPERSTAR |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988680 |
 
 Klocki LEGO Promocyjne 40486 - But adidas Originals Superstar
  
@@ -2339,11 +3139,26 @@ Proszę o dokonywanie wpłat maksymalnie do siedmiu dni od momentu zakupu towaru
  
 W przypadku jakichkolwiek problemów z płatnością lub innych proszę o informacje - zawsze chętnie służę pomocą i radą :)
 
+**Galeria:**
+
+- 40486-1: https://a.allegroimg.com/original/117393/78dbea0145c78f898e974233b049
+
 ---
 
-## 40499 — Lego Ideas Sanie Świętego Mikołaja 40499
+## 40499 — Sanie Świętego Mikołaja
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 122.55 zł · EAN: 05702016995992 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40499 |
+| Nazwa angielska | Santa's Sleigh |
+| Nazwa polska | Sanie Świętego Mikołaja |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016995992 |
 
 Sanie Świętego Mikołaja -  LEGO 40499
 
@@ -2353,11 +3168,27 @@ Chcesz, aby odwiedził Cię Mikołaj? Sięgnij po zestaw LEGO® Sanie Świętego
 - W zestawie minifigurka Świętego Mikołaja, cztery renifery z dekorowanymi, zdejmowanymi siodłami, osiem „opakowanych” prezentów do zbudowania, a także gitara, para nart oraz miś.
 - Wymiary sań Świętego Mikołaja z zaprzęgiem reniferów: ok. 8 cm wysokości, 30 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 40499-1: https://a.allegroimg.com/original/059b59/411469c64594ae527610f6a27d6a
+
 ---
 
-## 40516 — Lego 40516 Okolicznościowe Każdy jest wspaniały
+## 40516 — Każdy jest wspaniały
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 178.24 zł · EAN: 05702017106991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40516 |
+| Nazwa angielska | Everyone Is Awesome |
+| Nazwa polska | Każdy jest wspaniały |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 346 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 18 cm × gł. 12 cm |
+| EAN | 5702017106991 |
 
 **LEGO 40516 KAŻDY JEST WSPANIAŁY**
  
@@ -2368,11 +3199,27 @@ Zestaw konstrukcyjny LEGO® Każdy jest wspaniały (40516) to Twój własny symb
 - Zestaw ma ok. 10 cm wysokości, 18 cm szerokości i 12 cm głębokości. 
 - Zestaw konstrukcyjny dla dorosłych LEGO® Każdy jest wspaniały (40516) to ciekawy sposób na cieszenie się różnorodnością podczas budowania przyciągającej wzrok ozdoby, która będzie doskonale wyglądać w każdej części domu.
 
+**Galeria:**
+
+- 40516-1: https://a.allegroimg.com/original/1192e1/e75ece4f45b4a39fa6a6c3c284b0
+
 ---
 
-## 40532 — Zestaw Lego Icons 40532 Zabytkowa Londyńska Taksówka
+## 40532 — Klocki LEGO Icons 40532 Zabytkowa taksówka
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702017164069 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40532 |
+| Nazwa angielska | Vintage Taxi |
+| Nazwa polska | Klocki LEGO Icons 40532 Zabytkowa taksówka |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017164069 |
 
 ZESTAW LEGO IDEAS - 40532 - ZABYTKOWA LONDYŃSKA TAKSÓWKA
 
@@ -2410,11 +3257,27 @@ Zabytkowa taksówka została zaprojektowana w sposób, który łączy minimalizm
 
 LEGO Icons 40532 to idealny zestaw dla osób, które cenią prostotę, styl retro i kolekcjonerskie modele LEGO. Dzięki niewielkiej liczbie elementów i eleganckiemu wyglądowi świetnie sprawdzi się zarówno jako szybki projekt do zbudowania, jak i dekoracja w domu lub biurze. To także doskonały pomysł na prezent – zarówno urodzinowy, jak i bez okazji – dla fanów LEGO oraz miłośników klasycznej motoryzacji. Ciekawe detale i charakterystyczny styl sprawiają, że ten zestaw potrafi naprawdę przyciągać uwagę mimo swojej prostoty.
 
+**Galeria:**
+
+- 40532-1: https://a.allegroimg.com/original/111762/712dab114de6ab24b77fae594215
+
 ---
 
-## 40579 — Lego 40579 Mieszkanie Eiffla
+## 40579 — Mieszkanie Eiffla
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702017241982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40579 |
+| Nazwa angielska | Eiffel's Apartment |
+| Nazwa polska | Mieszkanie Eiffla |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241982 |
 
 LEGO BrickHeadz 40420 - Gru, Stuart i Otto
 
@@ -2430,11 +3293,27 @@ Klocki LEGO BrickHeadz 40420 - Gru, Stuart i Otto
 
 W zestawie LEGO® BrickHeadz™ Gru, Stuart i Otto (40420) **znajdziesz trzy postacie znane z filmu: Gru, Minionka Stuarta i Minionka Otto, a także kamień zodiaku**. Figurki stanowią część kolekcji LEGO BrickHeadz, więc każda z nich ma tabliczkę z informacjami o postaci i solidną płytkę, która pozwala ją wyeksponować — osobno, w grupie lub razem z innymi modelami BrickHeadz.
 
+**Galeria:**
+
+- 40579-1: https://a.allegroimg.com/original/1152c5/0c28efc940338d1db9b37c00dc29
+
 ---
 
-## 40580 — Klocki Lego Krążownik Blacktron 40580
+## 40580 — Krążownik Blacktron
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702017422749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40580 |
+| Nazwa angielska | Blacktron Cruiser |
+| Nazwa polska | Krążownik Blacktron |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 23 cm |
+| EAN | 5702017422749, 673419377195 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2461,11 +3340,28 @@ Odkryj na nowo klasyczny zestaw LEGO® z lat osiemdziesiątych – Krążownik B
 - Odkryj na nowo oryginalne czarne charaktery – w zestawie twardziel z Blacktrona i robot z wykrywaczem metali i kluczem 
 - Wymiary – produkt ma 5 cm wysokości, 29 cm długości i 23 cm szerokości
 
+**Galeria:**
+
+- 40580-1: https://a.allegroimg.com/original/1120ad/7f6023c14a3f8540885227ff7355
+- 40580-2: https://a.allegroimg.com/original/114c41/6462e2ab44dea26ed1f1eabed5fa
+
 ---
 
-## 40586 — Lego Icons 40586 Ciężarówka do przeprowadzek
+## 40586 — Ciężarówka do przeprowadzek
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017423623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40586 |
+| Nazwa angielska | Moving Truck |
+| Nazwa polska | Ciężarówka do przeprowadzek |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 15 cm |
+| EAN | 5702017423623 |
 
 Oto zestaw LEGO® Icons Ciężarówka do przeprowadzek (40586) – projekt dla dorosłych, który gwarantuje wiele godzin dobrej zabawy. Zestaw zawiera dwie minifigurki LEGO pracowników, którzy jadą dostarczyć meble do klubu jazzowego. Możesz zmieniać miny minifigurek, aby odgrywać zabawne historie. Ciężarówka ma zdejmowany dach i otwierane drzwi, dzięki czemu w środku zmieszczą się wszystkie akcesoria, w tym szafa grająca i pianino. Ustaw swój model jako ozdobę biura lub domu.
  
@@ -2474,11 +3370,27 @@ Oto zestaw LEGO® Icons Ciężarówka do przeprowadzek (40586) – projekt dla d
 - Poznaj nowe postaci – zestaw zawiera dwie minifigurki LEGO® – pracowników firmy przeprowadzkowej – a także szafę grającą, pianino i kredens 
 - Wymiary – produkt ma 9 cm wysokości, 5 cm długości i 15 cm szerokości
 
+**Galeria:**
+
+- 40586-1: https://a.allegroimg.com/original/11096d/4b4d163447e0acf3012c7112f7bf
+
 ---
 
-## 40646 — Lego Icons 40747 Żonkile Kwiaty Kwiatki Bukiet Ozdoba Zestaw Klocki
+## 40646 — Żonkile
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017423975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40646 |
+| Nazwa angielska | Daffodils |
+| Nazwa polska | Żonkile |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423975 |
 
 LEGO ICONS 40747
 
@@ -2574,33 +3486,26 @@ Każda gałązka żonkila ma po zbudowaniu aż **30 cm długości**, więc pię
 - waga **0,156kg**
 - seria **LEGO® Kwiaty**
 
----
+**Galeria:**
 
-## 40678 — Lego Iconic 40678 Kalendarz Festiwalowy
-
-*Kategoria: ICONS · cena Allegro (2026-08-17): 88.88 zł · EAN: 05702017872063 · in stock*
-
-Zainspiruj dzieci do kreatywności i świętuj z nimi dwa różne święta dzięki niesamowitemu zestawowi LEGO® (40678) kalendarz festiwalowy, który stanowi wspaniały prezent dla chłopców i dziewczynek od 10 lat. Ten zestaw kalendarza LEGO pobudza kreatywność i zapewnia od razu **2 zabawne opcje** budowania, które reprezentują 2 ważne święta - Księżycowy Nowy Rok i Festiwal Smoczych Statków.
-
-**Specyfikacje**
- 
- 
-- Świętuj 2 święta z zestawem LEGO® kalendarz festiwalowy 
-- Zestaw świętuje księżycowy Nowy Rok i festiwal smoczych łodzi 
-- Obróć kalendarz, aby wyświetlić datę 
-- **W zestawie** znajdują się wyrafinowane elementy, takie jak latarnie i petardy 
-- Czerwone koperty symbolizują szczęście na nadchodzący rok 
-- 2 minifigurki LEGO® zachęcają do kreatywnej zabawy 
-- **Kalendarz ma** ponad 13 cm wysokości i 16 cm szerokości 
-- Prezent świąteczny dla dzieci i dorosłych fanów zestawów LEGO® 
-- **Liczba elementów: 345** 
-- Nadaje się dla dzieci od 10 lat
+- 40646-1: https://a.allegroimg.com/original/115cc6/8660b00c47f4ad66109f4aad0e1e
 
 ---
 
-## 40680 — Klocki Lego Icons 40680 Kwiaciarnia
+## 40680 — Kwiaciarnia
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 128.99 zł · EAN: 05702017596013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40680 |
+| Nazwa angielska | Flower Store |
+| Nazwa polska | Kwiaciarnia |
+| Seria | ICONS |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 338 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702017596013 |
 
 LEGO® 40680 Promocyjne - Kwiaciarnia
  
@@ -2610,11 +3515,27 @@ Detale Kwiaciarni LEGO (40680) zachwycą zarówno dorosłych, jak i nastoletnich
 - Kolekcjonerski prezent — ten zestaw to świetny prezent dla każdego, kto uwielbia kwiaty lub zestawy konstrukcyjne LEGO® 
 - Wymiary — ten 337-elementowy zestaw z kwiaciarnią LEGO® ma 11 cm wysokości, 10 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40680-1: https://a.allegroimg.com/original/114546/8f309a8b4b6cbdd5dafe4349121c
+
 ---
 
-## 40681 — Lego 40681 Food truck retro
+## 40681 — Food truck retro
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702017596044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40681 |
+| Nazwa angielska | Retro Food Truck |
+| Nazwa polska | Food truck retro |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017596044 |
 
 Klocki LEGO Promocyjne 40681 - Food truck retro
 
@@ -2643,11 +3564,26 @@ Zestaw LEGO Promocyjne - Food truck retro trafił do sprzedaży w 2024 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40681-1: https://a.allegroimg.com/original/11eb5a/a48fbd004f19ad2f6ab230f977eb
+
 ---
 
-## 40684 — Lego 40684 Sklep z Owocami
+## 40684 — Sklep z owocami
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 335.99 zł · EAN: 05702017597874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40684 |
+| Nazwa angielska | Fruit Store |
+| Nazwa polska | Sklep z owocami |
+| Seria | ICONS |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 337 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702017597874 |
 
 **LEGO 40684 Sklep z owocami**
 
@@ -2661,11 +3597,27 @@ Wymiary opakowania:
 
 - 26 x 14 x 6 cm
 
+**Galeria:**
+
+- 40684-1: https://a.allegroimg.com/original/11a2d2/7688a705475f8a40e878b4630fb0
+
 ---
 
-## 40693 — Lego 40693 Icons Władca pierścieni: Skrzydlata bestia
+## 40693 — Władca Pierścieni Skrzydlata Bestia
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 799.50 zł · EAN: 05702017598680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40693 |
+| Nazwa angielska | Fell Beast |
+| Nazwa polska | Władca Pierścieni Skrzydlata Bestia |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 269 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598680 |
 
 LEGO 40693 Icons Władca pierścieni: Skrzydlata bestia
 
@@ -2693,11 +3645,27 @@ Odwiedź Śródziemie dzięki zestawowi LEGO® Icons Władca pierścieni™: Sk
 - Zestawy konstrukcyjne LEGO® dla dorosłych — ten zestaw LEGO Icons stanowi część inspirującej serii zestawów LEGO dla dorosłych (sprzedawanych osobno)
 - Prezent dla miłośników filmowej trylogii — podaruj sobie lub komuś bliskiemu zestaw konstrukcyjny LEGO® Icons dla dorosłych fanów Władcy Pierścieni™
 
+**Galeria:**
+
+- 40693-1: https://a.allegroimg.com/original/114e95/d967ea0d4c4da329f5d0025641b8
+
 ---
 
-## 40711 — Lego Iconic Piknik pary jeżyków 40711
+## 40711 — Piknik pary jeżyków
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 42.99 zł · EAN: 05702017596624 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40711 |
+| Nazwa angielska | Hedgehog Picnic Date |
+| Nazwa polska | Piknik pary jeżyków |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702017596624 |
 
 **LEGO Piknik pary jeżyków 40711**
 
@@ -2721,11 +3689,27 @@ Ten zestaw świetnie sprawdzi się jako prezent na specjalną okazję, w tym tak
 
 • Model ma 7 cm wysokości, 12 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 40711-1: https://a.allegroimg.com/original/11ea05/0bad7d29400d88348365a9812a0b
+
 ---
 
-## 40712 — Lego 40712 Stanowisko Startowe Mikrorakiety
+## 40712 — Stanowisko startowe mikrorakiety
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 170.99 zł · EAN: 05702017611587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40712 |
+| Nazwa angielska | Micro Rocket Launch Pad |
+| Nazwa polska | Stanowisko startowe mikrorakiety |
+| Seria | Icons |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017611587 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2743,11 +3727,26 @@ LEGO 40712 Stanowisko Startowe Mikrorakiety
 - LEGO® na prezent – ten kosmiczny zestaw zbliży do siebie dorosłych i dzieci podczas wspólnego budowania. Można go także wręczyć jako prezent dorosłemu fanowi LEGO, który lubi wspominać lub dziecku w wieku od dziewięciu lat
 - Wymiary – ten 324-elementowy zestaw ze stanowiskiem startowym ma 15 cm wysokości
 
+**Galeria:**
+
+- 40712-1: https://a.allegroimg.com/original/110ef5/14e739b34506a729b9b393e2bcf2
+
 ---
 
-## 40721 — Lego 40721 Icons Halloweenowa stodoła
+## 40721 — Halloweenowa stodoła
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 35.97 zł · EAN: 05702017598543 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40721 |
+| Nazwa angielska | Halloween Barn |
+| Nazwa polska | Halloweenowa stodoła |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 17 cm × gł. 6 cm |
+| EAN | 5702017598543 |
 
 LEGO Icons - Halloweenowa stodoła 40721
 
@@ -2773,11 +3772,27 @@ W zestawie jest także minifigurka szkieletu, która ożywia magię zestawu i po
 - Do zabawy i ozdoby — po zbudowaniu nawiedzona stodoła może zachwycać jako dekoracja pokoju lub halloweenowa ozdoba LEGO®
 - Wymiary — 205-elementowy zestaw ma 14 cm wysokości, 17 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 40721-1: https://a.allegroimg.com/original/11be23/9e24b3b941f5ac39ae7856bc1e87
+
 ---
 
-## 40729 — Lego Icons 40729 Szalupa Shackletona 232 elementy, Klocki Pomysł
+## 40729 — Szalupa Shackletona
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702017598765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40729 |
+| Nazwa angielska | Shackleton's Lifeboat |
+| Nazwa polska | Szalupa Shackletona |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 6 cm |
+| EAN | 5702017598765 |
 
 LEGO® 40729 Szalupa Shackletona
 
@@ -2802,11 +3817,26 @@ DZIEŃ DOBRY :)
 - Pomysł na prezent dla dorosłych — podaruj ten zestaw konstrukcyjny z szalupą Shackletona jako prezent świąteczny lub na co dzień miłośnikom historii i słynnych statków
 - Szalupa w tym 232-elementowym zestawie ma 15 cm wysokości, 17 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 40729-1: https://a.allegroimg.com/original/11162f/786e4e2f4999ae738a8ff877db99
+
 ---
 
-## 40743 — Lego 40743 Świąteczna dekoracja stołu
+## 40743 — Świąteczna dekoracja stołu
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 97.00 zł · EAN: 05702017597461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40743 |
+| Nazwa angielska | Christmas Table Decoration |
+| Nazwa polska | Świąteczna dekoracja stołu |
+| Seria | Seasonal |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 21 cm × gł. 24 cm |
+| EAN | 5702017597461 |
 
 Stwórz atrakcyjną świąteczną dekorację dzięki zestawowi LEGO® Świąteczna dekoracja stołu (40743) dla chłopców i dziewczynek w wieku od 12 lat.
  
@@ -2821,11 +3851,27 @@ Ciekawy projekt świąteczny przedstawia czerwoną świecę otoczoną czerwonymi
 - Gwiazdka z LEGO® — poszerz możliwości świątecznej zabawy dzięki innym zestawom ze świątecznej kolekcji LEGO (sprzedawanym osobno) 
 - Wymiary — ten 433-elementowy zestaw ma 18 cm wysokości, 21 cm szerokości i 24 cm głębokości
 
+**Galeria:**
+
+- 40743-1: https://a.allegroimg.com/original/29e716/6204f9544f4d8f60e6629bb334e8
+
 ---
 
-## 40757 — Lego 40757 Icons Kiosk Na Rogu
+## 40757 — Kiosk na rogu
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40757 |
+| Nazwa angielska | Corner Kiosk |
+| Nazwa polska | Kiosk na rogu |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 7 cm |
+| EAN | 5702017830179 |
 
 LEGO ICONS 40757 Kiosk na rogu w stylu angielskim / NOWY / UNIKAT
 
@@ -2850,11 +3896,27 @@ Przenieś się w czasie i doświadcz uroku minionej epoki, budując zestaw dla d
 - Okazja do relaksu — odpręż się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych (sprzedawanych osobno) stworzonych specjalnie dla dorosłych 
 - Wymiary — ten 205-elementowy zestaw ma 8 cm wysokości, 8 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40757-1: https://a.allegroimg.com/original/11d38a/e242b27f4a6d97dfbd06dbc84ea2
+
 ---
 
-## 40761 — Lego 40761 Władca Pierścieni Smeagol I Deagol
+## 40761 — Władca pierścieni: Smeagol i Deagol
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 415.00 zł · EAN: 05702017830216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40761 |
+| Nazwa angielska | The Lord of the Rings: Sméagol & Déagol |
+| Nazwa polska | Władca pierścieni: Smeagol i Deagol |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm × gł. 6 cm |
+| EAN | 5702017830216 |
 
 **LEGO® 40761 ICONS - Władca pierścieni: Sméagol i Déagol**
  
@@ -2878,11 +3940,27 @@ Odwiedź Śródziemie™, budując ten mały dodatek do serii LEGO® Icons Wład
 - Zestawy konstrukcyjne LEGO® dla dorosłych — ten mały dodatek do serii LEGO Icons Władca Pierścieni™ jest częścią oferty kreatywnych zestawów konstrukcyjnych stworzonych specjalnie dla dorosłych (zestawy sprzedawane osobno) 
 - Wymiary — ten 181-elementowy model ma 15 cm wysokości, 14 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 40761-1: https://a.allegroimg.com/original/11b8bc/2494cd454e72afa253a12209b904
+
 ---
 
-## 40762 — Lego Icons 40762 Doniczka z rozmaitymi kwiatami
+## 40762 — Doniczka z rozmaitymi kwiatami
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702017830223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40762 |
+| Nazwa angielska | Mixed Flowerpot |
+| Nazwa polska | Doniczka z rozmaitymi kwiatami |
+| Seria | Botanicals |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 10 cm × gł. 11 cm |
+| EAN | 5702017830223 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2897,11 +3975,27 @@ Pielęgnuj swoją kreatywność niczym kwiaty i zbuduj piękny zestaw dla doros�
 - Prezent dla miłośników przyrody — ten zestaw konstrukcyjny to świetny prezent na Dzień Matki, Dzień Ojca, walentynki lub parapetówkę dla kobiet, mężczyzn, ogrodników i każdego, kto uwielbia kwiaty
 - Wymiary — model ma 20 cm wysokości, 10 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 40762-1: https://a.allegroimg.com/original/11036a/ad64ea3a43b38645a34c2e8f8e4e
+
 ---
 
-## 40768 — Lego 40768 Icons Star Trek: TYPE-15 Shuttlepod
+## 40768 — Star Trek: Type-15 Shuttlepod
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 499.45 zł · EAN: 05702017829784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40768 |
+| Nazwa angielska | Star Trek: Type-15 Shuttlepod |
+| Nazwa polska | Star Trek: Type-15 Shuttlepod |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm |
+| EAN | 5702017829784 |
 
 Klocki LEGO ICONS 40768 - Star Trek: Type-15 Shuttlepod™
  
@@ -2917,11 +4011,26 @@ Wyrusz w nostalgiczną podróż pełną kreatywności dzięki zestawowi LEGO® I
  
 Zestaw LEGO ICONS - Star Trek: Type-15 Shuttlepod™ trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 40768. Zawiera 261 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Grupa wiekowa tego produktu to 18+.
 
+**Galeria:**
+
+- 40768-1: https://a.allegroimg.com/original/117e34/ecc9231b49abada399f62b51bbd2
+
 ---
 
-## 40782 — Klocki Lego Diorama z tropikalnym lasem deszczowym 40782
+## 40782 — Diorama z tropikalnym lasem deszczowym
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017830728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40782 |
+| Nazwa angielska | Tropical Rainforest Diorama |
+| Nazwa polska | Diorama z tropikalnym lasem deszczowym |
+| Seria | ICONS |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 13 cm × gł. 13 cm |
+| EAN | 5702017830728 |
 
 LEGO® 40782 Diorama z tropikalnym lasem deszczowym
 
@@ -2935,11 +4044,26 @@ LEGO® Diorama z tropikalnym lasem deszczowym to pierwszy z czterech zestawów k
 - Prezent dla dzieci i miłośników lasów deszczowych — zestaw będzie wspaniałym prezentem dla każdego, kto uwielbia podróże, przyrodę, tropiki lub bogactwo lasów deszczowych 
 - Wymiary — 299-elementowy zestaw z modelem lasu deszczowego ma 9 cm wysokości, 13 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 40782-1: https://a.allegroimg.com/original/11004d/ffcf01ef48e6bbb427b809ecae07
+
 ---
 
-## 40808 — Lego Iconic 40808 wielkanocny zajączek, kurczaczek i zbieranie jajek
+## 40808 — Poszukiwanie pisanek z zajączkiem i kurczaczkiem
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 23.50 zł · EAN: 05702017830735 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40808 |
+| Nazwa angielska | Easter Bunny and Chick Egg Hunt |
+| Nazwa polska | Poszukiwanie pisanek z zajączkiem i kurczaczkiem |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 15 cm × gł. 10 cm |
+| EAN | 5702017830735 |
 
 LEGO® 40808 Poszukiwanie pisanek z zajączkiem i kurczaczkiem
 
@@ -2955,11 +4079,26 @@ Ten zestaw konstrukcyjny to świetny prezent wielkanocny dla dorosłych, dzieci 
 - Wielkanocny prezent dla dorosłych i dzieci — ten fajny wiosenny model będzie wspaniałym prezentem dla dzieci i miłośników zwierząt, który może cieszyć oko przez cały rok 
 - Wymiary — zestaw ze 140 elementami zawiera model drzewka, które ma 14 cm wysokości, 15 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 40808-1: https://a.allegroimg.com/original/050aff/82dd6aca42a99199b4f187696d51
+
 ---
 
-## 40813 — Lego Japoński kot szczęścia 40813
+## 40813 — Japoński kot szczęścia
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 95.19 zł · EAN: 05702017801988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40813 |
+| Nazwa angielska | Lucky Cat |
+| Nazwa polska | Japoński kot szczęścia |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 280 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017801988 |
 
 **LEGO Japoński kot Szczęścia 40813**
 
@@ -2973,11 +4112,26 @@ Ten model kota to świetny prezent dla dzieci lub dla każdego, kto obchodzi Św
 - Prezent dla dzieci i dorosłych — model machającego kotka będzie zabawnym prezentem dla dzieci i każdego, kto obchodzi Święto Wiosny; to model do zabawy i ozdoby, którym można się cieszyć przez cały rok
 - Wymiary — zestaw składa się z 280 elementów, figurka kota szczęścia ma 11 cm wysokości
 
+**Galeria:**
+
+- 40813-1: https://a.allegroimg.com/original/1110ee/bc2604c248e985966b55f6a2d47f
+
 ---
 
-## 40814 — Lego Iconic 40814 Słoniątko na niebie
+## 40814 — LEGO Iconic 40814 Słoń na niebie
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 76.99 zł · EAN: 05702017830667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40814 |
+| Nazwa angielska | Baby Elephant in the Sky |
+| Nazwa polska | LEGO Iconic 40814 Słoń na niebie |
+| Seria | ICONS |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 402 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830667 |
 
 LEGO Iconic 40814 Słoniątko na niebie
  
@@ -2989,11 +4143,26 @@ Ten kreatywny prezent dla dorosłych to świetny sposób na świętowanie narodz
 - Urocze akcesoria — baw się dobrze, budując słonika, a następnie dodaj pieluszki i balony w różnych kolorach.
 - Możliwość personalizacji — akcesoria w postaci balonów i pieluszek są dostępne w różnych kolorach, w tym w kolorze różowym, niebieskim, zielonym i złotym, co pozwala na personalizację tej ozdoby LEGO®.
 
+**Galeria:**
+
+- 40814-1: https://a.allegroimg.com/original/05361a/2f56d0b94612995f3383ac2a6199
+
 ---
 
-## 40815 — Lego Ikoniczny 40815 Tort urodzinowy
+## 40815 — LEGO Iconic 40815 Tort urodzinowy
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 38.98 zł · EAN: 05702017830872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40815 |
+| Nazwa angielska | Birthday Party Cake |
+| Nazwa polska | LEGO Iconic 40815 Tort urodzinowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702017830872 |
 
 LEGO Iconic 40815 Tort na przyjęcie urodzinowe
  
@@ -3008,11 +4177,27 @@ Ten zestaw to świetny prezent urodzinowy, którym można się bawić długo po 
 - Ukryty schowek — model tortu urodzinowego ma ukryty schowek, w którym można przechowywać ozdoby, dzięki czemu można się nim bawić i ustawiać jako ozdobę rok po roku. 
 - Wymiary — główny model w tym 219-elementowym zestawie ma 7 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 40815-1: https://a.allegroimg.com/original/05fafa/36436b9840238e3f9aa3d616f476
+
 ---
 
-## 40891 — Klocki Lego Stranger Things: Stacja radiowa Wsqk 234 elementy
+## 40891 — Stranger Things: WSQK Radio Station
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 464.99 zł · EAN: 05702018074121 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40891 |
+| Nazwa angielska | Stranger Things: WSQK Radio Station |
+| Nazwa polska | Stranger Things: WSQK Radio Station |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 13 cm |
+| EAN | 5702018074121 |
 
 Klocki LEGO Stranger Things: Stacja radiowa WSQK 234 elementy
 
@@ -3025,11 +4210,27 @@ Wkrocz do świata serialu Stranger Things dzięki zestawowi LEGO® Icons dla dor
 - Zestawy LEGO® dla dorosłych — sprawdź inspirującą serię zestawów (sprzedawanych osobno) stworzonych specjalnie dla dorosłych
 - Wymiary — zestaw z 234 elementami obejmuje model stacji radiowej WSQK, która ma 7 cm wysokości, 10 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 40891-1: https://a.allegroimg.com/original/118fd2/da988a7f4d6b8dfe079a5777c5e7
+
 ---
 
-## 40913 — 40913 Lego Icons Zabytkowy samochód z parady Nowy Zestaw Klocków
+## 40913 — Zabytkowy samochód z parady
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 77.81 zł · EAN: 05702018071656 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40913 |
+| Nazwa angielska | Vintage Parade Car |
+| Nazwa polska | Zabytkowy samochód z parady |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702018071656 |
 
 Wyrusz w nostalgiczną podróż twórczą dzięki zestawowi LEGO® Icons Zabytkowy samochód z parady. Ten zestaw dla dorosłych i kolekcjonerów zawiera model zabytkowego samochodu z dużymi tylnymi błotnikami i ozdobnymi czerwonymi proporczykami, oddający kształty i charakter klasycznych samochodów z początku XX wieku. Zestaw zawiera również transparent zawieszony między dwoma latarniami oraz dwie minifigurki z akcesoriami, w tym fajnymi czapkami w kształcie cheeseburgera i pirackiego kapelusza. Zestaw składa się ze 243 elementów.
 
@@ -3040,11 +4241,27 @@ Wyrusz w nostalgiczną podróż twórczą dzięki zestawowi LEGO® Icons Zabytko
 - Zestawy LEGO® dla dorosłych — sprawdź inspirującą serię zestawów (sprzedawanych osobno) stworzonych specjalnie dla dorosłych
 - Wymiary — zestaw z 213 elementami obejmuje model samochodu z parady, który ma 4 cm wysokości, 14 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 40913-1: https://a.allegroimg.com/original/11cbe2/01a6b1224119ae05ddb8990ff815
+
 ---
 
-## 41843 — Lego Icons 41843 Rodzinna choinka
+## 41843 — Rodzinna choinka
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 1446.00 zł · EAN: 05702017823133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41843 |
+| Nazwa angielska | Family Christmas Tree Decoration |
+| Nazwa polska | Rodzinna choinka |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 46 cm × szer. 33 cm × gł. 35 cm |
+| EAN | 5702017823133 |
 
 LEGO ICONS 41843
 
@@ -3066,11 +4283,26 @@ Wspólne budowanie w aplikacji LEGO Builder pozwala znajomym i rodzinie dzielić
 - Buduj razem ze znajomymi i rodziną — współpracuj i dziel się zabawą podczas budowania tego świątecznego zestawu LEGO®, korzystając z funkcji Wspólne budowanie w aplikacji LEGO Builder
 - Kreatywna zabawa — otwarcie zestawu LEGO® zachęca wszystkich do tworzenia i zabawy, więc zbierz bliskich, przyjaciół lub współpracowników, abyście mogli wspólnie wyrazić swoją kreatywność
 
+**Galeria:**
+
+- 41843-1: https://a.allegroimg.com/original/11021e/d5e7a35f4d88977e61e199ef2712
+
 ---
 
-## 5009005 — Lego 5009005 Brama do ogrodu Klocki Zestaw dodatkowy do Ogród Botaniczny
+## 5009005 — Brama do ogrodu
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702017896847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009005 |
+| Nazwa angielska | Entrance Gate |
+| Nazwa polska | Brama do ogrodu |
+| Seria | ICONS |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702017896847 |
 
 LEGO 5009005 - Brama do ogrodu
 
@@ -3096,11 +4328,26 @@ Zestaw LEGO® Brama do ogrodu można połączyć z zestawem 21353 Ogród botanic
 
 Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają.
 
+**Galeria:**
+
+- 5009005-1: https://a.allegroimg.com/original/114057/66237ac14875ae2ae1c9a53b9ddc
+
 ---
 
-## 5009609 — Lego Icons 5009609 Kompas kapitana Jacka Sparrowa
+## 5009609 — Kompas kapitana Jacka Sparrowa
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702018101582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009609 |
+| Nazwa angielska | Captain Jack Sparrow's Compass |
+| Nazwa polska | Kompas kapitana Jacka Sparrowa |
+| Seria | ICONS |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 151 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 15 cm × gł. 26 cm |
+| EAN | 5702018101582 |
 
 Wyrusz na morską przygodę z Kompasem kapitana Jacka Sparrowa LEGO®! Chłopcy, dziewczynki i fani Piratów z Karaibów w wieku od 10 lat będą zachwyceni budowaniem i odgrywaniem przygód pełnych akcji dzięki tej małej replice słynnego kompasu z popularnej serii filmów. Kompas ma smycz, dekoracyjny zatrzask i kopułkę, a także otwieraną tarczę, którą można obracać. Zestaw składa się ze 151 elementów.
  
@@ -3109,19 +4356,49 @@ Wyrusz na morską przygodę z Kompasem kapitana Jacka Sparrowa LEGO®! Chłopcy,
 - Obrotowa tarcza – ten 151-elementowy kompas ma smycz, dekoracyjny zatrzask i kopułkę, a także otwieraną tarczę, którą można obracać 
 - Wymiary — ta zabawka LEGO® świetnie sprawdzi się jako prezent dla dzieci. Ma 20 cm wysokości, 15 cm szerokości i 26 cm głębokości
 
+**Galeria:**
+
+- 5009609-1: https://a.allegroimg.com/original/11b370/6d36cd7c4b7b93c12fb5fdc0e1cf
+
 ---
 
-## 5009626 — Lego Małe akwarium 5009626
+## 5009626 — Małe akwarium
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 147.00 zł · EAN: 05702018112939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009626 |
+| Nazwa angielska | Fish Tank |
+| Nazwa polska | Małe akwarium |
+| Seria | ICONS |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018112939 |
 
 Zestaw LEGO Inne - Małe akwarium trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 5009626. Zawiera 150 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Inne - Fish Tank. Grupa wiekowa tego produktu to 10+
 
+**Galeria:**
+
+- 5009626-1: https://a.allegroimg.com/original/11934f/d13324b34f49acc3777e13376dc0
+
 ---
 
-## 80120 — Lego Icons 80120 Karp przeskakujący przez Smoczą Bramę, zestaw klocków 9+
+## 80120 — Karp przeskakujący przez Smoczą Bramę
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 173.90 zł · EAN: 05702018062722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80120 |
+| Nazwa angielska | Prosperity Carp Leaping |
+| Nazwa polska | Karp przeskakujący przez Smoczą Bramę |
+| Seria | Tradycyjne festiwale chińskie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 736 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 23 cm × szer. 21 cm × gł. 18 cm |
+| EAN | 5702018062722 |
 
 **PRODUCENT**: LEGO
 
@@ -3140,11 +4417,26 @@ Dzieci mogą zbudować symbol przemiany i sukcesu dzięki kreatywnej zabawce LEG
 - Zabawki edukacyjne — ten zestaw stanowi uzupełnienie innych zestawów LEGO® z okazji chińskiego Nowego Roku (sprzedawanych osobno). Każdy z nich zapewni świetną zabawę, porcję wiedzy i kreatywną rozrywkę dla dzieci i ich bliskich
 - Wymiary — ten 736-elementowy zestaw ma 23 cm wysokości, 21 cm szerokości i 18 cm głębokości
 
+**Galeria:**
+
+- 80120-1: https://a.allegroimg.com/original/11e41a/4832457c46beb64037978ebdc0bf
+
 ---
 
-## 80121 — Lego Chinese Festivals 80121 Stary Zajazd 1530 elementów 9 minifigurek
+## 80121 — Stary zajazd
 
-*Kategoria: ICONS · cena Allegro (2026-08-17): 528.99 zł · EAN: 05702018062739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80121 |
+| Nazwa angielska | Ancient Moon-Gazing Inn |
+| Nazwa polska | Stary zajazd |
+| Seria | Icons |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1530 |
+| Cena katalogowa | 469.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062739 |
 
 ⭐LEGO® Chinese Festivals 80121 Stary Zajazd | 1530 elementów | 9 minifigurek | Dynastia Song⭐
 
@@ -3225,6 +4517,10 @@ To idealny wybór dla dzieci od 9. roku życia oraz dorosłych fanów LEGO®, hi
 - instrukcja budowania
 
 **➡️Zbuduj **niezwykły Stary Zajazd i odkrywaj codzienne życie z czasów dynastii Song dzięki wyjątkowemu zestawowi LEGO® Chinese Festivals!
+
+**Galeria:**
+
+- 80121-1: https://a.allegroimg.com/original/110349/310f954c4b11800a1af1e06d9314
 
 ---
 

@@ -1,45 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Friends — opisy produktowe (429 pozycji)
 
-## 30103 — Lego Friends 30103 samochód
+## 30103 — samochód
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702014854536 · in stock*
-
-**LEGO zestaw  - polybag**
-
-**Fabrycznie zamknięty zestaw LEGO w oryginalnym woreczku foliowym. Produkt przeznaczony do budowania, kolekcjonowania lub jako drobny upominek. Nieotwierany, bez uszkodzeń.**
-
-** Zawartość:**
-
-**• Zestaw LEGO w opakowaniu typu polybag**
-
-**• Kompaktowy format – odpowiedni do zabawy lub kolekcji**
-
-**• Zdjęcia przedstawiają rzeczywisty wygląd produktu**
-
-**🔧 Informacje dodatkowe:**
-
-**• Opakowanie nieuszkodzone, produkt nowy**
-
-**• Odpowiedni dla dzieci i dorosłych – zgodnie z oznaczeniem producenta**
-
-**• Może stanowić uzupełnienie większych zestawów**
-
-**🚚 Wysyłka i zwroty:**
-
-**• Produkt pakowany z należytą starannością**
-
----
-
-## 30105 — Lego Friends 30105 Skrzynka na listy
-
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702014865075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30103 |
+| Nazwa angielska | Car |
+| Nazwa polska | samochód |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014854536 |
 
 **LEGO zestaw  - polybag**
 
@@ -65,11 +46,27 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30103-1: https://a.allegroimg.com/original/11e7f3/952501ca4bfa88929d8124366d9c
+
 ---
 
-## 30108 — Lego Friends 30108 Summer Picnic
+## 30105 — Skrzynka na listy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702014964068 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30105 |
+| Nazwa angielska | Stephanie and Mailbox |
+| Nazwa polska | Skrzynka na listy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014865075 |
 
 **LEGO zestaw  - polybag**
 
@@ -95,11 +92,27 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30105-1: https://a.allegroimg.com/original/111291/e204574944e1b5a2ea592550ece0
+
 ---
 
-## 30112 — Lego Friends 30112 Stoisko z kwiatami Emmy
+## 30108 — Summer Picnic
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702015127356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30108 |
+| Nazwa angielska | Summer Picnic |
+| Nazwa polska | Summer Picnic |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014964068 |
 
 **LEGO zestaw  - polybag**
 
@@ -125,11 +138,73 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30108-1: https://a.allegroimg.com/original/11c54e/8b2da26d448dbe2b085120f0dd7b
+
 ---
 
-## 30202 — Lego Friends Oliwia i stoisko Smoothie 30202
+## 30112 — Stoisko z kwiatami Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 16.00 zł · EAN: 05702015357173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30112 |
+| Nazwa angielska | Emma's Flower Stand |
+| Nazwa polska | Stoisko z kwiatami Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015127356 |
+
+**LEGO zestaw  - polybag**
+
+**Fabrycznie zamknięty zestaw LEGO w oryginalnym woreczku foliowym. Produkt przeznaczony do budowania, kolekcjonowania lub jako drobny upominek. Nieotwierany, bez uszkodzeń.**
+
+** Zawartość:**
+
+**• Zestaw LEGO w opakowaniu typu polybag**
+
+**• Kompaktowy format – odpowiedni do zabawy lub kolekcji**
+
+**• Zdjęcia przedstawiają rzeczywisty wygląd produktu**
+
+**🔧 Informacje dodatkowe:**
+
+**• Opakowanie nieuszkodzone, produkt nowy**
+
+**• Odpowiedni dla dzieci i dorosłych – zgodnie z oznaczeniem producenta**
+
+**• Może stanowić uzupełnienie większych zestawów**
+
+**🚚 Wysyłka i zwroty:**
+
+**• Produkt pakowany z należytą starannością**
+
+**Galeria:**
+
+- 30112-1: https://a.allegroimg.com/original/116564/6552f91142e794ba446595e57b91
+
+---
+
+## 30202 — Wózek z koktajlami
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30202 |
+| Nazwa angielska | Smoothie Stand |
+| Nazwa polska | Wózek z koktajlami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357173 |
 
 Stoisko Smoothie Olivii
 
@@ -153,11 +228,27 @@ O marce LEGO®
  
 Firma Lego została założona w 1932 roku przez Ole Kirka Christiansena. Klocki przechodziły wiele modyfikacji, aby stać się takimi jak dziś. Nazwa Lego pochodzi od duńskiego zwrotu „Leg godt" i oznacza po prostu "baw się dobrze". Znane i lubiane na całym świecie Klocki Lego zyskują coraz większe grono fanów. Asortyment wciąż się powiększa, aby spełnić oczekiwania każdego małego konstruktora. Duńskimi klockami mogą bawić się już najmłodsze dzieci od 1,5 roku życia.
 
+**Galeria:**
+
+- 30202-1: https://a.allegroimg.com/original/11d1b5/d4a87c664c83a1aabd75f93da1c6
+
 ---
 
-## 30204 — Lego Friends 30204 Fontanna życzeń saszetka z klockami minifigurka
+## 30204 — Fontanna życzeń
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 37.00 zł · EAN: 05702015356763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30204 |
+| Nazwa angielska | Wish Fountain |
+| Nazwa polska | Fontanna życzeń |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356763 |
 
 Witam
 
@@ -173,11 +264,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30204-1: https://a.allegroimg.com/original/03b6a1/59d68a674200a13260f186d02870
+
 ---
 
-## 30205 — Lego 30205 Friends Gwiazda Pop na czerwonym dywanie Polybag
+## 30205 — LEGO FRIENDS Gwiazda Pop na czerwonym dywanie 30205
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 29.90 zł · EAN: 05702015410458 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30205 |
+| Nazwa angielska | Pop Star Red Carpet |
+| Nazwa polska | LEGO FRIENDS Gwiazda Pop na czerwonym dywanie 30205 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015410458 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -189,11 +296,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 30205-1: https://a.allegroimg.com/original/11c8e4/dd1a524d45d19d53aa0dea499371
+
 ---
 
-## 30396 — Klocki Lego Friends Stoisko z babeczkami 30396
+## 30396 — 30396
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 23.90 zł · EAN: 05702015608701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30396 |
+| Nazwa angielska | Cupcake Stall |
+| Nazwa polska | 30396 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608701 |
 
 LEGO® Friends
 
@@ -209,11 +332,27 @@ WIEK:** 5+**
 
 Pomóż Emmie sprzedać wszystkie słodkości z cukierniczego wózka. Tyle tu wspaniałości, że pozostali mieszkańcy Heartlake City z pewnością dadzą się skusić na coś słodkiego. Uzupełnij swoją kolekcję o ten wyjątkowy zestaw, który pozwoli Ci odgrywać niesamowite scenki i bawić się w nieskończoność.
 
+**Galeria:**
+
+- 30396-1: https://a.allegroimg.com/original/11b877/22bf1d0b46e8a90a04d83c8154c9
+
 ---
 
-## 30399 — Lego Friends 30399 Kręgle W Parku Rozrywki saszetka klocki
+## 30399 — KRĘGLE W PARKU ROZRYWKI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702015608718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30399 |
+| Nazwa angielska | Amusement Park Bowling |
+| Nazwa polska | KRĘGLE W PARKU ROZRYWKI |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608718 |
 
 Witam
 
@@ -229,11 +368,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30399-1: https://a.allegroimg.com/original/1194de/139dc9524b869f2c3eb1de991913
+
 ---
 
-## 30400 — Lego Friends 30400 Drążek gimnastyczny 26 el.
+## 30400 — 30400
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 25.00 zł · EAN: 05702015876124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30400 |
+| Nazwa angielska | Gymnastic Bar |
+| Nazwa polska | 30400 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876124 |
 
 Lego Friends: 30400 Drążek do ćwiczeń
 
@@ -251,11 +406,27 @@ Drążek do ćwiczeń z figurką w foliowym blisterze Lego.
 - Ilość elementów: 26 
 - Wiek: 5-10 lat
 
+**Galeria:**
+
+- 30400-1: https://a.allegroimg.com/original/03eca6/e910ea1341a5a9af5274f7453fec
+
 ---
 
-## 30401 — Lego Mini-zestaw Pool Foam Slide Nr. 30401-1
+## 30401 — LEGO MINI-ZESTAW POOL FOAM SLIDE NR. 30401-1
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 24.88 zł · EAN: 05702015876131 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30401 |
+| Nazwa angielska | Pool Foam Slide |
+| Nazwa polska | LEGO MINI-ZESTAW POOL FOAM SLIDE NR. 30401-1 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876131 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST NOWY ZESTAW LEGO NR. **30401-1**:
 
@@ -267,11 +438,27 @@ POOL FOAM SLIDE POLYBAG
 
 ZAPRASZAMY RÓWNIEŻ DO ZAPOZNANIA SIĘ Z NASZĄ OFERTĄ GDZIE OPRÓCZ CAŁYCH ZESTAWÓW MOŻNA KUPIĆ POSZCZEGÓLNE ELEMENTY LEGO.
 
+**Galeria:**
+
+- 30401-1: https://a.allegroimg.com/original/11d8ec/46c000d4424fb94729a6c02ad3df
+
 ---
 
-## 30402 — Lego Friends 30402 Triki Snowbordowe saszetka klocki minifigurka
+## 30402 — Triki Snowbordowe
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702015876148 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30402 |
+| Nazwa angielska | Snowboard Tricks |
+| Nazwa polska | Triki Snowbordowe |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876148 |
 
 Witam
 
@@ -287,11 +474,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30402-1: https://a.allegroimg.com/original/1147a8/3f86390043aaa5cdaac392777c81
+
 ---
 
-## 30403 — Lego Friends 30403 Zdalnie sterowana łódź Olivii saszetka z klockami
+## 30403 — Zdalnie sterowana łódź Oliwii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 19.00 zł · EAN: 05702016122633 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30403 |
+| Nazwa angielska | Olivia's Remote Control Boat |
+| Nazwa polska | Zdalnie sterowana łódź Oliwii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122633 |
 
 .
 
@@ -311,11 +514,27 @@ Rafał
 
 .
 
+**Galeria:**
+
+- 30403-1: https://a.allegroimg.com/original/03f233/083c1b984de194e5d730c8f02493
+
 ---
 
-## 30405 — Lego Friends 30405 Trening Hokejowy Stefani 6+
+## 30405 — Trening hokejowy Stefani
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 20.00 zł · EAN: 05702016123401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30405 |
+| Nazwa angielska | Stephanie's Hockey Practice |
+| Nazwa polska | Trening hokejowy Stefani |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123401 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -336,11 +555,27 @@ Lego Friends zestaw zawiera 39 elementów, w tym minifigurkę Stephanie i króli
 - Ilość elementów: 39
 - Wymiary zestawu: 102 x 102 x 25 mm
 
+**Galeria:**
+
+- 30405-1: https://a.allegroimg.com/original/112ad5/241bd73e468fb9f75de7133fb749
+
 ---
 
-## 30410 — Lego 30410 Friends Wodna Zabawa MII Polybag
+## 30410 — Wodna zabawa Mi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 16.99 zł · EAN: 05702016374407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30410 |
+| Nazwa angielska | Mia's Water Fun |
+| Nazwa polska | Wodna zabawa Mi |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016374407 |
 
 **ZESTAW  LEGO**
 
@@ -360,11 +595,27 @@ Lego Friends zestaw zawiera 39 elementów, w tym minifigurkę Stephanie i króli
 
 **- ZESTAW  LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 30410-1: https://a.allegroimg.com/original/1124f9/1efd3d8740f1ae3b27a675d726a5
+
 ---
 
-## 30411 — Lego Friends 30411 Bombonierka i kwiaty
+## 30411 — Bombonierka i kwiaty
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 19.90 zł · EAN: 05702016668704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30411 |
+| Nazwa angielska | Chocolate Box & Flower |
+| Nazwa polska | Bombonierka i kwiaty |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668704 |
 
 ⭐30411 - LEGO Friends - Bombonierka i kwiaty⭐
 
@@ -384,11 +635,27 @@ Kreatywność
  
 ✅Zestaw LEGO Friends 30411 jest doskonałym **wyborem** na prezent, który pozwoli dziecku na godziny **kreatywnej zabawy,** jednocześnie rozwijając jego **umiejętności** konstrukcyjne i **zdolność** do wyrażania siebie przez zabawę.
 
+**Galeria:**
+
+- 30411-1: https://a.allegroimg.com/original/112ef0/3bb95ac14d34a5e21c0223af35f9
+
 ---
 
-## 30412 — Lego Friends Piknik w parku 30412 Polybag Saszetka
+## 30412 — LEGO Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702016668711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30412 |
+| Nazwa angielska | Park Picnic |
+| Nazwa polska | LEGO Friends |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668711 |
 
 **LEGO ****Piknik w parku 30412**
 
@@ -403,21 +670,52 @@ Kreatywność
 
 Zestaw klocków LEGO Friends 30412 Piknik w parku został pokazany w 2020 roku i składa się z 44 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 30412-1: https://a.allegroimg.com/original/116b71/22f8ffe04abea71b4347999deb3a
+
 ---
 
-## 30413 — Lego Friends 30413 Wózek z Kwiatami Saszetka
+## 30413 — Wózek z kwiatami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 17.20 zł · EAN: 05702016915914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30413 |
+| Nazwa angielska | Flower Cart |
+| Nazwa polska | Wózek z kwiatami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915914 |
 
 LEGO Friends 30413 Wózek z Kwiatami
 
 LEGO Friends Wózek z kwiatami  (30413) to prawdziwa gratka dla wszystkich małych fanów budowania z klocków! Zestaw 30413 Wózek z kwiatami jest idealny, aby rozpocząć przygodę z LEGO, w dodatku może być wspaniałym dodatkiem do urodzinowego prezentu.
 
+**Galeria:**
+
+- 30413-1: https://a.allegroimg.com/original/11dc9d/179820cb4826a78cdaa58416cab9
+
 ---
 
-## 30414 — Lego 30414 Magiczny kufer Emmy Klocki Friends Kuferek Króliczek Figurka
+## 30414 — Magiczny kufer Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.58 zł · EAN: 05702016916225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30414 |
+| Nazwa angielska | Emma's Magical Box |
+| Nazwa polska | Magiczny kufer Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 67 |
+| Cena katalogowa | 14.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016916225 |
 
 LEGO Friends 30414 Magiczny kufer Emmy
 
@@ -427,11 +725,27 @@ Minilaleczki LEGO rozwijają wyobraźnię zarówno podczas zabawy ze zwierzętam
 
 Kolekcja LEGO® Friends to zabawki dla chłopców oraz dziewczynek! Dzieci pokochają odkrywanie i kolekcjonowanie różnych zestawów LEGO® Friends z laleczkami. Dodatkowo można łączyć ze sobą różne zabawki i stworzyć zupełnie nową okolicę Friends do zabawy!
 
+**Galeria:**
+
+- 30414-1: https://a.allegroimg.com/original/119a16/3e6881374fb19246e0588a46dd30
+
 ---
 
-## 30416 — Lego Friends Stoisko 30416
+## 30416 — FIENDS
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 27.90 zł · EAN: 05702017155739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30416 |
+| Nazwa angielska | Market Stall |
+| Nazwa polska | FIENDS |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155739 |
 
 LEGO FRIENDS 30416
 
@@ -441,11 +755,27 @@ Zestaw LEGO® Friends Stoisko (30416) to prawdziwa gratka dla wszystkich małych
 
 Zestaw zawiera 54 klocki i jest przeznaczony dla dzieci powyżej 5 roku życia. W zestawie znajdują się 2 minifigurki.
 
+**Galeria:**
+
+- 30416-1: https://a.allegroimg.com/original/113e9a/2bc8a876491ea665111d2effbbe7
+
 ---
 
-## 30417 — Lego Friends 30417 Ogrodowy kwiat i motyl saszetka klocki
+## 30417 — Ogrodowy kwiat i motyl
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702017155746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30417 |
+| Nazwa angielska | Garden Flower and Butterfly |
+| Nazwa polska | Ogrodowy kwiat i motyl |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155746 |
 
 Witam
 
@@ -474,11 +804,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 57 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30417-1: https://a.allegroimg.com/original/117c5f/b50f0b2e424d976782d7d60a6810
+
 ---
 
-## 3063 — Lego Friends 3063 Klub lotniczy w Heartlake Unikat 2012 Rok
+## 3063 — Klub lotniczy w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702014831483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3063 |
+| Nazwa angielska | Heartlake Flying Club |
+| Nazwa polska | Klub lotniczy w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702014831483 |
 
 ZESTAW LEGO FRIENDS: PORT LOTNICZY W HEARTLAKE - 3063
  
@@ -496,11 +842,27 @@ Naucz się latać w klubie lotniczym Heartlake. Teraz, kiedy Stephanie nabrała 
 - WIEK 6- 12lat 
 - **Ilość klocków: 195 szt**
 
+**Galeria:**
+
+- 3063-1: https://0.allegroimg.com/original/016b18/5312683d4019a6e157cf85f1d490
+
 ---
 
-## 30633 — Lego Friends 30633 Lego Freinds Rampa Skatepark
+## 30633 — LEGO FREINDS RAMPA SKATEPARK
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.98 zł · EAN: 05702017400280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30633 |
+| Nazwa angielska | Skate Ramp |
+| Nazwa polska | LEGO FREINDS RAMPA SKATEPARK |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017400280 |
 
 LEGO Klocki Friends 30633 Rampa deskorolkowa
 
@@ -518,11 +880,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 46 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30633-1: https://a.allegroimg.com/original/11b445/d64fdfb743a0ad68f3572cbe9f4b
+
 ---
 
-## 30634 — Lego Friends Kwiaty Przyjaźni 30634
+## 30634 — Kwiaty Przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 35.00 zł · EAN: 05702017400297 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30634 |
+| Nazwa angielska | Friendship Flowers |
+| Nazwa polska | Kwiaty Przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017400297 |
 
 LEGO Klocki Friends 30634 Kwiaty przyjaźni
 
@@ -540,11 +918,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 84 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30634-1: https://a.allegroimg.com/original/111c1d/6487b5604ed7b805b9d5126938e2
+
 ---
 
-## 30635 — Saszetka polybag klocki Lego Friends 30635 sprzątanie plaży
+## 30635 — Sprzątanie plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 11.98 zł · EAN: 05702017425085 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30635 |
+| Nazwa angielska | Beach Cleanup |
+| Nazwa polska | Sprzątanie plaży |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017425085 |
 
 Klocki Friends 30635 Sprzątanie plaży
  
@@ -592,21 +986,53 @@ Parametry
 - **Seria**: Friends 
 - **Wymagania wiekowe**: od 5 lat
 
+**Galeria:**
+
+- 30635-1: https://a.allegroimg.com/original/117896/d94353f34b3c966ec652961350ae
+
 ---
 
-## 3065 — Lego 3065 Friends Dom na drzewie
+## 3065 — LEGO 3065 Friends Dom na drzewie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 349.90 zł · EAN: 05702014733145 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3065 |
+| Nazwa angielska | Olivia's Tree House |
+| Nazwa polska | LEGO 3065 Friends Dom na drzewie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733145 |
 
 KLOCKI LEGO FRIENDS DOM NA DRZEWIE 3065
 
 Zaproś koleżanki do zabawy w domku na drzewie! Przyjaciółki z LEGO Friends uwielbiają spotkania w tym fantastycznym domku, gdzie mogą się razem bawić czy spędzać noce pod gwiazdami. Drabinka zaprowadzi Cię do domku. Obserwuj biedronki, łap motyle lub nakarm kotka. Możesz również posadzić wokół drzewa kwiatki. Zestaw zawiera minilaleczkę Olivii.
 
+**Galeria:**
+
+- 3065-1: https://a.allegroimg.com/original/05fbea/8e480d3e4287a2e972ad84af7d2a
+
 ---
 
-## 30658 — Lego Friends 30658 Muzyczna przyczepa
+## 30658 — Muzyczna przyczepa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702017568799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30658 |
+| Nazwa angielska | Mobile Music Trailer |
+| Nazwa polska | Muzyczna przyczepa |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017568799 |
 
 LEGO 30658 FRIENDS Muzyczna przyczepa 
  
@@ -624,11 +1050,27 @@ Modele z serii **polybag** to świetny upominek uzupełniający serię lub prez
  
 Zestaw składa się z** 56. elementów** i jest odpowiedni** dla dzieci w wieku powyżej 5. lat.**
 
+**Galeria:**
+
+- 30658-1: https://a.allegroimg.com/original/052e36/83d2ace649fa9188042a0ebb2bc9
+
 ---
 
-## 30659 — Lego Friends Ogród pełen kwiatów 30659
+## 30659 — Ogród pełen kwiatów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 10.98 zł · EAN: 05702017568805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30659 |
+| Nazwa angielska | Flower Garden |
+| Nazwa polska | Ogród pełen kwiatów |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017568805 |
 
 LEGO 30659 Friends Ogród pełen kwiatów
 
@@ -650,11 +1092,26 @@ Zapewnij swojemu dziecku doskonałą zabawę i rozwój poprzez zakup zestawu Klo
 
 Pozwól mu odkryć magię konstruowania oraz rozwijać zdolności twórcze i logiczne. To idealny prezent dla każdego małego miłośnika LEGO Friends!
 
+**Galeria:**
+
+- 30659-1: https://a.allegroimg.com/original/05642a/1238c6d44c469bc8dd6f5c6e65b1
+
 ---
 
-## 30696 — Lego Klocki Friends 30696 Stoisko Z Goframi Autumn Zestaw
+## 30696 — Stoisko z goframi Autumn
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 12.41 zł · EAN: 05702017819426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30696 |
+| Nazwa angielska | Autumn's Waffle Stand |
+| Nazwa polska | Stoisko z goframi Autumn |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819426 |
 
 Lego
 
@@ -664,11 +1121,26 @@ LEGO Klocki Friends 30696 Stoisko z goframi Autumn
 
 Dzięki temu małemu zestawowi na pięciolatków i starsze dzieci czeka pyszna zabawa. Autumn przygotowuje gofry dla klientów, a w gotowaniu pomaga jej kotek Pluto w czapce kucharskiej!
 
+**Galeria:**
+
+- 30696-1: https://a.allegroimg.com/original/110221/54023f8046fb8872505a4c5ec7f1
+
 ---
 
-## 30697 — Lego(r) Friends 30697 Buda Dla Psa Novy Dla Dzieci
+## 30697 — Buda dla psa Novy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 9.00 zł · EAN: 05702017819471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30697 |
+| Nazwa angielska | Nova's Doghouse Build |
+| Nazwa polska | Buda dla psa Novy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819471 |
 
 Lego
 
@@ -679,11 +1151,26 @@ LEGO(R) FRIENDS 30697 Buda dla psa Novy
 
 Dzięki temu małemu modelowi dzieci w wieku od pięciu lat pomogą Novie zbudować budę dla Dango. Stół warsztatowy zawiera wszystkie narzędzia, których bohaterka potrzebuje do stworzenia przytulnego domku dla psa.
 
+**Galeria:**
+
+- 30697-1: https://a.allegroimg.com/original/11c05a/22dbc3e94175b1d82a2e41a8fdb4
+
 ---
 
-## 30721 — Lego Friends Kwiatowe Stoisko Z Różami 30721
+## 30721 — Kwiatowe stoisko z różami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 11.99 zł · EAN: 05702018058213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30721 |
+| Nazwa angielska | Flower Stand with Roses |
+| Nazwa polska | Kwiatowe stoisko z różami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058213 |
 
 LEGO FRIENDS 30721 - KWIATOWE STOISKO Z RÓŻAMI
 
@@ -701,11 +1188,26 @@ LEGO Friends 30721 Kwiatowe Stoisko z Różami to pełen uroku zestaw, który ł
 
 MT
 
+**Galeria:**
+
+- 30721-1: https://a.allegroimg.com/original/111600/369425e6447f8976f2666e3ca6e2
+
 ---
 
-## 30722 — Lego 30722 Friends Domek Króliczka w Ogrodzie Garden Bunny klocki Nowe
+## 30722 — Domek króliczka w ogrodzie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 10.99 zł · EAN: 05702018058084 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30722 |
+| Nazwa angielska | Garden Bunny House |
+| Nazwa polska | Domek króliczka w ogrodzie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058084 |
 
 **LEGO Friends Domek króliczka w ogrodzie 30722**
 
@@ -717,11 +1219,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 30722-1: https://a.allegroimg.com/original/11d302/bf41f1984a3d8433cde1690aea97
+
 ---
 
-## 3184 — Lego Friends 3184 Samochód kempingowy Nowe
+## 3184 — LEGO 3184 Friends Samochód kempingowy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702014733169 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3184 |
+| Nazwa angielska | Adventure Camper |
+| Nazwa polska | LEGO 3184 Friends Samochód kempingowy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733169 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -731,11 +1249,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Friends 3184 Samochód kempingowy ** został przedstawiony w 2012 roku i zbudowany jest z 309 klocków LEGO®. W opakowaniu znajdziesz też 2 minifigurki. Klocki przeznaczone są dla dzieci od 6 roku życia.
 
+**Galeria:**
+
+- 3184-1: https://a.allegroimg.com/original/11e72f/b743ab024acab52e356aa0c41e20
+
 ---
 
-## 3185 — Lego Friends 3185 Summer Riding Camp
+## 3185 — Letni obóz
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014831490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3185 |
+| Nazwa angielska | Summer Riding Camp |
+| Nazwa polska | Letni obóz |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831490 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -754,11 +1288,27 @@ Zestaw klocków **LEGO Friends 3184 Samochód kempingowy ** został przedstawion
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 3185-1: https://a.allegroimg.com/original/117cf3/de7290784f22aa020f19faa44ca5
+
 ---
 
-## 3186 — Lego Friends 3186 Przyczepa dla konia Emmy Nowe
+## 3186 — 3186
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702014733176 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3186 |
+| Nazwa angielska | Emma's  Horse Trailer |
+| Nazwa polska | 3186 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733176 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -768,11 +1318,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 3186 Przyczepa dla konia Emmy **został pokazany w 2012 roku i zbudowany jest z 218 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 3186-1: https://a.allegroimg.com/original/11fe44/581c799a43938afb4a2d04014308
+
 ---
 
-## 3188 — Lego Friends 3188 Weterynarz. Nowy, ideał do kolekcji.
+## 3188 — Weterynarz
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702014831513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3188 |
+| Nazwa angielska | Heartlake Vet |
+| Nazwa polska | Weterynarz |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831513 |
 
 KLOCKI LEGO FRIENDS WETERYNARZ 3188
 
@@ -782,21 +1348,53 @@ Pudełko w bardzo dobrym stanie.
 
 O wszystkie zwierzęta z Heartlake należycie troszczy się weterynarz. Mia pomaga weterynarzowi i uczy się, jak dbać o swoich futrzanych przyjaciół. Pomóż weterynarzowi wyleczyć wszystkie małe, sympatyczne zwierzaki! Badaj je na stole diagnostycznym, sprawdzaj im temperaturę, przykładaj worek z lodem, słuchaj tętna i podawaj im lekarstwa. Możesz ważyć zwierzęta na wadze a nawet robić im zdjęcia rentgenowskie! Ozdabiaj ich klatki motylami, biedronkami i kwiatami! Zestaw zawiera trzy zwierzęta oraz minilaleczki: Mię i weterynarza Sophie.
 
+**Galeria:**
+
+- 3188-1: https://a.allegroimg.com/original/052ecc/c46604eb44d9822c023e3c7e6cdc
+
 ---
 
-## 3189 — Lego Friends 3189
+## 3189 — 3189
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 559.00 zł · EAN: 05702014733206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3189 |
+| Nazwa angielska | Heartlake Stables |
+| Nazwa polska | 3189 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733206 |
 
 W miasteczku Heartlake została otwarta stadnina dla koni. Zestaw zawiera: 2 figurki Mii i Kathariny, 2 konie, kotka, olbrzymi budynek stadniny wyposażony w: 2 boksy dla koni, plac z przeszkodami, kącik na niezbędne narzędzia a nawet studnie. Spotkaj się z przyjaciółkami z LEGO Friends! Poznaj 5 niezwykłych, uzdolnionych dziewczyn, mieszkających w Heartlake City. Uwielbiają wspólnie spędzać czas - zabawa w domku na drzewie, udział w wystawach dla zwierząt w Heartlake City i rozmowy podczas zabiegów w salonie piękności! Kiedy przyjaciółki nie zajmują się swoimi hobby, takimi jak aktorstwo, projektowanie ubrań albo leczenie chorych zwierząt, spotykają się na herbatce w ulubionej kawiarni!
 
 Wiek: 6 - 12
 
+**Galeria:**
+
+- 3189-1: https://a.allegroimg.com/original/0556b4/7e7db36249a8b8dedea77fbd8cdc
+
 ---
 
-## 3315 — Lego 3315 Friends domek Oliwii klocki dla dziewczynki
+## 3315 — FRIENDS
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 868.00 zł · EAN: 05702014733220 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3315 |
+| Nazwa angielska | Olivia's House |
+| Nazwa polska | FRIENDS |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 695 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733220 |
 
 **Klocki Lego 3315 Domek Oliwii.**
 
@@ -846,19 +1444,51 @@ Nie czekaj — **spraw radość swojemu dziecku**
 
 **i zamów Domek Olivii już dziś!**
 
+**Galeria:**
+
+- 3315-1: https://a.allegroimg.com/original/06317a/9afe63ea400995219060e286c400
+
 ---
 
-## 3938 — Lego Friends 3938 Domek królika Nowe
+## 3938 — Domek królika
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702014831452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3938 |
+| Nazwa angielska | Andrea's Bunny House |
+| Nazwa polska | Domek królika |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831452 |
 
 Zestaw LEGO Friends - Domek królika trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 3938. Zawiera 62 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Friends - Andrea's Bunny House. Grupa wiekowa tego produktu to 5+.
 
+**Galeria:**
+
+- 3938-1: https://a.allegroimg.com/original/111ef5/f03bc2e045b5a5d8c7684795d439
+
 ---
 
-## 40080 — Lego 40080 Friends Przybornik Szkolny 40080 akcesorium z klocków
+## 40080 — Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 159.31 zł · EAN: 00673419196543 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40080 |
+| Nazwa angielska | Friends Pencil Holder |
+| Nazwa polska | Friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419196543 |
 
 LEGO 40080 Friends - Przybornik Szkolny 40080
 
@@ -874,11 +1504,27 @@ Ilość klocków:** 138**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 40080-1: https://a.allegroimg.com/original/119fbc/59e023c445eb819923b7d37cda98
+
 ---
 
-## 40156 — Lego Friends 40156 Organizer Lego Motylek
+## 40156 — LEGO Organizer Motylek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 290.00 zł · EAN: 00673419237611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40156 |
+| Nazwa angielska | Organizer |
+| Nazwa polska | LEGO Organizer Motylek |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 22 cm |
+| EAN | 673419237611 |
 
 **Zbuduj, ozdób i przechowuj swoje sekrety!**
 
@@ -894,11 +1540,27 @@ To świetne rozwiązanie, aby trzymać w jednym miejscu ulubione minilaleczki, p
 - **Rok wydania zestawu:** 2015
 - **Wymiary organizera:** 3 cm wysokości, 14 cm długości i 22 cm szerokości.
 
+**Galeria:**
+
+- 40156-1: https://a.allegroimg.com/original/03bbeb/ccb68f084422b2089a7d1dccd69d
+
 ---
 
-## 40171 — Lego 40171 Friends Szkatułka w kształcie jeża, uszk. opakowanie
+## 40171 — LEGO Friends Szkatułka w kształcie jeża 40171
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702015868389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40171 |
+| Nazwa angielska | Hedgehog Storage |
+| Nazwa polska | LEGO Friends Szkatułka w kształcie jeża 40171 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 11 cm × gł. 9 cm |
+| EAN | 5702015868389 |
 
 LEGO LEGO Friends — szkatułka w kształcie jeża do zbudowania 40171
  
@@ -912,11 +1574,27 @@ Zbuduj dużą wersję ślicznej figurki jeża znanej z zestawów LEGO Friends. M
 - Zestaw zawiera ponad 240 klocków. 
 - Model ma ok. 7 cm wysokości, 11 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 40171-1: https://a.allegroimg.com/original/05c39e/114da64743f7a857b64546c74d33
+
 ---
 
-## 40265 — Klocki Lego Friends 40265 Kółko i krzyżyk Unikat
+## 40265 — Kółko i krzyżyk
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419269193 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40265 |
+| Nazwa angielska | Friends Tic-Tac-Toe |
+| Nazwa polska | Kółko i krzyżyk |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269193 |
 
 LEGO® FRIENDS - UNIKAT!
 
@@ -939,11 +1617,27 @@ Lego Friends Gra Kółko i Krzyżyk 40265. Zbuduj planszę do gry w kółko i kr
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 40265-1: https://a.allegroimg.com/original/11e9f0/8cbaad9c47738b8886eef16bbd7c
+
 ---
 
-## 40266 — Lego Friends 40266 Storage Box Pudełko
+## 40266 — Storage Box Pudełko Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 34.00 zł · EAN: 00673419269186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40266 |
+| Nazwa angielska | Mini Keepsake Box |
+| Nazwa polska | Storage Box Pudełko Friends |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269186 |
 
 LEGO FRIENDS 40266 STORAGE BOX PUDEŁKO
 
@@ -963,11 +1657,27 @@ Klocki
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO.
 
+**Galeria:**
+
+- 40266-1: https://a.allegroimg.com/original/111698/96e1cbc44a449661f5e0885d8e8b
+
 ---
 
-## 40694 — Lego 40694 Kempingowa przygoda nad rzeką
+## 40694 — Kempingowa przygoda nad rzeką
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 164.93 zł · EAN: 05702017598697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40694 |
+| Nazwa angielska | River Camping Adventure |
+| Nazwa polska | Kempingowa przygoda nad rzeką |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 182 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 14 cm |
+| EAN | 5702017598697 |
 
 **ZAPRASZAMY DO ZAKUPU**
 
@@ -999,11 +1709,27 @@ Zestaw LEGO® Friends Kempingowa przygoda nad rzeką (40694) jest pełen inspira
 - Kreatywne akcesoria do zabawy – akcesoria kempingowe obejmują flagę,słoik na świetliki, miski, łyżki, pięć grzybów, dwa świetliki, biedronkę oraz żuka 
 - Wymiary — 182-elementowy zestaw LEGO® z głównym modelem ma 8 cm wysokości, 14 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 40694-1: https://a.allegroimg.com/original/11f654/9351240a4569aa60bfd28a4cc1c9
+
 ---
 
-## 41000 — Lego Friends 41000 Skuter wodny Nowe
+## 41000 — Skuter wodny
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 43.00 zł · EAN: 05702014972087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41000 |
+| Nazwa angielska | Water Scooter Fun |
+| Nazwa polska | Skuter wodny |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972087 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1013,11 +1739,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Friends Skuter wodny 41000 **został przedstawiony w 2013 roku i składa się z 28 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Klocki przeznaczone są dla dzieci od 5 roku życia.
 
+**Galeria:**
+
+- 41000-1: https://a.allegroimg.com/original/11562e/38b5d117466db2428eee7ef4b6b3
+
 ---
 
-## 41003 — Lego Friends 41003 Źrebak Olivii Nowe
+## 41003 — Źrebak Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014971714 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41003 |
+| Nazwa angielska | Olivia's Newborn Foal |
+| Nazwa polska | Źrebak Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971714 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1027,11 +1769,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Friends 41003 Źrebak Olivii **został przedstawiony w 2013 roku i zawiera 70 klocków LEGO®. W opakowaniu znajdziesz też 1 minifigurkę. Klocki przeznaczone są dla dzieci powyżej 5 roku życia.
 
+**Galeria:**
+
+- 41003-1: https://a.allegroimg.com/original/11e76b/498c7470484b8ddb0214bfa148f9
+
 ---
 
-## 41004 — Lego 41004 Friends Scena prób
+## 41004 — 41004
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702014971721 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41004 |
+| Nazwa angielska | Rehearsal Stage |
+| Nazwa polska | 41004 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 13 cm × gł. 17 cm |
+| EAN | 5702014971721 |
 
 LEGO 41004 Friends - Scena prób
 
@@ -1051,11 +1809,27 @@ Gdy wszystko będzie gotowe, włącz reflektory i rozpocznij najlepszy występ, 
 - Elementy LEGO Friends są w pełni kompatybilne ze wszystkimi klockami LEGO
 - Wymiary: ponad 12 cm wysokości, 13 cm szerokości i 17 cm długości
 
+**Galeria:**
+
+- 41004-1: https://a.allegroimg.com/original/05ffbd/d2cbcc4544718cf510f1586bbbe2
+
 ---
 
-## 41005 — Lego Friends 41005 Szkoła w Heartlake
+## 41005 — LEGO 41005 - Szkoła w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 675.97 zł · EAN: 05702014971745 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41005 |
+| Nazwa angielska | Heartlake High |
+| Nazwa polska | LEGO 41005 - Szkoła w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 30 cm × gł. 13 cm |
+| EAN | 5702014971745 |
 
 Klocki LEGO Friends 41005 - Szkoła w Heartlake
 
@@ -1109,11 +1883,27 @@ LEGO® 41005 Friends - Szkoła w Heartlake
 
 **Zdjęcia pochodzą z wcześniej sprzedanego egzemplarza, który nie był prosto z fabrycznego kartonu zbiorczego jak aktualny.**
 
+**Galeria:**
+
+- 41005-1: https://a.allegroimg.com/original/115bd6/0a4ba1ee47eebe5d4c49c14d20c1
+
 ---
 
-## 41006 — Lego Friends 41006 Piekarnia Mia Tort Kasa Rogalik Kuchnia Piekarnik Ciasto
+## 41006 — Piekarnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014971738 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41006 |
+| Nazwa angielska | Downtown Bakery |
+| Nazwa polska | Piekarnia |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702014971738 |
 
 LEGO Friends 41006 Piekarnia
 
@@ -1135,11 +1925,27 @@ Upiecz własny tort w piekarni Mii! Otwórz słodki sklep, budując znak, zadasz
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41006-1: https://a.allegroimg.com/original/112970/87b94a654ec2b4f266b011c5ec10
+
 ---
 
-## 41007 — Lego 41007 Friends Salon dla zwierząt w Heartlake
+## 41007 — -Salon dla zwierząt w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702014972117 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41007 |
+| Nazwa angielska | Heartlake Pet Salon |
+| Nazwa polska | -Salon dla zwierząt w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 242 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972117 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -1151,11 +1957,27 @@ Otwarcie salonu pielęgnacyjnego Heartlake City! Wszyscy są podekscytowani! Pom
 
 Przybliżone wymiary opakowania: **28,2 x 6,4 x 26,2 cm**
 
+**Galeria:**
+
+- 41007-1: https://a.allegroimg.com/original/11ff52/f69d617d491d9c68a5df113da95a
+
 ---
 
-## 41008 — Lego Friends 41008 Basen w Heartlake
+## 41008 — FRIENDS
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 597.97 zł · EAN: 05702014996410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41008 |
+| Nazwa angielska | Heartlake City Pool |
+| Nazwa polska | FRIENDS |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 423 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971752, 5702014996410 |
 
 Klocki LEGO Friends 41008 - Basen w Heartlake
 
@@ -1191,11 +2013,28 @@ Zdjęcia poniżej przedstawiają rzeczywisty stan zestawu.
 
 **Prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 41008-1: https://a.allegroimg.com/original/052c20/96c09ad14724976eb6afe0481289
+- 41008-2: https://a.allegroimg.com/original/11ec22/1cea8ae44dab9ad00bc349dc7a6d
+
 ---
 
-## 41009 — Lego Friends 41009 Sypialnia Andrei
+## 41009 — SYPIALNIA ANDREI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 117.39 zł · EAN: 05702014971707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41009 |
+| Nazwa angielska | Andrea's Bedroom |
+| Nazwa polska | SYPIALNIA ANDREI |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971707 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1221,11 +2060,27 @@ SYPIALNIA ANDREI 41009
 
 Andrea uwielbia bawić się w swojej pięknej sypialni Układanie jej włosów przed toaletką ze stołeczkiem, lustrem i akcesoriami to świetna zabawa. Zanim jej koleżanki z LEGO® Friends wpadną zanocować, Andrea podlewa kwiatki i aktualizuje swój blog na laptopie. Rozłóż stylową sofę i zamień ją w łóżko, zanim zjawią się koleżanki! Zestaw zawiera minilaleczkę Andreę.
 
+**Galeria:**
+
+- 41009-1: https://a.allegroimg.com/original/051bd8/c84268884e27abc30535eb22c2f3
+
 ---
 
-## 41010 — Lego Friends 41010 Samochód Z Przyczepką Nowe
+## 41010 — KLOCKI FRIENDS SAMOCHÓD Z PRZYCZEPKĄ
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014971691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41010 |
+| Nazwa angielska | Olivia's Beach Buggy |
+| Nazwa polska | KLOCKI FRIENDS SAMOCHÓD Z PRZYCZEPKĄ |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971691 |
 
 LEGO - przedsiębiorstwo zabawkarskie, założone przez Ole Kirka Christiansena 12 października 1932 roku w Billund w Danii.
  
@@ -1273,11 +2128,27 @@ W zestawie klocków LEGO znajdziemy: figurkę Olivi, fioletowy łazik plażowy (
  
 Łącz ze sobą zestawy klocków LEGO z serii Friends i stwórz swoje własne miasteczko w Heartlake.
 
+**Galeria:**
+
+- 41010-1: https://a.allegroimg.com/original/039af2/794f830a48ba81e32b16506d06ae
+
 ---
 
-## 41011 — Lego Friends 41011 Trening Piłkarski Stephani Nowe
+## 41011 — LEGO FRIENDS 41011 TRENING PIŁKARSKI STEPHANI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702014972124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41011 |
+| Nazwa angielska | Stephanie's Soccer Practice |
+| Nazwa polska | LEGO FRIENDS 41011 TRENING PIŁKARSKI STEPHANI |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 3 cm × gł. 27 cm |
+| EAN | 5702014972124 |
 
 ZESTAW LEGO FRIENDS: TRENING PIŁKARSKI STEPHANIE - 41011
  
@@ -1294,11 +2165,27 @@ Razem ze Stephanie ćwicz przed ważnym meczem piłki nożnej! Drybluj przez ust
 - Minilaleczki LEGO to figurki zaprojektowane specjalnie do serii LEGO Friends; można je dostosowywać na tysiące modnych sposobów i łączyć z innymi elementami. 
 - Wymiary: ok. 6 cm wysokości, 3 cm szerokości i 27 cm długości.
 
+**Galeria:**
+
+- 41011-1: https://a.allegroimg.com/original/01ae8a/3e44530c48049f090ba03f1e8754
+
 ---
 
-## 41015 — Lego Friends 41015 Statek wycieczkowy Nowe
+## 41015 — Jacht
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 835.00 zł · EAN: 05702014972100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41015 |
+| Nazwa angielska | Dolphin Cruiser |
+| Nazwa polska | Jacht |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 612 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 19 cm |
+| EAN | 5702014972100 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1321,11 +2208,27 @@ Wybierz się na oceaniczną przygodę na Jachcie delfinów z Mią, Mayą i Andre
 - Minilaleczki LEGO to figurki zaprojektowane specjalnie do serii LEGO Friends; można je dostosowywać na tysiące modnych sposobów i łączyć z innymi elementami. 
 - Wymiary: ok. 17 cm wysokości, 38 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 41015-1: https://a.allegroimg.com/original/114939/5c4fde4344f49037bdb4fbb4b6b2
+
 ---
 
-## 41019 — Lego Friends 41019 Oaza Żółwia saszetka z klockami model wycofany
+## 41019 — Oaza Żółwia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702014973930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41019 |
+| Nazwa angielska | Turtle's Little Oasis |
+| Nazwa polska | Oaza Żółwia |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm × gł. 5 cm |
+| EAN | 5702014973930 |
 
 Witam
 
@@ -1343,11 +2246,27 @@ Rafał
 
 - Wymiary: ok. 5 cm wysokości, 5 cm szerokości i 5 cm długości.
 
+**Galeria:**
+
+- 41019-1: https://a.allegroimg.com/original/119614/dda91d0e49bc9caa6e0b8f476063
+
 ---
 
-## 41024 — Lego Friends 41024 Domek papugi saszetka z klockami
+## 41024 — Domek papugi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702014975170 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41024 |
+| Nazwa angielska | Parrot's Perch |
+| Nazwa polska | Domek papugi |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014975170 |
 
 Witam
 
@@ -1363,11 +2282,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 41024-1: https://a.allegroimg.com/original/117b8e/ef71f5d7496090072cd7cfc3b301
+
 ---
 
-## 41026 — Lego Friends 41026 Owocowe zbiory
+## 41026 — Owocowe zbiory
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015119412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41026 |
+| Nazwa angielska | Sunshine Harvest |
+| Nazwa polska | Owocowe zbiory |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702015119412 |
 
 LEGO® 41026 Friends - Owocowe zbiory
 
@@ -1388,11 +2323,27 @@ Czas na Owocowe żniwa z Olivią! Zbierz jabłka z drzewa i zawieź je na jej st
 - Stragan ma ok. 9 cm wysokości, 9 cm szerokości i 4 cm głębokości. 
 - Traktor z przyczepą ma ok. 4 cm wysokości, 11 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 41026-1: https://a.allegroimg.com/original/112cf6/819952e44d04845acf918bcd7000
+
 ---
 
-## 41027 — Lego 41027 Friends Stoisko Mii z napojami
+## 41027 — LEGO 41027
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 152.90 zł · EAN: 05702015119429 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41027 |
+| Nazwa angielska | Mia's Lemonade Stand |
+| Nazwa polska | LEGO 41027 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm × gł. 3 cm |
+| EAN | 5702015119429 |
 
 Zestaw LEGO® 41027 Stoisko Mii z napojami
  
@@ -1411,11 +2362,27 @@ Zawieź ją na stoisko zielonym skuterem i pomóż otworzyć je dla przyjaciół
  
 Zestaw klocków LEGO® 41027 Stoisko Mii z napojami został zaprezentowany w 2014 roku i składa się z 112 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 41027-1: https://a.allegroimg.com/original/11e1b7/07eb2e2045668254180a668ca032
+
 ---
 
-## 41028 — Lego Friends 41028 Emma ratownik Nowe
+## 41028 — Emma ratownik
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 87.00 zł · EAN: 05702015119436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41028 |
+| Nazwa angielska | Emma's Lifeguard Post |
+| Nazwa polska | Emma ratownik |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119436 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1425,11 +2392,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Friends Emma ratownik 41028 **został zaprezentowany w 2014 roku i składa się z 78 klocków LEGO®. W opakowaniu znajdziesz także 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci od 5 roku życia.
 
+**Galeria:**
+
+- 41028-1: https://a.allegroimg.com/original/110627/392cbecc41debce9acac34b76904
+
 ---
 
-## 41029 — Lego Friends 41029 Owieczka Stephanie
+## 41029 — Owieczka Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015119443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41029 |
+| Nazwa angielska | Stephanie's New Born Lamb |
+| Nazwa polska | Owieczka Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119443 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1453,11 +2436,27 @@ Zestaw klocków **LEGO Friends Emma ratownik 41028 **został zaprezentowany w 20
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41029-1: https://a.allegroimg.com/original/11e2dd/f830b93b469b932cc6d52ffa486a
+
 ---
 
-## 41030 — Lego Friends 41030 Stoisko z lodami Nowe
+## 41030 — Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 131.00 zł · EAN: 05702015124645 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41030 |
+| Nazwa angielska | Olivia's Ice Cream Bike |
+| Nazwa polska | Friends |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124645 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1467,11 +2466,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Friends 41030 Stoisko z lodami **został zaprezentowany w 2014 roku i zawiera 98 klocków LEGO®. W klockach znajdziesz także 1 minifigurkę. Klocki przeznaczone są dla dzieci od 5 roku życia.
 
+**Galeria:**
+
+- 41030-1: https://a.allegroimg.com/original/118948/b1e2fa0d423ea4bfb0a57f698c27
+
 ---
 
-## 41031 — Lego Friends 41031 Górska chatka Andrei Nowe
+## 41031 — Górska Chatka Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 131.00 zł · EAN: 05702015124652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41031 |
+| Nazwa angielska | Andrea's Mountain Hut |
+| Nazwa polska | Górska Chatka Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm × gł. 3 cm |
+| EAN | 5702015124652 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1493,11 +2508,27 @@ Razem z Andreą upiecz pianki na ognisku! Po długiej wycieczce po górach w oko
 - Wymiary ogniska: 2 cm wysokości, 3 cm szerokości i 3 cm głębokości
 - Połącz ten zestaw z zestawem nr 41034 Letnia przyczepa kempingowa, aby rozbić jeszcze fajniejszy obóz
 
+**Galeria:**
+
+- 41031-1: https://a.allegroimg.com/original/118d52/a623a55142caaecf01090f143622
+
 ---
 
-## 41032 — Lego Friends 41032 Motocykl ratowniczy
+## 41032 — Motocykl ratowniczy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015124669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41032 |
+| Nazwa angielska | First Aid Jungle Bike |
+| Nazwa polska | Motocykl ratowniczy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124669 |
 
 Friends Motocykl ratowniczy
  
@@ -1519,11 +2550,27 @@ Kategoria wiekowa: od 6 lat
  
 .
 
+**Galeria:**
+
+- 41032-1: https://a.allegroimg.com/original/00894b/741215c44726ba034f9b95e4f66b
+
 ---
 
-## 41033 — Lego 41033 Friends Dzikie Wodospady
+## 41033 — Klocki LEGO Friends Dzikie wodospady 41033
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702015124775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41033 |
+| Nazwa angielska | Jungle Falls Rescue |
+| Nazwa polska | Klocki LEGO Friends Dzikie wodospady 41033 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702015124775 |
 
 LEGO 41033 Friends - Dzikie Wodospady
 
@@ -1540,11 +2587,27 @@ Pomóż tygryskowi, który wpadł w tarapaty przy pięknym, ale niebezpiecznym d
 - Odpocznij w chatce na klifie po męczącym dniu spędzonym w okolicy dżunglowego wodospadu
 - Wymiary klifu z chatką i wodospadem: 13 cm wysokości, 12 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 41033-1: https://a.allegroimg.com/original/4501ee/5906bbd742348fea32745b3ae412
+
 ---
 
-## 41034 — Lego Friends 41034 Letni karawan Nowe
+## 41034 — 41034
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 296.00 zł · EAN: 05702015124782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41034 |
+| Nazwa angielska | Summer Caravan |
+| Nazwa polska | 41034 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm × gł. 11 cm |
+| EAN | 5702015124782 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1568,11 +2631,27 @@ Wybierz się na letni biwak z dziewczynkami z serii LEGO® Friends! Olivia i Joa
 - Wymiary samochodu: 3 cm wysokości, 11 cm długości i 5 cm szerokości 
 - Połącz ten zestaw z zestawem nr 41031 Biwak Andrei, aby rozbić jeszcze fajniejszy obóz
 
+**Galeria:**
+
+- 41034-1: https://a.allegroimg.com/original/117be7/2f4b90e44b41b5f9b6698cc3f0b0
+
 ---
 
-## 41035 — Lego Friends Bar z sokami w Heartlake 41035
+## 41035 — 41035
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015119450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41035 |
+| Nazwa angielska | Heartlake Juice Bar |
+| Nazwa polska | 41035 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015119450 |
 
 Lego Friends Bar z sokami w Heartlake 41035.
  
@@ -1598,11 +2677,27 @@ Pobaw się zabawkowymi pieniędzmi
 
 Ilość klocków w zestawie: 277
 
+**Galeria:**
+
+- 41035-1: https://a.allegroimg.com/original/11c5ed/4f4687a441a8be479a6a05475478
+
 ---
 
-## 41036 — Lego 41036 Friends Ratunek niedźwiadka
+## 41036 — Lego 41036 FRIENDS Ratunek niedźwiadka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 277.90 zł · EAN: 05702015124799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41036 |
+| Nazwa angielska | Jungle Bridge Rescue |
+| Nazwa polska | Lego 41036 FRIENDS Ratunek niedźwiadka |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 3 cm × gł. 11 cm |
+| EAN | 5702015124799 |
 
 Uratuj niedźwiadka, który utknął na starym, trzęsącym się moście linowym! Wsiądź z Matthew do samochodu terenowego i ruszaj na pomoc. Nakieruj helikopter Mii nad most i opuść nosze, aby uratować niedźwiadka. Następnie zabierz go w bezpieczne miejsce i razem z Matthew udziel mu pierwszej pomocy, korzystając z apteczki. Później możesz wybrać się z Mią i Matthew na wycieczkę po klifach, aby poszukać ukrytych skarbów. W zestawie minilaleczki Matthew i Mia oraz niedźwiadek.
  
@@ -1621,11 +2716,27 @@ Uratuj niedźwiadka, który utknął na starym, trzęsącym się moście linowym
 - Wymiary klifów z linowym mostem: 9 cm wysokości, 19 cm szerokości i 6 cm głębokości 
 - Możesz połączyć ten zestaw z innymi dżunglowymi zestawami z serii LEGO® Friends, aby zorganizować więcej misji ratunkowych
 
+**Galeria:**
+
+- 41036-1: https://e.allegroimg.com/original/0039e9/eb09a96c46a4b7ef3c5d0a34d74e
+
 ---
 
-## 41037 — Lego Friends 41037 Letni domek na plaży Nowe
+## 41037 — Letni domek na plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 362.00 zł · EAN: 05702015119467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41037 |
+| Nazwa angielska | Stephanie's Beach House |
+| Nazwa polska | Letni domek na plaży |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702015119467 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1645,11 +2756,27 @@ Otwórz drzwi do letniego domku Stephanie! Stephanie i Kate przyjechały tu na w
 - Domek ma ok. 18 cm wysokości, 19 cm szerokości i 16 cm głębokości.
 - Deska do windsurfingu ma ok. 10 cm wysokości, 8 cm długości i 2 cm szerokości.
 
+**Galeria:**
+
+- 41037-1: https://a.allegroimg.com/original/11ad68/dd4a108342dbb1c10d9a1e62981a
+
 ---
 
-## 41038 — Lego Friends 41038 Baza Ratownicza
+## 41038 — LEGO Friends 41038 - Baza Ratownicza
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 797.97 zł · EAN: 05702015124805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41038 |
+| Nazwa angielska | Jungle Rescue Base |
+| Nazwa polska | LEGO Friends 41038 - Baza Ratownicza |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 472 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 2 cm × gł. 5 cm |
+| EAN | 5702015124805 |
 
 LEGO Friends 41038 - Baza Ratownicza
 
@@ -1719,11 +2846,27 @@ Zestaw LEGO Friends - Baza Ratownicza trafił do sprzedaży w 2014 roku. Numer k
 
 **Z przodu pod numerem, delikatny, prawie niewidoczny ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach i załamanie, po lewej stronie pod numerem, wynikające z długoletniego przechowywania. Pomimo tego ogólny stan zestawu jest bardzo dobry.**
 
+**Galeria:**
+
+- 41038-1: https://a.allegroimg.com/original/11967f/800e7a3442b7b84822dbf1cccb91
+
 ---
 
-## 41039 — Lego Friends 41039 Słoneczne ranczo Nowe
+## 41039 — Sunshine Ranch
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702015119474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41039 |
+| Nazwa angielska | Sunshine Ranch |
+| Nazwa polska | Sunshine Ranch |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 721 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm × gł. 13 cm |
+| EAN | 5702015119474 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1742,11 +2885,27 @@ Czas na konną przejażdżkę z Mią na jej słonecznym ranczu. Zbudź ją w prz
 - Otwórz dach, by łatwiej się bawić. 
 - Budynek rancza ma ok. 22 cm wysokości, 25 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 41039-1: https://a.allegroimg.com/original/11b9b1/f12ab7f8445e8094d960feb1330e
+
 ---
 
-## 41043 — Lego Friends 41043 Plac zabaw pingwina saszetka z klockami
+## 41043 — Plac zabaw pingwina
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702015125710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41043 |
+| Nazwa angielska | Penguin's Playground |
+| Nazwa polska | Plac zabaw pingwina |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125710 |
 
 Plac zabaw pingwina
 
@@ -1766,11 +2925,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 41043-1: https://a.allegroimg.com/original/05dfab/02180e3e4c73858ccce0239d9cdb
+
 ---
 
-## 41044 — Lego Friends 41044 Fontanna papugi
+## 41044 — FONTANNA PAPUGI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 14.95 zł · EAN: 05702015125727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41044 |
+| Nazwa angielska | Macaw's Fountain |
+| Nazwa polska | FONTANNA PAPUGI |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125727 |
 
 LEGO Friends 41044 Fontanna papugi
 
@@ -1797,11 +2972,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 41044-1: https://a.allegroimg.com/original/117b61/d8976bfa416890955d7bd940bc1c
+
 ---
 
-## 41045 — Lego Friends 41045 Palma orangutana
+## 41045 — 41045
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 14.95 zł · EAN: 05702015125734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41045 |
+| Nazwa angielska | Orangutan's Banana Tree |
+| Nazwa polska | 41045 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125734 |
 
 LEGO Friends 41045 Palma orangutana
 
@@ -1828,11 +3019,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 41045-1: https://a.allegroimg.com/original/118354/608ce27446bea8bf74e93e7d3b8f
+
 ---
 
-## 41046 — Lego Friends 41046 Rzeka misia
+## 41046 — Brown Bear's River - 41046
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 14.95 zł · EAN: 05702015125741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41046 |
+| Nazwa angielska | Brown Bear's River |
+| Nazwa polska | Brown Bear's River - 41046 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125741 |
 
 LEGO Friends 41046 Rzeka misia
 
@@ -1859,11 +3066,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 41046-1: https://a.allegroimg.com/original/111ed0/3d42d6cf4e9cb9a5f3a984819027
+
 ---
 
-## 41059 — Lego 41059 Friends Rezerwat Dzikich Drzew
+## 41059 — Rezerwat Dzikich Drzew
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015124829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41059 |
+| Nazwa angielska | Jungle Tree Sanctuary |
+| Nazwa polska | Rezerwat Dzikich Drzew |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 13 cm × gł. 7 cm |
+| EAN | 5702015124829 |
 
 LEGO 41059 Friends - Rezerwat Dzikich Drzew
 
@@ -1890,11 +3113,27 @@ W zestawie minilaleczka Mia i 4 zwierzątka.
 - Wymiary laboratorium: 3 cm wysokości, 5 cm szerokości i 2 cm głębokości
 - Możesz połączyć ten zestaw z innymi dżunglowymi zestawami z serii LEGO® Friends, aby zorganizować więcej misji ratunkowych
 
+**Galeria:**
+
+- 41059-1: https://a.allegroimg.com/original/11077e/9f34fa904465a58e46064f1d7dd8
+
 ---
 
-## 41085 — Lego Friends 41085 Lecznica dla zwierząt Nowe
+## 41085 — Lecznica dla zwierząt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702015345101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41085 |
+| Nazwa angielska | Vet Clinic |
+| Nazwa polska | Lecznica dla zwierząt |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702015345101 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1917,11 +3156,27 @@ Wraz z Mią pomagaj rannym zwierzakom w lecznicy dla zwierząt! Dzisiaj zajmuje 
 - Wymiary lecznicy dla zwierząt: 8 cm wysokości, 12 cm szerokości i 12 cm głębokości 
 - Wymiary placu dla zwierząt: 5 cm szerokości, 5 cm głębokości i 1 cm wysokości Połączenie z zestawem 41086 Karetka weterynarza pozwoli zapewnić zwierzakom pełną opiekę medyczną
 
+**Galeria:**
+
+- 41085-1: https://a.allegroimg.com/original/1149a1/cca218ff4c5fb38c2a7e60d8dea2
+
 ---
 
-## 41086 — Lego Friends 41086 Nowe Lekko Odbarwione Pudełko
+## 41086 — 41086
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015345118 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41086 |
+| Nazwa angielska | Vet Ambulance |
+| Nazwa polska | 41086 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702015345118 |
 
 Zestaw zawiera 89 elementów, aby skonstruować karetkę weterynarza.
 
@@ -1943,11 +3198,27 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 41086-1: https://a.allegroimg.com/original/00e226/c36f79444ed2908efbb40416dd94
+
 ---
 
-## 41087 — Lego 41087 Friends Królik i maluchy zajączki króliczki plac zabaw Unikat
+## 41087 — Królik i maluchy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702015345125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41087 |
+| Nazwa angielska | Bunny & Babies |
+| Nazwa polska | Królik i maluchy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015345125 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -1963,11 +3234,27 @@ zajączki - króliczki - plac zabaw
 
 **Pobaw się z uroczym króliczkiem i jej nowymi dziećmi! Królicza mama urodziła w ogrodzie 2 małe króliczki. Nakarm je z butelki, a potem daj im marchewki i rzodkiewki z poletka warzyw. Dzięki temu maluchy będą zdrowo rosły. Zbuduj im małą zagrodę, w której będą mogły pobiegać, a następnie umieść je w koszyku i zanieś do domu. Połączenie z zestawem 41085 Lecznica dla zwierząt pozwoli na dokładne zbadanie maluchów. W zestawie królicza mama i 2 króliczki.**
 
+**Galeria:**
+
+- 41087-1: https://a.allegroimg.com/original/05857a/b1966c43422d86dd4100345ad4a6
+
 ---
 
-## 41088 — Lego Friends 41088 Lego Friends Trening szczeniaka
+## 41088 — LEGO Friends Trening szczeniaka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 284.99 zł · EAN: 05702015345132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41088 |
+| Nazwa angielska | Puppy Training |
+| Nazwa polska | LEGO Friends Trening szczeniaka |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 5702015345132 |
 
 Klocki LEGO 41088 Trening szczeniaka
  
@@ -1986,11 +3273,27 @@ Zabierz szczeniaka na szkolenie! Pomóż szczeniakowi pokonać slalomem rozstawi
  
 Zestaw klocków LEGO Friends 41088 Trening szczeniaka został zaprezentowany w 2015 roku i zbudowany jest z 65 klocków LEGO®. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 5 roku życia.
 
+**Galeria:**
+
+- 41088-1: https://a.allegroimg.com/original/11ff4e/99ffca70471fb8f73fdd0007f66c
+
 ---
 
-## 41089 — Lego Friends 41089 Źrebak
+## 41089 — 41089
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 107.00 zł · EAN: 05702015345149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41089 |
+| Nazwa angielska | Little Foal |
+| Nazwa polska | 41089 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015345149 |
 
 LEGO® 41089 Friends - Źrebak
 
@@ -2006,11 +3309,27 @@ Stan pudełka BDB, "na prezent"
 
 **Zapraszam**
 
+**Galeria:**
+
+- 41089-1: https://a.allegroimg.com/original/11a9de/498492f544af886496c31b3c0b6e
+
 ---
 
-## 41090 — Lego Friends 41090 Basen Olivii Nowe
+## 41090 — 41090
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702015345156 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41090 |
+| Nazwa angielska | Olivia's Garden Pool |
+| Nazwa polska | 41090 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015345156 |
 
 LEGO FRIENDS
  
@@ -2024,11 +3343,27 @@ Zrelaksuj się na dmuchanym kole, napij się orzeźwiającego napoju, a następn
  
 Połączenie z zestawem LEGO Friends 41095 Dom Emmy pozwoli stworzyć idealny ogród. W zestawie minilaleczka Olivia oraz żółw.
 
+**Galeria:**
+
+- 41090-1: https://a.allegroimg.com/original/11a952/bc5f661e441e8358febd023b7e89
+
 ---
 
-## 41091 — Lego 41091 Friends Kabriolet Mii Nowy Bez Pudełka
+## 41091 — Kabriolet Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 89.90 zł · EAN: 05702015345163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41091 |
+| Nazwa angielska | Mia's Roadster |
+| Nazwa polska | Kabriolet Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015345163 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -2042,11 +3377,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41091-1: https://a.allegroimg.com/original/118c46/f0bb79ff460bac22eb53249c94f0
+
 ---
 
-## 41092 — Lego Friends 41092 Pizzeria Stephanie Skuter Pizza
+## 41092 — 41092
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702015346726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41092 |
+| Nazwa angielska | Stephanie's Pizzeria |
+| Nazwa polska | 41092 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 2 cm × gł. 2 cm |
+| EAN | 5702015346726 |
 
 LEGO Friends 41092 Pizzeria Stephanie
 
@@ -2068,11 +3419,27 @@ Poprowadź pizzerię Stephanie — najnowszą knajpę w mieście Heartlake! Step
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41092-1: https://a.allegroimg.com/original/11c8ca/b5ae24574866bfcb9522817095b6
+
 ---
 
-## 41093 — Lego Friends 41093 Salon fryzjerski Heartlake
+## 41093 — Salon fryzjerski Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702015346733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41093 |
+| Nazwa angielska | Heartlake Hair Salon |
+| Nazwa polska | Salon fryzjerski Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 318 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346733 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2091,11 +3458,27 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41093-1: https://a.allegroimg.com/original/11c49f/a81e3af942c8b7169c9668c12178
+
 ---
 
-## 41094 — Lego 41094 Friends Latarnia Morska
+## 41094 — 41094
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 378.38 zł · EAN: 05702015346740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41094 |
+| Nazwa angielska | Heartlake Lighthouse |
+| Nazwa polska | 41094 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 473 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346740 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2123,11 +3506,27 @@ HEARTLAKE 41094
 
 Spędź doskonałe popołudnie nad morzem w pięknej latarni morskiej Heartlake! Stephanie umówiła się ze swoją przyjaciółką Kate w lodziarni nieopodal. Pomóż jej wybrać jeden z wielu dostępnych smaków i zrelaksuj się na skąpanym w słońcu pomoście. Odśwież się w łazience i znajdź ukrytą drabinę. Dokąd może ona prowadzić? Wraz ze Stephanie zbadaj sprawę i znajdź sekretne pomieszczenie z mapą do skarbu! Używając lornetki na szczycie latarni morskiej rozejrzyj się po okolicy i wypatrz przyjazną fokę na skale. Następnie wsiądź do łodzi i podpłyń bliżej, żeby zrobić zdjęcia. Po całym dniu zabawy z przyjaciółką połóż Kate w jej sypialni na poddaszu tuż przy latarni. Ciekawe, kto jutro przyjdzie na lody? Połączenie z zestawem 41097 Balon Heartlake zapewni pełną wrażeń wycieczkę po mieście. W zestawie 2 minilaleczki: Kate i Stephanie oraz foka
 
+**Galeria:**
+
+- 41094-1: https://a.allegroimg.com/original/03ca56/2f6a5178460cb793f1d1aa73b824
+
 ---
 
-## 41095 — Lego Friends 41095 Dom Emmy Nowe
+## 41095 — 41095
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 789.00 zł · EAN: 05702015346757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41095 |
+| Nazwa angielska | Emma's House |
+| Nazwa polska | 41095 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 706 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346757 |
 
 WITAM SERDECZNIE.
 
@@ -2139,11 +3538,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 41095-1: https://a.allegroimg.com/original/119a5d/4661825f46d7a5a7b6dffb605ace
+
 ---
 
-## 41097 — Lego 41097 Friends Balon w Heartlake zestaw z 2015 roku opis
+## 41097 — Balon w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 212.00 zł · EAN: 05702015346764 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41097 |
+| Nazwa angielska | Heartlake Hot Air Balloon |
+| Nazwa polska | Balon w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346764 |
 
 Plomby są delikatnie rozciągnięte, ślady po zdartych naklejkach z ceną
 
@@ -2165,11 +3580,27 @@ Wybierz się w podniebną wycieczkę w balonie Heartlake i podziwiaj z góry nie
 
 **szer. 27 cm * wys. 26 cm * głęb. 5 cm ***
 
+**Galeria:**
+
+- 41097-1: https://a.allegroimg.com/original/1152ea/e04754814814a10018de8b965ddd
+
 ---
 
-## 41099 — Lego 41099 Friends Skate Park w Heartlake, Mia i pies
+## 41099 — Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 127.50 zł · EAN: 05702015346788 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41099 |
+| Nazwa angielska | Heartlake Skate Park |
+| Nazwa polska | Friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 12 cm × gł. 3 cm |
+| EAN | 5702015346788 |
 
 **LEGO CITY 41099**
  
@@ -2201,11 +3632,27 @@ W przerwie weź schłodzony napój z automatu i naucz Charliego jeździć po ram
  
 **25 cm * 19 cm * 6 cm ***
 
+**Galeria:**
+
+- 41099-1: https://a.allegroimg.com/original/00bf8b/ff9133d24c88ac77306279cfbb1a
+
 ---
 
-## 41100 — Lego Friends 41100 Prywatny samolot z Heartlake Nowe
+## 41100 — LEGO Friends Prywatny samolot z Hearlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 516.00 zł · EAN: 05702015346795 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41100 |
+| Nazwa angielska | Heartlake Private Jet |
+| Nazwa polska | LEGO Friends Prywatny samolot z Hearlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 25 cm × gł. 5 cm |
+| EAN | 5702015346795 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2227,11 +3674,27 @@ Podróżuj jak supergwiazda prywatnym odrzutowcem LEGO® Friends! Pomóż Olivii
 - Stanowisko odprawy ma ponad 5 cm wysokości, 6 cm szerokości i 5 cm głębokości 
 - Skaner bagażu ma ponad 7 cm wysokości, 4 cm szerokości i 1 cm głębokości
 
+**Galeria:**
+
+- 41100-1: https://a.allegroimg.com/original/111071/5afdc67c4dcc95a8729e9e4173b9
+
 ---
 
-## 41101 — Lego 41101 Friends Grand Hotel W Heartlake
+## 41101 — LEGO Friends Grand Hotel w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1699.99 zł · EAN: 05702015346801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41101 |
+| Nazwa angielska | Heartlake Grand Hotel |
+| Nazwa polska | LEGO Friends Grand Hotel w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1552 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 32 cm × gł. 17 cm |
+| EAN | 5702015346801 |
 
 **LEGO Friends - 41101 Grand Hotel w Heartlake - Nowe**
 
@@ -2260,11 +3723,27 @@ Spędź wyjątkowe wakacje w hotelu Grand w Heartlake! Po wyjściu z taksówki p
 - Hotel ma ponad 30 cm wysokości, 32 cm szerokości i 17 cm głębokości
 - Czarna taksówka ma ponad 7 cm wysokości, 11 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 41101-1: https://a.allegroimg.com/original/1126a5/674a37af4f9db708e5f9d78492f5
+
 ---
 
-## 41103 — Lego 41103 Friends Studio nagraniowe gwiazdy pop Nowy Bez Pudełka
+## 41103 — Studio nagraniowe gwiazdy pop
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 89.90 zł · EAN: 05702015346818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41103 |
+| Nazwa angielska | Pop Star Recording Studio |
+| Nazwa polska | Studio nagraniowe gwiazdy pop |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346818 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -2278,11 +3757,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 41103-1: https://a.allegroimg.com/original/11de1e/8c3d6e30488885115aabbfd71f34
+
 ---
 
-## 41104 — Klocki Lego Friends Garderoba gwiazdy Pop 41104 Unikat
+## 41104 — Garderoba
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 699.99 zł · EAN: 05702015346825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41104 |
+| Nazwa angielska | Pop Star Dressing Room |
+| Nazwa polska | Garderoba |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 38 cm × gł. 9 cm |
+| EAN | 5702015346825 |
 
 Zestaw LEGO® 41104 Garderoba gwiazdy Pop
 
@@ -2301,11 +3796,27 @@ Przygotuj wystrzałową kreację w rozkładanej szatni gwiazdy popu! Gwiazda pop
 - Połącz ten zestaw z zestawem 41105 Koncert gwiazdy popu, aby zorganizować kompletne przedstawienie
 - Szatnia gwiazdy popu (rozłożona) ma ponad 10 cm wysokości, 38 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 41104-1: https://a.allegroimg.com/original/11f337/d6a3ed4045fc90b0a325cf9f0b99
+
 ---
 
-## 41105 — Lego Friends 41105 nowy zestaw Julivo
+## 41105 — Scena gwiazdy pop
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702015346832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41105 |
+| Nazwa angielska | Pop Star Show Stage |
+| Nazwa polska | Scena gwiazdy pop |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 446 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 27 cm × gł. 17 cm |
+| EAN | 5702015346832 |
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -2352,11 +3863,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41105-1: https://a.allegroimg.com/original/0529d5/d7edb136436181a161ed314ae6b0
+
 ---
 
-## 41106 — Lego Friends 41106 nowy zestaw Julivo
+## 41106 — LEGO Friends Wóz koncertowy 41106
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 655.00 zł · EAN: 05702015346849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41106 |
+| Nazwa angielska | Pop Star Tour Bus |
+| Nazwa polska | LEGO Friends Wóz koncertowy 41106 |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 682 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346849 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2405,11 +3932,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41106-1: https://a.allegroimg.com/original/002c2b/19bd1be049f4867ef9dcfc359eb0
+
 ---
 
-## 41108 — Lego Friends 41108 Targ Warzywny Stragan Gdańsk
+## 41108 — friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015346894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41108 |
+| Nazwa angielska | Heartlake Food Market |
+| Nazwa polska | friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702015346894 |
 
 **LEGO FRIENDS 41108**
 
@@ -2439,11 +3982,27 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 **szer. 38 cm * wys. 26 cm * głęb. 5 cm ***
 
+**Galeria:**
+
+- 41108-1: https://a.allegroimg.com/original/11ce45/2074f23d4af18f4c68e40023e29e
+
 ---
 
-## 41109 — Lego Friends 41109 Lotnisko
+## 41109 — Lotnisko
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015346900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41109 |
+| Nazwa angielska | Heartlake City Airport |
+| Nazwa polska | Lotnisko |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 692 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015346900 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2464,11 +4023,27 @@ Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkt
 
 Przejdź odprawę w porcie lotniczym Heartlake i przygotuj się do interesującego lotu! Poleć na wspaniałe wakacje linią lotniczą Heartlake! Pomóż Stephanie odprawić jej bagaż na lotniku LEGO® Friends i umieścić go na obrotowym podajniku oraz odebrać kartę pokładową od stewardessy Sandry. Potem przejdź do sklepu bezcłowego, aby kupić perfumy, oraz do baru, w którym zaczekasz na zapowiedź wylotu. Wtedy nadejdzie czas na wejście do dużego samolotu! Przysuń schody do drzwi samolotu i pomóż Stephanie znaleźć jej fotel z odchylanym oparciem, a tymczasem jej bagaż zostanie umieszczony w tylnej części samolotu. Sprawdź działanie kokpitu, zanim pilot samolotu, David, wystartuje, a gdy już będziesz w górze, każ Sandrze przygotować w kuchni świeżą kawę i przekąski. Potem rozwieź je pasażerom na wózku pchanym wzdłuż siedzeń. Pozwól Stephanie obejrzeć film i zjeść posiłek, a potem odświeżyć się w łazience, zanim wszyscy zajmą miejsca w oczekiwaniu na lądowanie. W zestawie znajdują się 3 minilaleczki: Stephanie, pilot David i stewardessa Sandra. - 3 minilaleczki: Stephanie, pilot David i stewardessa Sandra. - Otwierany samolot, przesuwane schody i budynek portu lotniczego. - Samolot zawiera typowe lotnicze otwierane drzwi, kokpit z deską rozdzielczą i dźwigniami, kabinę z trzema fotelami z odchylanymi oparciami i telewizorem, kuchnię z ekspresem do kawy, otwieraną lodówką, interkomem i składanym siedzeniem, łazienkę z otwieranymi drzwiami, toaletą, umywalką i wskaźnikiem zajętości oraz przedział bagażowy. - W porcie lotniczym znajduje się stanowisko odprawy, obrotowy podajnik, sklep bezcłowy i bar na piętrze. - Wózek stewardessy, taca, owoce, ciastka, napój w puszce, mleko, filiżanki z kawą, szklanka, rogalik, butelki z perfumami i kremem, dodatki do włosów, pudełka ze słodyczami, 2 pary okularów słonecznych, 3 sztuki bagażu i sprzęt narciarski. - Podnieś cały dach samolotu, aby łatwo dostać się do środka! - Połóż bagaż na obrotowym podajniku. - Wejdź po przesuwanych schodach do samolotu. - Pomóż Davidowi zapowiedzieć start podczas kołowania do pasa startowego. - Podaj z Sandrą posiłki i napoje wszystkim pasażerom. - Obejrzyj film na ekranie, a potem odśwież się w łazience przed lądowaniem.
 
+**Galeria:**
+
+- 41109-1: https://a.allegroimg.com/original/11771f/043455ec45f38567f988bf847661
+
 ---
 
-## 41110 — Lego Friends 41110 Przyjęcie urodzinowe
+## 41110 — Przyjęcie urodzinowe
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015591270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41110 |
+| Nazwa angielska | Birthday Party |
+| Nazwa polska | Przyjęcie urodzinowe |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm × gł. 4 cm |
+| EAN | 5702015591270 |
 
 LEGO Friends 41110 Przyjęcie urodzinowe
 
@@ -2491,11 +4066,27 @@ Dołącz do Andrei i jej zwierzaków na specjalnym przyjęciu urodzinowym LEGO®
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 41110-1: https://a.allegroimg.com/original/003f5c/4e65c6054338b51ced81c535f8c5
+
 ---
 
-## 41111 — Lego Friends 41111 Imprezowy pociąg Nowe
+## 41111 — 41111
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 98.00 zł · EAN: 05702015591621 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41111 |
+| Nazwa angielska | Party Train |
+| Nazwa polska | 41111 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 2 cm × gł. 16 cm |
+| EAN | 5702015591621 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2519,11 +4110,27 @@ Wskocz do pociągu imprezowego LEGO® Friends ze Stephanie i jej chomikami. Cią
 - Wymiary placu zabaw dla chomików: ok. 5 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 - Połącz z zestawem 41110 Przyjęcie urodzinowe, by chomiki mogły dołączyć do zabawy urodzinowej.
 
+**Galeria:**
+
+- 41111-1: https://a.allegroimg.com/original/110512/9d6697fd4420a6d35d676e8dc7e6
+
 ---
 
-## 41112 — Lego Friends 41112 Imprezowe ciasta Nowe
+## 41112 — LEGO Friends Imprezowe ciasta
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 54.00 zł · EAN: 05702015591638 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41112 |
+| Nazwa angielska | Party Cakes |
+| Nazwa polska | LEGO Friends Imprezowe ciasta |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 5702015591638 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2547,11 +4154,27 @@ Upiecz ciasto z zestawem LEGO® Friends Imprezowe ciasta, w którym znajdziesz o
 - Wymiary stołu: 4 cm szerokości, 1 cm wysokości i 1 cm głębokości.
 - Połącz z zestawem 41110 Przyjęcie urodzinowe, by mops Toffee mógł dołączyć do zabawy urodzinowej.
 
+**Galeria:**
+
+- 41112-1: https://a.allegroimg.com/original/11564c/3871b14f4a6bbfb665d51d390280
+
 ---
 
-## 41113 — Lego Friends 41113 Sklep Z Prezentami Nowe
+## 41113 — SKLEP Z PREZENTAMI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015591669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41113 |
+| Nazwa angielska | Party Gift Shop |
+| Nazwa polska | SKLEP Z PREZENTAMI |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591669 |
 
 Wybierz prezent urodzinowy wraz z króliczkami!
  
@@ -2569,11 +4192,27 @@ Teraz **króliki mogą się pobawić** na huśtawce i schrupać pyszne marchewki
 - Zestaw zawiera **ponad 50 klocków.** 
 - **Wymiary placu zabaw dla królików:** 4 cm szerokości, 1 cm wysokości i 1 cm głębokości.
 
+**Galeria:**
+
+- 41113-1: https://a.allegroimg.com/original/05f4a6/f1788aef4c369ae9df6d160f1be7
+
 ---
 
-## 41114 — Lego Friends 41114 Nowe
+## 41114 — 41114
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 47.00 zł · EAN: 05702015591799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41114 |
+| Nazwa angielska | Party Styling |
+| Nazwa polska | 41114 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm × gł. 4 cm |
+| EAN | 5702015591799 |
 
 ZESTAW LEGO FRIENDS: IMPREZOWA STYLIZACJA  - 41114
  
@@ -2592,11 +4231,27 @@ Czesz futerko kocicy wybierającej się na przyjęcie z tym zestawem LEGO® Frie
  
 - **Ilość elementów: 54**
 
+**Galeria:**
+
+- 41114-1: https://a.allegroimg.com/original/0509ae/73b73e0a423ca0a8892cf7c3b755
+
 ---
 
-## 41115 — Lego Friends 41115 Kreatywny warsztat Emmy
+## 41115 — Kreatywny warsztat Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 127.00 zł · EAN: 05702015591805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41115 |
+| Nazwa angielska | Emma's Creative Workshop |
+| Nazwa polska | Kreatywny warsztat Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591805 |
 
 LEGO® 41115 Friends - Kreatywny warsztat Emmy
 
@@ -2612,11 +4267,27 @@ Stan pudełka BDB, "na prezent"
 
 **Zapraszam**
 
+**Galeria:**
+
+- 41115-1: https://a.allegroimg.com/original/1110fa/722bb7eb40b1bd5483e01b6d4f99
+
 ---
 
-## 41116 — Lego Friends 41116 Lego Friends Wóz badawczy Olivii 41116
+## 41116 — LEGO Friends Wóz badawczy Olivii 41116
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702015591836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41116 |
+| Nazwa angielska | Olivia's Exploration Car |
+| Nazwa polska | LEGO Friends Wóz badawczy Olivii 41116 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591836 |
 
 Wóz badawczy to zestaw z figurką Oliwii i wieloma ciekawymi elementami z dziedziny nauki i badań.
  
@@ -2628,11 +4299,27 @@ Kategoria wiekowa: od 6. roku życia
 
 Zestaw z serii LEGO Friends pozwala zbudować pojazd, do którego dzieci mogą zapakować wiele akcesoriów. Dzieci mogą odgrywać scenki prowadzonych badań i obserwacji na wieży. Zestaw rozwija kreatywność i ciekawość świata. Figurka Oliwii, która jest w zestawie, pozwala doskonale się bawić w astronoma – Oliwia obserwuje gwiazdy z wieży, studiuje mapę, szuka informacji w komputerze i popija czekoladę ze swojego kubka. Po skończonych badaniach znów może zapakować wszystko do swojego różowego auta i ruszyć w powrotną drogę. Wymiary auta: 6 x 9 x 5 cm.
 
+**Galeria:**
+
+- 41116-1: https://a.allegroimg.com/original/0518af/2a6f51584b9ea099532c8f199f4d
+
 ---
 
-## 41117 — Lego Friends 41117 Studio telewizyjne gwiazdy pop Nowe
+## 41117 — Studio telewizyjne gwiazdy pop
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015591850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41117 |
+| Nazwa angielska | Pop Star TV Studio |
+| Nazwa polska | Studio telewizyjne gwiazdy pop |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591850 |
 
 Światła, kamera, akcja! Pomóż jej dopracować choreografię, po czym stań za kamerą lub zmień tło jednym ruchem suwaka. Gdy wrócisz do studia wieczorem, będą tam już nowe dekoracje, a Livi będzie występować na słynnej gali nagród - ale czy zdobędzie nagrodę dla najlepszego wykonawcy i będzie mogła wygłosić przemówienie?
  
@@ -2646,11 +4333,27 @@ Zestaw zawiera:
  
 • Obróć scenę, by przejść na galę wręczenia nagród, na której Lividostała nominację.
 
+**Galeria:**
+
+- 41117-1: https://a.allegroimg.com/original/00f8b9/cfde65df44eb9a81e40b67fdf4cf
+
 ---
 
-## 41118 — Lego Friends Supermarket w Heartlake 41118
+## 41118 — supermarket
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015592086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41118 |
+| Nazwa angielska | Heartlake Supermarket |
+| Nazwa polska | supermarket |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592086 |
 
 LEGO Friends, Supermarket w Heartlake, 41118
 
@@ -2674,11 +4377,27 @@ Szczypcami wyłóż ciasta i ciasteczka eksponowane na stoisku piekarniczym.
 
 Obracaj stoisko kosmetyczne, by wybrać prezent dla przyjaciółki.
 
+**Galeria:**
+
+- 41118-1: https://a.allegroimg.com/original/00f150/78056d324c68afe7ffed28e752fd
+
 ---
 
-## 41119 — Lego Friends 41119 Cukiernia w Heartlake Nowe
+## 41119 — 41119
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702015592093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41119 |
+| Nazwa angielska | Heartlake Cupcake Cafe |
+| Nazwa polska | 41119 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 439 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 28 cm × gł. 12 cm |
+| EAN | 5702015592093 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2703,11 +4422,27 @@ Piecz i podawaj pyszne babeczki z zestawem LEGO® Friends Ciastkarnia w Heartlak
 - Wymiary ciastkarni w Heartlake: 10 cm wysokości, 28 cm szerokości i 12 cm głębokości. 
 - Wymiary skutera dostawczego: 5 cm długości, 2 cm wysokości i 1 cm szerokości.
 
+**Galeria:**
+
+- 41119-1: https://a.allegroimg.com/original/1156bd/8493ae244d87881c7b824415096a
+
 ---
 
-## 41120 — Lego 41120 Friends Letni obóz łuczniczy Nowe
+## 41120 — LETNI OBÓZ ŁUCZNICZY
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015592130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41120 |
+| Nazwa angielska | Adventure Camp Archery |
+| Nazwa polska | LETNI OBÓZ ŁUCZNICZY |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702015592130 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -2734,11 +4469,27 @@ Piecz i podawaj pyszne babeczki z zestawem LEGO® Friends Ciastkarnia w Heartlak
 - **Wymiary wiaty piknikowej: 7 cm wysokości, 6 cm szerokości i 6 cm głębokości.** 
 - **Wymiary kryjówki jeża: 3 cm wysokości, 3 cm szerokości i 3 cm głębokości.**
 
+**Galeria:**
+
+- 41120-1: https://a.allegroimg.com/original/008bde/20e2c26948bb838de6cd0cf4f346
+
 ---
 
-## 41121 — Lego Friends 41121 Spływ pontonem
+## 41121 — Spływ pontonem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 257.10 zł · EAN: 05702015592376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41121 |
+| Nazwa angielska | Adventure Camp Rafting |
+| Nazwa polska | Spływ pontonem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592376 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2778,11 +4529,27 @@ W zestawie 320 elementów:
 
 41121
 
+**Galeria:**
+
+- 41121-1: https://a.allegroimg.com/original/003b7a/c26c567d41dd8ba084184c59384c
+
 ---
 
-## 41122 — Lego Friends 41122 nowy zestaw Julivo
+## 41122 — 41122
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 525.00 zł · EAN: 05702015592406 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41122 |
+| Nazwa angielska | Adventure Camp Tree House |
+| Nazwa polska | 41122 |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 726 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592406 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2832,11 +4599,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41122-1: https://a.allegroimg.com/original/00f942/7653b90f47dea5dfeb4df5b033ab
+
 ---
 
-## 41123 — Lego Friends 41123 Kąpiel źrebaka Nowe
+## 41123 — Kąpiel źrebaka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702015592420 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41123 |
+| Nazwa angielska | Foal's Washing Station |
+| Nazwa polska | Kąpiel źrebaka |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702015592420 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2860,11 +4643,27 @@ Pielęgnuj ulubionego źrebaka Emmy z zestawem LEGO® Friends Kąpiel dla źreba
 - Wymiary miejsca karmienia: 3 cm szerokości, 3 cm głębokości i 2 cm wysokości.
 - Połącz z zestawem 41126 Klub jeździecki Heartlake, by szykować się do wystawy koni w Heartlake.
 
+**Galeria:**
+
+- 41123-1: https://a.allegroimg.com/original/119fc7/d86734134150864c6fb3b77fdbef
+
 ---
 
-## 41124 — Lego Friends 41124 Przedszkole dla szczeniąt w Heartlake Nowe
+## 41124 — 41124
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015593557 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41124 |
+| Nazwa angielska | Heartlake Puppy Daycare |
+| Nazwa polska | 41124 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 12 cm |
+| EAN | 5702015593557 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2885,11 +4684,27 @@ Zajmuj się rozbrykanymi szczeniakami wraz z Andreą i Mią z zestawem LEGO® Fr
 - Zestaw odpowiedni dla dzieci w wieku od 6 do 12 lat. 
 - Wymiary przedszkola dla szczeniąt w Heartlake: 9 cm wysokości, 19 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 41124-1: https://a.allegroimg.com/original/11fbe6/122fbaf046eeb4ab436d7395d8cc
+
 ---
 
-## 41125 — Lego Friends 41125 Przyczepa lecznicza dla koni
+## 41125 — Przyczepa lecznicza dla koni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702015593571 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41125 |
+| Nazwa angielska | Horse Vet Trailer |
+| Nazwa polska | Przyczepa lecznicza dla koni |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 370 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593571 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2913,11 +4728,27 @@ Bądź na wszystkich jeździeckich imprezach w Heartlake wraz z ciocią Sophie i
 
 W zestawie znajdziesz 2 minifigurki: Olivia w kurtce jeździeckiej, bryczesach i kasku oraz weterynarz Sophie, a do tego jabłkowity koń, a także samochód terenowy z miejscem na 2 minifigurki i odczepianą przyczepą lecznicy dla koni. Przyczepa lecznicy dla koni ma otwierane drzwi i okna, łóżko, stół, przedział dla konia i schowek na akcesoria na dachu.
 
+**Galeria:**
+
+- 41125-1: https://a.allegroimg.com/original/00d724/feecd2534b85a0877b4978bfc251
+
 ---
 
-## 41126 — Lego Friends 41126 Klub jeździecki Heartlake
+## 41126 — LEGO 41126 - Klub jeździecki Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1147.97 zł · EAN: 05702015593588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41126 |
+| Nazwa angielska | Heartlake Riding Club |
+| Nazwa polska | LEGO 41126 - Klub jeździecki Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 575 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 32 cm × gł. 14 cm |
+| EAN | 5702014733190, 5702015593588 |
 
 LEGO Friends 41126 - Klub jeździecki Heartlake
 
@@ -2980,11 +4811,28 @@ LEGO® 41126 Friends - Klub jeździecki Heartlake
 
 **W powiększeniu: Z tyłu pudełka ślad po zahaczeniu. Ogólny stan zestawu dobry.**
 
+**Galeria:**
+
+- 41126-1: https://a.allegroimg.com/original/115c70/9b90bcc740599966a41222f46e1b
+- 41126-2: https://a.allegroimg.com/original/008ad9/e881f6384ab7806919f2bc24eff3
+
 ---
 
-## 41128 — Lego Friends 41128 Kosmiczna karuzela w parku rozrywki
+## 41128 — Kosmiczna karuzela w parku rozrywki
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.90 zł · EAN: 05702015593601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41128 |
+| Nazwa angielska | Amusement Park Space Ride |
+| Nazwa polska | Kosmiczna karuzela w parku rozrywki |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593601 |
 
 **LEGO CITY 41128**
 
@@ -3042,11 +4890,27 @@ Wymiary:
 
 **25 cm * 19 cm * 6 cm ***
 
+**Galeria:**
+
+- 41128-1: https://a.allegroimg.com/original/111e81/330689894e30a98f33b726e73b49
+
 ---
 
-## 41129 — Lego 41129 Friends Furgonetka z hot-dogami w parku rozrywki
+## 41129 — Furgonetka z hot-dogami w parku rozrywki
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015593618 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41129 |
+| Nazwa angielska | Amusement Park Hot Dog Van |
+| Nazwa polska | Furgonetka z hot-dogami w parku rozrywki |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593618 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3056,11 +4920,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 41129-1: https://a.allegroimg.com/original/1169e3/cd715b694bb9a7de7c4afa7a9148
+
 ---
 
-## 41130 — Lego Friends 41130 Kolejka górska w parku rozrywki
+## 41130 — Kolejka górska w parku rozrywki
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702015593625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41130 |
+| Nazwa angielska | Amusement Park Roller Coaster |
+| Nazwa polska | Kolejka górska w parku rozrywki |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593625 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3079,11 +4959,27 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 41130-1: https://a.allegroimg.com/original/00c540/0c0fb6714e8994c44581c61e3105
+
 ---
 
-## 41132 — Lego 41132 Friends Imprezowy Sklepik W Heartlake
+## 41132 — IMPREZOWY SKLEPIK W HEARTLAKE
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015593632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41132 |
+| Nazwa angielska | Heartlake Party Shop |
+| Nazwa polska | IMPREZOWY SKLEPIK W HEARTLAKE |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 19 cm × gł. 12 cm |
+| EAN | 5702015593632 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -3111,11 +5007,27 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 - **Włóż prezent do ozdobnego pudełka i zapłać przy kasie.**
 - **Wymiary imprezowego sklepiku w Heartlake: 10 cm wysokości, 19 cm szerokości i 12 cm głębokości.**
 
+**Galeria:**
+
+- 41132-1: https://a.allegroimg.com/original/11d95d/5f408aa547f886faed6550ce2aa1
+
 ---
 
-## 41133 — Lego 41133 Friends Autka w parku rozrywki
+## 41133 — Autka w parku rozrywki
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 318.99 zł · EAN: 05702015593649 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41133 |
+| Nazwa angielska | Amusement Park Bumper Cars |
+| Nazwa polska | Autka w parku rozrywki |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 424 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm × gł. 12 cm |
+| EAN | 5702015593649 |
 
 LEGO 41133 Friends - Autka w parku rozrywki
 
@@ -3139,11 +5051,27 @@ Na koniec kup sobie watę cukrową z popychanego wózka. W zestawie minilaleczki
 - Wymiary budki biletowej: 11 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 - Wymiary wózka z watą cukrową: 4 cm długości, 3 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 41133-1: https://a.allegroimg.com/original/453a20/0054335b4b02a8277559f1f95fd9
+
 ---
 
-## 41134 — Lego Friends 41134 Szkoła artystyczna
+## 41134 — LEGO 41134
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 668.00 zł · EAN: 05702015593656 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41134 |
+| Nazwa angielska | Heartlake Performance School |
+| Nazwa polska | LEGO 41134 |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 774 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593656 |
 
 Oferta sprzedaży zestawu LEGO Friends 41134 Szkoła artystyczna.
 
@@ -3153,11 +5081,27 @@ Oferta sprzedaży zestawu LEGO Friends 41134 Szkoła artystyczna.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 41134-1: https://a.allegroimg.com/original/1181de/eb4638124b168cd3afa91ec479c6
+
 ---
 
-## 41135 — Klocki Lego Friends Zestaw Dom gwiazdy popu Livi 41135
+## 41135 — Livi's Pop Star House
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015593663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41135 |
+| Nazwa angielska | Livi's Pop Star House |
+| Nazwa polska | Livi's Pop Star House |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 597 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm × gł. 25 cm |
+| EAN | 5702015593663 |
 
 Klocki LEGO Friends 41135 - Dom gwiazdy pop Livi
 
@@ -3185,11 +5129,27 @@ Zestaw zawiera ponad 590 klocków.
 
 Wymiary domu gwiazdy popu: 15 cm wysokości, 14 cm szerokości i 25 cm głębokości, gdy jest zamknięty, oraz 15 cm wysokości, 25 cm szerokości i 13 cm głębokości, gdy jest otwarty.
 
+**Galeria:**
+
+- 41135-1: https://8.allegroimg.com/original/00c184/1a3803d1405aac3a3c9f704e5568
+
 ---
 
-## 41300 — Lego 41300 Friends Mistrzostwa szczeniaczków
+## 41300 — Mistrzostwa szczeniaczków
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015866149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41300 |
+| Nazwa angielska | Puppy Championship |
+| Nazwa polska | Mistrzostwa szczeniaczków |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866149 |
 
 LEGO FRIENDS 41300:
 
@@ -3199,11 +5159,27 @@ Mistrzostwa szczeniaczków
 
 Chcesz pokazać, co potrafi Twój szczeniak? Oto okazja, by zaistnieć w świetle reflektorów. Wypielęgnuj szczeniaczki, by wyglądały zjawiskowo, a potem ruszaj do akcji! Posadź Scouta na obrotowej podstawce, żeby jego lśniące futro prezentowało się odpowiednio. Następnie ostrożnie poprowadź Tinę w górę i w dół huśtawki, a potem pomóż jej przeskoczyć przeszkodę! Pomóż Mii wejść po schodach i wybrać zwycięzcę, a potem zjechać w dół i ogłosić werdykt do mikrofonu. Szczeniaki zasłużyły na pyszną kość!
 
+**Galeria:**
+
+- 41300-1: https://a.allegroimg.com/original/00b997/ca6d84804f1ea2f0fc91d5fb3ff7
+
 ---
 
-## 41301 — Lego Friends 41301 Parada piesków
+## 41301 — 41301
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 197.00 zł · EAN: 05702015866163 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41301 |
+| Nazwa angielska | Puppy Parade |
+| Nazwa polska | 41301 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702015866163 |
 
 LEGO FRIENDS 41301
 
@@ -3228,11 +5204,27 @@ ILOŚĆ ELEMENTÓW:145
 
 KLOCKI SĄ NOWE,ORYGINALNE LEGO, ZAPAKOWANE
 
+**Galeria:**
+
+- 41301-1: https://a.allegroimg.com/original/000ad0/725910624133a4d58015d4901827
+
 ---
 
-## 41303 — Lego Friends 41303 Plac zabaw dla piesków
+## 41303 — 41303
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015866200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41303 |
+| Nazwa angielska | Puppy Playground |
+| Nazwa polska | 41303 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm × gł. 2 cm |
+| EAN | 5702015866200 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3267,11 +5259,27 @@ Z zestawem Plac zabaw dla piesków LEGO® Friends możesz cały dzień pomagać 
 - Wymiary huśtawki: ok. 3 cm wysokości, 6 cm szerokości i 1 cm głębokości. 
 - Ten zestaw można połączyć z zestawem 41300 Mistrzostwa szczeniaczków i zabrać Larę na jeszcze większą wystawę psów!
 
+**Galeria:**
+
+- 41303-1: https://a.allegroimg.com/original/1154b0/1907ec4745bd837fef6602ab072b
+
 ---
 
-## 41304 — Lego Friends 41304 Sztuczki i przysmaki dla piesków Nowe
+## 41304 — Sztuczki i przysmaki dla piesków
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702015866217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41304 |
+| Nazwa angielska | Puppy Treats & Tricks |
+| Nazwa polska | Sztuczki i przysmaki dla piesków |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm × gł. 4 cm |
+| EAN | 5702015866217 |
 
 Klocki LEGO Friends 41304 - Sztuczki i przysmaki dla piesków
  
@@ -3293,11 +5301,27 @@ Wymiary psiej budy: ok. 5 cm wysokości, 6 cm szerokości i 4 cm głębokości.
  
 Łącząc ten zestaw z zestawem 41300 Mistrzostwa szczeniaczkóww lub 41303 Plac zabaw dla piesków, będziesz mieć możliwość ćwiczenia z większą ilością płotków i przeszkód.
 
+**Galeria:**
+
+- 41304-1: https://a.allegroimg.com/original/11181b/f14d3bd54ab9803695c04d6641a9
+
 ---
 
-## 41305 — Lego Friends 41305 Pracownia fotograficzna Emmy
+## 41305 — Pracownia fotograficzna Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 137.77 zł · EAN: 05702015866224 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41305 |
+| Nazwa angielska | Emma's Photo Studio |
+| Nazwa polska | Pracownia fotograficzna Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702015866224 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3354,11 +5378,27 @@ Wymiary:
 - **Marka / seria**: Lego Friends
 - **Wiek**: 5 - 12 lat
 
+**Galeria:**
+
+- 41305-1: https://a.allegroimg.com/original/00aef6/f4397f934ea9a3a54d40d6f0bdca
+
 ---
 
-## 41306 — Lego Friends 41306 Plażowy skuter Mii Nowe
+## 41306 — LEGO FRIENDS 41306 PLAŻOWY SKUTER MII
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702015866231 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41306 |
+| Nazwa angielska | Mia's Beach Scooter |
+| Nazwa polska | LEGO FRIENDS 41306 PLAŻOWY SKUTER MII |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 5702015866231 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3378,11 +5418,27 @@ Sięgnij po zestaw Plażowy skuter Mii LEGO® Friends i sprawdź, gdzie są dzi�
 - Wymiary plażowego skutera z przyczepką: ok. 3 cm wysokości, 4 cm długości i 5 cm szerokości.
 - Wymiary plażowej scenki: ok. 6 cm wysokości, 9 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 41306-1: https://a.allegroimg.com/original/1190f8/484435f547b1bec9a5c792f080b8
+
 ---
 
-## 41307 — Lego Friends 41307 Laboratorium Olivii Nowe Unikat
+## 41307 — Laboratorium Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702015866248 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41307 |
+| Nazwa angielska | Olivia's Creative Lab |
+| Nazwa polska | Laboratorium Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm × gł. 3 cm |
+| EAN | 5702015866248 |
 
 LEGO Kreatywne laboratorium Olivii 41307
  
@@ -3401,11 +5457,27 @@ Kreatywne laboratorium Olivii LEGO Friends to miejsce, gdzie Olivia nadaje kszta
 - Wymiary biurka z laboratorium: ok. 6 cm wysokości, 7 cm szerokości i 3 cm głębokości. 
 - Wymiary stacji dokującej: ok. 5 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41307-1: https://2.allegroimg.com/original/0023e5/8712b92e4967ae59c92b2e686f42
+
 ---
 
-## 41308 — Lego Friends 41308 Ciastka przyjaźni Stephanie Nowe
+## 41308 — 41308
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 208.00 zł · EAN: 05702015866262 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41308 |
+| Nazwa angielska | Stephanie's Friendship Cakes |
+| Nazwa polska | 41308 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 4 cm × gł. 3 cm |
+| EAN | 5702015866262 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3428,11 +5500,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 - Wymiary piekarnika z płytą: ok. 3 cm szerokości, 2 cm wysokości i 1 cm głębokości.
 - Wymiary stołu z paterą: ok. 5 cm wysokości, 4 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41308-1: https://a.allegroimg.com/original/112220/4312ab054b3184c488b79916d837
+
 ---
 
-## 41309 — Lego Friends 41309 Muzyczny duet Andrei
+## 41309 — Muzyczny duet Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 101.87 zł · EAN: 05702015866323 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41309 |
+| Nazwa angielska | Andrea's Musical Duet |
+| Nazwa polska | Muzyczny duet Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702015866323 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3464,11 +5552,27 @@ Zestaw Muzyczny duet Andrei LEGO® Friends do okazja do śpiewów i występów. 
 - Scena ma ok. 6 cm wysokości, 6 cm długości i 6 cm szerokości.
 - Wymiary stojaka dla ptaków to ok. 4 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41309-1: https://a.allegroimg.com/original/005bb8/e7792ef54f24bb8278f05622a872
+
 ---
 
-## 41310 — Lego Friends 41310 Dostawca upominków Heartlake Nowe
+## 41310 — Dostawca upominków w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 208.00 zł · EAN: 05702015866347 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41310 |
+| Nazwa angielska | Heartlake Gift Delivery |
+| Nazwa polska | Dostawca upominków w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702015866347 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3488,11 +5592,27 @@ Sięgnij po zestaw Dostawca upominków w Heartlake LEGO® Friends i pomóż Step
 - Wymiary samochodu dostawczego: 9 cm wysokości, 11 cm długości i 5 cm szerokości. 
 - Wymiary frontu sklepu: 9 cm wysokości, 9 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41310-1: https://a.allegroimg.com/original/11618b/8865d8a44421b1aacbe0a2d13d2f
+
 ---
 
-## 41311 — Lego Friends 41311 Pizzeria w Heartlake Nowe
+## 41311 — Pizzeria w Heartlake 41311
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702015866354 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41311 |
+| Nazwa angielska | Heartlake Pizzeria |
+| Nazwa polska | Pizzeria w Heartlake 41311 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702015866354 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3515,11 +5635,27 @@ W zestawie Pizzeria w Heartlake LEGO® Friends jest wszystko, co potrzebne do za
 - Pizzeria ma ok. 15 cm wysokości, 12 cm szerokości i 12 cm głębokości. 
 - Skuter ma ok. 5 cm wysokości, 7 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 41311-1: https://a.allegroimg.com/original/11969d/dc463d6b4a97b3588ce8b53ca09e
+
 ---
 
-## 41312 — Lego 41312 Friends Centrum sportu w Heartlake
+## 41312 — brak informacji
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 288.00 zł · EAN: 05702015866361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41312 |
+| Nazwa angielska | Heartlake Sports Center |
+| Nazwa polska | brak informacji |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 23 cm × gł. 15 cm |
+| EAN | 5702015866361 |
 
 LEGO 41312 Friends - Centrum sportu w Heartlake
 
@@ -3537,11 +5673,27 @@ Zestaw Centrum sportu w Heartlake LEGO® Friends zachęca do aktywności! Za prz
 - Jeszcze lepiej wypoczniesz, jeśli połączysz ten zestaw z zestawem 41313 Basen w Heartlake. 
 - Wymiary Centrum sportu: ok. 12 cm wysokości, 23 cm szerokości i 15 cm głębokości.
 
+**Galeria:**
+
+- 41312-1: https://a.allegroimg.com/original/1151e3/891d6d7e4110ad77575d98c675b0
+
 ---
 
-## 41313 — Lego 41313 Friends Basen w Heartlake
+## 41313 — Basen w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 699.00 zł · EAN: 00673419265089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41313 |
+| Nazwa angielska | Heartlake Summer Pool |
+| Nazwa polska | Basen w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 589 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 24 cm × gł. 23 cm |
+| EAN | 5702015866392, 673419265089 |
 
 LEGO 41313 Friends - Basen w Heartlake
 
@@ -3609,11 +5761,28 @@ Basen w Heartlake LEGO® Friends to miejsce, w którym każdy chciałby spędzi�
 - **Wymiary opakowania (cm):** -
 - **Wymiary złożonego zestawu (cm):** -
 
+**Galeria:**
+
+- 41313-1: https://a.allegroimg.com/original/111ccd/469a98324f00ab15d91a179c6ea2
+- 41313-2: https://a.allegroimg.com/original/11c1e0/3ce80af148f0a707828cc58f34ac
+
 ---
 
-## 41314 — Lego Friends 41314 Klocki Lego Friends Dom Stephanie 41314
+## 41314 — Klocki LEGO Friends Dom Stephanie 41314
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 725.99 zł · EAN: 05702015866408 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41314 |
+| Nazwa angielska | Stephanie's House |
+| Nazwa polska | Klocki LEGO Friends Dom Stephanie 41314 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 622 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm × gł. 27 cm |
+| EAN | 5702015866408 |
 
 LEGO FRIENDS 41314 WIELKI PIĘTROWY DOM STEPHANIE
 
@@ -3651,11 +5820,27 @@ Cechy zestawu:
 
 - Wymiary klatki królika: ok. 3 cm wysokości, 3 cm szerokości i 3 cm głębokości.
 
+**Galeria:**
+
+- 41314-1: https://a.allegroimg.com/original/11e0e4/732abd78466db0710f10fc35c0ee
+
 ---
 
-## 41315 — Lego 41315 Friends Sklep dla surferów w Heartlake
+## 41315 — Sklep dla surferów w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 200.00 zł · EAN: 05702015866439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41315 |
+| Nazwa angielska | Heartlake Surf Shop |
+| Nazwa polska | Sklep dla surferów w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 186 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 17 cm |
+| EAN | 5702015866439 |
 
 LEGO 41315 Friends - Sklep dla surferów w Heartlake
 
@@ -3671,11 +5856,27 @@ Sklep dla surferów w Heartlake z serii LEGO® Friends zawiera kasę i różnego
 - Sklep dla surferów ma ok. 11 cm wysokości, 14 cm szerokości i 17 cm głębokości. 
 - Kajak ma ok. 12 cm długości, 1 cm wysokości i 2 cm szerokości.
 
+**Galeria:**
+
+- 41315-1: https://a.allegroimg.com/original/11f36c/517a50a142cbbed61ae3c4f9dbc9
+
 ---
 
-## 41316 — Lego Friends 41316 Transporter Motorówek Andrei
+## 41316 — Transport skutera
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 248.00 zł · EAN: 05702015866453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41316 |
+| Nazwa angielska | Andrea's Speedboat Transporter |
+| Nazwa polska | Transport skutera |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702015866453 |
 
 LEGO FRIENDS 41316 TRANSPORTER MOTORÓWEK ANDREI
 
@@ -3707,11 +5908,27 @@ Ta zabawka **zapewni dzieciom nie tylko świetną rozrywkę**, ale też sporą d
 - **Gwarancja jakości —** elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - **Pewność i bezpieczeństwo –** elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41316-1: https://a.allegroimg.com/original/118472/cfbee5c244f68b56149944d4b729
+
 ---
 
-## 41317 — Lego Friends 41317 nowy zestaw Julivo
+## 41317 — Słoneczny katamaran
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 455.00 zł · EAN: 05702015866460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41317 |
+| Nazwa angielska | Sunshine Catamaran |
+| Nazwa polska | Słoneczny katamaran |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 603 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866460 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -3750,11 +5967,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41317-1: https://a.allegroimg.com/original/11d2c7/8b788d1e46e49ba1239054ac4a86
+
 ---
 
-## 41318 — Lego Friends 41318 Szpital w Heartlake
+## 41318 — LEGO 41318 - Szpital w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1597.97 zł · EAN: 05702015866477 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41318 |
+| Nazwa angielska | Heartlake Hospital |
+| Nazwa polska | LEGO 41318 - Szpital w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 871 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 30 cm × gł. 7 cm |
+| EAN | 5702015866477 |
 
 LEGO Friends 41318 - Szpital w Heartlake
 
@@ -3815,11 +6048,27 @@ LEGO® 41318 Friends - Szpital w Heartlake
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 41318-1: https://a.allegroimg.com/original/1129e0/c7f9588e494682f598996fd84fe9
+
 ---
 
-## 41319 — Lego Friends 41319 Furgonetka z gorącą czekoladą Nowe
+## 41319 — 41319
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 252.00 zł · EAN: 05702015866491 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41319 |
+| Nazwa angielska | Snow Resort Hot Chocolate Van |
+| Nazwa polska | 41319 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 5 cm |
+| EAN | 5702015866491 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3841,11 +6090,27 @@ Pokieruj furgonetką z gorącą czekoladą z obracającym się logo w kształcie
 - Podwójna zjeżdżalnia ma ok. 8 cm wysokości, 6 cm szerokości i 6 cm głębokości. 
 - Sanki mają ok. 4 cm długości, 1 cm wysokości i 1 cm szerokości.
 
+**Galeria:**
+
+- 41319-1: https://a.allegroimg.com/original/11f37f/aa2e9f684452a7fdb858f111db26
+
 ---
 
-## 41320 — Lego Friends 41320 Sklep z mrożonym jogurtem
+## 41320 — Sklep z mrożonym jogurtem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015866514 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41320 |
+| Nazwa angielska | Heartlake Frozen Yogurt Shop |
+| Nazwa polska | Sklep z mrożonym jogurtem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 370 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 28 cm × gł. 12 cm |
+| EAN | 5702015866514 |
 
 Spróbuj pysznego mrożonego jogurtu w najfajniejszym lokalu w Heartlake!
  
@@ -3857,11 +6122,27 @@ Zestaw zawiera dwie minilaleczki.
 - 15 cm wysokości, 28 cm szerokości i 12 cm głębokości. 
 - Samochód ma ok. 3 cm wysokości, 9 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 41320-1: https://a.allegroimg.com/original/0078e0/063e857a4882a32ce9bfecdd53bc
+
 ---
 
-## 41321 — Lego Friends 41321 Wycieczka samochodem terenowym Nowe
+## 41321 — Wycieczka samochodem terenowym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702015866538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41321 |
+| Nazwa angielska | Snow Resort Off-Roader |
+| Nazwa polska | Wycieczka samochodem terenowym |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm |
+| EAN | 5702015866538 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3882,11 +6163,27 @@ Ta sportowa terenówka jest idealna do jeżdżenia po śniegu. Otwórz bagażnik
 - Terenówka ma ok. 7 cm wysokości, 12 cm długości i 5 cm szerokości. 
 - Rampa do snowboardingu ma ok. 9 cm szerokości, 4 cm głębokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 41321-1: https://a.allegroimg.com/original/11d1fa/e1b171504fa3a8b61ac1a1de049d
+
 ---
 
-## 41322 — Lego Friends 41322 Lodowisko w zimowym kurorcie
+## 41322 — Lodowisko w zimowym kurorcie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 363.83 zł · EAN: 05702015866545 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41322 |
+| Nazwa angielska | Snow Resort Ice Rink |
+| Nazwa polska | Lodowisko w zimowym kurorcie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702015866545 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3930,11 +6227,27 @@ Przygotuj saksofon lub mikrofon dla Nate’a i zakręć obrotową sceną, by urz
  
 **Budynek lodowiska** ma ok. 12 cm wysokości, 19 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41322-1: https://a.allegroimg.com/original/05f036/ea76f43b42319bb81e2b173529c3
+
 ---
 
-## 41323 — Lego Friends 41323 Górski domek Nowe
+## 41323 — Górski domek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 472.00 zł · EAN: 05702015866552 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41323 |
+| Nazwa angielska | Snow Resort Chalet |
+| Nazwa polska | Górski domek |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 402 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 16 cm × gł. 15 cm |
+| EAN | 5702015866552 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -3954,11 +6267,27 @@ Domek w zimowym kurorcie z serii LEGO® Friends ma jacuzzi na zewnątrz, kuchni�
 - Domek ma ok. 15 cm wysokości, 16 cm szerokości i 15 cm głębokości. 
 - Skuter śnieżny ma ok. 4 cm wysokości, 11 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 41323-1: https://a.allegroimg.com/original/11df1b/8a932e2046fcad9fb4d7e3919834
+
 ---
 
-## 41324 — Klocki Lego Friends Wyciąg narciarski w zimowym kurorcie 41324
+## 41324 — Wyciąg narciarski w zimowym kurorcie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 698.54 zł · EAN: 05702015866569 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41324 |
+| Nazwa angielska | Snow Resort Ski Lift |
+| Nazwa polska | Wyciąg narciarski w zimowym kurorcie |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 585 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 39 cm × gł. 24 cm |
+| EAN | 5702015866569 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4003,11 +6332,27 @@ Cechy zestawu:
 - Stoisko z mapami szlaku ma ok. 7 cm wysokości, 3 cm szerokości i 3 cm głębokości. 
 - Mały stok ma ok. 3 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41324-1: https://a.allegroimg.com/original/001095/23230df94cde921535f6d3a26d46
+
 ---
 
-## 41325 — Lego Friends 41325 Plac zabaw w Heartlake Nowe
+## 41325 — Plac zabaw w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 428.00 zł · EAN: 05702015865906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41325 |
+| Nazwa angielska | Heartlake City Playground |
+| Nazwa polska | Plac zabaw w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 326 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 23 cm × gł. 12 cm |
+| EAN | 5702015865906 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4027,11 +6372,27 @@ Mia i Sienna uwielbiają spędzać czas z pieskiem Pippą na Placu zabaw w Heart
 - Ten zestaw jest odpowiedni dla dzieci w wieku 6–12 lat. 
 - Plac zabaw ma ok. 19 cm wysokości, 23 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 41325-1: https://a.allegroimg.com/original/110bc5/eee935474c7d88e49be1cabf72cf
+
 ---
 
-## 41327 — Lego 41327 Friends Sypialnia MII
+## 41327 — Sypialnia Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 69.45 zł · EAN: 05702016111279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41327 |
+| Nazwa angielska | Mia's Bedroom |
+| Nazwa polska | Sypialnia Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702016111279 |
 
 LEGO 41327 FRIENDS - SYPIALNIA MII
 
@@ -4063,11 +6424,27 @@ Zestaw do budowania LEGO® Friends Sypialnia Mii ustawiony jest na zielonej pods
 - Sypialnia Mii ma 9 cm wysokości, 9 cm szerokości i 9 cm głębokości,
 - Model można połączyć z zestawami 41328 Sypialnia Stephanie oraz 41329 Sypialnia Olivii, by przeżyć jeszcze więcej przygód LEGO® Friends i zebrać wszystkie podstawki w kształcie serc.
 
+**Galeria:**
+
+- 41327-1: https://a.allegroimg.com/original/11c01c/4da9afe74857896837b7782c3d30
+
 ---
 
-## 41328 — Lego Friends 41328 Klocki Lego Friends 'Sypialnia Stephanie 41328
+## 41328 — Klocki LEGO Friends 'Sypialnia Stephanie 41328
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 99.30 zł · EAN: 05702016111286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41328 |
+| Nazwa angielska | Stephanie's Bedroom |
+| Nazwa polska | Klocki LEGO Friends 'Sypialnia Stephanie 41328 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702016111286 |
 
 **Klocki LEGO Friends Sypialnia Stephanie 41328**
 
@@ -4085,11 +6462,27 @@ Zestaw do budowania LEGO® Friends Sypialnia Stephanie ustawiony jest na niebies
 - Sypialnia Stephanie ma 7 cm wysokości, 9 cm szerokości i 9 cm głębokości. 
 - Model można połączyć z zestawami 41327 Sypialnia Mii oraz 41329 Sypialnia Olivii, by przeżyć jeszcze więcej przygód LEGO® Friends i zebrać wszystkie podstawki w kształcie serc.
 
+**Galeria:**
+
+- 41328-1: https://a.allegroimg.com/original/053a4e/c4b57c1a4f5f83868455639b1393
+
 ---
 
-## 41329 — Lego 41329 Friends Sypialnia Olivii
+## 41329 — Klocki LEGO Friends Sypialnia Olivii 41329
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.45 zł · EAN: 05702016111293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41329 |
+| Nazwa angielska | Olivia's Deluxe Bedroom |
+| Nazwa polska | Klocki LEGO Friends Sypialnia Olivii 41329 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702016111293 |
 
 LEGO 41329 FRIENDS - SYPIALNIA OLIVII
 
@@ -4122,11 +6515,27 @@ Zestaw LEGO® Friends Sypialnia Olivii ustawiony jest na różowej podstawce w k
 - Stolik śniadaniowy ma ok. 6 cm wysokości, 6 cm szerokości i 4 cm głębokości,
 - Model można połączyć z zestawami 41327 Sypialnia Mii oraz 41328 Sypialnia Stephanie, by przeżyć jeszcze więcej przygód LEGO® Friends i zebrać wszystkie podstawki w kształcie serc.
 
+**Galeria:**
+
+- 41329-1: https://a.allegroimg.com/original/11b345/accb641a4baf9ab8ae528e0c0e3a
+
 ---
 
-## 41330 — Klocki Lego Friends 41330 Trening piłkarski Stephanie
+## 41330 — Trening piłkarski Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702016077421 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41330 |
+| Nazwa angielska | Stephanie's Soccer Practice |
+| Nazwa polska | Trening piłkarski Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702016077421 |
 
 Klocki LEGO Friends 41330 - Trening piłkarski Stephanie
 
@@ -4158,11 +6567,27 @@ Wyrzutnia piłek ma ok. 4 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 
 Tablica ze strategią meczu ma ok. 4 cm wysokości, 3 cm szerokości i 1 cm głębokości.
 
+**Galeria:**
+
+- 41330-1: https://a.allegroimg.com/original/11658a/d8c1d7184f268cf85d75e4168c16
+
 ---
 
-## 41332 — Lego Friends 41332 Stoisko z rysunkami Emmy
+## 41332 — Stoisko z rysunkami Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016077438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41332 |
+| Nazwa angielska | Emma's Art Stand |
+| Nazwa polska | Stoisko z rysunkami Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702016077438 |
 
 LEGO Friends 41332 Stoisko z rysunkami Emmy
  
@@ -4185,11 +6610,27 @@ Stoisko z rysunkami Emmy z tego fajnego zestawu LEGO® możesz zawieźć skutere
 
 **UWAGA! OPAKOWANIE ZEWNĘTRZNE USZKODZONE (KARTON POGNIECIONY I NIECO ROZERWANY)**
 
+**Galeria:**
+
+- 41332-1: https://a.allegroimg.com/original/002779/df8773a146998a0486837d441b9d
+
 ---
 
-## 41334 — Lego Friends 41334 Klocki Lego Friends Pokaz Andrei w parku
+## 41334 — Klocki LEGO Friends Pokaz Andrei w parku 41334
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702016077445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41334 |
+| Nazwa angielska | Andrea's Park Performance |
+| Nazwa polska | Klocki LEGO Friends Pokaz Andrei w parku 41334 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 229 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016077445 |
 
 **LEGO FRIENDS 41334**
  
@@ -4219,11 +6660,27 @@ Zostań gwiazdą estrady podczas popołudniowych występów w parku w Mieście H
  
 **35 cm * 19 cm * 5 cm ***
 
+**Galeria:**
+
+- 41334-1: https://a.allegroimg.com/original/05ad4e/fedc43cb4eed85cdab78ffd56c8d
+
 ---
 
-## 41335 — Lego Friends 41335 Domek Na Drzewie MII
+## 41335 — DOMEK NA DRZEWIE MII
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 378.00 zł · EAN: 05702016077452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41335 |
+| Nazwa angielska | Mia's Tree House |
+| Nazwa polska | DOMEK NA DRZEWIE MII |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016077452 |
 
 LEGO FRIENDS DOMEK NA DRZEWIE MII 41335
 
@@ -4246,11 +6703,27 @@ Pomóż Mii zamienić domek na drzewie jej brata w idealne miejsce do spotkań d
 - **Typ:** Waga jednostkowa brutto 
 - **Konstrukcyjne:** 0,6 kg
 
+**Galeria:**
+
+- 41335-1: https://9.allegroimg.com/original/00e225/becf62a14084ae3bb0f07422aaa9
+
 ---
 
-## 41336 — Lego Friends 41336 Artystyczna kawiarnia Emmy
+## 41336 — Artystyczna kawiarnia Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016111590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41336 |
+| Nazwa angielska | Emma's Art Café |
+| Nazwa polska | Artystyczna kawiarnia Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 378 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111590 |
 
 LEGO FRIENDS 41336 ARTYSTYCZNA KAWIARNIA EMMY
 
@@ -4286,11 +6759,27 @@ Wybierz się do Artystycznej kawiarni, by podziwiać świetne graffiti Prankzy'e
  
 - ławkę na zewnątrz
 
+**Galeria:**
+
+- 41336-1: https://a.allegroimg.com/original/1110b9/a21fa6de4a6783ea31502bf1f657
+
 ---
 
-## 41338 — Lego Friends 41338 Stadion sportowy Stephanie
+## 41338 — Klocki LEGO Friends Stadion sportowy Stephanie 41338
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 285.24 zł · EAN: 05702016111606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41338 |
+| Nazwa angielska | Stephanie's Sports Arena |
+| Nazwa polska | Klocki LEGO Friends Stadion sportowy Stephanie 41338 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 460 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 22 cm × gł. 8 cm |
+| EAN | 5702016111606 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4352,11 +6841,27 @@ Spotkaj się ze Stephanie na treningu i przećwicz jej ulubione dyscypliny sport
 
 **38 cm * 26 cm * 6 cm ***
 
+**Galeria:**
+
+- 41338-1: https://a.allegroimg.com/original/055e83/837076e54745b050423dd26e86a9
+
 ---
 
-## 41339 — Lego Friends 41339 Samochód kempingowy Mii Nowe
+## 41339 — Samochód kempingowy Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 615.00 zł · EAN: 05702016111613 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41339 |
+| Nazwa angielska | Mia's Camper Van |
+| Nazwa polska | Samochód kempingowy Mii |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 488 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 11 cm |
+| EAN | 5702016111613 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4380,11 +6885,27 @@ Wybierz się na kempingową przygodę na wsi z Mią i Stephanie. Ustaw markizę 
 - Namiot ma ok. 5 cm wysokości, 6 cm szerokości i 6 cm głębokości. 
 - Nadmuchiwany ponton ma ok. 9 cm szerokości, 5 cm głębokości i 1 cm wysokości.
 
+**Galeria:**
+
+- 41339-1: https://a.allegroimg.com/original/1163f1/4ad2a7984f918db43d40cc5824f4
+
 ---
 
-## 41340 — Lego Friends 41340 Dom Przyjaźni
+## 41340 — Dom Przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 735.00 zł · EAN: 05702016111620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41340 |
+| Nazwa angielska | Friendship House |
+| Nazwa polska | Dom Przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 722 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 24 cm × gł. 12 cm |
+| EAN | 5702016111620 |
 
 **LEGO**
  
@@ -4422,11 +6943,27 @@ Zestaw Dom przyjaźni z serii LEGO® Friends to fantastyczne miejsce do przeży
 - Rower z przyczepką ma ok. 10 cm długości, 4 cm szerokości i 1 cm wysokości.
 - Zaparkuj w garażu Furgonetkę Olivii z zestawu 41330, by jeszcze szybciej wykonywać swoje misje!
 
+**Galeria:**
+
+- 41340-1: https://3.allegroimg.com/original/006777/bc3d6c194bf1b1f981a06c2138e3
+
 ---
 
-## 41341 — Lego Friends 41341 Friends
+## 41341 — Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 140.00 zł · EAN: 05702016111637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41341 |
+| Nazwa angielska | Andrea's Bedroom |
+| Nazwa polska | Friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111637 |
 
 KLOCKI LEGO FRIENDS SYPIALNIA ANDREI 41341
 
@@ -4463,11 +7000,27 @@ Baw się i śpiewaj z Andreą i jej papugą Pepperem w zestawie LEGO® Friends 4
 - **Poziom trudności złożenia:** Trudny 
 - **Rodzaj:** Plastikowe > Klocki dla dzieci Plastikowe
 
+**Galeria:**
+
+- 41341-1: https://a.allegroimg.com/original/00d7a0/426a66b543ccb7829f17a0ce337c
+
 ---
 
-## 41343 — Lego Friends Lot samolotem nad miastem Heartlake 41343
+## 41343 — 41343
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702016111651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41343 |
+| Nazwa angielska | Heartlake City Airplane Tour |
+| Nazwa polska | 41343 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 323 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111651 |
 
 **KLOCKI LEGO FRIENDS 41343 LOT SAMOLOTEM NAD HEARTLAKE**
  
@@ -4498,11 +7051,27 @@ Pomóż Zobo i Rumble’owi przygotować samolot do startu i zająć miejsca za 
 - wymiary budynku lotniska: 13x13x6 cm 
 - wymiary stanowisko do tankowania: 4x5x3 cm
 
+**Galeria:**
+
+- 41343-1: https://a.allegroimg.com/original/11efe9/2b1925d8418092b8a63d662f1fcb
+
 ---
 
-## 41344 — Lego Friends 41344 Sklep z akcesoriami Andrei Nowe
+## 41344 — Sklep z akcesoriami Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 256.51 zł · EAN: 05702016111668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41344 |
+| Nazwa angielska | Andrea's Accessories Store |
+| Nazwa polska | Sklep z akcesoriami Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 3 cm × gł. 9 cm |
+| EAN | 5702016111668 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4521,11 +7090,27 @@ Lubisz bawić się modą? Kupowanie ciuchów to Twoja pasja? Zmień stylizację 
 - Wymiary sklepu: ok. 13 cm wysokości, 3 cm szerokości, 9 cm głębokości. 
 - Wymiary przymierzalni: ok. 6 cm wysokości, 3 cm szerokości,4 cm głębokości.
 
+**Galeria:**
+
+- 41344-1: https://a.allegroimg.com/original/11672d/c2487055482cbf3470ea85850fb7
+
 ---
 
-## 41345 — Klocki Lego Friends centrum zoologiczne 41345
+## 41345 — Lego
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 669.00 zł · EAN: 05702016111972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41345 |
+| Nazwa angielska | Heartlake City Pet Center |
+| Nazwa polska | Lego |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 474 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111972 |
 
 **Centrum zoologiczne w Heartlake**
  
@@ -4547,11 +7132,26 @@ W zestawie jest też furgonetka salonu pielęgnacji i wózek dostawczy.
  
 W klinice weterynaryjnej jest stół do badań, waga i posłanie
 
+**Galeria:**
+
+- 41345-1: https://a.allegroimg.com/original/111a2a/e80c8ab14281b0746c12e2bd3218
+
 ---
 
-## 41346 — Lego Friends 41346 Pudełko Przyjaźni
+## 41346 — brak informacji
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 174.80 zł · EAN: 05702016111989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41346 |
+| Nazwa angielska | Friendship Box |
+| Nazwa polska | brak informacji |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 563 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 5 cm × gł. 5 cm |
+| EAN | 5702016111989, 673419283502 |
 
 LEGO Friends 41346 Pudełko Przyjaźni
 
@@ -4575,11 +7175,28 @@ Zestaw LEGO® Friends 41346 Pudełko przyjaźni zawiera kolorowe klocki LEGO, z 
 
 • Robot ma ok. 16 cm wysokości, 8 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 41346-1: https://a.allegroimg.com/original/119b69/1ee5a84847fab349d9cc8dac10e0
+- 41346-2: https://a.allegroimg.com/original/119a9d/e90bb02a4898a9b6a41e66a105bf
+
 ---
 
-## 41347 — Lego Friends 41347 Heartlake City Resort Nowe
+## 41347 — Heartlake City Resort
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016111996 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41347 |
+| Nazwa angielska | Heartlake City Resort |
+| Nazwa polska | Heartlake City Resort |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1017 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 51 cm × gł. 29 cm |
+| EAN | 5702016111996 |
 
 LEGO FRIENDS
  
@@ -4599,11 +7216,27 @@ Cechy zestawu:
 - Kurort w Heartlake ma ok. 26 cm wysokości, 51 cm szerokości i 29 cm głębokości. 
 - Kolejka jednoszynowa ma ok. 7 cm wysokości, 6 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 41347-1: https://a.allegroimg.com/original/009511/ac00f84d4e01a63c9b9769a7c5f0
+
 ---
 
-## 41348 — Klocki Lego Friends Furgonetka usługowa 41348
+## 41348 — lego
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702016112009 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41348 |
+| Nazwa angielska | Service & Care Truck |
+| Nazwa polska | lego |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702016112009, 673419283526 |
 
 LEGO Friends, Furgonetka usługowa, 41348
 
@@ -4619,11 +7252,28 @@ Olivia zawsze jest gotowa przybyć na pomoc przyjaciołom podczas wyścigów w s
 - Gokart Olivii ma ok. 4 cm wysokości, 7 cm długości i 4 cm szerokości.
 - Połącz z zestawami 41349 Pływająca restauracja, 41351 Kreatywny warsztat tuningowy i 41352 Dzień wielkiego wyścigu, by wyścigowa zabawa LEGO Friends była jeszcze lepsza!
 
+**Galeria:**
+
+- 41348-1: https://a.allegroimg.com/original/11a8bc/a8ef5cc049d79849cb100ffe33a9
+- 41348-2: https://1.allegroimg.com/original/0071e7/33b6c89e4e3c854c37dbcaf10a71
+
 ---
 
-## 41349 — Klocki Lego Friends Wyścigowa restauracja 41349
+## 41349 — Wyścigowa restauracja
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 252.25 zł · EAN: 05702016112016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41349 |
+| Nazwa angielska | Drifting Diner |
+| Nazwa polska | Wyścigowa restauracja |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702016112016, 673419283533 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -4677,11 +7327,28 @@ kino samochodowe ma ok. 10 cm wysokości, 9 cm szerokości i 6 cm głębokości
  
 gokart ma ok. 3 cm wysokości, 7 cm długości i 3 cm szerokości
 
+**Galeria:**
+
+- 41349-1: https://6.allegroimg.com/original/005498/99550c914cd2adbe2f03b33f5016
+- 41349-2: https://a.allegroimg.com/original/000e1a/b1d6e129497a9ef43cd65961c1ed
+
 ---
 
-## 41350 — Lego Friends 41350 Myjnia samochodowa
+## 41350 — Myjnia samochodowa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 449.50 zł · EAN: 05702016112023 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41350 |
+| Nazwa angielska | Spinning Brushes Car Wash |
+| Nazwa polska | Myjnia samochodowa |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 27 cm × gł. 20 cm |
+| EAN | 5702016112023 |
 
 Myjnia samochodowa z zestawu LEGO® Friends 41350 sprawi, że po emocjonującym dniu wyścigów gokart Mii będzie znów lśnił czystością! Przekręć czerwone pokrętło, a gokart zacznie powoli przesuwać się między dużymi obrotowymi szczotkami. Gdy będzie już czysty i suchy, zatankuj na stacji benzynowej i kup sobie kawę i rogalika w kasie. Mia może znów ruszać w trasę!
  
@@ -4696,11 +7363,27 @@ Przyjaciółki zawsze czyszczą swoje gokarty przed wyścigiem w myjni z zestawu
 - Gokart ma ponad 3 cm wysokości, 7 cm długości i 3 cm szerokości. 
 - Połącz z zestawami 41348 Furgonetka usługowa, 41349 Wyścigowa restauracja, 41351 Kreatywny warsztat tuningowy i 41352 Dzień wielkiego wyścigu, by wyścigowa zabawa LEGO® Friends była jeszcze lepsza!
 
+**Galeria:**
+
+- 41350-1: https://a.allegroimg.com/original/05ee32/bfbfa74a4147aea227ea4fb58f2b
+
 ---
 
-## 41351 — Lego Friends 41351 Kreatywny warsztat papierowa torba Lego!
+## 41351 — Kreatywny warsztat
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 162.88 zł · EAN: 05702016112030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41351 |
+| Nazwa angielska | Creative Tuning Shop |
+| Nazwa polska | Kreatywny warsztat |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 413 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112030 |
 
 **Lego Friends 41351 Kreatywny Warsztat**
 
@@ -4715,11 +7398,27 @@ Zestaw LEGO® Friends 41351 Kreatywny warsztat obejmuje salon wystawowy z przesu
 
 **W tym zestawie otrzymujesz klocki LEGO 41351 wraz z papierową torbą LEGO!**
 
+**Galeria:**
+
+- 41351-1: https://a.allegroimg.com/original/116b96/3c79c05e44ceab9f3a7f2103cee3
+
 ---
 
-## 41352 — Lego Friends 41352 Dzień Wielkiego Wyścigu
+## 41352 — DZIEŃ WIELKIEGO WYŚCIGU
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 295.50 zł · EAN: 05702016112047 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41352 |
+| Nazwa angielska | The Big Race Day |
+| Nazwa polska | DZIEŃ WIELKIEGO WYŚCIGU |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 648 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016112047 |
 
 LEGO Friends 41352 Dzień wielkiego wyścigu
  
@@ -4735,11 +7434,27 @@ Zestaw LEGO® Friends 41352 Dzień wielkiego wyścigu to emocjonujący wyścig g
 - Usadź zwierzątka w loży dla VIP-ów, by miały świetny widok na cały wyścig. 
 - Użyj wyrzutni gokartów ustawionych na linii startowej, by pomóc dziewczętom rozpocząć zawody!
 
+**Galeria:**
+
+- 41352-1: https://a.allegroimg.com/original/11710b/5043683a4427a27ad89605954ea7
+
 ---
 
-## 41354 — Lego Friends 41354 Pudełko w kształcie serca Andrei
+## 41354 — Pudełko w kształcie serca Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016368727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41354 |
+| Nazwa angielska | Andrea's Heart Box |
+| Nazwa polska | Pudełko w kształcie serca Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368727 |
 
 KLOCKI LEGO FRIENDS PUDEŁKO W KSZTAŁCIE SERCA ANDREI 41354
 
@@ -4763,11 +7478,27 @@ Cały świat może być sceną z zestawem LEGO® Friends 41354 Pudełko w kszta�
 - **Liczba elementów w zestawie:** 84 szt. 
 - **Typ:** Konstrukcyjne
 
+**Galeria:**
+
+- 41354-1: https://a.allegroimg.com/original/05a5c7/91b7cd2445c0a5e8678893958578
+
 ---
 
-## 41355 — Lego 41355 Friends Pudełko W Kształcie Serca Emmy
+## 41355 — PUDEŁKO W KSZTAŁCIE SERCA EMMY
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016368734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41355 |
+| Nazwa angielska | Emma's Heart Box |
+| Nazwa polska | PUDEŁKO W KSZTAŁCIE SERCA EMMY |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702016368734, 673419300247 |
 
 LEGO 41355 FRIENDS - PUDEŁKO W KSZTAŁCIE SERCA EMMY
 
@@ -4799,11 +7530,28 @@ LEGO® Friends 41355 Pudełko w kształcie serca Emmy to idealny prezent dla art
 - Zestaw można ustawić w wieżę z innymi pudełkami z serii: LEGO® Friends 41354 Pudełko w kształcie serca Andrei, 41356 Pudełko w kształcie serca Stephanie, 41357 Pudełko w kształcie serca Olivii oraz 41358 Pudełko w kształcie serca Mii. Poznaj zainteresowania wszystkich przyjaciółek z Miasta Heartlake,
 - Model ma ok. 3 cm wysokości, 8 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 41355-1: https://a.allegroimg.com/original/11386b/69327fcb46da885795c8d62dd53b
+- 41355-2: https://a.allegroimg.com/original/059684/d0eb20a44c2787ef7eceb42d27fc
+
 ---
 
-## 41356 — Lego 41356 Friends Pudełko w kształcie serca Stephanie Pizza Tennis
+## 41356 — Pudełko w kształcie serca Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 89.50 zł · EAN: 05702016368741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41356 |
+| Nazwa angielska | Stephanie's Heart Box |
+| Nazwa polska | Pudełko w kształcie serca Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702016368741 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -4835,11 +7583,27 @@ LEGO® Friends 41356 Pudełko w kształcie serca Stephanie to urocza przenośna 
 
 - Model ma ok. 3 cm wysokości, 8 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 41356-1: https://a.allegroimg.com/original/25b51f/d23aa0eb4672835ff33771b0c5b2
+
 ---
 
-## 41357 — Lego Friends 41357 Pudełko Olivii
+## 41357 — Pudełko Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702016368758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41357 |
+| Nazwa angielska | Olivia's Heart Box |
+| Nazwa polska | Pudełko Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702016368758 |
 
 LEGO FRIENDS Pudełko w kształcie serca Olivi 41357
 
@@ -4858,11 +7622,27 @@ Podnieś wieczko modelu LEGO® Friends 41357 Pudełko w kształcie serca Olivii,
 - Ten zestaw kolekcjonerski można ustawić w wieżę z innymi pudełkami z serii: LEGO® Friends 41354 Pudełko w kształcie serca Andrei, 41355 Pudełko w kształcie serca Emmy, 41356 Pudełko w kształcie serca Stephanie oraz 41358 Pudełko w kształcie serca Mii. Poznaj zainteresowania wszystkich przyjaciółek z Miasta Heartlake! 
 - Model ma ok. 3 cm wysokości, 8 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 41357-1: https://a.allegroimg.com/original/11473e/58f4624d47b5b7dadcfbf65f2e5b
+
 ---
 
-## 41358 — Lego Friends 41358 Pudełko Mii
+## 41358 — Pudełko w kształcie serca Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.49 zł · EAN: 05702016368765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41358 |
+| Nazwa angielska | Mia's Heart Box |
+| Nazwa polska | Pudełko w kształcie serca Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702016368765, 673419303477 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -4904,11 +7684,28 @@ Podnieś wieczko modelu LEGO® Friends 41357 Pudełko w kształcie serca Olivii,
 
 **• Model ma ok. 3 cm wysokości, 8 cm szerokości i 8 cm głębokości.**
 
+**Galeria:**
+
+- 41358-1: https://2.allegroimg.com/original/03b4d6/73fc60ed4cd891848a176ad93202
+- 41358-2: https://a.allegroimg.com/original/1176ca/4dda7935408c820a89dd8dc8b6b6
+
 ---
 
-## 41359 — Lego Friends 41359 Pudełko w kształcie serca zestaw przyjaźni
+## 41359 — Pudełko w kształcie serca - zestaw przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 186.00 zł · EAN: 05702016369472 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41359 |
+| Nazwa angielska | Heart Box Friendship Pack |
+| Nazwa polska | Pudełko w kształcie serca - zestaw przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 13 cm × gł. 11 cm |
+| EAN | 5702016369472 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -4954,11 +7751,27 @@ Podnieś wieczko modelu LEGO® Friends 41357 Pudełko w kształcie serca Olivii,
  
 **• Duże pudełko w kształcie serca ma ok. 3 cm wysokości, 13 cm szerokości i 11 cm głębokości**
 
+**Galeria:**
+
+- 41359-1: https://a.allegroimg.com/original/25a891/684ca9b64b36b148f52f6e9b76cc
+
 ---
 
-## 41360 — Lego Friends 41360 Mobilna klinika weterynaryjna Emmy Klocki Nowe zwierzęta
+## 41360 — Klinika Weterynaryjna
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 95.31 zł · EAN: 00673419303996 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41360 |
+| Nazwa angielska | Emma's Mobile Vet Clinic |
+| Nazwa polska | Klinika Weterynaryjna |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702016370249, 673419303996 |
 
 LEGO 41360 Friends - Mobilna klinika weterynaryjna Emmy
 
@@ -4998,11 +7811,28 @@ Ten prosty zestaw dla dzieci zawiera akcesoria weterynaryjne zapewniające dług
 
 - Model ma ok. 4 cm wysokości, 9 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 41360-1: https://a.allegroimg.com/original/25273d/bdfb204740729d23acf96a65c6af
+- 41360-2: https://a.allegroimg.com/original/11d062/4b29158d4e48bfa4195478ad11d2
+
 ---
 
-## 41361 — Lego 41361 Friends Stajnia ze źrebakami Mii
+## 41361 — Stajnia ze źrebakami Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 174.99 zł · EAN: 00673419304009 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41361 |
+| Nazwa angielska | Mia's Foal Stable |
+| Nazwa polska | Stajnia ze źrebakami Mii |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 673419304009 |
 
 LEGO 41361 Friends - Stajnia ze źrebakami Mii
 
@@ -5023,19 +7853,51 @@ Zestaw zawiera proste instrukcje, które pomogą zacząć budowanie i zabawę, a
 - Stajnia LEGO Friends ma ok. 6 cm wysokości, 14 cm szerokości i 8 cm głębokości.
 - Traktor ma ok. 4 cm wysokości, 10 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 41361-1: https://a.allegroimg.com/original/05c1c3/e8e2240840aa97fabc8a83ac1fae
+
 ---
 
-## 41362 — Klocki Lego Friends Supermarket w Heartlake 41362
+## 41362 — LEGO KLOCKI FRIENDS 41362 Supermarket w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 185.00 zł · EAN: 05702016370263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41362 |
+| Nazwa angielska | Heartlake City Supermarket |
+| Nazwa polska | LEGO KLOCKI FRIENDS 41362 Supermarket w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 17 cm × gł. 8 cm |
+| EAN | 5702016370263 |
 
 - Zestawy LEGO(R) 4+ są zaprojektowane z myślą o małych dzieciach. Budowanie tych ciekawych modeli jest bardzo łatwe, co pomaga początkującym konstruktorom LEGO rozwijać pewność siebie.- W zestawie dwie minilaleczki: Stephanie i Olivia.- W komplecie łatwy do zbudowania samochodzik, supermarket z kasą oraz osobna lodziarnia.- Zestawy LEGO(R) 4+ wprowadzą Twoje dziecko w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego.- Zestawy LEGO(R) 4+, znane wcześniej pod nazwą LEGO Juniors, są zgodne ze wszystkimi zestawami konstrukcyjnymi LEGO.- Doskonały prezent świąteczny dla przedszkolaków i kreatywnych dzieci.- Ten zestaw konstrukcyjny jest częścią serii LEGO(R) Friends ukazującej bohaterów oraz sceny z życia codziennego.- Supermarket ma ok. 9 cm wysokości, 17 cm szerokości i 8 cm głębokości.- Samochód ma ok. 4 cm wysokości, 8 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 41362-1: https://a.allegroimg.com/original/00c043/9c0ed92a425ca1d69a99499fc751
+
 ---
 
-## 41363 — Lego 41363 Friends Friends Leśna przygoda Mii
+## 41363 — Friends Leśna przygoda Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702016369380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41363 |
+| Nazwa angielska | Mia's Forest Adventure |
+| Nazwa polska | Friends Leśna przygoda Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369380 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -5045,11 +7907,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 41363-1: https://a.allegroimg.com/original/11952b/5ce61a0445fea0bfc7d0f923f5f0
+
 ---
 
-## 41364 — Lego Friends 41364 Łazik z przyczepką Stephanie
+## 41364 — Łazik z przyczepką Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702016369397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41364 |
+| Nazwa angielska | Stephanie's Buggy & Trailer |
+| Nazwa polska | Łazik z przyczepką Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369397 |
 
 LEGO Friends 41364
 
@@ -5059,11 +7937,27 @@ LEGO Friends 41364
 
 Wybierz się na całodniową wycieczkę z zestawem LEGO® Friends 41364 Łazik z przyczepką Stephanie. Przebojowa miłośniczka przyrody jest gotowa na dzień pełen wrażeń. Dołącz przyczepkę z dachem na zawiasach do terenowego łazika i załaduj do niej sprzęt sportowy. Możesz zwiedzić okolicę ze Stephanie na rowerze lub desce do paddleboardingu albo pograć w speedballa przy ognisku. Wystarczy kask i odrobina wyobraźni! W zestawie minilaleczka Stephanie oraz figurki psa i żaby.
 
+**Galeria:**
+
+- 41364-1: https://a.allegroimg.com/original/05cba9/5671c6844f569bbc1831b04f7f70
+
 ---
 
-## 41365 — Lego Friends 41365 Atelier Emmy
+## 41365 — Atelier Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 218.00 zł · EAN: 05702016369403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41365 |
+| Nazwa angielska | Emma's Art Studio |
+| Nazwa polska | Atelier Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016369403 |
 
 Dzieci mogą puścić wodze fantazji i „pomalować magiczne płótno - wystarczy zwilżyć je wodą, by ukazał się na nim obrazek. Dodatkowo pokrętło na kole garncarskim pozwala obrócić rzeźbę. Twórczą zabawę można kontynuować na dachu - zrelaksuj się w kawiarence przy filiżance kawy i kawałku ciasta lub pobaw się z kotem Chico. W zestawie są dwie minilaleczki: Emma i Andrea oraz figurka kota.
  
@@ -5074,11 +7968,27 @@ Dzieci mogą puścić wodze fantazji i „pomalować magiczne płótno - wystarc
 - Zestawy LEGO Friends zachęcają do twórczej zabawy w budowanie pomysłowych modeli. 
 - Model ma ok. 16 cm wysokości, 9 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 41365-1: https://a.allegroimg.com/original/00c7d0/9fc7a46e49e580b77004d22e8df2
+
 ---
 
-## 41366 — Lego 41366 Friends Cukiernia Z Babeczkami LIVII
+## 41366 — Lego cukiernia z babeczkami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 174.50 zł · EAN: 05702016369410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41366 |
+| Nazwa angielska | Olivia's Cupcake Cafe |
+| Nazwa polska | Lego cukiernia z babeczkami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 335 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369410 |
 
 LEGO 41366 Friends Cukiernia z babeczkami Olivii
 
@@ -5110,11 +8020,27 @@ Zasmakuj połączenia technologii i gastronomii w zestawie LEGO® Friends 41366
 
 - Kup smakołyk w niezwykłej maszynie do wydawania babeczek lub wybierz coś z obrotowej tacy inspirowanej restauracjami z sushi. Tacę można ozdobić dołączonymi holograficznymi naklejkami, żeby błyszczała się podczas obracania.
 
+**Galeria:**
+
+- 41366-1: https://a.allegroimg.com/original/05a9da/fa5edc114240a1cc5a05c4d914b1
+
 ---
 
-## 41367 — Lego Friends 41367 Skoki przez przeszkody Stephanie
+## 41367 — Skoki przez przeszkody Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 237.70 zł · EAN: 00673419303583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41367 |
+| Nazwa angielska | Stephanie's Horse Jumping |
+| Nazwa polska | Skoki przez przeszkody Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 337 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 24 cm × gł. 10 cm |
+| EAN | 673419303583 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5150,11 +8076,27 @@ W zestawie są dwie minilaleczki: Stephanie i Zack oraz dwie figurki koni.
 - Zestawy LEGO Friends zachęcają do twórczej zabawy w budowanie pomysłowych modeli. 
 - Stajnia ma ok. 17 cm wysokości, 24 cm szerokości i 10 cm głębokości.
 
+**Galeria:**
+
+- 41367-1: https://a.allegroimg.com/original/059832/74dc7449465fbee5cc883a2c15d3
+
 ---
 
-## 41368 — Lego Friends 41368 Konkurs talentów Koszalin
+## 41368 — KONKURS TALENTÓW ANDREI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 183.49 zł · EAN: 05702016369434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41368 |
+| Nazwa angielska | Andrea's Talent Show |
+| Nazwa polska | KONKURS TALENTÓW ANDREI |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 492 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369434, 673419303590 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -5204,11 +8146,28 @@ W zestawie są dwie minilaleczki: Stephanie i Zack oraz dwie figurki koni.
 
 **• Do sceny dołącz okrągłą podstawkę z zestawu 41383 Plac zabaw dla chomików Olivii, by poszerzyć konkurs talentów.**
 
+**Galeria:**
+
+- 41368-1: https://e.allegroimg.com/original/009532/74fe9a384116ac9f7584971c023e
+- 41368-2: https://b.allegroimg.com/original/035b71/a0bb509c41cfa989a7f2120bc50b
+
 ---
 
-## 41371 — Lego Friends 41371 nowy zestaw Julivo
+## 41371 — Przyczepa dla konia Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016369151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41371 |
+| Nazwa angielska | Mia's Horse Trailer |
+| Nazwa polska | Przyczepa dla konia Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702016369151 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -5247,11 +8206,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41371-1: https://a.allegroimg.com/original/05b705/e8ba32fc4754bbe17e3fbcec44f2
+
 ---
 
-## 41372 — Lego Friends 41372 Występ gimnastyczny Stephanie Nowe
+## 41372 — Występ gimnastyczny Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702016369168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41372 |
+| Nazwa angielska | Stephanie's Gymnastics Show |
+| Nazwa polska | Występ gimnastyczny Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369168 |
 
 WITAM SERDECZNIE.
 
@@ -5263,11 +8238,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 41372-1: https://a.allegroimg.com/original/116aa4/b1f1a1564f3c956feb58e267dbd7
+
 ---
 
-## 41373 — Lego Friends 41373 Karuzela z ośmiornicą
+## 41373 — LEGO Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 249.90 zł · EAN: 05702016370171 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41373 |
+| Nazwa angielska | Funny Octopus Ride |
+| Nazwa polska | LEGO Friends |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 324 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370171 |
 
 **Lego Friends Karuzela z ośmiornicą 41373**. Odwiedź ze swoim dzieckiem morską karuzelę w fascynującym parku rozrywki! Pozwól swojemu dziecku poznać emocje parku rozrywki na pomoście w zestawie LEGO Friends 41373 Karuzela z ośmiornicą. Dzieciom spodoba się zabawa zwariowaną karuzelą w tym zestawie LEGO Friends. Ma ona korpus ośmiornicy, a na końcu każdej z czterech macek znajdują się wagoniki w kształcie uroczych morskich zwierzątek. Gdy zakręcisz cylindrem ośmiornicy, wagoniki zaczną się obracać oraz poruszać w górę i w dół. W komplecie jest również zbudowana z klocków karnawałowa kasa biletowa z popcornem do kupienia, która zachęci do pomysłowej zabawy. Do tego w aplikacji LEGO Life na smartfonach i tabletach znajdziesz ekstra instrukcje. Łatwe w użyciu i intuicyjne instrukcje można powiększać i obracać, a specjalny tryb podglądu pozwala wizualizować powstający model. Ekstra instrukcje pomogą zwłaszcza młodym konstruktorom, zapewniając im poczucie samodzielności i satysfakcję z ukończonego dzieła. Ten zestaw z parkiem rozrywki zawiera dwie minilaleczki i figurkę ptaka.
  
@@ -5283,11 +8274,27 @@ W cylindrze ośmiornicy znajduje się funkcja, która pozwala obracać samochodz
  
 Dzieci mogą pomóc Andrei robić zdjęcia Ethana na karuzeli.
 
+**Galeria:**
+
+- 41373-1: https://a.allegroimg.com/original/033978/256deba4495b95c378b0823f9fbf
+
 ---
 
-## 41374 — Lego Friends 41374 Impreza Andrei na basenie
+## 41374 — Impreza Andrei na basenie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 388.88 zł · EAN: 05702016370188 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41374 |
+| Nazwa angielska | Andrea's Pool Party |
+| Nazwa polska | Impreza Andrei na basenie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 468 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 29 cm × gł. 20 cm |
+| EAN | 5702016370188 |
 
 LEGO FRIENDS 41374 Impreza Andrei na basenie
 
@@ -5317,11 +8324,27 @@ Dzieci z chęcią wcielą się w rolę Andrei śpiewającej dla swoich przyjaci�
 
 **Elementy 468**
 
+**Galeria:**
+
+- 41374-1: https://a.allegroimg.com/original/1173c1/4cb811ff47f0afd9153d408d2144
+
 ---
 
-## 41375 — Lego Friends 41375 Piracka przygoda w Heartlake Nowe
+## 41375 — Friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702016370195 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41375 |
+| Nazwa angielska | Heartlake City Amusement Pier |
+| Nazwa polska | Friends |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 40 cm |
+| EAN | 5702016370195 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -5352,11 +8375,27 @@ Odwiedź rewelacyjny park rozrywki z zestawu LEGO® Friends 41375 Piracka przygo
 - Piracki statek widmo ma ok. 30 cm wysokości, 17 cm długości i 40 cm szerokości. 
 - Karuzela ma ok. 26 cm wysokości, 18 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 41375-1: https://a.allegroimg.com/original/110b83/b4e0dcbd40f5bd2bc5b76cbc35ef
+
 ---
 
-## 41376 — Lego Klocki Friends 41376 Na ratunek żółwiom
+## 41376 — Na ratunek żółwiom
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 188.99 zł · EAN: 05702016370201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41376 |
+| Nazwa angielska | Turtles Rescue Mission |
+| Nazwa polska | Na ratunek żółwiom |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 225 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016370201 |
 
 LEGO FRIENDS 41376 Na ratunek żółwiom
 
@@ -5380,11 +8419,27 @@ Zainspiruj młodych budowniczych do wyruszenia na morską misję ratunkową LEGO
 
 **Elementy 225**
 
+**Galeria:**
+
+- 41376-1: https://a.allegroimg.com/original/11178d/4254bd7b4e44867971261a668cbc
+
 ---
 
-## 41378 — Lego Friends 41378 Lego Klocki Friends 41378 Na ratunek delfinom
+## 41378 — LEGO KLOCKI FRIENDS 41378 Na ratunek delfinom
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 314.99 zł · EAN: 05702016370218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41378 |
+| Nazwa angielska | Dolphins Rescue Mission |
+| Nazwa polska | LEGO KLOCKI FRIENDS 41378 Na ratunek delfinom |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 363 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 11 cm |
+| EAN | 5702016370218 |
 
 W zestawie Na ratunek delfinom czekają podmorskie przygody!
  
@@ -5410,11 +8465,26 @@ W tym zestawie konstrukcyjnym znajdują się dwie minilaleczki i dwie figurki de
 - Łódź podwodna ma ok. 8 cm wysokości, 14 cm długości i 11 cm szerokości. 
 - Wrak statku ma ok. 13 cm wysokości, 20 cm długości i 11 cm szerokości.
 
+**Galeria:**
+
+- 41378-1: https://a.allegroimg.com/original/05e859/ad602b094470a941cfcfd752da5f
+
 ---
 
-## 41379 — Lego Friends 41379 Restauracja w Heartlake
+## 41379 — Restauracja w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 227.89 zł · EAN: 05702016537819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41379 |
+| Nazwa angielska | Heartlake City Restaurant |
+| Nazwa polska | Restauracja w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 624 |
+| Cena katalogowa | 259.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 24 cm × gł. 12 cm |
+| EAN | 5702016537819 |
 
 Bawić mogą się nawet dorośli. Realistyczne elementy, takie jak bar sałatkowy, recepcja i kamienny piec do pizzy zapewnią wiele godzin kreatywnej zabawy, podczas której Twoje dziecko będzie mogło bawić się w wizyty w restauracji z przyjaciółmi. Dzieci mogą też wcielić się w szefa kuchni, przygotowywać posiłki i obsługiwać gości przy stole na balkonie alfresco.
  
@@ -5435,11 +8505,27 @@ Bar sałatkowy wewnątrz restauracji jest ruchomy, co pozwala zwiększyć przest
 - Ten zestaw konstrukcyjny jest częścią serii LEGO Friends ukazującej bohaterów oraz sceny z życia codziennego. 
 - Restauracja ma ok. 17 cm wysokości, 24 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 41379-1: https://a.allegroimg.com/original/0524e8/866c65cb4aabbb2beb2de509b0fe
+
 ---
 
-## 41380 — Lego Centrum ratunkowe w latarni morskiej 41380
+## 41380 — Centrum ratunkowe w latarni morskiej
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702016370225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41380 |
+| Nazwa angielska | Lighthouse Rescue Center |
+| Nazwa polska | Centrum ratunkowe w latarni morskiej |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 602 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 25 cm × gł. 13 cm |
+| EAN | 5702016370225 |
 
 Pozwól swojemu dziecku urządzić morską misję ratunkową!
  
@@ -5468,11 +8554,27 @@ W komplecie jest również skuter wodny do ratowania morskich zwierząt oraz min
 - Skuter wodny ma ok. 3 cm wysokości, 7 cm długości i 4 cm szerokości. 
 - Zestaw zawiera świecący klocek LEGO.
 
+**Galeria:**
+
+- 41380-1: https://a.allegroimg.com/original/05f646/d5ea23a34dd0ae1ede6f82718ae6
+
 ---
 
-## 41381 — Lego Friends 41381 Łódź ratunkowa
+## 41381 — Łódź ratunkowa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 739.00 zł · EAN: 05702016370232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41381 |
+| Nazwa angielska | Rescue Mission Boat |
+| Nazwa polska | Łódź ratunkowa |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 908 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 12 cm |
+| EAN | 5702016370232 |
 
 Stan pudełka na zdjęciu. Widać jedno małe uszkodzenie.
 
@@ -5502,11 +8604,27 @@ Zabawa jest jeszcze lepsza dzięki wysepce w kształcie serca, na której ukryto
 - Łódź LEGO Friends ma ok. 17 cm wysokości, 40 cm długości i 12 cm szerokości. 
 - Motorówka ma ok. 3 cm wysokości, 9 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 41381-1: https://a.allegroimg.com/original/114957/891580f64ccab4ac7f76bbff6f6a
+
 ---
 
-## 41383 — Lego Friends 41383 lego
+## 41383 — lego
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 198.00 zł · EAN: 00673419308977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41383 |
+| Nazwa angielska | Olivia's Hamster Playground |
+| Nazwa polska | lego |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702016394856, 673419308977 |
 
 LEGO Plac zabaw dla chomików Olivii 41383
  
@@ -5524,11 +8642,28 @@ LEGO Friends 41383 Plac zabaw dla chomików Olivii to mały i łatwy do zbudowan
 - Zestawy LEGO Friends zachęcają do twórczej zabawy w budowanie pomysłowych modeli. 
 - Kołowrotek ma ok. 7 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 41383-1: https://b.allegroimg.com/original/003663/40dd887845e8aef7bc3c74822f2b
+- 41383-2: https://a.allegroimg.com/original/003663/40dd887845e8aef7bc3c74822f2b
+
 ---
 
-## 41386 — Lego Friends 41386 Lego Friends 41386 Pudełko przyjaźni Stephanie
+## 41386 — LEGO FRIENDS 41386 Pudełko przyjaźni Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 47.49 zł · EAN: 05702016419856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41386 |
+| Nazwa angielska | Stephanie's Summer Heart Box |
+| Nazwa polska | LEGO FRIENDS 41386 Pudełko przyjaźni Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702016419856 |
 
 Zestaw LEGO 41386 Pudełko przyjaźni Stephanie
  
@@ -5544,11 +8679,27 @@ Zestrzel wszystkie puszki i zdobądź nagrodę w parku rozrywki z zestawu LEGO®
 - Ten zestaw konstrukcyjny jest częścią serii LEGO® Friends ukazującej bohaterów oraz sceny z życia codziennego. 
 - Pudełko przyjaźni ma ok. 3 cm wysokości, 7 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 41386-1: https://a.allegroimg.com/original/005a5d/93fca19f4980a54012cb47970719
+
 ---
 
-## 41387 — Lego Friends 41387 Pudełko Przyjaźni Olivii Nowe
+## 41387 — Pudełko przyjaźni Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702016419863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41387 |
+| Nazwa angielska | Olivia's Summer Heart Box |
+| Nazwa polska | Pudełko przyjaźni Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702016419863 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -5577,11 +8728,27 @@ Słyszysz skwierczenie? To Zobo i Olivia z serii LEGO Friends urządzili wakacyj
 
 Uwaga! Produkt nieodpowiedni dla dzieci poniżej 3 roku życia.
 
+**Galeria:**
+
+- 41387-1: https://a.allegroimg.com/original/039b06/4839670b45e8b8b9672c85c45b01
+
 ---
 
-## 41388 — Lego Friends 41388 Pudełko przyjaźni Mii
+## 41388 — Pudełko przyjaźni Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702016468977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41388 |
+| Nazwa angielska | Mia's Summer Heart Box |
+| Nazwa polska | Pudełko przyjaźni Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702016468977 |
 
 **Lego Friends Pudełko w kształcie serca Mii 41388**
  
@@ -5616,11 +8783,27 @@ Miej promyk słońca Mii zawsze ze sobą! LEGO® Friends 41388 Pudełko przyjaź
 - **Wymaga baterii:** Nie 
 - **Czy baterie są dołączone:** Nie
 
+**Galeria:**
+
+- 41388-1: https://a.allegroimg.com/original/006857/e66564b54f42a987c6db9271d84e
+
 ---
 
-## 41389 — Lego Friends 41389 Klocki Lego Friends 41389 Wózek Z Lodam
+## 41389 — KLOCKI LEGO FRIENDS 41389 WÓZEK Z LODAM
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 70.00 zł · EAN: 05702016616750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41389 |
+| Nazwa angielska | Ice Cream Cart |
+| Nazwa polska | KLOCKI LEGO FRIENDS 41389 WÓZEK Z LODAM |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616750 |
 
 Wózek z lodami do zabawy w mieszanie smaków
  
@@ -5638,11 +8821,27 @@ W upalny dzień nic tak nie orzeźwia jak zabawa zestawem LEGO Friends Wózek z 
 - Zestawy LEGO spełniają najwyższe standardy branżowe oraz nasze wewnętrzne kryteria jakości. Dzięki temu dzieci mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1958 roku. 
 - W Grupie LEGO testujemy klocki i elementy, by mieć pewność, że każdy zestaw konstrukcyjny spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41389-1: https://a.allegroimg.com/original/05c9f4/66bf34de499c9c260ac37b9d5175
+
 ---
 
-## 41390 — Lego 41390 Friends Samochód i scena Andrei
+## 41390 — Samochód i scena Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702016618778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41390 |
+| Nazwa angielska | Andrea's Car & Stage |
+| Nazwa polska | Samochód i scena Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618778 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -5652,11 +8851,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 41390-1: https://a.allegroimg.com/original/1191fe/176a2834474bbb95b5f20d832344
+
 ---
 
-## 41391 — Lego Friends 41391 Salon fryzjerski w Heartlake
+## 41391 — Salon fryzjerski w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 185.90 zł · EAN: 05702016618785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41391 |
+| Nazwa angielska | Heartlake City Hair Salon |
+| Nazwa polska | Salon fryzjerski w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618785 |
 
 Kreatywny salon fryzjerski LEGO Friends dla początkujących stylistek
  
@@ -5678,11 +8893,27 @@ Wszystkie zestawy LEGO zawierają broszurę z super łatwymi instrukcjami budowa
 - Zestawy LEGO spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości Grupy LEGO. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Rygorystycznie testujemy wszystkie zestawy, klocki i akcesoria LEGO Friends, dzięki czemu mamy pewność, że każdy z zestawów spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41391-1: https://a.allegroimg.com/original/05e71b/b3bb1220468da6c0394a9afe1a93
+
 ---
 
-## 41392 — Lego Friends 41392 Luksusowy kemping
+## 41392 — Luksusowy kemping
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016618792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41392 |
+| Nazwa angielska | Nature Glamping |
+| Nazwa polska | Luksusowy kemping |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 15 cm |
+| EAN | 5702016618792 |
 
 Zaszczep w dzieciach zamiłowanie do natury za pomocą uroczego zestawu kempingowego
  
@@ -5705,11 +8936,27 @@ Pobierz aplikację LEGO Life i użyj funkcji Instructions PLUS, dzięki której 
 - Zestawy LEGO spełniają najwyższe standardy branżowe oraz wewnętrzne kryteria jakości Grupy LEGO. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - W Grupie LEGO testujemy klocki i akcesoria na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że każda z naszych zabawek spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41392-1: https://a.allegroimg.com/original/05c005/21866b414cdfb2073a15a482edaf
+
 ---
 
-## 41394 — Lego Friends 41394 Szpital w Heartlake
+## 41394 — Szpital w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 770.10 zł · EAN: 05702016618815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41394 |
+| Nazwa angielska | Heartlake City Hospital |
+| Nazwa polska | Szpital w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 379 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 22 cm × gł. 6 cm |
+| EAN | 5702016618815 |
 
 Ciekawy zestaw LEGO ze szpitalem i karetką do zabawy w lekarza i pacjenta
  
@@ -5733,11 +8980,27 @@ Zestawy klocków LEGO Friends to najlepsze zabawki zachęcające dzieci do odkry
 - Klocki konstrukcyjne LEGO spełniają najwyższe branżowe standardy oraz nasze wewnętrzne kryteria jakościowe. Budowanie zestawów LEGO Friends to czysta przyjemność, bo klocki łączą się pewnie i można je za każdym razem z łatwością rozdzielić. 
 - W Grupie LEGO testujemy klocki i elementy LEGO na wszelkie możliwe sposoby, by mieć pewność, że każdy zestaw LEGO Friends dla małych budowniczych spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41394-1: https://a.allegroimg.com/original/059ad4/09d0298d4e69a6cc2013f74e233f
+
 ---
 
-## 41395 — Lego 41395 Friends Autobus przyjaźni
+## 41395 — Autobus przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 797.70 zł · EAN: 05702016618822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41395 |
+| Nazwa angielska | Friendship Bus |
+| Nazwa polska | Autobus przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 778 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 30 cm |
+| EAN | 5702016618822 |
 
 Klocki LEGO Friends 41395 - Autobus przyjaźni
 
@@ -5756,11 +9019,27 @@ Co powstanie, gdy stary londyński autobus połączymy z domkiem dla lalek i opr
 - Klocki LEGO® już od 1958 roku spełniają najwyższe standardy branżowe, dzięki czemu mają spójny wygląd, pasują do siebie, a ich łączenie jest tak trwałe, jak przyjaźnie zawierane w mieście Heartlake.
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO®, by mieć pewność, że każdy zestaw konstrukcyjny LEGO® dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41395-1: https://a.allegroimg.com/original/1106f5/00c8d9db4b80ae3f696809b8a332
+
 ---
 
-## 41396 — Lego Friends 41396 Plac zabaw dla piesków
+## 41396 — Plac zabaw dla piesków
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702016618839 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41396 |
+| Nazwa angielska | Puppy Playground |
+| Nazwa polska | Plac zabaw dla piesków |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 5 cm |
+| EAN | 5702016618839 |
 
 LEGO Friends 41396
  
@@ -5777,11 +9056,27 @@ Plac zabaw dla piesków
 - Zestaw przeznaczony dla dzieci 4+ 
 - Idealnie sprawdzi się jako prezent dla przedszkolaków.
 
+**Galeria:**
+
+- 41396-1: https://a.allegroimg.com/original/05c006/ae3d0a0f4e20b488f9b81b310a1c
+
 ---
 
-## 41397 — Lego Friends 41397 Lego Friends Food Truck Z Sokami Nowy Zestaw
+## 41397 — LEGO FRIENDS 41397 - FOOD TRUCK Z SOKAMI
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702016618846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41397 |
+| Nazwa angielska | Juice Truck |
+| Nazwa polska | LEGO FRIENDS 41397 - FOOD TRUCK Z SOKAMI |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618846 |
 
 LEGO FRIENDS 41397 Food truck z sokami
 
@@ -5800,11 +9095,27 @@ Młodzi kucharze docenią atrakcje dostępne w łatwym do zbudowania zestawie LE
  
 **WIEK 4+**
 
+**Galeria:**
+
+- 41397-1: https://a.allegroimg.com/original/1130d7/14b99f2e4027a77215340491c879
+
 ---
 
-## 41398 — Lego Friends 41398 Dom Stephanie
+## 41398 — Dom Stephanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702016618853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41398 |
+| Nazwa angielska | 4+ Stephanie's House |
+| Nazwa polska | Dom Stephanie |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618853 |
 
 **Stephanie** zaprasza do wspólnej zabawy! Jej mama i tata są w domu, a Ty będziesz tam miłym gościem! Możesz zajrzeć do sypialni Stephanie. Pomóż jej wyszczotkować włosy przy toaletce, a ona w tym czasie pokaże Ci swoje sportowe trofeum. Gdy zgłodniejecie, w kuchni znajdziecie przekąskę. Tylko pamiętajcie o umyciu rąk w łazience! Później możecie pobawić się w ogrodzie na huśtawce i wybrać się na rowerową wycieczkę po okolicy.
 
@@ -5812,11 +9123,27 @@ Pozwól, by mali budowniczowie dali się porwać zabawie w rodzinę z zestawem L
 
 W zestawie jest także miniaturowa huśtawka, by zabawa mogła się przenieść poza dom. Idealny zestaw dla przedszkolaków. Ten zestaw LEGO 4+ w ciekawy sposób nauczy kreatywne przedszkolaki budowania z klocków. Zawiera dwa specjalne klocki startowe, by początkujący mogli poczuć dumę z samodzielnego złożenia modelu. Zestaw zawiera instrukcje Instructions PLUS dostępne w aplikacji LEGO Building Instructions. Pozwalają one dzieciom wyświetlić na ekranie podgląd budowanego modelu i w ten sposób rozwijać wyobraźnię oraz nabierać pewności siebie.
 
+**Galeria:**
+
+- 41398-1: https://a.allegroimg.com/original/05ce42/be452c584aaa8d6fc1a2978bb5d8
+
 ---
 
-## 41400 — Lego Friends 41400 Kostka do zabawy Andrei papierowa torba Lego!
+## 41400 — Andrea’s Play Cube
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 74.88 zł · EAN: 05702016619010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41400 |
+| Nazwa angielska | Andrea's Play Cube |
+| Nazwa polska | Andrea’s Play Cube |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618860, 5702016619010 |
 
 LEGO FRIENDS Kostka do zabawy Andrei 41400
  
@@ -5830,11 +9157,28 @@ ILOŚĆ ELEMENTÓW:** 49**
 
 **W tym zestawie otrzymujesz klocki LEGO 41400 wraz z papierową torbą LEGO!**
 
+**Galeria:**
+
+- 41400-1: https://a.allegroimg.com/original/11bb4c/6243cfb844a8b670e6305309b38c
+- 41400-2: https://a.allegroimg.com/original/11c761/a2d61f97414fa224b9d7278e85f9
+
 ---
 
-## 41402 — Lego 41402 Friends Kostka do zabawy Olivii
+## 41402 — Olivia’s Play Cube
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016618884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41402 |
+| Nazwa angielska | Olivia's Play Cube |
+| Nazwa polska | Olivia’s Play Cube |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618884 |
 
 LEGO 41402 FRIENDS Kostka do Zabawy Olivii
 
@@ -5870,11 +9214,27 @@ Dzięki zestawom z serii LEGO® FRIENDS możesz tworzyć niesamowite historie i 
 - Wymiary kostki: ok. 8 x 6 cm 
 - **EAN: 5702016618884**
 
+**Galeria:**
+
+- 41402-1: https://a.allegroimg.com/original/1118f5/a0fabffd4136b633f73871fa3a40
+
 ---
 
-## 41406 — Lego Friends 41406 Lego Friends 41406 Kostka Stephanie Sklep
+## 41406 — LEGO FRIENDS 41406 KOSTKA STEPHANIE SKLEP
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 67.91 zł · EAN: 05702016618921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41406 |
+| Nazwa angielska | Stephanie's Shopping Play Cube |
+| Nazwa polska | LEGO FRIENDS 41406 KOSTKA STEPHANIE SKLEP |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618921 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5906,11 +9266,27 @@ PACZKI .
 
 **Przenośny zestaw z minilaleczką zachęci do kreatywnej zabawy w podróży. Zestaw z salonem piękności pozwoli dzieciom na realistyczną zabawę w zakupy. Dzięki małym rozmiarom zabawka idealnie sprawdzi się w podróży. ● W małych kostkach potrafi się zmieścić mnóstwo frajdy. W tej czeka minilaleczka, figurka zwierzaka, przybory do makijażu, szczotka do włosów i mnóstwo akcesoriów dla minilaleczki, a także arkusz naklejek do ozdobienia salonu. ● Dzieci mogą bawić się w salon piękności poza kostką lub schować klocki do środka kostki i zabrać ze sobą w podróż. Kostki można ustawiać w wieże i łączyć z innymi kostkami do zabawy LEGO® Friends, a także podzielić i zaprosić do zabawy przyjaciół. ● Wprowadź dzieciaki do świata budowania z klocków LEGO®. Zbudowanie tego prostego modelu trwa tylko parę chwil. ● Kostka ma zaledwie ok. 8 cm szerokości i 6 cm wysokości. Dzięki takim wymiarom łatwo zabrać ją w odwiedziny do przyjaciół i urządzić wspólną zabawę w salon piękności. Niewielkie zabawki świetnie umilą też nawet najdłuższą podróż.**
 
+**Galeria:**
+
+- 41406-1: https://a.allegroimg.com/original/00ebeb/a9ce3a5d4b038330b3ca02c572b6
+
 ---
 
-## 41407 — Lego Friends 41407 Kostka Olivii do zabawy w sklep
+## 41407 — 41407
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 67.91 zł · EAN: 05702016618938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41407 |
+| Nazwa angielska | Olivia's Shopping Play Cube |
+| Nazwa polska | 41407 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618938 |
 
 Klocki LEGO FRIENDS
 
@@ -5943,11 +9319,27 @@ Zabawa do kwadratu Każda kostka pokazuje dzieciom fragment świata LEGO Friends
 - Klocki i zestawy LEGO® spełniają najwyższe standardy branżowe oraz rygorystyczne wewnętrzne kryteria jakości Grupy LEGO. Klocki z tego zestawu można za każdym razem solidnie połączyć i z łatwością rozdzielić.
 - W Grupie LEGO testujemy klocki, elementy i minilaleczki LEGO® Friends na niezliczone sposoby, by mieć pewność, że każdy zestaw konstrukcyjny LEGO dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41407-1: https://a.allegroimg.com/original/032329/33d5da7e4339b62bc9b9b1eed842
+
 ---
 
-## 41408 — Lego Friends 41408 Lego Friends 41408 Kostka MII Do Zabawy W Sklep
+## 41408 — LEGO FRIENDS 41408 - KOSTKA MII DO ZABAWY W SKLEP
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 58.21 zł · EAN: 05702016618945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41408 |
+| Nazwa angielska | Mia's Shopping Play Cube |
+| Nazwa polska | LEGO FRIENDS 41408 - KOSTKA MII DO ZABAWY W SKLEP |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618945 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5999,11 +9391,27 @@ Te przenośne zabawki zapewniają wiele godzin rozrywki — zaprojektowano je ta
  
 ● Klocki, elementy i minilaleczki LEGO® z tego zestawu zostały przetestowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że wszystkie zestawy konstrukcyjne LEGO spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41408-1: https://a.allegroimg.com/original/004aa2/5b7a9603407598cc12d43fc72f21
+
 ---
 
-## 41409 — Lego Friends 41409 Kostka Emmy do zabawy w sklep
+## 41409 — Kostka Emmy do zabawy w sklep
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 58.21 zł · EAN: 05702016618952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41409 |
+| Nazwa angielska | Emma's Shopping Play Cube |
+| Nazwa polska | Kostka Emmy do zabawy w sklep |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618952 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6039,11 +9447,27 @@ Każda z nich zawiera tajemnicze zwierzątko w losowym kolorze — odkrycie tej 
 - Zabawki LEGO spełniają najwyższe standardy branżowe oraz rygorystyczne wewnętrzne kryteria jakości Grupy LEGO. Budowanie to czysta przyjemność, bo klocki można za każdym razem solidnie połączyć i z łatwością rozdzielić.
 - W Grupie LEGO upuszczamy, podgrzewamy, gryziemy, zarysowujemy i testujemy klocki oraz elementy LEGO na wszelkie sposoby, by mieć pewność, że każdy zestaw LEGO Friends spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41409-1: https://a.allegroimg.com/original/00f4fa/2d8d2be6412d9be9a2f95e37d058
+
 ---
 
-## 41410 — Lego Friends 41410 Lego Friends Letnia kostka do zabawy Andrei 41410
+## 41410 — LEGO Friends - Letnia kostka do zabawy Andrei 41410
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 44.49 zł · EAN: 05702016618969 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41410 |
+| Nazwa angielska | Andrea's Summer Play Cube |
+| Nazwa polska | LEGO Friends - Letnia kostka do zabawy Andrei 41410 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618969 |
 
 Szukasz nowej, wyjątkowej zabawki dla dziecka, które lubi przygody? Letnia kostka do zabawy Andrei (41410) będzie kapitalnym wyborem dla każdego sześcioletniego budowniczego, który lubi używać wyobraźni.
  
@@ -6055,11 +9479,27 @@ Kostki można ustawiać w wieżę i łączyć ze sobą w zwariowane kształty.
  
 Pokaż dzieciom kreatywną zabawę zestawami LEGO Friends, w których mogą zgłębiać swoje pasje u boku najlepszych przyjaciółek!
 
+**Galeria:**
+
+- 41410-1: https://a.allegroimg.com/original/002eb7/ed6bfc3c43028195e41cf510252a
+
 ---
 
-## 41412 — Lego Friends 41412 Lego letnia kostka do zabawy Olivii 41412 friends
+## 41412 — Lego letnia kostka do zabawy Olivii 41412 friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 44.49 zł · EAN: 05702016618983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41412 |
+| Nazwa angielska | Olivia's Summer Play Cube |
+| Nazwa polska | Lego letnia kostka do zabawy Olivii 41412 friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618983 |
 
 Letnia kostka do zabawy Olivii dostarczy kreatywnej rozrywki i umili dzieciom każdą podróż. Mogą udawać, że bawią się w morzu z tajemniczym zwierzęciem albo relaksują na plaży. Wszystkie elementy można schować do kostki, by w czasie podróży były pod ręką.
  
@@ -6073,11 +9513,27 @@ Każda kostka LEGO® Friends ma ok. 8.0 cm szerokości i 6.0 cm wysokości, dzi�
  
 Plażowy zestaw LEGO® Friends z Olivią nie wymaga baterii.
 
+**Galeria:**
+
+- 41412-1: https://a.allegroimg.com/original/00b2e7/3274c7a941c18c56076b87bd029a
+
 ---
 
-## 41413 — Lego Friends 41413 Letnia Kostka Do Zabawy MII
+## 41413 — friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702016618990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41413 |
+| Nazwa angielska | Mia's Summer Play Cube |
+| Nazwa polska | friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618990 |
 
 **LEGO FRIENDS 41413**
 
@@ -6107,11 +9563,27 @@ Przedsmak wspaniałej zabawy Dzieci, którym spodoba się ta zabawka LEGO Friend
 
 **15 cm * 21 cm * 5 cm ***
 
+**Galeria:**
+
+- 41413-1: https://a.allegroimg.com/original/116207/4a22bc5f4727aaf101f6481cc42f
+
 ---
 
-## 41414 — Lego Friends 41414 Lego 41414 Friends Letnia kostka do zabawy Emmy
+## 41414 — LEGO 41414 FRIENDS Letnia kostka do zabawy Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702016619003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41414 |
+| Nazwa angielska | Emma's Summer Play Cube |
+| Nazwa polska | LEGO 41414 FRIENDS Letnia kostka do zabawy Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619003 |
 
 Zestaw LEGO® Friends Letnia kostka do zabawy Emmy (41414) pozwoli dzieciom przeżyć szczęśliwe chwile na wymyślonej plaży.
  
@@ -6123,11 +9595,27 @@ Każda z nich zawiera tajemnicze zwierzątko w losowym kolorze — odkrycie tej 
  
 Zaproś dzieci do miasta Heartlake, w którym mieszkają bohaterowie dnia codziennego, a każdy gość jest mile widziany.
 
+**Galeria:**
+
+- 41414-1: https://a.allegroimg.com/original/00c685/6d4fb0e84630a1d555a779185a76
+
 ---
 
-## 41421 — Lego Friends 41421 Na ratunek słoniątku
+## 41421 — Na ratunek słoniątku
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 117.90 zł · EAN: 05702016619065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41421 |
+| Nazwa angielska | Baby Elephant Jungle Rescue |
+| Nazwa polska | Na ratunek słoniątku |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619065 |
 
 Nie ma czasu do stracenia! Stephanie znalazła słoniątko, które ugrzęzło w lepkim błocie. Zaczyna tonąć, a jakby tego było mało, w jego stronę wspina się wielki, przerażający pająk. Szykuje się prawdziwy wyścig z czasem! Pomóż Stephanie i Emmie wymyślić sprytny sposób na uwolnienie słoniątka za pomocą ciężarówki.
  
@@ -6137,11 +9625,27 @@ LEGO Friends z dumą wspiera działania grupy National Geographic Explorers. Na 
  
 Świetny pomysł na świąteczny prezent dla dzieci, które lubią zabawy pełne akcji. Dzięki zestawom LEGO Friends, które opowiadają o ratowaniu zwierząt, dzieci będą się nie tylko wesoło bawić, ale także poszerzą horyzonty. To cyfrowy, interaktywny poradnik budowania, który ułatwia dzieciom łączenie klocków, pozwalając powiększać i obracać widok powstającego modelu. Czy może istnieć lepszy sposób budowania?
 
+**Galeria:**
+
+- 41421-1: https://a.allegroimg.com/original/008ef4/9a93822742dbbc1238eca2927cfa
+
 ---
 
-## 41422 — Lego Friends 41422 Pandas domek na drzewie
+## 41422 — Pandas tree house
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 358.99 zł · EAN: 05702016619072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41422 |
+| Nazwa angielska | Panda Jungle Tree House |
+| Nazwa polska | Pandas tree house |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 265 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm |
+| EAN | 5702016619072 |
 
 Fabrycznie nowy, oryginalny zestaw Lego Friends 41422 Domek na drzewie.
 
@@ -6160,11 +9664,27 @@ Pudełka w bardzo dobrym stanie, na prezent.
 - Od 1958 roku zabawki konstrukcyjne LEGO spełniają najwyższe standardy branżowe oraz rygorystyczne wewnętrzne kryteria jakościowe Grupy LEGO . Dzięki temu mamy pewność, że elementy zawsze będzie można łatwo łączyć i rozdzielać. 
 - Klocki i elementy LEGO ® są testowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że zestawy LEGO Friends spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41422-1: https://a.allegroimg.com/original/05839c/72de9992461eb72dbb48ab509724
+
 ---
 
-## 41423 — Klocki Lego Friends 41423 Balonem na ratunek tygrysowi National Geographic
+## 41423 — Balonem na ratunek tygrysowi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 287.99 zł · EAN: 05702016619089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41423 |
+| Nazwa angielska | Tiger Hot Air Balloon Jungle Rescue |
+| Nazwa polska | Balonem na ratunek tygrysowi |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 302 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 11 cm |
+| EAN | 5702016619089 |
 
 Pozwól dzieciom przeżyć przygody w świecie LEGO® Friends i polecieć balonem na ratunek tygrysowi (41423). Dzieci mogą udawać, że startują balonem, aby uratować tygrysa znad wodospadu. W pudełku są dwie figurki małych tygrysków, a także figurki papugi i małego żółwika. LEGO Friends z dumą wspiera działania grupy National Geographic Explorers.
  
@@ -6190,11 +9710,27 @@ Ten zestaw pozwala poczuć emocje, jakie towarzyszą niezwykłym misjom! Nawet b
 - Klocki LEGO® odpowiadają najwyższym standardom branżowym oraz rygorystycznym wewnętrznym kryteriom jakościowym Grupy LEGO. Dzięki temu można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i zestawy LEGO® Friends są testowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że spełniają najwyższe światowe standardy bezpieczeństwa i jakości. Nawet tygrysiątka nie dadzą im rady!
 
+**Galeria:**
+
+- 41423-1: https://a.allegroimg.com/original/056d84/85b18954428d81ecffee5965ee7f
+
 ---
 
-## 41424 — Klocki Lego Friends Zestaw Baza ratownicza 41424
+## 41424 — Baza ratownicza
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 566.99 zł · EAN: 05702016619096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41424 |
+| Nazwa angielska | Jungle Rescue Base |
+| Nazwa polska | Baza ratownicza |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 648 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619096 |
 
 LEGO® Friends 41424 – Baza Ratownicza 🌿🐘
 
@@ -6258,11 +9794,27 @@ Klocki LEGO® od lat cieszą się zaufaniem rodziców na całym świecie. Wysoka
 
 **LEGO® Friends 41424 – Baza Ratownicza** to zestaw, który zapewni wiele godzin angażującej zabawy i stanie się wyjątkowym elementem każdej kolekcji LEGO®.
 
+**Galeria:**
+
+- 41424-1: https://a.allegroimg.com/original/051395/470707fa4c3499994d61a9f276b2
+
 ---
 
-## 41426 — Lego Friends 41426 Parkowa kawiarnia w Heartlake
+## 41426 — Parkowa kawiarnia w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 185.00 zł · EAN: 05702016619119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41426 |
+| Nazwa angielska | Heartlake City Park Café |
+| Nazwa polska | Parkowa kawiarnia w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619119, 5702016694604 |
 
 Czy Twoje dziecko lubi spotkania z przyjaciółmi? Zestaw z parkową kawiarnią w Heartlake City (41426) pozwoli im spędzać całe dnie na wymyślonych spotkaniach ze znajomymi w knajpce w paryskim stylu.
  
@@ -6288,11 +9840,27 @@ Teraz całe miasto Heartlake może trafić prosto do dziecięcego pokoju! Będą
 - Zestawy konstrukcyjne LEGO® spełniają najwyższe branżowe standardy. Dzięki temu wszystkie klockizachowują jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Skrupulatnie testujemy zestawy LEGO® Friends, by mieć pewność, że każdy z nich spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41426-1: https://a.allegroimg.com/original/05e3c7/24635849426f9fa39325c99b72a1
+
 ---
 
-## 41427 — Lego Friends 41427 Butik Emmy
+## 41427 — Butik Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016619126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41427 |
+| Nazwa angielska | Emma's Fashion Shop |
+| Nazwa polska | Butik Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619126 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -6302,11 +9870,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 41427-1: https://a.allegroimg.com/original/1180c7/d80a983a41a3960c48191d8bb5cf
+
 ---
 
-## 41428 — Lego Friends 41428 Domek na plaży Uszkodzenie Pudełka
+## 41428 — Domek na plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 320.00 zł · EAN: 05702016619133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41428 |
+| Nazwa angielska | Beach House |
+| Nazwa polska | Domek na plaży |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 444 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619133 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -6332,11 +9916,27 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 41428-1: https://a.allegroimg.com/original/11afef/6fd6df864d3ea31de2079dd676c8
+
 ---
 
-## 41429 — Lego Friends 41429 Samolot z Heartlake City Nowe
+## 41429 — Lego Friends Samolot z Heartlake City 41429
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 684.31 zł · EAN: 05702016619140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41429 |
+| Nazwa angielska | Heartlake City Airplane |
+| Nazwa polska | Lego Friends Samolot z Heartlake City 41429 |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 574 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 33 cm |
+| EAN | 5702016619140 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6362,11 +9962,27 @@ W samym środku akcji Zabierz swojego małego budowniczego na wakacyjny wypad do
 - Klocki LEGO® już od 1958 roku spełniają najwyższe standardy branżowe, dzięki czemu możesz mieć pewność, że elementy tego wakacyjnego zestawu będą mieć spójny wygląd i pasować do siebie, a ich połączenie będzie tak trwałe, że nie rozerwie go żadna turbulencja! 
 - Klocki i elementy niezwykłych zabawek LEGO® są testowane na niemal wszystkie możliwe sposoby. Dzięki temu można mieć pewność, że każdy zestaw LEGO® spełnia najwyższe światowe standardy jakości, a nasze zabawki zaliczają się nie tylko do najlepszych, ale także najbezpieczniejszych.
 
+**Galeria:**
+
+- 41429-1: https://a.allegroimg.com/original/116f20/251d286642eca1cc4b1c74102a22
+
 ---
 
-## 41430 — Lego Friends 41430 Letnia zabawa w parku wodnym Nowe
+## 41430 — Letnia zabawa w parku wodnym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 824.00 zł · EAN: 05702016619157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41430 |
+| Nazwa angielska | Summer Fun Water Park |
+| Nazwa polska | Letnia zabawa w parku wodnym |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1001 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 33 cm × gł. 19 cm |
+| EAN | 5702016619157 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -6378,11 +9994,27 @@ Szukasz prezentu dla dziecka? Chcesz, aby rozwinęło ono swoje zdolności konst
  
 LEGO Letnia zabawa w parku wodnym z 2020 roku składa się z 1001 klocków. Zestaw idealny na prezent dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 41430-1: https://a.allegroimg.com/original/118b2c/3b626698426b91af70dd03d50984
+
 ---
 
-## 41432 — Klocki Lego Friends 41432 Na ratunek alpakom
+## 41432 — Na ratunek alpakom
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702016686920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41432 |
+| Nazwa angielska | Alpaca Rescue in the Jungle |
+| Nazwa polska | Na ratunek alpakom |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 512 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016686920 |
 
 LEGO FRIENDS
 
@@ -6406,11 +10038,27 @@ Ratownicy na stanowiska
  
 Zestawy LEGO® Friends, które opowiadają o ratowaniu zwierząt, pozwalają dzieciom przeżywać ekscytujące misje i grać role prawdziwych bohaterów. Mnóstwa rozrywki dostarczy im też samo budowanie tego modelu. AplikacjaLEGO Building Instructions pozwoli dzieciom skorzystać z instrukcji Instructions PLUS, które mają funkcje przybliżania i obracania widoku modeli oraz wizualizacji postępów budowania!
 
+**Galeria:**
+
+- 41432-1: https://a.allegroimg.com/original/11ee75/71159e8841b48d51da93cd5296c3
+
 ---
 
-## 41440 — Lego 41440 Friends Piekarnia w Heartlake City
+## 41440 — Piekarnia w Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 92.00 zł · EAN: 05702016913118 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41440 |
+| Nazwa angielska | Heartlake City Bakery |
+| Nazwa polska | Piekarnia w Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913118 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -6420,11 +10068,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 41440-1: https://a.allegroimg.com/original/116167/302f9a434873a4f6831847f61c6a
+
 ---
 
-## 41441 — Lego Friends 41441 Szkółka Jeździecka I Przyczepa
+## 41441 — 41441
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702016916812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41441 |
+| Nazwa angielska | Horse Training and Trailer |
+| Nazwa polska | 41441 |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 15 cm |
+| EAN | 5702016701340, 5702016916812 |
 
 ZESTAW LEGO FRIENDS: 41441  - SZKÓŁKA JEŹDZIECKA I PRZYCZEPA DLA KONIA
 
@@ -6451,11 +10115,28 @@ Zestawy 4+ to świetny wybór dla rodziców, którzy chcą dzielić z dziećmi r
 
 **zestaw fabrycznie nowy idealny na prezent!!!**
 
+**Galeria:**
+
+- 41441-1: https://a.allegroimg.com/original/110626/619f04834c4daae93cc6197db77e
+- 41441-2: https://a.allegroimg.com/original/259680/7e3ca62c4860b4a188530113dda3
+
 ---
 
-## 41442 — Lego 41442 Weterynaryjny łazik ratunkowy Friends
+## 41442 — Weterynaryjny łazik ratunkowy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702016913712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41442 |
+| Nazwa angielska | Vet Clinic Rescue Buggy |
+| Nazwa polska | Weterynaryjny łazik ratunkowy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913712 |
 
 LEGO Friends 41442 Weterynaryjny łazik ratunkowy
 
@@ -6474,11 +10155,27 @@ LEGO Friends 41442 Weterynaryjny łazik ratunkowy
 - Budowanie może być jeszcze fajniejsze za sprawą cyfrowych instrukcji Instructions PLUS! Są tam funkcje powiększania i obracania widoku oraz wizualizacji i zapisywania postępów, więc składanie klocków to bułka z masłem. 
 - Weterynaryjny łazik ratunkowy pasuje do zestawów Karetka weterynaryjna (41445) i Klinika weterynaryjna w Heartlake City (41446), więc świat LEGO Friends stoi otworem przed troskliwymi ratownikami.
 
+**Galeria:**
+
+- 41442-1: https://a.allegroimg.com/original/11ddf7/5c0a014e44919ca9443fb035fab8
+
 ---
 
-## 41443 — Lego Friends Samochód elektryczny Olivii 41443
+## 41443 — Samochód elektryczny Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 63.24 zł · EAN: 05702016914801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41443 |
+| Nazwa angielska | Olivia's Electric Car |
+| Nazwa polska | Samochód elektryczny Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 183 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016914801 |
 
 Zapnij pasy i ruszaj w drogę bez zanieczyszczania środowiska! Olivia i Mia wybrały się na przejażdżkę swoim autem na prąd. Kończy im się energia, więc wjeżdżają na stację ładowania. Jest tam turbina wiatrowa i panel słoneczny, które wytwarzają energię. Czekając na naładowanie akumulatora, Olivia dzwoni z komórki i bawi się ze szczeniakiem Elliotem. Gotowe — auto naładowane! Można ruszać w dalszą podróż.
 
@@ -6500,11 +10197,27 @@ Zestaw LEGO® Friends Samochód elektryczny Olivii (41443) przypadnie do gustu w
 
 • Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41443-1: https://a.allegroimg.com/original/117a69/258d14134af69104d27e5a2e9c67
+
 ---
 
-## 41444 — Lego Friends 41444 Uszkodzenie Opakowania Ekologiczna kawiarnia w Heartlake
+## 41444 — Ekologiczna kawiarnia w Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 161.68 zł · EAN: 05702016914818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41444 |
+| Nazwa angielska | Heartlake City Organic Café |
+| Nazwa polska | Ekologiczna kawiarnia w Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 314 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914818 |
 
 **Klocki nowe, fabrycznie zapakowane.**
 
@@ -6530,11 +10243,27 @@ Wszystkie wystawione towary są dostępne od ręki.
 
 Firma Sitar
 
+**Galeria:**
+
+- 41444-1: https://a.allegroimg.com/original/11595f/8a4d98634bc6b8838168ec255597
+
 ---
 
-## 41445 — Lego Friends 41445 Karetka weterynaryjna
+## 41445 — Karetka weterynaryjna
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016914825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41445 |
+| Nazwa angielska | Vet Clinic Ambulance |
+| Nazwa polska | Karetka weterynaryjna |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914825 |
 
 LEGO Friends Karetka weterynaryjna
 
@@ -6572,11 +10301,27 @@ LEGO Friends - Karetka weterynaryjna
  
 - Karetka ma boczny panel na zawiasach, dzięki czemu dzieciom łatwo dostać się do wnętrza pojazdu i zająć wciągającą zabawą licznymi akcesoriami weterynaryjnymi, takimi jak stetoskop, rentgen, okład lodowy i otoskop.
 
+**Galeria:**
+
+- 41445-1: https://a.allegroimg.com/original/115866/934e96dd472c9c50dfa3afdf8026
+
 ---
 
-## 41446 — Lego Friends 41446 Klinika weterynaryjna w Heartlake Klocki dla dziewczynki
+## 41446 — Klinika weterynaryjna
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 365.21 zł · EAN: 05702016916546 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41446 |
+| Nazwa angielska | Heartlake City Vet Clinic |
+| Nazwa polska | Klinika weterynaryjna |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 16 cm |
+| EAN | 5702016916546 |
 
 LEGO Friends 41446 - Klinika weterynaryjna w Heartlake City
 
@@ -6618,11 +10363,26 @@ Tak jak wszystkie popularne zabawki z Miasta Heartlake, ta też pomoże chłopco
 
 - Klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41446-1: https://a.allegroimg.com/original/110c26/8b292a534b53bcc2c09b2bc823f4
+
 ---
 
-## 41447 — Lego Friends 41447 Park w Heartlake City
+## 41447 — Park w Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016971743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41447 |
+| Nazwa angielska | Heartlake City Park |
+| Nazwa polska | Park w Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 432 |
+| Cena katalogowa | 179.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 30 cm × gł. 12 cm |
+| EAN | 5702016971743 |
 
 **LEGO FRIENDS 41447 Park w Heartlake City**
  
@@ -6657,11 +10417,27 @@ Zaproś dzieci do zabawy w Heartlake City, gdzie każdy znajdzie wspaniałych pr
  
 - Zabawki z miastem Heartlake City są pełne realistycznych detali, co pomaga dzieciom odgrywać historie z realnego świata i rozwijać zainteresowania w towarzystwie najlepszych przyjaciół na świecie.
 
+**Galeria:**
+
+- 41447-1: https://a.allegroimg.com/original/1105b6/77e7a08f4f049e1da03b44311f32
+
 ---
 
-## 41448 — Lego Friends 41448 Kino W Heartlake City
+## 41448 — Kino w Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 185.48 zł · EAN: 05702016917246 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41448 |
+| Nazwa angielska | Heartlake City Movie Theater |
+| Nazwa polska | Kino w Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 451 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 27 cm × gł. 19 cm |
+| EAN | 5702016917246, 5702017194943 |
 
 LEGO FRIENDS
 
@@ -6686,11 +10462,28 @@ Zestawy LEGO z miastem Heartlake City świetnie nadają się na prezent i zachę
 - Wszystkie nowe zestawy LEGO spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić - i tak jest niezmiennie od 1958 roku.
 - Popularne zabawki LEGO są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41448-1: https://a.allegroimg.com/original/258a42/dba451ef4bb89aed64a840b0bd3e
+- 41448-2: https://a.allegroimg.com/original/11e3f4/a50e281546bbafc74cbcc4a919cc
+
 ---
 
-## 41449 — Lego Friends 41449 Dom rodzinny Andrei
+## 41449 — Dom rodzinny Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702016916133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41449 |
+| Nazwa angielska | Andrea's Family House |
+| Nazwa polska | Dom rodzinny Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 802 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 26 cm × gł. 12 cm |
+| EAN | 5702016916133 |
 
 Zestaw LEGO® Friends Dom rodzinny Andrei (41449) to prezent, koło którego nie sposób przejść obojętnie. Fani serii będą zachwyceni niezwykłymi detalami, od paneli słonecznych na dachu po minikeyboard w garażowym studio.
  
@@ -6723,11 +10516,27 @@ W pudełku dzieci znajdą pięć minilaleczek LEGO Friends, w tym nowość na st
 - **Przedział wiekowy:** Od 6 lat 
 - **Waga (kg):** 1.4
 
+**Galeria:**
+
+- 41449-1: https://a.allegroimg.com/original/0096ef/f8e5278e4e399a43fdc6e1d84853
+
 ---
 
-## 41450 — Lego Friends Centrum Handlowe W Heartlake City 41450
+## 41450 — Centrum handlowe w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 749.90 zł · EAN: 05702016916140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41450 |
+| Nazwa angielska | Heartlake City Shopping Mall |
+| Nazwa polska | Centrum handlowe w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1032 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 40 cm × gł. 16 cm |
+| EAN | 5702016916140 |
 
 CENTRUM HANDLOWE W HEARTLAKE CITY
 
@@ -6757,11 +10566,27 @@ Pomóż Emmie wybrać przekąskę w sklepie ze słodyczami lub spędź parę chw
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 41450-1: https://a.allegroimg.com/original/113198/f29ff80e43dba861aac48c23666a
+
 ---
 
-## 41662 — Lego Friends 41662 Kostka Olivii z flamingiem
+## 41662 — Kostka Olivii z flamingiem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016915068 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41662 |
+| Nazwa angielska | Olivia's Flamingo Cube |
+| Nazwa polska | Kostka Olivii z flamingiem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 8 cm |
+| EAN | 5702016915068 |
 
 Zestaw LEGO® Friends Kostka Olivii z flamingiem (41662) może być fantastyczną niespodzianką. Pudełeczko jest ozdobione „twarzą” flaminga i ma na górze „pióra” z materiału. W środku dzieci znajdą popularną postać Olivii z LEGO Friends, figurki flaminga i żaby, a także wiele innych akcesoriów inspirujących do kreatywnej zabawy.
  
@@ -6785,11 +10610,27 @@ Kostki LEGO Friends dają mnóstwo możliwości zabawy i idealnie nadają się n
 - Elementy, z których zbudowana jest ta nowa zabawka LEGO®, spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Zestawy LEGO® Friends są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41662-1: https://a.allegroimg.com/original/056490/5d7901974ee1b1aa78fdae133f50
+
 ---
 
-## 41663 — Lego Friends 41663 Kostka Emmy Z Dalmatyńczykiem
+## 41663 — Kostka Emmy z dalmatyńczykiem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 64.19 zł · EAN: 05702016915570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41663 |
+| Nazwa angielska | Emma's Dalmatian Cube |
+| Nazwa polska | Kostka Emmy z dalmatyńczykiem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016915570 |
 
 Chcesz podarować małemu budowniczemu odrobinę zabawy w stylu LEGO®? Przenośny zestaw LEGO Friends Kostka Emmy z dalmatyńczykiem (41663) nie pozwoli, by wielbiciele zwierzaków nudzili się w czasie podróży. Zestaw świetnie nadaje się na urodzinowy prezent i zawiera minilaleczkę LEGO Friends Emmę, która świętuje urodziny swojego szczeniaczka.
  
@@ -6813,11 +10654,27 @@ Kostki LEGO Friends to popularne zestawy, dzięki którym dzieci nie muszą rozs
 - Elementy, z których zbudowana jest ta nowa zabawka, spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy tego zestawu LEGO® Friends zostały przetestowane na niemal każdy możliwy sposób, aby można było mieć pewność, żespełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41663-1: https://a.allegroimg.com/original/0582b4/bbafeec74724a65e0cc5c3270cbc
+
 ---
 
-## 41665 — Lego Friends 41665 Kostka Stephanie Z Kotem Niespodzianka Unikat Klocki
+## 41665 — Kostka Stephanie z kotem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702016915464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41665 |
+| Nazwa angielska | Stephanie's Cat Cube |
+| Nazwa polska | Kostka Stephanie z kotem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016915464 |
 
 LEGO Friends 41665 Kostka Stephanie z kotem Niespodzianka Unikat
 
@@ -6842,11 +10699,27 @@ Pozwól dzieciom realizować pasje wspólnie z dziewczętami z LEGO Friends. W z
 - Elementy, z których zbudowana jest ta nowa zabawka, spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Klocki i elementy tego kreatywnego zestawu LEGO® Friends zostały przetestowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41665-1: https://a.allegroimg.com/original/05dba5/706fe6ea44f3bddf5f6adf5ed18f
+
 ---
 
-## 41666 — Lego Friends 41666 Kostka Andrei z królikiem
+## 41666 — Kostka Andrei z królikiem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702016915693 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41666 |
+| Nazwa angielska | Andrea's Bunny Cube |
+| Nazwa polska | Kostka Andrei z królikiem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915693 |
 
 Klocki lego w stanie jak na zdj. Oczywiście nowe oryginalnie zapakowane.
 
@@ -6854,47 +10727,127 @@ Zapewniamy solidne pakowanie. Wysyłamy towar zwykle w ciągu 24h max 48h jeśli
 
 Wystawiamy paragon na życzenie fakturę bez VAT. Nie ma możliwości zwrotu otwartego zestawu kupując potwierdzasz na to zgodę.
 
+**Galeria:**
+
+- 41666-1: https://a.allegroimg.com/original/112ebd/48c3b6fb444bbb9cdba760e334e2
+
 ---
 
-## 41667 — Lego Friends 41667 Lego 41667 Friends Kostka Gier Olivii
+## 41667 — LEGO 41667 FRIENDS KOSTKA GIER OLIVII
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702016915723 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41667 |
+| Nazwa angielska | Olivia's Gaming Cube |
+| Nazwa polska | LEGO 41667 FRIENDS KOSTKA GIER OLIVII |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm × gł. 5 cm |
+| EAN | 5702016915723 |
 
 Podaruj małym graczom prezent, który wprawi ich w zachwyt – „Kostkę do gry Olivii. LEGO® Friends” (41667). Urocza skrzyneczka mieści w sobie miniaturowe centrum gier, a całość idealnie nadaje się na przenośny prezent dla fanów LEGO.  Dzieci mogą bawić się klockami poza kostką lub schować je do środka i zabierać wszędzie ze sobą. Zestaw zmieści się łatwo w szkolnym plecaku, więc chłopcy i dziewczynki mogą bawić się nim także na przerwach.
  
 Ta miniaturowa kostka do gry to idealny improwizowany prezent na urodziny lub z innej okazji dla dzieci w wieku od 6 lat, które uwielbiają przenośne zabawki, granie i kreatywną zabawę. Ta urocza zabawka o wymiarach ok. 7 cm wysokości, 7 cm szerokości i 5 cm głębokości wygląda jak mały plecak, więc będzie fajną ozdobą na biurko i nie zajmie zbyt wiele miejsca. Podaruj dzieciom zestawy „LEGO® Friends”, by poznały miasto Heartlake, gdzie króluje kreatywna zabawa i fantastyczna przyjaźń. Dzieci znajdą tu postacie, z którymi mogą się identyfikować, i z pewnością poczują się mile widzianymi gośćmi.
 
+**Galeria:**
+
+- 41667-1: https://a.allegroimg.com/original/25d389/83ac00814916af71d71a42c4c5c3
+
 ---
 
-## 41668 — Lego Friends 41668 Modowa kostka Emmy
+## 41668 — Modowa kostka Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702016915730 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41668 |
+| Nazwa angielska | Emma's Fashion Cube |
+| Nazwa polska | Modowa kostka Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7.0 cm × szer. 7.0 cm |
+| EAN | 5702016915730 |
 
 Kreatywny zestaw „LEGO® Friends. Modowa kostka Emmy” (41668) to prezent, który łatwo mieć zawsze przy sobie. W środku jest figurka ptaka, który zainspiruje małych projektantów, gdyby zabrakło im pomysłów na nowe ubrania. **Urocza skrzyneczka w formie torby na przybory do szycia kryje minilaleczkę „LEGO® Friends” Emmę, ślicznego ptaszka w kolorze, który jest zawsze niespodzianką, oraz mnóstwo kreatywnych akcesoriów, które pobudzą dziecięcą wyobraźnię.** Dzieci mogą bawić się solidnymi, kreatywnymi zabawkami w kostce lub poza nią albo schować wszystkie części zestawu do środka, zabrać ze sobą w podróż i udawać, że szyją i projektują ubrania. Kostki ze zwierzakami zawierają proste modele, które są dla dziewczynek i chłopców świetnym wprowadzeniem do świata „LEGO® Friends”. Ta zabawka dla dzieci od 6. roku życia nadaje się na prezent urodzinowy lub podarunek bez specjalnej okazji.
  
 **Kostka ma ok. 7.0 cm wysokości i 7.0 cm szerokości**, a ponieważ wygląda jak torba krawiecka, będzie fajną ozdobą na biurko każdego początkującego projektanta mody. Pokaż dzieciom miasto Heartlake – miejsce, gdzie czekają ekscytujące misje i fantastyczna przyjaźń. Znajdą tam postacie, z którymi mogą się identyfikować, i będą mogły rozwijać swoje zainteresowania.
 
+**Galeria:**
+
+- 41668-1: https://a.allegroimg.com/original/1139e3/8a2e684348bf8c40c392cf131bb0
+
 ---
 
-## 41669 — Lego Friends 41669 Piłkarska kostka Mii
+## 41669 — Piłkarska kostka Mii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 32.00 zł · EAN: 05702016915747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41669 |
+| Nazwa angielska | Mia's Soccer Cube |
+| Nazwa polska | Piłkarska kostka Mii |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702016915747 |
 
 Piłkarska kostka Mii LEGO(R) Friends 41669 inspiruje do sportowej zabawy w ruchu, a skrzyneczka o wyglądzie sportowej torby pozwala mieć zestaw zawsze przy sobie. Atrakcyjna piłkarska zabawka z mnóstwem inspiracji w środku na dzieci czeka minilaleczka LEGO(R) Friends Mia, zabawkowy pies w losowym kolorze, szafka i bramka do zbudowania oraz tablica wyników, piłka i puchar. Gotowy do zabawy zestaw pozwoli pomysłowym dzieciom w każdej chwili rozpocząć piłkarski trening z Mią. Po zakończeniu zabawy wszystkie elementy można spakować do skrzyneczki, która wygląda jak plecak. Doskonały prezent na święta lub bez okazji dla dzieci w wieku od 6 lat, które przepadają za piłką nożną. Proste modele z tych zestawów mogą być świetnym wprowadzeniem do świata niezwykłych konstrukcji LEGO(R). Model ma ok. 7 cm wysokości i 7 cm szerokości, a więc jest dość duży, by dzieci mogły się nim wygodnie bawić, i dość mały, aby schować go do plecaka i zabrać do znajomych albo na wakacje. Doskonałe wprowadzenie do świata LEGO(R) Friends, gdzie chłopcy i dziewczynki mogą rozwijać swoje pasje w towarzystwie przyjaciół, którzy są do nich bardzo podobni.
 
+**Galeria:**
+
+- 41669-1: https://a.allegroimg.com/original/11834c/41d7cc1146439db46db5eaad7efb
+
 ---
 
-## 41670 — Lego Friends Baletowa kostka Stephanie 41670
+## 41670 — friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 44.00 zł · EAN: 05702016915754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41670 |
+| Nazwa angielska | Stephanie's Ballet Cube |
+| Nazwa polska | friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702016915754 |
 
 o Podaruj miłośnikom tańca przenośny zestaw LEGO(R) Friends Baletowa kostka Stephanie (41670), który umili im daleką podróż i pozwoli w każdej chwili wcielić się w role artystów baletowych.o Zabawka zawiera minilaleczkę i figurkę królika w jednym z czterech losowych kolorów, a także kreatywne akcesoria, które podsuną dzieciom pomysły na zabawę: poręcz, pianino, lustro, puchar i koronę.o Dzieci mogą wymyślać zabawy i udawać, że grają na pianinie lub rozciągają się przy poręczy. Wszystkie elementy można zamocować do podstawy, więc nic nie zginie podczas podróży.o Doskonały wybór na prezent bez okazji dla dzieci w wieku od 6 lat, które lubią zabawki ze zwierzakami. Proste modele z tych zestawów mogą być świetnym wprowadzeniem do świata niezwykłych konstrukcji LEGO(R).o Model LEGO(R) Friends ma ok. 7 cm wysokości i 7 cm szerokości, a kostka jest stylizowana na śliczny plecak, więc dzieci chętnie postawią ją w widocznym miejscu.o Zaproś dzieci do miasta Heartlake w świecie LEGO(R) Friends -- miejsca, w którym króluje pomysłowa zabawa. Dzieci znajdą tu postacie, z którymi mogą się identyfikować, i z pewnością poczują się jak w domu.
 
+**Galeria:**
+
+- 41670-1: https://a.allegroimg.com/original/11e8c7/e8866bf541f6b8f8e14008c7aba7
+
 ---
 
-## 41671 — Lego Friends 41671 Pływacka Kostka Andrei
+## 41671 — Pływacka Kostka Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016915761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41671 |
+| Nazwa angielska | Andrea's Swimming Cube |
+| Nazwa polska | Pływacka Kostka Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm × gł. 5 cm |
+| EAN | 5702016915761 |
 
 Twoje dziecko zasłużyło na nagrodę? Pływacka kostka Andrei LEGO® Friends (41671) będzie w sam raz. Kostka wygląda jak sportowy plecak z paskami i uchwytem, a w środku mieści minilaleczkę Andreę, która trenuje do zawodów, i pudla, który wiernie jej kibicuje. W modelu jest też miejsce do relaksu z krzesłem, pucharem, pączkiem i bananem. Taka niespodzianka zachwyci każdego!
  
@@ -6912,11 +10865,27 @@ Przenośne kostki to zabawki ze zwierzakami, które można zabrać na wakacje. W
 - Elementy, z których zbudowana jest ta nowa zabawka LEGO®, spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy kreatywnych zestawów LEGO® zostały skrupulatnie przetestowane, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41671-1: https://a.allegroimg.com/original/11ed43/c85dcd814c1f9d26e5f2a4275ff0
+
 ---
 
-## 41677 — Lego Friends 41677 Leśny Wodospad
+## 41677 — Lego Friends Leśny wodospad 41677
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 86.33 zł · EAN: 04251887622939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41677 |
+| Nazwa angielska | Forest Waterfall |
+| Nazwa polska | Lego Friends Leśny wodospad 41677 |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm × gł. 7 cm |
+| EAN | 4251887622939, 5702016916515 |
 
 Lego Friends Leśny wodospad 41677
  
@@ -6942,11 +10911,28 @@ Szukasz kreatywnego prezentu z serii LEGO® Friends dla dziecka, które pasjonuj
  
 • Nowe zestawy LEGO® są testowane na wszelkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41677-1: https://a.allegroimg.com/original/11c65a/26c7f6c54975be38c18ad4b89e19
+- 41677-2: https://a.allegroimg.com/original/11c398/b447d2394003a7071b3e7ef35628
+
 ---
 
-## 41679 — Lego Friends 41679 nowy zestaw Julivo
+## 41679 — Leśny domek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016916034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41679 |
+| Nazwa angielska | Forest House |
+| Nazwa polska | Leśny domek |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 326 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 19 cm × gł. 11 cm |
+| EAN | 5702016916034 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -6991,11 +10977,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41679-1: https://a.allegroimg.com/original/1114fd/e53f04d4423e83954f8b65aecbd2
+
 ---
 
-## 41681 — Lego Friends 41681 Leśny mikrobus kempingowy i żaglówka
+## 41681 — Leśny mikrobus kempingowy i żaglówka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702016916157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41681 |
+| Nazwa angielska | Forest Camper Van and Sailboat |
+| Nazwa polska | Leśny mikrobus kempingowy i żaglówka |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016916157 |
 
 Podaruj małym budowniczym zestaw LEGO® Friends Leśny mikrobus kempingowy i żaglówka (41681), aby mogły rozwijać swoje przyrodnicze pasje. Jest w nim tyle ciekawych detali, że kreatywna zabawa pochłonie dzieci na wiele godzin.
 
@@ -7020,11 +11022,27 @@ Zestawy LEGO Friends pomagają małym budowniczym rozwijać swoje pasje i przeż
 - Popularne zabawki LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Nowe zabawki LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41681-1: https://a.allegroimg.com/original/05f192/d7e5208b4a4185f8a4bf205f01a4
+
 ---
 
-## 41682 — Lego Friends 41682 Szkoła w mieście Heartlake
+## 41682 — LEGO Friends 41682
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 370.00 zł · EAN: 05702016916317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41682 |
+| Nazwa angielska | Heartlake City School |
+| Nazwa polska | LEGO Friends 41682 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 605 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm × gł. 9 cm |
+| EAN | 5702016916317 |
 
 Klocki LEGO Friends 41682 - Szkoła w mieście Heartlake
 
@@ -7105,11 +11123,27 @@ Ten zestaw LEGO® Friends jest po brzegi wypakowany akcesoriami do zabawy w szko
 
 pod mikroskopem, a także pędzle, farby i sztalugi.
 
+**Galeria:**
+
+- 41682-1: https://a.allegroimg.com/original/1171f2/b4608a744044b8827ef69c310305
+
 ---
 
-## 41683 — Lego Friends 41683 Leśne centrum jeździeckie
+## 41683 — Leśne centrum jeździeckie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 386.99 zł · EAN: 05702016916652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41683 |
+| Nazwa angielska | Forest Horseback Riding Center |
+| Nazwa polska | Leśne centrum jeździeckie |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 511 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702016916652 |
 
 Zestaw LEGO® Friends Leśne centrum jeździeckie (41683) będzie idealnym prezentem dla dzieci, które lubią zwierzaki. W trójpoziomowym budynku znajdą mnóstwo funkcji, detali i figurek, które podsuną im pomysły na wiele godzin zabawy ze zwierzętami i wymyślania historii.
 
@@ -7135,11 +11169,27 @@ Każda z postaci LEGO Friends ma swoje zainteresowania — od nauki i techniki p
 - Elementy zestawów LEGO® City już od 1958 r. spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
 - Nowe zabawki LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41683-1: https://a.allegroimg.com/original/112435/845a58104043821c5c7a022d3054
+
 ---
 
-## 41684 — klocki Lego Friends Wielki hotel w mieście Heartlake 41684 grand
+## 41684 — Lego Friends Wielki hotel w mieście Heartlake 41684
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 597.98 zł · EAN: 05702016916669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41684 |
+| Nazwa angielska | Heartlake City Grand Hotel |
+| Nazwa polska | Lego Friends Wielki hotel w mieście Heartlake 41684 |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1308 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 28 cm × gł. 14 cm |
+| EAN | 5702016916669 |
 
 Szukasz efektownego prezentu, który zrobi wrażenie na kreatywnym dziecku? Nie zabrakło również odrobiny luksusu w postaci spa i penthouse’u. Zestaw zawiera minilaleczkę aktorki Amelii, więc dzieci mogą bawić się w scenki z życia gwiazd. Wraz ze zmianą pór roku dzieci mogą dekorować model elementami, które znajdą w zestawie, a zabawa nie będzie się nudzić. Są tam liście drzew, które jesienią zmieniają kolor, śnieżki, sople i bałwan na zimę oraz kwiaty na lato.
 
@@ -7161,11 +11211,27 @@ Model do złożenia w paryskim stylu zawiera sezonowe akcesoria oraz dawkę rado
  
 • Zabawki z miastem Heartlake z serii LEGO® Friends są testowane na niemal wszelkie dostępne sposoby.
 
+**Galeria:**
+
+- 41684-1: https://a.allegroimg.com/original/055c5b/74c35ee540aeaf51625873769a40
+
 ---
 
-## 41685 — Lego Friends Magiczne wesołe miasteczko z kolejką górską 41685
+## 41685 — Magiczne wesołe miasteczko
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 542.22 zł · EAN: 05702016916676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41685 |
+| Nazwa angielska | Magical Funfair Roller Coaster |
+| Nazwa polska | Magiczne wesołe miasteczko |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 974 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 34 cm |
+| EAN | 5702016916676 |
 
 Wyczaruj festynową zabawę z zestawem LEGO® Friends Magiczne wesołe miasteczko z kolejką górską (41685). Budowanie tego wielkiego modelu i odkrywanie wszystkich jego sekretów sprawi wiele radości dzieciom i dorosłym.Niezwykle realistyczne detaleTen liczący 974 elementy zestaw to inspirujące wyzwanie konstrukcyjne, a gotowy model stwarza niezliczone możliwości pomysłowej zabawy. Centralnym elementem jest materiałowy namiot cyrkowy, w którym odbywają się pokazy magii. Dzieci mogą bawić się magiczną różdżką, a nawet sprawić, że minilaleczka LEGO Friends zniknie — wystarczy umieścić ją w skrzynce ze specjalną sprytną funkcją! Mogą też wcielić się w żonglerów, którzy wydmuchują płomienie. W zestawie jest oczywiście zabawkowa kolejka górska z wagonikami przypominającymi króliki, fotobudka oraz wahadłowa huśtawka, od której każdemu zakręci się w głowie. To nie koniec atrakcji, bo po zgaszeniu światła klocki zaczynają świecić w ciemności!Magia przyjaźniPozwól dzieciom odwiedzić miasto Heartlake, gdzie wśród realistycznej scenerii spotkają codziennych bohaterów oraz przyjaciół, z którymi łatwo będzie im się zidentyfikować.
 
@@ -7187,11 +11253,27 @@ Wyczaruj festynową zabawę z zestawem LEGO® Friends Magiczne wesołe miasteczk
  
 • Nowe zabawki LEGO® są testowane na niemal wszelkie dostępne sposoby.
 
+**Galeria:**
+
+- 41685-1: https://a.allegroimg.com/original/11ba25/804bb4304b4bbdd97773c5c5e0ca
+
 ---
 
-## 41686 — Lego Friends 41686 Magiczna akrobatyka
+## 41686 — Magiczna akrobatyka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 147.49 zł · EAN: 05702016916058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41686 |
+| Nazwa angielska | Magical Acrobatics |
+| Nazwa polska | Magiczna akrobatyka |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016916058 |
 
 Klocki LEGO® 41686 Friends Magiczna akrobatyka
 
@@ -7214,11 +11296,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 6 lat, które lubią kreatywne odgrywanie scenek, akrobatykę, konie oraz klimat wesołego miasteczka. Sprawdzi się do budowania i wymyślania własnych pokazów z bohaterkami LEGO® Friends.
 
+**Galeria:**
+
+- 41686-1: https://a.allegroimg.com/original/11fd5a/1aa8d2c24ed491a0f07b441ffb2b
+
 ---
 
-## 41687 — Lego Friends 41687 Magiczne stoiska w wesołym miasteczku
+## 41687 — Magiczne stoiska w wesołym miasteczku
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702016916102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41687 |
+| Nazwa angielska | Magical Funfair Stalls |
+| Nazwa polska | Magiczne stoiska w wesołym miasteczku |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 31 cm × gł. 6 cm |
+| EAN | 5702016916102 |
 
 Przedmiot w ofercie: LEGO Friends 41687 Magiczne stoiska w wesołym miasteczku.
 
@@ -7228,11 +11326,26 @@ Zestaw LEGO(R) Friends Magiczne stoiska w wesołym miasteczku (41687) pozwala pr
 
 Zapraszam do zakupów.
 
+**Galeria:**
+
+- 41687-1: https://a.allegroimg.com/original/11069c/5c664dbb40b186be2fa80cc4d5d3
+
 ---
 
-## 41688 — Klocki Lego 41688 Friends Magiczny Wóz
+## 41688 — LEGO Friends 41688 Magiczna karawana
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702016916119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41688 |
+| Nazwa angielska | Magical Caravan |
+| Nazwa polska | LEGO Friends 41688 Magiczna karawana |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 348 |
+| Cena katalogowa | 229.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016916119 |
 
 KLOCKI LEGO 41688 FRIENDS MAGICZNY WÓZ
 
@@ -7252,11 +11365,27 @@ Czarujące szczegóły Konny wóz to typowy pojazd w starym stylu z uroczymi aż
 
 Magia przyjaźni Pokaż małym budowniczym miasto Heartlake, gdzie mogą wcielić się w bohaterów wzorowanych na prawdziwym świecie. Zestawy LEGO Friends pozwalają dzieciom rozwijać pasje w towarzystwie wyjątkowych postaci.
 
+**Galeria:**
+
+- 41688-1: https://a.allegroimg.com/original/115315/c1d9408d469da524a63f1840dc8a
+
 ---
 
-## 41689 — Lego 41689 Friends Magiczny diabelski młyn i zjeżdżalnia
+## 41689 — Magiczny diabelski młyn i zjeżdżalnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 256.88 zł · EAN: 05702016943511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41689 |
+| Nazwa angielska | Magical Ferris Wheel and Slide |
+| Nazwa polska | Magiczny diabelski młyn i zjeżdżalnia |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 545 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 18 cm × gł. 12 cm |
+| EAN | 5702016943511 |
 
 Klocki LEGO Friends 41689 - Magiczny diabelski młyn i zjeżdżalnia
 
@@ -7306,11 +11435,27 @@ Zestaw LEGO Friends - Magiczny diabelski młyn i zjeżdżalnia trafił do sprz
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 41689-1: https://a.allegroimg.com/original/11b63a/d95325b944c7b8442d7ed2e7a87c
+
 ---
 
-## 41691 — Lego 41691 Friends Świetlica dla psów
+## 41691 — ŚWIETLICA DLA PSÓW
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 189.89 zł · EAN: 05702016971750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41691 |
+| Nazwa angielska | Doggy Day Care |
+| Nazwa polska | ŚWIETLICA DLA PSÓW |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 17 cm × gł. 9 cm |
+| EAN | 5702016971750 |
 
 Klocki LEGO Friends 41691 - Świetlica dla psów
 
@@ -7337,11 +11482,27 @@ Twój sześciolatek szaleje za psami? Podaruj mu zestaw, który idealnie nadaje 
 - Elementy, z których zbudowana jest ta nowa zabawka LEGO®, spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Zestawy LEGO® Friends są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41691-1: https://a.allegroimg.com/original/11cadf/5b948f92490284fa7678d7d26d2b
+
 ---
 
-## 41692 — Lego Friends Weterynaryjny helikopter ratunkowy 41692
+## 41692 — Weterynaryjny helikopter ratunkowy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016971767 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41692 |
+| Nazwa angielska | Vet Clinic Rescue Helicopter |
+| Nazwa polska | Weterynaryjny helikopter ratunkowy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm |
+| EAN | 5702016971767 |
 
 LEGO Friends Weterynaryjny helikopter ratunkowy 41692
  
@@ -7365,11 +11526,27 @@ Twoje dziecko fascynuje się zwierzętami domowymi? Zabawkowy weterynaryjny heli
  
 • Klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41692-1: https://a.allegroimg.com/original/11ab71/2821f1e248a6b1781835e5dd1c3f
+
 ---
 
-## 41693 — Lego Friends 41693 Nabrzeże surferów ----- Outlet
+## 41693 — Nabrzeże surferów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702016973570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41693 |
+| Nazwa angielska | Surfer Beachfront |
+| Nazwa polska | Nabrzeże surferów |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 35 cm × gł. 10 cm |
+| EAN | 5702016973570 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -7382,11 +11559,27 @@ Twoje dziecko fascynuje się zwierzętami domowymi? Zabawkowy weterynaryjny heli
 - Model ma ok. 18 cm wysokości, 35 cm szerokości i 10 cm głębokości, więc zapewni mnóstwo zabawy, a jednocześnie jest wystarczająco mały, by można było go użyć jako dekoracji zachwycającej detalami.
 - Ta zabawka pozwoli dzieciom przeżyć niezwykłe przygody, których głównym motywem jest przyjaźń. Górny poziom budynku można zdjąć i bawić się nim osobno, a pomieszczenia można ustawić w dowolnej kolejności. Idealny model dla kreatywnych!
 
+**Galeria:**
+
+- 41693-1: https://a.allegroimg.com/original/11c4ff/ad5ad0604c179751621208280858
+
 ---
 
-## 41695 — 41695 Lego Friends Klinika dla zwierzątek
+## 41695 — Klinika dla zwierzątek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 62.77 zł · EAN: 05702017115160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41695 |
+| Nazwa angielska | Pet Clinic |
+| Nazwa polska | Klinika dla zwierzątek |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm |
+| EAN | 5702017115160 |
 
 Mia przyprowadziła tu swojego kota Duo, który zranił się w nogę. Pomóż Mii wepchnąć do kliniki uroczy wózek, na którym odpoczywa Duo. Przenieś kota na stół, żeby pani weterynarz mogła go zbadać, a potem daj mu lekarstwo i ułóż go na posłaniu, żeby się przespał. Po drzemce Duo poczuje się znacznie lepiej! Mia będzie mogła zabrać go na piętro na kąpiel, czesanie i zabawę na drapaku. Co za dzielny kotek!
 
@@ -7411,11 +11604,27 @@ Czterolatkom i starszym dzieciom spodoba się budowanie kliniki weterynaryjnej z
 - Niezmiennie wysoka jakość — zabawki LEGO® spełniają najwyższe standardy branżowe już od 1958 r., dzięki czemu są jednolite, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić 
 - Bezpieczna zabawa — klocki i elementy LEGO® są testowane na wszystkie możliwe sposoby, więc możesz mieć pewność, że spełniają rygorystyczne standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41695-1: https://a.allegroimg.com/original/115d52/c5ea27944294a8316963aa28bd10
+
 ---
 
-## 41696 — Nowe Lego Friends 41696 Kąpiel Dla Kucyków W Stajni
+## 41696 — Kąpiel dla kucyków w stajni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 58.95 zł · EAN: 05702017152707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41696 |
+| Nazwa angielska | Pony-Washing Stable |
+| Nazwa polska | Kąpiel dla kucyków w stajni |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm × gł. 7 cm |
+| EAN | 5702017152707 |
 
 ZESTAW LEGO FRIENDS: 41696  - KĄPIEL DLA KUCYKÓW W STAJNI
 
@@ -7443,11 +11652,27 @@ Prezenty LEGO Friends dla dzieci zawierają wiarygodne postacie, które zachęca
 
 Zapraszam do licytacji oraz na inne moje aukcje
 
+**Galeria:**
+
+- 41696-1: https://a.allegroimg.com/original/1190e3/89b90b32486eb9fbf5157007d8a8
+
 ---
 
-## 41697 — Lego Friends 41697 Pojazd do ratowania żółwi
+## 41697 — Pojazd do ratowania żółwi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017152714 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41697 |
+| Nazwa angielska | Turtle Protection Vehicle |
+| Nazwa polska | Pojazd do ratowania żółwi |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152714 |
 
 LEGO Friends 41697 Pojazd do ratowania żółwi
  
@@ -7469,11 +11694,27 @@ Miłośnikom przyrody spodoba się zabawka z serii LEGO Friends z trzema figurka
 - Miniaturowa akcja ratunkowa — dzieci mogą popłynąć deską surfingową na ratunek żółwikom LEGO® i zabrać je na brzeg, by się nimi zaopiekować lub przewieźć w bezpieczniejsze miejsce 
 - Świetna propozycja dla sześcioletnich i starszych bohaterów — chcesz dać upominek młodemu miłośnikowi zwierząt? Ta zabawka sprawdzi się jako prezent na urodziny albo niespodzianka bez żadnej okazji
 
+**Galeria:**
+
+- 41697-1: https://a.allegroimg.com/original/11b087/99e57bfd4ff496962e724b61e807
+
 ---
 
-## 41698 — Lego Friends 41698 Plac zabaw dla zwierzątek
+## 41698 — Plac zabaw dla zwierzątek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702017152721 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41698 |
+| Nazwa angielska | Pet Playground |
+| Nazwa polska | Plac zabaw dla zwierzątek |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017152721 |
 
 Klocki LEGO® 41698 Friends Plac zabaw dla zwierzątek
 
@@ -7495,11 +11736,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 5 roku życia, które lubią zwierzęta, odgrywanie scenek i budowanie codziennych historii w świecie LEGO® Friends.
 
+**Galeria:**
+
+- 41698-1: https://a.allegroimg.com/original/11e6c8/b356f6f748e6a03b9b7c2b35a605
+
 ---
 
-## 41699 — Klocki Lego Friends Kawiarnia przy schronisku 292 elementy 41699
+## 41699 — Kawiarnia przy schronisku
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 143.99 zł · EAN: 05702017152738 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41699 |
+| Nazwa angielska | Pet Adoption Café |
+| Nazwa polska | Kawiarnia przy schronisku |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 22 cm |
+| EAN | 5702016698480, 5702017152738 |
 
 Klocki LEGO Friends Kawiarnia przy schronisku 292 elementy 41699
 
@@ -7529,11 +11786,28 @@ Spędź parę chwil w kawiarni przy schronisku i pomóż czworonogom w potrzebie
 - **Zabawki z sercem** — zaproś dzieci doświata LEGO Friends, w którym dowiedzą się, jak ważna jest troska o innych, i spotkają postacie o podobnych zainteresowaniach
 - **Zestaw wysokiej jakości **— elementy LEGO Friends spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć
 
+**Galeria:**
+
+- 41699-1: https://a.allegroimg.com/original/25281e/6a14b2384aff82d04134622c270e
+- 41699-2: https://a.allegroimg.com/original/05f5d5/fecd70784b9ebfe81867123ab22b
+
 ---
 
-## 41700 — Lego Friends 41700 Zestaw klocków Luksusowy kemping na plaży ----- Outlet
+## 41700 — Luksusowy kemping na plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 212.22 zł · EAN: 05702017117379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41700 |
+| Nazwa angielska | Beach Glamping |
+| Nazwa polska | Luksusowy kemping na plaży |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm |
+| EAN | 5702017117379 |
 
 **Nowy, fabrycznie zaplombowany zestaw.**
 
@@ -7566,11 +11840,27 @@ Dzięki cyfrowemu przewodnikowi składanie zabawki będzie wyjątkowo ciekawą z
 - Moc przyjaźni — zestawy z Miastem Heartlake oferują dzieciom zabawę w świecie wyobraźni i zachęcają do spędzania czasu z przyjaciółmi
 - Jednolita jakość — elementy LEGO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1958 roku
 
+**Galeria:**
+
+- 41700-1: https://a.allegroimg.com/original/11e7bb/e337be69425492841142fd341d5e
+
 ---
 
-## 41701 — Lego 41701 Friends Stragany Z Jedzeniem
+## 41701 — Streetfood-Markt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 204.09 zł · EAN: 05702017117386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41701 |
+| Nazwa angielska | Street Food Market |
+| Nazwa polska | Streetfood-Markt |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 592 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117386 |
 
 Czas zjeść drugie śniadanie. Może dzisiaj skusisz się na coś egzotycznego? Postacie z serii LEGO® Friends zwiedzają stragany z jedzeniem. Co wygląda najbardziej apetycznie? Przy stoliku możesz zjeść swój posiłek lub spróbować, co wybrali inni. Ethan wygląda na trochę zszokowanego — sos na jego taco jest zbyt ostry!
 
@@ -7602,11 +11892,27 @@ Prezent z serii LEGO Friends to dla dzieci okazja do odgrywania realistycznych s
 - Niezmiennie wysoka jakość — elementy LEGO® spełniają surowe standardy branżowe już od 1958 r., dzięki czemu są jednolite, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić 
 - Bezpieczna zabawa — popularne zabawki LEGO® są testowane na wszystkie możliwe sposoby, więc możesz mieć pewność, że spełniają rygorystyczne standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41701-1: https://a.allegroimg.com/original/052536/eaa727244f9fb5b9d8f5a5c54daf
+
 ---
 
-## 41702 — Lego Friends 41702 Łódź mieszkalna na kanale
+## 41702 — Łódź mieszkalna na kanale
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 293.89 zł · EAN: 05702017117393 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41702 |
+| Nazwa angielska | Canal Houseboat |
+| Nazwa polska | Łódź mieszkalna na kanale |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 737 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 12 cm |
+| EAN | 5702017117393, 5702017216508 |
 
 Mia i jej przyjaciele postanowili odnowić starą łódź. Może pomożesz im przywrócić ją do życia? Sebastian kończy właśnie malować deski. Zbierz warzywa z ogrodu i zanieś je na stoisko na pomoście, gdzie możesz sprzedać je mieszkańcom miasta.
  
@@ -7637,11 +11943,28 @@ Do zestawu dołączony jest cyfrowy przewodnik po budowaniu, dostępny w aplikac
 - Troskliwi przyjaciele — w Mieście Heartlake z serii LEGO® Friends dzieci rozwijają wyobraźnię i klocek po klocku budują wspólnie z przyjaciółmi lepszy świat 
 - Produkt wysokiej jakości — zabawki LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku
 
+**Galeria:**
+
+- 41702-1: https://a.allegroimg.com/original/119166/7c70faff49e7993c6916baabf54c
+- 41702-2: https://a.allegroimg.com/original/054382/b8152ca04c9786673ae07ad198e2
+
 ---
 
-## 41703 — Lego Friends 41703 Domek na drzewie przyjaźni
+## 41703 — Domek na drzewie przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702017152745 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41703 |
+| Nazwa angielska | Friendship Tree House |
+| Nazwa polska | Domek na drzewie przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 30 cm × gł. 13 cm |
+| EAN | 5702017152745 |
 
 LEGO Friends 41703 Domek na Drzewie przyjaźni
  
@@ -7672,11 +11995,26 @@ Zestaw LEGO® Friends z domkiem na drzewie zawiera mnóstwo elementów, które p
 - Troskliwa społeczność - Pozwól dzieciom zwiedzić miasto Heartlake, gdzie czeka na nie wiele codziennych przygód oraz znajomych, którzy zawsze się wspierają 
 - Wysoka jakość bez kompromisów - Popularne klocki LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu za każdym razem mocno się łączą i umożliwiają budowanie solidnych modeli
 
+**Galeria:**
+
+- 41703-1: https://a.allegroimg.com/original/11a59e/7e44513a4ebbaafc6b8d3267e4b8
+
 ---
 
-## 41705 — Lego Friends 41705 Pizzeria w Heartlake
+## 41705 — Pizzeria w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702017152769 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41705 |
+| Nazwa angielska | Heartlake City Pizzeria |
+| Nazwa polska | Pizzeria w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 144 |
+| Cena katalogowa | 69.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 11 cm × gł. 6 cm |
+| EAN | 5702017152769 |
 
 LEGO Friends 41705 Pizzeria w Heartlake
  
@@ -7701,11 +12039,26 @@ Jest tu zabawkowy piec do pizzy, więc pociechy mogą się swobodnie bawić i ur
 - Zestawy do odgrywania scenek z życia codziennego — zestawy LEGO® Friends zawierają wiarygodne postacie i pozwalają odgrywać autentyczne, inspirowane życiem scenki bez wychodzenia z domu 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41705-1: https://a.allegroimg.com/original/053193/09041134409fb9d19610f49601cb
+
 ---
 
-## 41707 — Lego Friends 41707 Furgonetka do Sadzenia Drzew Outlet, pudełko 9/10
+## 41707 — Furgonetka do sadzenia drzew
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702017155081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41707 |
+| Nazwa angielska | Tree-Planting Vehicle |
+| Nazwa polska | Furgonetka do sadzenia drzew |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 336 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017155081 |
 
 Pudełko posiada niewielkie zagniecenia magazynowe widoczne na zdjęciach - zestaw nie pochodzi ze zwrotu. Pudełko fabrycznie zamknięte, w pełni wartościowe - kupują Państwo zestaw, którego zdjęcia widnieją w galerii. Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby uniknąć dodatkowych uszkodzeń pudełka 📦
 
@@ -7734,11 +12087,26 @@ Ten prezent urodzinowy dla dzieci zawiera sporo funkcji inspirujących do pomys�
 - Troskliwi przyjaciele — model można połączyć z zestawami LEGO® Friends Łódź mieszkalna na kanale (41702) oraz Domek na Drzewie przyjaźni (41703), dzięki którym dzieci mogą rozwijać swoje pasje i bawić się jeszcze lepiej
 - Pewność i bezpieczeństwo — elementy LEGO® są testowane na niemal każdy możliwy sposób, więc mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41707-1: https://a.allegroimg.com/original/05bba9/55d419f14253bb676135c26e9ded
+
 ---
 
-## 41708 — Lego Friends 41708 nowy zestaw Julivo
+## 41708 — Automat w dyskotece
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 205.00 zł · EAN: 05702017155098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41708 |
+| Nazwa angielska | Roller Disco Arcade |
+| Nazwa polska | Automat w dyskotece |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 642 |
+| Cena katalogowa | 269.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 38 cm × gł. 17 cm |
+| EAN | 5702017155098 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -7779,11 +12147,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41708-1: https://a.allegroimg.com/original/0502b1/766f6b5143e6b2898a0da93d434f
+
 ---
 
-## 41709 — Lego Friends 41709 Wakacyjny Domek Na Plaży
+## 41709 — Wakacyjny domek na plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702017155104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41709 |
+| Nazwa angielska | Vacation Beach House |
+| Nazwa polska | Wakacyjny domek na plaży |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 686 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 26 cm |
+| EAN | 5702017155104 |
 
 Zestaw LEGO(R) Friends Wakacyjny domek na plaży (41709) pozwoli siedmiolatkom i starszym dzieciom pobawić się we wspaniałe wakacje. Zestaw wypełniony jest mnóstwem ciekawych funkcji i zabawek do odgrywania nadmorskich scenek. W domku są dwie sypialnie, w tym jedna z łazienką i toaletą, a do tego balkon, basen na dachu, kuchnia i salon. Na zewnątrz jest stół do tenisa, pomost i nadmuchiwany banan do holowania, na którym można przeżyć emocjonujące chwile na falach. Te wszystkie atrakcje czekają na dołączone do zestawu cztery minilaleczki LEGO Friends.
  
@@ -7807,11 +12191,27 @@ Pobierz aplikację Instrukcje budowaniaLEGO -- znajdziesz w niej interaktywny pr
 - Świat rozrywki i przyjaźni -- zaproś dzieci do wesołego Miasta Heartlake, w którym dowiedzą się, że najwspanialsze chwile to te spędzane z przyjaciółmi 
 - Wysoka jakość -- zestawy LEGO(R) Friends spełniają wymogi najwyższych standardów branżowych, dzięki czemu zawsze do siebie pasują i mocno się trzymają, co pozwala tworzyć solidne modele
 
+**Galeria:**
+
+- 41709-1: https://a.allegroimg.com/original/05f676/d80de2034f6d9963aa2fd9f68ceb
+
 ---
 
-## 41710 — Lego Friends 41710 Plaża surferów
+## 41710 — Plaża surferów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 144.99 zł · EAN: 05702017155111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41710 |
+| Nazwa angielska | Surfer Beach Fun |
+| Nazwa polska | Plaża surferów |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 288 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155111 |
 
 Pozwól kreatywnym dzieciom w wieku od 6 lat złapać falę kreatywności podczas wielogodzinnej zabawy. Niech odkrywają fajne, pełne szczegółów zabawki z zestawu LEGO® Friends Plaża surferów (41710). Ten pełen różnych elementów model obejmuje wieżyczkę ratowniczą, szkołę surfingu z wypożyczalnią, deskę surfingową i dmuchaną zabawkę w kształcie jednorożca oraz wiele uroczych plażowych akcesoriów.
  
@@ -7835,11 +12235,27 @@ Ten przewodnik oferuje funkcje powiększania i obracania, dzięki którym dzieci
 - Wiatr w żagle wyobraźni – zapoznaj dzieci z zabawkami z miasta Heartlake, dzięki którym spędzą wiele godzin na odgrywaniu ról z prawdziwego życia w towarzystwie codziennych bohaterów 
 - Bezpieczeństwo przede wszystkim – zabawki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41710-1: https://a.allegroimg.com/original/11317f/7f6f145745d483877c16d684b2bf
+
 ---
 
-## 41711 — Lego Friends 41711 Szkoła artystyczna Emmy 844 elementy
+## 41711 — Szkoła artystyczna Emmy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 625.99 zł · EAN: 05702017155128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41711 |
+| Nazwa angielska | Emma's Art School |
+| Nazwa polska | Szkoła artystyczna Emmy |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 844 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 23 cm × gł. 8 cm |
+| EAN | 5702017155128 |
 
 Zainspiruj dzieci do kreatywnej zabawy zestawem Szkoła artystyczna Emmy (41711). To wspaniały prezent dla dzieci w wieku od 8 lat. W środku pięknego budynku znajdują się trzy piętra pełne kreatywnych artystycznych zabawek, gdzie chłopcy i dziewczęta mogą towarzyszyć Emmie z LEGO® Friends w nauce ceramiki, projektowania mody i drukowania 3D.
  
@@ -7866,11 +12282,26 @@ Dołącz do Emmy, która spełniła swoje marzenie i dostała się do słynnej s
 - Kładziemy nacisk na jakość – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41711-1: https://a.allegroimg.com/original/05da18/5a869a1f45db91e100d85f9c4017
+
 ---
 
-## 41712 — Lego Friends Ciężarówka Do Recyklingu 41712
+## 41712 — Ciężarówka recyklingowa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702017154114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41712 |
+| Nazwa angielska | Recycling Truck |
+| Nazwa polska | Ciężarówka recyklingowa |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 259 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017154114 |
 
 Ciężarówka recyklingowa z kubłami do sortowania śmieci
 
@@ -7880,11 +12311,26 @@ Buduj z cyfrową pomocą
 
 Ten świetny prezent sprawi, że dzieciom na pewno uda się budowanie modelu. Obejmuje nie tylko szczegółową instrukcję z ilustracjami, ale także interaktywne cyfrowe instrukcje budowania. Są one dostępne w bezpłatnej aplikacji Instrukcje budowania LEGO na smartfony i tablety. Przewodnik oferuje intuicyjne funkcje powiększania i obracania, dzięki którym dzieci mogą obejrzeć powstający model z każdej strony.
 
+**Galeria:**
+
+- 41712-1: https://a.allegroimg.com/original/11c988/39a3e3524fb790aedf39857e51e7
+
 ---
 
-## 41713 — Lego Friends 41713 Kosmiczna akademia Olivii Nasa
+## 41713 — Kosmiczna akademia Olivii
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 270.00 zł · EAN: 05702017154121 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41713 |
+| Nazwa angielska | Olivia's Space Academy |
+| Nazwa polska | Kosmiczna akademia Olivii |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 757 |
+| Cena katalogowa | 329.99 zł |
+| Wymiary złożonego | wys. 26 cm × szer. 21 cm × gł. 10 cm |
+| EAN | 5702017154121 |
 
 LEGO Friends 41713 Kosmiczna akademia Olivii
  
@@ -7916,11 +12362,27 @@ Wyrusz śmiało tam, gdzie nie dotarło jeszcze żadne dziecko! Dołącz do Oliv
 - Zabawa stymulująca do nauki — zabawki LEGO® Friends zostały pomyślane tak, aby pomóc dzieciom w zgłębianiu zainteresowań i poznawaniu świata w towarzystwie postaci, z którymi mogą się identyfikować 
 - Najwyższa jakość bez kompromisów — zestawy LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu klocki za każdym razem mocno się łączą i umożliwiają budowanie solidnych modeli
 
+**Galeria:**
+
+- 41713-1: https://a.allegroimg.com/original/2542ac/aa0c0c3240f383062d6701c647ee
+
 ---
 
-## 41714 — Klocki Lego Friends Zestaw Szkoła aktorska Andrei 41714
+## 41714 — Szkoła aktorska Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 446.99 zł · EAN: 05702017154138 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41714 |
+| Nazwa angielska | Andrea's Theater School |
+| Nazwa polska | Szkoła aktorska Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 39 cm × gł. 13 cm |
+| EAN | 5702017154138 |
 
 LEGO Friends 41714 Szkoła aktorska Andrei
  
@@ -7950,11 +12412,26 @@ Kurtyna w górę dla Andrei, która wkracza na scenę. Dostała się do słynnej
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy zestawów LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele sposobów.
 
+**Galeria:**
+
+- 41714-1: https://a.allegroimg.com/original/0513e3/7592370049f5b2ee023101f05eb2
+
 ---
 
-## 41715 — Lego Friends 41715 Furgonetka Z Lodami 4+ Nowa
+## 41715 — Furgonetka z lodami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 62.00 zł · EAN: 05702017154145 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41715 |
+| Nazwa angielska | Ice-Cream Truck |
+| Nazwa polska | Furgonetka z lodami |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 84 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702017154145 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -7992,11 +12469,26 @@ Budowanie zestawów z serii 4+ jest dziecinnie proste. Młodzi konstruktorzy mog
 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41715-1: https://a.allegroimg.com/original/110345/4c4489194b9e8d51240ccd3a9341
+
 ---
 
-## 41716 — Lego Friends 41716 Stephanie i przygoda pod żaglami
+## 41716 — Stephanie i przygoda pod żaglami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 212.13 zł · EAN: 05053014255411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41716 |
+| Nazwa angielska | Stephanie's Sailing Adventure |
+| Nazwa polska | Stephanie i przygoda pod żaglami |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 304 |
+| Cena katalogowa | 199.99 zł |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm |
+| EAN | 5053014255411, 5702017154152 |
 
 LEGO Friends 41716 Stephanie i przygoda pod żaglami
  
@@ -8023,11 +12515,26 @@ Zestaw zawiera jasne drukowane instrukcje, ale dzieci mogą także korzystać z 
 - Zabawa stymulująca do nauki – zabawki LEGO® Friends zostały pomyślane tak, aby pomóc dzieciom w zgłębianiu zainteresowań i poznawaniu świata w towarzystwie postaci, z którymi mogą się identyfikować 
 - Najwyższa jakość bez kompromisów – zestawy LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu klocki za każdym razem mocno się łączą i umożliwiają budowanie solidnych modeli
 
+**Galeria:**
+
+- 41716-1: https://a.allegroimg.com/original/057fdd/0b337a5a41d5b4cf12ee07d12015
+
 ---
 
-## 41717 — Lego Friends 41717 Mia ratowniczka dzikich zwierząt
+## 41717 — LEGO Mia ratowniczka dzikich zwierząt 41717
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702017154923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41717 |
+| Nazwa angielska | Mia's Wildlife Rescue |
+| Nazwa polska | LEGO Mia ratowniczka dzikich zwierząt 41717 |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 430 |
+| Cena katalogowa | 229.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 24 cm × gł. 7 cm |
+| EAN | 5702017154923 |
 
 LEGO Friends 41717 Mia ratowniczka dzikich zwierząt
  
@@ -8055,11 +12562,27 @@ Przygotuj się na safari. Mia została przyjęta do centrum ratunkowego dla dzik
 - Zabawa stymulująca do nauki – zabawki LEGO® Friends zostały pomyślane tak, aby pomóc dzieciom w zgłębianiu zainteresowań i poznawaniu świata w towarzystwie postaci, z którymi mogą się identyfikować 
 - Najwyższa jakość bez kompromisów – zestawy LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu klocki za każdym razem mocno się łączą i umożliwiają budowanie solidnych modeli
 
+**Galeria:**
+
+- 41717-1: https://a.allegroimg.com/original/05a9f1/935a8d474327aebb9bce508df2a1
+
 ---
 
-## 41718 — Lego Friends 41718 nowy zestaw Julivo
+## 41718 — Hotel dla zwierzątek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 569.00 zł · EAN: 05702017154930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41718 |
+| Nazwa angielska | Pet Day-Care Center |
+| Nazwa polska | Hotel dla zwierzątek |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 593 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 34 cm × gł. 21 cm |
+| EAN | 5702017154930 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -8104,11 +12627,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 41718-1: https://a.allegroimg.com/original/29b960/b78463414505874de8aae7b80a0b
+
 ---
 
-## 41720 — Lego Friends 41720 Park wodny
+## 41720 — Park wodny
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 272.00 zł · EAN: 05702017154954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41720 |
+| Nazwa angielska | Water Park |
+| Nazwa polska | Park wodny |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 373 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 32 cm × gł. 20 cm |
+| EAN | 5702017154954 |
 
 LEGO Friends 41720 Park wodny
  
@@ -8135,11 +12674,27 @@ Zestaw zawiera cyfrowe instrukcje, które krok po kroku wyjaśniają proces budo
 - Każdy dzień to okazja do zabawy — zestawy LEGO® Friends pozwalają dzieciom odgrywać scenki z życia codziennego z wiarygodnymi postaciami, które pomagają rozwijać wyobraźnię 
 - Niezmienna jakość — podarunkowe zestawy LEGO® Friends już od 1958 roku spełniają wymagające branżowe standardy, co daje pewność, że dzieci mogą z łatwością podnieść, połączyć i rozdzielić klocki
 
+**Galeria:**
+
+- 41720-1: https://a.allegroimg.com/original/110bd2/5d8c4d12475ea7515df4c62df240
+
 ---
 
-## 41721 — Lego Friends 41721 Ekologiczna farma
+## 41721 — LEGO Friends 41721 Ekologiczna farma
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 387.00 zł · EAN: 05702017154961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41721 |
+| Nazwa angielska | Organic Farm |
+| Nazwa polska | LEGO Friends 41721 Ekologiczna farma |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 826 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154961 |
 
 LEGO® 41721 Friends - Ekologiczna farma
 
@@ -8153,11 +12708,27 @@ Stan pudełka BDB, "na prezent"
 
 **Zapraszam**
 
+**Galeria:**
+
+- 41721-1: https://a.allegroimg.com/original/11f000/e285e65e4b5897b195939c42ccd9
+
 ---
 
-## 41722 — Lego Friends 41722 Przyczepa na wystawę koni
+## 41722 — Przyczepa na wystawę koni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 666.88 zł · EAN: 05702017243283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41722 |
+| Nazwa angielska | Horse Show Trailer |
+| Nazwa polska | Przyczepa na wystawę koni |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 989 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm |
+| EAN | 5702017188331, 5702017243283 |
 
 LEGO FRIENDS
 
@@ -8207,11 +12778,28 @@ Specyfikacja zestawu:
 - **Ilość minilaleczek:** 3
 - **Ilość zwierzątek:** 3
 
+**Galeria:**
+
+- 41722-1: https://a.allegroimg.com/original/11f397/e9b1dc8640da9148000a1b2ad9e2
+- 41722-2: https://a.allegroimg.com/original/05fcbd/bdf54ba44b26a6df3b1474c65bf5
+
 ---
 
-## 41723 — Lego Friends 41723 Cukiernia z pączkami
+## 41723 — Cukiernia z pączkami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 37.76 zł · EAN: 05702017398853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41723 |
+| Nazwa angielska | Donut Shop |
+| Nazwa polska | Cukiernia z pączkami |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 8 cm |
+| EAN | 5702017398853 |
 
 LEGO® Friends 41723 Cukiernia z pączkami
 
@@ -8271,11 +12859,26 @@ Seria Friends to klocki dla dziewczynek. W zestawach można znaleźć minilalecz
 
 **Dla dzieci w wieku: 4+ lat**
 
+**Galeria:**
+
+- 41723-1: https://a.allegroimg.com/original/11d1b7/e28c5c244db3b34e5386d1324aae
+
 ---
 
-## 41724 — Lego Friends 41724 Dom Paisley
+## 41724 — Dom Paisley
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702017412832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41724 |
+| Nazwa angielska | Paisley's House |
+| Nazwa polska | Dom Paisley |
+| Seria | Friends |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2023 |
+| Liczba elementów | 185 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 13 cm × gł. 12 cm |
+| EAN | 5702017412832, 5702017435985 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8323,11 +12926,27 @@ Dzieci mogą zawierać przyjaźnie, odkrywać ekscytujące lokalizacje i odgrywa
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41724-1: https://a.allegroimg.com/original/1138ae/e26e77e5426d89d562fd45b9712f
+- 41724-2: https://a.allegroimg.com/original/11b732/807789a6498d8f170c9cd82c86b3
+
 ---
 
-## 41725 — Lego Friends 41725 Zabawa z Łazikiem Plażowym Klocki 61 el. 2 Figurki
+## 41725 — Zabawa z łazikiem plażowym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017412849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41725 |
+| Nazwa angielska | Beach Buggy Fun |
+| Nazwa polska | Zabawa z łazikiem plażowym |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017412849 |
 
 LEGO Friends 41725 Zabawa z Łazikiem Plażowym
 
@@ -8471,11 +13090,26 @@ Tak. To doskonały pomysł na prezent dla dzieci lubiących pojazdy, plażowe pr
 
 Tak. Jest to oryginalny zestaw LEGO Friends o numerze katalogowym **41725**.
 
+**Galeria:**
+
+- 41725-1: https://a.allegroimg.com/original/11255f/bd8eb36149db844b647b228e0557
+
 ---
 
-## 41726 — Lego Friends 41726 Wakacyjna Wyprawa Na Biwak 4+ Nowy
+## 41726 — Wakacyjna wyprawa na biwak
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 68.00 zł · EAN: 05702017415024 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41726 |
+| Nazwa angielska | Holiday Camping Trip |
+| Nazwa polska | Wakacyjna wyprawa na biwak |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017415024 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -8512,11 +13146,27 @@ Dzieci mogą zawierać przyjaźnie, odkrywać ekscytujące lokalizacje i odgrywa
 - Jakość to priorytet – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41726-1: https://a.allegroimg.com/original/118fcb/eefb2cfd49f7b6cc391f3a16f5ec
+
 ---
 
-## 41727 — Lego 41727 Friends Centrum ratunkowe schronisko dla psów ----- Outlet
+## 41727 — Schronisko dla psów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 485.55 zł · EAN: 05702017415031 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41727 |
+| Nazwa angielska | Dog Rescue Center |
+| Nazwa polska | Schronisko dla psów |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 617 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 26 cm × gł. 20 cm |
+| EAN | 5702017415031 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -8551,11 +13201,26 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41727-1: https://a.allegroimg.com/original/05c6a2/d9e2db56450bae721626e75a4a18
+
 ---
 
-## 41728 — klocki Lego Friends 41728 Bar w śródmieściu Heartlake
+## 41728 — Bar w śródmieściu Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 109.99 zł · EAN: 57020166953901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41728 |
+| Nazwa angielska | Heartlake Downtown Diner |
+| Nazwa polska | Bar w śródmieściu Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 346 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 19 cm × gł. 11 cm |
+| EAN | 57020166953901, 5702017415048 |
 
 LEGO Friends 41728 Bar w śródmieściu Heartlake
 
@@ -8586,11 +13251,27 @@ Dzieci mogą zawierać przyjaźnie, odkrywać ekscytujące lokalizacje i odgrywa
 - Jakość bez kompromisów – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41728-1: https://a.allegroimg.com/original/053f78/d1f204e34426930fb13a336555df
+- 41728-2: https://a.allegroimg.com/original/11ea49/12ee4dfb4fbab8ae9ec152e21b6a
+
 ---
 
-## 41729 — Lego 41729 Sklep spożywczy z żywnością ekologiczną
+## 41729 — Sklep spożywczy z żywnością ekologiczną 
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702017415055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41729 |
+| Nazwa angielska | Organic Grocery Store |
+| Nazwa polska | Sklep spożywczy z żywnością ekologiczną  |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 830 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 35 cm × gł. 15 cm |
+| EAN | 5702017415055 |
 
 LEGO® 41729 Sklep spożywczy z żywnością ekologiczną
 
@@ -8615,11 +13296,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Jakość to priorytet – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
 - Gwarancja bezpieczeństwa – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41729-1: https://a.allegroimg.com/original/1158ac/d9ab294d47cdb44606c7e8f4e902
+
 ---
 
-## 41730 — Lego Friends 41730 Dom Autumn
+## 41730 — Dom Autumn
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702017444529 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41730 |
+| Nazwa angielska | Autumn's House |
+| Nazwa polska | Dom Autumn |
+| Seria | Friends |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 853 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017444529 |
 
 SPECYFIKACJA:
  
@@ -8667,11 +13364,27 @@ Na tropie przyrody
  
 Wyjdź na balkon i obserwuj ptaki przez lornetkę.
 
+**Galeria:**
+
+- 41730-1: https://a.allegroimg.com/original/2531e4/b8415e014fc4b3da1017fdd333fc
+
 ---
 
-## 41731 — Klocki Lego Friends Zestaw Międzynarodowa szkoła w Heartla 41731
+## 41731 — Międzynarodowa szkoła w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702017415178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41731 |
+| Nazwa angielska | Heartlake International School |
+| Nazwa polska | Międzynarodowa szkoła w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 985 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 35 cm × gł. 25 cm |
+| EAN | 5702017415178 |
 
 LEGO Friends 41731 Międzynarodowa szkoła w Heartlake
 
@@ -8706,11 +13419,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 
 - Bezpieczeństwo podczas zabawy – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41731-1: https://a.allegroimg.com/original/05fbbe/b86b3af84f86ab985a93dcc0b515
+
 ---
 
-## 41732 — Lego Friends 41732 Sklep wnętrzarski i kwiaciarnia w śródmieściu
+## 41732 — Sklep wnętrzarski i kwiaciarnia w śródmieściu
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 867.00 zł · EAN: 05702017415185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41732 |
+| Nazwa angielska | Downtown Flower and Design Stores |
+| Nazwa polska | Sklep wnętrzarski i kwiaciarnia w śródmieściu |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 51 cm × gł. 19 cm |
+| EAN | 5702017415185 |
 
 2M
 
@@ -8741,11 +13470,27 @@ Miłośnicy budowania mogą cieszyć się łatwym i intuicyjnym budowaniem dzię
 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41732-1: https://a.allegroimg.com/original/25e1c8/05f7e0e143d79cb58527b1811446
+
 ---
 
-## 41733 — Lego Friends 41733 Lego Friends Mobilny sklep z bubble tea 41733
+## 41733 — LEGO Friends Mobilny sklep z bubble tea 41733
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016695311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41733 |
+| Nazwa angielska | Mobile Bubble Tea Shop |
+| Nazwa polska | LEGO Friends Mobilny sklep z bubble tea 41733 |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016695311, 5702017400150 |
 
 Pomóż Matyldzie przygotować jej słynny napój i podaj go Novej. Użyj truskawek, bitej śmietany i posypki, aby urozmaicić przepisy. Chcesz podać bubble tea innym klientom? Przyczep hulajnogę i możesz ruszać w drogę!
  
@@ -8768,11 +13513,27 @@ Dzieci mogą zawierać przyjaźnie, odkrywać ekscytujące miejsca i odgrywać r
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41733-1: https://a.allegroimg.com/original/11116e/ebb0870b4624a01876f88430e7c2
+- 41733-2: https://a.allegroimg.com/original/11424e/7d191237449b962327c092f3291a
+
 ---
 
-## 41734 — Lego Friends Morska Łódź Ratunkowa 41734
+## 41734 — Morska łódź ratunkowa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 214.89 zł · EAN: 05702017415192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41734 |
+| Nazwa angielska | Sea Rescue Boat |
+| Nazwa polska | Morska łódź ratunkowa |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 18 cm |
+| EAN | 5702017415192 |
 
 Dzieci, którym zależy na przyrodzie, mogą poznać życie w oceanach dzięki szczegółowemu zestawowi LEGO® Friends Morska łódź ratunkowa dla dzieci w wieku od siedmiu lat. W zestawie znajduje się katamaran do zbudowania, który może służyć jako laboratorium, oraz mała łódź podwodna. Dzieci mogą odgrywać historie o ratownictwie morskim, przepływając łodzią po śmieciach, aby złapać je w sieci i przekazać do recyklingu. Nova i Aliya nie sądziły, że mają ze sobą wiele wspólnego, ale stają się sobie bliższe, podejmując tę wspólną misję.
 
@@ -8800,11 +13561,27 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41734-1: https://a.allegroimg.com/original/118732/1cf554b2441f8c1f25f1f14c236c
+
 ---
 
-## 41735 — Lego Friends mobilny domek na kółkach z samochodem 41735
+## 41735 — LEGO Friends 41735
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 409.00 zł · EAN: 05702017415208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41735 |
+| Nazwa angielska | Mobile Tiny House |
+| Nazwa polska | LEGO Friends 41735 |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 785 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 18 cm × gł. 11 cm |
+| EAN | 5702017415208 |
 
 LEGO Friends 41735 Mobilny domek
  
@@ -8831,11 +13608,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41735-1: https://a.allegroimg.com/original/05b97c/9121e7ad4837977531a186cf417d
+
 ---
 
-## 41736 — Lego Friends 41736 Morskie centrum ratunkowe zjeżdżalnia
+## 41736 — Morskie centrum ratunkowe
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017415215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41736 |
+| Nazwa angielska | Sea Rescue Center |
+| Nazwa polska | Morskie centrum ratunkowe |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 19 cm |
+| EAN | 5702017415215 |
 
 LEGO Friends 41736 Morskie centrum ratunkowe
  
@@ -8862,11 +13655,27 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41736-1: https://a.allegroimg.com/original/05fe37/74adf8574f9e855cd9d422a5b9ab
+
 ---
 
-## 41737 — Lego Friends 41737 Plażowy park rozrywki
+## 41737 — Plażowy park rozrywki
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 538.87 zł · EAN: 05702017415222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41737 |
+| Nazwa angielska | Beach Amusement Park |
+| Nazwa polska | Plażowy park rozrywki |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1348 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 37 cm × gł. 33 cm |
+| EAN | 5702017415222 |
 
 LEGO® Friends 41737 Plażowy park rozrywki
  
@@ -8919,11 +13728,27 @@ Zestawy LEGO® Friends to fantastyczna okazja dla dzieci w wieku od 6 lat do nau
  
 **Dla dzieci w wieku: 12+ lat**
 
+**Galeria:**
+
+- 41737-1: https://a.allegroimg.com/original/11302e/d509abbe45e4b0996ebeeb6264fc
+
 ---
 
-## 41738 — Lego Friends 41738 Rower Do Ratowania Psów 6+ Nowy
+## 41738 — Rower do ratowania psów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 48.00 zł · EAN: 05702017415239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41738 |
+| Nazwa angielska | Dog Rescue Bike |
+| Nazwa polska | Rower do ratowania psów |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm |
+| EAN | 5702017415239 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -8958,11 +13783,26 @@ Dzieci mogą zawierać przyjaźnie, odkrywać ekscytujące lokalizacje i odgrywa
 - Z myślą o wysokiej jakości – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41738-1: https://a.allegroimg.com/original/113e44/df13d49c4a59b7b7654aadd12a1a
+
 ---
 
-## 41739 — Lego Friends Pokój Liann 41739
+## 41739 — Pokój Liann
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 74.00 zł · EAN: 05702017415246 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41739 |
+| Nazwa angielska | Liann's Room |
+| Nazwa polska | Pokój Liann |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 204 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702017415246 |
 
 Rozbudź w dziecku miłość do sztuki dzięki zestawowi LEGO® Friends Pokój Liann dla dzieci w wieku od sześciu lat.
 
@@ -8994,11 +13834,27 @@ Poznaj Liann, odwiedzając jej pokój! Miłośniczka sztuki, Liann, zaprosiła p
 
 • Miasto Heartlake nowej generacji – w styczniu 2023 roku świat LEGO® Friends powiększy się o nowe postacie i lokalizacje, aby inspirować do kolejnych przygód
 
+**Galeria:**
+
+- 41739-1: https://a.allegroimg.com/original/11fb96/eb025daf4467b71c5b149dbbf243
+
 ---
 
-## 41740 — Lego Friends 41740 Pokój Aliyi
+## 41740 — Pokój Aliyi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 137.93 zł · EAN: 57020155474011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41740 |
+| Nazwa angielska | Aliya's Room |
+| Nazwa polska | Pokój Aliyi |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm × gł. 10 cm |
+| EAN | 57020155474011, 5702017215150, 5702017415253 |
 
 Lego FRIENDS 41740 Pokój Aliyi
 
@@ -9019,11 +13875,29 @@ Miasto Heartlake nowej generacjiW świecie LEGO Friends dzieci mogą zawierać p
 - Z myślą o wysokiej jakości - wszystkie elementy LEGO(R) spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
 - Bezpieczeństwo przede wszystkim - klocki i inne elementy LEGO(R) Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 41740-1: https://a.allegroimg.com/original/110b3b/375db25944e6b4f8e8841427cc5c
+- 41740-2: https://a.allegroimg.com/original/1161bd/5a82936a4543957fed81c6c4bf9c
+- 41740-3: https://a.allegroimg.com/original/1176ed/f6a28088458a828f44263e2a8f54
+
 ---
 
-## 41742 — Lego 41742 Friends Koci hotel
+## 41742 — Koci Hotel
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 314.99 zł · EAN: 05702017432656 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41742 |
+| Nazwa angielska | Cat Hotel |
+| Nazwa polska | Koci Hotel |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 23 cm × gł. 12 cm |
+| EAN | 5702017432656 |
 
 LEGO 41742 Friends - Koci hotel
 
@@ -9049,11 +13923,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 
 - Nowy sposób budowania – aplikacja LEGO® Builder jest przewodnikiem dzieci po intuicyjnym budowaniu. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele 3D w trakcie budowania
 
+**Galeria:**
+
+- 41742-1: https://a.allegroimg.com/original/455399/1f67e0644bddbb823a28e295b364
+
 ---
 
-## 41743 — Lego Friends 41743 Salon fryzjerski fryzjer
+## 41743 — Salon fryzjerski
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017432175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41743 |
+| Nazwa angielska | Hair Salon |
+| Nazwa polska | Salon fryzjerski |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017432175 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -9063,11 +13953,26 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 41743-1: https://a.allegroimg.com/original/1117d1/c50adc9d4ccd93d73825e2426ac7
+
 ---
 
-## 41744 — Lego Friends 41744 Centrum sportowe
+## 41744 — Centrum sportowe
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702017415277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41744 |
+| Nazwa angielska | Sports Centre |
+| Nazwa polska | Centrum sportowe |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 832 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 27 cm × gł. 17 cm |
+| EAN | 5702017415277 |
 
 LEGO Friends 41744 Centrum sportowe
 
@@ -9096,11 +14001,27 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41744-1: https://a.allegroimg.com/original/1186ea/d009d0f54f369f81b053ad603265
+
 ---
 
-## 41747 — Lego Friends Jadłodajnia w Heartlake 41747
+## 41747 — Kuchnia społeczności Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702017415307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41747 |
+| Nazwa angielska | Heartlake City Community Kitchen |
+| Nazwa polska | Kuchnia społeczności Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 695 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 22 cm × gł. 17 cm |
+| EAN | 5702017415307 |
 
 LEGO Friends 41747 Kuchnia społeczności Heartlake
 
@@ -9131,11 +14052,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41747-1: https://a.allegroimg.com/original/257201/074ccfd44cdf96d9280d1da11f5e
+
 ---
 
-## 41748 — Lego 41748 Friends Dom Kultury W Heartlake
+## 41748 — Dom kultury w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 999.45 zł · EAN: 05702017415314 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41748 |
+| Nazwa angielska | Heartlake City Community Center |
+| Nazwa polska | Dom kultury w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1513 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 41 cm × szer. 23 cm × gł. 28 cm |
+| EAN | 5702017415314 |
 
 LEGO Friends 41748 Dom kultury w Heartlake
  
@@ -9163,11 +14100,27 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41748-1: https://a.allegroimg.com/original/05ffae/d2241d81401ba284bb68fbf2613b
+
 ---
 
-## 41749 — Lego Friends 41749 Samochód dziennikarza
+## 41749 — Samochód dziennikarza
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 116.50 zł · EAN: 05702017415321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41749 |
+| Nazwa angielska | Newsroom Van |
+| Nazwa polska | Samochód dziennikarza |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 446 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702017415321 |
 
 LEGO Friends 41749 Samochód dziennikarza
  
@@ -9195,11 +14148,26 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41749-1: https://a.allegroimg.com/original/050f18/93479be74cab97dd7e2136b0098d
+
 ---
 
-## 41751 — Lego 41751 Friends Skatepark
+## 41751 — Skatepark
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 188.45 zł · EAN: 05702017415338 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41751 |
+| Nazwa angielska | Skate Park |
+| Nazwa polska | Skatepark |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 431 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 32 cm × gł. 16 cm |
+| EAN | 5702017415338 |
 
 LEGO 41751 FRIENDS - SKATEPARK
 
@@ -9240,11 +14208,26 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Wysokiej jakości produkt – wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością – i tak jest niezmiennie od 1958 roku,
 - Bezpieczeństwo przede wszystkim – klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 41751-1: https://a.allegroimg.com/original/111b01/ac799221466c8b0c11d8bb1cd1fa
+
 ---
 
-## 41752 — Lego Friends 41752 Hydroplan ratunkowy
+## 41752 — Hydroplan ratunkowy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702017215167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41752 |
+| Nazwa angielska | Sea Rescue Plane |
+| Nazwa polska | Hydroplan ratunkowy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm |
+| EAN | 5702017215167, 5702017415345 |
 
 LEGO Friends 41752 Hydroplan ratunkowy
  
@@ -9270,11 +14253,27 @@ Zachęć dzieci do rozwijania zainteresowań, odkrywając przed nimi nowy świat
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41752-1: https://a.allegroimg.com/original/1151ce/d430a79448dca1b77f06d9be66b5
+
 ---
 
-## 41753 — Lego Friends 41753 Sklep z naleśnikami
+## 41753 — Sklep z naleśnikami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017415352 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41753 |
+| Nazwa angielska | Pancake Shop |
+| Nazwa polska | Sklep z naleśnikami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm × gł. 7 cm |
+| EAN | 5702017415352 |
 
 Kreatywne dzieci w wieku od sześciu lat mogą bawić się w odgrywanie ról dzięki zestawowi LEGO® Friends Naleśnikarnia (41753). Zobacz, jak dzieci zaprzyjaźniają się z Luną i Paisley. Żądna przygód Luna i nieśmiała Paisley dają z siebie wszystko, jednocześnie dobrze się bawiąc. Zabawkowa naleśnikarnia jest wyposażona w kuchenkę, dodatki do naleśników i obracający się mikser, dzięki czemu dzieci mogą udawać, że przyrządzają smakołyki. Jest też mała kasa fiskalna, stolik i menu do odgrywania ról klientów. Dzieciom spodoba się też obserwowanie króliczka ukrywającego się pod krzakiem.
  
@@ -9299,11 +14298,26 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i takjest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41753-1: https://a.allegroimg.com/original/25db54/080cf9f14d9d8e8e73029e48d431
+
 ---
 
-## 41754 — Lego Friends 41754 Pokój Leo Klocki Lego
+## 41754 — Pokój Leo
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 67.99 zł · EAN: 05702017415369 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41754 |
+| Nazwa angielska | Leo's Room |
+| Nazwa polska | Pokój Leo |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 14 cm × gł. 10 cm |
+| EAN | 5702017415369 |
 
 LEGO Friends 41754 Pokój Leo
 
@@ -9344,11 +14358,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 
 ✔️ lub tak po prostu, aby sprawić dziecku przyjemność
 
+**Galeria:**
+
+- 41754-1: https://a.allegroimg.com/original/111a71/c6bab74e43c88a4ff12c0b91d3b4
+
 ---
 
-## 41755 — Klocki Lego Friends Pokój Novy 179 elementów 6 lat
+## 41755 — Pokój Novy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 111.24 zł · EAN: 05702017415376 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41755 |
+| Nazwa angielska | Nova's Room |
+| Nazwa polska | Pokój Novy |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm × gł. 11 cm |
+| EAN | 5702017415376 |
 
 Klocki LEGO Friends Pokój Novy 179 elementów 6 lat +
 
@@ -9397,11 +14427,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017415376
 
+**Galeria:**
+
+- 41755-1: https://a.allegroimg.com/original/113614/4c31932547bc8f8e9826ee52f362
+
 ---
 
-## 41756 — Lego Friends 41756 Stok Narciarski I Kawiarnia
+## 41756 — Ośrodek narciarski z kawiarnią
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 524.00 zł · EAN: 05702017415383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41756 |
+| Nazwa angielska | Holiday Ski Slope and Café |
+| Nazwa polska | Ośrodek narciarski z kawiarnią |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 980 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 31 cm × gł. 16 cm |
+| EAN | 5702017415383 |
 
 LEGO Friends 41756 Ośrodek narciarski z kawiarnią
 
@@ -9427,11 +14473,27 @@ W świecie LEGO Friends dzieci mogą zawierać przyjaźnie, odkrywać ekscytują
 - Wysokiej jakości produkt — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dziękiczemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim — klocki i inne elementy LEGO® Friends są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 41756-1: https://a.allegroimg.com/original/05511d/bb327b5943c78b59916d14b19dfe
+
 ---
 
-## 41757 — Lego Friends 41757 Ogród botaniczny
+## 41757 — Ogród botaniczny
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702017415390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41757 |
+| Nazwa angielska | Botanical Garden |
+| Nazwa polska | Ogród botaniczny |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1072 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm × gł. 28 cm |
+| EAN | 5702017415390 |
 
 LEGO® Friends 41757 Ogród botaniczny
 
@@ -9475,11 +14537,27 @@ Dodatkowe elementy zestawu dodają całemu modelowi uroku.
 - Prezent dla początkujących ogrodników — ten zestaw LEGO® Friends to świetny pomysł na prezent dla każdego dziecka w wieku od 12 lat, które chciałoby zbudować i ustawić na półce własny ogród botaniczny
 - Wymiary — zabawka LEGO® Friends Ogród botaniczny ma **22 cm wysokości, 25 cm szerokości i 28 cm głębokości**
 
+**Galeria:**
+
+- 41757-1: https://a.allegroimg.com/original/1113f2/9906459d4c8b8da8d5bb1ab03411
+
 ---
 
-## 41759 — Zestaw Lego Friends 41759 Autobus Miejski Z Heartlake
+## 41759 — Klocki LEGO Friends 41759 Autobus miejski z Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 171.97 zł · EAN: 05702017432663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41759 |
+| Nazwa angielska | Heartlake City Bus |
+| Nazwa polska | Klocki LEGO Friends 41759 Autobus miejski z Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm |
+| EAN | 5702017432663 |
 
 ZESTAW LEGO FRIENDS - 41759 - AUTOBUS MIEJSKI Z HEARTLAKE
 
@@ -9517,11 +14595,27 @@ Pojazd wyposażony jest w rampę dla osób z niepełnosprawnością, co pozwala 
 
 LEGO Friends 41759 to doskonały zestaw dla każdego dziecka, które interesuje się codziennym życiem w mieście i lubi tworzyć własne historie. Dzięki realistycznym detalom, funkcjom i postaciom zapewnia długie godziny kreatywnej zabawy. To świetny wybór na prezent urodzinowy, świąteczny lub niespodziankę bez okazji. Łączy zabawę z nauką i rozwijaniem wyobraźni, a jednocześnie pozwala budować własny, tętniący życiem świat zbudowany z klocków LEGO.
 
+**Galeria:**
+
+- 41759-1: https://a.allegroimg.com/original/056973/fd87dfa142fc9151b52c608a2274
+
 ---
 
-## 41760 — Lego 41760 Friends Przygoda w igloo
+## 41760 — Zimowa przygoda w igloo
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 277.76 zł · EAN: 05702017463513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41760 |
+| Nazwa angielska | Igloo Holiday Adventure |
+| Nazwa polska | Zimowa przygoda w igloo |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 491 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm × gł. 13 cm |
+| EAN | 5702017463513 |
 
 Klocki LEGO Friends 41760 - Przygoda w igloo
 
@@ -9557,11 +14651,27 @@ Zestaw LEGO Friends - Przygoda w igloo trafił do sprzedaży w 2023 roku. Nume
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 41760-1: https://a.allegroimg.com/original/117d82/06d726744fa49e83114cbc1a02df
+
 ---
 
-## 42601 — Klocki Lego 42601 Plac zabaw dla chomików
+## 42601 — klocki Lego 42601 Plac zabaw dla chomików
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 144.40 zł · EAN: 05702017600239 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42601 |
+| Nazwa angielska | Hamster Playground |
+| Nazwa polska | klocki Lego 42601 Plac zabaw dla chomików |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 18 cm × gł. 11 cm |
+| EAN | 5702017600239 |
 
 Dzięki zestawowi LEGO® Friends Plac zabaw dla chomików (42601) dla chłopców i dziewczynek w wieku od sześciu lat mali miłośnicy zwierząt mogą oddać się wspaniałej zabawie. Zestaw konstrukcyjny dla dzieci zawiera postacie LEGO Friends Zaca i Jamilę oraz trzy figurki chomików.
  
@@ -9578,11 +14688,26 @@ Szukasz prezentu dla dzieci, które uwielbiają zabawkowe zwierzątka? Ten zesta
 - Kreatywne zabawki do odgrywania ról — zobacz inne zestawy konstrukcyjne LEGO® Friends (sprzedawane osobno), w których dzieci odkrywają historie oprzyjaźni i różnorodne postacie oraz wymyślają własne przygody 
 - Wymiary — 167-elementowy zestaw z głównym modelem ma 9 cm wysokości, 18 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 42601-1: https://a.allegroimg.com/original/117edb/08946b714087b37d67e1f4c3cb2c
+
 ---
 
-## 42603 — Klocki Lego Friends 42603 Kamper Z Mobilnym Obserwatorium Gwiazd
+## 42603 — Karawana obserwująca gwiazdy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 96.62 zł · EAN: 05702017585192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42603 |
+| Nazwa angielska | Stargazing Camping Vehicle |
+| Nazwa polska | Karawana obserwująca gwiazdy |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017585192 |
 
 Na sprzedaż **KLOCKI LEGO FRIENDS 42603 KAMPER Z MOBILNYM OBSERWATORIUM GWIAZD**
 
@@ -9607,11 +14732,27 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanego przez nas spr
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 42603-1: https://a.allegroimg.com/original/114bbb/75ed2e2d42e992db8001e368b7b9
+
 ---
 
-## 42604 — Lego Friends 42604 Centrum handlowe w Heartlake
+## 42604 — Centrum handlowe w Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 850.86 zł · EAN: 05702017589275 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42604 |
+| Nazwa angielska | Heartlake City Shopping Mall |
+| Nazwa polska | Centrum handlowe w Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589275 |
 
 Lego FRIENDS 42604 Centrum handlowe w Heartlake
 
@@ -9629,11 +14770,26 @@ Prezent dla dzieci, które uwielbiają wyprawy na zakupy - ten zestaw to świetn
 
 Ciekawy sposób na budowanie - aplikacja LEGO Builder.
 
+**Galeria:**
+
+- 42604-1: https://a.allegroimg.com/original/1124c3/130fecff4f3baa364f5cc007bb54
+
 ---
 
-## 42605 — Lego Friends 42605 Baza marsjańska i rakieta
+## 42605 — Baza marsjańska i rakieta
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 324.99 zł · EAN: 05702017589282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42605 |
+| Nazwa angielska | Mars Space Base and Rocket |
+| Nazwa polska | Baza marsjańska i rakieta |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 981 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589282 |
 
 LEGO Friends Stacja badawcza na Marsie (42605) 
  
@@ -9661,11 +14817,27 @@ Ten zestaw zawiera specjalną śluzę powietrzną, dzięki czemu dzieci mogą ł
  
 • 981-elementowy zestaw z rakietą ma 20 cm wysokości
 
+**Galeria:**
+
+- 42605-1: https://a.allegroimg.com/original/11aa03/492ac6ab4132807843adc6ff83ca
+
 ---
 
-## 42606 — Lego Friends 42606 Mobilny stojak na ciasta
+## 42606 — Mobilny stojak na ciasta
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 28.24 zł · EAN: 05702017567303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42606 |
+| Nazwa angielska | Mobile Bakery Food Cart |
+| Nazwa polska | Mobilny stojak na ciasta |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm |
+| EAN | 5702017567303 |
 
 Zestaw LEGO Friends Mobilna piekarnia - zawiera dwie minilaleczki, figurkę psa, wózek i mnóstwo zabawkowych akcesoriów do piekarni dla dzieci w wieku od sześciu lat.
  
@@ -9681,11 +14853,27 @@ Zestawy LEGO Friends - zobacz inne kreatywne zestawy konstrukcyjne LEGO Friends 
  
 Wymiary: 125-elementowy zestaw z wózkiem ma 6 cm wysokości, 8 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 42606-1: https://a.allegroimg.com/original/29df23/a80cc0ff4481b94184f0891ff66e
+
 ---
 
-## 42607 — Zestaw klocków Lego Friends Szopa cielątka Autumn 42607
+## 42607 — Jesień i stajnia jej cieląt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 32.69 zł · EAN: 05702017589299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42607 |
+| Nazwa angielska | Autumn's Baby Cow Shed |
+| Nazwa polska | Jesień i stajnia jej cieląt |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589299 |
 
 Zestaw klocków LEGO Friends Szopa cielątka Autumn 42607
 
@@ -9727,11 +14915,27 @@ SERDECZNIE POLECAMY I ZAPRASZAMY NA NASZE POZOSTAŁE AUKCJE!!
 
 SD
 
+**Galeria:**
+
+- 42607-1: https://a.allegroimg.com/original/2972ff/34d12a244a2190c6a032f8610d16
+
 ---
 
-## 42608 — Lego 42608 Mały Sklep Z Akcesoriami
+## 42608 — Sklep z modnymi dodatkami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 44.90 zł · EAN: 05702017568553 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42608 |
+| Nazwa angielska | Tiny Accessories Store |
+| Nazwa polska | Sklep z modnymi dodatkami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm × gł. 6 cm |
+| EAN | 5702017568553, 5702019870128 |
 
 **Lego Friends - Mały sklep z akcesoriami**
 
@@ -9759,11 +14963,27 @@ Ilość elementów:129
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 42608-1: https://a.allegroimg.com/original/05bad8/1f19c69045bebd21e25079da709c
+- 42608-2: https://a.allegroimg.com/original/113709/6e8bc99c418fa8c658976544881f
+
 ---
 
-## 42609 — Lego Friends Samochód elektryczny i stacja ładująca 42609
+## 42609 — Elektryczny samochód z ładowarką
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 55.99 zł · EAN: 05702017589305 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42609 |
+| Nazwa angielska | Electric Car and Charger |
+| Nazwa polska | Elektryczny samochód z ładowarką |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702017589305 |
 
 LEGO Friends Samochód elektryczny i stacja ładująca 42609
 
@@ -9787,11 +15007,27 @@ Cechy produktu:
 - Zestawy LEGO® Friends dla dzieci — sprawdź inne kreatywne zabawki do budowania (sprzedawane osobno) z serii LEGO Friends, dzięki którym dzieci mogą odkrywać niekończące się historie o przyjaźni
 - Wymiary — 170-elementowy zestaw z elektrycznym samochodem ma 4 cm wysokości, 12 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 42609-1: https://a.allegroimg.com/original/116fe8/fc4cf64f4e73af388457f63e9c18
+
 ---
 
-## 42610 — Lego Friends 42610 Impreza Z Karaoke 6+ Nowy
+## 42610 — Impreza z karaoke
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 64.00 zł · EAN: 05702017589312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42610 |
+| Nazwa angielska | Karaoke Music Party |
+| Nazwa polska | Impreza z karaoke |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 16 cm × gł. 10 cm |
+| EAN | 5702017589312 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -9823,11 +15059,27 @@ Odkryj inne zestawy z serii LEGO Friends, dzięki którym dzieci mogą opowiada�
 - Zestawy konstrukcyjne dla kreatywnych dzieci — sprawdź inne ciekawe zestawy z serii (sprzedawane osobno), które zainspirują młodych konstruktorów do kreatywnych przygód
 - Wymiary — 196-elementowy zestaw ze sceną karaoke ma 8 cm wysokości, 16 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 42610-1: https://a.allegroimg.com/original/117fcc/4aa5a9654457bab0eb31b0f9609a
+
 ---
 
-## 42612 — Lego Friends 42612 Przygody na kocim placu zabaw
+## 42612 — Przygody na kocim placu zabaw
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 74.68 zł · EAN: 05702017589329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42612 |
+| Nazwa angielska | Cat Playground Adventure |
+| Nazwa polska | Przygody na kocim placu zabaw |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 16 cm |
+| EAN | 5702017589329 |
 
 LEGO Friends Kocia przygoda na placu zabaw (42612) 
  
@@ -9853,19 +15105,50 @@ Szukasz niesamowitego prezentu? Odkryj inne zestawy konstrukcyjne dla dzieci, kt
  
 • 87-elementowy zestaw ma 7 cm wysokości i 16 cm szerokości
 
+**Galeria:**
+
+- 42612-1: https://a.allegroimg.com/original/117422/3788357b411db1f1e51a77815f1a
+
 ---
 
-## 42613 — Klocki Lego Friends 42613 Karetka szpitala w Heartlake
+## 42613 — Karetka szpitala w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 131.29 zł · EAN: 05702017589336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42613 |
+| Nazwa angielska | Heartlake City Hospital Ambulance |
+| Nazwa polska | Karetka szpitala w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589336 |
 
 Liann uczy Bena jeździć na deskorolce. O nie! Chyba coś mu się stało! Ale na ratunek już jedzie Luiz prowadzący karetkę ze wszystkim, co potrzebne do leczenia pacjenta. Luiz bierze nosze i apteczkę, po czym korzysta z rampy, aby umieścić Bena w karetce. Wewnątrz znajduje się składane siedzenie, dzięki czemu Liann może dotrzymać Benowi towarzystwa w drodze do szpitala. Z pewnością szybko wróci do zdrowia!
 
+**Galeria:**
+
+- 42613-1: https://a.allegroimg.com/original/11e274/ddc9980e492d8458e8e93af09b80
+
 ---
 
-## 42614 — Lego Friends 42614 Sklep z odzieżą retro
+## 42614 — Sklep z odzieżą retro
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 128.99 zł · EAN: 05702017589343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42614 |
+| Nazwa angielska | Vintage Fashion Store |
+| Nazwa polska | Sklep z odzieżą retro |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 409 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589343 |
 
 Zainspiruj młodych konstruktorów do dbania o planetę, wręczając im zestaw, który wspiera rozwój emocjonalno-społeczny.
  
@@ -9885,11 +15168,27 @@ Odkryj inne zestawy z serii LEGO Friends, które rozwijają umiejętności społ
  
 • 409-elementowy zestaw z budynkiem ma 19 cm wysokości
 
+**Galeria:**
+
+- 42614-1: https://a.allegroimg.com/original/11edbd/5975b51e4ae9aa40b7b2b2c62934
+
 ---
 
-## 42615 — Lego Friends 42615 Dzień Adopcji Zwierząt
+## 42615 — Dzień Adopcji Zwierząt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 193.99 zł · EAN: 05702017589350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42615 |
+| Nazwa angielska | Pet Adoption Day |
+| Nazwa polska | Dzień Adopcji Zwierząt |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589350 |
 
 LEGO Friends 42615 Dzień Adopcji Zwierząt
 
@@ -9899,11 +15198,26 @@ Dzieci które uwielbiają zabawki ze zwierzętami mogą godzinami odgrywać role
 
 Ta zabawka wspierająca rozwój społeczno-emocjonalny inspiruje dzieci do opieki nad zwierzętami. Podczas zabawy pomogą Paisley dopasować zwierzęta do ich nowych właścicieli. Jest tu świnka, kot, chomik, jeż i pies oraz ich domki. Kiedy nadchodzi czas powrotu do nowego domu, Paisley umieszcza zwierzaki w przyczepie. Akcesoria obejmują szczotkę, jabłko, długopis, miskę na karmę dla zwierząt, grzyba, kubki, dokumenty adopcyjne i karmę dla zwierząt.
 
+**Galeria:**
+
+- 42615-1: https://a.allegroimg.com/original/11e7b8/eac7f4e64fc6b80b6ab6230dc33d
+
 ---
 
-## 42616 — Lego Friends 42616 Konkurs muzyczny w mieście Heartlake
+## 42616 — Konkurs muzyczny w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 243.99 zł · EAN: 05702017589367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42616 |
+| Nazwa angielska | Heartlake City Music Talent Show |
+| Nazwa polska | Konkurs muzyczny w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 669 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589367 |
 
 LEGO Friends Muzyczny konkurs talentu w Heartlake (42616) 
  
@@ -9929,11 +15243,27 @@ Ta zabawka do odgrywania ról to świetny pomysł na prezent o tematyce muzyczne
  
 • 669-elementowy zestaw z główną sceną ma 22 cm wysokości
 
+**Galeria:**
+
+- 42616-1: https://a.allegroimg.com/original/115c61/bf8ea1594141b1c3864470181648
+
 ---
 
-## 42617 — Lego Friends 42617 Schronisko dla zwierząt gospodarskich
+## 42617 — Schronisko dla zwierząt gospodarskich
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 239.60 zł · EAN: 05702017589374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42617 |
+| Nazwa angielska | Farm Animal Sanctuary |
+| Nazwa polska | Schronisko dla zwierząt gospodarskich |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 21 cm × gł. 23 cm |
+| EAN | 5702017589374 |
 
 LEGO Friends Rezerwat zwierząt gospodarskich (42617) 
  
@@ -9963,11 +15293,26 @@ Zestaw z farmą obejmuje intuicyjną aplikację LEGO Builder. Dzieci mogą w nie
  
 • Ten 489-elementowy zestaw ma 14 cm wysokości i 21 cm szerokości
 
+**Galeria:**
+
+- 42617-1: https://a.allegroimg.com/original/292fca/9baa89254e2485c6431fafc6e9a4
+
 ---
 
-## 42618 — Lego Friends 42618 Kawiarnia w miasteczku Heartlake
+## 42618 — Przyjaciele 42618 Kawiarnia w miasteczku Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 103.64 zł · EAN: 05702017589381 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42618 |
+| Nazwa angielska | Heartlake City Café |
+| Nazwa polska | Przyjaciele 42618 Kawiarnia w miasteczku Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589381 |
 
 LEGO® Friends
  
@@ -9989,11 +15334,26 @@ Odkryj więcej pomysłów na prezenty urodzinowe dla dzieci z serii LEGO Friends
  
 Paisley i Olly odwiedzają swoją ulubioną kawiarnię w Heartlake. W kuchni z piekarnikiem i ekspresem do kawy Beatriz przygotowuje pyszności. Dołącz do niej, piekąc ciasto i układając makaroniki na tacach. Przyjaciele jedzą pod kwitnącą wiśnią, a szczeniaczek Juno zajada smakołyki dla psa.
 
+**Galeria:**
+
+- 42618-1: https://a.allegroimg.com/original/11bc3c/8bd7b3eb49828a5c037038038e1b
+
 ---
 
-## 42619 — Lego Friends 42619 Autobus koncertowy gwiazdy popu
+## 42619 — Autobus koncertowy gwiazdy popu
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 344.49 zł · EAN: 05702017589398 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42619 |
+| Nazwa angielska | Pop Star Tour Bus |
+| Nazwa polska | Autobus koncertowy gwiazdy popu |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 845 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589398 |
 
 LEGO Friends Autokar to trasy koncertowej (42619) 
  
@@ -10017,11 +15377,27 @@ Ten zabawkowy pojazd to świetny prezent dla muzykalnych dzieci i miłośników 
  
 • 845-elementowy zestaw z budynkiem ma 12 cm wysokości
 
+**Galeria:**
+
+- 42619-1: https://a.allegroimg.com/original/295eff/ccfc126b4cb0b5e5adb8f8f3e9b4
+
 ---
 
-## 42620 — Lego Friends 42620 Dom rodzinny Olly’ego i Paisley
+## 42620 — Domy rodzinne Olly'ego i Paisleya
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702017567310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42620 |
+| Nazwa angielska | Olly's and Paisley's Family Homes |
+| Nazwa polska | Domy rodzinne Olly'ego i Paisleya |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 46 cm |
+| EAN | 5702017567310 |
 
 Realne zdjęcia produktu:
 
@@ -10049,11 +15425,27 @@ W domu Paisley znajduje się rodzinna kuchnia ze stołem, kuchenką i lodówką 
  
 • Ten 1126-elementowy zestaw ma 19 cm wysokości i 46 cm szerokości
 
+**Galeria:**
+
+- 42620-1: https://a.allegroimg.com/original/058bca/3a8c61814144ac0a5c0ec0563c30
+
 ---
 
-## 42621 — Lego Friends Szpital w mieście Heartlake 42621
+## 42621 — Szpital w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 620.00 zł · EAN: 05702017568560 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42621 |
+| Nazwa angielska | Heartlake City Hospital |
+| Nazwa polska | Szpital w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1045 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 35 cm × gł. 18 cm |
+| EAN | 5702017568560 |
 
 LEGO Friends Szpital w Heartlake (42621)
 
@@ -10081,11 +15473,26 @@ Ten zestaw konstrukcyjny doskonale sprawdzi się jako kreatywny prezent dla dzie
 
 • Ten 1045-elementowy zestaw ma 25 cm wysokości i 35 cm szerokości
 
+**Galeria:**
+
+- 42621-1: https://a.allegroimg.com/original/29d615/6078a5614b57b0e597724af3c46a
+
 ---
 
-## 42622 — Lego Friends Strzelnica na letnim obozie łuczniczym 42622
+## 42622 — Przyjaciele 42622 Strzelnica łucznicza Adventure Camp
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 33.29 zł · EAN: 05702017589404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42622 |
+| Nazwa angielska | Adventure Camp Archery Range |
+| Nazwa polska | Przyjaciele 42622 Strzelnica łucznicza Adventure Camp |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 12 cm |
+| EAN | 5702017589404 |
 
 LEGO Friends - Strzelnica na letnim obozie łuczniczym 42622
  
@@ -10110,11 +15517,27 @@ Traf w dziesiątkę z Autumn i Novą! Przyjaciółki odwiedzają strzelnicę i n
 - Odkrywaj nowe pasje — sprawdź inne zabawki LEGO® ze świata Friends (sprzedawane osobno), gdzie dzieci odkrywają różnorodne postacie i miejsca podczas odgrywania prawdziwych przygód 
 - Wymiary — 157-elementowy zestaw LEGO® ze strzelnicą ma 8 cm wysokości, 14 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 42622-1: https://a.allegroimg.com/original/119fa4/be0279fc40408078151d9fcfc55c
+
 ---
 
-## 42623 — Lego Friends 42623 Plażowy skuter wodny
+## 42623 — Friends 42623 Hulajnoga plażowa
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 27.64 zł · EAN: 05702017589411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42623 |
+| Nazwa angielska | Beach Water Scooter |
+| Nazwa polska | Friends 42623 Hulajnoga plażowa |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589411 |
 
 LEGO® Friends
  
@@ -10136,11 +15559,26 @@ Odkryj jeszcze więcej pomysłów na prezenty dla dzieci dzięki zestawom LEGO F
  
 Leo ma dziś służbę jako ratownik. Wspina się po drabinie i za pomocą lornetki obserwuje ocean. To także idealny punkt widokowy do obserwowania delfinów. Później dołącza do swojej przyjaciółki Candi, aby pościgać się na skuterach wodnych. Ale uwaga na podstępnego kraba, który lubi zakradać się do lodówki w poszukiwaniu lodów!
 
+**Galeria:**
+
+- 42623-1: https://a.allegroimg.com/original/11cd33/49acf5694df1a2b38a2d477ea1f8
+
 ---
 
-## 42624 — Lego Friends Przytulne Domki Na Letnim Obozie 42624
+## 42624 — Friends 42624 Przytulne domki na obozie przygodowym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 168.90 zł · EAN: 05702017589428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42624 |
+| Nazwa angielska | Adventure Camp Cozy Cabins |
+| Nazwa polska | Friends 42624 Przytulne domki na obozie przygodowym |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 437 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 17 cm × gł. 11 cm |
+| EAN | 5702017589428 |
 
 **PRZYTULNE DOMKI NA LETNIM OBOZIE**
 
@@ -10160,11 +15598,26 @@ Odkryj jeszcze więcej pomysłów na prezenty dla dzieci dzięki zestawom LEGO F
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 42624-1: https://a.allegroimg.com/original/115bc1/6cbe69dd4e208bc193c1f709adff
+
 ---
 
-## 42625 — Lego Friends 42625 Stoisko plażowe z koktajlami
+## 42625 — LEGO Friends 42625 Stoisko plażowe z koktajlami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 60.60 zł · EAN: 05702017589435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42625 |
+| Nazwa angielska | Beach Smoothie Stand |
+| Nazwa polska | LEGO Friends 42625 Stoisko plażowe z koktajlami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589435 |
 
 LEGO® Friends
  
@@ -10186,11 +15639,26 @@ Odkryj więcej zestawów do odgrywania ról z serii LEGO Friends, która pełna 
  
 Gotowi na relaks na plaży i robienie koktajli z Novą i Niko? Przyjaciele wybierają składniki, wkładają je do blendera i miksują. Następnie podają napoje i relaksują się na huśtawce. Potem wybierają się na przejażdżkę łazikiem plażowym. Drogowskaz wskazuje wiele miejsc wartych odwiedzenia. Uważajcie tylko na dzikiego żółwia, który lubi odwiedzać plażę!
 
+**Galeria:**
+
+- 42625-1: https://a.allegroimg.com/original/115b64/1e35d06e4bc297e30a55e54c4ae6
+
 ---
 
-## 42626 — Lego Friends 42626 Sporty wodne na obozie kempingowym
+## 42626 — Friends 42626 Obóz przygodowy ze sportami wodnymi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 235.99 zł · EAN: 05702017589442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42626 |
+| Nazwa angielska | Adventure Camp Water Sports |
+| Nazwa polska | Friends 42626 Obóz przygodowy ze sportami wodnymi |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 628 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589442 |
 
 LEGO® Friends
  
@@ -10212,11 +15680,27 @@ Ten zestaw LEGO Friends jest pełen akcesoriów umożliwiających opowiadanie hi
  
 Liann, Autumn i Zac uwielbiają obóz kempingowy ze sportami wodnymi. Jest tam tak wiele różnych aktywności do wypróbowania. Autumn i Zac zakładają kaski i kamizelki ratunkowe, aby popływać kajakami. Liann spędza czas w strefie relaksu i maluje obrazy. Co przyjaciele zrobią później? Może zjedzą przekąskę lub wybiorą się na ryby. Ale uważaj na niedźwiedzia, który też lubi łowić ryby!
 
+**Galeria:**
+
+- 42626-1: https://a.allegroimg.com/original/11f949/e3b379f84b7eaf8f04e9cac275bc
+
 ---
 
-## 42630 — Lego Friends 42630 Przyjaciele 42630 Park wodny w mieście Heartlake
+## 42630 — Przyjaciele 42630 Park wodny w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 600.18 zł · EAN: 05702017589473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42630 |
+| Nazwa angielska | Heartlake City Water Park |
+| Nazwa polska | Przyjaciele 42630 Park wodny w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 814 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589473 |
 
 LEGO® Friends
  
@@ -10238,11 +15722,27 @@ Ten zestaw konstrukcyjny LEGO dla dzieci jest pełen detali z parku wodnego. Zaw
  
 Czas na zabawę w wodzie! Dołącz do Leo i jego młodszej siostry Alby w parku wodnym wraz z przyjaciółkami Aliyą i Sarą. Przyjaciele kręcą się w obrotowym jacuzzi i bawią się wodnymi miotaczami. Którą zjeżdżalnię wypróbują jako pierwszą? Korkociąg, rurę czy zjeżdżalnię z wodospadem? Pamiętajcie, żeby uśmiechnąć się do kamery!
 
+**Galeria:**
+
+- 42630-1: https://a.allegroimg.com/original/1177c6/14a875cc43e8984ddc61705ca4ea
+
 ---
 
-## 42631 — Lego Friends 42631 Domek na drzewie na obozie kempingowym
+## 42631 — Domek na drzewie na obozie kempingowym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 1119.00 zł · EAN: 05702017588827 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42631 |
+| Nazwa angielska | Adventure Camp Tree House |
+| Nazwa polska | Domek na drzewie na obozie kempingowym |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017588827 |
 
 LEGO Friends Domek na drzewie na obozie kempingowym (42631)
 
@@ -10270,11 +15770,27 @@ Specyfikacja techniczna
 - **Liczba elementów:** 1128 
 - **Wymiary konstrukcji:** 32 cm (wysokość) x 43 cm (szerokość) x 34 cm (głębokość)
 
+**Galeria:**
+
+- 42631-1: https://a.allegroimg.com/original/11edb5/9c1cc4ea4e97a1019882f921fd56
+
 ---
 
-## 42632 — Lego Friends 42632 Weterynarz Lecznica Dla Zwierząt Gospodarskich
+## 42632 — Przychodnia weterynaryjna dla zwierząt hodowlanych
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 104.00 zł · EAN: 05702017588834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42632 |
+| Nazwa angielska | Farm Animal Vet Clinic |
+| Nazwa polska | Przychodnia weterynaryjna dla zwierząt hodowlanych |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017588834 |
 
 LEGO FRIENDS 42632 WETERYNARZ LECZNICA DLA ZWIERZĄT GOSPODARSKICH
 
@@ -10297,11 +15813,27 @@ Zainspiruj dzieci do odkrywania fascynującego świata opieki nad zwierzętami d
 
 **Wymiary lecznicy:** 10 cm (wys.) x 30 cm (szer.) x 7 cm (gł.)
 
+**Galeria:**
+
+- 42632-1: https://a.allegroimg.com/original/295e54/36b7c36c4b40b3209b6104aededc
+
 ---
 
-## 42633 — Lego 42633 Friends Food truck z hot dogami
+## 42633 — Mobilny stojak na hot dogi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702017568775 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42633 |
+| Nazwa angielska | Hot Dog Food Truck |
+| Nazwa polska | Mobilny stojak na hot dogi |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702017568775 |
 
 LEGO 42633 Friends - Food truck z hot dogami
 
@@ -10325,11 +15857,27 @@ Zestawy LEGO 4+ są tworzone, aby umożliwić dzieciom szybkie i pełne satysfak
 
 - Wymiary — 100-elementowy zestaw LEGO® Friendsz furgonetką ma 9 cm wysokości, 18 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 42633-1: https://a.allegroimg.com/original/45d505/190e27934d2e93594f0310188514
+
 ---
 
-## 42634 — Lego Friends Przyczepka Dla Konia I Kucyka 42634
+## 42634 — Przyczepa na konia i kucyka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 78.89 zł · EAN: 05702017568782 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42634 |
+| Nazwa angielska | Horse and Pony Trailer |
+| Nazwa polska | Przyczepa na konia i kucyka |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702017568782 |
 
 **PRZYCZEPKA DLA KONIA I KUCYKA**
 
@@ -10347,11 +15895,27 @@ Zestawy LEGO 4+ są tworzone, aby umożliwić dzieciom szybkie i pełne satysfak
 - Odkryj inne zestawy — sprawdź inne ciekawe zestawy dla dzieci z serii LEGO Friends, sprzedawane osobno
 - Wymiary — 105-elementowy zestaw LEGO® Friends z samochodem i przyczepką ma 5 cm wysokości, 24 cm długości oraz 5 cm szerokości
 
+**Galeria:**
+
+- 42634-1: https://a.allegroimg.com/original/11d84b/2987922a45b89c2bd0adb85a8998
+
 ---
 
-## 42635 — Lego Friends 42635 Friends 42635 Mobilny salon dla psów
+## 42635 — Friends 42635 Mobilny salon dla psów
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 19.90 zł · EAN: 05702017588841 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42635 |
+| Nazwa angielska | Dog-Grooming Car |
+| Nazwa polska | Friends 42635 Mobilny salon dla psów |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702017588841 |
 
 **PRODUCENT**: LEGO
  
@@ -10382,11 +15946,27 @@ Możesz w niej powiększać i obracać modele w 3D, zapisywać zestawy i śledzi
 - Odkrywaj kolejne historie przyjaciół — sprawdź inne zabawki LEGO® Friends (sprzedawane osobno), dzięki którym dzieci odkrywają różnorodne postacie i miejsca podczas odgrywania prawdziwych przygód 
 - Wymiary — 60-elementowy zestaw z samochodem ma 4 cm wysokości, 9 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 42635-1: https://a.allegroimg.com/original/05c01b/6b6e6cbc4e239d9f9eb47a5e68b6
+
 ---
 
-## 42638 — 42638 Lego Friends Pensjonat w zamku 42638
+## 42638 — Przyjaciele 42638 Hotel na zamku
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 498.77 zł · EAN: 05702017588865 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42638 |
+| Nazwa angielska | Castle Bed and Breakfast |
+| Nazwa polska | Przyjaciele 42638 Hotel na zamku |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1311 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017588865 |
 
 LEGO® Friends
  
@@ -10408,21 +15988,51 @@ Ten zestaw to świetny pomysł na prezent dla dzieci i nastolatków, którzy lub
  
 Zbuduj i ustaw na półce ten klasyczny francuski zamek, który został przekształcony w stylowy pensjonat. Poznaj właścicielkę, Renée, która odnowiła trzypiętrowy budynek. Odwiedź recepcję i ogród zimowy. Następnie zwiedź salon, sypialnię i balkon. Jest tu sypialnia dla Zaca i Olly’ego oraz druga dla Aliyi. Przyjaciele z pewnością spędzą relaksujące chwile w tym pięknym pensjonacie!
 
+**Galeria:**
+
+- 42638-1: https://a.allegroimg.com/original/1135f8/9fbbf0144d75b0b44d1c3e5f17d4
+
 ---
 
-## 42640 — Lego Friends 42640 Przyjaciele 42640 Plac zabaw dla świnek morskich
+## 42640 — Przyjaciele 42640 Plac zabaw dla świnek morskich
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 33.39 zł · EAN: 05702017783703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42640 |
+| Nazwa angielska | Guinea Pig Playground |
+| Nazwa polska | Przyjaciele 42640 Plac zabaw dla świnek morskich |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783703 |
 
 Plac zabaw dla świnek morskich
 
 Friends Plac zabaw dla świnek morskich LEGO® Friends Plac zabaw dla świnek morskich Zestaw LEGO® Friends Plac zabaw dla świnek morskich 42640 Zestaw LEGO® Friends zawiera dwie minilaleczki i dwie figurki świnek morskich, które zainspirują dzieci do twórczej zabawy. Zestaw konstrukcyjny LEGO® inspirujący do twórczej zabawy Zestaw konstrukcyjny LEGO® Friends Plac zabaw dla świnek morskich (42640) zawiera dwie minilaleczki LEGO Friends i dwie figurki świnek morskich, które zapewnią wiele godzin zabawy w odgrywanie ról. To idealna zabawka dla chłopców, dziewczynek i miłośników zwierząt w wieku od pięciu lat, którzy uwielbiają wymyślać przygody ze świnkami morskimi.Ten zestaw zawiera wszystko, czego potrzebują odpowiedzialni właściciele zwierzaków: miejsce do zabawy, karmienia, pielęgnacji i drzemki. Zabierz świnki morskie na zjeżdżalnię lub karuzelę. Następnie, gdy nadejdzie czas na odpoczynek, utul zwierzaki do snu w sypialni. Zestaw zawiera także akcesoria, w tym szczotkę, nasiona słonecznika, liście i motek wełny. To świetny prezent dla małych miłośników zwierząt.Odkryj więcej zestawów konstrukcyjnych do zabawy (sprzedawanych oddzielnie) ze świata LEGO Friends. Do zestawu dołączona jest aplikacja LEGO Builder do intuicyjnego budowania. Dzieci mogą w niej powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy w budowaniu. Nie ma to jak zabawa ze świnkami morskimi! Czy możesz pomóc Aliyi i Matyldzie w opiece nad ich pupilami Ruby i Luckym na placu zabaw dla świnek morskich? Zabierz je na przejażdżkę na zjeżdżalni i zakręć je na karuzeli. Nakarm i wyszczotkuj świnki morskie, a potem niech udadzą się do swojego domku na drzemkę. Ależ słodko śpią!
 
+**Galeria:**
+
+- 42640-1: https://a.allegroimg.com/original/0589d5/92a808dd4eb98a75509696d97099
+
 ---
 
-## 42641 — Lego(r) Friends 42641 Przygoda Z Surfującymi Psami
+## 42641 — Przygoda z surfującymi psami i skuterem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 40.94 zł · EAN: 05702017783710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42641 |
+| Nazwa angielska | Surfing Dogs and Scooter Adventure |
+| Nazwa polska | Przygoda z surfującymi psami i skuterem |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783710 |
 
 LEGO(R) FRIENDS 42641 Przygoda z surfującymi psami
 
@@ -10439,31 +16049,78 @@ Dodatkowo, zestaw zawiera aplikację LEGO Builder, która umożliwia powiększan
 
 Zestaw ma 113 elementów i jest odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 42641-1: https://a.allegroimg.com/original/11ae3c/4b136fba4e66baad5bcb4439ad95
+
 ---
 
-## 42643 — Lego Friends 42643 Stojak i hulajnoga z waty cukrowej
+## 42643 — Friends 42643 Stojak i hulajnoga z waty cukrowej
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 36.00 zł · EAN: 05702017783727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42643 |
+| Nazwa angielska | Cotton Candy Stand and Scooter |
+| Nazwa polska | Friends 42643 Stojak i hulajnoga z waty cukrowej |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783727 |
 
 LEGO Friends 42643 - Stojak i hulajnoga z waty cukrowej
 
 Ciesz się twórczą zabawą z mobilnym stoiskiem z watą cukrową. Zainspiruj dzieci w wieku od sześciu lat do słodkiej zabawy dzięki zestawowi LEGO® Friends Stoisko z watą cukrową i skuter. Zestaw zawiera dwie minilaleczki LEGO Friends, a także mobilne stoisko do zbudowania, skuter, maskotkę i inne akcesoria.Wszyscy mali konstruktorzy, którzy uwielbiają kreatywną zabawę, będą się świetnie bawić, wymyślając własne historie. Liann i Jamila lubią spędzać czas przy stoisku z watą cukrową. Pojazd LEGO ciągnie stoisko na kółkach, w którym można znaleźć miskę i dodatki, aby stworzyć pyszności z waty cukrowej. Jest też kasa i pieniądze, dzięki czemu dzieci mogą odgrywać różne interakcje z klientami.Odkryj więcej kreatywnych zabawek dla dzieci z serii LEGO Friends, która jest pełna historii o przyjaźni (zestawy sprzedawane osobno). Do zestawu dołączona jest aplikacja LEGO Builder, która umożliwia intuicyjne budowanie. Dzieci mogą powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy. Kto ma ochotę na watę cukrową? Dołącz do Liann i Jamili przy stoisku z watą cukrową. Skuterem ustaw stoisko na miejscu, a następnie użyj miski i dodatków, aby stworzyć pyszności z waty cukrowej. Nie zapomnij przywitać się z uroczą maskotką! Co za słodki sposób na spędzenie czasu z przyjaciółką!
 
+**Galeria:**
+
+- 42643-1: https://a.allegroimg.com/original/11bdd4/794be2214e11b203bf9fa354e3a5
+
 ---
 
-## 42644 — Lego Friends 42644 Ciężarówka z łodziami w Heartlake Zestaw i Poradnik 4w1
+## 42644 — Furgonetka z lodami w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 52.76 zł · EAN: 05702017783734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42644 |
+| Nazwa angielska | Heartlake City Ice Cream Truck |
+| Nazwa polska | Furgonetka z lodami w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783734 |
 
 LEGO Friends 42644 Ciężarówka z łodziami w Heartlake Zestaw i Poradnik 4w1
 
 Friends Furgonetka z lodami w mieście Heartlake LEGO® Friends Furgonetka z lodami w mieście Heartlake LEGO® Friends Furgonetka z lodami w mieście Heartlake 42644 Zestaw zawiera furgonetkę z lodami, dwie minilaleczki, figurkę króliczka i lody do kreatywnej zabawy. Zestaw z furgonetką z lodami dla dzieci Ten zestaw to słodka gratka dla dzieci w wieku od czterech lat, które lubią odgrywać fajne interakcje z klientami. LEGO® Friends Furgonetka z lodami w mieście Heartlake (42644) zawiera furgonetkę z lodami do zbudowania, dwie minilaleczki, figurkę króliczka oraz akcesoria spożywcze.Ten zestaw to świetny prezent dla dzieci w wieku od czterech lat. Zobacz, jak rozkwita ich kreatywność, gdy pomagają Paisley przygotowywać lody dla jej przyjaciółki Elsy D. Zestaw zawiera rożki do lodów i różne smaki — czekoladowy, truskawkowy i waniliowy — a także łyżkę, puszkę z posypką, parasol, dwa krzesła, kasę fiskalną i pieniądze.Zabawki konstrukcyjne LEGO dla dzieci w wieku od czterech lat zawierają większe elementy umożliwiające szybkie rozpoczęcie budowania. Łatwą i intuicyjną przygodę z budowaniem umożliwia aplikacja LEGO Builder. Tutaj dzieci mogą powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy. Paisley obsługuje klientów w furgonetce z lodami! Czy pomożesz jej przygotować smakołyki? Jej przyjaciółka Elsa D nie może zdecydować się na smak: jest truskawkowy, czekoladowy i waniliowy, i wszystkie wyglądają pysznie! Paisley nakłada gałki lodów na rożki, Elsa D płaci, a następnie przyjaciółki spędzają czas z króliczkiem Paisley, Melody, po czym Paisley rusza w kolejne miejsce.
 
+**Galeria:**
+
+- 42644-1: https://a.allegroimg.com/original/11fad1/986380be4fa59c6693d071621028
+
 ---
 
-## 42645 — Pokój zabaw młodszej siostry Aliyi 42645
+## 42645 — Pokój zabaw młodszej siostry Aliyi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 81.00 zł · EAN: 05702017814841 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42645 |
+| Nazwa angielska | Aliya's Baby Sister's Playroom |
+| Nazwa polska | Pokój zabaw młodszej siostry Aliyi |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 13 cm × gł. 7 cm |
+| EAN | 5702017814841 |
 
 LEGO®
  
@@ -10492,31 +16149,78 @@ Odkryj inne zestawy konstrukcyjne ze świata LEGO Friends (sprzedawane osobno), 
 - Serial dostępny online — zainspiruj dzieci do twórczej zabawy dzięki innym zestawom (sprzedawanym osobno) oraz serialowi online LEGO® Friends: Następny Rozdział, gdzie dzieci mogą poznać bohaterów z miasta Heartlake 
 - Wymiary — 125-elementowy zestaw z modelem pokoju zabaw ma 5 cm wysokości, 13 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 42645-1: https://a.allegroimg.com/original/059a47/318dc2624c3fb88d6b7627d3fb7a
+
 ---
 
-## 42646 — Lego Friends 42646 Pokój Jesień Zestaw i Poradnik 4w1
+## 42646 — Przyjaciele 42646 Pokój Jesień
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 68.94 zł · EAN: 05702017814858 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42646 |
+| Nazwa angielska | Autumn’s Room |
+| Nazwa polska | Przyjaciele 42646 Pokój Jesień |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814858 |
 
 LEGO Friends 42646 Pokój Jesień Zestaw i Poradnik 4w1
 
 Friends Pokój Autumn LEGO® Friends Pokój Autumn Zestaw konstrukcyjny LEGO® Friends Pokój Autumn 42646 Zestaw z sypialnią i placem zabaw zawiera dwie minilaleczki oraz figurkę fretki i ptaka — idealny prezent dla małych miłośników przyrody. Zestaw z sypialnią i placem zabaw do odgrywania historii Ten zestaw do zabawy dla sześcioletnich i starszych miłośników przyrody umożliwia odgrywanie historii o przyjaźni. LEGO® Friends Pokój Autumn (42646) zawiera pokój do zbudowania, plac zabaw, minilaleczki Autumn i Leo, figurkę fretki oraz figurkę ptaka.Odgrywając różne przygody przyjaciół, dzieci rozwijają umiejętności społeczne. Zestaw podkreśla miłość Autumn do zwierząt i przyrody poprzez akcesoria, w tym książkę do obserwacji ptaków, aparat fotograficzny, słonecznik, karmę dla ptaków, lornetkę, słoik świetlików i wiele innych. Za ruchomymi schodami prowadzącymi do łóżka Autumn kryje się jeszcze więcej przyrodniczych skarbów. Na zewnątrz znajduje się plac zabaw, na który przyjaciele mogą zabrać fretkę Bandita.Odkryj jeszcze więcej historii o przyjaźni i postaci ze świata LEGO Friends (zestawy sprzedawane osobno). Ten zestaw zawiera aplikację LEGO Builder do intuicyjnego budowania. Przyjdź i pobaw się z Autumn i Leo! Dzisiaj w pokoju Autumn towarzyszy im fretka Bandit. Zwiedź pokój i przekonaj się, jak bardzo Autumn kocha zwierzęta i przyrodę. Ruchome schody prowadzące do łóżka Autumn skrywają za sobą różne skarby! Następnie zabierz Bandita na zewnątrz, aby pobawił się na placu zabaw, gdzie może się wspinać, skakać i szaleć do woli.
 
+**Galeria:**
+
+- 42646-1: https://a.allegroimg.com/original/114430/d75dc21345d6a1e74849f354565d
+
 ---
 
-## 42647 — Klocki Lego Przyjaciele 42647 Pokój Paisley 199 el. dla dzieci 6+
+## 42647 — Pokój Paisley
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 59.01 zł · EAN: 05702017814865 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42647 |
+| Nazwa angielska | Paisley's Room |
+| Nazwa polska | Pokój Paisley |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 199 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814865 |
 
 Pokój Paisley
 
 Friends Pokój Paisley LEGO® Friends Pokój Paisley Zestaw do zabawy LEGO® Friends Pokój Paisley 42647 Ta zabawka do odgrywania ról zawiera dwie minilaleczki i figurkę króliczka — to świetny prezent dla dzieci, które lubią sztukę i muzykę Zestaw konstrukcyjny pełen przyjaźni i zabawy Dzięki zestawowi LEGO® Friends Pokój Paisley (42647) sześciolatki i starsze dzieci, które lubią sztukę i muzykę, będą wymyślać własne opowieści o przyjaźni. Miłośniczka sztuki Liann dołącza do pasjonatki muzyki Paisley, by spędzić dzień na kreatywnych zajęciach. Zestaw zawiera dwie minilaleczki LEGO Friends, figurkę króliczka i specjalny element LEGO w kształcie pluszaka.Dzieci mogą bawić się, że Paisley i Liann uczą się malować figurki, oglądając samouczek na tablecie. Jest tu także mnóstwo akcesoriów do odgrywania ról, np. gitara Paisley, mikrofony, głośniki i inne elementy, które zachwycą małych fanów muzyki.Ten zestaw rozwija również umiejętności społeczne i emocjonalne dzieci. Elementy z pokarmem i wodą sprawdzą się podczas zabawy w opiekę nad króliczkiem Melody, a tajemniczości dodaje skrytka w łóżku, w której Paisley trzyma swój pamiętnik. Poznaj także inne zestawy ze świata LEGO Friends (sprzedawane osobno), w których znajdziesz jeszcze więcej fajnych historii i postaci. Spędzanie czasu z przyjaciółką to świetna zabawa! Dzisiaj Paisley zaprosiła Liann do swojego pokoju, gdzie mogą wykazać się kreatywnością. Dziewczynki świetnie się bawią, malując figurki i tworząc muzykę. Kiedy nadchodzi czas przerwy, bawią się z króliczkiem Melody, a następnie Paisley pokazuje sekretną skrytkę w łóżku, w której trzyma swój pamiętnik. Kreatywne dni z przyjaciółkami są super! • Zabawkowa sypialnia dla dzieci — zestaw LEGO® Friends Pokój Paisley umożliwia wymyślanie opowieści o przyjaźni i zabawę w udawanie dzieciom oraz miłośnikom sztuki w wieku od sześciu lat • Dwie postacie LEGO® Friends — zestaw zawiera minilaleczki Paisley i Liann, figurkę króliczka i specjalny element z pluszakiem LEGO, a także wiele kreatywnych akcesoriów do zabawy w odgrywanie ról • Kreatywna zabawa — zestaw jest pełen akcesoriów, które nawiązują do zainteresowań Paisley i Liann.
 
+**Galeria:**
+
+- 42647-1: https://a.allegroimg.com/original/05108f/4dd1361b4f1b95004a046ce520c9
+
 ---
 
-## 42649 — 42649 Lego Friends Sklep z cukierkami w Heartlake
+## 42649 — Sklep z cukierkami w Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702017815183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42649 |
+| Nazwa angielska | Heartlake City Candy Store |
+| Nazwa polska | Sklep z cukierkami w Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 16 cm × gł. 16 cm |
+| EAN | 5702017815183 |
 
 LEGO Friends 42649 Sklep z cukierkami w Heartlake
 
@@ -10534,19 +16238,51 @@ To kreatywna zabawka dla dziewczynki i chłopca, która wspiera rozwój społecz
 
 - Wymiary — 376-elementowy zestaw z modelem sklepu z cukierkami ma 11 cm wysokości, 16 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 42649-1: https://a.allegroimg.com/original/113f4c/1d4d11df4206b6435301e7da8305
+
 ---
 
-## 42650 — Lego Friends 42650 Sklep z akcesoriami dla zwierząt
+## 42650 — Sklep z akcesoriami dla zwierząt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 118.86 zł · EAN: 05702017783741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42650 |
+| Nazwa angielska | Pet Accessories Shop |
+| Nazwa polska | Sklep z akcesoriami dla zwierząt |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783741 |
 
 Friends LEGO® Friends Zestaw LEGO® Friends 42650 Ten zestaw LEGO® Friends zawiera trzy minilaleczki i trzy figurki zwierząt, dzięki czemu świetnie sprawdzi się jako prezent urodzinowy dla dzieci. Ten zestaw będzie wspaniałym prezentem na urodziny lub inne okazje dla dzieci, które uwielbiają zabawę w opiekę nad zwierzętami! Zestaw zawiera trzy minilaleczki oraz figurki kota, psa i króliczka do twórczej zabawy.Dołącz do Novy, Leo i Matilde, którzy wybierają nowe czapki i akcesoria dla swoich futrzanych przyjaciół Churro, Pickle’a i Amosa. Zabierz zwierzęta windą do gabinetu piękności, gdzie taśmociąg przesuwa je przez stanowiska do mycia, spłukiwania i suszenia. Następnie sprawdź akcesoria dla nich, w tym czapkę szefa kuchni, czapkę z daszkiem i kłębek włóczki. Są też zabawkowe pieniądze i kasa, więc dzieci mogą wymyślać scenki z klientami. Ale uwaga na psie niespodzianki! Całość urozmaica także budynek w kształcie szczeniaczka z ruchomymi brwiami i obrotową kokardką.Sprawdź jeszcze więcej zestawów i prezentów ze świata LEGO Friens (sprzedawanych osobno). Twój pupil ma szansę zostać ikoną stylu! Dołącz do Novy, Leo i Matilde, którzy wybierają fajne czapki i inne akcesoria dla swoich futrzanych przyjaciół Churro, Pickle’a i Amosa. Zwierzęta uwielbiają jeździć windą do gabinetu piękności.
 
+**Galeria:**
+
+- 42650-1: https://a.allegroimg.com/original/0568f7/91b6b41a4749af8c6a0281dfb804
+
 ---
 
-## 42651 — Klocki Lego Friends Klinika weterynaryjna 42651 428 el. dla dzieci 7 lat
+## 42651 — Friends 42651 Klinika weterynaryjna dla koni i zwierząt domowych
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 199.38 zł · EAN: 05702017815190 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42651 |
+| Nazwa angielska | Horse and Pet Vet Clinic |
+| Nazwa polska | Friends 42651 Klinika weterynaryjna dla koni i zwierząt domowych |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 428 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815190 |
 
 LEGO® Friends Koń i Lecznicza dla Zwierząt (42651) – Kreatywna Zabawa w Opiece nad Zwierzętami
 
@@ -10569,11 +16305,26 @@ Młodzi konstruktorzy mogą wcielać się we właścicieli zwierząt (Olly przyp
 
 Ten zestaw zawiera mnóstwo zabawnych akcesoriów o tematyce zwierzęcej i jest świetnym pomysłem na prezent urodzinowy lub inną okazję dla miłośników zwierząt. Odkryj więcej zestawów ze świata LEGO Friends (sprzedawanych osobno).
 
+**Galeria:**
+
+- 42651-1: https://a.allegroimg.com/original/05967c/e6902f8746eeadc25969b599f9e9
+
 ---
 
-## 42652 — Lego Friends 42652 Spotkanie w domku na drzewie przyjaźni, klocki
+## 42652 — Przyjaciele 42652 Domek na drzewie przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 226.10 zł · EAN: 05702017815206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42652 |
+| Nazwa angielska | Friendship Tree House Hangout |
+| Nazwa polska | Przyjaciele 42652 Domek na drzewie przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 701 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 28 cm × gł. 15 cm |
+| EAN | 5702017815206 |
 
 LEGO Friends 42652 Spotkanie w domku na Drzewie Przyjaźni
 
@@ -10614,11 +16365,27 @@ Czas wziąć się do pracy
 
 Pobaw się z przyjaciółmi przy stole warsztatowym w domku.
 
+**Galeria:**
+
+- 42652-1: https://a.allegroimg.com/original/059f4c/55f8c50645c49c25395771042657
+
 ---
 
-## 42653 — Lego Przyjaciele 42653 Sklep muzyczny i apartament Nowy P66
+## 42653 — Sklep muzyczny i mieszkanie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702017815213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42653 |
+| Nazwa angielska | Music Store & Apartment |
+| Nazwa polska | Sklep muzyczny i mieszkanie |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 483 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815213 |
 
 **LEGO Przyjaciele 42653 Sklep muzyczny i apartament NOWY, NIEOTWIERANY**
 
@@ -10626,11 +16393,27 @@ Na sprzedaż nowy, oryginalny zestaw LEGO Przyjaciele 42653 Sklep muzyczny i apa
 
 Zestaw jest **fabrycznie zapakowany**
 
+**Galeria:**
+
+- 42653-1: https://a.allegroimg.com/original/117347/9931122d4e769acedeec86f2db6a
+
 ---
 
-## 42654 — Lego Friends Ranczo kucyków i stajnia 42654
+## 42654 — Ranczo kucyków i stajnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 228.89 zł · EAN: 05702017815220 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42654 |
+| Nazwa angielska | Pony Ranch & Stable |
+| Nazwa polska | Ranczo kucyków i stajnia |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 727 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815220 |
 
 Przedstawiamy zestaw, który pokochają wszyscy miłośnicy koni! Zestaw LEGO® Friends (42654) **Ranczo z kucykami i stajnią** zainspiruje dziewczyny i chłopców od 7 roku życia do wymyślania własnych historii o przyjaźni i zwierzętach. W zestawie składane ranczo z kucykami ze stajniami i pomieszczeniami mieszkalnymi, wózek, 2 minilaleczki, 2 mikrolaleczki, figurka kota, 3 figurki kucyków i mnóstwo akcesoriów do kreatywnej zabawy.
  
@@ -10650,11 +16433,27 @@ Ten zestaw jest kompatybilny z aplikacją LEGO Builder, która zapewnia intuicyj
 - Liczba elementów: 727 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42654-1: https://a.allegroimg.com/original/29742a/8d1b10374696b6903ce480bd4b86
+
 ---
 
-## 42655 — Klocki Lego 42655 restauracja i szkoła gotowania 896 elementów 8 lat+
+## 42655 — Restauracja i szkoła gotowania
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017815237 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42655 |
+| Nazwa angielska | Restaurant and Cooking School |
+| Nazwa polska | Restauracja i szkoła gotowania |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 896 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815237 |
 
 Restauracja i szkoła gotowania 42655
 
@@ -10662,11 +16461,27 @@ Friends Restauracja i szkoła gotowania LEGO® Friends Restauracja i szkoła got
 
 60pc/A210/28n
 
+**Galeria:**
+
+- 42655-1: https://a.allegroimg.com/original/0530f7/93a8112e4282ab57f010ad32112c
+
 ---
 
-## 42656 — Lego Friends Samolot i lotnisko w mieście Heartlake 42656
+## 42656 — Samolot i lotnisko w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 429.99 zł · EAN: 05702017815244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42656 |
+| Nazwa angielska | Heartlake City Airport and Airplane |
+| Nazwa polska | Samolot i lotnisko w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 958 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815244 |
 
 **LEGO Friends Samolot i lotnisko w mieście Heartlake 42656**
 
@@ -10690,11 +16505,27 @@ Samolot do zbudowania ma obrotowe śmigła, kokpit pilota, cztery fotele dla pas
 
 • 958-elementowy zestaw z lotniskiem ma 31 cm szerokości
 
+**Galeria:**
+
+- 42656-1: https://a.allegroimg.com/original/11e632/64b2d18f49ffb9331c0555b85154
+
 ---
 
-## 42658 — Klocki Lego Friends 42658 Impreza na basenie z jednorożcem i flamingiem
+## 42658 — Impreza na basenie z jednorożcem i flamingiem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702017815251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42658 |
+| Nazwa angielska | Unicorn & Flamingo Pool Party |
+| Nazwa polska | Impreza na basenie z jednorożcem i flamingiem |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815251 |
 
 Klocki LEGO Friends 42658 Impreza na basenie z jednorożcem i flamingiem
 
@@ -10704,11 +16535,27 @@ Dzieci mogą opowiadać twórcze historie o Leo, Liann i Churro, którzy bawią 
 
 Odkryj więcej zestawów konstrukcyjnych rozwijających umiejętności społeczne i emocjonalne (sprzedawanych oddzielnie) ze świata LEGO Friends. Do zestawu dołączona jest aplikacja LEGO Builder do intuicyjnego budowania. Dzieci mogą w niej powiększać i obracać modele, zapisywać zestawy i śledzić postępy w budowaniu.
 
+**Galeria:**
+
+- 42658-1: https://a.allegroimg.com/original/29c730/397f7d4b4106a3a825cbc2ae2aeb
+
 ---
 
-## 42659 — Lego Przyjaciele 42659 Wycieczka samochodowa ze znajomymi
+## 42659 — Samochodowa wycieczka przyjaciółek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 55.64 zł · EAN: 05702017815268 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42659 |
+| Nazwa angielska | Friendship Road-Trip Travel Car |
+| Nazwa polska | Samochodowa wycieczka przyjaciółek |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 220 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815268 |
 
 LEGO(R) FRIENDS 42659 Samochodowa wycieczka przyjac
 
@@ -10721,11 +16568,27 @@ Przedsprzedaż - realizacja po dacie premiery, przewidywana data: od 01.06.2025.
 
 LEGO(R) FRIENDS 42659 Samochodowa wycieczka przyjaciółek
 
+**Galeria:**
+
+- 42659-1: https://a.allegroimg.com/original/29a688/3e7f92c048d6a1683fc6f12b2f7d
+
 ---
 
-## 42661 — Klocki Lego Friends Impreza kostiumowa z jednorożcem 42661 261 el.
+## 42661 — Bal przebierańców z jednorożcem i wróżką
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 113.98 zł · EAN: 05702017815275 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42661 |
+| Nazwa angielska | Costume Party with Unicorn & Fairy |
+| Nazwa polska | Bal przebierańców z jednorożcem i wróżką |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815275 |
 
 LEGO(R) FRIENDS 42661 Bal przebierańców z jednorożc
 
@@ -10738,11 +16601,26 @@ Przedsprzedaż - realizacja po dacie premiery, przewidywana data: od 01.06.2025.
 
 LEGO(R) FRIENDS 42661 Bal przebierańców z jednorożcem i wróżką
 
+**Galeria:**
+
+- 42661-1: https://a.allegroimg.com/original/294150/585ac2a3432ebd6fc6afa47e24a3
+
 ---
 
-## 42662 — Lego Friends 42662 Salon fryzjerski i sklep z ozdobami
+## 42662 — Przyjaciele 42662 Sklep z artykułami fryzjerskimi i akcesoriami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702017815282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42662 |
+| Nazwa angielska | Hair Salon and Accessories Store |
+| Nazwa polska | Przyjaciele 42662 Sklep z artykułami fryzjerskimi i akcesoriami |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 347 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 19 cm × gł. 8 cm |
+| EAN | 5702017815282 |
 
 LEGO Friends 42662 - Salon fryzjerski i sklep z ozdobami
 
@@ -10768,11 +16646,27 @@ Sprawdź inne ciekawe zestawy (sprzedawane osobno) ze świata LEGO Friends, w kt
 
 - Wymiary — 347-elementowy zestaw z modelem głównym ma 15 cm wysokości, 19 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 42662-1: https://a.allegroimg.com/original/05384d/27ceddef4424971b5a9731358812
+
 ---
 
-## 42663 — Lego Friends 42663 Przygoda w kamperze przyjaciół
+## 42663 — Przygoda w kamperze przyjaciół
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 217.50 zł · EAN: 05702017815299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42663 |
+| Nazwa angielska | Friendship Camper Van Adventure |
+| Nazwa polska | Przygoda w kamperze przyjaciół |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 778 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815299 |
 
 LEGO® Friends Przygoda w kamperze przyjaciół (42663)
 
@@ -10817,11 +16711,27 @@ Detale robią różnicę! Aby zabawa była jeszcze bardziej realistyczna, w pude
 
 **Podaruj dziecku radość z odkrywania świata!** Zestaw LEGO® Friends to doskonały prezent na urodziny lub święta, który rozwija kreatywność i pozwala odgrywać wspaniałe role. Czas odpalić silnik i ruszać w drogę!
 
+**Galeria:**
+
+- 42663-1: https://a.allegroimg.com/original/05d135/2f202352416d9c7c343af55c2974
+
 ---
 
-## 42664 — Lego Friends 42664 Przygoda na jachcie
+## 42664 — Przygoda na łodzi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 209.98 zł · EAN: 05702017815305 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42664 |
+| Nazwa angielska | Travel Boat Adventure |
+| Nazwa polska | Przygoda na łodzi |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 685 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815305 |
 
 LEGO Friends Przygoda na łodzi (42664) [KLOCKI]
 
@@ -10839,21 +16749,53 @@ Zupełnie nowy.
  
 **SKU:** 3417600
 
+**Galeria:**
+
+- 42664-1: https://a.allegroimg.com/original/2954bd/fc0a497a428ba45b69e50d2205ea
+
 ---
 
-## 42665 — Lego Friends 42665 Przyjaciele 42665 Plac zabaw dla szczeniąt
+## 42665 — Plac zabaw dla szczeniaczków
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 32.87 zł · EAN: 05702017815312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42665 |
+| Nazwa angielska | Puppy Playground |
+| Nazwa polska | Plac zabaw dla szczeniaczków |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815312 |
 
 Plac zabaw dla szczeniaczków
 
 Friends Puppy Playground LEGO® Friends Plac zabaw dla szczeniaczków LEGO® Friends Plac zabaw dla szczeniaczków 42665 Ten fantastyczny zestaw gwarantuje świetną zabawę dzięki dwóm minilaleczkom, trzem szczeniaczkom i akcesoriom do odgrywania ról. Ekscytujący zestaw dla dzieci, które uwielbiają szczeniaczki Ten fantastyczny zestaw zachwyci czterolatków i starsze dzieci, które zbudują Plac zabaw dla szczeniaczków LEGO® Friends (42665), a następnie będą wymyślać rozmaite historie o przyjaźni. Zestaw zawiera minilaleczki Aliyi i Sary, trzy figurki psów i wiele akcesoriów do twórczej zabawy.Zabawka inspiruje dzieci do odgrywania ról i wymyślania historii, kiedy to przyjaciółki pomagają uroczym pieskom zjeżdżać ze zjeżdżalni, wspinać się po drabinie i biegać przez tunel. Zestaw jest świetnym prezentem dla miłośników psów i zawiera fajne akcesoria, w tym piłkę, psie ciasteczka i kość, a także psią kupę, która z pewnością wywoła śmiech podczas zabawy.Zabawki konstrukcyjne LEGO dla dzieci w wieku od czterech lat zawierają większe elementy umożliwiające szybkie rozpoczęcie budowania. Łatwą i intuicyjną przygodę z budowaniem umożliwia aplikacja LEGO Builder. Tutaj dzieci mogą powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy. Szczeniaczki są gotowe na wspaniałą zabawę! Chcesz do nich dołączyć? Spójrz — Aliya i Sara też przyszły na plac zabaw. Przyjaciółki uwielbiają pomagać słodkim psiakom zjeżdżać ze zjeżdżalni, wspinać się po drabinie i przebiegać przez tunel. Później bawią się z nimi piłką i nagradzają pysznym ciasteczkiem. Cóż za wspaniały sposób na spędzenie dnia! • Zestaw konstrukcyjny ze szczeniaczkami — zestaw LEGO® Friends Plac zabaw dla szczeniaczków dla dziewczynek i chłopców w wieku od czterech lat zawiera plac zabaw do zbudowania, dwie minilaleczki, trzy figurki psów i akcesoria • Zabawka dla miłośników zwierząt — ta zabawka zawiera wiele funkcji pobudzających wyobraźnię dzieci podczas zabawy z trzema szczeniaczkami, które zjeżdżają na zjeżdżalni, wchodzą na drabinę i przebiegają przez tunel • Dwie minilaleczki LEGO® Friends i trzy figurki psów — ten zestaw zawiera minilaleczki Aliyi i Sary, a także szczeniaki Airę, Dango i Maple, dzięki czemu dzieci mogą poznawać sytuacje społeczne i wymyślać historie o przyjaźni • Akcesoria dla piesków — w zestawie znajdują się akcesoria do twórczej zabawy, w tym piłka, ciasteczka dla psów i kość, a także psia kupa, która z pewnością rozśmieszy dzieci • Prezent dla miłośników psów — ten zestaw to świetny prezent dla dziewczynek, chłopców i miłośników szczeniaczków w wieku od czterech lat. Podczas zabawy i wymyślania historii dzieci rozwijają umiejętności społeczne • Prezent dla chłopców, dziewczynek i miłośników psów w wieku od czterech lat • Zabawka do odgrywania ról ze szczeniaczkami, zjeżdżalnią, drabiną i tunelem • Zawiera dwie minilaleczki LEGO® Friends i trzy figurki psów • Zestaw zawiera ciekawe akcesoria do kreatywnej zabawy • Prezent dla chłopców, dziewczynek i miłośników psów w wieku od czterech lat • Odkryj inne zestawy z serii LEGO® Friends (sprzedawane osobno) oraz serial online LEGO Friends • Seria LEGO® Friends pozwala dzieciom wymyślać własne, pomysłowe historie
 
+**Galeria:**
+
+- 42665-1: https://a.allegroimg.com/original/115ac9/b247b62a43c1b028d495dca025fd
+
 ---
 
-## 42666 — Lego Friends 42666 Przyjaciele 42666 Urodziny kota i domek na drzewie
+## 42666 — Kocie przyjęcie urodzinowe i domek na drzewie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 91.15 zł · EAN: 05702017783758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42666 |
+| Nazwa angielska | Cat Birthday Party & Tree House |
+| Nazwa polska | Kocie przyjęcie urodzinowe i domek na drzewie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783758 |
 
 LEGO(R) FRIENDS 42666 Kocie przyjęcie urodzinowe
 
@@ -10866,21 +16808,52 @@ Przedsprzedaż - realizacja po dacie premiery, przewidywana data: od 01.06.2025.
 
 LEGO(R) FRIENDS 42666 Kocie przyjęcie urodzinowe i domek na drzewie
 
+**Galeria:**
+
+- 42666-1: https://a.allegroimg.com/original/1159c4/5b19cf234786959e3f9d9a4d0202
+
 ---
 
-## 42669 — Klocki Lego Dom pszczelarza i ogród kwiatowy 42669 1161 elementów
+## 42669 — Przyjaciele 42669 Dom pszczelarza i ogród kwiatowy
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 287.00 zł · EAN: 05702017815329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42669 |
+| Nazwa angielska | Beekeepers' House and Flower Garden |
+| Nazwa polska | Przyjaciele 42669 Dom pszczelarza i ogród kwiatowy |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815329 |
 
 Dom pszczelarzy i kwiatowy ogród
 
 Friends Dom pszczelarzy i kwiatowy ogród LEGO® Friends Dom pszczelarzy i kwiatowy ogród Zestaw LEGO® Friends Dom pszczelarzy i kwiatowy ogród 42669 Zestaw Dom pszczelarzy i kwiatowy ogród zawiera cztery postacie LEGO® Friends, figurkę kota i królika oraz wiele akcesoriów. Kreatywny prezent dla dzieci i młodzieży Odkryj zestaw konstrukcyjny dla młodych konstruktorów, którzy uwielbiają kreatywne projekty. Zestaw Dom pszczelarzy i kwiatowy ogród (42669) to świetny prezent dla dzieci w wieku od 12 lat. Zawiera dwupiętrowy dom i ogród, a także cztery postacie LEGO Friends, figurkę kota i figurkę królika.Miłośnicy przyrody mogą z dumą ustawić na półce ten pszczeli model domu z ogrodem. Zestaw przedstawia scenę, w której Paisley i Aliya odwiedzają dziadków Paisley, którzy zajmują się pszczelarstwem. Na każdym kroku można tu odkryć mnóstwo słodkich niespodzianek. Ciekawe akcesoria obejmują paczkę nasion, konewkę, kompostownik, kłębek włóczki i wiele więcej.Odkryj, jak powstaje miód, dzięki otwieranym ulom z plastrem miodu w środku. Realistyczne detale obejmują kapelusz pszczelarski oraz odymiacz. Poczuj buzującą energię podczas budowania i eksponowania zestawu Dom pszczelarzy i kwiatowy ogród. Odkryj ogród z kwiatami i warzywami i sprawdź, czy w ulach jest plaster miodu. Nie zapomnij tylko o kapeluszu pszczelarskim!
 
+**Galeria:**
+
+- 42669-1: https://a.allegroimg.com/original/0571ab/6dc2de394a49ae2e2ab8e5c17395
+
 ---
 
-## 42670 — Lego Friends Mieszkania I Sklepy W Mieście Heartlake 42670
+## 42670 — Mieszkania i sklepy w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 675.98 zł · EAN: 05702017815336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42670 |
+| Nazwa angielska | Heartlake City Apartments and Stores |
+| Nazwa polska | Mieszkania i sklepy w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 2040 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 39 cm × gł. 14 cm |
+| EAN | 5702017815336 |
 
 MIESZKANIA I SKLEPY W MIEŚCIE HEARTLAKE
 
@@ -10904,11 +16877,27 @@ Poczuj przyjazną atmosferę lokalnej społeczności dzięki zestawowi LEGO® Fr
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 42670-1: https://a.allegroimg.com/original/116dec/1d2e90314a7fb8bb9e7f35f24233
+
 ---
 
-## 42671 — 42671 Lego Friends Zielona kawiarnia i kwiaciarnia
+## 42671 — Zielona kawiarnia i kwiaciarnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 254.98 zł · EAN: 05702017815343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42671 |
+| Nazwa angielska | Plant Café & Flower Shop |
+| Nazwa polska | Zielona kawiarnia i kwiaciarnia |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815343 |
 
 **LEGO Friends Zielona kawiarnia i kwiaciarnia 42671**
 
@@ -10934,19 +16923,50 @@ Seria LEGO® Friends pozwala dzieciom wymyślać własne, pomysłowe historie
 
 1138-elementowy zestaw z głównym modelem ma 32 cm szerokości
 
+**Galeria:**
+
+- 42671-1: https://a.allegroimg.com/original/119cb4/82979f0c481bb547583a00943062
+
 ---
 
-## 42672 — Klocki Lego Friends 188 elementów kreatywna walizka plażowa 42672
+## 42672 — Friends 42672 Kreatywna torba plażowa i podróżna
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 115.99 zł · EAN: 05702017815350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42672 |
+| Nazwa angielska | Creative Beach and Travel Suitcase |
+| Nazwa polska | Friends 42672 Kreatywna torba plażowa i podróżna |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 188 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815350 |
 
 Friends Kreatywna walizka plażowa LEGO® Friends Kreatywna walizka plażowa Zestaw LEGO® Friends Kreatywna walizka plażowa 42672 Zestaw LEGO® z trzema modelami, które można przebudować, a także dwiema minilaleczkami, figurkami psa i delfina oraz walizką do ozdabiania. Zestaw konstrukcyjny LEGO® z fajnymi scenkami plażowymi Ta zabawka 2 w 1 zabierze dzieci w podróż po kreatywności. Dzięki zestawowi LEGO® Friends Kreatywna walizka plażowa (42672) pięciolatki i starsze dzieci zbudują i przebudują różne scenki plażowe. Każdy z trzech modeli można przebudować, aby stworzyć inną scenę lub wykorzystać elementy do tworzenia własnych, pomysłowych dzieł.Ten zestaw zawiera wszystko, czego dzieci potrzebują, aby zbudować wodnosamolot z obracającym się śmigłem, strefę relaksu z deską surfingową i kawiarnię plażową z zamkami z piasku, siedziskami i lodami. Modele można przebudować na zabawkową motorówkę, strefę wypoczynkową i pizzerię z piecem do pizzy. Ponadto w zestawie są dwie minilaleczki oraz figurki psa i delfina.Po zbudowaniu i przebudowaniu modeli wszystkie elementy można spakować do walizki, aby były gotowe na kolejną przygodę. Zestaw zawiera arkusz naklejek, dzięki czemu dzieci mogą ozdobić walizkę. Spakuj walizkę, dołącz do Aliyi oraz Olly’ego na plaży i przejedź się wodnosamolotem. Pies Aira również uwielbia latać! Zrelaksuj się na plaży lub spróbuj swoich sił na desce surfingowej i pamiętaj, aby wypatrywać delfinów! Możesz też zbudować zamek z piasku lub zjeść lody. Następnie przebuduj modele na coś nowego lub spakuj elementy do walizki, aby były gotowe na kolejną przygodę!
 
+**Galeria:**
+
+- 42672-1: https://a.allegroimg.com/original/05becf/0b795606433e9ec1c9a88eef81bd
+
 ---
 
-## 42673 — Lego Friends Rodzinne wakacje na plaży 42673
+## 42673 — Rodzinne wakacje na plaży
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 424.98 zł · EAN: 05702017815367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42673 |
+| Nazwa angielska | Family Vacation Beach Resort |
+| Nazwa polska | Rodzinne wakacje na plaży |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 45 cm × gł. 24 cm |
+| EAN | 5702017815367 |
 
 LEGO Friends - Rodzinne wakacje na plaży 42673
 
@@ -10974,11 +16994,27 @@ Odkryj jeszcze więcej kreatywnych zestawów (sprzedawanych osobno) ze świata L
 - Budowanie ze znajomymi i rodziną — aplikacja LEGO Builder oferuje świetną zabawę w większym gronie, aby dzielić się radością budowania z klocków LEGO
 - Wymiary — 1140-elementowy zestaw z modelem głównym ma 18 cm wysokości, 45 cm szerokości i 24 cm głębokości
 
+**Galeria:**
+
+- 42673-1: https://a.allegroimg.com/original/11efb8/67ac37a14c45a4c4ce38457d1bef
+
 ---
 
-## 42674 — Lego Friends 42674 Sklep z grami i komiksami
+## 42674 — Sklep z grami i komiksami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 326.99 zł · EAN: 05702017836003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42674 |
+| Nazwa angielska | Comic Book and Game Store |
+| Nazwa polska | Sklep z grami i komiksami |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1005 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 30 cm × gł. 17 cm |
+| EAN | 5702017836003 |
 
 LEGO Friends 42674
  
@@ -10998,11 +17034,26 @@ Prezent dla dzieci — zestaw będzie świetnym prezentem dla dzieci, które uwi
  
 Wymiary — 1005-elementowy zestaw z modelem głównym ma 18 cm wysokości, 30 cm szerokości i 17 cm głębokości
 
+**Galeria:**
+
+- 42674-1: https://a.allegroimg.com/original/110377/9b90679a46068874f0e4b3cf3b77
+
 ---
 
-## 42675 — Lego(r) Friends 42675 Jednorożcowa Dostawa Tortu
+## 42675 — LEGO Friends 42675 Ciężarówka dostawcza z tortem jednorożcem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 27.92 zł · EAN: 05702018054864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42675 |
+| Nazwa angielska | Unicorn Cake Delivery Car |
+| Nazwa polska | LEGO Friends 42675 Ciężarówka dostawcza z tortem jednorożcem |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018054864 |
 
 Lego
 
@@ -11043,11 +17094,26 @@ Dzieci nauczą się planowania przygód, rozwijają zdolności manualne i **od r
 
 🌟 **LEGO® Friends Jednorożcowa dostawa tortu – bo każdy dzień może być pełen magii, przyjaźni i słodkich niespodzianek!**
 
+**Galeria:**
+
+- 42675-1: https://a.allegroimg.com/original/11b5f2/68427d0d407d9fa80b68e725eb3f
+
 ---
 
-## 42676 — Lego Friends 42676 Frajda w parku wodnym
+## 42676 — Frajda w parku wodnym
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702018054871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42676 |
+| Nazwa angielska | Fun Water Park Day |
+| Nazwa polska | Frajda w parku wodnym |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 278 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 27 cm × gł. 16 cm |
+| EAN | 5702018054871 |
 
 LEGO Friends 42676 Frajda w parku wodnym
  
@@ -11069,11 +17135,27 @@ Młodzi konstruktorzy poznają inny wymiar budowania dzięki aplikacji LEGO Buil
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY – ten 278-elementowy zestaw z parkiem wodnym ma 13 cm wysokości, 27 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 42676-1: https://a.allegroimg.com/original/11c1f8/cc76dff14523b74ae2fea8f23f7b
+
 ---
 
-## 42677 — Klocki Lego Piekarnia z psimi przysmakami 42677 dla dzieci 6 lat
+## 42677 — Piekarnia z psimi przysmakami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.98 zł · EAN: 05702018054888 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42677 |
+| Nazwa angielska | Dog Treats Bakery |
+| Nazwa polska | Piekarnia z psimi przysmakami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 19 cm × gł. 12 cm |
+| EAN | 5702018054888 |
 
 Zainspiruj dzieci do wymyślania własnych słodkich historii z zabawką LEGO® Friends **Piekarnia smakołyków dla psów**y (42677) dla dziewczynek i chłopców od 6 lat. Piekarnia jest pełna zabawnych detali i zabawek, które zachwycą miłośników zwierząt domowych. Poznaj piekarnik, ekspres do kawy, lodówkę i siedzenia oraz wiele akcesoriów dla zwierząt, takich jak zabawne znaki, skrzynia i drzwiczki dla zwierząt. Do blatu prowadzi nawet rampa, aby szczenięta mogły zaangażować się w obsługę klientów!
 
@@ -11104,11 +17186,27 @@ Ta piekarnia LEGO to świetny prezent dla chłopców, dziewczynek i miłośnikó
  
 - Nadaje się dla dzieci od 6 lat
 
+**Galeria:**
+
+- 42677-1: https://a.allegroimg.com/original/29ac96/2eadd93f4d7d90ffd6a0e02d39cf
+
 ---
 
-## 42678 — Lego Friends Furgonetka z akcesoriami dla zwierząt 42678
+## 42678 — Furgonetka z akcesoriami dla zwierząt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 51.15 zł · EAN: 05702018054895 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42678 |
+| Nazwa angielska | Pet Accessories Van |
+| Nazwa polska | Furgonetka z akcesoriami dla zwierząt |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702018054895 |
 
 Mali miłośnicy zwierząt puszczą wodze fantazji dzięki zabawce LEGO® **Samochód dostawczy z akcesoriami dla zwierząt** (42678) dla dzieci. Dziewczynki i chłopcy od 6 lat mogą spodziewać się ekscytujących przygód podczas ładowania samochodu dostawczego, prezentowania akcesoriów i organizowania pokazu mody dla zwierząt domowych.
  
@@ -11130,11 +17228,27 @@ Ten zestaw to świetny prezent dla chłopców i dziewczynek, którzy kochają zw
 - Liczba elementów: 237 
 - Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 42678-1: https://a.allegroimg.com/original/2930a7/f528cecd494fa508824920fa69e8
+
 ---
 
-## 42679 — Lego Friends 42679 Hotel dla królików w mieście Heartlake
+## 42679 — Hotel dla królików w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 64.96 zł · EAN: 05702018054901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42679 |
+| Nazwa angielska | Heartlake City Bunny Hotel |
+| Nazwa polska | Hotel dla królików w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 161 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 12 cm |
+| EAN | 5702018054901 |
 
 Zanurz się w świat opowieści z zestawem LEGO® Friends **Hotel dla króliczków w Heartlake** (42679) dla dziewczynek i chłopców w wieku od 5 lat. Ten zestaw zawiera 2 minilalki i 2 figurki króliczków, które pozwolą dzieciom tworzyć historie pełne opieki nad zwierzętami.
  
@@ -11156,11 +17270,27 @@ Ten zestaw to świetny prezent dla dziewczynek i chłopców, którzy kochają zw
 - Liczba elementów: 161 
 - Odpowiednie dla dzieci od 5 lat
 
+**Galeria:**
+
+- 42679-1: https://a.allegroimg.com/original/294c1c/720b864a45e18025cf936e337824
+
 ---
 
-## 42680 — Lego Friends Sklep Spożywczy W Mieście Heartlake 42680
+## 42680 — Sklep spożywczy w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 54.98 zł · EAN: 05702018054918 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42680 |
+| Nazwa angielska | Heartlake City Convenience Store |
+| Nazwa polska | Sklep spożywczy w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 15 cm × gł. 9 cm |
+| EAN | 5702018054918 |
 
 🛒🥦 **LEGO FRIENDS SKLEP SPOŻYWCZY W MIECIE HEARTLAKE 42680 (176 EL.)** 🥦🛒
 
@@ -11198,11 +17328,26 @@ Zainspiruj swoje dziecko do pełnej wyobraźni zabawy w codzienne zakupy z zesta
 - 1x Instrukcja budowania.
 - Produkt fabrycznie nowy, w 100% oryginalny, w oficjalnym opakowaniu LEGO®.
 
+**Galeria:**
+
+- 42680-1: https://a.allegroimg.com/original/297dde/fb94b28e4eb1a61d86e3c41d4af4
+
 ---
 
-## 42681 — Lego 42681 Friends Zestaw Przygoda na aksolotlowej łodzi 5+ 95pcs
+## 42681 — LEGO Friends 42681 Przygoda na aksolotlowej łodzi
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 24.98 zł · EAN: 05702018060384 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42681 |
+| Nazwa angielska | Axolotl Adventure Boat |
+| Nazwa polska | LEGO Friends 42681 Przygoda na aksolotlowej łodzi |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 2 cm × szer. 5 cm |
+| EAN | 5702018060384 |
 
 Zainspiruj dziewczynki i chłopców w wieku od 5 lat do wymyślania zabawnych historii z zestawem LEGO® Friends **Przygodowa łódź z aksolotlami** (42681) dla dzieci. Zestaw zawiera 1 minilaleczkę, 1 mikrolaleczkę, 2 mini aksolotle oraz akcesoria, które zachęcają do kreatywnej zabawy.
  
@@ -11224,11 +17369,26 @@ Ten zestaw do odgrywania historyjek to wspaniały prezent dla dziewczynek, chło
 - Ilość elementów: 95 
 - Nadaje się dla dzieci od 5 lat
 
+**Galeria:**
+
+- 42681-1: https://a.allegroimg.com/original/298bc0/b84cfe2742f4b009bd767cbd1245
+
 ---
 
-## 42682 — Lego Friends 42682 Domek glampingowy na łonie natury
+## 42682 — Domek na luksusowym kempingu
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 73.98 zł · EAN: 05702018060391 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42682 |
+| Nazwa angielska | Nature Glamping Cabin |
+| Nazwa polska | Domek na luksusowym kempingu |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 295 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702018060391 |
 
 LEGO Friends 42682 Domek na luksusowym kempingu
  
@@ -11250,11 +17410,26 @@ Ten zestaw do zabawy w biwak to uroczy prezent dla miłośników przyrody, dziew
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — zestaw zawiera 295 elementów, a domek ma 13 cm wysokości, 14 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 42682-1: https://a.allegroimg.com/original/1115ce/ec6d072d445aa7e7d385a9f3dcc9
+
 ---
 
-## 42684 — Klocki Lego Friends 42684 Jednorożcowa kawiarnia, zestaw dla dzieci +6 lat
+## 42684 — LEGO Friends 42684 Jednorożcowa kawiarnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 119.48 zł · EAN: 05702018033227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42684 |
+| Nazwa angielska | Unicorn Dream Café |
+| Nazwa polska | LEGO Friends 42684 Jednorożcowa kawiarnia |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 475 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 26 cm × gł. 10 cm |
+| EAN | 5702018033227 |
 
 Zainspiruj dzieci w wieku od 6 lat do kreatywnej zabawy dzięki zestawowi LEGO® Friends **Wymarzona kawiarnia z jednorożcem** (42684). Chłopcy i dziewczynki mogą odgrywać scenki z życia kawiarni z tęczowym jednorożcem, która zawiera mnóstwo uroczych akcesoriów.
  
@@ -11276,11 +17451,27 @@ Ten zestaw to świetny prezent urodzinowy dla dziewczynek i chłopców, którzy 
 - Liczba elementów: 475 
 - Dla dzieci w wieku od 6 lat
 
+**Galeria:**
+
+- 42684-1: https://a.allegroimg.com/original/297c52/998ad5b64d6ca3cdcde35ea6bb99
+
 ---
 
-## 42685 — Klocki Lego Friends 42685 Pokaz mody w mieście Heartlake
+## 42685 — Pokaz mody w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 158.93 zł · EAN: 05702018033234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42685 |
+| Nazwa angielska | Heartlake City Fashion Show |
+| Nazwa polska | Pokaz mody w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 410 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 15 cm × gł. 11 cm |
+| EAN | 5702018033234 |
 
 Zainspiruj młodych projektantów mody w wieku od 7 lat do stworzenia własnego, magicznego pokazu mody dzięki zestawowi konstrukcyjnemu LEGO® Friends **Pokaz Mody w Heartlake City** (42685). Dziewczynki i chłopcy będą bawić się godzinami, wybierając ubrania, akcesoria i przygotowując pokaz mody.
  
@@ -11302,11 +17493,27 @@ Ten zestaw konstrukcyjny to świetny prezent dla dziewczynek i chłopców, któr
 - Liczba elementów: 410 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42685-1: https://a.allegroimg.com/original/297499/e98db89f48e0a53272a02051eada
+
 ---
 
-## 42686 — Lego Friends 42686 Niezwykła sala zabaw
+## 42686 — Niezwykła sala zabaw
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 164.89 zł · EAN: 05702018033241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42686 |
+| Nazwa angielska | Fun Indoor Playground |
+| Nazwa polska | Niezwykła sala zabaw |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 668 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 32 cm × gł. 15 cm |
+| EAN | 5702018033241 |
 
 Dziewczynki i chłopcy od 7 lat mogą puścić wodze fantazji i świetnie się bawić, odkrywając zestaw LEGO® Friends **Wesołe centrum rozrywki** (42686). Ten pełen akcji zestaw zawiera 3 minilalki i mnóstwo akcesoriów z przeszkodami, wyzwaniami i atrakcjami, dzięki którym dzieci spędzą godziny na zabawie.
  
@@ -11328,11 +17535,26 @@ Ten zestaw to świetny prezent dla dziewczynek i chłopców, którzy uwielbiają
 - Liczba elementów: 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42686-1: https://a.allegroimg.com/original/29c274/ed78a38b4e87a03bf1b72fd4a280
+
 ---
 
-## 42687 — Lego Friends Dom rodzinny Liann 42687
+## 42687 — Dom Rodzinny Liann
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 240.76 zł · EAN: 05702018060407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42687 |
+| Nazwa angielska | Liann's Family House |
+| Nazwa polska | Dom Rodzinny Liann |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 946 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018060407 |
 
 **LEGO Friends Dom rodzinny Liann 42687**
 
@@ -11358,11 +17580,26 @@ Odkryj inne zestawy z serii (sprzedawane osobno) oraz serial online LEGO® Frien
 
 946-elementowy zestaw z domem ma 29 cm szerokości
 
+**Galeria:**
+
+- 42687-1: https://a.allegroimg.com/original/111c36/83ce559c421591eceabac5cbeaf4
+
 ---
 
-## 42688 — Lego Friends 42688 Stadnina i szkółka jeździecka
+## 42688 — LEGO Friends 42688 Stadnina i szkółka jeździecka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 249.98 zł · EAN: 05702018060414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42688 |
+| Nazwa angielska | Horse Stable and Riding Academy |
+| Nazwa polska | LEGO Friends 42688 Stadnina i szkółka jeździecka |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 735 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 28 cm × gł. 16 cm |
+| EAN | 5702018060414 |
 
 Dziewczynki i chłopcy od 7 lat mogą dosiąść koni i świetnie się bawić dzięki zestawowi LEGO® Friends **Stajnia i akademia jeździecka** (42688). Przeżyjcie wszystkie etapy opieki nad końmi, podczas gdy Liann i Aliya odbywają lekcje z instruktorką Cindy. Osiodłajcie 2 konie i skaczcie z nimi przez przeszkody. Następnie wypróbujcie różne prace, takie jak przewożenie siana taczkami czy czyszczenie i karmienie koni. Po wyczerpującym dniu spędźcie noc w przytulnych łóżkach nad stajniami.
  
@@ -11384,11 +17621,27 @@ Ten zestaw będzie wspaniałym prezentem dla miłośników koni, którzy lubią 
 - Liczba elementów: 735 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42688-1: https://a.allegroimg.com/original/29ed0e/ff87e7f6475a8554e246da1f9f25
+
 ---
 
-## 42689 — Lego Friends 42689 Domek klubu przyjaciół z Heartlake
+## 42689 — Domek klubu przyjaciół z Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 260.18 zł · EAN: 05702018060421 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42689 |
+| Nazwa angielska | Heartlake City Friends Club House |
+| Nazwa polska | Domek klubu przyjaciół z Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 794 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 18 cm × gł. 19 cm |
+| EAN | 5702018060421 |
 
 Dzieci od 8 lat mogą puścić wodze fantazji dzięki zestawowi LEGO® Friends **Klub Przyjaciół w Heartlake** (42689). Chłopcy i dziewczynki wyruszą na tajne misje i przeżyją nieskończone historie dzięki temu zestawowi konstrukcyjnemu dla dzieci. Cieszcie się przygodami na tyrolce, zjeżdżalni i ściance wspinaczkowej. Rozwiążcie zagadkę dzięki ukrytemu komputerowi i dronowi. Opiekujcie się zwierzątkami, twórzcie sztukę przy sztalugach lub przygotujcie przekąski w kuchni. Niezależnie od tego, co lubią dzieci, dzięki temu zestawowi spędzą mnóstwo wspaniałych chwil.
  
@@ -11410,11 +17663,26 @@ Ten zestaw konstrukcyjny dla dzieci to świetny prezent dla dziewczynek i chłop
 - Liczba elementów: 794 
 - Odpowiednie dla dzieci od 8 lat
 
+**Galeria:**
+
+- 42689-1: https://a.allegroimg.com/original/29251b/1173efdf407f8a3007eaf52add8a
+
 ---
 
-## 42690 — Lego Friends 42690 Leśna herbata
+## 42690 — Podwieczorek w lesie
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 29.89 zł · EAN: 05702018060438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42690 |
+| Nazwa angielska | Forest Tea Party |
+| Nazwa polska | Podwieczorek w lesie |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 116 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702018060438 |
 
 LEGO Friends 42690 Podwieczorek w lesie
  
@@ -11436,11 +17704,26 @@ Dzieci poznają intuicyjne budowanie dzięki aplikacji LEGO Builder, w której m
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 116-elementowy zestaw ma 12 cm wysokości, 12 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 42690-1: https://a.allegroimg.com/original/11a10c/40fa307d43ce96653ad1d93d34b5
+
 ---
 
-## 42691 — Lego Friends 42691 Restauracja z ogrodem
+## 42691 — Restauracja z ogrodem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 589.88 zł · EAN: 05702018067123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42691 |
+| Nazwa angielska | Garden Restaurant |
+| Nazwa polska | Restauracja z ogrodem |
+| Seria | Friends |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1465 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018067123 |
 
 Klocki LEGO® 42691 Friends Restauracja z ogrodem
 
@@ -11464,11 +17747,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dziewczynek i chłopców od 12 lat, którzy lubią budować rozbudowane modele LEGO® Friends, odkrywać szczegóły wnętrz i odgrywać historie z bohaterami z Heartlake City.
 
+**Galeria:**
+
+- 42691-1: https://a.allegroimg.com/original/11a142/0390d3764709b9ab9b7e1deaff96
+
 ---
 
-## 42692 — Klocki Lego Friends 42692 Stoisko Z Lodami I Balonami
+## 42692 — LEGO Friends 42692 Stoisko z lodami i balonami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 24.00 zł · EAN: 05702018033258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42692 |
+| Nazwa angielska | Ice Cream & Balloon Stand |
+| Nazwa polska | LEGO Friends 42692 Stoisko z lodami i balonami |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm × gł. 5 cm |
+| EAN | 5702018033258 |
 
 Dziewczynki i chłopcy od 6 lat przeżyją słodkie przygody i kreatywną zabawę dzięki zestawowi LEGO Friends Stoisko z lodami i balonami (42692). Ta zabawka jest pełna zabawnych detali i uroczych akcesoriów, które pobudzają dziecięcą wyobraźnię.
 
@@ -11480,11 +17778,26 @@ Specyfikacja
 
 STOISKO DO OPOWIADANIA HISTORII Dzieci od 6 lat będą się świetnie bawić, odgrywając scenki sprzedaży lodów i balonów dzięki zestawowi LEGO Friends Stoisko z lodami i balonami (42692) z 2 minilaleczkami i akcesoriami do kreatywnej zabawyZABAWA W KLIENTA I SPRZEDAWCĘ Zainspiruj dzieci do wymyślania własnych historii, w których wcielą się w rolę klientów i sprzedawców, dzięki temu zabawnemu zestawowi LEGO Friends, który zawiera stoisko z przekąskami, rower, balony i lody na patyku2 POSTACIE LEGO FRIENDS Ten zabawny zestaw dla dziewczynek i chłopców zawiera minilaleczki Liann i Paisley oraz uroczą maskotkę w postaci loda, które inspirują do wymyślania wielu historiiSTOISKO Z JEDZENIEM I MNÓSTWEM AKCESORIÓW Zawiera urocze detale i akcesoria, które inspirują dzieci do kreatywności, w tym menu, stolik, balony, lody na patyku, telefon i kasęPOMYSŁ NA PREZENT Ta kreatywna zabawka dla dzieci to świetny prezent urodzinowy dla dziewczynek i chłopców od 6 lat, którzy lubią wymyślać własne historieZABAWNE BUDOWANIE Poprowadź dzieci przez ich następną przygodę z budowaniem dzięki intuicyjnej aplikacji LEGO Builder z instrukcjami. Pozwoli im ona zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele w 3D podczas pracySERIAL ONLINE Ciesz się godzinami pomysłowej zabawy z innymi zestawami (sprzedawanymi oddzielnie) i serialem online LEGO Friends: Nowy rozdział, w którym dzieci poznają bohaterów z miasteczka HeartlakeWYMIARY Model stoiska z lodami ma ponad 10 cm wysokości, 8 cm szerokości i 5 cm głębokościLiczba elementów: 107Odpowiednie dla dzieci od 6 lat
 
+**Galeria:**
+
+- 42692-1: https://a.allegroimg.com/original/111108/fc96f51341aeba447477dd71bda6
+
 ---
 
-## 42693 — Lego Friends 42693 Kreatywna kwiaciarnia
+## 42693 — Kreatywna kwiaciarnia
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 88.69 zł · EAN: 05702018060445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42693 |
+| Nazwa angielska | Creative Flower Shop |
+| Nazwa polska | Kreatywna kwiaciarnia |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 377 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 20 cm × gł. 14 cm |
+| EAN | 5702018060445 |
 
 LEGO Friends 42693 Kreatywna kwiaciarnia
  
@@ -11505,11 +17818,26 @@ Młodzi konstruktorzy poznają inny wymiar budowania dzięki aplikacji LEGO Buil
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 377-elementowy zestaw konstrukcyjny ma 10 cm wysokości, 20 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 42693-1: https://a.allegroimg.com/original/11ad9f/2315ade54478b936f698cfdae1d4
+
 ---
 
-## 42694 — Lego Friends 42694 Mobilny punkt z pizzą
+## 42694 — Furgonetka z pizzą
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 44.42 zł · EAN: 05702018060452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42694 |
+| Nazwa angielska | Pizza Truck |
+| Nazwa polska | Furgonetka z pizzą |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 190 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702018060452 |
 
 LEGO Friends 42694 Furgonetka z pizzą
  
@@ -11531,11 +17859,27 @@ Młodzi konstruktorzy poznają inny wymiar budowania dzięki aplikacji LEGO Buil
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY — ten 190-elementowy zestaw zawiera furgonetkę z pizzą, która ma 9 cm wysokości, 12 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 42694-1: https://a.allegroimg.com/original/11ae88/ab6d0944416ba7ec5f3a528a707e
+
 ---
 
-## 42695 — Lego Friends 42695 Przyczepa z koniem i źrebaczkiem
+## 42695 — Przyczepa z koniem i źrebaczkiem
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.46 zł · EAN: 05702018033265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42695 |
+| Nazwa angielska | Horse & Baby Foal Trailer |
+| Nazwa polska | Przyczepa z koniem i źrebaczkiem |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702018033265 |
 
 Dzieci w wieku od 7 lat będą cieszyć się godzinami zabawy w opiekę nad zwierzętami dzięki zestawowi LEGO® Friends **Przyczepa z koniem i źrebakiem** (42695). Ten zestaw dla miłośników koni zawiera 2 minilaleczki oraz figurkę konia, źrebaka, szczeniaka i żaby. Wypróbuj opiekę nad zwierzętami za pomocą wyrafinowanych akcesoriów do zgrzebła koni, transportu w przyczepie i skakania przez przeszkody.
  
@@ -11557,11 +17901,26 @@ Ten zestaw konstrukcyjny stanowi super prezent dla miłośników koni i zabawny 
 - Liczba elementów: 279 
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42695-1: https://a.allegroimg.com/original/298535/336b41ad430ead348a77c745bcb9
+
 ---
 
-## 42696 — Klocki Lego Friends 42696 lecznica dla zwierząt, zestaw dla dzieci +4 lata
+## 42696 — LEGO Friends 42696 Lecznica dla zwierząt
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 83.29 zł · EAN: 05702018060469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42696 |
+| Nazwa angielska | Animal Vet Clinic |
+| Nazwa polska | LEGO Friends 42696 Lecznica dla zwierząt |
+| Seria | Friends |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 20 cm × gł. 7 cm |
+| EAN | 5702018060469 |
 
 Zachęć dzieci od 4 lat do tworzenia własnych historii dzięki zestawowi LEGO® Friends **Klinika weterynaryjna ze zwierzątkami** (42696) dla dziewczynek i chłopców. Szczegółowy zestaw kliniki weterynaryjnej zawiera wszystko, czego przedszkolaki potrzebują do odgrywania ról i opieki nad zwierzętami. W zestawie znajduje się stajnia dla koni, gabinet zabiegowy, legowiska dla zwierząt, akcesoria do karmienia, sprzęt weterynaryjny, wybieg dla zwierząt i wiele więcej.
  
@@ -11583,11 +17942,26 @@ Ten zestaw to świetny prezent dla przedszkolaków, którzy kochają zabawki ze 
 - Liczba elementów: 141 
 - Odpowiednie dla dzieci od 4 lat
 
+**Galeria:**
+
+- 42696-1: https://a.allegroimg.com/original/29248e/752bf5d842b492a4ab2213832ef6
+
 ---
 
-## 42697 — Lego Friends 42697 Kreatywna walizka z domkiem dla lalek
+## 42697 — Kreatywna walizka z domkiem dla lalek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 149.97 zł · EAN: 05702018060575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42697 |
+| Nazwa angielska | Creative Dollhouse Suitcase |
+| Nazwa polska | Kreatywna walizka z domkiem dla lalek |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 355 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 23 cm × szer. 30 cm × gł. 13 cm |
+| EAN | 5702018060575 |
 
 LEGO Friends 42697 Kreatywna walizka z domkiem dla lalek
  
@@ -11609,11 +17983,27 @@ Ta pobudzająca wyobraźnię zabawka to świetny prezent dla kreatywnego dziecka
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności. 
 - WYMIARY – ten składający się z 355 elementów składany zestaw z domkiem dla lalek ma po zamknięciu walizki ponad 23 cm wysokości, 30 cm szerokości i 13 cm głębokości, a poszczególne pomieszczenia mają ponad 14 cm szerokości.
 
+**Galeria:**
+
+- 42697-1: https://a.allegroimg.com/original/1188a8/485e739a4b6d9599c7b6c69272fd
+
 ---
 
-## 42698 — * Lego Friends Kalendarz adwentowy na 2026 rok 42698
+## 42698 — LEGO Friends Kalendarz adwentowy na 2026 rok
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 94.99 zł · EAN: 05702018054697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42698 |
+| Nazwa angielska | Friends Advent Calendar 2026 |
+| Nazwa polska | LEGO Friends Kalendarz adwentowy na 2026 rok |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 211 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018054697 |
 
 LEGO FRIENDS - Kalendarz adwentowy na 2026 rok 42698
  
@@ -11638,11 +18028,27 @@ Odkryj magiczną zimową krainę dzięki zabawce konstrukcyjnej **LEGO Friends K
 - POZNAJ WIĘCEJ PRZYJACIÓŁ - odkryj więcej zachęcających do zabawy w odgrywanie ról zabawek (sprzedawanych oddzielnie) oraz serial online LEGO Friends: Następny rozdział, w którym dzieci poznają bohaterów z Heartlake City 
 - ZOBACZ WIĘCEJ - kolekcja LEGO Friends pozwala dzieciom poznawać różne chwile związane z przyjaźnią i daje mnóstwo okazji do wymyślania nowych opowieści
 
+**Galeria:**
+
+- 42698-1: https://a.allegroimg.com/original/11b713/9438b096457f8068b74cbf8b7adf
+
 ---
 
-## 42699 — Lego Friends 42699 Domek na plaży z fokami
+## 42699 — Domek na plaży z fokami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 152.49 zł · EAN: 05702018060490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42699 |
+| Nazwa angielska | Beach House with Seals |
+| Nazwa polska | Domek na plaży z fokami |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 28 cm × gł. 18 cm |
+| EAN | 5702018060490 |
 
 Dziewczyny i chłopcy w wieku od 7 lat zagrają w historie z wakacji z tym zabawnym zestawem domku dla dzieci. Zestaw LEGO® Friends **Dom na plaży z fokami** (42699) zawiera wyrafinowany dom na plaży pełen przytulnych detali. W zestawie mnóstwo przedmiotów, które pobudzają pomysłową zabawę, w tym blender do smoothie w kuchni, pokoje z 3 łóżkami oraz urocza weranda z tarasem i częścią wypoczynkową. Zabawa trwa na zewnątrz na piasku, gdzie foki lubią odpoczywać. Można tu znaleźć nawet zakopany skarb!
 
@@ -11673,11 +18079,26 @@ Ten zestaw to wspaniały prezent urodzinowy dla dziewczynek i chłopców, którz
  
 - Nadaje się dla dzieci od 7 lat
 
+**Galeria:**
+
+- 42699-1: https://a.allegroimg.com/original/115076/33fbc1f3467cbd961062ea015138
+
 ---
 
-## 42700 — Lego Friends 42700 Cukierkowo-babeczkowy diabelski młyn
+## 42700 — Cukierkowo-babeczkowy diabelski młyn
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 196.99 zł · EAN: 05702018060506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42700 |
+| Nazwa angielska | Candy & Cupcake Ferris Wheel |
+| Nazwa polska | Cukierkowo-babeczkowy diabelski młyn |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 602 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 18 cm × gł. 20 cm |
+| EAN | 5702018060506 |
 
 LEGO Friends 42700 Cukierkowo-babeczkowy diabelski młyn
 
@@ -11697,11 +18118,26 @@ Ten zestaw LEGO z diabelskim młynem to świetny prezent dla dziewczynek i chło
 - **POMOC W BUDOWANIU** — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności.
 - **WYMIARY** — ten 602-elementowy zestaw zawiera diabelski młyn, który ma 25 cm wysokości, 18 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 42700-1: https://a.allegroimg.com/original/117d58/a40947bc493f8beb20dbc0fd61a5
+
 ---
 
-## 42701 — Lego Friends Sanktuarium koali 42701
+## 42701 — Sanktuarium koali
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 241.99 zł · EAN: 05702018060582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42701 |
+| Nazwa angielska | Koala Habitat & Care Center |
+| Nazwa polska | Sanktuarium koali |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 521 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018060582 |
 
 **LEGO Friends Sanktuarium koali 42701**
 
@@ -11727,11 +18163,26 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 521-elementowy zestaw z modelem o szerokości 31 cm
 
+**Galeria:**
+
+- 42701-1: https://a.allegroimg.com/original/11fe83/799c37064c008d1443723be618f6
+
 ---
 
-## 42702 — Lego Friends 42702 Wróżkowa karuzela z kwiatami
+## 42702 — Wróżkowa karuzela z kwiatami
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 130.06 zł · EAN: 05702018060599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42702 |
+| Nazwa angielska | Spinning Flower & Fairy Teacup Ride |
+| Nazwa polska | Wróżkowa karuzela z kwiatami |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 321 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 22 cm × gł. 11 cm |
+| EAN | 5702018060599 |
 
 LEGO Friends 42702 Wróżkowa karuzela z kwiatami
 
@@ -11751,11 +18202,26 @@ Ten baśniowy zestaw to świetny prezent dla dziewczynek i chłopców. Dzieci mo
 - **POMOC W BUDOWANIU** — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności.
 - **WYMIARY** — ten 321-elementowy zestaw ma 20 cm wysokości, 22 cm szerokości i 11 cm głębokości.
 
+**Galeria:**
+
+- 42702-1: https://a.allegroimg.com/original/1147f1/593396584d39bad2d76f53369d54
+
 ---
 
-## 42703 — Lego Friends 42703 Zábavní park: Mořská panna na horské dráze
+## 42703 — Syrenkowa kolejka górska
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 399.74 zł · EAN: 05702018060605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42703 |
+| Nazwa angielska | Mermaid Roller Coaster Ride |
+| Nazwa polska | Syrenkowa kolejka górska |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 864 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 52 cm × gł. 28 cm |
+| EAN | 5702018060605 |
 
 LEGO Friends 42703 Syrenkowa kolejka górska
  
@@ -11781,11 +18247,26 @@ POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania dzięki aplikacji LEGO
  
 WYMIARY – kolejka górska w tym 864-elementowym zestawie ma 19 cm wysokości, 52 cm szerokości i 28 cm głębokości.
 
+**Galeria:**
+
+- 42703-1: https://a.allegroimg.com/original/116f40/0dfa726543b6a4c7b2e163b6debd
+
 ---
 
-## 42704 — Lego Friends Grand Hotel w mieście Heartlake 42704
+## 42704 — Grand Hotel w mieście Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 500.36 zł · EAN: 05702018060612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42704 |
+| Nazwa angielska | Heartlake City Grand Hotel |
+| Nazwa polska | Grand Hotel w mieście Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1406 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018060612 |
 
 **LEGO Friends Grand Hotel w mieście Heartlake 42704**
 
@@ -11811,11 +18292,26 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 1406-elementowy zestaw z hotelem ma 35 cm szerokości
 
+**Galeria:**
+
+- 42704-1: https://a.allegroimg.com/original/11631c/9a7ee85040589c9b08f1c4bcc617
+
 ---
 
-## 42705 — Lego Friends Jesienna leśna chatka 42705
+## 42705 — Jesienna leśna chatka
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 309.98 zł · EAN: 05702018060629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42705 |
+| Nazwa angielska | Cozy Fall Forest Cabin |
+| Nazwa polska | Jesienna leśna chatka |
+| Seria | Friends |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1229 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018060629 |
 
 **LEGO Friends Jesienna leśna chatka 42705**
 
@@ -11841,33 +18337,77 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 1229-elementowy zestaw z chatką ma ponad 32 cm szerokości
 
----
+**Galeria:**
 
-## 43217 — Lego 43217 Dom Z Bajki Odlot
-
-*Kategoria: Friends · cena Allegro (2026-08-17): 219.90 zł · EAN: 05702017424842 · in stock*
-
-**Dom z bajki „Odlot”**
-
-Zestaw zawiera szczegółowy element kultowego już domu z kominem i balonami, dwie minifigurki LEGO, figurkę psa LEGO, plecak odkrywcy i książkę przygodową. Dzieci mogą też cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie modeli w 3D, zapisywanie zestawów i śledzenie postępów. Oparty na filmie Disney i Pixar „Odlot” zestaw spodoba się fanom filmów i starszym dzieciom dzięki licznym szczegółom i zaawansowanemu modelowi. Dom jest w sam raz do zabawy i kolekcjonowania, inspiruje do wymyślania przygód, a po skończonej zabawie może zająć honorowe miejsce na półce. Ten zestaw zawiera dwie minifigurki LEGO, Carla Fredricksena i Russella, a także figurkę LEGO psa Asa. Ta wysokiej jakości zabawka konstrukcyjna będzie świetnym prezentem dla dorosłych fanów filmu lub starszych dzieci, które chcą być na czasie.
-
-Ilość elementów: 598
-
-**Wiek: 9+**
-
-**Ostrzeżenie: Zestaw jest nieodpowiedni dla dzieci poniżej 3 lat ,ponieważ zawiera małe elementy!**
-
-** **
-
-** **
-
-** **
+- 42705-1: https://a.allegroimg.com/original/1193df/6080bd2e427caae85d20cbe358b4
 
 ---
 
-## 5005236 — Lego Friends 5005236 Clubhouse kapsuła Stephani saszetka klocki
+## 43217 — Dom z bajki ''Wyjazd''
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 39.00 zł · EAN: 00673419287357 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43217 |
+| Nazwa angielska | Up House​ |
+| Nazwa polska | Dom z bajki ''Wyjazd'' |
+| Seria | Disney |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 598 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017424842, 5702017866932 |
+
+LEGO Disney Dom z bajki „Odlot 43217
+ 
+W tym ciekawym zestawie LEGO® ǀ Disney i Pixar Dom z bajki „Odlot (43217) na fanów Disneya w wieku od dziewięciu lat czeka wspaniała przygoda. Zestaw zawiera szczegółowy element kultowego już domu z kominem i balonami, dwie minifigurki LEGO, figurkę psa LEGO, plecak odkrywcy i książkę przygodową. Dzieci mogą też cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder, która umożliwia powiększanie i obracanie modeli w 3D, zapisywanie zestawów i śledzenie postępów.
+ 
+Zbuduj wspomnienia
+ 
+Oparty na filmie Disney i Pixar „Odlot zestaw spodoba się fanom filmów i starszym dzieciom dzięki licznym szczegółom i zaawansowanemu modelowi. Dom jest w sam raz do zabawy i kolekcjonowania, inspiruje do wymyślania przygód, a po skończonej zabawie może zająć honorowe miejsce na półce.
+ 
+Kultowe postacie
+ 
+Ten zestaw zawiera dwie minifigurki LEGO, Carla Fredricksena i Russella, a także figurkę LEGO psa Asa. Ta wysokiej jakości zabawka konstrukcyjna będzie świetnym prezentem dla dorosłych fanów filmu lub starszych dzieci, które chcą być na czasie. • Zachęca do niekończącej się zabawy w kultowym domu z filmu „Odlot Disney i Pixar
+
+• Odgrywanie filmowych przygód i wymyślanie własnych rozwija umiejętność opowiadania historii
+ 
+• Ulubione postacie i miejsca zachęcają do przeżywania przygód i samodzielnej zabawy
+ 
+• Fanom wytwórni Disney i Pixar spodoba się prezent, który inspiruje do praktycznej zabawy
+ 
+• Dom ma sporo detali, które urozmaicają zabawę dzieci, a do tego świetnie wygląda na półce
+ 
+• Poznaj interaktywny sposób na budowanie dziękiaplikacji LEGO® Builder
+ 
+• Szczegółowe postacie i modele pomagają rozwijać wyobraźnię i umiejętności kreatywnej zabawy
+ 
+• Elementy LEGO® wchodzące w skład tego zestawu spełniają najwyższe standardy jakości
+ 
+• Ten zestaw LEGO® ǀ Disney spełnia surowe standardy bezpieczeństwa
+
+**Galeria:**
+
+- 43217-1: https://a.allegroimg.com/original/115d75/20a98c1b42e69bce0cb48e7165a2
+- 43217-2: https://a.allegroimg.com/original/118517/8464215c4853beb3c94cb6053962
+
+---
+
+## 5005236 — Clubhouse
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005236 |
+| Nazwa angielska | Friends Clubhouse |
+| Nazwa polska | Clubhouse |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287357 |
 
 Witam
 
@@ -11899,11 +18439,27 @@ Dzięki kompaktowemu rozmiarowi i kreatywnym elementom, **LEGO Friends Kapsuła 
  
 **Zamów już teraz i podaruj dziecku godziny wspaniałej zabawy!**
 
+**Galeria:**
+
+- 5005236-1: https://a.allegroimg.com/original/0377c0/f9f19dab44f784c6a1dd2dbeba2f
+
 ---
 
-## 5005237 — Lego 5005237 Friends Pierścionki przyjaźni 2018 Rok!
+## 5005237 — LEGO 5005237 Friends - Pierścionki przyjaźni
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 60.00 zł · EAN: 00673419290852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005237 |
+| Nazwa angielska | Friendship Rings |
+| Nazwa polska | LEGO 5005237 Friends - Pierścionki przyjaźni |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419290852 |
 
 **Nowy, oryginalnie zapakowany zestaw LEGO Friends**
 
@@ -11925,11 +18481,27 @@ Towar nieużywany, fabrycznie zapakowany. Opakowanie w stanie idealnym - nie nos
 
 **Stwórz własny pierścionek dla najlepszej przyjaciółki a potem drugi dla siebie! W zestawie znajdziesz dwa pierścionki, 28 specjalnie dobranych klocków LEGO oraz cztery foliowe dekoracje, dające nieskończone możliwości łączenia.**
 
+**Galeria:**
+
+- 5005237-1: https://a.allegroimg.com/original/11acd6/8600c6004d0ab42f82d13282f7de
+
 ---
 
-## 561409 — Lego Friends 561409
+## 561409 — friends
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 9.50 zł · EAN: 00887866728435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561409 |
+| Nazwa angielska | Cookie Kitchen |
+| Nazwa polska | friends |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887866728435 |
 
 LEGO FRIENDS 561409
 
@@ -11939,11 +18511,27 @@ LEGO FRIENDS 561409
 
 **Edycja limitowana!**
 
+**Galeria:**
+
+- 561409-1: https://a.allegroimg.com/original/11d075/2bb94b9d43d7a1796d50d89ae8f9
+
 ---
 
-## 561507 — Lego Friends 561507 Garden set saszetka z klockami
+## 561507 — Garden set
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 19.99 zł · EAN: 05060976586392 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561507 |
+| Nazwa angielska | Garden And Wheelbarrow |
+| Nazwa polska | Garden set |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976586392 |
 
 Witam
 
@@ -11959,11 +18547,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 561507-1: https://a.allegroimg.com/original/118cd2/44af514543e482547c9dbdb2d26d
+
 ---
 
-## 561602 — Lego Friends Minifigure Polybag Valentine's Post Box #561602
+## 561602 — Valentine's Post Box
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.99 zł · EAN: 00887866728411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561602 |
+| Nazwa angielska | Valentine's Post Box |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887866728411 |
 
 **LEGO Friends polybag – Valentine's Post Box #561602**
 
@@ -11983,11 +18587,27 @@ Rafał
 
 To idealny zestaw dla miłośników walentynkowych klimatów oraz kolekcjonerów poszukujących sezonowych edycji Friends. Zestaw pięknie komponuje się z innymi romantycznymi lub świątecznymi scenkami LEGO.
 
+**Galeria:**
+
+- 561602-1: https://a.allegroimg.com/original/1139e3/55f4feb84cac85eeebd312bf803a
+
 ---
 
-## 561611 — Lego Friends Minifigure Polybag Table for Gifts Wrapping #561611
+## 561611 — Gift Wrapping Table
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.99 zł · EAN: 00887866728404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561611 |
+| Nazwa angielska | Gift Wrapping Table |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887866728404 |
 
 **LEGO Friends polybag – Table for Gifts Wrapping #561611**
 
@@ -12007,11 +18627,27 @@ To idealny zestaw dla miłośników walentynkowych klimatów oraz kolekcjonerów
 
 Zestaw idealnie wpisuje się w atmosferę przygotowań do Świąt – świetnie sprawdzi się w zabawie tematycznej oraz jako uzupełnienie większych konstrukcji LEGO Friends. Dla kolekcjonerów to rzadki, sezonowy zestaw w edycji specjalnej.
 
+**Galeria:**
+
+- 561611-1: https://a.allegroimg.com/original/11eef5/89cdfd89426c8857675c8f397f15
+
 ---
 
-## 561612 — Lego Friends 561612 Świąteczny kominek saszetka z klockami
+## 561612 — Świąteczny kominek
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 21.99 zł · EAN: 05060976587269 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561612 |
+| Nazwa angielska | Christmas Fireplace |
+| Nazwa polska | Świąteczny kominek |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976587269 |
 
 Witam
 
@@ -12027,11 +18663,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 561612-1: https://a.allegroimg.com/original/110d1b/a93d35b543ca83ced15bf7d9c6cb
+
 ---
 
-## 561701 — Lego Friends 561701 Miś w lodowej jaskini saszetka z klockami
+## 561701 — Miś w lodowej jaskini
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 15.00 zł · EAN: 05060976588389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561701 |
+| Nazwa angielska | Bear in Ice Cave |
+| Nazwa polska | Miś w lodowej jaskini |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588389 |
 
 Witam
 
@@ -12047,11 +18699,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 561701-1: https://a.allegroimg.com/original/1155d3/2e2faa5e406ab4aa25146593c7db
+
 ---
 
-## 562009 — Lego Friends 562009 Andrea's Magic Show saszetka z klockami
+## 562009 — Magiczne Sztuczki Andrei
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 14.49 zł · EAN: 05702014733114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 562009 |
+| Nazwa angielska | Andrea's Magic Show |
+| Nazwa polska | Magiczne Sztuczki Andrei |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014733114 |
 
 Witam
 
@@ -12069,11 +18737,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 562009-1: https://a.allegroimg.com/original/11c03e/cb54717d4b2ba233f97383f06218
+
 ---
 
-## 562405 — Nowy Lego Friends zestaw 562405 obserwatorium
+## 562405 — obserwatorium
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 13.00 zł · EAN: 05702010928491 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 562405 |
+| Nazwa angielska | Observatory |
+| Nazwa polska | obserwatorium |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928491 |
 
 Cześć!
 
@@ -12089,11 +18773,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 562405-1: https://a.allegroimg.com/original/1109a7/bdade1a24a418e3cd46cecb80a1e
+
 ---
 
-## 6031683 — Lego 850597 Friends Torebka Walizeczka Nowa Unikat
+## 6031683 — Carry Case
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 179.99 zł · EAN: 00673419194914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6031683 |
+| Nazwa angielska | — |
+| Nazwa polska | Carry Case |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194914 |
 
 **...............................................LEGOLD...............................................................**
  
@@ -12107,11 +18806,27 @@ Pozdrawiam.
  
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 6031683-1: https://a.allegroimg.com/original/118929/f5fe8fa041758819774460e4ae93
+
 ---
 
-## 66539 — Lego Friends 66539 Heartlake Value Pack
+## 66539 — Heartlake Value Pack
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702015778985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 66539 |
+| Nazwa angielska | Friends Super Pack 3 in 1 |
+| Nazwa polska | Heartlake Value Pack |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 815 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015778985 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -12135,11 +18850,26 @@ Pozdrawiam.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 66539-1: https://a.allegroimg.com/original/1196ef/355ea25647bd8a21a9c6ad3c748f
+
 ---
 
-## 70168 — Klocki Lego Ultra Agents Zestaw Wiertnica Diamentów 70168
+## 70168 — Klocki LEGO Ultra Agents wiertnica L-70168
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702015354271 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70168 |
+| Nazwa angielska | Drillex Diamond Job |
+| Nazwa polska | Klocki LEGO Ultra Agents wiertnica L-70168 |
+| Seria | Friends |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015354271 |
 
 Klocki LEGO Ultra Agents Zestaw Wiertnica Diamentów 70168
 
@@ -12149,11 +18879,26 @@ nikaj strzałów z miotaczy i dwóch gigantycznych świdrów, ostrzeliwując si�
 
 W zestawie 2 minifigurki z wyborem broni i akcesoriami: Drillex i ultraagent Curtis Bolt .
 
+**Galeria:**
+
+- 70168-1: https://a.allegroimg.com/original/05ac56/25fda58e4a39b499086be47ca76c
+
 ---
 
-## 850596 — Lego Friends 850596 Mata Heartlake City
+## 850596 — Mata Heartlake City
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 49.77 zł · EAN: 00673419194907 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850596 |
+| Nazwa angielska | Heartlake City Playmat |
+| Nazwa polska | Mata Heartlake City |
+| Seria | Friends |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194907 |
 
 LEGO FRIENDS
 
@@ -12173,11 +18918,26 @@ Mata Lego Friends Heartlake City to świetny sposób na zorganizowanie swojej z
 
 Porozkładaj poszczególne budowle z serii Lego Friends w mieście Heartlake!
 
+**Galeria:**
+
+- 850596-1: https://a.allegroimg.com/original/111e45/dd3595bb4df9ab04cd74e08e6a8d
+
 ---
 
-## 850781 — Lego Friends Domek do Zabawy Pojemnik na klocki do złożenia Mata
+## 850781 — DOMEK
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 59.00 zł · EAN: 00673419198929 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850781 |
+| Nazwa angielska | Friends Carry Case House |
+| Nazwa polska | DOMEK |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198929 |
 
 LEGO® 850781 Domek do zabawy z serii LEGO Friends
 
@@ -12189,19 +18949,50 @@ Każda kartonowa płyta jest z kolorowymi wizerunkami
 
 Wymiary : 18 cm. wysokości, 18 cm. szerokości i 18 cm. długości.
 
+**Galeria:**
+
+- 850781-1: https://a.allegroimg.com/original/11a262/c1c7434549328ee5cf7ab69ee582
+
 ---
 
-## 850967 — Klocki Lego Friends Friends Namiot L-850967
+## 850967 — Namiot
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 109.99 zł · EAN: 00673419217972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850967 |
+| Nazwa angielska | Jungle Accessory Set |
+| Nazwa polska | Namiot |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419217972 |
 
 Zestaw klocków LEGO Friends Jungle Accessory Set 850967 został zaprezentowany w 2014 roku i zbudowany jest z 39 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia. Numer UPC klocków LEGO® 850967 to: **673419217972**
 
+**Galeria:**
+
+- 850967-1: https://a.allegroimg.com/original/11e2dc/7112727d4160950623ebb0a9b71c
+
 ---
 
-## 851325 — Lego 851325 Friends Mata do zabawy akcesorium do zabawy dla dzieci
+## 851325 — Jungle Playmat
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 79.99 zł · EAN: 00673419217729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851325 |
+| Nazwa angielska | Jungle Playmat |
+| Nazwa polska | Jungle Playmat |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419217729 |
 
 LEGO® Friends 851325 Dwustronna Mata do Zabawy
 
@@ -12230,11 +19021,27 @@ Specyfikacja techniczna:
 
 **Idealny pomysł na prezent!** Szukasz idealnego dopełnienia kolekcji LEGO Friends? Ta mata to strzał w dziesiątkę. Sprawi, że posiadane już domki, samochodziki i minilaleczki zyskają swoje stałe, realistyczne miejsce do życia i zabawy.
 
+**Galeria:**
+
+- 851325-1: https://a.allegroimg.com/original/11340b/b093bffc494ab32775e0e62df9cc
+
 ---
 
-## 851362 — Lego 851362 Friends Party Set
+## 851362 — FRIENDS
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 99.99 zł · EAN: 00673419239509 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851362 |
+| Nazwa angielska | Friends Party Set |
+| Nazwa polska | FRIENDS |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239509 |
 
 Lego 851362 FRIENDS Party Set
 
@@ -12248,11 +19055,27 @@ Lego 851362 FRIENDS Party Set
 
 - Wypraw przyjęcie LEGO® Friends, które na długo zapadnie w pamięć!
 
+**Galeria:**
+
+- 851362-1: https://a.allegroimg.com/original/11a617/f033fcef45fc896fd7f47e67d592
+
 ---
 
-## 853671 — Lego Friends 853671 Plansza Miasta Heartlake
+## 853671 — Plansza Miasta Heartlake
 
-*Kategoria: Friends · cena Allegro (2026-08-17): 99.99 zł · EAN: 00673419275507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853671 |
+| Nazwa angielska | Heartlake City Playmat |
+| Nazwa polska | Plansza Miasta Heartlake |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419275507 |
 
 Uniwersalna plansza pozwoli Ci przeżyć niezliczone przygody rozgrywające się w Heartlake. Połącz elementy planszy za pomocą klocków LEGO. Gotowi? Teraz możesz ustawić na niej wszystkie swoje modele z LEGO Friends! Elementy planszy są dwustronne, co oznacza, że możesz za każdym razem tworzyć nową scenerię. W zestawie znajdziesz dodatkowo mały model, który pomoże Ci rozpocząć budowanie.
 
@@ -12265,6 +19088,10 @@ Uniwersalna plansza pozwoli Ci przeżyć niezliczone przygody rozgrywające się
 - Doskonale łączy się z zestawem akcesoriów LEGO® Friends 40264 Zbuduj własne miasto Heartlake, pozwalając na jeszcze lepszą zabawę!
 
 - Każdy element planszy to kwadrat o boku ok. 25 cm.
+
+**Galeria:**
+
+- 853671-1: https://a.allegroimg.com/original/11403a/5a7dbeea47f0a3a2d3b64eef376d
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Nexo Knights — opisy produktowe (55 pozycji)
 
-## 30371 — Lego Nexo Knights 30371 Knight's Cycle saszetka klocki minifigurka
+## 30371 — Knight's Cycle
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 37.00 zł · EAN: 05702015598361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30371 |
+| Nazwa angielska | Knight's Cycle |
+| Nazwa polska | Knight's Cycle |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015598361 |
 
 Witam
 
@@ -41,11 +51,26 @@ Nr. Katalogowy: 30371
 
 Ilość klocków w zestawie: 38
 
+**Galeria:**
+
+- 30371-1: https://a.allegroimg.com/original/1160e8/a107eca04652b56d52f6ff06bebc
+
 ---
 
-## 30372 — Lego Nexo Knights 30372 lego 30372 nexo knights mini fortrex
+## 30372 — lego 30372 nexo knights mini fortrex
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702015608473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30372 |
+| Nazwa angielska | Robin's Mini Fortrex |
+| Nazwa polska | lego 30372 nexo knights mini fortrex |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608473 |
 
 KLOCKI LEGO NEXO KNIGHTS 30372
  
@@ -77,11 +102,26 @@ WIEK: 7-14
  
 ILOŚĆ ELEMENTÓW: 45
 
+**Galeria:**
+
+- 30372-1: https://4.allegroimg.com/original/014b92/2a85856745d582b319d0227ad774
+
 ---
 
-## 30373 — Klocki Lego Nexo Knights Knighton Hyper Cannon 30373
+## 30373 — Knighton Hyper Cannon Set
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 19.90 zł · EAN: 05702015608480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30373 |
+| Nazwa angielska | Knighton Hyper Cannon |
+| Nazwa polska | Knighton Hyper Cannon Set |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608480 |
 
 LEGO NEXO KNIGHTS
 
@@ -97,11 +137,26 @@ WIEK: **7+**
 
 Zestaw klocków LEGO Nexo Knights Knighton Hyper Cannon 30373 został przedstawiony w 2016 roku i składa się z 47 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Klocki przeznaczone są dla dzieci i młodzieży powyżej 7 roku życia.
 
+**Galeria:**
+
+- 30373-1: https://a.allegroimg.com/original/11e6f0/bd7246234acf8dfcf7897544a909
+
 ---
 
-## 30374 — Lego Nexo Knights Lawowa Katapulta 30374 Polybag
+## 30374 — Nexo Knights
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 34.75 zł · EAN: 05702015608497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30374 |
+| Nazwa angielska | The Lava Slinger |
+| Nazwa polska | Nexo Knights |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608497 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -115,11 +170,26 @@ Rok wydania:** 2016**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
+**Galeria:**
+
+- 30374-1: https://a.allegroimg.com/original/11f628/f288e38144d8a3886b0dea52c659
+
 ---
 
-## 30376 — Lego Nexo Knights 30376 Knighton Rider saszetka z klockami
+## 30376 — LEGO Nexo Knights Knighton Rider 30376
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 34.00 zł · EAN: 05702015876896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30376 |
+| Nazwa angielska | Knighton Rider |
+| Nazwa polska | LEGO Nexo Knights Knighton Rider 30376 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876896 |
 
 Witam
 
@@ -135,11 +205,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30376-1: https://a.allegroimg.com/original/1125a8/5a8d1e9241e1977271e399fbd0c6
+
 ---
 
-## 30378 — Lego Nexo Knights 30378 Kwatera Shrunken Head saszetka z klockami
+## 30378 — Kwatera Shrunken Head
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702015876919 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30378 |
+| Nazwa angielska | Shrunken Headquarters |
+| Nazwa polska | Kwatera Shrunken Head |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876919 |
 
 Witam
 
@@ -155,11 +240,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30378-1: https://a.allegroimg.com/original/11b965/21268f8c4f64b018357a3767d07e
+
 ---
 
-## 70310 — Lego Nexo Knights 70310 Pojazd bojowy Knighton Nowy Unikat
+## 70310 — Pojazd bojowy Knighton
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 89.89 zł · EAN: 05702015573719 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70310 |
+| Nazwa angielska | Knighton Battle Blaster |
+| Nazwa polska | Pojazd bojowy Knighton |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702015573719 |
 
 od polskiego dystrybutora
  
@@ -188,11 +288,26 @@ Nie pozwól, by wróg wdarł się do królestwa Knighton, gdzie mieszkają futur
 - Wymiary: ok. 7 cm wysokości, 14 cm długości i 8 cm szerokości. 
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70310-1: https://a.allegroimg.com/original/1119b9/14fea27645c68e35c097d997392c
+
 ---
 
-## 70311 — Lego Nexo Knights 70311 Katapulta Chaosu
+## 70311 — Katapulta Chaosu
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702015573726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70311 |
+| Nazwa angielska | Chaos Catapult |
+| Nazwa polska | Katapulta Chaosu |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 93 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702015573726, 673419244534 |
 
 LEGO 70311 NEXO KINGHTS KATAPULTA CHAOSU
 
@@ -220,11 +335,27 @@ Waga: 0,4 kg
 
 Ilość elementów: 93
 
+**Galeria:**
+
+- 70311-1: https://a.allegroimg.com/original/0015da/87d10a6e44388b3dee9536fbb755
+- 70311-2: https://a.allegroimg.com/original/11b298/38184aaf4b67a39556007e6775e1
+
 ---
 
-## 70312 — Lego Nexo Knights 70312 Mechaniczy koń Lance'a
+## 70312 — Mechaniczy koń Lance'a
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015573733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70312 |
+| Nazwa angielska | Lance's Mecha Horse |
+| Nazwa polska | Mechaniczy koń Lance'a |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 11 cm |
+| EAN | 5702015573733 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -256,11 +387,26 @@ Ilość elementów: 93
 - Zeskanuj 1 Moc NEXO (Promień przyciągający) i doładuj grę NEXO KNIGHTS™! 
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70312-1: https://a.allegroimg.com/original/06ed2f/db9190ba495382dbd98ff30c993a
+
 ---
 
-## 70313 — Lego Nexo Knights 70313 Lawowy rozłupywacz Moltora Nowe
+## 70313 — Lawowy rozłupywacz Moltora
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015573740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70313 |
+| Nazwa angielska | Moltor's Lava Smasher |
+| Nazwa polska | Lawowy rozłupywacz Moltora |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 15 cm |
+| EAN | 5702015573740 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -283,11 +429,26 @@ Lawowy rozłupywacz jest straszny, ale jednocześnie bardzo zabawny! Teraz pędz
 - Zeskanuj tarczę, aby uzyskać moc NEXO w postaci toczącej się kuli ognia i doładuj grę LEGO® NEXO KNIGHTS™!
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70313-1: https://a.allegroimg.com/original/116589/7973395b47a1ad0cf4b0f7e80455
+
 ---
 
-## 70314 — Lego Nexo Knights 70314 Rydwan Władcy Bestii
+## 70314 — Rydwan Władcy Bestii
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015573757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70314 |
+| Nazwa angielska | Beast Master's Chaos Chariot |
+| Nazwa polska | Rydwan Władcy Bestii |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 314 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702015573757 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -323,11 +484,26 @@ LEGO 70314 Rydwan Władcy Bestii
 
 **35 cm * 19 cm * 6 cm ***
 
+**Galeria:**
+
+- 70314-1: https://a.allegroimg.com/original/119d6c/1d94814b41f4a73adcb89e03d0cc
+
 ---
 
-## 70315 — Klocki Lego Nexo Knights Pojazd Claya 70315
+## 70315 — Pojazd Claya
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702015573764 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70315 |
+| Nazwa angielska | Clay's Rumble Blade |
+| Nazwa polska | Pojazd Claya |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 367 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702015573764 |
 
 Zestaw LEGO 70315 Pojazd Claya
 
@@ -349,11 +525,26 @@ Królestwo Knighton to dom bohaterskich rycerzy LEGO® NEXO KNIGHTS™, ale zło
 - Zeskanuj tarcze dla każdej z 3 mocy NEXO (Potężny piorun, Płomień feniksa i Atak śluzu), aby zyskać dodatkowe możliwości w grze LEGO® NEXO KNIGHTS™!
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70315-1: https://a.allegroimg.com/original/115301/ec5f083740f5a9f24a65c27a1131
+
 ---
 
-## 70316 — Lego 70316 Nexo Knights Pojazd Zła Jestro Nowe
+## 70316 — LEGO 70316 Nexo Knights - Pojazd Zła Jestro
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702015573870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70316 |
+| Nazwa angielska | Jestro's Evil Mobile |
+| Nazwa polska | LEGO 70316 Nexo Knights - Pojazd Zła Jestro |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 658 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 17 cm |
+| EAN | 5702015573870 |
 
 LEGO 70316 Nexo Knights - Pojazd Zła Jestro
 
@@ -397,11 +588,26 @@ Grupa wiekowa tego produktu to 8+.
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70316-1: https://a.allegroimg.com/original/11bf3b/223aea234757a294e7b9448bbf1d
+
 ---
 
-## 70317 — Lego Nexo Knights 70317 Fortrex
+## 70317 — Fortrex
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702015573887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70317 |
+| Nazwa angielska | The Fortrex |
+| Nazwa polska | Fortrex |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 21 cm |
+| EAN | 5702015573887 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -443,11 +649,26 @@ Grupa wiekowa tego produktu to 8+.
 - Zeskanuj tarcze dla każdej z 5 mocy NEXO (Moc ziemi, Nadludzka szybkość, Okrzyk jastrzębia, Mockurczakai Szarża), aby zyskać dodatkowe możliwości w grze LEGO® NEXO KNIGHTS™!
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70317-1: https://a.allegroimg.com/original/05f98a/4995f7894b9b976e1daf44eee4bc
+
 ---
 
-## 70319 — Lego 70319 Nexo Knights Gromowa Maczuga Macy
+## 70319 — MACZUGA
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702015592208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70319 |
+| Nazwa angielska | Macy's Thunder Mace |
+| Nazwa polska | MACZUGA |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm |
+| EAN | 5702015592208 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -481,11 +702,26 @@ Z tyłu Gromowej Maczugi znajdziesz rączkę. Gdy ją obrócisz, wysuną się 2 
 - Swoje ulubione postacie NEXO KNIGHTS znajdziesz na kanale Cartoon Network.
 - Wymiary Gromowej Maczugi: ok. 9 cm wysokości, 22 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 70319-1: https://a.allegroimg.com/original/11f8af/bc3229e241f58af103deac5209cf
+
 ---
 
-## 70320 — Lego Nexo Knights Myśliwiec V2 Aarona 70320
+## 70320 — myśliwiec
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702015573979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70320 |
+| Nazwa angielska | Aaron Fox's Aero-Striker V2 |
+| Nazwa polska | myśliwiec |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015573979 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -503,11 +739,26 @@ Z tyłu Gromowej Maczugi znajdziesz rączkę. Gdy ją obrócisz, wysuną się 2 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70320-1: https://a.allegroimg.com/original/054f30/c11be38143d58d1d733c2a1e7749
+
 ---
 
-## 70321 — Klocki Lego Nexo Knights Zestaw Machina Oblężnicza 70321
+## 70321 — Klocki LEGO Nexo Knights Zestaw MACHINA OBLĘŻNICZA 70321
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015592178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70321 |
+| Nazwa angielska | General Magmar's Siege Machine of Doom |
+| Nazwa polska | Klocki LEGO Nexo Knights Zestaw MACHINA OBLĘŻNICZA 70321 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 21 cm |
+| EAN | 5702015592178 |
 
 LEGO 70321 Machina oblężnicza generała Magmara
 
@@ -527,11 +778,26 @@ Machina oblężnicza Generała Magmara to model typu „2 w 1”. Ma 2 platformy
 - Wymiary machiny oblężniczej Generała Magmara: ok. 14 cm wysokości, 17 cm długości i 21 cm szerokości w trybie pojazdu oraz ok. 24 cm wysokości, 17 cm długości i 21 cm szerokości po przekształceniu w wieżę oblężniczą.
 - Odrzutowy wierzchowiec ma ok. 4 cm wysokości, 9 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 70321-1: https://a.allegroimg.com/original/052d8f/7caffc814538bf5b12757cf8dba7
+
 ---
 
-## 70322 — Lego Nexo Knights 70322 Pojazd Axla
+## 70322 — ZESTAW LEGO KLOCKI NEXO KNIGHTS 70322 POJAZD AXLA
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 426.89 zł · EAN: 05702015591560 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70322 |
+| Nazwa angielska | Axl's Tower Carrier |
+| Nazwa polska | ZESTAW LEGO KLOCKI NEXO KNIGHTS 70322 POJAZD AXLA |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 670 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 16 cm |
+| EAN | 5702015591560 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -574,11 +840,26 @@ Sięgnij po ruchomą figurkę Burnziego i odegraj scenę bitwy między nim a tra
 
 Zestaw LEGO Nexo Knights - Pojazd Axla trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 70322. Zawiera 670 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Nexo Knights - Axl's Tower Carrier. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 70322-1: https://a.allegroimg.com/original/11b742/9b4f2be64ee1a03eaf1844654f58
+
 ---
 
-## 70324 — Lego Nexo Knights 70324 Biblioteka Merlok's 2.0 Lance Ava Unikat
+## 70324 — BIBILIOTEKA MERLOKA
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 399.50 zł · EAN: 05702015591546 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70324 |
+| Nazwa angielska | Merlok's Library 2.0 |
+| Nazwa polska | BIBILIOTEKA MERLOKA |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 288 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 20 cm × gł. 12 cm |
+| EAN | 5702015591546 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -604,11 +885,26 @@ Rycerze odnaleźli księgę zemsty. Księga magicznych zaklęć musi trafić do 
 
 Zdjęcia i opis są własnością LEGO i zostały użyte jedynie w celach informacyjnych.
 
+**Galeria:**
+
+- 70324-1: https://a.allegroimg.com/original/118c47/49d3966646f294be2a5fa680ae64
+
 ---
 
-## 70325 — Lego Nexo Knights 70325 Schwytanie Królowej
+## 70325 — SCHWYTANIE KRÓLOWEJ
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 439.00 zł · EAN: 05702015591539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70325 |
+| Nazwa angielska | Infernox Captures The Queen |
+| Nazwa polska | SCHWYTANIE KRÓLOWEJ |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015591539 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -646,11 +942,26 @@ Zdjęcia i opis są własnością LEGO i zostały użyte jedynie w celach inform
 - **Pobierz darmową aplikację LEGO® NEXO KNIGHTS™: MERLOK 2.0 na smartfon lub tablet. Nie zapomnij spytać rodziców o zgodę.** 
 - **Zeskanuj tarcze dla każdej z 2 mocy NEXO (Lawowy smok i Dziura czasoprzestrzenna), aby zyskać dodatkowe możliwości w grze LEGO® NEXO KNIGHTS™!**
 
+**Galeria:**
+
+- 70325-1: https://a.allegroimg.com/original/110c83/44c638d440e6ab57c07ef89fd837
+
 ---
 
-## 70327 — Nowe Klocki Lego 70327 Nexo Knights Królewski Mech
+## 70327 — LEGO NEXO KNIGHTS
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702015642903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70327 |
+| Nazwa angielska | The King's Mech |
+| Nazwa polska | LEGO NEXO KNIGHTS |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591553, 5702015642903 |
 
 Witaj na aukcji.
 
@@ -690,11 +1001,27 @@ Wymiary Opakowania: 14 x 12 x 4 cm
 
 Produkt który kupujesz na przedmiotowej aukcji jest fabrycznie nowy, oryginalnie zapakowany, z polskimi oznaczeniami na opakowaniu. Kupując u nas masz pewność że zawsze dostaniesz przedmiot zgodny z opisem.
 
+**Galeria:**
+
+- 70327-1: https://a.allegroimg.com/original/11e443/a73e8c7a4827854f57b8ad26ff0b
+- 70327-2: https://4.allegroimg.com/original/039dab/5d8d0b2740f2baeba4aa5935cdb4
+
 ---
 
-## 70330 — Klocki Lego 70330 Nexo Knights Technorycerz Clay
+## 70330 — 70330
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702015594394 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70330 |
+| Nazwa angielska | Ultimate Clay |
+| Nazwa polska | 70330 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594394 |
 
 KLOCKI LEGO NEXO KNIGHTS
 
@@ -726,11 +1053,26 @@ Zeskanuj 3 moce NEXO: Tornado mieczy, Lawowy smok i Pole siłowe.
 
 **Ilość elementów:** 72
 
+**Galeria:**
+
+- 70330-1: https://a.allegroimg.com/original/1188be/82b667a749c8b987b3e902336f2c
+
 ---
 
-## 70331 — Lego Nexo Knights 70331 Ultimate Macy
+## 70331 — Ultimate Macy
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702015594400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70331 |
+| Nazwa angielska | Ultimate Macy |
+| Nazwa polska | Ultimate Macy |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594400 |
 
 Lego Nexo Knights Macy 70331.
  
@@ -753,11 +1095,26 @@ Nr. Katalogowy: 70331
  
 Ilość klocków w zestawie: 101
 
+**Galeria:**
+
+- 70331-1: https://a.allegroimg.com/original/01c6a8/46aab2cc405b9ce9966fb8ea699e
+
 ---
 
-## 70333 — Lego Nexo Knights 70333 Robin Nowy!
+## 70333 — Robin
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015594424 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70333 |
+| Nazwa angielska | Ultimate Robin |
+| Nazwa polska | Robin |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594424 |
 
 LEGO NEXO KNIGHTS
 
@@ -776,11 +1133,26 @@ W zestawach LEGO® NEXO KNIGHTS™ Ultimate znajdziesz całkowicie nowe, gotowe 
 
 **24 cm * 14 cm * 5 cm ***
 
+**Galeria:**
+
+- 70333-1: https://a.allegroimg.com/original/114b33/a82c561b4e5ca212e56677b25655
+
 ---
 
-## 70334 — Lego Nexo Knights 70334 Władca Bestii
+## 70334 — Władca Bestii
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 120.00 zł · EAN: 05702015594431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70334 |
+| Nazwa angielska | Ultimate Beast Master |
+| Nazwa polska | Władca Bestii |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594431, 673419249270 |
 
 Niepokonany Władca Bestii ma może wybuchowy charakter, ale tym razem ma dynamit w rękach! Zakręć szalonymi Globlinami na łańcuchach albo pokonaj wrogów, ciskając w nich laskami dynamitu. Wyssij energię swoich wrogów, by ich ostatecznie unicestwić! Podnieś swoją wartość bojową, skanując tarcze 3 mocy NEXO. Zbierz jak najwięcej unikalnych zdolności w postaci cyfrowej, aby przechytrzyć przeciwników w darmowej aplikacji LEGO® NEXO KNIGHTS™: MERLOK 2.0. Zeskanuj 3 moce NEXO: Atak globlinów, Duchowy wir i Dynamoc.
 
@@ -803,11 +1175,27 @@ Nr. Katalogowy: 70334
  
 Ilość klocków w zestawie: 65
 
+**Galeria:**
+
+- 70334-1: https://a.allegroimg.com/original/05dd32/1a6ee39941d58a99297e82014ce9
+- 70334-2: https://a.allegroimg.com/original/118123/176e0e494811b46920ea861d8dec
+
 ---
 
-## 70335 — Lego Nexo Knights 70335 Ultimate Lavaria
+## 70335 — ULTIMATE LAVARIA
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015594448 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70335 |
+| Nazwa angielska | Ultimate Lavaria |
+| Nazwa polska | ULTIMATE LAVARIA |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594448 |
 
 A któż to przemyka od cienia do cienia? Ma skrzydła i przerażające pajęcze nogi... Ach, to Niepokonana Lavaria tropi ofiarę. Skocz na głowy swoich wrogów a potem oddaj salwę ognistych kul z kuszy na klocki. Niedobitki załatwisz, wysyłając do walki jadowite węże. Podnieś swoją wartość bojową, skanując tarcze 3 mocy NEXO. Zbierz jak najwięcej unikalnych zdolności w postaci cyfrowej, aby przechytrzyć wrogów w darmowej aplikacji LEGO® NEXO KNIGHTS™: MERLOK 2.0. Zeskanuj 3 moce NEXO: Żukowa bomba, Spalenie i Jadowite ukąszenie.
 
@@ -828,11 +1216,26 @@ Nr. Katalogowy: 70335
  
 Ilość klocków w zestawie: 69
 
+**Galeria:**
+
+- 70335-1: https://a.allegroimg.com/original/251638/6753ed12426c9f546bb6a2d5ba88
+
 ---
 
-## 70336 — Lego Nexo Knights 70336 Nexo Nowy
+## 70336 — NEXO
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702015594455 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70336 |
+| Nazwa angielska | Ultimate Axl |
+| Nazwa polska | NEXO |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594455 |
 
 Klocki LEGO Nexo Knights 70336 - Axl
  
@@ -851,11 +1254,26 @@ W zestawach LEGO® NEXO KNIGHTS™ Ultimate znajdziesz całkowicie gotowe do akc
 - Zbierz wszystkie zestawy LEGO® NEXO KNIGHTS™ Ultimate, a potem połącz je w niesamowitą kolekcję najlepszego sprzętu bojowego. 
 - Swoje ulubione odcinki NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 
+**Galeria:**
+
+- 70336-1: https://a.allegroimg.com/original/05f5d3/749450ce4ea3ba051a26dce245f2
+
 ---
 
-## 70337 — Lego 70337 Nexo Lance
+## 70337 — NEXO
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702015594462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70337 |
+| Nazwa angielska | Ultimate Lance |
+| Nazwa polska | NEXO |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594462 |
 
 **LEGO NEXO KNIGHTS 70337**
  
@@ -882,11 +1300,26 @@ W zestawach LEGO® NEXO KNIGHTS™ Ultimate znajdziesz całkowicie gotowe do akc
  
 **24 cm * 14 cm * 5 cm ***
 
+**Galeria:**
+
+- 70337-1: https://c.allegroimg.com/original/003c2f/b7fd85dd4036a84d204e96e4340c
+
 ---
 
-## 70338 — Lego 70338 Nexo Generał Magmar
+## 70338 — LEGO ZESTAW NEXO KNIGHTS
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015594479 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70338 |
+| Nazwa angielska | Ultimate General Magmar |
+| Nazwa polska | LEGO ZESTAW NEXO KNIGHTS |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594479 |
 
 **LEGO NEXO KNIGHTS 70338**
  
@@ -913,11 +1346,26 @@ W zestawach LEGO® NEXO KNIGHTS™ Ultimate znajdziesz niesamowite minifigurki w
  
 **24 cm * 14 cm * 5 cm ***
 
+**Galeria:**
+
+- 70338-1: https://a.allegroimg.com/original/11272c/c4a03c864cf685b55d5b725cfac5
+
 ---
 
-## 70339 — Lego 70339 Nexo Flama
+## 70339 — NEXO
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015594486 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70339 |
+| Nazwa angielska | Ultimate Flama |
+| Nazwa polska | NEXO |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594486 |
 
 **LEGO NEXO KNIGHTS 70339**
  
@@ -945,11 +1393,26 @@ W zestawach LEGO® NEXO KNIGHTS™ Ultimate znajdziesz gotowe do akcji minifigur
  
 **24 cm * 14 cm * 5 cm ***
 
+**Galeria:**
+
+- 70339-1: https://a.allegroimg.com/original/11dd3b/5327f2b140e49f8185543b930249
+
 ---
 
-## 70347 — Lego Nexo Knights 70347 Lego 70347 Nexo Knights Artyleria Straży Królewski
+## 70347 — LEGO 70347 NEXO KNIGHTS ARTYLERIA STRAŻY KRÓLEWSKI
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702015866774 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70347 |
+| Nazwa angielska | King's Guard Artillery |
+| Nazwa polska | LEGO 70347 NEXO KNIGHTS ARTYLERIA STRAŻY KRÓLEWSKI |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866774 |
 
 KLOCKI LEGO NEXO KNIGHTS ARTYLERIA KRÓLEWSKIEJ STRAŻY 70347
 
@@ -984,11 +1447,26 @@ Wytocz działo artylerii królewskiej straży, wyceluj i przygotuj się do ataku
 - **Ilość elementów:** 98
 - **Certyfikaty, opinie, atesty:** CE
 
+**Galeria:**
+
+- 70347-1: https://1.allegroimg.com/original/0030d1/73b84fcd46a381edf405aba47d81
+
 ---
 
-## 70348 — Lego 70348 Nexo Knights Bojowy pojazd Lance'a Nowy Unikat
+## 70348 — Bojowy pojazd Lance'a
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702015866798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70348 |
+| Nazwa angielska | Lance's Twin Jouster |
+| Nazwa polska | Bojowy pojazd Lance'a |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702015866798 |
 
 LEGO® 70348 Nexo Knights - Bojowy pojazd Lance'a
 
@@ -1028,11 +1506,26 @@ W modelu znajdziesz też 3 minifigurki.
  
 Nazwa zestawu w języku angielskim LEGO Nexo Knights - Lance's Twin Jouster.
 
+**Galeria:**
+
+- 70348-1: https://c.allegroimg.com/original/00b8bf/77444e0e436d97553f3ab0732b1c
+
 ---
 
-## 70349 — Lego Nexo Knights 70349 Miażdżący pojazd Ruiny
+## 70349 — Miażdżący pojazd Ruiny
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 334.88 zł · EAN: 05702015866866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70349 |
+| Nazwa angielska | Ruina's Lock & Roller |
+| Nazwa polska | Miażdżący pojazd Ruiny |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm |
+| EAN | 5702015866866 |
 
 Klocki LEGO Nexo Knights 70349 - Miażdżący pojazd Ruiny
 
@@ -1052,11 +1545,26 @@ Królowa wpadła w łapska podstępnej Ruiny! Pomóż Aaronowi uratować królow
 
 Zestaw LEGO Nexo Knights - Miażdżący pojazd Ruiny trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 70349. Zawiera 208 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Nexo Knights - Ruina's Lock & Roller. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 70349-1: https://0.allegroimg.com/original/008e56/01371727443fa1e5f903c216c860
+
 ---
 
-## 70350 — Klocki Lego Nexo Knights Pojazd trzech braci 70350
+## 70350 — LEGO Nexo Knights Pojazd trzech braci
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 539.99 zł · EAN: 05702015867177 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70350 |
+| Nazwa angielska | The Three Brothers |
+| Nazwa polska | LEGO Nexo Knights Pojazd trzech braci |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 266 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 17 cm |
+| EAN | 5702015867177 |
 
 Klocki LEGO® 70350 Trzej bracia
 
@@ -1076,11 +1584,26 @@ Ten zestaw LEGO® NEXO KNIGHTS™ da Ci inspirację do rozgrywania niekończący
 - Swoje ulubione postacie NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 - Wymiary ok. 11 cm wysokości, 22 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 70350-1: https://a.allegroimg.com/original/116993/b2ecdd13449a80b0ea54fd5ef9db
+
 ---
 
-## 70351 — Lego 70351 Nexo Blasterowy myśliwiec Clay'a
+## 70351 — Blasterowy myśliwiec Clay'a
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015867184 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70351 |
+| Nazwa angielska | Clay's Falcon Fighter Blaster |
+| Nazwa polska | Blasterowy myśliwiec Clay'a |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 523 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 32 cm |
+| EAN | 5702015867184 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1122,11 +1645,26 @@ Wznieś się w powietrze na pokładzie Blasterowego myśliwca Claya i pokonaj ka
 
 **38 cm * 26 cm * 7 cm ***
 
+**Galeria:**
+
+- 70351-1: https://a.allegroimg.com/original/00dbdf/b549a69645fda1786a82c20ea059
+
 ---
 
-## 70352 — Lego Nexo Knights Ekstremalny niszczyciel Jestro 70352
+## 70352 — JESTRO
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015867191 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70352 |
+| Nazwa angielska | Jestro's Headquarters |
+| Nazwa polska | JESTRO |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 840 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867191 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1145,11 +1683,26 @@ Wznieś się w powietrze na pokładzie Blasterowego myśliwca Claya i pokonaj ka
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 70352-1: https://a.allegroimg.com/original/051f6e/45b8ef6040a68f3b1c0b9ac444df
+
 ---
 
-## 70353 — Lego Nexo Knights 70353 Heligulec Nowe
+## 70353 — HELIGULEC
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702015867207 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70353 |
+| Nazwa angielska | The Heligoyle |
+| Nazwa polska | HELIGULEC |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 318 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 22 cm |
+| EAN | 5702015867207 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1174,11 +1727,26 @@ Ruszaj w przestworza, by stoczyć niezwykłą walkę LEGO® NEXO KNIGHTS™ z ru
 - Swoje ulubione postacie NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 - Heligulec ma ok. 20 cm wysokości, 25 cm długości i 22 cm szerokości.
 
+**Galeria:**
+
+- 70353-1: https://a.allegroimg.com/original/116e52/6bbf88c14bd99496d7d067ce734a
+
 ---
 
-## 70354 — Klocki Lego Nexo Knights Zestaw Twórca Rumble Axla 70354
+## 70354 — LEGO Nexo Knights Twórca Rumble Axla 70354
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702015867214 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70354 |
+| Nazwa angielska | Axl's Rumble Maker |
+| Nazwa polska | LEGO Nexo Knights Twórca Rumble Axla 70354 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867214 |
 
 **Klocki LEGO Nexo Knights Rozbijacz Axla 70354**
 
@@ -1186,11 +1754,26 @@ Wygoń Rogula z Knighton za pomocą trójzadaniowego grzmiącego pojazdu! Przesu
 
 W zestawie trzy tarcze mocy NEXO do zeskanowania: moce Niszczycielska Nuta i Skalne Tornado oraz Zakazana moc Niszczycielski Gniew. Tak wiele zabawy w jednym zestawie! W zestawie znajdują się trzy minifigurki: Axl, Axlbot i Rogul oraz figurka Brickstera. Broń zawarta w zestawie to: topór Axla, topór Axlbota i piorunowy miecz Rogula. Ponadto pojazd ma dwa obracające się wiertła bojowe, rozkładane skrzydła, odczepiany czołg z gąsienicami dla Axlbota, dwa kokpity na minifigurki, uchwyt na tarczę oraz uchwyt na broń.
 
+**Galeria:**
+
+- 70354-1: https://a.allegroimg.com/original/059a76/9b7cbaa94b989b21017b55c180b8
+
 ---
 
-## 70356 — Lego Nexo Knights 70356 The Stone Colossus of Ultimate Destruction
+## 70356 — The Stone Colossus of Ultimate Destruction
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702015867771 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70356 |
+| Nazwa angielska | The Stone Colossus of Ultimate Destruction |
+| Nazwa polska | The Stone Colossus of Ultimate Destruction |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 785 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867771 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1229,11 +1812,26 @@ Zdobądź się na odwagę i pomóż bohaterom serii LEGO NEXO KNIGHTS — Macy i
 - Kamienny Kolos ma ok. 32 cm wysokości.
 - Tarczowy szybowiec ma ok. 7 cm długości, 6 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 70356-1: https://a.allegroimg.com/original/00bfac/e0d3cf9a43f7b50a351c40f81766
+
 ---
 
-## 70357 — Klocki Lego Nexo Knights Zestaw Zamek w Knighton 70357
+## 70357 — LEGO NEXO KNIGHTS Zamek Knighton 70357
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702015867788 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70357 |
+| Nazwa angielska | Knighton Castle |
+| Nazwa polska | LEGO NEXO KNIGHTS Zamek Knighton 70357 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 40 cm × gł. 23 cm |
+| EAN | 5702015867788 |
 
 LEGO ZESTAW NEXO KNIGHTS 70357 ZAMEK KNIGHTON
 
@@ -1247,11 +1845,26 @@ osiem minifigurek: Król Halberd, królewski giermkobot, królewski strażnik, R
 
 Zamek Knighton ma ok. 38 cm wysokości, 40 cm szerokości i 23 cm głębokości po zamknięciu oraz 45 cm szerokości i 28 cm głębokości po otworzeniu.
 
+**Galeria:**
+
+- 70357-1: https://c.allegroimg.com/original/00e26d/63615805410ba3b025df0a81b1ac
+
 ---
 
-## 70359 — Klocki Lego Nexo Knights Zestaw Lance kontra Błyskawica 70359
+## 70359 — 70359
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702015867801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70359 |
+| Nazwa angielska | Lance vs. Lightning |
+| Nazwa polska | 70359 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867801 |
 
 LEGO Lance kontra Błyskawica 70359
 
@@ -1271,11 +1884,26 @@ W zestawie broń: lanca Lance’a, dwa piorunowe trójzęby Grimroca oraz trójz
 
 W zestawie są też dwa uchwyty na tarcze.
 
+**Galeria:**
+
+- 70359-1: https://a.allegroimg.com/original/00ee38/9c96c000417ea9e12237e8c301f9
+
 ---
 
-## 70361 — Lego Nexo Knights Spadający smok Macybota 70361
+## 70361 — Spadający smok Macybota
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015867818 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70361 |
+| Nazwa angielska | Macy's Bot Drop Dragon |
+| Nazwa polska | Spadający smok Macybota |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm |
+| EAN | 5702015867818 |
 
 LEGO NEXO KINIGHTS
 
@@ -1300,11 +1928,26 @@ Urządź pojedynek między kamienną machiną a Macy w spadającym smoku do zbud
 - połącz smoka z dowolną zbroją LEGO® NEXO KNIGHTS™ i stwórz niepokonany zestaw bojowy
 - smok ma ok. 9 cm wysokości, 18 cm długości i 14 cm szerokości
 
+**Galeria:**
+
+- 70361-1: https://a.allegroimg.com/original/11566e/29662e414453b43c1721143e7e2e
+
 ---
 
-## 70362 — Lego Nexo Knights 70362 Zbroja Claya
+## 70362 — Zbroja Claya
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702015867825 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70362 |
+| Nazwa angielska | Battle Suit Clay |
+| Nazwa polska | Zbroja Claya |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867825 |
 
 LEGO Nexo Knights 70362 - Zbroja Claya
  
@@ -1322,11 +1965,26 @@ Sięgnij po zestaw LEGO NEXO KNIGHTS Zbroja Claya, który podniesie Twoje zdolno
 - Swoje ulubione odcinki NEXO KNIGHTS znajdziesz na kanale Cartoon Network. 
 - Wysokość ok. 9 cm.
 
+**Galeria:**
+
+- 70362-1: https://a.allegroimg.com/original/05abb4/238fd8ca4c20b4961a8ea0736c19
+
 ---
 
-## 70363 — Lego Nexo Knights 70363 Zbroja Macy
+## 70363 — Zbroja Macy
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702015867832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70363 |
+| Nazwa angielska | Battle Suit Macy |
+| Nazwa polska | Zbroja Macy |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867832 |
 
 LEGO NEXO KNIGHTS 70363 ZBROJA MACY
  
@@ -1346,11 +2004,26 @@ Sięgnij po zestaw LEGO® NEXO KNIGHTS™ Zbroja Macy, który zmieni dzielną wo
 - Swoje ulubione postacie NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network. 
 - Wysokość ok. 9 cm.
 
+**Galeria:**
+
+- 70363-1: https://a.allegroimg.com/original/11c6b6/ad2b9186463d85dbd5bb3120c290
+
 ---
 
-## 70364 — Lego Nexo Knights 70364 Zbroja Aarona
+## 70364 — Zbroja Aarona
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015867849 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70364 |
+| Nazwa angielska | Battle Suit Aaron |
+| Nazwa polska | Zbroja Aarona |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867849 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1384,11 +2057,26 @@ Sięgnij po zestaw LEGO® NEXO KNIGHTS™ Zbroja Aarona, by stać się jeszcze 
 - Swoje ulubione postacie NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network.
 - Wysokość ok. 9 cm.
 
+**Galeria:**
+
+- 70364-1: https://a.allegroimg.com/original/116ab3/537646c945e7baa646fa3884de17
+
 ---
 
-## 70365 — Klocki Lego Nexo Knights Zbroja Axla 70365
+## 70365 — ZBROJA
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015867856 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70365 |
+| Nazwa angielska | Battle Suit Axl |
+| Nazwa polska | ZBROJA |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867856 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1427,11 +2115,26 @@ Sięgnij po zestaw LEGO® NEXO KNIGHTS™ Zbroja Axla, która da rycerzowi sił�
 - Swoje ulubione postacie NEXO KNIGHTS™ znajdziesz na kanale Cartoon Network. 
 - Wysokość ok. 9 cm.
 
+**Galeria:**
+
+- 70365-1: https://a.allegroimg.com/original/1118a1/88b198cd4bbea3f292952c615601
+
 ---
 
-## 70372 — Lego Nexo Knights 70372 Combo Moce Nexo fala 1
+## 70372 — LEGO 70372 - Combo Moce NEXO - fala 1
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 18.97 zł · EAN: 05702015868747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70372 |
+| Nazwa angielska | Combo NEXO Powers Wave 1 |
+| Nazwa polska | LEGO 70372 - Combo Moce NEXO - fala 1 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868747 |
 
 Klocki LEGO Nexo Knights 70372 - Combo Moce NEXO - fala 1
 
@@ -1479,11 +2182,26 @@ LEGO® 70372 Nexo Knights - Combo Moce NEXO - fala 1
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych wcześniej w cm).**
 
+**Galeria:**
+
+- 70372-1: https://a.allegroimg.com/original/11ff28/237d37b74b52ba91d0f9782e42df
+
 ---
 
-## 70373 — Lego Nexo Knights 70373 Combo Moce Nexo fala 2
+## 70373 — LEGO 70373 - Combo Moce NEXO - fala 2
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 19.97 zł · EAN: 05702015868754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70373 |
+| Nazwa angielska | Combo NEXO Powers Wave 2 |
+| Nazwa polska | LEGO 70373 - Combo Moce NEXO - fala 2 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868754 |
 
 Klocki LEGO Nexo Knights 70373 - Combo Moce NEXO - fala 2
 
@@ -1528,11 +2246,26 @@ LEGO® 70373 Nexo Knights - Combo Moce NEXO - fala 2
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych wcześniej w cm).**
 
+**Galeria:**
+
+- 70373-1: https://a.allegroimg.com/original/11c46a/e5b3d03d44c29f9028442e9b9399
+
 ---
 
-## 72001 — Klocki Lego Nexo Knights Bojowy poduszkowiec Lance'a 217 elementów od 7 lat
+## 72001 — Klocki LEGO Nexo Knights Bojowy poduszkowiec Lance'a 72001
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702016096798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72001 |
+| Nazwa angielska | Lance's Hover Jouster |
+| Nazwa polska | Klocki LEGO Nexo Knights Bojowy poduszkowiec Lance'a 72001 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016096798 |
 
 LEGO NEXO KNIGHTS BOJOWY PODUSZKOWIEC LANCE'A 72001
 
@@ -1558,11 +2291,26 @@ Przygotuj się do pojedynku z Cezarem i jego złym giermkobotem — Dennisem Cyb
 - **Typ:** Waga jednostkowa brutto 
 - **Konstrukcyjne:** 0,3 kg
 
+**Galeria:**
+
+- 72001-1: https://a.allegroimg.com/original/00b493/38c81a864299b03fa06007132243
+
 ---
 
-## 72002 — Lego Nexo Knights 72002 Podwójny infektor
+## 72002 — LEGO Nexo Knights 72002 - Podwójny infektor
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 425.97 zł · EAN: 05702016093780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72002 |
+| Nazwa angielska | Twinfector |
+| Nazwa polska | LEGO Nexo Knights 72002 - Podwójny infektor |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 13 cm |
+| EAN | 5702016093780 |
 
 LEGO Nexo Knights 72002 - Podwójny infektor
 
@@ -1621,11 +2369,26 @@ LEGO® 72002 Nexo Knights - Podwójny infektor
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 72002-1: https://a.allegroimg.com/original/11cdfc/65e82b034c1286e536b6bb52a24e
+
 ---
 
-## 72003 — Lego Nexo Knights 72003 Bombowiec Berserkera Nowe
+## 72003 — Klocki LEGO Nexo Knights Bombowiec Berserkera 72003
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 758.00 zł · EAN: 05702016093797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72003 |
+| Nazwa angielska | Berserker Bomber |
+| Nazwa polska | Klocki LEGO Nexo Knights Bombowiec Berserkera 72003 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 369 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016093797 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1650,11 +2413,26 @@ Przygotuj się na podniebną akcję z Bombowcem Berserkera. Samolot ma odczepian
 - Zbierz siedem mocy Merloka, które pomogą Ci powstrzymać cyfrową infekcję roznoszoną przez Monstroxa i jego armię w Knighton. 
 - Ten popularny zestaw jest odpowiedni dla dzieci w wieku 8–14 lat.
 
+**Galeria:**
+
+- 72003-1: https://a.allegroimg.com/original/111e77/0c54a74344119ca73bc6f1f17e23
+
 ---
 
-## 72004 — Lego Nexo Knights 72004 Starcie technologicznych czarodziejów
+## 72004 — LEGO Nexo Knights 72004 - Starcie technologicznych czarodziejów
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 699.97 zł · EAN: 05702016093872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72004 |
+| Nazwa angielska | Tech Wizard Showdown |
+| Nazwa polska | LEGO Nexo Knights 72004 - Starcie technologicznych czarodziejów |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 506 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702016093872 |
 
 LEGO Nexo Knights 72004 - Starcie technologicznych czarodziejów
 
@@ -1701,11 +2479,26 @@ LEGO® 72004 Nexo Knights - Starcie technologicznych czarodziejów
 
 **Z przodu pod numerem biała metka.**
 
+**Galeria:**
+
+- 72004-1: https://a.allegroimg.com/original/1105e7/73cece0e4027831f946867219981
+
 ---
 
-## 72005 — Lego Nexo Knights 72005 Klocki Lego Nexo Knights 'X-bow Aarona 72005
+## 72005 — Klocki LEGO Nexo Knights 'X-bow Aarona 72005
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016093889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72005 |
+| Nazwa angielska | Aaron's X-bow |
+| Nazwa polska | Klocki LEGO Nexo Knights 'X-bow Aarona 72005 |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 41 cm |
+| EAN | 5702016093889 |
 
 **Zaatakuj Vanbajtera nr 307 i Cyberbajtera X-bowem Aarona z obrotowymi ostrzami, kuszą i dwoma wystrzeliwanymi rakietami. Użyj funkcji X-bowa i zrzuć ścigacz Robina z dwoma miotaczami klocków, a potem zabierz go z powrotem na pokład i ucieknij szybko z pola walki. Ten fajny zestaw dla dzieci zawiera trzy minifigurki, figurkę Cyberbajtera i trzy tarcze do zeskanowania.**
  
@@ -1724,11 +2517,26 @@ LEGO® 72004 Nexo Knights - Starcie technologicznych czarodziejów
 - **Rycerski ścigacz Robina ma ok. 5 cm wysokości, 15 cm długości i 5 cm szerokości.** 
 - **Potworny lotnik ma ok. 5 cm wysokości, 3 cm długości i 10 cm szerokości.**
 
+**Galeria:**
+
+- 72005-1: https://a.allegroimg.com/original/05b0c0/9dcac6d04b8196bd950cb5b510b3
+
 ---
 
-## 72006 — Lego Nexo Knights 72006 Arsenał Axla
+## 72006 — LEGO 72006 - Arsenał Axla
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 699.97 zł · EAN: 05702016093896 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72006 |
+| Nazwa angielska | Axl's Rolling Arsenal |
+| Nazwa polska | LEGO 72006 - Arsenał Axla |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 604 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 22 cm × gł. 19 cm |
+| EAN | 5702016093896 |
 
 Klocki LEGO Nexo Knights 72006 - Arsenał Axla
 
@@ -1796,11 +2604,26 @@ LEGO® 72006 Nexo Knights - Arsenał Axla
 
 **Zdjęcia przedstawiają poglądowo pudełko z klockami, pochodzą z wcześniej sprzedanego. Aktualne BEZ śladów długoletniego przechowywania -prosto z fabrycznego kartonu zbiorczego.**
 
+**Galeria:**
+
+- 72006-1: https://a.allegroimg.com/original/115dae/39cb5ede47b1b8290d5926de89f9
+
 ---
 
-## 769088 — Lego Speed Champions 76908 Lamborghini Countach Święta Narodzenie
+## 769088 — LEGO 76908 Lamborghini Countach auto laborgini samochód wyścigówka
 
-*Kategoria: Pozostałe serie > Nexo Knights · cena Allegro (2026-08-17): 167.90 zł · EAN: 05702016694147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 769088 |
+| Nazwa angielska | — |
+| Nazwa polska | LEGO 76908 Lamborghini Countach auto laborgini samochód wyścigówka |
+| Seria | Pozostałe serie > Nexo Knights |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | — |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016694147 |
 
 Nowe LEGO 76908 Lamborghini Couuntach
 
@@ -1832,6 +2655,10 @@ Podaruj radość z konstrukcji i pasję do samochodów tym, których kochasz. LE
 - Zawartość opakowania — zestaw konstrukcyjny z zabawkowym autem zawiera wszystko, co jest potrzebne do zbudowania białego modelu Lamborghini Countach. W komplecie jest też kierowca Lamborghini z kaskiem, włosami i kluczem
 - Do zebrania, zabawy i ustawienia na półce — zbuduj własny samochód Lamborghini Countach, pokaż go znajomym lub wspólnie urządźcie wyścig różnych pojazdów z serii Speed Champions
 - Prezent na każdą okazję — 262-częściowy zestaw LEGO® Speed Champions Lamborghini Countach (76908) świetnie sprawdzi się jako prezent na urodziny lub z innej okazji dla dzieci i wielbicieli samochodów w wieku od 8 lat
+
+**Galeria:**
+
+- 769088-1: https://a.allegroimg.com/original/11a209/abecb0c548f7a1f9e603e1f1e13d
 
 ---
 

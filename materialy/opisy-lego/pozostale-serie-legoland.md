@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Legoland — opisy produktowe (7 pozycji)
 
-## 40346 — Lego Legoland 40346 Legoland
+## 40346 — LEGOLAND
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 730.00 zł · EAN: 05702016371000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40346 |
+| Nazwa angielska | LEGOLAND Park |
+| Nazwa polska | LEGOLAND |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371000 |
 
 **LEGO LEGOLAND 40346 – LEGOLAND Park**
 
@@ -25,11 +35,26 @@ Przenieś atmosferę parku rozrywki LEGOLAND do swojego domu dzięki wyjątkowem
 
 Idealny prezent dla kolekcjonerów LEGO oraz miłośników parków LEGOLAND, który pozwala odtworzyć wyjątkowe wspomnienia i stworzyć efektowną ozdobę kolekcji.
 
+**Galeria:**
+
+- 40346-1: https://a.allegroimg.com/original/11d7f5/74196c714d57bd3188712e45630d
+
 ---
 
-## 40347 — Lego Legoland 40347 Szkoła nauki jazdy
+## 40347 — Szkoła nauki jazdy
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 108.00 zł · EAN: 00673419305044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40347 |
+| Nazwa angielska | LEGOLAND Driving School |
+| Nazwa polska | Szkoła nauki jazdy |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305044 |
 
 Legoland Lego 40347 Transportation Exclusive Set
  
@@ -64,11 +89,26 @@ Producent: LEGO®
 - **materiał**: Plastik 
 - **wymagany jest montaż**: 1
 
+**Galeria:**
+
+- 40347-1: https://a.allegroimg.com/original/11fcf6/c06e42b742db80c42677ae87c9de
+
 ---
 
-## 40506 — Lego Legoland 40506 Lego 40506 House Hołd dla Lego Fabuland Nowe
+## 40506 — LEGO 40506 House - Hołd dla LEGO Fabuland
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 579.95 zł · EAN: 05702017830155 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40506 |
+| Nazwa angielska | LEGO Fabuland Tribute |
+| Nazwa polska | LEGO 40506 House - Hołd dla LEGO Fabuland |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1026 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830155 |
 
 LEGO® 40506 House - Hołd dla LEGO® Fabuland®
  
@@ -118,11 +158,26 @@ Zestaw celebruje magię opowiadania historii, a Fabuland był pierwszyą serią 
 
 Jest on dostępny (i to nie zawsze) wyłącznie w LEGO HOUSE w Billund.
 
+**Galeria:**
+
+- 40506-1: https://a.allegroimg.com/original/113abf/4cd9963f45938d2fb2adc76cf13f
+
 ---
 
-## 40507 — Lego 40507 I Love Billund
+## 40507 — I Love Billund
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702018071014 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40507 |
+| Nazwa angielska | I ❤️ Billund |
+| Nazwa polska | I Love Billund |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1404 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071014 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -140,11 +195,26 @@ Jest on dostępny (i to nie zawsze) wyłącznie w LEGO HOUSE w Billund.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 40507-1: https://a.allegroimg.com/original/11acdc/1fa444b14db2bc6ad2cc646999d9
+
 ---
 
-## 40710 — Lego Legoland 40710 Pirate Splash Battle Statek piracki
+## 40710 — legoland
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 149.50 zł · EAN: 05702017595559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40710 |
+| Nazwa angielska | Pirate Splash Battle |
+| Nazwa polska | legoland |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595559 |
 
 Zapraszam do zakupu  zestawu
 
@@ -166,11 +236,26 @@ Klocki LEGO LEGOLAND 40710 - Pirate Splash Battle
 
 Zestaw LEGO LEGOLAND - Pirate Splash Battle trafił do sprzedaży w 2024 roku. Numer katalogowy tego zestawu to 40710. Zawiera 171 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 40710-1: https://a.allegroimg.com/original/11336a/c9f8eac44b7b9af627303661b25e
+
 ---
 
-## 40810 — Lego Legoland 40810 Park Portal
+## 40810 — Park Portal
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 289.89 zł · EAN: 05702017830568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40810 |
+| Nazwa angielska | LEGOLAND Park Portal |
+| Nazwa polska | Park Portal |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 323 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830568 |
 
 **Gwarantuję solidne zapakowanie klocków**
 
@@ -178,11 +263,26 @@ Klocki LEGO LEGOLAND 40810 - LEGOLAND Park Portal
  
 Zestaw LEGO LEGOLAND - LEGOLAND Park Portal trafił do sprzedaży w 2025 roku. Numer katalogowy tego zestawu to 40810. Zawiera 323 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 40810-1: https://a.allegroimg.com/original/29a742/b74a81604bce9d3c097318dbaeb8
+
 ---
 
-## 40952 — Lego Legoland 40952 Legoland Castle
+## 40952 — Legoland Castle
 
-*Kategoria: Pozostałe serie > Legoland · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018071151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40952 |
+| Nazwa angielska | LEGOLAND Castle |
+| Nazwa polska | Legoland Castle |
+| Seria | Pozostałe serie > Legoland |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 613 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 28 cm × gł. 20 cm |
+| EAN | 5702018071151 |
 
 Klocki LEGO 40952 – Zamek LEGOLAND (LEGOLAND Castle)
  
@@ -210,6 +310,10 @@ Specyfikacja techniczna:
 - **Grupa wiekowa:** 12+ 
 - **Wymiary złożonego modelu:** ok. 18 x 28 x 20 cm 
 - **Kod EAN:** 5702018071151
+
+**Galeria:**
+
+- 40952-1: https://a.allegroimg.com/original/11273f/9e8d2ade4157b08c3a80bf3a4e72
 
 ---
 

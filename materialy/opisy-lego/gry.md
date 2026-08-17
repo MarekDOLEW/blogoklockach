@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Gry — opisy produktowe (22 pozycji)
 
-## 10005 — Asmodee Monkey Palace DOT10005 gra planszowa Lego 2-4 graczy 10+ 45min
+## 10005 — 2 x 4 Sand Red Bricks
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 242.21 zł · EAN: 05704339005686 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10005 |
+| Nazwa angielska | 2 x 4 Sand Red Bricks |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5704339005686 |
 
 Opis produktu
 
@@ -54,11 +64,26 @@ Przeznaczenie
 - Gra rodzinna, strategiczna, zręcznościowa dla dzieci i dorosłych
 - Odpowiednia na spotkania rodzinne oraz dla fanów LEGO®
 
+**Galeria:**
+
+- 10005-1: https://a.allegroimg.com/original/1137c3/24225ef64541bac4b2d47249aa97
+
 ---
 
-## 3835 — Gra Lego 3835 Robo Champ unikat gra z 2009 roku zafoliowana
+## 3835 — Robo Champ
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702014589674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3835 |
+| Nazwa angielska | Robo Champ |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014589674, 5702014602977 |
 
 Gra LEGO 3835 Robo Champ
  
@@ -74,11 +99,27 @@ Zawiera:
 - 1 broszura z regułami gry
 - 1 instrukcja budowania
 
+**Galeria:**
+
+- 3835-1: https://a.allegroimg.com/original/112aa1/09f8cc9e44f5b1bbb8fb68d6289c
+- 3835-2: https://a.allegroimg.com/original/11e544/e7840f8c4505b81d03805652d957
+
 ---
 
-## 3837 — Gra Lego 3837 Monster 4 Gra Nowa
+## 3837 — Monster 4
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014603103 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3837 |
+| Nazwa angielska | Monster 4 |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603103 |
 
 - **Liczba elementów:** 141
 
@@ -96,11 +137,26 @@ Zawiera:
 
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 3837-1: https://a.allegroimg.com/original/110e60/ee82bfc64c909fde1807778c1b0a
+
 ---
 
-## 3840 — Lego Pirates Gra planszowa Pl 3840 Pirate Code Misb 2009 choinka mikołaj
+## 3840 — Pirate Code
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014603219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3840 |
+| Nazwa angielska | Pirate Code |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 268 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603219 |
 
 Nowa, fabrycznie zamknięta i zafoliowana gra planszowa Lego. Europejska dystrybucja ale dodaję oryginalną instrukcję zawierającą język Polski.
 
@@ -112,11 +168,26 @@ Numer:** 3840**
 
 Nazwa:** Pirate Code**
 
+**Galeria:**
+
+- 3840-1: https://a.allegroimg.com/original/116cfa/640d65da450ab477312b2a9ba921
+
 ---
 
-## 3843 — Gra Lego 3843 Ramses Pyramid Unikat Nowa Folia Pl Piramida Ramzesa Kostka
+## 3843 — Ramses Pyramid
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702014603301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3843 |
+| Nazwa angielska | Ramses Pyramid |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014589759, 5702014603301 |
 
 GRA LEGO 3843 Ramses Pyramid
 
@@ -137,11 +208,27 @@ Król Mumii Ramzes planuje podbić cały Egipt swoją armią mumii! Odblokuj zas
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 3843-1: https://a.allegroimg.com/original/11d39f/071e3c444199bdf5850c47567a70
+- 3843-2: https://a.allegroimg.com/original/1111bd/9a11cfbc441c90b428763ef9784a
+
 ---
 
-## 3847 — Lego Gra Magma Monster 3847 klocki nowy zestaw
+## 3847 — Magma Monster
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702014739901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3847 |
+| Nazwa angielska | Magma Monster |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014739901 |
 
 Nowa gra zestaw klocków
 
@@ -173,11 +260,26 @@ W zestawie znajdują się cztery mini-figurki, którymi gracze poruszają się p
 - wymiary opakowania: 27 x 14,2 x 6,5 cm
 - gra przeznaczona dla dzieci od **7 roku życia**
 
+**Galeria:**
+
+- 3847-1: https://a.allegroimg.com/original/116b02/dc182e9b4fd490bc4a3fa222f2c8
+
 ---
 
-## 3848 — Lego 3848 Pirate Plank
+## 3848 — Pirate Plank
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014601505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3848 |
+| Nazwa angielska | Pirate Plank |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601505 |
 
 LEGO 3848 Pirate Plank
 
@@ -187,11 +289,26 @@ Zawiera m.in. **5 nanofigurek**.
 
 Gra polega na spacerze po desce. To znana wśród piratów kara. Jeńcom albo łamiącym reguły piratom zawiązywano nogi i kordem „zachęcano” do „spaceru” po wystającej za burtę desce. Zwykle kończyło się to w otchłaniach mórz i oceanów. W grze zasady są podobne. Mamy cztery minifigurki na czterech plastikowych „deskach” na niewielkim stateczku. Rzut kostką oznaczał, ile studów przeskoczyć ma figurka.
 
+**Galeria:**
+
+- 3848-1: https://a.allegroimg.com/original/11c8a2/1225d9bc4cd089c4ab22a4a0655b
+
 ---
 
-## 3851 — Gra Lego 3851 atlantis
+## 3851 — Atlantis Treasure
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702014601536 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3851 |
+| Nazwa angielska | Atlantis Treasure |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601536 |
 
 Gra LEGO 3851 Atlantis.
 
@@ -215,21 +332,51 @@ Gra LEGO 3851 atlantis to idealny sposób, aby wprowadzić dziecko w świat podw
 
 Zapewnij swojemu dziecku niezapomniane chwile z grą LEGO 3851 atlantis.
 
+**Galeria:**
+
+- 3851-1: https://a.allegroimg.com/original/11c1d8/7ee8c186417d87970d48b717ac3e
+
 ---
 
-## 3854 — Gra Lego 3854 Gra Lego Frog Rush 3854
+## 3854 — Frog Rush
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702014735781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3854 |
+| Nazwa angielska | Frog Rush |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014735781 |
 
 Nowy nieotwierany zestaw Lego 3854 Gra Frog Rush.
 
 W małym stawie jest duży problem! Wszystkie żaby chcą jednocześnie przedostać się w bezpieczne miejsce po drugiej stronie stawu, skacząc jedna przez drugą w szalonym wyścigu. Uważaj na bociana, który tylko czeka, aby coś prze kąsić! Ambitna gra taktyczna z żabami w roli głównej dla 2–4 graczy.
 
+**Galeria:**
+
+- 3854-1: https://a.allegroimg.com/original/1142c7/7deaf3f9460fb60ff3d2e9a3b84c
+
 ---
 
-## 3855 — Gra Lego 3855 Ramses Return. Nowy. Ideał do kolekcji
+## 3855 — Ramses Return
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014735590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3855 |
+| Nazwa angielska | Ramses Return |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 99 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014735590 |
 
 Gra LEGO 3855 Ramses Return
 
@@ -243,11 +390,26 @@ Gra LEGO 3855 Ramses Return
 
 - Ośmiel się być wbrew przekleństwu i zażądaj skarbu! Lego przedstawia świat gier, które sam tworzysz i zmianasz. Z wyjątkową kością do gry LEGO Dice sam zmieniasz zasady gry w zależności jak złożysz kostkę. Gry LEGO są świetną drogą by dobrze się bawić razem z rodziną i przyjaciółmi. Czy ośmielisz się wejść do piramidy i znaleźć złote skarby Ramsesa? Odkryj tajemnicze kryształy i zagarnij skarb ale uważaj na mumię i starożytne przekleństwo Ramsesa! Gra przyprawia o dreszczyk emocji! Czas gry to około 10 do 20 minut.
 
+**Galeria:**
+
+- 3855-1: https://a.allegroimg.com/original/1175c6/a7c7766e49cf9d5f865977f30fec
+
 ---
 
-## 3860 — Gra Lego 3860 Heroica Fortaan. Nowy. Zagniecenie.
+## 3860 — Castle Fortaan
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702014735644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3860 |
+| Nazwa angielska | Castle Fortaan |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014735644 |
 
 Nowe oryginalne i unikatowe klocki LEGO Gry 3860 - Heroica Zamek Fortaan.
 
@@ -263,11 +425,26 @@ Fabrycznie **zaplombowany.**
  
 ************ śląskie**.**
 
+**Galeria:**
+
+- 3860-1: https://a.allegroimg.com/original/11bafe/ca64fd4b48d89845aae4f17bb0d8
+
 ---
 
-## 3866 — Lego 3866 Gry Star Wars: The Battle of Hoth
+## 3866 — Star Wars Battle of Hoth
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 589.00 zł · EAN: 05702014831377 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3866 |
+| Nazwa angielska | Star Wars Battle of Hoth |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014831377 |
 
 Dolne wieko jest wklęśnięte, możliwe, że da się je wyprostować. Również na Dolnym wieku niewielkie wgniotki.
 
@@ -291,11 +468,26 @@ Gwiezdnych Wojen!
  
 Gra łączy przyjemność budowania z emocjonującą mechaniką rozgrywki, co sprawia, że jest to idealna pozycja na spotkania z przyjaciółmi lub rodziną. Zestaw zawiera nie tylko planszę z elementów LEGO, ale także specjalne kostki i karty gry, co pozwala na wiele wariantów zabawy.
 
+**Galeria:**
+
+- 3866-1: https://a.allegroimg.com/original/11a305/d7585e934b77be6185750ae1b379
+
 ---
 
-## 40161 — Lego 40161 Gry Kim jestem? Gra 16 minifigurek
+## 40161 — What Am I?
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 799.00 zł · EAN: 00673419258654 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40161 |
+| Nazwa angielska | What Am I? |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 536 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258654 |
 
 **Oryginalna gra LEGO – zabawa i przygoda w świecie klocków**
 
@@ -319,11 +511,26 @@ Gra łączy przyjemność budowania z emocjonującą mechaniką rozgrywki, co sp
 
 Zagraj w klasyczną grę „Kim jestem” w wersji LEGO®. Zadając pytania, na które można odpowiedzieć „tak” lub „nie”, musisz odgadnąć, jaką minifigurkę lub niewielki model wybrał przeciwnik. Gra zawiera 16 minifigurek do złożenia, które można usuwać i pozwala korzystać z własnych, żeby zabawa była jeszcze lepsza! Do gry dołączone są zasady rozgrywki oraz instrukcje budowania. Całość można na co dzień przechowywać w poręcznym opakowaniu.
 
+**Galeria:**
+
+- 40161-1: https://a.allegroimg.com/original/11afe6/94b3a6db49379c3022da0684d989
+
 ---
 
-## 40174 — Gra Lego 40174 Zestaw szachów
+## 40174 — LEGO Chess
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 589.99 zł · EAN: 05702015868419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40174 |
+| Nazwa angielska | LEGO Chess |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1450 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868419 |
 
 Zestaw szachów z motywem LEGO®
  
@@ -352,11 +559,26 @@ Bierki można schować do środka szachownicy, co pozwala** łatwo przenosić ze
  
 - Szachownica ma około 26 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 40174-1: https://a.allegroimg.com/original/116407/c03c192b4073940b195db14b1180
+
 ---
 
-## 40198 — Klocki Lego 40198 Chińczyk Ludo Game
+## 40198 — Ludo Game
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 460.85 zł · EAN: 05702016123531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40198 |
+| Nazwa angielska | Ludo Game |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 389 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123531 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -388,11 +610,26 @@ Drużyny minifigurek będą walczyć w klasycznej grze planszowej zbudowanej z k
 - W komplecie prosta instrukcja gry w formie obrazków i opisów. 
 - Kwadratowa plansza ma ok. 25 x 25 cm.
 
+**Galeria:**
+
+- 40198-1: https://a.allegroimg.com/original/1127f1/ec8c586e45a392647452875e1fb4
+
 ---
 
-## 50011 — Lego Gry 50011 Lord of the Rings The Battle for Helms Deep
+## 50011 — The Battle of Helm's Deep
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 1500.00 zł · EAN: 05702015006965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 50011 |
+| Nazwa angielska | The Battle of Helm's Deep |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 338 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015006965 |
 
 LEGO 50011 – The Battle of Helm’s Deep
 
@@ -438,11 +675,27 @@ Natomiast gracze LEGO The Lord of the Rings chwalą immersję świata i dodatki,
 
 LEGO 50011 to unikalne połączenie gry planszowej i budowania, z 28 mikro-figurkami, modułową planszą i możliwością własnych wariantów rozgrywki. Chociaż nie jest łatwo dostępny, to prawdziwa gratka dla fanów i kolekcjonerów.
 
+**Galeria:**
+
+- 50011-1: https://a.allegroimg.com/original/111337/477a0e2241a68fbbb8b44d9e5e8d
+
 ---
 
-## 5002939 — Lego Star Wars 5002939 Mini Phantom saszetka niespodzianka zestaw klocki
+## 5002939 — The Phantom
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419236027 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002939 |
+| Nazwa angielska | The Phantom |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419236027 |
 
 Witam
 
@@ -458,11 +711,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5002939-1: https://a.allegroimg.com/original/11780f/040ca43f461e87672ef7926be515
+
 ---
 
-## 5007506 — Gra Lego 5007506 Duplo Domino Nowe Oryginalne
+## 5007506 — Duplo Dominos
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702017451152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007506 |
+| Nazwa angielska | Duplo Dominos |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017451152 |
 
 LEGO 5007506 DUPLO Domino
 
@@ -478,11 +746,26 @@ Liczba elementów:** 24**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 5007506-1: https://a.allegroimg.com/original/1135ac/cd6cd53a49ff89c65eda31bdd59e
+
 ---
 
-## 5010018 — Gra Lego 5010018 Zestaw do gry karcianej
+## 5010018 — Card Game Set
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 20.99 zł · EAN: 05060093911213 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5010018 |
+| Nazwa angielska | Card Game Set |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060093911213 |
 
 - Zestaw kart do gry LEGO® zawiera dwie talie — jedną do klasycznej gry i jedną do gier polegających na dopasowywaniu kart.
 - Oba zestawy kolorowych kart przedstawiają popularne minifigurki LEGO.
@@ -494,11 +777,26 @@ Liczba elementów:** 24**
 
 - Wymiary — pudełko zestawu kart do gry LEGO® ma 35 cm długości i 22 cm szerokości. Całość stanowi doskonały prezent dla dzieci w wieku od 6 lat, które uwielbiają gry karciane
 
+**Galeria:**
+
+- 5010018-1: https://a.allegroimg.com/original/11f95f/59ed50b94a9498ca2f8502d63ac9
+
 ---
 
-## 60711 — Lego Karty Do Gry 2 Talie 60711
+## 60711 — ?
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 109.99 zł · EAN: 00673419393669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60711 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419393669 |
 
 **LEGO SERIA GRY**
 
@@ -521,11 +819,26 @@ Liczba elementów:** 24**
 
 **Ten przepiękny zestaw kart LEGO® w kolekcjonerskim pudełku, bez wątpliwości zainspiruje niezliczone gry z przyjaciółmi lub rodziną. Zawiera dwie klasyczne 54-kartowe talie z żywymi, kolorowymi wzorami klocków na rewersach. W role króla, damy, waleta i jokera wcielają się ulubione minifigurki LEGO. To idealny upominek dla fanów LEGO w każdym wieku. Doskonała rozrywka zarówno na deszczowy wieczór na wyjeździe, spotkanie ze znajomymi, jak i samodzielne układanie pasjansów.**
 
+**Galeria:**
+
+- 60711-1: https://a.allegroimg.com/original/11e62d/72810e984b6bb25e644e9885d974
+
 ---
 
-## 61206 — Lego Mini Puzzle Mystery Minifigure (4013116-215198-CDU) (puzzle)
+## 61206 — ?
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 58.52 zł · EAN: 09781797211206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 61206 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | — |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 9781797211206 |
 
 LEGO - Mini Puzzle - Mystery MiniFigure (4013116-215198-CDU) [PUZZLE]
 
@@ -547,11 +860,26 @@ Produkt ORYGINALNY. Zupełnie nowy.
 
 **SKU:** 2894115
 
+**Galeria:**
+
+- 61206-1: https://a.allegroimg.com/original/11bafd/9aea43b44ed0ac9d85570a651d25
+
 ---
 
-## 71246 — Lego Dimensions 71246 Team Pack Adventure Time
+## 71246 — Adventure Time Team Pack
 
-*Kategoria: Gry · cena Allegro (2026-08-17): 549.99 zł · EAN: 05051892196741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71246 |
+| Nazwa angielska | Adventure Time Team Pack |
+| Nazwa polska | — |
+| Seria | Gry |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892196741 |
 
 WITAM
 
@@ -575,6 +903,10 @@ ODWIEDŹ NASZE POZOSTAŁE AUKCJE
 ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
+
+**Galeria:**
+
+- 71246-1: https://a.allegroimg.com/original/11dbac/7a48283a47fab5c20cc74785c58c
 
 ---
 

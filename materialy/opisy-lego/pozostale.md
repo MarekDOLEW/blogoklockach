@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Pozostałe — opisy produktowe (153 pozycji)
+# LEGO Pozostałe — opisy produktowe (109 pozycji)
 
-## 06048 — Klocki Technic Wojskowa Wyrzutnia Rakiet Lars2 [XB-06048]
+## 06048 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 161.99 zł · EAN: 06970873652542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 06048 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 986 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 6970873652542 |
 
 Pojazd z wyrzutnią rakiet w skali 1:30
 
@@ -62,254 +72,141 @@ Jak zapakowane są klocki?
 
 Części, są zapakowane w workach, podzielone na każdą fazę budowy. Dobrze zaprojektowana instrukcja wyraźnie pokazuje, gdzie należy umieścić nowe części.
 
----
+**Galeria:**
 
-## 10261 — Zestaw Led Briksmax Do Lego 10261 Kolejka Górska Magia Oświetlenia
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 139.99 zł · EAN: 05904423511677 · in stock*
-
-BRIKSMAX Zestaw oświetleniowy LED do Lego 10261 Creator Expert kolejka górska, kompatybilny z modelami klocków - bez zestawu Lego
-
-- Zaprojektowany z myślą o Lego 10261. Dzięki temu zestawowi oświetleniowemu możesz zmienić kolejkę górską LEGO Creator Expert z ciemnego na jasny, aby ożyła.
-
-- Należy pamiętać, że dostarczane są wyłącznie diody LED. Wszystkie zestawy LEGO pokazane na zdjęciach i filmach nie wchodzą w zakres dostawy.
-
-- Zestaw zawiera lampy bitowe, paski świetlne, płytki rozszerzające, kabel połączeniowy, zestaw baterii (baterie nie wchodzą w zakres dostawy), powierzchnie samoprzylepne, instrukcję obsługi (może nie być dostępna w języku polskim).
-
-- Dzięki instrukcji krok po kroku (może nie być dostępna w języku polskim) znajdziesz łatwiejszy sposób na duże ulepszenie swojego ulubionego zestawu budowlanego.
-
-A19 8382
+- 06048-1: https://a.allegroimg.com/original/11fad1/b671b25e4449baaf4233513b03e4
 
 ---
 
-## 10274 — Zestaw oświetleniowy Led do Lego Ghostbusters ECTO-1 10274 dźwięk, Pilot
+## 10261 — Lego
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 279.00 zł · EAN: 03616303321444 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10261 |
+| Nazwa angielska | Roller Coaster |
+| Nazwa polska | Lego |
+| Seria | Icons |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 53 cm × szer. 88 cm × gł. 41 cm |
+| EAN | 5702016111835, 5904423511677 |
 
-Zestaw oświetleniowy LED do Lego Ghostbusters ECTO-1 10274 dźwięk, PILOT
+**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
+
+**Zapraszamy do odkrycia niezwykłego zestawu LEGO – nowego, w pełni oryginalnego produktu zapakowanego w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
+
+**Co otrzymujesz?**
+
+- **� Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
+- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
+- **📸 Rzeczywiste zdjęcia przedstawiają oferowany produkt**
+
+**✨ Dlaczego warto wybrać LEGO?**
+
+- **✅ 100% oryginalny produkt – bez kompromisów**
+- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
+- **✅ Zachwyca jakością wykonania i dbałością o detale**
+- **✅ Wspaniała rozrywka solo lub z bliskimi**
+
+**🚚 Wysyłka**
+
+- **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
+- **Szybka realizacja zamówień**
+
+LEGO Kolejka górska 10261
+
+Przejedź się niezwykłą kolejką górską!
+
+Poczuj prędkość i wrażenia, jakie zapewnia najwspanialsza atrakcja w wesołym miasteczku — kolejka z niesamowitego zestawu LEGO Creator Expert 10261 Kolejka górska. Ten działający model z wyciągarką łańcuchową zawiera dwie kolejki oraz mnóstwo autentycznych szczegółów i funkcji. Są to między innymi budka z biletami, wózek z watą cukrową, stoisko z przekąskami, miarka wzrostu, a także zadaszona stacja do wsiadania z otwieranymi barierkami i panelem sterowania. Włącz wyciągarkę łańcuchową i zobacz, jak wagoniki rozpędzone dzięki sile grawitacji pędzą po krętych torach. Zestaw LEGO Power Functions umożliwia zasilenie wyciągarki silnikiem, a zestaw LEGO BOOST — dodanie dodatkowego czujnika ruchu oraz realistycznych efektów dźwiękowych! Zbudowanie tego niesamowitego modelu kolekcjonerskiego da każdemu konstruktorowi mnóstwo satysfakcji z nutką nostalgii. W zestawie znajduje się 11 minifigurek.
+
+- W zestawie 11 minifigurek: sprzedawca waty cukrowej, dwóch pracowników wesołego miasteczka, dziadkowie z wnuczką oraz pięcioro pasażerów kolejki. Osiem minifigurek ma główki, które można odwrócić, by ukazać różne wyrazy twarzy.
+- Działająca kolejka górska z wyciągarką łańcuchową wyposażona jest w klasyczny szyld zbudowany z klocków, dwie kolejki (każda złożona jest z trzech wagoników z kołami zapewniającymi niskie tarcie) oraz tor złożony z 44 fragmentów siedmiu różnych rodzajów.
+- W zestawie jest także budka z biletami, fontanna, wózek z watą cukrową, stoisko z przekąskami, ławka dla oczekujących, aparat fotograficzny oraz staw z figurką żaby.
+- Kup bilet w budce i przejdź na zadaszony plac.
+- Nie oszukuj przy miarce wzrostu — pracownik wesołego miasteczka ma własną, dokładną miarkę!
+- Pomóż pasażerom wsiąść do wagoników i opuścić pręty bezpieczeństwa.
+- Zwolnij hamulec, a wagoniki podjadą do stóp pierwszego wzniesienia.
+- Aktywuj wyciągarkę łańcuchową, by wciągnąć wagoniki na sam szczyt wzniesienia.
+- Przesuń tory i wyjedź w trasę drugą kolejką.
+- Zaserwuj orzeźwiające napoje na stoisku lub przygotuj watę cukrową w wózku.
+- Nie zapomnij uśmiechnąć się podczas przejazdu koło aparatu fotograficznego!
+- Zestaw LEGO Power Functions umożliwia zasilenie wyciągarki silnikiem, a zestaw LEGO BOOST — dodanie funkcji automatycznego włączania wyciągarki oraz realistycznych efektów dźwiękowych!
+- Ten rewelacyjny zestaw zawiera ponad 4120 klocków.
+- Klocki z nadrukiem: bilet, banknot, płytki ze strzałkami, ciśnieniomierz, klawiatura numeryczna oraz panel sterowania kolejką.
+- Nowe, specjalne klocki to m.in. nachylony tor 2x8x6, klocek z łukiem 1x2x1, liście, łodygi i kwiaty (nowości na czerwiec 2018 r.).
+- Inne akcesoria w zestawie to m.in. miarka wzrostu i dwie porcje waty cukrowej.
+- Stanowi doskonałe rozszerzenie zestawu 10257 LEGO Creator Expert Karuzela.
+- Kolejka górska można napędzać za pomocą średniego silniczka z zestawu LEGO Power Functions 8883 oraz schowka na baterie AAA 88000 (dostępne osobno).
+- Model ma ok. 53 cm wysokości, 88 cm szerokości i 41 cm głębokości.
+
+**Galeria:**
+
+- 10261-1: https://a.allegroimg.com/original/11334f/8976ce2641838738f1722772ba0e
+- 10261-2: https://a.allegroimg.com/original/039d1e/24ecefe0453ba9b99b150a1e8a58
+
+---
+
+## 10290 — Pickup
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10290 |
+| Nazwa angielska | Pickup Truck |
+| Nazwa polska | Pickup |
+| Seria | Icons |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1677 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 14 cm |
+| EAN | 5702016972030, 5905220305537 |
+
+Trudno o lepszą ucieczkę od współczesności! Zbuduj pickupa LEGO® (10290) i wybierz się w podróż w lata 50. ubiegłego wieku. Ten realistyczny model klasycznej półciężarówki ma charakterystyczne, zaokrąglone linie i mnóstwo szczegółów. Przyjrzyj mu się bliżej, a odkryjesz realistyczną platformę z nadkolami, otwierane drzwi i klapę oraz zdejmowane drewniane poręcze.
+ 
+Ciesz się z biegu czasu To auto ciężko pracuje przez cały rok, wożąc produkty z Ekologicznej Farmy. W pudełku jest wiele akcesoriów, więc możesz stworzyć ekspozycję, która ukaże różne pory roku. Jest tam taczka z kwiatami i konewka, która przywodzi na myśl wiosnę. W lecie pickup może wozić dwie drewniane skrzynki, pomidory i marchewki oraz bańkę na mleko. Jesienią może pojawić się charakterystyczna skrzynia z dyniami, a zimą ozdobisz model stroikiem i prezentem.
+ 
+Podróże są świetne Ten zestaw jest częścią serii kolekcjonerskich modeli LEGO dla dorosłych, którzy cenią sobie piękne projekty. To wciągające wyzwanie konstruktorskie i doskonały prezent dla wszystkich miłośników starych pickupów.
 
  
-- Dzięki temu zestawowi do wersji dźwięku RC Twój samochód ECTO-1 będzie wyglądał pięknie. 
-- Ważna wskazówka: Ten zestaw jest tylko oświetleniem LED. 
-- O zasilaniu: może być zasilany przez powerbank / pudełko na baterie / ładowarkę ścienną / inne urządzenie ze złączem USB (napięcie wyjściowe powinno być mniejsze niż 6 V) 
-- Informacje o instalacji: szczegółowa instrukcja krok po kroku (może nie być dostępna w języku polskim) to prosty sposób na aktualizację ulubionego zestawu budowlanego. Używamy małych kabli i świateł, które można ukryć między blokami bez wpływu na wygląd modelu cegły. 
-- Zawartość: zestaw oświetleniowy LED + skrzynka na baterie + instrukcja obsługi papierowej
+- Zbuduj model LEGO®, który wiernie przedstawia rolniczego pickupa z lat 50. Przyjrzyj się wszystkim realistycznym funkcjom, a potem ustaw kolekcjonerski samochód na półce, aby móc podziwiać jego klasyczne linie. 
+- Model pickupa z zestawu LEGO® 10290 to dla dorosłych okazja, aby zaangażować się we wciągający projekt odtwarzania kultowego pojazdu z epoki klasycznego motoryzacyjnego designu. 
+- Przyjrzyj mu się bliżej, a odkryjesz liczne realistyczne detale, w tym platformę z nadkolami, otwierane drzwi i klapę oraz zdejmowane drewniane poręcze. 
+- Świeżo z pola! W pudełku znajdziesz różne akcesoria na kolejne pory roku: taczki z konewką, warzywa i bańkę na mleko, skrzynię z dyniami oraz świąteczny stroik i paczkę z prezentem. 
+- Pokieruj pickupem, a potem obejrzyj wnętrze przez otwierane drzwi. Możesz także podnieść maskę, pod którą kryje się silnik. 
+
+ 
+- Ten zaprojektowany dla dorosłych budowniczych LEGO® model da Ci mnóstwo satysfakcji z budowania, a po ukończeniu zostanie ozdobą kolekcji. Może być także doskonałym prezentem dla każdego, kto uwielbia zabytkowe pickupy z lat 50. 
+- Wymiary: ok. 14 cm wysokości, 33 cm długości i 14 cm szerokości. 
+- Ten zestaw LEGO® z zabytkowym pickupem z lat 50. jest częścią serii kreatywnych modeli konstrukcyjnych stworzonych dla dorosłych miłośników budowania, którzy lubią piękne wzornictwo, starannie oddane szczegóły i elegancką architekturę. 
+- Elementy konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
+- Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
+
+**Galeria:**
+
+- 10290-1: https://a.allegroimg.com/original/11d365/ebe86dcb48b2a68bf022aca00c2a
+- 10290-2: https://a.allegroimg.com/original/05539e/98b1def742289fa95072c1885966
 
 ---
 
-## 10281 — Zestaw oświetlenia do Lego Creator Drzewko bonsai (wersja fioletowa) 10281
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05905220305490 · in stock*
-
-Zestaw oświetlenia do LEGO Creator Drzewko bonsai (wersja fioletowa) 10281
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10290 — Zestaw oświetlenia do Lego Creator Pickup 10290 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05905220305537 · in stock*
-
-Zestaw oświetlenia do LEGO Creator Pickup 10290
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10293 — Zestaw oświetlenia do Lego Wizyta Świętego Mikołaja 10293 Creator Expert
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 369.00 zł · EAN: 05905413616099 · in stock*
-
-Zestaw oświetlenia do LEGO Wizyta Świętego Mikołaja 10293 Creator Expert
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10295 — Zestaw oświetlenia do Lego Creator Expert Porsche 911 10295 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05905220305124 · in stock*
-
-Zestaw oświetlenia do LEGO Creator Expert Porsche 911 10295
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10297 — Zestaw oświetlenia do Lego Creator Expert Hotel butikowy 10297 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 289.00 zł · EAN: 05905220305834 · in stock*
-
-Oświetlenie LED do LEGO Creator Expert Hotel butikowy 10297
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10303 — Briksmax – Zestaw Oświetlenia Led dla Lego Icons Wielka Ósemka (10303)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05901421810450 · in stock*
+## 10303 — LEGO Powered UP Kolejka górska z pętlami
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10303 |
+| Nazwa angielska | Loop Coaster |
+| Nazwa polska | LEGO Powered UP Kolejka górska z pętlami |
+| Seria | Icons |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3756 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153247, 5901421810450 |
 
 **Rozświetl swoją kolekcję LEGO!** Dzięki zestawowi oświetlenia LED BRIKSMAX, zaprojektowanemu specjalnie dla modelu **LEGO Icons Wielka Ósemka (10303)**, Twój konstrukcyjny majstersztyk zyska niesamowity efekt wizualny. Przekształć swoją statyczną budowlę w dynamiczną, świetlną instalację, która zachwyci każdego!
 
@@ -325,87 +222,73 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 
 32g1
 
----
+**Galeria:**
 
-## 10305 — Briksmax Oświetlenie Led do Zamku Średniowiecznego Lego Icons 10305
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 379.99 zł · EAN: 05901421815547 · in stock*
-
-Odnów swój zamek i nadaj mu magiczny blask!
-
-Czy Twój imponujący Zamek Średniowieczny LEGO® Icons (10305) zasługuje na to, by zabłysnąć? Dzięki zestawowi oświetlenia LED BRIKSMAX przeniesiesz swoją budowlę w zupełnie nowy wymiar! Ten innowacyjny zestaw został zaprojektowany specjalnie dla modelu 10305, aby tchnąć w niego życie i dramatyzm, przekształcając go z statycznej konstrukcji w olśniewający, świetlny element wystroju.
-
-- Idealne dopasowanie: Zaprojektowany wyłącznie dla zestawu LEGO® Icons 10305 Średniowieczny Zamek. Wszystkie elementy są precyzyjnie dopasowane, aby idealnie komponować się z modelem.
-- Magia światła: Ożyw swój zamek! Ciepłe, żółte światło LED imitujące blask pochodni i ognia nada wnętrzom autentycznego, średniowiecznego klimatu i niepowtarzalnej atmosfery.
-- Profesjonalny efekt: Nasz zestaw wykorzystuje różne rodzaje świateł i technikę ukrywania kabli, dzięki czemu gotowy model wygląda niezwykle czysto i profesjonalnie. To gwarancja, że efekt końcowy będzie po prostu doskonały.
-- Bezpieczeństwo i jakość: Wykonany z bezpiecznych, niezawodnych i trwałych materiałów. Zasilany bezpiecznym niskim napięciem, abyś mógł cieszyć się swoją podświetlaną konstrukcją przez długi czas.
-- Satysfakcja z montażu: Czytelna, ilustrowana instrukcja krok po kroku poprowadzi Cię przez proces instalacji. Ciesz się przyjemnością samodzielnego montażu (DIY) i dumą z ogromnego ulepszenia swojego ulubionego zestawu.
+- 10303-1: https://a.allegroimg.com/original/11d7a2/e53959624503b1113ea1028da496
+- 10303-2: https://a.allegroimg.com/original/110aeb/e20b5a3d4c1583125b165830e7aa
 
 ---
 
-## 10307 — Oświetlenie Zestaw Led do Lego wieża Eiffla 10307
+## 10305 — Zamek rycerzy herbu Lew
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 599.00 zł · EAN: 05906040658216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10305 |
+| Nazwa angielska | Lion Knights' Castle |
+| Nazwa polska | Zamek rycerzy herbu Lew |
+| Seria | Icons |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 4514 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 44 cm × gł. 33 cm |
+| EAN | 5702017153261, 5901421815547 |
 
-Zestaw Oświetlenia Dekoracyjnego do Lego 10307 Wieża Eiffla - Oświetlenie do Wieża Eiffla (Bez Klocków)
+**ZAMEK RYCERZY HERBU LEW**
 
-- Ożyw swój zestaw Lego 10307 z ciemności do jasności (tylko zestaw oświetleniowy, model Lego nie wchodzi w skład zestawu).
-- 【Unikalny projekt】 Specjalny projekt dla Lego Architecture Wieża Eiffla Przenieś swój Lego 10307 z ciemnego na jasny i ożyw go (tylko lekki zestaw, model Lego nie jest dołączony).
-- Łatwa instalacja: wszystkie diody LED mają jednolity wzór światła, a połączenia kablowe dobrze do siebie pasują. Instrukcje instalacji wideo krok po kroku są dostarczane przez nasz profesjonalny zespół lekkich konstruktorów, aby pomóc Ci w instalacji. Wystarczy wejść na naszą stronę internetową, która jest zawarta w broszurze dołączonej do paczki, aby ją otrzymać.
-- Bezpieczeństwo i doświadczenie. Nasz zestaw oświetlenia dekoracyjnego wykonany jest z wysokiej jakości przewodów miedzianych, które są wyposażone w ochronę przed ciepłem i spalaniem i mogą wydłużyć czas ich działania. Niskie napięcie 5 V zapewnia bezpieczniejsze wrażenia.
+Dawno temu było sobie dziecko, które uwielbiało budować z klocków LEGO®. Teraz to dziecko jest już dorosłe i mamy dla niego nową misję. Z okazji dziewięćdziesięciolecia historii LEGO stworzono zestaw Zamek rycerzy herbu Lew (10305), który jest nową interpretacją oryginalnego zamku LEGO oraz modelem, o który od lat prosili fani.
 
-p43501/32sP
+Opowieści o ekscytujących wyprawach
 
----
+Niesamowity zestaw jest pełen niespodzianek. Odkryj wspaniałe detale z każdej strony modelu do zbudowania, a następnie otwórz go, by zajrzeć do środka. Są tam ukryte korytarze, ruchome ściany, sekretne schowki, średniowieczny most zwodzony i otwierana brama, a także młyn wodny, wieże i baszty, komnaty, zbrojownia i wiele więcej. Dzięki 22 minifigurkom możesz odegrać sceny bitewne i rozmaite historie.
 
-## 10308 — Oświetlenie GC378 do klocków 10308 Holiday Main Street
+Nie spiesz się
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 79.00 zł · EAN: 00796435814526 · in stock*
+Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zamek to wciągający projekt dla Ciebie lub świetny prezent dla każdego fana historii i zamków.
 
-Oświetlenie GC378 do klocków 10308 Holiday Main Street
+- Nowa wersja klasycznego zamku – odpręż się przy budowaniu wszelkich detali tego modelu do zbudowania Zamek rycerzy herbu Lew (10305), który inspirowany jest klasycznymi zestawami LEGO®
+- Na prośbę fanów LEGO® – ten zestaw z okazji dziewięćdziesięciolecia historii LEGO został stworzony po przeprowadzeniu ankiety wśród 55 000 osób na platformie LEGO Ideas
+- 4514 elementów – ciesz się wielogodzinnym budowaniem i twórz detale tego wspaniałego modelu. Odkryj jego elementy z każdej strony i otwórz zamek, by zajrzeć do pełnego szczegółów wnętrza
+- Wiele średniowiecznych detali – podnieś i opuść most zwodzony oraz bramę, odkryj ukryte korytarze, ucieknij z lochu, uruchom młyn wodny i przygotuj się do walki w zbrojowni
+- Sekretna kryjówka – zbuduj tajną kryjówkę dla ludzi lasu. Gdy zaatakują, zrzuć ich do lochu przez zapadnię w podłodze i pomóż im uciec sekretnym korytarzem
+- 22 minifigurki – ożyw historie o królowej, rycerzach, łucznikach, magach i ludziach lasu dzięki kolekcji minifigurek i akcesoriom zaprojektowanym specjalnie na potrzeby tego zestawu
+- Wymiary – zamknięty model zamku ma 38 cm wysokości, 44 cm szerokości i 33 cm głębokości
+- Dla dorosłych, którzy nie przestają marzyć – ten zestaw LEGO® jest częścią serii zestawów konstrukcyjnych stworzonych dla dorosłych miłośników budowania, którzy lubią piękne wzornictwo, starannie oddane szczegóły i elegancką architekturę
+- Wysokiej jakości materiały – klocki konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić – i tak jest niezmiennie od 1958 roku
+- Bezpieczeństwo przede wszystkim – bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, więc możesz mieć pewność, że ten model jest solidny
 
-**Parametry**
+**Galeria:**
 
-- Napięcie robocze: poniżej 5 V
-- Zasilanie: USB (kompatybilne z power bankiem, komputerem lub ładowarką)
-- Materiały: przewody miedziane, elementy z tworzywa ABS
-- Kompatybilność: wyłącznie z zestawem LEGO 10308
-- Wymaga podstawowej zdolności manualnej – nie ciągnąć przewodów
-- Opakowanie: oryginalne
-
-**Zawartość opakowania:**
-
-– Komplet przewodów z diodami LED dopasowanymi do zestawu 10308
-
-– Moduł zasilający USB
-
-– Elementy montażowe ułatwiające instalację
-
-– Instrukcja obsługi
-
-Zainwestuj w zestaw GC378 i spraw, by Twoje świąteczne miasteczko rozbłysło magią. Dzięki niemu model 10308 Holiday Main Street stanie się nie tylko ozdobą półki, ale także wyjątkowym elementem dekoracyjnym, który rozświetli zimowe wieczory. Kupując w naszym sklepie masz pewność wysokiej jakości produktu i szybkiej dostawy – spraw, by te święta były naprawdę wyjątkowe.
-
-**Oświetlenie GC378 do zestawu klocków 10308 Holiday Main Street**
-
-Podkreśl wyjątkowy klimat świątecznej makiety dzięki zestawowi oświetleniowemu GC378, zaprojektowanemu specjalnie do modelu klocków 10308 Holiday Main Street. To idealne uzupełnienie budowli, które sprawi, że Twoje świąteczne miasteczko nabierze blasku i ożyje po zmroku. Lampki LED nadają konstrukcji ciepłego, nastrojowego światła, dzięki któremu każdy detal zestawu będzie prezentował się jeszcze bardziej efektownie i magicznie. To doskonały sposób, aby wprowadzić świąteczną atmosferę do wnętrza i zachwycić zarówno dzieci, jak i dorosłych.
-
-**Najważniejsze cechy produktu:**
-
-– Dedykowany komplet oświetleniowy pasujący do zestawu 10308 Holiday Main Street.
-
-– Diody LED emitujące przyjemne, ciepłe światło.
-
-– Łatwy montaż, dostosowany do konstrukcji klocków bez ingerencji w ich strukturę.
-
-– Podkreśla szczegóły budowli i tworzy wyjątkowy świąteczny klimat.
-
-– Zasilanie przez USB – możliwość podłączenia do powerbanku, ładowarki lub portu w komputerze.
+- 10305-1: https://a.allegroimg.com/original/1185df/cdd1bc3948468cd173f680072577
+- 10305-2: https://a.allegroimg.com/original/11353c/55da45bb43998f43e07d81f5d73b
 
 ---
 
-## 10311 — 10311 Lego Icons Orchidea
+## 10311 — LEGO Botanicals 10311 Orchidej
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 319.99 zł · EAN: 05904285686094 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10311 |
+| Nazwa angielska | Orchid |
+| Nazwa polska | LEGO Botanicals 10311 Orchidej |
+| Seria | Icons |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 608 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017224336, 5904133247989, 5904285686094, 5906752547051, 6900667201335, 6901393241305, 6901397370322, 6901399056644, 6901400195126, 6901402285498, 6901403282793, 6901403662403, 6903020792549 |
 
 10311 - LEGO Icons - Orchidea
 
@@ -474,312 +357,303 @@ Dekoracja w Twoim stylu
 
 klocki LEGO, zestaw LEGO Icons Orchidea, model do zbudowania, egzotyczne kwiaty LEGO, dekoracja z klocków LEGO, ozdoba domowa, dla dorosłych, kreatywność, relaks, kwiaty LEGO, szczegóły modelu, projekt dla dorosłych, unikalny zestaw LEGO, LEGO dla miłośników natury, zestaw ekskluzywny, LEGO kolekcjonerskie, lego do biura, sztuka LEGO, prezent dla dorosłych, zabawka dla dorosłych, LEGO na prezent, wspaniała dekoracja, przebojowy produkt LEGO, inspirowany przyrodą, zestaw budowlany, projekt DIY, dekoracja w stylu LEGO, LEGO na parapet, orchidea z klocków, LEGO nowości, modny dodatek, nowoczesna ozdoba, LEGO Flower, LEGO na prezent, LEGO Polska, zaawansowane budowanie, estetyka klocków LEGO, zestaw dla kolekcjonerów, LEGO Premium, estetyczna dekoracja z klocków, LEGO jako sztuka, LEGO do salonu, stylowa orchidea.
 
----
+**Galeria:**
 
-## 10312 — Zestaw oświetlenia do Lego Klub jazzowy Icons 10312
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 379.00 zł · EAN: 05905413616587 · in stock*
-
-Zestaw oświetlenia do LEGO Klub jazzowy Icons 10312
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 10311-1: https://a.allegroimg.com/original/1105c7/2f849ed349a482a0ce53b7a2e88b
+- 10311-2: https://a.allegroimg.com/original/1156b6/18256da9485c82bb0f33f551aed7
+- 10311-3: https://a.allegroimg.com/original/110260/98f575cc44deaeb6e025bca211af
+- 10311-4: https://a.allegroimg.com/original/1167ab/395cbc7f4ba3a2a9fd26ae81283a
+- 10311-5: https://a.allegroimg.com/original/112069/4507fe3b460fb1de1aaf640e556e
+- 10311-6: https://a.allegroimg.com/original/11bcc1/ec5624614d3dbb196056060a62f2
+- 10311-7: https://a.allegroimg.com/original/11da96/4e2f78a54ebe94bbf8cf6d0ac06f
+- 10311-8: https://a.allegroimg.com/original/118605/5809a8994b499f8536a9948ec01e
 
 ---
 
-## 10313 — Zestaw oświetlenia do Bukiet dzikich kwiatów 10313 nie zawiera klocków Lego
+## 10315 — Zaciszny ogród
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 199.99 zł · EAN: 05908027180109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10315 |
+| Nazwa angielska | Tranquil Garden |
+| Nazwa polska | Zaciszny ogród |
+| Seria | Icons |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1363 |
+| Cena katalogowa | 439.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 32 cm × gł. 20 cm |
+| EAN | 5702017416885, 5907213510331 |
 
-⭐Zestaw oświetlenia do Bukiet dzikich kwiatów 10313 (nie zawiera klocków Lego)
+LEGO ICONS 10315 Cichy ogród
+ 
+LEGO ICONS 10315 Zaciszny ogród
 
-🌼 Dlaczego warto oświetlenie do klocków bukiet dzikich kwiatów?
+Zaciszny ogród
+ 
+Icons Zaciszny ogród LEGO Icons Zaciszny ogród Zestaw konstrukcyjny dla dorosłych LEGO Icons Zaciszny ogród 10315 (1363 elementy) Stwórz czarującą ozdobę do domu lub biura dzięki zestawowi dla dorosłych LEGO Icons Zaciszny ogród.
+ 
+Puść wodze wyobraźni Ciesz się wciągającym projektem dzięki zestawowi dla dorosłych LEGO Icons Zaciszny ogród (10315). Odpręż się, tworząc każdy piękny szczegół i zmieniaj aranżację, aby stworzyć idealną ozdobę do domu lub biura. Bogaty w funkcje ogród Ten model, wzorowany na tradycyjnym japońskim ogrodzie, zawiera most łukowy, strumień, karpia koi, kwiaty lotosu, drzewa, skały, kamienne latarnie oraz pawilon ze szczegółowo odtworzoną salą do ceremonii parzenia herbaty. To raj dla dorosłych i świetny pomysł na prezent dla entuzjastów ogrodnictwa i treningu uważności. Zapoznaj się z inspirującą ofertą zestawów konstrukcyjnych LEGO dla dorosłych. Odpręż się dzięki zestawowi LEGO Icons Zaciszny ogród (10315). Rozkoszuj się relaksującym projektem, budując tę inspirowaną Japonią przystań z pawilonem, mostem łukowym, strumieniem, karpiem koi, kwiatami lotosu, drzewami, skałami i kamiennymi latarniami. Uspokój umysł, zmieniając aranżację ogrodu, a potem ustaw model w domu lub biurze, aby wszyscy mogli się nim cieszyć.
 
-✔️ **Subtelne, klimatyczne światło LED** – podkreśla detale kwiatów
+• Zbuduj piękny ogród i zajmij się nim — poświęć czas temu pomysłowemu projektowi konstrukcyjnemu LEGO Icons Zaciszny ogród (10315) dla dorosłych
+ 
+• Co jest w pudełku? Wszystko, czego potrzeba do zbudowania modelu ogrodu zen z pawilonem, mostem łukowym, strumieniem, karpiem koi, kwiatami lotosu, drzewami, skałami i kamiennymi latarniami
+ 
+• Modyfikuj swoją kompozycję — otwory w podstawie modelu ogrodu zen ułatwiają zmianę układu, dzięki czemu można tworzyć różne konfiguracje i aranżacje
+ 
+• Pomysłowy prezent — zestaw LEGO Icons Zaciszny ogród został stworzony dla dorosłych fanów LEGO i kreatywnych projektów ogrodniczych
+ 
+• Autentyczne akcesoria — akcesoria LEGO obejmują imbryk i trzepaczkę
+ 
+• Cyfrowe instrukcje budowania — aplikacja LEGO Builder zawiera cyfrową wersję instrukcji do zestawu
+ 
+• Wymiary — zestaw ma 21 cm wysokości, 32 cm szerokości i 20 cm głębokości
+ 
+• Ciesz się chwilą — odkryj zestaw LEGO Icons Zaciszny ogród, część serii zestawów konstrukcyjnych przeznaczonych dla dorosłych fanów budowania
+ 
+• Wysokiej jakości materiały — klocki konstrukcyjne LEGO powstają z wysokiej jakości materiałów. Są spójne, zawsze do siebie pasują i można je z łatwością połączyć — i tak jest niezmiennie od 1958 roku
+ 
+• Zrelaksuj się, budując zestaw LEGO Icons Zaciszny ogród
+ 
+• Szczegółowy zestaw inspirowany tradycyjnym ogrodem zen
+ 
+• Twórz różne konfiguracje i ustaw model w domu lub biurze
+ 
+• Pomysł na prezent dla dorosłych fanów LEGO i kreatywnych projektów ogrodniczych • Autentyczne akcesoria — akcesoria LEGO obejmują imbryk i trzepaczkę
+ 
+• Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania
+ 
+• Zestaw ma 21 cm wysokości, 32 cm szerokości i 20 cm głębokości
+ 
+• Jeden z wielu zestawów LEGO dla dorosłych
+ 
+• Klocki LEGO można za każdym razem z łatwością połączyć
+ 
+• Elementy LEGO spełniają wysokie standardy bezpieczeństwa i jakości
 
-✔️ **Idealne na prezent** – Walentynki, Dzień Kobiet, rocznicę, urodziny
+**Galeria:**
 
-✔️ **Efekt dekoracyjny 24/7** – bukiet wygląda magicznie po zmroku
-
-✔️ **Zasilanie USB** (możliwość podłączenia do powerbanku, laptopa, ładowarki)
-
-✔️ **Energooszczędne i trwałe diody LED**
-
-✔️ Cienkie, dyskretne przewody łatwe do ukrycia w konstrukcji
-
-✨ ZESTAW OŚWIETLENIA LED DO BUKIETU DZIKICH KWIATÓW ✨
-
-**Romantyczna dekoracja | Efekt WOW | Idealne na prezent**
-
-Przedmiotem sprzedaży jest **zestaw oświetlenia LED marki ****BrickBling**, przeznaczony do podświetlenia **bukietu dzikich kwiatów z klocków** (model klocków nie jest częścią zestawu).
-
-Dzięki delikatnemu, ciepłemu światłu Twój bukiet zyska wyjątkowy, romantyczny charakter i stanie się efektowną ozdobą wnętrza – zarówno w dzień, jak i wieczorem.
-
-📦 Co zawiera zestaw?
-
-- komplet oświetlenia LED dopasowany do bukietu dzikich kwiatów
-- przewody i moduł zasilania
-- instrukcję montażu
-
-⚠️ Uwaga: Zestaw NIE zawiera klocków – sprzedawane jest wyłącznie oświetlenie.
-
----
-
-## 10315 — Oświetlenie do Lego Icons Zaciszny ogród 10315
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510331 · in stock*
-
-Oświetlenie do LEGO Icons Zaciszny ogród 10315
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 10315-1: https://a.allegroimg.com/original/11c126/031bbc9c418f9efbc6b28e3ac80f
+- 10315-2: https://a.allegroimg.com/original/053c16/dd0c3c5d4cd3bfdb279dbd375a3c
 
 ---
 
-## 10316 — Zestaw oświetlenia do Lego Władca Pierścieni: Rivendell 10316
+## 10316 — Władca Pierścieni: Rivendell
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 419.00 zł · EAN: 05905413616662 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10316 |
+| Nazwa angielska | Lord of the Rings: Rivendell |
+| Nazwa polska | Władca Pierścieni: Rivendell |
+| Seria | Icons |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6167 |
+| Cena katalogowa | 2149.99 zł |
+| Wymiary złożonego | wys. 39 cm × szer. 75 cm × gł. 50 cm |
+| EAN | 5702017416892, 5702017819518, 5905413616662 |
 
-Zestaw oświetlenia do LEGO WŁADCA PIERŚCIENI: RIVENDELL 10316 Lord of the Rings
+LEGO WŁADCA PIERŚCIENI: RIVENDELL | 10316
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+LEGO
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+Prawdziwe szaleństwo dla fanów Władcy Pierścieni!
+ 
+**Ponad 6 tys. elementów, 15 minifigurek bohaterów Lord of the Rings!**
+ 
+Wymiary:
+ 
+wys.: 16" (39cm)
+ 
+szer.: 30" (75cm)
+ 
+głęb.: 20" (50cm)
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
+Odkrywaj Śródziemie™
+ 
+Uczcij uwielbianą filmową trylogię za pomocą niesamowitego nowego zestawu LEGO® Icons Władca Pierścieni: Rivendell™. Ten niesamowity zestaw zawiera 15 minifigurek postaci i realistyczne detale, które będziesz stopniowo odkrywać podczas budowania. Dzięki niemu możesz odtworzyć ulubione sceny z filmów i snuć zupełnie nowe historie.
 
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+Imponujący zestaw dla fanów!
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+Odwiedź Rivendell™ dzięki zestawowi kolekcjonerskiemu z serii LEGO® Władca Pierścieni™ (10316). Projekt jest wzorowany na dolinie ze Śródziemia™, gdzie rozpoczęła się słynna wyprawa. Zestaw dla dorosłych zawiera 6167 elementów i jest pełen detali, które docenią fani filmu.
+ 
+Tchnij życie w kultowe sceny
+ 
+Zestaw konstrukcyjny jest udekorowany listowiem, które sprawia wrażenie przebywania w głębi lasu Rivendell™ i zawiera magiczne detale, w tym elfią kuźnię, zagracony gabinet Elronda, fragmenty Narsila™ oraz obrazy i posągi z historii Śródziemia™. W zestawie jest też 15 minifigurek, które ożywią ulubione sceny. Minifigurki mają odczepiane nogi, więc możesz usadzić je wokół stołu i odtworzyć kultową scenę narady u Elronda™.
+ 
+Nie spiesz się
+ 
+Zestaw, o który ubiegali się fani, został zaprojektowany dla miłośników Władcy Pierścieni™ i wielbicieli filmu, którzy doceniają zachwycające projekty.
+ 
+ 
+- Zbuduj dolinę ze Śródziemia™ ⁠– zbuduj i pochwal się Rivendell™ w wersji LEGO® dzięki zestawowi dla dorosłych WŁADCA PIERŚCIENI: RIVENDELL™ (10316) 
+- 6167 elementów pełnych filmowej magii – to angażujący projekt pełen detali i odniesień do filmowej trylogii Władcy Pierścieni™, które rozpoznają wszyscy fani 
+- Szczegółowe dekoracje – detale obejmują sypialnię Froda i gabinet Elronda, a różne pomieszczenia można eksponować osobno, na przykład naradę u Elronda™ można odłączyć od głównego modelu 
+- Kultowe postacie – zestaw zawiera 15 minifigurek, w tym kultowe postacie: Froda™, Sama™, Bilba Bagginsa™, Boromira™, Gimliego™, Aragorna™, Legolasa i Gandalfa Szarego™ 
+- Odtwórz swoje ulubione sceny ⁠– zestaw ułatwia odtworzenie kultowych momentów, w tym sceny narady u Elronda™ oraz momentu, w którym Drużyna Pierścienia przekracza most na początku swojej podróży 
+- Wymiary ⁠– zestaw ma 39 cm wysokości, 75 cm szerokości i 50 cm głębokości i jest podzielony na trzy sekcje: wieżę, krąg rady i altanę z rzeką i mostem 
+- Podaruj jako prezent – zestaw będzie wspaniałym prezentem dla miłośników filmu i fanów Władcy Pierścieni™, którzy z chęcią zagłębią się w lasy Rivendell™ 
+- Nie spiesz się – zestaw jest częścią serii LEGO® dla dorosłych, którzy doceniają imponujące projekty i szczegółowe detale 
+- Wysokiej jakości materiały – klocki LEGO® są jednolite, zawsze do siebie pasują i są wykonywane z wysokiej jakości materiałów od 1958 roku 
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+- **Stan:** Nowy
+- **Stan opakowania:** oryginalne
+- **Marka:** LEGO
+- **Numer produktu:** 19518
+- **Seria:** Inne
+- **Wiek dziecka:** 18 lat +
+- **Minimalny wiek dziecka:** 18
+- **Bohater / Bajka:** Władca Pierścieni
+- **Płeć:** chłopcy|dziewczynki
+- **Liczba elementów:** 6167
+- **Certyfikaty, opinie, atesty:** CE
+- **Waga produktu z opakowaniem jednostkowym:** 6.895
+- **Kod taryfy celnej:** 95030035
+- **EAN:** 5702017819518
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+**Galeria:**
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10318 — Zestaw oświetlenia do Lego Icons Concorde 10318 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05905413616983 · in stock*
-
-Oświetlenie LED do LEGO Icons Concorde 10318
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 10316-1: https://a.allegroimg.com/original/1144e4/c80491da4d6f98b4ec87a3dc42fd
+- 10316-2: https://a.allegroimg.com/original/05cd4b/5070d29e4582a8b2b77ad9149961
+- 10316-3: https://a.allegroimg.com/original/112cb6/f0b079ac446dbc3b7e03383aedb1
 
 ---
 
-## 10320 — Oświetlenie Led do Lego 10320 Eldorado pilot BrickBling
+## 10318 — Concorde
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 171.20 zł · EAN: 05905049413925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10318 |
+| Nazwa angielska | Concorde |
+| Nazwa polska | Concorde |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2083 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 43 cm |
+| EAN | 5702017416915, 5905413616983 |
 
-Oświetlenie LED do LEGO 10320 Eldorado pilot BrickBling
+LEGO 10318 Icons - Concorde
 
-**⭐⭐ OŚWIETLENIE LED DO LEGO 10320 – EFEKT WOW ⭐⭐**
+Wybierz się w przestworza, budując zestaw konstrukcyjny dla dorosłych LEGO® Icons Concorde (10318). Zrelaksuj się podczas tworzenia szczegółowej repliki najsłynniejszego pasażerskiego samolotu naddźwiękowego.
 
-💡 **Twoja forteca ożywa po zmroku**
+LEGO 10318 Icons - Concorde
 
-Zestaw oświetleniowy BrickBling zmienia klasyczny model LEGO w spektakularną dekorację świetlną.
+**Wiernie odwzorowane detale**
 
-⭐⭐ DLACZEGO WARTO WYBRAĆ TEN ZESTAW? ⭐⭐
+Podobnie jak jej angielsko-francuski oryginał, ta szczegółowa replika odrzutowca pasażerskiego ma odchylany dziób, działające podwozie, wysuwane tylne koło, skrzydła typu delta z ruchomymi sterami wysokości oraz odchylane górne i dolne stery. Posiada również łatwo dostępną część z fotelami i jest wyposażona w stojak, dzięki któremu można ustawić samolot w trybach lotu, startu lub lądowania.
 
-➡ **Sterowanie pilotem 🎮**
+LEGO 10318 Icons - Concorde
 
-Włączaj i zmieniaj efekty bez dotykania modelu.
+**Dane techniczne**:
 
-➡ **Efekty RGB 🌈**
+- **Producent:** LEGO
+- **Seria: **Icons - Concorde
+- **Wiek:** 18+
+- **Kod katalogowy:** 10318
+- **Liczba elementów:** 2083
 
-Różne kolory i tryby – dopasuj klimat do nastroju.
+LEGO 10318 Icons - Concorde
 
-➡ **Dedykowany do LEGO 10320**
+**Odpręż się za sterami samolotu**
 
-Idealne dopasowanie do modelu Eldorado Fortress.
+Skorzystaj z okazji do relaksu dzięki temu kolekcjonerskiemu zestawowi konstrukcyjnemu, który jest doskonałym pomysłem na prezent dla fanów Concorde'a i modeli samolotów. Zapoznaj się z inspirującą ofertą zestawów LEGO dla dorosłych.
 
-➡ **Łatwa instalacja 🔧**
+LEGO 10318 Icons - Concorde
 
-Instrukcja PDF lub wideo krok po kroku.
+- Ciesz się relaksującą podróżą — zrelaksuj się, budując zestaw dla dorosłych LEGO® Icons Concorde (10318)
+- Co jest w pudełku? — Wszystko, czego potrzebujesz, aby zbudować szczegółową replikę LEGO® Concorde'a, najsłynniejszego na świecie pasażerskiego samolotu naddźwiękowego
+- Funkcje — samolot ma odchylany dziób, działające podwozie, wysuwane tylne koło, skrzydła typu delta z ruchomymi sterami wysokości, górne i dolne stery na zawiasach oraz część z fotelami
+- Zbuduj i pochwal się — ten model dla kolekcjonerów ma podstawkę ekspozycyjną do ustawiania samolotu w trybie lotu, startu lub lądowania
+- Prezent dla miłośników samolotów — podaruj ten zestaw LEGO® Icons dorosłym fanom Concorde’a i modeli samolotów
+- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
+- Wymiary — model ma 15 cm wysokości, 105 cm długości i 43 cm szerokości
+- Zrelaksuj się — model Concorde’a pochodzi z serii zaawansowanych zestawów LEGO® dla dorosłych
+- Nacisk na jakość — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością
+- Bezpieczeństwo przede wszystkim — klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
-✔ model wygląda jak profesjonalna ekspozycja
+Galeria LEGO 10318 Icons - Concorde
 
-✔ idealny efekt wieczorem i w nocy
+**Galeria:**
 
-✔ zwiększa wartość wizualną kolekcji
-
-✔ świetny efekt dla gości
-
-👉 Must-have dla fanów LEGO i kolekcjonerów
-
-⭐ Najważniejsze cechy ⭐
-
-✔️ oświetlenie LED RGB
-
-✔️ pilot zdalnego sterowania
-
-✔️ niskie napięcie 5V
-
-✔️ bezpieczne przewody miedziane
-
-✔️ różne tryby świecenia
-
-📦 ZESTAW ZAWIERA
-
-✔ zestaw oświetlenia LED
-
-✔ pilot
-
-✔ moduł sterujący
-
-✔ przewody
-
-✔ instrukcję montażu
-
-❗ **Model LEGO NIE jest częścią zestawu**
-
-🎯 PODSUMOWANIE
-
-✔ efektowny
-
-✔ łatwy w montażu
-
-✔ robi ogromne wrażenie
-
-👉 **Zamień swój model LEGO w podświetlaną fortecę!** 💡
+- 10318-1: https://a.allegroimg.com/original/11fce1/9b272e4c4a9d861fd04bfbab0d44
+- 10318-2: https://a.allegroimg.com/original/118ddc/bffbd535437f98f33acd94c88343
 
 ---
 
-## 10321 — P51401 Lego led oświetlenie cooldac 10321 Icons Chevrolet Corvette
+## 10320 — Twierdza Eldorado
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 69.00 zł · EAN: 05905049413000 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10320 |
+| Nazwa angielska | Eldorado Fortress |
+| Nazwa polska | Twierdza Eldorado |
+| Seria | Icons |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2509 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 70 cm |
+| EAN | 5702017416922, 5905049413925 |
 
-P51401 Lego led światło oświetlenie cooldac 10321 Icons Chevrolet Corvette
+**LEGO ICONS Twierdza Eldorado 10320**
 
-Łatwy montaż – specjalnie zaprojektowane do modelu 10321 Icons Corvette. Wszystkie diody LED zapewniają równomierne oświetlenie, a złącza kablowe dobrze pasują do siebie. Język polski może nie być dostępny w instrukcji.
+Odkryj na nowo świat LEGO® Pirates z zestawem konstrukcyjnym dla dorosłych LEGO Icons Twierdza Eldorado (10320). Ten hołd dla kultowego modelu z lat osiemdziesiątych XX wieku (6276) zawiera nowe funkcje, które zachwycą fanów serii LEGO Pirates. Zbudowany z klocków model obejmuje szczegółowe pokoje, a nowe elementy konstrukcyjne umożliwiają ekspresję, zachowując jednocześnie klasyczny charakter oryginalnego zestawu.
 
-- Ciesz się kreatywną zabawą w majsterkowanie – nasz zestaw oświetlenia LED do modelu Corvette zapewnia jasne oświetlenie, które pomoże Ci odpocząć od zabieganego życia i odzyskać piękną noc. Ten zestaw oświetleniowy jest idealny dla miłośników modeli LEGO, aby własnoręcznie ulepszyć swoje klocki i uczynić swoje modele bardziej zaawansowanymi, czerpiąc przyjemność z majsterkowania.
+Ciesz się budowaniem
 
-- Wiele opcji zasilania: w zestawie znajduje się kabel USB oraz pojemnik na baterie, co zapewnia różne opcje zasilania. Światła LED dopasowane do zestawu LEGO 10321 można zasilać za pomocą power banku, ładowarki, gniazda USB, laptopa lub innego urządzenia USB. Możesz go również zasilać bateriami (bateria nie jest dołączona).
+Odkrywaj ukryte skarby, budując klocek po klocku kultową twierdzę, w tym biuro admirała, pirackie więzienie i szereg tajnych pomieszczeń. Połącz modułowe sekcje, aby stworzyć różne konfiguracje i odegrać epickie sceny bitewne z działającymi armatami, ośmioma minifigurkami i fajnym pirackim galeonem z żaglami z wzorzystego materiału.
 
-- Doświadczenie w zapewnieniu bezpieczeństwa – nasz zestaw dekoracyjnych światełek do zestawu Icons Corvette wykonany jest z wysokiej jakości przewodów miedzianych, które posiadają ochronę przed ciepłem i spaleniem, co może wydłużyć czas użytkowania. Niskie napięcie 5 V zapewnia bezpieczniejsze użytkowanie.
-- Idealny prezent i czarująca prezentacja – nasze oświetlenie do zestawu 10321 są doskonałym prezentem na urodziny, Boże Narodzenie, Nowy Rok, Dzień Dziecka, ukończenie szkoły, Święto Dziękczynienia i walentynki dla każdego miłośnika modelarstwa.
+Nie spiesz się
+
+Zestawy LEGO dla dorosłych to gwarancja dobrze spędzonego czasu. Ten zestaw utrzymany w pirackiej tematyce to wciągający projekt dla Ciebie lub świetny prezent dla każdego fana klasycznych zestawów LEGO.
+
+• Odkryj na nowo skarby z dzieciństwa, budując zestaw LEGO® Icons Twierdza Eldorado
+
+• Zawiera twierdzę, statek piracki, łódź, osiem minifigurek i trzy figurki zwierząt
+
+• Połącz moduły i twórz różne konfiguracje twierdzy
+
+• Prezent dla dorosłych fanów serii LEGO® Pirates z lat osiemdziesiątych XX wieku
+
+• Zestaw ma 27 cm wysokości i 70 cm szerokości
+
+• Akcesoria dla minifigurek obejmują armaty, mapę, biurko, świecę i pióro
+
+• Aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji budowania
+
+• Odprężający projekt dla dorosłych fanów LEGO®
+
+• Klocki LEGO® za każdym razem z łatwością łączą się ze sobą
+
+• Elementy LEGO® spełniają wysokie standardy bezpieczeństwa i jakości
+
+**Galeria:**
+
+- 10320-1: https://a.allegroimg.com/original/115d00/ccfa9e194a10a063a12e2a7d41f0
+- 10320-2: https://a.allegroimg.com/original/11d774/475ae38044fcb5481b0831ab4b0e
 
 ---
 
-## 10326 — Zestaw oświetlenia Led Cooldac kompatybilny z zestawem Lego 10326 muzeum
+## 10326 — Muzeum Historii Naturalnej
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 116.99 zł · EAN: 05908052720288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10326 |
+| Nazwa angielska | Natural History Museum |
+| Nazwa polska | Muzeum Historii Naturalnej |
+| Seria | Icons |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 4014 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589886, 5908052720288 |
 
 Zestaw oświetleniowy do zestawu Lego 10326: zestaw oświetleniowy LED to idealne akcesorium do zestawu Lego 10326 Muzeum Historii Naturalnej. 
  
@@ -790,11 +664,27 @@ Kreatywne, dekoracyjne oświetlenie do zestawu Lego 10326 rozjaśni zestaw zabaw
 - Świetny prezent dla miłośników Lego: Ten zestaw świateł rozświetli Twój zestaw Lego. Zestaw świateł do zestawu Lego 10326 Muzeum Historii Naturalnej zapewnia bardziej atrakcyjne i wciągające wrażenia dzięki kinowym efektom świetlnym. To świetny prezent urodzinowy, świąteczny lub dla każdego miłośnika modelarstwa.
 - Bez ryzyka: baterie do zestawu oświetleniowego nie są dołączone.
 
+**Galeria:**
+
+- 10326-1: https://a.allegroimg.com/original/118464/61f3875a4302ab5cc39614dc61e5
+- 10326-2: https://a.allegroimg.com/original/114c6d/4a52da604aec836bd171c37db5d4
+
 ---
 
-## 10328 — Klocki Lego Icons 10328 Bukiet róż
+## 10328 — Bukiet róż
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 263.99 zł · EAN: 05905413616822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10328 |
+| Nazwa angielska | Bouquet of Roses |
+| Nazwa polska | Bukiet róż |
+| Seria | Icons |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 822 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 4054536379518, 5702017583488, 5905413616822, 5905954500604 |
 
 ⭐10328 - LEGO Icons - Bukiet róż⭐
 
@@ -864,11 +754,29 @@ Kreatywne zestawy dla dorosłych
 
 ➡️Zestaw LEGO® Icons **Bukiet** róż to trafiony prezent **świąteczny** i urodzinowy dla dorosłych **miłośników roślin** i wystroju domu.
 
+**Galeria:**
+
+- 10328-1: https://a.allegroimg.com/original/1122a4/e2f9c6ba43e581be4146072182e4
+- 10328-2: https://a.allegroimg.com/original/112808/c6446fd44fa3b33974d2610656ff
+- 10328-3: https://a.allegroimg.com/original/11721a/6a94ffcf4f03a70a7dc5cb7784f9
+- 10328-4: https://a.allegroimg.com/original/1189d5/4764ce904758a1fe3496df373b19
+
 ---
 
-## 10330 — Zestaw oświetlenia do Lego Icons McLaren MP4/4 10330 (bez Lego)
+## 10330 — Ikony 10330 McLaren MP4/4 i Ayrton Senna
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05905413616945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10330 |
+| Nazwa angielska | McLaren MP4/4 & Ayrton Senna |
+| Nazwa polska | Ikony 10330 McLaren MP4/4 i Ayrton Senna |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 693 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583495, 5905413616945 |
 
 Zestaw oświetlenia do LEGO Icons McLaren MP4/4 i Ayrton Senna 10330
 
@@ -906,305 +814,95 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
----
+**Galeria:**
 
-## 10331 — Zestaw oświetlenia do Lego Icons Zimorodek 10331 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213510256 · in stock*
-
-Oświetlenie LED do LEGO ICONS Zimorodek 10331
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 10330-1: https://a.allegroimg.com/original/110001/f60a679c491ab4822aef07fc052f
+- 10330-2: https://a.allegroimg.com/original/296388/c2dffed04b3e8c614ed2403c6415
 
 ---
 
-## 10338 — Oświetlenie Led do Lego Icons Bumblebee 10338
+## 10331 — Zimorodek
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 132.00 zł · EAN: 05907213510102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10331 |
+| Nazwa angielska | Kingfisher Bird |
+| Nazwa polska | Zimorodek |
+| Seria | Icons |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 834 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 31 cm × gł. 17 cm |
+| EAN | 5702017599564, 5907213510256 |
 
-⭐Oświetlenie LED do Lego Icons Bumblebee 10338 (bez modelu)⭐
+**Zimorodek**
 
-✨Światło LED do Lego 10338✨
+Stwórz efektowną ozdobę swojego domu lub biura dzięki temu zestawowi dla dorosłych. Zestaw LEGO® Icons Zimorodek (10331) to świetny prezent dla miłośników ptaków i wciągający projekt dla nowych i doświadczonych konstruktorów LEGO.
 
-**Łatwy montaż:** Instrukcje krok po kroku i filmy instruktażowe pozwolą Ci cieszyć się zabawą i zaskoczeniem podczas samodzielnego montażu (podczas montażu nie ściskaj nadmiernie kabla klockami).
+Model przedstawia zimorodka, znanego z efektownego upierzenia i niezwykłych umiejętności łowieckich, wynurzającego się z wody podczas połowu ryb. Wodna scenka zawiera trzciny do zbudowania i może służyć także jako podstawka do ekspozycji. Ustaw głowę i szpony ptaka w wybranej pozie, a potem ustaw go na półce, aby inni także mogli go podziwiać.
 
-**Bezpieczne materiały:** zastosowano drut miedziany, aby zapobiec zagrożeniom bezpieczeństwa, a powierzchnia światła LED ma gładką architekturę oświetlenia.
+Odpręż się dzięki inspirującej ofercie kreatywnych zestawów LEGO zaprojektowanych specjalnie dla dorosłych. Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania do tego zestawu.
 
-**Zasilanie bateryjne lub przez USB: **Baterie (3 x AAA) (brak w zestawie), napięcie USB powinno być mniejsze niż 1 A 5 V. Nie ciągnij za złącze kabla podczas montażu oświetlenia LED i nie potrząsaj nim.
+- Zestaw konstrukcyjny z zimorodkiem — zrelaksuj się podczas budowania zestawu dla dorosłych LEGO® Icons Zimorodek
+- Kreatywny projekt konstrukcyjny — ten zestaw zawiera wszystko, czego potrzebujesz do stworzenia majestatycznego zimorodka podczas połowu ryb w wersji LEGO®, a także scenkę wodną, która służy również jako podstawka do ekspozycji
+- Cechy i funkcje — model zimorodka ma ruchomą głowę i szpony, a scenka z trzcinami do zbudowania może służyć również jako podstawka do ekspozycji
+- Ozdoba na biurko do domu i gabinetu — dodaj odrobinę natury do każdego pomieszczenia dzięki temu zestawowi LEGO® Icons Zimorodek
+- Zachęcający do uważności prezent dla miłośników ptaków — podaruj ten zestaw konstrukcyjny LEGO® Icons jako prezent świąteczny lub urodzinowy dla miłośników ornitologii, tropikalnych ptaków, wystroju wnętrz i modeli LEGO
+- Zawiera cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
+- Projekty LEGO® dla dorosłych — zrelaksuj się dzięki inspirującej ofercie kreatywnych zestawów konstrukcyjnych LEGO (sprzedawanych osobno) stworzonych specjalnie dla dorosłych
+- Wymiary — ten 834-elementowy model ma 21 cm wysokości, 31 cm szerokości i 17 cm głębokości
 
-✨Szczegóły techniczne✨
+**Galeria:**
 
-**✔️Cele edukacyjne:** ‎Umiejętności motoryczne, umiejętności rozwiązywania problemów
-
-**✔️Numer modelu:** ‎P69701
-
-**✔️Liczba sztuk:** ‎1
-
-**✔️Wymagany montaż:** Tak
-
-**✔️Czy potrzebne są baterie?:** Tak
-
-**✔️Czy baterie są w zestawie?:** Nie
-
-**✔️Rodzaj(e) materiału:** Plastik
-
-**✔️Kolor:** Światło LED do Lego 10338
-
-**✔️Zalecany przez producenta wiek:** ‎15 lat i więcej
-
-**✔️Numer modelu przedmiotu:** ‎P69701
-
-**✔️Wymiary produktu:** ‎15 x 10 x 3 cm; 150 gramów
-
-**🌟Delikatne światła LED** podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu.🌟
+- 10331-1: https://a.allegroimg.com/original/119f35/6612fccc4d38bba6d7e9466d3cd4
+- 10331-2: https://a.allegroimg.com/original/11aaf2/7e429e454955803a85413eb22744
 
 ---
 
-## 10341 — Zestaw oświetleniowy Lego 10341 Nasa Artemis pilot BrickBling
+## 10359 — Fontanna w ogrodzie
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 545.27 zł · EAN: 05906871031134 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10359 |
+| Nazwa angielska | Fountain Garden |
+| Nazwa polska | Fontanna w ogrodzie |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1302 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815879, 5907213510508 |
 
-Zestaw Oświetleniowy BrickBling z Pilotem do LEGO 10341 NASA Artemis Space Launch System
+Fontanna w ogrodzie
 
-Zdalne Sterowanie Oświetleniem Modelu
+Icons Fontanna w ogrodzie LEGO® Icons Fontanna w ogrodzie Zestaw dla dorosłych LEGO® Icons Fontanna w ogrodzie 10359 Zbuduj wyjątkową, kolorową ozdobę do domu lub biura z zestawu dla dorosłych LEGO® Icons Fontanna w ogrodzie. Zestaw dla dorosłych z fontanną ogrodową Zrelaksuj się podczas budowania zestawu dla dorosłych LEGO® Icons Fontanna w ogrodzie (10359), który będzie stanowił piękną ozdobę domowego biura. Odpręż się i odtwórz misterne detale, ustaw drzewka, kwiaty i pergole oraz przestawiaj sekcje ogrodu, by osiągnąć pożądany wygląd.Ten model z kolekcji Ogrody świata, inspirowany pięknem i różnorodnością architektury krajobrazu, obejmuje piętrową fontannę, ozdobną misę, ścieżkę z dekoracyjnych płytek i ukwiecone winorośle, które zdobią białe kolumnowe pergole z czerwonym dachem. W ogrodzie jest też kwitnąca winorośl, dwa drzewa cyprysowe, czerwony bodziszek, białe petunie, czerwony hibiskus, różowa bugenwilla i nagietki, a także figurki zwierząt: ptaka, żaby i ćmy.Odpręż się dzięki szerokiej ofercie zestawów LEGO, zaprojektowanych specjalnie dla dorosłych (sprzedawane osobno). Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania w 3D do tego zestawu z ogrodem LEGO. Poczuj ciepło bijące od Fontanny w ogrodzie LEGO® Icons. Stwórz kolorową oazę z piętrową fontanną, zdobioną misą, ścieżką wyłożoną zdobnymi płytkami, drzewami, różnymi stworzeniami i winoroślami, które okalają białe kolumnowe pergole z czerwonym dachem. Odpręż się, budując i przebudowując ogród, aby uzyskać wymarzoną ozdobę, która będzie cieszyć oko.
 
-Ten zestaw oświetleniowy pozwala na dynamiczne i interaktywne rozświetlenie modelu LEGO 10341 NASA Artemis Space Launch System. Dzięki dołączonemu **pilotowi zdalnego sterowania**, użytkownik może precyzyjnie zarządzać oświetleniem, wybierając, które fragmenty modelu mają zostać podświetlone. Taka funkcjonalność umożliwia tworzenie różnorodnych scen świetlnych i ożywienie konstrukcji.
+**Galeria:**
 
-- Możliwość włączania i wyłączania światła w wybranych częściach modelu.
-
-- Personalizacja wizualnej prezentacji systemu startowego.
-
-Prosta i Bezpieczna Instalacja
-
-Zestaw został zaprojektowany z myślą o maksymalnej prostocie montażu. Wszystkie diody LED zapewniają **jednolite światło**, a złącza przewodów są idealnie dopasowane, co ułatwia podłączenie. Aby zapewnić płynny proces instalacji, do zestawu dołączone są szczegółowe **instrukcje wideo lub PDF**, które krok po kroku przeprowadzą użytkownika przez każdy etap montażu.
-
-Trwałość i Wszechstronne Opcje Zasilania
-
-Produkt wykonano z **wysokiej jakości kabli miedzianych**, co gwarantuje jego trwałość i niezawodność. Bezpieczeństwo użytkowania podnosi wbudowane zabezpieczenie przed wysoką temperaturą i spaleniem, a niskie napięcie pracy **5 V** jest bezpieczne w obsłudze. Zestaw oferuje również wszechstronne opcje zasilania, dostosowując się do preferencji użytkownika.
-
-- Zasilanie z power banku.
-
-- Podłączenie do ładowarki USB.
-
-- Korzystanie z gniazda USB w laptopie lub innych urządzeniach.
-
-- Możliwość użycia baterii (bateria nie jest częścią zestawu).
-
-Najważniejsze Cechy Produktu
-
-- **Zdalne sterowanie** oświetleniem za pomocą pilota.
-
-- Kompatybilność z modelem LEGO **10341 NASA Artemis Space Launch System**.
-
-- Łatwa instalacja dzięki intuicyjnej konstrukcji i wsparciu **instrukcjami wideo/PDF**.
-
-- Wykonany z **wysokiej jakości kabli miedzianych**.
-
-- Zabezpieczenie przed wysoką temperaturą i spaleniem.
-
-- Bezpieczne niskie napięcie **5 V**.
-
-- Wiele opcji zasilania: USB lub bateria.
-
-- Zapewnia jasne i efektowne oświetlenie modelu.
-
-Specyfikacja Techniczna
-
-- **Marka:** BrickBling
-
-- **Numer modelu:** DE-10341-P66102
-
-- **Nazwa zestawu:** Zestaw oświetlenia
-
-- **Kraj pochodzenia:** Chiny
-
-- **Źródło światła:** elektryczne
-
-- **Źródło zasilania:** Bateria lub USB
-
-- **Typ montażu:** Montaż na stojąco
-
-- **Funkcje specjalne źródła światła:** pilot zdalnego sterowania
-
-- **Współczynnik oddawania barw:** 80
-
-- **Liczba źródeł światła:** 1
-
-- **Czy baterie są dołączone do zestawu?:** Nie
-
-- **Zgodność z inteligentnym domem:** Brak
-
-- **Materiał:** Miedź
-
-- **Materiał do zacienienia:** miedź
-
-- **Kolor:** pomarańczowy, szary, biały
-
-Zawartość Zestawu
-
-- Zestaw oświetleniowy LED (dedykowany dla modelu LEGO 10341 NASA Artemis Space Launch System)
-
-- Moduł zdalnego sterowania
-
-- Pilot zdalnego sterowania
-
-- Kabel USB
-
-- Komora na baterie
-
-- Instrukcja instalacji (wideo/PDF)
+- 10359-1: https://a.allegroimg.com/original/114338/52023d8042b3b5bce3c46c21fca3
+- 10359-2: https://a.allegroimg.com/original/05feb2/621516654717b91630230e5dc2cf
 
 ---
 
-## 10354 — Zestaw Oświetlenia Led do Lego Icons Władca pierścieni: Shire 10354
+## 10361 — Świąteczny ekspres
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05907213510812 · in stock*
-
-Oświetlenie LED do LEGO ICONS Władca pierścieni: Shire 10354
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO wyjątkowy klimat
-
-**Należy pamiętać, że dostarczane są tylko diody LED (BEZ ZESTAWU LEGO)**.
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO
-
-**Wydobądź więcej ze swojego zestawu LEGO**
-
-Dzięki zastosowaniu super wytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO.
-
-32sP
-
----
-
-## 10357 — Zestaw oświetlenia do Lego Icons Shelby Cobra 427 S/c 10357 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05907213510690 · in stock*
-
-Oświetlenie LED do LEGO ICONS Shelby Cobra 427 S/C 10357
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10359 — Zestaw oświetlenia do Lego Icons Fontanna w ogrodzie 10359 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 249.00 zł · EAN: 05907213510508 · in stock*
-
-Zestaw oświetlenia do LEGO Icons Fontanna w ogrodzie 10359
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 10361 — Zestaw oświetlenia do Lego Icons Świąteczny ekspres #10361
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 259.00 zł · EAN: 05907213511079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10361 |
+| Nazwa angielska | Holiday Express Train |
+| Nazwa polska | Świąteczny ekspres |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 956 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829197, 5907213511079 |
 
 Zestaw oświetlenia do LEGO ICONS Świąteczny ekspres #10361
 
@@ -1242,128 +940,28 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
----
+**Galeria:**
 
-## 10789 — Klocki Lego Lego Marvel Heroes 10789 Samochód Spider-Mana i Doc Ock
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 54.49 zł · EAN: 05702017424149 · in stock*
-
-Klocki LEGO Lego Marvel Super Heroes 10789 Samochód Spider-Mana i Doc Ock
-
-**LEGO**®** Marvel Super Heroes 10789 Samochód Spider-Mana i Doc Ock** to doskonały wybór dla dzieci, które uwielbiają dynamiczną zabawę, superbohaterów i kreatywne budowanie. Ten zestaw łączy w sobie emocjonujący klimat uniwersum Marvela z satysfakcją samodzielnego składania modelu, który od razu staje się pretekstem do tworzenia własnych historii. To propozycja, która świetnie sprawdzi się zarówno jako prezent, jak i jako ciekawy element kolekcji fanów LEGO®.
-
-**Zestaw 10789** przyciąga uwagę nie tylko licencją Marvel, ale także pomysłową formą zabawy. Dziecko może wcielić się w rolę Spider-Mana, ścigając przeciwnika i odtwarzając ulubione sceny z komiksów oraz filmów. To świetny sposób na rozwijanie wyobraźni, cierpliwości i zdolności manualnych, a jednocześnie gwarancja wielu godzin angażującej rozrywki.
-
-Dlaczego warto wybrać ten model?
-
-☑️ Świecące w ciemności elementy – zestaw LEGO® Marvel Samochód Spider-Mana i Doc Ock (10789) zawiera minifigurki superbohaterów i pojazd stworzony z myślą o dzieciach w wieku od czterech lat
-
-☑️ Kultowe postacie – w zestawie minifigurki Spider-Mana i Doc Ocka, a także samochód z dwoma świecącymi w ciemności sieciami i klocek startowy w formie podwozia, aby zachęcić początkujących budowniczych
-
-☑️ Rozbudowana zabawa – Doc Ock skradł diamenty, więc rozpoczyna się pajęczy pościg i niekończące się przygody
-
-☑️ Prezent dla dzieci – dzięki klockowi startowemu i prostemu budowaniu ten zestaw wspiera rozwój dzieci w wieku od czterech lat podczas niekończącej się praktycznej i pomysłowej zabawy
-
-☑️ Frajda gdziekolwiek jesteście – samochód ma 4 cm wysokości, 8 cm długości i 4 cm szerokości, dzięki czemu dzieci mogą się bawić w dowolnym miejscu☑️ Rozbudowana zabawa – zestawy LEGO® dla dzieci od czterech lat wprowadzą je w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego
-
-Jeśli szukasz zestawu, który łączy **akcję, zabawę i markową jakość LEGO**®, ten model będzie strzałem w dziesiątkę. To produkt, który nie tylko cieszy podczas składania, ale też długo nie nudzi się po zakończeniu budowy. **Kupując ten zestaw, dajesz dziecku więcej niż klocki — dajesz mu misję ratowania dnia razem ze Spider-Manem.**
-
-**Mały spoiler dla niezdecydowanych:** z takim zestawem nawet Doc Ock nie zdąży uciec, bo ten zakup wpada do koszyka szybciej niż pajęcza sieć!
-
-❔ Dlaczego warto kupić zestaw w naszym sklepie:
-
-☑️ Oferujemy tylko fabrycznie nowe, oryginalne zestawy LEGO®, zapewniając autentyczne doznania podczas zabawy.
-
-☑️ Zdjęcia nr 5 i 6 przedstawiają zestaw w rzeczywistości.
-
-☑️ Zakupione zestawy są pakowane z najwyższą starannością.
-
-☑️ Stosujemy wypełniacze, folie bąbelkowe i karton, tak aby produkt dotarł do adresata w nienaruszonym stanie.
-
-☕ Zachęcamy do zapoznania się z naszymi innymi aukcjami, gdzie znajdą Państwo wiele innych fantastycznych zestawów LEGO®.
-
-❤️ Dziękujemy za zaufanie i życzymy udanych zakupów!
+- 10361-1: https://a.allegroimg.com/original/1168f9/26af61004989ace27ff890298be7
+- 10361-2: https://a.allegroimg.com/original/1164f0/44ab7940472bb01680da40c76ebd
 
 ---
 
-## 2022 — Briksmax Zestaw Oświetleniowy Led dla Lego Ford Gt 2022 42154
+## 21170 — LEGO MINECRAFT Dom w Kształcie Świni 21170
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 345.57 zł · EAN: 05901705141218 · in stock*
-
-Zestaw Oświetlenia LED BRIKSMAX dla LEGO Technic Ford GT 2022 (42154)
-
-Ożyw swój model LEGO Technic Ford GT 2022
-
-Zestaw oświetleniowy BRIKSMAX został specjalnie zaprojektowany, aby przekształcić model LEGO Technic Ford GT 2022 (42154) z statycznego obiektu w dynamiczną ekspozycję. Dodaje **nowego wymiaru** wizualnego, sprawiając, że kultowy pojazd ożywa dzięki subtelnemu lub wyrazistemu podświetleniu. Dzięki niemu Twój model Forda GT z pewnością przyciągnie wzrok, niezależnie od tego, czy jest prezentowany na półce, czy w gablocie.
-
-Precyzyjny design i bezpieczne materiały
-
-Konstrukcja zestawu oświetleniowego BRIKSMAX kładzie nacisk na estetykę i bezpieczeństwo. Użyte **bezpieczne i niezawodne materiały** gwarantują trwałość, a starannie rozmieszczone światła oraz **ukryte linie** pozwalają na stworzenie doskonałego efektu wyświetlania. To idealne rozwiązanie dla kolekcjonerów, którzy pragną dodać swoim zestawom LEGO więcej szczegółów i realizmu, bez zakłócania oryginalnego wyglądu modelu.
-
-Prosty i intuicyjny montaż
-
-Instalacja zestawu oświetleniowego BRIKSMAX jest niezwykle przystępna i nie wymaga specjalistycznych umiejętności. W celu ułatwienia całego procesu, dołączono **szczegółową instrukcję krok po kroku**, która prowadzi użytkownika przez każdy etap montażu. Dzięki temu każdy może cieszyć się przyjemnym procesem samodzielnego dopasowywania oświetlenia do swojego modelu LEGO, uzyskując profesjonalny efekt końcowy.
-
-Najważniejsze cechy
-
- 
-- Zaprojektowany specjalnie dla **LEGO Technic Ford GT 2022 (42154)**.
- 
-- Ożywia model, zmieniając jego wygląd z ciemnego na jasny.
- 
-- Wykonany z **bezpiecznych i niezawodnych materiałów**.
- 
-- Zawiera różnorodne światła oraz system **ukrywania przewodów**.
- 
-- Umożliwia **łatwy montaż** dzięki dołączonej instrukcji krok po kroku.
- 
-- Doskonały dodatek dla **kolekcjonerów modeli**.
- 
-- Zasilanie **na baterie**.
-
-Specyfikacja
-
- 
-- **Marka:** BRIKSMAX
- 
-- **Przedział wiekowy:** Dorosły
- 
-- **Nazwa modelu:** Zestaw oświetlenia LED dla Lego Technic Ford GT 2022
- 
-- **Nazwa zestawu:** BRIKSMAX Lampa LED 42154
- 
-- **Producent:** BRIKSMAX
- 
-- **Numer części:** BX568
- 
-- **Numer modelu:** 42154
- 
-- **Kolor:** Niebieski
- 
-- **Motyw:** Pojazd
- 
-- **Styl:** Nowoczesny
- 
-- **Wymiary przedmiotu (opakowania):** 16,5 x 12 x 4 cm
- 
-- **Liczba sztuk:** 500
- 
-- **Materiał:** Tworzywo sztuczne
- 
-- **Funkcje specjalne:** Na baterie
-
-Zawartość zestawu
-
- 
-- Zestaw diod LED i niezbędnych komponentów do oświetlenia modelu.
- 
-- Instrukcja montażu krok po kroku.
-
----
-
-## 21170 — Oświetlenie Led do Lego 21170 Minecraft Dom w Kształcie Świni zestaw
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 149.00 zł · EAN: 05904285686087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21170 |
+| Nazwa angielska | The Pig House |
+| Nazwa polska | LEGO MINECRAFT Dom w Kształcie Świni 21170 |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913880, 5904285686087, 5905919761859 |
 
 ⭐️ Oświetlenie LED do LEGO 21170 Minecraft Dom w Kształcie Świni zestaw ⭐️
 
@@ -1405,240 +1003,169 @@ Zawartość zestawu
 
 Oferta dotyczy wyłącznie zestawu oświetleniowego (model LEGO nie jest częścią aukcji)
 
----
+**Galeria:**
 
-## 21188 — Zestaw Zamiennik Oświetlenia Kompatybilny Do Zestawu Lego 21188
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 115.99 zł · EAN: 00840111509142 · in stock*
-
-ZESTAW ZAMIENNIK OŚWIETLENIA KOMPATYBILNY DO ZESTAWU LEGO 21188
-
-**Produkt nowy**
-
-**Opis produktu**
-
-- Nasz zestaw oświetleniowy został zaprojektowany do zestawu  21188 (nie zawiera zestawu) Dzięki temu zestawowi oświetleniowemu Twój model stanie się bardziej żywy i kolorowy!
-
-- CIESZ SIĘ PROCESEM INSTALACJI - Ty/Twoje dzieci możecie napotkać pewne trudności podczas instalacji, stracić cierpliwość i chcieć się poddać, po prostu ich zachęcaj, sukces należy do wytrwałych. W razie jakichkolwiek pytań daj nam znać!
-
-- ŁATWY W INSTALACJI - Dołączona elektroniczna instrukcja obsługi pomoże Ci szybko zainstalować produkt! Jeśli jesteś początkującym, postępuj zgodnie z instrukcjami krok po kroku. Dzięki temu zaoszczędzisz mnóstwo czasu na instalacji!
-
-- ŚWIETNY PREZENT IDEALNY - Jeśli Twoi znajomi/dzieci/wnuki mają ten model, wyślij go jako prezent urodzinowy lub świąteczny. Nie tylko sprawi, że ich model będzie bardziej żywy, ale także będą mogli pokazać go swoim znajomym. Wyobraź sobie, jak bardzo będą szczęśliwi, gdy otrzymają zestaw świetlny!
+- 21170-1: https://a.allegroimg.com/original/11b71a/170c6604464cbddd82913145e8bc
+- 21170-2: https://a.allegroimg.com/original/1160df/8f07a06d4130ae5bc6ee3b2b5efe
+- 21170-3: https://a.allegroimg.com/original/118be0/cac80dae4d6d87a6d4e30073bcec
 
 ---
 
-## 21189 — Zestaw oświetlenia Led Lego P40001 21189 – podświetlenie do klocków
+## 21265 — LEGO MINECRAFT 21265 STÓŁ WARSZTATOWY
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 39.09 zł · EAN: 00750264772051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21265 |
+| Nazwa angielska | The Crafting Table |
+| Nazwa polska | LEGO MINECRAFT 21265 STÓŁ WARSZTATOWY |
+| Seria | Minecraft |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 15 cm × gł. 15 cm |
+| EAN | 4037906869505, 5702017583419 |
 
-Zestaw oświetlenia LED LEGO P40001 21189 to idealne rozwiązanie dla miłośników budowania z LEGO, którzy chcą efektownie podkreślić swoje modele. Prosty montaż i energooszczędna technologia LED sprawią, że Twoja konstrukcja zyska nowy wymiar i niepowtarzalny charakter.
+**PRODUCENT**: LEGO
+ 
+**WIEK DZIECKA**:+18 LAT
+ 
+**ILOŚĆ ELEMENTÓW**: 1195
 
-Zestaw oświetlenia LED LEGO P40001 21189 został stworzony z myślą o entuzjastach klocków LEGO, którzy chcą nadać swoim budowlom niepowtarzalnego blasku. Precyzyjnie wykonane elementy oświetleniowe doskonale dopasowują się do oryginalnych klocków, zapewniając dyskretną i estetyczną instalację.
+**Uczcij kreatywność gry Minecraft® dzięki temu zestawowi konstrukcyjnemu LEGO® dla dorosłych stworzonemu z okazji 15. rocznicy popularnej gry komputerowej. **W zestawie LEGO® Minecraft® Stół warsztatowy (21265) znajdują się znane biomy, ulubione mobyi ukryte niespodzianki, które dorośli fani gry mogą odkrywać i eksponować w modelu.
+ 
+Model przedstawia kultowy stół warsztatowy z gry. Wewnątrz znajduje się pięć minimodułów zawierających 12 biomów z Minecrafta, w tym tajgę z jaskinią naciekową, równiny z wioską, lodowe kolce z igloo, wiśniowy gaj z opuszczonym szybem kopalnianym i mroczną głębię z obszerną jaskinią. W zestawie jest też osiem mikrofigurek: Steve, Alex, szkielet, wiedźma, Creeper™, osadnik, krowa i świnia. Minimodele i mikrofigurki można usunąć z głównego modelu, aby eksponować model na różne sposoby. Z przodu modelu można umieścić naklejki z hasłami z gry. Budowanie ułatwi cyfrowa wersja instrukcji w aplikacji LEGO Builder.
 
-Energooszczędne diody LED gwarantują długotrwałe użytkowanie – bez konieczności częstej wymiany zasilania. Zestaw doskonale wpisuje się w kategorię elektroniki, łącząc zaawansowaną technologię z kreatywną zabawą.
+ 
+- Model LEGO® Minecraft® dla dorosłych — zestaw konstrukcyjny Stół warsztatowy został stworzony z okazji 15. rocznicy powstania popularnej gry wideo dla dorosłych fanów i doświadczonych konstruktorów 
+- Zestaw z biomami Minecrafta® — obejmuje 12 biomów: mroczna głębia, bujna jaskinia, bagno, równiny, las, wiśniowy gaj, pustynia, tajga, śnieżna tajga, jaskinia naciekowa, lodowe kolce i rzeka 
+- Model z gry Minecraft® do zbudowania i postawienia na półce — pięć minimodeli i osiem mikrofigurek (Steve,Alex, szkielet, wiedźma, Creeper™, osadnik, krowa i świnia) można usunąć z modelu, co zapewnia wiele możliwości ekspozycji 
+- Zestaw LEGO® oparty na grze komputerowej — zawiera szczegółowe podziemne scenerie, naklejki z hasłami z gry oraz ukryte niespodzianki, które stanowią satysfakcjonujące wyzwanie dla dorosłych fanów i doświadczonych konstruktorów 
+- Pomysł na prezent dla dorosłych fanów Minecrafta® — podaruj dorosłym ten zestaw klocków LEGO® stworzony z okazji 15. rocznicy popularnej gry komputerowej 
+- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu 
+- Inne zestawy dla dorosłych — ten model do zbudowania należy do serii zestawów LEGO® dla dorosłych, zaprojektowanych z myślą o satysfakcjonującym wyzwaniu i odprężeniu dla konstruktorów 
+- Buduj i ustawiaj na półce — zestaw składa się z 1195 elementów i ma 14 cm wysokości, 15 cm szerokości i 15 cm głębokości
 
-**Najważniejsze cechy i funkcje:**
+**Galeria:**
 
-- **Dedykowany do LEGO P40001 21189** – idealne dopasowanie do modeli z tej serii
-- **Energooszczędne diody LED** – wydajne oświetlenie przy niskim poborze energii
-- **Prosty montaż** – intuicyjne połączenie bez konieczności użycia narzędzi
-- **Dyskretne elementy** – nie ingerują w wygląd modelu LEGO
-- **Bezpieczne użytkowanie** – komponenty zaprojektowane z myślą o dzieciach i dorosłych
-
-**Zastosowanie / przeznaczenie:**
-
-Zestaw oświetlenia LED przeznaczony jest do podświetlania modeli LEGO P40001 21189. Doskonale sprawdzi się jako efektowny dodatek do kolekcji, podczas wystaw, prezentacji lub zabawy, podkreślając detale i nadając budowli wyjątkowy klimat.
-
-**Przewagi i korzyści:**
-
-- Unikalne **podświetlenie modeli LEGO** sprawia, że budowla staje się bardziej realistyczna
-- **Łatwy montaż** oszczędza Twój czas i pozwala cieszyć się efektem od razu po podpięciu
-- Energooszczędność to **dłuższa praca bez ładowania** i niższe koszty użytkowania
-- Kompaktowa konstrukcja pozwala zachować estetykę i funkcjonalność modelu
-- **Zwiększa atrakcyjność kolekcji** podczas prezentacji lub ekspozycji
-
----
-
-## 21265 — Oświetlenie Led do Lego 21265 Stół Rzemieślniczy Światła Zestaw Yeabricks
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 119.99 zł · EAN: 04037906869505 · in stock*
-
-Oświetlenie LED YEABRICKS do zestawu klocków 21265 Stół Rzemieślniczy
-
-Chcesz, aby Twój model ożył po zmroku i stał się prawdziwą ozdobą pokoju?
-
-Zestaw oświetleniowy LED marki YEABRICKS (model LLK681) to dedykowane akcesorium stworzone specjalnie dla kultowego zestawu 21265. Precyzyjnie dopasowane diody i ukryte przewody podkreślą każdy pikselowy detal konstrukcji, nadając jej niesamowity, trójwymiarowy klimat.
-
-⚠️ WAŻNA INFORMACJA: Przedmiotem sprzedaży jest WYŁĄCZNIE dedykowany zestaw oświetlenia LED.
-
-**Oferta NIE ZAWIERA zestawu klocków 21265 "Stół rzemieślniczy" widocznego na zdjęciach poglądowych.**
-
-Kupujesz **akcesorium świetlne**, a nie klocki.
-
-Dlaczego warto wybrać oświetlenie YEABRICKS dla modelu 21265?
-
-- **Projekt 1:1 pod model 21265: **Każda mikro-dioda LED ma swoje ściśle określone miejsce w konstrukcji Stołu Rzemieślniczego. Światła idealnie eksponują ukryte wewnątrz biomy i jaskinie.
-- **Niewidoczne okablowanie: **Niezwykle cienkie przewody bez problemu ukryjesz pomiędzy klockami zestawu 21265, dzięki czemu nie psują one estetyki zbudowanego modelu.
-- **Bezpieczne zasilanie USB: **System działa na niskim napięciu 5V. Światła możesz zasilić z powerbanku, portu USB w komputerze lub zwykłej ładowarki do telefonu.
-- **Spektakularny efekt:** Starannie dobrane barwy światła idealnie komponują się z klimatem klocków, tworząc zachwycający efekt iluminacji zarówno w dzień, jak i w nocy.
-
-Prosty montaż bez niszczenia konstrukcji
-
-Montaż oświetlenia YEABRICKS nie wymaga lutowania ani modyfikacji klocków. Cały proces polega na intuicyjnym przeplataniu przygotowanych przewodów i wpinaniu modułów w istniejącą strukturę modelu 21265. Interaktywną instrukcję krok po kroku uruchomisz w prosty sposób na swoim smartfonie (kod QR znajduje się wewnątrz opakowania).
-
-Specyfikacja techniczna produktu:
-
-**Producent: **YEABRICKS
-
-**Kod produktu / Model:** LLK681
-
-**Kompatybilność: **Dedykowane wyłącznie do zestawu klocków 21265
-
-**Typ zasilania:** USB (napięcie maks. 5V) lub dołączony koszyk na baterie
-
-**Stan: **Nowy
+- 21265-1: https://a.allegroimg.com/original/11eec4/c5c445d144e48ad25ec90f9db895
+- 21265-2: https://a.allegroimg.com/original/119c3a/3437177b447db0891da075730b36
 
 ---
 
-## 21330 — Oświetlenie Led Do Klocków kompatybilne 21330 Kevin sam w domu
+## 21323 — Fortepian
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 248.89 zł · EAN: 05905630704388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21323 |
+| Nazwa angielska | Grand Piano |
+| Nazwa polska | Fortepian |
+| Seria | Ideas |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3662 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22,5 cm × szer. 30,5 cm × gł. 35,5 cm |
+| EAN | 5702016756401, 6917986876151 |
 
-OŚWIETLENIE LED DO KLOCKÓW kompatybilne z 21330 Kevin sam w domu
+Znajdź chwilę dla siebie i daj koncert kreatywności, budując świetny fortepian LEGO® Ideas do grania pięknej muzyki lub postawienia na półce. Ten nowatorski model ma silnik i działające klawisze. Podłącz go do aplikacji LEGO Powered UP i naciskaj klawisze samodzielnie albo posłuchaj muzyki odtwarzanej automatycznie. Nie ma na co czekać! Łap klocki i zacznij budowę arcydzieła LEGO!
+ 
+Niezwykły fortepian LEGO Ideas to spełnienie marzeń fanów LEGO® — dzięki aplikacji LEGO Powered Up zobaczysz i usłyszysz, jak gra!
 
-Uwaga! Produkt to same oświetlenie, bez klocków.
+Czy pasjonujesz się muzyką? W wolnym czasie lubisz się zrelaksować, własnoręcznie realizując różne ciekawe projekty? Jeśli odpowiedź na te pytania jest twierdząca, to model fortepianu z zestawu LEGO® Ideas 21323 dostarczy Ci mnóstwa kreatywnej zabawy.Do grania i ozdoby.
+ 
+Samodzielne zbudowanie z klocków wyjątkowego fortepianu koncertowego to z pewnością powód do dumy! Podczas budowania odtworzysz realistyczne szczegóły — klawisze uruchamiające młoteczki, poruszający się pedał, otwartą nakrywkę z podpórką oraz pokrywę klawiatury.
+ 
+Zrób sobie chwilę wolnego, by z przyjemnością zbudować z klocków LEGO muzyczne dzieło sztuki, które może być ozdobą Twojego domu lub biura. Model należy do serii zestawów konstrukcyjnych LEGO dla dorosłych i świetnie nadaje się na prezent urodzinowy lub gwiazdkowy — możesz podarować go znajomemu muzykowi, pianiście lub hobbiście... albo zatrzymać dla siebie.
 
-**Dlaczego warto kupić ten produkt**
+ 
+- Orkiestra, tusz! Przedstawiamy pierwszy na świecie otwierany fortepian LEGO®! Poczuj przyjemność z samodzielnego zbudowania modelu fortepianu koncertowego LEGO, który na dodatek pozwala grać muzykę dzięki aplikacji LEGO Powered Up. 
+- Fortepian LEGO® Ideas (21323) ma odłączaną klawiaturę z 25 klawiszami, realistycznie działające młoteczki, ruchome tłumiki i pedał oraz silnik. Dzięki aplikacji LEGO Powered Up możesz zagrać na nim samodzielnie lub automatycznie. 
+- Realistyczne detale tego zaawansowanego modelu to prawdziwa radość dla oczu — jest tam górna nakrywa, którą można podeprzeć jak w prawdziwym fortepianie koncertowym, otwierana pokrywa klawiatury, nóżki z kółkami oraz ławeczka, której wysokość można ustawić. 
+- Masz ochotę na kreatywny projekt do samodzielnego zbudowania? Ten liczący 3662 elementy model będzie w sam raz. Zrób sobie chwilę wolnego, by zmierzyć się z satysfakcjonującym wyzwaniem, zapomnieć o stresach i zapewnić sobie zastrzyk energii. 
+- Zamknięty fortepian ma ok. 22,5 cm wysokości, 30,5 cm szerokości i 35,5 cm głębokości. Może być elegancką ozdobą domu lub biura albo świetnym prezentem dla muzyka, melomana, pianisty lub hobbisty. 
 
-✅ **Efektowne podświetlenie modelu** – nadaje konstrukcji wyjątkowego klimatu i podkreśla każdy detal
+ 
+- Wybierz autoodtwarzanie albo funkcję odtwarzania użytkownika, aby samodzielnie naciskać klawisze. 
+- Zestaw zawiera przejrzyście napisane instrukcje, dzięki którym nawet nowicjusze w świecie LEGO® poradzą sobie z budowaniem i będą się przy tym świetnie bawić. Jest tam także broszura w formacie albumu zawierająca rozmaite informacje i przedstawiająca sylwetkę fana, który zaprojektował zestaw z fortepianem. 
+- Ten model LEGO® Ideas należy do serii inspirujących zestawów, które są przeznaczone dla dorosłych hobbistów ceniących sobie pasjonujące projekty do samodzielnego wykonania. 
+- Klocki LEGO® już od 1958 r. spełniają najwyższe standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
+- Klocki i elementy LEGO® są rygorystycznie testowane pod kątem zgodności z normami bezpieczeństwa i jakości. 
 
-✅ **Stworzony do konkretnego modelu** – idealnie dopasowane elementy zapewniają estetyczny i spójny efekt końcowy
+Sprzedaję moją kolekcję Lego zbieraną przez wiele lat.
 
-✅ **Prosty montaż krok po kroku** – instrukcja ułatwia instalację nawet osobom bez doświadczenia
+Zestawy są w stanie kolekcjonerskim, opakowania w idealnym stanie.
 
-✅ **Zasilanie na wiele sposobów** – możliwość podłączenia do USB lub użycia baterii zwiększa wygodę użytkowania
+Proszę zobaczyć moje pozostałe ogłoszenia.
 
-✅ **Bezpieczne napięcie 5V** – gwarantuje bezpieczne użytkowanie bez ryzyka przegrzania
+Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogorszonym (folia bąbelkowa plus dodatkowy karton)
 
-✅ **Świetna zabawa DIY** – rozwija kreatywność i pozwala samodzielnie ulepszyć swój model
+W razie wątpliwości proszę pisać lub dzwonić.
 
-**Specyfikacja**
+**Galeria:**
 
-➡️ **Przeznaczenie**: zestaw oświetlenia do modelu 21330
-
-➡️ **Typ oświetlenia**: LED
-
-➡️ **Napięcie**: 5 V
-
-➡️ **Zasilanie**: USB lub baterie
-
-➡️ **Materiał przewodów**: miedź
-
-➡️ **Elementy zestawu**: moduły LED + przewody + zasilanie
-
-➡️ **Montaż**: samodzielny (DIY)
-
-**➡️ Zestaw oświetlenia został zaprojektowany specjalnie z myślą o dopasowaniu do konkretnego modelu**, dzięki czemu wszystkie elementy idealnie współgrają z jego konstrukcją. Instalacja nie wpływa negatywnie na wygląd ani stabilność budowli, a wręcz podkreśla jej detale i strukturę. To rozwiązanie pozwala uzyskać profesjonalny efekt bez konieczności modyfikowania samego modelu.
-
-➡️** Produkt oferuje wyjątkowe efekty świetlne, które całkowicie zmieniają sposób prezentacji modelu po zmroku. **Dzięki równomiernemu rozproszeniu światła każdy element konstrukcji staje się bardziej widoczny i atrakcyjny wizualnie. To idealne rozwiązanie dla osób, które chcą wyróżnić swoją kolekcję i nadać jej nowego charakteru.
-
-➡️** Montaż zestawu jest prosty i intuicyjny dzięki szczegółowym instrukcjom, które prowadzą użytkownika krok po kroku przez cały proces.** Nawet osoby bez doświadczenia w instalacji oświetlenia poradzą sobie bez większych trudności. To sprawia, że produkt jest dostępny dla szerokiego grona użytkowników.
-
-**➡️ Możliwość wyboru sposobu zasilania zapewnia dużą elastyczność w użytkowaniu oraz dopasowanie do różnych warunków. **Zestaw można podłączyć do portu USB lub zasilać bateriami, co pozwala na swobodne ustawienie modelu w dowolnym miejscu. To praktyczne rozwiązanie zarówno do domu, jak i ekspozycji.
-
-**➡️ Wysokiej jakości przewody miedziane oraz zastosowane zabezpieczenia gwarantują długotrwałe i bezpieczne użytkowanie.** Konstrukcja została zaprojektowana tak, aby ograniczyć ryzyko przegrzewania i zapewnić stabilne działanie przez długi czas. To ważna cecha dla osób ceniących niezawodność.
-
-**➡️ Zestaw nie tylko poprawia wygląd modelu, ale także zapewnia dodatkową formę rozrywki **poprzez samodzielny montaż i personalizację. Proces instalacji daje satysfakcję oraz pozwala jeszcze bardziej zaangażować się w hobby modelarskie. To doskonałe połączenie funkcjonalności i kreatywnej zabawy.
-
----
-
-## 21335 — Oświetlenie do Lego Zmechanizowana latarnia 21335 Ideas
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05905413616105 · in stock*
-
-Oświetlenie do LEGO Zmechanizowana latarnia 21335 Ideas
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 21323-1: https://a.allegroimg.com/original/114c01/18d5224e4efbb2f76611c2fdd5ee
+- 21323-2: https://a.allegroimg.com/original/256052/cca193724d5287a446dc6ae4e337
 
 ---
 
-## 21344 — Zestaw oświetlenia do Lego Ideas Pociąg Orient Express 21344
+## 21330 — Home Alone
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05905413616815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21330 |
+| Nazwa angielska | Home Alone |
+| Nazwa polska | Home Alone |
+| Seria | Ideas |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 3955 |
+| Cena katalogowa | 1299.99 zł |
+| Wymiary złożonego | wys. 27 cm × szer. 34 cm × gł. 37 cm |
+| EAN | 5702017006178, 5905220305018, 5905630704388, 653341786203 |
 
-Zestaw oświetlenia do LEGO Ideas Pociąg Orient Express 21344
+Sięgnij po zestaw LEGO® Ideas Sam w domu (21330), by jeszcze raz przeżyć sceny z komedii, przy której w każde święta zaśmiewały się całe rodziny. Dom McCallisterów jest pełen elementów, które natychmiast rozpoznasz, oraz wspaniałych funkcji, które ułatwiają odgrywanie zabawnych scenek. W zestawie jest wszystko, co potrzebne do pokazania sceny udawanej imprezy świątecznej Kevina, a także piwniczny piec ze świecącym klockiem LEGO, funkcja upuszczania żelazka, kołyszące się puszki z farbami, zapadające się półki, lina ze strychu do domku na drzewie i wiele innych szczegółów. Każdy poziom domu można odłączyć, a ściany i dach otwierają się, by łatwiej było sięgnąć do środka.
+ 
+Najlepszy prezent na Boże Narodzenie W pudełku czeka na Ciebie pięć minifigurek LEGO — Kevin McCallister, jego mama Kate McCallister, złodziejaszki Harry i Marv oraz sąsiad „Old Man” Marley. Do tego w środku znajdziesz furgonetkę Harry’ego Marva z łomem i policyjną czapką w środku. To największy jak dotąd zestaw LEGO Ideas — liczy aż 3957 elementów! Z tego powodu klocki zostały podzielone na woreczki zgodnie z fabułą filmu, więc można połączyć budowanie z odtwarzaniem filmowej historii.
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+ 
+- Z zestawem LEGO® Sam w domu (21330) powspominasz uwielbiany przez całą rodzinę świąteczny film komediowy. W środku znajdziesz model domu McCallisterów, domek na drzewie i furgonetkę złodziejaszków. To świetna zabawka, która może też stać się ozdobą Twojej kolekcji. 
+- Zestaw z filmową pamiątką do zbudowania z klocków to fajny pomysł na świąteczny prezent dla milenialsów, którzy lubią film „Kevin sam w domu”. W zestawie pięć minifigurek LEGO®: Kevin McCallister, Kate McCallister, Harry, Marv i „staruszek” Marley. 
+- Ściany i dach domu otwierają się, pozwalając na łatwy dostęp do wnętrza, gdzie kryje się wiele zabawnych funkcji, w tym huśtające się puszki z farbami. Jest tam także piec w piwnicy, który świeci, oraz dźwignia, dzięki której Kevin może zjechać po schodach na swoich sankach. 
+- W każdym pokoju i we wnętrzu furgonetki znajdziesz detale, które ożywiają wspomnienie najzabawniejszych scen. Bardzo ważna jest też lina, po której Kevin może uciec do domku na drzewie. 
+- Budowanie tego zestawu to doskonała świąteczna rozrywka dla całej rodziny, a mierzący ok. 27 cm wysokości, 34 cm szerokości i 37 cm głębokości model może stać się ozdobą bożonarodzeniowej kolekcji. 
+- Klocki są zapakowane w 24 woreczki, co pozwala budować w zgodzie z fabułą filmu. W zestawie jest bateria LR41 do zasilania świecącego klocka LEGO® w piecu. 
+- Model liczy 3957 elementów i zawiera ilustrowaną broszurkę, z której dowiesz się więcej o filmie „Kevin sam w domu” oraz o fanie i projektantach LEGO®, którzy stworzyli ten zestaw. Są tam także szczegółowe instrukcje budowania, dzięki którym składanie klocków będzie fascynującą i satysfakcjonującą zabawą. 
+- Ten kolekcjonerski zestaw dla dorosłych jest częścią emocjonującej serii modeli LEGO® Ideas stworzonych przez fanów, wybranych głosami tysięcy miłośników LEGO oraz wyprodukowanych przez Grupę LEGO. 
+- Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają. I tak jest niezmiennie od 1958 r. 
+- Klocki i elementy do budowania LEGO® są poddawane gruntownym testom. Dzięki temu mamy pewność, że każdy zestaw LEGO spełnia rygorystyczne światowe standardy bezpieczeństwa.
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+**Galeria:**
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 21330-1: https://a.allegroimg.com/original/115bbf/538c3b8c431f84410647650bf872
+- 21330-2: https://a.allegroimg.com/original/11d4d5/1871150242b4a2e33075f626fddc
+- 21330-3: https://a.allegroimg.com/original/1164f6/c61421b84a249168072f3406c355
+- 21330-4: https://a.allegroimg.com/original/051204/a239c76c4da3a16373132aac3797
 
 ---
 
-## 21356 — Zestaw oświetlenia do Lego Ideas Parowiec rzeczny 21356
+## 21356 — Parowiec rzeczny
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 399.00 zł · EAN: 05907213510829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21356 |
+| Nazwa angielska | River Steamboat |
+| Nazwa polska | Parowiec rzeczny |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 4090 |
+| Cena katalogowa | 1399.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017829234, 5907213510829 |
 
 Zestaw oświetlenia do LEGO IDEAS Parowiec rzeczny 21356
 
@@ -1676,131 +1203,107 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
----
+**Galeria:**
 
-## 21357 — Zestaw oświetlenia do Lego Ideas Disney Pixar Luxo Jr. 21357
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213510720 · in stock*
-
-Zestaw oświetlenia do LEGO IDEAS Disney Pixar Luxo Jr. 21357
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 21356-1: https://a.allegroimg.com/original/11d0eb/1667904b4871bab893adaaa8d237
+- 21356-2: https://a.allegroimg.com/original/11ae83/546bd8e54575b616c916765c4b1c
 
 ---
 
-## 21358 — Oświetlenie Led do Lego Ideas Maszyna z minifigurkami 21358
+## 21357 — LEGO Ideas 21357 Disney Pixar Luxo Jr.
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05907213510768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21357 |
+| Nazwa angielska | Disney Pixar Luxo Jr. |
+| Nazwa polska | LEGO Ideas 21357 Disney Pixar Luxo Jr. |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 613 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017829241, 5907213510720 |
 
-Oświetlenie LED do LEGO IDEAS Maszyna z minifigurkami 21358
+Klocki LEGO Ideas 21357 Luxo Jr. Disney Pixar 613 el. dla dorosłych
 
-**WERSJA Z PILOTEM**
+Zbuduj własną wersję uroczej i zabawnej postaci z pierwszego filmu animowanego CGI, który kiedykolwiek został nominowany do Oscara, dzięki zestawowi kolekcjonerskiemu LEGO® Ideas | **Disney Pixar Luxo Jr.** (21357) dla dorosłych. Zmontowany model wystawowy świetnie sprawdzi się jako dekoracja gabinetu i jest w pełni ruchomy, podobnie jak podskakująca i obracająca się postać filmowa, która była dla niego wzorem. **Zestaw** zawiera również składaną piłkę Disney Pixar, którą można otworzyć, aby odkryć ukryte linki do ulubionych filmów Disney Pixar: W górę w chmury, Niesamowite, Ratatouille, Potwory s.r.o., Toy Story i Szuka Nemo.
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO wyjątkowy klimat
+Ten zestaw filmowy z klocków stanowi nostalgiczny prezent dla fanów studia Disney Pixar, którzy podziwiają to, jak te filmy wprowadzają ludzkie ruchy i emocje w nieożywione przedmioty. Luxe Jr. można nawet wystawić stojącego na piłce, jakby go wydmuchiwał, tak jak w krótkim filmie z 1986 roku.
 
-**Ważne: Zestaw klocków LEGO nie jest dołączony !**
+Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO Builder, która poprowadzi Cię przez Twoją kreatywną podróż.
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO
+**Specyfikacje**
+ 
+ 
+- Kolekcjonerski, ruchomy model wystawowy Luxo Jr. dla dorosłych 
+- Luxo Junior skacze, odbija się i obraca 
+- Piłka do zbudowania Pixar jest pełna odniesień do filmów Disney Pixar Studios 
+- Wyświetl Luxe Jr. stojącego na wciśniętej piłce Pixar 
+- Nostalgiczny pomysł na prezent dla mężczyzn, kobiet i miłośników filmów od studia Disney Pixar 
+- Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO® Builder 
+- Zestawy LEGO® Ideas są projektowane i wybierane przez fanów 
+- Model ma ok. 29 cm wysokości 
+- Liczba elementów: 613 
+- Nadaje się od 18 lat
 
-**Wydobądź więcej ze swojego zestawu LEGO.**
+**Galeria:**
 
-Dzięki zastosowaniu super wytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO.
-
-Podkreśl każdy detal swojego LEGO – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
-32sP
-
----
-
-## 21359 — Zestaw oświetlenia do Lego Ideas Włoska riwiera 21359
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510935 · in stock*
-
-Zestaw oświetlenia do LEGO IDEAS Włoska riwiera 21359
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 21357-1: https://a.allegroimg.com/original/115596/aee4cfcb4779a405aca3d0c9ae1c
+- 21357-2: https://a.allegroimg.com/original/297897/d7eef29f45719c02ca40e66e3130
 
 ---
 
-## 2438 — Sztuka Pikselowa Mleczna – Zestaw Klocków 2438 Elementów Do Budowania
+## 21359 — Włoska riwiera
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 76.99 zł · EAN: 00734932815165 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21359 |
+| Nazwa angielska | Italian Riviera |
+| Nazwa polska | Włoska riwiera |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 34 cm × gł. 31 cm |
+| EAN | 5702017829272, 5907213510935 |
+
+Odtwórz ponadczasowe piękno Włoskiej Riwiery dzięki temu zestawowi konstrukcyjnemu dla dorosłych LEGO® Ideas (21359). Ten zachwycający prezent dla miłośników włoskiej kultury, kolekcjonerów LEGO i każdego, kto pasjonuje się podróżami, architekturą i historią, oddaje sielską atmosferę, żywe kolory i misterne detale architektoniczne typowej liguryjskiej wioski rybackiej.
+ 
+Podnieś dachy i górne piętra trzech budynków, aby zobaczyć bardzo szczegółowe wnętrza. Dodaj 10 minifigurek LEGO, aby stworzyć realistyczne sceny: rybaka w łodzi na Morzu Śródziemnym, włoską nonnę pokazującą wnukowi, jak zrobić makaron trofie i focaccię, odwiedzającego krytyka kulinarnego próbującego lokalnej kuchni, kierowczynię skutera i… małego kociaka jedzącego skradzioną rybę w zaułku! Ten kolekcjonerski zestaw konstrukcyjny LEGO Ideas zawiera 3251 elementów.
+
+ 
+- Zestaw modeli architektonicznych dla dorosłych — uchwyć urok malowniczej i kolorowej wioski rybackiej na Włoskiej Riwierze dzięki temu szczegółowemu modelowi LEGO® Ideas do zbudowania i ozdoby 
+- ) i kierowczyni skutera, a także dwie figurki kotów 
+- Prezent dla dorosłych miłośników włoskiej kultury — spraw sobie przyjemność lub podaruj ten zestaw konstrukcyjny innym kreatywnym dorosłym, którzy uwielbiają podróże, włoską kulturę, architekturę i historię, lub zapalonym kolekcjonerom LEGO® 
+- Instrukcje budowania w 3D — ciesz się każdym etapem budowania dzięki aplikacji LEGO® Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów i zapisywanie wszystkich zestawów w jednym miejscu 
+- Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
+- Ozdoba we włoskim stylu — ten zestaw z wioską LEGO® Ideas składający się z 3251 elementów ma ponad 23 cm wysokości, 34 cm szerokości i 31 cm głębokości. Z pewnością doda Twojemu wnętrzu odrobinę śródziemnomorskiego stylu
+
+**Galeria:**
+
+- 21359-1: https://a.allegroimg.com/original/11eb0a/384bd9c44c72877d5967df390c19
+- 21359-2: https://a.allegroimg.com/original/11b069/fa0e908b47628f0de5db3fe5caab
+
+---
+
+## 2438 — Big Western Set
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2438 |
+| Nazwa angielska | Big Western Set |
+| Nazwa polska | — |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 1998 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 734932815165, 734932965174 |
 
 **Zabawka drewniana Galaxy Picture Frame to nie tylko kreatywny zestaw klocków, ale także piękna dekoracja do domu lub biura.**
 
@@ -1835,11 +1338,28 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 
 **⭐DZIĘKUJĘ BARDZO! Życzę Ci szczęśliwego życia!💖**
 
+**Galeria:**
+
+- 2438-1: https://a.allegroimg.com/original/11ab37/2763293d404c8d5a3096766c8184
+- 2438-2: https://a.allegroimg.com/original/11fa35/3672017e4a0186bc8b12943a11c0
+
 ---
 
-## 30184 — Lego Creator 30184 Dwuwirnikowy Helikopter Misb 2013 saszetka wycofana
+## 30184 — Little Helicopter
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702014966482 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30184 |
+| Nazwa angielska | Little Helicopter |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014966482 |
 
 Witam
 
@@ -1861,11 +1381,27 @@ Woreczek jest w stanie wyśmienitym, bez ubytków, pęknięć czy przetarć. Pro
 
 Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego produktu, tzn. nigdy nie są to ilustracje producenta lub stockowe.
 
+**Galeria:**
+
+- 30184-1: https://a.allegroimg.com/original/11b453/fbd2dcc14fe4941e8a5f92173423
+
 ---
 
-## 30197 — Nowy Lego Creator 30197 Bałwan zima bałwanek Misb 2014
+## 30197 — Snowman
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 127.99 zł · EAN: 05702015122733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30197 |
+| Nazwa angielska | Snowman |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122733 |
 
 Cześć!
 
@@ -1883,105 +1419,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
----
+**Galeria:**
 
-## 31136 — 31136 Lego Creator Egzotyczna papuga
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 177.99 zł · EAN: 05907213510201 · in stock*
-
-⭐31136 - LEGO Creator - Egzotyczna papuga⭐
-
-Egzotyczna Papuga
-
-✅Zapraszamy Cię na niesamowitą podróż do tropikalnych rajów z zestawem **LEGO Creator - Egzotyczna papuga (31136).**
-
-✅Ten kolorowy zestaw to doskonała zabawa dla miłośników przygód w **dżungli i zwierząt**. Teraz możesz stworzyć własną **egzotyczną papugę**, która wylądowała prosto z dzikiej przyrody do Twojego pokoju!
-
-Idealna na Prezent!
-
-**✅Egzotyczny Design:** Zestaw zawiera elementy** potrzebne do stworzenia pięknej, wielobarwnej papugi** o wyrazistym wyglądzie. Jej jaskrawe kolory, długie ogony i wyraziste oczy **zachwycą każdego miłośnika natury.**
-
-**✅Kreatywna Zabawa:** LEGO Creator to nie tylko zestaw do złożenia, to także **możliwość kreatywnej zabawy.** Dzięki różnym klockom i elementom, możesz **eksperymentować z różnymi wersjami papugi** lub dodać własne pomysły do projektu.
-
-**✅Edukacyjne Aspekty:** Ten zestaw nie tylko zapewnia rozrywkę, ale również** uczy o zwierzętach i ich środowisku.** To doskonała okazja do rozmów o ochronie przyrody i ekologii.
-
-Ruchoma papuga
-
-✅Ptak **obraca się na gałęzi** i porusza skrzydłami i ogonem.
-
-Pływająca ryba
-
-✅Ryba** unosi płetwy** i pływa w górę i w dół.
-
-Hop do zabawy!
-
-✅Można **poruszać kończynami** kolorowej żaby.
-
-➡️Maluchy** składają trzy ruchome modele zwierząt**, aby potem bawić się nimi bez końca.
-
-Zestaw idealny do zabawy i nauki
-
-**✅Wspaniała Ozdoba:** Gotowa papuga będzie **doskonałą ozdobą** w pokoju lub na półce. **Przyciągnie** **uwagę** swoim wyjątkowym wyglądem i kolorami.
-
-**✅Idealny Prezent:** LEGO Creator - Egzotyczna papuga to **doskonały** prezent dla dzieci i dorosłych. **Sprawdzi się na urodzinach, świętach czy innych okazjach.**
-
-Niesamowity zestaw
-
-**✅Dzięki zestawowi LEGO® Creator 3 w 1** Egzotyczna papuga (31136) mali budowniczowie i wielbiciele zwierząt w wieku od siedmiu lat wybiorą się w** emocjonującą podróż do lasu deszczowego**.
-
-✅Zawiera on **kolorową papugę, która może obracać ciało**, siedząc na gałęzi, a także poruszać skrzydłami i ogonem.
-
-**✅Trzy zabawki w jednym zestawie do kreatywnej zabawy**
-
-✅Zestaw 3 w 1 umożliwia dzieciom** zbudowanie trzech różnych egzotycznych zwierząt**. Mogą stworzyć kolorową papugę siedzącą na gałęzi lub zmienić ją w rybę morską albo żabkę z ruchomymi nogami.
+- 30197-1: https://a.allegroimg.com/original/119f9e/660e76cb4b8293d317bb81e61e1a
 
 ---
 
-## 31212 — Zestaw oświetlenia do Lego Art Droga Mleczna 31212 (bez Lego)
+## 31214 — Sztuka 31214 MIŁOŚĆ
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 389.00 zł · EAN: 05907213510171 · in stock*
-
-Zestaw oświetlenia do LEGO ART Droga Mleczna 31212
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 31214 — 31214 Lego Art Love
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 517.99 zł · EAN: 05907213510584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31214 |
+| Nazwa angielska | LOVE |
+| Nazwa polska | Sztuka 31214 MIŁOŚĆ |
+| Seria | Pozostałe |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 791 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814698, 5907213510584 |
 
 ⭐31214 - LEGO Art - LOVE⭐
 
@@ -2029,11 +1486,27 @@ Wciągający projekt konstrukcyjny
 
 **➡️Zrelaksuj** się przy **modelu zaprojektowanym** z pasją.
 
+**Galeria:**
+
+- 31214-1: https://a.allegroimg.com/original/118845/f291762e44bcaf044c9185a9250e
+- 31214-2: https://a.allegroimg.com/original/056670/875bf7ff46708f663f70bc988608
+
 ---
 
-## 40573 — Zestaw oświetlenia do Lego Choinka 40573
+## 40573 — LEGO Iconic 40573 Choinka
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05905413616310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40573 |
+| Nazwa angielska | Christmas Tree |
+| Nazwa polska | LEGO Iconic 40573 Choinka |
+| Seria | Seasonal |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 784 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241937, 5905413616310, 5906040658117 |
 
 Zestaw oświetlenia do LEGO Choinka 40573
 
@@ -2071,59 +1544,28 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
----
+**Galeria:**
 
-## 40588 — Oświetlenie Led do Lego Doniczka Flowerpot 40588
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 139.00 zł · EAN: 00074594826384 · in stock*
-
-Oświetlenie LED do Lego Doniczka Flowerpot 40588
-
-**Łatwy montaż-** Zaprojektowany specjalnie z myślą o kompatybilności z doniczką Lego 40588. Wszystkie diody LED emitują spójny strumień światła, a złącza kablowe są dobrze dopasowane. Nasz profesjonalny zespół oświetleniowy zapewnia instrukcje krok po kroku w formie filmów instruktażowych lub plików PDF, które ułatwią Ci instalację.
-
-**Ciesz się kreatywną zabawą DIY- **Nasz zestaw oświetlenia LED do doniczek zapewnia jasne oświetlenie, pozwalając Ci odpocząć od zabieganego życia i na nowo cieszyć się piękną nocą. Zestaw jest idealny dla entuzjastów modelarstwa, którzy chcą samodzielnie ulepszyć swoje klocki i uczynić swoje modele bardziej zaawansowanymi, jednocześnie ciesząc się zabawą DIY.
-
-- **Wiele opcji zasilania-** W zestawie znajduje się kabel USB i etui na baterie. Diody LED do lampy 40588 można zasilać za pomocą powerbanku, ładowarki, portu USB, laptopa lub innego urządzenia podłączonego przez USB. Można ich również używać z baterią (bateria nie jest dołączona).
-- **Bezpieczne w użyciu- **Nasz zestaw lampek dekoracyjnych do doniczek wykonany jest z wysokiej jakości przewodów miedzianych i wyposażony w zabezpieczenie przed przegrzaniem i poparzeniem, co wydłuża jego żywotność. Niskie napięcie 5 V zapewnia bezpieczniejsze użytkowanie.
-
-- **Idealny prezent i zachwycająca ekspozycja-** Te lampki LED to wspaniały prezent urodzinowy, świąteczny, noworoczny, z okazji Dnia Dziecka, ukończenia szkoły, Święta Dziękczynienia i Walentynek dla każdego miłośnika modelarstwa. Mogą one jasno oświetlić klocki w ciemności, tworząc uroczą ozdobę w salonie wystawowym, na półce lub na stole.
+- 40573-1: https://a.allegroimg.com/original/11bf8b/f83944e84f108f5dd15a2118eedf
+- 40573-2: https://a.allegroimg.com/original/11a526/089d9a494267936012c8d97dc9b4
+- 40573-3: https://a.allegroimg.com/original/05869d/5639b20e4296af65d9d255c8b9d7
 
 ---
 
-## 40638 — Lego Icons 40638 Ozdoba w kształcie serca
+## 40819 — Up-Scaled Racing Driver Minifigure
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 79.99 zł · EAN: 05906361140087 · in stock*
-
-LEGO® Okolicznościowe 40460 - Róże / Heart Ornament
- 
-Nr katalogowy: **40638**
- 
-Adresowany dla wieku: **9+ lat**
- 
-ilość elementów:** 254**
- 
-Dostępne od ręki.
-
-Klocki LEGO Okolicznościowe 40638 - Ozdoba w kształcie serca
- 
-Rozwijaj kreatywność dzieci w wieku od dziewięciu lat, wręczając im ten piękny zestaw LEGO® Ozdoba w kształcie serca (40638). Po zbudowaniu serce może stanowić dekorację domu lub biura na Walentynki, Dzień Matki, Dzień Ojca i na inne okazje. Zestaw zawiera 254 elementy, w tym wieszak i dodatkowe akcesoria do personalizacji serca. W instrukcji budowania i na opakowaniu znajdują się dwa obrazki, które mogą stanowić inspirację. Ozdoba może być przemyślanym prezentem na wiele okazji.
-
- 
-- **Niech żyje miłość** – starsze dzieci, które lubią przemyślane dekoracje, mogą zbudować zestaw LEGO® **Ozdoba w kształcie serca** (40638) **i powiesić go w oknie, na ścianie, na drzwiach lub podarować ukochanej osobie** 
- 
- 
-- **Możliwość personalizacji – serce można ozdobić dołączonymi klockami na Walentynki** i inne okazje.** Dwa obrazki stanowią inspirację** i **pobudzają** dziecięcą** kreatywność** 
- 
- 
-- Wymiary – serce z wieszakiem ma **19 cm** wysokości i **20 cm** szerokości. To k**reatywny prezent** na Walentynki, Dzień Matki, Dzień Ojca i inne okazje 
-
-Dzięki Tobie świat produkuje mniej odpadów.
-
----
-
-## 40819 — Lego 40819 Minifigurki Duża minifigurka kierowcy wyścigowego
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 297.99 zł · EAN: 05702017830766 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40819 |
+| Nazwa angielska | Up-Scaled Racing Driver Minifigure |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 694 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830766 |
 
 Klocki LEGO Minifigurki 40819 - Duża minifigurka kierowcy wyścigowego
 
@@ -2157,299 +1599,72 @@ Zestaw LEGO Minifigurki - Duża minifigurka kierowcy wyścigowego trafił do s
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
----
+**Galeria:**
 
-## 40820 — Zestaw oświetlenia do Lego Powiększona minifigurka Świętego Mikołaja #40820
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213511086 · in stock*
-
-Zestaw oświetlenia do LEGO Powiększona minifigurka Świętego Mikołaja #40820
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 40819-1: https://a.allegroimg.com/original/1182c0/cb9b11444fa09e52749877c744e2
 
 ---
 
-## 40867 — Zestaw oświetlenia do Lego Love Litery pełne miłości #40867
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213511055 · in stock*
-
-Zestaw oświetlenia do LEGO LOVE Litery pełne miłości #40867
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 40955 — Lego 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702018071182 · in stock*
-
-LEGO Kontenerowiec z napędem Dual Fuel Maersk
-
-LEGO Kontenerowiec z Napędem Dual-Fuel Maersk 40955 to szczegółowy zestaw konstrukcyjny przedstawiający nowoczesny kontenerowiec ANE MÆRSK. Model został przygotowany z myślą o nastolatkach i dorosłych miłośnikach statków, transportu morskiego oraz kolekcjonerskich konstrukcji LEGO. Zestaw wyróżnia się realistycznym wyglądem, charakterystyczną kolorystyką Maersk oraz licznymi detalami, które świetnie oddają wygląd współczesnego statku kontenerowego. Konstrukcja zawiera otwieraną sekcję mostka z pomieszczeniami dla załogi, przezroczyste okna maszynowni, wysuwane pomosty po obu stronach oraz kontenery do zbudowania. Do zestawu dołączono także podstawkę ekspozycyjną z tabliczką z nazwą, dzięki czemu gotowy model doskonale prezentuje się na półce lub biurku. LEGO 40955 to ciekawa propozycja dla kolekcjonerów oraz osób szukających efektownego modelu do budowania i ekspozycji.
-
-- **Marka:** LEGO
-
-- **Numer zestawu:** 40955
-
-- **Nazwa modelu:** Kontenerowiec z Napędem Dual-Fuel Maersk
-
-- **Odwzorowany statek:** ANE MÆRSK
-
-- **Liczba elementów:** 1516
-
-- **Zalecany wiek:** Od 12 lat
-
-- **Rok premiery:** 2026
-
-- **Wymiary modelu:** 60 × 12 × 18 cm
-
-- **Otwierana sekcja mostka:** Tak
-
-- **Pomieszczenia załogi:** Tak
-
-- **Widoczna maszynownia:** Tak, przezroczyste okna
-
-- **Wysuwane trapy:** Tak, po obu stronach
-
-- **Kontenery do zbudowania:** Tak
-
-- **Podstawka ekspozycyjna:** Tak
-
-- **Tabliczka z nazwą:** Tak
-
-- **Minifigurki:** Brak
-
-- **Baterie:** Niewymagane
-
----
-
-## 42100 — Briksmax Zestaw oświetlenia Led Do zestawu lego 42100 N889
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 245.00 zł · EAN: 00781621990832 · in stock*
-
-BRIKSMAX
-
-Zestaw oświetleniowy LED
-
-do L e g o  Technic Liebherr Bagger R 9800, 42100 - bez zestawu klocków
-
-Informacje o tym produkcie
-
-- Zaprojektowany z myślą o 42100. Dzięki temu zestawowi oświetleniowemu możesz zmienić swoją koparkę Technic Liebherr R 9800 z ciemnego na jasny, aby ożyła.
-
-**Należy pamiętać, że dostarczane są wyłącznie diody LED.**
-
-W skład zestawu wchodzą: oświetlenie punktowe, płytki rozszerzeń, kable połączeniowe, uchwyt na baterie (baterie nie są dołączone), kwadratowe naklejki i instrukcja.
-
-Dzięki instrukcji krok po kroku (może nie być dostępna w języku polskim) znajdziesz łatwiejszy sposób na duże ulepszenie swojego ulubionego zestawu budowlanego.
-
-32g1
-
----
-
-## 42110 — Zestaw oświetlenia do Lego Land Rover Defender 42110 Technic (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 259.00 zł · EAN: 05905220305414 · in stock*
-
-Zestaw oświetlenia do LEGO Land Rover Defender 42110 Technic
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 42151 — Zestaw oświetlenia Led BrickBling do Lego 42151 Technic Bugatti Bolide
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 169.00 zł · EAN: 08720453160800 · in stock*
-
-Dedykowany zestaw oświetlenia LED do
-
-Lego 42151 Technic Bugatti Bolide
-
-(bez Lego)
-
-- Łatwy w instalacji: specjalnie zaprojektowany do zestawu LEGO 42151 Technic Bugatti Bolide. Wszystkie diody LED mają jednolity obraz światła, a złącza kablowe dobrze do siebie pasują. Instrukcje instalacji wideo krok po kroku są dostarczane przez nasz profesjonalny zespół lekkich konstruktorów, aby pomóc Ci w instalacji.
-
-- Ciesz się kreatywną zabawą w majsterkowanie: nasz zestaw świateł LED do Bugatti Bolide LEGO zapewnia jasne oświetlenie, dzięki czemu możesz odpocząć po intensywnym życiu i odzyskać piękną noc. Zestaw oświetleniowy jest idealny dla miłośników modeli Lego, aby osobiście ulepszać swoje klocki i ulepszać modele, jednocześnie ciesząc się zabawą z majsterkowania.
-
-- Wiele opcji zasilania: pakiet jest dostarczany z kablem USB i pojemnikiem na baterie. Diody LED w zestawie LEGO 42151 można zasilać z powerbanku/ładowarki ściennej/gniazda USB/laptopa/innego urządzenia z portem USB. Można go również używać z baterią (bateria nie jest dołączona).
-
-- Bezpieczeństwo dzięki doświadczeniu: Nasz dekoracyjny zestaw oświetleniowy do modeli samochodów sportowych LEGO Bugatti Bolide jest wykonany z wysokiej jakości przewodników miedzianych, które są wyposażone w ochronę przed przegrzaniem i spalaniem, co może wydłużyć ich żywotność. Niskie napięcie 5 V zapewnia bezpieczniejsze wrażenia.
-
-- Idealne prezenty i uroczy wyświetlacz: te światła byłyby świetnym prezentem urodzinowym, boże narodzenie, nowy rok, dzień dziecka, ukończenie szkoły, święto dziękczynienia, prezent walentynkowy dla każdego entuzjasty budowania modeli.
-
-32sS
-
----
-
-## 42161 — Oświetlenie Briksmax Kompatybilny z BX603 Lamborghini Huracan 42161
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 248.99 zł · EAN: 00781791002229 · in stock*
-
-Zestaw oświetlenia LED GEAMENT kompatybilny z Lamborghini Huracán (Huracan) Tecnica - Zestaw oświetleniowy do Technic 42161 (Zestaw modeli nie jest dołączony)
+## 40820 — Up-Scaled Santa Minifigure
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40820 |
+| Nazwa angielska | Up-Scaled Santa Minifigure |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 761 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017831015, 5907213511086 |
+
+LEGO ICONIC - Powiększona minifigurka Świętego Mikołaja 40820
  
+
+- Producent **LEGO ** 
+- Kod producenta **LEGO 40820 ** 
+- Przedział wiekowy **Od 10 lat ** 
+- Płeć **Chłopiec, Dziewczynka ** 
+- Ilość elementów **761 ** 
+- Wymiary **ok. 27 cm (wysokość figurki) ** 
+- Waga **1.07 kg **
+
+Ho, ho, ho! Ta fajna świąteczna figurka LEGO napełni radością każdy dom. **Zestaw LEGO Powiększona minifigurka Świętego Mikołaja (40820) ** to świetny sposób na to, aby dziesięciolatki i starsze dzieci poczuły ducha gwiazdki. Zawiera minifigurkę LEGO Świętego Mikołaja w większej skali, która będzie stanowiła atrakcyjną ozdobę.
  
-- Wszystkie zestawy LEGO pokazane na zdjęciach i filmach nie są dołączone. 
-- Łatwy w instalacji. Do każdego zestawu oświetleniowego dołączona jest prosta instrukcja obsługi. Następnie postępuj zgodnie z instrukcjami, aby pobrać szczegółową instrukcję instalacji w formacie PDF. Wystarczy postępować zgodnie z instrukcjami, aby zainstalować krok po kroku. 
-- 💎 Profesjonalne rozwiązanie oświetleniowe dla Twoich klocków LEGO. Rolą tego produktu jest rozświetlenie Twojego LEGO, co będzie bardzo fajne i sprawi, że Twoje LEGO będzie wyjątkowe 
-- 💎 Większość zdjęć, które widziałeś, to oryginalne obrazy, które nie zostały upiększone. Możemy całkowicie upiększyć zdjęcia, ale mamy nadzieję, że pozwolimy Ci zobaczyć najbardziej realistyczny efekt. 
+Podobnie jak tradycyjna minifigurka, ten model ma ruchome ręce i można go ustawić w pozycji siedzącej lub stojącej. Zbuduj ozdobną figurkę Świętego Mikołaja w klasycznym czerwonym stroju i czapce. Nie zabrakło oczywiście jego roześmianych oczu i białej brody. Posadź lub postaw model Świętego Mikołaja na półce lub stole, aby stworzyć niezwykłą dekorację i wprowadzić wszystkich w świąteczny nastrój. Ten zestaw to**świetny prezent pod choinkę dla dzieci i dorosłych. ** Idealnie uzupełni też domowe dekoracje i będzie cieszyć oko rok po roku.**Zestaw zawiera 761 elementów. **
+ 
 
-Zestaw Oświetleniowy LED do Lamborghini Huracán Tecnica 42161
+- Figurka świąteczna dla dzieci w wieku od 10 lat - wprowadź magię świąt do każdego domu dzięki temu zestawowi LEGO Powiększona minifigurka Świętego Mikołaja do zbudowania 
+- Figurka Świętego Mikołaja do ozdoby - posadź lub postaw model Świętego Mikołaja na półce lub stole, aby stworzyć wspaniałą dekorację świąteczną 
+- Charakterystyczne cechy Świętego Mikołaja - czerwono-biała kolorystyka tego modelu LEGO wnosi świąteczną atmosferę do każdego domu, a jako dekoracja figurka będzie cieszyć oko przez cały zimowy okres 
+- Świąteczna dekoracja do zbudowania - dzieci, dorośli i osoby lubiące gwiazdkę będą się świetnie bawić, budując figurkę Świętego Mikołaja i tworząc efektowną ozdobę 
+- Prezent świąteczny, który cieszy rok po roku - ten zestaw świąteczny LEGO to kreatywny prezent dla dzieci lub każdego, kto uwielbia gwiazdkę i świąteczne dekoracje 
+- Odkryj więcej ciekawych postaci - sprawdź inne zestawy z minifigurkami LEGO w powiększonej skali (sprzedawane osobno), które stanowią ciekawe ozdoby do domu lub biura 
+- Wymiary - ten 761-elementowy zestaw zawiera figurkę Świętego Mikołaja o wysokości 27 cm
 
-Ożyw swój model
+**Galeria:**
 
-Zestaw oświetleniowy BRIKSMAX został zaprojektowany specjalnie z myślą o modelu klocków Lego Technic Lamborghini Huracán Tecnica 42161. Pozwala na przekształcenie modelu z ciemnego w jasny, dodając mu życia i wyrazistości.
-
-Doskonałe rzemiosło i innowacyjny design
-
-Dzięki bezpiecznym i niezawodnym materiałom, a także zastosowaniu różnych świateł i ukrytych przewodów, efekt prezentacji modelu staje się bardziej doskonały. To idealny dodatek dla kolekcjonerów, którzy chcą wzbogacić swoje zestawy o dodatkowe detale.
-
-Łatwa instalacja
-
-Dołączona instrukcja krok po kroku ułatwia proces montażu DIY, czyniąc go przyjemnym i prostym. Z łatwością przeprowadzisz znaczące ulepszenie swojego ulubionego zestawu budowlanego.
-
-Szczegóły produktu
-
-Źródło światła: LED
-
-Źródło zasilania: Na baterie (brak w zestawie)
-
-Maksymalna moc światła: 400 Lumenów
-
-Typ montażu: Montaż powierzchniowy
-
-Funkcje specjalne źródła światła: Zmieniające kolory, efekty świetlne
-
-Liczba źródeł światła: 4
-
-Kolor: Zielony
-
-Kształt elementu: Prostokąt
-
-Typ wykończenia: Malowane
-
-Styl: Luksusowe motoryzacje
-
-Materiał: Tworzywo sztuczne
-
-Masa elementu: 209 Gramy
-
-Okres dostępności części zamiennych w UE: 3 Lata
-
-Uwaga
-
-Zestaw zawiera wyłącznie oświetlenie LED. Wszelkie zestawy LEGO widoczne na zdjęciach lub filmach nie są dołączone.
-
-Informacje o produkcie
-
-Marka: BRIKSMAX
-
-Numer modelu: 42161
-
-Nazwa zestawu: Lamborghini Huracn Tecnica
-
-Numer części: BX603
+- 40820-1: https://a.allegroimg.com/original/111dba/e62aba0b4f4ab47b0516b28ce928
+- 40820-2: https://a.allegroimg.com/original/1160f0/4d5d948f4641832ec438d415e919
 
 ---
 
-## 4217 — Zestaw oświetlenia do Lego Technic Planeta Ziemia i Księżyc 4217 (bez Lego)
+## 4217 — Playdesk and Bricks
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4217 |
+| Nazwa angielska | Playdesk and Bricks |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5907213510119 |
 
 Zestaw oświetlenia do LEGO Technic Planeta Ziemia i Księżyc na orbicie 42179
 
@@ -2486,246 +1701,214 @@ Czy instalacja jest trudna? Nie! Nawet osoby bez doświadczenia technicznego za
 
 Zdjęcia od naszych klientów:
 
----
+**Galeria:**
 
-## 42177 — Zestaw oświetlenia do Lego Technic Mercedes-Benz G 500 Line 42177
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510065 · in stock*
-
-Zestaw oświetlenia do LEGO Technic Mercedes-Benz G 500 PROFESSIONAL Line 42177
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 4217-1: https://a.allegroimg.com/original/1197b1/5665125944b5bff5bc31b784183e
 
 ---
 
-## 42210 — Zestaw oświetlenia do Lego Technic Samochód Nissan Skyline Gt-r (R34) 42210
+## 42210 — Technic 42210 2 Szybcy i wściekli Samochód Nissan Skyline GT-R (R34)
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 259.00 zł · EAN: 05907213510751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42210 |
+| Nazwa angielska | 2 Fast 2 Furious Nissan Skyline GT-R (R34) Car |
+| Nazwa polska | Technic 42210 2 Szybcy i wściekli Samochód Nissan Skyline GT-R (R34) |
+| Seria | Technic |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1410 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816333, 5907213510751 |
 
-Zestaw oświetlenia do LEGO TECHNIC Samochód Nissan Skyline GT-R (R34) 42210
+Naciśnij pedał na podłogę z zestawem samochodowym dla fanów filmów Szybcy i wściekli. Zestaw LEGO® Technic 2 Fast 2 Furious (42210) **Samochód Nissan Skyline GT-R** **(R34)** dla dorosłych jest pełen zabawnych funkcji, które oddają ducha tego kultowego samochodu.
+ 
+**Zbuduj** autentyczne detale modelu, takie jak układ kierowniczy oraz przednie i tylne zawieszenie. Zajrzyj pod maskę i zobacz 6-cylindrowy silnik z ruchomymi tłokami. Dostosuj skrzydło i wypróbuj pierwszą w historii funkcję dryfowania w zestawach LEGO Technic, która podnosi samochód, dzięki czemu możesz przypomnieć sobie imponujące manewry z ulubionych scen wyścigowych. Otwórz drzwi i usiądź na fotelu kierowcy z 3 butelkami NOS. Ten zestaw to nieoczywisty element wystawy i wspaniały prezent dla fanów samochodów z filmów Szybcy i wściekli.
+ 
+Drukowana instrukcja jest dołączona do opakowania, a cyfrową wersję instrukcji można również znaleźć w aplikacji LEGO Builder.
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+**Specyfikacje**
+ 
+ 
+- Zestaw samochodowy z filmu Szybcy i wściekli dla dorosłych 
+- Szczegóły modelu obejmują układ kierowniczy, zawieszenie, regulowane skrzydło i 3 NOS 
+- Funkcja dryfowania samochodu podnosi samochód, dzięki czemu można wykonywać zabawne manewry 
+- Zbuduj szczegóły samochodu, takie jak 6-cylindrowy silnik z ruchomymi tłokami 
+- Kreatywny prezent dla dorosłych, którzy kochają przyciągające wzrok projekty i modele samochodów 
+- W aplikacji LEGO® Builder znajdziesz cyfrową wersję instrukcji budowania 
+- Wzbogacający zestaw pojazdów LEGO® Technic dla dorosłych (sprzedawany oddzielnie) 
+- Model samochodu LEGO® Technic ma ponad 41 cm długości 
+- Liczba elementów: 1410 
+- Nadaje się od 18 lat
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+**Galeria:**
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 42221 — Zestaw oświetlenia do Lego Technic Rakieta Sls Nasa Artemis #42221
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05907213511017 · in stock*
-
-Zestaw oświetlenia do LEGO TECHNIC Rakieta SLS NASA Artemis #42221
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 42210-1: https://a.allegroimg.com/original/115976/0e9f1e1b4d77947c00127025eede
+- 42210-2: https://a.allegroimg.com/original/2974b0/85fdf52a4ea4b3621d48e3445a91
 
 ---
 
-## 43008 — Lampka Led BrickBling kompatybilna z klockami Lego Nike Dunk 43008
+## 42221 — Děti: Hračky: Stavebnice: LEGO: Sady: Technic: Název sady; LEGO Technic 42221
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.99 zł · EAN: 05906623334889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 42221 |
+| Nazwa angielska | NASA Artemis Space Launch System Rocket |
+| Nazwa polska | Děti: Hračky: Stavebnice: LEGO: Sady: Technic: Název sady; LEGO Technic 42221 |
+| Seria | Technic |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 632 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018067499, 5907213511017 |
 
-- Idealny do samodzielnego budowania. 
-- Inteligentne sterowanie dotykowe – Łatwe włączanie/wyłączanie oświetlenia i regulacja jasności jednym dotknięciem. Bez konieczności używania przełączników. 
-- Bezpieczne i stabilne zasilanie – Wymaga napięcia wejściowego 5 V/2 A. Niska emisja ciepła zapewnia długotrwałe użytkowanie. 
-- Tylko instrukcja cyfrowa – brak instrukcji papierowych. Łatwy dostęp do przewodnika konfiguracji online. 
+LEGO TECHNIC
 
-W4 0800
+Rakieta SLS NASA Artemis
 
-W4 3806
+42221
 
-W4 2579
+Wyrusz w odkrywczą podróż dzięki zestawowi z Rakietą SLS NASA Artemis (42221) dla chłopców, dziewczynek i dzieci w wieku od dziewięciu lat.
 
----
+Zestaw edukacyjny LEGO® Technic przedstawia moment startu rakiety w trzech etapach. Obróć korbką, aby zobaczyć, jak rakiety nośne odłączają się od stopnia głównego, który następnie również się odłącza. Kontynuuj obracanie, aby obejrzeć odłączenie górnego stopnia wraz z modułem silnika, statkiem kosmicznym Orion i systemem ratunkowym. Ten zestaw z rakietą do zbudowania został opracowany we współpracy z NASA i ESA. Dzięki temu dzieci mogą poznać system startowy, który wyśle statek kosmiczny Orion na orbitę księżycową. Zestaw zawiera cztery nanofigurki astronautów, ciekawe detale w postaci niebieskich płomieni oraz tabliczkę informacyjną, dzięki której można stworzyć atrakcyjną ozdobę.
 
-## 43249 — Zestaw oświetlenia do Lego Disney Stitch 43249 (bez Lego)
+**Ten zestaw konstrukcyjny LEGO Technic to świetny prezent dla miłośników kosmosu. Dzieci mogą budować z pewnością siebie, korzystając z aplikacji LEGO Builder, w której można powiększać modele, obracać je w 3D i śledzić postępy dzięki prostym instrukcjom cyfrowym. Zestaw składa się z 632 elementów.**
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05905413616914 · in stock*
+Cechy zestawu:
 
-Zestaw oświetlenia do LEGO Disney Stitch 43249
+- **Zbuduj system startowy** — uchwyć moment startu rakiety dzięki zestawowi LEGO® Technic Rakieta SLS NASA Artemis (42221) dla chłopców, dziewczynek i dzieci w wieku od dziewięciu lat
+- **Odtwórz proces odłączania stopni** — ten edukacyjny zestaw pokazuje, jak rakieta rozdziela się podczas startu, gdy dzieci obracają korbką, aby zobaczyć start w trzech odrębnych etapach
+- **Stworzone we współpracy z NASA** — ten zestaw z rakietą do zbudowania został opracowany we współpracy z NASA i ESA. Dzięki temu dzieci mogą poznać system startowy, który wyśle statek kosmiczny Orion na orbitę księżycową
+- **Cztery nanofigurki astronautów** — ten kosmiczny zestaw LEGO® Technic zawiera cztery nanofigurki astronautów oraz tabliczkę informacyjną, więc dzieci mogą stworzyć ciekawą dekorację
+- **Pomysł na prezent **— ten zestaw konstrukcyjny LEGO® Technic to świetny prezent dla chłopców, dziewczynek i miłośników kosmosu w wieku od dziewięciu lat, którzy chcieliby zbudować model przedstawiający etapy startu rakiety
+- **Odkryj więcej zestawów** — sprawdź inne ekscytujące zabawki z zestawów LEGO® Technic (sprzedawane osobno), które odzwierciedlają realistyczne ruchy i mechanizmy, by inspirować młodych konstruktorów
+- **Ciekawy sposób na budowanie** — aplikacja LEGO® Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki trójwymiarowym instrukcjom
+- **Wymiary** — zestaw składający się z 632 elementów zawiera model o wysokości 70 cm, długości 16 cm i szerokości 8 cm, gdy rakieta znajduje się na górze.
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+Specyfikacja zestawu:
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+- **Numer katalogowy: **LEGO 42221
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
+- **Seria: **LEGO Technic
 
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+- **Liczba elementów: **632
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+- **Rok wydania: **2026 (1.01.2026)
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+- **Wiek dziecka:** od 9 lat
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+- **Płeć dziecka:** chłopcy i dziewczynki
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+**Galeria:**
 
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 43267 — Oświetlenie Led BrickBling kompatybilne z klockami do Lego 43267
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 99.99 zł · EAN: 06902031852457 · in stock*
-
-Wprowadzenie do produktu
-
-Uwaga: Ten produkt to tylko zestaw oświetlenia LED i nie zawiera modelu LEGO.
-
-Cechy produktu:
-
-【Łatwa instalacja】Zaprojektowany specjalnie do zestawu LEGO Hogwarts Castle and Gardens 76419. Wszystkie diody LED zapewniają jednolity strumień światła, a złącza kablowe są idealnie dopasowane. Nasz profesjonalny zespół oświetleniowy zapewnia szczegółowe instrukcje instalacji w formacie PDF, które ułatwią Ci jej ukończenie.
-
-【Ciesz się kreatywnym majsterkowaniem】Ten zestaw oświetlenia LED do zestawu LEGO Hogwarts Castle and Gardens 76419 zapewnia jasne oświetlenie, które pomoże Ci się zrelaksować i cieszyć pięknym wieczorem pośród zabieganego życia. To idealny wybór dla miłośników modeli LEGO, którzy chcą spersonalizować swoje klocki, ulepszyć swoje modele i cieszyć się zabawą w majsterkowanie.
-
-【Wiele opcji zasilania】Zestaw zawiera kabel USB i komorę baterii. Lampę LED do zestawu LEGO 76419 można zasilać za pomocą powerbanku, ładowarki, portu USB, laptopa lub innego urządzenia podłączonego do USB. Można również używać baterii (sprzedawane oddzielnie).
-
-【Bezpieczne użytkowanie】Ten dekoracyjny zestaw oświetleniowy LEGO Hogwarts Castle and Gardens wykorzystuje wysokiej jakości przewód miedziany i posiada zabezpieczenie przed przegrzaniem i przeciążeniem, co wydłuża jego żywotność. Konstrukcja niskonapięciowa 5 V zapewnia bezpieczne użytkowanie.
-
-【Idealny prezent i piękna ekspozycja】Ta lampa LED to wspaniały prezent dla miłośników modelarstwa, odpowiedni na różne okazje, takie jak urodziny, Boże Narodzenie, Nowy Rok, Dzień Dziecka, ukończenie szkoły, Święto Dziękczynienia i Walentynki.
-
-Jak znaleźć instrukcję instalacji?
-
-Krok 1: Zeskanuj kod QR na opakowaniu, aby wyświetlić elektroniczną instrukcję obsługi.
-
-Krok 2: Zainstaluj zgodnie z elektroniczną instrukcją obsługi.
-
-Lista zawartości opakowania:
-
-1 x zestaw oświetlenia LED
-
-1 x pojemnik na baterie
-
-1 x pudełko prezentowe
+- 42221-1: https://a.allegroimg.com/original/11f931/85d077264237a6e778e66ed6f728
+- 42221-2: https://a.allegroimg.com/original/290b59/aa7e1dc34c67a059ec9fbee11f9e
 
 ---
 
-## 43268 — Oświetlenie Lego Bksmax Domek Lilo I Stich 43268
+## 43249 — Stitch
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 150.00 zł · EAN: 04549586840007 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43249 |
+| Nazwa angielska | Stitch |
+| Nazwa polska | Stitch |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 730 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583624, 5905413616914, 5905567781551 |
 
-**OŚWIETLENIE LEGO BKSMAX DOMEK LILO I STICH 43268**
+LEGO Disney Classic 43249 Stitch
+ 
+Zestaw LEGO® ǀ Disney Stitch (43249) jest interesującym zestawem, który pozwala zbudować postać Stitcha z popularnego filmu Disneya "Lilo i Stitch". Zestaw ten jest przeznaczony dla starszych dzieci oraz fanów filmu, szczególnie tych w wieku od dziewięciu lat wzwyż.
+ 
+Charakterystyczne cechy zestawu:
+ 
+**Postać Stitcha**: Model Stitcha w tym zestawie jest wiernym odwzorowaniem psotnego kosmity z filmu. Jego charakterystyczny wygląd, w tym hawajska koszula, jest odzwierciedlony w zestawie LEGO.
+ 
+**Ruchome elementy**: Zestaw umożliwia ustawienie uszu Stitcha oraz obracanie jego głowy, co dodaje zabawie dynamiki i umożliwia różne pozycje postaci.
+ 
+**Dodatkowe akcesoria**: W zestawie znajdują się również inne elementy, takie jak rożek do lodów oraz kwiat. Kwiat można doczepić do postaci, co dodaje dodatkowego uroku modelowi.
+ 
+**Wartość edukacyjna i zabawa**: Zestaw LEGO® ǀ Disney Stitch jest nie tylko ozdobą, ale także oferuje wartość edukacyjną poprzez rozwijanie umiejętności konstruowania i kreatywności. Montaż różnorodnych elementów może być także świetną zabawą dla dzieci, a także sposobem na spędzenie czasu dla fanów filmu.
+ 
+Zestaw ten wydaje się być atrakcyjny zarówno pod względem estetycznym, jak i funkcjonalnym, dostarczając zarówno elementów zabawy, jak i możliwość eksponowania gotowego modelu. Jego charakterystyczne cechy sprawiają, że jest on interesującą propozycją dla fanów "Lilo i Stitcha" oraz miłośników LEGO w różnym wieku.
+ 
+Wymiary — ten 730-elementowy zestaw zawiera figurkę do zbudowania o wysokości 20 cm.
 
-**Doskonałe rzemiosło:** Zgodnie z założeniem bezpiecznego i niezawodnego zastosowania, z różnymi światłami i ukrytymi liniami może sprawić, że efekt wyświetlania modelu będzie bardziej doskonały. Jest to wspaniałe uzupełnienie dla kolekcjonerów modeli, którzy chcą dodać więcej szczegółów do swoich zestawów.
+**Galeria:**
 
-**Łatwa instalacja: **dzięki instrukcji krok po kroku znajdziesz łatwiejszy sposób na cieszenie się przyjemnym procesem DIY i ogromną aktualizację do swojego ulubionego zestawu budowlanego.
-
-**Wskazówka: **zawiera tylko światło LED. Wszystkie zestawy LEGO pokazane na zdjęciach i filmach nie wchodzą w zakres dostawy.
+- 43249-1: https://a.allegroimg.com/original/11c3b0/702daec143b888e748ea3fd4140a
+- 43249-2: https://a.allegroimg.com/original/119e3e/9ece8a8844fb92f146be1b998e16
+- 43249-3: https://a.allegroimg.com/original/11147d/8b6bd80144c79c1c09b9ea06079f
 
 ---
 
-## 4386 — Klocki Ciężarówka Opancerzona Tajfun-WDW K-4386 4×4 Kamaz 4 Figur+lego Broń
+## 43268 — Domek na plaży Lilo i Stitcha
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 165.50 zł · EAN: 05906335580017 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43268 |
+| Nazwa angielska | Lilo and Stitch Beach House |
+| Nazwa polska | Domek na plaży Lilo i Stitcha |
+| Seria | Disney |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 834 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4549586840007, 5702017814575 |
+
+**LEGO Disney Domek na plaży Lilo i Stitcha 43268**
+
+Niesamowite przygody czekają na dziewięcioletnich i starszych fanów podczas zabawy zestawem LEGO® ǀ Disney Domek na plaży Lilo i Stitcha (43268). Model ma dwa piętra i kryje w sobie mnóstwo szczegółów z filmów oraz niespodzianek, w tym dwie deski surfingowe, lalkę Lilo Strupkę, gramofon, słoik, zbudowany z klocków statek kosmiczny, a także pięć minifigurek postaci LEGO ǀ Disney — Davida, Lilo, pana Bąbla, Nani i Stitcha, które gwarantują niekończącą się zabawę.
+
+Ten zestaw konstrukcyjny oferuje starszym dzieciom bardziej złożony model, który inspiruje do zabawy w odgrywanie ról. Można go łączyć z innymi zestawami konstrukcyjnymi LEGO ǀ Disney (sprzedawanymi osobno) i świetnie sprawdzi się jako prezent.
+
+Zarówno dzieci, jak i dorośli fani Disneya będą zachwyceni domkiem, w którym znajdą ulubione postacie. W trakcie budowania mogą skorzystać z intuicyjnej aplikacji LEGO Builder, w której mogą powiększać i obracać modele w 3D, zapisywać zestawy i śledzić postępy.
+
+• Podaruj fanom Disneya zestaw, który inspiruje do niekończącej się twórczej zabawy
+
+• Z domkiem, statkiem kosmicznym zbudowanym z klocków i pięcioma postaciami LEGO® ǀ Disney
+
+• Zestaw konstrukcyjny, który pobudza kreatywność i zachęca do odgrywania ról
+
+• Zestaw stworzony do kreatywnej zabawy, po której można ustawić go na półce
+
+• Fajny zestaw konstrukcyjny dla dziewięciolatków i starszych dzieci, które uwielbiają filmy
+
+• Pobierz aplikację LEGO® Builder, gdzie znajdziesz interaktywne instrukcje budowania w 3D
+
+• Zestawy konstrukcyjne LEGO® ǀ Disney rozwijają umiejętności życiowe przez zabawę
+
+• 834-elementowy zestaw z domem ma 35 cm szerokości
+
+**Galeria:**
+
+- 43268-1: https://a.allegroimg.com/original/1168f9/bc8a7bee4eb89298dc4c3b8ad03e
+- 43268-2: https://a.allegroimg.com/original/1127f4/76cf25ec4368b596b162a2c1f636
+
+---
+
+## 4386 — ?
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4386 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5906335580017 |
 
 Klocki CIĘŻARÓWKA OPANCERZONA Tajfun-WDW K-4386 4×4 Kamaz 4 FIGUR+LEGO BROŃ
 
@@ -2817,11 +2000,26 @@ Dodaj opcję "zapakuj na prezent"
 
 Opłać zakupy a my spakujemy na prezent  przed wysyłką.
 
+**Galeria:**
+
+- 4386-1: https://a.allegroimg.com/original/1126e9/85b8982544c681ac18f340ae74cf
+
 ---
 
-## 4615 — Lego Jack Stone Red Recon Flyer 4615 Unikat Nowy 2002 Rok!
+## 4615 — Red Recon Flyer
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702014154926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4615 |
+| Nazwa angielska | Red Recon Flyer |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2002 |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014154926 |
 
 LEGO Jack Stone 4615 NOWY ZESTAW
 
@@ -2837,19 +2035,51 @@ LEGO Jack Stone 4615 Box to zestaw klocków przeznaczony dla chłopców i dziewc
 
 KARTON JEST W STANIE WIDOCZNYM NA ZDJĘCIACH!
 
+**Galeria:**
+
+- 4615-1: https://a.allegroimg.com/original/11aca5/5caadc1549f9836b9a71d1e4be98
+
 ---
 
-## 4719 — Lego 4719 Harry Potter Zestaw do gry w Quidditcha
+## 4719 — Quality Quidditch Supplies
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702014291515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4719 |
+| Nazwa angielska | Quality Quidditch Supplies |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014291515 |
 
 Zestaw klocków LEGO 4719 Harry Potter Zestaw do gry w Quidditcha™ został pokazany w 2003 roku i zbudowany jest z 120 klocków LEGO®. W klockach znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 4719-1: https://a.allegroimg.com/original/11ad66/80bbf2fd4140945761d39f2b865f
+
 ---
 
-## 5002112 — Lego Friends 5002112 Bransoletki Przyjaźni 2 sztuki
+## 5002112 — Bracelets
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 9.99 zł · EAN: 00673419214346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002112 |
+| Nazwa angielska | Bracelets |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419214346 |
 
 LEGO® Friends
 
@@ -2865,11 +2095,27 @@ WIEK:** 6+**
 
 Fantastyczny prezent dla przyjaciółek. Zestaw składa się z dwóch regulowanych bransoletek, które z łatwością można dopasować do swojej ręki. Do każdej bransoletki doczepiony jest szary klocek. Dzięki dołączonym do zestawu niewielkim elementom każda z dziewczynek może ozdobić swoją bransoletkę u unikatowy sposób. Połączone klocki tworzą swym kształtem serce, na znak przyjaźni i wyjątkowej więzi.
 
+**Galeria:**
+
+- 5002112-1: https://a.allegroimg.com/original/1116aa/c08935854962bf7a6ecae424d8b8
+
 ---
 
-## 5002930 — Lego Friends 5002930 Ozdoba do Włosów Gumka Ozdób Ją Sama Klockami
+## 5002930 — Hair Accessories
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 18.90 zł · EAN: 00673419239691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002930 |
+| Nazwa angielska | Hair Accessories |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239691 |
 
 LEGO FRENDS GUMKA OZDOBA DO WŁOSÓW
 
@@ -2881,11 +2127,26 @@ W zestawie znajdziemy też kolorową gumkę do włosów oraz wstążki.
 
 Wspaniały i oryginalny prezent dla dziewczynki.
 
+**Galeria:**
+
+- 5002930-1: https://a.allegroimg.com/original/11dd9d/9bcf9d1446e582885b8a3c2f0d0d
+
 ---
 
-## 5004914 — Lego Nexo Knights 5004914 Armour Pod Kapsuła saszetka klocki minifigurka
+## 5004914 — Armor Pod
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419274173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004914 |
+| Nazwa angielska | Armor Pod |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274173 |
 
 Witam
 
@@ -2901,11 +2162,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004914-1: https://a.allegroimg.com/original/112c0e/f57633ca4a629058df18df43e5ee
+
 ---
 
-## 5007016 — Lego 5007016 Blaszana tabliczka w stylu retro
+## 5007016 — 1950's Retro Tin Sign
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702017247137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007016 |
+| Nazwa angielska | 1950's Retro Tin Sign |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017247137, 5702017247151 |
 
 LEGO Promocyjne 5007016 - Blaszana tabliczka w stylu retro
 
@@ -2913,11 +2189,26 @@ Zestaw LEGO Promocyjne - Blaszana tabliczka w stylu retro trafił do sprzedaży 
 
 Wymiary 30 x 15 cm.
 
+**Galeria:**
+
+- 5007016-1: https://a.allegroimg.com/original/1165e7/0dec4fcd4adcb52adf0281a0fc49
+
 ---
 
-## 5007331 — Lego 5007331 Retro Lunch Box Aluminiowa Skrzynka Śniadaniowa Nowa
+## 5007331 — Tin Lunchbox
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 69.99 zł · EAN: 05060373574015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007331 |
+| Nazwa angielska | Tin Lunchbox |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373574015 |
 
 **LEGO Metalowa Skrzynka Śniadaniowa Retro Lunch Tin**
 
@@ -2931,11 +2222,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5007331-1: https://a.allegroimg.com/original/1179bd/40217bf4413ab8eea5219b03284a
+
 ---
 
-## 5007789 — Lego Friends 5007789 Notatnik przyjaźni Nowy
+## 5007789 — Friends Best Friends Notebook
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 29.99 zł · EAN: 05060373575050 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007789 |
+| Nazwa angielska | Friends Best Friends Notebook |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373575050 |
 
 LEGO Friends 5007789 Notatnik przyjaźni VIP  / NOWY
 
@@ -2953,11 +2259,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5007789-1: https://a.allegroimg.com/original/110b44/9beeda2f4f84b399da487eec5376
+
 ---
 
-## 5008818 — Lego 5008818 Star Wars Bitwa o Yavin dla kolekcjonerów
+## 5008818 — Battle of Yavin Collectable Coin
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 73.00 zł · EAN: 05060373577160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008818 |
+| Nazwa angielska | Battle of Yavin Collectable Coin |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373577160 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2967,11 +2288,26 @@ Ta unikalna moneta kolekcjonerska przenosi Cię w świat bitwy pod Yavin, gdzie 
 
 Moneta ta to idealny dodatek do kolekcji dla wszystkich fanów Star Wars.
 
+**Galeria:**
+
+- 5008818-1: https://a.allegroimg.com/original/113cb6/db8ee4c5448283216d57683bbe10
+
 ---
 
-## 5008907 — Lego 5008907 Akcesoria Magnes z drewnianą kaczuszką Wooden Duck Magnet Nowy
+## 5008907 — Wooden Duck Magnet
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 99.99 zł · EAN: 05060373577580 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008907 |
+| Nazwa angielska | Wooden Duck Magnet |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373577580 |
 
 Klocki LEGO Akcesoria 5008907 - Magnes z drewnianą kaczuszką
 
@@ -2985,11 +2321,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5008907-1: https://a.allegroimg.com/original/1184f5/b24af55c43369e6ea9c9c1587b46
+
 ---
 
-## 5008908 — Lego 5008908 Akcesoria Magnes retro z serii Kosmos Space Magnet Nowy
+## 5008908 — Retro Space Magnet
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 99.99 zł · EAN: 05060373577603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008908 |
+| Nazwa angielska | Retro Space Magnet |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373577603 |
 
 Klocki LEGO Akcesoria 5008908 - Magnes w stylu retro z serii Kosmos
 
@@ -3003,11 +2354,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5008908-1: https://a.allegroimg.com/original/111942/182cbcca44aa8dd6d5408a26caa2
+
 ---
 
-## 5009045 — Lego 5009045 Chronometr Okrętowy Chronometer klocki zestaw Nowe
+## 5009045 — Chronometer
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017916958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009045 |
+| Nazwa angielska | Chronometer |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 12 m + |
+| Rok wydania | 2024 |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017916958 |
 
 Klocki LEGO Inne 5009045 - Chronometer
 
@@ -3021,11 +2387,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5009045-1: https://a.allegroimg.com/original/117ef3/2e97c0bc46598e728e3a8089b143
+
 ---
 
-## 5010109 — Lego 5010109 Torba z Uszami Królika
+## 5010109 — Bunny Ear Bag
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 39.98 zł · EAN: 05060093911794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5010109 |
+| Nazwa angielska | Bunny Ear Bag |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060093911794 |
 
 LEGO 5010109 Torba z Uszami Królika
 
@@ -3057,11 +2438,26 @@ Gotowa do użycia
 
 Zabierz ją ze sobą gdziekolwiek chcesz i wyróżnij się z tłumu - LEGO 5010109 Torba z Uszami Królika to połączenie funkcjonalności i wyjątkowego stylu.
 
+**Galeria:**
+
+- 5010109-1: https://a.allegroimg.com/original/119ac5/f3bdf6cd4b01aa255dd7abc314d8
+
 ---
 
-## 5010326 — Lego 5010326 Akcesoria Kubek emaliowany z kolekcji Lego Botanicals Nowy
+## 5010326 — Insiders Botanicals Enamel Mug
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 39.99 zł · EAN: 05060093913316 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5010326 |
+| Nazwa angielska | Insiders Botanicals Enamel Mug |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5060093913316 |
 
 Klocki LEGO Akcesoria 5010326 - Kubek z kolekcji LEGO® Botanicals
 
@@ -3075,11 +2471,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5010326-1: https://a.allegroimg.com/original/11f1b8/a972cbe248929b68e8851e59ba73
+
 ---
 
-## 52311 — Zawieszka Lego Movie 2 Sweet Myhem 52311
+## 52311 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 19.99 zł · EAN: 04895028523114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52311 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523114 |
 
 LEGO Zawieszka na bagaż ze Słodką Zadymą z serii THE LEGO MOVIE 2 5005735
  
@@ -3091,19 +2502,49 @@ Fanom filmu LEGO PRZYGODA 2 z pewnością spodoba się zawieszka na bagaż ze S�
 - W zestawie wykonana z elastycznego silikonu zawieszka na bagaż w kształcie Słodkiej Zadymy z filmu LEGO PRZYGODA 2. Zawieszka ma łatwą w użyciu pętelkę, za pomocą której można przymocować ją do bagażu, a na odwrocie miejsce do wpisania danych kontaktowych. 
 - Zawieszka (bez pętelki) ma ok. 8 cm długości.
 
+**Galeria:**
+
+- 52311-1: https://a.allegroimg.com/original/01eda1/0eb210ff4105981278237ac70999
+
 ---
 
-## 52370 — Lego Akcesoria 52370 Staticker Emmet
+## 52370 — Emmet Staticker
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 4.70 zł · EAN: 04895028523701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52370 |
+| Nazwa angielska | Emmet Staticker |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523701 |
 
 Statickersy to ruchome układanki na ścianę, okno, powierzchnie z drewna i metalu. Statickersy przyczepiają się dzięki elektrostatyczności materiału, z którego zostały wykonane. Nie posiadają warstwy kleju, dlatego z łatwością można je przesuwać po oknie lub na ścianie, aranżując dowolne scenki bez uszczerbku dla powierzchni i elementów układanki. Statickersy nie zostawiają bowiem żadnych śladów, stanowiąc beztroską zabawę dla dzieci i dbających o porządek rodziców. Wszystkie wzory statickersów nawiązują do The LEGO® Movie 2™. Statickersy pozwolą udekorować przestrzeń dziecka bohaterami z filmu i od teraz staną się nieodzownym elementem pokoju każdego miłośnika LEGO®.
 
+**Galeria:**
+
+- 52370-1: https://a.allegroimg.com/original/11df8e/674555e54a54975784c89213995f
+
 ---
 
-## 53100 — Lego 53100 Zestaw 10 Długopisów Żelowych
+## 53100 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 79.90 zł · EAN: 04895028531003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53100 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028531003 |
 
 **ZESTAW LEGO**
 
@@ -3127,73 +2568,26 @@ Statickersy to ruchome układanki na ścianę, okno, powierzchnie z drewna i met
 
 **Uwolnij swoją kreatywność dzięki wielokolorowemu zestawowi dziesięciu długopisów żelowych LEGO, z których każdy zawiera dwie oryginalne płytki konstrukcyjne LEGO 1x4 zamontowane na każdej górze i zaprojektowane w systemie skalowania 1:1, dzięki czemu można je łączyć z klockami LEGO, długopisami, piórnikiem, minifigurką lub innymi elementami LEGO.**
 
----
+**Galeria:**
 
-## 60228 — Briksmax Zestaw oświetleniowy Led do klocków 60228
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 140.00 zł · EAN: 00716852280551 · in stock*
-
-Briksmax Zestaw oświetleniowy LED do klocków 60228
-
-Zaprojektowany z myślą o Lego 60228. Dzięki temu zestawowi oświetleniowemu możesz przekształcić swoją rakietę kosmiczną LEGO City z centrum kontroli z ciemnego na jasny, aby ożywić ją w życie.
-
-Należy pamiętać, że dostarczane są tylko diody LED. Wszystkie zestawy LEGO pokazane na zdjęciach nie wchodzą w zakres dostawy.
-
-Do City rakiety kosmicznej z centrum kontrolnym.
-
-Kompatybilny z modelem Lego 60228 - bez zestawu Lego 60228.
-
-Kod produktu BX220.
-
-Certyfikat CE, ASTM.
+- 53100-1: https://a.allegroimg.com/original/117fd4/5db3001f4e5f95407d4b36d6382c
 
 ---
 
-## 60337 — Oświetlenie do Lego City Ekspresowy pociąg pasażerski 60337
+## 6424688 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05905413616419 · in stock*
-
-Oświetlenie do LEGO CITY Ekspresowy pociąg pasażerski 60337
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
-
----
-
-## 6424688 — Lego 6424688 żółta ciężarówka
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017411958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6424688 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017411958 |
 
 LEGO 6424688 żółta ciężarówka
  
@@ -3211,11 +2605,26 @@ O produkcie:
  
 Żółta ciężarówka LEGO to doskonały wybór dla Twojego dziecka.
 
+**Galeria:**
+
+- 6424688-1: https://a.allegroimg.com/original/11aa56/d0127f2b42f3a3ddd43554e2acde
+
 ---
 
-## 70160 — Lego Ultra Agents 70160 Pościg Quadem Klocki Oryginal Nowe Kolekcjonerskie
+## 70160 — Riverside Raid
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 220.31 zł · EAN: 05702015124232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70160 |
+| Nazwa angielska | Riverside Raid |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm × gł. 7 cm |
+| EAN | 5702015124232 |
 
 LEGO Ultra Agents 70160 - Pościg Quadem
 
@@ -3249,11 +2658,26 @@ Ilość klocków:** 88**
 
 - Wymiary ścigacza: 3 cm wysokości, 7 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 70160-1: https://a.allegroimg.com/original/0529d7/07a9a3fc42f78b2adb03a1798319
+
 ---
 
-## 70164 — Klocki Lego Ultra Agents Operacja Huragan 70164
+## 70164 — Hurricane Heist
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702015124270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70164 |
+| Nazwa angielska | Hurricane Heist |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 589 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 40 cm × gł. 16 cm |
+| EAN | 5702015124270 |
 
 LEGO Ultra Agents Operacja Huragan 70164
 
@@ -3295,299 +2719,152 @@ lub 27 cm wysokości, 16 cm długości i 40 cm szerokości po przekształceniu w
 
 **Zestaw nowy, fabrycznie zapakowany, stan bardzo dobry.**
 
+**Galeria:**
+
+- 70164-1: https://a.allegroimg.com/original/11d4f8/6e7c3776481d9681c8dfa65acee8
+
 ---
 
-## 70165 — Lego Ultra Agents Centrala Ultra Agentów 70165
+## 70165 — Ultra Agents Mission HQ
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 1390.00 zł · EAN: 05702015124287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70165 |
+| Nazwa angielska | Ultra Agents Mission HQ |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1060 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015124287 |
 
 Uwaga! Zły cyberhaker Terabyte atakuje mobilną centralę ultraagentów w ramach misji służącej wyłączeniu całej sieci komunikacyjnej miasta Astor. Wsiądź do ultranowoczesnej ciężarówki, uruchom ją w trybie tajnej jazdy i odpal automatyczne wyrzutnie rakiet, by odpędzić bandytę. Wystrzel ukrytą lotnię i szpieguj wrogów z powietrza. Pchnij dźwignię, aby odczepić szoferkę i otworzyć tylną część ciężarówki, w której mieści się niesamowita centrala agentów. Uruchom w sali odpraw laptop zawierający plany tajnych misji i wyświetl je na dużym ekranie. Razem z profesor Christiną Hydron analizuj wszystkie wskazówki i przeprowadzaj badania w laboratorium. Załóż agentce Phoenix odrzutowy plecak i wykorzystaj rozkładane robotyczne ramię, aby pomóc jej wznieść się w powietrze. Powstrzymaj Terabyte'a uciekającego z laptopem zawierającym poufne pliki ultraagentów. Uważaj jednak, bo w tym samym czasie jego supermech będzie próbował zniszczyć system komunikacyjny za pomocą hakerskich bomb wystrzeliwanychw stronę anteny satelitarnej. Zjedź miniłazikiem po rampie i odpal miotacze, aby obronić centralę ultraagentów. Musisz zamknąć złego maniaka komputerowego w nowoczesnej więziennej celi, zanim doprowadzi do dalszych zniszczeń! W zestawie 5 minifigurek z akcesoriami: Terabyte, agent Solomon Blaze, agentka Caila Phoenix, agent Curtis Bolt i profesor Christina Hydron.
 
----
+**Galeria:**
 
-## 71049 — Stojak Podstawka na Lego Minifigurki Kolekcjonerskie bolidy F1 71049
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 69.00 zł · EAN: 05906058121429 · in stock*
-
-Stojak na LEGO Minifigurki Kolekcjonerskie bolidy F1 - 71049
-
-**4 opcje ekspozycja modelów:** bokiem (lewo / prawo) i pod kątem (lewo / prawo)
-
-✅ Najważniejsze w skrócie:
-
-- Mieści wszystkie 12 modeli
-- 4 różne opcje ekspozycji modeli
-- Gumowe stopki i solidna konstrukcja
-- Minimalistyczny design pasujący do każdego wnętrza
-- Łatwy, beznarzędziowy montaż
-
-⭐ Szczegółowy opis produktu
-
-Stabilna, funkcjonalna i estetyczna ekspozycja
-
-**Profesjonalny stojak ekspozycyjny z serii HOLD**, zaprojektowany specjalnie dla modeli LEGO® z serii kolekcjonerskich "minifigurek" F1. Idealne rozwiązanie do efektownego zaprezentowania kolekcji w uporządkowany i stylowy sposób.
-
-**Stojak mieści wszystkie 12 modeli. **Prezentowane na 4 różne sposoby, co **podkreśla dynamiczną sylwetkę samochodów**. Minimalistyczny design **pasuje do każdego wnętrza**, podkreślając wygląd modeli bez odciągania od nich uwagi.
-
-**Wykonany z trwałego materiału PETG**, zapewnia stabilność i odporność na codzienne użytkowanie. **Gumowe stopki chronią powierzchnię** i zapobiegają przesuwaniu się stojaka.
-
-**Każdy detal został dopracowany z myślą o estetyce i funkcjonalności **– tak, aby pasował do kolekcji każdego fana klocków.
-
-✅ Najważniejsze zalety:
-
-**✔️ Stabilność i bezpieczeństwo**
-
-- Gumowe stopki chronią powierzchnię i zapobiegają przesuwaniu
-- Solidna konstrukcja i pewne mocowanie modeli
-- Bezpieczna ekspozycja nawet przy przypadkowym dotknięciu
-
-**✔️ Efektowna i dynamiczna ekspozycja**
-
-- Dynamiczna prezentacja
-- 4 opcje ustawień modeli
-- Modele wyeksponowane w uporządkowany i estetyczny sposób
-
-**✔️ Łatwość użytkowania**
-
-- Prosty montaż – w zestawie znajdują się wszystkie potrzebne akcesoria oraz instrukcja online
-- Łatwe zdejmowanie i ponowne umieszczanie modeli
-- Beznarzędziowy montaż
-
-**✔️ Jakość i styl**
-
-- Minimalistyczny design, który pasuje do każdego wnętrza
-- Precyzyjne dopasowanie do modeli
-- Wytrzymałość – druk 3D na drukarkach PRUSA zapewnia wysoką jakość wykonania
-- Polska produkcja – autorski projekt z dbałością o detale
-
-✅** Produkt marki Saures wykonany w technologii druku 3D z materiału PETG** – wyjątkowo trwałego i wytrzymałego, znacznie odporniejszego niż tradycyjne PLA.
-
-⚙️ Parametry:
-
-- Marka: **Saures**
-- Seria: **HOLD**
-
-- Kompatybilność: **Kolekcjonerskie bolidy F1 - 71049**
-
-- Ilość opcji pozycji modelu: **4**
-
-- **Montaż: **Beznarzędziowy na klik
-
-- Technologia wykonania: **Druk 3D** (FDM)
-- Materiał: **PETG** (materiał o zwiększonej wytrzymałości)
-
-**Wymiary:**
-
-Sam stojak – bez modeli
-
-- ↔️ Szerokość: 21 cm
-- ↕️ Wysokość: 16 cm
-- ↩️ Głębokość: 10 cm
-
-Z zamontowanymi modelami (może się różnić w zależności od ustawienia)
-
-- ↔️ Szerokość: maks. 25 cm
-- ↕️ Wysokość: maks. 18 cm
-- ↩️ Głębokość: maks. 10 cm
-
-⏹️ Zawartość zestawu:
-
-- Stojak HOLD
-- 12× uchwyty na bolidy
-- Oryginalne opakowanie
-- Instrukcja online
-
-**Wszystko, czego potrzebujesz do montażu w jednym zestawie!**
-
-**❗ Zestaw klocków widoczny na zdjęciach nie jest częścią oferty – przedstawiony został wyłącznie w celach pokazowych.❗**
-
-✅ Funkcje
-
-⬇️ 4 pozycje ekspozycji
-
-✅ Instrukcja
-
-**1️⃣ Montaż uchwytów podwozia**
-
-Wybierając orientacje ekspozycji modeli wsuń po 4 uchwyty podwozia do każdego pionowego profilu. Wsuń do momentu usłyszenia "KLIK".
-
-**2️⃣ Montaż profili pionowych**
-
-Wszystkie 3 profile pionowe z zamontowanymi już uchwytami podwozia wsuń w 3 otwory w podstawce. Wsuń do momentu usłyszenia "KLIK".
-
-**3️⃣ ****Umieszczanie modeli**
-
-Zamocuj modele na uchwytach podwozi.
-
-**4️⃣ Gotowe :)**
-
-❤️ Wyjątkowość druku 3D i polskie korzenie
-
-✅ Produkty doceniane przez klientów z całego świata
-
-✅ Autorskie projekty testowane w praktyce
-
-✅ Produkcja od A do Z w Polsce
-
-✅ Wytrzymałe i estetyczne – druk 3D klasy premium
-
-**Każdy produkt powstaje z dbałością o detale**, przy użyciu wysokiej klasy drukarek 3D i materiałów zapewniających trwałość oraz precyzję.
-
-**Unikalna struktura druku** sprawia, że każdy egzemplarz ma swój unikalny charakter.
-
-**Zawsze pokazujemy rzeczywiste zdjęcia, abyś dokładnie wiedział, co otrzymujesz.**
+- 70165-1: https://a.allegroimg.com/original/11a9b2/694a659f47b094ebc2919b59969e
 
 ---
 
-## 71052 — Ludzik Lego Minifigures 71052 Seria 29 Mistrzyni Czekolady col29-7
+## 71052 — Seria 29
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 25.99 zł · EAN: 05906142983339 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71052 |
+| Nazwa angielska | Robot T. rex |
+| Nazwa polska | Seria 29 |
+| Seria | Minifigurki |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2026 |
+| Liczba elementów | 7 |
+| Cena katalogowa | 16.49 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066980, 5702018066997, 5906142983278, 5906142983292, 5906142983315, 5906142983339, 5906142983346, 5906142983353, 5906142983377 |
 
-⭐71052 - LEGO Minifigures - Seria 29 - MISTRZYNI CZEKOLADY col29-7⭐
+Obudźcie w małych budowniczych ekscytację i zaskoczcie ich **1 z 12** kolekcjonerskich figurek w tajemniczych pudełkach z modelem LEGO® Minifigurki Seria 29 (71052) dla chłopców i dziewczynek od 6 lat. Każde pudełko kryje 1 z łącznie 12 minifigurek LEGO®: bramkarza piłkarskiego, biologa morskiego, muzyka grającego na tubie, elfkę z jednorożcem, łowczynię potworów, robotycznego T-rexa, cukierniczkę, fankę bubble tea, cosplayerkę BIONICLE®, tajemniczego Rónina, uroczą czarownicę i potwora śmieciowego.
+ 
+Każda z 12 minifigurek jest zapakowana w zapieczętowane tajemnicze pudełko i każda ma co najmniej 1 dodatek pasujący do jej postaci i tematu. Dzieci mogą wystawiać kolekcjonerskie zabawki obok modeli ze swojej obecnej kolekcji lub rozpocząć zabawę pełną wyobraźni, samodzielnie lub z przyjaciółmi. Ten pomysł na drobny prezent to kreatywny sposób na zainspirowanie małych budowniczych do tworzenia historii z zabawkami LEGO®.
 
-LEGO Minifigures - Seria 29 - MISTRZYNI CZEKOLADY col29-7
+ 
+- KOLEKCJONERSKIE MINIFIGURKI – Dzieci i fani od 6 lat mogą poszerzyć swoją kolekcję minifigurek LEGO® o jedną z tajemniczych zabawek z Serii 29, która zawiera wybór unikalnych i kreatywnych postaci 
+- ODKRYJ 1 Z 12 MAŁYCH ZABAWEK – W każdym pudełku kryje się 1 z 12 kolekcjonerskich minifigurek, wśród których może być bramkarz piłkarski, biolog morski, elfka z jednorożcem, łowca potworów lub cosplayerka BIONICLE® i inne. 
+- TEMATYCZNE AKCESORIA – Każda z minifigurek ma co najmniej 1 akcesorium, które pobudza żywiołową zabawę, w tym uroczą czarownicę z kotem, cukierniczkę z czekoladową kreacją i tajemniczego Rónina z mieczem i shurikenem. 
+- KREATYWNA ZABAWA – Rozwija wyobraźnię dzieci i inspiruje dziewczynki i chłopców do tworzenia historii z życia codziennego i pełnych fantazji dzięki unikalnemu wyborowi postaci inspirowanych legendarnymi motywami LEGO® 
+- POMYSŁ NA DROBNY PREZENT DLA DZIECI – Tajemnicze pudełka z niespodzianką to zabawny drobny prezent dla chłopców i dziewczynek, którzy kochają zabawę pełną wyobraźni i kolekcjonowanie minifigurek 
+- STWÓRZ WŁASNĄ KOLEKCJĘ POSTACI – Kolekcja LEGO® Minifigurki pozwala dzieciom kolekcjonować i składać figurki, a także bawić się nimi i wystawiać je na nieskończenie wiele sposobów 
+- **Opakowanie zawiera 1 figurkę, której nie można wybrać.**
 
-✅ Figurka przedstawia **mistrzynię czekolady** / cukierniczkę w eleganckim stroju kucharskim — biała koszulka, brązowy fartuch i **wysoka czapka** od razu zdradzają, że mamy tu prawdziwą specjalistkę od słodkości.
+**Galeria:**
 
-✅ Dopasowane nadruki na torsie i nogach świetnie **imitują fartuch cukierniczy,** kieszonki oraz roboczy strój do pracy w manufakturze czekolady.
-
-✅ W komplecie znajduje się tematyczne akcesorium widoczne na zdjęciu: **mała** **czekoladowa figurka** smoka na białej podstawce — wygląda jak konkursowe dzieło z wystawy słodyczy.
-
-✅ Figurka ma **blond włosy** częściowo ukryte pod kucharską czapką, co bardzo dobrze pasuje do **klimatu piekarni,** cukierni albo eleganckiej pracowni deserów.
-
-✅ Głowa posiada **dwustronny nadruk:** szeroki, **pogodny uśmiech** / **skupioną**** minę**  — idealne, gdy przepis prawie się udał… ale ktoś podjadł składniki.
-
-✅ Świetnie sprawdzi się w **dioramach** typu **cukiernia,** piekarnia, kawiarnia, **konkurs kulinarny,** fabryka czekolady albo LEGO City pachnące kakao od samego rana.
-
-Kolekcjonerska figurka LEGO® z serii 29
-
-➡️ **Idealna** dla dzieci w wieku od **sześciu **lat, które mogą **cieszyć** się przygodami dzięki jednej z wielu **minifigurek** LEGO® **Seria 29 **umieszczonych w **pudełku** niespodziance
-
-➡️ **Minifigurka** została wyposażona w **akcesoria,** które pozwalają odgrywać **historie i przygody** – idealne do **zabawy,** ale także do **ekspozycji** w kolekcji.
-
-➡️ Dzięki **wysokiej** jakości **nadrukom** i dbałości o **detale,** ta figurka z serii LEGO Minifigures **stanowi** nie tylko świetny **prezent** dla dzieci, ale też **obowiązkową** pozycję dla **kolekcjonerów** i fanów LEGO.
-
-Figurki wysyłamy w oryginalnym opakowaniu, a w nim znajduje się:
-
-✅ **Figurka**
-
-✅ **Akcesorium** przeznaczone do figurki
-
-✅ **Instrukcja** kolekcjonerska
-
----
-
-## 71456 — cooldac Zestaw świateł Led kompatybilny z 71456 DREAMZzz Mrs.Castillos
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 109.00 zł · EAN: 05908052720295 · in stock*
-
-Zestaw świateł do zestawu Lego 71456 - zestaw oświetlenia LED to idealne akcesorium do Lego dreamzzz 71456 mrs. Castillos żółwia autobus.
-
-Kreatywne oświetlenie dekoracyjne do zestawu Lego 71456 rozświetli zestaw autobusów z żółwiami Castillos, będzie bardziej olśniewający i interesujący. Twój Lego 71456 stanie się również bardziej dekoracyjny. Zestaw Lego nie wchodzi w zakres dostawy.
-
-Nasz zestaw oświetleniowy do zestawu Lego 71456 jest wykonany z wysokiej jakości materiału ABS i miedzi, chroni przed wysoką temperaturą i oparzeniami oraz zapewnia dłuższą żywotność. Bezpieczne i niezawodne materiały, nie musisz się martwić, że Twój zestaw Lego zostanie uszkodzony podczas instalacji.
-
-Zestaw oświetleniowy jest dostarczany z jasną i zwięzłą instrukcją (może nie być dostępna w języku polskim). Lampę LED należy zainstalować ostrożnie, bez silnego ciągnięcia i bez konieczności zginania lub potrząsania. Smukłe, elastyczne i nietłukące się przewody świetlne można łatwo ukryć, dzięki czemu wygląd Lego dreamzzz mrs. Castillos nie wpływa negatywnie na autobus żółwia po instalacji.
-
-Ten zestaw świetlny sprawi, że Twój zestaw Lego będzie świecił. Zestaw świateł do dreamzzz mrs. Castillos zestaw lego 71456 zapewnia bardziej atrakcyjne i wciągające wrażenia dzięki dodaniu kinowych efektów świetlnych. Wspaniały prezent urodzinowy, prezent bożonarodzeniowy dla dzieci lub każdego entuzjasty modelarstwa.
+- 71052-1: https://a.allegroimg.com/original/114da8/82ff12264cf7a10b799e1eb36c4c
+- 71052-2: https://a.allegroimg.com/original/29c0d4/4e8d20de41cfaafc0baecae9e13c
+- 71052-3: https://a.allegroimg.com/original/11ee44/6e85fffd4d43851807dd0f81cdb2
+- 71052-4: https://a.allegroimg.com/original/111f49/a48274e04a529b638d9d93226340
+- 71052-5: https://a.allegroimg.com/original/117ea9/d51f6ba1406e8c2297ecef523bd1
+- 71052-6: https://a.allegroimg.com/original/11d788/9c88524e4f80a15cbb35a19ed41d
+- 71052-7: https://a.allegroimg.com/original/11f87d/284af9eb4e37ba6bccb27d6b239d
+- 71052-8: https://a.allegroimg.com/original/1173ed/8db21dad4fc9bbe891516fb6adf0
 
 ---
 
-## 71469 — Zestaw oświetlenia Led Cooldac do Lego DreamZzz 71469 Nightmare Shark Ship
+## 71469 — Koszmarny Rekinokręt
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 99.00 zł · EAN: 05908131346309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71469 |
+| Nazwa angielska | Nightmare Shark Ship |
+| Nazwa polska | Koszmarny Rekinokręt |
+| Seria | Pozostałe |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 25 cm |
+| EAN | 5702017419428, 5908131346309 |
 
-Zestaw oświetlenia LED Cooldac do LEGO DreamZzz 71469 Nightmare Shark Ship
+LEGO DREAMZzz 71469 Koszmarny Rekinokręt
 
-Rozświetl swój Nightmare Shark Ship i nadaj mu wyjątkowy wygląd!
+Dzięki zestawowi LEGO DREAMZzz Statek koszmarnego rekina (71469) dzieci w wieku od 10 lat wkroczą do świata snów. Nocny Łowca schwytał ulubionego pluszaka Izzie i połączył go ze statkiem pirackim, tworząc potworny pojazd, który dzieci mogą teraz zbudować. Jeden pojazd do zbudowania na dwa sposoby Dzieci mogą zbudować pojazd na dwa sposoby — w trybie statku lub w trybie czołgu. Tryb statku ma potężne silniki i żagle, a tryb czołgu ma fajne akcesoria i latające gałki oczne. Dwie opcje budowania zachęcają do kreatywności i zapewniają jeszcze fajniejszą zabawę Ciekawe funkcje Rekini statek jest pełen fajnych funkcji, które zachwycą dzieci. Można otworzyć szczękę i umieścić w niej minifigurkę, nacisnąć przycisk, aby odkryć sekretną skrzynię ze skarbami, zdjąć tylną kabinę i nie tylko. Pojazd jest również wyposażony w wieżyczki po obu stronach, które mogą się obracać i strzelać, a pośrodku znajduje się klatka i zapadnia. Nocny Łowca użył mocy sennych statków, aby schwytać ulubionego pluszaka Izzie i połączyć go ze statkiem pirackim, tworząc w ten sposób przerażający rekini statek zombie! Teraz dzięki temu fantastycznemu zestawowi LEGO DREAMZzz możesz zanurzyć się w świecie snów i zbudować ten przerażający statek. Wybierz tryb statku, aby wyposażyć go w potężne silniki i żagle, lub tryb czołgu, aby dodać fajne akcesoria i latające gałki oczne!
 
-**Przenieś swój model LEGO DreamZzz 71469 Nightmare Shark Ship na zupełnie nowy poziom. Zestaw oświetlenia LED Cooldac został zaprojektowany specjalnie do tego modelu, dzięki czemu idealnie podkreśla jego mroczny charakter. Efektowne podświetlenie kadłuba, paszczy rekina, silnika i ogona sprawia, że model wygląda spektakularnie zarówno w dzień, jak i po zmroku.**
+• Dwa sposoby budowania — statek można zbudować w trybie statku lub czołgu, dzięki czemu zestaw rozwija kreatywność i stwarza więcej możliwości zabawy
+ 
+• Dwa tryby — tryb statku jest wyposażony w potężne silniki i żagle, a tryb czołgu ma fajne akcesoria i latające gałki oczne
+ 
+• Interesujące funkcje — rekini statek ma otwierające się szczęki, ukrytą skrzynię ze skarbami, odczepianą kabinę z tyłu, zapadnię i obrotowe wieżyczki
+ 
+• Cztery minifigurki — szczegółowe minifigurki Mateo, Izzie, Novy i Króla Koszmarów urozmaicają zabawę
+ 
+• Wiele godzin zabawy — zestaw jest przeznaczony dla dzieci w wieku od 10 lat, które spędzą wiele godzin na zabawie samodzielnie lub z przyjaciółmi
+ 
+• Wymiary — statek koszmarnego rekina ma 31 cm wysokości, 60 cm długości i 25 cm szerokości
+ 
+• Instrukcje budowania oparte na fabule — zestaw zawiera instrukcje budowania oparte na fabule serialu. Są one również dostępne w wersji cyfrowej w aplikacji LEGO Builder
+ 
+• Najwyższa jakość — klocki LEGO są zaprojektowane tak, aby zawsze łatwo się łączyć
+ 
+• Zestaw dla dzieci LEGO DREAMZzz Statek koszmarnego rekina
+ 
+• Pojazd można zbudować w trybie statku lub czołgu
+ 
+• W trybie statku pojazd ma potężne żagle, a w trybie czołgu latające gałki oczne
+ 
+• Ciekawe funkcje obejmują otwierające się szczęki i ukrytą skrzynię ze skarbami
+ 
+• Zawiera szczegółowe minifigurki Mateo, Izzie, Novy i Króla Koszmarów
+ 
+• Ciekawy model dla dzieci w wieku od 10 lat
+ 
+• Model ma 31 cm wysokości i 60 cm długości
+ 
+• Aplikacja LEGO Builder zawiera cyfrową wersję instrukcji budowania
+ 
+• Klocki LEGO są zaprojektowane tak, aby zawsze łatwo się łączyć
+ 
+• Klocki LEGO spełniają rygorystyczne standardy bezpieczeństwa.
 
-Najważniejsze zalety
+**Galeria:**
 
-✅ Dedykowany do **LEGO DreamZzz 71469 Nightmare Shark Ship**
-
-✅ Sterowanie pilotem – zmiana kolorów, jasności i efektów świetlnych
-
-✅ Zasilanie na 2 sposoby:
-
-- USB (powerbank, komputer, ładowarka USB)
-- pojemnik na **3 baterie AAA** (brak w zestawie)
-
-✅ Bardzo cienkie przewody, które można estetycznie ukryć w modelu
-
-✅ Wysokiej jakości diody LED o dużej jasności
-
-✅ Bezpieczne napięcie i trwałe materiały (ABS + przewody miedziane)
-
-Efekt, który robi wrażenie
-
-Po zamontowaniu zestawu model zyskuje zupełnie nowy charakter:
-
-- podświetlona paszcza rekina
-- świecące oko statku
-- efektowne oświetlenie silnika
-- iluminacja ogona
-- klimatyczne lampiony
-- wielokolorowe efekty RGB sterowane pilotem
-
-Idealny do ekspozycji na półce, w gablocie lub jako wyjątkowa dekoracja pokoju.
-
-Sterowanie pilotem
-
-Pilot umożliwia wygodne sterowanie oświetleniem:
-
-- włączanie i wyłączanie
-- regulacja jasności
-- wybór kolorów
-- efekty dynamiczne (miganie, przejścia i inne tryby)
-
-Dzięki temu możesz dopasować wygląd modelu do własnych preferencji.
-
-Dwa sposoby zasilania
-
-Możesz wybrać najwygodniejsze rozwiązanie:
-
-**USB**
-
-- komputer
-- ładowarka USB
-- powerbank
-
-lub
-
-**Pojemnik na 3 baterie AAA** (baterie nie są dołączone).
-
-Łatwy montaż
-
-Zestaw został przygotowany specjalnie do modelu LEGO 71469.
-
-- przewody są cienkie i elastyczne
-- nie psują wyglądu modelu
-- instrukcja prowadzi krok po kroku przez montaż
-- nie ma potrzeby przerabiania klocków
-
-Podczas instalacji zaleca się ostrożne prowadzenie przewodów oraz unikanie ich nadmiernego zginania.
-
-Zawartość zestawu
-
-W komplecie znajdują się m.in.:
-
-- moduły LED
-- moduł sterowania
-- pilot zdalnego sterowania
-- przewody połączeniowe
-- przewód zasilania USB
-- pojemnik na 3 baterie AAA
-- instrukcja montażu
-
-**Model LEGO nie jest dołączony do zestawu.**
+- 71469-1: https://a.allegroimg.com/original/11401c/c4d9bd2b4fe3a9ee555157fce56d
+- 71469-2: https://a.allegroimg.com/original/0587d8/52e26d2e47e6885815fb8302d5e2
 
 ---
 
-## 7177 — nowy Lego 7177 capespan pomarańcza polybag Misb 2007 unikat
+## 7177 — Orange
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702014515369 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7177 |
+| Nazwa angielska | Orange |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014515369 |
 
 Cześć!
 
@@ -3605,11 +2882,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 7177-1: https://a.allegroimg.com/original/1141ab/df73085d46b8bc06e86b36fff4d7
+
 ---
 
-## 71799 — Zestaw oświetlenia Led do Lego 71799 Ninjago City Markets
+## 71799 — Rynek miejski NINJAGO
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 199.00 zł · EAN: 05907317436872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71799 |
+| Nazwa angielska | NINJAGO City Markets |
+| Nazwa polska | Rynek miejski NINJAGO |
+| Seria | Ninjago |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017435787, 5907317436872 |
 
 Światła Oświetlenie LED do Lego 71799
 
@@ -3627,53 +2920,71 @@ Pozdrawiam.
 
 p5001/32sP
 
----
+**Galeria:**
 
-## 72037 — Zestaw oświetlenia do Lego Mario Mario Kart 72037 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05907213510805 · in stock*
-
-Oświetlenie LED do LEGO SUPER MARIO Mario Kart 72037
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 71799-1: https://a.allegroimg.com/original/114e08/015b154a467ab35f1df55d5a2cb4
+- 71799-2: https://a.allegroimg.com/original/111038/14cd30694da29485ef68aa23eba1
 
 ---
 
-## 7313 — Zestaw Lego Space: Life on Mars 7313 Red Planet Protector Nowy Misb 2001
+## 72037 — Mario Kart: Mario i Standard Kart
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 475.00 zł · EAN: 05702012012938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72037 |
+| Nazwa angielska | Mario Kart – Mario & Standard Kart |
+| Nazwa polska | Mario Kart: Mario i Standard Kart |
+| Seria | Super Mario |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1972 |
+| Cena katalogowa | 729.99 zł |
+| Wymiary złożonego | wys. 22 cm × szer. 19 cm |
+| EAN | 5702017816548, 5907213510805 |
+
+Klocki LEGO Super Mario 72037 - Mario Kart: Mario i Standard Kart
+
+Przygotuj się na kreatywną przygodę z zestawem Mario Kart: Mario i Standard Kart (72037) modelem do zbudowania i ozdoby dla mężczyzn, kobiet i wszystkich fanów gry. Ten zestaw konstrukcyjny Nintendo zawiera figurkę Mario z ruchomą głową i rękami, siedzącą za kierownicą kultowego pojazdu z gry Mario Kart. Umieść Standard Kart na specjalnej podstawce, która umożliwia ustawienie go pod dynamicznym kątem, imitującym jazdę z dużą prędkością lub drift w Mario Kart. Ten szczegółowy model LEGO Super Mario będzie świetną ozdobą do sypialni, salonu, pokoju gier lub biura każdego fana.
+
+Szczegółowe instrukcje, które poprowadzą Cię przez przygodę z budowaniem, znajdują się w pudełku lub w aplikacji LEGO Builder. Aplikacja ma również intuicyjne narzędzia, które pozwalają powiększać i obracać cyfrową wersję 3D Twojego modelu podczas budowania, śledzić postępy i zapisywać wszystkie zestawy w jednym miejscu.
+
+Zestaw LEGO Super Mario dla dorosłych pokaż swoją miłość do wyścigów Mario Kart dzięki tej zbudowanej z klocków figurce Nintendo przedstawiającej kultową postać Mario w Standard Karcie
+
+Możliwość ustawiania dynamicznych póz figurka Marioma ruchomą głowę i ręce, a podstawka umożliwia prezentację Standard Karta pod dynamicznymi kątami, imitującymi szybką jazdę lub drift
+
+Wciągające budowanie zestaw oferuje kreatywną rozrywkę dla zaawansowanych konstruktorów LEGO i zawiera szczegółowe instrukcje, dzięki czemu fani Super Mario, którzy dopiero zaczynają przygodę z LEGO, również mogą cieszyć się budowaniem
+
+Dekoracja z gry Super Mario ten model do zbudowania i ozdoby będzie świetną dekoracją pokoju lub biura każdego fana gier
+
+Kolekcjonerski prezent dla dorosłych graczy spraw sobie przyjemność lub podaruj ten model mężczyznom, kobietom i każdemu dorosłemu fanowi Super Mario
+
+Aplikacja LEGO Builder pobierz aplikację, aby uzyskać dostęp do intuicyjnych instrukcji budowania i narzędzi umożliwiających powiększanie i obracanie cyfrowego obrazu modelu w 3D, śledzenie postępów i nie tylko
+
+Model kolekcjonerski z serii LEGO Super Mario ten zestaw konstrukcyjny LEGO jest częścią szerokiej kolekcji LEGO dla dorosłych, którzy uwielbiają się relaksować, oddając się spokojnym i twórczym zadaniom
+
+Wymiary ten model kolekcjonerski obejmuje 1972 elementy i ma 22 cm wysokości, 32 cm długości i 19 cm szerokości
+
+**Galeria:**
+
+- 72037-1: https://a.allegroimg.com/original/113445/73b2c0174343879bbc073510a21c
+- 72037-2: https://a.allegroimg.com/original/1182d9/8fbfe7ec4ccea5a2f00053fe4a38
+
+---
+
+## 7313 — Red Planet Protector
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7313 |
+| Nazwa angielska | Red Planet Protector |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012012938 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO.
 
@@ -3698,127 +3009,131 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
----
+**Galeria:**
 
-## 75308 — Zestaw oświetlenia do Lego Star Wars R2-D2 75308 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 259.00 zł · EAN: 05905220305711 · in stock*
-
-Zestaw oświetlenia do LEGO Star Wars R2-D2 75308
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 7313-1: https://a.allegroimg.com/original/116b27/e10044f8480ebd0f27dcef8fae92
 
 ---
 
-## 75328 — Oświetlenie Led Lego Do Kasku Star Wars Mandalorian 75328
+## 75308 — R2-D2
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 138.00 zł · EAN: 00885454754002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75308 |
+| Nazwa angielska | R2-D2 |
+| Nazwa polska | R2-D2 |
+| Seria | Star Wars |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2314 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 20 cm × gł. 15 cm |
+| EAN | 5702016914191, 5905220305711 |
 
-OŚWIETLENIE LED LEGO DO KASKU STAR WARS MANDALORIAN 75328
+Przypomnij sobie klasyczne chwile z sagi „Gwiezdne Wojny”, budując tę wyjątkowo szczegółową figurkę droida R2-D2 z klocków LEGO®. Ten niezwykły model to nowość na maj 2021 roku, zachwycająca mnóstwem autentycznych detali, takich jak wysuwana tylna podpórka, obrotowa głowa, otwierane i wysuwane przednie klapy, wyciągany i obracany peryskop oraz miecz świetlny Luke’a Skywalkera ukryty w schowku w głowie droida.
+ 
+Zbuduj i pochwal się
+ 
+W tym ciekawym zestawie konstrukcyjnym znajdziesz również podstawkę do zbudowania z plakietką informacyjną, figurkę LEGO droida R2-D2 oraz wyjątkowy klocek LEGO upamiętniający 50. rocznicę powstania wytwórni Lucasfilm. Całość będzie rewelacyjną ozdobą każdego domu czy biura.
+ 
+Specjalny prezent
+ 
+Ten zestaw konstrukcyjny należy do wysokiej jakości serii zestawów LEGO Star Wars dla dorosłych i będzie doskonałym prezentem dla każdego fana „Gwiezdnych Wojen” albo doświadczonego konstruktora LEGO.
 
-**Łatwy montaż: **Specjalnie zaprojektowany i kompatybilny z modelem klocków kasku Jango Fetta. Wszystkie diody LED emitują jednolity strumień światła, a złącza kablowe idealnie do siebie pasują. Nasz profesjonalny zespół oświetleniowy zapewnia instrukcje krok po kroku w formie filmu lub pliku PDF, aby ułatwić instalację. (Tylko zestaw oświetleniowy, klocki nie są dołączone)
+ 
+- Zbuduj z klocków LEGO® i ustaw na półce ten niezwykle szczegółowy model kultowej postaci z sagi „Gwiezdne Wojny”: droida R2-D2. Zestaw 75308 to nowość na maj 2021 roku. 
+- Autentyczne funkcje modelu to między innymi wysuwana tylna podpora, obrotowa głowa, wysuwane przednie klapy, ruchomy peryskop oraz miecz świetlny ukryty w schowku w głowie droida. 
+- W komplecie jest zbudowana z klocków podstawka z plakietką informacyjną, figurka LEGO® Star Wars™ droida R2-D2 oraz specjalny klocek LEGO upamiętniający 50. rocznicę powstania wytwórni Lucasfilm. 
+- Wysokiej jakości zestaw jest częścią serii kolekcjonerskich modeli LEGO® Star Wars™. 
+- Zestaw złożony z 2315 elementów oferuje satysfakcjonujące wyzwanie konstrukcyjne i będzie świetnym prezentem świątecznym lub urodzinowym dla każdego konesera „Gwiezdnych Wojen” i miłośnika serii LEGO® Star Wars. 
 
-**Ciesz się kreatywną zabawą DIY: **Nasz zestaw oświetleniowy, kompatybilny z hełmem Jango Fetta z zestawu LEGO 75408, zapewnia jasne oświetlenie, które pomoże Ci odpocząć od zabieganego życia i odzyskać piękne noce. Zestaw oświetleniowy idealnie nadaje się dla miłośników modelarstwa, którzy chcą spersonalizować swoje klocki i udoskonalić swoje modele, jednocześnie ciesząc się zabawą DIY.
+ 
+- Model kolekcjonerski R2-D2 ma ok. 31 cm wysokości, 20 cm szerokości i 15 cm głębokości, więc będzie imponującą ozdobą domu lub biura. 
+- Chcesz kupić ten zestaw kolekcjonerowi gadżetów związanych z „Gwiezdnymi Wojnami”, który nie budował wcześniej z klocków LEGO®? Bez obaw. W komplecie są łatwe instrukcje, dzięki którym każdy poradzi sobie ze złożeniem modelu. 
+- Kolekcjonerskie zestawy LEGO® Star Wars™ dla dorosłych zaprojektowane zostały z myślą o wymagających hobbystach, którzy lubią relaksować się we wciągający i kreatywny sposób. 
+- Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują, łatwo się łączą i mocno trzymają. 
+- Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
-**Wiele opcji zasilania: **W zestawie znajduje się kabel USB i komora na baterię. Lampy można zasilać za pomocą powerbanku, ładowarki ściennej, portu USB, laptopa lub innego urządzenia USB (tylko zestaw oświetleniowy, klocki nie są dołączone).
+**Galeria:**
 
-**Bezpieczne użytkowanie: **Nasz dekoracyjny zestaw oświetleniowy wykonany jest z wysokiej jakości przewodów miedzianych. Odporność na ciepło i oparzenia wydłuża jego żywotność i zapewnia bezpieczniejsze użytkowanie.
-
-**Idealny prezent i urocza prezentacja:** Ten zestaw DIY to świetny prezent urodzinowy, świąteczny, noworoczny, z okazji Dnia Dziecka, ukończenia szkoły, Święta Dziękczynienia i Walentynek dla każdego miłośnika modelarstwa. Jasno oświetli Twoje klocki w ciemności, czyniąc z modeli uroczą ekspozycję w salonie wystawowym, na półce lub na stole.
-
----
-
-## 75330 — Cooldac Oświetlenie Do Star Wars Diorama 75330 Szkolenie Jedi
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 139.00 zł · EAN: 00785984519150 · in stock*
-
-COOLDAC OŚWIETLENIE DO STAR WARS DIORAMA SZKOLENIE JEDI 75330
-
-**Oświetlenie do Star Wars Diorama: Szkolenie Jedi na Dagobah 75330** to prosty sposób, aby nadać Twojemu modelowi wyjątkowy charakter i podkreślić jego klimat po zmroku. Dzięki starannie dopasowanym diodom LED diorama zyskuje głębię, a detale stają się bardziej widoczne, co sprawia, że ekspozycja prezentuje się znacznie efektowniej i bardziej realistycznie.
-
-Ten **zestaw oświetlenia LED **został przygotowany z myślą o fanach i kolekcjonerach, którzy chcą wyeksponować swoje modele w atrakcyjny sposób. Oświetlenie doskonale komponuje się z klimatem sceny z Dagobah, podkreślając wyjątkowy charakter dioramy i nadając jej bardziej filmowy wygląd. To idealne rozwiązanie dla osób, które cenią estetykę, detale i nowoczesną prezentację kolekcji.
-
-**Łatwy montaż** pozwala szybko zamontować oświetlenie bez zbędnych komplikacji, a dołączona instrukcja ułatwia cały proces. Produkt oferuje **wysokiej jakości diody LED**, które zostały zaprojektowane tak, aby zapewnić efektowne i trwałe podświetlenie modelu. Zasilanie za pomocą **3x AA lub USB** daje wygodę użytkowania i pozwala dopasować sposób pracy zestawu do własnych potrzeb.
-
-To doskonały wybór dla osób, które chcą wyróżnić swoją kolekcję i nadać jej bardziej profesjonalny wygląd. **Oświetlenie do Star Wars Diorama: Szkolenie Jedi na Dagobah 75330** sprawia, że model staje się jeszcze bardziej przyciągający wzrok, zarówno na półce, jak i w gablocie. Dzięki temu Twoja diorama zyskuje nie tylko na estetyce, ale także na wartości ekspozycyjnej.
-
-**Najważniejsze zalety:**
-
-- **Dedykowane do zestawu Star Wars Diorama: Szkolenie Jedi na Dagobah 75330**
-- **Efektowne podkreślenie detali** i większa realizm ekspozycji
-- **Wysokiej jakości oświetlenie LED**
-- **Łatwy montaż** i wygodna instalacja
-- **Zasilanie 3x AA lub USB**
-- **Kompletna zawartość zestawu**: oświetlenie LED, instrukcja, zasilacz na baterie
-- **Świetny wybór dla kolekcjonerów i fanów**, którzy chcą wyróżnić swój model
-
----
-
-## 75335 — Dedykowany zestaw oświetlenia Led do Lego BD-1 75335 Star Wars
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 120.00 zł · EAN: 05905413616006 · in stock*
-
-🌟 Zestaw Oświetleniowy LED cooldac do LEGO 75335 – Droid BD-1 (Star Wars)
-
-Nadaj swojemu droidowi BD-1 duszę i spraw, by wyglądał jak żywy! Ten dedykowany zestaw oświetleniowy marki **cooldac** (model **GC313**) został zaprojektowany specjalnie dla zestawu **LEGO Star Wars 75335**. To idealne dopełnienie dla każdego fana sagi i gracza Jedi: Fallen Order.
-
-**Dlaczego Twój BD-1 potrzebuje tego zestawu?**
-
-- **Dedykowany projekt:** Światła są idealnie dopasowane do konstrukcji droida – oświetlają jego „oczy” (czujniki) oraz charakterystyczne panele świetlne na tyłku głowy, które w grze informowały o stanie zdrowia Cala Kestisa.
-- **Realizm z odległej galaktyki:** Dzięki diodom LED Twój model przestaje być statyczną figurką, a staje się efektownym elementem kolekcji, który przyciąga wzrok w każdym oświetleniu.
-- **Dyskrecja i jakość:** Cienkie przewody cooldac są projektowane tak, by można było je poprowadzić między klockami bez naruszania konstrukcji i estetyki modelu.
-- **Proste zasilanie:** Złącze USB pozwala na podpięcie oświetlenia do powerbanku, komputera lub ładowarki sieciowej.
-
-**Szczegóły techniczne:**
-
-- **Kompatybilność:** Wyłącznie z modelem **LEGO 75335 Star Wars BD-1**.
-- **Model zestawu:** GC313 / 75335.
-- **Stan:** Fabrycznie nowy, oryginalnie zafoliowany (widoczne na zdjęciach).
-- **Bezpieczeństwo:** Produkt posiada certyfikat CE.
-
-**Spraw, by Twój BD-1 stał się najjaśniejszym punktem Twojej kolekcji Star Wars!**
-
-Uwaga: Aukcja dotyczy wyłącznie zestawu oświetleniowego LED. Model droida LEGO BD-1 nie jest częścią oferty.
+- 75308-1: https://a.allegroimg.com/original/118478/6dcf8df74c60924f40f90ccee1a0
+- 75308-2: https://a.allegroimg.com/original/057d4d/daedb03442198eed5f72c225caa7
 
 ---
 
-## 75375 — 75375 Lego Star Wars Sokół Millennium
+## 75335 — BD-1
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 419.90 zł · EAN: 05905413616938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75335 |
+| Nazwa angielska | BD-1 |
+| Nazwa polska | BD-1 |
+| Seria | Star Wars |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1062 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155616, 5905413616006 |
+
+Zbuduj z klocków własny ruchomy model BD-1 z gry „Gwiezdne Wojny: Upadły zakon”! Uchwyć realistyczne detale małego pomocnika w stylu LEGO® i obracaj głowę w różne strony, odtwarzając jego urocze pozy. Dodaj płytkę informacyjną z małą figurką LEGO BD-1, by uzupełnić tę wspaniałą ozdobę.
+ 
+Uroczy, kolekcjonerski droid BD-1
+ 
+Fani pokochają zbudowaną z klocków wersję uroczego droida BD-1 z gry „Gwiezdne Wojny: Upadły zakon”. W zestawie znajduje się też figurka LEGO® BD-1.
+ 
+Fani gry „Gwiezdne Wojny: Upadły zakon” mogą przeżyć jeszcze raz epickie przygody podczas budowania modelu droida LEGO® Star Wars™ BD-1 (75335). Ruchomą głowę droida można przechylać w przód, w tył i na boki, by ustawiać go w uroczych pozach. Fani będą zachwyceni innymi realistycznymi szczegółami, na przykład półprzejrzystymi elementami na plecach i głowie, które ukazują nastrój BD-1, a także schowkiem na stymy. Całość uzupełnia tabliczka informacyjna i figurka LEGO BD-1, którą można przyczepić obok tabliczki. Buduj, eksponuj, kolekcjonuj Ta świetna zabawka konstrukcyjna BD-1 to idealny prezent na urodziny lub święta dla fanów gry „Gwiezdne Wojny:
+ 
+Upadły zakon” w wieku od 14 lat i dla każdego kolekcjonera modeli LEGO Star Wars Galaktyka pełna kreatywnej zabawy
+ 
+Grupa LEGO już od 1999 roku tworzy modele statków kosmicznych, pojazdów, miejsc i postaci z uniwersum Gwiezdnych Wojen. Szeroka oferta zestawów zachwyci fanów w każdym wieku.
+
+ 
+- Model kolekcjonerski LEGO® Star Wars™ BD-1 (75335) – fani będą zachwyceni budowaniem własnego, szczegółowego modelu BD-1, droida z gry „Gwiezdne Wojny: Upadły zakon” 
+- Realistyczne detale – ten zbudowany z klocków model ma ruchome stawy i głowę przechylaną w przód, tył i na boki, a także schowek na stymy 
+- Stworzony do ozdoby – tabliczka informacyjna i figurka BD-1 LEGO®, którą można przyczepić obok figurki, uzupełniają całość 
+- Zestaw kolekcjonerski – droid BD-1 jest częścią serii modeli kolekcjonerskich LEGO® Star Wars™ 
+- Wysokiej jakości prezent dla dzieci w wieku od 14 lat — podaruj ten zestaw konstrukcyjny z 1062 elementami fanowi gry „Gwiezdne Wojny: Upadły zakon” lub fanom LEGO® Star Wars™ na urodziny lub święta 
+
+ 
+- Ozdoba każdego pomieszczenia – ten zbudowany z klocków model droida BD-1 ma 31 cm wysokości 
+- Aplikacja wspomagająca budowanie — do zestawu dołączone są instrukcje, a w aplikacji Instrukcje budowania LEGO® konstruktorzy mogą przybliżać i obracać cyfrową wersję powstającego modelu 
+- Budowanie dla osób w każdym wieku – Seria LEGO® Star Wars™ obejmuje zestawy, które pozwalają dzieciom i dorosłym odtwarzać kultowe sceny, a także budować z klocków modele kolekcjonerskie 
+- Rygorystyczne testy zapewniają bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów.
+
+**Galeria:**
+
+- 75335-1: https://a.allegroimg.com/original/11e02a/10016b2e4f54905e76379a0d00fb
+- 75335-2: https://a.allegroimg.com/original/25bcc2/2e750bb64033b225c8fda245db60
+
+---
+
+## 75375 — LEGO STAR WARS 75375 SOKÓŁ MILLENIUM
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75375 |
+| Nazwa angielska | Millennium Falcon |
+| Nazwa polska | LEGO STAR WARS 75375 SOKÓŁ MILLENIUM |
+| Seria | Star Wars |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 921 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584348, 5905413616938, 673419389471 |
+
+✨ 75375 - LEGO STAR WARS - SOKÓŁ MILLENNIUM ✨
+
+{desc/100/}
 
 ⭐75375 - LEGO Star Wars - Sokół Millennium⭐
+
+{desc/50/}
+
+{desc/50/}
 
 LEGO Star Wars - Sokół Millennium
 
@@ -3834,9 +3149,11 @@ LEGO Star Wars - Sokół Millennium
 
 ✅To świetny upominek dla **Ciebie** lub **prezent** dla innych fanów Gwiezdnych Wojen i **kolekcjonerów pamiątek.**
 
+{desc/50/}
+
 Buduj i postaw na półce
 
-**➡️Statek kosmiczny** LEGO® Star Wars™ Sokół Millennium ma **13 cm** wysokości, **24 cm** długości i **19 cm **szerokości
+**➡️Statek kosmiczny** LEGO® Star Wars™ Sokół Millennium ma **13 cm** wysokości, **24 cm** długości i **19 cm**szerokości
 
 Zbuduj statek LEGO® Star Wars™
 
@@ -3846,9 +3163,17 @@ Z odległej galaktyki do Twojego salonu
 
 ✅Kolekcjonerskie zestawy **LEGO® Star Wars™** dla dorosłych zostały zaprojektowane z myślą o osobach, które **lubią relaksować** się przy wymagających skupienia **projektach** do samodzielnego wykonania
 
+{desc/50/}
+
+{desc/50/}
+
+{desc/50/}
+
 Część kolekcji statków kosmicznych LEGO® Star Wars™
 
 ➡️Ten zestaw należy do serii **kolekcjonerskich** statków kosmicznych z **Gwiezdnych** Wojen do **zbudowania** w średniej skali
+
+{desc/50/}
 
 Idealna ozdoba
 
@@ -3856,152 +3181,275 @@ Idealna ozdoba
 
 ➡️Model został **zaprojektowany** tak, aby eksponować **Sokoła Millennium** pod **dynamicznym** kątem
 
+{desc/50/}
+
+{desc/50/}
+
+{desc/50/}
+
 Realistyczne szczegóły pojazdu z Gwiezdnych Wojen™
 
 ➡️Odtwórz **kultowe** cechy **Sokoła Millennium** z filmu Gwiezdne Wojny: Nowa nadzieja w stylu LEGO®, w tym **kokpit, antenę satelitarną** i działka
+
+{desc/50/}
 
 Kultowe detale
 
 ✅Zbuduj **kokpit,** duży **silnik** z tyłu, **działa** i nie tylko.
 
+{desc/50/}
+
+{desc/50/}
+
+{desc/50/}
+
 Specjalnie zaprojektowana podstawka
 
 ➡️Ustaw **Sokoła Millennium** pod **dynamicznym** kątem.
+
+{desc/50/}
 
 Świętuj 25. rocznicę
 
 ✅Zawiera klocek z **okazji 25-lecia** zestawów **LEGO® Star Wars™.**
 
----
+{desc/50/}
 
-## 75386 — Led BrickBling kompatybilny z Paz Vizsla i Moff Gideon Battle 75386
+{desc/50/}
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 82.00 zł · EAN: 00741365702115 · in stock*
+{desc/50/}
 
-Zestaw światła LED BrickBling kompatybilny z  Paz Vizsla i Moff Gideon Battle, kreatywne oświetlenie kompatybilne z modelem 75386-no, tylko światła
+{desc/50/}
 
-O tym przedmiocie
+{desc/50/}
 
-- Tylko światła - jest to oświetlenie LED specjalnie zaprojektowane z Leg 75386 Paz Vizsla i Moff Gideon Battle. Uwaga: Sprzedajemy tylko światła, bez modelu
-- Wysokiej jakości - wysokiej jakości materiały ABS i miedź są przyjmowane w celu zapewnienia jej bezpieczeństwa, trwałości. Lekka waga i małe rozmiary pozwalają, aby przewody świetlne były dobrze ukryte w modelu Paz Vizsla i Moff Gideon Battle, bez obaw, że Twój model zostanie uszkodzony podczas instalacji
-- Instalacja - Możesz uzyskać nasze instrukcje online, przechodząc przez stronę internetową wydrukowaną na broszurze. Następnie podążaj za nim krok po kroku, aby zbudować nasze światła DIY
+**Galeria:**
 
-- Power By- Zestaw światła może być zasilany przez power bank / ładowarka ścienna / usb-socket / laptop / inne urządzenie portowe USB.
-
-- Zaktualizuj swój model - to zabawny pomysł, aby rozświetlić swoją Paz Vizsla i Moff Gideon Battle. Zaskakujące światła dekoracyjne sprawią, że statyczny element wyświetlacza będzie bardziej interesujący, więc nie wahaj się zaktualizować swojego modelu do nowego poziomu
-
-A 3
+- 75375-1: https://a.allegroimg.com/original/111c20/c093400e490b9dcd7c68e44b7b96
+- 75375-2: https://a.allegroimg.com/original/11e406/b7fa909841f6a6ddcdb83fa4e337
+- 75375-3: https://a.allegroimg.com/original/116deb/d431d4014a8e9b595b6642e55bc5
 
 ---
 
-## 75389 — Oświetlenie Led do Lego Star Wars Mroczny Sokół The Dark Falcon 75389
+## 75389 — Mroczny Sokół Millennium
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 299.00 zł · EAN: 05907213510041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75389 |
+| Nazwa angielska | The Dark Falcon |
+| Nazwa polska | Mroczny Sokół Millennium |
+| Seria | Star Wars |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 1579 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 32 cm |
+| EAN | 5702017584454, 5907213510041 |
 
-Oświetlenie LED do Lego Star Wars Mroczny Sokół The Dark Falcon 75389
+LEGO Star Wars
+ 
+Mroczny Sokół Millennium
+ 
+75389
 
-Wersja ze zdalnym sterowaniem: konstrukcja z modułem zdalnego sterowania i pilotem. Za pomocą pilota możesz wybrać, która część światła ma być otwarta. Umieść  w ciemności i ciesz się światłem.
+Wywróć wszechświat LEGO® Star Wars™ do góry nogami dzięki zestawowi Mroczny Sokół Millennium (75389), w którym znajduje się mroczna wersja Sokoła, znana ze specjalnego odcinka LEGO Star Wars: Rebuild the Galaxy na Disney+. 
+ 
+Ten statek kosmiczny LEGO Star Wars to wspaniały prezent urodzinowy dla dzieci i wszystkich fanów w wieku od 10 lat. Ma podnoszone panele umożliwiające łatwy dostęp do szczegółowego wnętrza, w tym tronu Dartha Jara Jara, centrum dowodzenia, hipernapędu, strefy rozrywkowej i celi więziennej. Sprężynowe działka, obrotowe armatki i odczepiane stanowisko strzelca poszerzają możliwości zabawy.
+ 
+**Ten zestaw ze statkiem kosmicznym do zbudowania zawiera sześć zupełnie nowych minifigurek LEGO Star Wars, w tym Dartha Jar Jara, plażowego Luke’a i Jedi Vadera.**
 
-- **Produkt nie zawiera zestawu Lego**
+Cechy zestawu:
+ 
+ 
+- **Zestaw z pojazdem do zbudowania LEGO® Star Wars™ dla dzieci **— zbuduj Mrocznego Sokoła Millenium, mroczną wersję Sokoła Millenium z odcinka specjalnego serialu Rebuild the Galaxy na Disney+ i wywróć galaktykę do góry nogami 
+- **Sześć minifigurek LEGO® Star Wars™** — Darth Jar Jar, łowca nagród C-3PO, Darth Dev, Darth Rey, plażowy Luke i Jedi Vader, a także akcesoria, w tym miecze świetlne i karton z niebieskim mlekiem 
+- **Mroczny Sokół Millenium LEGO®** — ma odczepiany kokpit dla dwóch minifigurek LEGO, dwa działka sprężynowe, dwie obrotowe armatki, stanowisko strzelca dla dwóch minifigurek LEGO i talerz anteny 
+- **Łatwy dostęp** — podnieś górne panele i zajrzyj do szczegółowego wnętrza, które obejmuje odczepiany tron dla Dartha Jar Jara, centrum dowodzenia, hipernapęd, łóżka piętrowe, strefę rozrywkową i celę więzienną 
+- **Fajny pomysł na prezent dla dzieci w wieku od 10 lat** — podaruj ten zestaw LEGO® jako prezent świąteczny lub urodzinowy dla chłopców, dziewczynek i fanów Gwiezdnych Wojen™ 
+- **Kolekcjonerskie zabawki dla fanów w każdym wieku** — zestawy LEGO® Star Wars™ umożliwiają dzieciom i dorosłym fanom Gwiezdnych Wojen odtwarzanie klasycznych scen, odgrywanie własnych historii lub po prostu eksponowanie modeli zbudowanych z klocków 
+- **Wymiary **— pojazd z Gwiezdnych Wojen™ w tym 1579-elementowym zestawie ma 12 cm wysokości, 43 cm długości i 32 cm szerokości. 
 
-Odkryj ulubiony zestaw Lego na nowo!
+Specyfikacja zestawu:
+ 
+ 
+- **Producent: **LEGO 
+- **Seria: **Star Wars 
+- **Kod producenta: **75389 
+- **Wiek dziecka: **od 10 lat 
+- **Płeć dziecka:** chłopcy i dziewczynki 
+- **Ilość elementów: **1579 
+- **Ilość minifigurek:** 6
 
-Dołącz do społeczności konstruktorów, którzy zmienili swoje zestawy LEGO  w zapierające dech w piersiach eksponaty.
+**Galeria:**
 
-Nasze dedykowane oświetlenie do Lego zapewnia idealne dopasowanie, wyjątkową jakość i elegancję, na jaką zasługuję Twoja kolekcja zestawów Lego.
-
-Game - Changer Twojej kolekcji Lego
-
-Odśwież wygląd swojej kolekcji Lego za pomocą dedykowanego oświetlenia LED. Pozwól swojej kolekcji rozbłysnąć na nowo.
-
-32sP
-
----
-
-## 75398 — Zestaw oświetlenia do Lego Star Wars C-3PO 75398 (bez Lego)
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 239.00 zł · EAN: 05907213510034 · in stock*
-
-Oświetlenie LED do LEGO Star Wars C-3PO 75398
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 75389-1: https://a.allegroimg.com/original/11966a/9c4f652c44b4b9ab591b72d7229c
+- 75389-2: https://a.allegroimg.com/original/113890/6fa076e54373b583d414e7be6544
 
 ---
 
-## 76217 — BrickBling Zestaw oświetlenia Led do Lego 76217 I'm Groot Toy (bez Klocków)
+## 75398 — C-3PO
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 157.99 zł · EAN: 00885677846713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75398 |
+| Nazwa angielska | C-3PO |
+| Nazwa polska | C-3PO |
+| Seria | Star Wars |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1138 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584508, 5907213510034 |
 
-- Łatwy w instalacji: specjalnie zaprojektowany dla 76217 Marvel Jestem Groot. Wszystkie diody LED mają jednolity obraz światła, a złącza kablowe dobrze do siebie pasują. Instrukcje instalacji wideo krok po kroku są dostarczane przez nasz profesjonalny zespół lekkich konstruktorów, aby pomóc Ci w instalacji.
+**Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
-- Ciesz się kreatywną zabawą w majsterkowanie: nasz zestaw świateł LED do zestawu LEGO I w zestawie Groot 76217 zapewnia jasne oświetlenie, dzięki czemu możesz odpocząć po intensywnym życiu i odzyskać piękną noc. Zestaw oświetleniowy jest idealny dla miłośników modeli Lego, aby osobiście ulepszać swoje klocki i ulepszać modele, jednocześnie ciesząc się zabawą z majsterkowania.
+**LEGO® 75398 Star Wars - C-3PO**
 
-- Wiele opcji zasilania: pakiet jest dostarczany z kablem USB i pojemnikiem na baterie. Diody LED w zestawie LEGO 76217 można zasilać z powerbanku/ładowarki ściennej/gniazda USB/laptopa/innego urządzenia z portem USB. Można go również używać z baterią (bateria nie jest dołączona).
+Nr katalogowy: 75398
 
-- 【Bezpieczeństwo i doświadczenie】 Nasz zestaw oświetlenia dekoracyjnego wykonany jest z wysokiej jakości przewodów miedzianych, które są wyposażone w ochronę przed ciepłem i spalaniem i mogą wydłużyć czas ich działania. Niskie napięcie 5 V zapewnia bezpieczniejsze wrażenia.
+Ilość klocków: 1138
 
-- Idealne prezenty i uroczy wyświetlacz: te światła byłyby świetnym prezentem urodzinowym, boże narodzenie, nowy rok, dzień dziecka, ukończenie szkoły, święto dziękczynienia, prezent walentynkowy dla każdego entuzjasty budowania modeli.
+Dla dzieci w wieku: 18+
+
+Najlepsza zabawka dla dzieci
+
+Dostępność od ręki.
+
+Zbuduj i ustaw na półce tę niezwykle szczegółową figurkę droida LEGO® Star Wars™ C-3PO. Ten kolekcjonerski zestaw to nostalgiczny pomysł na prezent dla dorosłych i fanów klasycznej sagi Gwiezdnych Wojen, który gwarantuje satysfakcjonujący i kreatywny projekt. Odtwórz każdy szczegół ulubieńca z Gwiezdnych Wojen, a następnie obracaj jego głową i ramionami, by ustawić go w kultowych pozach.
+
+Ten zestaw LEGO Star Wars dla dorosłych zawiera również podstawkę z płytką z informacjami o C-3PO i miejscem na minifigurkę LEGO C-3PO, a także klocek z okazji 25-lecia zestawów LEGO Star Wars, który uzupełnia cała ozdobę.
+
+Aby stworzyć imponującą ozdobę, ustaw swoje dzieło obok LEGO Star Wars R2-D2™ (75379, zestaw sprzedawany osobno) i zmień ustawienie ręki C-3PO, aby „klepał” swojego przyjaciela po głowie.
+
+Ciesz się każdym intuicyjnym budowaniem dzięki aplikacji LEGO® Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów oraz zapisywanie wszystkich zestawów w jednym miejscu.
+
+- Figurka droida C-3PO LEGO® Star Wars™ — zaproś do swojego domu jedną z najbardziej uroczych postaci z Gwiezdnych Wojen, budując realistyczny model C-3PO
+
+- Podziwiaj autentyczne szczegóły — odtwórz wygląd C-3PO w stylu LEGO®, obracaj jego głową i poruszaj ramionami, aby tworzyć kultowe pozy
+
+- Minifigurka LEGO® Star Wars™ C-3PO — główny model C-3PO uzupełnia minifigurka LEGO C-3PO
+
+- Element z okazji 25-lecia — zestaw zawiera podstawkę z płytką z informacjami o C-3PO i miejscem na minifigurkę LEGO® C-3PO, a także klocek LEGO Star Wars™ z okazji 25-lecia zestawów
+
+- Pomysł na nostalgiczny prezent dla dorosłych — spraw sobie przyjemność lub podaruj ten kolekcjonerski model innemu dorosłemu fanowi klasycznej sagi Gwiezdnych Wojen™ lub kolekcjonerowi zestawów LEGO® Star Wars
+
+- Zestaw kolekcjonerski z Gwiezdnych Wojen™ — zjednocz dwóch starych przyjaciół, ustawiając C-3PO obok zbudowanej z klocków figurki LEGO® droida R2-D2 (75379, sprzedawana osobno). Możesz ustawić rękę C-3PO tak, aby klepał R2-D2 po głowie
+
+- Zestawy LEGO® Star Wars™ dla dorosłych — zestawy LEGO® Star Wars dla dorosłych przeznaczone są dla hobbystów takich jak Ty, którzy lubią praktyczne, odprężające zajęcia
+
+- Fajna ozdoba do domu dla fanów Gwiezdnych Wojen™ — zbudowana z klocków figurka LEGO® droida C-3PO z tego 1138-elementowego zestawu ma 38 cm wysokości
+
+**Galeria:**
+
+- 75398-1: https://a.allegroimg.com/original/115fb1/5f054868456e86a82050613081d8
+- 75398-2: https://a.allegroimg.com/original/294594/7504149f4d929784969e8487267f
 
 ---
 
-## 76223 — Zestaw oświetlenia led do klocków Lego dla zestawu 76223 rękawica Iron Man
+## 76165 — Hełm Iron Mana
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 49.99 zł · EAN: 05051300917258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76165 |
+| Nazwa angielska | Iron Man |
+| Nazwa polska | Hełm Iron Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 10 cm × gł. 13 cm |
+| EAN | 5702016757651, 5906815145255 |
 
-O tym przedmiocie
+Podobizna latającego superbohatera — Iron Mana — może teraz na stałe zagościć w Twoim domu. Budowanie tego imponującego kolekcjonerskiego modelu LEGO® będzie satysfakcjonującym projektem, a po ukończeniu otrzymasz kultowy hełm jednego z najbardziej rozpoznawalnych kinowych bohaterów. Model jest wyposażony w solidną podstawkę i po zbudowaniu możesz ustawić go w dowolnie wybranym pomieszczeniu. Na pewno będzie przyciągać wzrok!
+ 
+Zrób prezent drzemiącemu w Tobie superbohaterowi i podaruj mu hełm Iron Mana z klocków LEGO®
+ 
+Kolekcjonerski hełm Iron Mana z klocków LEGO® to Twoja szansa na ucieczkę od rzeczywistości. Satysfakcjonująca zabawa w budowanie dla dorosłych fanów filmów Marvela.
 
+Hełm Iron Mana z serii LEGO® Marvel Avengers przywołuje klasyczny komiksowy styl, a jego budowanie może być prawdziwym testem Twoich zdolności konstruktorskich. Model do zabawy i kolekcji z realistycznymi detalami Klocki LEGO wraz ze specjalnymi czerwonymi i złotymi zdobieniami oraz świecącymi naklejkami z rysunkiem oczu pozwolą Ci uchwycić doskonale znane kontury i wspaniałe szczegóły hełmu Iron Mana. Ten kolekcjonerski rarytas ma solidną podstawkę i tabliczkę z napisem — gdziekolwiek go postawisz, znajdzie się w centrum uwagi i wzbudzi pełne zachwytu komentarze.
+ 
+Hełm Iron Mana zrobi jeszcze większe wrażenie, jeśli ustawisz go obok innych realistycznych modeli LEGO. Zestawy do budowania z klocków LEGO Zrób sobie przerwę od codzienności i sięgnij po zestawy konstrukcyjne LEGO, aby przypomnieć sobie, jaką przyjemność może dawać kreatywne budowanie. Zestawy LEGO dla dorosłych dają wiele satysfakcji i świetnie wyglądają, a przy tym mogą być znakomitym prezentem na urodziny lub pod choinkę dla każdego, kto jest zainteresowany budowaniem modeli lub kulturą komiksu.
 
+ 
+- Przetestuj swoje konstruktorskie supermoce na modelu hełmu Iron Mana z zestawu LEGO® Marvel Avengers. Jesteś dorosłym fanem Marvela lub po prostu uwielbiasz budowanie z klocków? Ten model będzie w sam raz! 
+- Za pomocą klocków LEGO® i naklejek z grafikami model w ciekawy sposób oddaje wygląd kultowego hełmu Iron Mana i z pewnością obudzi wspomnienia klasycznych scen z filmów o Avengersach. Model z klocków stoi na solidnej podstawie i ma tabliczkę z nazwą. 
+- Klocki LEGO wraz z czerwonymi i złotymi zdobieniami oraz naklejkami z rysunkiem oczu pozwolą Ci uchwycić doskonale znane kontury i wspaniałe szczegóły hełmu Iron Mana. Świetnie wygląda obok innych modeli LEGO Marvel. 
+- Nieważne, czy jesteś fanem Marvela, miłośnikiem LEGO® czy jednym i drugim — ten liczący 480 elementów zestaw będzie wyzwaniem konstrukcyjnym i sposobem na oderwanie się od rzeczywistości. Świetnie sprawdzi się jako prezent urodzinowy, bożonarodzeniowy lub po prostu drobny podarunek. 
+- Hełm Iron Mana ma ok. 19 cm wysokości, 10 cm szerokości i 13 cm głębokości. Nie zajmuje wiele miejsca, ale dzięki wyróżniającym się, realistycznym detalom z pewnością przyciągnie wzrok każdego miłośnika uniwersum Marvela. 
 
+ 
+- Nie wymaga baterii. Budowanie hełmu Iron Mana z zestawu LEGO® Marvel Avengers to zajęcie, które angażuje dłonie. Powolny proces przekształcania 480 klocków LEGO we wspaniały model pomoże Ci się uwolnić od stresu. 
+- W komplecie są doskonałe i przejrzyście napisane instrukcje, więc realizację fascynującego projektu możesz rozpocząć zaraz po otwarciu pudełka. 
+- Zestaw to część serii modeli LEGO® Marvel, które mają dostarczyć satysfakcji z budowania i przyciągać spojrzenia fanów klocków oraz miłośników kultury komiksu. 
+- Do łączenia i rozdzielania klocków i elementów LEGO® nie potrzeba supermocy. Od 1958 r. niezmiennie pozostają one zgodne z ze standardami branżowymi, dzięki czemu zawsze do siebie pasują i łatwo je rozdzielić. 
+- Klocki i elementy LEGO® są rygorystycznie testowane, abyśmy mieli pewność, że ten wyjątkowy model kolekcjonerski spełnia najwyższe standardy bezpieczeństwa — te ziemskie i te z uniwersum Marvela!
 
-- Zoptymalizowany dla zestawu 76223: Zestaw oświetleniowy jest specjalnie dostosowany do rękawic Iron Mans Nano z zestawu 76223 i pozwala Twojemu modelowi świecić w ciemności. (Sam zestaw oświetleniowy, model nie jest dołączony).
+**Galeria:**
 
-- Wysoka jakość wykonania i materiałów: wysokiej jakości diody LED i cienkie przewody o grubości 2 mm zapewniają energooszczędne i długotrwałe oświetlenie. Delikatny przewód można łatwo ukryć i nie wpływa on na wygląd modelu.
-
-- Dwa porty zasilania: kabel USB i pojemnik na baterie. Możesz używać baterii AAA lub AA lub podłączyć kabel USB do dowolnego urządzenia z portem USB, takiego jak power bank lub laptop, wtyczka USB lub adapter ścienny.
-
-- Idealny prezent dla fanów: Kreatywna atrakcja dla wszystkich fanów – rozświetl swój model i zanurz się w świecie klocków.
-
-- Instrukcje instalacji: szczegółowa instrukcja elektroniczna poprowadzi Cię przez instalację krok po kroku. Zainstaluj lampę LED ostrożnie i nie ciągnij, nie zginaj ani nie potrząsaj lampą ani kablem zbyt mocno.
-
-.
+- 76165-1: https://a.allegroimg.com/original/11be03/358ea90a4f14b34aefdb81d8374b
+- 76165-2: https://a.allegroimg.com/original/0561d1/860637e34f22bd99db8bd522b992
 
 ---
 
-## 76285 — Oświetlenie Led do Lego Heroes Maska Spider-Mana 76285
+## 76217 — Ja jestem Groot
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 161.99 zł · EAN: 05905413616846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76217 |
+| Nazwa angielska | I Am Groot |
+| Nazwa polska | Ja jestem Groot |
+| Seria | Marvel |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154602, 885677846713 |
+
+LEGO Super Heroes 76217 Ja jestem Groot
+ 
+Podaruj ruchomy model małego Groota z filmów Marvela dzieciom w wieku od 10 lat dzięki zestawowi LEGO® Marvel Ja jestem Groot (76217).
+ 
+Baw się lub ustaw Groota na półce
+ 
+Każdy fan „Strażników galaktyki vol. 2” zna scenę, w której mały Groot tańczy. Teraz dzieci mogą odtworzyć ten i inne filmowe momenty dzięki szczegółowemu, ruchomemu modelowi tego uroczego i psotnego malucha. Model do zbudowania można ustawiać w różnych pozycjach, a w zestawie jest też model kasety do muzycznej zabawy. Ponadto dostępna jest aplikacja Instrukcje budowania LEGO, gdzie dzieci mogą oglądać, przybliżać i obracać model podczas budowania, jeszcze bardziej angażując się w cały proces.
+
+ 
+- Ruchomy model małego Groota – kolekcjonerski model LEGO® Marvel Ja jestem Groot (76217) można ustawiać w różnych pozycjach 
+- Kultowa postać Marvela – dzieci mogą zbudować własnego Groota znanego ze „Strażników galaktyki vol. 2” Marvela. W zestawie znajduje się też kaseta i tabliczka z napisem 
+- Odtwórz taneczne ruchy – ten model do zbudowania można łatwo ustawiać w różnych pozycjach. W zestawie jest też model kasety do muzycznej zabawy 
+- Prezent dla dzieci – wyjątkowy podarunek na urodziny, święta lub inne okazje dla dzieci w wieku od 10 lat, które są fanami Strażników galaktyki Marvela oraz uroczego małego Groota 
+- Buduj, baw się, postaw na półce – ruchomy model ma 26 cm wysokości, a w zestawie znajduje się kaseta i tabliczka z napisem 
+- Rozbudowana zabawa w superbohaterów – rozbudowana seria zabawek konstrukcyjnych LEGO® Marvel zapewnia dzieciom wysokiej jakości zestawy i nieskończenie wiele możliwości zabawy 
+- Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
+
+**Galeria:**
+
+- 76217-1: https://a.allegroimg.com/original/11c337/a1d5c17c469fa876931f14b1edeb
+- 76217-2: https://a.allegroimg.com/original/05df2e/e4aad6ca430f929652cf492ec56a
+
+---
+
+## 76285 — Maska Spider-Mana
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76285 |
+| Nazwa angielska | Spider-Man's Mask |
+| Nazwa polska | Maska Spider-Mana |
+| Seria | Marvel |
+| Grupa wiekowa | 15 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 487 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017602097, 5905413616846 |
 
 Oświetlenie LED do Lego Super Heroes Maska Spider-Mana 76285
  
@@ -4042,257 +3490,271 @@ Oświetlenie LED jest zakończone kablem USB, można wpiąć go do kostki ładow
  
 Tak, oferowane przez nas oświetlenie do Lego jest łatwe w montażu, nawet dla osób nie posiadających zdolności techicznych.
 
----
+**Galeria:**
 
-## 76294 — Oświetlenie Led do Lego Marvel X-Men: Instytut Xaviera 76294
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213510881 · in stock*
-
-Oświetlenie LED do LEGO MARVEL X-Men: Instytut Xaviera 76294
- 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
- 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
- 
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
- 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
- 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
- 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
- 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
- 
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
- 
-**W zestawie:**
- 
-• Gotowe do podłączenia oświetlenie LED (USB-A)
- 
-• Pojemnik na baterie
- 
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
- 
- 
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO® 
-- Prosty montaż. Bez narzędzi. Bez lutowania 
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 76285-1: https://a.allegroimg.com/original/114338/161d0a8a434d990d2b2e6e11dc44
+- 76285-2: https://a.allegroimg.com/original/115479/7ab516994187967c43ecf0b2b98a
 
 ---
 
-## 76297 — BrickBling Music Version oświetleniowy Dancing Groot 76297 zestaw Led
+## 76294 — X-Men: Instytut Xaviera
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 142.22 zł · EAN: 05906684622307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76294 |
+| Nazwa angielska | The X-Mansion |
+| Nazwa polska | X-Men: Instytut Xaviera |
+| Seria | Marvel |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3093 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590158, 5907213510881 |
 
-❇️BrickBling Music Version  oświetleniowy Dancing Groot 76297 zestaw LED:
+LEGO 76294 X-Men: Instytut Xaviera
 
-**✅Wersja muzyczna**: Konstrukcja z modułem muzycznym, można pobierać i odtwarzać ulubioną muzykę. Pozwól swojemu tańczącemu grootowi świecić i zapewnij radość z dźwięku. Wspaniały prezent dla każdego entuzjasty modelarstwa.
+Klocki **LEGO 76294 X-Men: Instytut Xaviera** to spektakularny zestaw dla fanów Marvela, który pozwala odtworzyć kultowy **Instytut Xaviera dla Utalentowanej Młodzieży** – siedzibę drużyny X-Men. Konstrukcja zachwyca szczegółami, prezentując wielopiętrową rezydencję z charakterystyczną architekturą i bogatym wnętrzem pełnym nawiązań do komiksów oraz seriali. Znajdziemy tu m.in. pomieszczenia treningowe, laboratorium, gabinet Profesora X, a także sekcje mieszkalne, dzięki czemu zestaw oferuje mnóstwo możliwości zabawy i ekspozycji.
 
-**✅Łatwa instalacja **- wszystkie diody LED  Dancing Groot mają jednolity wzór światła, a przyłącza kablowe dobrze do siebie pasują. Nasz profesjonalny zespół budownictwa oświetleniowego udostępni krok po kroku instrukcje instalacji wideo lub PDF, aby ułatwić instalację.
+W komplecie znajdują się minifigurki kultowych bohaterów, takich jak **Professor X, Cyclops, Wolverine, Storm, Beast** i inni członkowie drużyny X-Men. Zestaw wyposażono także w liczne akcesoria – elementy technologiczne, sprzęt treningowy czy symbole drużyny – które pozwalają odgrywać epickie sceny oraz tworzyć własne historie z uniwersum mutantów.
 
-**✅Bezpieczne użytkowanie:** Nasz zestaw dekoracyjnych lamp 76297 składa się z wysokiej jakości przewodów miedzianych. Dzięki odporności na wysoką temperaturę i spalanie mogą wydłużyć okres użytkowania i zapewnić bezpieczniejsze doświadczenia.
+To idealna propozycja zarówno dla kolekcjonerów, jak i młodszych fanów Marvela, którzy chcą rozbudować swoje superbohaterskie zbiory.
 
-**✅Wiele opcji zasilania: **Zestaw jest dostarczany z kablem USB i pudełkiem na baterie. Diody LED do 76297 Dancing Groot mogą być zasilane przez powerbank, ładowarkę ścienną / gniazdo USB / laptopa / inne urządzenie z portem USB. Można go również używać z baterią (baterie nie wchodzą w zakres dostawy).
+**Parametry:**
 
-**✅Ciesz się kreatywną zabawą DIY:** Zestaw świateł BrickBling zapewnia jasne oświetlenie, które pomoże Ci odciąć się od intensywnego życia i odzyskać piękną noc.
+- **Seria:** LEGO Marvel
+- **Model:** 76294 – X-Men: Instytut Xaviera
+- **Motyw:** Kultowa siedziba drużyny X-Men
+- **Minifigurki:** Professor X, Wolverine, Cyclops, Storm, Beast i inni (zależnie od zestawu)
+- **Konstrukcja:** Wielopiętrowy budynek z pomieszczeniami tematycznymi
+- **Funkcje:** Otwierane sekcje, szczegółowe wnętrza, liczne elementy interaktywne
+- **Przeznaczenie:** Zabawa + kolekcjonowanie
+- **Rekomendowany wiek:** Dla fanów Marvela i LEGO
+- **Akcesoria:** Sprzęt treningowy, elementy technologiczne, dekoracyjne detale
+- **Zastosowanie:** Kreatywna zabawa, ekspozycja, uzupełnienie kolekcji Marvel
 
----
+**Galeria:**
 
-## 76415 — Zestaw Świateł Led Do Lego 76415 Harry Potter Bitwa Pod Hogwartem Trwałe
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 166.99 zł · EAN: 00000323429335 · in stock*
-
-ZESTAW ŚWIATEŁ LED DO LEGO 76415 HARRY POTTER BITWA POD HOGWARTEM TRWAŁE
-
-BRAK INSTRUKCJI W JĘZYKU ANGIELSKIM
-
-**Unikalny design**
-
-Zestaw świateł LED został zaprojektowany tak, aby idealnie pasował do modelu Lego 76415 „Harry Potter – Bitwa pod Hogwart”. Możesz ożywić swoją konstrukcję, regulując jasność świateł od ciemnego do jasnego. (**Uwaga: w zestawie znajduje się tylko zestaw świateł LED.)**
-
-**Bezpieczny materiał**
-
-Wszystkie części są wykonane ręcznie z przyjaznych materiałów. Powierzchnia świateł LED jest gładka, bez ostrych krawędzi czy nieprzyjemnych zapachów. Diody LED mają jednolity wzór świecenia, a złącza kablowe idealnie do siebie pasują, co zapewnia bezpieczne użytkowanie.
-
-**Łatwy montaż**
-
-Zestaw zawiera szczegółowe instrukcje krok po kroku, dzięki którym instalacja świateł staje się łatwa i przyjemna. Ulepsz swój ulubiony zestaw Lego i pozwól swojej kreatywności zabłysnąć.
-
-**Wskazówki dotyczące instalacji**
-
-Światła LED należy instalować ostrożnie, unikając nadmiernego ciągnięcia, zginania lub potrząsania kablami. Zasilanie odbywa się za pomocą 3 baterii AAA lub przez USB. USB zapewnia jaśniejszy efekt świetlny. Napięcie powinno być mniejsze niż 5V / 1A, aby uniknąć uszkodzeń zestawu.
-
----
-
-## 76417 — Zestaw Świateł Led do Lego 76417 Gringotts Pilot cooldac
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 299.99 zł · EAN: 05905049413055 · in stock*
-
-Zestaw Świateł LED do LEGO 76417 Gringotts Pilot cooldac
-
-Nadaj bankowi czarodziejów Gringotts Wizarding Bank magiczny, filmowy klimat ✨🏦
-
-Ten dekoracyjny zestaw oświetlenia LED został zaprojektowany specjalnie do kolekcjonerskiego modelu LEGO 76417 Gringotts, podkreślając detale architektoniczne i czyniąc model prawdziwą ozdobą kolekcji.
-
-⚠️ UWAGA: Oferta dotyczy wyłącznie zestawu oświetlenia LED – klocki LEGO NIE są częścią zestawu
-
-🧱 Wysokiej jakości materiały
-
-🔹 trwałe tworzywo **ABS + miedź**
-
-🔹 odporność na wysoką temperaturę
-
-🔹 bezpieczne dla klocków LEGO
-
-🔹 długowieczne diody LED
-
-Bez ryzyka uszkodzenia modelu podczas montażu ✅
-
-🛠️ Łatwa i estetyczna instalacja
-
-📖 czytelna instrukcja montażu (może nie być w języku polskim)
-
-🔌 cienkie, elastyczne przewody – łatwe do ukrycia
-
-❌ bez lutowania
-
-❌ bez ingerencji w konstrukcję LEGO
-
-Po instalacji światła nie psują wyglądu modelu ✨
-
-🎁 Idealny prezent dla fanów LEGO i Harry’ego Pottera
-
-🎂 urodziny
-
-🎄 święta
-
-🧱 kolekcjonerzy LEGO
-
-🧙‍♂️ fani świata Harry’ego Pottera
-
-Oświetlenie dodaje **kinowy, kolekcjonerski charakter** każdej ekspozycji.
-
-📋 Specyfikacja techniczna:
-
-- Marka: **cooldac**
-- Kompatybilność: **LEGO 76417 Gringotts Wizarding Bank**
-- Liczba źródeł światła: **2**
-- Sterowanie: **pilot zdalnego sterowania**
-- Materiał: **tworzywo sztuczne (ABS), miedź**
-- Styl: **dekoracyjny / kolekcjonerski**
-- Zasilanie: **baterie – brak w zestawie**
-
-📦 Zestaw zawiera:
-
-✔ komplet oświetlenia LED
-
-✔ pilot zdalnego sterowania
-
-✔ instrukcję montażu -może nie być w języku polskim
-
-❌ klocki LEGO – brak
-
-❌ baterie – brak
+- 76294-1: https://a.allegroimg.com/original/11b25a/4c39b20e4c63b87674f9c4070030
+- 76294-2: https://a.allegroimg.com/original/115b2c/d6bc71214b69b96a074aeab052c1
 
 ---
 
-## 76419 — Zestaw oświetlenia do Lego Zamek Hogwart i błonia 76419
+## 76297 — Tańczący Groot
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 269.00 zł · EAN: 05905413616990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76297 |
+| Nazwa angielska | Dancing Groot |
+| Nazwa polska | Tańczący Groot |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 459 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017601076, 5906684622307 |
 
-Zestaw oświetlenia do LEGO Zamek Hogwart i błonia 76419
+🌱🎵 LEGO Marvel 76297 – Tańczący Groot
 
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+**I am Groot!** 🌱 Zbuduj jedną z najbardziej sympatycznych postaci Marvela i wpraw ją w ruch! **LEGO Marvel 76297 Tańczący Groot** to interaktywny model inspirowany bohaterem „Strażników Galaktyki”, który naprawdę zaczyna tańczyć po przekręceniu specjalnego uchwytu.
 
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+Ruchoma głowa i ramiona, słuchawki, okulary przeciwsłoneczne oraz wymienne tabliczki sprawiają, że Groot może zmieniać wygląd i świetnie prezentuje się również jako dekoracja pokoju fana Marvela.
 
-**Wydobądź więcej ze swojego zestawu LEGO®.**
+⭐ Dlaczego warto?
 
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+**🕺 Groot naprawdę tańczy!**
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+Największą atrakcją zestawu jest specjalny mechanizm ukryty w doniczce. Wystarczy **przekręcić uchwyt z tyłu**, aby połączone elementy Groota zaczęły się poruszać i tańczyć.
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+**🌱 Ruchoma konstrukcja**
 
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+Groot ma **obracaną głowę oraz ruchome ramiona**, dzięki czemu można ustawiać go w różnych pozycjach i zmieniać charakter ekspozycji.
 
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+**🎧 Słuchawki i okulary**
 
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
+W zestawie znajdują się zabawne akcesoria do personalizacji Groota, w tym **słuchawki, okulary przeciwsłoneczne oraz dodatkowe liście**.
 
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
+**🪧 3 wymienne tabliczki**
 
-**W zestawie:**
+Doniczkę można spersonalizować za pomocą jednej z **trzech różnych tabliczek z napisami**, w tym wariantu nawiązującego do serialu „Ja jestem Groot”.
 
-• Gotowe do podłączenia oświetlenie LED (USB-A)
+**🪴 Schowek w doniczce**
 
-• Pojemnik na baterie
+Niepotrzebne w danym momencie dodatki nie muszą się zgubić – w podstawie znajduje się **wbudowany schowek na akcesoria**.
 
-• Instrukcja montażu
+**🧱 459 elementów**
 
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
+Zestaw składa się z **459 klocków**, oferując ciekawy projekt konstrukcyjny dla dzieci od 10 lat oraz starszych fanów Marvela.
 
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+**📱 LEGO Builder**
+
+Zestaw współpracuje z aplikacją LEGO Builder, w której można powiększać i obracać model w 3D oraz śledzić postępy podczas budowania.
+
+**🖼️ Świetny model na półkę**
+
+Po zakończeniu budowania Groot może zostać efektowną dekoracją biurka, pokoju gracza lub kolekcji LEGO Marvel.
+
+🎯 Idealny dla
+
+✅ fanów Marvela
+
+✅ miłośników Groota
+
+✅ fanów Strażników Galaktyki
+
+✅ dzieci od 10. roku życia
+
+✅ kolekcjonerów LEGO Marvel
+
+✅ osób lubiących ruchome modele LEGO
+
+✅ dekoracji pokoju lub biurka
+
+✅ na prezent urodzinowy lub świąteczny
+
+📋 Specyfikacja
+
+🔹 **Marka:** LEGO
+
+🔹 **Seria:** LEGO Marvel
+
+🔹 **Nazwa:** Tańczący Groot
+
+🔹 **Numer zestawu:** 76297
+
+🔹 **EAN (GTIN):** **5702017601076**
+
+🔹 **UPC:** 673419394369
+
+🔹 **Liczba elementów:** **459**
+
+🔹 **Wiek:** **10+**
+
+🔹 **Postać:** Groot
+
+🔹 **Uniwersum:** Marvel / Strażnicy Galaktyki
+
+🔹 **Funkcja tańca:** tak
+
+🔹 **Ruchoma głowa:** tak
+
+🔹 **Ruchome ramiona:** tak
+
+🔹 **Schowek na akcesoria:** tak
+
+🔹 **Słuchawki:** tak
+
+🔹 **Okulary przeciwsłoneczne:** tak
+
+🔹 **Dodatkowe liście:** tak
+
+🔹 **Liczba tabliczek:** 3
+
+🔹 **Wysokość gotowego modelu:** ponad **22 cm**
+
+🔹 **Aplikacja LEGO Builder:** tak
+
+🔹 **Baterie:** nie są wymagane
+
+📦 Zawartość zestawu
+
+✔️ 459 elementów LEGO
+
+✔️ Groot do zbudowania
+
+✔️ doniczka z mechanizmem tańca
+
+✔️ słuchawki
+
+✔️ okulary przeciwsłoneczne
+
+✔️ dodatkowe liście
+
+✔️ 3 wymienne tabliczki
+
+✔️ wbudowany schowek na akcesoria
+
+✔️ instrukcja budowania
+
+✔️ dostęp do instrukcji LEGO Builder
+
+✔️ oryginalne opakowanie LEGO
+
+✨ Groot, który nie zamierza stać spokojnie!
+
+Ten model daje więcej możliwości niż klasyczna figurka do postawienia na półce. 🌱🎶 Załóż Grootowi słuchawki i okulary, wybierz tabliczkę na doniczkę, a następnie przekręć uchwyt i zobacz, jak cała postać zaczyna się poruszać.
+
+🚀 **Świetne połączenie budowania, zabawy i efektownej dekoracji dla każdego fana Groota i Strażników Galaktyki!**
+
+**Galeria:**
+
+- 76297-1: https://a.allegroimg.com/original/11bada/9ba09ffb489d9ce59dcc25133f25
+- 76297-2: https://a.allegroimg.com/original/11cf12/adf61e50487e8d0365fcc113768a
 
 ---
 
-## 76421 — Dedykowany zestaw oświetlenia Led do Lego Harry Potter Skrzat Zgredek 76421
+## 76421 — Zgredek, skrzat domowy
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 300.00 zł · EAN: 05905413616884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76421 |
+| Nazwa angielska | Dobby the House-Elf |
+| Nazwa polska | Zgredek, skrzat domowy |
+| Seria | Harry Potter |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 403 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm × gł. 10 cm |
+| EAN | 5702017462455, 5905413616884 |
 
-Dedykowany zestaw oświetlenia LED do Lego Harry Potter Skrzat Zgredek 76421
+Zachwyć fanów Harry'ego Pottera™ pierwszym w historii modelem LEGO® skrzata domowego Zgredka™. Natychmiast rozpoznawalna postać zbudowana z klocków ma ruchomą głowę, dzięki której może robić różne miny, oraz ruchome ręce i palce, dzięki którym Zgredek może trzymać dołączone kultowe akcesoria. W zestawie jest szczegółowy model skarpety Harry'ego Pottera do zbudowania z pamiętnikiem Toma Riddle'a, którego Harry użył do uwolnienia Zgredka, oraz „lewitujące” ciasto budyniowe ciotki Petunii, które przywoła wspomnienia z kultowych scen.
  
+Wspaniały model kolekcjonerski
  
-- Nazwa produktu: Dedykowany zestaw oświetlenia LED do Lego Harry Potter Skrzat domowy Zgredek 76421 
-- Typ produktu: Oświetlenie do zestawu Lego 
-- Technologia oświetlenia: LED 
-- Typ: Plug&Play - świecące klocki z diodami LED 
-- Zawiera instrukcję instalacji 
-- Rekomendowane użycie: Oświetlanie zestawu Lego 
-- Zasilanie: Usb lub 3xAA (brak baterii w zestawie) 
-- Przeznaczony dla osób kolekconujących zestawy Lego 
-- Produkt nie zawiera zestawu Lego 
+Magiczny pomysł na prezent dla dzieci w wieku od ośmiu lat i każdego kolekcjonera pamiątek z Harry’ego Pottera — ten kolekcjonerski model skrzata domowego Zgredka ma 19 cm wysokości. Umieść figurkę Zgredka na podstawce do zbudowania z tabliczką, aby stworzyć ozdobę, która z pewnością przyciągnie wzrok każdego, kto ją zobaczy.
+ 
+Nowy sposób budowania
+ 
+Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy.
 
-**Wyjątkowe oświetlenie do Lego**
  
-Stwórz wymarzony Lego room z oświetleniem do Lego, Twój zestaw Lego już nigdy nie zniknie w ciemności. Uatrakcyjnij swoje otoczenie i odetchnij z ulgą. Zamów dedykowane oświetlenie do Twojego zestawu Lego.
- 
-**Nowe życie Twojego zestawu – Zachwyć się jego wyglądem na nowo**
- 
-Oświetlenie do Lego zachwyca przez cały dzień i noc. Uatrakcyjnij swoje otoczenie i relaksuj się widokiem pięknie oświetlonego zestawu Lego. Światła Led idealnie podkreślą wszystkie najważniejsze szczegóły a dodatkowo odświeżą wygląd Twojego zestawu Lego.
+- Pierwszy model LEGO® Harry Potter™ skrzata domowego Zgredka™ (76421) — młodzi fani Harry'ego Pottera mogą zbudować i ustawić na półce figurkę jednej z najbardziej uwielbianych postaci w świecie czarodziejów 
+- Ruchoma głowa, uszy, ramiona i palce — ustawiaj różne pozy i dopasowuj dłonie Zgredka, aby mógł trzymać akcesoria zbudowane z klocków 
+- Kultowe akcesoria — dzieci mogą ponownie przeżyć sceny z klasycznych filmów, budując „lewitujące” ciasto budyniowe cioci Petunii i szczegółowy model pamiętnika Toma Riddle'a ze skarpetą Harry'ego Pottera 
+- Stworzony do ustawienia na półce — ustaw figurkę Zgredka™ na podstawce zbudowanej z klocków i dodaj tabliczkę 
+- Świetny pomysł na prezent dla dzieci w wieku od ośmiu lat — podaruj ten składający się z 403 elementów zestaw jako prezent urodzinowy lub świąteczny dla dzieci i każdego fana Harry'ego Pottera™ 
 
-(zdjęcie przykładowe - ilość oraz rodzaj świecących klocków zależy od wybranego produktu)
+ 
+- Modele LEGO® Harry Potter™ zaprojektowane tak, by robić wrażenie — ta figurka do zbudowania ma 19 cm wysokości, 12 cm szerokości i 10cm głębokości 
+- Pomoc w budowaniu — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele w 3D w trakcie budowania 
+- Więcej zaczarowanej zabawy — szeroka gama zestawów kolekcjonerskich LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli™ uwielbiane postacie, znane miejsca i magiczne przygody
 
-**Rewolucja w Twojej kolekcji Lego – łatwe w instalacji światła Led**
- 
-Odśwież zestaw Lego z dedykowanymi światłami w technologi LED. Oświetlenie jest łatwe w instalacji, dzięki przemyślanej konstrukcji diod led ukrytych w oryginalnych klockach Lego. Pakiet oświetlenia jest nieinwazyjny dla Twojego zestawu Lego i praktycznie niewidoczny w trybie spoczynku  Jasne diody LED oświetlą swój zestaw Lego nawet w jasnym pomieszczeniu. 
- 
-**Jak podłączyć oświetlenie?**
- 
-Oświetlenie jest w formie klocków Lego z diodami LED wewnątrz. Instalacja jest bardzo prosta, wystarczy przypiąć świecący klocek do innego klocka Lego. W zestawie dołączona jest instrukcja, która przeprowadzi przez cały proces instalacji.
- 
-**Jak zasilać oświetlenie?**
- 
-Oświetlenie LED jest zakończone kablem USB, można wpiąć go do kostki ładowarki, aby podłączyć oświetlenie do stałego źródła zasilania. W zestawie jest dołączony powerbank na baterie 3xAA (brak baterii w zestawie) aby podłączyć oświetlenie do zasilania w sytuacji kiedy zestaw Lego stoi w trudno dostępnym miejscu, bez bliskiego źródła energii.
- 
-**Czy proces instalacji oświetlenia do zestawu Lego jest łatwy?**
- 
-Tak, oferowane przez nas oświetlenie do Lego jest łatwe w montażu, nawet dla osób nie posiadających zdolności techicznych.
+**Galeria:**
+
+- 76421-1: https://a.allegroimg.com/original/1130c4/74d0e39f4c9f84c0f2409de17cb1
+- 76421-2: https://a.allegroimg.com/original/113dc6/a21f480e4f8bb3c9e1f62902f84f
 
 ---
 
-## 76920 — Lego Speed Champions 76920 Ford Mustang Dark Horse Katalog W Wersji Pdf
+## 76920 — Ford Mustang Dark Horse
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 147.49 zł · EAN: 05907413370018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76920 |
+| Nazwa angielska | Ford Mustang Dark Horse Sports Car |
+| Nazwa polska | Ford Mustang Dark Horse |
+| Seria | Speed Champions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 344 |
+| Cena katalogowa | 119.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702015597593, 5702017583730, 5907413370018 |
 
 ❗W SKŁAD ZESTAWU WCHODZI❗
 
@@ -4387,53 +3849,29 @@ Wymiary:
 
 ❗SERDECZNIE ZAPRASZAM DO ZAKUPU❗
 
----
+**Galeria:**
 
-## 76968 — Zestaw oświetlenia do Lego Jurassic World tyranozaur 76968
-
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 369.00 zł · EAN: 05907213510836 · in stock*
-
-Zestaw oświetlenia do LEGO JURASSIC WORLD Szkielety dinozaurów: tyranozaur 76968
-
-Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
-
-Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
-
-**Wydobądź więcej ze swojego zestawu LEGO®.**
-
-Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
-
-Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
-
-Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
-
-Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
-
-**W zestawie:**
-
-• Gotowe do podłączenia oświetlenie LED (USB-A)
-
-• Pojemnik na baterie
-
-• Instrukcja montażu
-
-Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
-
-- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
-- Prosty montaż. Bez narzędzi. Bez lutowania
-- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+- 76920-1: https://a.allegroimg.com/original/115ed9/28656f8e462a81c99506af500d48
+- 76920-2: https://a.allegroimg.com/original/0532ef/421b25b74d608c3da2860b7f1a92
+- 76920-3: https://a.allegroimg.com/original/11d6e8/94f849f04d9f98a8defcf9058c12
 
 ---
 
-## 76989 — Zestaw oświetlenia do Lego Horizon Forbidden West: Żyrafa 76989 (bez Lego)
+## 76989 — Horizon Forbidden West: Żyraf
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 249.00 zł · EAN: 05905413616129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76989 |
+| Nazwa angielska | Horizon Forbidden West: Tallneck |
+| Nazwa polska | Horizon Forbidden West: Żyraf |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017156491, 5905413616129 |
 
 Zestaw oświetlenia do LEGO Horizon Forbidden West: Żyrafa 76989 Creator Expert
 
@@ -4471,11 +3909,27 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
+**Galeria:**
+
+- 76989-1: https://a.allegroimg.com/original/11518e/3cd5baf64a6bbea81aaab72b8229
+- 76989-2: https://a.allegroimg.com/original/1165c2/b7cca5b04e76a69748b080452a50
+
 ---
 
-## 77256 — Zestaw oświetlenia do Lego Speed Champions Powrotu do przyszłości #77256
+## 77256 — Wehikuł czasu z Powrotu do przyszłości
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 229.00 zł · EAN: 05907213510980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77256 |
+| Nazwa angielska | Time Machine from Back to the Future |
+| Nazwa polska | Wehikuł czasu z Powrotu do przyszłości |
+| Seria | Speed Champions |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 357 |
+| Cena katalogowa | 114.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068229, 5907213510980 |
 
 Zestaw oświetlenia do LEGO SPEED CHAMPIONS Wehikuł czasu z Powrotu do przyszłości #77256
 
@@ -4513,11 +3967,28 @@ Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
 - Prosty montaż. Bez narzędzi. Bez lutowania
 - Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
 
+**Galeria:**
+
+- 77256-1: https://a.allegroimg.com/original/11a10f/8b58740741eca3f22c7e5e181a3c
+- 77256-2: https://a.allegroimg.com/original/11785d/742bd4fa4c76890484f67f1d0c2a
+
 ---
 
-## 7798 — Lego Creator 7798 Dinozaur Stegozaur saszetka z klockami unikat wycofany
+## 7798 — Stegosaurus
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702014518391 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7798 |
+| Nazwa angielska | Stegosaurus |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518391 |
 
 Klocki LEGO rozwijają kreatywność i wyobraźnię, uczą logicznego myślenia i cierpliwości, pozwalają na zabawę zarówno dzieciom, jak i dorosłym.
 
@@ -4531,11 +4002,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7798-1: https://a.allegroimg.com/original/11c5aa/7c6de6844dfb8ed1cf717c4c8d2a
+
 ---
 
-## 79101 — Lego Teenage Mutant Ninja Turtles 79101 Motor Shreddera Nowe
+## 79101 — Shredder's Dragon Bike
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702014972155 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79101 |
+| Nazwa angielska | Shredder's Dragon Bike |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972155 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4545,11 +4031,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 LEGO® 79101 Teenage Mutant Ninja Turtles – Motor Shreddera to dynamiczny zestaw inspirowany kultową kreskówką TMNT. W pudełku znajdziesz szczegółowy motocykl Shreddera oraz minifigurki: Shredder, Donatello i utrom. Dzięki temu zestawowi możesz odtworzyć ekscytujące pościgi ulicami miasta i przeżywać niezapomniane przygody razem z bohaterami żółwi ninja. Model świetnie sprawdzi się zarówno jako zabawka, jak i element kolekcji LEGO® Teenage Mutant Ninja Turtles.
 
+**Galeria:**
+
+- 79101-1: https://a.allegroimg.com/original/110ede/b297d4c44ea8b757875b637efa69
+
 ---
 
-## 79105 — Lego Teenage Mutant Ninja Turtles 79105 Baxter Robot Rampage Nowe
+## 79105 — Baxter Robot Rampage
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 670.00 zł · EAN: 05702014972438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79105 |
+| Nazwa angielska | Baxter Robot Rampage |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 397 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972438 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4559,11 +4060,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Teenage Mutant Ninja Turtles Baxter Robot Rampage **został przedstawiony w 2013 roku i zbudowany jest z 397 klocków LEGO®. W opakowaniu znajdziesz również 5 minifigurek. Klocki przeznaczone są dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 79105-1: https://a.allegroimg.com/original/11c24f/15908ade4e0e86b99c6bc59792f9
+
 ---
 
-## 79116 — Lego 79116 Teenage Mutant Ninja Turtles Śnieżna ucieczka ciężarówką 2014r
+## 79116 — Big Rig Snow Getaway
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702015126625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79116 |
+| Nazwa angielska | Big Rig Snow Getaway |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015126625 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4575,11 +4091,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 79116-1: https://a.allegroimg.com/original/11740e/3580faec47d68ec516370fd6bed6
+
 ---
 
-## 8020189 — Lego Classic zegarek dziecięcy 8020189 regulowany pasek edycja Limitowana
+## 8020189 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 05060286804322 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8020189 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060286804322 |
 
 Kolorowy zegarek LEGO® CLASSIC - idealny prezent dla każdego dziecka
 
@@ -4630,11 +4161,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8020189-1: https://a.allegroimg.com/original/11e43a/569254894ae8b3b2882a46522e90
+
 ---
 
-## 8021193 — Lego City Oficer Policji zegarek dziecięcy 8021193 regulowany pasek
+## 8021193 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 05060286804971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021193 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060286804971 |
 
 Kolorowy zegarek LEGO® CITY – idealny prezent dla każdego chłopca
 
@@ -4684,11 +4230,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021193-1: https://a.allegroimg.com/original/116bca/6d0ac74d47a9bb97fae6f0f8ec59
+
 ---
 
-## 8021209 — Lego Strażak zegarek dziecięcy 8021209 regulowany pasek, Straż Pożarna
+## 8021209 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 00812768021209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021209 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021209 |
 
 Kolorowy zegarek LEGO® FIREFIGHTER – idealny prezent dla każdego dziecka
 
@@ -4738,11 +4299,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021209-1: https://a.allegroimg.com/original/11d2bd/9f64737a406f8e4f5e8776cdc33a
+
 ---
 
-## 8021230 — Lego Friends Mia zegarek dziecięcy 8021230 kolorowy regulowany pasek
+## 8021230 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 00812768021230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021230 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021230 |
 
 Kolorowy zegarek LEGO® Friends Mia – idealny prezent dla każdej dziewczynki!
 
@@ -4797,11 +4373,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021230-1: https://a.allegroimg.com/original/11e03d/eab0631a4f51990e7d3188002e6c
+
 ---
 
-## 8021247 — Lego Friends Olivia zegarek dziecięcy 8021247 kolorowy regulowany pasek
+## 8021247 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 05060286805039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021247 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060286805039 |
 
 Kolorowy zegarek LEGO® Friends Olivia – idealny prezent dla każdej dziewczynki!
 
@@ -4849,11 +4440,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021247-1: https://a.allegroimg.com/original/110d26/134e171e426ea688db99e6d42fb6
+
 ---
 
-## 8021445 — Lego MOVIE2 Emmet zegarek dziecięcy 8021445 regulowany pasek
+## 8021445 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 00812768021445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021445 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021445 |
 
 Kolorowy zegarek LEGO® MOVIE 2 – idealny prezent dla każdego chłopca
 
@@ -4903,11 +4509,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021445-1: https://a.allegroimg.com/original/11920f/af3600e74d18b54c9fe8a342f296
+
 ---
 
-## 8021568 — Lego Batman zegarek dziecięcy 8021568 regulowany pasek
+## 8021568 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 89.00 zł · EAN: 00812768021568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021568 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021568 |
 
 Kolorowy zegarek LEGO® BATMAN – idealny prezent dla każdego dziecka
 
@@ -4964,11 +4585,26 @@ DANE TECHNICZNE:
 - Pasek: segmentowy, regulowany, **hipoalergiczny**
 - Bateria: SR626SW (w zestawie)
 
+**Galeria:**
+
+- 8021568-1: https://a.allegroimg.com/original/110c23/107f36114d1e824a0894cc361688
+
 ---
 
-## 8021575 — Lego Heroes 8021575 Zegarek Superman
+## 8021575 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 88.99 zł · EAN: 00812768021575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021575 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021575 |
 
 LEGO DC Super Heroes Zegarek Superman
  
@@ -4992,11 +4628,26 @@ Ilość elementów: 24
 - Ilość elementów: 24 
 - Wiek: 6+
 
+**Galeria:**
+
+- 8021575-1: https://a.allegroimg.com/original/1198f8/ac25d7cb48aeb9d85032f0a50a42
+
 ---
 
-## 8427 — Elementy do Lego świetlne 8427 -107
+## 8427 — ?
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 62.10 zł · EAN: 05904567857235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8427 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 3 m + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5904567857235 |
 
 Szukasz produktu, który spełni Twoje oczekiwania i ułatwi codzienne obowiązki?
 
@@ -5010,11 +4661,26 @@ Wiemy, że czekasz na swoją paczkę. Dlatego nasz system logistyczny pracuje na
 
 **Wsparcie, na które możesz liczyć:** Nie znikamy po sprzedaży. Jeśli będziesz potrzebować pomocy przy montażu lub obsłudze – jesteśmy pod telefonem/mailem
 
+**Galeria:**
+
+- 8427-1: https://a.allegroimg.com/original/119694/b997496e4e1493520d83354247b1
+
 ---
 
-## 850666 — Lego Mini Figurka Spider -Man Magnet 850666
+## 850666 — Spider-Man Magnet
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419195287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850666 |
+| Nazwa angielska | Spider-Man Magnet |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195287 |
 
 **Oryginalny magnes LEGO z minifigurką – wyjątkowy gadżet kolekcjonerski**
 
@@ -5042,11 +4708,26 @@ Wiemy, że czekasz na swoją paczkę. Dlatego nasz system logistyczny pracuje na
 
 **📦 Każdy magnes starannie zabezpieczamy na czas transportu**
 
+**Galeria:**
+
+- 850666-1: https://a.allegroimg.com/original/118f0e/ecff68f748319e3e34840c03e3bb
+
 ---
 
-## 850686 — Lego 850686 Notatnik z ćwiekami
+## 850686 — Notebook with Studs
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 199.99 zł · EAN: 00673419194815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850686 |
+| Nazwa angielska | Notebook with Studs |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194815 |
 
 LEGO 850686 Notatnik z ćwiekami
 
@@ -5056,11 +4737,27 @@ Przechowuj swoje najlepsze pomysły konstrukcyjne w notesie LEGO® z wypustkami.
 - Buduj, rysuj, pisz i planuj z notesem LEGO®
 - Świetny prezent dla fanów LEGO
 
+**Galeria:**
+
+- 850686-1: https://a.allegroimg.com/original/116a53/558fd7d14f7fa8bc369bfee17793
+
 ---
 
-## 850849 — Lego 850849 Friends Świąteczna bombka z domkiem dla psa
+## 850849 — Friends Puppy Holiday Bauble
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 149.99 zł · EAN: 00673419201315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850849 |
+| Nazwa angielska | Friends Puppy Holiday Bauble |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419201315 |
 
 LEGO 850849 Friends - Świąteczna bombka z domkiem dla psa
 
@@ -5076,11 +4773,27 @@ Skorzystaj z dołączonej instrukcji, aby zbudować domek dla figurki szczeniacz
 - Idealny jako drobny prezent świąteczny
 - Średnica ponad 7 cm
 
+**Galeria:**
+
+- 850849-1: https://a.allegroimg.com/original/45d43c/332d675a438f9288885ef0832e41
+
 ---
 
-## 850852 — Lego 850852 Świąteczna bombka z reniferem
+## 850852 — Reindeer Holiday Bauble
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 149.99 zł · EAN: 00673419201346 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850852 |
+| Nazwa angielska | Reindeer Holiday Bauble |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419201346 |
 
 LEGO 850852 Świąteczna bombka z reniferem
 
@@ -5096,11 +4809,26 @@ Skorzystaj z dołączonej instrukcji, aby zbudować małego renifera LEGO z ruch
 - Idealny jako drobny prezent świąteczny
 - Średnica ponad 7 cm
 
+**Galeria:**
+
+- 850852-1: https://a.allegroimg.com/original/45292a/1d7397454ceab100af863d1c65ea
+
 ---
 
-## 852942 — Lego Heroes 852942 Magnet set
+## 852942 — Prince of Persia Magnet Set
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 149.00 zł · EAN: 00673419139137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852942 |
+| Nazwa angielska | Prince of Persia Magnet Set |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419139137 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5119,11 +4847,26 @@ Skorzystaj z dołączonej instrukcji, aby zbudować małego renifera LEGO z ruch
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852942-1: https://a.allegroimg.com/original/119456/88987ad84f17a36693816e8355e1
+
 ---
 
-## 853431 — Lego 853431 magnesy kolekcjonerskie Heroes
+## 853431 — Super Heroes Magnet Set
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 149.00 zł · EAN: 00673419011068 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853431 |
+| Nazwa angielska | Super Heroes Magnet Set |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419011068 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5142,11 +4885,27 @@ Skorzystaj z dołączonej instrukcji, aby zbudować małego renifera LEGO z ruch
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853431-1: https://a.allegroimg.com/original/11e4fc/dd62d8d5426fada17f60d2b79de8
+
 ---
 
-## 853443 — Lego Friends Akcesoria 853443 Tabliczka Vip Friends Przyjaciele Tablica
+## 853443 — Name Sign
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 24.99 zł · EAN: 00673419239493 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853443 |
+| Nazwa angielska | Name Sign |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239493 |
 
 LEGO Friends, Tabliczka VIP, zestaw klocków, 853443
 
@@ -5165,11 +4924,26 @@ Stwórz własną ekspozycję w swoim pokoju, na biurku lub w innym ulubionym mie
 - **Głębokość pudełka:** 3 cm
 - **Seria:** Friends
 
+**Galeria:**
+
+- 853443-1: https://a.allegroimg.com/original/1181bd/c774059b454db2efd27c2aad4fb7
+
 ---
 
-## 853611 — Lego 853611 Ramka na minifigurki Marvel Heroes Minifigures Oryginalna
+## 853611 — Marvel Super Heroes Minifigure Display Frame
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 140.00 zł · EAN: 00673419258548 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853611 |
+| Nazwa angielska | Marvel Super Heroes Minifigure Display Frame |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258548 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -5179,11 +4953,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 853611-1: https://a.allegroimg.com/original/11de5a/678cc7b34fb0b5f31bb17298e854
+
 ---
 
-## 853648 — Brelok Lego Elves 853648 Figurka Roblin
+## 853648 — Roblin Bag Charm
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419271295 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853648 |
+| Nazwa angielska | Roblin Bag Charm |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419271295 |
 
 Brelok LEGO® ELVES 853658
 
@@ -5201,11 +4990,26 @@ Wybierz się na poszukiwanie przygód z własnym goblinem Roblinem u boku! Brelo
 - Breloczek ma również dekoracyjną wstążkę i płytkę LEGO® w rozmiarze 2x4.
 - Minifigurki i klocka nie można zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853648-1: https://a.allegroimg.com/original/11e396/a7790c134cebbeeaa6c4e2f293a8
+
 ---
 
-## 853911 — Lego 853911 Foremka do lodu Lego
+## 853911 — Ice Cube Tray
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419307680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853911 |
+| Nazwa angielska | Ice Cube Tray |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419307680 |
 
 LEGO 853911 Foremka do lodu LEGO
 
@@ -5229,11 +5033,26 @@ Stan: **Nowe**
 - Wykonana z silikonu.
 - Wymiary: ok. 20 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 853911-1: https://a.allegroimg.com/original/11e703/fb28ac3544daadbd5a721424dd40
+
 ---
 
-## 853912 — Lego 853912 Foremka Do Lodów Lizaków Lody Lego
+## 853912 — Ice Lollipop Tray
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 69.99 zł · EAN: 00673419307697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853912 |
+| Nazwa angielska | Ice Lollipop Tray |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 5 m + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419307697 |
 
 LEGO 853912 FOREMKA DO LODÓW LIZAKÓW LEGO
 
@@ -5244,11 +5063,26 @@ Sięgnij po foremkę do lizaków LEGO z zestawu 853912 LEGO® Iconic i przekonaj
 - Zawiera łatwą do umycia plastikową foremkę na 6 lodowych lizaków, a do tego 3 patyczki z postacią klauna i 3 patyczki z postacią pirata.
 - Foremka ma ok. 19 cm długości, 16 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 853912-1: https://a.allegroimg.com/original/11289f/b5cf457a4c96b3c6c0a765c7b4d0
+
 ---
 
-## 853914 — Lego 853914 Magnes Z Londyńskim Autobusem
+## 853914 — London Bus Magnet
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 54.45 zł · EAN: 00673419307710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853914 |
+| Nazwa angielska | London Bus Magnet |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419307710 |
 
 LEGO 853914 - MAGNES Z LONDYŃSKIM AUTOBUSEM
 
@@ -5272,11 +5106,27 @@ Londyński piętrus to jeden z najbardziej rozpoznawalnych pojazdów świata. Te
 - Gotowy magnes przyczepisz do lodówki, szafki lub innej metalowej powierzchni,
 - Wymiary: ok. 6 cm długości, 4 cm szerokości i 2 cm wysokości.
 
+**Galeria:**
+
+- 853914-1: https://a.allegroimg.com/original/118573/df22c2fd49e8987e5c7e3fbf2fed
+
 ---
 
-## 853958 — Lego 853958 Okolicznościowe Kurczak na rolkach
+## 853958 — Chicken Skater Pod
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 129.00 zł · EAN: 00673419307871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853958 |
+| Nazwa angielska | Chicken Skater Pod |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419307871 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5295,11 +5145,26 @@ Londyński piętrus to jeden z najbardziej rozpoznawalnych pojazdów świata. Te
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853958-1: https://a.allegroimg.com/original/118b2a/75bc322f42f789f7badd1318db00
+
 ---
 
-## 853985 — Lego 853985 Ninjago Katana-klucz Ninjago
+## 853985 — Keytana
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 54.45 zł · EAN: 00673419321754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853985 |
+| Nazwa angielska | Keytana |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 18 cm |
+| EAN | 673419321754 |
 
 LEGO 853985 NINJAGO Katana-klucz NINJAGO
 
@@ -5324,11 +5189,26 @@ Stan: **Nowe**
 - Doskonały prezent LEGO® na urodziny lub pod choinkę dla dzieci w wieku 6 lat, który otworzy im drzwi do ekscytujących przygód w świecie gry Prime Empire.
 - Wymiary katany to ok. 32 cm wysokości 18 cm szerokości — w sam raz, by małym ninja było wygodnie wywijać nią w walce!
 
+**Galeria:**
+
+- 853985-1: https://a.allegroimg.com/original/112706/c9e842554b0782deed9da71750e7
+
 ---
 
-## 854011 — Lego 854011 Magnes Z Wieżą Eiffla
+## 854011 — Eiffel Tower Magnet Build
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 59.45 zł · EAN: 00673419324113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854011 |
+| Nazwa angielska | Eiffel Tower Magnet Build |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 673419324113 |
 
 LEGO 854011 - MAGNES Z WIEŻĄ EIFFLA
 
@@ -5352,11 +5232,26 @@ Dzięki temu zestawowi Magnes z Wieżą Eiffla do złożenia LEGO® Iconic (8540
 - Ten 29-elementowy zestaw zawiera magnetyczny klocek 4x4 i naklejki z dodatkowymi szczegółami. Doskonale sprawdzi się jako prezent pod choinkę, na urodziny lub z innej okazji.
 - Mierzący ok. 8 cm wysokości i 6 cm szerokości mikromodel Wieży Eiffla doda każdej powierzchni przyciągającej magnesy odrobinę wspaniałości.
 
+**Galeria:**
+
+- 854011-1: https://a.allegroimg.com/original/11878a/b777e4b4422db40c601e8ead5853
+
 ---
 
-## 854012 — Lego 854012 Magnes Z Londynu Do Złożenia
+## 854012 — London Magnet Build
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 59.45 zł · EAN: 00673419325035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854012 |
+| Nazwa angielska | London Magnet Build |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 673419325035 |
 
 LEGO 854012 - MAGNES Z LONDYNU DO ZŁOŻENIA
 
@@ -5380,11 +5275,26 @@ Dzięki zestawowi Magnes z Londynu do złożenia LEGO® Iconic (854012), zawiera
 - Ten 25-elementowy mikrozestaw konstrukcyjny LEGO® zawiera magnetyczny klocek 4x4 i naklejki z dodatkowymi szczegółami. Doskonale sprawdzi się jako prezent pod choinkę, na urodziny lub z innej okazji,
 - Mierzący ok. 4 cm wysokości i 6 cm szerokości mikromodel londyńskich konstrukcji doda każdej przyciągającej magnesy powierzchni odrobinę brytyjskiego stylu.
 
+**Galeria:**
+
+- 854012-1: https://a.allegroimg.com/original/1187d4/978006ab41cf90ae15e6f397d108
+
 ---
 
-## 854030 — Lego 854030 Magnes Z Empire State Building
+## 854030 — Empire State Building Magnet Build
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 59.45 zł · EAN: 00673419325509 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854030 |
+| Nazwa angielska | Empire State Building Magnet Build |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 673419325509 |
 
 LEGO® 854030 Magnes z Empire State Building do złożenia
 
@@ -5392,11 +5302,27 @@ Dzieci mogą uczcić jeden z najwyższych zabytków na świecie dzięki temu zes
  
 Ten 25-częściowy zestaw konstrukcyjny LEGO® ma ok. 9 cm wysokości i 4 cm szerokości.
 
+**Galeria:**
+
+- 854030-1: https://a.allegroimg.com/original/11e76d/fb4427b94ae9b57aeec4307eff63
+
 ---
 
-## 912308 — Lego Star Wars 912308 At-te saszetka z klockami
+## 912308 — AT-TE
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 24.99 zł · EAN: 00752582136058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912308 |
+| Nazwa angielska | AT-TE |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 752582136058 |
 
 Witam
 
@@ -5412,11 +5338,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912308-1: https://a.allegroimg.com/original/113783/7d0abd9b45819db70492d9e64f75
+
 ---
 
-## 9688 — Lego 9688 Odnawialna Energia
+## 9688 — Renewable Energy Add-On Set
 
-*Kategoria: Pozostałe · cena Allegro (2026-08-17): 1249.95 zł · EAN: 00673419261005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9688 |
+| Nazwa angielska | Renewable Energy Add-On Set |
+| Nazwa polska | — |
+| Seria | Pozostałe |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419261005 |
 
 LEGO 9688 Odnawialna Energia
 
@@ -5444,6 +5385,10 @@ Opis produktu:
 Galeria produktu:
 
 Zdjęcia poglądowe
+
+**Galeria:**
+
+- 9688-1: https://a.allegroimg.com/original/111c93/d77389df4648805ccb26af1248a9
 
 ---
 

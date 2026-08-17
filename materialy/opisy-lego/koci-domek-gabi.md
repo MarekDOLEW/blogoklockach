@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Koci domek Gabi — opisy produktowe (11 pozycji)
 
-## 10785 — Lego Koci domek Gabi Pieczenie tortu z Łakotkiem 10785
+## 10785 — Zabawne pieczenie ciast
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 81.59 zł · EAN: 05702017424095 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10785 |
+| Nazwa angielska | Bakey with Cakey Fun |
+| Nazwa polska | Zabawne pieczenie ciast |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6,5 cm × gł. 6,5 cm |
+| EAN | 4894041727790, 5702017424095 |
 
 LEGO Pieczenie tortu z Łakotkiem 10785 58 el.
  
@@ -55,11 +65,27 @@ Podaruj zestaw LEGO Pieczenie tortu z Łakotkiem (10785) czteroletnim i starszym
  
 • Zestawy LEGO są zgodne z najbardziej surowymi światowymi standardami bezpieczeństwa
 
+**Galeria:**
+
+- 10785-1: https://a.allegroimg.com/original/11923a/73397114417e81127f73286bbe25
+- 10785-2: https://a.allegroimg.com/original/11785f/ff41d0b544579531aa9cf01060db
+
 ---
 
-## 10786 — Lego Koci domek Gabi 10786 Statek i spa Gabi i Syrenkotki
+## 10786 — Statek i spa Gabi i Syrenkotki
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702014168701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10786 |
+| Nazwa angielska | Gabby & MerCat's Ship & Spa |
+| Nazwa polska | Statek i spa Gabi i Syrenkotki |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702014168701, 5702017424101 |
 
 LEGO Statek i spa Gabi i Syrenkotki 10786 88 el.
  
@@ -93,11 +119,26 @@ LEGO Statek i spa Gabi i Syrenkotki (10786) dla dzieci w wieku od czterech lat t
  
 • Zestawy LEGO są zgodne z najbardziej surowymi światowymi standardami bezpieczeństwa.
 
+**Galeria:**
+
+- 10786-1: https://a.allegroimg.com/original/294bfa/b8670a6d4c0cab83964d3cd745a4
+
 ---
 
-## 10787 — Lego Koci domek Gabi 10787 Wróżkowe przyjęcie w ogrodzie
+## 10787 — Wróżkowe przyjęcie w ogrodzie
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 187.15 zł · EAN: 05702017424118 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10787 |
+| Nazwa angielska | Kitty Fairy's Garden Party |
+| Nazwa polska | Wróżkowe przyjęcie w ogrodzie |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 17 cm × gł. 11 cm |
+| EAN | 4894041725604, 5702017424118 |
 
 LEGO Przyjęcie w ogrodzie Wróżkici
  
@@ -145,11 +186,27 @@ Podaruj czteroletnim i starszym fanom "Kociego domku Gabi" zestaw LEGO Przyjęci
  
 • Zestawy LEGO są zgodne z najbardziej surowymi światowymi standardami bezpieczeństwa.
 
+**Galeria:**
+
+- 10787-1: https://a.allegroimg.com/original/118d2c/b73cea2b4cb896ba649c740e19bf
+- 10787-2: https://a.allegroimg.com/original/11caa7/3a74122442efbad8e30a4310c342
+
 ---
 
-## 10788 — Lego 10788 Gabby's Dollhouse Koci Domek Gabi Dla Dziecka
+## 10788 — Magiczny dom Gábiny
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 254.89 zł · EAN: 05702017424125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10788 |
+| Nazwa angielska | Gabby's Dollhouse |
+| Nazwa polska | Magiczny dom Gábiny |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 498 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 31 cm × gł. 9 cm |
+| EAN | 5702017424125 |
 
 LEGO Gabby's Dollhouse 10788 Koci domek Gabi
  
@@ -203,11 +260,26 @@ Możesz upiec ciasto w kuchni, pobawić się na zjeżdżalni w pokoju zabaw, wyk
  
 • Zestawy LEGO są zgodne z najbardziej surowymi światowymi standardami bezpieczeństwa.
 
+**Galeria:**
+
+- 10788-1: https://a.allegroimg.com/original/11cae3/7ed855ed46e98e019387a14e86c6
+
 ---
 
-## 10795 — Lego Koci Domek Gabi 4+ Prace Ręczne Z Tekturzątkiem 10795
+## 10795 — Magiczny dom Gábiny 10795 Tworzenie za przemyśl połodka
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 33.25 zł · EAN: 05702017582481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10795 |
+| Nazwa angielska | Crafting with Baby Box |
+| Nazwa polska | Magiczny dom Gábiny 10795 Tworzenie za przemyśl połodka |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 4894041730370, 5702017582481 |
 
 **PRODUCENT**: LEGO
  
@@ -237,11 +309,27 @@ Zawiera też klocek startowy, który pomoże dzieciom rozpocząć budowanie. Int
 - Zestaw dla przedszkolaków — szeroka seria ciekawych edukacyjnych zestawów LEGO® dla dzieci w wieku od czterech lat wprowadza je do świata ulubionych seriali, postaci i bohaterów życia codziennego 
 - Zestaw do malowania z 60 elementami — po zbudowaniu sala plastyczna ma 8 cm wysokości, 13 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 10795-1: https://a.allegroimg.com/original/111327/7edd6b4c443da72e413cd595106a
+- 10795-2: https://a.allegroimg.com/original/293088/1c2ef22249ca8a673f44d35741f9
+
 ---
 
-## 10796 — Lego Koci domek Gabi 10796 Kiciklubik Uszko Gabi
+## 10796 — Magiczny dom Gábiny 10796 Gábi i koci żłób
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 163.57 zł · EAN: 05702017582498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10796 |
+| Nazwa angielska | Gabby's Kitty Care Ear |
+| Nazwa polska | Magiczny dom Gábiny 10796 Gábi i koci żłób |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 16 cm × gł. 6 cm |
+| EAN | 4894041725420, 5702017582498 |
 
 LEGO®
 
@@ -268,11 +356,27 @@ Jeśli szukasz prezentu dla przedszkolaka, który uwielbia opiekować się zwier
 - Zestaw dla przedszkolaków — zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzą Twoje dziecko w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego
 - Domek dla zwierząt ze 165 elementami — duży pokój dla kotków ma 11 cm wysokości, 16 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 10796-1: https://a.allegroimg.com/original/11c57c/5e8b5279437f93984506ef79c94b
+- 10796-2: https://a.allegroimg.com/original/11467b/8f922515447fb4e5bab66ff5bfc3
+
 ---
 
-## 10797 — Lego Koci domek Gabi Sala balowa Gabi 10797
+## 10797 — Magiczny dom Gábi 10797 Gábi i jej sala imprezowa
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 194.49 zł · EAN: 05702017582504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10797 |
+| Nazwa angielska | Gabby's Party Room |
+| Nazwa polska | Magiczny dom Gábi 10797 Gábi i jej sala imprezowa |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 37 cm × gł. 7 cm |
+| EAN | 5702017582504 |
 
 LEGO Koci domek Gabi Sala balowa Gabi 10797
 
@@ -297,11 +401,26 @@ Cechy produktu:
 - Zestaw dla przedszkolaków — zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzą Twoje dziecko w świat ulubionych postaci z filmów i seriali oraz bohaterów życia codziennego
 - Dyskoteka z Kociego domku Gabi z 252 elementami — duży pokój imprezowy ma 11 cm wysokości, 37 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 10797-1: https://a.allegroimg.com/original/11521c/01bbb73347bd8c4fd383a511926a
+
 ---
 
-## 11204 — Lego(r) Gabby's Dollhouse 11204 Gabby
+## 11204 — Domek dla lalek Gabby 11204 Gabby's Mermaid Aquarium Adventure
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 78.74 zł · EAN: 05702017813455 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11204 |
+| Nazwa angielska | Mermaid Gabby's Aquarium Adventure |
+| Nazwa polska | Domek dla lalek Gabby 11204 Gabby's Mermaid Aquarium Adventure |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017813455 |
 
 LEGO(R) GABBY'S DOLLHOUSE 11204 GABBY
 
@@ -326,11 +445,26 @@ Gabby's Dollhouse
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017813455
 
+**Galeria:**
+
+- 11204-1: https://a.allegroimg.com/original/112cf6/4d5f2ae740149bdecebbfaa196fc
+
 ---
 
-## 11212 — Lego Koci domek Gabi Domek w ogrodzie Wróżkici 11212
+## 11212 — Domek w ogrodzie Wróżkici
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 45.96 zł · EAN: 05702018063507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11212 |
+| Nazwa angielska | Kitty Fairy's Garden House |
+| Nazwa polska | Domek w ogrodzie Wróżkici |
+| Seria | Koci Domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 103 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063507 |
 
 **LEGO Koci domek Gabi Domek w ogrodzie Wróżkici 11212**
 
@@ -354,11 +488,26 @@ Zestawy LEGO® dla dzieci w wieku od czterech lat wprowadzają je w świat twór
 
 Ten 103-elementowy zestaw ma 12 cm szerokości
 
+**Galeria:**
+
+- 11212-1: https://a.allegroimg.com/original/115b7d/a79d5cea422795ddbeba33c4596d
+
 ---
 
-## 11214 — Lego Koci domek Gabi 11214 Wróżkowa kolejka górska i podwieczorek
+## 11214 — Wróżkowa kolejka górska i podwieczorek
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 190.00 zł · EAN: 00673419422659 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11214 |
+| Nazwa angielska | Fairy Roller Coaster and Tea Party |
+| Nazwa polska | Wróżkowa kolejka górska i podwieczorek |
+| Seria | Koci Domek Gabi |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 137 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 16 cm × gł. 7 cm |
+| EAN | 673419422659 |
 
 **LEGO 11214 Wróżkowa kolejka górska i podwieczorek**
 
@@ -381,11 +530,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 11214-1: https://a.allegroimg.com/original/115681/bd981ddb49008253d7bf6d31dfeb
+
 ---
 
-## 11215 — Lego Koci domek Gabi Koci przyjaciele Gabi z klocków 11215
+## 11215 — LEGO Koci domek Gabi 11215 Koci przyjaciele Gabi z klocków
 
-*Kategoria: Koci domek Gabi · cena Allegro (2026-08-17): 163.43 zł · EAN: 05702018063538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11215 |
+| Nazwa angielska | Gabby's Brick-Built Cat Friends |
+| Nazwa polska | LEGO Koci domek Gabi 11215 Koci przyjaciele Gabi z klocków |
+| Seria | Koci domek Gabi |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 324 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063538, 5702018106082 |
 
 Ciesz się zabawnym budowaniem dzięki zestawowi **Gabi i jej kocie przyjaciółki z klocków** (11215), który zawiera 6 figurek postaci z serialu "Kącik Gabi" dla chłopców i dziewczynek od 6 lat. Dzieci będą się świetnie bawić, składając znane postacie, odtwarzając ulubione historie i wymyślając własne przygody.
  
@@ -404,6 +568,11 @@ W zestawie znajdziesz 6 figurek do złożenia z własnymi akcesoriami z serialu 
 - WYMIARY – Zestaw składa się z 324 elementów, a figurki Kotki-Wróżki i Pandy Pufki mają ponad 9 cm wysokości 
 - Liczba elementów: 324 
 - Odpowiednie dla dzieci od 6 lat
+
+**Galeria:**
+
+- 11215-1: https://a.allegroimg.com/original/11045c/41a766254b7ea4555a704acc8984
+- 11215-2: https://a.allegroimg.com/original/29d499/012eb6214d55887ac3617926df8b
 
 ---
 

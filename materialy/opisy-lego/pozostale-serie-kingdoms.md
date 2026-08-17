@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Kingdoms — opisy produktowe (9 pozycji)
 
-## 10223 — Klocki Lego Kingdoms Zestaw Turniej królewski 10223
+## 10223 — Turniej Rycerski
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 2398.00 zł · EAN: 05702014847958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10223 |
+| Nazwa angielska | Kingdoms Joust |
+| Nazwa polska | Turniej Rycerski |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1575 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014847958 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
  
@@ -42,11 +52,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 - Połącz dwa królewskie turnieje, aby stworzyć królewską scenerię! 
 - Wymiary zamku: 51 cm szerokości i 30 cm wysokości!
 
+**Galeria:**
+
+- 10223-1: https://a.allegroimg.com/original/117b13/8881cb504120a93ae6ec3ad2dab3
+
 ---
 
-## 6095 — Lego Kingdoms 6095 Turniej rycerski
+## 6095 — Turniej rycerski
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702012000324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6095 |
+| Nazwa angielska | Royal Joust |
+| Nazwa polska | Turniej rycerski |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2000 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012000324 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -70,11 +95,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 6095-1: https://a.allegroimg.com/original/29d1a5/a411fc504ec1bd8c662db99240e0
+
 ---
 
-## 7188 — Lego Kingdoms 7188 Zasadzka na królewską karetę Nowe
+## 7188 — Zasadzka na królewską karetę
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 934.00 zł · EAN: 05702014734821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7188 |
+| Nazwa angielska | King's Carriage Ambush |
+| Nazwa polska | Zasadzka na królewską karetę |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734821 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -90,21 +130,51 @@ Zestaw klocków LEGO® 7188 pozwala zbudować biało- czerwoną karetę Króla, 
  
 Dołączono do kompletu 4 postacie – to Król, Lwi Rycerz (woźnica) oraz dwójka Smoczych Rycerzy. Zabawę uatrakcyjnią akcesoria: skrzynia ze skarbem, kielich, butelka, bat, dwie tarcze, włócznia, dwie halabardy, królewski miecz i korona, peleryna, flagi, trzy hełmy, topór, ryba, pochodnia, pająk i pajęczyna.
 
+**Galeria:**
+
+- 7188-1: https://a.allegroimg.com/original/11b5b6/491873f640c484d73bd7682cfab1
+
 ---
 
-## 7189 — Lego Kingdoms 7189 Kingdoms
+## 7189 — Kingdoms
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 1950.00 zł · EAN: 05702014734838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7189 |
+| Nazwa angielska | Mill Village Raid |
+| Nazwa polska | Kingdoms |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 663 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734838 |
 
 **Sprzedawany zestaw jest NOWY, zamknięty, zaplombowany.**
 
 Zestaw LEGO Kingdoms - Najazd na wioskę z młynem trafił do sprzedaży w 2011 roku. Numer katalogowy tego zestawu to 7189. Zawiera 663 klocków LEGO. W modelu znajdziesz też 6 minifigurki. Nazwa zestawu w języku angielskim LEGO Kingdoms - Mill Village Raid.
 
+**Galeria:**
+
+- 7189-1: https://a.allegroimg.com/original/110de3/d2ca11874f5bad4920a2934193f0
+
 ---
 
-## 7948 — Lego 7948 Kingdoms Atak Na Posterunek
+## 7948 — Kingdoms
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 635.00 zł · EAN: 05702014603004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7948 |
+| Nazwa angielska | Outpost Attack |
+| Nazwa polska | Kingdoms |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603004 |
 
 Jesteśmy grupą entuzjastów, którzy pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.
  
@@ -114,11 +184,26 @@ Zestaw LEGO Kingdoms (7948) przeniesie Cię w magiczny świat średniowiecznych 
 
 Zespół BRICKDUCKS
 
+**Galeria:**
+
+- 7948-1: https://a.allegroimg.com/original/11ccc9/3a5d50714084a598aeee65921045
+
 ---
 
-## 7949 — Lego Kingdoms 7949 Ratunek z powozu więziennego nowy zestaw klocków
+## 7949 — Ratunek z powozu więziennego
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014603011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7949 |
+| Nazwa angielska | Prison Carriage Rescue |
+| Nazwa polska | Ratunek z powozu więziennego |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014603011 |
 
 Witam
 
@@ -136,11 +221,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7949-1: https://a.allegroimg.com/original/114143/bcef3eb34a63aa92f043b01e4df9
+
 ---
 
-## 8701 — Lego Knights Kingdom 8701 Król Jayko nowy zestaw klocków unikat
+## 8701 — Król Jayko
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 999.00 zł · EAN: 00673419078139 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8701 |
+| Nazwa angielska | King Jayko |
+| Nazwa polska | Król Jayko |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2006 |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419078139 |
 
 Witam
 
@@ -158,11 +258,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 8701-1: https://a.allegroimg.com/original/11e6eb/163c7000418bb9cfa8e0428a2318
+
 ---
 
-## 8778 — Lego Kingdoms 8778 Border Ambush
+## 8778 — Border Ambush
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702014366091 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8778 |
+| Nazwa angielska | Border Ambush |
+| Nazwa polska | Border Ambush |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014366091 |
 
 Nowy nieotwierany zestaw Lego 8778 Knights' Kingdom - Zasadzka na granicy.
 
@@ -170,17 +285,36 @@ Pudełko w bardzo dobrym stanie.
 
 Santis musi pokonać Rycerza Cieni strzegącego Klucza do Cytadeli, ale czy zdoła przekroczyć chwiejny most, aby go zdobyć?
 
+**Galeria:**
+
+- 8778-1: https://a.allegroimg.com/original/11e905/09b82f9a4eff95fd47dd667582f3
+
 ---
 
-## 8781 — Lego 8781 Knights' Kingdom Zamek Morcia
+## 8781 — LEGO 8781 Knights' Kingdom - Zamek Morcia
 
-*Kategoria: Pozostałe serie > Kingdoms · cena Allegro (2026-08-17): 1949.99 zł · EAN: 05702014366152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8781 |
+| Nazwa angielska | Castle of Morcia |
+| Nazwa polska | LEGO 8781 Knights' Kingdom - Zamek Morcia |
+| Seria | Pozostałe serie > Kingdoms |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 637 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014366152 |
 
 Czy nasi czterej bohaterscy rycerze zdołają uratować Króla, zanim Vladek przejmie kontrolę nad Królestwem i całkowicie odmieni zamek?
 
 **UNIKAT!**
 
 Zestaw jest nowy, nieużywany. Pudełko w bardzo dobrej kondycji. Zdjęcia poniżej.
+
+**Galeria:**
+
+- 8781-1: https://a.allegroimg.com/original/117192/55d74b34431aade9320fb5e30434
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Trolls — opisy produktowe (9 pozycji)
 
-## 30555 — Lego 30555 Trolls Powóz Poppy saszetka z klockami minifigurka
+## 30555 — Powóz Poppy
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 73.00 zł · EAN: 05702016667813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30555 |
+| Nazwa angielska | Poppy's Carriage |
+| Nazwa polska | Powóz Poppy |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016667813 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30555-1: https://a.allegroimg.com/original/11ce14/f3a3043b49d39075dd76990eb24d
+
 ---
 
-## 41250 — Lego Trolls World Tour 41250 Impreza techno na rafie
+## 41250 — Impreza techno na rafie
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702016616767 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41250 |
+| Nazwa angielska | Techno Reef Dance Party |
+| Nazwa polska | Impreza techno na rafie |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 173 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616767 |
 
 Klocki LEGO® 41250 Trolls World Tour Impreza techno na rafie
 
@@ -53,11 +78,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 5 lat, szczególnie dla fanów Trolls World Tour, muzycznych scen z filmu oraz kreatywnego odgrywania przygód pod wodą.
 
+**Galeria:**
+
+- 41250-1: https://a.allegroimg.com/original/116eea/db1a0f144078a7c48f7f890a6953
+
 ---
 
-## 41252 — Lego Trolls 41252 Przygoda Poppy w balonie ----- Outlet
+## 41252 — Przygoda Poppy w balonie
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 288.88 zł · EAN: 05702016616781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41252 |
+| Nazwa angielska | Poppy's Hot Air Balloon Adventure |
+| Nazwa polska | Przygoda Poppy w balonie |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 13 cm |
+| EAN | 5702016616781 |
 
 Nowy, fabrycznie zaplombowany zestaw.
 
@@ -71,11 +111,26 @@ Pudełko jak na zdjęciach.
 - Dzięki cyfrowym instrukcjom Instructions PLUS, które zawierają interaktywne narzędzia do podglądu modelu i są dostępne w darmowej aplikacji LEGO Life, budowanie będzie dla dzieci zupełnie nowym doświadczeniem.
 - Wszystkie zestawy LEGO Trolls World Tour pozwalają dzieciom odtwarzać ulubione scenki z filmu „Trolle 2”. To doskonały sposób, by zachęcić do twórczej zabawy z mnóstwem przygód po drodze!
 
+**Galeria:**
+
+- 41252-1: https://a.allegroimg.com/original/05dcba/f008fa8145c28c184cdde5f629b6
+
 ---
 
-## 41253 — Lego Trolls 41253 Pustkowie i przygoda na tratwie
+## 41253 — 41253
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 152.00 zł · EAN: 05702016616798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41253 |
+| Nazwa angielska | Lonesome Flats Raft Adventure |
+| Nazwa polska | 41253 |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616798 |
 
 Przedmiot w ofercie: LEGO Trolls 41253 Pustkowie i przygoda na tratwie.
 
@@ -91,11 +146,26 @@ Niesamowity zestaw LEGO Trolls World Tour 41253 Pustkowie i przygoda na tratwie 
 
 Pozdrawiam i zapraszam na zakupy.
 
+**Galeria:**
+
+- 41253-1: https://a.allegroimg.com/original/000950/d53e99f84d599a7d08cb566f8f85
+
 ---
 
-## 41254 — Klocki Lego 41254 Trolls Koncert w Volcano Rock City
+## 41254 — Koncert w Volcano Rock City
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016616804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41254 |
+| Nazwa angielska | Volcano Rock City Concert |
+| Nazwa polska | Koncert w Volcano Rock City |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 11 cm |
+| EAN | 5702016616804 |
 
 Klocki LEGO Trolls 41254 - Koncert w Volcano Rock City
 
@@ -113,11 +183,26 @@ Zestaw LEGO® Trolls World Tour 41254 Koncert w Volcano Rock City to fajna zabaw
 - Testowane pod kątem bezpieczeństwa? Oczywiście!
 - W Grupie LEGO® upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO®, by sprawdzić, czy każdy z nich spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 41254-1: https://a.allegroimg.com/original/00e81b/61416745442c866055ca1ead2a97
+
 ---
 
-## 41255 — Lego Disney 41255 Trolls World Tour Przyjęcie w popowej wiosce Nowe
+## 41255 — LEGO TROLLS 41255 PRZYJĘCIE W POPOWEJ WIOSCE
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702016616811 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41255 |
+| Nazwa angielska | Pop Village Celebration |
+| Nazwa polska | LEGO TROLLS 41255 PRZYJĘCIE W POPOWEJ WIOSCE |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616811 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -136,11 +221,26 @@ Pełen niezwykłych detali zestaw LEGO® Trolls World Tour 41255 Przyjęcie w po
 - Zestaw Przyjęcie w popowej wiosce nie wymaga baterii! Żeby zbudować ten model, trzeba tylko lubić używać wyobraźni. Gdy będzie już gotowy, dzieci mogą wymyślać własne historie o trollach lub odgrywać ulubione scenki z nowego filmu. 
 - Czy chcesz, żeby nawet zupełnie mali konstruktorzy mogli teraz czerpać więcej radości z budowania? To możliwe dzięki cyfrowym instrukcjom Instructions PLUS! Mają one intuicyjne tryby zoomu i obrotu oraz specjalny tryb podglądu budowanego modelu LEGO®, słowem wszystko, czego potrzeba, aby budować w stylu epoki cyfrowej!
 
+**Galeria:**
+
+- 41255-1: https://a.allegroimg.com/original/1179f3/0879fe7145c1b4be2b77c1a766f9
+
 ---
 
-## 41256 — Lego Trolls 41256 Lego Trolls 41256 Tęczowy gąsienicowóz
+## 41256 — LEGO Trolls 41256 Tęczowy gąsienicowóz
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016616828 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41256 |
+| Nazwa angielska | Rainbow Caterbus |
+| Nazwa polska | LEGO Trolls 41256 Tęczowy gąsienicowóz |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 395 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016616828 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -167,11 +267,26 @@ Pełen niezwykłych detali zestaw LEGO® Trolls World Tour 41255 Przyjęcie w po
 - **Teraz fani LEGO® mogą uczyć się budowania w nowy sposób: korzystając z cyfrowych instrukcji Instructions PLUS! Instrukcje te są dostępne przez aplikację LEGO Life i obejmują ciekawe narzędzia, które pomogą młodym konstruktorom rozpocząć budowanie w stylu godnym epoki cyfrowej!** 
 - **Dzięki serii zabawek LEGO® Trolls World Tour fani trolli będą mogli odtworzyć z klocków wszystkie swoje ulubione sceny, bawić się postaciami trolli i opowiedzieć historie z filmu Trolls World Tour.**
 
+**Galeria:**
+
+- 41256-1: https://a.allegroimg.com/original/113ffe/2c26f4f84fd8ae9074d97c7cc679
+
 ---
 
-## 41258 — Lego Trolls 41258 Vibe City koncert
+## 41258 — Vibe City koncert
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 598.00 zł · EAN: 05702016684452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41258 |
+| Nazwa angielska | Vibe City Concert |
+| Nazwa polska | Vibe City koncert |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 494 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016684452 |
 
 Klocki LEGO Trolls 41258 - Vibe City koncert
 
@@ -187,16 +302,35 @@ Odlotowe zabawki dla dzieci, które kochają Trolle Dzięki tym zestawom zawiera
 - Dzięki wielu funkcjom do odkrycia ten zestaw doskonale sprawdzi się jako prezent na Boże Narodzenie lub inną okazję dla chłopców i dziewcząt w wieku od 6 lat uwielbiających zabawki, figurki i zestawy związane z Trollami.
 - Ten kolorowy zestaw konstrukcyjny z Trollami ma ok. 25 cm wysokości i 21 cm głębokości, co czyni go ciekawą zabawką dla dzieci, które kochają kreatywną zabawę.
 
+**Galeria:**
+
+- 41258-1: https://a.allegroimg.com/original/115615/3b5cb2294ea1beeab63a128abf6f
+
 ---
 
-## 79104 — Lego Teenage Mutant Ninja Turtles 79104 Pościg uliczny
+## 79104 — Teenage Mutant Ninja Turtles 79104 Pościg uliczny
 
-*Kategoria: Pozostałe serie > Trolls · cena Allegro (2026-08-17): 1180.00 zł · EAN: 05702015153751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79104 |
+| Nazwa angielska | The Shellraiser Street Chase |
+| Nazwa polska | Teenage Mutant Ninja Turtles 79104 Pościg uliczny |
+| Seria | Pozostałe serie > Trolls |
+| Grupa wiekowa | 9 m + |
+| Rok wydania | 2013 |
+| Liczba elementów | 620 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 12 cm |
+| EAN | 5702015153751 |
 
 - Zawiera trzy mini figurki: Leonardo, Michała Anioł, Foot-Ninja i dwie postacie: dogpound i kołnierz. Z urządzeniem strzelniczym LEGO Technic, koła do podnoszenia, ukryte koła szynowe, terminalem komputerowym, stojakiem na broń, deskorolką i siedzeniem. 
 - Z wózkiem do pizzy Dogpounds i dwoma beczkami szlifierskimi sześć broni jako akcesoria: urządzenie strzelnicze LEGO Technic, dwa miecze, Nunchakus, miecz złoty i laserowy wyrzutnia 
 - Zdejmij dach osłony, aby w środku zagrać opony, aby jeździć z ukrytymi oponami szynowymi również na szynach LEGO Kolekcja ekskluzywnego dogpound charakteru. 
 - Ponad 16 cm wysokości, 23 cm długości i 12 cm szerokości. Łopatka do pizzy ma ponad 8 cm wysokości, 9 cm długości i 5 cm szerokości.
+
+**Galeria:**
+
+- 79104-1: https://a.allegroimg.com/original/112b6d/c4117f6440f4af7b0c05bf7b5f79
 
 ---
 

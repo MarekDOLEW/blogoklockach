@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO DUPLO — opisy produktowe (299 pozycji)
+# LEGO DUPLO — opisy produktowe (298 pozycji)
 
-## 10411 — Nowe Lego Duplo 10411 Poznaj Kulturę Chińską
+## 10411 — Poznaj kulturę chińską
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 324.99 zł · EAN: 05702017416960 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10411 |
+| Nazwa angielska | Learn About Chinese Culture |
+| Nazwa polska | Poznaj kulturę chińską |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 60 cm × gł. 30 cm |
+| EAN | 5702017416960 |
 
 POZNAJ KULTURĘ CHIŃSKĄ -  10411
 
@@ -36,11 +47,26 @@ Te rozwijające wyobraźnię zabawki pozwolą dorosłym w przystępny sposób po
 - Cyfrowe instrukcje budowania – aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu
 - Nauka przez zabawę – wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka wielka zabawa
 
+**Galeria:**
+
+- 10411-1: https://a.allegroimg.com/original/118554/fb24ec424d53a5864d7cac1712a9
+
 ---
 
-## 10412 — Lego Duplo Pociąg ze zwierzątkami 10412
+## 10412 — Pociąg ze zwierzętami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 61.40 zł · EAN: 05702017567396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10412 |
+| Nazwa angielska | Animal Train |
+| Nazwa polska | Pociąg ze zwierzętami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017544113, 5702017567396 |
 
 **LEGO DUPLO Pociąg ze zwierzątkami 10412**
 
@@ -66,11 +92,27 @@ Dzięki zabawkom LEGO DUPLO ze zwierzątkami rodzice mogą uczestniczyć w każd
 
 • Pociąg ze zwierzątkami ma 43 cm długości
 
+**Galeria:**
+
+- 10412-1: https://a.allegroimg.com/original/055182/b82de753432b9f75c208ae811881
+- 10412-2: https://a.allegroimg.com/original/118a95/4a3363044d1780408fc5bfc82aaa
+
 ---
 
-## 10414 — Lego Duplo 10414 Codzienne czynności: Jedzenie i spanie
+## 10414 — Codzienne czynności: Jedzenie i spanie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017583242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10414 |
+| Nazwa angielska | Daily Routines: Eating & Bedtime |
+| Nazwa polska | Codzienne czynności: Jedzenie i spanie |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 53 cm |
+| EAN | 5702017583242 |
 
 Zwierzątka LEGO® DUPLO® pomagają przedszkolakom rozpoznawać emocje
  
@@ -96,11 +138,26 @@ Zestawy LEGO DUPLO to świetny sposób na naukę przez zabawę. Podczas interakt
  
 • Zabawka ma 17 cm wysokości i 53 cm szerokości
 
+**Galeria:**
+
+- 10414-1: https://a.allegroimg.com/original/05825f/a679a7184f66acac1f8083e6b246
+
 ---
 
-## 10415 — Lego Duplo klocki Moje pierwsze uczucia i emocje 10415 18m+ Torba
+## 10415 — LEGO DUPLO My First
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 43.99 zł · EAN: 05702017583259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10415 |
+| Nazwa angielska | Big Feelings & Emotions |
+| Nazwa polska | LEGO DUPLO My First |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583259 |
 
 LEGO DUPLO Moje pierwsze uczucia i emocje 10415
 
@@ -128,11 +185,26 @@ Ten zestaw LEGO DUPLO zawiera klocki w ciekawych kształtach, które zachęcają
 
 • Ten 23-elementowy zestaw ma 12 cm wysokości
 
+**Galeria:**
+
+- 10415-1: https://a.allegroimg.com/original/1146c6/91e5c57b4b2e930eb44b55177aba
+
 ---
 
-## 10416 — Lego Duplo 10416 Opieka Nad Zwierzętami Na Farmie Dla Dziecka 2+
+## 10416 — Opieka nad zwierzętami na farmie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 192.89 zł · EAN: 05702017583266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10416 |
+| Nazwa angielska | Caring for Animals at the Farm |
+| Nazwa polska | Opieka nad zwierzętami na farmie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 12 cm |
+| EAN | 5702017583266 |
 
 LEGO DUPLO Opieka nad zwierzętami na farmie (10416)
 
@@ -174,11 +246,27 @@ Skrzynka na warzywa (marchewki).
 
 Zestaw dostarczany jest z prostą, obrazkową instrukcją budowania, która jest łatwa do naśladowania przez dzieci i dorosłych. Duże elementy eliminują ryzyko połknięcia i są zaprojektowane tak, aby ułatwić chwytanie i łączenie przez małe dzieci.
 
+**Galeria:**
+
+- 10416-1: https://a.allegroimg.com/original/05b6a7/253b50684c68ad5985f0360dac9b
+
 ---
 
-## 10417 — Lego Duplo 10417 Maniek Na Wyścigu 14 Elem Od 2 Lat Komplet Klocków 2+
+## 10417 — Maniek na wyścigu
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 68.89 zł · EAN: 05702017583570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10417 |
+| Nazwa angielska | Mack at the Race |
+| Nazwa polska | Maniek na wyścigu |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583570 |
 
 LEGO Duplo Maniek na wyścigu (10417) [KLOCKI]
 
@@ -206,11 +294,26 @@ Zupełnie nowy.
  
 **SKU:** 2842449
 
+**Galeria:**
+
+- 10417-1: https://a.allegroimg.com/original/05f6d7/2a44a41f40d79f70652617ec07a9
+
 ---
 
-## 10418 — Lego Duplo 10418 Elza i Bruni w Zaczarowanym Lesie
+## 10418 — Elza i Bruni w Zaczarowanym Lesie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017583587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10418 |
+| Nazwa angielska | Elsa & Bruni in the Enchanted Forest |
+| Nazwa polska | Elza i Bruni w Zaczarowanym Lesie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583587 |
 
 Lego DUPLO 10418 Elsa i Bruni w Zaczarowanym Lesie
 
@@ -224,11 +327,26 @@ Dzieci w wieku od 2 lat wyruszają na przygodę z zestawem LEGO(R) DUPLO(R) - Di
  
 Małe dzieci będą pogłębiać swoją zdolność wyrażania siebie, odtwarzając sceny z filmu lub wymyślając własne historie. Ten fantastyczny zestaw konstrukcyjny oferuje wiele fascynujących szczegółów, które bezpośrednio zachęcają do opowiadania historii. Kryształ śniegu Elsy świeci na ścieżce w ciemności. Gdy zbliża się Ziemski Gigant do zbudowania, pojawi się Płomień Bruni. Ale bohaterowie stają się przyjaciółmi, gdy zdają sobie sprawę, że wszystkie stworzenia pomagają utrzymać równowagę w naturze. Minilaleczka Elsa wskakuje na figurkę konia Nokka i w wirze jesiennych liści przenoszą się na kolejną przygodę.
 
+**Galeria:**
+
+- 10418-1: https://a.allegroimg.com/original/111589/f6437a6448428b0541fd0d88a480
+
 ---
 
-## 10419 — Lego Duplo 10419 Opieka nad pszczołami i ulami
+## 10419 — Opieka nad pszczołami i ulami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 47.49 zł · EAN: 05702017567457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10419 |
+| Nazwa angielska | Caring for Bees & Beehives |
+| Nazwa polska | Opieka nad pszczołami i ulami |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567457 |
 
 LEGO Duplo 10419 Opieka nad pszczołami i ulami
 
@@ -252,11 +370,27 @@ o Zabawka edukacyjna dla przedszkolaków -- naucz dzieci w wieku od dwóch lat, 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017567457
 
+**Galeria:**
+
+- 10419-1: https://a.allegroimg.com/original/11fba8/9c8931b94306a6315718e76a0ff8
+
 ---
 
-## 10420 — Lego 10420 Duplo Stoisko kawowe Arielki i Florka
+## 10420 — Stoisko kawowe Arielki i Florka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702017583594 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10420 |
+| Nazwa angielska | Ariel and Flounder's Café Stand |
+| Nazwa polska | Stoisko kawowe Arielki i Florka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 16 cm × gł. 9 cm |
+| EAN | 5702017583594 |
 
 Lego 10420 Duplo Stoisko kawowe Arielki i Florka
 
@@ -274,11 +408,26 @@ Wymyślając przygody dla dwóch figurek LEGO DUPLO: Arielki i Florka, maluchy o
 - Edukacyjna zabawka dla przedszkolaków — zabawki LEGO® DUPLO® wspierają rozwój emocjonalny i umysłowy przez fajną, kreatywną zabawę 
 - Wymiary — ten 24-elementowy zestaw zawiera kawiarenkę do zbudowania, która ma 13 cm wysokości, 16 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 10420-1: https://a.allegroimg.com/original/118ad1/91addb654f79b22e375ab8909928
+
 ---
 
-## 10421 — Klocki Lego Duplo Zestaw 10421 Ciężarówka z alfabetem
+## 10421 — Ciężarówka z alfabetem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702017567464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10421 |
+| Nazwa angielska | Alphabet Truck |
+| Nazwa polska | Ciężarówka z alfabetem |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567464 |
 
 10421 - LEGO DUPLO - Ciężarówka z alfabetem
  
@@ -356,11 +505,26 @@ Jeżdżąca ciężarówka LEGO® DUPLO®
 - **GPSR - Miasto:** Warszawa 
 - **GPSR - Producent / Osoba odpowiedzialna za zgodność produktu:** LEGO Polska Sp. Z o. o.
 
+**Galeria:**
+
+- 10421-1: https://a.allegroimg.com/original/11ac18/d0dde5e2442daa7d495a03dc69de
+
 ---
 
-## 10422 — Klocki Lego Duplo 10422 Kosmiczna przygoda z wahadłowcem 3w1 prom kosmiczny
+## 10422 — Przygoda z promem kosmicznym 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017583778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10422 |
+| Nazwa angielska | 3in1 Space Shuttle Adventure |
+| Nazwa polska | Przygoda z promem kosmicznym 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 35 cm × szer. 19 cm |
+| EAN | 5702017583778 |
 
 Lego DUPLO 10422 Przygoda w promie kosmicznym
 
@@ -380,11 +544,26 @@ Dzięki temu zestawowi 3 w 1 zabawa nigdy się nie kończy. Zawiera on mnóstwo 
 - **Pobudź ciekawość maluchów** — zestawy LEGO® DUPLO® pomagają małym konstruktorom zdobywać umiejętności życiowe, marzyć o przyszłości… i nie tylko
 - **Mnóstwo klocków zapewniających świetną zabawę** — ten **58-elementowy** zestaw zawiera główny prom kosmiczny, który ma** 35 cm wysokości, 18 cm długości i 19 cm szerokości**
 
+**Galeria:**
+
+- 10422-1: https://a.allegroimg.com/original/057e4b/1b5235cc4a93972e82f522526318
+
 ---
 
-## 10423 — Lego Duplo 10423 Ludziki Z Emocjami 3+ Nowe
+## 10423 — Budowani ludzie o wielkich emocjach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017583785 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10423 |
+| Nazwa angielska | Buildable People with Big Emotions |
+| Nazwa polska | Budowani ludzie o wielkich emocjach |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583785 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -413,11 +592,27 @@ Ten zestaw zawiera kolorowe klocki w ciekawych kształtach, które zachęcają m
 - Nauka przez zabawę — zabawki LEGO® DUPLO® zostały starannie zaprojektowane, aby rozwijać u dzieci umiejętność wyrażania siebie i koordynację wzrokowo-ruchową
 - Wymiary — ten 71-elementowy zestaw zawiera pięć figurek, które mają od 13 do 26 cm wysokości
 
+**Galeria:**
+
+- 10423-1: https://a.allegroimg.com/original/29a634/0dec7566481cbef766d3b4f2d738
+
 ---
 
-## 10424 — Nowe Lego Duplo 10424 Motocyklowa Przygoda Spina Marvel Spidey I
+## 10424 — Motocyklowa przygoda Spiny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 104.99 zł · EAN: 05702017583792 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10424 |
+| Nazwa angielska | Spin's Motorcycle Adventure |
+| Nazwa polska | Motocyklowa przygoda Spiny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 29 cm × gł. 18 cm |
+| EAN | 5702017583792 |
 
 ZESTAW LEGO DUPLO:  10909  - PUDEŁKO Z SERDUSZKIEM
 
@@ -439,21 +634,51 @@ Kreatywna zabawka dla przedszkolaków wspiera logiczne myślenie i koordynację 
 
 **ILOŚĆ ELEMENTÓW: 24**
 
+**Galeria:**
+
+- 10424-1: https://a.allegroimg.com/original/118ae7/639bec9f413ca4bb4efc2d5634d8
+
 ---
 
-## 10425 — Lego Duplo 10425 Tunel Kolejowy I Podłoga Zestaw Rozszerzający 2+
+## 10425 — DUPLO 10425 Tunel kolejowy i podłoga - zestaw rozszerzający
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 54.59 zł · EAN: 05702017583808 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10425 |
+| Nazwa angielska | Train Tunnel and Tracks Expansion Set |
+| Nazwa polska | DUPLO 10425 Tunel kolejowy i podłoga - zestaw rozszerzający |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583808 |
 
 Tunel i tory kolejowe — zestaw rozszerzający
 
 DUPLO® LEGO DUPLO Town Tunel i Tory Kolejowe — Zestaw Rozszerzający do Pociągów, Edukacyjna Zabawka dla Dziecka do Zbudowania, Kreatywny Prezent dla Maluchów, dla 2-latka, dla Chłopca i Dziewczynki, 10425 klocki kolejka chłopiec dziewczynka dziecko 3 4 5 siostrzenica siostrzeniec syn córka figurki postacie rodzina przedszkole zabawa rozwój aktywność szkoła duży kreatywny poczęstunek mały auto dworzec autobusowy samolot transport transport Tunel i tory kolejowe — zestaw rozszerzający LEGO® DUPLO® Town Tunel i tory kolejowe — zestaw rozszerzający LEGO® DUPLO® Town Tunel i tory kolejowe — zestaw rozszerzający 10425 Dzięki tej zabawce z torami na dzieci czeka jeszcze więcej zabawy ich pociągami LEGO® DUPLO®, podczas której rozwiną swoją świadomość przestrzenną. Zestaw rozszerzający z torami LEGO® DUPLO® dla dzieci Tunel i tory kolejowe — zestaw rozszerzający (10425) wzbogaci kolejowe przygody maluchów w wieku od dwóch lat. Teraz do swoich interaktywnych zestawów kolejowych LEGO® DUPLO® (10427, 10428, sprzedawanych osobno) mogą dodać tunel i dodatkowe tory.Ta kreatywna zabawka zawiera model tunelu i 10 elementów torów, w tym komin i dwustronną zwrotnicę, dzięki której dzieci mogą zmieniać kierunek jazdy pociągu. Klocek funkcyjny zapala światła w ciemnym tunelu podczas przejazdu interaktywnego pociągu z zestawów 10427 i 10428.Edukacyjna zabawka wspiera rozwój dzieci, które rozwijają swoją świadomość przestrzenną, dodając elementy torów i tunel. Wykorzystując umiejętności rozwiązywania problemów, by połączyć tory, i przewidując trasę pociągu, maluchy pracują także nad cierpliwością i skupieniem. Poszerz możliwości zabawy i nauki dziecka dzięki temu zestawowi rozszerzającemu z torami. Przedszkolaki mogą wymyślać nowe przygody, dodając 10 kolejnych elementów, w tym tory, komin i tunel oraz zwrotnicę do zmiany kierunku jazdy. Zestaw zawiera także klocek funkcyjny, który uruchamia światła pociągu, gdy silnik nad nim przejedzie.
 
+**Galeria:**
+
+- 10425-1: https://a.allegroimg.com/original/05a034/5d9ad41340c883f43bbcec5d2a5b
+
 ---
 
-## 10426 — Lego Duplo 10426 Most i tory kolejowe zestaw rozszerzający
+## 10426 — DUPLO 10426 Most kolejowy i tory - zestaw rozszerzający
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 128.88 zł · EAN: 05702017583815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10426 |
+| Nazwa angielska | Train Bridge and Tracks Expansion Set |
+| Nazwa polska | DUPLO 10426 Most kolejowy i tory - zestaw rozszerzający |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 105 cm × gł. 16 cm |
+| EAN | 5702017583815 |
 
 LEGO Duplo
 
@@ -501,11 +726,26 @@ Specyfikacja zestawu:
 
 - **Płeć dziecka: **chłopcy i dziewczynki
 
+**Galeria:**
+
+- 10426-1: https://a.allegroimg.com/original/116a32/9d8b1dce41aca0fc621a6c136d69
+
 ---
 
-## 10427 — Lego Duplo Town Przygoda z interaktywnym pociągiem 10427 Przeczytaj Opis!
+## 10427 — Przygoda z interaktywnym pociągiem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702017583822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10427 |
+| Nazwa angielska | Interactive Adventure Train |
+| Nazwa polska | Przygoda z interaktywnym pociągiem |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 71 cm × gł. 57 cm |
+| EAN | 5702017583822 |
 
 ZESTAW W 100% NOWY - OPAKOWANIE WIDOCZNE NA ZDJĘCIACH PONIŻEJ
 
@@ -525,11 +765,26 @@ Gdy pociąg przejeżdża nad trzema klockami funkcyjnymi, wydaje realistyczne d�
 
 - Seria: DUPLO®
 
+**Galeria:**
+
+- 10427-1: https://a.allegroimg.com/original/0583e0/21e71e224ff7b3ffe518f61c90f3
+
 ---
 
-## 10428 — Lego Duplo 10428 Duży interaktywny Pociąg miejski Klocki NAJWiEKSZY Zestaw
+## 10428 — Duży interaktywny pociąg miejski
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 439.99 zł · EAN: 05702017583044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10428 |
+| Nazwa angielska | Big Interactive Community Train |
+| Nazwa polska | Duży interaktywny pociąg miejski |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583044 |
 
 Uwaga! Zestaw przeceniony ponieważ opakowanie zewnętrzne posiada minimalne zagniecenia. Same klocki są w pełni nowe, pudełko posiada fabryczne plomby i nie było otwierane. Poniżej załączam zdjęcia:
 
@@ -540,11 +795,26 @@ LEGO® DUPLO Duży Interaktywny Pociąg Miejski z Lokomotywą
 - Zestaw zawiera tory, stację, plac ładunkowy, myjnię oraz pięć klocków funkcyjnych, które aktywują specjalne efekty dźwiękowe i świetlne podczas przejazdu. 
 - W komplecie cztery figurki i akcesoria, wspierając kreatywność, opowiadanie historii i rozwijając umiejętności rozwiązywania problemów u dzieci.
 
+**Galeria:**
+
+- 10428-1: https://a.allegroimg.com/original/055653/2b63a9514a32a692e0333f5c85e9
+
 ---
 
-## 10431 — Klocki Lego Duplo 10431 Ogród I Domek Na Drzewie Peppy Świnka Peppa
+## 10431 — DUPLO 10431 Świnka Peppa - Ogród i domek na drzewie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702017583068 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10431 |
+| Nazwa angielska | Peppa Pig Garden and Tree House |
+| Nazwa polska | DUPLO 10431 Świnka Peppa - Ogród i domek na drzewie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583068 |
 
 LEGO DUPLO 10431 OGRÓD I DOMEK NA DRZEWIE PEPPY ŚWINKA PEPPA
 
@@ -566,11 +836,26 @@ Zabawka edukacyjna LEGO DUPLO wspiera rozwój wielu umiejętności, od rozwiązy
 
 Dziś pięknie świeci słońce, więc Peppa i George idą do ogrodu. Mają ze sobą paczkę nasion, aby zasadzić słoneczniki. Dzieci pomogą im sadzić nasiona przy pomocy wideł, a następnie podleją roślinkę konewką.
 
+**Galeria:**
+
+- 10431-1: https://a.allegroimg.com/original/1187a0/25e05a744922b3a1f4a83c304aa9
+
 ---
 
-## 10432 — Lego Duplo Świnka Peppa I Rejs Łodzią 10432
+## 10432 — Peppa i rejs łodzią
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 96.59 zł · EAN: 05702017583877 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10432 |
+| Nazwa angielska | Peppa Pig Boat Trip |
+| Nazwa polska | Peppa i rejs łodzią |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 18 cm |
+| EAN | 5702017583877 |
 
 **ŚWINKA PEPPA I REJS ŁODZIĄ**
 
@@ -590,11 +875,26 @@ Przenieś dwulatków i starsze dzieci na pokład łodzi i zapewnij im wiele godz
 
 • Edukacyjna zabawka dla przedszkolaków — zabawki LEGO® DUPLO® z Peppą wspierają rozwój emocjonalny i koordynację wzrokowo-ruchową przez fajną, kreatywną zabawęWymiary — łódka w tym 23-elementowym zestawie ma 11 cm wysokości, 12 cm długości i 18 cm szerokości
 
+**Galeria:**
+
+- 10432-1: https://a.allegroimg.com/original/111b44/831a240e4e81b829d2225991a1a8
+
 ---
 
-## 10433 — Lego Duplo Peppa Urodzinowy domek Peppy 10433
+## 10433 — Urodzinowy domek Peppy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 180.89 zł · EAN: 05702017583884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10433 |
+| Nazwa angielska | Peppa Pig Birthday House |
+| Nazwa polska | Urodzinowy domek Peppy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 20 cm × gł. 6 cm |
+| EAN | 5702017583884 |
 
 LEGO® DUPLO
  
@@ -630,11 +930,26 @@ Zabawka edukacyjna dla przedszkolaków — zabawki LEGO® DUPLO® zostały stwor
  
 Wymiary — ten 59-elementowy zestaw ma 26 cm wysokości, 20 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10433-1: https://a.allegroimg.com/original/11fe56/3525c6584092a141641429c46463
+
 ---
 
-## 10434 — Klocki Lego Duplo Peppa i supermarket
+## 10434 — Peppa i supermarket
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 219.90 zł · EAN: 05702017583983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10434 |
+| Nazwa angielska | Peppa Pig Supermarket |
+| Nazwa polska | Peppa i supermarket |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583983, 5702017691091 |
 
 Klocki LEGO Duplo - Peppa i supermarket
 
@@ -677,11 +992,27 @@ Specyfikacja techniczna w pigułce:
 - **Wiek:** 2+ (Dla dzieci od 24 miesiąca życia)
 - **Zawartość:** Supermarket, czerwony samochód, wózek sklepowy, 4 figurki (Peppa, George, Mama, Tata), akcesoria tematyczne.
 
+**Galeria:**
+
+- 10434-1: https://a.allegroimg.com/original/11c71d/a6670ed045e2b9a25cc4d4d30287
+- 10434-2: https://a.allegroimg.com/original/059e57/54192dee4234a3d07be0315b6f13
+
 ---
 
-## 10435 — Lego Duplo Magiczny podwodny pałac Arielki 10435
+## 10435 — Magiczny podwodny pałac Ariel
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 278.71 zł · EAN: 05702017583990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10435 |
+| Nazwa angielska | Ariel's Magical Underwater Palace |
+| Nazwa polska | Magiczny podwodny pałac Ariel |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | 116 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583990 |
 
 LEGO DUPLO Magiczny podwodny pałac Arielki 10435
 
@@ -695,11 +1026,27 @@ Podwodny zamek Arielki pomaga maluchom ćwiczyć koordynację wzrokowo-ruchową 
 
 #29355
 
+**Galeria:**
+
+- 10435-1: https://a.allegroimg.com/original/11667a/c521544c4eb6ad88187b24287eec
+
 ---
 
-## 10438 — Lego 10438 Duplo Wizyta w lecznicy dla zwierząt
+## 10438 — WIZYTA W LECZNICY DLA ZWIERZĄT
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 132.45 zł · EAN: 05702017599557 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10438 |
+| Nazwa angielska | Visit to the Vet Clinic |
+| Nazwa polska | WIZYTA W LECZNICY DLA ZWIERZĄT |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017599557 |
 
 LEGO 10438 Duplo Wizyta w lecznicy dla zwierząt
 
@@ -731,11 +1078,27 @@ Przedszkolaki ćwiczą umiejętności motoryczne, składając kolorowe klocki LE
 - Zabawka konstrukcyjna z ciekawymi funkcjami dla przedszkolaków — ten zestaw z lecznicą dla zwierząt zawiera kołyskę, przyjemny w dotyku koc i okienka na zawiasach, dzięki którym małe rączki mogą ćwiczyć umiejętności motoryczne
 - Pomysł na prezent dla małych miłośników zwierząt — to świetny prezent urodzinowy dla dzieci, które troszczą się o zwierzęta. Rodzice mogą dzielić z maluchami cenne chwile, gdy te odkrywają swoje pasje
 
+**Galeria:**
+
+- 10438-1: https://a.allegroimg.com/original/119044/0d3b2c0b4b0f8261a61279a51915
+
 ---
 
-## 10439 — Lego Duplo Pudełko Z Klockami Samochód 85 Elementów 18 M Zestaw Startowy
+## 10439 — LEGO DUPLO 10439 Samochody i ciężarówki - pudełko z klockami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702017599540 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10439 |
+| Nazwa angielska | Cars and Trucks Brick Box |
+| Nazwa polska | LEGO DUPLO 10439 Samochody i ciężarówki - pudełko z klockami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017599540 |
 
 LEGO DUPLO PUDEŁKO Z KLOCKAMI SAMOCHÓD 85 ELEMENTÓW 18 M + ZESTAW STARTOWY
 
@@ -751,11 +1114,26 @@ Edukacyjne zabawki konstrukcyjne dla maluchów
 
 Zestawy LEGO® DUPLO® to świetne prezenty dla małych dzieci. Kolorowe, duże elementy pobudzają wyobraźnię maluchów i zachęcają do swobodnej rozrywki, zapewniając przedszkolakom możliwość kontrolowania zabawy.
 
+**Galeria:**
+
+- 10439-1: https://a.allegroimg.com/original/11ea8d/574f121e40768c2da822cfce5461
+
 ---
 
-## 10440 — Lego Duplo 10440 Balansujące drzewko
+## 10440 — Drzewo huśtawkowo-składane
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017815541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10440 |
+| Nazwa angielska | Balancing & Stacking Tree |
+| Nazwa polska | Drzewo huśtawkowo-składane |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815541 |
 
 LEGO DUPLO 10440 Balansujące drzewko
 
@@ -765,11 +1143,26 @@ LEGO DUPLO Moje Pierwsze Balansujące Drzewko, Edukacyjna Zabawka dla Dziecka z 
 
 Dzięki klockowi pokazującemu noc i dzień dorośli mogą zapoznać dzieci z nocnymi ptakami, które są aktywne w nocy, a w dzień śpią w jajkach. Maluchy rozwijają koordynację wzrokowo-ruchową, otwierając jajka i dopasowując je kolorystycznie do sówek. Zestaw można przebudowywać na wiele sposobów, aby wspierać kreatywność i wytrwałość dzieci. Zachęć malucha do odkrywania fajnego, balansującego domku na drzewie z uroczymi małymi sowami. Dzieci mają za zadanie ułożyć jajka tak, aby drzewko balansowało. A może odkryją, że można je wyważyć, używając dodatkowych klocków! Pokaż swojemu małemu odkrywcy, że w przeciwieństwie do niego sowy przesypiają cały dzień i bawią się w nocy.
 
+**Galeria:**
+
+- 10440-1: https://a.allegroimg.com/original/055539/32003112491d962e6a21fc2a86b7
+
 ---
 
-## 10441 — Lego Duplo 10441 Sorter kształtów: dom szczeniaczków
+## 10441 — LEGO DUPLO 10441 Sortowanie kształtów: Domek dla szczeniaka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 98.84 zł · EAN: 05702017816784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10441 |
+| Nazwa angielska | Shape Sorter: Puppy House |
+| Nazwa polska | LEGO DUPLO 10441 Sortowanie kształtów: Domek dla szczeniaka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816784 |
 
 Podaruj małym miłośnikom psów magiczny zestaw Sortowanie kształtów: Domek dla szczeniąt (10441), który zapewnia dwie możliwości zabawy. Ta zabawka dla dzieci od 18 miesiąca życia pomaga rozwijać zdolności motoryczne, a dzieci odkrywają dzięki niej nowe kształty. Dodatkowo zestaw rozwija umiejętność rozwiązywania problemów, gdy dzieci z klocków zbudują miejsce do zabawy dla szczeniaków, a następnie spróbują wrzucać klocki o różnych kształtach do pokrywy miski.
 
@@ -796,21 +1189,51 @@ Ten prezent dla maluchów pomaga rozwijać orientację przestrzenną i jest peł
  
 - Odpowiedni dla dzieci od 18 miesiąca życia
 
+**Galeria:**
+
+- 10441-1: https://a.allegroimg.com/original/113946/1fb1f6d84020b2a944262fe1b41e
+
 ---
 
-## 10442 — Lego Duplo 10442 Rodziny dzikich zwierząt: pingwiny i lwy
+## 10442 — Rodziny dzikich zwierząt: pingwiny i lwy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 21.79 zł · EAN: 05702017783833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10442 |
+| Nazwa angielska | Wild Animal Families: Penguins & Lions |
+| Nazwa polska | Rodziny dzikich zwierząt: pingwiny i lwy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783833 |
 
 Rodziny dzikich zwierząt: pingwiny i lwy
 
 DUPLO® LEGO DUPLO Town Rodziny Dzikich Zwierząt: Pingwiny i Lwy, Edukacyjna Zabawka dla Dziecka z Figurkami Zwierząt Rozwijająca Motorykę Małą, Prezent dla 2-latki, dla Dziewczynki i Chłopca, 10442 klocki tygrys żyrafa farma rolnik ptaki dżungla małpa safari wilk lis ryba las chłopiec dziewczynka przedszkole 18 miesięcy 3 4 5 siostrzenica siostrzeniec syn figurki rodzina córka przedszkole rozwój aktywność szkoła kreatywny poczęstunek Rodziny dzikich zwierząt: pingwiny i lwy LEGO® DUPLO® Rodziny dzikich zwierząt: pingwiny i lwy LEGO® DUPLO® Rodziny dzikich zwierząt: pingwiny i lwy 10442 Dzięki temu zestawowi dzieci uczą się przez zabawę i rozwijają swoją kreatywność, skupienie oraz umiejętności dopasowywania i sortowania. Zestaw z dwoma środowiskami i zwierzątkami Wyrusz w edukacyjną podróż ze swoją pociechą w wieku od dwóch lat i pokaż jej Antarktydę oraz Afrykę podczas zabawy zestawem LEGO® DUPLO® Rodziny dzikich zwierząt: pingwiny i lwy (10442). Zawiera on dwa pingwiny i dwa lwy LEGO® DUPLO®, aby zachęcić najmłodszych do wielu godzin twórczej zabawy.Wskaż dziecku różnice między rodzicami a dziećmi oraz między gorącym a mroźnym klimatem. Pomóż mu wyrazić siebie podczas zabawy, pokazując, jak dorosłe zwierzę troszczy się o młode. Pokaż też, że rodzice uwielbiają bawić się z dziećmi, zupełnie jak Wy! Wspólnie zbudujcie lodową ślizgawkę dla pingwinów i łąki dla lwów. Ponadto podczas budowania Twoja pociecha rozwinie koordynację wzrokowo-ruchową.Zabawki ze zwierzątkami LEGO DUPLO zostały profesjonalnie zaprojektowane z zastosowaniem zabawnych historii, jaskrawych kolorów i różnorodnych figurek, aby wspierać rozwój społeczny i emocjonalny dzieci podczas zabawy. Zabierz swoją pociechę w podróż dookoła świata. Zestaw z czterema uroczymi figurkami zwierząt wspiera naukę dzieci, pokazując im różnice między dużymi i małymi obiektami oraz gorącymi i mroźnymi środowiskami. Maluchy dowiedzą się też, że dorośli nie tylko troszczą się o swoje młode, ale też się z nimi bawią! Mały pingwinek zjeżdża ze ślizgawki prosto w ramiona taty, a lwy bawią się w \"a kuku\"! • Zestaw konstrukcyjny do kreatywnej zabawy — Rodziny dzikich zwierząt: pingwiny i lwy (10442) to zestaw dla małych miłośników zwierząt, który zainspiruje ich do rozwoju społecznego i emocjonalnego oraz twórczej zabawy • Zabawka rozwijająca koordynację — dzieci zbudują scenerię z łąką, gdzie lwy mogą bawić się w \"a kuku!
 
+**Galeria:**
+
+- 10442-1: https://a.allegroimg.com/original/055041/86e9e9074ca887436955477990cb
+
 ---
 
-## 10443 — Lego Duplo 10443 Pierwszy raz na lotnisku Samolot Terminal Bagaż Lotnisko
+## 10443 — LEGO DUPLO 10443 Pierwszy raz na lotnisku
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 79.85 zł · EAN: 05702017815831 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10443 |
+| Nazwa angielska | First Time at the Airport |
+| Nazwa polska | LEGO DUPLO 10443 Pierwszy raz na lotnisku |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815831 |
 
 Pomóż maluchom budować pewność siebie podczas zabawy z zestawem **Po raz pierwszy na lotnisku** (10443). Dzięki temu prezentowi małe dzieci będą cieszyć się godzinami kreatywnej zabawy, spakują walizkę na wycieczkę i przygotują się do ekscytującej podróży.
  
@@ -831,11 +1254,26 @@ Ta zabawka dla małych dzieci jest pełna zajęć edukacyjnych. W zestawie koło
 - Ilość elementów: 23 
 - Nadaje się dla dzieci od 2 lat
 
+**Galeria:**
+
+- 10443-1: https://a.allegroimg.com/original/29eafa/186829dd4e1e809ba27ab53d78ef
+
 ---
 
-## 10444 — Lego Duplo 10444 Kreatywny ogród i kwiaty Zestaw i Poradnik 4w1
+## 10444 — Kreatywny ogród i kwiaty
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 58.88 zł · EAN: 05702017783147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10444 |
+| Nazwa angielska | Creative Garden & Flowers |
+| Nazwa polska | Kreatywny ogród i kwiaty |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783147 |
 
 LEGO Duplo 10444 Kreatywny ogród i kwiaty Zestaw i Poradnik 4w1
 
@@ -862,21 +1300,51 @@ DUPLO® LEGO DUPLO Town Kreatywny Ogród i Kwiaty, Zabawka dla Dziecka do Układ
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017783147
 
+**Galeria:**
+
+- 10444-1: https://a.allegroimg.com/original/11327c/b0e67fe1425cb22ba099cff85531
+
 ---
 
-## 10445 — Lego Duplo 10445 Bolidy i kierowcy F1 Zestaw i Poradnik 4w1
+## 10445 — Samochody i kierowcy zespołu F1 DUPLO 10445
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 124.89 zł · EAN: 05702017815565 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10445 |
+| Nazwa angielska | F1 Team Race Cars & Drivers |
+| Nazwa polska | Samochody i kierowcy zespołu F1 DUPLO 10445 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815565 |
 
 LEGO Duplo 10445 Bolidy i kierowcy F1 Zestaw i Poradnik 4w1
 
 DUPLO® Bolidy i kierowcy F1® LEGO® DUPLO® Town Bolidy i kierowcy F1® Zabawka LEGO® DUPLO® Town Bolidy i kierowcy F1® 10445 Poznaj świat Formuły 1® z całą rodziną dzięki bolidowi, który rozwija koordynację ruchową oraz myślenie przestrzenne dzieci. Podkręć zabawę dzięki zestawowi z bolidem LEGO® DUPLO® Odpal silniki i przygotuj się na wyścig podczas zabawy zestawem Bolidy i kierowcy F1® (10445). Ta fajna rodzinna rozrywka pozwala fanom motorsportu i maluchom odtworzyć emocje wyścigów Formuły 1®.Ta pomysłowa zabawka jest pełna elementów gwarantujących ekscytującą zabawę. Razem zbudujecie rozpoznawalne elementy z wyścigów F1, takie jak światła startowe i podium. W zestawie są elementy reprezentujące wszystkie 10 zespołów, dzięki czemu maluchy mogą spersonalizować bolid i wybrać zwycięzcę, który wzniesie puchar.Ten zestaw to idealny prezent dla dzieci, które uwielbiają zabawkowe pojazdy. Dzięki niemu rozwijają świadomość przestrzenną i ćwiczą umiejętności motoryczne, korzystając z funkcji podnośnika podczas szybkiego pit stopu. Maluchy mogą też doskonalić umiejętności sortowania kolorów, identyfikując zespoły po ich charakterystycznych barwach i uczyć się wytrwałości, ścigając się z członkami rodziny! Wprowadź swoje dziecko do świata Formuły 1® dzięki temu pełnemu funkcji zestawowi LEGO® DUPLO®. Czeka na Was ekscytująca zabawa, podczas której będziecie budować i odgrywać emocjonujące wyścigi. Dzięki elementom ze wszystkimi zespołami F1® maluchy mogą personalizować samochody, a następnie wybierać kierowców, by pomknąć do mety!
 
+**Galeria:**
+
+- 10445-1: https://a.allegroimg.com/original/110122/64a2da684481996f2e483cad902f
+
 ---
 
-## 10446 — Lego(r) Duplo 10446 Rodziny Dzikich Zwierząt 3W1
+## 10446 — Rodziny dzikich zwierząt 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 271.07 zł · EAN: 05702017815558 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10446 |
+| Nazwa angielska | 3in1 Wild Animal Families |
+| Nazwa polska | Rodziny dzikich zwierząt 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815558 |
 
 LEGO(R) DUPLO 10446 Rodziny dzikich zwierząt 3w1
 
@@ -951,21 +1419,51 @@ Cyfrowe instrukcje budowania aplikacja LEGO Builder zawiera cyfrową wersję ins
 
 [Stamp,5702017815558,7/6/2026 1:40:18 PM]
 
+**Galeria:**
+
+- 10446-1: https://a.allegroimg.com/original/1176b5/79f1790f4d698d3d59294bfe9d91
+
 ---
 
-## 10447 — Lego Duplo Karetka z kierowcą 10447
+## 10447 — Karetka z kierowcą
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 54.90 zł · EAN: 05702017816005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10447 |
+| Nazwa angielska | Ambulance & Driver |
+| Nazwa polska | Karetka z kierowcą |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816005 |
 
 Karetka z kierowcą
 
 DUPLO® LEGO DUPLO Town Karetka z Kierowcą, Edukacyjna Zabawka dla Dziecka do Odgrywania Ról, Rozwijająca Motorykę Małą, z 2 Figurkami, Kreatywny Prezent dla 2-latka, Dziewczynki i Chłopca, 10447 klocki chłopiec dziewczynka przedszkole żłobek 18 miesięcy 3 4 5 siostrzenica siostrzeniec syn figurki rodzina córka przedszkole lekarz ratownik medyczny pielęgniarka stetoskop wczesny rozwój aktywność szkoła kreatywny strażak policja Karetka z kierowcą LEGO® DUPLO® Karetka z kierowcą Zestaw LEGO® DUPLO® Karetka z kierowcą 10447 Ta rozwijająca wyobraźnię zabawka pomaga maluchom uczyć się poprzez zabawę dzięki odgrywaniu realistycznych sytuacji i wcielaniu się w ratownika. Zabawka zachęcająca do odgrywania ról Podczas zabawy zestawem Karetka z kierowcą (10447) troskliwe maluchy odgrywają ekscytujące scenki. Zestaw zawiera karetkę i dwie figurki LEGO® DUPLO®, ratownika medycznego i dziewczynkę, do odgrywania kreatywnych historii.Ten kreatywny zestaw LEGO DUPLO to świetny prezent dla maluchów, które lubią zabawki rozwijające cechy społeczne i emocjonalne. Podczas zabawy dzieci uczą się empatii. Instrukcje budowania zawierają drukowane koło do zabawy, które pozwala rodzicom i ich pociechom odkrywać różne emocje dziewczynki. Dzieci mogą używać go do wyrażania swoich uczuć związanych z chorobą lub tym, jak się czuły, gdy po raz pierwszy zobaczyły karetkę. Mogą również rozwijać logiczne myślenie, budując ciąg zdarzeń, a także koordynację wzrokowo-ruchową, otwierając dach karetki i umieszczając figurkę dziewczynki na noszach. Ta edukacyjna zabawka pomaga dzieciom w wieku przedszkolnym rozwijać umiejętności społeczne, pomagając im sobie wyobrazić, jak kierowca karetki zajmuje się pacjentką. Maluchy wcielą się w bohaterów dnia codziennego, pędząc karetką, aby pomóc dziewczynce, która poślizgnęła się na skórce od banana! Wykorzystując własne doświadczenia z wizyty u lekarza, mogą stać się ratownikiem i podjąć odpowiednie działania. Skorzystają z apteczki, aby pomóc dziewczynce na miejscu zdarzenia, a następnie ostrożnie pomogą jej wejść do karetki i zawiozą ją do szpitala. • Zabawka z karetką do odgrywania ról — dzięki zestawowi Karetka z kierowcą dzieci odgrywają ekscytujące scenariusze akcji ratowniczych.
 
+**Galeria:**
+
+- 10447-1: https://a.allegroimg.com/original/111a00/076347224034aee2019b272e5494
+
 ---
 
-## 10448 — Lego Duplo 10448 3 w 1: Zwierzęta na kółkach
+## 10448 — LEGO DUPLO 10448 3 w 1: Zwierzęta na kółkach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 102.88 zł · EAN: 05702017816197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10448 |
+| Nazwa angielska | 3in1 Animals on Wheels |
+| Nazwa polska | LEGO DUPLO 10448 3 w 1: Zwierzęta na kółkach |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816197 |
 
 LEGO DUPLO 10448 3 w 1: Zwierzęta na kółkach
 
@@ -1012,11 +1510,26 @@ Ten prezent dla maluchów jest pełen ruchomych funkcji, w tym ogona i wiszącyc
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017816197
 
+**Galeria:**
+
+- 10448-1: https://a.allegroimg.com/original/11e56c/dc34053a4548a994e31164abc91d
+
 ---
 
-## 10449 — Lego Duplo 10449 Pierwszy Raz: Wizyta U Lekarza 65 El. 2+
+## 10449 — DUPLO 10449 Pierwsza wizyta u lekarza
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702017816210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10449 |
+| Nazwa angielska | First Time: Visit with the Doctor |
+| Nazwa polska | DUPLO 10449 Pierwsza wizyta u lekarza |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 19 cm × gł. 13 cm |
+| EAN | 5702017816210 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1047,11 +1560,26 @@ To świetny prezent dla maluchów, które lubią zabawki pomagające wyrażać e
 - Starannie wykonane zabawki edukacyjne dla ciekawskich maluchów — pomysłowe zabawki LEGO® DUPLO® zostały zaprojektowane przez ekspertów, aby pomóc dzieciom zrozumieć otaczający je świat
 - Wymiary — ten 65-elementowy zestaw zawiera szpital, który ma 26 cm wysokości, 19 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 10449-1: https://a.allegroimg.com/original/05d8e0/b94dca774a908b1c4a8eab10826a
+
 ---
 
-## 10450 — Lego Duplo 10450 Gra Zamek Hopsy
+## 10450 — LEGO DUPLO 10450 Gra w klasy i zamek
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 126.90 zł · EAN: 05702017816630 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10450 |
+| Nazwa angielska | Hopsy's Castle Game |
+| Nazwa polska | LEGO DUPLO 10450 Gra w klasy i zamek |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 22 cm |
+| EAN | 5702017816630 |
 
 LEGO Duplo 10450 - Gra Zamek Hopsy
 
@@ -1072,11 +1600,26 @@ Ta edukacyjna zabawka oferuje mnóstwo wartości edukacyjnych, takich jak nauka 
 - Zabawka edukacyjna dla przedszkolaków — kreatywne zabawki LEGO® DUPLO® umożliwiają dzieciom naukę przez zabawę, wspierając rozwój umiejętności i emocji
 - Wymiary — ten 47-elementowy zestaw z grą zawiera planszę, która ma 32 cm wysokości i 22 cm szerokości
 
+**Galeria:**
+
+- 10450-1: https://a.allegroimg.com/original/29fcbe/2670b0dd4002a95add76e34b2afa
+
 ---
 
-## 10451 — Lego Duplo Town 3 w 1 Dinozaury na kółkach 10451
+## 10451 — LEGO DUPLO 10451 3 w 1: Dinozaury na kółkach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 206.62 zł · EAN: 05702017816647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10451 |
+| Nazwa angielska | 3in1 Dinosaurs on Wheels |
+| Nazwa polska | LEGO DUPLO 10451 3 w 1: Dinozaury na kółkach |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 108 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816647 |
 
 **LEGO DUPLO Town 3 w 1 Dinozaury na kółkach 10451**
 
@@ -1102,11 +1645,26 @@ Figurka tyranozaura ma 21 cm wysokości
 
 Zabawki LEGO® DUPLO® pomagają dzieciom rozwinąć ważne umiejętności
 
+**Galeria:**
+
+- 10451-1: https://a.allegroimg.com/original/113c8e/1ab55a514fdd949a5b5710b975ae
+
 ---
 
-## 10452 — Lego Duplo 10452 Świnka Peppa i kemping
+## 10452 — Świnka Peppa i kemping
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 57.87 zł · EAN: 05702017816654 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10452 |
+| Nazwa angielska | Camping Trip |
+| Nazwa polska | Świnka Peppa i kemping |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 10 cm × gł. 4 cm |
+| EAN | 5702017816654 |
 
 **PRODUCENT**: LEGO
  
@@ -1130,11 +1688,26 @@ Ta wysokiej jakości zabawka edukacyjna dla maluchów ze Świnką Peppą to świ
 - Edukacyjna zabawka dla przedszkolaków — zabawki LEGO® DUPLO® wspierają rozwój emocjonalny i koordynację wzrokowo-ruchową przez fajną, kreatywną zabawę 
 - Wymiary — ten 32-elementowy zestaw zawiera model drzewa do zbudowania, który ma 14 cm wysokości, 10 cm szerokości i 4 cm głębokości
 
+**Galeria:**
+
+- 10452-1: https://a.allegroimg.com/original/118e7a/050cd05941cd84e4a9db2a8d10df
+
 ---
 
-## 10453 — Lego Duplo Świnka Peppa Wesołe miasteczko 10453
+## 10453 — Wesołe miasteczko
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 152.97 zł · EAN: 05702017816678 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10453 |
+| Nazwa angielska | Funfair |
+| Nazwa polska | Wesołe miasteczko |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816678 |
 
 **LEGO DUPLO Świnka Peppa Wesołe miasteczko 10453**
 
@@ -1160,11 +1733,26 @@ Ta wysokiej jakości zabawka zachęca do rozmów o emocjach związanych z pierws
 
 • Diabelski młyn ma 28 cm wysokości
 
+**Galeria:**
+
+- 10453-1: https://a.allegroimg.com/original/1181cc/8b1e720548408afb117d0a641f51
+
 ---
 
-## 10454 — Lego Duplo 10454 Klub Przyjaciół Myszki Miki I Samochód
+## 10454 — Klub przyjaciół Myszki Miki i samochód
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 67.83 zł · EAN: 05702017816685 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10454 |
+| Nazwa angielska | Mickey Mouse Clubhouse & Car |
+| Nazwa polska | Klub przyjaciół Myszki Miki i samochód |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816685 |
 
 LEGO DUPLO 10454 KLUB PRZYJACIÓŁ MYSZKI MIKI I SAMOCHÓD
 
@@ -1172,11 +1760,26 @@ Klub przyjaciół Myszki Miki i samochód
 
 DUPLO® │ Disney Klub przyjaciół Myszki Miki i samochód LEGO® DUPLO® | Disney Klub przyjaciół Myszki Miki i samochód LEGO® DUPLO® | Disney Klub przyjaciół Myszki Miki i samochód 10454 Budując ten zestaw z pojazdem, maluchy uczą się poprzez zabawę z Myszką Miki Disneya. Zabawka z Myszką Miki i samochodem do zbudowania Dzięki zestawowi Klub przyjaciół Myszki Miki i samochód (10454) dzieci przeniosą się do świata znanego z ulubionego programu na Disney Junior. Dwulatki i starsze dzieci dołączą do Cośka i wymyślą zadania dla Mikiego, kręcąc Mysiskładakiem.Ta zabawka do sortowania dla maluchów pomaga im uczyć się poprzez kreatywną zabawę. Mogą kręcić kołem na zmianę z dorosłymi i wykorzystać swoje umiejętności dopasowywania, aby połączyć obrazki z kolorowymi akcesoriami. Zadania obejmują naprawę samochodu kluczem lub mycie go za pomocą wiaderka i szczotki. Małe rączki rozwijają umiejętności motoryczne, odkrywając ciekawe funkcje, takie jak uchylne okno, składana zjeżdżalnia i obracające się koła samochodu. Ta zabawka konstrukcyjna LEGO® DUPLO® do odgrywania ról inspiruje maluchy do używania wyobraźni i wyrażania siebie podczas wymyślania kreatywnych przygód w Klubie Myszki Miki. Dołącz do Cośka i wymyślcie wspólnie zadania dla Myszki Miki za pomocą Mysiskładaka! Pomóż Myszce Miki ukończyć wszystkie wyzwania, takie jak naprawa samochodu kluczem albo czyszczenie go wiadrem i szczotką. Po skończonej pracy przyjdzie czas na zabawę! Myszka Miki może zjeżdżać ze zjeżdżalni lub przeżywać zupełnie nowe przygody!
 
+**Galeria:**
+
+- 10454-1: https://a.allegroimg.com/original/113ee6/9d56c0864a8bb72de716f330826f
+
 ---
 
-## 10455 — Lego Duplo Disney Przyjęcie w lodowym zamku Anny i Elzy 10455
+## 10455 — LEGO DUPLO Disney 10455 Kraina Lodu: Uroczystość w zamku Anny i Elsy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 189.98 zł · EAN: 05702017816708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10455 |
+| Nazwa angielska | Anna and Elsa's Frozen Castle Party |
+| Nazwa polska | LEGO DUPLO Disney 10455 Kraina Lodu: Uroczystość w zamku Anny i Elsy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 56 cm |
+| EAN | 5702017816708 |
 
 **LEGO DUPLO Disney Przyjęcie w zamku 10455**
 
@@ -1202,11 +1805,26 @@ Zabawki konstrukcyjne LEGO® DUPLO® pomagają maluchom rozwijać pasje i umiej�
 
 Zamek do zbudowania ma 36 cm wysokości i 56 cm szerokości
 
+**Galeria:**
+
+- 10455-1: https://a.allegroimg.com/original/111a2d/9644f0844b85a954630d26d6fdd8
+
 ---
 
-## 10456 — Lego Duplo 10456 Disney McQueen
+## 10456 — LEGO DUPLO Disney 10456 McQueen i wizyta w warsztacie doktora Hudsona
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 93.32 zł · EAN: 05702017816715 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10456 |
+| Nazwa angielska | McQueen's Visit to Doc's Garage |
+| Nazwa polska | LEGO DUPLO Disney 10456 McQueen i wizyta w warsztacie doktora Hudsona |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 48 cm |
+| EAN | 5702017816715 |
 
 Mali budowniczowie z zestawem LEGO® DUPLO® │ Disney i Pixar Auta (10456) **McQueen i wizyta w garażu doktora Hudsona **nauczą się dbać o swój ulubiony samochód wyścigowy. Dzięki temu zestawowi dzieci przeniosą się w świat filmu Auta od studia Disney i Pixar oraz nauczą się dbać o samochód poprzez kreatywną zabawę.
 
@@ -1235,21 +1853,51 @@ Pomysłowa zabawa rozpocznie się, gdy samochód Zygzak McQueen prześwietli bra
  
 - Nadaje się dla dzieci od 2 lat
 
+**Galeria:**
+
+- 10456-1: https://a.allegroimg.com/original/11cb57/f54fe5984c45aa63aaec0d1b6e2d
+
 ---
 
-## 10457 — Lego Duplo Disney Przyjęcie urodzinowe Kubusia Puchatka 10457
+## 10457 — Przyjęcie urodzinowe Kubusia Puchatka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 69.12 zł · EAN: 05702017816722 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10457 |
+| Nazwa angielska | Winnie the Pooh's Birthday Party |
+| Nazwa polska | Przyjęcie urodzinowe Kubusia Puchatka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816722 |
 
 Przyjęcie urodzinowe Kubusia Puchatka
 
 DUPLO® Przyjęcie urodzinowe Kubusia Puchatka LEGO® DUPLO® | Disney Przyjęcie urodzinowe Kubusia Puchatka LEGO® DUPLO® | Disney Przyjęcie urodzinowe Kubusia Puchatka 10457 Zestaw do zbudowania wspiera rozwój umiejętności emocjonalno-społecznych. Zawiera trzy figurki LEGO® DUPLO®: Kubusia Puchatka, Tygryska i Prosiaczka. Zestaw wspierający rozpoznawanie emocji Dzięki zestawowi LEGO® DUPLO® | Disney Przyjęcie urodzinowe Kubusia Puchatka (10457) rodzice i maluchy mogą cieszyć się kreatywnymi aktywnościami i nauką poprzez zabawę. Ta kolorowa edukacyjna zabawka pomaga maluchom w wieku od 18 miesięcy ćwiczyć wczesne umiejętności, a jednocześnie cieszyć się kreatywną zabawą.Przedszkolaki wyobrażają sobie, że idą na przyjęcie w towarzystwie trzech figurek LEGO DUPLO: Kubusia Puchatka, Tygryska i Prosiaczka. Każda postać ma dwie różne miny, co inspiruje dzieci do nieograniczonej kreatywnej zabawy i wymyślania historii. Ta fajna funkcja wspiera także rozwój umiejętności społeczno-emocjonalnych, kiedy to dzieci odkrywają różne emocje towarzyszące przyjęciom — od radości z otwierania prezentów po dyskomfort po zjedzeniu zbyt wielu smakołyków!Ta zabawka konstrukcyjna pozwala dzieciom w wieku przedszkolnym ćwiczyć sortowanie kolorów poprzez dopasowywanie prezentów urodzinowych do postaci. Ponieważ każdy prezent jest ponumerowany, przedszkolaki mogą nawet zacząć naukę liczenia. Dołącz do Tygryska i Prosiaczka w tym wyjątkowym dla Puchatka dniu. Trzymaj mocno balony, aby nie odleciały! Dzieci mogą wybrać miny postaci, a następnie spróbują określić, co czują. Prosiaczek dał Puchatkowi garnek miodu w prezencie, ale Puchatek zjadł go chyba trochę za dużo!
 
+**Galeria:**
+
+- 10457-1: https://a.allegroimg.com/original/11b0d8/88fc548e479aa122c786ec5f71f8
+
 ---
 
-## 10458 — Lego Duplo 10458 Bluey I Wycieczka Po Lody Komplet Klockow 2+
+## 10458 — Bluey i wycieczka po lodach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 84.89 zł · EAN: 05702017816739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10458 |
+| Nazwa angielska | Ice Cream Trip with Bluey |
+| Nazwa polska | Bluey i wycieczka po lodach |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 15 cm × gł. 10 cm |
+| EAN | 5702017816739 |
 
 LEGO Duplo
  
@@ -1294,11 +1942,26 @@ Specyfikacja zestawu:
 - **Wiek dziecka: **od 2 lat 
 - **Płeć dziecka:** chłopcy i dziewczynki
 
+**Galeria:**
+
+- 10458-1: https://a.allegroimg.com/original/0597be/6de5fc7347a794c1d15380f5c3d9
+
 ---
 
-## 10459 — Lego Duplo Bluey 10459 Dom rodzinny Blue z grą pamięciową
+## 10459 — Dom Bluey'ego i gra pamięciowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017816746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10459 |
+| Nazwa angielska | Bluey’s Family House |
+| Nazwa polska | Dom Bluey'ego i gra pamięciowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816746 |
 
 LEGO Duplo Bluey 10459 Dom rodzinny Blue z grą pamięciową
 
@@ -1327,11 +1990,27 @@ Trzy figurki LEGO® DUPLO®
 
 W zestawie są znani z bajki Blue, Bingo i mama Czili.
 
+**Galeria:**
+
+- 10459-1: https://a.allegroimg.com/original/050c4c/566579644fa8897e357a8aa52efb
+
 ---
 
-## 10461 — Lego Duplo Ogród i szklarnia dziadka Świnki 10461 Świnka Peppa
+## 10461 — DUPLO 10461 Ogród i szklarnia dziadka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 318.72 zł · EAN: 05702017850450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10461 |
+| Nazwa angielska | Grandpa Pig's Garden and Greenhouse |
+| Nazwa polska | DUPLO 10461 Ogród i szklarnia dziadka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017850450 |
 
 LEGO DUPLO Ogród i szklarnia dziadka Świnki 10461 Świnka Peppa
 
@@ -1343,11 +2022,26 @@ Ta zabawka dla maluchów do zbudowania jest pełna edukacyjnych funkcji i akceso
 
 #32591
 
+**Galeria:**
+
+- 10461-1: https://a.allegroimg.com/original/29ce2e/33f28bf54f94bdfd5896b8ed4c6b
+
 ---
 
-## 10462 — Lego Duplo Disney Kreatywne pudełko z Elzą i Olafem 10462
+## 10462 — Kraina Lodu Kreatywne pudełko z Elzą i Olafem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 58.97 zł · EAN: 05702018056332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10462 |
+| Nazwa angielska | Frozen Creative Box with Elsa and Olaf |
+| Nazwa polska | Kraina Lodu Kreatywne pudełko z Elzą i Olafem |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 37 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056332 |
 
 **LEGO DUPLO Disney Kreatywne pudełko z Elzą i Olafem 10462**
 
@@ -1373,11 +2067,26 @@ Klocki LEGO® DUPLO® pomagają maluchom i opiekunom wspólnie budować i się b
 
 Postać Elzy ze zdejmowaną, materiałową spódniczką ma 7 cm wysokości
 
+**Galeria:**
+
+- 10462-1: https://a.allegroimg.com/original/11388d/8fbf9e2b4b63bb4a0cc2c4681c02
+
 ---
 
-## 10463 — Lego Duplo Marvel Dinozaur Spidey-Rex i Zielony Goblin 10463
+## 10463 — Dinozaur Spidey-Rex i Zielony Goblin
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 65.85 zł · EAN: 05702018056349 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10463 |
+| Nazwa angielska | Dinosaur Spidey-Rex vs. Green Goblin |
+| Nazwa polska | Dinozaur Spidey-Rex i Zielony Goblin |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 25 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056349 |
 
 LEGO DUPLO Marvel - Dinozaur Spidey-Rex i Zielony Goblin 10463
 
@@ -1400,11 +2109,26 @@ Przeżyją sceny z serialu Spidey i super-kumple w zaciszu własnego pokoju dzi�
 - **Bezpieczna zabawa -** wszystkie elementy w zestawach LEGO DUPLO są rygorystycznie sprawdzane, by zapewnić, że każda zabawka spełnia najwyższe światowe standardy bezpieczeństwa i jakości
 - **Wymiary** - ten 25-elementowy zestaw konstrukcyjny zawiera dinozaura o wysokości 11 cm
 
+**Galeria:**
+
+- 10463-1: https://a.allegroimg.com/original/11d312/0803c4b641dbb2e6130cc33a1b38
+
 ---
 
-## 10464 — Lego Duplo Disney 10464 Marvel Kryjówka Pajęczej Drużyny
+## 10464 — Kryjówka Pajęczej Drużyny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 165.12 zł · EAN: 05702018056356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10464 |
+| Nazwa angielska | Team Spidey Webquarters |
+| Nazwa polska | Kryjówka Pajęczej Drużyny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 65 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 23 cm × szer. 41 cm × gł. 11 cm |
+| EAN | 5702018056356 |
 
 LEGO DUPLO Disney 10464 Marvel Kryjówka Pajęczej Drużyny
 
@@ -1424,11 +2148,26 @@ Ten zestaw konstrukcyjny ze świata Marvela jest pełen okazji do rozwoju: maluc
 - **ŚWIAT NAUKI PRZEZ ZABAWĘ** — zapoznaj maluchy z jeszcze bardziej kreatywnymi przygodami dzięki innym zabawkom edukacyjnym LEGO® DUPLO®, które pomagają przedszkolakom rozwijać umiejętności poprzez zabawę.
 - **WYMIARY** — zestaw zawiera 65 elementów i ma 23 cm wysokości, 41 cm szerokości i 11 cm głębokości.
 
+**Galeria:**
+
+- 10464-1: https://a.allegroimg.com/original/1100c4/fb74f61a4e9a8075e1ae2c0efc36
+
 ---
 
-## 10465 — Lego Duplo Disney Klub Myszki Miki z Minnie i Pluto 10465
+## 10465 — LEGO DUPLO Disney 10465 Klub Myszki Miki z Minnie i Pluto
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 156.30 zł · EAN: 05702018056363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10465 |
+| Nazwa angielska | Mickey Mouse Clubhouse with Minnie & Pluto |
+| Nazwa polska | LEGO DUPLO Disney 10465 Klub Myszki Miki z Minnie i Pluto |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 64 cm × gł. 16 cm |
+| EAN | 5702018056363 |
 
 **LEGO DUPLO Disney 10465 Klub Myszki Miki z Minnie i Pluto**
 
@@ -1447,11 +2186,26 @@ Rozpoczynając zabawę, maluchy kręcą Mysiskładakiem, aby zdecydować, czy bo
 - Bezpieczna zabawa — klocki i elementy tego kreatywnego zestawu LEGO® DUPLO® zostały dokładnie przetestowane pod kątem zgodności z normami bezpieczeństwa dla dzieci. 
 - Wymiary — ten 87-elementowy zestaw konstrukcyjny z klubem ma 26 cm wysokości, 64 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 10465-1: https://a.allegroimg.com/original/1138ed/3ef2dbee405dad455b4ecfd8de01
+
 ---
 
-## 10466 — klocki Lego Duplo 10466 Podróż pociągiem z Dziadkiem Świnką
+## 10466 — Podróż pociągiem z Dziadkiem Świnką
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 198.00 zł · EAN: 05702018071670 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10466 |
+| Nazwa angielska | Train Ride with Grandpa Pig |
+| Nazwa polska | Podróż pociągiem z Dziadkiem Świnką |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702018071670 |
 
 Dzięki zestawowi konstrukcyjnemu Podróż pociągiem z Dziadkiem Świnką (10466) maluchy w wieku od dwóch lat mogą wyruszyć w ekscytującą podróż edukacyjną. W zestawie znajdują się trzy postacie — Dziadek Świnka, Świnka Peppa i George — oraz kolejka zdwoma wagonami, brama z klocków i stacja LEGO® DUPLO® z krzesełkami i zegarem. Ten edukacyjny prezent może pomóc maluchom rozwijać umiejętności podczas zabawy. Nauczą się, że muszą cierpliwie czekać na pociąg na stacji. Następnie, wykorzystując koordyn ację wzrokowo-ruchową, mogą umieścić zabawki Misia Teddy’ego i Pana Dinozaura w rękach figurek George'a i Peppy, aby bezpiecznie zabrali je na pokład przed rozpoczęciem podróży. Małe dzieci wykorzystają umiejętności motoryczne i umiejętność układania klocków, aby zbudować z nich bramę. Ponadto mogą następnie posortować klocki do wagoników w pasujących kolorach. Zabawki edukacyjne LEGO DUPLO Świnka Peppa umożliwiają maluchom rozwój wczesnych umiejętności podczas odtwarzania scen z ich ulubionego serialu. Zestaw składa się z 35 elementów.
 
@@ -1465,11 +2219,26 @@ Dzięki zestawowi konstrukcyjnemu Podróż pociągiem z Dziadkiem Świnką (1046
 - Nauka przez zabawę — ta edukacyjna zabawka pomaga dzieciom w wieku od dwóch lat rozwijać wczesne umiejętności, takie jak poznawanie uczuć, podczas odgrywania wymyślonych historii
 - Wymiary — ten 35-elementowy zestaw zawiera pociąg z dwoma wagonami o wymiarach 9 cm wysokości, 35 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 10466-1: https://a.allegroimg.com/original/11fc1b/1abd10354cc195ec95b3d08dee6f
+
 ---
 
-## 10467 — Lego Duplo Świnka Peppa 10467 domek rodzinny
+## 10467 — LEGO DUPLO Świnka Peppa 10467 domek rodzinny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 209.96 zł · EAN: 05702018056486 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10467 |
+| Nazwa angielska | Family House |
+| Nazwa polska | LEGO DUPLO Świnka Peppa 10467 domek rodzinny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm × gł. 9 cm |
+| EAN | 5702018056486 |
 
 **LEGO DUPLO 10467 Świnka Peppa Dom rodzinny**
 
@@ -1490,11 +2259,26 @@ Dzięki pięciu figurkom LEGO DUPLO zawartym w tym zestawie — Mamie Śwince, T
 - Bezpieczne zabawki dla małych dzieci — wszystkie klocki i akcesoria zawarte w tym zestawie z domkiem zostały dokładnie przetestowane pod kątem zgodności z normami bezpieczeństwa dla dzieci. 
 - Wymiary — ten 84-elementowy zestaw dla dzieci zawiera domek Świnki Peppy o wymiarach 26 cm wysokości, 25 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 10467-1: https://a.allegroimg.com/original/113e53/771216f94e9dafd8928bf615e85c
+
 ---
 
-## 10468 — Lego Duplo Świnka Peppa 10468 Traktor i targowisko
+## 10468 — LEGO DUPLO Prasátko Peppa 10468 Traktor a tržnice
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 61.79 zł · EAN: 05702018056493 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10468 |
+| Nazwa angielska | Tractor and Market |
+| Nazwa polska | LEGO DUPLO Prasátko Peppa 10468 Traktor a tržnice |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 7 cm |
+| EAN | 5702018056493 |
 
 LEGO DUPLO 10468 Świnka Peppa Ciągnik i rynek
 
@@ -1513,11 +2297,26 @@ Ta zabawka edukacyjna dla małych dzieci oferuje wiele możliwości rozwoju. Obs
 - Bezpieczna zabawa — wszystkie klocki zestawu LEGO® DUPLO® są testowane, aby spełniały normy bezpieczeństwa dla dzieci. 
 - Wymiary — ten 18-elementowy zestaw ma 9 cm wysokości, 12 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 10468-1: https://a.allegroimg.com/original/112434/af46790c40a494d66580d24d4205
+
 ---
 
-## 10469 — Lego Duplo Bluey 10469 Pizzerki z Muffinką i Blue
+## 10469 — Pizzerki z Muffinką i Blue
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 135.35 zł · EAN: 05702018056509 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10469 |
+| Nazwa angielska | Pizza Girls with Muffin and Bluey |
+| Nazwa polska | Pizzerki z Muffinką i Blue |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 44 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056509 |
 
 LEGO DUPLO Bluey 10469 Pizzerki z Muffinką i Blue
 
@@ -1537,11 +2336,26 @@ Zabawki LEGO DUPLO Blue pomagają małym dzieciom organizować kreatywne zabawy 
 - Świat pełen wyobraźni — zestawy konstrukcyjne LEGO® DUPLO® Blue pobudzają wyobraźnię dzieci i inspirują je do kreatywności, tak jak ich ulubiona postać z serialu.
 - Wymiary — ten 44-elementowy zestaw dla fanów Blue zawiera model drzewa o wysokości 19 cm, szerokości 23 cm i głębokości 6 cm.
 
+**Galeria:**
+
+- 10469-1: https://a.allegroimg.com/original/116459/9446acf84ee9a2c12c272f313f91
+
 ---
 
-## 10470 — Lego Duplo 10470 Nowoczesny dom rodzinny 3 w 1 z figurkami
+## 10470 — Nowoczesny dom rodzinny 3 w 1 z figurkami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702018056516 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10470 |
+| Nazwa angielska | 3 in 1 Modern Family House with Figures |
+| Nazwa polska | Nowoczesny dom rodzinny 3 w 1 z figurkami |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 166 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 36 cm × szer. 49 cm × gł. 33 cm |
+| EAN | 5702018056516 |
 
 LEGO Duplo 10470 Nowoczesny dom rodzinny 3 w 1 z figurkami
 
@@ -1574,11 +2388,26 @@ Ta zabawka dla małych dzieci zawiera wiele akcesoriów do domku dla lalek, któ
 - Nauka budowania dla dzieci — ten domek LEGO® DUPLO® rozwija kreatywność, inteligencję emocjonalną i koordynację wzrokowo-ruchową małych dzieci, które mogą otwierać okna i drzwi w budynku 
 - Wymiary — główny model w tym 166-elementowym zestawie LEGO® DUPLO® ma 36 cm wysokości, 49 cm szerokości i 33 cm głębokości
 
+**Galeria:**
+
+- 10470-1: https://a.allegroimg.com/original/291ad5/200a2c50432489179db0e0ac603b
+
 ---
 
-## 10471 — Lego Duplo Niebieski motocykl policyjny dla dzieci 10471
+## 10471 — LEGO DUPLO 10471 Niebieski motocykl policyjny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 29.98 zł · EAN: 05702018032015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10471 |
+| Nazwa angielska | Blue Police Motorcycle |
+| Nazwa polska | LEGO DUPLO 10471 Niebieski motocykl policyjny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018032015 |
 
 **LEGO DUPLO Niebieski motocykl policyjny dla dzieci 10471**
 
@@ -1602,11 +2431,26 @@ Zabawki edukacyjne LEGO® DUPLO® zawierają ciekawe historie i funkcje
 
 Zabawkowy motocykl policyjny ma 14 cm długości
 
+**Galeria:**
+
+- 10471-1: https://a.allegroimg.com/original/1143c1/5c32050347a9af02461891eaf095
+
 ---
 
-## 10472 — Lego Duplo Gra w budowanie zwierzątek 10472
+## 10472 — Gra w budowanie zwierzątek
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702018056523 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10472 |
+| Nazwa angielska | Animal Building Game |
+| Nazwa polska | Gra w budowanie zwierzątek |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 94 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056523 |
 
 **LEGO DUPLO Gra w budowanie zwierzątek 10472**
 
@@ -1630,11 +2474,26 @@ Zestawy LEGO® DUPLO® wspierają rozwój malucha poprzez zabawę
 
 Zawiera zabawkę w kształcie królika o wysokości 10 cm
 
+**Galeria:**
+
+- 10472-1: https://a.allegroimg.com/original/11ecc2/4046a78c4c2397f731ef7889d74a
+
 ---
 
-## 10473 — Lego Duplo Wóz strażacki z wężem i strażakiem 10473
+## 10473 — LEGO DUPLO 10473 Wóz strażacki z wężem i strażakiem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 83.46 zł · EAN: 05702018056530 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10473 |
+| Nazwa angielska | Fire Truck with Hose and Firefighter |
+| Nazwa polska | LEGO DUPLO 10473 Wóz strażacki z wężem i strażakiem |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018056530 |
 
 Zapewnij małym dzieciom od 2 lat mnóstwo zabawy w strażaka dzięki zabawce LEGO® DUPLO® Miasto **Wóz strażacki z wężem i strażakiem** (10473). Ta zabawka strażacka ma mnóstwo funkcji i elementów, takich jak elastyczny wąż, drzewo i figurka wiewiórki LEGO DUPLO.
  
@@ -1655,11 +2514,26 @@ Model wozu strażackiego LEGO DUPLO jest pełen zabawnych funkcji, które inspir
 - Liczba elementów: 28 
 - Odpowiednie dla dzieci od 2 lat
 
+**Galeria:**
+
+- 10473-1: https://a.allegroimg.com/original/29b720/6fd49a01412392ce0c31ad6b1924
+
 ---
 
-## 10474 — Klocki Lego Duplo 10474 kreatywne pojazdy, zestaw klocków dla dzieci +18mcy
+## 10474 — LEGO DUPLO 10474 Pojazdy kreatywne
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 57.49 zł · EAN: 05702018056547 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10474 |
+| Nazwa angielska | Creative Vehicles |
+| Nazwa polska | LEGO DUPLO 10474 Pojazdy kreatywne |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2026 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018056547 |
 
 Zabawka LEGO® DUPLO® Moje pierwsze **pojazdy kreatywne** (10474) otwiera przed maluchami świat kreatywnej i nieograniczonej zabawy. Ta zabawka edukacyjna dla dzieci od 18 miesiąca życia zawiera mnóstwo klocków, elementów i ruchomych funkcji, które uruchomią dziecięcą kreatywność!
 
@@ -1690,11 +2564,26 @@ Zabawki LEGO DUPLO pomagają rozwijać umiejętności. Zawierają klocki, które
  
 - Odpowiedni dla dzieci od 18 miesiąca życia
 
+**Galeria:**
+
+- 10474-1: https://a.allegroimg.com/original/29053b/adb93aca4ce3af2190b51edbdd7e
+
 ---
 
-## 10475 — Lego Duplo Maszyny budowlane 3 w 1 10475
+## 10475 — LEGO DUPLO 10475 Pojazdy budowlane 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702018032022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10475 |
+| Nazwa angielska | 3 in 1 Construction Vehicles |
+| Nazwa polska | LEGO DUPLO 10475 Pojazdy budowlane 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018032022 |
 
 **LEGO DUPLO Maszyny budowlane 3 w 1 10475**
 
@@ -1720,11 +2609,26 @@ Zabawki LEGO® DUPLO® Moje miasteczko pozwalają maluchom odgrywać sceny z pra
 
 Koparka ma 11 cm wysokości i 22 cm długości
 
+**Galeria:**
+
+- 10475-1: https://a.allegroimg.com/original/115045/0f1ee1d34492ab47e5f65a360b6e
+
 ---
 
-## 10476 — Klocki Lego Duplo 10476 Plac Budowy Z Pojazdami 3 W 1
+## 10476 — Plac budowy z pojazdami 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018056554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10476 |
+| Nazwa angielska | 3 in 1 Construction Site and Vehicles |
+| Nazwa polska | Plac budowy z pojazdami 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 84 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 22 cm × gł. 7 cm |
+| EAN | 5702018056554 |
 
 LEGO Duplo
 
@@ -1772,11 +2676,26 @@ Specyfikacja zestawu:
 
 - **Płeć**: Chłopcy
 
+**Galeria:**
+
+- 10476-1: https://a.allegroimg.com/original/2976fd/0dc26df94f428ae8a522ae7a4a1c
+
 ---
 
-## 10477 — Klocki Lego Duplo 10477 kreatywne zwierzaki 3 w 1, zestaw dla dzieci +18 mc
+## 10477 — LEGO DUPLO 10477 Urocze kreatywne zwierzaki 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 28.98 zł · EAN: 05702018032039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10477 |
+| Nazwa angielska | 3 in 1 Creative Cute Pets |
+| Nazwa polska | LEGO DUPLO 10477 Urocze kreatywne zwierzaki 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2026 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018032039 |
 
 Ciesz się kolorową i kreatywną zabawą z zestawem LEGO® DUPLO® Moje pierwsze **Urocze kreatywne zwierzaki 3 w 1** (10477). Ta urocza zabawka dla zwierząt dla dzieci w wieku od 18 miesięcy oferuje 3 różne opcje budowania z tego samego zestawu klocków.
 
@@ -1807,11 +2726,26 @@ Ten prezent dla małych dzieci jest pełen zajęć edukacyjnych dla maluchów. S
  
 - Odpowiedni dla dzieci od 18 miesiąca życia
 
+**Galeria:**
+
+- 10477-1: https://a.allegroimg.com/original/29fced/1149c1864c79a7f22361268e9dd0
+
 ---
 
-## 10478 — Lego Duplo 10478 Lego Duplo Town 10478 Kreatywne rampy 3 w 1 z pojazdami
+## 10478 — Kreatywne rampy 3 w 1 z pojazdami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 208.99 zł · EAN: 05702018056561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10478 |
+| Nazwa angielska | 3 in 1 Creative Ramps with Vehicles |
+| Nazwa polska | Kreatywne rampy 3 w 1 z pojazdami |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 111 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 48 cm × szer. 99 cm × gł. 12 cm |
+| EAN | 5702018056561 |
 
 LEGO DUPLO Town 10478 Kreatywne rampy 3 w 1 z pojazdami
  
@@ -1833,11 +2767,26 @@ Zestaw zawiera wiele akcesoriów, w tym płomienie, pachołki i puchar, które p
 - Pełna zabawy nauka na wczesnym etapie życia — zestawy LEGO® DUPLO® zostały zaprojektowane tak, aby pomóc maluchom opanować podstawowe umiejętności, jednocześnie angażując je w ekscytujące zajęcia związane z budowaniem. 
 - Wymiary — najwyższa rampa w tym 111-elementowym zestawie ma 48 cm wysokości, 99 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 10478-1: https://a.allegroimg.com/original/113761/83a27ede4cc1a06f3b99818e72d3
+
 ---
 
-## 10479 — Lego Duplo 10479 Kolorowe klocki kreatywne
+## 10479 — Kreatywne pudełko pełne kolorów
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 57.99 zł · EAN: 05702018056578 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10479 |
+| Nazwa angielska | Colorful Creative Box |
+| Nazwa polska | Kreatywne pudełko pełne kolorów |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2026 |
+| Liczba elementów | 80 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056578 |
 
 LEGO DUPLO Classic 10479 Kreatywne pudełko pełne kolorów
  
@@ -1859,11 +2808,26 @@ Zestawy LEGO DUPLO Classic pobudzają kreatywność maluchów i oferują mnóstw
 - ZABAWKA WSPIERĄCA ROZWÓJ — zestawy LEGO® DUPLO® pomagają rozwijać koordynację wzrokowo-ruchową, koncentrację i wytrwałość u małych dzieci, które budują samodzielnie lub z rodziną i przyjaciółmi. 
 - WYMIARY — największym sugerowanym modelem w tym 80-elementowym zestawie kreatywnym jest kaczka o wysokości 9 cm.
 
+**Galeria:**
+
+- 10479-1: https://a.allegroimg.com/original/11735e/f30de49e4980aea102edf008b0b9
+
 ---
 
-## 10480 — Lego Duplo Town 10480 Las odkrywców z dzikimi zwierzętami
+## 10480 — Las odkrywców z dzikimi zwierzętami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 258.61 zł · EAN: 05702018056585 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10480 |
+| Nazwa angielska | Discovery Forest with Wild Animals |
+| Nazwa polska | Las odkrywców z dzikimi zwierzętami |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 131 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 63 cm × gł. 33 cm |
+| EAN | 5702018056585 |
 
 LEGO DUPLO Town 10480 Las odkrywców z dzikimi zwierzętami
 
@@ -1883,11 +2847,27 @@ Zabawki LEGO DUPLO wspierające rozwój zostały zaprojektowane, aby pomóc mał
 - **ODKRYWANIE ŚWIATA** — zestawy LEGO® DUPLO® zostały zaprojektowane tak, aby pomóc młodym konstruktorom zrozumieć otaczający ich świat.
 - **WYMIARY** — ten 131-elementowy zestaw ma po zbudowaniu na macie 31 cm wysokości, 63 cm szerokości i 33 cm głębokości.
 
+**Galeria:**
+
+- 10480-1: https://a.allegroimg.com/original/1107d3/c72eb526429b972f852d639754e5
+
 ---
 
-## 10500 — Klocki Lego Duplo 10500 Stadnina
+## 10500 — - Stadnina
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 297.98 zł · EAN: 05702014973275 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10500 |
+| Nazwa angielska | Horse Stable |
+| Nazwa polska | - Stadnina |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973275 |
 
 LEGO DUPLO
 
@@ -1917,22 +2897,54 @@ Zestaw został wydany w 2013 roku i jest wycofany z produkcji.
 
 **ZAPRASZAMY NA NASZE POZOSTAŁE AUKCJE :)**
 
+**Galeria:**
+
+- 10500-1: https://a.allegroimg.com/original/11205f/aa105f014175ab911370df1e3e81
+
 ---
 
-## 10501 — Klocki Lego Duplo 10501 Przyjaciele z Zoo
+## 10501 — 10501
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 22.00 zł · EAN: 05702014973350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10501 |
+| Nazwa angielska | Zoo Friends |
+| Nazwa polska | 10501 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973350 |
 
 Jest czas zabawy w arktycznej części zoo. Zabierz niedźwiadka polarnego i pingwina na spacer, by bawić się z nimi na lodzie! Baw się przezroczystymi klockami lodowymi i szarymi klockami kamiennymi LEGO DUPLO! Zestaw DUPLO z przyjaznymi zwierzętami to świetne wprowadzenie do budowania z LEGO!
 
 - Zestaw zawiera niedźwiadka polarnego i pingwina LEGO DUPLO oraz 3 klocki DUPLO.
 - Baw się razem z polarnymi zwierzętami na klockach w kolorze lodu i kamienia!
 
+**Galeria:**
+
+- 10501-1: https://a.allegroimg.com/original/116106/35bbc4004820b21b4dfe5c2c0194
+
 ---
 
-## 10502 — Lego Duplo 10502 Autobus w Zoo
+## 10502 — LEGO Duplo 10502 - Autobus w ZOO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 697.97 zł · EAN: 05702014973367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10502 |
+| Nazwa angielska | Zoo Bus |
+| Nazwa polska | LEGO Duplo 10502 - Autobus w ZOO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973367 |
 
 LEGO Duplo 10502 - Autobus w ZOO
 
@@ -1963,11 +2975,27 @@ LEGO® 10502 Duplo - Autobus w Zoo
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10502-1: https://a.allegroimg.com/original/1194b9/e28088c640579d65c97f61c465a7
+
 ---
 
-## 10503 — Lego Duplo 10503 Cyrk Foki Ryba
+## 10503 — 10503
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 118.49 zł · EAN: 05702014973282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10503 |
+| Nazwa angielska | Circus Show |
+| Nazwa polska | 10503 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973282 |
 
 LEGO DUPLO 10503 Cyrk Ryba Foki
  
@@ -1982,11 +3010,27 @@ Zestaw zawiera:
 - basen 
 - okrągłe elementy
 
+**Galeria:**
+
+- 10503-1: https://a.allegroimg.com/original/11b98f/c73d812e420a934df77cbfee4439
+
 ---
 
-## 10504 — Lego Duplo 10504 Duży Cyrk
+## 10504 — lego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702014973299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10504 |
+| Nazwa angielska | My First Circus |
+| Nazwa polska | lego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702014973299 |
 
 Duży cyrk to zestaw klocków składający się z 62 elementów.
 
@@ -2004,11 +3048,27 @@ akcesoria: 2 klocki DUPLO przedstawiające płomienie, flagi, parasol, ogrodzeni
 
 huśtawka ma ok. 15 cm wysokości, 12 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 10504-1: https://a.allegroimg.com/original/119407/1201a7914eb4adcdfd6ea83728d5
+
 ---
 
-## 10506 — Lego 10506 Duplo Tory kolejowe łuki proste zwrotnice przejazd szlaban
+## 10506 — 10506
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702014973329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10506 |
+| Nazwa angielska | Train Accessory Set |
+| Nazwa polska | 10506 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973329 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2029,11 +3089,27 @@ Zabierz dziecko w podróż do nieskończonych możliwości po torach kolejowych 
 - Zestaw jest przeznaczony tylko do użytku z kolejkami DUPLO.
 - Produkty DUPLO są bezpieczne i wygodne dla małych rączek.
 
+**Galeria:**
+
+- 10506-1: https://a.allegroimg.com/original/055b41/51772a644136bd15315a4f952197
+
 ---
 
-## 10507 — Lego Duplo 10507 Mój pierwszy pociąg
+## 10507 — LEGO Duplo 10507 - Mój pierwszy pociąg
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 725.97 zł · EAN: 05702014973336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10507 |
+| Nazwa angielska | My First Train Set |
+| Nazwa polska | LEGO Duplo 10507 - Mój pierwszy pociąg |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702014973336 |
 
 LEGO Duplo 10507 - Mój pierwszy pociąg
 
@@ -2075,11 +3151,27 @@ LEGO® 10507 Duplo - Mój pierwszy pociąg
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10507-1: https://a.allegroimg.com/original/118c24/a4302acd45ad9d159f444c41194b
+
 ---
 
-## 10508 — Lego Duplo 10508 Pociąg Zestaw Deluxe
+## 10508 — Pociąg Zestaw Deluxe
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702015153584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10508 |
+| Nazwa angielska | Deluxe Train Set |
+| Nazwa polska | Pociąg Zestaw Deluxe |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015153584 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2098,11 +3190,27 @@ LEGO® 10507 Duplo - Mój pierwszy pociąg
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10508-1: https://a.allegroimg.com/original/054c06/a13173ac458b8b7595ddcbac81eb
+
 ---
 
-## 10510 — Lego Duplo 10510 Duplo Unikat 2013rok
+## 10510 — Duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702014973442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10510 |
+| Nazwa angielska | Ripslinger's Air Race |
+| Nazwa polska | Duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 12 cm |
+| EAN | 5702014973442 |
 
 Klocki LEGO 10510 Ripslinger i wyścig powietrzny
 
@@ -2124,11 +3232,27 @@ Gdy El Chupacabra i Ripslinger zmierzą się w śmiałym wyścigu powietrznym, t
 
 Zestaw klocków LEGO 10510 Ripslinger i wyścig powietrzny został zaprezentowany w 2013 roku i składa się z 40 klocków LEGO®. Klocki przeznaczone są dla dzieci i młodzieży powyżej 2 roku życia. Kod EAN zestawu klocków LEGO® 10510 to: **5702014973442**.
 
+**Galeria:**
+
+- 10510-1: https://a.allegroimg.com/original/114fb5/fbfb673b4bdea21828307e8592fd
+
 ---
 
-## 10513 — Lego Duplo 10513 Jake i Piraci z Nibylandii Disney Kryjówka w Nibylandii
+## 10513 — Kryjówka w Nibylandii 
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702014973404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10513 |
+| Nazwa angielska | Never Land Hideout |
+| Nazwa polska | Kryjówka w Nibylandii  |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 32 cm × gł. 14 cm |
+| EAN | 5702014973404 |
 
 LEGO DUPLO Disney 10513 Jake i Piraci z Nibylandii - Kryjówka w Nibylandii
 
@@ -2148,11 +3272,27 @@ Buduj i baw się jak piraci w kryjówce piratów z Nibylandii z Izą i Fajtkiem!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10513-1: https://a.allegroimg.com/original/113c72/9c50e4fc4c809019e9af6801cc98
+
 ---
 
-## 10514 — Lego Duplo 10514 Jake i Piraci z Nibylandii, Statek piracki Jake
+## 10514 — LEGO Duplo 10514 - Jake i Piraci z Nibylandii, Statek piracki Jake
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 675.97 zł · EAN: 05702014973411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10514 |
+| Nazwa angielska | Jake's Pirate Ship Bucky |
+| Nazwa polska | LEGO Duplo 10514 - Jake i Piraci z Nibylandii, Statek piracki Jake |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973411 |
 
 LEGO Duplo 10514 - Jake i Piraci z Nibylandii, Statek piracki Jake
 
@@ -2185,11 +3325,27 @@ LEGO® 10514 Duplo - Jake i Piraci z Nibylandii, Statek piracki Jake
 
 **W powiększeniu: Z przodu pod numerem podretuszowany ślad po metce. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry.**
 
+**Galeria:**
+
+- 10514-1: https://a.allegroimg.com/original/11dace/1b5c21ef4d5ea30aa7437b3971ec
+
 ---
 
-## 10518 — Zestaw Lego Duplo 10475 Maszyny Budowlnae 3w1 Koparka Dla Dziecka
+## 10518 — Mój pierwszy plac budowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702014972759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10518 |
+| Nazwa angielska | My First Construction Site |
+| Nazwa polska | Mój pierwszy plac budowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702014972759 |
 
 ⭐LEGO DUPLO 10475 MASZYNY BUDOWLNAE 3w1
 
@@ -2265,11 +3421,27 @@ LEGO® 10514 Duplo - Jake i Piraci z Nibylandii, Statek piracki Jake
 
 **Wszystkie znajdujące się w aukcji znaki towarowe i nazwy firm, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 10518-1: https://a.allegroimg.com/original/1116cd/9e59188f484f89b8d591bdad74b2
+
 ---
 
-## 10520 — Lego 10520 Duplo Ładowarka, znak drogowy, robotnik Unikat z 2013 r.
+## 10520 — 7844
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 327.00 zł · EAN: 05702014999435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10520 |
+| Nazwa angielska | Big Front Loader |
+| Nazwa polska | 7844 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014999435 |
 
 **Lego Duplo – seria klocków dla najmłodszych**
  
@@ -2279,11 +3451,27 @@ W zestawie 8 elementów i   minifigurka, rok produkcji 2010 .
  
 Stan dobry.
 
+**Galeria:**
+
+- 10520-1: https://a.allegroimg.com/original/05522d/c90731874466ade8e6a664404a9c
+
 ---
 
-## 10524 — Lego Duplo 10524 Traktor
+## 10524 — LEGO 10524 - Traktor
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 479.97 zł · EAN: 05702015125093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10524 |
+| Nazwa angielska | Farm Tractor |
+| Nazwa polska | LEGO 10524 - Traktor |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 13 cm × gł. 5 cm |
+| EAN | 5702015125093 |
 
 Klocki LEGO Duplo 10524 - Traktor
 
@@ -2342,11 +3530,27 @@ LEGO® 10524 Duplo - Traktor
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10524-1: https://a.allegroimg.com/original/11d9fa/5043fcde4bdd99fcd3c7745a0100
+
 ---
 
-## 10525 — Lego 10525 Duplo Duża farma gospodarstwo traktor inwentarz stodoła Unikat
+## 10525 — Duża farma
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 999.50 zł · EAN: 05702015125109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10525 |
+| Nazwa angielska | Big Farm |
+| Nazwa polska | Duża farma |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 8 cm × gł. 16 cm |
+| EAN | 5702015125109 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2385,11 +3589,27 @@ Ten przedstawiający dużą farmę zestaw zawiera modele budowane z klocków i w
 - Stajnia ma ok. 21 cm wysokości, 22 cm szerokości i 16 cm głębokości.
 - Traktor z platformą ma ok. 9 cm wysokości, 15 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 10525-1: https://a.allegroimg.com/original/11f7c2/4b6633f84b498b92fc76790a4c29
+
 ---
 
-## 10526 — klocki Lego 10526 Duplo Jake i Piraci, Wizyta Piotrusia krokodyl wyspa
+## 10526 — 10526
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702015125048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10526 |
+| Nazwa angielska | Peter Pan's Visit |
+| Nazwa polska | 10526 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 33 cm × gł. 9 cm |
+| EAN | 5702015125048 |
 
 Zestaw LEGO® 10526 Odwiedziny Piotrusia Pana
 
@@ -2435,11 +3655,27 @@ Przenieś się do świata piratów i niesamowitych odkryć z Jake’em i Piotrus
 
 🛒 **Wyrusz na poszukiwanie skarbu z Piotrusiem Panem i Jake’em!**
 
+**Galeria:**
+
+- 10526-1: https://a.allegroimg.com/original/11acbb/695c7f304de187479b2d3b7c5fb7
+
 ---
 
-## 10532 — Lego 4963 Duplo Radiowóz Policja sygnały świetlne dźwiękowe Unikat
+## 10532 — Policja
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 299.50 zł · EAN: 05702015125147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10532 |
+| Nazwa angielska | My First Police Set |
+| Nazwa polska | Policja |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125147 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2453,11 +3689,27 @@ Legoville - Miasto
 
 Unikat z roku 2006 - fabrycznie zaplombowany
 
+**Galeria:**
+
+- 10532-1: https://a.allegroimg.com/original/11f902/4df929944d3cbf8abdf7b30f57b7
+
 ---
 
-## 10543 — Klocki Lego Duplo Ratunek Supermana L-10543
+## 10543 — hj
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702015125178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10543 |
+| Nazwa angielska | Superman Rescue |
+| Nazwa polska | hj |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015125178 |
 
 LEGO DUPLO 10543 RATUNEK SUPERMANA
 
@@ -2469,11 +3721,27 @@ Nadleć z odsieczą i uratuj wszystkich jako Superman! Zatrzymaj samochód, któ
 
 Dzieci uwielbiają wymyślać przygody z Supermanem. Rozwijaj ich podstawowe umiejętności konstrukcyjne dzięki łatwemu do zbudowania budynkowi i kolorowym klockom Lego Duplo. Zestaw zawiera figurkę Supermana Lego Duplo.
 
+**Galeria:**
+
+- 10543-1: https://a.allegroimg.com/original/05c185/3d2b130548cebe9832b30ce25bb1
+
 ---
 
-## 10544 — Lego Duplo 10544 Batman Wyzwanie Jokera
+## 10544 — Batman - Wyzwanie Jokera
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015125260 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10544 |
+| Nazwa angielska | The Joker Challenge |
+| Nazwa polska | Batman - Wyzwanie Jokera |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 5 cm |
+| EAN | 5702015125260 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2504,11 +3772,27 @@ Wymiary modeli:
 - centrum radarowe Jokera ma ok. 18 cm wysokości, 19 cm szerokości i 3 cm głębokości;
 - radar ma ok. 15 cm wysokości, 6 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 10544-1: https://a.allegroimg.com/original/11cca6/0b90e7f24affb76dddeccf956159
+
 ---
 
-## 10545 — Lego Duplo 10545 Kryjówka Batmana Nowe
+## 10545 — Batman
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 527.00 zł · EAN: 05702015125277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10545 |
+| Nazwa angielska | Batcave Adventure |
+| Nazwa polska | Batman |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 16 cm |
+| EAN | 5702015125277 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2532,11 +3816,27 @@ Wkrocz do Jaskini Batmana i przygotuj się na fascynujące przygody! Zaparkuj Ba
 - Batwing ma ok. 5 cm wysokości, 25 cm długości i 16 cm szerokości 
 - Jaskinia Batmana ma ok. 28 cm wysokości, 19 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 10545-1: https://a.allegroimg.com/original/1177ac/a77b61f04ad9b99a88761ae3fd03
+
 ---
 
-## 10546 — Lego Duplo 10546 Mój pierwszy sklep
+## 10546 — LEGO Duplo 10546 - Mój pierwszy sklep
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 359.97 zł · EAN: 05702015125154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10546 |
+| Nazwa angielska | My First Shop |
+| Nazwa polska | LEGO Duplo 10546 - Mój pierwszy sklep |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm |
+| EAN | 5702015125154 |
 
 LEGO Duplo 10546 - Mój pierwszy sklep
 
@@ -2597,11 +3897,27 @@ LEGO® 10546 Duplo - Mój pierwszy sklep
 
 **W powiększeniu: Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 10546-1: https://a.allegroimg.com/original/11e795/64c75d1f4eff815935c7e9d634c1
+
 ---
 
-## 10550 — Lego Duplo 10550 Pojazd cyrkowy
+## 10550 — LEGO 10550 - Pojazd cyrkowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 225.97 zł · EAN: 05702014973312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10550 |
+| Nazwa angielska | Circus Transport |
+| Nazwa polska | LEGO 10550 - Pojazd cyrkowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm |
+| EAN | 5702014973312 |
 
 Klocki LEGO Duplo 10550 - Pojazd cyrkowy
 
@@ -2650,11 +3966,27 @@ LEGO® 10550 Duplo - Pojazd cyrkowy
 
 **Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 10550-1: https://a.allegroimg.com/original/116870/11230ffc42dba913e401c242276c
+
 ---
 
-## 10553 — Lego Duplo 10553 Kreatywny Domek dla maluszka unikat 2013 rok!
+## 10553 — Kreatywny Domek dla maluszka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702014973176 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10553 |
+| Nazwa angielska | Toddler Build and Play Cubes |
+| Nazwa polska | Kreatywny Domek dla maluszka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973176 |
 
 LEGO DUPLO 10553 KREATYWNY DOMEK DLA MALUSZKA
  
@@ -2674,11 +4006,27 @@ wiek: 1,5 - 3 lata
 
 RZECZYWISTE ZDJĘCIA PRODUKTU!
 
+**Galeria:**
+
+- 10553-1: https://a.allegroimg.com/original/0553c6/931fb1ed46d69a30eba9f3814172
+
 ---
 
-## 10554 — Lego Duplo 10554 Kreatywny pojazd do ciągnięcia Unikat 2013 Rok
+## 10554 — Kreatywny pojazd do ciągnięcia dla maluszka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 255.00 zł · EAN: 05702014973183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10554 |
+| Nazwa angielska | Toddler Build and Pull Along |
+| Nazwa polska | Kreatywny pojazd do ciągnięcia dla maluszka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973183 |
 
 **Lego Duplo Kreatywny pojazd 10554**. Duże klocki LEGO DUPLO stanowią idealne wprowadzenie do kreatywnego budowania dla małych dzieci. Zestaw zawiera 15 klocków i innych elementów w jasnych kolorach, w tym pojazd do ciągnięcia. Wszystkich dużych klocków można używać łącznie ze standardowymi klockami i elementami DUPLO.
 
@@ -2702,11 +4050,27 @@ Nr katalogowy: 10554
 
 Ilość klocków w zestawie: 15
 
+**Galeria:**
+
+- 10554-1: https://a.allegroimg.com/original/114b0e/a50c166f493aa360a9368f727843
+
 ---
 
-## 10558 — Lego Duplo Pociąg z cyferkami nauka liczenia 10954
+## 10558 — Lego DUPLO 10558 pociąg z cyferkami, lokomotywa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 79.97 zł · EAN: 05702014973244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10558 |
+| Nazwa angielska | Number Train |
+| Nazwa polska | Lego DUPLO 10558 pociąg z cyferkami, lokomotywa |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973244 |
 
 LEGO Duplo 10954 Pociąg z cyferkami - nauka liczenia
 
@@ -2720,11 +4084,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 
 #6597
 
+**Galeria:**
+
+- 10558-1: https://a.allegroimg.com/original/110be8/a7759d41431b9f83e80dab96d20d
+
 ---
 
-## 10561 — Lego Duplo 10561 Zestaw początkowy dla maluszka klocki 2013 rok!
+## 10561 — klocki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 265.00 zł · EAN: 05702014973374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10561 |
+| Nazwa angielska | Toddler Starter Building Set |
+| Nazwa polska | klocki |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973374 |
 
 Klocki LEGO Duplo 10561 - Zestaw początkowy dla maluszka
 
@@ -2734,11 +4114,27 @@ Zestaw unikatowy z 2013 roku. Praktycznie nie dostępny jako nowy.
 
 RZECZYWISTE ZDJĘCIA PRODUKTU!
 
+**Galeria:**
+
+- 10561-1: https://a.allegroimg.com/original/054e61/912fb7774b24be8e34f2f696640b
+
 ---
 
-## 10566 — Lego Duplo 10566 Kreatywny Piknik Hamburger Mleko Kanapka Winogrona
+## 10566 — Kreatywny Piknik
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702015115490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10566 |
+| Nazwa angielska | Creative Picnic |
+| Nazwa polska | Kreatywny Piknik |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 5702015115490 |
 
 LEGO DUPLO 10566 Kreatywny Piknik
 
@@ -2760,11 +4156,27 @@ Dzięki kreatywnemu piknikowi LEGO® DUPLO® Twoje dziecko może stworzyć nie
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10566-1: https://a.allegroimg.com/original/1134b1/de01b4314e2bb5bf7ec694fd04e6
+
 ---
 
-## 10567 — Lego Duplo 10567 Lego Duplo Łódka Dla Maluszka 2014 Rok!
+## 10567 — LEGO DUPLO ŁÓDKA DLA MALUSZKA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702015115520 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10567 |
+| Nazwa angielska | Toddler Build and Boat Fun |
+| Nazwa polska | LEGO DUPLO ŁÓDKA DLA MALUSZKA |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115520 |
 
 **Kąpiel to świetna zabawa, jeśli Twoje dziecko może budować łódki LEGO® DUPLO®. Są tu zwierzęta, takie jak czerwony królik i miś, oraz dodatkowe klocki, które pozwolą na jeszcze lepszą zabawę. W zestawie jest też okno, łukowy portal i klocki z wzorami, z których można zbudować drzewo lub schronienia dla zwierząt. Są to duże klocki LEGO® DUPLO® w jaskrawych kolorach, stanowiące idealne wprowadzenie do kreatywnego budowania dla małych dzieci.**
 
@@ -2778,11 +4190,27 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 REALNE ZDJĘCIA PRODUKTU:
 
+**Galeria:**
+
+- 10567-1: https://a.allegroimg.com/original/11d1ff/809982844aebafce778298784376
+
 ---
 
-## 10568 — Lego Duplo 10568 Lego Duplo 10568 turniej rycerski
+## 10568 — Lego DUPLO 10568 turniej rycerski
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015120739 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10568 |
+| Nazwa angielska | Knight Tournament |
+| Nazwa polska | Lego DUPLO 10568 turniej rycerski |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120739 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2801,11 +4229,27 @@ REALNE ZDJĘCIA PRODUKTU:
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10568-1: https://a.allegroimg.com/original/11b1d1/ea3133ce4d188bab910d78a54e67
+
 ---
 
-## 10569 — Lego Duplo 10569 Wielki skarb
+## 10569 — 10569
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702015120746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10569 |
+| Nazwa angielska | Treasure Attack |
+| Nazwa polska | 10569 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120746 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2826,11 +4270,27 @@ REALNE ZDJĘCIA PRODUKTU:
 
 Zestaw „Wielki skarb” pozwala dzieciom na cofnięcie się w czasy, gdy po drogach wędrowali rycerze. Jeden z nich jedzie wozem zaprzężonym w konia, a na wozie znajduje się skrzynia, w której spoczywa skarb. Celem dwóch pozostałych rycerzy jest ostrzelanie go z katapulty (za pociski służą jabłka), a następnie ucieczka ze skarbem do wieży. Dzięki dużej liczbie klocków można także modyfikować teren zabawy i umieszczać katapultę w różnych miejscach. Wieża może stanowić samodzielny obiekt licznych zabaw – ma aż 17 cm wysokości. Wszystkie elementy wykonane są z trwałego metalu, a ich rogi zaokrąglone w celu bezpieczeństwa. Zestaw sprawdza się doskonale jako samodzielna zabawka, można także łączyć go z innymi klockami z serii.
 
+**Galeria:**
+
+- 10569-1: https://a.allegroimg.com/original/00f20d/10cf9b3b45d29da736e46ed8dafa
+
 ---
 
-## 10570 — Lego Duplo 10570 Lego Duplo 10570 zestaw upominkowy
+## 10570 — Lego DUPLO 10570 zestaw upominkowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702015115537 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10570 |
+| Nazwa angielska | All-in-One-Gift-Set |
+| Nazwa polska | Lego DUPLO 10570 zestaw upominkowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm × gł. 4 cm |
+| EAN | 5702015115537 |
 
 Zestaw zawiera figurkę kota i psa, element przedstawiający okno i wybór innych klocków LEGO® DUPLO®.
  
@@ -2863,11 +4323,27 @@ Kot ma ok. 5 cm wysokości.
 - Opakowanie: pudełko kartonowe 
 - Waga opakowania (g) 550 (0,55kg)
 
+**Galeria:**
+
+- 10570-1: https://a.allegroimg.com/original/1126b0/5196326747cc8471ba1bea53a270
+
 ---
 
-## 10572 — Klocki Lego Duplo Pojemnik Box Pudełko z Klockami dla Dzieci 18m+
+## 10572 — Zestaw kreatywny Duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 139.90 zł · EAN: 05702015115551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10572 |
+| Nazwa angielska | All-in-One-Box-of-Fun |
+| Nazwa polska | Zestaw kreatywny Duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115551 |
 
 LEGO Duplo BOX Pudełko z klockami
 
@@ -2895,11 +4371,27 @@ Zestawy DUPLO zapewniają młodym budowniczym narzędzia do swobodnej zabawy i w
 - Zestawy początkowe LEGO DUPLO spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku!
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO DUPLO, by mieć pewność, że każdy zestaw konstrukcyjny DUPLO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10572-1: https://a.allegroimg.com/original/119319/62f5c76f4f348f245bda26e9ba53
+
 ---
 
-## 10576 — Lego Duplo 10576 Opiekunka w Zoo
+## 10576 — LEGO 10576 - Opiekunka w Zoo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.97 zł · EAN: 05702015120890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10576 |
+| Nazwa angielska | Zoo Care |
+| Nazwa polska | LEGO 10576 - Opiekunka w Zoo |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702015120890 |
 
 LEGO Duplo 10576 - Opiekunka w Zoo
 
@@ -2950,11 +4442,27 @@ LEGO® 10576 Duplo - Opiekunka w Zoo
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10576-1: https://a.allegroimg.com/original/114e40/115259e040d5b8531416fc38449a
+
 ---
 
-## 10577 — Lego Duplo 10577 Klocki Lego Duplo Zamek Królewski 10577
+## 10577 — Klocki LEGO DUPLO Zamek Królewski 10577
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702015120937 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10577 |
+| Nazwa angielska | Big Royal Castle |
+| Nazwa polska | Klocki LEGO DUPLO Zamek Królewski 10577 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 135 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120937 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2973,11 +4481,27 @@ LEGO® 10576 Duplo - Opiekunka w Zoo
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10577-1: https://a.allegroimg.com/original/006e61/c39469e542aaac6bb69ac8baf4e2
+
 ---
 
-## 10580 — Lego Duplo 10914 Pudełko z klockami Deluxe Torba Lego
+## 10580 — 10580
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702015128803 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10580 |
+| Nazwa angielska | Deluxe Box of Fun |
+| Nazwa polska | 10580 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015128803 |
 
 W naszej ofercie znajdziecie Państwo wyłącznie oryginalne produkty marki LEGO®.
 
@@ -3013,11 +4537,27 @@ WIEK: 18 miesięcy +
 - **Zabawki konstrukcyjne LEGO® DUPLO® spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku!**
 - **W Grupie LEGO upuszczamy, podgrzewamy, gryziemy i testujemy klocki i elementy LEGO® DUPLO® na niezliczone sposoby, by mieć pewność, że każdy zestaw konstrukcyjny DUPLO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.**
 
+**Galeria:**
+
+- 10580-1: https://a.allegroimg.com/original/114614/10462c7740f3a64e3995367563f2
+
 ---
 
-## 10584 — Lego Duplo 10584 Leśny park
+## 10584 — LEGO Duplo 10584 - Leśny park
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 897.97 zł · EAN: 05702015355209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10584 |
+| Nazwa angielska | Forest: Park |
+| Nazwa polska | LEGO Duplo 10584 - Leśny park |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 22 cm × gł. 6 cm |
+| EAN | 5702015355209 |
 
 LEGO Duplo 10584 - Leśny park
 
@@ -3078,11 +4618,27 @@ LEGO® 10584 Duplo - Leśny park
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10584-1: https://a.allegroimg.com/original/11c9fa/242f7cc64a81aa9d42b549539901
+
 ---
 
-## 10590 — Lego Duplo 10590 Lotnisko
+## 10590 — Lotnisko
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702015355377 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10590 |
+| Nazwa angielska | Airport |
+| Nazwa polska | Lotnisko |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355377 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3101,11 +4657,27 @@ LEGO® 10584 Duplo - Leśny park
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10590-1: https://a.allegroimg.com/original/11a536/9169b7594d11ab5c0bb9afb98e69
+
 ---
 
-## 10592 — Lego Duplo Wóz Strażacki Z Wężem I Strażakiem 10473 Zabawka Dla Dzieci
+## 10592 — Lego DUPLO 10592 wóz strażacki, straż pożarna
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 169.60 zł · EAN: 05702015355162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10592 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Lego DUPLO 10592 wóz strażacki, straż pożarna |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355162 |
 
 Zapewnij małym dzieciom od 2 lat mnóstwo zabawy w strażaka dzięki zabawce LEGO® DUPLO® Miasto **Wóz strażacki z wężem i strażakiem** (10473). Ta zabawka strażacka ma mnóstwo funkcji i elementów, takich jak elastyczny wąż, drzewo i figurka wiewiórki LEGO DUPLO.
 
@@ -3127,11 +4699,27 @@ Model wozu strażackiego LEGO DUPLO jest pełen zabawnych funkcji, które inspir
 
 **Wszystkie znaki towarowe i nazwy firm, które znalazły się w aukcji, zostały użyte jedynie w celu informacyjnym i są wyłączną własnością tychże firm.**
 
+**Galeria:**
+
+- 10592-1: https://a.allegroimg.com/original/11a444/f0a4310748f2892c8b2f29cf0ac7
+
 ---
 
-## 10595 — Lego Duplo 10595 Królewski zamek
+## 10595 — LEGO Duplo 10595 - Królewski zamek
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 999.97 zł · EAN: 05702015355032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10595 |
+| Nazwa angielska | Sofia's Royal Castle |
+| Nazwa polska | LEGO Duplo 10595 - Królewski zamek |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 28 cm × gł. 12 cm |
+| EAN | 5702015355032 |
 
 LEGO Duplo 10595 - Królewski zamek
 
@@ -3196,11 +4784,27 @@ LEGO® 10595 Duplo - Królewski zamek
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10595-1: https://a.allegroimg.com/original/11c706/7bb59b334d1d988d8da86b0ffedf
+
 ---
 
-## 10596 — Lego 10596 Duplo Kolekcja Księżniczek Disneya
+## 10596 — LEGO DUPLO 10596 KSIĘŻNICZKI DISNEYA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015355421 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10596 |
+| Nazwa angielska | Disney Princess Collection |
+| Nazwa polska | LEGO DUPLO 10596 KSIĘŻNICZKI DISNEYA |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702015355421 |
 
 LEGO 10596 Duplo - Kolekcja Księżniczek Disneya
 
@@ -3226,11 +4830,27 @@ Wszystkie modele możne łatwo złożyć. Składają się one z kolorowych klock
 - Wymiary podwodnej krainy Ariel: 19 cm wysokości, 13 cm szerokości i 11 cm głębokości
 - Wymiary wioski Królewny Śnieżki: 13 cm wysokości, 14 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 10596-1: https://a.allegroimg.com/original/11d399/49bb2fcb48bd9302bb26b2431e1b
+
 ---
 
-## 10597 — Lego Duplo 10597 Parada urodzinowa myszki Miki i Minnie. Nowy, dostępny.
+## 10597 — Parada urodzinowa myszki Miki i Minnie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702015355438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10597 |
+| Nazwa angielska | Birthday Parade |
+| Nazwa polska | Parada urodzinowa myszki Miki i Minnie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 6 cm |
+| EAN | 5702015355438 |
 
 Nowy, nieotwierany, oryginalny zestaw Lego Duplo 10597 Urodzinowa parada myszki Miki i Minnie.
 
@@ -3238,11 +4858,27 @@ Nowy, nieotwierany, oryginalny zestaw Lego Duplo 10597 Urodzinowa parada myszki 
 
 Wszyscy na pokład urodzinowego pociągu Mickey Mouse Clubhouse! Miki i Minnie organizują paradę na Twoją cześć! Zapakuj do pociągu wszystko, czego potrzebujesz do wyprawienia idealnej zabawy urodzinowej budowane z klocków ciasto, balony i klocki reprezentujące upominki. Ile kończysz dziś lat? Dzięki klockom z cyframi od 1 do 5 Miki i Minnie mogą wyprawiać Ci urodziny co roku. Duże klocki LEGO and reg; DUPLO and reg; w jasnych kolorach zostały opracowane specjalnie dla początkujących budowniczych i na pewno pozwolą stworzyć wiele okazji do odgrywania urodzinowych scenek i rozwijania u dzieci umiejętności budowania. W zestawie 2 figurki LEGO DUPLO: Myszka Miki i Myszka Minnie.W zestawie 2 figurki LEGO and reg; DUPLO and reg;: Myszka Miki i Myszka MinnieZawiera pociąg i budowane z klocków ciasto urodzinoweDodatki: balony, świeczka oraz 3 klocki reprezentujące upominkiKlocki z cyframi od 1 do 5 pomogą dziecku poznać jego wiek i ułatwią naukę liczbFigurki i dodatki służą pobudzeniu wyobraźni dziecka i zachęcają do zabawy w odgrywanie scenekTen prosty model pomoże dziecku rozwinąć umiejętność budowania pierwszych konstrukcjiWypraw zabawę wraz z postaciami Disney'a Myszką Miki i Minnie!Zbuduj ciasto i zaśpiewaj Sto latZapakuj urodzinowe akcesoria do pociągu i ruszaj na paradę!Produkty LEGO and reg; DUPLO and reg; są opracowane w taki sposób, by były ciekawe i bezpieczne dla małych budowniczychWymiary pociągu: 18 cm wysokości, 34 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 10597-1: https://a.allegroimg.com/original/1106ad/1c4fd3df4cb5ae3f031c2d715dd9
+
 ---
 
-## 10603 — Lego 10603 Duplo Mój pierwszy autobus
+## 10603 — DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702015355094 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10603 |
+| Nazwa angielska | My First Bus |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702015355094 |
 
 LEGO DUPLO
  
@@ -3273,11 +4909,27 @@ Baw się i ucz dzięki zestawowi Mój pierwszy autobus LEGO® DUPLO®! Połącz
  
 26 cm * 19 cm * 9 cm *
 
+**Galeria:**
+
+- 10603-1: https://a.allegroimg.com/original/4590ab/4132abb4448b9eed3b88143c5164
+
 ---
 
-## 10604 — Lego 10604 Duplo Jake i Piraci z Nibylandii Wyspa skarbów Klocki Nowe
+## 10604 — Jake i Piraci z Nibylandii - Wyspa skarbów
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 299.15 zł · EAN: 05702015355087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10604 |
+| Nazwa angielska | Treasure Island |
+| Nazwa polska | Jake i Piraci z Nibylandii - Wyspa skarbów |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702015355087 |
 
 LEGO 10604 Duplo - Jake i Piraci z Nibylandii - Wyspa skarbów
 
@@ -3309,11 +4961,27 @@ Dowolnie przebudowuj wyspę i twórz niezliczone przygody dzięki temu zestawowi
 - Produkty LEGO® DUPLO® są opracowane w taki sposób, aby były ciekawe i poręczne dla młodszych budowniczych
 - Wymiary wyspy: 14 cm wysokości, 20 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 10604-1: https://2.allegroimg.com/original/00abea/35be80c5445c99450f85732770c2
+
 ---
 
-## 10615 — Lego Duplo 10615 Mój pierwszy traktor
+## 10615 — LEGO Duplo 10615 - Mój pierwszy traktor
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 495.97 zł · EAN: 05702015355100 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10615 |
+| Nazwa angielska | My First Tractor |
+| Nazwa polska | LEGO Duplo 10615 - Mój pierwszy traktor |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702015355100 |
 
 Klocki LEGO Duplo 10615 - Mój pierwszy traktor
 
@@ -3365,11 +5033,27 @@ LEGO® 10615 Duplo - Mój pierwszy traktor
 
 **W powiększeniu: Z przodu, nad numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Ogólny stan zestawu bardzo dobry.**
 
+**Galeria:**
+
+- 10615-1: https://a.allegroimg.com/original/11cf92/195c0e3d48a7b979dd77d53dfac6
+
 ---
 
-## 10617 — Lego Duplo 10617 Moja pierwsza farma
+## 10617 — LEGO 10617 - Moja pierwsza farma
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 515.97 zł · EAN: 05702015355124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10617 |
+| Nazwa angielska | My First Farm |
+| Nazwa polska | LEGO 10617 - Moja pierwsza farma |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 19 cm × gł. 9 cm |
+| EAN | 5702015355124 |
 
 Klocki LEGO Duplo 10617 - Moja pierwsza farma
 
@@ -3429,11 +5113,27 @@ LEGO® 10617 Duplo - Moja pierwsza farma
 
 **W powiększeniu: Pudełko zawiera ślady długoletniego przechowywania i podretuszowany ślad po metce, który można ew. zakleić czystą, białą metką **(którą możemy dołączyć)**, lub nic nie robić, tylko cieszyć się wspaniałym zestawem, gdyż jest to bez znaczenia dla samych klocków. Poszczególne egzemplarze minimalnie się różnią.**
 
+**Galeria:**
+
+- 10617-1: https://a.allegroimg.com/original/1164ff/8861d590498bade900bdff7a0a2d
+
 ---
 
-## 10622 — Lego Duplo Klocki kreatywne Pudełko Deluxe Brick Box 10913
+## 10622 — Lego Duplo Deluxe Brick Box
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015355148 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10622 |
+| Nazwa angielska | Large Creative Box |
+| Nazwa polska | Lego Duplo Deluxe Brick Box |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355148 |
 
 LEGO DUPLO Klocki kreatywne 10913 Pudełko Deluxe Brick Box 65 elementów
 
@@ -3449,11 +5149,27 @@ Zestaw zawiera 65 elementów.
 
 #9999
 
+**Galeria:**
+
+- 10622-1: https://a.allegroimg.com/original/119319/62f5c76f4f348f245bda26e9ba53
+
 ---
 
-## 10803 — Klocki Lego Duplo Arktyka 10803 Unikat
+## 10803 — Klocki LEGO DUPLO Arktyka 10803
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 639.99 zł · EAN: 05702015597906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10803 |
+| Nazwa angielska | Arctic |
+| Nazwa polska | Klocki LEGO DUPLO Arktyka 10803 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 19 cm × gł. 11 cm |
+| EAN | 5702015597906 |
 
 Klocki LEGO 10803 Arktyka
 
@@ -3469,11 +5185,27 @@ Mali miłośnicy zwierzaków będą zachwyceni tym łatwym w budowie zestawem ar
 - Wymiary igloo na podstawce: 12 cm wysokości, 19 cm szerokości i 11 cm głębokości.
 - Można łączyć z zestawami 10801 Zwierzątka, 10802 Sawanna, 10804 Dżungla lub 10805 Dookoła świata, by zabawa ze zwierzakami była jeszcze lepsza.
 
+**Galeria:**
+
+- 10803-1: https://a.allegroimg.com/original/1159f9/6f710a3e4d5084d0f2f4d4f24de4
+
 ---
 
-## 10804 — Lego Duplo 10804 Dżungla Tropikalny las słoń tygrys małpa krokodyl
+## 10804 — Dżungla
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 559.50 zł · EAN: 05702015597913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10804 |
+| Nazwa angielska | Jungle |
+| Nazwa polska | Dżungla |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015597913 |
 
 Nowy zestaw klocków
 
@@ -3503,11 +5235,27 @@ Ten zestaw stwarza małym poszukiwaczom przygód liczne okazje do zabawy i nauki
 - Zabawa zestawami LEGO® DUPLO® z serii Dookoła świata to wspaniała okazja do rozmawiania z dzieckiem o dzikich zwierzętach, ich siedliskach, ochronie przyrody, różnych częściach świata oraz zamieszkujących je ludziach i zwierzętach — mnóstwo wiedzy czeka na przekazanie!
 - Produkty LEGO® DUPLO® zostały zaprojektowane tak, by były bezpieczne, interesujące i wygodne dla małych rączek.
 
+**Galeria:**
+
+- 10804-1: https://a.allegroimg.com/original/114cb9/994487ea4b508613bb6aacf9dc6a
+
 ---
 
-## 10808 — Lego 10808 Duplo Mały samolot Idealny na 2-3 latka Klocki Nowe
+## 10808 — Mały samolot
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 259.31 zł · EAN: 05702015599030 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10808 |
+| Nazwa angielska | Little Plane |
+| Nazwa polska | Mały samolot |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702015599030 |
 
 LEGO 10808 Duplo - Mały samolot
 
@@ -3541,11 +5289,27 @@ Klocki LEGO® DUPLO® zostały pomyślane tak, by były bezpieczne w małych rą
 
 - Wieża meteo ma ok. 14 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10808-1: https://2.allegroimg.com/original/00d871/70f168d146d3b261008888ad0c12
+
 ---
 
-## 10811 — Lego Duplo 10930 Buldożer
+## 10811 — Backhoe Loader
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1000.00 zł · EAN: 05702015599382 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10811 |
+| Nazwa angielska | Backhoe Loader |
+| Nazwa polska | Backhoe Loader |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 7 cm |
+| EAN | 5702015599382 |
 
 LEGO DUPLO 10811 Koparko - Ładowarka
  
@@ -3566,11 +5330,27 @@ Możliwość kopania z użyciem tej prostej do złożenia maszyny dostarczy mał
 - Wymiary koparko-ładowarki: ok. 13 cm wysokości, 29 cm długości i 7 cm szerokości. 
 - Połączenie z zestawami 10812 Ciężarówka i koparka gąsienicowa oraz 10813 wielka budowa pozwoli na jeszcze lepszą zabawę w kopanie i budowanie.
 
+**Galeria:**
+
+- 10811-1: https://a.allegroimg.com/original/001a17/54ae910c48b2a1729e8c2beb8381
+
 ---
 
-## 10812 — Klocki Lego Duplo Plac Budowy 10812
+## 10812 — - Ciężarówka i koparka gąsienicowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702015599399 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10812 |
+| Nazwa angielska | Truck & Tracked Excavator |
+| Nazwa polska | - Ciężarówka i koparka gąsienicowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm |
+| EAN | 5702015599399 |
 
 LEGO Ciężarówka i koparka gąsienicowa 10812
  
@@ -3590,11 +5370,27 @@ Teraz możesz cały dzień kopać i zgarniać, a potem wywieźć wszystko cięż
 - Wymiary koparki gąsienicowej: ok. 12 cm wysokości, 25 cm długości i 7 cm szerokości. 
 - Połączenie z zestawami 10811 koparko-ładowarka oraz 10813 Wielka budowa pozwoli na jeszcze lepszą zabawę w kopanie i budowanie.
 
+**Galeria:**
+
+- 10812-1: https://a.allegroimg.com/original/257110/c4681bd94d97ba9cfd29059a1453
+
 ---
 
-## 10813 — Lego Duplo 10813 Wielka Budowa Nowe
+## 10813 — LEGO DUPLO 10813 WIELKA BUDOWA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 699.99 zł · EAN: 05702015599405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10813 |
+| Nazwa angielska | Big Construction Site |
+| Nazwa polska | LEGO DUPLO 10813 WIELKA BUDOWA |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015599405 |
 
 **LEGO 10813 WIELKA BUDOWA**
 
@@ -3614,11 +5410,27 @@ Mali budowniczowie od razu pokochają 3 modele maszyn do złożenia. Zanim wysyp
 - Małym dzieciom przypadnie do gustu możliwość spędzenia całego dnia na wymyślaniu historyjek, które rozgrywają się na placu budowy.
 - 3 pojazdy można składać i przerabiać na wiele różnych sposobów.
 
+**Galeria:**
+
+- 10813-1: https://a.allegroimg.com/original/11da9b/14b20048477698cf394af9890785
+
 ---
 
-## 10819 — Lego 10819 Duplo Mój pierwszy ogród
+## 10819 — DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015595315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10819 |
+| Nazwa angielska | My First Garden |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595315 |
 
 Lego 10819 DUPLO Mój pierwszy ogród
 
@@ -3640,11 +5452,27 @@ Pozostałe parametry
 
 Wymiary opakowania: 19 x 35,8 x 11,5 cm.
 
+**Galeria:**
+
+- 10819-1: https://a.allegroimg.com/original/1109a4/9ac3af694971b439efc571685e83
+
 ---
 
-## 10824 — Lego Duplo Przygody Milesa z przyszłości 10824
+## 10824 — Przygody Milesa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 83.30 zł · EAN: 05702015599429 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10824 |
+| Nazwa angielska | Miles' Space Adventures |
+| Nazwa polska | Przygody Milesa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015599429 |
 
 Lego Duplo Przygody Milesa z przyszłości
 
@@ -3652,11 +5480,27 @@ Oto ON. Miles z przyszłości! Bohater kosmicznej przygody przybywa do Was na ko
 
 Klocki LEGO DUPLO 10824 Przygody Milesa z przyszłości to doskonała zabawa dla dzieci w wieku 2-5 lat.
 
+**Galeria:**
+
+- 10824-1: https://a.allegroimg.com/original/1182f0/729bd1fd4b358df6918788aecdf1
+
 ---
 
-## 10825 — Lego 10825 Duplo Maszyna krocząca Milesa
+## 10825 — Miles' Exo-Flex Suit
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702015599436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10825 |
+| Nazwa angielska | Miles' Exo-Flex Suit |
+| Nazwa polska | Miles' Exo-Flex Suit |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015599436 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3675,11 +5519,27 @@ Klocki LEGO DUPLO 10824 Przygody Milesa z przyszłości to doskonała zabawa dla
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 10825-1: https://a.allegroimg.com/original/11a1b2/6132657f444497b30c1149d000f6
+
 ---
 
-## 10826 — Lego 10826 Statek kosmiczny Milesa 10826 Nowy
+## 10826 — Statek kosmiczny Milesa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702015599443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10826 |
+| Nazwa angielska | Miles' Stellosphere Hangar |
+| Nazwa polska | Statek kosmiczny Milesa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 19 cm × gł. 22 cm |
+| EAN | 5702015599443 |
 
 Lego Duplo Statek Kosmiczny Milesa 10826
  
@@ -3717,11 +5577,27 @@ Informacje Dodatkowe
  
 Możliwość dowiezienia klocków w sobotę i niedziele po uzgodnieniu terminu.
 
+**Galeria:**
+
+- 10826-1: https://a.allegroimg.com/original/002379/01d53aa04ff0bcf3f497b7a91e11
+
 ---
 
-## 10829 — Lego Duplo 10829 Warsztat Myszki Mickey Samochód Disney
+## 10829 — Warsztat Myszki Mickey
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702015593977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10829 |
+| Nazwa angielska | Mickey's Workshop |
+| Nazwa polska | Warsztat Myszki Mickey |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015593977 |
 
 LEGO DUPLO 10829 Warsztat Myszki Mickey
 
@@ -3744,11 +5620,27 @@ Możliwość odgrywania różnych scenek w warsztacie Myszki Miki będzie ogromn
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10829-1: https://a.allegroimg.com/original/116756/1a134f194f2b8789b53830e7c4ca
+
 ---
 
-## 10831 — Lego Duplo 10831 Moja pierwsza gąsieniczka
+## 10831 — DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 118.00 zł · EAN: 05702015597555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10831 |
+| Nazwa angielska | My First Caterpillar |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 3 cm |
+| EAN | 5702015597555 |
 
 LEGO DUPLO 10831 Moja pierwsza gąsieniczka
 
@@ -3767,11 +5659,27 @@ Z zestawem LEGO DUPLO Moja pierwsza gąsieniczka maluchy pokochają budowanie 
 
 Zainteresowanym możemy wysłać zdjęcie:)
 
+**Galeria:**
+
+- 10831-1: https://a.allegroimg.com/original/11869f/bc76934f4b118b682c6a612a5b22
+
 ---
 
-## 10832 — Lego Duplo 10832 Przyjęcie urodzinowe Piknik Plac zabaw Babcia Dzieci
+## 10832 — LEGO DUPLO Przyjęcie urodzinowe 10832
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702015865586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10832 |
+| Nazwa angielska | Birthday Picnic |
+| Nazwa polska | LEGO DUPLO Przyjęcie urodzinowe 10832 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 12 cm × gł. 3 cm |
+| EAN | 5702015865586 |
 
 Nowy zestaw klocków
 
@@ -3803,11 +5711,27 @@ Zestaw Moje miasto LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie i 
 - Wymiary drzewa: ok. 10 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 - W serii Moje miasto znajdziesz szereg produktów tworzących kolekcję. Z ich pomocą dziecko nauczy się codziennych czynności, które będzie wykonywać w doskonale znanej scenerii LEGO® DUPLO®.
 
+**Galeria:**
+
+- 10832-1: https://a.allegroimg.com/original/0572f2/56e0a1cb4c10b65cfa5d62831105
+
 ---
 
-## 10833 — Lego 10833 Duplo Przedszkole
+## 10833 — Klocki LEGO Duplo Town Przedszkole 10833
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702015865593 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10833 |
+| Nazwa angielska | Preschool |
+| Nazwa polska | Klocki LEGO Duplo Town Przedszkole 10833 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865593 |
 
 **KLOCKI LEGO DUPLO 10833 PRZEDSZKOLE**
  
@@ -3838,11 +5762,27 @@ Dają mnóstwo radości z zabawy, rozwijają wyobraźnię, uczą logicznego myś
 - Pozwól dziecku pokazać, co najbardziej lubi w swoim dniu przedszkolaka — w tym zestawie jest tak wiele do odkrycia! 
 - Produkty LEGO DUPLO zostały zaprojektowane tak, by były bezpieczne i odpowiednie dla małych rączek.
 
+**Galeria:**
+
+- 10833-1: https://a.allegroimg.com/original/45e5ea/94370cd54e618d79fd591fc7dba6
+
 ---
 
-## 10834 — Lego Duplo 10834 Pizzeria Restauracja Lodziarnia Skuter Dostawca Pizza
+## 10834 — Klocki LEGO DUPLO Town Pizzeria 10834
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 575.00 zł · EAN: 05702015865609 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10834 |
+| Nazwa angielska | Pizzeria |
+| Nazwa polska | Klocki LEGO DUPLO Town Pizzeria 10834 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 19 cm × gł. 9 cm |
+| EAN | 5702015865609 |
 
 Nowy zestaw klocków
 
@@ -3873,11 +5813,27 @@ Zestaw Moje miasto LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie i 
 - Wymiary roweru do rozwożenia: ok. 5 cm wysokości, 9 cm długości i 4 cm szerokości.
 - W serii Moje miasto znajdziesz szereg produktów tworzących kolekcję. Z ich pomocą dziecko nauczy się codziennych czynności, które będzie wykonywać w doskonale znanej scenerii LEGO® DUPLO®.
 
+**Galeria:**
+
+- 10834-1: https://a.allegroimg.com/original/057ea7/a4ef98a1428f8b5bd34402f7facf
+
 ---
 
-## 10835 — Lego Duplo 10835 Klocki Lego Duplo Town Dom rodzinny 10835
+## 10835 — Klocki LEGO DUPLO Town Dom rodzinny 10835
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015865623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10835 |
+| Nazwa angielska | Family House |
+| Nazwa polska | Klocki LEGO DUPLO Town Dom rodzinny 10835 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 38 cm × gł. 9 cm |
+| EAN | 5702015865623 |
 
 Zestaw Moje miasteczko LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie i odgrywać w nim realistyczne scenki z udziałem nowoczesnych figurek DUPLO. Łatwy do zbudowania dom stwarza nieograniczone możliwości zabawy. Dzięki niemu maluchy mogą ćwiczyć rozmaite czynności — od porannego wstawania, przez przygotowanie i jedzenie posiłków, po mycie samochodu. Dla Ciebie będzie to okazja do obserwowania, jak dzięki trzem figurkom DUPLO i scenariuszom z codziennego życia dzieci rozwijają umiejętności wcielania się w różne postacie.
 
@@ -3897,11 +5853,27 @@ Zestaw Moje miasto LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie 
 - Wymiary domu: ok. 28 cm wysokości, 38 cm szerokości i 9 cm głębokości. 
 - Wymiary samochodu: ok. 4 cm wysokości, 9 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 10835-1: https://a.allegroimg.com/original/05d17d/0e8461a64baa937c1ff8498c2f46
+
 ---
 
-## 10836 — Lego Duplo 10836 Dom Miasto
+## 10836 — Dom Miasto
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015865616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10836 |
+| Nazwa angielska | Neighborhood (Town Square) |
+| Nazwa polska | Dom Miasto |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865616 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -3934,11 +5906,27 @@ Zestaw Moje miasto LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie i 
 - Produkty LEGO® DUPLO® zostały zaprojektowane tak, by były bezpieczne i odpowiednie dla małych rączek.
 - Zestaw odpowiedni dla dzieci w wieku 2-5 lat.
 
+**Galeria:**
+
+- 10836-1: https://a.allegroimg.com/original/00020c/d97048124c3bbd2f845b719b2a5b
+
 ---
 
-## 10838 — Lego 10838 Duplo Zwierzątka domowe Nowe klocki idealne dla dziecka
+## 10838 — Zwierzątka domowe
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 420.21 zł · EAN: 05702015869959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10838 |
+| Nazwa angielska | Family Pets |
+| Nazwa polska | Zwierzątka domowe |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869959 |
 
 LEGO® 10838 Duplo - Zwierzątka domowe
 
@@ -3964,11 +5952,27 @@ Domowe zwierzątka chcą się bawić. Czy wybierzesz się z nimi do parku? Ta ko
 
 - W serii Moje miasto znajdziesz szereg produktów tworzących kolekcję. Z ich pomocą dziecko nauczy się codziennych czynności, które będzie wykonywać w doskonale znanej scenerii LEGO® DUPLO®.
 
+**Galeria:**
+
+- 10838-1: https://a.allegroimg.com/original/058f76/887f6f88427fb21d2fa161db5fc7
+
 ---
 
-## 10839 — Lego Duplo 10839 Strzelnica prawdziwie strzelająca armatka Wyjątkowa Zabawa
+## 10839 — STRZELNICA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 295.21 zł · EAN: 05702015869966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10839 |
+| Nazwa angielska | Shooting Gallery |
+| Nazwa polska | STRZELNICA |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869966 |
 
 LEGO Duplo 10839 Strzelnica
 
@@ -3980,11 +5984,27 @@ Adresowany dla wieku: 2-5
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 10839-1: https://a.allegroimg.com/original/057063/9f063a1c4a1290a04c320a89ae0c
+
 ---
 
-## 10840 — Lego Duplo 10840 Duże wesołe miasteczko Nowe
+## 10840 — Duże wesołe miasteczko
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 945.00 zł · EAN: 05702015869973 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10840 |
+| Nazwa angielska | Big Fair |
+| Nazwa polska | Duże wesołe miasteczko |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702015869973 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -4010,11 +6030,27 @@ Odgrywaj scenki z weekendowej rodzinnej wycieczki do wesołego miasteczka za pom
 - Lodziarnia ma ok. 24 cm wysokości, 12 cm szerokości i 7 cm głębokości.
 - Pociąg ma ok. 9 cm wysokości, 24 cm długości i 6 cm szerokośc
 
+**Galeria:**
+
+- 10840-1: https://a.allegroimg.com/original/11db45/1badb113450bbe3d803cbc74bcd9
+
 ---
 
-## 10841 — Klocki Lego Duplo Wesołe miasteczko 10841
+## 10841 — lego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702015869980 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10841 |
+| Nazwa angielska | Fun Family Fair |
+| Nazwa polska | lego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869980 |
 
 Wesołe miasteczko zaprasza do zabawy
 
@@ -4024,11 +6060,27 @@ Twórz własne scenariusze zabawy
 
 Z zestawem Wesołe miasteczko 10841 dzieci mogą ćwiczyć codzienne sytuacje — na przykład kupić bilet lub napój z automatu — a to wszystko, w kolorowej i fascynującej scenerii LEGO DUPLO. Dodatkowe akcesoria: aparat fotograficzny i kubek, a także klocki z rysunkami miarki wzrostu, automatu z gumą do żucia, lodów i szyldu wejściowego do lunaparku ułatwią wymyślanie nowych historyjek.
 
+**Galeria:**
+
+- 10841-1: https://a.allegroimg.com/original/1161db/6aafe3ac48e5b4dfa0287d69151c
+
 ---
 
-## 10842 — Lego Duplo 10842 Jaskinia Batmana Disney Duży Zest
+## 10842 — DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 999.99 zł · EAN: 05702015866583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10842 |
+| Nazwa angielska | Batcave Challenge |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 9 cm × gł. 19 cm |
+| EAN | 5702015866583 |
 
 LEGO DUPLO DISNEY
 
@@ -4062,11 +6114,27 @@ WYMIARY OPAKOWANIA :
 
 - 48 cm * 28 cm * 9 cm *
 
+**Galeria:**
+
+- 10842-1: https://a.allegroimg.com/original/118634/5475e41c4d559d60ce3866d90de1
+
 ---
 
-## 10843 — Lego Duplo Disney 10843 Wyścigówka Mikiego Samochód Myszka Mickey
+## 10843 — Wyścigówka Mikiego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702015866590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10843 |
+| Nazwa angielska | Mickey Racer |
+| Nazwa polska | Wyścigówka Mikiego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 5 cm |
+| EAN | 5702015866590 |
 
 LEGO DUPLO Disney 10843 Wyścigówka Mikiego
 
@@ -4086,11 +6154,27 @@ Mali wielbiciele Myszki Miki będą zachwyceni, mogąc zbudować i przerobić wy
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10843-1: https://a.allegroimg.com/original/11df14/647c5ae14710a0f23b38829c4b7e
+
 ---
 
-## 10844 — Lego Duplo 10844 Butik Sklep Myszka Minnie Kaczuszka Daisy duży zestaw
+## 10844 — Butik Minnie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 595.00 zł · EAN: 05702015866606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10844 |
+| Nazwa angielska | Minnie Mouse Bow-tique |
+| Nazwa polska | Butik Minnie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 14 cm × gł. 14 cm |
+| EAN | 5702015866606 |
 
 Nowy zestaw klocków
 
@@ -4128,11 +6212,27 @@ Małe wielbicielki Myszki Minnie z filmów Disneya będą po prostu zachwycone: 
 
 - Wymiary butiku Minnie: ok. 28 cm wysokości, 14 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 10844-1: https://a.allegroimg.com/original/009a72/626f2bed4199a8baee7b19b1d7c9
+
 ---
 
-## 10846 — Lego Duplo 10846 Kawiarnia Flo
+## 10846 — Kawiarnia Flo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702015866620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10846 |
+| Nazwa angielska | Flo's Café |
+| Nazwa polska | Kawiarnia Flo |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866620 |
 
 Zestaw LEGO® 10846 Kawiarnia Flo
  
@@ -4146,11 +6246,27 @@ Ten zestaw to prawdziwa gratka dla fanów filmu Auta 3 z wytwórni Disney•Pixa
 - Zawiera klocki z rysunkami liczników dystrybutora paliwa oraz szyld kafejki V8. 
 - W zestawie są też akcesoria: oliwiarka i pompa paliwa.
 
+**Galeria:**
+
+- 10846-1: https://a.allegroimg.com/original/003ef9/7c77d478408a87e5f9063c2aa443
+
 ---
 
-## 10847 — Nowe Lego 10847 Duplo Pociąg z cyferkami Idealny święta dziecko
+## 10847 — Pociąg z cyferkami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 195.31 zł · EAN: 05702015866637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10847 |
+| Nazwa angielska | My First Number Train |
+| Nazwa polska | Pociąg z cyferkami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702015866637 |
 
 LEGO 10847 Duplo - Pociąg z cyferkami
 
@@ -4188,11 +6304,27 @@ Zestaw zawiera dwie figurki dzieci DUPLO oraz figurkę kota, co pozwala wymyśla
 
 - Wymiary pociągu z wagonami: ok. 10 cm wysokości, 37 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 10847-1: https://a.allegroimg.com/original/05c412/f7156dd6440db8317bb77fea598b
+
 ---
 
-## 10848 — Lego 10848 Duplo Moje pierwsze klocki
+## 10848 — duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702015866644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10848 |
+| Nazwa angielska | My First Bricks |
+| Nazwa polska | duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866644 |
 
 LEGO 10848 Duplo - Moje pierwsze klocki
 
@@ -4207,11 +6339,27 @@ Ten wspaniały zestaw z wyborem podstawowych klocków LEGO DUPLO rozpali wyobra�
 - Produkty LEGO DUPLO są projektowane tak, by były interesujące i wygodne dla małych rączek.
 - Zestaw odpowiedni dla dzieci w wieku 1,5-3 lat.
 
+**Galeria:**
+
+- 10848-1: https://a.allegroimg.com/original/0549d2/f625698c47d4b18406dff802d394
+
 ---
 
-## 10849 — Lego Duplo 10849 Mój pierwszy samolot Unikat Nowy Unikat
+## 10849 — 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702015866651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10849 |
+| Nazwa angielska | My First Plane |
+| Nazwa polska | 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702015866651 |
 
 LEGO DUPLO 10849 Mój pierwszy samolot
 
@@ -4227,11 +6375,27 @@ Zestaw Mój pierwszy samolot LEGO® DUPLO® dostarczy małym pilotom inspiracj
 - Zestaw odpowiedni dla dzieci w wieku 1,5-3 lat. 
 - Wymiary samolotu: ok. 7 cm wysokości, 10 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 10849-1: https://3.allegroimg.com/original/0046f2/3bdffde44d02bedceb16447f52c3
+
 ---
 
-## 10850 — Lego 10850 Duplo Moje pierwsze ciastka Od 1,5 roku Pierwsze Klocki
+## 10850 — 10850
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 67.95 zł · EAN: 05702015866668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10850 |
+| Nazwa angielska | My First Cakes |
+| Nazwa polska | 10850 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866668 |
 
 Klocki LEGO 10850 Duplo - Moje pierwsze ciastka
 
@@ -4258,11 +6422,27 @@ Przekonaj się, ile pysznych ciast na przyjęcie urodzinowe lub po prostu na prz
 - Babeczka ma ok. 6 cm wysokości, 6 cm długości i 6 cm grubości. 
 - Tort urodzinowy ma ok. 10 cm wysokości, 6 cm długości i 3 cm grubości.
 
+**Galeria:**
+
+- 10850-1: https://a.allegroimg.com/original/11245a/5a9329ca4ed8a4cb0ff132c336ce
+
 ---
 
-## 10851 — Lego Duplo 10851 Mój pierwszy autobus Idealny pierwsze klocki Lego
+## 10851 — Mój pierwszy autobus
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 125.15 zł · EAN: 05702015866675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10851 |
+| Nazwa angielska | My First Bus |
+| Nazwa polska | Mój pierwszy autobus |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866675 |
 
 LEGO Duplo 10851 Mój pierwszy autobus
 
@@ -4274,11 +6454,27 @@ Adresowany dla wieku: 1,5-3
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 10851-1: https://a.allegroimg.com/original/05bf67/19229e0f43069276245ef2602379
+
 ---
 
-## 10852 — Lego Duplo 10852 Moja pierwsza papuga
+## 10852 — LEGO 10852 - Moja pierwsza papuga
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 89.97 zł · EAN: 05702015866682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10852 |
+| Nazwa angielska | My First Bird |
+| Nazwa polska | LEGO 10852 - Moja pierwsza papuga |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm |
+| EAN | 5702015866682 |
 
 Klocki LEGO Duplo 10852 - Moja pierwsza papuga
 
@@ -4328,11 +6524,27 @@ LEGO® 10852 Duplo - Moja pierwsza papuga
 
 **W powiększeniu: podretuszowany ślad po metce do ewentualnego zaklejenia czystą, białą metką (dołączamy w razie potrzeby).**
 
+**Galeria:**
+
+- 10852-1: https://a.allegroimg.com/original/1103c5/1b2060144a7f85cfb2fed7546cf4
+
 ---
 
-## 10853 — Lego 10853 Duplo Zestaw kreatywnego budowniczego Dżungla Zwierzęta
+## 10853 — 10853
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702015866699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10853 |
+| Nazwa angielska | Creative Builder Box |
+| Nazwa polska | 10853 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866699 |
 
 Nowy zestaw klocków
 
@@ -4362,11 +6574,27 @@ Mali odkrywcy będą po prostu zachwyceni tą wielką stertą kolorowych klockó
 - Produkty LEGO DUPLO są projektowane tak, by były interesujące i wygodne dla małych rączek.
 - Zestaw odpowiedni dla dzieci w wieku 1,5-5 lat.
 
+**Galeria:**
+
+- 10853-1: https://a.allegroimg.com/original/05dd3a/85a8b3a44c15ab95114bd08aec02
+
 ---
 
-## 10855 — Lego Duplo 10855 Magiczny zamek Kopciuszka Nowe
+## 10855 — LEGO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015866712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10855 |
+| Nazwa angielska | Cinderella's Magical Castle |
+| Nazwa polska | LEGO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 19 cm × gł. 19 cm |
+| EAN | 5702015866712 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4390,11 +6618,27 @@ Dla fanów Kopciuszka z filmu Disneya możliwość odtworzenia sceny balu na pi�
 - Zestaw odpowiedni dla dzieci w wieku 2-5 lat. 
 - Wymiary magicznego zamku Kopciuszka (bez schodów): ok. 27 cm wysokości, 19 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 10855-1: https://a.allegroimg.com/original/117671/7d93b5914b459c55e4132f0e40c6
+
 ---
 
-## 10856 — Lego Duplo Cars 10856 Auta Szopa Złomek Zygzak McQueen Disney Pixar Klucz
+## 10856 — Szopa Złomka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 333.99 zł · EAN: 05702015866729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10856 |
+| Nazwa angielska | Mater's Shed |
+| Nazwa polska | Szopa Złomka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702015866729 |
 
 LEGO DUPLO Cars 10856 Szopa Złomka
 
@@ -4415,11 +6659,27 @@ Mali fani filmu Auta 3 wytwórni Disney Pixar z radością spotkają się ze Zł
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10856-1: https://a.allegroimg.com/original/0366d7/3946a2ee491baf49820e5be6406a
+
 ---
 
-## 10858 — Lego 10858 Duplo Moje pierwsze zwierzątka
+## 10858 — Klocki LEGO DUPLO Moje pierwsze zwierzatka 10858
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702016110838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10858 |
+| Nazwa angielska | My First Puzzle Pets |
+| Nazwa polska | Klocki LEGO DUPLO Moje pierwsze zwierzatka 10858 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016110838 |
 
 LEGO 10858 Duplo - Moje pierwsze zwierzątka
 
@@ -4437,11 +6697,27 @@ Pomóż swojemu dziecku zbudować te kolorowe, trójwymiarowe układanki z duży
 - Niebieski kot ma ok. 11 cm wysokości, 6 cm szerokości i 3 cm głębokości.
 - Czerwony pies ma ok. 10 cm wysokości, 9 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10858-1: https://a.allegroimg.com/original/11841b/75d4d2e84623b5c6067502f0cb3a
+
 ---
 
-## 10859 — Lego Duplo 10859 Moja pierwsza biedronka Pierwsze Klocki Nowe
+## 10859 — Biedronka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 280.21 zł · EAN: 05702016110845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10859 |
+| Nazwa angielska | My First Ladybug |
+| Nazwa polska | Biedronka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016110845 |
 
 LEGO Duplo 10859 - Moja pierwsza biedronka
 
@@ -4473,11 +6749,27 @@ Klocki LEGO® DUPLO® są projektowane tak, by były interesujące i bezpieczne 
 
 - Biedronka ma ok. 7 cm wysokości, 12 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 10859-1: https://a.allegroimg.com/original/05db9a/6ae63bbe42ca93af67cf3d117370
+
 ---
 
-## 10860 — Lego Duplo 10860 Moja Pierwsza Wyścigówka Samochód
+## 10860 — Moja Pierwsza Wyścigówka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 109.99 zł · EAN: 05702016110852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10860 |
+| Nazwa angielska | My First Race Car |
+| Nazwa polska | Moja Pierwsza Wyścigówka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016110852 |
 
 LEGO DUPLO 10860 Moja Pierwsza Wyścigówka
 
@@ -4497,11 +6789,27 @@ Mali kierowcy rajdowi z ochotą będą budować i przebudowywać zestaw Moja pie
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10860-1: https://a.allegroimg.com/original/1193a7/48da17674a6bb20e1f691fd95b77
+
 ---
 
-## 10861 — Lego 10861 Duplo Moje pierwsze emocje
+## 10861 — Klocki LEGO DUPLO Moje pierwsze emocje 10861
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016110869 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10861 |
+| Nazwa angielska | My First Emotions |
+| Nazwa polska | Klocki LEGO DUPLO Moje pierwsze emocje 10861 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016110869 |
 
 LEGO 10861 Duplo - Moje pierwsze emocje
 
@@ -4525,11 +6833,27 @@ Czekają Was całe godziny zabawy dużymi klockami, a przy okazji Twój maluch r
 - Zielona postać ma ok. 13 cm wysokości, 8 cm szerokości i 4 cm głębokości.
 - Biała postać ma ok. 10 cm wysokości, 6 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 10861-1: https://a.allegroimg.com/original/458725/7c3def744845876ed48c92491689
+
 ---
 
-## 10862 — Lego Duplo 10862 Moje pierwsze przyjęcie 10862
+## 10862 — Klocki LEGO DUPLO Moje pierwsze przyjęcie 10862
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016111378 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10862 |
+| Nazwa angielska | My First Celebration |
+| Nazwa polska | Klocki LEGO DUPLO Moje pierwsze przyjęcie 10862 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111378 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4550,11 +6874,27 @@ Czekają Was całe godziny zabawy dużymi klockami, a przy okazji Twój maluch r
 
 **Lego Duplo Moje pierwsze przyjęcie 10862**. Urządź przyjęcie LEGO® DUPLO® i zaserwuj na nim ciastka z klocków! Buduj kolorowe ciastka na każdą okazję z zestawem LEGO® DUPLO® Moje pierwsze przyjęcie. Z przedszkolakiem można bawić się w budowanie trzech ciastek lub dużego tortu. Maluchom spodoba się stawianie świeczek i innych dekoracji na wierzchu oraz porcjowanie dużego tortu na cztery części i dzielenie się nim z rodziną lub przyjaciółmi. W ten sposób nauczą się, jak świętować różne okazje. Klocki DUPLO dla maluchów są projektowane tak, by były interesujące i bezpieczne dla małych rączek.
 
+**Galeria:**
+
+- 10862-1: https://a.allegroimg.com/original/119b1c/51f8b00d4974a2ef9123c089f21c
+
 ---
 
-## 10863 — Lego Duplo Pociąg Ze Zwierzątkami 10863
+## 10863 — Pociąg dla najmłodszych
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016111385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10863 |
+| Nazwa angielska | My First Animal Brick Box |
+| Nazwa polska | Pociąg dla najmłodszych |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm |
+| EAN | 5702016111385 |
 
 Zbuduj pociąg z zabawnymi i kolorowymi modelami zwierzątek.
  
@@ -4580,11 +6920,27 @@ Kolorowe i duże klocki LEGO DUPLO są projektowane tak, by były interesujące 
 - Ptak ma ok. 11 cm wysokości, 9 cm szerokości i 11 cm głębokości. 
 - Połącz model z zestawem 10859 Moja pierwsza biedronka, by zbudować jeszcze dłuższy pociąg.
 
+**Galeria:**
+
+- 10863-1: https://a.allegroimg.com/original/05d61f/e6c46af24007852a9146e6528e46
+
 ---
 
-## 10867 — Lego Duplo 10867 Klocki Lego Duplo Na targu 10867
+## 10867 — Klocki LEGO DUPLO Na targu 10867
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 205.00 zł · EAN: 05702016111958 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10867 |
+| Nazwa angielska | Farmers' Market |
+| Nazwa polska | Klocki LEGO DUPLO Na targu 10867 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016111958 |
 
 LEGO DUPLO, Na targu, 10867
  
@@ -4604,11 +6960,27 @@ Cechy zestawu:
 - Stragan na targu ma ok. 11 cm wysokości, 12 cm szerokości i 6 cm głębokości. 
 - Samochód ma ok. 9 cm wysokości, 14 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 10867-1: https://a.allegroimg.com/original/11bc77/ea6461964dd29a7babcc405460a0
+
 ---
 
-## 10868 — Lego Duplo 10868 Klocki Lego Duplo Stajnia z kucykami 10868
+## 10868 — Klocki LEGO DUPLO Stajnia z kucykami 10868
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 269.90 zł · EAN: 05702016117196 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10868 |
+| Nazwa angielska | Farm Pony Stable |
+| Nazwa polska | Klocki LEGO DUPLO Stajnia z kucykami 10868 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117196 |
 
 Klocki LEGO DUPLO Town Stajnia z kucykami 10868 od 2 lat
  
@@ -4619,11 +6991,27 @@ Klocki LEGO DUPLO Town Stajnia z kucykami 10868 od 2 lat
  
 Zestaw Moje miasto LEGO DUPLO pozwala zbudować doskonale znane otoczenie i odgrywać w nim realistyczne scenki z udziałem nowoczesnych figurek DUPLO. Przedszkolakom spodoba się zabawa w opiekowanie się kucykami w stajni: czesanie ich szczotką i karmienie ich sianem z paśnika. Maluchy z łatwością mogą zbudować i przebudowywać stajnię, co pozwala na niezliczone godziny zabawy w odgrywanie ról dla młodych miłośników koni. Zestaw zawiera dwie figurki DUPLO oraz dwie figurki kucyków.
 
+**Galeria:**
+
+- 10868-1: https://a.allegroimg.com/original/05968d/6e6ebc784e2a8e2c145b13c0b20c
+
 ---
 
-## 10870 — Lego Duplo 10870 Zwierzątka hodowlane krówka świnka kura kot farma
+## 10870 — Klocki LEGO DUPLO Zwierzątka hodowlane 10870
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 179.50 zł · EAN: 05702016111965 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10870 |
+| Nazwa angielska | Farm Animals |
+| Nazwa polska | Klocki LEGO DUPLO Zwierzątka hodowlane 10870 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702016111965 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -4650,11 +7038,27 @@ Młodzi miłośnicy zwierząt z przyjemnością zaopiekują się kilkoma zwierz�
 - Połącz model z zestawem 10869 Przygody na farmie i 10868 Stajnia z kucykami, by zabawa ze zwierzakami była jeszcze lepsza.
 - Kurnik ma ok. 9 cm wysokości, 6 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10870-1: https://a.allegroimg.com/original/116e53/aa852bb848e4911cc68e95ebd11b
+
 ---
 
-## 10871 — Lego Duplo 10871 Lotnisko Samolot Pilot Wieża Kontroli Lotów
+## 10871 — Lotnisko 
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016117219 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10871 |
+| Nazwa angielska | Airport |
+| Nazwa polska | Lotnisko  |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 14 cm × gł. 11 cm |
+| EAN | 5702016117219 |
 
 LEGO DUPLO 10871 Lotnisko
 
@@ -4677,11 +7081,27 @@ Zestaw Moje miasto LEGO® DUPLO® pozwala zbudować doskonale znane otoczenie i 
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10871-1: https://a.allegroimg.com/original/1174e0/0d425a9043a5b00465eb3688fc5c
+
 ---
 
-## 10872 — Lego Duplo 10872 Tory kolejowe i wiadukt zestaw 2018 Rok!
+## 10872 — Tory kolejowe i wiadukt
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016117240 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10872 |
+| Nazwa angielska | Train Bridge and Tracks |
+| Nazwa polska | Tory kolejowe i wiadukt |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117240 |
 
 LEGO Duplo 10872 Tory kolejowe i wiadukt
 
@@ -4701,11 +7121,27 @@ Dodaj zestaw LEGO DUPLO 10872 Tory kolejowe i wiadukt do dowolnego z nowych lub 
 - Połączenie z zestawem 10882 Tory kolejowe pozwoli Ci zbudować jeszcze więcej kombinacji torów LEGO DUPLO i bawić się jeszcze lepiej. 
 - Wiadukt ma ok. 12 cm wysokości w najwyższym punkcie.
 
+**Galeria:**
+
+- 10872-1: https://a.allegroimg.com/original/05c53b/8e56bbe842eebe2d56c81e676cec
+
 ---
 
-## 10873 — Lego 10873 Duplo Przyjęcie urodzinowe Minnie Myszka Miki Disney
+## 10873 — LEGO DUPLO Przyjęcie urodzinowe Minnie 10873
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 399.50 zł · EAN: 05702016117257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10873 |
+| Nazwa angielska | Minnie's Birthday Party |
+| Nazwa polska | LEGO DUPLO Przyjęcie urodzinowe Minnie 10873 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016117257 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -4731,21 +7167,53 @@ Młode fanki Disneya z radością pomogą Myszce Minnie świętować urodziny ze
 
 Zdjęcia i opisy dotyczące produktu zostały użyte jedynie w celach informacyjnych i są wyłączną własnością firmy LEGO®
 
+**Galeria:**
+
+- 10873-1: https://a.allegroimg.com/original/1100d0/168e0f634dc5a591dc1557138ea3
+
 ---
 
-## 10874 — Lego Duplo 10874 Pociąg parowy
+## 10874 — Pociąg parowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 501.59 zł · EAN: 05702016117264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10874 |
+| Nazwa angielska | Steam Train |
+| Nazwa polska | Pociąg parowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117264 |
 
 Lego DUPLO 10874 Pociąg parowy
 
 O W zestawie: figurki LEGO(R) DUPLO(R) maszynisty i dziecka oraz figurka wiewiórki.o W zestawie znajdziesz lokomotywę do zbudowania z funkcją ręcznego startu, światłami i dźwiękami oraz wagonem pasażerskim, a także pięć klocków funkcyjnych w różnych kolorach, stację kolejową, wywrotkę z węglem, drzewo i 16 fragmentów torów.o Akcesoria: kanister paliwa, walizka, bagietka i łopata.o Każdy maluch z łatwością uruchomi pociąg parowy -- wystarczy delikatnie popchnąć ją do przodu lub do tyłu -- a potem zatrzyma, kładąc rękę mocno na silniku.o Pokaż dziecku, jak ustawić pięć kolorowych klocków funkcyjnych na torach i przesuwać je w inne miejsca. Klocki umożliwiają odegranie sygnału dźwiękowego, włączenie świateł, tankowanie, zmianę kierunku oraz zatrzymanie pociągu.o Wymyślanie podróży i przygód dla figurek LEGO(R) DUPLO(R) pomaga rozwijać wyobraźnię i pierwsze umiejętności zabawy.o Możliwości tego zestawu LEGO(R) DUPLO(R) można poszerzyć, pobierając bezpłatną aplikację z funkcją zdalnego sterowania i ciekawymi zabawami dla małych dzieci.o Pociąg i tory z zestawu pasują do istniejących pociągów LEGO(R) DUPLO(R), którymi bawi się Twoje dziecko.
 
+**Galeria:**
+
+- 10874-1: https://a.allegroimg.com/original/11944a/1719a41647a5abc54febd80b9390
+
 ---
 
-## 10875 — Lego Duplo Pociąg Towarowy 10875
+## 10875 — Pociąg towarowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 785.90 zł · EAN: 05702016117271 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10875 |
+| Nazwa angielska | Cargo Train |
+| Nazwa polska | Pociąg towarowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702016117271 |
 
 POCIĄG TOWAROWY
 
@@ -4789,11 +7257,27 @@ Zestaw LEGO® DUPLO® Pociąg towarowy jest teraz jeszcze łatwiejszy w obsłudz
 
 • Łódka ma ok. 17 cm wysokości, 19 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 10875-1: https://a.allegroimg.com/original/11b81c/40a61ebe4bd38306a30f5e81ab4e
+
 ---
 
-## 10877 — Lego Duplo 10877 Klocki Lego Duplo Herbatka u Belli 10877 wgniotki
+## 10877 — Klocki LEGO DUPLO Herbatka u Belli 10877
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016111392 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10877 |
+| Nazwa angielska | Belle's Tea Party |
+| Nazwa polska | Klocki LEGO DUPLO Herbatka u Belli 10877 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016111392 |
 
 LEGO 10877 DUPLO HERBATKA U BELLI
 
@@ -4842,11 +7326,27 @@ Zajrzyj do kuchni w zaczarowanym zamku, by pośpiewać i potańczyć z Piękną 
 - **Opakowanie:** pudełko kartonowe 
 - **Waga opakowania (g):** 270 (0,27kg)
 
+**Galeria:**
+
+- 10877-1: https://a.allegroimg.com/original/0536ee/dab0991c4e74bd0275c0910afd13
+
 ---
 
-## 10878 — Lego Duplo 10878 Wieża Roszpunki
+## 10878 — LEGO Duplo 10878 - Wieża Roszpunki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 549.97 zł · EAN: 05702016111934 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10878 |
+| Nazwa angielska | Rapunzel's Tower |
+| Nazwa polska | LEGO Duplo 10878 - Wieża Roszpunki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702016111934 |
 
 LEGO Duplo 10878 - Wieża Roszpunki
 
@@ -4906,11 +7406,27 @@ LEGO® 10878 Duplo - Wieża Roszpunki
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych w specyfikacji).**
 
+**Galeria:**
+
+- 10878-1: https://a.allegroimg.com/original/11df89/c88c6d3d4a0393ecb1356eb09b28
+
 ---
 
-## 10879 — Lego Jurrasic World Minizoo Łagodne olbrzymy 10879
+## 10879 — lego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016117226 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10879 |
+| Nazwa angielska | Gentle Giants Petting Zoo |
+| Nazwa polska | lego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 16 cm × gł. 14 cm |
+| EAN | 5702016117226 |
 
 Klocki LEGO Duplo 10879 - Jurassic World: Minizoo Łagodne olbrzymy
 
@@ -4926,11 +7442,27 @@ Zestaw LEGO® DUPLO® Jurassic World 10879 Minizoo „Łagodne olbrzymy” to pr
 - Produkty LEGO® DUPLO® są projektowane tak, by były interesujące i wygodne dla małych rączek.
 - Wymiary minizoo: ok. 14 cm wysokości, 16 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 10879-1: https://a.allegroimg.com/original/11d94a/d1c821d94ed192bc1f7ce2426861
+
 ---
 
-## 10880 — Lego Duplo 10880 Jurassic World: Wieża tyranozaura Nowe
+## 10880 — WIEŻA TYRANOZAURA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 520.00 zł · EAN: 05702016117233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10880 |
+| Nazwa angielska | T. rex Tower |
+| Nazwa polska | WIEŻA TYRANOZAURA |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm |
+| EAN | 5702016117233 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -4953,11 +7485,27 @@ Wybierz się wraz z dzieckiem do świata Jurassic World, by znów poczuć filmow
 - Samochód ma ok. 6 cm wysokości, 14 cm długości i 7 cm szerokości. 
 - Wieża obserwacyjna ma ok. 24 cm wysokości, 9 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 10880-1: https://a.allegroimg.com/original/1180e2/ac409fab4182b6c4503fd5930aa8
+
 ---
 
-## 10881 — Lego Duplo 10881 Łódka Mikiego Myszka Mickey
+## 10881 — ŁÓDKA MIKIEGO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 368.88 zł · EAN: 05702016116861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10881 |
+| Nazwa angielska | Mickey's Boat |
+| Nazwa polska | ŁÓDKA MIKIEGO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 12 cm |
+| EAN | 5702016116861 |
 
 Klocki LEGO Duplo 10881 - Łódka Mikiego
 
@@ -4976,11 +7524,27 @@ Młodzi fani Disneya z chęcią wypłyną z przystani na fascynującą paradę �
 
 Zestaw LEGO Duplo - Łódka Mikiego trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 10881. Zawiera 28 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Duplo - Mickey's Boat. Grupa wiekowa tego produktu to 2+.
 
+**Galeria:**
+
+- 10881-1: https://a.allegroimg.com/original/11ded2/d6d15b5e4a558e15962994c4a332
+
 ---
 
-## 10882 — Lego Duplo 10882 Tory kolejowe zwrotnice przejazd szlaban bocznica
+## 10882 — Tory kolejowe
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 299.50 zł · EAN: 05702016117288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10882 |
+| Nazwa angielska | Train Tracks |
+| Nazwa polska | Tory kolejowe |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117288 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -5003,11 +7567,27 @@ Zestaw LEGO® DUPLO® 10882 Tory kolejowe to nieskończone możliwości budowani
 - Produkty LEGO® DUPLO® są projektowane tak, by były interesujące i wygodne dla małych rączek.
 - Połączenie z zestawem 10872 Tory kolejowe i wiadukt pozwoli Ci zbudować jeszcze więcej kombinacji torów LEGO® DUPLO® i bawić się jeszcze lepiej.
 
+**Galeria:**
+
+- 10882-1: https://a.allegroimg.com/original/11ff26/4e498fa4440596e06ed0cb704432
+
 ---
 
-## 10883 — Lego 10883 Duplo Mój Pierwszy Holownik
+## 10883 — DUPLO Mój pierwszy holownik
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 119.45 zł · EAN: 05702016367553 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10883 |
+| Nazwa angielska | My First Tow Truck |
+| Nazwa polska | DUPLO Mój pierwszy holownik |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016367553 |
 
 LEGO 10883 DUPLO - MÓJ PIERWSZY HOLOWNIK
 
@@ -5046,11 +7626,27 @@ Twój maluch z ochotą pospieszy na ratunek zepsutemu samochodowi w zestawie LEG
 - Lotnisko ma ok. 22 cm wysokości, 14 cm szerokości i 11 cm głębokości,
 - Samolot ma ok. 9 cm wysokości, 18 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 10883-1: https://a.allegroimg.com/original/11b1ea/4b4efcb042d38c5b6ae64179bf39
+
 ---
 
-## 10884 — Lego Duplo Moje pierwsze zwierzątka na równoważni 10884
+## 10884 — Moje pierwsze zwierzątka na równoważni
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702016367560 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10884 |
+| Nazwa angielska | My First Balancing Animals |
+| Nazwa polska | Moje pierwsze zwierzątka na równoważni |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702016367560 |
 
 Klocki LEGO Duplo 10884 - Moje pierwsze zwierzątka na równoważni
 
@@ -5070,11 +7666,27 @@ Klocki nowe.
 
 Gwarantujemy odpowiednie zapakowanie klocków, aby nic nie uległo uszkodzeniu w transporcie.
 
+**Galeria:**
+
+- 10884-1: https://a.allegroimg.com/original/11b329/4087aba84ff29b61a2e3270593d1
+
 ---
 
-## 10885 — Lego Duplo 10885 Moja Pierwsza Układanka
+## 10885 — LEGO DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 362.99 zł · EAN: 05702016367577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10885 |
+| Nazwa angielska | My First Fun Puzzle |
+| Nazwa polska | LEGO DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 6 cm × gł. 3 cm |
+| EAN | 5702016367577 |
 
 LEGO DUPLO 10885 MOJA PIERWSZA UKŁADANKA
 
@@ -5094,11 +7706,27 @@ LEGO DUPLO 10885 MOJA PIERWSZA UKŁADANKA
 
 Wymiary pudełka: 35.4x19.1x9.1 cm
 
+**Galeria:**
+
+- 10885-1: https://a.allegroimg.com/original/110ae4/3259714b48ef91ab7789e14fbfce
+
 ---
 
-## 10886 — Lego Duplo 10886 Opis
+## 10886 — Duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 190.00 zł · EAN: 05702016367584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10886 |
+| Nazwa angielska | My First Car Creations |
+| Nazwa polska | Duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702016367584 |
 
 Pomóż maluszkowi zbudować różnorodne pojazdy z tego niesamowitego zestawu dla dzieci!
  
@@ -5123,11 +7751,27 @@ Opakowanie doznało  uszkodzenia mechanicznego podczas transportu lub magazynow
 - Taksówka ma ok. 6 cm wysokości, 9 cm długości i 6 cm szerokości.
 - Śmieciarka ma ok. 7 cm wysokości, 10 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 10886-1: https://a.allegroimg.com/original/052e65/8572b96747cc9676c58faa423991
+
 ---
 
-## 10889 — Lego Duplo 10889 Domek wakacyjny Mikiego Nowy zestaw
+## 10889 — Domek wakacyjny Mikiego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 555.00 zł · EAN: 05702016367515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10889 |
+| Nazwa angielska | Mickey's Vacation House |
+| Nazwa polska | Domek wakacyjny Mikiego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 19 cm × gł. 13 cm |
+| EAN | 5702016367515 |
 
 LEGO DUPLO 10889 Domek wakacyjny Mikiego
 
@@ -5149,11 +7793,27 @@ Ta edukacyjna zabawka konstrukcyjna Disneya z Myszką Miki i Myszką Minnie zawi
  
 **WIEK 2+**
 
+**Galeria:**
+
+- 10889-1: https://a.allegroimg.com/original/114271/c1006ca84438a64abdc07fdbc8ff
+
 ---
 
-## 10893 — Lego Duplo 10893 Spider-Man vs. Electro
+## 10893 — Spider-Man vs. Electro
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 282.99 zł · EAN: 05702016367621 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10893 |
+| Nazwa angielska | Spider-Man vs. Electro |
+| Nazwa polska | Spider-Man vs. Electro |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 19 cm × gł. 6 cm |
+| EAN | 5702016367621 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -5199,11 +7859,27 @@ Ta edukacyjna zabawka konstrukcyjna Disneya z Myszką Miki i Myszką Minnie zawi
 
 **• Bank z sejfem ma ok. 14 cm wysokości, 19 cm szerokości i 6 cm głębokości.**
 
+**Galeria:**
+
+- 10893-1: https://c.allegroimg.com/original/03d045/828b2e3d4d8c99e709def29a508c
+
 ---
 
-## 10895 — Lego Duplo 10895 Lego Duplo 10895 Goście Z Planety U Emmeta I Lucy
+## 10895 — LEGO DUPLO 10895 GOŚCIE Z PLANETY U EMMETA I LUCY
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 132.99 zł · EAN: 05702016367638 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10895 |
+| Nazwa angielska | Emmet and Lucy's Visitors from the DUPLO Planet |
+| Nazwa polska | LEGO DUPLO 10895 GOŚCIE Z PLANETY U EMMETA I LUCY |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 13 cm × gł. 6 cm |
+| EAN | 5702016367638, 673419301886 |
 
 LEGO DUPLO 10895 Goście z planety DUPLO U EMMETA I LUCY
  
@@ -5235,11 +7911,28 @@ Produkty LEGO® DUPLO® są projektowane tak, by były interesujące i wygodne d
  
 **Elementy 53**
 
+**Galeria:**
+
+- 10895-1: https://a.allegroimg.com/original/00ae81/072693d64c6eaa221b7bfe41ecbc
+- 10895-2: https://4.allegroimg.com/original/0082bb/b949eeb745b19d058131a3b73224
+
 ---
 
-## 10898 — Lego Duplo Moja pierwsza Myszka Miki 10898
+## 10898 — duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702016367539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10898 |
+| Nazwa angielska | My First Mickey Build |
+| Nazwa polska | duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 9 cm × gł. 5 cm |
+| EAN | 5702016367539 |
 
 Klocki LEGO Duplo 10898 - Moja pierwsza Myszka Miki
 
@@ -5259,11 +7952,27 @@ Klocki nowe.
 
 Gwarantujemy odpowiednie zapakowanie klocków, aby nic nie uległo uszkodzeniu w transporcie.
 
+**Galeria:**
+
+- 10898-1: https://a.allegroimg.com/original/118ace/c5ed88af42e09ef80e28c608a1f2
+
 ---
 
-## 10899 — Lego 10899 Duplo Zamek z Krainy lodu Elsa Anna kraina lodu frozen
+## 10899 — Frozen
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 388.88 zł · EAN: 05702016367614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10899 |
+| Nazwa angielska | Frozen Ice Castle |
+| Nazwa polska | Frozen |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702016367614 |
 
 Podziel się mroźnymi historiami z Twoim maluchem w Zamku z Krainy lodu Disneya!
  
@@ -5276,11 +7985,27 @@ Dołącz do postaci Disneya — Anny, Elsy i Olafa — w zestawie LEGO DUPLO l D
 - Ta zabawka do zbudowania dla małych dzieci została zaprojektowana tak, aby zachęcić je do odgrywania ról i opowiadania historyjek, co pomaga rozwijać umiejętności językowe, społeczne i emocjonalne. 
 - Zamek z Krainy lodu Disneya ma ok. 28 cm wysokości, 19 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 10899-1: https://a.allegroimg.com/original/058749/efab8fb44a62b6378c996fc0c18d
+
 ---
 
-## 10900 — Lego Duplo 10900 nowy zestaw Julivo
+## 10900 — Motocykl policyjny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702016367645 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10900 |
+| Nazwa angielska | Police Bike |
+| Nazwa polska | Motocykl policyjny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702016367645, 673419301893 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -5318,11 +8043,28 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 10900-1: https://a.allegroimg.com/original/05a85d/06955243436ebad1de86bb8e8cc6
+- 10900-2: https://a.allegroimg.com/original/117b96/9550aed44bb5b22ad915d2fdb9f2
+
 ---
 
-## 10901 — Lego Duplo 10901 Wóz Strażacki
+## 10901 — lego duplo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 362.99 zł · EAN: 00673419301909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10901 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | lego duplo |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702016367652, 673419301909 |
 
 LEGO DUPLO 10901 WÓZ STRAŻACKI
 
@@ -5350,11 +8092,28 @@ LEGO DUPLO 10901 WÓZ STRAŻACKI
 
 Wymiary pudełka: 22.2x26.2x9.5 cm
 
+**Galeria:**
+
+- 10901-1: https://a.allegroimg.com/original/11bdcb/6e1436654dd68a88256f5dd2bda9
+- 10901-2: https://a.allegroimg.com/original/1111ad/0a7eb9bc4d48acc49b423fd51b55
+
 ---
 
-## 10902 — Lego Duplo 10902 Posterunek Policji Samochód Radiowóz Policjant Komisariat
+## 10902 — Posterunek Policji 
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 423.99 zł · EAN: 05702016367669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10902 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek Policji  |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm × gł. 10 cm |
+| EAN | 5702016367669 |
 
 LEGO DUPLO 10902 Posterunek Policji
 
@@ -5375,11 +8134,27 @@ Zestawy Moje miasto LEGO® DUPLO® pozwalają zbudować doskonale znane otoczeni
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10902-1: https://a.allegroimg.com/original/119a63/65fc55a1479fbf135e82bd47b536
+
 ---
 
-## 10903 — Lego Duplo 10903 Remiza strażacka
+## 10903 — Remiza strażacka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 643.00 zł · EAN: 05702016367676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10903 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | Remiza strażacka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702016367676 |
 
 **LEGO Duplo 10903 Remiza strażacka**
 
@@ -5401,11 +8176,27 @@ Zestawy Moje miasto LEGO DUPLO pozwalają zbudować doskonale znane otoczenie i 
 - Remiza strażacka ma ok. 26 cm wysokości, 25 cm szerokości oraz 12 cm głębokości.
 - Wóz strażacki ma ok. 10 cm wysokości, 14 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 10903-1: https://a.allegroimg.com/original/11ee19/4919f13b4b928047c5e1eaffc10c
+
 ---
 
-## 10904 — Nowe Lego Duplo Małe zwierzątka 10904 Zoo tygrys, panda, żyrafa, słoń
+## 10904 — LEGO Duplo 10904 Małe Zwierzątka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 158.95 zł · EAN: 05702016367683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10904 |
+| Nazwa angielska | Baby Animals |
+| Nazwa polska | LEGO Duplo 10904 Małe Zwierzątka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm |
+| EAN | 5702016367683 |
 
 LEGO DUPLO:
 
@@ -5424,11 +8215,27 @@ Do serii LEGO DUPLO dołączyła rodzina małych zwierzątek: unikalny biały ty
 - Drzewo ma ok. 8 cm wysokości, 6 cm długości i 6 cm szerokości.
 Pęd bambusa ma ok. 4 cm wysokości, 3 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 10904-1: https://a.allegroimg.com/original/113734/f56f4107404291c8309f72786247
+
 ---
 
-## 10906 — Lego Duplo 10906 Tropikalna wyspa Nowe Czytaj Opis
+## 10906 — Tropikalna wyspa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016371017 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10906 |
+| Nazwa angielska | Tropical Island |
+| Nazwa polska | Tropikalna wyspa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371017 |
 
 UWAGA OPAKOWANIE Z JEDNEJ STRONY JEST WYPUKŁE A Z DRUGIEJ WKLĘŚNIĘTE PATRZ FOTO. POZA TYM ZESTAW JEST CAŁKOWICIE NOWY.
 
@@ -5442,11 +8249,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 10906-1: https://a.allegroimg.com/original/111ee3/a13f41c14c59aa8af799d91b2125
+
 ---
 
-## 10907 — Klocki Lego Duplo Zwierzęta świata 121 elementów 1+ Nowe Czytaj Opis
+## 10907 — Zwierzęta świata
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 750.00 zł · EAN: 05702016367706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10907 |
+| Nazwa angielska | World Animals |
+| Nazwa polska | Zwierzęta świata |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367706 |
 
 UWAGA OPAKOWANIE POSIADA WKLĘŚNIĘCIE PAYTRZ FOTO
 
@@ -5460,11 +8283,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 10907-1: https://a.allegroimg.com/original/11f00c/b0a2f2d246d7b450eb6727790605
+
 ---
 
-## 10908 — klocki Lego Duplo 10908 Samolot
+## 10908 — Samolot
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 81.89 zł · EAN: 05702016394757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10908 |
+| Nazwa angielska | Plane |
+| Nazwa polska | Samolot |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 15 cm |
+| EAN | 5702016394757 |
 
 LEGO Samolot 10908
 
@@ -5483,11 +8322,27 @@ Zestawy Moje miasto LEGO DUPLO pozwalają zbudować doskonale znane otoczenie i 
 - W serii Moje miasto LEGO DUPLO znajdziesz szereg produktów tworzących kolekcję. Z ich pomocą dziecko nauczy się codziennych czynności, które będzie wykonywać w doskonale znanej scenerii DUPLO.
 - Samolot ma ok. 7 cm wysokości, 14 cm długości i 15 cm szerokości.
 
+**Galeria:**
+
+- 10908-1: https://a.allegroimg.com/original/25e2ac/b570ef3a4f1cb28dff67c5d62931
+
 ---
 
-## 10909 — Nowe Lego Duplo 10909 Pudełko Z Serduszkiem
+## 10909 — Pudełko Z serduszkiem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702016617733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10909 |
+| Nazwa angielska | Heart Box |
+| Nazwa polska | Pudełko Z serduszkiem |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617733 |
 
 ZESTAW LEGO DUPLO:  10909  - PUDEŁKO Z SERDUSZKIEM
 
@@ -5504,11 +8359,27 @@ ZESTAW LEGO DUPLO:  10909  - PUDEŁKO Z SERDUSZKIEM
 
 **ILOŚĆ ELEMENTÓW: 80**
 
+**Galeria:**
+
+- 10909-1: https://a.allegroimg.com/original/1177ec/c9a8e4ef42268db674bba7c3b800
+
 ---
 
-## 10910 — Lego Duplo 10910 Przygoda w łodzi podwodnej Nowe
+## 10910 — Przygoda w łodzi podwodnej
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 285.00 zł · EAN: 05702016680522 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10910 |
+| Nazwa angielska | Submarine Adventure |
+| Nazwa polska | Przygoda w łodzi podwodnej |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 10 cm |
+| EAN | 5702016680522 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5526,11 +8397,26 @@ Wybierz się ze swoją pociechą do świata wyobraźni na pokładzie łodzi z ze
 - Łódź podwodna ma ok. 10 cm wysokości, 17 cm długości i 10 cm szerokości. 
 - Łuk z wodorostami do zbudowania ma ok. 13 cm wysokości, 15 cm szerokości i 8 cm głębokości.
 
+**Galeria:**
+
+- 10910-1: https://a.allegroimg.com/original/11f0ad/503740b74b088a3a102ad3854e02
+
 ---
 
-## 10913 — Lego Duplo Pudełko z klockami 10913
+## 10913 — LEGO Duplo Pudełko z klockami 10913
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 78.77 zł · EAN: 05702016617740 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10913 |
+| Nazwa angielska | Brick Box |
+| Nazwa polska | LEGO Duplo Pudełko z klockami 10913 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617740, 5906546215371 |
 
 LEGO Duplo Pudełko z klockami 10913 65 elementów
  
@@ -5554,11 +8440,27 @@ Zestawy DUPLO zapewniają młodym budowniczym narzędzia do swobodnej zabawy i w
 - Zestawy początkowe LEGO DUPLO spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku! 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO DUPLO, by mieć pewność, że każdy zestaw konstrukcyjny DUPLO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10913-1: https://a.allegroimg.com/original/119319/62f5c76f4f348f245bda26e9ba53
+- 10913-2: https://a.allegroimg.com/original/11f96e/915c45664fb4ae85183646978741
+
 ---
 
-## 10914 — Klocki Lego Duplo 10913 Brick Box 65 Elementów 18m+
+## 10914 — Deluxe Brick Box
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 149.99 zł · EAN: 05702016617757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10914 |
+| Nazwa angielska | Deluxe Brick Box |
+| Nazwa polska | Deluxe Brick Box |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617757 |
 
 **Klocki LEGO Duplo 10911 Brick Box 65 Elementów**
 
@@ -5574,11 +8476,27 @@ Zestawy DUPLO zapewniają młodym budowniczym narzędzia do swobodnej zabawy i w
 - **✅ Rodzice i opiekunowie mogą na każdym kroku uczestniczyć w zabawie i rozwoju swoich małych konstruktorów, razem z nimi ciesząc się z łączenia klocków i elementów oraz tworzenia pomysłowych modeli i historyjek.**
 - **✅ Bezpieczne, kolorowe i duże klocki oraz elementy sprawiają, że ta zabawka edukacyjna dla chłopców i dziewczynek od 18 miesięcy doskonale sprawdzi się jako prezent na Boże Narodzenie, urodziny lub z innej okazji.**
 
+**Galeria:**
+
+- 10914-1: https://a.allegroimg.com/original/1174fa/ff90054e44319cdaf181cf32d100
+
 ---
 
-## 10915 — Lego Duplo 10915 Ciężarówka z alfabetem
+## 10915 — Ciężarówka z alfabetem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 203.74 zł · EAN: 05702016617764 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10915 |
+| Nazwa angielska | Alphabet Truck |
+| Nazwa polska | Ciężarówka z alfabetem |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016617764 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -5616,11 +8534,27 @@ Zestaw LEGO DUPLO Ciężarówka z alfabetem pozwala połączyć kreatywne budowa
 - Zestawy LEGO DUPLO spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku! 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO DUPLO, by mieć pewność, że każdy zestaw konstrukcyjny spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10915-1: https://a.allegroimg.com/original/053852/87ee13d747ff884177e6352dec10
+
 ---
 
-## 10918 — Lego 10918 Duplo Pomoc drogowa idealny dla dziecka Nowe klocki
+## 10918 — Pomoc drogowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702016618082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10918 |
+| Nazwa angielska | Tow Truck |
+| Nazwa polska | Pomoc drogowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016618082 |
 
 LEGO 10918 Duplo - Pomoc drogowa
 
@@ -5650,11 +8584,27 @@ Zestawy LEGO DUPLO zostały zaprojektowane z myślą o potrzebach przedszkolakó
 
 - Zestawy LEGO® DUPLO® rozwijają wyobraźnię przedszkolaków poprzez budowanie, naukę i swobodną zabawę. Znajome scenerie, ciekawe postacie i łatwe do chwycenia klocki inspirują młode umysły.
 
+**Galeria:**
+
+- 10918-1: https://a.allegroimg.com/original/05197d/5762f2a24dc08e35a38d118935e4
+
 ---
 
-## 10919 — Lego Duplo 10919 Jaskinia Batmana
+## 10919 — Jaskinia Batmana
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 440.00 zł · EAN: 05702016618099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10919 |
+| Nazwa angielska | Batcave |
+| Nazwa polska | Jaskinia Batmana |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 22 cm × gł. 9 cm |
+| EAN | 5702016618099 |
 
 Twój mały bohater może wyruszyć w pościg za zbiegłym Jokerem™ i wraz z Batmanem™ oraz Robinem™ wpakować złoczyńcę tam, gdzie jego miejsce. Dla maluchów oznacza to wiele zabawy, wymyślania przygód i rozwijania superbohaterskich umiejętności!
  
@@ -5680,11 +8630,27 @@ Zestawy LEGO DUPLO z Batmanem to przeznaczone dla początkujących budowniczych 
 - Zestawy do budowania LEGO® DUPLO® spełniają najwyższe standardy branżowe. Dzięki temu dzieci mogą z łatwością chwycić, złączyć i rozdzielić klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są testowane na wszelkie możliwe sposoby, aby mieć pewność, że każdy zestaw dla małych budowniczych spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10919-1: https://a.allegroimg.com/original/05a629/f99780f64968b02c63b17e0225ef
+
 ---
 
-## 10920 — Lego 10920 Duplo Popołudniowa herbatka u Elsy i Olafa Klocki na 2 3 4 lat
+## 10920 — Popołudniowa herbatka u Elsy i Olafa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 249.15 zł · EAN: 05702016694093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10920 |
+| Nazwa angielska | Elsa & Olaf's Tea Party |
+| Nazwa polska | Popołudniowa herbatka u Elsy i Olafa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618105, 5702016694093 |
 
 LEGO 10920 Duplo - Popołudniowa herbatka u Elsy i Olafa
 
@@ -5730,11 +8696,28 @@ Zestawy początkowe i zabawki wspomagające rozwój LEGO® DUPLO® Te urocze zes
 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO® DUPLO®, by mieć pewność, że każdy zestaw DUPLO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10920-1: https://a.allegroimg.com/original/11a4b4/15ee8b504f2e8c9761ece55eb0c8
+- 10920-2: https://a.allegroimg.com/original/0520f1/8dd3cdb3424496d3a4ef7d3d7bb6
+
 ---
 
-## 10924 — Lego Duplo 10924 Zygzak McQueen na wyścigach Złomek puchar warsztat
+## 10924 — Zygzak McQueen na wyścigach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 595.00 zł · EAN: 05702016618136 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10924 |
+| Nazwa angielska | Lightning McQueen's Race Day |
+| Nazwa polska | Zygzak McQueen na wyścigach |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 10 cm |
+| EAN | 5702016618136 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -5766,11 +8749,27 @@ Odgrywanie ról z uwielbianymi postaciami Zabawki do budowania LEGO® DUPLO® Di
 - Zabawki konstrukcyjne LEGO® DUPLO® spełniają najwyższe standardy branżowe. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku!
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy i podgrzewamy klocki oraz elementy LEGO® DUPLO®, by mieć pewność, że każdy zestaw dla małych konstruktorów spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10924-1: https://a.allegroimg.com/original/11db8a/9865110e4e5da05829b256ec9ab4
+
 ---
 
-## 10925 — Nowe Lego Duplo 10925 Pokój Zabaw
+## 10925 — Lego Duplo Pokój zabaw 10925
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 138.99 zł · EAN: 05702016618143 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10925 |
+| Nazwa angielska | Playroom |
+| Nazwa polska | Lego Duplo Pokój zabaw 10925 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016618143 |
 
 LEGO DUPLO:
 
@@ -5788,11 +8787,27 @@ Zestaw LEGO® DUPLO® Pokój zabaw wypełniony jest możliwościami pomysłowej 
 - Dzięki uroczym postaciom i barwnym, łatwym do chwycenia klockom ta edukacyjna zabawka doskonale sprawdzi się jako prezent dla dwulatków i starszych dzieci. Teraz urodziny mogą być każdego dnia!
 - Pokój zabaw z meblami ma ok. 10 cm wysokości, 12 cm szerokości i 6 cm głębokości. Pudełko w kształcie domku zmieści wszystkie klocki i elementy, dzięki czemu tę kreatywną zabawkę dzieci mogą mieć zawsze przy sobie.
 
+**Galeria:**
+
+- 10925-1: https://a.allegroimg.com/original/1181c1/33e2db284f748a3e3403cdb028e1
+
 ---
 
-## 10927 — Lego Duplo 10927 Stoisko z pizza Pizzeria
+## 10927 — Stoisko z pizzą
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 112.44 zł · EAN: 05702016618167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10927 |
+| Nazwa angielska | Pizza Stand |
+| Nazwa polska | Stoisko z pizzą |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm × gł. 7 cm |
+| EAN | 5702016618167 |
 
 Stoisko z udawaną pizzą — dla młodych smakoszy zabawy
  
@@ -5816,11 +8831,27 @@ Zobacz, uroczy psiak przygląda mu się z zazdrością. Wielofunkcyjny zestaw LE
 - Zabawki LEGO DUPLO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1969 roku! 
 - Bardzo rygorystycznie testujemy klocki i elementy LEGO DUPLO, dzięki czemu mamy pewność, że spełniają najwyższe światowe standardy bezpieczeństwa i jakości — a Ty masz pewność, że nasze zabawki są całkowicie bezpieczne dla Twojego dziecka.
 
+**Galeria:**
+
+- 10927-1: https://a.allegroimg.com/original/00edf3/276e7aab49bba49188c2b135f369
+
 ---
 
-## 10928 — Lego Duplo 10928 Piekarnia
+## 10928 — Piekarnia
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 268.88 zł · EAN: 05702016618174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10928 |
+| Nazwa angielska | Bakery |
+| Nazwa polska | Piekarnia |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 19 cm × gł. 11 cm |
+| EAN | 5702016618174 |
 
 Klocki LEGO Duplo 10928 - Piekarnia
 
@@ -5838,11 +8869,27 @@ Kto nie chciałby wybrać się na wycieczkę do piekarni? Teraz przedszkolaki mo
 
 Zestaw LEGO Duplo - Piekarnia trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 10928. Zawiera 46 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Duplo - Bakery. Grupa wiekowa tego produktu to 2+.
 
+**Galeria:**
+
+- 10928-1: https://a.allegroimg.com/original/116fad/bc1c95494e779b5a448fc91c9071
+
 ---
 
-## 10929 — Lego Duplo 10929 Wielofunkcyjny domek
+## 10929 — Wielofunkcyjny domek
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702016618181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10929 |
+| Nazwa angielska | Modular Playhouse |
+| Nazwa polska | Wielofunkcyjny domek |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 39 cm × gł. 10 cm |
+| EAN | 5702016618181 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5890,11 +8937,27 @@ Dzięki uwielbianym postaciom i znajomym sceneriom edukacyjne zabawki LEGO DUPLO
 - Zestawy LEGO DUPLO spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku! 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO DUPLO, by mieć pewność, że każdy zestaw konstrukcyjny spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10929-1: https://a.allegroimg.com/original/052679/b2ddc9494462b7095ef5086e9a9a
+
 ---
 
-## 10930 — Nowe Lego 10930 Duplo Buldożer zabawka dla dziecka
+## 10930 — Buldożer
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702016618198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10930 |
+| Nazwa angielska | Bulldozer |
+| Nazwa polska | Buldożer |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702016618198 |
 
 LEGO 10930 Duplo - Buldożer
 
@@ -5926,11 +8989,27 @@ Szukasz idealnej kreatywnej zabawki konstrukcyjnej dla małego dziecka? Bogaty w
 
 - Ten zestaw klocków nie wymaga baterii. Buldożer LEGO® DUPLO® jest napędzany wyłącznie dziecięcą wyobraźnią, więc nigdy się nie zatrzyma!
 
+**Galeria:**
+
+- 10930-1: https://a.allegroimg.com/original/05242e/cc58fdaf44a3a64393ed1c37a9c0
+
 ---
 
-## 10931 — Lego Duplo 10931 Ciężarówka i koparka gąsienicowa
+## 10931 — Ciężarówka i koparka gąsienicowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 62.26 zł · EAN: 05702016618204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10931 |
+| Nazwa angielska | Truck & Tracked Excavator |
+| Nazwa polska | Ciężarówka i koparka gąsienicowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 57020141509154, 5702016618204 |
 
 LEGO Duplo 10931 Ciężarówka i koparka gąsienicowa
  
@@ -5958,11 +9037,27 @@ Linia zestawów LEGO DUPLO Construction została pomyślana tak, by zabawki dost
 - Zabawki LEGO® DUPLO® dla przedszkolaków już od 1969 roku spełniają najwyższe standardy branżowe. Dzięki temu maluszki mogą zawsze z łatwością chwycić, złączyć i rozłączyć klocki. 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy i podgrzewamy klocki oraz elementy LEGO® DUPLO®, by mieć pewność, że każda zabawka dla małych konstruktorów spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10931-1: https://a.allegroimg.com/original/1145a0/8b44d5e84bc19416edf81a5645c4
+
 ---
 
-## 10933 — Lego Duplo 10933 Żuraw wieżowy i budowa auto koparka
+## 10933 — Tower Crane & Construction
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 898.99 zł · EAN: 05702016618228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10933 |
+| Nazwa angielska | Tower Crane & Construction |
+| Nazwa polska | Tower Crane & Construction |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 123 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618228 |
 
 Zestaw z całym mnóstwem pojazdów, postaci i zadań do wykonania, które zainspirują przedszkolaki do wymyślania historii i pomogą im się rozwijać. Ruchliwy zabawkowy plac budowy z mnóstwem możliwości Odkrywanie wszystkich możliwości kipiącego życiem placu budowy dostarczy małym budowniczym rozrywki na cały dzień. Rodzice i maluchy mogą wspólnie bawić się w wożenie materiałów, budowanie wieży oraz sprzątanie gruzu z ulicy - pomoże im w tym duży i mały buldożer, wywrotka, koparka i dźwig.
 
@@ -5972,11 +9067,27 @@ Odkrywanie wszystkich możliwości zabawkowego placu budowy dostarczy małym bud
  
 Jest tam nawet stragan z hot dogami, by podczas przerwy obiadowej żaden robotnik nie pozostał głodny!
 
+**Galeria:**
+
+- 10933-1: https://a.allegroimg.com/original/05034a/5559863a476ebb21dcfa3281091b
+
 ---
 
-## 10935 — Lego Duplo 10935 Miasto z literami
+## 10935 — DUPLO 10935 Miasto z literami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 359.20 zł · EAN: 05702017433981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10935 |
+| Nazwa angielska | Alphabet Town |
+| Nazwa polska | DUPLO 10935 Miasto z literami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 87 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 52 cm × gł. 10 cm |
+| EAN | 5702017433981 |
 
 LEGO DUPLO 10935 ALFABETOWE MIASTO 18MIES+
 
@@ -5995,11 +9106,27 @@ W pudełku znajduje się:
 
 - **87 elementów, w tym 3 figurki LEGO® DUPLO®, akcesoria oraz instrukcje budowania.**
 
+**Galeria:**
+
+- 10935-1: https://a.allegroimg.com/original/29063e/05a8e43a4606bc067d3c0978f6f7
+
 ---
 
-## 10938 — Nowe Lego Duplo 10938 Dinozaurowa Szkółka
+## 10938 — Dinozaurowa szkółka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702016911411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10938 |
+| Nazwa angielska | Dinosaur Nursery |
+| Nazwa polska | Dinozaurowa szkółka |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911411 |
 
 LEGO DUPLO:
 
@@ -6025,11 +9152,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Prezent dla dwulatków i starszych dzieci — praktyczny zestaw to świetna propozycja dla młodych wielbicieli zwierząt i dinozaurów. Rodzice też mogą dołączyć do zabawy i uczestniczyć we wszystkich etapach rozwoju swoich pociech
 - Swobodna zabawa — triceratops ma ok. 5 cm wysokości, a zestaw można przebudować na różne sposoby, co inspiruje do niezliczonych, kreatywnych zabaw
 
+**Galeria:**
+
+- 10938-1: https://a.allegroimg.com/original/112e3e/0570720c462ba7c1928e90da46d3
+
 ---
 
-## 10940 — Lego Duplo 10940 Kwatera główna Spider-Mana Klocki Nowe Oryginalne
+## 10940 — Kwatera główna Spider-Mana
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 389.15 zł · EAN: 05702016911299 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10940 |
+| Nazwa angielska | Spider-Man Headquarters |
+| Nazwa polska | Kwatera główna Spider-Mana |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm × gł. 13 cm |
+| EAN | 5702016911299 |
 
 LEGO 10940 Duplo - Kwatera główna Spider-Mana
 
@@ -6073,11 +9216,26 @@ Zabawki LEGO DUPLO to dla przedszkolaków narzędzia do swobodnej zabawy, wyraż
 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10940-1: https://a.allegroimg.com/original/11c6b2/634fca48406984225d9299da05b6
+
 ---
 
-## 10941 — Lego Duplo Disney 10941 Urodzinowy pociąg myszek Miki i Minnie
+## 10941 — Urodzinowy pociąg myszek Miki i Minnie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 95.39 zł · EAN: 05702016911404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10941 |
+| Nazwa angielska | Mickey & Minnie Birthday Train |
+| Nazwa polska | Urodzinowy pociąg myszek Miki i Minnie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15,5 cm × szer. 13,5 cm |
+| EAN | 5702016911404 |
 
 Lego Duplo Urodzinowy pociąg Miki i Minnie 10941
  
@@ -6105,11 +9263,27 @@ Wszystkie zestawy konstrukcyjne LEGO DUPLO │ Disney są profesjonalnie zaproje
 - Elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10941-1: https://a.allegroimg.com/original/05ed5a/5f21d8ad4e6cb178402d45bcf30c
+
 ---
 
-## 10942 — Lego Duplo 10942 Dom i kawiarnia Myszki Minnie
+## 10942 — Dom i kawiarnia Myszki Minnie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702016911244 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10942 |
+| Nazwa angielska | Minnie's House and Café |
+| Nazwa polska | Dom i kawiarnia Myszki Minnie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 91 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 38 cm × gł. 22 cm |
+| EAN | 5702016911244 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6144,11 +9318,27 @@ LEGO® DUPLO® ǀ Disney Dom i kawiarnia Myszki Minnie (10942) to wypełniony ak
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10942-1: https://a.allegroimg.com/original/11f2a1/6ccb49874741be07f0e42e9f38dc
+
 ---
 
-## 10943 — Lego 10943 Duplo Szczęśliwe chwile z dzieciństwa
+## 10943 — Szczęśliwe chwile z dzieciństwa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 629.90 zł · EAN: 05702016911305 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10943 |
+| Nazwa angielska | Happy Childhood Moments |
+| Nazwa polska | Szczęśliwe chwile z dzieciństwa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 227 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 44 cm × gł. 44 cm |
+| EAN | 5702016911305 |
 
 Klocki LEGO Duplo 10943 - Szczęśliwe chwile z dzieciństwa
 
@@ -6174,11 +9364,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 - Elementy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku.
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10943-1: https://a.allegroimg.com/original/1126a3/47f3234f4e709b5655b5459a6647
+
 ---
 
-## 10944 — Lego Duplo 10944 Lot promem kosmicznym kosmos rakieta
+## 10944 — Lot promem kosmicznym
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 241.99 zł · EAN: 05702016911039 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10944 |
+| Nazwa angielska | Space Shuttle Mission |
+| Nazwa polska | Lot promem kosmicznym |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 15 cm × gł. 9 cm |
+| EAN | 5702016911039 |
 
 Zestaw LEGO DUPLO Town Lot promem kosmicznym LEGO DUPLO Town (10944) ucieszy małych astronautów i pomoże im rozwijać wyobraźnię oraz inne zdolności.
  
@@ -6205,11 +9411,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 - Klocki i elementy LEGO DUPLO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. 
 - Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10944-1: https://a.allegroimg.com/original/111a07/e56b4f5246ff873b4a54c4f8458e
+
 ---
 
-## 10945 — Klocki Lego Duplo Śmieciarka i recykling 10945, 19 elementów 2021 Rok!
+## 10945 — 10945 - LEGO DUPLO - Śmieciarka i recykling
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702016911046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10945 |
+| Nazwa angielska | Garbage Truck and Recycling |
+| Nazwa polska | 10945 - LEGO DUPLO - Śmieciarka i recykling |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 15 cm × gł. 7 cm |
+| EAN | 5702016911046 |
 
 LEGO® DUPLO® Town 10945 Śmieciarka i recykling to kolorowy i wszechstronny zestaw do zbudowania oraz zabawy, który zawiera wiele funkcji.
  
@@ -6234,11 +9456,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 - Zestawy LEGO® DUPLO® spełniają wymagające branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10945-1: https://a.allegroimg.com/original/25ab0e/638f82e14dffa23e1a61051df2ac
+
 ---
 
-## 10946 — Lego Duplo Rodzinny Camping 10946
+## 10946 — lego
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 289.00 zł · EAN: 05702016911053 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10946 |
+| Nazwa angielska | Family Camping Van Adventure |
+| Nazwa polska | lego |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911053 |
 
 SM
 
@@ -6256,11 +9494,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 
 - LEGO® DUPLO® Town 10946 Rodzinne biwakowanie to kolorowy zestaw, który gwarantuje dzieciom i rodzicom wiele okazji do ciekawej, wspólnej zabawy i nauki.
 
+**Galeria:**
+
+- 10946-1: https://a.allegroimg.com/original/11826e/9c537927449080f147bc26bf42f6
+
 ---
 
-## 10947 — Lego Duplo 10947 Samochody wyścigowe
+## 10947 — Samochody wyścigowe
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 169.89 zł · EAN: 05702016911312 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10947 |
+| Nazwa angielska | Race Cars |
+| Nazwa polska | Samochody wyścigowe |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 50 cm × gł. 25 cm |
+| EAN | 5702016911312 |
 
 LEGO DUPLO 10947 Samochody wyścigowe
 
@@ -6286,11 +9540,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10947-1: https://a.allegroimg.com/original/253101/d1e1c0474e0c9227a611f6ceabd0
+
 ---
 
-## 10948 — Lego 10948 Duplo Parking piętrowy i myjnia samochodowa
+## 10948 — Parking piętrowy i myjnia samochodowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 631.38 zł · EAN: 05702016911329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10948 |
+| Nazwa angielska | Parking Garage and Car Wash |
+| Nazwa polska | Parking piętrowy i myjnia samochodowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 112 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 79 cm × gł. 20 cm |
+| EAN | 5702016911329 |
 
 Klocki LEGO Duplo 10948 - Parking piętrowy i myjnia samochodowa
 
@@ -6336,21 +9606,53 @@ Zestaw LEGO Duplo - Parking piętrowy i myjnia samochodowa trafił do sprzeda�
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10948-1: https://a.allegroimg.com/original/11bf4d/c0ea4fa845179f6e15bb344d0fda
+
 ---
 
-## 10949 — Lego Duplo 10949 Zwierzęta gospodarskie
+## 10949 — Zwierzęta gospodarskie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 75.49 zł · EAN: 05702016888867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10949 |
+| Nazwa angielska | Farm Animal Care |
+| Nazwa polska | Zwierzęta gospodarskie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016888867 |
 
 Lego DUPLO 10949 Zwierzęta gospodarskie
 
 O   Zestaw LEGO(R) DUPLO(R) Town Zwierzęta gospodarskie (10949) z czterema miłymi zwierzakami zachwyci małych miłośników zwierząt i zachęci ich do pomysłowej zabawy połączonej z nauką. W komplecie stodoła do zbudowania i bela siana o realistycznej teksturze oraz figurki kaczki, kota, świnki i owcy -- wszystkie w pię = knych kolorach i zaprojektowane tak, by były wygodne dla małych rączek. Wcielanie się w role opiekunów zwierząt i zabawa w karmienie oraz układanie do snu uczy wrażliwości i pomaga rozwijać zdolności manualne oraz świadomość społeczną. Zachwycająca i trwała zabawka dla dwulatków i starszych dzieci to idealny prezent na Boże Narodzenie, urodziny lub po prostu nagroda dla grzecznych maluchów. Wymiary to ok. 10 cm wysokości, 9 cm szerokości i 6 cm głębokości, ale elementy modelu można układać na wiele różnych sposobów oraz łatwo łączyć z innymi zabawkami LEGO(R) DUPLO(R), które nawiązują do tematu gospodarstwa. Aby budowanie i zabawa były jeszcze fajniejsze, do kompletu dołączone są instrukcje budowania z zabawną historyjką obrazkową, w której występują modele z zestawu.
 
+**Galeria:**
+
+- 10949-1: https://a.allegroimg.com/original/11f17e/eaba1ee641f78579777e9434a4d4
+
 ---
 
-## 10950 — Lego Duplo Traktor i zwierzęta gospodarskie 10950
+## 10950 — Traktor i zwierzęta gospodarskie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 237.70 zł · EAN: 05702016889475 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10950 |
+| Nazwa angielska | Farm Tractor & Animal Care |
+| Nazwa polska | Traktor i zwierzęta gospodarskie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016889475 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -6388,11 +9690,27 @@ PACZKI .
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą bez trudu chwytać, układać i rozdzielać klocki — i tak jest niezmiennie od 1969 rok u. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów, co daje nam pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa stawiane zabawkom.
 
+**Galeria:**
+
+- 10950-1: https://a.allegroimg.com/original/116d92/217c23a849ad98b6442566e6399a
+
 ---
 
-## 10951 — Lego Duplo 10951 Stadnina i Kucyki Marchewka Koń Konie Stajnia
+## 10951 — Stadnina i Kucyki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 331.99 zł · EAN: 05702016889482 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10951 |
+| Nazwa angielska | Horse Stable and Pony Care |
+| Nazwa polska | Stadnina i Kucyki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 15 cm × gł. 9 cm |
+| EAN | 5702016889482 |
 
 LEGO DUPLO 10951 Stadnina i Kucyki
 
@@ -6409,11 +9727,27 @@ W zestawie LEGO® DUPLO® Town Stadnina i kucyki (10951) jest wszystko, co mały
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10951-1: https://a.allegroimg.com/original/116043/3c464bb94344a100f7c5f4a3060e
+
 ---
 
-## 10952 — Lego Duplo 10952 Stodoła, traktor i zwierzęta gospodarskie Farma zagroda
+## 10952 — Stodoła, traktor i zwierzęta gospodarskie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 729.32 zł · EAN: 05702016889499 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10952 |
+| Nazwa angielska | Barn, Tractor & Farm Animal Care |
+| Nazwa polska | Stodoła, traktor i zwierzęta gospodarskie |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 97 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 11 cm |
+| EAN | 5702016889499 |
 
 - Zestaw LEGO® DUPLO® Town Stodoła, traktor i zwierzęta gospodarskie (10952) to prawdziwa gratka dla małych wielbicieli zwierząt i pojazdów rolniczych, a do tego okazja, by uczyć się przez zabawę.
 
@@ -6431,11 +9765,27 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu dzieci mogą łatwo chwycić, złączyć i rozłączyć klock i — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10952-1: https://a.allegroimg.com/original/255054/fb74ae1943d0848b03ae005032fc
+
 ---
 
-## 10953 — Lego Duplo 10953 Pociąg Jednorożec
+## 10953 — Jednorożec
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 70.00 zł · EAN: 05702016911107 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10953 |
+| Nazwa angielska | Unicorn |
+| Nazwa polska | Jednorożec |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm |
+| EAN | 5702016911107 |
 
 Uroczy, kolorowy zestaw LEGO® DUPLO® My First Jednorożec (10953) będzie świetną niespodzianką dla każdego malucha. Wszystko zostało pomyślane tak, by dzieci mogły wygodnie łapać i łączyć klocki oraz ciągnąć wagoniki.
  
@@ -6459,11 +9809,26 @@ Zestawy edukacyjne LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwytać, układać i rozdzielać klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10953-1: https://a.allegroimg.com/original/050d15/359e80e7449d8d17ab796f6d8f68
+
 ---
 
-## 10954 — 10954 Lego Duplo Pociąg z cyferkami nauka liczenia
+## 10954 — Pociąg z cyferkami nauka liczenia
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 59.81 zł · EAN: 05702016911114 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10954 |
+| Nazwa angielska | Number Train - Learn To Count |
+| Nazwa polska | Pociąg z cyferkami nauka liczenia |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2021 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911114 |
 
 Lego Duplo Pociąg z cyferkami — nauka liczenia 10954
  
@@ -6471,11 +9836,27 @@ Przedstawiamy nową, kolorową wersję niezwykłe popularnego pociągu z cyferka
 
 Przedstawiamy nowy, kolorowy zestaw LEGO® DUPLO® Pierwsze klocki Pociąg z cyferkami — nauka liczenia (10954). Dzieci mogą układać, zdejmować, łączyć i sortować 10 klocków z cyferkami, a figurki DUPLO dziewczynki, chłopca i pieska zapewniają długie godziny wciągającej, edukacyjnej zabawy.Świetne wprowadzenie do przedszkolnej matematykiMaluchy mogą układać klocki z cyferkami na wagonach i zdejmować je z nich, ustawiać je w kolejności i budować z nich różne konstrukcje. Pociąg z cyferkami ma ruchome koła, otwierany dach i sympatycznych pasażerów DUPLO, przetransportuje więc Twojego malucha w świat pomysłowej i edukacyjnej zabawy!Praktyczne zabawki edukacyjne dla małych dzieciZestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wyrażania siebie i nauki, a rodzicom pozwalają przeżyć niezwykłe chwile dzięki możliwości uczestniczenia w rozwoju ich pociech poprzez wspólne budowanie.
 
+**Galeria:**
+
+- 10954-1: https://a.allegroimg.com/original/057d5f/d7166f1442d09d4269de4c86bac9
+
 ---
 
-## 10955 — Lego Duplo 10955 Klocki Pociąg ze zwierzątkami
+## 10955 — Pociąg ze zwierzątkami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016911121 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10955 |
+| Nazwa angielska | Animal Train |
+| Nazwa polska | Pociąg ze zwierzątkami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 6 cm |
+| EAN | 5702016911121 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -6506,11 +9887,27 @@ Przedstawiamy nowy, kolorowy zestaw LEGO® DUPLO® Pierwsze klocki Pociąg z cyf
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku. 
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10955-1: https://a.allegroimg.com/original/05d1cc/da1ffe8342619954cea575a357c2
+
 ---
 
-## 10956 — Lego Duplo Park rozrywki 10956
+## 10956 — LEGO Duplo Park rozrywki 10956
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 478.99 zł · EAN: 05702016911336 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10956 |
+| Nazwa angielska | Amusement Park |
+| Nazwa polska | LEGO Duplo Park rozrywki 10956 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 95 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911336 |
 
 LEGO Duplo Park rozrywki 10956
 
@@ -6537,11 +9934,27 @@ Cechy produktu:
 - W komplecie siedem postaci DUPLO® — dwie kobiety, mężczyzna i czworo dzieci — a także dwie zjeżdżalnie, mechaniczna karuzela, obracający się diabelski młyn z trzema kolorowymi wagonikami, popychany pociąg i mnóstwo ciekawych dodatków.
 - Do nieograniczonej zabawy w odgrywanie ról zachęcają akcesoria, takie jak hot dogi, lody, aparat fotograficzny, baloniki, babeczki, miotła i pluszowy miś
 
+**Galeria:**
+
+- 10956-1: https://a.allegroimg.com/original/11b2b5/c36fd283477f940bbad834be771f
+
 ---
 
-## 10957 — Nowe Lego Duplo 10957 Helikopter I Radiowóz
+## 10957 — LEGO Duplo 10957 Helikopter strażacki i radiowóz
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702016911282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10957 |
+| Nazwa angielska | Fire Helicopter & Police Car |
+| Nazwa polska | LEGO Duplo 10957 Helikopter strażacki i radiowóz |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702016911282 |
 
 LEGO DUPLO:
 
@@ -6569,11 +9982,27 @@ Zestawy LEGO DUPLO zapewniają przedszkolakom narzędzia do swobodnej zabawy, wy
 - Zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku.
 - Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10957-1: https://a.allegroimg.com/original/11215c/ae844d1e43c9a991c6697e8f78bd
+
 ---
 
-## 10960 — Nowe Lego Duplo 10960 Sala Balowa Belli
+## 10960 — Sala balowa Belli
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 141.99 zł · EAN: 05702017153117 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10960 |
+| Nazwa angielska | Belle's Ballroom |
+| Nazwa polska | Sala balowa Belli |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm × gł. 10 cm |
+| EAN | 5702017153117 |
 
 LEGO DUPLO:
 
@@ -6597,11 +10026,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Prezent dla maluchów — ten zestaw do zabawy klockami przeznaczony dla małych księżniczek i książąt w wieku od 2 lat pozwoli rodzicom uczestniczyć w każdym etapie rozwoju ich pociech
 - Sporo sposobów na zabawę — model ma ok. 19 cm wysokości, 12 cm szerokości i 10 cm głębokości, a do tego jest wielofunkcyjny i można go przebudować, by urozmaicić rozrywkę
 
+**Galeria:**
+
+- 10960-1: https://a.allegroimg.com/original/116661/8dbaad9949a196f24e04379e1ee3
+
 ---
 
-## 10961 — klocki Lego Duplo 10961 Samolot i lotnisko port lotniczy pilot
+## 10961 — Samolot i lotnisko
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 497.99 zł · EAN: 05702017086439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10961 |
+| Nazwa angielska | Airplane & Airport |
+| Nazwa polska | Samolot i lotnisko |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 38 cm × gł. 29 cm |
+| EAN | 5702017086439 |
 
 Rodzinny lot samolotem pasażerskim to dla malucha emocjonująca przygoda. Dołącz do taty i córeczki, którzy lecą z wizytą do krewnych i przyjaciół. Górną połowę samolotu można zdjąć, by pobawić się w środku pojazdu. Lotnisko natomiast ma otwierane drzwi, obracającą się wieżę kontroli lotów i zjeżdżalnię dla bagażu. Członkowie rodziny już czekają, by uściskać nadlatujących pasażerów!
 
@@ -6625,11 +10070,27 @@ Wyrusz ze swoim maluchem w podniebną podróż w zestawie LEGO® DUPLO® Town Sa
  
 • Klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia najwyższe standardy bezpieczeństwa dzieci.
 
+**Galeria:**
+
+- 10961-1: https://a.allegroimg.com/original/0537e8/1d70d78d43f7b9748f23c14da2b0
+
 ---
 
-## 10962 — Lego Duplo 10962 Planetarna misja Buzza Astrala
+## 10962 — Planetarna misja Buzza Astrala
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 154.00 zł · EAN: 05702017153568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10962 |
+| Nazwa angielska | Buzz Lightyear's Planetary Mission |
+| Nazwa polska | Planetarna misja Buzza Astrala |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 13 cm |
+| EAN | 5702017153568 |
 
 LEGO Duplo 10962 Planetarna misja Buzza Astrala
  
@@ -6654,11 +10115,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® oferują wciągające historie, atrakcyjne kolory, różnorodne postacie i fascynujące detale, dzięki którym maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10962-1: https://a.allegroimg.com/original/112e86/c8f524bb4bc9a03e4c8d68a7a8ec
+
 ---
 
-## 10963 — Lego Duplo 10963 Spider-Man przyjaciele w wesołym miasteczku spidey spajdi
+## 10963 — Spider-Man i przyjaciele w wesołym miasteczku
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702017153575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10963 |
+| Nazwa angielska | Spider-Man & Friends: Funfair Adventure |
+| Nazwa polska | Spider-Man i przyjaciele w wesołym miasteczku |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 20 cm × gł. 17 cm |
+| EAN | 5702017153575 |
 
 LEGO Duplo 10963 Spider-Man i przyjaciele w wesołym miasteczku
  
@@ -6683,11 +10160,27 @@ Dzięki zabawkom konstrukcyjnym LEGO DUPLO rodzice mogą uczestniczyć w każdym
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10963-1: https://a.allegroimg.com/original/05103a/046dd01f49b7b5e24ffecdd8b417
+
 ---
 
-## 10964 — Lego Duplo 10964 Moja pierwsza zabawa w pływanie Pływanie czerwona panda
+## 10964 — Moja pierwsza zabawa w pływanie Pływanie czerwona panda
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017153582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10964 |
+| Nazwa angielska | Bath Time Fun: Floating Red Panda |
+| Nazwa polska | Moja pierwsza zabawa w pływanie Pływanie czerwona panda |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm × gł. 11 cm |
+| EAN | 5702017153582 |
 
 LEGO DUPLO Zabawa w kąpieli: pływająca czerwona panda 10964
  
@@ -6718,11 +10211,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10964-1: https://a.allegroimg.com/original/055bdb/0d5148d14c13a475bf58445258fd
+
 ---
 
-## 10965 — Lego 10965 Duplo Zabawa w kąpieli Pływający Pociąg Pierwsze Klocki Nowe
+## 10965 — Zabawa w kąpieli: pływający pociąg ze zwierzątkami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 105.99 zł · EAN: 05702017153599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10965 |
+| Nazwa angielska | Bath Time Fun: Floating Animal Train |
+| Nazwa polska | Zabawa w kąpieli: pływający pociąg ze zwierzątkami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 46 cm × gł. 11 cm |
+| EAN | 5702017153599 |
 
 LEGO 10965 Duplo - Zabawa w kąpieli: pływający pociąg ze zwierzątkami
 
@@ -6754,11 +10263,26 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży
 
+**Galeria:**
+
+- 10965-1: https://a.allegroimg.com/original/114750/9ea1653e4c568547c5b7fc7475ab
+
 ---
 
-## 10966 — Lego Duplo 10966 Zabawa w kąpieli: pływająca wyspa ze zwierzątkami
+## 10966 — Zabawa w kąpieli: pływająca wyspa ze zwierzątkami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702017153605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10966 |
+| Nazwa angielska | Bath Time Fun: Floating Animal Island |
+| Nazwa polska | Zabawa w kąpieli: pływająca wyspa ze zwierzątkami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153605 |
 
 LEGO Duplo 10966 Zabawa w kąpieli: pływająca wyspa ze zwierzątkami
 
@@ -6789,11 +10313,26 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® oferują wciągające historie, atrakcyjne kolory, różnorodne postacie i fascynujące detale, dzięki którym maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10966-1: https://a.allegroimg.com/original/252ec4/1b18d4654630823f2ce5d15457c4
+
 ---
 
-## 10967 — Lego Duplo 10967 Motocykl policyjny
+## 10967 — Motocykl policyjny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 21.89 zł · EAN: 05702017153636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10967 |
+| Nazwa angielska | Police Motorcycle |
+| Nazwa polska | Motocykl policyjny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm |
+| EAN | 5702017153636 |
 
 LEGO DUPLO Motocykl policyjny 10967
  
@@ -6825,11 +10364,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały profesjonalnie zaprojektowane i oferują wciągające historie, atrakcyjne kolory, różnorodne postacie oraz fascynujące detale, dzięki czemu maluchy czeka WIELKI start w życie 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10967-1: https://a.allegroimg.com/original/11cc5f/fe4af3d7466d839a00b6115e89f3
+
 ---
 
-## 10968 — Lego Duplo 10968 Wizyta u lekarza
+## 10968 — Wizyta u lekarza
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 128.00 zł · EAN: 05702017153643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10968 |
+| Nazwa angielska | Doctor Visit |
+| Nazwa polska | Wizyta u lekarza |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 20 cm × gł. 10 cm |
+| EAN | 5702017153643 |
 
 LEGO DUPLO Wizyta u lekarza 10968
  
@@ -6855,11 +10410,26 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO DUPLO zostały profesjonalnie zaprojektowane i oferują wciągające historie, atrakcyjne kolory, różnorodne postacie oraz fascynujące detale, dzięki czemu maluchy czeka WIELKI start w życie 
 - Jednolita jakość — elementy LEGO DUPLO spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10968-1: https://a.allegroimg.com/original/05fa43/6e3112714b32b10499b04fabd147
+
 ---
 
-## 10969 — Lego Duplo 10969 Lego Duplo Wóz strażacki 10969
+## 10969 — Wóz strażacki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 134.98 zł · EAN: 05702017153650 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10969 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Wóz strażacki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 17 cm |
+| EAN | 50702017153650, 5702017153650 |
 
 LEGO Duplo 10969 Wóz strażacki
  
@@ -6886,11 +10456,28 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Doskonała jakość -- elementy LEGO DUPLO spełniają surowe branżowe standardy, więc maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki -- i tak jest niezmiennie od 1969 roku 
 - Bezpieczeństwo przede wszystkim -- klocki i elementy LEGO DUPLO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia wysokie światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10969-1: https://a.allegroimg.com/original/11674f/4b9c7610422f8db34b5516352710
+- 10969-2: https://a.allegroimg.com/original/110e34/da095a734d73b4b85c9a13ef22b2
+
 ---
 
-## 10970 — Lego Duplo 10970 Remiza strażacka i helikopter
+## 10970 — Remiza strażacka i helikopter
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702017153681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10970 |
+| Nazwa angielska | Fire Station & Helicopter |
+| Nazwa polska | Remiza strażacka i helikopter |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 117 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153681 |
 
 .
 
@@ -6946,11 +10533,27 @@ Zestaw wspiera:
 - dodatkowe akcesoria tematyczne,
 - obrazkowa historyjka zachęcająca do kreatywnej zabawy.
 
+**Galeria:**
+
+- 10970-1: https://a.allegroimg.com/original/1113ef/6e3564ec46c5a7baf7b5942a6657
+
 ---
 
-## 10971 — Lego Duplo 10971 Dzikie zwierzęta Afryki
+## 10971 — Dzikie zwierzęta Afryki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 74.04 zł · EAN: 05702017153674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10971 |
+| Nazwa angielska | Wild Animals of Africa |
+| Nazwa polska | Dzikie zwierzęta Afryki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702017153674 |
 
 Lego DUPLO 10971 Dzikie zwierzęta Afryki
 
@@ -6969,11 +10572,27 @@ Nauka przez zabawę dla małych dzieciWszystkie zestawy LEGO DUPLO zostały zapr
 - Jednolita jakość -- elementy LEGO(R) DUPLO(R) spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki -- i tak jest niezmiennie od 1969 roku
 - Gwarancja bezpieczeństwa -- klocki i inne elementy LEGO(R) DUPLO(R) są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10971-1: https://a.allegroimg.com/original/11f530/7c85880e4dfb92f423b3d60cc711
+
 ---
 
-## 10972 — Lego Duplo 10972 Dzikie zwierzęta oceanów
+## 10972 — Dzikie zwierzęta oceanów
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702017153698 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10972 |
+| Nazwa angielska | Wild Animals of the Ocean |
+| Nazwa polska | Dzikie zwierzęta oceanów |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 26 cm × gł. 24 cm |
+| EAN | 5702017153698 |
 
 LEGO DUPLO 10972 Dzikie zwierzęta oceanów
 
@@ -6998,11 +10617,27 @@ LEGO DUPLO 10972 Dzikie zwierzęta oceanów
 
 LEGO DUPLO 10972 Dzikie zwierzęta oceanów
 
+**Galeria:**
+
+- 10972-1: https://a.allegroimg.com/original/111a8e/b7c81841478bad3d8e20c7558d01
+
 ---
 
-## 10973 — Lego Duplo 10973 Dzikie zwierzęta Ameryki Południowej
+## 10973 — Dzikie zwierzęta Ameryki Południowej
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702017155906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10973 |
+| Nazwa angielska | Wild Animals of South America |
+| Nazwa polska | Dzikie zwierzęta Ameryki Południowej |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 47 cm × gł. 21 cm |
+| EAN | 5702017155906 |
 
 Dzięki zestawowi LEGO® DUPLO® Dzikie zwierzęta Ameryki Południowej (10973) dzieci w wieku od dwóch lat mogą poszaleć w dżungli, a rodzice mają okazję być świadkami ważnych etapów rozwoju swoich kochających zwierzęta przedszkolaków.
  
@@ -7027,11 +10662,27 @@ Pozwól swojemu małemu miłośnikowi przyrody poznać dzikie zwierzęta Ameryki
 - Nauka przez zabawę —wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10973-1: https://a.allegroimg.com/original/2530cd/fdc06c944b8f9cca16da87eab118
+
 ---
 
-## 10974 — Lego Duplo 10974 Dzikie zwierzęta Azji
+## 10974 — Dzikie zwierzęta Azji
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 437.00 zł · EAN: 05702017153704 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10974 |
+| Nazwa angielska | Wild Animals of Asia |
+| Nazwa polska | Dzikie zwierzęta Azji |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 46 cm × gł. 24 cm |
+| EAN | 5702017153704 |
 
 LEGO Duplo 10974 Dzikie zwierzęta Azji
  
@@ -7056,11 +10707,27 @@ Wszystkie zestawy LEGO DUPLO zostały zaprojektowane przez ekspertów i oferują
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10974-1: https://a.allegroimg.com/original/050555/b48b56c544eebc9c0b08d2cb6151
+
 ---
 
-## 10975 — Lego 10975 Duplo Dzikie zwierzęta świata
+## 10975 — LEGO DUPLO Dzikie zwierzęta świata 10975
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702017153728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10975 |
+| Nazwa angielska | Wild Animals of the World |
+| Nazwa polska | LEGO DUPLO Dzikie zwierzęta świata 10975 |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 143 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 20 cm × gł. 17 cm |
+| EAN | 5702017153728 |
 
 LEGO 10975 Duplo - Dzikie zwierzęta świata
 
@@ -7090,11 +10757,27 @@ Wszystkie zestawy LEGO DUPLO zostały zaprojektowane przez ekspertów i oferują
 
 - Gwarancja bezpieczeństwa — klocki i inne elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10975-1: https://a.allegroimg.com/original/4503f7/97dbc3384563ace4c995731e3f43
+
 ---
 
-## 10976 — Klocki Lego Duplo Piernikowy domek Świętego Mikołaja 50 elementów
+## 10976 — Piernikowy domek Świętego Mikołaja
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017153735 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10976 |
+| Nazwa angielska | Santa's Gingerbread House |
+| Nazwa polska | Piernikowy domek Świętego Mikołaja |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 17 cm × gł. 10 cm |
+| EAN | 5702017153735 |
 
 LEGO Duplo 10976 Piernikowy domek Świętego Mikołaja
  
@@ -7124,11 +10807,26 @@ Wszystkie zestawy LEGO DUPLO zostały zaprojektowane przez ekspertów i oferują
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10976-1: https://a.allegroimg.com/original/118271/3bc7759c45268cfe5f6674411d67
+
 ---
 
-## 10977 — Lego 10977 Duplo Mój pierwszy szczeniak i kotek
+## 10977 — Mój pierwszy szczeniak i kotek z odgłosami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702017153612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10977 |
+| Nazwa angielska | My First Puppy & Kitten With Sounds |
+| Nazwa polska | Mój pierwszy szczeniak i kotek z odgłosami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153612 |
 
 Lego 10977 Duplo Mój pierwszy szczeniak i kotek 
 
@@ -7136,11 +10834,27 @@ Zestaw LEGO® DUPLO® Mój pierwszy szczeniak i kotek z odgłosami (10977) pozwa
 
 To doskonały sposób, aby zapoznać przedszkolaki z codziennymi czynnościami. Nauka przez zabawę dla małych dzieci Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju swoich maluchów i zachęcać dzieci do swobodnej zabawy, wyrażania siebie oraz wesołego odkrywania świata.
 
+**Galeria:**
+
+- 10977-1: https://a.allegroimg.com/original/11f384/85b5f6944d50bf0b105afae18e33
+
 ---
 
-## 10978 — Lego Duplo Czas na kreatywne budowanie 10978
+## 10978 — Czas na kreatywne budowanie
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702017189055 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10978 |
+| Nazwa angielska | Creative Building Time |
+| Nazwa polska | Czas na kreatywne budowanie |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189055 |
 
 **LEGO DUPLO Czas na kreatywne budowanie 10978**
  
@@ -7164,11 +10878,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki którym maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10978-1: https://a.allegroimg.com/original/115d35/847954604492bd30b059597bd67d
+
 ---
 
-## 10979 — Lego Duplo Dzikie zwierzęta Europy 10979
+## 10979 — Dzikie zwierzęta Europy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 569.90 zł · EAN: 05702017188768 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10979 |
+| Nazwa angielska | Wild Animals Of Europe |
+| Nazwa polska | Dzikie zwierzęta Europy |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 46 cm × gł. 23 cm |
+| EAN | 5702017188768 |
 
 LEGO Duplo 10979 - Dzikie zwierzęta Europy
 
@@ -7211,11 +10941,27 @@ Wszystkie zestawy LEGO DUPLO zostały zaprojektowane przez ekspertów i oferują
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, dzięki czemu maluchy czeka WSPANIAŁY początek życiowej podróży 
 - Jednolita jakość — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10979-1: https://a.allegroimg.com/original/29a78f/a8bdeb784cfab0a5a112a71f24ec
+
 ---
 
-## 10981 — Lego Duplo Rosnąca marchewka 10981 18m+ 11 el.
+## 10981 — Rosnąca marchewka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 33.39 zł · EAN: 05702017416151 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10981 |
+| Nazwa angielska | Growing Carrot |
+| Nazwa polska | Rosnąca marchewka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416151 |
 
 🥕Zapewnij maluchowi radość z nauki przez zabawę! LEGO® DUPLO®
 
@@ -7261,11 +11007,27 @@ Wszystkie zestawy LEGO DUPLO zostały zaprojektowane przez ekspertów i oferują
 
 **Łączy edukację, zabawę i rozwój umiejętności w atrakcyjnej, kolorowej formie.**
 
+**Galeria:**
+
+- 10981-1: https://a.allegroimg.com/original/050548/dc3a5a494dbba57af7e141815be4
+
 ---
 
-## 10982 — Lego Duplo 10982 Traktor z warzywami i owocami
+## 10982 — Traktor z warzywami i owocami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 126.31 zł · EAN: 05702017416168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10982 |
+| Nazwa angielska | Fruit and Vegetable Tractor |
+| Nazwa polska | Traktor z warzywami i owocami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 7 cm |
+| EAN | 5702017416168 |
 
 Lego DUPLO 10982 Traktor z warzywami i owocami
 
@@ -7286,11 +11048,26 @@ Wszystkie zabawki LEGO DUPLO są profesjonalnie zaprojektowane, oferując zabawn
 - Jednolita jakość - zestawy LEGO(R) DUPLO(R) spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki - i tak jest niezmiennie od 1969 roku.
 - Gwarancja bezpieczeństwa - klocki i inne elementy LEGO(R) DUPLO(R) są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane. Dzięki temu możesz mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10982-1: https://a.allegroimg.com/original/112eee/480106f44139ba275f97ed2fb6e0
+
 ---
 
-## 10983 — Lego Duplo 10983 Ryneczek Bio 1.5+ Nowe
+## 10983 — Ryneczek bio
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 72.00 zł · EAN: 05702017416977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10983 |
+| Nazwa angielska | Organic Market |
+| Nazwa polska | Ryneczek bio |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 15 cm × gł. 15 cm |
+| EAN | 5702017416977 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -7327,11 +11104,27 @@ Zabawki LEGO DUPLO umożliwiają przedszkolakom nieograniczoną zabawę, wyraża
 - Jednolita jakość – zestawy LEGO® DUPLO® spełniają surowe branżowe standardy. Dziękitemu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki – i tak jest niezmiennie od 1969 roku
 - Gwarancja bezpieczeństwa – klocki i inne elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane, aby zapewnić, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10983-1: https://a.allegroimg.com/original/11eeef/d1c7dcda4c21be033443c6e6740b
+
 ---
 
-## 10984 — Lego 10984 Duplo Ogród Uprawowy
+## 10984 — Ogród uprawowy
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 179.50 zł · EAN: 05702017416984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10984 |
+| Nazwa angielska | Organic Garden |
+| Nazwa polska | Ogród uprawowy |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 36 cm × gł. 18 cm |
+| EAN | 5702017416984 |
 
 LEGO 10984 DUPLO - OGRÓD UPRAWOWY
 
@@ -7369,11 +11162,27 @@ Zestawy LEGO DUPLO Pierwsze klocki dają nieograniczone możliwości kreatywnej 
 - Jednolita jakość – zestawy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki – i tak jest niezmiennie od 1969 roku,
 - Gwarancja bezpieczeństwa – klocki i inne elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane, aby zapewnić, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10984-1: https://a.allegroimg.com/original/116d57/5e9014224e638791bf6a9acecedc
+
 ---
 
-## 10985 — Lego 10985 Duplo Turbina wiatrowa i samochód elektryczny
+## 10985 — Turbina wiatrowa i samochód elektryczny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 58.90 zł · EAN: 05702017416991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10985 |
+| Nazwa angielska | Wind Turbine and Electric Car |
+| Nazwa polska | Turbina wiatrowa i samochód elektryczny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 21 cm × gł. 20 cm |
+| EAN | 5702017416991 |
 
 LEGO 10985 Duplo Turbina wiatrowa i samochód elektryczny
 
@@ -7417,11 +11226,27 @@ Ilość figurek: 1
 
 Stan: nowy , oryginalnie zamknięty zestaw firmy LEGO
 
+**Galeria:**
+
+- 10985-1: https://a.allegroimg.com/original/118f3e/9b6b7d894225a5f64269fe1550b9
+
 ---
 
-## 10986 — Lego 10986 Duplo Dom Rodzinny Na Kółkach
+## 10986 — Dom rodzinny na kółkach
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 108.45 zł · EAN: 05702017417011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10986 |
+| Nazwa angielska | Family House on Wheels |
+| Nazwa polska | Dom rodzinny na kółkach |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 10 cm |
+| EAN | 5702017417011 |
 
 LEGO 10986 DUPLO - DOM RODZINNY NA KÓŁKACH
 
@@ -7462,11 +11287,27 @@ Zestawy LEGO DUPLO Town pozwalają dzieciom na swobodną zabawę i wyrażanie si
 - Wysokiej jakości produkt – zestawy LEGO® DUPLO® spełniają najwyższe standardy branżowe. Dzięki temu dzieci mogą z łatwością chwycić, złączyć i rozdzielić klocki – i tak jest niezmiennie od 1969 roku,
 - Bezpieczeństwo – klocki i elementy w zestawach LEGO® DUPLO® są testowane w każdym aspekcie, aby zapewnić, że każda zabawka spełnia surowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 10986-1: https://a.allegroimg.com/original/113a57/8989f74142b8aec2a5bde585937f
+
 ---
 
-## 10987 — Nowe Lego Duplo 10987 Ciężarówka Recyklingowa Śmieciarka Wywrotka
+## 10987 — Ciężarówka recyklingowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 161.99 zł · EAN: 05702017416236 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10987 |
+| Nazwa angielska | Recycling Truck |
+| Nazwa polska | Ciężarówka recyklingowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 7 cm |
+| EAN | 5702017416236 |
 
 LEGO DUPLO:
 
@@ -7490,11 +11331,27 @@ Ta praktyczna zabawka pomaga dzieciom rozwijać zdolności motoryczne podczas za
 - Prezent dla przedszkolaków — zestaw będzie ekscytującym prezentem na urodziny, święta lub bez okazji dla dzieci w wieku od dwóch lat
 - Pole do popisu — ciężarówka ma 11 cm wysokości, 16 cm długości i 7 cm szerokości, więc ma dużo miejsca w kabinie dla figurki śmieciarza
 
+**Galeria:**
+
+- 10987-1: https://a.allegroimg.com/original/118d2a/4f4cf45346a3ba0a397623f7d418
+
 ---
 
-## 10988 — Lego Duplo 10988 Przejażdżka autobusem
+## 10988 — Przejażdżka autobusem
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 137.77 zł · EAN: 05702017416243 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10988 |
+| Nazwa angielska | The Bus Ride |
+| Nazwa polska | Przejażdżka autobusem |
+| Seria | DUPLO |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm |
+| EAN | 5702017416243 |
 
 LEGO Duplo 10988 Town Przejażdżka autobusem
  
@@ -7550,11 +11407,26 @@ Rozwijają umiejętności społeczne, jadąc autobusem ze swoimi przyjaciółmi,
  
 • Zabawki edukacyjne dla dzieci LEGO DUPLO są testowane w skrajnych warunkach.
 
+**Galeria:**
+
+- 10988-1: https://a.allegroimg.com/original/2954d4/613fe8544a5786b47a94532f7d1c
+
 ---
 
-## 10989 — Klocki Lego Duplo 10989 Park wodny Figurki Zjeżdżalnia Kąpiel Zabawka
+## 10989 — Park wodny
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 105.00 zł · EAN: 05702017416250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10989 |
+| Nazwa angielska | Water Park |
+| Nazwa polska | Park wodny |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416250 |
 
 LEGO DUPLO 10989 Aquapark – Wodny Park Rozrywki
 
@@ -7599,11 +11471,27 @@ Idealny pomysł na prezent dla każdego malucha, który uwielbia wodne przygody 
 
 **Produkt nowy. Fabrycznie zapakowany.**
 
+**Galeria:**
+
+- 10989-1: https://a.allegroimg.com/original/11d5e8/03997268455e895530ee569cad32
+
 ---
 
-## 10990 — Lego Duplo Budowa 10990
+## 10990 — LEGO Budowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702017416267 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10990 |
+| Nazwa angielska | Construction Site |
+| Nazwa polska | LEGO Budowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 24 cm |
+| EAN | 5702017416267 |
 
 LEGO DUPLO Budowa 10990
 
@@ -7627,11 +11515,27 @@ LEGO DUPLO Budowa 10990
 - **Gwarantowana jakość – zestawy LEGO® DUPLO® spełniają najwyższe standardy branżowe. Dzięki temu dzieci mogą z łatwością chwycić, złączyć i rozdzielić klocki – i tak jest niezmiennie od 1969 roku**
 - **Bezpieczeństwo – klocki i elementy w zestawach LEGO® DUPLO® są testowane na wszelkie sposoby, aby zapewnić, że każda zabawka spełnia surowe standardy bezpieczeństwa**
 
+**Galeria:**
+
+- 10990-1: https://a.allegroimg.com/original/112c30/64e56d62485a9f1093bfe3bb5e3a
+
 ---
 
-## 10992 — Lego Duplo 10992 Dzień Z Życia W Żłobku 2+ Nowy
+## 10992 — Dzień z życia w żłobku
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 225.00 zł · EAN: 05702017417707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10992 |
+| Nazwa angielska | Life At The Day-Care Center |
+| Nazwa polska | Dzień z życia w żłobku |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 19 cm |
+| EAN | 5702017417707 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -7665,11 +11569,27 @@ Podobnie jak wszystkie zabawki LEGO DUPLO, ten zestaw zawiera klocki w jaskrawyc
 - Jednolita jakość — zestawy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 - Gwarancja bezpieczeństwa — klocki i elementy LEGO® DUPLO® są badane i testowane na wszelkie możliwe sposoby, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 10992-1: https://a.allegroimg.com/original/113235/8662d249419780b1c6ea7da6a818
+
 ---
 
-## 10993 — Lego Duplo 10993 Domek na drzewie 3 w 1
+## 10993 — Domek na drzewie 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702017417714 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10993 |
+| Nazwa angielska | 3in1 Tree House |
+| Nazwa polska | Domek na drzewie 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 43 cm × szer. 54 cm × gł. 22 cm |
+| EAN | 5702017417714 |
 
 LEGO Duplo 10993 Domek na drzewie 3 w 1
  
@@ -7702,11 +11622,27 @@ Ten zestaw zawiera różnorodne postacie, w tym figurkę babci, czwórkę dzieci
 - Dzięki temu maluchy mogą z łatwością chwytać, układać i rozdzielać klocki – i tak jest niezmiennie od 1969 roku
 - Bezpieczna zabawa – klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów, co daje nam pewność, że każdy z nich spełnia rygorystyczne standardy bezpieczeństwa stawiane zabawkom
 
+**Galeria:**
+
+- 10993-1: https://a.allegroimg.com/original/291e2c/c04c5bac4212a4bcde75531982d7
+
 ---
 
-## 10994 — Lego Duplo Dom rodzinny 3 w 1 10994
+## 10994 — Dom rodzinny 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 484.69 zł · EAN: 05702017417776 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10994 |
+| Nazwa angielska | 3in1 Family House |
+| Nazwa polska | Dom rodzinny 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 218 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 35 cm × gł. 21 cm |
+| EAN | 5702017417776 |
 
 LEGO Duplo 10994 Dom rodzinny 3 w 1
 
@@ -7734,11 +11670,27 @@ Domek można zbudować na trzy sposoby, aby dać dzieciom różne możliwości z
 - Wysoka jakość — zestawy LEGO® DUPLO® spełniają rygorystyczne branżowe standardy jakości. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku 
 - W bezpiecznych rękach — klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa dzieci
 
+**Galeria:**
+
+- 10994-1: https://a.allegroimg.com/original/0541bc/b071f96e43bf8cd6595efd93ffef
+
 ---
 
-## 10995 — Lego 10995 Duplo Spider-Man zabawa w dom
+## 10995 — Spider-Man zabawa w dom
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 146.98 zł · EAN: 05702017417783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10995 |
+| Nazwa angielska | Spider-Man's House |
+| Nazwa polska | Spider-Man zabawa w dom |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702017417783 |
 
 LEGO 10995 Duplo Spider-Man  zabawa w dom
 
@@ -7770,11 +11722,27 @@ Zestawy LEGO DUPLO zachęcają przedszkolaków do nieograniczonej zabawy, wyraż
 - Instrukcje krok po kroku – ten zestaw obejmuje łatwe instrukcje obrazkowe i w wersji cyfrowej w aplikacji LEGO® Builder, dzięki czemu nawet nowi fani LEGO poradzą sobie z budowaniem
 - Nauka poprzez zabawę – wszystkie zestawy LEGO® DUPLO® Marvel są profesjonalnie zaprojektowane i zawierają kolorowe klocki przeznaczone dla najmłodszych oraz kreatywne funkcje, które zachęcają do swobodnej zabawy wspierającej rozwój dzieci
 
+**Galeria:**
+
+- 10995-1: https://a.allegroimg.com/original/110513/43b3775f43e8a9f394e0d1fa1153
+
 ---
 
-## 10996 — 10996 Lego Duplo Zygzak McQueen Złomek Myjnia Zestaw Dla Dzieci
+## 10996 — Zygzak McQueen i Złomek myjnia
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 310.72 zł · EAN: 05702017417790 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10996 |
+| Nazwa angielska | Lightning McQueen & Mater's Car Wash Fun |
+| Nazwa polska | Zygzak McQueen i Złomek myjnia |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm |
+| EAN | 5702017417790 |
 
 LEGO Duplo 10996 Zygzak McQueen i Złomek myjnia
 
@@ -7804,11 +11772,27 @@ Wszystkie zestawy konstrukcyjne LEGO DUPLO są profesjonalnie zaprojektowane i z
 
 Zygzaka McQueena, Złomka i myjnię samochodową. LEGO DUPLO to wspaniałe zabawki dostosowane do małych rączek, które rozwijają koordynację wzrokowo-ruchową. Zestaw zawiera ruchome ramię myjące i obrotowy stół tuningowy, gdzie można przeprowadzać naprawy kluczem. A gdy dzieci przyczepią Zygzaka McQueena do haka, Złomek może go holować. Dzieci mogą wymyślać własne historie ze znanymi postaciami z popularnego filmu.
 
+**Galeria:**
+
+- 10996-1: https://a.allegroimg.com/original/05ff44/36fad06f46a9ab0528a14a950ede
+
 ---
 
-## 10997 — Lego 10997 Duplo Kempingowa przygoda ----- Outlet
+## 10997 — Kemping z przygodami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 212.22 zł · EAN: 05702017417806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10997 |
+| Nazwa angielska | Camping Adventure |
+| Nazwa polska | Kemping z przygodami |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 23 cm × gł. 7 cm |
+| EAN | 5702017417806 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -7837,11 +11821,27 @@ maluchy rozwijają swoje umiejętności motoryczne. Odgrywanie scen rodzinnych p
 - Nauka przez zabawę — wszystkie zestawy LEGO® DUPLO® zostały zaprojektowane przez ekspertów i oferują ciekawe historie, atrakcyjne kolory, różnorodne postacie oraz mnóstwo detali, które wspierają rozwój dzieci podczas zabawy
 - Zestawy wysokiej jakości — elementy LEGO® DUPLO® spełniają surowe branżowe standardy. Dzięki temu maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki — i tak jest niezmiennie od 1969 roku
 
+**Galeria:**
+
+- 10997-1: https://a.allegroimg.com/original/2599e7/9d1d22dd406ea626d060787b9c9d
+
 ---
 
-## 10998 — Lego 10998 Duplo Magiczny zamek 3 w 1
+## 10998 — Magiczny zamek 3 w 1
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 784.70 zł · EAN: 05702017417431 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10998 |
+| Nazwa angielska | 3in1 Magical Castle |
+| Nazwa polska | Magiczny zamek 3 w 1 |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 52 cm × szer. 48 cm × gł. 19 cm |
+| EAN | 5702017417431 |
 
 Klocki LEGO Duplo 10998 - Magiczny zamek 3 w 1
 
@@ -7875,11 +11875,27 @@ Przedszkolaki uczą się wyrażania siebie, odgrywając role rozpoznawalnych pos
 - Dzięki temu maluchy mogą z łatwością chwytać, układać i rozdzielać klocki – i tak jest niezmiennie od 1969 roku 
 - Bezpieczna zabawa – klocki i elementy LEGO® DUPLO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów, co daje nam pewność, że każdy z nich spełnia rygorystyczne standardy bezpieczeństwa stawiane zabawkom
 
+**Galeria:**
+
+- 10998-1: https://a.allegroimg.com/original/0581b9/cd9a897d44e7a1f5cbd1ec5911d3
+
 ---
 
-## 2931 — Lego Duplo Ville 2931 Cyrk Pociąg Lokomotywa Słoń
+## 2931 — Cyrkowy Pociąg
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702012005756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2931 |
+| Nazwa angielska | Push Locomotive |
+| Nazwa polska | Cyrkowy Pociąg |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2000 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012005756 |
 
 LEGO DUPLO Ville 2931 Cyrkowy Pociąg
 
@@ -7891,11 +11907,27 @@ Zestaw nowy, fabrycznie zamknięty (opakowanie posiada niewielkie ślady przecho
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 2931-1: https://a.allegroimg.com/original/111bd7/32e361cf4be9bb664b8105e041fd
+
 ---
 
-## 30064 — Lego Duplo 30064 Zoo Random Bag
+## 30064 —  Zoo Random Bag
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 42.00 zł · EAN: 05702014865082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30064 |
+| Nazwa angielska | Zoo - Monkey |
+| Nazwa polska |  Zoo Random Bag |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014865082 |
 
 **Minizestaw LEGO Duplo 30064**
  
@@ -7923,11 +11955,27 @@ Pojedynczy zestaw zawiera jedną z czterech postaci + 3 klocki budowlane.
 - żółw 
 - małpka
 
+**Galeria:**
+
+- 30064-1: https://9.allegroimg.com/original/016d64/f6b37d144887b0ac8e96a1fbf9f9
+
 ---
 
-## 30066 — Lego Duplo 30066 Cyrk Polybag
+## 30066 — Duplo - Cyrk
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 16.17 zł · EAN: 05702014964006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30066 |
+| Nazwa angielska | Circus Clown |
+| Nazwa polska | Duplo - Cyrk |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014964006 |
 
 -
 
@@ -7939,11 +11987,27 @@ Klocki LEGO Duplo 30066 - Cyrk
 
 Zestaw LEGO Duplo - Cyrk trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 30066. Zawiera 3 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Duplo - Circus. Grupa wiekowa tego produktu to 2+.
 
+**Galeria:**
+
+- 30066-1: https://a.allegroimg.com/original/11d43a/f63391934564911c6c666e80fb15
+
 ---
 
-## 30217 — Lego 30217 Duplo Leśne zwierzęta
+## 30217 — Leśne zwierzęta
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702015357494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30217 |
+| Nazwa angielska | Forest - Squirrel |
+| Nazwa polska | Leśne zwierzęta |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357494 |
 
 LEGO 30217 Duplo - Leśne zwierzęta
  
@@ -7953,11 +12017,27 @@ Do wyboru są: sarenka, zajączek, wiewiórka lub niedźwiedź.
  
 W przypadku kupna, prosimy o wpisanie w komentarzu którą figurkę Państwo wybierają. Jeżeli nie będzie komentarza, wrzucimy losową.
 
+**Galeria:**
+
+- 30217-1: https://a.allegroimg.com/original/45122a/a60230ee4ef092a760b393cac839
+
 ---
 
-## 30218 — Lego Duplo 30218 lego 30218 duplo ślimak
+## 30218 — lego 30218 duplo ślimak
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 37.90 zł · EAN: 05702015357500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30218 |
+| Nazwa angielska | Snail |
+| Nazwa polska | lego 30218 duplo ślimak |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357500 |
 
 KLOCKI LEGO DUPLO 30218
 
@@ -7975,11 +12055,27 @@ Zbuduj kolorowego ślimaka LEGO® DUPLO® za pomocą pięciu klasycznych klockó
  
 **ILOŚĆ ELEMENTÓW: 6**
 
+**Galeria:**
+
+- 30218-1: https://5.allegroimg.com/original/01c70f/b31939a84d7faa0d0418381e36e5
+
 ---
 
-## 30324 — Lego Duplo Figurka Kobieta mama dziewczyna girl klocek zielony i kanapka
+## 30324 — Figurka + dwa klocki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 19.00 zł · EAN: 05702015877015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30324 |
+| Nazwa angielska | My Town: Female |
+| Nazwa polska | Figurka + dwa klocki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015877015 |
 
 **⭐ KLOCKI LEGO DUPLO**
 
@@ -7999,21 +12095,52 @@ Zbuduj kolorowego ślimaka LEGO® DUPLO® za pomocą pięciu klasycznych klockó
 
 **⛔ KLOCKI SĄ Z TEGO ZESTAWU: ⬇️**
 
+**Galeria:**
+
+- 30324-1: https://a.allegroimg.com/original/11bacf/b92a189a4dba8dffc45f8e698c37
+
 ---
 
-## 30327 — Lego Duplo Moje Pierwsze Klocki Kaczuszka 18m+ 30327
+## 30327 — brak informacji
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 9.90 zł · EAN: 05702016371963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30327 |
+| Nazwa angielska | My First Duck |
+| Nazwa polska | brak informacji |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2019 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371963 |
 
 **LEGO Duplo Moje Pierwsze Klocki Kaczuszka 18m+  30327**
 
 **Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymyślania.** Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu. Zestaw 30327 Moja pierwsza kaczuszka jest idealny, aby wprowadzić malucha w świat LEGO.
 
+**Galeria:**
+
+- 30327-1: https://a.allegroimg.com/original/11bebd/5753813e4f9297d16946f1fc017d
+
 ---
 
-## 30330 — Lego 30330 Duplo Tort Urodzinowy Polybag
+## 30330 — TORT URODZINOWY POLYBAG
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702016669411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30330 |
+| Nazwa angielska | Birthday Cake |
+| Nazwa polska | TORT URODZINOWY POLYBAG |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016669411 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -8037,11 +12164,27 @@ Zbuduj kolorowego ślimaka LEGO® DUPLO® za pomocą pięciu klasycznych klockó
 - **Ten mały zestaw z wielkimi klockami potrafi przynieść mnóstwo radości!**
 - **Produkty LEGO® DUPLO® są projektowane tak, by były interesujące i wygodne dla małych rączek.**
 
+**Galeria:**
+
+- 30330-1: https://a.allegroimg.com/original/1108cd/b334a10f43c4b35c8e2a66fa8e3c
+
 ---
 
-## 30332 — Lego Duplo 30332 Duplo Moja Pierwsza Rakieta Kosmiczna
+## 30332 — LEGO 30332 DUPLO MOJA PIERWSZA RAKIETA KOSMICZNA
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016911862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30332 |
+| Nazwa angielska | My First Space Rocket |
+| Nazwa polska | LEGO 30332 DUPLO MOJA PIERWSZA RAKIETA KOSMICZNA |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911862 |
 
 LEGO Duplo 30332 MOJA PIERWSZA RAKIETA KOSMICZNA ZESTAW KLOCKÓW
 
@@ -8064,11 +12207,27 @@ Podaruj swoim dzieciom niezapomniane chwile pełne kreatywnej zabawy z zestawem 
  
 ✅ Zamów Już Dziś i daj swojemu dziecku możliwość poznania świata liczb oraz budowania własnych, nieograniczonych konstrukcji. Z zestawem Lego Duplo, każdy dzień może być nową kosmiczną przygodą, pełną nauki i zabawy.
 
+**Galeria:**
+
+- 30332-1: https://a.allegroimg.com/original/118ae7/26c6ee964f67b03a7729cd2b8fed
+
 ---
 
-## 30333 — Lego Duplo 30333 Mój pierwszy słoń
+## 30333 — brak informacji
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 18.00 zł · EAN: 05702017154497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30333 |
+| Nazwa angielska | My First Elephant |
+| Nazwa polska | brak informacji |
+| Seria | DUPLO |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154497 |
 
 Klocki DUPLO 30333 Mój pierwszy słoń
  
@@ -8092,11 +12251,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
  
 W przypadku produktów posiadających różne wzory i kolory wybór jest losowy.
 
+**Galeria:**
+
+- 30333-1: https://a.allegroimg.com/original/11fac1/7eab1675470a879c168efdebf332
+
 ---
 
-## 30648 — Lego Duplo 30648 wieloryb
+## 30648 — wieloryb
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702017423951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30648 |
+| Nazwa angielska | Whale |
+| Nazwa polska | wieloryb |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423951 |
 
 **Przedmiotem sprzedaży jest: LEGO Duplo 30648 wieloryb**
 
@@ -8118,11 +12293,26 @@ Możesz też odwiedzić nas w punkcie sprzedaży:
 
 **Tylko 100% sprawdzony towar!** Na każdy zakup dajemy gwarancję!
 
+**Galeria:**
+
+- 30648-1: https://a.allegroimg.com/original/11a5f6/3df06ec04dc68a3e4b892fd3a6dd
+
 ---
 
-## 30673 — Lego(r) Duplo 30673 Moja Pierwsza Kaczuszka
+## 30673 — Moja pierwsza kaczuszka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 10.90 zł · EAN: 05702017590981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30673 |
+| Nazwa angielska | My First Duck |
+| Nazwa polska | Moja pierwsza kaczuszka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2024 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590981, 5702017774091 |
 
 LEGO(R) DUPLO 30673 Moja pierwsza kaczuszka
 
@@ -8132,11 +12322,27 @@ LEGO(R) DUPLO 30673 Moja pierwsza kaczuszka
 
 Małe dzieci, które uwielbiają zabawkowe zwierzątka, mogą budować i przebudowywać modele z tych kolorowych, łatwych w układaniu klocków LEGO(R) DUPLO(R), wymyślając różne historie z kaczuszką, która pływa, je i śpi.
 
+**Galeria:**
+
+- 30673-1: https://a.allegroimg.com/original/11c48c/76a8e0ea4e5681427b359993bf11
+- 30673-2: https://a.allegroimg.com/original/113b0b/ee2861114ef7b5a08bb015649f18
+
 ---
 
-## 30686 — Lego Duplo 30686 Mój pierwszy kwiatek i pszczoła Zestaw Klocków 7 Elementów
+## 30686 — Mój pierwszy kwiatek i pszczoła
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 14.20 zł · EAN: 05702017819174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30686 |
+| Nazwa angielska | My First Flower & Bee |
+| Nazwa polska | Mój pierwszy kwiatek i pszczoła |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819174 |
 
 **🚨 NAJWAŻNIEJSZE INFORMACJE O PRODUKCIE 🚨👶**
 
@@ -8169,11 +12375,26 @@ Małe dzieci, które uwielbiają zabawkowe zwierzątka, mogą budować i przebud
 
 🔥 Seria LEGO® DUPLO® to gwarancja najwyższej jakości, która przetrwa lata intensywnej zabawy! 💪✨ Nie zwlekaj, spraw swojemu maluszkowi ogromną radość i zainwestuj w jego zdrowy rozwój poprzez naukę i zabawę! 🚀 Wybierz sprawdzoną markę i kliknij, aby zamówić ten radosny, wiosenny zestaw już teraz! 🛒👇⚡
 
+**Galeria:**
+
+- 30686-1: https://a.allegroimg.com/original/051f0d/8abfbf5748cbad8f7d80c072b449
+
 ---
 
-## 30712 — Zestaw klocków Lego Duplo 30712 Tort na urodziny dla dziecka
+## 30712 — Tort
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 10.00 zł · EAN: 05702018058046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30712 |
+| Nazwa angielska | Celebration Cake |
+| Nazwa polska | Tort |
+| Seria | DUPLO |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058046 |
 
 W sprzedaży:
 
@@ -8183,11 +12404,27 @@ Zestaw klocków LEGO Duplo 30712 Tort super prezent na urodziny dla dziecka
 
 Pomóż maluchom nauczyć się rozpoznawać cyfry dzięki temu fajnemu tortowi urodzinowemu, który można przebudowywać. Maluchy w wieku powyżej 18 miesięcy wykorzystują swoje umiejętności, aby budować tort na wiele kreatywnych sposobów.
 
+**Galeria:**
+
+- 30712-1: https://a.allegroimg.com/original/11e727/3bfb079f45a7b8fb11a9e7826976
+
 ---
 
-## 3353 — Lego 5544 Duplo Tomek i przyjaciele zestaw startowy
+## 3353 — Tome i przyjaciele: Szymek i Gruby Zawiadowca
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702014500365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3353 |
+| Nazwa angielska | Spencer and Sir Topham Hatt |
+| Nazwa polska | Tome i przyjaciele: Szymek i Gruby Zawiadowca |
+| Seria | DUPLO |
+| Grupa wiekowa | 12 m + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500365 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8206,11 +12443,26 @@ Pomóż maluchom nauczyć się rozpoznawać cyfry dzięki temu fajnemu tortowi u
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 3353-1: https://a.allegroimg.com/original/117577/72f6c03d46e4a861f4526b9bb075
+
 ---
 
-## 3511 — Lego Duplo 3511 Zabawny krokodyl Unikat Z 2003 Roku!
+## 3511 — Zabawny krokodyl
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 175.00 zł · EAN: 00673419017916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3511 |
+| Nazwa angielska | Funny Crocodile (Explore) |
+| Nazwa polska | Zabawny krokodyl |
+| Seria | ZOO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2003 |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419017916 |
 
 Przedmiotem aukcji jest oryginalny **zestaw LEGO DUPLO - Zabawny krokodyl (nr 3511).**
 
@@ -8220,11 +12472,27 @@ Zestaw można dowolnie przebudować, co stwarza wiele możliwości zabawy i szyb
 
 **Polecam,  zestaw jest unikatowy i praktycznie nie do zdobycia - już od dawna niedostępny w sprzedaży.**
 
+**Galeria:**
+
+- 3511-1: https://a.allegroimg.com/original/11a284/eec0c93d4f6bbf888400071a16ed
+
 ---
 
-## 3595 — Lego Duplo 3595 Scoop at Bobland Bay Bob Budowniczy The Builder Unikat
+## 3595 — Scoop at Bobland Bay
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702014537279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3595 |
+| Nazwa angielska | Scoop at Bobland Bay |
+| Nazwa polska | Scoop at Bobland Bay |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014537279 |
 
 - **NOWY ZESTAW UNIKATOWY ORYGINALNIE ZAPAKOWANY**
 - **BOB THE BUILDER - BOB BUDOWNICZY.**
@@ -8232,11 +12500,26 @@ Zestaw można dowolnie przebudować, co stwarza wiele możliwości zabawy i szyb
 - **ZESTAW Z 2009 ROKU.**
 - **PUDEŁKO W SUPER STANIE - IDEALNY PREZENT**
 
+**Galeria:**
+
+- 3595-1: https://a.allegroimg.com/original/115216/b6e8426d473aba40e2b1fd6e6d64
+
 ---
 
-## 3613 — Lego Duplo Fire Rescue 3613
+## 3613 — Fire Rescue
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702014163386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3613 |
+| Nazwa angielska | Fire Rescue (Explore) |
+| Nazwa polska | Fire Rescue |
+| Seria | Straż i policja |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2002 |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014163386 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8255,11 +12538,27 @@ Zestaw można dowolnie przebudować, co stwarza wiele możliwości zabawy i szyb
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 3613-1: https://a.allegroimg.com/original/293e3d/429985c946de90a793f75e7b16c1
+
 ---
 
-## 40269 — Lego Duplo 40269 Photo Frame
+## 40269 — Photo Frame
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702015997089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40269 |
+| Nazwa angielska | Photo Frame |
+| Nazwa polska | Photo Frame |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015997089 |
 
 Witam
 
@@ -8277,11 +12576,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40269-1: https://a.allegroimg.com/original/11776f/8abbc85c4ec3a232858fff560e21
+
 ---
 
-## 40297 — Nowy Lego 40297 Lego House Duplo Red Bricks czerwone klocki misb 2017
+## 40297 — Lego House Duplo Red Bricks
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 44.60 zł · EAN: 05702016074758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40297 |
+| Nazwa angielska | LEGO House 6 Bricks (DUPLO) |
+| Nazwa polska | Lego House Duplo Red Bricks |
+| Seria | inna |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2017 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016074758 |
 
 Cześć!
 
@@ -8301,11 +12615,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 40297-1: https://a.allegroimg.com/original/11d1b2/2f62f5e14dc0b8f8f3fd7cdcf42a
+
 ---
 
-## 45005 — Lego Education Duplo Story Tales Opowieści 45005
+## 45005 — LEGO Education DUPLO Story Tales
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 890.00 zł · EAN: 00673419204651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45005 |
+| Nazwa angielska | StoryTales Set with Storage |
+| Nazwa polska | LEGO Education DUPLO Story Tales |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419204651 |
 
 **LEGO Education DUPLO Story Tales - Opowieści 45005**
 
@@ -8329,11 +12658,27 @@ Rozwiązanie to skupia się na kompleksowym rozwoju kompetencji językowych, wyo
 - materiały dla nauczycieli
 - scenariusze dostępne online
 
+**Galeria:**
+
+- 45005-1: https://a.allegroimg.com/original/115870/3796d90e498991348fbf3f42392f
+
 ---
 
-## 4624 — Lego 4624 Duplo Zielone pudełko z klockami
+## 4624 — Zielone pudełko z klockami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702014840225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4624 |
+| Nazwa angielska | Brick Box |
+| Nazwa polska | Zielone pudełko z klockami |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840225 |
 
 LEGO 4624 Duplo - Zielone pudełko z klockami
 
@@ -8346,11 +12691,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - Wzbogać kreatywną zabawę załączoną broszurą z pomysłami
 - Produkty DUPLO są bezpieczne i zabawne dla małych rączek
 
+**Galeria:**
+
+- 4624-1: https://a.allegroimg.com/original/117a08/56a8093546eb95dbcf462f1296e9
+
 ---
 
-## 4662 — Lego Duplo poczta 4662
+## 4662 — Poczta
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702014425125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4662 |
+| Nazwa angielska | Post Office |
+| Nazwa polska | Poczta |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014425125 |
 
 **Nowy, w pełni oryginalny produkt zapakowany w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
 
@@ -8367,11 +12728,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4662-1: https://a.allegroimg.com/original/111d2b/1a3ae148422cbf49132c0c3c99a9
+
 ---
 
-## 4664 — Lego Duplo 4664 straż pożarna
+## 4664 — straż pożarna
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702014425149 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4664 |
+| Nazwa angielska | Fire Station |
+| Nazwa polska | straż pożarna |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014425149 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8390,11 +12767,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4664-1: https://a.allegroimg.com/original/11c651/b87067744be78feefcea34be5765
+
 ---
 
-## 4960 — Lego Duplo 4960 Wielkie Zoo
+## 4960 — Wielkie ZOO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1289.00 zł · EAN: 05702014466425 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4960 |
+| Nazwa angielska | Giant Zoo |
+| Nazwa polska | Wielkie ZOO |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014466425 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8418,11 +12811,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4960-1: https://a.allegroimg.com/original/11cdd3/9fe0f4ed45cfa0edce009529647e
+
 ---
 
-## 5543 — Lego 5556 Duplo Tomek i przyjaciele Piotruś i wieża ciśnień
+## 5543 — LEGO Duplo 5543 - Tomek i przyjaciele: Piotruś w parowozowni
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014518742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5543 |
+| Nazwa angielska | Percy at the Sheds |
+| Nazwa polska | LEGO Duplo 5543 - Tomek i przyjaciele: Piotruś w parowozowni |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518742 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8441,11 +12850,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 5543-1: https://a.allegroimg.com/original/11118a/f918998f4b28907310163cff64c3
+
 ---
 
-## 5547 — Lego 5552 Duplo Tomek i przyjaciele Kuba na stacji Knapford
+## 5547 — Tomek i przyjaciele: Kuba i Gruby Zawiadowca
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014537422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5547 |
+| Nazwa angielska | James Celebrates Sodor Day |
+| Nazwa polska | Tomek i przyjaciele: Kuba i Gruby Zawiadowca |
+| Seria | DUPLO |
+| Grupa wiekowa | 12 m + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014537422 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8464,11 +12889,27 @@ Zbuduj fajne, zwierzęce konstrukcje z klockami LEGO® DUPLO®! Zainspiruj młod
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 5547-1: https://a.allegroimg.com/original/1163a5/72bc5bc24bdcb646ca654bc96e51
+
 ---
 
-## 5633 — Lego 5633 Duplo Polarne Zoo
+## 5633 — Polarne Zoo
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 399.99 zł · EAN: 00673419124508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5633 |
+| Nazwa angielska | Polar Zoo |
+| Nazwa polska | Polarne Zoo |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419124508 |
 
 LEGO 5633 Duplo - Polarne ZOO
 
@@ -8488,11 +12929,27 @@ Klocki mają rozmiar idealnie dopasowany do małych rączek!
 - Figurkę opiekuna zoo
 - Zjeżdżalnię/rynnę dla pingwinów
 
+**Galeria:**
+
+- 5633-1: https://a.allegroimg.com/original/116e32/d68577a44b86ac5ba8714c3aea22
+
 ---
 
-## 5638 — Lego 5638 Duplo Listonosz
+## 5638 — Listonosz
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702014537361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5638 |
+| Nazwa angielska | Postman |
+| Nazwa polska | Listonosz |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014537361 |
 
 LEGO 5638 Duplo - Listonosz
 
@@ -8502,11 +12959,27 @@ Zapracowany, sympatyczny listonosz jeździ na swoim motocyklu, roznosząc listy 
 
 **Zestaw zawiera:** skrzynkę pocztową, motocykl, figurkę listonosza, klocek-paczkę oraz kwiatek.
 
+**Galeria:**
+
+- 5638-1: https://a.allegroimg.com/original/111eb3/8bdbbcb14c80ba1141538df890d0
+
 ---
 
-## 5643 — Lego Duplo 5643 Mała Świnka Little Piggy Farma Nowy Zestaw Unikat
+## 5643 — Mała Świnka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702014600584 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5643 |
+| Nazwa angielska | Little Piggy |
+| Nazwa polska | Mała Świnka |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014600584 |
 
 - **ZESTAW NOWY ORYGINALNY LEGO.**
 - **UNIKAT DLA KOLEKCJONERA.**
@@ -8514,11 +12987,27 @@ Zapracowany, sympatyczny listonosz jeździ na swoim motocyklu, roznosząc listy 
 - **ZESTAW ORYGINALNIE ZAPAKOWANY - PUDEŁKO W STANIE IDEALNYM.**
 - **WYSYŁAM SOLIDNIE I BEZPIECZNIE ZAPAKOWANE.**
 
+**Galeria:**
+
+- 5643-1: https://a.allegroimg.com/original/112ec6/2b9a38254abeaca9e57a35528bbc
+
 ---
 
-## 5647 — Lego Duplo 5647 Duży Czerwony Traktor Piesek Rolnik Przyczepa Widły Farmer
+## 5647 — Duży Traktor
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702014600737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5647 |
+| Nazwa angielska | Big Tractor |
+| Nazwa polska | Duży Traktor |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014600737 |
 
 LEGO DUPLO 5647 Duży Traktor
 
@@ -8536,11 +13025,27 @@ Na farmie LEGO nadszedł czas żniw i rolnik jest zajęty pracami na polu. W tej
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5647-1: https://a.allegroimg.com/original/1124db/0740c3bf460ca8e9e759959a40d7
+
 ---
 
-## 5654 — Lego Duplo 5654 Wycieczka na Ryby Miś Łódka Namiot Wędka Niedźwiedź Ognisko
+## 5654 — Wycieczka na Ryby
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 269.99 zł · EAN: 05702014601192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5654 |
+| Nazwa angielska | Fishing Trip |
+| Nazwa polska | Wycieczka na Ryby |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601192 |
 
 LEGO DUPLO 5654 Wycieczka na Ryby
 
@@ -8560,11 +13065,27 @@ LEGO Duplo Wycieczka na ryby to nie tylko zabawka, to brama do świata pełnego 
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5654-1: https://a.allegroimg.com/original/11153c/ea5c35ff4ec082e4221147824442
+
 ---
 
-## 5656 — Lego Duplo 5656 Sklep ze Zwierzętami Zoologiczny Kotek Piesek Królik
+## 5656 — Sklep ze zwierzętami
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 394.99 zł · EAN: 05702014601215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5656 |
+| Nazwa angielska | Pet Shop |
+| Nazwa polska | Sklep ze zwierzętami |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601215 |
 
 LEGO DUPLO 5656 Sklep ze Zwierzętami
 
@@ -8582,11 +13103,27 @@ Zestaw zawiera figurki LEGO® DUPLO® sprzedawcy i dziewczynki oraz 3 zwierzątk
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5656-1: https://a.allegroimg.com/original/116617/2d84cf90465d9b076e657c77fb53
+
 ---
 
-## 5657 — Lego Duplo 5657 Jessie's Round-Up
+## 5657 — Jessie's Round-Up
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014601772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5657 |
+| Nazwa angielska | Jessie's Round-Up |
+| Nazwa polska | Jessie's Round-Up |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601772 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8610,11 +13147,27 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 5657-1: https://a.allegroimg.com/original/1166c7/745c91d3467fb093b5f00d0eddb6
+
 ---
 
-## 5682 — Lego Duplo 5682 Wóz strażacki
+## 5682 — LEGO 5682 - Wóz strażacki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 675.97 zł · EAN: 05702014734029 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5682 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | LEGO 5682 - Wóz strażacki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734029 |
 
 Klocki LEGO Duplo 5682 - Wóz strażacki
 
@@ -8651,11 +13204,27 @@ LEGO® 5682 Duplo - Wóz strażacki
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych powyżej w cm).**
 
+**Galeria:**
+
+- 5682-1: https://a.allegroimg.com/original/110217/ac0f46774d1295a5013ad09bbdce
+
 ---
 
-## 5696 — Lego Duplo 5696 Myjnia samochodowa
+## 5696 — Myjnia samochodowa
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014734074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5696 |
+| Nazwa angielska | Car Wash |
+| Nazwa polska | Myjnia samochodowa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734074 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8673,11 +13242,27 @@ LEGO® 5682 Duplo - Wóz strażacki
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 5696-1: https://a.allegroimg.com/original/1123db/2059ee4a4fd68731f6f0ebba27ab
+
 ---
 
-## 5818 — Lego Duplo 5818 Luigi i jego włoski dom.
+## 5818 — Luigi i jego włoski dom.
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702014734128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5818 |
+| Nazwa angielska | Luigi's Italian Place |
+| Nazwa polska | Luigi i jego włoski dom. |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734128 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8696,11 +13281,27 @@ LEGO® 5682 Duplo - Wóz strażacki
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 5818-1: https://a.allegroimg.com/original/11ae7f/6432b23740438cf1e78ee37ef387
+
 ---
 
-## 5945 — Lego Duplo 5945 Lego Duplo Piknik Kubusia 5945
+## 5945 — LEGO Duplo Piknik Kubusia 5945
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702014734180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5945 |
+| Nazwa angielska | Winnie the Pooh's Picnic |
+| Nazwa polska | LEGO Duplo Piknik Kubusia 5945 |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734180, 673419144469 |
 
 **LEGO DUPLO Kubuś Puchatek WINNIE THE POOH 5945**
  
@@ -8710,94 +13311,28 @@ Tym razem Kubuś wybrał się na piknik! Szukając miodu, aby uciszyć burczący
  
 Doskonała zabawa jest gwarantowana gdy układasz klocki z zestawu Piknik Kubusia od Lego Duplo.
 
----
+**Galeria:**
 
-## 60374 — Lego City 60374 Terenowy Pojazd Straży Pożarnej
-
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 302.49 zł · EAN: 00097898876558 · in stock*
-
-LEGO CITY 60374 TERENOWY POJAZD STRAŻY POŻARNEJ
-
-DOSKONAŁY POMYSŁ NA PREZENT
-
-WYSOKA JAKOŚĆ WYKONANIA
-
-⭐ S P E C Y F I K A C J E ⭐
-
-**❗LEGO CITY 60374 TERENOWY POJAZD STRAŻY POŻARNEJ****❗**
-
-- **Numer katalogowy: **60374
-- **Linia: **CITY
-- **Ilość elementów: **502 szt.
-- **Wiek:** 7+
-
-Wymiary:
-
-- **Wysokość:** 12 cm
-- **Długość:** 26 cm
-- **Szerokość:** 6 cm
-
-✔️PRODUKT NOWY NIEUŻYWANY FABRYCZNIE ZAPAKOWANY✔️
-
-⭐ NIEKOŃCZĄCA SIĘ ZABAWA ⭐
-
-**Rozpal pasję do zabawy w strażaków dzięki zestawowi LEGO® City Terenowy** pojazd straży pożarnej (60374). Ten wóz strażacki ma odczepiane centrum dowodzenia, drona strażackiego i drona lądowego.
-
-**✔------------------------------------------------✔**
-
-**Dzieci mogą wyrzucać z wozu i drona różne elementy, które imitują wodę i pianę gaśniczą.** Wystarczy tylko dodać scenerię leśną i miejską oraz trzy minifigurki, aby oddać się wielogodzinnej zabawie w strażaków!
-
-⭐ ZALETY PRODUKTU ⭐
-
-**✅Rozwijanie wyobraźni - **ten zestaw zachęca dzieci do tworzenia różnych sytuacji związanych z akcjami straży pożarnej. Dzieci mogą wymyślać scenariusze ratowania ludzi i zwierząt, co rozwija ich wyobraźnię i kreatywność.
-
-**✅Rozwój umiejętności manualnych - **montowanie pojazdu straży pożarnej i innych elementów zestawu wymaga precyzji i skupienia, co pomaga rozwijać umiejętności manualne i cierpliwość.
-
-⭐ DETALE POBUDZAJĄCE WYOBRAŹNIĘ ⭐
-
-**Wielofunkcyjny zestaw strażacki, zestaw LEGO® City Terenowy pojazd straży pożarnej (60374)** jest idealny dla dzieci, które uwielbiają pełną akcji zabawę.
-
-**✔------------------------------------------------✔**
-
-**W komplecie akcesoria dla minifigurek LEGO®, ten zestaw policyjny zawiera** sporo fajnych akcesoriów do pomysłowej zabawy, takich jak radio, topór, piła, klucz hakowy i kubek.
-
-⭐ JAKOŚĆ I BEZPIECZEŃSTWO⭐
-
-**✅ Wysokiej jakości materiały, klocki konstrukcyjne LEGO® powstają z wysokiej jakości materiałów.** Są spójne, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić i tak jest niezmiennie od 1958 roku
-
-**✅ Bezpieczeństwo przede wszystkim - **klocki i inne elementy zestawów LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
-
-⭐ KREATOWNOŚĆ I WYOBRAŹNIA ⭐
-
-**Dołącz do strażaków LEGO® City w ultranowoczesnym terenowym pojeździe**. Ma on wszystko, czego trzeba, by ratować innych! Skorzystaj z sikawki i drona, który wypuszcza elementy gaszące.Użyj dźwigu, by przesuwać ciężkie obiekty, a gdy zrobi się zbyt gorąco, wyślij drona lądowego z robotycznym ramieniem. Przygotuj się do akcji!
-
-⭐DBAŁOŚĆ O SZCZEGÓŁY⭐
-
-**Z zestawami LEGO City dzieci znajdą się w samym środku akcji. Pełne realistycznych pojazdów,** szczegółowych budynków i niezwykłych postaci zestawy zachęcają do pomysłowej, swobodnej zabawy i wymyślania własnych historii.
-
-⭐WIĘCEJ NIŻ KLOCKI ⭐
-
-**Szukasz prezentu dla dzieci?** Spraw, by urodziny, święta lub inne okazje były wyjątkowe dzięki temu zestawowi dla dzieci w wieku od siedem lat, które uwielbiają strażackie zestawy
-
-**✔------------------------------------------------✔**
-
-**Co jest w pudełku?** Wszystko, czego dzieci potrzebują, by zbudować wóz strażacki z dronem strażackim i lądowym, centrum dowodzenia, scenerią pożaru w lesie i w mieście, trzema minifigurkami i figurką królika
-
-⭐NIESAMOWITE DODATKI ⭐
-
-**Zestaw zawiera ilustrowane instrukcje i aplikację LEGO Builder, cyfrowe narzędzie** do przybliżania i obracania modelu pomaga dzieciom zwizualizować każdy model ze wszystkich perspektyw podczas budowania.
-
-**✔------------------------------------------------✔**
-
-**Zgodność z innymi zestawami, możliwość łączenia zestawu z innymi zestawami** LEGO City pozwala na tworzenie większych i bardziej rozbudowanych scenariuszy.
-
-❗SERDECZNIE ZAPRASZAM DO ZAKUPU❗
+- 5945-1: https://a.allegroimg.com/original/116cce/98f631ad4d99acc2e59d4caa8884
+- 5945-2: https://a.allegroimg.com/original/114962/560c2f46423bab0b01adb6599b72
 
 ---
 
-## 6138 — Lego Duplo 6138 Moja pierwsza straż pożarna
+## 6138 — Moja pierwsza straż pożarna
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702014794436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6138 |
+| Nazwa angielska | My First Fire Station |
+| Nazwa polska | Moja pierwsza straż pożarna |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 60 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014794436 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8816,11 +13351,27 @@ Wymiary:
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 6138-1: https://a.allegroimg.com/original/117dd7/222fd4164d9dbaeb2dc43ddcf062
+
 ---
 
-## 6152 — Lego Duplo 6152 Disney Princess Chatka Królewny Śnieżki Królik Okno Drzewo
+## 6152 — Chatka Królewny Śnieżki
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702014832770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6152 |
+| Nazwa angielska | Snow White's Cottage |
+| Nazwa polska | Chatka Królewny Śnieżki |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014832770 |
 
 LEGO DUPLO 6152 Chatka Królewny Śnieżki
 
@@ -8839,11 +13390,27 @@ Królewna Śnieżka spędza dzień w małym leśnym domku. Uwielbia słuchać ś
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 6152-1: https://a.allegroimg.com/original/11e757/e48bd0c84b4fbbffad484dbe58b2
+
 ---
 
-## 6153 — Lego Duplo 6153 Kareta Kopciuszka Magia Disneya unikat 2012 rok
+## 6153 — kareta Kopciuszka
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 459.00 zł · EAN: 05702014832817 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6153 |
+| Nazwa angielska | Cinderella's Carriage |
+| Nazwa polska | kareta Kopciuszka |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014832817 |
 
 LEGO DUPLO 6153 Kareta Kopciuszka – Magia Disneya dla Najmłodszych
 
@@ -8865,11 +13432,27 @@ Zapraszamy do zakupu wyjątkowego zestawu **LEGO DUPLO 6153 Kareta Kopciuszka**.
 - **Bezpieczeństwo i rozwój:** Duże klocki DUPLO są idealnie dopasowane do małych rączek, co gwarantuje w pełni bezpieczną zabawę i świetnie wspiera rozwój motoryki małej.
 - **Kopciuszek gotowy na bal:** Figurka posiada piękną, zdejmowaną spódniczkę, co urozmaica odgrywanie bajkowych scenek.
 
+**Galeria:**
+
+- 6153-1: https://a.allegroimg.com/original/11d4fd/a94276de4834a5a4c4c12ecba989
+
 ---
 
-## 6157 — Lego 4663 Duplo Zoo
+## 6157 — ZOO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702014833760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6157 |
+| Nazwa angielska | The Big Zoo |
+| Nazwa polska | ZOO |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014833760 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -8888,11 +13471,27 @@ Zapraszamy do zakupu wyjątkowego zestawu **LEGO DUPLO 6153 Kareta Kopciuszka**.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 6157-1: https://a.allegroimg.com/original/11357d/c41e37474db3b56247d6387577ad
+
 ---
 
-## 6158 — Lego Duplo 6158 Szpital dla zwierząt
+## 6158 — LEGO Duplo 6158 - Szpital dla zwierząt
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 927.97 zł · EAN: 05702014834071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6158 |
+| Nazwa angielska | Animal Clinic |
+| Nazwa polska | LEGO Duplo 6158 - Szpital dla zwierząt |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014834071 |
 
 LEGO Duplo 6158 - Szpital dla zwierząt
 
@@ -8926,11 +13525,27 @@ Zestaw LEGO Duplo - Szpital dla zwierząt trafił do sprzedaży w 2012 roku. Num
 
 **Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 6158-1: https://a.allegroimg.com/original/1127df/7da4d4034dee95e1e310bbfcddf2
+
 ---
 
-## 6169 — Lego Duplo 6169 Duplo unikat 2012 rok cenówki
+## 6169 — DUPLO
 
-*Kategoria: DUPLO · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702014834606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6169 |
+| Nazwa angielska | Fire Chief |
+| Nazwa polska | DUPLO |
+| Seria | DUPLO |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014834606 |
 
 Na kartoniku pozostałości cenówek oraz delikatne wgniotki
 
@@ -8947,6 +13562,10 @@ LEGO DUPLO 6169
 Dowódca straży pożarnej Duplo 6169 skutecznie ugasi każdy pożar. 6 elementów można dowolnie łączyć z innymi zestawami klocków Lego. Czerwony wóz strażacki pozwoli dotrzeć na czas każdemu małemu bohaterowi.
 
 19 cm * 14 cm * 7 cm *
+
+**Galeria:**
+
+- 6169-1: https://a.allegroimg.com/original/11e563/9c1f53a0499bb7bcb56f6d900029
 
 ---
 

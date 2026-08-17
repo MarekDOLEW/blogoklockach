@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pokémon — opisy produktowe (19 pozycji)
 
-## 40911 — Klocki Lego Pokemon 40911 Małe Centrum Pokémonów
+## 40911 — Małe Centrum Pokémonów
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 178.87 zł · EAN: 05702018071649 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40911 |
+| Nazwa angielska | Mini Pokémon Center |
+| Nazwa polska | Małe Centrum Pokémonów |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 8 cm |
+| EAN | 5702018071649 |
 
 **LEGO 40911 Małe Centrum Pokémonów**
  
@@ -29,11 +39,26 @@ Czas dać odpocząć swoim pokémonom. Odtwórz kultową scenę z gier wideo dzi
  
 Nowy, oryginalnie zapakowany.
 
+**Galeria:**
+
+- 40911-1: https://a.allegroimg.com/original/110294/dd3df85946dc91ad9b5521ab1cd9
+
 ---
 
-## 72150 — Lego Pokémon Munchlax 72150
+## 72150 — Munchlax
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702018069257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72150 |
+| Nazwa angielska | Munchlax |
+| Nazwa polska | Munchlax |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 757 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069257 |
 
 Opis LEGO Pokmon Munchlax 72150
 
@@ -41,11 +66,26 @@ Rozpal swoją pasję do Pokmonów i przeżyj na nowo trenerskie przygody dzięki
 
 Model żarłocznego Munchlaxa ma okrągłe, turkusowe ciało, kremową plamkę na tułowiu i szerokie usta, które zawsze są gotowe na przekąskę. Dzięki ruchomym ramionom i nogom oraz obrotowej głowie figurkę można ustawiać w rozmaitych kreatywnych pozach. Podziwiaj, jak zadowolony Munchlax robi to, co uwielbia: zajada przekąski! Figurka siedzi na pniu drzewa z jabłkiem i dwoma ogryzkami. Podaruj dorosłym fanom Pokmonów ten prezent na urodziny, święta lub inną okazję. Dodatkową frajdę zapewni aplikacja LEGO Builder, która pozwala powiększać, obracać model w 3D, śledzić postępy i korzystać z cyfrowych instrukcji. Zestaw składa się z 757 elementów.
 
+**Galeria:**
+
+- 72150-1: https://a.allegroimg.com/original/11b9a8/248fab464893b22742ed28bcecf0
+
 ---
 
-## 72151 — Lego Pokémon 72151 Eevee
+## 72151 — Pokemon
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 184.44 zł · EAN: 05702018069264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72151 |
+| Nazwa angielska | Eevee |
+| Nazwa polska | Pokemon |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 587 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018069264 |
 
 Przenieś swoje trenerskie przygody z ekranu do prawdziwego świata dzięki zestawowi konstrukcyjnemu LEGO® Pokémon™ Eevee (72151) dla dorosłych. Ten gadżet dla dorosłych fanów gier wideo pozwala im powrócić do chwil spędzonych jako trener pokémonów.To także uroczy dodatek do każdego pokoju. Ta figurka Eevee jest natychmiast rozpoznawalna dzięki swojemu uroczemu pyszczkowi, wesołemu ogonkowi i uszom. Kończyny i głowa tej figurki LEGO Pokémon™ typu normalnego są ruchome, a ogon można ustawić pod wy branym kątem Można ustawić ją w autentycznych pozycjach, dzięki czemu Eevee wygląda, jakby był w ruchu i gotowy do działania. Nawet jego uszy można ustawić wedle uznania, co dodaje uroku tej fajnej ozdobie. Buduj razem z przyjaciółmi i rodziną, korzystając z funkcji „Wspólne budowanie” w aplikacji LEGO® Builder. Oznacza to, że jest to idealny zestaw LEGO dla par lub fanów pokémonów, ponieważ każdy może zbudować część tego zestawu przy użyciu własnego urządzenia. Zestaw składa się z 587 elementów.
 
@@ -61,11 +101,26 @@ Przenieś swoje trenerskie przygody z ekranu do prawdziwego świata dzięki zest
 - Buduj razem ze znajomymi i rodziną — współpracuj i dziel się zabawą podczas budowania tego świątecznego zestawu LEGO®, korzystając z funkcji Wspólne budowanie w aplikacji LEGO Builder 
 - Wymiary — figurkapokémona do zbudowania w tym 587-elementowym zestawie ma 19 cm wysokości
 
+**Galeria:**
+
+- 72151-1: https://a.allegroimg.com/original/11cba1/637a09ec4d99b8603ffb9a6556ea
+
 ---
 
-## 72152 — Klocki Lego 72152 Pikachu i Pokéball Pokémon
+## 72152 — LEGO 72152 Pokemon - Pikachu i Pokéball
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 594.99 zł · EAN: 05702018069271 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72152 |
+| Nazwa angielska | Pikachu and Poké Ball |
+| Nazwa polska | LEGO 72152 Pokemon - Pikachu i Pokéball |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2050 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 35 cm × szer. 26 cm × gł. 39 cm |
+| EAN | 5702018069271 |
 
 Przeżyj ponownie emocje towarzyszące trenerowi dzięki zestawowi konstrukcyjnemu Pikachu i Pokéball (72152). Zbuduj ozdobę do pokoju gier i poczuj emocje towarzyszące pierwszej walce z tym uroczym pokémonem u boku. Ten szczegółowy zestaw LEGO® składający się z 2050 elementów to idealny prezent dla dorosłych miłośników uroczych akcesoriów i gadżetów z gier wideo oraz Pokémonów. Kolorowa dekoracja pokoju gier — żółty model Pikachu z czarnymi końcówkami uszu, czerwonymi policzkami i ogonem, który można zbudować tak, aby przedstawiał wersję męską lub żeńską. Inne charakterystyczne detale to iskry błyskawic symbolizujące zapasy energii tego elektrycznego pokémona oraz cyfra „25” umieszczona na podstawie ekspozycyjnej, nawiązująca do numeru Pikachu w Pokédexie. Ruchomą figurkę można ustawić w dynamicznej pozycji bojowej, gdy wyskakuje z otwartego pokéballa, którego można też zamknąć, gdy figurka Pikachu relaksuje się obok. Dzięki aplikacji LEGO Builder możesz cieszyć się jeszcze ciekawszymbudowaniem, powiększaniem i obracaniem elementów przy użyciu instrukcji, a także zapisywać i śledzić swoje postępy.
 
@@ -81,11 +136,26 @@ Przeżyj ponownie emocje towarzyszące trenerowi dzięki zestawowi konstrukcyjne
 - Powiększ kolekcję — dzięki aplikacji LEGO® Builder możesz budować modele, korzystając z instrukcji 3D, śledzić swoje postępy i zapisywać wszystkie zestawy w aplikacji 
 - Wymiary — ten 2050-elementowy zestaw z Pikachu, zawierający figurkę pokémona z podstawką, ma 35 cm wysokości, 26 cm szerokości i 39 cm głębokości
 
+**Galeria:**
+
+- 72152-1: https://a.allegroimg.com/original/11865d/f22a26a84c22aa61649ad4a83f1b
+
 ---
 
-## 72153 — Lego 72153 Pokémon Venusaur, Charizard i Blastoise
+## 72153 — Pokemon - Venusaur, Charizard i Blastoise
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 2799.99 zł · EAN: 05702018069288 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72153 |
+| Nazwa angielska | Venusaur, Charizard and Blastoise |
+| Nazwa polska | Pokemon - Venusaur, Charizard i Blastoise |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 6838 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018069288 |
 
 LEGO 72153 Pokémon Venusaur, Charizard i Blastoise
 
@@ -129,11 +199,26 @@ Ten zestaw konstrukcyjny należy do serii zestawów LEGO dla dorosłych (zestawy
 - **Zawiera akumulator/baterię:** Nie 
 - **Zdalnie sterowany:** Nie
 
+**Galeria:**
+
+- 72153-1: https://a.allegroimg.com/original/1188c8/bb7f223a48c0ae70049c9f24ae78
+
 ---
 
-## 72155 — Lego Pokemon 72155 Smart Play: Bulbasaur i Bidoof z krzewem jagody
+## 72155 — SMART Play: Bulbasaur i Bidoof z krzewem jagody
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 73.99 zł · EAN: 05702018067536 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72155 |
+| Nazwa angielska | Berry Bash with Bulbasaur and Bidoof |
+| Nazwa polska | SMART Play: Bulbasaur i Bidoof z krzewem jagody |
+| Seria | Pokémon |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 240 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 4 cm × gł. 7 cm |
+| EAN | 5702018067536 |
 
 LEGO Pokemon 72155 SMART Play: Bulbasaur i Bidoof z krzewem jagody
 
@@ -176,11 +261,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy.
 
+**Galeria:**
+
+- 72155-1: https://a.allegroimg.com/original/11280e/27071b4540e6bc825f4628a992bf
+
 ---
 
-## 72156 — Lego Pokémon Smart Play: Przygoda Trenera ze Squirtle i pojazdem 72156
+## 72156 — SMART Play: zestaw startowy
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 108.99 zł · EAN: 05702018067987 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72156 |
+| Nazwa angielska | Trainer's Buggy Adventure with Squirtle |
+| Nazwa polska | SMART Play: zestaw startowy |
+| Seria | SMART Play |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 320 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067987 |
 
 **LEGO Pokémon SMART Play: Przygoda Trenera ze Squirtle i pojazdem terenowym 72156**
 
@@ -220,11 +320,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko.
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy.
 
+**Galeria:**
+
+- 72156-1: https://a.allegroimg.com/original/11a08f/7f1b808746dfa7184856530d5c20
+
 ---
 
-## 72157 — Lego Pokemon 72157 Smart Play: Charmander i Geodude starcie w jaskini
+## 72157 — SMART Play: Charmander i Geodude — starcie w jaskini
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 73.99 zł · EAN: 05702018068038 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72157 |
+| Nazwa angielska | Charmander and Geodude's Cavern Clash |
+| Nazwa polska | SMART Play: Charmander i Geodude — starcie w jaskini |
+| Seria | SMART Play |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 198 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm × gł. 7 cm |
+| EAN | 5702018068038 |
 
 LEGO Pokemon 72157 SMART Play: Charmander i Geodude - starcie w jaskini
 
@@ -265,21 +380,51 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72157-1: https://a.allegroimg.com/original/115a80/9fb8471c4508b67c3c544cb255f3
+
 ---
 
-## 72158 — Lego 72158 Pokemon Smart Play: Sprigatito, Fuecoco i Quaxly bitwa
+## 72158 — SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 130.99 zł · EAN: 05702018068120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72158 |
+| Nazwa angielska | Sprigatito, Fuecoco and Quaxly Battle |
+| Nazwa polska | SMART Play: Sprigatito, Fuecoco i Quaxly — bitwa |
+| Seria | SMART Play |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 313 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068120, 673419424844 |
 
 Klocki LEGO Pokemon 72158 - SMART Play™: Sprigatito, Fuecoco i Quaxly - bitwa
  
 Zakręć kołem, aby rozpocząć pojedynek LEGO® Pokémon™ z zestawem SMART Play™: Sprigatito, Fuecoco i Quaxly — bitwa (72158). Ta zabawka konstrukcyjna zawiera trzy pierwsze partnerskie Pokémony z regionu Paldea, z którymi dzieci mogą rozgrywać pojedynki, by wyłonić zwycięzcę. Zestaw ma też ruchome elementy i wiernie odwzorowane detale, w tym Pokéball, gotowe do walki Pokémony i akcesoria, które zachęcają do realistycznej zabawy w odgrywanie ról. Każda z figurek LEGO® Pokémonów Sprigatito, Fuecocoi Quaxly zawiera SMART Tag. SMART klocki (dostępne w zestawach Wszystko w jednym, które są sprzedawane oddzielnie) ożywiają przygody Trenera Pokémonów, oferując nieograniczone możliwości interaktywnej zabawy. Dzięki nim Pokémony i inne elementy zestawu reagują dźwiękami, światłami i innymi efektami, gdy dzieci poruszają figurkami. Zabierz fanów Pokémonów w wieku od 8 lat do świata nieograniczonej zabawy! Ten zestaw to pomysł na prezent na urodziny, święta lub z dowolnej innej okazji. Zestaw składa się z 313 elementów.
 
+**Galeria:**
+
+- 72158-1: https://a.allegroimg.com/original/118335/25a6a9ed499e85c9bf63f26f263a
+
 ---
 
-## 72159 — Lego Pokemon 72159 Smart Play: Jigglypuff i koncert
+## 72159 — SMART Play: Jigglypuff i koncert
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 53.99 zł · EAN: 05702018068137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72159 |
+| Nazwa angielska | Jigglypuff Concert |
+| Nazwa polska | SMART Play: Jigglypuff i koncert |
+| Seria | SMART Play |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 88 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm × gł. 5 cm |
+| EAN | 5702018068137 |
 
 LEGO Pokemon 72159 SMART Play: Jigglypuff i koncert
 
@@ -319,11 +464,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72159-1: https://a.allegroimg.com/original/118533/e093036842348f62437f1ea0569a
+
 ---
 
-## 72160 — Lego Pokémon Arcanine 72160
+## 72160 — Arcanine
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 315.15 zł · EAN: 05702018068144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72160 |
+| Nazwa angielska | Arcanine |
+| Nazwa polska | Arcanine |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1190 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068144 |
 
 **LEGO Pokémon Arcanine 72160**
 
@@ -347,11 +507,26 @@ Zestawy LEGO® Pokémon™ dla dorosłych są owocem współpracy dwóch uwielbi
 
 Model w tym 1190-elementowym zestawie ma 17 cm wysokości
 
+**Galeria:**
+
+- 72160-1: https://a.allegroimg.com/original/11ad1b/480d0bd34dffb1a6b48e3b93360f
+
 ---
 
-## 72161 — Lego Pokemon 72161 Smart Play: Poszukiwania Mitycznego Mew za pomocą drona
+## 72161 — SMART Play: Poszukiwania Mitycznego Mew za pomocą drona
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702018068168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72161 |
+| Nazwa angielska | Drone Search for Mythical Mew |
+| Nazwa polska | SMART Play: Poszukiwania Mitycznego Mew za pomocą drona |
+| Seria | SMART Play |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 429 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702018068168 |
 
 LEGO Pokemon 72161 SMART Play: Poszukiwania Mitycznego Mew za pomocą drona
 
@@ -394,11 +569,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72161-1: https://a.allegroimg.com/original/11a61a/e092e71f413ab0cec242e6bcddb0
+
 ---
 
-## 72162 — Lego Pokemon 72162 Smart Play: Eevee i Lapras poszukiwanie skarbów
+## 72162 — SMART Play: Eevee i Lapras — poszukiwanie skarbów
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 244.89 zł · EAN: 05702018067925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72162 |
+| Nazwa angielska | Eevee and Lapras's Treasure Hunt |
+| Nazwa polska | SMART Play: Eevee i Lapras — poszukiwanie skarbów |
+| Seria | SMART Play |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 623 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702018067925 |
 
 LEGO Pokemon 72162 SMART Play: Eevee i Lapras - poszukiwanie skarbów
 
@@ -439,11 +629,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72162-1: https://a.allegroimg.com/original/11e7ef/ef1f6a304248b281782a76533779
+
 ---
 
-## 72163 — Lego Pokemon 72163 Smart Play: Ucieczka z laboratorium Mewtwo
+## 72163 — SMART Play: Ucieczka z laboratorium Mewtwo
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 258.55 zł · EAN: 05702018067963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72163 |
+| Nazwa angielska | Mewtwo's Lab Break |
+| Nazwa polska | SMART Play: Ucieczka z laboratorium Mewtwo |
+| Seria | SMART Play |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 605 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067963 |
 
 LEGO Pokemon 72163 SMART Play: Ucieczka z laboratorium Mewtwo
 
@@ -484,11 +689,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko. 
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72163-1: https://a.allegroimg.com/original/1185ad/80fc470d439f829ab78b5e6099a1
+
 ---
 
-## 72164 — Lego Pokemon 72164 Smart Play: Dom treningowy z Pikachu
+## 72164 — SMART Play: Dom treningowy z Pikachu
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702018068199 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72164 |
+| Nazwa angielska | Training House with Pikachu |
+| Nazwa polska | SMART Play: Dom treningowy z Pikachu |
+| Seria | SMART Play |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 400 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 27 cm × gł. 11 cm |
+| EAN | 5702018068199 |
 
 LEGO Pokemon 72164 SMART Play: Dom treningowy z Pikachu
  
@@ -522,11 +742,26 @@ Zestaw Smart Play Wszystko w jednym zawiera następujące elementy:
 - 1 x SMART ładowarka 
 - 4 x SMART Tagi
 
+**Galeria:**
+
+- 72164-1: https://a.allegroimg.com/original/1115df/738b82fa4ca1a9abdab3bcc3c669
+
 ---
 
-## 72165 — Lego Pokémon Smart Play: Umbreon kontra Garchomp walka o mistrzostwo 72165
+## 72165 — SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 299.47 zł · EAN: 05702018068274 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72165 |
+| Nazwa angielska | Umbreon vs. Garchomp Championship Battle |
+| Nazwa polska | SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo |
+| Seria | SMART Play |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 831 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068274 |
 
 **LEGO Pokémon SMART Play: Umbreon kontra Garchomp — walka o mistrzostwo 72165**
 
@@ -566,11 +801,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko.
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72165-1: https://a.allegroimg.com/original/11c15a/d4f2a9ca49c39257a60bdb87b655
+
 ---
 
-## 72166 — Lego Pokémon Smart Play: Cubone i Gengar upiorne starcie 72166
+## 72166 — SMART Play: Cubone i Gengar — upiorne starcie
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 364.92 zł · EAN: 05702018068236 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72166 |
+| Nazwa angielska | Cubone and Gengar's Spooky Showdown |
+| Nazwa polska | SMART Play: Cubone i Gengar — upiorne starcie |
+| Seria | SMART Play |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 782 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068236 |
 
 **LEGO Pokémon SMART Play: Cubone i Gengar — upiorne starcie 72166**
 
@@ -610,11 +860,26 @@ Czego nie ma w zestawie:
 - SMART klocka - rozpoznają SMART minifigurki, SMART Tagi, ruch i nie tylko.
 - SMART ładowarki - ładuj SMART klocki w miarę potrzeb, by nie przerywać zabawy
 
+**Galeria:**
+
+- 72166-1: https://a.allegroimg.com/original/11d6f0/8079c39e4df499ccc3301756f1e3
+
 ---
 
-## 72167 — Lego Pokémon Smart Play: Charizard kontra Jolteon ostateczna bitwa 72167
+## 72167 — SMART Play: Charizard kontra Jolteon — ostateczna bitwa
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 449.98 zł · EAN: 05702018068250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72167 |
+| Nazwa angielska | Charizard vs. Jolteon Ultimate Battle |
+| Nazwa polska | SMART Play: Charizard kontra Jolteon — ostateczna bitwa |
+| Seria | SMART Play |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 751 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068250 |
 
 **LEGO Pokémon SMART Play: Charizard kontra Jolteon — ostateczna bitwa 72167**
 
@@ -651,11 +916,26 @@ Zestaw Smart Play Wszystko w jednym zawiera następujące elementy:
 - 1 x SMART ładowarka
 - 4 x SMART Tagi
 
+**Galeria:**
+
+- 72167-1: https://a.allegroimg.com/original/1147cd/f2fc6caf4b959694d6607a8b3d07
+
 ---
 
-## 72168 — Lego Pokémon Rayquaza 72168
+## 72168 — Rayquaza
 
-*Kategoria: Pokémon · cena Allegro (2026-08-17): 422.63 zł · EAN: 05702018068380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 72168 |
+| Nazwa angielska | Rayquaza |
+| Nazwa polska | Rayquaza |
+| Seria | Pokémon |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1183 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018068380 |
 
 **LEGO Pokémon Rayquaza 72168**
 
@@ -678,6 +958,10 @@ Pobierz aplikację LEGO® Builder, w której znajdziesz interaktywne instrukcje 
 Zestawy LEGO® Pokémon™ dla dorosłych są owocem współpracy dwóch uwielbianych marek
 
 Model w tym 1093-elementowym zestawie ma 38 cm wysokości
+
+**Galeria:**
+
+- 72168-1: https://a.allegroimg.com/original/117fe8/8dc92e0e4975b5218c04e5471462
 
 ---
 

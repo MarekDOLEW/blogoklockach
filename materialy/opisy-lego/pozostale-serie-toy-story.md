@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Toy Story — opisy produktowe (9 pozycji)
 
-## 10766 — Lego Toy Story 10766 Chudy i Pan Sterowany
+## 10766 — Chudy i Pan Sterowany
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 84.90 zł · EAN: 05702016367713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10766 |
+| Nazwa angielska | Woody & RC |
+| Nazwa polska | Chudy i Pan Sterowany |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016367713 |
 
 LEGO 10766 TOY STORY 4 - Chudy i Pan Sterowany
 
@@ -43,11 +54,27 @@ LEGO 10766 TOY STORY 4 - Chudy i Pan Sterowany
  
 **• Pan Sterowany ma ok. 6 cm wysokości, 9 cm długości i 6 cm szerokości.**
 
+**Galeria:**
+
+- 10766-1: https://a.allegroimg.com/original/11bb26/e787e4c54515813bc41fdb090560
+
 ---
 
-## 10767 — Lego Toy Story 10767 Pokaz kaskaderski Diuka Kabum
+## 10767 — LEGO Toy Story 10767 - Pokaz kaskaderski Diuka Kabum
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 128.88 zł · EAN: 05702016367720 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10767 |
+| Nazwa angielska | Duke Caboom's Stunt Show |
+| Nazwa polska | LEGO Toy Story 10767 - Pokaz kaskaderski Diuka Kabum |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702016367720 |
 
 Klocki LEGO Toy Story 10767 - Pokaz kaskaderski Diuka Kabum
 
@@ -70,11 +97,27 @@ Twój maluch pokocha smak przygody i mocnych wrażeń z zestawu LEGO® 4+ 10767 
 
 Zestaw LEGO Toy Story - Pokaz kaskaderski Diuka Kabum trafił do sprzedaży w 2019 roku. Numer katalogowy tego zestawu to 10767. Zawiera 120 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Toy Story - Duke Caboom's Stunt Show. Grupa wiekowa tego produktu to 4+.
 
+**Galeria:**
+
+- 10767-1: https://a.allegroimg.com/original/114481/00c138e84922ad59a3895828bc42
+
 ---
 
-## 10768 — Lego Toy Story 10768 Przygoda Buzza i Bou na placu zabaw
+## 10768 — Przygoda Buzza i Bou na placu zabaw
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 267.00 zł · EAN: 05702016367737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10768 |
+| Nazwa angielska | Buzz and Bo Peep's Playground Adventure |
+| Nazwa polska | Przygoda Buzza i Bou na placu zabaw |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 25 cm × gł. 12 cm |
+| EAN | 5702016367737 |
 
 LEGO Toy Story 4
  
@@ -100,11 +143,27 @@ Cechy zestawu:
 - Karuzela ma ok. 6 cm szerokości i 7 cm głębokości. 
 - Skunksomobil ma ok. 14 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 10768-1: https://a.allegroimg.com/original/051a6b/f1e181a846bdb942cdc0786e02fe
+
 ---
 
-## 10770 — Lego Toy Story 10770
+## 10770 — 10770
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702016367751 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10770 |
+| Nazwa angielska | Buzz & Woody's Carnival Mania! |
+| Nazwa polska | 10770 |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367751 |
 
 LEGO Toy Story 4 10770 Karnawałowe szaleństwo
 
@@ -118,11 +177,27 @@ LEGO Toy Story 4 10770 Karnawałowe szaleństwo
 - **Liczba elementów:** 230 
 - **Indeks:** 10770
 
+**Galeria:**
+
+- 10770-1: https://a.allegroimg.com/original/117d2a/691f109c4afbac7548065b623ecb
+
 ---
 
-## 10771 — Lego Toy Story 10771 Karnawałowa kolejka
+## 10771 — Karnawałowa kolejka
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 179.89 zł · EAN: 05702016477863 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10771 |
+| Nazwa angielska | Carnival Thrill Coaster |
+| Nazwa polska | Karnawałowa kolejka |
+| Seria | Disney |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016477863 |
 
 LEGO TOY STORY 4KARNAWAŁOWA KOLEJKA 10771
 
@@ -149,11 +224,26 @@ Wsiadaj do wagonika i zapinaj pasy — czas na niezapomnianą przejażdżkę kol
 - **Waga jednostkowa brutto:** 0,29 kg 
 - **Nie posiadam numeru EAN dla palety:** 1
 
+**Galeria:**
+
+- 10771-1: https://a.allegroimg.com/original/03cd5f/983ae1d54af397dc1e31670ba8de
+
 ---
 
-## 30070 — nowy Lego Toy Story 30070 Alien Space Ship misb 2010
+## 30070 — Toy Story 3 Alien Space Ship
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702014712904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30070 |
+| Nazwa angielska | Alien Space Ship |
+| Nazwa polska | Toy Story 3 Alien Space Ship |
+| Seria | Pozostałe serie > Toy Story |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2010 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014712904 |
 
 Cześć!
 
@@ -173,11 +263,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30070-1: https://a.allegroimg.com/original/1176f3/f84b01eb4db39b8e73bd10dfd0d6
+
 ---
 
-## 7593 — Lego Toy Story 7593 Gwiezdny statek kosmiczny Buzza Nowe
+## 7593 — Toy Story Gwiezdny statek kosmiczny Buzza
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 549.00 zł · EAN: 05702014731615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7593 |
+| Nazwa angielska | Buzz's Star Command Spaceship |
+| Nazwa polska | Toy Story Gwiezdny statek kosmiczny Buzza |
+| Seria | Pozostałe serie > Toy Story |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014731615 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -187,11 +292,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Toy Story 7593 Gwiezdny statek kosmiczny Buzza ** został pokazany w 2010 roku i zbudowany jest z 257 klocków LEGO®. W zestawie klocków znajdziesz jeszcze 2 minifigurki. Zestaw klocków przeznaczony jest dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 7593-1: https://a.allegroimg.com/original/11d44f/05c654624ce99bed1264168d01a7
+
 ---
 
-## 7595 — Lego Toy Story 7595 Żołnierze na patrolu
+## 7595 — 7595
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 429.00 zł · EAN: 05702014602908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7595 |
+| Nazwa angielska | Army Men on Patrol |
+| Nazwa polska | 7595 |
+| Seria | Pozostałe serie > Toy Story |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 90 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602908 |
 
 **LEGO 7595 Żołnierze na patrolu**
 
@@ -207,11 +327,26 @@ Zestaw klocków **LEGO Toy Story 7593 Gwiezdny statek kosmiczny Buzza ** został
 
 Nowy zamknięty zaplombowany karton idealny na prezent dla fana Toy Story lub militariów.
 
+**Galeria:**
+
+- 7595-1: https://a.allegroimg.com/original/11425d/2c3ba373433397456e0e9a3f5cfb
+
 ---
 
-## 7597 — Lego Toy Story 7597 Lego 7597 Toy Story Pościg Za Pociągiem
+## 7597 — LEGO 7597 Toy Story - Pościg Za Pociągiem
 
-*Kategoria: Pozostałe serie > Toy Story · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702014602922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7597 |
+| Nazwa angielska | Western Train Chase |
+| Nazwa polska | LEGO 7597 Toy Story - Pościg Za Pociągiem |
+| Seria | Pozostałe serie > Toy Story |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 584 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602922 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -234,6 +369,10 @@ Nowy zamknięty zaplombowany karton idealny na prezent dla fana Toy Story lub mi
 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
+
+**Galeria:**
+
+- 7597-1: https://a.allegroimg.com/original/11ef41/45c984604245b389062bce2320f6
 
 ---
 

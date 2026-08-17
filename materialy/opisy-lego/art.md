@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Art — opisy produktowe (23 pozycji)
+# LEGO Art — opisy produktowe (22 pozycji)
 
-## 31197 — Lego 31197 Art Marilyn Monroe Andyego Warhola
+## 31197 — MARILYN MONROE ANDYEGO WARHOLA
 
-*Kategoria: Art · cena Allegro (2026-08-17): 894.99 zł · EAN: 05702016677683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31197 |
+| Nazwa angielska | Andy Warhol's Marilyn Monroe |
+| Nazwa polska | MARILYN MONROE ANDYEGO WARHOLA |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 3341 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677683 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -41,11 +51,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 - **Elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać .**
 - **Elementy LEGO® są testowane, aby upewnić się, że każdy zestaw konstrukcyjny LEGO Art spełnia surowe wymogi bezpieczeństwa, dzięki czemu ten model ozdobny Marilyn Monroe Andy’ego Warhola jest jednocześnie wytrzymały i piękny.**
 
+**Galeria:**
+
+- 31197-1: https://a.allegroimg.com/original/11c215/510c8fa74183bdd1b2fb46881d4f
+
 ---
 
-## 31198 — Klocki Lego Art The Beatles 31198
+## 31198 — The Beatles
 
-*Kategoria: Art · cena Allegro (2026-08-17): 979.00 zł · EAN: 05702016677690 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31198 |
+| Nazwa angielska | The Beatles |
+| Nazwa polska | The Beatles |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 2933 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677690 |
 
 Jeśli uwielbiasz Beatlesów, mamy coś w sam raz dla Ciebie.
 
@@ -61,11 +86,26 @@ Zestawy te stanowią doskonały prezent dla wszystkich osób rozglądających si
  
 Ten artystyczny model ma kształt kwadratu o boku ok. 40 cm.
 
+**Galeria:**
+
+- 31198-1: https://a.allegroimg.com/original/001a9c/590cc3f44fe5b440238fca272eaa
+
 ---
 
-## 31199 — Lego Art 31199 Iron Man z wytwórni Marvel Studios 3167 elementów
+## 31199 — Iron Man z wytwórni Marvel Studios
 
-*Kategoria: Art · cena Allegro (2026-08-17): 889.00 zł · EAN: 05702016677706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31199 |
+| Nazwa angielska | Marvel Studios Iron Man |
+| Nazwa polska | Iron Man z wytwórni Marvel Studios |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 3167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677706 |
 
 Jeżeli uwielbiasz superbohaterów, mamy coś w sam raz dla Ciebie. Ucieknij na chwilę od codzienności i zbuduj jeden z trzech portretów przedstawiających kultowe zbroje Iron Mana dzięki zestawowi LEGO® Art 31199 Iron Man z wytwórni Marvel Studios.
  
@@ -91,11 +131,26 @@ Nie musisz mieć zdolności artystycznych ani wielkiej kolekcji modeli LEGO, aby
 - Elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są testowane, aby upewnić się, że każdy zestaw konstrukcyjny LEGO Art spełnia surowe wymogi bezpieczeństwa, dzięki czemu ten model ozdobny Iron Mana z wytwórni Marvel Studios jest jednocześnie wytrzymały i piękny.
 
+**Galeria:**
+
+- 31199-1: https://a.allegroimg.com/original/052ec3/27b4b5d349a09a5f99208d5c5377
+
 ---
 
-## 31200 — Klocki Lego Art Zestaw Star Wars The Sith 31200
+## 31200 — Star Wars The Sith
 
-*Kategoria: Art · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702016677713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31200 |
+| Nazwa angielska | The Sith |
+| Nazwa polska | Star Wars The Sith |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 3406 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016677713 |
 
 Jeśli jesteś fanem serii Star Wars, ten zestaw jest w sam raz dla Ciebie. LEGO Art 31200 Star Wars — Sith to zestaw, dzięki któremu stworzysz obraz przedstawiający kultową postać. Zrób sobie zasłużoną przerwę od obowiązków i zbuduj wyjątkową ozdobę, którą ozdobisz dom lub biuro.
 
@@ -124,11 +179,26 @@ Nie musisz mieć talentu malarskiego ani wielu modeli LEGO w swojej kolekcji, ab
 
 - Elementy LEGO są testowane, aby upewnić się, że każdy zestaw konstrukcyjny LEGO Art spełnia surowe wymogi bezpieczeństwa. Dzięki temu model ozdobny Star Wars — Sith jest jednocześnie wytrzymały i piękny.
 
+**Galeria:**
+
+- 31200-1: https://a.allegroimg.com/original/05bc4b/ea33afd2487492cc62daaec23077
+
 ---
 
-## 31201 — Lego Art 31201 Harry Potter Herby Hogwartu Opis
+## 31201 — Herby Hogwartu
 
-*Kategoria: Art · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702016914535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31201 |
+| Nazwa angielska | Harry Potter Hogwarts Crests |
+| Nazwa polska | Herby Hogwartu |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 4249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914535 |
 
 Lego art klocki harry potter herby hogwartu 31201
  
@@ -144,11 +214,26 @@ Jesteś fanem Harry'ego Pottera? w takim razie z pewnością musisz mieć LEGO H
 
 OPAKOWANIE JEST OBSZOROWANE, PRODUKT W 100% KOMPLETNY
 
+**Galeria:**
+
+- 31201-1: https://a.allegroimg.com/original/258135/d766e1484049a52d6e69b697c049
+
 ---
 
-## 31202 — Lego Art Zestaw Disney's Mickey Mouse 31202
+## 31202 — Disney's Mickey Mouse
 
-*Kategoria: Art · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016914894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31202 |
+| Nazwa angielska | Disney's Mickey Mouse |
+| Nazwa polska | Disney's Mickey Mouse |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 2658 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914894 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -189,11 +274,26 @@ Każdy doceni pomysłowość tego zestawu. Gotowy portret można postawić na p�
 - Elementy LEGO® spełniają rygorystycznestandardy branżowe, dzięki czemu zawsze do siebie pasują i można je łatwo połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, zgniatane, skręcane, podgrzewane, wyginane, rysowane i rozciągane.
 
+**Galeria:**
+
+- 31202-1: https://a.allegroimg.com/original/25ff1c/b6721bf544ca8e4873d44cb49097
+
 ---
 
-## 31203 — Klocki Lego Art 31203 Mapa Świata Unikat
+## 31203 — Mapa świata
 
-*Kategoria: Art · cena Allegro (2026-08-17): 2499.77 zł · EAN: 05702016914900 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31203 |
+| Nazwa angielska | World Map |
+| Nazwa polska | Mapa świata |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 11695 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 65 cm × szer. 104 cm |
+| EAN | 5702016914900 |
 
 Marzysz o zbudowaniu własnej mapy świata? Ogromny zestaw LEGO® Art 31203 Mapa świata pomoże Ci to zrobić. Dzięki największemu w historii firmy LEGO zestawowi zbudujesz jedną z trzech kolorowych map.
 
@@ -218,11 +318,26 @@ Ucieknij od codziennej harówki i skup się na kreatywnym zadaniu, budując cudo
 - Elementy LEGO® spełniają wymagające standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, zgniatane, skręcane, podgrzewane, wyginane, zarysowywane i rozciągane.
 
+**Galeria:**
+
+- 31203-1: https://a.allegroimg.com/original/11d850/6b3edbea410ead40f72a4d4d18c3
+
 ---
 
-## 31204 — Lego Art Elvis Presley The King 31204
+## 31204 — Elvis Presley - Król
 
-*Kategoria: Art · cena Allegro (2026-08-17): 749.75 zł · EAN: 05702016914917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31204 |
+| Nazwa angielska | Elvis Presley – The King |
+| Nazwa polska | Elvis Presley - Król |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 3445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914917 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -238,11 +353,26 @@ Rok wydania:** 2022**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 40x38x5,5cm**
 
+**Galeria:**
+
+- 31204-1: https://a.allegroimg.com/original/119316/bee25d294f2b975c2658be8017df
+
 ---
 
-## 31206 — Lego Art 31206 The Rolling Stones
+## 31206 — The Rolling Stones
 
-*Kategoria: Art · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017153988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31206 |
+| Nazwa angielska | The Rolling Stones |
+| Nazwa polska | The Rolling Stones |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1998 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 57 cm × szer. 47 cm |
+| EAN | 5702017153988 |
 
 LEGO ART 31206 THE ROLLING STONES
 
@@ -269,11 +399,26 @@ Ikona rock and rolla — poznaj każdy detal logo The Rolling Stones podczas bud
 - Wysoka jakość — elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO®, aby upewnić się, że każdy zestaw konstrukcyjny LEGO Art spełnia surowe wymogi bezpieczeństwa, dzięki czemu logo Rolling Stonesów jest niezwykle solidne
 
+**Galeria:**
+
+- 31206-1: https://a.allegroimg.com/original/11f5ea/dd9111d14bfab82a792f97834b2c
+
 ---
 
-## 31207 — Klocki Lego Art Zestaw Sztuka kwiatowa 31207
+## 31207 — LEGO ART Sztuka kwiatowa 31207
 
-*Kategoria: Art · cena Allegro (2026-08-17): 430.46 zł · EAN: 05702017153995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31207 |
+| Nazwa angielska | Floral Art |
+| Nazwa polska | LEGO ART Sztuka kwiatowa 31207 |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2870 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 27 cm |
+| EAN | 5702017153995 |
 
 LEGO Art 31207 Sztuka kwiatowa
  
@@ -299,11 +444,26 @@ Zestaw LEGO® Art Sztuka kwiatowa (31207) z obrazem do powieszenia na ścianie s
 - Wysoka jakość — elementy konstrukcyjne LEGO® spełniają najwyższe standardy jakości, dzięki czemu zawsze mają jednolity wygląd, pasują do siebie i za każdym razem można ich z łatwością używać — i tak jest niezmiennie od 1958 roku 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO®, aby mieć pewność, że każdy zestaw konstrukcyjny LEGO Art spełnia surowe wymogi bezpieczeństwa, dzięki czemu zestaw Sztuka kwiatowa jest niezwykle solidny
 
+**Galeria:**
+
+- 31207-1: https://a.allegroimg.com/original/25e87d/3dc56a4e430c8f86cfd6e21188df
+
 ---
 
-## 31208 — Klocki Lego Art Hokusai Wielka Fala Japoński panel ścienny 3D Obraz
+## 31208 — Hokusai Wielka Fala
 
-*Kategoria: Art · cena Allegro (2026-08-17): 480.00 zł · EAN: 05702017412160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31208 |
+| Nazwa angielska | Hokusai - The Great Wave |
+| Nazwa polska | Hokusai Wielka Fala |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1810 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 52 cm × szer. 39 cm |
+| EAN | 5702017412160 |
 
 LEGO Art 31208 Hokusai „Wielka fala”
 
@@ -331,11 +491,26 @@ Zestawy LEGO® Art pozwalają dorosłym zrelaksować się podczas budowania, a t
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby idealnie do siebie pasowały 
 - Zawsze w bezpiecznych rękach – klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31208-1: https://a.allegroimg.com/original/25652d/7049ef6d45a39ace2eae4c214421
+
 ---
 
-## 31209 — 31209 Lego Art 31209 Niesamowity SpiderMan Zestaw Kolekcjonerski
+## 31209 — LEGO ART Niesamowity Spider-Man 31209
 
-*Kategoria: Art · cena Allegro (2026-08-17): 689.98 zł · EAN: 05702017415567 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31209 |
+| Nazwa angielska | The Amazing Spider-Man |
+| Nazwa polska | LEGO ART Niesamowity Spider-Man 31209 |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2099 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 54 cm × szer. 41 cm |
+| EAN | 5702017415567 |
 
 LEGO Art 31209 LEGO ART Niesamowity Spider-Man 31209
 
@@ -385,11 +560,26 @@ Odprężające zestawy LEGO dla dorosłych Tworząc tę niesamowitą grafikę ś
 
 • Obraz LEGO Art z superbohaterem spełnia wysokie standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31209-1: https://a.allegroimg.com/original/05da34/b1a03ba74ebdba2f050dd8ce0c99
+
 ---
 
-## 31210 — Klocki Lego Modern Art 31210 Sztuka współczesna 805 elementów 18+ Obraz
+## 31210 — LEGO ART 31210 SZTUKA WSPÓŁCZESNA
 
-*Kategoria: Art · cena Allegro (2026-08-17): 348.00 zł · EAN: 05702017415574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31210 |
+| Nazwa angielska | Modern Art |
+| Nazwa polska | LEGO ART 31210 SZTUKA WSPÓŁCZESNA |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 805 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415574 |
 
 Lego ART 31210 Sztuka współczesna
  
@@ -405,11 +595,26 @@ Nie ma złych pomysłów: po prostu eksperymentuj i baw się nieograniczonymi mo
  
 Zestawy z serii LEGO(R) Art dają dorosłym konstruktorom możliwość stworzenia własnych dzieł sztuki najwyższej jakości, jednocześnie oferując wciągające i satysfakcjonujące doświadczenie budowania. Zestawy są przeznaczone dla każdego, kto uwielbia muzykę, sztukę lub kino. Kiedy skończysz, zawieś swoje dzieło na ścianie za pomocą wieszaka.
 
+**Galeria:**
+
+- 31210-1: https://a.allegroimg.com/original/05d632/1d09c7ca47fda2d20286a2d904d6
+
 ---
 
-## 31211 — Lego 31211 Kolekcja Zwierząt Papugi
+## 31211 — Art 31211 Kolekcja Animal – Papugi Ara
 
-*Kategoria: Art · cena Allegro (2026-08-17): 239.90 zł · EAN: 05702017584010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31211 |
+| Nazwa angielska | Macaw Parrots |
+| Nazwa polska | Art 31211 Kolekcja Animal – Papugi Ara |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 644 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584010 |
 
 **Lego** **Art - Kolekcja zwierząt - Papugi Ary**
 
@@ -433,11 +638,26 @@ Ilość elementów: 644
 
 **Ostrzeżenie: Produkt jest nieodpowiedni dla dzieci poniżej 3 lat, ponieważ zawiera drobne elementy!**
 
+**Galeria:**
+
+- 31211-1: https://a.allegroimg.com/original/111fbf/686937c24e24adb9f8f92e49191b
+
 ---
 
-## 31212 — Lego Art 31212 Droga Mleczna
+## 31212 — LEGO Art 31212 Droga Mleczna
 
-*Kategoria: Art · cena Allegro (2026-08-17): 671.24 zł · EAN: 05702017587462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31212 |
+| Nazwa angielska | The Milky Way Galaxy |
+| Nazwa polska | LEGO Art 31212 Droga Mleczna |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 3091 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 65 cm × gł. 5 cm |
+| EAN | 5702017587462, 5907213510171 |
 
 LEGO Art 31212 Droga Mleczna
 
@@ -461,11 +681,27 @@ Ten kosmiczny prezent składa się z pięciu różnych paneli, z których każdy
 
 - Wymiary – ten 3091-elementowy zestaw ma 40 cm wysokości, 65 cm szerokości i 5 cm głębokości.
 
+**Galeria:**
+
+- 31212-1: https://a.allegroimg.com/original/0564b0/3ee1565b4cde85036251c3a60abe
+- 31212-2: https://a.allegroimg.com/original/11aa55/1a71a34c47f59988ba594adaf4d4
+
 ---
 
-## 31213 — Lego Art 31213 Mona Lisa Zestaw Klocków 1503 Elementy
+## 31213 — Mona Lisa
 
-*Kategoria: Art · cena Allegro (2026-08-17): 344.89 zł · EAN: 05702017584027 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31213 |
+| Nazwa angielska | Mona Lisa |
+| Nazwa polska | Mona Lisa |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1503 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 43 cm × szer. 30 cm × gł. 4 cm |
+| EAN | 5702017584027 |
 
 LEGO ART 31213 Mona Lisa Super  Zestaw Klocków 1503 Elementy
 
@@ -484,47 +720,26 @@ Obraz Mona Lisa, oprawiony w elegancką złotą ramę, przeznaczony jest do zawi
 - Zestawy LEGO® dla dorosłych artystów — seria LEGO Art daje dorosłym szansę tworzenia dzieł sztuki z klocków inspirowanych ich największymi pasjami i prezentowania ich w domu lub w biurze
 - Wymiary — obraz Mona Lisy składa się z 1503 elementów, co symbolizuje rok, w którym Leonardo da Vinci zaczął go malować. Ma 43 cm wysokości, 30 cm szerokości i 4 cm głębokości
 
----
+**Galeria:**
 
-## 31214 — Lego Art 31214 Love
-
-*Kategoria: Art · cena Allegro (2026-08-17): 259.00 zł · EAN: 05702017814698 · in stock*
-
-LEGO Art 31214 LOVE
-
-Zestaw konstrukcyjny LEGO® Art sprawi, że w Twoim domu zagości jedno z najsłynniejszych dzieł sztuki na świecie. Stwórz wersję LEGO kultowej rzeźby LOVE Roberta Indiany. To świetny prezent dla siebie lub na Walentynki, Dzień Matki, zaręczyny lub ślub. Po wspólnej zabawie w budowanie z przyjaciółmi lub rodziną możesz z dumą ustawić model w wybranym pomieszczeniu.
-
-• Prezent z klocków dla par — stwórz własną małą wersję rzeźby Roberta Indiany LOVE dzięki zestawowi LEGO® Art dla dorosłych
-
-• Pomysł na dekorację w stylu LEGO® — rzeźba LOVE z klocków LEGO to imponująca ozdoba do każdego pomieszczenia w domu
-
-• Hołd dla kultowego dzieła — ten model rzeźby LOVE w 3D jest podobny do oryginału: ma taką samą budowę oraz jaskrawe czerwone, niebieskie i zielone kolory
-
-• Prezent na zaręczyny — podaruj model rzeźby LOVE z klocków jako prezent z okazji zaręczyn, ślubu, Dnia Matki lub Walentynek każdemu, kto lubi kreatywne zajęcia
-
-• Wspólna zabawa w budowanie — ta ozdoba do domu zawiera dwa zestawy instrukcji budowania, aby można było dzielić piękne chwile z przyjacielem lub członkiem rodziny
-
-• Zestawy LEGO® Art dla dorosłych — seria LEGO Art daje dorosłym szansę tworzenia dzieł sztuki z klocków inspirowanych ich największymi pasjami i prezentowania ich w domu lub w biurze
-
-• Wymiary — ten wysokiej jakości model 3D rzeźby LOVE zawiera 791 elementów i ma 25 cm wysokości, 25 cm szerokości i 6 cm głębokości
-
-**Zbudowany z klocków model LOVE**
-
-Stwórz małą replikę rzeźby Roberta Indiany LOVE.
-
-**Pomysł na ozdobę LEGO® do domu**
-
-Rzeźba LOVE z klocków LEGO® stanowi imponującą ozdobę.
-
-**Wciągający projekt konstrukcyjny**
-
-Zrelaksuj się przy modelu zaprojektowanym z pasją.
+- 31213-1: https://a.allegroimg.com/original/05502b/be0e79764920b1d88a84be41f31e
 
 ---
 
-## 31215 — Lego 31215 „Słoneczniki” Vincent van Gogh
+## 31215 — LEGO Art 31215 Vincent van Gogh – Słoneczniki
 
-*Kategoria: Art · cena Allegro (2026-08-17): 649.99 zł · EAN: 05702017823126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31215 |
+| Nazwa angielska | Vincent van Gogh – Sunflowers |
+| Nazwa polska | LEGO Art 31215 Vincent van Gogh – Słoneczniki |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2615 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 54 cm × szer. 41 cm × gł. 5 cm |
+| EAN | 5702017823126 |
 
 LEGO® 31215 „Słoneczniki” Vincent van Gogh
 
@@ -543,11 +758,26 @@ Ten zestaw to gratka dla Ciebie lub twórczy prezent dla dorosłych i innych mi�
 - Prezent dla dorosłych i miłośników sztuki — to świetny prezent dla Ciebie lub dla innych miłośników sztuki, którzy lubią satysfakcjonujące i twórcze zajęcia
 - Wymiary — ten 2615-elementowy zestaw z obrazem „Słoneczniki” ma 54 cm wysokości, 41 cm szerokości i 5cm głębokości
 
+**Galeria:**
+
+- 31215-1: https://a.allegroimg.com/original/296054/4405ee0545a0b150b6b783742d00
+
 ---
 
-## 31216 — Lego Art Keith Haring tańczące postacie 31216
+## 31216 — Art 31216 Keith Haring – Tańczące postacie
 
-*Kategoria: Art · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702017814445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31216 |
+| Nazwa angielska | Keith Haring - Dancing Figures |
+| Nazwa polska | Art 31216 Keith Haring – Tańczące postacie |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1773 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814445 |
 
 **LEGO Art Keith Haring - tańczące postacie 31216**
 
@@ -569,11 +799,26 @@ Zestawy LEGO® dla dorosłych oferują jeszcze więcej dzieł sztuki (sprzedawan
 
 1773-elementowy zestaw ma 87 cm szerokości
 
+**Galeria:**
+
+- 31216-1: https://a.allegroimg.com/original/11e6eb/4bc87bf847b497c7e5e8e3d5a0fb
+
 ---
 
-## 31217 — Lego 31217 Art kolekcja Tygrys
+## 31217 — Art 31217 Kolekcja zwierząt – Tygrys
 
-*Kategoria: Art · cena Allegro (2026-08-17): 163.99 zł · EAN: 05702017814452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31217 |
+| Nazwa angielska | Tiger |
+| Nazwa polska | Art 31217 Kolekcja zwierząt – Tygrys |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 744 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017814452 |
 
 LEGO 31217 Art Kolekcja zwierząt — Tygrys 18+ (744 el.)
 
@@ -645,11 +890,26 @@ Kompatybilność
 
 LEGO 31217, LEGO Art Tygrys, klocki LEGO 18+, mozaika LEGO Art, dekoracja ścienna LEGO, prezent dla dorosłych fanów LEGO, LEGO 744 elementy, kolekcjonerski zestaw LEGO Art
 
+**Galeria:**
+
+- 31217-1: https://a.allegroimg.com/original/113982/130183a94e3197f24386b577768d
+
 ---
 
-## 31218 — Lego Art 31218 Japanese Cherry Blossom Landscape Japoński krajobraz
+## 31218 — LEGO Art 31218 Japanese Cherry Blossom Landscape
 
-*Kategoria: Art · cena Allegro (2026-08-17): 399.79 zł · EAN: 05702018061862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31218 |
+| Nazwa angielska | Japanese Cherry Blossom Landscape |
+| Nazwa polska | LEGO Art 31218 Japanese Cherry Blossom Landscape |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1892 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 35 cm × gł. 6 cm |
+| EAN | 5702018061862 |
 
 Klocki LEGO® ART 31218 Japanese Cherry Blossom Landscape | Japoński krajobraz z kwitnącą wiśnią
 
@@ -676,11 +936,26 @@ Twoje prezenty mogą być jeszcze bardziej wyjątkowe:
 
 Jeżeli kupujesz klocki na prezent i chcesz do swojego zamówienia zawierającego ten produkt otrzymać oryginalną prezentową torbę papierową LEGO®: (100% Recyclable, Made in GERMANY) - **wybierz usługę dodatkową: **pakowanie na prezent polegającą na dodaniu do zamówienia torby prezentowej LEGO®
 
+**Galeria:**
+
+- 31218-1: https://a.allegroimg.com/original/1163b9/d9a7cdef4ff998b1443d559bb795
+
 ---
 
-## 31220 — Lego Art 31220 Claude Monet Most nad stawem z liliami wodnymi
+## 31220 — LEGO ART 31220 Claude Monet Most nad stawem z liliami wodnymi
 
-*Kategoria: Art · cena Allegro (2026-08-17): 635.99 zł · EAN: 05702018066379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31220 |
+| Nazwa angielska | Claude Monet – Bridge over a Pond of Water Lilies |
+| Nazwa polska | LEGO ART 31220 Claude Monet Most nad stawem z liliami wodnymi |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 51 cm × szer. 41 cm × gł. 4 cm |
+| EAN | 5702018066379 |
 
 LEGO ART 31220 Claude Monet - Most nad stawem z liliami wodnymi
 
@@ -699,11 +974,26 @@ Oszałamiający i niezwykle szczegółowy zestaw z dekoracją ścienną z dzieł
 - Rękodzieło dla dorosłych — podaruj tę dekorację ścienną LEGO® jako relaksujący prezent do samodzielnego zbudowania dorosłym, którzy pasjonują się słynnymi obrazami i lubią angażujące i kreatywne zajęcia.
 - Wymiary — ta dekoracja ścienna składa się z 3179 elementów i ma 51 cm wysokości, 41 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 31220-1: https://a.allegroimg.com/original/11ecd9/553d5d474e8cbc01a1974de87ecf
+
 ---
 
-## 31221 — Lego Art 31221 Gustav Klimt Pocałunek
+## 31221 — Gustav Klimt — Pocałunek
 
-*Kategoria: Art · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702018066386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31221 |
+| Nazwa angielska | Gustav Klimt – The Kiss |
+| Nazwa polska | Gustav Klimt — Pocałunek |
+| Seria | Art |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 4000 |
+| Cena katalogowa | 1299.99 zł |
+| Wymiary złożonego | wys. 60 cm × szer. 54 cm × gł. 4 cm |
+| EAN | 5702018066386 |
 
 Zbuduj z klocków jeden z najsłynniejszych obrazów świata dzięki zestawowi LEGO® Art Gustav Klimt — Pocałunek (31221). Ta secesyjna dekoracja oddaje emocje, piękno i bogatą kolorystykę, którymi austriacki modernista posługiwał się na przełomie XIX i XX wieku. Ta trójwymiarowa dekoracja ścienna powstała we współpracy z Muzeum Belweder w Wiedniu, w którym znajduje się oryginalny obraz. Wersja LEGO zawiera podpis Klimta i stanowi niesamowitą interpretację Pocałunku — w kreatywny sposób wykorzystano w niej zdobione koła, spirale, wypustki, kwiaty i złote metaliczne klocki, aby przedstawić parę w uścisku. To szczegółowe dzieło z wieszakiem z tyłu będzie wspaniałą ozdobą każdej ściany i wniesie odrobinę elegancji do Twojego domu. Ten zestaw konstrukcyjny to świetny pomysł na prezent dla siebie lub dla miłośników sztuki — zapewnia wciągającą i relaksującą aktywność twórczą. Zestaw zawiera 4000 elementów — to największe jak dotąd arcydzieło z serii LEGO Art.
  
@@ -716,6 +1006,10 @@ Zbuduj z klocków jeden z najsłynniejszych obrazów świata dzięki zestawowi L
 - POSŁUCHAJ PODCASTU — zeskanuj kod QR znajdujący się w broszurze, aby posłuchać podcastu o Gustavie Klimcie i tym, co zainspirowało go do stworzenia Pocałunku 
 - INSTRUKCJE BUDOWANIA W 3D — dzięki aplikacji LEGO® Builder możesz budować modele, korzystając z instrukcji 3D, śledzić swoje postępy i zapisywać wszystkie zestawy w aplikacji 
 - WYMIARY — ta oprawiona w ramkę dekoracja ścienna składa się z 4000 elementów (co czyni ją największym jak dotąd arcydziełem z serii LEGO® Art) i ma 60 cm wysokości, 54 cm szerokości oraz 4 cm głębokości
+
+**Galeria:**
+
+- 31221-1: https://a.allegroimg.com/original/112814/ebebaef5464fb5fc22fa38f56573
 
 ---
 

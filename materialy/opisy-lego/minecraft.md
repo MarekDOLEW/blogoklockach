@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Minecraft — opisy produktowe (134 pozycji)
+# LEGO Minecraft — opisy produktowe (130 pozycji)
 
-## 21105 — Lego 21105 Minecraft Wieś Nowy
+## 21105 — micro world wioska
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1199.99 zł · EAN: 05702015149112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21105 |
+| Nazwa angielska | Micro World - The Village |
+| Nazwa polska | micro world wioska |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015149112 |
 
 LEGO 21105 Minecraft Wieś NOWY
 
@@ -37,11 +48,27 @@ Zawartość i funkcje
 - Pod ziemią kryje się “abandoned mine shaft” – z fragmentami muru (do symulacji wybuchu TNT)
 - W zestawie trzy budowalne figurki Micromobów: świnia, wieśniak i zombie
 
+**Galeria:**
+
+- 21105-1: https://a.allegroimg.com/original/115c5e/e4d18b024c0c8e876f3180603017
+
 ---
 
-## 21106 — Lego Minecraft 21106 Micro World Nether Nowy
+## 21106 — Micro World Nether
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 2499.99 zł · EAN: 05702015149129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21106 |
+| Nazwa angielska | Micro World - The Nether |
+| Nazwa polska | Micro World Nether |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 469 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015149129 |
 
 LEGO Minecraft 21106 Micro World Nether NOWY
 
@@ -63,11 +90,27 @@ Przejdź przez obsydianowy portal, by trafić do wymiaru Nether! Jest to wyjątk
 
 - Wymiary: 10 cm głębokości, 10 cm długości i 10 cm wysokości
 
+**Galeria:**
+
+- 21106-1: https://a.allegroimg.com/original/11ab75/8422214e49339f26f69674d69615
+
 ---
 
-## 21113 — Lego Minecraft 21113 Jaskinia
+## 21113 — Jaskinia
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 355.09 zł · EAN: 05702015296526 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21113 |
+| Nazwa angielska | The Cave |
+| Nazwa polska | Jaskinia |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 249 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 22 cm × gł. 14 cm |
+| EAN | 5702015296526 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -115,11 +158,27 @@ Udaj się na niebezpieczną wyprawę do jaskini w celu zdobycia niezbędnych zas
 
 - Połącz ten zestaw z innymi z tej serii, aby zbudować własny świat LEGO® Minecraft™
 
+**Galeria:**
+
+- 21113-1: https://a.allegroimg.com/original/03e0f9/ccf84b834be497ae663155b6f05b
+
 ---
 
-## 21114 — Lego 21114 Minecraft Farma
+## 21114 — LEGO ~ MINECRAFT ~ 21114 ~ FARMA
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 397.00 zł · EAN: 05702015296533 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21114 |
+| Nazwa angielska | The Farm |
+| Nazwa polska | LEGO ~ MINECRAFT ~ 21114 ~ FARMA |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015296533 |
 
 LEGO® 21114 Minecraft - Farma
 
@@ -133,11 +192,27 @@ Stan opakowania DB - zagnieciona lewa krawędź pudełka - stąd niższa cena.
 
 **Zapraszam**
 
+**Galeria:**
+
+- 21114-1: https://a.allegroimg.com/original/11ecc4/72fb2f15460db8992ec36ca72e5b
+
 ---
 
-## 21115 — Lego Minecraft 21115 Pierwsza Noc
+## 21115 — 21115
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 629.66 zł · EAN: 05702015296540 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21115 |
+| Nazwa angielska | The First Night |
+| Nazwa polska | 21115 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 408 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 33 cm × gł. 24 cm |
+| EAN | 5702015296540 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -189,11 +264,27 @@ Mądrze wykorzystaj dzień, aby przeżyć pierwszą noc! Zbuduj schronienie i za
 
 - Połącz ten biom z innymi z tej samej serii, aby zbudować własny świat LEGO® Minecraft™
 
+**Galeria:**
+
+- 21115-1: https://a.allegroimg.com/original/009e7a/8001d1de480f925b1dd2d07ee64b
+
 ---
 
-## 21116 — Lego Minecraft 21116 Kreatywny warsztat
+## 21116 — LEGO 21116 Minecraft Kreatywny warsztat
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 804.30 zł · EAN: 05702015296557 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21116 |
+| Nazwa angielska | Crafting Box |
+| Nazwa polska | LEGO 21116 Minecraft Kreatywny warsztat |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 518 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015296557 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -227,11 +318,27 @@ ilość klocków: **509**
 
 ilość figurek:** 2**
 
+**Galeria:**
+
+- 21116-1: https://a.allegroimg.com/original/0056c7/b09eaf924bb89df782605c494003
+
 ---
 
-## 21117 — Klocki Lego Minecraft 21117 Smok Kresu
+## 21117 — Lego 21117 Minecraft - Smok Kresu Ender Dragon
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1318.50 zł · EAN: 05702015296564 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21117 |
+| Nazwa angielska | The Ender Dragon |
+| Nazwa polska | Lego 21117 Minecraft - Smok Kresu Ender Dragon |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 634 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 33 cm × gł. 22 cm |
+| EAN | 5702015296564 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -280,11 +387,27 @@ Kres odwiedzasz na własne ryzyko! Włóż diamentową zbroję i hełm, chwyć z
 - Wymiary piaskowej wyspy: 17 cm wysokości, 23 cm szerokości i 22 cm głębokości 
 - Połącz ten biom z innymi z tej samej serii, aby zbudować własny świat LEGO® Minecraft™
 
+**Galeria:**
+
+- 21117-1: https://a.allegroimg.com/original/119bba/adcbed614e21b88f395866125983
+
 ---
 
-## 21118 — Lego Minecraft 21118 Kopalnia Nowe
+## 21118 — 21118
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 2199.00 zł · EAN: 05702015297172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21118 |
+| Nazwa angielska | The Mine |
+| Nazwa polska | 21118 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 922 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 40 cm × gł. 25 cm |
+| EAN | 5702015297172 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -308,11 +431,27 @@ Do kopalni wchodzisz na własną odpowiedzialność! Podczas tej niebezpiecznej 
 - Wymiary: 32 cm wysokości, 40 cm szerokości i 25 cm głębokości 
 - Połącz ten biom z innymi z tej samej serii, aby zbudować własny świat LEGO® Minecraft™
 
+**Galeria:**
+
+- 21118-1: https://a.allegroimg.com/original/1199d2/7d47de8041959da808d462d5618c
+
 ---
 
-## 21119 — Lego Minecraft 21119 Loch zestaw z 2015 roku
+## 21119 — Loch
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 412.99 zł · EAN: 05702015357203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21119 |
+| Nazwa angielska | The Dungeon |
+| Nazwa polska | Loch |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 219 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357203 |
 
 Nowy zestaw klocków
 
@@ -326,11 +465,27 @@ Czy odważysz się zagłębić w lochy i wyruszyć na niebezpieczne poszukiwanie
 
 W zestawie **3 minifigurki z akcesoriami: Steve i 2 zombie**. Ilość elementów: **219**.
 
+**Galeria:**
+
+- 21119-1: https://a.allegroimg.com/original/1142fe/cc9105f64db89d2b778935f719b3
+
 ---
 
-## 21120 — Lego Minecraft 21120 Śnieżna kryjówka
+## 21120 — Śnieżna kryjówka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 561.75 zł · EAN: 05702015357210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21120 |
+| Nazwa angielska | The Snow Hideout |
+| Nazwa polska | Śnieżna kryjówka |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 327 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 28 cm × gł. 23 cm |
+| EAN | 5702015357210 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -372,11 +527,27 @@ Zbuduj śnieżną kryjówkę Za chwilę zachód słońca przerwie twoją wypraw�
 
 Zestaw klocków LEGO 21120 Minecraft Śnieżna kryjówka został pokazany w 2015 roku i składa się z 327 klocków LEGO®. W opakowaniu znajdziesz 3 minifigurki. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 21120-1: https://a.allegroimg.com/original/11643a/3f4d57ed45fdb872cefd7de5f165
+
 ---
 
-## 21121 — Lego 21121 Minecraft Pustynne stanowisko
+## 21121 — MINECRAFT
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 677.20 zł · EAN: 05702015357227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21121 |
+| Nazwa angielska | The Desert Outpost |
+| Nazwa polska | MINECRAFT |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 27 cm × gł. 34 cm |
+| EAN | 5702015357227 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -424,11 +595,27 @@ PACZKI .
 
 - **Połącz ten biom z innymi z tej serii, aby zbudować własny świat LEGO® Minecraft™**
 
+**Galeria:**
+
+- 21121-1: https://a.allegroimg.com/original/11be9a/8e65f8454790a823628c75630ddf
+
 ---
 
-## 21122 — Lego Minecraft 21122 Forteca Netheru
+## 21122 — LEGO Minecraft 21122 - Forteca Netheru
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1198.97 zł · EAN: 05702015357234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21122 |
+| Nazwa angielska | The Nether Fortress |
+| Nazwa polska | LEGO Minecraft 21122 - Forteca Netheru |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 571 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 40 cm × gł. 12 cm |
+| EAN | 5702015357234 |
 
 LEGO Minecraft 21122 - Forteca Netheru
 
@@ -490,11 +677,27 @@ Zestaw LEGO Minecraft - Forteca Netheru trafił do sprzedaży w 2015 roku. Numer
 
 **W powiększeniu: Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki w razie konieczności jego ukrycia. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 21122-1: https://a.allegroimg.com/original/1169c6/ebe9ef9e4356a230d78a95f62627
+
 ---
 
-## 21123 — Klocki Lego Minecraft 21123 Żelazny golem
+## 21123 — Żelazny golem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 464.68 zł · EAN: 05702015589826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21123 |
+| Nazwa angielska | The Iron Golem |
+| Nazwa polska | Żelazny golem |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 208 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 19 cm × gł. 15 cm |
+| EAN | 5702015589826 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -533,11 +736,27 @@ Wytop żelazo w piecu, ukształtuj bloki żelaza na stole warsztatowym i stwórz
 - Zawiera ponad 200 klocków LEGO®. 
 - Wymiary: 8 cm wysokości, 19 cm szerokości i 15 cm głębokości.
 
+**Galeria:**
+
+- 21123-1: https://a.allegroimg.com/original/000bb5/f4323d4743e8a5035ffcc5513426
+
 ---
 
-## 21124 — Lego Minecraft 21124 Portal Kresu
+## 21124 — LEGO Minecraft 21124 - Portal Kresu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1625.97 zł · EAN: 05702015589833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21124 |
+| Nazwa angielska | The End Portal |
+| Nazwa polska | LEGO Minecraft 21124 - Portal Kresu |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 559 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 25 cm × gł. 19 cm |
+| EAN | 5702015589833 |
 
 LEGO Minecraft 21124 - Portal Kresu
 
@@ -596,11 +815,27 @@ Wymiary: 11 cm wysokości, 25 cm szerokości i 19 cm głębokości. Zestaw LEGO 
 
 **Oto PRZYKŁADOWE zdjęcia zestawu** (właśnie sprzedanego)**. Aktualny jest BEZ śladów po metce, przetarć** (poza delikatnym śladem na tylnej krawędzi)**.**
 
+**Galeria:**
+
+- 21124-1: https://a.allegroimg.com/original/118069/7dd7ff3b4c968d571735097030e9
+
 ---
 
-## 21125 — Lego 21125 Minecraft Domek na drzewie w dżungli
+## 21125 — lego 21125
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702015589840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21125 |
+| Nazwa angielska | The Jungle Tree House |
+| Nazwa polska | lego 21125 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 706 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 30 cm × gł. 26 cm |
+| EAN | 5702015589840 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -636,11 +871,27 @@ Połącz siły z Alexem, by pokonać atakujące moby. Otwórz ukrytą zapadnię,
 - Zawiera ponad 700 klocków LEGO®.
 - Wymiary: 22 cm wysokości, 30 cm szerokości i 26 cm głębokości.
 
+**Galeria:**
+
+- 21125-1: https://a.allegroimg.com/original/006b52/ddeecff64a3abc8f8cf819041a91
+
 ---
 
-## 21127 — Klocki Lego Minecraft 21127 Forteca
+## 21127 — Forteca
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1716.28 zł · EAN: 05702015590587 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21127 |
+| Nazwa angielska | The Fortress |
+| Nazwa polska | Forteca |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 984 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 33 cm × gł. 34 cm |
+| EAN | 5702015590587 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -680,11 +931,27 @@ Chroń swój dobytek i broń potężnej twierdzy przed nacierającą armią szki
 
 Zestaw LEGO Minecraft - Forteca trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 21127. Zawiera 984 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Minecraft - The Fortress. Grupa wiekowa tego produktu to 8+
 
+**Galeria:**
+
+- 21127-1: https://a.allegroimg.com/original/00e904/faaacad14ba698e34e6c0c7a0924
+
 ---
 
-## 21130 — Lego Minecraft 21130 Linia kolejowa w Netherze
+## 21130 — 21130
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 668.47 zł · EAN: 05702015865456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21130 |
+| Nazwa angielska | The Nether Railway |
+| Nazwa polska | 21130 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 28 cm × gł. 24 cm |
+| EAN | 5702015865456 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -730,11 +997,27 @@ Zbuduj wspaniałą sieć kolei i rusz w podróż przez Nether. Poszukując drogo
 - Zestaw zawiera ponad 380 klocków i jest odpowiedni dla dzieci od 8 roku życia. 
 - Wymiary: ok. 4 cm wysokości, 28 cm szerokości i 24 cm głębokości
 
+**Galeria:**
+
+- 21130-1: https://a.allegroimg.com/original/004953/3bda4be74179b47612c997478cbe
+
 ---
 
-## 21131 — Lego Minecraft 21131 Lodowe kolce
+## 21131 — 21131
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 746.08 zł · EAN: 05702015865463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21131 |
+| Nazwa angielska | The Ice Spikes |
+| Nazwa polska | 21131 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 24 cm × gł. 19 cm |
+| EAN | 5702015865463 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -778,11 +1061,27 @@ Rzadki, zaśnieżony biom czeka na zbadanie! Ulep bałwana, który zmieni się w
 
 Zestaw LEGO Minecraft - Lodowe kolce trafił do sprzedaży w 2017 roku. Numer katalogowy tego zestawu to 21131. Zawiera 454 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Minecraft - The Ice Spikes. Grupa wiekowa tego produktu to 8+
 
+**Galeria:**
+
+- 21131-1: https://a.allegroimg.com/original/0024d8/4eccd5c842309b4d5dce134ce5ac
+
 ---
 
-## 21132 — Lego Minecraft 21132 Świątynia w dżungli Nowe
+## 21132 — The Jungle Temple
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702015865470 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21132 |
+| Nazwa angielska | The Jungle Temple |
+| Nazwa polska | The Jungle Temple |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 598 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 23 cm × gł. 20 cm |
+| EAN | 5702015865470 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -805,11 +1104,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 - Zestaw zawiera ponad 590 klocków i jest odpowiedni dla dzieci od 8 roku życia. 
 - Wymiary: ok. 12 cm wysokości, 23 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 21132-1: https://a.allegroimg.com/original/112b72/6f575d8c4f86897c31116584bfdf
+
 ---
 
-## 21133 — Lego Minecraft 21133 Chatka czarownicy
+## 21133 — LEGO Minecraft 21133 - Chatka czarownicy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1997.97 zł · EAN: 05702015865487 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21133 |
+| Nazwa angielska | The Witch Hut |
+| Nazwa polska | LEGO Minecraft 21133 - Chatka czarownicy |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 502 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 29 cm × gł. 25 cm |
+| EAN | 5702015865487 |
 
 LEGO Minecraft 21133 - Chatka czarownicy
 
@@ -862,11 +1177,27 @@ LEGO® 21133 Minecraft - Chatka czarownicy
 
 **W powiększeniu: Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 21133-1: https://a.allegroimg.com/original/11f062/37ed274e4372911f833ce909dda4
+
 ---
 
-## 21134 — Lego Minecraft 21134 Baza pod Wodospadem
+## 21134 — 21134
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 901.32 zł · EAN: 05702015865494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21134 |
+| Nazwa angielska | The Waterfall Base |
+| Nazwa polska | 21134 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 729 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865494 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -894,11 +1225,27 @@ BAZA POD WODOSPADEM
 
 Wspólnie z Alexem udało wam się zbudować fantastyczne schronienie, z którego możecie robić dalsze wypady w głąb górzystej krainy Minecrafta™. Budowa tej wspaniałej bazy z ogrodem na dachu, wodospadem i tajnym wejściem przez lawę była niezłym testem kreatywności i zdolności konstruowania obiektów w świecie Minecrafta! Teraz czas usiąść i się zrelaksować. Możesz ostrzyc farbowaną owcę, złowić parę ryb dla kota, wyhodować rośliny i poukładać je w skrzyniach, a także korzystać z luksusowego wyposażenia: dywanów, kowadła, paleniska, trzech stołów warsztatowych oraz licznych pomieszczeń i drzwi. Po zmroku bywa groźnie, ale w tej bazie nie musisz bać się endermanów, zombie ani innych mobów.
 
+**Galeria:**
+
+- 21134-1: https://a.allegroimg.com/original/0549c8/51253d9940a999bbaabdc4000a50
+
 ---
 
-## 21135 — Lego Minecraft Zestaw Kreatywny warsztat 2.0 21135
+## 21135 — Klocki LEGO Minecraft Kreatywny warsztat 2.0 21135
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015865197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21135 |
+| Nazwa angielska | The Crafting Box 2.0 |
+| Nazwa polska | Klocki LEGO Minecraft Kreatywny warsztat 2.0 21135 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 717 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865197 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -931,11 +1278,27 @@ Stwórz własny krajobraz Minecraft z nieskończonych kombinacji dostępnych w K
 - Puść wodze fantazji — zestaw można przebudowywać na inne modele LEGO®Minecraft™!
 - Zestaw zawiera ponad 715 klocków.
 
+**Galeria:**
+
+- 21135-1: https://a.allegroimg.com/original/05a761/c7d2f2f44d7f9a139b6d63e1621e
+
 ---
 
-## 21136 — Klocki Lego Minecraft Oceaniczny monument 1122 elementy
+## 21136 — Klocki LEGO Minecraft Oceaniczny monument 21136
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 2599.00 zł · EAN: 05702015865210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21136 |
+| Nazwa angielska | The Ocean Monument |
+| Nazwa polska | Klocki LEGO Minecraft Oceaniczny monument 21136 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 24 cm × gł. 24 cm |
+| EAN | 5702015865210 |
 
 KLOCKI LEGO MINECRAFT 21136 - OCEANICZNY MONUMENT PIRAMIDA
  
@@ -960,11 +1323,27 @@ Oceaniczny monument czeka na Ciebie w głębinach morza Minecraft™. Stocz poje
 - Zestaw zawiera ponad 1120 klocków. 
 - Model ma ok. 15 cm wysokości, 24 cm szerokości i 24 cm głębokości.
 
+**Galeria:**
+
+- 21136-1: https://a.allegroimg.com/original/0584a2/28904ea34da19819bdd3a2ed7082
+
 ---
 
-## 21137 — Lego Minecraft 21137 Górska Jaskinia Misb 2017
+## 21137 — Kopalnia
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 6999.00 zł · EAN: 05702015865241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21137 |
+| Nazwa angielska | The Mountain Cave |
+| Nazwa polska | Kopalnia |
+| Seria | Minecraft |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2863 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865241 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -983,11 +1362,27 @@ Oceaniczny monument czeka na Ciebie w głębinach morza Minecraft™. Stocz poje
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 21137-1: https://a.allegroimg.com/original/116ed3/51d680af48eba300eb07362add3e
+
 ---
 
-## 21138 — Lego Minecraft 21138 nowy zestaw Julivo
+## 21138 — The Melon Farm
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702016108927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21138 |
+| Nazwa angielska | The Melon Farm |
+| Nazwa polska | The Melon Farm |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm × gł. 10 cm |
+| EAN | 5702016108927 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -1022,11 +1417,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 21138-1: https://a.allegroimg.com/original/0089af/8b38b895435aa9a1e2fb04422a30
+
 ---
 
-## 21139 — Lego Minecraft 21139 Walka W Netherze
+## 21139 — The Nether Fight
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 237.70 zł · EAN: 05702016108934 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21139 |
+| Nazwa angielska | The Nether Fight |
+| Nazwa polska | The Nether Fight |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702016108934 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1090,11 +1501,27 @@ Zestaw zawiera 2 minifigurki LEGO® Minecraft™: Alexa i Zombie Pigmana, a do t
 - Waga opakowania (g) 150 (0,15kg) 
 - Wymiary złożonego zestawu (cm) 6 x 9 x 9
 
+**Galeria:**
+
+- 21139-1: https://a.allegroimg.com/original/00f9f4/5febe6054d1480da00458d55153d
+
 ---
 
-## 21140 — Lego 21140 Minecraft Kurnik
+## 21140 — Kurnik
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016108941 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21140 |
+| Nazwa angielska | The Chicken Coop |
+| Nazwa polska | Kurnik |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 14 cm |
+| EAN | 5702016108941 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1129,11 +1556,27 @@ Opieka nad mieszkańcami kurnika może być świetną zabawą! Ten model jest wy
 - Ten zabawny zestaw zawiera prawie 200 klocków i jest odpowiedni dla dzieci w wieku 7-14 lat. 
 - Wymiary: ok. 11 cm wysokości, 14 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 21140-1: https://a.allegroimg.com/original/05f766/e97272e1466b899541e800c5a679
+
 ---
 
-## 21141 — Lego Minecraft 21274 Spotkanie ze strażnikiem
+## 21141 — Jaskinia zombie
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016109597 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21141 |
+| Nazwa angielska | The Zombie Cave |
+| Nazwa polska | Jaskinia zombie |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109597 |
 
 LEGO Minecraft 21274 Spotkanie ze strażnikiem
 
@@ -1163,11 +1606,27 @@ Dołączone akcesoria, takie jak **złota marchewka** przywracająca zdrowie o
 - **Wymiary głównej figury (Strażnika):** wysokość ok. 9 cm
 - **Zalecany wiek użytkownika:** od 7 lat
 
+**Galeria:**
+
+- 21141-1: https://a.allegroimg.com/original/29ee8c/d095ad20442a859b4177f7e49c0e
+
 ---
 
-## 21142 — Lego Minecraft 21142 Igloo niedźwiedzia polarnego
+## 21142 — Igloo niedźwiedzia polarnego
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702016109603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21142 |
+| Nazwa angielska | The Polar Igloo |
+| Nazwa polska | Igloo niedźwiedzia polarnego |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109603 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1186,11 +1645,27 @@ Dołączone akcesoria, takie jak **złota marchewka** przywracająca zdrowie o
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 21142-1: https://a.allegroimg.com/original/000c6b/120c2c72481f87ee45f6c4c6b785
+
 ---
 
-## 21143 — Lego Minecraft 21143 Portal do Netheru
+## 21143 — Portal do Netheru
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016109610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21143 |
+| Nazwa angielska | The Nether Portal |
+| Nazwa polska | Portal do Netheru |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 470 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 19 cm × gł. 24 cm |
+| EAN | 5702016109610, 673419281553 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1227,11 +1702,27 @@ Ten zestaw pozwoli Ci wykonać portal, zbudować wspaniałą linię kolejową i 
 - Ten zestaw zawiera ok. 480 elementów i jest odpowiedni dla dzieci w wieku od 8 lat.
 - Wymiary: ok. 16 cm wysokości, 19 cm szerokości i 24 cm głębokości.
 
+**Galeria:**
+
+- 21143-1: https://a.allegroimg.com/original/29dd0f/714f83ca406fb224a5cdbbe1ca65
+
 ---
 
-## 21144 — Lego Minecraft 21144 Klocki Lego Minecraft Wiejska chatka 21144
+## 21144 — Klocki LEGO Minecraft Wiejska chatka 21144
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702016109627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21144 |
+| Nazwa angielska | The Farm Cottage |
+| Nazwa polska | Klocki LEGO Minecraft Wiejska chatka 21144 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 549 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109627 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -1241,11 +1732,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 21144-1: https://a.allegroimg.com/original/11d0e9/afcd8cbb4254916cf6036d07c27c
+
 ---
 
-## 21145 — Lego Minecraft 21145 Czaszkowa arena
+## 21145 — Czaszkowa arena
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 283.00 zł · EAN: 05702016109634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21145 |
+| Nazwa angielska | The Skull Arena |
+| Nazwa polska | Czaszkowa arena |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109634, 673419281577 |
 
 Zestaw LEGO® 21145 "The Skull Arena" z serii Minecraft wydany w 2018 roku zawiera 198 elementów, 2 minifigurki z unikalnymi skórami Minecraft oraz figurkę killer bunny'ego. Ten zestaw areny zawiera budowlaną strukturę w kształcie czaszki, lawę, zielone i niebieskie podium graczy, platformę ze złotym jabłkiem oraz wyrzutnię skoków strzelającą elementem śluzaka.
 
@@ -1253,11 +1760,28 @@ Ten zestaw przenosi graczy do ekscytującego turnieju w Minecraft, gdzie mogą u
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 21145-1: https://a.allegroimg.com/original/110849/2e13450745e7bf55dce18ee90dfa
+- 21145-2: https://a.allegroimg.com/original/057cca/ed46c52d4505a61bd55429c2a5f7
+
 ---
 
-## 21147 — Lego Minecraft 21147 Przygody na Skale Macierzystej
+## 21147 — Przygody na Skale Macierzystej
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 979.99 zł · EAN: 05702016109658 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21147 |
+| Nazwa angielska | The Bedrock Adventures |
+| Nazwa polska | Przygody na Skale Macierzystej |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 644 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016109658 |
 
 LEGO MINECRAFT 21147 Przygody na Skale Macierzystej
 
@@ -1280,11 +1804,27 @@ Zejdź po drabinach w głębiny Świata Minecraft™ w zestawie LEGO® Minecraft
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 21147-1: https://a.allegroimg.com/original/03bf46/e0f3a32745ee953958c11bcd70ed
+
 ---
 
-## 21149 — Lego 21149 Minecraft BigFig Alex z kurczakiem
+## 21149 — BigFig Alex z kurczakiem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 309.00 zł · EAN: 05702016370874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21149 |
+| Nazwa angielska | Minecraft Alex BigFig with Chicken |
+| Nazwa polska | BigFig Alex z kurczakiem |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370874 |
 
 LEGO 21149 Minecraft - BigFig - Alex z kurczakiem
 
@@ -1299,11 +1839,27 @@ Złóż łatwą do zbudowania i ogromną figurkę Alex, bohaterki gry Minecraft�
 - Model Alex z serii BigFig ma ok. 13 cm wysokości bez podstawki. 
 - Podstawka ma ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 21149-1: https://a.allegroimg.com/original/11b51a/cb29d7cd42fdade3c39273464a81
+
 ---
 
-## 21150 — Lego Minecraft 21150 BigFig Szkielet z kostką magmy łukiem duża figurka
+## 21150 — BigFig - szkielet z kostką magmy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 315.00 zł · EAN: 05702016370881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21150 |
+| Nazwa angielska | Minecraft Skeleton BigFig with Magma Cube |
+| Nazwa polska | BigFig - szkielet z kostką magmy |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370881 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -1329,11 +1885,27 @@ Złóż łatwą do zbudowania figurkę strasznego szkieletu z serii Minecraft™
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 21150-1: https://a.allegroimg.com/original/114c79/f4fce43d455385da2f452a7b9cfb
+
 ---
 
-## 21151 — Klocki Lego Minecraft 21586 Blady ogród
+## 21151 — Walka w Kresie
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016370898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21151 |
+| Nazwa angielska | The End Battle |
+| Nazwa polska | Walka w Kresie |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 16 cm × gł. 15 cm |
+| EAN | 5702016370898 |
 
 Klocki LEGO Minecraft 21586 Blady ogród + GRATIS TORBA PREZENTOWA LEGO
 
@@ -1375,11 +1947,27 @@ Blady ogród
 
 - Wymiary — zestaw LEGO® Minecraft® Blady Ogród z 243 elementami ma 12 cm wysokości, 16 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 21151-1: https://a.allegroimg.com/original/0520b3/ecdc613a4af3a0e704b45a112e02
+
 ---
 
-## 21152 — Lego Minecraft 21152 Przygoda Na Statku Pirackim
+## 21152 — Przygoda na statku pirackim
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 474.88 zł · EAN: 05702016370904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21152 |
+| Nazwa angielska | The Pirate Ship Adventure |
+| Nazwa polska | Przygoda na statku pirackim |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 23 cm × gł. 23 cm |
+| EAN | 5702016370904 |
 
 LEGO MINECRAFT 21152 Przygoda na statku pirackim
 
@@ -1399,11 +1987,27 @@ Zbuduj statek piracki ze złotymi zdobieniami, piracką banderą, deską wysuni�
 
 **Elementy 386**
 
+**Galeria:**
+
+- 21152-1: https://a.allegroimg.com/original/119bc9/2d129fde46cebd189ad764ac7e6d
+
 ---
 
-## 21153 — Lego 21153 Minecraft Hodowla Owiec
+## 21153 — HODOWLA OWIEC
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 140.00 zł · EAN: 05702016370911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21153 |
+| Nazwa angielska | The Wool Farm |
+| Nazwa polska | HODOWLA OWIEC |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016370911 |
 
 **Witamy!!!**
 
@@ -1433,11 +2037,27 @@ W przypadku odbioru osobistego towaru prosimy udać się do tej lokalizacji.
 
 W siedzibie firmy nie jest prowadzona żadna sprzedaż.
 
+**Galeria:**
+
+- 21153-1: https://a.allegroimg.com/original/1128e3/1cbba8fb4ee89dd0a0cb3bf7d619
+
 ---
 
-## 21154 — Lego Minecraft 21154 Most Płomyków
+## 21154 — Most Płomyków
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702016370928 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21154 |
+| Nazwa angielska | The Blaze Bridge |
+| Nazwa polska | Most Płomyków |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 372 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 25 cm × gł. 13 cm |
+| EAN | 5702016370928 |
 
 Wydobywaj surowce, twórz przedmioty, buduj oraz walcz z latającymi płomykami na Moście Płomyków!
  
@@ -1457,11 +2077,27 @@ W zestawie minifigurka Alex, mroczny szkielet i 2 figurki płomyków z obrotowym
 - Zestaw zawiera ponad 370 klocków. 
 - Wymiary: 11 cm wysokości, 25 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 21154-1: https://a.allegroimg.com/original/0065fe/50f37ad84d84954fd9892e4afe1c
+
 ---
 
-## 21155 — Klocki Lego Minecraft zestaw Kopalnia Creeperów 21155 Nowe
+## 21155 — Kopalnia Creeperów
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702016370935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21155 |
+| Nazwa angielska | The Creeper Mine |
+| Nazwa polska | Kopalnia Creeperów |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 834 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 38 cm × gł. 22 cm |
+| EAN | 5702016370935 |
 
 Wskocz do wózka i wjedź do kopalni Creeperów!
  
@@ -1480,11 +2116,27 @@ Weź udział w emocjonujących przygodach w świecie Minecraft z zestawem LEGO M
 - Zestaw zawiera ponad 830 klocków. 
 - Kopalnia ma ok. 22 cm wysokości, 38 cm szerokości i 22 cm głębokości.
 
+**Galeria:**
+
+- 21155-1: https://a.allegroimg.com/original/0067ff/9a850fed4e8cb1aa939eda1f3f7e
+
 ---
 
-## 21156 — Lego Minecraft Creeper
+## 21156 — BigFig Creeper i Ocelot
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702016618235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21156 |
+| Nazwa angielska | BigFig Creeper and Ocelot |
+| Nazwa polska | BigFig Creeper i Ocelot |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618235 |
 
 💥⛏️ LEGO Minecraft Creeper 21276 – kultowa postać do zbudowania!
 
@@ -1556,11 +2208,27 @@ Wybierz **LEGO Minecraft Creeper – nowy, oryginalny zestaw**, który łączy k
 
 Stawiamy na **oryginalność i jakość oferowanych produktów, bezpieczne zakupy oraz profesjonalną obsługę**.
 
+**Galeria:**
+
+- 21156-1: https://a.allegroimg.com/original/11ae38/9f1a3d4a4415bacef8cfb182647f
+
 ---
 
-## 21157 — Lego Minecraft Creeper 21276 Nowe Oryginalne
+## 21157 — Minecraft BigFig - Świnka i mały zombie
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 167.99 zł · EAN: 05702016618242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21157 |
+| Nazwa angielska | BigFig Pig with Baby Zombie |
+| Nazwa polska | Minecraft BigFig - Świnka i mały zombie |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618242 |
 
 LEGO MINECRAFT CREEPER 21276
 
@@ -1584,11 +2252,27 @@ Ta duża, składana figurka dla chłopców i dziewczynek w wieku **od 10 lat**�
 
 Ten zestaw to nie tylko świetna zabawa, ale także dobry sposób na** trenowanie ważnych obszarów rozwoju dziecka**. Proces tworzenia konstrukcji** sprzyja koncentracji**, a także skupieniu uwagi na realizacji istotnego zadania. Co więcej, zabawa **wspiera kreatywne myślenie, koordynację wzrokowo-ruchową**, a także** pomaga rozwijać zdolności manualne**. Wymyślanie historii dla bohaterów **podkręca wyobraźnię **dziecka na znacznie wyższe obroty i **uczy cennej zdolności wcielania się w role**.
 
+**Galeria:**
+
+- 21157-1: https://a.allegroimg.com/original/2964c7/8a37bfd5493883c2df22aafc1804
+
 ---
 
-## 21158 — Lego Minecraft 21158 Żłobek dla pand Klocki
+## 21158 — Żłobek dla pand
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016618259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21158 |
+| Nazwa angielska | The Panda Nursery |
+| Nazwa polska | Żłobek dla pand |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 204 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618259 |
 
 LEGO MINECRAFT 21158 Żłobek dla pand
 
@@ -1600,11 +2284,27 @@ Znasz gracza, który marzy, by zaopiekować się uroczymi figurkami pand znanych
 
 **WIEK 7+**
 
+**Galeria:**
+
+- 21158-1: https://a.allegroimg.com/original/1135f9/3079b8454ae5b300f7d023217468
+
 ---
 
-## 21159 — Lego Minecraft 21159 Kryjówka rozbójników
+## 21159 — Kryjówka rozbójników
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 518.88 zł · EAN: 05702016618266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21159 |
+| Nazwa angielska | The Pillager Outpost |
+| Nazwa polska | Kryjówka rozbójników |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 303 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618266 |
 
 LEGO MINECRAFT 21159 Kryjówka rozbójników
 
@@ -1616,11 +2316,27 @@ Przenieś emocje znane z komputerowej gry Minecraft™ do prawdziwego życia za 
 
 **WIEK 8+**
 
+**Galeria:**
+
+- 21159-1: https://a.allegroimg.com/original/1155a1/880594654e2d9f5b97141de3d40d
+
 ---
 
-## 21160 — Klocki Lego Minecraft Zestaw Najazdosadników 21160
+## 21160 — Najazd złosadników
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 698.00 zł · EAN: 05702016618273 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21160 |
+| Nazwa angielska | The Illager Raid |
+| Nazwa polska | Najazd złosadników |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 562 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618273 |
 
 Pełna akcji przygoda LEGO® Minecraft™ rozgrywa się w inspirującym otoczeniu z ciekawymi akcesoriami i ulubionymi postaciami z popularnej gry komputerowej. Gdy figurka tajemniczego Kaia z Minecrafta przybędzie na pomoc, wszystko może się wydarzyć! Mnóstwo opcji budowania, zabawy i tworzenia Tworzenie niezliczonych scenariuszy zabawy jest bardzo proste dzięki możliwości przemieszczania trzech części modelu przedstawiających miejsca znane z gry Minecraft — pustynny dom z płaskim dachem, punkt handlowy i pole uprawne.
 
@@ -1630,11 +2346,27 @@ Trzyczęściowy zestaw ma ok. 46 cm długości, 34 cm szerokości i 26 cm wysoko
 
 A po przesunięciu jego części lub połączeniu z innymi modelami LEGO® rozrywka będzie jeszcze dłuższa i lepsza!
 
+**Galeria:**
+
+- 21160-1: https://a.allegroimg.com/original/00a67b/be55d5f641ebbb9eee0f3124a42b
+
 ---
 
-## 21161 — Lego Minecraft Kreatywny Warsztat 3.0 21161
+## 21161 — Kreatywny warsztat 3.0
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 531.00 zł · EAN: 05702016618280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21161 |
+| Nazwa angielska | The Crafting Box 3.0 |
+| Nazwa polska | Kreatywny warsztat 3.0 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 564 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 27 cm × gł. 26 cm |
+| EAN | 5702016618280 |
 
 Kreatywny warsztat 3.0
 
@@ -1672,11 +2404,27 @@ Zestawy konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki
 
 Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że zestaw konstrukcyjny, który podarujesz dziecku, spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 21161-1: https://a.allegroimg.com/original/11a32f/984564394bf9b55903a57830f849
+
 ---
 
-## 21162 — Lego Minecraft 21162 Przygoda w Tajdze
+## 21162 — Przygoda w tajdze
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702016618297 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21162 |
+| Nazwa angielska | The Taiga Adventure |
+| Nazwa polska | Przygoda w tajdze |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618297 |
 
 LEGO MINECRAFT 21162 Przygoda w tajdze
 
@@ -1688,11 +2436,27 @@ Funkcje i figurki Minecraft™ do zbudowania, modyfikowania i zabawy w tym cieka
  
 **WIEK 7+**
 
+**Galeria:**
+
+- 21162-1: https://a.allegroimg.com/original/05365a/48a695194a53bd95512131eb1d32
+
 ---
 
-## 21163 — Lego Minecraft 21163 Bitwa o czerwony kamień
+## 21163 — Bitwa o czerwony kamień
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702016618303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21163 |
+| Nazwa angielska | The Redstone Battle |
+| Nazwa polska | Bitwa o czerwony kamień |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 504 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618303 |
 
 LEGO MINECRAFT
  
@@ -1712,21 +2476,53 @@ W pudełku znajdą niesamowitą broń i ruchome potwory z czerwonego kamienia, k
 
 Straszliwe potwory i golem z czerwonego kamienia chodzą swobodnie po Świecie! Łap za topór i przygotuj się do walki. Na szczęście dołączą do Ciebie Hex, Hedwiga, Hal i Valorie, a nawet wypchana forsą świnka-skarbonka!
 
+**Galeria:**
+
+- 21163-1: https://a.allegroimg.com/original/25b1a2/6f82cbd147d7b0d9d99fbf8cc461
+
 ---
 
-## 21164 — Lego Minecraft 21164 Rafa koralowa
+## 21164 — Rafa koralowa
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 84.91 zł · EAN: 05702016913569 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21164 |
+| Nazwa angielska | The Coral Reef |
+| Nazwa polska | Rafa koralowa |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 10 cm × gł. 10 cm |
+| EAN | 5702016913569 |
 
 Lego MINECRAFT 21164 Rafa koralowa
 
 O Praktyczny prezent, jakim jest zestaw LEGO(R) Minecraft(TM) 21164 Rafa koralowa, przenosi podwodne przygody znane z gry do rzeczywistości dzięki klockom LEGO, które można przekształcać bez końca.o Solidny zestaw LEGO(R) Minecraft(TM) zawiera popularną, uzbrojoną w miecz bohaterkę Alex w hełmie nurka i magicznych portkach, a także utopca, dwie rozdymki (jedną ,,nadętą" i jedną zwykłą) oraz inne akcesoria.o Dzieci mogą dołączyć do odważnej, znanej z gry Minecraft(TM) bohaterki Alex i razem z nią dać nura do oceanu w poszukiwaniu skarbu ukrytego gdzieś na kolorowej rafie, a także podjąć walkę z utopcem, który atakuje z zaskoczenia.o Dla osób w wieku od 7 lat. Zachwyć fanów Minecrafta(TM) zestawem konstrukcyjnym, który przenosi grę do rzeczywistości. To doskonała niespodzianka dla graczy, którzy chcą przeżyć niesamowitą przygodę w stylu Minecrafta.o Zestaw ma ok. 7 cm wysokości, 10 cm szerokości i 10 cm głębokości, więc idealnie nadaje się do praktycznej zabawy, a jednocześnie stanowi imponującą ozdobę.o Kolorowa rafa koralowa jest pełna autentycznych detali znanych z Minecrafta(TM) oraz niesamowitych akcesoriów takich jak ukryta otwierana skrzynia ze skarbem: rybą i perłą.
 
+**Galeria:**
+
+- 21164-1: https://a.allegroimg.com/original/113f08/a10af6924f41a4851370c41b2825
+
 ---
 
-## 21165 — Lego Minecraft 21165 Pasieka
+## 21165 — Pasieka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 216.00 zł · EAN: 05702016913774 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21165 |
+| Nazwa angielska | The Bee Farm |
+| Nazwa polska | Pasieka |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 16 cm × gł. 13 cm |
+| EAN | 5702016913774 |
 
 W zestawie LEGO® Minecraft™ 21165 Pasieka aż roi się od możliwości odgrywania ról. Zarówno gracze, jak i dzieci nie grające w gry mogą cieszyć się nieograniczoną, praktyczną i kreatywną zabawą ciekawymi postaciami i stworzeniami ze znanej gry.
  
@@ -1752,11 +2548,27 @@ Szukasz doskonałego prezentu urodzinowego lub świątecznego dla fana Minecraft
 - Zestawy konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21165-1: https://a.allegroimg.com/original/05d6ac/d4fe153140b4b3556956807b346a
+
 ---
 
-## 21166 — Zestaw Lego Minecraft 21166 Opuszczona kopalnia
+## 21166 — Opuszczona kopalnia
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 163.99 zł · EAN: 05702016913446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21166 |
+| Nazwa angielska | The "Abandoned" Mine |
+| Nazwa polska | Opuszczona kopalnia |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 19 cm × gł. 12 cm |
+| EAN | 5702016913446 |
 
 ZESTAW LEGO Minecraft 21166 Opuszczona kopalnia
 
@@ -1790,11 +2602,27 @@ Klocki i elementy LEGO® spełniają najwyższe standardy branżowe, co oznacza,
 
 Klocki LEGO® są poddawane testom, takim jak zrzucanie, podgrzewanie, zgniatanie, skręcanie i wiele innych, aby zapewnić najwyższe standardy bezpieczeństwa i jakości. Możesz być pewien, że zestaw konstrukcyjny, który podarujesz dziecku, spełnia najwyższe światowe standardy.
 
+**Galeria:**
+
+- 21166-1: https://a.allegroimg.com/original/25ba75/23a846704875bdd90901f75848c3
+
 ---
 
-## 21167 — Lego Minecraft 21167 Punkt handlowy
+## 21167 — Minecraft Punkt handlowy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 163.99 zł · EAN: 05702016913453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21167 |
+| Nazwa angielska | The Trading Post |
+| Nazwa polska | Minecraft Punkt handlowy |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 14 cm × gł. 9 cm |
+| EAN | 5702016913453 |
 
 W zestawie LEGO® Minecraft™ 21167 Punkt handlowy dzieci znajdą mnóstwo elementów i postaci znanych z gry, które zachęcają do nieograniczonej i kreatywnej zabawy w odgrywanie ról — wybuchającą kopalnię, wrogi szkielet, tajemniczego handlarza i dwie lamy!
  
@@ -1819,11 +2647,27 @@ Szukasz doskonałego prezentu urodzinowego lub świątecznego dla fana Minecraft
 - Zestawy konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21167-1: https://a.allegroimg.com/original/1135a0/371d0c704bd29d96c5ec4263b011
+
 ---
 
-## 21168 — Lego 21168 Minecraft Spaczony las
+## 21168 — Spaczony las
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 204.00 zł · EAN: 05702016913460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21168 |
+| Nazwa angielska | The Warped Forest |
+| Nazwa polska | Spaczony las |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 287 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 25 cm × gł. 14 cm |
+| EAN | 5702016913460 |
 
 Zbuduj własny biom spaczonego lasu w mrocznym i niebezpiecznym Netherze, a potem pomóż łowczyni przemierzyć zalaną lawą okolicę. Drogę zagradzają jej pigliny uzbrojone w miecze i wrogi hoglin. W jaki sposób odważna łowczyni pokona ognistą rzekę lawy? Ostrożnie umieść dynamit przy drzewie, a gdy wybuchnie z hukiem, przewrócony konar posłuży za most na drugą stronę rzeki.
  
@@ -1846,11 +2690,27 @@ Dzieci mogą wysadzić dynamitem drzewo, które przewróci się i utworzy mo st 
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21168-1: https://a.allegroimg.com/original/007f10/f36538ee48b4a745ab91f002ffab
+
 ---
 
-## 21169 — Klocki Lego Minecraft 21169 Pierwsza przygoda
+## 21169 — Pierwsza przygoda
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702016913873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21169 |
+| Nazwa angielska | The First Adventure |
+| Nazwa polska | Pierwsza przygoda |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 542 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 20 cm × gł. 18 cm |
+| EAN | 5702016913873 |
 
 Wejdź do pełnego akcji świata gry Minecraft™ odtworzonego w niezwykły sposób z klocków. Możesz w nim zwiedzić trójpoziomową scenę pełną ciekawych funkcji. Jest tu wodospad z windą, zapadające się tory kolejowe, przesuwane bryły ziemi i — rzecz jasna — wybuchy! Steve i Alex wyruszają na wspólną przygodę razem ze szkieletami, barwionym kotem, rogatą owcą i ukwieconą kwietną krową.
 
@@ -1872,47 +2732,27 @@ Scena ma trzy poziomy pełne fascynujących detali, takich jak wodospad z windą
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
----
+**Galeria:**
 
-## 21170 — Lego Minecraft Alex i Creeper Dom w kształcie świni 21170
-
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 444.00 zł · EAN: 05702016913880 · in stock*
-
-LEGO Minecraft - Dom w kształcie świni
-
-- **490 **elementów,
-- **4 postacie i stworzenia **znane z gry,
-- wymiary - **ok. 14 cm wysokości, 20 cm szerokości i 19 cm głębokości,**
-- przeznaczony dla dzieci powyżej **8 roku życia,**
-- numer katalogowy **21170.**
-
-Zestaw LEGO® Minecraft™ 21170 Dom w kształcie świni pozwala fanom Minecrafta™ przenieść świat swojej ulubionej gry do rzeczywistości. Ten autentyczny zestaw inspirowany Minecraftem łączy zabawę, kreatywność i przygody znane z sieciowej gry z praktycznością i wszechstronnością zabawek konstrukcyjnych LEGO.
-
-**Szukasz idealnego prezentu dla fana Minecrafta?**
-
-Wykorzystując swoje umiejętności, dzieci mogą stworzyć zabawny model domu w kształcie ogromnej świni — zupełnie tak jak w grze. Bok modelu można otworzyć, by wejść do dużego pokoju, a na głowie świni jest zdejmowany dach, pod którym kryje się jeszcze więcej miejsca do zabawy. Model można przekształcać bez końca, a głowa świni jest odczepiana, więc da się ją przenieść w dowolne miejsce.
-
-**Odważna bohaterka Alex** zaprasza do wspólnej zabawy, ale gracze muszą uważać na znanego i (nie)lubianego Creepera™, który ma zamiar pokrzyżować wszystkie plany. Przed domem też jest wiele do roboty — na konstruktorów czekają dwie urocze świnki. Ponadtomodel ma funkcję eksplozji, która nadaje mu realizmu. Skorzystaj z niej, a dom rozpadnie się na kawałki!
-
-- Zestaw LEGO® Minecraft 21170 Dom w kształcie świni to dla pasjonatów Minecrafta™ gwarancja wciągającej zabawy. Łączy frajdę, kreatywność i przygody znane z gry z praktycznością i wszechstronnością klocków LEGO.
-- Autentyczny zestaw LEGO® Minecraft™ z popularną bohaterką Alex, kultowym Creeperem™ i 2 świnkami. W zestawie znajdują się też akcesoria dla Alex oraz marchewki dla świnek.
-- Dzieci używają swoich umiejętności z gry Minecraft™, by zbudować dom w kształcie świni. Mogą otworzyć drzwi i zdjąć dach, by zwiedzić ukryte pokoje, ukrywać się przed Creeperem™ i opiekować się świnkami. Ukończoną konstrukcję można wysadzić za pomocą funkcji eksplozji!
-- Dla osób w wieku od 8 lat. To doskonały prezent dla dzieci, które chcą przeżyć niesamowitą przygodę w stylu Minecrafta™.
-- Model ma ok. 14 cm wysokości, 20 cm szerokości i 19 cm głębokości, więc zachęci dzieci do praktycznej, kreatywnej zabawy oraz będzie się wspaniale prezentować w pokoju każdego fana Minecrafta™.
-
-W opakowaniu znajdują się **4 postacie i stworzenia z gry:**
-
-- **Alex,**
-- **Creeper™,**
-- **dwie świnki.**
-
-Zestaw zawiera także **akcesoria Alex oraz marchewki** przeznaczone dla świnek.
+- 21169-1: https://a.allegroimg.com/original/05d73e/940656c64dcc91160089293a8953
 
 ---
 
-## 21171 — Lego Minecraft Stajnia 21171
+## 21171 — LEGO Minecraft Stajnia 21171
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 157.00 zł · EAN: 05702016913897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21171 |
+| Nazwa angielska | The Horse Stable |
+| Nazwa polska | LEGO Minecraft Stajnia 21171 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm × gł. 14 cm |
+| EAN | 5702016913897 |
 
 Nowy nieotwierany zestaw Lego 21171 Minecraft Stajnia.
 
@@ -1937,11 +2777,27 @@ Dzieci, które lubią tworzyć, modyfikować oraz używać wyobraźni będą zac
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21171-1: https://a.allegroimg.com/original/29f6fd/3a83aa104374b464b7f8d6f1ee50
+
 ---
 
-## 21172 — klocki Lego Minecraft 21172 Zniszczony portal szkielet steve owca
+## 21172 — Zniszczony portal
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 279.14 zł · EAN: 05702016913903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21172 |
+| Nazwa angielska | The Ruined Portal |
+| Nazwa polska | Zniszczony portal |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 316 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm × gł. 15 cm |
+| EAN | 5702016913903 |
 
 Lego Minecraft Zniszczony portal 21172
  
@@ -1965,11 +2821,27 @@ Zestaw LEGO® Minecraft™ Zniszczony portal (21172) pozwala oddanym fanom Minec
  
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21172-1: https://a.allegroimg.com/original/11080a/4f6943cf445fa2eb733a2e871632
+
 ---
 
-## 21173 — Lego 21173 Minecraft Podniebna wieża
+## 21173 — Podniebna wieża
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 359.49 zł · EAN: 05702016913910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21173 |
+| Nazwa angielska | The Sky Tower |
+| Nazwa polska | Podniebna wieża |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 15 cm × gł. 12 cm |
+| EAN | 5702016913910 |
 
 Klocki LEGO Minecraft 21173 - Podniebna wieża
 
@@ -2006,11 +2878,27 @@ Zestaw LEGO Minecraft - Podniebna wieża trafił do sprzedaży w 2021 roku. Nu
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 21173-1: https://a.allegroimg.com/original/111644/f414eb3141fa95f03a6be7ecdcd5
+
 ---
 
-## 21174 — Lego Minecraft Nowoczesny domek na drzewie 21174
+## 21174 — Nowoczesny domek na drzewie
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 769.00 zł · EAN: 05702016913927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21174 |
+| Nazwa angielska | The Modern Treehouse |
+| Nazwa polska | Nowoczesny domek na drzewie |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 909 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 20 cm × gł. 17 cm |
+| EAN | 5702016913927 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2047,11 +2935,27 @@ LEGO® Minecraft™ Nowoczesny domek na drzewie (21174) to duży, szczegółowy 
 
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21174-1: https://a.allegroimg.com/original/1106be/5de2af8a4973a04ffc169ebcabf9
+
 ---
 
-## 21176 — Lego 21176 Minecraft Postrach Dżungli Żelazny Golem Zaczarowany Creeper
+## 21176 — Postrach Dżungli
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 497.50 zł · EAN: 05702017035949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21176 |
+| Nazwa angielska | The Jungle Abomination |
+| Nazwa polska | Postrach Dżungli |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 489 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017035949 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2081,11 +2985,27 @@ Fani Minecrafta będą zachwyceni tym wielkim, groźnym potworem. Duża ruchoma 
 - Zestawy konstrukcyjne LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21176-1: https://a.allegroimg.com/original/1159e2/6206714f4d58a7b1649d6e67c373
+
 ---
 
-## 21178 — Lego Minecraft 21178 Siedlisko lisów
+## 21178 — Siedlisko lisów
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 109.68 zł · EAN: 05702017155791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21178 |
+| Nazwa angielska | The Fox Lodge |
+| Nazwa polska | Siedlisko lisów |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702017155791 |
 
 LEGO Minecraft 21178 Siedlisko lisów
  
@@ -2110,11 +3030,27 @@ Fani Minecrafta® mogą użyć swoich umiejętności, by zbudować dom w kształ
 - Doskonały prezent — ośmioletnich i starszych graczy zachwyci ten prezent na urodziny, święta lub z dowolnej innej okazji, który pozwoli im przeżywać przygody w stylu Minecrafta® w zupełnie nowy sposób 
 - Niewielki zestaw — model ma ok. 10 cm wysokości, 17 cm szerokości i 12 cm głębokości, świat pomysłowej zabawy można więc zawsze mieć przy sobie
 
+**Galeria:**
+
+- 21178-1: https://a.allegroimg.com/original/05aaf5/34d77e4d41109ca292d415d80c5b
+
 ---
 
-## 21179 — Lego 21179 Minecraft Dom w grzybie
+## 21179 — Dom w grzybie
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 158.26 zł · EAN: 05702017156583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21179 |
+| Nazwa angielska | The Mushroom House |
+| Nazwa polska | Dom w grzybie |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 272 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 13 cm × gł. 15 cm |
+| EAN | 5702017156583 |
 
 LEGO 21179 MINECRAFT Dom w grzybie
 
@@ -2140,11 +3076,27 @@ Klocki LEGO MINECRAFT Dom w grzybie
 - Prezent pełen atrakcji — zestaw będzie świetnym upominkiem na urodziny, święta lub z dowolnej innej okazji dla ośmioletnich i starszych graczy w Minecrafta® 
 - Wszechstronny zestaw — model ma ok. 10 cm wysokości, 13 cm szerokości i 15 cm głębokości, a scenę z drzewem i skrzynią można przebudować na różne sposoby
 
+**Galeria:**
+
+- 21179-1: https://a.allegroimg.com/original/11d42b/ae3b2fc64f6fbd1f7dff1005fbb1
+
 ---
 
-## 21180 — Lego Minecraft 21180 Walka ze strażnikami
+## 21180 — Walka ze strażnikami
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 193.00 zł · EAN: 05702017156590 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21180 |
+| Nazwa angielska | The Guardian Battle |
+| Nazwa polska | Walka ze strażnikami |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 255 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm × gł. 7 cm |
+| EAN | 5702017156590 |
 
 LEGO Minecraft Walka ze strażnikami 21180
  
@@ -2173,11 +3125,27 @@ Kreatywna podwodna przygoda w stylu Minecrafta® z mnóstwem znanych postaci i f
 - Minecraft® jak żywy - zestawy LEGO® Minecraft pozwalają fanom czerpać radość z ulubionej gry w nowy sposób dzięki postaciom, sceneriom i funkcjom, które ożywają podczas kreatywnej zabawy klockami LEGO 
 - Pewność i bezpieczeństwo - elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21180-1: https://a.allegroimg.com/original/05fad1/7e98fa30452e955b96bd4ee550c2
+
 ---
 
-## 21181 — Lego Minecraft 21181 Królicza farma
+## 21181 — MINECRAFT Królicza farma 21181
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 227.00 zł · EAN: 05702017156606 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21181 |
+| Nazwa angielska | The Rabbit Ranch |
+| Nazwa polska | MINECRAFT Królicza farma 21181 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 340 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 22 cm × gł. 12 cm |
+| EAN | 5702017156606 |
 
 LEGO Minecraft Królicza farma 21181
  
@@ -2206,11 +3174,27 @@ Fani Minecrafta® mogą zbudować wspaniały dom dla swoich królików. W środk
 - Minecraft® jak żywy - zestawy LEGO® Minecraft pozwalają fanom czerpać radość z ulubionej gry w nowy sposób dzięki postaciom, sceneriom i funkcjom, które ożywają podczas kreatywnej zabawy klockami LEGO 
 - Pewność i bezpieczeństwo - elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21181-1: https://a.allegroimg.com/original/257c81/8f212c21453b8678c74a7c545fdb
+
 ---
 
-## 21184 — Lego Minecraft 21184 Piekarnia
+## 21184 — Piekarnia
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 164.00 zł · EAN: 05702017156620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21184 |
+| Nazwa angielska | The Bakery |
+| Nazwa polska | Piekarnia |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm × gł. 14 cm |
+| EAN | 5702017156620 |
 
 LEGO Minecraft 21184 Piekarnia
 
@@ -2237,11 +3221,27 @@ Zabawa w przebudowywanie dla kreatywnych dzieci
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Popularne moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21184-1: https://a.allegroimg.com/original/25700d/f787a7ac48ac8d8589ba26b3a218
+
 ---
 
-## 21185 — Lego Minecraft 21185 Bastion w Netherze
+## 21185 — Bastion w Netherze
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702017156637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21185 |
+| Nazwa angielska | The Nether Bastion |
+| Nazwa polska | Bastion w Netherze |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 18 cm |
+| EAN | 5702017156637 |
 
 LEGO Minecraft 21185 Bastion w Netherze
  
@@ -2265,11 +3265,27 @@ Przedrzyj się do Bastionu w Netherze. Ujarzmij magmołaza i wykorzystaj go, aby
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Popularne moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21185-1: https://a.allegroimg.com/original/11f1d8/4e838c414778bb30ff6680814368
+
 ---
 
-## 21186 — Lego 21186 Minecraft Lodowy zamek
+## 21186 — Lodowy zamek
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 418.99 zł · EAN: 05702017156644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21186 |
+| Nazwa angielska | The Ice Castle |
+| Nazwa polska | Lodowy zamek |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 499 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 23 cm × gł. 19 cm |
+| EAN | 5702017156644 |
 
 Klocki LEGO Minecraft 21186 - Lodowy zamek
 
@@ -2309,11 +3325,27 @@ Zestaw LEGO Minecraft - Lodowy zamek trafił do sprzedaży w 2022 roku. Numer 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 21186-1: https://a.allegroimg.com/original/11a619/dc060c5c4b5bb8728c5dc90123df
+
 ---
 
-## 21187 — Lego 21187 Minecraft Czerwona stodoła
+## 21187 — Czerwona stodoła
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 559.00 zł · EAN: 05702017156675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21187 |
+| Nazwa angielska | The Red Barn |
+| Nazwa polska | Czerwona stodoła |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 799 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 26 cm × gł. 24 cm |
+| EAN | 5702017156675 |
 
 Klocki LEGO Minecraft 21187 - Czerwona stodoła
 
@@ -2354,11 +3386,27 @@ Zestaw LEGO Minecraft - Czerwona stodoła trafił do sprzedaży w 2022 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 21187-1: https://a.allegroimg.com/original/11aae2/958d7b6d48fc98ef83c1e411b4f2
+
 ---
 
-## 21188 — Lego Minecraft 21188 nowy zestaw Julivo
+## 21188 — Wioska lamy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 1269.00 zł · EAN: 05702017156699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21188 |
+| Nazwa angielska | The Llama Village |
+| Nazwa polska | Wioska lamy |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 30 cm × gł. 30 cm |
+| EAN | 5702017156699, 840111509142 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach. Opakowanie jest otwarte z jednej strony. Zestaw kompletny, woreczki z klockami są nieotwarte.
 
@@ -2397,45 +3445,77 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
----
+**Galeria:**
 
-## 21189 — Lego 21189 Minecraft Loch szkieletów klocki inspirowane grą
-
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 335.21 zł · EAN: 05702017234328 · in stock*
-
-LEGO 21189 Minecraft - Loch szkieletów
-
-Zestaw oryginalny, **nowy**, fabrycznie zapakowany, opakowanie w stanie idealnym.
-
-Dostępność od ręki.
-
-Nr katalogowy:** 21189**
-
-Adresowany dla wieku:** 8+**
-
-Ilość klocków:** 364**
-
-**Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
-
-LEGO® Minecraft® Loch szkieletów (21189) to ekscytująca zabawka dla graczy w Minecrafta od 8 lat.
-
-Dzięki temu wszechstronnemu zestawowi badacz jaskiń zmierzy się z wrogimi szkieletami w jaskini naciekowej pełnej stalagmitów i stalaktytów. Jaskinia pełna krzewów, pnączy, wody, gliny i pochodni. Jest tu także loch szkieletów, w którym znajduje się spawner.
-
-Podczas zabawy można zepchnąć stalagmit na wrogie moby oraz obrócić ścianę, by ujawnić trzeci szkielet. Do dyspozycji masz też kuszę i kilof, a w skrzyni znajduje się płyta, chleb i kość. Jest tu wszystko, czego potrzebują gracze w Minecrafta, by cieszyć się nieskończonymi przygodami!
-
-- Kultowe funkcje – w zestawie znajduje się badacz jaskiń, trzy szkielety, trzy biomy, jaskinia naciekowa ze spadającymi skałami, bujna jaskinia z krzakami, gliną i pochodniami, a także loch ze spawnerem szkieletów
-
-- Prezent dla dzieci – ten praktyczny, inspirowany grą wideo zestaw to świetny prezent na urodziny, pod choinkę lub bez okazji dla ośmioletnich i starszych fanów Minecrafta®
-
-- Wszechstronna zabawa – **model ma 14 cm wysokości, 19 cm szerokości i 14 cm głębokości**. Zestaw można przebudowywać, co daje wiele możliwości zabawy
-
-- Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO
+- 21188-1: https://a.allegroimg.com/original/112205/0e50c3ac4ee1a10e346bc9135bde
+- 21188-2: https://a.allegroimg.com/original/11e9d2/c822bfc9472ea211ac97bcef9d8a
 
 ---
 
-## 21190 — Klocki Lego Minecraft Opuszczona wioska 422 elementy 8 lat wgniotki
+## 21189 — Loch szkieletów
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 424.00 zł · EAN: 05702017233260 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21189 |
+| Nazwa angielska | The Skeleton Dungeon |
+| Nazwa polska | Loch szkieletów |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017234328, 750264772051 |
+
+Zestaw oświetlenia LED LEGO P40001 21189 to idealne rozwiązanie dla miłośników budowania z LEGO, którzy chcą efektownie podkreślić swoje modele. Prosty montaż i energooszczędna technologia LED sprawią, że Twoja konstrukcja zyska nowy wymiar i niepowtarzalny charakter.
+
+Zestaw oświetlenia LED LEGO P40001 21189 został stworzony z myślą o entuzjastach klocków LEGO, którzy chcą nadać swoim budowlom niepowtarzalnego blasku. Precyzyjnie wykonane elementy oświetleniowe doskonale dopasowują się do oryginalnych klocków, zapewniając dyskretną i estetyczną instalację.
+
+Energooszczędne diody LED gwarantują długotrwałe użytkowanie – bez konieczności częstej wymiany zasilania. Zestaw doskonale wpisuje się w kategorię elektroniki, łącząc zaawansowaną technologię z kreatywną zabawą.
+
+**Najważniejsze cechy i funkcje:**
+
+- **Dedykowany do LEGO P40001 21189** – idealne dopasowanie do modeli z tej serii
+- **Energooszczędne diody LED** – wydajne oświetlenie przy niskim poborze energii
+- **Prosty montaż** – intuicyjne połączenie bez konieczności użycia narzędzi
+- **Dyskretne elementy** – nie ingerują w wygląd modelu LEGO
+- **Bezpieczne użytkowanie** – komponenty zaprojektowane z myślą o dzieciach i dorosłych
+
+**Zastosowanie / przeznaczenie:**
+
+Zestaw oświetlenia LED przeznaczony jest do podświetlania modeli LEGO P40001 21189. Doskonale sprawdzi się jako efektowny dodatek do kolekcji, podczas wystaw, prezentacji lub zabawy, podkreślając detale i nadając budowli wyjątkowy klimat.
+
+**Przewagi i korzyści:**
+
+- Unikalne **podświetlenie modeli LEGO** sprawia, że budowla staje się bardziej realistyczna
+- **Łatwy montaż** oszczędza Twój czas i pozwala cieszyć się efektem od razu po podpięciu
+- Energooszczędność to **dłuższa praca bez ładowania** i niższe koszty użytkowania
+- Kompaktowa konstrukcja pozwala zachować estetykę i funkcjonalność modelu
+- **Zwiększa atrakcyjność kolekcji** podczas prezentacji lub ekspozycji
+
+**Galeria:**
+
+- 21189-1: https://a.allegroimg.com/original/114a12/22fb53eb47f1a44594d586c51496
+- 21189-2: https://a.allegroimg.com/original/11b7f1/f5712dd44fe2b2647b13a1d90f3b
+
+---
+
+## 21190 — Opuszczona wioska
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21190 |
+| Nazwa angielska | The Abandoned Village |
+| Nazwa polska | Opuszczona wioska |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 422 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 10 cm |
+| EAN | 5702017233260 |
 
 Kartonik posiada wgniotki
 
@@ -2460,11 +3540,27 @@ Misją gracza jest odbicie opuszczonej wioski z rąk zombie i odbudowanie jej po
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21190-1: https://a.allegroimg.com/original/059762/fcb0f7ed4952acfbc1f309113e96
+
 ---
 
-## 21240 — Lego Minecraft 21240 Lego Minecraft Przygoda na mokradłach
+## 21240 — Przygoda na mokradłach
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 56.29 zł · EAN: 05702017415154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21240 |
+| Nazwa angielska | The Swamp Adventure |
+| Nazwa polska | Przygoda na mokradłach |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 57020131315017, 57020166953147, 5702017415154 |
 
 LEGO Minecraft 21240 Przygoda na mokradłach
  
@@ -2488,11 +3584,29 @@ Podaruj fanom Minecrafta® w wieku od siedmiu lat ten zestaw LEGO® Minecraft Pr
 - Minecraft® na żywo – zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21240-1: https://a.allegroimg.com/original/115215/ec36e55e43faae6b468e64f27b50
+- 21240-2: https://a.allegroimg.com/original/2933e5/8865f50c46f4bf475406a76e7225
+- 21240-3: https://a.allegroimg.com/original/11dca5/e13f9fbb4f05a198f81546c85051
+
 ---
 
-## 21241 — Lego Minecraft 21241 Pszczeli ul klocki
+## 21241 — Pszczeli ul
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 249.93 zł · EAN: 05702017415161 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21241 |
+| Nazwa angielska | The Bee Cottage |
+| Nazwa polska | Pszczeli ul |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702017415161 |
 
 LEGO Minecraft 21241 Pszczeli ul
  
@@ -2516,11 +3630,27 @@ Gracze w Minecrafta® w wieku od ośmiu lat będą zachwyceni, gdy dostaną zest
 - Minecraft® na żywo – zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 21241-1: https://a.allegroimg.com/original/05e8bb/f8954e834ddbb32350d6f6ab4c45
+
 ---
 
-## 21242 — Lego 21242 Minecraft Arena Endu
+## 21242 — Arena Endu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 196.01 zł · EAN: 05702017415673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21242 |
+| Nazwa angielska | The End Arena |
+| Nazwa polska | Arena Endu |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 252 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702017415673 |
 
 LEGO 21242 MINECRAFT Arena Endu
 
@@ -2548,11 +3678,27 @@ LEGO Minecraft Arena Endu
 
  Interaktywny model cyfrowy – aplikacja LEGO® Builder oferuje intuicyjne narzędzia do powiększania i obracania, aby zwizualizować model podczas budowania.
 
+**Galeria:**
+
+- 21242-1: https://a.allegroimg.com/original/1149db/16b792404b0fb19969bb34b9f62c
+
 ---
 
-## 21243 — Lego Minecraft Ośnieżone szyty -outlet- 21243
+## 21243 — Ośnieżone szczyty
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017399461 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21243 |
+| Nazwa angielska | The Frozen Peaks |
+| Nazwa polska | Ośnieżone szczyty |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 19 cm × gł. 14 cm |
+| EAN | 5702017399461 |
 
 Klocki LEGO® - Minecraft
 
@@ -2580,11 +3726,27 @@ Gracze w Minecrafta rozpoznają ośnieżone szczyty i tajgę i z chęcią wykorz
 - Gwarancja jakości – elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Pewność i bezpieczeństwo – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 21243-1: https://a.allegroimg.com/original/110170/434011c54bbc9c98f41eeeb69067
+
 ---
 
-## 21244 — Lego 21244 Minecraft Bastion miecza
+## 21244 — LEGO Minecraft Bastion miecza 21244
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 334.99 zł · EAN: 05702017415796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21244 |
+| Nazwa angielska | The Sword Outpost |
+| Nazwa polska | LEGO Minecraft Bastion miecza 21244 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 427 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 25 cm × gł. 11 cm |
+| EAN | 5702017415796 |
 
 LEGO 21244 Minecraft - Bastion miecza
 
@@ -2608,11 +3770,27 @@ Dzieci budują bazę w kształcie gigantycznego miecza na zboczu góry i bronią
 
 - Minecraft® na żywo – zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO
 
+**Galeria:**
+
+- 21244-1: https://a.allegroimg.com/original/456d65/167f953c4addbeb1cfe7d59d5bc3
+
 ---
 
-## 21245 — Lego Minecraft 21245 nowy zestaw Julivo
+## 21245 — Rezerwat pandy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 419.00 zł · EAN: 05702017415802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21245 |
+| Nazwa angielska | The Panda Haven |
+| Nazwa polska | Rezerwat pandy |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 553 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 11 cm × gł. 10 cm |
+| EAN | 5702017415802 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -2652,11 +3830,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 21245-1: https://a.allegroimg.com/original/25183e/4fd93f0444d6aef693800643306f
+
 ---
 
-## 21246 — Lego Minecraft Bitwa w mrocznej głębi 21246
+## 21246 — BITWA W MROCZNEJ GŁĘBI
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 409.98 zł · EAN: 05702017415819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21246 |
+| Nazwa angielska | The Deep Dark Battle |
+| Nazwa polska | BITWA W MROCZNEJ GŁĘBI |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 584 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415819 |
 
 LEGO MINECRAFT
 
@@ -2683,11 +3877,27 @@ Dzieci wcielają się w bohaterów z Minecrafta, kusznika i rycerza z Netheru, i
 - Okazja do odkrywania, kopania i walczenia – dzieci odkryją starożytne miasto, wykopią cenne surowce, obudzą potwornego strażnika, wywołają eksplozję i spróbują uciec w bezpieczne miejsce
 - Duża figurka z gry – strażnik do zbudowania z klocków ma 9 cm wysokości
 
+**Galeria:**
+
+- 21246-1: https://a.allegroimg.com/original/11a8b4/2efac0884ca2a4d423b171242269
+
 ---
 
-## 21247 — Klocki Lego Minecraft 21247 Dom aksolotla majkraft atlantyda
+## 21247 — LEGO Minecraft 21247 Dom aksolotla
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 278.99 zł · EAN: 05702017415826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21247 |
+| Nazwa angielska | The Axolotl House |
+| Nazwa polska | LEGO Minecraft 21247 Dom aksolotla |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 242 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 17 cm × gł. 14 cm |
+| EAN | 5702017415826 |
 
 LEGO Minecraft 21247 Dom aksolotla
  
@@ -2731,11 +3941,27 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
  
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21247-1: https://a.allegroimg.com/original/11774c/e64ab8bf420a8b4f15b53169ee02
+
 ---
 
-## 21248 — Zestaw Lego Minecraft 21248 Dyniowa Farma
+## 21248 — Klocki LEGO Minecraft 21248 Dyniowa farma
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 168.90 zł · EAN: 05702017415833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21248 |
+| Nazwa angielska | The Pumpkin Farm |
+| Nazwa polska | Klocki LEGO Minecraft 21248 Dyniowa farma |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 27 cm × gł. 14 cm |
+| EAN | 5702017415833 |
 
 ZESTAW LEGO MINECRAFT - 21248 - DYNIOWA FARMA
 
@@ -2773,11 +3999,27 @@ Dyniowa farma to model, który łączy budowanie, zabawę fabularną i eksplorac
 
 Zestaw LEGO Minecraft 21248 to doskonały wybór dla dzieci od 8 roku życia oraz fanów Minecrafta, którzy lubią kreatywne budowanie i dynamiczną zabawę. To idealna propozycja zarówno na prezent urodzinowy, jak i niespodziankę bez okazji – szczególnie dla miłośników świata Minecraft i jego charakterystycznych biomów. Możliwość łączenia z innymi zestawami sprawia, że zabawa może stale się rozrastać, a każdy kolejny model dodaje nowe przygody i możliwości. To nie tylko klocki, ale pełnoprawna przygoda w świecie LEGO Minecraft, która z pewnością zachwyci każdego młodego konstruktora.
 
+**Galeria:**
+
+- 21248-1: https://a.allegroimg.com/original/29f47f/04c5203f46baaf144d2e53a25a0a
+
 ---
 
-## 21249 — Lego Minecraft 21249 Lego Minecraft 21249 Kreatywny warsztat 4.0
+## 21249 — LEGO Minecraft 21249 Kreatywny warsztat 4.0
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702011512132 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21249 |
+| Nazwa angielska | The Crafting Box 4.0 |
+| Nazwa polska | LEGO Minecraft 21249 Kreatywny warsztat 4.0 |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 605 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 36 cm × gł. 21 cm |
+| EAN | 5702011512132, 5702017415840 |
 
 LEGO Minecraft 21249 Kreatywny warsztat 4.0
  
@@ -2821,11 +4063,28 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
  
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 21249-1: https://a.allegroimg.com/original/059c6e/0a692bfb4bb9a4847a08afb66173
+- 21249-2: https://a.allegroimg.com/original/110ccd/2418c6704fe1be26c8579fe66ec8
+
 ---
 
-## 21250 — Lego Minecraft 21250 Forteca żelaznego golema
+## 21250 — LEGO Minecraft 21250 Forteca żelaznego golema
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 844.00 zł · EAN: 05702017415857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21250 |
+| Nazwa angielska | The Iron Golem Fortress |
+| Nazwa polska | LEGO Minecraft 21250 Forteca żelaznego golema |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 868 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 23 cm × szer. 31 cm × gł. 12 cm |
+| EAN | 5702017415857 |
 
 LEGO Minecraft 21250 Forteca żelaznego golema
  
@@ -2873,11 +4132,26 @@ Dzięki temu mamy pewność, że każdy z nich spełnia rygorystyczne światowe 
  
 • Klocki i elementy LEGO spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21250-1: https://a.allegroimg.com/original/29dbf0/ef4163574308b9471b702bf2f5a9
+
 ---
 
-## 21251 — Klocki Lego 21251 Minecraft Pustynna Wyprawa Steve"a Zestaw
+## 21251 — Steve i wyprawa na pustynię
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 80.10 zł · EAN: 04894041725550 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21251 |
+| Nazwa angielska | Steve's Desert Expedition |
+| Nazwa polska | Steve i wyprawa na pustynię |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 75 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 8 cm |
+| EAN | 4894041725550, 5702017583273 |
 
 KLOCKI LEGO 21251 MINECRAFT PUSTYNNA WYPRAWA STEVE"A ZESTAW PREZENT
 
@@ -2914,11 +4188,27 @@ KLOCKI LEGO 21251 MINECRAFT PUSTYNNA WYPRAWA STEVE"A ZESTAW PREZENT
  
 **• ✅75-elementowy zestaw ma 5 cm wysokości i 8 cm szerokości**
 
+**Galeria:**
+
+- 21251-1: https://a.allegroimg.com/original/112c6f/7417bac5471690d092fb42589d6f
+- 21251-2: https://a.allegroimg.com/original/1192c7/88e5a23d48bca781771cc671d5f6
+
 ---
 
-## 21252 — Lego Minecraft 21252 Zbrojownia Figurki Zestaw Klocki
+## 21252 — Zbrojownia
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 79.79 zł · EAN: 05702017583280 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21252 |
+| Nazwa angielska | The Armoury |
+| Nazwa polska | Zbrojownia |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 203 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583280 |
 
 4w1 Lego Minecraft 21252 Zbrojownia Figurki Zestaw Klocki + Ebook
 
@@ -2962,11 +4252,27 @@ Ten zestaw dla dzieci zawiera dwie znane figurki: Alex, bohaterkę gry z tarczą
 
 ➡️ Otrzymasz oficjalny dokument w formie pliku PDF potwierdzający oryginalność Twojego zestawu LEGO, dając Ci pewność i zadowolenie z zakupu.
 
+**Galeria:**
+
+- 21252-1: https://a.allegroimg.com/original/1197f9/3b2c5e014dcea8a45858d1aa4741
+
 ---
 
-## 21253 — Lego Minecraft 21584 Podróż przez portal do Netheru Endu
+## 21253 — Schronisko dla zwierząt
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017583297 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21253 |
+| Nazwa angielska | The Animal Sanctuary |
+| Nazwa polska | Schronisko dla zwierząt |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 8 cm × gł. 11 cm |
+| EAN | 5702017583297 |
 
 LEGO Minecraft 21584 Podróż przez portal do Netheru Endu
 
@@ -2990,39 +4296,27 @@ Zestaw LEGO® Minecraft zawiera portal Kresu i Netheru z funkcjami umożliwiają
 - Zestawy dla graczy w Minecrafta® — zabawki konstrukcyjne LEGO® Minecraft oferują dzieciom szeroki wybór znanych scen, elementów i postaci z popularnej gry.
 - Wymiary — ten 192-elementowy zestaw zawiera portal Kresu, który ma 3 cm wysokości, 8 cm szerokości i 11 cm głębokości
 
----
+**Galeria:**
 
-## 21254 — Lego Minecraft 21254 Domek na plaży żółwi
-
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 133.75 zł · EAN: 05702017583303 · in stock*
-
-LEGO Minecraft Dom dla pustynnych żółwi (21254) 
- 
-Ten dom w kształcie żółwia z Minecrafta® jest wypełniony zarówno wewnątrz, jak i na zewnątrz detalami z gry Minecraft. Zestaw LEGO® Minecraft Domek na plaży żółwi (21254) zawiera trzy kultowe postacie i ciekawy model do zbudowania. To świetny pomysł na prezent dla dzieci i graczy w Minecrafta w wieku od ośmiu lat.
- 
-Gracze budują dom w kształcie żółwia rodem z gry Minecraft, z oknami, latarniami, drzwiami, łóżkiem, stołem, stołem warsztatowym i piecem. Podnoszony dach zapewnia łatwy dostęp do wnętrza. Na zewnątrz znajduje się plaża z trzciną cukrową, jajami żółwi i bambusową tratwą z wiosłami. Są tu także znane figurki i moby z Minecrafta: wojownik w skórce żółwia i hełmie, utopiec z trójzębem, żółw zajadający trawę morską i trzy małe żółwie. Akcesoria obejmują też mapę i lunetę. Miłośnicy akcji, kreatywnego budowania i opieki nad zwierzętami będą zachwyceni tą wszechstronną zabawką. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, która umożliwia budowniczym powiększanie i obracanie modeli w 3D, a także śledzenie swoich postępów.
-
-• Zestaw LEGO® Minecraft® z żółwiem to świetny pomysł na prezent dla graczy i dzieci
- 
-• Zawiera dom z Minecrafta® do zbudowania oraz figurki i moby z gry
- 
-• Wiele sposobów na zabawę, w tym kreatywne budowanie, odgrywanie bitew i opieka nad zwierzętami
- 
-• Akcesoria z gry Minecraft® obejmują lunetę, mapę i bambusową tratwę
- 
-• Prezent dla fanów żółwi, zestawów do budowania i gry Minecraft® w wieku od ośmiu lat
- 
-• Można go połączyć z innymi zestawami LEGO® Minecraft® (sprzedawanymi osobno)
- 
-• Zestawy konstrukcyjne LEGO® Minecraft® gwarantują dzieciom wciągającą zabawę
- 
-• Główny model w tym 224-elementowym zestawie ma 24 cm szerokości
+- 21253-1: https://a.allegroimg.com/original/0515b8/ff93eca741b6a06e64cbcecf594b
 
 ---
 
-## 21255 — Lego Minecraft Zasadzka W Portalu Do Netheru 21255
+## 21255 — Wpadł w zasadzkę w portalu Nether
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 165.90 zł · EAN: 05702017583310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21255 |
+| Nazwa angielska | The Nether Portal Ambush |
+| Nazwa polska | Wpadł w zasadzkę w portalu Nether |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 352 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 22 cm × gł. 14 cm |
+| EAN | 5702017583310 |
 
 **ZASADZKA W PORTALU DO NETHERU**
 
@@ -3048,11 +4342,26 @@ Prezent dla graczy w Minecrafta® — ten 352-elementowy zestaw ma 11 cm wysoko�
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 21255-1: https://a.allegroimg.com/original/11169f/e3d226e44736a981b787e7c9c4cf
+
 ---
 
-## 21256 — Klocki Lego Minecraft 21587 Zombie Dungeon
+## 21256 — Żabi domek
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702017583327 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21256 |
+| Nazwa angielska | The Frog House |
+| Nazwa polska | Żabi domek |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 400 |
+| Cena katalogowa | 234.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm × gł. 15 cm |
+| EAN | 5702017583327 |
 
 Klocki LEGO Minecraft Zombie Dungeon
 
@@ -3092,11 +4401,27 @@ Loch zombie
 
 - Wymiary — zestaw LEGO® Minecraft® Loch zombie z 284 elementami ma 21 cm wysokości, 12 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 21256-1: https://a.allegroimg.com/original/054d5f/3f38fd4745c6801a95490c895c84
+
 ---
 
-## 21257 — Lego 21257 Minecraft Decydujące Starcie Z Dewastatorem
+## 21257 — Minecraft 21257 Pojedynek z Pożeraczem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 230.00 zł · EAN: 05702017583334 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21257 |
+| Nazwa angielska | The Devourer Showdown |
+| Nazwa polska | Minecraft 21257 Pojedynek z Pożeraczem |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 420 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583334 |
 
 NOWE KLOCKI LEGO Z SERII MINECRAFT
 
@@ -3128,11 +4453,27 @@ Ten zestaw LEGO, osadzony w nowym świecie Minecraft Legends, zawiera jednego z 
  
 • Zestaw składa się z 420 elementów, a Dewastator ma 12 cm wysokości
 
+**Galeria:**
+
+- 21257-1: https://a.allegroimg.com/original/256013/d7ed331441288b49246739cec4cb
+
 ---
 
-## 21259 — Lego Minecraft 21259 Minecraft 21259 Żeglowanie statkiem pirackim
+## 21259 — Minecraft 21259 Żeglowanie statkiem pirackim
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 41.24 zł · EAN: 05702017583358 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21259 |
+| Nazwa angielska | The Pirate Ship Voyage |
+| Nazwa polska | Minecraft 21259 Żeglowanie statkiem pirackim |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm |
+| EAN | 5702017583358 |
 
 LEGO Minecraft 21259 Minecraft 21259 Żeglowanie statkiem pirackim
 
@@ -3179,11 +4520,26 @@ Akcesoria, takie jak ryba, mapa, żelazny miecz i kaktus, inspirują do twórcze
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017583358
 
+**Galeria:**
+
+- 21259-1: https://a.allegroimg.com/original/11800d/243ecd1242d1b12077ad36a62cfd
+
 ---
 
-## 21260 — Lego Minecraft Wiśniowy ogród 21260
+## 21260 — Minecraft 21260 Ogród Kwitnącej Wiśni
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 99.95 zł · EAN: 05702017583365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21260 |
+| Nazwa angielska | The Cherry Blossom Garden |
+| Nazwa polska | Minecraft 21260 Ogród Kwitnącej Wiśni |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 304 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583365 |
 
 LEGO MINECRAFT
  
@@ -3205,11 +4561,27 @@ Figurka dorosłego niuchacza ma funkcję kopania obsługiwaną palcem, aby stwor
  
 Odwiedź odprężający wiśniowy ogród Sunny’ego. Podziwiaj dwa kwieciste drzewa, wokół których latają pszczoły, mały mostek nad strumykiem i piaskowy ogród z dekoracyjną doniczką i czernitem. Spójrz! Dorosły niuchacz z młodym wykopali nasiona ognistego kwiatu! Ale nie trać czujności, bo do ogrodu wkradł się zombie. Czy uda Ci się go powstrzymać, zanim zakłóci ład i spokój?
 
+**Galeria:**
+
+- 21260-1: https://a.allegroimg.com/original/119221/4042febb499fa2ebbfca07efcde6
+
 ---
 
-## 21261 — Lego Minecraft Wilcza Wieża 21261
+## 21261 — Minecraft 21261 Twierdza Wilka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 167.90 zł · EAN: 05702017583372 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21261 |
+| Nazwa angielska | The Wolf Stronghold |
+| Nazwa polska | Minecraft 21261 Twierdza Wilka |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 312 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 16 cm × gł. 12 cm |
+| EAN | 5702017583372 |
 
 **WILCZA WIEŻA**
 
@@ -3228,11 +4600,27 @@ Dzieci zbudują bazę tresera wilków z wielką wilczą głową nad wejściem, a
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 21261-1: https://a.allegroimg.com/original/11a200/3ad18a01431a94b3fbce9dc10c42
+
 ---
 
-## 21262 — Lego Minecraft 21585 Farma kurczaków
+## 21262 — Farma z wiatrakiem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017583389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21262 |
+| Nazwa angielska | The Windmill Farm |
+| Nazwa polska | Farma z wiatrakiem |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 462 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583389 |
 
 W zestawie:
 
@@ -3268,11 +4656,27 @@ Bogactwo akcesoriów i postaci
 
 W pudełku znajdziesz aż 233 elementy, w tym minifigurkę **miłośnika kurczaków**, małego kurczaka oraz unikalnego **zimnego kurczaka**. Zabawę urealniają liczne akcesoria znane z gry, takie jak **piec do wędzenia, siekiera, pochodnie oraz siano**. Dzięki aplikacji **LEGO Builder** możesz składać zestaw, korzystając z cyfrowych instrukcji 3D i śledzić swoje postępy w budowaniu.
 
+**Galeria:**
+
+- 21262-1: https://a.allegroimg.com/original/05aae5/9c0a75b0402e95f75d22a9daa496
+
 ---
 
-## 21263 — Klocki Lego Minecraft 21263 Kopalnia w Badlandach
+## 21263 — Minecraft 21263 Szyb górniczy na pustkowiu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 233.58 zł · EAN: 05702017583396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21263 |
+| Nazwa angielska | The Badlands Mineshaft |
+| Nazwa polska | Minecraft 21263 Szyb górniczy na pustkowiu |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 538 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583396 |
 
 LEGO MINECRAFT
  
@@ -3294,11 +4698,27 @@ Wrogie moby, z którymi trzeba walczyć po drodze, obejmują pająka jaskinioweg
  
 Umieść dynamit w szybie kopalni w Badlandach, aby wysadzić kamień i wydobyć miedź, złoto, czerwienit i kryształy ametystu. Kiedy wśród pajęczyn pojawi się pająk jaskiniowy, napełnij swój wózek i pędź po szynach, aby się stamtąd wydostać. Załaduj urobek na grzbiet osła i udaj się do swojej bazy. Ale uważaj, bo czeka Cię jeszcze bitwa z Creeperem™, posuchem i szlamami!
 
+**Galeria:**
+
+- 21263-1: https://a.allegroimg.com/original/11db56/45a5095c4220ae8e197a69cdfa7e
+
 ---
 
-## 21264 — Lego 21264 Minecraft Smok Kresu i statek Kresu
+## 21264 — Minecraft Smok Kresu i statek Kresu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 432.98 zł · EAN: 05702017583402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21264 |
+| Nazwa angielska | The Ender Dragon and End Ship |
+| Nazwa polska | Minecraft Smok Kresu i statek Kresu |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 657 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583402 |
 
 Klocki LEGO Minecraft 21264 - Smok Kresu i statek Kresu
 
@@ -3335,97 +4755,102 @@ Zestaw LEGO Minecraft - Smok Kresu i statek Kresu trafił do sprzedaży w 2024
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
----
+**Galeria:**
 
-## 21265 — Lego Minecraft 21265 Lego Minecraft 21265 Stół Warsztatowy
-
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702017583419 · in stock*
-
-**PRODUCENT**: LEGO
- 
-**WIEK DZIECKA**:+18 LAT
- 
-**ILOŚĆ ELEMENTÓW**: 1195
-
-**Uczcij kreatywność gry Minecraft® dzięki temu zestawowi konstrukcyjnemu LEGO® dla dorosłych stworzonemu z okazji 15. rocznicy popularnej gry komputerowej. **W zestawie LEGO® Minecraft® Stół warsztatowy (21265) znajdują się znane biomy, ulubione mobyi ukryte niespodzianki, które dorośli fani gry mogą odkrywać i eksponować w modelu.
- 
-Model przedstawia kultowy stół warsztatowy z gry. Wewnątrz znajduje się pięć minimodułów zawierających 12 biomów z Minecrafta, w tym tajgę z jaskinią naciekową, równiny z wioską, lodowe kolce z igloo, wiśniowy gaj z opuszczonym szybem kopalnianym i mroczną głębię z obszerną jaskinią. W zestawie jest też osiem mikrofigurek: Steve, Alex, szkielet, wiedźma, Creeper™, osadnik, krowa i świnia. Minimodele i mikrofigurki można usunąć z głównego modelu, aby eksponować model na różne sposoby. Z przodu modelu można umieścić naklejki z hasłami z gry. Budowanie ułatwi cyfrowa wersja instrukcji w aplikacji LEGO Builder.
-
- 
-- Model LEGO® Minecraft® dla dorosłych — zestaw konstrukcyjny Stół warsztatowy został stworzony z okazji 15. rocznicy powstania popularnej gry wideo dla dorosłych fanów i doświadczonych konstruktorów 
-- Zestaw z biomami Minecrafta® — obejmuje 12 biomów: mroczna głębia, bujna jaskinia, bagno, równiny, las, wiśniowy gaj, pustynia, tajga, śnieżna tajga, jaskinia naciekowa, lodowe kolce i rzeka 
-- Model z gry Minecraft® do zbudowania i postawienia na półce — pięć minimodeli i osiem mikrofigurek (Steve,Alex, szkielet, wiedźma, Creeper™, osadnik, krowa i świnia) można usunąć z modelu, co zapewnia wiele możliwości ekspozycji 
-- Zestaw LEGO® oparty na grze komputerowej — zawiera szczegółowe podziemne scenerie, naklejki z hasłami z gry oraz ukryte niespodzianki, które stanowią satysfakcjonujące wyzwanie dla dorosłych fanów i doświadczonych konstruktorów 
-- Pomysł na prezent dla dorosłych fanów Minecrafta® — podaruj dorosłym ten zestaw klocków LEGO® stworzony z okazji 15. rocznicy popularnej gry komputerowej 
-- Cyfrowe instrukcje budowania — aplikacja LEGO® Builder zawiera cyfrową wersję instrukcji do zestawu 
-- Inne zestawy dla dorosłych — ten model do zbudowania należy do serii zestawów LEGO® dla dorosłych, zaprojektowanych z myślą o satysfakcjonującym wyzwaniu i odprężeniu dla konstruktorów 
-- Buduj i ustawiaj na półce — zestaw składa się z 1195 elementów i ma 14 cm wysokości, 15 cm szerokości i 15 cm głębokości
+- 21264-1: https://a.allegroimg.com/original/11d389/ed4a8da64585a3f11949f7b1e6a1
 
 ---
 
-## 21266 — Lego Minecraft 21266 Minecraft 21266 Bitwa w Netherze
+## 21266 — Minecraft 21266 Bitwa w Netherze
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 26.78 zł · EAN: 05702017815404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21266 |
+| Nazwa angielska | The Nether Lava Battle |
+| Nazwa polska | Minecraft 21266 Bitwa w Netherze |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 99 |
+| Cena katalogowa | 44.99 zł |
+| Wymiary złożonego | — |
+| EAN | 4056256612104, 5702017815404 |
 
 Bitwa na moście Netheru
 
 Minecraft® Bitwa na moście Netheru LEGO® Minecraft® Bitwa na moście Netheru LEGO® Minecraft® Bitwa na moście Netheru 21266 Ten szybki do zbudowania model dla graczy w Minecrafta® jest osadzony w szkarłatnym lesie i zawiera cztery minifigurki z gry oraz lawową lawinę! Dzieci walczą z mobami i uciekają przed lawą Bitwa na moście Netheru (21266) to niewielki zestaw LEGO® Minecraft®, dzięki któremu można zbudować znany z gry świat. Zawiera on znane figurki z gry, fajne funkcje i gwarantuje niekończące się emocje, dzięki czemu idealnie sprawdzi się jako upominek dla sześciolatków i starszych dzieci.Dzieci dołączą do Alex, bohaterki z gry Minecraft, podczas poszukiwania pradawnych zgliszczy na moście Netheru w szkarłatnym lesie. Gdy Alex podnosi zgliszcza, elementy lawy automatycznie spływają, a postacie — mroczny szkielet z kamiennym mieczem i płomyk z różdżką zagradzają jej drogę. Dzieci użyją kultowego diamentowego miecza do walki z mobami, a potem uciekną na figurce magmołaza, który ma ruchome nogi i siodło. Gracze w Minecrafta wiedzą, że muszą dysponować spaczonym grzybem, aby móc kontrolować magmołaza. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, w której dzieci mogą powiększać i obracać model w 3D na swoim urządzeniu. Dołącz do Alex w szkarłatnym lesie Netheru podczas polowania na pradawne zgliszcza, ale uważaj! Drogę zagradza mroczny szkielet z kamiennym mieczem i płomyk z różdżką. Pokonaj te moby, a następnie zabierz pradawne zgliszcza, wywołując lawinę lawy! Wskocz na magmołaza i pędź, by uciec przed lawą. Pamiętaj – przyczep spaczonego grzyba do wędki, aby kontrolować magmołaza! • Kreatywny prezent dla dzieci — Bitwa na moście Netheru to niewielki zestaw LEGO® Minecraft®, który zapewni mnóstwo zabawy i budowania sześcioletnim i starszym fanom gry • Zestaw z gry Minecraft® — zawiera most fortecy Netheru do zbudowania oraz figurki LEGO® Minecraft z bronią i akcesoriami: Alex, mroczny szkielet i magmołaza • Akcja w Fortecy Netheru z LEGO® Minecraft® — gracze wykorzystają swoje umiejętności, aby zebrać pradawne zgliszcza, uniknąć lawy, walczyć z mobami i uciec na figurce w poszukiwaniu bezpiecznego schronienia • Akcesoria z gry — szkielet dzierży kamienny miecz, płomyk walczy różdżką, magmołaz ma ruchome nogi i siodło, a Alex ma znany z gry diamentowy miecz • Fajny prezent dla graczy w Minecrafta® — ten wielofunkcyjny zestaw z gry wideo to gratka dla chłopców i dziewczynek uwielbiających małe zestawy do budowania i zabawy, które gwarantują mnóstwo frajdy • Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
 
----
+**Galeria:**
 
-## 21267 — Lego Minecraft 21267 Minecraft 21267 Pustynny zegarek podstępnego
-
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 34.99 zł · EAN: 05702017815411 · in stock*
-
-LEGO Minecraft 21267 Minecraft 21267 Pustynny zegarek podstępnego
-
-LEGO
-
-Pustynny patrol złosadników
-
-Minecraft® Pustynny patrol złosadników LEGO® Minecraft® Pustynny patrol złosadników Zestaw LEGO® Minecraft® Pustynny patrol złosadników 21267 Mały zestaw LEGO® Minecraft® gwarantuje mnóstwo zabawy, kiedy dzieci będą walczyć ze znanymi z gry mobami na pustynnym posterunku. Niesamowita akcja LEGO® Minecraft® na pustynnym posterunku Ten niewielki zestaw LEGO® dla dzieci w wieku od siedmiu lat gwarantuje świetną zabawę rodem z gry Minecraft®. Dzięki czterem figurkom LEGO Minecraft, ciekawym funkcjom i realistycznym akcesoriom zestaw Pustynny patrol złosadników (21267) to mała zabawka z ogromnym potencjałem!Na pustynnym posterunku z gry Minecraft dzieci mogą wcielić się w rolę kaktusowego rycerza z diamentową zbroją, tarczą i mieczem. Gdy przybywa trzech złosadników, by ukraść skarb, dzieci muszą bronić posterunku. Zestaw zawiera pociski, które dzieci mogą wystrzelić palcami, różne rodzaje broni i beczkę ze skarbem. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, która pozwala dzieciom powiększać i obracać modele w 3D na urządzeniu. Nie pozwól złosadnikom wykraść skarbu z Twojego pustynnego posterunku! Załóż diamentową zbroję, chwyć tarczę i wystrzel pociski. To będzie epickie starcie! • Akcja LEGO® Minecraft® na pustyni — Pustynny patrol złosadników to emocjonujący zestaw dla siedmiolatków i starszych dzieci, który przenosi popularną grę z ekranów do prawdziwego świata • Cztery figurki z Minecrafta® — zawiera trzech złosadników, jednego bohatera i różne realistyczne akcesoria, w tym diamentowy miecz, tarczę i zbroję • Zabawki z gry wideo — dzieci mogą powstrzymać złosadników przed kradzieżą skarbu, używając fajnych broni i wystrzeliwując pociski palcami • Zestaw z pustynnym zamkiem — ten mały zestaw LEGO® zapewnia świetną zabawę rodem z gry Minecraft®, której celem jest obrona beczki ze skarbem • Gratka dla graczy Minecrafta® — ten mały zestaw konstrukcyjny będzie świetnym prezentem dla chłopców i dziewczynek, którzy uwielbiają przygody i grę wideo Minecraft • Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
-
-- **Stan:** Nowy
-- **Stan opakowania:** oryginalne
-- **Marka:** LEGO
-- **Numer produktu:** 21267
-- **Wiek dziecka:** 7 lat +
-- **Nazwa zestawu:** Minecraft 21267 Pustynny zegarek podstępnego
-- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
-- **Minimalny wiek dziecka:** 7
-- **Bohater / Bajka:** Minecraft
-- **Płeć:** chłopcy
-- **Liczba elementów:** 105
-- **Certyfikaty, opinie, atesty:** CE|EN 71
-- **Waga produktu z opakowaniem jednostkowym:** 0.162
-- **Kod taryfy celnej:** 95030035
-- **EAN:** 5702017815411
+- 21266-1: https://a.allegroimg.com/original/0568fa/09927c96406ab995f941d99c0d2f
+- 21266-2: https://a.allegroimg.com/original/05db49/2d1d653a41e5b050be50b1457bf9
 
 ---
 
-## 21268 — Lego Minecraft 21268 Dom prosiaczka
+## 21268 — Dom prosiaczka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 42.82 zł · EAN: 05702017815428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21268 |
+| Nazwa angielska | The Baby Pig House |
+| Nazwa polska | Dom prosiaczka |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 238 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815428 |
 
 Dom prosiaczka LEGO® Minecraft®
 
 Minecraft® Dom prosiaczka LEGO® Minecraft® Dom prosiaczka Zabawka konstrukcyjna LEGO® Minecraft® Dom prosiaczka 21268 LEGO® Minecraft® Dom prosiaczka to pełna zabawy farma ze zwierzętami, którymi trzeba się zajmować, uprawami i piglinem zombie, którego trzeba pokonać! Farma LEGO® Minecraft® ze zwierzętami, uprawami i zombie Dom prosiaczka (21268) to idealna zabawka dla graczy w Minecrafta® pasjonujących się budowaniem domów, zwierzętami i gospodarstwem. Ta praktyczna zabawka to świetny prezent na urodziny, święta i inne okazje dla dzieci w wieku od siedmiu lat.Ta kreatywna zabawka do zbudowania jest osadzona w leśnym biomie z gry Minecraft i zawiera wiele figurek z popularnej gry wideo: bohatera w wilczej skórce, świniątko i piglina zombie. Tak jak w grze dzieci mogą osiodłać dorosłą świnię i zawiesić przed nią marchewkę, aby przejechać się po domu i ogrodzie w kształcie prosiaczka. Jest tu także małe pole z ziemniakami i burakami do uprawy oraz pole z bramą, przez którą można przeprowadzić świniątko. Dzieci mogą uciec przed piglinem zombie, wchodząc do domu, gdzie znajduje się łóżko, regał na książki i stół rzemieślniczy inspirujący do twórczej zabawy. Dodatkową zabawę zapewnia aplikacja LEGO® Builder, w której dzieci mogą powiększać i obracać modele w 3D na swoim urządzeniu. Załóż wilczą skórkę, osiodłaj świnkę, zawieś marchewkę na patyku i wybierz się na przejażdżkę wokół domu i ogrodu w kształcie prosiaczka. Sprawdź ziemniaki i buraki na działce, a następnie poprowadź świnkę przez bramę na pole. Jeśli piglin zombie popsuje Ci zabawę, udaj się do domu, gdzie znajduje się łóżko, regał i stół rzemieślniczy, na którym możesz wykazać się kreatywnością. • Zestaw LEGO® Minecraft® ze zwierzętami — Dom prosiaczka zapewnia mnóstwo praktycznej zabawy siedmiolatkom i starszym dzieciom pasjonującym się grą Minecraft, budowaniem domów, zwierzętami i gospodarstwem • Figurki z Minecrafta® — obejmują bohatera w wilczej skórce, świniątko, pszczołę, dorosłą świnię i piglina zombie • LEGO® Minecraft® Dom prosiaczka — dzieci mogą zbudować domek w kształcie świnki z polem, na którym rosną ziemniaki i buraki oraz polem z bramą, przez którą można przeprowadzić świnkę • Realistyczne detale — w domu znajduje się stół rzemieślniczy z Minecrafta®, łóżko i regał na książki, które inspirują do twórczej zabawy • Prezent dla dzieci rodem z Minecrafta® — ten zestaw LEGO® do budowania i zabawy to świetny pomysł na prezent na urodziny, święta i inne okazje dla dzieci w wieku od siedmiu lat • Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
 
+**Galeria:**
+
+- 21268-1: https://a.allegroimg.com/original/118314/e4b22ef84f1b9630a6b1ec74895f
+
 ---
 
-## 21269 — Lego Minecraft Wyprawa do pancernikowej kopalni 21269
+## 21269 — Wyprawa do pancernikowej kopalni
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 74.98 zł · EAN: 05702017815435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21269 |
+| Nazwa angielska | The Armadillo Mine Expedition |
+| Nazwa polska | Wyprawa do pancernikowej kopalni |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 247 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815435 |
 
 LEGO® Wyprawa do pancernikowej kopalni
 
 Minecraft® Wyprawa do pancernikowej kopalni LEGO® Minecraft® Wyprawa do pancernikowej kopalni LEGO® Minecraft® Wyprawa do pancernikowej kopalni 21269 Wyprawa do pancernikowej kopalni to świetny zestaw LEGO® Minecraft® dla chłopców i dziewczynek, którego akcja rozgrywa się w jaskini biomu sawanny. Przygoda w pancernikowej kopalni LEGO® Minecraft® Wyprawa do pancernikowej kopalni (21269) pozwala graczom w Minecrafta® przenieść zabawę z gry wideo do prawdziwego świata. Dzięki fajnym postaciom i ciekawym funkcjom ten zestaw LEGO® Minecraft będzie świetną gratką dla ośmiolatków i starszych dzieci, inspirując je do twórczej zabawy.Osadzony w biomie sawanny zestaw zawiera kopalnię z funkcją TNT sterowaną dźwignią, która wysadza kawałek terenu, odsłaniając cenną rudę. W kopalni znajduje się pająk jaskiniowy i wilk, a także dwa pancerniki, których łuski można wykorzystać do tworzenia wilczej zbroi. Z boku kopalni znajduje się mała rzeczka i wodospad lawy. Zestaw można z łatwością przebudować, aby przeżyć nowe przygody. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, która pozwala dzieciom powiększać i obracać modele w 3D na urządzeniu. Przenieś się do biomu sawanny, aby wydobywać rudę. Połącz siły z przyjaznymi pancernikami i wilkiem! Spójrz, tam czai się pająk jaskiniowy! Daj jego oczy pancernikom, aby zdobyć łuskę do stworzenia wilczej zbroi. Wywołaj eksplozję za pomocą TNT, aby wysadzić skały i odkryć cenną rudę. Następnie zmień układ modelu, aby przeżyć kolejną ekscytującą przygodę rodem z Minecrafta®! • Przygoda rodem z Minecrafta® — Wyprawa do pancernikowej kopalni to zestaw LEGO® Minecraft z figurkami z gry dla ośmiolatków i starszych dzieci • Figurki z Minecrafta® — zestaw zawiera pająka jaskiniowego i wilka, a także dwa pancerniki, których łuskę można użyć do wykonania wilczej zbroi • Zestaw z gry wideo — akcja rozgrywa się w znanym z gry biomie sawanny, a zestaw zawiera kopalnię z funkcją TNT sterowaną dźwignią, która wysadza kawałek terenu, odsłaniając cenną rudę • Wiele sposobów na zabawę — ten praktyczny zestaw można z łatwością przebudować, aby przeżywać nowe przygody • Prezent dla dzieci rodem z Minecrafta® — ten zestaw LEGO® do budowania i zabawy to świetny pomysł na prezent na urodziny, święta i inne okazje dla dzieci w wieku od ośmiu lat • Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
 
+**Galeria:**
+
+- 21269-1: https://a.allegroimg.com/original/05f985/46d943b0402196b6e070d237e7ea
+
 ---
 
-## 21270 — Lego 21270 Minecraft Dom grzybowej krowy
+## 21270 — Minecraft 21270 Dom krowiego ptaka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 148.94 zł · EAN: 05702017815442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21270 |
+| Nazwa angielska | The Mooshroom House |
+| Nazwa polska | Minecraft 21270 Dom krowiego ptaka |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 500 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 19 cm × gł. 24 cm |
+| EAN | 5702017815442 |
 
 LEGO Minecraft - Dom grzybowej krowy 21270
 
@@ -3451,11 +4876,27 @@ Zestaw LEGO Minecraft jest osadzony na grzybowej wyspie i zawiera znanego bohate
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Zestaw z 500 elementami — złożony zestaw ma 16 cm wysokości, 19 cm szerokości i 24 cm głębokości
 
+**Galeria:**
+
+- 21270-1: https://a.allegroimg.com/original/11165e/faf3d1da40b185bc09eb255fe40d
+
 ---
 
-## 21271 — Lego Minecraft 21271 Komnata prób
+## 21271 — Komnata prób
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 168.79 zł · EAN: 05702017815459 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21271 |
+| Nazwa angielska | The Trial Chamber |
+| Nazwa polska | Komnata prób |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 322 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm × gł. 15 cm |
+| EAN | 5702017815459 |
 
 Komnata prób (21271) to wysokiej jakości zestaw LEGO® Minecraft® dla dzieci w wieku od ośmiu lat. Dzięki temu nawiązującemu do gry wideo zestawowi chłopcy i dziewczynki wyruszą na ekscytujące poszukiwanie skarbów, kiedy to będą walczyć z mobami i unikać pocisków.
  
@@ -3473,21 +4914,51 @@ Ten kreatywny zestaw zawiera komnatę prób z gry Minecraft, dwie figurki szkiel
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Zestaw z 322 elementami — złożony zestaw ma 13 cm wysokości, 21 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 21271-1: https://a.allegroimg.com/original/113bf6/01bc70ae48a8a9014def9a3558b8
+
 ---
 
-## 21272 — Lego Minecraft 21272 Ring walki w Forest Seat
+## 21272 — Ring walki w Forest Seat
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 157.45 zł · EAN: 05702017815466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21272 |
+| Nazwa angielska | Woodland Mansion Fighting Ring |
+| Nazwa polska | Ring walki w Forest Seat |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 491 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815466 |
 
 Ring w Leśnym dworze
 
 Minecraft® Woodland Mansion Fighting Ring LEGO® Minecraft® Ring w Leśnym dworze Zestaw LEGO® Minecraft® Ring w Leśnym dworze 21272 Ta kolekcjonerska zabawka z filmu \"Minecraft\" z akcesoriami będzie świetnym prezentem dla dzieci w wieku od 10 lat, które lubią odgrywać bitwy. Zestaw z leśnym dworem z filmu \"Minecraft\" Zestaw Ring w Leśnym dworze (21272) to wysokiej jakości zabawka, która świetnie sprawdzi się jako prezent dla 10-letnich i starszych fanów gry Minecraft i filmu.Zestaw LEGO® Minecraft zawiera figurki z filmu — Steve’a, Garretta, Henry’ego, małego zombie, kurczaka-dżokeja i ruchomego Żarłocznego Wieprza — a także broń i mikstury, których dzieci mogą używać do odtwarzania bitew i własnych historii. Zestaw zawiera ring bojowy z punktacją i uchwytami, które można przymocować do wojowników. Obejmuje także fasadę dworu z odczepianą skrzynią i stojakiem na broń. Cyfrową zabawę zapewnia aplikacja LEGO Builder, która pozwala dzieciom powiększać i obracać modele w 3D i śledzić ich postępy. Przeżyj przygody z filmu Minecraft® ze Steve’em, Garrettem, Henrym i kurzym jeźdźcem, którzy walczą we dworze! Wybierz broń i stań do bitwy. Ale przygotuj się na atak Żarłocznego Wieprza, który przypuścił szarżę! • Zestaw LEGO® Minecraft® dla graczy — dzięki zestawowi Ring w Leśnym dworze dziesięcioletni i starsi fani gry Minecraft mogą odtwarzać sceny i bitwy z filmu • Figurki z gry Minecraft® — ten praktyczny zestaw inspirowany grą wideo zawiera postacie z filmu: Steve’a, Garretta, Henry’ego, małego zombie, kurzego jeźdźca i ruchomego Żarłocznego Wieprza • Interaktywna zabawka z akcesoriami — dzieci używają broni, mikstur i uchwytów, aby ustawiać postacie, odtwarzając bitwy i wymyślając własne przygody • Dwór z gry Minecraft® — zestaw zawiera funkcjonalny ring z punktacją oraz fasadę dworu z odczepianą skrzynią i stojakiem na broń • Prezent dla fanów Minecrafta® — podaruj graczom i fanom filmu zestaw do zbudowania i zabawy z figurkami LEGO® Minecraft • Zestaw inspirowany grą z instrukcjami budowania w 3D — pobierz aplikację LEGO® Builder, aby korzystać z cyfrowych narzędzi do powiększania i obracania modeli w 3D, zapisywania zestawów i śledzenia postępów • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
 
+**Galeria:**
+
+- 21272-1: https://a.allegroimg.com/original/052eb5/c3d9dfcb4bccbc6812c857ea38bd
+
 ---
 
-## 21273 — Lego Minecraft Atak balonowego Ghasta na wioskę 21273
+## 21273 — Balon w kształcie diabła i atak na wioskę
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 201.97 zł · EAN: 05702017815473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21273 |
+| Nazwa angielska | The Ghast Balloon Village Attack |
+| Nazwa polska | Balon w kształcie diabła i atak na wioskę |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 555 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815473 |
 
 **PRODUCENT**: LEGO
  
@@ -3509,11 +4980,26 @@ Zestaw zawiera popularne postacie z gry: Steve’a, Natalie, Dawn, dwa pigliny, 
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - 555-elementowy zestaw — ten praktyczny zestaw zawiera balonowego ghasta, który ma 18 cm wysokości
 
+**Galeria:**
+
+- 21273-1: https://a.allegroimg.com/original/1139d4/2f75673f4ad2b8e250bf92ba9002
+
 ---
 
-## 21274 — Lego Minecraft 21274 Spotkanie ze strażnikiem
+## 21274 — Spotkanie ze strażnikiem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 53.64 zł · EAN: 05702017815480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21274 |
+| Nazwa angielska | The Warden Encounter |
+| Nazwa polska | Spotkanie ze strażnikiem |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 238 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815480 |
 
 LEGO Minecraft 21274 Spotkanie ze strażnikiem
  
@@ -3545,11 +5031,26 @@ Dołączone akcesoria, takie jak **złota marchewka** przywracająca zdrowie o
 - **Wymiary głównej figury (Strażnika):** wysokość ok. 9 cm 
 - **Zalecany wiek użytkownika:** od 7 lat
 
+**Galeria:**
+
+- 21274-1: https://a.allegroimg.com/original/29ee8c/d095ad20442a859b4177f7e49c0e
+
 ---
 
-## 21275 — Lego Minecraft 21275 Dom Tnt w dżungli
+## 21275 — LEGO Minecraft 21275 TNT Dom w dżungli
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 82.46 zł · EAN: 05702017815497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21275 |
+| Nazwa angielska | The TNT Jungle House |
+| Nazwa polska | LEGO Minecraft 21275 TNT Dom w dżungli |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 287 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 24 cm |
+| EAN | 5702017815497 |
 
 Podaruj graczom i fanom Minecrafta wybuchową nagrodę dzięki tej zabawnej kreatywnej zabawce. Zestaw **TNT dom w dżungli **(21275) to wspaniały prezent do gier wideo dla dzieci w wieku od 8 lat, które uwielbiają zabawki przygodowe, dekoracje z motywem gier wideo, gry akcji i przygody w świecie Minecraft®.
  
@@ -3568,11 +5069,26 @@ Podaruj graczom i fanom Minecrafta wybuchową nagrodę dzięki tej zabawnej krea
 - Liczba elementów: 287 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 21275-1: https://a.allegroimg.com/original/29e036/645796204e65b37470948fef010a
+
 ---
 
-## 21276 — Lego Minecraft 21276 Creeper
+## 21276 — LEGO Minecraft 21276 The Creeper
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 119.98 zł · EAN: 05702017815503 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21276 |
+| Nazwa angielska | The Creeper |
+| Nazwa polska | LEGO Minecraft 21276 The Creeper |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 665 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815503 |
 
 LEGO Minecraft 21276 Creeper
 
@@ -3620,11 +5136,26 @@ Ta zbudowana replika Creepera ze światów gry z Minecraft ma ok. 21 cm wysokoś
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017815503
 
+**Galeria:**
+
+- 21276-1: https://a.allegroimg.com/original/11e156/a8d09aa94f27b075547c33e9b250
+
 ---
 
-## 21277 — Lego Minecraft Kopalnia Kilofów 530 Elementów Od 8 Lat Klocki
+## 21277 — LEGO Minecraft 21277 Kopalnia kilofów
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702017815510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21277 |
+| Nazwa angielska | The Pickaxe Mine |
+| Nazwa polska | LEGO Minecraft 21277 Kopalnia kilofów |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 530 |
+| Cena katalogowa | 234.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815510 |
 
 MINECRAFT KOPALNIA KILOFÓW
 
@@ -3646,11 +5177,26 @@ Zestaw zawiera 3 minifigurki z Minecrafta: Ulubioną postać Alex, górnika i b�
 - Liczba elementów: 530 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 21277-1: https://a.allegroimg.com/original/059b35/16cef87a4fc0ad8d2e5b36cea769
+
 ---
 
-## 21278 — Lego Minecraft Kryjówka rozbójników i dewastatorów 21278
+## 21278 — LEGO Minecraft 21278 Baza Maruderów i Niszczyciel
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 239.99 zł · EAN: 05702017815527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21278 |
+| Nazwa angielska | The Pillager Outpost and Ravager |
+| Nazwa polska | LEGO Minecraft 21278 Baza Maruderów i Niszczyciel |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 665 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 16 cm |
+| EAN | 5702017815527 |
 
 **LEGO Minecraft Dom rozbójników i dewastator 21278**
 
@@ -3674,11 +5220,26 @@ Zestawy LEGO® Minecraft® pozwalają dzieciom przeżywać wydarzenia z gier w z
 
 Ten 665-elementowy zestaw ma 24 cm wysokości i 16 cm szerokości
 
+**Galeria:**
+
+- 21278-1: https://a.allegroimg.com/original/111962/e4b32bf44f268bb3d25b9e24075a
+
 ---
 
-## 21279 — Lego Minecraft Wieża Endermana 21279
+## 21279 — Wieża Endermana
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 309.99 zł · EAN: 05702017815534 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21279 |
+| Nazwa angielska | The Enderman Tower |
+| Nazwa polska | Wieża Endermana |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 867 |
+| Cena katalogowa | 439.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815534 |
 
 **LEGO Minecraft 21279 Wieża Endermana**
 
@@ -3686,11 +5247,27 @@ Wysokiej jakości zestaw Wieża Endermana (21279) jest idealny dla dzieci, któr
 
 Podstawowym elementem zestawu jest wieża w kształcie endermana z portalem do Netheru w głowie, balkonem na każdym ramieniu i dwoma pomieszczeniami zawierającymi stół rzemieślniczy, stół do zaklęć i skrzynię do przechowywania Pereł Kresu. Drabiny pozwalają wspinać się na nogi, a ramiona są w pełni ruchome. Na zewnątrz znajdują się elementy biomów spaczonego i karmazynowego lasu. Zestaw zawiera międzywymiarowego obrońcę, łupieżcę krain i dwie minifigurki endermanów, a także dwie figurki mobów endermitów. Bronie obejmują kuszę oraz netherytowy miecz i tarczę. Model Wieża Endermana można przebudować na dwie kolorowe twierdze, które świetnie nadają się do odgrywania pojedynków między graczami. Zbuduj całość za pomocą aplikacji LEGO Builder. Zestaw zawiera 867 elementów.Zabawka z endermanem z Minecrafta ten zestaw z figurką akcji endermana LEGO Minecraft do zbudowania i zabawy zapewnia kreatywną zabawę chłopcom i dziewczynkom w wieku od dziewięciu lat.Kolekcjonerskie figurki z gry wideo zestaw zawiera minifigurki międzywymiarowego obrońcy, łupieżcy krain, dwie minifigurki endermanów i dwie figurki mobów endermitów, a także zaklętą kuszę i netherytowy miecz oraz tarczę.Prezent dla graczy dzieci mogą budować i odkrywać wieżę endermana z portalem do Netheru, który przeniesie je do niekończących się przygód, lub twierdzę z komnatami pełnymi akcji.867-elementowy zestaw model wieży endermana ma 45 cm wysokości.
 
+**Galeria:**
+
+- 21279-1: https://a.allegroimg.com/original/118b79/98726a4d4d2b872bb649da96e928
+
 ---
 
-## 21281 — Lego Minecraft 21268 Dom prosiaczka
+## 21281 — Urodziny prosiaczka
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017754857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21281 |
+| Nazwa angielska | Baby Pig's Birthday Celebration |
+| Nazwa polska | Urodziny prosiaczka |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 19 cm × gł. 16 cm |
+| EAN | 5702017754857 |
 
 Dom prosiaczka LEGO® Minecraft®
 
@@ -3720,11 +5297,27 @@ Dom prosiaczka (21268) to idealna zabawka dla graczy w Minecrafta® pasjonujący
 
 - Zestaw z 238 elementami — złożony zestaw ma 8 cm wysokości, 19 cm szerokości i 16 cm głębokości
 
+**Galeria:**
+
+- 21281-1: https://a.allegroimg.com/original/054f2d/6291921744b486c3e215a878f987
+
 ---
 
-## 21282 — Klocki Lego Minecraft 21282 Papugowe domki
+## 21282 — Papugowe domki
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 286.99 zł · EAN: 05702017824925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21282 |
+| Nazwa angielska | The Parrot Houses |
+| Nazwa polska | Papugowe domki |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 535 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 28 cm × gł. 22 cm |
+| EAN | 5702017824925 |
 
 LEGO MINECRAFT 21282
  
@@ -3744,11 +5337,26 @@ Ten zestaw z dżunglą zawiera minifigurki strażnika dżungli i tresera papug,a
 - Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
 - Zestaw z 535 elementami — złożony zestaw ma 24 cm wysokości, 28 cm szerokości i 22 cm głębokości
 
+**Galeria:**
+
+- 21282-1: https://a.allegroimg.com/original/05ef10/a9dec51845c5af44f5c38c5aed30
+
 ---
 
-## 21582 — Lego Minecraft Kurzy jeździec 21582
+## 21582 — Kurzy jeździec
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702018262146 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21582 |
+| Nazwa angielska | Chicken Jockey |
+| Nazwa polska | Kurzy jeździec |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 344 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018262146 |
 
 **LEGO Minecraft Kurzy jeździec 21582**
 
@@ -3774,59 +5382,164 @@ Zabawki LEGO® Minecraft® pozwalają dzieciom tworzyć i wymyślać własne prz
 
 344-elementowy zestaw z Kurzym jeźdźcem ma 20 cm wysokości
 
+**Galeria:**
+
+- 21582-1: https://a.allegroimg.com/original/113e12/439798d84b328ef3245413e4e857
+
 ---
 
-## 21583 — Lego Minecraft 21583 Przygoda Steve’a w tajdze
+## 21583 — LEGO Minecraft 21583 Steve i przygoda w tajdze
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 28.99 zł · EAN: 05702018034071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21583 |
+| Nazwa angielska | Steve's Taiga Adventure |
+| Nazwa polska | LEGO Minecraft 21583 Steve i przygoda w tajdze |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 79 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018034071 |
 
 Wkrocz wraz ze Steve'em do biomu tajgi, aby wydobywać ukryte diamenty spod mroźnego świerku! Użyj TNT, aby wysadzić skały, a następnie schowaj diamenty w skrzyni. Ale uważaj — w pobliżu czai się creeper™. Chwyć za diamentowy miecz i broń swojego skarbu w tej pełnej akcji przygodzie rodem z gry Minecraft®!
 
+**Galeria:**
+
+- 21583-1: https://a.allegroimg.com/original/0549fb/56ffbb6743a3969dcb8f9337dfc1
+
 ---
 
-## 21584 — Lego Minecraft 21584 Podróż przez portal do Netheru i Endu
+## 21584 — LEGO Minecraft 21584 Podróż do Netheru i Kresu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 35.78 zł · EAN: 05702018055892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21584 |
+| Nazwa angielska | Nether & End Portal Journey |
+| Nazwa polska | LEGO Minecraft 21584 Podróż do Netheru i Kresu |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 192 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055892 |
 
 Wejdź do portali Netheru i Kresu, aby odkrywać nowe biomy, walczyć u boku Fajnego Bohatera, zmierzyć się z endermanem i spotkać małego hoglina. Wyposaż się w zaczarowany łuk i eliksir leczniczy i ruszaj na pełne akcji przygody rodem z gry Minecraft®! Który portal wybierzesz jako pierwszy?
 
+**Galeria:**
+
+- 21584-1: https://a.allegroimg.com/original/0515b8/ff93eca741b6a06e64cbcecf594b
+
 ---
 
-## 21585 — Lego Minecraft 21585 Farma Kurczaków
+## 21585 — LEGO Minecraft 21585 Slepičí farma
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 42.82 zł · EAN: 05702018055847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21585 |
+| Nazwa angielska | Chicken Farm |
+| Nazwa polska | LEGO Minecraft 21585 Slepičí farma |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 233 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055847 |
 
 Dołącz do miłośnika kurczaków w kurniku w kształcie kurczaka, gdzie spadają jajka, wysypują się nasiona, a kreatywna zabawa rodem z gry Minecraft® nigdy się nie kończy. Otwórz bramę, nakarm kurczaki, a następnie zbierz plony. Ale uważaj na małego zombie, który lubi jeździć na kurczakach!
 
+**Galeria:**
+
+- 21585-1: https://a.allegroimg.com/original/118de3/34eb273b42b498d3121ff54362d8
+
 ---
 
-## 21586 — Klocki Lego Minecraft 21586 Blady ogród
+## 21586 — Minecraft 21586 Blady ogród
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 47.64 zł · EAN: 05702018055854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21586 |
+| Nazwa angielska | The Pale Garden |
+| Nazwa polska | Minecraft 21586 Blady ogród |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 243 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055854 |
 
 Wyrusz na przygodę wraz z bohaterskim człowiekiem-ćmą! Użyj zaklętego topora i skrzydeł elytry, aby szybować po biomie Bladego Ogrodu. Walcz ze szkieletem i creeperem™, aby chronić serce skrzypacza ukryte w drzewie. Naciśnij sekretny drążek, aby wysunąć element, a następnie uważaj na moba, który się podkrada. Trzeba znaleźć skarb i upiec kotlet na ognisku, więc nie ma czasu do stracenia!
 
+**Galeria:**
+
+- 21586-1: https://a.allegroimg.com/original/0520b3/ecdc613a4af3a0e704b45a112e02
+
 ---
 
-## 21587 — Lego Minecraft 21587 Zombie Dungeon Baza i 4 minifigurki Lego
+## 21587 — LEGO Minecraft 21587 Zombie Dungeon
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 82.17 zł · EAN: 05702018055861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21587 |
+| Nazwa angielska | Zombie Dungeon |
+| Nazwa polska | LEGO Minecraft 21587 Zombie Dungeon |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 284 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055861 |
 
 Wkrocz do lochu pełnego zombie wraz z nieustraszonym Pustynnym Wędrowcem! Chwyć diamentowy kilof i maczugę, unikaj spadających skał i walcz z hordą zombie wyłaniających się z obracającej się komory. Dzięki pochodni, stołowi warsztatowemu i przerażającym łupom do odkrycia, każdy krok Twojej misji przynosi ekscytujące odkrycia — i niezwykłe niebezpieczeństwo!
 
+**Galeria:**
+
+- 21587-1: https://a.allegroimg.com/original/11eb1b/c604ff5f4aacba3abbbdcf02da6e
+
 ---
 
-## 21588 — Lego Minecraft 21588 Lis
+## 21588 — LEGO Minecraft 21588 Lis
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 142.02 zł · EAN: 05702018055977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21588 |
+| Nazwa angielska | The Fox |
+| Nazwa polska | LEGO Minecraft 21588 Lis |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 497 |
+| Cena katalogowa | 189.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055977 |
 
 Przygotuj się na wielką frajdę rodem z gry Minecraft® z własnym gigantycznym lisem! Można ustawić go w pozycji stojącej, siedzącej lub leżącej, tak jak w grze. Obróć jego głową, poruszaj nogami, a nawet zamykaj i otwieraj oczy, by pokazać, czy śpi. Możesz ożywić swojego ulubionego moba!
 
+**Galeria:**
+
+- 21588-1: https://a.allegroimg.com/original/05c348/b658f4164e31897d2ac901431251
+
 ---
 
-## 21589 — Lego Minecraft Minibiomy 21589
+## 21589 — LEGO Minecraft 21589 Mini Biomy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 187.87 zł · EAN: 05702018055984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21589 |
+| Nazwa angielska | Mini Biomes |
+| Nazwa polska | LEGO Minecraft 21589 Mini Biomy |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 797 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 24 cm |
+| EAN | 5702018055984 |
 
 **LEGO Minecraft Minibiomy 21589**
 
@@ -3850,11 +5563,26 @@ Zabawki LEGO® Minecraft® oferują szeroki wybór scen i postaci z gry
 
 Ten 797-elementowy zestaw ma 11 cm wysokości i 24 cm szerokości
 
+**Galeria:**
+
+- 21589-1: https://a.allegroimg.com/original/1193be/ab9350f24a00a75b048ee8509b86
+
 ---
 
-## 21590 — Lego Minecraft Walka z Witherem 21590
+## 21590 — LEGO Minecraft 21590 Pojedynek Wither
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 193.28 zł · EAN: 05702018055991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21590 |
+| Nazwa angielska | Wither Battle |
+| Nazwa polska | LEGO Minecraft 21590 Pojedynek Wither |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 494 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018055991 |
 
 **LEGO Minecraft Walka z Witherem 21590**
 
@@ -3878,11 +5606,26 @@ Zabawki LEGO® Minecraft® oferują szeroki wybór scen i postaci z gry
 
 Świątynia w tym 494-elementowym zestawie ma 24 cm głębokości
 
+**Galeria:**
+
+- 21590-1: https://a.allegroimg.com/original/11e674/3bafee2d4dd69ff96d30a25fadeb
+
 ---
 
-## 21591 — Lego Minecraft 21591 Bitwa z Twisted Wardenem Zestaw Klocków
+## 21591 — Bitwa z Twisted Wardenem
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702018056004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21591 |
+| Nazwa angielska | The Twisted Warden Battle |
+| Nazwa polska | Bitwa z Twisted Wardenem |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 438 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056004 |
 
 ⭐LEGO Minecraft 21591 Bitwa z Twisted Wardenem Zestaw Klocków⭐
 
@@ -3925,11 +5668,26 @@ Zabawki LEGO® Minecraft® oferują szeroki wybór scen i postaci z gry
 
 **Ostrzeżenie:** Produkt zawiera małe elementy i nie jest przeznaczony dla dzieci poniżej 3. roku życia. Ryzyko zadławienia.
 
+**Galeria:**
+
+- 21591-1: https://a.allegroimg.com/original/113ff0/17c0a81c41759de02570bc2652fb
+
 ---
 
-## 21592 — Lego Minecraft 21592 Kurczaki w pustynnym ataku
+## 21592 — Atak kurzego jeźdźca na pustyni
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 70.87 zł · EAN: 05702018056011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21592 |
+| Nazwa angielska | Chicken Jockey Desert Attack |
+| Nazwa polska | Atak kurzego jeźdźca na pustyni |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 428 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056011 |
 
 LEGO Minecraft 21592 Atak kurzego jeźdźca na pustyni
  
@@ -3949,11 +5707,26 @@ Dzieci mogą odtworzyć akcję z gry Minecraft, umieszczając małego posucha na
 - Minecraft® na żywo — gracze mogą odtwarzać scenki z gry, zmieniając ich układ, przebudowując je i wymyślając nowe przygody. 
 - Wymiary — zestaw konstrukcyjny z żelaznym golemem składa się z 428 elementów i ma 11 cm wysokości.
 
+**Galeria:**
+
+- 21592-1: https://a.allegroimg.com/original/111dec/0b8de7134f88afb25cd49b04c5e7
+
 ---
 
-## 21593 — Lego Minecraft 21593 Pierwsza nocna przygoda
+## 21593 — Przetrwanie pierwszej nocy
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 80.48 zł · EAN: 05702018056028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21593 |
+| Nazwa angielska | First Night Adventure |
+| Nazwa polska | Przetrwanie pierwszej nocy |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 301 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 25 cm × gł. 13 cm |
+| EAN | 5702018056028 |
 
 LEGO Minecraft 21593 Przetrwanie pierwszej nocy
  
@@ -3973,11 +5746,26 @@ Drzewa w lesie brzozowym i śnieżnej tajdze dostarczają dzieciom surowców do 
 - Minecraft® na żywo — gracze mogą tworzyć scenki z gry, zmieniając ich układ, przebudowując je i wymyślając nowe przygody. 
 - Wymiary — ten 301-elementowy zestaw ma 14 cm wysokości, 25 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 21593-1: https://a.allegroimg.com/original/112702/593ed30d4750bb4725495ed9047e
+
 ---
 
-## 21594 — Lego Minecraft 21594 Szkielet
+## 21594 — Szkielet
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 139.35 zł · EAN: 05702018056035 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21594 |
+| Nazwa angielska | The Skeleton |
+| Nazwa polska | Szkielet |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 502 |
+| Cena katalogowa | 189.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018056035 |
 
 LEGO Minecraft 21594 Szkielet
  
@@ -3997,11 +5785,26 @@ Jedna z najbardziej charakterystycznych postaci w grze wideo Minecraft – szkie
 - Minecraft® na żywo — gracze mogą tworzyć scenki z gry, zmieniając ich układ, przebudowując je i wymyślając nowe przygody. 
 - Wymiary — zestaw konstrukcyjny z figurką szkieletu składa się z 502 elementów i ma 29 cm wysokości.
 
+**Galeria:**
+
+- 21594-1: https://a.allegroimg.com/original/11423e/1817573c4f88a9c2c9f2f3e06f79
+
 ---
 
-## 21595 — Lego Minecraft 21595 Smok Kresu
+## 21595 — Smok Kresu
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 177.60 zł · EAN: 05702018056042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21595 |
+| Nazwa angielska | The Ender Dragon |
+| Nazwa polska | Smok Kresu |
+| Seria | Minecraft |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 710 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 37 cm × gł. 39 cm |
+| EAN | 5702018056042 |
 
 LEGO Minecraft 21595 Smok Kresu
  
@@ -4023,11 +5826,26 @@ Zestaw świetnie sprawdzi się jako prezent dla graczy na urodziny, święta i i
 - MINECRAFT® NA ŻYWO — gracze mogą tworzyć scenki z gry, zmieniając ich układ, przebudowując je, dodając ciekawe postacie i wymyślając nowe przygody. 
 - WYMIARY — ten 710-elementowy Smok Kresu ma 21 cm wysokości, 37 cm szerokości i 39 cm głębokości.
 
+**Galeria:**
+
+- 21595-1: https://a.allegroimg.com/original/11ee6e/e915be354a83a14557d8b1aece4c
+
 ---
 
-## 21596 — Lego Minecraft 21596 Atak Maga na wioskę
+## 21596 — Najazd przywoływaczy na wioskę
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 284.97 zł · EAN: 05702018056059 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21596 |
+| Nazwa angielska | Evoker Village Attack |
+| Nazwa polska | Najazd przywoływaczy na wioskę |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 607 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 12 cm × szer. 19 cm × gł. 9 cm |
+| EAN | 5702018056059 |
 
 LEGO Minecraft 21596 Najazd przywoływaczy na wioskę
  
@@ -4047,11 +5865,26 @@ Fani będą mieli mnóstwo frajdy, tworząc własne historie z udziałem osadnik
 - MINECRAFT® NA ŻYWO — gracze mogą tworzyć scenki z gry, zmieniając ich układ, przebudowując je i wymyślając nowe przygody. 
 - WYMIARY — biblioteka w tym 607-elementowym zestawie ma 12 cm wysokości, 19 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 21596-1: https://a.allegroimg.com/original/11e1ae/1fd17db143e6b101070a1a58e8e3
+
 ---
 
-## 21597 — Lego Minecraft 21597 Stacja Ghasta Nowy I Zestaw
+## 21597 — Stacja Ghasta
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 292.97 zł · EAN: 05702018056066 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21597 |
+| Nazwa angielska | Ghast Station |
+| Nazwa polska | Stacja Ghasta |
+| Seria | Minecraft |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 754 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 29 cm × szer. 21 cm × gł. 20 cm |
+| EAN | 5702018056066 |
 
 Przedmiotem oferty jest NOWY i ORYGINALNY zestaw klocków LEGO :
 
@@ -4067,11 +5900,26 @@ LEGO MINECRAFT 21597 - STACJA GHASTA - !!!
 - MINECRAFT® NA ŻYWO — gracze mogą tworzyć scenki z gry, zmieniając ich układ, przebudowując je i wymyślając nowe przygody
 - WYMIARY — ten 754-elementowy zestaw ma 29 cm wysokości, 21 cm szerokości i 20 cm głębokości
 
+**Galeria:**
+
+- 21597-1: https://a.allegroimg.com/original/11fae3/2be553804c8bbafc261860e53a38
+
 ---
 
-## 21598 — 21598 Lego Minecraft Podwodna Przygoda Zestaw Klocki Lego
+## 21598 — Podwodna przygoda
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 145.80 zł · EAN: 05702018069301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21598 |
+| Nazwa angielska | Underwater Adventure |
+| Nazwa polska | Podwodna przygoda |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 310 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 20 cm × gł. 9 cm |
+| EAN | 5702018069301 |
 
 Klocki LEGO Minecraft 21598 - Podwodna przygoda
 
@@ -4093,11 +5941,26 @@ Zanurz się w świecie z gry dzięki zestawowi LEGO® Minecraft® Podwodna przyg
 
 - Wymiary — ten 310-elementowy zestaw ma 7 cm wysokości, 20 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 21598-1: https://a.allegroimg.com/original/116a8e/80f3a9e54fcda92a98c9b3a6efd9
+
 ---
 
-## 30672 — Lego Minecraft Steve i mała panda 30672
+## 30672 — LEGO Minecraft Steve i mała panda 30672
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702017567440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30672 |
+| Nazwa angielska | Steve and Baby Panda |
+| Nazwa polska | LEGO Minecraft Steve i mała panda 30672 |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567440 |
 
 **LEGO Minecraft Steve i mała panda 30672**
 
@@ -4105,11 +5968,26 @@ Popularna postać z gry Minecraft®, Steve, chce nakarmić uroczą małą pandę
 
 Zestaw zawiera: 35 elementy.
 
+**Galeria:**
+
+- 30672-1: https://a.allegroimg.com/original/11f8e1/581f39a54365944ba600fe89fc5a
+
 ---
 
-## 30705 — Lego Minecraft Walka W Bujnej Jaskini 30705
+## 30705 — Walka w bujnej jaskini
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702017819884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30705 |
+| Nazwa angielska | The Lush Cave Fight |
+| Nazwa polska | Walka w bujnej jaskini |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819884 |
 
 Witamy
 
@@ -4129,21 +6007,52 @@ W zestawie znajduje się:
 
 Zapraszamy do zakupu :)
 
+**Galeria:**
+
+- 30705-1: https://a.allegroimg.com/original/11ba93/032d1c254a76bb0f3d73a37234c5
+
 ---
 
-## 30732 — Lego Minecraft Potyczka Alex przy ognisku 30732
+## 30732 — Potyczka Alex przy ognisku
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 12.48 zł · EAN: 05702018059395 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30732 |
+| Nazwa angielska | Alex's Campfire Conflict |
+| Nazwa polska | Potyczka Alex przy ognisku |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018059395 |
 
 **LEGO Minecraft Potyczka Alex przy ognisku 30732**
 
 Alex przebywa na pięknym polu, gdzie buduje ognisko i sadzi kwiaty za pomocą łopaty. Ale uważaj — podczas gdy Alex odpiera atak rozjuszonej pszczoły, w oddali do ataku szykuje się także zombie!
 
+**Galeria:**
+
+- 30732-1: https://a.allegroimg.com/original/11cb66/aef431684f1daf8192334e9748b0
+
 ---
 
-## 41612 — Lego 41612 BrickHeadz Steve i Creeper
+## 41612 — BrickHeadz - Steve i Creeper
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 749.00 zł · EAN: 05702016110906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41612 |
+| Nazwa angielska | Steve & Creeper |
+| Nazwa polska | BrickHeadz - Steve i Creeper |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110906 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4175,11 +6084,26 @@ Figurki Steve’a i Creepera z zestawu LEGO BrickHeadz 41612 zapewniają świetn
 - Każdy z modeli ma ok. 7 cm wysokości bez podstawki.
 - Płytki mają ok. 4 cm kwadratowych powierzchni.
 
+**Galeria:**
+
+- 41612-1: https://a.allegroimg.com/original/117eba/531aeeee41ea82480edee9a46663
+
 ---
 
-## 4354559 — Brelok z Lego minecraft Tnt i miecz Diy
+## 4354559 — tnt
 
-*Kategoria: Minecraft · cena Allegro (2026-08-17): 37.77 zł · EAN: 05702015211468 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4354559 |
+| Nazwa angielska | — |
+| Nazwa polska | tnt |
+| Seria | Minecraft |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015211468 |
 
 CHCESZ UNIKALNY BRELOK Z FIGURKĄ LEGO ALE NIE MA TWOJEGO ULUBIEŃCA?
 
@@ -4196,6 +6120,10 @@ MAMY ROZWIĄZANIE!!!
 **Precyzyjne wykonanie z troską o elementy LEGO**
 
 WYRÓŻNIJ SIĘ UNIKALNYM BRELOKIEM, NIECH TWÓJ BOHATER ZAWSZE BĘDZIE PRZY TOBIE!!!
+
+**Galeria:**
+
+- 4354559-1: https://a.allegroimg.com/original/11616a/d3e5c92e49fe9d9c781791c30988
 
 ---
 

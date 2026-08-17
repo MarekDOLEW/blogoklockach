@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Batman Movie — opisy produktowe (29 pozycji)
+# LEGO Batman Movie — opisy produktowe (30 pozycji)
 
-## 30522 — Lebo Batman Movie 30522 Batman i dozorca strefy fantomowej saszetka klocki
+## 30522 — Batman i dozorca strefy fantomowej
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 42.00 zł · EAN: 05702015876933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30522 |
+| Nazwa angielska | Batman in the Phantom Zone |
+| Nazwa polska | Batman i dozorca strefy fantomowej |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876933 |
 
 LEGO Batman i dozorca strefy fantomowej 30522
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30522-1: https://a.allegroimg.com/original/01b4f5/3e669d5a4bef990d660dc8970380
+
 ---
 
-## 30523 — Lego Batman Movie 30523 The Joker Battle Training saszetka minifigurka
+## 30523 — The Joker Battle Training
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702015876940 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30523 |
+| Nazwa angielska | The Joker Battle Training |
+| Nazwa polska | The Joker Battle Training |
+| Seria | Batman Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876940 |
 
 Witam
 
@@ -49,11 +74,26 @@ Rafał
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 30523-1: https://a.allegroimg.com/original/1171c0/b66b233f4ed390a42d4586a045cc
+
 ---
 
-## 30524 — Lego Batman Movie 30524 The Mini Batwing saszetka z klockami model wycofany
+## 30524 — The Mini Batwing
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015876957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30524 |
+| Nazwa angielska | The Mini Batwing |
+| Nazwa polska | The Mini Batwing |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015876957 |
 
 Witam
 
@@ -69,21 +109,51 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30524-1: https://a.allegroimg.com/original/1118ec/4f4fb7e34d5c82bd983d38bc337b
+
 ---
 
-## 30526 — Lego 30526 Batman Movie Mini Ultimate Batmobile
+## 30526 — Batmobile
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702016123203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30526 |
+| Nazwa angielska | The Mini Ultimate Batmobile |
+| Nazwa polska | Batmobile |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123203 |
 
 Zestaw zawiera 84 elementy, aby skonstruować mały model Batmobila z rozkładanymi tylnymi statecznikami (angielska nazwa zestawu: The Mini Ultimate Batmobile).
  
 Co ciekawe, jest to model „3-in-1” - można go przebudować na Batwinga bądż krótkiego Batmobila. Instrukcje dla tych alternatywnych modeli są osiągalne do pobrania w formie elektronicznej online (instrukcje podstawowego modelu są w oferowanym zestawie).
 
+**Galeria:**
+
+- 30526-1: https://a.allegroimg.com/original/1121ad/97429b2f4c0fa08cb27715611125
+
 ---
 
-## 30607 — Lego The Batman Movie Disco Batman & Łzy Batmana Polybag 30607
+## 30607 — The Batman Movie
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 109.75 zł · EAN: 05702015890090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30607 |
+| Nazwa angielska | Disco Batman - Tears of Batman |
+| Nazwa polska | The Batman Movie |
+| Seria | Batman Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015890090 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -97,11 +167,27 @@ Rok wydania:** 2017**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu (polybag-u).**
 
+**Galeria:**
+
+- 30607-1: https://a.allegroimg.com/original/11ecd4/25abb70f4ef489ef8059b647e4ef
+
 ---
 
-## 40004 — Lego klocki do złożenia Serce Ozdoba kształcie serca Powieszenia
+## 40004 — Walentynkowe Serce
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 75.31 zł · EAN: 00673419138178 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40004 |
+| Nazwa angielska | Heart 2010 |
+| Nazwa polska | Walentynkowe Serce |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 20 cm |
+| EAN | 673419138178 |
 
 LEGO 40638 Okolicznościowe - Ozdoba w kształcie serca
 
@@ -123,11 +209,26 @@ W instrukcji budowania i na opakowaniu **znajdują się dwa obrazki**, które mo
 
 Wymiary – serce z wieszakiem** ma 19 cm wysokości i 20 cm szerokości**.
 
+**Galeria:**
+
+- 40004-1: https://a.allegroimg.com/original/11cb44/533bcfea49949bdcc94018c6612b
+
 ---
 
-## 40433 — Lego DC Comics Heroes 40433 1989 Batmobile -edycja limitowana- Nowe
+## 40433 — LEGO Batman 1989 Batmobile - Limited Edition
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 890.00 zł · EAN: 05702016618747 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40433 |
+| Nazwa angielska | 1989 Batmobile - Limited Edition |
+| Nazwa polska | LEGO Batman 1989 Batmobile - Limited Edition |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618747 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -137,11 +238,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO DC Comics Super Heroes 1989 Batmobile™ - edycja limitowana **został pokazany w 2019 roku i składa się z 366 klocków LEGO®. Klocki przeznaczone są dla dzieci od 7 roku życia.
 
+**Galeria:**
+
+- 40433-1: https://a.allegroimg.com/original/114c4b/9e1e7dae45958df2dcf767462e76
+
 ---
 
-## 5004929 — Lego Batman Movie 5004929 Battle Pod saszetka kapsuła klocki
+## 5004929 — Battle Pod
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419269292 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004929 |
+| Nazwa angielska | Batman Battle Pod |
+| Nazwa polska | Battle Pod |
+| Seria | Batman Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269292 |
 
 Witam
 
@@ -157,11 +273,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004929-1: https://a.allegroimg.com/original/11c123/b9caa7374e4d92b3e332655cdc19
+
 ---
 
-## 70900 — Lego Batman Movie 70900 Batman Movie Balonowa ucieczka Jokera
+## 70900 — Batman Movie Balonowa ucieczka Jokera
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702015868761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70900 |
+| Nazwa angielska | The Joker Balloon Escape |
+| Nazwa polska | Batman Movie Balonowa ucieczka Jokera |
+| Seria | Batman Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868761 |
 
 KLOCKI LEGO BATMAN MOVIE BALONOWA UCIECZKA JOKERA™ 70900
 
@@ -198,11 +329,26 @@ Joker™ podłożył bombę w elektrowni w Gotham! Pomóż Batmanowi™ go pokon
 - **Poziom trudności złożenia:** Trudny 
 - **Rodzaj:** Plastikowe > Klocki dla dzieci Plastikowe
 
+**Galeria:**
+
+- 70900-1: https://a.allegroimg.com/original/005834/0e776bb848579154941c08cdb745
+
 ---
 
-## 70901 — Lego Batman Movie 70901 Lodowy atak Mr. Freeze'a
+## 70901 — Lodowy atak Mr. Freeze'a
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015870474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70901 |
+| Nazwa angielska | Mr. Freeze Ice Attack |
+| Nazwa polska | Lodowy atak Mr. Freeze'a |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 201 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870474 |
 
 OPAKOWANIE LEKKO WGNIECIONE
 
@@ -233,11 +379,26 @@ Pędź razem z Batmanem™ do elektrowni w Gotham by zatrzymać Mr. Freeza’a�
 - ​​​​​​​Ilość klocków: 201 
 - ​​​​​​​​​​​​​​Seria: Batman the Movie
 
+**Galeria:**
+
+- 70901-1: https://a.allegroimg.com/original/00c458/d81078ed42a6a9838965af816990
+
 ---
 
-## 70902 — Lego Batman Movie 70902 Motocykl Catwoman Unikat
+## 70902 — Motocykl Catwoman
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702015870481 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70902 |
+| Nazwa angielska | Catwoman Catcycle Chase |
+| Nazwa polska | Motocykl Catwoman |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870481 |
 
 **LEGO The Batman Movie Pościg Kobiety-Kot na Motocyklu 70902 – KOLEKCJONERSKI ZESTAW**
 
@@ -269,11 +430,26 @@ Na sprzedaż dynamiczny zestaw z serii LEGO The Batman Movie przedstawiający po
 
 **realne zdjęcia produktu**
 
+**Galeria:**
+
+- 70902-1: https://a.allegroimg.com/original/000c20/0aafa1dd440aa142f29ddcdd9b52
+
 ---
 
-## 70903 — Lego Batman Movie 70903 Wyścigówka Riddlera
+## 70903 — Wyścigówka Riddlera
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015870498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70903 |
+| Nazwa angielska | The Riddler Riddle Racer |
+| Nazwa polska | Wyścigówka Riddlera |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870498 |
 
 Zmierz się z czterema superzłoczyńcami naraz w zestawie LEGO® BATMAN: FILM Wyścigówka Człowieka-Zagadki™ zawierającym wyścigówkę Człowieka-Zagadki z dwoma składanymi działkami sprężynowymi. Pomóż Batmanowi™ pokonać Człowieka-Zagadkę™, Kite Mana™, Magpie™ i Calendar Mana™. Zestaw zawiera również odczepiany plecak Kite Mana z ruchomymi skrzydłami, Batarang Batmana, dynamit Magpie oraz inne uzbrojenie i akcesoria, które sprawią, że zabawa będzie jeszcze lepsza. Zestaw zawiera pięć minifigurek.
  
@@ -282,11 +458,26 @@ Zmierz się z czterema superzłoczyńcami naraz w zestawie LEGO® BATMAN: FILM W
 - Wyścigówka Człowieka-Zagadki jest wyposażona w dwie rury wydechowe, składane działka sprężynowe, ukryty przedni schowek na pistolety, otwarty kokpit z miejscem na minifigurkę, lusterka boczne i przezroczyste światła przednie i sygnalizacyjne. 
 - Naciśnij rury wydechowe, by podnieść silnik i wystrzelić z ukrytego działka sprężynowego.
 
+**Galeria:**
+
+- 70903-1: https://a.allegroimg.com/original/001102/5f96c03b4cdba446b54e1c6f31b0
+
 ---
 
-## 70904 — Lego 70904 Batman Movie Atak Clayface'a Szlamowy potwór Batarang Unikat
+## 70904 — Clayface Splat Attack
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 530.00 zł · EAN: 05702015870504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70904 |
+| Nazwa angielska | Clayface Splat Attack |
+| Nazwa polska | Clayface Splat Attack |
+| Seria | Batman Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 448 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870504 |
 
 Zestaw LEGO 70904 Atak Clayface'a
 
@@ -306,11 +497,26 @@ Pomóż Batmanowi™ pokonać Clayface’a™ i uwolnić burmistrz McCaskill z g
 
 28 cm * 26 cm * 6 cm *
 
+**Galeria:**
+
+- 70904-1: https://a.allegroimg.com/original/00fbed/753a5e5544bd9dca85d9e81a3d51
+
 ---
 
-## 70906 — Lego The Lego Batman Movie Joker Notoryczny Lowrider 70906
+## 70906 — BATMAN
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702015870528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70906 |
+| Nazwa angielska | The Joker Notorious Lowrider |
+| Nazwa polska | BATMAN |
+| Seria | Batman Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870528, 673419267854 |
 
 LEGO Batman Lowrider Jokera 70906
 
@@ -319,11 +525,27 @@ Pomóż Batgirl™ zatrzymać lowridera Jokera! Dołącz do Batgirl, ścigające
 - Wiek - **8 lat+**
 - Płeć - **Chłopak**
 
+**Galeria:**
+
+- 70906-1: https://a.allegroimg.com/original/11c8cd/06bb948d4048afe2c67f78ea4fd0
+- 70906-2: https://7.allegroimg.com/original/00bcff/873e6a4e4a1cbd68d17689598c17
+
 ---
 
-## 70907 — Lego 70907 Batman Movie Pojazd Killer Croca
+## 70907 — Batman
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 1120.00 zł · EAN: 05702015870535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70907 |
+| Nazwa angielska | Killer Croc Tail-Gator |
+| Nazwa polska | Batman |
+| Seria | Batman Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 460 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 11 cm |
+| EAN | 5702015870535 |
 
 LEGO BATMAN MOVIE
 
@@ -354,11 +576,26 @@ Urządź pościg na wodzie i lądzie za pojazdem Killer Croca w porcie w Gotham 
 
 48 cm * 28 cm * 7 cm *
 
+**Galeria:**
+
+- 70907-1: https://a.allegroimg.com/original/00b730/ef6ab1fb4ea4b4588856bc192711
+
 ---
 
-## 70908 — klocki Lego DC Batman Movie 70908 Pojazd Kroczący Joker Ivy Gotham zestaw
+## 70908 — Batman Movie Pojazd kroczący
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 764.99 zł · EAN: 05702015870542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70908 |
+| Nazwa angielska | The Scuttler |
+| Nazwa polska | Batman Movie Pojazd kroczący |
+| Seria | Batman Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 775 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 25 cm × gł. 27 cm |
+| EAN | 5702015870542 |
 
 Zestaw LEGO  Batman DC Comics 70908 Pojazd kroczący Maszyna Krocząca
 
@@ -448,11 +685,26 @@ Przenieś się do świata Gotham i przeżyj epicką przygodę z zestawem LEGO Ba
 
 - 775 elementów
 
+**Galeria:**
+
+- 70908-1: https://0.allegroimg.com/original/00c47b/893a2c074d08a6c3fa6fe9bcd250
+
 ---
 
-## 70909 — Lego Batman Movie 70909 Włamanie do Jaskini Batmana
+## 70909 — Włamanie do Jaskini Batmana
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 910.00 zł · EAN: 05702015869836 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70909 |
+| Nazwa angielska | Batcave Break-in |
+| Nazwa polska | Włamanie do Jaskini Batmana |
+| Seria | Batman Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1047 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 40 cm × gł. 20 cm |
+| EAN | 5702015869836 |
 
 Klocki LEGO Batman Movie 70909 - Włamanie do Jaskini Batmana
  
@@ -474,11 +726,26 @@ Odeprzyj atak Pingwina na Jaskinię Batmana w zestawie LEGO® BATMAN: FILM Włam
 - Wymiary łodzi Batmana: ok. 6 cm wysokości, 20 cm długości i 12 cm szerokości. 
 - Wymiary łodzi: ok. 9 cm wysokości, 12 cm długości i 10 cm szerokości.
 
+**Galeria:**
+
+- 70909-1: https://a.allegroimg.com/original/00dc67/09601f654c03ba8b669fa9ea81e3
+
 ---
 
-## 70910 — Lego Batman Movie 70910 Batman The Movie Przesyłka specjalna Scarecrowa
+## 70910 — Batman The Movie Przesyłka specjalna Scarecrowa 70910
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015869843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70910 |
+| Nazwa angielska | Scarecrow Special Delivery |
+| Nazwa polska | Batman The Movie Przesyłka specjalna Scarecrowa 70910 |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 204 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015869843 |
 
 **LEGO Batman Movie 70910 Batman The Movie**
 
@@ -504,11 +771,26 @@ Ilość minifigurek**: 3**
 - Broń: dwa Batarangi Batmana. 
 - Akcesoria: płaszcz i nowy pas na broń Batmana (nowość z sezonu wiosennego 2017 r.), hełm Scarecrowa, pizza i pudełko na pizzę oraz czapka ochroniarza.
 
+**Galeria:**
+
+- 70910-1: https://a.allegroimg.com/original/118e33/5243e4854f9693ccd820f83583d3
+
 ---
 
-## 70911 — Lego The Lego Batman Movie Arktyczny wałek pingwina 70911
+## 70911 — Arktyczny samochód Pingwina
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702015869850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70911 |
+| Nazwa angielska | The Penguin Arctic Roller |
+| Nazwa polska | Arktyczny samochód Pingwina |
+| Seria | Batman Movie |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm |
+| EAN | 5702015869850 |
 
 LEGO BATMAN MOVIE 70911 ARKTYCZNY POJAZD
  
@@ -537,11 +819,26 @@ Wskocz do Batmobilu lub innego fantastycznego pojazdu i zatrzymaj Jokera, Człow
 - Dzieci mogą **połączyć postacie** z tego zestawu z innymi oryginalnymi modelami LEGO®, by mieć jeszcze więcej możliwości kreatywnej zabawy lub budowania świetnych modeli do ustawienia na półce. 
 - **Pewność i bezpieczeństwo –** elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 70911-1: https://a.allegroimg.com/original/114e2b/95c01bd84cac88d25b69e7e9f94b
+
 ---
 
-## 70912 — Lego Batman Movie 70912 Azyl Arkham
+## 70912 — AZYL ARKHAM
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 1900.00 zł · EAN: 05702015869867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70912 |
+| Nazwa angielska | Arkham Asylum |
+| Nazwa polska | AZYL ARKHAM |
+| Seria | Batman Movie |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1628 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 46 cm × gł. 24 cm |
+| EAN | 5702015869867 |
 
 LEGO BATMAN MOVIE 70912
 
@@ -578,11 +875,26 @@ Wymiary
 - Wieża obserwacyjna – ok. **29 cm wysokości × 10 cm szerokości × 5 cm głębokości**
 - Radiowóz – ok. **4 cm wysokości × 15 cm długości × 5 cm szerokości**
 
+**Galeria:**
+
+- 70912-1: https://a.allegroimg.com/original/005c7e/d33983844d4a9f5e09a4d1d5594c
+
 ---
 
-## 70913 — Nowe Lego 70913 Batman Movie Strach na Wróble i straszny pojedynek
+## 70913 — Strach na Wróble i straszny pojedynek
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 275.21 zł · EAN: 00673419267779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70913 |
+| Nazwa angielska | Scarecrow Fearful Face-off |
+| Nazwa polska | Strach na Wróble i straszny pojedynek |
+| Seria | Batman Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870375, 673419267779 |
 
 LEGO 70913 Batman Movie - Strach na Wróble i straszny pojedynek
 
@@ -598,11 +910,27 @@ Ilość klocków:** 141**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 70913-1: https://a.allegroimg.com/original/1149ef/e4a7de924336944c6f7dd82fdaf7
+- 70913-2: https://a.allegroimg.com/original/05311b/d70dfa924606a1190dcaba76a75c
+
 ---
 
-## 70915 — Lego Batman Movie 70915 Podwójna demolka
+## 70915 — Batman Movie
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 950.00 zł · EAN: 05702015870405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70915 |
+| Nazwa angielska | Two-Face Double Demolition |
+| Nazwa polska | Batman Movie |
+| Seria | Batman Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 564 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015870405 |
 
 **LEGO Batman Movie 70915 Podwójna demolka Two-Face’a**
 
@@ -632,11 +960,26 @@ Batman ściga Two-Face'a, który sieje chaos swoją potężną koparką. Zestaw 
 
 Zestaw został wycofany ze sprzedaży, dlatego obecnie jest dostępny głównie na rynku wtórnym.
 
+**Galeria:**
+
+- 70915-1: https://a.allegroimg.com/original/00037e/bdfd26f342439473541ccd49d4a4
+
 ---
 
-## 70916 — Lego Batman Movie 70916 Klocki Lego Batman 70916 Batwing Batnan Movie
+## 70916 — KLOCKI LEGO BATMAN 70916 BATWING BATNAN MOVIE
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 620.00 zł · EAN: 05702015870412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70916 |
+| Nazwa angielska | The Batwing |
+| Nazwa polska | KLOCKI LEGO BATMAN 70916 BATWING BATNAN MOVIE |
+| Seria | Batman Movie |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1053 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 48 cm |
+| EAN | 5702015870412 |
 
 LEGO Batman Movie 70916 Batwing
 
@@ -658,11 +1001,26 @@ W zestawie:
 - 3 minifigurki
 - instrukcja
 
+**Galeria:**
+
+- 70916-1: https://a.allegroimg.com/original/0082db/c70d4b8a4fadb025292ea31fa318
+
 ---
 
-## 70917 — Klocki Lego The Lego Batman Movie Zestaw Batmobil 70917
+## 70917 — Super Batmobil
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 1319.99 zł · EAN: 05702015870429 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70917 |
+| Nazwa angielska | The Ultimate Batmobile |
+| Nazwa polska | Super Batmobil |
+| Seria | Batman Movie |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1456 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 16 cm |
+| EAN | 5702015870429 |
 
 - \Zawiera osiem minifigurek: Batmana™, Robina™, Batgirl™, Polka Dot Mana™, Alfreda Pennywortha™ (w batkostiumie), Złą Wiedźmę z Zachodu oraz dwie latające małpy. Zestaw zawiera Super Batmobil — model „4 w 1”, który można podzielić na cztery niezależne pojazdy: batmobil, batczołg, batmotor i samolot Batwing. W zestawie jest także batsygnał, który trzeba zbudować. 
 - Batmotor ma rozkładane koła do jazdy i parkowania wewnątrz Niezrównanego Batmobilu. 
@@ -678,11 +1036,26 @@ W zestawie:
 - Latający spodek Polka Dot Mana ma średnicę ok. 3 cm. 
 - Batsygnał ma ok. 10 cm wysokości, 6 cm długości i 6 cm głębokości.
 
+**Galeria:**
+
+- 70917-1: https://6.allegroimg.com/original/0001da/463f25b7458fa1e7012316c3c3c6
+
 ---
 
-## 70918 — Lego 70918 Łazik piaskowy Batmana 198 el. Batman Movie
+## 70918 — Klocki LEGO Batman Movie Łazik piaskowy Batmana 70918
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 290.00 zł · EAN: 05702016093001 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70918 |
+| Nazwa angielska | The Bat-Dune Buggy |
+| Nazwa polska | Klocki LEGO Batman Movie Łazik piaskowy Batmana 70918 |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702016093001 |
 
 **LEGO Batman Movie - Łazik piaskowy Batmana**
 
@@ -697,11 +1070,26 @@ Pędź po nierównej drodze i stań do walki z Kapitanem Boomerangiem™. Uważa
 - Model ma ok. 7 cm wysokości, 12 cm długości i 9 cm szerokości.
 - Zestaw zawiera 198 elementów.
 
+**Galeria:**
+
+- 70918-1: https://a.allegroimg.com/original/00aa6a/4322f65849bcb6c4fbad15136b87
+
 ---
 
-## 70919 — Lego Batman Movie 70919 Impreza jubileuszowa Ligi Sprawiedliwości
+## 70919 — Impreza jubileuszowa Ligi Sprawiedliwości
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 275.00 zł · EAN: 05702016093018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70919 |
+| Nazwa angielska | The Justice League Anniversary Party |
+| Nazwa polska | Impreza jubileuszowa Ligi Sprawiedliwości |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 267 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 24 cm × gł. 14 cm |
+| EAN | 5702016093018 |
 
 LEGO BATMAN 70919 JMPREZA IUBILEUSZOWA LIGI.
 
@@ -721,11 +1109,26 @@ Akcesoria: kołczan Zielonej Strzały i peleryna Wonder Doga
 
 Model ma ok. 12 cm wysokości, 24 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 70919-1: https://a.allegroimg.com/original/001ea4/0c33965a44e5b5e1e5adb29306c7
+
 ---
 
-## 70920 — Lego 70920 Batman Movie Mech Eggheada i bitwa na jedzenie
+## 70920 — Klocki LEGO Batman Movie Mech Eggheada i bitwa na jedzenie 70920
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 490.00 zł · EAN: 05702016093025 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70920 |
+| Nazwa angielska | Egghead Mech Food Fight |
+| Nazwa polska | Klocki LEGO Batman Movie Mech Eggheada i bitwa na jedzenie 70920 |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 293 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 20 cm |
+| EAN | 5702016093025 |
 
 LEGO BATMAN 70920 MECH EGGHEADA I BITWA NA JEDZENIE.
 
@@ -741,11 +1144,70 @@ Broń: miotacz liny z hakiem Batmana oraz miotacze keczupu i musztardy Króla Pr
 
 Model ma ok. 16 cm wysokości, 15 cm długości i 20 cm szerokości.
 
+**Galeria:**
+
+- 70920-1: https://a.allegroimg.com/original/005000/7b8620a840ee8ac47c4ca4e84225
+
 ---
 
-## 76139 — 76139 Lego DC Batmobil 1989 Kolekcjonerski Zestaw
+## 71017 — figurka minifigurka 71017
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 2158.99 zł · EAN: 05702016469110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71017 |
+| Nazwa angielska | Lobster-Lovin' Batman |
+| Nazwa polska | figurka minifigurka 71017 |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594646, 5702015866804 |
+
+LEGO Minifigurka Dick Grayson – Robin (71017‑9)
+
+**Stan**: Nowa / bez saszetki
+
+**Seria**: The LEGO Batman Movie – Minifigures
+
+**Numer figurki**: 71017‑9
+
+**Zestaw zawiera**:
+
+- Minifigurkę Dick Grayson (Robin)
+- Buteleczkę "Shark Repellent"
+
+**Opis przedmiotu**
+
+Na sprzedaż oferuję figurkę **Dick Grayson (Robin)** z kolekcji LEGO Minifigures 71017 – The LEGO Batman Movie. Figurka ubrana jest w sweterek z logo Robina, posiada ciemne włosy i charakterystyczną buteleczkę "Shark Repellent" – nawiązanie do klasycznych przygód "Batman and Robin".
+
+- Idealna dla kolekcjonerów i fanów Bat-familii
+- Świetny prezent lub brakujący element kolekcji
+
+Zdjęcia znajdujące się w galerii, dokładnie przedstawiają sprzedawany przedmiot.
+
+**Galeria:**
+
+- 71017-1: https://a.allegroimg.com/original/11e935/933b3da9469d88ed976f9bc87b22
+- 71017-2: https://a.allegroimg.com/original/114f1f/d1c4fe164872b52cd546d12cdf99
+
+---
+
+## 76139 — 1989 Batmobil
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76139 |
+| Nazwa angielska | 1989 Batmobile |
+| Nazwa polska | 1989 Batmobil |
+| Seria | Batman Movie |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 3306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 22 cm |
+| EAN | 5702016469110 |
 
 **76139 LEGO DC Batmobil 1989 KOLEKCJONERSKI ZESTAW NA PREZENT**
 
@@ -760,11 +1222,26 @@ Fani Batmana™ i miłośnicy motoryzacji docenią zestaw LEGO® DC Batman 7613
 - Model samochodu dla dorosłych z serii LEGO® Batman™ składa się z ponad 3300 części i będzie wspaniałym, nostalgicznym prezentem świątecznym lub urodzinowym dla każdego miłośnika Batmana.
 - 1989 Batmobile™ ma ok. 12 cm wysokości, 60 cm długości i 22 cm szerokości.
 
+**Galeria:**
+
+- 76139-1: https://a.allegroimg.com/original/110386/5b7702af4c05a005d134f33916ab
+
 ---
 
-## 853646 — Lego 853646 Batman Movie Młot Harley Quinn
+## 853646 — Harley Quinn Hammer
 
-*Kategoria: Batman Movie · cena Allegro (2026-08-17): 19.00 zł · EAN: 00673419271240 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853646 |
+| Nazwa angielska | Harley Quinn Hammer |
+| Nazwa polska | — |
+| Seria | Batman Movie |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419271240 |
 
 LEGO 853646 Batman Movie Młot Harley Quinn
 
@@ -775,6 +1252,10 @@ super-złoczyńcy.
 Odgrywaj ekscytujące sceny z filmu LEGO® BATMAN: FILM i wymyślaj własne zabawne przygody jako Harley Quinn.
 
 Zawiera powiększoną, miękką piankową wersję młotka minifigurki Harley Quinn ™. Odtwórz ekscytujące sceny z filmu LEGO® BATMAN: FILM. Połącz z zestawem 853647 Batman ™ Batarang, aby jeszcze bardziej bawić się w odgrywanie ról ze znajomymi. Ma ok. 48 cm długości.
+
+**Galeria:**
+
+- 853646-1: https://a.allegroimg.com/original/111dcb/2ae82d74494c9f9e1abd09fa6954
 
 ---
 

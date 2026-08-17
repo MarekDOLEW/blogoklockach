@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Creator 3 w 1 — opisy produktowe (184 pozycji)
 
-## 30542 — Lego Creator 30542 Uroczy Mops saszetka z klockami
+## 30542 — Uroczy mops
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702016122411 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30542 |
+| Nazwa angielska | Cute Pug |
+| Nazwa polska | Uroczy mops |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122411 |
 
 Witam
 
@@ -25,11 +36,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30542-1: https://a.allegroimg.com/original/255f81/9673bb7a48c98b5762c6979ef5fd
+
 ---
 
-## 30578 — Lego Creator Owczarek Niemiecki 3w1 30578 Polybag
+## 30578 — Owczarek niemiecki
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702016915822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30578 |
+| Nazwa angielska | German Shepherd |
+| Nazwa polska | Owczarek niemiecki |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016915822 |
 
 Opis klocków LEGO Creator 30578 3 w 1 Owczarek niemiecki
  
@@ -45,11 +72,27 @@ Opis klocków LEGO Creator 30578 3 w 1 Owczarek niemiecki
  
 Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymyślania własnych konstrukcji. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu. Zestaw 30578 Owczarek niemiecki 3w1 jest idealny, aby rozpocząć przygodę z LEGO Creator.
 
+**Galeria:**
+
+- 30578-1: https://a.allegroimg.com/original/119c17/935f95da4d2cb4d2755e60a1dc42
+
 ---
 
-## 30641 — Lego Creator 3 w1 30641 Panda
+## 30641 — Panda
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 19.90 zł · EAN: 05702017399843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30641 |
+| Nazwa angielska | Panda |
+| Nazwa polska | Panda |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399843 |
 
 ★LEGO CREATOR PANDA ZESTAW 30641★
 
@@ -79,11 +122,27 @@ Zestaw zawiera 83 elementy ✅
  
 **Produkt jest nowy, wysyłany od dystrybutora!**
 
+**Galeria:**
+
+- 30641-1: https://a.allegroimg.com/original/1159c6/c98e76a040ebba11b3243850773d
+
 ---
 
-## 31010 — Lego 31010 Domek na drzewie Creator 3w1
+## 31010 — Domek na Drzewie
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 407.48 zł · EAN: 05702014971554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31010 |
+| Nazwa angielska | Treehouse |
+| Nazwa polska | Domek na Drzewie |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702014971554 |
 
 Zestaw zawiera 356 elementów, aby skonstruować domek na drzewie.
 
@@ -122,11 +181,27 @@ Wymiary modelu:
 - chatka nad jeziorem ma ok. 10 cm wysokości, 17 cm szerokości i 12 cm głębokości; 
 - stodoła ma ok. 11 cm wysokości, 12 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 31010-1: https://a.allegroimg.com/original/00d268/e31f7dbf4030a1e5f585d1610a24
+
 ---
 
-## 31011 — Lego Creator 31011 Lotnicze Przygody 3w1 Samolot Helikopter Motorówka
+## 31011 — Lotnicze Przygody
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 479.99 zł · EAN: 05702014972025 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31011 |
+| Nazwa angielska | Aviation Adventures |
+| Nazwa polska | Lotnicze Przygody |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 618 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972025 |
 
 LEGO CREATOR 31011 Lotnicze Przygody
 
@@ -147,11 +222,27 @@ Wykonuj najefektowniejsze i najśmielsze manewry powietrzne w zestawie przygód 
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 31011-1: https://a.allegroimg.com/original/11097d/8b481b9144918a19689093fabe1c
+
 ---
 
-## 31018 — Lego Creator 3w1 31018 Zdobywca autostrad
+## 31018 — Klocki LEGO Creator Creator Zdobywca autostrad L-31018
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 240.00 zł · EAN: 05702015120883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31018 |
+| Nazwa angielska | Highway Cruiser |
+| Nazwa polska | Klocki LEGO Creator Creator Zdobywca autostrad L-31018 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 5 cm |
+| EAN | 5702015120883 |
 
 LEGO CREATOR TRZY MODELE W JEDNYM PUDEŁKU !
 
@@ -168,11 +259,27 @@ Ciesz się bezkresnymi przestrzeniami, przemierzając drogi jasnozielonym Zdobyw
 - Klasyczny motocykl ma ok. 7 cm wysokości, 16 cm długości i 5 cm szerokości.
 - Motor terenowy ma ok. 7 cm wysokości, 14 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 31018-1: https://a.allegroimg.com/original/05a76b/50c77d5642ce861082cb48615d87
+
 ---
 
-## 31019 — Lego Creator 3 w 1 31019 Zawadiackie zwierzęta Nowe
+## 31019 — Zawadiackie zwierzęta
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 373.00 zł · EAN: 05702015120906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31019 |
+| Nazwa angielska | Forest Animals |
+| Nazwa polska | Zawadiackie zwierzęta |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 272 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120906 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -182,11 +289,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Cwana leśna małpa domaga się uwagi! Ustawiaj jej ręce, nogi i ogon w rozmaitych pozycjach i zmieniaj jej wyraz twarzy, ustawiając oczy, brwi i otwierane usta. Chwyć pysznego banana i pobaw się z kolorowym tukanem. Potem przerób leśną małpę na jeden z dwóch szalonych modeli — słodkiego pluszowego misia albo niegrzeczną wiewiórkę!
 
+**Galeria:**
+
+- 31019-1: https://a.allegroimg.com/original/116979/88159a4740afaacd668c87a78fa9
+
 ---
 
-## 31020 — Unikat Lego 31020 Creator 3w1 Śmigłowiec
+## 31020 — Twinblade Adventures
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702015120913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31020 |
+| Nazwa angielska | Twinblade Adventures |
+| Nazwa polska | Twinblade Adventures |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 216 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120913 |
 
 LEGO Creator 31076 Samolot kaskaderski
  
@@ -201,11 +324,27 @@ Wykonuj wspaniałe akrobacje w Samolocie kaskaderskim z kokpitem dla minifigurki
 - Wejdź na skrzydła i spróbuj nie drgnąć w miejscu, gdy samolot będzie wykonywał pętle, beczki i przeloty między chmurami. 
 - Przeżywaj kolejne przygody z tym modelem 3 w 1. Przebuduj Samolot kaskaderski na rakietowy samochód i pomknij przez pustynię z rekordową prędkością lub na rakietową łódź do wykonywania rekordowych sztuczek na wodzie.
 
+**Galeria:**
+
+- 31020-1: https://a.allegroimg.com/original/058462/b954e97a4e4d81b39f4c08c3e34c
+
 ---
 
-## 31023 — Lego 31023 Creator 3w1 Szybkie Pojazdy Helikopter Formuła 1 Motorówka
+## 31023 — CREATOR
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015120975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31023 |
+| Nazwa angielska | Yellow Racers |
+| Nazwa polska | CREATOR |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 27 cm × gł. 19 cm |
+| EAN | 5702015120975 |
 
 Nowy zestaw klocków
 
@@ -230,11 +369,27 @@ Trzymaj się mocno! Wybierz się na ekscytującą przejażdżkę helikopterem ty
 - Wymiary samochodu wyścigowego: 5 cm wysokości, 19 cm długości i 7 cm szerokości
 - Wymiary motorówki: 6 cm wysokości, 16 cm długości i 9 cm szerokości
 
+**Galeria:**
+
+- 31023-1: https://a.allegroimg.com/original/116e37/f0e4a7384f368819adaf2476fdbd
+
 ---
 
-## 31024 — Lego Creator 3 w 1 31024 Czerwone Konstrukcje
+## 31024 — LEGO Creator 3 w 1 31024 - Czerwone Konstrukcje
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 387.97 zł · EAN: 05702015120982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31024 |
+| Nazwa angielska | Roaring Power |
+| Nazwa polska | LEGO Creator 3 w 1 31024 - Czerwone Konstrukcje |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 8 cm × gł. 28 cm |
+| EAN | 5702015120982 |
 
 LEGO Creator 3 w 1 31024 - Czerwone Konstrukcje
 
@@ -285,11 +440,27 @@ Zestaw LEGO Creator 3w1 - Czerwone Konstrukcje trafił do sprzedaży w 2014 roku
 
 **Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy**.
 
+**Galeria:**
+
+- 31024-1: https://a.allegroimg.com/original/11adf6/a1ef790b4637a1db266f69d5a244
+
 ---
 
-## 31025 — Klocki Lego Creator 31025 Chatka w górach
+## 31025 — Mountain Hut
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 372.56 zł · EAN: 05702015120951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31025 |
+| Nazwa angielska | Mountain Hut |
+| Nazwa polska | Mountain Hut |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 550 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120951 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -325,11 +496,27 @@ Zawartość pudełka
 
 Zestaw Lego Creator Chatka w górach 31025 składa się z 550 klocków, z których zbudujesz trzy różne budynki. Dodatkowo w zestawie minifigurka alpinisty oraz dodatkowe akcesoria.
 
+**Galeria:**
+
+- 31025-1: https://a.allegroimg.com/original/05e1fa/f0300e27419e99f88a79c2cf39e0
+
 ---
 
-## 31026 — Klocki Lego Creator 3 w 1 31026
+## 31026 — creator
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 798.00 zł · EAN: 05702015121002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31026 |
+| Nazwa angielska | Bike Shop & Cafe |
+| Nazwa polska | creator |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1023 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015121002 |
 
 **LEGO 31026 Creator 3w1 Miasteczko**
  
@@ -343,11 +530,27 @@ W tym zestawie klocków LEGO Creator znajdziesz 3 figurki /2 mężczyzn i kobiet
 - kawiarni (ogródek, bankomat, ekspres do kawy, filiżanki, babeczki, zasłony, schody do mieszkania na pierwszym piętrze z komodą, lampy, krzesła), 
 - żółty samochód terenowy, czerwony rower, cała masa akcesoriów LEGO.
 
+**Galeria:**
+
+- 31026-1: https://a.allegroimg.com/original/1181b2/b98a137d49159a8a8f0e21c103fd
+
 ---
 
-## 31027 — Lego Creator 3 w 1 31027 3w1 Niebieska wyścigówka
+## 31027 — Creator 3w1 Niebieska wyścigówka 31027
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 100.00 zł · EAN: 05702015348102 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31027 |
+| Nazwa angielska | Blue Racer |
+| Nazwa polska | Creator 3w1 Niebieska wyścigówka 31027 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 67 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015348102 |
 
 **Lego Creator Niebieska wyścigówka 31027**. Wybierz się na przejażdżkę elegancką niebieską wyścigówką typu 3 w 1. Sprawdź swoje umiejętności, z dużą prędkością omijając slalomem pomarańczowe pachołki. Główne cechy to sportowa kolorystyka łącząca błękit, biel i czerwień, potężne rury wydechowe, efektowne felgi wyglądające jak metalowe oraz tylna pokrywa ze spojlerem, którą można otworzyć, aby zajrzeć do silnika. Po zakończeniu wyścigu możesz przebudować model w potężny pług śnieżny z ruchomym lemieszem lub w efektowny łazik ze szczegółowo oddanym silnikiem umieszczonym z tyłu.
 
@@ -373,11 +576,27 @@ Ilość klocków w zestawie: 67
 
 W przypadku nieodebrania przesyłki przez Kupującego, zwrot środków zostanie pomniejszony o koszty dostawy i zwrotu przesyłki. Prosimy o odbiór zamówienia lub kontakt w razie problemów.
 
+**Galeria:**
+
+- 31027-1: https://a.allegroimg.com/original/051f3f/6c6ff5bc419a9f5f50d52fdd1022
+
 ---
 
-## 31028 — Lego Creator 3w1: 31028 Hydroplan
+## 31028 — 31028
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 155.00 zł · EAN: 05702015348096 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31028 |
+| Nazwa angielska | Sea Plane |
+| Nazwa polska | 31028 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702015348096 |
 
 Klocki LEGO Creator 3 w 1 31028 - Hydroplan
  
@@ -394,11 +613,27 @@ Przecinaj fale za pomocą hydroplanu typu 3 w 1! Główne cechy hydroplanu to po
 - Wymiary łodzi bagiennej: 5 cm wysokości, 8 cm długości i 4 cm szerokości 
 - Wymiary katamaranu: 8 cm wysokości, 8 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 31028-1: https://a.allegroimg.com/original/115fd2/224ddd1f495cbcdbe3dfaf788291
+
 ---
 
-## 31029 — Lego 31029 Creator 3 w 1 Helikopter transportowy
+## 31029 — LEGO 31029 - Helikopter transportowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 247.97 zł · EAN: 05702015348089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31029 |
+| Nazwa angielska | Cargo Heli |
+| Nazwa polska | LEGO 31029 - Helikopter transportowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 13 cm × gł. 11 cm |
+| EAN | 5702015348089 |
 
 Klocki LEGO 31029 Creator 3 w 1 - Helikopter transportowy
 
@@ -444,11 +679,27 @@ Wciągnij kontener
 
 **Bateria nie należy do zestawu, lecz służy zobrazowaniu rozmiarów (podanych wcześniej w cm).**
 
+**Galeria:**
+
+- 31029-1: https://a.allegroimg.com/original/11c5d1/e07f973e400ab52fffb6838ddc7c
+
 ---
 
-## 31030 — Lego 31030 Creator 3w1 Czerwony gokart Quad Wózek widłowy Unikat
+## 31030 — Creator gokart
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702015348072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31030 |
+| Nazwa angielska | Red Go-Kart |
+| Nazwa polska | Creator gokart |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 106 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm × gł. 11 cm |
+| EAN | 5702015348072 |
 
 Nowy zestaw klocków
 
@@ -480,11 +731,27 @@ Czas na wyścig! Wskocz za kółko czerwonego gokarta typu 3 w 1 i udaj się na 
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 31030-1: https://a.allegroimg.com/original/111016/6859003a4e668fa0c59f2dd8ed0a
+
 ---
 
-## 31031 — Lego Creator 31031 nowy zestaw Julivo
+## 31031 — Zwierzęta z lasu deszczowego
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702015348126 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31031 |
+| Nazwa angielska | Rainforest Animals |
+| Nazwa polska | Zwierzęta z lasu deszczowego |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 19 cm |
+| EAN | 5702015348126 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -523,11 +790,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 31031-1: https://a.allegroimg.com/original/111533/10e570c34927a4d305baa062ffe7
+
 ---
 
-## 31032 — Lego 31032 Creator 3w1 Czerwone kreatury.
+## 31032 — Red creatures
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702015348119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31032 |
+| Nazwa angielska | Red Creatures |
+| Nazwa polska | Red creatures |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 25 cm × gł. 29 cm |
+| EAN | 5702015348119 |
 
 Zestaw LEGO 31032 Czerwone kreatury
 
@@ -547,11 +830,27 @@ Wzbij się w przestworza wraz z zionącym ogniem smokiem z serii czerwonych krea
 - Wymiary skorpiona: 3 cm wysokości, 29 cm długości i 22 cm szerokości
 - Wymiary węża: 4 cm wysokości, 38 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 31032-1: https://a.allegroimg.com/original/00c9c0/fe1ce4d7469680e7e3c566c4a71c
+
 ---
 
-## 31033 — Klocki Lego Creator 31033 Laweta Autolaweta 3 w 1 264 elementy
+## 31033 — Klocki LEGO Creator Autolaweta 31033
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702015347860 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31033 |
+| Nazwa angielska | Vehicle Transporter |
+| Nazwa polska | Klocki LEGO Creator Autolaweta 31033 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 264 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm × gł. 16 cm |
+| EAN | 5702015347860 |
 
 Zestaw LEGO® 31033 Autolaweta
  
@@ -572,11 +871,27 @@ Pokieruj niesamowitym transporterem pojazdów typu 3 w 1! Główne cechy tej pot
 - Wymiary ruchomego żurawia: 5 cm wysokości, 18 cm długości i 6 cm szerokości 
 - Połączenie z zestawami 31027 Niebieska wyścigówka LEGO® Creator i 31029 Helikopter transportowy LEGO® Creator zapewni jeszcze więcej zabawy!
 
+**Galeria:**
+
+- 31033-1: https://a.allegroimg.com/original/05d783/4e1e837946c5920ecbb55f5b17f6
+
 ---
 
-## 31034 — Lego 31034 Creator 3w1 Robot przyszłości, samolot, samochód
+## 31034 — LEGO Creator Robot przyszłości 31034
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702015347853 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31034 |
+| Nazwa angielska | Future Flyer |
+| Nazwa polska | LEGO Creator Robot przyszłości 31034 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 237 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 20 cm × gł. 14 cm |
+| EAN | 5702015347853 |
 
 Zestaw LEGO® 31034 Robot przyszłości Unikat !!!
  
@@ -595,11 +910,27 @@ Wkrocz w przyszłość wraz z niesamowitym robotem LEGO® Creator typu 3 w 1. Te
 - Wymiary odrzutowca: 6 cm wysokości, 19 cm długości i 20 cm szerokości 
 - Wymiary samochodu sportowego: 4 cm wysokości, 14 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 31034-1: https://a.allegroimg.com/original/03d392/7977473b4a9594c3528dbbbdb523
+
 ---
 
-## 31035 — Lego Creator 3w1- Domek Na Plaży 31035
+## 31035 — CREATOR
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 380.00 zł · EAN: 05702015348157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31035 |
+| Nazwa angielska | Beach Hut |
+| Nazwa polska | CREATOR |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 286 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 26 cm × gł. 14 cm |
+| EAN | 5702015348157 |
 
 **LEGO Creator 31035 Domek na plaży 3 w 1**
  
@@ -624,11 +955,27 @@ Wkrocz w przyszłość wraz z niesamowitym robotem LEGO® Creator typu 3 w 1. Te
  
 **Wiek: 7 - 12**
 
+**Galeria:**
+
+- 31035-1: https://a.allegroimg.com/original/11e90d/761471684d079e9a2f374b8083aa
+
 ---
 
-## 31036 — Lego Creator 31036 Sklep Z Zabawkami I Owocami
+## 31036 — LEGO CREATOR 31036 SKLEP Z ZABAWKAMI I OWOCAMI
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 406.51 zł · EAN: 05702015348140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31036 |
+| Nazwa angielska | Toy & Grocery Shop |
+| Nazwa polska | LEGO CREATOR 31036 SKLEP Z ZABAWKAMI I OWOCAMI |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 14 cm |
+| EAN | 5702015348140 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -674,11 +1021,27 @@ SPECYFIKACJA:
 - **Płeć dziecka:** Chłopcy i Dziewczynki 
 - **Ilość elementów:** 466
 
+**Galeria:**
+
+- 31036-1: https://a.allegroimg.com/original/118c3a/d24a3f77449481c682e820781ac7
+
 ---
 
-## 31037 — Lego Creator 31037 Przygodowe Pojazdy terenówka poduszkowiec helikopter
+## 31037 — Creator
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 288.00 zł · EAN: 05702015347846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31037 |
+| Nazwa angielska | Adventure Vehicles |
+| Nazwa polska | Creator |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 282 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm × gł. 23 cm |
+| EAN | 5702015347846 |
 
 Nowy zestaw klocków
 
@@ -708,11 +1071,27 @@ Przeżyj niesamowite przygody na lądzie, wodzie i w powietrzu dzięki niesamowi
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 31037-1: https://a.allegroimg.com/original/11c08a/083cc42b45d49450ae78cb8642f3
+
 ---
 
-## 31038 — Lego Creator 3 w 1 31038 Pory Roku
+## 31038 — KLOCKI LEGO CREATOR 31038 PORY ROKU 3 W 1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 455.99 zł · EAN: 05702015348133 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31038 |
+| Nazwa angielska | Changing Seasons |
+| Nazwa polska | KLOCKI LEGO CREATOR 31038 PORY ROKU 3 W 1 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 536 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 19 cm × gł. 19 cm |
+| EAN | 5702015348133 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -764,11 +1143,27 @@ SPECYFIKACJA:
 - **Płeć dziecka:** Chłopcy i Dziewczynki 
 - **Ilość elementów:** 536
 
+**Galeria:**
+
+- 31038-1: https://a.allegroimg.com/original/11619d/4d217c484309ae6a804aca9e4a79
+
 ---
 
-## 31041 — Lego 2 zestawy 31041 30348 Pojazdy budowlane *nowe *pudełko stan db
+## 31041 — Creator 3w1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702015590976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31041 |
+| Nazwa angielska | Construction Vehicles |
+| Nazwa polska | Creator 3w1 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015590976 |
 
 **LEGO**
 
@@ -791,11 +1186,27 @@ ilość figurek:** 1**
 - **ZESTAW** **NOWE, ORYGINALNIE ZAPAKOWANE NIEOTWIERANE !**
 - **STAN PUDEŁKA 31041 : DB+ (WGNIECENIA) - patrz zdjęcia**
 
+**Galeria:**
+
+- 31041-1: https://a.allegroimg.com/original/115c10/f99870f8458a8431695f5be78a58
+
 ---
 
-## 31042 — Lego 31042 Creator ścigacz
+## 31042 — Super ścigacz
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 199.99 zł · EAN: 05702015591041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31042 |
+| Nazwa angielska | Super Soarer |
+| Nazwa polska | Super ścigacz |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591041 |
 
 Lego 31042 CREATOR Super ścigacz
 
@@ -817,11 +1228,27 @@ Pozostałe parametry
 
 Wymiary opakowania: 19 x 14 x 4,5 cm
 
+**Galeria:**
+
+- 31042-1: https://a.allegroimg.com/original/038031/cb9c24124a63ab7406afae59879b
+
 ---
 
-## 31043 — Lego Creator 31043 Ciężarówka laweta śmigłowiec terenówka traktor
+## 31043 — Chopper Transporter Helikopter
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702015591034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31043 |
+| Nazwa angielska | Chopper Transporter |
+| Nazwa polska | Chopper Transporter Helikopter |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702015591034 |
 
 Nowy zestaw klocków
 
@@ -848,11 +1275,27 @@ Dla tego transportera zawiezienie helikoptera na lotnisko to pestka. Ciężarów
 - Terenówka ma ok. 4 cm wysokości, 6 cm długości i 4 cm szerokości.
 - Połączenie z modelami minipojazdów z zestawów 31040, 31041 i 31045 daje jeszcze większe możliwości zabawy.
 
+**Galeria:**
+
+- 31043-1: https://a.allegroimg.com/original/113753/fc70e6084613be2e1c1f95e37c20
+
 ---
 
-## 31045 — Lego Creator 31045 Badacz oceanów Nowe
+## 31045 — lego
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702015591027 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31045 |
+| Nazwa angielska | Ocean Explorer |
+| Nazwa polska | lego |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 7 cm |
+| EAN | 5702015591027 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -879,11 +1322,27 @@ Zestaw Statek badawczy zabierze cię na pełne morze. Zawiera statek w kolorach 
 - Dużą łódź podwodna ma ok. 8 cm wysokości, 10 cm długości i 6 cm szerokości.
 - Połączenie z modelami minipojazdów z zestawów 31040, 31041 i 31043 daje jeszcze większe możliwości zabawy.
 
+**Galeria:**
+
+- 31045-1: https://a.allegroimg.com/original/11f8f3/8fc82b2a4aca8d64c3718390446a
+
 ---
 
-## 31046 — Lego Creator 31046 Samochód Wyścigowy
+## 31046 — Klocki LEGO Creator Samochód Wyścigowy 31046
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 229.00 zł · EAN: 05702015591010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31046 |
+| Nazwa angielska | Fast Car |
+| Nazwa polska | Klocki LEGO Creator Samochód Wyścigowy 31046 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591010 |
 
 LEGO CREATOR 31046:
 
@@ -893,11 +1352,27 @@ SAMOCHÓD WYŚCIGOWY
 
 Niesamowity samochód sportowych tylko czeka, żeby wyruszyć w trasę! Ta pomalowana na odlotową żółć, biel i czerń maszyna ma wielki spojler, stylowe felgi z niskoprofilowymi oponami, otwierany dach i szczegółowo odwzorowany silnik. Otwórz podnoszone do góry drzwi, zajmij miejsce za kierownicą i złóż dach, żeby w czasie dynamicznej jazdy móc się cieszyć promieniami słońca. Sportowe auto można przerobić na pickupa lub ładowarkę burtową.
 
+**Galeria:**
+
+- 31046-1: https://a.allegroimg.com/original/0515ec/7be34b364179b13ec6166d7eeddf
+
 ---
 
-## 31047 — Lego 31047 Creator Propeller Plane
+## 31047 — Klocki LEGO Creator Śmigłowiec 31047
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702015591003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31047 |
+| Nazwa angielska | Propeller Plane |
+| Nazwa polska | Klocki LEGO Creator Śmigłowiec 31047 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015591003 |
 
 Lego 31047 CREATOR Propeller Plane
 
@@ -917,11 +1392,27 @@ Pozostałe parametry
 
 Wymiary opakowania: 26 x 19 x 6 cm.
 
+**Galeria:**
+
+- 31047-1: https://a.allegroimg.com/original/03351e/91793b2046dfb1364e49bc7a6003
+
 ---
 
-## 31048 — Lego 31148 Creator 3w1 Chatka nad jeziorem Łoś Obserwatorium
+## 31048 — LEGO Creator 3w1 31048 - Chatka nad jeziorem
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 399.50 zł · EAN: 00673419246897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31048 |
+| Nazwa angielska | Lakeside Lodge |
+| Nazwa polska | LEGO Creator 3w1 31048 - Chatka nad jeziorem |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 16 cm × gł. 16 cm |
+| EAN | 5702015590051, 673419246897 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -953,11 +1444,28 @@ Chatka nad jeziorem to wymarzone miejsce na wypoczynek. Jest utrzymana w kolorac
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 31048-1: https://a.allegroimg.com/original/11d618/801da9a54e1b8a53be8840d8313c
+- 31048-2: https://a.allegroimg.com/original/11f30f/fbccd5c0461ebdd5c437ffa748d9
+
 ---
 
-## 31049 — Lego 31049 Creator Helikopter dwuwirnikowy skuter śnieżny samolot 3w1
+## 31049 — Helikopter z dwoma wirnikami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 279.50 zł · EAN: 05702015590990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31049 |
+| Nazwa angielska | Twin Spin Helicopter |
+| Nazwa polska | Helikopter z dwoma wirnikami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 326 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 18 cm |
+| EAN | 5702015590990 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -989,11 +1497,27 @@ Unieś łazik na linie wyciągarki i ruszaj na poszukiwanie zimowej pogody! Heli
 - Skuter śnieżny ma ok. 6 cm wysokości, 22 cm długości i 7 cm szerokości.
 - Wymiary samolotu jednosilnikowego: ok. 8 cm wysokości, 16 cm długości i 19 cm szerokości.
 
+**Galeria:**
+
+- 31049-1: https://a.allegroimg.com/original/005ce2/09f4c88443c3a95be35c8d5cb3ad
+
 ---
 
-## 31050 — Lego Creator 31050 Sklep na rogu
+## 31050 — Sklep na rogu
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 333.28 zł · EAN: 05702015590044 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31050 |
+| Nazwa angielska | Corner Deli |
+| Nazwa polska | Sklep na rogu |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 467 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 17 cm × gł. 14 cm |
+| EAN | 5702015590044, 673419246880 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1035,11 +1559,28 @@ Chcesz rozkręcić własny biznes? Ten przepiękny, barwny model ma szczegółow
 
 - Kwiaciarnia ma ok. 8 cm wysokości, 8 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 31050-1: https://a.allegroimg.com/original/055626/3dce7d194482b7b97c3e2304b45a
+- 31050-2: https://a.allegroimg.com/original/11314a/883a97e345f7924aa59689fbdbba
+
 ---
 
-## 31051 — Klocki Lego Creator Latarnia Morska 31051
+## 31051 — Klocki LEGO Creator Latarnia morska 31051
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702015590037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31051 |
+| Nazwa angielska | Lighthouse Point |
+| Nazwa polska | Klocki LEGO Creator Latarnia morska 31051 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 528 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 23 cm × gł. 15 cm |
+| EAN | 5702015590037 |
 
 KLOCKI LEGO CREATOR LATARNIA MORSKA 31051
  
@@ -1067,11 +1608,27 @@ Ten niezwykły zestaw LEGO® Creator typu „3 w 1” pozwoli Ci przeżyć mnós
 - Wymiary domu z pomostem i motorówką: ok. 12 cm wysokości, 10 cm szerokości i 13 cm długości. 
 - Wymiary łodzi mieszkalnej: ok. 9 cm wysokości, 10 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 31051-1: https://a.allegroimg.com/original/007008/97f02c244a7eb56cbdab88166056
+
 ---
 
-## 31052 — Lego 31052 Creator 3 w 1 Wyjazd na wakacje Misb z 2016
+## 31052 — LEGO Creator Wyjazd na wakacje 31052
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702015590020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31052 |
+| Nazwa angielska | Vacation Getaways |
+| Nazwa polska | LEGO Creator Wyjazd na wakacje 31052 |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 792 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015590020 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1081,11 +1638,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 31052-1: https://a.allegroimg.com/original/1191c7/9b26de3848fa905364629ae4678e
+
 ---
 
-## 31053 — Lego Creator 31053 Przygody w domku na drzewie Nowe
+## 31053 — LEGO creator 3w1 Domek na drzewie 31053 N
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 340.00 zł · EAN: 05702015590013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31053 |
+| Nazwa angielska | Treehouse Adventures |
+| Nazwa polska | LEGO creator 3w1 Domek na drzewie 31053 N |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 26 cm × gł. 13 cm |
+| EAN | 5702015590013 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1110,11 +1683,27 @@ Niezwykły domek na drzewie zachwyca bogactwem funkcji — pomóż go zbudować!
 - Wymiary klubu: 13 cm wysokości, 18 cm szerokości i 15 cm głębokości. 
 - Wymiary fortu na drzewie: 20 cm wysokości, 19 cm szerokości i 15 cm głębokości.
 
+**Galeria:**
+
+- 31053-1: https://a.allegroimg.com/original/115336/b21e630a4d828287c5c81db386e2
+
 ---
 
-## 31054 — Lego Creator 3w1 31054 Niebieski ekspres Klocki Pociąg z 2017 roku Nowe
+## 31054 — 31054
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 175.21 zł · EAN: 05702015867498 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31054 |
+| Nazwa angielska | Blue Express |
+| Nazwa polska | 31054 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 4 cm |
+| EAN | 5702015867498 |
 
 LEGO Creator 3w1 31054 - Niebieski ekspres
 
@@ -1146,11 +1735,27 @@ Ten zestaw „3 w 1” LEGO® Creator zawiera trzy moduły, które pozwalają na
 
 - Wymiary szybkiego pociągu: ok. 3 cm wysokości, 6 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 31054-1: https://a.allegroimg.com/original/05598b/bbe95d0a415ca6eb980de25703bf
+
 ---
 
-## 31055 — Lego 31055 Creator 3 w 1 Czerwona wyścigówka Misb z 2017r
+## 31055 — Czerwona wyścigówka
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702015867504 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31055 |
+| Nazwa angielska | Red Racer |
+| Nazwa polska | Czerwona wyścigówka |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867504 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1160,11 +1765,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 31055-1: https://a.allegroimg.com/original/118a69/4f0a2f8c43a1bf4b2c66e2a3f8d7
+
 ---
 
-## 31056 — Lego 31056 Creator 3w1 Zielony krążownik, motorówka, ciężarówka
+## 31056 — Creator Zielony krążownik 31056
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 143.50 zł · EAN: 05702015867511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31056 |
+| Nazwa angielska | Green Cruiser |
+| Nazwa polska | Creator Zielony krążownik 31056 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 122 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 6 cm |
+| EAN | 5702015867511, 673419266468 |
 
 LEGO CREATOR 31056 ZIELONY KRĄŻOWNIK
 
@@ -1184,11 +1805,28 @@ Smukły Zielony krążownik zaprasza na przejażdżkę z klasą! Ten kabriolet j
 - Wymiary szybkiej motorówki: 3 cm wysokości, 12 cm długości i 6 cm szerokości. 
 - Wymiary ciężarówki: 6 cm wysokości, 10 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 31056-1: https://3.allegroimg.com/original/036fc2/4ae80c0e4c1ca7b4f32da9a023a3
+- 31056-2: https://a.allegroimg.com/original/05f952/e09722d04826aa94616abb77cbd6
+
 ---
 
-## 31057 — Lego 31057 Creator 3w1 Władca przestworzy Zestaw klocków idealne
+## 31057 — Władca przestworzy 
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 144.15 zł · EAN: 05702015867528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31057 |
+| Nazwa angielska | Air Blazer |
+| Nazwa polska | Władca przestworzy  |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 16 cm |
+| EAN | 5702015867528 |
 
 LEGO 31057 Creator 3w1 - Władca przestworzy
 
@@ -1216,11 +1854,27 @@ Maszyna jest pomalowana czerwono-czarne barwy. Model z zestawu LEGO® Creator �
 
 - Wymiary katamaranu: ok. **8 cm wysokości, 8 cm długości i 7 cm szerokości**
 
+**Galeria:**
+
+- 31057-1: https://f.allegroimg.com/original/00f604/6a5b4d464c71b7d7912081c5908f
+
 ---
 
-## 31058 — Lego Creator 3 w 1 31058 Potężne dinozaury
+## 31058 — Potężne dinozaury
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702015867535 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31058 |
+| Nazwa angielska | Mighty Dinosaurs |
+| Nazwa polska | Potężne dinozaury |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4053271052977, 5702015867535 |
 
 LEGO Creator 3 w 1 31058 Potężne dinozaury
 
@@ -1259,11 +1913,28 @@ Ten zestaw da Ci mnóstwo świetnej zabawy! Znajdziesz w nim T-Rexa z ruchomymi 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702015867535
 
+**Galeria:**
+
+- 31058-1: https://a.allegroimg.com/original/1132cc/d656005a4681ab1a0d15bdc693cb
+- 31058-2: https://a.allegroimg.com/original/1130a6/7adceeb1492688c40aff2cd99ecd
+
 ---
 
-## 31059 — Lego Creator 31059 Motor Ścigacz Motocykl Cafe Racer Dragster 3w1
+## 31059 — CREATOR
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 289.50 zł · EAN: 05702015867542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31059 |
+| Nazwa angielska | Sunset Street Bike |
+| Nazwa polska | CREATOR |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 194 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm |
+| EAN | 5702015867542 |
 
 **Nowy zestaw klocków**
 
@@ -1292,11 +1963,27 @@ Niesamowity zestaw Motocykl z Bulwaru Zachodzącego Słońca to szansa na własn
 - Motocykl szosowy ma ok. 10 cm wysokości, 17 cm długości i 7 cm szerokości.
 - Przyczepa ma ok. 7 cm wysokości, 19 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 31059-1: https://a.allegroimg.com/original/051dab/d1de05e8449a87f5f8c6b067e3f8
+
 ---
 
-## 31060 — Lego 31060 Creator Pokazy lotnicze Samoloty Tir ciężarówka laweta
+## 31060 — CREATOR
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702015867559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31060 |
+| Nazwa angielska | Airshow Aces |
+| Nazwa polska | CREATOR |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 9 cm |
+| EAN | 5702015867559 |
 
 Nowy zestaw klocków
 
@@ -1331,11 +2018,27 @@ Ten wspaniały zestaw to okazja, by spędzić udany dzień na pokazach lotniczyc
 - Wymiary samochodu wyścigowego — dragstera: ok. 3 cm wysokości, 13 cm długości i 4 cm szerokości.
 - Wymiary sygnalizatora startowego: ok. 6 cm wysokości, 2 cm szerokości i 2 cm głębokości
 
+**Galeria:**
+
+- 31060-1: https://a.allegroimg.com/original/1168be/288365364fd0b287ba3536628b39
+
 ---
 
-## 31062 — Lego Creator 31062 Robot Odkrywca Świecący Unikat
+## 31062 — Robo Explorer
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 325.02 zł · EAN: 05702015867566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31062 |
+| Nazwa angielska | Robo Explorer |
+| Nazwa polska | Robo Explorer |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867566 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1371,11 +2074,27 @@ Ten niesamowity model zrobi wrażenie na Twoich znajomych. Robota-odkrywcy nie s
 - Ramiona Robota-odkrywcy dają się ustawiać, a głowa i korpus są ruchome. Szperacz można włączyć, a gdy robot jest w ruchu, jego gąsienice się poruszają. 
 - Zestaw „3 w 1”: pozwala zbudować także model Psa-robota z włączanym plecakiem odrzutowym lub Ptaka-robota o świecących oczach.
 
+**Galeria:**
+
+- 31062-1: https://a.allegroimg.com/original/00417c/90f76fa746e294bf97663fef0e64
+
 ---
 
-## 31063 — Lego Creator 31063 Wakacje na plaży
+## 31063 — Creator
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015867870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31063 |
+| Nazwa angielska | Beachside Vacation |
+| Nazwa polska | Creator |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 275 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867870 |
 
 LEGO Creator Klocki 3w1 Wakacje na plaży 31063
 
@@ -1394,11 +2113,27 @@ Kategoria wiekowa: 7 lat+
  
 Klocki LEGO Creator Wakacje na plaży to zestaw z serii Creator Buildings. Możesz wybrać jeden z trzech projektów i wraz z nim przenieść się nad letnie morze nawet w środku zimy. Zbuduj domek ratownika na piaszczystej plaży i pływaj po zatoce na desce windsurfingowej. Żaden problem! Gdy boisz się przypływu, w sam raz będzie domek na palach. Dopłyń do niego na skuterze wodnym! Zestaw składa się z 275 plastikowych elementów. Odpowiedni dla dziewczynek w wieku od 7 lat.
 
+**Galeria:**
+
+- 31063-1: https://f.allegroimg.com/original/036bd6/2e390d2a4b8d8c067951710de79f
+
 ---
 
-## 31064 — Lego Creator 3 w 1 31064 Przygody na wyspie Nowe
+## 31064 — Przygody na wyspie
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702015867887 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31064 |
+| Nazwa angielska | Island Adventures |
+| Nazwa polska | Przygody na wyspie |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm × gł. 13 cm |
+| EAN | 5702015867887 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1424,11 +2159,27 @@ Wielki hydroplan zabierze Cię ku niezwykłym przygodom! Ta dwusilnikowa maszyna
 - Wyspiarska chatka ma ok. 17 cm wysokości, 16 cm szerokości i 13 cm głębokości.
 - Motorówka ma ok. 9 cm wysokości, 17 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 31064-1: https://a.allegroimg.com/original/119e02/d16973eb4c4890959f8b19066683
+
 ---
 
-## 31067 — Lego Creator 3 w 1 31067 Wakacje na basenie Nowe
+## 31067 — 31067
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702015867917 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31067 |
+| Nazwa angielska | Modular Poolside Holiday |
+| Nazwa polska | 31067 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 20 cm × gł. 13 cm |
+| EAN | 5702015867917 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1453,11 +2204,27 @@ Skorzystaj z mnóstwa wakacyjnych atrakcji w zestawie Wakacje na basenie zawiera
 - Model Wakacje w skateparku ma ok. 13 cm wysokości, 17 cm szerokości i 12 cm głębokości.
 - Model Muzyczne wakacje w garażu ma ok. 13 cm wysokości, 13 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 31067-1: https://a.allegroimg.com/original/11dad3/4180b30d470bafe8e4debfcca68c
+
 ---
 
-## 31068 — Klocki Lego Creator 3 w 1 Nowoczesny dom 31068
+## 31068 — lego
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 358.97 zł · EAN: 05702015867924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31068 |
+| Nazwa angielska | Modular Modern Home |
+| Nazwa polska | lego |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867924 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1497,11 +2264,27 @@ Zbuduj jasny i przestronny nowoczesny dom ze śnieżnobiałymi ścianami oraz br
 
 - Moduły do budowania można łatwo łączyć w dowolny sposób, by zbudować na przykład taras na dachu albo zmienić wygląd domu, zamieniając miejscami okna, drzwi i inne jego części.
 
+**Galeria:**
+
+- 31068-1: https://a.allegroimg.com/original/00beb2/e0a0e0a9471380006a5179555529
+
 ---
 
-## 31070 — Lego 31070 Creator 3 w 1 Track Racer Turbo Misb z 2017
+## 31070 — Klocki LEGO Creator Track Racer Turbo 31070
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702015867948 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31070 |
+| Nazwa angielska | Turbo Track Racer |
+| Nazwa polska | Klocki LEGO Creator Track Racer Turbo 31070 |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 664 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867948 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1511,11 +2294,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 31070-1: https://a.allegroimg.com/original/119694/740c1eac41aaa9e9545b5138208d
+
 ---
 
-## 31072 — Lego Creator 31072 nowy zestaw Julivo
+## 31072 — Klocki LEGO Creator Potężne silniki 31072
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702016075052 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31072 |
+| Nazwa angielska | Extreme Engines |
+| Nazwa polska | Klocki LEGO Creator Potężne silniki 31072 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 109 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702016075052 |
 
 Oferowany zestaw jest nowy. Stan opakowania jest widoczny na zdjęciach.
 
@@ -1549,11 +2348,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 31072-1: https://a.allegroimg.com/original/05933e/0da18ab544c7aee6e4f7cf5155be
+
 ---
 
-## 31073 — Lego Creator 3 w 1 31073 Klocki Lego Mityczne stworzenia Nowy Unikat
+## 31073 — Klocki LEGO Creator Mityczne stworzenia 31073
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 219.99 zł · EAN: 05702016111804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31073 |
+| Nazwa angielska | Mythical Creatures |
+| Nazwa polska | Klocki LEGO Creator Mityczne stworzenia 31073 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 17 cm |
+| EAN | 5702016111804 |
 
 - **LEGO CREATOR 31073 Mityczne Stworzenia**
 - **Mythical Creatures**
@@ -1575,11 +2390,27 @@ Wyrusz na potworne przygody z zestawem Mityczne stworzenia 3 w 1! Zbuduj ziejąc
 - Ogromny pająk ma ok. 4 cm wysokości, 18 cm długości i 17 cm szerokości. 
 - Troll ma ok. 13 cm wysokości.
 
+**Galeria:**
+
+- 31073-1: https://a.allegroimg.com/original/005fac/468a98b5408f808ca22c6bc6c06a
+
 ---
 
-## 31074 — Lego Creator 3 w 1 31074 Wyścigówka
+## 31074 — Wyścigówka
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 249.99 zł · EAN: 05702016111798 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31074 |
+| Nazwa angielska | Rocket Rally Car |
+| Nazwa polska | Wyścigówka |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 8 cm |
+| EAN | 5702016111798 |
 
 LEGO Creator 31074 - Wyścigówka
 
@@ -1597,11 +2428,27 @@ Zwyciężaj we wszystkich wyścigach dzięki niesamowitej Wyścigówce 3 w 1 z j
 - Ciężarówka odrzutowa ma ok. 8 cm wysokości, 16 cm długości i 8 cm szerokości.
 - Quad ma ok. 6 cm wysokości, 9 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 31074-1: https://a.allegroimg.com/original/11f746/30a531634574a9eb176db19377e2
+
 ---
 
-## 31075 — Lego Creator 3 w 1 31075 Klocki Lego Creator Zabawy na dworze 31075
+## 31075 — Klocki LEGO Creator Zabawy na dworze 31075
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 279.90 zł · EAN: 05702016075069 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31075 |
+| Nazwa angielska | Outback Adventures |
+| Nazwa polska | Klocki LEGO Creator Zabawy na dworze 31075 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 225 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm |
+| EAN | 5702016075069 |
 
 Klocki LEGO Creator 3 w 1 31075 - Zabawy na dworze
  
@@ -1619,11 +2466,27 @@ Przeżyj emocjonujące Zabawy na dworze z tym wspaniałym zestawem 3 w 1, zawier
 - Obozowisko ma ok. 5 cm wysokości, 13 cm szerokości i 7 cm głębokości. 
 - Helikopter z wyciągarką ma ok. 8 cm wysokości, 12 cm długości i 13 cm szerokości.
 
+**Galeria:**
+
+- 31075-1: https://a.allegroimg.com/original/053d3c/f563bff34834a54b8791d3333367
+
 ---
 
-## 31076 — Lego Creator 31076 Samolot Kaskaderski 3w1 Dwupłatowiec Pilot Samochód Łódź
+## 31076 — Samolot Kaskaderski
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 253.99 zł · EAN: 05702016092776 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31076 |
+| Nazwa angielska | Daredevil Stunt Plane |
+| Nazwa polska | Samolot Kaskaderski |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 17 cm |
+| EAN | 5702016092776 |
 
 LEGO CREATOR 31076 Samolot Kaskaderski
 
@@ -1647,11 +2510,27 @@ Wykonuj brawurowe akrobacje w samolocie kaskaderskim!
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 31076-1: https://a.allegroimg.com/original/117acf/0811a11244b989e10a5ce0352500
+
 ---
 
-## 31077 — Lego Creator 3 w 1 31077 Słodkie niespodzianki
+## 31077 — Słodkie niespodzianki
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016111781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31077 |
+| Nazwa angielska | Modular Sweet Surprises |
+| Nazwa polska | Słodkie niespodzianki |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 396 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 22 cm × gł. 11 cm |
+| EAN | 5702016111781 |
 
 LEGO CREATOR 31077 SŁODKIE NIESPODZIANKI.
 
@@ -1667,11 +2546,27 @@ Kawiarnia na rogu ma ok. 8 cm wysokości, 23 cm szerokości i 10 cm głębokośc
  
 **Elementy 396**
 
+**Galeria:**
+
+- 31077-1: https://f.allegroimg.com/original/00cc41/c0a8b7504adc9cd3a181b9cddadf
+
 ---
 
-## 31078 — Lego Creator 3 w 1 31078 Poszukiwanie skarbów Nowe
+## 31078 — Poszukiwanie skarbów
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016111774 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31078 |
+| Nazwa angielska | Tree House Treasures |
+| Nazwa polska | Poszukiwanie skarbów |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 14 cm × gł. 19 cm |
+| EAN | 5702016111774 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1694,11 +2589,27 @@ Zestaw LEGO® Creator 3 w 1 31078 Poszukiwanie skarbów to wspaniała okazja do 
 - Statek piracki ma ok. 11 cm wysokości, 22 cm szerokości i 7 cm głębokości.
 - Czaszkowa jaskinia ma ok. 10 cm wysokości, 16 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 31078-1: https://a.allegroimg.com/original/11bfd5/21cfba4c4471ab6c8020c617b1e9
+
 ---
 
-## 31079 — Lego Creator 3 w 1 31079 Van surferów
+## 31079 — Klocki LEGO Creator Van surferów 31079
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 305.61 zł · EAN: 05702016111262 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31079 |
+| Nazwa angielska | Sunshine Surfer Van |
+| Nazwa polska | Klocki LEGO Creator Van surferów 31079 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 379 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111262 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1724,11 +2635,27 @@ PACZKI .
 
 Wyrusz na poszukiwanie piaszczystych plaż i wysokich fal wygodnym vanem, baw się i smiej całe lato! Van surferów z samochodem kempingowym z jasnożółtych, białych i niebieskich klocków prezentuje się wspaniale. Pojazd ma wiele realistycznych szczególików, takich jak bagażnik na dachu na deskę surfingową, składany leżak, krzesło, parasol, stolik i grilla.  Cechą charakterystyczną wszystkich modeli z serii LEGO CREATOR jest możliwość przebudowy modelu głównego na dwa inne. Van surferów można przebudować na wieżę ratowniczą lub łazik plażowy, by przeżyć jeszcze więcej ciekawych przygód nad morzem. Zestaw zawiera też dwie minifigurki podróżnych, gotowych na wakacyjne przygody w trasie i na plaży.
 
+**Galeria:**
+
+- 31079-1: https://a.allegroimg.com/original/05ecd0/cc197be34dce97e204e2ed4799bc
+
 ---
 
-## 31080 — Lego Creator 3 w 1 31080 Ferie zimowe
+## 31080 — Klocki LEGO Creator Ferie zimowe 31080
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 300.76 zł · EAN: 05702016111255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31080 |
+| Nazwa angielska | Modular Winter Vacation |
+| Nazwa polska | Klocki LEGO Creator Ferie zimowe 31080 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 21 cm × gł. 18 cm |
+| EAN | 5702016111255 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1786,11 +2713,27 @@ Wymiary:
 
 **Klocki przeznaczone dla osób w wieku  7-12 lat.**
 
+**Galeria:**
+
+- 31080-1: https://a.allegroimg.com/original/03eabd/b9f1ede2450ead156ba6852dd3c3
+
 ---
 
-## 31081 — Lego 31081 Creator 3 w 1 Skatepark, salon gier, deskorolka Nowy P159
+## 31081 — Klocki LEGO Creator Skatepark 31081
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 319.99 zł · EAN: 05702016092783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31081 |
+| Nazwa angielska | Modular Skate House |
+| Nazwa polska | Klocki LEGO Creator Skatepark 31081 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 422 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016092783 |
 
 **LEGO 31081 Creator 3 w 1 - Skatepark, salon gier, deskorolka NOWY, NIEOTWIERANY**
 
@@ -1798,11 +2741,27 @@ Na sprzedaż nowy, oryginalny zestaw LEGO 31081 Creator 3 w 1 - Skatepark, salon
 
 Zestaw jest **fabrycznie zapakowany**
 
+**Galeria:**
+
+- 31081-1: https://a.allegroimg.com/original/114218/d4875199476b9933b11ffe8b7e7f
+
 ---
 
-## 31083 — Lego Creator 3w1 31083 Przygody w podróży Statek
+## 31083 — Przygody w podróży
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 438.88 zł · EAN: 05702016267006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31083 |
+| Nazwa angielska | Cruising Adventures |
+| Nazwa polska | Przygody w podróży |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 597 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 10 cm |
+| EAN | 5702016267006 |
 
 Klocki LEGO Creator 3w1 31083 - Przygody w podróży
 
@@ -1819,11 +2778,27 @@ Pożegluj w siną dal w zestawie LEGO® Creator 3 w 1 31083 Przygody w podróży
 
 Zestaw LEGO Creator 3w1 - Przygody w podróży trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 31083. Zawiera 597 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Creator 3w1 - Cruising Adventures. Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 31083-1: https://a.allegroimg.com/original/11729b/e1cda00b4786a47de8d39205c11b
+
 ---
 
-## 31084 — Klocki Lego Creator Zestaw Piracka kolejka górska 31084
+## 31084 — KLOCKI LEGO CREATOR 31084 PIRACKA KOLEJKA GÓRSKA
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016111248 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31084 |
+| Nazwa angielska | Pirate Roller Coaster |
+| Nazwa polska | KLOCKI LEGO CREATOR 31084 PIRACKA KOLEJKA GÓRSKA |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 923 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111248 |
 
 LEGO Creator 3 w 1: Piracka Kolejka Górska (31084) – Ahoj, Przygodo i Adrenalino!
 
@@ -1865,11 +2840,27 @@ Przygotuj się na niezapomnianą, pełną wrażeń przejażdżkę z zestawem **L
 
 Zabierz swoją rodzinę na szaloną przejażdżkę Piracką Kolejką Górską, wyrusz na poszukiwanie skarbów statkiem pirackim lub odkryj tajemniczą wyspę! **LEGO Creator 3 w 1: Piracka Kolejka Górska (31084)** to bilet do niekończącej się, pirackiej przygody!
 
+**Galeria:**
+
+- 31084-1: https://a.allegroimg.com/original/039a54/9ed7aaf449e1bdc276eab0841a8b
+
 ---
 
-## 31085 — Lego 31085 Creator 3w1 Pokaz kaskaderski
+## 31085 — CREATOR
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 392.00 zł · EAN: 05702016111101 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31085 |
+| Nazwa angielska | Mobile Stunt Show |
+| Nazwa polska | CREATOR |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 581 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111101 |
 
 Oryginalne, nieotwierane opakowanie
 
@@ -1884,11 +2875,27 @@ Numer magazynowy sprzedawcy: 20260223
 
 Przybliżone wymiary opakowania:** ****28,2 x 6,1 x 48 cm**
 
+**Galeria:**
+
+- 31085-1: https://a.allegroimg.com/original/11e833/958ab3b841a7b294a344814f3d59
+
 ---
 
-## 31086 — Lego Creator 3 w 1 31086 Futurystyczny samolot
+## 31086 — Futurystyczny samolot
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702016367812 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31086 |
+| Nazwa angielska | Futuristic Flyer |
+| Nazwa polska | Futurystyczny samolot |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 22 cm |
+| EAN | 5702016367812 |
 
 LEGO CREATOR 31086 Futurystyczny samolot
 
@@ -1908,11 +2915,27 @@ Przeżyj naddźwiękowe przygody w zestawie LEGO® Creator 3 w 1 31086 Futurysty
  
 **Elementy 157**
 
+**Galeria:**
+
+- 31086-1: https://a.allegroimg.com/original/05044e/6c54ad2041e6a27ccc2c9f0f2605
+
 ---
 
-## 31087 — Lego Creator 31087 Lekki pojazd terenowy buggy rajdówka samolot quad
+## 31087 — Creator 3w1 31087 - Lekki pojazd terenowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 199.50 zł · EAN: 05702016367829 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31087 |
+| Nazwa angielska | Dune Buggy |
+| Nazwa polska | Creator 3w1 31087 - Lekki pojazd terenowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 147 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016367829, 673419302081 |
 
 Nowy zestaw klocków
 
@@ -1936,11 +2959,27 @@ Przemierzaj trudny teren pojazdem z zestawu LEGO® Creator 31087 Lekki pojazd te
 - Samolot ma ok. 6 cm wysokości, 13 cm długości i 14 cm szerokości.
 - Quad ma ok. 5 cm wysokości, 8 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 31087-1: https://a.allegroimg.com/original/05c3d8/d049782f4e2e89350a19de8cf12f
+
 ---
 
-## 31088 — Lego Creator 31088 Morskie Stworzenia
+## 31088 — Morskie stworzenia
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 139.00 zł · EAN: 04251887605437 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31088 |
+| Nazwa angielska | Deep Sea Creatures |
+| Nazwa polska | Morskie stworzenia |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 4251887605437, 5702016367836 |
 
 LEGO Creator Morskie stworzenia 3w1 31088
  
@@ -1959,11 +2998,28 @@ Zwiedź dno morskie w zestawie LEGO Creator 3 w 1 31088 Morskie stworzenia. Znaj
 - Kałamarnica ma ok. 4 cm wysokości, 18 cm długości i 22 cm szerokości.
 - Żabnica ma ok. 5 cm wysokości, 14 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 31088-1: https://a.allegroimg.com/original/0598b6/88aa290c4613987a4c44360fc3f5
+- 31088-2: https://a.allegroimg.com/original/45bf14/82aa3baa44baae78898c53a94108
+
 ---
 
-## 31089 — Lego Creator Słoneczna wyścigówka 3w1 31089
+## 31089 — Słoneczna wyścigówka
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 207.71 zł · EAN: 05702016367843 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31089 |
+| Nazwa angielska | Sunset Track Racer |
+| Nazwa polska | Słoneczna wyścigówka |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 7 cm |
+| EAN | 5702016367843 |
 
 LEGO CREATOR 3 W 1
 
@@ -2006,11 +3062,27 @@ SPECYFIKACJA ZESTAWU:
 - **Płeć dziecka:** Dla chłopców
 - **Ilość elementów:** 221
 
+**Galeria:**
+
+- 31089-1: https://a.allegroimg.com/original/11f72f/a4468bc248d3b09bc3b8a49e5205
+
 ---
 
-## 31090 — Lego 31090 Creator 3w1 Podwodny robot Badacz oceanów Łódź podwodna Unikat
+## 31090 — Podwodny robot
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 495.00 zł · EAN: 05702016367850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31090 |
+| Nazwa angielska | Underwater Robot |
+| Nazwa polska | Podwodny robot |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 7 cm |
+| EAN | 5702016367850 |
 
 Nowy zestaw klocków
 
@@ -2037,11 +3109,27 @@ Przeczesuj głębiny oceanów w poszukiwaniu skarbów w zestawie LEGO® Creator 
 - Łódź podwodna ma ok. 9 cm wysokości, 17 cm długości i 13 cm szerokości.
 - Podwodny dźwig ma ok. 12 cm wysokości, 13 cm długości i 18 cm szerokości.
 
+**Galeria:**
+
+- 31090-1: https://a.allegroimg.com/original/1165da/ebb62790431db82ba68e7eb6ecb6
+
 ---
 
-## 31091 — Lego Creator 31091 Transporter promu Koszalin
+## 31091 — Transporter promu
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 348.79 zł · EAN: 00673419302128 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31091 |
+| Nazwa angielska | Shuttle Transporter |
+| Nazwa polska | Transporter promu |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 341 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702016367867, 673419302128 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -2083,11 +3171,28 @@ Przeczesuj głębiny oceanów w poszukiwaniu skarbów w zestawie LEGO® Creator 
 
 **• Samochód z przyczepą kempingową ma ok. 4 cm wysokości, 16 cm długości i 3 cm szerokości.**
 
+**Galeria:**
+
+- 31091-1: https://a.allegroimg.com/original/1124f7/c637dbe740fa902fa0e961a5ceed
+- 31091-2: https://6.allegroimg.com/original/03abc6/bb7b37f040df9b72277eb6473f26
+
 ---
 
-## 31092 — Lego 31092 Creator Helikopter Motorówka Szybowiec zestaw 3w1
+## 31092 — Przygoda z helikopterem
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 169.50 zł · EAN: 05702016395389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31092 |
+| Nazwa angielska | Helicopter Adventure |
+| Nazwa polska | Przygoda z helikopterem |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702016395389, 673419308779 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2113,11 +3218,28 @@ Zestaw LEGO® Creator 3 w 1 31092 Przygoda z helikopterem zapewni Ci zabawę na 
 
 LEGO® opis, logo LEGO® są znakami towarowymi Grupy LEGO.
 
+**Galeria:**
+
+- 31092-1: https://a.allegroimg.com/original/11e53b/cbfa90ae4b969005239875a3857c
+- 31092-2: https://a.allegroimg.com/original/117ac4/e04851b44e6782f506bd1fa1d199
+
 ---
 
-## 31093 — Zestaw Lego Creator 3W1 31093 Łódź Mieszkalna I Wioska Rybacka
+## 31093 — Łódź mieszkalna
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 191.97 zł · EAN: 05702016367874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31093 |
+| Nazwa angielska | Riverside Houseboat |
+| Nazwa polska | Łódź mieszkalna |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 396 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 8 cm |
+| EAN | 5702016367874, 673419302135 |
 
 ZESTAW LEGO CREATOR 3W1 - 31093 - ŁÓDŹ MIESZKALNA I WIOSKA RYBACKA
 
@@ -2155,11 +3277,28 @@ Jedną z największych zalet zestawu LEGO 31093 jest jego formuła 3w1, która p
 
 Zestaw LEGO Creator 31093 to idealny wybór dla dzieci i dorosłych, którzy lubią kreatywne budowanie i zestawy oferujące wiele możliwości zabawy. Dzięki trzem różnym modelom w jednym zestawie zabawa nigdy się nie kończy, a każdy wariant pozwala odkrywać nowe historie i scenariusze. Bogactwo detali, minifigurki oraz zwierzęta sprawiają, że zestaw angażuje na długie godziny i zachęca do odgrywania scenek. To także świetna dekoracja po złożeniu, która przyciąga uwagę swoim unikalnym wyglądem. Ten zestaw to doskonały pomysł na prezent urodzinowy, świąteczny lub zupełnie bez okazji – dla każdego, kto lubi kreatywność, przygodę i budowanie bez ograniczeń.
 
+**Galeria:**
+
+- 31093-1: https://a.allegroimg.com/original/11173d/fc4485ca40b9ac52d9393016df9f
+- 31093-2: https://a.allegroimg.com/original/110a5b/fc1bda704550a58720fabdc72a09
+
 ---
 
-## 31094 — Lego 31094 Creator Samolot wyścigowy
+## 31094 — LEGO KLOCKI CREATOR 31094 SAMOLOT WYŚCIGOWY
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702016367881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31094 |
+| Nazwa angielska | Race Plane |
+| Nazwa polska | LEGO KLOCKI CREATOR 31094 SAMOLOT WYŚCIGOWY |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 333 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 26 cm |
+| EAN | 5702016367881, 673419302142 |
 
 Lego 31094 CREATOR Samolot wyścigowy
 
@@ -2201,11 +3340,28 @@ Pozostałe parametry
 
 Wymiary opakowania: 7 x 35.4 x 19.1 cm
 
+**Galeria:**
+
+- 31094-1: https://a.allegroimg.com/original/11667e/5c323a17469e8e1369d16e052bc1
+- 31094-2: https://a.allegroimg.com/original/11491e/f8ae139049789b0d95d145392e2e
+
 ---
 
-## 31095 — Lego Creator 3 w 1 31095 Karuzela w wesołym miasteczku
+## 31095 — LEGO CREATOR 31095 Karuzela w wesołym miasteczku
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 297.77 zł · EAN: 05702016367898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31095 |
+| Nazwa angielska | Fairground Carousel |
+| Nazwa polska | LEGO CREATOR 31095 Karuzela w wesołym miasteczku |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 595 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 29 cm × gł. 18 cm |
+| EAN | 5702016367898 |
 
 LEGO CREATOR 31095 Karuzela w wesołym miasteczku.
  
@@ -2243,11 +3399,27 @@ W zestawie są trzy minifigurki: dwie dziewczynki i chłopiec gotowi do zabawy n
  
 **Elementy 595**
 
+**Galeria:**
+
+- 31095-1: https://a.allegroimg.com/original/11f84f/cd86f1274c13b813ed8e6c03464d
+
 ---
 
-## 31096 — Lego Creator 31096 Śmigłowiec Dwuwirnikowy
+## 31096 — Śmigłowiec dwuwirnikowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702016367904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31096 |
+| Nazwa angielska | Twin-Rotor Helicopter |
+| Nazwa polska | Śmigłowiec dwuwirnikowy |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 33 cm |
+| EAN | 5702016367904 |
 
 LEGO CREATOR 31096 Śmigłowiec dwuwirnikowy
  
@@ -2281,11 +3453,27 @@ W komplecie minifigurka pilota gotowego do akcji.
 
 **Elementy 569**
 
+**Galeria:**
+
+- 31096-1: https://a.allegroimg.com/original/0532f3/baecb75b4f92818dcc57830a953d
+
 ---
 
-## 31097 — Klocki Lego Creator 3w1 31097 Sklep zoologiczny i kawiarenka
+## 31097 — Lego Creator Sklep zoologiczny i kawiarenka 31097
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 561.00 zł · EAN: 05702016367911 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31097 |
+| Nazwa angielska | Townhouse Pet Shop & Café |
+| Nazwa polska | Lego Creator Sklep zoologiczny i kawiarenka 31097 |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 969 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 20 cm × gł. 22 cm |
+| EAN | 5702016367911 |
 
 **** Wnętrze tego kolorowego modelu ozdobione jest mnóstwem detali inspirujących do kreatywnej zabawy. W komplecie są także zbudowane z klocków zwierzątka takie jak piesek, tukan i mysz.
  
@@ -2304,11 +3492,27 @@ Zestawy Creator 3 w 1 umożliwiają dzieciom zbudowanie trzech różnych modeli 
 - Ulica handlowa ma ok. 12 cm wysokości, 29 cm szerokości i 12 cm głębokości. 
 - Tramwaj ma ok. 11 cm wysokości, 11 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 31097-1: https://a.allegroimg.com/original/00aa90/be3836514205ac8e08edf76bc686
+
 ---
 
-## 31098 — Zestaw Lego Creator 3w1 31098 Domek Na Wsi Barka Wieża Obserwacyjna
+## 31098 — Klocki LEGO Creator 3w1 31098 Domek na wsi
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016374988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31098 |
+| Nazwa angielska | Outback Cabin |
+| Nazwa polska | Klocki LEGO Creator 3w1 31098 Domek na wsi |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm × gł. 8 cm |
+| EAN | 5702016374988 |
 
 ZESTAW LEGO CREATOR 3w1 - 31098 - DOMEK NA WSI - BARKA - WIEŻA OBSERWACYJNA
 
@@ -2346,11 +3550,27 @@ Jak przystało na serię Creator 3w1, ten zestaw oferuje znacznie więcej niż j
 
 Zestaw LEGO Creator 31098 to doskonały wybór dla dzieci, które lubią naturę, kreatywną zabawę oraz modele pełne ciekawych detali. Trzy różne konstrukcje w jednym pudełku sprawiają, że zabawa trwa znacznie dłużej, a możliwość przebudowy pozwala odkrywać nowe funkcje i scenariusze. Uroczy domek nad wodą, kajak, ognisko, figurki zwierząt oraz przytulne wnętrze tworzą niezwykle klimatyczny zestaw, który przypadnie do gustu zarówno młodszym budowniczym, jak i kolekcjonerom serii Creator. To świetny pomysł na prezent urodzinowy, niespodziankę bez okazji lub drobny upominek dla każdego fana LEGO. Dzięki uniwersalnej tematyce i dużej liczbie możliwości budowania ten zestaw szybko stanie się jednym z ulubionych elementów każdej kolekcji.
 
+**Galeria:**
+
+- 31098-1: https://a.allegroimg.com/original/1151b5/2fd5ab3646dba20a7e2a800b915d
+
 ---
 
-## 31099 — Lego 31099 Creator 3w1 Samolot śmigłowy
+## 31099 — Samolot śmigłowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 158.91 zł · EAN: 05702016616057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31099 |
+| Nazwa angielska | Propeller Plane |
+| Nazwa polska | Samolot śmigłowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 128 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 18 cm |
+| EAN | 5702016616057 |
 
 Klocki LEGO Creator 3w1 31099 - Samolot śmigłowy
 
@@ -2392,11 +3612,27 @@ Zestaw LEGO Creator 3w1 - Samolot śmigłowy trafił do sprzedaży w 2020 roku
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 31099-1: https://a.allegroimg.com/original/1109a1/2c883c8c40928f0249a24b2f6af4
+
 ---
 
-## 31100 — Lego Creator 3 w 1 31100 Samochód sportowy
+## 31100 — Samochód sportowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016616064 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31100 |
+| Nazwa angielska | Sports Car |
+| Nazwa polska | Samochód sportowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 134 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 7 cm |
+| EAN | 5702016616064 |
 
 Wystrzałowy samochód sportowy z mnóstwem udawanych koni mechanicznych
  
@@ -2420,11 +3656,27 @@ Zestawy LEGO Creator 3 w 1 oferują dzieciom realistyczne modele pełne ciekawyc
 - Klocki LEGO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 31100-1: https://a.allegroimg.com/original/057d3e/f2a7349f47c487536cfde1e84e72
+
 ---
 
-## 31101 — Lego Creator 3 w 1 31101 Monster truck
+## 31101 — Monster truck
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016616279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31101 |
+| Nazwa angielska | Monster Truck |
+| Nazwa polska | Monster truck |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616279 |
 
 "LEGO® Creator" to zestawy dla małych budowniczych, którzy z klocków uwielbiają budować obiekty, pojazdy czy futurystyczne zwierzęta. "Monster truck" to jeden z najpopularniejszych zestawów, który pozwala na zbudowanie prawdziwego monster trucka. Klocki można łączyć z innymi zestawami LEGO® Creator, dzięki czemu zabawa będzie trwała godzinami!
  
@@ -2436,11 +3688,27 @@ Do zestawu dołączono intuicyjne instrukcje, dzięki którym dzieci bez problem
  
 Klocki LEGO® spełniają najwyższe standardy jakości nieprzerwanie od niemal 90 lat. Tworzywo, z którego są wykonane, jest w pełni bezpieczne dla wszystkich maluchów. Zestaw "Monster truck" jest przeznaczony dla chłopców i dziewczynek w wieku 7+. Zabawki mają kompaktowe rozmiary, dlatego też można je zabrać ze sobą wszędzie - świetnie prezentują się także na półce w dziecięcym pokoju.
 
+**Galeria:**
+
+- 31101-1: https://a.allegroimg.com/original/009354/b6da2472438597245ef270286289
+
 ---
 
-## 31103 — Zestaw Lego Creator 3W1 31103 Rakietowy Samochód Terenówka Quad
+## 31103 — Klocki LEGO Creator 3w1 31103 Rakietowy samochód
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 108.00 zł · EAN: 05702016616293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31103 |
+| Nazwa angielska | Rocket Truck |
+| Nazwa polska | Klocki LEGO Creator 3w1 31103 Rakietowy samochód |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016616293 |
 
 ZESTAW LEGO CREATOR 3W1 - 31103 - RAKIETOWY SAMOCHÓD - TERENÓWKA - QUAD
 
@@ -2478,11 +3746,27 @@ Zestaw został zaprojektowany tak, aby zapewnić maksymalną frajdę z budowania
 
 LEGO Creator 31103 to doskonały wybór dla każdego dziecka, które lubi pojazdy, szybkość i kreatywne budowanie. Trzy modele w jednym zestawie sprawiają, że zabawa szybko się nie nudzi, a możliwość przebudowy i łączenia z innymi zestawami LEGO Creator jeszcze bardziej wydłuża czas rozrywki. To świetna propozycja zarówno dla początkujących konstruktorów, jak i bardziej doświadczonych fanów LEGO, którzy lubią eksperymentować z budowaniem. Zestaw doskonale sprawdzi się jako prezent urodzinowy, świąteczny lub po prostu niespodzianka bez okazji, dostarczając mnóstwo radości i inspirując do tworzenia własnych, niepowtarzalnych historii.
 
+**Galeria:**
+
+- 31103-1: https://a.allegroimg.com/original/119f2b/e9621b5143259cc6c5e19e63cb85
+
 ---
 
-## 31104 — Lego Creator 3w1 31104 Monster truck z burgerami
+## 31104 — Monster truck z burgerami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 397.00 zł · EAN: 05702016616309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31104 |
+| Nazwa angielska | Monster Burger Truck |
+| Nazwa polska | Monster truck z burgerami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 499 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616309 |
 
 LEGO® Creator 3w1 31104 - Monster truck z burgerami
 
@@ -2496,11 +3780,27 @@ Stan pudełka BD, zagięta krawędź.
 
 **Zapraszam**
 
+**Galeria:**
+
+- 31104-1: https://a.allegroimg.com/original/113c45/773ec298428d94bbec753f8c288b
+
 ---
 
-## 31105 — Lego Creator 3 w 1 31105
+## 31105 — 31105
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 284.90 zł · EAN: 05702016616316 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31105 |
+| Nazwa angielska | Townhouse Toy Store |
+| Nazwa polska | 31105 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 554 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 10 cm |
+| EAN | 5702016616316 |
 
 Zestaw LEGO Creator 3 w 1 umożliwia zbudowanie trzech różnych modeli do zabawy. Mogą też zbudować coś zupełnie nowego. Ta zabawka konstrukcyjna zachęca dzieci do pomysłowej zabawy i doskonale nadaje się na prezent świąteczny lub urodzinowy.
 
@@ -2518,11 +3818,27 @@ Niepowtarzalne, samodzielne modele z mnóstwem możliwości zabawy. Zestawy LEGO
 - Klocki LEGO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - W Grupie LEGO upuszczamy, zgniatamy, skręcamy, podgrzewamy, gryziemy, zginamy, zarysowujemy i rozciągamy klocki i elementy LEGO, by mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 31105-1: https://a.allegroimg.com/original/002553/af82128347f8802df22b31c40e14
+
 ---
 
-## 31107 — Lego Creator 31107 Łazik kosmiczny
+## 31107 — Łazik kosmiczny
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 361.99 zł · EAN: 05702016616330 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31107 |
+| Nazwa angielska | Space Rover Explorer |
+| Nazwa polska | Łazik kosmiczny |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616330 |
 
 Klocki LEGO® 31107 Creator Łazik kosmiczny
 
@@ -2545,11 +3861,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla dzieci od 8 lat, które lubią budowanie pojazdów, kosmiczne sceny i modele z możliwością przebudowy. Sprawdzi się przy samodzielnej zabawie konstrukcyjnej oraz tworzeniu własnych historii związanych z eksploracją kosmosu.
 
+**Galeria:**
+
+- 31107-1: https://a.allegroimg.com/original/1190eb/10fdd73c4e87adead0ff0f9eeb01
+
 ---
 
-## 31108 — Lego Creator 3 w 1 31108 Wakacyjny kemping z rodziną
+## 31108 — Wakacyjny kemping z rodziną
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702016616347 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31108 |
+| Nazwa angielska | Caravan Family Holiday |
+| Nazwa polska | Wakacyjny kemping z rodziną |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 766 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 12 cm |
+| EAN | 5702016616347 |
 
 W zestawie jest auto w stylu retro oraz przyczepa kempingowa z kuchnią, toaletą, zdejmowanym dachem i otwieranym bokiem. W tym pełnym funkcji i akcesoriów zestawie są również trzy minifigurki, więc dzieci mogą od razu zacząć zabawę.
  
@@ -2575,11 +3907,26 @@ Zestawy LEGO Creator 3 w 1 oferują dzieciom szereg realistycznych modeli, któr
 - Klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 31108-1: https://a.allegroimg.com/original/050fbd/33c96e874f63a9cfad095c86153a
+
 ---
 
-## 31109 — Lego 31109 Creator 3w1 Statek piracki
+## 31109 — Farma piratów
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 495.90 zł · EAN: 05702016412567 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31109 |
+| Nazwa angielska | Pirate Ship |
+| Nazwa polska | Farma piratów |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1264 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | wys. 37 cm × szer. 19 cm |
+| EAN | 5702016412567, 5702016616354 |
 
 LEGO Creator 3 w 1 31109 Statek piracki
  
@@ -2606,11 +3953,28 @@ Zestawy LEGO Creator 3 w 1 oferują dzieciom szereg realistycznych modeli, któr
 - Klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 31109-1: https://a.allegroimg.com/original/11132c/79a358344b598080bed14de575fa
+- 31109-2: https://a.allegroimg.com/original/05acb3/af8da2de4edcad9a0582c9f2d2fe
+
 ---
 
-## 31112 — Nowe Lego Creator 31112 Dziki Lew
+## 31112 — Dziki lew
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 117.99 zł · EAN: 05702016888348 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31112 |
+| Nazwa angielska | Wild Lion |
+| Nazwa polska | Dziki lew |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016888348 |
 
 ZESTAW LEGO CREATOR : DZIKI LEW- 31112
 
@@ -2638,11 +4002,27 @@ ILOŚĆ KLOCKÓW: 224
 
 **zestaw fabrycznie nowy**
 
+**Galeria:**
+
+- 31112-1: https://a.allegroimg.com/original/1145a8/ef72b99f488f81bebe4b7e177e05
+
 ---
 
-## 31113 — Lego Creator 3w1 31113 Transporter samochodów wyścigowych
+## 31113 — Transporter samochodów wyścigowych
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702016888355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31113 |
+| Nazwa angielska | Race Car Transporter |
+| Nazwa polska | Transporter samochodów wyścigowych |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 328 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016888355 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -2652,11 +4032,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 31113-1: https://a.allegroimg.com/original/111008/a26100644281923c99413b215a7e
+
 ---
 
-## 31114 — Lego 31114 Creator 3w1 Supermotocykl Cafe Racer Ścigacz Nowy
+## 31114 — Supermotocykl
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 169.50 zł · EAN: 05702016888362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31114 |
+| Nazwa angielska | Superbike |
+| Nazwa polska | Supermotocykl |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 236 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702016888362 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -2687,11 +4083,27 @@ Każdy zestaw LEGO Creator 3 w 1 zawiera trzy różne modele i otwiera przed bud
 - Już od ponad sześciu dekad klocki do budowania LEGO® są produkowane z wysokiej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić.
 - Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31114-1: https://a.allegroimg.com/original/11b163/4526a2cb43b98a987e34865662ce
+
 ---
 
-## 31116 — Lego Creator 3 w 1 31116 Domek na drzewie na safari
+## 31116 — Domek na drzewie na safari
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702016889383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31116 |
+| Nazwa angielska | Safari Wildlife Tree House |
+| Nazwa polska | Domek na drzewie na safari |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 397 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm |
+| EAN | 5702016889383 |
 
 Przygotuj się na niezapomnianą wyprawę na afrykańską sawannę! Z balkonu rewelacyjnego domku na drzewie na safari możesz zrobić świetne zdjęcia albo nakarmić sympatyczną żyrafę. Potem zejdź w dół po drabinie, by pobawić się z ptakami — flamingiem i dzioborożcem. Na koniec możesz przebudować model na fajny dwupłatowiec przelatujący nad lwem lub katamaran przepływający obok krokodyla. W tym niezwykłym zestawie 3 w 1 wybór należy do Ciebie!
  
@@ -2716,11 +4128,27 @@ Zestawy LEGO Creator 3 w 1 pobudzają dziecięcą wyobraźnię — w każdym są
 - Już od ponad sześciu dekad klocki do budowania LEGO® są produkowane z wysokiej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić.
 - Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31116-1: https://a.allegroimg.com/original/114284/8180e90b430993e4ec0e192c4ecc
+
 ---
 
-## 31117 — Lego 31117 Creator 3w1 Przygoda w promie kosmicznym
+## 31117 — Przygoda w promie kosmicznym
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 397.00 zł · EAN: 05702016914153 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31117 |
+| Nazwa angielska | Space Shuttle Adventure |
+| Nazwa polska | Przygoda w promie kosmicznym |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 486 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914153 |
 
 Oryginalne, nieotwierane opakowanie,
 
@@ -2736,11 +4164,27 @@ Numer magazynowy sprzedawcy: 20260271
 
 Przybliżone wymiary opakowania: **7 x 38,2 x 26,2 cm**
 
+**Galeria:**
+
+- 31117-1: https://a.allegroimg.com/original/116bc8/8b341bc94fe38364e181abe1694b
+
 ---
 
-## 31118 — Lego 31118 Creator 3 w 1 Domek surferów na plaży
+## 31118 — Domek surferów na plaży
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 307.00 zł · EAN: 05702016889390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31118 |
+| Nazwa angielska | Surfer Beach House |
+| Nazwa polska | Domek surferów na plaży |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 564 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 17 cm × gł. 15 cm |
+| EAN | 5702016889390 |
 
 Wybierz się na plażę, by złapać wielką falę! W domku surferów czeka mnóstwo atrakcji — jest tam nawet deska, którą możesz zabrać nad ocean. Ale fajnie! W wodzie będą Ci towarzyszyć żółwie i przyjazny delfin. Gdy znudzi Cię surfowanie, możesz przerobić model na latarnię morską z łódką i nurkować z płaszczką albo zbudować domek z basenem. To zestaw 3 w 1, więc wszystko zależy od Twojej wyobraźni!
  
@@ -2762,11 +4206,27 @@ Fantastyczny zestaw LEGO® Creator 3 w 1 Domek surferów na plaży (31118) to ok
 - Już od ponad sześciu dekad klocki do budowania LEGO® są produkowane z wysokiej jakości materiałów, aby zawsze można było je łatwo połączyć i rozdzielić. 
 - Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31118-1: https://a.allegroimg.com/original/0590b9/357e1269408583b8747a52b7591e
+
 ---
 
-## 31119 — Lego 31119 Creator 3w1 Diabelski młyn
+## 31119 — Diabelski młyn
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 566.99 zł · EAN: 05702016914160 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31119 |
+| Nazwa angielska | Ferris Wheel |
+| Nazwa polska | Diabelski młyn |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1002 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 26 cm |
+| EAN | 5702016914160 |
 
 Klocki LEGO Creator 3w1 31119 - Diabelski młyn
 
@@ -2816,11 +4276,27 @@ Zestaw LEGO Creator 3w1 - Diabelski młyn trafił do sprzedaży w 2021 roku. N
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 31119-1: https://a.allegroimg.com/original/119ffb/88bc52844015bdae7f10dc41589e
+
 ---
 
-## 31120 — Lego Creator 3w1 Średniowieczny zamek 31120
+## 31120 — Średniowieczny zamek
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 487.66 zł · EAN: 05702016914528 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31120 |
+| Nazwa angielska | Medieval Castle |
+| Nazwa polska | Średniowieczny zamek |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1426 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 31 cm × gł. 28 cm |
+| EAN | 5702016914528 |
 
 **LEGO Creator 3w1 Średniowieczny zamek 31120**
 
@@ -2848,11 +4324,27 @@ Dzieciom spodoba się podróż w czasie na niezwykle szczegółowy średniowiecz
 
 • Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31120-1: https://a.allegroimg.com/original/11dfe9/c02959ee4340bc0371c1b9b3977a
+
 ---
 
-## 31121 — Lego 31121 Krokodyl
+## 31121 — 3w1 KROKODYL
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702016972061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31121 |
+| Nazwa angielska | Crocodile |
+| Nazwa polska | 3w1 KROKODYL |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 454 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 12 cm |
+| EAN | 5702016972061 |
 
 **LEGO Creator 3w1 Krokodyl 31121**
  
@@ -2880,11 +4372,27 @@ Zestaw LEGO® Creator 3 w 1 Krokodyl (31121) z dzikimi zwierzętami mieszkający
  
 • Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31121-1: https://a.allegroimg.com/original/116656/3a7d6daa492e8f4e2015a0602697
+
 ---
 
-## 31122 — Lego 31122 Akwarium
+## 31122 — Akwarium
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702016973778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31122 |
+| Nazwa angielska | Fish Tank |
+| Nazwa polska | Akwarium |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 352 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016973778 |
 
 **LEGO Creator 3w1 Akwarium 31122**
  
@@ -2912,11 +4420,27 @@ Zestaw konstrukcyjny LEGO® Creator 3 w 1 Akwarium (31122) zaprasza dzieci do po
  
 • Klocki do budowania LEGO® spełniają najwyższe standardy bezpieczeństwa na świecie.
 
+**Galeria:**
+
+- 31122-1: https://a.allegroimg.com/original/114d85/0e9478d04bc59cb0a4f0cec5e795
+
 ---
 
-## 31123 — Lego 31123 Creator 3w1 Łazik terenowy Buggy Quad Ładowarka 3w1
+## 31123 — Łazik terenowy 3w1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 147.50 zł · EAN: 05702017117577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31123 |
+| Nazwa angielska | Off-road Buggy |
+| Nazwa polska | Łazik terenowy 3w1 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 160 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 10 cm |
+| EAN | 5702017117577 |
 
 Nowy fabrycznie zapakowany oryginalny zestaw klocków
 
@@ -2948,11 +4472,27 @@ Do tej zabawki dołączone są interaktywne cyfrowe instrukcje, dzięki którym 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 - Gwarancja bezpieczeństwa — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31123-1: https://a.allegroimg.com/original/0549f9/4f4880f6483f9ba91b70059696b5
+
 ---
 
-## 31124 — Lego Creator 31124 Robot
+## 31124 — Super Robot
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 72.59 zł · EAN: 05702016695182 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31124 |
+| Nazwa angielska | Super Robot |
+| Nazwa polska | Super Robot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 159 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016695182, 5702017117461 |
 
 Lego CREATOR 31124 Super Robot
 
@@ -2972,11 +4512,28 @@ Zabawa trzema zabawkami LEGO w jednej nie ma końcaZabawki konstrukcyjne LEGO Cr
 - Wysoka jakość -- już od ponad sześciu dekad produkujemy klocki LEGO(R) tak, aby za każdym razem można je było łatwo rozdzielić
 - Gwarancja bezpieczeństwa -- klocki konstrukcyjne LEGO(R) spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31124-1: https://a.allegroimg.com/original/11035c/40ce64db4b1492c454ef281f9b5f
+- 31124-2: https://a.allegroimg.com/original/11a641/eda56d944035ad8c09a608739e42
+
 ---
 
-## 31125 — 31125 Lego Creator Fantastyczne leśne stworzenia
+## 31125 — Fantastyczne leśne stworzenia
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 166.55 zł · EAN: 05702016626902 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31125 |
+| Nazwa angielska | Fantasy Forest Creatures |
+| Nazwa polska | Fantastyczne leśne stworzenia |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016626902, 5702017117454 |
 
 31125 - LEGO Creator - Fantastyczne leśne stworzenia
 
@@ -3091,11 +4648,28 @@ Parametry
 - **Seria**: Creator
 - **Kod produktu**: 5702017117454
 
+**Galeria:**
+
+- 31125-1: https://a.allegroimg.com/original/11da48/55e978aa49cebfcb9e829ad9374b
+- 31125-2: https://a.allegroimg.com/original/110f8b/938b3a724af0aa28761add7de791
+
 ---
 
-## 31126 — Lego Creator 31126 Odrzutowiec naddźwiękowy
+## 31126 — Odrzutowiec naddźwiękowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 136.48 zł · EAN: 05702017117447 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31126 |
+| Nazwa angielska | Supersonic-jet |
+| Nazwa polska | Odrzutowiec naddźwiękowy |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 16 cm |
+| EAN | 5702017117447 |
 
 Lego CREATOR 31126 Odrzutowiec naddźwiękowy
 
@@ -3115,11 +4689,27 @@ Cyfrowa zabawa dla konstruktorów LEGO Do tej zabawki dołączone są interaktyw
 - Wysoka jakość -- już od ponad sześciu dekad produkujemy klocki LEGO(R) tak, aby za każdym razem można je było łatwo rozdzielić
 - Gwarancja bezpieczeństwa -- klocki konstrukcyjne LEGO(R) spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31126-1: https://a.allegroimg.com/original/113cf5/f5837f1f48c7859a63d89f5c4280
+
 ---
 
-## 31127 — Lego 31127 Creator 3w1 Uliczna wyścigówka
+## 31127 — Uliczna wyścigówka 3w1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 143.99 zł · EAN: 05702017117430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31127 |
+| Nazwa angielska | Street Racer |
+| Nazwa polska | Uliczna wyścigówka 3w1 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 9 cm |
+| EAN | 5702017117430 |
 
 Klocki LEGO Creator 3w1 31127 - Uliczna wyścigówka
 
@@ -3164,11 +4754,27 @@ Zestaw LEGO Creator 3w1 - Uliczna wyścigówka trafił do sprzedaży w 2022 ro
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 31127-1: https://a.allegroimg.com/original/11ede3/c69bba72497bb215e2f08b88b9a5
+
 ---
 
-## 31128 — Lego 31128 Creator 3w1 delfin i żółw
+## 31128 — Delfin i żółw
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 72.00 zł · EAN: 05702017117423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31128 |
+| Nazwa angielska | Dolphin and Turtle |
+| Nazwa polska | Delfin i żółw |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017117423 |
 
 LEGO Creator Delfin i żółw 3w1 31128
  
@@ -3195,11 +4801,26 @@ Zestawy LEGO Creator 3 w 1 dają dzieciom wszystko, czego potrzeba do nieogranic
 - Trzy zabawki w jednej — zestawy LEGO® Creator 3 w 1 pozwalają dzieciom zbudować trzy różne modele 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 31128-1: https://a.allegroimg.com/original/05865c/0646a162450cb917e55db04b3348
+
 ---
 
-## 31129 — Lego Creator Majestatyczny tygrys 31129
+## 31129 — Majestatyczny tygrys
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 191.88 zł · EAN: 05702017151854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31129 |
+| Nazwa angielska | Majestic Tiger |
+| Nazwa polska | Majestatyczny tygrys |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 755 |
+| Cena katalogowa | 214.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 7 cm |
+| EAN | 5702017151854 |
 
 LEGO Creator Majestatyczny tygrys 31129
  
@@ -3232,11 +4853,27 @@ Wybierz się do lasu deszczowego, gdzie czekają Cię ekscytujące przygody ze z
 - Interaktywne cyfrowe instrukcje - w aplikacji Instrukcje budowania LEGO® dzieci mogą przybliżać, obracać i wizualizować cyfrową wersję powstającego modelu na smartfonie lub tableci 
 - Wysoka jakość - już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 31129-1: https://a.allegroimg.com/original/11d4bf/572ad5dc48c38f2ea52b3e412d12
+
 ---
 
-## 31130 — Lego Creator 3 w 1 31130 Wyprawa po zatopiony skarb Nowy
+## 31130 — Wyprawa po zatopiony skarb
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 348.50 zł · EAN: 05702017153216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31130 |
+| Nazwa angielska | Sunken Treasure Mission |
+| Nazwa polska | Wyprawa po zatopiony skarb |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 522 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702017153216 |
 
 LEGO 31130 WYPRAWA PO ZATOPIONY SKARB
  
@@ -3275,11 +4912,27 @@ ZESTAW ZAWIERA
  
 - 1 x Zestaw LEGO
 
+**Galeria:**
+
+- 31130-1: https://a.allegroimg.com/original/11e30f/bb92bcfb48cdadfae2793164c83a
+
 ---
 
-## 31131 — Lego Creator 31131 nowy zestaw Julivo
+## 31131 — Sklep z kluskami w śródmieściu
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 339.00 zł · EAN: 05702017153223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31131 |
+| Nazwa angielska | Downtown Noodle Shop |
+| Nazwa polska | Sklep z kluskami w śródmieściu |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 16 cm × gł. 6 cm |
+| EAN | 5702017153223 |
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -3324,11 +4977,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 31131-1: https://a.allegroimg.com/original/111daf/68cb26514cea8c19250d3f040513
+
 ---
 
-## 31132 — Lego 31132 Creator 3 w 1 Statek wikingów i wąż z Midgardu
+## 31132 — Statek wikingów i wąż z Midgardu
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 550.00 zł · EAN: 05702017153230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31132 |
+| Nazwa angielska | Viking Ship and the Midgard Serpent |
+| Nazwa polska | Statek wikingów i wąż z Midgardu |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 17 cm |
+| EAN | 5702017153230 |
 
 LEGO Creator 3 w 1 31132 Statek wikingów i wąż z Midgardu
  
@@ -3355,11 +5024,27 @@ Zestawy LEGO Creator 3 w 1 dają dzieciom wszystko, czego potrzeba do nieogranic
 - Interaktywne cyfrowe instrukcje — w aplikacji Instrukcje budowania LEGO® dzieci mogą przybliżać, obracać i wizualizować cyfrową wersję powstającego modelu na smartfonie lub tablecie 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 31132-1: https://a.allegroimg.com/original/11160d/bbcd61b34b3d8cbf3045435d412b
+
 ---
 
-## 31133 — Lego Creator 3 w 1 31133 Biały królik klocki
+## 31133 — LEGO Creator Biały królik 31133
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 95.23 zł · EAN: 05702017415864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31133 |
+| Nazwa angielska | White Rabbit |
+| Nazwa polska | LEGO Creator Biały królik 31133 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 258 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415864 |
 
 LEGO Creator 3 w 1 31133 Biały królik
  
@@ -3384,11 +5069,26 @@ Dzięki zestawowi LEGO® Creator 3 w 1 Biały królik (31133) dzieci w wieku 
 - Zestawy LEGO® Creator 3 w 1 pozwalają dzieciom na wiele godzin uciec do krainy wyobraźni i zbudować trzy różne modele 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 31133-1: https://a.allegroimg.com/original/0584d8/4f1921f54f66b638b8900fc9acbc
+
 ---
 
-## 31134 — Lego Creator 3 w 1 31134 Prom kosmiczny
+## 31134 — Prom kosmiczny
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702017415871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31134 |
+| Nazwa angielska | Space Shuttle |
+| Nazwa polska | Prom kosmiczny |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 144 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 16 cm |
+| EAN | 5702016702286, 5702017415871 |
 
 LEGO Creator 31134 Prom kosmiczny
  
@@ -3413,63 +5113,98 @@ Ciesz się nowym sposobem budowania dzięki aplikacji LEGO Builder. Możesz w ni
 - Pomoc w budowaniu – odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając umiejętności dziecka 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 31134-1: https://a.allegroimg.com/original/25f018/84242bfb4ea8aa2f68d2eeb5be78
+- 31134-2: https://a.allegroimg.com/original/11b31c/1cccd0d54e27b87478d309489991
+
 ---
 
-## 31136 — Lego Creator 3 w 1 31136 Egzotyczna papuga
+## 31136 — Egzotyczna papuga
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702012151774 · in stock*
-
-31136 - LEGO Creator - Egzotyczna papuga
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31136 |
+| Nazwa angielska | Exotic Parrot |
+| Nazwa polska | Egzotyczna papuga |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 253 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5052469202957, 5702012151774, 5702017415895, 5907213510201 |
 
 ⭐31136 - LEGO Creator - Egzotyczna papuga⭐
 
 Egzotyczna Papuga
- 
+
+✅Zapraszamy Cię na niesamowitą podróż do tropikalnych rajów z zestawem **LEGO Creator - Egzotyczna papuga (31136).**
+
 ✅Ten kolorowy zestaw to doskonała zabawa dla miłośników przygód w **dżungli i zwierząt**. Teraz możesz stworzyć własną **egzotyczną papugę**, która wylądowała prosto z dzikiej przyrody do Twojego pokoju!
 
 Idealna na Prezent!
- 
+
 **✅Egzotyczny Design:** Zestaw zawiera elementy** potrzebne do stworzenia pięknej, wielobarwnej papugi** o wyrazistym wyglądzie. Jej jaskrawe kolory, długie ogony i wyraziste oczy **zachwycą każdego miłośnika natury.**
- 
+
 **✅Kreatywna Zabawa:** LEGO Creator to nie tylko zestaw do złożenia, to także **możliwość kreatywnej zabawy.** Dzięki różnym klockom i elementom, możesz **eksperymentować z różnymi wersjami papugi** lub dodać własne pomysły do projektu.
- 
+
 **✅Edukacyjne Aspekty:** Ten zestaw nie tylko zapewnia rozrywkę, ale również** uczy o zwierzętach i ich środowisku.** To doskonała okazja do rozmów o ochronie przyrody i ekologii.
 
 Ruchoma papuga
- 
+
 ✅Ptak **obraca się na gałęzi** i porusza skrzydłami i ogonem.
- 
+
 Pływająca ryba
- 
+
 ✅Ryba** unosi płetwy** i pływa w górę i w dół.
- 
+
 Hop do zabawy!
- 
+
 ✅Można **poruszać kończynami** kolorowej żaby.
- 
+
 ➡️Maluchy** składają trzy ruchome modele zwierząt**, aby potem bawić się nimi bez końca.
 
 Zestaw idealny do zabawy i nauki
- 
+
 **✅Wspaniała Ozdoba:** Gotowa papuga będzie **doskonałą ozdobą** w pokoju lub na półce. **Przyciągnie** **uwagę** swoim wyjątkowym wyglądem i kolorami.
- 
+
 **✅Idealny Prezent:** LEGO Creator - Egzotyczna papuga to **doskonały** prezent dla dzieci i dorosłych. **Sprawdzi się na urodzinach, świętach czy innych okazjach.**
 
 Niesamowity zestaw
- 
+
 **✅Dzięki zestawowi LEGO® Creator 3 w 1** Egzotyczna papuga (31136) mali budowniczowie i wielbiciele zwierząt w wieku od siedmiu lat wybiorą się w** emocjonującą podróż do lasu deszczowego**.
- 
+
 ✅Zawiera on **kolorową papugę, która może obracać ciało**, siedząc na gałęzi, a także poruszać skrzydłami i ogonem.
- 
+
 **✅Trzy zabawki w jednym zestawie do kreatywnej zabawy**
- 
+
 ✅Zestaw 3 w 1 umożliwia dzieciom** zbudowanie trzech różnych egzotycznych zwierząt**. Mogą stworzyć kolorową papugę siedzącą na gałęzi lub zmienić ją w rybę morską albo żabkę z ruchomymi nogami.
+
+**Galeria:**
+
+- 31136-1: https://a.allegroimg.com/original/1144f2/84c098764c6393f15b24c4498cf7
+- 31136-2: https://a.allegroimg.com/original/11b4e6/767135b5422194fa0be19c9d8f5d
+- 31136-3: https://a.allegroimg.com/original/11f145/085d34e049b69f32ba6a197a5cad
+- 31136-4: https://a.allegroimg.com/original/118a87/ae64041f4f24bf7d0e63f31b9745
 
 ---
 
-## 31137 — Lego Creator 3 w 1 31137 Urocze psiaki Klocki Lego
+## 31137 — Urocze psiaki
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 127.26 zł · EAN: 05702017415901 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31137 |
+| Nazwa angielska | Adorable Dogs |
+| Nazwa polska | Urocze psiaki |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 475 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702017415901 |
 
 LEGO Creator 31137 Urocze psiaki 3w1
 
@@ -3491,11 +5226,27 @@ Zestaw LEGO Creator 3 w 1 Urocze psiaki (31137) umożliwia budowanie trzech ró�
 
 - **Jakość wykonania:** Klocki LEGO charakteryzują się wysoką jakością i łatwością łączenia oraz rozdzielania.
 
+**Galeria:**
+
+- 31137-1: https://a.allegroimg.com/original/113f6a/c8e9885d42928ec7a6036170c2b4
+
 ---
 
-## 31138 — Lego Creator 3w1 Kamper Na Plaży 31138
+## 31138 — Kamper na plaży
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 289.75 zł · EAN: 05702017415918 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31138 |
+| Nazwa angielska | Beach Camper Van |
+| Nazwa polska | Kamper na plaży |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 556 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415918 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -3513,11 +5264,27 @@ Rok wydania:** 2023**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu o wymiarach: 38x26x5,5cm**
 
+**Galeria:**
+
+- 31138-1: https://a.allegroimg.com/original/112948/700186e74f62a52e0102a928c5d3
+
 ---
 
-## 31139 — Lego Creator 3 w 1 Przytulny dom 31139
+## 31139 — Przytulny dom
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 297.76 zł · EAN: 05702017415925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31139 |
+| Nazwa angielska | Cozy House |
+| Nazwa polska | Przytulny dom |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 808 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415925 |
 
 **LEGO Creator 3 w 1 Przytulny dom 31139**
 
@@ -3551,11 +5318,26 @@ Ciesz się nowym sposobem budowania dzięki aplikacji LEGO Builder. Możesz w ni
 
 • Klocki LEGO® spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31139-1: https://a.allegroimg.com/original/11e4d5/d395127e4cb092f7253ef16e46ec
+
 ---
 
-## 31140 — Lego Creator 3w1 31140 Magiczny jednorożec
+## 31140 — Magiczny jednorożec
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 25.79 zł · EAN: 05702017415932 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31140 |
+| Nazwa angielska | Magical Unicorn |
+| Nazwa polska | Magiczny jednorożec |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 145 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017415932 |
 
 LEGO Creator 3w1 31140 Magiczny jednorożec
 
@@ -3599,11 +5381,26 @@ Do zestawu dołączone są szczegółowe instrukcje budowania dla każdego z trz
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017415932
 
+**Galeria:**
+
+- 31140-1: https://a.allegroimg.com/original/1137c1/9d355f6f4796a42d5337c8d899af
+
 ---
 
-## 31141 — Klocki Lego Creator 3 w 1 31141 Główna ulica ----- Outlet
+## 31141 — Główna ulica
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 494.44 zł · EAN: 05702017415949 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31141 |
+| Nazwa angielska | Main Street |
+| Nazwa polska | Główna ulica |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1459 |
+| Cena katalogowa | 599.99 zł |
+| Wymiary złożonego | wys. 38 cm × szer. 19 cm × gł. 14 cm |
+| EAN | 5702017415949 |
 
 **Nowy zestaw, klocki fabrycznie w woreczkach.**
 
@@ -3639,11 +5436,27 @@ W każdym zestawie jest też sześć minifigurek do odgrywania ról. Zbierz trzy
 
 • Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO tak, aby za każdym razem można je było łatwo łączyć
 
+**Galeria:**
+
+- 31141-1: https://a.allegroimg.com/original/055ace/1b6a85a940ba9890ab434dacb0ca
+
 ---
 
-## 31142 — Lego Creator 3w1 Kosmiczna Kolejka Górska 31142
+## 31142 — Kosmiczna kolejka górska
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 592.00 zł · EAN: 05702017415956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31142 |
+| Nazwa angielska | Space Roller Coaster |
+| Nazwa polska | Kosmiczna kolejka górska |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 874 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 27 cm × gł. 55 cm |
+| EAN | 5702017415956 |
 
 **KOSMICZNA KOLEJKA GÓRSKA**
 
@@ -3653,11 +5466,27 @@ Dzięki bardzo szczegółowemu zestawowi LEGO® Creator 3 w 1 Kosmiczna kolejka 
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 31142-1: https://a.allegroimg.com/original/118b8a/4e1c4e7b4796af184b1af8bf4454
+
 ---
 
-## 31143 — Lego Creator 3w1 Budka dla ptaków 31143
+## 31143 — Domek Budka Dla Ptaków
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 170.00 zł · EAN: 05702017434070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31143 |
+| Nazwa angielska | Birdhouse |
+| Nazwa polska | Domek Budka Dla Ptaków |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 476 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702017434070 |
 
 Dzięki temu niezwykle szczegółowemu zestawowi LEGO® Creator 3 w 1 Budka dla ptaków (31143) ośmiolatki i starsze dzieci mogą odgrywać ekscytujące historie. Na szczycie podstawki znajduje się budka dla ptaków z otwieranym dachem, a na jej grzędach siedzi pięć kolorowych i ruchomych ptaków.
 
@@ -3680,11 +5509,27 @@ Aplikacja LEGO Builder przeprowadza dzieci przez proces budowania, dzięki czemu
 - Zestawy LEGO® Creator 3 w 1 pozwalają dzieciom na wiele godzin uciec do krainy wyobraźni i zbudować trzy różne kolorowe modele 
 - Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
 
+**Galeria:**
+
+- 31143-1: https://a.allegroimg.com/original/05f0d3/63bcad5e4dae99fdd74fc1767e80
+
 ---
 
-## 31144 — Lego Creator 3w1 Egzotyczna różowa papuga 31144
+## 31144 — Egzotyczna różowa papuga
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702017468648 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31144 |
+| Nazwa angielska | Exotic Pink Parrot |
+| Nazwa polska | Egzotyczna różowa papuga |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 12 cm |
+| EAN | 5702017468648 |
 
 **LEGO 31144**
 
@@ -3722,11 +5567,26 @@ Wkrocz do lasu deszczowego i przeżyj świetną przygodę z trzema egzotycznymi 
 
 • Gwarancja bezpieczeństwa — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 31144-1: https://a.allegroimg.com/original/1174ae/0128a5c840daa489de43e8954139
+
 ---
 
-## 31145 — Lego Creator 3 w 1 31145 Czerwony Smok Figurka Zestaw Klocki
+## 31145 — Klocki Lego dla Dzieci Dla Chłopców Dla Dziewczynek
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 32.36 zł · EAN: 05702017584942 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31145 |
+| Nazwa angielska | Red Dragon |
+| Nazwa polska | Klocki Lego dla Dzieci Dla Chłopców Dla Dziewczynek |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 149 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017584942 |
 
 4w1 Lego Creator 3 w 1 31145 Czerwony Smok Figurka Zestaw Klocki + Ebook
 
@@ -3776,11 +5636,26 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci zawierające trzy ró
 
 ➡️ Otrzymasz oficjalny dokument w formie pliku PDF potwierdzający oryginalność Twojego zestawu LEGO, dając Ci pewność i zadowolenie z zakupu.
 
+**Galeria:**
+
+- 31145-1: https://a.allegroimg.com/original/1186d8/b5f6938545519044af2dc316a80e
+
 ---
 
-## 31146 — Lego Creator 3 w 1 31146 Ciężarówka z platformą i helikopterem
+## 31146 — Ciężarówka z platformą i helikopter
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 41.64 zł · EAN: 05702017567402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31146 |
+| Nazwa angielska | Flatbed Truck with Helicopter |
+| Nazwa polska | Ciężarówka z platformą i helikopter |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 270 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 4053273703709, 5702017567402, 5713450016860 |
 
 LEGO Creator 3 w 1 31146 Ciężarówka z platformą i helikopterem
 
@@ -3842,11 +5717,28 @@ Klocki LEGO® spełniają najwyższe światowe standardy branżowe, dzięki czem
 
 **Szukasz innych modeli z serii LEGO Creator? Sprawdź nasze pozostałe aukcje – znajdziesz tam niesamowite zwierzęta, budowle i jeszcze szybsze pojazdy!**
 
+**Galeria:**
+
+- 31146-1: https://a.allegroimg.com/original/11341b/edfe6ccd4fcc8dbf59d1c16ee5b8
+- 31146-2: https://a.allegroimg.com/original/114ef2/741b3461403d90dde81a50970952
+- 31146-3: https://a.allegroimg.com/original/119b1b/e57b1ed341458d58977301a97fec
+
 ---
 
-## 31147 — Lego Creator 3 w 1 31147 Aparat w stylu retro
+## 31147 — Aparat w stylu retro
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 52.74 zł · EAN: 05702017584966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31147 |
+| Nazwa angielska | Retro Camera |
+| Nazwa polska | Aparat w stylu retro |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 261 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017584966, 5702017897011 |
 
 LEGO Creator 3 w 1 31147 Aparat w stylu retro
 
@@ -3893,11 +5785,28 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci zawierające trzy ró
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017584966
 
+**Galeria:**
+
+- 31147-1: https://a.allegroimg.com/original/114b97/3f0c4e384ec3bada1199fb1c9c89
+- 31147-2: https://a.allegroimg.com/original/05e569/10581168429db116828558e0dc24
+
 ---
 
-## 31148 — Lego Creator 3 w 1 31148 Wrotka w stylu retro
+## 31148 — Wrotka w stylu retro
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 89.95 zł · EAN: 05702017585079 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31148 |
+| Nazwa angielska | Retro Roller Skate |
+| Nazwa polska | Wrotka w stylu retro |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 342 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017585079 |
 
 LEGO Creator Rolki (31148)
  
@@ -3925,11 +5834,27 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci zawierające trzy ró
  
 • 342-elementowy zestaw 3 w 1 z wrotką ma 16 cm długości
 
+**Galeria:**
+
+- 31148-1: https://a.allegroimg.com/original/053f1d/892f8e5e436ea6b1547ac612774a
+
 ---
 
-## 31149 — Lego Creator 31149 Kwiaty w konewce 3w1
+## 31149 — Kwiaty w konewce
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 95.14 zł · EAN: 05702017585116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31149 |
+| Nazwa angielska | Flowers in Watering Can |
+| Nazwa polska | Kwiaty w konewce |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 420 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 12 cm × gł. 15 cm |
+| EAN | 5702017585116, 5702018642221 |
 
 LEGO Creator 31149 Kwiaty w konewce
 
@@ -3957,11 +5882,28 @@ Dwa ptaki na kwiatowym drążku
 
 Budując dwa urocze ptaki, dzieci będą się twórczo bawić.
 
+**Galeria:**
+
+- 31149-1: https://a.allegroimg.com/original/11388b/90b3741b4a23bbdadd29b8c76bfe
+- 31149-2: https://a.allegroimg.com/original/05955e/d7ffdcbf477dadb41097bb16bee3
+
 ---
 
-## 31150 — Lego Creator 3 w 1 31150 Dzikie zwierzęta z safari
+## 31150 — Dzikie zwierzęta safari
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 195.13 zł · EAN: 05702017585109 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31150 |
+| Nazwa angielska | Wild Safari Animals |
+| Nazwa polska | Dzikie zwierzęta safari |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 780 |
+| Cena katalogowa | 279.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017585109 |
 
 LEGO Creator Zwierzęce safari (31150)
  
@@ -3987,11 +5929,27 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci zawierające trzy ró
  
 • 780-elementowy zestaw 3 w 1 zawiera żyrafę, która ma 30 cm wysokości
 
+**Galeria:**
+
+- 31150-1: https://a.allegroimg.com/original/052cf6/c0817b8849f0b7d274b8fb9774c4
+
 ---
 
-## 31151 — Lego Creator 3w1 Tyranozaur 31151
+## 31151 — T-rex
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 216.31 zł · EAN: 05702017585093 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31151 |
+| Nazwa angielska | T. rex |
+| Nazwa polska | T-rex |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 626 |
+| Cena katalogowa | 259.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017585093 |
 
 LEGO® CREATOR
  
@@ -4013,11 +5971,27 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci, zawierające trzy r�
  
 Przenieś się w czasie i przeżyj niesamowite przygody z trzema niesamowitymi figurkami dinozaurów. Zbuduj potężnego tyranozaura z wielkimi zębami i ciałem, a następnie przebuduj go i stwórz triceratopsa z kolczastą kryzą i trzema rogami albo pterodaktyla z rozłożystymi skrzydłami. Z tym zestawem 3 w 1 wybór należy do Ciebie!
 
+**Galeria:**
+
+- 31151-1: https://a.allegroimg.com/original/117018/30f9235a447f9d916b3176729b66
+
 ---
 
-## 31152 — Lego Creator 31152 Astronauta w kosmosie
+## 31152 — Astronauta
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 159.80 zł · EAN: 05702017567419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31152 |
+| Nazwa angielska | Space Astronaut |
+| Nazwa polska | Astronauta |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 647 |
+| Cena katalogowa | 214.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017567419 |
 
 LEGO Creator 31152 Astronauta w kosmosie
  
@@ -4043,11 +6017,27 @@ Zabawki LEGO Creator 3 w 1 to świetne prezenty dla dzieci zawierające trzy ró
  
 • 647-elementowy zestaw 3 w 1 zawiera astronautę, który ma 27 cm wysokości
 
+**Galeria:**
+
+- 31152-1: https://a.allegroimg.com/original/119153/47a7fe7540f595ff91d105abb1bd
+
 ---
 
-## 31153 — Klocki Lego Creator Zestaw 31153 3w1 Nowoczesny dom budynek loft Opis
+## 31153 — Twórca 31153 Nowoczesny dom
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 747.99 zł · EAN: 05702017585086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31153 |
+| Nazwa angielska | Modern House |
+| Nazwa polska | Twórca 31153 Nowoczesny dom |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 939 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017585086 |
 
 Opis: zgnieciony róg pudełka
 
@@ -4071,11 +6061,27 @@ W nowoczesnym domu i trzypiętrowej kamienicy dostęp do pomieszczeń jest zapew
  
 Wprowadź się do trzech niesamowitych budynków, których wnętrza i funkcje Cię zachwycą, dzięki zestawowi LEGO® Creator 3 w 1 Nowoczesny dom. Wybierz się na plażę, by zrelaksować się w luksusowej rezydencji z basenem, a następnie przebuduj ją na stylową, trzypiętrową kamienicę z jacuzzi i tarasem na dachu lub odwiedź chatkę w lesie. Z tym zestawem 3 w 1 wybór należy do Ciebie.
 
+**Galeria:**
+
+- 31153-1: https://a.allegroimg.com/original/117e60/b97ee0e34171835be7c847a23e47
+
 ---
 
-## 31154 — Lego Creator 3w1 31154 Leśne zwierzęta: Czerwony lis
+## 31154 — Leśne zwierzęta: Czerwony lis
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 389.00 zł · EAN: 05702017598840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31154 |
+| Nazwa angielska | Forest Animals: Red Fox |
+| Nazwa polska | Leśne zwierzęta: Czerwony lis |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 667 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598840 |
 
 LEGO Creator 31154 Leśne zwierzęta - Czerwony lis, Buduj Sowę lub Wiewiórkę
 
@@ -4092,11 +6098,27 @@ LEGO Creator 31154 Leśne zwierzęta - Czerwony lis, Buduj Sowę lub Wiewiórkę
 - Pomysł na prezent — ta zabawka LEGO 3 w 1 zapewnia świetną zabawę podczas budowania oraz będzie ciekawym prezentem dla 9-latki, dla dziewczynki i chłopca, i starszych dzieci, które kochają zwierzęta LEGO 
 - Nowy sposób na budowanie — aplikacja LEGO Builder przeprowadzi dzieci przez intuicyjne budowanie; mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele w 3D w trakcie budowania
 
+**Galeria:**
+
+- 31154-1: https://a.allegroimg.com/original/11a452/e1d9a83743a89b2ed609ed6ae9b4
+
 ---
 
-## 31155 — Lego Creator 8+ 3w1 Kołowrotek Dla Chomików 31155
+## 31155 — 31155 Creator 3w1 - Kołowrotek dla chomików
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 199.31 zł · EAN: 05702017600208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31155 |
+| Nazwa angielska | Hamster Wheel |
+| Nazwa polska | 31155 Creator 3w1 - Kołowrotek dla chomików |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 416 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 13 cm × gł. 26 cm |
+| EAN | 5702017600208 |
 
 LEGO® CREATOR 3w1
 
@@ -4137,11 +6159,27 @@ TORBA LEGO GRATIS!
 
 **⭐ GOTOWY ZESTAW NA PREZENT ⭐**
 
+**Galeria:**
+
+- 31155-1: https://a.allegroimg.com/original/1150f2/bd0ab48c4b7d90a58b1ed63b41e2
+
 ---
 
-## 31156 — Lego 31156 Creator 3 w 1 Tropikalne ukulele
+## 31156 — Tropikalne ukulele
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 158.00 zł · EAN: 05702017600215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31156 |
+| Nazwa angielska | Tropical Ukulele |
+| Nazwa polska | Tropikalne ukulele |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 14 cm × gł. 6 cm |
+| EAN | 5702017600215 |
 
 Dzieci mogą budować, bawić się i ustawiać na półce trzy plażowe modele z zestawu 3 w 1 LEGO® Creator Tropikalne ukulele (31156). To także świetny pomysł na prezent dla chłopców i dziewczynek w wieku od ośmiu lat. Obejmuje on ukulele na podstawce w kształcie plaży z dwoma kolorowymi kwiatami i trawą. Instrument można odczepić od podstawki, a cztery plastikowe struny wibrują, gdy się za nie pociągnie.
  
@@ -4165,11 +6203,27 @@ Zabawki LEGO® Creator — każdy zestaw 3 w 1 pozwala dzieciom zbudować trzy r
  
 Wymiary — ten 387-elementowy zestaw konstrukcyjny LEGO® zawiera ukulele, które ma 24 cm wysokości, 14 cm szerokości i 6 cm głębokości
 
+**Galeria:**
+
+- 31156-1: https://a.allegroimg.com/original/1109e5/594977c54fbfa5bb31b7b9ea846b
+
 ---
 
-## 31157 — Lego Creator 3W1 31157 Egzotyczny Paw
+## 31157 — Egzotyczny paw
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 79.60 zł · EAN: 05702017600222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31157 |
+| Nazwa angielska | Exotic Peacock |
+| Nazwa polska | Egzotyczny paw |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600222 |
 
 LEGO CREATOR 3W1 31157 EGZOTYCZNY PAW
 
@@ -4276,11 +6330,27 @@ Szukasz **idealnego prezentu** dla dziecka, które uwielbia tworzyć i budować?
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017600222
 
+**Galeria:**
+
+- 31157-1: https://a.allegroimg.com/original/11cfe4/059641db4b71995dfcc2885165c0
+
 ---
 
-## 31158 — Lego Creator 3 w 1 31158 Zwierzęta morskie żółw meduza ryby konik morski
+## 31158 — Zwierzęta morskie
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 100.00 zł · EAN: 05702017601373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31158 |
+| Nazwa angielska | Sea Animals |
+| Nazwa polska | Zwierzęta morskie |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 421 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 26 cm × gł. 12 cm |
+| EAN | 5702017601373 |
 
 LEGO®
  
@@ -4314,11 +6384,26 @@ Zabawki LEGO Creator 3 w 1 to świetny prezent dla dzieci. W każdym pudełku zn
 - Zabawki LEGO® Creator — każdy zestaw 3 w 1 pozwala dzieciom zbudować trzy różne modele inspirowane ich pasjami, w tym zwierzętami, pojazdami i szczegółowymi miastami 
 - Wymiary — ten 421-elementowy zestaw konstrukcyjny LEGO® zawiera kolekcję morskich stworzeń do zbudowania, która ma 17 cm wysokości, 26 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 31158-1: https://a.allegroimg.com/original/113027/aa9ecf4547019816222867eabe56
+
 ---
 
-## 31159 — Lego Creator 3 w 1 31159 Dzikie zwierzęta: niezwykły pająk
+## 31159 — Dzikie zwierzęta: niezwykły pająk
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 35.01 zł · EAN: 05702017822242 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31159 |
+| Nazwa angielska | Wild Animals: Surprising Spider |
+| Nazwa polska | Dzikie zwierzęta: niezwykły pająk |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 153 |
+| Cena katalogowa | 54.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822242 |
 
 **LEGO® Creator 3 w 1** **31159 Dzikie zwierzęta: niezwykły pająk**
 
@@ -4331,31 +6416,78 @@ Miłośnicy zwierząt mają trzy różne możliwości zbudowania tego samego zes
 - Ruchome figurki zwierząt — wszystkie trzy kolorowe modele mają ruchome elementy, w tym nogi i tułowia, dzięki czemu dzieci mogą cieszyć się twórczą zabawą, ustawiając je w różnych pozach 
 - Zestaw LEGO® z pająkiem do zabawy i ozdoby — po ukończonej zabawie dzieci mogą ustawić figurki na półce. Zza pleców pająka mogą też wyciągnąć neonowożółtą pajęczynę i zawiesić ją na klocku LEGO
 
+**Galeria:**
+
+- 31159-1: https://a.allegroimg.com/original/0500f6/437f77804069841808fa85178bb1
+
 ---
 
-## 31160 — Lego Creator 3 w 1 Statek powietrzny: samolot wyścigowy 31160
+## 31160 — Statek powietrzny: samolot wyścigowy
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 56.97 zł · EAN: 05702017822259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31160 |
+| Nazwa angielska | Aircraft: Race Plane |
+| Nazwa polska | Statek powietrzny: samolot wyścigowy |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 178 |
+| Cena katalogowa | 64.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822259 |
 
 Statek powietrzny: samolot wyścigowy
 
 Creator 3 w 1 Statek powietrzny: samolot wyścigowy LEGO® Creator Statek powietrzny: samolot wyścigowy Zestaw LEGO® Creator 3 w 1 Statek powietrzny: samolot wyścigowy 31160 Dzieci wzbiją się na wyżyny z zestawem LEGO® Creator 3 w 1 Statek powietrzny: samolot wyścigowy, który przebudują na odrzutowiec lub helikopter. Zestaw 3 w 1 LEGO® Creator z pojazdem do przebudowania Dzięki zestawowi LEGO® Creator 3 w 1 Statek powietrzny: samolot wyścigowy (31160) na siedmiolatków i starsze dzieci czekają superszybkie przygody w przestworzach. Model samolotu ma obrotowe śmigło z przodu i ruchome koła, dzięki czemu może jeździć po ziemi, a także podstawkę z klocków do ekspozycji.Dzieci mogą wybrać jeden z trzech różnych niezwykłych pojazdów: samolot z obrotowym śmigłem i ruchomymi kołami, odrzutowiec z ruchomymi kołami i helikopter z obrotowym śmigłem. Każdy model można ustawić na podstawce zbudowanej z klocków. Zestaw będzie wspaniałym prezentem dla dzieci, które lubią odgrywać pomysłowe historie pełne akcji.Zestawy LEGO Creator 3 w 1 to świetne prezenty dla dzieci, ponieważ w każdym pudełku znajdują się trzy różne modele do budowania i przebudowywania. Należy pamiętać, że modeli nie można budować jednocześnie. Przemierzaj przestworza i odgrywaj ekscytujące powietrzne przygody z trzema różnymi pojazdami! Leć superfajnym samolotem wyścigowym, a później przebuduj go na superszybki odrzutowiec lub imponujący helikopter z obrotowymi śmigłami! Którym pojazdem podbijesz niebo? Wybór należy do Ciebie dzięki temu niesamowitemu zestawowi 3 w 1!
 
+**Galeria:**
+
+- 31160-1: https://a.allegroimg.com/original/11ff1a/94eb82d7443a939e396f2c1e3bc3
+
 ---
 
-## 31161 — Klocki Lego Creator 31161 Średniowieczny smok 3w1 Feniks Wąż morski
+## 31161 — Średniowieczny smok
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 181.81 zł · EAN: 05702017822266 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31161 |
+| Nazwa angielska | Medieval Dragon |
+| Nazwa polska | Średniowieczny smok |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 715 |
+| Cena katalogowa | 259.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822266 |
 
 Średniowieczny smok
 
 Creator 3 w 1 Średniowieczny smok LEGO® Creator Średniowieczny smok Zestaw LEGO® Creator 3 w 1 Średniowieczny smok 31161 Dzięki zestawowi LEGO® Creator 3 w 1 Średniowieczny smok, który można przebudować na węża morskiego lub feniksa, dzieci czeka fantastyczna zabawa. Zestaw LEGO® Creator 3 w 1 Średniowieczny smok Zachwyć małego podróżnika w czasie tym zestawem LEGO® Creator Średniowieczny smok (31161). Zestaw zawiera figurkę smoka, która pozwala dziewięciolatkom i starszym dzieciom odgrywać ekscytujące średniowieczne historie. Ma ona parę dużych ruchomych skrzydeł, które poruszają się i składają, a także ruchome kostki, palce u stóp, szyję, pysk, biodra i ręce. Zestaw zawiera również skrzynię ze skarbami, która poszerza możliwości zabawy.Fani mitycznych zwierząt mogą z tego samego zestawu klocków zbudować trzy różne modele: ruchomą figurkę smoka, węża morskiego lub feniksa. Wszystkie trzy zabawki świetnie sprawdzą się jako prezent na urodziny.Zestawy LEGO Creator 3 w 1 pobudzają wyobraźnię dzieci dzięki trzem różnym modelom do zbudowania w jednym pudełku. Można je budować i przebudowywać do woli. Różnorodność modeli sprawia, że zestawy trafią w każdy gust: miłośników superszybkich pojazdów, niesamowitych zwierząt czy szczegółowych budynków. Należy pamiętać, że nie można zbudować trzech modeli jednocześnie. Przenieś się w czasie i przeżyj niesamowite średniowieczne przygody z trzema różnymi mitycznymi zwierzętami! Leć na smoku, aby chronić skrzynię skarbów pełną klejnotów, a następnie przebuduj go na wielkiego węża morskiego lub majestatycznego feniksa gotowego do lotu. Co zbudujesz? Dzięki temu zestawowi 3 w 1 wybór należy do Ciebie! • Trzy średniowieczne stworzenia w jednym pudełku — zestaw LEGO® Creator 3 w 1 Średniowieczny smok umożliwia dziewięciolatkom i starszym dzieciom zbudowanie i przebudowanie trzech różnych figurek z tych samych klocków • Nieograniczone możliwości zabawy — dzieci mogą odgrywać średniowieczne historie z trzema różnymi modelami mitycznych stworzeń: smoka, węża morskiego lub feniksa (modeli nie można budować jednocześnie) • Ruchome figurki mitycznych stworzeń — wszystkie trzy szczegółowe średniowieczne zwierzęta mają ruchome części ciała, dzięki czemu dzieci mogą ustawiać je w różnych kreatywnych pozach • Średniowieczne stworzenia do zabawy i ozdoby — figurki można ustawić na półce lub stoliku nocnym. Model feniksa ma dodatkowo podstawkę zbudowaną z klocków • Prezent ze średniowiecznym smokiem — ten zestaw 3 w 1 gwarantuje świetną zabawę w budowanie. Sprawdzi się też jako kreatywny prezent • Ciekawy sposób na budowanie — aplikacja LEGO® Builder poprowadzi dzieci przez intuicyjne budowanie.
 
+**Galeria:**
+
+- 31161-1: https://a.allegroimg.com/original/05662e/1483da924e8b9f5791437cbfd8ee
+
 ---
 
-## 31162 — Klocki Zestaw Lego Creator 31162 Uroczy króliczek, lama, foka 3w1
+## 31162 — Uroczy króliczek
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 49.11 zł · EAN: 05702017822372 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31162 |
+| Nazwa angielska | Cute Bunny |
+| Nazwa polska | Uroczy króliczek |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 326 |
+| Cena katalogowa | 84.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822372 |
 
 LEGO Creator 3w1: Uroczy króliczek (31162)
 
@@ -4372,11 +6504,27 @@ Głównym modelem zestawu jest uroczy króliczek, posiadający ruchome elementy,
  
 Zestaw stanowi kompletne narzędzie do zabawy konstrukcyjnej, rozwijające wyobraźnię przestrzenną oraz umiejętność postępowania według instrukcji technicznej. Dzięki możliwości wielokrotnego rozkładania i budowania alternatywnych modeli, produkt zapewnia dłuższą żywotność użytkową niż standardowe zestawy jednowariantowe.
 
+**Galeria:**
+
+- 31162-1: https://a.allegroimg.com/original/0561b0/dbe8d21449d7b80e32f5f6bbbe9f
+
 ---
 
-## 31163 — 31163 Lego Creator Psotny Kot 3W1
+## 31163 — Psotny kot
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 65.97 zł · EAN: 05702017822389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31163 |
+| Nazwa angielska | Playful Cat |
+| Nazwa polska | Psotny kot |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 407 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822389 |
 
 31163 LEGO CREATOR PSOTNY KOT 3W1
 
@@ -4440,11 +6588,27 @@ Elementy LEGO® są poddawane rygorystycznym testom – są zrzucane, podgrzewan
 
 **Szukasz innych modeli 3 w 1? Sprawdź nasze pozostałe aukcje z serii LEGO Creator – znajdziesz tam superszybkie pojazdy, egzotyczne zwierzęta i niesamowite budynki!**
 
+**Galeria:**
+
+- 31163-1: https://a.allegroimg.com/original/05dbcf/3bb8d9294a088bb231d4090c1eb5
+
 ---
 
-## 31164 — Lego Creator 3 w 1 Kosmiczny robot 31164
+## 31164 — Kosmiczny robot
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 84.76 zł · EAN: 05702017822396 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31164 |
+| Nazwa angielska | Space Robot |
+| Nazwa polska | Kosmiczny robot |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 281 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822396 |
 
 Kosmiczny robot LEGO® Creator
 
@@ -4454,11 +6618,26 @@ Każdy z trzech modeli został zaprojektowany z myślą o dynamicznej i realisty
 
 Inwestycja w zestaw LEGO® Creator 3 w 1 Kosmiczny Robot to inwestycja w rozwój kreatywności i umiejętności manualnych dziecka. Poprzez budowanie i przebudowywanie, dzieci rozwijają myślenie przestrzenne i zdolność do rozwiązywania problemów. Ten uniwersalny zestaw jest idealnym pomysłem na prezent dla każdego fana kosmosu, gwarantując długie godziny angażującej, edukacyjnej zabawy. Podaruj swojemu dziecku możliwość podbicia kosmosu — niech poszybuje w gwiazdy z niesamowitymi maszynami, które samo stworzyło!
 
+**Galeria:**
+
+- 31164-1: https://a.allegroimg.com/original/059a81/ac22dee644c7b9944dc1f9adba99
+
 ---
 
-## 31165 — Lego Creator 3 w 1 Dzikie zwierzęta: rodzina pand 31165
+## 31165 — Dzikie zwierzęta: rodzina pand
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 123.49 zł · EAN: 05702017822402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31165 |
+| Nazwa angielska | Wild Animals: Panda Family |
+| Nazwa polska | Dzikie zwierzęta: rodzina pand |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 626 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822402 |
 
 **Lego Creator Dzikie zwierzęta: rodzina pand 31165**.
 
@@ -4492,11 +6671,26 @@ Nr katalogowy: 31165
  
 Ilość klocków w zestawie: 626
 
+**Galeria:**
+
+- 31165-1: https://a.allegroimg.com/original/11137f/ad693f644ff3a5aa7584be27684f
+
 ---
 
-## 31166 — Lego Creator 3 w 1 31166 Piękny koń
+## 31166 — Piękny koń
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 157.90 zł · EAN: 05702017822419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31166 |
+| Nazwa angielska | Beautiful Horse |
+| Nazwa polska | Piękny koń |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 685 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822419 |
 
 LEGO Creator 3 w 1 31166 Piękny koń
 
@@ -4545,11 +6739,26 @@ Zestawy LEGO Creator 3 w 1 inspirują dzieci do kreatywnego budowania - w każdy
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017822419
 
+**Galeria:**
+
+- 31166-1: https://a.allegroimg.com/original/11f1bc/e97cd74247c6a5b1832f2bd9a4ae
+
 ---
 
-## 31167 — 31167 Lego Creator 3 w 1 Nawiedzona rezydencja 31167
+## 31167 — Nawiedzona rezydencja
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 286.77 zł · EAN: 05702017822426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31167 |
+| Nazwa angielska | Haunted Mansion |
+| Nazwa polska | Nawiedzona rezydencja |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 736 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822426 |
 
 Opowiedz przerażające historie z zestawem LEGO® Creator 3 w 1 (31167) **Nawiedzona rezydencja.** Dwupiętrowy nawiedzony dom jest pełen niesamowitych detali i funkcji, w tym otwieranej przedniej bramy, cmentarza, odłączanego nawiedzonego drzewa, organów, ukrytego ducha, którego odkryjesz, obracając koło, oraz otwieranego tyłu, aby uzyskać jeszcze więcej możliwości zabawy.
 
@@ -4568,11 +6777,26 @@ Chłopcy i dziewczęta w wieku od 9 lat mogą zbudować **3 modele** z tych samy
 - Liczba elementów: 736 
 - Nadaje się dla dzieci od 9 lat
 
+**Galeria:**
+
+- 31167-1: https://a.allegroimg.com/original/11682e/9960229945fab9161d0c3889fabf
+
 ---
 
-## 31168 — Lego Creator 3 w 1 Średniowieczny zamek rycerzy konnych 31168
+## 31168 — Creator 3w1 31168 Zamek średniowieczny i rycerze na koniach
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 402.92 zł · EAN: 05702017822433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31168 |
+| Nazwa angielska | Medieval Horse Knight Castle |
+| Nazwa polska | Creator 3w1 31168 Zamek średniowieczny i rycerze na koniach |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1371 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822433 |
 
 **LEGO Creator 3 w 1 Średniowieczny zamek rycerzy konnych 31168**
 
@@ -4598,11 +6822,27 @@ Zestawy LEGO® Creator 3 w 1 obejmują zwierzęta, pojazdy i budynki
 
 1371-elementowy zestaw 3 w 1 z zamkiem średniowiecznym ma 36 cm szerokości
 
+**Galeria:**
+
+- 31168-1: https://a.allegroimg.com/original/1178c3/7e764c07438da2e51457ea5177d5
+
 ---
 
-## 31169 — Lego Creator 3 W 1 Maszyna Do Pisania Z Kwiatami 31169 Katalog Lego W Pdf
+## 31169 — Maszyna do pisania z kwiatami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 134.79 zł · EAN: 05702017819556 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31169 |
+| Nazwa angielska | Typewriter with Flowers |
+| Nazwa polska | Maszyna do pisania z kwiatami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 363 |
+| Cena katalogowa | 129.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819556, 5702017822440 |
 
 ❗W SKŁAD ZESTAWU WCHODZI❗
 
@@ -4693,11 +6933,27 @@ Wymiary:
 
 ❗SERDECZNIE ZAPRASZAM DO ZAKUPU❗
 
+**Galeria:**
+
+- 31169-1: https://a.allegroimg.com/original/11e207/4771e05f40738ab3aff8c7dd0edd
+- 31169-2: https://a.allegroimg.com/original/11d06d/4e92f10d4b47a46c778ff0116def
+
 ---
 
-## 31170 — Lego Creator 3 w 1 31170 Dzikie zwierzęta: różowy flaming
+## 31170 — Dzikie zwierzęta: różowy flaming
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 67.27 zł · EAN: 05702017822457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31170 |
+| Nazwa angielska | Wild Animals: Pink Flamingo |
+| Nazwa polska | Dzikie zwierzęta: różowy flaming |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 288 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017822457 |
 
 LEGO® Creator 31170 Dzikie zwierzęta: Różowy flaming 3 w 1
 
@@ -4729,11 +6985,27 @@ Trzy egzotyczne przygody do wyboru:
  
 **Wprowadź kolory tropikalnej wyspy do swojego domu! Co zbudujesz jako pierwsze? Wybór należy do Ciebie!**
 
+**Galeria:**
+
+- 31170-1: https://a.allegroimg.com/original/056afc/4c72e7cb434787aaed270f90ef4f
+
 ---
 
-## 31171 — Lego Creator 3 w 1 31171 Dzikie zwierzęta: dumny nosorożec z ptakami
+## 31171 — Dzikie zwierzęta: dumny nosorożec z ptakami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 218.88 zł · EAN: 05702017824895 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31171 |
+| Nazwa angielska | Wild Animals: Majestic Rhino with Birds |
+| Nazwa polska | Dzikie zwierzęta: dumny nosorożec z ptakami |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 780 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm |
+| EAN | 5702017824895 |
 
 LEGO 31171 Creator 3w1 - Dzikie zwierzęta: dumny nosorożec z ptakami
 
@@ -4753,39 +7025,102 @@ Zestawy LEGO Creator 3 w 1 pobudzają wyobraźnię dzieci dzięki trzem modelom 
 - Zabawki LEGO® Creator 3w 1 — każdy zestaw 3 w 1 do przebudowywania (zestawy sprzedawane osobno) pozwala dzieciom zbudować trzy różne modele inspirowane ich pasjami, w tym zwierzętami, pojazdami i szczegółowymi budynkami 
 - Wymiary — ten 780-elementowy zestaw konstrukcyjny LEGO® zawiera nosorożca, który ma 12 cm wysokości, 24 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 31171-1: https://a.allegroimg.com/original/118ef0/1af9700d40b5a12109bd528049f6
+
 ---
 
-## 31172 — Lego Creator 31172 Gramofon 3w1 radio mikrofon zestaw
+## 31172 — Gramofon z kwiatami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 124.99 zł · EAN: 05702017835990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31172 |
+| Nazwa angielska | Record Player with Flowers |
+| Nazwa polska | Gramofon z kwiatami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 366 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017835990 |
 
 Zestaw Lego 31172 . Przygotuj się na muzyczną ucztę z trzema różnymi zestawami w stylu retro! Zbuduj gramofon z kwiatami z ruchomym talerzem, ramieniem i dwiema płytami, a następnie przebuduj go na radio z kwiatami, ruchomymi przyciskami i regulowaną anteną lub na obrotowy klasyczny mikrofon z kwiatami. Co zbudujesz? Dzięki temu wspaniałemu zestawowi 3 w 1 wybór należy do Ciebie!
 
+**Galeria:**
+
+- 31172-1: https://a.allegroimg.com/original/05ae5a/8ecc33a54854bda458468566a80f
+
 ---
 
-## 31173 — Lego Creator 3 w 1 Dzikie zwierzęta: Tropikalny tukan 31173
+## 31173 — Dzikie zwierzęta: Tropikalny tukan
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 31.91 zł · EAN: 05702017879956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31173 |
+| Nazwa angielska | Wild Animals: Tropical Toucan |
+| Nazwa polska | Dzikie zwierzęta: Tropikalny tukan |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 225 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017879956 |
 
 Dzikie zwierzęta: Tropikalny tukan
 
 Creator 3 w 1 Wild Animals: Tropical Toucan LEGO® Creator Dzikie zwierzęta: Tropikalny tukan LEGO® Creator 3 w 1 Dzikie zwierzęta: Tropikalny tukan 31173 Dzięki zestawowi LEGO® Creator 3 w 1 Dzikie zwierzęta: Tropikalny tukan dzieci odwiedzą tropiki, a następnie przebudują figurkę na motyla lub rybę Zestaw 3 w 1 LEGO® Creator z tropikalnymi zwierzętami Ciesz się tropikalną zabawą z figurką z zestawu LEGO® Creator 3 w 1 Dzikie zwierzęta: Tropikalny tukan (31173). Ptak LEGO siedzi na gałęzi z dużym kwiatem zbudowanym z klocków i kawałkiem arbuza. Możliwości zabawy poszerzają ruchome skrzydła, dziób i pióra na ogonie.Dzieci mają do wyboru trzy różne figurki zwierząt LEGO, które można zbudować z tych samych klocków: ruchomego tukana z kawałkiem arbuza, który można umieścić w dziobie, kolorowego motyla z ruchomymi skrzydłami, latającego nad kępką trawy i stoiskiem z kwiatami, oraz tropikalną rybę z ruchomymi płetwami, która może obracać się na podstawce imitującej dno morskie.Zestawy LEGO Creator 3 w 1 pobudzają wyobraźnię dzieci dzięki trzem różnym modelom do zbudowania w jednym pudełku. Można je budować i przebudowywać do woli. Różnorodność modeli sprawia, że zestawy trafią w każdy gust: miłośników superszybkich pojazdów, niesamowitych zwierząt czy budynków. Należy pamiętać, że nie można zbudować trzech modeli jednocześnie. Zestaw zawiera 225 elementów. Wybierz się na tropikalną wyspę, aby pobawić się z trzema różnymi zwierzętami. Zobacz, jak przyjazny tukan siedzi na gałęzi pokrytej kwiatami i zajada arbuza, a następnie przebuduj go na pięknego motyla trzepoczącego skrzydłami lub kolorową tropikalną rybę pływającą w morzu. Co zbudujesz? Dzięki temu fajnemu zestawowi 3 w 1 wybór należy do Ciebie! • Trzy tropikalne zwierzęta do zbudowania w jednym pudełku — zestaw LEGO® Creator 3 w 1 Dzikie zwierzęta: Tropikalny tukan umożliwia siedmiolatkom i starszym dzieciom zbudowanie i przebudowanie trzech różnych zwierząt z tych samych klocków • Nieograniczone możliwości zabawy — dzieci mogą wymyślać ciekawe historie dzięki trzem różnym figurkom: tukana, motyla lub ryby (modeli nie można zbudować jednocześnie) • Ruchome zwierzęta — figurka tukana może poruszać dziobem, skrzydłami i piórami ogona; motyl może poruszać skrzydłami, a ryba może poruszać płetwami i obracać się na podstawce • Ozdobne modele do dziecięcego pokoju — po skończonej zabawie każdą z figurek można umieścić na inspirowanej przyrodą podstawce i wyeksponować na półce lub stoliku nocnym • Prezent dla miłośników zwierząt — zestaw 3 w 1 zapewnia świetną zabawę i budowanie dla chłopców, dziewczynek i miłośników natury, którzy pasjonują się zwierzętami tropikalnymi • Zestaw LEGO® pozwala siedmiolatkom i starszym dzieciom zbudować trzy różne modele zwierząt • Zestaw umożliwia zbudowanie jednej z trzech figurek: tukana, motyla lub ryby • Wszystkie figurki zwierząt mają ruchome części ciała, co poszerza możliwości zabawy • Po zabawie model może stać się ozdobą pokoju dziecka • Zabawka 3 w 1 to świetny pomysł na prezent dla chłopców, dziewczynek i miłośników zwierząt • Sprawdź także inne zestawy z serii LEGO® Creator 3 w 1 (sprzedawane osobno) • Zestawy LEGO® Creator 3 w 1 obejmują zwierzęta, pojazdy i budynki
 
+**Galeria:**
+
+- 31173-1: https://a.allegroimg.com/original/0574d7/ef62094849f8a4bb145a51e671d2
+
 ---
 
-## 31174 — Klocki Lego Creator Zestaw 31174 3w1 Telefon w stylu retro 8+ 383pcs
+## 31174 — Telefon w stylu retro
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 77.46 zł · EAN: 05702017879963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31174 |
+| Nazwa angielska | Retro Telephone |
+| Nazwa polska | Telefon w stylu retro |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 383 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017879963 |
 
 Telefon w stylu retro
 
 Creator Expert LEGO Creator 3 w 1 Telefon w stylu retro, zabawka dla dziecka, trzy modele do wyboru: telefon z lat 60, z lat 80. lub z początku XXI wieku, ozdoba w stylu retro i pomysł na prezent dla 8-latki 31174 chłopak dziewczyna 7 9 10 11 12 nastolatki vintage zabawka telefon z klocków retro dekoracja kreatywne prezenty telefon dla dziecka nostalgia upominek imieniny urodziny 2w1 expert toys sets kreatywność gramofon maszyna do pisania Retro Telephone LEGO® Creator Telefon w stylu retro Zabawka LEGO® Creator 3 w 1 Telefon w stylu retro 31174 Dzieci mogą pobawić się telefonem z lat 60. LEGO® Creator i ustawić go na półce albo przebudować na telefon z lat 80. lub z początku XXI wieku. Zestaw 3 w 1 LEGO® Creator z telefonem do przebudowywania Dzięki temu stylowemu zestawowi LEGO® Creator 3 w 1 Telefon w stylu retro (31174) tęskniący za przeszłością dorośli i kreatywne dzieci w wieku od ośmiu lat mogą cofnąć się w czasie. Zestaw zawiera fajny telefon retro z lat 60. XX wieku z podnoszoną słuchawką, elastycznym kablem, tarczą obrotową i funkcją sprężyny, aktywowaną po odłożeniu słuchawki. Ozdoba w stylu retro zawiera również ołówek zbudowany z klocków i samoprzylepny notatnik do ozdobienia trzema płytkami z różnymi napisami.Ten imponujący zestaw LEGO oferuje trzy różne opcje budowania z tego samego zestawu klocków: telefon retro z lat 60. XX wieku, telefon z lat 80. XX wieku na bazie ładującej lub dwa fajne telefony z początku XXI wieku.Zestawy LEGO Creator 3 w 1 to świetne prezenty dla dzieci, ponieważ w każdym pudełku znajdują się trzy różne modele do budowania i przebudowywania. Należy pamiętać, że modeli nie można zbudować jednocześnie. Zestaw zawiera 383 elementy. Cofnij się w czasie dzięki kolorowemu zestawowi LEGO® Creator Telefon w stylu retro. XX wieku. Przebuduj go na telefon z lat 80. z dużymi przyciskami na bazie ładującej lub dwa małe telefony z początku XXI wieku. Co zbudujesz? Ten wyjątkowy zestaw 3 w 1 sprawia, że wybór należy do Ciebie! • Trzy telefony retro w jednym pudełku — zestaw LEGO Creator 3 w 1 Telefon w stylu retro pozwala dzieciom w wieku od ośmiu lat zbudować i przebudowywać trzy różne modele z tych samych klocków • Zabawki pełne nostalgii — dzieci mogą odgrywać różne historie z jednym z trzech modeli: telefonu z tarczą z lat 60., telefonu z lat 80. na bazie ładującej lub dwóch telefonów z początku XXI wieku. • Mnóstwo funkcji — telefon z lat 60. XX wieku ma podnoszoną słuchawkę, ruchomą tarczę obrotową i funkcję sprężyny, która uruchamia się po odłożeniu słuchawki, a także ołówek do zbudowania i samoprzylepny notes do ozdabiania • Modele kolekcjonerskie w stylu retro — każdy model telefonu stanowi kolorową ozdobę, która sprawdzi się w dowolnym pomieszczeniu (modeli nie można zbudować jednocześnie) • Prezent w stylu retro dla dzieci — ta zabawka 3 w 1 zapewnia wspaniałą zabawę w budowanie dla dzieci i dorosłych kolekcjonerów, którzy pasjonują się muzyką i modelami w stylu retro • Zestaw 3 w 1 LEGO® Creator umożliwia dzieciom budowanie i przebudowywanie trzech modeli telefonów • Trzy opcje budowania: telefon z lat 60., telefon z lat 80. lub dwa telefony z początku XXI wieku. • Telefon z lat 60. XX wieku ma podnoszoną słuchawkę i ruchomą tarczę obrotową • Wszystkie trzy modele można ustawić jako ozdobę, aby dodać koloru do każdego pomieszczenia • Ten zestaw LEGO® 3 w 1 w stylu retro to świetny prezent dla dzieci w wieku od ośmiu lat • Sprawdź także inne zestawy z serii LEGO® Creator 3 w 1 (sprzedawane osobno) • Seria LEGO® Creator 3 w 1 obejmuje modele zwierząt, pojazdów i budynków
 
+**Galeria:**
+
+- 31174-1: https://a.allegroimg.com/original/058a5c/9ef98e8b4ef2b35420fd1c0cb868
+
 ---
 
-## 31175 — Lego zamek Creator 3w1 klocki zamek z jednorożcem
+## 31175 — Zamek jednorożca
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 150.50 zł · EAN: 05702017880075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31175 |
+| Nazwa angielska | Unicorn Castle |
+| Nazwa polska | Zamek jednorożca |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 390 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017880075 |
 
 LEGO zamek Creator 3w1 - pastelowy zamek, jednorożec, 390 elementów
 
@@ -4829,11 +7164,26 @@ LEGO zamek Creator 3w1 - pastelowy zamek, jednorożec, 390 elementów
  
 **Instrukcje** w pudełku oraz w aplikacji sprawiają, że montaż jest przyjazny dla dzieci, wspierając **samodzielność** i dając satysfakcję z ukończonego **zamku**.
 
+**Galeria:**
+
+- 31175-1: https://a.allegroimg.com/original/119119/e5f54cd3456ea0c490c9c372d35c
+
 ---
 
-## 31376 — Lego Creator 3 w 1 31376 Uroczy chomik z kwiatkiem
+## 31376 — LEGO Creator 31376 Uroczy chomik z kwiatkiem
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 18.39 zł · EAN: 05702018033197 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31376 |
+| Nazwa angielska | Cute Hamster with a Flower |
+| Nazwa polska | LEGO Creator 31376 Uroczy chomik z kwiatkiem |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 166 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018033197 |
 
 LEGO Creator 3 w 1 31376 Uroczy chomik z kwiatkiem
 
@@ -4899,11 +7249,26 @@ Dbamy o środowisko, dlatego Twoje zamówienie pakujemy z najwyższą starannoś
 
 **Interesują Cię inne modele 3 w 1? Sprawdź nasze pozostałe aukcje z serii LEGO Creator – znajdziesz tam jeszcze więcej niesamowitych stworzeń, pojazdów i budowli!**
 
+**Galeria:**
+
+- 31376-1: https://a.allegroimg.com/original/2941b8/f7a5b3ea45a38e7d42baa8abcc89
+
 ---
 
-## 31377 — Lego Creator 3 w 1 31377 Żółw i kwiat lilii wodnej
+## 31377 — LEGO Creator 31377 Żółw z lilią wodną
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 19.89 zł · EAN: 05702018033203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31377 |
+| Nazwa angielska | Turtle with a Water Lily Flower |
+| Nazwa polska | LEGO Creator 31377 Żółw z lilią wodną |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 124 |
+| Cena katalogowa | 41.99 zł |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702018033203, 5908032110306 |
 
 Zestaw LEGO® Creator 3 w 1 **Żółw z lilią wodną** (31377) pozwala dzieciom od 7 lat na zabawę ze zwierzątkami i tworzenie kreatywnych historii. Ta urocza zabawka ze zwierzątkami dla dziewczynek i chłopców oferuje 3 różne możliwości budowania z tej samej paczki klocków.
  
@@ -4925,11 +7290,28 @@ Ten zestaw LEGO Creator 3 w 1 pobudzi dziecięcą wyobraźnię i stanowi uroczy 
 - Liczba elementów: 124 
 - Odpowiednie dla dzieci od 7 lat
 
+**Galeria:**
+
+- 31377-1: https://a.allegroimg.com/original/293851/169fa75f43ca8d1ec129afcad587
+- 31377-2: https://a.allegroimg.com/original/11311a/bc2edf6f434c9adc509d0b3c7cdf
+
 ---
 
-## 31378 — Lego Creator 3w1 31378 Teleskop do odkrywania kosmosu
+## 31378 — Teleskop do odkrywania kosmosu
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 155.33 zł · EAN: 05702018054727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31378 |
+| Nazwa angielska | Space Exploration Telescope |
+| Nazwa polska | Teleskop do odkrywania kosmosu |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 278 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018054727 |
 
 LEGO CREATOR 3W1
  
@@ -4971,11 +7353,26 @@ Zestaw składa się z 278 elementów.
 
 **FAJOWEJ I NIEZAPOMNIANEJ ZABAWY :)**
 
+**Galeria:**
+
+- 31378-1: https://a.allegroimg.com/original/11b7aa/8cc4b3224a0a858782163fce3acc
+
 ---
 
-## 31379 — Lego Creator 3 w 1 31379 Groźny dinozaur
+## 31379 — LEGO Creator 3 w 1 31379 Groźny dinozaur
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 69.36 zł · EAN: 05702018033210 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31379 |
+| Nazwa angielska | Fierce Dinosaur |
+| Nazwa polska | LEGO Creator 3 w 1 31379 Groźny dinozaur |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 283 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018033210 |
 
 Zestaw LEGO® Creator 3 w 1** Dziki dinozaur **(31379) oferuje dzieciom w wieku od 8 lat wszystko, czego potrzebują, aby wyruszyć w niekończące się prehistoryczne przygody. Ta wspaniała i szczegółowa zabawka dinozaura oferuje 3 różne opcje budowania z tego samego zestawu klocków.
  
@@ -4997,11 +7394,26 @@ Ten zestaw LEGO Creator 3 w 1 pobudza wyobraźnię dzieci i stanowi wspaniały p
 - Liczba elementów: 283 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 31379-1: https://a.allegroimg.com/original/29d997/dc6cfcef450199eadb1446c5a6a5
+
 ---
 
-## 31380 — Lego Creator 3 w 1 31380 Konsola do gry retro
+## 31380 — LEGO Creator 3 w 1 31380 Konsola do gry retro
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 52.15 zł · EAN: 05702018054734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31380 |
+| Nazwa angielska | Retro Gaming Console |
+| Nazwa polska | LEGO Creator 3 w 1 31380 Konsola do gry retro |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 268 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm |
+| EAN | 5702018054734 |
 
 Dzieci i mali gracze od 8 lat pokochają budowanie, zabawę i eksponowanie zestawu LEGO® Creator 3 w 1 **Retro konsola do gier** (31380). Ta szczegółowa i zabawna dekoracja do pokoju miłośnika gier wideo oferuje 3 różne możliwości budowania z tego samego zestawu klocków.
 
@@ -5032,11 +7444,26 @@ Ten zestaw LEGO Creator 3 w 1 pobudzi dziecięcą wyobraźnię i stanowi świetn
  
 - Odpowiednie dla dzieci od 8 lat
 
+**Galeria:**
+
+- 31380-1: https://a.allegroimg.com/original/29be22/446416e64581a27e4aedbfcd3a8a
+
 ---
 
-## 31381 — Lego Creator 3 w 1 31381 Rekin i skrzynia ze skarbem
+## 31381 — groźny rekin
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 88.81 zł · EAN: 05702018054741 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31381 |
+| Nazwa angielska | Fierce Shark with a Treasure Chest |
+| Nazwa polska | groźny rekin |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 379 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 11 cm |
+| EAN | 5702018054741 |
 
 Chłopcy i dziewczynki od 8 lat mogą wyruszyć na podwodne przygody dzięki zestawowi LEGO® Creator 3 w 1 **Dziki rekin i skrzynia ze skarbem** (31381). Ta imponująca zabawka ze zwierzątkami oferuje dzieciom 3 różne możliwości budowania z tego samego zestawu klocków.
  
@@ -5058,11 +7485,26 @@ Ten zestaw LEGO Creator 3 w 1 pobudza i rozwija wyobraźnię, stanowiąc świetn
 - Liczba elementów: 379 
 - Odpowiednie dla dzieci od 8 lat
 
+**Galeria:**
+
+- 31381-1: https://a.allegroimg.com/original/2992f2/fe8e24df4561809e935bcfa4b38f
+
 ---
 
-## 31382 — Lego Creator 3 w 1 31382 Urocze zwierzątka: psotny szczeniaczek
+## 31382 — LEGO Creator 3 w 1 31382 Urocze zwierzątka: psotny szczeniaczek
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 64.67 zł · EAN: 05702018054758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31382 |
+| Nazwa angielska | Cute Animals: Playful Puppy Dog |
+| Nazwa polska | LEGO Creator 3 w 1 31382 Urocze zwierzątka: psotny szczeniaczek |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 336 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702018054758 |
 
 LEGO Creator 3 w 1 31382 Urocze zwierzątka: psotny szczeniaczek
 
@@ -5126,11 +7568,26 @@ Klocki LEGO® spełniają najwyższe standardy jakości. Od dekad są projektowa
 
 **Szukasz innych inspiracji 3 w 1? Sprawdź nasze pozostałe aukcje z serii LEGO Creator – znajdziesz tam jeszcze więcej niesamowitych zwierząt, szybkich pojazdów i domów marzeń!**
 
+**Galeria:**
+
+- 31382-1: https://a.allegroimg.com/original/29e0f2/66c55f3742e687f302dd51adbbc2
+
 ---
 
-## 31383 — Lego Creator 3w1 31383 Perfumy z ozdobnymi kwiatami
+## 31383 — Flakon perfum z kwiatową ozdobą
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 87.97 zł · EAN: 05702018054765 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31383 |
+| Nazwa angielska | Floral Decor Perfume Bottle |
+| Nazwa polska | Flakon perfum z kwiatową ozdobą |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 286 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm |
+| EAN | 5702018054765 |
 
 LEGO Creator 3w1 31383 Flakon perfum z kwiatową ozdobą
  
@@ -5152,11 +7609,26 @@ Ten zestaw 3 w 1 to kreatywny upominek dla chłopców i dziewczynek, którzy uwi
 - Zestawy LEGO® Creator 3 w 1 — każdy zestaw 3 w 1 daje dzieciom trzy różne opcje budowania inspirowane ich największymi pasjami, w tym zwierzętami, pojazdami, budynkami i nie tylko. 
 - Wymiary — ta kreatywna zabawka składająca się z 286 elementów zawiera flakon z kwiatami, który ma 10 cm wysokości, 9 cm głębokości i 15 cm szerokości.
 
+**Galeria:**
+
+- 31383-1: https://a.allegroimg.com/original/112738/05705890450bab1788bb3228753b
+
 ---
 
-## 31384 — Lego Creator 3 w 1 31384 Dzikie Zwierzęta: Kolorowy Koliber
+## 31384 — LEGO Creator 3 w 1 31384 Dzikie zwierzęta: kolorowy koliber
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 79.80 zł · EAN: 05702018054789 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31384 |
+| Nazwa angielska | Wild Animals: Colorful Hummingbird |
+| Nazwa polska | LEGO Creator 3 w 1 31384 Dzikie zwierzęta: kolorowy koliber |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 312 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 16 cm |
+| EAN | 5702018054789 |
 
 LEGO Creator 3 w 1 31384 DZIKIE ZWIERZĘTA: KOLOROWY KOLIBER
 
@@ -5206,11 +7678,26 @@ Ten zestaw LEGO Creator 3 w 1 pobudza wyobraźnię dzieci i stanowi wspaniały p
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702018054789
 
+**Galeria:**
+
+- 31384-1: https://a.allegroimg.com/original/110876/2251f74a4081b480628518b9a9e4
+
 ---
 
-## 31385 — Lego Creator 3 w 1 31385 Zwierzęta morskie: piękny delfin, Dzień Dziecka
+## 31385 — LEGO Creator 3 w 1 31385 Zwierzęta morskie: piękny delfin
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 166.60 zł · EAN: 05702018054796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31385 |
+| Nazwa angielska | Sea Animals: Beautiful Dolphins |
+| Nazwa polska | LEGO Creator 3 w 1 31385 Zwierzęta morskie: piękny delfin |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 542 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 7 cm |
+| EAN | 5702018054796 |
 
 LEGO Creator 3 w 1 31385 Zwierzęta morskie: piękny delfin
 
@@ -5234,11 +7721,26 @@ Ten zestaw LEGO Creator 3 w 1 pobudzi wyobraźnię najmłodszych i będzie dosko
 - Rozwijaj pasję dziecka — każdy zestaw 3 w 1 daje dzieciom trzy różne opcje budowania inspirowane ich największymi pasjami, w tym zwierzętami, pojazdami i domami.
 - Wymiary — ten 542-elementowy zestaw LEGO® zawiera model delfina, który ma 25 cm wysokości, 20 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 31385-1: https://a.allegroimg.com/original/29a1d2/f50d4fd544a7ac1fdfb686db0e11
+
 ---
 
-## 31386 — Lego Creator 3 w 1 Dzikie zwierzęta: Dumny lew 31386
+## 31386 — Dzikie zwierzęta: Dumny lew
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 178.98 zł · EAN: 05702018054802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31386 |
+| Nazwa angielska | Wild Animals: Majestic Lion |
+| Nazwa polska | Dzikie zwierzęta: Dumny lew |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 839 |
+| Cena katalogowa | 274.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 8 cm |
+| EAN | 5702018054802 |
 
 LEGO Creator 3w1 31386 Dzikie zwierzęta: Dumny lew
  
@@ -5260,11 +7762,26 @@ Ten zestaw 3 w 1 to świetny prezent dla dziewczynek i chłopców, którzy uwiel
 - Odkryj kolekcję LEGO® Creator 3 w 1 — każdy zestaw jest inspirowany największymi pasjami dzieci i daje im trzy możliwości budowania, zachęcając do nieograniczonej zabawy i eksponowania modeli. 
 - Wymiary — największy model ze zwierzakiem w tym 839-elementowym zestawie ma 16 cm wysokości, 30 cm długości i 8 cm szerokości.
 
+**Galeria:**
+
+- 31386-1: https://a.allegroimg.com/original/11e721/0bcc814d42ef88136c50275651e0
+
 ---
 
-## 31387 — Lego Creator 3w1 31387 Kultowy statek piracki
+## 31387 — Legendarny statek piracki
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 298.99 zł · EAN: 05702018054819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31387 |
+| Nazwa angielska | Iconic Pirate Ship |
+| Nazwa polska | Legendarny statek piracki |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1074 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 30 cm × szer. 12 cm |
+| EAN | 5702018054819 |
 
 LEGO Creator 3w1 31387 Legendarny statek piracki
  
@@ -5286,11 +7803,26 @@ Przebuduj model w zamek korsarza z wieżą, pomostem i palmą, który można otw
 - Kolekcja LEGO® Creator 3 w 1 — każdy zestaw 3 w 1 daje dzieciom trzy różne opcje budowania inspirowane ich największymi pasjami, w tym zwierzętami, pojazdami i domami. 
 - Wymiary — ten 1074-elementowy zestaw zawiera statek piracki do zbudowania, który ma 30 cm wysokości, 39 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 31387-1: https://a.allegroimg.com/original/11ff8a/178784514f7bbe1d7ffc6ece9c17
+
 ---
 
-## 31389 — Lego Creator 3w1 31389 Kultowy diabelski młyn
+## 31389 — Kultowy diabelski młyn
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 286.48 zł · EAN: 05702018054826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31389 |
+| Nazwa angielska | Iconic Ferris Wheel |
+| Nazwa polska | Kultowy diabelski młyn |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 916 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 28 cm × szer. 25 cm |
+| EAN | 5702018054826 |
 
 LEGO Creator 3w1 31389 Kultowy diabelski młyn
 
@@ -5310,11 +7842,26 @@ Zainspiruj dzieci do nieograniczonej zabawy dzięki czterem minifigurkom, przeds
 - Ciekawy sposób na budowanie — aplikacja LEGO® Builder poprowadzi dzieci przez intuicyjne budowanie. Można w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele dzięki trójwymiarowym instrukcjom.
 - Wymiary — ten 916-elementowy zestaw zawiera diabelski młyn do zbudowania, który ma 28 cm wysokości, 16 cm długości i 25 cm szerokości.
 
+**Galeria:**
+
+- 31389-1: https://a.allegroimg.com/original/117959/a15e02894c90aedd7a01c424ea81
+
 ---
 
-## 31390 — Lego Creator 3w1 31390 Dekoracyjny obraz z kwiatami
+## 31390 — Dekoracyjny obraz z kwiatami
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 93.18 zł · EAN: 05702018054833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31390 |
+| Nazwa angielska | Floral Art Decor Painting |
+| Nazwa polska | Dekoracyjny obraz z kwiatami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 348 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 14 cm |
+| EAN | 5702018054833 |
 
 LEGO Creator 3w1 31390 Dekoracyjny obraz z kwiatami
 
@@ -5334,11 +7881,26 @@ Pobudź wyobraźnię dzieci dzięki temu kreatywnemu pomysłowi na prezent dla d
 - Zabawki LEGO® Creator 3 w 1 — każdy zestaw 3 w 1 daje dzieciom trzy różne opcje budowania inspirowane ich największymi pasjami, w tym zwierzętami, pojazdami i budynkami.
 - Wymiary — ten 348-elementowy zestaw zawiera obraz z kwiatami do zbudowania, który ma 20 cm wysokości, 9 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 31390-1: https://a.allegroimg.com/original/119459/0cfc8806412397f08dbffdf72730
+
 ---
 
-## 31391 — Lego Creator 3w1 31391 Modna torebka ze schowkiem
+## 31391 — Modna torebka ze schowkiem
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 78.06 zł · EAN: 05702018054840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31391 |
+| Nazwa angielska | Art Fashion Bag with Storage |
+| Nazwa polska | Modna torebka ze schowkiem |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 272 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 14 cm × gł. 6 cm |
+| EAN | 5702018054840 |
 
 LEGO Creator 3w1 31391 Modna torebka ze schowkiem
  
@@ -5360,11 +7922,26 @@ Ta zabawka dla dzieci 3 w 1 pobudza wyobraźnię najmłodszych i stanowi doskona
 - Zabawki LEGO® Creator 3 w 1 — każdy zestaw 3 w 1 daje dzieciom trzy różne opcje budowania inspirowane ich największymi pasjami, w tym zwierzętami, pojazdami i budynkami. 
 - Wymiary — ten 272-elementowy zestaw z torebką ma 15 cm wysokości, 14 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 31391-1: https://a.allegroimg.com/original/1110ee/0d4bce7d4ddcbb1d694f0a5e32af
+
 ---
 
-## 31392 — Lego Creator 3w1 31392 Dekoracja muzyczna: Pianino z kotem
+## 31392 — Dekoracyjny fortepian z kotem
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 97.75 zł · EAN: 05702018054857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31392 |
+| Nazwa angielska | Music Decor Piano with Cat |
+| Nazwa polska | Dekoracyjny fortepian z kotem |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 485 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 20 cm |
+| EAN | 5702018054857 |
 
 LEGO Creator 3w1 31392 Dekoracyjny fortepian z kotem
  
@@ -5386,11 +7963,26 @@ Ten zestaw został zaprojektowany, aby pobudzać wyobraźnię dzieci i stanowi �
 - Zestawy LEGO® Creator 3 w 1 — zapoznaj się z całą serią i odkryj więcej zabawek (sprzedawanych oddzielnie), które inspirują do nieograniczonej zabawy i tworzenia nowych dekoracji. 
 - Wymiary — ten 485-elementowy zestaw LEGO® zawiera fortepian z kotem do zbudowania; model ma 20 cm wysokości, 19 cm długości i 20 cm szerokości.
 
+**Galeria:**
+
+- 31392-1: https://a.allegroimg.com/original/115b00/a755e1854053bcce0f7862f7df97
+
 ---
 
-## 31393 — Lego Creator 3w1- Leśne Zwierzęta Wilk Szary 31393
+## 31393 — Leśne zwierzęta: Wilk szary
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 226.90 zł · EAN: 05702018060957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31393 |
+| Nazwa angielska | Forest Animals: Gray Wolf |
+| Nazwa polska | Leśne zwierzęta: Wilk szary |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 657 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 6 cm |
+| EAN | 5702018060957 |
 
 **Leśne zwierzęta: Wilk szary**
 
@@ -5409,11 +8001,26 @@ Ten zestaw to świetny prezent dla dziewczynek i chłopców, którzy uwielbiają
 - Odkryj serię LEGO® Creator 3 w 1 — dodaj inne zestawy, z których każdy oferuje dzieciom trzy opcje budowania inspirowane ich największymi pasjami, takimi jak zwierzęta, pojazdy i wiele innych
 - Wymiary — ten 657-elementowy zestaw zawiera wilka do zbudowania, który ma 15 cm wysokości, 14 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 31393-1: https://a.allegroimg.com/original/11f75c/8910f66f4188853f3209b9da3fd1
+
 ---
 
-## 31394 — Lego Creator 3 w 1 31394 Urocze zwierzątka Panda ruda
+## 31394 — Urocze zwierzątka: Panda ruda
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702018060964 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31394 |
+| Nazwa angielska | Cute Animals: Red Panda |
+| Nazwa polska | Urocze zwierzątka: Panda ruda |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 297 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018060964 |
 
 LEGO 31394 Creator 3w1
  
@@ -5425,11 +8032,26 @@ Ten uroczy zestaw figurek zwierząt oferuje trzy różne opcje budowania przy u�
 
 Po zabawie każdy model można ustawić w pokoju dziecięcym na półce, biurku lub stoliku nocnym jako kreatywną ozdobę inspirowaną przyrodą. Ta zabawka 3 w 1 sprawdzi się jako prezent dla dzieci, które uwielbiają zwierzęta i zabawę w odgrywanie ról. Dzieci mogą połączyć siły z przyjaciółmi i rodziną w trybie „Wspólne budowanie” w aplikacji LEGO Builder, gdzie każdy może się świetnie bawić, budując część zestawu. Modeli nie można zbudować jednocześnie. Zestaw składa się z 297 elementów.
 
+**Galeria:**
+
+- 31394-1: https://a.allegroimg.com/original/11c707/3b9da5b3465fb5926c875e6eb253
+
 ---
 
-## 40256 — Lego Create The World 40256
+## 40256 — 40256 Create The World 3in1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 98.00 zł · EAN: 05702015922074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40256 |
+| Nazwa angielska | Create The World |
+| Nazwa polska | 40256 Create The World 3in1 |
+| Seria | Creator 3 w 1 |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015922074 |
 
 LEGO
  
@@ -5451,11 +8073,26 @@ Podczas Turnieju Żywiołów Cole został uwięziony w jaskiniach na wyspie. Pos
 - Wymiary Kruszarki Skał: ok. 8 x 28 x 19 cm 
 - Wymiary posterunku Anacondrai: ok. 3,5 x 6 x 3 cm
 
+**Galeria:**
+
+- 40256-1: https://a.allegroimg.com/original/11bed2/5e31a8bd41a980402e44fb80442b
+
 ---
 
-## 40411 — Lego 40411 Kreatywna Zabawa 12 w 1
+## 40411 — Kreatywna Zabawa 12 W 1
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016720082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40411 |
+| Nazwa angielska | Creative Fun 12-in-1 |
+| Nazwa polska | Kreatywna Zabawa 12 W 1 |
+| Seria | Creator 3 w 1 |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720082 |
 
 **LEGO 40411 KREATYWNA ZABAWA 12 w 1**
 
@@ -5467,21 +8104,51 @@ Wymiary opakowania:
 
 - 14 x 26 x 5 cm
 
+**Galeria:**
+
+- 40411-1: https://a.allegroimg.com/original/119a32/17987cb84f0ba9a4b3565c900b0f
+
 ---
 
-## 40775 — Lego Castle 40775 Minizamek rycerski
+## 40775 — Minizamek rycerski
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 64.90 zł · EAN: 05702017831046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40775 |
+| Nazwa angielska | Mini Knight's Castle |
+| Nazwa polska | Minizamek rycerski |
+| Seria | Creator 3 w 1 |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 590 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017831046 |
 
 Lego 40775 Minizamek rycerski - nowy
 
 Oddaj hołd klasycznym modelom LEGO® dzięki zestawowi Minizamek rycerski (40775). Ta nostalgiczna zabawka zawiera zamek rycerski LEGO (6073), wydany w 1984 roku, oraz Zamek Czarnego Rycerza LEGO (6086) z 1992 roku — oba w mikroskali. Mniejszy zamek otwiera się, tworząc mur twierdzy i zawiera świecącego w ciemności „ducha”. Ten 590-elementowy zestaw do zbudowania zawiera również dwa mikromodele rycerzy na koniach ubranych w barwy swoich zamków. To świetny prezent dla fanów modeli w wieku od 12 lat.
 
+**Galeria:**
+
+- 40775-1: https://a.allegroimg.com/original/1128ab/571d1bcf4eb0820a7eee6f9a5cc2
+
 ---
 
-## 40811 — Lego Ołtarz dla zmarłych 40811
+## 40811 — LEGO Iconic 40811 Ołtarz umarłych
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 45.87 zł · EAN: 05702017830858 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40811 |
+| Nazwa angielska | Altar of the Dead |
+| Nazwa polska | LEGO Iconic 40811 Ołtarz umarłych |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm × gł. 10 cm |
+| EAN | 5702017830858 |
 
 Klocki LEGO® - Creator
 
@@ -5500,11 +8167,27 @@ elementów w opakowaniu-231
 - Pomysł na prezent dla dzieci — ten zestaw konstrukcyjny to świetny prezent dla chłopców i dziewczynek w wieku od dziewięciu lat, a także dla miłośnikówdekoracji LEGO®
 - Wymiary — ten 231-elementowy zestaw ma 9 cm wysokości, 8 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 40811-1: https://a.allegroimg.com/original/11007b/95e224c44027a0b6033ba08fa264
+
 ---
 
-## 4954 — Lego Creator 4954 dom miejski
+## 4954 — Willa
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 1600.00 zł · EAN: 00673419091589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4954 |
+| Nazwa angielska | Model Town House |
+| Nazwa polska | Willa |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419091589 |
 
 Dane techniczne
 
@@ -5524,11 +8207,27 @@ Zawartość i funkcje
 
 **LEGO Creator 4954 Model Town House** to ważący prawie 1,2 tys. elementów zestaw 3-w-1, który charakteryzuje się ładnym designem, możliwością wyboru modelu i przyjemną estetyką. Idealny do ekspozycji, dla fanów Creator i kolekcjonerów – z uwagi na niewielki nakład i rosnącą wartość, to także atrakcyjna propozycja inwestycyjna.
 
+**Galeria:**
+
+- 4954-1: https://a.allegroimg.com/original/114571/561bea844f67a19accdcd7325135
+
 ---
 
-## 4956 — Lego Creator 4956 dom
+## 4956 — Dom
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 1390.00 zł · EAN: 05702014500020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4956 |
+| Nazwa angielska | House |
+| Nazwa polska | Dom |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 731 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500020 |
 
 **LEGO Creator 4956 – Dom**
 
@@ -5545,11 +8244,27 @@ W zestawie znajdują się liczne elementy do tworzenia realistycznych budynków 
 
 To doskonały zestaw dla miłośników architektury LEGO i kreatywnego budowania.
 
+**Galeria:**
+
+- 4956-1: https://a.allegroimg.com/original/11f2dc/de1690a840609b245cd6b22bec96
+
 ---
 
-## 4957 — Lego Creator 3 w 1 4957 Diabelski Młyn
+## 4957 — DIABELSKI MŁYN
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014500051 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4957 |
+| Nazwa angielska | Ferris Wheel |
+| Nazwa polska | DIABELSKI MŁYN |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1063 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500051 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5573,21 +8288,53 @@ To doskonały zestaw dla miłośników architektury LEGO i kreatywnego budowania
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4957-1: https://a.allegroimg.com/original/11d6d7/f765a6054e1e88cc44d32937cf83
+
 ---
 
-## 5765 — Lego 5765 Creator 3w1 Ciężarówka transportowa Unikat 2011 rok!
+## 5765 — Ciężarówka transportowa
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702014732889 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5765 |
+| Nazwa angielska | Transport Truck |
+| Nazwa polska | Ciężarówka transportowa |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014732889 |
 
 Zestaw LEGO Creator 3w1 - Ciężarówka transportowa trafił do sprzedaży w 2011 roku. Numer katalogowy tego zestawu to 5765. Zawiera 276 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Creator 3w1 - Transport Truck. Grupa wiekowa tego produktu to 7+.
 
 PUDEŁKO JEST W STANIE WIDOCZNYM NA ZDJĘCIACH! PROSZĘ SIĘ Z NIMI ZAPOZNAĆ
 
+**Galeria:**
+
+- 5765-1: https://a.allegroimg.com/original/115466/4902319f419098cfe8ef1f2c8b49
+
 ---
 
-## 5766 — Lego Creator 5766 Chata z bali Nowe
+## 5766 — Chata z bali
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 494.00 zł · EAN: 05702014732735 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5766 |
+| Nazwa angielska | Log Cabin |
+| Nazwa polska | Chata z bali |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 355 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014732735 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5597,11 +8344,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 5766 Chata z bali ** został przedstawiony w 2011 roku i składa się z 355 klocków LEGO®. W klockach znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 5766-1: https://a.allegroimg.com/original/117215/bfc9da8e42e89e592d516aadade9
+
 ---
 
-## 5767 — Lego 5767 Creator 3w1 Kabriolet Formuła Wózek widłowy ładowarka
+## 5767 — Klocki 5767 Creator Krążownik Szos Lego
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 389.50 zł · EAN: 05702014861732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5767 |
+| Nazwa angielska | Cool Cruiser |
+| Nazwa polska | Klocki 5767 Creator Krążownik Szos Lego |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014861732 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -5647,11 +8410,27 @@ Producent: Lego
 
 Kod producenta: 5767
 
+**Galeria:**
+
+- 5767-1: https://a.allegroimg.com/original/03f002/d548727c451dba9974913e61efec
+
 ---
 
-## 5770 — Lego 5770 Creator Wyspa z latarnią morską
+## 5770 — Wyspa z latarnią morską
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 820.00 zł · EAN: 05702014732742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5770 |
+| Nazwa angielska | Lighthouse Island |
+| Nazwa polska | Wyspa z latarnią morską |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 518 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014732742 |
 
 LEGO Creator 5770 Wyspa z latarnią morską
 
@@ -5681,11 +8460,27 @@ W komplecie znajduje się **1 minifigurka**, a także elementy dekoracyjne, taki
 
 LEGO Creator 5770 Wyspa z latarnią morską to dziś **wycofany zestaw**, szczególnie ceniony przez fanów klasycznych konstrukcji LEGO Creator oraz kolekcjonerów zestawów z motywem morskim.
 
+**Galeria:**
+
+- 5770-1: https://a.allegroimg.com/original/112fbf/15ae50a142ac8c54f99635694cc8
+
 ---
 
-## 5891 — Lego Creator 5891 Miły domek rodzinny Nowe
+## 5891 — 5891
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 681.00 zł · EAN: 05702014600546 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5891 |
+| Nazwa angielska | Apple Tree House |
+| Nazwa polska | 5891 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 539 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014600546 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5695,11 +8490,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 5891 Miły domek rodzinny **został zaprezentowany w 2010 roku i zawiera 539 klocków LEGO®. Klocki przeznaczone są dla dzieci powyżej 7 roku życia.
 
+**Galeria:**
+
+- 5891-1: https://a.allegroimg.com/original/115252/7792632e42b3b7bdb06ec1b427af
+
 ---
 
-## 6741 — Lego 30020 Creator Jet Klocki 47 Elementów od 6 lat
+## 6741 — 30020
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 95.31 zł · EAN: 05702014532793 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6741 |
+| Nazwa angielska | Mini Jet |
+| Nazwa polska | 30020 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532793 |
 
 Klocki LEGO 30020 Creator - Jet
 
@@ -5713,11 +8524,27 @@ Ilość klocków:** 47**
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 6741-1: https://a.allegroimg.com/original/11b193/9c2b245b43799d719a6e5ffc481e
+
 ---
 
-## 6747 — Lego 6747 Creator Ścigacz
+## 6747 — Ścigacz
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 399.99 zł · EAN: 05702014532977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6747 |
+| Nazwa angielska | Race Rider |
+| Nazwa polska | Ścigacz |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 266 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532977 |
 
 LEGO 6747 Creator - Ścigacz
 
@@ -5731,11 +8558,27 @@ LEGO 6747 Creator - Ścigacz
 - **Realistyczne funkcje:** Ruchoma stopka (podpórka), przednie sterowanie oraz regulowane owiewki i przednia szyba to tylko niektóre z zalet tego superczadowego ścigacza!
 - **Wymiary:** Motocykl wyścigowy ma ponad 20 cm długości.
 
+**Galeria:**
+
+- 6747-1: https://a.allegroimg.com/original/453895/69c9fc0d4a8d84a36c61d109c929
+
 ---
 
-## 6752 — Lego Creator 6752 Straż pożarna Nowe
+## 6752 — Straż pożarna
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702014533028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6752 |
+| Nazwa angielska | Fire Truck |
+| Nazwa polska | Straż pożarna |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 771 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533028 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5745,11 +8588,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 6752 Creator Straż pożarna **został pokazany w 2009 roku i składa się z 771 klocków LEGO®. Klocki przeznaczone są dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 6752-1: https://a.allegroimg.com/original/112d25/796a33b94933a9b8086055d77ea3
+
 ---
 
-## 6754 — Lego Creator 6754 Dom rodzinny Nowe
+## 6754 — Dom Rodzinny
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014533073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6754 |
+| Nazwa angielska | Family Home |
+| Nazwa polska | Dom Rodzinny |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 976 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014533073 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -5759,11 +8618,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 6754 Creator Dom rodzinny ** został przedstawiony w 2009 roku i zbudowany jest z 976 klocków LEGO®. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 8 roku życia.
 
+**Galeria:**
+
+- 6754-1: https://a.allegroimg.com/original/111f6b/1063fb874749a7d6903b27803d26
+
 ---
 
-## 6910 — Lego 6910 Creator Mały samochód sportowy
+## 6910 — Mały samochód
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 79.99 zł · EAN: 05702014829398 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6910 |
+| Nazwa angielska | Mini Sports Car |
+| Nazwa polska | Mały samochód |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014829398 |
 
 LEGO 6910 Creator - Mały samochód sportowy
 
@@ -5775,11 +8650,27 @@ Pędź po ulicach minisamochodem sportowym z pasem wyścigowym na masce i tylnym
 - w zestawie poręczny pojemnik wielokrotnego użytku.
 - model ma ponad 6 cm długości.
 
+**Galeria:**
+
+- 6910-1: https://a.allegroimg.com/original/11c4cd/2ea227464b32b60755e5e0e7f18f
+
 ---
 
-## 6913 — Lego Creator 3 w 1 6913 Blue Roadster
+## 6913 — BLUE ROADSTER
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 278.00 zł · EAN: 05702014838154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6913 |
+| Nazwa angielska | Blue Roadster |
+| Nazwa polska | BLUE ROADSTER |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 152 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014838154 |
 
 Nowy nieotwierany zestaw Lego Creator 6913 Super samochód.
 
@@ -5791,11 +8682,27 @@ Samochód ma otwierane drzwi, szczegółowe wnętrze, a także specjalny pojemni
 
 Jest to model „3-in-1” - można go przebudować na samochód terenowy bądź dłuższy wóz typu dragster. Ilustracje modeli alternatywnych widnieją z tyłu pudełka. Instrukcje budowania wszystkich modeli (podstawowego i alternatywnych) znajdują się w zestawie.
 
+**Galeria:**
+
+- 6913-1: https://a.allegroimg.com/original/05b8c2/6a02ff2d4a7b8bbb5b3480a383ed
+
 ---
 
-## 7291 — Lego Creator 7291 3w1 Motocykl
+## 7291 — Street Rebel
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 300.00 zł · EAN: 05702014839984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7291 |
+| Nazwa angielska | Street Rebel |
+| Nazwa polska | Street Rebel |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014839984 |
 
 **LEGO CREATOR 3w1**
  
@@ -5825,11 +8732,27 @@ Zestaw obejmuje również broszurę zawierającą łatwe do wykonania konstrukcj
  
 **26 cm * 28 cm * 5 cm ***
 
+**Galeria:**
+
+- 7291-1: https://a.allegroimg.com/original/11961a/c3e043fa4c48a0e9ea97e0738378
+
 ---
 
-## 7797 — Lego Creator 7797 Bi-Plane samolot saszetka z klockami
+## 7797 — 7797 Bi-plane
 
-*Kategoria: Creator 3 w 1 · cena Allegro (2026-08-17): 79.00 zł · EAN: 05702014518384 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7797 |
+| Nazwa angielska | Bi-Plane |
+| Nazwa polska | 7797 Bi-plane |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518384 |
 
 Witam
 
@@ -5842,6 +8765,10 @@ Są wykonane z trwałego tworzywa (ABS), dzięki czemu są odporne na uszkodzeni
 Pozdrawiam
 
 Rafał
+
+**Galeria:**
+
+- 7797-1: https://a.allegroimg.com/original/1189ee/abe17efd41059a11d40a6579bda9
 
 ---
 

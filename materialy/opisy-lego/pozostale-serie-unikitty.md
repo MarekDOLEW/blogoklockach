@@ -1,25 +1,50 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Unikitty — opisy produktowe (7 pozycji)
 
-## 30406 — Lego Unikitty 30406 Wagonik kolejki górskiej Kici Rożek
+## 30406 — Wagonik kolejki górskiej Kici Rożek
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 38.00 zł · EAN: 05702016123227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30406 |
+| Nazwa angielska | Unikitty Roller Coaster Wagon |
+| Nazwa polska | Wagonik kolejki górskiej Kici Rożek |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123227 |
 
 Zestaw LEGO Unikitty! - Wagonik kolejki górskiej Kici Rożek trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 30406. Zawiera 46 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Unikitty! - Unikitty Roller Coaster Wagon.
 
 Saszetki mogą występować w różnym stanie wizualnym. Często posiadają zagniecenia, ślady przechowywania lub transportu, a także pozostałości kleju lub taśmy wynikające z fabrycznego mocowania. Saszetki nie były otwierane ani modyfikowane, a ich zawartość jest oryginalna.
 
+**Galeria:**
+
+- 30406-1: https://a.allegroimg.com/original/1119a5/49574c164feca51f9cec34cbf6da
+
 ---
 
-## 41451 — Lego klocki seria 41451 Unikitty Chmurkowy Pojazd Kici Rożek 126 elementów
+## 41451 — Chmurkowy Pojazd Kici Rożek
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 107.00 zł · EAN: 05702016111743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41451 |
+| Nazwa angielska | Unikitty Cloud Car |
+| Nazwa polska | Chmurkowy Pojazd Kici Rożek |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111743 |
 
 Lego Unikitty Klocki Chmurkowy Pojazd Kici Rożek 126 el.
  
@@ -41,11 +66,26 @@ Najważniejsze cechy zestawu:
 - zestawy z serii LEGO Unikitty! 
 - zabawka przeznaczona dla dzieci od 5 do 12 roku życia.
 
+**Galeria:**
+
+- 41451-1: https://a.allegroimg.com/original/11762b/30f5b2514f84ae68eb4a1e61db95
+
 ---
 
-## 41452 — Lego Unikitty 41452 Rowerek Księcia Piesia Rożka
+## 41452 — Rowerek księcia
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 30.00 zł · EAN: 05702016111750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41452 |
+| Nazwa angielska | Prince Puppycorn Trike |
+| Nazwa polska | Rowerek księcia |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 5702016111750 |
 
 LEGO UNIKITTY 41452 Rowerek Księcia Piesia Rożka
 
@@ -61,11 +101,26 @@ Przeżyj ponownie ulubione sceny z najbardziej radosnego, błyszczącego i kolor
 - Rowerek ma ok. 6 cm wysokości, 10 cm długości i 7 cm szerokości.
 - Dinokoleś™ ma ok. 5 cm wysokości, 5 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41452-1: https://5.allegroimg.com/original/037527/16f4020a4e12814b880947433c85
+
 ---
 
-## 41453 — Lego 41453 Czas na imprezę
+## 41453 — Czas na imprezę
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702016111767 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41453 |
+| Nazwa angielska | Party Time |
+| Nazwa polska | Czas na imprezę |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 14 cm × gł. 4 cm |
+| EAN | 5702016111767, 673419283229 |
 
 LEGO® 41453 Czas na imprezę
 
@@ -93,11 +148,27 @@ Przeżyj ponownie ulubione sceny z najbardziej radosnego, błyszczącego i kolor
 
 - Tort urodzinowy na wózku ma ok. 4 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 41453-1: https://e.allegroimg.com/original/03ae54/5ef2a78b462e99e720839d722aae
+- 41453-2: https://a.allegroimg.com/original/0526fc/fa7b8dd04d9581c0785ca741494d
+
 ---
 
-## 41454 — Lego Unikitty 41454 Unikitty Laboratorium dr Lisiczki
+## 41454 — Unikitty Laboratorium dr Lisiczki
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702016117370 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41454 |
+| Nazwa angielska | Dr. Fox Laboratory |
+| Nazwa polska | Unikitty Laboratorium dr Lisiczki |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 359 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 30 cm × gł. 9 cm |
+| EAN | 5702016117370 |
 
 LEGO Unikitty Laboratorium dr Lisiczki (41454) [KLOCKI]
 
@@ -136,11 +207,26 @@ Zupełnie nowy. Bez Folii
 
 **SKU:** 729302
 
+**Galeria:**
+
+- 41454-1: https://a.allegroimg.com/original/001461/f324a037411da2da5ed6f2a73e4a
+
 ---
 
-## 41455 — Lego Unikitty 41455 Pudełko Z Kiciorożkowa Box Nowe
+## 41455 — PUDEŁKO Z KICIOROŻKOWA - BOX
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016117387 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41455 |
+| Nazwa angielska | Unikingdom Creative Brick Box |
+| Nazwa polska | PUDEŁKO Z KICIOROŻKOWA - BOX |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 6 cm |
+| EAN | 5702016117387 |
 
 LEGO UNIKITTY 41455
  
@@ -156,11 +242,26 @@ Kreatywne pudełko z klockami z Kiciorożkowa
 - Puść wodze fantazji i zbuduj wszystko, co przyjdzie Ci do głowy! 
 - Zamek Kici Rożek ma ok. 16 cm wysokości, 17 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 41455-1: https://a.allegroimg.com/original/00842d/31462fe54048af41b554ab24c96c
+
 ---
 
-## 6233084 — Klocki Lego Unikitty Dr Lisiczka 40314
+## 6233084 — dr lisiczka 40314
 
-*Kategoria: Pozostałe serie > Unikitty · cena Allegro (2026-08-17): 64.99 zł · EAN: 00673419294607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6233084 |
+| Nazwa angielska | — |
+| Nazwa polska | dr lisiczka 40314 |
+| Seria | Pozostałe serie > Unikitty |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 7 cm |
+| EAN | 673419294607 |
 
 Klocki LEGO UNIKITTY!
 
@@ -194,6 +295,10 @@ CENA PROMOCYJNA, OGRANICZONA ILOŚĆ SZTUK !!!
 Cena: 64,99 zł
 
 Cena katalogowa: 99,99 zł
+
+**Galeria:**
+
+- 6233084-1: https://a.allegroimg.com/original/039c28/3cc0a63d47cfa7c4edb6bfaeb88b
 
 ---
 

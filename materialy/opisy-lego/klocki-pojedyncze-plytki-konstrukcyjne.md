@@ -1,25 +1,51 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Klocki pojedyncze > Płytki konstrukcyjne — opisy produktowe (17 pozycji)
 
-## 10460 — Lego 10460 Duplo Classic Zielona płytka konstrukcyjna
+## 10460 — Green Building Plate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 38.80 zł · EAN: 05702017783192 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10460 |
+| Nazwa angielska | Green Building Plate |
+| Nazwa polska | — |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017783192 |
 
 Zielona płytka konstrukcyjna
 
 DUPLO® LEGO DUPLO Zielona Płytka Konstrukcyjna, Kreatywna Zabawka dla Dziecka do Zbudowania, Podstawka do Klocków, Pomysł na Prezent dla Rocznego Dziecka, na Roczek, dla Chłopca i Dziewczynki, 10460 klocki bloki 2 3 5 edukacyjne maluchy montessori wczesny rozwój aktywność chłopiec dziewczynka dziecko prezent wyobraźnia siostrzenica siostrzeniec maluchy żłobek przedszkole smakołyk konstrukcja duży rodzina razem diorama nauka Zielona płytka konstrukcyjna LEGO® DUPLO® Zielona płytka konstrukcyjna Zestaw LEGO® DUPLO® Zielona płytka konstrukcyjna 10460 Klasyczna zabawka LEGO® DUPLO® oferuje dużą, płaską podstawę, na której maluchy mogą ustawić swoje kreatywne modele. Płytka konstrukcyjna idealna do kreatywnych modeli LEGO® DUPLO® Zielona płytka konstrukcyjna (10460) to idealna podstawa dla dzieci w wieku od 18 miesięcy, które mogą na niej budować, bawić się swoimi wspaniałymi modelami i pokazywać je innym.Zielona płytka konstrukcyjna w rozmiarze 16x16 wypustki jest kwadratem o boku 25 cm. To doskonała propozycja dla początkujących budowniczych. Płytka bez trudu utrzyma klocki pod każdym kątem (nawet do góry nogami!). Taka zabawka otwiera przed dziećmi mnóstwo możliwości twórczej zabawy — może stać się trawiastym ogrodem lub egzotyczną dżunglą, stromym górskim zboczem lub wspaniałą latającą machiną. Po zakończonym budowaniu solidna płytka pozwala dzieciom przenieść i ustawić na półce wszystkie kreatywne modele i nie martwić się, że się rozpadną.Dzięki ciekawym zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju swoich maluchów i zachęcać dzieci do swobodnej zabawy, wyrażania emocji i nabierania pewności siebie. Zielona płytka konstrukcyjna w rozmiarze 16x16 wypustki bez trudu utrzyma klocki pod każdym kątem (nawet do góry nogami!). Taka zabawka otwiera przed dziećmi mnóstwo możliwości twórczej zabawy — może stać się trawiastym ogrodem lub egzotyczną dżunglą, stromym górskim zboczem lub wspaniałą latającą machiną. Po zakończonym budowaniu można w bezpieczny sposób przenieść i ustawić wszystkie dzieła. • Płytka konstrukcyjna dla dzieci w wieku przedszkolnym — Zielona płytka konstrukcyjna zapewnia dzieciom w wieku od 18 miesięcy solidną podstawę do kreatywnej zabawy • Zielona płytka konstrukcyjna LEGO® DUPLO® — solidna, kwadratowa płytka o wymiarach 16x16 wypustki w klasycznym zielonym kolorze ma setki równo ułożonych wypustek, które zapewniają doskonałą przyczepność wszystkich kreatywnych modeli • Jeszcze więcej kreatywnej zabawy — płytka bez trudu utrzyma klocki pod każdym kątem (nawet do góry nogami!
 
+**Galeria:**
+
+- 10460-1: https://a.allegroimg.com/original/05af4b/cb14563e43a98eb98c1a31ee65d5
+
 ---
 
-## 10700 — Lego Classic Zielona płytka konstrukcyjna 10700
+## 10700 — Green Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 79.00 zł · EAN: 04250350986059 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10700 |
+| Nazwa angielska | Green Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4250350986059 |
 
 **LEGO Classic Zielona płytka konstrukcyjna 10700**
  
@@ -49,11 +75,27 @@ Zielona płytka konstrukcyjna o rozmiarach 25 x 25 cm to idealny początek do za
 - **Wymaga baterii:** Nie 
 - **Czy baterie są dołączone:** Nie
 
+**Galeria:**
+
+- 10700-1: https://a.allegroimg.com/original/05080d/105fb1b2406eb5ae58dae2f705b7
+
 ---
 
-## 10701 — Lego Classic 10701 Szara Płytka Konstrukcyjna
+## 10701 — Gray Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 8981.49 zł · EAN: 05702015357159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10701 |
+| Nazwa angielska | Gray Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357159 |
 
 LEGO 10701 - SZARA PŁYTKA KONSTRUKCYJNA
 
@@ -68,11 +110,27 @@ LEGO 10701 - SZARA PŁYTKA KONSTRUKCYJNA
 
 **Zaraź swoje dziecko pasją do LEGO od najmłodszych lat!**
 
+**Galeria:**
+
+- 10701-1: https://a.allegroimg.com/original/11430d/2840b7f94c269d91afe7716980f0
+
 ---
 
-## 10714 — Lego Classic 10714 11025 Niebieska płytka konstrukcyjna
+## 10714 — Blue Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 34.90 zł · EAN: 05702016111927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10714 |
+| Nazwa angielska | Blue Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111927, 673419283380 |
 
 Wyjątkowy sklep z klockami LEGO
 
@@ -121,11 +179,28 @@ Niebieska płytka konstrukcyjna LEGO®.
 
  **Ilość elementów : 1**
 
+**Galeria:**
+
+- 10714-1: https://a.allegroimg.com/original/115c9b/2daf6e2b4530834987abd21dfdea
+- 10714-2: https://a.allegroimg.com/original/117c10/732f28fb437c90f78657c4a1cffb
+
 ---
 
-## 10980 — Nowe Lego Duplo 10980 Zielona Płyta Konstrukcyjna XXL 24x24 Pin 38x38cm
+## 10980 — Green Building Plate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 129.99 zł · EAN: 05702017194882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10980 |
+| Nazwa angielska | Green Building Plate |
+| Nazwa polska | — |
+| Seria | DUPLO |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017194882 |
 
 **ORYGINALNA **fabrycznie **NOWA PŁYTKA ** **LEGO D****UPLO - 10980**
  
@@ -148,11 +223,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Prezent dla przedszkolaków — ten praktyczny zestaw doskonale sprawdzi się jako prezent urodzinowy lub upominek bez okazji dla przedszkolaków w wieku od 18 miesięcy 
 - Zobacz, jak rodzi się pomysłowa konstrukcja — LEGO® DUPLO® Zielona płytka konstrukcyjna o bokach długości 38 cm doskonale nadaje się do kreatywnego budowania, przenoszenia modeli i ustawiania ich na półce
 
+**Galeria:**
+
+- 10980-1: https://a.allegroimg.com/original/11c657/c4d7ffac4a30ac8f4451145365bb
+
 ---
 
-## 11010 — Biała płytka konstrukcyjna Lego Classic 11010
+## 11010 — White Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 44.00 zł · EAN: 05702016616613 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11010 |
+| Nazwa angielska | White Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616613 |
 
 Płytka konstrukcyjna lego. Oczywiście nowe oryginalnie zapakowane.
 
@@ -160,11 +251,26 @@ Zapewniamy solidne pakowanie. Wysyłamy towar zwykle w ciągu 24h max 48h jeśli
 
 Wystawiamy paragon na życzenie fakturę bez VAT.
 
+**Galeria:**
+
+- 11010-1: https://a.allegroimg.com/original/110ded/84fb49d5429f812997b4f4496dce
+
 ---
 
-## 11023 — Lego 11023 Classic Zielona płytka konstrukcyjna
+## 11023 — Green Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016693935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11023 |
+| Nazwa angielska | Green Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | 36.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016415551, 5702016693935, 5702016700473, 5702017184265, 673419361033 |
 
 LEGO® 11023 Classic - Zielona płytka konstrukcyjna
 
@@ -198,11 +304,29 @@ Zielona płytka konstrukcyjna 32 × 32 wypustki otwiera drzwi do świata pełneg
 
 - Bezpieczeństwo przede wszystkim — zestawy LEGO® Classic przechodzą rygorystyczne testy, aby można było mieć pewność, że spełniają światowe standardy bezpieczeństwa i jakości
 
+**Galeria:**
+
+- 11023-1: https://a.allegroimg.com/original/119c7b/9a3a5e1b4b51a1d03af124177f59
+- 11023-2: https://a.allegroimg.com/original/1102dc/072f86834384aff65e08aa8c6a5e
+- 11023-3: https://a.allegroimg.com/original/114f58/baa6331d4e21b6850490158a800b
+- 11023-4: https://a.allegroimg.com/original/118855/3cbaabb94d76ad61efedc0267aab
+
 ---
 
-## 11024 — Lego Classic 11024 Szara płytka konstrukcyjna
+## 11024 — Gray Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 42.89 zł · EAN: 05702017185279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11024 |
+| Nazwa angielska | Gray Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017185279 |
 
 LEGO Classic Szara płytka konstrukcyjna 11024
  
@@ -230,11 +354,26 @@ Zestawy LEGO Classic pozwalają dzieciom wyrażać emocje i bawić się bez ogra
 - Jakość to podstawa — zestawy LEGO® spełniają surowe branżowe standardy. Są spójne, pasują do siebie i pozwalają budować ciekawe modele 
 - Bezpieczeństwo przede wszystkim — zestawy LEGO® Classic przechodzą testy, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa i jakości
 
+**Galeria:**
+
+- 11024-1: https://a.allegroimg.com/original/118a47/54728fae4e5a95edc9dbf26b9dc2
+
 ---
 
-## 11025 — Płytka konstrukcyjna Lego Classic 11025 niebieska
+## 11025 — Blue Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 25.99 zł · EAN: 05702017185286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11025 |
+| Nazwa angielska | Blue Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | 36.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702016693966, 5702016704624, 5702017185286 |
 
 LEGO Classic Niebieska płytka konstrukcyjna 11025
  
@@ -266,11 +405,27 @@ Niebieska płytka konstrukcyjna 32 × 32 wypustki otwiera drzwi do świata pełn
 - Jakość to podstawa — zestawy LEGO® spełniają surowe branżowe standardy. Są spójne, pasują do siebie i pozwalają budować ciekawe modele 
 - Bezpieczeństwo przede wszystkim — zestawy LEGO® Classic przechodzą testy, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa i jakości
 
+**Galeria:**
+
+- 11025-1: https://a.allegroimg.com/original/11de7b/beb512ba424ab1c14042c3024234
+- 11025-2: https://a.allegroimg.com/original/25a840/9aa9f07b4bea8d104e7833735aaf
+
 ---
 
-## 11026 — Biała płytka konstrukcyjna Lego Classic 11026
+## 11026 — White Baseplate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 25.99 zł · EAN: 05702017185217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11026 |
+| Nazwa angielska | White Baseplate |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | 36.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017185217 |
 
 LEGO Classic 11026 Biała płytka konstrukcyjna
  
@@ -301,11 +456,26 @@ Zestawy LEGO Classic pozwalają dzieciom wyrażać emocje i bawić się bez ogra
 - Jakość to podstawa — zestawy LEGO® spełniają surowe branżowe standardy. Są spójne, pasują do siebie i pozwalają budować ciekawe modele 
 - Bezpieczeństwo przede wszystkim — zestawy LEGO® Classic przechodzą testy, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa i jakości
 
+**Galeria:**
+
+- 11026-1: https://a.allegroimg.com/original/112083/7db16bdd4ef694bcdeaf4dcbd8cc
+
 ---
 
-## 2304 — Lego Duplo Płytka budowlana 2304
+## 2304 — Large Building Plate
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 167.00 zł · EAN: 05702016627428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2304 |
+| Nazwa angielska | Large Building Plate |
+| Nazwa polska | — |
+| Seria | Duplo |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 1992 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016627428 |
 
 LEGO DUPLO radość budowania trwa i trwa!
  
@@ -315,11 +485,26 @@ Sporych rozmiarów, zielona płytka do budowania, pozwoli małemu konstruktorowi
 - Wymiary: 38,1 cm x 38,1 cm. 
 - Klocki nie są dołączone do zestawu.
 
+**Galeria:**
+
+- 2304-1: https://a.allegroimg.com/original/29eb9e/ce19b3cd45c892f3765abd417c2c
+
 ---
 
-## 4659591 — Lego 4659591 Duplo Podkładka Pod Talerz Dla Dzieci
+## 4659591 — ?
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 14.99 zł · EAN: 05702015989480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4659591 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Duplo |
+| Grupa wiekowa | 18 m + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015989480 |
 
 **LEGO**
 
@@ -341,11 +526,26 @@ Sporych rozmiarów, zielona płytka do budowania, pozwoli małemu konstruktorowi
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 4659591-1: https://a.allegroimg.com/original/11b655/5b9ccba54c8abda110e0038fafd1
+
 ---
 
-## 5004398 — Lego Friends 5004398 Gofrownica i Mata do Zabawy Playmate Klocki Nowe
+## 5004398 — Friends Playmat
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419258241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004398 |
+| Nazwa angielska | Friends Playmat |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258241 |
 
 LEGO Friends 5004398 Gofrownica + Mata
 
@@ -363,11 +563,26 @@ Mata z tworzywa odporna na zniszczenie. Wymiary po rozłożeniu **60x44 cm**. W 
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 5004398-1: https://a.allegroimg.com/original/11e689/ab5d4fb8425aaac4b0995bb31e5c
+
 ---
 
-## 6002931 — Płytka konstrukcyjna do l3go 32x32 zestaw 4 szt szary niebieski róż pomarań
+## 6002931 — ?
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 38.98 zł · EAN: 05051223146834 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6002931 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051223146834 |
 
 Płytka konstrukcyjna do lego 32x32 zestaw 4 szt szary, jasny niebieski, różowy, pomarańczowy
  
@@ -377,11 +592,27 @@ Wysokiej jakości płytki o wymiarach 25,5cm × 25,5cm z wypustkami w układzie 
  
 Zamiennik
 
+**Galeria:**
+
+- 6002931-1: https://a.allegroimg.com/original/11f67f/812824734bbe8e8ac32a7a078b8b
+
 ---
 
-## 7280 — Lego City Odcinek prosty i skrzyżowanie 7280
+## 7280 — Straight & Crossroad Plates
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 145.00 zł · EAN: 05702015398749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7280 |
+| Nazwa angielska | Straight & Crossroad Plates |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015398749 |
 
 **UWAGA FOLIA NIESTETY ZOSTAŁA DELIKATNIE ZAHACZONA, USZKODZENIE OPAKOWANIA JEST WIDOCZNE NA ZDJĘCIU.**
 
@@ -407,11 +638,27 @@ Zamiennik
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 7280-1: https://a.allegroimg.com/original/111266/0f3195c94e5589985a5053f7e82e
+
 ---
 
-## 7281 — Lego 7281 City Skrzyżowanie i zakręt makieta
+## 7281 — T-Junction & Curved Road Plates
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702015398756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7281 |
+| Nazwa angielska | T-Junction & Curved Road Plates |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015398756 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -421,11 +668,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 7281-1: https://a.allegroimg.com/original/119726/4a2fba0a40959a9324319598fbc2
+
 ---
 
-## 850929 — Lego City 850929 Dwustronna Mata do zabawy 100x70cm
+## 850929 — City Playmat
 
-*Kategoria: Klocki pojedyncze > Płytki konstrukcyjne · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419213851 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850929 |
+| Nazwa angielska | City Playmat |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213851 |
 
 Ścigaj się po ulicach LEGO City na Wyjątkowej Macie!
 
@@ -440,6 +702,10 @@ Dobra Zabawa i Łatwe Przechowywanie
 Po wyczerpującej podróży przez LEGO City, gdy każdy zakręt i skrzyżowanie zostaną już odkryte, możesz łatwo złożyć matę. Dzięki temu zaoszczędzisz miejsce i zachowasz porządek w swoim pokoju. **Wymiary maty po rozłożeniu wynoszą imponujące 70×100 cm,** co daje mnóstwo przestrzeni do kreatywnej zabawy. A gdy już skończysz, matę można złożyć i schować do szafki lub pod łóżkiem. To wygodne rozwiązanie, które sprawia, że ​​Twoje LEGO City zawsze będzie gotowe na nowe przygody!
 
 Nie czekaj dłużej! Zaplanuj najlepszą trasę przez LEGO City na wyjątkowej macie LEGO City i ciesz się niekończącą się zabawą i eksploracją. Odkrywaj nowe zakątki miasta, organizuj wyścigi i twórz swoje własne opowieści. LEGO City czeka na Ciebie!
+
+**Galeria:**
+
+- 850929-1: https://a.allegroimg.com/original/112b4b/3dee6ae04b88908ba584cb9861e9
 
 ---
 

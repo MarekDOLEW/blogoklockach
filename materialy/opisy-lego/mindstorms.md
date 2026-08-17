@@ -1,25 +1,50 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Mindstorms — opisy produktowe (3 pozycji)
 
-## 2000704 — Lego Mindstorms Edu EV3 Części zamienne 2000704
+## 2000704 — Mindstorms EV3 Replacement Pack 5
 
-*Kategoria: Mindstorms · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419236607 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2000704 |
+| Nazwa angielska | Mindstorms EV3 Replacement Pack 5 |
+| Nazwa polska | — |
+| Seria | Mindstorms |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419236607 |
 
 Komplet części zapasowych dla LEGO® MINDSTORMS® Education EV3  (45544).
 
 Zestaw zawiera kamienie, kryształki, gumki i inne. Pozwala uzupełnić i rozbudować Twoje zestawy LEGO MINDSTORMS. Pasuje do wszystkich zestawów LEGO Technic.
 
+**Galeria:**
+
+- 2000704-1: https://a.allegroimg.com/original/1155fc/c77f3dbb432cbca2b984c0283bc9
+
 ---
 
-## 31313 — Lego Mindstorms 31313
+## 31313 — Mindstorms Ev3
 
-*Kategoria: Mindstorms · cena Allegro (2026-08-17): 3349.00 zł · EAN: 05702014982734 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31313 |
+| Nazwa angielska | Mindstorms EV3 |
+| Nazwa polska | Mindstorms Ev3 |
+| Seria | Mindstorms |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 601 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014982734 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -45,11 +70,26 @@ Dzięki uniwersalności systemu budowania LEGO® i najbardziej zaawansowanej tec
 - Ponad 550 elementów LEGO® Technic – wszystko, czego potrzebujesz, by stworzyć fantastyczne roboty!
 - Instrukcja budowania 5 robotów. Bonusowe instrukcje budowania opracowane przez najbardziej zagorzałych fanów i wybrane przez LEGO znajdziesz na LEGO/
 
+**Galeria:**
+
+- 31313-1: https://a.allegroimg.com/original/119a32/2f971ccd4d4e80a7256057608335
+
 ---
 
-## 9736 — Lego Exploration Mars 9736
+## 9736 — LEGO Exploration Mars 9736
 
-*Kategoria: Mindstorms · cena Allegro (2026-08-17): 400.00 zł · EAN: 05702012009402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9736 |
+| Nazwa angielska | Exploration Mars |
+| Nazwa polska | LEGO Exploration Mars 9736 |
+| Seria | Mindstorms |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 1999 |
+| Liczba elementów | 158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012009402 |
 
 LEGO Mindstorms 9736 Exploration Mars
 
@@ -72,6 +112,10 @@ Zestaw **Exploration Mars 9736** jest **rozszerzeniem** systemu LEGO Mindstorms 
 - przeznaczenie: **zestaw edukacyjny / rozszerzenie Mindstorms**
 
 LEGO 9736 Exploration Mars to ceniony, klasyczny zestaw Mindstorms, który łączy tematykę kosmicznej eksploracji z nauką robotyki. Dziś jest poszukiwanym modelem kolekcjonerskim, szczególnie wśród fanów starszych generacji LEGO Mindstorms.
+
+**Galeria:**
+
+- 9736-1: https://a.allegroimg.com/original/116d2a/8ca6118a47efab4ed9e4832b573f
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Pirates — opisy produktowe (23 pozycji)
 
-## 10210 — Klocki Lego Pirates Imperial Flagship Zestaw Kolekcjonerski 10210
+## 10210 — Imperial Flagship
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 8999.00 zł · EAN: 00673419128995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10210 |
+| Nazwa angielska | Imperial Flagship |
+| Nazwa polska | Imperial Flagship |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 11 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1664 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419128995 |
 
 LEGO 10210 Pirates Imperial Flagship
 
@@ -21,11 +31,26 @@ Dodaj ten unikalny zestaw do swojej kolekcji LEGO Creator Expert i ciesz się ni
 
 Jest to idealny zestaw dla kolekcjonerów, stanowiący bardzo dobrą inwestycję kapitału.
 
+**Galeria:**
+
+- 10210-1: https://a.allegroimg.com/original/11f6aa/52f61eb44fd6ae639c05a20b63ac
+
 ---
 
-## 10679 — Lego Juniors 10679 Poszukiwanie skarbu piratów Nowe
+## 10679 — Pirates Ambush
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702015353731 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10679 |
+| Nazwa angielska | Pirate Treasure Hunt |
+| Nazwa polska | Pirates Ambush |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 146 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353731 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -47,11 +72,26 @@ Rusz na Poszukiwanie skarbu piratów z zestawem LEGO® Juniors! W zestawie znajd
 - Wymiary łodzi: ok. 9 x 3 x 2 cm
 - Forteca ma ok. 9 x 8 x 5 cm
 
+**Galeria:**
+
+- 10679-1: https://a.allegroimg.com/original/118ecc/e9f0bef34de481df06047a3568d7
+
 ---
 
-## 1747 — nowy Lego System Pirates Pirat i skarb 1747 Treasure Surprise Misb 1996
+## 1747 — Treasure Surprise
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 449.99 zł · EAN: 05702010917471 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1747 |
+| Nazwa angielska | Treasure Surprise |
+| Nazwa polska | Treasure Surprise |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1996 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010917471 |
 
 Cześć!
 
@@ -69,11 +109,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 1747-1: https://a.allegroimg.com/original/111f2b/c8e516044373b0d651eee976fe01
+
 ---
 
-## 40158 — Lego Pirates 40158 Nowe
+## 40158 — 40158
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 639.00 zł · EAN: 00673419236386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40158 |
+| Nazwa angielska | Pirates Chess Set |
+| Nazwa polska | 40158 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 857 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419236386 |
 
 **LEGO PIRATES CHESS**
  
@@ -100,11 +155,26 @@ Pozdrawiam.
  
 Wszystkie informacje o stanie każdego przedmiotu znajdują się w opisie.
 
+**Galeria:**
+
+- 40158-1: https://a.allegroimg.com/original/11453d/a7b9aab845f986ec067a8169f516
+
 ---
 
-## 4182 — Lego Pirates of the Caribbean 4182 The Cannibal Escape Nowe
+## 4182 — Ucieczka przed ludożercami
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014734753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4182 |
+| Nazwa angielska | The Cannibal Escape |
+| Nazwa polska | Ucieczka przed ludożercami |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 279 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734753 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -114,11 +184,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Pirates of the Caribbean 4182 The Cannibal Escape ** został zaprezentowany w 2011 roku i zawiera 279 klocków LEGO®. W zestawie klocków znajdziesz 4 minifigurki. Klocki przeznaczone są dla dzieci od 6 roku życia.
 
+**Galeria:**
+
+- 4182-1: https://a.allegroimg.com/original/11db1b/5a947cf74d0aa407dfc7dd02f3ad
+
 ---
 
-## 4183 — Lego Piraci z Karaibów 4183 The Mill Nowe
+## 4183 — The Mill
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702014734760 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4183 |
+| Nazwa angielska | The Mill |
+| Nazwa polska | The Mill |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734760 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -128,11 +213,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO Pirates of the Caribbean 4183 The Mill **został zaprezentowany w 2011 roku i zawiera 365 klocków LEGO®. W opakowaniu znajdziesz również 4 minifigurki. Zestaw klocków przeznaczony jest dla dzieci od 7 roku życia.
 
+**Galeria:**
+
+- 4183-1: https://a.allegroimg.com/original/11f2f2/1039407d4de8926243cfc44324dd
+
 ---
 
-## 4184 — Lego Pirates 4184 Czarna Perła Black Pearl
+## 4184 — Czarna Perła
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 5500.00 zł · EAN: 05702014734777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4184 |
+| Nazwa angielska | Black Pearl |
+| Nazwa polska | Czarna Perła |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 804 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014734777 |
 
 **zalety budowania z klocków**
 
@@ -154,11 +254,26 @@ FANTASTYCZNY DUŻY ZESTAW KLOCKÓW
 - **6 figurek**
 - **Instrukcję składania**
 
+**Galeria:**
+
+- 4184-1: https://a.allegroimg.com/original/116f53/bde9c6be4ccd9ece25fcd2475796
+
 ---
 
-## 4192 — Lego Piraci z Karaibów 4192 Fontanna młodości Nowe
+## 4192 — Fontanna młodości
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 989.00 zł · EAN: 05702014746220 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4192 |
+| Nazwa angielska | Fountain of Youth |
+| Nazwa polska | Fontanna młodości |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014746220 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -190,11 +305,26 @@ Dlaczego warto kupić LEGO 4192?
  
 Dołącz do Jacka Sparrowa i odkryj **Fontannę Młodości LEGO 4192 **– nieśmiertelna zabawa gwarantowana! ⚓🏴 ☠️✨
 
+**Galeria:**
+
+- 4192-1: https://a.allegroimg.com/original/11083a/725bb633402db7721cd22e1460b6
+
 ---
 
-## 4193 — Lego 4193 Pirates of the Caribbean Ucieczka z Londynu.
+## 4193 — The London Escape
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 1215.00 zł · EAN: 05702014746237 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4193 |
+| Nazwa angielska | The London Escape |
+| Nazwa polska | The London Escape |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 463 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014746237 |
 
 LEGO Pirates 4193 The London Escape
 
@@ -210,11 +340,26 @@ O produkcie:
 
 LEGO Pirates 4193 The London Escape to zestaw klocków dla dzieci powyżej 7 roku życia. Zawiera 463 elementy, co pozwala na swobodne tworzenie różnorodnych konstrukcji. To idealny wybór dla chłopców i dziewcząt, którzy uwielbiają pirackie przygody i skarby.
 
+**Galeria:**
+
+- 4193-1: https://a.allegroimg.com/original/118fa6/4112e3f64b41bda4d17b03189614
+
 ---
 
-## 4195 — Klocki Lego Pirates of the Caribbean Zestaw Queen Anne's Revenge 4195
+## 4195 — i
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 5999.00 zł · EAN: 05702014746251 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4195 |
+| Nazwa angielska | Queen Anne's Revenge |
+| Nazwa polska | i |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1097 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014746251 |
 
 🏴‍☠️ LEGO Pirates of the Caribbean: Zemsta Królowej Anny (4195)
 
@@ -240,11 +385,26 @@ Przedmiotem sprzedaży jest jeden z najbardziej ikonicznych zestawów w historii
 
 **Wymiary statku:** ok. 50 cm wysokości i 66 cm długości.
 
+**Galeria:**
+
+- 4195-1: https://a.allegroimg.com/original/11c1dc/f97f398f4fbc8d50b0adbdf79bde
+
 ---
 
-## 5003082 — nowy Lego Pirates 5003082 Klasyczna minifigurka pirata Misb 2015 unikat
+## 5003082 — Klasyczna minifigurka pirata
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 249.99 zł · EAN: 00673419241892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5003082 |
+| Nazwa angielska | Pirates Adventure |
+| Nazwa polska | Klasyczna minifigurka pirata |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419241892 |
 
 Cześć!
 
@@ -262,11 +422,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5003082-1: https://a.allegroimg.com/original/1149a5/d5bd7db845309f9a4567abb81a2c
+
 ---
 
-## 6240 — Lego Pirates 6240 potwory morskie atakują
+## 6240 — 6240
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702014532892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6240 |
+| Nazwa angielska | Kraken Attackin' |
+| Nazwa polska | 6240 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 78 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532892 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -285,11 +460,26 @@ Pozdrawiam.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 6240-1: https://a.allegroimg.com/original/11d495/ee0e5220465c90a59389531a89ff
+
 ---
 
-## 6241 — Lego Pirates 6241 Wyspa rozbitka Nowe
+## 6241 — Wyspa rozbitka
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 879.00 zł · EAN: 05702014532908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6241 |
+| Nazwa angielska | Loot Island |
+| Nazwa polska | Wyspa rozbitka |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532908 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -299,11 +489,26 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Zestaw klocków **LEGO 6241 Wyspa rozbitka ** został zaprezentowany w 2009 roku i zawiera 142 klocków LEGO®. W klockach znajdziesz również 3 minifigurki. Klocki przeznaczone są dla dzieci powyżej 5 roku życia.
 
+**Galeria:**
+
+- 6241-1: https://a.allegroimg.com/original/11a827/1020655449e3a2eebd4c01aff4ba
+
 ---
 
-## 6242 — 6242 Lego Pirates 6242 Żołnierska forteca
+## 6242 — Pirates 6242 Żołnierska forteca
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702014532915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6242 |
+| Nazwa angielska | Soldiers' Fort |
+| Nazwa polska | Pirates 6242 Żołnierska forteca |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 367 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532915 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -337,11 +542,26 @@ Broń i akcesoria to 3 flagi Żołnierzy Imperialnych (większa materiałowa i 2
  
 Wymiary modelu: ok. 30 cm długości i 17 cm wysokości.
 
+**Galeria:**
+
+- 6242-1: https://a.allegroimg.com/original/1168ea/9a9ae40f4c8f8920e5331320bc9e
+
 ---
 
-## 6243 — Lego Pirates 6243 Brickbeard's Bounty
+## 6243 — Brickbeard's Bounty
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 1949.99 zł · EAN: 05702014532922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6243 |
+| Nazwa angielska | Brickbeard's Bounty |
+| Nazwa polska | Brickbeard's Bounty |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2009 |
+| Liczba elementów | 592 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532922 |
 
 LEGO Pirates 6243 Brickbeard's Bounty
  
@@ -358,21 +578,51 @@ O produkcie:
  
 LEGO Pirates 6243 Brickbeard's Bounty to zestaw klocków przeznaczony dla dzieci powyżej 3 roku życia. Zawiera 592 elementy, co pozwala na skomponowanie imponującego okrętu pirackiego. Produkt marki LEGO gwarantuje wysoką jakość wykonania i bezpieczeństwo podczas zabawy. Zestaw Brickbeard's Bounty to idealny wybór dla chłopców oraz dziewcząt, którzy uwielbiają rozbudowaną zabawę klockami.
 
+**Galeria:**
+
+- 6243-1: https://a.allegroimg.com/original/117744/54a828e344ffbb969870ac6ec3d0
+
 ---
 
-## 6278 — Lego 6292 Pirates Piracka wyspa
+## 6278 — 6292
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 3850.00 zł · EAN: 05702012019036 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6278 |
+| Nazwa angielska | Enchanted Island |
+| Nazwa polska | 6292 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1994 |
+| Liczba elementów | 419 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012019036 |
 
 Klocki LEGO Pirates 6292 - Piracka wyspa
 
 Zestaw LEGO Pirates - Piracka wyspa trafił do sprzedaży w 2001 roku. Numer katalogowy tego zestawu to 6292. Zawiera 419 klocków LEGO. W modelu znajdziesz też 7 minifigurki. Nazwa zestawu w języku angielskim LEGO Pirates - Pirate Island. Grupa wiekowa tego produktu to 8+. Aktualnie, nowy zestaw nie jest dostępny w sprzedaży ale możesz sprawdzić dostępność używanych klocków LEGO Pirates - Piracka wyspa.
 
+**Galeria:**
+
+- 6278-1: https://a.allegroimg.com/original/113792/10489e3346789edc55f767061535
+
 ---
 
-## 70409 — Lego Pirates Piraci 70409 Obrona wraku
+## 70409 — 70409
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 320.17 zł · EAN: 05702015366373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70409 |
+| Nazwa angielska | Shipwreck Defense |
+| Nazwa polska | 70409 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 11 cm × gł. 5 cm |
+| EAN | 5702015366373 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -402,11 +652,26 @@ PACZKI .
 - Wymiary sprężynowej armaty: 6 cm długości, 2 cm wysokości i 2 cm szerokości
 - Połączenie z zestawem 70411 Wyspa skarbów pozwoli przeżyć jeszcze więcej pirackich przygód!
 
+**Galeria:**
+
+- 70409-1: https://a.allegroimg.com/original/053af2/b99d217446bea86b8dc09323db01
+
 ---
 
-## 70410 — Lego Pirates 70410 Żołnierski Posterunek nowy zestaw klocków wycofany
+## 70410 — Żołnierski posterunek
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 519.99 zł · EAN: 05702015352321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70410 |
+| Nazwa angielska | Soldiers Outpost |
+| Nazwa polska | Żołnierski posterunek |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352321 |
 
 Zestaw zawiera 164 elementy, aby skonstruować żołnierski posterunek.
 
@@ -428,11 +693,26 @@ Posterunek posiada flagę, latarnię, rośliny, sprężynową armatę i skrzyni�
 
 W komplecie znajdziemy 3 minifigurki, a są to 2 żołnierze i pirat, przy wszystkie te minifigurki o takiej aparycji występują wyłącznie w tym zestawie. Dodatkowo zestaw uwzględnia figurkę kraba oraz wielkiej ośmiornicy.
 
+**Galeria:**
+
+- 70410-1: https://a.allegroimg.com/original/05bc77/a107af114211978ac08113043ce6
+
 ---
 
-## 70411 — Lego Pirates 70411- Wyspa Skarbów
+## 70411 — 70411
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 629.66 zł · EAN: 05702015352338 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70411 |
+| Nazwa angielska | Treasure Island |
+| Nazwa polska | 70411 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352338 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -456,11 +736,26 @@ Wyspa skarbów zawiera jaskinię z wielkim wejściem w kształcie czaszki, palm�
 
 W komplecie znajdziemy 3 minifigurki, a są to królowa piratów, pirat i żołnierz, przy czym minifigurki królowej i pirata o takiej aparycji występują wyłącznie w tym zestawie.
 
+**Galeria:**
+
+- 70411-1: https://a.allegroimg.com/original/113061/0ef8e4b04c859b982d8c755cfd2d
+
 ---
 
-## 70412 — Lego Pirates 70412 Żołnierska Forteca
+## 70412 — PIRATES
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 717.95 zł · EAN: 05702015352345 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70412 |
+| Nazwa angielska | Soldiers Fort |
+| Nazwa polska | PIRATES |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015352345 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -488,11 +783,26 @@ Przeżyj ekscytujące morskie przygody **w niesamowitej żołnierskiej fortecy z
  
 ! W zestawie 5 minifigurek wraz z bronią i akcesoriami: gubernator, córka gubernatora, żołnierz i 2 piratów.
 
+**Galeria:**
+
+- 70412-1: https://a.allegroimg.com/original/117610/d9536eb54f809a1afe06add791b9
+
 ---
 
-## 70413 — Lego Pirates Zestaw Statek piratów 70413
+## 70413 — pirates
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015352352 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70413 |
+| Nazwa angielska | The Brick Bounty |
+| Nazwa polska | pirates |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 745 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 45 cm × szer. 14 cm × gł. 11 cm |
+| EAN | 5702015352352 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -530,11 +840,26 @@ Podnieś piracką flagę i ruszaj w morze! Banda chciwych piratów wyrusza na ot
  
 Zestaw LEGO Pirates - Zaginiony skarb trafił do sprzedaży w 2015 roku. Numer katalogowy tego zestawu to 70413. Zawiera 745 klocków LEGO. W modelu znajdziesz też 7 minifigurki. Nazwa zestawu w języku angielskim LEGO Pirates - The Brick Bounty. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 70413-1: https://a.allegroimg.com/original/11cc74/9ec448614bd9a854d693ae69bb25
+
 ---
 
-## 71042 — Klocki Lego Piraci z Karaibów Zestaw Okręt Statek Piratów Cicha Maria 71042
+## 71042 — 71042
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 2698.00 zł · EAN: 05702015866835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71042 |
+| Nazwa angielska | Silent Mary |
+| Nazwa polska | 71042 |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 2294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 48 cm × szer. 22 cm |
+| EAN | 5702015866835 |
 
 ZESTAW NOWY
 
@@ -560,11 +885,26 @@ Zestaw zawiera ponad 2,200 klocków.
 
 Cicha Maria z głównym masztem ustawionym pionowo ma ok. 48 cm wysokości, 68 cm długości i 22 cm szerokości, a po złamaniu głównego masztu ma ok. 36 cm szerokości.
 
+**Galeria:**
+
+- 71042-1: https://a.allegroimg.com/original/11159e/2d84efc542749a4312c3415a7d2d
+
 ---
 
-## 8397 — Lego 8397 Pirates Pirat Rozbitek zestaw z 2009r
+## 8397 — LEGO 8397 Pirates Pirat Rozbitek
 
-*Kategoria: Pozostałe serie > Pirates · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014518629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8397 |
+| Nazwa angielska | Pirate Survival |
+| Nazwa polska | LEGO 8397 Pirates Pirat Rozbitek |
+| Seria | Pozostałe serie > Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518629 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -573,6 +913,10 @@ Do sprzedania mam nowy zestaw klocków Lego. Jest to seria Pirates, numer: 8397 
 Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Stan pudełka widoczny jest na zdjęciach - zawsze dodaje realne foto sprzedawanego produktu. Jest to zestaw z 2009r
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
+
+**Galeria:**
+
+- 8397-1: https://a.allegroimg.com/original/116542/99fb2c824ce8a7c437dc22955f60
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO The Legend of Zelda — opisy produktowe (2 pozycji)
 
-## 77092 — Lego The Legend of Zelda 77092 Wielkie Drzewo Deku 2 w 1
+## 77092 — The Legend of Zelda 77092 Wielkie drzewo Deku 2 w 1
 
-*Kategoria: The Legend of Zelda · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702017592565 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77092 |
+| Nazwa angielska | Great Deku Tree 2-in-1 |
+| Nazwa polska | The Legend of Zelda 77092 Wielkie drzewo Deku 2 w 1 |
+| Seria | The Legend of Zelda |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2500 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592565 |
 
 LEGO The Legend of Zelda 77092 - Great Deku Tree 2 w 1
  
@@ -41,11 +51,26 @@ Poszerz swoje kreatywne możliwości budowania dzięki aplikacji LEGO Builder, k
 - Zestaw LEGO® z bohaterami — ten model LEGO The Legend of Zelda™, inspirowany dwiema grami, łączy w sobie kultowe postacie z relaksującym, kreatywnym i satysfakcjonującym budowaniem 
 - Serie zestawów 2 w 1 — model Deku Tree z gry The Legend of Zelda™: Ocarina of Time ma 33 cm wysokości, a drzewo z gry The Legend of Zelda: Breath of the Wild ma 31 cm wysokości
 
+**Galeria:**
+
+- 77092-1: https://a.allegroimg.com/original/05f9af/146a07c540f3bdab2dd97f1d328d
+
 ---
 
-## 77093 — Zestaw klocków Lego The Legend of Zelda Ocarina of Time Final Battle
+## 77093 — LEGO The Legend of Zelda 77093 Ocarina of Time – Ostateczna bitwa
 
-*Kategoria: The Legend of Zelda · cena Allegro (2026-08-17): 504.99 zł · EAN: 05702018068304 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77093 |
+| Nazwa angielska | Ocarina of Time – The Final Battle |
+| Nazwa polska | LEGO The Legend of Zelda 77093 Ocarina of Time – Ostateczna bitwa |
+| Seria | The Legend of Zelda |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1003 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 29 cm × gł. 18 cm |
+| EAN | 5702018068304 |
 
 Zestaw klocków LEGO The Legend of Zelda Ocarina of Time - Final Battle
 
@@ -60,6 +85,10 @@ Ciesz się kreatywną i nostalgiczną podróżą podczas budowania tego szczegó
 - **Zestaw z ruinami zamku LEGO®** — ten kolekcjonerski zestaw Ocarina of Time™ — The Final Battle (77093) zawiera ruiny zamku, minifigurki Linka, Zeldy i Ganondorfa oraz dwie inne kultowe postacie
 - **Cechy i funkcje** — odtwórz scenę ostatecznej bitwy z ruchomymi gruzami, przyciskiem do odsłonięcia Ganondorfa w ruinach, ukrytym młotem Megaton Hammer w wieży, sekretnymi elementami Recovery Heart i nie tylko
 - **Wymiary** — ten 1003-elementowy zestaw LEGO® The Legend of Zelda™, przedstawiający kultową finałową bitwę z gry Ocarina of Time™, ma 17 cm wysokości, 29 cm szerokości i 18 cm głębokości
+
+**Galeria:**
+
+- 77093-1: https://a.allegroimg.com/original/11bb2b/26f38fd746f990fd0235e08380be
 
 ---
 

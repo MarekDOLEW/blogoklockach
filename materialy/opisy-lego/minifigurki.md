@@ -1,128 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Minifigurki — opisy produktowe (252 pozycji)
+# LEGO Minifigurki — opisy produktowe (241 pozycji)
 
-## 10316 — Lego Władca Pierścieni: Rivendell 10316
+## 11938 — Robot
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 2749.99 zł · EAN: 05702017819518 · in stock*
-
-LEGO WŁADCA PIERŚCIENI: RIVENDELL | 10316
-
-LEGO
-
-Prawdziwe szaleństwo dla fanów Władcy Pierścieni!
- 
-**Ponad 6 tys. elementów, 15 minifigurek bohaterów Lord of the Rings!**
- 
-Wymiary:
- 
-wys.: 16" (39cm)
- 
-szer.: 30" (75cm)
- 
-głęb.: 20" (50cm)
-
-Odkrywaj Śródziemie™
- 
-Uczcij uwielbianą filmową trylogię za pomocą niesamowitego nowego zestawu LEGO® Icons Władca Pierścieni: Rivendell™. Ten niesamowity zestaw zawiera 15 minifigurek postaci i realistyczne detale, które będziesz stopniowo odkrywać podczas budowania. Dzięki niemu możesz odtworzyć ulubione sceny z filmów i snuć zupełnie nowe historie.
-
-Imponujący zestaw dla fanów!
-
-Odwiedź Rivendell™ dzięki zestawowi kolekcjonerskiemu z serii LEGO® Władca Pierścieni™ (10316). Projekt jest wzorowany na dolinie ze Śródziemia™, gdzie rozpoczęła się słynna wyprawa. Zestaw dla dorosłych zawiera 6167 elementów i jest pełen detali, które docenią fani filmu.
- 
-Tchnij życie w kultowe sceny
- 
-Zestaw konstrukcyjny jest udekorowany listowiem, które sprawia wrażenie przebywania w głębi lasu Rivendell™ i zawiera magiczne detale, w tym elfią kuźnię, zagracony gabinet Elronda, fragmenty Narsila™ oraz obrazy i posągi z historii Śródziemia™. W zestawie jest też 15 minifigurek, które ożywią ulubione sceny. Minifigurki mają odczepiane nogi, więc możesz usadzić je wokół stołu i odtworzyć kultową scenę narady u Elronda™.
- 
-Nie spiesz się
- 
-Zestaw, o który ubiegali się fani, został zaprojektowany dla miłośników Władcy Pierścieni™ i wielbicieli filmu, którzy doceniają zachwycające projekty.
- 
- 
-- Zbuduj dolinę ze Śródziemia™ ⁠– zbuduj i pochwal się Rivendell™ w wersji LEGO® dzięki zestawowi dla dorosłych WŁADCA PIERŚCIENI: RIVENDELL™ (10316) 
-- 6167 elementów pełnych filmowej magii – to angażujący projekt pełen detali i odniesień do filmowej trylogii Władcy Pierścieni™, które rozpoznają wszyscy fani 
-- Szczegółowe dekoracje – detale obejmują sypialnię Froda i gabinet Elronda, a różne pomieszczenia można eksponować osobno, na przykład naradę u Elronda™ można odłączyć od głównego modelu 
-- Kultowe postacie – zestaw zawiera 15 minifigurek, w tym kultowe postacie: Froda™, Sama™, Bilba Bagginsa™, Boromira™, Gimliego™, Aragorna™, Legolasa i Gandalfa Szarego™ 
-- Odtwórz swoje ulubione sceny ⁠– zestaw ułatwia odtworzenie kultowych momentów, w tym sceny narady u Elronda™ oraz momentu, w którym Drużyna Pierścienia przekracza most na początku swojej podróży 
-- Wymiary ⁠– zestaw ma 39 cm wysokości, 75 cm szerokości i 50 cm głębokości i jest podzielony na trzy sekcje: wieżę, krąg rady i altanę z rzeką i mostem 
-- Podaruj jako prezent – zestaw będzie wspaniałym prezentem dla miłośników filmu i fanów Władcy Pierścieni™, którzy z chęcią zagłębią się w lasy Rivendell™ 
-- Nie spiesz się – zestaw jest częścią serii LEGO® dla dorosłych, którzy doceniają imponujące projekty i szczegółowe detale 
-- Wysokiej jakości materiały – klocki LEGO® są jednolite, zawsze do siebie pasują i są wykonywane z wysokiej jakości materiałów od 1958 roku 
-
-- **Stan:** Nowy
-- **Stan opakowania:** oryginalne
-- **Marka:** LEGO
-- **Numer produktu:** 19518
-- **Seria:** Inne
-- **Wiek dziecka:** 18 lat +
-- **Minimalny wiek dziecka:** 18
-- **Bohater / Bajka:** Władca Pierścieni
-- **Płeć:** chłopcy|dziewczynki
-- **Liczba elementów:** 6167
-- **Certyfikaty, opinie, atesty:** CE
-- **Waga produktu z opakowaniem jednostkowym:** 6.895
-- **Kod taryfy celnej:** 95030035
-- **EAN:** 5702017819518
-
----
-
-## 10372 — Lego Botanical Collection 10372 Hibiskus
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 374.98 zł · EAN: 05702017819570 · in stock*
-
-LEGO Botanical Collection 10372 - Hibiskus
-
-LEGO
-
-**LEGO 10372 Hibiskus**
- 
-Seria LEGO Botanical Collection
- 
-Daj się ponieść kreatywności dzięki zestawowi konstrukcyjnemu dla dorosłych LEGO® Botanicals Hibiskus (10372), który zachęca miłośników natury do zgłębienia swojej miłości do kwiatów podczas budowania pięknego hibiskusa z klocków.
- 
-Zbuduj roślinę LEGO, która ma pięć dużych kwiatów, cztery rozwijające się kwiaty i dwa młode pąki, a potem poświęć się odkrywaniu pozostałych szczegółów. Uchwyć delikatne piękno natury, tworząc duże kwiaty z płatkami w kolorze lawendy, żółte pręciki i jasnozielone liście. Po zakończeniu budowania hibiskusa możesz ustawiać płatki i liście wedle uznania, aby spersonalizować swoją kompozycję.
- 
-Zestaw konstrukcyjny z rośliną zawiera ciemnoniebieską, elegancką doniczkę. Dzięki temu pięknie wkomponuje się w wystrój domu z kwiatami i będzie świetnym prezentem na urodziny lub parapetówkę dla kobiet, mężczyzn i wszystkich początkujących florystów. Zestaw zawiera 660 elementów.
- 
- 
-- Zestaw z kwiatem dla dorosłych — daj się ponieść kreatywności dzięki zestawowi dla dorosłych LEGO® Botanicals Hibiskus, który jest pełen zachwycających szczegółów 
-- Zbuduj kwiaty LEGO® — roślina hibiskusa ma pięć dużych kwiatów, cztery rozwijające się kwiaty i dwa małe pączki 
-- Ustaw płatki — konstruktorzy mogą spersonalizować roślinkę, ustawiając płatki i liście 
-- Ozdoba LEGO® — kwiat zbudowany z klocków jest umieszczony w ciemnoniebieskiej doniczce, dzięki czemu po zakończeniu budowania możesz z dumą ustawić hibiskus jako roślinną ozdobę 
-- Kwiatowy prezent — zestaw konstrukcyjny to wspaniały prezent dla kobiet, mężczyzn i miłośników kwiatów na każdą okazję, a także przemyślany upominek na parapetówkę, prezent walentynkowy lub urodzinowy 
-- Aplikacja LEGO® Builder — instrukcje budowania są dostępne w formie cyfrowej w aplikacji LEGO Builder, w której początkujący floryści i konstruktorzy mogą powiększać i obracać model oraz śledzić postępy w budowaniu 
-- Jeszcze więcej kwiatów — ustaw ten kwiat zbudowany z klocków wraz z innymi zestawami z kolekcji LEGO® Botanicals (sprzedawanymi osobno), w której znajdziesz bukiety LEGO, drzewka bonsai i wiele więcej 
-- Wymiary — ten model hibiskusa składa się z 660 elementów i ma 36 cm wysokości, 25cm szerokości i 13 cm głębokości 
- 
-**Stan**
- 
-Nowy, oryginalnie zapakowany.
-
-- **Stan:** Nowy
-- **Stan opakowania:** oryginalne
-- **Marka:** LEGO
-- **Numer produktu:** 19570
-- **Seria:** Classic
-- **Wiek dziecka:** 18 lat +
-- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci poniżej określonego wieku. Do używania pod nadzorem osoby dorosłej|Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
-- **Minimalny wiek dziecka:** 4
-- **Bohater / Bajka:** Bluey
-- **Płeć:** chłopcy|dziewczynki
-- **Liczba elementów:** 660
-- **Certyfikaty, opinie, atesty:** CE|FSC
-- **Kod taryfy celnej:** 95030035
-- **EAN:** 5702017819570
-
----
-
-## 11938 — Lego 11938 Explorer Robot klocki zestaw Nowy
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 24.49 zł · EAN: 05702016830422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11938 |
+| Nazwa angielska | Robot |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016830422 |
 
 Klocki LEGO Explorer 11938 - Robot
 
@@ -136,11 +34,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 11938-1: https://a.allegroimg.com/original/1123d3/cf4e4e9a41d4a210a0be7d3758d5
+
 ---
 
-## 11939 — Lego 11939 Explorer Ośmiornica Octopus klocki zestaw Nowy
+## 11939 — Octopus
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702016830439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11939 |
+| Nazwa angielska | Octopus |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 63 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016830439 |
 
 LEGO Creator 11 939 OŚMIORNICA
  
@@ -164,11 +78,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 11939-1: https://a.allegroimg.com/original/11d0fd/09e21c6648c386ece199133ac5bb
+
 ---
 
-## 1388 — Nowe Klocki Lego Bionicle 1388 Tohunga Huki Hewkii Matoran Mctoran Robot
+## 1388 — Huki [McDonald's Set #1]
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 279.99 zł · EAN: 00042884013882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 1388 |
+| Nazwa angielska | Huki [McDonald's Set #1] |
+| Nazwa polska | — |
+| Seria | Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 42884013882 |
 
 NOWE Klocki LEGO Bionicle 1388 Tohunga Huki Hewkii Matoran Mctoran Robot
 
@@ -210,11 +139,26 @@ Wysyłka w BionicleWorld jest:
 
 **✅ Zaopiekowana** – Robimy wszystko, aby klocki dotarły do Ciebie bez szwanku.
 
+**Galeria:**
+
+- 1388-1: https://a.allegroimg.com/original/11628b/024a365f47fe93d5d59c139c5479
+
 ---
 
-## 20017 — Nowy Lego Prince Of Persia 20017 Dagger Trap Brick Unikat Kolekcjonerski
+## 20017 — Dagger Trap
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 209.99 zł · EAN: 00673419130493 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20017 |
+| Nazwa angielska | Dagger Trap |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419130493 |
 
 Nowy LEGO Prince Of Persia 20017 Dagger Trap Brick
 
@@ -232,11 +176,26 @@ O produkcie:
 
 Nowy LEGO Prince Of Persia 20017 Dagger Trap Brick to doskonała zabawka dla dzieci powyżej piątego roku życia. Wyprodukowana przez markę LEGO, gwarantuje nie tylko wysoką jakość wykonania, ale również długą żywotność, co pozwala na wiele godzin kreatywnej zabawy. Zestaw składa się z 48 elementów, które umożliwiają zbudowanie interesującej konstrukcji. Bohaterowie z innych bajek Disneya pozwolą dziecku rozwijać swoją wyobraźnię i kreować nowe historie. LEGO Prince Of Persia 20017 Dagger Trap Brick to doskonały wybór dla chłopców i dziewcząt, którzy uwielbiają kreatywną zabawę.
 
+**Galeria:**
+
+- 20017-1: https://a.allegroimg.com/original/115a05/a64f7e1445bd972d4491d64c3ce4
+
 ---
 
-## 212224 — Zestaw Lego Heroes Minifigure Polybag Batman with Jet Ski #212224
+## 212224 — Batman on Jet Boat
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919748938 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 212224 |
+| Nazwa angielska | Batman on Jet Boat |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919748938 |
 
 **LEGO Super Heroes polybag – Batman with Jet Ski #212224**
 
@@ -256,11 +215,26 @@ W zestawie LEGO 212224 "Batman with Jet Ski" znajdziesz niecodzienną wersję Mr
 
 To świetna opcja dla kolekcjonerów i młodych budowniczych, którzy chcą uzupełnić swoje przygody LEGO o sceny akcji na wodzie. Limitowany charakter zestawu sprawia, że jest on szczególnie atrakcyjny jako eksponat lub unikalny prezent dla fana Gotham City.
 
+**Galeria:**
+
+- 212224-1: https://a.allegroimg.com/original/11e5f2/7f92a546457ba48675397290c058
+
 ---
 
-## 212326 — Lego Heroes Minifigure Polybag Zestaw Batman with Jet #212326
+## 212326 — Batman and Batjet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702015138857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 212326 |
+| Nazwa angielska | Batman and Batjet |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015138857 |
 
 **LEGO Super Heroes polybag – Batman with Jet #212326**
 
@@ -280,11 +254,26 @@ W zestawie Batman with Jet #212326 znajdziemy dynamiczną minifigurkę Batmana o
 
 To idealny zestaw dla dzieci, które uwielbiają akcję, ale również dla kolekcjonerów ceniących polybagi z unikalnymi pojazdami. Zestaw ten łączy figurkę superbohatera z ciekawą konstrukcją, która doda urozmaicenia każdej kolekcji LEGO Super Heroes.
 
+**Galeria:**
+
+- 212326-1: https://a.allegroimg.com/original/11dfc5/ee3138f142fb9c0a97bc825dd9b9
+
 ---
 
-## 212328 — Zestaw Lego Heroes Minifigure Polybag Batmobile Tumbler #212328
+## 212328 — Batmobile Tumbler
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919748990 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 212328 |
+| Nazwa angielska | Batmobile Tumbler |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919748990 |
 
 **LEGO Super Heroes polybag – Batmobile Tumbler #212328**
 
@@ -304,11 +293,26 @@ Zestaw Batmobile Tumbler #212328 to miniaturowa wersja słynnego pojazdu Batmana
 
 Ten polybag to doskonała propozycja zarówno dla młodszych fanów Batmana, jak i kolekcjonerów, którzy szukają unikalnych wersji jego pojazdów. Zestaw może służyć jako ciekawy element ekspozycji lub mobilny dodatek do większych scenek akcji.
 
+**Galeria:**
+
+- 212328-1: https://a.allegroimg.com/original/11de50/7de1f65b492e954c7c8fa77f818d
+
 ---
 
-## 212329 — Zestaw Lego Heroes Minifigure Polybag Batwing #212329
+## 212329 — Batwing
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 18.99 zł · EAN: 00011919748945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 212329 |
+| Nazwa angielska | Batwing |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919748945 |
 
 **LEGO Super Heroes polybag – Batwing #212329**
 
@@ -334,11 +338,26 @@ Batwing #212329 to zminiaturyzowana wersja kultowego pojazdu Batmana. Model w ch
 
 Ten polybag to wyjątkowy dodatek dla każdego fana Batmana, który chce wzbogacić swoją kolekcję o pojazd legendarnego bohatera. Świetny zarówno jako ozdoba, jak i element zabawy – Batwing #212329 prezentuje się efektownie mimo niewielkich rozmiarów.
 
+**Galeria:**
+
+- 212329-1: https://a.allegroimg.com/original/1111b5/2abe4c2a436bab76e8b72cd1f958
+
 ---
 
-## 212401 — Lego Heroes Minifigure Polybag Zestaw Batman Mech #212401
+## 212401 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 05702015115926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 212401 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115926 |
 
 **LEGO Super Heroes polybag – Batman + Mega Mech #212401**
 
@@ -358,41 +377,73 @@ Zestaw LEGO 212401 „Batman + Mega Mech” zawiera minifigurkę Batmana oraz ma
 
 To unikalna pozycja w serii LEGO Super Heroes, która łączy klasyczne figurki z dynamiczną mechaniką. Edycja limitowana sprawia, że zestaw jest wartościowym elementem kolekcji oraz daje fanom możliwość tworzenia widowiskowych bitew z wykorzystaniem technologii Mrocznego Rycerza.
 
----
+**Galeria:**
 
-## 21267 — Klocki Lego Minecraft 21267 Pustynny Patrol Złosadników Dla Dziecka Zestaw
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702017819372 · in stock*
-
-Klocki LEGO Minecraft 21267 - Pustynny patrol złosadników
- 
-Ten niewielki zestaw LEGO® dla dzieci w wieku od siedmiu lat gwarantuje świetną zabawę rodem z gry Minecraft®. Dzięki czterem figurkom LEGO Minecraft, ciekawym funkcjom i realistycznym akcesoriom zestaw Pustynny patrol złosadników (21267) to mała zabawka z ogromnym potencjałem!
-
-Pustynny posterunek
- 
-Na pustynnym posterunku z gry Minecraft dzieci mogą wcielić się w rolę kaktusowego rycerza z diamentową zbroją, tarczą i mieczem. Gdy przybywa trzech złosadników, by ukraść skarb, dzieci muszą bronić posterunku. Zestaw zawiera pociski, które dzieci mogą wystrzelić palcami, różne rodzaje broni i beczkę ze skarbem. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, która pozwala dzieciom powiększać i obracać modele w 3D na urządzeniu.
-
-O zestawie
- 
- 
-- Akcja LEGO® Minecraft® na pustyni — Pustynny patrol złosadników to emocjonujący zestaw dla siedmiolatków i starszych dzieci, który przenosi popularną grę z ekranów do prawdziwego świata 
-- Cztery figurki z Minecrafta® — zawiera trzech złosadników, jednego bohatera i różne realistyczne akcesoria, w tym diamentowy miecz, tarczę i zbroję 
-- Zabawki z gry wideo — dzieci mogą powstrzymać złosadników przed kradzieżą skarbu, używając fajnych broni i wystrzeliwując pociski palcami 
-- Zestaw z pustynnym zamkiem — ten mały zestaw LEGO® zapewnia świetną zabawę rodem z gry Minecraft®, której celem jest obrona beczki ze skarbem 
-
-O zestawie
- 
- 
-- Gratka dla graczy Minecrafta® — ten mały zestaw konstrukcyjny będzie świetnym prezentem dla chłopców i dziewczynek, którzy uwielbiają przygody i grę wideo Minecraft 
-- Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) 
-- Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób. Moby, sceny i elementy ożywają za sprawą kreatywnych, praktycznych klocków LEGO 
-- Zestaw ze 105 elementami — złożony zestaw ma 8 cm wysokości, 11 cm szerokości i 6 cm głębokości
+- 212401-1: https://a.allegroimg.com/original/11e072/b1804db941498f4c4205500028dd
 
 ---
 
-## 242105 — Zestaw Lego Heroes Minifigure Polybag Thor #242105
+## 21267 — Minecraft 21267 Pustynny zegarek podstępnego
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 21.99 zł · EAN: 05702015115858 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21267 |
+| Nazwa angielska | The Illager Desert Patrol |
+| Nazwa polska | Minecraft 21267 Pustynny zegarek podstępnego |
+| Seria | Minecraft |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 105 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017815411, 5702017819372 |
+
+LEGO Minecraft 21267 Minecraft 21267 Pustynny zegarek podstępnego
+
+LEGO
+
+Pustynny patrol złosadników
+
+Minecraft® Pustynny patrol złosadników LEGO® Minecraft® Pustynny patrol złosadników Zestaw LEGO® Minecraft® Pustynny patrol złosadników 21267 Mały zestaw LEGO® Minecraft® gwarantuje mnóstwo zabawy, kiedy dzieci będą walczyć ze znanymi z gry mobami na pustynnym posterunku. Niesamowita akcja LEGO® Minecraft® na pustynnym posterunku Ten niewielki zestaw LEGO® dla dzieci w wieku od siedmiu lat gwarantuje świetną zabawę rodem z gry Minecraft®. Dzięki czterem figurkom LEGO Minecraft, ciekawym funkcjom i realistycznym akcesoriom zestaw Pustynny patrol złosadników (21267) to mała zabawka z ogromnym potencjałem!Na pustynnym posterunku z gry Minecraft dzieci mogą wcielić się w rolę kaktusowego rycerza z diamentową zbroją, tarczą i mieczem. Gdy przybywa trzech złosadników, by ukraść skarb, dzieci muszą bronić posterunku. Zestaw zawiera pociski, które dzieci mogą wystrzelić palcami, różne rodzaje broni i beczkę ze skarbem. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder, która pozwala dzieciom powiększać i obracać modele w 3D na urządzeniu. Nie pozwól złosadnikom wykraść skarbu z Twojego pustynnego posterunku! Załóż diamentową zbroję, chwyć tarczę i wystrzel pociski. To będzie epickie starcie! • Akcja LEGO® Minecraft® na pustyni — Pustynny patrol złosadników to emocjonujący zestaw dla siedmiolatków i starszych dzieci, który przenosi popularną grę z ekranów do prawdziwego świata • Cztery figurki z Minecrafta® — zawiera trzech złosadników, jednego bohatera i różne realistyczne akcesoria, w tym diamentowy miecz, tarczę i zbroję • Zabawki z gry wideo — dzieci mogą powstrzymać złosadników przed kradzieżą skarbu, używając fajnych broni i wystrzeliwując pociski palcami • Zestaw z pustynnym zamkiem — ten mały zestaw LEGO® zapewnia świetną zabawę rodem z gry Minecraft®, której celem jest obrona beczki ze skarbem • Gratka dla graczy Minecrafta® — ten mały zestaw konstrukcyjny będzie świetnym prezentem dla chłopców i dziewczynek, którzy uwielbiają przygody i grę wideo Minecraft • Jeszcze więcej zabawy — praktyczną i twórczą zabawę zapewniają także inne zestawy z serii LEGO® Minecraft® (sprzedawane osobno) • Minecraft® na żywo — zestawy LEGO® Minecraft pozwalają dzieciom czerpać radość z gry na nowy sposób.
+
+- **Stan:** Nowy
+- **Stan opakowania:** oryginalne
+- **Marka:** LEGO
+- **Numer produktu:** 21267
+- **Wiek dziecka:** 7 lat +
+- **Nazwa zestawu:** Minecraft 21267 Pustynny zegarek podstępnego
+- **Informacje dot. bezpieczeństwa i zgodności produktu:** Nie nadaje się dla dzieci w wieku poniżej 36 miesięcy
+- **Minimalny wiek dziecka:** 7
+- **Bohater / Bajka:** Minecraft
+- **Płeć:** chłopcy
+- **Liczba elementów:** 105
+- **Certyfikaty, opinie, atesty:** CE|EN 71
+- **Waga produktu z opakowaniem jednostkowym:** 0.162
+- **Kod taryfy celnej:** 95030035
+- **EAN:** 5702017815411
+
+**Galeria:**
+
+- 21267-1: https://a.allegroimg.com/original/059d17/17f83e1a4f74a9c598c9b7debad2
+- 21267-2: https://a.allegroimg.com/original/11d5d7/b74fc2234f11848dfd98e8a06e37
+
+---
+
+## 242105 — Thor
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 242105 |
+| Nazwa angielska | Thor |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115858 |
 
 **LEGO Super Heroes polybag – Thor #242105**
 
@@ -412,11 +463,27 @@ Thor – Bóg Piorunów – powraca w klasycznej formie jako minifigurka LEGO w 
 
 Zestaw ten to doskonała gratka dla fanów Marvela oraz kolekcjonerów polybagów. Thor #242105 sprawdzi się zarówno jako unikalna figurka na półkę, jak i świetny dodatek do zabawy w uniwersum Avengers. Jego legendarna obecność uzupełni każdą kolekcję superbohaterów LEGO.
 
+**Galeria:**
+
+- 242105-1: https://a.allegroimg.com/original/11c8bb/6c1eca4841e39c0c820b6c89fff8
+
 ---
 
-## 242317 — Lego Heroes Minifigure Polybag Doctor Strange #242317
+## 242317 — Doctor Strange
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 18.99 zł · EAN: 00011919749157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 242317 |
+| Nazwa angielska | Doctor Strange |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749157 |
 
 **LEGO Super Heroes polybag – Doctor Strange #242317**
 
@@ -436,11 +503,26 @@ Doctor Strange #242317 to figurka przedstawiająca Mistrza Sztuk Mistycznych w j
 
 Dla fanów Marvel Cinematic Universe oraz komiksów, Doctor Strange jest nieodzowną postacią w kolekcji. Jego obecność w polybagu to idealna okazja, by uzupełnić serię superbohaterów LEGO o postać, która balansuje między rzeczywistością a wymiarem magicznym.
 
+**Galeria:**
+
+- 242317-1: https://a.allegroimg.com/original/117c85/fd9719a34da68d66da2ffe4201f3
+
 ---
 
-## 271713 — Lego Nexo Knights Merlok 2,0 271713
+## 271713 — Merlok 2.0
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 9.50 zł · EAN: 05060976580130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 271713 |
+| Nazwa angielska | Merlok 2.0 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919110537, 5060976580130 |
 
 LEGO NEXO KNIGHTS
 
@@ -452,11 +534,27 @@ MERLOK 2,0 271713
 
 **Edycja limitowana!**
 
+**Galeria:**
+
+- 271713-1: https://7.allegroimg.com/original/01d6c8/3afdab0148c5a72def41c7f74057
+- 271713-2: https://a.allegroimg.com/original/11d555/3769a5a44902944b05648d629426
+
 ---
 
-## 271719 — Zestaw Lego Star Wars Minifigure Polybag -Stone Giants' Gun #271719
+## 271719 — Stone Giants' Gun
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.99 zł · EAN: 00011919110568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 271719 |
+| Nazwa angielska | Stone Giants' Gun |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919110568 |
 
 **LEGO Nexo Knights polybag – Stone Giants’ Gun #271719**
 
@@ -477,11 +575,26 @@ Zestaw LEGO 271719 „Stone Giants’ Gun” to kompaktowy model futurystycznej 
 
 Dostępny wyłącznie w limitowanej edycji magazynowej, ten model to gratka dla kolekcjonerów i fanów serii Nexo Knights. Jego szczegółowe odwzorowanie broni i solidna konstrukcja sprawiają, że świetnie nadaje się zarówno jako element ekspozycji, jak i przydatny dodatek do scen bitewnych z rycerzami fantasy.
 
+**Galeria:**
+
+- 271719-1: https://a.allegroimg.com/original/113688/e3e7e0754676b10025474fec1443
+
 ---
 
-## 271720 — Zestaw Lego Star Wars Minifigure Polybag Macy #271720
+## 271720 — Macy
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.99 zł · EAN: 00011919333387 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 271720 |
+| Nazwa angielska | Macy |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919333387 |
 
 **LEGO Nexo Knights polybag – Macy #271720**
 
@@ -502,11 +615,26 @@ Zestaw LEGO 271720 „Macy” zawiera samą minifigurkę Macy - potężnej wojow
 
 Jako limitowana edycja z magazynu, Macy stanowi wartościową pozycję dla kolekcjonerów i fanów serii. Doskonale komponuje się z innymi postaciami i zestawami, oferując dobrze odwzorowaną bohaterkę w kompaktowej formie.
 
+**Galeria:**
+
+- 271720-1: https://a.allegroimg.com/original/110258/89c973fe4f63a8f34bcdecd680d3
+
 ---
 
-## 271825 — Zestaw Lego Star Wars Minifigure Polybag Aaron 2 #271825
+## 271825 — Aaron
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.99 zł · EAN: 00011919110544 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 271825 |
+| Nazwa angielska | Aaron |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919110544 |
 
 **LEGO Nexo Knights polybag – Aaron 2 #271825**
 
@@ -527,11 +655,26 @@ Zestaw Aaron 2 prezentuje Aarona Foxa w perłowo-złotej zbroi, z bogato zdobi
 
 Jako limitowana edycja dostępna z magazynem Nexo Knights, Aaron 2 to wyjątkowy prezent dla kolekcjonerów serii. Estetyczne wykonanie i kompaktowy wygląd czynią go perfekcyjnym dodatkiem do ekspozycji lub dioramy.
 
+**Galeria:**
+
+- 271825-1: https://a.allegroimg.com/original/115c01/ea03b5bd43b1a2b0bbb3791f7958
+
 ---
 
-## 271830 — Zestaw Lego Star Wars Minifigure Polybag Knight Soldier #271830
+## 271830 — King's Guard
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.99 zł · EAN: 00011919110551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 271830 |
+| Nazwa angielska | King's Guard |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919110551 |
 
 **LEGO Nexo Knights polybag – Knight Soldier #271830**
 
@@ -552,11 +695,26 @@ Zestaw Knight Soldier przedstawia żołnierza z królewskich oddziałów w perł
 
 Dostępny jako limitowana edycja z magazynu, zestaw Knight Soldier to idealny wybór dla kolekcjonerów, którzy pragną włączyć do swojej ekspozycji reprezentacyjnego wojownika. Subtelne detale i ekskluzywna zbroja sprawiają, że zestaw wygląda świetnie solo lub w towarzystwie innych rycerzy.
 
+**Galeria:**
+
+- 271830-1: https://a.allegroimg.com/original/11d50c/8a35ee504291aabd6ddb9777035e
+
 ---
 
-## 2871 — nowy 2871 Lego System Divers Town biały Rekin nurek minifigurka Misb 1997
+## 2871 — Diver and Shark
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702010928712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2871 |
+| Nazwa angielska | Diver and Shark |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702010928712 |
 
 Cześć!
 
@@ -574,11 +732,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2871-1: https://a.allegroimg.com/original/11100c/d24828ed446fbc87ce3aa2ae5d9b
+
 ---
 
-## 30061 — 30061 Lego Knights' Kingdom Attack wagon
+## 30061 — Attack Wagon
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702014711891 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30061 |
+| Nazwa angielska | Attack Wagon |
+| Nazwa polska | — |
+| Seria | Kingdoms |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014711891 |
 
 **LEGO zestaw  - polybag**
 
@@ -604,11 +777,26 @@ Pozdrawiam.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 30061-1: https://a.allegroimg.com/original/1167ae/2f68cfcf4be29d9701b577d5ce36
+
 ---
 
-## 30062 — nowy 30062 Lego Castle Polybag Rycerz minifigurka kusznik Misb 2010
+## 30062 — Target Practice
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 214.00 zł · EAN: 00673419147378 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30062 |
+| Nazwa angielska | Target Practice |
+| Nazwa polska | — |
+| Seria | Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 26 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419147378 |
 
 Cześć!
 
@@ -626,11 +814,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30062-1: https://a.allegroimg.com/original/11d934/a3f597d14b57b5e8982e9b7aff0d
+
 ---
 
-## 30081 — Lego Ninjago 30081 Frakjaw Helikopter saszetka klocki unikat
+## 30081 — Skeleton Chopper
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702014807327 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30081 |
+| Nazwa angielska | Skeleton Chopper |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014807327 |
 
 Witam
 
@@ -646,11 +850,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30081-1: https://a.allegroimg.com/original/11929c/d990bd4b41a1b76dac01f720f6c4
+
 ---
 
-## 30398 — Lego Figurka 30398 Olivia przygoda most kemping saszetka klocki minifigurka
+## 30398 — Adventure Camp Bridge
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 37.00 zł · EAN: 05702015608794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30398 |
+| Nazwa angielska | Adventure Camp Bridge |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608794 |
 
 Witam
 
@@ -666,11 +886,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30398-1: https://a.allegroimg.com/original/1196e5/ba7b9a4f4e32a51e81b8a71ab815
+
 ---
 
-## 30601 — Lego 30601 Scooby-Doo saszetka klocki minifigurka unikat model wycofany
+## 30601 — Scooby-Doo
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015773348 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30601 |
+| Nazwa angielska | Scooby-Doo |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015773348 |
 
 Witam
 
@@ -686,11 +921,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30601-1: https://a.allegroimg.com/original/110127/40a124794d9ea190e83dbfe59413
+
 ---
 
-## 30602 — Lego Star Wars 30602 Szturmowiec First Order 2016
+## 30602 — First Order Stormtrooper
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702015608763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30602 |
+| Nazwa angielska | First Order Stormtrooper |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015608763, 673419251273 |
 
 **LEGO Star Wars First Order Stormtrooper 30602 – KOLEKCJONERSKI ZESTAW**
 
@@ -720,11 +971,27 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający żołnierza F
 
 **• Zestaw nowy, fabrycznie zaplombowany polybag**
 
+**Galeria:**
+
+- 30602-1: https://c.allegroimg.com/original/01764b/086b061f404aa83ead52541b5f0c
+- 30602-2: https://a.allegroimg.com/original/110276/04d8914947eb8dff805450ba093b
+
 ---
 
-## 30609 — Lego Minifigurka "Lloyd Polybag" (30609-1) Ninjago
+## 30609 — Lloyd
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702015998307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30609 |
+| Nazwa angielska | Lloyd |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015998307 |
 
 **Oryginalna minifigurka LEGO® Lloyd Polybag (30609-1) – Ninjago, kolekcjonerska figurka**
 
@@ -771,11 +1038,27 @@ Każda figurka ma swoją historię i charakter – stwórz własną galerię boh
 - Pakowanie zastawów odbywa się pod nadzorem kamery.
 - Proszę o jak najszybsze wystawianie komentarza, dzięki temu będę wiedział czy wszystko było w porządku.
 
+**Galeria:**
+
+- 30609-1: https://a.allegroimg.com/original/11e016/0a85ce5c4eae97cbcdc0b5b9658a
+
 ---
 
-## 30615 — Lego Disney Iniemamocni 2 Edna Mode 30615 Nowy Foliopak
+## 30615 — Edna Mode
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702016123821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30615 |
+| Nazwa angielska | Edna Mode |
+| Nazwa polska | — |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016123821 |
 
 Klocki LEGO 30615 Edna Mode
  
@@ -784,11 +1067,27 @@ Klocki LEGO 30615 Edna Mode
 
 Zestaw klocków LEGO Edna Mode 30615 został zaprezentowany w 2018 roku i zbudowany jest z 4 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia. Numer EAN zestawu klocków LEGO® 30615 to: **5702016123821**.
 
+**Galeria:**
+
+- 30615-1: https://a.allegroimg.com/original/113ca4/44ee7d714a178ab58a4f2c91283d
+
 ---
 
-## 30624 — Minifigurka Lego Star Wars Obi-Wan Kenobi 30624 Unikat
+## 30624 — Obi-Wan Kenobi - Collectible Minifigure
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016519402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30624 |
+| Nazwa angielska | Obi-Wan Kenobi - Collectible Minifigure |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016519402, 673419312431 |
 
 **LEGO Star Wars Obi-Wan Kenobi™ 30624 – KOLEKCJONERSKI ZESTAW**
 
@@ -820,11 +1119,27 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 
 **• Zestaw nowy, fabrycznie zaplombowany**
 
+**Galeria:**
+
+- 30624-1: https://a.allegroimg.com/original/117320/a2bfa4254cb2a55985353672c719
+- 30624-2: https://a.allegroimg.com/original/03aa93/a1f0b1194c32bc0a7116944ee9bd
+
 ---
 
-## 334380 — Lego Star Wars Pluszak Maskotka Yoda 334380
+## 334380 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 128.95 zł · EAN: 00011964504930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 334380 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11964504930 |
 
 **LEGO PLUSZAK - MASKOTKA**
 
@@ -861,11 +1176,26 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 - **Tylko do czyszczenia zewnętrznego**
 - **Miękka tkanina 100% poliester z haftowanymi detalami dekoracyjnymi.**
 
+**Galeria:**
+
+- 334380-1: https://a.allegroimg.com/original/11d4a4/b6747e47431780b1a6fcc6342540
+
 ---
 
-## 342150 — Lego Star Wars Pluszak Maskotka Ewok 342150
+## 342150 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702014974777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 342150 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014974777 |
 
 **LEGO PLUSZAK - MASKOTKA**
 
@@ -900,11 +1230,26 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 - **Tylko do czyszczenia zewnętrznego**
 - **Miękka tkanina 100% poliester z haftowanymi detalami dekoracyjnymi.**
 
+**Galeria:**
+
+- 342150-1: https://a.allegroimg.com/original/11871e/ac8746fb47e39c539b2b8dbb8255
+
 ---
 
-## 345910 — Lego Pluszak Różowy Astronauta Benny 345910
+## 345910 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.90 zł · EAN: 00011964511181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 345910 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11964511181 |
 
 **LEGO PLUSZAK - MASKOTKA**
 
@@ -941,11 +1286,26 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 - **Tylko do czyszczenia zewnętrznego**
 - **Miękka tkanina 100% poliester z haftowanymi detalami dekoracyjnymi.**
 
+**Galeria:**
+
+- 345910-1: https://a.allegroimg.com/original/118c5c/c1d0e80f4d8a83eba0ef6fbe1304
+
 ---
 
-## 350250 — Lego Ninjago Pluszak Maskotka Lloyd 350250
+## 350250 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.95 zł · EAN: 00011964518203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 350250 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11964518203 |
 
 **LEGO PLUSZAK - MASKOTKA**
 
@@ -982,11 +1342,26 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 - **Tylko do czyszczenia zewnętrznego**
 - **Miękka tkanina 100% poliester z haftowanymi detalami dekoracyjnymi.**
 
+**Galeria:**
+
+- 350250-1: https://a.allegroimg.com/original/11b05b/db27d31b4736865b7d91cd462e90
+
 ---
 
-## 354030 — Lego 354030 Friends Pluszak Maskotka Piesek Daisy
+## 354030 — Friends Daisy Dog Plush
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017415062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 354030 |
+| Nazwa angielska | Friends Daisy Dog Plush |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415062 |
 
 **LEGO PLUSZAK - MASKOTKA**
 
@@ -1025,11 +1400,26 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 - **Tylko do czyszczenia zewnętrznego**
 - **Miękka tkanina 100% poliester z haftowanymi detalami dekoracyjnymi.**
 
+**Galeria:**
+
+- 354030-1: https://a.allegroimg.com/original/116ba7/6754d45e42249f40d97bf158b4dc
+
 ---
 
-## 391502 — Lego Chima Minifigure Polybag Ice Crossbow #391502
+## 391502 — Ice Crossbow
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 05060976588082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 391502 |
+| Nazwa angielska | Ice Crossbow |
+| Nazwa polska | — |
+| Seria | Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588082 |
 
 **LEGO Chima polybag – Ice Crossbow #391502**
 
@@ -1049,33 +1439,27 @@ Na sprzedaż kolekcjonerski zestaw LEGO Star Wars przedstawiający Obi-Wana Keno
 
 Kusza z lodem idealnie wpisuje się w tematykę mroźnych bitew i harmonii między żywiołami. To minimalistyczny, ale klimatyczny zestaw, często poszukiwany przez kolekcjonerów jako rzadki dodatek z magazynów LEGO.
 
----
+**Galeria:**
 
-## 4002018 — Klocki Lego 4002018 40 Lat Minifigurki Employee Kolekcja List Pracowniczy
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 984.90 zł · EAN: 00673419308694 · in stock*
-
-LEGO 4002018 40 Lat Minifigurki List Pracowniczy Employee Gift Kolekcja
-
-Zestaw **LEGO 4002018** to ekskluzywny prezent świąteczny, który firma LEGO wręczyła swoim pracownikom w grudniu 2018 roku, aby uczcić **40-lecie minifigurki LEGO**. Zestaw zawiera **1099 elementów** i składa się z kilku unikalnych konstrukcji:
-
-Gratis List z podziękowaniem dla pracowników Lego
-
-- **Duża figurka Świętego Mikołaja** zbudowana z klocków,
-- **Sanie** z miejscem na prezenty,
-- **Renifer** ciągnący sanie,
-- **Trzy kolorowe prezenty** (biały, zielony i niebieski), z których każdy zawiera niespodziankę w postaci klasycznej minifigurki:
-**Niebieski prezent**: minifigurka lekarza z zestawu Town Minifigures (6301) z 1986 roku,
-
-**Zielony prezent**: minifigurka pirata z zestawu Skull’s Eye Schooner (6286) z 1993 roku,
-
-Zestaw został zaprojektowany przez projektantów LEGO Carla Merriama i Maxa Valemboisa.
+- 391502-1: https://a.allegroimg.com/original/118dac/6733d0b34681868cd4945b3a6f62
 
 ---
 
-## 40034 — Lego 40034 Świąteczny pociąg
+## 40034 — Christmas Train
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419174152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40034 |
+| Nazwa angielska | Christmas Train |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419174152 |
 
 **LEGO zestaw  - polybag**
 
@@ -1101,11 +1485,27 @@ Zestaw został zaprojektowany przez projektantów LEGO Carla Merriama i Maxa Val
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 40034-1: https://a.allegroimg.com/original/1190a8/6b6e9a364953916e09e7d6b10f8a
+
 ---
 
-## 40055 — Lego 40055 Okolicznościowe Halloween Dynia Unikat 2013 Rok!
+## 40055 — Pumpkin
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 119.00 zł · EAN: 00673419183796 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40055 |
+| Nazwa angielska | Pumpkin |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419183796 |
 
 **Cechy produktu:**
  
@@ -1115,11 +1515,27 @@ Zestaw został zaprojektowany przez projektantów LEGO Carla Merriama i Maxa Val
 
 **Saszetki mogą występować w różnym stanie wizualnym. Często posiadają zagniecenia, ślady przechowywania lub transportu, a także pozostałości kleju lub taśmy wynikające z fabrycznego mocowania. Saszetki nie były otwierane ani modyfikowane, a ich zawartość jest oryginalna.**
 
+**Galeria:**
+
+- 40055-1: https://a.allegroimg.com/original/11c7ef/27940ab640cc8492638fae874b93
+
 ---
 
-## 40056 — Lego 40056 Okolicznościowe Święto Dziękczynienia Polybag
+## 40056 — Thanksgiving Feast
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 89.90 zł · EAN: 00673419183802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40056 |
+| Nazwa angielska | Thanksgiving Feast |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419183802 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -1131,11 +1547,26 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 40056-1: https://a.allegroimg.com/original/11d8ea/a0cd66c243229f6db6e7878e73d3
+
 ---
 
-## 40178 — Lego Zestaw Dla Vip-Ów Z Motywem Lego 40178
+## 40178 — Iconic VIP Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702015997683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40178 |
+| Nazwa angielska | Iconic VIP Set |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 205 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015997683 |
 
 - Zestaw LEGO 40178 "Zestaw Dla Vip-Ów Z Motywem Lego" to ekskluzywny zestaw stworzony specjalnie dla prawdziwych miłośników LEGO. Ten limitowany zestaw składa się z VIP-owskich akcesoriów, które podkreślają wyjątkowość i prestiż bycia częścią społeczności VIP. 
 W tym zestawie znajdziesz różnorodne elementy związane z motywem LEGO, takie jak unikalne klocki, gadżety, plakaty czy specjalne wydania katalogów. Każdy z elementów został starannie dobrany, aby zapewnić VIP-om niepowtarzalne doznania i wyjątkowe doświadczenia związane z kreatywnym światem LEGO.
@@ -1144,11 +1575,27 @@ Ten zestaw "Zestaw Dla Vip-Ów Z Motywem Lego" to nie tylko doskonała propozycj
  
 Nie przegap okazji, aby stać się VIP-em i zdobyć ten niezwykły zestaw z motywem LEGO. Pozwól sobie na pełne zaangażowanie w pasję i odkryj, dlaczego LEGO przyciąga i inspiruje ludzi na całym świecie. Niech ten zestaw umocni Twoje powiązania z LEGO i zapewni wyjątkowe wrażenia, które będą Cię cieszyć przez wiele lat.
 
+**Galeria:**
+
+- 40178-1: https://a.allegroimg.com/original/115b88/8caa2c324cf4b151698d67d93925
+
 ---
 
-## 40261 — Lego 40261 Okolicznościowe Plony na Święto Dziękczynienia
+## 40261 — Thanksgiving Harvest
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702015868464 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40261 |
+| Nazwa angielska | Thanksgiving Harvest |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 133 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 15 cm × gł. 12 cm |
+| EAN | 5702015868464 |
 
 LEGO 40261 Okolicznościowe Plony na Święto Dziękczynienia
 
@@ -1160,21 +1607,51 @@ Zestaw LEGO® Żniwa z okazji Święta Dziękczynienia zawiera dwie minifigurki 
 - Zestaw zawiera powóz w klasycznym stylu, drzewo z sezonowymi kolorowymi liśćmi, trawę z różnymi uprawami, kosz, wiadro, widły i stracha na wróble do zbudowania.
 - Wymiary: 6 cm wysokości, 15 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 40261-1: https://a.allegroimg.com/original/11c233/a7089ad547b0b549a01b5ef01cde
+
 ---
 
-## 40287 — Lego 40287 Minibudowa Sanie
+## 40287 — Sleigh
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016122572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40287 |
+| Nazwa angielska | Sleigh |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122572 |
 
 LEGO 40287 MINIBUDOWA SANIE
 
 Minizestaw miesiąca na grudzień 2018 — sanie. Zestaw klocków LEGO 40287 Sanie został pokazany w 2018 roku i składa się z 64 klocków LEGO®. Zestaw klocków przeznaczony jest dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 40287-1: https://a.allegroimg.com/original/113a76/2d6e80b84b95904e89ba01527330
+
 ---
 
-## 40308 — Lego Englishman Leicester 40308 saszetka klocki minifigurka
+## 40308 — Lester
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702016160307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40308 |
+| Nazwa angielska | Lester |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2017 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016160307 |
 
 Witam
 
@@ -1192,21 +1669,52 @@ Rafał
 
 LEGO 40308 Leicester Lester to 5-częściowy zestaw promocyjny z 1 minifigurką wydany w 2017 roku.
 
+**Galeria:**
+
+- 40308-1: https://a.allegroimg.com/original/1139c5/97787065452c8b444b5d9b7ab383
+
 ---
 
-## 40322 — Lego 40322 Minibudowa Gąsienica
+## 40322 — Caterpillar
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016371130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40322 |
+| Nazwa angielska | Caterpillar |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371130 |
 
 LEGO 40322 MINIBUDOWA GĄSIENICA
 
 Minizestaw miesiąca na luty 2019 — gąsienica. Zestaw klocków LEGO 40322 Gąsienica został pokazany w 2019 roku i zbudowany jest z 48 klocków LEGO®. Klocki przeznaczone są dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 40322-1: https://a.allegroimg.com/original/11c400/40ea3e6140ffbb22db93f92b5db5
+
 ---
 
-## 40342 — Zestaw minifigurek Lego Ninjago 40342
+## 40342 — Minifigure Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 129.00 zł · EAN: 00673419304955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40342 |
+| Nazwa angielska | Minifigure Pack |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419304955 |
 
 LEGO 40342 ZESTAW MINIFIGUREK NINJAGO 2019
 
@@ -1219,11 +1727,26 @@ Przygotuj się na niezapomniane przygody z zestawem dla dzieci 40342 LEGO® Zest
 - W zestawie jest też zbudowany z klocków stojak na broń z dodatkowym uzbrojeniem. 
 - To doskonały prezent dla dzieci, ponieważ można używać go z innymi zestawami konstrukcyjnymi LEGO® NINJAGO®.
 
+**Galeria:**
+
+- 40342-1: https://a.allegroimg.com/original/11def4/2038d6f547b1883aab363898db8a
+
 ---
 
-## 40344 — Lego Exclusive 40344 Zestaw minifigurek Wakacje Papuga Nurek Surferka
+## 40344 — Summer Celebration Minifigure Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 139.99 zł · EAN: 00673419305013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40344 |
+| Nazwa angielska | Summer Celebration Minifigure Set |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305013 |
 
 LEGO EXCLUSIVE MINIFIGURE 40344 Zestaw minifigurek - Wakacje
 
@@ -1243,11 +1766,27 @@ Nie przegap okazji, aby wprowadzić słońce do dnia Twojego dziecka! Oferujemy 
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 40344-1: https://a.allegroimg.com/original/113f8d/13965c8e4ed1992bdd9c1a6ee78d
+
 ---
 
-## 40345 — Lego City 40345 Minifigurki kosmonauci misja na Marsa
+## 40345 — Mars Exploration Minifigure Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 79.90 zł · EAN: 00673419305020 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40345 |
+| Nazwa angielska | Mars Exploration Minifigure Pack |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305020 |
 
 LEGO CITY 40345 Zestaw minifigurek LEGO® City
  
@@ -1264,11 +1803,26 @@ Zestaw minifigurek — LEGO® City 2019 (40345) z dwiema astronautkami i dwojgie
 - Minifigurka astronautki w biało-zielonym kombinezonie oraz zielone geody występują jedynie w tym zestawie. 
 - To doskonały prezent dla dzieci, ponieważ można używać go z innymi zestawami konstrukcyjnymi LEGO® City.
 
+**Galeria:**
+
+- 40345-1: https://a.allegroimg.com/original/030e79/9bddf64b4ee8a63af54b43ed0d9b
+
 ---
 
-## 40373 — Lego 40373 Minifigurki Zestaw Akcesoriów I Minifigurek Z Lunaparku Lego
+## 40373 — Fairground Minifigure Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 65.00 zł · EAN: 00673419320573 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40373 |
+| Nazwa angielska | Fairground Minifigure Accessory Set |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320573 |
 
 LEGO® 40373 Zestaw akcesoriów i minifigurek z lunaparku
 
@@ -1279,11 +1833,26 @@ Nie ociągaj się, bo w zestawie akcesoriów i minifigurek z lunaparku LEGO® Ic
 - W zestawie są cztery minifigurki, w tym dziewczynka (z nowym, dostępnym od stycznia 2020 r. wzorem twarzy i obrazkiem jednorożca na ubraniu), jej tata i dwóch pracowników wesołego miasteczka, a do tego megafon i dwa elementy akcesoriów związanych z lodami, które zachęcą dzieci do używania wyobraźni. 
 - Zestaw do budowania będzie idealnym prezentem na urodziny lub pod choinkę dla dzieci w wieku od 6 lat, które mogą połączyć go z zabawkami LEGO® ze swojej kolekcji. Zawiera proste instrukcje, więc nawet początkujący budowniczowie bez trudu poradzą sobie ze złożeniem klocków.
 
+**Galeria:**
+
+- 40373-1: https://a.allegroimg.com/original/0336ad/884cf25c49c09b6d03e069f94416
+
 ---
 
-## 40504 — Klocki Lego House Zestaw Home of the Brick Kapitan Rudobrody Pirat 40504
+## 40504 — A Minifigure Tribute
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 719.00 zł · EAN: 05702017434216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40504 |
+| Nazwa angielska | A Minifigure Tribute |
+| Nazwa polska | — |
+| Seria | Pirates |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434216 |
 
 Zestaw kolekcjonerski 40504
  
@@ -1305,33 +1874,77 @@ Ta figura składa się z 1401 części i ma 30 cm wysokości. w zestawie znajduj
  
 Zestaw LEGO 40504 Hołd dla minifigurek powstał na cześć 45. rocznicy powstania minifigurki. Ta figurka Kapitana Rudobrodego jest wzorowana na wariancie z zestawu LEGO 6285 Black Seas Barracuda.
 
----
+**Galeria:**
 
-## 4052 — nowy Lego System 4052 Studios Steven Spielberg reżyser Nesquik Misb 2001
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702012018992 · in stock*
-
-Cześć!
-
-Zapraszam Cię do zakupu fabrycznie nowego zestawu z mojej kolekcji: LEGO 4052 Lego Studios Kamera Operator Nesquik
-
-UNIKATOWY ZESTAW POCHODZI Z 2001 ROKU I JEST WYCOFANY Z PRODUKCJI.
-
-GRATKA DLA KOLEKCJONERÓW
-
-Klocki z mojej oferty są przetrzymywane w sterylnych warunkach, w specjalnym pomieszczeniu wolnym od dymu papierosowego i zwierząt.
-
-Zapraszam również do sprawdzenia innych moich ofert ponieważ dysponuję bardzo dużą ilością innych zestawów i minifigurek. Nowości są dodawane na bieżąco.
-
-W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten sam.
-
-Pozdrawiam.
+- 40504-1: https://a.allegroimg.com/original/115270/94824fce48999a13bf2be4cf6ad5
 
 ---
 
-## 4053 — nowy Lego 4053 System Studios Kamera Operator Nesquik Misb 2001
+## 4052 — Director
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 58.99 zł · EAN: 05702012019005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4052 |
+| Nazwa angielska | Director |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012018992, 887988014829 |
+
+**SERIA - CITY**
+
+**LUNCH BOX POJEMNIK  NA KANAPKI**
+
+**ŚNIADANIÓWKA POLICJA**
+
+- **Na wieczku atrakcyjna grafika**
+- **Łatwo się otwiera - zamknięcie na wygodny klips**
+- **Ze sprytnym przesuwanym przedziałkiem w środku**
+- **Wieczko może służyć jako oryginalny talerzyk**
+- **Nadaje się do mycia w zmywarce**
+
+**Wykonany z polipropylenu (wolny od BPA, ftalanów oraz PCW).**
+
+**NR.KATALOGOWY - 40521735**
+
+**wiek 3 +**
+
+**POJEMNIK WYMIARY - 170 x 135 x 69 mm**
+
+**- OFEROWANY POJEMNIK POSIADAM NA STANIE.**
+
+**- POJEMNIK LEGO JEST NOWY I ORYGINALNY.**
+
+**Lunch box ozdobiony jest współczesnymi grafikami z motywami LEGO. Wieczko tego lunch boxa (dzięki wygodnym klipsom) może służyć jako odlotowy talerzyk. Wewnątrz pojemnika znajduje się przesuwany przedziałek, który sprytnie dzieli go na dwie części - jedną na kanapkę, drugą np. na kawałki świeżych owoców.  Pojemnik zapewnia bezpieczny i wygodny sposób na spakowanie codziennego lunchu, bez konieczności używania zbędnych opakowań.**
+
+- **Nadaje się do mycia w zmywarce**
+- **Materiał: wykonano z polipropylenu. Producent nie stosuje BPA, ftalanów ani PCW**
+
+**Galeria:**
+
+- 4052-1: https://a.allegroimg.com/original/11ecd5/6520bc99481bb7236321e35a8842
+- 4052-2: https://a.allegroimg.com/original/11fb96/ff9e7e5c4a97b412e5ea0debcb5d
+
+---
+
+## 4053 — Cameraman
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4053 |
+| Nazwa angielska | Cameraman |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2001 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012019005 |
 
 Cześć!
 
@@ -1349,27 +1962,85 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
----
+**Galeria:**
 
-## 40547 — Unikat 40547 Lego Star Wars Celebration Brickheadz Obi-Wan Vader Misb 2022
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1998.92 zł · EAN: 00673419365888 · in stock*
-
-Nowy, fabrycznie zamknięty zestaw Lego. Unikatowe wydanie ze Star Wars Celebration Anheim 2022.
-
-Rocznik: **2022**
-
-Seria:** Star Wars**
-
-Numer:** 40547-2**
-
-Nazwa: **Obi-Wan Kenobi & Darth Vader {Star Wars Celebration 2022 Version}**
+- 4053-1: https://a.allegroimg.com/original/11a668/5e07f9b34fc397cde4b2be14d2e5
 
 ---
 
-## 40649 — Lego 40649 Powiększona minifigurka Lego
+## 40547 — Klocki LEGO Brickheadz Star Wars 40547 Obi-Wan Kenobi i Darth Vader
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702017421650 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40547 |
+| Nazwa angielska | Obi-Wan Kenobi & Darth Vader |
+| Nazwa polska | Klocki LEGO Brickheadz Star Wars 40547 Obi-Wan Kenobi i Darth Vader |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241791, 673419365888 |
+
+ZESTAW LEGO BRICKHEADZ STAR WARS - 40547 - OBI-WAN KENOBI I DARTH VADER
+
+✅ Najważniejsze cechy zestawu :
+
+**Seria** : LEGO Brickheadz
+
+**Numer zestawu** : 40547
+
+**Elementy** : 260
+
+**Minifigurki** : 2
+
+**Sugerowany wiek** : 10+
+
+**Wymiary opakowania** : 19cm x 14cm x 7cm
+
+**Waga opakowania** : 270g
+
+**Wymiary zestawu** : 13cm x 8cm x 4cm
+
+**Stan** : Nowy w zaplombowanym pudełku
+
+**Gwarancja** : 24 miesiące
+
+✅ Obi-Wan Kenobi i Darth Vader – legendarne starcie w stylu BrickHeadz
+
+Zestaw LEGO BrickHeadz 40547 „Obi-Wan Kenobi i Darth Vader” to wyjątkowa propozycja dla fanów uniwersum Star Wars, która pozwala odtworzyć jedno z najbardziej ikonicznych starć w historii sagi. W tej kolekcjonerskiej odsłonie LEGO przedstawia dwóch legendarnych bohaterów: mistrza Jedi Obi-Wana Kenobiego oraz jego dawnego ucznia, który przeszedł na ciemną stronę Mocy – Dartha Vadera. Każda z figurek została zaprojektowana w charakterystycznym, uproszczonym stylu BrickHeadz, który mimo swojej klockowej formy zachowuje rozpoznawalne detale postaci. Zestaw składa się z 260 elementów, co sprawia, że budowa jest szybka, ale jednocześnie satysfakcjonująca. W modelu nie zabrakło takich detali jak miecze świetlne obu bohaterów czy charakterystyczne czerwone oczy Dartha Vadera, które podkreślają jego mroczną stronę.
+
+✅ Kolekcjonerski i ekspozycyjny charakter
+
+Model został stworzony z myślą o fanach, którzy chcą nie tylko budować, ale także kolekcjonować i eksponować swoje ulubione postacie z uniwersum Star Wars. Każda figurka ma około 8 cm wysokości i stoi na własnej podstawce konstrukcyjnej, co umożliwia ich wspólne lub osobne ustawienie. Dzięki temu zestaw świetnie sprawdza się jako dekoracja biurka, półki lub element większej kolekcji LEGO BrickHeadz. Seria pozwala tworzyć rozbudowane kolekcje różnych bohaterów, a ten zestaw stanowi ważny element dla fanów sagi Star Wars. W pudełku znajduje się papierowa instrukcja budowania, a dodatkowo dostępna jest ona także w aplikacji LEGO Builder na smartfony i tablety, co znacznie ułatwia proces składania i pozwala wygodnie śledzić kolejne etapy budowy. To sprawia, że nawet mniej doświadczeni konstruktorzy poradzą sobie bez problemu z montażem modeli.
+
+✅ Świetny pomysł na prezent
+
+LEGO BrickHeadz 40547 to idealny wybór dla każdego fana Star Wars, który chce mieć w swojej kolekcji symboliczne przedstawienie jednego z najważniejszych konfliktów w galaktyce. Dzięki kompaktowej formie, kolekcjonerskiemu charakterowi i wysokiej jakości wykonania zestaw świetnie sprawdzi się jako ozdoba oraz element większej serii BrickHeadz. To doskonały pomysł na prezent urodzinowy, świąteczny lub zupełnie bez okazji – zarówno dla młodszych fanów, jak i dorosłych kolekcjonerów. Prosta, ale efektowna forma budowania sprawia, że zestaw daje dużo satysfakcji, a jednocześnie szybko staje się wyjątkową dekoracją.
+
+**Galeria:**
+
+- 40547-1: https://a.allegroimg.com/original/112715/e8673bcb41878173ce54c9dfa097
+- 40547-2: https://a.allegroimg.com/original/11001b/ee5f1eb64ba0a6b70f25d91c0885
+
+---
+
+## 40649 — Up-Scaled LEGO Minifigure
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40649 |
+| Nazwa angielska | Up-Scaled LEGO Minifigure |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 654 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421650 |
 
 **LEGO 40649 Powiększona minifigurka LEGO**
 
@@ -1387,11 +2058,27 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40649-1: https://a.allegroimg.com/original/1176b8/7bfa5a764be1920abf8c4cfb77b3
+
 ---
 
-## 40702 — Lego 40702 Świąteczna Ramka Zestaw okolicznościowy
+## 40702 — Christmas Picture Frame
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 90.00 zł · EAN: 05702017598154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40702 |
+| Nazwa angielska | Christmas Picture Frame |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598154 |
 
 LEGO 40702 - Świąteczna ramka na zdjęcia
 
@@ -1401,11 +2088,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 40702-1: https://a.allegroimg.com/original/11a1d5/ac5151c54db19fd876886141912e
+
 ---
 
-## 40802 — Lego BrickHeadz 40802 Figurki Luny Lovegood i testrala seria Harry Potter
+## 40802 — Figurki Luny Lovegood i testrala
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 105.03 zł · EAN: 05702017829944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40802 |
+| Nazwa angielska | Luna Lovegood & Thestral Figures |
+| Nazwa polska | Figurki Luny Lovegood i testrala |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829944 |
 
 LEGO BrickHeadz 40802 Figurki Luny Lovegood i testrala Harry Potter / ORYGINALNIE ZAPLOMBOWANY / UNIKAT
 
@@ -1432,41 +2135,27 @@ Wprowadź czarującą atmosferę do każdego wnętrza dzięki zestawowi LEGO® B
 - LEGO® Harry Potter™ na prezent dla dzieci i dorosłych fanów — ten zestaw to świetny pomysł na prezent dla chłopców, dziewczynek i wszystkich fanów Harry’ego Pottera w wieku od 10 lat
 - Wymiary — każda figurka LEGO® Harry Potter™ BrickHeadz™ w tym 292-elementowym zestawie ma 8 cm wysokości
 
----
+**Galeria:**
 
-## 40820 — * Lego Iconic Powiększona minifigurka Świętego Mikołaja 40820
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 205.89 zł · EAN: 05702017831015 · in stock*
-
-LEGO ICONIC - Powiększona minifigurka Świętego Mikołaja 40820
- 
-
-- Producent **LEGO ** 
-- Kod producenta **LEGO 40820 ** 
-- Przedział wiekowy **Od 10 lat ** 
-- Płeć **Chłopiec, Dziewczynka ** 
-- Ilość elementów **761 ** 
-- Wymiary **ok. 27 cm (wysokość figurki) ** 
-- Waga **1.07 kg **
-
-Ho, ho, ho! Ta fajna świąteczna figurka LEGO napełni radością każdy dom. **Zestaw LEGO Powiększona minifigurka Świętego Mikołaja (40820) ** to świetny sposób na to, aby dziesięciolatki i starsze dzieci poczuły ducha gwiazdki. Zawiera minifigurkę LEGO Świętego Mikołaja w większej skali, która będzie stanowiła atrakcyjną ozdobę.
- 
-Podobnie jak tradycyjna minifigurka, ten model ma ruchome ręce i można go ustawić w pozycji siedzącej lub stojącej. Zbuduj ozdobną figurkę Świętego Mikołaja w klasycznym czerwonym stroju i czapce. Nie zabrakło oczywiście jego roześmianych oczu i białej brody. Posadź lub postaw model Świętego Mikołaja na półce lub stole, aby stworzyć niezwykłą dekorację i wprowadzić wszystkich w świąteczny nastrój. Ten zestaw to**świetny prezent pod choinkę dla dzieci i dorosłych. ** Idealnie uzupełni też domowe dekoracje i będzie cieszyć oko rok po roku.**Zestaw zawiera 761 elementów. **
- 
-
-- Figurka świąteczna dla dzieci w wieku od 10 lat - wprowadź magię świąt do każdego domu dzięki temu zestawowi LEGO Powiększona minifigurka Świętego Mikołaja do zbudowania 
-- Figurka Świętego Mikołaja do ozdoby - posadź lub postaw model Świętego Mikołaja na półce lub stole, aby stworzyć wspaniałą dekorację świąteczną 
-- Charakterystyczne cechy Świętego Mikołaja - czerwono-biała kolorystyka tego modelu LEGO wnosi świąteczną atmosferę do każdego domu, a jako dekoracja figurka będzie cieszyć oko przez cały zimowy okres 
-- Świąteczna dekoracja do zbudowania - dzieci, dorośli i osoby lubiące gwiazdkę będą się świetnie bawić, budując figurkę Świętego Mikołaja i tworząc efektowną ozdobę 
-- Prezent świąteczny, który cieszy rok po roku - ten zestaw świąteczny LEGO to kreatywny prezent dla dzieci lub każdego, kto uwielbia gwiazdkę i świąteczne dekoracje 
-- Odkryj więcej ciekawych postaci - sprawdź inne zestawy z minifigurkami LEGO w powiększonej skali (sprzedawane osobno), które stanowią ciekawe ozdoby do domu lub biura 
-- Wymiary - ten 761-elementowy zestaw zawiera figurkę Świętego Mikołaja o wysokości 27 cm
+- 40802-1: https://a.allegroimg.com/original/1190d3/36d70eb742fe9074ff281cc7121b
 
 ---
 
-## 41631 — 41631 Lego Harry Potter Fantastyczne Zwierzęta Grindelwald Newt Misb
+## 41631 — Newt Scamander & Gellert Grindelwald
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702016176520 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41631 |
+| Nazwa angielska | Newt Scamander & Gellert Grindelwald |
+| Nazwa polska | — |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 247 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016176520 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1490,11 +2179,26 @@ Podobnie jak tradycyjna minifigurka, ten model ma ruchome ręce i można go usta
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 41631-1: https://a.allegroimg.com/original/110700/9cec1e6549fe8903be3c20cb4fe0
+
 ---
 
-## 41775 — Lego Unikitty Seria Kolekcjonerska Kici Rożek 41775 Nowa Saszetka Losowa
+## 41775 — Rainbow Unikitty
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 44.99 zł · EAN: 05702016117004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41775 |
+| Nazwa angielska | Rainbow Unikitty |
+| Nazwa polska | — |
+| Seria | Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117004 |
 
 LEGO MINIFIGURES UNIKITTY Seria 1 41775
  
@@ -1509,11 +2213,26 @@ Odwiedź niezwykły, błyszczący świat LEGO® Kici Rożek™ i zbierz wszystki
 
 -
 
+**Galeria:**
+
+- 41775-1: https://a.allegroimg.com/original/111391/fc447ac44fa98d079f4179313f99
+
 ---
 
-## 43101 — Lego 43101 Minifigures Vidiyo Bandmates Komplet Zestaw 12 Szt
+## 43101 — Vidiyo Bandmates
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 499.99 zł · EAN: 05702017080819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43101 |
+| Nazwa angielska | Ice Cream Saxophonist |
+| Nazwa polska | Vidiyo Bandmates |
+| Seria | Minifigurki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 12 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016916874, 5702017080819, 673419338585 |
 
 **ZESTAW  LEGO**
 
@@ -1537,11 +2256,28 @@ Odwiedź niezwykły, błyszczący świat LEGO® Kici Rożek™ i zbierz wszystki
 
 - **Pokaż dzieciom świat muzyki i pozwól im tworzyć własne teledyski dzięki zestawowi LEGO® VIDIYO™ Bandmates (43101) oraz aplikacji VIDIYO. Pobierz darmową aplikację LEGO® VIDIYO™ i zeskanuj minifigurkę oraz Beat Bity z efektami specjalnymi, aby tchnąć życie w postać występującą w nakręconym przez dzieci teledysku. Każda figurka Bandmates ma trzy Beat Bity, które można zeskanować za pomocą aplikacji, by odblokować efekty specjalne, takie jak dźwięki i kostiumy. Do zebrania są 92 Beat Bity, które dzieci mogą dodać do swojej kolekcji. Minifigurki LEGO VIDIYO™ Bandmates pozwalają odblokować mnóstwo możliwości personalizacji i kreatywnej zabawy w aplikacji. Aplikacja LEGO® VIDIYO™ zawiera wiele funkcji gwarantujących bezpieczeństwo w internecie, takich jak panel rodzicielski, anonimowe nazwy użytkowników oraz moderowane komentarze. Każde pudełko zawiera minifigurkę Bandmates z serii 1, dwa Beat Bity, jednego specjalnego Beat Bita, jedno akcesorium, złożoną z klocków scenę z miejscem na trzy Beat Bity, instrukcje oraz kolekcjonerską ulotkę. Aplikacja LEGO® VIDIYO™ jest kompatybilna z wybranymi urządzeniami z systemem iOS i Android. Przed połączeniem się z Internetem dzieci powinny zapytać rodziców o zgodę. Zestawy LEGO® VIDIYO™ oferują nowe wrażenia z zabawy w grupie. Chłopcy i dziewczynki mogą wcielić się w reżyserów, producentów i gwiazdy oraz tworzyć i udostępniać własne teledyski. Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić .**
 
+**Galeria:**
+
+- 43101-1: https://a.allegroimg.com/original/118f3d/a78c7e374cd98ee37f434d522b60
+- 43101-2: https://a.allegroimg.com/original/116506/e8c074064c3bada6889d2c9c0aa2
+- 43101-3: https://a.allegroimg.com/original/11cdb8/778c66f24029a0ac861298197bc6
+
 ---
 
-## 4508087 — Lego 4508087 Magnesy kolekcjonerskie Star Wars
+## 4508087 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 349.00 zł · EAN: 00673419156073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4508087 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156073 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1560,11 +2296,27 @@ Odwiedź niezwykły, błyszczący świat LEGO® Kici Rożek™ i zbierz wszystki
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 4508087-1: https://a.allegroimg.com/original/11c897/db12b1a1466b8d207fa1f4a56cfb
+
 ---
 
-## 5000022 — Lego Heroes 5000022 Hulk saszetka z klockami minifigurka unikat
+## 5000022 — Hulk
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419175388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5000022 |
+| Nazwa angielska | Hulk |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419175388 |
 
 Witam
 
@@ -1582,11 +2334,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5000022-1: https://a.allegroimg.com/original/114972/e89bc0a24dc894ef56521bd34bcc
+
 ---
 
-## 5000063 — Lego Star Wars 5000063 TC-14 saszetka klocki minifigurka unikat
+## 5000063 — TC-14
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 749.00 zł · EAN: 00673419176637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5000063 |
+| Nazwa angielska | TC-14 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419176637 |
 
 Exclusive Figurka LEGO Star Wars TC-14 5000063 - Promo MiniFigure Silver Chrome Exclusive Limited
 
@@ -1604,11 +2372,26 @@ Klocki LEGO 5000063 TC-14™
 
 Zestaw klocków LEGO Star Wars TC-14™ 5000063 został pokazany w 2012 roku i zbudowany jest z 3 klocków LEGO®. W opakowaniu znajdziesz 1 minifigurkę. Klocki przeznaczone są dla dzieci i młodzieży powyżej 6 roku życia.
 
+**Galeria:**
+
+- 5000063-1: https://a.allegroimg.com/original/110534/7016dc534e09bca87487dca92e9b
+
 ---
 
-## 5001121 — Lego Br Minifigure 5001121
+## 5001121 — BR LEGO Minifigure
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 48.88 zł · EAN: 05702014987418 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5001121 |
+| Nazwa angielska | BR LEGO Minifigure |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014987418 |
 
 Przedmiotem sprzedaży jest rzadka i unikatowa figurka **LEGO BR**, wydana w 2013 roku jako edycja limitowana dla duńskiej sieci sklepów z zabawkami **BR (Fætter BR)**. Figurka przedstawia charakterystyczną postać strażnika ubranego w tradycyjny, czerwony mundur z niebieskimi spodniami oraz wysoką, czarną czapkę z logo "BR".
 
@@ -1635,11 +2418,27 @@ Jest to pozycja obowiązkowa dla kolekcjonerów rzadkich minifigurek LEGO, ze wz
 
 Figurka BR to jedna z najbardziej rozpoznawalnych minifigurek promocyjnych w Europie Północnej. Ze względu na zamknięcie wielu sklepów tej sieci, dostępność nowych, fabrycznie zamkniętych egzemplarzy z 2013 roku stale maleje, co czyni ją doskonałym uzupełnieniem kolekcji lub inwestycją.
 
+**Galeria:**
+
+- 5001121-1: https://a.allegroimg.com/original/11a51a/25af3131498b8b7cf9a5b649950c
+
 ---
 
-## 5001621 — Lego Star Wars 5001621 Han Solo Hoth saszetka minifigurka klocki
+## 5001621 — Han Solo (Hoth)
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 87.49 zł · EAN: 00673419200127 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5001621 |
+| Nazwa angielska | Han Solo (Hoth) |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419200127 |
 
 Witam
 
@@ -1655,11 +2454,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5001621-1: https://a.allegroimg.com/original/1156f8/4401f36a47c0a7cccd39487c075f
+
 ---
 
-## 5001623 — Lego Heroes 5001623 Jor-El Superman saszetka z minifigurką klocki
+## 5001623 — Jor-El
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 129.00 zł · EAN: 00673419200141 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5001623 |
+| Nazwa angielska | Jor-El |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419200141 |
 
 Sprzedam nową nigdy nie otwieraną saszetkę LEGO Super Heroes z minifigurką Jor-Ela. Opakowanie jest fabrycznie zamknięte.
 
@@ -1671,11 +2485,27 @@ Sprzedam nową nigdy nie otwieraną saszetkę LEGO Super Heroes z minifigurką J
 
 Klocki pochodzą z prywatnej kolekcji, z domu wolnego od dymu tytoniowego.
 
+**Galeria:**
+
+- 5001623-1: https://a.allegroimg.com/original/11f849/5028552e4994b55a8edbc4f850fe
+
 ---
 
-## 5002123 — Klocki Lego Star Wars Zestaw Darth Revan 5002123
+## 5002123 — Darth Revan
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1899.00 zł · EAN: 00673419214568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002123 |
+| Nazwa angielska | Darth Revan |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419214568 |
 
 Minifigurka LEGO 5002123 Star Wars Darth Revan
 
@@ -1692,11 +2522,26 @@ O produkcie:
 
 Minifigurka LEGO 5002123 Star Wars Darth Revan to idealny wybór dla fanów serii Gwiezdne Wojny. Figurka została wykonana z dbałością o szczegóły i dokładnie odwzorowuje postać z filmów. Produkt jest marki LEGO, co zapewnia wysoką jakość wykonania i trwałość. Nadaje się dla dzieci w wieku 7 lat i starszych, a dzięki możliwości łączenia z innymi minifigurkami z serii Star Wars, umożliwia tworzenie niekończących się przygód i rozwijanie wyobraźni. Minifigurka LEGO 5002123 Star Wars Darth Revan to doskonały prezent dla każdego fana Gwiezdnych Wojen, niezależnie od płci.
 
+**Galeria:**
+
+- 5002123-1: https://a.allegroimg.com/original/11d800/8d7afb2b40ddb42d4e54f95a9799
+
 ---
 
-## 5002126 — nowy Lego DC Martian Manhunter 5002126 sh114 misb 2014
+## 5002126 — Martian Manhunter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.99 zł · EAN: 00673419217309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002126 |
+| Nazwa angielska | Martian Manhunter |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419217309 |
 
 Cześć!
 
@@ -1716,11 +2561,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5002126-1: https://a.allegroimg.com/original/110ee0/40a7e5564c47af36fcfa698f8108
+
 ---
 
-## 5002130 — Lego Hobbit Good Morning Bilbo 5002130 ekskluzywny zestaw specjalny
+## 5002130 — Good Morning Bilbo Baggins
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 350.00 zł · EAN: 00673419218771 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002130 |
+| Nazwa angielska | Good Morning Bilbo Baggins |
+| Nazwa polska | — |
+| Seria | The Lord of the Rings |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419218771 |
 
 LEGO The Lord of the Rings 5002130 Good Morning Bilbo Baggins
 
@@ -1734,11 +2594,26 @@ O produkcie:
 
 LEGO The Lord of the Rings 5002130 Good Morning Bilbo Baggins to minifigurka dla dzieci powyżej 6 roku życia. Wykonana z wysokiej jakości materiałów przez markę LEGO, zapewnia długotrwałą zabawę. Minifigurka pozwala na rozwijanie wyobraźni, kreatywności i umiejętności manualnych. LEGO The Lord of the Rings 5002130 Good Morning Bilbo Baggins to idealny wybór dla fanów serii The Lord of the Rings.
 
+**Galeria:**
+
+- 5002130-1: https://a.allegroimg.com/original/11e084/f65bcb3d4b1391b4657ddc879ae2
+
 ---
 
-## 5002812 — nowy Lego Zestaw Lego Classic Spaceman 5002812 Space unikat Misb 2014
+## 5002812 — Classic Spaceman Minifigure
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 249.99 zł · EAN: 00673419218757 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002812 |
+| Nazwa angielska | Classic Spaceman Minifigure |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419218757 |
 
 Cześć!
 
@@ -1756,11 +2631,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5002812-1: https://a.allegroimg.com/original/110f06/69483d1248c0a777889a52016ea3
+
 ---
 
-## 5002938 — Figurka Star Wars 5002938 szturmowiec
+## 5002938 — Stormtrooper Sergeant
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 80.99 zł · EAN: 00673419235631 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002938 |
+| Nazwa angielska | Stormtrooper Sergeant |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235631 |
 
 **Fabrycznie zamknięty zestaw LEGO w oryginalnym woreczku foliowym. Produkt przeznaczony do budowania, kolekcjonowania lub jako drobny upominek. Nieotwierany, bez uszkodzeń.**
 
@@ -1784,11 +2675,26 @@ Pozdrawiam.
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 5002938-1: https://a.allegroimg.com/original/11cfd7/77cd63754d2e8257b7994e39f99a
+
 ---
 
-## 5002941 — Lego Bionicle 5002941 Bionicle Hero Pack saszetka klocki unikat wycofany
+## 5002941 — Bionicle Hero Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419236034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002941 |
+| Nazwa angielska | Bionicle Hero Pack |
+| Nazwa polska | — |
+| Seria | Bionicle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419236034 |
 
 Zestaw zawiera 7 elementów, aby skonstruować ulubionego bohatera z serii Bionicle.
 
@@ -1814,11 +2720,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5002941-1: https://a.allegroimg.com/original/11ada0/a04fde1343d2b5462c8a1e4c6ff6
+
 ---
 
-## 5002943 — Lego Heroes 5002943 Winter Soldier
+## 5002943 — Winter Soldier
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 139.00 zł · EAN: 00673419240253 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002943 |
+| Nazwa angielska | Winter Soldier |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419240253 |
 
 LEGO Super Heroes 5002943
 
@@ -1837,11 +2759,27 @@ O produkcie:
 
 LEGO Super Heroes 5002943 Winter Soldier to minifigurka z serii Super Heroes marki LEGO, przeznaczona dla dzieci w wieku 6 lat i starszych. Zestaw składa się z 4 elementów, co pozwala na stworzenie postaci Zimowego Żołnierza. Produkt posiada certyfikat CE, co gwarantuje jego bezpieczeństwo. LEGO to marka, która od lat cieszy się zaufaniem rodziców i dzieci na całym świecie dzięki swojej wysokiej jakości. Zabawka ta pozwoli dziecku na rozwijanie wyobraźni i kreatywności poprzez budowanie oraz odgrywanie własnych historii z ulubionymi bohaterami. LEGO Super Heroes 5002943 Winter Soldier to idealny prezent dla chłopców i dziewcząt, którzy uwielbiają tworzyć i bawić się w superbohaterów.
 
+**Galeria:**
+
+- 5002943-1: https://a.allegroimg.com/original/112c3b/75b20b5e4275aeaa98c84685dfdd
+
 ---
 
-## 5002948 — Lego Star Wars 5002948
+## 5002948 — C-3PO
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 98.99 zł · EAN: 00673419242455 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5002948 |
+| Nazwa angielska | C-3PO |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419242455 |
 
 Klocki LEGO Star Wars 5002948 - C-3PO UNIKAT
 
@@ -1855,11 +2793,27 @@ C-3PO został zbudowany przez młodego Anakina Skywalkera i płynnie posługuje 
 
 Wygadanego C-3PO zazwyczaj można spotkać w towarzystwie wiernego przyjaciela, droida astromechanicznego R2-D2; ten duet wnosi odrobinę ciepłego humoru do wielu scen sagi „Gwiezdnych Wojen”.
 
+**Galeria:**
+
+- 5002948-1: https://a.allegroimg.com/original/115a45/749a10044bd8ae4faaf63bf108eb
+
 ---
 
-## 5003084 — nowy Lego Heroes 5003084 The Hulk Marvel Avengers unikat Misb 2015
+## 5003084 — The Hulk
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 208.99 zł · EAN: 00673419242158 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5003084 |
+| Nazwa angielska | The Hulk |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419242158 |
 
 Cześć!
 
@@ -1877,11 +2831,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5003084-1: https://a.allegroimg.com/original/1129c1/9bd59c7c4a8cb1366b0ce52a6af6
+
 ---
 
-## 5004081 — Lego Heroes 5004081 Plastic Man saszetka minifigurka unikat
+## 5004081 — Plastic Man
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 145.00 zł · EAN: 00673419231817 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004081 |
+| Nazwa angielska | Plastic Man |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2014 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419231817 |
 
 Witam
 
@@ -1897,11 +2866,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004081-1: https://a.allegroimg.com/original/111a22/32694d4a42869019c34b88acaed2
+
 ---
 
-## 5004390 — Lego Nexo Knights King's Guard 5004390 Pudełko Kartonowe
+## 5004390 — King's Guard
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.95 zł · EAN: 00673419258227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004390 |
+| Nazwa angielska | King's Guard |
+| Nazwa polska | — |
+| Seria | Nexo Knights |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258227 |
 
 LEGO (PUDEŁKO)
 
@@ -1915,11 +2899,27 @@ Prawdziwa gratka dla kolekcjonera!
 
 Zapraszamy do zakupu i na pozostałe nasze aukcje, gdzie znajdą Państwo również inne kolekcjonerskie cudeńka, które z roku na rok nabierają wartości :)
 
+**Galeria:**
+
+- 5004390-1: https://a.allegroimg.com/original/117d9a/00c2206f4025baac5464c45ca7e2
+
 ---
 
-## 5004406 — Minifigurka Lego Star Wars First Order General 5004406 Nowa
+## 5004406 — First Order General
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 24.90 zł · EAN: 00673419252614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004406 |
+| Nazwa angielska | First Order General |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252614 |
 
 **Fabrycznie zamknięty zestaw LEGO w oryginalnym woreczku foliowym. Produkt przeznaczony do budowania, kolekcjonowania lub jako drobny upominek. Nieotwierany, bez uszkodzeń.**
 
@@ -1929,11 +2929,27 @@ Zapraszamy do zakupu i na pozostałe nasze aukcje, gdzie znajdą Państwo równi
 
 **• Kompaktowy format – odpowiedni do zabawy lub kolekcji**
 
+**Galeria:**
+
+- 5004406-1: https://a.allegroimg.com/original/114e28/ee72b5c549cf92ae7f817870da01
+
 ---
 
-## 5004408 — Lego Star Wars 5004408 Rebel A-Wing Pilot saszetka z minifigurką
+## 5004408 — Rebel A-wing Pilot
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 54.29 zł · EAN: 00673419258364 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004408 |
+| Nazwa angielska | Rebel A-wing Pilot |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258364 |
 
 LEGO Star Wars 5004408 Rebel A-wing Pilot
 
@@ -1953,11 +2969,26 @@ LEGO Star Wars 5004408 Rebel A-wing Pilot to minifigurka z serii Star Wars, prze
 
 LEGO Star Wars 5004408 Rebel A-wing Pilot to doskonały wybór dla wszystkich miłośników Star Wars, którzy chcą poszerzyć swoją kolekcję o nową postać. Minifigurka pozwala na rozwijanie wyobraźni, tworzenie scenek oraz odgrywanie ulubionych momentów z filmów.
 
+**Galeria:**
+
+- 5004408-1: https://a.allegroimg.com/original/118370/52009d844c9bb804a590a05cde5a
+
 ---
 
-## 5004419 — Lego 5004419 Castle Zestaw Retro Classic Knights Misb Unikat z 2016r
+## 5004419 — Classic Knights Minifigure
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.00 zł · EAN: 00673419258371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004419 |
+| Nazwa angielska | Classic Knights Minifigure |
+| Nazwa polska | — |
+| Seria | Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258371 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1967,11 +2998,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 5004419-1: https://a.allegroimg.com/original/1149ec/73d015a24415afcc54f49aff73c0
+
 ---
 
-## 5004420 — Lego 5004420 Ozdoba choinkowa Żołnierzyk Lego Klocki Oryginalne Nowe
+## 5004420 — Toy Soldier
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 135.21 zł · EAN: 00673419260862 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004420 |
+| Nazwa angielska | Toy Soldier |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419260862 |
 
 LEGO 5004420 - Ozdoba choinkowa Żołnierzyk LEGO
 
@@ -1995,11 +3042,26 @@ Jest to zestaw z serii „Seasonal”, czyli należący do grupy zestawów świ�
 
 Stan woreczka jest wyśmienity, bez ubytków, przetarć, pęknięć, nalepek cenowych bądź zblakłych obszarów nadruku na woreczku.
 
+**Galeria:**
+
+- 5004420-1: https://a.allegroimg.com/original/11449b/0e9cfec5442ea44dd00a7b10a96c
+
 ---
 
-## 5004421 — Lego Musicians 5004421 blister minifigurki muzycy
+## 5004421 — Musicians Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 139.00 zł · EAN: 00673419260879 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004421 |
+| Nazwa angielska | Musicians Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419260879 |
 
 Witam
 
@@ -2015,11 +3077,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004421-1: https://a.allegroimg.com/original/11a7c4/2c7a4df540b7834478f3c65dc303
+
 ---
 
-## 5004422 — Lego Warriors Wojownicy Minifigurki 4 Szt 5004422
+## 5004422 — Warriors Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 211.00 zł · EAN: 00673419260954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004422 |
+| Nazwa angielska | Warriors Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419260954 |
 
 Oferta sprzedaży zestawu klocków LEGO Bricktober Wojownicy.
 
@@ -2031,11 +3108,26 @@ Zestaw zawiera wyłącznie 4 minifigurki.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 5004422-1: https://a.allegroimg.com/original/11be73/ed7ff5a743a68c20859e354c130c
+
 ---
 
-## 5004573 — Lego 5004573 Bricktober Minifigurki sportowcy nowy zestaw minifigurek
+## 5004573 — Athletes Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 139.00 zł · EAN: 00673419260961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004573 |
+| Nazwa angielska | Athletes Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419260961 |
 
 Witam
 
@@ -2051,11 +3143,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004573-1: https://a.allegroimg.com/original/11fb23/8ca3080540339191d9a50bfe4e6a
+
 ---
 
-## 5004574 — Lego City 5004574 Rabusie I gliniarze nowy zestaw minifigurek unikat
+## 5004574 — Cops & Robbers Minifigure collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 145.00 zł · EAN: 00673419260978 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004574 |
+| Nazwa angielska | Cops & Robbers Minifigure collection |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419260978 |
 
 Witam
 
@@ -2071,11 +3178,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004574-1: https://a.allegroimg.com/original/1145cb/d131905f4becab294ffd4ad27bf2
+
 ---
 
-## 5004920 — Lego Friends 5004920 Ski Pod polybag Nowy saszetka kapsuła
+## 5004920 — Ski Pod
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 75.00 zł · EAN: 00673419274180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004920 |
+| Nazwa angielska | Ski Pod |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274180 |
 
 Witam
 
@@ -2091,11 +3214,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004920-1: https://a.allegroimg.com/original/11fa55/0f24b5084d20b9a2923d4bc03baf
+
 ---
 
-## 5004930 — Lego Batman Movie 5004930 Akcesoria
+## 5004930 — Accessory Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015890403 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004930 |
+| Nazwa angielska | Accessory Pack |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015890403 |
 
 Witam
 
@@ -2111,11 +3249,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004930-1: https://a.allegroimg.com/original/11cecb/fec89dcd4d468d0f5a269df20fcf
+
 ---
 
-## 5004938 — Minifigurki Lego Ninjago Bricktober 5004938
+## 5004938 — Ninjago Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 2199.00 zł · EAN: 00673419274272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004938 |
+| Nazwa angielska | Ninjago Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274272 |
 
 **Zestaw kolekcjonerski minifigurek LEGO**
 
@@ -2139,11 +3293,26 @@ Rafał
 
 **✅ Dopracowane detale, wysokiej jakości nadruki, różnorodne akcesoria**
 
+**Galeria:**
+
+- 5004938-1: https://a.allegroimg.com/original/115d44/9c1ce96f4c12a8e2ea733a370b41
+
 ---
 
-## 5004939 — Zestaw figurek Lego The Batman Movie 5004939
+## 5004939 — The LEGO Batman Movie Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1289.99 zł · EAN: 05702016117806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004939 |
+| Nazwa angielska | The LEGO Batman Movie Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117806 |
 
 Fabrycznie nowy, oryginalnie zapakowany zestaw Lego 5004939.
 
@@ -2151,11 +3320,27 @@ Do wysyłki będzie bezpiecznie zapakowany w dodatkowy karton.
 
 Nazwa, obrazy graficzne oraz znaki towarowe firm, stanowią zastrzeżone znaki handlowe i są własnością tych firm.
 
+**Galeria:**
+
+- 5004939-1: https://a.allegroimg.com/original/1131a7/a2b242224650a6583443600607bb
+
 ---
 
-## 5004940 — Minifigurki Lego City Bricktober 5004940
+## 5004940 — City Jungle Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 89.99 zł · EAN: 00673419274296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004940 |
+| Nazwa angielska | City Jungle Minifigure Collection |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274296 |
 
 LEGO - przedsiębiorstwo zabawkarskie, założone przez Ole Kirka Christiansena 12 października 1932 roku w Billund w Danii.
  
@@ -2197,11 +3382,26 @@ W tym zestawie można dostać cztery wspaniałe i ekskluzywne minifigurki ze św
  
 W sumie 21 kawałków tworzą cztery figury z pasującymi akcesoriami: od harcerza po profesora, różne zawody są tu reprezentowane.
 
+**Galeria:**
+
+- 5004940-1: https://a.allegroimg.com/original/11ae41/5fc62bde44f3acdef17f7bba3bb4
+
 ---
 
-## 5004941 — nowy Lego 5004941 Bricktober kolekcja minifigurek toys "4" us Misb 2017
+## 5004941 — Classic Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 286.00 zł · EAN: 00673419274302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004941 |
+| Nazwa angielska | Classic Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274302 |
 
 Cześć!
 
@@ -2219,11 +3419,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5004941-1: https://a.allegroimg.com/original/11528d/456fa4794014a8a86a71a0555262
+
 ---
 
-## 5005156 — Nowy Lego Minifigurki 5005156 piernik piernikowy ludek Misb 2016
+## 5005156 — Gingerbread Man
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 98.99 zł · EAN: 00673419272285 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005156 |
+| Nazwa angielska | Gingerbread Man |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419272285 |
 
 Cześć!
 
@@ -2243,11 +3459,27 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5005156-1: https://a.allegroimg.com/original/11d285/6ddd281e4d64bef2aa2aca1c9b75
+
 ---
 
-## 5005249 — Lego 5005249 Chatka zajączka wielkanocnego Lego
+## 5005249 — Easter Bunny Hut
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702016148091 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005249 |
+| Nazwa angielska | Easter Bunny Hut |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 5 m + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016148091 |
 
 CHATKA ZAJĄCZKA WIELKANOCNEGO
 
@@ -2263,11 +3495,26 @@ CHATKA ZAJĄCZKA WIELKANOCNEGO
 - **Rok prezentacji:** 2018
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 5005249-1: https://a.allegroimg.com/original/03d32c/3082440c429fbd1c80496f5cf673
+
 ---
 
-## 5005250 — Lego Party Banana Juice Bar 5005250 Nowy Zestaw Unikat
+## 5005250 — Party Banana Juice Bar
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 139.99 zł · EAN: 00673419287371 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005250 |
+| Nazwa angielska | Party Banana Juice Bar |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287371 |
 
 - **Zestaw zawiera 5 elementów, aby skonstruować minifigurkę człowieka-banana wraz z Boomboxem.**
 - **SUPER PREZENT DLA KOLEKCJONERA - UNIKAT**
@@ -2282,21 +3529,52 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 5005250-1: https://a.allegroimg.com/original/034699/7ae8e6c74bdda4987e7e4dd6a66c
+
 ---
 
-## 5005251 — 5005251 Penguin Winter Hut z 2018 roku!
+## 5005251 — Penguin Winter Hut
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 80.00 zł · EAN: 00673419294058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005251 |
+| Nazwa angielska | Penguin Winter Hut |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294058 |
 
 LEGO® 5005251 Promocyjne - Penguin Suit Girl
 
 Zestaw LEGO Promocyjne - Penguin Suit Girl trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 5005251. Zawiera 6 klocków LEGO. Grupa wiekowa tego produktu to 6+. Aktualnie, nowy zestaw nie jest dostępny w sprzedaży.
 
+**Galeria:**
+
+- 5005251-1: https://a.allegroimg.com/original/11e66c/c666c16b401eb9a19e803ad89ca8
+
 ---
 
-## 5005255 — Lego Jurassic World 5005255 Bricktober Minifigurki model wycofany
+## 5005255 — Jurassic World Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 165.00 zł · EAN: 00673419294317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005255 |
+| Nazwa angielska | Jurassic World Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 18 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294317 |
 
 Witam
 
@@ -2314,11 +3592,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5005255-1: https://a.allegroimg.com/original/112d8c/29b586c94f78a4991f21119b7f4f
+
 ---
 
-## 5005256 — Lego Brictober Heroes 5005256 Nowy zestaw unikatowych minifigurek
+## 5005256 — Marvel Super Heroes Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 369.00 zł · EAN: 00673419294324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005256 |
+| Nazwa angielska | Marvel Super Heroes Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294324 |
 
 Witam
 
@@ -2332,11 +3626,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5005256-1: https://a.allegroimg.com/original/032664/2dbb0bf3466191b22fe31dd8ca52
+
 ---
 
-## 5005257 — Lego Brictober Ninjago Masters of Spinjitzu 5005257
+## 5005257 — Ninjago Minifigure Collection
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1299.00 zł · EAN: 00673419294331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005257 |
+| Nazwa angielska | Ninjago Minifigure Collection |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419294331 |
 
 **Zestaw kolekcjonerski minifigurek LEGO**
 
@@ -2360,11 +3670,26 @@ Rafał
 
 **✅ Dopracowane detale, wysokiej jakości nadruki, różnorodne akcesoria**
 
+**Galeria:**
+
+- 5005257-1: https://a.allegroimg.com/original/11a638/d0adce3f42629c187ee8e1317ae4
+
 ---
 
-## 5005358 — Lego 5005358 Fabryka minifigurek Nowe Minifabrik
+## 5005358 — Minifigure Factory
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 209.50 zł · EAN: 00673419290043 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005358 |
+| Nazwa angielska | Minifigure Factory |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419290043 |
 
 5005358 - FABRYKA MINIFIGUREK
  
@@ -2374,11 +3699,26 @@ Zawiera model linii produkcyjnej minifigurek wraz z pięcioma mikrofigurkami ozd
 
 W zestawie jedna unikatowa minifigurka:
 
+**Galeria:**
+
+- 5005358-1: https://a.allegroimg.com/original/11a26f/e417356046efbe951631d2d0dcfb
+
 ---
 
-## 5007155 — Lego Ninjago Blaszana tabliczka lego Ninjago 5007155
+## 5007155 — Ninjago Tin Sign
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05060373573636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007155 |
+| Nazwa angielska | Ninjago Tin Sign |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373573636 |
 
 LEGO Ninjago 5007155 Blaszana tabliczka metalowa
  
@@ -2391,11 +3731,26 @@ Posiadam wiele kolekcjonerskich zestawów, figurek i gadżetów LEGO zarówno no
  
 Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©
 
+**Galeria:**
+
+- 5007155-1: https://a.allegroimg.com/original/115ae0/c7fef4cd468aaf1e10696b77dfe1
+
 ---
 
-## 5008077 — Lego 5008077 Świąteczny kubek ceramiczny Święty Mikołaj Nowy I Oryginalny!!
+## 5008077 — Christmas Santa Ceramic Mug
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 68.99 zł · EAN: 05711938247256 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008077 |
+| Nazwa angielska | Christmas Santa Ceramic Mug |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 11 cm |
+| EAN | 5711938247256 |
 
 **LEGO 5008077 Świąteczny kubek ceramiczny — Święty Mikołaj**
  
@@ -2410,11 +3765,26 @@ Poczuj świąteczny klimat, pijąc ze Świątecznego kubka ceramicznego LEGO® z
  
 **Stan**
 
+**Galeria:**
+
+- 5008077-1: https://a.allegroimg.com/original/110f6e/20125d1645a0968dff310663b81d
+
 ---
 
-## 5008078 — Lego 5008078 Świąteczny kubek ceramiczny Minifigurki Nowy I Oryginalny!!!
+## 5008078 — Christmas Minifigures Ceramic Mug
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 68.99 zł · EAN: 05711938247263 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008078 |
+| Nazwa angielska | Christmas Minifigures Ceramic Mug |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 9 cm × gł. 11 cm |
+| EAN | 5711938247263 |
 
 KUBEK CERAMICZNY LEGO 5008078
 
@@ -2425,11 +3795,26 @@ Wprowadź się w świąteczny nastrój, pijąc ze Świątecznego kubka ceramiczn
 - Prezent pod choinkę dla dzieci – kubek sprawdzi się jako prezent świąteczny dla chłopców, dziewczynek i wszystkich fanów LEGO® w wieku od trzech lat 
 - Wymiary – Świąteczny kubek ceramiczny LEGO® ma 9 cm wysokości, 9 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 5008078-1: https://a.allegroimg.com/original/118132/59aaff8649e986bde35affddf036
+
 ---
 
-## 5008992 — Lego 5008992 świąteczny Koc z kożuszkiem 150x120 cm święta
+## 5008992 — Sherpa-Backed Throw
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 134.90 zł · EAN: 05056197183755 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008992 |
+| Nazwa angielska | Sherpa-Backed Throw |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056197183755 |
 
 LEGO 5008992
 
@@ -2443,11 +3828,27 @@ LEGO 5008992
 - **Zapewni ciepło i świąteczny klimat – okryj się kocem lub ozdób nim wnętrze, rozkładając go na kanapie lub fotelu**
 - **Wymiary – ten koc ma 150 cm długości i 120 cm szerokości. Został wykonany z poliestrowej flaneli, a spodnią stronę stanowi poliestrowy kożuszek**
 
+**Galeria:**
+
+- 5008992-1: https://a.allegroimg.com/original/118c84/957f081f4cf28f20bd68f690de98
+
 ---
 
-## 5009015 — Lego Heroes 5009015 X-Men Cerebro minifigurka Profesora Xaviera
+## 5009015 — Cerebro
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 399.89 zł · EAN: 05702017902647 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009015 |
+| Nazwa angielska | Cerebro |
+| Nazwa polska | — |
+| Seria | Marvel |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm × gł. 11 cm |
+| EAN | 5702017902647 |
 
 LEGO Super Heroes 5009015 Marvel X-Men Cerebro minifigurka Profesora Xaviera
 
@@ -2470,11 +3871,26 @@ Fani filmów z serii X-Men Marvel Studios mogą teraz zbudować swoją własną 
 - Realistyczne detale – w zestawie znajdują się specjalnie drukowana część „Cerebro” oraz niebieski, przezroczysty element przedstawiający postać Jubilee z X-Menów 
 - Zabawa w podróży – zestaw ma 12 cm wysokości, 12 cm szerokości i 11 cm głębokości, więc dzieci mogą zabrać go ze sobą wszędzie i bawić się nim, gdzie tylko chcą
 
+**Galeria:**
+
+- 5009015-1: https://a.allegroimg.com/original/11b283/82b300ba42d9aa9a8f6db2bb516a
+
 ---
 
-## 5009407 — Lego 5009407 6586987 Otwarcie sklepu Kraków Grand Opening Unikat
+## 5009407 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 359.98 zł · EAN: 05702018057995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009407 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018057995 |
 
 Lego 5009407 6586987 Otwarcie sklepu - Kraków
 
@@ -2542,11 +3958,26 @@ szybkie podsumowanie
 
 LEGO® 5009407 / 6586987 Kraków Grand Opening to limitowany zestaw wydany wyłącznie podczas otwarcia sklepu LEGO w Krakowie. To oficjalny, rzadki i kolekcjonerski produkt, idealny dla fanów unikatowych edycji i zestawów Store Opening. Zestaw nie był dostępny w regularnej sprzedaży, dzięki czemu stanowi wartościowy element każdej kolekcji.
 
+**Galeria:**
+
+- 5009407-1: https://a.allegroimg.com/original/11cb89/bd3657ea4c31a7e0926cd2681208
+
 ---
 
-## 5009550 — Lego 5009550 Star Wars Moneta Kolekcjonerska Jango Fett Lenticular Coin
+## 5009550 — Jango Fett’s Starship Coin
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 129.99 zł · EAN: 05060093910469 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009550 |
+| Nazwa angielska | Jango Fett’s Starship Coin |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5060093910469 |
 
 LEGO Star Wars Moneta z Patrolowcem Jango Fetta 5009550
  
@@ -2562,11 +3993,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5009550-1: https://a.allegroimg.com/original/115b23/15891d04494c84462304e8418003
+
 ---
 
-## 52364 — Lego 52364 Lego Movie 2 Unikitty Staticker Naklejki Elektrostatyczne
+## 52364 — Unikitty Staticker
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702016117011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52364 |
+| Nazwa angielska | Unikitty Staticker |
+| Nazwa polska | — |
+| Seria | Unikitty |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117011 |
 
 **ZESTAW  LEGO STATICKER -   NAKLEJKI ELEKTROSTATYCZNE**
 
@@ -2586,11 +4032,26 @@ Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezen
 
 **- ZESTAW  LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52364-1: https://a.allegroimg.com/original/03cb47/4f7414b7453aa50122240f508d4a
+
 ---
 
-## 52558 — Lego 52558 Linijka Do ZBUDOWANIA15-30 CM Z Figurką
+## 52558 — Buildable Ruler with Minifigure
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 41.95 zł · EAN: 04895028525583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52558 |
+| Nazwa angielska | Buildable Ruler with Minifigure |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028525583 |
 
 **ZESTAW LEGO**
 
@@ -2614,11 +4075,26 @@ Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezen
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52558-1: https://a.allegroimg.com/original/11aa9e/11e0d5b64b63b057c555e8f46009
+
 ---
 
-## 52601 — Długopis żelowy Lego 52601 czarny z minifigurką
+## 52601 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 20.60 zł · EAN: 04895028526016 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52601 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028526016 |
 
 Długopis żelowy LEGO 52601 czarny z minifigurką
 
@@ -2656,11 +4132,26 @@ Zaprojektowane w duchu skandynawskiego designu, długopisy żelowe LEGO® wyró�
 - Idealny prezent dla małych i dorosłych fanów LEGO® 
 - Wymienialny wkład
 
+**Galeria:**
+
+- 52601-1: https://a.allegroimg.com/original/1199c9/00253e07492fa1677497e8ca3d37
+
 ---
 
-## 53709 — Lego Linijka z klocków Lego 30 cm z figurką 53709 Długopis z figurką
+## 53709 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 44.99 zł · EAN: 04895028537098 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53709 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028537098 |
 
 Linijka z klocków LEGO® 30 cm z figurką LEGO® + Długopis z figurką
 
@@ -2695,11 +4186,27 @@ Dodatkowo w tym zestawie jest także długopis żelowy z figurką.
 
 **Prezentacja może zawierać** zdjęcia poglądowe produktów, które nie są przedmiotem sprzedaży.
 
+**Galeria:**
+
+- 53709-1: https://a.allegroimg.com/original/11c424/ab7d68b84c7ba9d0a025767658ef
+
 ---
 
-## 561605 — Lego Friends Minifigure Polybag Ice Cream Cart #561605
+## 561605 — Ice Cream Cart
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 13.99 zł · EAN: 00887866728428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 561605 |
+| Nazwa angielska | Ice Cream Cart |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 887866728428 |
 
 **LEGO Friends polybag – Ice Cream Cart #561605**
 
@@ -2719,11 +4226,27 @@ Dodatkowo w tym zestawie jest także długopis żelowy z figurką.
 
 To doskonała miniaturowa scena do zabawy w sprzedaż lodów w Heartlake City – świetnie sprawdzi się w kreatywnych zabawach tematycznych. Dzięki limitowanej dostępności, zestaw ten będzie także ciekawym dodatkiem do kolekcji Friends.
 
+**Galeria:**
+
+- 561605-1: https://a.allegroimg.com/original/110e5d/9771586340ddb4193779867c0922
+
 ---
 
-## 562204 — Lego Friends Stoisko z owocami nr. 562204 Foil Pack saszetka
+## 562204 — Fruit Bar
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 7.49 zł · EAN: 00812768021216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 562204 |
+| Nazwa angielska | Fruit Bar |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021216 |
 
 Oryginalny Foil Pack Lego Friends Stoisko z owocami nr. 562204
 
@@ -2731,11 +4254,27 @@ Opakowanie może być pogniecione, posiadać uszkodzenia lub ślady taśmy, elem
 
 Zapraszam również na inne ogłoszenia.
 
+**Galeria:**
+
+- 562204-1: https://a.allegroimg.com/original/110262/31b12b8a493684ae76ceb37f62c9
+
 ---
 
-## 562205 — Lego Friends 562205 Salon piękności dla pudla Saszetka 1 Szt.
+## 562205 — Poodle Puppy at the Dog Groomer
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.79 zł · EAN: 05056687614318 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 562205 |
+| Nazwa angielska | Poodle Puppy at the Dog Groomer |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056687614318 |
 
 **MINIFIGURKA w POLYBAG LEGO - Poodle in Dog Parlor foil pack - Salon piękności dla pudla**
  
@@ -2753,11 +4292,26 @@ Zapraszam również na inne ogłoszenia.
  
 ⭐Golden Brick⭐
 
+**Galeria:**
+
+- 562205-1: https://a.allegroimg.com/original/110be3/0e32b6374a11913e17418127886a
+
 ---
 
-## 60448 — Lego City 60448 Czerwony samochód sportowy Katalog Lego Pdf
+## 60448 — City 60448 Czerwony samochód sportowy
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 57.49 zł · EAN: 05702017832944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60448 |
+| Nazwa angielska | Red Sports Car |
+| Nazwa polska | City 60448 Czerwony samochód sportowy |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 109 |
+| Cena katalogowa | 42.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812403, 5702017832944 |
 
 ❗W SKŁAD ZESTAWU WCHODZI❗
 
@@ -2836,11 +4390,27 @@ Zapraszam również na inne ogłoszenia.
 
 ❗ Serdecznie zapraszamy do zakupu zestawu z naszej aukcji ❗
 
+**Galeria:**
+
+- 60448-1: https://a.allegroimg.com/original/11eea0/237efa7148c2aa857984038b0d49
+- 60448-2: https://a.allegroimg.com/original/05613b/2ec0c4e241c8b2339da9acb69721
+
 ---
 
-## 6047303 — Lego 6047303/850850 Bombka Mikołaj
+## 6047303 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 132.50 zł · EAN: 00673419201322 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6047303 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419201322 |
 
 LEGO 6047303/850850 Bombka - Mikołaj
 
@@ -2856,11 +4426,26 @@ Numer:** 850850**
 
 Nazwa:** Santa Holiday Bauble**
 
+**Galeria:**
+
+- 6047303-1: https://a.allegroimg.com/original/11e46a/c6f10d7540fc9b1f8c00a8ac2d31
+
 ---
 
-## 6239 — Lego Pirates 6239 Walka z użyciem armaty nowy zestaw klocków model wycofany
+## 6239 — Cannon Battle
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 242.00 zł · EAN: 05702014532885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6239 |
+| Nazwa angielska | Cannon Battle |
+| Nazwa polska | — |
+| Seria | Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014532885 |
 
 Witam
 
@@ -2878,11 +4463,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 6239-1: https://a.allegroimg.com/original/115178/8d6a7319426f9e3972252db25dd5
+
 ---
 
-## 6550802 — Lego 6550802 Chronometr Okrętowy 10+ Nowy
+## 6550802 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 175.00 zł · EAN: 05055277042708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6550802 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Pirates |
+| Grupa wiekowa | 12 m + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5055277042708 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -2903,11 +4503,27 @@ Wzbogać swoją kolekcję LEGO® o unikalny zestaw Chronometr okrętowy (500904
 - Funkcja dekoracyjna: Chronometr okrętowy to nie tylko model do zbudowania, ale także stylowy element dekoracyjny, który doda charakteru każdemu pomieszczeniu.
 - Unikatowy design: Zestaw został wprowadzony w tym roku i wyróżnia się precyzyjnym wykonaniem oraz tematem inspirowanym klasycznymi morskimi przyrządami nawigacyjnymi.
 
+**Galeria:**
+
+- 6550802-1: https://a.allegroimg.com/original/117ef3/2e97c0bc46598e728e3a8089b143
+
 ---
 
-## 662205 — Lego Minecraft Minifigure Polybag Steve with Drowned #662205 Saszetka
+## 662205 — Steve with Boat and Water Zombie
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 31.22 zł · EAN: 00673419388733 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 662205 |
+| Nazwa angielska | Steve with Boat and Water Zombie |
+| Nazwa polska | — |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419388733 |
 
 LEGO Minecraft Minifigure Polybag - Steve with Drowned #662205
 
@@ -2920,33 +4536,26 @@ Cechy produktu:
 - Seria: Minecraft
 - Płeć: chłopcy, dziewczynki
 
----
+**Galeria:**
 
-## 70684 — Lego 70684 Ninjago sama Figurka Kai Fs njo530 Nowa
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 66.66 zł · EAN: 05702014780255 · in stock*
-
-KAI
-
-**Seria: **Ninjago
-
-**Numer katalogowy minifigurki: **njo530
-
-**Pochodzi z nowego zestawu: **70684 Ninjago - Potęga Spinjitzu - Kai kontra samuraj
-
-**Stan minifigurki: **Nowy - do samodzielnego złożenia. Figurka zapakowana w woreczek strunowy. **Nigdy nie była składana!**
-
-**Nazwa katalogowa: **Kai FS (Spinjitzu Slam)
-
-**Liczba części: **4
-
-Figurki są **nieużywane**, **nieskładane** wcześniej i pochodzą **z nowych oryginalnych zestawów Lego**
+- 662205-1: https://a.allegroimg.com/original/1124a2/cee2a8d04daf8727ec1d5e49ab2c
 
 ---
 
-## 71000 — Lego minifigures 71000 Seria 9 Mermaid Syrenka Syrena col09-12
+## 71000 — Waiter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702014973497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71000 |
+| Nazwa angielska | Waiter |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014973497 |
 
 Lego minifigures 71000 Seria 9 Syrenka Syrena col09-12
 
@@ -2954,11 +4563,26 @@ Lego minifigures 71000 Seria 9 Syrenka Syrena col09-12
 - **Figurka nowa, wraz z akcesoriami i podstawką****.**
 - Sprzedawane klocki LEGO są** ****nowe i oryginalne****.**
 
+**Galeria:**
+
+- 71000-1: https://a.allegroimg.com/original/11e311/e4597c0e4f1bb6e7d06672f59885
+
 ---
 
-## 71005 — Lego 71005 Simpsonowie Marge figurka nowa, zamknięta nienacinana!
+## 71005 — Homer Simpson
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 96.00 zł · EAN: 05702015115797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71005 |
+| Nazwa angielska | Homer Simpson |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115797 |
 
 **Minifigurka LEGO – oryginalna postać, wielka radość dla fanów!**
 
@@ -2988,11 +4612,26 @@ Lego minifigures 71000 Seria 9 Syrenka Syrena col09-12
 
 **⏱️ Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 71005-1: https://a.allegroimg.com/original/112d6c/76e5949d412482df67fb092521c2
+
 ---
 
-## 71006 — Oferta! Klocki Lego Zestaw The Simpsons House 71006
+## 71006 — The Simpsons House
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702015115810 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71006 |
+| Nazwa angielska | The Simpsons House |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 2523 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115810 |
 
 LEGO The Simpsons 71006 - The Simpsons House to kolekcjonerski zestaw LEGO, który wiernie odwzorowuje dom rodziny Simpsonów z serialu animowanego. Wydany w lutym 2014 roku, zestaw składa się z 2523 elementów i zawiera 6 minifigurek: Homera, Marge, Barta, Lisę, Maggie oraz sąsiada Neda Flandersa.
  
@@ -3018,11 +4657,26 @@ Piętro: Sypialnia Homera i Marge z łóżkiem i łóżeczkiem Maggie; pokój Ba
 - **Rok wydania**: 2014 
 - **Status**: Zestaw wycofany z produkcji w 2017 roku
 
+**Galeria:**
+
+- 71006-1: https://a.allegroimg.com/original/11d679/83f38cb6420dadf1dbd06fc4249e
+
 ---
 
-## 71007 — Lego Minifigurki 71007 Seria 12 cała seria Nowe
+## 71007 — Wizard
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702015115803 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71007 |
+| Nazwa angielska | Wizard |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015115803 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
 
@@ -3037,11 +4691,26 @@ Kolekcja minifigurek LEGO® ciągle rośnie — przedstawiamy 16 nowych z serii 
 - Ciekawe nowe postacie do kolekcji minifigurek LEGO® 
 - Wprowadź unikalny kod i graj online na stronie LEGO
 
+**Galeria:**
+
+- 71007-1: https://a.allegroimg.com/original/11c158/f3a8519041fa88146df2b6f25ebd
+
 ---
 
-## 71009 — Lego 71009 Simpsons 2 Minifigurka Lisa I Śnieżynka
+## 71009 — Homer
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 47.99 zł · EAN: 05702015353038 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71009 |
+| Nazwa angielska | Homer |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353038, 5702015353670 |
 
 LEGO The Simpsons Series 2 71009
  
@@ -3053,11 +4722,27 @@ Ay carumba – to fantastyczna druga seria minifigurek LEGO® związana z Simpso
  
 Sprzedawane klocki są nowe i oryginalne.
 
+**Galeria:**
+
+- 71009-1: https://a.allegroimg.com/original/11f7a5/eff9194b46e592e88a9cf2c91bd7
+- 71009-2: https://a.allegroimg.com/original/1192b6/06c9f1d8449797322b65f0aa8994
+
 ---
 
-## 71010 — Lego Minifigurka "Banshee" (col14-14) z Serii 14 (71010)
+## 71010 — Wolf Guy
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702015353694 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71010 |
+| Nazwa angielska | Wolf Guy |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015353694 |
 
 **Oryginalna minifigurka LEGO® Banshee (col14-14) – Seria 14 (71010), kolekcjonerska figurka**
 
@@ -3104,39 +4789,26 @@ Każda figurka ma swoją historię i charakter – stwórz własną galerię boh
 - Pakowanie zastawów odbywa się pod nadzorem kamery.
 - Proszę o jak najszybsze wystawianie komentarza, dzięki temu będę wiedział czy wszystko było w porządku.
 
----
+**Galeria:**
 
-## 71017 — Lego 71017 Seria Batman Dick Grayson
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.90 zł · EAN: 05702015594646 · in stock*
-
-LEGO Minifigurka Dick Grayson – Robin (71017‑9)
-
-**Stan**: Nowa / bez saszetki
-
-**Seria**: The LEGO Batman Movie – Minifigures
-
-**Numer figurki**: 71017‑9
-
-**Zestaw zawiera**:
-
-- Minifigurkę Dick Grayson (Robin)
-- Buteleczkę "Shark Repellent"
-
-**Opis przedmiotu**
-
-Na sprzedaż oferuję figurkę **Dick Grayson (Robin)** z kolekcji LEGO Minifigures 71017 – The LEGO Batman Movie. Figurka ubrana jest w sweterek z logo Robina, posiada ciemne włosy i charakterystyczną buteleczkę "Shark Repellent" – nawiązanie do klasycznych przygód "Batman and Robin".
-
-- Idealna dla kolekcjonerów i fanów Bat-familii
-- Świetny prezent lub brakujący element kolekcji
-
-Zdjęcia znajdujące się w galerii, dokładnie przedstawiają sprzedawany przedmiot.
+- 71010-1: https://a.allegroimg.com/original/11306a/baec073b47999ccfc0f4e0000261
 
 ---
 
-## 71019 — Lego Minifigurka "Spinjitsu Training Nya" (coltlnm-2) Ninjago Movie (71019)
+## 71019 — Kai Kendo
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016023572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71019 |
+| Nazwa angielska | Kai Kendo |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866828, 5702016023572 |
 
 **Oryginalna minifigurka LEGO® Spinjutsu Training Nya (coltlnm-2) – The Lego Ninjago Movie (71019), kolekcjonerska figurka**
 
@@ -3183,11 +4855,27 @@ Każda figurka ma swoją historię i charakter – stwórz własną galerię boh
 - Pakowanie zastawów odbywa się pod nadzorem kamery.
 - Proszę o jak najszybsze wystawianie komentarza, dzięki temu będę wiedział czy wszystko było w porządku.
 
+**Galeria:**
+
+- 71019-1: https://a.allegroimg.com/original/112e2d/085d97cc4c21a8d5c790ac097fb4
+- 71019-2: https://a.allegroimg.com/original/115361/d2d0aea845448e81f63a120bcc24
+
 ---
 
-## 71020 — Lego Minifigures 71020 Batman Movie 2 Killer Moth #12
+## 71020 — Disco Harley Quinn
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419195270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71020 |
+| Nazwa angielska | Disco Harley Quinn |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195270 |
 
 Zapraszam do zakupu
 
@@ -3199,11 +4887,26 @@ Minifigurka wraz z akcesoriami zapakowana w woreczek strunowy.
 
 Sprzedawane klocki LEGO są **nowe i oryginalne.**
 
+**Galeria:**
+
+- 71020-1: https://a.allegroimg.com/original/112d2c/1d6bfeb2487ab393a445d0d09bc0
+
 ---
 
-## 71022 — Lego Minifigures Seria Harry Potter 71022-1
+## 71022 — Harry Potter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 34.69 zł · EAN: 05702016108668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71022 |
+| Nazwa angielska | Harry Potter |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016108668 |
 
 ORYGINALNA miniFIGURKA LEGO
 
@@ -3219,11 +4922,26 @@ Rok wydania:** 2018**
 
 Dodatkowe informacje: **Saszetka nacięta w celu weryfikacji zawartości.**
 
+**Galeria:**
+
+- 71022-1: https://a.allegroimg.com/original/117911/b72e45194d5bae358abcf4f4ef73
+
 ---
 
-## 71023 — Lego Minifigurka "Flashback Lucy" (coltlm2-9) The Lego Movie 2 (71023)
+## 71023 — Awesome Remix Emmet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702015594660 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71023 |
+| Nazwa angielska | Awesome Remix Emmet |
+| Nazwa polska | — |
+| Seria | The Movie |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594660, 5702016369274, 5702016369281, 5702016418217, 673419181235 |
 
 **Oryginalna minifigurka LEGO® Flashback Lucy (coltlm2-9) – The Lego Movie 2 (71023), kolekcjonerska figurka**
 
@@ -3270,11 +4988,30 @@ Każda figurka ma swoją historię i charakter – stwórz własną galerię boh
 - Pakowanie zastawów odbywa się pod nadzorem kamery.
 - Proszę o jak najszybsze wystawianie komentarza, dzięki temu będę wiedział czy wszystko było w porządku.
 
+**Galeria:**
+
+- 71023-1: https://a.allegroimg.com/original/116a5a/9816a673412086e821043edcd538
+- 71023-2: https://a.allegroimg.com/original/119898/f57ad64e4c51ab7e1f066052d437
+- 71023-3: https://a.allegroimg.com/original/11ffd5/036e4b4f4861a007090b2269639d
+- 71023-4: https://a.allegroimg.com/original/116289/734ecc7c4d819f1f3fccbc9312c7
+- 71023-5: https://a.allegroimg.com/original/118ffa/3f82841c4436b3cea084473688ab
+
 ---
 
-## 71024 — Lego 71024 Seria Disney 2 Edna Mode
+## 71024 — Vintage Mickey
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 26.00 zł · EAN: 05702016369298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71024 |
+| Nazwa angielska | Vintage Mickey |
+| Nazwa polska | — |
+| Seria | Disney |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4250941138645, 5702016369298, 673419180955 |
 
 LEGO® 71024 Seria Disney Edna Mode nr. 17
 
@@ -3316,11 +5053,28 @@ LEGO® 71024 Seria Disney Edna Mode nr. 17
 
 Realne zdjęcia figurki znajdują się w galerii aukcji — kupujesz dokładnie to, co widzisz.
 
+**Galeria:**
+
+- 71024-1: https://a.allegroimg.com/original/11b2ba/b7444b7d48e8b4dea01ad957823c
+- 71024-2: https://a.allegroimg.com/original/116902/61d662864a108c9b6511e8fd71b5
+- 71024-3: https://a.allegroimg.com/original/11a388/b622a7464ddc8f600083700b71f7
+
 ---
 
-## 71025 — Lego Minifigures 71025 Seria 19 saszetka losowa
+## 71025 — Video Game Champ
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702016369311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71025 |
+| Nazwa angielska | Video Game Champ |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016369311, 5702016369328 |
 
 Zapraszam do zakupu
 
@@ -3348,11 +5102,27 @@ W saszetce losowo znajduje się jedna z postaci:
 - **Miś (kostiumowa)**
 - **Rowerzystka**
 
+**Galeria:**
+
+- 71025-1: https://a.allegroimg.com/original/116b5b/b1e25cd74f4b9a28847c271c06be
+- 71025-2: https://a.allegroimg.com/original/117be1/f4bd012049fb9cccdefbf7251cf9
+
 ---
 
-## 71027 — Lego 71027 Mężczyzna w kostiumie klocka
+## 71027 — Piñata Boy
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 38.00 zł · EAN: 05702016619454 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71027 |
+| Nazwa angielska | Piñata Boy |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619423, 5702016619454 |
 
 **LEGO Minifigures 71027 – Brick Costume Guy**
 
@@ -3370,11 +5140,27 @@ Zestaw zawiera:
 
 Zdjęcia znajdujące się w galerii, dokładnie przedstawiają sprzedawany przedmiot.
 
+**Galeria:**
+
+- 71027-1: https://a.allegroimg.com/original/1138a4/1ef3460542ffb01f4f2e2d575a0e
+- 71027-2: https://a.allegroimg.com/original/118d08/146787294f4995175e93ab791960
+
 ---
 
-## 71028 — Lego Minifigures Seria Harry Potter II 71028-3 Hermione Granger
+## 71028 — Harry Potter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 24.69 zł · EAN: 05702016619430 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71028 |
+| Nazwa angielska | Harry Potter |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016619430 |
 
 ORYGINALNA miniFIGURKA LEGO
 
@@ -3390,11 +5176,26 @@ Rok wydania:** 2020**
 
 Dodatkowe informacje: **Saszetka nacięta w celu weryfikacji zawartości.**
 
+**Galeria:**
+
+- 71028-1: https://a.allegroimg.com/original/113200/52cf6084431a9c64000ce283d862
+
 ---
 
-## 71029 — Lego Minifigures Seria 21 71029 Tancerka Kabaretow
+## 71029 — Paddle Surfer
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 24.00 zł · EAN: 05702016912135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71029 |
+| Nazwa angielska | Paddle Surfer |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110913, 5702016912104, 5702016912135, 5702016937725 |
 
 **LEGO® 71029 Minifigurki Seria 21**
 
@@ -3425,11 +5226,29 @@ Każda ze starannie wykonanych, bogatych w szczegóły minifigurek jest dostarcz
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, zgniatane, skręcane, podgrzewane, wyginane, rysowane i rozciągane. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 71029-1: https://a.allegroimg.com/original/11ba54/dc0c91414c669d8c8111887558f5
+- 71029-2: https://a.allegroimg.com/original/11e239/1abaaa474edcb1ae19472ff65f6a
+- 71029-3: https://a.allegroimg.com/original/11fde7/bcda107f4f48851381441cf6ac8c
+- 71029-4: https://a.allegroimg.com/original/11b8bb/6ff677d348b88e164c62128d9e57
+
 ---
 
-## 71030 — Lego Looney Tunes Świnka Petunia collt11 71030 Nowy
+## 71030 — Lola Bunny
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.19 zł · EAN: 05702016912401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71030 |
+| Nazwa angielska | Lola Bunny |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911640, 5702016912401 |
 
 Lego Looney Tunes Świnka Petunia 71030 NOWY
 
@@ -3441,11 +5260,27 @@ Kolor widoczny na zdjęciu.
 
 Zapraszam na moje pozostałe aukcje z elementami LEGO.
 
+**Galeria:**
+
+- 71030-1: https://a.allegroimg.com/original/11e75c/4d14546a4f95b0c3c7c6217ce80a
+- 71030-2: https://a.allegroimg.com/original/11e66c/33d322c54fb0b0e104402bc6a07f
+
 ---
 
-## 71031 — Lego Minifigurka "The Vision" (colmar-2) Marvel (71031)
+## 71031 — The Scarlet Witch
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 115.00 zł · EAN: 00673419339018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71031 |
+| Nazwa angielska | The Scarlet Witch |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912258, 5702016912722, 5702017094038, 5702017094182, 673419339018 |
 
 **Oryginalna minifigurka LEGO® The Vision (colmar-2) – Marvel Studios (71031), kolekcjonerska figurka**
 
@@ -3492,11 +5327,30 @@ Każda figurka ma swoją historię i charakter – stwórz własną galerię boh
 - Pakowanie zastawów odbywa się pod nadzorem kamery.
 - Proszę o jak najszybsze wystawianie komentarza, dzięki temu będę wiedział czy wszystko było w porządku.
 
+**Galeria:**
+
+- 71031-1: https://a.allegroimg.com/original/113478/788a60134b55a4535d58bb7ee4cd
+- 71031-2: https://a.allegroimg.com/original/1147ee/a0ba7779425e94972415c6f9c2c2
+- 71031-3: https://a.allegroimg.com/original/11159c/75586529477299897a8e6ee41b72
+- 71031-4: https://a.allegroimg.com/original/11b6b2/9c171ddc40c2ba2ba22766f211a2
+- 71031-5: https://a.allegroimg.com/original/117b06/02bddcc3402e91d014cefb0213e5
+
 ---
 
-## 71032 — Lego Minifigures 71032 Seria 22 łyżwiarz mistrz figurowy #6
+## 71032 — Robot Repair Tech
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 14.00 zł · EAN: 05702017183305 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71032 |
+| Nazwa angielska | Robot Repair Tech |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154756, 5702017183305 |
 
 Zapraszam do zakupu
 
@@ -3508,11 +5362,27 @@ Minifigurka wraz z akcesoriami zapakowana w woreczek strunowy.
 
 Sprzedawane klocki LEGO są **nowe i oryginalne.**
 
+**Galeria:**
+
+- 71032-1: https://a.allegroimg.com/original/1184a6/2e7126504ff6b95d8d49405660b2
+- 71032-2: https://a.allegroimg.com/original/112310/5fc27a3e4e9b8dc652854b168af2
+
 ---
 
-## 71033 — Lego Minifigures 71033 Muppets Pudełko 36 sztuk
+## 71033 — Rowlf
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1099.99 zł · EAN: 05702017253596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71033 |
+| Nazwa angielska | Rowlf |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972520, 5702017154763, 5702017183312, 5702017253596 |
 
 LEGO Minifigures 71033 Muppets Pudełko 36 sztuk
 
@@ -3543,11 +5413,29 @@ Czas na zabawę
 
 Zgromadź całą Muppetową ekipę w jednym miejscu - LEGO Minifigures 71033 Muppets Pudełko 36 sztuk to komplet, który zachwyci zarówno miłośników LEGO, jak i fanów kultowych postaci.
 
+**Galeria:**
+
+- 71033-1: https://a.allegroimg.com/original/113ebd/59dc14564895be63500c44ccf032
+- 71033-2: https://a.allegroimg.com/original/11f65a/e4e0765f4087b49287b7921594a6
+- 71033-3: https://a.allegroimg.com/original/118067/f6b560db4863a2344b3b24d6dc8c
+- 71033-4: https://a.allegroimg.com/original/11d9c6/7e17859b4bba887f97416826120e
+
 ---
 
-## 71034 — Lego Minifgurka Seria 23 71034 Kostium Robota Robot col23-6
+## 71034 — Nutcracker
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017154503 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71034 |
+| Nazwa angielska | Nutcracker |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154503, 5702017182964 |
 
 - **Seria** : Series 23 Minifigures
 
@@ -3557,11 +5445,27 @@ Zgromadź całą Muppetową ekipę w jednym miejscu - LEGO Minifigures 71033 Mup
 - **Cena dotyczy : **1 sztuki
 - Figurka LEGO® jest **nowa i oryginalna**
 
+**Galeria:**
+
+- 71034-1: https://a.allegroimg.com/original/11443d/2471cb5c4df2b13a87e24a0abe04
+- 71034-2: https://a.allegroimg.com/original/112298/ba5e717a4acbae0bb642dadc70f2
+
 ---
 
-## 71035 — Minifigurki Lego Muppet 71035 6 sztuk
+## 71035 — Muppets - 6 Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 290.09 zł · EAN: 05702017241104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71035 |
+| Nazwa angielska | Muppets - 6 Pack |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241104 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -3617,11 +5521,26 @@ Każda ze starannie wykonanych, bogatych w szczegóły minifigurek LEGO jest dos
 - Prezent na urodziny lub bez okazji — te wysokiej jakości minifigurki i akcesoria z limitowanej edycji doskonale nadają się na prezent niespodziankę
 - Wysoka jakość bez kompromisów — elementy zestawów LEGO® już od 1958 roku spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują
 
+**Galeria:**
+
+- 71035-1: https://a.allegroimg.com/original/1125bc/dee9e625476fba21a9d9cf3aa2e5
+
 ---
 
-## 71036 — Lego 71036 Minifigurki Seria 23 sześciopak Eol
+## 71036 — Series 23 - 6 Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 184.99 zł · EAN: 05702017241111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71036 |
+| Nazwa angielska | Series 23 - 6 Pack |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241111 |
 
 LEGO MINIFIGURES
  
@@ -3647,11 +5566,26 @@ Każda ze starannie wykonanych, bogatych w szczegóły minifigurek LEGO jest dos
  
 Powiększ kolekcję lub odgrywaj różnorodne historie dzięki LEGO® Minifigures – sześciopak. Zestaw zawiera 12 postaci do zbierania z Serii 23, w tym cukrowego wróża, tekturowego robota i rycerza Żółtego Zamku. Każde opakowanie zawiera sześć szczegółowych postaci z limitowanej edycji, które stanowią wspaniały dodatek do kolekcji. Wiele z nich ma dodatkowe akcesoria. Kogo znajdziesz w kolejnym „tajemniczym” pakiecie?
 
+**Galeria:**
+
+- 71036-1: https://a.allegroimg.com/original/050e2b/d7cc2e0e4ec4ac8f0762e19cd648
+
 ---
 
-## 71037 — Lego 71037 Minifigurki Seria 24 Garncarka
+## 71037 — Football Referee
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 20.00 zł · EAN: 05702017417660 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71037 |
+| Nazwa angielska | Football Referee |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417660, 5702017434575 |
 
 **LEGO 71037-9 Garncarka**
 
@@ -3676,11 +5610,27 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 71037-1: https://a.allegroimg.com/original/119751/9b1138924d9f9eb7057c5d916387
+- 71037-2: https://a.allegroimg.com/original/114501/2c230ecb4419948170b03f9a2404
+
 ---
 
-## 71038 — 71038 Lego figurka Disney Królowa Kier bez cięcia
+## 71038 — Oswald the Lucky Rabbit
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.90 zł · EAN: 05702017417752 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71038 |
+| Nazwa angielska | Oswald the Lucky Rabbit |
+| Nazwa polska | — |
+| Seria | Disney |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417752, 5702017417813 |
 
 Lego figurka Disney 71038 **Królowa Kier**
 
@@ -3690,11 +5640,27 @@ Nowa seria minifigurek umożliwia dzieciom odtwarzanie swoich ulubionych moment�
 
 **LEGO Minifigures Disney 100 (71038)** to nie tylko świetna zabawa, ale także wysoka jakość. Klocki Lego są znane z tego, że są trwałe, kompatybilne i spełniają najwyższe standardy bezpieczeństwa na całym świecie. To zapewnia, że dzieci są zawsze w bezpiecznych rękach.
 
+**Galeria:**
+
+- 71038-1: https://a.allegroimg.com/original/11a59c/b029c71646e99bda0c70af038114
+- 71038-2: https://a.allegroimg.com/original/11e359/c2f553034853a7cbd7b29e90bbfc
+
 ---
 
-## 71039 — Lego 71039 Marvel Seria 2 komplet 12 zaplombowanych figurek w dyspenserze
+## 71039 — Agatha Harkness
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017560625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71039 |
+| Nazwa angielska | Agatha Harkness |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417769, 5702017544199, 5702017560625 |
 
 KOMPLETNA KOLEKCJA 12 MINIFIGUREK LEGO® 71039 Marvel Seria 2 / ORYGINALNIE ZAMKNIĘTE PUDEŁKA - fabryczne opakowanie zbiorcze LEGO z kompletem 12 minifigurek
 
@@ -3736,11 +5702,28 @@ Do każdej szczegółowej minifigurki LEGO Marvel dołączono co najmniej jedno 
 - Wysoka jakość — już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby idealnie do siebie pasowały
 - Zawsze w bezpiecznych rękach — klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 71039-1: https://a.allegroimg.com/original/113e2b/79b8aab94d6f87af018a3b30a687
+- 71039-2: https://a.allegroimg.com/original/112132/538692df4fa4a98489693ebce69c
+- 71039-3: https://a.allegroimg.com/original/116973/d9a713254938866e411059d1e748
+
 ---
 
-## 71045 — Lego Minifigures Seria 25 Biegaczka z protezami Sprinter 71045 Nowa
+## 71045 — Film Noir Detective
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 15.80 zł · EAN: 05702017646657 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71045 |
+| Nazwa angielska | Film Noir Detective |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595573, 5702017595580, 5702017646657 |
 
 LEGO Minifigures SERIA 25 - Biegaczka z protezami + akcesoria
  
@@ -3754,11 +5737,28 @@ Dzieci w wieku od pięciu lat mogą przeżywać ekscytujące przygody z jedną z
  
 Każda kolekcjonerska minifigurka zawiera realistyczne akcesoria. Minifigurki to: miłośnik triceratopsów w przebraniu, sprinter, detektyw z filmu kryminalnego, mały miłośnik pociągów, pasterz, wampirzy rycerz, psia fryzjerka, instruktorka fitness, biegaczka z protezami, leśny duszek, groźny barbarzyńca i harpia. Łącznie to 12 minifigurek do zebrania.
 
+**Galeria:**
+
+- 71045-1: https://a.allegroimg.com/original/11e93c/bc6f35864a3cb8faf7d865566192
+- 71045-2: https://a.allegroimg.com/original/11ffe3/001fd0d94502af39d4c9c5107282
+- 71045-3: https://a.allegroimg.com/original/11728a/5499399a42bd9d4ed7987b9ccda0
+
 ---
 
-## 71046 — Lego Minifigures 71046 Figurka chrząszcz obcy Kosmiczny Żukozoid
+## 71046 — Spacewalking Astronaut
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.50 zł · EAN: 05702017595597 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71046 |
+| Nazwa angielska | Spacewalking Astronaut |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595597, 5702017595603 |
 
 LEGO MINIFIGURES 71046 - SERIA 26
  
@@ -3788,11 +5788,27 @@ W każdym opakowaniu znajduje się jedna minifigurka LEGO, a łącznie jest ich 
  
 Wszystkie 12 kolekcjonerskich minifigurek LEGO idealnie nada się do odgrywania ekscytujących historii w kosmosie. Są one zapakowane w zapieczętowane pudełko-niespodziankę, w którym znajduje się także co najmniej jedno realistyczne akcesorium i ulotka dla kolekcjonerów. Ten wyjątkowy prezent dla dzieci zapewnia niezliczone godziny samodzielnej zabawy lub zabawy z przyjaciółmi.
 
+**Galeria:**
+
+- 71046-1: https://a.allegroimg.com/original/115454/6ab6532f4646b051e5eed5a8cf74
+- 71046-2: https://a.allegroimg.com/original/11dc0d/6171f59c4eda8982aea693b76f04
+
 ---
 
-## 71047 — Lego Minifigurki 71047 Dungeons & Dragons komplet 12 szt.
+## 71047 — Dwarf Barbarian
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 335.00 zł · EAN: 00673419391924 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71047 |
+| Nazwa angielska | Dwarf Barbarian |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595610, 5702017595627, 673419391924 |
 
 KOMPLETNA KOLEKCJA 12 MINIFIGUREK LEGO® 71047 Series 27 Dungeons & Dragons / ORYGINALNIE ZAMKNIĘTE PUDEŁKA
 
@@ -3835,11 +5851,28 @@ Wszystkie 12 minifigurek LEGO świetnie sprawdzą się w odgrywaniu niesamowityc
 - Prezent z gry Dungeons & Dragons® — te kolekcjonerskie figurki LEGO® to fajny pomysł na prezent dla dzieci, które zasłużyły na nagrodę lub małych miłośników fantastyki 
 - Godziny zabawy z LEGO® — te minifigurki można dodać do swojej kolekcji, ustawić na półce lub wykorzystać do zabawy i odgrywania ról w kultowej grze Dungeons & Dragons®
 
+**Galeria:**
+
+- 71047-1: https://a.allegroimg.com/original/117637/21c0e52a4029989661a1ca04901f
+- 71047-2: https://a.allegroimg.com/original/1157f6/104a9abb483ea3c54b28caccc52c
+- 71047-3: https://a.allegroimg.com/original/11850a/0da6af6f4741a1ecfe468b51abb5
+
 ---
 
-## 71048 — Lego Minifigures 71048 Minifigurki seria 27 Cały zestaw 12 sztuk Komplet
+## 71048 — Hamster Costume Fan
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 229.95 zł · EAN: 05702017850245 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71048 |
+| Nazwa angielska | Hamster Costume Fan |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017784786, 5702017850245, 5702017850283 |
 
 LEGO Minifigures 71048 Minifigurki seria 27 Cały zestaw 12 sztuk KOMPLET
 
@@ -3881,41 +5914,180 @@ Dzieci w wieku od pięciu lat mogą przeżywać** ekscytujące przygody z jedną
 
 Klocki LEGO to idealny wybór dla dzieci, młodzieży i dorosłych, łączący zabawę, kreatywność i pasję do budowania. Oryginalne zestawy LEGO, takie jak LEGO Creator, LEGO Technic, LEGO City, LEGO Friends, LEGO Star Wars, LEGO Botanicals czy LEGO Speed Champions gwarantują najwyższą jakość i satysfakcję z konstrukcji. Każdy zestaw LEGO to doskonały prezent urodzinowy, świąteczny, kolekcjonerski i na każdą okazję.
 
----
+**Galeria:**
 
-## 71049 — Lego Minifigures Bolid Formuła F1 71049 Bolid F1 #12
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 15.90 zł · EAN: 05702017916743 · in stock*
-
-**Bolid Formuła F1 Bolid F1**
- 
- 
-- Numer katalogowy:  71049 
-- Seria:  Minifigures 
-- Wiek:  od lat 6+ 
-- Data wejścia / wyjścia sprzedaży:  1.05.2025 / 31.08.2025 
-
-**Opis produktu**
- 
-Zajmij miejsce na linii startu za kierownicą Kolekcjonerskich bolidów F1® z tajemniczego pudełka. Łącznie do zebrania jest 12 bolidów F1 zespołów RB20, Mercedes-AMG, Ferrari, McLaren, Aston Martin, Alpine, Williams, VCARB, Sauber i Haas, a także bolid F1 i bolid F1 ACADEMY™. Każdy z nich ma ruchome koła i kask. Który bolid Formuły 1® znajdziesz w swoim niespodziankowym pudełku?
- 
-• Kolekcjonerski bolid F1® — dzięki niespodziankowym pudełkom z jednym modelem z serii LEGO® Kolekcjonerskie bolidy F1® dzieci w wieku od sześciu lat mogą odgrywać emocjonujące wyścigi
- 
-• Model bolidu Formuły 1® dla dzieci – fani samochodów mogą poszerzyć swoją kolekcję o jeden z 12 bolidów F1® znajdujących się w pudełku. Do zebrania jest 10 bolidów zespołów F1, a także bolid F1 i bolid F1 ACADEMY™
- 
-• Ruchome koła — każdy pojazd LEGO® ma kask w kokpicie i ruchome koła, dzięki czemu dzieci mogą organizować własne wyścigi
- 
-• Modele LEGO® inspirujące do kreatywnej zabawy — limitowana edycja pojazdów LEGO® pobudza wyobraźnię dzieci i pozwala im odgrywać historie, samodzielnie lub z przyjaciółmi
- 
-• Prezent dla chłopców i dziewczynek — te kolekcjonerskie bolidy F1® LEGO® to świetny pomysł na prezent dla dzieci i fanów Formuły 1®, którzy zasłużyli na miły upominek
- 
-• Do kolekcjonowania, ozdoby i zabawy — dodaj bolid F1® do swojej kolekcji, ustaw go na półce lub wykorzystaj do odgrywania emocjonujących wyścigów
+- 71048-1: https://a.allegroimg.com/original/11e748/12e8d8e54605ad228e6bb36ab549
+- 71048-2: https://a.allegroimg.com/original/11c4d5/3b062ccf4315885a128d9c838ac3
+- 71048-3: https://a.allegroimg.com/original/11110d/ba978dbe4d298cab6e95b4b2840e
 
 ---
 
-## 71050 — Lego 71050 Minifigures Spider-Man: Poprzez multiwersum
+## 71049 — RB20
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 12.90 zł · EAN: 05702017816791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71049 |
+| Nazwa angielska | RB20 |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816623, 5702017816661, 5702017916743, 5906058121429 |
+
+Stojak na LEGO Minifigurki Kolekcjonerskie bolidy F1 - 71049
+
+**4 opcje ekspozycja modelów:** bokiem (lewo / prawo) i pod kątem (lewo / prawo)
+
+✅ Najważniejsze w skrócie:
+
+- Mieści wszystkie 12 modeli
+- 4 różne opcje ekspozycji modeli
+- Gumowe stopki i solidna konstrukcja
+- Minimalistyczny design pasujący do każdego wnętrza
+- Łatwy, beznarzędziowy montaż
+
+⭐ Szczegółowy opis produktu
+
+Stabilna, funkcjonalna i estetyczna ekspozycja
+
+**Profesjonalny stojak ekspozycyjny z serii HOLD**, zaprojektowany specjalnie dla modeli LEGO® z serii kolekcjonerskich "minifigurek" F1. Idealne rozwiązanie do efektownego zaprezentowania kolekcji w uporządkowany i stylowy sposób.
+
+**Stojak mieści wszystkie 12 modeli. **Prezentowane na 4 różne sposoby, co **podkreśla dynamiczną sylwetkę samochodów**. Minimalistyczny design **pasuje do każdego wnętrza**, podkreślając wygląd modeli bez odciągania od nich uwagi.
+
+**Wykonany z trwałego materiału PETG**, zapewnia stabilność i odporność na codzienne użytkowanie. **Gumowe stopki chronią powierzchnię** i zapobiegają przesuwaniu się stojaka.
+
+**Każdy detal został dopracowany z myślą o estetyce i funkcjonalności **– tak, aby pasował do kolekcji każdego fana klocków.
+
+✅ Najważniejsze zalety:
+
+**✔️ Stabilność i bezpieczeństwo**
+
+- Gumowe stopki chronią powierzchnię i zapobiegają przesuwaniu
+- Solidna konstrukcja i pewne mocowanie modeli
+- Bezpieczna ekspozycja nawet przy przypadkowym dotknięciu
+
+**✔️ Efektowna i dynamiczna ekspozycja**
+
+- Dynamiczna prezentacja
+- 4 opcje ustawień modeli
+- Modele wyeksponowane w uporządkowany i estetyczny sposób
+
+**✔️ Łatwość użytkowania**
+
+- Prosty montaż – w zestawie znajdują się wszystkie potrzebne akcesoria oraz instrukcja online
+- Łatwe zdejmowanie i ponowne umieszczanie modeli
+- Beznarzędziowy montaż
+
+**✔️ Jakość i styl**
+
+- Minimalistyczny design, który pasuje do każdego wnętrza
+- Precyzyjne dopasowanie do modeli
+- Wytrzymałość – druk 3D na drukarkach PRUSA zapewnia wysoką jakość wykonania
+- Polska produkcja – autorski projekt z dbałością o detale
+
+✅** Produkt marki Saures wykonany w technologii druku 3D z materiału PETG** – wyjątkowo trwałego i wytrzymałego, znacznie odporniejszego niż tradycyjne PLA.
+
+⚙️ Parametry:
+
+- Marka: **Saures**
+- Seria: **HOLD**
+
+- Kompatybilność: **Kolekcjonerskie bolidy F1 - 71049**
+
+- Ilość opcji pozycji modelu: **4**
+
+- **Montaż: **Beznarzędziowy na klik
+
+- Technologia wykonania: **Druk 3D** (FDM)
+- Materiał: **PETG** (materiał o zwiększonej wytrzymałości)
+
+**Wymiary:**
+
+Sam stojak – bez modeli
+
+- ↔️ Szerokość: 21 cm
+- ↕️ Wysokość: 16 cm
+- ↩️ Głębokość: 10 cm
+
+Z zamontowanymi modelami (może się różnić w zależności od ustawienia)
+
+- ↔️ Szerokość: maks. 25 cm
+- ↕️ Wysokość: maks. 18 cm
+- ↩️ Głębokość: maks. 10 cm
+
+⏹️ Zawartość zestawu:
+
+- Stojak HOLD
+- 12× uchwyty na bolidy
+- Oryginalne opakowanie
+- Instrukcja online
+
+**Wszystko, czego potrzebujesz do montażu w jednym zestawie!**
+
+**❗ Zestaw klocków widoczny na zdjęciach nie jest częścią oferty – przedstawiony został wyłącznie w celach pokazowych.❗**
+
+✅ Funkcje
+
+⬇️ 4 pozycje ekspozycji
+
+✅ Instrukcja
+
+**1️⃣ Montaż uchwytów podwozia**
+
+Wybierając orientacje ekspozycji modeli wsuń po 4 uchwyty podwozia do każdego pionowego profilu. Wsuń do momentu usłyszenia "KLIK".
+
+**2️⃣ Montaż profili pionowych**
+
+Wszystkie 3 profile pionowe z zamontowanymi już uchwytami podwozia wsuń w 3 otwory w podstawce. Wsuń do momentu usłyszenia "KLIK".
+
+**3️⃣ ****Umieszczanie modeli**
+
+Zamocuj modele na uchwytach podwozi.
+
+**4️⃣ Gotowe :)**
+
+❤️ Wyjątkowość druku 3D i polskie korzenie
+
+✅ Produkty doceniane przez klientów z całego świata
+
+✅ Autorskie projekty testowane w praktyce
+
+✅ Produkcja od A do Z w Polsce
+
+✅ Wytrzymałe i estetyczne – druk 3D klasy premium
+
+**Każdy produkt powstaje z dbałością o detale**, przy użyciu wysokiej klasy drukarek 3D i materiałów zapewniających trwałość oraz precyzję.
+
+**Unikalna struktura druku** sprawia, że każdy egzemplarz ma swój unikalny charakter.
+
+**Zawsze pokazujemy rzeczywiste zdjęcia, abyś dokładnie wiedział, co otrzymujesz.**
+
+**Galeria:**
+
+- 71049-1: https://a.allegroimg.com/original/11906e/8dc4cc954753838b1b7b4285c16b
+- 71049-2: https://a.allegroimg.com/original/113084/91a908f64784a7543fa25ead9faa
+- 71049-3: https://a.allegroimg.com/original/111066/7685e675482c879af7800737f65a
+- 71049-4: https://a.allegroimg.com/original/2960d5/3250e4294b3caca6d6a9a110d823
+
+---
+
+## 71050 — Miles Morales / Spider-Man
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71050 |
+| Nazwa angielska | Miles Morales / Spider-Man |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816692, 5702017816791 |
 
 LEGO 71050 Minifigures Spider-Man: Poprzez multiwersum
 
@@ -3964,11 +6136,27 @@ Margo Kess/Spider-Byte i Patrick O’Hara/Web-Slinger.
 
 Galeria LEGO 71050 Minifigures Spider-Man: Poprzez multiwersum
 
+**Galeria:**
+
+- 71050-1: https://a.allegroimg.com/original/118929/9f49eae545bba009b37c40dabe44
+- 71050-2: https://a.allegroimg.com/original/1156e7/05f47d52412489708b96b8185e2a
+
 ---
 
-## 71051 — Lego Minifigures Zwierzęta 71051 Papuga Nr 12
+## 71051 — Peacock Suit
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 15.98 zł · EAN: 05702018084397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71051 |
+| Nazwa angielska | Peacock Suit |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018034088, 5702018084380, 5702018084397 |
 
 LEGO MINIFIGURES ZWIERZĘTA 71051 PAPUGA NR 12
 
@@ -3991,30 +6179,28 @@ WIEK:** 5+ LAT**
 
 **Opakowanie zamknięte nienaruszone, sprawdzone specjalnym skanerem kodów, gdzie w 100% znajduje się podana figurka.**
 
----
+**Galeria:**
 
-## 71052 — Lego Minifigurki 71052 Seria 29
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702018066980 · in stock*
-
-Obudźcie w małych budowniczych ekscytację i zaskoczcie ich **1 z 12** kolekcjonerskich figurek w tajemniczych pudełkach z modelem LEGO® Minifigurki Seria 29 (71052) dla chłopców i dziewczynek od 6 lat. Każde pudełko kryje 1 z łącznie 12 minifigurek LEGO®: bramkarza piłkarskiego, biologa morskiego, muzyka grającego na tubie, elfkę z jednorożcem, łowczynię potworów, robotycznego T-rexa, cukierniczkę, fankę bubble tea, cosplayerkę BIONICLE®, tajemniczego Rónina, uroczą czarownicę i potwora śmieciowego.
- 
-Każda z 12 minifigurek jest zapakowana w zapieczętowane tajemnicze pudełko i każda ma co najmniej 1 dodatek pasujący do jej postaci i tematu. Dzieci mogą wystawiać kolekcjonerskie zabawki obok modeli ze swojej obecnej kolekcji lub rozpocząć zabawę pełną wyobraźni, samodzielnie lub z przyjaciółmi. Ten pomysł na drobny prezent to kreatywny sposób na zainspirowanie małych budowniczych do tworzenia historii z zabawkami LEGO®.
-
- 
-- KOLEKCJONERSKIE MINIFIGURKI – Dzieci i fani od 6 lat mogą poszerzyć swoją kolekcję minifigurek LEGO® o jedną z tajemniczych zabawek z Serii 29, która zawiera wybór unikalnych i kreatywnych postaci 
-- ODKRYJ 1 Z 12 MAŁYCH ZABAWEK – W każdym pudełku kryje się 1 z 12 kolekcjonerskich minifigurek, wśród których może być bramkarz piłkarski, biolog morski, elfka z jednorożcem, łowca potworów lub cosplayerka BIONICLE® i inne. 
-- TEMATYCZNE AKCESORIA – Każda z minifigurek ma co najmniej 1 akcesorium, które pobudza żywiołową zabawę, w tym uroczą czarownicę z kotem, cukierniczkę z czekoladową kreacją i tajemniczego Rónina z mieczem i shurikenem. 
-- KREATYWNA ZABAWA – Rozwija wyobraźnię dzieci i inspiruje dziewczynki i chłopców do tworzenia historii z życia codziennego i pełnych fantazji dzięki unikalnemu wyborowi postaci inspirowanych legendarnymi motywami LEGO® 
-- POMYSŁ NA DROBNY PREZENT DLA DZIECI – Tajemnicze pudełka z niespodzianką to zabawny drobny prezent dla chłopców i dziewczynek, którzy kochają zabawę pełną wyobraźni i kolekcjonowanie minifigurek 
-- STWÓRZ WŁASNĄ KOLEKCJĘ POSTACI – Kolekcja LEGO® Minifigurki pozwala dzieciom kolekcjonować i składać figurki, a także bawić się nimi i wystawiać je na nieskończenie wiele sposobów 
-- **Opakowanie zawiera 1 figurkę, której nie można wybrać.**
+- 71051-1: https://a.allegroimg.com/original/11b00c/3489b20a4d8f87c9b69a4c6c8f26
+- 71051-2: https://a.allegroimg.com/original/119a4b/57a7747a4094b7174297c0408efe
+- 71051-3: https://a.allegroimg.com/original/115aae/ae8c54f84f57b3b6f26e84b07bc1
 
 ---
 
-## 71053 — Lego Minifigurki 71053 Seria Shrek komplet 12 unikatowych sztuk!:)
+## 71053 — Seria Shrek
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 186.17 zł · EAN: 05702018067024 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71053 |
+| Nazwa angielska | Thelonious |
+| Nazwa polska | Seria Shrek |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 7 |
+| Cena katalogowa | 16.49 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067000, 5702018067024 |
 
 PRZEDSPRZEDAŻ: LEGO Minifigures 71053 – Seria 30 (Shrek)
 
@@ -4046,11 +6232,27 @@ PRZEDSPRZEDAŻ: LEGO Minifigures 71053 – Seria 30 (Shrek)
 
 **Liczba zestawów w przedsprzedaży jest ściśle ograniczona.** Nie czekaj, aż ceny na rynku wtórnym poszybują w górę – dodaj do koszyka i zapewnij sobie pełne uniwersum Shreka już dziś!:)
 
+**Galeria:**
+
+- 71053-1: https://a.allegroimg.com/original/115d06/f989a0c54bc6ac97c5d19771127a
+- 71053-2: https://a.allegroimg.com/original/11c584/846c25bf4cb8831f8045652b1104
+
 ---
 
-## 71201 — Lego Dimensions 71201 Back To The Future Level Pack
+## 71201 — Back to the Future Level Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 349.99 zł · EAN: 05051892187763 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71201 |
+| Nazwa angielska | Back to the Future Level Pack |
+| Nazwa polska | — |
+| Seria | Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 94 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187763 |
 
 WITAM
 
@@ -4075,28 +6277,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
----
+**Galeria:**
 
-## 71219 — Lego 71219 Dimensions sama figurka dim008 Legolas Nowy
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 177.77 zł · EAN: 05051892187558 · in stock*
-
-**NOWA i oryginalna figurka marki LEGO**
-
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-
-**Figurka w stanie nowym (10/10) - Brak zarysowań, uszkodzeń, nie służyła zabawie. Przechowywana z dala od czynników szkodliwych (dym, sierść zwierząt, światło słoneczne).**
-
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-
-- Stan 10/10 oznacza, że od nowości leżała w woreczku strunowym - stan nowy/kolekcjonerski.
-- Stan 9,5/10 oznacza, że została raz złożona i stała na podstawce w ramce/gablocie wystawowej - nowa.
+- 71201-1: https://a.allegroimg.com/original/11567f/b87dce7f4a33a9a4af9eb0675c4b
 
 ---
 
-## 71234 — Lego Dimensions 71234 Fun Pack Ninjago Sensei Wu
+## 71234 — Sensei Wu Fun Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 149.99 zł · EAN: 05051892188715 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71234 |
+| Nazwa angielska | Sensei Wu Fun Pack |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188715 |
 
 WITAM
 
@@ -4121,11 +6321,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71234-1: https://a.allegroimg.com/original/119784/232373084ab1bf63208d90adc8fa
+
 ---
 
-## 71235 — Lego Dimensions Midway Arcade Level Pack 71235
+## 71235 — Midway Arcade Level Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 389.00 zł · EAN: 05051892188784 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71235 |
+| Nazwa angielska | Midway Arcade Level Pack |
+| Nazwa polska | — |
+| Seria | Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 96 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188784 |
 
 ZAPRASZAMY NA ZAKUPY.
 
@@ -4159,11 +6374,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 
 **!!! INFORMUJEMY !!! . KUPUJĄCY DOKONUJĄC EWENTUALNEGO ZWROTU PRZEDMIOTU POZA SPEŁNIENIEM WARUNKÓW ZOBOWIĄZANY JEST DO ODESŁANIA PRODUKTU W CIĄGU 14 DNI ROBOCZYCH OD MOMENTU ZGŁOSZENIA. PO UPŁYWIE TEGO TERMINU ZWROTY NIE BĘDĄ AKCEPTOWANE. DOKONUJĄC ZAKUPU WYRAŻASZ ZGODĘ NA TEN WARUNEK !!!!**
 
+**Galeria:**
+
+- 71235-1: https://a.allegroimg.com/original/11e181/25a125ad48dc8a24367c5b5548e5
+
 ---
 
-## 71241 — Lego Dimensions 71241 Fun Pack Ghostbusters Slimer
+## 71241 — Slimer Fun Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 229.99 zł · EAN: 05051892188821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71241 |
+| Nazwa angielska | Slimer Fun Pack |
+| Nazwa polska | — |
+| Seria | Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188821 |
 
 WITAM
 
@@ -4188,11 +6418,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71241-1: https://a.allegroimg.com/original/115d2b/f73e4af743bbb95f6a9e1af9d994
+
 ---
 
-## 71244 — Lego Dimensions 71244 Sonic The Hedgehog Level Pack Sonik Speedster Tornado
+## 71244 — Sonic the Hedgehog Level Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 569.99 zł · EAN: 05051892196666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71244 |
+| Nazwa angielska | Sonic the Hedgehog Level Pack |
+| Nazwa polska | — |
+| Seria | Dimensions |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892196666 |
 
 WITAM
 
@@ -4220,11 +6465,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71244-1: https://a.allegroimg.com/original/11d153/3e4a32174dac94ba42c1ba440b5d
+
 ---
 
-## 71248 — Lego Dimensions 71248 Level Pack Mission Impossible
+## 71248 — LEGO DIMENSIONS LEVEL PACK MISION IMPOSSIBLE 71248
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 189.99 zł · EAN: 05051892188746 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71248 |
+| Nazwa angielska | Mission: Impossible Level Pack |
+| Nazwa polska | LEGO DIMENSIONS LEVEL PACK MISION IMPOSSIBLE 71248 |
+| Seria | Dimensions |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 76 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188746, 5051892196819 |
 
 WITAM
 
@@ -4249,11 +6509,28 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71248-1: https://a.allegroimg.com/original/1109f7/5909c1e446e3a864e8c3713defe5
+- 71248-2: https://a.allegroimg.com/original/116532/6bc85d3147499992580a123fb0b4
+
 ---
 
-## 71361 — Lego 71361 Mario Zestaw Postaci-losowo
+## 71361 — Paragoomba
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 64.99 zł · EAN: 05702016618402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71361 |
+| Nazwa angielska | Paragoomba |
+| Nazwa polska | — |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016618402 |
 
 NOWE KLOCKI LEGO Z SERII SUPER MARIO
 
@@ -4267,11 +6544,27 @@ KLOCKI SĄ NOWE, ZAPAKOWANE FABRYCZNIE. DOSTĘPNE OD RĘKI.
 
 **CENA DOTYCZY 1 SASZETKI Z 1 FIGURKĄ**
 
+**Galeria:**
+
+- 71361-1: https://a.allegroimg.com/original/11397d/f65c34fa48fcbbe61c7bf86d550a
+
 ---
 
-## 71394 — Minifigurka Lego Mario zestaw figurek 6+ seria 3 71394
+## 71394 — 1-Up Mushroom
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702016912838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71394 |
+| Nazwa angielska | 1-Up Mushroom |
+| Nazwa polska | — |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912838 |
 
 LEGO SUPER MARIO
 
@@ -4307,11 +6600,27 @@ Zestawy LEGO Super Mario pozwalają przenieść ulubione postacie ze świata Sup
 
 **ZAKUP NA AUKCJI DOTYCZY JEDNEJ LOSOWO WYBRANEJ  FIGURKI!!!!**
 
+**Galeria:**
+
+- 71394-1: https://a.allegroimg.com/original/11b293/6fda6cf04f0a90ea5ed5e05c668a
+
 ---
 
-## 71402 — Lego 71402 Mario Seria 4 Komplet 10 Sztuk
+## 71402 — MARIO
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 394.99 zł · EAN: 05702017229218 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71402 |
+| Nazwa angielska | Freezie |
+| Nazwa polska | MARIO |
+| Seria | Super Mario |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017155227, 5702017229218 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -4342,11 +6651,28 @@ Zestawy LEGO Super Mario pozwalają przenieść ulubione postacie ze świata Sup
 - **Nieograniczona kreatywność — zestawy LEGO® Super Mario™ pozwalają powołać do życia ulubione postacie ze świata Super Mario™. Zestawy można rozszerzać i przerabiać, co daje niezliczone kreatywne możliwości**
 - **Najwyższa jakość — klocki konstrukcyjne LEGO® spełniają wymagające branżowe standardy jakości, więc możesz mieć pewność, że łatwo się łączą i mocno się trzymają .**
 
+**Galeria:**
+
+- 71402-1: https://a.allegroimg.com/original/11a5b8/ce99fa0b4b8a8afb5dd02a54cdda
+- 71402-2: https://a.allegroimg.com/original/05af73/e51dabac49568762d392196233e5
+
 ---
 
-## 71413 — Lego 71413 Mario Seria 6 Ice Bro Nr 2
+## 71413 — Blooper & Baby Bloopers
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702017415680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71413 |
+| Nazwa angielska | Blooper & Baby Bloopers |
+| Nazwa polska | — |
+| Seria | Super Mario |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017415680 |
 
 **ZESTAW KLOCKÓW LEGO**
 
@@ -4378,29 +6704,27 @@ Zestawy LEGO Super Mario pozwalają przenieść ulubione postacie ze świata Sup
 - **Zestawy LEGO® Super Mario™ pozwalają powołać do życia ulubione postacie ze świata Super Mario™. Zestawy można rozszerzać i przerabiać, co daje niezliczone kreatywne możliwości.**
 - **Klocki LEGO® spełniają wysokie branżowe standardy jakości, dzięki czemu mocno się trzymają, a złożone z nich modele są solidne.**
 
----
+**Galeria:**
 
-## 71792 — Lego Figurka Ninjago Rapton (71792/71794/71797)
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 14.00 zł · EAN: 09788325343873 · in stock*
-
-Witam
-
-Zapraszam do zakupu figurki LEGO Ninjago - Rapton
-
-Figurka pochodzi z zestawu : 71792/71794/71797
-
-Ilość elementów wchodzących w skład figurki : 5
-
-Klocki są nowe, oryginalne Lego, wyjęte z zestawu i starannie zapakowane
-
-Zapraszam na moje pozostałe aukcje z klockami Lego (systematycznie będę starał się zwiększać asortyment)
+- 71413-1: https://a.allegroimg.com/original/111eef/b5607dd542b3a5818694890feecc
 
 ---
 
-## 75148 — 4You Lego Star Wars Unkar Plutt SW0739 (75148)
+## 75148 — Spotkanie na Jakku
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 119.99 zł · EAN: 00673419191401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75148 |
+| Nazwa angielska | Encounter on Jakku |
+| Nazwa polska | Spotkanie na Jakku |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 530 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015592819, 673419191401 |
 
 **>>>**
 
@@ -4424,47 +6748,74 @@ Year released
 
 ZAPRASZAM DO ZAKUPU
 
----
+**Galeria:**
 
-## 75292 — Lego Star Wars Scout Trooper 75292 sw1116
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702016914504 · in stock*
-
-Przedmiotem sprzedaży jest **nowa, oryginalna figurka LEGO **widoczna na zdjęciu.
-
-Numer katalogowy: **sw1116**
-
-Nazwa: Scout Trooper (Dual Molded Helmet, Printed Legs, Frown)
-
-Rok wydania: 2021
-
-Części: 4
-
-Wiek: 6+
-
-Opakowanie: Woreczek strunowy
-
-Cena za sztukę
+- 75148-1: https://b.allegroimg.com/original/0356f1/a50453f841cc909e76d891f2325b
+- 75148-2: https://a.allegroimg.com/original/115399/77836b7d4a96b412ad156b5d7d0e
 
 ---
 
-## 75302 — Lego Star Wars Darth Vader sw1141 miecz świetlny 75302
+## 75302 — Imperialny wahadłowiec
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 429.99 zł · EAN: 05060286802380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75302 |
+| Nazwa angielska | Imperial Shuttle |
+| Nazwa polska | Imperialny wahadłowiec |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 660 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 35 cm |
+| EAN | 5060286802380, 5702016914474 |
 
-**✅ NOWA ORYGINALNA MINIFIGURKA LEGO**
+Klocki LEGO Star Wars Zestaw Imperialny wahadłowiec 75302
 
-Sprzedaję tylko i wyłącznie oryginalne produkty LEGO. Figurka nie pochodzi z magnesu ani breloczka.
+Dołącz do Dartha Vadera na pokładzie imperialnego wahadłowca i przeżyj przygody w klasycznym stylu „Gwiezdnych Wojen™”! Pomóż oficerowi Imperium usiąść w kokpicie i wystartować tym eleganckim pojazdem transportowym. Opuść skrzydła do lotu i ostrzelaj statki Rebeliantów miotaczem klocków. Złap Luke’a Skywalkera i wróć na Gwiazdę Śmierci. Kto wygra pojedynek między Jedi Lukiem a Lordem Sithów Vaderem? To Ty zdecydujesz!
 
-Minifigurka zapakowana jest w ochronny plastikowy woreczek. Wysyłka z Polski do 3 dni od zakupu.
+Klasyczny imperialny wahadłowiec do dynamicznej zabawy
 
-*****  ZAPRASZAM do kliknięcia zakładki WSZYSTKIE PRZEDMIOTY SPRZEDAJĄCEGO w której można znaleźć wiele innych ciekawych elementów i minifigurek *****
+Rewelacyjny model LEGO® imperialnego wahadłowca i kultowe postacie z sagi „Gwiezdne Wojny™” pozwolą dzieciom odgrywać niezapomniane sceny z klasycznej trylogii.
+
+Zbuduj z klocków LEGO® elegancki imperialny wahadłowiec (75302) dla dzieci wypełniony ciekawymi funkcjami, które pozwalają odgrywać sceny z klasycznej trylogii „Gwiezdne Wojny™”.
+
+W komplecie trzy minifigurki LEGO®: Darth Vader i Luke Skywalker z mieczami świetlnymi oraz oficer Imperium z pistoletem blasterowym, a do tego kajdanki do kreatywnej zabawy.
+
+Imperialny wahadłowiec ma otwierany kokpit z miejscem na minifigurkę, otwierany pokład z miejscem na dwie minifigurki LEGO®, składane skrzydła do lotu i lądowania oraz dwa miotacze klocków.
+
+Ta wspaniała zabawka doskonale sprawdzi się jako prezent urodzinowy, gwiazdkowy lub upominek niespodzianka dla fanów „Gwiezdnych Wojen™” w wieku od 9 lat. Model można zbudować i bawić się nim samodzielnie lub z rodziną i przyjaciółmi.
+
+Imperialny wahadłowiec ma ok. 25 cm wysokości, 24 cm długości i 35 cm szerokości. W przerwach między przygodami będzie dumną ozdobą dziecięcego pokoju.
+
+Chcesz kupić ten zestaw konstrukcyjny fanowi „Gwiezdnych Wojen™”, który stawia pierwsze kroki w świecie LEGO®? Bez obaw. W komplecie znajdują się przejrzyste instrukcje, dzięki którym każdy bez trudu złoży model z pewnością siebie godną Jedi.
+
+Elementy LEGO® spełniają wymogi najwyższych standardów branżowych, dzięki czemu zawsze do siebie pasują i tworzą solidne budowle.
+
+Elementy LEGO® są badane na wiele sposobów — zrzucane, podgrzewane, zgniatane i skręcane. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa — nawet te galaktyczne!
+
+**Galeria:**
+
+- 75302-1: https://a.allegroimg.com/original/11c100/5ae2f29c4100a0b09b81ae6ae47a
+- 75302-2: https://a.allegroimg.com/original/0565aa/1df5b70b40a194720ce66a4a1bc7
 
 ---
 
-## 75810 — Lego 75810 Stranger Things sama figurka st004 Mike Wheeler Nowy
+## 75810 — The Upside Down
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016468953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75810 |
+| Nazwa angielska | The Upside Down |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 4 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016468953 |
 
 LEGO® Figurka: MIKE WHEELER st004
 
@@ -4481,43 +6832,67 @@ z zestawu LEGO Stranger Things 75810 - Upside Down
 - Stan 10/10 oznacza, że od nowości leżała w woreczku strunowym - stan nowy/kolekcjonerski.
 - Stan 9,5/10 oznacza, że została raz złożona i stała na podstawce w ramce/gablocie wystawowej - nowa.
 
----
+**Galeria:**
 
-## 75822 — 4You Lego Angry Birds Pilot Pig (75822) ang004
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 59.99 zł · EAN: 05701922403126 · in stock*
-
-**>>>**
-
-Minifig number
-
-**ANG004**
-
-Name
-
-**Pilot Pig**
-
-Category
-
-**The Angry Birds Movie**
-
-Year released
-
-**2016**
-
-Appears in
-
-**1 set**
-
-ZAPRASZAM DO ZAKUPU
-
-FIGURKA NOWA I ORYGINALNA FIRMY ''LEGO''
+- 75810-1: https://a.allegroimg.com/original/11e809/d1713dbc4e97a560df18c83b5b42
 
 ---
 
-## 7911 — Lego Creator 7911 Duracell Designer polybag Misb 2004 mikołaj choinka
+## 75822 — Atak Samolotem Świnek
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014728738 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75822 |
+| Nazwa angielska | Piggy Plane Attack |
+| Nazwa polska | Atak Samolotem Świnek |
+| Seria | Angry Birds |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 13 cm |
+| EAN | 5701922403126, 5702015597951 |
+
+LEGO Angry Birds Atak samolotem świnek 75822
+
+Przygotuj się do startu! Podstępne świnki nie cofną się przed niczym, byle tylko wywieźć jajka z Ptasiej Wyspy — tym razem próbują zabrać je samolotem! Złap za katapultę i przygotuj się na zabawę naprawdę wysokich lotów! Pomóż Redowi uratować jajka z samolotu i nie daj się przy tym trafić pociskami z miotacza.
+
+Świnka Pilot wystartowała z Ptasiej Wyspy z 4 jajkami na pokładzie i próbuje uciec! Załaduj katapultę i wystrzel Reda w powietrze, aby dostał się do samolotu! Pokonaj świnkę i przejmij ster, a potem wyląduj. Tylko delikatnie, jajka nie mogą się rozbić! Zawiera 2 figurki.
+
+ 
+- W zestawie 2 figurki: Red i świnka pilot. 
+- Samolot świnek ma kręcące się śmigło, podwozie, kokpit, drążek i 2 pociski. 
+- W zestawie akcesoria: katapulta, 4 jajka i 2 balony. 
+- Wystrzel Reda z katapulty i przechwyć samolot świnek! Potem wyląduj, żeby uratować jajka! 
+
+ 
+- Zestaw doskonale nadaje się do odgrywania zabawnych i niezwykłych scenek z filmu The Angry BirdsTM. 
+- Zestaw odpowiedni dla dzieci w wieku od 6 do 12 lat. 
+- Wymiary samolotu świnek: ok. 9 cm wysokości, 12 cm długości i 13 cm szerokości. 
+- Wymiary katapulty: ok. 5 cm wysokości, 9 cm długości i 6 cm szerokości.
+
+**Galeria:**
+
+- 75822-1: https://c.allegroimg.com/original/037c0a/0324bd5d4422baac13249d8d6dcc
+- 75822-2: https://a.allegroimg.com/original/00a8ae/945a34f348e5a9769ed11d74751a
+
+---
+
+## 7911 — Tugboat
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7911 |
+| Nazwa angielska | Tugboat |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014728738 |
 
 Nowy zestaw Lego z kolaboracji Duracell. Pudełko fabrycznie bez plomb, w środku nieotwierany polybag z klockami.
 
@@ -4529,11 +6904,26 @@ Numer:** 7911**
 
 Nazwa:** Tugboat Promotional (Duracell)**
 
+**Galeria:**
+
+- 7911-1: https://a.allegroimg.com/original/11abae/b9cb59384d4f8bca6b7b180da444
+
 ---
 
-## 792006 — Lego Nowa Saszetka Hidden Side Szalony Naukowiec J.b. foil pack 792006
+## 792006 — J.B.
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 19.50 zł · EAN: 05060668957783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 792006 |
+| Nazwa angielska | J.B. |
+| Nazwa polska | — |
+| Seria | Uniwersalne |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060668957783 |
 
 Lego Nowa Saszetka Hidden Side Szalony Naukowiec J.B. foil pack 792006
  
@@ -4552,11 +6942,26 @@ O produkcie:
  
 Lego Nowa Saszetka Hidden Side Szalony Naukowiec J.B. foil pack 792006 to pojedyncza figurka marki LEGO. Figurka przedstawia postać bohatera JB z serii uniwersalnej i przeznaczona jest dla dzieci w wieku 5 lat i starszych, zarówno dla chłopców, jak i dla dziewczynek. Zestaw składa się z jednego elementu. Dzięki niemu dziecko może rozwijać swoją wyobraźnię i kreatywność. Lego Nowa Saszetka Hidden Side Szalony Naukowiec J.B. foil pack 792006 to doskonały wybór dla każdego fana klocków LEGO.
 
+**Galeria:**
+
+- 792006-1: https://a.allegroimg.com/original/116837/d06b599a4bba8b0f46df17484f53
+
 ---
 
-## 7947 — Lego Kingdoms 7947 ratunek z wieży więziennej
+## 7947 — Prison Tower Rescue
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702014602991 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7947 |
+| Nazwa angielska | Prison Tower Rescue |
+| Nazwa polska | — |
+| Seria | Castle |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 365 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014602991 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4575,33 +6980,27 @@ Lego Nowa Saszetka Hidden Side Szalony Naukowiec J.B. foil pack 792006 to pojedy
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
----
+**Galeria:**
 
-## 80037 — Lego 973pb4835c01 nurek Monkie Kid 80037 Nowy
-
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 10.13 zł · EAN: 05702016913484 · in stock*
-
-Serdecznie zapraszam do zakupu klocków firmy LEGO
-
-Numer klocka: **973pb4835c01**
-
-Ilość zawarta w jednym komplecie: **1szt**
-
-Stan klocków – **NOWE**
-
-Zapraszam na pozostałe moje aukcje, na których znaleźć można więcej klocków firmy LEGO.
-
-Wszystkie klocki przechowywane są w pomieszczeniu wolnym od dymu papierosowego oraz zwierząt. Elementy pakowane są z jak największą starannością, by mogły idealnie służyć do tworzenia wymarzonych budowli i wspaniale się na nich prezentować.
-
-Przedstawione zdjęcie jest poglądowe i może w niewielkim stopniu odbiegać od rzeczywistych elementów.
-
-**Brick-Klik**
+- 7947-1: https://a.allegroimg.com/original/119785/21c2da7a4fc5be4f4135fcc290e5
 
 ---
 
-## 80116 — Lego 80116 Tradycyjna Chińska Lampa
+## 80116 — Trotting Lantern
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 519.99 zł · EAN: 05702017777771 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80116 |
+| Nazwa angielska | Trotting Lantern |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017777771 |
 
 LEGO 80116 TRADYCYJNA CHIŃSKA LAMPA
  
@@ -4641,11 +7040,26 @@ Kolekcjonerska zabawka — ten zestaw z modelem lampy łączy się z innymi z se
  
 Kolorowa świąteczna dekoracja — Tradycyjna chińska lampa w tym 1295-elementowym zestawie ma 23 cm wysokości i 21 cm średnicy
 
+**Galeria:**
+
+- 80116-1: https://a.allegroimg.com/original/11e0d5/2bacb58840f691ae0eaf733511e9
+
 ---
 
-## 8021452 — Lego 8021452 Lego Movie 2 Zegarek Wyldstyle
+## 8021452 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 69.90 zł · EAN: 00812768021452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8021452 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | The Movie |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 812768021452 |
 
 LEGO Movie 2
 
@@ -4661,11 +7075,26 @@ Zegarek posiada okrągłą kopertę w kolorze czarnym, która odporna jest na us
  
 Wyposażono go także w szkiełko mineralne, które cechuje się odpornością na zarysowania i pęknięcia. Zegarek dla dziecka korzysta z mechanizmu kwarcowego zasilanego baterią, dzięki czemu jest on niezawodny oraz niezwykle precyzyjny.
 
+**Galeria:**
+
+- 8021452-1: https://a.allegroimg.com/original/039d41/64c846944a86b43c249399fa170e
+
 ---
 
-## 8396 — Lego 8396 Pirates Arsenał żołnierza
+## 8396 — Soldier's Arsenal
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 150.00 zł · EAN: 05702014518575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8396 |
+| Nazwa angielska | Soldier's Arsenal |
+| Nazwa polska | — |
+| Seria | Pirates |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518575 |
 
 Klocki LEGO Pirates 8396 - Arsenał żołnierza
 
@@ -4682,11 +7111,27 @@ Specyfikacja zestawu LEGO 8396
 - **Rok wydania:** 2009
 - **Grupa wiekowa:** 5+
 
+**Galeria:**
+
+- 8396-1: https://a.allegroimg.com/original/11d807/a32691b74a18aa89771fc2b460f5
+
 ---
 
-## 850445 — Lego Ninjago Sanktuarium kart postaci 850445
+## 850445 — Character Card Shrine
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 499.99 zł · EAN: 00673419181198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850445 |
+| Nazwa angielska | Character Card Shrine |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419181198 |
 
 Opis
 
@@ -4706,11 +7151,26 @@ W przypadku braku informacji o wydłużeniu czasu wpłaty po 24h zakup zostanie 
 
 W trosce o jakość obsługi naszych Klientów pakowanie i wysyłanie zamówionych produktów odbywa się pod nadzorem kamer z zapisem cyfrowy.
 
+**Galeria:**
+
+- 850445-1: https://a.allegroimg.com/original/11941a/43c8fba54764ba3f8551d7608380
+
 ---
 
-## 850458 — Lego 850458 Zestaw 5 figurek Vip 2012 col042 col037 col048 col045 col038
+## 850458 — VIP Top 5 Boxed Minifigures
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 349.00 zł · EAN: 00673419183574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850458 |
+| Nazwa angielska | VIP Top 5 Boxed Minifigures |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419183574 |
 
 LEGO 850458 Zestaw 5 figurek VIP 2012
 
@@ -4730,21 +7190,51 @@ Zestaw nowy i fabrycznie zaplombowany.
 
 Zdjęcia przedstawiają sprzedawany produkt
 
+**Galeria:**
+
+- 850458-1: https://a.allegroimg.com/original/11d1c5/c92ed94849c684e9fad775c395ff
+
 ---
 
-## 850506 — Lego 850506 Card Making Kit Lego
+## 850506 — Card Making Kit
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 89.99 zł · EAN: 00673419184878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850506 |
+| Nazwa angielska | Card Making Kit |
+| Nazwa polska | — |
+| Seria | Classic |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419184878 |
 
 LEGO® 850506 Card Making Kit
 
 Dodaj klasyczny styl LEGO do swoich kart okolicznościowych! Jaki jest najlepszy sposób, aby rozjaśnić każdy dzień? Zrobić wielką, kolorową kartę LEGO! Zestaw posiada 15 kartek w 3 różnych rozmiarach i 2 projekty, wszystkie z dopasowania wielkości koperty. Plus, jeszcze więcej zabawy, zawiera szablon oraz 10 naklejek. Świetny prezent dla fanów LEGO!
 
+**Galeria:**
+
+- 850506-1: https://4.allegroimg.com/original/01cc27/091bdeb54982a66c0e87c1045694
+
 ---
 
-## 850608 — Lego Chima 850608 Laval nowy brelok breloczek do kluczy
+## 850608 — Laval Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 25.00 zł · EAN: 00673419194754 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850608 |
+| Nazwa angielska | Laval Key Chain |
+| Nazwa polska | — |
+| Seria | Chima |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194754 |
 
 **Lego Unikat Chima Breloczek Laval 850608**
 
@@ -4762,11 +7252,27 @@ Dla Dzieci w wieku: 6+
 
 Nr katalogowy: 850608
 
+**Galeria:**
+
+- 850608-1: https://a.allegroimg.com/original/111438/9a812ab24b38926c3a8b90afa2d1
+
 ---
 
-## 850618 — Lego City 850618 Fire Accessory Straż Pożarna Lego City figurki
+## 850618 — City Fire Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 128.00 zł · EAN: 05702014996281 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850618 |
+| Nazwa angielska | City Fire Accessory Set |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014996281 |
 
 **Lego Unikat Zestaw akcesoriów strażackich z serii City 850618**. Dopilnuj, aby strażacy zerwali się na równe nogi, gdy tylko usłyszą alarm w mieście LEGO®City! Stwórz kolekcję strażacką LEGO City lub wzbogać ją o całe mnóstwo akcesoriów, takich jak elementy do budowania wody i płomieni, kosz na śmieci, hydrant przeciwpożarowy z odczepianym wężem strażackim i 2 gaśnice.
 
@@ -4784,11 +7290,26 @@ Nr katalogowy: 850618
  
 Ilość klocków w zestawie: 43
 
+**Galeria:**
+
+- 850618-1: https://a.allegroimg.com/original/114926/226bab6b48ce901d5b9c9b5ea668
+
 ---
 
-## 850635 — Lego Minifigures Minifigurka Magnet Darth Vader 850635
+## 850635 — Darth Vader Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 249.00 zł · EAN: 00673419195171 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850635 |
+| Nazwa angielska | Darth Vader Magnet |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195171 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4807,11 +7328,26 @@ Ilość klocków w zestawie: 43
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 850635-1: https://a.allegroimg.com/original/113ae5/ad276d6a49c588c46b3f902c93c2
+
 ---
 
-## 850638 — Lego Star Wars 850638 Magnes Han Solo
+## 850638 — Han Solo Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419195201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850638 |
+| Nazwa angielska | Han Solo Magnet |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195201 |
 
 LEGO Star Wars 850638 Magnes Han Solo
 
@@ -4819,11 +7355,26 @@ LEGO Star Wars 850638 Magnes Han Solo
 - Minifigurka przymocowana jest do dekoracyjnej płytki.
 - Zawiera autentyczną minifigurkę HAN SOLO™ z serii LEGO®  Star Wars ™
 
+**Galeria:**
+
+- 850638-1: https://a.allegroimg.com/original/111e99/ca5a981a46a9973a4825f7f5976a
+
 ---
 
-## 850641 — Lego Minifigures Minifigurka Magnet Darth Maul 850641 magnes Nowy
+## 850641 — Darth Maul Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 130.00 zł · EAN: 00673419195232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850641 |
+| Nazwa angielska | Darth Maul Magnet |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195232 |
 
 **...............................................LEGO...............................................................**
 
@@ -4841,19 +7392,49 @@ LEGO Star Wars 850638 Magnes Han Solo
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 850641-1: https://a.allegroimg.com/original/11b8ad/877408094be98481b04afef3af65
+
 ---
 
-## 850642 — Magnes Lego Mini Figurka Stormtrooper Magnet L-850642
+## 850642 — Stormtrooper Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419195249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850642 |
+| Nazwa angielska | Stormtrooper Magnet |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195249 |
 
 Zbuduj międzygalaktyczną armię z nowymi magnesami Lego.Stormtrooper będzie wykonywał Twoje rozkazy z powierzchni lodówki, szkolnej szafki lub innych metalowych przedmiotów.  Uwaga! Produkt nieodpowiedni dla dzieci poniżej 3 roku życia.
 
+**Galeria:**
+
+- 850642-1: https://a.allegroimg.com/original/110984/5064546d414da0dac7ec3db60bb3
+
 ---
 
-## 850673 — Lego Minifigurka Magnet Iron Man L-850673 magnes Unikat 2013 Rok!
+## 850673 — Iron Man Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419195300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850673 |
+| Nazwa angielska | Iron Man Magnet |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195300 |
 
 - **Idealny prezent dla kolekcjonera.**
 - **MAGNES MARVEL IRON MAN**
@@ -4862,11 +7443,26 @@ Zbuduj międzygalaktyczną armię z nowymi magnesami Lego.Stormtrooper będzie w
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 850673-1: https://2.allegroimg.com/original/057e84/81728c024bfda01a72a4ba7c72e2
+
 ---
 
-## 850681 — Frodo Baggins 850681 Magnet Magnes Władca Pierścieni Lotr Lego Unikat 2013
+## 850681 — Frodo Baggins Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 155.00 zł · EAN: 00673419195379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850681 |
+| Nazwa angielska | Frodo Baggins Magnet |
+| Nazwa polska | — |
+| Seria | The Lord of the Rings |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195379 |
 
 - **Idealny prezent dla kolekcjonera.**
 
@@ -4886,11 +7482,26 @@ Nowa.
 
 **Posiadam wiele kolekcjonerskich zestawów, figurek i gadżetów LEGO zarówno nowych jak i używanych. Myślę że każdy znajdzie coś dla siebie na każdą okazję.**
 
+**Galeria:**
+
+- 850681-1: https://a.allegroimg.com/original/113988/8e8bdafc40c3b25c3eb4623b5f64
+
 ---
 
-## 850888 — Lego Castle 850888 Rycerze Królewscy 4 Minifigurki
+## 850888 — Castle Knights Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 549.00 zł · EAN: 00673419213820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850888 |
+| Nazwa angielska | Castle Knights Accessory Set |
+| Nazwa polska | — |
+| Seria | Castle |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213820 |
 
 **Oryginalny zestaw minifigurek LEGO – małe postaci, wielka przygoda!**
 
@@ -4914,11 +7525,27 @@ Nowa.
 
 **✅ Doskonała zabawa solo lub z bliskimi, a także uzupełnienie każdej kolekcji**
 
+**Galeria:**
+
+- 850888-1: https://a.allegroimg.com/original/112cac/8ce232a84dd88182e030e29b8281
+
 ---
 
-## 850939 — Lego 850939 Święty Mikołaj Święta
+## 850939 — Santa Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 87.00 zł · EAN: 00673419217446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850939 |
+| Nazwa angielska | Santa Set |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419217446 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4928,11 +7555,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 850939-1: https://a.allegroimg.com/original/112c5d/af6ecdc44d949fb153e97c69d15b
+
 ---
 
-## 851228 — Lego Star Wars 851228 magnes minifigurki Misb Chewbacca Darth Vader Obi-Wan
+## 851228 — ?
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 499.00 zł · EAN: 00673419066013 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851228 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | — |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419066013 |
 
 Nowy, fabrycznie zamknięty zestaw magnesów Lego.
 
@@ -4944,11 +7586,27 @@ Numer:** 851228**
 
 Nazwa:** Magnet Set, Minifigures SW (3) - Chewbacca, Darth Vader, Obi-Wan Kenobi blister pack**
 
+**Galeria:**
+
+- 851228-1: https://a.allegroimg.com/original/11380d/516f09214a80bed6e64a0934c35b
+
 ---
 
-## 851342 — Lego Ninjago 851342 Zestaw wojowników ninja unikat model wycofany
+## 851342 — Ninja Army Building Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 475.00 zł · EAN: 00673419239615 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851342 |
+| Nazwa angielska | Ninja Army Building Set |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239615 |
 
 Witam
 
@@ -4964,11 +7622,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851342-1: https://a.allegroimg.com/original/1168a9/5b6160c64aa28c89383e83a9d4a4
+
 ---
 
-## 852086 — Lego Star Wars Magnet Set 852086
+## 852086 — Star Wars Magnet Set: Darth Maul, Anakin and Naboo Fighter Pilot
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702014523555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852086 |
+| Nazwa angielska | Star Wars Magnet Set: Darth Maul, Anakin and Naboo Fighter Pilot |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014523555 |
 
 LEGO STAR WARS - MAGNET SET 852086
 
@@ -4988,11 +7661,26 @@ Jest to pierwsza wersja magnesów, bez dodatkowych klocków - podstawek
 
 Zestaw jest nowy, nie używany - opakowanie nigdy nie otwierane.
 
+**Galeria:**
+
+- 852086-1: https://a.allegroimg.com/original/1142cc/043916b549d5859e04be7dbdb417
+
 ---
 
-## 852551 — Lego 852551 Magnesy kolekcjonerskie Star Wars
+## 852551 — Magnet Set Darth Maul 2009
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 449.00 zł · EAN: 00673419116015 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852551 |
+| Nazwa angielska | Magnet Set Darth Maul 2009 |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419116015 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5011,11 +7699,26 @@ Zestaw jest nowy, nie używany - opakowanie nigdy nie otwierane.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852551-1: https://a.allegroimg.com/original/112d95/37ee9824475d94f9b9c08644b0bf
+
 ---
 
-## 852554 — 852554 Lego minifigurki Star Wars magnes
+## 852554 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 349.00 zł · EAN: 00673419114073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852554 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419114073 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5034,11 +7737,26 @@ Zestaw jest nowy, nie używany - opakowanie nigdy nie otwierane.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852554-1: https://a.allegroimg.com/original/111410/af113778453182842304d3505477
+
 ---
 
-## 852697 — 852697 Lego Vintage Minifigure Collection Vol. 3
+## 852697 — Vintage Minifigure Collection Vol. 3
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 439.00 zł · EAN: 00673419123228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852697 |
+| Nazwa angielska | Vintage Minifigure Collection Vol. 3 |
+| Nazwa polska | — |
+| Seria | inna |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 22 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419123228 |
 
 **Oryginalny zestaw LEGO Vintage – kreatywna przygoda, która inspiruje**
 
@@ -5054,11 +7772,26 @@ Zestaw jest nowy, nie używany - opakowanie nigdy nie otwierane.
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852697-1: https://a.allegroimg.com/original/11dfcb/9fd8caf745189eea2a3c273111d0
+
 ---
 
-## 852719 — Lego Indiana Jones 852719 Zestaw unikatowych magnesów model wycofany
+## 852719 — Indiana Jones Magnets
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 235.00 zł · EAN: 00673419122955 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852719 |
+| Nazwa angielska | Indiana Jones Magnets |
+| Nazwa polska | — |
+| Seria | Indiana Jones |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419122955 |
 
 Witam
 
@@ -5074,11 +7807,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852719-1: https://a.allegroimg.com/original/118717/5613373949599f7d7832a4cddb55
+
 ---
 
-## 852742 — Lego Święty Mikołaj Magnes 852742 Święta Creator minifigurka Misb 2009
+## 852742 — Holiday Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 299.00 zł · EAN: 00673419126984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852742 |
+| Nazwa angielska | Holiday Magnet |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 23 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419126984 |
 
 Nowy, fabrycznie zamknięty zestaw z magnesem Lego. Posiada również naklejkę z polskim nadrukiem "Wesołych Świąt".
 
@@ -5090,11 +7838,27 @@ Numer:** 852742**
 
 Nazwa:** Holiday Magnet blister pack**
 
+**Galeria:**
+
+- 852742-1: https://a.allegroimg.com/original/11d1aa/c5e2318f4afdb16db9a6b69ed58d
+
 ---
 
-## 852744 — Lego 852744 Świąteczny Zestaw Bombki Święty Mikołaj Ozdoba Choinkowa figurk
+## 852744 — Christmas Tree Ornaments, Build Your Own Holiday Ornaments
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 290.00 zł · EAN: 00673419127004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852744 |
+| Nazwa angielska | Christmas Tree Ornaments, Build Your Own Holiday Ornaments |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419127004 |
 
 Nowa zestaw bombek Lego.
  
@@ -5108,11 +7872,26 @@ Nazwa:** Christmas Tree Ornaments, Build Your Own Holiday Ornaments**
 
 W zestawie znajduje się 67 elementów, które pozwalają na zbudowanie trzech, głównie czerwono-czarnych, figurek Świętego Mikołaja, które można umieścić w przezroczystych kulach. Kule można było zawiesić na choinkach. Jedna z nich przedstawia Świętego Mikołaja trzymającego czerwono-zielony prezent, druga Mikołaja na nartach, a trzecia przedstawia Świętego Mikołaja trzymającego brązowy worek z prezentami.
 
+**Galeria:**
+
+- 852744-1: https://a.allegroimg.com/original/11cb9f/d72cdff5465489063ddb3c8fa50a
+
 ---
 
-## 852843 — Lego 852843 Magnesy kolekcjonerskie Star Wars
+## 852843 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 249.00 zł · EAN: 00673419138086 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852843 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 14 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419138086 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5131,11 +7910,26 @@ W zestawie znajduje się 67 elementów, które pozwalają na zbudowanie trzech, 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852843-1: https://a.allegroimg.com/original/118866/9b2a5bb84690854a2fa19944cdc3
+
 ---
 
-## 852845 — Lego 852845 Magnesy kolekcjonerskie Star Wars
+## 852845 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 249.00 zł · EAN: 00673419156097 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852845 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156097 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5154,21 +7948,51 @@ W zestawie znajduje się 67 elementów, które pozwalają na zbudowanie trzech, 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 852845-1: https://a.allegroimg.com/original/11910d/d2e7c8c64743ad4c84165e5fc69f
+
 ---
 
-## 852948 — Lego 852948 Figurki Female Nie Klejone
+## 852948 — Female Minifigure Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 69.99 zł · EAN: 00673419140508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852948 |
+| Nazwa angielska | Female Minifigure Magnet Set |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419140508 |
 
 LEGO® 852948 Female Minifigure Magnet Set - nowe bez opakowania
 
 Zestaw magnesów LEGO. Fajny dodatek dla każdego fana LEGO! Figurki z klockami można przyczepić na metalową powierzchnię np. na lodówkę lub tablicę magnetyczną.
 
+**Galeria:**
+
+- 852948-1: https://d.allegroimg.com/original/017b61/e1d62f304496b196e665c5ef4dcd
+
 ---
 
-## 852983 — Lego 852983 Magnesy kolekcjonerskie Harry Potter Draco Malfoy Severus Snape
+## 852983 — Harry Potter Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 125.00 zł · EAN: 00673419141918 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852983 |
+| Nazwa angielska | Harry Potter Magnet Set |
+| Nazwa polska | — |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 19 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419141918 |
 
 **...............................................LEGO...............................................................**
 
@@ -5188,11 +8012,26 @@ Zestaw magnesów LEGO. Fajny dodatek dla każdego fana LEGO! Figurki z klockami 
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 852983-1: https://a.allegroimg.com/original/112fa7/df5a022741ea857bf1a2a5ececab
+
 ---
 
-## 853037 — 853037 Lego Star Wars Minifigurki magnes
+## 853037 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419156110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853037 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156110 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -5211,11 +8050,26 @@ Zestaw magnesów LEGO. Fajny dodatek dla każdego fana LEGO! Figurki z klockami 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853037-1: https://a.allegroimg.com/original/117ab6/7a9f25b24bfca80a2c5aa593bef5
+
 ---
 
-## 853130 — Lego Star Wars 853130 magnes minifigurki Misb Talz Chieftain Anakin Clone
+## 853130 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 98.00 zł · EAN: 00673419156103 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853130 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156103 |
 
 Lego Star Wars 853130 magnes minifigurki MISB Talz Chieftain Anakin Clone
 
@@ -5257,11 +8111,26 @@ Zastosowanie:
  
 Zestaw łączy funkcjonalność z charakterystycznym designem serii Star Wars.
 
+**Galeria:**
+
+- 853130-1: https://a.allegroimg.com/original/118d75/0e6d2ee748f49771241b3355ccf7
+
 ---
 
-## 853414 — Lego Star Wars 853414 Wicket, V-Wing, Jar Jar Binks zestaw 3 magnesów
+## 853414 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 179.00 zł · EAN: 00673419174909 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853414 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 16 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419174909 |
 
 Witam
 
@@ -5277,11 +8146,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853414-1: https://a.allegroimg.com/original/118391/7bfff7a84b7e9752f69d4e28bc01
+
 ---
 
-## 853421 — Lego Star Wars 853421 3 magnesy minifigurki Arf Trooper,Embo,Aurra Sing
+## 853421 — Star Wars Magnet Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 169.00 zł · EAN: 00673419174916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853421 |
+| Nazwa angielska | Star Wars Magnet Set |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419174916 |
 
 Witam
 
@@ -5299,11 +8183,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853421-1: https://a.allegroimg.com/original/11f28a/b3529a504861ad8d543d3435bdbb
+
 ---
 
-## 853476 — Lego Star Wars 853476 Magnes minifigurka Yoda z mieczem Nowa Unikat
+## 853476 — Yoda Magnet
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 109.00 zł · EAN: 00673419235365 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853476 |
+| Nazwa angielska | Yoda Magnet |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235365 |
 
 **Witam**
 
@@ -5325,11 +8224,26 @@ nr zestawu: 853476
 
 Figurka przymocowana trwale do płytki magnetycznej - nie da się jej odczepić.
 
+**Galeria:**
+
+- 853476-1: https://a.allegroimg.com/original/1195ce/3d400c5944bda717776df9aaddab
+
 ---
 
-## 853515 — Lego Nexo Knights 853515 Nexo Power Zestaw minifigurek do budowania armii
+## 853515 — Knights Army-Building Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 199.99 zł · EAN: 00673419253062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853515 |
+| Nazwa angielska | Knights Army-Building Set |
+| Nazwa polska | — |
+| Seria | Nexo Knights |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419253062 |
 
 ✅ Produkt nowy, w oryginalnym opakowaniu
 
@@ -5355,11 +8269,26 @@ Nr. Katalogowy: 853515
  
 Ilość klocków w zestawie: 35
 
+**Galeria:**
+
+- 853515-1: https://a.allegroimg.com/original/11d436/f5d800944bf989484ffbe0304fce
+
 ---
 
-## 853524 — Brelok minifigurka Lego 853524 Lance Nexo Knights
+## 853524 — Lance Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 35.00 zł · EAN: 00673419253147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853524 |
+| Nazwa angielska | Lance Key Chain |
+| Nazwa polska | — |
+| Seria | Nexo Knights |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419253147 |
 
 Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z metalowym łańcuszkiem i kółkiem przymocowana jest mini figurka Lego Breloczek może być fajną ozdobą dziecięcego plecaka lub zapobiegać zgubieniu kluczy.
  
@@ -5369,11 +8298,27 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z m
 - Ma ok. 15 cm długości, więc zmieści się w kieszeni. 
 - Numer katalogowy **LEGO®** - 853524
 
+**Galeria:**
+
+- 853524-1: https://d.allegroimg.com/original/03b9b4/1e62b8f24f57936244cf924e61ad
+
 ---
 
-## 853544 — Lego 853544 Ninjago Zestaw akcesoriów Zane, Samuraj X, 2 żołnierzy
+## 853544 — Ninjago Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 699.00 zł · EAN: 00673419256629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853544 |
+| Nazwa angielska | Ninjago Accessory Set |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419256629 |
 
 **Oryginalny zestaw minifigurek LEGO – małe postaci, wielka przygoda!**
 
@@ -5403,11 +8348,26 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z m
 
 **Szybka realizacja zgodna z zasadami Allegro**
 
+**Galeria:**
+
+- 853544-1: https://a.allegroimg.com/original/11d27f/5022935b48e99b8351bf320c0ca6
+
 ---
 
-## 853548 — Brelok Lego Friends Andrea 853548 Nowy Unikat
+## 853548 — Andrea Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 94.99 zł · EAN: 00673419252324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853548 |
+| Nazwa angielska | Andrea Key Chain |
+| Nazwa polska | — |
+| Seria | Friends |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252324 |
 
 **Weź ze sobą breloczek z Andreą z LEGO® Friends i inspiruj się jej niesamowitą kreatywnością i umiejętnościami projektowania, gdziekolwiek się znajdziesz! Brelok z prawdziwą minifigurką Andrei można łatwo przyczepić do kluczy lub plecaka.**
  
@@ -5425,11 +8385,27 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z m
 - **Wiek:** 6 
 - **Ilość elementów: 1**
 
+**Galeria:**
+
+- 853548-1: https://a.allegroimg.com/original/1141a3/fea947fc4e178cc91ab6ef9b7770
+
 ---
 
-## 853609 — Lego Minecraft 853609 Skin Pack
+## 853609 — Minecraft Skin Pack
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 249.00 zł · EAN: 00673419255257 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853609 |
+| Nazwa angielska | Minecraft Skin Pack |
+| Nazwa polska | — |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419255257 |
 
 **Oryginalny zestaw minifigurek LEGO – małe postaci, wielka przygoda!**
 
@@ -5453,11 +8429,27 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z m
 
 **✅ Doskonała zabawa solo lub z bliskimi, a także uzupełnienie każdej kolekcji**
 
+**Galeria:**
+
+- 853609-1: https://a.allegroimg.com/original/11b9f7/a08c2c34403ca32fa1e7d5733f8f
+
 ---
 
-## 853610 — Lego Minecraft 853610 Zestaw do Stylizacji 2 Minifigurki Miecz Szpadel
+## 853610 — Minecraft Skin Pack 2
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 192.99 zł · EAN: 00673419255264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853610 |
+| Nazwa angielska | Minecraft Skin Pack 2 |
+| Nazwa polska | — |
+| Seria | Minecraft |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419255264 |
 
 LEGO MINECRAFT 853610 Zestaw do Stylizacji 2
 
@@ -5475,11 +8467,26 @@ Wzbogać swój świat LEGO® Minecraft™ o 4 niezwykłe minifigurki, z których
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 853610-1: https://a.allegroimg.com/original/11afc4/867f0bc54fbc95387c271798a929
+
 ---
 
-## 853654 — Brelok Lego Elves 853654 Aira elf wiatru
+## 853654 — Aira the Wind Elf Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 34.90 zł · EAN: 00673419271301 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853654 |
+| Nazwa angielska | Aira the Wind Elf Key Chain |
+| Nazwa polska | — |
+| Seria | Elves |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419271301 |
 
 Brelok LEGO® ELVES 853654
 
@@ -5501,11 +8508,26 @@ Rozpocznij nowe przygody z elfką wiatru Airą na breloczku LEGO Elves z orygina
 - To świetny prezent dla miłośników zestawów do budowania LEGO Elves.
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853654-1: https://a.allegroimg.com/original/00ce9c/44c5616d4544894ec70b61bb54ef
+
 ---
 
-## 853676 — Lego Nexo Knights 853676 Accessory Set zestaw minifigurek model wycofany
+## 853676 — Nexo Knights Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 259.00 zł · EAN: 00673419271325 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853676 |
+| Nazwa angielska | Nexo Knights Accessory Set |
+| Nazwa polska | — |
+| Seria | Nexo Knights |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419271325 |
 
 Witam
 
@@ -5521,11 +8543,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853676-1: https://a.allegroimg.com/original/117e36/a06dc1004f9aa2444803dcc13030
+
 ---
 
-## 853694 — Lego Ninjago Movie 853694 Kai nowy brelok breloczek model wycofany
+## 853694 — Kai Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 75.00 zł · EAN: 00673419274418 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853694 |
+| Nazwa angielska | Kai Key Chain |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274418 |
 
 Witam
 
@@ -5541,11 +8578,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853694-1: https://a.allegroimg.com/original/11441e/81629a3e4118a15c209d2d39b3ec
+
 ---
 
-## 853695 — Lego Ninjago Breloczek Zane 853695 breloczek do kluczy
+## 853695 — Zane Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419274425 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853695 |
+| Nazwa angielska | Zane Key Chain |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274425 |
 
 LEGO Ninjago - Breloczek Zane 853695
  
@@ -5567,11 +8619,26 @@ Lego
  
 - LEGO Ninjago - Breloczek Zane 853695
 
+**Galeria:**
+
+- 853695-1: https://a.allegroimg.com/original/117ea6/ffdd4e6747c48047d810cdfa3675
+
 ---
 
-## 853744 — Lego Heroes Batman Figurki i akcesoria sh0532 sh0433 sh0439 853744
+## 853744 — Knightmare Batman Accessory Set
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 169.50 zł · EAN: 00673419292610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853744 |
+| Nazwa angielska | Knightmare Batman Accessory Set |
+| Nazwa polska | — |
+| Seria | Super Heroes |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 3 cm × szer. 5 cm |
+| EAN | 673419292610 |
 
 Knightmare Batman™ - zestaw akcesoriów 2018
 
@@ -5606,11 +8673,26 @@ Rzuć wyzwanie Parademonom z zestawu akcesoriów 853744 LEGO® DC Super Heroes 
 
 - Wieżyczka ma ok. 3 cm wysokości i 5 cm szerokości.
 
+**Galeria:**
+
+- 853744-1: https://a.allegroimg.com/original/1197fe/3c705df3410a93b5b1cf45b3d58a
+
 ---
 
-## 853894 — Lego Breloczek z Nyą 853894 Ninjago Unikat Z 2019 Roku!
+## 853894 — Nya Key Chain
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 75.00 zł · EAN: 00673419305952 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853894 |
+| Nazwa angielska | Nya Key Chain |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305952 |
 
 LEGO Ninjago film Nya minifigurka brelok 853894
 
@@ -5622,11 +8704,27 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z 
 - Ma ok. 15 cm długości, więc zmieści się w kieszeni. 
 - Numer katalogowy **LEGO®** - 853894
 
+**Galeria:**
+
+- 853894-1: https://a.allegroimg.com/original/00a5f8/829c893f489287fe922b9bc87189
+
 ---
 
-## 854038 — Lego 854038 Okolicznościowe Świąteczna bombka z reniferem
+## 854038 — Christmas Ornament Reindeer
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.90 zł · EAN: 00673419332057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854038 |
+| Nazwa angielska | Christmas Ornament Reindeer |
+| Nazwa polska | — |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 7 cm |
+| EAN | 673419332057 |
 
 LEGO Okolicznościowe 854038 - Świąteczna bombka z reniferem
 
@@ -5642,11 +8740,26 @@ Młodszym i starszym fanom klocków LEGO® oraz świąt spodoba się zestaw Świ
 - To świetny pomysł na prezent na Boże Narodzenie, urodziny lub inną okazję dla dzieci w wieku od 6 lat.
 - Produkt ma ok. 16 cm wysokości i 7 cm szerokości. To fantastyczny sposób na spędzenie świąt w stylu LEGO®.
 
+**Galeria:**
+
+- 854038-1: https://a.allegroimg.com/original/11d5e1/e311a9ce4b1f86ad5a73ee3d7d6b
+
 ---
 
-## 8805 — Lego Minifigures 8805-5 Seria 5 Kobieta Jaskiniowiec Cave Woman
+## 8805 — Graduate
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 89.99 zł · EAN: 05702014736788 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8805 |
+| Nazwa angielska | Graduate |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014736788 |
 
 **Proszę o uważne zapoznanie się z opisem aukcji.**
 
@@ -5668,11 +8781,26 @@ W tej kolekcji zainspirowanej filmami, sportem, historią i życiem codziennym z
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 8805-1: https://a.allegroimg.com/original/1176cd/31f652654a928a01690bb9fb11c1
+
 ---
 
-## 8827 — Lego 8827 seria 6 Skater Girl figurka nowa, zamknięta nienacinana!
+## 8827 — Classic Alien
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014808805 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8827 |
+| Nazwa angielska | Classic Alien |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014808805 |
 
 **Minifigurka LEGO – oryginalna postać, wielka radość dla fanów!**
 
@@ -5702,11 +8830,26 @@ Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zos
 
 **⏱️ Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 8827-1: https://a.allegroimg.com/original/115aed/4a60a736479d9b538e9e1cd942ba
+
 ---
 
-## 8833 — Lego minifigures 8833 Seria 8 Alien Villainess Zły obcy kosmita col08-16
+## 8833 — Evil Robot
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 159.99 zł · EAN: 05702014824270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8833 |
+| Nazwa angielska | Evil Robot |
+| Nazwa polska | — |
+| Seria | Minifigurki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014824270 |
 
 Lego minifigures 8833 Seria 8 Zły obcy kosmita col08-16
 
@@ -5715,11 +8858,27 @@ Lego minifigures 8833 Seria 8 Zły obcy kosmita col08-16
 - Opakowanie nacięte w celu weryfikacji.
 - Sprzedawane klocki LEGO są **nowe i oryginalne****.**
 
+**Galeria:**
+
+- 8833-1: https://a.allegroimg.com/original/11a97f/c9f8ced045448d10ba9109a625ef
+
 ---
 
-## 891955 — Zestaw Lego Ninjago Minifigure Polybag Kai #6 #891955
+## 891955 — Kai
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919749089 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 891955 |
+| Nazwa angielska | Kai |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749089 |
 
 **LEGO Ninjago polybag – Kai #6 #891955**
 
@@ -5740,11 +8899,27 @@ Kai, ognisty wojownik i serce drużyny ninja, prezentuje się tutaj w klasycznej
 
 Ten zestaw to świetny sposób, by dopełnić kolekcję klasycznych bohaterów Ninjago. Kai #6 sprawdzi się zarówno jako początek przygody z LEGO Ninjago, jak i cenny dodatek do istniejącej serii figurek.
 
+**Galeria:**
+
+- 891955-1: https://a.allegroimg.com/original/112680/940f6f9e42d39c4852ea79b0aa07
+
 ---
 
-## 892060 — Zestaw Lego Ninjago Minifigure Polybag Lloyd #5 #892060
+## 892060 — Lloyd
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 18.99 zł · EAN: 00011919749140 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892060 |
+| Nazwa angielska | Lloyd |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749140 |
 
 **LEGO Ninjago polybag – Lloyd #5 #892060**
 
@@ -5765,11 +8940,27 @@ Lloyd, Zielony Ninja i syn Garmadona, powraca w piątej odsłonie swojej figurki
 
 To doskonały wybór dla tych, którzy chcą zebrać wszystkie wcielenia Lloyda lub uzupełnić drużynę ninja o kluczową postać. Lloyd #5 to także świetna opcja dla młodszych fanów, którzy chcą odtworzyć ulubione sceny z serialu lub stworzyć własne przygody.
 
+**Galeria:**
+
+- 892060-1: https://a.allegroimg.com/original/111cc5/a1bc0c784418bbcb789d0c371389
+
 ---
 
-## 892173 — Lego Ninjago 892173 Zane plus broń saszetka klocki
+## 892173 — Zane
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 22.99 zł · EAN: 05060668958070 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892173 |
+| Nazwa angielska | Zane |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060668958070 |
 
 Witam
 
@@ -5785,11 +8976,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 892173-1: https://a.allegroimg.com/original/118afb/1539ea5f403ebca7f5fece4612f1
+
 ---
 
-## 892177 — Zestaw Lego Ninjago Minifigure Polybag Kai #8 #892177
+## 892177 — Kai
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919749003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892177 |
+| Nazwa angielska | Kai |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749003 |
 
 **LEGO Ninjago polybag – Kai #8 #892177**
 
@@ -5809,11 +9016,27 @@ Kai, mistrz ognia, powraca w tej dynamicznej i bojowej wersji figurki! Ubrany w 
 
 Zestaw ten doskonale uzupełnia kolekcję głównych bohaterów Ninjago i nadaje się zarówno do zabawy, jak i ekspozycji. Ognista determinacja Kaia bije z każdego szczegółu jego stroju, co czyni tę figurkę wyjątkową.
 
+**Galeria:**
+
+- 892177-1: https://a.allegroimg.com/original/11ea34/d1bbb5ea4b7eb59b8d44c46aed94
+
 ---
 
-## 892184 — Lego Ninjago Minifigure Polybag Scuba Kai #892184
+## 892184 — Scuba Kai
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00011919749201 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892184 |
+| Nazwa angielska | Scuba Kai |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749201 |
 
 Serdecznie witamy na aukcji sklepu Briksmil!
 
@@ -5823,11 +9046,27 @@ Realne zdjęcie sprzedawanego przedmiotu w aukcji, nowe, oryginalne klocki LEGO 
 
 Na pozostałych aukcjach dostępnych jest wiele innych zestawów i setów z różnych serii LEGO do wyboru, gorąco zapraszam do sprawdzenia całej oferty!
 
+**Galeria:**
+
+- 892184-1: https://a.allegroimg.com/original/110afb/17f837be421a82c9395b76ccaa59
+
 ---
 
-## 892290 — Zestaw Lego Ninjago Minifigure Polybag Cole #10 #892290
+## 892290 — Cole
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00011919749225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892290 |
+| Nazwa angielska | Cole |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749225 |
 
 **LEGO Ninjago polybag – Cole #10 #892290**
 
@@ -5842,11 +9081,27 @@ Na pozostałych aukcjach dostępnych jest wiele innych zestawów i setów z ró�
 
 Stan: Nowy (w oryginalnym opakowaniu)
 
+**Galeria:**
+
+- 892290-1: https://a.allegroimg.com/original/116a66/0efba05546dfa491d760e9abed07
+
 ---
 
-## 892306 — Zestaw Lego Ninjago Minifigure Polybag Zane #892306
+## 892306 — Zane
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 15.00 zł · EAN: 00011919749355 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892306 |
+| Nazwa angielska | Zane |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749355 |
 
 LEGO Ninjago Minifigure Polybag - Zane #892306
 
@@ -5865,11 +9120,27 @@ O produkcie:
 
 LEGO Ninjago Minifigure Polybag - Zane #892306 to pojedyncza figurka z serii Star Wars dla dzieci w wieku 6 lat i więcej. Produkt jest marki LEGO i składa się z 13 elementów. Figurka przedstawia postać Zane'a z serii Ninjago. Produkt jest odpowiedni zarówno dla chłopców, jak i dla dziewczynek. LEGO Ninjago Minifigure Polybag - Zane #892306 posiada certyfikat CE, co gwarantuje bezpieczeństwo użytkowania. Produkt jest idealnym prezentem dla małych fanów Star Wars, którzy chcą mieć ulubionego bohatera zawsze przy sobie.
 
+**Galeria:**
+
+- 892306-1: https://a.allegroimg.com/original/11134b/5a45698f4d89b70005322fe3b997
+
 ---
 
-## 892308 — Zestaw Lego Ninjago Minifigure Polybag Kai #892308
+## 892308 — Kai
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00011919749362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892308 |
+| Nazwa angielska | Kai |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749362 |
 
 **LEGO Ninjago polybag – Kai #892308**
 
@@ -5890,11 +9161,27 @@ Kai, nieustraszony Mistrz Ognia, prezentuje się w nowym wydaniu jako prawdziwy 
 
 Ta edycja to obowiązkowa propozycja dla fanów ognistego ninja – idealna do odtworzenia dynamicznych scen bitew oraz do kolekcji figurek z różnych sezonów. Dzięki starannie zaprojektowanym detalom, Kai #892308 przyciąga wzrok i wzbudza respekt.
 
+**Galeria:**
+
+- 892308-1: https://a.allegroimg.com/original/115a28/62d3d884401c904f4676cb53669a
+
 ---
 
-## 892310 — Zestaw Lego Ninjago Minifigure Polybag Arin #892310
+## 892310 — Arin
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919749508 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892310 |
+| Nazwa angielska | Arin |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749508 |
 
 **LEGO Ninjago polybag – Arin #892310**
 
@@ -5914,11 +9201,27 @@ Arin to nowy, odważny wojownik w świecie Ninjago, który szybko zdobył sympat
 
 Zestaw Arin #892310 to świetna okazja, by wzbogacić swoją kolekcję o najnowsze postacie z uniwersum Ninjago. Idealna propozycja zarówno dla nowych fanów, jak i długoletnich kolekcjonerów.
 
+**Galeria:**
+
+- 892310-1: https://a.allegroimg.com/original/114a3e/a54235eb4cb49561278e623d8bde
+
 ---
 
-## 892311 — Lego Ninjago Minifigure Polybag Imperium Claw Hunter #892311
+## 892311 — Imperium Claw Hunter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00011919749423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892311 |
+| Nazwa angielska | Imperium Claw Hunter |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749423 |
 
 LEGO Ninjago polybag – Imperium Claw Hunter #892311
 
@@ -5938,11 +9241,27 @@ Imperium Claw Hunter to elitarny łowca z futurystycznej armii Imperium, który 
 
 Ta minifigurka wprowadza element sci-fi do świata Ninjago i stanowi świetny dodatek dla kolekcjonerów szukających mniej oczywistych, ale równie imponujących postaci. Imperium Claw Hunter #892311 to gwarancja intensywnej akcji w każdej zabawie.
 
+**Galeria:**
+
+- 892311-1: https://a.allegroimg.com/original/115ef5/6e2113ad4fb2b925abeeb67d4f29
+
 ---
 
-## 892313 — Zestaw Lego Ninjago Minifigure Polybag Lloyd #892313
+## 892313 — Lloyd
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919749553 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892313 |
+| Nazwa angielska | Lloyd |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919749553 |
 
 **LEGO Ninjago polybag – Lloyd #892313**
 
@@ -5962,11 +9281,27 @@ Lloyd – legendarny Zielony Ninja – powraca w nowej odsłonie, gotów stawić
 
 Lloyd #892313 to niezbędny element dla każdego fana serii – jako kluczowy bohater uniwersum, jego obecność w kolekcji dodaje autentyczności i głębi każdemu zestawowi Ninjago.
 
+**Galeria:**
+
+- 892313-1: https://a.allegroimg.com/original/116ab8/81e927ed4f13aa5513be8ef32a57
+
 ---
 
-## 892401 — Zestaw Lego Ninjago Minifigure Polybag Zane #2 #892401
+## 892401 — Zane
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 00011919769179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892401 |
+| Nazwa angielska | Zane |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 8 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 11919769179 |
 
 **LEGO Ninjago polybag – Zane #2 #892401**
 
@@ -5986,11 +9321,27 @@ Zane #892401, mistrz lodu i jeden z najwierniejszych członków drużyny ninja, 
 
 Ta wersja Zane’a świetnie wpisuje się w rozbudowane scenariusze walk i misji ratunkowych. Dla fanów Ninjago to okazja, aby dodać do swojej kolekcji jedną z kluczowych postaci w nowym wydaniu, które łączy klasyczny wygląd z nowymi, ciekawymi akcentami.
 
+**Galeria:**
+
+- 892401-1: https://a.allegroimg.com/original/1125f6/b51acd1b4ca9ac5bcfed21450666
+
 ---
 
-## 892511 — Lego Ninjago Minifigure Paper Bag- Kai #892511 Saszetka Figurka Nowy
+## 892511 — Kai
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 14.47 zł · EAN: 04906061428837 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 892511 |
+| Nazwa angielska | Kai |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4906061428837 |
 
 **LEGO Ninjago polybag – Kai #4 #892511**
 
@@ -6009,21 +9360,53 @@ Minifigurka wyposażona jest w akcesoria bojowe, które umożliwiają odtwarzani
  
 „Kai #4” w formie polybagu to edycja limitowana, idealna dla fanów LEGO Ninjago oraz kolekcjonerów poszukujących kultowych postaci z serii.
 
+**Galeria:**
+
+- 892511-1: https://a.allegroimg.com/original/1117f2/a2e3ea88405d9c13716f88d665c2
+
 ---
 
-## 911617 — Klocki Lego 911617 Star Wars Palpatine&apos;s Shuttle
+## 911617 — Palpatine's Shuttle
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 70.77 zł · EAN: 05702012012914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911617 |
+| Nazwa angielska | Palpatine's Shuttle |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 0 + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012012914 |
 
 Klocki LEGO 911617 Star Wars Palpatine's Shuttle
 
 Klocki LEGO 911617 Star Wars Palpatine's ShuttleOdkryj niesamowite przygody ze światem LEGO® dzięki zestawowi Star Wars Palpatine's Shuttle. Ten fascynujący model to doskonały wybór dla każdego miłośnika Lego oraz fanów sagi Gwiezdne Wojny.Ten zestaw dostarcza nieograniczonego potencjału do budowania, tworzenia i wymyślania. Dzięki licznym możliwościom zabawy i kreatywnego wyrażania siebie, zapewnia doskonałą rozrywkę dla chłopców i dziewczyn. Pozwala rozwijać wartościowe zdolności, które przyczynią się do ich rozwoju w dorosłym życiu.Model Palpatine's Shuttle to wyjątkowe doświadczenie konstrukcyjne, które każde dziecko pokocha. Zabawa tym zestawem gwarantuje niezapomniane chwile emocji i frajdy dla każdego miłośnika Lego.Ciesz się magicznym światem Star Wars i LEGO® dzięki zestawowi Palpatine's Shuttle. Odkryj swoją kreatywność i wyobraźnię, tworząc własne przygody wśród gwiazd.*Uwaga: Zestaw nie zawiera baterii i jest przeznaczony dla dzieci powyżej 7 lat.* Zapraszamy do zakupu tego wyjątkowego zestawu LEGO 911617 Star Wars Palpatine's Shuttle już teraz!
 
+**Galeria:**
+
+- 911617-1: https://a.allegroimg.com/original/11b4db/74a928bb47ae95c1213cc9cf8abf
+
 ---
 
-## 911831 — Lego 911831 Star Wars Kylo Ren's Shuttle Limited
+## 911831 — Kylo Ren's Shuttle
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 13.13 zł · EAN: 09789168297668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911831 |
+| Nazwa angielska | Kylo Ren's Shuttle |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976580659, 9789168297668 |
 
 Klocki LEGO 911831 Star Wars Kylo Ren's Shuttle **Limited Edition**
 
@@ -6045,11 +9428,28 @@ Jeden zestaw został otworzony W celu wykonania zdjęcia poglądowego .
 
 Karton 124
 
+**Galeria:**
+
+- 911831-1: https://a.allegroimg.com/original/11bbbd/6f28451243408e6e493899ed4efe
+- 911831-2: https://a.allegroimg.com/original/114180/ea9d33f3400eb20d7d6f8261b440
+
 ---
 
-## 911834 — Lego Star Wars 911834 Finn saszetka z minifigurką klocki
+## 911834 — Finn
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 35.00 zł · EAN: 05702015594189 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911834 |
+| Nazwa angielska | Finn |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594189 |
 
 LEGO Saszetka Polybag Figurka Star Wars Finn sw0676 911834
 
@@ -6073,11 +9473,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 911834-1: https://a.allegroimg.com/original/11e70f/1fd120e44dacb45795dc6a9b1bdc
+
 ---
 
-## 911841 — Zestaw Lego Star Wars Minifigure Polybag Poe Dameron's X-Wing #911841
+## 911841 — Poe Dameron's X-Wing
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 10.00 zł · EAN: 03567309839689 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911841 |
+| Nazwa angielska | Poe Dameron's X-Wing |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 3567309839689 |
 
 rzedmiotem sprzedaży jest zestaw **LEGO Star Wars - 911841, X-Wing Poe Damerona**
  
@@ -6087,11 +9503,27 @@ rzedmiotem sprzedaży jest zestaw **LEGO Star Wars - 911841, X-Wing Poe Damerona
 - Numer katalogowy **911841** 
 - **Saszetka nie zawiera instrukcji**
 
+**Galeria:**
+
+- 911841-1: https://a.allegroimg.com/original/119939/8f0b8a264558a2e798068f07fc81
+
 ---
 
-## 911944 — Zestaw Lego Star Wars Minifigure Polybag Resistance Bomber #911944
+## 911944 — Resistance Bomber
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 05060976581052 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911944 |
+| Nazwa angielska | Resistance Bomber |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 37 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976581052 |
 
 **LEGO Star Wars polybag – Resistance Bomber #911944**
 
@@ -6111,11 +9543,27 @@ Zestaw LEGO 911944 „Resistance Bomber” to mini wersja bombowca Ruchu Oporu, 
 
 Limitowany model - dodatek magazynowy z 2019 roku – doskonale nadaje się do roli ozdoby kolekcji pojazdów Ruchu Oporu lub do budowania kameralnych scenek akcji. W kompaktowej formie prezentuje się bardzo efektownie, jednocześnie oferując satysfakcję ze składania.
 
+**Galeria:**
+
+- 911944-1: https://a.allegroimg.com/original/116fee/d074f22d49528548fb0933cf1814
+
 ---
 
-## 911953 — Lego Star Wars First Order Sf Tie Fighter 911953
+## 911953 — First Order SF TIE Fighter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017421278 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 911953 |
+| Nazwa angielska | First Order SF TIE Fighter |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421278 |
 
 Klocki LEGO 911953 Star Wars SF Tie Fighter
  
@@ -6132,11 +9580,27 @@ Zabawa tym zestawem sprawi każdemu miłośnikowi Lego niezwykłą frajdę.
  
 Waga 0.35
 
+**Galeria:**
+
+- 911953-1: https://a.allegroimg.com/original/11027e/348612d34d0fb1f0edb5d3d7e976
+
 ---
 
-## 912058 — Zestaw Lego Star Wars Minifigure Polybag Darth Maul's Sith Infiltr 912058
+## 912058 — Darth Maul's Sith Infiltrator
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00673419233811 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912058 |
+| Nazwa angielska | Darth Maul's Sith Infiltrator |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419233811 |
 
 **LEGO Star Wars polybag – Darth Maul's Sith Infiltrator #912058**
 
@@ -6156,11 +9620,27 @@ Zestaw LEGO 912058 „Darth Maul's Sith Infiltrator” przedstawia miniaturowy m
 
 Zestaw został wydany jako edycja limitowana i jest gratką dla wszystkich fanów Ciemnej Strony Mocy oraz kolekcjonerów pojazdów związanych z postaciami Sithów. Dzięki szczegółowemu odwzorowaniu detali w małej skali, Sith Infiltrator może być zarówno elementem ekspozycji, jak i częścią większych scen bitewnych z epoki prequeli.
 
+**Galeria:**
+
+- 912058-1: https://a.allegroimg.com/original/11fff0/64657a5b47afb6db0f849f3e1329
+
 ---
 
-## 912171 — Zestaw Lego Star Wars Minifigure Polybag Imperial Tie Bomber #912171
+## 912171 — TIE Bomber
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 05060976588426 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912171 |
+| Nazwa angielska | TIE Bomber |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588426 |
 
 **LEGO Star Wars polybag – TIE Bomber #912171**
 
@@ -6180,11 +9660,27 @@ Zestaw LEGO 912171 „Imperial TIE Bomber” to kompaktowa wersja klasycznej mas
 
 Model wyróżnia się elegancką, imperialną estetyką – ciemne barwy i smukła konstrukcja oddają agresywny charakter maszyny. Wydany w 2021 roku jako limitowany dodatek do magazynu LEGO Star Wars, jest już ciężko dostępny ca za tym idzie jego wartość kolekcjonerska ciągle wzrasta.
 
+**Galeria:**
+
+- 912171-1: https://a.allegroimg.com/original/116fc0/2bc6254b4112b172ebae4f0eb69d
+
 ---
 
-## 912285 — Lego Star Wars 912285 Darth Maul saszetka z minifigurką klocki
+## 912285 — Darth Maul
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 45.99 zł · EAN: 05056638410761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912285 |
+| Nazwa angielska | Darth Maul |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638410761 |
 
 Witam
 
@@ -6198,11 +9694,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912285-1: https://a.allegroimg.com/original/110f7d/46fe617a43e4bd5a90c01810de0c
+
 ---
 
-## 912313 — Lego Star Wars 912313 Republic Fighter Tank saszetka klocki
+## 912313 — Republic Fighter Tank
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 14.69 zł · EAN: 05056638447071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912313 |
+| Nazwa angielska | Republic Fighter Tank |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638447071 |
 
 Witam
 
@@ -6218,11 +9730,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 912313-1: https://a.allegroimg.com/original/11ec09/79adfd484e858dc35c6e896d69b6
+
 ---
 
-## 912411 — Zestaw Lego Star Wars Minifigure Polybag T-6 Jedi Shuttle #912411
+## 912411 — T-6 Jedi Shuttle
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00888767140289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 912411 |
+| Nazwa angielska | T-6 Jedi Shuttle |
+| Nazwa polska | — |
+| Seria | Star Wars |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 888767140289 |
 
 **LEGO Star Wars polybag – T-6 Jedi Shuttle #912411**
 
@@ -6243,11 +9771,27 @@ Zestaw LEGO 912411 „T-6 Jedi Shuttle” to miniaturowa wersja legendarnego sta
 
 Edycja limitowana tego zestawu czyni go wartościowym dodatkiem do każdej kolekcji LEGO Star Wars. Dzięki kompaktowym rozmiarom oraz starannemu wykonaniu, „T-6 Jedi Shuttle” sprawdzi się zarówno w zabawie, jak i jako eksponat wśród innych statków z uniwersum.
 
+**Galeria:**
+
+- 912411-1: https://a.allegroimg.com/original/11ada8/8397973e45d395bd21d24a2bdafb
+
 ---
 
-## 952012 — Lego City Minifigure Polybag Deep Sea Diver #952012
+## 952012 — Scuba Diver
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 16.99 zł · EAN: 05060668958186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952012 |
+| Nazwa angielska | Scuba Diver |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 13 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060668958186 |
 
 **LEGO City polybag – Deep Sea Diver #952012**
 
@@ -6267,11 +9811,27 @@ Zestaw LEGO 952012 „Deep Sea Diver” zawiera nurka z serii Deep Sea Explorers
 
 Dostępny jako limitowany dodatek do magazynu LEGO City, to mały, ale wartościowy zestaw dla miłośników podwodnych przygód. Dzięki prostej, ale szczegółowej figurce nurek świetnie sprawdzi się zarówno w samodzielnej ekspozycji, jak i w większej kolekcji odkrywców.
 
+**Galeria:**
+
+- 952012-1: https://a.allegroimg.com/original/115592/b0badbaf4efeb2280b8ae7975c40
+
 ---
 
-## 952502 — Zestaw Lego City Minifigure Polybag Builder with Buzzsaw Vehicle #952502
+## 952502 — Construction Worker with Rotary Cutter
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 17.99 zł · EAN: 00888767000033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 952502 |
+| Nazwa angielska | Construction Worker with Rotary Cutter |
+| Nazwa polska | — |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 888767000033 |
 
 **LEGO City polybag – Builder with Buzzsaw Vehicle #952502**
 
@@ -6297,11 +9857,27 @@ Zestaw LEGO 952502 „Builder with Buzzsaw Vehicle” to prawdziwa gratka dla mi
 
 Model pojazdu został zaprojektowany z myślą o maksymalnej mobilności i zabawie – duże koła terenowe, solidna rama i ruchome ostrze sprawiają, że zestaw wprowadza realizm i dynamikę do każdej scenki z serii Construction. Doskonały wybór dla młodych konstruktorów i fanów miejskiej infrastruktury LEGO.
 
+**Galeria:**
+
+- 952502-1: https://a.allegroimg.com/original/11b95a/d921dd9447b2867952b20a2481fa
+
 ---
 
-## 9555 — Lego 9555 Ninjago Mezmo
+## 9555 — Mezmo
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702014837270 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9555 |
+| Nazwa angielska | Mezmo |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837270 |
 
 **Minifigurka LEGO – oryginalna postać, wielka radość dla fanów!**
 
@@ -6331,11 +9907,27 @@ Model pojazdu został zaprojektowany z myślą o maksymalnej mobilności i zabaw
 
 **⏱️ Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 9555-1: https://a.allegroimg.com/original/11dc97/874cf8434313aa53bab8265f6d1a
+
 ---
 
-## 9562 — Lego 9562 Ninjago Lasha Spinner
+## 9562 — Lasha
 
-*Kategoria: Minifigurki · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014837317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9562 |
+| Nazwa angielska | Lasha |
+| Nazwa polska | — |
+| Seria | Ninjago |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 21 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837317 |
 
 **LEGO Ninjago – oryginalny spinner z minifigurką**
 
@@ -6366,6 +9958,10 @@ Model pojazdu został zaprojektowany z myślą o maksymalnej mobilności i zabaw
 **🚚 Wysyłka i pakowanie**
 
 **📦 Każdy spinner starannie zabezpieczamy na czas wysyłki**
+
+**Galeria:**
+
+- 9562-1: https://a.allegroimg.com/original/1174e9/636d71584f7e983d783e0cc443db
 
 ---
 

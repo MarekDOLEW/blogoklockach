@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Breloczki — opisy produktowe (242 pozycji)
 
-## 100871 — 100871 Lego 90 years of play metalowy brelok breloczek plate 2x2 torba
+## 100871 — 90 Years of Play Metal Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 68.88 zł · EAN: 05060373574343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 100871 |
+| Nazwa angielska | 90 Years of Play Metal Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373574343 |
 
 Nowy, metalowy brelok Lego. Oryginalne opakowanie.
 
@@ -23,11 +33,26 @@ Nazwa:** 2 x 2 Plate - Silver Metal Key Chain, 90 years of play**
 
 W tym zestawie otrzymujesz brelok LEGO 100871 wraz z papierową torbą LEGO!
 
+**Galeria:**
+
+- 100871-1: https://a.allegroimg.com/original/113a3c/6e56181a4197be9947a9652187d1
+
 ---
 
-## 104788 — Lego 104788 Brelok Lego Masters Unikat kolekcjonerski Nowy
+## 104788 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 499.99 zł · EAN: 05060373575579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 104788 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373575579 |
 
 - **Super prezent dla kolekcjonera.** 
 - **Sprzedaje tylko oryginalne klocki LEGO.** 
@@ -36,11 +61,26 @@ W tym zestawie otrzymujesz brelok LEGO 100871 wraz z papierową torbą LEGO!
  
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 104788-1: https://a.allegroimg.com/original/116001/2ef86c074d11b999aa5d594ac548
+
 ---
 
-## 107543 — Lego Naszywka Star Wars 25. rocznica R2-D2 107543
+## 107543 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.77 zł · EAN: 05060373577405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 107543 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 0 + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373577405 |
 
 LEGO Star Wars 107543 samoprzylepna Naszywka Rocznicowa z okazji 25-lecia  / NOWY / UNIKAT
 
@@ -64,11 +104,26 @@ Najważniejsze cechy i funkcje:
 - Materiał: Poliester 
 - 300D Pełny kolor
 
+**Galeria:**
+
+- 107543-1: https://a.allegroimg.com/original/11d9b2/8e4ae5dd475e9766bc74171005d0
+
 ---
 
-## 2009 — Brelok led Lego minifigurka vintage rok 2009
+## 2009 — Large Bulk Box
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.00 zł · EAN: 04895028506674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2009 |
+| Nazwa angielska | Large Bulk Box |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1997 |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028506674 |
 
 **Oryginalny breloczek LEGO**
 
@@ -92,11 +147,26 @@ Najważniejsze cechy i funkcje:
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 2009-1: https://a.allegroimg.com/original/11eb4f/ba244f2d443daf622dcafc668457
+
 ---
 
-## 2013 — nowy Brelok Lego 4895028508517 z latarką mikołaj Led lite Misb 2013
+## 2013 — Choo-choo Train
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.10 zł · EAN: 04895028508517 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 2013 |
+| Nazwa angielska | Choo-choo Train |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028508517 |
 
 Cześć!
 
@@ -116,11 +186,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 2013-1: https://a.allegroimg.com/original/110c0a/30c4310b4b03a0731ac5f18d56f9
+
 ---
 
-## 4002036 — Lego DC Comics Led Keychain Superman (4002036-KE39H)
+## 4002036 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 72.50 zł · EAN: 04895028528744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002036 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028528744 |
 
 LEGO - DC Comics - LED Keychain - Superman (4002036-KE39H)
 
@@ -132,11 +217,26 @@ LEGO - DC Comics - LED Keychain - Superman (4002036-KE39H)
 
 **SKU:** 2894079
 
+**Galeria:**
+
+- 4002036-1: https://a.allegroimg.com/original/114f61/b0e9ce90498fa46cbb8ba6a546a6
+
 ---
 
-## 4008036 — Lego Led Keychain Harry Potter Hermione (4008036-KE199H)
+## 4008036 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 64.97 zł · EAN: 04895028532215 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4008036 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532215, 4895028532239 |
 
 LEGO - LED Keychain - Harry Potter - Hermione (4008036-KE199H)
 
@@ -150,11 +250,27 @@ LEGO - LED Keychain - Harry Potter - Hermione (4008036-KE199H)
 
 **SKU:** 2894111
 
+**Galeria:**
+
+- 4008036-1: https://a.allegroimg.com/original/11bdb1/74c7a7d54a0f86b4e38af4cf829f
+- 4008036-2: https://a.allegroimg.com/original/114817/60c1eb45419d95de6fe781e6fae5
+
 ---
 
-## 4202665 — Breloczek Lego Star Wars C-3PO 4202665 Nowy
+## 4202665 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 189.00 zł · EAN: 00673419235310 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4202665 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235310 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -170,11 +286,26 @@ Oryginalna minifigurka bohatera Gwiezdnych Wojen C-3PO, na solidnym metalowym k�
 
 Może służyć jako brelok, zawieszka do plecaka, a także wzbogacić kolekcję breloczków bądź minifigurek.
 
+**Galeria:**
+
+- 4202665-1: https://a.allegroimg.com/original/114cb3/fe86090647bd963888b1bc1095f8
+
 ---
 
-## 5003580 — Lego 5003580 Brelok z latarką z Catwoman
+## 5003580 — Catwoman Key Light
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 149.99 zł · EAN: 04895028509255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5003580 |
+| Nazwa angielska | Catwoman Key Light |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028509255 |
 
 LEGO 5003580 - Brelok z latarką z Catwoman
 
@@ -184,11 +315,26 @@ Widź w ciemności z Catwoman™!
 
 Miau! Ta powiększona minifigurka Catwoman™ ma jasne diody LED w stopach oraz ruchome nogi, dzięki którym możesz skierować strumień światła w różnych kierunkach. Naciśnij przycisk, aby oświetlić sobie drogę!
 
+**Galeria:**
+
+- 5003580-1: https://a.allegroimg.com/original/11d16e/5cdeef514cb2b240edbe097d6dec
+
 ---
 
-## 5004915 — Lego Ninjago 5004915 Movie Sensei Wu nowy brelok breloczek do kluczy
+## 5004915 — Master Wu Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 84.99 zł · EAN: 00673419274319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004915 |
+| Nazwa angielska | Master Wu Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274319 |
 
 Witam
 
@@ -204,11 +350,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 5004915-1: https://a.allegroimg.com/original/11db99/6a2644ef47959ccdfe54fc08373d
+
 ---
 
-## 5004928 — Lego Batman 5004928 Kiss Kiss Tuxedo nowy brelok breloczek do kluczy
+## 5004928 — Kiss Kiss Tuxedo Batman
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 75.00 zł · EAN: 00673419271424 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5004928 |
+| Nazwa angielska | Kiss Kiss Tuxedo Batman |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419271424 |
 
 Oryginalna minifigurka Batmana w smokingu Kiss Kiss (ang. nazwa Kiss Kiss Tuxedo Batman) na solidnym metalowym kółku i łańcuszku.
 
@@ -222,11 +383,26 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
  
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 5004928-1: https://a.allegroimg.com/original/11d244/0c1dfc4a4d0c84c38c56e429dda1
+
 ---
 
-## 5005205 — Lego Breloczek Vip 5005205 Czerwona Figurka Breloczek Nowy
+## 5005205 — VIP Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 120.00 zł · EAN: 00673419274876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5005205 |
+| Nazwa angielska | VIP Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274876 |
 
 LEGO BRELOCZEK VIP 5005205 CZERWONA FIGURKA BRELOCZEK NOWY
 
@@ -248,11 +424,26 @@ Breloczek LEGO VIP 5005205 jest idealnym prezentem dla fanów klocków LEGO. Jeg
 
 Podsumowując, breloczek LEGO VIP 5005205 to doskonały wybór dla każdego, kto szuka oryginalnego gadżetu związane z ulubioną marką klocków LEGO.
 
+**Galeria:**
+
+- 5005205-1: https://a.allegroimg.com/original/11d3fd/3f313ced43afba6cdc602a640f1b
+
 ---
 
-## 5006330 — Brelok metalowy Lego Vip 5006330 srebrny
+## 5006330 — VIP Metal Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017024295 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006330 |
+| Nazwa angielska | VIP Metal Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017024295 |
 
 LEGO Marvel Avengers "Mechaniczna zbroja Iron Mana" - model 76203. Zestaw składa się z 130 elementów.
  
@@ -272,11 +463,26 @@ Ta wierna replika zbroi Iron Mana z filmu „Avengers: Czas Ultrona” wytwórni
 - Kultowe zestawy — wszystkie zabawki konstrukcyjne LEGO® Marvel to wysokiej jakości zestawy, które gwarantują młodym superbohaterom niezliczone możliwości pomysłowej rozrywki 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 5006330-1: https://a.allegroimg.com/original/11bbc4/8626e7d5405c96855a1c37954f8e
+
 ---
 
-## 5007029 — Lego Mario 5007029 Brelok do Kluczy z Luigim Breloczek
+## 5007029 — Luigi Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 74.99 zł · EAN: 05060373573506 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007029 |
+| Nazwa angielska | Luigi Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373573506 |
 
 LEGO SUPER MARIO 5007029 Brelok do Kluczy z Luigim
 
@@ -292,11 +498,26 @@ O tak! Dzięki temu breloczkowi dzieci mogą zabrać ze sobą kultową postać L
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5007029-1: https://a.allegroimg.com/original/116c82/4f49faf8412094713d5658b3bd62
+
 ---
 
-## 5007093 — Lego 5007093 Brelok Obrotowy z Logo 1950 Retro Metalowy Keychain Nowy
+## 5007093 — Retro Spinning Key Chain 1950s Logo
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.99 zł · EAN: 05060373573575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007093 |
+| Nazwa angielska | Retro Spinning Key Chain 1950s Logo |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373573575 |
 
 NAZWA: LEGO Obrotowy Breloczek RETRO 1950
 
@@ -314,11 +535,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 5007093-1: https://a.allegroimg.com/original/11a4d3/69c4ac3b492db2bde6be43d5bf0e
+
 ---
 
-## 5007158 — Lego 5007158 tabliczka metalowa Rebuild the world Vip Unikat Lego
+## 5007158 — Rebuild The World Tin Sign
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 100.98 zł · EAN: 05060373573667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5007158 |
+| Nazwa angielska | Rebuild The World Tin Sign |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373573667 |
 
 LEGO 5007158 tabliczka metalowa Rebuild the world
  
@@ -326,11 +562,26 @@ Jeśli uważasz, że ślimak z dopalaczami rakietowymi ma sens, to ta blaszana t
  
 wymiary 300 mm x 150 mm
 
+**Galeria:**
+
+- 5007158-1: https://a.allegroimg.com/original/11a1cf/c798b3704f6d8725b3f018fac52a
+
 ---
 
-## 5009394 — Lego 5009394 Star Wars Breloczek ze statkiem Jango Fetta
+## 5009394 — Jango Fett's Starship Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 159.00 zł · EAN: 05060373579003 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009394 |
+| Nazwa angielska | Jango Fett's Starship Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373579003 |
 
 - **Oryginalne opakowanie**
 
@@ -346,11 +597,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 - **Wymiary elementu dł. x szer. x wys:** 7,5 × 12,1 × 2,3 cm cm;
 
+**Galeria:**
+
+- 5009394-1: https://a.allegroimg.com/original/11bc76/2c50bcbe4f3a8f8fa0de40b41f11
+
 ---
 
-## 51167 — Lego 51167 Zawieszka Do Bagażu Plecaka Chłopiec
+## 51167 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.20 zł · EAN: 04895028511678 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 51167 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028511678 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -374,11 +640,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 51167-1: https://a.allegroimg.com/original/11744f/8597cda04c3aab73623d83a82f21
+
 ---
 
-## 52222 — Lego 52222 Star Wars Zawieszka Do Bagażu Yoda
+## 52222 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 04895028522223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52222 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028522223 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE**
 
@@ -402,11 +683,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52222-1: https://a.allegroimg.com/original/11cace/9cb27c4440a29c0d0c0c4e6feacb
+
 ---
 
-## 52235 — Lego 52235 Zawieszka Star Wars Stormtrooper
+## 52235 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.95 zł · EAN: 04895028522353 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52235 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028522353 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE**
 
@@ -430,11 +726,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52235-1: https://a.allegroimg.com/original/116f2d/ce2b3de34f5d89221de93fb174fb
+
 ---
 
-## 52306 — Lego 52306 Zawieszka Do Bagażu Movie 2 Emmet
+## 52306 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.99 zł · EAN: 04895028523060 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52306 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523060 |
 
 **SERIA LEGO - ARTYKUŁY SZKOLNE**
 
@@ -458,11 +769,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52306-1: https://a.allegroimg.com/original/119bc9/dfec4ec74e05b52acff57d643bee
+
 ---
 
-## 52332 — Lego 52332 Zawieszka Do Bagażu Lego Movie 2 Duplo
+## 52332 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 19.99 zł · EAN: 04895028523329 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52332 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028523329 |
 
 **SERIA LEGO - ARTYKUŁY SZKOLNE**
 
@@ -486,11 +812,26 @@ Zawieszka ma około **4 cm średnicy** i została wyposażona w solidny metalowy
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52332-1: https://a.allegroimg.com/original/11c112/2a920c8b46ec85c5feaccca0b8e0
+
 ---
 
-## 52494 — Lego Ninjago Zawieszka do bagażu Lego Kai 52494
+## 52494 — Kai Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 25.00 zł · EAN: 04895028524944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52494 |
+| Nazwa angielska | Kai Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028524944 |
 
 Zawieszka LEGO Ninjago Kai 52494
 
@@ -529,11 +870,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®! Dostępne w kształcie klocka 
 - **Płeć:** Chłopiec 
 - **Liczba elementów [szt]:** 1
 
+**Galeria:**
+
+- 52494-1: https://a.allegroimg.com/original/11b279/f55c2fa24adb83790f955e8536e8
+
 ---
 
-## 52815 — Lego 52815 Zawieszka Heroes DC Batman
+## 52815 — Bat Symbol Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.95 zł · EAN: 04895028528157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52815 |
+| Nazwa angielska | Bat Symbol Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028528157 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE**
 
@@ -557,11 +913,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®! Dostępne w kształcie klocka 
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52815-1: https://a.allegroimg.com/original/11a627/f683fd3b4383a4678fadc2f8d3ba
+
 ---
 
-## 52851 — Lego 52851 Zawieszka Do Plecaka Bagażu Kaktus
+## 52851 — Cactus Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.99 zł · EAN: 04895028528515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52851 |
+| Nazwa angielska | Cactus Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028528515 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE**
 
@@ -585,11 +956,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®! Dostępne w kształcie klocka 
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52851-1: https://a.allegroimg.com/original/110015/5cefaa954b6c9d3582027ccc5b2e
+
 ---
 
-## 52852 — Lego 52852 Zawieszka Do Bagażu Plecaka Chłopiec Rakieta
+## 52852 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.99 zł · EAN: 04895028528522 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52852 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028528522 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -613,11 +999,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®! Dostępne w kształcie klocka 
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52852-1: https://a.allegroimg.com/original/11a426/467f6ee54a3ebbc72a9c54f06ef4
+
 ---
 
-## 52853 — Lego 52853 Zawieszka Do Bagażu Plecaka Motylek
+## 52853 — Butterfly Girl Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.78 zł · EAN: 04895028528539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52853 |
+| Nazwa angielska | Butterfly Girl Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028528539 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -641,11 +1042,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®! Dostępne w kształcie klocka 
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 52853-1: https://a.allegroimg.com/original/114c34/f8c8823042e7a9d13aa005b8468d
+
 ---
 
-## 52922 — Lego Star Wars Zawieszka bagażu Mandalorian 52922
+## 52922 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.97 zł · EAN: 04895028529222 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52922 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028529222 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST
 
@@ -672,11 +1088,26 @@ Dostępne w kształcie klocka lub minifigurki LEGO®
 
 Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
+**Galeria:**
+
+- 52922-1: https://a.allegroimg.com/original/11a836/f1cede8443bd875f24845eed4b3d
+
 ---
 
-## 52935 — Lego Classic 52935 Zawieszka do bagażu Pizza
+## 52935 — Pizza Guy Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.93 zł · EAN: 04895028529352 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52935 |
+| Nazwa angielska | Pizza Guy Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028529352 |
 
 Dzięki zawieszkom LEGO® Twój bagaż staje się weselszy i łatwo rozpoznawalny. Zawieszki LEGO® to świetny upominek dla wszystkich fanów LEGO®. Na odwrocie możesz wpisać swoje imię i numer telefonu, dzięki czemu w razie nieszczęścia, Twoja torba lub plecak będą miały możliwość odnalezienia drogi do domu. Zawieszki pomagają też dzieciom w szybkim odróżnieniu ich plecaka od plecaków rówieśników. **Zawieszki LEGO®** występują w kształcie klasycznych klocków oraz zabawnych minifigurek LEGO®.
 
@@ -692,11 +1123,26 @@ Dostępne w kształcie klocka lub minifigurki LEGO®
 
 Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
+**Galeria:**
+
+- 52935-1: https://a.allegroimg.com/original/1185fe/52d03f0945418d4527a85352622a
+
 ---
 
-## 52961 — Lego Star Wars Zawieszka do bagażu Baby Yoda 52961
+## 52961 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.97 zł · EAN: 04895028529611 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 52961 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028529611 |
 
 PRZEDMIOTEM SPRZEDAŻY JEST
 
@@ -723,11 +1169,26 @@ Dostępne w kształcie klocka lub minifigurki LEGO®
 
 Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
+**Galeria:**
+
+- 52961-1: https://a.allegroimg.com/original/11017d/732a2f414416b93835fd25f2a79c
+
 ---
 
-## 53246 — Lego 53246 Magnes Harry Potter Błędny Rycerz
+## 53246 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 25.17 zł · EAN: 04895028532468 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53246 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532468 |
 
 **LEGO SERIA HARRY POTTER**
 
@@ -757,11 +1218,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
 **Obowiązkowa pozycja dla każdego miłośnika LEGO Harry Potter!**
 
+**Galeria:**
+
+- 53246-1: https://a.allegroimg.com/original/113b9b/a807888e413f8887373e8bde52f2
+
 ---
 
-## 53250 — Lego 53250 Harry Potter Zawieszka Sowa Hedwiga
+## 53250 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.50 zł · EAN: 04895028532505 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53250 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532505 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE HARRY POTTER**
 
@@ -785,11 +1261,26 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53250-1: https://a.allegroimg.com/original/118b2f/fedcccb14a9482f8ae9ab3458a6d
+
 ---
 
-## 53255 — Lego 53255 Harry Potter Zawieszka Albus Dumbledore
+## 53255 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.45 zł · EAN: 04895028532550 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53255 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532550 |
 
 **LEGO SERIA ARTYKUŁY SZKOLNE HARRY POTTER**
 
@@ -813,27 +1304,72 @@ Wyróżnij swój bagaż wesołym akcentem LEGO®!
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53255-1: https://a.allegroimg.com/original/11595c/e9be4f0442bf97063ee87b1f3ee9
+
 ---
 
-## 53281 — Lego Harry Potter 53281 Magnes Profesor Snape
+## 53281 — Professor Snape Magnet
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.97 zł · EAN: 04895028532819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53281 |
+| Nazwa angielska | Professor Snape Magnet |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532819 |
 
 Wyjątkowy magnes z popularnymi motywami z czarodziejskiego świata Harry'ego Pottera posłuży do przyczepiania dokumentów, zdjęć, notatek i innych papierowych przedmiotów, na przykład do lodówki. Jednocześnie pełni funkcję dekoracyjną, którą docenią wszyscy fani świata magii. Wymiary: 7 x 8,3 cm. Odpowiedni dla dzieci od 6 lat.
 
+**Galeria:**
+
+- 53281-1: https://a.allegroimg.com/original/112857/2a06c05c4a46a9a97c37c0d5a9f9
+
 ---
 
-## 53282 — Lego Harry Potter 53282 Magnes Albus Dumbledore
+## 53282 — Albus Dumbledore Magnet
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.97 zł · EAN: 04895028532826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53282 |
+| Nazwa angielska | Albus Dumbledore Magnet |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532826 |
 
 Wyjątkowy magnes z popularnymi motywami z czarodziejskiego świata Harry'ego Pottera posłuży do przyczepiania dokumentów, zdjęć, notatek i innych papierowych przedmiotów, na przykład do lodówki. Jednocześnie pełni funkcję dekoracyjną, którą docenią wszyscy fani świata magii. Wymiary: 7 x 8,3 cm. Odpowiedni dla dzieci od 6 lat.
 
+**Galeria:**
+
+- 53282-1: https://a.allegroimg.com/original/113723/55e45bae4b76aa1be91fe462559e
+
 ---
 
-## 53342 — Lego 53342 Ninjago Kai Zawieszka Do Bagażu Plecaka
+## 53342 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.49 zł · EAN: 04895028533427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53342 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028533427 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -855,11 +1391,26 @@ Wyjątkowy magnes z popularnymi motywami z czarodziejskiego świata Harry'ego Po
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53342-1: https://a.allegroimg.com/original/11d9b3/65db8a704a18b8d955e8e0c96b76
+
 ---
 
-## 53343 — Lego 53343 Ninjago Lloyd Zawieszka Do Plecaka Bagażu
+## 53343 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.79 zł · EAN: 04895028533434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53343 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028533434 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -881,11 +1432,26 @@ Wyjątkowy magnes z popularnymi motywami z czarodziejskiego świata Harry'ego Po
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53343-1: https://a.allegroimg.com/original/119b8f/e4dcb7e4496f9a36a9fee3e3c271
+
 ---
 
-## 53482 — Lego 53482 Zawieszka do bagażu Niebieski astronauta
+## 53482 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.79 zł · EAN: 04895028534820 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53482 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028534820 |
 
 **LEGO 53482 Zawieszka do Bagażu Niebieski Astronauta – Przygoda w kosmosie w każdej podróży!**
 
@@ -907,11 +1473,26 @@ Zawieszka **LEGO Niebieski Astronauta** to świetny sposób na wyrażenie swojej
 
 **Zamów teraz LEGO 53482 Zawieszkę do Bagażu Niebieski Astronauta i dodaj odrobinę kosmicznej magii do swoich podróży!**
 
+**Galeria:**
+
+- 53482-1: https://a.allegroimg.com/original/11f53d/f3d729ad43c0ae3a258463912cf1
+
 ---
 
-## 53498 — Lego 53498 Zawieszka do bagażu Czerwony astronauta
+## 53498 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.99 zł · EAN: 04895028534981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53498 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028534981 |
 
 **LEGO 53498 Zawieszka do Bagażu Czerwony Astronauta – Wyrusz w kosmiczną podróż z stylem!**
 
@@ -933,11 +1514,26 @@ Zawieszka **LEGO Czerwony Astronauta** to idealny sposób na wyrażenie swojej p
 
 **Kup teraz LEGO 53498 Zawieszkę do Bagażu Czerwony Astronauta i dodaj odrobinę kosmicznego stylu do swoich podróży!**
 
+**Galeria:**
+
+- 53498-1: https://a.allegroimg.com/original/119295/daf08a90410d928f8ceecdd284d0
+
 ---
 
-## 53512 — Lego Star Wars Brelok Miecz Świetlny Długopis Żelowy Jasny Zielony 53512
+## 53512 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.99 zł · EAN: 04895028520779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53512 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028520779 |
 
 **LEGO SERIA STAR WARS**
 
@@ -961,11 +1557,26 @@ Zawieszka **LEGO Czerwony Astronauta** to idealny sposób na wyrażenie swojej p
 
 **Idealny dodatek dla każdego, kto wierzy w Moc... i kreatywność.**
 
+**Galeria:**
+
+- 53512-1: https://a.allegroimg.com/original/119b9f/015ee3a94d6588a71b1273833016
+
 ---
 
-## 53514 — Lego Star Wars Brelok Miecz Świetlny Długopis Żelowy Błękitny 53514
+## 53514 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.99 zł · EAN: 04250986600770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53514 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4250986600770 |
 
 **LEGO SERIA STAR WARS**
 
@@ -989,11 +1600,26 @@ Zawieszka **LEGO Czerwony Astronauta** to idealny sposób na wyrażenie swojej p
 
 **Idealny dodatek dla każdego, kto wierzy w Moc... i kreatywność.**
 
+**Galeria:**
+
+- 53514-1: https://a.allegroimg.com/original/11507a/e9a348884158807ed87e872fd5a0
+
 ---
 
-## 53649 — Lego Zawieszka do bagażu Pink Spacebaby 53649
+## 53649 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.97 zł · EAN: 04895028536497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53649 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028536497 |
 
 **Witamy w ToysCompany**
 
@@ -1032,11 +1658,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **Idealne na prezent dla fanów LEGO®**
 
+**Galeria:**
+
+- 53649-1: https://a.allegroimg.com/original/116168/265110e5434194885829f633baa5
+
 ---
 
-## 53658 — Lego Zawieszka do bagażu Serce czerwone 53658
+## 53658 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 04895028536589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53658 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028536589 |
 
 **Witamy w ToysCompany**
 
@@ -1075,11 +1716,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **Idealne na prezent dla fanów LEGO®**
 
+**Galeria:**
+
+- 53658-1: https://a.allegroimg.com/original/116f3f/f032ffde4a829c85f2e5a056bb8f
+
 ---
 
-## 53660 — Lego Zawieszka Do Bagażu Plecaka Kwiat Orchidea 53660
+## 53660 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.90 zł · EAN: 04895028536602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53660 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028536602 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -1103,11 +1759,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53660-1: https://a.allegroimg.com/original/1149cd/83c3e0dc4e379722e0b8fdd064dc
+
 ---
 
-## 53661 — Lego Zawieszka Do Bagażu Plecaka Czerwona Róża 53661
+## 53661 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.89 zł · EAN: 04895028536619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53661 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028536619 |
 
 **LEGO SERIA  - ARTYKUŁY SZKOLNE**
 
@@ -1131,11 +1802,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **- PRZEDMIOT LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 53661-1: https://a.allegroimg.com/original/117896/b40d951045d897041a92e76d5329
+
 ---
 
-## 53692 — Lego Zawieszka do bagażu Serce różowe 53692
+## 53692 — 3x3 Heart Pink Bag Tag
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 04895028536923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53692 |
+| Nazwa angielska | 3x3 Heart Pink Bag Tag |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028536923 |
 
 **Witamy w ToysCompany**
 
@@ -1174,11 +1860,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **Idealne na prezent dla fanów LEGO®**
 
+**Galeria:**
+
+- 53692-1: https://a.allegroimg.com/original/112075/bfc24f454eefa0ceeef7b1f13064
+
 ---
 
-## 53775 — Lego Zawieszka do bagażu Star Wars Stormtrooper Vacation 53775
+## 53775 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.97 zł · EAN: 04895028537753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53775 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028537753 |
 
 **Witamy w ToysCompany**
 
@@ -1217,11 +1918,26 @@ Prezentacja może zawierać zdjęcia poglądowe produktów, które nie są przed
 
 **Idealne na prezent dla fanów LEGO®**
 
+**Galeria:**
+
+- 53775-1: https://a.allegroimg.com/original/11f33b/80af87a6473aba22f3d0052f5dcc
+
 ---
 
-## 850150 — Brelok Lego Święty Mikołaj 850150
+## 850150 — Santa Claus Classic Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 40.50 zł · EAN: 00673419156264 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850150 |
+| Nazwa angielska | Santa Claus Classic Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 1998 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419036917, 673419156264 |
 
 **Przeżyj trochę świątecznego uroku z Brelokiem LEGO® Świętego Mikołaja!**
 
@@ -1229,11 +1945,27 @@ Przeżyj trochę świątecznego uroku z breloczkiem LEGO® Świętego Mikołaja!
 
 Święty Mikołaj może być zawsze przy Tobie! Klasyczna mini figurka LEGO® doczepiona jest do łańcuszka i solidnego metalowego kółka.
 
+**Galeria:**
+
+- 850150-1: https://a.allegroimg.com/original/11c681/0b70c4724f0592816a7c97feb6c9
+- 850150-2: https://a.allegroimg.com/original/11471f/4799d5574f399c1649f6a4825d9d
+
 ---
 
-## 850152 — Lego 850152 Keychain Breloczek Klocek 2x4 Niebieski Brelok do kluczy
+## 850152 — Blue Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.00 zł · EAN: 00673419254083 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850152 |
+| Nazwa angielska | Blue Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254083 |
 
 LEGO 850152 Keychain Breloczek Klocek 2x4 Niebieski Brelok do kluczy
 
@@ -1254,11 +1986,26 @@ Ten zabawny i kolorowy breloczek do kluczy ma prawdziwy, niebieski klocek LEGO®
 - **EAN:** 673419254083 
 - **Wiek dziecka:** 6 lat +
 
+**Galeria:**
+
+- 850152-1: https://a.allegroimg.com/original/1131c4/10056a004000aca37d05753a36bc
+
 ---
 
-## 850448 — 4You Lego Star Wars Brelok Luke Skylwalker Pilot 850448
+## 850448 — Luke Skywalker Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.99 zł · EAN: 00673419181228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850448 |
+| Nazwa angielska | Luke Skywalker Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419181228 |
 
 **>>>**
 
@@ -1294,11 +2041,26 @@ Year released
 
 ZAPRASZAM DO ZAKUPU
 
+**Galeria:**
+
+- 850448-1: https://4.allegroimg.com/original/03d4f0/ade6f8b34f59be822fa4d22edf34
+
 ---
 
-## 850602 — Lego 850602 Chima Cragger brelok
+## 850602 — Cragger Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.25 zł · EAN: 00673419194679 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850602 |
+| Nazwa angielska | Cragger Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194679 |
 
 **Lego Unikat Chima Breloczek Cragger 850602**.
 
@@ -1316,11 +2078,26 @@ Dla Dzieci w wieku: 6+
 
 Nr katalogowy: 850602
 
+**Galeria:**
+
+- 850602-1: https://a.allegroimg.com/original/117947/52400c9742779387f48d04556149
+
 ---
 
-## 850607 — Lego 850607 Chima Eris brelok
+## 850607 — Eris Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.25 zł · EAN: 00673419194686 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850607 |
+| Nazwa angielska | Eris Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194686 |
 
 **Lego Unikat Chima Breloczek Eris 850607**
 
@@ -1338,11 +2115,26 @@ Dla Dzieci w wieku: 6+
 
 Nr katalogowy: 850607
 
+**Galeria:**
+
+- 850607-1: https://a.allegroimg.com/original/117058/6cec49a84ef38df2674a6d05d5b3
+
 ---
 
-## 850609 — Lego 850609 Chima Worriz brelok
+## 850609 — Worriz Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.25 zł · EAN: 00673419194761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850609 |
+| Nazwa angielska | Worriz Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419194761 |
 
 **Lego Unikat Chima Breloczek Worriz 850609**
 
@@ -1360,11 +2152,26 @@ Dla Dzieci w wieku: 6+
 
 Nr katalogowy: 850609
 
+**Galeria:**
+
+- 850609-1: https://a.allegroimg.com/original/1170b8/316c3e0145e58fb4c2b7f9c8ae56
+
 ---
 
-## 850800 — Lego 850800 Jeż nowy brelok breloczek do kluczy model wycofany
+## 850800 — Hedgehog Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419198998 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850800 |
+| Nazwa angielska | Hedgehog Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 15 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198998 |
 
 Witam
 
@@ -1380,11 +2187,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 850800-1: https://a.allegroimg.com/original/11521a/1b87bc1c45da895eebc3cf119a4b
+
 ---
 
-## 850807 — Brelok Lego Mr Gold złota figurka 850807
+## 850807 — Gold Minifigure Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419302968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850807 |
+| Nazwa angielska | Gold Minifigure Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419302968, 673419308908 |
 
 Klocki LEGO Akcesoria 850807 - Brelok Złota Minifigurka
 
@@ -1398,11 +2220,27 @@ Zabłyśnij wśród znajomych dzięki pokrytej warstwą złotego laminatu minifi
 
 - **Świetny prezent dla wszystkich miłośników LEGO®!**
 
+**Galeria:**
+
+- 850807-1: https://a.allegroimg.com/original/01ba9d/634217134924b5841f215399a8f0
+- 850807-2: https://a.allegroimg.com/original/1122a4/3aa6c0b541b2a1ca77b6c8eee8a3
+
 ---
 
-## 850808 — Lego 850808 Brelok ze złotym klockiem Lego 2x4
+## 850808 — Chrome Gold Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 33.70 zł · EAN: 00673419308915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850808 |
+| Nazwa angielska | Chrome Gold Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419300117, 673419308915 |
 
 LEGO 850808
 
@@ -1425,11 +2263,27 @@ Doskonale nadaje się na prezent dla wszystkich miłośników LEGO!
 - **Wiek dziecka:** 6 lat +
 - **Certyfikaty, opinie, atesty:** CE
 
+**Galeria:**
+
+- 850808-1: https://a.allegroimg.com/original/1166f2/8c5a1b5243f182447025627cb4e4
+- 850808-2: https://a.allegroimg.com/original/11325a/482d2ea649f4a344c9bf70f77ddb
+
 ---
 
-## 850884 — Lego Castle 850884 Król nowy brelok breloczek do kluczy unikat
+## 850884 — King Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 119.00 zł · EAN: 00673419213806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850884 |
+| Nazwa angielska | King Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213806 |
 
 Witam
 
@@ -1445,11 +2299,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 850884-1: https://a.allegroimg.com/original/11b81a/b86fef3b4dc697382a180ea88565
+
 ---
 
-## 850886 — Lego Castle 850886 Smoczy Czarodziej nowy brelok breloczek do kluczy unikat
+## 850886 — Dragon Wizard Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 109.00 zł · EAN: 00673419213813 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850886 |
+| Nazwa angielska | Dragon Wizard Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213813 |
 
 Witam
 
@@ -1465,11 +2334,26 @@ Rafał
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 850886-1: https://a.allegroimg.com/original/119f10/a19edbec47cd811e4bed2810cc7a
+
 ---
 
-## 850894 — Lego The Movie 850894 Emmet nowy brelok breloczek do kluczy
+## 850894 — Emmet Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419212410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850894 |
+| Nazwa angielska | Emmet Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419212410 |
 
 Witam
 
@@ -1487,11 +2371,26 @@ Rafał
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 850894-1: https://a.allegroimg.com/original/11eb73/5b9c33684127b32c250777ebc23e
+
 ---
 
-## 850895 — Lego the Movie 850895 Wyldstyle żyleta nowy brelok breloczek do kluczy
+## 850895 — Wyldstyle Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 65.00 zł · EAN: 00673419239394 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850895 |
+| Nazwa angielska | Wyldstyle Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239394 |
 
 Witam
 
@@ -1507,11 +2406,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 850895-1: https://a.allegroimg.com/original/11af64/1c8c3ec64c8499d43bc58d1a26c7
+
 ---
 
-## 850908 — Lego Chima 850908 Brelok Figurka Rogon Unikat
+## 850908 — Rogon Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 39.99 zł · EAN: 00673419213684 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850908 |
+| Nazwa angielska | Rogon Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213684 |
 
 - **Idealny na prezent. Brelok nowy orYginalny Lego**
 - **Sprzedaje tylko orYginalne klocki LEGO.**
@@ -1520,11 +2434,26 @@ Rafał
 
 **LEGO to moja PASJA**
 
+**Galeria:**
+
+- 850908-1: https://a.allegroimg.com/original/01c4a9/1c26a5084895ad683c2c57ccefe4
+
 ---
 
-## 850951 — Lego 850951 Wróżka Fairy nowy brelok breloczek do kluczy
+## 850951 — Girl Minifigure Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419213882 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850951 |
+| Nazwa angielska | Girl Minifigure Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213882 |
 
 Witam
 
@@ -1540,11 +2469,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 850951-1: https://a.allegroimg.com/original/116a00/6965e74e459d9c6aba3aad0a57f3
+
 ---
 
-## 850953 — Lego City 850953 Samochód Policyjny nowy brelok breloczek do kluczy unikat
+## 850953 — Police Car Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 65.00 zł · EAN: 00673419217651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850953 |
+| Nazwa angielska | Police Car Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419217651 |
 
 Witam
 
@@ -1562,11 +2506,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 850953-1: https://a.allegroimg.com/original/11aa20/f0f022be48fc9962ce06bcf07d32
+
 ---
 
-## 850996 — Brelok Lego 850996 Darth Vader
+## 850996 — Darth Vader Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 65.00 zł · EAN: 00673419254144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850996 |
+| Nazwa angielska | Darth Vader Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213929, 673419254144 |
 
 Przedmiot w ofercie: Brelok LEGO 850996 Darth Vader.
 
@@ -1580,11 +2539,27 @@ Poddaj się ciemnej stronie Mocy i bezwzględnemu dowódcy floty Imperium! Kusi 
 
 Zapraszam do zakupów.
 
+**Galeria:**
+
+- 850996-1: https://a.allegroimg.com/original/1122a3/5fc565be416ebd07f94fbae0078c
+- 850996-2: https://a.allegroimg.com/original/0198db/1e2991c0482e907d0e479eec8a7a
+
 ---
 
-## 850997 — Lego 850997 Star Wars Brelok do kluczy z księżniczką Leią
+## 850997 — Princess Leia Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.99 zł · EAN: 00673419254175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850997 |
+| Nazwa angielska | Princess Leia Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254175 |
 
 LEGO 850997 Star Wars - Brelok do kluczy z księżniczką Leią
 
@@ -1596,11 +2571,26 @@ Zabierz odważną i śmiałą księżniczkę Leię™ z lodowatej planety Hoth�
 - Doskonale nadaje się na prezent dla każdego miłośnika zestawów do budowy z serii LEGO® Star Wars™
 - Dla dzieci w wieku 6 lat i starszych
 
+**Galeria:**
+
+- 850997-1: https://a.allegroimg.com/original/45c8f8/cce44b9c44768a4d53b5817f599b
+
 ---
 
-## 850998 — Lego Star Wars Brelok Boba Fett Sw Lego 850998
+## 850998 — Boba Fett Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 119.50 zł · EAN: 00673419254168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 850998 |
+| Nazwa angielska | Boba Fett Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254168 |
 
 **LEGO Star Wars Brelok Boba Fett 850998**
 
@@ -1616,11 +2606,26 @@ Połącz się z wojownikiem i łowcą nagród Bobą Fettem™ podczas wykonywani
 - Świetny prezent dla fanów zestawów konstrukcyjnych LEGO® Star Wars™
 - Odpowiedni dla osób w wieku 6 lat i starszych
 
+**Galeria:**
+
+- 850998-1: https://a.allegroimg.com/original/1177df/a059ec5d4f1ebbf95e140369e352
+
 ---
 
-## 851005 — Lego Brelok DC Heroes 851005 Batgirl Klocki Nowe Oryginalne
+## 851005 — Batgirl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 135.21 zł · EAN: 00673419214018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851005 |
+| Nazwa angielska | Batgirl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419214018 |
 
 LEGO Brelok DC Super Heroes 851005 - Batgirl
 
@@ -1642,11 +2647,26 @@ Breloczek LEGO z łańcuszkiem i kółkiem **ma ok. 9 cm** długości.
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 851005-1: https://a.allegroimg.com/original/11f366/dad9f46e4d0889bf44a41b26392b
+
 ---
 
-## 851018 — Lego 851018 brelok Lego Chima Scolder Unikat
+## 851018 — Scolder Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 49.99 zł · EAN: 00673419213691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851018 |
+| Nazwa angielska | Scolder Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213691 |
 
 - **Idealny na prezent. Brelok nowy orYginalny Lego**
 - **Sprzedaje tylko orYginalne klocki LEGO.**
@@ -1655,11 +2675,26 @@ Breloczek LEGO z łańcuszkiem i kółkiem **ma ok. 9 cm** długości.
 
 **LEGO to moja PASJA**
 
+**Galeria:**
+
+- 851018-1: https://a.allegroimg.com/original/119a84/9354a01d4a239b349c2950787976
+
 ---
 
-## 851027 — Brelok Lego Spider-Man 851027 Nowy 2004
+## 851027 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 350.00 zł · EAN: 05702014385337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851027 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014385337 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany brelok LEGO.
 
@@ -1684,11 +2719,26 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 851027-1: https://a.allegroimg.com/original/11b84a/566c139846a795756fcabba34de3
+
 ---
 
-## 851034 — Lego Harry Potter Snape świecący w Ciemności 851034 brelok breloczek 2004
+## 851034 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 248.99 zł · EAN: 00673419039017 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851034 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419039017 |
 
 Nowy brelok Lego. Klocek z nadrukiem oraz metka posiadają przybrudenia z kleju.
 
@@ -1700,11 +2750,26 @@ Numer:** 851034**
 
 Nazwa:** Snape Key Chain with 2 x 2 Tile with Harry Potter Logo**
 
+**Galeria:**
+
+- 851034-1: https://a.allegroimg.com/original/1122be/8d46c82b4ecbbe9ecc872bf8c03b
+
 ---
 
-## 851091 — 851091 Lego Brelok R2-D2 Star Wars
+## 851091 — R2-D2 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419099028 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851091 |
+| Nazwa angielska | R2-D2 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419099028 |
 
 **Zapraszamy do odkrycia niezwykłego breloka LEGO – nowego, w pełni oryginalnego produktu zapakowanego  fabrycznie. To doskonały wybór dla miłośników LEGO w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
 
@@ -1726,11 +2791,26 @@ Nazwa:** Snape Key Chain with 2 x 2 Tile with Harry Potter Logo**
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 851091-1: https://a.allegroimg.com/original/117371/c397f6494c389f83e26337e517d7
+
 ---
 
-## 851316 — Lego Star Wars 851316 R2-D2 nowy brelok do kluczy figurka
+## 851316 — R2-D2 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.00 zł · EAN: 00673419213974 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851316 |
+| Nazwa angielska | R2-D2 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213974 |
 
 Witam
 
@@ -1746,11 +2826,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851316-1: https://a.allegroimg.com/original/110ffe/d83302704a0ba712e01f7ca27fc5
+
 ---
 
-## 851352 — Lego 851352 Ninjago Brelok do kluczy z Tytanowym Zane'em
+## 851352 — Titanium Ninja Zane Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 265.00 zł · EAN: 00673419235259 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851352 |
+| Nazwa angielska | Titanium Ninja Zane Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235259 |
 
 **Oryginalny breloczek LEGO**
 
@@ -1769,11 +2864,26 @@ Rafał
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 851352-1: https://a.allegroimg.com/original/05c78e/eacd870e42068c2744bec33388f0
+
 ---
 
-## 851353 — Lego Ninjago Breloczek Anacondrai Kapau 851353 Nowy
+## 851353 — Anacondrai Kapau Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 39.99 zł · EAN: 00673419235532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851353 |
+| Nazwa angielska | Anacondrai Kapau Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235532 |
 
 LEGO® 851353 Brelok do kluczy z Anakondowcem Kapau z serii LEGO Ninjago - NOWY
 
@@ -1785,11 +2895,26 @@ Nieustraszony wojownik z plemienia Anakondowców może być zawsze przy Tobie! T
 - Minifigurka jest na stałe przymocowana do metalowego łańcuszka 
 - Doskonale nadaje się na prezent dla każdego miłośnika zestawów do zabawy z serii LEGO® NINJAGO™
 
+**Galeria:**
+
+- 851353-1: https://a.allegroimg.com/original/0378d6/21ebf43a4893aa6781638c0b2bed
+
 ---
 
-## 851354 — Lego Ninjago 851354 Wrayth nowy brelok breloczek model wycofany
+## 851354 — Wrayth Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419239554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851354 |
+| Nazwa angielska | Wrayth Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239554 |
 
 Witam
 
@@ -1805,11 +2930,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851354-1: https://a.allegroimg.com/original/111d5b/b71612e64c458aa175d3058db454
+
 ---
 
-## 851368 — Lego Chima 851368 Breloczek Laval
+## 851368 — Laval Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419234931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851368 |
+| Nazwa angielska | Laval Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419234931 |
 
 LEGO® 851368 Brelok do kluczy z Lavalem z serii LEGO Chima
 
@@ -1823,11 +2963,26 @@ Oddaj hołd potężnemu plemieniu Lwów, a magiczne królestwo CHIMA™ stanie p
 
 - Doskonale nadaje się na prezent dla każdego miłośnika zestawów do budowy z serii LEGO® CHIMA™
 
+**Galeria:**
+
+- 851368-1: https://f.allegroimg.com/original/0181ca/b134959b49069433afb720af017f
+
 ---
 
-## 851369 — Lego Chima 851369 Breloczek Icebite
+## 851369 — Icebite Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419235419 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851369 |
+| Nazwa angielska | Icebite Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235419 |
 
 LEGO® 851369 Brelok do kluczy z Icebite'em z serii LEGO Chima
 
@@ -1841,11 +2996,26 @@ Stań ramię w ramę z Lodowymi Niedźwiedziami i razem wkroczcie do krainy CHIM
 
 - Doskonale nadaje się na prezent dla każdego miłośnika zestawów do budowy z serii LEGO® CHIMA™
 
+**Galeria:**
+
+- 851369-1: https://2.allegroimg.com/original/01a786/753591fc4032807175a89d91b702
+
 ---
 
-## 851394 — Lego 851394 Piernikowy Ludzik nowy brelok breloczek do kluczy wycofany
+## 851394 — Gingerbread Man Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419235433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851394 |
+| Nazwa angielska | Gingerbread Man Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419235433 |
 
 Witam
 
@@ -1861,11 +3031,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851394-1: https://a.allegroimg.com/original/11e012/f57693a348bfbc32b6f4ea2432b1
+
 ---
 
-## 851537 — Lego City 851537 Strażak nowy brelok breloczek do kluczy wycofany unikat
+## 851537 — Fireman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 85.00 zł · EAN: 00673419080477 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851537 |
+| Nazwa angielska | Fireman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419080477 |
 
 Witam
 
@@ -1881,11 +3066,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851537-1: https://a.allegroimg.com/original/1180fb/b1d93d00423688fab0e6d87603ce
+
 ---
 
-## 851626 — Lego City 851626 Policjant nowy brelok breloczek do kluczy
+## 851626 — Police Officer Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419082488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851626 |
+| Nazwa angielska | Police Officer Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419082488 |
 
 Witam
 
@@ -1901,11 +3101,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 851626-1: https://a.allegroimg.com/original/1191f0/7124a2894402a319b07c9a673245
+
 ---
 
-## 851729 — Lego 851729 brelok Nowy Exo-Force Takeshi Unikat Old
+## 851729 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 39.99 zł · EAN: 00673419085526 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851729 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419085526 |
 
 - **Idealny na prezent. Brelok nowy LEGO**
 - **UNIKAT DLA KOLEKCJONERA**
@@ -1914,11 +3129,26 @@ Rafał
 
 **LEGO to moja PASJA**
 
+**Galeria:**
+
+- 851729-1: https://a.allegroimg.com/original/111e86/e98a9afa4c5d9e290fdef6ec0461
+
 ---
 
-## 851839 — Brelok Lego 851839 Patrick SpongeBob Kanciastoporty
+## 851839 — Patrick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419090568 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 851839 |
+| Nazwa angielska | Patrick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419090568 |
 
 **Oryginalny breloczek LEGO**
 
@@ -1937,11 +3167,26 @@ Rafał
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 851839-1: https://a.allegroimg.com/original/11be76/8165f9274c418f3a879cf103100a
+
 ---
 
-## 852245 — Lego Star Wars Landspeeder 852245 brelok breloczek mini Misb 2008
+## 852245 — Landspeeder Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 148.99 zł · EAN: 00673419106436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852245 |
+| Nazwa angielska | Landspeeder Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419106436 |
 
 Nowy, fabrycznie zamknięty brelok Lego.
 
@@ -1955,11 +3200,26 @@ Nazwa:** Landspeeder Key Chain with Lego Logo Tile, Modified 3 x 2 Curved with H
 
 Zespół BRICKDUCKS
 
+**Galeria:**
+
+- 852245-1: https://a.allegroimg.com/original/1153cb/68ca1c7d4db6b4ede18be38092b4
+
 ---
 
-## 852246 — Lego Star Wars 852246 Slave I Exclusive Bag Charm
+## 852246 — Slave I Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 148.99 zł · EAN: 00673419106443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852246 |
+| Nazwa angielska | Slave I Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419106443 |
 
 Brelok LEGO to mały, praktyczny gadżet inspirowany kultowymi klockami LEGO. Jest to miniaturka znanego na całym świecie zestawu klocków, którą można przymocować do kluczy, plecaka lub torby. Breloki LEGO są zwykle wykonane z wysokiej jakości tworzywa sztucznego, co sprawia, że są trwałe i odporne na uszkodzenia.
 
@@ -1969,11 +3229,26 @@ Breloki LEGO są popularne wśród dzieci i dorosłych fanów klocków LEGO. Są
 
 W skrócie, brelok LEGO to praktyczny i zabawny gadżet, który pozwala nosić ze sobą kawałek magii LEGO i wyrazić swoją kreatywność nawet w drobnych codziennych rzeczach.
 
+**Galeria:**
+
+- 852246-1: https://a.allegroimg.com/original/11cf02/e542ebea4f748cb8ef4e079e1f12
+
 ---
 
-## 852274 — Lego 852274 Medium Blue Brick nowy brelok breloczek do kluczy
+## 852274 — Light Blue Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.00 zł · EAN: 00673419156363 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852274 |
+| Nazwa angielska | Light Blue Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156363 |
 
 Sprzedam oryginalny brelok LEGO (numer katalogowy 852274) w kolorze jasnoniebieskim (Medium Blue). Przedmiot jest nowy, nigdy nieużywany, w oryginalnym opakowaniu kartonowym, tak jak widać na zdjęciach.
 
@@ -1985,11 +3260,26 @@ Szczegóły:
 
 Idealny gadżet dla fana LEGO lub jako drobny upominek. Zapraszam do zakupu!
 
+**Galeria:**
+
+- 852274-1: https://a.allegroimg.com/original/113240/1679617b4e13beca0864596f1d9a
+
 ---
 
-## 852349 — 852349 Lego Brelok Shadow Trooper Star Wars
+## 852349 — Shadow Trooper Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 129.00 zł · EAN: 00673419109567 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852349 |
+| Nazwa angielska | Shadow Trooper Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419109567 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2013,11 +3303,26 @@ Idealny gadżet dla fana LEGO lub jako drobny upominek. Zapraszam do zakupu!
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 852349-1: https://a.allegroimg.com/original/114be1/4a6217a54e39a0a5fa1fca45704d
+
 ---
 
-## 852353 — Lego 852353 brelok Star Wars Ahsoka
+## 852353 — Ahsoka Tano Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419109604 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852353 |
+| Nazwa angielska | Ahsoka Tano Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419109604 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2041,11 +3346,26 @@ Idealny gadżet dla fana LEGO lub jako drobny upominek. Zapraszam do zakupu!
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 852353-1: https://a.allegroimg.com/original/113c07/98c4c20d47afa031ad10d185d997
+
 ---
 
-## 852544 — Lego Pirates 852544 Pirate Captain nowy brelok breloczek do kluczy
+## 852544 — Pirate Captain Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 55.00 zł · EAN: 00673419156448 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852544 |
+| Nazwa angielska | Pirate Captain Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156448 |
 
 Witam
 
@@ -2061,11 +3381,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852544-1: https://a.allegroimg.com/original/1105fd/b847627841acbbc23ed1cc5b32da
+
 ---
 
-## 852550 — Lego Star Wars 852550 Mistrz Yoda nowy breloczek do kluczy
+## 852550 — Yoda Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 58.00 zł · EAN: 00673419156554 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852550 |
+| Nazwa angielska | Yoda Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156554 |
 
 Witam
 
@@ -2081,11 +3416,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852550-1: https://a.allegroimg.com/original/1192e4/679934b745b5bab2a17aced12120
+
 ---
 
-## 852704 — Lego Classic 852704 Dziewczyna z serduszkiem nowy brelok do kluczy wycofany
+## 852704 — Classic Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419199964 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852704 |
+| Nazwa angielska | Classic Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419199964 |
 
 Witam
 
@@ -2101,11 +3451,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852704-1: https://a.allegroimg.com/original/1130bc/73f2953d4a7f9997d3da17aaf65d
+
 ---
 
-## 852774 — Lego Atlantis 852774 Rekin Shark Warrior nowy brelok breloczek
+## 852774 — Shark Warrior Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.00 zł · EAN: 00673419137898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852774 |
+| Nazwa angielska | Shark Warrior Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419137898 |
 
 Witam
 
@@ -2121,21 +3486,51 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852774-1: https://a.allegroimg.com/original/11e21d/c588ef204ee291d15e076b669969
+
 ---
 
-## 852775 — Lego 852775 Manta Warrior breloczek
+## 852775 — Manta Warrior Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419137904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852775 |
+| Nazwa angielska | Manta Warrior Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419137904 |
 
 LEGO® 852775 Breloczek do kluczy z Manta Warrior z serii LEGO Atlantis
 
 Brelok do kluczy z minifigurką Manta Warrior z serii LEGO Atlantis. Może służyć jako zawieszka do plecaka lub kluczy! Doskonale nadaje się na prezent dla każdego fana LEGO Atlantis!
 
+**Galeria:**
+
+- 852775-1: https://1.allegroimg.com/original/01da2e/5e11ed3441398631ad14ce2a4251
+
 ---
 
-## 852838 — 4You Lego Star Wars Brelok 852838 Endor Ewok Wicket
+## 852838 — Wicket Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 119.99 zł · EAN: 00673419138031 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852838 |
+| Nazwa angielska | Wicket Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419138031 |
 
 Breloczki z serii Lego Star Wars.
 
@@ -2169,11 +3564,26 @@ Year released
 
 **2010**
 
+**Galeria:**
+
+- 852838-1: https://a.allegroimg.com/original/0345ff/b84aa68944baafdb5e1ce5c743f1
+
 ---
 
-## 852912 — Lego Kingdoms 852912 Księżniczka Brelok do kluczy breloczek Nowy Princess
+## 852912 — Princess Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.99 zł · EAN: 00673419140362 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852912 |
+| Nazwa angielska | Princess Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419140362 |
 
 - **Idealny prezent dla kolekcjonera.**
 - **Sprzedaje tylko oryginalne klocki LEGO.**
@@ -2182,11 +3592,26 @@ Year released
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 852912-1: https://a.allegroimg.com/original/112c45/f2a610ac4574a94bc23538fd0a62
+
 ---
 
-## 852939 — Lego Breloczek 852939 Prince of Persia Dastan Brelok z uchwytem
+## 852939 — Prince Dastan Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 75.31 zł · EAN: 00673419139106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852939 |
+| Nazwa angielska | Prince Dastan Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419139106 |
 
 LEGO Breloczek 852939 - Prince of Persia - Dastan
 
@@ -2200,21 +3625,51 @@ Premiera na rok 2010
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 852939-1: https://a.allegroimg.com/original/1154bd/ec7c653f4254bb2293b58112cdb4
+
 ---
 
-## 852958 — Lego Kingdoms 852958 Król Brelok Nowy bez etykiety
+## 852958 — King Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 111.11 zł · EAN: 00673419156172 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852958 |
+| Nazwa angielska | King Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419156172 |
 
 Oryginalna minifigurka króla z serii LEGO Kindoms, na solidnym metalowym kółku i łańcuszku. Król ma zarzuconą na plecy materiałową pelerynkę.
 
 Może służyć jako brelok, zawieszka do plecaka, a także wzbogacić kolekcję breloczków bądź minifigurek.
 
+**Galeria:**
+
+- 852958-1: https://a.allegroimg.com/original/11f93f/5d87569143d59729c7e7dd2c10c2
+
 ---
 
-## 852979 — Lego Brelok Harry Potter 852979 Albus Dumbledore breloczek 2010 Nowy
+## 852979 — Albus Dumbledore Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 130.00 zł · EAN: 00673419100823 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852979 |
+| Nazwa angielska | Albus Dumbledore Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419100823 |
 
 Lego Brelok Harry Potter 852979 Albus Dumbledore breloczek 2010 NOWY
 
@@ -2228,11 +3683,26 @@ Numer:** 852979**
  
 Nazwa:** Dumbledore (without glasses) Key Chain with Lego Logo Tile, Modified 3 x 2 Curved with Hole**
 
+**Galeria:**
+
+- 852979-1: https://a.allegroimg.com/original/116499/db1c588744f9a17bd36404a5cf53
+
 ---
 
-## 852985 — Lego Classic 852985 Breloczek Kaczka model wycofany klocki
+## 852985 — Duck Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419142366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 852985 |
+| Nazwa angielska | Duck Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419142366 |
 
 **PRODUCENT:** LEGO
 
@@ -2252,19 +3722,49 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 852985-1: https://a.allegroimg.com/original/118472/bc8b9afc46959af6a8418916169c
+
 ---
 
-## 853091 — Lego City 853091 Policjant nowy brelok breloczek do kluczy wycofany
+## 853091 — Policeman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 42.99 zł · EAN: 00673419151344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853091 |
+| Nazwa angielska | Policeman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419151344 |
 
 Nowy breloczek do kluczy Lego City 853091 z policjantem to idealny dodatek do kluczy lub plecaka. Wykonany z wysokiej jakości plastiku, zaprojektowany do trwałości i stylu. Doskonały prezent dla fanów serii Lego City.
 
+**Galeria:**
+
+- 853091-1: https://a.allegroimg.com/original/11cf6d/8ec63e43435c9ecff6bbb65b184a
+
 ---
 
-## 853097 — Lego Ninjago 853097 Nowy breloczek do kluczy z Kai wycofany
+## 853097 — Kai Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419150835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853097 |
+| Nazwa angielska | Kai Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419150835 |
 
 Witam
 
@@ -2282,11 +3782,26 @@ Rafał
 
 Rocznik:** 2011**
 
+**Galeria:**
+
+- 853097-1: https://a.allegroimg.com/original/117a50/aa76d0d54d2291086fe470a8645e
+
 ---
 
-## 853099 — Lego Ninjago 853099 Cole nowy brelok breloczek
+## 853099 — Cole Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 159.00 zł · EAN: 00673419150859 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853099 |
+| Nazwa angielska | Cole Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419150859 |
 
 Witam
 
@@ -2302,11 +3817,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853099-1: https://a.allegroimg.com/original/11cfae/70aa0eda4553a326767ff50d4e76
+
 ---
 
-## 853101 — Lego Ninjago 853101 Sensei-Wu nowy brelok breloczek do kluczy unikat
+## 853101 — Sensei-Wu Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419150873 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853101 |
+| Nazwa angielska | Sensei-Wu Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419150873 |
 
 Witam
 
@@ -2322,11 +3852,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853101-1: https://a.allegroimg.com/original/11d785/04edbef64c4397a6565466582c86
+
 ---
 
-## 853118 — 853118 Lego Breloczek Imperator Palpatine Star Wars
+## 853118 — Emperor Palpatine Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 149.00 zł · EAN: 00673419151405 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853118 |
+| Nazwa angielska | Emperor Palpatine Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419151405 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2350,11 +3895,26 @@ Rafał
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 853118-1: https://a.allegroimg.com/original/11eb31/1f7891c84c218d86b649d2e3c0ad
+
 ---
 
-## 853125 — Lego 853125 brelok Star Wars Bossk Unikat Nowy Breloczek
+## 853125 — Bossk Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.99 zł · EAN: 00673419175043 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853125 |
+| Nazwa angielska | Bossk Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419175043 |
 
 **Oryginalny breloczek LEGO - NOWY UNIKAT**
 
@@ -2372,11 +3932,26 @@ Rafał
 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 
+**Galeria:**
+
+- 853125-1: https://a.allegroimg.com/original/11bc68/a3fa7a4c4fe59762e35a7b5165b9
+
 ---
 
-## 853127 — Lego Star Wars 853127 Cad Bane Key Chain Brelok Nowy Unikat Breloczek
+## 853127 — Cad Bane Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 129.99 zł · EAN: 00673419151436 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853127 |
+| Nazwa angielska | Cad Bane Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419151436 |
 
 - **Figurka NOWA oryginalna LEGO - BRELOK**
 - **Sprzedaje tylko oryginalne klocki LEGO.**
@@ -2385,11 +3960,26 @@ Rafał
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 853127-1: https://a.allegroimg.com/original/119915/c85a80ea4e528eebaadbd5c45144
+
 ---
 
-## 853129 — Lego 853129 Brelok Star Wars Aayla Secura Unikat Nowy breloczek
+## 853129 — Aayla Secura Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.99 zł · EAN: 00673419151443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853129 |
+| Nazwa angielska | Aayla Secura Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419151443 |
 
 - **Figurka NOWA oryginalna LEGO - BRELOK**
 - **Super prezent dla kolekcjonera.**
@@ -2399,11 +3989,26 @@ Rafał
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 853129-1: https://a.allegroimg.com/original/1163b3/f140da45499aab2f2110462e6cbe
+
 ---
 
-## 853201 — Lego Star Wars 853201 Jar Jar Binks nowy breloczek do kluczy brelok
+## 853201 — Jar Jar Binks Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419157209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853201 |
+| Nazwa angielska | Jar Jar Binks Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419157209 |
 
 Witam
 
@@ -2419,11 +4024,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853201-1: https://a.allegroimg.com/original/1172e9/a5cc2e9b44ac89b0badb589f6050
+
 ---
 
-## 853375 — Lego City 853375 Strażak nowy brelok breloczek do kluczy model wycofany
+## 853375 — Fire Fighter Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.00 zł · EAN: 00673419175005 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853375 |
+| Nazwa angielska | Fire Fighter Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419175005 |
 
 Witam
 
@@ -2437,11 +4057,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853375-1: https://a.allegroimg.com/original/11172b/4096d34d4ec9a4a8b574da78a015
+
 ---
 
-## 853379 — Lego Classic 853379 Brelok z Fioletowym Klockiem Do Kluczy Key Chain Chrome
+## 853379 — Purple Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 70.50 zł · EAN: 00673419254106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853379 |
+| Nazwa angielska | Purple Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254106 |
 
 LEGO Classic 853379 Brelok z Fioletowym Klockiem Do Kluczy Key Chain Chrome
 
@@ -2450,11 +4085,26 @@ LEGO Classic 853379 Brelok z Fioletowym Klockiem Do Kluczy Key Chain Chrome
 
 Solidnie wykonany brelok w kolorze fioletowego klocka przymocowego do mocnego, metalowego łańcuszka z kółkiem. Dzięki możliwości przypięcia breloczka do kluczy lub plecaka, klocek LEGO może towarzyszyć dziecku podczas codziennych przygód. Doskonały prezent dla każdego fana Lego.
 
+**Galeria:**
+
+- 853379-1: https://a.allegroimg.com/original/118233/d36acce549e18f3660736016da7d
+
 ---
 
-## 853380 — [Gear 853380] 2 x 4 Brick Medium Azure Key Chain Brelok
+## 853380 — Turquoise Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 55.00 zł · EAN: 00673419254076 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853380 |
+| Nazwa angielska | Turquoise Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254076 |
 
 **LEGO 853380 Brelok z turkusowym klockiem**
 
@@ -2464,11 +4114,26 @@ Fani zestawów LEGO będą zachwyceni rzadkim kolorem klocka w Breloczku z turku
 - Zabawny i funkcjonalny gadżet – metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, nadając im klimat LEGO
 - Pomysł na prezent dla dzieci – Breloczek z turkusowym klockiem 2x4 ma 7 cm długości i będzie świetnym upominkiem dla każdego fana LEGO
 
+**Galeria:**
+
+- 853380-1: https://a.allegroimg.com/original/111eef/04a1474249b981220a8a602f3154
+
 ---
 
-## 853401 — Lego Ninjago 853401 Kai Zx nowy brelok breloczek unikat 2012
+## 853401 — Kai Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 105.00 zł · EAN: 00673419174930 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853401 |
+| Nazwa angielska | Kai Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419174930 |
 
 Witam
 
@@ -2484,11 +4149,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853401-1: https://a.allegroimg.com/original/11e486/b59dcadb4094ba8e42cbd6a58af0
+
 ---
 
-## 853403 — Lego Ninjago 853403 Hypnobrai Slithraa nowy breloczek unikat
+## 853403 — Hypnobrai Slithraa Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 109.00 zł · EAN: 00673419174954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853403 |
+| Nazwa angielska | Hypnobrai Slithraa Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419174954 |
 
 Witam
 
@@ -2504,11 +4184,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853403-1: https://a.allegroimg.com/original/113d0e/603b46de4be0806fdcf14768e2cb
+
 ---
 
-## 853430 — Brelok Lego Heroes Superman 853430
+## 853430 — Superman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 159.00 zł · EAN: 00673419254373 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853430 |
+| Nazwa angielska | Superman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254373 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2544,11 +4239,26 @@ Zawsze i wszędzie miej u swego boku superbohatera klasycznego komiksu! Oryginal
 
 Zestaw LEGO Akcesoria - Brelok Superman 853430 zawiera 1 klocek LEGO. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 853430-1: https://a.allegroimg.com/original/115ce6/7d5c5c244b9fbd433623a0cbba59
+
 ---
 
-## 853449 — Lego Brelok 853449 Yoda
+## 853449 — Yoda Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.81 zł · EAN: 00673419254199 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853449 |
+| Nazwa angielska | Yoda Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 853449 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254199 |
 
 LEGO Brelok 853449 Yoda (15)
  
@@ -2570,11 +4280,26 @@ Doskonale nadaje się na prezent dla każdego miłośnika zestawów do budowy z 
 
 Dla dzieci w wieku 6 lat i starszych
 
+**Galeria:**
+
+- 853449-1: https://a.allegroimg.com/original/11c2fa/06e454fc450ba817e066946c588f
+
 ---
 
-## 853451 — Lego Star Wars 853451 Chewbacca nowy brelok breloczek do kluczy wycofany
+## 853451 — Chewbacca Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419254205 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853451 |
+| Nazwa angielska | Chewbacca Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254205 |
 
 Witam
 
@@ -2594,11 +4319,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853451-1: https://a.allegroimg.com/original/1128f7/499123a448bfbe04b8b71e53b307
+
 ---
 
-## 853452 — Lego DC 853452 Zielona Latarnia nowy brelok breloczek do kluczy wycofany
+## 853452 — Green Lantern Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 97.99 zł · EAN: 00673419239561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853452 |
+| Nazwa angielska | Green Lantern Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239561 |
 
 Witam
 
@@ -2614,11 +4354,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853452-1: https://a.allegroimg.com/original/11924e/51c3ee1a49c28e810273eca21ab2
+
 ---
 
-## 853454 — Brelok Lego Flash 853454
+## 853454 — Flash Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.99 zł · EAN: 00673419239578 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853454 |
+| Nazwa angielska | Flash Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239578, 673419253222 |
 
 Brelok LEGO® DC COMICS Super Heroes 853454
 
@@ -2636,11 +4391,27 @@ Podaruj fanowi LEGO® breloczek z Marvel Super Heroes Flash. Minifigurka słynne
 - Wspaniały prezent świąteczny, urodzinowy lub bez okazji dla sześciolatków i starszych fanów LEGO®. Breloczek LEGO® z Super Heroes Flash można przypiąć do kluczy, plecaka lub torby bez obaw, że się odczepi.
 - Breloczek ma ok. 9 cm długości.
 
+**Galeria:**
+
+- 853454-1: https://a.allegroimg.com/original/110cc9/10e5716b405e98ffc400579b6f6b
+- 853454-2: https://3.allegroimg.com/original/05d290/f6d507444cd6980b98b1bd0e8923
+
 ---
 
-## 853456 — Lego DC Comics 853456 Martian Manhunter nowy brelok breloczek do kluczy
+## 853456 — Martian Manhunter Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 75.00 zł · EAN: 00673419239592 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853456 |
+| Nazwa angielska | Martian Manhunter Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419239592 |
 
 Witam
 
@@ -2656,11 +4427,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853456-1: https://a.allegroimg.com/original/118832/5a462c41481fb5f6fcb5430d6ede
+
 ---
 
-## 853470 — Lego Star Wars Brelok R2-D2 853470
+## 853470 — R2-D2 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 58.90 zł · EAN: 00673419254229 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853470 |
+| Nazwa angielska | R2-D2 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254229 |
 
 **Rozegraj galaktyczne misje w podróży z R2-D2"!**
 
@@ -2674,11 +4460,26 @@ Zamień każdą podróż w ekscytującą przygodę dzięki temu łańcuchowi do 
 - Świetny prezent dla fanów zestawów konstrukcyjnych LEGO® Star Wars
 - Odpowiedni dla osób w wieku 6 lat i starszych
 
+**Galeria:**
+
+- 853470-1: https://a.allegroimg.com/original/115a0a/6784eb604c7d854888380c63deba
+
 ---
 
-## 853521 — Lego Nexo Knights Breloczek Brelok z Clay Key Chain 853521
+## 853521 — Clay Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419253116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853521 |
+| Nazwa angielska | Clay Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419253116 |
 
 **Nexo Knights Clay Key Chain**
 
@@ -2695,11 +4496,26 @@ Teraz wierny Clay Moorington może towarzyszyć ci we wszystkich podróżach po 
 - To świetny prezent dla miłośników zestawów LEGO® NEXO KNIGHTS™.
 - Produkt odpowiedni dla dzieci w wieku od 6 lat
 
+**Galeria:**
+
+- 853521-1: https://6.allegroimg.com/original/035ff1/9556095445c9ad151003c64ee576
+
 ---
 
-## 853522 — Lego Nexo Knights 853522 breloczek Macy Unikat XXX
+## 853522 — Macy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.90 zł · EAN: 00673419253123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853522 |
+| Nazwa angielska | Macy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419253123 |
 
 LEGO 853522 BRELOK MACY
 
@@ -2712,11 +4528,26 @@ Dodaj sobie odrobinę królewskiego majestatu dzięki Macy Halbert, księżniczc
 - To świetny prezent dla miłośników zestawów LEGO® NEXO KNIGHTS™. 
 - Produkt odpowiedni dla dzieci w wieku od 6 lat
 
+**Galeria:**
+
+- 853522-1: https://a.allegroimg.com/original/11097d/8fd36022490fa496220c46e9cb10
+
 ---
 
-## 853525 — Lego 853525 Brelok Nexo Knights Nowy Unikat Jestro
+## 853525 — Jestro Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419253154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853525 |
+| Nazwa angielska | Jestro Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419253154 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2735,11 +4566,26 @@ Dodaj sobie odrobinę królewskiego majestatu dzięki Macy Halbert, księżniczc
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853525-1: https://a.allegroimg.com/original/118be4/5a77edaf426e84c1623910ec9ce7
+
 ---
 
-## 853534 — Brelok Skybound Jay Lego 853534
+## 853534 — Skybound Jay Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 195.00 zł · EAN: 00673419252423 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853534 |
+| Nazwa angielska | Skybound Jay Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252423 |
 
 **Oryginalny breloczek LEGO**
 
@@ -2758,11 +4604,26 @@ Dodaj sobie odrobinę królewskiego majestatu dzięki Macy Halbert, księżniczc
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853534-1: https://a.allegroimg.com/original/1169d5/fd77e672453191f6b510b701e48a
+
 ---
 
-## 853538 — Brelok Lego Ninjago Skybound Cole 853538
+## 853538 — Skybound Cole Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 168.80 zł · EAN: 00673419256612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853538 |
+| Nazwa angielska | Skybound Cole Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419256612 |
 
 Brelok LEGO® NINJAGO 853538
 
@@ -2781,11 +4642,26 @@ WIEK:** 6+**
 - Minifigurki nie da się odłączyć od łańcuszka.
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853538-1: https://a.allegroimg.com/original/11dd97/263a2e0047f79a682da9b9fbf6b6
+
 ---
 
-## 853559 — Brelok Emily Jones Lego Friends Figurka L-853559 XXX
+## 853559 — Emily Jones Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 14.00 zł · EAN: 00673419252874 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853559 |
+| Nazwa angielska | Emily Jones Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252874 |
 
 **LEGO ELVES - EMILY JONES - brelok do kluczy**
 
@@ -2804,11 +4680,26 @@ Wiek: 6+
 - Rodzaj: Lego ELVES 
 - Wiek: +6
 
+**Galeria:**
+
+- 853559-1: https://2.allegroimg.com/original/035fdd/d0be710548d88a6424b4a391a9e2
+
 ---
 
-## 853560 — Brelok Lego Elves 853560 Elfka Ognia Azari
+## 853560 — Fire Elf Azari Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.80 zł · EAN: 00673419252881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853560 |
+| Nazwa angielska | Fire Elf Azari Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252881 |
 
 Brelok LEGO® ELVES 853636
 
@@ -2832,11 +4723,26 @@ To świetny prezent dla miłośników zestawów do budowania LEGO® Elves.
 
 Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853560-1: https://a.allegroimg.com/original/11b1da/a98b333444039c1816c3153a004f
+
 ---
 
-## 853562 — Brelok Lego Elves 853562 Elfka Wody Naida
+## 853562 — Water Elf Naida Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.90 zł · EAN: 00673419252904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853562 |
+| Nazwa angielska | Water Elf Naida Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252904 |
 
 Brelok LEGO® ELVES 853562
 
@@ -2860,11 +4766,26 @@ To świetny prezent dla miłośników zestawów do budowania LEGO® Elves.
 
 Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853562-1: https://a.allegroimg.com/original/1184bd/8194a2b343969a543826a04a43ba
+
 ---
 
-## 853568 — Lego 853568 City Breloczek ze strażnikiem więziennym Brelok Policjant
+## 853568 — Prison Guard Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.31 zł · EAN: 00673419213868 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853568 |
+| Nazwa angielska | Prison Guard Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419213868 |
 
 LEGO 853568 City - Breloczek ze strażnikiem więziennym
 
@@ -2880,11 +4801,26 @@ Breloczek LEGO z łańcuszkiem i kółkiem **ma ok. 9 cm** długości.
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 853568-1: https://a.allegroimg.com/original/11f738/9b06f7204fab88853d50ab736e6e
+
 ---
 
-## 853571 — Breloczek Lego 853571 z chłopakiem w kostiumie hot doga Brelok Figura
+## 853571 — Hot Dog Guy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419252379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853571 |
+| Nazwa angielska | Hot Dog Guy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419252379 |
 
 LEGO 853571 Breloczek z chłopakiem w kostiumie hot doga
 
@@ -2900,11 +4836,26 @@ Breloczek LEGO® z łańcuszkiem i kółkiem **ma ok. 9 cm** długości.
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 853571-1: https://a.allegroimg.com/original/013659/d74712934c32b0060046f665c68b
+
 ---
 
-## 853590 — Breloczek Lego 853590 Superman Nowy
+## 853590 — Superman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 113.81 zł · EAN: 00673419258173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853590 |
+| Nazwa angielska | Superman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258173, 673419305945 |
 
 Breloczek LEGO 853590 Superman NOWY
 
@@ -2919,11 +4870,26 @@ Ten fajny breloczek ma prawdziwą minifigurkę Supermana™ z komiksów LEGO® D
 - Świetnie nadaje się na prezent dla fanów zestawów do budowania LEGO®, komiksów DC Comics oraz filmu Batman v Superman: Świt Sprawiedliwości
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853590-1: https://a.allegroimg.com/original/11cdb2/3aaeac1541459473a968ddf20f2a
+
 ---
 
-## 853591 — Lego Brelok 853591 Heroes Batman Nowy
+## 853591 — Batman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 169.99 zł · EAN: 00673419258180 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853591 |
+| Nazwa angielska | Batman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258180 |
 
 LEGO 853591 Brelok Super Heroes Batman NOWY
 
@@ -2937,11 +4903,26 @@ Krzyżowiec w pelerynie zawsze będzie po twojej stronie, gdy przyczepisz ten fa
 - Świetny prezent dla fanów zestawów konstrukcyjnych LEGO, komiksów DC Comics i filmu Batman v Superman: Świt sprawiedliwości.
 - Ten przedmiot zapewnia odpowiednią do wieku rozgrywkę dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853591-1: https://a.allegroimg.com/original/116a41/bd48601340488aa0bd054e3216a3
+
 ---
 
-## 853593 — Lego 853593 Brelok Kapitan Ameryka Nowy Breloczek Unikat
+## 853593 — Captain America Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.99 zł · EAN: 00673419258203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853593 |
+| Nazwa angielska | Captain America Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258203 |
 
 Brelok LEGO® MARVEL Super Heroes 853593
  
@@ -2960,11 +4941,26 @@ Połącz siły z legendą! Teraz to możliwe dzięki breloczkowi z zestawu LEGO 
 - Można przypiąć do kluczy lub plecaka. 
 - Minifigurki nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853593-1: https://a.allegroimg.com/original/1163bd/5717bb3945dfaaec27bbf12020b9
+
 ---
 
-## 853603 — Lego Star Wars 853603 Rey
+## 853603 — Rey Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419256643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853603 |
+| Nazwa angielska | Rey Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419256643 |
 
 LEGO® 853603 Breloczek do kluczy z Rey™ z serii LEGO® Star Wars
 
@@ -2982,11 +4978,26 @@ Teraz możesz na każdym kroku pomagać Ruchowi Oporu w słusznej walce! Wystarc
 
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853603-1: https://5.allegroimg.com/original/014c84/77d9fd9c45c98a73b106014df625
+
 ---
 
-## 853604 — Lego 853604 Brelok Do Kluczy Star Wars BB-8
+## 853604 — BB-8 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.45 zł · EAN: 00673419258159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853604 |
+| Nazwa angielska | BB-8 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258159 |
 
 LEGO 853604 - BRELOK DO KLUCZY STAR WARS BB-8
 
@@ -3010,11 +5021,26 @@ Stan: **Nowe**
 - To świetny prezent dla miłośników Gwiezdnych Wojen i zestawów LEGO®.
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853604-1: https://a.allegroimg.com/original/110a17/cc14bf3c44a8b06cec49ddcb8646
+
 ---
 
-## 853605 — Breloczek Lego 853605 Star Wars Poe Dameron
+## 853605 — Poe Dameron Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 76.00 zł · EAN: 00673419258166 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853605 |
+| Nazwa angielska | Poe Dameron Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419258166 |
 
 **Oryginalny breloczek LEGO**
 
@@ -3033,11 +5059,26 @@ Stan: **Nowe**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853605-1: https://a.allegroimg.com/original/01c11c/478c11e94cd082581ca7d155d8f8
+
 ---
 
-## 853633 — Lego brelok 853633 The Joker
+## 853633 — The Joker Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419269551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853633 |
+| Nazwa angielska | The Joker Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269551 |
 
 **Oryginalny breloczek LEGO**
 
@@ -3055,11 +5096,26 @@ Stan: **Nowe**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853633-1: https://a.allegroimg.com/original/114960/e4b15bb5496daaab0cee9269d065
+
 ---
 
-## 853635 — Lego Batman Movie 853635 Breloczek z Catwoman
+## 853635 — Catwoman Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419269575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853635 |
+| Nazwa angielska | Catwoman Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269575 |
 
 **Oryginalny breloczek LEGO**
 
@@ -3078,11 +5134,26 @@ Stan: **Nowe**
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 853635-1: https://a.allegroimg.com/original/11dd8a/8945e54840ecb28a44fcb8717f77
+
 ---
 
-## 853636 — Breloczek Lego 853636 Batman Harley Quinn
+## 853636 — Harley Quinn Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.99 zł · EAN: 00673419269582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853636 |
+| Nazwa angielska | Harley Quinn Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269582 |
 
 LEGO® 853636 Breloczek do kluczy z Harley Quinn™
 
@@ -3098,19 +5169,49 @@ Zaprezentuj swój styl i przypnij do kluczy lub plecaka breloczek z Harley Quinn
 - Można go przypiąć do kluczy lub plecaka.
 - Minifigurki nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853636-1: https://a.allegroimg.com/original/110faf/f1399cbf42368976d50f7f3b67b6
+
 ---
 
-## 853666 — Lego Brelok 853666 Człowiekiem w stroju rekina
+## 853666 — Shark Suit Guy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419269599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853666 |
+| Nazwa angielska | Shark Suit Guy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269599 |
 
 Nurkuj po przygody z własnym człowiekiem w stroju rekina u boku! Przyczep oryginalną minifigurkę LEGO® do plecaka lub kluczy za pomocą solidnego metalowego kółka i pochwal się wszystkim swoimi umiejętnościami pływackimi.
 
+**Galeria:**
+
+- 853666-1: https://a.allegroimg.com/original/11be25/1e29f6e248ba82b509a971761d04
+
 ---
 
-## 853682 — Lego Nexo Knights 853682 brelok
+## 853682 — Macy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.00 zł · EAN: 00673419269612 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853682 |
+| Nazwa angielska | Macy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269612 |
 
 **Oryginalny breloczek LEGO**
 
@@ -3134,11 +5235,26 @@ Nurkuj po przygody z własnym człowiekiem w stroju rekina u boku! Przyczep oryg
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 853682-1: https://a.allegroimg.com/original/11ad22/c47fa2f34243bcef7f7b5c07d7fb
+
 ---
 
-## 853683 — Lego Brelok 853683 Nexo Knights Jestro Breloczek Klocki Unikat Nowe
+## 853683 — Jestro Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.31 zł · EAN: 00673419269629 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853683 |
+| Nazwa angielska | Jestro Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269629 |
 
 LEGO 853683 - Nexo Knights Jestro
 
@@ -3164,11 +5280,26 @@ To świetny prezent dla miłośników zestawów LEGO® NEXO KNIGHTS™.
 
 Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853683-1: https://a.allegroimg.com/original/1123a0/5f4483de4e76bfe3bf1650e3711d
+
 ---
 
-## 853684 — Brelok Lego 853684 Nexo Knights Lance
+## 853684 — Lance Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.90 zł · EAN: 00673419269636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853684 |
+| Nazwa angielska | Lance Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269636 |
 
 Brelok LEGO® Nexo Knights 853684
 
@@ -3189,11 +5320,26 @@ Czy potrafisz wyobrazić sobie siebie w roli pogromcy lawowych potworów, walcz�
 - To świetny prezent dla miłośników zestawów LEGO® NEXO KNIGHTS™. 
 - Produkt odpowiedni dla dzieci w wieku od 6 lat
 
+**Galeria:**
+
+- 853684-1: https://a.allegroimg.com/original/119f73/c85037124a2fa0604add40d5a5ac
+
 ---
 
-## 853690 — Lego Brelok Ninjago 853690 Breloczek Ninja Kai Nowy
+## 853690 — Kai Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 85.00 zł · EAN: 00673419269667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853690 |
+| Nazwa angielska | Kai Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419269667 |
 
 Lego Brelok Ninjago 853690 Breloczek Ninja Kai NOWY
 
@@ -3205,11 +5351,26 @@ Masz w domu fana Goofy’ego z filmów Disneya? Podaruj mu breloczek LEGO® ǀ D
 - Prezent na każdą okazję dla dzieci od szóstego roku życia — Prawdziwa gratka dla dzieciaków, które lubią Goofy’ego lub Sensacyjną Szóstkę Disneya
 - Mnóstwo radości w kieszonkowym rozmiarze — Breloczek ma ok. 9 cm długości, więc jest wystarczająco duży, aby można go było łatwo zauważyć i podziwiać, a jednocześnie na tyle mały, by w niczym nie przeszkadzał
 
+**Galeria:**
+
+- 853690-1: https://a.allegroimg.com/original/112b2c/dea9f89645d699b821ba04a47045
+
 ---
 
-## 853697 — Lego Ninjago 853697 Cole nowy brelok breloczek do kluczy model wycofany
+## 853697 — Cole Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419274449 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853697 |
+| Nazwa angielska | Cole Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274449 |
 
 Witam
 
@@ -3231,11 +5392,26 @@ Czarny ninja ziemi może być z Tobą każdego dnia. Wystarczy, że będziesz no
 - Breloczek można przypiąć do kluczy lub plecaka.
 - Minifigurki nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853697-1: https://a.allegroimg.com/original/11f9d5/c2b3ec13497daeb6bd13db687121
+
 ---
 
-## 853698 — Brelok Lego 853698 Ninjago Lloyd czarny
+## 853698 — Lloyd Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 89.99 zł · EAN: 00673419274456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853698 |
+| Nazwa angielska | Lloyd Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274456 |
 
 Brelok Lloyd z filmu LEGO 853698 NINJAGO® MOVIE™
 
@@ -3245,11 +5421,26 @@ Zabierz zielonego ninja ze sobą na codzienne przygody z brelokiem LEGO® NINJAG
 - Przymocuj do kluczy lub plecaka.
 - Minifigurki nie da się odłączyć od metalowego łańcucha.
 
+**Galeria:**
+
+- 853698-1: https://a.allegroimg.com/original/005b8f/9fe4ffb548a5aa871e3333911cdd
+
 ---
 
-## 853704 — Lego Star Wars 853704 Jyn Erso nowy brelok breloczek do kluczy wycofany
+## 853704 — Jyn Erso Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419274500 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853704 |
+| Nazwa angielska | Jyn Erso Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274500 |
 
 Witam
 
@@ -3265,11 +5456,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853704-1: https://a.allegroimg.com/original/11040c/c85f71ac48b9b381421b6a84eadd
+
 ---
 
-## 853706 — Lego Heroes brelok Iron Man Niepokonany 853706
+## 853706 — Invincible Iron Man Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 79.90 zł · EAN: 00673419274524 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853706 |
+| Nazwa angielska | Invincible Iron Man Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274524 |
 
 Brelok LEGO® MARVEL Super Heroes
 
@@ -3290,11 +5496,26 @@ Sięgnij po breloczek z Niepokonanym Iron Manem z serii LEGO® Marvel Super Hero
  
 Grupa wiekowa tego produktu to 6+
 
+**Galeria:**
+
+- 853706-1: https://a.allegroimg.com/original/11bfc1/5250b0b443dd9cc0250e2ea2ff1b
+
 ---
 
-## 853707 — Brelok Lego Star Lord Heroes 853707
+## 853707 — Star-Lord Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 85.00 zł · EAN: 00673419274531 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853707 |
+| Nazwa angielska | Star-Lord Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419274531 |
 
 Brelok LEGO - STAR LORD SUPER HEROES 853707
 
@@ -3316,11 +5537,26 @@ Z tego świetnego breloczka ucieszy się każdy fan **LEGO®**. Do breloczka z 
 
 - **Wiek:** od 3 lat
 
+**Galeria:**
+
+- 853707-1: https://a.allegroimg.com/original/1109ce/02de1a0e4a419cc9c075cda3bf26
+
 ---
 
-## 853756 — Lego Ninjago 853756 Misako nowy brelok breloczek do kluczy model wycofany
+## 853756 — Misako Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419287159 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853756 |
+| Nazwa angielska | Misako Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287159 |
 
 Witam
 
@@ -3336,11 +5572,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 853756-1: https://a.allegroimg.com/original/1188ad/986a2c6047bb803c45364cfc4df7
+
 ---
 
-## 853767 — Lego Star Wars 853767 Niszczyciel gwiezdny Brelok Unikat Z 2018 Roku
+## 853767 — Star Destroyer Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 108.00 zł · EAN: 00673419287456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853767 |
+| Nazwa angielska | Star Destroyer Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287456 |
 
 LEGO Breloczek z Niszczycielem gwiezdnym 853767
 
@@ -3355,11 +5606,26 @@ Ozdób swoją torbę lub plecak miniaturowym Niszczycielem gwiezdnym z serii LEG
 
 Jeśli potrzebujesz więcej zdjęć - napisz :)
 
+**Galeria:**
+
+- 853767-1: https://a.allegroimg.com/original/11b8ed/715e536449fc81ed2099c07f95eb
+
 ---
 
-## 853768 — Lego Star Wars 853768 Breloczek z Śmigaczem Brelok Gwiezdne Wojny
+## 853768 — Landspeeder Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 85.21 zł · EAN: 00673419287463 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853768 |
+| Nazwa angielska | Landspeeder Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287463 |
 
 LEGO Star Wars 853768 - Breloczek z Śmigaczem
 
@@ -3383,11 +5649,26 @@ Breloczek można przypiąć do kluczy, torby lub plecaka.
 
 Miniaturowego modelu nie można zdjąć z łańcuszka z kółkiem ani rozłożyć na części.
 
+**Galeria:**
+
+- 853768-1: https://a.allegroimg.com/original/11f671/497c0c3c4a18b067d30d22fe74a8
+
 ---
 
-## 853782 — Breloczek Lego 853782 Bella Piękna i Bestia unikat 2018 rok
+## 853782 — Belle Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 119.00 zł · EAN: 00673419287104 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853782 |
+| Nazwa angielska | Belle Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287104 |
 
 LEGO Breloczek z Piękną 853782
  
@@ -3400,11 +5681,26 @@ Wybierz się w magiczną podróż dzięki breloczkowi z Piękną z LEGO l Disney
 - Można go przypiąć do kluczy lub plecaka. 
 - Minifigurki nie da się odłączyć od łańcuszka.
 
+**Galeria:**
+
+- 853782-1: https://a.allegroimg.com/original/00d2bf/31ebde814eee821f68ffb8cdfc1d
+
 ---
 
-## 853793 — Nowy Lego Brelok Brick 4x2 Złoty róż , Rose Gold 853793
+## 853793 — Rose Gold Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 47.97 zł · EAN: 00673419287081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853793 |
+| Nazwa angielska | Rose Gold Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287081 |
 
 Przedmiotem oferty jest **oryginalne LEGO:**
 
@@ -3428,11 +5724,26 @@ Wzmocnij swój styl LEGO dzięki eleganckiemu breloczkowi 2x4 w kolorze różowe
 - Przymocuj go do kluczy lub plecaka.
 - Klocka LEGO® nie można odłączyć od metalowego łańcuszka
 
+**Galeria:**
+
+- 853793-1: https://a.allegroimg.com/original/114776/a3d84a0e472cafea08b1fc17f3e9
+
 ---
 
-## 853794 — Lego kolba kukurydzy brelok minifigurka 853794
+## 853794 — Corn Cob Guy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 69.90 zł · EAN: 00673419287067 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853794 |
+| Nazwa angielska | Corn Cob Guy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287067 |
 
 **LEGO® Breloczek z człowiekiem kolbą kukurydzy (853794) **
 
@@ -3456,11 +5767,26 @@ Produkt przeznaczony jest dla dzieci od 6 roku życia.
 
 Numer UPC produktu LEGO® 853794 to: **673419287067**.
 
+**Galeria:**
+
+- 853794-1: https://a.allegroimg.com/original/117eab/a15e39cb4e17a69ca2f890b9285a
+
 ---
 
-## 853795 — Lego 853795 Brelok Dziewczynka motyl
+## 853795 — Butterfly Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419287074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853795 |
+| Nazwa angielska | Butterfly Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287074 |
 
 Dzięki breloczkowi LEGO z dziewczyną motylem każdy Twój dzień nabierze kolorów. Minifigurka ma solidny, metalowy łańcuszek z kółkiem i można ją przypiąć do kluczy lub plecaka. Od teraz ta piękna postać będzie Ci towarzyszyć, gdziekolwiek pójdziesz!
 
@@ -3468,11 +5794,26 @@ Dzięki breloczkowi LEGO z dziewczyną motylem każdy Twój dzień nabierze kolo
 - Breloczek można przypiąć do kluczy lub plecaka.
 - Minifigurki nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853795-1: https://a.allegroimg.com/original/118116/b1b007d24c628be16fbd7aeaa734
+
 ---
 
-## 853814 — Lego 853814 Brelok do kluczy breloczek Legoland Pirates Kapitan Unikat
+## 853814 — ?
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419287111 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853814 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419287111 |
 
 **..............................................LEGO...............................................................**
 
@@ -3486,11 +5827,26 @@ Dzięki breloczkowi LEGO z dziewczyną motylem każdy Twój dzień nabierze kolo
 
 **Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
 
+**Galeria:**
+
+- 853814-1: https://a.allegroimg.com/original/116fa3/a0b0e9a34512ac804dcdc15fca8b
+
 ---
 
-## 853867 — Lego 853867 Brelok Movie 2 Emmet Breloczek z Emmetem Klocki Nowe Oryginal
+## 853867 — Emmet Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 115.31 zł · EAN: 00673419305563 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853867 |
+| Nazwa angielska | Emmet Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305563 |
 
 LEGO 853867 - Brelok Movie 2 Emmet
 
@@ -3514,11 +5870,26 @@ Można przypiąć do kluczy lub plecaka.
 
 Minifigurki nie da się zdjąć z łańcuszka.
 
+**Galeria:**
+
+- 853867-1: https://a.allegroimg.com/original/01645b/bfb0aa1b4155bcd800c18c880aaa
+
 ---
 
-## 853868 — Nowy Lego Brelok Lego Movie 2 Lucy 853868
+## 853868 — Lucy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.97 zł · EAN: 00673419305570 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853868 |
+| Nazwa angielska | Lucy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305570 |
 
 Przedmiotem oferty jest **oryginalne LEGO:**
 
@@ -3536,11 +5907,26 @@ Przedmiotem oferty jest **oryginalne LEGO:**
 - Przymocuj go do kluczy lub plecaka.
 - Minifigurka nie jest odłączana od metalowego łańcucha.
 
+**Galeria:**
+
+- 853868-1: https://a.allegroimg.com/original/11532c/7641ea6b4cecb59dea016d0db2a0
+
 ---
 
-## 853903 — Lego Classic 853903 Lego 853903 Brelok Brick Suite Guy
+## 853903 — Brick Suit Guy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419305976 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853903 |
+| Nazwa angielska | Brick Suit Guy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305976 |
 
 **LEGO 853903 Breloczek chłopiec czerwony klocek**
  
@@ -3554,11 +5940,26 @@ Czerwony breloczek Brick Suite Guy z zestawu 853903 LEGO Iconic doskonale zabezp
 - Można przypiąć do kluczy lub plecaka.
 - **Minifigurki nie da się zdjąć z łańcuszka.**
 
+**Galeria:**
+
+- 853903-1: https://a.allegroimg.com/original/118c4a/f7c5608f4d65ad33c690a30c883b
+
 ---
 
-## 853946 — Breloczek Lego Star Wars Szturmowiec 853946
+## 853946 — Stormtrooper Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419305884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853946 |
+| Nazwa angielska | Stormtrooper Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305884 |
 
 **LEGO 850996 Brelok do kluczy z Darthem Vaderem z serii Star Wars**
 
@@ -3576,11 +5977,26 @@ Dla dzieci w wieku: 6+
 
 Grupa wiekowa tego produktu to 6+
 
+**Galeria:**
+
+- 853946-1: https://a.allegroimg.com/original/110ba4/5beaf8364ef9bf3191064adc2fb4
+
 ---
 
-## 853949 — Nowy Lego Brelok Star Wars Kylo Ren 853949
+## 853949 — Kylo Ren Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 48.97 zł · EAN: 00673419305914 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853949 |
+| Nazwa angielska | Kylo Ren Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305914 |
 
 Przedmiotem oferty jest **oryginalne LEGO:**
 
@@ -3604,11 +6020,26 @@ Fantastyczny breloczek do kluczy z Kylo Ren pozwoli Ci każdego dnia przeżywać
 - To świetny prezent dla miłośników Gwiezdnych Wojen i zestawów LEGO®.
 - Produkt odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 853949-1: https://a.allegroimg.com/original/11f3e8/b81140bc4952b11558e097701fd5
+
 ---
 
-## 853950 — breloczek Lego Spider-Man 853950 – Marvel Heroes
+## 853950 — Spider-Man Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419305921 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853950 |
+| Nazwa angielska | Spider-Man Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419305921 |
 
 Oryginalny breloczek LEGO Spider-Man 853950 – Marvel Super Heroes
 
@@ -3624,11 +6055,26 @@ LEGO® Marvel 853950 Breloczek Spider-Man – najważniejsze informacje:
 
 Model został wydany w 2019 roku i przeznaczony jest dla dzieci od 6 roku życia.
 
+**Galeria:**
+
+- 853950-1: https://a.allegroimg.com/original/11b947/013bbab749379e4b50db157a1724
+
 ---
 
-## 853954 — Lego 853954 Brelok Disney Arielka
+## 853954 — Ariel Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 49.49 zł · EAN: 00673419306065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853954 |
+| Nazwa angielska | Ariel Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419306065 |
 
 **LEGO SERIA DISNEY**
 
@@ -3646,11 +6092,26 @@ Model został wydany w 2019 roku i przeznaczony jest dla dzieci od 6 roku życia
 
 **- BRELOK  LEGO JEST NOWY I ORYGINALNY.**
 
+**Galeria:**
+
+- 853954-1: https://a.allegroimg.com/original/1108bf/13a30dae4c07915a7bfdf1d56de7
+
 ---
 
-## 853955 — Lego 853955 Disney Breloczek Aurora
+## 853955 — Aurora Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 83.99 zł · EAN: 00673419306072 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853955 |
+| Nazwa angielska | Aurora Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419306072 |
 
 LEGO 853955 Disney - Breloczek Aurora
 
@@ -3661,11 +6122,26 @@ Z breloczkiem LEGO® l Disney z Aurorą odrobinę magii księżniczek Disneya b�
 - Minilaleczki nie da się odłączyć od łańcuszka.
 - Breloczek z minilaleczką ma ok. 6 cm długości
 
+**Galeria:**
+
+- 853955-1: https://a.allegroimg.com/original/459243/3d17e1754ce196175e05a57c098f
+
 ---
 
-## 853968 — Lego Breloczek 853968 Elsa z Frozen II Kraina Lodu Brelok Nowy
+## 853968 — Elsa Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 25.21 zł · EAN: 00673419313162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853968 |
+| Nazwa angielska | Elsa Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419313162 |
 
 LEGO 853968 - Breloczek z Elsa Kraina Lodu
 
@@ -3685,11 +6161,26 @@ Breloczek LEGO® ǀ Disney z Elsą z filmu „Kraina Lodu 2” ma (razem z kół
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę**
 
+**Galeria:**
+
+- 853968-1: https://a.allegroimg.com/original/11a088/f35e1a834e6e8333764ce8342573
+
 ---
 
-## 853969 — Lego Brelok Anna Kraina Lodu 853969
+## 853969 — Anna Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419313179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853969 |
+| Nazwa angielska | Anna Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419313179 |
 
 **LEGO Brelok Anna Kraina Lodu 853969**
 
@@ -3703,11 +6194,26 @@ Ten zestaw LEGO® | Brelok Disney Frozen 2 853969 Anna można łatwo i bezpieczn
 - Klocki LEGO® | Brelok Disney Frozen 2 Anna ma ponad 6 cali (16 cm) długości.
 - Ean: 673419313179
 
+**Galeria:**
+
+- 853969-1: https://a.allegroimg.com/original/119c41/dbec19c34b42a110acb6bd105096
+
 ---
 
-## 853989 — Lego 853989 Prezentowy Breloczek Lego
+## 853989 — Celebration Bag Charm
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 39.45 zł · EAN: 00673419324076 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853989 |
+| Nazwa angielska | Celebration Bag Charm |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419324076 |
 
 LEGO 853989 - PREZENTOWY BRELOCZEK LEGO
 
@@ -3729,11 +6235,26 @@ Stan: **Nowe**
 - Ciekawy prezent urodzinowy, pod choinkę lub bez szczególnej okazji dla wszystkich fanów LEGO® w wieku od 6 lat; zawiera 17 różnych elementów i naklejki z wiadomościami, dzięki którym można spersonalizować breloczek.
 - Prezentowy breloczek ma ok. 10 cm długości. Mama, tata, najlepszy przyjaciel lub inna ważna osoba mogą spersonalizować swój breloczek lub przypiąć go do kluczy.
 
+**Galeria:**
+
+- 853989-1: https://a.allegroimg.com/original/111de9/ae9147854a868ebf276fb1bd6155
+
 ---
 
-## 853992 — Lego 853992 Breloczek Z Czarnym Metalowym Klockiem 2x4
+## 853992 — Chrome Black Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 35.00 zł · EAN: 00673419323819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853992 |
+| Nazwa angielska | Chrome Black Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419323819 |
 
 LEGO 853992 - BRELOCZEK Z CZARNYM METALOWYM KLOCKIEM 2x4
 
@@ -3753,11 +6274,26 @@ Stan: **Nowe**
 - To świetny pomysł na prezent dla dzieci w wieku od 6 lat na Boże Narodzenie, urodziny lub każdą inną okazję. Breloczek z czarnym, metalowym klockiem 2x4 LEGO® można przypiąć do plecaka, torby lub kluczy i mieć pewność, że się nie odczepi,
 - Ten stylowy dodatek ma ok. 14 cm długości. To świetny i bezpieczny sposób na trzymanie kluczy pod ręką oraz dodanie stylu LEGO® innym rzeczom.
 
+**Galeria:**
+
+- 853992-1: https://a.allegroimg.com/original/118bd4/7ec1ae6848c8b222e69f5067465f
+
 ---
 
-## 853993 — Lego 853993 Breloczek Z Niebieskim Metalowym Klockiem 2x4
+## 853993 — Bright Light Blue Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 35.00 zł · EAN: 00673419323826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853993 |
+| Nazwa angielska | Bright Light Blue Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419323826 |
 
 LEGO 853993 - BRELOCZEK Z NIEBIESKIM METALOWYM KLOCKIEM 2x4
 
@@ -3777,11 +6313,26 @@ Stan: **Nowe**
 - To świetny pomysł na prezent dla dzieci w wieku od 6 lat na Boże Narodzenie, urodziny lub każdą inną okazję. Ten breloczek z jasnoniebieskim klockiem 2x4 LEGO® można przypiąć do kluczy, toreb, pudełek śniadaniowych i nie tylko,
 - Przyciągający wzrok breloczek ma ok. 14 cm długości. To świetny i bezpieczny sposób na trzymanie kluczy pod ręką oraz dodanie stylu LEGO® innym rzeczom.
 
+**Galeria:**
+
+- 853993-1: https://a.allegroimg.com/original/114947/05c37d7f42f39f1d44df72b7bf78
+
 ---
 
-## 853995 — Lego 853995 Breloczek z kredkową dziewczynką
+## 853995 — Crayon Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419323833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853995 |
+| Nazwa angielska | Crayon Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419323833 |
 
 LEGO® 853995 Breloczek z kredkową dziewczynką
 
@@ -3792,11 +6343,26 @@ Podaruj swojemu ulubionemu miłośnikowi LEGO® ten breloczek z kredkową dziewc
 - To świetny pomysł na prezent dla dzieci w wieku od 6 lat na Boże Narodzenie, urodziny lub każdą inną okazję. Ten breloczek z kredkową dziewczynką LEGO® można przypiąć do kluczy, torebek, pudełek śniadaniowych i nie tylko. 
 - Breloczek z kredkową dziewczynką LEGO® ma ok. 15 cm długości. To cudowny i bezpieczny sposób na trzymanie kluczy pod ręką oraz dodanie stylu LEGO innym rzeczom.
 
+**Galeria:**
+
+- 853995-1: https://a.allegroimg.com/original/11d696/2828a876475ab1aa4904d9127c21
+
 ---
 
-## 853998 — Lego Brelok 853998 Disney Myszka Miki
+## 853998 — Mickey Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419324083 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853998 |
+| Nazwa angielska | Mickey Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419324083 |
 
 LEGO Brelok 853998 Disney Myszka Miki
 
@@ -3806,11 +6372,26 @@ Każdy fan tej uroczej postaci Disneya może zabrać breloczek z Myszką Miki (8
 - Doskonale sprawdza się jako prezent dla fanów Myszki Miki Disneya w wieku od 6 lat na święta, urodziny lub każdą inną okazję.
 - Breloczek ma ok. 15 cm długości, dzięki czemu jest wystarczająco duży, aby można go było łatwo zauważyć i podziwiać, ale jednocześnie wystarczająco mały, by w niczym nie przeszkadzał.
 
+**Galeria:**
+
+- 853998-1: https://a.allegroimg.com/original/117d50/f2a34e5b473185969ba03a058cef
+
 ---
 
-## 853999 — Lego 853999 Breloczek z Minnie
+## 853999 — Minnie Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419324090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853999 |
+| Nazwa angielska | Minnie Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419324090 |
 
 **LEGO 853999 Breloczek z Minnie**
 
@@ -3828,11 +6409,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 853999-1: https://a.allegroimg.com/original/111789/c578965d433ea3052ce08bb31550
+
 ---
 
-## 854006 — Lego Heroes 854006 Brelok Spiderman Venom breloczek
+## 854006 — Venom Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.00 zł · EAN: 00673419330701 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854006 |
+| Nazwa angielska | Venom Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 4 cm × gł. 1 cm |
+| EAN | 673419330701 |
 
 Podaruj fanom filmów Marvela odrobinę frajdy z superbohaterami dzięki temu breloczkowi z Venomem LEGO® Marvel (854006). Ten niesamowity superzłoczyńca może być świetnym strażnikiem Twoich kluczy, plecaka, pudełka na drugie śniadanie i innych przedmiotów, bo jest prawdziwą minifigurką LEGO zamocowaną do trwałego, metalowego łańcuszka z kółkiem. Idealna kolekcjonerska ozdoba dla każdego fana Venoma Marvela.
 
@@ -3840,11 +6436,26 @@ Podaruj fanom filmów Marvela odrobinę frajdy z superbohaterami dzięki temu br
 - Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka, pudełka ze śniadaniem i nie tylko.
 - Wymiary: ok. 15 cm wysokości, 4 cm szerokości i 1 cm głębokości. W sam raz dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 854006-1: https://a.allegroimg.com/original/11d20e/c78f6fa84a529b4ab6565a4588b4
+
 ---
 
-## 854031 — Lego 854031 Magnes Ze Statuą Wolności
+## 854031 — Statue of Liberty Magnet
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.45 zł · EAN: 00673419324137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854031 |
+| Nazwa angielska | Statue of Liberty Magnet |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 3 cm × gł. 3 cm |
+| EAN | 673419324137 |
 
 LEGO 854031 - MAGNES ZE STATUĄ WOLNOŚCI
 
@@ -3868,11 +6479,26 @@ Na magnesie z serii LEGO® Iconic odzwierciedlono jeden z najlepiej znanych pomn
 - Ten 11-elementowy mikrozestaw konstrukcyjny LEGO® zawiera magnetyczny klocek 4x4 i podstawkę z napisem „New York”. Doskonale sprawdzi się jako prezent pod choinkę, na urodziny lub z innej okazji,
 - Mierzący ok. 8 cm wysokości, 3 cm szerokości i 3 cm głębokości mikromodel Statuy Wolności można przypiąć do dowolnej powierzchni przyciągającej magnesy.
 
+**Galeria:**
+
+- 854031-1: https://a.allegroimg.com/original/115023/1896bbbe441bae53095682b0f400
+
 ---
 
-## 854032 — Lego 854032 Nowojorski Breloczek
+## 854032 — New York Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 35.99 zł · EAN: 00673419324106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854032 |
+| Nazwa angielska | New York Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419324106 |
 
 LEGO 854032 NOWOJORSKI BRELOCZEK
 
@@ -3885,11 +6511,26 @@ To świetny pomysł na prezent dla dzieci w wieku od 6 lat na Boże Narodzenie, 
 
 Ten cudowny breloczek LEGO ma ok. 15 cm długości. To świetny i bezpieczny sposób na trzymanie kluczy pod ręką oraz dodanie stylu LEGO innym rzeczom.
 
+**Galeria:**
+
+- 854032-1: https://a.allegroimg.com/original/119a23/535c4b044806bce3d01a22c79f91
+
 ---
 
-## 854041 — Lego 854041 Breloczek z wesołym elfem Mikołaja
+## 854041 — Happy Helper Elf Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419330664 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854041 |
+| Nazwa angielska | Happy Helper Elf Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419330664 |
 
 LEGO 854041 Breloczek z wesołym elfem Mikołaja
 
@@ -3901,11 +6542,26 @@ Podaruj miłośnikowi LEGO® breloczek z wesołym elfem Mikołaja LEGO (854041).
 - Breloczek z wesołym elfem Mikołaja LEGO® ma ok. 15 cm długości.
 - To radosny sposób na trzymanie kluczy pod ręką oraz dodanie odrobiny świątecznej magii innym rzeczom.
 
+**Galeria:**
+
+- 854041-1: https://a.allegroimg.com/original/45cfc4/3ed22c9a4e6b8180834f9a729471
+
 ---
 
-## 854064 — Brelok Lego Avengers Kapitan Marvel 854064 Nowe!!!
+## 854064 — Captain Marvel Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.86 zł · EAN: 00673419330718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854064 |
+| Nazwa angielska | Captain Marvel Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 4 cm × gł. 1 cm |
+| EAN | 673419330718 |
 
 NOWE I ORYGINALNE LEGO 854064 Super Heroes Breloczek z Kapitan Marve
 
@@ -3916,11 +6572,26 @@ Małym fanom filmów Marvela z pewnością spodoba się ten breloczek z Kapitan 
 - Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka, pudełka ze śniadaniem i nie tylko. 
 - Wymiary: ok. 15 cm wysokości, 4 cm szerokości i 1 cm głębokości. W sam raz dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 854064-1: https://a.allegroimg.com/original/1178d8/bd7ee5d841fa9331634229d57ae4
+
 ---
 
-## 854068 — Breloczek Lego 854068 China Flower Girl
+## 854068 — China Flower Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 49.49 zł · EAN: 00673419330749 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854068 |
+| Nazwa angielska | China Flower Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419330749 |
 
 LEGO 854068 Breloczek z dziewczyną w chińskim stro
 
@@ -3931,11 +6602,26 @@ Breloczek z dziewczyną w chińskim stroju w kwiaty LEGO® (854068) wywoła uśm
 - To świetny pomysł na prezent na Boże Narodzenie, urodziny lub inną okazję dla dzieci w wieku od 6 lat. Breloczek z dziewczyną w chińskim stroju w kwiaty LEGO® można łatwo przypiąć do kluczy, plecaka, pudełka ze śniadaniem lub innych rzeczy bez obaw, że się odczepi. 
 - Breloczek z dziewczyną w chińskim stroju w kwiaty LEGO® ma ok. 15 cm długości. To świetny i bezpieczny sposób na trzymanie kluczy pod ręką oraz dodanie radosnego stylu LEGO innym rzeczom.
 
+**Galeria:**
+
+- 854068-1: https://a.allegroimg.com/original/118e67/6453b9434cd8a3ca0b18baa57426
+
 ---
 
-## 854077 — Brelok Lego 854077 Spider-Ham
+## 854077 — Spider-Ham Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 72.00 zł · EAN: 00673419346610 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854077 |
+| Nazwa angielska | Spider-Ham Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419346610 |
 
 Przedmiot w ofercie: Brelok LEGO 854077 Spider-Ham.
 
@@ -3949,11 +6635,26 @@ Dzieci, które lubią firmy wytwórni Marvel Studios oraz superbohaterów, będ�
 
 Zapraszam do zakupów
 
+**Galeria:**
+
+- 854077-1: https://a.allegroimg.com/original/116367/5a65f1b8487e94b6603a1da3f90b
+
 ---
 
-## 854078 — Lego Breloczek Marvel Thanos 854078
+## 854078 — Thanos Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 29.50 zł · EAN: 00673419195331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854078 |
+| Nazwa angielska | Thanos Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419195331, 673419342643 |
 
 **Zapraszam do zakupu**
 
@@ -3989,11 +6690,27 @@ O produkcie:
 
 LEGO Super Heroes 854078 Thanos Key Chain BRELOK N to brelok w kształcie pojedynczej figurki z serii Super Heroes marki LEGO. Zaprojektowany z myślą o dzieciach powyżej 7 roku życia, brelok ten jest idealnym prezentem dla chłopców i dziewcząt. Jest to starannie wykonany produkt z certyfikatem CE. Pozwala zabrać ze sobą swojego ulubionego bohatera, Thanosa, gdziekolwiek zechcesz.
 
+**Galeria:**
+
+- 854078-1: https://a.allegroimg.com/original/11ae66/6b811a2f4a1c90561aa55936fb86
+- 854078-2: https://a.allegroimg.com/original/1169d9/cc1e610a49ba8a839378bb2b2154
+
 ---
 
-## 854081 — Lego 854081 Brelok Z Dziewczynką W Kosiumie Lamy
+## 854081 — Llama Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.98 zł · EAN: 00673419346627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854081 |
+| Nazwa angielska | Llama Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419346627 |
 
 Breloczek z dziewczynką w kostiumie lamy
 
@@ -4005,11 +6722,26 @@ LEGO® Breloczek z dziewczynką w kostiumie lamy (854081) sprawi, że dni staną
 
 - Długość ok. 9 cm.
 
+**Galeria:**
+
+- 854081-1: https://a.allegroimg.com/original/119a8e/a3973cc34cfd9ab2bcbf985d63c6
+
 ---
 
-## 854082 — Breloczek Lego 854082 Statua Wolności Nowy
+## 854082 — Lady Liberty Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.00 zł · EAN: 00673419343466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854082 |
+| Nazwa angielska | Lady Liberty Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419343466 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4027,11 +6759,26 @@ Podaruj fanowi LEGO® breloczek z Lady Liberty (854082). Minifigurka słynnego a
 - Wspaniały prezent świąteczny, urodzinowy lub bez okazji dla sześciolatków i starszych fanów LEGO®. Breloczek LEGO® z Lady Liberty można przypiąć do kluczy, plecaka lub torby bez obaw, że się odczepi.
 - Breloczek ma ok. 9 cm długości. To świetny i bezpieczny sposób na trzymanie kluczy pod ręką oraz spersonalizowanie swoich rzeczy.
 
+**Galeria:**
+
+- 854082-1: https://a.allegroimg.com/original/11821b/b788946c4e4182cfbc0e6275375a
+
 ---
 
-## 854084 — Lego Breloczek 854084 Klocek 2x4 biały metaliczny
+## 854084 — Pearl White Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 41.99 zł · EAN: 00673419346801 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854084 |
+| Nazwa angielska | Pearl White Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419346801 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -4042,11 +6789,26 @@ Przedmiotem aukcji są klocki opisane poniżej:
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO®.
 
+**Galeria:**
+
+- 854084-1: https://a.allegroimg.com/original/113e32/5b1ba38f4fc3923a1fcd508e1a2e
+
 ---
 
-## 854088 — Lego 854088 Classic Magnes z zakazanym miastem do złożenia
+## 854088 — Forbidden City Magnet Build
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.45 zł · EAN: 00673419342971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854088 |
+| Nazwa angielska | Forbidden City Magnet Build |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 673419342971 |
 
 LEGO 854088 Magnes z Zakazanym Miastem do złożenia
  
@@ -4057,11 +6819,26 @@ Dzieci w wieku od 6 lat mogą zbudować model Zakazanego Miasta LEGO® z magnese
 - Ten 28-elementowy zestaw zawiera magnetyczny klocek 4x4 i naklejki z dodatkowymi szczegółami do ozdobienia świątyni. Doskonale sprawdzi się jako prezent pod choinkę, na urodziny lub z innej okazji. 
 - Dodaj odrobinę majestatu dowolnej powierzchni przyciągającej magnesy dzięki miniaturowemu modelowi Zakazanego Miasta. Model ma ok. 4 cm wysokości i 6 cm szerokości.
 
+**Galeria:**
+
+- 854088-1: https://a.allegroimg.com/original/115500/229ad6d44108ba0c29a273dcf2de
+
 ---
 
-## 854111 — Lego 854111 Breloczek z Kaczorem Donaldem
+## 854111 — Donald Duck Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419343473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854111 |
+| Nazwa angielska | Donald Duck Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 673419343473 |
 
 **LEGO 854111 Breloczek z Kaczorem Donaldem**
 
@@ -4079,11 +6856,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 854111-1: https://a.allegroimg.com/original/111ae1/74ef1d8343dba6f2ac84041dacd9
+
 ---
 
-## 854112 — Lego 854112 Breloczek z Daisy
+## 854112 — Daisy Duck Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419343480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854112 |
+| Nazwa angielska | Daisy Duck Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 673419343480 |
 
 **LEGO 854112 Breloczek z Daisy**
 
@@ -4101,11 +6893,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 854112-1: https://a.allegroimg.com/original/11cae5/20f0a727429b932ddd0ad06546d8
+
 ---
 
-## 854114 — Lego 854114 Breloczek z Harrym Potterem
+## 854114 — Harry Potter Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.99 zł · EAN: 00673419342711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854114 |
+| Nazwa angielska | Harry Potter Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm × gł. 1 cm |
+| EAN | 673419342711 |
 
 Fani filmów o Harrym Potterze™ będą oczarowani tym breloczkiem LEGO® z młodym czarodziejem (854114). Oryginalna minifigurka Harry’ego Pottera LEGO w kultowym mundurku Gryffindoru™ jest mocno przytwierdzona do solidnego metalowego łańcuszka z wytrzymałym kółkiem. Młodzi adepci magii mogą przyczepić tę słynną postać do swoich kluczy, plecaków, pudełek śniadaniowych i nie tylko, aby każdy dzień był magiczny.
 
@@ -4117,11 +6924,26 @@ Breloczek ma ok. 9 cm wysokości, 4 cm szerokości i 1 cm głębokości. Jest w 
 
 Breloczek z Harrym Potterem™
 
+**Galeria:**
+
+- 854114-1: https://a.allegroimg.com/original/1144d4/d04f30c24555b3a745b7224e6d23
+
 ---
 
-## 854115 — Lego 854115 Brelok Harry Potter Hermiona
+## 854115 — Hermione Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.99 zł · EAN: 00673419342728 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854115 |
+| Nazwa angielska | Hermione Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm × gł. 1 cm |
+| EAN | 673419342728 |
 
 Młodzi adepci magii pokochają ten breloczek z Hermioną Granger™ LEGO® (854115). Oryginalna minifigurka Hermiony Granger LEGO w kultowym mundurku Gryffindoru™ jest mocno przytwierdzona do solidnego metalowego łańcuszka z wytrzymałym kółkiem. Fani filmów o Harrym Potterze™ mogą przyczepić minifigurkę mądrej czarodziejki do kluczy, plecaka, pudełka śniadaniowego i nie tylko. To świetny sposób na urozmaicenie swojego życia odrobiną magii.
 
@@ -4129,11 +6951,26 @@ Młodzi adepci magii pokochają ten breloczek z Hermioną Granger™ LEGO® (854
 - Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka, pudełka ze śniadaniem i nie tylko.
 - Breloczek ma ok. 9 cm wysokości, 4 cm szerokości i 1 cm głębokości. Jest w sam raz dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 854115-1: https://a.allegroimg.com/original/114238/8135192d4875814e730aa2ce329a
+
 ---
 
-## 854116 — Brelok Lego 854116 Harry Potter Ron Nowy
+## 854116 — Ron Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419342735 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854116 |
+| Nazwa angielska | Ron Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 4 cm |
+| EAN | 673419342735 |
 
 Brelok LEGO 854116 Harry Potter Ron NOWY
 
@@ -4146,11 +6983,26 @@ Wszyscy fani Kaczora Donalda mogą teraz nosić breloczek LEGO® Disney z tą ś
 - Doskonały pomysł na drobny prezent na święta, urodziny lub z innej okazji dla fanów Kaczora Donalda lub Sensacyjnej Szóstki Disneya w wieku od 6 lat.
 - Breloczek ma ok. 9 cm wysokości, i 4 cm szerokości, dzięki czemu jest wystarczająco duży, aby można go było łatwo zauważyć i podziwiać, ale jednocześnie wystarczająco mały, by w niczym nie przeszkadzał.
 
+**Galeria:**
+
+- 854116-1: https://a.allegroimg.com/original/113d8e/bf58f2be462980eff1cdd7dea5b2
+
 ---
 
-## 854119 — Lego Ideas 854119 Lego 854119 Ideas Breloczek Z Joeyem
+## 854119 — Joey Tribbiani Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 119.99 zł · EAN: 00673419342865 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854119 |
+| Nazwa angielska | Joey Tribbiani Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419342865 |
 
 LEGO 854119 - Breloczek z Joey Tribbiani z serialu Przyjaciele
  
@@ -4169,11 +7021,26 @@ Ten breloczek LEGO® Ideas 854119 z Joeyem! Minifigurka Joeya Tribbianiego jest 
  
 - Breloczek **ma ok. 9 cm długości** i jest doskonały dla sześciolatków i starszych dzieci. To czarujący upominek dla fanów serialu „Przyjaciele” w każdym wieku, który świetnie pasuje do zestawu LEGO® 21319 CENTRAL PERK.
 
+**Galeria:**
+
+- 854119-1: https://a.allegroimg.com/original/11c422/42f0c83749efa58032a5d8b7f548
+
 ---
 
-## 854124 — Brelok Lego 854124 Star Wars The Mandalorian
+## 854124 — The Mandalorian Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.98 zł · EAN: 00673419342957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854124 |
+| Nazwa angielska | The Mandalorian Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419342957 |
 
 ORYGINALNY NOWY BRELOCZEK LEGO 854124
  
@@ -4186,11 +7053,26 @@ Fani serialu „Star Wars: Mandalorian” mogą pokazać innym, jak bardzo lubi
 - Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko. 
 - Breloczek ma ok. 9 cm długości, więc jest wspaniałym upominkiem dla fanów serialu „Star Wars: Mandalorian” w wieku od 6 lat.
 
+**Galeria:**
+
+- 854124-1: https://a.allegroimg.com/original/114b54/b88542514263b877a087b0714f5b
+
 ---
 
-## 854154 — Lego Spiderman 854154 Breloczek Carnage Nowy
+## 854154 — Carnage Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 22.00 zł · EAN: 00673419361194 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854154 |
+| Nazwa angielska | Carnage Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361194 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4208,11 +7090,26 @@ Podaruj dzieciom odrobinę magii Marvela dzięki breloczkowi z Carnage’em LEGO
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko
 - Pomysł na prezent dla dzieci — breloczek ma ok. 9 cm długości i stanowi ciekawy, praktyczny prezent dla konstruktorów LEGO® Marvel oraz fanów figurek wieku od sześciu lat
 
+**Galeria:**
+
+- 854154-1: https://a.allegroimg.com/original/110582/73fe3fc949c187cafdf193235ffe
+
 ---
 
-## 854157 — Lego Breloczek 854157 Biedronka Nowy
+## 854157 — Lady Bug Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 48.99 zł · EAN: 00673419361507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854157 |
+| Nazwa angielska | Lady Bug Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361507 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -4223,11 +7120,26 @@ Przedmiotem aukcji są klocki opisane poniżej:
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO®.
 
+**Galeria:**
+
+- 854157-1: https://a.allegroimg.com/original/1198f1/0260d0ce413e84e7a72c240ee3a6
+
 ---
 
-## 854186 — Brelok Lego Star Wars 854186 Ahsoka Tano
+## 854186 — Ahsoka Tano Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 25.79 zł · EAN: 00673419361255 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854186 |
+| Nazwa angielska | Ahsoka Tano Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361255 |
 
 LEGO® 854186 Breloczek z Ahsoką Tano™
 
@@ -4238,11 +7150,26 @@ Fajny breloczek z Ahsoką Tano (854186) pozwoli dzieciom połączyć siły z odw
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od 6 lat — Breloczek ma ok. 9 cm długości i doskonale sprawdzi się jako upominek dla dzieci i fanów zestawów konstrukcyjnych LEGO® Star Wars™
 
+**Galeria:**
+
+- 854186-1: https://a.allegroimg.com/original/11d2b1/6c0466cd46fc9ba214c07fc97cf5
+
 ---
 
-## 854188 — Lego Breloczek 854188 Star Wars Darth Maul
+## 854188 — Darth Maul Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 39.98 zł · EAN: 00673419361279 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854188 |
+| Nazwa angielska | Darth Maul Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361279 |
 
 LEGO® 854188 Breloczek z Darthem Maulem
 
@@ -4253,11 +7180,26 @@ Dzięki fantastycznemu breloczkowi z Darthem Maulem (854188) fani filmu „Star�
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można bez trudu i pewnie przypiąć do kluczy, plecaka i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od 6 lat — Breloczek ma ok. 9 cm długości i doskonale sprawdzi się jako drobny prezent dla dzieci i fanów zestawów konstrukcyjnych LEGO® Star Wars™
 
+**Galeria:**
+
+- 854188-1: https://a.allegroimg.com/original/1128a6/82016d9c4fcb864049b549d22394
+
 ---
 
-## 854189 — Lego Marvel 854189 Breloczek Z Czarną Panterą Nowy
+## 854189 — Black Panther Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419365475 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854189 |
+| Nazwa angielska | Black Panther Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419365475 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4275,11 +7217,26 @@ Słynny superbohater z Wakandy może towarzyszyć dzieciom na każdym kroku, gdy
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko
 - Pomysł na prezent dla dzieci — breloczek ma ok. 9 cm długości i stanowi ciekawy, praktyczny prezent dla fanów zestawów konstrukcyjnych LEGO® Marvel oraz młodych superbohaterów w wieku od sześciu lat
 
+**Galeria:**
+
+- 854189-1: https://a.allegroimg.com/original/11515c/c32f19584df3ae46b525cc5faf6f
+
 ---
 
-## 854191 — Lego Disney 854191 Breloczek Z Kubusiem Puchatkiem
+## 854191 — Winnie the Pooh Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.00 zł · EAN: 00673419362054 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854191 |
+| Nazwa angielska | Winnie the Pooh Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419362054 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4297,11 +7254,26 @@ Ten uroczy breloczek rozpali wyobraźnię dzieci i przywoła nostalgiczne wspomn
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można bez trudu i pewnie przypiąć do kluczy, plecaka i nie tylko
 - Pomysł na prezent dla dzieci w wieku od 6 lat — Breloczek ma ok. 9 cm długości i doskonale sprawdzi się jako drobny prezent dla dzieci i fanów zestawu LEGO® Ideas 21326 Kubuś Puchatek.
 
+**Galeria:**
+
+- 854191-1: https://a.allegroimg.com/original/11cc8a/00d91d3e4af886219015c65028f5
+
 ---
 
-## 854193 — Lego Breloczek 854193 Tygrysek Nowy
+## 854193 — Tigger Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.99 zł · EAN: 00673419362078 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854193 |
+| Nazwa angielska | Tigger Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419362078 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -4312,11 +7284,26 @@ Przedmiotem aukcji są klocki opisane poniżej:
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO®.
 
+**Galeria:**
+
+- 854193-1: https://a.allegroimg.com/original/11d9ce/83aae28a447cb55c7db577dbb39c
+
 ---
 
-## 854195 — Lego 854195 Breloczek z Erniem Nowy
+## 854195 — Ernie Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 88.82 zł · EAN: 00673419361125 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854195 |
+| Nazwa angielska | Ernie Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361125 |
 
 LEGO 854195 Breloczek z Erniem NOWY
 
@@ -4334,11 +7321,26 @@ Breloczek z Erniem LEGO Ideas (854195) przywoła uśmiech na twarz każdego fana
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko
 - Pomysł na prezent dla dzieci w wieku od 6 lat — Breloczek ma ok. 9 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawu LEGO Ideas 123 Sesame Street (21324).
 
+**Galeria:**
+
+- 854195-1: https://a.allegroimg.com/original/11f68b/4f7447c247d986c607da4f75b4f9
+
 ---
 
-## 854196 — Lego Disney 854196 Breloczek Z Goofym
+## 854196 — Goofy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 18.00 zł · EAN: 00673419361491 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854196 |
+| Nazwa angielska | Goofy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419361491 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4356,11 +7358,26 @@ Masz w domu fana Goofy’ego z filmów Disneya? Podaruj mu breloczek LEGO® ǀ D
 - Prezent na każdą okazję dla dzieci od szóstego roku życia — Prawdziwa gratka dla dzieciaków, które lubią Goofy’ego lub Sensacyjną Szóstkę Disneya
 - Mnóstwo radości w kieszonkowym rozmiarze — Breloczek ma ok. 9 cm długości, więc jest wystarczająco duży, aby można go było łatwo zauważyć i podziwiać, a jednocześnie na tyle mały, by w niczym nie przeszkadzał
 
+**Galeria:**
+
+- 854196-1: https://a.allegroimg.com/original/110134/18d55a7749afbc1cf44bf6e8c4db
+
 ---
 
-## 854197 — Lego, Stranger Things, 854197, Demogorgon
+## 854197 — Demogorgon Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 199.90 zł · EAN: 05051889710233 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854197 |
+| Nazwa angielska | Demogorgon Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051889710233 |
 
 **Oryginalna figurka LEGO: Demogorgon, Brelok**
 
@@ -4370,11 +7387,26 @@ Stan: Nowa, figurka + odpięty przeze mnie breloczek, wszystko 100% nowe i kompl
 
 Figurka była starannie przechowywana w woreczku i kartonie, bez ekspozycji na światło.
 
+**Galeria:**
+
+- 854197-1: https://a.allegroimg.com/original/11ccb8/deadb2a24878ab0961cf9f2e046e
+
 ---
 
-## 854198 — Lego 854198 Harry Potter Dumbledore Breloczek Nowy
+## 854198 — Dumbledore Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 44.49 zł · EAN: 00673419364942 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854198 |
+| Nazwa angielska | Dumbledore Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419364942 |
 
 LEGO® 854198 Breloczek z Dumbledore’em
 
@@ -4394,11 +7426,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy jako NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 854198-1: https://a.allegroimg.com/original/11a94f/c92a91cf4fbc80d329f813841743
+
 ---
 
-## 854200 — Breloczek Lego Looney Tunes Tweety 854200 Unikat
+## 854200 — Tweety Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 99.99 zł · EAN: 00673419365963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854200 |
+| Nazwa angielska | Tweety Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419365963 |
 
 LEGO 854200 Breloczek z Tweetym NOWY
  
@@ -4409,11 +7456,26 @@ LEGO 854200 Breloczek z Tweetym NOWY
 - Prezent dla dzieci w wieku od sześciu lat — breloczek będzie wspaniałą nagrodą, upominkiem lub prezentem urodzinowym dla wszystkich sześciolatków i starszych dzieci, które uwielbiają kreskówkę Zwariowane melodie i jej bohaterów 
 - Mnóstwo radości w kieszonkowym rozmiarze — breloczek ma ok. 8 cm długości, więc jest wystarczająco duży, aby można go było łatwo zauważyć i podziwiać, a jednocześnie na tyle mały, by w niczym nie przeszkadzał
 
+**Galeria:**
+
+- 854200-1: https://a.allegroimg.com/original/11ebb0/b5f752fd44e699c264eca9178fa2
+
 ---
 
-## 854201 — Lego Brelok Breloczek ze Świętym Mikołajem Lego 854201
+## 854201 — Santa Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.97 zł · EAN: 00673419365970 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854201 |
+| Nazwa angielska | Santa Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419365970 |
 
 Breloczek ze Świętym Mikołajem
 
@@ -4423,11 +7485,26 @@ Ho, ho, ho! Breloczek LEGO® ze Świętym Mikołajem (854201) z pewnością przy
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko
 - Pomysł na prezent dla dzieci — breloczek ze Świętym Mikołajem ma ok. 9 cm długości i będzie ciekawym, praktycznym prezentem dla miłośników Świąt i zestawów LEGO®
 
+**Galeria:**
+
+- 854201-1: https://a.allegroimg.com/original/11cde6/fc8ac1844ea283c9576cf0f2d808
+
 ---
 
-## 854203 — Lego 854203 Disney Breloczek z Kłapouchym
+## 854203 — Eeyore Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 28.97 zł · EAN: 00673419363815 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854203 |
+| Nazwa angielska | Eeyore Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419363815 |
 
 LEGO® 854203 Breloczek z Kłapouchym
 
@@ -4438,11 +7515,26 @@ Breloczek z Kłapouchym LEGO® ǀ Disney (854203) zachwyci dzieci i przywoła no
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — metalowe kółko można bez trudu i pewnie przypiąć do kluczy, plecaka i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek ma ok. 8 cm długości i doskonale sprawdzi się jako prezent dla dzieci i wszystkich fanów zestawu konstrukcyjnego LEGO® Ideas ǀ Disney Kubuś Puchatek (21326)
 
+**Galeria:**
+
+- 854203-1: https://a.allegroimg.com/original/11e9c5/3eaaeba34fd2bdcaee34cf4f34f7
+
 ---
 
-## 854204 — Lego Brelok 854204 Mały elf
+## 854204 — Elf Kid Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.97 zł · EAN: 00673419366656 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854204 |
+| Nazwa angielska | Elf Kid Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419366656 |
 
 Brelok z małym elfem LEGO®
 
@@ -4460,11 +7552,26 @@ Za pomocą **breloczka z małym elfem LEGO®** (854204) dzieci nadadzą świąte
 
 - Pomysł na prezent dla dzieci — breloczek z małym elfem ma ok. **7 cm długości** i będzie ciekawym, praktyczny prezentem dla miłośników Świąt i zestawów LEGO®
 
+**Galeria:**
+
+- 854204-1: https://a.allegroimg.com/original/1141f1/ff696a4347208013669755b9fa82
+
 ---
 
-## 854234 — Lego 854234 Breloczek z dziewczyną chilli Nowy
+## 854234 — Chili Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.96 zł · EAN: 00673419379953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854234 |
+| Nazwa angielska | Chili Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379953 |
 
 LEGO® 854234 Breloczek z dziewczyną w kostiumie chili
 
@@ -4475,11 +7582,26 @@ LEGO® Breloczek z dziewczyną w kostiumie chili (854234) to połączenie prakty
 - Zabawny i funkcjonalny gadżet — metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów 
 - Pomysł na prezent dla dzieci — breloczek z dziewczyną w kostiumie chili ma 9 cm długości. Jest przeznaczony dla fanów chili w wieku od 10 lat
 
+**Galeria:**
+
+- 854234-1: https://a.allegroimg.com/original/114d51/1b1572e3484d935b295d8bc1de9d
+
 ---
 
-## 854235 — Lego 854235 Breloczek z Batmanem
+## 854235 — Batman Keyring
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.99 zł · EAN: 00673419380058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854235 |
+| Nazwa angielska | Batman Keyring |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419380058 |
 
 Lego 854235 Brelok Batman NOWY
  
@@ -4493,11 +7615,26 @@ Podaruj młodemu superbohaterowi inspirację, która będzie mu towarzyszyć w k
 - Zabawny i funkcjonalny gadżet – metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, nadając przedmiotom superbohaterskiego klimatu w każdym miejscu 
 - Pomysł na prezent dla dzieci – Breloczek z Batmanem™ ma 9 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854235-1: https://a.allegroimg.com/original/11d9b6/2b309c8d4f82ad3400808f6d4a4b
+
 ---
 
-## 854236 — Lego 854236 Breloczek z Darthem Vaderem
+## 854236 — Darth Vader Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.96 zł · EAN: 00673419379960 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854236 |
+| Nazwa angielska | Darth Vader Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379960 |
 
 ORYGINALNY NOWY BRELOK LEGO 854236
  
@@ -4512,11 +7649,26 @@ Cechy zestawu:
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od 6 lat — breloczek ma ok. 8 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawów konstrukcyjnychLEGO® Star Wars™
 
+**Galeria:**
+
+- 854236-1: https://a.allegroimg.com/original/113a13/74821c1747d8a1a71d5451e884db
+
 ---
 
-## 854237 — Lego 854237 Brelok Z Niebieskim Klockiem 2X4 breloczek
+## 854237 — Dark Blue Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 22.99 zł · EAN: 00673419379977 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854237 |
+| Nazwa angielska | Dark Blue Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379977 |
 
 Lego 854237 brelok z niebieskim klockiem 2x4
 
@@ -4526,11 +7678,26 @@ Fani zestawów LEGO będą zachwyceni rzadkim kolorem klocka w Breloczku z niebi
 - Zabawny i funkcjonalny gadżet – metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, nadając im klimat LEGO
 - Pomysł na prezent dla dzieci – Breloczek z niebieskim klockiem 2x4 ma 7 cm długości i będzie świetnym upominkiem dla każdego fana LEGO
 
+**Galeria:**
+
+- 854237-1: https://a.allegroimg.com/original/1199c6/40f0eb724f26a715bd4586b5e7a5
+
 ---
 
-## 854238 — Lego 854238 Breloczek Z Harley Quinn Nowy
+## 854238 — Harley Quinn Keyring
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 22.00 zł · EAN: 00673419379984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854238 |
+| Nazwa angielska | Harley Quinn Keyring |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379984 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4548,11 +7715,26 @@ Fani Batmana™, Jokera™ i filmów z serii DC będą zachwyceni Breloczkiem z 
 - Zabawny i funkcjonalny gadżet – metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, nadając przedmiotom superbohaterskiego klimatu w każdym miejscu
 - Pomysł na prezent dla dzieci – Breloczek z Harley Quinn™ ma 9 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854238-1: https://a.allegroimg.com/original/110eec/d26fee394ea3b18a1702dfb9039e
+
 ---
 
-## 854239 — Lego 854239 Breloczek z Sonic the Hedgehog
+## 854239 — Sonic the Hedgehog Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.00 zł · EAN: 00673419382663 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854239 |
+| Nazwa angielska | Sonic the Hedgehog Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419382663 |
 
 Breloczek z Sonic the Hedgehog™ (854239) to połączenie praktycznego breloka z minifigurką Niebieskiego Jeża. Bez względu na to, czy przyczepisz ją do kluczy, torby, plecaka czy czegoś innego, mocne metalowe kółko i łańcuszek bezpiecznie przymocują tę minifigurkę. Ten breloczek to praktyczny prezent dla miłośników Sonica w wieku od 10 lat.
 
@@ -4560,11 +7742,26 @@ Breloczek z Sonic the Hedgehog™ (854239) to połączenie praktycznego breloka 
 - Zabawny i funkcjonalny gadżet — metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, dodając im klimatu rodem z Sonica
 - Pomysł na prezent dla dzieci — breloczek z Sonic the Hedgehog™ ma 8 cm długości. Jest przeznaczony dla dzieci w wieku od 10 lat
 
+**Galeria:**
+
+- 854239-1: https://a.allegroimg.com/original/1150b6/8eebe9ed479aa94e09bf27db0332
+
 ---
 
-## 854240 — Lego 854240 Breloczek z Iron Manem
+## 854240 — Iron Man Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 24.98 zł · EAN: 00673419379595 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854240 |
+| Nazwa angielska | Iron Man Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379595 |
 
 LEGO® 854240 Breloczek z Iron Manem
 
@@ -4575,11 +7772,26 @@ Fani filmów Marvela będą zachwyceni Breloczkiem z Iron Manem LEGO® Marvel (8
 - Zabawny i funkcjonalny gadżet – metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, nadając przedmiotom superbohaterskiego klimatu w każdym miejscu 
 - Pomysł na prezent dla dzieci – Breloczek do kluczy z Iron Manem ma 9 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854240-1: https://a.allegroimg.com/original/11c562/5c1bdc694822bba4839f0ec0ed63
+
 ---
 
-## 854241 — Lego Breloczek 854241 Scarlet Witch Nowy
+## 854241 — Scarlet Witch Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 48.99 zł · EAN: 00673419379601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854241 |
+| Nazwa angielska | Scarlet Witch Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379601 |
 
 Przedmiotem aukcji są klocki opisane poniżej:
 
@@ -4590,11 +7802,26 @@ Przedmiotem aukcji są klocki opisane poniżej:
 
 Zapraszam do zapoznania się z moimi pozostałymi aukcjami, gdzie znajdziecie bardzo duży wybór innych klocków LEGO®.
 
+**Galeria:**
+
+- 854241-1: https://a.allegroimg.com/original/11f21c/c1eba94c4bfa97ba6c1c1c2ea421
+
 ---
 
-## 854243 — Lego 854243 Brelok Lego Minecraft Steve Oryginał
+## 854243 — Steve Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 59.99 zł · EAN: 00673419379625 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854243 |
+| Nazwa angielska | Steve Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379625 |
 
 ORYGINALNY NOWY BRELOK LEGO 854243
  
@@ -4607,11 +7834,26 @@ Dzięki breloczkowi ze Steve’em LEGO® Minecraft® (854243) gracze mogą zabra
 - Zabawny i funkcjonalny gadżet — metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, by pokazać, że jesteś fanem Minecrafta® 
 - Pomysł na prezent dla dzieci — breloczek z Steve’a™ ma 9 cm długości i będzie świetnym upominkiem dla każdego fana Minecrafta
 
+**Galeria:**
+
+- 854243-1: https://a.allegroimg.com/original/11a739/3d7931e746519d85e826d358777e
+
 ---
 
-## 854244 — Lego 854244 Brelok Lego Minecraft Piglin Oryginał Breloczek Vip
+## 854244 — Piglin Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 44.99 zł · EAN: 00673419379632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854244 |
+| Nazwa angielska | Piglin Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379632 |
 
 ORYGINALNY NOWY BRELOK LEGO 854244
 
@@ -4624,11 +7866,26 @@ Gracze w Minecrafta® wiedzą, że pigliny można znaleźć w biomie Netheru. Al
 - Zabawny i funkcjonalny gadżet — metalowe kółko można łatwo i bezpiecznie przymocować do kluczy, plecaków i innych przedmiotów, by pokazać, że jesteś fanem Minecrafta® 
 - Pomysł na prezent dla dzieci — LEGO® Minecraft Breloczek z Piglinem ma 9 cm długości i będzie świetnym upominkiem dla każdego fana Minecrafta
 
+**Galeria:**
+
+- 854244-1: https://a.allegroimg.com/original/115473/3681c9704de98df8fc2969af6087
+
 ---
 
-## 854245 — Lego Star Wars 854245 Lego Brelok 854245 Fennec Shand
+## 854245 — Fennec Shand Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 23.00 zł · EAN: 00673419379779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854245 |
+| Nazwa angielska | Fennec Shand Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379779 |
 
 Brelok LEGO Star Wars 854245 Fennec Shand.
  
@@ -4643,11 +7900,26 @@ Połącz siły z elitarną łowczynią nagród dzięki temu breloczkowi LEGO® S
 - Sprawdzi się jako breloczek do kluczy i zawieszka na torbę — Metalowe kółko można łatwo i pewnie przypiąć do kluczy, plecaka i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od 6 lat — breloczek ma 8 cm długości i doskonale sprawdzi się jako upominek dla dzieci i fanów zestawów konstrukcyjnych LEGO® Star Wars™
 
+**Galeria:**
+
+- 854245-1: https://a.allegroimg.com/original/11026c/6b9fb17a40d89394bc14d5830071
+
 ---
 
-## 854246 — Lego Star Wars 854246 Brelok Scout Trooper Zwiadowca szturmowców
+## 854246 — Scout Trooper Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 25.90 zł · EAN: 00673419379649 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854246 |
+| Nazwa angielska | Scout Trooper Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419379649 |
 
 Breloczek LEGO ze zwiadowcą szturmowców Scout Trooper 854246
 
@@ -4663,11 +7935,26 @@ Składa się on z minifigurki LEGO zwiadowcy szturmowców przymocowanej do solid
 
 **Producent:** LEGO
 
+**Galeria:**
+
+- 854246-1: https://a.allegroimg.com/original/110078/427ad8024280b857b1b4641bf11c
+
 ---
 
-## 854286 — Lego 854286 Breloczek z Królewną Śnieżką
+## 854286 — Snow White Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 26.87 zł · EAN: 00673419393294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854286 |
+| Nazwa angielska | Snow White Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419393294 |
 
 LEGO 854286 DISNEY
  
@@ -4690,11 +7977,26 @@ Oczaruj fanów Disneya tym Breloczkiem LEGO® z Królewną Śnieżką (854286), 
 - Część kolekcji – w ofercie dostępnych jest wiele breloczków z minifigurkami i minilaleczkami LEGO® (sprzedawanych osobno), także z innymi postaciami Disneya 
 - Pomysł na prezent dla dzieci – breloczek LEGO® Disney z Królewną Śnieżką ma 8 cm długości i będzie świetnym prezentem dla sześcioletnich, starszych i całkiem dorosłych fanów księżniczek
 
+**Galeria:**
+
+- 854286-1: https://a.allegroimg.com/original/1151ba/fcf2f1684bc49dc0d4afde97a4b8
+
 ---
 
-## 854288 — Lego 854288 Star Wars Breloczek z Lukiem Skywalkerem w stroju pilota
+## 854288 — Luke Skywalker Pilot Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.48 zł · EAN: 00673419394864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854288 |
+| Nazwa angielska | Luke Skywalker Pilot Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394864 |
 
 LEGO 854288 Star Wars Breloczek z Lukiem Skywalkerem™ w stroju pilota
  
@@ -4710,11 +8012,26 @@ Okaż wierność Rebeliantom za pomocą breloczka LEGO® Star Wars™ z Lukiem
 - Prezent z Gwiezdnych Wojen dla sześciolatków i starszych dzieci – podaruj ten brelok na prezent chłopcom, dziewczynkom i fanom Gwiezdnych Wojen oraz zestawów LEGO® Star Wars 
 - Wymiary – breloczek z Lukiem Skywalkerem™ w stroju pilota ma 9 cm długości
 
+**Galeria:**
+
+- 854288-1: https://a.allegroimg.com/original/116ca8/2d7d567745ffaaa4ff8bdb1dd403
+
 ---
 
-## 854289 — Lego 854289 Breloczek z Imperatorem Palpatinem
+## 854289 — Emperor Palpatine Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.00 zł · EAN: 00673419394871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854289 |
+| Nazwa angielska | Emperor Palpatine Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394871 |
 
 **LEGO 854289 Breloczek z Imperatorem Palpatinem**
 
@@ -4735,11 +8052,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 854289-1: https://a.allegroimg.com/original/11e56f/b2aa7a6a44f8ba7c020fadef88c1
+
 ---
 
-## 854290 — Lego 854290 Breloczek ze Spider-Manem Marvel Brelok Lego
+## 854290 — Spider-Man Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 57.00 zł · EAN: 00673419394673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854290 |
+| Nazwa angielska | Spider-Man Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394673 |
 
 LEGO® 854290 Breloczek ze Spider-Manem
 
@@ -4755,11 +8087,26 @@ Zainspiruj młodego superbohatera breloczkiem LEGO® Marvel **Breloczek ze Spide
 
 - Pomysł na prezent dla dzieci – breloczek ze Spider-Manem LEGO® Marvel ma** 8 cm długości.** Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854290-1: https://a.allegroimg.com/original/118573/a28d4989475189bec8bc0e03fc1d
+
 ---
 
-## 854291 — Lego 854291 Breloczek z Grootem Marvel Brot Brelok
+## 854291 — Groot Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.00 zł · EAN: 00673419394680 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854291 |
+| Nazwa angielska | Groot Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394680 |
 
 LEGO® Marvel **Breloczek z Grootem **(854291) zawiera popularną postać z filmów Strażnicy galaktyki Marvel Studios.
 
@@ -4777,11 +8124,26 @@ To fajny i praktyczny prezent dla dzieci w wieku od sześciu lat.
 
 - Pomysł na prezent dla dzieci – breloczek z Grootem LEGO® Marvel ma 8 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854291-1: https://a.allegroimg.com/original/11737a/a9e57ffd49428321eff4ce327792
+
 ---
 
-## 854292 — Lego 854292 Breloczek z Ghost-Spider
+## 854292 — Ghost-Spider Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419394710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854292 |
+| Nazwa angielska | Ghost-Spider Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394710 |
 
 Breloczek LEGO® Marvel z minifigurką Ghost-Spider (854292) ma ruchomą minifigurkę przymocowaną do wytrzymałego, metalowego kółka i łańcuszka, dzięki czemu można go łatwo przymocować do kluczy, toreb, plecaków i innych rzeczy. Sześciolatki i starsze dzieci mogą poczuć się jak superbohaterowie w towarzystwie Ghost-Spider, którą mogą zabrać, gdzie tylko chcą.
 
@@ -4794,11 +8156,26 @@ Breloczek LEGO® Marvel z minifigurką Ghost-Spider (854292) ma ruchomą minifig
 - Więcej breloczków do zebrania – w ofercie znajdziesz mnóstwo breloczków z minifigurkami LEGO®, także z innymi superbohaterami
 - Pomysł na prezent dla dzieci – breloczek z Ghost-Spider LEGO® Marvel ma 8 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854292-1: https://a.allegroimg.com/original/11d541/02df7b794b348ee022c4c036db8c
+
 ---
 
-## 854294 — Lego 854294 Breloczek z Lokim Nowy
+## 854294 — Loki Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419394727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854294 |
+| Nazwa angielska | Loki Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394727 |
 
 LEGO 854294 Breloczek z Lokim
 
@@ -4813,11 +8190,26 @@ Mali fani Marvela mogą teraz zabrać ze sobą najsprytniejszego z superbohater�
 - Więcej breloczków do zebrania – w ofercie znajdziesz mnóstwo breloczków z minifigurkami LEGO®, także z innymi superbohaterami
 - Pomysł na prezent dla dzieci – breloczek z Lokim LEGO® Marvel ma 8 cm długości. Będzie świetnym upominkiem dla fanów zestawów LEGO i filmów z superbohaterami
 
+**Galeria:**
+
+- 854294-1: https://a.allegroimg.com/original/118847/e2ef300e4716bc778940b9519551
+
 ---
 
-## 854296 — Lego 854296 Breloczek Szop Rocket
+## 854296 — Rocket Raccoon Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419394888 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854296 |
+| Nazwa angielska | Rocket Raccoon Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419394888 |
 
 LEGO 854296 Breloczek Szop Rocket
 
@@ -4855,21 +8247,51 @@ To bardzo dobry wybór na nieduży prezent dla fana uniwersum Marvel. Brelok jes
 
 LEGO 854296 Breloczek Szop Rocket to praktyczny i kolekcjonerski gadżet dla fanów Marvela i Strażników Galaktyki.
 
+**Galeria:**
+
+- 854296-1: https://a.allegroimg.com/original/1131c6/d9202cf64069b832716634402380
+
 ---
 
-## 854302 — Lego Brelok 854302 Shadow the Hedgehog
+## 854302 — Shadow the Hedgehog Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419410304 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854302 |
+| Nazwa angielska | Shadow the Hedgehog Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410304 |
 
 LEGO Brelok 854302 Shadow the Hedgehog
 
 Zaskocz fana gier Sonic the Hedgehog™ i wręcz mu ten brelok LEGO® Shadow the Hedgehog (854302), który świetnie sprawdzi się jako prezent dla sześciolatków i starszych dzieci. Ten praktyczny dodatek w stylu LEGO, przedstawiający szczegółową minifigurkę Shadowa na solidnym metalowym łańcuszku, można bezpiecznie przymocować do kluczy, toreb lub plecaków, dzięki czemu gracze mogą nosić figurkę z gry wideo ze sobą.
 
+**Galeria:**
+
+- 854302-1: https://a.allegroimg.com/original/119792/dfd5821146c6a9e2b480c8e9835b
+
 ---
 
-## 854303 — Lego 854303 Breloczek z morskim klockiem 2x4
+## 854303 — Dark Turquoise Brick Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419410311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854303 |
+| Nazwa angielska | Dark Turquoise Brick Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410311 |
 
 LEGO® 854303 Breloczek z morskim klockiem 2x4
 
@@ -4881,11 +8303,26 @@ Ten fajny i kolorowy breloczek ułatwia znalezienie kluczy. Zawiera prawdziwy kl
 - Część kolekcji — w ofercie dostępnych jest wiele breloczków LEGO® (sprzedawanych osobno), także z innymi klockami, minifigurkami i nie tylko
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek ma 8 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawów oraz klocków LEGO®
 
+**Galeria:**
+
+- 854303-1: https://a.allegroimg.com/original/11fc26/0c47d5bb41ce88001b9704e219a1
+
 ---
 
-## 854304 — Lego 854304 Breloczek z lawendowym klockiem 2x4
+## 854304 — Medium Lavender 2x4 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.99 zł · EAN: 00673419410328 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854304 |
+| Nazwa angielska | Medium Lavender 2x4 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410328 |
 
 LEGO® 854304 Breloczek z lawendowym klockiem 2x4
 
@@ -4897,11 +8334,26 @@ Ten fajny i kolorowy breloczek ułatwia znalezienie kluczy. Zawiera prawdziwy kl
 - Część kolekcji — w ofercie dostępnych jest wiele breloczków LEGO® (sprzedawanych osobno), także z innymi klockami, minifigurkami i nie tylko
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek ma 8 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawów oraz klocków LEGO®
 
+**Galeria:**
+
+- 854304-1: https://a.allegroimg.com/original/114c6f/02757e2b483d98f19537df9cfb0d
+
 ---
 
-## 854305 — Lego 854305 Breloczek ze srebrną minifigurką
+## 854305 — Silver Minifigure Keychain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 32.98 zł · EAN: 00673419410335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854305 |
+| Nazwa angielska | Silver Minifigure Keychain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410335 |
 
 LEGO® 854305 Breloczek ze srebrną minifigurką
 
@@ -4914,11 +8366,26 @@ Dodaj blasku swoim kluczom lub plecakowi! Dzięki temu atrakcyjnemu srebrnemu br
 - Część kolekcji — w ofercie dostępnych jest wiele breloczków LEGO® (sprzedawanych osobno), także z innymi klockami, minifigurkami i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek ma 9 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawów oraz minifigurek LEGO®
 
+**Galeria:**
+
+- 854305-1: https://a.allegroimg.com/original/11ff6c/e245e23b46faad1d36fce4f6dee9
+
 ---
 
-## 854306 — Lego 854306 Breloczek z dziewczyną w kostiumie grzyba
+## 854306 — Mushroom Girl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 44.00 zł · EAN: 00673419410342 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854306 |
+| Nazwa angielska | Mushroom Girl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410342 |
 
 LEGO® 854306 Breloczek z dziewczyną w kostiumie grzyba
 
@@ -4931,11 +8398,26 @@ Co kryje się w kniejach? To uroczy breloczek z dziewczyną w kostiumie grzyba, 
 - Część kolekcji — w ofercie dostępnych jest wiele breloczków LEGO® (sprzedawanych osobno), także z innymi klockami, minifigurkami i nie tylko 
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek ma 9 cm długości i doskonale sprawdzi się jako drobny upominek dla dzieci i fanów zestawów oraz minifigurek LEGO®
 
+**Galeria:**
+
+- 854306-1: https://a.allegroimg.com/original/11db8e/570b62914b30a057bf0f2b530c19
+
 ---
 
-## 854312 — Lego 854312 Breloczek z R2-D2
+## 854312 — R2-D2 Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 33.82 zł · EAN: 00673419410465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854312 |
+| Nazwa angielska | R2-D2 Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410465 |
 
 LEGO 854312 Breloczek z R2-D2™
 
@@ -4949,11 +8431,26 @@ Bip, bop! Czy to jest droid, którego szukasz? Gdy masz Breloczek z R2-D2™ LEG
 - Część fajnej kolekcji — odkryj szeroką ofertę breloczków LEGO® (sprzedawanych osobno), w tym inne minifigurki, klocki w różnych kolorach i wiele więcej 
 - Wymiary — ten breloczek z minifigurką R2-D2™ ma ponad 9 cm długości
 
+**Galeria:**
+
+- 854312-1: https://a.allegroimg.com/original/114046/1767eb9947d39ba935932911808f
+
 ---
 
-## 854313 — Lego Star Wars 854313 Breloczek z C-3PO Gwiezdne Wojny
+## 854313 — C-3PO Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.00 zł · EAN: 00673419410472 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854313 |
+| Nazwa angielska | C-3PO Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410472 |
 
 LEGO 854313 Breloczek z C-3PO™
 
@@ -4967,11 +8464,26 @@ Ojej! To C-3PO, droid o złotym sercu we własnej osobie! Ten fajny breloczek za
 - Część fajnej kolekcji — odkryj szeroką ofertę breloczków LEGO® (sprzedawanych osobno), w tym inne minifigurki, klocki w różnych kolorach i wiele więcej 
 - Wymiary — ten breloczek z minifigurką C-3PO™ ma ponad 9 cm długości
 
+**Galeria:**
+
+- 854313-1: https://a.allegroimg.com/original/1129c5/18379291466aa2fc2954ddb9c55f
+
 ---
 
-## 854316 — Lego 854316 Breloczek z małym ankylozaurem
+## 854316 — Baby Ankylosaurus Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 40.89 zł · EAN: 00673419410458 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854316 |
+| Nazwa angielska | Baby Ankylosaurus Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419410458 |
 
 LEGO® 854316 Breloczek z małym ankylozaurem
 
@@ -4985,19 +8497,49 @@ Poczuj ducha prehistorycznej przygody, nosząc przy sobie Breloczek z małym ank
 - Pomysł na prezent dla dzieci — brelok będzie świetnym dinozaurowym prezentem dla chłopców i dziewczynek oraz dorosłych, którzy uwielbiają „Jurassic World” lub akcesoria LEGO® 
 - Wymiary — breloczek LEGO® dla dzieci w wieku od sześciu lat ma 9 cm długości
 
+**Galeria:**
+
+- 854316-1: https://a.allegroimg.com/original/11518d/e5aff5044e308925105b657d4469
+
 ---
 
-## 854317 — Lego Brelok 854317 Człowiek w stroju tyranozaura
+## 854317 — T. rex Suit Guy Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419414135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854317 |
+| Nazwa angielska | T. rex Suit Guy Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419414135 |
 
 Zachwyć fanów dinozaurów tym superfajnym brelokiem LEGO® Breloczek z chłopakiem w stroju tyranozaura. Przedstawia on minifigurkę LEGO w niesamowitym kostiumie tyranozaura przymocowaną do metalowego łańcuszka i kółka. Brelok można przyczepić do kluczy lub plecaka, aby fani LEGO mogli zabrać go do szkoły lub w podróż. To także świetny prezent dla dzieci w wieku od sześciu lat.
 
+**Galeria:**
+
+- 854317-1: https://a.allegroimg.com/original/11a73d/07afd8de413cb8892c14d75ce9fe
+
 ---
 
-## 854319 — Lego 854319 Breloczek ze Stitchem
+## 854319 — Stitch Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 33.51 zł · EAN: 00673419414258 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854319 |
+| Nazwa angielska | Stitch Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419414258 |
 
 LEGO® 854319 Breloczek ze Stitchem
 
@@ -5011,19 +8553,49 @@ Przygotuj się na psoty nie z tej ziemi! Spraw sobie ten niesamowity breloczek z
 - Pomysł na prezent dla dzieci w wieku od sześciu lat — breloczek doskonale sprawdzi się jako drobny upominek dla dzieci i fanów LEGO® ǀ Disney oraz minifigurek LEGO 
 - Wymiary breloczka — breloczek z postacią LEGO® ǀ Disney z kółkiem i łańcuszkiem ma 9 cm długości
 
+**Galeria:**
+
+- 854319-1: https://a.allegroimg.com/original/110bb7/f76ce12443b6b584af0c107a94c0
+
 ---
 
-## 854320 — Lego Brelok 854320 Batgirl
+## 854320 — Batgirl Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419414265 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854320 |
+| Nazwa angielska | Batgirl Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419414265 |
 
 Fani superbohaterów mogą teraz wszędzie zabrać ze sobą tę kultową postać dzięki breloczkowi LEGO® DC Breloczek z Batgirl™ (854320). Niezależnie od tego, czy przyczepisz go do kluczy, torby, plecaka czy czegoś innego, mocny metalowy łańcuszek i kółko sprawią, że breloczek i minifigurka będą zawsze bezpiecznie przymocowane. Ten breloczek z minifigurką LEGO DC to fajny i praktyczny pomysł na prezent dla małych superbohaterów w wieku od sześciu lat.
 
+**Galeria:**
+
+- 854320-1: https://a.allegroimg.com/original/11bd89/13d68c9645c2add8ff00966c9965
+
 ---
 
-## 854321 — Lego 854321 Breloczek z Hulkiem brelok
+## 854321 — The Hulk Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 31.99 zł · EAN: 00673419414272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854321 |
+| Nazwa angielska | The Hulk Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419414272 |
 
 LEGO 854321 Breloczek z Hulkiem
 
@@ -5037,11 +8609,26 @@ Fani uniwersum Marvela mogą teraz wszędzie zabrać ze sobą tę kultową posta
 - Jeszcze więcej zabawy — sprawdź pełną ofertę breloczków LEGO® (sprzedawanych osobno) z szerokim wyborem minifigurek LEGO 
 - Wymiary — LEGO® ǀ Marvel Breloczek z Hulkiem ma 9 cm długości i świetnie sprawdzi się jako prezent dla fanów superbohaterów
 
+**Galeria:**
+
+- 854321-1: https://a.allegroimg.com/original/116190/3d5679e7474498bb6f0086874785
+
 ---
 
-## 854326 — Lego Star Wars 854326 Breloczek z Mandalorianinem
+## 854326 — The Mandalorian Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 34.89 zł · EAN: 00673419429283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854326 |
+| Nazwa angielska | The Mandalorian Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419429283 |
 
 LEGO 854326 Breloczek z Mandalorianinem
 
@@ -5083,11 +8670,26 @@ Czas ruszać w drogę
 
 Dodaj odrobinę galaktycznego charakteru do codziennych przedmiotów - LEGO 854326 Breloczek z Mandalorianinem to praktyczny gadżet, który z pewnością spodoba się każdemu fanowi Star Wars.
 
+**Galeria:**
+
+- 854326-1: https://a.allegroimg.com/original/1162de/a519e7564878bc31e44fecd61be2
+
 ---
 
-## 854327 — Lego 854327 Disney Breloczek z Simbą Simba
+## 854327 — Simba Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 23.97 zł · EAN: 00673419427999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854327 |
+| Nazwa angielska | Simba Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419427999 |
 
 LEGO® 854327 Breloczek z Simbą
 
@@ -5101,11 +8703,26 @@ Podaruj młodym fanom filmu Król Lew Disneya Breloczek z Simbą LEGO® ǀ Disne
 - Pomysł na prezent dla sześciolatków i starszych dzieci — breloczek do kluczy to fajny prezent dla dziewczynek, chłopców i wszystkich fanów zestawów konstrukcyjnych LEGO® ǀ Disney lub filmu Król Lew 
 - Wymiary — ten Breloczek z Simbą LEGO® ǀ Disney ma 8 cm długości
 
+**Galeria:**
+
+- 854327-1: https://a.allegroimg.com/original/11ef2d/c22f19034941ad6577844caa7f5f
+
 ---
 
-## 854328 — Lego 854328 Disney Breloczek z Dumbo
+## 854328 — Dumbo Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 23.97 zł · EAN: 00673419428002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854328 |
+| Nazwa angielska | Dumbo Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419428002 |
 
 LEGO® 854328 Breloczek z Dumbo
 
@@ -5119,13 +8736,32 @@ Zaskocz młodych fanów filmu Dumbo Disneya breloczkiem LEGO® ǀ Disney z tą p
 - Pomysł na prezent dla sześciolatków i starszych dzieci — breloczek do kluczy to fajny prezent dla dziewczynek, chłopców i wszystkich fanów zestawów konstrukcyjnych LEGO® ǀ Disney lub filmu Dumbo 
 - Wymiary — ten Breloczek z Dumbo LEGO® ǀ Disney ma 8 cm długości
 
+**Galeria:**
+
+- 854328-1: https://a.allegroimg.com/original/1173b4/249a5e564c0da566668033152849
+
 ---
 
-## 854331 — Lego Brelok 854331 Drakon paladyn
+## 854331 — Dragonborn Paladin Key Chain
 
-*Kategoria: Breloczki · cena Allegro (2026-08-17): 30.14 zł · EAN: 00673419428019 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 854331 |
+| Nazwa angielska | Dragonborn Paladin Key Chain |
+| Nazwa polska | — |
+| Seria | Breloczki |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419428019 |
 
 Zaskocz fanów planszówek Breloczkiem z drakonem paladynem LEGO® Dungeons & Dragons® (854331). To fajny prezent dla chłopców, dziewczynek lub wszystkich fanów gry „Dungeons & Dragons” w wieku od sześciu lat, zawierający minifigurkę LEGO walecznego drakona paladyna. Minifigurka jest połączona z wytrzymałym metalowym łańcuszkiem i kółkiem, aby można było ją przyczepić do kluczy lub wykorzystać jako fajny dodatek do plecaka lub torby. Ten breloczek do kluczy jest częścią niesamowitej serii akcesoriów LEGO dla dzieci.
+
+**Galeria:**
+
+- 854331-1: https://a.allegroimg.com/original/110fa7/272beff9427ba6cc178876201c20
 
 ---
 

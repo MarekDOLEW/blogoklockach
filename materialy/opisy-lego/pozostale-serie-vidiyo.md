@@ -1,51 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Pozostałe serie > VIDIYO — opisy produktowe (15 pozycji)
+# LEGO Pozostałe serie > VIDIYO — opisy produktowe (14 pozycji)
 
-## 43101 — Lego Vidiyo Bandmates 43101
+## 43102 — Syrenka
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 18.99 zł · EAN: 05702016916874 · in stock*
-
-LEGO VIDIYO
-
-Bandmates
-
-NUMER KATALOGOWY: **43101**
-
-LINIA:** VIDIYO**
-
-ILOŚĆ ELEMENTÓW:** 11**
-
-WIEK: **7+**
-
-Zachęć dzieci do tworzenia ekscytujących teledysków i występowania w nich. Pomoże Ci w tym zestaw LEGO® VIDIYO™ Bandmates (43101) i dedykowana aplikacja. Do zebrania jest 12 postaci inspirowanych różnymi gatunkami muzycznymi. Są w śród nich tancerze, raperzy, gitarzyści, perkusiści, wokaliści i nie tylko. Za pomocą aplikacji dzieci mogą ożywić bohaterów swoich teledysków, by natychmiastowo zacząć zabawę. Odblokuj wystrzałowe efekty za pomocą BeatBitów Każdy z bohaterów Bandmates ma własną osobowość i trzy BeatBity. Zeskanuj je za pomocą aplikacji, aby odblokować efekty, dźwięki i inne elementy przydatne podczas nagrywania teledysków. Lista utworów jest regularnie aktualizowana, więc dzieci mogą za każdym razem cieszyć się inną piosenką. Bezpieczne udostępnianie filmów w sieci W aplikacji LEGO VIDIYO znajdziesz wiele funkcji gwarantujących dzieciom bezpieczeństwo w sieci. Tożsamość użytkowników pozostaje ukryta dzięki awatarom i generowanym w aplikacji pseudonimom. Wszystkim przesyłanym filmom i zamieszczanym komentarzom przyglądają się moderatorzy.
-
-• Pokaż dzieciom świat muzyki i pozwól im tworzyć własne teledyski dzięki zestawowi LEGO® VIDIYO™ Bandmates (43101) oraz aplikacji VIDIYO.
-
-• Pobierz darmową aplikację LEGO® VIDIYO™ i zeskanuj minifigurkę oraz BeatBity z efektami specjalnymi, aby tchnąć życie w postać występującą w nakręconym przez dzieci teledysku.
-
-• Każda figurka Bandmates ma trzy BeatBity, które można zeskanować za pomocą aplikacji, by odblokować efekty specjalne, takie jak dźwięki i kostiumy. Do zebrania są 92 BeatBity, które dzieci mogą dodać do swojej kolekcji.
-
-• Minifigurki LEGO VIDIYO™ Bandmates pozwalają odblokować mnóstwo możliwości personalizacji i kreatywnej zabawy w aplikacji. Doskonale nadają się na prezent świąteczny dla chłopców i dziewczynek w wieku od 7 lat, uwielbiających muzykę i występy.
-
-• Aplikacja LEGO® VIDIYO™ zawiera wiele funkcji gwarantujących bezpieczeństwo w internecie, takich jak panel rodzicielski, anonimowe nazwy użytkowników oraz moderowane komentarze.
-
-• Każde pudełko niespodzianka zawiera minifigurkę Bandmates z serii 1, dwa losowe BeatBity, jednego specjalnego BeatBita, jedno akcesorium, złożoną z klocków scenę z miejscem na trzy BeatBity, instrukcje oraz kolekcjonerską ulotkę.
-
-• Aplikacja LEGO® VIDIYO™ jest kompatybilna z wybranymi urządzeniami z systemem iOS i Android. Przed połączeniem się z Internetem dzieci powinny zapytać rodziców o zgodę.
-
-• Zestawy LEGO® VIDIYO™ oferują nowe wrażenia z zabawy w grupie. Chłopcy i dziewczynki mogą wcielić się w reżyserów, producentów i gwiazdy oraz tworzyć i udostępniać własne teledyski.
-
----
-
-## 43102 — Lego 43102 Vidiyo Candy Mermaid Beatbox Cukierkowa Syrena klocki Nowe
-
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 27.99 zł · EAN: 05702016911770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43102 |
+| Nazwa angielska | Candy Mermaid BeatBox |
+| Nazwa polska | Syrenka |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702016911770 |
 
 Klocki LEGO VIDIYO 43102 - Candy Mermaid Beatbox
 
@@ -72,11 +46,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 43102-1: https://a.allegroimg.com/original/009320/22ad38f44b76be73411f4abec080
+
 ---
 
-## 43103 — Lego Vidiyo 43103 Punk Pirate Beatbox Pirat Nowy
+## 43103 — Punk Pirate BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 21.00 zł · EAN: 05702016911787 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43103 |
+| Nazwa angielska | Punk Pirate BeatBox |
+| Nazwa polska | Punk Pirate BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702016911787 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -104,11 +93,26 @@ Dzięki zestawom LEGO VIDIYO dzieci mogą wcielić się w reżyserów, producent
 
 - Zestaw LEGO® VIDIYO™ Punk Pirate BeatBox (43103) pomoże Ci zachęcić dzieci do tworzenia własnych teledysków. Znajdziesz w nim minifigurkę pirata punka, 14 losowych BeatBitów i dwa specjalne BeatBity. Pobierz darmową aplikację LEGO® VIDIYO™ i zeskanuj minifigurkę oraz BeatBity z efektami specjalnymi, aby ożywić postać występującą w nakręconym przez dzieci punkowym teledysku. Zeskanuj BeatBity za pomocą aplikacji, aby odblokować efekty specjalne i zamienić słowa piosenek na pirackie okrzyki. Ciekawy zestaw muzyczny w sam raz dla dzieci w wieku od 7 lat. Doskonale sprawdzi się jako prezent świąteczny dla każdego dziecka, które lubi muzykę, taniec i występy. BeatBox ma ok. 8 cm wysokości, 7 cm długości i 10 cm szerokości. Model da się złożyć, więc muzyczny świat może towarzyszyć dzieciom na każdym kroku. W środku jest miejsce na zbudowaną z klocków scenę, 16 BeatBitów i gitarę pirata. Aplikacja LEGO® VIDIYO™ jest kompatybilna z wybranymi urządzeniami z systemem iOS i Android. Zgodność urządzenia możesz sprawdzić na stronie LEGO.pldevicecheck. Przed połączeniem się z Internetem dzieci powinny zapytać rodziców o zgodę. Zestawy LEGO® VIDIYO™ oferują nowe wrażenia z zabawy w grupie. Chłopcy i dziewczynki mogą wcielić się w reżyserów, producentów i gwiazdy muzyki oraz tworzyć i udostępniać własne teledyski. Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43103-1: https://a.allegroimg.com/original/11efad/3d1bdf744aad8766ee9379780722
+
 ---
 
-## 43104 — Lego Vidiyo 43104 Alien Dj BeatBox
+## 43104 — Alien DJ BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 29.50 zł · EAN: 05702016911879 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43104 |
+| Nazwa angielska | Alien DJ BeatBox |
+| Nazwa polska | Alien DJ BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702016911879 |
 
 Wypróbuj różne efekty, takie jak świetliki, którymi postać może machać. BeatBox można złożyć, by zabrać go ze sobą w trasę!
 
@@ -127,11 +131,26 @@ W składanym BeatBoxie można przechowywać BeatBity i minifigurkę, więc zesta
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43104-1: https://a.allegroimg.com/original/052d18/23faf37d436e9990c3cae5a42a7e
+
 ---
 
-## 43105 — Zestaw Lego Vidiyo 43105 Party Llama Beatbox Nowy
+## 43105 — Party Llama BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 21.00 zł · EAN: 05702016911886 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43105 |
+| Nazwa angielska | Party Llama BeatBox |
+| Nazwa polska | Party Llama BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 82 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702016911886 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -155,11 +174,26 @@ Twórz własne teledyskiDzięki zestawom LEGO VIDIYO dzieci mogą wcielić się 
 
 Zestaw LEGO® VIDIYO™ Party Llama BeatBox (43105) pomoże Ci zachęcić dzieci do tworzenia własnych teledysków. Znajdziesz w nim minifigurkę lamy, akcesorium w postaci marakasów, 14 losowych BeatBitów i dwa specjalne BeatBity. Pobierz darmową aplikację LEGO® VIDIYO™ i zeskanuj minifigurkę oraz BeatBity z efektami specjalnymi, aby ożywić postać występującą w nakręconym przez dzieci tropikalnym teledysku w rytmach samby. Zeskanuj BeatBity w aplikacji, aby odblokować specjalne efekty, np. kolorowy efekt tropikalnego techno. Ciekawy zestaw muzyczny w sam raz dla dzieci w wieku od 7 lat. Doskonale sprawdzi się jako prezent świąteczny dla każdego dziecka, które lubi muzykę, taniec i występy. BeatBox ma ok. 8 cm wysokości, 7 cm długości i 9 cm szerokości. Model da się złożyć, więc muzyczny świat może towarzyszyć dzieciom na każdym kroku. W środku jest miejsce na zbudowaną z klocków scenę, 16 BeatBitów i marakasy lamy. Aplikacja LEGO® VIDIYO™ jest kompatybilna z wybranymi urządzeniami z systemem iOS i Android. Zgodność urządzenia możesz sprawdzić na stronie LEGO.pldevicecheck. Przed połączeniem się z Internetem dzieci powinny zapytać rodziców o zgodę. Zestawy LEGO® VIDIYO™ oferują nowe wrażenia z zabawy w grupie. Chłopcy i dziewczynki mogą wcielić się w reżyserów, producentów i gwiazdy muzyki oraz tworzyć i udostępniać własne teledyski. Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43105-1: https://a.allegroimg.com/original/11ac5b/0fc3f4c84e3f9b23e13683ad7188
+
 ---
 
-## 43106 — Zestaw Lego Vidiyo 43106 Unicorn Dj Beatbox Nowy
+## 43106 — Unicorn DJ BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 19.00 zł · EAN: 05702016911794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43106 |
+| Nazwa angielska | Unicorn DJ BeatBox |
+| Nazwa polska | Unicorn DJ BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702016911794 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -183,11 +217,26 @@ Twórz własne teledyskiDzięki zestawom LEGO VIDIYO dzieci mogą wcielić się 
 
 Zestaw LEGO® VIDIYO™ Unicorn DJ BeatBox (43106) pomoże Ci zachęcić dzieci do tworzenia własnych teledysków. Znajdziesz w nim minifigurkę Unicorn DJ, akcesorium w postaci płyty winylowej, 14 losowych BeatBitów i dwa specjalne BeatBity. Pobierz darmową aplikację LEGO® VIDIYO™ i zeskanuj minifigurkę oraz BeatBity z efektami specjalnymi, aby ożywić postać występującą w nakręconym przez dzieci teledysku. Zeskanuj BeatBity w aplikacji, aby odblokować efekty specjalne, np. odlotowy dźwięk syntezatorów, który urozmaici piosenki. Ciekawy zestaw muzyczny w sam raz dla dzieci w wieku od 7 lat. Doskonale sprawdzi się jako prezent świąteczny dla każdego dziecka, które lubi muzykę, taniec i występy. BeatBox ma ok. 8 cm wysokości, 7 cm długości i 10 cm szerokości. Model da się złożyć, więc muzyczny świat może towarzyszyć dzieciom na każdym kroku. W środku jest miejsce na zbudowaną z klocków scenę, 16 BeatBitów i płytę winylową. Aplikacja LEGO® VIDIYO™ jest kompatybilna z wybranymi urządzeniami z systemem iOS i Android. Zgodność urządzenia możesz sprawdzić na stronie LEGO.pldevicecheck. Przed połączeniem się z Internetem dzieci powinny zapytać rodziców o zgodę. Zestawy LEGO® VIDIYO™ oferują nowe wrażenia z zabawy w grupie. Chłopcy i dziewczynki mogą wcielić się w reżyserów, producentów i gwiazdy muzyki oraz tworzyć i udostępniać własne teledyski. Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43106-1: https://a.allegroimg.com/original/11f01d/56aee1484641a9bff12172517615
+
 ---
 
-## 43107 — Lego Vidiyo 43107 HipHop Robot BeatBox
+## 43107 — HipHop Robot BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 33.49 zł · EAN: 05702016911800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43107 |
+| Nazwa angielska | Hiphop Robot BeatBox |
+| Nazwa polska | HipHop Robot BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 10 cm |
+| EAN | 5702016911800 |
 
 Dzięki efektom możesz nadać wszystkim elementom czarno-biały kolor, a figurkom — złoty. Zabierz swój składany BeatBox w trasę!
 
@@ -208,11 +257,26 @@ W składanym BeatBoxie można przechowywać BeatBity i minifigurkę, więc zesta
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43107-1: https://a.allegroimg.com/original/05d4b5/0f62ebf54efe800602dcfd8490e6
+
 ---
 
-## 43108 — Lego Vidiyo Series 2 Gitarzystka Discowgirl Guitarist vidbm02-5
+## 43108 — Gitarzystka Discowgirl Guitarist
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702016911817 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43108 |
+| Nazwa angielska | Alien Dancer |
+| Nazwa polska | Gitarzystka Discowgirl Guitarist |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911817 |
 
 **Sprzedajemy tylko ORYGINALNE minifigurki Lego oraz klocki Lego**
 
@@ -224,11 +288,26 @@ Figurka nowa niezłożona zapakowana w woreczek strunowy.
 
 Zapraszamy na pozostałe nasze aukcje gdzie znajdziesz inne minifigurki jak i pojedyncze klocki na sztuki oraz całe zestawy.
 
+**Galeria:**
+
+- 43108-1: https://a.allegroimg.com/original/11eb64/08570aab455fb2c51da1abcc0cbb
+
 ---
 
-## 43109 — Lego Vidiyo 43109 Metal Dragon BeatBox
+## 43109 — Metal Dragon BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 127.77 zł · EAN: 05702016911824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43109 |
+| Nazwa angielska | Metal Dragon BeatBox |
+| Nazwa polska | Metal Dragon BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 86 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 11 cm |
+| EAN | 5702016911824 |
 
 Zestaw LEGO® VIDIYO™ Metal Dragon BeatBox (43109) sprawia, że każda zabawa daje mnóstwo frajdy. Zeskanuj też BitBity, aby odblokować specjalne efekty.
  
@@ -252,11 +331,26 @@ Dzieciaki mogą puścić wodze fantazji i tworzyć filmy pełne muzycznych skła
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 43109-1: https://a.allegroimg.com/original/05bcab/9b95e0e34e898b66a44e13775c4c
+
 ---
 
-## 43110 — Lego Vidiyo 43110 Wróżka Folk Fairy Beatbox 7+ Nowy
+## 43110 — Folk Fairy BeatBox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 35.00 zł · EAN: 05702016911442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43110 |
+| Nazwa angielska | Folk Fairy BeatBox |
+| Nazwa polska | Folk Fairy BeatBox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 89 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702016911442 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -293,11 +387,26 @@ Zestawy LEGO VIDIYO pozwalają dzieciom uczestniczyć w bezpiecznej grupowej zab
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43110-1: https://a.allegroimg.com/original/1160a0/e3158269430aad03ffd8eb15580d
+
 ---
 
-## 43111 — Vidiyo Candy Castle Stage Lego 43111
+## 43111 — VIDIYO 43111 Candy Castle Stage
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 134.99 zł · EAN: 05702016911435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43111 |
+| Nazwa angielska | Candy Castle Stage |
+| Nazwa polska | VIDIYO 43111 Candy Castle Stage |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 344 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911435 |
 
 VIDIYO Candy Castle Stage LEGO 43111
 
@@ -321,11 +430,26 @@ Zestawy LEGO VIDIYO pozwalają dzieciom uczestniczyć w bezpiecznej grupowej zab
 
 Dzieciaki mogą puścić wodze fantazji i tworzyć filmy pełne odlotowych postaci, piosenek, ruchów tanecznych i niesamowitych efektów.
 
+**Galeria:**
+
+- 43111-1: https://a.allegroimg.com/original/111600/86dbce6f45d2bae4801e66af53b4
+
 ---
 
-## 43112 — Lego Vidiyo 43112 Robo HipHop Car
+## 43112 — LEGO 43112
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702016911459 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43112 |
+| Nazwa angielska | Robo HipHop Car |
+| Nazwa polska | LEGO 43112 |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 387 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911459 |
 
 Oferta sprzedaży zestawu klocków LEGO Vidiyo 4311 Robi Hip hop car.
 
@@ -337,11 +461,26 @@ Zestaw jest fabrycznie zapakowany.
 
 Pozdrawiam serdecznie i zapraszam do zakupów.
 
+**Galeria:**
+
+- 43112-1: https://a.allegroimg.com/original/11c531/db08857f4a51b0fa9a923b07db10
+
 ---
 
-## 43113 — Lego Vidiyo 43113 Vidiyo 43113 K-Pawp Concert
+## 43113 — VIDIYO 43113 K-Pawp Concert
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 109.98 zł · EAN: 05702016911466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43113 |
+| Nazwa angielska | K-Pawp Concert |
+| Nazwa polska | VIDIYO 43113 K-Pawp Concert |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 514 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911466 |
 
 LEGO® VIDIYO™ 43113 K-Pawp Concert
  
@@ -369,11 +508,26 @@ Specyfikacja techniczna:
 - **Zasilanie:** Brak
 - **Kod produktu:** LEGO VIDIYO 43113 K-Pawp Concert | 43113 |
 
+**Galeria:**
+
+- 43113-1: https://a.allegroimg.com/original/25bd76/3e5b673a43eb948cc81fceb58d23
+
 ---
 
-## 43114 — Lego 43114 Vidiyo Punk Pirate Ship Piracki statek
+## 43114 — KLOCKI LEGO VIDIYO P43114 PUNK PIRATE SHIP STATEK
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 209.49 zł · EAN: 05702016911978 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43114 |
+| Nazwa angielska | Punk Pirate Ship |
+| Nazwa polska | KLOCKI LEGO VIDIYO P43114 PUNK PIRATE SHIP STATEK |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 615 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 18 cm |
+| EAN | 5702016911978 |
 
 Klocki LEGO VIDIYO 43114 - Punk Pirate Ship
 
@@ -401,11 +555,26 @@ Zestaw Punk Pirate Ship jest bogaty w funkcje, które gwarantują wiele godzin z
 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 43114-1: https://a.allegroimg.com/original/0578b1/fc2844ae4683b8e5b4e206657cab
+
 ---
 
-## 43115 — Lego Vidiyo 43115 Vidiyo The Boombox
+## 43115 — VIDIYO 43115 The Boombox
 
-*Kategoria: Pozostałe serie > VIDIYO · cena Allegro (2026-08-17): 269.00 zł · EAN: 05702016911855 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 43115 |
+| Nazwa angielska | The Boombox |
+| Nazwa polska | VIDIYO 43115 The Boombox |
+| Seria | Pozostałe serie > VIDIYO |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 996 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911855 |
 
 **LEGO VIDIYO 43115 – The Boombox** to niezwykle kreatywny zestaw z serii **LEGO VIDIYO**, który łączy tradycyjne budowanie z interaktywną zabawą muzyczną za pomocą aplikacji. Ten zestaw to prawdziwa scena koncertowa w formie kolorowego boomboxa, który można złożyć i modyfikować według własnego uznania.
 
@@ -417,6 +586,10 @@ Główne cechy zestawu:
 - Możliwość tworzenia własnych teledysków w aplikacji z wykorzystaniem AR (rozszerzonej rzeczywistości).
 
 Zestaw składa się z **996 elementów** i jest świetnym wyborem dla dzieci od **8 roku życia**, które kochają muzykę, taniec i nowe technologie.
+
+**Galeria:**
+
+- 43115-1: https://a.allegroimg.com/original/118d2d/1200bde24c23a18421954d65946a
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Jurassic World — opisy produktowe (69 pozycji)
 
-## 10756 — Lego Juniors 10756 Ucieczka przed Pteranodonem
+## 10756 — Ucieczka przed Pteranodonem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 213.44 zł · EAN: 05702016117356 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10756 |
+| Nazwa angielska | Pteranodon Escape |
+| Nazwa polska | Ucieczka przed Pteranodonem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2018 |
+| Liczba elementów | 84 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016117356 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -57,11 +67,27 @@ Uważaj, wulkan zaraz wybuchnie! Pilnuj poziomu lawy i poczekaj, aż przyleci he
 
 - zestawy LEGO® Juniors są w pełni zgodne ze wszystkimi innymi zestawami LEGO
 
+**Galeria:**
+
+- 10756-1: https://a.allegroimg.com/original/05e10d/c3ae9dba46b1a2832c39e63ba9d8
+
 ---
 
-## 10939 — Lego Duplo 10939 Ucieczka Tyranozaura i Triceratopsa Dinozaury Jurassic
+## 10939 — Ucieczka Tyranozaura i Triceratopsa
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 448.99 zł · EAN: 05702016911091 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10939 |
+| Nazwa angielska | T. rex and Triceratops Dinosaur Breakout |
+| Nazwa polska | Ucieczka Tyranozaura i Triceratopsa |
+| Seria | DUPLO |
+| Grupa wiekowa | 2 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 48 cm × gł. 13 cm |
+| EAN | 5702016911091 |
 
 LEGO DUPLO 10939 Ucieczka Tyranozaura i Triceratopsa
 
@@ -77,11 +103,27 @@ Zestaw LEGO® DUPLO® Jurassic World Ucieczka tyranozaura i triceratopsa (10939)
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 10939-1: https://a.allegroimg.com/original/11fbc1/ca2d8c464b419d7fd7086980bd0a
+
 ---
 
-## 121801 — Lego Jurassic World 121801 Baby Raptor and Nest saszetka klocki minifigurka
+## 121801 — Baby Raptor and Nest
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 42.00 zł · EAN: 05056638409963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 121801 |
+| Nazwa angielska | Baby Raptor and Nest |
+| Nazwa polska | Baby Raptor and Nest |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5056638409963 |
 
 Witam
 
@@ -99,11 +141,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 121801-1: https://a.allegroimg.com/original/11fe34/fdf223fb422bb44c8738411cfbd3
+
 ---
 
-## 121904 — Lego Jurassic World 121904 Owen Dinozaur Baby Raptor Broń saszetka klocki
+## 121904 — Owen Baby Raptor dinozaur
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 41.00 zł · EAN: 05060976587689 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 121904 |
+| Nazwa angielska | Owen with Baby Raptor |
+| Nazwa polska | Owen Baby Raptor dinozaur |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976587689, 5702014734722 |
 
 Witam
 
@@ -121,11 +179,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 121904-1: https://a.allegroimg.com/original/118236/b7c9b59241608ffbedf6070b3140
+
 ---
 
-## 122007 — Lego Jurassic World 122007 Owen w kajaku saszetka klocki minifigurka
+## 122007 — Owen w kajaku
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 25.49 zł · EAN: 05060976588822 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 122007 |
+| Nazwa angielska | Owen with Canoe |
+| Nazwa polska | Owen w kajaku |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 17 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060976588822 |
 
 Witam
 
@@ -141,11 +215,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 122007-1: https://a.allegroimg.com/original/11ea30/25d3dec0486e885cdb6ba0132dcd
+
 ---
 
-## 122112 — Lego Jurassic World 122112 Laboratorium Henry Wu saszetka minifigurka
+## 122112 — Laboratorium Henry Wu
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 35.00 zł · EAN: 05702016537802 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 122112 |
+| Nazwa angielska | Dr. Wu's Laboratory |
+| Nazwa polska | Laboratorium Henry Wu |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 11 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016537802 |
 
 Witam
 
@@ -161,11 +251,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 122112-1: https://a.allegroimg.com/original/1176e1/cf76aef14929bccb7f72b02a9e64
+
 ---
 
-## 122504 — Lego 122504 Raptor i Pułapka Raptor and Trap Jurassic World
+## 122504 — Raptor i Pułapka Klatka 122504
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 11.97 zł · EAN: 05702016913347 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 122504 |
+| Nazwa angielska | Raptor Trap |
+| Nazwa polska | Raptor i Pułapka Klatka 122504 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913347 |
 
 **LEGO - JURASSIC WORLD - ****Raptor and Trap**
 
@@ -202,11 +308,27 @@ Rafał
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 122504-1: https://a.allegroimg.com/original/11cc06/8c02ce0f412eae949c80d20aaeaa
+
 ---
 
-## 30320 — Lego Jurassic World 30320 Gallimimus Trap saszetka klocki unikat
+## 30320 — Gallimimus Trap
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702015412452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30320 |
+| Nazwa angielska | Gallimimus Trap |
+| Nazwa polska | Gallimimus Trap |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015412452 |
 
 Witam
 
@@ -222,11 +344,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30320-1: https://a.allegroimg.com/original/115a2d/9ffb855940c2a5de7343cd021eae
+
 ---
 
-## 30390 — Lego Jurassic World 30390 Świat pełen dinozaurów
+## 30390 — Dinosaur Market
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 14.69 zł · EAN: 05702016916331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30390 |
+| Nazwa angielska | Dinosaur Market |
+| Nazwa polska | Dinosaur Market |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 30 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016916331 |
 
 **Lego Klocki Jurassic World 30390 Targ dinozaurów**
  
@@ -244,11 +382,26 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 Symbol: WPLEGS0UFI30390
 
+**Galeria:**
+
+- 30390-1: https://a.allegroimg.com/original/11aa6c/ef52d9414a73bb73c396852b91c2
+
 ---
 
-## 3560 — Lego 3560 Nba Tim Duncan Pau Gasol Ray Allen Nowe Figurki
+## 3560 — 3560 NBA Collectors 
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 449.50 zł · EAN: 00673419018401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3560 |
+| Nazwa angielska | NBA Collectors #1 |
+| Nazwa polska | 3560 NBA Collectors  |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419018401 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -266,21 +419,51 @@ Unikatowy zestaw klocków LEGO z licencjonowanej serii NBA Collectors zawiera 3 
 
 **Prawdziwa gratka dla kolekcjonerów - zapraszam do zakupu.**
 
+**Galeria:**
+
+- 3560-1: https://a.allegroimg.com/original/11be67/2b442a3e423f87b7a5c417eea9bb
+
 ---
 
-## 40366 — Lego Jurassic World 40366 Dinozaury z Lego House
+## 40366 — Dinozaury z LEGO House
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 542.00 zł · EAN: 05702016499414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40366 |
+| Nazwa angielska | LEGO House Dinosaurs |
+| Nazwa polska | Dinozaury z LEGO House |
+| Seria | Jurassic World |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 864 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016499414 |
 
 Zestaw LEGO® 40366 “LEGO House Dinosaurs” to ekskluzywny zestaw promocyjny wydany w 2019 roku, zawierający 864 elementy. Ten specjalny zestaw przedstawia trzy dinozaury reprezentujące systemy DUPLO, System i Technic, wzorowane na gigantycznych modelach eksponowanych w LEGO House w Billund w Danii, każdy z podium przypominającym klocek LEGO.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 40366-1: https://a.allegroimg.com/original/11f714/faa2eec7464e92e0ae6725df26b3
+
 ---
 
-## 6482964 — Lego Jurassic World Dinozaur T-Rex 6482964 torebka z instrukcją
+## 6482964 — ?
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 29.99 zł · EAN: 05702017647494 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6482964 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017647494 |
 
 **LEGO** T-Rex V29 44 elementy - to zestaw klocków przeznaczony dla dzieci w wieku od 6 lat. Zestaw zawiera 44 klocki, które pozwalają na zbudowanie modelu dinozaura T-Rexa. Model ma realistyczne szczegóły, takie jak kolce na plecach i długi ogon.
 
@@ -293,11 +476,27 @@ Zbuduj swojego własnego T-Rexa! Ten łatwy w budowaniu zestaw zawiera 44 elemen
 - Łatwy w budowaniu;
 - Idealny dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 6482964-1: https://a.allegroimg.com/original/114f41/66643462412fb76873391cc74eb9
+
 ---
 
-## 75915 — Lego Jurassic World 75915 Pojmanie pteranodona Nowe
+## 75915 — Pteranodon Capture
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 824.00 zł · EAN: 05702015366380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75915 |
+| Nazwa angielska | Pteranodon Capture |
+| Nazwa polska | Pteranodon Capture |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 22 cm × gł. 9 cm |
+| EAN | 5702015366380 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -320,11 +519,27 @@ Uwaga! Pteranodon pochwycił żołnierza ACU i próbuje z nim uciec. Wraz z Simo
 - Wymiary helikoptera Jurassic One: 9 cm wysokości, 18 cm długości i 22 cm szerokości 
 - Wymiary pteranodona: 9 cm długości i 20 cm szerokości
 
+**Galeria:**
+
+- 75915-1: https://a.allegroimg.com/original/11b2c3/02eef2ff480989233f065004e574
+
 ---
 
-## 75916 — Lego Jurassic World 75916 Zasadzka dilofozaura Nowe
+## 75916 — Zasadzka dilofozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 967.00 zł · EAN: 05702015366397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75916 |
+| Nazwa angielska | Dilophosaurus Ambush |
+| Nazwa polska | Zasadzka dilofozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 248 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702015366397 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -351,11 +566,27 @@ Zestaw klocków **LEGO 75916 Jurassic World Zasadzka dilofozaura **został zapre
 - Wysokość dilofozaura: 7 cm
 - Średnica kuli żyroskopowej: 6 cm
 
+**Galeria:**
+
+- 75916-1: https://a.allegroimg.com/original/11c3c6/ae0ffc99416fa9f2413767d058c6
+
 ---
 
-## 75918 — Lego 75918 Jurassic World Tropiciel Tyranozaura Dinozaur T-Rex
+## 75918 — 75918
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702015366410 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75918 |
+| Nazwa angielska | T. rex Tracker |
+| Nazwa polska | 75918 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 520 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015366410 |
 
 **Stan zestawu: idealny 10/10 zapieczętowany**
 
@@ -365,11 +596,27 @@ Pomóż, schwytać olbrzymiego T-Rexa, który jakimś cudem wydostał się z lab
 
 W tym zestawie klocków LEGO Jurassic World znajdziesz, 3 figurki: Trooper ACU, Hoskins i weterynarz, olbrzymiego Tyranozaura z ruchomymi kończynami i szczęką, liczne klocki LEGO do budowy maszyny ( z kabiną dla figurek, koła z gumowymi olbrzymimi oponami, klatka na dinozaury i harpun z możliwością wystrzału), motocykl oraz inne akcesoria z klocków LEGO.
 
+**Galeria:**
+
+- 75918-1: https://a.allegroimg.com/original/118ea4/48e0bc7c477ab48d84a5895879fb
+
 ---
 
-## 75920 — Lego Jurassic World 75920 Ucieczka raptora Nowe
+## 75920 — 75920
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1319.00 zł · EAN: 05702015366434 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75920 |
+| Nazwa angielska | Raptor Escape |
+| Nazwa polska | 75920 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 394 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 18 cm × gł. 20 cm |
+| EAN | 5702015366434 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -398,11 +645,27 @@ Zestaw klocków **LEGO Jurassic World Ucieczka raptora **został przedstawiony w
 - Wymiary terenówki: 4 cm wysokości, 7 cm długości i 5 cm szerokości
 - Wysokość raptorów (Delta i Echo): 7 cm
 
+**Galeria:**
+
+- 75920-1: https://a.allegroimg.com/original/11a3ef/050f1d5b452caa9fadd0638ba8d4
+
 ---
 
-## 75926 — Lego Jurassic World Pościg za pteranodonem 75926
+## 75926 — 75926
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 351.97 zł · EAN: 05702016110173 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75926 |
+| Nazwa angielska | Pteranodon Chase |
+| Nazwa polska | 75926 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702016110173, 673419281768 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -437,11 +700,28 @@ Rozegraj scenę szaleńczego pościgu zainspirowaną filmem Jurassic World™ i 
 - Szybka terenówka ma ok. 8 cm wysokości, 10 cm długości i 6 cm szerokości.
 - Pteranodon ma ok. 3 cm wysokości.
 
+**Galeria:**
+
+- 75926-1: https://a.allegroimg.com/original/05bfc5/a0d5309b4c07b8269c3e005aab1a
+- 75926-2: https://a.allegroimg.com/original/11d8f3/e45f2dd9436abbe0b047ce01de4f
+
 ---
 
-## 75927 — Lego 75927 Jurassic World Ucieczka z laboratorium ze stygimolochem Unikat
+## 75927 — 75927
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 695.00 zł · EAN: 00673419281799 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75927 |
+| Nazwa angielska | Stygimoloch Breakout |
+| Nazwa polska | 75927 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 222 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 15 cm × gł. 23 cm |
+| EAN | 5702016110203, 673419281799 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -468,11 +748,28 @@ Pomóż stygimolochowi w ucieczce w tym emocjonującym zestawie zainspirowanym f
 - Ten ciekawy zestaw dla chłopców i dziewczynek jest odpowiedni dla dzieci w wieku 6–12 lat.
 - Laboratorium i zagroda mają ok. 15 cm wysokości, 15 cm szerokości i 23 cm głębokości.
 
+**Galeria:**
+
+- 75927-1: https://a.allegroimg.com/original/11b79e/7dba0fd14a36be3fa942f21a26d0
+- 75927-2: https://a.allegroimg.com/original/035798/d0ce5c4c418b9f16030968664ff2
+
 ---
 
-## 75929 — Klocki Lego Jurassic World Zestaw Ucieczka przed Dinozaur karnotaurem 75929
+## 75929 — Jurrasic World Ucieczka przed karnotaurem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 829.00 zł · EAN: 05702016110241 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75929 |
+| Nazwa angielska | Carnotaurus Gyrosphere Escape |
+| Nazwa polska | Jurrasic World Ucieczka przed karnotaurem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 577 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110241 |
 
 **Przeżyj dreszcz emocji w Jurassic World z zestawem LEGO 75929 Ucieczka przed karnotaurem!**
 
@@ -516,11 +813,27 @@ Wkrocz do niebezpiecznego, prehistorycznego świata z zestawem **LEGO Jurassic W
 
 **Przygotuj się na pełną napięcia ucieczkę przed karnotaurem w świecie LEGO Jurassic World! Dodaj ten emocjonujący zestaw do swojej kolekcji już dziś!**
 
+**Galeria:**
+
+- 75929-1: https://a.allegroimg.com/original/031826/d2bff70d46dbb75daaef3d94db67
+
 ---
 
-## 75930 — Lego 75930 Jurassic World Atak Indoraptora
+## 75930 — ATAK INDORAPTORA
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 2499.99 zł · EAN: 00673419281850 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75930 |
+| Nazwa angielska | Indoraptor Rampage at Lockwood Estate |
+| Nazwa polska | ATAK INDORAPTORA |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1019 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 16 cm × gł. 22 cm |
+| EAN | 5702016110265, 673419281850 |
 
 **ZESTAW  KLOCKÓW LEGO**
 
@@ -555,11 +868,28 @@ Wkrocz do niebezpiecznego, prehistorycznego świata z zestawem **LEGO Jurassic W
 - **Indoraptor ma ok. 12 cm wysokości.**
 - **Czaszka triceratopsa ma ok. 8 cm wysokości, 9 cm szerokości i 6 cm głębokości.**
 
+**Galeria:**
+
+- 75930-1: https://f.allegroimg.com/original/036f6a/08cd7aad4745a9386bceb9d4203f
+- 75930-2: https://a.allegroimg.com/original/05dedd/4efc912249ca8410d3947f0df4af
+
 ---
 
-## 75931 — Lego Jurassic World 75931 Atak dilofozaura na posterunek
+## 75931 — Atak dilofozaura na posterunek
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 695.00 zł · EAN: 05702016159967 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75931 |
+| Nazwa angielska | Dilophosaurus Outpost Attack |
+| Nazwa polska | Atak dilofozaura na posterunek |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 289 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 37 cm × gł. 6 cm |
+| EAN | 5702016159967 |
 
 LEGO Atak dilofozaura na posterunek 75931
  
@@ -578,11 +908,27 @@ Pomóż myśliwym odeprzeć agresywny Atak dilofozaura na posterunek w tym cieka
 - Posterunek ma ok. 14 cm wysokości, 37 cm szerokości i 6 cm głębokości. 
 - Dilofozaur ma ok. 7 cm wysokości.
 
+**Galeria:**
+
+- 75931-1: https://a.allegroimg.com/original/11126a/c9e3200b42c1bb77c8b52773499a
+
 ---
 
-## 75932 — Lego Jurassic World 75932 Pościg raptorów Nowe
+## 75932 — LEGO Jurassic World, Pościg raptorów, zestaw klocków, 75932
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 538.00 zł · EAN: 05702016110272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75932 |
+| Nazwa angielska | Jurassic Park Velociraptor Chase |
+| Nazwa polska | LEGO Jurassic World, Pościg raptorów, zestaw klocków, 75932 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 360 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110272 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -606,11 +952,27 @@ Odtwórz klasyczną scenę z oryginalnego filmu Park Jurajski w tym ciekawym zes
 - Ukryj dzieci przed welociraptorem w szafce w kuchni. 
 - Ten zestaw z dinozaurami jest odpowiedni dla dzieci w wieku 7–12 lat.
 
+**Galeria:**
+
+- 75932-1: https://a.allegroimg.com/original/118229/4a84c72e479dae8ef813649e52a3
+
 ---
 
-## 75933 — Klocki Lego Jurassic World Zestaw Transport tyranozaura 75933
+## 75933 — Jurassic World Transport tyranozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702016110296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75933 |
+| Nazwa angielska | T-Rex Transport |
+| Nazwa polska | Jurassic World Transport tyranozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 609 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm |
+| EAN | 5702016110296 |
 
 Klocki LEGO Jurassic World Zestaw Transport tyranozaura 75933
 
@@ -644,11 +1006,27 @@ Zestaw **LEGO Jurassic World Transport tyranozaura 75933** to ekscytujący zesta
 
 **Wymiary ciężarówki: **ok. 8 cm wysokości, 14 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 75933-1: https://3.allegroimg.com/original/0301dc/55ccca3e42a78fe6bad4305ec843
+
 ---
 
-## 75934 — Lego Jurassic World 75934 Dilofozaur na wolności
+## 75934 — Dilofozaur na wolności
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702016367225 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75934 |
+| Nazwa angielska | Dilophosaurus on the Loose |
+| Nazwa polska | Dilofozaur na wolności |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 11 cm |
+| EAN | 5702016367225 |
 
 Ekscytująca zabawka z dinozaurem z Jurassic World do odgrywania misji ratunkowych.
  
@@ -665,11 +1043,27 @@ Emocjonujące przygody czekają na dzieci, które zbudują drona Owena Grady’e
 - Dron-helikopter ma ok. 4 cm wysokości, 11 cm długości i 11 cm szerokości. 
 - Stragan ma ok. 9 cm wysokości, 10 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 75934-1: https://a.allegroimg.com/original/054923/074c036848daab24e9c86c07d353
+
 ---
 
-## 75935 — Lego Jurassic World Zestaw Starcie z barionyksem Dinozaury 75935
+## 75935 — Starcie z barionyksem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016367232 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75935 |
+| Nazwa angielska | Baryonyx Face-Off: The Treasure Hunt |
+| Nazwa polska | Starcie z barionyksem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 434 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016367232 |
 
 Niesamowity zestaw kolekcjonerski z dinozaurem Jurassic World do zabawy w emocjonujące poszukiwanie skarbów!
 
@@ -695,11 +1089,27 @@ Dzięki tej zabawce kolekcjonerskiej dzieci mogą na własny sposób odgrywać e
 
 Ten zestaw konstrukcyjny LEGO to idealny prezent dla dzieci, które są miłośnikami dinozaurów.
 
+**Galeria:**
+
+- 75935-1: https://a.allegroimg.com/original/030d4d/03f943b945758c39f245950f2d48
+
 ---
 
-## 75936 — Lego 75936 Jurassic World Park Jurajski: atak tyranozaura
+## 75936 — Park Jurajski: Atak Tyranozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1699.98 zł · EAN: 05702016367249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75936 |
+| Nazwa angielska | Jurassic Park: T. rex Rampage |
+| Nazwa polska | Park Jurajski: Atak Tyranozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 42 cm × szer. 48 cm × gł. 14 cm |
+| EAN | 5702016367249 |
 
 Klocki LEGO Jurassic World 75936 - Park Jurajski: atak tyranozaura
 
@@ -734,11 +1144,27 @@ Zestaw LEGO Jurassic World - Park Jurajski: atak tyranozaura trafił do sprzed
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 75936-1: https://a.allegroimg.com/original/05392f/994f0a7147b2ba7e72c8fb3e4d21
+
 ---
 
-## 75937 — Klocki Lego Jurassic World Zestaw Dinozaur Atak Triceraptora 75937
+## 75937 — 75937
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702016542691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75937 |
+| Nazwa angielska | Triceratops Rampage |
+| Nazwa polska | 75937 |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 447 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 12 cm × gł. 19 cm |
+| EAN | 5702016542691 |
 
 LEGO Jurassic World Atak Triceraptora 75937
 
@@ -761,11 +1187,27 @@ Maluchom spodoba się odgrywanie emocjonujących przygód z dinozaurami w zestaw
 - Ogrodzenie wybiegu dinozaura ma ok. 10 cm wysokości, 25 cm szerokości i 5 cm głębokości.
 - Samochodzik ma ok. 3 cm wysokości, 6 cm długości i 4 cm szerokości.
 
+**Galeria:**
+
+- 75937-1: https://a.allegroimg.com/original/057148/ac74e6e3443b856ec00a6f02b26d
+
 ---
 
-## 75938 — Lego Jurassic World 75938 Tyranozaur kontra mechaniczny dinozaur Opis
+## 75938 — Tyranozaur kontra mechaniczny dinozaur
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1129.00 zł · EAN: 05702016542707 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75938 |
+| Nazwa angielska | T. rex vs Dino-Mech Battle |
+| Nazwa polska | Tyranozaur kontra mechaniczny dinozaur |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 716 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702016542707 |
 
 Emocjonująca zabawka z tyranozaurem z serii Jurassic World dla dzieci, które chcą urządzić pojedynek z mechanicznym dinozaurem!
  
@@ -788,11 +1230,27 @@ Pełne akcji przygody w świecie dinozaurów czekają na maluchy w zestawie LEGO
 
 Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 75938-1: https://a.allegroimg.com/original/119d7e/c6207fa6441d804d784d792bc663
+
 ---
 
-## 75939 — Lego Jurassic World Laboratorium doktora Wu 75939
+## 75939 — Laboratorium doktora Wu
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 239.00 zł · EAN: 05702016616620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75939 |
+| Nazwa angielska | Dr. Wu's Lab: Baby Dinosaurs Breakout |
+| Nazwa polska | Laboratorium doktora Wu |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616620 |
 
 - **Nazwa polska:** LEGO 75939 Laboratorium doktora Wu: ucieczka młodych dinozaurów
 - **Nazwa oryginalna:** LEGO 75939 Dr. Wu's Lab: Baby Dinosaurs Breakout​
@@ -807,11 +1265,27 @@ Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 - **Rok prezentacji:** 2020
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 75939-1: https://a.allegroimg.com/original/05bb2c/393ee45947389510a42f3d94bae3
+
 ---
 
-## 75940 — Lego Jurassic World 75940 Gallimim i pteranodon: ucieczka
+## 75940 — Gallimim i pteranodon: ucieczka
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 537.44 zł · EAN: 05702016616637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75940 |
+| Nazwa angielska | Gallimimus and Pteranodon Breakout |
+| Nazwa polska | Gallimim i pteranodon: ucieczka |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 391 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616637 |
 
 Niebezpieczeństwo! W parku Jurassic World ktoś wyłączył zasilanie i dinozaury uciekły! Wybierz się pojazdem badawczym do dżungli wraz z Owenem i Claire, aby to sprawdzić. Wystrzel drony, by odszukać pteranodona i gallimima. Aby je schwytać, będziesz potrzebować wyrzutni sieci i strzelby ze środkiem uspokajającym. Gdy tylko wszystkie dinozaury wrócą bezpiecznie na swój teren, przeprowadź badania w pokładowym laboratorium.
  
@@ -821,11 +1295,27 @@ Przygody z odgrywaniem ról W zestawie dzieci znajdą też trzy minifigurki LEGO
  
 Zabawki konstrukcyjne LEGO Jurassic World zawierają odlewane figurki dinozaurów do złożenia, minifigurki, szczegółowe pojazdy i nie tylko, więc idealnie nadają się na prezent urodzinowy dla fanów w każdym wieku. Pozwalają ponownie przeżyć sceny z filmów fabularnych i seriali animowanych, wymyślać własne historie lub po prostu budować kolekcjonerskie modele do postawienia na półce.
 
+**Galeria:**
+
+- 75940-1: https://a.allegroimg.com/original/0551c2/8a2dad6d4edbad503eea9e0fe68d
+
 ---
 
-## 75941 — Lego Jurassic World Zestaw Indominus Rex kontra ankylozaur 75941
+## 75941 — Indominus Rex kontra ankylozaur
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1399.00 zł · EAN: 05702016616644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75941 |
+| Nazwa angielska | Indominus rex vs. Ankylosaurus |
+| Nazwa polska | Indominus Rex kontra ankylozaur |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 537 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616644 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -849,11 +1339,27 @@ Zabawki konstrukcyjne LEGO Jurassic World zawierają odlewane figurki dinozauró
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 75941-1: https://a.allegroimg.com/original/054c02/2d5c1bc44fde839117cbf8a3463c
+
 ---
 
-## 75942 — Lego Jurassic World Welociraptor: Na Ratunek Dwupłatowcem 75942
+## 75942 — Welociraptor: na ratunek dwupłatowcem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 269.17 zł · EAN: 05702016616651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75942 |
+| Nazwa angielska | Velociraptor: Biplane Rescue Mission​ |
+| Nazwa polska | Welociraptor: na ratunek dwupłatowcem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 16 cm |
+| EAN | 5702016616651 |
 
 WELOCIRAPTOR: NA RATUNEK DWUPŁATOWCEM
 
@@ -881,11 +1387,27 @@ Ucieka przez dżunglę swoją terenówką, ale zły welociraptor jest tuż za ni
 
 • Klocki i elementy LEGO® są rygorystycznie testowane, więc możesz mieć pewność, że ten świetny model do zbudowania spełnia najwyższe światowe standardy jakości i bezpieczeństwa — mógłby przetrwać nawet atak dinozaura!
 
+**Galeria:**
+
+- 75942-1: https://a.allegroimg.com/original/11ac19/72bd44fb4780924b1d99d0c6f2c4
+
 ---
 
-## 76939 — Lego 76939 Jurassic World Ucieczka stygimolocha
+## 76939 — Ucieczka stygimolocha
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 220.00 zł · EAN: 05702017079721 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76939 |
+| Nazwa angielska | Stygimoloch Dinosaur Escape |
+| Nazwa polska | Ucieczka stygimolocha |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 16 cm × gł. 10 cm |
+| EAN | 5702017079721 |
 
 LEGO 76939 JURASSIC WORLD Ucieczka stygimolocha
 
@@ -906,11 +1428,27 @@ Zestawy do budowania LEGO® 4+ wprowadzą małe dzieci w świat ulubionych film
 - Elementy LEGO® od 1958 roku niezmiennie spełniają wysokie standardy branżowe, dzięki czemu są jednolite, można je z łatwością połączyć i mocno się trzymają.
 - Elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu można mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76939-1: https://a.allegroimg.com/original/11bc10/b6030f1c4a3f9172d62a8a46e10c
+
 ---
 
-## 76940 — Lego Wystawa skamieniałości tyranozaura 76940
+## 76940 — T-Rex Dinosaur Fossil Exhibition
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 196.00 zł · EAN: 05702017079738 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76940 |
+| Nazwa angielska | T. rex Dinosaur Fossil Exhibition |
+| Nazwa polska | T-Rex Dinosaur Fossil Exhibition |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 198 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm |
+| EAN | 5702017079738 |
 
 Budowanie własnej wystawy skamieniałości tyranozaura (76940) to doskonała okazja do poszerzenia wiedzy o dinozaurach. Masz w domu małego miłośnika dinozaurów, który zasłużył na prezent? Podaruj mu zestaw LEGO® Jurassic World z ruchomym szkieletem tyranozaura na podstawce, tablicą do rysowania, wskazówką i figurką małego triceratopsa.
  
@@ -935,11 +1473,27 @@ W gamie zestawów LEGO Jurassic World można znaleźć zestawy, które ucieszą 
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu mocno się trzymają i pozwalają budować solidne modele. 
 - Elementy i klocki LEGO® są skrupulatnie testowane, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76940-1: https://a.allegroimg.com/original/11d34a/885898e046ffa82799022d1c312a
+
 ---
 
-## 76942 — Klocki Lego Jurassic World Zestaw Barionyks i ucieczka łodzią 76942
+## 76942 — Barionyks i ucieczka łodzią
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 679.00 zł · EAN: 05702017079752 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76942 |
+| Nazwa angielska | Baryonyx Dinosaur Boat Escape |
+| Nazwa polska | Barionyks i ucieczka łodzią |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 308 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 13 cm |
+| EAN | 5702017079752 |
 
 Zestaw LEGO® Jurassic World Barionyks i ucieczka łodzią (76942) to okazja, by przeżyć przygody na wodzie. To pierwszy zestaw LEGO Jurassic World, w którym znalazły się łodzie — a do tego jedna z nich naprawdę pływa! Ta klockowa łódź nie zatonie, nawet gdy umieścisz w niej ruchomą figurkę barionyksa. Na łodzi jest klatka dla dinozaura, obrotowy reflektor i mostek, który można odłączyć, by łatwiej było sięgnąć do ładowni.
 
@@ -969,11 +1523,26 @@ Elementy LEGO® są zgodne z rygorystycznymi standardami branżowymi, dzięki cz
 
 Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76942-1: https://a.allegroimg.com/original/05ece5/9739120e4f38a3a1a45f483fa0dc
+
 ---
 
-## 76943 — Lego Jurassic World 76943 Pościg za pteranodonem
+## 76943 — Pościg za pteranodonem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 123.89 zł · EAN: 05702016913422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76943 |
+| Nazwa angielska | Pteranodon Chase |
+| Nazwa polska | Pościg za pteranodonem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 94 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 13 cm |
+| EAN | 5702016694253, 5702016913422 |
 
 LEGO Jurassic World 76943 Pościg za pteranodonem
 
@@ -1005,11 +1574,28 @@ W tym niesamowitym zestawie inspirowanym filmem „Jurassic World Dominion” zn
 - Zabawa, która rozwija kreatywność — zestawy konstrukcyjne LEGO® Jurassic World 4+ nadają się na pierwsze zabawki z dinozaurami. Bawiąc się nimi, dzieci uczą się budowaniai rozwijają wyobraźnię
 - Wysoka jakość — elementy LEGO® spełniają wymogi najwyższych standardów branżowych, dzięki czemu zawsze do siebie pasują i mocno się trzymają, co pozwala tworzyć solidne modele
 
+**Galeria:**
+
+- 76943-1: https://a.allegroimg.com/original/111cc8/3ef8915b477ca4977b69c8adbc60
+- 76943-2: https://a.allegroimg.com/original/251df9/1bbf6a4e4b908068a7fa7c0fbe62
+
 ---
 
-## 76944 — Zestaw Lego Jurassic World 76944 Ucieczka Tyranozaura
+## 76944 — Klocki LEGO Jurassic World 76944 Ucieczka tyranozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 365.00 zł · EAN: 05702016913439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76944 |
+| Nazwa angielska | T. rex Dinosaur Breakout |
+| Nazwa polska | Klocki LEGO Jurassic World 76944 Ucieczka tyranozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 140 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 16 cm × gł. 6 cm |
+| EAN | 5702016913439 |
 
 ZESTAW LEGO JURASSIC WORLD - 76944 - UCIECZKA TYRANOZAURA
 
@@ -1047,31 +1633,79 @@ Konstrukcja została zaprojektowana tak, aby dzieci mogły bawić się samodziel
 
 LEGO Jurassic World 76944 to idealny zestaw dla dzieci, które uwielbiają dinozaury, pojazdy i emocjonujące historie pełne akcji. Łączy w sobie prostotę budowania, bogactwo elementów oraz możliwość odgrywania dynamicznych scen ucieczki tyranozaura, co gwarantuje długie godziny zabawy. To świetny wybór na prezent urodzinowy, świąteczny lub bez okazji, ponieważ rozwija wyobraźnię, kreatywność i zachęca do wspólnego budowania z rodziną. Dzięki swojej uniwersalności i atrakcyjnej tematyce zestaw sprawdzi się zarówno jako pierwsze LEGO, jak i element większej kolekcji Jurassic World.
 
+**Galeria:**
+
+- 76944-1: https://a.allegroimg.com/original/05cbe6/ecc590124e10836d70c5f03f0252
+
 ---
 
-## 76945 — Lego Jurrasic World Atrociraptor pościg na motorze
+## 76945 — Atrociraptor: pościg na motocyklu
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702016913514 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76945 |
+| Nazwa angielska | Atrociraptor Dinosaur: Bike Chase |
+| Nazwa polska | Atrociraptor: pościg na motocyklu |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 169 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm × gł. 13 cm |
+| EAN | 5702016913514 |
 
 Lego JURRASIC WORLD Atrociraptor pościg na motorze
 
 Zestaw z dinozaurami i motocyklem dzieci mogą jeszcze raz przeżyć przygodę z filmu Jurassic World Dominion dzięki zestawowi At = rociraptor: pościg na motocyklu (76945)Dwie minifigurki LEGO(R) i dinozaury Owen Grady i Rainn Delacourt z bronią ze środkiem usypiającym, ruchoma figurka atrociraptora i dwie figurki małych dinozaurów do odgrywania rólWiele elementów zachęcających do zabawy motocykl dla Owena, targ do zbudowania, przewracany mur, przez który mogą się przebić atrociraptor lub motocykl, oraz obrotowa arena dla małych dinozaurówPomysł na prezent dla dzieci w wieku od sześciu lat tym zestawem można się bawić w pojedynkę lub ze znajomymi. Podaruj go na urodziny, pod choinkę lub z innej okazji kreatywnym dzieciomCiekawe połączenie targ ma ok. 6 cm wysokości, 17 cm szerokości i 13 cm głębokości. Model można połączyć z zestawem Ucieczka tyranozaura i atrociraptora (76948)Proste instrukcje chcesz kupić ten 169-elementowy zestaw dziecku, które stawia dopiero pierwsze kroki w świecie LEGO(R)? Bez obaw. W komplecie znajdują się szczegółowe instrukcje, więc nawet nowicjusze poczują się pewnie podczas budowania
 
+**Galeria:**
+
+- 76945-1: https://a.allegroimg.com/original/11f86c/dad2f28f4975b8711099d8e58248
+
 ---
 
-## 76946 — Lego Jurrasic World Schwytanie welociraptorów
+## 76946 — Schwytanie welociraptorów Blue i Bety
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 243.93 zł · EAN: 05702016913521 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76946 |
+| Nazwa angielska | Blue & Beta Velociraptor Capture |
+| Nazwa polska | Schwytanie welociraptorów Blue i Bety |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 6 cm |
+| EAN | 5702016913521 |
 
 Lego JURRASIC WORLD Schwytanie welociraptorów
 
 Zestaw z dinozaurami i furgonetką zestaw konstrukcyjny Schwytanie welociraptorów Blue i Bety (76946) pozwala dzieciom odgrywać sceny z filmu Jurassic World Dominion oraz wymyślać własne historieDwie minifigurki LEGO(R) i dwa dinozaury Maisie i Rainn Delacourt z bronią ze środkiem usypiającym, ruchoma figurka dinozaura Blue i figurka dinozaura Bety do odgrywania przygódFurgonetka, klatka dla dinozaurów i motocykl do zbudowania klatka mieści się na pace furgonetki i można w niej zamknąć Betę. W zestawie jest też nóżka kurczaka, który służy za przynętę dla dinozaurówPomysł na prezent dla dzieci w wieku od sześciu lat tą zabawką konstrukcyjną można się bawić w pojedynkę lub ze znajomymi. Podaruj ją na urodziny, pod choinkę lub z innej okazji kreatywnym dzieciomZbuduj i połącz furgonetka ma ok. 6 cm wysokości, 14 cm długości i 6 cm szerokości, a cały zestaw można połączyć z innymi zabawkami konstrukcyjnymi LEGO(R) Jurassic WorldSzczegółowe instrukcje chcesz kupić ten 181-elementowy zestaw dziecku, które stawia pierwsze kroki w świecie LEGO(R)? Bez obaw. W komplecie znajdują się proste instrukcje z obrazkami, dzięki którym nawet nowicjusze samodzielnie złożą model
 
+**Galeria:**
+
+- 76946-1: https://a.allegroimg.com/original/111d58/5c68ab3f4a99a66bf702e1bf522b
+
 ---
 
-## 76947 — Lego Jurassic World 76947 Kecalkoatl: zasadzka z samolotem
+## 76947 — Kecalkoatl: zasadzka z samolotem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 407.99 zł · EAN: 05702016913538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76947 |
+| Nazwa angielska | Quetzalcoatlus Plane Ambush |
+| Nazwa polska | Kecalkoatl: zasadzka z samolotem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 306 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 30 cm |
+| EAN | 5702016913538 |
 
 LEGO Jurassic World 76947 Kecalkoatl: zasadzka z samolotem
  
@@ -1103,11 +1737,27 @@ Odgrywaj pełne emocji sceny z filmu „Jurassic World Dominion” podczas zabaw
 - Oferta LEGO® Jurassic World — fani w każdym wieku znajdą coś dla siebie bez względu na to, czy wolą odtwarzać niesamowite sceny, wymyślać własne historie, czy też po prostu budować kolekcjonerskie modele, którymi można się później pochwalić 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO® na niemal każdy możliwy sposób, aby mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76947-1: https://a.allegroimg.com/original/1115a6/1e813f5847278fa7e58164c0ba93
+
 ---
 
-## 76948 — Lego Jurassic World 76948 Ucieczka tyranozaura i atrociraptora
+## 76948 — Ucieczka tyranozaura i atrociraptora
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 649.99 zł · EAN: 05702016913545 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76948 |
+| Nazwa angielska | T. rex & Atrociraptor Dinosaur Breakout |
+| Nazwa polska | Ucieczka tyranozaura i atrociraptora |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 26 cm × gł. 9 cm |
+| EAN | 5702016913545 |
 
 LEGO Jurassic World 76948 Ucieczka tyranozaura
  
@@ -1134,11 +1784,27 @@ W ofercie wysokiej jakości zestawów LEGO Jurassic World można znaleźć zabaw
 - Najwyższa jakość bez kompromisów — elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu pasują do siebie, mocno się trzymają i pozwalają budować solidne modele 
 - Bezpieczeństwo potwierdzone testami — klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76948-1: https://a.allegroimg.com/original/0515d4/07d085594b55aaa3b3aab35aa13a
+
 ---
 
-## 76949 — Lego Jurassic World Zestaw Dino Atak giganotozaura i terizinozaura 76949
+## 76949 — Atak giganotozaura i terizinozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016913552 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76949 |
+| Nazwa angielska | Giganotosaurus & Therizinosaurus Attack |
+| Nazwa polska | Atak giganotozaura i terizinozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 810 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913552 |
 
 LEGO Jurassic World 76949 Atak giganotozaura i terizinozaura
 
@@ -1164,11 +1830,27 @@ Elementy najwyższej jakości — elementy LEGO® spełniają surowe standardy b
 
 Dzięki temu mamy pewność, że każdy z nich spełnia wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76949-1: https://a.allegroimg.com/original/293384/3d59adec41f197aa2c7d73cde237
+
 ---
 
-## 76950 — Lego Jurassic World Triceratops i zasadzka 76950
+## 76950 — Triceratops i zasadzka z pick-upem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 227.14 zł · EAN: 05702016696646 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76950 |
+| Nazwa angielska | Triceratops Pickup Truck Ambush |
+| Nazwa polska | Triceratops i zasadzka z pick-upem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 210 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016696646, 5702016971668 |
 
 **LEGO Jurassic World Triceratops i zasadzka z pick-upem 76950**
 
@@ -1188,11 +1870,28 @@ W ofercie LEGO® Jurassic World fani w każdym wieku znajdą coś dla siebie bez
 - Gwarancja jakości — elementy LEGO® spełniają surowe standardy branżowe, dzięki czemu są spójne, łatwo się łączą i mocno trzymają
 - Bezpieczeństwo przede wszystkim — klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób i gruntownie badane, dzięki czemu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76950-1: https://a.allegroimg.com/original/110db2/68778e7a40ae9555d0b3ad2100d3
+- 76950-2: https://a.allegroimg.com/original/111581/6a45ef844c09b7b0b8f4f44ee301
+
 ---
 
-## 76951 — Lego Jurassic World 76951 Transport pyroraptora i dilofozaura
+## 76951 — Transport pyroraptora i dilofozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 319.00 zł · EAN: 05702016973877 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76951 |
+| Nazwa angielska | Pyroraptor & Dilophosaurus Transport |
+| Nazwa polska | Transport pyroraptora i dilofozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 8 cm |
+| EAN | 5702016973877 |
 
 LEGO Jurassic World 76951 Transport pyroraptora i dilofozaura
 
@@ -1226,11 +1925,27 @@ W ofercie LEGO Jurassic World fani w każdym wieku znajdą zabawki konstrukcyjne
 
 - Bezpieczeństwo przede wszystkim — klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby i dokładnie sprawdzane, dzięki czemu mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76951-1: https://a.allegroimg.com/original/11621a/f2d9b7bb44c4b2fa6249547a5cb6
+
 ---
 
-## 76956 — Lego Jurassic World 76956 Tyranozaur na wolności
+## 76956 — Tyranozaur na wolności
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 680.00 zł · EAN: 05702017190006 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76956 |
+| Nazwa angielska | T. rex Breakout |
+| Nazwa polska | Tyranozaur na wolności |
+| Seria | Jurassic World |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017190006 |
 
 Klocki LEGO Jurassic World 76956 - Tyranozaur na wolności
  
@@ -1240,11 +1955,26 @@ Wspaniały prezentTen kolekcjonerski model to wspaniały prezent dla każdego do
  
 Od magii kina aż po cuda świata, ikony popkultury i nie tylko — dla każdego znajdzie się odpowiedni zestaw.
 
+**Galeria:**
+
+- 76956-1: https://a.allegroimg.com/original/059e9d/d9f2157e4e80aaab5bf26d433816
+
 ---
 
-## 76957 — Zestaw Lego Jurassic World 76957 Ucieczka Welociraptora
+## 76957 — Klocki LEGO Jurassic World 76957 Ucieczka Velociraptora
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 183.88 zł · EAN: 05702017421926 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76957 |
+| Nazwa angielska | Velociraptor Escape |
+| Nazwa polska | Klocki LEGO Jurassic World 76957 Ucieczka Velociraptora |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2023 |
+| Liczba elementów | 137 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm × gł. 11 cm |
+| EAN | 5702017421926 |
 
 ZESTAW LEGO JURASSIC WORLD - 76957 - UCIECZKA WELOCIRAPTORA
 
@@ -1286,11 +2016,27 @@ Model można także łączyć z innymi zestawami z serii LEGO Jurassic World, dz
 
 Zestaw LEGO Jurassic World 76957 to doskonały wybór dla małych fanów dinozaurów, pojazdów i filmowych przygód. Łączy on łatwe budowanie z atrakcyjnymi funkcjami. Dzięki 137 elementom dziecko może samodzielnie lub z niewielką pomocą osoby dorosłej stworzyć ciekawy model, a następnie wykorzystać go do wielogodzinnej kreatywnej zabawy. Możliwość połączenia z innymi zestawami LEGO Jurassic World pozwala w przyszłości rozbudować kolekcję i stworzyć jeszcze większy świat pełen dinozaurów. To świetny pomysł na prezent urodzinowy, upominek pod choinkę albo niespodziankę bez okazji. Zestaw będzie doskonałym wyborem dla dziecka, które dopiero zaczyna swoją przygodę z LEGO i fascynuje się światem dinozaurów.
 
+**Galeria:**
+
+- 76957-1: https://a.allegroimg.com/original/05f552/54c45e064afebed82ad1e5eed6fb
+
 ---
 
-## 76958 — Lego Jurassic Atak dilofozaura 76958
+## 76958 — Atak dilofozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 286.21 zł · EAN: 05702017421933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76958 |
+| Nazwa angielska | Dilophosaurus Ambush |
+| Nazwa polska | Atak dilofozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421933 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1318,11 +2064,27 @@ Zestaw zawiera figurkę dilofozaura i Jeepa z "Parku Jurajskiego" do zbudowania 
 
 LEGO Builder Dzieci mogą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy. Zabawa z dinozaurami Zestawy LEGO Jurassic World zawierają odlewane figurki dinozaurów do złożenia, minifigurki i szczegółowe pojazdy pozwalające bawić się w odgrywanie scenek z filmów fabularnych i seriali animowanych, wymyślać własne historie lub po prostu budować kolekcjonerskie modele do postawienia na półce.
 
+**Galeria:**
+
+- 76958-1: https://a.allegroimg.com/original/0515cb/d7f4e85a41e88c6499d2ac001c54
+
 ---
 
-## 76959 — Lego Jurassic World 76959 Badanie triceratopsa
+## 76959 — Badanie triceratopsa
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 285.45 zł · EAN: 05702017421940 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76959 |
+| Nazwa angielska | Triceratops Research |
+| Nazwa polska | Badanie triceratopsa |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702017421940 |
 
 LEGO 76959 Jurassic World Badanie triceratopsa
 
@@ -1380,11 +2142,27 @@ Uważaj! Jest triceratops i nie wygląda za dobrze. Wyskocz z terenówki i zajmi
  
 • Klocki LEGO są testowane pod kątem zgodności z surowymi światowymi standardami bezpieczeństwa.
 
+**Galeria:**
+
+- 76959-1: https://a.allegroimg.com/original/05c4d9/8401af5a4837870c193292bd8d1b
+
 ---
 
-## 76960 — Lego Jurassic World Odkrycie brachiozaura 76960
+## 76960 — Odkrycie brachiozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 488.00 zł · EAN: 05702017421957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76960 |
+| Nazwa angielska | Brachiosaurus Discovery |
+| Nazwa polska | Odkrycie brachiozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 512 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 6 cm |
+| EAN | 5702017421957 |
 
 LEGO 76960 Jurassic World Odkrycie brachiozaura
 
@@ -1440,11 +2218,27 @@ Wskocz do Jeepa Wranglera z Johnem Hammondem i gośćmi, dr Ellie Sattler i dr A
  
 • Elementy LEGO spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76960-1: https://a.allegroimg.com/original/054ae7/232217e34d14b233430509d14050
+
 ---
 
-## 76962 — Lego Jurassic World 76962 Mały Ankylozaur Bumpy
+## 76962 — MAŁY ANKYLOZAUR BUMPY
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 129.49 zł · EAN: 05702017583174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76962 |
+| Nazwa angielska | Baby Bumpy: Ankylosaurus |
+| Nazwa polska | MAŁY ANKYLOZAUR BUMPY |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 358 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm |
+| EAN | 5702017583174 |
 
 LEGO Jurassic World
 
@@ -1492,21 +2286,53 @@ Specyfikacja zestawu:
 
 - **Ilość elementów: **358
 
+**Galeria:**
+
+- 76962-1: https://a.allegroimg.com/original/05a82a/ca1d743f41349103ab56ad2edf49
+
 ---
 
-## 76963 — Lego Jurassic World 76963 Centrum ratowania małych dinozaurów
+## 76963 — Centrum ratowania małych dinozaurów
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 218.49 zł · EAN: 05702017567150 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76963 |
+| Nazwa angielska | Baby Dinosaur Rescue Center |
+| Nazwa polska | Centrum ratowania małych dinozaurów |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 139 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017567150 |
 
 Centrum ratunkowe dla małych dinozaurów
 
 Jurassic World Centrum ratunkowe dla małych dinozaurów LEGO® Jurassic World Centrum ratunkowe dla małych dinozaurów LEGO® Jurassic World Centrum ratunkowe dla małych dinozaurów 76963 Zainspiruj młodych fanów dinozaurów zestawem LEGO® Jurassic World, który zawiera pięć realistycznych figurek dinozaurów, dwie minifigurki i pojazd z napędem na cztery koła. • Zestaw LEGO® Jurassic World z dinozaurami dla dzieci Mali fani w wieku od czterech lat mogą opiekować się małymi dinozaurami i bawić się z nimi, jednocześnie ucząc się budowania, dzięki zestawowi LEGO® Jurassic World Centrum ratunkowe dla małych dinozaurów (76963). Obejmuje on terenówkę i obszar badawczy ze ścianą jaskini, oba modele z klockiem startowym, a także miejsce do karmienia. Dwie minifigurki, figurki małego ankylozaura, triceratopsa i welociraptora oraz mały welociraptor i dorosły pteranodon sprawiają, że dzieci od razu mogą zacząć zabawę.Obrazkowe instrukcje w tym zestawie są idealne dla dzieci, które dopiero uczą się czytać. Dodatkową cyfrową zabawę zapewnia aplikacja LEGO Builder z intuicyjnymi narzędziami do powiększania i obracania, które pozwalają dzieciom wizualizować budowany model.Zestawy LEGO Jurassic World 4+ wprowadzają najmłodszych w świat ulubionych postaci z filmów i seriali, i doskonale nadają się na prezent. W zestawie znajdują się specjalnie zaprojektowane klocki startowe, dzięki którym nawet początkujący konstruktorzy mogą tworzyć pojazdy, budynki i nie tylko przy odrobinie pomocy starszego rodzeństwa lub osoby dorosłej. Pomóż Dariusowi i Sammy karmić i opiekować się dinozaurami w centrum ratunkowym. Podjedź terenówką do centrum i rozładuj skrzynię. Ustaw jedzenie obok szopy, aby małe dinozaury mogły je znaleźć. O nie — ten wielki pteranodon właśnie ukradł rybę! Popatrz, jak młode jedzą i bawią się. Spójrz… to nowe jajko! Wkrótce na świat przyjdzie nowy mały dinozaur. • Małe dinozaury dla dzieci — zapoznaj chłopców i dziewczynki w wieku od czterech lat z zestawami LEGO® Jurassic World dzięki centrum ratunkowemu dla dinozaurów, aby zainspirować ich do rozwijającej zabawy i działania • Centrum badawcze — pięć figurek dinozaurów: mały ankylozaur, triceratops i welociraptor, mały welociraptor i dorosły pteranodon, a także minifigurki Dariusa i Sammy • Mnóstwo funkcji — zestaw zawiera zbudowaną z klocków terenówkę z napędem na cztery koła, miejsce do karmienia ze ścianą szopy i obszar badawczy z panelami słonecznymi, ścianą jaskini i stanowiskiem komputerowym • Zabawki dla młodych konstruktorów — dzieci mogą uczyć się budowania, jednocześnie rozwijając umiejętności kreatywnego opowiadania historii, bawiąc się w opiekę nad dinozaurami, bronienie centrum i prowadzenie badań • Prezent na specjalną okazję — zestaw dla małych fanów dinozaurów, którzy kochają przygody lub wcielanie się w bohaterów. To świetny prezent urodzinowy lub świąteczny, który zainspiruje do zabawy w Parku Jurajskim • Drukowane i cyfrowe instrukcje — szczegółowe ilustrowane instrukcje znajdziesz w opakowaniu oraz w aplikacji LEGO Builder, która umożliwia przybliżanie i obracanie powstającego modelu • Zabawa, która rozwija kreatywność — zestawy konstrukcyjne LEGO® Jurassic World 4+ nadają się na pierwsze zabawki z dinozaurami.
 
+**Galeria:**
+
+- 76963-1: https://a.allegroimg.com/original/05bc6f/7e912bde4bfdbac1de06bc5ceade
+
 ---
 
-## 76964 — Lego Jurassic World 76964 Skamieniałości Dinozaurów: czaszka T-rexa
+## 76964 — Skamieniałości dinozaurów: czaszka T-rexa
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 199.98 zł · EAN: 05702017583181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76964 |
+| Nazwa angielska | Dinosaur Fossils: T. rex Skull |
+| Nazwa polska | Skamieniałości dinozaurów: czaszka T-rexa |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 577 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583181 |
 
 LEGO Jurassic World 76964 Skamieniałości Dinozaurów: czaszka T-rexa i Ebook
 
@@ -1532,11 +2358,27 @@ Jurassic World Szkielety dinozaurów — czaszka tyranozaura LEGO® Jurassic Wor
 
 ➡️ Otrzymasz oficjalny dokument w formie pliku PDF potwierdzający oryginalność Twojego zestawu LEGO, dając Ci pewność i zadowolenie z zakupu.
 
+**Galeria:**
+
+- 76964-1: https://a.allegroimg.com/original/116116/5e2121024fb382791c0f93362b80
+
 ---
 
-## 76965 — Lego 76965 Dinomisje: odkrycie stegozaura
+## 76965 — DINOMISJE ODKRYCIE STEGOZAURA
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 248.98 zł · EAN: 05702017583198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76965 |
+| Nazwa angielska | Dinosaur Missions: Stegosaurus Discovery |
+| Nazwa polska | DINOMISJE ODKRYCIE STEGOZAURA |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 420 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 5 cm |
+| EAN | 5702017583198 |
 
 LEGO® 76965 Dinomisje: odkrycie stegozaura
 
@@ -1552,11 +2394,27 @@ Intuicyjna aplikacja LEGO Builder poprowadzi młodych fanów dinozaurów przez e
 - Rozwija kreatywność — zestawy LEGO® Jurassic World zostały stworzone, aby pobudzić w dzieciach miłość do zabawkowych dinozaurów, zwierząt i przyrody, pomagając im rozwijać kreatywność i umiejętność opowiadania historii
 - Wymiary — figurka stegozaura w tym 420-elementowym zestawie ma 11 cm wysokości, 22 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 76965-1: https://a.allegroimg.com/original/05996a/0da476ca48619bf3947d088009de
+
 ---
 
-## 76966 — Lego Jurassic World 76966 Dinomisje: ciężarówka do transportu allozaura
+## 76966 — Jurassic World 76966 Misja dinozaurów: transport allozaurów
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 498.89 zł · EAN: 05702017583204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76966 |
+| Nazwa angielska | Dinosaur Missions: Allosaurus Transport Truck |
+| Nazwa polska | Jurassic World 76966 Misja dinozaurów: transport allozaurów |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 588 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 8 cm |
+| EAN | 5702017583204 |
 
 LEGO® 76966 Jurassic World - Dinomisje: ciężarówka do transportu allozaura
 
@@ -1597,21 +2455,52 @@ Kenji, Darius, Yaz i strażnik-kierowca.
 - Rozwija kreatywność — zestawy LEGO® Jurassic World zostały stworzone, aby pobudzić w dzieciach miłość do zabawkowych dinozaurów, pomagając im rozwijać kreatywność i umiejętność opowiadania historii
 - Wymiary — ten **588-elementowy** zestaw zawiera ciężarówkę z przyczepą oraz figurkę allozaura mierzącą 16 cm wysokości, 43 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 76966-1: https://a.allegroimg.com/original/05fb5a/90ed199a4798937550df043110cf
+
 ---
 
-## 76967 — Lego Jurassic World 76967 Tyranozaur Mały Zestaw i Poradnik
+## 76967 — Tyranozaur Mały
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 93.86 zł · EAN: 05702017813943 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76967 |
+| Nazwa angielska | Little Eatie: T. rex |
+| Nazwa polska | Tyranozaur Mały |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 317 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017813943 |
 
 LEGO Jurassic World 76967 Tyranozaur Mały Zestaw i Poradnik
 
 Jurassic World Tyranozaur Mały LEGO® Jurassic World Tyranozaur Mały Zestaw LEGO® Jurassic World Tyranozaur Mały 76967 Zaskocz fanów serialu Park Jurajski: Obóz Kredowy zestawem z małym tyranozaurem, który ma ruchomą głowę, pyszczek, ręce, ogon i nogi. Zestaw LEGO® z dinozaurem dla fanów Parku Jurajskiego Dzięki zestawowi LEGO® Jurassic World Tyranozaur Mały (76967) na małych miłośników dinozaurów w wieku od siedmiu lat czekają ekscytujące przygody i zabawa w opiekę nad małym tyranozaurem. Najpierw młodzi opiekunowie dinozaurów mogą zbudować zestaw, a następnie zanurzyć się w zabawie, odkrywając prehistoryczny świat z postacią znaną z serialu Park Jurajski: Obóz Kredowy oraz Park Jurajski: Teoria chaosu. Zawiera on zbudowaną z klocków figurkę tyranozaura z interaktywnym pyszczkiem imitującym gryzienie oraz ruchomym ogonem i kończynami, które umożliwiają ustawianie w różnych pozach. Po skończonej zabawie zabawkowego dinozaura można z dumą ustawić na biurku lub półce.Ten zestaw dla dzieci idealnie nadaje się do twórczej zabawy i łączenia z innymi modelami LEGO Jurassic World (sprzedawanymi osobno). Ten zestaw LEGO z dinozaurami pozwala dzieciom odtwarzać sceny z serialu animowanego lub pokazać swoją pasję do Parku Jurajskiego. Poręczne wymiary figurki sprawiają, że dzieci będą mogły zabrać ją ze sobą, by bawić się w dowolnym miejscu. Zaopiekuj się najbardziej uroczym tyranozaurem w historii! Zbuduj własnego tyranozaura znanego z serialu Park Jurajski: Obóz Kredowy i dodaj go do swojej kolekcji. Uważaj, bo gryzie wszystko, co wpadnie mu w pyszczek! Ale potrafi być też milutki. Odtwórz sceny z serialu lub podaj dinozaurowi kolację. Może w ramach wdzięczności popilnuje Twojego pokoju!
 
+**Galeria:**
+
+- 76967-1: https://a.allegroimg.com/original/115bbf/3611dcac426695b0b49a5ea930c4
+
 ---
 
-## 76968 — Lego 76968 Jurassic World Szkielety dinozaurów: tyranozaur
+## 76968 — Szkielety dinozaurów: tyranozaur
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 1043.19 zł · EAN: 05702017812557 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76968 |
+| Nazwa angielska | Dinosaur Fossils: Tyrannosaurus Rex |
+| Nazwa polska | Szkielety dinozaurów: tyranozaur |
+| Seria | Jurassic World |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017812557, 5907213510836 |
 
 Jeśli zależy Państwu na jakości otrzymanych zestawów LEGO to trafiliście do idealnego miejsca :)
 
@@ -1640,11 +2529,27 @@ Seria LEGO Jurassic World to świetny prezent dla dorosłych fanów dinozaurów 
  
 - Wymiary zestawu — przywołaj ekscytujące wspomnienia z kultowego filmu Park Jurajski dzięki temu 3145-elementowemu modelowi szkieletu tyranozaura, **który ma 33 cm wysokości**
 
+**Galeria:**
+
+- 76968-1: https://a.allegroimg.com/original/29b919/68400d934cfcb56484a0b1873c7c
+- 76968-2: https://a.allegroimg.com/original/11af8c/22da88f041b5b91c8e3d4447fe4c
+
 ---
 
-## 76969 — Lego 76969 Jurassic World Szkielety dinozaurów: czaszka triceratopsa
+## 76969 — Szkielety dinozaurów: czaszka triceratopsa
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 135.30 zł · EAN: 05702017814193 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76969 |
+| Nazwa angielska | Dinosaur Fossils: Triceratops Skull |
+| Nazwa polska | Szkielety dinozaurów: czaszka triceratopsa |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 468 |
+| Cena katalogowa | 199.99 zł |
+| Wymiary złożonego | wys. 22 cm × szer. 17 cm × gł. 17 cm |
+| EAN | 5702017814193 |
 
 LEGO Jurassic World - Szkielety dinozaurów: czaszka triceratopsa 76969
 
@@ -1670,11 +2575,26 @@ Sprawdź także inne zestawy LEGO Jurassic World (sprzedawane osobno) z modelami
 - Rozwija kreatywność — zestawy LEGO® Jurassic World zostały stworzone, aby pobudzić w dzieciach miłość do zabawkowych dinozaurów, pomagając im rozwijać kreatywność i umiejętność opowiadania historii
 - Wymiary — ten 468-elementowy zestaw LEGO® zawiera czaszkę triceratopsa na podstawce, która mierzy 22 cm wysokości, 17 cm szerokości i 17 cm głębokości
 
+**Galeria:**
+
+- 76969-1: https://a.allegroimg.com/original/11e7b0/a24f1a0848018b470752aab497f3
+
 ---
 
-## 76970 — Lego Jurassic World 76970 Mały dinozaur Dolores: aquilops
+## 76970 — Mały dinozaur Dolores: aquilops
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 77.49 zł · EAN: 05702017812564 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76970 |
+| Nazwa angielska | Baby Dinosaur Dolores: Aquilops |
+| Nazwa polska | Mały dinozaur Dolores: aquilops |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 339 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 15 cm |
+| EAN | 5702017812564 |
 
 LEGO® Jurassic World™ 76970 Mały dinozaur Dolores: aquilops
  
@@ -1725,11 +2645,26 @@ LEGO® Jurassic World™
  
 Odkryj kultowe zestawy LEGO® Jurassic World oraz dinozaury LEGO® Jurassic Park. Zestawy LEGO® Jurassic World to idealny prezent zarówno dla dziewczynek, chłopców, jak i dorosłych, którzy chcą na nowo przeżyć swoje ulubione przygody znane z filmów! W zestawach znajdują się minifigurki bohaterów, dinozaury, laboratoria oraz słynne budynki, które pozwolą Ci do woli budować i bawić się klockami, a także rozwijać swoją pasję do paleontologii. Zestawy LEGO® Jurassic World zawierają wiele rodzajów dinozaurów, takich jak triceratopsy, welociraptory i tyranozaury. Te okazy z pewnością zachwycą początkujących naukowców i naukowczynie!
 
+**Galeria:**
+
+- 76970-1: https://a.allegroimg.com/original/117947/8f5e16ce49e88a1ff0142efe412e
+
 ---
 
-## 76972 — Lego Jurassic World 76972 Ucieczka raptora terenówką
+## 76972 — ucieczka terenówką
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 95.84 zł · EAN: 05702017812779 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76972 |
+| Nazwa angielska | Raptor Off-Road Escape |
+| Nazwa polska | ucieczka terenówką |
+| Seria | Jurassic World |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 285 |
+| Cena katalogowa | 149.99 zł |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017812779 |
 
 LEGO Jurassic World
  
@@ -1771,11 +2706,26 @@ Specyfikacja zestawu:
 - **Wiek dziecka: **od 6 lat 
 - **Płeć dziecka: **chłopcy
 
+**Galeria:**
+
+- 76972-1: https://a.allegroimg.com/original/11b759/30229ddb43549fca8eec5b8a0669
+
 ---
 
-## 76973 — Lego Jurassic World Na Tropie Tytanozaura I Raptora 76973
+## 76973 — Na tropie tytanozaura i raptora
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 359.00 zł · EAN: 05702017812786 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76973 |
+| Nazwa angielska | Raptor & Titanosaurus Tracking Mission |
+| Nazwa polska | Na tropie tytanozaura i raptora |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 582 |
+| Cena katalogowa | 449.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 21 cm × gł. 16 cm |
+| EAN | 5702017812786 |
 
 LEGO Jurassic World - Na tropie tytanozaura i raptora (76973)
 
@@ -1791,11 +2741,26 @@ Specyfikacja i cechy:
 
 Seria: LEGO Jurassic WorldNumer katalogowy: 76973Liczba elementów: 582Liczba minifigurek: 3Wiek: od 7 latWymiary stacji ładującej: ok. 10 cm wysokości, 21 cm szerokości i 16 cm głębokości.Cechy dodatkowe: Funkcja spadającego drzewa, dron z możliwością mocowania do pojazdu lub dachu stacji, ruchome elementy figurek dinozaurów.
 
+**Galeria:**
+
+- 76973-1: https://a.allegroimg.com/original/11ca6d/be3f8484479986a8827f4a5ab228
+
 ---
 
-## 76974 — Lego Jurassic World Misja na łodzi i model mozazaura 76974
+## 76974 — Misja na łodzi i model mozazaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 208.31 zł · EAN: 05702017824826 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76974 |
+| Nazwa angielska | Brick-Built Mosasaurus Boat Mission |
+| Nazwa polska | Misja na łodzi i model mozazaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 858 |
+| Cena katalogowa | 269.99 zł |
+| Wymiary złożonego | wys. 6 cm × szer. 20 cm |
+| EAN | 5702017824826 |
 
 Klocki LEGO® Jurassic World-
 
@@ -1820,11 +2785,26 @@ Aplikacja LEGO Builder prowadzi dzieci przez intuicyjne budowanie, pozwalając i
 - Rozwija kreatywność — zestawy LEGO® Jurassic World zostały stworzone, aby pobudzić w dzieciach miłość do zabawkowych dinozaurów, prehistorycznych zwierząt i przyrody, co pomaga im rozwijać kreatywność i umiejętność opowiadania historii
 - Wymiary dinozaura — zbudowany z klocków mozazaur z tego 858-elementowego zestawu z filmu Jurassic World Rebirth ma 6 cm wysokości, 42 cm długości i 20 cm szerokości
 
+**Galeria:**
+
+- 76974-1: https://a.allegroimg.com/original/11b4ac/c5c277eb400589ad34b6f7047c5c
+
 ---
 
-## 76975 — Lego Jurassic World Ucieczka rzeką przed tyranozaurem 76975
+## 76975 — Ucieczka rzeką przed tyranozaurem
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 159.98 zł · EAN: 05702017849966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76975 |
+| Nazwa angielska | T. rex River Escape |
+| Nazwa polska | Ucieczka rzeką przed tyranozaurem |
+| Seria | Jurassic World |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 199 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017849966 |
 
 **LEGO Jurassic World Ucieczka rzeką przed tyranozaurem 76975**
 
@@ -1848,11 +2828,26 @@ Zestawy LEGO® Jurassic World pomagają rozwijać zainteresowania związane ze z
 
 199-elementowy zestaw z szopą, łodzią i pomostem ma 20 cm szerokości
 
+**Galeria:**
+
+- 76975-1: https://a.allegroimg.com/original/1194bd/a886240a4064865f0d45931b075c
+
 ---
 
-## 76976 — Lego Jurassic World Powietrzna misja z kecalkoatlem i spinozaurem 76976
+## 76976 — Misja lotnicza Spinosaurus i Quetzalcoatl
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 497.89 zł · EAN: 05702017850276 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76976 |
+| Nazwa angielska | Spinosaurus & Quetzalcoatlus Air Mission |
+| Nazwa polska | Misja lotnicza Spinosaurus i Quetzalcoatl |
+| Seria | Jurassic World |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 984 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017850276 |
 
 **LEGO Jurassic World Powietrzna misja z kecalkoatlem i spinozaurem 76976**
 
@@ -1876,11 +2871,26 @@ Zestawy LEGO® Jurassic World pomagają rozwijać zainteresowania związane ze z
 
 Świątynia w tym 984-elementowym zestawie ma 33 cm szerokości
 
+**Galeria:**
+
+- 76976-1: https://a.allegroimg.com/original/11aba8/26119fbb43a2bf3606a0bc2dd080
+
 ---
 
-## 77977 — Lego Jurassic World 77977 Dino Młode: Pteranodon
+## 77977 — Mały dinozaur: Pteranodon
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 73.86 zł · EAN: 05702018062555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77977 |
+| Nazwa angielska | Baby Dinosaur: Pteranodon |
+| Nazwa polska | Mały dinozaur: Pteranodon |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 373 |
+| Cena katalogowa | 104.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062555 |
 
 Opis LEGO Jurassic World Mały dinozaur: Pteranodon 77977
 
@@ -1888,11 +2898,26 @@ Miłośnicy zwierząt w wieku od 7 lat mogą rozwijać swoje umiejętności opie
 
 Pobudź kreatywność małych konstruktorów dzięki temu pomysłowemu prezentowi z dinozaurem, który stanowi świetne uzupełnienie innych kolekcjonerskich zestawów LEGO Jurassic World (sprzedawanych oddzielnie) do zabawy i ozdoby. Chłopcy i dziewczynki mogą budować z większą pewnością siebie, korzystając z aplikacji LEGO Builder, w której można powiększać modele, obracać je w 3D i śledzić postępy dzięki prostym instrukcjom cyfrowym. Zestaw składa się z 373 elementów.
 
+**Galeria:**
+
+- 77977-1: https://a.allegroimg.com/original/11bcdd/8d2e053f4b39ab2b392d344e2b79
+
 ---
 
-## 77978 — Lego Jurassic World Ciężarówka do transportu młodego tyranozaura 77978
+## 77978 — Ciężarówka do transportu młodego tyranozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702018062562 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77978 |
+| Nazwa angielska | Young T. rex Transport Truck |
+| Nazwa polska | Ciężarówka do transportu młodego tyranozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2026 |
+| Liczba elementów | 115 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062562 |
 
 **LEGO Jurassic World Ciężarówka do transportu młodego tyranozaura 77978**
 
@@ -1918,11 +2943,26 @@ Pobierz aplikację LEGO® Builder, w której znajdziesz interaktywne instrukcje 
 
 115-elementowy zestaw z ciężarówką transportową i klatką ma 9 cm wysokości
 
+**Galeria:**
+
+- 77978-1: https://a.allegroimg.com/original/11ce9f/59f8a8f7429da5e6828442c857e4
+
 ---
 
-## 77982 — Lego Jurassic World Ucieczka spinozaura 77982
+## 77982 — Ucieczka spinozaura
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 224.99 zł · EAN: 05702018273401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77982 |
+| Nazwa angielska | Spinosaurus Dinosaur Escape |
+| Nazwa polska | Ucieczka spinozaura |
+| Seria | Jurassic World |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 820 |
+| Cena katalogowa | 299.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 36 cm × gł. 8 cm |
+| EAN | 5702018062685, 5702018273401 |
 
 Klocki LEGO® Jurassic World-
 
@@ -1945,11 +2985,27 @@ W zestawie LEGO® Jurassic World Ucieczka spinozaura (77982) czekają na fanów 
 - POMOC W BUDOWANIU — odkryj cyfrowe instrukcje budowania w aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając nowe umiejętności
 - WYMIARY — ten 820-elementowy zestaw z figurką spinozaura ma 16 cm wysokości, 36 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 77982-1: https://a.allegroimg.com/original/11dec1/7f217009495088510944a4cb8769
+- 77982-2: https://a.allegroimg.com/original/111ff9/83accc9b43e4a5bbcb75ffe54649
+
 ---
 
-## 77983 — Lego Jurassic World Atak mozazaura na łódź 77983
+## 77983 — Atak mozazaura na łódź
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 450.00 zł · EAN: 05702018277300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77983 |
+| Nazwa angielska | Mosasaurus Dinosaur Boat Attack |
+| Nazwa polska | Atak mozazaura na łódź |
+| Seria | Jurassic World |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 703 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062692, 5702018277300 |
 
 LEGO – Jurassic World Atak mozazaura na łódź – 77983, 703 elementy, 7+
 
@@ -1989,11 +3045,27 @@ Bezpłatna aplikacja LEGO Builder : interaktywne instrukcje 3D, powiększanie i 
 
 Zestaw 77983 dostarcza dziecku czegoś, czego same figurki nie są w stanie zapewnić: pełny scenariusz zabawy z jasno zarysowanym konfliktem, prawdziwymi stronami akcji i wystarczającą liczbą elementów, by każda sesja mogła wyglądać inaczej. Mozazaur atakuje, katamaran ucieka, helikopter interweniuje — logika zabawy jest natychmiast zrozumiała nawet dla siedmiolatka, który nigdy nie widział filmu. Dla starszego fana Jurassic World to z kolei możliwość odtworzenia konkretnych scen z Odrodzenia z postaciami i pojazdami bezpośrednio zaczerpniętymi z fabuły. Kompatybilność z innymi zestawami serii sprawia, że zakup tego zestawu jest punktem wejścia do kolekcji, a nie pozycją zamkniętą. Na urodziny, Mikołajki lub każdą inną okazję wymagającą prezentu dla dziecka od 7 do 12 lat, to wybór, który łączy budowanie, odgrywanie ról i narrację filmową w jednym opakowaniu.
 
+**Galeria:**
+
+- 77983-1: https://a.allegroimg.com/original/11810e/216883564c6b939155c6ec640d75
+- 77983-2: https://a.allegroimg.com/original/11943b/cfc6721e4ec2afb0af8b59c64ad7
+
 ---
 
-## 77984 — Lego Jurassic World: Jurassic Park Jeep Wrangler 77984
+## 77984 — Jurassic Park Jeep Wrangler
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 749.99 zł · EAN: 05702018067420 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77984 |
+| Nazwa angielska | Jurassic Park Jeep Wrangler |
+| Nazwa polska | Jurassic Park Jeep Wrangler |
+| Seria | Jurassic World |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1924 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018067420 |
 
 **LEGO Jurassic World: Jurassic Park Jeep Wrangler 77984**
 
@@ -2017,11 +3089,26 @@ Zestaw należy do kolekcji premium dla dorosłych, którzy lubią kreatywne zaj�
 
 Jeep® Wrangler w tym 1924-elementowym zestawie ma 34 cm długości
 
+**Galeria:**
+
+- 77984-1: https://a.allegroimg.com/original/11d5d2/604801874af691ccccfca94a1967
+
 ---
 
-## 77985 — Lego Jurassic World 77985 Skamieniałość dinozaura: Triceratops
+## 77985 — Szkielety dinozaurów: triceratops
 
-*Kategoria: Jurassic World · cena Allegro (2026-08-17): 298.99 zł · EAN: 05702018062708 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77985 |
+| Nazwa angielska | Dinosaur Fossils: Triceratops |
+| Nazwa polska | Szkielety dinozaurów: triceratops |
+| Seria | Jurassic World |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1154 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018062708 |
 
 LEGO Jurassic World 77985 Szkielety dinozaurów: triceratops
  
@@ -2040,6 +3127,10 @@ Ten zestaw z modelem oraz inne zestawy LEGO Jurassic World (sprzedawane oddzieln
 - Powiększ kolekcję — dzięki aplikacji LEGO® Builder możesz budować modele korzystając z instrukcji 3D, śledzić swoje postępy i zapisywać wszystkie zestawy w aplikacji. 
 - Zestawy konstrukcyjne z dinozaurami — ten kolekcjonerski zestaw można połączyć z innymi wysokiej jakości zestawami szkieletów LEGO® Jurassic World (każdy sprzedawany oddzielnie) dla dorosłych, którzy lubią projekty kreatywne. 
 - Wymiary — przeżyj na nowo ekscytujące wspomnienia z oryginalnego Parku Jurajskiego dzięki temu modelowi triceratopsa, składającego się z 1154 elementów. Figurka ma 22 cm wysokości.
+
+**Galeria:**
+
+- 77985-1: https://a.allegroimg.com/original/11e4b0/fc1fdd324150b1aeaf7036ef0211
 
 ---
 

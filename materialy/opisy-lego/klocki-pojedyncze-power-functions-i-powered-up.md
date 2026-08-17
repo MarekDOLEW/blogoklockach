@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Klocki pojedyncze > Power Functions i Powered UP — opisy produktowe (25 pozycji)
 
-## 45507 — Lego czujnik dotyku 45507 do Mindstorms EV3 31313 i 45544
+## 45507 — EV3 Touch Sensor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 49.90 zł · EAN: 00673419196406 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45507 |
+| Nazwa angielska | EV3 Touch Sensor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419196406 |
 
 - **MARKA: LEGO**
 - **RODZAJ: Czujnik dotyku EV3**
@@ -21,11 +31,26 @@ autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
 
 **Model 45507 pasuje m.in. do EV3 31313 czy 45544**
 
+**Galeria:**
+
+- 45507-1: https://a.allegroimg.com/original/11c46e/d1216622432993cd236350de6b66
+
 ---
 
-## 45603 — Lego Education Spike Prime Średni silnik 45603
+## 45603 — Medium Angular Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 229.00 zł · EAN: 00673419306249 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45603 |
+| Nazwa angielska | Medium Angular Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419306249 |
 
 LEGO SPIKE Prime - Silnik średni 45603
 
@@ -52,11 +77,26 @@ Cechy silnika średniego:
 - możliwość integracji z innymi modelami LEGO,
 - moment obrotowy silnika 3,5 Ncm, prędkość obrotowa do 135 obr/min (inne źródło podaje: moment obrotowy 4,5 Ncm, prędkość obrotowa 155-160 rpm, moment maksymalny/utyku 14Ncm).
 
+**Galeria:**
+
+- 45603-1: https://a.allegroimg.com/original/1107d4/1473fd8f4386893f65c782253169
+
 ---
 
-## 45605 — Lego Mindstorms 51515 czujnik koloru 45605 Edu
+## 45605 — Color Sensor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 67.99 zł · EAN: 00673419306966 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45605 |
+| Nazwa angielska | Color Sensor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419306966 |
 
 Dzień dobry,
 
@@ -84,11 +124,26 @@ Cechy czujnika koloru:
 - emisja światła białego
 - możliwość integracji z budowanymi modelami LEGO
 
+**Galeria:**
+
+- 45605-1: https://a.allegroimg.com/original/11dc5a/826f6c7145528c9a3d3fa2ebcc3a
+
 ---
 
-## 45609 — Lego Technic Mały Hub 45609
+## 45609 — Small Hub
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016685923 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45609 |
+| Nazwa angielska | Small Hub |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 2 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016685923 |
 
 **NOWY HUB LEGO SPIKE 45609**
 
@@ -109,11 +164,26 @@ Zaawansowany, a jednocześnie prosty w obsłudze Mały HUB LEGO® Technic™ ł�
  
 Rzeczywiste zdjęcia poniżej
 
+**Galeria:**
+
+- 45609-1: https://a.allegroimg.com/original/118d2b/1cf2aad04a048ca133e96dada4e3
+
 ---
 
-## 45612 — Spike Essential akumulator do małego huba 45612
+## 45612 — Small Hub Battery
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702016686234 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 45612 |
+| Nazwa angielska | Small Hub Battery |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016686234 |
 
 Opis LEGO 45612 Akumulator do małego Huba Technic
 
@@ -130,11 +200,78 @@ Właściwości
 
 LEGO 45612 Akumulator do małego Huba Technic został wydany w roku 2021. Zestaw zawiera 1 element. W zestawie znajdują się bez minifigurek og 24 książeczki instruktażowe. Zestaw jest odpowiedni dla dzieci w wieku od 6 lat.
 
+**Galeria:**
+
+- 45612-1: https://a.allegroimg.com/original/1154fb/cf51e2ed4c3d85ac3ffecd95f3b3
+
 ---
 
-## 6214088 — Lego Powered Up Hub bb0961c01 do 88012 42099 42129
+## 60198 — Pociąg towarowy
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 159.69 zł · EAN: 00673419387781 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 60198 |
+| Nazwa angielska | Cargo Train |
+| Nazwa polska | Pociąg towarowy |
+| Seria | City |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1226 |
+| Cena katalogowa | 829.99 zł |
+| Wymiary złożonego | wys. 11 cm × szer. 6 cm |
+| EAN | 5702016109788, 5702016109795 |
+
+LEGO City 60198 Pociąg towarowy
+ 
+Załaduj towary na potężny pociąg z zestawu LEGO® City 60198 Pociąg towarowy i dostarcz je na czas. Ten ciekawy pojazd z serii LEGO City wyposażony jest w silnik z 10-biegowym pilotem Bluetooth, otwieraną kabinę maszynisty, wagon z obracanym i wysuwanym dźwigiem, wagon towarowy z dwoma kontenerami oraz wagon towarowy na drewno.
+ 
+W zestawie jest także wóz opancerzony z otwieranymi drzwiami oraz wózek widłowy z otwieraną klatką bezpieczeństwa i podnoszonymi widłami. Do tego fantastycznego zestawu LEGO dołączony jest okrągły tor składający się z 16 zakrzywionych i 16 prostych fragmentów, a także zwrotnica kolejowa z dźwignią, centrum zarządzania ruchem kolejowym z drabiną, dwie palety do zbudowania z banknotami, sztabki złota, skuter śnieżny oraz sześć minifigurek LEGO.
+
+ 
+- W zestawie sześć minifigurek LEGO®: czterech pracowników kolei, ochroniarz i złodziejaszek. 
+- Pojazd wyposażony jest w silnik z 10-biegowym pilotem Bluetooth, pantograf na otwieranym dachu oraz kabinę maszynisty z panelem sterowania. 
+- Do pociągu można doczepić wagon towarowy na drewno, wagon z obracanym i wysuwanym dźwigiem oraz wagon towarowy z dwoma kontenerami, które mają haki do ładowania na dachu i miejsce na palety. 
+- W zestawie jest centrum zarządzania ruchem kolejowym wyposażone w drabinę i sygnalizację świetlną, okrągły tor składający się z 16 zakrzywionych i 16 prostych fragmentów torów, zwrotnica kolejowa z dźwignią, samochód do przewozu pieniędzy z otwieranymi drzwiami oraz działający wózek widłowy z otwieraną klatką bezpieczeństwa. 
+- Akcesoria: klucz, 12 sztabek złota, cztery banknoty, dwie palety do zbudowania, trzy kłody drewna i skuter śnieżny. 
+- Otwórz dach, by zajrzeć do lokomotywy pełnej ciekawych detali. 
+- Steruj pociągiem towarowym za pomocą 10-biegowego pilota Bluetooth. 
+- Podnieś kłody drewna i załaduj je na wagon dźwigiem z obrotowym i ruchomym wysięgnikiem. 
+
+ 
+- Włóż palety do kontenerów wózkiem widłowym, a potem podnieś je dźwigiem i załaduj na wagon towarowy. 
+- Ustaw tory w różnych konfiguracjach i transportuj ładunki po swoim mieście. 
+- Typ i liczbę potrzebnych baterii znajdziesz na opakowaniu produktu. 
+- Pilot Bluetooth dołączony do zestawu nie jest zgodny ze starszymi modelami pociągów LEGO® sterowanych na podczerwień. 
+- Pociąg towarowy ma ok. 11 cm wysokości, 82 cm długości i 6 cm szerokości. 
+- Silnik ma ok. 11 cm wysokości, 27 cm długości i 6 cm szerokości. 
+- Wagon na drewno ma ok. 5 cm wysokości, 15 cm długości i 6 cm szerokości. 
+- Wagon z dźwigiem ma ok. 10 cm wysokości, 22 cm długości i 5 cm szerokości. 
+- Wagon z kontenerami ma ok. 9 cm wysokości, 18 cm długości i 5 cm szerokości. 
+- Wóz opancerzony ma ok. 6 cm wysokości, 15 cm długości i 6 cm szerokości. 
+- Centrum zarządzania ruchem kolejowym ma ok. 21 cm wysokości, 8 cm szerokości i 12 cm głębokości. 
+- Wózek widłowy ma ok. 7 cm wysokości, 5 cm szerokości i 12 cm głębokości.
+
+**Galeria:**
+
+- 60198-1: https://a.allegroimg.com/original/118495/13493afb4c6d8564e91d67421cde
+- 60198-2: https://a.allegroimg.com/original/25d235/b78478d04016b5ac32626d5e4bb6
+
+---
+
+## 6214088 — ?
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6214088 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419334334, 673419387781 |
 
 Numer elementu: 88012 22127 bb0961c01 bb1295c01
  
@@ -150,11 +287,26 @@ Tchnij życie w swoje modele LEGO® Technic dzięki temu hubowi Powered Up LEGO 
 - Moduł przeznaczony do użytku z systemem LEGO® Technic. 
 - Świetny dodatek do projektów związanych z przedmiotami ścisłymi oraz robotyką.
 
+**Galeria:**
+
+- 6214088-1: https://a.allegroimg.com/original/114b40/336b78a04e2ba58d1dadcaf8a083
+
 ---
 
-## 88000 — Klocek konstrukcyjny Pudełko Na Baterie Aaa
+## 88000 — Power Functions AAA Battery Box
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419148283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88000 |
+| Nazwa angielska | Power Functions AAA Battery Box |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419148283 |
 
 **Pojemnik na baterie Power Box 88000 (Kompatybilny z Technic Power Functions)**
 
@@ -176,11 +328,26 @@ Dzięki przemyślanej obudowie łatwo wkomponujesz go w dowolną konstrukcję, a
 
 Przywróć ruch swoim budowlom i stwórz zaawansowany projekt RC bez przepłacania!
 
+**Galeria:**
+
+- 88000-1: https://a.allegroimg.com/original/11673e/6ef17f16428eb41dda196a21edda
+
 ---
 
-## 88005 — Lego Lampka Powered Up Led 88005
+## 88005 — Light
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 45.00 zł · EAN: 00673419296366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88005 |
+| Nazwa angielska | Light |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419296366 |
 
 LEGO Lampka Powered Up LED 88005
 
@@ -199,11 +366,26 @@ Charakterystyka:
 
 Rzeczywiste zdjęcia poniżej.
 
+**Galeria:**
+
+- 88005-1: https://a.allegroimg.com/original/032b32/d26380f044688e5c4da87559b021
+
 ---
 
-## 88006 — Lego 88006 Power Functions Element Move Hub
+## 88006 — Move Hub
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 329.99 zł · EAN: 05702016398137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88006 |
+| Nazwa angielska | Move Hub |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016398137 |
 
 LEGO Element Move Hub 88006
  
@@ -214,11 +396,26 @@ Za pomocą elementu Move Hub z zestawu LEGO® Powered Up 88006 możesz poruszy�
 - Z aplikacją LEGO® Powered Up można połączyć się za pomocą technologii Bluetooth®. 
 - Typ i liczbę potrzebnych baterii znajdziesz na opakowaniu produktu.
 
+**Galeria:**
+
+- 88006-1: https://a.allegroimg.com/original/11b3fd/7791b8224b7b856b3b07858c02e1
+
 ---
 
-## 88007 — Lego 88007 Czujnik koloru i odległości
+## 88007 — Color & Distance Sensor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 350.99 zł · EAN: 00673419309073 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88007 |
+| Nazwa angielska | Color & Distance Sensor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419309073 |
 
 LEGO 88007 Czujnik koloru i odległości
 
@@ -294,11 +491,26 @@ Podłącz czujnik koloru i odległości z zestawu LEGO Powered Up 88007 do eleme
  
 52.87
 
+**Galeria:**
+
+- 88007-1: https://a.allegroimg.com/original/252a92/bc7d2ede4e3cbed5d401be42819e
+
 ---
 
-## 88008 — Silnik Średni 45303 do WeDo 2.0/Move H M poweredup zamiennik Lego
+## 88008 — Medium Linear Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 94.49 zł · EAN: 00673419309080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88008 |
+| Nazwa angielska | Medium Linear Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419309080 |
 
 Silnik Średni Liniowy -  45303 do zestawu WeDo 2.0 oraz do elementów Powered Up Hub albo Move Hub.
 
@@ -306,11 +518,26 @@ Podłącz prosty średni silnik liniowy do elementów Wedo 2.0,  Powered Up Hub
 
 Na innych moich aukcjach dostępne pozostałe akcesoria do Wedo 2.0 oraz Power functions
 
+**Galeria:**
+
+- 88008-1: https://a.allegroimg.com/original/115546/b3518fae441a9f35cdd061bb9b22
+
 ---
 
-## 88009 — Klocki Lego Kolejka Powered Up Box Dla Dzieci Do Makiet Hub 88009
+## 88009 — Hub (Battery Box)
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 251.94 zł · EAN: 00673419309097 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88009 |
+| Nazwa angielska | Hub (Battery Box) |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419279031, 673419309097 |
 
 Klocki LEGO Kolejka Powered Up Dla Dzieci Do Makiet Hub 88009
 
@@ -365,11 +592,27 @@ Nie, system Powered Up korzysta z nowszych, cyfrowych wtyczek o kwadratowym prze
 - **Zasilanie:** 6x bateria AAA (brak w zestawie)
 - **Zastosowanie:** Pociągi LEGO City (60198, 60197, 60336, 60337), lokomotywa 10277, autorskie projekty MOC
 
+**Galeria:**
+
+- 88009-1: https://a.allegroimg.com/original/11ecfe/09d3f293415293915ffcf6a6d667
+- 88009-2: https://a.allegroimg.com/original/114884/806414e74477bd019aba118c2979
+
 ---
 
-## 88011 — Lego City 88011 Silnik do Pociagów Powered Up 60198 60511 60337 60508 60509
+## 88011 — Train Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 95.94 zł · EAN: 00673419309110 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88011 |
+| Nazwa angielska | Train Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419309110 |
 
 Lego City 88011 Silnik do Pociagów Powered UP 60198 60511 60337 60508 60509
 
@@ -423,11 +666,26 @@ Wymiary zewnętrzne samego bloku silnika są identyczne i pasują do starych pod
 - **Kompatybilne źródła zasilania:** LEGO Move Hub (88006), LEGO Hub (88009)
 - **Zastosowanie:** Pociągi LEGO City (60197, 60198, 60336, 60337), Krokodyl 10277, makiety kolejowe MOC
 
+**Galeria:**
+
+- 88011-1: https://a.allegroimg.com/original/11ced6/1aeda4bd4df2b590edae8fdd795e
+
 ---
 
-## 88012 — Lego 88012 Technic Powered Up Hub
+## 88012 — Technic Hub
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 238.00 zł · EAN: 00673419365307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88012 |
+| Nazwa angielska | Technic Hub |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419365307 |
 
 **Aukcja dotyczy:**
 
@@ -487,11 +745,26 @@ Wymiary elementu dł. x szer. x wys: 50 x 50 x 28 cm
 
 LPNIC066915093
 
+**Galeria:**
+
+- 88012-1: https://a.allegroimg.com/original/1164d3/8e3b75144139812c20addc2bc970
+
 ---
 
-## 88013 — Lego Powered Up Duży silnik Technic 88013 bb0959c01
+## 88013 — Technic Large Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 139.00 zł · EAN: 00673419334341 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88013 |
+| Nazwa angielska | Technic Large Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419334341 |
 
 LEGO Powered Up | Duży silnik Technic 88013
 
@@ -514,11 +787,26 @@ Charakterystyka:
 
 Cena dotyczy jednej sztuki. Rzeczywiste zdjęcia poniżej.
 
+**Galeria:**
+
+- 88013-1: https://a.allegroimg.com/original/1173f5/d495a07643b0bfb7643e9722dba9
+
 ---
 
-## 88014 — Lego Technic 88014 Powered Up XL Silnik nowy
+## 88014 — Technic XL Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 849.99 zł · EAN: 00673419333979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88014 |
+| Nazwa angielska | Technic XL Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419333979 |
 
 Dodaj mocy swoim modelom LEGO® Technic dzięki silnikowi XL Powered Up LEGO Technic (88014). Ten niezwykle potężny silnik doskonale nadaje się do najbardziej wymagających zadań, takich jak obracanie kołami lub podnoszenie ciężkich przedmiotów.
  
@@ -536,11 +824,26 @@ Dodaj mocy swoim modelom LEGO® Technic dzięki silnikowi XL Powered Up LEGO Tec
  
 • Wymagane jest posiadanie huba Powered Up LEGO® Technic (sprzedawanego osobno).
 
+**Galeria:**
+
+- 88014-1: https://a.allegroimg.com/original/11eeea/336fd67a4124bfcdcf8e1f3096f7
+
 ---
 
-## 88015 — Lego Power Functions 88015 Schowek Na Baterie Tech
+## 88015 — Battery Box
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 118.88 zł · EAN: 00673419349154 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88015 |
+| Nazwa angielska | Battery Box |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419349154, 673419365314 |
 
 LEGO POWER FUNCTIONS
 
@@ -560,11 +863,27 @@ CECHY ZESTAWU:
 - Produkt wymaga 6 baterii AA (brak w zestawie).
 - Kompatybilny z aplikacją LEGO® Technic CONTROL+.
 
+**Galeria:**
+
+- 88015-1: https://a.allegroimg.com/original/11d7fe/9e8dc74642e4ac026d0188086457
+- 88015-2: https://a.allegroimg.com/original/119555/0a2d388442e69cddac10be691dce
+
 ---
 
-## 88016 — Lego Powered Up Duży Hub 88016
+## 88016 — Technic Large Hub
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 999.90 zł · EAN: 05702017190532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88016 |
+| Nazwa angielska | Technic Large Hub |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017190532 |
 
 LEGO Powered Up Duży Hub 88016
 
@@ -601,11 +920,26 @@ Tchnij życie w modele LEGO z dużym Hubem Technic LEGO Powered Up 88016! Hub do
 - **Liczba figurek [szt]:** 0 
 - **Zasilanie:** Akumulator 7.8V / 2100 mAh
 
+**Galeria:**
+
+- 88016-1: https://a.allegroimg.com/original/11f3f4/8648e92540779c0de5fa04ee5331
+
 ---
 
-## 88017 — Klocek Lego Powered Up 88017 Duży serwomotor
+## 88017 — Large Angular Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 225.00 zł · EAN: 00673419362153 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 88017 |
+| Nazwa angielska | Large Angular Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419362153 |
 
 LEGO Technic Large Angular Motor V46 88017
 
@@ -630,11 +964,26 @@ Interaktywne modele nabiorą życia dzięki LEGO Powered Up. Połącz duży serw
 
 3343/2026/120s
 
+**Galeria:**
+
+- 88017-1: https://a.allegroimg.com/original/11f169/a8ee71e5470eab09444cce59dcb6
+
 ---
 
-## 8870 — Diody Technic 8870 Światła Power Functions oświetlenie Pf
+## 8870 — Power Functions Light
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 49.33 zł · EAN: 00673419243865 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8870 |
+| Nazwa angielska | Power Functions Light |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419243865 |
 
 Diody LED  Technic 8870 Power Functions. Bardzo dobrze świecą, kolor jasny biały. Używane min. w konstrukcjach technic (samochody, ciągniki etc), pociągach oraz do punktowego rozświetlania makiet. Z czystym sumieniem mogę je polecić.
 
@@ -646,11 +995,26 @@ Długość od kostki do diody: 25
 
 Długość całkowita: 53 cm
 
+**Galeria:**
+
+- 8870-1: https://a.allegroimg.com/original/118945/ef4b056c4ae9b3e25d0bbce745aa
+
 ---
 
-## 8871 — Lego Technic Power Functions 8871 Przewód 50 cm
+## 8871 — Power Functions Extension Wire 50cm
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 128.88 zł · EAN: 00673419104456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8871 |
+| Nazwa angielska | Power Functions Extension Wire 50cm |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419104456 |
 
 Klocki LEGO Power Functions 8871 - Przewód 50 cm
 
@@ -660,33 +1024,26 @@ Zestaw LEGO Power Functions - Przewód 50 cm trafił do sprzedaży w 2009 roku
 
  ****
 
----
+**Galeria:**
 
-## 8879 — 8879 Power Functions pilot Ir odbiornik do pociągu kolejki train 8884
-
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 146.49 zł · EAN: 00673419137072 · in stock*
-
-Pilot duży do pociągu + odbiornik, zami ennik
-
-**TECHNIC Power Function pilot 8879 + odbiornik IR 8884.**
-
-- Wzbogać modele o funkcje sterowane pilotem! Wbuduj w modele odbiornik podczerwieni i uruchamiaj niesamowite funkcje i ruchy jednym kliknięciem pilota
-
-Zdjęcia są mojego autorstwa i przedstawiają sprzedawany towar.
-
-Produkt posiada CE
-
-**W skład zestawu wchodzi:**
-
-**-Pilot**
-
-**-Odbiornik**
+- 8871-1: https://a.allegroimg.com/original/1118f6/0db05db04a63acc3b0a05533d32a
 
 ---
 
-## 8881 — Pojemnik na baterie do silnika 8.8.8.1 z funkcją zasilania Schowek 8881
+## 8881 — Power Functions Battery Box
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 48.00 zł · EAN: 00673419243872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8881 |
+| Nazwa angielska | Power Functions Battery Box |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015146227, 673419243872 |
 
 Schowek na baterie
 
@@ -724,11 +1081,27 @@ Materiał: tworzywo sztuczne
 
 Kolor: szary
 
+**Galeria:**
+
+- 8881-1: https://a.allegroimg.com/original/112ca3/66dbadf74b77891052df28f20a7e
+- 8881-2: https://a.allegroimg.com/original/11adb7/3160910741b093a203cb7585196a
+
 ---
 
-## 8882 — Power Functions 8882 XL Motor 88003 technic motor L M Function
+## 8882 — Power Functions XL-Motor
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 72.44 zł · EAN: 00673419104555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8882 |
+| Nazwa angielska | Power Functions XL-Motor |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 1 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419104555 |
 
 **Power Functions  8882 XL Motor technic motor**
 
@@ -740,11 +1113,26 @@ Najmocniejszy silnik w gamie Power Functions. Dobrze nadaje się do napędzania 
 
 Silnik XL Power Functions to najwyższej jakości silnik, który zapewni moc niezbędną do napędzania największych i najbardziej zaawansowanych modeli. Dzięki swojej wydajności doskonale nadaje się do dużych projektów robotycznych i ruchomych konstrukcji. Łatwy w użyciu, z szybkim systemem podłączenia. Idealny dla dzieci i dorosłych pasjonatów klocków!
 
+**Galeria:**
+
+- 8882-1: https://a.allegroimg.com/original/11407d/9439abc04025bbafe53f8996178c
+
 ---
 
-## 97866 — Power Functions Zestaw 5 element XL Pilot Odbiornik 8881 8883 8884 Function
+## 97866 — ?
 
-*Kategoria: Klocki pojedyncze > Power Functions i Powered UP · cena Allegro (2026-08-17): 251.99 zł · EAN: 06978340060555 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 97866 |
+| Nazwa angielska | — |
+| Nazwa polska | — |
+| Seria | Klocki pojedyncze > Power Functions i Powered UP |
+| Grupa wiekowa | 6 m + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 6978340060555 |
 
 Zestaw 5 sztuk zamienników Power Functions
 
@@ -761,6 +1149,10 @@ W skład zestawu zasilania wchodzi:
 4. Odbiornik zdalnego sterowania.
 
 5)Piny do pilota, śrubokręt do odkręcenia klapki na baterie w pilocie
+
+**Galeria:**
+
+- 97866-1: https://a.allegroimg.com/original/114d78/3be70e6643c1ab207e40410f7338
 
 ---
 

@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Creator — opisy produktowe (199 pozycji)
 
-## 10021 — Lego Creator 10021 U.s.s. Constellation Legend
+## 10021 — U.S.S. CONSTELLATION LEGEND
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1999.00 zł · EAN: 00673419019712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10021 |
+| Nazwa angielska | U.S.S. Constellation |
+| Nazwa polska | U.S.S. CONSTELLATION LEGEND |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2003 |
+| Liczba elementów | 979 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419019712 |
 
 Jedna z pierwszych sześciu fregat, zbudowanych zgodnie z uchwaloną przez kongres w 1794 roku ustawą morską. Pierwszy okręt United States Navy, który wyszedł w morze, pokonał i zdobył nieprzyjacielski okręt.
 
@@ -27,11 +37,26 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 10021-1: https://a.allegroimg.com/original/11a6d2/573306774c799b48781856a116de
+
 ---
 
-## 10024 — Lego Creator 10024 Red Baron
+## 10024 — Red Baron
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 3700.00 zł · EAN: 00673419016087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10024 |
+| Nazwa angielska | Red Baron |
+| Nazwa polska | Red Baron |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 664 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419016087 |
 
 Zestaw LEGO 10024 Red Baron to model kolekcjonerski przedstawiający legendarny trójpłatowy samolot Fokker Dr.I, którym latał słynny pilot Manfred von Richthofen, znany jako Czerwony Baron.
 
@@ -59,11 +84,27 @@ Zestaw jest jednym z nielicznych modeli LEGO przedstawiających pojazd militarny
 
 LEGO 10024 Red Baron to klasyczny, kolekcjonerski model samolotu, ceniony przez fanów lotnictwa i LEGO za szczegółowe wykonanie oraz historyczny charakter. Idealnie nadaje się do ekspozycji jako model dekoracyjny.
 
+**Galeria:**
+
+- 10024-1: https://a.allegroimg.com/original/11204b/f157ad7848168f0f47fd18bec877
+
 ---
 
-## 10214 — Lego Creator 10214 Lego Creator Tower Bridge 10214
+## 10214 — LEGO Creator Tower Bridge 10214
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1329.00 zł · EAN: 05702015013208 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10214 |
+| Nazwa angielska | Tower Bridge |
+| Nazwa polska | LEGO Creator Tower Bridge 10214 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4287 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 45 cm × szer. 26 cm |
+| EAN | 5702015013208, 673419128971 |
 
 ZESTAW KLOCKÓW LEGO 10214 Creator  Expert - Tower Bridge
  
@@ -93,11 +134,28 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 10214-1: https://a.allegroimg.com/original/116df8/acad0fa241cfbde75bfed5278e32
+- 10214-2: https://a.allegroimg.com/original/01af20/1a7b73914ebdaf1c59aeba956c8b
+
 ---
 
-## 10224 — Klocki Lego Creator Zestaw Ratusz 10224
+## 10224 — 10224
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 4299.00 zł · EAN: 05702014846623 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10224 |
+| Nazwa angielska | Town Hall |
+| Nazwa polska | 10224 |
+| Seria | Icons |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2766 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014846623 |
 
 Zestaw LEGO Creator 10224 to wspaniała replika klasycznego budynku modułowego. Każdy szczegół został zaprojektowany z najwyższą dbałością o autentyczność i estetykę.
 
@@ -107,11 +165,26 @@ Zestaw LEGO Creator 10224 to nie tylko wspaniała propozycja dla kolekcjonerów,
 
 Czas dostawy: około 10 dni.
 
+**Galeria:**
+
+- 10224-1: https://a.allegroimg.com/original/033a39/84a94c2d44cbbe15b148326ffd5c
+
 ---
 
-## 10226 — Klocki Lego Creator Expert Zestaw Samolot Sopwith Camel 10226
+## 10226 — LegoSopwith Camel - 10226
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702014846630 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10226 |
+| Nazwa angielska | Sopwith Camel |
+| Nazwa polska | LegoSopwith Camel - 10226 |
+| Seria | Creator |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014846630 |
 
 LEGO Creator Expert 10226 - Sopwith Camel to zestaw konstrukcyjny, który przedstawia klasyczny samolot myśliwski z czasów I wojny światowej. Oto kilka kluczowych informacji o tym modelu:
 
@@ -121,11 +194,27 @@ LEGO Creator Expert 10226 - Sopwith Camel to zestaw konstrukcyjny, który przeds
 - **Detale historyczne**: Sopwith Camel był jednym z najbardziej znanych myśliwców I wojny światowej, a jego wojskowe malowanie można odwzorować dzięki dodatkowemu zestawowi naklejek.
 - **Swoisty styl**: Zestaw wpisuje się w kolekcję LEGO Creator Expert, co oznacza, że jest bardziej złożony i skoncentrowany na detalach niż standardowe zestawy LEGO.
 
+**Galeria:**
+
+- 10226-1: https://4.allegroimg.com/original/05e8f3/38019e384d15a5bcc8f6180675c4
+
 ---
 
-## 10234 — Lego Creator Expert 10234 Gmach opery w Sydney
+## 10234 — 10234
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702014971929 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10234 |
+| Nazwa angielska | Sydney Opera House |
+| Nazwa polska | 10234 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2989 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 63 cm × gł. 38 cm |
+| EAN | 5702014971929 |
 
 Odtwórz jeden z najbardziej charakterystycznych budynków XX wieku — zbuduj model Sydney Opera House™. Zbuduj wyjątkowy dach w kształcie łupin, otwarty teren nad wodą i więcej elementów, tworząc to autentyczne odwzorowanie architektonicznego symbolu Australii. Zdobądź mnóstwo ciemnobrązowych klocków LEGO®, w tym rzadko spotykane klocki ukośne o układzie wypustek 1x1x2/3 i 1x2x2/3, a także — nigdy wcześniej niedostępną — niebieską podstawkę 48x48!
 
@@ -137,27 +226,72 @@ Odtwórz jeden z najbardziej charakterystycznych budynków XX wieku — zbuduj m
 - Odtwórz wyjątkowe dzieło australijskich architektów! 
 - Wymiary: ok. 28 cm wysokości, 63 cm szerokości i 38 cm głębokości
 
+**Galeria:**
+
+- 10234-1: https://a.allegroimg.com/original/111080/be152b83406c95a445ba03f38a1f
+
 ---
 
-## 10235 — Lego Creator 10235 Zimowa wioska- Targ
+## 10235 — Zimowa wioska- Targ
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1500.00 zł · EAN: 05702014971936 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10235 |
+| Nazwa angielska | Winter Village Market |
+| Nazwa polska | Zimowa wioska- Targ |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 9 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971936 |
 
 Stwórz w domu świąteczny nastrój, budując targ w zimowej wiosce kolejny zestaw z popularnej serii zimowej LEGO. Zakręć korbką i przejedź się na konnej karuzeli! Odwiedź stoisko z rozrywkami. Poczęstuj się świątecznymi i festynowymi przysmakami zjedz ciasta, precelki i rogaliki u piekarza, kurczaka i kiełbaskę z grilla albo cukierki na stoisku ze słodyczami. Uczcij święta pełne tradycji i budynków, stawiając targ w zimowej wiosce! Zestaw zawiera 9 minifigurek z akcesoriami: 3 kobiety 2 mężczyzn  4 dzieci Uwaga! Produkt nieodpowiedni dla dzieci poniżej 3 roku życia.
 
+**Galeria:**
+
+- 10235-1: https://a.allegroimg.com/original/11f844/5609539c42daa5ef71a33f332b28
+
 ---
 
-## 10245 — Lego Creator 10245 creator expert
+## 10245 — creator expert
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1450.00 zł · EAN: 05702015122696 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10245 |
+| Nazwa angielska | Santa's Workshop |
+| Nazwa polska | creator expert |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 883 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122696 |
 
 **Sprzedawany zestaw jest NOWY, zamknięty, zaplombowany.**Zestaw klocków LEGO Creator Expert 10245 Warsztat Świętego Mikołaja został przedstawiony w 2014 roku i zbudowany jest z 883 klocków LEGO®. W zestawie klocków znajdziesz również 6 minifigurek. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 12 roku życia.Nazwa zestawu w języku angielskim LEGO Creator - Santa's Workshop
 
+**Galeria:**
+
+- 10245-1: https://a.allegroimg.com/original/11566b/518471ca4c3ba9fb67c7509d4b0f
+
 ---
 
-## 10662 — Lego 10662 Bricks & More Zestaw kreatywny
+## 10662 — Creative Bucket
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 599.99 zł · EAN: 05702014972490 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10662 |
+| Nazwa angielska | Creative Bucket |
+| Nazwa polska | Creative Bucket |
+| Seria | Creator |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2013 |
+| Liczba elementów | 607 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972490 |
 
 LEGO 10662 Bricks & More - Zestaw kreatywny
 
@@ -170,11 +304,27 @@ Dzięki ponad 600 kolorowym elementom kreatywne wiaderko LEGO® oferuje świat n
 - Wytrzymałe wiaderko wielokrotnego użytku ułatwia przechowywanie i przenoszenie klocków LEGO
 - Zawiera przejrzyste instrukcje budowania oraz inspirujące pomysły
 
+**Galeria:**
+
+- 10662-1: https://a.allegroimg.com/original/11a8ca/8295197a4fcbb5b83c4a5a7ca12e
+
 ---
 
-## 11942 — Lego 11942 Explorer Moon Lander Lądownik Księżycowy klocki zestaw Nowy
+## 11942 — Lądownik
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702016830460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11942 |
+| Nazwa angielska | Lunar Lander |
+| Nazwa polska | Lądownik |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016830460 |
 
 Klocki LEGO Explorer 11942 - Moon Lander Lądownik Księżycowy
 
@@ -186,11 +336,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 11942-1: https://a.allegroimg.com/original/11b2ab/004bd13c46d0850c767124a7c23c
+
 ---
 
-## 11943 — Lego Creator 11943 Mrówka Ognista unikat
+## 11943 — MRÓWKA OGNISTA
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 49.99 zł · EAN: 05702016830576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11943 |
+| Nazwa angielska | Fire Ant |
+| Nazwa polska | MRÓWKA OGNISTA |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016830576 |
 
 ✅ **Numer LEGO:** 11943-1 (zestaw może być również oznaczony jako 11943)
 
@@ -210,11 +376,27 @@ Ten uroczy "**Insect Polybag**" składający się z 25 elementów pozwoli na zbu
 
 Zestaw nie zawiera papierowej instrukcji. Instrukcje budowania dla tego modelu są łatwo dostępne online na oficjalnej stronie LEGO lub w serwisach dla fanów LEGO.
 
+**Galeria:**
+
+- 11943-1: https://a.allegroimg.com/original/111723/477d039a4572bf63108dd9a92672
+
 ---
 
-## 11944 — Lego Creator 11944 Skull
+## 11944 — Skull
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702016910940 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11944 |
+| Nazwa angielska | Skull |
+| Nazwa polska | Skull |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910940 |
 
 ✅ **Numer LEGO:** 11944-1 (zestaw może być również oznaczony jako 11944)
  
@@ -244,11 +426,27 @@ Szukasz czegoś wyjątkowego?
  
 ✅ Inne ciekawe zabawki
 
+**Galeria:**
+
+- 11944-1: https://a.allegroimg.com/original/11ba2e/d15889394b6e80b5d754c4a87f83
+
 ---
 
-## 11946 — Lego 11946 Explorer Pingwin klocki zestaw Nowy
+## 11946 — Pingwin
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 24.99 zł · EAN: 05702016910841 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11946 |
+| Nazwa angielska | Penguin |
+| Nazwa polska | Pingwin |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910841 |
 
 Klocki LEGO Explorer 11946 - Pingwin
 
@@ -262,11 +460,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 11946-1: https://a.allegroimg.com/original/1122c6/a84f819c4a938433909e381901c6
+
 ---
 
-## 11949 — Lego 11949 Creator- Papuga Oryginalne Klocki Nowe
+## 11949 — Papuga
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 29.15 zł · EAN: 05702016911183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11949 |
+| Nazwa angielska | Parrot |
+| Nazwa polska | Papuga |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911183 |
 
 LEGO 11949 Creator- Papuga
 
@@ -282,11 +496,27 @@ Ilość klocków:** 44**
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 11949-1: https://a.allegroimg.com/original/115656/d9ee22e34699b7425a1d2ab1cb9d
+
 ---
 
-## 11951 — Lego 11951 Creator Orangutan
+## 11951 — 11951 Orangutan
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 12.00 zł · EAN: 05702016911206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11951 |
+| Nazwa angielska | Orangutan |
+| Nazwa polska | 11951 Orangutan |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911206 |
 
 LEGO 11962
 
@@ -303,11 +533,27 @@ LEGO Creator 11951  to zestaw klocków dla dzieci powyżej 7 lat.  Produkt poc
 
 ZESTAW NIE ZAWIERA INSTRUKCJI
 
+**Galeria:**
+
+- 11951-1: https://a.allegroimg.com/original/119cdc/6e5826ce4097a2d344b568bf7fc9
+
 ---
 
-## 11954 — Lego Creator 11954 Ufo
+## 11954 — UFO
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 15.00 zł · EAN: 05702016911022 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11954 |
+| Nazwa angielska | Spaceship |
+| Nazwa polska | UFO |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911022 |
 
 **LEGO - CREATOR - UFO**
 
@@ -336,11 +582,27 @@ ZESTAW NIE ZAWIERA INSTRUKCJI
 - **To idealna propozycja dla kolekcjonerów polybagów, lub jako drobny, kreatywny upominek.**
 - **ZESTAW NIE ZAWIERA INSTRUKCJI**
 
+**Galeria:**
+
+- 11954-1: https://a.allegroimg.com/original/11d358/f7ddbf13438bbab7398f01744549
+
 ---
 
-## 11961 — Lego Creator 11961 Helicopter
+## 11961 — Helicopter
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 20.00 zł · EAN: 05702017154435 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11961 |
+| Nazwa angielska | Helicopter |
+| Nazwa polska | Helicopter |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154435 |
 
 ✅ **Numer LEGO:** 11961-1 (zestaw może być również oznaczony jako 11961)
 
@@ -356,11 +618,27 @@ ZESTAW NIE ZAWIERA INSTRUKCJI
 
 Ten dynamiczny "**Helicopter Polybag**" składający się z 40 elementów pozwoli na zbudowanie miniaturowego helikoptera. To idealna propozycja dla kolekcjonerów polybagów, miłośników lotnictwa, pojazdów powietrznych lub jako drobny upominek. Zestaw świetnie pobudza wyobraźnię do tworzenia własnych podniebnych przygód!
 
+**Galeria:**
+
+- 11961-1: https://a.allegroimg.com/original/11723d/34da648d49c2a0178cb934635605
+
 ---
 
-## 11962 — Lego Creator 11962 Robot polybag Lego Saszetka
+## 11962 — Robot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 17.38 zł · EAN: 05702017154442 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11962 |
+| Nazwa angielska | Robot |
+| Nazwa polska | Robot |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154442 |
 
 LEGO Creator 11962
  
@@ -376,11 +654,27 @@ O produkcie:
  
 LEGO Creator 11962  to zestaw klocków dla dzieci powyżej 7 lat.  Produkt pochodzi od renomowanej marki LEGO i posiada certyfikat CE. Zestaw pomaga rozwijać wyobraźnię, kreatywność oraz zdolności manualne u dzieci. LEGO Creator 11962 ROBOT to idealny prezent dla dzieci, które lubią bawić się klockami i rozwijać swoją kreatywność.
 
+**Galeria:**
+
+- 11962-1: https://a.allegroimg.com/original/112915/9ac52d2941d4959b000ca1261bd1
+
 ---
 
-## 11963 — Lego Creator Polybag 11963 Dinozuar Jurassic World Zestaw Nowy
+## 11963 — Dinozaur
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 16.50 zł · EAN: 05702017154459 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11963 |
+| Nazwa angielska | Dinosaur |
+| Nazwa polska | Dinozaur |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154459 |
 
 LEGO Creator Polybag 11963 Dinozuar JURASSIC WORLD Zestaw NOWY
 
@@ -406,11 +700,27 @@ Zestaw ten rozwija wyobraźnię, kreatywność oraz umiejętności manualne dzie
  
 LEGO Creator 11963 Dinozaur to produkt, który z pewnością zadowoli każde dziecko i zapewni mu wiele godzin pozytywnej zabawy.
 
+**Galeria:**
+
+- 11963-1: https://a.allegroimg.com/original/11f2b8/dd544e0041ebbf6884191cb5d680
+
 ---
 
-## 11964 — Lego Creator Łódź Podwodna 11964
+## 11964 — LEGO Creator Łódź Podwodna 11964
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702017154466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11964 |
+| Nazwa angielska | Submarine |
+| Nazwa polska | LEGO Creator Łódź Podwodna 11964 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154466 |
 
 **LEGO CREATOR ŁÓDŹ PODWODNA 11964**
 
@@ -426,11 +736,27 @@ Zestaw LEGO Creator 11964 - Łódź podwłodna trafił do sprzedaży w 2022 roku
 - wiek: +7 lat
 - certyfikat CE
 
+**Galeria:**
+
+- 11964-1: https://a.allegroimg.com/original/115830/a2b1e31b420cb9c4a54a07655f44
+
 ---
 
-## 11965 — Lego 11965 Creator Koparka 7+
+## 11965 — Koparka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 11.50 zł · EAN: 05702017154770 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11965 |
+| Nazwa angielska | Excavator |
+| Nazwa polska | Koparka |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154770 |
 
 LEGO Creator 11965 Zestaw Koparka Polybag Nowy
 
@@ -449,11 +775,27 @@ LEGO Creator 119 55 koparka  to zestaw klocków konstrukcyjnych, który pozwoli
 
 ZESTAW NIE POSIADA INSTRUKCJI
 
+**Galeria:**
+
+- 11965-1: https://a.allegroimg.com/original/113e58/da3c58cf4bceb963fcacf0200286
+
 ---
 
-## 11966 — Klocki Lego 11966 Creator Statek 7+
+## 11966 — Pirate Ship
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 14.00 zł · EAN: 05702017252117 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11966 |
+| Nazwa angielska | Pirate Ship |
+| Nazwa polska | Pirate Ship |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017252117 |
 
 Na sprzedaż **KLOCKI LEGO 11966 CREATOR STATEK 7+**
 
@@ -477,11 +819,27 @@ Załączone zdjęcia przedstawiają rzeczywisty stan sprzedawanych przez nas klo
 
 **Życzymy udanych zakupów!**
 
+**Galeria:**
+
+- 11966-1: https://a.allegroimg.com/original/11352b/e16cf8d047dba0b9c7cdc0e9dbf4
+
 ---
 
-## 11968 — Lego Creator 11968 Pająk Saszetka 1 Szt.
+## 11968 — Pająk
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 20.36 zł · EAN: 05702017250922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11968 |
+| Nazwa angielska | Spider |
+| Nazwa polska | Pająk |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017250922 |
 
 LEGO Explorer Polybag: Pająk (11968-1)
 
@@ -514,11 +872,27 @@ Szukasz czegoś wyjątkowego?
 
 ✔️ Akcesoria i MOCe
 
+**Galeria:**
+
+- 11968-1: https://a.allegroimg.com/original/116eb2/569f021c4f6f9747425ab792bbf8
+
 ---
 
-## 11969 — Lego Klocki Creator Samochód Strażacki zestaw 11969
+## 11969 — 11969
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 8.47 zł · EAN: 05702017250939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11969 |
+| Nazwa angielska | Fire Vehicle |
+| Nazwa polska | 11969 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 28 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017250939 |
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
@@ -554,11 +928,27 @@ Szukasz czegoś wyjątkowego?
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
+**Galeria:**
+
+- 11969-1: https://a.allegroimg.com/original/110f92/5c1187414353bd0bdea4ef7fe703
+
 ---
 
-## 11974 — Lego 11974 Creator Niedźwiedź Polarny Miś Zwierzęta Klocki Polybag Nowy
+## 11974 — LEGO 11974 - Creator - NIEDŹWIEDŹ POLARNY
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 12.99 zł · EAN: 00673419377706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11974 |
+| Nazwa angielska | Polar Bear |
+| Nazwa polska | LEGO 11974 - Creator - NIEDŹWIEDŹ POLARNY |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419377706 |
 
 LEGO Creator 11974 NIEDŹWIEDŹ POLARNY
 
@@ -592,11 +982,27 @@ Szukasz czegoś wyjątkowego? W BrickSick znajdziesz szeroki wybór:
 
 **Zapraszamy na nasze oferty!**
 
+**Galeria:**
+
+- 11974-1: https://a.allegroimg.com/original/119a70/c1da61054218900fdca57a77be0b
+
 ---
 
-## 11975 — Lego Creator 11975 Traktor
+## 11975 — Traktor
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 12.88 zł · EAN: 00673419377713 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11975 |
+| Nazwa angielska | Tractor |
+| Nazwa polska | Traktor |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 25 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419377713 |
 
 LEGO Creator 11975 TRAKTOR
  
@@ -613,11 +1019,27 @@ O produkcie:
  
 LEGO Creator 11975 to zestaw klocków dla dzieci powyżej 7 lat. Zawiera 25 elementów  Produkt pochodzi od renomowanej marki LEGO i posiada certyfikat CE. Zestaw pomaga rozwijać wyobraźnię, kreatywność oraz zdolności manualne u dzieci. LEGO Creator 11975 to idealny prezent dla dzieci, które lubią bawić się klockami i rozwijać swoją kreatywność.
 
+**Galeria:**
+
+- 11975-1: https://a.allegroimg.com/original/11aab3/8914c2594bc88cf7d3a009d09cb4
+
 ---
 
-## 11978 — Lego Creator Statek wikinga 11978
+## 11978 — Statek wikinga
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 8.49 zł · EAN: 00673419377744 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 11978 |
+| Nazwa angielska | Viking Ship |
+| Nazwa polska | Statek wikinga |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419377744 |
 
 LEGO Creator 11978 Statek Wikingów
  
@@ -643,11 +1065,27 @@ O produkcie:
  
 LEGO Creator 11978 Statek wikinga to zestaw składający się z 48 elementów, przeznaczony dla dzieci w wieku 7 lat i starszych. Jest to produkt marki LEGO, który idealnie nadaje się zarówno dla chłopców, jak i dziewcząt. Zestaw ten pozwala na rozwijanie wyobraźni i kreatywności dziecka, a także umiejętności manualnych. Statek wikinga to realistyczny model, który z pewnością przyciągnie uwagę każdego małego konstruktora. Zestaw jest certyfikowany CE i jest bezpieczny dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 11978-1: https://a.allegroimg.com/original/1113ac/93563e604c3ea106dbdc5ed34799
+
 ---
 
-## 20008 — Lego Creator 20008 Samochód Pomocy Drogowej
+## 20008 — Samochód Pomocy Drogowej
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 74.00 zł · EAN: 00673419112956 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20008 |
+| Nazwa angielska | Tow Truck |
+| Nazwa polska | Samochód Pomocy Drogowej |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419112956 |
 
 **LEGO zestaw  - polybag**
 
@@ -673,11 +1111,27 @@ LEGO Creator 11978 Statek wikinga to zestaw składający się z 48 elementów, p
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 20008-1: https://a.allegroimg.com/original/11d499/a5e1429a4de88dc6ace5b6ca5911
+
 ---
 
-## 20011 — Lego Creator 20011 Śmieciarka z 2009 r Nowe klocki
+## 20011 — Śmieciarka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 484.31 zł · EAN: 00673419112963 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20011 |
+| Nazwa angielska | Garbage Truck |
+| Nazwa polska | Śmieciarka |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 74 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419112963 |
 
 LEGOLEGO Creator 20011 Śmieciarka MISB 2009
 
@@ -699,11 +1153,26 @@ Opakowanie polietylenowe (woreczek) tegoż zestawu jest jednym z największych w
 
 **Gwarantuję bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 20011-1: https://a.allegroimg.com/original/114ab3/98180b8f43ddb7557c90923ebfd1
+
 ---
 
-## 20215 — Lego Creator 20215 Lego Mba Invention Designer Builder Nowy Unikat
+## 20215 — LEGO MBA 20215 Invention Designer Builder
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 999.50 zł · EAN: 00673419198585 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 20215 |
+| Nazwa angielska | Invention Designer (Kits 10 - 12) |
+| Nazwa polska | LEGO MBA 20215 Invention Designer Builder |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 675 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198585 |
 
 LEGO
  
@@ -723,11 +1192,27 @@ LEGO MBA 20215 to niezwykły zestaw powstały w oparciu o rady i sugestie eksper
  
 Zestaw składa się z kolekcjonerskiego pudełka z wydzielonymi przegródkami na elementy, ekskluzywnej minifigurki MBA oraz trzech podręczników.
 
+**Galeria:**
+
+- 20215-1: https://3.allegroimg.com/original/01f7c4/0791863249b99bf480452a7ee623
+
 ---
 
-## 30021 — nowy Lego Creator 30021 Papuga Misb 2010
+## 30021 — Papuga
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702014695467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30021 |
+| Nazwa angielska | Parrot |
+| Nazwa polska | Papuga |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014695467 |
 
 Cześć!
 
@@ -747,11 +1232,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30021-1: https://a.allegroimg.com/original/115705/f31699e148ee93d86b355a764f4d
+
 ---
 
-## 30024 — Lego Creator Blue Truck 30024
+## 30024 — Truck
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 40.00 zł · EAN: 05702014846982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30024 |
+| Nazwa angielska | Truck |
+| Nazwa polska | — |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014846982 |
 
 Witam
 
@@ -767,11 +1268,27 @@ Klocki są fabrycznie nowe, zapakowane w oryginalny Polybag
 
 Zapraszam na moje pozostałe aukcje z klockami Lego (systematycznie będę starał się zwiększać asortyment)
 
+**Galeria:**
+
+- 30024-1: https://a.allegroimg.com/original/115dce/b18a4a8c4a5b881b01ed98596d83
+
 ---
 
-## 30025 — Lego Creator 30025 Gdzie jest Nemo Błazenek Disney Pixar saszetka klocki
+## 30025 — Clown Fish polybag
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 65.00 zł · EAN: 05702014749283 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30025 |
+| Nazwa angielska | Clown Fish |
+| Nazwa polska | Clown Fish polybag |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014749283 |
 
 Witam
 
@@ -787,11 +1304,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30025-1: https://a.allegroimg.com/original/118868/3cd4248947c79b14f4ab2dbb1a8c
+
 ---
 
-## 30180 — Lego Creator 30180 Twin Prop saszetka z klockami samolot exclusive
+## 30180 — 30180 Creator - Twin Prop
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702014865778 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30180 |
+| Nazwa angielska | Twin Prop |
+| Nazwa polska | 30180 Creator - Twin Prop |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014865778 |
 
 Witam
 
@@ -807,11 +1340,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30180-1: https://a.allegroimg.com/original/11fb04/ed1a70bf44308c7f4d63efc302b1
+
 ---
 
-## 30183 — Lego Creator 30183 Czarny Samochód wyścigowy saszetka klocki model wycofany
+## 30183 — Czarny Samochód Wyścigowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702014966475 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30183 |
+| Nazwa angielska | Little Car |
+| Nazwa polska | Czarny Samochód Wyścigowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 50 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014966475 |
 
 Witam
 
@@ -827,11 +1376,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30183-1: https://a.allegroimg.com/original/112c4d/43775a8f403c970027f514bb30b7
+
 ---
 
-## 30185 — Lego 30185 Creator Mały orzeł
+## 30185 — Mały orzeł
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 79.00 zł · EAN: 00673419188821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30185 |
+| Nazwa angielska | Little Eagle |
+| Nazwa polska | Mały orzeł |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419188821 |
 
 Żywność liofilizowana Liofilizat Trek"N Eat Mix owocowy 55g
 
@@ -854,11 +1419,27 @@ Rafał
 - Sól (w 100 g produktu): 0,1 g 
 - Waga netto: 50 g
 
+**Galeria:**
+
+- 30185-1: https://a.allegroimg.com/original/113c25/cdb4cdd94ee5b5ed51f3419d1dab
+
 ---
 
-## 30188 — Lego Creator 30188 Milutki Kociak saszetka z klockami
+## 30188 — Milutki Kociak
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702015122719 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30188 |
+| Nazwa angielska | Cute Kitten |
+| Nazwa polska | Milutki Kociak |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122719 |
 
 Witam
 
@@ -874,11 +1455,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30188-1: https://a.allegroimg.com/original/11f33d/b829baf2425180a6836b945e3fdc
+
 ---
 
-## 30189 — Lego 30189 Creator Transportowiec Klocki Samolot
+## 30189 — Samolot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702015122726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30189 |
+| Nazwa angielska | Transport Plane |
+| Nazwa polska | Samolot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 49 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122726 |
 
 LEGO City 30347 Samochód Strażacki
 
@@ -894,11 +1491,27 @@ Ilość klocków: **49**
 
 **Gwarantuje bezpieczne zapakowanie i szybką wysyłkę.**
 
+**Galeria:**
+
+- 30189-1: https://a.allegroimg.com/original/11d766/fb39f8c54fe88b38feb9e513ca37
+
 ---
 
-## 30283 — Lego Creator 30283 terenówka saszetka z klockami model wycofany
+## 30283 — terenówka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702015355858 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30283 |
+| Nazwa angielska | Off-Road |
+| Nazwa polska | terenówka |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355858 |
 
 Witam
 
@@ -914,11 +1527,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30283-1: https://a.allegroimg.com/original/03244e/0c7500b44f218df8d5a32de05d85
+
 ---
 
-## 30285 — Lego Creator 30285 Tygrys saszetka z klockami
+## 30285 — Creator
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 55.00 zł · EAN: 05702015356077 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30285 |
+| Nazwa angielska | Tiger |
+| Nazwa polska | Creator |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015356077 |
 
 Witam
 
@@ -942,11 +1571,27 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
  
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 30285-1: https://a.allegroimg.com/original/03ff3b/5835fa4a4650a563d6108f9ebde5
+
 ---
 
-## 30286 — Lego Creator 30286 choinka z prezentami Nowy
+## 30286 — lego 30286 creator choinka z prezentami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 97.71 zł · EAN: 05702015398978 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30286 |
+| Nazwa angielska | Christmas Tree |
+| Nazwa polska | lego 30286 creator choinka z prezentami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015398978 |
 
 LEGO Creator 30286 choinka z prezentami NOWY
 
@@ -957,11 +1602,27 @@ Zestaw zawiera 51 elementów, aby skonstruować model udekorowanej choinki boże
 
 Jest to zestaw z serii „Seasonal”, czyli należący do grupy zestawów świątecznych, lub celebrujących jakąś okazję. W tym przypadku świętujemy Boże Narodzenie.
 
+**Galeria:**
+
+- 30286-1: https://a.allegroimg.com/original/11b460/ca6634f34804be8c2df82dce52ee
+
 ---
 
-## 30471 — Lego 30471 Creator Helikopter Polybag
+## 30471 — HELIKOPTER
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.90 zł · EAN: 00673419251082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30471 |
+| Nazwa angielska | Helicopter |
+| Nazwa polska | HELIKOPTER |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 47 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419251082 |
 
 Witam Serdecznie wszystkich zainteresowanych.
 
@@ -973,11 +1634,27 @@ Dziękuję za zainteresowanie i zachęcam do zakupu :)
 
 Nazwa i logo LEGO  stanowią zastrzeżone znaki handlowe firmy LEGO Group. Przedstawione zostały wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 30471-1: https://a.allegroimg.com/original/11fb93/31c40d114cca9386d1e696144eb0
+
 ---
 
-## 30474 — Lego 40434 Creator Renifer saszetka z klockami
+## 30474 — lego 40434 creator renifer
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702016680614 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30474 |
+| Nazwa angielska | Reindeer |
+| Nazwa polska | lego 40434 creator renifer |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 77 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016680614 |
 
 Witam
 
@@ -993,11 +1670,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30474-1: https://a.allegroimg.com/original/117aed/dbb4659344118db02342d19383f8
+
 ---
 
-## 30477 — Lego Creator 30477 Kolorowa Jaszczurka saszetka z klockami
+## 30477 — LEGO Creator 30477 Kameleon
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 64.00 zł · EAN: 05702015874953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30477 |
+| Nazwa angielska | Colorful Chameleon |
+| Nazwa polska | LEGO Creator 30477 Kameleon |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015874953 |
 
 Witam
 
@@ -1013,11 +1706,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30477-1: https://a.allegroimg.com/original/114667/4cf8f6d04e14bc1fcaa5140b6abd
+
 ---
 
-## 30540 — Lego Creator 30540 Mini Żółty samolot saszetka z klockami
+## 30540 — LEGO 30540 Polybag Yellow Flyer mini samolot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 27.00 zł · EAN: 05702016122404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30540 |
+| Nazwa angielska | Yellow Flyer |
+| Nazwa polska | LEGO 30540 Polybag Yellow Flyer mini samolot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122404 |
 
 Witam
 
@@ -1037,11 +1746,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30540-1: https://a.allegroimg.com/original/11ec82/c79c36414653a4ebf35a85759c72
+
 ---
 
-## 30543 — nowy Lego Creator 30543 Świąteczny pociąg Misb 2018
+## 30543 — Świąteczny pociąg
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702016122428 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30543 |
+| Nazwa angielska | Holiday Train |
+| Nazwa polska | Świąteczny pociąg |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122428 |
 
 Cześć!
 
@@ -1059,11 +1784,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30543-1: https://a.allegroimg.com/original/117907/c5b92ad34c6b854c7c3de201823d
+
 ---
 
-## 30549 — Lego Creator 30549 Budowanie pojazdów Nowy
+## 30549 — Budowanie pojazdów
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702016656916 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30549 |
+| Nazwa angielska | Build Your Own Vehicles - Make It Yours |
+| Nazwa polska | Budowanie pojazdów |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016656916 |
 
 LEGO 30549 CREATOR BUDOWANIE POJAZDÓW
 
@@ -1073,11 +1813,27 @@ LEGO 30549 CREATOR BUDOWANIE POJAZDÓW
 
 Młodzi konstruktorzy z chęcią zbudują helikopter, drona, inne fascynujące pojazdy lub własne niepowtarzalne dzieła z tego kolorowego zestawu klocków LEGO®, instrukcji budowania i inspirujących obrazków.
 
+**Galeria:**
+
+- 30549-1: https://a.allegroimg.com/original/111b48/62d26db54fdd85af32e28a721988
+
 ---
 
-## 30565 — Lego Creator 30565 Klaun z urodzinowego przyjęcia saszetka z klockami
+## 30565 — Klaun z urodzinowego przyjęcia
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 18.49 zł · EAN: 05702016914511 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30565 |
+| Nazwa angielska | Birthday Clown |
+| Nazwa polska | Klaun z urodzinowego przyjęcia |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914511 |
 
 LEGO Creator Klaun z urodzinowego przyjęcia 30565
 
@@ -1103,11 +1859,27 @@ Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwal
  
 **Zestaw 30565 Klaun z urodzinowego przyjęcia jest idealny, aby rozpocząć przygodę z LEGO,** w dodatku może być wspaniałym dodatkiem do urodzinowego prezentu.
 
+**Galeria:**
+
+- 30565-1: https://a.allegroimg.com/original/1142ec/d43cf1844398aa7dc147c41cbcde
+
 ---
 
-## 30571 — Lego Creator 30571 Pelikan
+## 30571 — Pelikan
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 39.99 zł · EAN: 05702016373080 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30571 |
+| Nazwa angielska | Pelican |
+| Nazwa polska | Pelikan |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016373080 |
 
 LEGO CREATOR 30571 PELIKAN
 
@@ -1121,11 +1893,27 @@ Trzy zabawki w jednej, z tych samych elementów Zestaw składa się z 62 element
 
 Przedział wiekowy (PEGI): Od 6 latSeria: Creator 3 w1 Płeć: Dla dziewczynek, Dla chłopcówIlość elementów: 62 elementy
 
+**Galeria:**
+
+- 30571-1: https://a.allegroimg.com/original/116e94/fb354eca4a279b6cab8c4162fb9a
+
 ---
 
-## 30575 — Lego Creator 30575 Creator
+## 30575 — Creator
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 68.00 zł · EAN: 05702016668209 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30575 |
+| Nazwa angielska | Train |
+| Nazwa polska | Creator |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668209 |
 
 InPost Gwarancja NAJSZYBSZEJ WYSYŁKI!
 
@@ -1143,11 +1931,27 @@ Nr katalogowy: 30575
  
 Ilość klocków w zestawie: 59
 
+**Galeria:**
+
+- 30575-1: https://a.allegroimg.com/original/11bd13/384909074602846fcd292a5db13f
+
 ---
 
-## 30580 — Lego Creator 30580 Święty Mikołaj na nartach saszetka z klockami
+## 30580 — Święty Mikołaj na nartach
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 62.99 zł · EAN: 05702016914542 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30580 |
+| Nazwa angielska | Santa Claus |
+| Nazwa polska | Święty Mikołaj na nartach |
+| Seria | Creator |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914542 |
 
 Witam
 
@@ -1163,11 +1967,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30580-1: https://a.allegroimg.com/original/11bafc/e2a635f449a5831a7df004f8e202
+
 ---
 
-## 30582 — Lego Creator 30582
+## 30582 — brak informacji
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 29.95 zł · EAN: 05702017154794 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30582 |
+| Nazwa angielska | Birthday Bear |
+| Nazwa polska | brak informacji |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154794 |
 
 LEGO Creator 30582
  
@@ -1185,11 +2005,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 - **Liczba elementów:** 80 
 - **Rozmiar zestawu:** Mały
 
+**Galeria:**
+
+- 30582-1: https://a.allegroimg.com/original/119e93/5a60636e4745b9919ae22eac1bbd
+
 ---
 
-## 30583 — Lego Creator 30583 Zając Wielkanocny Saszetka 1 Szt.
+## 30583 — Zając Wielkanocny
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 30.00 zł · EAN: 05702017154800 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30583 |
+| Nazwa angielska | Easter Bunny |
+| Nazwa polska | Zając Wielkanocny |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154800, 673419356756 |
 
 InPost Gwarancja NAJSZYBSZEJ WYSYŁKI!
 
@@ -1213,11 +2049,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
 
 - **Kod ean:** 5702017154800
 
+**Galeria:**
+
+- 30583-1: https://a.allegroimg.com/original/1192c2/b92f8e8842e889ab72d0c9719ecf
+
 ---
 
-## 30584 — Lego Creator 30584 Świąteczny pociąg 2022 rok!
+## 30584 — Świąteczny pociąg
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 18.90 zł · EAN: 05702017154817 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30584 |
+| Nazwa angielska | Winter Christmas Train |
+| Nazwa polska | Świąteczny pociąg |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154817 |
 
 Klocki Creator 30584 Świąteczny pociąg
 
@@ -1241,11 +2093,27 @@ Liczba elementów 73
 
 Rozmiar zestawu Mały [Lego 1 - 200]
 
+**Galeria:**
+
+- 30584-1: https://a.allegroimg.com/original/118d81/015ff3b5484f93e8f0b7433be531
+
 ---
 
-## 30594 — Lego Creator 3 W 1 30594 Rockowy Monster Track
+## 30594 — Rockowy Monster Track
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 15.49 zł · EAN: 05702017154824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30594 |
+| Nazwa angielska | Rock Monster Truck |
+| Nazwa polska | Rockowy Monster Track |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 54 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154824 |
 
 **LEGO CREATOR 3 W 1 30594 ROCKOWY MONSTER TRACK**
 
@@ -1263,11 +2131,27 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 30594-1: https://a.allegroimg.com/original/11c1f4/c0902a6d4adaa98f2b826d2c894c
+
 ---
 
-## 30643 — Lego Creator 30643 Wielkanocny kurczak z jajkami Saszetka 1 Szt.
+## 30643 — Wielkanocny kurczak z jajkami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 29.59 zł · EAN: 05702017399867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30643 |
+| Nazwa angielska | Easter Chickens |
+| Nazwa polska | Wielkanocny kurczak z jajkami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 61 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399867 |
 
 LEGO Creator 30643 Wielkanocny kurczaczek z jajkami
 
@@ -1298,11 +2182,27 @@ Do każdego zestawu
  
 słodki - mini upominek :)
 
+**Galeria:**
+
+- 30643-1: https://a.allegroimg.com/original/115461/9d1e46e942d78f4895a9ae9de00e
+
 ---
 
-## 30644 — Lego Creator Zabytkowy Samochód 30644
+## 30644 — Zabytkowy samochód
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 11.99 zł · EAN: 05702017399881 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30644 |
+| Nazwa angielska | Vintage Car |
+| Nazwa polska | Zabytkowy samochód |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017399881 |
 
 Witamy
 
@@ -1322,11 +2222,26 @@ W zestawie znajduje się:
 
 Zapraszamy do zakupu :)
 
+**Galeria:**
+
+- 30644-1: https://a.allegroimg.com/original/112c21/aab7beb049a2b405ef2846e29674
+
 ---
 
-## 30645 — Lego Creator Bałwan 30645
+## 30645 — Bałwan
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 10.49 zł · EAN: 05702017421513 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30645 |
+| Nazwa angielska | Snowman |
+| Nazwa polska | Bałwan |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 78 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017421513 |
 
 Klocki Creator 30645 Bałwan
 
@@ -1366,11 +2281,27 @@ Rozmiar zestawu
 
 Mały [Lego 1 - 200]
 
+**Galeria:**
+
+- 30645-1: https://a.allegroimg.com/original/113e1a/a53abfa84ad5927b2771a3837d8b
+
 ---
 
-## 30666 — Lego Creator 30666 Prezentowe Zwierzęta 3W1 Pies Niedźwiedź Wiewiórka
+## 30666 — Prezentowe zwierzęta
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 14.49 zł · EAN: 05702017591063 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30666 |
+| Nazwa angielska | Gift Animals |
+| Nazwa polska | Prezentowe zwierzęta |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 75 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591063 |
 
 **LEGO CREATOR 30666 PREZENTOWE ZWIERZĘTA 3W1 PIES NIEDŹWIEDŹ WIEWIÓRKA**
 
@@ -1388,11 +2319,27 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 30666-1: https://a.allegroimg.com/original/1101aa/1256b74d403995c4468463ede1ca
+
 ---
 
-## 30667 — Klocki Lego Creator 30667 Przyjęcie Urodzinowe Ze Zwierzątkami
+## 30667 — Przyjęcie urodzinowe ze zwierzątkami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 14.85 zł · EAN: 05702017591575 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30667 |
+| Nazwa angielska | Animal Birthday Party |
+| Nazwa polska | Przyjęcie urodzinowe ze zwierzątkami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 72 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591575 |
 
 LEGO(R) CREATOR 30667 Przyjęcie urodzinowe ze...
 
@@ -1402,11 +2349,27 @@ LEGO(R) CREATOR 30667 Przyjęcie urodzinowe ze...
 
 Zestaw klocków LEGO 30667 Creator Przyjęcie urodzinowe ze zwierzątkami zawiera 72 klocków LEGO(R). Zestaw przeznaczony jest dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 30667-1: https://a.allegroimg.com/original/1177ac/1c9655ab48ff975f9a29e8e61a1e
+
 ---
 
-## 30668 — 30668 Lego Creator Zajączek wielkanocny z kolorowymi pisankami
+## 30668 — Zajączek wielkanocny z kolorowymi pisankami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 18.90 zł · EAN: 05702017591582 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30668 |
+| Nazwa angielska | Easter Bunny with Colourful Eggs |
+| Nazwa polska | Zajączek wielkanocny z kolorowymi pisankami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 68 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591582 |
 
 LEGO Creator 30668 Zajączek wielkanocny z kolorowymi pisankami
 
@@ -1437,11 +2400,27 @@ Do każdego zestawu
  
 słodki - mini upominek :)
 
+**Galeria:**
+
+- 30668-1: https://a.allegroimg.com/original/11cf01/49cc54584cb7846f51e6ec2cf6b1
+
 ---
 
-## 30669 — Lego Creator 3 w 1 Kultowy czerwony samolot 30669
+## 30669 — Kultowy czerwony samolot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 16.18 zł · EAN: 05702017591599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30669 |
+| Nazwa angielska | Iconic Red Plane |
+| Nazwa polska | Kultowy czerwony samolot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 51 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591599 |
 
 ⭐LEGO Creator Klocki ORYGINALNE 3w1 Czerwony samolot Nowe klocki dla dzieci⭐
 
@@ -1484,11 +2463,26 @@ słodki - mini upominek :)
  
 **✨Nieograniczone możliwości** swobodnej zabawy oraz **kreatywnego** wyrażania siebie sprzyjają **doskonaleniu cennych umiejętności**, które **przydadzą się w dorosłym życiu.**
 
+**Galeria:**
+
+- 30669-1: https://a.allegroimg.com/original/05501f/c488c95e4aa3b76f5bc6472aada3
+
 ---
 
-## 30670 — Lego Creator Przejażdżka saniami Świętego Mikołaja 30670 Nowy
+## 30670 — LEGO CREATOR Przejażdżka saniami Świętego Mikołaja 30670
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 13.99 zł · EAN: 05702017591605 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30670 |
+| Nazwa angielska | Santa's Sleigh Ride |
+| Nazwa polska | LEGO CREATOR Przejażdżka saniami Świętego Mikołaja 30670 |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591605 |
 
 LEGO Creator 30670 Przejażdżka saniami Mikołaja klocki święta mini zestaw
 
@@ -1522,11 +2516,26 @@ Mini świąteczny zestaw na poprawę humoru!
  
 ⭐⭐⭐
 
+**Galeria:**
+
+- 30670-1: https://a.allegroimg.com/original/1125c4/5a2b7aca46b9b2c1f91a9386b1c1
+
 ---
 
-## 30689 — Lego(r) Creator 30689 Urodzinowe Zwierzaki
+## 30689 — Urodzinowe zwierzaki
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 10.28 zł · EAN: 05702017819099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30689 |
+| Nazwa angielska | Birthday Party Animals |
+| Nazwa polska | Urodzinowe zwierzaki |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 60 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819099 |
 
 Lego
 
@@ -1537,11 +2546,26 @@ LEGO(R) CREATOR 30689 Urodzinowe zwierzaki
 
 Zapewnij wszystkim świetną zabawę podczas przyjęcia urodzinowego dzięki uroczemu zestawowi z małpką, która trzyma tort nad głową, żyrafą w czapce urodzinowej i pudełkiem prezentowym.
 
+**Galeria:**
+
+- 30689-1: https://a.allegroimg.com/original/1118ba/cfa3fa064c8eb415f51ff757989b
+
 ---
 
-## 30690 — Lego 30690 Creator Painting Fun with Easter Egg and Chick (Polybag)
+## 30690 — Malowanie pisanek z kurczaczkiem
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 7.99 zł · EAN: 05702017819105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30690 |
+| Nazwa angielska | Easter Egg Chick Painting Fun |
+| Nazwa polska | Malowanie pisanek z kurczaczkiem |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 65 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819105 |
 
 Ten niewielki zestaw LEGO z serii Creator pozwala dzieciom w wieku od 6 lat wykazać się kreatywnością. Zawiera on do zbudowania pisklę z pędzelkiem, które właśnie maluje również do zbudowania jajko wielkanocne. Pisklę czerpie farby z małej palety. Zestaw zawiera łącznie 65 elementów. 
 
@@ -1563,11 +2587,27 @@ Ten niewielki zestaw LEGO z serii Creator pozwala dzieciom w wieku od 6 lat wyka
 
  Ostrzeżenia i wskazówki dotyczące bezpieczeństwa Ostrzeżenia: Uwaga: Niebezpieczeństwo zadławienia się małymi elementami! Uwaga: Nieodpowiednie dla dzieci poniżej 36 miesięcy!
 
+**Galeria:**
+
+- 30690-1: https://a.allegroimg.com/original/11ba60/dec3039142fd88a62ca014c92fc9
+
 ---
 
-## 30691 — Lego Klocki Creator 30691 Mały Monster Truck Do Przebudowania
+## 30691 — Mały monster truck do przebudowania
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 13.79 zł · EAN: 05702017819112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30691 |
+| Nazwa angielska | Mini Convertible Monster Truck |
+| Nazwa polska | Mały monster truck do przebudowania |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819112 |
 
 Lego
 
@@ -1577,11 +2617,26 @@ LEGO Klocki Creator 30691 Mały monster truck do przebudowania
 
 Podaruj miłośnikom pojazdów ten niesamowity zestaw 3 w 1 Mały monster truck do przebudowania, który można zmienić w małą wyścigówkę lub samolot. Po skończonej zabawie model świetnie sprawdzi się jako ozdoba.
 
+**Galeria:**
+
+- 30691-1: https://a.allegroimg.com/original/11a2c3/471e60784616bcce043855a09557
+
 ---
 
-## 30692 — Lego Creator 30692 Święty Mikołaj I Komin
+## 30692 — Święty Mikołaj i świąteczny komin
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 9.93 zł · EAN: 05702017819129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30692 |
+| Nazwa angielska | Christmas Chimney Fun with Santa |
+| Nazwa polska | Święty Mikołaj i świąteczny komin |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 60 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017819129 |
 
 Lego
 
@@ -1613,11 +2668,26 @@ Zestaw LEGO® Creator 30692 – Święty Mikołaj i Świąteczny Komin to uroczy
 - **Rozwój kreatywności:** Pomaga rozwijać zdolności manualne i wyobraźnię.
 - **Idealny prezent:** Świetny pomysł na prezent dla młodszych fanów LEGO® i świątecznych dekoracji.
 
+**Galeria:**
+
+- 30692-1: https://a.allegroimg.com/original/11831b/36efe86041db9c33374e00628b9c
+
 ---
 
-## 30714 — Lego Creator Rudy Kot 30714 Zapakowane
+## 30714 — Rudy Kot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 13.60 zł · EAN: 05702018058060 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30714 |
+| Nazwa angielska | Orange Cat |
+| Nazwa polska | Rudy Kot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 79 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058060 |
 
 **WITAMY NA NASZEJ AUKCJI**
 
@@ -1647,11 +2717,26 @@ proszę nie oceniać nas źle,
 
 lecz poinformować nas o tym - z pewnością rozwiążemy problem i zakończymy transakcję pozytywnie!
 
+**Galeria:**
+
+- 30714-1: https://a.allegroimg.com/original/11a239/8419ca7a458ebbe277f1be7caa0f
+
 ---
 
-## 30715 — Zestaw Lego Creator 30715 Przyjęcie urodzinowe z uroczymi zwierzątkami
+## 30715 — Przyjęcie urodzinowe z uroczymi zwierzątkami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 11.00 zł · EAN: 05702018058176 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30715 |
+| Nazwa angielska | Cute Animal Birthday Party |
+| Nazwa polska | Przyjęcie urodzinowe z uroczymi zwierzątkami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058176 |
 
 W sprzedaży:
 
@@ -1661,11 +2746,26 @@ Zestaw LEGO Creator 30715 Przyjęcie urodzinowe z uroczymi zwierzątkami
 
 Dodaj uroku urodzinowym uroczystościom dzięki temu zestawowi zwierzątek, w którym flaming i lew mają na głowach czapeczki urodzinowe. Całość uzupełnia balon, prezent i tort urodzinowy.
 
+**Galeria:**
+
+- 30715-1: https://a.allegroimg.com/original/11cae2/3b5544224008bff20244ce918886
+
 ---
 
-## 30716 — Lego Zajączek Wielkanocny Creator 30716
+## 30716 — Uroczy zajączek wielkanocny
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 9.98 zł · EAN: 05702018058183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30716 |
+| Nazwa angielska | Cute Easter Bunny |
+| Nazwa polska | Uroczy zajączek wielkanocny |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 66 |
+| Cena katalogowa | 16.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018058183 |
 
 LEGO CREATOR 30716 - ZAJĄCZEK WIELKANOCNY
 
@@ -1681,31 +2781,77 @@ który może być zarówno świetną zabawką, jak i ciekawą dekoracją.
 
 Staranne wykonanie, świąteczna tematyka oraz wysoka jakość klocków sprawiają, że będzie doskonałym dodatkiem do każdej kolekcji.
 
+**Galeria:**
+
+- 30716-1: https://a.allegroimg.com/original/11c718/a235a96a4550a0c0794860b7986f
+
 ---
 
-## 30717 — Lego Creator Śmieszny halloweenowy szkielet 30717
+## 30717 — Śmieszny hallowenowy szkielet
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 11.82 zł · EAN: 05702018058190 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30717 |
+| Nazwa angielska | Fun Halloween Skeleton |
+| Nazwa polska | Śmieszny hallowenowy szkielet |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058190 |
 
 **LEGO Creator Śmieszny halloweenowy szkielet 30717**
 
 Zapewnij fanom LEGO® w wieku od sześciu lat strasznie fajną zabawę z okazji Halloween dzięki figurce szkieletu trzymającego lampion, z głową dyni i ruchomymi rękami i nogami.
 
+**Galeria:**
+
+- 30717-1: https://a.allegroimg.com/original/11c789/36c5239042ecaf6bd19e89b1306d
+
 ---
 
-## 30718 — Lego Creator Śnieżna przygoda Cataclaws 30718
+## 30718 — Śnieżna przygoda Cataclaws
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 12.49 zł · EAN: 05702018058206 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30718 |
+| Nazwa angielska | Cataclaws Snow Adventure |
+| Nazwa polska | Śnieżna przygoda Cataclaws |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 70 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058206 |
 
 **LEGO Creator Śnieżna przygoda Cataclaws 30718**
 
 Wczuj się w świąteczną atmosferę dzięki uroczemu zestawowi z Cataclaws siedzącą na saniach wypełnionych prezentami świątecznymi, które można zepchnąć ze śnieżnego wzgórza.
 
+**Galeria:**
+
+- 30718-1: https://a.allegroimg.com/original/113666/58af37ae4eb6917b9ad171d8d264
+
 ---
 
-## 31003 — Lego Creator 31003 Śmigłowiec Helikopter dwuwirnikowy Samolot Poduszkowiec
+## 31003 — Creator Czerwony Śmigłowiec
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 197.50 zł · EAN: 05702014971950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31003 |
+| Nazwa angielska | Red Rotors |
+| Nazwa polska | Creator Czerwony Śmigłowiec |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971950 |
 
 LEGO
 
@@ -1719,11 +2865,27 @@ Creator 3 w 1
 
 Pudełko posiada przetarcie z prawej strony - 2 ostanie zdjęcia przedstawiają sprzedawany zestaw
 
+**Galeria:**
+
+- 31003-1: https://a.allegroimg.com/original/11e2cc/387f57c441c09af83a7f359b122b
+
 ---
 
-## 31005 — Lego Creator 31005 Lego 31005 Creator 3 w 1 Transporter
+## 31005 — LEGO 31005 Creator 3 w 1 Transporter
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 271.66 zł · EAN: 05702014971967 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31005 |
+| Nazwa angielska | Construction Hauler |
+| Nazwa polska | LEGO 31005 Creator 3 w 1 Transporter |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 256 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971967 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -1747,11 +2909,27 @@ LEGO® 31005 Creator 3w1 - Transporter
 
 **LEGO® 31005 Creator 3w1 - Transporter**
 
+**Galeria:**
+
+- 31005-1: https://a.allegroimg.com/original/05b289/cc5262e04a5d93fb001fce034f0a
+
 ---
 
-## 31007 — Lego 31007 Creator 3w1 robot, helikopter, pick-up
+## 31007 — Lego 31007 Power Mech 3 in 1
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 349.50 zł · EAN: 05702014972001 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31007 |
+| Nazwa angielska | Power Mech |
+| Nazwa polska | Lego 31007 Power Mech 3 in 1 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 223 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm |
+| EAN | 5702014972001 |
 
 Zestaw zawiera 223 elementy, aby skonstruować super robota (ang. Power Mech).
 
@@ -1767,11 +2945,27 @@ Zdjęcia zestawów LEGO, które prezentujemy, są zawsze zdjęciami oferowanego 
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 31007-1: https://a.allegroimg.com/original/0511d0/7360d0e048a1bf390a05abacc929
+
 ---
 
-## 31008 — Lego Creator 31008 Zdobywcy Przestworzy
+## 31008 — Zdobywcy Przestworzy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 375.00 zł · EAN: 05702014972018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31008 |
+| Nazwa angielska | Thunder Wings |
+| Nazwa polska | Zdobywcy Przestworzy |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 235 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014972018 |
 
 **LEGO Creator 31008 – Zdobywcy Przestworzy – opis po polsku**
 
@@ -1797,11 +2991,27 @@ Trzeci model to szybka motorówka, która świetnie nadaje się do inscenizowani
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 31008-1: https://a.allegroimg.com/original/057420/d615fbf146d493bd11b94977d7c2
+
 ---
 
-## 31009 — Lego Creator 3 w 1 31009 Mały domek
+## 31009 — LEGO Creator 3 w 1 31009 - Mały domek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 399.97 zł · EAN: 05702014971523 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31009 |
+| Nazwa angielska | Small Cottage |
+| Nazwa polska | LEGO Creator 3 w 1 31009 - Mały domek |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 17 cm × gł. 12 cm |
+| EAN | 5702014971523 |
 
 LEGO Creator 3 w 1 31009 - Mały domek
 
@@ -1852,11 +3062,27 @@ Zestaw LEGO Creator 3w1 - Mały domek trafił do sprzedaży w 2013 roku. Numer k
 
 **Z przodu, pod numerem, podretuszowany ślad po metce. Dołączamy czyste metki gdyby była konieczność jego ukrycia. Delikatne przetarcia na krawędziach, wynikające z długoletniego przechowywania. Ogólny stan zestawu bardzo dobry. Uprzejmie prosimy o przemyślane zakupy.**
 
+**Galeria:**
+
+- 31009-1: https://a.allegroimg.com/original/11f86e/7898e3254908948ba20648de0449
+
 ---
 
-## 31012 — Lego Creator 3 w 1 31012 Dom rodzinny Nowe
+## 31012 — DOM
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1209.00 zł · EAN: 05702014971561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31012 |
+| Nazwa angielska | Family House |
+| Nazwa polska | DOM |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 756 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 25 cm × gł. 19 cm |
+| EAN | 5702014971561 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1885,11 +3111,27 @@ Zamieszkaj w nowoczesnym stylu LEGO® w tym domku jednorodzinnym 3 w 1! Rozpal g
 - Fabryka ma ok. 15 cm wysokości, 25 cm szerokości i 19 cm głębokości. 
 - Śródziemnomorska willa ma ok. 15 cm wysokości, 25 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 31012-1: https://a.allegroimg.com/original/11630f/70a9d3124188a32865803e0d914e
+
 ---
 
-## 31015 — Lego 31015 Creator 3W1 Szmaragdowy Ekspres Inst
+## 31015 — SZMARAGDOWY EXPRESS
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702015120753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31015 |
+| Nazwa angielska | Emerald Express |
+| Nazwa polska | SZMARAGDOWY EXPRESS |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 3 cm |
+| EAN | 5702015120753 |
 
 LEGO Creator 31015 SZMARAGDOWY EXPRESS NOWY MISB
  
@@ -1904,11 +3146,27 @@ Cała naprzód! Ekscytujący, kolorowy Szmaragdowy Ekspres parowy ma mnóstwo sz
 - Wagon ma ok. 4 cm wysokości, 6 cm długości i 3 cm szerokości. 
 - Połącz zestaw z innymi Szmaragdowymi Ekspresami 31015, by stworzyć jeszcze dłuższy pociąg.
 
+**Galeria:**
+
+- 31015-1: https://a.allegroimg.com/original/1199b9/88372a194fddb474ec9a3041a199
+
 ---
 
-## 31017 — Lego Creator 31017 Słoneczny śmigacz kabriolet wyścigówka Tir ciężarówka
+## 31017 — Słoneczny śmigacz
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 195.00 zł · EAN: 05702015120876 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31017 |
+| Nazwa angielska | Sunset Speeder |
+| Nazwa polska | Słoneczny śmigacz |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 6 cm |
+| EAN | 5702015120876 |
 
 Nowy zestaw klocków
 
@@ -1929,11 +3187,27 @@ Elegancki, sportowy Słoneczny śmigacz świetnie nadaje się na przejażdżki. 
 - Kabina ciężarówki ma ok. 7 cm wysokości, 12 cm długości i 4 cm szerokości.
 - Samochód wyścigowy ma ok. 4 cm wysokości, 13 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 31017-1: https://a.allegroimg.com/original/05baa5/9883236e40698fa94745b53ea393
+
 ---
 
-## 31021 — Lego Creator 3 w 1 31021 Zabawa w kotka i myszkę Nowe
+## 31021 — LEGO Zabawa w kotka i myszkę
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 384.00 zł · EAN: 05702015120920 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31021 |
+| Nazwa angielska | Furry Creatures |
+| Nazwa polska | LEGO Zabawa w kotka i myszkę |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015120920 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1943,11 +3217,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Ten uroczy kotek nie spuszcza z oka myszy podjadającej ser. Układaj jego wąsy, uszy i usta w rozmaite miny i ustawiaj go w różnych pozycjach na ruchomych łapach. Jeśli będziesz mieć ochotę na więcej zabawy ze zwierzakami, możesz ten model przebudować na słodkiego szczeniaczka lub szalonego królika.
 
+**Galeria:**
+
+- 31021-1: https://a.allegroimg.com/original/11ea7d/5b96b0f04280b7a8b1e7d41ecd48
+
 ---
 
-## 31040 — Lego Creator 31040 Pustynne wyścigówki
+## 31040 — Pustynne wyścigówki
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 199.00 zł · EAN: 05702015590983 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31040 |
+| Nazwa angielska | Desert Racers |
+| Nazwa polska | Pustynne wyścigówki |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 3 cm |
+| EAN | 5702015590983 |
 
 LEGO Creator 3 w 1 31040 - Pustynne wyścigówki
  
@@ -1984,11 +3274,27 @@ Ten zestaw z serii LEGO® Creator zawiera model typu „3 w 1”, a więc poza p
  
 - Wymiary pojazdu 4x4: ok. 3 cm wysokości, 6 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 31040-1: https://a.allegroimg.com/original/05a592/5f2e145c4af69df1ba49059fd52a
+
 ---
 
-## 31065 — Lego 31065 Creator 3w1 Dom przy ulicy Parkowej
+## 31065 — Dom przy ulicy Parkowej
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702015867894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31065 |
+| Nazwa angielska | Park Street Townhouse |
+| Nazwa polska | Dom przy ulicy Parkowej |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 566 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867894 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -2004,11 +3310,27 @@ Numer magazynowy sprzedawcy: 20260091
 
 Przybliżone wymiary opakowania:** 48 x 6,1 x 28,2 cm**
 
+**Galeria:**
+
+- 31065-1: https://a.allegroimg.com/original/11b406/465891224764978ddfad2ee743a0
+
 ---
 
-## 31069 — Lego Creator 3 w 1 31069 Rodzinna willa Nowe
+## 31069 — Creator 3in1 31069 Rodzinna willa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 615.00 zł · EAN: 05702015867931 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31069 |
+| Nazwa angielska | Modular Family Villa |
+| Nazwa polska | Creator 3in1 31069 Rodzinna willa |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 728 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 36 cm × gł. 14 cm |
+| EAN | 5702015867931 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -2034,11 +3356,26 @@ Przeżyj miejskie przygody w trójpoziomowej rodzinnej willi z czerwonym dachem,
 - Hotel golfowy ma ok. 24 cm wysokości, 30 cm szerokości i 13 cm głębokości.
 - Willa letniskowa ma ok. 13 cm wysokości, 20 cm szerokości i 23 cm głębokości.
 
+**Galeria:**
+
+- 31069-1: https://a.allegroimg.com/original/11f683/5447e592413791b767e11b0ee5b1
+
 ---
 
-## 31388 — Lego 31388 Creator 3w1 Dzikie Zwierzęta Rodzina Koali klocki zestaw Nowy
+## 31388 — Dzikie zwierzęta: Rodzina koali
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702018066959 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 31388 |
+| Nazwa angielska | Wild Animals: Family of Koalas |
+| Nazwa polska | Dzikie zwierzęta: Rodzina koali |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1536 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 29 cm × gł. 16 cm |
+| EAN | 5702018066959 |
 
 Klocki LEGO Creator 3w1 31388 - Dzikie zwierzęta: Rodzina koali
 
@@ -2068,11 +3405,26 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 31388-1: https://a.allegroimg.com/original/114da0/456799924242810ac892f0912606
+
 ---
 
-## 40019 — Lego Creator 40019 Brickley Potwór z loch ness saszetka klocki unikat
+## 40019 — Brickley the Sea Serpent
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.00 zł · EAN: 00673419151979 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40019 |
+| Nazwa angielska | Brickley |
+| Nazwa polska | Brickley the Sea Serpent |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419151979 |
 
 Witam
 
@@ -2088,11 +3440,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40019-1: https://a.allegroimg.com/original/113d02/3afd16a84f2bbc05fa7de8cefd7c
+
 ---
 
-## 40020 — 40020 Lego Nietoperz Duch Halloween polybag Misb
+## 40020 — Halloween Set
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 129.00 zł · EAN: 00673419160353 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40020 |
+| Nazwa angielska | Halloween Set |
+| Nazwa polska | Halloween Set |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419160353 |
 
 **LEGO zestaw  - polybag**
 
@@ -2118,11 +3486,27 @@ Rafał
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 40020-1: https://a.allegroimg.com/original/119b0b/9d5191c04611b9e1307367c306c5
+
 ---
 
-## 40078 — Lego Creator 40078 Budka z hot-dogami saszetka klocki minifigurka unikat
+## 40078 — Stoisko z hot-dogami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 95.00 zł · EAN: 00673419198752 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40078 |
+| Nazwa angielska | Hot Dog Cart |
+| Nazwa polska | Stoisko z hot-dogami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 39 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419198752 |
 
 Witam
 
@@ -2138,11 +3522,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40078-1: https://a.allegroimg.com/original/113456/4797e41a4140b5a3df5c0d051168
+
 ---
 
-## 40090 — Lego 40090 Creator BrickHeadz Nietoperz Halloween Halloween Bat z 2014r
+## 40090 — Nietoperz Halloween
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 300.00 zł · EAN: 00673419212984 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40090 |
+| Nazwa angielska | Halloween Bat |
+| Nazwa polska | Nietoperz Halloween |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419212984 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2152,11 +3552,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 40090-1: https://a.allegroimg.com/original/11cf6e/452a858b4e6bbfac8e3d2fc31c3e
+
 ---
 
-## 40106 — Lego Creator 40106 Zestaw Świąteczny 2014 Fabryka zabawek
+## 40106 — Zestaw Świąteczny 2014 - Fabryka zabawek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 199.00 zł · EAN: 00673419212588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40106 |
+| Nazwa angielska | Toy Workshop |
+| Nazwa polska | Zestaw Świąteczny 2014 - Fabryka zabawek |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419212588 |
 
 Szukasz LEGO? Dobrze trafiłeś :)
  
@@ -2178,11 +3594,27 @@ Warsztat z zabawkami to narożny obszar wypełniony różnymi narzędziami pomag
 
 LEGO 40106 Warsztat zabawkowy to 107-częściowy sezonowy zestaw promocyjny z 2 minifigurkami wydany w 2014 roku. Warsztat zabawkowy był częścią zestawu bożonarodzeniowego, który składał się z 2 zestawów, był to 1 z 2.
 
+**Galeria:**
+
+- 40106-1: https://a.allegroimg.com/original/0395e3/bb7903ea4309b4fad249e3f3ea31
+
 ---
 
-## 40108 — Lego Creator 40108 Wózek z Balonami saszetka klocki minifigurka unikat
+## 40108 — Wózek z Balonami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 119.00 zł · EAN: 00673419212076 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40108 |
+| Nazwa angielska | Balloon Cart |
+| Nazwa polska | Wózek z Balonami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 66 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419212076 |
 
 Witam
 
@@ -2198,11 +3630,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40108-1: https://a.allegroimg.com/original/11d9c9/02adee594354968a9422a1794fa6
+
 ---
 
-## 40120 — Lego Creator 40120 Kolacja Walentynkowa. Walentynki
+## 40120 — Kolacja Walentynkowa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 125.00 zł · EAN: 05702015355445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40120 |
+| Nazwa angielska | Valentine's Day Dinner |
+| Nazwa polska | Kolacja Walentynkowa |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 114 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm × gł. 6 cm |
+| EAN | 5702015355445 |
 
 Nowy, nieotwierany zestaw Lego 40120 Kolacja Walentynkowa.
 
@@ -2225,11 +3673,27 @@ Zagraj w scenkę z romantyczną restauracją z tym wspaniałym walentynkowym zes
 
 Zawiera minifigurki kobiet i mężczyzny:
 
+**Galeria:**
+
+- 40120-1: https://a.allegroimg.com/original/118f89/10b0e49e49b1852f86fa292b8741
+
 ---
 
-## 40121 — Lego 40121 Okolicznościowe Malowanie pisanek. Nowy, ładne pudełko.
+## 40121 — Malowanie pisanek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 178.00 zł · EAN: 05702015355452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40121 |
+| Nazwa angielska | Painting Easter Eggs |
+| Nazwa polska | Malowanie pisanek |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355452 |
 
 Klocki LEGO 40121 - Malowanie pisanek.
 
@@ -2239,11 +3703,27 @@ Pudełko w bardzo dobrym stanie.
 
 Zestaw LEGO Okolicznościowe - Malowanie pisanek trafił do sprzedaży w 2015 roku. Numer katalogowy tego zestawu to 40121. Zawiera 153 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Okolicznościowe - Painting Easter Eggs. Grupa wiekowa tego produktu to 7+.
 
+**Galeria:**
+
+- 40121-1: https://a.allegroimg.com/original/11580f/32866a594cc7bc522164b0482341
+
 ---
 
-## 40123 — nowy Lego Creator 40123 Uczta z okazji Święta Dziękczynienia Misb 2015
+## 40123 — 40123
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.99 zł · EAN: 05702015355674 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40123 |
+| Nazwa angielska | Thanksgiving Feast |
+| Nazwa polska | 40123 |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355674 |
 
 Cześć!
 
@@ -2261,11 +3741,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 40123-1: https://a.allegroimg.com/original/11718d/27a3de18486cb64dffe21de1b3e9
+
 ---
 
-## 40124 — Nowy Lego Creator 40124 Zestaw Świąteczny 2015- Zimowa zabawa Misb 2015
+## 40124 — Zestaw Świąteczny 2015- Zimowa zabawa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 162.99 zł · EAN: 05702015355681 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40124 |
+| Nazwa angielska | Winter Fun |
+| Nazwa polska | Zestaw Świąteczny 2015- Zimowa zabawa |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355681 |
 
 Cześć!
 
@@ -2283,11 +3779,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 40124-1: https://a.allegroimg.com/original/116542/4b299a7540d799b32bf2a9f2d02f
+
 ---
 
-## 40140 — Lego Creator 40140 Stoisko z Kwiatami saszetka z klockami unikat
+## 40140 — Stoisko z Kwiatami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 135.00 zł · EAN: 05702015355483 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40140 |
+| Nazwa angielska | Flower Cart |
+| Nazwa polska | Stoisko z Kwiatami |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015355483 |
 
 Witam
 
@@ -2301,11 +3813,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40140-1: https://a.allegroimg.com/original/112201/fd3e03b0400d98ae81bbd644fce5
+
 ---
 
-## 40154 — 40460 Lego Icons Róże
+## 40154 — pencil pot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 86.68 zł · EAN: 00673419236379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40154 |
+| Nazwa angielska | Pencil Pot |
+| Nazwa polska | pencil pot |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 174 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419236379 |
 
 40460 - LEGO Icons - Róże
 
@@ -2369,11 +3896,26 @@ Idealne do wazonu
 
 ✅Zestaw ten, **charakteryzujący** się jakością i **dbałością** o detale, typową dla produktów LEGO®, jest nie tylko pięknym **upominkiem,** ale również **ciekawym** wyzwaniem **konstrukcyjnym.**
 
+**Galeria:**
+
+- 40154-1: https://a.allegroimg.com/original/11d3e4/87259b1f4186b806fefa4e4e1d9f
+
 ---
 
-## 40173 — Lego 40173 Ramka na zdjęcia
+## 40173 — LEGO 40173
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702015868402 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40173 |
+| Nazwa angielska | Picture Frame |
+| Nazwa polska | LEGO 40173 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 268 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015868402 |
 
 LEGO 40173 Ramka na zdjęcia
 
@@ -2394,11 +3936,27 @@ Cechy zestawu:
 
 Stwórz swoją własną ramkę z zestawem LEGO 40173 Ramka na zdjęcia i ciesz się wyjątkową dekoracją, która w oryginalny sposób wyeksponuje Twoje ulubione wspomnienia!
 
+**Galeria:**
+
+- 40173-1: https://a.allegroimg.com/original/11d0d7/ab6a1d454475b213e6fb45a8bcfe
+
 ---
 
-## 40187 — Lego Creator 40187 Kwiaty Nowy
+## 40187 — 40187
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 196.91 zł · EAN: 00673419289870 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40187 |
+| Nazwa angielska | Flowers |
+| Nazwa polska | 40187 |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 100 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 10 cm × gł. 4 cm |
+| EAN | 673419289870 |
 
 LEGO Creator 40187 Kwiaty NOWY
 
@@ -2411,11 +3969,27 @@ Przekaż swoją wiadomość w stylu LEGO® za pomocą dwóch kwiatów do zbudowa
 - Doskonały prezent na Walentynki, Dzień Matki albo po prostu bez okazji!
 - Model ma ok. 14 cm wysokości, 10 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 40187-1: https://a.allegroimg.com/original/11a7c8/fbcff7c147acb67e0388d0b0ffc9
+
 ---
 
-## 40201 — Lego 40201 Walentynkowy piesek
+## 40201 — Valentines Cupid Dog
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 248.99 zł · EAN: 05702015594516 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40201 |
+| Nazwa angielska | Valentines Cupid Dog |
+| Nazwa polska | Valentines Cupid Dog |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594516 |
 
 LEGO 40201 Walentynkowy piesek
 
@@ -2426,11 +4000,27 @@ Figurka walentynkowego pieska LEGO® ma różowy język, białą koszulę z musz
 - Zestaw zawiera ponad 145 klocków i jest odpowiedni dla dzieci w wieku od 7. roku życia.
 - Wysokość ok. 10 cm.
 
+**Galeria:**
+
+- 40201-1: https://a.allegroimg.com/original/117bdb/2a19c49f409aa91e1cf92eee4661
+
 ---
 
-## 40205 — Lego Creator 40205 Lego Święta 40205 Pomocnicy Świętego Mikołaja
+## 40205 — LEGO ŚWIĘTA 40205 Pomocnicy Świętego Mikołaja
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.99 zł · EAN: 05702015594561 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40205 |
+| Nazwa angielska | Elves' Workshop |
+| Nazwa polska | LEGO ŚWIĘTA 40205 Pomocnicy Świętego Mikołaja |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015594561 |
 
 **LEGO Seasonal Pomocnicy Świętego Mikołaja 40205 – KOLEKCJONERSKI ZESTAW**
 
@@ -2462,11 +4052,27 @@ Na sprzedaż uroczy zestaw LEGO Seasonal przedstawiający pracowitych pomocnikó
 
 **realne zdjęcia produktu**
 
+**Galeria:**
+
+- 40205-1: https://a.allegroimg.com/original/118dae/59e95d2447a0a911274fc6d7178e
+
 ---
 
-## 40206 — Klocki Lego 40206 Święty Mikołaj Santa Christmas 2016 Świąteczny
+## 40206 — Święty Mikołaj
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 146.40 zł · EAN: 05702015594974 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40206 |
+| Nazwa angielska | Santa |
+| Nazwa polska | Święty Mikołaj |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702015594974 |
 
 LEGO 40206 Święty Mikołaj Santa Christmas 2016 Prezent Świąteczny Zestaw
 
@@ -2480,11 +4086,27 @@ Zbliżają się Święta Bożego Narodzenia, a na biegunie północnym elfy są 
 - Zestaw ten umożliwia budowanie dostosowane do wieku dzieci w wieku od 7 lat. 
 - Ma ok. 10 cm wysokości, 12 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 40206-1: https://a.allegroimg.com/original/1182e5/9c85929b48e59e86ae93171138fc
+
 ---
 
-## 40207 — Lego 40207 Rok Małpy Rok 2016 165 elementów
+## 40207 — Chiński rok małpy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 1499.95 zł · EAN: 05702015612999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40207 |
+| Nazwa angielska | Year Of The Monkey |
+| Nazwa polska | Chiński rok małpy |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015612999 |
 
 **LEGO 40207 Rok Małpy**
 
@@ -2524,11 +4146,27 @@ Wymiary opakowania:
 
 - 14 x 12 x 4,5 cm
 
+**Galeria:**
+
+- 40207-1: https://a.allegroimg.com/original/11e79f/3fba0f0545809f749850603c43b8
+
 ---
 
-## 40220 — Klocki Lego Creator London Bus 40220
+## 40220 — Klocki LEGO Creator London Bus 40220
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 39.88 zł · EAN: 05702015595407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40220 |
+| Nazwa angielska | London Bus |
+| Nazwa polska | Klocki LEGO Creator London Bus 40220 |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 3 cm |
+| EAN | 5702015595407 |
 
 LEGO Creator London Bus 40220
  
@@ -2553,11 +4191,27 @@ Szczegóły warte zapamiętania
 - Ten zestaw zawiera ponad 115 elementów i dedykowany jest dla osób w wieku 7 lat i starszych. 
 - Wymiary: 6 cm wysokości, 11 cm długości i 3 cm szerokości.
 
+**Galeria:**
+
+- 40220-1: https://a.allegroimg.com/original/03c94c/8bca9eae48e580aaa622ed1d5ae1
+
 ---
 
-## 40221 — Lego Creator 40221 Fontanna w Parku Nowe
+## 40221 — Fontanna w Parku
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 119.00 zł · EAN: 05702015595438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40221 |
+| Nazwa angielska | Fountain |
+| Nazwa polska | Fontanna w Parku |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595438 |
 
 WITAM SERDECZNIE.
 
@@ -2569,11 +4223,27 @@ NA ŻYCZENIE CHĘTNIE PRZEŚLĘ DOKŁADNIEJSZE ZDJECIA.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 40221-1: https://a.allegroimg.com/original/1196d0/253b68084670913b456d7424048e
+
 ---
 
-## 40235 — Lego Creator 40235 Year of the Dog Rok Psa
+## 40235 — Year of the Dog
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702015866972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40235 |
+| Nazwa angielska | Year of the Dog |
+| Nazwa polska | Year of the Dog |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866972 |
 
 LEGO® 40253
  
@@ -2593,11 +4263,27 @@ Bogactwo, sława i status społeczny niewiele znaczą dla Psa. Bardziej koncentr
  
 Kiedy Pies wybierze sobie jakieś zagadnienie, nie spocznie, dopóki nie osiągnie w nim biegłości. Zawsze kończy, co raz zaczął. Cierpliwość i wytrwałość czynią z niego niesamowitą osobę, godną naśladowania i zdobywającą powszechną sympatię.
 
+**Galeria:**
+
+- 40235-1: https://a.allegroimg.com/original/113e79/7997dd964df4a946a154e90c9f2b
+
 ---
 
-## 40236 — Lego 40236 Romantyczny piknik Walentynkowy Kraków
+## 40236 — Romantyczny piknik Walentynkowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702015866996 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40236 |
+| Nazwa angielska | Romantic Valentine Picnic |
+| Nazwa polska | Romantyczny piknik Walentynkowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015866996 |
 
 LEGO 40236 Romantyczny piknik walentynkowy
 
@@ -2612,11 +4298,27 @@ LEGO 40236 Romantyczny piknik walentynkowy
 - **Rok prezentacji:** 2017
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 40236-1: https://a.allegroimg.com/original/03f3dc/083ce0cb4b22b03ccdeb3bb542dd
+
 ---
 
-## 40252 — Lego 40252 Creator Mini Volkswagen Beetle
+## 40252 — Mini Volkswagen Beetle
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 151.99 zł · EAN: 05702015867443 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40252 |
+| Nazwa angielska | Mini VW Beetle |
+| Nazwa polska | Mini Volkswagen Beetle |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 141 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867443 |
 
 Klocki LEGO Creator 40252 - Mini Volkswagen Beetle
 
@@ -2636,11 +4338,27 @@ Zestaw LEGO Creator - Mini Volkswagen Beetle trafił do sprzedaży w 2017 roku
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40252-1: https://a.allegroimg.com/original/11f285/a7d30adb453992ce4b77030bc35a
+
 ---
 
-## 40254 — Lego Creator 40254 Lego Dziadek do orzechów 40254
+## 40254 — LEGO Dziadek do orzechów 40254
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 235.28 zł · EAN: 05702015867474 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40254 |
+| Nazwa angielska | Nutcracker |
+| Nazwa polska | LEGO Dziadek do orzechów 40254 |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015867474 |
 
 **ZAPRASZAMY DO ZAKUPU**
 
@@ -2666,11 +4384,27 @@ LEGO 40254 - DZIADEK DO ORZECHÓW
 
 LEGO 40254 Dziadek do orzechów to 230-elementowy sezonowy zestaw promocyjny wydany w 2017 roku.
 
+**Galeria:**
+
+- 40254-1: https://a.allegroimg.com/original/034651/6db8d2c8493fb5687d155305f62e
+
 ---
 
-## 40263 — Lego Creator 40263 Lego 40263 Świąteczny Rynek
+## 40263 — LEGO 40263 Świąteczny Rynek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 215.37 zł · EAN: 05702015868488 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40263 |
+| Nazwa angielska | Christmas Town Square |
+| Nazwa polska | LEGO 40263 Świąteczny Rynek |
+| Seria | Seasonal |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 15 cm × gł. 16 cm |
+| EAN | 5702015868488 |
 
 40263 - ŚWIĄTECZNY RYNEK
  
@@ -2683,11 +4417,26 @@ Wskocz na sanie i udaj się na bożonarodzeniowy rynek LEGO®, gdzie znajdziesz 
 - Zawiera kolorową choinkę, stragan, sanie, latarnię, skrzynkę na listy oraz różne akcesoria i elementy do zbudowania, w tym precel, babeczki i wieniec. 
 - Ma ok. 9 cm wysokości, 15 cm szerokości i 16 cm głębokości.
 
+**Galeria:**
+
+- 40263-1: https://c.allegroimg.com/original/03a206/e6c3a2494ffba1e3f1c73bfc574c
+
 ---
 
-## 40291 — Lego 40291 Kreatywne osobowości 2018
+## 40291 — Zestaw LEGO Creator Kreatywne osobowości 40291
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.45 zł · EAN: 05702016122596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40291 |
+| Nazwa angielska | Creative Storybook |
+| Nazwa polska | Zestaw LEGO Creator Kreatywne osobowości 40291 |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122596 |
 
 LEGO 40291 Kreatywne osobowości 2018
 
@@ -2707,11 +4456,27 @@ Klocki LEGO® 40291 Kreatywne osobowości 2018
 
 Zestaw klocków LEGO Kreatywne osobowości 2018 40291 został pokazany w 2018 roku i zbudowany jest z 307 klocków LEGO®. W opakowaniu znajdziesz też 2 minifigurki. Zestaw klocków przeznaczony jest dla dzieci i młodzieży od 8 roku życia.
 
+**Galeria:**
+
+- 40291-1: https://a.allegroimg.com/original/11d324/f36e9339494d97a7ca5cae18f3af
+
 ---
 
-## 40292 — Lego Creator 40292 Gwiazdkowy
+## 40292 — Prezent Gwiazdkowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 194.03 zł · EAN: 05702016122954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40292 |
+| Nazwa angielska | Christmas Gift Box |
+| Nazwa polska | Prezent Gwiazdkowy |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 301 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122954 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2735,11 +4500,26 @@ Ten zestaw LEGO® to idealny prezent gwiazdkowy. Ma ozdobną pokrywę i rozkład
 
 Zestaw LEGO Okolicznościowe - Prezent gwiazdkowy trafił do sprzedaży w 2018 roku. Numer katalogowy tego zestawu to 40292. Zawiera 301 klocków LEGO. W modelu znajdziesz też 2 minifigurki. Nazwa zestawu w języku angielskim LEGO Okolicznościowe - Christmas Gift Box. Grupa wiekowa tego produktu to 7+
 
+**Galeria:**
+
+- 40292-1: https://a.allegroimg.com/original/11cf54/bbfa74c94f29a71d304ffc432d48
+
 ---
 
-## 40320 — Lego 40320 Rośliny Zrobione z Roślin Choinka Świerk Krzak Liść Bambusa
+## 40320 —  Rośliny Zrobione z Roślin
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 149.99 zł · EAN: 00673419302975 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40320 |
+| Nazwa angielska | Plants from Plants |
+| Nazwa polska |  Rośliny Zrobione z Roślin |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 29 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419302975 |
 
 LEGO 40320 Rośliny Zrobione z Roślin
 
@@ -2751,11 +4531,27 @@ Zestaw nowy, fabrycznie zamknięty.
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 40320-1: https://a.allegroimg.com/original/11db1d/ed537b4f47a8a8b9a53428b3e262
+
 ---
 
-## 40337 — Lego Creator 40337 Chatka z Piernika
+## 40337 — Chatka z Piernika
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 160.08 zł · EAN: 05702016371277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40337 |
+| Nazwa angielska | Mini Gingerbread House |
+| Nazwa polska | Chatka z Piernika |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 499 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371277 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -2783,11 +4579,27 @@ CHATKA Z PIERNIKA
 
 Ciesz się budowaniem domku z piernika w mikroskali, wspaniałej sezonowej dekoracji z oszronionymi dachami, kolumnami z trzciny cukrowej i wysokim kominem z przytulnym kominkiem. Zawiera 499 elementów LEGO®.
 
+**Galeria:**
+
+- 40337-1: https://a.allegroimg.com/original/03369b/88257c134e638676ba47e40c5cd5
+
 ---
 
-## 40338 — Lego Creator 40338 Choinka
+## 40338 — Choinka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 370.00 zł · EAN: 05702016371284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40338 |
+| Nazwa angielska | Christmas Tree |
+| Nazwa polska | Choinka |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 392 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371284 |
 
 LEGO Classic 40573 Choinka Bożonarodzeniowa.
  
@@ -2798,11 +4610,27 @@ Zbuduj przyciągającą wzrok świąteczną ozdobę dzięki zestawowi konstrukcy
 - Dwa modele w jednym — możesz zbudować jedną większą choinkę lub dwie mniejsze. Niezależnie od wyboru będziesz się świetnie bawić, ozdabiając gałęzie drzewka bożonarodzeniowymi dekoracjami 
 - Wymiary — większa choinka ma ok. 30 cm wysokości, średnia ma ok. 23 cm wysokości, a mała — ok. 16 cm wysokości. Możesz zbudować jedną choinkę lub dwie
 
+**Galeria:**
+
+- 40338-1: https://a.allegroimg.com/original/11b848/fd7a6fd04421a27553d5b823028f
+
 ---
 
-## 40371 — Lego Creator 40371 Pisanka kurczaczek jajko Wielkanocne
+## 40371 — Pisanka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 137.50 zł · EAN: 05702016650167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40371 |
+| Nazwa angielska | Easter Egg |
+| Nazwa polska | Pisanka |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016650167 |
 
 Nowy zestaw klocków
 
@@ -2825,11 +4653,26 @@ Do zestawu dołączone są ciekawe, ozdobne elementy, które pozwolą na przyozd
  
 - W zestawie dużo kolorowych klocków, w tym kwiatki 1x1 pozwalające na przyozdobienie pisanki według swojego pomysłu.
 
+**Galeria:**
+
+- 40371-1: https://a.allegroimg.com/original/114733/f26375cf4c4eaabe921a3f08335c
+
 ---
 
-## 40385 — Lego 40385 Okolicznościowe Puchar
+## 40385 — Puchar
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 325.00 zł · EAN: 00673419320627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40385 |
+| Nazwa angielska | Trophy |
+| Nazwa polska | Puchar |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 200 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320627 |
 
 Oryginalne, nieotwierane opakowanie - widoczne zagniecenie powstałe w transporcie
 
@@ -2844,11 +4687,26 @@ Numer magazynowy sprzedawcy: 20260141
 
 Przybliżone wymiary opakowania:** 14 x 9,5 x 19,1 cm**
 
+**Galeria:**
+
+- 40385-1: https://a.allegroimg.com/original/11e4bc/4753d90648dbb87d1db339a157df
+
 ---
 
-## 40393 — Lego 40393 Szkoła pożarnicza w parku Legoland nowy zesraw klocków
+## 40393 — Szkoła pożarnicza w parku Legoland
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 189.00 zł · EAN: 00673419320634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40393 |
+| Nazwa angielska | LEGOLAND Fire Academy |
+| Nazwa polska | Szkoła pożarnicza w parku Legoland |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 221 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419320634 |
 
 Witam
 
@@ -2864,11 +4722,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40393-1: https://a.allegroimg.com/original/118ac0/6054f150409595783e6a3219d5cc
+
 ---
 
-## 40417 — Lego Creator 40417 Rok bawoła
+## 40417 — Rok bawoła
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702016720150 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40417 |
+| Nazwa angielska | Year of the Ox |
+| Nazwa polska | Rok bawoła |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720150 |
 
 Klocki LEGO 40417 ROK BAWOŁA new year of the ox
 
@@ -2884,11 +4758,27 @@ Zestaw przeznaczony jest dla dzieci powyżej 7 roku życia.
 - **Prezent dla dzieci –** ten praktyczny zestaw to świetny prezent na urodziny, pod choinkę lub bez okazji dla siedmioletnich i starszych fanów klocków Lego 
 - **Pewność i bezpieczeństwo –** elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 40417-1: https://a.allegroimg.com/original/1167f0/7c2af67844d1bbb6be5117fdb0a6
+
 ---
 
-## 40449 — Lego 40449 Creator Marchewkowy domek zajączka wielkanocnego
+## 40449 — Marchewkowy domek zajączka wielkanocnego
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 130.00 zł · EAN: 05702016910261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40449 |
+| Nazwa angielska | Easter Bunny's Carrot House |
+| Nazwa polska | Marchewkowy domek zajączka wielkanocnego |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910261 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2898,11 +4788,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40449-1: https://a.allegroimg.com/original/11b605/c258720f437689a415dda9d086d2
+
 ---
 
-## 40461 — Lego Tulipany 40461 Tulipan Tulip Lego Unikat na Święta Kwiaty
+## 40461 — Tulips set
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 134.99 zł · EAN: 00673419338165 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40461 |
+| Nazwa angielska | Tulips |
+| Nazwa polska | Tulips set |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 111 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017228327, 673419338165 |
 
 LEGO® Okolicznościowe 40461 - Tulipany
 
@@ -2932,11 +4838,28 @@ Dzięki **łodygom o regulowanej długości tulipany pasują do większości waz
 
 Kupując u nas dbasz o środowisko. Dzięki Tobie świat produkuje mniej odpadów.
 
+**Galeria:**
+
+- 40461-1: https://a.allegroimg.com/original/11a5d1/086a2daa4132b5b4756353c47cc5
+- 40461-2: https://a.allegroimg.com/original/110191/8275bd9a4e56a11d06b83cbb0f73
+
 ---
 
-## 40468 — Lego 40468 Creator Żółta Taksówka Yellow Taxi klocki zestaw Nowe
+## 40468 — Żółta taksówka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 53.99 zł · EAN: 05702016940961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40468 |
+| Nazwa angielska | Yellow Taxi |
+| Nazwa polska | Żółta taksówka |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 124 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 5 cm |
+| EAN | 5702016940961 |
 
 Klocki LEGO Creator 40468 - Żółta taksówka
 
@@ -2953,11 +4876,27 @@ W naszym sklepie zależy nam na satysfakcji klientów dlatego dokładamy starań
 
 Nie musisz się martwić czy kupione u nas klocki będą nadawały sie na prezent. **Sprzedajemy NOWE klocki LEGO tylko w oryginalnie zamkniętych, nieuszkodzonych opakowaniach. **Pozdrawiamy :)
 
+**Galeria:**
+
+- 40468-1: https://a.allegroimg.com/original/1198e8/929a8b93437f8095954620c4e2c4
+
 ---
 
-## 40469 — Lego 40469 Creator Autoriksza
+## 40469 — Autoriksza
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 112.99 zł · EAN: 05702016941203 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40469 |
+| Nazwa angielska | Tuk Tuk |
+| Nazwa polska | Autoriksza |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 155 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm |
+| EAN | 5702016941203 |
 
 Klocki LEGO Creator 40469 - Autoriksza
 
@@ -2985,21 +4924,53 @@ Zestaw LEGO Creator - Autoriksza trafił do sprzedaży w 2021 roku. Numer katalo
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40469-1: https://a.allegroimg.com/original/110225/7612d92a4e3f83885baf584c35f1
+
 ---
 
-## 40484 — Lego Seasonal 40484 Creator Podwórko Świętego Mikołaja
+## 40484 — Podwórko Świętego Mikołaja
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702016988062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40484 |
+| Nazwa angielska | Santa's Front Yard |
+| Nazwa polska | Podwórko Świętego Mikołaja |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 317 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988062 |
 
 LEGO 40484 Santa's Front Yard
 
 - Zestaw LEGO® 40484 Podwórko Świętego Mikołaja doskonale nadaje się do budowania zimową porą. Ukazuje mroźną, księżycową noc na podwórku Świętego Mikołaja i postać elfa, który uważnie karmi marchewką renifera stojącego nad brzegiem krystalicznego strumyka. W tej niezwykłej scenerii nie zabrakło także drzew i znaku z napisem „Biegun Północny” oraz ręcznej latarni dla elfa. Ten inspirujący zestaw dla dziewięciolatków i starszych dzieci zachęci małych i dużych fanów LEGO do wspólnego, świątecznego budowania.
 
+**Galeria:**
+
+- 40484-1: https://a.allegroimg.com/original/11e95e/2c00c79847458fd62cbf1c5cd170
+
 ---
 
-## 40488 — Lego 40488 Wózek kawowy
+## 40488 — Wózek kawowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017005898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40488 |
+| Nazwa angielska | Coffee Cart |
+| Nazwa polska | Wózek kawowy |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017005898 |
 
 LEGO Creator 40488 Wózek kawowy
 
@@ -3025,11 +4996,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 40488-1: https://a.allegroimg.com/original/11c1b5/4e5959514875b12abe9dae0187fd
+
 ---
 
-## 40491 — Klocki Lego Creator 40491 Rok tygrysa 193 elementy
+## 40491 — LEGO 40491 Rok tygrysa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017005904 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40491 |
+| Nazwa angielska | Year of the Tiger |
+| Nazwa polska | LEGO 40491 Rok tygrysa |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017005904 |
 
 LEGO Okolicznościowe 40491 Rok tygrysa
 
@@ -3041,11 +5028,27 @@ Klocki LEGO są znane z wysokiej jakości, trwałości i kreatywności. To nie t
  
 Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 40491-1: https://a.allegroimg.com/original/1134cb/f80cde0d420f841289a8c96e9c35
+
 ---
 
-## 40494 — Lego 40494 Niedźwiedź polarny i pudełko z prezentem
+## 40494 — BRAK
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.45 zł · EAN: 00673419345644 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40494 |
+| Nazwa angielska | Polar Bear & Gift Pack |
+| Nazwa polska | BRAK |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 4 cm × gł. 4 cm |
+| EAN | 673419345644 |
 
 40494 LEGO Niedźwiedź polarny i pudełko
 
@@ -3071,11 +5074,27 @@ Szczypta magii z zestawu LEGO® Niedźwiedź polarny i pudełko z prezentem (40
 - Ten kreatywny świąteczny zestaw liczy 142 elementy i jest odpowiedni dla dzieci od siódmego roku życia, które mogą zaprosić całą rodzinę do wspólnej zabawy klockami LEGO®.
 - Niedźwiedź polarny do zbudowania ma ok. 6 cm wysokości, a zabawkowy prezent mierzy ok. 5 cm wysokości, 4 cm szerokości i 4 cm głębokości.
 
+**Galeria:**
+
+- 40494-1: https://a.allegroimg.com/original/1148a9/4bb979254adca8beebfc3643aabd
+
 ---
 
-## 40498 — Lego 40498 Okolicznościowe Bożonarodzeniowy pingwin
+## 40498 — Bożonarodzeniowy pingwin
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 124.90 zł · EAN: 05702016985269 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40498 |
+| Nazwa angielska | Christmas Penguin |
+| Nazwa polska | Bożonarodzeniowy pingwin |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016985269 |
 
 Klocki LEGO® 40498 Bożonarodzeniowy pingwin
  
@@ -3094,11 +5113,26 @@ Przygotuj się na Boże Narodzenie dzięki przeuroczemu kolekcjonerskiemu pingwi
 - Kolekcjonerski bożonarodzeniowy pingwin ma ok. 12 cm wysokości, może się obracać i ruszać skrzydłami. 
 - Doskonały prezent dla dzieci od ósmego roku życia, które uwielbiają zabawkowe zwierzęta i budowanie z klocków LEGO®.
 
+**Galeria:**
+
+- 40498-1: https://a.allegroimg.com/original/1169c4/c90591924c27be57f1068158b01a
+
 ---
 
-## 40513 — Lego Vip 40513 Straszydła zestaw dodatkowy saszetka z klockami
+## 40513 — Straszydła zestaw dodatkowy VIP
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 55.99 zł · EAN: 05702017106632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40513 |
+| Nazwa angielska | Spooky VIP Add On Pack |
+| Nazwa polska | Straszydła zestaw dodatkowy VIP |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017106632 |
 
 Witam
 
@@ -3114,11 +5148,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 40513-1: https://a.allegroimg.com/original/11103c/2d1ca00445f988009ed3a18be9d4
+
 ---
 
-## 40517 — Lego Creator 40517 Skuter Vespa 9+ Nowy
+## 40517 — Vespa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 49.00 zł · EAN: 05702017166186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40517 |
+| Nazwa angielska | Vespa |
+| Nazwa polska | Vespa |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017166186 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -3138,11 +5188,27 @@ Dzieci mogą udawać, że pędzą ulicami tym cudownym modelem kultowego skutera
 - Kreatywna zabawa — fani LEGO® w wieku od dziewięciu lat, którzy lubią pojazdy, mogą użyć modelu Vespa do odgrywania ekscytujących historii lub połączyć go z innymi zestawami, aby zabawa była jeszcze lepsza
 - Zabawa w każdym miejscu — po złożeniu skuter Vespa ma ok. 9 cm wysokości, 12 cm długości i 6 cm szerokości, więc można się nim bawić w domu lub zabrać do znajomego
 
+**Galeria:**
+
+- 40517-1: https://a.allegroimg.com/original/110275/329acd2a4386833fd8e49e11f4fe
+
 ---
 
-## 40518 — Lego Creator Pociąg szybkobieżny 40518
+## 40518 — Pociąg szybkobieżny
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 170.00 zł · EAN: 05702012157486 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40518 |
+| Nazwa angielska | High-Speed Train |
+| Nazwa polska | Pociąg szybkobieżny |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 284 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012157486, 5702017166193 |
 
 LEGO SUPER HEROES MARVEL 76154
  
@@ -3168,11 +5234,27 @@ Niekończąca się zabawa zestawami inspirowanymi filmem „The Eternals” wytw
  
 Zestawy LEGO Marvel opowiadające o Przedwiecznych to seria unikatowych zabawek konstrukcyjnych, które zawierają odlotowe postacie zachęcające do kreatywnej zabawy i nieograniczonych przygód podczas odgrywania ról.
 
+**Galeria:**
+
+- 40518-1: https://a.allegroimg.com/original/11a737/8e9f438a4c0783ae29e6867aa824
+
 ---
 
-## 40519 — Klocki Lego Creator Pocztówka z Nowego Jorku 254 elementy 9+ 40519
+## 40519 — Pocztówka z Nowego Jorku
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 76.99 zł · EAN: 05702017165639 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40519 |
+| Nazwa angielska | New York Postcard |
+| Nazwa polska | Pocztówka z Nowego Jorku |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017165639 |
 
 LEGO® Creator - Pocztówka z Nowego Jorku
  
@@ -3194,11 +5276,27 @@ WIEK: 9+
 
 Crimson_Brick
 
+**Galeria:**
+
+- 40519-1: https://a.allegroimg.com/original/11d16b/dcec727b466d837318a03853f823
+
 ---
 
-## 40522 — Lego 40522 Walentynkowe Papużki Nierozłączki
+## 40522 — Walentynkowe Papużki nierozłączki
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 129.89 zł · EAN: 05702017166216 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40522 |
+| Nazwa angielska | Valentine Lovebirds |
+| Nazwa polska | Walentynkowe Papużki nierozłączki |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166216 |
 
 LEGO® 40522 Walentynkowe papużki nierozłączki
 
@@ -3209,11 +5307,27 @@ Zachwyć najbliższych romantycznym zestawem konstrukcyjnym LEGO® 40522 Walenty
 - Podaruj bliskiej osobie — Zestaw konstrukcyjny LEGO® 40522 Walentynkowe papużki nierozłączki pozwoli Ci uczcić święto zakochanych i inne wzruszające okazje 
 - Wymiary — kolekcjonerski model LEGO® Walentynkowe papużki nierozłączki ma ok. 11,5 cm wysokości
 
+**Galeria:**
+
+- 40522-1: https://a.allegroimg.com/original/116b23/64d390cb43c7a198c9d91cc907e5
+
 ---
 
-## 40527 — Zestaw Lego Creator 40527 Kurczaczki Wielkanocne Z Pisanką
+## 40527 — Klocki LEGO Creator 40527 Kurczaczki wielkanocne
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 110.00 zł · EAN: 05702017166407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40527 |
+| Nazwa angielska | Easter Chicks |
+| Nazwa polska | Klocki LEGO Creator 40527 Kurczaczki wielkanocne |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 318 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166407 |
 
 ZESTAW LEGO CREATOR - 40527 - KURCZACZKI WIELKANOCNE Z PISANKĄ
 
@@ -3253,11 +5367,26 @@ Do zestawu dołączona jest papierowa wersja instrukcji, a jej cyfrowa odmiana d
 
 Zestaw LEGO Creator 40527 to pełen kolorów i uroku model, który wyróżnia się pomysłową konstrukcją pękającego jajka, sympatycznymi kurczaczkami oraz dekoracyjnymi elementami nawiązującymi do wiosny i Wielkanocy. To świetny wybór dla każdego fana LEGO, który lubi kolorowe, niewielkie konstrukcje i sezonowe modele. Zestaw będzie świetnym prezentem urodzinowym lub świątecznym, miłą niespodzianką bez okazji lub po prostu sympatycznym upominkiem dla osoby, która lubi kreatywne budowanie. Dzięki atrakcyjnemu wyglądowi może również stanowić ciekawą dekorację, która po zbudowaniu będzie cieszyć oko przez cały sezon.
 
+**Galeria:**
+
+- 40527-1: https://a.allegroimg.com/original/116f1e/77226b6642469fff4bce627a261d
+
 ---
 
-## 40563 — Lego Creator 40563 Hołd dla Lego House
+## 40563 — Hołd dla LEGO House
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702017241838 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40563 |
+| Nazwa angielska | Tribute to LEGO House |
+| Nazwa polska | Hołd dla LEGO House |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 583 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241838 |
 
 LEGO Vip ZESTAW Hołd dla LEGO®House 40563
  
@@ -3277,11 +5406,27 @@ Zestaw **LEGO 40563 Hołd dla LEGO House** to więcej niż tylko klocki - to s
  
 - **Rok wydania:** **2022**
 
+**Galeria:**
+
+- 40563-1: https://a.allegroimg.com/original/116ad8/922f401d4d798754006f11ed4689
+
 ---
 
-## 40564 — Zestaw Lego Creator 40564 Zimowe Elfy
+## 40564 — Zimowe elfy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 108.00 zł · EAN: 05702017241845 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40564 |
+| Nazwa angielska | Winter Elves Scene |
+| Nazwa polska | Zimowe elfy |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 372 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241845, 5702019888062 |
 
 ZESTAW LEGO CREATOR - 40564 - ZIMOWE ELFY
 
@@ -3319,11 +5464,27 @@ Model został zaprojektowany jako kompaktowa, ale bardzo bogata w szczegóły sc
 
 Zestaw LEGO Creator 40564 to doskonały wybór na prezent, który sprawdzi się zarówno z okazji urodzin, jak i bez specjalnej okazji. To zestaw, który wprowadza świąteczną atmosferę, zachęca do kreatywnego budowania i jednocześnie pięknie prezentuje się jako dekoracja. Dzięki połączeniu uroczego designu oraz możliwości rozbudowy o inne zestawy z serii, stanowi on wyjątkowy upominek dla każdego fana LEGO. To propozycja, która sprawia radość nie tylko podczas składania, ale także długo po zakończeniu budowy, stając się elementem świątecznego klimatu w domu.
 
+**Galeria:**
+
+- 40564-1: https://a.allegroimg.com/original/11b5a4/3a42df18411c8b9f2f3a75206530
+
 ---
 
-## 40565 — Zestaw Lego Creator 40565 Pracownia Świętego Mikołaja
+## 40565 — Klocki LEGO Creator 40565 Pracownia Świętego Mikołaja
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 183.00 zł · EAN: 05702017241852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40565 |
+| Nazwa angielska | Santa's Workshop |
+| Nazwa polska | Klocki LEGO Creator 40565 Pracownia Świętego Mikołaja |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 329 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241852 |
 
 ZESTAW LEGO CREATOR - 40565 - PRACOWNIA ŚWIĘTEGO MIKOŁAJA
 
@@ -3363,11 +5524,27 @@ Model można bez problemu połączyć z innymi zestawami z serii Creator oraz ś
 
 Zestaw LEGO Creator 40565 to doskonały wybór dla wszystkich miłośników świątecznych klimatów, kreatywnej zabawy i kolekcjonerskich modeli. Łączy on przyjemność budowania z możliwością późniejszego odgrywania zimowych scenek i tworzenia własnych historii z udziałem Mikołaja oraz elfa. Dzięki 329 elementom zapewnia satysfakcjonujące wyzwanie konstrukcyjne, a gotowy model może przez długi czas zdobić pokój lub salon jako świąteczna dekoracja. Możliwość łączenia z innymi zestawami z tej serii dodatkowo zwiększa jego atrakcyjność i zachęca do rozwijania kolekcji. To świetny świąteczny prezent, upominek bez okazji lub niespodzianka dla każdego fana LEGO, który lubi klimatyczne, sezonowe zestawy pełne uroku i ciekawych detali.
 
+**Galeria:**
+
+- 40565-1: https://a.allegroimg.com/original/11a06b/9c8bb3f4456e90d42167cf40c443
+
 ---
 
-## 40568 — Lego Creator 40568 Pocztówka z Paryża
+## 40568 — Pocztówka z Paryża
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 304.50 zł · EAN: 05702017241883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40568 |
+| Nazwa angielska | Paris Postcard |
+| Nazwa polska | Pocztówka z Paryża |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 213 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241883 |
 
 LEGO CREATOR - 40568 - POCZTÓWKA Z PARYŻA - !!!
 
@@ -3382,11 +5559,27 @@ Ilość elementów : 213
  
 Zestaw zostanie wysłany w dodatkowym kartonowym opakowaniu i folii zabezpieczającej.
 
+**Galeria:**
+
+- 40568-1: https://a.allegroimg.com/original/11ac1c/10477bc244fdb7af00588b9a1bbe
+
 ---
 
-## 40569 — Lego 40569 Pocztówka z Londynu
+## 40569 — Pocztówka z Londynu
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 73.83 zł · EAN: 05702017241890 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40569 |
+| Nazwa angielska | London Postcard |
+| Nazwa polska | Pocztówka z Londynu |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017241890 |
 
 LEGO® 40569 Pocztówka z Londynu
 
@@ -3397,11 +5590,27 @@ Doceń jedno z najpiękniejszych miast świata, budując trójwymiarowy model z 
 - Podziwiaj widoki — zestaw LEGO® Pocztówka z Londynu (40569) ukazuje jedne z najsłynniejszych atrakcji miasta: Big Bena, plac Piccadilly Circus i London Eye 
 - Doskonała ozdoba — składająca się z 277 elementów pocztówka LEGO® ma ok. 13 cm wysokości i będzie wspaniałą kreatywną ozdobą dla londyńczyków i wszystkich miłośników tego miasta
 
+**Galeria:**
+
+- 40569-1: https://a.allegroimg.com/original/11d1f8/1368cc94400b9366890e2cee34bc
+
 ---
 
-## 40584 — Lego Creator 40584 Urodzinowa Diorama
+## 40584 — Urodzinowa Diorama
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 44.00 zł · EAN: 05702017434773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40584 |
+| Nazwa angielska | Birthday Diorama |
+| Nazwa polska | Urodzinowa Diorama |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017434773 |
 
 Witamy!
 
@@ -3423,26 +5632,59 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
----
+**Galeria:**
 
-## 40588 — Lego Kwiaty 40588 Doniczka wielkanoc
-
-*Kategoria: Creator · cena Allegro (2026-08-17): 186.99 zł · EAN: 05702017422145 · in stock*
-
-LEGO® 40588 Doniczka
-
-Praca nad tym projektem wprowadzi Cię w stan relaksującego skupienia, gdy będziesz budować wszystkie szczegóły zestawu LEGO® Doniczka (40588), który następnie może stać się ulubioną ozdobą. Ta elegancka doniczka to świetne miejsce na ulubione wiosenne kwiaty w wersji LEGO, takie jak kwiaty wiśni, kraspedie i inne odmiany. Zestaw idealnie nadaje się na prezent dla miłośników roślin w wieku od 12 lat, którzy lubią dekorować wnętrza.
- 
- 
-- Zestaw z kwiatami LEGO® – oprócz doniczki zestaw zawiera też wiosenne kwiaty, w tym kwiaty wiśni, wierzbę różnobarwną i kraspedie 
-- Prezent dla miłośników dekoracji – zestaw LEGO® Doniczka (40588) to świetny projekt dla osób, które lubią rośliny lub domowe dekoracje 
-- Wymiary – model ma 29 cm wysokości, 12 cm szerokości i 12 cm głębokości
+- 40584-1: https://a.allegroimg.com/original/116bfc/7f452f344978b133368e28935c61
 
 ---
 
-## 40596 — Lego 40596 Magiczny labirynt
+## 40588 — Doniczka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 218.99 zł · EAN: 05702017470467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40588 |
+| Nazwa angielska | Flowerpot |
+| Nazwa polska | Doniczka |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017422145, 74594826384 |
+
+Oświetlenie LED do Lego Doniczka Flowerpot 40588
+
+**Łatwy montaż-** Zaprojektowany specjalnie z myślą o kompatybilności z doniczką Lego 40588. Wszystkie diody LED emitują spójny strumień światła, a złącza kablowe są dobrze dopasowane. Nasz profesjonalny zespół oświetleniowy zapewnia instrukcje krok po kroku w formie filmów instruktażowych lub plików PDF, które ułatwią Ci instalację.
+
+**Ciesz się kreatywną zabawą DIY- **Nasz zestaw oświetlenia LED do doniczek zapewnia jasne oświetlenie, pozwalając Ci odpocząć od zabieganego życia i na nowo cieszyć się piękną nocą. Zestaw jest idealny dla entuzjastów modelarstwa, którzy chcą samodzielnie ulepszyć swoje klocki i uczynić swoje modele bardziej zaawansowanymi, jednocześnie ciesząc się zabawą DIY.
+
+- **Wiele opcji zasilania-** W zestawie znajduje się kabel USB i etui na baterie. Diody LED do lampy 40588 można zasilać za pomocą powerbanku, ładowarki, portu USB, laptopa lub innego urządzenia podłączonego przez USB. Można ich również używać z baterią (bateria nie jest dołączona).
+- **Bezpieczne w użyciu- **Nasz zestaw lampek dekoracyjnych do doniczek wykonany jest z wysokiej jakości przewodów miedzianych i wyposażony w zabezpieczenie przed przegrzaniem i poparzeniem, co wydłuża jego żywotność. Niskie napięcie 5 V zapewnia bezpieczniejsze użytkowanie.
+
+- **Idealny prezent i zachwycająca ekspozycja-** Te lampki LED to wspaniały prezent urodzinowy, świąteczny, noworoczny, z okazji Dnia Dziecka, ukończenia szkoły, Święta Dziękczynienia i Walentynek dla każdego miłośnika modelarstwa. Mogą one jasno oświetlić klocki w ciemności, tworząc uroczą ozdobę w salonie wystawowym, na półce lub na stole.
+
+**Galeria:**
+
+- 40588-1: https://a.allegroimg.com/original/118b8e/e84fa18d4dc987a8851e5838ec69
+- 40588-2: https://a.allegroimg.com/original/11da18/22b5e7854955b6def1c756bdbbd8
+
+---
+
+## 40596 — Magiczny labirynt
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40596 |
+| Nazwa angielska | Magic Maze |
+| Nazwa polska | Magiczny labirynt |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 332 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 24 cm × gł. 4 cm |
+| EAN | 5702017470467 |
 
 Klocki LEGO Promocyjne 40596 - Magiczny labirynt
 
@@ -3470,11 +5712,27 @@ Zestaw LEGO Promocyjne - Magiczny labirynt trafił do sprzedaży w 2023 roku. 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40596-1: https://a.allegroimg.com/original/11f59a/1978183247aa8b2108fe29965e28
+
 ---
 
-## 40603 — Lego Creator 40603 Zimowa przejażdżka powozem
+## 40603 — Zimowa przejażdżka powozem
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 140.00 zł · EAN: 05702017471433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40603 |
+| Nazwa angielska | Wintertime Carriage Ride |
+| Nazwa polska | Zimowa przejażdżka powozem |
+| Seria | Seasonal |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017471433 |
 
 LEGO Creator 40603 Zimowa przejażdżka powozem
 
@@ -3487,11 +5745,27 @@ Wybierz się w podróż po najwspanialszym okresie w roku dzięki świątecznemu
 
 Zestaw LEGO Okolicznościowe - Zimowy kulig trafił do sprzedaży w 2023 roku. Numer katalogowy tego zestawu to 40603. Zawiera 153 klocków LEGO. W modelu znajdziesz też 3 minifigurki.Grupa wiekowa tego produktu to 9+.
 
+**Galeria:**
+
+- 40603-1: https://a.allegroimg.com/original/1142d3/7772ff66437f86b2390090985934
+
 ---
 
-## 40611 — Lego 40611 Rok smoka
+## 40611 — Klocki LEGO Okolicznościowe 40611 - Rok smoka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 45.00 zł · EAN: 05702017471228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40611 |
+| Nazwa angielska | Year of the Dragon |
+| Nazwa polska | Klocki LEGO Okolicznościowe 40611 - Rok smoka |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471228 |
 
 LEGO OKOLICZNOŚCIOWE 40611
 
@@ -3506,11 +5780,27 @@ LEGO 40611 Rok smoka
 - Płeć: Chłopiec, Dziewczynka
 - Wymiary opakowania: 14 x 12 x 5 cm
 
+**Galeria:**
+
+- 40611-1: https://a.allegroimg.com/original/118a1d/5dc353d146778b351a220efe865d
+
 ---
 
-## 40644 — Klocki Lego Piniata 40644 206 elementów dla dzieci 8 lat
+## 40644 — PINIATA
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 80.99 zł · EAN: 05702017421667 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40644 |
+| Nazwa angielska | Pinata |
+| Nazwa polska | PINIATA |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 206 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 5 cm × gł. 5 cm |
+| EAN | 5702017421667 |
 
 LEGO® 40644 Piniata
 
@@ -3521,11 +5811,27 @@ Zestaw LEGO® Piniata (40644) dla ośmiolatków i starszych dzieci wprowadzi imp
 - Ruchomy osiołek – dzieci mogą ruszać głową, szyją, ogonem, nogami i uszami osiołka, bawić się nim lub postawić jako dekorację 
 - Wymiary – piniata ma 10 cm wysokości, 5 cm szerokości i 5 cm głębokości. Będzie świetnym prezentem na imprezę o każdej porze roku
 
+**Galeria:**
+
+- 40644-1: https://a.allegroimg.com/original/114848/8dda4ce0485d93342ca33d525ef6
+
 ---
 
-## 40650 — Klocki Lego Creator 40650 Land Rover Classic Defender
+## 40650 — Land Rover Classic Defender
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 66.81 zł · EAN: 05702017423982 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40650 |
+| Nazwa angielska | Land Rover Classic Defender |
+| Nazwa polska | Land Rover Classic Defender |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 150 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702017423982 |
 
 LEGO® Creator
  
@@ -3553,11 +5859,27 @@ Połącz z większym modelem — ta mała wersja doskonale pasuje do większego 
  
 Wymiary— model ma 7 cm wysokości, 12 cm długości i 6 cm szerokości. Świetnie sprawdzi się jako prezent dla małych miłośników aut, którzy lubią się bawić w różnych miejscach.
 
+**Galeria:**
+
+- 40650-1: https://a.allegroimg.com/original/117e77/a26ddb56451a9ea4d1dfd3e2b400
+
 ---
 
-## 40651 — Lego 40651 Okolicznościowe Pocztówka z Australii
+## 40651 — Pocztówka z Australii
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 128.89 zł · EAN: 05702017423999 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40651 |
+| Nazwa angielska | Australia Postcard |
+| Nazwa polska | Pocztówka z Australii |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm × gł. 5 cm |
+| EAN | 5702017423999 |
 
 Klocki LEGO Okolicznościowe 40651 - Pocztówka z Australii
 
@@ -3583,11 +5905,27 @@ Zestaw LEGO Okolicznościowe - Pocztówka z Australii trafił do sprzedaży w 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40651-1: https://a.allegroimg.com/original/112f4f/1691e6c5470cbe2a83b09627f1bb
+
 ---
 
-## 40654 — Lego 40654 Okolicznościowe Pocztówka Z Pekinu
+## 40654 — Pocztówka z Pekinu
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 106.45 zł · EAN: 05702017367545 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40654 |
+| Nazwa angielska | Beijing Postcard |
+| Nazwa polska | Pocztówka z Pekinu |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 274 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017367545 |
 
 LEGO 40654 OKOLICZNOŚCIOWE - POCZTÓWKA Z PEKINU
 
@@ -3613,11 +5951,27 @@ Tchnij życie w chińską stolicę dzięki tej niezwykłej trójwymiarowej poczt
 - Podziwiaj widoki — na pocztówce z Pekinu (40654) ukazano jedne z najsłynniejszych zabytków miasta: Wielki Mur Chiński i Pałac Letni,
 - Doskonała ozdoba — składająca się z 276 elementów pocztówka LEGO® ma ok. 9 cm wysokości i będzie wspaniałą kreatywną ozdobą dla każdego miłośnika Pekinu.
 
+**Galeria:**
+
+- 40654-1: https://a.allegroimg.com/original/116d80/483e460e4c919c1c55a9b19af13d
+
 ---
 
-## 40691 — Oryginalne Lego Creator 3w1 40691 Mityczny pegaz Klocki Nowe
+## 40691 — Mityczny pegaz
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 259.21 zł · EAN: 05702017598642 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40691 |
+| Nazwa angielska | Mythical Pegasus |
+| Nazwa polska | Mityczny pegaz |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598642 |
 
 LEGO 40691 Creator 3w1 - Mityczny pegaz
 
@@ -3649,11 +6003,26 @@ Każdy model można ustawić na majestatycznym postumencie w greckim stylu.
 
 - Wymiary — ten 278-elementowy zestaw LEGO® obejmuje mitycznego pegaza, który ma 19 cm wysokości
 
+**Galeria:**
+
+- 40691-1: https://a.allegroimg.com/original/11baef/9dcf01474322ba2e3f8938e000e1
+
 ---
 
-## 40692 — Lego 40692 Sklep z cukierkami nowy zestaw klocków
+## 40692 — Sklep z cukierkami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702017598666 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40692 |
+| Nazwa angielska | Candy Store |
+| Nazwa polska | Sklep z cukierkami |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702017598666 |
 
 Witam
 
@@ -3675,11 +6044,26 @@ Odkryj dwa piętra pełne słodkości, gdzie znajdziesz miniaturową maszynę do
 - Pomysł na prezent dla dzieci – zestaw to świetny upominek dla chłopców i dziewczynek w wieku od 12 lat oraz dorosłych miłośników minimodeli lub przedmiotów kolekcjonerskich
 - Wymiary — ten 345-elementowy zestaw ma 13 cm wysokości, 9 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40692-1: https://a.allegroimg.com/original/112add/cb7d75f549aa856f72c6b4eb6874
+
 ---
 
-## 40696 — Lego Creator 40696 Piekarnia
+## 40696 — Piekarnia
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 158.00 zł · EAN: 05702017598710 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40696 |
+| Nazwa angielska | Bakery |
+| Nazwa polska | Piekarnia |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702017598710 |
 
 LEGO OKOLICZNOŚCIOWE ŚWIĄTECZNE 40696
  
@@ -3692,11 +6076,27 @@ Zaspokój swój twórczy apetyt, budując Piekarnię LEGO® (40696) pełną rozm
 - Pomysł na prezent dla dzieci — zestaw to świetny upominek dla chłopców i dziewczynek w wieku od 12 lat oraz dorosłych miłośników minimodeli lub przedmiotów kolekcjonerskich 
 - Wymiary — Piekarnia LEGO® zawiera 376 elementów i ma 12 cm wysokości, 9 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40696-1: https://a.allegroimg.com/original/1140bc/39eabacd4a54820b26cccec49b85
+
 ---
 
-## 40697 — Lego Creator 40697 Dynia na Halloween
+## 40697 — Dynia na Halloween
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 179.00 zł · EAN: 05702017598727 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40697 |
+| Nazwa angielska | Halloween Pumpkin |
+| Nazwa polska | Dynia na Halloween |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 254 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 12 cm |
+| EAN | 5702017598727 |
 
 Klocki LEGO Okolicznościowe 40697 - Dynia na Halloween
  
@@ -3712,11 +6112,26 @@ O zestawie
 - Prezent na Halloween dla dzieci — zestaw z dynią gwarantuje ekscytującą zabawę w budowanie. To także świetny prezent dla dzieci, które uwielbiają Halloween 
 - Wymiary — ten 254-elementowy zestaw LEGO® obejmuje Dynię na Halloween, która ma 8 cm wysokości, 8 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 40697-1: https://a.allegroimg.com/original/11ef6a/32c4eacc444bb6a5ab5cc4a51df1
+
 ---
 
-## 40699 — Zestaw Lego Creator Retro Record Player 40699 Gramofon retro z płytą winyl
+## 40699 — Gramofon retro
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 298.00 zł · EAN: 05702017598130 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40699 |
+| Nazwa angielska | Retro Record Player |
+| Nazwa polska | Gramofon retro |
+| Seria | Creator |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 310 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598130 |
 
 **LEGO 40699 – Retro Record Player / Gramofon retro z płytą winylową**
 
@@ -3732,11 +6147,27 @@ Kultowy gramofon w stylu retro z serii LEGO Icons. Zestaw pozwala zbudować eleg
 
 Świetny zestaw dla fanów LEGO, muzyki i modeli w stylu retro. Idealny również jako oryginalna dekoracja lub prezent.
 
+**Galeria:**
+
+- 40699-1: https://a.allegroimg.com/original/1168b9/eb8f3ced432e91f8071266648231
+
 ---
 
-## 40700 — Lego Creator 40700 Zimowy pociąg
+## 40700 — Zimowy pociąg
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017598758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40700 |
+| Nazwa angielska | Winter Holiday Train |
+| Nazwa polska | Zimowy pociąg |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 294 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm |
+| EAN | 5702017598758 |
 
 LEGO 40700 - Zimowy pociąg
  
@@ -3756,11 +6187,27 @@ Ilość klocków:** 294**
 - Prezent dla dzieci — zestaw z pociągiem gwarantuje ekscytującą zabawę w budowanie. To także świetny prezent dla dzieci, które uwielbiają pociągi i święta 
 - Wymiary — Zimowy pociąg LEGO® w tym 294-elementowym zestawie zawiera lokomotywę parową, która ma 8 cm wysokości, 15 cm długości i 4 cm szerokości
 
+**Galeria:**
+
+- 40700-1: https://a.allegroimg.com/original/1199bc/a2a14bf1415c92fae6188febb186
+
 ---
 
-## 40701 — Lego Creator 40701 Scena z baletnicą i dziadkiem do orzechów
+## 40701 — Scena z baletnicą i dziadkiem do orzechów
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702017598147 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40701 |
+| Nazwa angielska | Ballerina & Nutcracker Scene |
+| Nazwa polska | Scena z baletnicą i dziadkiem do orzechów |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 244 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702017598147 |
 
 Lego 40701 - Scena z baletnicą i dziadkiem do orzechów
 
@@ -3778,11 +6225,27 @@ PRODUKT NOWY OPAKOWANIE MOŻE BYĆ LEKKO WYGNIECIONE
 
 aleje zt60/30
 
+**Galeria:**
+
+- 40701-1: https://a.allegroimg.com/original/11cd2c/24edcf264112a8db6f8ef09b635d
+
 ---
 
-## 40713 — Klocki Lego Creator Pocztówka z Japonii 40713.
+## 40713 — Pocztówka z Japonii
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702017595566 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40713 |
+| Nazwa angielska | Japan Postcard |
+| Nazwa polska | Pocztówka z Japonii |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595566 |
 
 LEGO CREATOR 40713
  
@@ -3798,11 +6261,26 @@ Zachwyć znajomego podróżnika kolekcjonerską pocztówką z Japonii LEGO® (40
 - Pocztówka na prezent — ten zestaw to świetny prezent dla dzieci zainteresowanych geografią, a także dorosłych podróżujących po świecie, którzy marzą, by odwiedzić ten kraj 
 - Do zabawy i ozdoby — pocztówka składa się z 262 elementów i ma 10 cm wysokości. Idealnie sprawdzi się jako ozdoba
 
+**Galeria:**
+
+- 40713-1: https://a.allegroimg.com/original/11cb38/c227c0f741f2b53ae7dc832479d5
+
 ---
 
-## 40744 — Lego 40744 Kolekcja ozdób świątecznych
+## 40744 — Kolekcja ozdób świątecznych
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 26.88 zł · EAN: 05702017598116 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40744 |
+| Nazwa angielska | Christmas Ornament Selection |
+| Nazwa polska | Kolekcja ozdób świątecznych |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 153 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 8 cm × gł. 2 cm |
+| EAN | 5702017598116 |
 
 LEGO 40744 Świąteczne
  
@@ -3832,11 +6310,27 @@ Zestaw jest idealny do budowania samodzielnie lub w większym gronie. Pozwala ro
 - Zestawy świąteczne LEGO® — możesz je ustawić obok innych świątecznych dekoracji LEGO (sprzedawanych osobno), aby stworzyć świąteczną kompozycję zbudowaną z klocków 
 - Wymiary — największa ozdoba w tym 153-elementowym zestawie ma 9 cm wysokości, 8 cm szerokości i 2 cm głębokości
 
+**Galeria:**
+
+- 40744-1: https://a.allegroimg.com/original/057670/2a289ed4405b82933430a8c125b4
+
 ---
 
-## 40749 — Lego Creator 40749 BrickHeadz Radość, Smutek i Strach Disney and Pixar
+## 40749 — Radość, Smutek i Spina
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 118.45 zł · EAN: 05702017652894 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40749 |
+| Nazwa angielska | Joy, Sadness & Anxiety |
+| Nazwa polska | Radość, Smutek i Spina |
+| Seria | BrickHeadz |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 300 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652894 |
 
 **LEGO® BrickHeadz 40749 Radość, Smutek i Strach**
 
@@ -3864,11 +6358,27 @@ Zachwyć 10-letnie i starsze dzieci oraz fanów filmów zestawem LEGO® BrickHea
 - Pomysł na prezent dla chłopców i dziewczynek – zestaw jest idealnym prezentem dla dzieci, dorosłych fanów studia Pixar i kinomaniaków 
 - Wymiary – zestaw zawiera 300 elementów. Radość ma 9 cm wysokości, Strach ma 8 cm wysokości, a Smutek – 6 cm wysokości
 
+**Galeria:**
+
+- 40749-1: https://a.allegroimg.com/original/11e420/97190d59478f931e6193777c3a3e
+
 ---
 
-## 40758 — Lego Creator 40758 Świętowanie: diabelski młyn z fajerwerkami
+## 40758 — Świętowanie: diabelski młyn z fajerwerkami
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 43.94 zł · EAN: 05702017830186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40758 |
+| Nazwa angielska | Celebration: Ferris Wheel with Fireworks |
+| Nazwa polska | Świętowanie: diabelski młyn z fajerwerkami |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 15 cm × gł. 9 cm |
+| EAN | 5702017830186 |
 
 Lego Creator 40758 Świętowanie: diabelski młyn z fajerwerkami / NOWY / UNIKAT
 
@@ -3894,11 +6404,27 @@ Ilość elementów - 230
 - Model ekspozycyjny — diabelski młyn z fajerwerkami można ustawić na półce z okazji urodzin, ukończenia szkoły lub innej uroczystości. To wspaniały prezent dla chłopców i dziewczynek w wieku od ośmiu lat. 
 - Wymiary — ten230-elementowy zestaw zawiera diabelski młyn do zbudowania, który ma 22 cm wysokości, 15 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 40758-1: https://a.allegroimg.com/original/1139d9/a394695a46a4a9591d68dcce78b9
+
 ---
 
-## 40759 — Lego 40759 Walentynkowe pudełko Serce
+## 40759 — Seria okolicznościowa: Walentynkowe pudełko
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 101.55 zł · EAN: 05702017830193 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40759 |
+| Nazwa angielska | Celebration Series: Valentine's Day Box |
+| Nazwa polska | Seria okolicznościowa: Walentynkowe pudełko |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 10 cm |
+| EAN | 5702017830193 |
 
 Zestaw LEGO® Creator 40759
 
@@ -3912,11 +6438,27 @@ Czerwone pudełko w kształcie serca z białą kokardą stoi na podstawce ozdobi
 - Prezent LEGO® dla dzieci — ten zestaw z pudełkiem czekoladek zapewni świetną zabawę w budowanie. Można go podarować bliskiej osobie lub dzieciom w wieku od siedmiu lat na specjalną okazję 
 - Wymiary — ten 172-elementowy zestaw LEGO® zawiera Walentynkowe pudełko, które ma 6 cm wysokości, 10 cm długości i 10 cm szerokości
 
+**Galeria:**
+
+- 40759-1: https://a.allegroimg.com/original/114a6a/ba347a514e2ab33c4a8838493687
+
 ---
 
-## 40763 — Lego Creator 40763 Miś Na Dzień Dziecka 8+ Nowy
+## 40763 — Miś na Dzień Dziecka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702017830230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40763 |
+| Nazwa angielska | Children's Day Teddy Bear |
+| Nazwa polska | Miś na Dzień Dziecka |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 238 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830230 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -3941,11 +6483,27 @@ Ta figurka ma ruchomą głowę, ramiona i nogi oraz mnóstwo fajnych akcesoriów
 - Prezent LEGO® dla dzieci — ten zestaw z misiem zapewni świetną zabawę w budowanie. Można go podarować bliskiej osobie lub dzieciom na specjalną okazję
 - Wymiary — ten 238-elementowy zestaw ma 12 cm wysokości
 
+**Galeria:**
+
+- 40763-1: https://a.allegroimg.com/original/11ffe8/0688d23741b68469d2caea2e4561
+
 ---
 
-## 40772 — Lego 40772 Creator Seria okolicznościowa Świecący duszek
+## 40772 — Seria okolicznościowa: Świecący duszek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 83.00 zł · EAN: 05702017829821 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40772 |
+| Nazwa angielska | Celebration Series: Luminous Ghost |
+| Nazwa polska | Seria okolicznościowa: Świecący duszek |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829821 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -3955,11 +6513,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40772-1: https://a.allegroimg.com/original/11f24f/ffef944345dfad46881310f19fb5
+
 ---
 
-## 40777 — Zestaw Lego Creator 40777 Świąteczna Ozdoba Z Piernikowym Pociągiem
+## 40777 — Klocki LEGO Creator 40777 Ozdoba z piernikowym pociągiem
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 57.80 zł · EAN: 05702017829852 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40777 |
+| Nazwa angielska | Celebration Series: Gingerbread Train Ornament |
+| Nazwa polska | Klocki LEGO Creator 40777 Ozdoba z piernikowym pociągiem |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 6 cm |
+| EAN | 5702017829852 |
 
 ZESTAW LEGO CREATOR - 40777 - ŚWIĄTECZNA OZDOBA Z PIERNIKOWYM POCIĄGIEM
 
@@ -3999,11 +6573,27 @@ Zestaw należy do popularnej serii LEGO Creator i może łączyć się z innymi 
 
 LEGO Creator 40777 to świetny wybór dla każdego, kto lubi klocki LEGO, kreatywne budowanie oraz wyjątkowe dekoracje. Kompaktowy model może pełnić jednocześnie funkcję zabawki oraz świątecznej ozdoby. To świetny prezent urodzinowy dla dziecka, ale również doskonały upominek bez okazji dla fana LEGO, który lubi nietypowe i dekoracyjne modele. Zestaw sprawdzi się także jako mała niespodzianka na rozpoczęcie świątecznego sezonu. Łączy przyjemność budowania, kreatywną zabawę i efektowną dekorację, dlatego może sprawić dużo radości zarówno w trakcie składania, jak i po ukończeniu modelu.
 
+**Galeria:**
+
+- 40777-1: https://a.allegroimg.com/original/1179ac/40fad92b49678b10b57f682b600d
+
 ---
 
-## 40818 — Klocki Lego Creator Pocztówka z Włoch 189 elementów 9 lat 40818
+## 40818 — Pocztówka z Włoch
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 74.84 zł · EAN: 05702017830827 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40818 |
+| Nazwa angielska | Italy Postcard |
+| Nazwa polska | Pocztówka z Włoch |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 189 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 14 cm × gł. 4 cm |
+| EAN | 5702017830827 |
 
 LEGO® 40818 Pocztówka z Włoch
 
@@ -4017,11 +6607,26 @@ Odwzoruj niektóre z najbardziej kultowych włoskich atrakcji turystycznych dzi�
 - Prezent dla podróżników — ta pocztówka LEGO® to idealny pomysł na prezent dla każdego, kto kocha Włochy lub marzy o tym, aby kiedyś tam pojechać 
 - Wymiary — kolekcjonerska pocztówka z klocków zawiera 189 elementów i ma 9 cm wysokości, 14 cm szerokości i 4 cm głębokości
 
+**Galeria:**
+
+- 40818-1: https://a.allegroimg.com/original/111a19/cb3f24bd45aea9ae5e3f3321a277
+
 ---
 
-## 40872 — Lego 40872 Halloweenowa latarnia z dyni
+## 40872 — Halloweenowa latarnia z dyni
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 180.00 zł · EAN: 05702018071380 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40872 |
+| Nazwa angielska | Halloween Pumpkin Lantern |
+| Nazwa polska | Halloweenowa latarnia z dyni |
+| Seria | Icons |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 323 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm × gł. 12 cm |
+| EAN | 5702018071380 |
 
 **LEGO 40872 Halloweenowa latarnia z dyni**
 
@@ -4044,11 +6649,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40872-1: https://a.allegroimg.com/original/1184d3/03e9c76745b692299d3fef7e8949
+
 ---
 
-## 40873 — Lego 40873 Kolorowy lampion
+## 40873 — Kolorowy lampion
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 110.00 zł · EAN: 05702018071397 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40873 |
+| Nazwa angielska | Colorful Lantern |
+| Nazwa polska | Kolorowy lampion |
+| Seria | Icons |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 286 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 15 cm × szer. 7 cm × gł. 7 cm |
+| EAN | 5702018071397 |
 
 **LEGO 40873 Kolorowy lampion**
 
@@ -4071,11 +6691,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40873-1: https://a.allegroimg.com/original/11d592/c9f3275a4501965992d82fd493c1
+
 ---
 
-## 40883 — Lego 40883 Halloweenowa czaszka ze świecą
+## 40883 — Halloweenowa czaszka ze świecą
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 110.00 zł · EAN: 05702018071427 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40883 |
+| Nazwa angielska | Halloween Skull Candle |
+| Nazwa polska | Halloweenowa czaszka ze świecą |
+| Seria | Icons |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 204 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 9 cm × gł. 8 cm |
+| EAN | 5702018071427 |
 
 **LEGO 40883 Halloweenowa czaszka ze świecą**
 
@@ -4098,11 +6733,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 40883-1: https://a.allegroimg.com/original/11bbd5/5c918da147bea84ddc1944dd1f86
+
 ---
 
-## 40885 — Lego 40885 Rodzina Kaczek
+## 40885 — Rodzina kaczek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 96.99 zł · EAN: 05702018074046 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40885 |
+| Nazwa angielska | Duck Family |
+| Nazwa polska | Rodzina kaczek |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018074046 |
 
 LEGO 40885 Rodzina Kaczek
 
@@ -4134,11 +6784,26 @@ Czas na budowanie
 
 Stwórz własną, spokojną scenę z natury - LEGO 40885 Rodzina Kaczek to model, który wnosi do kolekcji ciepło i uśmiech.
 
+**Galeria:**
+
+- 40885-1: https://a.allegroimg.com/original/11dd7a/ffc958ce41c5ac2981090d23da54
+
 ---
 
-## 40953 — Lego Creator 40953 Londyński autobus
+## 40953 — Londyński autobus
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.99 zł · EAN: 05702018071168 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40953 |
+| Nazwa angielska | London Bus |
+| Nazwa polska | Londyński autobus |
+| Seria | Creator |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 245 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 5 cm |
+| EAN | 5702018071168 |
 
 Klocki LEGO Creator 40953 - Londyński autobus
 
@@ -4154,11 +6819,26 @@ Zachwyć chłopców i dziewczynki w wieku od ośmiu lat zestawem LEGO® Londyńs
 - Pomysł na prezent w brytyjskim stylu — zestaw stanowi ciekawą pamiątkę z Wielkiej Brytanii lub Londynu albo prezent urodzinowy dla chłopców, dziewczynek i miłośników pojazdów w każdym wieku 
 - Wymiary — autobus w tym 244-elementowym zestawie ma 8 cm wysokości, 15 cm długości i 5 cm szerokości
 
+**Galeria:**
+
+- 40953-1: https://a.allegroimg.com/original/115589/0ec8a1824e1cae050b737b816d1f
+
 ---
 
-## 40954 — Lego Creator 40954 Pocztówka z Niemiec
+## 40954 — Pocztówka z Niemiec
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 70.67 zł · EAN: 05702018071175 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40954 |
+| Nazwa angielska | Germany Postcard |
+| Nazwa polska | Pocztówka z Niemiec |
+| Seria | Creator |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 240 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071175 |
 
 LEGO 40954 Pocztówka z Niemiec
 
@@ -4190,11 +6870,27 @@ Czas na budowanie
 
 Stwórz własną pamiątkę z podróży w klockowym wydaniu - LEGO 40954 Pocztówka z Niemiec to zestaw, który łączy kreatywność, estetykę i inspirację do odkrywania świata.
 
+**Galeria:**
+
+- 40954-1: https://a.allegroimg.com/original/11f8a8/9860c4d44e8ca688da373f07d275
+
 ---
 
-## 4100 — nowy Lego Creator 4100 Designer Set Maximum Wheels unikat Misb 2003
+## 4100 — Designer set
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 389.99 zł · EAN: 05702014264090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4100 |
+| Nazwa angielska | Maximum Wheels |
+| Nazwa polska | Designer set |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014264090 |
 
 Cześć!
 
@@ -4212,11 +6908,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4100-1: https://a.allegroimg.com/original/11c7b2/a4c239fa4e8d9381c829a077b152
+
 ---
 
-## 4173 — nowy Lego 4173 creator basic Max's Pitstop Maxa Misb 2001
+## 4173 — 4173
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 119.99 zł · EAN: 05702012013294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4173 |
+| Nazwa angielska | Max's Pitstop |
+| Nazwa polska | 4173 |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 58 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012013294 |
 
 Cześć!
 
@@ -4234,11 +6946,27 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 4173-1: https://a.allegroimg.com/original/11512e/7b41bcc640c5bd12dabec5cba930
+
 ---
 
-## 4408 — Lego Creator 4408 zwierzęta
+## 4408 — zwierzęta
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702014365872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4408 |
+| Nazwa angielska | Animals |
+| Nazwa polska | zwierzęta |
+| Seria | Creator |
+| Grupa wiekowa | 4 lata + |
+| Rok wydania | 2004 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014365872 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4262,11 +6990,27 @@ Pozdrawiam.
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4408-1: https://a.allegroimg.com/original/113fc4/bfcc723a49b8ae380d9662012496
+
 ---
 
-## 4891 — Lego Creator 4891 Highway Haulers
+## 4891 — Highway Haulers
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 430.00 zł · EAN: 05702014467637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4891 |
+| Nazwa angielska | Highway Haulers |
+| Nazwa polska | Highway Haulers |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 209 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014467637 |
 
 Ten nowy zestaw jest wypełniony po brzegi elementami, które tworzą 6 różnych, superfajnych pojazdów! Zbuduj transporter samochodów i dwa samochody jednocześnie, albo buggy, wywrotkę lub samochód wyścigowy! To aż 6 różnych pojazdów, a instrukcje budowy wszystkich sześciu znajdują się w jednym pudełku!
  
@@ -4275,21 +7019,53 @@ Ten nowy zestaw jest wypełniony po brzegi elementami, które tworzą 6 różnyc
 - Zbuduj transporter samochodów i dwa samochody jednocześnie! 
 - Transporter ma ponad 20,3 cm długości!
 
+**Galeria:**
+
+- 4891-1: https://a.allegroimg.com/original/115eea/4f26d9e14e748eb3653f04ad2f50
+
 ---
 
-## 4894 — Lego Creator 4894 Smok
+## 4894 — Smok
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 629.00 zł · EAN: 05702014469761 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4894 |
+| Nazwa angielska | Mythical Creatures |
+| Nazwa polska | Smok |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 588 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014469761 |
 
 Zestaw LEGO® 4894 “Mythical Creatures” z serii Creator wydany w 2006 roku zawiera 588 elementów . Ten zestaw 8-w-1 pozwala zbudować mityczne stworzenia, w tym smoka, trolla i skorpiona.
 
 Faktyczny stan sprzedawanego przeze mnie zestawu oraz jego opakowania przedstawiają wyłącznie DWA OSTATNIE ZDJĘCIA w galerii (tzw. Real Photo). Proszę o dokładne zapoznanie się z nimi przed zakupem. Dokonując zakupu na tej aukcji, akceptują Państwo stan wizualny pudełka widoczny na tych autentycznych fotografiach.
 
+**Galeria:**
+
+- 4894-1: https://a.allegroimg.com/original/11ce17/ec5347a7415bbc578ac2e18b7314
+
 ---
 
-## 4955 — Lego Creator 4955 Big Rig
+## 4955 — Big Rig
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702014500037 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4955 |
+| Nazwa angielska | Big Rig |
+| Nazwa polska | Big Rig |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 550 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014500037 |
 
 Nowy nieotwierany zestaw Lego 4955 Big Rig.
 
@@ -4297,11 +7073,27 @@ Pudełko ma nieduże ślady przechowywania.
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 4955-1: https://a.allegroimg.com/original/1179e7/fc32c6344f19970fd9643341bbab
+
 ---
 
-## 5003083 — nowy Lego Creator 5003083 Zestaw ozdób świątecznych unikat Misb 2015
+## 5003083 — ozdoba choinkowa
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 90.10 zł · EAN: 00673419241908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5003083 |
+| Nazwa angielska | Christmas Tree Ornament |
+| Nazwa polska | ozdoba choinkowa |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 32 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419241908 |
 
 Cześć!
 
@@ -4321,11 +7113,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 5003083-1: https://a.allegroimg.com/original/11ca42/4c3ab2c7425598d0ce4e9180e369
+
 ---
 
-## 5008259 — Lego 5008259 Zestaw Świątecznych Foremek Do Ciastek Z Kubkiem
+## 5008259 — Foremki
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 43.00 zł · EAN: 05060373576712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5008259 |
+| Nazwa angielska | Christmas Cookie Stamps & Mug Set |
+| Nazwa polska | Foremki |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373576712 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4348,11 +7155,26 @@ Zestaw zawiera:
 - Nie należy myć w zmywarce
 - Pojemność 300ml
 
+**Galeria:**
+
+- 5008259-1: https://a.allegroimg.com/original/11a258/7c5d31f64443ae6b050f6de91204
+
 ---
 
-## 56899 — Lego Creator 4 zestawy saszetek 11977 11945 11947 11948
+## 56899 — Lego Creator 4 zestawy saszetek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 144.44 zł · EAN: 09789925305223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 56899 |
+| Nazwa angielska | — |
+| Nazwa polska | Lego Creator 4 zestawy saszetek |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | — |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 9789925305223 |
 
 Klocki nie nadają się dla dzieci poniżej 3 roku życia ze względu na ryzyko połknięcia.
 
@@ -4370,11 +7192,27 @@ Lego 11948
 
 Karton 196
 
+**Galeria:**
+
+- 56899-1: https://a.allegroimg.com/original/11f94e/c96fc24447f8a2d0c6ba4a29058e
+
 ---
 
-## 5763 — Lego 5763 Creator 3 w 1 Dune Hopper Unikat z 2011r
+## 5763 — Dune Hopper
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702014732810 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5763 |
+| Nazwa angielska | Dune Hopper |
+| Nazwa polska | Dune Hopper |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 137 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014732810 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -4384,11 +7222,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 5763-1: https://a.allegroimg.com/original/114485/a11f06d5415b9c2d1dbf1b44c9f5
+
 ---
 
-## 6346102 — Lego 6346102 Turkusowy Klocek 6+ Nowy
+## 6346102 — Turkusowy klocek
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702016989939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6346102 |
+| Nazwa angielska | — |
+| Nazwa polska | Turkusowy klocek |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 110 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016989939 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -4410,11 +7263,26 @@ Nazwa zestawu w języku angielskim LEGO 2x4 Teal Brick.
 
 Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 6346102-1: https://a.allegroimg.com/original/11a530/cd9f5b3a456faa8ee32e1ff4a74d
+
 ---
 
-## 6471611 — Lego 6471611 Walkman
+## 6471611 — Walkman
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 138.00 zł · EAN: 05702017589183 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6471611 |
+| Nazwa angielska | — |
+| Nazwa polska | Walkman |
+| Seria | Creator |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 145 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017589183 |
 
 LEGO CREATOR 5007869 - WALKMAN
 
@@ -4434,11 +7302,27 @@ specyfikacja
 
 - Model: 5007869 / 6471611
 
+**Galeria:**
+
+- 6471611-1: https://a.allegroimg.com/original/110907/ac6f289f47ae8f18a81c54d467cf
+
 ---
 
-## 6911 — Lego Duplo 10969 Wóz strażacki
+## 6911 — Mały wóz strażacki
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 164.47 zł · EAN: 05702014829404 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6911 |
+| Nazwa angielska | Mini Fire Rescue |
+| Nazwa polska | Mały wóz strażacki |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 69 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 17 cm |
+| EAN | 5702014829404 |
 
 LEGO Duplo 10969 Wóz strażacki
 
@@ -4463,11 +7347,27 @@ Dzięki zabawkom LEGO DUPLO rodzice mogą uczestniczyć w każdym etapie rozwoju
 - Doskonała jakość -- elementy LEGO DUPLO spełniają surowe branżowe standardy, więc maluchy mogą z łatwością chwycić, złączyć i rozłączyć klocki -- i tak jest niezmiennie od 1969 roku
 - Bezpieczeństwo przede wszystkim -- klocki i elementy LEGO DUPLO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy z nich spełnia wysokie światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 6911-1: https://a.allegroimg.com/original/118b9f/936cf855433d8b48ebdd769701c1
+
 ---
 
-## 6912 — Lego 6912 Creator 3w1 ścigacz, odrzutowiec, helikopter, motorówka
+## 6912 — Super ścigacz
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 329.00 zł · EAN: 05702014838260 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6912 |
+| Nazwa angielska | Super Soarer |
+| Nazwa polska | Super ścigacz |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 130 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014838260 |
 
 KLOCKI LEGO CREATOR SUPER ŚCIGACZ 6912
 
@@ -4475,11 +7375,27 @@ Zachwycaj tłumy widzów tym wspaniałym odrzutowcem! Wsuń podwozie i wykonuj n
 
 Na opakowaniu naklejona cenówka.
 
+**Galeria:**
+
+- 6912-1: https://a.allegroimg.com/original/0571b2/0c31b7384c81a321576bd5f9fea3
+
 ---
 
-## 6914 — Lego Creator 6914 Prehistoryczni Łowcy 3w1 Dinozaury Tyranozaur Pterodaktyl
+## 6914 — Prehistoryczni Łowcy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702014838406 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6914 |
+| Nazwa angielska | Prehistoric Hunters |
+| Nazwa polska | Prehistoryczni Łowcy |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 191 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014838406 |
 
 LEGO CREATOR 6914 Prehistoryczni Łowcy
 
@@ -4499,21 +7415,53 @@ Możesz go też przerobić na latającego pterodaktyla z ruchomymi skrzydłami l
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 6914-1: https://a.allegroimg.com/original/11eb02/3b1f952d441e9327e7309ef606fb
+
 ---
 
-## 7223 — Lego Creator 7223 Ciężarówka Ciągnik Misb 2003 rok
+## 7223 — Wheelers
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702014366602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7223 |
+| Nazwa angielska | Wheelers |
+| Nazwa polska | Wheelers |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2003 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 36 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014366602 |
 
 LEGO Creator 7223 Ciężarówka Ciągnik to klasyczny zestaw z 2003 roku z serii LEGO Creator. Ten kolekcjonerski zestaw w stanie MISB (Mint In Sealed Box) to prawdziwa gratka dla kolekcjonerów i fanów klasycznych zestawów LEGO. Zestaw pozwala na zbudowanie ciężarówki-ciągnika z oryginalnych klocków LEGO, zapewniając godziny kreatywnej zabawy i budowania.
 
 Jako zestaw archiwalny, LEGO 7223 jest szczególnie cenny dla kolekcjonerów poszukujących kompletnych, fabrycznie zamkniętych zestawów z początku lat 2000.
 
+**Galeria:**
+
+- 7223-1: https://a.allegroimg.com/original/113595/b9f6e25e4cefab1f71002103aaa1
+
 ---
 
-## 7346 — Lego Creator 7346 Domek Nad Morzem Plaża Surfing Beach Bar Grill Unikat
+## 7346 — LEGO 7346 Creator Domek Nad Morzem
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 499.50 zł · EAN: 05702014840010 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7346 |
+| Nazwa angielska | Seaside House |
+| Nazwa polska | LEGO 7346 Creator Domek Nad Morzem |
+| Seria | Creator |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 415 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014840010 |
 
 Nowy fabrycznie zapakowany zestaw klocków
 
@@ -4529,11 +7477,27 @@ UNIKAT - Zestaw z roku 2012 - fabrycznie zaplombowany
 
 Nigdy nie otwierany - pudełko jest delikatnie pogniecione
 
+**Galeria:**
+
+- 7346-1: https://a.allegroimg.com/original/1150ee/505cf26342f1a3279057f6bdd8ed
+
 ---
 
-## 7602 — Lego Creator 7602 Black Suv saszetka z klockami unikat model wycofany
+## 7602 — Black SUV
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014482753 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7602 |
+| Nazwa angielska | Jeep |
+| Nazwa polska | Black SUV |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014482753 |
 
 Witam
 
@@ -4549,11 +7513,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7602-1: https://a.allegroimg.com/original/11eb15/1bd2fb8748759533ada4670fdb87
+
 ---
 
-## 7604 — Lego Creator 7604 Triceratops saszetka z klockami unikat
+## 7604 — Dinozaur Triceratops
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014482777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7604 |
+| Nazwa angielska | Triceratops |
+| Nazwa polska | Dinozaur Triceratops |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2006 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014482777 |
 
 Witam
 
@@ -4571,11 +7551,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7604-1: https://a.allegroimg.com/original/11175e/2616b2c74be3ba2b5ab15490c41c
+
 ---
 
-## 7799 — Lego Creator 7799 Helikopter Transportowy saszetka z klockami unikat
+## 7799 — Helikopter Transportowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 75.00 zł · EAN: 05702014518407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7799 |
+| Nazwa angielska | Cargo Chopper |
+| Nazwa polska | Helikopter Transportowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518407 |
 
 Witam
 
@@ -4597,11 +7593,27 @@ Zestaw został wydany w woreczku polietylenowym.
  
 Stan woreczka jest bardzo dobry, bez ubytków, przetarć, pęknięć, nalepek cenowych bądź zblakłych obszarów nadruku na woreczku.
 
+**Galeria:**
+
+- 7799-1: https://a.allegroimg.com/original/1106f3/8641925b44d0a39d38444b4c03a1
+
 ---
 
-## 7803 — Lego Creator 7803 Jeep saszetka z klockami model wycofany
+## 7803 — Jeep
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702014540736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7803 |
+| Nazwa angielska | Jeep |
+| Nazwa polska | Jeep |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014540736 |
 
 Witam
 
@@ -4617,11 +7629,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7803-1: https://a.allegroimg.com/original/115c08/f11185bc4592b80fae6e31e2667e
+
 ---
 
-## 7804 — Lego Creator 7804 Jaszczurka saszetka z klockami unikat
+## 7804 — Jaszczurka
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702014540743 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7804 |
+| Nazwa angielska | Green Lizard |
+| Nazwa polska | Jaszczurka |
+| Seria | Creator |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014540743 |
 
 Witam
 
@@ -4637,11 +7665,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7804-1: https://a.allegroimg.com/original/113d06/1f12fd984f83ad9dafe75e0d5da5
+
 ---
 
-## 7805 — Lego Creator 7805 Rekin saszetka z klockami unikat model wycofany
+## 7805 — Rekin
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 85.00 zł · EAN: 05702014540750 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7805 |
+| Nazwa angielska | Shark |
+| Nazwa polska | Rekin |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 44 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014540750 |
 
 Witam
 
@@ -4657,11 +7701,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7805-1: https://a.allegroimg.com/original/11ee70/ed39bffc488c8338cb897a9ff678
+
 ---
 
-## 7808 — Lego Creator 7808 Żółty Samolot saszetka z klockami unikat model wycofany
+## 7808 — Żółty Samolot
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 109.00 zł · EAN: 05702014726390 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7808 |
+| Nazwa angielska | Yellow Airplane |
+| Nazwa polska | Żółty Samolot |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2009 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014726390 |
 
 Witam
 
@@ -4677,11 +7737,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7808-1: https://a.allegroimg.com/original/11c793/83fc78684938a20477aec03c62d5
+
 ---
 
-## 7873 — Lego Creator 7873 Wojskowy samolot odrzutowy saszetka klocki unikat
+## 7873 — Wojskowy Samolot Odrzutowy
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 59.00 zł · EAN: 05702014508989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 7873 |
+| Nazwa angielska | Airplane |
+| Nazwa polska | Wojskowy Samolot Odrzutowy |
+| Seria | Creator |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2007 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014508989 |
 
 Witam
 
@@ -4697,11 +7773,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 7873-1: https://a.allegroimg.com/original/111ee8/208b6b11428886520d01e7dd6260
+
 ---
 
-## 80103 — Zestaw Lego Creator 80103 Wyścig Smoczych Łodzi
+## 80103 — Klocki LEGO Creator 80103 Wyścig smoczych łodzi
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 235.00 zł · EAN: 05702016615456 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80103 |
+| Nazwa angielska | Dragon Boat Race |
+| Nazwa polska | Klocki LEGO Creator 80103 Wyścig smoczych łodzi |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 643 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 32 cm × gł. 6 cm |
+| EAN | 5702016615456 |
 
 ZESTAW LEGO CREATOR - 80103 - WYŚCIG SMOCZYCH ŁODZI
 
@@ -4745,11 +7837,27 @@ Zestaw LEGO 80103 to świetny wybór dla osób, które lubią nietypowe zestawy 
 
 Gotowe łodzie świetnie nadają się do organizowania wyścigów, a jednocześnie prezentują się efektownie po zakończeniu zabawy. Zestaw będzie świetnym prezentem urodzinowym, upominkiem bez okazji lub wyjątkową niespodzianką dla fana kreatywnego budowania. To zestaw, który łączy atrakcyjny wygląd, dużą liczbę postaci, ciekawe akcesoria oraz możliwość aktywnej zabawy, dlatego może dostarczyć wiele godzin satysfakcji zarówno podczas budowania, jak i późniejszego odgrywania własnych wyścigów smoczych łodzi.
 
+**Galeria:**
+
+- 80103-1: https://a.allegroimg.com/original/11c89e/e9f6989a437cbace33abdd2c7907
+
 ---
 
-## 80106 — Lego 80106 Okolicznościowe Historia Niana
+## 80106 — Historia Niana
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 251.90 zł · EAN: 05702016910230 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80106 |
+| Nazwa angielska | Story of Nian |
+| Nazwa polska | Historia Niana |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1067 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 36 cm × gł. 17 cm |
+| EAN | 5702016910230 |
 
 Klocki LEGO Okolicznościowe 80106 - Historia Niana
 
@@ -4769,11 +7877,27 @@ Poznaj chińską kulturę Kolekcjonerskie zabawki konstrukcyjne LEGO przedstawia
 - Klocki konstrukcyjne LEGO® spełniają najwyższe standardy branżowe, dzięki czemu są spójne i pasują do siebie — i tak jest niezmiennie od 1958 roku.
 - Klocki LEGO® są testowane na niemal wszelkie dostępne sposoby. Dzięki temu możesz mieć pewność, że każda zabawka konstrukcyjna spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80106-1: https://a.allegroimg.com/original/11e5ae/f557f98940628c3e40249815113d
+
 ---
 
-## 80111 — Lego Creator 80111 Parada z okazji nowego roku księżycowego
+## 80111 — Parada z okazji nowego roku księżycowego
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702017415628 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80111 |
+| Nazwa angielska | Lunar New Year Parade |
+| Nazwa polska | Parada z okazji nowego roku księżycowego |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1653 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 10 cm |
+| EAN | 5702017415628 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -4816,11 +7940,27 @@ Kolekcjonerskie zestawy LEGO przedstawiające tradycyjne święta są doskonały
 - Edukacyjna zabawa – kolekcjonerskie zabawki LEGO® przedstawiające tradycyjne święta to kreatywne wyzwania konstrukcyjne dla wszystkich osób zainteresowanych kulturą Azji
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 80111-1: https://a.allegroimg.com/original/115a53/fb3e31584e6bbf5fcec8cca6fecd
+
 ---
 
-## 853907 — Lego Holiday & Event Świąteczna Bombka Z Żołnierzykiem 853907
+## 853907 — LEGO 853907 bombka z żołnierzykiem
 
-*Kategoria: Creator · cena Allegro (2026-08-17): 99.75 zł · EAN: 00673419310048 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 853907 |
+| Nazwa angielska | Toy Soldier Ornament |
+| Nazwa polska | LEGO 853907 bombka z żołnierzykiem |
+| Seria | Seasonal |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 43 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419310048 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -4833,6 +7973,10 @@ Stan:** Nowa**
 Rok wydania:** 2019**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( bombka z klockami)**
+
+**Galeria:**
+
+- 853907-1: https://a.allegroimg.com/original/11328a/59e96bcd45e1b5530aedc5a4016c
 
 ---
 

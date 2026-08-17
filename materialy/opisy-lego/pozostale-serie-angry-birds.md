@@ -1,39 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Pozostałe serie > Angry Birds — opisy produktowe (5 pozycji)
+# LEGO Pozostałe serie > Angry Birds — opisy produktowe (4 pozycji)
 
-## 75822 — Lego Angry Birds Atak Samolotem Świnek 75822
+## 75823 — Kradzież jaj na Ptasiej Wyspie
 
-*Kategoria: Pozostałe serie > Angry Birds · cena Allegro (2026-08-17): 268.50 zł · EAN: 05702015597951 · in stock*
-
-LEGO Angry Birds Atak samolotem świnek 75822
-
-Przygotuj się do startu! Podstępne świnki nie cofną się przed niczym, byle tylko wywieźć jajka z Ptasiej Wyspy — tym razem próbują zabrać je samolotem! Złap za katapultę i przygotuj się na zabawę naprawdę wysokich lotów! Pomóż Redowi uratować jajka z samolotu i nie daj się przy tym trafić pociskami z miotacza.
-
-Świnka Pilot wystartowała z Ptasiej Wyspy z 4 jajkami na pokładzie i próbuje uciec! Załaduj katapultę i wystrzel Reda w powietrze, aby dostał się do samolotu! Pokonaj świnkę i przejmij ster, a potem wyląduj. Tylko delikatnie, jajka nie mogą się rozbić! Zawiera 2 figurki.
-
- 
-- W zestawie 2 figurki: Red i świnka pilot. 
-- Samolot świnek ma kręcące się śmigło, podwozie, kokpit, drążek i 2 pociski. 
-- W zestawie akcesoria: katapulta, 4 jajka i 2 balony. 
-- Wystrzel Reda z katapulty i przechwyć samolot świnek! Potem wyląduj, żeby uratować jajka! 
-
- 
-- Zestaw doskonale nadaje się do odgrywania zabawnych i niezwykłych scenek z filmu The Angry BirdsTM. 
-- Zestaw odpowiedni dla dzieci w wieku od 6 do 12 lat. 
-- Wymiary samolotu świnek: ok. 9 cm wysokości, 12 cm długości i 13 cm szerokości. 
-- Wymiary katapulty: ok. 5 cm wysokości, 9 cm długości i 6 cm szerokości.
-
----
-
-## 75823 — Lego Angry Birds 75823 Kradzież jaj na Ptasiej Wyspie Unikat 2016 rok
-
-*Kategoria: Pozostałe serie > Angry Birds · cena Allegro (2026-08-17): 348.88 zł · EAN: 05702015598286 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75823 |
+| Nazwa angielska | Bird Island Egg Heist |
+| Nazwa polska | Kradzież jaj na Ptasiej Wyspie |
+| Seria | Pozostałe serie > Angry Birds |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 17 cm × gł. 9 cm |
+| EAN | 5702015598286 |
 
 Klocki LEGO Angry Birds 75823 - Kradzież jaj na Ptasiej Wyspie
 
@@ -55,11 +41,26 @@ Czy Red zdoła dogonić świnkę, która zabrała jajka i ucieka trójkołowcem?
 
 Zestaw LEGO Angry Birds - Kradzież jaj na Ptasiej Wyspie trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 75823. Zawiera 277 klocków LEGO. W modelu znajdziesz też 3 minifigurki. Nazwa zestawu w języku angielskim LEGO Angry Birds - Bird Island Egg Heist. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 75823-1: https://a.allegroimg.com/original/11597c/c016cf884e258ee4c496cda119b8
+
 ---
 
-## 75824 — Lego Angry Birds 75824 Demolka w Pig City
+## 75824 — LEGO 75824 Angry Birds - Demolka w Pig City
 
-*Kategoria: Pozostałe serie > Angry Birds · cena Allegro (2026-08-17): 489.00 zł · EAN: 05702015598293 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75824 |
+| Nazwa angielska | Pig City Teardown |
+| Nazwa polska | LEGO 75824 Angry Birds - Demolka w Pig City |
+| Seria | Pozostałe serie > Angry Birds |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 386 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015598293 |
 
 LEGO Angry Birds 75824
 
@@ -71,11 +72,26 @@ Przerzuć ptaki ponad głazem, żeby wywołać reakcję łańcuchową, a potem z
 
 Miasto jest pełne świnek, które dwoją się i troją, żeby tylko ukryć jajka. Wystrzel ptaki z katapulty! Spróbuj przewrócić budynki, trafiając w 4 zapadające się strefy celów. Ten zestaw bazuje na filmie The Angry BirdsTM i dostarczy Ci mnóstwa szalonej zabawy. Znajdziesz w nim domek, most, stoisko z hot dogami, świnkę zjeżdżającą na linie i funkcję wybuchu dynamitu. Zawiera 4 figurki.
 
+**Galeria:**
+
+- 75824-1: https://2.allegroimg.com/original/00a01c/4d6cfe884e808fa6e40549e88242
+
 ---
 
-## 75825 — Lego Angry Birds 75825 Statek piracki świnek
+## 75825 — Statek piracki świnek
 
-*Kategoria: Pozostałe serie > Angry Birds · cena Allegro (2026-08-17): 449.95 zł · EAN: 05702015598309 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75825 |
+| Nazwa angielska | Piggy Pirate Ship |
+| Nazwa polska | Statek piracki świnek |
+| Seria | Pozostałe serie > Angry Birds |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 620 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015598309 |
 
 LEGO Angry Birds 75825 Statek piracki świnek
 
@@ -102,11 +118,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 75825-1: https://a.allegroimg.com/original/11f1b3/c6bbf6a948c7aac3c561eada0f01
+
 ---
 
-## 75826 — Lego Angry Birds 75826 Zamek świńskiego króla Nowe
+## 75826 — King Pig's Castle
 
-*Kategoria: Pozostałe serie > Angry Birds · cena Allegro (2026-08-17): 791.00 zł · EAN: 05702015598316 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75826 |
+| Nazwa angielska | King Pig's Castle |
+| Nazwa polska | King Pig's Castle |
+| Seria | Pozostałe serie > Angry Birds |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 859 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 30 cm × gł. 20 cm |
+| EAN | 5702015598316 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -133,6 +164,10 @@ Król świnka ukrył jajka na szczycie swego zamku, ale dla Złych Ptaków to ni
 - Wieża zamku króla świnki ma ok. 32 cm wysokości, 10 cm szerokości i 7 cm głębokości. 
 - Skrzydlata skrzynka dynamitu ma ok. 3 cm wysokości, 5 cm długości i 9 cm szerokości. 
 - Wymiary katapulty: ok. 6 cm wysokości, 9 cm długości i 6 cm szerokości.
+
+**Galeria:**
+
+- 75826-1: https://a.allegroimg.com/original/11d915/06c7f5134b1a8f7355f05d111eef
 
 ---
 

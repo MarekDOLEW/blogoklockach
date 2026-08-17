@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Sonic the Hedgehog — opisy produktowe (26 pozycji)
 
-## 30676 — Lego 30676 Sonic the Hedgehog Kiki i kokosowy atak
+## 30676 — LEGO 30676 Sonic the Hedgehog - Kiki i kokosowy atak
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 9.90 zł · EAN: 05702017592732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30676 |
+| Nazwa angielska | Kiki's Coconut Attack |
+| Nazwa polska | LEGO 30676 Sonic the Hedgehog - Kiki i kokosowy atak |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 36 cm × gł. 6 cm |
+| EAN | 5702017592732 |
 
 LEGO Ideas Sonic the Hedgehog strefa Green Hill, poziom gier wideo, zestaw konstrukcyjny, pomysl na prezent
 
@@ -39,11 +49,26 @@ DANE TECHNICZNE
 - **Baterie w zestawie?:** ‎Nie 
 - **Typy materiałów:** ‎Plastik
 
+**Galeria:**
+
+- 30676-1: https://a.allegroimg.com/original/11e13e/e880e6ca4d12b971a1eaa8c65e25
+
 ---
 
-## 30704 — Lego 30704 Sonic the Hedgehog Balkiry Attack, construction toy
+## 30704 — Atakujący Balkiry
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 7.99 zł · EAN: 05702017819877 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30704 |
+| Nazwa angielska | Balkiry Attack |
+| Nazwa polska | Atakujący Balkiry |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017819877 |
 
 Przeżyj ekscytujące przygody Sonica the Hedgehog z tym zestawem LEGO! Zestaw zawiera minifigurkę Clucky i figurkę Badnika Balkiry'ego do zbudowania.
 
@@ -65,21 +90,51 @@ Przeżyj ekscytujące przygody Sonica the Hedgehog z tym zestawem LEGO! Zestaw z
 
  Ostrzeżenia i instrukcje bezpieczeństwa Ostrzeżenia: Uwaga: Ryzyko zadławienia małymi częściami! Uwaga: Nieodpowiednie dla dzieci poniżej 36 miesięcy!
 
+**Galeria:**
+
+- 30704-1: https://a.allegroimg.com/original/1107bc/87f50d9f44b79d84401062c50608
+
 ---
 
-## 30733 — Saszetka Polybag klocki Lego Sonic 30733 Badnik Skorp
+## 30733 — Badnik: Skorp
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 11.99 zł · EAN: 05702018059401 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30733 |
+| Nazwa angielska | Badnik: Skorp |
+| Nazwa polska | Badnik: Skorp |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 80 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018059401 |
 
 **LEGO Sonic the Hedgehog Badnik: Skorp 30733**
  
 Zaskocz fana Sonica the Hedgehoga™ pierwszym w historii zestawem LEGO® Badnik: Skorp z ruchomym ogonem w kształcie kuli wyburzeniowej, ruchomymi pazurami-wiertłami i trzema złotymi pierścieniami.
 
+**Galeria:**
+
+- 30733-1: https://a.allegroimg.com/original/117b58/a48846264a00a018682e918c5427
+
 ---
 
-## 40769 — Lego 40769 Sonic the Hedgehog Sega Genesis Controller
+## 40769 — SEGA Genesis Controller
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 177.14 zł · EAN: 05702017829791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40769 |
+| Nazwa angielska | SEGA Genesis Controller |
+| Nazwa polska | SEGA Genesis Controller |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 260 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 15 cm × gł. 3 cm |
+| EAN | 5702017829791 |
 
 Klocki LEGO Sonic the Hedgehog 40769 - SEGA® Genesis™ Controller
 
@@ -108,11 +163,26 @@ Zestaw LEGO Sonic the Hedgehog - SEGA® Genesis™ Controller trafił do sprze
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40769-1: https://a.allegroimg.com/original/11c301/b83eaaa440db98379b0110a285ee
+
 ---
 
-## 40781 — Lego Sonic the Hedgehog 40781 Badnik: Crabmeat
+## 40781 — Badnik: Crabmeat
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 95.00 zł · EAN: 05702017830711 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40781 |
+| Nazwa angielska | Badnik: Crabmeat |
+| Nazwa polska | Badnik: Crabmeat |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 181 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017830711 |
 
 LEGO® 40781 Sonic the Hedgehog -
 
@@ -136,11 +206,26 @@ Zaskocz fanów gier wideo w wieku od dziewięciu lat i wręcz im zestaw z modele
 - Prezent dla graczy — ten zestaw do zabawy i ozdoby ze szczegółowym modelem zachęca do odgrywania ról i stanowi świetny prezent dla dzieci i fanów postaci z gry wideo Sonic the Hedgehog™ 
 - Wymiary — ten **181-elementowy** zestaw zawiera figurkę badnika Crabmeata do zbudowania na podstawce inspirowanej Green Hill Zone o **wysokości ponad 11 cm**
 
+**Galeria:**
+
+- 40781-1: https://a.allegroimg.com/original/1184cb/12aa7e0b481f98ee0191ad2fc311
+
 ---
 
-## 40926 — Klocki Lego Sonic the Hedgehog 40926 Konsola Sega Drive
+## 40926 — Konsola SEGA Mega Drive
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 199.49 zł · EAN: 05702018071472 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40926 |
+| Nazwa angielska | SEGA Genesis Console |
+| Nazwa polska | Konsola SEGA Mega Drive |
+| Seria | Sonic |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 479 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018071472 |
 
 Nazwa angielska            SEGA® Genesis™ Console
 
@@ -154,11 +239,26 @@ Rok wydania                    2026
 
 Data wydania                   1 czerwca 2026
 
+**Galeria:**
+
+- 40926-1: https://a.allegroimg.com/original/114e2f/0a265cf346a68f77fd8d58739acc
+
 ---
 
-## 76990 — Lego Sonic the Hedgehog 76990 Wyzwanie Speed Sphere Sonica
+## 76990 — Wyzwanie Speed Sphere Sonica
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 219.98 zł · EAN: 05702017419480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76990 |
+| Nazwa angielska | Sonic's Speed Sphere Challenge |
+| Nazwa polska | Wyzwanie Speed Sphere Sonica |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 292 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 14 cm × gł. 5 cm |
+| EAN | 5702017419480 |
 
 LEGO 76990 Sonic wyzwanie z pędzącą kulą
 
@@ -210,11 +310,26 @@ Odkryj świat LEGO Sonic Zestawy z serii LEGO Sonic the Hedgehog zapewniają szy
  
 • Klocki i elementy LEGO spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76990-1: https://a.allegroimg.com/original/05fab4/07e626de4c6ea6f70e355bf58af7
+
 ---
 
-## 76991 — 76991 Lego Sonic Warsztat Tailsa I Samolot Tornado Zestaw Klocki
+## 76991 — Warsztat Tailsa i samolot Tornado
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 326.99 zł · EAN: 05702017419497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76991 |
+| Nazwa angielska | Tails' Workshop and Tornado Plane |
+| Nazwa polska | Warsztat Tailsa i samolot Tornado |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 376 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 12 cm × gł. 9 cm |
+| EAN | 5702017419497 |
 
 LEGO Tails z warsztatem i samolot Tornado 76991
 
@@ -268,11 +383,26 @@ Kreatywna zabawa z Sonikiem – zestawy LEGO Sonic the Hedgehog zapewniają szyb
 
 • Klocki i elementy LEGO spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76991-1: https://a.allegroimg.com/original/052caf/e70cbd3c4c189df67c1e5c5102bf
+
 ---
 
-## 76992 — Lego Wyspa dla zwierząt Amy 76992 388 el. 7+
+## 76992 — Wyspa ratowania zwierząt Amy
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 206.00 zł · EAN: 05702017419503 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76992 |
+| Nazwa angielska | Amy's Animal Rescue Island |
+| Nazwa polska | Wyspa ratowania zwierząt Amy |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 388 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 24 cm × gł. 17 cm |
+| EAN | 5702017419503 |
 
 LEGO® Sonic the Hedgehog™ Wyspa dla zwierząt Amy
 
@@ -335,11 +465,26 @@ Więcej możliwości zabawy
 - **Wysokiej jakości produkt** — wszystkie elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite i zawsze do siebie pasują, a budowanie z nich jest przyjemnością — i tak jest niezmiennie od 1958 roku
 - **Bezpieczeństwo przede wszystkim** — klocki i inne elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76992-1: https://a.allegroimg.com/original/119744/e8ca83014ef282316799cfb1d184
+
 ---
 
-## 76993 — Klocki Lego Sonic the Hedgehog z Dr. Eggmanem Egmen
+## 76993 — dźwiękowy vs. Robot Jajo Śmierci Dr. Eggman
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 549.99 zł · EAN: 05702017419510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76993 |
+| Nazwa angielska | Sonic vs Dr Eggman's Death Egg Robot |
+| Nazwa polska | dźwiękowy vs. Robot Jajo Śmierci Dr. Eggman |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 615 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702017419510 |
 
 Lego Sonic kontra dr. Eggman i robot Death Egg
 
@@ -421,11 +566,26 @@ To idealny zestaw dla fanów szybkiego jeża, którzy uwielbiają dynamiczną za
 
 - Świetny prezent dla fanów gier Sonic the Hedgehog
 
+**Galeria:**
+
+- 76993-1: https://a.allegroimg.com/original/29a48d/2cbe745149cf8c265a6567bccf6e
+
 ---
 
-## 76994 — Lego Sonic the Hedgehog 76994 Zapętlone wyzwanie Sonica w Green Hill Zone
+## 76994 — Zapętlone wyzwanie Sonica w Green Hill Zone
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 690.00 zł · EAN: 05702017419527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76994 |
+| Nazwa angielska | Sonic's Green Hill Zone Loop Challenge |
+| Nazwa polska | Zapętlone wyzwanie Sonica w Green Hill Zone |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 802 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 37 cm × gł. 19 cm |
+| EAN | 5702017419527 |
 
 LEGO Sonic wyzwanie z pętlą w Green Hill 76994
 
@@ -475,11 +635,26 @@ Odkryj świat LEGO Sonic Zestawy z serii LEGO Sonic the Hedgehog zapewniają szy
 
 • Klocki i elementy LEGO spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76994-1: https://a.allegroimg.com/original/294cd4/6083cf0e4555945aadaf650eff38
+
 ---
 
-## 76995 — Lego Sonic the Hedgehog 76995 Shadow the Hedgehog ucieczka
+## 76995 — Shadow the Hedgehog - ucieczka
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 74.99 zł · EAN: 05702017592510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76995 |
+| Nazwa angielska | Shadow's Escape |
+| Nazwa polska | Shadow the Hedgehog - ucieczka |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592510 |
 
 LEGO Sonic the Hedgehog 76995 Shadow the Hedgehog - ucieczka
 
@@ -504,11 +679,26 @@ Sonic the Hedgehog™ Shadow the Hedgehog — ucieczka LEGO® Sonic the Hedgehog
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017592510
 
+**Galeria:**
+
+- 76995-1: https://a.allegroimg.com/original/117257/179accb145a094bc483a40aeffa1
+
 ---
 
-## 76996 — Lego Sonic the Hedgehog Knuckles i mech-strażnik 76996
+## 76996 — Knuckles i jego ochroniarz-robot
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 136.99 zł · EAN: 05702017592527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76996 |
+| Nazwa angielska | Knuckles' Guardian Mech |
+| Nazwa polska | Knuckles i jego ochroniarz-robot |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592527 |
 
 **LEGO Sonic the Hedgehog Knuckles i mech-strażnik 76996**
 
@@ -532,11 +722,26 @@ Szybka i kreatywna zabawa zestawami LEGO Sonic the Hedgehog™ dla dzieci. Fani 
 
 • Ten 276-elementowy zestaw zawiera mecha o wysokości 16 cm
 
+**Galeria:**
+
+- 76996-1: https://a.allegroimg.com/original/112597/4141d9cf4ceb9f92c9d63c300dcc
+
 ---
 
-## 76997 — Lego 76997 Sonic Tails i przygoda na łodzi
+## 76997 — Sonic The Hedgehog 76997 Tails i jego łódź przygodowa
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 201.39 zł · EAN: 05702017592534 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76997 |
+| Nazwa angielska | Tails' Adventure Boat |
+| Nazwa polska | Sonic The Hedgehog 76997 Tails i jego łódź przygodowa |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 393 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 11 cm |
+| EAN | 5702017592534 |
 
 Weź udział w wodnych przygodach w towarzystwie Tailsa i jego kumpla, Sonica. Zabierz Sonica na parasailing, podczas gdy Tails tańczy na parkiecie. Hej, czy to Badnik Jawz? Umieść kulę szybkości z Tailsem w środku wyrzutni na łodzi, a następnie wystrzel ją jednym ruchem dźwigni, aby pokonać Jawza i uratować Tocky'ego. Wow, ale szybkość! Teraz czas popłynąć na wyspę i trochę odpocząć.
 
@@ -558,11 +763,26 @@ Zaskocz ośmioletnich i starszych miłośników przygód i fanów gier wideo zes
 
 • Zabawki LEGO® Sonic — wszystkie zestawy LEGO Sonic the Hedgehog™ wprowadzają dzieci w świat szybkiej akcji i pomysłowej zabawy z różnymi postaciami i historiamiWymiary — łódka w tym 393-elementowym zestawie ma 10 cm wysokości, 22 cm długości i 11cm szerokości
 
+**Galeria:**
+
+- 76997-1: https://a.allegroimg.com/original/1104ac/325cc3dc4cb5b568c85de7ab2bb1
+
 ---
 
-## 76998 — Lego Sonic The Hedgehog Knuckles i świątynia Master Emerald 76998
+## 76998 — Knuckles i świątynia Master Emerald
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 139.89 zł · EAN: 05702017592541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76998 |
+| Nazwa angielska | Knuckles and the Master Emerald Shrine |
+| Nazwa polska | Knuckles i świątynia Master Emerald |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 325 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017592541 |
 
 **LEGO Sonic The Hedgehog Knuckles i świątynia Master Emerald 76998**
 
@@ -586,11 +806,26 @@ Zestawy LEGO Sonic the Hedgehog gwarantują niezależną zabawę pełną szybko�
 
 • 325-elementowy zestaw zawiera świątynie, która ma 19 cm głębokości
 
+**Galeria:**
+
+- 76998-1: https://a.allegroimg.com/original/11b605/cf4402eb40efb645689810ee3501
+
 ---
 
-## 76999 — Lego 76999 Sonic the Hedgehog Sonic kontra Egg Drillster
+## 76999 — Sonic The Hedgehog 76999 Super Sonic kontra. Wiertarka do jaj
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 279.99 zł · EAN: 05702017592558 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76999 |
+| Nazwa angielska | Super Sonic vs. Egg Drillster |
+| Nazwa polska | Sonic The Hedgehog 76999 Super Sonic kontra. Wiertarka do jaj |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 590 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 12 cm |
+| EAN | 5702017592558 |
 
 LEGO 76999 Sonic the Hedgehog Super Sonic kontra Egg Drillster
 
@@ -659,11 +894,26 @@ UWAGA: Produkt nieprzeznaczony dla dzieci poniżej 3 roku życia.
 - **Zasilanie:** Nie dotyczy 
 - **Bateria w zestawie:** Nie
 
+**Galeria:**
+
+- 76999-1: https://a.allegroimg.com/original/11ecb3/33f12c0f44f787d47667ce9ccff9
+
 ---
 
-## 77000 — Lego Sonic the Hedgehog 77000 Jeż Shadow
+## 77000 — Sonic the Hedgehog Jeż Shadow
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702017672298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77000 |
+| Nazwa angielska | Shadow the Hedgehog |
+| Nazwa polska | Sonic the Hedgehog Jeż Shadow |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 17 cm × gł. 21 cm |
+| EAN | 5702017672298 |
 
 LEGO Sonic the Hedgehog
  
@@ -683,11 +933,26 @@ Szczegółowa ozdoba — zestaw konstrukcyjny LEGO® Jeż Shadow to fajny pomys�
  
 Wymiary — ten 720-elementowy zestaw do zabawy i ozdoby zawiera głowę Jeża Shadowa na podstawce, która mierzy 20 cm wysokości, 17 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 77000-1: https://a.allegroimg.com/original/11590e/623cb7b34f2f8bd4f47176b2e99c
+
 ---
 
-## 77001 — Lego Sonic i biwakowa bitwa 77001
+## 77001 — LEGO Sonic The Hedgehog 77001 Sonic a souboj u táboráku
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 59.99 zł · EAN: 05702017815572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77001 |
+| Nazwa angielska | Sonic’s Campfire Clash |
+| Nazwa polska | LEGO Sonic The Hedgehog 77001 Sonic a souboj u táboráku |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 177 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815572 |
 
 LEGO Sonic i biwakowa bitwa 77001
 
@@ -712,11 +977,26 @@ Sonic The Hedgehog™ LEGO Sonic the Hedgehog: Sonic i biwakowa bitwa, Zabawka d
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017815572
 
+**Galeria:**
+
+- 77001-1: https://a.allegroimg.com/original/11f386/a2603d1c4796a4847dad4876a7c6
+
 ---
 
-## 77002 — Lego Sonic the Hedgehog 77002 Cyclone kontra Metal Sonic
+## 77002 — Cyclone kontra Metal Sonic
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 84.99 zł · EAN: 05702017815589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77002 |
+| Nazwa angielska | Cyclone vs. Metal Sonic |
+| Nazwa polska | Cyclone kontra Metal Sonic |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 290 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 15 cm × gł. 15 cm |
+| EAN | 5702017815589 |
 
 Cyclone kontra Metal Sonic
 
@@ -738,11 +1018,26 @@ Ośmioletni i starsi fani Sonica będą zachwyceni tym zestawem konstrukcyjnym C
  
 • Wymiary — ten 290-elementowy zestaw zawiera mecha Cyclone’a, który ma 14 cm wysokości, 15 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 77002-1: https://a.allegroimg.com/original/05d016/4892ee6c4c8fa51c9e7d0239c5bf
+
 ---
 
-## 77003 — Lego(r) Sonic 77003 Shadow Kontra Biolizard
+## 77003 — Super Shadow kontra Biolizard
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 163.36 zł · EAN: 05702017815596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77003 |
+| Nazwa angielska | Super Shadow vs. Biolizard |
+| Nazwa polska | Super Shadow kontra Biolizard |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 419 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815596 |
 
 LEGO(R) SONIC 77003 Super Shadow kontra Biolizard
 
@@ -787,11 +1082,26 @@ Kreatywną zabawę można rozbudować o inne zestawy LEGO Sonic the Hedgehog (sp
 
 [Stamp,5702017815596,5/25/2026 7:21:23 PM]
 
+**Galeria:**
+
+- 77003-1: https://a.allegroimg.com/original/1142d6/3c419e6d4fa1b3a9a42e3817dad7
+
 ---
 
-## 77005 — Lego Sonic the Hedgehog Knuckles i Dr. Eggman w mechu 77005
+## 77005 — Knuckles kontra Dr. Eggman w mechu Egg Crusher
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 133.86 zł · EAN: 05702017815602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77005 |
+| Nazwa angielska | Knuckles vs. Dr. Eggman Egg Crusher Mech |
+| Nazwa polska | Knuckles kontra Dr. Eggman w mechu Egg Crusher |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815602 |
 
 **LEGO Sonic the Hedgehog Knuckles i Dr. Eggman w mechu 77005**
 
@@ -815,11 +1125,26 @@ Zestawy LEGO® Sonic the Hedgehog™ zapewniają szybką akcję i twórczą zaba
 
 Ten 350-elementowy zestaw zawiera mecha o wysokości 15 cm
 
+**Galeria:**
+
+- 77005-1: https://a.allegroimg.com/original/11c634/1a9c0d7747fda27eabb490861866
+
 ---
 
-## 77006 — Lego Sonic the Hedgehog Sonic i pojazd do zbudowania 77006
+## 77006 — Pojazd dowodzenia zespołem Sonic
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702017815619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77006 |
+| Nazwa angielska | Team Sonic Command Truck |
+| Nazwa polska | Pojazd dowodzenia zespołem Sonic |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 747 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017815619 |
 
 **LEGO Sonic the Hedgehog Sonic i pojazd do zbudowania 77006**
 
@@ -845,11 +1170,26 @@ Zestawy LEGO® Sonic the Hedgehog™ zapewniają szybką akcję i niezależną z
 
 Ten 747-elementowy zestaw zawiera ciężarówkę mierzącą 27 cm długości
 
+**Galeria:**
+
+- 77006-1: https://a.allegroimg.com/original/1188a0/f4398e124a11b554916c9bfec764
+
 ---
 
-## 77117 — Lego Sonic the Hedgehog Sonic: Speedster Lightning 77117
+## 77117 — LEGO Sonic the Hedgehog 77117 Sonic: Speedster Lightning
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 34.18 zł · EAN: 05702018063910 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77117 |
+| Nazwa angielska | Sonic: Speedster Lightning |
+| Nazwa polska | LEGO Sonic the Hedgehog 77117 Sonic: Speedster Lightning |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 126 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018063910 |
 
 **LEGO Sonic the Hedgehog Sonic: Speedster Lightning 77117**
 
@@ -873,11 +1213,26 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 126-elementowy zestaw zawiera samochód o długości 12 cm
 
+**Galeria:**
+
+- 77117-1: https://a.allegroimg.com/original/11c5c4/fab72a2f4e69b28681e841bbdcc0
+
 ---
 
-## 77118 — Lego Sonic the Hedgehog 77118 Silver kontra Knuckles, zabawka
+## 77118 — LEGO Sonic 77118 Silver w samochodzie kontra Knuckles w monster trucku
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 138.17 zł · EAN: 05702018063927 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77118 |
+| Nazwa angielska | Silver's Car vs. Knuckles' Monster Truck |
+| Nazwa polska | LEGO Sonic 77118 Silver w samochodzie kontra Knuckles w monster trucku |
+| Seria | Sonic the Hedgehog |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 378 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm |
+| EAN | 5702018063927 |
 
 LEGO Sonic 77118 Silver w samochodzie kontra Knuckles w monster trucku
 
@@ -895,11 +1250,26 @@ Ten zestaw do zbudowania z samochodem wyścigowym i monster truckiem to świetny
 
 - Wymiary — ten 378-elementowy zestaw z samochodem wyścigowym zawiera dwie minifigurki oraz model monster trucka LEGO® o wymiarach 7 cm wysokości, 13 cm długości i 9 cm szerokości.
 
+**Galeria:**
+
+- 77118-1: https://a.allegroimg.com/original/054a47/483b5df84184b013c1e1cd63932e
+
 ---
 
-## 77119 — Lego Sonic the Hedgehog Tails i Tornado-1 77119
+## 77119 — Tails i Tornado-1
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 91.99 zł · EAN: 05702018063972 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77119 |
+| Nazwa angielska | Tails' Tornado-1 |
+| Nazwa polska | Tails i Tornado-1 |
+| Seria | Sonic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 310 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063972 |
 
 **LEGO Sonic the Hedgehog Tails i Tornado-1 77119**
 
@@ -923,11 +1293,26 @@ Spraw, by budowanie było jeszcze fajniejsze dzięki aplikacji LEGO® Builder
 
 Ta 310-elementowa zabawka z gry wideo zawiera samolot o wysokości 7 cm
 
+**Galeria:**
+
+- 77119-1: https://a.allegroimg.com/original/11c35d/469d5bb640f884dc3f81f26108b8
+
 ---
 
-## 77120 — Lego Sonic the Hedgehog 77120 Shadow i jego mech kontra G.u.n. Trooper
+## 77120 — Shadow i jego mech kontra G.U.N. Trooper
 
-*Kategoria: Sonic the Hedgehog · cena Allegro (2026-08-17): 260.00 zł · EAN: 05702018063989 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77120 |
+| Nazwa angielska | Shadow's Mech vs. G.U.N. Trooper |
+| Nazwa polska | Shadow i jego mech kontra G.U.N. Trooper |
+| Seria | Sonic |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 374 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 16 cm × gł. 14 cm |
+| EAN | 5702018063989 |
 
 **LEGO 77120 Shadow i jego mech kontra G.U.N. Trooper**
 
@@ -949,6 +1334,10 @@ Chroń Szmaragd Chaosu lub poszukaj kolejnych klejnotów dzięki zestawowi Shado
 Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
+
+**Galeria:**
+
+- 77120-1: https://a.allegroimg.com/original/118b40/c2d47a1d4a03b6fc7809d1db5d60
 
 ---
 

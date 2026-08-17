@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Creator Expert — opisy produktowe (74 pozycji)
+# LEGO Creator Expert — opisy produktowe (72 pozycji)
 
-## 10152 — Lego Creator Expert 10152 – Maersk Sealand
+## 10152 — Maersk Sealand
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2300.00 zł · EAN: 00673419058261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10152 |
+| Nazwa angielska | Maersk Sealand Container Ship 2004 Edition |
+| Nazwa polska | Maersk Sealand |
+| Seria | Creator Expert |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2004 |
+| Liczba elementów | 988 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419058261 |
 
 Dane techniczne
 
@@ -29,11 +39,26 @@ Projekt i funkcje
 
 **LEGO 10152 Maersk Sealand Container Ship** to kolekcjonerska perełka w serii Creator Expert – szczególnie ceniony za unikalne malowanie Maersk oraz realistyczny sylwet kontenerowca. Obecnie utrzymuje solidną wartość – nowy zestaw kosztuje ponad dwa razy więcej niż cena wyjściowa. Idealny dla fanów serii Advanced Models i inwestorów LEGO.
 
+**Galeria:**
+
+- 10152-1: https://a.allegroimg.com/original/11f320/cc13315c4fba970ae226fc15d4df
+
 ---
 
-## 10155 — Klocki Lego Inne 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
+## 10155 — Klocki LEGO Inne 40955 - Kontenerowiec z Napędem Dual-Fuel Maersk
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 799.99 zł · EAN: 00673419136945 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10155 |
+| Nazwa angielska | Maersk Line Container Ship 2010 Edition |
+| Nazwa polska | Klocki LEGO Inne 40955 - Kontenerowiec z Napędem Dual-Fuel Maersk |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 1516 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm |
+| EAN | 673419136945 |
 
 Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi LEGO® z Kontenerowcem z Napędem Dual-Fuel Maersk (40955) dla dorosłych lub nastolatków w wieku od 12 lat. Model kontenerowca jest bogaty w detale i funkcje. Ma otwieraną sekcję mostka z pomieszczeniami dla załogi oraz przezroczyste okna maszynowni. Po obu stronach znajdują się wysuwane pomosty, kontenery do zbudowania, tabliczka z nazwą do podstawki i wiele innych elementów. Zestaw zawiera również elementy z nadrukami i naklejki. Zestaw składa się z 1513 elementów.
 
@@ -44,11 +69,26 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 - Kolekcjonerski prezent LEGO® dla pasjonatów morza — zestaw konstrukcyjny dla nastolatków w wieku od 12 lat oraz dorosłych, którzy pasjonują się tworzeniem i eksponowaniem zestawów konstrukcyjnych LEGO z pojazdami
 - Wymiary — kolekcjonerski model kontenerowca ANE MÆRSK, zbudowany z 1513 klocków, wraz z podstawką ma 18 cm wysokości, 60 cm długości i 12 cm szerokości
 
+**Galeria:**
+
+- 10155-1: https://a.allegroimg.com/original/11a8ff/7bbfde63486bb1572e58c39eaa67
+
 ---
 
-## 10181 — Lego Creator Expert 10181 Wieża Eiffla Mib 2007
+## 10181 — Wieża Eiffla
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 4500.00 zł · EAN: 05702014499867 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10181 |
+| Nazwa angielska | Eiffel Tower 1:300 |
+| Nazwa polska | Wieża Eiffla |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 3428 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014499867 |
 
 **LEGO 10181 – Wieża Eiffla (Eiffel Tower) – Creator Expert 2007**
 
@@ -84,11 +124,26 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 - Dla miłośników architektury, historii i Paryża
 - Dla osób poszukujących dużego modelu do ekspozycji
 
+**Galeria:**
+
+- 10181-1: https://a.allegroimg.com/original/11a2b3/9b15fc664df7a1f639b6e98f4192
+
 ---
 
-## 10183 — Lego 10183 Factory Hobby Trains
+## 10183 — Hobby Trains
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014504950 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10183 |
+| Nazwa angielska | Hobby Train |
+| Nazwa polska | Hobby Trains |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2007 |
+| Liczba elementów | 1080 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014504950 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -112,11 +167,27 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10183-1: https://a.allegroimg.com/original/113fb4/d266992b49a29aad7b9548ec0fed
+
 ---
 
-## 10185 — Lego Creator Expert 10185 Green Grocer
+## 10185 — Green Grocer
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 9499.00 zł · EAN: 05702014518599 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10185 |
+| Nazwa angielska | Green Grocer |
+| Nazwa polska | Green Grocer |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2008 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2352 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518599 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -142,11 +213,26 @@ Rozpocznij lub poszerz swoją kolekcję dzięki temu szczegółowemu zestawowi L
 
 **Zestaw jest w stanie idealnym-kolekcjonerskim, nie ma żadnych zarysowań na kartonie ani zagnieceń.**
 
+**Galeria:**
+
+- 10185-1: https://a.allegroimg.com/original/11d8da/7a65479547e88592b9a47a8dd125
+
 ---
 
-## 10189 — Klocki Lego Creator Expert Zestaw Taj Mahal 10189
+## 10189 — 1Taj Mahal
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 4999.00 zł · EAN: 05702014518551 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10189 |
+| Nazwa angielska | Taj Mahal |
+| Nazwa polska | 1Taj Mahal |
+| Seria | Creator Expert |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 5922 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014518551 |
 
 LEGO Creator Expert 10189 Taj Mahal – Oryginalna Legenda z 2008 roku!
 
@@ -169,11 +255,26 @@ Mam przyjemność wystawić na sprzedaż jeden z najbardziej ikonicznych zestaw�
 - **Liczba elementów:** 5922
 - **Waga:** ok. 7 kg czystych klocków!
 
+**Galeria:**
+
+- 10189-1: https://a.allegroimg.com/original/11e308/79a8fa0a4e909d82927ecd7a0081
+
 ---
 
-## 10196 — Lego Creator Expert 10196 Grand Carousel, Karuzela Wiedeńska Unikat Misb!
+## 10196 — Grand Carousel
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 8999.00 zł · EAN: 00673419121804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10196 |
+| Nazwa angielska | Grand Carousel |
+| Nazwa polska | Grand Carousel |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 3261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419121804 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -197,11 +298,26 @@ Mam przyjemność wystawić na sprzedaż jeden z najbardziej ikonicznych zestaw�
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10196-1: https://a.allegroimg.com/original/11aa95/b1431d8e454b9f322bae68c40368
+
 ---
 
-## 10199 — Lego Creator Expert 10199 Zimowa wioska- Toy Shop
+## 10199 — Zimowa wioska- Toy Shop
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1270.00 zł · EAN: 05702014534759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10199 |
+| Nazwa angielska | Winter Toy Shop |
+| Nazwa polska | Zimowa wioska- Toy Shop |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2009 |
+| Liczba elementów | 815 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014534759 |
 
 Podstawowe informacje
 
@@ -229,11 +345,27 @@ ają się święta, więc w warsztacie twórcy zabawek praca wre!
 
 Na zewnątrz minifigurki śpiewają kolędy obok ławki i latarni, jeżdżą na nartach po śniegu, budują bałwanki, rzucają się śnieżkami i dekorują ogromną choinkę świąteczną z gwiazdą, lampkami i zapakowanymi prezentami. W opakowaniu znajdziesz 7 minifigurek. Klocki przeznaczone są dla dzieci i młodzieży powyżej 12 roku życia.
 
+**Galeria:**
+
+- 10199-1: https://a.allegroimg.com/original/034617/6d35c5b1423cb766f9cb3e0abb45
+
 ---
 
-## 10211 — Klocki Lego Creator Expert Zestaw Dom towarowy 10211
+## 10211 — Grand Emporium
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3099.00 zł · EAN: 00673419128957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10211 |
+| Nazwa angielska | Grand Emporium |
+| Nazwa polska | Grand Emporium |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2686 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419128957 |
 
 LEGO Creator Expert Dom towarowy 10211
 
@@ -247,11 +379,26 @@ mierzy 15" (38 cm) wysokości i 10" (25 cm) szerokości
 
 Dodaj ten klasyczny dom towarowy do swojej kolekcji LEGO Modular Buildings
 
+**Galeria:**
+
+- 10211-1: https://a.allegroimg.com/original/11c3ad/a7c23d1c419b883996d9ee1319f3
+
 ---
 
-## 10216 — Lego 10216 Creator Expert Zimowa wioska- Piekarnia
+## 10216 — Zimowa wioska- Piekarnia
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2100.00 zł · EAN: 00673419128988 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10216 |
+| Nazwa angielska | Winter Village Bakery |
+| Nazwa polska | Zimowa wioska- Piekarnia |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 687 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419128988 |
 
 **LEGO Creator Expert 10216 – Piekarnia w zimowej wiosce (Winter Village Bakery)**:
 
@@ -278,11 +425,27 @@ Krótka recenzja
 
 **LEGO Creator Expert 10216 – Winter Village Bakery** to sentymentalna i estetyczna perełka w serii zimowych zestawów LEGO. Ma solidny wzrost wartości, bogaty w detale i nacisk na klimat świąt, dzięki funkcjom jak oświetlenie, koń, sowa i lodowisko. Świetny zakup zarówno dla kolekcjonerów, fanów świąt, jak i inwestorów w klocki LEGO.
 
+**Galeria:**
+
+- 10216-1: https://a.allegroimg.com/original/113f3a/0fd0d7ae45b9851a312c364cd024
+
 ---
 
-## 10218 — Lego Creator Expert 10218 Pet Shop
+## 10218 — Pet Shop
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 00673419145350 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10218 |
+| Nazwa angielska | Pet Shop |
+| Nazwa polska | Pet Shop |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2032 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419145350 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -306,11 +469,26 @@ Krótka recenzja
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10218-1: https://a.allegroimg.com/original/11ef81/49ed1b4b4e21aa9611080a1e3cd3
+
 ---
 
-## 10219 — Lego Creator Expert 10219 Maersk Train
+## 10219 — Maersk Train
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3199.00 zł · EAN: 00673419145343 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10219 |
+| Nazwa angielska | Maersk Container Train |
+| Nazwa polska | Maersk Train |
+| Seria | Creator Expert |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1234 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419145343 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -334,11 +512,26 @@ Krótka recenzja
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10219-1: https://a.allegroimg.com/original/111624/880a105f40ad96f5d918b47ecde6
+
 ---
 
-## 10220 — Lego 10220 Creator Expert Volkswagen T1 Camper Van
+## 10220 — Volkswagen T1 Camper Van
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 870.00 zł · EAN: 05702015643092 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10220 |
+| Nazwa angielska | Volkswagen T1 Camper Van |
+| Nazwa polska | Volkswagen T1 Camper Van |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 1334 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015018333, 5702015643092 |
 
 Klocki LEGO Creator Expert 10220 - Volkswagen T1 Camper Van
 
@@ -365,11 +558,27 @@ Zestaw LEGO Creator Expert - Volkswagen T1 Camper Van trafił do sprzedaży w 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10220-1: https://a.allegroimg.com/original/11938e/589ef99f43e59499cb4f6e785f89
+- 10220-2: https://a.allegroimg.com/original/1157d7/be27d1574689aa08ad7e28586ecc
+
 ---
 
-## 10222 — Lego Creator Expert 10222 Winter Village Post Office
+## 10222 — Winter Village Post Office
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2450.00 zł · EAN: 05702014748002 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10222 |
+| Nazwa angielska | Winter Village Post Office |
+| Nazwa polska | Winter Village Post Office |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2011 |
+| Liczba elementów | 822 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014748002 |
 
 Co to za zestaw — podstawy
 
@@ -389,11 +598,26 @@ Co zawiera / czego oczekiwać
 - Dobry do ekspozycji — zarówno w kolekcji, jak i jako element makiety zimowej / świątecznej w okresie zimowym.
 - Spokojniejszy budynek — nie ogromny zamek czy pojazd, więc łatwiej go ustawić, przechować lub połączyć z innymi zestawami Winter Village / City.
 
+**Galeria:**
+
+- 10222-1: https://a.allegroimg.com/original/03653a/df4ae38f4d0eb6bb1fdc47c13523
+
 ---
 
-## 10229 — Lego Creator Expert 10229 Zimowa wioska Chatka
+## 10229 — Zimowa wioska - Chatka
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2400.00 zł · EAN: 05702014842281 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10229 |
+| Nazwa angielska | Winter Village Cottage |
+| Nazwa polska | Zimowa wioska - Chatka |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1490 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 25 cm × gł. 16 cm |
+| EAN | 5702014842281 |
 
 Zestaw zawiera 1 261 elementów, aby skonstruować piękny targ w Zimowej Wiosce LEGO.
 
@@ -409,11 +633,26 @@ Wymiary modeli:
 - karuzela z budką operatora ma ok. 19 cm wysokości, 25 cm szerokości i 16 cm głębokości. 
 - budki mają ok. 9 cm wysokości, 8 cm szerokości i 4 cm głębokości
 
+**Galeria:**
+
+- 10229-1: https://a.allegroimg.com/original/112c1a/5ab58cb84812b044542c563cae3c
+
 ---
 
-## 10230 — Klocki Lego Creator Expert Zestaw Mini Modulars 10230
+## 10230 — Mini Modulars
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419168250 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10230 |
+| Nazwa angielska | Mini Modulars |
+| Nazwa polska | Mini Modulars |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419168250 |
 
 LEGO Creator Expert 10230 – Mini Modulars (Unikat VIP)
 
@@ -451,11 +690,27 @@ Zestaw zawiera pięć ikonicznych kamienic, które zapoczątkowały legendarną 
 
 **Wiek:** 12+
 
+**Galeria:**
+
+- 10230-1: https://a.allegroimg.com/original/11b04f/4c2a8bad4fc4a4c0b5c0cf1323f7
+
 ---
 
-## 10232 — Lego 10232 Creator Expert Kino Palace Rzadki Egzemplarz! Okazja!
+## 10232 — 10232
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1869.99 zł · EAN: 05702014971899 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10232 |
+| Nazwa angielska | Palace Cinema |
+| Nazwa polska | 10232 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2196 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 25,5 cm |
+| EAN | 5702014971899 |
 
 - Dziś wieczór premiera w kinie Palace! Reflektory rozświetlają nocne niebo, kiedy przybywa czarna limuzyna z dziecięcą gwiazdą. Zbierz tłum widzów na chodniku usianym gwiazdami, a potem otwórz hol z mnóstwem szczegółów, stoiskiem z przekąskami i kasą biletową. Przedstawiamy najnowszy model w serii LEGO® Modular Buildings: szczegółowo odtworzony piętrowy budynek narożny kina Palace. Ten model kolekcjonerski zawiera aleję gwiazd, zbudowane z klocków drzwi wejściowe, plakaty, afisz, ozdobną wieżę i dekoracje dachu. Zestaw zawiera 6 minifigurek: dziecięcą aktorkę, szofera, dwoje gości, fotografa i pracownika kina. 
 
@@ -469,11 +724,26 @@ Zestaw zawiera pięć ikonicznych kamienic, które zapoczątkowały legendarną 
 
 Zestaw klocków LEGO Creator Expert Kino Palace 10232 został zaprezentowany w 2013 roku i zbudowany jest z 2194 klocków LEGO®. W opakowaniu znajdziesz 6 minifigurek. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 16 roku życia.
 
+**Galeria:**
+
+- 10232-1: https://a.allegroimg.com/original/039269/1138dc6641eda35b01b8e10f1252
+
 ---
 
-## 10233 — Klocki Lego Creator Expert Zestaw Pociąg Horizon Express Train 10233
+## 10233 — Horizon Express
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702014971912 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10233 |
+| Nazwa angielska | Horizon Express |
+| Nazwa polska | Horizon Express |
+| Seria | Creator Expert |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 1351 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014971912 |
 
 **LEGO 10233 Horizon Express**
 
@@ -510,11 +780,26 @@ Zestaw był sprzedawany jako model statyczny, ale został zaprojektowany z myśl
 
 **Wiek**14+
 
+**Galeria:**
+
+- 10233-1: https://a.allegroimg.com/original/03a0b3/2eb954af470a94c35fa8de0ee578
+
 ---
 
-## 10241 — Lego Creator Expert Statek Maersk Line Triple-E 10241 Zestaw Kolekcjonerski
+## 10241 — Kontenerowiec Maersk
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702015122450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10241 |
+| Nazwa angielska | Maersk Line Triple-E |
+| Nazwa polska | Kontenerowiec Maersk |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1518 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122450 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -538,11 +823,27 @@ Zestaw był sprzedawany jako model statyczny, ale został zaprojektowany z myśl
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 10241-1: https://a.allegroimg.com/original/1124f6/69261d8e4f83bc4d84cfd9be854c
+
 ---
 
-## 10242 — Lego Creator Expert 10242 Lego Creator Mini Cooper 10242
+## 10242 — LEGO Creator Mini Cooper 10242
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1129.00 zł · EAN: 05702015122467 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10242 |
+| Nazwa angielska | MINI Cooper |
+| Nazwa polska | LEGO Creator Mini Cooper 10242 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1077 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 14 cm |
+| EAN | 5702015122467 |
 
 LEGO 10242 Creator Expert Mini Cooper
  
@@ -574,11 +875,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 10242-1: https://a.allegroimg.com/original/11c62c/18a8ad924580abfe9ed5b23435d6
+
 ---
 
-## 10243 — Klocki Lego Creator Expert Zestaw Paryska Restauracja 10243
+## 10243 — Klocki LEGO Creator restauracja w Paryżu 10243
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1776.99 zł · EAN: 05702015122672 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10243 |
+| Nazwa angielska | Parisian Restaurant |
+| Nazwa polska | Klocki LEGO Creator restauracja w Paryżu 10243 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2469 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 25 cm |
+| EAN | 5702015122672 |
 
 Klocki LEGO Creator Expert 10243 Parisian restaurant - Paryska restauracja.
 
@@ -606,11 +923,26 @@ Budynek ma ok. 30 cm wysokości, 25 cm długości i 25 cm szerokości.
 
 Zestaw 10243 LEGO Creator Expert Parisian Restaurant- Paryska Restauracja zawiera 2469 klocków.
 
+**Galeria:**
+
+- 10243-1: https://a.allegroimg.com/original/01fd08/7d55acd343dfbb55cf659f560bfd
+
 ---
 
-## 10244 — Lego Creator Expert 10244 Creator karuzela 10244
+## 10244 — Creator karuzela 10244
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015122689 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10244 |
+| Nazwa angielska | Fairground Mixer |
+| Nazwa polska | Creator karuzela 10244 |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 1746 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015122689 |
 
 **Lego Creator Karuzela 10244**. Rozłóż niesamowitą karuzelę, pokręć korbką i zobacz, jak wielka zabawka ożywa! Do miasta przyjechało wesołe miasteczko. Dzieci i dorośli nie mogą już doczekać się atrakcji. Kup bilet w budce i wejdź na karuzelę. Następnie zbierz siły i uderz młotem tak mocno, by dosięgnąć złotego dzwonu, lub daj popis celności, zrzucając do wody nurkującą panienkę. Gdy zapada zmrok, wirująca karuzela świeci w ciemności i dalej bawi odwiedzających. Później jest składana do przyczepy, która zawiezie ją do kolejnego miasteczka. Magiczne wesołe miasteczko pełne jest fantastycznych detali, które rozbudzą każdą wyobraźnię.
 
@@ -628,11 +960,27 @@ Nr katalogowy: 10244
  
 Ilość klocków w zestawie: 1746
 
+**Galeria:**
+
+- 10244-1: https://a.allegroimg.com/original/11b606/757819114479a8b1ef5a6ccdd5f4
+
 ---
 
-## 10246 — Klocki Lego Creator Expert Zestaw Biuro detektywa 10246
+## 10246 — 10246
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2199.00 zł · EAN: 05702015348386 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10246 |
+| Nazwa angielska | Detective's Office |
+| Nazwa polska | 10246 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2262 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015348386 |
 
 **LEGO® 10246 Creator Expert - Biuro Detektywistyczne**
 
@@ -658,11 +1006,26 @@ Szukaj ukrytych wskazówek
 
 Pomóż Ace'owi Brickmanowi rozwiązać zagadkę!
 
+**Galeria:**
+
+- 10246-1: https://a.allegroimg.com/original/117aa7/ba1efc0a46fbac8849810b2579ec
+
 ---
 
-## 10247 — Lego Creator 10247 Diabelski Młyn
+## 10247 — Klocki LEGO Creator Expert Ferris Wheel L-10247
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1485.00 zł · EAN: 05702015357616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10247 |
+| Nazwa angielska | Ferris Wheel |
+| Nazwa polska | Klocki LEGO Creator Expert Ferris Wheel L-10247 |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 2464 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015357616 |
 
 LEGO Creator Expert - 10247 Diabelski Młyn
 
@@ -670,11 +1033,27 @@ Opis produktu
  
 Zbuduj główną atrakcję lunaparku — majestatyczny diabelski młyn! Ten niesamowity model z serii LEGO® Creator Expert charakteryzuje się elegancją, która łączy w sobie nostalgię, romantyzm i przygodę. W mieście pojawił się lunapark. Sprzedawca lodów jest zajęty obsługiwaniem długiej kolejki podekscytowanych klientów czekających na pierwszą przejażdżkę w magicznym diabelskim młynie, który góruje nad okolicą. Powoli obracaj korbę i obserwuj, jak gondole diabelskiego młyna obniżają się majestatycznie, umożliwiając wejście pierwszych osób. Pociągnij dźwignię, aby podwyższyć platformę, otwórz drzwi gondoli i pomóż wsiąść pierwszym pasażerom! Budowanie tego eleganckiego modelu zapewni sporo zabawy, a jego urok i magia z pewnością pobudzą Twoją wyobraźnię. Diabelski młyn można napędzić za pomocą średniego silniczka z zestawu LEGO Power Functions 8883 oraz schowka na baterie AAA 88000 (dostępne osobno). W zestawie 10 minifigurek: operator karuzeli, sprzedawca lodów, 4 dzieci oraz 4 dorosłych.
 
+**Galeria:**
+
+- 10247-1: https://a.allegroimg.com/original/11bede/4ed765d641f88c3342428ce706f9
+
 ---
 
-## 10248 — Lego Creator Expert 10248 Ferrari F40 Opis
+## 10248 — 10248
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015348164 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10248 |
+| Nazwa angielska | Ferrari F40 |
+| Nazwa polska | 10248 |
+| Seria | Icons |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1158 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015348164 |
 
 LEGO 10248 - Ferrari F40
 
@@ -684,11 +1063,26 @@ Poznaj szczegóły jednego z najsłynniejszych samochodów wyścigowych świata 
 
 Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 10248-1: https://a.allegroimg.com/original/11547c/bfc3466d4b03a18d10a0b8e75d79
+
 ---
 
-## 10249 — Lego 10249 Creator Expert Zimowy sklep z zabawkami 898 elementów
+## 10249 — LEGO 10249 Creator Expert Zimowy sklep z zabawkami
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702015348379 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10249 |
+| Nazwa angielska | Winter Toy Shop |
+| Nazwa polska | LEGO 10249 Creator Expert Zimowy sklep z zabawkami |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 898 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 11 cm × gł. 11 cm |
+| EAN | 5702015348379 |
 
 Seria LEGO Creator Expert - Winter Village
  
@@ -706,11 +1100,27 @@ Zbliżają się Święta, a konstruktor zabawek dwoi się i troi, aby dokończy�
 - Poczuj magię Świąt dzięki temu niezwykłemu zestawowi! 
 - Wymiary choinki: 15 cm wysokości, 11 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 10249-1: https://a.allegroimg.com/original/113ad6/994d0a9847d09a85d5859f175c1a
+
 ---
 
-## 10251 — Lego Creator Expert 10251 Brick Bank 10251
+## 10251 — Lego Creator Expert Bank 10251
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2999.00 zł · EAN: 05702015591058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10251 |
+| Nazwa angielska | Brick Bank |
+| Nazwa polska | Lego Creator Expert Bank 10251 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2380 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702015591058 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -755,11 +1165,27 @@ Bez obaw możesz powierzyć swoje pieniądze powszechnie szanowanemu Bankowi Klo
 - Zbierz i zbuduj całe miasto z serią LEGO Creator Expert Modular Buildings, dodając na przykład zestawy 10243 Paryska restauracja i 10246 Biuro detektywa.
 - Wymiary Banku Klocków: 26 cm wysokości, 25 cm szerokości i 25 cm głębokości.
 
+**Galeria:**
+
+- 10251-1: https://a.allegroimg.com/original/1153d5/71d005184e3293bd170ea38acf65
+
 ---
 
-## 10252 — Lego Creator Expert 10252 Volkswagen Beetle
+## 10252 — Volkswagen Beetle
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 579.00 zł · EAN: 05702015591171 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10252 |
+| Nazwa angielska | Volkswagen Beetle |
+| Nazwa polska | Volkswagen Beetle |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1167 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 12 cm |
+| EAN | 5702015591171 |
 
 LEGO Creator Expert 10252 Volkswagen Beetle
 
@@ -790,11 +1216,27 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 10252-1: https://a.allegroimg.com/original/035624/692d3b9644578ea6ee5c1a12757b
+
 ---
 
-## 10253 — Klocki Lego Creator Expert Zestaw Big Ben Londyn 10253
+## 10253 — BIG BEN
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702015591515 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10253 |
+| Nazwa angielska | Big Ben |
+| Nazwa polska | BIG BEN |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4163 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 60 cm × szer. 44 cm × gł. 20 cm |
+| EAN | 5702015591515 |
 
 **LEGO Creator Expert Big Ben Londyn 10253**
 
@@ -823,11 +1265,26 @@ Przenieś się do serca Londynu i poczuj magię brytyjskiej stolicy! Zestaw LEGO
 - **Liczba elementów:** 4163
 - **Wymiary modelu:** ok. 60 cm wysokości, 44 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 10253-1: https://a.allegroimg.com/original/11721a/1c9ff4d5463b996c5fc03f869415
+
 ---
 
-## 10254 — Lego Creator Expert 10254 Świąteczny pociąg
+## 10254 — Świąteczny pociąg
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 980.00 zł · EAN: 05702015591065 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10254 |
+| Nazwa angielska | Winter Holiday Train |
+| Nazwa polska | Świąteczny pociąg |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 734 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 7 cm |
+| EAN | 5702015591065 |
 
 Klocki LEGO Creator Expert 10254 - Świąteczny pociąg
  
@@ -851,11 +1308,27 @@ Ten zestaw LEGO® Creator Expert zawiera 5 minifigurek.
  
 LEGO 10254 Creator Expert - Świąteczny pociąg zawiera 734 klocków. Grupa wiekowa tego produktu to 12+.
 
+**Galeria:**
+
+- 10254-1: https://a.allegroimg.com/original/1100c8/5a082f4041dd99b7f07b3b5752b5
+
 ---
 
-## 10255 — Lego Creator Expert 10255 Plac Zgromadzeń
+## 10255 — Plac zgromadzeń
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1234.00 zł · EAN: 05702015865272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10255 |
+| Nazwa angielska | Assembly Square |
+| Nazwa polska | Plac zgromadzeń |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 4002 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865272 |
 
 LEGO CREATOR EXPERT 10255
 
@@ -877,11 +1350,27 @@ Górny poziom mieści studio tańca z fortepianem do zbudowania i odbijającym l
 
 Zdejmuj poszczególne części budynku, by zajrzeć do szczegółowo odwzorowanego wnętrza.
 
+**Galeria:**
+
+- 10255-1: https://a.allegroimg.com/original/115aab/897eb4d14170a224109588958c02
+
 ---
 
-## 10256 — Lego Creator Expert 10256 Tadż Mahal
+## 10256 — 10256
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702016173536 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10256 |
+| Nazwa angielska | Taj Mahal |
+| Nazwa polska | 10256 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5923 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016173536 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -907,11 +1396,27 @@ Zdejmuj poszczególne części budynku, by zajrzeć do szczegółowo odwzorowane
 
 Zbuduj i odkryj Tadż Mahal! Budowa tego ogromnego, marmurowego mauzoleum w kolorze kości słoniowej, znanego jako jeden z architektonicznych cudów świata, rozpoczęła się w 1631 roku. Zlecił ją cesarz Szahdżahan na pamiątkę swojej zmarłej żony, cesarzowej Mumtaz Mahal. We wprowadzonej ponownie na rynek interpretacji LEGO® Creator Expert z 2008 roku doskonale oddano 4 fasady ze strzelistymi łukami, balkonami i oknami łukowymi. Centralna kopuła, kopuły bocznych komnat oraz strzeliste minarety są zwieńczone ozdobnymi kwiatonami, a podwyższona platforma znajduje się na poziomie wnęk łukowych. Cały model jest wykończony szczegółowymi zdobieniami i misternymi płytkami wokół podstawy. Dzięki zastosowaniu ponad 5900 elementów budowa zestawu sprawia dużo satysfakcji, a finalny model prezentuje się doskonale jako ozdoba domu lub biura.****
 
+**Galeria:**
+
+- 10256-1: https://a.allegroimg.com/original/03f237/cdd2aa45486a9d13800d23dd40ab
+
 ---
 
-## 10257 — Klocki Lego Creator Expert Zestaw Karuzela 10257
+## 10257 — Karuzela
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1688.99 zł · EAN: 05702015865289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10257 |
+| Nazwa angielska | Carousel |
+| Nazwa polska | Karuzela |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2670 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015865289 |
 
 LEGO CREATOR 10257
  
@@ -944,11 +1449,27 @@ Poznaj majestatyczną karuzelę ze wspaniałymi funkcjami, takimi jak ogromna po
 - Zestaw zawiera dużo formowanych złotych elementów, odblaskowe złote etykiety i elementy w kolorze średnio niebieskim i ciemnoniebieskim. 
 - Karuzelę można napędzać za pomocą średniego silniczka z zestawu LEGO® Power Functions 8883 oraz schowka na baterie AAA 88000 (dostępne osobno).
 
+**Galeria:**
+
+- 10257-1: https://a.allegroimg.com/original/11fda6/a1968bc045928451ccd11e818e81
+
 ---
 
-## 10258 — Lego Creator Expert 10258 Londyński autobus
+## 10258 — Londyński autobus
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 619.00 zł · EAN: 05702015865296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10258 |
+| Nazwa angielska | London Bus |
+| Nazwa polska | Londyński autobus |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1686 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 13 cm |
+| EAN | 5702015865296 |
 
 LEGO® Creator Expert 10258
  
@@ -1017,11 +1538,26 @@ Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogors
 
 W razie wątpliwości proszę pisać lub dzwonić.
 
+**Galeria:**
+
+- 10258-1: https://a.allegroimg.com/original/117499/3f17ab094b0d853536ebbf310ae1
+
 ---
 
-## 10259 — Lego Creator Expert Stacja w zimowej wiosce 10259
+## 10259 — Zimowa wioska- Dworzec
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702015865302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10259 |
+| Nazwa angielska | Winter Village Station |
+| Nazwa polska | Zimowa wioska- Dworzec |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 902 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 28 cm × gł. 14 cm |
+| EAN | 5702015865302 |
 
 ***** Zależy nam na tym, aby każdy zestaw trafił w Państwa ręce w idealnym stanie, dlatego też kładziemy specjalny nacisk na sposób zabezpieczania i pakowania oferowanych zestawów. Do pakowania używamy kartonów 5 lub 7 warstwowych, 3-4 warstwy folii bąbelkowej + wypełniacze** ***
 
@@ -1049,11 +1585,27 @@ Wybierz się do domu na święta z wesołej stacji w zimowej wiosce. Ośnieżona
 - Zamknięty przejazd kolejowy ma ok. 6 cm wysokości, 13 cm szerokości i 14 cm głębokości. 
 - Autobus ma ok. 9 cm wysokości, 15 cm długości i 7 cm szerokości.
 
+**Galeria:**
+
+- 10259-1: https://a.allegroimg.com/original/11a715/2dee73c34da7b0f451a424ec805b
+
 ---
 
-## 10260 — Klocki Lego Creator Expert Zestaw Bistro w śródmieściu 10260
+## 10260 — BISRTO W ŚRÓDMIEŚCIU
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1549.00 zł · EAN: 05702016111842 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10260 |
+| Nazwa angielska | Downtown Diner |
+| Nazwa polska | BISRTO W ŚRÓDMIEŚCIU |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111842 |
 
 LEGO Bistro w śródmieściu 10260
 
@@ -1083,65 +1635,27 @@ W zestawie akcesoria: rolki, gitara, nagroda za złotą płytę i barowy dzwonek
 
 Zdejmuj poszczególne części budynku, by zajrzeć do szczegółowo odwzorowanego wnętrza.
 
----
+**Galeria:**
 
-## 10261 — Lego 10261 Creator Kolejka górska
-
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702016111835 · in stock*
-
-**Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
-
-**Zapraszamy do odkrycia niezwykłego zestawu LEGO – nowego, w pełni oryginalnego produktu zapakowanego w fabryczne opakowanie. To doskonały wybór dla miłośników budowania w każdym wieku: dzieci, dorosłych, kolekcjonerów oraz wszystkich, którzy cenią jakość, precyzję i zabawę bez granic.**
-
-**Co otrzymujesz?**
-
-- **� Fabrycznie nowy zestaw LEGO, zaplombowany przez producenta**
-- **🎁 Idealny na prezent – uniwersalna radość tworzenia**
-- **📸 Rzeczywiste zdjęcia przedstawiają oferowany produkt**
-
-**✨ Dlaczego warto wybrać LEGO?**
-
-- **✅ 100% oryginalny produkt – bez kompromisów**
-- **✅ Rozwija kreatywność, koncentrację i zdolności manualne**
-- **✅ Zachwyca jakością wykonania i dbałością o detale**
-- **✅ Wspaniała rozrywka solo lub z bliskimi**
-
-**🚚 Wysyłka**
-
-- **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
-- **Szybka realizacja zamówień**
-
-LEGO Kolejka górska 10261
-
-Przejedź się niezwykłą kolejką górską!
-
-Poczuj prędkość i wrażenia, jakie zapewnia najwspanialsza atrakcja w wesołym miasteczku — kolejka z niesamowitego zestawu LEGO Creator Expert 10261 Kolejka górska. Ten działający model z wyciągarką łańcuchową zawiera dwie kolejki oraz mnóstwo autentycznych szczegółów i funkcji. Są to między innymi budka z biletami, wózek z watą cukrową, stoisko z przekąskami, miarka wzrostu, a także zadaszona stacja do wsiadania z otwieranymi barierkami i panelem sterowania. Włącz wyciągarkę łańcuchową i zobacz, jak wagoniki rozpędzone dzięki sile grawitacji pędzą po krętych torach. Zestaw LEGO Power Functions umożliwia zasilenie wyciągarki silnikiem, a zestaw LEGO BOOST — dodanie dodatkowego czujnika ruchu oraz realistycznych efektów dźwiękowych! Zbudowanie tego niesamowitego modelu kolekcjonerskiego da każdemu konstruktorowi mnóstwo satysfakcji z nutką nostalgii. W zestawie znajduje się 11 minifigurek.
-
-- W zestawie 11 minifigurek: sprzedawca waty cukrowej, dwóch pracowników wesołego miasteczka, dziadkowie z wnuczką oraz pięcioro pasażerów kolejki. Osiem minifigurek ma główki, które można odwrócić, by ukazać różne wyrazy twarzy.
-- Działająca kolejka górska z wyciągarką łańcuchową wyposażona jest w klasyczny szyld zbudowany z klocków, dwie kolejki (każda złożona jest z trzech wagoników z kołami zapewniającymi niskie tarcie) oraz tor złożony z 44 fragmentów siedmiu różnych rodzajów.
-- W zestawie jest także budka z biletami, fontanna, wózek z watą cukrową, stoisko z przekąskami, ławka dla oczekujących, aparat fotograficzny oraz staw z figurką żaby.
-- Kup bilet w budce i przejdź na zadaszony plac.
-- Nie oszukuj przy miarce wzrostu — pracownik wesołego miasteczka ma własną, dokładną miarkę!
-- Pomóż pasażerom wsiąść do wagoników i opuścić pręty bezpieczeństwa.
-- Zwolnij hamulec, a wagoniki podjadą do stóp pierwszego wzniesienia.
-- Aktywuj wyciągarkę łańcuchową, by wciągnąć wagoniki na sam szczyt wzniesienia.
-- Przesuń tory i wyjedź w trasę drugą kolejką.
-- Zaserwuj orzeźwiające napoje na stoisku lub przygotuj watę cukrową w wózku.
-- Nie zapomnij uśmiechnąć się podczas przejazdu koło aparatu fotograficznego!
-- Zestaw LEGO Power Functions umożliwia zasilenie wyciągarki silnikiem, a zestaw LEGO BOOST — dodanie funkcji automatycznego włączania wyciągarki oraz realistycznych efektów dźwiękowych!
-- Ten rewelacyjny zestaw zawiera ponad 4120 klocków.
-- Klocki z nadrukiem: bilet, banknot, płytki ze strzałkami, ciśnieniomierz, klawiatura numeryczna oraz panel sterowania kolejką.
-- Nowe, specjalne klocki to m.in. nachylony tor 2x8x6, klocek z łukiem 1x2x1, liście, łodygi i kwiaty (nowości na czerwiec 2018 r.).
-- Inne akcesoria w zestawie to m.in. miarka wzrostu i dwie porcje waty cukrowej.
-- Stanowi doskonałe rozszerzenie zestawu 10257 LEGO Creator Expert Karuzela.
-- Kolejka górska można napędzać za pomocą średniego silniczka z zestawu LEGO Power Functions 8883 oraz schowka na baterie AAA 88000 (dostępne osobno).
-- Model ma ok. 53 cm wysokości, 88 cm szerokości i 41 cm głębokości.
+- 10260-1: https://a.allegroimg.com/original/115526/cbec34c84e74ab911db1e6279352
 
 ---
 
-## 10262 — Lego Creator Expert 10262 Lego Creator Expert Aston Martin 10262
+## 10262 — Lego Creator Expert Aston Martin 10262
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016111828 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10262 |
+| Nazwa angielska | James Bond Aston Martin DB5 |
+| Nazwa polska | Lego Creator Expert Aston Martin 10262 |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1295 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 12 cm |
+| EAN | 5702016111828 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1177,11 +1691,26 @@ Zdobądź licencję na budowanie fantastycznego zestawu LEGO Creator Expert 1026
 - Nowe, specjalne klocki to m.in. lakierowane bębnowo elementy (zakrzywiony łącznik, płytka 2x4 oraz belka o długości 1 modułu), a także płytka 1x2 z nadrukowaną kratownicą (nowości na sierpień 2018 r.). 
 - Model ma ok. 10 cm wysokości, 34 cm długości i 12 cm szerokości.
 
+**Galeria:**
+
+- 10262-1: https://a.allegroimg.com/original/009961/78b988ec48f3a0ba80adef6a446d
+
 ---
 
-## 10263 — Lego 10263 Creator Expert Remiza Strażacka W Zimowej Wiosce
+## 10263 — LEGO Creator Expert Remiza strażacka 10263
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 469.00 zł · EAN: 05702016111811 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10263 |
+| Nazwa angielska | Winter Village Fire Station |
+| Nazwa polska | LEGO Creator Expert Remiza strażacka 10263 |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1166 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016111811 |
 
 Witamy!
 
@@ -1203,11 +1732,27 @@ Kiełczowska 51B (Budynek STATEK) Psie Pole
 
 ZAPRASZAMY!!!
 
+**Galeria:**
+
+- 10263-1: https://a.allegroimg.com/original/118e77/651d53174f03bc42819dec91d6e7
+
 ---
 
-## 10264 — Lego 10264 Creator Expert Warsztat na rogu
+## 10264 — Warsztat na rogu
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1148.99 zł · EAN: 05702016368253 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10264 |
+| Nazwa angielska | Corner Garage |
+| Nazwa polska | Warsztat na rogu |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2569 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 26 cm × gł. 25 cm |
+| EAN | 5702016368253 |
 
 Klocki LEGO Creator Expert 10264 - Warsztat na rogu
 
@@ -1254,11 +1799,27 @@ Zestaw LEGO Creator Expert - Warsztat na rogu trafił do sprzedaży w 2019 rok
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10264-1: https://a.allegroimg.com/original/11be59/eb20fc0d4692894dbd251935cb37
+
 ---
 
-## 10265 — Lego Creator Expert 10265 Ford Mustang
+## 10265 — Ford Mustang
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702016368260 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10265 |
+| Nazwa angielska | Ford Mustang |
+| Nazwa polska | Ford Mustang |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1471 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm |
+| EAN | 5702016368260, 5906438320121 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1299,11 +1860,28 @@ Poczuj magię kultowego amerykańskiego samochodu typu muscle car z lat 60. XX w
 - Nowe, specjalne elementy w zestawie (nowości na marzec 2019 r.) to felgi z pięcioma szprychami, łukowaty klocek w rozmiarze 2x8, płytka z logo Mustanga w rozmiarze 1x3 oraz łuk z logo „GT” w rozmiarze 2x4. 
 - Model ma ok. 10 cm wysokości, 34 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 10265-1: https://a.allegroimg.com/original/1148de/ddc1e2a64fd8803a18f7620dc8ba
+- 10265-2: https://a.allegroimg.com/original/1171f7/f35f5bdc4960b5b18388f6051024
+
 ---
 
-## 10266 — Lego Creator Expert 10266 Lądownik księżycowy Apollo 11 Nasa na święta
+## 10266 — Lądownik księżycowy Apollo 11 NASA
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 459.99 zł · EAN: 05702016368277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10266 |
+| Nazwa angielska | NASA Apollo 11 Lunar Lander |
+| Nazwa polska | Lądownik księżycowy Apollo 11 NASA |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1087 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 22 cm × gł. 20 cm |
+| EAN | 5702016368277 |
 
 LEGO Creator Expert 10266 Lądownik księżycowy Apollo 11 NASA / NOWY / UNIKAT
 
@@ -1332,11 +1910,26 @@ Uczcij pierwsze lądowanie człowieka na Księżycu z zestawem LEGO® Creator Ex
 - Nowe elementy (nowości na czerwiec 2019 r.) to płytka z nazwą „Apollo 11 Lunar Lander” oraz złote części lądownika.
 - Model ma ok. 20 cm wysokości, 22 cm szerokości i 20 cm głębokości.
 
+**Galeria:**
+
+- 10266-1: https://a.allegroimg.com/original/112a71/284bf6e846218d51ad7804a025f1
+
 ---
 
-## 10267 — Lego Creator Expert Chatka Z Piernika 10267 b
+## 10267 — Chatka z piernika
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 587.35 zł · EAN: 05702016368284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10267 |
+| Nazwa angielska | Gingerbread House |
+| Nazwa polska | Chatka z piernika |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1477 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 26 cm × gł. 13 cm |
+| EAN | 5702016368284 |
 
 **Chatka z piernika**
 
@@ -1362,11 +1955,26 @@ Poczuj świąteczną radość budowania dzięki zestawowi 10267 Chatka z piernik
 
 • Wymiary: ok. 21 cm wysokości, 26 cm szerokości i 13 cm głębokości.
 
+**Galeria:**
+
+- 10267-1: https://a.allegroimg.com/original/11be22/4a0b39324496a519b236f7b8f754
+
 ---
 
-## 10268 — Lego Creator Expert 10268 Turbina wiatrowa Vestas
+## 10268 — Turbina wiatrowa Vestas
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1674.99 zł · EAN: 05702016351682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10268 |
+| Nazwa angielska | Vestas Wind Turbine |
+| Nazwa polska | Turbina wiatrowa Vestas |
+| Seria | Creator Expert |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 826 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016351682 |
 
 Klocki LEGO® 10268 Creator Expert Turbina wiatrowa Vestas
 
@@ -1390,11 +1998,26 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla osób w wieku od 12 lat. Sprawdzi się u budowniczych, którzy lubią większe modele LEGO® Creator Expert, konstrukcje techniczne oraz tematykę energii odnawialnej.
 
+**Galeria:**
+
+- 10268-1: https://a.allegroimg.com/original/11f939/8e4849e44ca6a6c7ae25f5bf055b
+
 ---
 
-## 10269 — Lego 10269 Creator Expert Harley-Davidson Fat Boy 1023 elementy 16+
+## 10269 — Harley-Davidson Fat Boy
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702016368291 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10269 |
+| Nazwa angielska | Harley-Davidson Fat Boy |
+| Nazwa polska | Harley-Davidson Fat Boy |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Liczba elementów | 1023 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 18 cm × gł. 33 cm |
+| EAN | 5702016368291 |
 
 Klocki LEGO CREATOR
  
@@ -1427,11 +2050,27 @@ WIEK: **16+**
 - **Liczba elementów 1023.**
 - Nadaje się dla dzieci od 16 lat.
 
+**Galeria:**
+
+- 10269-1: https://a.allegroimg.com/original/037653/0bc3759047d9ad4a441515914352
+
 ---
 
-## 10270 — Klocki Lego Lego Creator Expert 10270 Księgarnia
+## 10270 — Księgarnia
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 845.00 zł · EAN: 05702016667974 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10270 |
+| Nazwa angielska | Bookshop |
+| Nazwa polska | Księgarnia |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2504 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702016667974, 5905220305452 |
 
 LEGO Creator Expert 10270 Księgarnia
  
@@ -1465,11 +2104,28 @@ Zestawy LEGO Creator Expert to odpowiedni wybór dla nastoletnich i dorosłych p
 - Klocki LEGO® już od 1958 roku są poddawane testom zgodnym z najwyższymi standardami branżowymi, dzięki czemu są zawsze jednolite, zgodne i można je za każdym razem łatwo połączyć i rozdzielić. 
 - W Grupie LEGO upuszczamy, podgrzewamy, zgniatamy, skręcamy i badamy elementy LEGO®, by sprawdzić, czy każdy zestaw konstrukcyjny spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10270-1: https://a.allegroimg.com/original/05faf6/1a45009942dbbe5ac1ffaf2baf54
+- 10270-2: https://a.allegroimg.com/original/11d2f5/f5940b76440abddc871b631f0592
+
 ---
 
-## 10271 — Lego 10271 Creator Expert Fiat 500
+## 10271 — Fiat 500 
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 539.99 zł · EAN: 05702016667981 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10271 |
+| Nazwa angielska | Fiat 500 |
+| Nazwa polska | Fiat 500  |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 960 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702016667981 |
 
 Klocki LEGO Creator Expert 10271 - Fiat 500
 
@@ -1508,11 +2164,27 @@ Zestaw LEGO Creator Expert - Fiat 500 trafił do sprzedaży w 2020 roku. Numer
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 10271-1: https://a.allegroimg.com/original/11db69/89ddb36a43408c656c74a8b48b87
+
 ---
 
-## 10272 — Lego Creator Expert Stadion Old Trafford Manchester United 10272 Ideał!
+## 10272 — Old Trafford Manchester United
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 3029.00 zł · EAN: 05702016667998 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10272 |
+| Nazwa angielska | Old Trafford - Manchester United |
+| Nazwa polska | Old Trafford Manchester United |
+| Seria | Icons |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3898 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 39 cm |
+| EAN | 5702016667998 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1549,11 +2221,27 @@ Zestaw LEGO Creator Expert - Fiat 500 trafił do sprzedaży w 2020 roku. Numer
 - Klocki konstrukcyjne LEGO od ponad 60 lat niezmiennie odpowiadają najwyższym standardom branżowym. Dzięki temu zachowują spójny wygląd, są ze sobą zgodne i można je za każdym razem z łatwością połączyć i rozdzielić. 
 - Z LEGO jesteś w dobrych rękach. Nasze klocki i inne elementy zestawów są poddawane wyczerpującym testom i spełniają najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 10272-1: https://a.allegroimg.com/original/03f146/8bfc1e964de392d13d86e24a9d26
+
 ---
 
-## 10275 — Lego Creator Expert 10275 Domek elfów
+## 10275 — Domek elfów
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 500.00 zł · EAN: 05702016668025 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10275 |
+| Nazwa angielska | Elf Club House |
+| Nazwa polska | Domek elfów |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1197 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668025 |
 
 Model LEGO Creator Expert 10275 Domek elfów
 
@@ -1567,11 +2255,27 @@ W zestawie znajdują się akcesoria tematyczne, takie jak choinka z ozdobami, ro
 
 Produkt przeznaczony jest dla dorosłych odbiorców (18+).
 
+**Galeria:**
+
+- 10275-1: https://a.allegroimg.com/original/112845/edf7b86c48bc8666213804f8f1fd
+
 ---
 
-## 10278 — Klocki Lego Icons Zestaw Posterunek Policji 10278
+## 10278 — Posterunek policji
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702016913729 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10278 |
+| Nazwa angielska | Police Station |
+| Nazwa polska | Posterunek policji |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2923 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702016913729 |
 
 LEGO Creator Expert 10278 Posterunek policji
 
@@ -1605,11 +2309,27 @@ Elementy konstrukcyjne LEGO® powstają z najwyższej jakości materiałów. Dzi
 
 Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
 
+**Galeria:**
+
+- 10278-1: https://a.allegroimg.com/original/2583c6/e5b4593d4c5e9adbcd1a8346e5ea
+
 ---
 
-## 10283 — Lego Creator Expert Wahadłowiec Discovery 10283
+## 10283 — WAHADŁOWIEC DISCOVERY
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 899.90 zł · EAN: 05702016914061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10283 |
+| Nazwa angielska | NASA Space Shuttle Discovery |
+| Nazwa polska | WAHADŁOWIEC DISCOVERY |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2354 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 34 cm |
+| EAN | 5702016914061 |
 
 **LEGO CREATOR EXPERT WAHADŁOWIEC DISCOVERY 10283**
 
@@ -1637,11 +2357,27 @@ Zestaw konstrukcyjny dla dorosłych LEGO® Wahadłowiec Discovery NASA (10283) t
 
 • Bezpieczeństwo i jakość klocków LEGO® są dla nas najważniejsze. Rygorystycznie testujemy wszystkie elementy, by mieć pewność, że każdy model jest równie solidny, co piękny.
 
+**Galeria:**
+
+- 10283-1: https://a.allegroimg.com/original/1123d4/235f650a42da8c63130827155bd4
+
 ---
 
-## 10284 — Lego Creator Expert 10284 Stadion Camp Nou Fc Barcelona Opis
+## 10284 — Camp Nou FC Barcelona
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702016914276 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10284 |
+| Nazwa angielska | Camp Nou - FC Barcelona |
+| Nazwa polska | Camp Nou FC Barcelona |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5509 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 49 cm × gł. 46 cm |
+| EAN | 5702016914276 |
 
 LEGO® 10284 Camp Nou – FC Barcelona
 
@@ -1668,11 +2404,27 @@ Ten zestaw jest częścią kolekcji modeli konstrukcyjnych LEGO dla dorosłych, 
 
 Poniżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 10284-1: https://a.allegroimg.com/original/115aae/7b6f25314f83a1df956e7e5ccba5
+
 ---
 
-## 10292 — Lego Icons 10292 Mieszkania z serialu Przyjaciele – zestaw kolekcjonerski
+## 10292 — Mieszkania z serialu Przyjaciele
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1850.00 zł · EAN: 05702016914306 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10292 |
+| Nazwa angielska | Friends - The Apartments |
+| Nazwa polska | Mieszkania z serialu Przyjaciele |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2048 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016914306 |
 
 LEGO Icons 10292 Mieszkania z serialu Przyjaciele – zestaw kolekcjonerski
  
@@ -1684,11 +2436,27 @@ Model zachwyca nie tylko wyglądem, ale też dużą liczbą odniesień do najbar
  
 Wymiary zestawu to około 64 cm szerokości, 31 cm głębokości i 10 cm wysokości. Warto również zwrócić uwagę na możliwość wyjmowania dywanów, które można przekształcić w dodatkowe minimodele lub elementy dekoracyjne. Zestaw stanowi świetny prezent dla fanów Przyjaciół, kolekcjonerów LEGO® oraz miłośników klasycznych seriali telewizyjnych.
 
+**Galeria:**
+
+- 10292-1: https://a.allegroimg.com/original/11ee18/0e970fb54873bd5893513f73273f
+
 ---
 
-## 10293 — Lego Creator Expert Wizyta Świętego Mikołaja 10293
+## 10293 — Wizyta Świętego Mikołaja
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 530.00 zł · EAN: 05702016914313 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 10293 |
+| Nazwa angielska | Santa's Visit |
+| Nazwa polska | Wizyta Świętego Mikołaja |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1445 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 27 cm × gł. 16 cm |
+| EAN | 5702016914313, 5905413616099 |
 
 LEGO Creator Expert 10293 Wizyta Świętego Mikołaja
 
@@ -1704,11 +2472,27 @@ LEGO Creator Expert 10293 Wizyta Świętego Mikołaja
 - Elementy konstrukcyjne LEGO® powstają z wysokiej jakości materiałów. Dzięki temu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® powstają z myślą o bezpieczeństwie i jakości. Rygorystycznie testujemy wszystkie z nich, by mieć pewność, że każdy model jest równie solidny co piękny.
 
+**Galeria:**
+
+- 10293-1: https://a.allegroimg.com/original/05eeea/25501c2a4bf19b4d50126577232f
+- 10293-2: https://a.allegroimg.com/original/11e0ca/c0d04e544c6d9876c2ead88b46f5
+
 ---
 
-## 3846 — Klocki Lego 3846 Gra Planszowa Ufo Attack zabawa rodzinna kreatywna
+## 3846 — Gry - UFO Attack
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 165.00 zł · EAN: 05702014601482 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 3846 |
+| Nazwa angielska | UFO Attack |
+| Nazwa polska | Gry - UFO Attack |
+| Seria | Creator Expert |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2010 |
+| Liczba elementów | 88 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014601482 |
 
 LEGO 3846 Gra Planszowa UFO Attack – zabawa dla dzieci i dorosłych UNIKAT
 
@@ -1725,11 +2509,27 @@ O produkcie:
 
 Zestaw umożliwia stworzenie scenariusza walki z UFO oraz zapewni wiele godzin ciekawej zabawy. To doskonały wybór dla małych miłośników kosmicznych przygód oraz dla dzieci, które lubią skomplikowane konstrukcje.
 
+**Galeria:**
+
+- 3846-1: https://a.allegroimg.com/original/110a65/69909c1e45f8b546f34003b86899
+
 ---
 
-## 40009 — Lego 40009 Holiday Building Set polybag
+## 40009 — HOLIDAY
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 00673419145947 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40009 |
+| Nazwa angielska | Holiday Building Set |
+| Nazwa polska | HOLIDAY |
+| Seria | Seasonal |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 85 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419145947 |
 
 ** ****LEGO zestaw  - polybag**
 
@@ -1755,11 +2555,26 @@ Zestaw umożliwia stworzenie scenariusza walki z UFO oraz zapewni wiele godzin c
 
 **• Produkt pakowany z należytą starannością**
 
+**Galeria:**
+
+- 40009-1: https://a.allegroimg.com/original/11db2a/0806a862498ba06aa00804f02c3d
+
 ---
 
-## 4002015 — Klocki Lego Zestaw Turbina Wiatrowa Borkum Riffgrund 4002015
+## 4002015 — Borkum Riffgrund 1
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1149.00 zł · EAN: 00673419254465 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002015 |
+| Nazwa angielska | Borkum Riffgrund 1 |
+| Nazwa polska | Borkum Riffgrund 1 |
+| Seria | Creator Expert |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 559 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419254465 |
 
 Zestaw **LEGO 4002015 – Borkum Riffgrund 1** to wyjątkowy, kolekcjonerski model, który nie był dostępny w regularnej sprzedaży detalicznej. Został on stworzony jako prezent dla pracowników LEGO z okazji otwarcia morskiej farmy wiatrowej **Borkum Riffgrund 1** na Morzu Północnym oraz jako świąteczny upominek w 2015 roku.
 
@@ -1781,11 +2596,26 @@ Farma wiatrowa Borkum Riffgrund 1 została uruchomiona 9 października 2015 roku
 
 **Waga**: ok. 840 g
 
+**Galeria:**
+
+- 4002015-1: https://a.allegroimg.com/original/115a8e/bbb74c0f412387232849c0baf2bf
+
 ---
 
-## 40503 — Chd: Lego 40503 House Dagny Holm Master Builder
+## 40503 — DAGNY HOLM - MASTER BUILDER
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 498.88 zł · EAN: 05702017165769 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40503 |
+| Nazwa angielska | Dagny Holm - Master Builder |
+| Nazwa polska | DAGNY HOLM - MASTER BUILDER |
+| Seria | Creator Expert |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1068 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017165769 |
 
 LEGO HAUSE LIMITED EDITION
  
@@ -1805,11 +2635,26 @@ W zestawie znajdziesz szczegółową replikę LEGO House, wraz z charakterystycz
 
 Zestaw LEGO House Limited Edition numer 40503 jest prawdziwą pamiątką i wyjątkowym elementem kolekcjonerskim dla fanów LEGO. To nie tylko wspaniała dekoracja, ale również świetny sposób na wyrażenie swojej pasji i miłości do klocków LEGO.
 
+**Galeria:**
+
+- 40503-1: https://a.allegroimg.com/original/1118df/f9a87c66401a84f38c0a0ec9fcdf
+
 ---
 
-## 40607 — Lego Creator Expert 40607 Letnia Frajda saszetka z klockami
+## 40607 — LETNIA FRAJDA
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 63.99 zł · EAN: 05702017423913 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40607 |
+| Nazwa angielska | Summer Fun VIP Add-On Pack |
+| Nazwa polska | LETNIA FRAJDA |
+| Seria | Creator Expert |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 120 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017423913 |
 
 LEGO Seria VIP 40607 Letnia Frajda / NOWY / UNIKAT
 
@@ -1827,11 +2672,27 @@ Rafał
 
 Nadaj letni klimat swoim modelom LEGO® dzięki torebce ze 120 elementami inspirowanymi latem. Różne kolory i kształty sprawiają, że to idealny sposób na spersonalizowanie swoich zestawów.
 
+**Galeria:**
+
+- 40607-1: https://a.allegroimg.com/original/11b3e2/6e631648490bb19e18e16841b7c1
+
 ---
 
-## 40643 — Klocki Lego Jade Bunny 40643 Księżycowy Królik
+## 40643 — Jade Rabbit
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 69.00 zł · EAN: 05702017471532 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40643 |
+| Nazwa angielska | Jade Rabbit |
+| Nazwa polska | Jade Rabbit |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 288 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471532 |
 
 Klocki LEGO Jade Bunny 40643
 
@@ -1872,11 +2733,27 @@ Specyfikacja techniczna w pigułce:
 - **Sugerowany wiek:** 8+
 - **Zawartość:** Figurka królika z moździerzem, ciasteczko mooncake, dekoracyjny księżyc z chmurami, otwierana podstawa z ukrytymi detalami.
 
+**Galeria:**
+
+- 40643-1: https://a.allegroimg.com/original/112430/20ac2ab44c4b883328bc3633a250
+
 ---
 
-## 40648 — Klocki Lego Iconic 40648 Drzewko Pachira Pomyślność i Szczęście 9+
+## 40648 — 40648 Drzewo obfitości
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 117.90 zł · EAN: 05702017421643 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40648 |
+| Nazwa angielska | Money Tree |
+| Nazwa polska | 40648 Drzewo obfitości |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 336 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017421643 |
 
 LEGO Okolicznościowe 40648 Pachira
 
@@ -1886,11 +2763,26 @@ LEGO Okolicznościowe 40648 Pachira
 - **Dekoracyjne elementy - pachirę zdobi 20 mandarynek, 14 czerwonych kopert i 10 monet symbolizujących pomyślność i szczęście**
 - **Wymiary - pachira ma 16 cm wysokości **i będzie świetnym prezentem dla fanów LEGO® w każdym wieku
 
+**Galeria:**
+
+- 40648-1: https://a.allegroimg.com/original/05a075/172c55f1455fb87cbc3b3d1f81c2
+
 ---
 
-## 40714 — Lego 40714 Przejażdżka karuzelą
+## 40714 — Przejażdżka karuzelą
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 87.69 zł · EAN: 05702017595832 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40714 |
+| Nazwa angielska | Carousel Ride |
+| Nazwa polska | Przejażdżka karuzelą |
+| Seria | Creator Expert |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 14 cm × gł. 13 cm |
+| EAN | 5702017595832 |
 
 LEGO® 40714 Przejażdżka karuzelą
 
@@ -1904,46 +2796,26 @@ Dzięki szczegółowemu zestawowi LEGO® Przejażdżka karuzelą dzieci w wieku 
 - LEGO® na prezent – ten zestaw z karuzelą gwarantuje świetną zabawę i stanowi przemyślany prezent dla dzieci, które uwielbiają parki rozrywki 
 - Wymiary – ten kolorowy 232-elementowy zestaw LEGO® ma 13 cm wysokości, 14 cm szerokości i 13 cm głębokości
 
----
+**Galeria:**
 
-## 42151 — Lego Technic 42151 Bolid Bugatti Bolide Silnik W16 Wyścigówka 905 klocków
-
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 247.89 zł · EAN: 50702016699333 · in stock*
-
-Przygotuj się na spotkanie z buntownikiem. **Bolid Bugatti** przesuwa granice motosportów. Teraz Twoja kolej, by zbudować ten kultowy samochód wyścigowy dzięki zestawowi LEGO® Technic Bolid Bugatti. Pochwal się detalami samochodu, w tym działającym **silnikiem W16**, **układem kierowniczym i skrzydłowymi drzwiami**. Dodaj naklejki, aby uzupełnić wspaniały wygląd.
-
-**Wyzwanie inżynieryjne dla fanów samochodów sportowych**
-
-Zachęć dzieci do zbudowania kultowego auta wyścigowego z zestawu LEGO® Technic Bolid Bugatti.
-
-Zainspiruj dziewięciolatka lub starsze dziecko do zbudowania własnego modelu samochodu wyścigowego dzięki zestawowi LEGO® Technic Bolid Bugatti (42151). Dzieci mogą odtwarzać **realistyczne detale, w tym silnik W16, układ kierowniczy i drzwi skrzydłowe**. **Wspaniały wygląd auta przykuwa uwagę swoją czarno-żółtą kolorystyką i realistycznymi naklejkami. Po zbudowaniu i obejrzeniu samochodu można z dumą ustawić model kolekcjonerski jako ozdobę.**
-
-Świetne wprowadzenie do świata inżynierii
-
-Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzięki czemu wprowadzają młodych budowniczych LEGO w świat inżynierii w przystępny i realistyczny sposób. Łatwe i intuicyjne budowanie umożliwi aplikacja LEGO Builder. Dzieci mogą w niej przybliżać i obracać modele w 3D, zapisywać zestawy i śledzić swoje postępy.
-
-- **Model dla miłośników sportów motorowych** – postaw wyzwanie fanom motoryzacji w wieku od dziewięciu lat i podaruj im szczegółowy model LEGO® Technic Bolid Bugatti (42151)
-
-- **Przyciągające uwagę detale** – dzieci mogą budować i odkrywać pracę silnika W16, układ kierowniczy i drzwi skrzydłowe samochodu wyścigowego Bugatti
-
-- **Wzorowane na oryginale** – model bolidu Bugatti ma czarno-żółtą kolorystykę, a całości dopełniają naklejki
-
-- Prezent dla dzieci w wieku od dziewięciu lat – podaruj model Bugatti dziecku, które uwielbia samochody wyścigowe i modele aut sportowych
-
-- Do zabawy i ozdoby – po zbudowaniu samochodu, gdy zabawa jest skończona dzieci mogą z dumą ustawić model kolekcjonerski na półce
-
-- **Wymiary – model LEGO® Technic ma 8 cm wysokości, 31 cm długości i 13 cm szerokości**
-
-- Pomoc w budowaniu – odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając umiejętności dziecka
-- Wprowadzenie do świata inżynierii – modele konstrukcyjne LEGO Technic składają się z realistycznie poruszających się mechanizmów, które dla młodych budowniczych LEGO stanowią przystępne wprowadzenie do świata inżynierii
-- Wysoka jakość – elementy LEGO® Technic spełniają rygorystyczne standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić
-- Bezpieczeństwo przede wszystkim – elementy LEGO® Technic są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają najwyższe światowe standardy bezpieczeństwa
+- 40714-1: https://a.allegroimg.com/original/111b2e/5038b3864a148b31d7f5ccd930b4
 
 ---
 
-## 4999 — Lego Creator Expert 4999 Vestas Turbina Wiatrowa
+## 4999 — LEGO 4999 Creator Expert - Vestas Wind Turbine Limited Edition
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014520202 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4999 |
+| Nazwa angielska | Vestas Windmill |
+| Nazwa polska | LEGO 4999 Creator Expert - Vestas Wind Turbine Limited Edition |
+| Seria | Creator Expert |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2008 |
+| Liczba elementów | 815 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014520202 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1967,11 +2839,26 @@ Modele LEGO Technic są wyposażone w realistyczne mechanizmy i są ruchome, dzi
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4999-1: https://a.allegroimg.com/original/1158e9/527b5ea948f8a9cc6cf92fa8a004
+
 ---
 
-## 5006655 — Lego 5006655 Vip Porsche Welcome Pack
+## 5006655 — VIP LEGO Porsche Welcome Pack
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702017119113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006655 |
+| Nazwa angielska | Porsche Welcome Pack |
+| Nazwa polska | VIP LEGO Porsche Welcome Pack |
+| Seria | Creator Expert |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017119113 |
 
 LEGO 5006655 VIP Porsche Welcome Pack
 
@@ -1981,11 +2868,26 @@ Zestaw nie ma plomb fabrycznie, zawartość w stanie wzorowym
 
 W razie dodatkowych pytań proszę użyć formularza allegro, w przypadkach pilnych można znaleźć numer kontaktowy na dole ogłoszenia.
 
+**Galeria:**
+
+- 5006655-1: https://a.allegroimg.com/original/11b5a8/8eba1d594fa6952ef5aa5dab2eab
+
 ---
 
-## 5525 — Lego 5525 – Amusement Park (Park Rozrywki)
+## 5525 — Amusement Park
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1300.00 zł · EAN: 05702014468795 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5525 |
+| Nazwa angielska | Amusement Park |
+| Nazwa polska | Amusement Park |
+| Seria | Creator Expert |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2005 |
+| Liczba elementów | 1339 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014468795 |
 
 Dane podstawowe
 
@@ -2022,11 +2924,26 @@ Instrukcje budowania (PDF) były dostępne do pobrania przez LEGO Factory.
 - Niektóre recenzje mówią o „niespójności skali” pomiędzy mikro-elementami: nie zawsze wszystko do siebie pasuje estetycznie.
 - Ze względu na wiek i rzadkość, pudełka nowe w dobrym stanie są trudno dostępne i drożeją.
 
+**Galeria:**
+
+- 5525-1: https://a.allegroimg.com/original/11ae36/9ac260c74186a527bd39779a51b9
+
 ---
 
-## 6386182 — Lego Botanicals Drzewko Bonsai 10281 Icons
+## 6386182 — Masters gift
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 188.72 zł · EAN: 05702017189383 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6386182 |
+| Nazwa angielska | LEGO Masters Mini Build |
+| Nazwa polska | Masters gift |
+| Seria | Creator Expert |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 878 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189383 |
 
 LEGO Botanicals Drzewko Bonsai 10281 ICONS
 
@@ -2038,11 +2955,26 @@ Model drzewka bonsai LEGO jest wyposażony w prostokątną doniczkę i podstawk�
 
 #18549
 
+**Galeria:**
+
+- 6386182-1: https://a.allegroimg.com/original/1141b3/ceaf1f554c31a26d3ffc1e7c6f29
+
 ---
 
-## 6432433 — Lego 5007428 (6432433) Przejażdżka na Smoku
+## 6432433 — Przejażdżka na smoku
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 48.89 zł · EAN: 05702017435824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6432433 |
+| Nazwa angielska | — |
+| Nazwa polska | Przejażdżka na smoku |
+| Seria | Creator Expert |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | — |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017435824 |
 
 LEGO 6432433 Przejażdżka na smoku - Kolekcjonerski Zestaw z Minifigurką
  
@@ -2052,11 +2984,26 @@ Zestaw LEGO 6432433 jest przeznaczony dla dzieci powyżej 10 roku życia, ale z 
  
 Inspiracją dla tego zestawu był stary automat na monety dla dzieci, co dodaje mu historycznego uroku. LEGO 6432433 Przejażdżka na smoku to więcej niż zestaw klocków - to brama do świata pełnego magii i przygód.
 
+**Galeria:**
+
+- 6432433-1: https://a.allegroimg.com/original/11a04e/6b85b837433298feb703491484fa
+
 ---
 
-## 6435196 — Lego 6435196 5007489 Baśniowa przejażdżka
+## 6435196 — Baśniowa przejażdżka
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 58.00 zł · EAN: 05702017444758 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 6435196 |
+| Nazwa angielska | — |
+| Nazwa polska | Baśniowa przejażdżka |
+| Seria | Creator Expert |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | — |
+| Liczba elementów | 168 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017444758 |
 
 Klocki LEGO Promocyjne Zestawy 5007489, 5007490, 5007427, 5007428
  
@@ -2068,11 +3015,26 @@ Klocki LEGO Promocyjne Zestawy 5007489, 5007490, 5007427, 5007428
  
 4. Zestaw LEGO Promocyjne - Przejażdżka na smoku trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 5007428. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Promocyjne - Dragon Adventure Ride. Grupa wiekowa tego produktu to 6+.
 
+**Galeria:**
+
+- 6435196-1: https://a.allegroimg.com/original/110f88/c788b3c74eeabef1cfb45a0a77e4
+
 ---
 
-## 77037 — Lego 77037 Horizon Adventures Aloy i Varl kontra krabołaz i piłoząb
+## 77037 — Aloy i Varl kontra krabołaz i piłoząb
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 146.89 zł · EAN: 05702017591759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77037 |
+| Nazwa angielska | Aloy & Varl vs. Shell-Walker & Sawtooth |
+| Nazwa polska | Aloy i Varl kontra krabołaz i piłoząb |
+| Seria | Creator Expert |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 768 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 8 cm |
+| EAN | 5702017591759 |
 
 LEGO Horizon Adventures - Aloy i Varl kontra krabołaz i piłoząb 77037
 
@@ -2097,11 +3059,26 @@ Ten zestaw LEGO jest oparty na grze wideo LEGO Horizon Adventures i zawiera dwie
 - Z ekranu do rzeczywistości — za zgodą rodziców dzieci mogą zagrać w LEGO® Horizon Adventures™ — grę akcji inspirowaną światem Horizon
 - 768-elementowy zestaw — piłoząb ma 18 cm wysokości, 12 cm długości i 8 cm szerokości
 
+**Galeria:**
+
+- 77037-1: https://a.allegroimg.com/original/11528f/7f78855349fe86809053c26ea082
+
 ---
 
-## 77942 — Klocki Lego Creator Expert Fiat 500 77942
+## 77942 — Fiat 500
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1009.93 zł · EAN: 05702017117324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77942 |
+| Nazwa angielska | Fiat 500 - Bright Light Blue Version |
+| Nazwa polska | Fiat 500 |
+| Seria | Creator Expert |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 960 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 11 cm |
+| EAN | 5702017117324 |
 
 Klocki LEGO Creator Expert 77942 - Fiat 500
 
@@ -2122,11 +3099,27 @@ Zabawki do budowania, które pozwalają realizować pasje Zestawy LEGO Creator E
 
 - Instrukcje dołączone do zestawu zostały zaprojektowane tak, by oddać wygląd i ducha oryginalnych materiałów promocyjnych. Są w nich nawet ciekawostki na temat prawdziwego samochodu, historia firmy Fiat oraz wywiad z projektantem LEGO®, który stworzył ten model klasycznego auta.
 
+**Galeria:**
+
+- 77942-1: https://a.allegroimg.com/original/11bb4d/893f9dab4679a18ebceb56aada5a
+
 ---
 
-## 80101 — Lego okolicznościowy 80101 Chińska kolacja sylwestrowa Unikat! Misb!
+## 80101 — Chińska kolacja sylwestrowa
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702016391824 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80101 |
+| Nazwa angielska | Chinese New Year's Eve Dinner |
+| Nazwa polska | Chińska kolacja sylwestrowa |
+| Seria | Seasonal |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 615 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016391824 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2145,11 +3138,27 @@ Zabawki do budowania, które pozwalają realizować pasje Zestawy LEGO Creator E
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 80101-1: https://a.allegroimg.com/original/11fe23/3dc643404afcbaa02b1c648cc891
+
 ---
 
-## 80104 — Lego Taniec lwa Creator Expert Klocki Lew Nowe
+## 80104 — Taniec Lwa
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 159.31 zł · EAN: 05702016668148 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80104 |
+| Nazwa angielska | Lion Dance |
+| Nazwa polska | Taniec Lwa |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 882 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 4 cm × gł. 13 cm |
+| EAN | 5702016668148 |
 
 LEGO - Taniec lwa
 
@@ -2175,11 +3184,26 @@ Ilość klocków:** 480**
 
 - Wymiary — zestaw zawiera 480 elementów i ma 8 cm wysokości, 4 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 80104-1: https://a.allegroimg.com/original/11237e/a1c9559046949779cac0c8fbad72
+
 ---
 
-## 8472 — 8472 Lego Racers
+## 8472 — MOTOR
 
-*Kategoria: Creator Expert · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702014153042 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 8472 |
+| Nazwa angielska | Street 'n' Mud Racer |
+| Nazwa polska | MOTOR |
+| Seria | Creator Expert |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2002 |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014153042 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2202,6 +3226,10 @@ Ilość klocków:** 480**
 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
+
+**Galeria:**
+
+- 8472-1: https://a.allegroimg.com/original/11db85/901c46d64581b9ff2a586a543ad0
 
 ---
 

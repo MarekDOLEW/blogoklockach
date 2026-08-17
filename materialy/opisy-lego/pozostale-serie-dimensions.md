@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Dimensions — opisy produktowe (34 pozycji)
 
-## 71202 — Lego Dimensions Simpsons Level Pack 71202
+## 71202 — LEGO DIMENSIONS LEVEL PACK THE SIMPSONS 71202
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 299.00 zł · EAN: 05051892187619 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71202 |
+| Nazwa angielska | The Simpsons Level Pack |
+| Nazwa polska | LEGO DIMENSIONS LEVEL PACK THE SIMPSONS 71202 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187619 |
 
 ZAPRASZAMY NA ZAKUPY.
 
@@ -41,11 +51,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 
 **ZAPRASZAMY NA ZAKUPY.**
 
+**Galeria:**
+
+- 71202-1: https://a.allegroimg.com/original/11126f/ccae13b64d0c905ecca930f6cff6
+
 ---
 
-## 71204 — Lego Dimensions 71204 Bbc Doctor Who Level Pack
+## 71204 — Doctor Who Level Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 449.99 zł · EAN: 05051892187633 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71204 |
+| Nazwa angielska | Doctor Who Level Pack |
+| Nazwa polska | Doctor Who Level Pack |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187633 |
 
 WITAM
 
@@ -70,11 +95,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71204-1: https://a.allegroimg.com/original/11744a/25ed670e48dd9c312de423e8ad38
+
 ---
 
-## 71205 — Lego Dimensions 71205 Team Pack Jurassic World
+## 71205 — Jurassic World Team Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 249.99 zł · EAN: 05051892187596 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71205 |
+| Nazwa angielska | Jurassic World Team Pack |
+| Nazwa polska | Jurassic World Team Pack |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187596 |
 
 WITAM
 
@@ -97,11 +137,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71205-1: https://a.allegroimg.com/original/11b68d/98e1082a4de19e8af4768baf311c
+
 ---
 
-## 71206 — Lego Dimensions 71206 Team Pack Scooby-doo
+## 71206 — LEGO DIMENSIONS TEAM PACK SCOOBY - DOO! 71206
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 229.99 zł · EAN: 05051892187718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71206 |
+| Nazwa angielska | Scooby-Doo Team Pack |
+| Nazwa polska | LEGO DIMENSIONS TEAM PACK SCOOBY - DOO! 71206 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 81 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187718 |
 
 WITAM
 
@@ -124,11 +179,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71206-1: https://a.allegroimg.com/original/11f3a3/0a85dcf6404fa1454fe61c97f33f
+
 ---
 
-## 71207 — Lego Dimensions Ninjago Team Pack 71207
+## 71207 — LEGO Ninjago Dimensions 71207
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 385.85 zł · EAN: 05051892187725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71207 |
+| Nazwa angielska | Ninjago Team Pack |
+| Nazwa polska | LEGO Ninjago Dimensions 71207 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 98 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187725 |
 
 ZAPRASZAMY NA ZAKUPY.
 
@@ -164,11 +234,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 
 **!!! INFORMUJEMY !!! . KUPUJĄCY DOKONUJĄC EWENTUALNEGO ZWROTU PRZEDMIOTU POZA SPEŁNIENIEM WARUNKÓW ZOBOWIĄZANY JEST DO ODESŁANIA PRODUKTU W CIĄGU 14 DNI ROBOCZYCH OD MOMENTU ZGŁOSZENIA. PO UPŁYWIE TEGO TERMINU ZWROTY NIE BĘDĄ AKCEPTOWANE. DOKONUJĄC ZAKUPU WYRAŻASZ ZGODĘ NA TEN WARUNEK !!!!**
 
+**Galeria:**
+
+- 71207-1: https://a.allegroimg.com/original/118330/aaa085f446a485c16045109644b0
+
 ---
 
-## 71209 — Lego 71209 Dimensions Wonder Woman Fun Pack
+## 71209 — DC
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 159.00 zł · EAN: 05051892187480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71209 |
+| Nazwa angielska | Wonder Woman Fun Pack |
+| Nazwa polska | DC |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 41 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187480 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -187,11 +272,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71209-1: https://a.allegroimg.com/original/03fd8f/6b345650445d89d73297589e4d5b
+
 ---
 
-## 71211 — Lego Dimensions 71211 Bart Fun Pack
+## 71211 — Bart
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 159.00 zł · EAN: 05051892187602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71211 |
+| Nazwa angielska | Bart Fun Pack |
+| Nazwa polska | Bart |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187602 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -210,11 +310,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71211-1: https://a.allegroimg.com/original/03d518/955e34864081adb26cfb36603f6c
+
 ---
 
-## 71212 — Lego Dimensions 71212 Fun Pack The Movie Emmet
+## 71212 — lego movie
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 99.99 zł · EAN: 05051892187459 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71212 |
+| Nazwa angielska | Emmet Fun Pack |
+| Nazwa polska | lego movie |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187459 |
 
 WITAM
 
@@ -239,11 +354,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71212-1: https://a.allegroimg.com/original/11a233/322feb254f27b52c7dcc9dda2d20
+
 ---
 
-## 71213 — Lego Dimensions 71213 Fun Pack The Movie Bad Cop
+## 71213 — 71213
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 79.99 zł · EAN: 05051892187473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71213 |
+| Nazwa angielska | Bad Cop Fun Pack |
+| Nazwa polska | 71213 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 62 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187473 |
 
 WITAM
 
@@ -268,11 +398,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71213-1: https://a.allegroimg.com/original/11d7d5/b7cdae4646c69c4ba45c47a23785
+
 ---
 
-## 71214 — Lego Dimensions 71214 Fun Pack The Movie Benny
+## 71214 — LEGO DIMENSIONS FUN PACK THE MOVIE BENNY 71214
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 139.99 zł · EAN: 05051892187466 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71214 |
+| Nazwa angielska | Benny Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK THE MOVIE BENNY 71214 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187466 |
 
 WITAM
 
@@ -297,11 +442,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71214-1: https://a.allegroimg.com/original/11076b/30102d5a40ad8a1e284433b4fbf7
+
 ---
 
-## 71215 — Zestaw Lego Dimensions Fun Pack Ninjago Jay 71215
+## 71215 — LEGO DIMENSIONS 71215 JAY NINJAGO FUN PACK 100%
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 309.00 zł · EAN: 05051892187541 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71215 |
+| Nazwa angielska | Jay Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS 71215 JAY NINJAGO FUN PACK 100% |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 48 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187541 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -320,11 +480,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71215-1: https://a.allegroimg.com/original/1128ad/e6a665be4345a2bb2e524060dbf8
+
 ---
 
-## 71216 — Lego Dimensions 71216 Nya Fun Pack
+## 71216 — NYA FUN PACK
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 169.00 zł · EAN: 05051892187534 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71216 |
+| Nazwa angielska | Nya Fun Pack |
+| Nazwa polska | NYA FUN PACK |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187534 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -343,11 +518,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71216-1: https://a.allegroimg.com/original/03a153/c2b5bb80437c9128e21c18452b59
+
 ---
 
-## 71217 — Lego Dimensions 71217 Fun Pack Zane Lego Ninjago
+## 71217 — ninjago
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 179.99 zł · EAN: 05051892187527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71217 |
+| Nazwa angielska | Zane Fun Pack |
+| Nazwa polska | ninjago |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187527 |
 
 WITAM
 
@@ -372,11 +562,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71217-1: https://a.allegroimg.com/original/112466/fc8fb6f54996a06a2446e897e598
+
 ---
 
-## 71219 — Lego Dimensions 71219 Legolas Fun Pack
+## 71219 — Legolas Fun Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 299.00 zł · EAN: 00883929463985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71219 |
+| Nazwa angielska | Legolas Fun Pack |
+| Nazwa polska | Legolas Fun Pack |
+| Seria | Dimensions |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187558, 883929463985 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -395,11 +600,27 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71219-1: https://a.allegroimg.com/original/111488/a25182744fe0ac175f57b914ebbc
+- 71219-2: https://a.allegroimg.com/original/1183aa/c0e3ced44a2eb01d4334bf214c28
+
 ---
 
-## 71221 — Lego Dimensions 71221 The Wizard Of Oz Fun Pack
+## 71221 — LEGO DIMENSIONS 71221 THE WIZARD OF OZ FUN PACK
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 399.00 zł · EAN: 05051892187640 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71221 |
+| Nazwa angielska | Wicked Witch Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS 71221 THE WIZARD OF OZ FUN PACK |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 38 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187640 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -418,11 +639,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71221-1: https://a.allegroimg.com/original/1110cc/d800844544c5a67c31f5d3d08448
+
 ---
 
-## 71222 — Lego Dimensions Fun Pack Lego Chima Laval 71222
+## 71222 — LEGO DIMENSIONS FUN PACK LEGO CHIMA LAVAL 71222
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 149.00 zł · EAN: 05051892187503 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71222 |
+| Nazwa angielska | Laval Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK LEGO CHIMA LAVAL 71222 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187503 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -441,11 +677,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71222-1: https://a.allegroimg.com/original/00af46/23891ec24505bba831264b4e93a1
+
 ---
 
-## 71223 — Lego Dimensions 71223 Cragger Fun Pack
+## 71223 — Cragger Fun Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 299.00 zł · EAN: 00883929464036 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71223 |
+| Nazwa angielska | Cragger Fun Pack |
+| Nazwa polska | Cragger Fun Pack |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 45 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 883929464036 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -464,11 +715,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71223-1: https://a.allegroimg.com/original/00c1e3/7eb5faa549f8af6742888681ea7e
+
 ---
 
-## 71228 — Lego Dimensions 71228 Ghostbusters Level Pack
+## 71228 — LEGO DIMENSIONS LEVEL PACK GHOSTBUSTERS 71228
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 229.99 zł · EAN: 05051892188791 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71228 |
+| Nazwa angielska | Ghostbusters Level Pack |
+| Nazwa polska | LEGO DIMENSIONS LEVEL PACK GHOSTBUSTERS 71228 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 115 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188791 |
 
 WITAM
 
@@ -493,11 +759,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71228-1: https://a.allegroimg.com/original/11ff3f/b41105674d389ff771cfe6bfad9a
+
 ---
 
-## 71229 — Lego Dimensions 71229 Team Pack DC Comics Harley Joker
+## 71229 — LEGO DIMENSIONS TEAM PACK DC COMICS HARLEY 71229
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 159.99 zł · EAN: 05051892188777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71229 |
+| Nazwa angielska | DC Comics Team Pack |
+| Nazwa polska | LEGO DIMENSIONS TEAM PACK DC COMICS HARLEY 71229 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 92 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188777 |
 
 WITAM
 
@@ -522,11 +803,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71229-1: https://a.allegroimg.com/original/113d68/546195cb41919397114d6e9a8c8c
+
 ---
 
-## 71231 — 4You Lego Dimensions 18605c01pb27 Unikitty Wide
+## 71231 — Unikitty Fun Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 29.99 zł · EAN: 05051892187589 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71231 |
+| Nazwa angielska | Unikitty Fun Pack |
+| Nazwa polska | Unikitty Fun Pack |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187589 |
 
 **LEGO ****Part 18603c27pb01 Dimensions Toy Tag 4 x 4 x 2/3 with 2 Studs for Unikitty #27 with Pastel Rainbow and Clouds Pattern**
 
@@ -542,11 +838,26 @@ WSZYSTKIE KLOCKI I FIGURKI NA MOICH AUKCJACH SĄ:
 
 **Kupujesz samą podstawkę z chipem 1 sztukę, która działa w połączeniu z grą Lego Dimensions.**
 
+**Galeria:**
+
+- 71231-1: https://a.allegroimg.com/original/11d097/e673b6f94798be69704eec3715dd
+
 ---
 
-## 71232 — Lego Dimensions Chima Eris Fun Pack 71232
+## 71232 — LEGO DIMENSIONS FUN PACK LEGO CHIMA ERIS 71232
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 139.00 zł · EAN: 05051892187756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71232 |
+| Nazwa angielska | Eris Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK LEGO CHIMA ERIS 71232 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 59 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187756, 883929463961 |
 
 ZAPRASZAMY NA ZAKUPY.
 
@@ -576,11 +887,27 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY** , **POSIADA PEŁNĄ 
 
 **ZAPRASZAMY NA ZAKUPY.**
 
+**Galeria:**
+
+- 71232-1: https://a.allegroimg.com/original/11d7b9/3a01ab5a4c789742cd2bab8b9b4f
+- 71232-2: https://a.allegroimg.com/original/11bb96/00b3592e4818a9c1d7ae74d31544
+
 ---
 
-## 71233 — Lego Dimensions 71233 Fun Pack Stay Puft Terror Dog Ghostbusters
+## 71233 — 71233 - Ghostbusters Fun Pack
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 269.99 zł · EAN: 05051892188814 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71233 |
+| Nazwa angielska | Stay Puft Fun Pack |
+| Nazwa polska | 71233 - Ghostbusters Fun Pack |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892188814 |
 
 WITAM
 
@@ -605,11 +932,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71233-1: https://a.allegroimg.com/original/11030a/c2d416664367988107477c23698b
+
 ---
 
-## 71240 — Bane Lego Dimensions Fun Pack 71240 Sklep
+## 71240 — LEGO DIMENSIONS FUN PACK DC COMICS BANE 71240
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 179.85 zł · EAN: 00883929469598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71240 |
+| Nazwa angielska | Bane Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK DC COMICS BANE 71240 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 52 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 883929469598 |
 
 ZAPRASZAMY NA ZAKUPY.
 
@@ -639,11 +981,26 @@ KUPUJĄC U NAS MASZ PEWNOŚĆ ŻE TOWAR JEST  **NOWY**
 
 **!!! INFORMUJEMY !!! . KUPUJĄCY DOKONUJĄC EWENTUALNEGO ZWROTU PRZEDMIOTU POZA SPEŁNIENIEM WARUNKÓW ZOBOWIĄZANY JEST DO ODESŁANIA PRODUKTU W CIĄGU 14 DNI ROBOCZYCH OD MOMENTU ZGŁOSZENIA. PO UPŁYWIE TEGO TERMINU ZWROTY NIE BĘDĄ AKCEPTOWANE. DOKONUJĄC ZAKUPU WYRAŻASZ ZGODĘ NA TEN WARUNEK !!!!**
 
+**Galeria:**
+
+- 71240-1: https://a.allegroimg.com/original/112e45/c7ec3bb44216a2a59757f57b6d3a
+
 ---
 
-## 71245 — Lego Dimensions 71245 Level Pack Adventure Time Finn Jakemobile Elephant
+## 71245 — Adventure Time
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 479.99 zł · EAN: 05051892197281 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71245 |
+| Nazwa angielska | Adventure Time Level Pack |
+| Nazwa polska | Adventure Time |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 102 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892197281 |
 
 WITAM
 
@@ -668,11 +1025,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71245-1: https://a.allegroimg.com/original/117da9/448115ca4961a4d0cd1f9e62a513
+
 ---
 
-## 71247 — Lego Dimensions 71247 Harry Potter
+## 71247 — HARRY POTTER
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 279.00 zł · EAN: 05051892197342 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71247 |
+| Nazwa angielska | Harry Potter Team Pack |
+| Nazwa polska | HARRY POTTER |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 119 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892197342 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -691,11 +1063,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71247-1: https://a.allegroimg.com/original/00b7b4/7a6974c7460781c823fe9cc3ad8d
+
 ---
 
-## 71251 — Lego Dimensions 71251 Fun Pack The A-team B.a.baracus Van
+## 71251 — 71251
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 279.99 zł · EAN: 05051892197298 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71251 |
+| Nazwa angielska | A-Team Fun Pack |
+| Nazwa polska | 71251 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 73 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892197298 |
 
 WITAM
 
@@ -720,11 +1107,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71251-1: https://a.allegroimg.com/original/11bc65/b3a4689744ba96d55bca145d8686
+
 ---
 
-## 71253 — Lego Dimensions 71253 Story Pack Fantastic Beasts
+## 71253 — Fantastic Beasts
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 109.99 zł · EAN: 05051892196864 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71253 |
+| Nazwa angielska | Fantastic Beasts and Where to Find Them Story Pack |
+| Nazwa polska | Fantastic Beasts |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 261 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892196864 |
 
 WITAM
 
@@ -749,11 +1151,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71253-1: https://a.allegroimg.com/original/11922d/665cfcea4603b92c03906b06ef40
+
 ---
 
-## 71264 — Lego Dimensions 71264 Story Pack Batman The Batman
+## 71264 — LEGO DIMENSIONS 71264 BATMAN STORY PACK NOWY
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 209.99 zł · EAN: 00883929551347 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71264 |
+| Nazwa angielska | The LEGO Batman Movie: Play The Complete Movie Story Pack |
+| Nazwa polska | LEGO DIMENSIONS 71264 BATMAN STORY PACK NOWY |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 156 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 883929551347 |
 
 WITAM
 
@@ -778,11 +1195,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71264-1: https://a.allegroimg.com/original/112b87/44a5a4a74884a3fac63892bf2f4f
+
 ---
 
-## 71266 — Lego Dimensions 71237 Fun Pack Aquaman DC Comics
+## 71266 — LEGO DIMENSIONS FUN PACK DC COMICS AQUAMAN 71237
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 229.99 zł · EAN: 05051892201049 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71266 |
+| Nazwa angielska | Chase McCain Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK DC COMICS AQUAMAN 71237 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 46 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892201049 |
 
 WITAM
 
@@ -807,11 +1239,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71266-1: https://a.allegroimg.com/original/113e6a/020bcdce47daa52ba4c609bb02ef
+
 ---
 
-## 71267 — Lego Dimensions 71267 Level Pack The Goonies
+## 71267 — THE GOONIES
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 339.99 zł · EAN: 05051892201261 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71267 |
+| Nazwa angielska | Goonies Level Pack |
+| Nazwa polska | THE GOONIES |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 118 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892201261 |
 
 THE GOONIES LEVEL PACK
  
@@ -829,11 +1276,26 @@ STAN : **NOWY FABRYCZNE OPAKOWANIE**
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71267-1: https://a.allegroimg.com/original/11a5f3/3c3646f240d4a7e5b20338c2aae0
+
 ---
 
-## 71287 — Nowy Lego Dimensions 71287 Teen Titans Go! Starfire gwiazdka Misb 2017
+## 71287 — 71287
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 212.99 zł · EAN: 05051892197311 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71287 |
+| Nazwa angielska | Teen Titans Go! Fun Pack |
+| Nazwa polska | 71287 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892197311 |
 
 Cześć!
 
@@ -851,11 +1313,26 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 71287-1: https://a.allegroimg.com/original/11706c/b2d259404d62842817a62b84f8a7
+
 ---
 
-## 71344 — Lego Dimensions 71344 Fun Pack Excalibur Batman The Lego Batman Move
+## 71344 — LEGO DIMENSIONS FUN PACK BATMAN EXCALIBUR 71344
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 109.99 zł · EAN: 05051892201117 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71344 |
+| Nazwa angielska | Excalibur Batman Fun Pack |
+| Nazwa polska | LEGO DIMENSIONS FUN PACK BATMAN EXCALIBUR 71344 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892201117 |
 
 WITAM
 
@@ -880,11 +1357,26 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
+**Galeria:**
+
+- 71344-1: https://a.allegroimg.com/original/118622/399e483040ee9cdefc8d0660b953
+
 ---
 
-## 71346 — Lego Dimensions Team Pack Powerpuff Girls 71346
+## 71346 — LEGO DIMENSIONS TEAM PACK POWERPUFF GIRLS 71346
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 226.00 zł · EAN: 05051892202602 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71346 |
+| Nazwa angielska | The Powerpuff Girls Team Pack |
+| Nazwa polska | LEGO DIMENSIONS TEAM PACK POWERPUFF GIRLS 71346 |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892202602 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -903,11 +1395,26 @@ Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat ni
 - **✅ Zachwyca jakością wykonania i dbałością o detale**
 - **✅ Wspaniała rozrywka solo lub z bliskimi**
 
+**Galeria:**
+
+- 71346-1: https://a.allegroimg.com/original/11caa5/eddb9b5b47999f3ba94ff07e8cf6
+
 ---
 
-## 71348 — Lego Dimensions 71348 Fun Pack Harry Potter Hermiona
+## 71348 — HARRY POTTER
 
-*Kategoria: Pozostałe serie > Dimensions · cena Allegro (2026-08-17): 129.99 zł · EAN: 05051892201186 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71348 |
+| Nazwa angielska | Hermione Granger Fun Pack |
+| Nazwa polska | HARRY POTTER |
+| Seria | Pozostałe serie > Dimensions |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2017 |
+| Liczba elementów | 64 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892201186 |
 
 WITAM
 
@@ -931,6 +1438,10 @@ ODWIEDŹ NASZE POZOSTAŁE AUKCJE
 ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
+
+**Galeria:**
+
+- 71348-1: https://a.allegroimg.com/original/111029/af5b022a473c9d95c4db9e2be009
 
 ---
 

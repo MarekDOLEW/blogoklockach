@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Harry Potter — opisy produktowe (133 pozycji)
+# LEGO Harry Potter — opisy produktowe (131 pozycji)
 
-## 30111 — nowy Lego Harry Potter 30111 laboratorium Misb 2011
+## 30111 — Zestaw
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 98.99 zł · EAN: 05702014847026 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30111 |
+| Nazwa angielska | The Lab |
+| Nazwa polska | Zestaw |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 34 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014847026 |
 
 Cześć!
 
@@ -27,21 +38,53 @@ W przypadku zakupów z więcej niż jednej oferty koszt wysyłki pozostaje ten s
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 30111-1: https://a.allegroimg.com/original/11698d/4c84e6674f518c6e03b512a22dda
+
 ---
 
-## 30392 — Lego Harry Potter 30392 Biurko Hermiony
+## 30392 — brak informacji
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 29.00 zł · EAN: 05702016916348 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30392 |
+| Nazwa angielska | Hermione's Study Desk |
+| Nazwa polska | brak informacji |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016916348 |
 
 **LEGO Harry Potter 30392 Biurko Hermiony**
 
 Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymyślania. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu. Zestaw 30392 Biurko Hermiony jest idealny, aby rozpocząć swoją przygodę z LEGO Harry Potter i odgrywać losy głównych bohaterów.
 
+**Galeria:**
+
+- 30392-1: https://a.allegroimg.com/original/11142d/a0662a3c4a05a429b3e9e87c9ae2
+
 ---
 
-## 30407 — Lego Harry Potter Podróż Do Hogwartu 30407 Polybag
+## 30407 — Harry Potter
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 69.75 zł · EAN: 05702016122725 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30407 |
+| Nazwa angielska | Harry's Journey to Hogwarts |
+| Nazwa polska | Harry Potter |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 40 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122725 |
 
 ORYGINALNY ZESTAW LEGO
 
@@ -55,11 +98,27 @@ Rok wydania:** 2018**
 
 Dodatkowe informacje:** Zestaw w oryginalnym opakowaniu ( polybagu)**
 
+**Galeria:**
+
+- 30407-1: https://a.allegroimg.com/original/117437/89095af249a38acbc6a843e46cf3
+
 ---
 
-## 30420 — Lego Harry Potter 30420 Harry i Hedwiga
+## 30420 — Harry i Hedwiga
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 34.00 zł · EAN: 05702016668087 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30420 |
+| Nazwa angielska | Harry Potter and Hedwig: Owl Delivery |
+| Nazwa polska | Harry i Hedwiga |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668087 |
 
 **Lego Harry Potter - Harry Potter i Sowa Hedwiga 30420**. Numer katalogowy tego zestawu to 30420. Zawiera 31 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Harry Potter - Harry Potter and Hedwig Owl Delivery. Grupa wiekowa tego produktu to 6+. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu.
 
@@ -77,11 +136,27 @@ Nr katalogowy: 30420
  
 Ilość klocków w zestawie: 53
 
+**Galeria:**
+
+- 30420-1: https://a.allegroimg.com/original/1199f9/a5b1c97e464b801e29078c6b51d4
+
 ---
 
-## 30628 — Lego Harry Potter 30628 Potworna księga potworów
+## 30628 — Lego Harry Potter Potworna księga potworów 30628
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 267.78 zł · EAN: 05702016819939 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30628 |
+| Nazwa angielska | The Monster Book of Monsters |
+| Nazwa polska | Lego Harry Potter Potworna księga potworów 30628 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 320 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016819939 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -115,11 +190,27 @@ Ten świetny kolekcjonerski zestaw LEGO® Harry Potter Księga Potworów (30628)
 
 Zestaw LEGO Harry Potter - Potworna księga potworów trafił do sprzedaży w 2020 roku. Numer katalogowy tego zestawu to 30628. Zawiera 320 klocków LEGO. W modelu znajdziesz też 1 minifigurki. Nazwa zestawu w języku angielskim LEGO Harry Potter - The Monster Book of Monsters. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 30628-1: https://a.allegroimg.com/original/11a5fa/d065d23e4e6495b9e00cd72c3efd
+
 ---
 
-## 30651 — Lego Harry Potter 30651 Trening quidditcha
+## 30651 — Trening quidditcha
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 9.99 zł · EAN: 05702017422008 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30651 |
+| Nazwa angielska | Quidditch Practice |
+| Nazwa polska | Trening quidditcha |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 55 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017422008 |
 
 Klocki Harry Potter 30651 Trening quidditcha
 
@@ -127,11 +218,27 @@ Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymy�
  
 **Nr katalogowy: **30651               || **Seria: **Harry Potter || **Marka: **Harry Potter || **Wymagania wiekowe: **od 6 lat || **Płeć: **Chłopcy || **Płeć: **Dziewczynki || **Materiał: **Tworzywo sztuczne || **Liczba elementów: ****Rozmiar zestawu: **Mały || **Akcesoria w zestawie: ****Pozostałe parametry: **
 
+**Galeria:**
+
+- 30651-1: https://a.allegroimg.com/original/116383/a5fb7c5c44359b37e151e1072f1d
+
 ---
 
-## 30706 — Lego(r) Harry Potter 30706 Lekcja Quidditcha Dla Dzieci +6
+## 30706 — Lekcja quidditcha
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 12.45 zł · EAN: 05702017820217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30706 |
+| Nazwa angielska | Quidditch Lesson |
+| Nazwa polska | Lekcja quidditcha |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 27 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017820217 |
 
 Lego
 
@@ -142,11 +249,26 @@ LEGO(R) HARRY POTTER 30706 Lekcja quidditcha
 
 Dzięki temu zestawowi przeżyjesz na nowo scenę z filmu Harry Potter i Kamień Filozoficzny, w której Harry Potter poznaje zasady quidditcha i potrzebne do gry wyposażenie.
 
+**Galeria:**
+
+- 30706-1: https://a.allegroimg.com/original/05e7df/7e07f1ca4840bcd2fe4f20462115
+
 ---
 
-## 30724 — Lego Harry Potter Gabinet Dumbledore’a z Harrym Potterem 30724
+## 30724 — Gabinet Dumbledore’a z Harrym Potterem
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 13.28 zł · EAN: 05702018058220 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30724 |
+| Nazwa angielska | Dumbledore's Office with Harry Potter |
+| Nazwa polska | Gabinet Dumbledore’a z Harrym Potterem |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 42 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018058220 |
 
 LEGO Harry Potter - Gabinet Dumbledore’a z Harrym Potterem 30724
 
@@ -171,11 +293,27 @@ Ten niewielki zestaw pozwala odtworzyć kultowe sceny z sagi o Harrym Potterze i
 - **inspiracja do odgrywania filmowych scen i tworzenia własnych historii**
 - drobny prezent dla fanów Harry’ego Pottera - odpowiedni dla dzieci od 6. roku życia
 
+**Galeria:**
+
+- 30724-1: https://a.allegroimg.com/original/11f52c/2867907d4dc391c4212242f6e7ed
+
 ---
 
-## 40289 — Lego Harry Potter 40289 nowy zestaw Julivo
+## 40289 — Harry Potter Ulica Pokątna
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 510.00 zł · EAN: 05702016122947 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40289 |
+| Nazwa angielska | Diagon Alley |
+| Nazwa polska | Harry Potter Ulica Pokątna |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016122947 |
 
 Oferowany zestaw jest nowy. Stan kartonu jest widoczny na zdjęciach.
 
@@ -224,11 +362,27 @@ Kupując w JULIVO, masz pewność:
 
 Sklep JULIVO stale poszerza asortyment, aby oferować ciekawe i aktualne produkty dopasowane do potrzeb klientów. Zapraszamy do zapoznania się z ofertą i życzymy udanych zakupów.
 
+**Galeria:**
+
+- 40289-1: https://a.allegroimg.com/original/11e177/525df9994b399a69e56f5bcb87df
+
 ---
 
-## 40419 — Lego 40419 Harry Potter Uczniowie Hogwartu- zestaw
+## 40419 — Minifigurki
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 84.90 zł · EAN: 00673419326179 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40419 |
+| Nazwa angielska | Hogwarts Students |
+| Nazwa polska | Minifigurki |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 53 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419326179 |
 
 LEGO 40419 Harry Potter Uczniowie Hogwartu- zestaw
 
@@ -243,11 +397,27 @@ Spraw, aby zabawa postaciami z Harry'ego Pottera™ była jeszcze bardziej magic
 
 W zestawie są 4 minifigurki uczniów Hogwartu ubrane w szaty domowe z akcesoriami, które zwiększają możliwości gry w zestawie LEGO Harry Potter. Zestaw zawiera także półkę na książki do zbudowania. Ten wszechstronny zestaw z 53 elementami nadaje się dla każdego, kto ukończył 6 lat. na urodziny lub pod choinkę:)
 
+**Galeria:**
+
+- 40419-1: https://a.allegroimg.com/original/112560/dc5902864982b56329632a142f0e
+
 ---
 
-## 40452 — Lego Harry Potter 40452 Dormitoria Gryffindoru w Hogwarcie
+## 40452 — Dormitoria Gryffindoru w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 295.00 zł · EAN: 05702016988437 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40452 |
+| Nazwa angielska | Hogwarts Gryffindor Dorms |
+| Nazwa polska | Dormitoria Gryffindoru w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 148 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016988437 |
 
 LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 
@@ -282,11 +452,27 @@ LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 - **Grupa wiekowa:** 8+
 - **Status:** Wycofany
 
+**Galeria:**
+
+- 40452-1: https://a.allegroimg.com/original/119479/8f114a504fbc84bb90bc3d00d088
+
 ---
 
-## 40500 — Lego Harry Potter 40500 Akcesoria do minifigurek ze świata czarodziejów
+## 40500 — Akcesoria do minifigurek ze świata czarodziejów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 124.49 zł · EAN: 00673419345804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40500 |
+| Nazwa angielska | Wizarding World Minifigure Accessory Set |
+| Nazwa polska | Akcesoria do minifigurek ze świata czarodziejów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419345804 |
 
 **ZESTAW KLOCKÓW LEGO**
  
@@ -308,11 +494,27 @@ LEGO Harry Potter 40452 – Dormitoria Gryffindoru w Hogwarcie
 - **Zestawy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić .** 
 - **Elementy LEGO® spełniają surowe światowe standardy bezpieczeństwa.**
 
+**Galeria:**
+
+- 40500-1: https://a.allegroimg.com/original/11ba0f/67b1080c4355bde25f91e8724b69
+
 ---
 
-## 40577 — Lego Harry Potter 40577 Hogwarts: Wielkie schody
+## 40577 — Hogwarts: Wielkie schody
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 349.00 zł · EAN: 05702017241968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40577 |
+| Nazwa angielska | Hogwarts: Grand Staircase |
+| Nazwa polska | Hogwarts: Wielkie schody |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 224 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 24 cm × gł. 7 cm |
+| EAN | 5702017241968 |
 
 LEGO 40770 Harry Potter - Zamek Hogwart™: Pokój Życzeń
  
@@ -340,11 +542,27 @@ Model można zbudować tak, aby** pasował do serii modułowych zestawów z Zamk
  
 - Wymiary — Pokój Życzeń LEGO® Harry Potter™ w tym 202-elementowym zestawie **ma 8 cm wysokości, 24 cm szerokości i 7 cm głębokości**
 
+**Galeria:**
+
+- 40577-1: https://a.allegroimg.com/original/118068/c637bc0d44eba9ae9083365101cb
+
 ---
 
-## 40598 — Lego 40598 Harry Potter Skrytka w Banku Gringotta *nowy
+## 40598 — Skrytka W Banku Gringotta
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 395.00 zł · EAN: 05702017471389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40598 |
+| Nazwa angielska | Gringotts Vault |
+| Nazwa polska | Skrytka W Banku Gringotta |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 212 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017471389 |
 
 **LEGO**
 
@@ -362,11 +580,27 @@ ilość figurek:** 1**
 
 - **ZESTAW** **NOWY, ORYGINALNIE ZAPLOMBOWANY , NIEOTWIERANY, PEŁNOWARTOŚCIOWY !**
 
+**Galeria:**
+
+- 40598-1: https://a.allegroimg.com/original/11dd35/49372e7e41948b6fe4ac5a3bcd33
+
 ---
 
-## 40695 — Lego 40695 Harry Potter Borgin & Burkes: sieć Fiuu
+## 40695 — Borgin & Burkes: sieć Fiuu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.45 zł · EAN: 05702017598703 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40695 |
+| Nazwa angielska | Borgin and Burkes: Floo Network |
+| Nazwa polska | Borgin & Burkes: sieć Fiuu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 190 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017598703 |
 
 LEGO 40695 Harry Potter Borgin & Burkes: sieć Fiuu
 
@@ -394,11 +628,27 @@ Dzięki zestawowi z serii LEGO® Harry Potter™ Ulica Pokątna™ (40695) o�
 - Więcej możliwości zabawy — model łączy się z zestawami Nora — edycja kolekcjonerska (76437) oraz innymi z serii LEGO Harry Potter Ulica Pokątna (sprzedawanymi osobno)
 - Prezent dodawany do zakupu dla fanów Harry'ego Pottera™ — ten fajny kolekcjonerski zestaw konstrukcyjny będzie magicznym prezentem urodzinowym lub świątecznym dla dziewczynek, chłopców i fanów świata magii w wieku od ośmiu lat
 
+**Galeria:**
+
+- 40695-1: https://a.allegroimg.com/original/112e01/73a08ecd491693924dddd69abc26
+
 ---
 
-## 40770 — Lego 40770 Harry Potter Zamek Hogwart Pokój Życzeń
+## 40770 — Harry Potter - Zamek Hogwart: Pokój Życzeń
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017829807 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40770 |
+| Nazwa angielska | Hogwarts Castle: Room of Requirement |
+| Nazwa polska | Harry Potter - Zamek Hogwart: Pokój Życzeń |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 202 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 24 cm × gł. 7 cm |
+| EAN | 5702017829807 |
 
 **LEGO® 40770 Harry Potter - Zamek Hogwart™: Pokój Życzeń**
  
@@ -419,11 +669,27 @@ Odtwórz Pokój Życzeń jako bezpieczną przestrzeń Neville’a Longbottoma w 
 - Część serii LEGO® Harry Potter™ — zestaw jest częścią kolekcji modułowych zestawów z zamkiem Hogwart (sprzedawanych osobno), które tworzą najbardziej szczegółową dioramę zamku Hogwart zbudowaną z klocków LEGO 
 - Wymiary — Pokój Życzeń LEGO® Harry Potter™ w tym 202-elementowym zestawie ma 8 cm wysokości, 24 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 40770-1: https://a.allegroimg.com/original/11a553/3f24b7684a5eb457338bb152975a
+
 ---
 
-## 4708 — Lego Harry Potter 4708 Pociąg do Hogwartu
+## 4708 — Pociąg do Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702012016660 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4708 |
+| Nazwa angielska | Hogwarts Express |
+| Nazwa polska | Pociąg do Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2001 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 410 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702012016660 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -447,11 +713,27 @@ Odtwórz Pokój Życzeń jako bezpieczną przestrzeń Neville’a Longbottoma w 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4708-1: https://a.allegroimg.com/original/11bdd9/f8353d3942558ec1e39437dd3ffc
+
 ---
 
-## 4712 — Klocki Lego Harry Potter 4712 Troll na Wolności hp005 41983 Retro Hogwart
+## 4712 — LEGO Harry Potter Troll na wolności
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 475.90 zł · EAN: 05702014151604 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4712 |
+| Nazwa angielska | Troll on the Loose |
+| Nazwa polska | LEGO Harry Potter Troll na wolności |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 71 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014151604 |
 
 **LEGO Harry Potter 4712 Troll na Wolności hp005 41983 Retro 2002 Hogwart**
 
@@ -472,11 +754,27 @@ Ten **kolekcjonerski zestaw z 2002 roku** składa się z **76 elementów**, w ty
  
 Zbuduj swoją własną scenę z Hogwartu i przywróć magię pierwszych przygód Harry’ego Pottera!
 
+**Galeria:**
+
+- 4712-1: https://a.allegroimg.com/original/11f3bb/cbc3faac40d7a4ef1eaf17fdefff
+
 ---
 
-## 4728 — Lego Harry Potter 4728 Escape from Privet Drive
+## 4728 — Escape from Privet Drive
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 970.00 zł · EAN: 00673419345736 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4728 |
+| Nazwa angielska | Escape from Privet Drive |
+| Nazwa polska | Escape from Privet Drive |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2002 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 278 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014169135, 673419345736 |
 
 Podstawowe informacje
 
@@ -501,11 +799,28 @@ Zawartość i motyw
 - Dla tych, którzy szukają mniejszych, bardziej kompaktowych zestawów — przy 278 elementach jest to rozsądny rozmiar, nieprzytłaczający.
 - Dla osób poszukujących wartości inwestycyjnej — zestaw wycofany, ceny często rosnące przy egzemplarzach kompletnych lub zapakowanych.
 
+**Galeria:**
+
+- 4728-1: https://a.allegroimg.com/original/11192d/c683df274d2bb45c0ab543f6788a
+- 4728-2: https://a.allegroimg.com/original/11e215/c50dc10a427a90681b02f8484cef
+
 ---
 
-## 4762 — Zestaw Lego Harry Potter 4762 Rescue from the Merpeople Nowy Misb 2005
+## 4762 — Rescue from the Merpeople
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 750.00 zł · EAN: 00673419057332 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4762 |
+| Nazwa angielska | Rescue from the Merpeople |
+| Nazwa polska | Rescue from the Merpeople |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 175 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419057332 |
 
 Przedmiotem oferty jest nowy, oryginalnie zapakowany zestaw LEGO.
 
@@ -526,11 +841,27 @@ Jako kolekcjoner/sprzedawca wiem, jak ważny jest stan opakowania. Gwarantuję p
 - **Autentyczność zdjęć:** Wszystkie zamieszczone w ofercie fotografie są autentyczne i przedstawiają dokładnie ten produkt, który jest przedmiotem sprzedaży,
 - **Weryfikacja i akceptacja stanu przedmiotu:** Zdjęcia stanowią nieodłączną część opisu, dokumentując faktyczny wygląd przedmiotu oraz wszelkie ewentualne niedoskonałości. Przed zakupem należy dokładnie przeanalizować udostępnione fotografie – zawarcie transakcji jest równoznaczne ze świadomą akceptacją ukazanego na nich stanu wizualnego.
 
+**Galeria:**
+
+- 4762-1: https://a.allegroimg.com/original/11ca55/f18c1aa348749eb5d9525aeae060
+
 ---
 
-## 4768 — Lego Harry Potter 4768 Statek Durmstrangu
+## 4768 — The Durmstrang Ship
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1380.00 zł · EAN: 05702014426412 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4768 |
+| Nazwa angielska | The Durmstrang Ship |
+| Nazwa polska | The Durmstrang Ship |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2005 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 566 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014426412 |
 
 LEGO Harry Potter 4768 Statek Durmstrangu
 
@@ -559,11 +890,27 @@ Postacie te są kluczowe dla fabuły Turnieju Trójmagicznego i stanowią dużą
 
 LEGO 4768 Statek Durmstrangu to **wycofany z produkcji, klasyczny zestaw**, szczególnie ceniony przez fanów serii Harry Potter oraz kolekcjonerów starszych zestawów LEGO z lat 2000–2006.
 
+**Galeria:**
+
+- 4768-1: https://a.allegroimg.com/original/11b3f0/eb07d39944a6963487695d097e83
+
 ---
 
-## 4840 — Lego Harry Potter 4840 The Burrow
+## 4840 — The Burrow
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702014715783 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4840 |
+| Nazwa angielska | The Burrow |
+| Nazwa polska | The Burrow |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 568 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014715783 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -587,11 +934,27 @@ LEGO 4768 Statek Durmstrangu to **wycofany z produkcji, klasyczny zestaw**, szcz
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 4840-1: https://a.allegroimg.com/original/115a33/f38e68e24e868ffff8e926890f47
+
 ---
 
-## 4842 — Lego Harry Potter 4842 Zamek w Hogwarcie
+## 4842 — Zamek w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1990.00 zł · EAN: 05702014715806 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4842 |
+| Nazwa angielska | Hogwarts Castle |
+| Nazwa polska | Zamek w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2010 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1290 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014715806 |
 
 LEGO Harry Potter 4842 Zamek w Hogwarcie
 
@@ -625,11 +988,27 @@ Dekoracje stołów w Wielkiej Sali – jedzenie, tort, inne detale kulinarno-św
 - **Wymiary opakowania:** ok. 58,2 × 37,8 × 8,7 cm
 - **Waga (z pudełkiem):** ok. 2,13 kg
 
+**Galeria:**
+
+- 4842-1: https://a.allegroimg.com/original/116785/51eae3a2492c8ba9c3e0aa42dd87
+
 ---
 
-## 4866 — Lego Harry Potter 4866 The Knight Bus
+## 4866 — The Knight Bus
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 445.00 zł · EAN: 05702014758162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4866 |
+| Nazwa angielska | The Knight Bus |
+| Nazwa polska | The Knight Bus |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 281 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014758162 |
 
 **LEGO Harry Potter Autobus 4866** Błędny Rycerz to zestaw, który pozwoli Twojemu dziecku przeżywać przygody nastoletniego czarodzieja na nowo! Magiczny autobus można przebudowywać według uznania co dostarczy jeszcze więkeszej radości z zabawy a także pozwoli rozwijać kreatywność. W opakowaniu znajdziesz 3 minifigurki. Zestaw przeznaczony jest dla dzieci i młodzieży powyżej 7 roku życia.
  
@@ -639,11 +1018,27 @@ Dekoracje stołów w Wielkiej Sali – jedzenie, tort, inne detale kulinarno-św
 - Ilość elementów: 257 
 - Wiek 7+
 
+**Galeria:**
+
+- 4866-1: https://a.allegroimg.com/original/11175b/3e4c4f0e467c8490906170129361
+
 ---
 
-## 4867 — Lego 4867 Harry Potter Bitwa o Hogwart Zamek Hermiona Lord Voldemort
+## 4867 — Hogwart
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 999.50 zł · EAN: 05702014756762 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4867 |
+| Nazwa angielska | Hogwarts |
+| Nazwa polska | Hogwart |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2011 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 466 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014756762 |
 
 Nowy duży zestaw
 
@@ -681,11 +1076,26 @@ Nie przegap okazji, by dodać **LEGO 4867 Hogwarts **do swojej kolekcji! To obow
 
 PONIŻEJ RZECZYWISTE ZDJĘCIA SPRZEDAWANEGO ZESTAWU
 
+**Galeria:**
+
+- 4867-1: https://a.allegroimg.com/original/11cf2a/3bd663ff4010ac8758f30741381c
+
 ---
 
-## 5009008 — Lego Harry Potter 5009008 Kolekcjonerski zegar Weasleyów Vip Unikat
+## 5009008 — Kolekcjonerski zegar Weasleyów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 258.77 zł · EAN: 05060373577658 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009008 |
+| Nazwa angielska | Collectible Weasley Clock |
+| Nazwa polska | Kolekcjonerski zegar Weasleyów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 3 lata + |
+| Rok wydania | 2024 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 5 cm × gł. 4 cm |
+| EAN | 5060373577658 |
 
 Dodaj do swojej kolekcji unikalną ozdobę inspirowaną magicznym światem Harry’ego Pottera! **LEGO® Harry Potter™ Kolekcjonerski Zegar Weasleyów (5009008)** to doskonały wybór dla każdego fana serii. Ten zestaw wiernie odwzorowuje słynny zegar Weasleyów z ich domu w Norze, znany z cyklu książek i filmów o Harrym Potterze.
  
@@ -705,11 +1115,26 @@ Dodaj do swojej kolekcji unikalną ozdobę inspirowaną magicznym światem Harry
  
 **** Zamów już dziś i dodaj tę wyjątkową ozdobę do swojej kolekcji!
 
+**Galeria:**
+
+- 5009008-1: https://a.allegroimg.com/original/11095a/889421f64436b411b575b3e66b17
+
 ---
 
-## 5009867 — Lego Harry Potter 5009867 Hogsmeade Ozdoba
+## 5009867 — Hogsmeade - ozdoba
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 139.00 zł · EAN: 05060093910650 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009867 |
+| Nazwa angielska | Hogsmeade Sign |
+| Nazwa polska | Hogsmeade - ozdoba |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 7 cm × gł. 3 cm |
+| EAN | 5060093910650 |
 
 **Oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -729,11 +1154,26 @@ Dodaj odrobinę magii do swoich wnętrz dzięki ozdobie LEGO® Harry Potter™ H
 - Magiczne detale — panorama Hogsmeade™ w stylu LEGO® i zawieszone na łuku szyldy Miodowego Królestwa, pubu Pod Trzema Miotłami i gospody Pod Świńskim Łbem oraz podstawa z wygrawerowanym logo LEGO Harry Potter™
 - Prezent dla fanów Harry’ego Pottera™ — ozdoba ma 7 cm wysokości, 7 cm szerokości i 3 cm głębokości. Ta mała dekoracja będzie fajnym prezentem dla fanów Harry’ego Pottera w wieku od czterech lat
 
+**Galeria:**
+
+- 5009867-1: https://a.allegroimg.com/original/117bc0/6f421f3f4e66b6bf3c52ba399645
+
 ---
 
-## 53257 — Lego Harry Potter Zestaw Upominkowy Pocztówki 53257
+## 53257 — ZESTAW UPOMINKOWY POCZTÓWKI
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 69.99 zł · EAN: 04895028532574 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53257 |
+| Nazwa angielska | — |
+| Nazwa polska | ZESTAW UPOMINKOWY POCZTÓWKI |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 10 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532574 |
 
 ⭐LEGO Harry Potter Zestaw Upominkowy Pocztówki 53257 ⭐
 
@@ -786,11 +1226,26 @@ Eleganckie pudełko z magnetycznym zamknięciem świetnie nadaje się na prezent
 - świetny pomysł na prezent,
 - idealny do szkoły, zabawy i kolekcjonowania.
 
+**Galeria:**
+
+- 53257-1: https://a.allegroimg.com/original/1133ea/67b3cc844b2bb7ea8d7ff59492c8
+
 ---
 
-## 53258 — Lego Harry Potter 53258 Zestaw Upominkowy Pamiętnik naklejki długopis
+## 53258 — ZESTAW UPOMINKOWY PAMIĘTNIK
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532581 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53258 |
+| Nazwa angielska | — |
+| Nazwa polska | ZESTAW UPOMINKOWY PAMIĘTNIK |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 7 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532581 |
 
 ✨ LEGO® Harry Potter™ – Zestaw Upominkowy z Pamiętnikiem
 
@@ -836,11 +1291,26 @@ Pamiętnik inspirowany światem Harry’ego Pottera pozwala przechowywać sekret
 
 📚 Idealny pomysł na prezent dla dzieci, fanów LEGO® oraz miłośników przygód ze świata Harry’ego Pottera. Świetnie sprawdzi się do szkoły, zabawy i kolekcjonowania.
 
+**Galeria:**
+
+- 53258-1: https://a.allegroimg.com/original/112e59/43d8e9f745459934d16598bdad32
+
 ---
 
-## 53259 — Lego Harry Potter 53259 Zestaw Upominkowy Z Lampką Czołową długopis miotła
+## 53259 — ZESTAW UPOMINKOWY Z LAMPKĄ CZOŁOWĄ
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 73.00 zł · EAN: 04895028532598 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 53259 |
+| Nazwa angielska | — |
+| Nazwa polska | ZESTAW UPOMINKOWY Z LAMPKĄ CZOŁOWĄ |
+| Seria | Harry Potter |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | — |
+| Liczba elementów | 6 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 4895028532598 |
 
 ✨ LEGO® Harry Potter™ – Zestaw Upominkowy z Lampką Czołową
 
@@ -892,11 +1362,26 @@ Ruchoma lampka z motywem LEGO® Harry Potter™ została wykonana w powiększeni
 
 ✨ Szeroka gama LEGO® Harry Potter™ pozwala przenieść się do świata magii, pełnego ulubionych bohaterów, niezwykłych miejsc i zaczarowanych przygód.
 
+**Galeria:**
+
+- 53259-1: https://a.allegroimg.com/original/112a9b/6dcaa55645d7ba34b71c6f953939
+
 ---
 
-## 71043 — Lego Harry Potter Zamek Hogwart 71043
+## 71043 — Zamek Hogwart
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1639.00 zł · EAN: 05702016110319 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71043 |
+| Nazwa angielska | Hogwarts Castle |
+| Nazwa polska | Zamek Hogwart |
+| Seria | Harry Potter |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 6020 |
+| Cena katalogowa | 2049.99 zł |
+| Wymiary złożonego | wys. 58 cm × szer. 69 cm × gł. 43 cm |
+| EAN | 5702016110319 |
 
 LEGO® Harry Potter 71043 Zamek Hogwart
 
@@ -927,11 +1412,27 @@ Ten niezwykle szczegółowy zestaw kolekcjonerski z serii LEGO Harry Potter skł
 - Akcesoria w kształcie mikrofigurek: dwie figury szachowe i posąg Architekta Hogwartu™. 
 - Zamek Hogwart™ ma ok. 58 cm wysokości, 69 cm szerokości i 43 cm głębokości.
 
+**Galeria:**
+
+- 71043-1: https://a.allegroimg.com/original/294efe/39a25af44305a01dba26de1a81e7
+
 ---
 
-## 75945 — Lego Harry Potter 75945 Expecto Patronum
+## 75945 — Expecto Patronum
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.99 zł · EAN: 05702016368468 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75945 |
+| Nazwa angielska | Expecto Patronum |
+| Nazwa polska | Expecto Patronum |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 8 cm × gł. 4 cm |
+| EAN | 5702016368468 |
 
 Młodzi czarodzieje i czarownice mogą pomóc Harry’emu Potterowi obronić Syriusza Blacka przed Dementorami!
  
@@ -944,11 +1445,27 @@ Z zestawem LEGO Harry Potter 75945 Expecto Patronum dla dzieci w wieku od 7 lat 
 - Większe drzewo ma ok. 13 cm wysokości, 8 cm szerokości i 4 cm głębokości. 
 - Figurka jelenia ma 7 cm wysokości.
 
+**Galeria:**
+
+- 75945-1: https://a.allegroimg.com/original/052148/6d54c7064fdb80df2bcd204b48b4
+
 ---
 
-## 75946 — Lego 75946 Harry Potter Rogogon węgierski na Turnieju Trójmagicznym
+## 75946 — Rogogon węgierski
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 333.00 zł · EAN: 05702016368673 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75946 |
+| Nazwa angielska | Hungarian Horntail Triwizard Challenge |
+| Nazwa polska | Rogogon węgierski |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 265 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016368673 |
 
 Oryginalne, nieotwierane opakowanie, z nienaruszonymi plombami
 
@@ -962,11 +1479,27 @@ Numer magazynowy sprzedawcy: 20260295
 
 Przybliżone wymiary opakowania:** 5,9 x 35,4 x 19,1 cm**
 
+**Galeria:**
+
+- 75946-1: https://a.allegroimg.com/original/11a438/c11aff3b452b86a3e45fae07d3ec
+
 ---
 
-## 75948 — Lego Harry Potter 75948 Wieża zegarowa na Hogwarcie
+## 75948 — Wieża zegarowa na Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016368697 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75948 |
+| Nazwa angielska | Hogwarts Clock Tower |
+| Nazwa polska | Wieża zegarowa na Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 922 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 35 cm × szer. 34 cm × gł. 18 cm |
+| EAN | 5702016368697 |
 
 Magiczne przygody w kultowych miejscach w wieży zegarowej na Hogwarcie!
  
@@ -987,11 +1520,27 @@ Przenieś miłośników Harry’ego Pottera do magicznego świata czarodziei z z
 - Na Balu Bożonarodzeniowym znajdują się dwa lodowe stoły z dwoma kieliszkami, złożona z klocków lodowa rzeźba oraz choinka świąteczna. 
 - Wieża zegarowa na Hogwarcie™ ma ok. 35 cm wysokości, 34 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 75948-1: https://a.allegroimg.com/original/05ee65/5b5c5ea54991a294cec69e190903
+
 ---
 
-## 75950 — Lego Harry Potter 75950 Legowisko Aragoga
+## 75950 — Legowisko Aragoga
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 129.00 zł · EAN: 05702016110333 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75950 |
+| Nazwa angielska | Aragog's Lair |
+| Nazwa polska | Legowisko Aragoga |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 157 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110333 |
 
 LEGO 75950 Legowisko Aragoga
 
@@ -1007,11 +1556,27 @@ LEGO 75950 Legowisko Aragoga
 - **Rok prezentacji:** 2018
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 75950-1: https://a.allegroimg.com/original/05a81b/06cb677848dbb4184d34df44aa82
+
 ---
 
-## 75951 — Klocki Lego Harry Potter Ucieczka Grindelwalda
+## 75951 — Lego Ucieczka Grindelwalda
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.00 zł · EAN: 05702016110340 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75951 |
+| Nazwa angielska | Grindelwald's Escape |
+| Nazwa polska | Lego Ucieczka Grindelwalda |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 132 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 7 cm |
+| EAN | 5702016110340 |
 
 **Nowy, nieotwierany zestaw lego.**
 
@@ -1030,11 +1595,27 @@ Z tym zestawem LEGO Harry Potter możesz odegrać prawdziwą Ucieczkę Grinewala
 - akcesoria: dwie różdżki 
 - powóz z testralem ma ok. 8 cm wysokości, 25 cm długości i 7 cm szerokości
 
+**Galeria:**
+
+- 75951-1: https://a.allegroimg.com/original/002274/baebe7584368adc8bd6a3944c175
+
 ---
 
-## 75952 — Lego Fantastic Beasts 75952 Walizka Newta z magicznymi stworzeni Nowe
+## 75952 — 75952
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 538.00 zł · EAN: 05702016110357 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75952 |
+| Nazwa angielska | Newt's Case of Magical Creatures |
+| Nazwa polska | 75952 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 694 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016110357 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -1044,11 +1625,27 @@ Polecamy fabrycznie nowe, oryginalnie zapakowane klocki LEGO.
 
 Szukasz w swoim życiu odrobiny magii? Czasem żeby ją znaleźć, wystarczy zajrzeć do walizki... szczególnie, jeśli jest to Walizka Newta z zestawu Lego 75952. Zejdź po schodach ukrytych na dnie torby i odkryj niesamowite magiczne stworzenia. Oprowadź po tym niezwykłym miejscu Jacoba, Tinę i Queenie i pokaż im, jak wiele tajemnic kryje się jeszcze w świecie magii - i jak wiele z nich zmieściło się w tej pozornie niewielkiej walizce...
 
+**Galeria:**
+
+- 75952-1: https://a.allegroimg.com/original/11bf9f/6b30457b420c8bfee961ae415a66
+
 ---
 
-## 75955 — Lego Harry Potter 75955 Ekspres do Hogwartu
+## 75955 — Ekspres do Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 465.00 zł · EAN: 05702016110388 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75955 |
+| Nazwa angielska | Hogwarts Express |
+| Nazwa polska | Ekspres do Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 801 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 31 cm × gł. 17 cm |
+| EAN | 5702016110388 |
 
 Przeżyj zaczarowaną podróż ekspresem do Hogwartu!
  
@@ -1067,11 +1664,27 @@ Wsiądź do kultowego pociągu na stacji King’s Cross w zestawie LEGO Harry Po
 - Peron ma ok. 13 cm wysokości, 31 cm szerokości i 17 cm głębokości. 
 - Ekspres do Hogwartu ma ok. 9 cm wysokości, 46 cm długości i 5 cm szerokości.
 
+**Galeria:**
+
+- 75955-1: https://a.allegroimg.com/original/113932/dec50ccc46cfbb69a29e082bb3b4
+
 ---
 
-## 75957 — Lego Harry Potter 75957 Błędny rycerz
+## 75957 — Harry Potter
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702016542714 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75957 |
+| Nazwa angielska | The Knight Bus |
+| Nazwa polska | Harry Potter |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 403 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 6 cm |
+| EAN | 5702016542714 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1100,11 +1713,27 @@ Wsiądź do kultowego pociągu na stacji King’s Cross w zestawie LEGO Harry Po
 - Łóżko w jadącym i zakręcającym autobusie ślizga się po podłodze, a żyrandol kołysze się pod sufitem. 
 - Błędny Rycerz ma ok. 16 cm wysokości, 16 cm długości i 6 cm szerokości.
 
+**Galeria:**
+
+- 75957-1: https://a.allegroimg.com/original/052526/2fc99a4549549fed01523f17e10c
+
 ---
 
-## 75958 — Lego 75958 @@@ Powóz Z Beauxbatons @@@ Harry Potter
+## 75958 — Powóz z Beauxbatons
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 255.55 zł · EAN: 05702016604122 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75958 |
+| Nazwa angielska | Beauxbatons' Carriage: Arrival at Hogwarts |
+| Nazwa polska | Powóz z Beauxbatons |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 430 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 21 cm |
+| EAN | 5702016604122 |
 
 Wskocz do powozu z Beauxbatons zaprzężonego w skrzydlatego konia, by przeżyć magiczne przygody w przestworzach i na ziemi!
  
@@ -1120,11 +1749,27 @@ Zestaw konstrukcyjny LEGO Harry Potter 75958 Powóz z Beauxbatons: Przyjazd do H
 - Zabawkowy powóz bez koni ma ok. 13 cm wysokości, 18 cm długości i 8 cm szerokości. 
 - Zabawkowy powóz przebudowany na dwupoziomowe mieszkanie ma ok. 20 cm wysokości.
 
+**Galeria:**
+
+- 75958-1: https://a.allegroimg.com/original/006963/fdd9baee44fd9d2f1a0772c42fb3
+
 ---
 
-## 75965 — Lego Harry Potter 75965 Powrót Voldemorta
+## 75965 — Powrót Voldemorta
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 249.00 zł · EAN: 05702016604139 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75965 |
+| Nazwa angielska | The Rise of Voldemort |
+| Nazwa polska | Powrót Voldemorta |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 184 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016604139 |
 
 - **Nazwa polska:** LEGO 75965 Powrót Voldemorta™
 - **Nazwa oryginalna:** LEGO 75965 The Rise of Voldemort™
@@ -1139,11 +1784,27 @@ Zestaw konstrukcyjny LEGO Harry Potter 75958 Powóz z Beauxbatons: Przyjazd do H
 - **Rok prezentacji:** 2019
 - **Opakowanie:** pudełko
 
+**Galeria:**
+
+- 75965-1: https://a.allegroimg.com/original/00b7c9/d2b7255f43679cf43972b04761db
+
 ---
 
-## 75966 — Lego Harry Potter 75966 Pokój życzeń w Hogwarcie
+## 75966 — Pokój Życzeń w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702016616668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75966 |
+| Nazwa angielska | Hogwarts Room of Requirement |
+| Nazwa polska | Pokój Życzeń w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616668 |
 
 Przesuń ścianę, by odsłonić ukryte wejście do Pokoju Życzeń i weź udział w tajnych zajęciach z obrony przed czarną magią razem z Harrym Potterem™, Hermioną Granger™ i Luną Lovegood™!
  
@@ -1157,11 +1818,27 @@ W zestawie jest zając dla Luny i wydra dla Hermiony. Minifigurki mogą „złap
 
 Zestawy LEGO Harry Potter pozwalają odtwarzać sceny akcji z filmów. Te magiczne zestawy z popularnymi postaciami, mitycznymi stworami i znajomymi lokacjami pozwalają ożywić świat czarodziejów!
 
+**Galeria:**
+
+- 75966-1: https://a.allegroimg.com/original/003387/e55d0d374823984495e68bf8e08d
+
 ---
 
-## 75967 — Lego 75967 @@@ Zakazany Las: spotkanie Umbridge @@@ Harry Potter
+## 75967 — Zakazany Las: spotkanie Umbridge
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 188.88 zł · EAN: 05702016616675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75967 |
+| Nazwa angielska | Forbidden Forest: Umbridge's Encounter |
+| Nazwa polska | Zakazany Las: spotkanie Umbridge |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 253 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016616675 |
 
 Czy uda Ci się nakłonić Dolores Umbridge™, by odwiedziła Zakazany Las z Harrym i Hermioną? W lesie rośnie magiczne drzewo, które otwiera się, ukazując ciekawą zawartość — latarnię, kość i nogę indyka. Gdy zbliżają się do niej dwa centaury, Umbridge blokuje je potężnym zaklęciem.
  
@@ -1175,11 +1852,27 @@ W zestawie dzieci znajdą ruchomą figurkę olbrzyma Grawpa i dwie figurki centa
  
 Wybierz najlepszą zabawkę dla fanów Harry'ego Pottera Szukasz wyjątkowego prezentu na urodziny lub pod choinkę? Zabawki LEGO Harry Potter to świetna propozycja — dzięki minifigurkom i fajnym funkcjom dzieci mogą odtwarzać filmowe scenki z ulubionymi bohaterami i wymyślać własne opowieści ze świata czarodziejów.
 
+**Galeria:**
+
+- 75967-1: https://a.allegroimg.com/original/0504d0/c5f150da471291c861ab63df60d0
+
 ---
 
-## 75968 — Klocki Lego Harry Potter Zestaw Privet Drive 4 75968
+## 75968 — Privet Drive 4
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 325.00 zł · EAN: 05702016616682 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75968 |
+| Nazwa angielska | 4 Privet Drive |
+| Nazwa polska | Privet Drive 4 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 797 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 16 cm × gł. 12 cm |
+| EAN | 5702016616682 |
 
 **LEGO 75968 Zestaw Harry Potter Privet Drive 4**
  
@@ -1211,11 +1904,27 @@ Zestawy LEGO Harry Potter z kolekcjonerskimi minifigurkami i niezwykłymi funkcj
 - Zestawy LEGO spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki mają jednolity wygląd, pasują do siebie i można jeza każdym razem połączyć i rozdzielić bez użycia czarów — i tak jest niezmiennie od 1958 roku! 
 - Możesz mieć pewność, że wszystkie klocki i elementy LEGO będą całkowicie bezpieczne dla Twojego dziecka. Są one zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75968-1: https://a.allegroimg.com/original/056373/2450b33b4aae8b3da154d574ecbe
+
 ---
 
-## 75969 — Klocki Lego Harry Potter 75969 Wieża Astronomiczna W Hogwarcie
+## 75969 — Wieża Astronomiczna w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.00 zł · EAN: 05702016616699 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75969 |
+| Nazwa angielska | Hogwarts Astronomy Tower |
+| Nazwa polska | Wieża Astronomiczna w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 971 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 29 cm × gł. 17 cm |
+| EAN | 5702016616699 |
 
 KLOCKI LEGO HARRY POTTER 75969 WIEŻA ASTRONOMICZNA W HOGWARCIE
 
@@ -1247,11 +1956,27 @@ i obejrzeć magiczną mandragorę. Następną atrakcją będzie zbadanie sypialn
 
 i wdrapanie się na najwyższą wieżę, by wziąć udział w lekcji astronomii.
 
+**Galeria:**
+
+- 75969-1: https://a.allegroimg.com/original/11b29b/41b8e9aa497a874bb55f0c988973
+
 ---
 
-## 75978 — Lego Harry Potter 75978 Ulica Pokątna
+## 75978 — Ulica Pokątna
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2367.99 zł · EAN: 05702016668094 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75978 |
+| Nazwa angielska | Diagon Alley |
+| Nazwa polska | Ulica Pokątna |
+| Seria | Harry Potter |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5544 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 102 cm × gł. 13 cm |
+| EAN | 5702016668094 |
 
 LEGO Harry Potter 75978
  
@@ -1277,11 +2002,27 @@ W zestawach LEGO Harry Potter na fanów popularnego cyklu filmów czekają lubia
  
 Wszystkie zabawki konstrukcyjne LEGO spełniają najwyższe standardy branżowe, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — bez pomocy czarów!
 
+**Galeria:**
+
+- 75978-1: https://a.allegroimg.com/original/116f0f/9979d63243aaabac2a375d050235
+
 ---
 
-## 75979 — Lego Harry Potter 75979 Hedwiga
+## 75979 — Hedwiga
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702016685510 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75979 |
+| Nazwa angielska | Hedwig |
+| Nazwa polska | Hedwiga |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 630 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016685510 |
 
 Hedwiga™ to niezwykła i pełna wdzięku sowa o magicznej osobowości, którą fani Harry’ego Pottera™ znają z filmów. Złożony z 630 elementów model ma rozpiętość skrzydeł ok. 34 cm i przedstawia Hedwigę w locie — w chwili dostarczania Harry’emu zaproszenia do Hogwartu™. Z tyłu modelu znajduje się dźwignia, która pozwala sowie z gracją zamachać skrzydłami. Budowanie tej zabawki może być wyzwaniem, ale da dzieciom mnóstwo satysfakcji.
  
@@ -1304,11 +2045,27 @@ Zestaw pozwala zbudować Hedwigę™ — niezwykłą i pełną wdzięku sowę ś
 - Zabawki do budowania LEGO® spełniają najwyższe globalne standardy branżowe, dzięki czemu pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — bez użycia magicznej różdżki.
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy zestaw spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 75979-1: https://a.allegroimg.com/original/119967/d6198b9c492980fc1ab20679cd0c
+
 ---
 
-## 75980 — Lego 75980 Harry Potter Atak na Norę
+## 75980 — Atak na Norę
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016685527 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 75980 |
+| Nazwa angielska | Attack on The Burrow |
+| Nazwa polska | Atak na Norę |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1047 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 22 cm × gł. 18 cm |
+| EAN | 5702016685527 |
 
 Wybierz się z wizytą do zwariowanego domu Weasleyów z Harrym i Ronem. Od ogródka aż po dach, jest on wypełniony detalami, które dzieci będą z przyjemnością odkrywać. Tylko ostrożnie! Źli śmierciożercy, Bellatrix Lestrange i Fenrir Greyback, chcą podpalić dom, aby zmusić Harry'ego do wyjścia na zewnątrz i go schwytać. Czy Harry'emu uda się uciec? To Ty zadecydujesz.
  
@@ -1339,11 +2096,27 @@ Zestawy z serii LEGO Harry Potter odtwarzają emocjonujące sceny z popularnych 
 - Zestawy LEGO® spełniają najwyższe standardy branżowe, dzięki czemu wszystkie klocki mają jednolity wygląd, pasują do siebie i można je za każdym razem połączyć i rozdzielić bez użycia czarów — i tak jest niezmiennie od 1958 roku! 
 - Klocki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe światowe standardy bezpieczeństwa i mali czarodzieje, czarownice oraz mugole mogą się nimi bawić bez żadnego ryzyka.
 
+**Galeria:**
+
+- 75980-1: https://a.allegroimg.com/original/11b888/65763eeb4d56993a9cb9d09ccf48
+
 ---
 
-## 76382 — Lego Harry Potter 76382 Magiczne chwile z Hogwartu: Godzina transmutacji
+## 76382 — Magiczne chwile z Hogwartu: Godzina transmutacji
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 174.67 zł · EAN: 05702016913576 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76382 |
+| Nazwa angielska | Hogwarts Moment: Transfiguration Class |
+| Nazwa polska | Magiczne chwile z Hogwartu: Godzina transmutacji |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 241 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 4 cm |
+| EAN | 5702016913576 |
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z transfiguracji (76382) to gotowy zestaw ukryty w książce zbudowanej z klocków — otwórz okładkę, a znajdziesz się na lekcji transfiguracji u profesor McGonagall.
  
@@ -1368,11 +2141,27 @@ Szukasz czarodziejskiego prezentu? W serii LEGO Harry Potter znajdziesz atrakcyj
 - Elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76382-1: https://a.allegroimg.com/original/253245/c85b194143c986b45344cc575af5
+
 ---
 
-## 76383 — Lego 76383 Harry Potter Chwile z Hogwartu: zajęcia z eliksirów
+## 76383 — Chwile z Hogwartu: zajęcia z eliksirów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 164.37 zł · EAN: 05702016912944 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76383 |
+| Nazwa angielska | Hogwarts Moment: Potions Class |
+| Nazwa polska | Chwile z Hogwartu: zajęcia z eliksirów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 271 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 4 cm |
+| EAN | 5702016912944 |
 
 Klocki LEGO Harry Potter 76383 - Chwile z Hogwartu: zajęcia z eliksirów
 
@@ -1410,11 +2199,27 @@ Zestaw LEGO Harry Potter - Chwile z Hogwartu: zajęcia z eliksirów trafił do
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76383-1: https://a.allegroimg.com/original/11085d/7e9cdbf34b33bb2e21e3c1bf7c85
+
 ---
 
-## 76384 — Lego Harry Potter 76384 Chwile z Hogwartu: zajęcia z zielarstwa
+## 76384 — Chwile z Hogwartu: zajęcia z zielarstwa
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 334.90 zł · EAN: 05702016912951 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76384 |
+| Nazwa angielska | Hogwarts Moment: Herbology Class |
+| Nazwa polska | Chwile z Hogwartu: zajęcia z zielarstwa |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 233 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 8 cm × gł. 4 cm |
+| EAN | 5702016912951 |
 
 Zestaw nowy w oryginalnym opakowaniu.
 
@@ -1452,11 +2257,27 @@ Szukasz świetnego prezentu dla fana Harry'ego Pottera? W serii LEGO Harry Potte
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Zestawy LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76384-1: https://a.allegroimg.com/original/11d1eb/ee7ff4e74d08920c15ad8fbbb3ae
+
 ---
 
-## 76385 — Lego 76385 Harry Potter Zajęcia z zaklęć i uroków
+## 76385 — Zajęcia z zaklęć i uroków
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 163.60 zł · EAN: 05702016913491 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76385 |
+| Nazwa angielska | Hogwarts Moment: Charms Class |
+| Nazwa polska | Zajęcia z zaklęć i uroków |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 256 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913491 |
 
 **Klocki LEGO Harry Potter 76385 - Chwile z Hogwartu: zajęcia z zaklęć i uroków**
  
@@ -1468,11 +2289,27 @@ Magiczne podarunki dla czarownic i czarodziejów W bogatej gamie zestawów LEGO 
  
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z zaklęć i uroków (76385) to książka z klocków, która kryje w sobie miejsce znane z filmów o Harrym Potterze — salę, gdzie profesor Flitwick prowadzi lekcję zaklęć i uroków.W zestawie minifigurki Harry'ego Pottera™, Cho Chang i profesora Flitwicka oraz półka na książki, kominek, księga zaklęć i wiele akcesoriów o realistycznym wyglądzie.Po otwarciu okładki dzieci zobaczą scenę z lekcji zaklęć i uroków u profesora Flitwicka. Mogą ćwiczyć magię z użyciem czarodziejskich przedmiotów lub wymyślać nowe zabawy, korzystając z licznych akcesoriów.Magiczny prezent dla małych czarownic i czarodziejów w wieku od 8 lat, którzy szukają nowych pomysłów na ekscytującą zabawę w uniwersum Harry’ego Pottera™.
 
+**Galeria:**
+
+- 76385-1: https://a.allegroimg.com/original/11b797/d5580d0547838d71ff49cc042e7e
+
 ---
 
-## 76386 — Lego Harry Potter Pomyłka z Eliksirem 76386
+## 76386 — LEGO Harry Potter Pomyłka z Eliksirem 76386
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 114.99 zł · EAN: 05702016913507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76386 |
+| Nazwa angielska | Hogwarts: Polyjuice Potion Mistake |
+| Nazwa polska | LEGO Harry Potter Pomyłka z Eliksirem 76386 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702016913507 |
 
 **LEGO Harry Potter Pomyłka z Eliksirem 76386**
 
@@ -1500,11 +2337,27 @@ Zestaw LEGO® Harry Potter™ Hogwart™: pomyłka z eliksirem wielosokowym (763
 
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76386-1: https://a.allegroimg.com/original/1165ff/c8575aba422896751a2743c45f84
+
 ---
 
-## 76387 — Lego 76387 Harry Potter Hogwart: spotkanie z Puszkiem
+## 76387 — Spotkanie z Puszkiem
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 368.99 zł · EAN: 05702016912968 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76387 |
+| Nazwa angielska | Hogwarts: Fluffy Encounter |
+| Nazwa polska | Spotkanie z Puszkiem |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 397 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 30 cm × szer. 19 cm × gł. 7 cm |
+| EAN | 5702016912968 |
 
 Klocki LEGO Harry Potter 76387 - Hogwart: spotkanie z Puszkiem
 
@@ -1546,11 +2399,27 @@ Zestaw LEGO Harry Potter - Hogwart: spotkanie z Puszkiem trafił do sprzedaży
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76387-1: https://a.allegroimg.com/original/05ce20/d50a197b4234be104ae8cd2dc0d9
+
 ---
 
-## 76388 — Lego Harry Potter 76388 Wizyta w Wiosce Hogsmeade
+## 76388 — Wizyta w wiosce Hogsmeade
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702016913675 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76388 |
+| Nazwa angielska | Hogsmeade Village Visit |
+| Nazwa polska | Wizyta w wiosce Hogsmeade |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 851 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 30 cm × gł. 9 cm |
+| EAN | 5702016913675 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -1575,11 +2444,27 @@ Zestaw zawiera także kolekcjonerskie dodatki: wyjątkową, złotą rocznicową 
 - Zestawy konstrukcyjne LEGO® spełniają wymagające branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76388-1: https://a.allegroimg.com/original/11aae7/bd77aada41b6b3bb61c7f8099f84
+
 ---
 
-## 76389 — Klocki Lego Harry Potter Zestaw Komnata Tajemnic w Hogwarcie 76389
+## 76389 — Komnata Tajemnic w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 833.99 zł · EAN: 05702016913583 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76389 |
+| Nazwa angielska | Hogwarts Chamber Of Secrets |
+| Nazwa polska | Komnata Tajemnic w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1176 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 40 cm × gł. 11 cm |
+| EAN | 5702016913583 |
 
 Lego Harry Potter Komnata tajemnic Hogwart 76389
  
@@ -1615,11 +2500,27 @@ Ten wszechstronny zestaw zawiera słynne pomieszczenia, czarujące funkcje i pos
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76389-1: https://a.allegroimg.com/original/25b2f8/431005984f47b13d543c635d842f
+
 ---
 
-## 76391 — Lego Harry Potter 76391 Ikony Hogwartu Edycja Kolekcjonerska
+## 76391 — Ikony Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702016913415 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76391 |
+| Nazwa angielska | Hogwarts Icons Collectors' Edition |
+| Nazwa polska | Ikony Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3010 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016913415 |
 
 LEGO HARRY POTTER 76391 Ikony Hogwartu — edycja kolekcjonerska 3010 pcs
 
@@ -1699,11 +2600,27 @@ Wysokość opakowania 480 mm
 
 Głębokość opakowania 124 mm
 
+**Galeria:**
+
+- 76391-1: https://a.allegroimg.com/original/11e604/4942d53c431893d42ae1ae9b7eee
+
 ---
 
-## 76392 — Lego 76392 Harry Potter Szachy czarodziejów w Hogwarcie
+## 76392 — Szachy czarodziejów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 748.90 zł · EAN: 05702016971620 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76392 |
+| Nazwa angielska | Hogwarts Wizard's Chess |
+| Nazwa polska | Szachy czarodziejów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 876 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 27 cm × gł. 27 cm |
+| EAN | 5702016971620 |
 
 Zestaw LEGO Harry Potter Szachy czarodziejów w Hogwarcie (76392) to połączenie dającej nieograniczoną frajdę gry planszowej i magicznej zabawy w odgrywanie ról, które zachwyci fanów popularnych filmów.
 
@@ -1721,11 +2638,27 @@ Ten fascynujący zestaw z szachami pozwala młodym adeptom magii bawić się na 
 - Zestawy konstrukcyjne LEGO spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76392-1: https://a.allegroimg.com/original/11fd53/91af24684c1980550e953131a8d0
+
 ---
 
-## 76393 — Lego Harry Potter 76393 Harry Potter i Hermiona
+## 76393 — Harry Potter i Hermiona
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.00 zł · EAN: 05702016971637 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76393 |
+| Nazwa angielska | Harry Potter & Hermione Granger |
+| Nazwa polska | Harry Potter i Hermiona |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1673 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016971637 |
 
 LEGO HARRY POTTER 7639
 
@@ -1749,11 +2682,27 @@ LEGO HARRY POTTER 7639
 
 - Harry ma zdejmowaną szatę z materiału, a ponadto obydwa modele mają zbudowane z klocków różdżki. **Figurki można ustawiać w różnych realistycznych pozycjach.**
 
+**Galeria:**
+
+- 76393-1: https://a.allegroimg.com/original/110f07/b26cb2444190a67340862f9b792d
+
 ---
 
-## 76394 — Lego 76394 Fawkes, feniks Dumbledore'a
+## 76394 — Fawkes, feniks Dumbledore'a
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 479.00 zł · EAN: 05702016971651 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76394 |
+| Nazwa angielska | Fawkes, Dumbledore's Phoenix |
+| Nazwa polska | Fawkes, feniks Dumbledore'a |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 597 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016971651 |
 
 **LEGO Harry Potter Fawkes feniks Dumbledore'a 76394**
  
@@ -1781,11 +2730,27 @@ Zestaw LEGO® Harry Potter™ Fawkes, feniks Dumbledore'a (76394) zawiera realis
 
 • Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76394-1: https://a.allegroimg.com/original/11b08d/f4d488ad4842ac6abec3da8da0e5
+
 ---
 
-## 76395 — Lego Harry Potter Pierwsza Lekcja Latania #76395
+## 76395 — Hogwart: Pierwsza lekcja latania
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 153.45 zł · EAN: 05702017006185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76395 |
+| Nazwa angielska | Hogwarts: First Flying Lesson |
+| Nazwa polska | Hogwart: Pierwsza lekcja latania |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 264 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 20 cm × gł. 6 cm |
+| EAN | 5702017006185 |
 
 LEGO HARRY POTTER PIERWSZA LEKCJA LATANIA
 
@@ -1823,11 +2788,27 @@ Funkcja lewitującej miotły pozwala dzieciom odegrać słynną scenę lekcji la
 - Zestawy konstrukcyjne LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku.
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 76395-1: https://a.allegroimg.com/original/11ee84/38169d7e440484bb1b09bbcf7adb
+
 ---
 
-## 76396 — Lego Harry Potter 76396 Chwile z Hogwartu: zajęcia z wróżbiarstwa
+## 76396 — Chwile z Hogwartu: zajęcia z wróżbiarstwa
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 179.42 zł · EAN: 05702017152646 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76396 |
+| Nazwa angielska | Hogwarts Moment: Divination Class |
+| Nazwa polska | Chwile z Hogwartu: zajęcia z wróżbiarstwa |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 297 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702017152646 |
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z wróżbiarstwa (76396) to zestaw do zabawy w zbudowanej z klocków książce dla ośmiolatków i starszych dzieci. Znajdziesz w nim popularne postacie i znajome elementy z zajęć z wróżbiarstwa profesor Trelawney.
 
@@ -1850,11 +2831,27 @@ Jeśli szukasz niezapomnianego, magicznego upominku, zestawy LEGO Harry Potter o
 - Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziei, czarownic i mugoli uwielbiane postacie, znane miejsca i magiczne przygody 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76396-1: https://a.allegroimg.com/original/05229a/3b3a83de434e98276d934099a673
+
 ---
 
-## 76397 — Lego Harry Potter 76397 Chwile z Hogwartu: obrona przed czarną magią
+## 76397 — Chwile z Hogwartu: zajęcia z obrony przed czarną magią
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 210.00 zł · EAN: 05702017153384 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76397 |
+| Nazwa angielska | Hogwarts Moment: Defence Against the Dark Arts Class |
+| Nazwa polska | Chwile z Hogwartu: zajęcia z obrony przed czarną magią |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 257 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm × gł. 4 cm |
+| EAN | 5702017153384 |
 
 LEGO® Harry Potter™ Chwile z Hogwartu™: zajęcia z obrony przed czarną magią (76397) to atrakcyjny zestaw w złożonej z klocków książce dla ośmiolatków i starszych dzieci. W środku znajdziesz uwielbiane postacie i realistyczne elementy popularnej sali lekcyjnej z Hogwartu.
  
@@ -1878,11 +2875,27 @@ Jeśli szukasz niezapomnianego, magicznego upominku, zestawy LEGO Harry Potter o
 - Więcej sposobów na zabawę — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziei, czarownic i mugoli uwielbiane postacie, znane miejsca i magiczne przygody 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76397-1: https://a.allegroimg.com/original/05bfc2/5bbf48d3438e9053b2f898f011dc
+
 ---
 
-## 76398 — Lego 76398 Harry Potter Zestaw Skrzydło szpitalne Hogwartu
+## 76398 — Skrzydło szpitalne Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 405.00 zł · EAN: 05702017153391 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76398 |
+| Nazwa angielska | Hogwarts Hospital Wing |
+| Nazwa polska | Skrzydło szpitalne Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 510 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153391 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -1892,11 +2905,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 76398-1: https://a.allegroimg.com/original/11afd8/d47e419c4dd9903edd4f1953605c
+
 ---
 
-## 76399 — 76399 Lego Harry Potter Magiczny kufer z Hogwartu
+## 76399 — Magiczny Kufer z Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 267.00 zł · EAN: 05702017153407 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76399 |
+| Nazwa angielska | Hogwarts Magical Trunk |
+| Nazwa polska | Magiczny Kufer z Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 603 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 17 cm × gł. 7 cm |
+| EAN | 5702017153407 |
 
 LEGO Harry Potter 76399 Magiczny Kufer z Hogwartu
 
@@ -1922,11 +2951,27 @@ Spersonalizowany, przenośny zestaw LEGO Harry Potter Magiczny kufer z Hogwartu 
 - Wiele sposobów na zabawę szeroka gama zestawów LEGO Harry Potter oddaje w ręce młodych czarodziei, czarownic i mugoli popularne postacie, znane miejsca i fascynujące przedmioty
 - Pewność i bezpieczeństwo elementy LEGO są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76399-1: https://a.allegroimg.com/original/111ce0/9cfc5eb94f00ae3e9483aabcb635
+
 ---
 
-## 76400 — Lego Harry Potter 76400 Testrale i kareta z Hogwartu
+## 76400 — Testrale i kareta z Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 138.77 zł · EAN: 05702017153414 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76400 |
+| Nazwa angielska | Hogwarts Carriage and Thestrals |
+| Nazwa polska | Testrale i kareta z Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 121 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 6 cm |
+| EAN | 5702017153414 |
 
 LEGO Harry Potter 76400 Testrale i kareta z Hogwartu
  
@@ -1954,11 +2999,27 @@ Zestaw **LEGO® Harry Potter™ Testrale i kareta z Hogwartu™ (76400)** to z
 
 • Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76400-1: https://a.allegroimg.com/original/0557b7/f10bda714748962917f5320fcf11
+
 ---
 
-## 76401 — Klocki Lego Harry Potter 76401 Na Ratunek Syriuszowi Dziedziniec Hogwartu
+## 76401 — Na ratunek Syriuszowi
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 448.49 zł · EAN: 05702017153421 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76401 |
+| Nazwa angielska | Hogwarts Courtyard: Sirius's Rescue |
+| Nazwa polska | Na ratunek Syriuszowi |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 345 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 31 cm × szer. 22 cm × gł. 10 cm |
+| EAN | 5702017153421 |
 
 LEGO Harry Potter 76401 Dziedziniec Hogwartu
  
@@ -1980,11 +3041,27 @@ Ten wielofunkcyjny zestaw powstał na podstawie słynnej sceny z filmu „Harry 
 - Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli uwielbiane postacie, znane miejsca i magiczne przygody 
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76401-1: https://a.allegroimg.com/original/11a67a/8ff2d40846288fb8a5df0f385adf
+
 ---
 
-## 76402 — Klocki Lego 76402 Harry Potter Zestaw Komnata Dumbledore'a w Hogwarcie
+## 76402 — Komnata Dumbledore’a w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 482.00 zł · EAN: 05702017153438 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76402 |
+| Nazwa angielska | Hogwarts: Dumbledore's Office |
+| Nazwa polska | Komnata Dumbledore’a w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 654 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 19 cm × gł. 9 cm |
+| EAN | 5702017153438 |
 
 LEGO Harry Potter 76402 Komnata Dumbledore’a w Hogwarcie
  
@@ -2004,11 +3081,26 @@ Kilkupiętrowy model z Hogwartem ma kilka miejsc z wiernie odwzorowanymi detalam
 - Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli uwielbiane postacie, znane miejsca i magiczne przygody
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76402-1: https://a.allegroimg.com/original/119011/56e4cad445f2ab4dffa719e79236
+
 ---
 
-## 76403 — Zestaw Lego Harry Potter – 76403 – Ministerstwo Magii
+## 76403 — Klocki LEGO Harry Potter 76403 Ministerstwo Magii
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 368.00 zł · EAN: 05702017153445 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76403 |
+| Nazwa angielska | The Ministry of Magic |
+| Nazwa polska | Klocki LEGO Harry Potter 76403 Ministerstwo Magii |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 990 |
+| Cena katalogowa | 479.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 21 cm |
+| EAN | 5702017153445 |
 
 ZESTAW LEGO HARRY POTTER – 76403 – MINISTERSTWO MAGII
 
@@ -2046,11 +3138,27 @@ To, co czyni ten zestaw naprawdę wyjątkowym, to bogactwo detali oraz minifigur
 
 Zestaw LEGO 76403 to propozycja, która łączy rozbudowaną konstrukcję, bogactwo autentycznych detali i fascynującą narrację, oferując niepowtarzalne doświadczenie każdemu miłośnikowi świata Harry’ego Pottera. Zestaw umożliwia nie tylko odtwarzanie znanych scen z filmu, ale też zachęca do tworzenia własnych historii, rozwijania wyobraźni i przeżywania magicznych przygód na własnych zasadach. Dzięki liczbie figurek, interaktywnym elementom i kompatybilności z innymi zestawami z serii, model ten ma ogromny potencjał kreatywny. To doskonały prezent urodzinowy lub niespodzianka bez okazji, która z pewnością zachwyci zarówno młodszych fanów magii, jak i dorosłych kolekcjonerów. Jeśli szukasz czegoś, co łączy pasję do Harry’ego Pottera z jakością i niezrównanym designem LEGO, Ministerstwo Magii będzie strzałem w dziesiątkę.
 
+**Galeria:**
+
+- 76403-1: https://a.allegroimg.com/original/050e3f/23f836754b9ca9e4e75064760a4b
+
 ---
 
-## 76405 — Lego Harry Potter 76405 Hogwart Express – edycja kolekcjonerska
+## 76405 — Harry Potter 76405 Hogwart Express – edycja kolekcjonerska
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702017152691 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76405 |
+| Nazwa angielska | Hogwarts Express - Collectors' Edition |
+| Nazwa polska | Harry Potter 76405 Hogwart Express – edycja kolekcjonerska |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 5129 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 20 cm |
+| EAN | 5702017152691 |
 
 LEGO 76405 EKSPRES DO HOGWARTU ED. KOLEKCJONERSKA
  
@@ -2082,11 +3190,27 @@ Realistyczne detale w środku i na zewnątrz
 - **Satysfakcjonujące wyzwanie** – ten zaawansowany projekt konstrukcyjny obejmuje cztery zestawy drukowanych instrukcji, dzięki czemu nawet cztery osoby mogą wspólnie budować model 
 - **Rozwijaj swoje pasje** – odkryj serię zestawów LEGO dla dorosłych, które gwarantują satysfakcję długo po zakończeniu budowania
 
+**Galeria:**
+
+- 76405-1: https://a.allegroimg.com/original/25ecab/d43762b94621b3c4e50748bcb888
+
 ---
 
-## 76406 — Zestaw Lego Harry Potter 76406 Smok Rogogon Węgierski
+## 76406 — Klocki LEGO Harry Potter 76406 Smok rogogon węgierski
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 318.00 zł · EAN: 05702017189970 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76406 |
+| Nazwa angielska | Hungarian Horntail Dragon |
+| Nazwa polska | Klocki LEGO Harry Potter 76406 Smok rogogon węgierski |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 671 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189970 |
 
 ZESTAW LEGO HARRY POTTER - 76406 - SMOK ROGOGON WĘGIERSKI
 
@@ -2124,11 +3248,27 @@ Największym wyróżnikiem tego zestawu jest mechanizm ruchomych skrzydeł, któ
 
 LEGO Harry Potter 76406 to zestaw, który łączy efektowny wygląd, ruchome elementy i magiczny klimat znany z filmów i książek. To doskonały wybór dla każdego fana świata czarodziejów – zarówno młodszego, jak i starszego. Model nie tylko zapewnia wiele godzin kreatywnej zabawy podczas budowania, ale także staje się wyjątkową ozdobą, którą można z dumą ustawić na półce. Możliwość łączenia go z innymi zestawami z tej serii dodatkowo zwiększa jego wartość i pozwala rozwijać kolekcję. Wysoka jakość wykonania oraz dbałość o detale gwarantują trwałość i satysfakcję z użytkowania. To świetny pomysł na prezent urodzinowy, świąteczny lub bez okazji – zestaw, który z pewnością wywoła uśmiech i zachwyt u każdego miłośnika magicznych przygód.
 
+**Galeria:**
+
+- 76406-1: https://a.allegroimg.com/original/119a21/75d07be84626ab4802985bded6dd
+
 ---
 
-## 76407 — Lego 76407 Harry Potter Wrzeszcząca Chata i wierzba bijąca
+## 76407 — Wrzeszcząca Chata i wierzba bijąca
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 529.99 zł · EAN: 05702017189987 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76407 |
+| Nazwa angielska | The Shrieking Shack & Whomping Willow |
+| Nazwa polska | Wrzeszcząca Chata i wierzba bijąca |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 777 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 14 cm × gł. 10 cm |
+| EAN | 5702017189987 |
 
 Klocki LEGO Harry Potter 76407 - Wrzeszcząca Chata i wierzba bijąca
 
@@ -2172,11 +3312,27 @@ Zestaw LEGO Harry Potter - Wrzeszcząca Chata i wierzba bijąca trafił do sprze
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76407-1: https://a.allegroimg.com/original/110c38/bcd38b47403399e0a3a034489751
+
 ---
 
-## 76408 — Lego Harry Potter 76408 Ulica Grimmauld Place 12 Unikat święta
+## 76408 — Ulica Grimmauld Place 12
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 949.98 zł · EAN: 05702017189994 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76408 |
+| Nazwa angielska | 12 Grimmauld Place |
+| Nazwa polska | Ulica Grimmauld Place 12 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1083 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 24 cm × gł. 12 cm |
+| EAN | 5702017189994 |
 
 LEGO Harry Potter 76408 Ulica Grimmauld Place 12 / NOWY / UNIKAT
 
@@ -2212,11 +3368,27 @@ Ten kilkupiętrowy model ma ok. 28 cm wysokości, więc mieści się w nim mnós
 - Gwarancja jakości — elementy LEGO® spełniają najwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Pewność i bezpieczeństwo — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu możesz mieć pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76408-1: https://a.allegroimg.com/original/114ddd/ac247b924fc3a2ac8c21a54d9d82
+
 ---
 
-## 76409 — Lego Harry Potter 76409 Flaga Gryffindoru zestaw
+## 76409 — Flaga Gryffindoru
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 243.77 zł · EAN: 05702017413136 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76409 |
+| Nazwa angielska | Gryffindor House Banner |
+| Nazwa polska | Flaga Gryffindoru |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702017413136 |
 
 LEGO Harry Potter 76409 Flaga Gryffindoru
  
@@ -2244,11 +3416,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Wysoka jakość – elementy LEGO® spełniają wymogi najwyższych standardów branżowych, dzięki czemu łatwo się łączą i dobrze trzymają 
 - Dzięki temu mamy pewność, że każdy z nich spełnia wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76409-1: https://a.allegroimg.com/original/2901eb/ffd82ec6450e9777c90feb04bf43
+
 ---
 
-## 76410 — Lego 76410 Harry Potter Flaga Slytherinu
+## 76410 — Flaga Slytherinu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 179.95 zł · EAN: 05702017413143 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76410 |
+| Nazwa angielska | Slytherin House Banner |
+| Nazwa polska | Flaga Slytherinu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 349 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017413143 |
 
 LEGO Harry Potter 76410 Flaga Slytherinu
  
@@ -2275,11 +3463,27 @@ Dzieci mogą cieszyć się intuicyjnym budowaniem dzięki aplikacji LEGO Builder
 - Cztery flagi domów Hogwartu™ do kolekcjonowania – dzieci mogą zbudować swoją kolekcję flag, wraz z flagą Gryffindoru™ 76409, Ravenclawu™ 76411 i Hufflepuffu™ 76412 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76410-1: https://a.allegroimg.com/original/05a817/b0b0d0ae401f9c6a7c743f503f37
+
 ---
 
-## 76411 — Lego Harry Potter 76411 Flaga Ravenclawu
+## 76411 — Flaga Ravenclawu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702017413150 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76411 |
+| Nazwa angielska | Ravenclaw House Banner |
+| Nazwa polska | Flaga Ravenclawu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 305 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702017413150 |
 
 LEGO Harry Potter 76411 Flaga Ravenclawu
  
@@ -2305,11 +3509,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Pomoc w budowaniu – odkryj intuicyjne instrukcje budowania dzięki aplikacji LEGO® Builder, w której można powiększać i obracać modele w 3D, śledzić postępy i zapisywać zestawy, jednocześnie rozwijając umiejętności dziecka 
 - Cztery flagi domów Hogwartu™ do kolekcjonowania – dzieci mogą zbudować swoją kolekcję flag, wraz z flagą Gryffindoru™ 76409, Slytherinu™ 76410 i Hufflepuffu™ 76412
 
+**Galeria:**
+
+- 76411-1: https://a.allegroimg.com/original/116c90/e4c2021f41a788fba90d3ca95f29
+
 ---
 
-## 76412 — Lego Harry Potter 76412 Flaga Hufflepuffu
+## 76412 — Flaga Hufflepuffu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 169.77 zł · EAN: 05702017413167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76412 |
+| Nazwa angielska | Hufflepuff House Banner |
+| Nazwa polska | Flaga Hufflepuffu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 13 cm × gł. 3 cm |
+| EAN | 5702017413167 |
 
 LEGO Harry Potter 76412 Flaga Hufflepuffu
  
@@ -2337,11 +3557,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Wysoka jakość – klocki LEGO® spełniają wysokie branżowe standardy jakości, dzięki czemu mocno się trzymają, a złożone z nich modele są solidne 
 - Bezpieczeństwo przede wszystkim – elementy LEGO® są testowane na niemal każdy możliwy sposób, aby nie było wątpliwości, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76412-1: https://a.allegroimg.com/original/290308/b3474b0f4df887e4549cdd7bc2f0
+
 ---
 
-## 76413 — Lego Harry Potter 76413 Pokój Życzeń Room of Requirement
+## 76413 — Pokój Życzeń
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 344.00 zł · EAN: 05702017413174 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76413 |
+| Nazwa angielska | Hogwarts: Room of Requirement |
+| Nazwa polska | Pokój Życzeń |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 587 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 17 cm × gł. 7 cm |
+| EAN | 5702017411019, 5702017413174 |
 
 **ORYGINALNE LEGO HARRY POTTER 76413 POKÓJ ŻYCZEŃ**
 
@@ -2375,11 +3611,28 @@ Pomóż Harry'emu Potterowi™ i Hermionie Granger™ znaleźć będący horkruk
 - Wysoka jakość – elementy LEGO® spełniająnajwyższe branżowe standardy jakości, dzięki czemu klocki zawsze do siebie pasują i można je za każdym razem z łatwością połączyć i rozdzielić
 - Bezpieczeństwo przede wszystkim — klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 76413-1: https://a.allegroimg.com/original/05256f/83ad53824661b2e3d4e10d9e8d73
+- 76413-2: https://a.allegroimg.com/original/054bd3/46bfa09343389618068fb31d3ffb
+
 ---
 
-## 76414 — Klocki Lego Harry Potter Zestaw Expecto Patronum 76414
+## 76414 — Expecto Patronum
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 435.24 zł · EAN: 05702017413181 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76414 |
+| Nazwa angielska | Expecto Patronum |
+| Nazwa polska | Expecto Patronum |
+| Seria | Harry Potter |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 754 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 11 cm |
+| EAN | 5702017413181 |
 
 Zestaw jest nowy, oryginalny, fabrycznie zamknięty.
 
@@ -2410,11 +3663,27 @@ Aplikacja LEGO Builder poprowadzi Ciebie i Twoje dziecko przez budowanie dzięki
 - Jakość premium — klocki LEGO® spełniają rygorystyczne branżowe standardy dotyczące jakości, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością łączyć i rozdzielać
 - Bezpieczeństwo przede wszystkim — elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i sprawdzane na wiele innych sposobów.
 
+**Galeria:**
+
+- 76414-1: https://a.allegroimg.com/original/1182b5/ba1038f442649682cb9b5082cfc0
+
 ---
 
-## 76415 — Lego 76415 Harry Potter Bitwa o Hogwart
+## 76415 — Bitwa o Hogwart
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 538.99 zł · EAN: 05702017413198 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76415 |
+| Nazwa angielska | The Battle of Hogwarts |
+| Nazwa polska | Bitwa o Hogwart |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 730 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 44 cm × gł. 11 cm |
+| EAN | 323429335, 5702017413198 |
 
 Klocki LEGO Harry Potter 76415 - Bitwa o Hogwart
 
@@ -2460,11 +3729,27 @@ Zestaw LEGO Harry Potter - Bitwa o Hogwart trafił do sprzedaży w 2023 roku. 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 76415-1: https://a.allegroimg.com/original/110c3d/da8fec414e898c28d088e5c86e8c
+- 76415-2: https://a.allegroimg.com/original/111697/b87ec713426da286233457644a23
+
 ---
 
-## 76416 — Lego Harry Potter 76416 Skrzynia Quidditcha turniej
+## 76416 — Skrzynia Quidditcha
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 454.96 zł · EAN: 05702017413204 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76416 |
+| Nazwa angielska | Quidditch Trunk |
+| Nazwa polska | Skrzynia Quidditcha |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 599 |
+| Cena katalogowa | 309.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 18 cm × gł. 11 cm |
+| EAN | 5702017413204 |
 
 LEGO Harry Potter 76416 Skrzynia Quidditcha
  
@@ -2491,11 +3776,27 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 - Więcej zaczarowanej zabawy — szeroka gama zestawów LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli™ uwielbiane postacie, znane miejsca i magiczne przygody 
 - Jakość bez kompromisów — klocki LEGO® spełniają wysokie branżowe standardy jakości, dzięki czemu mocno się trzymają, a złożone z nich modele są solidne
 
+**Galeria:**
+
+- 76416-1: https://a.allegroimg.com/original/29f139/50b4ba1645cba469de019262fabd
+
 ---
 
-## 76417 — Lego 76417 Harry Potter: Bank Gringotta edycja kolekcjonerska
+## 76417 — Bank Gringotta — edycja kolekcjonerska
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 2299.99 zł · EAN: 05702017413211 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76417 |
+| Nazwa angielska | Gringotts Wizarding Bank – Collectors' Edition |
+| Nazwa polska | Bank Gringotta — edycja kolekcjonerska |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 4803 |
+| Cena katalogowa | 1849.99 zł |
+| Wymiary złożonego | wys. 36 cm × szer. 32 cm × gł. 25 cm |
+| EAN | 5702017413211, 5905049413055 |
 
 LEGO Harry Potter 76417 
 
@@ -2527,55 +3828,27 @@ Ten zestaw LEGO Harry Potter to wyjątkowy prezent dla każdego dorosłego fana,
 - Ten zestaw można łączyć z innymi zestawami LEGO® Harry Potter™ (sprzedawanymi osobno) — model Czarodziejskiego Banku Gringotta™ łączy się z Ulicą Pokątną™ (75978), która jest sprzedawana oddzielnie 
 - Bezpieczeństwo przede wszystkim — testujemy elementy LEGO® na niemal każdy możliwy sposób, aby mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
----
+**Galeria:**
 
-## 76419 — Lego Harry Potter Zamek Hogwart i błonia 76419, 2660 elementów,
-
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 564.00 zł · EAN: 05702017413228 · in stock*
-
-Opis produktu
-
-LEGO Harry Potter Zamek Hogwart i błonia (76419) to wyjątkowy, szczegółowy zestaw kolekcjonerski stworzony z myślą o dorosłych wielbicielach serii Harry Potter oraz pasjonatach budowania z klocków LEGO. Zestaw pozwala zbudować spektakularny model fragmentu znanego na całym świecie zamku Hogwart wraz z otaczającymi go błoniami, inspirowany bestsellerową sagą J.K. Rowling.
-
-Główne cechy produktu
-
-- 2660 elementów – bogaty i detaliczny model do budowania
-- W zestawie znajdują się: Wieża Główna, Wieża Astronomiczna, dziedzińce, Wielka Sala, hangar na łodzie, szklarnie, mosty oraz malowniczy krajobraz otoczenia zamku
-- Elementy nawiązujące do filmów: Komnata Tajemnic, pokój ze skrzydlatym kluczem, sala eliksirów, pokój z szachami czarodziejów
-- Dodatkowe mini modele: statek Durmstrangu, powóz Beauxbatons z końmi oraz Ford Anglia na gałęziach Wierzby Bijącej
-- Specjalny dodatek – złota figurka architekta Hogwartu i tabliczka z napisem "Hogwarts Castle"
-- Gotowy model ma ponad 21 cm wysokości i 35 cm szerokości
-- Dedykowany dla dorosłych i młodzieży od 18 lat, idealny jako prezent dla miłośników magii oraz kolekcjonerów
-
-Zawartość opakowania
-
-W zestawie znajduje się 2660 klocków, które umożliwią zbudowanie szczegółowego modelu zamku oraz jego otoczenia. Przejrzysta instrukcja składania krok po kroku pozwala cieszyć się każdym etapem budowy.
-
-Parametry techniczne
-
-- Model: 76419
-- Kod producenta: 6426015
-- Liczba elementów: 2660
-- Wymiary opakowania: 48 x 38,2 x 12,2 cm
-- Waga: około 3,04 kg
-- Materiał: Plastik
-- Kolor: Wielobarwny
-
-Ostrzeżenia i zalecenia
-
-- Zestaw przeznaczony dla osób od 18 roku życia
-- Nieodpowiedni dla dzieci poniżej 3 lat – zagrożenie zadławieniem małymi częściami
-- Produkt przeznaczony do użytku wyłącznie w domu
-
-Informacje dodatkowe
-
-Produkt oryginalny, pochodzący od renomowanego producenta LEGO. Zestaw stanowi atrakcyjny element kolekcji oraz wyjątkową ozdobę każdego wnętrza.
+- 76417-1: https://a.allegroimg.com/original/113d53/9778aa1c4809b80415865e3e6f72
+- 76417-2: https://a.allegroimg.com/original/114ded/85cd05a8400ea4e5ff5bd97d43da
 
 ---
 
-## 76420 — Lego Harry Potter Turniej Jezioro Hogwartu 76420
+## 76420 — LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017413235 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76420 |
+| Nazwa angielska | Triwizard Tournament: The Black Lake |
+| Nazwa polska | LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 349 |
+| Cena katalogowa | 199.99 zł |
+| Wymiary złożonego | wys. 18 cm × szer. 12 cm × gł. 6 cm |
+| EAN | 5702017413235 |
 
 **LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu 76420**
 
@@ -2609,39 +3882,27 @@ Dzięki zestawowi LEGO Harry Potter Turniej Trójmagiczny: Jezioro Hogwartu (764
 - **Czy baterie są dołączone:** Nie
 - **Wymiary opakowania:** 28.2 x 26.2 x 5.9 cm
 
----
+**Galeria:**
 
-## 76421 — Lego Harry Potter 76421 Zgredek, skrzat domowy
-
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 142.99 zł · EAN: 05702017462455 · in stock*
-
-Zachwyć fanów Harry'ego Pottera™ pierwszym w historii modelem LEGO® skrzata domowego Zgredka™. Natychmiast rozpoznawalna postać zbudowana z klocków ma ruchomą głowę, dzięki której może robić różne miny, oraz ruchome ręce i palce, dzięki którym Zgredek może trzymać dołączone kultowe akcesoria. W zestawie jest szczegółowy model skarpety Harry'ego Pottera do zbudowania z pamiętnikiem Toma Riddle'a, którego Harry użył do uwolnienia Zgredka, oraz „lewitujące” ciasto budyniowe ciotki Petunii, które przywoła wspomnienia z kultowych scen.
- 
-Wspaniały model kolekcjonerski
- 
-Magiczny pomysł na prezent dla dzieci w wieku od ośmiu lat i każdego kolekcjonera pamiątek z Harry’ego Pottera — ten kolekcjonerski model skrzata domowego Zgredka ma 19 cm wysokości. Umieść figurkę Zgredka na podstawce do zbudowania z tabliczką, aby stworzyć ozdobę, która z pewnością przyciągnie wzrok każdego, kto ją zobaczy.
- 
-Nowy sposób budowania
- 
-Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder. Mogą w niej przybliżać i obracać model w 3D, zapisywać zestawy i śledzić postępy.
-
- 
-- Pierwszy model LEGO® Harry Potter™ skrzata domowego Zgredka™ (76421) — młodzi fani Harry'ego Pottera mogą zbudować i ustawić na półce figurkę jednej z najbardziej uwielbianych postaci w świecie czarodziejów 
-- Ruchoma głowa, uszy, ramiona i palce — ustawiaj różne pozy i dopasowuj dłonie Zgredka, aby mógł trzymać akcesoria zbudowane z klocków 
-- Kultowe akcesoria — dzieci mogą ponownie przeżyć sceny z klasycznych filmów, budując „lewitujące” ciasto budyniowe cioci Petunii i szczegółowy model pamiętnika Toma Riddle'a ze skarpetą Harry'ego Pottera 
-- Stworzony do ustawienia na półce — ustaw figurkę Zgredka™ na podstawce zbudowanej z klocków i dodaj tabliczkę 
-- Świetny pomysł na prezent dla dzieci w wieku od ośmiu lat — podaruj ten składający się z 403 elementów zestaw jako prezent urodzinowy lub świąteczny dla dzieci i każdego fana Harry'ego Pottera™ 
-
- 
-- Modele LEGO® Harry Potter™ zaprojektowane tak, by robić wrażenie — ta figurka do zbudowania ma 19 cm wysokości, 12 cm szerokości i 10cm głębokości 
-- Pomoc w budowaniu — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać modele w 3D w trakcie budowania 
-- Więcej zaczarowanej zabawy — szeroka gama zestawów kolekcjonerskich LEGO® Harry Potter™ oddaje w ręce młodych czarodziejów, czarownic i mugoli™ uwielbiane postacie, znane miejsca i magiczne przygody
+- 76420-1: https://a.allegroimg.com/original/1102d1/199de3bf45019d6eb3a74e111802
 
 ---
 
-## 76423 — Lego Harry Potter Ekspres Do Hogwaru I Stacja W Hogsmeade 76423
+## 76423 — Ekspres do Hogwartu i stacja w Hogsmeade
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 577.95 zł · EAN: 05702017434032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76423 |
+| Nazwa angielska | Hogwarts Express & Hogsmeade Station |
+| Nazwa polska | Ekspres do Hogwartu i stacja w Hogsmeade |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1074 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702017434032 |
 
 EKSPRES DO HOGWARU™ I STACJA W HOGSMEADE™
 
@@ -2669,11 +3930,26 @@ Odtwórz przybycie nowych uczniów Hogwartu™ dzięki zestawowi LEGO® Harry Po
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 76423-1: https://a.allegroimg.com/original/111599/f21408c542eb967eecec4a0d5d5b
+
 ---
 
-## 76424 — Lego Harry Potter 76424 Latający Ford Anglia
+## 76424 — Latający Ford Anglia
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 68.90 zł · EAN: 05702017583228 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76424 |
+| Nazwa angielska | Flying Ford Anglia |
+| Nazwa polska | Latający Ford Anglia |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 165 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 5 cm × szer. 6 cm |
+| EAN | 5702017583075, 5702017583228 |
 
 LEGO HARRY POTTER 76424 Latający Ford Anglia -
 
@@ -2693,11 +3969,28 @@ Ten zestaw z pojazdem można łączyć z innymi zestawami LEGO Harry Potter (spr
 - Część szerokiej serii — zestawy konstrukcyjne LEGO® Harry Potter™ pozwalają młodym czarodziejom, czarownicom i mugolom™ odgrywać kultowe sceny, wymyślać własne przygody lub po prostu kolekcjonować modele 
 - Kompaktowy 165-elementowy zestaw — Latający Ford Anglia™ ma 5 cm wysokości, 12 cm długości i 6 cm szerokości
 
+**Galeria:**
+
+- 76424-1: https://a.allegroimg.com/original/11ed10/f4d133d646fb8abda02af1415ae9
+- 76424-2: https://a.allegroimg.com/original/05add1/cb2f92c94057bbc75dca4fc2e7a6
+
 ---
 
-## 76425 — Lego Harry Potter 76425 Hedwiga z wizytą na ul. Privet Drive 4
+## 76425 — Hedwiga z wizytą na ul. Privet Drive 4
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 61.98 zł · EAN: 05702017583082 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76425 |
+| Nazwa angielska | Hedwig at 4 Privet Drive |
+| Nazwa polska | Hedwiga z wizytą na ul. Privet Drive 4 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 337 |
+| Cena katalogowa | 89.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583082 |
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -2721,11 +4014,27 @@ Buduj, wystawiaj i baw się - figurka sowy Hedwigi do zbudowania z tego 336-elem
  
 -
 
+**Galeria:**
+
+- 76425-1: https://a.allegroimg.com/original/118627/c95f3dfa433885d69572317452a3
+
 ---
 
-## 76426 — Lego Harry Potter 76426 Przystań z łodziami
+## 76426 — Harry Potter 76426 Stocznia na zamku Hogwart
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 300.55 zł · EAN: 05702017583099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76426 |
+| Nazwa angielska | Hogwarts Castle Boathouse |
+| Nazwa polska | Harry Potter 76426 Stocznia na zamku Hogwart |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 350 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017583099 |
 
 Lego HARRY POTTER 76426 Przystań z łodziami
 
@@ -2733,11 +4042,27 @@ Przeżyj ponownie niezapomnianą scenę z Harry'ego Pottera i Kamienia Filozofic
 
 Ten zabawny i wciągający zestaw to najlepszy pomysł na prezent z Czarodziejskiego Świata dla dzieci w wieku od 8 lat. Zawiera także 7 postaci LEGO(R) Harry Potter, w tym minifigurkę profesor McGonagall ze specjalną dekoracją na ramieniu, do odgrywania przygód. Ten zestaw należy do serii zestawów modułowych (sprzedawanych osobno), które można łączyć, tworząc najbardziej szczegółową scenę zbudowaną z klocków LEGO w historii zamku Hogwart.
 
+**Galeria:**
+
+- 76426-1: https://a.allegroimg.com/original/116751/8416f1c94536928cdf3398a7bffc
+
 ---
 
-## 76427 — Lego Harry Potter Hardodziob 76427
+## 76427 — Harry Potter 76427 Klofan
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 250.79 zł · EAN: 05702017599496 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76427 |
+| Nazwa angielska | Buckbeak |
+| Nazwa polska | Harry Potter 76427 Klofan |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 723 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017599496 |
 
 **HARDODZIOB **
 
@@ -2761,11 +4086,27 @@ Pozwól dzieciom przeżyć jeszcze raz fascynujące przygody z Harry’ego Potte
 
 Ostrzeżenie! Ryzyko zadławienia. Małe elementy. Nie nadaje się poniżej 3 roku życia.
 
+**Galeria:**
+
+- 76427-1: https://a.allegroimg.com/original/11d8ca/0406edb84a27abc5b3b9ec3aa0bc
+
 ---
 
-## 76428 — klocki Lego Harry Potter 76428 Chatka Hagrida: niespodziewana wizyta
+## 76428 — Chatka Hagrida: niespodziewana wizyta
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 317.49 zł · EAN: 05702017583105 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76428 |
+| Nazwa angielska | Hagrid's Hut: An Unexpected Visit |
+| Nazwa polska | Chatka Hagrida: niespodziewana wizyta |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 896 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 19 cm × gł. 15 cm |
+| EAN | 5702017583105 |
 
 LEGO Harry Potter 76428 Chatka Hagrida: niespodziewana wizyta
 
@@ -2797,11 +4138,27 @@ Jeśli szukasz prezentu urodzinowego dla dzieci w wieku od ośmiu lat, który na
 
 • Chatka Hagrida ma 17 cm wysokości
 
+**Galeria:**
+
+- 76428-1: https://a.allegroimg.com/original/052cf0/7cc9de3845938a16c65e68610631
+
 ---
 
-## 76429 — Lego Harry Potter Mówiąca Tiara Przydziału 76429
+## 76429 — Mówiąca Tiara Przydziału
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 310.70 zł · EAN: 05702017583112 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76429 |
+| Nazwa angielska | Talking Sorting Hat |
+| Nazwa polska | Mówiąca Tiara Przydziału |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 561 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583112 |
 
 ❗️❗️❗️** PRODUKT SPRZEDAWANY W PRZEDSPRZEDAŻY ❗️❗️❗️**
  
@@ -2832,11 +4189,27 @@ Ten inspirowany filmami zestaw do zbudowania może być magicznym prezentem dla 
  
 -
 
+**Galeria:**
+
+- 76429-1: https://a.allegroimg.com/original/05a717/7038c37f4df3ab24695160d769cc
+
 ---
 
-## 76430 — Lego Harry Potter 76430 Sowiarnia w Hogwarcie
+## 76430 — Sowiarnia w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 238.88 zł · EAN: 05702017583129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76430 |
+| Nazwa angielska | Hogwarts Castle Owlery |
+| Nazwa polska | Sowiarnia w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 12 cm × gł. 10 cm |
+| EAN | 5702017583129 |
 
 LEGO  HARRY POTTER
 
@@ -2874,11 +4247,27 @@ Specyfikacja zestawu:
 - **Ilość elementów: **364
 - **Ilość minifigurek:** 3
 
+**Galeria:**
+
+- 76430-1: https://a.allegroimg.com/original/114278/6fe4b7a64fc3876d273284a843ac
+
 ---
 
-## 76431 — Lego Harry Potter 76431 Zamek Hogwart: Zajęcia z eliksiru
+## 76431 — Harry Potter 76431 Zamek Hogwart: Godzina Eliksirów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 295.41 zł · EAN: 05702017583136 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76431 |
+| Nazwa angielska | Hogwarts Castle: Potions Class |
+| Nazwa polska | Harry Potter 76431 Zamek Hogwart: Godzina Eliksirów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 397 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 13 cm × gł. 9 cm |
+| EAN | 5702017583136 |
 
 LEGO® Harry Potter
  
@@ -2910,11 +4299,27 @@ Część serii LEGO® Harry Potter™ — klasa do nauki eliksirów jest częśc
  
 Buduj, otwieraj i baw się — przed rozłożeniem klasa na zamku Hogwart™ w tym 397-elementowym zestawie ma 8 cm wysokości, 13 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 76431-1: https://a.allegroimg.com/original/11cc78/140b2f0349a38ca1d90e1d45eff2
+
 ---
 
-## 76432 — Lego Harry Potter 76432 Zakazany Las: magiczne stworzenia
+## 76432 — Zakazany Las: magiczne stworzenia
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 175.00 zł · EAN: 05702017599502 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76432 |
+| Nazwa angielska | Forbidden Forest: Magical Creatures |
+| Nazwa polska | Zakazany Las: magiczne stworzenia |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 172 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 31 cm × gł. 11 cm |
+| EAN | 5702017599502 |
 
 Zbuduj z klocków LEGO® Zakazany Las™ pełen magicznych stworzeń dzięki fantastycznemu zestawowi LEGO Harry Potter™ (76432). Zawiera on drzewa z liśćmi w nocnych kolorach, a także świecącego w ciemności pająka i cztery świecące w ciemności grzyby, które tworzą magiczną atmosferę. Zestaw zawiera dwie minifigurki LEGO — Rona Weasleya™ i Hermionę Granger™ — a także figurkę Hardodzioba™, figurkę małego testrala i figurkę chochlika kornwalijskiego do odgrywania ról. Dzieci mogą także zmieniać układ modułów, tworząc różnorodne scenerie.
  
@@ -2930,11 +4335,26 @@ Jeśli szukasz pomysłu na prezent urodzinowy nawiązujący do Harry'ego Pottera
 - Zabawki prosto ze świata magii — zestawy LEGO® Harry Potter™ pozwalają fanom odgrywać kultowe sceny, wymyślać wyjątkowe historie lub po prostu ustawiać modele na półce 
 - Buduj, baw się i przebudowuj — modułowy Zakazany Las™ z tego 172-elementowego zestawu LEGO® ma w podstawowej konfiguracji 15 cm wysokości, 31 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 76432-1: https://a.allegroimg.com/original/058a76/e2676b034fb5983fd51e9e009988
+
 ---
 
-## 76433 — Lego 76433 Harry Potter Mandragora Ruchoma Figurka Rośliny Klocki Zestaw
+## 76433 — Harry Potter 76433 Mandragora
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 249.98 zł · EAN: 05702017583143 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76433 |
+| Nazwa angielska | Mandrake |
+| Nazwa polska | Harry Potter 76433 Mandragora |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 579 |
+| Cena katalogowa | 309.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017583143 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -2957,11 +4377,27 @@ To niezwykłe magiczne stworzenie to czarujący pomysł na ozdobę do domu. Figu
 - Część szerokiej serii — zestawy konstrukcyjne LEGO® Harry Potter™ pozwalają młodym czarodziejom, czarownicom i mugolom™ odgrywać kultowe sceny, wymyślać własne przygody lub po prostu kolekcjonować modele
 - Ozdoba z Harry’ego Pottera™ — figurka mandragory w doniczce w tym 579-elementowym zestawie ma 27 cm wysokości
 
+**Galeria:**
+
+- 76433-1: https://a.allegroimg.com/original/11dac2/e05a11504cdb84f41ea1249a207b
+
 ---
 
-## 76434 — Lego Harry Potter 76434 Aragog w Zakazanym Lesie
+## 76434 — Harry Potter 76434 Aragog w Zakazanym Lesie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 71.82 zł · EAN: 05702017599519 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76434 |
+| Nazwa angielska | Aragog in the Forbidden Forest |
+| Nazwa polska | Harry Potter 76434 Aragog w Zakazanym Lesie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 195 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 18 cm |
+| EAN | 5702017599519 |
 
 **PRODUCENT**: LEGO
  
@@ -2989,11 +4425,27 @@ Ten kolekcjonerski zestaw stanowi część szerokiej serii zestawów LEGO Harry 
 - Część szerokiej serii — zestawy konstrukcyjne LEGO® Harry Potter™ pozwalają młodym czarodziejom, czarownicom i mugolom™ odgrywać kultowe sceny, wymyślać własne przygody lub po prostu kolekcjonować modele 
 - Buduj i postaw na półce — model pająka Aragoga w tym 195-elementowym zestawie ma 7 cm wysokości, 16 cm długości i 18 cm szerokości
 
+**Galeria:**
+
+- 76434-1: https://a.allegroimg.com/original/11b435/b1d40e2d46908efecaa68eb6d18c
+
 ---
 
-## 76435 — Lego Harry Potter Zamek Hogwart Wielka Sala 76435
+## 76435 — Zamek Hogwart: Wielka Sala
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 903.90 zł · EAN: 05702017583150 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76435 |
+| Nazwa angielska | Hogwarts Castle: The Great Hall |
+| Nazwa polska | Zamek Hogwart: Wielka Sala |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1732 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 40 cm × szer. 44 cm × gł. 21 cm |
+| EAN | 5702017583150 |
 
 Zamek Hogwart™: Wielka Sala
 
@@ -3019,11 +4471,27 @@ Część serii LEGO® Harry Potter™ — Wielka Sala jest częścią kolekcji m
 
 Buduj, eksponuj i baw się — model zamku z tego 1732-elementowego zestawu ma 40 cm wysokości, 44 cm szerokości i 21 cm głębokości
 
+**Galeria:**
+
+- 76435-1: https://a.allegroimg.com/original/11e46a/ddee9f814db6be2b28ffbb07f7c8
+
 ---
 
-## 76437 — Lego Harry Potter Nora Kolekcjonerska Edycja Limitowana
+## 76437 — Nora — edycja kolekcjonerska
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 998.86 zł · EAN: 05702017590417 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76437 |
+| Nazwa angielska | The Burrow – Collectors' Edition |
+| Nazwa polska | Nora — edycja kolekcjonerska |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2405 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590417 |
 
 LEGO Harry Potter Nora Kolekcjonerska Edycja Limitowana
 
@@ -3055,11 +4523,26 @@ Specyfikacja:
 
 - **Kategoria:** Edycja kolekcjonerska
 
+**Galeria:**
+
+- 76437-1: https://a.allegroimg.com/original/11e8bc/19240df14d77bf5c60a5c6350488
+
 ---
 
-## 76439 — Lego Harry Potter Sklep Ollivandera i Sklep Madam Malkin 76439
+## 76439 — Harry Potter 76439 Sklep Ollivandera i Sklep Madam Malkin
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 349.99 zł · EAN: 05702017583167 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76439 |
+| Nazwa angielska | Ollivanders & Madam Malkin’s Robes |
+| Nazwa polska | Harry Potter 76439 Sklep Ollivandera i Sklep Madam Malkin |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 744 |
+| Cena katalogowa | 399.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 12 cm × gł. 11 cm |
+| EAN | 5702017583167 |
 
 Klocki LEGO Harry Potter 76439 - Sklepy Ollivandera i Madame Malkin
 
@@ -3084,11 +4567,26 @@ Fajny prezent dla fanów Harry'ego Pottera™ — ten zestaw konstrukcyjny będz
 - Ulica Pokątna™ z klocków LEGO® — dwa sklepy z tego zestawu można połączyć ze sobą oraz ze sklepami z innych zestawów LEGO Harry Potter™ Ulica Pokątna (sprzedawanymi osobno)
 - Buduj i baw się — model sklepu Ollivandera™ z tego 744-elementowego zestawu ma 19 cm wysokości, 12 cm szerokości i 11 cm głębokości
 
+**Galeria:**
+
+- 76439-1: https://a.allegroimg.com/original/111684/50fe63fc4b7da9cdfef52d805879
+
 ---
 
-## 76440 — Zestaw klocków Lego Harry Potter Turniej Trójmagiczny: Przybycie 76440
+## 76440 — Turniej Trójmagiczny: Przybycie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 618.17 zł · EAN: 05702017599533 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76440 |
+| Nazwa angielska | Triwizard Tournament: The Arrival |
+| Nazwa polska | Turniej Trójmagiczny: Przybycie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1229 |
+| Cena katalogowa | 619.99 zł |
+| Wymiary złożonego | wys. 44 cm × szer. 17 cm |
+| EAN | 5702017599533 |
 
 Odtwórz kultową scenę dzięki zestawowi ze statkiem **LEGO Harry Potter Turniej Trójmagiczny: Przybycie (76440)**. To świetny prezent dla chłopców, dziewczynek i fanów Harry'ego Pottera w wieku od 10 lat. Zawiera szczegółowe modele statku Durmstrangui powozu Beauxbatons, które umożliwiają odtworzenie przybycia uczniów do Hogwartu na turniej. Statek ma pod pokładem salon i sypialnię dla minifigurek. „Latający” powóz prowadzony jest przez piękną figurkę abraksana, w środku jest miejsce dla dwóch minifigurek, a z tyłu umieszczony jest kufer.
 
@@ -3105,21 +4603,52 @@ Ten kolekcjonerski zestaw stanowi część szerokiej serii zestawów **LEGO Harr
 - Kolekcjonerska zabawka — ten zestaw z Turniejem Trójmagicznym to część szerokiej serii zestawów **LEGO Harry Potter** (sprzedawanych osobno), które oferują fanom nieograniczone możliwości wymyślania własnych, urzekających historii.
 - Wymiary — statek Durmstrangu do zbudowania w tym 1229-elementowym zestawie ma 44 cm wysokości, 39 cm długości i 17 cm szerokości.
 
+**Galeria:**
+
+- 76440-1: https://a.allegroimg.com/original/11f6a3/2f0507f44856b067e8b3c4d111d3
+
 ---
 
-## 76441 — Lego Harry Potter 76441 Zamek Hogwart: Klub pojedynków
+## 76441 — Klub pojedynków
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 80.94 zł · EAN: 05702017812793 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76441 |
+| Nazwa angielska | Hogwarts Castle: Dueling Club |
+| Nazwa polska | Klub pojedynków |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 158 |
+| Cena katalogowa | 109.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812793 |
 
 Zamek Hogwart™: Klub pojedynków
 
 Harry Potter™ LEGO Harry Potter Zamek Hogwart: Klub pojedynków, Zestaw dla 8-latka, Zabawka dla Dziecka z 4 minifigurkami, w tym Severusa Snape'a i Draco Malfoya, Prezent dla Dziewczynki i Chłopca, 76441 j k rowling ron weasley hermiona granger dumbledore czara ognia więzień azkabanu akcja nostalgia chłopiec dziewczyna syn córka 9 11 12 nastolatki dekoracja mugole czarownice dom Gryffindor hufflepuff ravenclaw slytherin kolekcja Zamek Hogwart™: Klub pojedynków LEGO® Harry Potter™ Zamek Hogwart™: Klub pojedynków LEGO® Harry Potter™ Zamek Hogwart™: Klub pojedynków 76441 Ten wysokiej jakości zestaw z filmu Harry Potter i Komnata Tajemnic™ będzie świetnym prezentem dla dzieci odkrywających świat magii. Gratka dla fanów Harry’ego Pottera™ Odegraj niesamowitą scenę w klubie pojedynków z filmu Harry Potter i Komnata Tajemnic™ dzięki zestawowi LEGO® Harry Potter™ Zamek Hogwart™ dla ośmiolatków i starszych dzieci. Zawiera on składaną platformę bitewną dla dwóch minifigurek (pchnij stopnie na jednym z końców, aby przewrócić minifigurkę naprzeciwko), a także jeden z 14 kolekcjonerskich portretów Hogwartu, który można zawiesić nad kominkiem. Zestaw zawiera cztery minifigurki LEGO znanych postaci: Harry’ego Pottera i Draco Malfoya™, każda z różdżką i magicznymi elementami zaklęć, a także minifigurki Gilderoya Lockharta™ i Severusa Snape’a™ do twórczej zabawy w odgrywanie ról.Ten zestaw to magiczny pomysł na prezent dla dzieci, który wprowadzi małych czarodziejów i czarownice do świata magii zbudowanego z klocków LEGO.Ten zestaw jest częścią kolekcji modułowych zestawów LEGO Harry Potter (sprzedawanych osobno), które można łączyć, tworząc najbardziej szczegółową dioramę zamku Hogwart zbudowaną z klocków LEGO. Naucz się używać magii w towarzystwie Harry’ego Pottera™, aby pokonać wrogów w klubie pojedynków w Hogwarcie! Severus Snape™ i Gilderoy Lockhart™ nauczą Cię zaklęć, a następnie zmierzysz się z Draco Malfoyem™ na platformie. Użyj różdżki, aby rzucać zaklęcia i obalić swojego rywala! Ten magiczny zestaw zawiera również jeden z 14 kolekcjonerskich portretów Hogwartu do zawieszenia nad kominkiem.
 
+**Galeria:**
+
+- 76441-1: https://a.allegroimg.com/original/050078/0fa78a214b1fa8eb83d04b0fe734
+
 ---
 
-## 76442 — Lego Harry Potter 76442 Zajęcia z zaklęć i uroków
+## 76442 — Zamek Hogwart: Zajęcia z zaklęć i uroków
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 58.49 zł · EAN: 05702017812809 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76442 |
+| Nazwa angielska | Hogwarts Castle: Charms Class |
+| Nazwa polska | Zamek Hogwart: Zajęcia z zaklęć i uroków |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 204 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812809 |
 
 LEGO Harry Potter 76442 Zajęcia z zaklęć i uroków
 
@@ -3144,29 +4673,76 @@ Harry Potter™ LEGO Harry Potter Zamek Hogwart: Zajęcia z zaklęć i uroków, 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017812809
 
+**Galeria:**
+
+- 76442-1: https://a.allegroimg.com/original/11aab0/40f068954caba759679b9a218541
+
 ---
 
-## 76443 — Lego Harry Potter 76443 Motocyklowa przejażdżka Hagrida i Harry’ego
+## 76443 — Przejażdżka motocyklowa Hagrida i Harry'ego
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 159.00 zł · EAN: 05702017812816 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76443 |
+| Nazwa angielska | Hagrid & Harry's Motorcycle Ride |
+| Nazwa polska | Przejażdżka motocyklowa Hagrida i Harry'ego |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany |
+| Liczba elementów | 617 |
+| Cena katalogowa | 219.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812816 |
 
 Przejażdżka motocyklowa Hagrida i Harry’ego
 
 Harry Potter™ LEGO Harry Potter Przejażdżka motocyklowa Hagrida i Harry’ego, Zabawka dla Dziecka do Zbudowania, Magiczny Pojazd i 3 Postacie, Pomysł na Prezent dla 9-latka, dla Chłopca i Dziewczynki, 76443 j k rowling ron weasley hermiona granger dumbledore czara ognia więzień azkabanu akcja nostalgia chłopiec dziewczyna syn córka 10 11 12 nastolatki dekoracja mugole czarownice dom Gryffindor hufflepuff ravenclaw slytherin kolekcja Przejażdżka motocyklowa Hagrida i Harry’ego LEGO® Harry Potter™ Przejażdżka motocyklowa Hagrida i Harry’ego LEGO® Harry Potter™ Przejażdżka motocyklowa Hagrida i Harry’ego 76443 Odtwórz kultową scenę z filmu Harry Potter i Insygnia Śmierci™ dzięki fajnemu pojazdowi dla dzieci i fanów świata magii. Magiczny prezent urodzinowy dla małych fanów Hagrida™ Przejażdżka motocyklowa Hagrida i Harry’ego (76443) to magiczny zestaw dla chłopców i dziewczynek oraz wszystkich fanów świata magii. Świetnie sprawdzi się jako prezent na urodziny dla dziewięciolatków i starszych dzieci. Zestaw LEGO® Harry Potter™ zawiera ruchome figurki Harry’ego Pottera, Hedwigi™ i Rubeusa Hagrida jadące na motocyklu i w przyczepie bocznej. Koła pojazdu z klocków LEGO obracają się, dzięki czemu dzieci mogą odgrywać kultowe sceny z filmu Harry Potter i Insygnia Śmierci™, a po ukończonej zabawie można ustawić model jako wspaniałą ozdobę.Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LEGO Builder. Mogą w niej przybliżać i obracać modele w 3D, śledzić postępy i nie tylko.Ten zestaw to czarodziejska gratka dla fanów fantastycznych przygód. Jest częścią szerokiej kolekcji zestawów LEGO Harry Potter (sprzedawanych osobno), które pobudzają wyobraźnię młodych czarownic, czarodziejów i mugoli™. Złap się mocno i ruszaj do Nory na latającym motocyklu Hagrida! Odgrywaj sceny z filmu Harry Potter i Insygnia Śmierci™ i wymyślaj własne przygody! Podróżuj motocyklem z Hagridem™ i Harrym Potterem™ w bocznej przyczepie, a także sową Hedwigą™ z tyłu. Albo po prostu ustaw swoje magiczne dzieło jako część kolekcji zestawów LEGO® Harry Potter zbudowanych z klocków! • Zestaw do zabawy i ozdoby — odtwórz sceny ucieczki na motocyklu Hagrida z filmu Harry Potter i Insygnia Śmierci™ dzięki temu zestawowi LEGO® Harry Potter™ dla dzieci i fanów świata magii • Trzy zbudowane z klocków postacie LEGO® Harry Potter™ — model zawiera wbudowane ruchome figurki Harry’ego Pottera, Hedwigi™ i Rubeusa Hagrida™ jadące na latającym motocyklu i w przyczepie bocznej • Prezent dla fanów magicznych zestawów LEGO® — podaruj dzieciom ciekawe wyzwanie konstrukcyjne z kultowym niebieskim motocyklem Hagrida™ i przyczepą boczną, w której siedzi Harry Potter™ • Fajne detale — jedź motocyklem, obracaj głową Hagrida, ustawiaj ręce obu minifigurek oraz obracaj głową Hedwigi i ustawiaj jej skrzydła • Prezent urodzinowy dla dziewięciolatków i starszych dzieci — ten zestaw LEGO® Harry Potter™ to wyjątkowy prezent dla chłopców, dziewczynek i wszystkich fanów świata czarodziejów • Pomoc w budowaniu — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie.
 
+**Galeria:**
+
+- 76443-1: https://a.allegroimg.com/original/05f6d7/236cb5404eee85020f62b6ca81e0
+
 ---
 
-## 76444 — Klocki Lego 76444 Sklepy na Ulicy Pokątnej Z Serii Lego Harry Potter
+## 76444 — Magiczne Piwnice na ulicy Pokatnej
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 569.99 zł · EAN: 05702017812823 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76444 |
+| Nazwa angielska | Diagon Alley Wizarding Shops |
+| Nazwa polska | Magiczne Piwnice na ulicy Pokatnej |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2750 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812823 |
 
 Prezenty z serii LEGO® Harry Potter™ dla dorosłych Wkrocz do magicznego świata, budując szczegółowy model w mikroskali LEGO® Harry Potter™ (76444). Każdy budynek ma rozpoznawalne detale na zewnątrz i skrywa ciekawe niespodzianki w środku.Ten magiczny model będzie wspaniałą ozdobą każdego pomieszczenia. Możesz go ustawić jako dwustronną ulicę lub jako jeden długi rząd budynków, a także podzielić model na pięć sekcji, aby przyjrzeć mu się bliżej. Dodaj 12 unikalnych mikrofigurek LEGO Harry Potter oraz Błędnego Rycerza™, aby przywołać wspomnienia z kultowych scen.Ten zestaw kolekcjonerski w mikroskali jest częścią serii zestawów LEGO dla dorosłych. To świetny prezent dla Ciebie lub dla innych fanów Harry’ego Pottera. Wyrusz w magiczną podróż, budując wspaniały model ulicy Pokątnej™ w mikroskali. Odtwórz zewnętrzne i wewnętrzne szczegóły Magicznych dowcipów Weasleyów™, Banku Gringotta™, Dziurawego Kotła i innych miejsc. Rozłóż model, aby utworzyć jedną długą ulicę i ustaw ją na półce. Następnie dodaj 12 mikrofigurek postaci z Harry’ego Pottera™, a także Błędnego Rycerza™.
 
+**Galeria:**
+
+- 76444-1: https://a.allegroimg.com/original/058f93/bf0311b44f8c9949e90915ad576f
+
 ---
 
-## 76445 — Lego Harry Potter Zamek Hogwart: zajęcia z zielarstwa 76445
+## 76445 — Zamek Hogwart: zajęcia z zielarstwa
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 159.38 zł · EAN: 05702017812830 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76445 |
+| Nazwa angielska | Hogwarts Castle: Herbology Class |
+| Nazwa polska | Zamek Hogwart: zajęcia z zielarstwa |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 390 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812830 |
 
 **LEGO Harry Potter Zamek Hogwart: zajęcia z zielarstwa 76445**
 
@@ -3192,21 +4768,52 @@ Część serii modułowych zestawów, tworzących zamek Hogwart™ (sprzedawanyc
 
 Ten model szklarni ma 13 cm szerokości
 
+**Galeria:**
+
+- 76445-1: https://a.allegroimg.com/original/111126/0a12d97a425d957c59c252a45b50
+
 ---
 
-## 76446 — Lego Harry Potter 76446 Przygoda na pokładzie Błędnego Rycerza
+## 76446 — Przygoda na pokładzie Błędnego Rycerza
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 151.43 zł · EAN: 05702017812847 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76446 |
+| Nazwa angielska | Knight Bus Adventure |
+| Nazwa polska | Przygoda na pokładzie Błędnego Rycerza |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 499 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812847 |
 
 Przygoda na pokładzie Błędnego Rycerza
 
 Harry Potter™ LEGO Harry Potter Przygoda na pokładzie Błędnego Rycerza, Zabawka dla Dziecka do Zbudowania, Szczegółowy Model Magicznego Autobusu i 5 Postaci, Pomysł na Prezent dla Dziewczynek i Chłopców, 76446 j k rowling ron weasley hermiona granger dumbledore draco malfoy czara ognia więzień azkabanu akcja nostalgia chłopiec dziewczyna syn córka 9 11 12 nastolatki dekoracja mugole czarownice dom gryffindor hufflepuff ravenclaw slytherin kolekcja Przygoda na pokładzie Błędnego Rycerza LEGO® Harry Potter™ Przygoda na pokładzie Błędnego Rycerza LEGO® Harry Potter™ Przygoda na pokładzie Błędnego Rycerza Odegraj kultowe sceny z filmu Harry Potter i Więzień Azkabanu™ w Błędnym Rycerzu™ dzięki fajnemu zestawowi konstrukcyjnemu dla dzieci. Wyjątkowy zestaw konstrukcyjny dla fanów Harry’ego Pottera™ Wsiądź na pokład Błędnego Rycerza, aby przeżyć ekscytującą przygodę podczas zabawy tym niesamowitym zestawem (76446). To najbardziej szczegółowy model LEGO kultowego trzypiętrowego autobusu! Górne poziomy można odczepić, aby uzyskać łatwy dostęp do wnętrza, w którym znajdują się ruchome łóżka i dyndający żyrandol, które zapewniają realistyczną zabawę. Zestaw świetnie sprawdzi się jako prezent dla chłopców i dziewczynek w wieku od ośmiu lat.Ten magiczny zestaw zawiera również pięć postaci LEGO Harry Potter – Harry’ego Pottera, Erniego Pranga, Stana Shunpike’a, śpiącą czarownicę i Łapę™ – dzięki którym odtworzysz niezapomniane sceny z filmu Harry Potter i Więzień Azkabanu™. Możliwości kreatywnej zabawy poszerzają inne realistyczne detale, w tym latarnia, przy której czekał Harry (i przestraszył się Łapy!), zanim przyjechał Błędny Rycerz, kufer Harry'ego i gazeta Prorok Codzienny z nagłówkiem \"Ucieczka z Azkabanu\". Usiądź przy latarni z Harrym Potterem™, ale uważaj bo w pobliżu czai się Łapa! W samą porę nadjeżdża Błędny Rycerz™, awaryjny transport dla zagubionych czarownic i czarodziejów! Stan Shunpike pomoże Ci wciągnąć kufer i wejść na pokład trzypiętrowego autobusu. Postaraj się nie obudzić śpiącej czarownicy i znajdź wolne łóżko, a następnie trzymaj się mocno podczas brawurowej jazdy Erniego Pranga! • Magiczny pojazd dla dzieci — zbuduj kultowy pojazd ze świata magii i odtwórz sceny z filmu Harry Potter i więzień Azkabanu™ dzięki zestawowi LEGO® Harry Potter™ Przygoda na pokładzie Błędnego Rycerza • Pięć postaci LEGO® Harry Potter™ — minifigurki Harry’ego Pottera, Erniego Pranga, Stana Shunpike’a i śpiącej wiedźmy, a także figurka Łapy™ do twórczej zabawy w odgrywanie ról • Najbardziej szczegółowy model Błędnego Rycerza™ z klocków LEGO® — górne poziomy autobusu można odczepić, aby uzyskać łatwy dostęp do wnętrza, w którym znajdują się ruchome łóżka i wiszący żyrandol • Ciekawe szczegóły — ten magiczny zestaw do zabawy zawiera również latarnię i ławkę, kufer Harry’ego z monetą, galeonem, i list z Hogwartu™, a także gazetę Prorok Codzienny • Pomysł na prezent dla ośmioletnich i starszych dzieci — ten zestaw LEGO® Harry Potter™ z pojazdem będzie świetnym upominkiem dla dzieci, które odkrywają świat magii i czarodziejstwa • Fajny sposób na budowanie — aplikacja LEGO® Builder przeprowadzi dzieci przez intuicyjne budowanie.
 
+**Galeria:**
+
+- 76446-1: https://a.allegroimg.com/original/059c9e/a9106b6f4a92b8db1e0c80bc49e0
+
 ---
 
-## 76447 — Lego Harry Potter 76447 Zamek Hogwart: lekcja latania na miotle
+## 76447 — Zamek Hogwart: lekcja latania na miotle
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 339.99 zł · EAN: 05702017812854 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76447 |
+| Nazwa angielska | Hogwarts Castle: Flying Lessons |
+| Nazwa polska | Zamek Hogwart: lekcja latania na miotle |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 651 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 32 cm × gł. 15 cm |
+| EAN | 5702017812854 |
 
 LEGO Harry Potter 76447
  
@@ -3228,11 +4835,27 @@ Pomysł na prezent dla dzieci w wieku od dziewięciu lat — ten magiczny zestaw
  
 Wymiary — po rozłożeniu wieża zamku Hogwart™ w tym 651-elementowym zestawie ma 26 cm wysokości, 32 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 76447-1: https://a.allegroimg.com/original/116971/43f23af1447abfd79ae251d64481
+
 ---
 
-## 76448 — Lego Harry Potter 76448 Fawkes: feniks Dumbledore'a
+## 76448 — Fawkes: feniks Dumbledore'a
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 70.03 zł · EAN: 05702017812861 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76448 |
+| Nazwa angielska | Fawkes: Dumbledore's Phoenix |
+| Nazwa polska | Fawkes: feniks Dumbledore'a |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 299 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812861 |
 
 Mali fani Harry'ego Pottera, którzy kochają zwierzęta, z zestawem LEGO® Harry Potter™ (76448) **Fawkes: Fenix Dumbledore'a **zbudują model stworzenia ze świata magii i czarów. Ta ruchoma figurka Fawkesa ma pazury, za pomocą których może usiąść na szpilce, a **w zestawie** znajduje się również Mądry Kapelusz i Miecz Gryffindoru z klocków.
  
@@ -3254,11 +4877,27 @@ Przenieś zabawne doświadczenie budowlane dzieci na wyższy poziom dzięki apli
 - Liczba elementów: 299 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 76448-1: https://a.allegroimg.com/original/29384e/bcfd7ad44d31b9c7391c5aa27837
+
 ---
 
-## 76449 — Lego Harry Potter Potworna księga potworów z zębami 76449
+## 76449 — Potworna księga potworów z zębami
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 183.00 zł · EAN: 05702017812878 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76449 |
+| Nazwa angielska | Chomping Monster Book of Monsters |
+| Nazwa polska | Potworna księga potworów z zębami |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 518 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812878 |
 
 **LEGO Harry Potter Potworna księga potworów z zębami 76449**
 
@@ -3282,11 +4921,27 @@ Zestaw należy do serii kolekcjonerskich zestawów LEGO® Harry Potter™ (zesta
 
 Model magicznej księgi ma 16 cm długości
 
+**Galeria:**
+
+- 76449-1: https://a.allegroimg.com/original/1193eb/2393017240d3a8ac408e05f4af19
+
 ---
 
-## 76450 — Lego Harry Potter 76450 Stoper do książek: Pociąg ekspresowy do Hogwartu
+## 76450 — Book nook: Ekspres do Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 296.12 zł · EAN: 05702017812885 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76450 |
+| Nazwa angielska | Book Nook: Hogwarts Express |
+| Nazwa polska | Book nook: Ekspres do Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 832 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812885 |
 
 LEGO Harry Potter 76450 Stoper do książek: Pociąg ekspresowy do Hogwartu
 
@@ -3308,11 +4963,27 @@ Ten zabawny kolekcjonerski zestaw pociągu to magiczny prezent dla chłopców, d
 - Liczba elementów: 832 
 - Nadaje się dla dzieci od 10 lat
 
+**Galeria:**
+
+- 76450-1: https://a.allegroimg.com/original/25a539/0d6d11d048a686985fbdc838f28b
+
 ---
 
-## 76451 — klocki Lego Harry Potter 76451 Privet Drive: Wizyta ciotki Marge
+## 76451 — Privet Drive: Wizyta ciotki Marge
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702017812892 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76451 |
+| Nazwa angielska | Privet Drive: Aunt Marge's Visit |
+| Nazwa polska | Privet Drive: Wizyta ciotki Marge |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 639 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | wys. 16 cm × szer. 31 cm × gł. 12 cm |
+| EAN | 5702017812892 |
 
 Przeżyj wizytę ciotki Marge na Privet Drive 4 z filmu „Harry Potter i więzień Azkabanu” dzięki kolekcjonerskiemu zestawowi LEGO® Harry Potter™ (76451). Model przedstawia szczegółową replikę domu rodziny Dursleyów z oranżerią, którą można otworzyć, aby zyskać łatwy dostęp do wnętrza. W kuchni z jadalnią znajduje się odczepiany stół, a z tyłu domu ukryto sekretne drzwi prowadzące do dawnej sypialni Harry’ego w komórce pod schodami. W sypialni na piętrze można wyjąć kraty z okna, aby odtworzyć scenę ucieczki, a całość uzupełnia wiele realistycznych detali zachęcających do kreatywnej zabawy.
 
@@ -3328,11 +4999,27 @@ Ten magiczny zestaw to doskonały prezent świąteczny lub urodzinowy dla chłop
 - Kolekcjonerski zestaw LEGO® Harry Potter™ — ten fantastyczny zestaw jest częścią bogatej serii LEGO Harry Potter (zestawy sprzedawane osobno) do zabawy i ozdoby
 - Wymiary — dom LEGO® Harry Potter™ w tym 639-elementowym zestawie ma 16 cm wysokości, 31 cm szerokości i 12 cm głębokości
 
+**Galeria:**
+
+- 76451-1: https://a.allegroimg.com/original/29d886/600167744a28bb50a4d63357dc6f
+
 ---
 
-## 76452 — Lego Harry Potter 76452 Markowy sprzęt do quidditcha i lodziarnia
+## 76452 — Markowy sprzęt do quidditcha i lodziarnia
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 294.98 zł · EAN: 05702017812908 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76452 |
+| Nazwa angielska | Quality Quidditch Supplies & Ice Cream Parlour |
+| Nazwa polska | Markowy sprzęt do quidditcha i lodziarnia |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 795 |
+| Cena katalogowa | 449.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017812908 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -3358,11 +5045,27 @@ Buduj razem z przyjaciółmi i rodziną - aplikacja LEGO® Builder zapewnia zaba
 - Liczba elementów: 795 
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 76452-1: https://a.allegroimg.com/original/110741/cf0420534ceb8e44a04ab37f1205
+
 ---
 
-## 76453 — Lego Harry Potter 76453 Dwór Malfoyów
+## 76453 — Dwór Malfoyów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 540.00 zł · EAN: 05702017812915 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76453 |
+| Nazwa angielska | Malfoy Manor |
+| Nazwa polska | Dwór Malfoyów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1601 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 30 cm × gł. 17 cm |
+| EAN | 5702017812915 |
 
 LEGO Harry Potter
 
@@ -3418,11 +5121,26 @@ Specyfikacja zestawu:
 
 - **Płeć dziecka:** chłopcy i dziewczynki
 
+**Galeria:**
+
+- 76453-1: https://a.allegroimg.com/original/05a87a/56e4fab240da8d4971c9297f00c7
+
 ---
 
-## 76454 — Lego Harry Potter 76454 Zamek Hogwart: Główna wieża
+## 76454 — Harry Potter 76454 Zamek Hogwart: Główna wieża
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 749.99 zł · EAN: 05702017812922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76454 |
+| Nazwa angielska | Hogwarts Castle: The Main Tower |
+| Nazwa polska | Harry Potter 76454 Zamek Hogwart: Główna wieża |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2135 |
+| Cena katalogowa | 1079.99 zł |
+| Wymiary złożonego | wys. 67 cm × szer. 36 cm |
+| EAN | 5702017812922 |
 
 ✅ **Największa Główna Wieża Hogwartu** – imponujący model pełen kultowych miejsc i magicznych detali.
 
@@ -3496,11 +5214,27 @@ Po zbudowaniu model ma około **67 cm wysokości, 36 cm szerokości i 14 cm gł�
 - Stan: Fabrycznie nowy
 - Oficjalna polska dystrybucja
 
+**Galeria:**
+
+- 76454-1: https://a.allegroimg.com/original/291476/f4922aaf4c8abdee7e645f9f59af
+
 ---
 
-## 76457 — Lego Harry Potter 76457 Hogsmeade edycja kolekcjonerska
+## 76457 — Hogsmeade 3228 elementów kolekcjonerski
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 1329.00 zł · EAN: 05702017824314 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76457 |
+| Nazwa angielska | Hogsmeade Village – Collectors' Edition |
+| Nazwa polska | Hogsmeade 3228 elementów kolekcjonerski |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3228 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 33 cm × szer. 76 cm × gł. 14 cm |
+| EAN | 5702017824314 |
 
 **LEGO Harry Potter 76457 Hogsmeade - edycja kolekcjonerska**
  
@@ -3536,11 +5270,27 @@ Przywołaj wspomnienia magicznych zimowych scen w Hogsmeade dzięki temu spektak
 - Zestawy LEGO dla dorosłych - ten zestaw LEGO Harry Potter należy do serii wysokiej jakości zestawów konstrukcyjnych, które zostały stworzone z myślą o dorosłych uwielbiających relaksujące projekty 
 - Wymiary - cała ulica budynków w tym 3228-elementowym zestawie LEGO Harry Potter ma 33 cm wysokości, 76 cm szerokości i 14 cm głębokości
 
+**Galeria:**
+
+- 76457-1: https://a.allegroimg.com/original/112b75/92198295442691b1d264b20959c5
+
 ---
 
-## 76458 — Lego Harry Potter 76458 Rodzina testrali
+## 76458 — Rodzina testrali
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 225.49 zł · EAN: 05702017824819 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76458 |
+| Nazwa angielska | Thestral Family |
+| Nazwa polska | Rodzina testrali |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 548 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824819 |
 
 LEGO Harry Potter 76458
  
@@ -3560,19 +5310,49 @@ Prezent LEGO® Harry Potter™ dla dzieci — podaruj ten kolekcjonerski zestaw
  
 Buduj, baw się i ustawiaj na półce — figurka testrala do zbudowania w tym 548-elementowym zestawie ma 24 cm wysokości
 
+**Galeria:**
+
+- 76458-1: https://a.allegroimg.com/original/11ca77/953184f34b278077186ad6e3ee7c
+
 ---
 
-## 76459 — Lego Harry Potter Ucieczka Hagrida i Harry’ego z Privet Drive 76459
+## 76459 — LEGO Harry Potter 76459 Ucieczka Hagrida i Harry’ego z Privet Drive
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 59.48 zł · EAN: 05702018063361 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76459 |
+| Nazwa angielska | Hagrid & Harry's Privet Drive Escape |
+| Nazwa polska | LEGO Harry Potter 76459 Ucieczka Hagrida i Harry’ego z Privet Drive |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 124 |
+| Cena katalogowa | 81.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063361 |
 
 Przeżyj ponownie emocjonującą ucieczkę Hagrida™ i Harry'ego Pottera przed śmierciożercami z filmu Harry Potter i Insygnia Śmierci. Wznieś się w przestworza na latającym motocyklu Hagrida, z Harrym w koszu. Podczas brawurowej ucieczki przewróć doniczki na Privet Drive. Unikaj ścigających Cię śmierciożerców i udaj się do Nory!Motocykl LEGO Harry Potter — zabawka konstrukcyjna dla dzieci, nawiązująca do kultowej sceny ucieczki Hagrida i Harry'ego Pottera z filmu \"Harry Potter i Insygnia Śmierci\"Cztery minifigurki LEGO Harry Potter — dzieci mogą odgrywać historie z Harrym Potterem, Rubeusem Hagridem (w charakterystycznych goglach motocyklowych) i dwoma śmierciożercamiLatający LEGO motocykl Hagrida — dzieci mogą umieścić minifigurkę Rubeusa Hagrida na motocyklu LEGO i Harry'ego Pottera w koszu, a potem ustawić zbudowany zestaw na półce jako ozdobęUcieczka z Privet Drive — dzieci mogą zbudować minimodel ulicy Privet Drive z latarnią i dwiema doniczkami, które można przewrócić podczas ucieczki latającym motocyklem HagridaDrobny upominek dla 8-latka — mały zestaw klocków LEGO Harry Potter dla chłopców, dziewczynek i wszystkich fanów Harry'ego Pottera, świetnie sprawdzi się jako prezent na urodziny lub z innej okazjiCiekawy sposób na budowanie — aplikacja LEGO Builder poprowadzi dzieci przez intuicyjne budowanie. Mogą w niej zapisywać zestawy, śledzić postępy oraz przybliżać i obracać model motocykla dzięki trójwymiarowym instrukcjomCzęść szerokiej serii — kolekcjonerskie zestawy konstrukcyjne LEGO Harry Potter pozwalają młodym czarodziejom, czarownicom i mugolom odgrywać kultowe sceny, wymyślać własne przygody lub po prostu kolekcjonować modele
 
+**Galeria:**
+
+- 76459-1: https://a.allegroimg.com/original/05fe7a/7d57197a48eebf4d6471ffe31040
+
 ---
 
-## 76460 — Lego Harry Potter Zamek Hogwart: Ceremonia przydziału 76460
+## 76460 — LEGO Harry Potter Zamek Hogwart: Ceremonia przydziału 76460
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 44.99 zł · EAN: 05702018063378 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76460 |
+| Nazwa angielska | Hogwarts Castle: Sorting Hat Ceremony |
+| Nazwa polska | LEGO Harry Potter Zamek Hogwart: Ceremonia przydziału 76460 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 124 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063378 |
 
 **LEGO Harry Potter Zamek Hogwart: Ceremonia przydziału 76460**
 
@@ -3598,11 +5378,26 @@ Część serii modułowych zestawów, tworzących zamek Hogwart™ (sprzedawanyc
 
 Koło losujące w tym 124-elementowym zestawie ma 6 cm wysokości
 
+**Galeria:**
+
+- 76460-1: https://a.allegroimg.com/original/113de1/9f147e4647f5b670c45f35cb3857
+
 ---
 
-## 76461 — Lego Harry Potter 76461 Chochlik kornwalijski
+## 76461 — LEGO Harry Potter 76461 Chochlik kornwalijski
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 91.68 zł · EAN: 05702018063385 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76461 |
+| Nazwa angielska | Cornish Pixie |
+| Nazwa polska | LEGO Harry Potter 76461 Chochlik kornwalijski |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 320 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063385 |
 
 Rozpal iskrę dziecięcej wyobraźni pierwszym modelem LEGO® **Kornwalijskiego racha** (76461) z filmu Harry Potter i Komnata Tajemnic w skali 1:1. Ta **ruchoma **figurka doskonale nadaje się do zabawy i eksponowania i przypomina chaos, który spowodował profesor Zlatoslav Lockhart, gdy w ciągu godziny obrony przed czarną magią otworzył klatkę z „podstępną po diabłach bandą”.
 
@@ -3633,11 +5428,26 @@ Ten zestaw LEGO Harry Potter™ to magiczny prezent dla dziewczynek, chłopców 
  
 - Nadaje się dla dzieci od 8 lat
 
+**Galeria:**
+
+- 76461-1: https://a.allegroimg.com/original/2967c0/867ed92049dfa6fbb48f9a319f10
+
 ---
 
-## 76462 — Lego Harry Potter Herb Hogwartu 76462
+## 76462 — Herb Hogwartu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702018063392 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76462 |
+| Nazwa angielska | Hogwarts House Crest |
+| Nazwa polska | Herb Hogwartu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 545 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063392 |
 
 **LEGO Harry Potter Herb Hogwartu 76462**
 
@@ -3663,11 +5473,26 @@ Zestaw należy do serii kolekcjonerskich zestawów LEGO® Harry Potter™ (sprze
 
 Zbudowany z klocków herb Hogwartu mierzy 24 cm wysokości
 
+**Galeria:**
+
+- 76462-1: https://a.allegroimg.com/original/11be4c/90fc5379442eb9d26395150594bb
+
 ---
 
-## 76463 — Lego Harry Potter Zamek Hogwart: skrzydło szpitalne 76463
+## 76463 — LEGO Harry Potter Zamek Hogwart: skrzydło szpitalne 76463
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 315.99 zł · EAN: 05702018063408 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76463 |
+| Nazwa angielska | Hogwarts Castle: Hospital Wing |
+| Nazwa polska | LEGO Harry Potter Zamek Hogwart: skrzydło szpitalne 76463 |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 907 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063408 |
 
 **LEGO Harry Potter Zamek Hogwart: skrzydło szpitalne 76463**
 
@@ -3693,11 +5518,26 @@ Część serii modułowych zestawów, tworzących zamek Hogwart™ (sprzedawanyc
 
 Zestaw LEGO® Harry Potter™ składa się z 907 elementów i ma 38 cm wysokości
 
+**Galeria:**
+
+- 76463-1: https://a.allegroimg.com/original/11fcf9/c04ffad04f29aadb069c7c6ef013
+
 ---
 
-## 76464 — Lego Harry Potter 76464 Kociołek: Sekretna Sala Zajęć Z Eliksirów
+## 76464 — LEGO Harry Potter 76464 Kociołek: Sekretna sala zajęć z eliksirów
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 178.98 zł · EAN: 05702018063415 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76464 |
+| Nazwa angielska | Cauldron: Secret Potions Classroom |
+| Nazwa polska | LEGO Harry Potter 76464 Kociołek: Sekretna sala zajęć z eliksirów |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 652 |
+| Cena katalogowa | 259.99 zł |
+| Wymiary złożonego | wys. 20 cm × szer. 14 cm × gł. 13 cm |
+| EAN | 5702018063415 |
 
 Podaruj dzieciom magiczny zestaw LEGO® Harry Potter™ (76464) do zabawy i ekspozycji - magiczny kociołek z tajną klasą eliksirów w środku. Przesuń mieszadło, aby odsłonić wyrafinowaną salę lekcyjną ze zdejmowanymi ławkami, butelkami z eliksirami i składnikami z klocków LEGO. Zagraj na własną lekcję eliksirów w Hogwarcie z minifigurkami profesora Snape'a i Hermiony Granger. Znajdź patrona Hermiony w postaci wydry, który jest częścią kolekcji patronów do 25. Rocznica serii LEGO Harry Potter (zestawy sprzedawane oddzielnie) i 1 z 14 kolekcjonerskich portretów brodawek
 
@@ -3728,11 +5568,26 @@ Podaruj ten uniwersalny zestaw jako kreatywny prezent dziewczynom, chłopcom i f
  
 - Nadaje się dla dzieci od 10 lat
 
+**Galeria:**
+
+- 76464-1: https://a.allegroimg.com/original/11ab25/f9c2b2e748378a071e8276257b77
+
 ---
 
-## 76466 — Lego Harry Potter Kamień filozoficzny edycja kolekcjonerska 76466
+## 76466 — LEGO Harry Potter 76466 Kamień Filozoficzny – Edycja Kolekcjonerska
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 494.99 zł · EAN: 05702018063422 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76466 |
+| Nazwa angielska | Sorcerer's Stone – Collectors' Edition |
+| Nazwa polska | LEGO Harry Potter 76466 Kamień Filozoficzny – Edycja Kolekcjonerska |
+| Seria | Harry Potter |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1571 |
+| Cena katalogowa | 689.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063422 |
 
 **LEGO Harry Potter Kamień filozoficzny - edycja kolekcjonerska 76466**
 
@@ -3758,11 +5613,27 @@ Zestaw należy do kolekcji LEGO® dla dorosłych, którzy lubią kreatywne zadan
 
 Zestaw LEGO® Harry Potter™ składa się z 1571 elementów i ma 24 cm wysokości
 
+**Galeria:**
+
+- 76466-1: https://a.allegroimg.com/original/11a514/6ec0f5944b3eb22e228da2502d9a
+
 ---
 
-## 76467 — Lego Harry Potter Dom Luny Lovegood 76467
+## 76467 — Dom Luny Lovegood
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 289.99 zł · EAN: 05702018063439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76467 |
+| Nazwa angielska | Luna Lovegood's House |
+| Nazwa polska | Dom Luny Lovegood |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 764 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063439 |
 
 **LEGO Harry Potter Dom Luny Lovegood 76467**
 
@@ -3788,11 +5659,26 @@ Zestaw należy do serii kolekcjonerskich zestawów LEGO® Harry Potter™ (sprze
 
 Dom ma 29 cm wysokości
 
+**Galeria:**
+
+- 76467-1: https://a.allegroimg.com/original/11ee3e/658a016247a9b350563f61cd5989
+
 ---
 
-## 76469 — Lego Harry Potter 76469 Wolny skrzat Dobby
+## 76469 — Wolny skrzat Zgredek
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 95.78 zł · EAN: 05702018063446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76469 |
+| Nazwa angielska | Dobby the Free Elf |
+| Nazwa polska | Wolny skrzat Zgredek |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 379 |
+| Cena katalogowa | 144.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063446 |
 
 LEGO Harry Potter 76469 Wolny skrzat Zgredek
  
@@ -3816,11 +5702,27 @@ Ten zestaw klocków dla dzieci to magiczny prezent dla chłopców, dziewczynek i
 - CZARUJĄCE MODELE — zestawy LEGO® Harry Potter™ (sprzedawane oddzielnie) pozwalają fanom odtwarzać kultowe sceny, tworzyć nowe fantastyczne przygody lub po prostu eksponować szczegółowe modele jako ozdoby. 
 - WYMIARY — figurka Zgredka z tego 379-elementowego zestawu ma 18 cm wysokości, a model Stworka ma 15 cm wysokości. Modeli nie można zbudować jednocześnie.
 
+**Galeria:**
+
+- 76469-1: https://a.allegroimg.com/original/11f61c/9579c66542358b0390412dd6f88d
+
 ---
 
-## 76470 — Lego Harry Potter 76470 Latający samochód Ford Anglia
+## 76470 — Zaczarowany latający Ford Anglia
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 248.29 zł · EAN: 05702018063453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76470 |
+| Nazwa angielska | Enchanted Flying Ford Anglia |
+| Nazwa polska | Zaczarowany latający Ford Anglia |
+| Seria | Harry Potter |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 868 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 9 cm × szer. 10 cm |
+| EAN | 5702018063453 |
 
 Rozpal iskrę wyobraźni małych czarodziejów, czarownic i mugoli dzięki zestawowi magicznego latającego samochodu **Ford Anglia**™ (76470) rodziny Weasleyów do zabawy i na wystawę. Ten zestaw to świetny prezent dla chłopców, dziewczynek i fanów Harry'ego Pottera w wieku od 14 lat. Jest to najbardziej wyrafinowany model tego słynnego pojazdu z klocków LEGO® w historii.
  
@@ -3842,11 +5744,26 @@ Dzieci mogą budować pewnie dzięki aplikacji LEGO Builder, która pozwala im p
 - Liczba elementów: 868 
 - Nadaje się dla dzieci od 14 lat
 
+**Galeria:**
+
+- 76470-1: https://a.allegroimg.com/original/298624/a3ba75e04bc7bd650a4b51f218ce
+
 ---
 
-## 76471 — Lego Harry Potter 76471 Magiczne Sklepy Na Ulicy Śmiertelnego Nokturnu
+## 76471 — Magiczne sklepy na ulicy Śmiertelnego Nokturnu
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063460 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76471 |
+| Nazwa angielska | Knockturn Alley Wizarding Shops |
+| Nazwa polska | Magiczne sklepy na ulicy Śmiertelnego Nokturnu |
+| Seria | Harry Potter |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 788 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 19 cm × szer. 19 cm × gł. 7 cm |
+| EAN | 5702018063460 |
 
 **LEGO Harry Potter 76471 Magiczne sklepy na ulicy Śmiertelnego Nokturnu**
 
@@ -3872,11 +5789,26 @@ POŁĄCZ I ROZBUDUJ oba budynki można połączyć ze sobą łukiem oraz z innym
 
 WYMIARY sklep Borgina i Burkesa w tym 788-elementowym zestawie ma 19 cm wysokości, 19 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 76471-1: https://a.allegroimg.com/original/11280c/1833d50a47138df4c21d421969dd
+
 ---
 
-## 76473 — Lego Harry Potter 76473 Zamek Hogwart: Wschodnie skrzydło
+## 76473 — Zamek Hogwart: Wschodnie skrzydło
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 815.81 zł · EAN: 05702018063477 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76473 |
+| Nazwa angielska | Hogwarts Castle: East Wing |
+| Nazwa polska | Zamek Hogwart: Wschodnie skrzydło |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2164 |
+| Cena katalogowa | 1079.99 zł |
+| Wymiary złożonego | wys. 42 cm × szer. 32 cm × gł. 40 cm |
+| EAN | 5702018063477 |
 
 LEGO Harry Potter 76473 Zamek Hogwart: Wschodnie skrzydło
 
@@ -3898,11 +5830,26 @@ Możesz połączyć siły z przyjaciółmi i rodziną w trybie „Wspólne budow
 - Zbieraj i łącz — magiczny zestaw jest częścią kolekcji modułowych zestawów (sprzedawanych oddzielnie), które razem tworzą najbardziej szczegółową scenkę z zamkiem Hogwart™ zbudowaną z klocków w historii.
 - Wymiary — model Wschodniego skrzydła w tym 2164-elementowym zestawie konstrukcyjnym ma 42 cm wysokości, 32 cm szerokości i 40 cm głębokości i stanowi czarującą dekorację z motywem Harry’ego Pottera™.
 
+**Galeria:**
+
+- 76473-1: https://a.allegroimg.com/original/11cafa/b81575f841e0ad3e0b8c6590a76a
+
 ---
 
-## 76474 — Lego Harry Potter 76474 Zielnik W Hogwarcie
+## 76474 — Rośliny z lekcji zielarstwa w Hogwarcie
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 279.00 zł · EAN: 05702018063484 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76474 |
+| Nazwa angielska | Hogwarts Herbology Plants |
+| Nazwa polska | Rośliny z lekcji zielarstwa w Hogwarcie |
+| Seria | Harry Potter |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 817 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | wys. 24 cm × szer. 11 cm × gł. 9 cm |
+| EAN | 5702018063484 |
 
 LEGO Harry Potter 76474 Rośliny z lekcji zielarstwa w Hogwarcie
 
@@ -3928,11 +5875,26 @@ ODKRYJ CAŁĄ SERIĘ zestawy konstrukcyjne LEGO Harry Potter (sprzedawane oddzie
 
 WYMIARY ten 817-elementowy zestaw z mimbulusem mimbletonią na stole ma 24 cm wysokości, 11 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 76474-1: https://a.allegroimg.com/original/11cba1/058d46834743b459aa96694644ab
+
 ---
 
-## 76475 — Lego Harry Potter 76475 Zakazany Las: Expecto Patronum
+## 76475 — Zakazany Las: Expecto Patronum
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 81.43 zł · EAN: 05702018062449 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76475 |
+| Nazwa angielska | Forbidden Forest: Expecto Patronum |
+| Nazwa polska | Zakazany Las: Expecto Patronum |
+| Seria | Harry Potter |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 244 |
+| Cena katalogowa | 124.99 zł |
+| Wymiary złożonego | wys. 13 cm × szer. 20 cm × gł. 9 cm |
+| EAN | 5702018062449 |
 
 LEGO Harry Potter 76475 Zakazany Las: Expecto Patronum
  
@@ -3954,11 +5916,26 @@ Dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, 
 - ODKRYJ SZEROKĄ OFERTĘ — kolekcjonerskie zestawy konstrukcyjne LEGO® Harry Potter™ (sprzedawane oddzielnie) pozwalają fanom odgrywać kultowe sceny, wymyślać własne czarujące przygody lub po prostu kolekcjonować szczegółowe modele. 
 - WYMIARY — ten 244-elementowy zestaw LEGO® ma 13 cm wysokości, 20 cm szerokości i 9 cm głębokości.
 
+**Galeria:**
+
+- 76475-1: https://a.allegroimg.com/original/11c1e9/a49819b4479d93441e2cd9234d8e
+
 ---
 
-## 76477 — Lego Harry Potter Norbert: mały smok Hagrida 76477
+## 76477 — Norbert: mały smok Hagrida
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 189.99 zł · EAN: 05702018069004 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76477 |
+| Nazwa angielska | Norbert: Hagrid's Baby Dragon |
+| Nazwa polska | Norbert: mały smok Hagrida |
+| Seria | Harry Potter |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 482 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069004 |
 
 **LEGO Harry Potter Norbert: mały smok Hagrida 76477**
 
@@ -3982,11 +5959,26 @@ Zestaw należy do serii zestawów LEGO® Harry Potter™ (sprzedawanych oddzieln
 
 Ten model smoka ma 32 cm długości
 
+**Galeria:**
+
+- 76477-1: https://a.allegroimg.com/original/116ef0/ac5977b94c439da7c8b05c911607
+
 ---
 
-## 76478 — Lego Harry Potter 76478 Book nook: Gabinet Dumbledore’a
+## 76478 — Book nook: Gabinet Dumbledore'a
 
-*Kategoria: Harry Potter · cena Allegro (2026-08-17): 649.41 zł · EAN: 05702018069011 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 76478 |
+| Nazwa angielska | Book Nook: Dumbledore's Office |
+| Nazwa polska | Book nook: Gabinet Dumbledore'a |
+| Seria | Harry Potter |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1182 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 17 cm × szer. 12 cm × gł. 20 cm |
+| EAN | 5702018069011 |
 
 LEGO Harry Potter 76478 Book nook: Gabinet Dumbledore’a
  
@@ -4007,6 +5999,10 @@ Dzięki aplikacji LEGO Builder, w której można powiększać i obracać model, 
 - Wymiary — ten 1182-elementowy model zamku ma 17 cm wysokości, 12 cm szerokości i 20 cm głębokości po zamknięciu oraz 45 cm szerokości i 12 cm głębokości po otwarciu. 
 
 MM
+
+**Galeria:**
+
+- 76478-1: https://a.allegroimg.com/original/113531/949ffc694a5c80dcc3eb3d52f00e
 
 ---
 

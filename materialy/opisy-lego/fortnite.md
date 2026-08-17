@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Fortnite — opisy produktowe (12 pozycji)
 
-## 77070 — Lego Durrr Burgerownia 77070
+## 77070 — Durr Burgerownia
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 47.96 zł · EAN: 05702017590400 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77070 |
+| Nazwa angielska | Durrr Burger |
+| Nazwa polska | Durr Burgerownia |
+| Seria | Fortnite |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 8 cm × gł. 9 cm |
+| EAN | 5702017590400 |
 
 LEGO DURRR BURGEROWNIA 77070
 
@@ -45,11 +55,26 @@ Dzięki stabilnej konstrukcji i kompaktowym wymiarom, gotowa Durrr Burgerownia p
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017590400
 
+**Galeria:**
+
+- 77070-1: https://a.allegroimg.com/original/119785/52dc721e4b7e8470ccf86c0383c6
+
 ---
 
-## 77071 — Lego Fortnite 77071 Lama Zaopatrzeniowa
+## 77071 — Lego 77071 Lama Zaopatrzeniowa
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 117.98 zł · EAN: 05702017590998 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77071 |
+| Nazwa angielska | Supply Llama |
+| Nazwa polska | Lego 77071 Lama Zaopatrzeniowa |
+| Seria | Fortnite |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 691 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017590998 |
 
 Zestaw **LEGO® Fortnite Lama Zaopatrzeniowa (77071)** to doskonała propozycja dla graczy w wieku od 12 lat, którzy chcą przenieść przygody z gry **Fortnite** do rzeczywistego świata. Zestaw ten jest inspirowany kultową postacią lamy zaopatrzeniowej z gry Fortnite, którą fani dobrze znają i cenią. Dzięki temu zestawowi, młodzi gracze będą mogli zbudować niesamowity model lamy, który dostarcza wiele frajdy zarówno podczas budowy, jak i późniejszej zabawy.
 
@@ -74,11 +99,26 @@ Lama zaopatrzeniowa z LEGO Fortnite wyróżnia się szczegółami, które inspir
  
 Ten zestaw LEGO Fortnite jest idealnym prezentem dla dzieci, które uwielbiają gry wideo, jak również dla dorosłych fanów Fortnite. **Lama Zaopatrzeniowa** to zarówno zabawka, jak i kolekcjonerski element dekoracyjny, który z pewnością stanie się cennym dodatkiem do każdej kolekcji.
 
+**Galeria:**
+
+- 77071-1: https://a.allegroimg.com/original/119714/3adfaa834480a4a9b6ca2a8ae8c0
+
 ---
 
-## 77072 — Lego Fortnite Skórkościec 77072
+## 77072 — Fortnite 77072 Skórkościec
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702017591001 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77072 |
+| Nazwa angielska | Peely Bone |
+| Nazwa polska | Fortnite 77072 Skórkościec |
+| Seria | Fortnite |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1414 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591001 |
 
 Zestaw **LEGO® Fortnite Skórkościec (77072)** to idealna propozycja dla dorosłych fanów gry **Fortnite** oraz miłośników klocków LEGO. Skórkościec to wyjątkowy model inspirowany popularnym strojem banana, który występuje w grze i teraz można go zbudować z klocków LEGO.
 
@@ -100,11 +140,26 @@ Po zakończeniu budowy, figurka Skórkościec staje się ozdobą, którą można
  
 **LEGO® Skórkościec (77072)** to nie tylko zabawa, ale także doskonała ozdoba, która spodoba się każdemu fanowi Fortnite.
 
+**Galeria:**
+
+- 77072-1: https://a.allegroimg.com/original/11082f/9424b87b4814900d4cac3f4843bf
+
 ---
 
-## 77073 — Lego 77073 Fortnite Bus Bojowy
+## 77073 — Bus Bojowy
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 299.99 zł · EAN: 05702017591018 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77073 |
+| Nazwa angielska | Battle Bus |
+| Nazwa polska | Bus Bojowy |
+| Seria | Fortnite |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 954 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591018, 5702017822761 |
 
 Przygotuj się na podróż do niesamowitego świata LEGO® Fortnite! Zbuduj niesamowity Bus Bojowy, a potem wyrusz nim na przejażdżkę! Inspirowany pojazdem z gry wideo bus ma obracające się koła, zdejmowany dach i fajny balon na ogrzane powietrze! Jestpełen ekscytujących detali, takich jak sok Siorb, przysysak, kilofy i Kleposok, a także zawiera dziewięć minifigurek w ulubionych strojach!
 
@@ -130,11 +185,27 @@ Rozpal wyobraźnię fanów w wieku od 10 lat dzięki zestawowi **LEGO® Fortnite
 
 • Wymiary — bus w tym 954-elementowym zestawie ma 28 cm wysokości, 28 cm długości i 13 cm
 
+**Galeria:**
+
+- 77073-1: https://a.allegroimg.com/original/11b87a/f4dacb2d40c6b0e1885129608f8f
+- 77073-2: https://a.allegroimg.com/original/11fe80/54f0aec14640b7b179e7fb46a7a3
+
 ---
 
-## 77075 — Lego Fortnite Skórek i Iskra oraz obóz 77075
+## 77075 — LEGO Fortnite 77075 Peely i Sparkplug oraz ich pole namiotowe
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 53.98 zł · EAN: 05702017824307 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77075 |
+| Nazwa angielska | Peely & Sparkplug's Camp |
+| Nazwa polska | LEGO Fortnite 77075 Peely i Sparkplug oraz ich pole namiotowe |
+| Seria | Fortnite |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824307 |
 
 LEGO Fortnite Skórek i Iskra oraz obóz 77075
 
@@ -171,11 +242,26 @@ Po zbudowaniu model stanie się kolekcjonerskim eksponatem, który dzieci mogą 
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017824307
 
+**Galeria:**
+
+- 77075-1: https://a.allegroimg.com/original/11a5ab/c5160ad4487dbccb371eedd446e0
+
 ---
 
-## 77076 — Outlet Lego Fortnite 77076 Restauracja Durrr Burgerownia Outlet Zdjęcia
+## 77076 — Fortnite 77076 Durrr Burger Restaurant
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 176.99 zł · EAN: 05702017824291 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77076 |
+| Nazwa angielska | Durrr Burger Restaurant |
+| Nazwa polska | Fortnite 77076 Durrr Burger Restaurant |
+| Seria | Fortnite |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 546 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824291 |
 
 UWAGA! ZESTAW OUTLET! PROSZĘ SPRAWDZIĆ ZDJĘCIA!
 
@@ -185,11 +271,26 @@ Zestaw inspirowany grą LEGO Fortnite umożliwia fanom zbudowanie modelu burgera
 
 Po zbudowaniu model stanie się kolekcjonerskim eksponatem, który dzieci mogą z dumą prezentować w swojej sypialni lub pokoju gier. To świetny prezent dla dzieci, które kochają gry i fanów Fortnite w każdym wieku. Z pewnością stanie się cennym elementem wystroju w stylu LEGO, który będzie cieszyć oko w każdym pomieszczeniu.
 
+**Galeria:**
+
+- 77076-1: https://a.allegroimg.com/original/29f643/301725e0432daffeb10ebd61581a
+
 ---
 
-## 77077 — Lego 77077 Fortnite Klombo
+## 77077 — Fortnite 77077 Tłukący
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 285.99 zł · EAN: 05702017824284 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77077 |
+| Nazwa angielska | Klombo |
+| Nazwa polska | Fortnite 77077 Tłukący |
+| Seria | Fortnite |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1084 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824284 |
 
 LEGO Fortnite - Klombo 77077
 
@@ -217,21 +318,51 @@ Fajny prezent dla graczy w każdym wieku — ten ciekawy zestaw z klombo zawiera
 - Odkryj zestawy LEGO Fortnite — odblokuj nowe poziomy kreatywności dzięki naszej kolekcji zestawów LEGO Fortnite (sprzedawanych osobno) i przenieś rozgrywkę z ekranu do prawdziwego świata
 - Rozmiary — zestaw składa się z 1084 elementów, a figurka klombo ma 14 cm wysokości
 
+**Galeria:**
+
+- 77077-1: https://a.allegroimg.com/original/11bc2c/60d78c844cfcbe46a461490bfd6d
+
 ---
 
-## 77078 — Lego Fortnite Dowódca Drużyny Mechów 77078
+## 77078 — Fortnite 77078 Lider zespołu mechów
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 754.00 zł · EAN: 05702017824277 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77078 |
+| Nazwa angielska | Mecha Team Leader |
+| Nazwa polska | Fortnite 77078 Lider zespołu mechów |
+| Seria | Fortnite |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2503 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824277 |
 
 Dowódca Drużyny Mechów
 
 Fortnite® LEGO Fortnite Dowódca Drużyny Mechów, zestaw konstrukcyjny dla dorosłych, figurka kolekcjonerska z gry wideo, pomysł na prezent dla gracza, dekoracje do pokoju gamingowego dla mężczyzn i kobiet 77078 battle mech robot skórka skin do zbudowania pancerz bojowy do gry kolekcjonerski robot geek prezent zabawka gift gaming upominek niespodzianka banan bus bojowy durrr burgerownia lama zaopatrzeniowa nastolatki dziewczyna chłopiec 18 urodziny Mecha Team Leader LEGO® Fortnite® Dowódca Drużyny Mechów Zestaw LEGO® Fortnite® Dowódca Drużyny Mechów 77078 Zbuduj kolekcjonerską figurkę postaci z gry dzięki zestawowi dla dorosłych LEGO® Fortnite® Dowódca Drużyny Mechów z minifigurką. Stwórz kolekcjonerską figurkę dla dorosłych Zachwyć graczy zestawem da dorosłych LEGO® Fortnite® Dowódca Drużyny Mechów (77078). Pełna fajnych detali, kolekcjonerska figurka inspirowana grą będzie cieszyła fanów przez długi, długi czas.Ciesz się wciągającym projektem, budując figurkę mecha inspirowanego kultową postacią robota, który uratował wyspę w Fortnite Battle Royale — Rozdział 1. Można ją ustawiać w różnych pozycjach dzięki ruchomym biodrom, rękom, stopom i głowie. W zestawie znajduje się też miecz i minifigurka tej postaci, którą można umieścić w kokpicie w tułowiu robota.Figurka będzie niesamowitą ozdobą, która z pewnością zrobi wrażenie na gościach, a także świetnym pomysłem na prezent dla graczy i fanów LEGO Fortnite. Ponadto ten zestaw zawiera cyfrowe bonusy: dwa stroje Dowódcy Drużyny Mechów i dwa stroje Mroku Drużyny Mechów, które można otrzymać w grach LEGO Fortnite i Fortnite, dzięki czemu zabawa trwa długo po ukończeniu tego modelu. Zestaw zawiera 2503 elementy. Wkrocz do świata LEGO® Fortnite® i zbuduj kultową postać z gry dzięki temu zestawowi konstrukcyjnemu dla dorosłych LEGO Fortnite Dowódca Drużyny Mechów. To wciągający projekt pełen szczegółów, które zachwycą graczy podczas budowania i odkrywania elementów robota. Postać ma ruchome elementy, miecz i minifigurkę Dowódcy Drużyny Mechów, która zasiada w kokpicie w tułowiu figurki. • Figurka LEGO® Fortnite® — stwórz kolekcjonerską figurkę z gry dzięki temu zestawowi dla dorosłych LEGO Fortnite Dowódca Drużyny Mechów • Figurka do zbudowania — figurka mecha z gry wideo jest pełna szczegółów i można ją ustawić w różnych pozach dzięki ruchomym biodrom, rękom, stopom i głowie. Całość uzupełnia miecz • Kolekcjonerska minifigurka — zestaw zawiera minifigurkę, którą można umieścić w kokpicie w tułowiu mecha • Cyfrowy bonus — ten zestaw kolekcjonerski zawiera bonusowe przedmioty cyfrowe: dwa stroje Dowódcy Drużyny Mechów i dwa stroje Mroku Drużyny Mechów, które można otrzymać w grach LEGO® Fortnite® i Fortnite • Pomysł na prezent dla graczy — podaruj ten zestaw do zbudowania mężczyznom i kobietom, którzy uwielbiają gry, LEGO® Fortnite® i kolekcjonerskie modele • Stwórz kolekcjonerską figurkę z gry dzięki zestawowi LEGO® Fortnite® Dowódca Drużyny Mechów • Figurka mecha ma wiele ruchomych elementów i jest wyposażona w miecz • Zawiera minifigurkę, która mieści się w kokpicie w tułowiu figurki • W grach LEGO® Fortnite® i Fortnite można odebrać dwa cyfrowe przedmioty bonusowe • Pomysł na prezent dla graczy oraz mężczyzn i kobiet, którzy lubią modele kolekcjonerskie • Przybliżaj i obracaj model oraz śledź postępy w aplikacji LEGO® Builder • Rozwiń swoją kreatywność dzięki zestawom LEGO® Fortnite® (sprzedawanym osobno)
 
+**Galeria:**
+
+- 77078-1: https://a.allegroimg.com/original/05ca48/75ae1ec34d43b4bf65d0361162d5
+
 ---
 
-## 77079 — Lego Fortnite 77079 Tomatohead
+## 77079 — Pomidorek
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 41.99 zł · EAN: 05702018063880 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77079 |
+| Nazwa angielska | Tomatohead |
+| Nazwa polska | Pomidorek |
+| Seria | Fortnite |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 210 |
+| Cena katalogowa | 61.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 8 cm × gł. 7 cm |
+| EAN | 5702018063880 |
 
 LEGO Fortnite 77079 Pomidorek
  
@@ -255,11 +386,26 @@ Modele kolekcjonerskie LEGO® Fortnite® — uzupełnij swoją gamingową kolekc
  
 Wymiary — ten 210-elementowy zestaw ma 8 cm wysokości, 8 cm szerokości i 7 cm głębokości.
 
+**Galeria:**
+
+- 77079-1: https://a.allegroimg.com/original/110811/a35b9f4f4ad091d00413d6ce29d1
+
 ---
 
-## 77080 — Lego Fortnite 77080 Zrzut zapasów
+## 77080 — Zrzut zaopatrzenia
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 112.98 zł · EAN: 05702018063897 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77080 |
+| Nazwa angielska | Supply Drop |
+| Nazwa polska | Zrzut zaopatrzenia |
+| Seria | Fortnite |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 314 |
+| Cena katalogowa | 169.99 zł |
+| Wymiary złożonego | wys. 28 cm × szer. 16 cm × gł. 14 cm |
+| EAN | 5702018063897 |
 
 LEGO Fortnite 77080 Zrzut zaopatrzenia
  
@@ -281,11 +427,26 @@ Zestaw stanowi doskonały prezent urodzinowy lub świąteczny dla chłopców, dz
 - Zestawy LEGO® Fortnite® — uzupełnij swoją kolekcję o inne zestawy konstrukcyjne dla graczy z serii (sprzedawane oddzielnie). 
 - Wymiary — ten 314-elementowy zestaw ma 28 cm wysokości, 16 cm szerokości i 14 cm głębokości.
 
+**Galeria:**
+
+- 77080-1: https://a.allegroimg.com/original/116162/2f9b0c7741d684d1787c7280aebf
+
 ---
 
-## 77081 — Lego Fortnite 77081 Zestaw
+## 77081 — Kitek
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 282.98 zł · EAN: 05702018063866 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77081 |
+| Nazwa angielska | KIT |
+| Nazwa polska | Kitek |
+| Seria | Fortnite |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1230 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018063866 |
 
 LEGO Fortnite 77081 Kitek
  
@@ -307,11 +468,26 @@ Zestaw zawiera dodatkowy przedmiot w grze: strój Kasiuni Kociuni, który fani m
 - Zestawy LEGO® Fortnite® — uzupełnij swoją kolekcję o inne zestawy konstrukcyjne dla graczy z serii LEGO Fortnite (sprzedawane oddzielnie). 
 - Wymiary — figurka mecha składająca się się z 1230 elementów ma 36 cm wysokości.
 
+**Galeria:**
+
+- 77081-1: https://a.allegroimg.com/original/11eb2d/428d064947159eb6d71bd7085bde
+
 ---
 
-## 77082 — Lego Fortnite 77082 Jaskinia Ubawu
+## 77082 — Jaskinia Ubawu
 
-*Kategoria: Fortnite · cena Allegro (2026-08-17): 673.13 zł · EAN: 05702018063903 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 77082 |
+| Nazwa angielska | Rave Cave |
+| Nazwa polska | Jaskinia Ubawu |
+| Seria | Fortnite |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1963 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | wys. 39 cm × szer. 50 cm × gł. 25 cm |
+| EAN | 5702018063903 |
 
 LEGO Fortnite 77082 Jaskinia Ubawu
 
@@ -330,6 +506,10 @@ Zestaw świetnie nadaje się jako prezent na urodziny lub święta. W zestawie z
 - Dodatkowy element w grze — instrukcje są dostępne w aplikacji LEGO® Builder, a zestaw zawiera dodatkowy element w grze: skórkę Dowódczyni Drużyny Przytulanek, którą można odebrać w grze LEGO Fortnite®.
 - Więcej zestawów LEGO® Fortnite® — uzupełnij swoją kolekcję o inne zestawy konstrukcyjne dla graczy z tej serii (sprzedawane oddzielnie).
 - Wymiary — ten 1963-elementowy zestaw ma 39 cm wysokości, 50 cm szerokości i 25 cm głębokości.
+
+**Galeria:**
+
+- 77082-1: https://a.allegroimg.com/original/11c2fa/c6076e724ca8a2bdbe4d2f5563c3
 
 ---
 

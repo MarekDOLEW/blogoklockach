@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Bricklink — opisy produktowe (36 pozycji)
 
-## 910001 — Klocki Lego Bricklink Zestaw Castle in the Forrest Zamek w Lesie 910001
+## 910001 — Zamek w lesie
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2699.00 zł · EAN: 05702017234335 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910001 |
+| Nazwa angielska | Castle in the Forest |
+| Nazwa polska | Zamek w lesie |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1957 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017234335 |
 
 LEGO Płytka 32x32 krzyżówka 44343px3 szara ciemna
  
@@ -28,11 +38,26 @@ O produkcie:
  
 LEGO Płytka 32x32 krzyżówka 44343px3 szara ciemna to niezbędny element do budowania różnorodnych konstrukcji w świecie LEGO City. Płytka w kolorze szarym, z serii Bricklink, jest przeznaczona dla dzieci w wieku 6 lat i więcej. Zestaw Zamek w lesie to tylko jedna z wielu możliwości wykorzystania płytki. Liczba elementów, wynosząca 1928, zapewnia długie godziny zabawy i kreatywności. Marka LEGO jest znana z jakości i trwałości swoich produktów, a certyfikat CE potwierdza bezpieczeństwo zabawy. LEGO Płytka 32x32 krzyżówka 44343px3 szara ciemna pozwala na rozwijanie wyobraźni i umiejętności konstrukcyjnych u dzieci obu płci.
 
+**Galeria:**
+
+- 910001-1: https://a.allegroimg.com/original/114bf2/c6d5532343c8a547c4784022524c
+
 ---
 
-## 910002 — Klocki Lego Bricklink Zestaw Dworzec kolejowy Studgate 910002
+## 910002 — BrickLink - Dworzec kolejowy Studgate
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 3149.00 zł · EAN: 05702017444512 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910002 |
+| Nazwa angielska | Studgate Train Station |
+| Nazwa polska | BrickLink - Dworzec kolejowy Studgate |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 4076 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017444512 |
 
 LEGO® BrickLink - Dworzec kolejowy Studgate
  
@@ -59,11 +84,26 @@ Krawędzie peronów można dostosować do potrzeb innych większych pociągów d
  
 Wśród 11 postaci, które nam towarzyszą, znajdziesz między innymi: zawiadowcę stacji, dwóch maszynistów, kierownika budki z hot dogami, dziewczynę na wózku inwalidzkim i kilku innych podróżników.
 
+**Galeria:**
+
+- 910002-1: https://a.allegroimg.com/original/11ab3c/496179f54602b8c62496f2bc3ea5
+
 ---
 
-## 910003 — Lego 910003 BrickLink Designer Program Górski wiatrak
+## 910003 — Mountain Windmill
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 898.99 zł · EAN: 05702017255439 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910003 |
+| Nazwa angielska | Mountain Windmill |
+| Nazwa polska | Mountain Windmill |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2086 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017255439 |
 
 Klocki LEGO BrickLink Designer Program 910003 - Górski wiatrak
 
@@ -83,11 +123,26 @@ Zestaw LEGO BrickLink Designer Program - Górski wiatrak trafił do sprzedaży
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 910003-1: https://a.allegroimg.com/original/11ecad/769149864e859c71ddeb90f72ae9
+
 ---
 
-## 910004 — Lego 910004 BrickLink Zimowy domek Unikat
+## 910004 — BrickLink - Zimowy domek
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1099.00 zł · EAN: 05702017444321 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910004 |
+| Nazwa angielska | Winter Chalet |
+| Nazwa polska | BrickLink - Zimowy domek |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2706 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017444321 |
 
 LEGO® BrickLink - Zimowy domek
  
@@ -112,11 +167,26 @@ Crimson_Brick
 
 **Pudełko zostanie starannie zabezpieczone i zapakowane w opakowanie zbiorcze z odpowiednią ilością wypełniaczy, które pomogą dotrzeć paczce do celu bez uszkodzeń.**
 
+**Galeria:**
+
+- 910004-1: https://a.allegroimg.com/original/11dbc0/5dc9073a4f929b2edd1d90b43c94
+
 ---
 
-## 910008 — Zestaw klocków Lego BrickLink Plac budowy 3374 elementy 5 minifigurek
+## 910008 — BrickLink - Plac budowy - zestaw modułowy
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 3449.00 zł · EAN: 05702017443935 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910008 |
+| Nazwa angielska | Modular Construction Site |
+| Nazwa polska | BrickLink - Plac budowy - zestaw modułowy |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 3374 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017443935 |
 
 **Zależy nam, aby każdy zestaw trafił do Państwa w idealnym stanie, dlatego też zwracamy szczególną uwagę na sposób jego zabezpieczenia.**
 
@@ -135,11 +205,26 @@ Plac budowy - zestaw modułowy
 - Pudełko w stanie idealnym. 
 - Pudełko zostanie starannie zabezpieczone i zapakowane w opakowanie zbiorcze z odpowiednią ilością wypełniaczy, które pomogą dotrzeć paczce do celu bez uszkodzeń.
 
+**Galeria:**
+
+- 910008-1: https://a.allegroimg.com/original/118afa/f1eef8ac47c2b603a8bca017d0a3
+
 ---
 
-## 910009 — Klocki Lego BrickLink Designer Program Zestaw Modułowy sklep Lego 910009
+## 910009 — Modular Lego Store
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2799.00 zł · EAN: 05702017255446 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910009 |
+| Nazwa angielska | Modular LEGO Store |
+| Nazwa polska | Modular Lego Store |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2149 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017255446 |
 
 **Klocki LEGO BrickLink Designer Program Zestaw Modułowy sklep LEGO 910009!**
 
@@ -182,11 +267,26 @@ Przedstawiamy niezwykle rzadki i kolekcjonerski zestaw, który powstał dzięki 
 
 **Nie przegap tej wyjątkowej okazji, aby stać się właścicielem rzadkiego i kolekcjonerskiego zestawu LEGO BrickLink Designer Program - Modułowy sklep LEGO 910009! Dodaj ten unikatowy element do swojej kolekcji już dziś!**
 
+**Galeria:**
+
+- 910009-1: https://a.allegroimg.com/original/11573d/ce68aafd4e21b0b4bdf9294573ab
+
 ---
 
-## 910010 — Lego Ideas 910010 BrickLink Duży kuter rybacki Great Fishing Boat
+## 910010 — Duży kuter rybacki
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1149.99 zł · EAN: 05702017234366 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910010 |
+| Nazwa angielska | Great Fishing Boat |
+| Nazwa polska | Duży kuter rybacki |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1609 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017234366 |
 
 LEGO 910010 Bricklink Great Fishing Boat
  
@@ -207,11 +307,26 @@ Swobodna zabawa w dekorowanie
  
 Do zestawu dołączony jest magazyn z mnóstwem kreatywnych inspiracji, instrukcje budowania różnych ozdób do domu oraz instrukcje składania pięciu zabawek DOTS prezentowanych w magazynie: organizera na biurko, dwupoziomowych szufladek, tablicy na notatki do powieszenia na ścianę, ramki na zdjęcia oraz niewielkiej tacki. N
 
+**Galeria:**
+
+- 910010-1: https://a.allegroimg.com/original/112cfe/ea9f64734f01b4903f273306fe5b
+
 ---
 
-## 910013 — 910013 Lego Retro Bowling Alley Bricklink
+## 910013 — 910013 LEGO Retro Bowling Alley Bricklink
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1849.99 zł · EAN: 05702017254579 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910013 |
+| Nazwa angielska | Retro Bowling Alley |
+| Nazwa polska | 910013 LEGO Retro Bowling Alley Bricklink |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2779 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017254579 |
 
 Klocki LEGO BrickLink 910013 - Starodawna kręgielnia NOWE
  
@@ -223,11 +338,26 @@ Bardzo poważnie podchodzimy do zadowolenia klientów dlatego priorytetem jest z
  
 Samo pudełko z klockami także zabezpieczamy folią przed spakowaniem.
 
+**Galeria:**
+
+- 910013-1: https://a.allegroimg.com/original/112ded/bf9427a64a5fb0397ae195c58091
+
 ---
 
-## 910015 — Klocki Lego Bricklink Zestaw Nakręcane Akwarium 910015
+## 910015 — Nakręcane Akwarium
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 668.99 zł · EAN: 05702017267906 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910015 |
+| Nazwa angielska | Clockwork Aquarium |
+| Nazwa polska | Nakręcane Akwarium |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 874 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017267906 |
 
 Klocki LEGO BrickLink 910015 - Nakręcane akwarium
  
@@ -253,11 +383,26 @@ WIEK: 18+
 
 ⭐ Golden Brick
 
+**Galeria:**
+
+- 910015-1: https://a.allegroimg.com/original/11543c/510fac1b4b83ad0426fd64ba1902
+
 ---
 
-## 910016 — Lego Bricklink 910016 Sejf szeryfa
+## 910016 — Sejf szeryfa
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 699.00 zł · EAN: 05702017234472 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910016 |
+| Nazwa angielska | Sheriff's Safe |
+| Nazwa polska | Sejf szeryfa |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017234472 |
 
 Lego 910016 BrickLink - Sejf szeryfa
 
@@ -273,11 +418,26 @@ Każdy z tych zestawów jest niepowtarzalny i posiada numer seryjny potwierdzaj�
 
 Przybliżone wymiary opakowania: 38 x 26 x 9 cm
 
+**Galeria:**
+
+- 910016-1: https://a.allegroimg.com/original/11e965/474b155d41a5b8e5feb6671a3d8b
+
 ---
 
-## 910017 — Lego 910017 BrickLink Designer Program Kakapo
+## 910017 — Kakapo
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702017234489 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910017 |
+| Nazwa angielska | Kakapo |
+| Nazwa polska | Kakapo |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1063 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017234489 |
 
 - **Oryginalne, nienaruszone opakowanie**
 
@@ -287,11 +447,26 @@ Model przedstawia rzadką i zagrożoną wyginięciem nielotną papugę – kakap
 
 - **Wymiary elementu dł. x szer. x wys:** 28,3 x 25,9 x 7,2 cm;
 
+**Galeria:**
+
+- 910017-1: https://a.allegroimg.com/original/11f7be/5fe28929419397084bec404a507c
+
 ---
 
-## 910029 — Lego 910029 BrickLink Górska twierdza kolekcjonerski Castle
+## 910029 — Górska Twierdza
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2777.77 zł · EAN: 05702017595290 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910029 |
+| Nazwa angielska | Mountain Fortress |
+| Nazwa polska | Górska Twierdza |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 3995 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017595290 |
 
 **Bricklink Designer Program**
 
@@ -311,11 +486,26 @@ Zestaw jest oczywiście hołdem dla wspaniałych zestawów Black Falcons z przes
  
 Wiedząc, że zamek Czarnych Sokołów jest niezwykle popularnym motywem wśród twórców MOC, chciałem, aby mój projekt się wyróżniał. Biorąc pod uwagę, że czarno-niebieskie barwy Black Falcons nie przyciągają uwagi tak jak czerwono-żółte barwy Lion Knights, pomyślałem, że można to zamienić w zaletę. Kolory te przywodzą na myśl ciemne, skaliste i zimne krajobrazy Północy. Pomyślałem więc, że surowa zimowa sceneria doskonale podkreśli charakter tej frakcji.
 
+**Galeria:**
+
+- 910029-1: https://a.allegroimg.com/original/114852/c34e743e45eb94e9e4792921da36
+
 ---
 
-## 910030 — Lego 910030 BrickLink Designer Program Budka z przekąskami
+## 910030 — Snack Shack
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 299.00 zł · EAN: 05702017594507 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910030 |
+| Nazwa angielska | Snack Shack |
+| Nazwa polska | Snack Shack |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 539 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017594507 |
 
 LEGO® BrickLink - Budka z przekąskami
  
@@ -339,11 +529,26 @@ WIEK: 18+
 
 Crimson_Brick
 
+**Galeria:**
+
+- 910030-1: https://a.allegroimg.com/original/11b6e7/1856cfbc40d584c68139c59d13bb
+
 ---
 
-## 910031 — Lego Bricklink 910031 Sklep Wielobranżowy
+## 910031 — Sklep Wielobranżowy
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702017594514 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910031 |
+| Nazwa angielska | General Store |
+| Nazwa polska | Sklep Wielobranżowy |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1906 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017594514 |
 
 **NUMER KATALOGOWY: 910031**
  
@@ -366,11 +571,26 @@ Crimson_Brick
 - BLDP to inicjatywa organizowana przez serwis BrickLink, który jest własnością grupy LEGO® 
 - W ramach najnowszej odsłony BDLP to projektanci zgłaszają swoje pomysły, które następnie poddawane są publicznemu głosowaniu.
 
+**Galeria:**
+
+- 910031-1: https://a.allegroimg.com/original/110236/ecdc5cac4cd8bb39a93032ca2dab
+
 ---
 
-## 910032 — Lego 910032 BrickLink Designer Program Paryska ulica
+## 910032 — Paryska Ulica
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1459.99 zł · EAN: 05702017594521 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910032 |
+| Nazwa angielska | Parisian Street |
+| Nazwa polska | Paryska Ulica |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 3532 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017594521 |
 
 LEGO® 910032 BrickLink Designer Program - Paryska ulica
  
@@ -411,11 +631,26 @@ Zestaw został wyprodukowany w limitowanym nakładzie ok. 20 000 na cały świat
  
 Aktualnie nowy zestaw nie jest dostępny na rynku pierwotnym.
 
+**Galeria:**
+
+- 910032-1: https://a.allegroimg.com/original/11c458/a79c534e43ba9899e1737ce14df5
+
 ---
 
-## 910033 — Lego BrickLink Zestaw Stara lokomotywownia 910033
+## 910033 — Stara lokomotywowania
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1237.99 zł · EAN: 05702017594538 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910033 |
+| Nazwa angielska | Old Train Engine Shed |
+| Nazwa polska | Stara lokomotywowania |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2331 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017594538 |
 
 LEGO® BrickLink - Stara lokomotywowania
  
@@ -437,11 +672,26 @@ WIEK: 18+
  
 - **Prezentowany zestaw został wyprodukowany w limitowanym nakładzie 30 000 na cały świat co czyni go mocno unikatowym i stanowi o potencjale inwestycyjnym.**
 
+**Galeria:**
+
+- 910033-1: https://a.allegroimg.com/original/11db9e/cc70bc5443c2abcc141429942717
+
 ---
 
-## 910034 — Lego Bricklink 910034 Brick Cross Train Station
+## 910034 — Brick Cross
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1395.00 zł · EAN: 05702017651712 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910034 |
+| Nazwa angielska | Brick Cross |
+| Nazwa polska | Brick Cross |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 3050 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017651712 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -465,11 +715,26 @@ Szerokość: 39,1 cm
 
 Wysokość: 22,3 cm
 
+**Galeria:**
+
+- 910034-1: https://a.allegroimg.com/original/11e97a/197c6e8c48149ada72e0e74489f9
+
 ---
 
-## 910035 — Lego Bricklink 910035 Drewniana linia kolejowa
+## 910035 — Drewniana linia kolejowa
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1249.00 zł · EAN: 05702017652672 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910035 |
+| Nazwa angielska | Logging Railway |
+| Nazwa polska | Drewniana linia kolejowa |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2731 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652672 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -512,11 +777,26 @@ Szerokość: 94,1 cm / 37,0 cala
  
 Wysokość: 23,7 cm / 9,3 cala
 
+**Galeria:**
+
+- 910035-1: https://a.allegroimg.com/original/118b73/5a6f4deb4bc0b909f9a54cbde94c
+
 ---
 
-## 910036 — Lego Bricklink 910036 Dom nad oceanem
+## 910036 — Dom nad oceanem
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 960.00 zł · EAN: 05702017652689 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910036 |
+| Nazwa angielska | Ocean House |
+| Nazwa polska | Dom nad oceanem |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2207 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652689 |
 
 **LEGO® 910036 BrickLink Designer Program - Dom nad oceanem**
  
@@ -561,11 +841,26 @@ Wymiary modelu:
 - Długość: 47,8 cm / 18,8 cala 
 - Wysokość: 28,2 cm / 11,1 cala
 
+**Galeria:**
+
+- 910036-1: https://a.allegroimg.com/original/1140c1/98b97b3a4270be42401320c08229
+
 ---
 
-## 910037 — Lego BrickLink 910037 Grzybowy dom
+## 910037 — Grzybowy dom
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 570.00 zł · EAN: 05702017652696 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910037 |
+| Nazwa angielska | Mushroom House |
+| Nazwa polska | Grzybowy dom |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 964 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652696 |
 
 LEGO 910037 BrickLink Designer Program - Grzybowy dom Mushroom House
  
@@ -598,11 +893,26 @@ Budowa bawi się skalą: grzyb znajduje zastosowanie jako dom, a ślimak staje s
 - Długość: 31,0 cm / 12,2 cala 
 - Wysokość: 22,5 cm / 8,9 cala
 
+**Galeria:**
+
+- 910037-1: https://a.allegroimg.com/original/11b331/b9b7c7924de8b254d0944f5af68e
+
 ---
 
-## 910038 — Klocki Lego Bricklink zestaw Upiorna Wyspa 910038
+## 910038 — Upiorna wyspa
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1369.89 zł · EAN: 05702017652702 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910038 |
+| Nazwa angielska | Ominous Isle |
+| Nazwa polska | Upiorna wyspa |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2809 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017652702 |
 
 LEGO Bricklink 910038 Upiorna wyspa
  
@@ -632,11 +942,26 @@ Dla fanów morskich legend i przygód!
  
 Zestaw LEGO Bricklink **Upiorna Wyspa** to idealna propozycja dla miłośników piratów i nieustraszonych poszukiwaczy przygód. Dzięki niemu stworzysz piracką fortecę pełną tajemnic, skarbów i zagadek do odkrycia.
 
+**Galeria:**
+
+- 910038-1: https://a.allegroimg.com/original/11ecbf/e38a1cc94576ada962159212014d
+
 ---
 
-## 910039 — Lego 910039 Bricklink Sztuka Tworzenia Czekolady
+## 910039 — Sztuka tworzenia czekolady
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1199.99 zł · EAN: 05702017764702 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910039 |
+| Nazwa angielska | The Art of Chocolate |
+| Nazwa polska | Sztuka tworzenia czekolady |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2615 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017764702 |
 
 **LEGO 910039 BRICKLINK SZTUKA TWORZENIA CZEKOLADY**
 
@@ -648,11 +973,26 @@ Zawiera 2615 klocków LEGO. W modelu znajdziesz też 7 minifigurki.
 
 Klocki przeznaczone są dla dorosłych od 18 roku życia.
 
+**Galeria:**
+
+- 910039-1: https://a.allegroimg.com/original/1117ff/1f70d5714e34a4d10774186eb84c
+
 ---
 
-## 910040 — Klocki Lego Bricklink Zestaw Kapitana portu 910040
+## 910040 — Kapitanat portu
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1025.00 zł · EAN: 05702017764719 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910040 |
+| Nazwa angielska | Harbormaster's Office |
+| Nazwa polska | Kapitanat portu |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2418 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017764719 |
 
 Klocki LEGO Zestaw Kapitana portu 910040
 
@@ -680,11 +1020,26 @@ Instrukcja budowania LEGO BrickLink Designer Program 910040 - Kapitanat portu
 
 Sprawdź dostępność instrukcji dla zestawu **LEGO BrickLink Designer Program 910040 - Kapitanat portu** w formacie PDF na stronie LEGO z instrukcjami. Jeżeli nie znalazłeś instrukcji na podanej stronie, skorzystaj z wyszukiwarki, używając słów kluczowych **lego 910040 instruction**.
 
+**Galeria:**
+
+- 910040-1: https://a.allegroimg.com/original/1121ac/e750c58f48ff9da294cd9ad0b6fd
+
 ---
 
-## 910041 — Lego Bricklink 910041 Przygoda na kempingu
+## 910041 — Przygoda na kempingu
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 345.00 zł · EAN: 05702017765440 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910041 |
+| Nazwa angielska | Camping Adventure |
+| Nazwa polska | Przygoda na kempingu |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 669 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017765440 |
 
 LEGO® 910041 BrickLink Designer Program - Przygoda na kempingu
  
@@ -716,11 +1071,26 @@ Wymiary zestawu po złożeniu:
 
 Zestaw został wyprodukowany w limitowanym nakładzie niecałych 30 000 na cały świat co czyni go mocno unikatowym.
 
+**Galeria:**
+
+- 910041-1: https://a.allegroimg.com/original/11cf89/22eb6e4c4370a9064922dfe1edd4
+
 ---
 
-## 910042 — Lego Bricklink 910042 Zaginione miasto
+## 910042 — Zaginione miasto
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1790.00 zł · EAN: 05702017765457 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910042 |
+| Nazwa angielska | Lost City |
+| Nazwa polska | Zaginione miasto |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3506 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017765457 |
 
 LEGO® 910042 BrickLink Designer Program - Zaginione miasto
  
@@ -757,11 +1127,26 @@ Wymiary zestawu po złożeniu:
 
 Zestaw został wyprodukowany w limitowanym nakładzie niecałych 10 000 na cały świat co czyni go mocno unikatowym.
 
+**Galeria:**
+
+- 910042-1: https://a.allegroimg.com/original/11c623/6850d89c4093a07d0012abdf2671
+
 ---
 
-## 910043 — Lego BrickLink 910043 Leśna twierdza Forest stronghold Zamek
+## 910043 — LEGO 910043 BrickLink Designer Program - Leśna twierdza
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2499.00 zł · EAN: 05702017764726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910043 |
+| Nazwa angielska | Forest Stronghold |
+| Nazwa polska | LEGO 910043 BrickLink Designer Program - Leśna twierdza |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3395 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017764726 |
 
 **Nowy, zaplombowany, oryginalny zestaw LEGO® 910037 910043 BrickLink Designer Program - Leśna twierdza (Forest stronghold).**
 
@@ -783,11 +1168,26 @@ Ale to tylko lewa strona zamku. Jeśli będą musieli dostać się na drugą str
 
 Jest też łatwo demontowalny most, który łączy obie strony zamku lub rozdziela się na dwie osobne fortece; i bezproblemowy transport. A także dołączony koń i wóz do przewożenia całego tego złota!
 
+**Galeria:**
+
+- 910043-1: https://a.allegroimg.com/original/11c14f/c0bd1f2b4aae904f2877ffd2591d
+
 ---
 
-## 910044 — Klocki Lego Bricklink zestaw Pociąg na Dzikim Zachodzie 910044
+## 910044 — Pociąg na Dzikim Zachodzie
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1595.00 zł · EAN: 05702017827933 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910044 |
+| Nazwa angielska | Wild West Train |
+| Nazwa polska | Pociąg na Dzikim Zachodzie |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 3192 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017827933 |
 
 **LEGO****910044 BRICKLINK POCIĄG NA DZIKIM ZACHODZIE - 3192 elementów**
  
@@ -815,11 +1215,26 @@ W: 104,4 cm
  
 L: 27,3 cm
 
+**Galeria:**
+
+- 910044-1: https://a.allegroimg.com/original/11cecd/acd0ae0242e4816c12fca71f9d10
+
 ---
 
-## 910046 — Lego Bricklink 910046 Okręt kupiecki
+## 910046 — Okręt kupiecki
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1000.00 zł · EAN: 05702017827957 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910046 |
+| Nazwa angielska | Merchant Boat |
+| Nazwa polska | Okręt kupiecki |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2180 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017827957 |
 
 LEGO® 910046 BrickLink Designer Program - Okręt kupiecki
  
@@ -850,11 +1265,26 @@ W zestawie znajdują się 4 minifigurki.
  
 Zestaw został wyprodukowany w limitowanym nakładzie 10 000 szt na cały świat co czyni go mocno unikatowym.
 
+**Galeria:**
+
+- 910046-1: https://a.allegroimg.com/original/11f16c/239edaaa47f58dee58cd7ea794e8
+
 ---
 
-## 910048 — Lego Bricklink 910048 Akademia uczonych z nadrzecza
+## 910048 — Akademia uczonych z nadrzecza
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2299.95 zł · EAN: 05702017828282 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910048 |
+| Nazwa angielska | Riverside Scholars |
+| Nazwa polska | Akademia uczonych z nadrzecza |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2769 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017828282 |
 
 LEGO Bricklink 910048 Akademia uczonych z nadrzecza
 
@@ -881,11 +1311,26 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 910048-1: https://a.allegroimg.com/original/11506d/616979324e8a8fb2a87f1ad91244
+
 ---
 
-## 910052 — Lego Bricklink Designer Program 910052 Popcornowy Wagon
+## 910052 — POPCORNOWY WAGON
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 374.00 zł · EAN: 05702017828374 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910052 |
+| Nazwa angielska | Popcorn Wagon |
+| Nazwa polska | POPCORNOWY WAGON |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 594 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017828374 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -923,21 +1368,51 @@ L: 24,0 cm / 9,4 cala
 
 Szerokość: 15,0 cm / 5,9 cala
 
+**Galeria:**
+
+- 910052-1: https://a.allegroimg.com/original/1156b2/7f18aa784ead941f0bf3c65a6928
+
 ---
 
-## 910053 — Klocki Lego Ideas 910053 Złodzieje z Tortugi BrickLink Designer Program
+## 910053 — ZŁODZIEJE Z TORTUGI
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1800.00 zł · EAN: 05702017828381 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910053 |
+| Nazwa angielska | The Thieves of Tortuga |
+| Nazwa polska | ZŁODZIEJE Z TORTUGI |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 4002 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017828381 |
 
 Port Rozbitków (Marooned Marina) - najlepsze miejsce, by złowić świeżą rybę lub zaopatrzyć się w sprzęt wędkarski. To tu krzyżują się drogi piratów, handlarzy i rybaków.
  
 Każdy budynek został dopracowany w najmniejszych szczegółach, tworząc razem pełną życia piracką osadę - idealną do odkrywania, zabawy i kolekcjonowania. Zanurz się w klimat Karaibów, usłysz szum fal i poczuj zapach przygody unoszący się nad portem!
 
+**Galeria:**
+
+- 910053-1: https://a.allegroimg.com/original/11b78f/4bde06dd44eeb0723f3085e98896
+
 ---
 
-## 910054 — Lego 910054 BrickLink Designer Program Fabryka Sztuki
+## 910054 — BrickLink Designer Program - Fabryka Sztuki
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1989.99 zł · EAN: 05702017989433 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910054 |
+| Nazwa angielska | The Art Factory |
+| Nazwa polska | BrickLink Designer Program - Fabryka Sztuki |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2566 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017989433 |
 
 LEGO® 910054 BrickLink Designer Program - Fabryka Sztuki
  
@@ -950,11 +1425,26 @@ LEGO® 910054 BrickLink Designer Program - Fabryka Sztuki
 - Rok wydania: 2026 
 - Grupa wiekowa: 18+
 
+**Galeria:**
+
+- 910054-1: https://a.allegroimg.com/original/114546/378cbf9f4328afc2fa7305c463e9
+
 ---
 
-## 910055 — Lego Bricklink 910055 Wyprawa do kopalni złota
+## 910055 — Wyprawa do kopalni złota
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2095.00 zł · EAN: 05702017993034 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910055 |
+| Nazwa angielska | Gold Mine Expedition |
+| Nazwa polska | Wyprawa do kopalni złota |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 3382 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017993034 |
 
 UWAGA! DUŻY GABARYT PUDEŁKA. Do paczkomatu nie zmieści się. PROSZĘ O WYBÓR KURIERA: DPD SMART, UPS SMART, DHL SMART
 
@@ -1006,11 +1496,26 @@ W zestawie znajduje się **13 minifigurek** oraz **8 zwierząt**:
 
 Zestaw LEGO BrickLink Designer Program - Wyprawa do kopalni złota trafił do sprzedaży w 2026 roku. Numer katalogowy tego zestawu to 910055. Zawiera 3382 klocków LEGO. W modelu znajdziesz też 13 minifigurki. Nazwa zestawu w języku angielskim: LEGO BrickLink Designer Program - Gold Mine Expedition. Grupa wiekowa tego produktu to 18+.
 
+**Galeria:**
+
+- 910055-1: https://a.allegroimg.com/original/11c180/43eb25dc4ff8a2b20f0fcafbdc38
+
 ---
 
-## 910056 — Lego 910056 BrickLink Designer Program Przygoda w terenie
+## 910056 — BrickLink Designer Program - Przygoda w terenie
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 629.89 zł · EAN: 05702017993041 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910056 |
+| Nazwa angielska | Off-Road Adventure |
+| Nazwa polska | BrickLink Designer Program - Przygoda w terenie |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 978 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017993041 |
 
 Klocki LEGO BrickLink Designer Program 910056 - Przygoda w terenie
 
@@ -1044,11 +1549,26 @@ Zestaw LEGO BrickLink Designer Program - Przygoda w terenie trafił do sprzeda
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 910056-1: https://a.allegroimg.com/original/11c687/c5aa1c52432e8f1028db907923f2
+
 ---
 
-## 910057 — Lego Bricklink 910057 Leśna kryjówka rozbójników
+## 910057 — Leśna kryjówka rozbójników
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 1755.00 zł · EAN: 05702017993058 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910057 |
+| Nazwa angielska | Outlaw Forest Den |
+| Nazwa polska | Leśna kryjówka rozbójników |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 2618 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017993058 |
 
 LEGO BrickLink Designer Program
  
@@ -1077,15 +1597,34 @@ Długość: 44,4 cm
  
 Wysokość: 39,9 cm
 
+**Galeria:**
+
+- 910057-1: https://a.allegroimg.com/original/11a22f/637da77241c7814bf7ed181974ef
+
 ---
 
-## 910059 — Lego 910059 BrickLink Designer Program Fregata korsarska Fortuna
+## 910059 — Privateer Frigate Fortuna
 
-*Kategoria: Pozostałe serie > Bricklink · cena Allegro (2026-08-17): 2741.60 zł · EAN: 05702017993119 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 910059 |
+| Nazwa angielska | Privateer Frigate Fortuna |
+| Nazwa polska | Privateer Frigate Fortuna |
+| Seria | Pozostałe serie > Bricklink |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 4087 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017993119 |
 
 **Klocki LEGO BrickLink Designer Program 910059 - Fregata korsarska Fortuna**
  
 Zestaw LEGO BrickLink Designer Program - Fregata korsarska Fortuna trafił do sprzedaży w 2026 roku. Numer katalogowy tego zestawu to 910059. Zawiera 4087 klocków LEGO. W modelu znajdziesz też 20 minifigurek. Nazwa zestawu w języku angielskim LEGO BrickLink Designer Program - Privateer Frigate Fortuna. Grupa wiekowa tego produktu to 18+.
+
+**Galeria:**
+
+- 910059-1: https://a.allegroimg.com/original/112f03/920dbf3f41f7a83c79af2eda697b
 
 ---
 

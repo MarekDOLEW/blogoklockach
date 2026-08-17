@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > Monkie Kid — opisy produktowe (45 pozycji)
 
-## 30341 — Lego Monkie Kid Zestaw 30341 Delivery Bike Polybag Misb Nowy
+## 30341 — Monkie kid
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 50.00 zł · EAN: 05702016668223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30341 |
+| Nazwa angielska | Monkie Kid's Delivery Bike |
+| Nazwa polska | Monkie kid |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 20 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016668223 |
 
 LEGO Monkie Kid Zestaw 30341 Delivery Bike Polybag MISB NOWY
 
@@ -28,11 +38,26 @@ O produkcie:
 
 LEGO Monkie Kid 30341 Monkie Kid to zestaw klocków, który rozwija wyobraźnię i zdolności manualne dziecka. Zestaw składa się z 20 elementów, co umożliwia zbudowanie różnorodnych konstrukcji. Marka LEGO cieszy się uznaniem na całym świecie, a certyfikat CE gwarantuje bezpieczeństwo produktu. Zestaw jest przeznaczony dla dzieci w wieku 5 lat i starszych, zarówno dla chłopców, jak i dziewcząt. LEGO Monkie Kid 30341 Monkie Kid to idealny prezent dla każdego dziecka, które uwielbia kreatywną zabawę.
 
+**Galeria:**
+
+- 30341-1: https://a.allegroimg.com/original/111330/4ca97ecc47d48e2a30b4e6305bf3
+
 ---
 
-## 30344 — Lego 30344 Monkie Kid Bojowy minimech Monkey Kinga
+## 30344 — Mini Mech Bojowy
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 19.99 zł · EAN: 05702016912074 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30344 |
+| Nazwa angielska | Mini Monkey King Warrior Mech |
+| Nazwa polska | Mini Mech Bojowy |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 65 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016912074 |
 
 LEGO 30344 Monkie Kid Bojowy minimech Monkey Kinga
 
@@ -42,11 +67,26 @@ Saszetka zawiera 65 klocków LEGO.
 
 Zestawy LEGO inspirują chłopców i dziewczynki do budowania, tworzenia i wymyślania. Niezliczone możliwości swobodnej zabawy i kreatywnego wyrażania siebie pozwalają im doskonalić wartościowe zdolności, które przydadzą im się w dorosłym życiu.
 
+**Galeria:**
+
+- 30344-1: https://a.allegroimg.com/original/11ee12/2a4128744c0c9461f3b4e70dd559
+
 ---
 
-## 30562 — Lego 30562 Monkie Kid Podwodna Przygoda Monkie Kida
+## 30562 — Podwodna przygoda Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 34.45 zł · EAN: 05702017154718 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30562 |
+| Nazwa angielska | Monkie Kid's Underwater Journey |
+| Nazwa polska | Podwodna przygoda Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017154718 |
 
 LEGO 30562 MONKIE KID PODWODNA PRZYGODA MONKIE KIDA
 
@@ -68,11 +108,26 @@ Klocki LEGO® 30562 Podwodna przygoda Monkie Kida
 
 Zestaw klocków LEGO 30562 Monkie Kid Podwodna przygoda Monkie Kida został zaprezentowany w 2022 roku i zawiera 57 klocków LEGO®. W zestawie klocków znajdziesz też 3 minifigurki. Klocki przeznaczone są dla dzieci powyżej 6 roku życia.
 
+**Galeria:**
+
+- 30562-1: https://a.allegroimg.com/original/11740c/fcb383784f5f935eda000a2218ce
+
 ---
 
-## 40472 — Lego Monkie Kid 40472 Monkie Kid i wyścig zdalnie sterowanych aut
+## 40472 — LEGO 40472 MONKIE KID MONKIE KID I WYŚCIG
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 96.00 zł · EAN: 00673419337540 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40472 |
+| Nazwa angielska | Monkie Kid's RC Race |
+| Nazwa polska | LEGO 40472 MONKIE KID MONKIE KID I WYŚCIG |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 57 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419337540 |
 
 Przedmiot w ofercie: LEGO Monkie Kid 40472 Monkie Kid i wyścig zdalnie sterowanych aut.
 
@@ -86,11 +141,26 @@ Dziecięce przygody w świecie LEGO Monkie Kid mogą być jeszcze ciekawsze dzi�
 
 Zapraszam do zakupów.
 
+**Galeria:**
+
+- 40472-1: https://a.allegroimg.com/original/1153eb/a5359d5440ceb74827ca93c76f3a
+
 ---
 
-## 40474 — nowy Lego 40474 Monkie Kid Zbuduj Swojego Monkie Kinga Unikat Misb 2020
+## 40474 — LEGO 40474 MONKIE KID ZBUDUJ SWOJEGO MONKIE KINGA
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 99.99 zł · EAN: 00673419337113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40474 |
+| Nazwa angielska | Build Your Own Monkey King |
+| Nazwa polska | LEGO 40474 MONKIE KID ZBUDUJ SWOJEGO MONKIE KINGA |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 24 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419337113 |
 
 Cześć!
 
@@ -110,11 +180,26 @@ Uwaga:  występuje prawdopodobieństwo pomiętego opakowania foliowego z zestaw
 
 Pozdrawiam.
 
+**Galeria:**
+
+- 40474-1: https://a.allegroimg.com/original/1130dd/6c5956fc4a27976c42a5d3221208
+
 ---
 
-## 80006 — Lego Monkie Kid 80006 Motocykl Biały Smok
+## 80006 — Motocykl Biały Smok
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 348.99 zł · EAN: 05702016617603 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80006 |
+| Nazwa angielska | White Dragon Horse Bike |
+| Nazwa polska | Motocykl Biały Smok |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 6 cm |
+| EAN | 5702016617603 |
 
 LEGO 80006 Monkie Kid Motocykl Biały Smok
 
@@ -136,11 +221,26 @@ Małpie figle!LEGO Monkie Kid to zestawy osadzone w kulturze i wartościach Chin
 - Łączenie i rozdzielanie klocków LEGO® nie wymaga mocy Monkie Kida! Od 1958 r. klocki LEGO niezmiennie spełniają najwyższe branżowe standardy, co daje nam pewność, że pozostaną jednolite i będzie się z nich dobrze budowało. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy zestaw LEGO spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 80006-1: https://a.allegroimg.com/original/118a58/de6a20fa4f998bcf150234a6f808
+
 ---
 
-## 80008 — Lego Monkie Kid 80008 Odrzutowiec Monkie Kida
+## 80008 — Odrzutowiec Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 179.99 zł · EAN: 05702016617627 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80008 |
+| Nazwa angielska | Monkie Kid's Cloud Jet |
+| Nazwa polska | Odrzutowiec Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 529 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 30 cm |
+| EAN | 5702016617627 |
 
 Zestaw LEGO® 80008 da dzieciom mnóstwo frajdy, pozwalając im wcielić się w postać Monkie Kida, który lata odrzutowcem, walczy o Złoty Kostur i spieszy na ratunek cywilom. Zabawkowy samolot strzela dyskami i ma odłączany kokpit, który zmienia się w szybki motocykl, a Red Son ma podwójny plecak odrzutowy i Rękawicę Mocy. Do zabawy w bitwy nie trzeba niczego więcej! Zestaw świetnie nadaje się na prezent LEGO dla dzieci w wieku od 8 lat: są w nim cztery minifigurki, więc dzieciaki mogą udawać swoich ulubionych bohaterów.
  
@@ -164,11 +264,26 @@ Osadzone w kulturze i wartościach Chin zestawy LEGO Monkie Kid nawiązują do o
 - Klocki LEGO® można łączyć i rozdzielać bez użycia mocy Monkie Kida! Od 1958 r. klocki LEGO niezmiennie spełniają najwyższe branżowe standardy, co daje nam pewność, że pozostaną jednolite i będą się zawsze idealnie i łatwo łączyć. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów.
 
+**Galeria:**
+
+- 80008-1: https://a.allegroimg.com/original/11601e/0dc5246e4a6a99d6f6c02a03bf58
+
 ---
 
-## 80009 — Lego Monkie Kid 80009 Food truck Pigsy'ego
+## 80009 — Monkie Kid
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 815.00 zł · EAN: 05702016617634 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80009 |
+| Nazwa angielska | Pigsy's Food Truck |
+| Nazwa polska | Monkie Kid |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 839 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 13 cm |
+| EAN | 5702016617634 |
 
 Klocki LEGO® 80009 Foodtruck Pigsy'ego
  
@@ -184,11 +299,26 @@ Instrukcja LEGO 80009 Foodtruck Pigsy'ego
  
  Instrukcja LEGO 80009 ułatwi Tobie złożenie zestawu klocków, a także pozwoli sprawdzić listę klocków potrzebnych do zbudowania modelu.
 
+**Galeria:**
+
+- 80009-1: https://a.allegroimg.com/original/11de7a/5fd08405425480f75c7993ae3c3e
+
 ---
 
-## 80012 — Lego Monkie Kid 80012 Bojowy mech Monkey Kinga
+## 80012 — Monkie Kid Warrior King
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 739.00 zł · EAN: 05702016617672 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80012 |
+| Nazwa angielska | Monkey King Warrior Mech |
+| Nazwa polska | Monkie Kid Warrior King |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1629 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 42 cm |
+| EAN | 5702016617672 |
 
 LEGO 80012 Monkie Kid Bojowy mech Monkey Kinga
 
@@ -216,11 +346,26 @@ LEGO 80012 Monkie Kid Bojowy mech Monkey Kinga
 
 **Klocki LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i gruntownie badane.**
 
+**Galeria:**
+
+- 80012-1: https://a.allegroimg.com/original/1114ca/493a7934433d996ece86a05128f2
+
 ---
 
-## 80013 — Lego Monkie Kid 80013 Tajne dowództwo ekipy Monkie Kida
+## 80013 — Tajne dowództwo ekipy
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 1014.42 zł · EAN: 05702016617689 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80013 |
+| Nazwa angielska | Monkie Kid's Team Secret HQ |
+| Nazwa polska | Tajne dowództwo ekipy |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1959 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 23 cm |
+| EAN | 5702016617689 |
 
 **LEGO Monkie Kid 80013 Tajne dowództwo ekipy Monkie Kida**
  
@@ -262,11 +407,26 @@ Fajne i pouczające! Osadzone w kulturze i wartościach Chin zabawki LEGO Monkie
 - By łączyć i rozdzielać klocki LEGO, dzieci nie potrzebują mocy Monkie Kida! Klocki spełniają najwyższe branżowe standardy, dzięki czemu zachowują jednolity wygląd, zawsze do siebie pasują i powalają budować solidne modele. 
 - Klocki i elementy LEGO są testowane na niemal wszelkie dostępne sposoby. Dzięki temu możesz mieć pewność, że ta kreatywna zabawka konstrukcyjna dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 80013-1: https://a.allegroimg.com/original/11c543/04b3b376429cb6197a0413148c84
+
 ---
 
-## 80016 — Lego Monkie Kid 80016 Lego 80016 Monkie Kid Ognista Huta
+## 80016 — LEGO 80016 MONKIE KID OGNISTA HUTA
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 499.89 zł · EAN: 05702016617719 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80016 |
+| Nazwa angielska | The Flaming Foundry |
+| Nazwa polska | LEGO 80016 MONKIE KID OGNISTA HUTA |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1497 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24,1 cm × szer. 32 cm × gł. 32,5 cm |
+| EAN | 5702016617719 |
 
 LEGO 80016 Monkie Kid Ognista huta
 
@@ -288,11 +448,26 @@ Nauka przez zabawęOsadzone w kulturze i wartościach Chin zestawy LEGO Monkie K
 - Klocki LEGO® można łączyć i rozdzielać bez użycia mocy Monkie Kida! Klocki spełniają najwyższe standardy branżowe, dzięki czemu można je zawsze łatwo łączyć i rozdzielać oraz budować z nich solidne modele. 
 - Klocki i elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane w niemal każdy dostępny sposób. Dzięki temu mamy pewność, że ten zestaw konstrukcyjny dla dzieci spełnia najwyższe światowe standardy bezpieczeństwa i jakości.
 
+**Galeria:**
+
+- 80016-1: https://a.allegroimg.com/original/11d21d/3a90073c4e08a0c4ef3651f80822
+
 ---
 
-## 80019 — Lego Monkie Kid 80019 Piekielny Odrzutowiec Red So
+## 80019 — PIEKIELNY ODRZUTOWIEC RED SO
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 379.00 zł · EAN: 05702016911138 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80019 |
+| Nazwa angielska | Red Son's Inferno Jet |
+| Nazwa polska | PIEKIELNY ODRZUTOWIEC RED SO |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 299 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm |
+| EAN | 5702016911138 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -331,11 +506,26 @@ Buduj, baw się i uczZestawy LEGO Monkie Kid są osadzone w kulturze i wartości
 - Elementy LEGO® odpowiadają rygorystycznym standardom, które zapewniają mocne połączenie — ta zasada obowiązuje niezmiennie od 1958 r.
 - Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby można było mieć pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80019-1: https://a.allegroimg.com/original/119291/6d040f96488a86455953556ad661
+
 ---
 
-## 80020 — klocki Lego Monkie Kid 80020 Odrzutowiec Biały Smok Statek Kosmiczny
+## 80020 — LEGO 80020 MONKIE KID ODRZUTOWIEC BIAŁY SMOK
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 384.98 zł · EAN: 05702016911145 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80020 |
+| Nazwa angielska | White Dragon Horse Jet |
+| Nazwa polska | LEGO 80020 MONKIE KID ODRZUTOWIEC BIAŁY SMOK |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 565 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 19 cm |
+| EAN | 5702016911145 |
 
 **PRODUCENT**: LEGO
  
@@ -361,11 +551,26 @@ Zabawki LEGO® Monkie Kid™ są osadzone w kulturze Chin i przywołują w unowo
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, co daje pewność, że będą się łatwo łączyć i mocno trzymać — i tak jest niezmiennie od 1958 r. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają najwyższe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80020-1: https://a.allegroimg.com/original/110477/412d04734f2c890ac0a3d123aeb9
+
 ---
 
-## 80021 — Lego Monkie Kid 80021
+## 80021 — Lego Monkie Kid Lwi strażnik Monkie Kida 80021
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 280.00 zł · EAN: 05702016911152 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80021 |
+| Nazwa angielska | Monkie Kid's Lion Guardian |
+| Nazwa polska | Lego Monkie Kid Lwi strażnik Monkie Kida 80021 |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 774 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911152 |
 
 LEGO 80021 Monkie Kid Lwi strażnik Monkie Kida
 
@@ -387,11 +592,26 @@ Ciekawa i pouczająca zabawaZestawy LEGO Monkie Kid są osadzone w kulturze i wa
 - Elementy LEGO® od 1958 r. spełniają wymogi najwyższych standardów branżowych. Dzięki temu są jednolite i zawsze łatwo je połączyć. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów, by było pewne, że spełniają rygorystyczne globalne standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80021-1: https://a.allegroimg.com/original/11783f/a843cac84635ada40be26ee4f324
+
 ---
 
-## 80022 — Lego 80022 Monkie Kid Baza arachnoidów Spider Queen
+## 80022 — LEGO 80022 MONKIE KID BAZA ARACHNOIDÓW SPIDER QUEE
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 794.00 zł · EAN: 05702016911169 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80022 |
+| Nazwa angielska | Spider Queen's Arachnoid Base |
+| Nazwa polska | LEGO 80022 MONKIE KID BAZA ARACHNOIDÓW SPIDER QUEE |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1170 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 25 cm × szer. 44 cm |
+| EAN | 5702016911169 |
 
 LEGO 80022 Monkie Kid Baza arachnoidów Spider Quee
 
@@ -410,11 +630,26 @@ Nauka przez zabawęOsadzone w kulturze i wartościach Chin zestawy LEGO Monkie K
 - Elementy LEGO® spełniają najwyższe standardy branżowe, dzięki czemu są jednolite, można je z łatwością połączyć oraz rozdzielić i mocno się trzymają. 
 - Elementy LEGO® są testowane na niemal każdy możliwy sposób, abyśmy mieli pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80022-1: https://a.allegroimg.com/original/1161e2/4a73ceae42a29d137799c1c95065
+
 ---
 
-## 80023 — Lego Monkie Kid 80023 Dronkopter ekipy Monkie Kida
+## 80023 — Dronkopter ekipy Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 630.00 zł · EAN: 05702016911473 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80023 |
+| Nazwa angielska | Monkie Kid's Team Dronecopter |
+| Nazwa polska | Dronkopter ekipy Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1462 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 39 cm |
+| EAN | 5702016911473 |
 
 **PRODUCENT**: LEGO
  
@@ -439,11 +674,26 @@ Osadzone w kulturze Chin zestawy LEGO Monkie Kid nawiązują do klasycznej opowi
 - Elementy LEGO® spełniają surowe standardy branżowe, dzięki czemu są jednolite, łatwo się łączą i mocno trzymają. 
 - Klocki i elementy LEGO® są testowane na wszelkie możliwe sposoby, dzięki czemu mamy pewność, że odpowiadają rygorystycznym światowym standardom bezpieczeństwa.
 
+**Galeria:**
+
+- 80023-1: https://a.allegroimg.com/original/110c94/b92f9b834011b42de403eda827aa
+
 ---
 
-## 80024 — Lego Monkie Kid 80024 Legendarna Góra Kwiatów i Owoców Opis
+## 80024 — Legendarna Góra Kwiatów i Owoców
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 1449.00 zł · EAN: 05702016911480 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80024 |
+| Nazwa angielska | The Legendary Flower Fruit Mountain |
+| Nazwa polska | Legendarna Góra Kwiatów i Owoców |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1947 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911480 |
 
 **OPIS: zestaw nowy, nieotwierany, posiada oryginalne plomby producenta, pudełko posiada ślady przechowywania, rzeczywiste zdjęcia pudełka na ostatnich zdjęciach w Galerii.**
 
@@ -458,11 +708,26 @@ Nauka przez zabawęFantastyczne zestawy LEGO Monkie Kid są osadzone w kulturze 
 - Mnóstwo realistycznych szczegółów, z których można układać kolejne opowieści, w tym otwierana skała ukazująca postać Monkey Kinga, a także wodospad kryjący wejście do jaskini i żuraw — oba elementy do zbudowania z klocków.
 - W zestawie znajdziesz obrotową platformę, na której minifigurka Monkie Kida może walczyć z Evil Macaquem. Tylko uważaj na chińskie znaki!
 
+**Galeria:**
+
+- 80024-1: https://a.allegroimg.com/original/1166db/bd06c5e04574be9f86f4f215a96d
+
 ---
 
-## 80025 — Lego Monkie Kid 80025 Lego 80025 Monkie Kid Mocarny Mech Sandy'egp
+## 80025 — LEGO 80025 MONKIE KID MOCARNY MECH SANDY'EGP
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702016911060 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80025 |
+| Nazwa angielska | Sandy's Power Loader Mech |
+| Nazwa polska | LEGO 80025 MONKIE KID MOCARNY MECH SANDY'EGP |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 520 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 19 cm |
+| EAN | 5702016911060 |
 
 LEGO 80025 MONKIE KID MOCARNY MECH SANDY'EGP
 
@@ -492,11 +757,26 @@ Nauka przez zabawęOsadzona w kulturze Chin seria zabawek LEGO Monkie Kid przeds
 - **EAN:** 5702016911060 
 - **Wiek dziecka:** 8 lat +
 
+**Galeria:**
+
+- 80025-1: https://a.allegroimg.com/original/11aa6f/d40fa382496fa16482abdfed17ff
+
 ---
 
-## 80026 — Lego 80026 Monkie Kid Kluseczkowy czołg Pigsyego
+## 80026 — Kluseczkowy czołg Pigsy’ego
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 399.00 zł · EAN: 05702016911572 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80026 |
+| Nazwa angielska | Pigsy's Noodle Tank |
+| Nazwa polska | Kluseczkowy czołg Pigsy’ego |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 662 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 25 cm |
+| EAN | 5702016911572 |
 
 Klocki LEGO Monkie Kid 80026 - Kluseczkowy czołg Pigsy’ego
 
@@ -521,11 +801,26 @@ Osadzona w kulturze Chin seria zabawek LEGO Monkie Kid przedstawia historię o M
 - Elementy LEGO® spełniają rygorystyczne branżowe standardy, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić.
 - Elementy LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80026-1: https://a.allegroimg.com/original/11e8de/1c8f40af474fa4d570a2069ec69e
+
 ---
 
-## 80028 — Lego Monkie Kid 80028 Lego Monkie Kid 80028 Kościana demonica
+## 80028 — LEGO Monkie Kid 80028 Kościana demonica
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 1199.00 zł · EAN: 05702016911497 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80028 |
+| Nazwa angielska | The Bone Demon |
+| Nazwa polska | LEGO Monkie Kid 80028 Kościana demonica |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | 1375 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 29 cm × gł. 16 cm |
+| EAN | 5702016911497 |
 
 LEGO® 80028 Kościana demonica
 
@@ -551,11 +846,26 @@ Zestawy konstrukcyjne LEGO Monkie Kid świetnie sprawdzają się jako prezenty d
 - Elementy LEGO® spełniają rygorystyczne standardy branżowe, dzięki czemu dobrze się ze sobą łączą i pozwalają budować solidne modele — i tak jest od 1958 roku. 
 - Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i badane na wiele innych sposobów. Dzięki temu mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 80028-1: https://a.allegroimg.com/original/113659/a6189d744e28b64021b7457feb4d
+
 ---
 
-## 80030 — Lego 80030 Monkie Kid Modele z kosturem Monkie Kida
+## 80030 — MonkieKid
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 117.77 zł · EAN: 05702017153131 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80030 |
+| Nazwa angielska | Monkie Kid's Staff Creations |
+| Nazwa polska | MonkieKid |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 5 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 309 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 5 cm × szer. 17 cm |
+| EAN | 5702017153131 |
 
 LEGO 80030 Monkie Kid - Modele z kosturem Monkie Kida
  
@@ -580,11 +890,26 @@ W pudełku znajdują się szczegółowe instrukcje budowania. Mają one funkcje 
  
 - Dla początkujących konstruktorów LEGO® — **samolot ma ok. 5 cm wysokości, 19 cm długości i 17 cm szerokości**, a cały zestaw doskonale nadaje się dla dzieci na początek przygody z klockami LEGO
 
+**Galeria:**
+
+- 80030-1: https://a.allegroimg.com/original/11f7c7/d3eb452b48258e7c6d23190f9bd6
+
 ---
 
-## 80031 — Lego Monkie Kid 80031 Smoczy pojazd Mei
+## 80031 — Smoczy pojazd Mei
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 246.99 zł · EAN: 05702017153148 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80031 |
+| Nazwa angielska | Mei's Dragon Car |
+| Nazwa polska | Smoczy pojazd Mei |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 456 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 6 cm × szer. 11 cm |
+| EAN | 5702017153148 |
 
 LEGO 80031 Monkie Kid - Smoczy pojazd Mei
  
@@ -617,11 +942,26 @@ Zestawy LEGO Monkie Kid to dla rodziców i dziadków wspaniałe narzędzie pozwa
  
 - Interaktywne instrukcje budowania — instrukcje znajdziesz w pudełku oraz w darmowej aplikacji Instrukcje budowania LEGO®, która zawiera również cyfrowe narzędzia do wizualizowania modelu, dzięki którym zabawa jest jeszcze lepsza
 
+**Galeria:**
+
+- 80031-1: https://a.allegroimg.com/original/112282/b04d671e4d44946b808d6495c293
+
 ---
 
-## 80032 — Lego Monkie Kid 80032 Fabryka Ciasteczek Księżycow
+## 80032 — Fabryka ciasteczek księżycowych Chang’e
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 245.00 zł · EAN: 05702017153759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80032 |
+| Nazwa angielska | Chang'e Moon Cake Factory |
+| Nazwa polska | Fabryka ciasteczek księżycowych Chang’e |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 609 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 16 cm × szer. 10 cm |
+| EAN | 5702017153759 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -652,11 +992,26 @@ Zestawy LEGO Monkie Kid stanowią nową interpretację historii z klasycznej pow
 - Wysoka jakość bez kompromisów — elementy LEGO® spełniają najwyższe branżowe standardy już od 1958 roku. Dzięki temu łączą się łatwo i dobrze trzymają, co pozwala budować solidne modele
 - Bezpieczeństwo potwierdzone testami — klocki i elementy LEGO® są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80032-1: https://a.allegroimg.com/original/11f6e1/6325d280497689a361340845faa0
+
 ---
 
-## 80033 — Lego Monkie Kid 80033 Mech Evil Macaque’a
+## 80033 — Mech Evil Macaque’a
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 650.00 zł · EAN: 05702017156071 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80033 |
+| Nazwa angielska | Evil Macaque's Mech |
+| Nazwa polska | Mech Evil Macaque’a |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 893 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 22 cm |
+| EAN | 5702017153155, 5702017156071 |
 
 LEGO® 80033 Monkie Kid - Mech Evil Macaque’a
  
@@ -688,11 +1043,27 @@ Dzięki zestawom LEGO Monkie Kid rodziny mogą wspólnie poznawać nowe, ciekawe
 
 Dzięki Tobie świat produkuje mniej odpadów.
 
+**Galeria:**
+
+- 80033-1: https://a.allegroimg.com/original/11eb97/a8636d75435d8e07fa40c33a67bb
+- 80033-2: https://a.allegroimg.com/original/11480d/2624ee7d4ad1a744bd43fd9af45f
+
 ---
 
-## 80034 — Oryginalne Lego 80034 Monkie Kid Ognisty pierścień Nezhy Klocki Nowe
+## 80034 — OGNISTY PIERŚCIEŃ NEZHY
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 1979.21 zł · EAN: 05702017153315 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80034 |
+| Nazwa angielska | Nezha's Fire Ring |
+| Nazwa polska | OGNISTY PIERŚCIEŃ NEZHY |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 929 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 21 cm × szer. 12 cm |
+| EAN | 5702017153315 |
 
 LEGO 80034 Monkie Kid - Ognisty pierścień Nezhy
 
@@ -726,11 +1097,26 @@ Ten unikatowy zestaw bojowy to wspaniały prezent dla dzieci w wieku od ośmiu l
 
 - Gwarancja jakości — klocki i elementy LEGO® spełniają rygorystyczne standardy jakości, dzięki czemu za każdym razem łączą się łatwo i mocno trzymają
 
+**Galeria:**
+
+- 80034-1: https://a.allegroimg.com/original/11dbf2/cd77e1ae4ca2b6320d1dab99cb0c
+
 ---
 
-## 80035 — Zestaw Lego 80035 Monkie Kid Galaktyczny Odkrywca
+## 80035 — Galaktyczny Odkrywca Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 325.90 zł · EAN: 05702017153162 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80035 |
+| Nazwa angielska | Monkie Kid's Galactic Explorer |
+| Nazwa polska | Galaktyczny Odkrywca Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1356 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 25 cm |
+| EAN | 5702017153162 |
 
 LEGO® Monkie Kid™ - Galaktyczny Odkrywca Monkie Kida (80035)
 
@@ -791,11 +1177,26 @@ Stanowisko jest pełne realistycznych detali:
 
 **Narzędzia i zapasy:** Antena, **magazyn na cztery hełmy** minifigurek, drabina, **zbiornik paliwa** i zestaw narzędzi.
 
+**Galeria:**
+
+- 80035-1: https://a.allegroimg.com/original/11d53a/6c2f208d465aa437a2342dadd523
+
 ---
 
-## 80036 — Lego Monkie Kid 80036 Miasto Latarni
+## 80036 — Miasto Latarni
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 695.00 zł · EAN: 05702017153773 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80036 |
+| Nazwa angielska | The City of Lanterns |
+| Nazwa polska | Miasto Latarni |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2187 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 38 cm × szer. 43 cm × gł. 23 cm |
+| EAN | 5702017153773 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -822,11 +1223,26 @@ Zabawki konstrukcyjne LEGO Monkie Kid są inspirowane klasyczną powieścią „
 - Najwyższa jakość bez kompromisów — elementy LEGO® spełniają surowe branżowe standardy jakości już od 1958 roku. Dzięki temu łączą się łatwo i dobrze trzymają
 - Bezpieczeństwo potwierdzone testami — klocki i elementy LEGO® są dokładnie testowane, więc mamy pewność, że spełniają rygorystyczne światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80036-1: https://a.allegroimg.com/original/1123b1/352604314073b7de8d7a8d1e721d
+
 ---
 
-## 80037 — Lego Monkie Kid 80037 Smok Wschodu
+## 80037 — Smok Wschodu
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 255.00 zł · EAN: 05702017153780 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80037 |
+| Nazwa angielska | Dragon of the East |
+| Nazwa polska | Smok Wschodu |
+| Seria | inna |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 880 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 16 cm |
+| EAN | 5702016913484, 5702017153780 |
 
 ZESTAW NOWY, ZAPLOMBOWANY.
 
@@ -864,11 +1280,27 @@ Gwarancja bezpieczeństwa — klocki i elementy LEGO® są zrzucane, podgrzewane
 
 Zestaw LEGO Monkie Kid - Smok Wschodu trafił do sprzedaży w 2022 roku. Numer katalogowy tego zestawu to 80037. Zawiera 880 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Monkie Kid - Dragon of the East.
 
+**Galeria:**
+
+- 80037-1: https://a.allegroimg.com/original/114cae/8628ee9641a2bfe772cecfcde6be
+- 80037-2: https://a.allegroimg.com/original/118ad3/d232223d4fc4995e1203d8c6459b
+
 ---
 
-## 80038 — Lego Monkie Kid 80038 Furgonetka Ekipy Monkie Kida
+## 80038 — Furgonetka Ekipy Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 493.00 zł · EAN: 05702017153797 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80038 |
+| Nazwa angielska | Monkie Kid's Team Van |
+| Nazwa polska | Furgonetka Ekipy Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 1406 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 14 cm |
+| EAN | 5702017153797 |
 
 Zestaw LEGO® Monkie Kid Furgonetka ekipy Monkie Kida (80038) oferuje długie godziny pomysłowej zabawy dziewięciolatkom i starszym dzieciom. Naciśnij przycisk pod siedzeniem, by wysunąć miotacz pierożków Pigsy’ego, i otwórz tylne drzwi, by wyjąć gokart Monkie Kida. Dwa kontenery na wierzchu pojazdu można łatwo odczepić, by skorzystać z ich fajnych funkcji, takich jak sprężynowe działko, smoczy poduszkowiec Mei, kuchnia Pigsy’ego, automaty do gier czy stół do ping-ponga. W tym zabawkowym zestawieznajdziesz też sześć minifigurek LEGO i figurkę kota Mo, które przydadzą się do wcielania się w role, a także niebieski ognisty pierścień i autorikszę Małp Cienia.
  
@@ -890,11 +1322,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid™ to fantastyczne prezenty dla lubiący
 - Jakość premium — Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim — klocki i elementy konstrukcyjne LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80038-1: https://a.allegroimg.com/original/115896/54c7d07947c9817b231eff750aa9
+
 ---
 
-## 80039 — Lego Monkie Kid 80039 Niebiańskie światy Nowe
+## 80039 — Niebiańskie światy
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 925.00 zł · EAN: 05702017153803 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80039 |
+| Nazwa angielska | The Heavenly Realms |
+| Nazwa polska | Niebiańskie światy |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 2433 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 42 cm × gł. 34 cm |
+| EAN | 5702017153803 |
 
 **LEGO 80039 Monkie Kid Niebiańskie światy**
  
@@ -927,11 +1374,26 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO Monkie Kid są inspirowane klasyczną
 - Jakość premium — elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku, dzięki czemu łatwo się łączą i dobrze trzymają
 - Bezpieczeństwo potwierdzone testami — klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80039-1: https://a.allegroimg.com/original/112eaa/3d26e6a84085961c6dd1bfc172f6
+
 ---
 
-## 80040 — Lego 80040 Monkie Kid w wielofunkcyjnym mechu
+## 80040 — Monkie Kid w wielofunkcyjnym mechu
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 115.00 zł · EAN: 05702017412962 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80040 |
+| Nazwa angielska | Monkie Kid's Combi Mech |
+| Nazwa polska | Monkie Kid w wielofunkcyjnym mechu |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 277 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 13 cm |
+| EAN | 5702017412962 |
 
 ZESTAW NOWY, FABRYCZNIE ZAPLOMBOWANY. STAN PUDEŁKA IDEALNY.
 
@@ -957,11 +1419,26 @@ Ilość klocków:** 277**
  
 - Mech do zbudowania – **mech ma 13 cm wysokości i 13 cm szerokości z rozłożonymi rękami**. Zestaw można połączyć ze Smoczym odrzutowcem Mei 80041 (sprzedawany oddzielnie), aby uzyskać dodatkowe możliwości zabawy
 
+**Galeria:**
+
+- 80040-1: https://a.allegroimg.com/original/1130eb/a10068dc4bbdb440a5feccc002cd
+
 ---
 
-## 80041 — Lego Monkie Kid 80041 Smoczy odrzutowiec Mei
+## 80041 — Smoczy odrzutowiec Mei
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 89.00 zł · EAN: 05702017416076 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80041 |
+| Nazwa angielska | Mei's Dragon Jet |
+| Nazwa polska | Smoczy odrzutowiec Mei |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 246 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 13 cm |
+| EAN | 5702017416076 |
 
 **LEGO MONKIE KID 80041 SMOCZY ODRZUTOWIEC MEI**
  
@@ -987,11 +1464,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid™ to fantastyczne prezenty dla dzieci, 
 - Jakość premium – Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć oraz rozdzielić 
 - Bezpieczeństwo przede wszystkim – klocki i elementy konstrukcyjne LEGO® są testowane na niemal każdy możliwy sposób, dzięki czemu mamy pewność, że spełniają wymagające światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80041-1: https://a.allegroimg.com/original/11c090/113b4cd542f1be68702126ca7956
+
 ---
 
-## 80043 — Lego Monkie Kid 80043 Żółty Słoń Tusk 8+ Nowy
+## 80043 — Yellow Tusk Elephant
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 369.00 zł · EAN: 05702017416083 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80043 |
+| Nazwa angielska | Yellow Tusk Elephant |
+| Nazwa polska | Yellow Tusk Elephant |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 844 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 17 cm |
+| EAN | 5702017416083 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1030,11 +1522,26 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO Monkie Kid są inspirowane klasyczną
 - Jakość premium – elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku, dzięki czemu łatwo się łączą i dobrze trzymają
 - Bezpieczeństwo potwierdzone testami – klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80043-1: https://a.allegroimg.com/original/112694/318b31f74d5580aac61b8363d625
+
 ---
 
-## 80044 — Lego Monkie Kid 80044 Kryjówka Ekipy Monkie Kida
+## 80044 — Kryjówka ekipy Monkie Kida
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 659.00 zł · EAN: 05702017416090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80044 |
+| Nazwa angielska | Monkie Kid's Team Hideout |
+| Nazwa polska | Kryjówka ekipy Monkie Kida |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1582 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017416090 |
 
 **LEGO Monkie Kid**
 
@@ -1042,11 +1549,26 @@ Przedmiotem tej oferty jest nowy i oryginalny zestaw LEGO 80044, widoczny na zdj
 
 Serdecznie zapraszamy do odwiedzenia naszych pozostałych aukcji.
 
+**Galeria:**
+
+- 80044-1: https://a.allegroimg.com/original/1147ce/31eced7f4694bd1045080a9458d3
+
 ---
 
-## 80045 — Klocki Lego Monkie Kid Monkey King W Ultramechu 80045
+## 80045 — Monkey King W Ultramechu
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 729.00 zł · EAN: 05702017416106 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80045 |
+| Nazwa angielska | Monkey King Ultra Mech |
+| Nazwa polska | Monkey King W Ultramechu |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 1705 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 39 cm × szer. 26 cm |
+| EAN | 5702017416106 |
 
 LEGO
  
@@ -1082,11 +1604,26 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO Monkie Kid są inspirowane klasyczną
 - Jakość premium – elementy LEGO® spełniają wymogi najwyższych standardów branżowych już od 1958 roku, dzięki czemu łatwo się łączą i dobrze trzymają 
 - Bezpieczeństwo potwierdzone testami – klocki konstrukcyjne LEGO® są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80045-1: https://a.allegroimg.com/original/11e619/2067b8ca4fbf9c6a9fd7fb88e731
+
 ---
 
-## 80049 — Lego Monkie Kid 80049 Smok Wschodniego Pałacu
+## 80049 — Smok Wschodniego Pałacu
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 799.49 zł · EAN: 05702017415604 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80049 |
+| Nazwa angielska | Dragon of the East Palace |
+| Nazwa polska | Smok Wschodniego Pałacu |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 2364 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 37 cm × szer. 47 cm × gł. 25 cm |
+| EAN | 5702017415604 |
 
 Zainspiruj dzieci w wieku od 10 lat tym zestawem do zbudowania LEGO Monkie Kid Smok Wschodniego Pałacu. Ten pełen detali z kultowej legendy o Małpim Królu model to podwodny świat fantazji z otwieranym przodem, który przesuwa się, odsłaniając wnętrze pałacu i wiele pomieszczeń. Jest też wiele elementów do zabawy, w tym Złoty Kostur Monkey Kinga, obracający się smok i nie tylko.
  
@@ -1110,11 +1647,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią �
 - Jakość premium — elementy LEGO spełniają wymogi najwyższych standardów branżowych już od 1958 roku, dzięki czemu łatwo się łączą i dobrze trzymają 
 - Bezpieczeństwo potwierdzone testami — klocki konstrukcyjne LEGO są dokładnie testowane, więc mamy pewność, że spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 80049-1: https://a.allegroimg.com/original/11f409/504e2c474245a37aa25380eac992
+
 ---
 
-## 80050 — Lego Monkie Kid 80050 Pomysłowe pojazdy
+## 80050 — Pomysłowe pojazdy
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 111.00 zł · EAN: 05702017584652 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80050 |
+| Nazwa angielska | Creative Vehicles |
+| Nazwa polska | Pomysłowe pojazdy |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 390 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 4 cm × szer. 16 cm |
+| EAN | 5702017584652 |
 
 **U_POPlivandera**
 
@@ -1134,11 +1686,26 @@ Kolekcjonerskie zabawki konstrukcyjne LEGO Monkie Kid są inspirowane klasyczną
 - Kreatywne zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią „Wędrówka na Zachód” i pozwalają dorosłym opowiedzieć dzieciom legendę o Małpim Królu we współczesny i wesoły sposób
 - Zabawa pełna przygód — ten 389-elementowy zestaw zawiera odrzutowiec, który ma 4 cm wysokości, 14 cm długości i 16 cm szerokości
 
+**Galeria:**
+
+- 80050-1: https://a.allegroimg.com/original/1152f9/323367e6469b9a091bdb7c7da03b
+
 ---
 
-## 80051 — Lego 80051 Monkie Kid Monkie Kid W Minimechu
+## 80051 — Monkie Kid w minimechu
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 204.45 zł · EAN: 05702017584669 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80051 |
+| Nazwa angielska | Monkie Kid's Mini Mech |
+| Nazwa polska | Monkie Kid w minimechu |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 556 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 20 cm × gł. 18 cm |
+| EAN | 5702017584669 |
 
 LEGO 80051 MONKIE KID - MONKIE KID W MINIMECHU
 
@@ -1171,11 +1738,26 @@ Kolekcjonerskie zestawy LEGO Monkie Kid są inspirowane klasyczną powieścią �
 - Zabawki pełne akcji — zestaw LEGO® Monkie Kid™ jest inspirowany klasyczną powieścią „Wędrówka na Zachód” i pozwala dorosłym opowiedzieć dzieciom legendę o Małpim Królu we współczesny i wesoły sposób,
 - Zestaw konstrukcyjny LEGO® — zestaw składający się z 556 elementów zawiera ruchomą figurkę minimecha na podstawce w kształcie chmury. Figurka i podstawka mają razem 22 cm wysokości, 20 cm szerokości i 18 cm głębokości.
 
+**Galeria:**
+
+- 80051-1: https://a.allegroimg.com/original/112970/c8fb25ff49708d574335784c9df4
+
 ---
 
-## 80053 — Lego Monkie Kid 80053 Smoczy mech Mei Robot dla chłopca
+## 80053 — Smoczy mech Mei
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 337.00 zł · EAN: 05702017584676 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80053 |
+| Nazwa angielska | Mei's Dragon Mech |
+| Nazwa polska | Smoczy mech Mei |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 990 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584676 |
 
 LEGO Monkie Kid 80053 Smoczy mech Mei Robot Prezent dla chłopca
 
@@ -1211,11 +1793,26 @@ Ten zestaw to połączenie kolekcjonerskiego modelu z dynamiczną zabawą. Mech 
 
 **Elementy:** 1002
 
+**Galeria:**
+
+- 80053-1: https://a.allegroimg.com/original/11b4eb/d1fe9f944dc591682cf18a920d06
+
 ---
 
-## 80054 — Lego Monkie Kid 80054 5. rocznica Megapolis
+## 80054 — 5. rocznica Megapolis
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 830.00 zł · EAN: 05702017584683 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80054 |
+| Nazwa angielska | Megapolis City 5th Anniversary |
+| Nazwa polska | 5. rocznica Megapolis |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 2330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 57 cm × szer. 40 cm × gł. 22 cm |
+| EAN | 5702017584683 |
 
 **LEGO 80054 5. rocznica Megapolis**
 
@@ -1242,11 +1839,26 @@ Nowy, oryginalnie zapakowany.
 
 **Zapraszam do skorzystania z oferty!**
 
+**Galeria:**
+
+- 80054-1: https://a.allegroimg.com/original/11a26b/5b8bbc0a47f99b7c1da71330ad61
+
 ---
 
-## 80056 — Lego Monkie Kid 80056 Dziewięciogłowa Bestia
+## 80056 — Dziewięciogłowa bestia
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 550.54 zł · EAN: 05702017584706 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80056 |
+| Nazwa angielska | Nine-Headed Beast |
+| Nazwa polska | Dziewięciogłowa bestia |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 757 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017584706 |
 
 **LEGO MONKIE KID 80056 DZIEWIĘCIOGŁOWA BESTIA**
 
@@ -1258,11 +1870,26 @@ Dzieci mogą cieszyć się łatwym i intuicyjnym budowaniem dzięki aplikacji LE
 
 Zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią „Wędrówka na Zachód” i pozwalają dorosłym opowiedzieć dzieciom legendę o Małpim Królu we współczesny i wesoły sposób.
 
+**Galeria:**
+
+- 80056-1: https://a.allegroimg.com/original/119451/e1454de04e09908be018fa0c0466
+
 ---
 
-## 80058 — Lego Monkie Kid 80058 Niebiańska pagoda
+## 80058 — Niebiańska pagoda
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 889.89 zł · EAN: 05702017583846 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80058 |
+| Nazwa angielska | Celestial Pagoda |
+| Nazwa polska | Niebiańska pagoda |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1621 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 61 cm × szer. 29 cm × gł. 19 cm |
+| EAN | 5702017583846 |
 
 - Szczegółowe zabawki dla dzieci — zainspiruj chłopców, dziewczynki i fanów w wieku od 10 lat tym fantastycznym modelem niebiańskiej pagody, który pobudzi wyobraźnię podczas budowania, a następnie odtwarzania ciekawych historii 
 - Bohaterowie do odgrywania ról — siedem minifigurek legendarnych postaci: Mei, Monkie Kid, Pigsy, Sandy, Nüwa, Pan Tang i Li Jing, a także figurka kota LEGO® Małego Mo 
@@ -1273,11 +1900,26 @@ Zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią „Wędrówka na 
 - Zestaw dla dzieci — ten zestaw LEGO® Monkie Kid™ jest inspirowany klasyczną powieścią „Wędrówka na Zachód” i pozwala dorosłym opowiedzieć dzieciom legendę o Małpim Królu we współczesny i wesoły sposób 
 - Wymiary — ten 1621-elementowy zestaw z pagodą ma 61 cm wysokości, 29 cm szerokości i 19 cm głębokości.
 
+**Galeria:**
+
+- 80058-1: https://a.allegroimg.com/original/11c23e/2c659dd547ef82e89ca211cbeb39
+
 ---
 
-## 80065 — Lego Monkie Kid 80065 Niebiański Mech Erlanga 9+ Nowy
+## 80065 — Niebiański mech Erlanga
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 529.00 zł · EAN: 05702017816012 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80065 |
+| Nazwa angielska | Erlang's Celestial Mech |
+| Nazwa polska | Niebiański mech Erlanga |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 806 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017816012 |
 
 **Zestaw oryginalnie zapakowany, fabrycznie nowy.**
 
@@ -1307,11 +1949,26 @@ Kolekcjonerskie zabawki LEGO Monkie Kid są inspirowane klasyczną powieścią W
 - Zabawa rodem z legend — zestaw LEGO® Monkie Kid™ jest inspirowany klasyczną powieścią „Wędrówka na Zachód” i pozwala dorosłym opowiedzieć dzieciom legendę o Małpim Królu we współczesny i wesoły sposób
 - Wymiary — ten 806-elementowy zestaw zawiera niebiańskiego mecha, który ma 43 cm wysokości
 
+**Galeria:**
+
+- 80065-1: https://a.allegroimg.com/original/11336b/87def1634f649b8380d438c95bcc
+
 ---
 
-## 80066 — Lego Monkie Kid 80066 Mityczne stworzenie Qilin
+## 80066 — Mityczne stworzenie Qilin
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 349.90 zł · EAN: 05702017816036 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80066 |
+| Nazwa angielska | Mythical Creature Qilin |
+| Nazwa polska | Mityczne stworzenie Qilin |
+| Seria | Pozostałe serie > Monkie Kid |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 791 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 12 cm |
+| EAN | 5702017816036 |
 
 LEGO Monkie Kid 80066
 
@@ -1351,11 +2008,27 @@ ten 791-elementowy model ma ok. 20 cm wysokości, 29 cm długości i 12 cm szero
 
 - 38 x 36 x 7 cm
 
+**Galeria:**
+
+- 80066-1: https://a.allegroimg.com/original/11dff0/f21008bf43d1893f96b30b1bbbe3
+
 ---
 
-## 80109 — Lego 80109 Rok Księżycowy Festiwal Lodu
+## 80109 — 80109
 
-*Kategoria: Pozostałe serie > Monkie Kid · cena Allegro (2026-08-17): 413.00 zł · EAN: 05702017187075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80109 |
+| Nazwa angielska | Lunar New Year Ice Festival |
+| Nazwa polska | 80109 |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1519 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 39 cm × gł. 26 cm |
+| EAN | 5702017187075 |
 
 **STAN PUDEŁKA IDEALNY. NOWY. ZAPLOMBOWANY.**
 
@@ -1381,6 +2054,10 @@ Kolekcjonerskie zestawy LEGO przedstawiające tradycyjne święta są doskonały
 - Szczegółowe instrukcje — chcesz kupić ten zestaw początkującemu konstruktorowi LEGO®? Bez obaw. W komplecie znajdują się instrukcje z obrazkami, dzięki którym nawet nowicjusze bez trudu samodzielnie złożą model 
 - Edukacyjna zabawa — kolekcjonerskie zabawki LEGO® przedstawiające tradycyjne święta to kreatywne wyzwania konstrukcyjne dla wszystkich osób zainteresowanych chińską kulturą 
 - Bezpieczeństwo przede wszystkim — Elementy LEGO® są zrzucane, podgrzewane, zgniatane, skręcane i skrupulatnie badane na wiele innych sposobów.
+
+**Galeria:**
+
+- 80109-1: https://a.allegroimg.com/original/112cb0/ca1cd354454ab7ba036d5f4904e5
 
 ---
 

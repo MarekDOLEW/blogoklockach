@@ -1,15 +1,26 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
-# LEGO Ideas — opisy produktowe (107 pozycji)
+# LEGO Ideas — opisy produktowe (101 pozycji)
 
-## 21102 — Klocki Lego Ideas Mikroświat Minecrafta zestaw Las 21102
+## 21102 — The Forest
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 543.31 zł · EAN: 00673419188067 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21102 |
+| Nazwa angielska | Micro World |
+| Nazwa polska | The Forest |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 480 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419188067 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -40,11 +51,27 @@ Zbuduj minimodel z gry, która podbija internet, korzystając z zestawu z serii 
 
 Zestaw klocków LEGO 21102 Micro World: Pierwsza noc został zaprezentowany w 2012 roku i zbudowany jest z 480 klocków LEGO®. W zestawie klocków znajdziesz również 2 minifigurki. Klocki przeznaczone są dla dzieci i młodzieży powyżej 10 roku życia.
 
+**Galeria:**
+
+- 21102-1: https://a.allegroimg.com/original/053e46/98f493d54a70b617a86517d3dd1a
+
 ---
 
-## 21103 — Lego Ideas 21103 Back to the Future DeLorean Nowe
+## 21103 — Back to the Future DeLorean
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 799.00 zł · EAN: 05702015064835 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21103 |
+| Nazwa angielska | The DeLorean Time Machine |
+| Nazwa polska | Back to the Future DeLorean |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2013 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 401 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015064835 |
 
 Klocki LEGO Cuusoo Wehikuł Czasu
  
@@ -60,11 +87,27 @@ Powrót do przyszłości D. L-21103
  
 **NIEUŻYWANE !!**
 
+**Galeria:**
+
+- 21103-1: https://a.allegroimg.com/original/11f072/40096c3a45e5a4ee807476a9b889
+
 ---
 
-## 21108 — Lego Ideas Ghostbusters 21108 Zestaw Samochód Ecto-1
+## 21108 — Klocki LEGO Ideas 21108 Ghostbusters Ecto-1
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 689.00 zł · EAN: 05702015287593 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21108 |
+| Nazwa angielska | Ghostbusters Ecto-1 |
+| Nazwa polska | Klocki LEGO Ideas 21108 Ghostbusters Ecto-1 |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 508 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015287593 |
 
 PROSZĘ ZWRÓCIĆ UWAGĘ NA STAN OPAKOWANIA WIDOCZNEGO NA ZDJĘCIACH. NA ŻYCZENIE DOŚLĘ SZCZEGÓŁOWE FOTOGRAFIE.
 
@@ -74,11 +117,27 @@ ZDJĘCIA PRZEDSTAWIAJĄ FAKTYCZNY STAN PRODUKTU.
 
 ZAPRASZAM RÓWNIEŻ NA INNE MOJE AUKCJE Z LEGO W SUPER CENACH.
 
+**Galeria:**
+
+- 21108-1: https://a.allegroimg.com/original/1138b1/b5ef639d4ee1976ee764f4d6e055
+
 ---
 
-## 21109 — Lego 21109 Ideas Exo Suit
+## 21109 — Exo Suit
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 649.99 zł · EAN: 00673419222389 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21109 |
+| Nazwa angielska | Exo-Suit |
+| Nazwa polska | Exo Suit |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419222389 |
 
 LEGO 21109 Ideas - Exo Suit
 
@@ -103,11 +162,27 @@ Zestaw zawiera również instrukcje budowania oraz ciekawą broszurę z kosmiczn
 - **Idealny prezent** dla fanów klocków LEGO® i kosmicznych odkrywców w każdym wieku.
 - **Model ma ponad 22 cm wysokości** z rozłożoną anteną.
 
+**Galeria:**
+
+- 21109-1: https://a.allegroimg.com/original/4546a4/b5d1de8642ff84166a1e92ac877f
+
 ---
 
-## 21110 — Lego Ideas 21110 Ośrodek Badawczy Nowe
+## 21110 — Ośrodek Badawczy
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 307.00 zł · EAN: 05702015287616 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21110 |
+| Nazwa angielska | Research Institute |
+| Nazwa polska | Ośrodek Badawczy |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2014 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 165 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015287616 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -131,11 +206,27 @@ Instytut naukowy ma wszystko, czego potrzebujesz, aby badać świat pod nogami, 
 - W zestawie instrukcja składania oraz broszura z informacjami o twórcy oraz specjalnościach ukazanych w zestawie 
 - Wymiary pojedynczej scenki: ok. 3,5 x 3 x 3 cm
 
+**Galeria:**
+
+- 21110-1: https://a.allegroimg.com/original/11deab/314bfc074d60820575826edf675f
+
 ---
 
-## 21301 — Klocki Lego Ideas Birds Ptaki 21301 Zestaw Kolekcjonerski
+## 21301 — Ptaki
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 823.00 zł · EAN: 00673419241632 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21301 |
+| Nazwa angielska | Birds |
+| Nazwa polska | Ptaki |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 580 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419241632 |
 
 LEGO Ideas Birds 21301
 
@@ -155,11 +246,27 @@ Koliber ma ponad 15 cm wysokości wraz ze stojakiem
 
 Rudzik ma ponad 17 cm wysokości wraz ze stojakiem
 
+**Galeria:**
+
+- 21301-1: https://a.allegroimg.com/original/11d300/369eb7d74f238fb23660e3bd6dc9
+
 ---
 
-## 21302 — Lego Ideas 21302Teoria Wielkiego Podrywu 484 elementy
+## 21302 — LEGO Ideas The Big Bank Theory 21302 Teoria Wielkiego Podrywu
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1170.00 zł · EAN: 05702015518895 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21302 |
+| Nazwa angielska | The Big Bang Theory |
+| Nazwa polska | LEGO Ideas The Big Bank Theory 21302 Teoria Wielkiego Podrywu |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 484 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015518895 |
 
 LEGO IDEAS 21302 - TEORIA WIELKIEGO PODRYWU -
 
@@ -169,11 +276,27 @@ Uwolnij swojego wewnętrznego geniusza i zbuduj z LEGO® wersję salonu Leonarda
 
 Zestaw wysyłany w dodatkowym kartonie i folii zabezpieczającej.
 
+**Galeria:**
+
+- 21302-1: https://a.allegroimg.com/original/119e9f/5f0fed094bd692a99512708e7ea6
+
 ---
 
-## 21303 — Lego 21303 Ideas Wall-e Unikat
+## 21303 — Wall-e
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1389.99 zł · EAN: 05702015535571 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21303 |
+| Nazwa angielska | WALL•E [Original Version] |
+| Nazwa polska | Wall-e |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 677 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015535571 |
 
 **LEGO Ideas 21303 – WALL‑E (wersja oryginalna)**
  
@@ -218,11 +341,27 @@ Zestaw wysyłany w dodatkowym kartonie i folii zabezpieczającej.
  
 Zestaw **LEGO Ideas 21303 WALL‑E** to niezwykłe połączenie nostalgii, mechanicznej funkcjonalności i wartości kolekcjonerskiej. Starannie odwzorowany, pełen ruchomych funkcji i z symbolem roślinki, stanowi świetną dekorację i efektowny komplet do budowy. Mimo wycofania z produkcji wartość zestawu rośnie, co czyni go atrakcyjną pozycją dla kolekcjonerów.
 
+**Galeria:**
+
+- 21303-1: https://a.allegroimg.com/original/116ea3/3c9be03e4d80957a9f26db5be848
+
 ---
 
-## 21304 — Lego Ideas 21304 Doctor Who
+## 21304 — who
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 989.99 zł · EAN: 05702015535588 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21304 |
+| Nazwa angielska | Doctor Who |
+| Nazwa polska | who |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2015 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 623 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015535588 |
 
 LEGO 21304 Ideas - Doctor Who
 
@@ -245,11 +384,27 @@ Zestaw został zaprojektowany przez fana i wybrany przez społeczność LEGO Ide
 - stan opakowania: idealne 6/6
 - nowe, fabrycznie zaplombowane
 
+**Galeria:**
+
+- 21304-1: https://a.allegroimg.com/original/11d262/54cf53e54219ae4ac38f4af9fae2
+
 ---
 
-## 21305 — Lego Ideas 21305 Lego 21305 Maze
+## 21305 — LEGO 21305 Maze
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702015647090 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21305 |
+| Nazwa angielska | Maze |
+| Nazwa polska | LEGO 21305 Maze |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 769 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 27 cm × gł. 26 cm |
+| EAN | 5702015647090 |
 
 Labirynt z zestawu „2 w 1” można przerobić na labirynt w stylu klasycznym lub średniowiecznym. Można też uruchomić wyobraźnię i budować własne modele do pokonania. Ten klasyczny zestaw został zaprojektowany przez fana klocków LEGO®, Jasona Allemanna z Kanady i wybrany przez członków społeczności LEGO Ideas. Zawiera sterowany pokrętłami mechanizm, który przechyla labirynt i w ten sposób pozwala odpowiednio pokierować kulką, a także zdejmowany pojemnik z 4 pomarańczowymi kulkami oraz blokadę podróżną, która ułatwia transport. Zestaw jest odpowiedni dla osób w wieku od 10 lat, a dzięki ciekawym podpowiedziom projektanta, które znajdują się w dołączonej do niego broszurce, możesz go przebudować tak, żeby jego pokonanie było łatwiejsze lub trudniejsze.
 
@@ -264,11 +419,27 @@ Labirynt z zestawu „2 w 1” można przerobić na labirynt w stylu klasycznym 
 - Zestaw odpowiedni dla dzieci w wieku od 10 lat.
 - Wymiary: ok. 7 cm wysokości, 27 cm szerokości i 26 cm głębokości.
 
+**Galeria:**
+
+- 21305-1: https://a.allegroimg.com/original/005459/c333ed6045d2961130a641b6457d
+
 ---
 
-## 21306 — Lego Ideas 21306 Beatles Żółta łódź podwodna
+## 21306 — Żółta łódź podwodna
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 965.00 zł · EAN: 05702015735049 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21306 |
+| Nazwa angielska | The Beatles Yellow Submarine |
+| Nazwa polska | Żółta łódź podwodna |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 553 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 6 cm |
+| EAN | 5702015735049 |
 
 LEGO Ideas - 21306 The Beatles Żółta łódź podwodna - Nowe
 
@@ -286,11 +457,27 @@ Zbuduj ten niezwykły model LEGO® kultowej żółtej łodzi podwodnej ze słynn
 - Wymiary podstawki pod łódź: ok. 3 cm wysokości, 11 cm szerokości i 10 cm głębokości. 
 - Wymiary podstawki na minifigurki: ok. 12 cm szerokości, 4 cm głębokości i 1,6 cm wysokości.
 
+**Galeria:**
+
+- 21306-1: https://a.allegroimg.com/original/11855f/4a3eabf64c7f90059f82497d702e
+
 ---
 
-## 21307 — Lego Ideas 21307 Caterham Seven Unikat Kolekcjonerski
+## 21307 — Caterham Seven
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 898.99 zł · EAN: 05702015870559 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21307 |
+| Nazwa angielska | Caterham Seven 620R |
+| Nazwa polska | Caterham Seven |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 771 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 10 cm × szer. 14 cm |
+| EAN | 5702015870559 |
 
 LEGO Caterham Seven 620R 21307
  
@@ -306,11 +493,27 @@ Zbuduj wystawowy model stylowego samochodu Caterham Seven 620R z klocków LEGO. 
 - Zestaw zawiera ponad 770 klocków i jest odpowiedni dla dzieci w wieku od 12 roku życia. 
 - Wymiary: ok. 10 cm wysokości, 28 cm długości i 14 cm szerokości.
 
+**Galeria:**
+
+- 21307-1: https://a.allegroimg.com/original/03cf23/46a4ba4a49159579ed2682027659
+
 ---
 
-## 21308 — Lego 21308 Adventure Time
+## 21308 — Adventure Time
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 449.00 zł · EAN: 05702015879668 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21308 |
+| Nazwa angielska | Adventure Time |
+| Nazwa polska | Adventure Time |
+| Seria | Ideas |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 495 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015879668 |
 
 Oryginalne, nienaruszone opakowanie
 
@@ -326,11 +529,27 @@ Numer magazynowy sprzedawcy: 20260002
 
 Przybliżone wymiary opakowania: 26 x 19 x 6 cm
 
+**Galeria:**
+
+- 21308-1: https://a.allegroimg.com/original/1119a5/ade481ec4d29af3bd36bcc29af28
+
 ---
 
-## 21309 — Lego Ideas 21309 Rakieta Nasa Apollo Saturn V
+## 21309 — RAKIETA NASA Apollo Saturn V
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1089.00 zł · EAN: 05702016000078 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21309 |
+| Nazwa angielska | NASA Apollo Saturn V |
+| Nazwa polska | RAKIETA NASA Apollo Saturn V |
+| Seria | Ideas |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1969 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016000078 |
 
 LEGO IDEAS RAKIETA NASA Apollo Saturn V 21309
  
@@ -343,11 +562,27 @@ LEGO IDEAS RAKIETA NASA Apollo Saturn V 21309
  
 Jest to pierwsza edycja pod nr 21309
 
+**Galeria:**
+
+- 21309-1: https://a.allegroimg.com/original/119392/0c036a064cfa8e180d41323bf44b
+
 ---
 
-## 21310 — Lego Ideas 21310 Stary sklep wędkarski Opis
+## 21310 — LEGO IDEAS 21310 Stary sklep wędkarski
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1899.00 zł · EAN: 05702016041057 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21310 |
+| Nazwa angielska | Old Fishing Store |
+| Nazwa polska | LEGO IDEAS 21310 Stary sklep wędkarski |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2049 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 25 cm × gł. 25 cm |
+| EAN | 5702016041057 |
 
 W starym sklepie wędkarskim znajdziesz cały sprzęt, potrzebny do zorganizowania fantastycznej wyprawy na ryby. Wejdź po schodkach z plaży i zajrzyj do środka. Znajdziesz w nim wędki, haczyki, harpuny, sprzęt do nurkowania, butle z tlenem i nie tylko. Po drabinie możesz wspiąć się na szczyt wieży obserwacyjnej i skorzystać z teleskopu by podziwiać widoki. Potem rozsiądź się wygodnie w biurze i zrelaksuj czytając gazetę. Tylko uważaj, żeby kot lub mewy nie dobrały się do świeżo złowionych ryb wiszących na zewnątrz.
 
@@ -366,11 +601,27 @@ Odwiedź stary sklep wędkarski na plaży wypełniony akcesoriami do połowu ryb
 
 Niżej znajdą Państwo realne zdjęcia sprzedawanego egzemplarza:
 
+**Galeria:**
+
+- 21310-1: https://a.allegroimg.com/original/119a72/d976f6d643fa9baa4f842bb0c69c
+
 ---
 
-## 21311 — Klocki Lego Ideas Zestaw Robot Voltron Legendarny obrońca 21311
+## 21311 — Voltron
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1849.00 zł · EAN: 05702016068726 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21311 |
+| Nazwa angielska | Voltron |
+| Nazwa polska | Voltron |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2321 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 40 cm × szer. 21 cm |
+| EAN | 5702016068726 |
 
 Klocki LEGO Ideas Zestaw Voltron 21311Czas obronić wszechświat przed niebezpieczeństwem z zestawem** LEGO Ideas 21311 Voltron** — największym jak do tej pory robotem zbudowanym z LEGO. Ten wspaniały zestaw zawiera ruchome lwy do zbudowania: czarnego, niebieskiego, żółtego, czerwonego i zielonego. Figurki mają specjalnie zaprojektowane, supersilne złącza, dzięki którym można połączyć je w potężnego robota Voltrona. W komplecie jest też ogromny miecz i tarcza, które doskonale pasują do dłoni Voltrona. XX wieku oraz nowego serialu wytwórni DreamWorks „Voltron: Legendarny obrońca”.
 
@@ -396,11 +647,27 @@ Miecz Voltrona ma ok. 29 cm długości.
 
 Tarcza Voltrona ma ok. 16 cm średnicy.
 
+**Galeria:**
+
+- 21311-1: https://a.allegroimg.com/original/11f117/0f73d170454f964ea787c29fd4c0
+
 ---
 
-## 21312 — Lego Ideas 21312 Kobiety z Nasa
+## 21312 — LEGO 21312 Ideas - Kobiety z NASA
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 213.63 zł · EAN: 05702016108453 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21312 |
+| Nazwa angielska | Women of NASA |
+| Nazwa polska | LEGO 21312 Ideas - Kobiety z NASA |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2017 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 9 cm × gł. 6 cm |
+| EAN | 5702016108453, 673419280976 |
 
 ZAPRASZAMY DO ZAKUPU
 
@@ -444,11 +711,28 @@ Odkryj zawody kilku genialnych kobiet zajmujących się nauką, technologią, in
 
 - Model Sally Ride i Mae Jemison ma ok. 12 cm wysokości, 10 cm szerokości i 6 cm głębokości.
 
+**Galeria:**
+
+- 21312-1: https://a.allegroimg.com/original/00683d/325f2220403096129f7275c36cfd
+- 21312-2: https://a.allegroimg.com/original/113bcf/ed93fff84475ae32a06888495e8f
+
 ---
 
-## 21314 — Lego Ideas 21314 Tron Legacy Dziedzictwo
+## 21314 — 21314
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 427.95 zł · EAN: 05702016173772 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21314 |
+| Nazwa angielska | TRON: Legacy |
+| Nazwa polska | 21314 |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 230 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016173772 |
 
 LEGO Ideas 21314 TRON: Legacy
 
@@ -475,11 +759,27 @@ Galeria produktu:
 
 Zdjęcia poglądowe
 
+**Galeria:**
+
+- 21314-1: https://a.allegroimg.com/original/110f29/1561181e4e749a146a4b86b4f54a
+
 ---
 
-## 21317 — Lego Ideas 21317 Parowiec Willie Nowe
+## 21317 — Parowiec Willie
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 565.00 zł · EAN: 05702016501995 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21317 |
+| Nazwa angielska | Steamboat Willie |
+| Nazwa polska | Parowiec Willie |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 751 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016501995 |
 
 LEGO ® 21317 Ideas Parowiec Willie
  
@@ -499,11 +799,27 @@ Akcesoria w zestawie to gitara i nuty Myszki Minnie.
  
 Do tego kreatywnego zestawu konstrukcyjnego LEGO® Ideas dołączona jest broszura z instrukcjami budowania i ciekawostkami na temat animowanego filmu krótkometrażowego Disneya „Parowiec Willie” z 1928 r. Znajdziesz w niej również informacje o fanie, który stworzył ten niezwykły zestaw retro, oraz projektantach LEGO, którzy nad nim pracowali.
 
+**Galeria:**
+
+- 21317-1: https://a.allegroimg.com/original/11d7f7/cbfb05eb40ecb767d9b22002a375
+
 ---
 
-## 21318 — Lego Ideas 21318 Domek na drzewie
+## 21318 — Domek na drzewie
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 947.99 zł · EAN: 05702016554205 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21318 |
+| Nazwa angielska | Tree House |
+| Nazwa polska | Domek na drzewie |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 3036 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016554205 |
 
 Klocki LEGO® 21318 Ideas Domek na drzewie
 
@@ -527,11 +843,27 @@ Dla kogo będzie odpowiedni?
 
 Zestaw jest przeznaczony dla osób w wieku od 16 lat. To złożony model dla doświadczonych budowniczych LEGO®, którzy lubią szczegółowe konstrukcje z bogato wyposażonym wnętrzem i elementami scenek rodzinnych.
 
+**Galeria:**
+
+- 21318-1: https://a.allegroimg.com/original/11b445/d3d1e7d942d3bcfe48a4c34eb22e
+
 ---
 
-## 21319 — Klocki Lego Ideas Zestaw Friends Centralny Perk 21319
+## 21319 — Centralny Perk
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 599.00 zł · EAN: 05702016603842 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21319 |
+| Nazwa angielska | Central Perk |
+| Nazwa polska | Centralny Perk |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1070 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016603842 |
 
 Klocki LEGO IDEAS FRIENDS
 
@@ -539,11 +871,27 @@ Serial "Przyjaciele" niedawno obchodził swoje 25. urodziny. To doskonała okazj
 
 Ten miniaturowy budynek wiernie oddaje wszystkie detale, które mogliśmy zobaczyć na szklanym ekranie. W kawiarni nie zabraknie także rozbudowanej części barowej, na którą składają się chociażby ekspres, lada, kasa czy słoik z ciasteczkami. To jednak dopiero początek listy atrakcji, które czekają na wszystkich koneserów tego kultowego serialu. W zestawie LEGO Ideas 21319 na fanów "Przyjaciół" czekają także przedmioty, które każdemu miłośnikowi tej produkcji przypomną najsłynniejsze sceny. Stąd w słynnej kawiarni znajdziemy także instrumenty muzyczne takie jak gitara, na której grała Phoebe, czy akordeon, który trafił w ręce Rossa.
 
+**Galeria:**
+
+- 21319-1: https://a.allegroimg.com/original/058561/6d29a2d64b22980eb8fe762e3786
+
 ---
 
-## 21320 — Klocki Lego Ideas Zestaw Szkielety dinozaurów 21320
+## 21320 — Szkielety dinozaurów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 419.99 zł · EAN: 05702016615586 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21320 |
+| Nazwa angielska | Dinosaur Fossils |
+| Nazwa polska | Szkielety dinozaurów |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 910 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016615586 |
 
 **Kolekcjonerski zestaw LEGO Ideas Szkielety dinozaurów** — doskonały do postawienia na półce!
 
@@ -563,11 +911,27 @@ Dowiedz się, jak wyglądało życie na Ziemi miliony lat temu, budując przy ok
 - **Płeć:** Chłopiec
 - **Waga (kg):** 1
 
+**Galeria:**
+
+- 21320-1: https://a.allegroimg.com/original/252227/776a0e19476fafb48e68151547dd
+
 ---
 
-## 21321 — Klocki Lego Ideas Zestaw Międzynarodowa Stacja Kosmiczna Nasa Iss 21321
+## 21321 — Międzynarodowa Stacja Kosmiczna
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 539.00 zł · EAN: 05702016719062 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21321 |
+| Nazwa angielska | International Space Station |
+| Nazwa polska | Międzynarodowa Stacja Kosmiczna |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 864 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016719062 |
 
 **Klocki LEGO Ideas Zestaw Międzynarodowa Stacja Kosmiczna NASA ISS 21321**
 
@@ -583,11 +947,27 @@ W pudełku czeka też 148-stronicowa broszura z niezwykłymi ciekawostkami o Mi�
 
 Zestaw liczy 864 elementy i dostarczy mnóstwa kreatywnej zabawy — w pojedynkę lub w towarzystwie. To świetny pomysł na świąteczny lub urodzinowy prezent dla Ciebie lub innego fana kosmosu, konstruktora w wieku ponad 16 lat oraz każdego doświadczonego budowniczego LEGO.
 
+**Galeria:**
+
+- 21321-1: https://a.allegroimg.com/original/116b27/082d291042d99a91537a0fbcb40d
+
 ---
 
-## 21322 — Lego Ideas 21322 Piraci z Zatoki Barakud
+## 21322 — LEGO Ideas Piraci z Zatoki Barakud 21322
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1679.00 zł · EAN: 05702016819601 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21322 |
+| Nazwa angielska | Pirates of Barracuda Bay |
+| Nazwa polska | LEGO Ideas Piraci z Zatoki Barakud 21322 |
+| Seria | Ideas |
+| Grupa wiekowa | 16 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2545 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 59 cm × szer. 64 cm × gł. 32 cm |
+| EAN | 5702016819601 |
 
 - Zbuduj model wyspy z wrakiem z zestawu LEGO® Ideas Piraci z Zatoki Barakud (21322) do zabawy lub postawienia na półce. Wyspę można podzielić, a jej części przestawić, by odsłonić ukryty skarb piratów.
 - W zestawie jest osiem minifigurek, w tym Kapitan Rudobrody, Lady Kotwica, Robin Łup oraz bliźniaki Grot i Szot. Dodajmy do tego rekina, świnkę, dwie papugi, trzy kraby, dwie żaby i dwie figurki szkieletów, a zabawa na pewno będzie udana.
@@ -595,51 +975,27 @@ Zestaw liczy 864 elementy i dostarczy mnóstwa kreatywnej zabawy — w pojedynk�
 - Ten liczący 2545 elementów piracki model doskonale sprawdzi się jako prezent urodzinowy lub świąteczny dla fanów klocków LEGO® i bandery z trupią czaszką. Sięgnij po niego, by oderwać się od codziennych stresów — czekają Cię całe godziny kreatywnego, pobudzającego budowania.
 - Ten model wyspy z wrakiem statku piratów ma ok. 59 cm wysokości, 64 cm szerokości oraz 32 cm głębokości. Z pewnością nikt nie przejdzie koło niego obojętnie, jeśli ozdobisz nim pokój lub biurko w pracy.
 
----
+**Galeria:**
 
-## 21323 — Lego Ideas 21323
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702016756401 · in stock*
-
-Znajdź chwilę dla siebie i daj koncert kreatywności, budując świetny fortepian LEGO® Ideas do grania pięknej muzyki lub postawienia na półce. Ten nowatorski model ma silnik i działające klawisze. Podłącz go do aplikacji LEGO Powered UP i naciskaj klawisze samodzielnie albo posłuchaj muzyki odtwarzanej automatycznie. Nie ma na co czekać! Łap klocki i zacznij budowę arcydzieła LEGO!
- 
-Niezwykły fortepian LEGO Ideas to spełnienie marzeń fanów LEGO® — dzięki aplikacji LEGO Powered Up zobaczysz i usłyszysz, jak gra!
-
-Czy pasjonujesz się muzyką? W wolnym czasie lubisz się zrelaksować, własnoręcznie realizując różne ciekawe projekty? Jeśli odpowiedź na te pytania jest twierdząca, to model fortepianu z zestawu LEGO® Ideas 21323 dostarczy Ci mnóstwa kreatywnej zabawy.Do grania i ozdoby.
- 
-Samodzielne zbudowanie z klocków wyjątkowego fortepianu koncertowego to z pewnością powód do dumy! Podczas budowania odtworzysz realistyczne szczegóły — klawisze uruchamiające młoteczki, poruszający się pedał, otwartą nakrywkę z podpórką oraz pokrywę klawiatury.
- 
-Zrób sobie chwilę wolnego, by z przyjemnością zbudować z klocków LEGO muzyczne dzieło sztuki, które może być ozdobą Twojego domu lub biura. Model należy do serii zestawów konstrukcyjnych LEGO dla dorosłych i świetnie nadaje się na prezent urodzinowy lub gwiazdkowy — możesz podarować go znajomemu muzykowi, pianiście lub hobbiście... albo zatrzymać dla siebie.
-
- 
-- Orkiestra, tusz! Przedstawiamy pierwszy na świecie otwierany fortepian LEGO®! Poczuj przyjemność z samodzielnego zbudowania modelu fortepianu koncertowego LEGO, który na dodatek pozwala grać muzykę dzięki aplikacji LEGO Powered Up. 
-- Fortepian LEGO® Ideas (21323) ma odłączaną klawiaturę z 25 klawiszami, realistycznie działające młoteczki, ruchome tłumiki i pedał oraz silnik. Dzięki aplikacji LEGO Powered Up możesz zagrać na nim samodzielnie lub automatycznie. 
-- Realistyczne detale tego zaawansowanego modelu to prawdziwa radość dla oczu — jest tam górna nakrywa, którą można podeprzeć jak w prawdziwym fortepianie koncertowym, otwierana pokrywa klawiatury, nóżki z kółkami oraz ławeczka, której wysokość można ustawić. 
-- Masz ochotę na kreatywny projekt do samodzielnego zbudowania? Ten liczący 3662 elementy model będzie w sam raz. Zrób sobie chwilę wolnego, by zmierzyć się z satysfakcjonującym wyzwaniem, zapomnieć o stresach i zapewnić sobie zastrzyk energii. 
-- Zamknięty fortepian ma ok. 22,5 cm wysokości, 30,5 cm szerokości i 35,5 cm głębokości. Może być elegancką ozdobą domu lub biura albo świetnym prezentem dla muzyka, melomana, pianisty lub hobbisty. 
-
- 
-- Wybierz autoodtwarzanie albo funkcję odtwarzania użytkownika, aby samodzielnie naciskać klawisze. 
-- Zestaw zawiera przejrzyście napisane instrukcje, dzięki którym nawet nowicjusze w świecie LEGO® poradzą sobie z budowaniem i będą się przy tym świetnie bawić. Jest tam także broszura w formacie albumu zawierająca rozmaite informacje i przedstawiająca sylwetkę fana, który zaprojektował zestaw z fortepianem. 
-- Ten model LEGO® Ideas należy do serii inspirujących zestawów, które są przeznaczone dla dorosłych hobbistów ceniących sobie pasjonujące projekty do samodzielnego wykonania. 
-- Klocki LEGO® już od 1958 r. spełniają najwyższe standardy branżowe, dzięki czemu są jednolite, zawsze do siebie pasują i można je z łatwością połączyć i rozdzielić. 
-- Klocki i elementy LEGO® są rygorystycznie testowane pod kątem zgodności z normami bezpieczeństwa i jakości. 
-
-Sprzedaję moją kolekcję Lego zbieraną przez wiele lat.
-
-Zestawy są w stanie kolekcjonerskim, opakowania w idealnym stanie.
-
-Proszę zobaczyć moje pozostałe ogłoszenia.
-
-Paczka zostanie odpowiednio zabezpieczona by klocki dotarły w stanie nie pogorszonym (folia bąbelkowa plus dodatkowy karton)
-
-W razie wątpliwości proszę pisać lub dzwonić.
+- 21322-1: https://a.allegroimg.com/original/0089ac/9435cf3846d4b03d67a426cadd25
 
 ---
 
-## 21324 — Lego Ideas 21324 123 Ulica Sezamkowa (123 Sesame Street)
+## 21324 — Sesame Street
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 700.00 zł · EAN: 05702016819953 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21324 |
+| Nazwa angielska | 123 Sesame Street |
+| Nazwa polska | Sesame Street |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1367 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 24 cm × szer. 36,2 cm × gł. 21 cm |
+| EAN | 5702016819953 |
 
 Już od ponad 50 lat Ulica Sezamkowa jest ulubionym serialem familijnym wielu ludzi na świecie. Dzięki zestawowi LEGO Ideas 21324 dla dorosłych teraz również i Ty możesz stworzyć kolorowy model 123 Sesame Street z klocków LEGO, aby jeszcze raz przeżyć klasyczne momenty z serialu.
  
@@ -663,11 +1019,27 @@ Ten modelowy zestaw jest częścią kolekcji zestawów LEGO, dzięki którym dor
 - Klocki LEGO spełniają najwyższe branżowe standardy. Dzięki temu wszystkie mają jednolity wygląd, pasują do siebie i można je za każdym razem z łatwością połączyć i rozdzielić — i tak jest niezmiennie od 1958 roku. 
 - Klocki i elementy do budowania LEGO są zrzucane, podgrzewane, zgniatane, skręcane i dokładnie badane na wiele innych sposobów. Dzięki temu mamy pewność, że każdy zestaw LEGO spełnia najwyższe światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21324-1: https://a.allegroimg.com/original/257388/26155baa46ffb9e82f99a53d9aa3
+
 ---
 
-## 21325 — Zestaw Lego Ideas Średniowieczna kuźnia 21325 2164 el.
+## 21325 — Średniowieczna kuźnia
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 820.00 zł · EAN: 05702016911985 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21325 |
+| Nazwa angielska | Medieval Blacksmith |
+| Nazwa polska | Średniowieczna kuźnia |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016911985 |
 
 LEGO Ideas Średniowieczna kuźnia 2164 el. 21325
  
@@ -681,11 +1053,27 @@ Minifigurki i nie tylko Zestaw zawiera cztery minifigurki, dzięki którym model
 - Dach i dwa najwyższe poziomy trzypoziomowego budynku można zdejmować, co pozwoli dzieciom łatwo sięgnąć do w pełni urządzonej sypialni, kuchni i warsztatu. W ogrodzie jest model jabłoni oraz studnia. 
 - Warsztat mieści mnóstwo akcesoriów, takich jak narzędzia, węgiel czy zbroja. Naciśnij miech, a świecący klocek LEGO® w palenisku włączy się, tworząc imitację żaru.
 
+**Galeria:**
+
+- 21325-1: https://a.allegroimg.com/original/05c4e7/5fcd15084b71a6fd97e71371b9cf
+
 ---
 
-## 21327 — Lego 21327 Ideas Maszyna do pisania
+## 21327 — LEGO Maszyna do pisania 21327
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1440.00 zł · EAN: 05702016995831 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21327 |
+| Nazwa angielska | Typewriter |
+| Nazwa polska | LEGO Maszyna do pisania 21327 |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2079 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 27 cm × gł. 26 cm |
+| EAN | 5702016995831 |
 
 LEGO Maszyna do pisania 21327
  
@@ -713,11 +1101,27 @@ Ten model jest częścią serii wysokiej jakości zestawów konstrukcyjnych LEGO
 - Elementy LEGO® od 1958 r. spełniają wymogi najwyższych standardów branżowych. Dzięki temu są jednolite i łatwo je połączyć, a zbudowane modele są bardzo solidne. 
 - Klocki i elementy LEGO® są testowane na niemal każdy możliwy sposób, aby upewnić się, że spełniają wymagające światowe standardy bezpieczeństwa.
 
+**Galeria:**
+
+- 21327-1: https://a.allegroimg.com/original/2540c7/6f88909a4a3c8bf545e4cd1bb25b
+
 ---
 
-## 21328 — Lego Ideas 21328 Seinfeld
+## 21328 — Seinfeld
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 358.00 zł · EAN: 05702016995756 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21328 |
+| Nazwa angielska | Seinfeld |
+| Nazwa polska | Seinfeld |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1326 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 33 cm × gł. 18 cm |
+| EAN | 5702016995756 |
 
 LEGO IDEAS
  
@@ -747,11 +1151,27 @@ Model ma ok. 14 cm wysokości, 33 cm szerokości i 18 cm głębokości. Ta zachw
  
 Tę cudowną, kolekcjonerską pamiątkę możesz zbudować solo albo z przyjaciółmi lub rodziną. Gdy skończysz, zrób zdjęcia i pochwal się swoim przywiązaniem do serialu „Seinfeld”.
 
+**Galeria:**
+
+- 21328-1: https://a.allegroimg.com/original/1156be/e3715a3546d48f2a1a232bb3688a
+
 ---
 
-## 21329 — Klocki Lego Ideas Zestaw Gitara Elektryczna Fender Stratocaster 21329
+## 21329 — Fender Stratocaster
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1299.00 zł · EAN: 05702017071978 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21329 |
+| Nazwa angielska | Fender Stratocaster |
+| Nazwa polska | Fender Stratocaster |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1074 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017071978 |
 
 **Klocki LEGO Ideas Zestaw Gitara Elektryczna Fender Stratocaster 21329**
 
@@ -765,33 +1185,27 @@ W komplecie składany stojak na gitarę, cztery różnokolorowe kostki do gitary
 
 Gitara ma ok. 36 cm długości, 11 cm szerokości i 3 cm grubości. Ten kolekcjonerski model LEGO® będzie świetnym prezentem dla gitarzystów, miłośników muzyki i fanów gitary Fender® Stratocaster®.
 
----
+**Galeria:**
 
-## 21330 — Klocki Lego Home Alone 21330 3955 elementów 18+
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1163.55 zł · EAN: 05702017006178 · in stock*
-
-Sięgnij po zestaw LEGO® Ideas Sam w domu (21330), by jeszcze raz przeżyć sceny z komedii, przy której w każde święta zaśmiewały się całe rodziny. Dom McCallisterów jest pełen elementów, które natychmiast rozpoznasz, oraz wspaniałych funkcji, które ułatwiają odgrywanie zabawnych scenek. W zestawie jest wszystko, co potrzebne do pokazania sceny udawanej imprezy świątecznej Kevina, a także piwniczny piec ze świecącym klockiem LEGO, funkcja upuszczania żelazka, kołyszące się puszki z farbami, zapadające się półki, lina ze strychu do domku na drzewie i wiele innych szczegółów. Każdy poziom domu można odłączyć, a ściany i dach otwierają się, by łatwiej było sięgnąć do środka.
- 
-Najlepszy prezent na Boże Narodzenie W pudełku czeka na Ciebie pięć minifigurek LEGO — Kevin McCallister, jego mama Kate McCallister, złodziejaszki Harry i Marv oraz sąsiad „Old Man” Marley. Do tego w środku znajdziesz furgonetkę Harry’ego Marva z łomem i policyjną czapką w środku. To największy jak dotąd zestaw LEGO Ideas — liczy aż 3957 elementów! Z tego powodu klocki zostały podzielone na woreczki zgodnie z fabułą filmu, więc można połączyć budowanie z odtwarzaniem filmowej historii.
-
- 
-- Z zestawem LEGO® Sam w domu (21330) powspominasz uwielbiany przez całą rodzinę świąteczny film komediowy. W środku znajdziesz model domu McCallisterów, domek na drzewie i furgonetkę złodziejaszków. To świetna zabawka, która może też stać się ozdobą Twojej kolekcji. 
-- Zestaw z filmową pamiątką do zbudowania z klocków to fajny pomysł na świąteczny prezent dla milenialsów, którzy lubią film „Kevin sam w domu”. W zestawie pięć minifigurek LEGO®: Kevin McCallister, Kate McCallister, Harry, Marv i „staruszek” Marley. 
-- Ściany i dach domu otwierają się, pozwalając na łatwy dostęp do wnętrza, gdzie kryje się wiele zabawnych funkcji, w tym huśtające się puszki z farbami. Jest tam także piec w piwnicy, który świeci, oraz dźwignia, dzięki której Kevin może zjechać po schodach na swoich sankach. 
-- W każdym pokoju i we wnętrzu furgonetki znajdziesz detale, które ożywiają wspomnienie najzabawniejszych scen. Bardzo ważna jest też lina, po której Kevin może uciec do domku na drzewie. 
-- Budowanie tego zestawu to doskonała świąteczna rozrywka dla całej rodziny, a mierzący ok. 27 cm wysokości, 34 cm szerokości i 37 cm głębokości model może stać się ozdobą bożonarodzeniowej kolekcji. 
-- Klocki są zapakowane w 24 woreczki, co pozwala budować w zgodzie z fabułą filmu. W zestawie jest bateria LR41 do zasilania świecącego klocka LEGO® w piecu. 
-- Model liczy 3957 elementów i zawiera ilustrowaną broszurkę, z której dowiesz się więcej o filmie „Kevin sam w domu” oraz o fanie i projektantach LEGO®, którzy stworzyli ten zestaw. Są tam także szczegółowe instrukcje budowania, dzięki którym składanie klocków będzie fascynującą i satysfakcjonującą zabawą. 
-- Ten kolekcjonerski zestaw dla dorosłych jest częścią emocjonującej serii modeli LEGO® Ideas stworzonych przez fanów, wybranych głosami tysięcy miłośników LEGO oraz wyprodukowanych przez Grupę LEGO. 
-- Elementy LEGO® spełniają rygorystyczne branżowe standardy jakości, dzięki czemu możesz mieć pewność, że łatwo się łączą i mocno się trzymają. I tak jest niezmiennie od 1958 r. 
-- Klocki i elementy do budowania LEGO® są poddawane gruntownym testom. Dzięki temu mamy pewność, że każdy zestaw LEGO spełnia rygorystyczne światowe standardy bezpieczeństwa.
+- 21329-1: https://a.allegroimg.com/original/05c661/7b223c2a43c2a9b292aad0f311d9
 
 ---
 
-## 21331 — Lego Ideas 21331 Sonic The Hedgehog Green Hill Zone
+## 21331 — Sonic The Hedgehog - Green Hill Zone
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 293.00 zł · EAN: 05702017153124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21331 |
+| Nazwa angielska | Sonic the Hedgehog – Green Hill Zone |
+| Nazwa polska | Sonic The Hedgehog - Green Hill Zone |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1125 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 17 cm × szer. 36 cm × gł. 6 cm |
+| EAN | 5702017153124 |
 
 LEGO Ideas 21331 Sonic The Hedgehog Strefa Zielonego Wzgórza
  
@@ -816,11 +1230,27 @@ Oddaj cześć ikonie popkultury i odwzoruj rozgrywkę z klasycznej gry dzięki z
 - Wybór fanów LEGO® — Ten zestaw dla dorosłych jest częścią emocjonującej serii modeli LEGO Ideas stworzonych przez fanów, wybranych głosami tysięcy miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Wysoka jakość — Już od 1958 roku klocki LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu za każdym razem mocno się łączą i umożliwiają budowanie solidnych modeli
 
+**Galeria:**
+
+- 21331-1: https://a.allegroimg.com/original/05341c/981a294b46d9839103ce862feddd
+
 ---
 
-## 21332 — Lego Ideas 21332 Globus Kula Ziemska Zestaw
+## 21332 — Globus
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1260.00 zł · EAN: 05702017153742 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21332 |
+| Nazwa angielska | The Globe |
+| Nazwa polska | Globus |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2585 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017153742 |
 
 LEGO Ideas 21332 Globus – 2585 elementów
 
@@ -874,11 +1304,27 @@ Specyfikacja produktu
 - **Płeć:** chłopcy i dziewczynki
 - **Bohater / bajka:** brak
 
+**Galeria:**
+
+- 21332-1: https://a.allegroimg.com/original/113c95/44fb47444d08827f74e220db4e0e
+
 ---
 
-## 21333 — Lego Ideas 21333 Gwiaździsta noc Vincenta van Gogha
+## 21333 — Gwiaździsta noc Vincenta van Gogha
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 632.90 zł · EAN: 05702017189840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21333 |
+| Nazwa angielska | The Starry Night |
+| Nazwa polska | Gwiaździsta noc Vincenta van Gogha |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2316 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189840 |
 
 LEGO Ideas 21333 Gwiaździsta noc Vincenta van Gogha
 
@@ -888,11 +1334,27 @@ Ten kolekcjonerski model to doskonały pomysł na prezent dla wszystkich miłoś
 
 Bez względu na to, czym się pasjonujesz, znajdziesz tu model idealnie dla siebie.
 
+**Galeria:**
+
+- 21333-1: https://a.allegroimg.com/original/05f54a/2612960340378a36efc6826343d8
+
 ---
 
-## 21334 — Lego 21334 Ideas Kwartet Jazzowy
+## 21334 — Kwartet Jazzowy
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 874.99 zł · EAN: 05702017239477 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21334 |
+| Nazwa angielska | Jazz Quartet |
+| Nazwa polska | Kwartet Jazzowy |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1606 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 43 cm × gł. 16 cm |
+| EAN | 5702017239477 |
 
 Klocki LEGO Ideas 21334 - Kwartet Jazzowy
 
@@ -940,11 +1402,27 @@ Zestaw LEGO Ideas - Kwartet Jazzowy trafił do sprzedaży w 2022 roku. Numer kat
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 21334-1: https://a.allegroimg.com/original/112c74/2c2c6c8e42db9dd52dbe5309a205
+
 ---
 
-## 21335 — Lego Ideas 21335 Zmechanizowana latarnia
+## 21335 — Zmechanizowana latarnia
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017189925 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21335 |
+| Nazwa angielska | Motorized Lighthouse |
+| Nazwa polska | Zmechanizowana latarnia |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany |
+| Liczba elementów | 2065 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017189925, 5905413616105 |
 
 LEGO Ideas 21335 Zmechanizowana latarnia – 2065 elementów
 
@@ -1002,11 +1480,28 @@ Najważniejsze cechy
 - **Łódź wiosłowa:** tak
 - **Przeznaczenie:** dla dorosłych, kolekcjonowanie, dekoracja
 
+**Galeria:**
+
+- 21335-1: https://a.allegroimg.com/original/11e1f7/69aaf6fc4f999b41c44c88555ea2
+- 21335-2: https://a.allegroimg.com/original/11f1fb/bc9721e142f6841c5b08ed144099
+
 ---
 
-## 21336 — Outlet Lego 21336 The Office Ideas biuro
+## 21336 — The Office
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 859.99 zł · EAN: 05702017261157 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21336 |
+| Nazwa angielska | The Office |
+| Nazwa polska | The Office |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1164 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017261157 |
 
 Klocki LEGO Ideas 21336 - The Office
 
@@ -1019,11 +1514,27 @@ Odtwórz amerykańskie biuro dzięki temu modelowi kolekcjonerskiemu LEGO® Idea
 
 W zestawie jest 15 minifigurek LEGO: Michael Scott, Dwight Schrute, Jim Halpert, Pam Beesly, Ryan Howard, Angela Martin, Oscar Martinez, Kevin Malone, Stanley Hudson, Kelly Kapoor, Phyllis Lapin Vance, Meredith Palmer, Creed Bratton, Toby Flenderson i Darryl Philbin, a także figurka LEGO kota Angeli o imieniu Garbage. Ponadto jest też wiele akcesoriów przypominających zabawne momenty, takie jak zszywacz w galaretce, złoty bilet, statuetka Dundie oraz kubek z napisem „World’s Best Boss”.
 
+**Galeria:**
+
+- 21336-1: https://a.allegroimg.com/original/05f5a5/11feab974cc3bbb95c8eb03cd200
+
 ---
 
-## 21337 — Lego 21337 Ideas Piłkarzyki
+## 21337 — LEGO 21337 Ideas - Piłkarzyki
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1100.00 zł · EAN: 05702017247014 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21337 |
+| Nazwa angielska | Table Football |
+| Nazwa polska | LEGO 21337 Ideas - Piłkarzyki |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2339 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 41 cm × gł. 29 cm |
+| EAN | 5702017247014 |
 
 **PRZEDSPRZEDAŻ!**
  
@@ -1042,11 +1553,27 @@ Zagrajcie razem. Każda drużyna prowadzi rozgrywkę za pomocą dwu prowadnic, n
 - Kolekcjonerska zabawka piłkarska — stół do piłkarzyków z klocków ma ponad 15 cm wysokości, 41 cm szerokości i 29 cm głębokości 
 - Instrukcja — w zestawie jest ilustrowana broszura z informacjami o fanie, który wymyślił ten model i o pracujących nad nim projektantach LEGO oraz dokładne wskazówki, które ułatwią budowanie nawet osobom dopiero zaczynającym swoją przygodę z LEGO
 
+**Galeria:**
+
+- 21337-1: https://a.allegroimg.com/original/111c73/a21402c1436182b0513c02412691
+
 ---
 
-## 21338 — Lego 21338 Ideas Chatka w kształcie litery A
+## 21338 — Chatka w kształcie litery A
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1034.99 zł · EAN: 05702017417448 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21338 |
+| Nazwa angielska | A-Frame Cabin |
+| Nazwa polska | Chatka w kształcie litery A |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2082 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017417448 |
 
 Klocki LEGO Ideas 21338 - Chatka w kształcie litery A
 
@@ -1096,11 +1623,26 @@ Zestaw LEGO Ideas - Chatka w kształcie litery A trafił do sprzedaży w 2023 
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 21338-1: https://a.allegroimg.com/original/11e22d/50c1e91341cb9d82e401cc1007ca
+
 ---
 
-## 21339 — Klocki 21339 Lego Dynamite Bts 749 elementów
+## 21339 — Dynamit BTS
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 409.90 zł · EAN: 05702017417462 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21339 |
+| Nazwa angielska | BTS Dynamite |
+| Nazwa polska | Dynamit BTS |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 749 |
+| Cena katalogowa | 439.99 zł |
+| Wymiary złożonego | wys. 14 cm × szer. 38 cm × gł. 16 cm |
+| EAN | 5702017417462 |
 
 LEGO Ideas 21339 BTS Dynamite
 
@@ -1119,11 +1661,27 @@ Odkrywaj zestawy LEGO dla dorosłych – starannie dobraną kolekcję niesamowit
 - Wybór fanów LEGO® – ten model do zbudowania dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO
 - Jakość premium – klocki LEGO® spełniają surowe branżowe standardy jakości, dzięki czemu łatwo się łączą i mocno trzymają, a złożone z nich modele są solidne
 
+**Galeria:**
+
+- 21339-1: https://a.allegroimg.com/original/056075/6a10645240f4ade0d42b0e359756
+
 ---
 
-## 21340 — Lego Ideas 21340 Opowieści z czasów wyścigu kosmicznego
+## 21340 — Opowieści z czasów wyścigu kosmicznego
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 499.00 zł · EAN: 05702017452135 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21340 |
+| Nazwa angielska | Tales of the Space Age |
+| Nazwa polska | Opowieści z czasów wyścigu kosmicznego |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 688 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 9 cm × gł. 3 cm |
+| EAN | 5702017452135 |
 
 LEGO® 21340 Opowieści z czasów wyścigu kosmicznego
 
@@ -1148,11 +1706,27 @@ Odkrywaj zestawy LEGO dla dorosłych i starannie dobraną kolekcję niesamowityc
 - Wybór fanów LEGO® – ten model kolekcjonerski dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Wysoka jakość – klocki i elementy LEGO® spełniają wysokie standardy jakości, dzięki czemu za każdym razem łatwo się łączą i mocno trzymają
 
+**Galeria:**
+
+- 21340-1: https://a.allegroimg.com/original/11105c/a9a884bd429bb9d063b5da7f54e0
+
 ---
 
-## 21341 — Zestaw klocków Lego Ideas Disney Hokus Pokus: Chata sióstr Sanderson 21341
+## 21341 — Disney Hokus Pokus: Chata sióstr Sanderson
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 849.00 zł · EAN: 05702017452142 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21341 |
+| Nazwa angielska | Hocus Pocus |
+| Nazwa polska | Disney Hokus Pokus: Chata sióstr Sanderson |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2316 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 27 cm × szer. 26 cm × gł. 24 cm |
+| EAN | 5702017452142 |
 
 **Jesteśmy osobami, które pragną podzielić się tą pasją z innymi miłośnikami na całym świecie.**
  
@@ -1181,11 +1755,27 @@ Doskonały pomysł na prezent na Halloween dla fanów komedii fantastycznej. Zes
 - Wybór fanów LEGO® — ten model do zbudowania dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Jakość premium — klocki LEGO® spełniają wysokie branżowe standardy jakości, dzięki czemu mocno się trzymają
 
+**Galeria:**
+
+- 21341-1: https://a.allegroimg.com/original/05ef89/0fe0c1234e11a4849939ceaeb8a8
+
 ---
 
-## 21343 — Lego Ideas Wioska Wikingów 21343
+## 21343 — Wioska Wikingów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 564.90 zł · EAN: 05702017497884 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21343 |
+| Nazwa angielska | Viking Village |
+| Nazwa polska | Wioska Wikingów |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017497884 |
 
 **LEGO Ideas Wioska Wikingów 21343**
 
@@ -1219,11 +1809,27 @@ Witaj w swoim zakątku. Zestawy LEGO dla dorosłych to starannie dobrana kolekcj
 
 • Elementy LEGO® spełniają surowe światowe standardy bezpieczeństwa
 
+**Galeria:**
+
+- 21343-1: https://a.allegroimg.com/original/11f5e8/d807bd084e248f77f9f6ae672949
+
 ---
 
-## 21344 — Lego Pociąg Orient Express 21344 2540 elementów
+## 21344 — Pociąg Orient Express
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1949.00 zł · EAN: 05702017497891 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21344 |
+| Nazwa angielska | The Orient Express Train |
+| Nazwa polska | Pociąg Orient Express |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany |
+| Liczba elementów | 2540 |
+| Cena katalogowa | 1299.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017497891, 5905413616815 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -1251,11 +1857,28 @@ W zestawie jest też osiem minifigurek LEGO, w tym naczelnik stacji kolejowej, k
 - LEGO Ideas Pociąg Orient Express (21344) — wyrusz w kreatywną podróż, aby podziwiać dawny blask i bogatą historię pociągu parowego Orient Express w szczegółowym modelu do zbudowania 
 - W zestawie jest osiem minifigurek LEGO— księżna, konduktor, maszynista, kelner, naczelnik stacji kolejowej, naukowiec, pisarz i reżyser filmowy, a także różne akcesoria i wózek bagażowy do zbudowania
 
+**Galeria:**
+
+- 21344-1: https://a.allegroimg.com/original/115273/d278373f49aa8e7faee255012440
+- 21344-2: https://a.allegroimg.com/original/116b56/a10598e64748a81933590329df60
+
 ---
 
-## 21345 — Zestaw Klocki Lego Ideas 21345 Aparat Polaroid One Steop SX-70
+## 21345 — Aparat Polaroid OneStep SX-70
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 209.00 zł · EAN: 05702017599113 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21345 |
+| Nazwa angielska | Polaroid OneStep SX-70 |
+| Nazwa polska | Aparat Polaroid OneStep SX-70 |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 516 |
+| Cena katalogowa | 379.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017599113 |
 
 ZESTAW KLOCKI LEGO IDEAS 21345 APARAT POLAROID ONE STEOP SX-70
 
@@ -1281,11 +1904,27 @@ Odpręż się, tworząc kultowe elementy, takie jak wizjer, spektrum kolorów i 
 
 • Model aparatu Polaroid ma 9 cm wysokości
 
+**Galeria:**
+
+- 21345-1: https://a.allegroimg.com/original/29a78a/aaa6c0444da09f69413df587cfcc
+
 ---
 
-## 21346 — Lego Ideas 21346 Rodzinne drzewo
+## 21346 — LEGO 21346 Ideas - Rodzinne drzewo
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 427.69 zł · EAN: 05702017599120 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21346 |
+| Nazwa angielska | Family Tree |
+| Nazwa polska | LEGO 21346 Ideas - Rodzinne drzewo |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1040 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 29 cm × szer. 18 cm × gł. 18 cm |
+| EAN | 5702017599120 |
 
 **LEGO® Ideas 21346 Rodzinne drzewo**
  
@@ -1310,11 +1949,26 @@ W pudełku i w aplikacji LEGO Builder znajdziesz szczegółowe instrukcje budowa
 - Wybór fanów LEGO® — ten model dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO
 - Własnoręczna dekoracja do domu — ten 1040-elementowy model drzewa ma 29 cm wysokości, 18 cm szerokości i 18 cm głębokości
 
+**Galeria:**
+
+- 21346-1: https://a.allegroimg.com/original/1178fd/638ba56e4f0bbeda1cbdc53fd26b
+
 ---
 
-## 21347 — 21347 Lego Ideas Czerwona londyńska budka telefoniczn Kolekcjonerski Zestaw
+## 21347 — Czerwona londyńska budka telefoniczna
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 492.99 zł · EAN: 05702017599137 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21347 |
+| Nazwa angielska | Red London Telephone Box |
+| Nazwa polska | Czerwona londyńska budka telefoniczna |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1460 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | wys. 31 cm × szer. 19 cm × gł. 15 cm |
+| EAN | 5702017599137 |
 
 Budka w tym kolekcjonerskim zestawie konstrukcyjnym LEGO Ideas dla dorosłych znajduje się w otoczeniu typowej londyńskiej scenerii: brukowana ulica do zbudowania, latarnia, wiszące kosze z kwiatami, doniczka i ogrodzenie z tabliczką z nazwą ulicy. Całość idealnie sprawdzi się jako ozdoba do domu lub biura.
 
@@ -1325,11 +1979,27 @@ Nie masz jeszcze doświadczenia w budowaniu zestawów LEGO? Nie szkodzi! W pude�
 - Wybór fanów LEGO — ten model kolekcjonerski dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Dekoracja do domu lub biura — ten model kolekcjonerski zawiera 1460 elementów i ma 31 cm wysokości, 19 cm szerokości i 15 cm głębokości
 
+**Galeria:**
+
+- 21347-1: https://a.allegroimg.com/original/1135c0/72ce139049aea457ed108e318e75
+
 ---
 
-## 21348 — Zestaw klocków Lego Ideas Dungeons&Dragons: Opowieść czerwonego smoka 21348
+## 21348 — Dungeons & Dragons: Opowieść czerwonego smoka
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1474.09 zł · EAN: 05702017599144 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21348 |
+| Nazwa angielska | Dungeons & Dragons: Red Dragon's Tale |
+| Nazwa polska | Dungeons & Dragons: Opowieść czerwonego smoka |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 3745 |
+| Cena katalogowa | 1549.99 zł |
+| Wymiary złożonego | wys. 48 cm × szer. 37 cm × gł. 30 cm |
+| EAN | 5702017599144 |
 
 Przenieś się do Zapomnianych Krain dzięki zestawowi LEGO Ideas Dungeons & Dragons: Opowieść czerwonego smoka (21348). Ten nostalgiczny prezent ze świata D&D dla kreatywnych dorosłych zawiera tawernę do zbudowania ze zdejmowanym dachem i górnym poziomem ułatwiającym dostęp, loch i wieżę, a także ruchomą figurkę smoka Popielnego Skowyta, którą można owinąć wokół wieży. W zestawie jest także sześć minifigurek LEGO — czworo odważnych poszukiwaczy przygód, karczmarz i smocze dziecię — a także mnóstwo figurek potworów, w tym beholdera, sowodźwiedzia i złudnej bestii. Każda minifigurka, z wyjątkiem Alaxa Nefrytowe Łuski, ma dodatkową głowę, dzięki czemu możesz wybrać wygląd postaci.
 
@@ -1347,47 +2017,86 @@ Ten zestaw konstrukcyjny dla dorosłych powstał we współpracy z wydawnictwem 
 - Wybór fanów LEGO — ten model kolekcjonerski dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO.
 - Fajna ozdoba w stylu D&D — wieża, tawerna i loch w tym 3745-elementowym zestawie dla dorosłych mają 48 cm wysokości, 37 cm szerokości i 30 cm głębokości
 
----
+**Galeria:**
 
-## 21349 — Lego Ideas 21349 Czarno-biały Kot Tuxedo Cat 1710 elementów
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017599670 · in stock*
-
-**LEGO Ideas 21349 – Czarno-biały kot**
-
-Zbuduj wyjątkową dekorację inspirowaną czarno-białym kotem! LEGO Ideas 21349 to szczegółowy model przeznaczony dla dorosłych miłośników zwierząt, kreatywnego budowania oraz oryginalnych ozdób do wnętrza.
-
-Gotowy kot ma aż **32 cm wysokości** i oferuje wiele możliwości personalizacji. Możesz obracać jego głowę oraz zmieniać położenie uszu, łap i ogona, tworząc różne naturalne pozy.
-
-**Najważniejsze cechy:**
-
-- marka: LEGO
-- seria: Ideas
-- numer zestawu: 21349
-- nazwa zestawu: Czarno-biały kot
-- angielska nazwa: Tuxedo Cat
-- liczba elementów: 1710
-- zalecany wiek: 18+
-- wysokość gotowego modelu: około 32 cm
-- możliwość wyboru żółtych lub niebieskich oczu
-- możliwość zbudowania otwartego albo zamkniętego pyszczka
-- ruchoma głowa, uszy, łapy i ogon
-- instrukcja budowania w zestawie
-- dostęp do cyfrowych instrukcji 3D w aplikacji LEGO Builder
-
-Model świetnie prezentuje się na komodzie, półce lub biurku. To doskonały pomysł na prezent dla właściciela kota, miłośnika zwierząt albo kolekcjonera zestawów LEGO Ideas.
-
-**Stan: nowy, fabrycznie zamknięty**
-
-**Oryginalny produkt LEGO**
-
-**Szybka i bezpiecznie zabezpieczona wysyłka**
+- 21348-1: https://a.allegroimg.com/original/116710/63e6b590442fb6b711f17870ff3b
 
 ---
 
-## 21350 — Lego Ideas Szczęki 21350
+## 21349 — Kot w smokingu
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 654.99 zł · EAN: 05702017599700 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21349 |
+| Nazwa angielska | Tuxedo Cat |
+| Nazwa polska | Kot w smokingu |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1710 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017599670, 5907213510140 |
+
+Zestaw oświetlenia do LEGO Ideas Czarno-biały kot 21349
+
+Dopasowane oświetlenie LED, które podkreśla wygląd i nadaje zestawowi LEGO® wyjątkowy klimat
+
+Rewolucyjne oświetlenie LED stworzone specjalnie do zestawów LEGO®
+
+**Wydobądź więcej ze swojego zestawu LEGO®.**
+
+Dzięki zastosowaniu superwytrzymałych i cienkich przewodów, oświetlenie nie narusza konstrukcji zestawu LEGO® i pozostaje niewidoczne, nie zaburzając estetyki Twojej kolekcji.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Delikatne światła LED podkreślają najważniejsze detale, tworzą unikalny klimat i pozwalają spojrzeć na konstrukcję z zupełnie nowej perspektywy.
+
+Każdy zestaw oświetlenia jest projektowany indywidualnie, tak aby idealnie pasował do konkretnego modelu LEGO®.
+
+Intuicyjny montaż – nie potrzebujesz narzędzi ani doświadczenia
+
+Każdy zestaw zawiera czytelną instrukcję krok po kroku, dzięki której zamontujesz oświetlenie w kilka minut. To proste, szybkie i bezpieczne – zrobisz to sam bez żadnych trudności.
+
+**W zestawie:**
+
+• Gotowe do podłączenia oświetlenie LED (USB-A)
+
+• Pojemnik na baterie
+
+• Instrukcja montażu
+
+Podkreśl każdy detal swojego LEGO® – z dedykowanym oświetleniem LED
+
+- Idealne dopasowanie – zaprojektowane z myślą o LEGO®
+- Prosty montaż. Bez narzędzi. Bez lutowania
+- Zbuduj coś więcej niż model – zyskaj efekt, który robi wrażenie
+
+**Galeria:**
+
+- 21349-1: https://a.allegroimg.com/original/11fd98/6f20e9f447dcabc0c07b0b4497c7
+- 21349-2: https://a.allegroimg.com/original/11a7fb/23e944a84e23971dfb90f2fa2653
+
+---
+
+## 21350 — Szczęki
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21350 |
+| Nazwa angielska | Jaws |
+| Nazwa polska | Szczęki |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany |
+| Liczba elementów | 1497 |
+| Cena katalogowa | 649.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017599700 |
 
 **LEGO Ideas Szczęki 21350**
 
@@ -1413,11 +2122,27 @@ Ilustrowane instrukcje budowania znajdują się w pudełku i w aplikacji LEGO Bu
 
 • Model łodzi Orca w tym 1497-elementowym zestawie ma 59 cm długości
 
+**Galeria:**
+
+- 21350-1: https://a.allegroimg.com/original/110e90/f3641fc94ea49e116b44ea5b0a14
+
 ---
 
-## 21351 — Lego Ideas Disney Miasteczko Halloween Tima Burtona 21351
+## 21351 — Disney: Miasteczko Halloween Tima Burtona
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 783.31 zł · EAN: 05702017599717 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21351 |
+| Nazwa angielska | Disney Tim Burton's The Nightmare Before Christmas |
+| Nazwa polska | Disney: Miasteczko Halloween Tima Burtona |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2193 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 32 cm × szer. 51 cm × gł. 7 cm |
+| EAN | 5702017599717 |
 
 Miasteczko Halloween Tima Burtona
 
@@ -1439,11 +2164,27 @@ Poczuj nostalgię za klasycznym filmem Tima Burtona, budując dioramę LEGO® Id
 
 • Fajna świąteczna ozdoba — model domu Jacka w tym 2193-elementowym zestawie ma 32 cm wysokości, 51 cm szerokości i 2 7 cm głębokości
 
+**Galeria:**
+
+- 21351-1: https://a.allegroimg.com/original/114b76/393dc6744294a215a033373c24c7
+
 ---
 
-## 21352 — Lego Ideas Magia Disneya 21352 Lego Na Co Dzień +18 Lat
+## 21352 — Magia Disneya
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 390.72 zł · EAN: 05702017599748 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21352 |
+| Nazwa angielska | Magic of Disney |
+| Nazwa polska | Magia Disneya |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | 2026 |
+| Liczba elementów | 1103 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 27 cm × gł. 17 cm |
+| EAN | 5702017599748 |
 
 ✳✳✳ LEGO IDEAS MAGIA DISNEYA 21352 ✳✳✳
 
@@ -1513,11 +2254,27 @@ Ten 1103-elementowy model zbudowany z klocków ma 19 cm wysokości, 27 cm szero
 
 **✳✳✳ Zapraszamy do zakupu oraz na pozostałe nasze aukcje ✳✳✳**
 
+**Galeria:**
+
+- 21352-1: https://a.allegroimg.com/original/112885/55169fb943889e49680b77dfc3cf
+
 ---
 
-## 21353 — Klocki Lego Ideas Zestaw Ogród botaniczny 21353 Okazja!
+## 21353 — Ogród botaniczny
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1599.00 zł · EAN: 05702017599786 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21353 |
+| Nazwa angielska | The Botanical Garden |
+| Nazwa polska | Ogród botaniczny |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 3792 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 22 cm × szer. 51 cm × gł. 25 cm |
+| EAN | 5702017599786, 5907213510614 |
 
 LEGO Ideas 21353 - Ogród botaniczny
  
@@ -1547,11 +2304,27 @@ Ożyw ten model kolekcjonerski dla dorosłych za pomocą 12 minifigurek LEGO, w 
  
 - Dekoracja do domu lub biura — ten model kolekcjonerski z ogrodem botanicznym zawiera **3792 elementy i ma 22 cm wysokości, 51 cm szerokości i 25 cm głębokości**
 
+**Galeria:**
+
+- 21353-1: https://a.allegroimg.com/original/114ced/c99201264332941b8f3c482e942e
+- 21353-2: https://a.allegroimg.com/original/11589c/de07e757408d91b6be7d312b4a5b
+
 ---
 
-## 21354 — Klocki Lego Ideas Twilight Zmierzch Dom Cullenów (The Cullen House)
+## 21354 — Zmierzch Dom Cullenów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 899.00 zł · EAN: 05702017829227 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21354 |
+| Nazwa angielska | Twilight The Cullen House |
+| Nazwa polska | Zmierzch Dom Cullenów |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 2001 |
+| Cena katalogowa | 949.99 zł |
+| Wymiary złożonego | wys. 21 cm × szer. 37 cm × gł. 18 cm |
+| EAN | 5702017829227 |
 
 **LEGO 21354 Zmierzch - dom Cullenów**
  
@@ -1573,11 +2346,27 @@ W pudełku i aplikacji LEGO Builder (która oferuje też narzędzia do podglądu
 - Wybór fanów LEGO® — ten model kolekcjonerski dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Wampirza dekoracja — model domu w tym 2001-elementowym zestawie ma 21 cm wysokości, 37 cm szerokości i 18 cm głębokości
 
+**Galeria:**
+
+- 21354-1: https://a.allegroimg.com/original/112f74/bfa3676a4918a8368e48855fe911
+
 ---
 
-## 21355 — Lego Ideas Ewolucja przedmiotów ścisłych Rozwój Stem 21355
+## 21355 — Ewolucja przedmiotów ścisłych
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 314.62 zł · EAN: 05702017824871 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21355 |
+| Nazwa angielska | The Evolution of STEM |
+| Nazwa polska | Ewolucja przedmiotów ścisłych |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 879 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017824871 |
 
 LEGO Ideas Ewolucja przedmiotów ścisłych Rozwój STEM 21355
 
@@ -1591,63 +2380,27 @@ Instrukcje budowania znajdują się w pudełku i w aplikacji LEGO Builder, aby p
 
 #33206
 
----
+**Galeria:**
 
-## 21356 — Lego Ideas 21356 Parowiec rzeczny
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1095.00 zł · EAN: 05702017829234 · in stock*
-
-LEGO IDEAS 21356
-
-Parowiec rzeczny
-
-Zestaw składa się z 4090 elementów
-
-Produkt jest fabrycznie nowy, oryginalnie zapakowany i zaplombowany, znajduje się w naszym magazynie i jest **dostępny "od ręki".**
-
-Składa się z **4090 elementów**
-
-Model łodzi do zbudowania — łódź obejmuje odczepianą sterówkę, odczepiany pokład dodatkowy z kabiną załogi i łazienką, odczepiany pokład główny ze sceną muzyczną i restauracją oraz pokład kotłowy z kuchnią i muzeum.
-
-Poruszaj łodzią po powierzchni, aby aktywować koło łopatkowe połączone z silnikiem „parowym” i obracaj kołem sterowym w sterówce (lub pokrętłem na zewnątrz), aby aktywować ster.
-
-Zwiedź muzeum na pokładzie kotłowym, w którym znajduje się zbudowany z klocków działający silnik statku, działający tłok, aeolipila (turbina parowa) i maszyna parowa Watta.
-
-Model ma 40 cm wysokości, 69 cm długości i 15 cm szerokości.
+- 21355-1: https://a.allegroimg.com/original/290302/6e5f57694a49bdd0d6b364685a56
 
 ---
 
-## 21357 — Klocki Lego Ideas 21357 Luxo Jr. Disney Pixar 613 el. dla dorosłych
+## 21358 — Maszyna z minifigurkami
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 204.98 zł · EAN: 05702017829241 · in stock*
-
-Klocki LEGO Ideas 21357 Luxo Jr. Disney Pixar 613 el. dla dorosłych
-
-Zbuduj własną wersję uroczej i zabawnej postaci z pierwszego filmu animowanego CGI, który kiedykolwiek został nominowany do Oscara, dzięki zestawowi kolekcjonerskiemu LEGO® Ideas | **Disney Pixar Luxo Jr.** (21357) dla dorosłych. Zmontowany model wystawowy świetnie sprawdzi się jako dekoracja gabinetu i jest w pełni ruchomy, podobnie jak podskakująca i obracająca się postać filmowa, która była dla niego wzorem. **Zestaw** zawiera również składaną piłkę Disney Pixar, którą można otworzyć, aby odkryć ukryte linki do ulubionych filmów Disney Pixar: W górę w chmury, Niesamowite, Ratatouille, Potwory s.r.o., Toy Story i Szuka Nemo.
-
-Ten zestaw filmowy z klocków stanowi nostalgiczny prezent dla fanów studia Disney Pixar, którzy podziwiają to, jak te filmy wprowadzają ludzkie ruchy i emocje w nieożywione przedmioty. Luxe Jr. można nawet wystawić stojącego na piłce, jakby go wydmuchiwał, tak jak w krótkim filmie z 1986 roku.
-
-Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO Builder, która poprowadzi Cię przez Twoją kreatywną podróż.
-
-**Specyfikacje**
- 
- 
-- Kolekcjonerski, ruchomy model wystawowy Luxo Jr. dla dorosłych 
-- Luxo Junior skacze, odbija się i obraca 
-- Piłka do zbudowania Pixar jest pełna odniesień do filmów Disney Pixar Studios 
-- Wyświetl Luxe Jr. stojącego na wciśniętej piłce Pixar 
-- Nostalgiczny pomysł na prezent dla mężczyzn, kobiet i miłośników filmów od studia Disney Pixar 
-- Instrukcje budowania znajdziesz w pudełku i w aplikacji LEGO® Builder 
-- Zestawy LEGO® Ideas są projektowane i wybierane przez fanów 
-- Model ma ok. 29 cm wysokości 
-- Liczba elementów: 613 
-- Nadaje się od 18 lat
-
----
-
-## 21358 — Klocki Lego Ideas 21358 Maszyna z minifigurkami #066 Vending Machine 1343el
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 639.99 zł · EAN: 05702017828367 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21358 |
+| Nazwa angielska | Minifigure Vending Machine |
+| Nazwa polska | Maszyna z minifigurkami |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1343 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 28 cm × szer. 17 cm × gł. 21 cm |
+| EAN | 5702017828367, 5907213510768 |
 
 Klocki LEGO Ideas 21358 Maszyna z minifigurkami #066 Vending Machine
 
@@ -1672,29 +2425,28 @@ W budowaniu pomogą Ci instrukcje, które znajdziesz w pudełku lub intuicyjnej 
 
 - WYMIARY — maszyna z minifigurkami do zbudowania w tym 1343-elementowym zestawie ma 28 cm wysokości, 17 cm szerokości i 21 cm głębokości
 
----
+**Galeria:**
 
-## 21359 — Lego Ideas 21359 Włoska riwiera
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1008.99 zł · EAN: 05702017829272 · in stock*
-
-Odtwórz ponadczasowe piękno Włoskiej Riwiery dzięki temu zestawowi konstrukcyjnemu dla dorosłych LEGO® Ideas (21359). Ten zachwycający prezent dla miłośników włoskiej kultury, kolekcjonerów LEGO i każdego, kto pasjonuje się podróżami, architekturą i historią, oddaje sielską atmosferę, żywe kolory i misterne detale architektoniczne typowej liguryjskiej wioski rybackiej.
- 
-Podnieś dachy i górne piętra trzech budynków, aby zobaczyć bardzo szczegółowe wnętrza. Dodaj 10 minifigurek LEGO, aby stworzyć realistyczne sceny: rybaka w łodzi na Morzu Śródziemnym, włoską nonnę pokazującą wnukowi, jak zrobić makaron trofie i focaccię, odwiedzającego krytyka kulinarnego próbującego lokalnej kuchni, kierowczynię skutera i… małego kociaka jedzącego skradzioną rybę w zaułku! Ten kolekcjonerski zestaw konstrukcyjny LEGO Ideas zawiera 3251 elementów.
-
- 
-- Zestaw modeli architektonicznych dla dorosłych — uchwyć urok malowniczej i kolorowej wioski rybackiej na Włoskiej Riwierze dzięki temu szczegółowemu modelowi LEGO® Ideas do zbudowania i ozdoby 
-- ) i kierowczyni skutera, a także dwie figurki kotów 
-- Prezent dla dorosłych miłośników włoskiej kultury — spraw sobie przyjemność lub podaruj ten zestaw konstrukcyjny innym kreatywnym dorosłym, którzy uwielbiają podróże, włoską kulturę, architekturę i historię, lub zapalonym kolekcjonerom LEGO® 
-- Instrukcje budowania w 3D — ciesz się każdym etapem budowania dzięki aplikacji LEGO® Builder, która umożliwia powiększanie i obracanie modelu w 3D, śledzenie postępów i zapisywanie wszystkich zestawów w jednym miejscu 
-- Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
-- Ozdoba we włoskim stylu — ten zestaw z wioską LEGO® Ideas składający się z 3251 elementów ma ponad 23 cm wysokości, 34 cm szerokości i 31 cm głębokości. Z pewnością doda Twojemu wnętrzu odrobinę śródziemnomorskiego stylu
+- 21358-1: https://a.allegroimg.com/original/1178e5/152e5a2944d797a7d39cfebe5855
+- 21358-2: https://a.allegroimg.com/original/111343/d8c04d3d4b92b3ffb46834c246c8
 
 ---
 
-## 21360 — Klocki Lego Ideas 21360 Willy Wonka i fabryka czekolady #068 2025 elementów
+## 21360 — Willy Wonka i fabryka czekolady
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 769.90 zł · EAN: 05702017836409 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21360 |
+| Nazwa angielska | Willy Wonka & the Chocolate Factory |
+| Nazwa polska | Willy Wonka i fabryka czekolady |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | grudzień 2026 |
+| Liczba elementów | 2025 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 19 cm × szer. 52 cm × gł. 26 cm |
+| EAN | 5702017836409 |
 
 Klocki LEGO Ideas 21360 Willy Wonka i fabryka czekolady #068
 
@@ -1716,11 +2468,26 @@ Ten zestaw LEGO Ideas to wspaniały, nostalgiczny prezent dla miłośników film
 - Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO
 - Fantastyczna ozdoba — ten składający się z 2025 elementów model fabryki czekolady Willy’ego Wonki ma 19 cm wysokości, 52 cm szerokości i 26 cm głębokości. To świetna dekoracja do każdego pomieszczenia
 
+**Galeria:**
+
+- 21360-1: https://a.allegroimg.com/original/115abc/9ef4c88447329ae3ba5a4f97a70a
+
 ---
 
-## 21361 — Lego Ideas 21361 Gremliny rozrabiają: Gizmo – Kolekcjonerska Figurka
+## 21361 — Gremlini: Gizmo
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 354.99 zł · EAN: 05702017829289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21361 |
+| Nazwa angielska | Gremlins: Gizmo |
+| Nazwa polska | Gremlini: Gizmo |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 1125 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017829289 |
 
 ✨Zestaw **LEGO Ideas Gizmo (21361)** to wyjątkowa propozycja dla fanów kultowego filmu Gremliny rozrabiają. Model przedstawia uroczego mogwaia w wersji z klocków LEGO i zachwyca licznymi detalami oraz możliwością ustawiania w różnych pozach. Figurka posiada ruchome elementy – głowę, uszy, ręce i stopy – dzięki czemu można ją dowolnie aranżować. Dodatkowe akcesoria, takie jak okulary 3D czy efekt „chlapiącej wody”, podkreślają filmowy charakter zestawu i czynią go idealną ozdobą kolekcjonerską.✨
 
@@ -1789,11 +2556,26 @@ głębokość: ok. 8 cm
 
 - Funkcje: ruchome elementy, możliwość zmiany pozy
 
+**Galeria:**
+
+- 21361-1: https://a.allegroimg.com/original/293585/fffe244a4e6f98d2c9ed586dd76d
+
 ---
 
-## 21362 — Lego Ideas Kolekcja minerałów 21362
+## 21362 — Pomysły 21362 Kolekcja minerałów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 179.98 zł · EAN: 05702017829296 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21362 |
+| Nazwa angielska | Mineral Collection |
+| Nazwa polska | Pomysły 21362 Kolekcja minerałów |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 880 |
+| Cena katalogowa | 249.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702017829296 |
 
 **LEGO Ideas Kolekcja minerałów 21362**
 
@@ -1819,11 +2601,27 @@ Zestawy LEGO® Ideas są tworzone przez fanów LEGO i wybierane ich głosami
 
 Ten model do zbudowania i ozdoby ma 28 cm szerokości
 
+**Galeria:**
+
+- 21362-1: https://a.allegroimg.com/original/11f29a/ed9cd16148e890ac877fd8ac95d1
+
 ---
 
-## 21363 — Lego Ideas 21363 Goonies
+## 21363 — LEGO Ideas Goonies 21363, diorama, prezent dla kinomaniaków
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1349.99 zł · EAN: 05702017824888 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21363 |
+| Nazwa angielska | The Goonies |
+| Nazwa polska | LEGO Ideas Goonies 21363, diorama, prezent dla kinomaniaków |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 2912 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 36 cm × szer. 18 cm |
+| EAN | 5702017824888 |
 
 Przeżyj na nowo przygodę z filmu Goonies dzięki kolekcjonerskiemu zestawowi dla dorosłych LEGO® Ideas (21363). Diorama zawiera zbudowane z klocków kultowe sceny z filmu z lat 80. — od kryjówki i jaskiń Fratellich po skarbiec Jednookiego Willy’ego. Obróć model, aby zobaczyć szczegółową rekonstrukcję zewnętrznej części wraku pirackiego statku Inferno.
 
@@ -1840,11 +2638,26 @@ Ten model w kształcie pirackiego statku świetnie sprawdzi się jako prezent dl
 - Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO
 - Wymiary — zestaw z 2912 elementami obejmuje statek piracki, który ma 36 cm wysokości, 62 cm długości i 18 cm szerokości. To świetna dekoracja w filmowym stylu
 
+**Galeria:**
+
+- 21363-1: https://a.allegroimg.com/original/11f9ba/a54147f34deeb0c9358f256ef425
+
 ---
 
-## 21365 — Klocki Lego Papuga Papużki Nierozłączki 21365 Icons Ideas
+## 21365 — Papużki nierozłączki
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 214.57 zł · EAN: 05702018066737 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21365 |
+| Nazwa angielska | Love Birds |
+| Nazwa polska | Papużki nierozłączki |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 750 |
+| Cena katalogowa | 209.99 zł |
+| Wymiary złożonego | wys. 22 cm × szer. 31 cm × gł. 17 cm |
+| EAN | 5702018066737 |
 
 Klocki LEGO Papuga Papużki Nierozłączki 21365 Icons Ideas Prezent
 
@@ -1892,11 +2705,26 @@ Gotowy model Papużki nierozłączki to nie tylko zabawka, ale przede wszystkim 
  
 Jego **kompaktowe wymiary** (22 cm wysokości, 31 cm szerokości, 17 cm głębokości) sprawiają, że idealnie pasuje na półkę, biurko czy komodę, stając się **subtelnym, ale wyraźnym akcentem** dekoracyjnym. To **idealny sposób**, aby dodać swojemu wnętrzu osobistego charakteru i **wyjątkowego uroku**.
 
+**Galeria:**
+
+- 21365-1: https://a.allegroimg.com/original/11df31/8edf36e54d009274366dd4913d39
+
 ---
 
-## 21366 — Lego Ideas 21366 Pływające wydry
+## 21366 — LEGO Ideas 21366 Pływające wydry
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 373.99 zł · EAN: 05702018066287 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21366 |
+| Nazwa angielska | Floating Sea Otters |
+| Nazwa polska | LEGO Ideas 21366 Pływające wydry |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1234 |
+| Cena katalogowa | 479.99 zł |
+| Wymiary złożonego | wys. 8 cm × szer. 30 cm × gł. 19 cm |
+| EAN | 5702018066287 |
 
 LEGO Ideas 21366 Pływające wydry
  
@@ -1917,11 +2745,26 @@ Ten zestaw, zawierający 1234 elementy, to świetny prezent dla miłośników zw
 - Instrukcje budowania w 3D — buduj jak nigdy dotąd dzięki aplikacji LEGO® Builder, w której możesz zapisywać zestawy, śledzić postępy, a także powiększać i obracać model w 3D.
 - Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO.
 
+**Galeria:**
+
+- 21366-1: https://a.allegroimg.com/original/11a297/88413f954b6fb261e7a0282d279c
+
 ---
 
-## 21367 — Lego Ideas Tintin i rakieta na Księżyc 21367
+## 21367 — LEGO Ideas 21367 Tintin i rakieta na księżyc
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 489.99 zł · EAN: 05702018066294 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21367 |
+| Nazwa angielska | Tintin Moon Rocket |
+| Nazwa polska | LEGO Ideas 21367 Tintin i rakieta na księżyc |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1283 |
+| Cena katalogowa | 689.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066294 |
 
 **LEGO Ideas Tintin i rakieta na Księżyc 21367**
 
@@ -1947,11 +2790,26 @@ Zestawy LEGO® Ideas są tworzone przez fanów LEGO i wybierane ich głosami
 
 Model rakiety ma 49 cm wysokości
 
+**Galeria:**
+
+- 21367-1: https://a.allegroimg.com/original/1122df/3081ed734ef5aee91cea6a26c067
+
 ---
 
-## 21368 — Lego Ideas 21368 Fistaszki: Buda Snoopy’ego
+## 21368 — Fistaszki: Buda Snoopy'ego
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 228.99 zł · EAN: 05702018066300 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21368 |
+| Nazwa angielska | Peanuts: Snoopy's Doghouse |
+| Nazwa polska | Fistaszki: Buda Snoopy'ego |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 964 |
+| Cena katalogowa | 339.99 zł |
+| Wymiary złożonego | wys. 25 cm × szer. 17 cm × gł. 14 cm |
+| EAN | 5702018066300 |
 
 LEGO Ideas 21368 Fistaszki: Buda Snoopy’ego
  
@@ -1971,11 +2829,26 @@ Wspaniały prezent dla fanów Fistaszków i kolekcjonerów gadżetów ze Snoopym
 - Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO. 
 - Wymiary — buda Snoopy’ego w tym 964-elementowym zestawie ma 25 cm wysokości, 17 cm szerokości i 14 cm głębokości i stanowi fajną dekorację półki lub biurka.
 
+**Galeria:**
+
+- 21368-1: https://a.allegroimg.com/original/11081c/d0642bb24a03a6fb8ed20be85246
+
 ---
 
-## 21369 — Lego Ideas 21369 Z Archiwum X The X-Files Nowy
+## 21369 — The X-Files
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 937.99 zł · EAN: 05702018066317 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21369 |
+| Nazwa angielska | The X-Files |
+| Nazwa polska | The X-Files |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1478 |
+| Cena katalogowa | 869.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066317 |
 
 Z Archiwum X
 
@@ -1985,11 +2858,26 @@ Odkryj biuro pełne autentycznych detali! Umieść model UFO na przezroczystym s
 
 Ten zestaw to świetny pomysł na prezent o tematyce science-fiction dla dorosłych fanów i kolekcjonerów pamiątek z Z Archiwum X. Dzięki aplikacji LEGO® Builder możesz budować jeszcze mądrzej: powiększaj i obracaj modele w 3D, a dzięki szczegółowym cyfrowym instrukcjom śledź postępy w budowaniu! Zestaw zawiera 1478 elementów.
 
+**Galeria:**
+
+- 21369-1: https://a.allegroimg.com/original/11670e/cb5fdfa843e396c4722e85bfdf28
+
 ---
 
-## 21370 — Lego Ideas E.t. the Extra-Terrestrial 21370
+## 21370 — E.T. the Extra-Terrestrial
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 429.98 zł · EAN: 05702018066324 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21370 |
+| Nazwa angielska | E.T. the Extra-Terrestrial |
+| Nazwa polska | E.T. the Extra-Terrestrial |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1226 |
+| Cena katalogowa | 559.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066324 |
 
 **LEGO Ideas E.T. the Extra-Terrestrial 21370**
 
@@ -2015,11 +2903,26 @@ Zestawy LEGO® Ideas są tworzone przez fanów LEGO i wybierane ich głosami
 
 Zestaw składa się z 1226 elementów i ma 24 cm wysokości
 
+**Galeria:**
+
+- 21370-1: https://a.allegroimg.com/original/115f38/03fb1b6e430f88fd5bbc0c2974d5
+
 ---
 
-## 21372 — Lego 21372 Ideas La Catrina
+## 21372 — La Catrina
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 379.99 zł · EAN: 05702018066331 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21372 |
+| Nazwa angielska | La Catrina |
+| Nazwa polska | La Catrina |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1212 |
+| Cena katalogowa | 519.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018066331 |
 
 LEGO IDEAS - La Catrina 21372
  
@@ -2048,11 +2951,26 @@ Wzbogać swoje doświadczenie budowania dzięki aplikacji LEGO Builder - powięk
 - WYBÓR FANÓW - zestaw inspirowany pomysłem fana został wybrany w głosowaniu fanów i wyprodukowany przez Grupę LEGO 
 - WYMIARY - figurka do zbudowania w tym 1212-elementowym zestawie ma 43 cm wysokości
 
+**Galeria:**
+
+- 21372-1: https://a.allegroimg.com/original/112342/cccdeffe4b508ebeb0bfd3ad9653
+
 ---
 
-## 21376 — Lego Ideas 21376 Rudy kot
+## 21376 — LEGO Ideas 21376 Rudy kot
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 392.92 zł · EAN: 05702018069769 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 21376 |
+| Nazwa angielska | Orange Cat |
+| Nazwa polska | LEGO Ideas 21376 Rudy kot |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 1755 |
+| Cena katalogowa | 419.99 zł |
+| Wymiary złożonego | — |
+| EAN | 5702018069769 |
 
 Klocki LEGO Ideas 21376 - Rudy kot
  
@@ -2068,27 +2986,64 @@ Stwórz uroczą dekorację z klocków LEGO® przedstawiającą rudego kota dzię
 - Wybór fanów LEGO® — ten zestaw LEGO dla dorosłych jest częścią serii zestawów LEGO Ideas stworzonych przez fanów, wybranych głosami miłośników LEGO oraz wyprodukowanych przez Grupę LEGO 
 - Wymiary — figurka do zbudowania w tym 1755-elementowym zestawie ma 32 cm wysokości
 
----
+**Galeria:**
 
-## 4002018 — Lego Ideas 4002018 Years Lego Minifigure Employee Exclusive
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 850.00 zł · EAN: 00673419268301 · in stock*
-
-**..............................................LEGOLD...............................................................**
- 
- 
-- **Super prezent dla kolekcjonera.** 
-- **Sprzedaje tylko oryginalne klocki LEGO.** 
- 
-**Posiadam wiele kolekcjonerskich zestawów, figurek i gadżetów LEGO zarówno nowych jak i używanych. Myślę że każdy znajdzie coś dla siebie na każdą okazję.**
- 
-**Nazwa firmy LEGO oraz znaki towarowe zostały użyte w celu informacyjnym i są własnością firmy LEGO ©LEGO and the LEGO logo are trademarks of the LEGO Group ©**
+- 21376-1: https://a.allegroimg.com/original/11c752/5c0655394631a66707ec0dd40786
 
 ---
 
-## 40179 — Lego 40179 Kreator mozaik portret
+## 4002018 — Years LEGO Minifigure Employee Exclusive
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 545.99 zł · EAN: 00673419276795 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 4002018 |
+| Nazwa angielska | Santa and Reindeer |
+| Nazwa polska | Years LEGO Minifigure Employee Exclusive |
+| Seria | Minifigurki |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2018 |
+| Liczba elementów | 1099 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419268301, 673419308694 |
+
+LEGO 4002018 40 Lat Minifigurki List Pracowniczy Employee Gift Kolekcja
+
+Zestaw **LEGO 4002018** to ekskluzywny prezent świąteczny, który firma LEGO wręczyła swoim pracownikom w grudniu 2018 roku, aby uczcić **40-lecie minifigurki LEGO**. Zestaw zawiera **1099 elementów** i składa się z kilku unikalnych konstrukcji:
+
+Gratis List z podziękowaniem dla pracowników Lego
+
+- **Duża figurka Świętego Mikołaja** zbudowana z klocków,
+- **Sanie** z miejscem na prezenty,
+- **Renifer** ciągnący sanie,
+- **Trzy kolorowe prezenty** (biały, zielony i niebieski), z których każdy zawiera niespodziankę w postaci klasycznej minifigurki:
+**Niebieski prezent**: minifigurka lekarza z zestawu Town Minifigures (6301) z 1986 roku,
+
+**Zielony prezent**: minifigurka pirata z zestawu Skull’s Eye Schooner (6286) z 1993 roku,
+
+Zestaw został zaprojektowany przez projektantów LEGO Carla Merriama i Maxa Valemboisa.
+
+**Galeria:**
+
+- 4002018-1: https://a.allegroimg.com/original/11ce8b/823427f045f9935169efddbc8d66
+- 4002018-2: https://a.allegroimg.com/original/11a3a6/bb7cec3c44ebad40a48c426c947b
+
+---
+
+## 40179 — Ideas
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40179 |
+| Nazwa angielska | Personalised Mosaic Portrait |
+| Nazwa polska | Ideas |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 4502 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419276795 |
 
 Nazwa angielska: Personalised Mosaic Portrait
 
@@ -2114,11 +3069,27 @@ Zestaw konstrukcyjny LEGO® Kreator mozaik pozwala kreatywnym osobom przekształ
 
 Zestaw LEGO Promocyjne - Kreator mozaik trafił do sprzedaży w 2016 roku. Numer katalogowy tego zestawu to 40179. Zawiera 6002 klocków LEGO. Nazwa zestawu w języku angielskim LEGO Promocyjne - Personalised Mosaic Portrait. Grupa wiekowa tego produktu to 10+.
 
+**Galeria:**
+
+- 40179-1: https://a.allegroimg.com/original/11da0e/a23504224dcf9a68b774dc842eff
+
 ---
 
-## 40223 — Lego Ideas 40223 Lego Śnieżna kula 40223
+## 40223 — LEGO Śnieżna kula 40223
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 369.99 zł · EAN: 05702015595452 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40223 |
+| Nazwa angielska | Snowglobe |
+| Nazwa polska | LEGO Śnieżna kula 40223 |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 215 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015595452 |
 
 **LEGO Seasonal Śnieżna Kula 40223 – KOLEKCJONERSKI ZESTAW**
 
@@ -2152,11 +3123,27 @@ Dzięki ruchomym elementom i efektowi wirującego śniegu zestaw zachwyca zarów
 
 **realne zdjęcia**
 
+**Galeria:**
+
+- 40223-1: https://a.allegroimg.com/original/11ea15/05d9279f4807b53619bb41efc809
+
 ---
 
-## 40335 — Lego Ideas Zabawkowa rakieta kosmiczna 40335
+## 40335 — 40335
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 134.49 zł · EAN: 05702016371185 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40335 |
+| Nazwa angielska | Space Rocket Ride |
+| Nazwa polska | 40335 |
+| Seria | Ideas |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2019 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 154 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016371185 |
 
 LEGO 40335 Ideas rakieta kosmiczna Space Rocket Ride
  
@@ -2193,11 +3180,27 @@ Producent: LEGO
 - **materiał**: Plastik 
 - **wymagany jest montaż**: 1
 
+**Galeria:**
+
+- 40335-1: https://a.allegroimg.com/original/11a1ac/57a58cc5452da5892b204eb95aab
+
 ---
 
-## 40416 — Lego 40416 Seasonal Christmas Lodowisko Choinka
+## 40416 — Ice Skating Rink
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 144.00 zł · EAN: 05702016720129 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40416 |
+| Nazwa angielska | Ice Skating Rink |
+| Nazwa polska | Ice Skating Rink |
+| Seria | Seasonal |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 304 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016720129 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2207,11 +3210,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy gruby karton.
 
+**Galeria:**
+
+- 40416-1: https://a.allegroimg.com/original/11d23e/510f1e534ffd972ae7d012caabcf
+
 ---
 
-## 40448 — Lego Ideas 40448 Zabytkowy samochód
+## 40448 — Zabytkowy samochód
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 250.00 zł · EAN: 05702016910971 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40448 |
+| Nazwa angielska | Vintage Car |
+| Nazwa polska | Zabytkowy samochód |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 189 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016910971 |
 
 LEGO IDEAS 40448 Zabytkowy Samochód
 
@@ -2221,11 +3240,27 @@ Fani LEGO® z wielką radością zbudują model, który zwyciężył w konkursie
 - To świetny prezent dla fanów LEGO® lub miłośników zabytkowych samochodów.
 - Model ma ok. 14 cm długości, 5 cm szerokości i 4 cm wysokości.
 
+**Galeria:**
+
+- 40448-1: https://a.allegroimg.com/original/11a308/26532a5344449e0fea6f6dfb526c
+
 ---
 
-## 40487 — Zestaw Lego Ideas 40487 Przygoda Na Żaglowcu
+## 40487 — Klocki LEGO Ideas 40487 Przygoda na żaglowcu
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 183.95 zł · EAN: 05702016988451 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40487 |
+| Nazwa angielska | Sailboat Adventure |
+| Nazwa polska | Klocki LEGO Ideas 40487 Przygoda na żaglowcu |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2021 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 330 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 26 cm × szer. 6 cm |
+| EAN | 5702016988451 |
 
 ZESTAW LEGO IDEAS - 40487 - PRZYGODA NA ŻAGLOWCU
 
@@ -2263,11 +3298,27 @@ W pudełku znajdziemy 330 elementów, w tym dwie starannie zaprojektowane minifi
 
 Zestaw LEGO Ideas 40487 to świetny wybór na prezent dla każdego, kto uwielbia świat przygód, morza i kreatywnej zabawy. Znakomicie sprawdzi się zarówno jako urodzinowy upominek, jak i prezent bez okazji – dla dziecka, które marzy o zostaniu odkrywcą, lub dorosłego kolekcjonera, który ceni oryginalne i pięknie zaprojektowane modele LEGO. Dodatkową wartość stanowi fakt, że zestaw nie jest już produkowany, co czyni go unikatem i gratką kolekcjonerską. Bez względu na to, czy zostanie podarowany dziecku pełnemu marzeń o morskich wyprawach, czy dorosłemu fanowi LEGO, który poszukuje oryginalnej dekoracji, żaglowiec z zestawu 40487 z pewnością wywoła uśmiech i zapadnie w pamięć jako upominek pełen pasji i przygody.
 
+**Galeria:**
+
+- 40487-1: https://a.allegroimg.com/original/119baa/3e896fcf45d09e3de66f058e43fa
+
 ---
 
-## 40523 — Lego Ideas 40523 Zajączki wielkanocne
+## 40523 — Zajączki wielkanocne
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 108.74 zł · EAN: 05702017166223 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40523 |
+| Nazwa angielska | Easter Rabbits Display |
+| Nazwa polska | Zajączki wielkanocne |
+| Seria | Seasonal |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 288 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166223 |
 
 LEGO Ideas 40523 Zajączki wielkanocne
 
@@ -2299,11 +3350,26 @@ Zestaw LEGO Okolicznościowe - Zajączki wielkanocne trafił do sprzedaży w 202
 - **Kod taryfy celnej:** 95030035
 - **EAN:** 5702017166223
 
+**Galeria:**
+
+- 40523-1: https://a.allegroimg.com/original/113431/adf6db794313aa23ea433f7845c3
+
 ---
 
-## 40530 — Lego 40530 Hołd dla Jane Goodall
+## 40530 — Hołd dla Jane Goodall
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 148.99 zł · EAN: 05702017164045 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40530 |
+| Nazwa angielska | Jane Goodall Tribute |
+| Nazwa polska | Hołd dla Jane Goodall |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2022 |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017164045 |
 
 Klocki LEGO Promocyjne 40530 - Hołd dla Jane Goodall
 
@@ -2313,11 +3379,27 @@ Uczcij osiągnięcia jednej z najsłynniejszych etolożek i działaczek na rzecz
 - Elementy wykonane z ekologicznych materiałów — zestaw konstrukcyjny LEGO® Hołd dla Jane Goodall 40530 zawiera elementy wykonane z plastiku pochodzenia roślinnego, do powstania których wykorzystano trzcinę cukrową z ekologicznych upraw
 - Wymiary — model ma ok. 12 cm wysokości i zawiera minifigurkę Jane Goodall oraz trzy figurki szympansów
 
+**Galeria:**
+
+- 40530-1: https://a.allegroimg.com/original/111942/2462864d459ab89e4f98790a7daa
+
 ---
 
-## 40533 — Lego 40533 Przygody statku Uss Cardboard
+## 40533 — Przygody statku USS Cardboard
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 99.00 zł · EAN: 05702017166872 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40533 |
+| Nazwa angielska | Cosmic Cardboard Adventures |
+| Nazwa polska | Przygody statku USS Cardboard |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 203 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017166872 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -2327,11 +3409,27 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 40533-1: https://a.allegroimg.com/original/112dd2/dc2ed19c45dc86fd2a442a828827
+
 ---
 
-## 40566 — Klocki Lego Rozbitek Ray 40566 239 elementów 18+
+## 40566 — Rozbitek Ray
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 173.99 zł · EAN: 05702016608816 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40566 |
+| Nazwa angielska | Ray the Castaway |
+| Nazwa polska | Rozbitek Ray |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2022 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 19 cm × gł. 13 cm |
+| EAN | 5702016608816, 5702017241869 |
 
 **LEGO Ideas 40566 Rozbitek Ray**
 
@@ -2342,11 +3440,27 @@ Ucieknij od codzienności i odwiedź Rozbitka Raya, który zamieszkał na zbudow
 - Realistyczne detale — w zestawie z modelem bezludnej wyspy znajdują się szałas, tratwa i palmy do zbudowania, minifigurka Raya oraz figurki papugi, kraba i dwóch ryb 
 - Pomysł na prezent — ten 243-elementowy model ma ok. 14 cm wysokości, 19 cm szerokości i 13 cm głębokości. To świetny prezent dla dorosłych i wszystkich miłośników klocków LEGO®
 
+**Galeria:**
+
+- 40566-1: https://a.allegroimg.com/original/112461/7e8ab839435aa8cdbb6a4b825545
+
 ---
 
-## 40595 — Lego Ideas 40595 Hołd dla Galileusza
+## 40595 — Hołd dla Galileusza
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 241.00 zł · EAN: 05702017470450 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40595 |
+| Nazwa angielska | Tribute to Galileo Galilei |
+| Nazwa polska | Hołd dla Galileusza |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 19 cm × gł. 10 cm |
+| EAN | 5702017470450, 673419381864 |
 
 LEGO Ideas 40595 Hołd dla Galileusz
  
@@ -2358,11 +3472,27 @@ Oddaj hołd legendarnemu astronomowi Galileuszowi dzięki temu szczegółowemu z
 
 Zestaw LEGO Ideas - Hołd dla Galileusza trafił do sprzedaży w 2023 roku. Numer katalogowy tego zestawu to 40595. Zawiera 307 klocków LEGO. W modelu znajdziesz też 1 minifigurki.  Grupa wiekowa tego produktu to 18+.
 
+**Galeria:**
+
+- 40595-1: https://a.allegroimg.com/original/1123e4/7d007c3942ec8f72af4f34f2c91a
+- 40595-2: https://a.allegroimg.com/original/1146a8/f4a1098e4262ab5a9fb3669f1304
+
 ---
 
-## 40634 — Lego 40634 Ikony zabawy
+## 40634 — Ikony zabawy
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 414.90 zł · EAN: 05702017471518 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40634 |
+| Nazwa angielska | Icons of Play |
+| Nazwa polska | Ikony zabawy |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2023 |
+| Liczba elementów | 899 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 36 cm |
+| EAN | 5702017471518 |
 
 Lego 40634 Ikony zabawy
  
@@ -2374,11 +3504,27 @@ Niekończąca się zabawa — ten zestaw z 15 minifigurkami LEGO®, ruchomym bra
  
 Wymiary — połowa boiska do piłki nożnej z bramką i stanowiskiem VAR ma 20 cm wysokości i 36 cm szerokości. Po skończonej zabawie świetnie prezentuje się jako ozdoba
 
+**Galeria:**
+
+- 40634-1: https://a.allegroimg.com/original/1158c7/e2591ba1427cb49f1e089b0ca73b
+
 ---
 
-## 40639 — Lego Ideas 40639 Ptasie Gniazdo
+## 40639 — Ptasie Gniazdo
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 39.00 zł · EAN: 05702017422732 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40639 |
+| Nazwa angielska | Bird's Nest |
+| Nazwa polska | Ptasie Gniazdo |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2023 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 232 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017422732 |
 
 **KLOCKI LEGO 40639 PTASIE GNIAZDO**
 
@@ -2396,11 +3542,26 @@ W zestawie:
 
 SPRZEDAWANY PRZEDMIOT JEST PRZEDMIOTEM ZABEZPIECZENIA LOMBARDOWEGO
 
+**Galeria:**
+
+- 40639-1: https://a.allegroimg.com/original/11fe92/a467691e4a399670ec9c04cd6a4a
+
 ---
 
-## 40687 — N Lego 40687 Kosmiczna restauracja nowe
+## 40687 — Stadko kosmitów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 128.98 zł · EAN: 05702017597898 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40687 |
+| Nazwa angielska | Alien Space Diner |
+| Nazwa polska | Stadko kosmitów |
+| Seria | Ideas |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 239 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 13 cm × szer. 20 cm × gł. 10 cm |
+| EAN | 5702017597898 |
 
 LEGO® 40687 Promocyjne - Kosmiczna restauracja
 
@@ -2414,11 +3575,27 @@ Poznaj smak kreatywności w Kosmicznej restauracji LEGO® (40687) dzięki fajnem
 - Prezent dla dzieci – kosmiczna restauracja to świetny prezent dla małych astronautów i kucharzy 
 - Wymiary — ten 239-elementowy model ma 13 cm wysokości, 20 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 40687-1: https://a.allegroimg.com/original/114068/75dcb7024b5196587e78db6ef40c
+
 ---
 
-## 40698 — Lego Ideas 40698 Książki to moja pasja
+## 40698 — Książki to moja pasja
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 379.95 zł · EAN: 05702017598123 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40698 |
+| Nazwa angielska | Books Are My Passion |
+| Nazwa polska | Książki to moja pasja |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 285 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 9 cm × gł. 9 cm |
+| EAN | 5702017598123 |
 
 Daj się ponieść kreatywności, budując zestaw konstrukcyjny dla dorosłych LEGO® Ideas Książki to moja pasja (40698). Ten zestaw, który zwyciężył w konkursie dla fanów na projekt LEGO Ideas, pozwala molom książkowym stworzyć półkę na książki LEGO z biurkiem, kolorowymi książkami i schodkami. Inne urocze elementy zestawu to wygodny fotel, filiżanka i minifigurka, które ożywiają klimatyczną scenerię. Po skończonym budowaniu model można ustawić jako ozdobę na biurko. To także świetny prezent dla miłośników książek lub pisarzy.
 
@@ -2430,11 +3607,26 @@ Daj się ponieść kreatywności, budując zestaw konstrukcyjny dla dorosłych L
 
 - Wymiary — 285-elementowy zestaw ma 12 cm wysokości, 9 cm szerokości i 9 cm głębokości
 
+**Galeria:**
+
+- 40698-1: https://a.allegroimg.com/original/11c3ec/960be7484c379055336895c54410
+
 ---
 
-## 40766 — Lego Ideas 40766 Hołd dla książek Jane Austen
+## 40766 — Hołd dla książek Jane Austen
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 167.00 zł · EAN: 05702017832081 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40766 |
+| Nazwa angielska | Tribute to Jane Austen's Books |
+| Nazwa polska | Hołd dla książek Jane Austen |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 361 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 13 cm × gł. 8 cm |
+| EAN | 5702017832081 |
 
 LEGO 40766 - Hołd dla książek Jane Austen
  
@@ -2448,11 +3640,26 @@ Szczegółowy model kolekcjonerski przedstawia minifigurkę Jane Austen w jej cu
 - Hołd dla słynnej pisarki — ten pełen funkcji zestaw będzie świetnym prezentem dla dorosłych i dzieci w wieku od 12 lat, którzy są fanami Jane Austen i postaci historycznych 
 - Zestaw z 361 elementami — złożony zestaw ma 11 cm wysokości, 13 cm szerokości i 8 cm głębokości
 
+**Galeria:**
+
+- 40766-1: https://a.allegroimg.com/original/111040/40224eaa4d4789c0bef5b0f7222c
+
 ---
 
-## 40767 — Lego Okolicznościowe 40767 Powiększony Mały Astronauta
+## 40767 — Powiększony mały astronauta
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 176.00 zł · EAN: 05702017829777 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40767 |
+| Nazwa angielska | Up-Scaled Baby Astronaut |
+| Nazwa polska | Powiększony mały astronauta |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 250 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017829777 |
 
 Zapewniamy szybką i starannie zabezpieczoną wysyłkę - robimy wszystko, aby każdy zestaw dotarł do Państwa w nienaruszonym stanie. 📦
 
@@ -2467,11 +3674,27 @@ Zaskocz fanów LEGO® i miłośników kosmosu zestawem Powiększony mały astron
 - Kosmiczny prezent dla chłopców i dziewczynek — ta figurka LEGO® dla dzieci to świetny pomysł na prezent lub upominek dla fanów kosmicznych przygód, którzy uwielbiają budować z klocków LEGO
 - Wymiary — 250-elementowy model małego astronauty ma 11 cm wysokości
 
+**Galeria:**
+
+- 40767-1: https://a.allegroimg.com/original/115ec0/b1a5ec754844b22f203ee6221fe0
+
 ---
 
-## 40786 — Klocki Lego Ideas 40786 Mikrocentrum zarządzania
+## 40786 — Mikrocentrum zarządzania
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 139.00 zł · EAN: 05702017830759 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40786 |
+| Nazwa angielska | Micro Command Center |
+| Nazwa polska | Mikrocentrum zarządzania |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 214 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 16 cm × gł. 15 cm |
+| EAN | 5702017830759 |
 
 **LEGO 40786 Mikrocentrum zarządzania**
  
@@ -2489,11 +3712,27 @@ Odpalamy silniki? Niech Twoja wyobraźnia poszybuje aż do gwiazd podczas budowa
  
 **Stan**
 
+**Galeria:**
+
+- 40786-1: https://a.allegroimg.com/original/118693/5a603b49470885df587c825bd3f2
+
 ---
 
-## 40788 — Lego 40788 Ideas Przyjazne Ślimaki
+## 40788 — Przyjazne ślimaki
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 199.45 zł · EAN: 05702017830841 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40788 |
+| Nazwa angielska | Friendly Snails |
+| Nazwa polska | Przyjazne ślimaki |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 264 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 7 cm × szer. 13 cm × gł. 13 cm |
+| EAN | 5702017830841 |
 
 LEGO® 40788 Przyjazne ślimaki
 
@@ -2509,11 +3748,27 @@ Zestaw do zbudowania i ekspozycji zawiera dwa ślimaki z ozdobnymi muszlami, psz
 - Prezent dla miłośników przyrody — ten zestaw dla dorosłych miłośników ogrodowych stworzeń świetnie sprawdzi się jako prezent na każdą okazję 
 - Zestaw z 264 elementami — złożony zestaw ma 7 cm wysokości, 13 cm szerokości i 13 cm głębokości
 
+**Galeria:**
+
+- 40788-1: https://a.allegroimg.com/original/11408d/4322e89142fe9d53c14495fa8dbb
+
 ---
 
-## 40789 — Lego 40789 Ideas Latający Księżycowy Samochód Flying Moon Car Diorama
+## 40789 — Flying Moon Car
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 125.97 zł · EAN: 05702017829883 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40789 |
+| Nazwa angielska | Flying Moon Car |
+| Nazwa polska | Flying Moon Car |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 211 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 11 cm × szer. 9 cm |
+| EAN | 5702017829883 |
 
 **Podczas składania zamówienia można wybrać usługę dodatkową  "Zapakuj na prezent +"**
 
@@ -2543,11 +3798,26 @@ Pojazd do zbudowania jest podtrzymywany nad powierzchnią Księżyca przez cokó
  
 - Zestaw z 211 elementami — złożony zestaw **ma 11 cm wysokości, 17 cm długości i 9 cm szerokości**
 
+**Galeria:**
+
+- 40789-1: https://a.allegroimg.com/original/117ee8/d49e09b14330a927d7806d835a24
+
 ---
 
-## 40902 — Klocki Lego Icons Ideas 40902 Zestaw Hołd dla Leonarda da Vinci
+## 40902 — Hołd dla Leonarda da Vinci
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 139.99 zł · EAN: 05702018071595 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40902 |
+| Nazwa angielska | Tribute to Leonardo da Vinci |
+| Nazwa polska | Hołd dla Leonarda da Vinci |
+| Seria | Ideas |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 251 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071595 |
 
 **LEGO® 40902 Hołd dla Leonarda da Vinci**
 
@@ -2564,55 +3834,86 @@ oraz legendarny projekt ornitoptera (maszyny latającej)!
 
 Idealny na biurko, półkę z książkami lub jako relaksujący projekt na wieczór. Zestaw składa się z **251 elementów** i po złożeniu ma kompaktowe wymiary 7 x 18 x 9 cm – zmieści się w każdej domowej galerii sztuki!
 
----
+**Galeria:**
 
-## 40955 — Lego 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 669.98 zł · EAN: 00673419425810 · in stock*
-
-LEGO 40955 Kontenerowiec z Napędem Dual-Fuel Maersk
-
-Potęga nowoczesnej żeglugi
-
-Zbuduj imponujący model inspirowany współczesną logistyką morską. LEGO 40955 Kontenerowiec z Napędem Dual-Fuel Maersk oddaje charakter jednego z najbardziej zaawansowanych statków transportowych, łącząc realistyczny design z satysfakcjonującym procesem budowania.
-
-Co znajdziesz w zestawie
-
-- Zestaw nowy, nieotwierany
-
-- Wszystkie elementy potrzebne do zbudowania kontenerowca
-
-- Charakterystyczna kolorystyka i detale nawiązujące do jednostek Maersk
-
-- Model stworzony z myślą o ekspozycji
-
-Dlaczego pokochasz ten zestaw
-
-- Realistyczna konstrukcja inspirowana nowoczesną technologią
-
-- Wciągający projekt budowlany dla miłośników transportu i inżynierii
-
-- Imponujący model, który przyciąga uwagę na półce
-
-- Doskonałe połączenie estetyki i tematyki morskiej
-
-Idealny na prezent i do kolekcji
-
-- Świetny prezent dla pasjonatów żeglugi i dużych konstrukcji
-
-- Wyjątkowy element kolekcji modeli pojazdów i maszyn
-
-- Stylowa dekoracja biura, gabinetu lub pokoju
-
-Czas na budowanie
-
-Wejdź na pokład i stwórz własny fragment światowego transportu morskiego - LEGO 40955 Kontenerowiec z Napędem Dual-Fuel Maersk to projekt, który łączy precyzję, skalę i nowoczesny charakter.
+- 40902-1: https://a.allegroimg.com/original/119cba/1bdf593f421089900e16bfc3a6c4
 
 ---
 
-## 41838 — Lego 41838 Wspomnienia Z Podróży
+## 40955 — LEGO 40955 - Kontenerowiec z Napędem Dual-Fuel Maersk
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 504.99 zł · EAN: 05702017600833 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40955 |
+| Nazwa angielska | Maersk Dual-Fuel Container Vessel |
+| Nazwa polska | LEGO 40955 - Kontenerowiec z Napędem Dual-Fuel Maersk |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2026 |
+| Liczba elementów | 107 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702018071182, 673419425810 |
+
+LEGO Kontenerowiec z napędem Dual Fuel Maersk
+
+LEGO Kontenerowiec z Napędem Dual-Fuel Maersk 40955 to szczegółowy zestaw konstrukcyjny przedstawiający nowoczesny kontenerowiec ANE MÆRSK. Model został przygotowany z myślą o nastolatkach i dorosłych miłośnikach statków, transportu morskiego oraz kolekcjonerskich konstrukcji LEGO. Zestaw wyróżnia się realistycznym wyglądem, charakterystyczną kolorystyką Maersk oraz licznymi detalami, które świetnie oddają wygląd współczesnego statku kontenerowego. Konstrukcja zawiera otwieraną sekcję mostka z pomieszczeniami dla załogi, przezroczyste okna maszynowni, wysuwane pomosty po obu stronach oraz kontenery do zbudowania. Do zestawu dołączono także podstawkę ekspozycyjną z tabliczką z nazwą, dzięki czemu gotowy model doskonale prezentuje się na półce lub biurku. LEGO 40955 to ciekawa propozycja dla kolekcjonerów oraz osób szukających efektownego modelu do budowania i ekspozycji.
+
+- **Marka:** LEGO
+
+- **Numer zestawu:** 40955
+
+- **Nazwa modelu:** Kontenerowiec z Napędem Dual-Fuel Maersk
+
+- **Odwzorowany statek:** ANE MÆRSK
+
+- **Liczba elementów:** 1516
+
+- **Zalecany wiek:** Od 12 lat
+
+- **Rok premiery:** 2026
+
+- **Wymiary modelu:** 60 × 12 × 18 cm
+
+- **Otwierana sekcja mostka:** Tak
+
+- **Pomieszczenia załogi:** Tak
+
+- **Widoczna maszynownia:** Tak, przezroczyste okna
+
+- **Wysuwane trapy:** Tak, po obu stronach
+
+- **Kontenery do zbudowania:** Tak
+
+- **Podstawka ekspozycyjna:** Tak
+
+- **Tabliczka z nazwą:** Tak
+
+- **Minifigurki:** Brak
+
+- **Baterie:** Niewymagane
+
+**Galeria:**
+
+- 40955-1: https://a.allegroimg.com/original/11d89a/bd436f6f4b9e9a7a2825a97088db
+- 40955-2: https://a.allegroimg.com/original/1153ba/307a23924fe8892aea642628fa97
+
+---
+
+## 41838 — 41838 Wspomnienia z podróży
+
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41838 |
+| Nazwa angielska | Travel Moments |
+| Nazwa polska | 41838 Wspomnienia z podróży |
+| Seria | Ideas |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1231 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 14 cm × szer. 49 cm × gł. 31 cm |
+| EAN | 5702017600833 |
 
 LEGO 41838 - Wspomnienia z podróży
  
@@ -2652,11 +3953,26 @@ Ponadto możecie w pełni wykorzystać możliwości zestawu dzięki aplikacji LE
  
 - Wymiary — zestaw składający się z 1231 elementów zawiera mapę świata z samolotem i uchwytami na zdjęcia. Po złożeniu w formie poziomej całość **ma 14 cm wysokości, 49 cm szerokości i 31 cm głębokości**
 
+**Galeria:**
+
+- 41838-1: https://a.allegroimg.com/original/1164d8/70c38b90459c93f9ea54ffc79cea
+
 ---
 
-## 41839 — Lego Ideas 41839 Tablica ogłoszeń
+## 41839 — Tablica ogłoszeń
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 259.99 zł · EAN: 05702017600840 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 41839 |
+| Nazwa angielska | Message Board |
+| Nazwa polska | Tablica ogłoszeń |
+| Seria | Ideas |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2024 |
+| Liczba elementów | 1743 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017600840 |
 
 Na rodziny z dziećmi w wieku od dziewięciu lat czeka twórcza zabawa i wspaniale spędzony czas przy budowaniu nawet 30 liter alfabetu łacińskiego i tworzeniu fajnej Tablicy ogłoszeń (41839). Zestaw do budowania zawiera znaki z akcentami, dzięki czemu możesz tworzyć wiadomości w swoim ojczystym języku (tylko alfabet łaciński). Ta tablica LEGO do przebudowywania zawiera 10 naklejek z emotkami, które można dodać do tablic, a także instrukcje, inspiracje i cztery plakaty pomocne w tworzeniu liter.
  
@@ -2667,11 +3983,26 @@ Ten zestaw LEGO doskonale sprawdzi się jako wyjątkowy prezent dla dzieci lub p
 - Tablica z wymiennymi literami — ten zestaw zawiera elementy umożliwiające ułożenie 30 liter alfabetu łacińskiego do tworzenia wiadomości, a także instrukcje, inspiracje i cztery plakaty, dzięki którym rodziny mogą wspólnie budować 
 - Budowanie więzi rodzinnych — tablicę ogłoszeń można zmienić w każdej chwili, aby umieścić na niej dowolną wiadomość lub rodzinne motto
 
+**Galeria:**
+
+- 41839-1: https://a.allegroimg.com/original/117920/52882a4349638ea368a8cb2a683c
+
 ---
 
-## 5006068 — Kubek Lego Friends 5006068 Central Perk Przyjaciel
+## 5006068 — Friends Central Perk Mug
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 289.00 zł · EAN: 05060373572417 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5006068 |
+| Nazwa angielska | Central Perk Mug |
+| Nazwa polska | Friends Central Perk Mug |
+| Seria | Ideas |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2021 |
+| Liczba elementów | — |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5060373572417 |
 
 Kolekcjonerski Kubek LEGO Friends 5006068 Central Perk
 
@@ -2689,11 +4020,26 @@ Produkt nowy w oryginalnym pudełku (opakowania fabrycznie nie były zapieczęto
 
 Nazwa i logo LEGO® stanowią zastrzeżone znaki handlowe firmy LEGO Group i zostały przedstawione wyłącznie w celach informacyjnych.
 
+**Galeria:**
+
+- 5006068-1: https://a.allegroimg.com/original/11eddd/f1a24d9641d081c40d0ba4db882c
+
 ---
 
-## 5009325 — Lego The Simpsons 5009325 Salon Simpsonów
+## 5009325 — Salon Simpsonów
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 189.00 zł · EAN: 05702018021804 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009325 |
+| Nazwa angielska | The Simpsons Living Room |
+| Nazwa polska | Salon Simpsonów |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 123 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 9 cm × gł. 10 cm |
+| EAN | 5702018021804 |
 
 LEGO The Simpsons 5009325
 
@@ -2705,11 +4051,26 @@ Inspirowany popularnym animowanym serialem telewizyjnym model LEGO® zawiera sł
 - Prezent dla fanów Simpsonów — fani Simpsonów będą zachwyceni detalami, w tym obrazem żaglówki na ścianie i reklamą Krusty Burgera na ekranie telewizora
 - Wymiary — zestaw LEGO® ma 8 cm wysokości, 9 cm szerokości i 10 cm głębokości
 
+**Galeria:**
+
+- 5009325-1: https://a.allegroimg.com/original/11b14f/8836fae14f07ac0b3aeb4c04ec13
+
 ---
 
-## 5009422 — Lego 5009422 Włochy Furgonetka na włoskim targu Klocki Italy Nowe
+## 5009422 — Furgonetka na włoskim targu
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 495.31 zł · EAN: 05702018065303 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 5009422 |
+| Nazwa angielska | Italian Market Van |
+| Nazwa polska | Furgonetka na włoskim targu |
+| Seria | Ideas |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2025 |
+| Liczba elementów | 142 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 8 cm × szer. 6 cm |
+| EAN | 5702018065303 |
 
 LEGO 5009422 - Furgonetka na włoskim targu
 
@@ -2731,11 +4092,26 @@ Całość urozmaicają ciekawe akcesoria, takie jak drzewo cytrynowe, skrzynka z
 
 Wymiary — zestaw Furgonetka na włoskim targu to fajny prezent dla dzieci, które uwielbiają ciekawe pojazdy. Ma on** 8 cm wysokości, 10 cm długości i 6 cm szerokości**
 
+**Galeria:**
+
+- 5009422-1: https://a.allegroimg.com/original/113244/1c82a0134efa9bc523fbb3cd7c13
+
 ---
 
-## 70437 — Klocki Lego Hidden Side Mystery Castle 70437
+## 70437 — LEGO Hidden Side - Mystery Castle
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 999.00 zł · EAN: 05702016617580 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 70437 |
+| Nazwa angielska | Mystery Castle |
+| Nazwa polska | LEGO Hidden Side - Mystery Castle |
+| Seria | Ideas |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2020 |
+| Liczba elementów | 1035 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 34 cm × szer. 31 cm × gł. 27 cm |
+| EAN | 5702016617580 |
 
 LEGO HIDDEN SIDE 70437 Tajemniczy zamek
 
@@ -2756,11 +4132,26 @@ Fani wirtualnej rzeczywistości i gier wideo pokochają niesamowity świat LEGO 
 
 **WIEK 9+**
 
+**Galeria:**
+
+- 70437-1: https://a.allegroimg.com/original/11bab5/c4d3371c4a0fb13e95bd258deab7
+
 ---
 
-## 71016 — Ostatnia Sztuka! Klocki Lego The Simpsons Zestaw Sklep Kwik-E-Mart 71016
+## 71016 — Kwik-E-Mart
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 2599.00 zł · EAN: 05702015366922 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71016 |
+| Nazwa angielska | The Kwik-E-Mart |
+| Nazwa polska | Kwik-E-Mart |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 2179 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015366922 |
 
 LEGO® The Simpsons™ – Kwik-E-Mart
 
@@ -2805,11 +4196,26 @@ To wyjątkowy zestaw dla fanów serialu **The Simpsons, który doskonale sprawdz
 
 LEGO® to znak towarowy firmy z Grupy LEGO. Nasze witryny nie są sponsorowane, autoryzowane ani wspierane przez Grupę LEGO®.
 
+**Galeria:**
+
+- 71016-1: https://a.allegroimg.com/original/118837/842aa4e24502bd9ada6af220b12b
+
 ---
 
-## 71242 — Lego Dimensions 71242 Story Pack Ghostbusters
+## 71242 — Dimensions Ghostbusters Story Pack
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 239.99 zł · EAN: 05051892196857 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71242 |
+| Nazwa angielska | Ghostbusters: Play The Complete Movie Story Pack |
+| Nazwa polska | Dimensions Ghostbusters Story Pack |
+| Seria | Ideas |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2016 |
+| Liczba elementów | 259 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892196857 |
 
 WITAM
 
@@ -2834,49 +4240,27 @@ ZESPÓŁ PLAYROOM
 
 Kolejna odsłona bestsellerowej serii gier z klockami LEGO, rozwijanej od lat niezmiennie przez studio Traveller’s Tales. Tytuł stanowi swoistą odpowiedź firmy Warner Bros na popularność takich gier jak Skylanders czy Disney Infinity i jest pierwszą produkcją cyklu, w której wykorzystano figurki LEGO przenoszone do wirtualnego świata za pomocą specjalnego portu. Pod względem mechaniki gra nie odbiega specjalnie od kanonów serii, będąc trzecioosobową przygodówką akcji, w której wcielając się w rozmaitych bohaterów z uniwersum LEGO, staramy się powstrzymać złego Lorda Vortecha przed zagładą ludzkości. Tytuł dystrybuowany jest w szeregu zróżnicowanych zestawów, powiązanych z konkretnymi markami.
 
----
+**Galeria:**
 
-## 76915 — Lego Speed Champions 76915 Pagani Utopia Święta Boże Narodzenie
-
-*Kategoria: Ideas · cena Allegro (2026-08-17): 157.90 zł · EAN: 57020164218774 · in stock*
-
-LEGO Speed Champions 76915 Pagani utopia
-
-️🎄 Odkryj Niesamowitą Moc LEGO Speed Champions 76915 - Pagani Utopia na Święta! 🎄🏎️
-
-Zbliżają się Święta, a co mogłoby dostarczyć większej radości niż wyjątkowy zestaw LEGO, który przeniesie Cię w świat szybkich samochodów i niezwykłej inżynierii? Prezentujemy LEGO Speed Champions 76915 Pagani Utopia - wyjątkowy sposób na uprzyjemnienie Bożego Narodzenia dla miłośników klocków i samochodów!
-
-🌟🚗 Dokładność i Detale, Które Oczarują Każdego Fanatyka Samochodów! 🚗🌟
-
-Ten niezwykły zestaw LEGO Speed Champions przenosi detale znane z samochodów Pagani Utopia na skalę klocków. Każdy element został starannie zaprojektowany, aby odwzorować charakterystyczne cechy tego ekskluzywnego pojazdu. Zachwyć się precyzyjnym modelem, który z dumą ozdobi Twoje świąteczne wnętrze!
-
-🎅 Zawartość Zestawu, Która Zapewni Niekończoną Zabawę! 🎅🏁
-
-LEGO Speed Champions 76915 Pagani Utopia zawiera wszystko, co potrzebne, aby zbudować nie tylko niesamowity samochód, ale także emocjonujący klimat wyścigów. Zawartość zestawu to nie tylko klocki - to kawałek motoryzacyjnej magii w twoich rękach!
-
-🌲🎁 Idealny Prezent Dla Miłośników Motoryzacji! 🎁🌲
-
-Szukasz prezentu, który rozbłyśnie w oczach fana samochodów? LEGO Speed Champions 76915 Pagani Utopia to doskonały wybór. Niech ten elegancki zestaw pod choinką stanie się centrum uwagi podczas rozpakowywania prezentów!
-
-🎄🚀 Święta w Szybkim Tempie - Zamów LEGO Speed Champions 76915 Już Dziś! 🚀🎄
-
-- Hipersamochód marki Pagani – replika LEGO® Speed Champions Pagani Utopia (76915) dla dzieci i zapalonych fanów samochodów do kolekcjonowania, budowania i ustawiania na półce
-- Minifigurka w zestawie – samochód zawiera minifigurkę kierowcy z kaskiem i włosami, którą można umieścić w kokpicie i odgrywać przygody na drodze
-- Realistyczne detale – model zawiera detale prawdziwego hipersamochodu z limitowanej edycji: centralny czterorurowy wydech, opływowe nadwozie, szeroki przedni grill, nadkola i silnik pod szybą
-- Hipersamochód LEGO® do zabawy i ozdoby – ten realistyczny model Pagani Utopia zapewnia świetną zabawę podczas budowania, a później można go z dumą ustawić na półce lub wykorzystać do emocjonujących wyścigów
-- Prezent LEGO® – podaruj ten wyjątkowy, składający się z 249 elementów model Speed Champions jako prezent urodzinowy lub świąteczny fanom pojazdów w wieku od dziewięciu lat lub miłośnikom włoskich hipersamochodów
-
-- Przenośny rozmiar – model repliki Pagani Utopia ma ponad 4 cm wysokości, 15 cm długości i 8 cm szerokości, więc nadaje się do zabawy w domu i w podróży
-- Nowy sposób na budowanie – aplikacja LEGO® Builder przeprowadzi Cię przez intuicyjne budowanie. Zapisuj zestawy, śledź postępy oraz przybliżaj i obracaj modele 3D w trakcie budowania
-- Jeszcze więcej szybkości – sprawdź inne modele LEGO® Speed Champions, w tym Ferrari 812 Competizione (76914), Porsche 963 (76916) oraz McLaren Solus GT i McLaren F1 LM (76918)
-- Wysoka jakość – już od ponad sześciu dekad produkujemy klocki LEGO® tak, aby za każdym razem można je było łatwo rozdzielić
-- Gwarancja bezpieczeństwa – klocki konstrukcyjne LEGO® spełniają najwyższe światowe standardy bezpieczeństwa
+- 71242-1: https://a.allegroimg.com/original/118d44/952345444f2dbcf39fc43a34903a
 
 ---
 
-## 80112 — Lego Smok Pomyślności 80112
+## 80112 — the spring festival
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 819.00 zł · EAN: 05702017591636 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80112 |
+| Nazwa angielska | Auspicious Dragon |
+| Nazwa polska | the spring festival |
+| Seria | Seasonal |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2024 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1171 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702017591636 |
 
 Klocki LEGO Okolicznościowe 80112 - Smok pomyślności
 
@@ -2900,11 +4284,27 @@ Ten kolekcjonerski zestaw łączy się z innymi zestawami z serii LEGO Spring Fe
 - Zabawka edukacyjna — w aplikacji LEGO® Builder znajdują się interaktywne instrukcje, a zestaw zawiera instrukcje oraz ilustrację i opis znaczenia smoka pomyślności 
 - Świąteczna ozdoba — model smoka pomyślności ma 26 cm wysokości, 35 cm długości i 14 cm głębokości
 
+**Galeria:**
+
+- 80112-1: https://a.allegroimg.com/original/11b75a/7b25794343d7a0558c14522f1edd
+
 ---
 
-## 80117 — Lego 80117 Pomyślność Good Fortune 1021 elementów 9+ Święto Wiosny
+## 80117 — Pomyślność
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 289.98 zł · EAN: 05702017777795 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 80117 |
+| Nazwa angielska | Good Fortune |
+| Nazwa polska | Pomyślność |
+| Seria | Seasonal |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2025 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1021 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 20 cm × szer. 28 cm × gł. 17 cm |
+| EAN | 5702017777795 |
 
 Klocki LEGO Okolicznościowe 80117 - Pomyślność
  
@@ -2924,11 +4324,27 @@ Ten kolekcjonerski zestaw łączy się z innymi zestawami z serii LEGO Spring Fe
 - Kolekcjonerska zabawka — ten zestaw łączy się z innymi z serii LEGO® Spring Festival (sprzedawanymi osobno), które także zapewnią rozrywkę w większym gronie 
 - Wymiary — ten 1021-elementowy model ma 20 cm wysokości, 28 cm szerokości i 17 cm głębokości
 
+**Galeria:**
+
+- 80117-1: https://a.allegroimg.com/original/119cca/285746de41ed9f953ac47ecb5d7e
+
 ---
 
-## 92176 — Klocki Lego Ideas Zestaw Rakieta Nasa Apollo Saturn V 92176
+## 92176 — Rakieta NASA Apollo Saturn V
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 1149.00 zł · EAN: 05702016956337 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 92176 |
+| Nazwa angielska | NASA Apollo Saturn V |
+| Nazwa polska | Rakieta NASA Apollo Saturn V |
+| Seria | Ideas |
+| Grupa wiekowa | 14 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 1969 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016956337 |
 
 Klocki LEGO 92176 Rakieta NASA Apollo Saturn V
 
@@ -2944,11 +4360,27 @@ W zestawie jest broszura z informacjami o załogowych misjach Apollo na Księży
 
 Zestaw zawiera ponad 1900 klocków.Rakieta ma ok. 100 cm wysokości i 17 cm średnicy.
 
+**Galeria:**
+
+- 92176-1: https://a.allegroimg.com/original/0582d7/7f101f9949e6a0b16d970911543d
+
 ---
 
-## 92177 — Lego Ideas 21313 Statek w butelce
+## 92177 — Statek w butelce
 
-*Kategoria: Ideas · cena Allegro (2026-08-17): 605.00 zł · EAN: 05702016956344 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 92177 |
+| Nazwa angielska | Ship in a Bottle |
+| Nazwa polska | Statek w butelce |
+| Seria | Ideas |
+| Grupa wiekowa | 12 lat + |
+| Rok wydania | 2020 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 962 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702016956344 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -2971,6 +4403,10 @@ Zestaw zawiera ponad 1900 klocków.Rakieta ma ok. 100 cm wysokości i 17 cm śre
 
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
+
+**Galeria:**
+
+- 92177-1: https://a.allegroimg.com/original/254e60/7f7c21e34e5bb486a50d73372aef
 
 ---
 

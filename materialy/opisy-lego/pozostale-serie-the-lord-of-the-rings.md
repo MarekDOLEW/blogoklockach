@@ -1,15 +1,25 @@
 <!--
-Materiał roboczy dla redakcji tylkoklocki.pl — oficjalne opisy produktowe LEGO
-zebrane z feedu Allegro Affiliate (2026-08-17). TYLKO DO UŻYTKU WEWNĘTRZNEGO jako
-research: na stronę piszemy opisy WŁASNYMI SŁOWAMI (zasada redakcyjna + prawa
-autorskie do tekstów marketingowych LEGO). Ceny = migawka z dnia pobrania.
+Material roboczy dla redakcji tylkoklocki.pl. Opisy: feed Allegro Affiliate; dane: katalog.json,
+sety.json, wycofania.json, ceny_baza.json, baza Rebrickable (2026-08-17). TYLKO DO UZYTKU WEWNETRZNEGO
+jako research - na strone piszemy opisy WLASNYMI SLOWAMI. Galeria: linki nazwane <numer>-<kolejna>.
 -->
 
 # LEGO Pozostałe serie > The Lord of the Rings — opisy produktowe (22 pozycji)
 
-## 30210 — Lego The Lord of the Rings 30210 Frodo with Cooking Corner saszetka klocki
+## 30210 — Frodo with Cooking Corner
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 149.00 zł · EAN: 05702014930124 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30210 |
+| Nazwa angielska | Frodo with Cooking Corner |
+| Nazwa polska | Frodo with Cooking Corner |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 35 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014930124 |
 
 Witam
 
@@ -25,11 +35,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30210-1: https://a.allegroimg.com/original/11a350/c58c78b1428dbd3f318068b9bd7e
+
 ---
 
-## 30213 — Lego Hobbit 30213 Gandalf Szary Władca Pierścieni saszetka minifigurka
+## 30213 — LEGO Hobbit Gandalf w Dol Guldur 30213
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 219.00 zł · EAN: 05702014967441 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30213 |
+| Nazwa angielska | Gandalf at Dol Guldur |
+| Nazwa polska | LEGO Hobbit Gandalf w Dol Guldur 30213 |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 31 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014967441 |
 
 Witam
 
@@ -45,11 +70,26 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30213-1: https://a.allegroimg.com/original/112989/0ec8a5a8422393c80050b2d2b6ae
+
 ---
 
-## 30215 — Lego Hobbit 30215 Legolas Zielony Liść Unikat 2013
+## 30215 — Greenleaf
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 205.99 zł · EAN: 05702015128032 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 30215 |
+| Nazwa angielska | Legolas Greenleaf |
+| Nazwa polska | Greenleaf |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 6 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 33 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015128032 |
 
 Witam
 
@@ -65,11 +105,27 @@ Pozdrawiam
 
 Rafał
 
+**Galeria:**
+
+- 30215-1: https://a.allegroimg.com/original/03e818/f9330e1445748d4343c0cc0b5d52
+
 ---
 
-## 40893 — Lego 40893 Icons Władca pierścieni: Grond
+## 40893 — Władca pierścieni: Grond
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 729.98 zł · EAN: 05702018071564 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 40893 |
+| Nazwa angielska | Grond |
+| Nazwa polska | Władca pierścieni: Grond |
+| Seria | Icons |
+| Grupa wiekowa | 18 lat + |
+| Rok wydania | 2026 |
+| Wycofanie | wycofany (rok nieznany) |
+| Liczba elementów | 307 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 12 cm × szer. 10 cm |
+| EAN | 5702018071564 |
 
 Klocki LEGO ICONS 40893 - Władca pierścieni: Grond
 
@@ -103,11 +159,26 @@ Zestaw LEGO ICONS - Władca pierścieni: Grond trafił do sprzedaży w 2026 ro
 
 6. Odbierz paczkę i ciesz się świetnym zestawem!
 
+**Galeria:**
+
+- 40893-1: https://a.allegroimg.com/original/113f01/1d1228dd4106b1a933e399cba4e6
+
 ---
 
-## 71220 — Lego Dimensions Gimli Fun Pack 71220 Lord Of The Rings Unikat Nowy
+## 71220 — Fun Pack - The Lord of the Rings (Gimli and Axe Chariot)
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 184.99 zł · EAN: 05051892187565 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 71220 |
+| Nazwa angielska | Gimli Fun Pack |
+| Nazwa polska | Fun Pack - The Lord of the Rings (Gimli and Axe Chariot) |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 7 lat + |
+| Rok wydania | 2015 |
+| Liczba elementów | 56 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5051892187565, 883929463978 |
 
 LEGO 71220 Dimensions Gimli Fun Pack LOTR Władca Pierścieni
  
@@ -126,11 +197,27 @@ O produkcie:
  
 LEGO The Lord of the Rings 71218 Fun Pack to zestaw dla dzieci w wieku 7 lat i starszych. Zawiera on 400 elementów i postacie z uniwersum Władcy Pierścieni - Golluma i Shelob the Great. Zestaw pozwala na rozwijanie wyobraźni i kreatywności poprzez konstruowanie i odtwarzanie scen z filmu. Jest odpowiedni dla chłopców i dziewcząt. Marka LEGO znana jest z wysokiej jakości produktów, a zestaw posiada certyfikat CE, który potwierdza jego bezpieczeństwo i zgodność z europejskimi standardami.
 
+**Galeria:**
+
+- 71220-1: https://a.allegroimg.com/original/119d0c/0271ddc244c59f3a8b1acf4467c6
+- 71220-2: https://a.allegroimg.com/original/119e24/b53f17464f77a65aaa32e9e27bd7
+
 ---
 
-## 79000 — Lego 79000 Hobbit Zagadki pierścienia Gollum Smeagol Frodo Unikat
+## 79000 — Zagadki pierścienia
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 799.50 zł · EAN: 05702014960954 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79000 |
+| Nazwa angielska | Riddles for The Ring |
+| Nazwa polska | Zagadki pierścienia |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 105 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014960954 |
 
 Przedmiotem sprzedaży jest kompletny fabrycznie zapakowany zestaw klocków
 
@@ -142,21 +229,51 @@ Gollum Smeagol - Frodo - jaskinia - łódka
 
 Unikat z roku 2012 - pudełko w stanie bardzo dobrym - zestaw dla kolekcjonera.
 
+**Galeria:**
+
+- 79000-1: https://a.allegroimg.com/original/11babe/0fae5f54411590c3034972f8b3a7
+
 ---
 
-## 79001 — Lego The Lord of the Rings 79001 Escape from Mirkwood Spiders
+## 79001 — Escape from Mirkwood Spiders
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 818.00 zł · EAN: 05702014960961 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79001 |
+| Nazwa angielska | Escape from Mirkwood Spiders |
+| Nazwa polska | Escape from Mirkwood Spiders |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 298 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014960961 |
 
 Klocki LEGO Hobbit 79001 - Ucieczka przed pająkami z Mirkwood
  
 Zestaw LEGO Hobbit - Ucieczka przed pająkami z Mirkwood trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 79001. Zawiera 298 klocków LEGO. W modelu znajdziesz też 4 minifigurki. Nazwa zestawu w języku angielskim LEGO Hobbit - Escape from Mirkwood Spiders. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 79001-1: https://a.allegroimg.com/original/115801/661baeb244c2a4ae91ace3bbebb4
+
 ---
 
-## 79002 — Lego Lord of the Rings Hobbit Atak Wargów 79002
+## 79002 — Atak Wargów
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1459.88 zł · EAN: 05702014961272 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79002 |
+| Nazwa angielska | Attack of the Wargs |
+| Nazwa polska | Atak Wargów |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 400 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014961272 |
 
 Klocki LEGO Hobbit 79002 - Atak wargów
 
@@ -174,21 +291,51 @@ Zestaw zawiera 4 minifigurki z bronią: **Elronda, Arwenę, Frodo Bagginsa™ i
 
 Zestaw LEGO Hobbit - Atak wargów trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 79002. Zawiera 400 klocków LEGO. W modelu znajdziesz też 5 minifigurek. Nazwa zestawu w języku angielskim LEGO Hobbit - Attack of the Wargs. Grupa wiekowa tego produktu to 8+.
 
+**Galeria:**
+
+- 79002-1: https://a.allegroimg.com/original/118026/085d067c41b5923d09c5cf3f535d
+
 ---
 
-## 79003 — Lego Hobbit 79003 Nieoczekiwane Zebranie Nowe
+## 79003 — Nieoczekiwane Zebranie
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1799.00 zł · EAN: 05702014961289 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79003 |
+| Nazwa angielska | An Unexpected Gathering |
+| Nazwa polska | Nieoczekiwane Zebranie |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 652 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014961289 |
 
 Zestaw LEGO Hobbit - Nieoczekiwane zebranie trafił do sprzedaży w 2012 roku. Numer katalogowy tego zestawu to 79003. Zawiera 652 klocków LEGO. W modelu znajdziesz też 6 minifigurek. Grupa wiekowa tego produktu to 9+.
  
 .
 
+**Galeria:**
+
+- 79003-1: https://a.allegroimg.com/original/110327/d829dcda4a0fafbb3010a832d15c
+
 ---
 
-## 79005 — Lego Władca Pierścieni 79005 Pojedynek czarodziejów Nowe
+## 79005 — Pojedynek czarodziejów
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 725.00 zł · EAN: 05702014975200 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79005 |
+| Nazwa angielska | The Wizard Battle |
+| Nazwa polska | Pojedynek czarodziejów |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 113 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 18 cm × szer. 11 cm × gł. 12 cm |
+| EAN | 5702014975200 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -209,11 +356,26 @@ Odtwórz pojedynek czarodziejów na wieży Orthank, gdzie Gandalf Szary stawia c
 - Nie daj się zahipnotyzować Oku Saurona. 
 - Wymiary: 18 cm wysokości, 11 cm szerokości i 12 cm głębokości.
 
+**Galeria:**
+
+- 79005-1: https://a.allegroimg.com/original/113b5b/242778fc40d490fc32275b318533
+
 ---
 
-## 79006 — Lego The Lord of the Rings 79006 Narada u Elronda
+## 79006 — Narada u Elronda
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 779.00 zł · EAN: 05702014975217 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79006 |
+| Nazwa angielska | The Council of Elrond |
+| Nazwa polska | Narada u Elronda |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 243 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 15 cm × szer. 24 cm × gł. 17 cm |
+| EAN | 5702014975217 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -249,11 +411,26 @@ Zbuduj majestatyczne elfie miasto Rivendell, gdzie mieszkają Elrond i jego pię
 - Odtwórz majestatyczną siedzibę Elronda.
 - Rivendell ma ok. 15 cm wysokości, 24 cm szerokości i 17 cm głębokości.
 
+**Galeria:**
+
+- 79006-1: https://a.allegroimg.com/original/11d430/f1c8c1de4f799c382c35ffb88765
+
 ---
 
-## 79010 — Lego Hobbit Bitwa z Królem Goblinów 79010
+## 79010 — Klocki LEGO Hobbit Bitwa z Królem Goblinów 79010
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1999.00 zł · EAN: 05702014961302 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79010 |
+| Nazwa angielska | The Goblin King Battle |
+| Nazwa polska | Klocki LEGO Hobbit Bitwa z Królem Goblinów 79010 |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 841 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014961302 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -277,11 +454,26 @@ Zbuduj majestatyczne elfie miasto Rivendell, gdzie mieszkają Elrond i jego pię
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 79010-1: https://a.allegroimg.com/original/1119db/1e8e54bd478b877b859886f422f4
+
 ---
 
-## 79011 — Lego The Lord of the Rings 79011 zasadzka Dol Guldur
+## 79011 — zasadzka Dol Guldur
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 739.00 zł · EAN: 05702015078061 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79011 |
+| Nazwa angielska | Dol Guldur Ambush |
+| Nazwa polska | zasadzka Dol Guldur |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 217 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015078061 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -305,21 +497,51 @@ Zbuduj majestatyczne elfie miasto Rivendell, gdzie mieszkają Elrond i jego pię
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 79011-1: https://a.allegroimg.com/original/05e81f/0dcad3914cda93ae4bbc9b066fe1
+
 ---
 
-## 79012 — Lego Lord of Rings Hobbit Armia z Mrocznej Puszczy Mirkwood Elf Army 79012
+## 79012 — lego hobbit 79012
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1499.00 zł · EAN: 05702015079075 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79012 |
+| Nazwa angielska | Mirkwood Elf Army |
+| Nazwa polska | lego hobbit 79012 |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 276 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015079075 |
 
 Klocki LEGO Lords of the Ring Hobbit 79012 - Armia elfów z Mrocznej Puszczy
 
 Zestaw LEGO Hobbit - Armia elfów z Mrocznej Puszczy trafił do sprzedaży w 2013 roku. Numer katalogowy tego zestawu to 79012. Zawiera 276 klocków LEGO. W modelu znajdziesz też 6 minifigurki.
 
+**Galeria:**
+
+- 79012-1: https://7.allegroimg.com/original/034b5b/8530852c4a90b41118376b2a0d27
+
 ---
 
-## 79013 — Lego The Lord of the Rings 79013 Pościg w Mieście na Jeziorze
+## 79013 — Pościg w Mieście na Jeziorze
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1799.00 zł · EAN: 00673419204033 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79013 |
+| Nazwa angielska | Lake-town Chase |
+| Nazwa polska | Pościg w Mieście na Jeziorze |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 470 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 673419204033 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -343,11 +565,26 @@ Zestaw LEGO Hobbit - Armia elfów z Mrocznej Puszczy trafił do sprzedaży w 201
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 79013-1: https://a.allegroimg.com/original/117bf8/5cb82ce84055a958626b1984f1c2
+
 ---
 
-## 79014 — Klocki Lego Hobbit Zestaw Bitwa w Dol Guldur 79014
+## 79014 — Bitwa w Dol Guldur
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 2149.00 zł · EAN: 05702015079099 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79014 |
+| Nazwa angielska | Dol Guldur Battle |
+| Nazwa polska | Bitwa w Dol Guldur |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 9 lat + |
+| Rok wydania | 2013 |
+| Liczba elementów | 797 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015079099 |
 
 Klocki LEGO Hobbit Zestaw Bitwa w Dol Guldur 79014
 
@@ -387,11 +624,26 @@ Zestaw 79014 pozwala na odtworzenie epickiej bitwy w Dol Guldur, w której Ganda
 
 Dzięki obecności rzadkich i kluczowych minifigurek (szczególnie Azoga, Radagasta i Beorna), zestaw ten jest bardzo ceniony przez kolekcjonerów i fanów trylogii "Hobbit" oraz "Władcy Pierścieni". Stanowi doskonałe uzupełnienie dla innych zestawów z uniwersum Tolkiena.
 
+**Galeria:**
+
+- 79014-1: https://a.allegroimg.com/original/11550f/7721a6ab4b13ad4d305521d71c90
+
 ---
 
-## 79015 — Klocki Lego 79015 Hobbit Walka z czarnoksiężnikiem
+## 79015 — Walka z Czarnoksiężnikiem
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1899.99 zł · EAN: 05702015127998 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79015 |
+| Nazwa angielska | Witch-King Battle |
+| Nazwa polska | Walka z Czarnoksiężnikiem |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 101 |
+| Cena katalogowa | — |
+| Wymiary złożonego | wys. 9 cm × szer. 11 cm × gł. 7 cm |
+| EAN | 5702015127998 |
 
 Klocki LEGO Hobbit 79015 - Walka z Czarnoksiężnikiem
 
@@ -412,11 +664,26 @@ Pokonaj złego Czarnoksiężnika w twierdzy Dol Guldur! Galadriela i Elrond wesz
 - Podziel twierdzę na dwie części i połącz ją z zestawami LEGO The Hobbit 79011 Zasadzka w Dol Guldur oraz LEGO The Hobbit 79014 Bitwa o Dol Guldur
 - Wymiary twierdzy Dol Guldur: 9 cm wysokości, 11 cm szerokości i 7 cm głębokości
 
+**Galeria:**
+
+- 79015-1: https://a.allegroimg.com/original/117ec7/d84418cf4d6abfb229b85f8ddd56
+
 ---
 
-## 79016 — Klocki Lego Hobbit Zestaw Atak na Miasto na Jeziorze 79016
+## 79016 — Atak na Miasto na Jeziorze
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1078.00 zł · EAN: 05702015128001 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 79016 |
+| Nazwa angielska | Attack on Lake-town |
+| Nazwa polska | Atak na Miasto na Jeziorze |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2014 |
+| Liczba elementów | 313 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702015128001 |
 
 LEGO Hobbit 79016 – Atak na Miasto na Jeziorze (Lake-town Attack)
 
@@ -450,11 +717,26 @@ Przenieś się prosto do serca akcji z filmu Hobbit: Bitwa Pięciu Armii! To dyn
 
 **Rok wydania:** 2014
 
+**Galeria:**
+
+- 79016-1: https://a.allegroimg.com/original/0539f1/059a5677448491269cea597e328e
+
 ---
 
-## 9469 — Lego 9469 Lotr The Lord of the Rings Przybycie gandalfa Władca Pierścieni
+## 9469 — Przybycie gandalfa
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 730.00 zł · EAN: 05702014837539 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9469 |
+| Nazwa angielska | Gandalf Arrives |
+| Nazwa polska | Przybycie gandalfa |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 83 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837539 |
 
 Witam serdecznie na moich aukcjach,
 
@@ -464,11 +746,26 @@ Zestawy sprzedawane na moich aukcją są zawsze w 100% nowe i nie otwierane. Sta
 
 Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuje bezpieczną wysyłkę, zestawy pakuje w folię bąbelkową i dodatkowy grupy karton.
 
+**Galeria:**
+
+- 9469-1: https://a.allegroimg.com/original/115cda/70afe1cc470d9f3c41e4a3c073cc
+
 ---
 
-## 9470 — Lego lord of the rings hobbit 9470 atak szeloby
+## 9470 — LEGO The Lord of the Rings 9470 Shelob Attack
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 949.00 zł · EAN: 05702014837546 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9470 |
+| Nazwa angielska | Shelob Attacks |
+| Nazwa polska | LEGO The Lord of the Rings 9470 Shelob Attack |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 227 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837546 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -492,11 +789,26 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 - **Każda paczka starannie zabezpieczona – bezpieczeństwo w transporcie to priorytet**
 - **Szybka realizacja zamówień**
 
+**Galeria:**
+
+- 9470-1: https://a.allegroimg.com/original/0519b8/11e5485748689911b86eba6a069b
+
 ---
 
-## 9474 — Lego 9474 Lord Of The Rings Bitwa o Helmowy Jar Władca Pierścieni
+## 9474 — Bitwa o Helmowy Jar
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 3599.00 zł · EAN: 05702014837577 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9474 |
+| Nazwa angielska | The Battle of Helm's Deep |
+| Nazwa polska | Bitwa o Helmowy Jar |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 10 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 1368 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014837577 |
 
 **Oryginalny zestaw LEGO – kreatywna przygoda, która inspiruje**
 
@@ -522,11 +834,26 @@ Jestem kolekcjonerem i wyszukuje starszych zestawów w całej Europie. Gwarantuj
 
 LEGO The Lord of the Rings 9474 Bitwa o Helmowy Jar to zestaw klocków przeznaczony dla dzieci powyżej 10 roku życia. Zestaw zawiera 1368 elementów, co pozwala na stworzenie szczegółowej sceny bitwy z filmu Władca Pierścieni. Klocki LEGO są znane z wysokiej jakości i dbałości o detale, co zapewnia trwałość i długie użytkowanie produktu. Zestaw jest dedykowany zarówno dla chłopców, jak i dziewczynek. Dzięki niemu dziecko może rozwijać swoją wyobraźnię oraz zdolności manualne. LEGO The Lord of the Rings 9474 Bitwa o Helmowy Jar to także wspaniała okazja do zapoznania się z kultową serią filmową.
 
+**Galeria:**
+
+- 9474-1: https://a.allegroimg.com/original/11b31c/4cb373a24881b19ac80244312f89
+
 ---
 
-## 9476 — Lego Władca Pierścieni 9476 Kuźnia Orków Nowe
+## 9476 — Kuźnia Orków
 
-*Kategoria: Pozostałe serie > The Lord of the Rings · cena Allegro (2026-08-17): 1957.00 zł · EAN: 05702014860391 · in stock*
+| Pole | Wartość |
+|---|---|
+| Numer zestawu | 9476 |
+| Nazwa angielska | The Orc Forge |
+| Nazwa polska | Kuźnia Orków |
+| Seria | Pozostałe serie > The Lord of the Rings |
+| Grupa wiekowa | 8 lat + |
+| Rok wydania | 2012 |
+| Liczba elementów | 366 |
+| Cena katalogowa | — |
+| Wymiary złożonego | — |
+| EAN | 5702014860391 |
 
 Sklep MalyBudowniczy_pl oferuje na sprzedaż:
  
@@ -553,6 +880,10 @@ Idealny dla kolekcjonerów i fanów fantasy
 Numer katalogowy: 9476
 
 LEGO Kuźnia Orków 9476 to doskonały wybór na prezent lub jako element kolekcji LEGO Władca Pierścieni. Zestaw wyróżnia się klimatem, detalami oraz wysoką wartością kolekcjonerską.
+
+**Galeria:**
+
+- 9476-1: https://a.allegroimg.com/original/11ebf3/8358b7a34f8a890d18f60ff6a8a1
 
 ---
 
