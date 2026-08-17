@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-08-15",
-  "zrodlo_ostatniego_przebiegu": "feed mediaexpert (updated 2026-08-14 18:30 CEST) + feed planetaklockow, 21 cen PK zweryfikowanych na stronach produktowych"
+  "zaktualizowano": "2026-08-17",
+  "zrodlo_ostatniego_przebiegu": "feed mediaexpert (updated 2026-08-16 18:30 CEST) + feed planetaklockow; 32 cen PK zweryfikowano na stronach (3 nizsze o 7%, 22 sety niedostepne mimo obecnosci w feedzie); weryfikacja stron ME niemozliwa (HTTP 403)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -555,8 +555,8 @@
  "75641": {
   "nazwa": "Kryjówka doktora Hiluluka",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 93.63,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 91.87,
+  "najnizsza_data": "2026-08-17",
   "najnizsza_sklep": "mediaexpert"
  },
  "43292": {
@@ -758,8 +758,8 @@
  "31383": {
   "nazwa": "Flakon perfum z kwiatową ozdobą",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 87.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 87.98,
+  "najnizsza_data": "2026-08-17",
   "najnizsza_sklep": "mediaexpert"
  },
  "31386": {
@@ -1213,8 +1213,8 @@
  "10480": {
   "nazwa": "Las odkrywców z dzikimi zwierzętami",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 239.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 233.42,
+  "najnizsza_data": "2026-08-17",
   "najnizsza_sklep": "mediaexpert"
  },
  "76476": {
@@ -1269,8 +1269,8 @@
  "71863": {
   "nazwa": "Zilvar i smocza bestia Grimtak",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 74.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 69.74,
+  "najnizsza_data": "2026-08-17",
   "najnizsza_sklep": "planetaklockow"
  },
  "21596": {
@@ -1531,5 +1531,26 @@
   "najnizsza_cena": 339.99,
   "najnizsza_data": "2026-08-13",
   "najnizsza_sklep": "mediaexpert"
+ },
+ "30729": {
+  "nazwa": "Premierball",
+  "cena_katalogowa": 16.49,
+  "najnizsza_cena": 15.99,
+  "najnizsza_data": "2026-08-17",
+  "najnizsza_sklep": "planetaklockow"
+ },
+ "72155": {
+  "nazwa": "SMART Play: Bulbasaur i Bidoof z krzewem jagody",
+  "cena_katalogowa": 81.99,
+  "najnizsza_cena": 74.99,
+  "najnizsza_data": "2026-08-17",
+  "najnizsza_sklep": "mediaexpert"
+ },
+ "30730": {
+  "nazwa": "Wyposażenie Trenera",
+  "cena_katalogowa": 16.49,
+  "najnizsza_cena": 15.99,
+  "najnizsza_data": "2026-08-17",
+  "najnizsza_sklep": "planetaklockow"
  }
 }
