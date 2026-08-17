@@ -89,6 +89,7 @@ a { color: inherit; }
 .badge-najnizsza { display: inline-block; background: var(--zielen); color: #fff; font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 .badge-seria { display: inline-block; background: var(--papier); border: 1px solid var(--linia); font-weight: 600; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; color: var(--granat-60); }
 .badge-ex { display: inline-block; background: var(--granat); color: var(--zolty); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
+.badge-wkrotce { display: inline-block; background: var(--zolty); color: var(--granat); font-weight: 700; font-size: 0.8rem; padding: 3px 10px; border-radius: 999px; }
 
 /* ---------- Deal dnia (hero) ---------- */
 .deal-dnia { margin: 28px 0; padding: 26px; display: grid; gap: 24px; grid-template-columns: minmax(240px, 380px) 1fr; align-items: center; border-top: 6px solid var(--zolty); }

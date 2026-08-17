@@ -97,7 +97,7 @@ const wiersze = hist.map((s) => {
             {urlZdjecia(s.nr, { sety }) && <img class="miniatura" src={urlZdjecia(s.nr, { sety })} alt={`LEGO ${s.nr} ${s.nazwa}`} loading="lazy" width="400" height="300" />}
             <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
             <h3>{s.nazwa}</h3>
-            <div class="cena-linia"><span class="cena">{fmtCena(Math.min(...s.oferty.map((o) => o.cena)))}</span><span class="za-klocek">{s.elementy} el.</span></div>
+            <div class="cena-linia"><span class="cena">{s.oferty?.length ? fmtCena(Math.min(...s.oferty.map((o) => o.cena))) : (s.cena_katalogowa ? fmtCena(s.cena_katalogowa) : 'wkrótce')}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
           </a>
         ))}
       </div>

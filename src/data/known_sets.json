@@ -1,7 +1,7 @@
 {
   "data_aktualizacji": "2026-08-17",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
-  "liczba_setow": 227,
+  "liczba_setow": 229,
   "sety": [
     "10300",
     "10316",
@@ -229,13 +229,15 @@
     "77983",
     "77985",
     "80120",
-    "80121"
+    "80121",
+    "76355",
+    "11387"
   ],
   "zapowiedzi_sledzone": [
     {
       "numer": "76355",
       "nazwa": "Batmobil z Batman Returns",
-      "status": "teaser oficjalnie potwierdzony (StoneWars); najnowsze doniesienia: 2269 elementow, 229,99 USD (wczesniej 2272 el. / 219,99 USD — rozbieznosc zrodel), premiera 2026-09-01, nadal brak karty PL",
+      "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna karte PL i cene",
       "premiera": "2026-09-01"
     },
     {
@@ -276,7 +278,7 @@
     {
       "numer": "11387",
       "nazwa": "Zestaw swiateczny / zimowa wioska (Icons)",
-      "status": "NOWE — przeciek: 1354 elementy, cegielka swietlna, brak oficjalnej karty i ceny",
+      "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); czekamy na oficjalna nazwe, cene i karte PL",
       "premiera": "2026-10"
     }
   ],

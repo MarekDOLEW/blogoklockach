@@ -6,6 +6,7 @@ const fmt = (c) => c.toLocaleString('pl-PL', { minimumFractionDigits: 2 }) + ' z
 const ym = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
 const teraz = new Date();
 const odKiedy = ym(new Date(teraz.getFullYear(), teraz.getMonth() - 2, 1));
+const biezacy = ym(teraz);
 const nowe = Object.entries(sety)
   .filter(([, s]) => s.premiera >= odKiedy)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
@@ -40,10 +41,10 @@ const wSerii = (x) => nowe.filter((s) => s.seria === x).length;
             <span class="studs"><i></i><i></i><i></i><i></i></span>
           </div>
         )}
-        <span class="nr">LEGO {s.nr} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
+        <span class="nr">LEGO {s.nr} {s.premiera > biezacy && <span class="badge-wkrotce">wkrótce</span>} {s.ekskluzyw && <span class="badge-ex">ekskluzyw</span>}</span>
         <h3>{s.nazwa}</h3>
         <span class="badge-seria">{s.seria}</span>
-        <div class="cena-linia"><span class="cena">{fmt(s.cena_katalogowa)}</span><span class="za-klocek">{s.elementy} el.</span></div>
+        <div class="cena-linia"><span class="cena">{s.cena_katalogowa ? fmt(s.cena_katalogowa) : 'cena nieujawniona'}</span><span class="za-klocek">{s.elementy ? `${s.elementy} el.` : ''}</span></div>
       </a>
     ))}
   </div>

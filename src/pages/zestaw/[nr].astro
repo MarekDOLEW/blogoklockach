@@ -44,6 +44,11 @@ const opis = s?.opis ?? wycofanie?.uwagi ?? opisSetu(nr, { sety })?.tekst ?? nul
 // status sprzedaży dla lekkich hubów
 const eol = !s && (wycofanie?.kiedy === 'wycofany' || (!wycofanie && kat?.status === 'eol'));
 
+// zapowiedź: premiera w przyszłym miesiącu lub później
+const dzis = new Date();
+const biezacyMiesiac = `${dzis.getFullYear()}-${String(dzis.getMonth() + 1).padStart(2, '0')}`;
+const wkrotce = Boolean(s?.premiera && s.premiera > biezacyMiesiac);
+
 const sciezkaSerii = seria
   ? `/serie/${seria.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')}/`
   : null;
@@ -108,13 +113,14 @@ const opisMeta = najlepsza
       <div>
         <p style="margin-top:0">
           {seria && <span class="badge-seria">{seria}</span>}
+          {wkrotce && <span class="badge-wkrotce">wkrótce — zapowiedź</span>}
           {s?.ekskluzyw && <span class="badge-ex">ekskluzyw LEGO.com</span>}
           {eol && <span class="badge-seria">wycofany (EOL)</span>}
         </p>
         <h1>LEGO {nr} {nazwa}</h1>
         <div class="deal-meta" style="margin-bottom: 8px">
           {elementy && <span><strong>{fmtElementy(elementy)}</strong> elementów</span>}
-          {s && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
+          {s?.cena_katalogowa && s?.elementy && <span><strong>{(s.cena_katalogowa / s.elementy).toFixed(2).replace('.', ',')} zł</strong> za klocek</span>}
           {s?.wiek && <span>wiek <strong>{s.wiek}</strong></span>}
           {s?.premiera ? <span>premiera <strong>{s.premiera}</strong></span> : rok && <span>rocznik <strong>{rok}</strong></span>}
           {cenaKatalogowa && <span>cena katalogowa <strong>{fmt(cenaKatalogowa)}</strong></span>}
@@ -143,9 +149,11 @@ const opisMeta = najlepsza
       </section>
     )}
 
-    {oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
+    {wkrotce && oferty.length === 0 ? (
+      <p class="karta" style="padding: 14px 18px; margin: 18px 0;"><strong>Zapowiedź:</strong> premiera {s.premiera}. Gdy zestaw trafi do sklepów, w tym miejscu pojawi się porównanie cen.</p>
+    ) : oferty.length > 0 || jakikolwiekLink(nr) || !eol ? (
       <>
-        <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol} />
+        <TabelaCen nr={nr} oferty={oferty} cenaKatalogowa={cenaKatalogowa} dodajLego={!eol && !wkrotce} />
         <p class="disclosure">Linki „Sprawdź w sklepie" są linkami afiliacyjnymi — kupując przez nie, wspierasz serwis, nie płacąc więcej. Najtańsza oferta zawsze na górze.</p>
       </>
     ) : (
