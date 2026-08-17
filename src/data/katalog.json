@@ -28,12 +28,11 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-16",
-      "uzupelnione_lacznie": 372,
+      "data": "2026-08-17",
+      "uzupelnione_lacznie": 492,
       "ostatnie_serie": [
-        "Creator",
-        "Harry Potter",
-        "Icons"
+        "City",
+        "Friends"
       ]
     }
   },
@@ -20368,7 +20367,8 @@
       "nazwa": "Pociąg towarowy",
       "rok": 2018,
       "elementy": 1226,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 829.99
     },
     {
       "numer": "60200",
@@ -20403,14 +20403,16 @@
       "nazwa": "Tory",
       "rok": 2018,
       "elementy": 20,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60238",
       "nazwa": "Zwrotnice",
       "rok": 2018,
       "elementy": 8,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "66586",
@@ -21414,21 +21416,24 @@
       "nazwa": "Park kaskaderski",
       "rok": 2021,
       "elementy": 170,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "60294",
       "nazwa": "Ciężarówka kaskaderska",
       "rok": 2021,
       "elementy": 420,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "60295",
       "nazwa": "Arena pokazów kaskaderskich",
       "rok": 2021,
       "elementy": 668,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "60296",
@@ -21491,7 +21496,8 @@
       "nazwa": "Płyty drogowe",
       "rok": 2021,
       "elementy": 112,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60305",
@@ -21715,7 +21721,8 @@
       "nazwa": "Radiowóz",
       "rok": 2022,
       "elementy": 94,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60313",
@@ -21743,7 +21750,8 @@
       "nazwa": "Posterunek policji",
       "rok": 2022,
       "elementy": 668,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "60317",
@@ -21883,35 +21891,40 @@
       "nazwa": "Ekspresowy pociąg pasażerski",
       "rok": 2022,
       "elementy": 764,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 689.99
     },
     {
       "numer": "60338",
       "nazwa": "Kaskaderska pętla i szympans demolka",
       "rok": 2022,
       "elementy": 226,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "60339",
       "nazwa": "Kaskaderska arena z dwoma pętlami",
       "rok": 2022,
       "elementy": 598,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "60340",
       "nazwa": "Wyzwanie kaskaderskie: ostrze",
       "rok": 2022,
       "elementy": 154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "60341",
       "nazwa": "Wyzwanie kaskaderskie: przewracanie",
       "rok": 2022,
       "elementy": 117,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60342",
@@ -22009,7 +22022,8 @@
       "nazwa": "Śledztwa wodnej policji",
       "rok": 2022,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "66707",
@@ -22149,7 +22163,8 @@
       "nazwa": "Wyzwanie kaskaderskie - ciężarówka i ogniste obręcze",
       "rok": 2023,
       "elementy": 479,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "60358",
@@ -22170,14 +22185,16 @@
       "nazwa": "Wyzwanie kaskaderskie – obracające się okręgi",
       "rok": 2023,
       "elementy": 117,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "60361",
       "nazwa": "Ekstremalne wyzwanie kaskaderskie",
       "rok": 2023,
       "elementy": 385,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60362",
@@ -22219,14 +22236,16 @@
       "nazwa": "Samolot pasażerski",
       "rok": 2023,
       "elementy": 913,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60368",
       "nazwa": "Łódź badacza Arktyki",
       "rok": 2023,
       "elementy": 815,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "60369",
@@ -22261,7 +22280,8 @@
       "nazwa": "Łódź strażacka",
       "rok": 2023,
       "elementy": 144,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60374",
@@ -22569,7 +22589,8 @@
       "nazwa": "Spotkanie z małym gorylem",
       "rok": 2024,
       "elementy": 34,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "60399",
@@ -22583,35 +22604,40 @@
       "nazwa": "Gokarty i kierowcy wyścigowi",
       "rok": 2024,
       "elementy": 99,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60401",
       "nazwa": "Walec budowlany",
       "rok": 2024,
       "elementy": 78,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60402",
       "nazwa": "Niebieski monster truck",
       "rok": 2024,
       "elementy": 148,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "60403",
       "nazwa": "Karetka i snowboardzista",
       "rok": 2024,
       "elementy": 79,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60404",
       "nazwa": "Ciężarówka z burgerami",
       "rok": 2024,
       "elementy": 194,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60405",
@@ -22632,7 +22658,8 @@
       "nazwa": "Czerwony, piętrowy autokar",
       "rok": 2024,
       "elementy": 384,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60408",
@@ -22660,7 +22687,8 @@
       "nazwa": "Strażacki helikopter ratunkowy",
       "rok": 2024,
       "elementy": 85,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60412",
@@ -22681,14 +22709,16 @@
       "nazwa": "Remiza strażacka z wozem strażackim",
       "rok": 2024,
       "elementy": 843,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "60415",
       "nazwa": "Pościg radiowozu za muscle carem",
       "rok": 2024,
       "elementy": 213,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60417",
@@ -22709,7 +22739,8 @@
       "nazwa": "Policja z Więziennej Wyspy",
       "rok": 2024,
       "elementy": 980,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60420",
@@ -22730,14 +22761,16 @@
       "nazwa": "Nadmorski port ze statkiem towarowym",
       "rok": 2024,
       "elementy": 1226,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "60423",
       "nazwa": "Tramwaj miejski ze stacją",
       "rok": 2024,
       "elementy": 811,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "60424",
@@ -22758,7 +22791,8 @@
       "nazwa": "Terenówka badacza dżungli",
       "rok": 2024,
       "elementy": 314,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60428",
@@ -22772,14 +22806,16 @@
       "nazwa": "Statek kosmiczny i odkrywanie asteroidy",
       "rok": 2024,
       "elementy": 126,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60430",
       "nazwa": "Statek międzygwiezdny",
       "rok": 2024,
       "elementy": 240,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60431",
@@ -22800,7 +22836,8 @@
       "nazwa": "Modułowa stacja kosmiczna",
       "rok": 2024,
       "elementy": 1097,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "60434",
@@ -22821,7 +22858,8 @@
       "nazwa": "Kalendarz adwentowy 2024",
       "rok": 2024,
       "elementy": 195,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "60437",
@@ -22961,42 +22999,48 @@
       "nazwa": "Policyjny skuter wodny",
       "rok": 2025,
       "elementy": 29,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30694",
       "nazwa": "Kosmiczny mech naukowy",
       "rok": 2025,
       "elementy": 49,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "60442",
       "nazwa": "F1 Kierowca i bolid McLaren",
       "rok": 2025,
       "elementy": 86,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "60443",
       "nazwa": "F1 Pit stop i mechanicy z bolidem Ferrari",
       "rok": 2025,
       "elementy": 322,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60444",
       "nazwa": "F1 Garaż i bolidy Mercedes-AMG i Alpine",
       "rok": 2025,
       "elementy": 678,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "60445",
       "nazwa": "F1 Ciężarówka z bolidami RB20 i AMR24 F1",
       "rok": 2025,
       "elementy": 1086,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60446",
@@ -23010,14 +23054,16 @@
       "nazwa": "Górska ciężarówka terenowa 4x4",
       "rok": 2025,
       "elementy": 221,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60448",
       "nazwa": "Czerwony samochód sportowy",
       "rok": 2025,
       "elementy": 109,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60449",
@@ -23031,49 +23077,56 @@
       "nazwa": "Żółta ładowarka kołowa",
       "rok": 2025,
       "elementy": 81,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "60451",
       "nazwa": "Karetka pogotowia",
       "rok": 2025,
       "elementy": 184,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60452",
       "nazwa": "Mobilna pączkarnia",
       "rok": 2025,
       "elementy": 196,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60453",
       "nazwa": "Furgonetka ratowników plażowych",
       "rok": 2025,
       "elementy": 214,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "60454",
       "nazwa": "Wakacyjny kamper pełen przygód",
       "rok": 2025,
       "elementy": 385,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60455",
       "nazwa": "Pościg na motocyklu policyjnym",
       "rok": 2025,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60456",
       "nazwa": "Pościg łodzią policyjną",
       "rok": 2025,
       "elementy": 264,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60457",
@@ -23087,63 +23140,72 @@
       "nazwa": "Zestaw wyścigówek: pizza kontra wóz strażacki",
       "rok": 2025,
       "elementy": 70,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60459",
       "nazwa": "Zestaw wyścigówek: samolot kontra łóżko szpitalne",
       "rok": 2025,
       "elementy": 70,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60460",
       "nazwa": "Bez granic: tor z rampami dla wyścigówek",
       "rok": 2025,
       "elementy": 436,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "60461",
       "nazwa": "Czerwony traktor z przyczepą i owcą",
       "rok": 2025,
       "elementy": 116,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60462",
       "nazwa": "Zestaw z helikopterem, wozem strażackim i łodzią podwodną",
       "rok": 2025,
       "elementy": 874,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "60463",
       "nazwa": "Wóz strażacki z drabiną",
       "rok": 2025,
       "elementy": 82,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60464",
       "nazwa": "F1 Bolidy Williams Racing i Haas F1",
       "rok": 2025,
       "elementy": 92,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60465",
       "nazwa": "Samolot pogotowia ratunkowego",
       "rok": 2025,
       "elementy": 403,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "60466",
       "nazwa": "Żółty buldożer",
       "rok": 2025,
       "elementy": 682,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "60467",
@@ -23157,28 +23219,32 @@
       "nazwa": "Centralny dworzec kolejowy",
       "rok": 2025,
       "elementy": 752,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "60470",
       "nazwa": "Ekspres polarny arktycznych odkrywców",
       "rok": 2025,
       "elementy": 1517,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "60471",
       "nazwa": "Ciężarówka z laboratorium arktycznej odkrywczyni",
       "rok": 2025,
       "elementy": 1057,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "60472",
       "nazwa": "Złomowisko z samochodami",
       "rok": 2025,
       "elementy": 871,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "60473",
@@ -23199,7 +23265,8 @@
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 186,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "6557633",
@@ -23311,259 +23378,296 @@
       "nazwa": "City World Builder parts",
       "rok": 2026,
       "elementy": 63,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "12011",
       "nazwa": "City World Builder parts",
       "rok": 2026,
       "elementy": 66,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30719",
       "nazwa": "Gokart wyścigowy",
       "rok": 2026,
       "elementy": 48,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "60478",
       "nazwa": "Betoniarka",
       "rok": 2026,
       "elementy": 371,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "60479",
       "nazwa": "Furgonetka policyjnego konwoju więziennego",
       "rok": 2026,
       "elementy": 198,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60480",
       "nazwa": "Żółta koparko-ładowarka",
       "rok": 2026,
       "elementy": 301,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60481",
       "nazwa": "Pojazdy — Ciężarówka policyjna",
       "rok": 2026,
       "elementy": 71,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "60482",
       "nazwa": "Pojazdy — Wóz strażacki",
       "rok": 2026,
       "elementy": 67,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60483",
       "nazwa": "Pojazdy — Ładowarka kołowa",
       "rok": 2026,
       "elementy": 61,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "60484",
       "nazwa": "Pojazdy — Gamingowa wyścigówka",
       "rok": 2026,
       "elementy": 64,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "60485",
       "nazwa": "Hot Rod",
       "rok": 2026,
       "elementy": 81,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "60486",
       "nazwa": "Supersamochód elektryczny",
       "rok": 2026,
       "elementy": 109,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "60487",
       "nazwa": "Żółta taksówka",
       "rok": 2026,
       "elementy": 122,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "60488",
       "nazwa": "Food truck z frytkami",
       "rok": 2026,
       "elementy": 216,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60489",
       "nazwa": "Odrzutowiec kontra samochód",
       "rok": 2026,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "60490",
       "nazwa": "Pług śnieżny",
       "rok": 2026,
       "elementy": 263,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "60491",
       "nazwa": "Laweta dla motocykli",
       "rok": 2026,
       "elementy": 88,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "60492",
       "nazwa": "Samolot pasażerski",
       "rok": 2026,
       "elementy": 118,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60493",
       "nazwa": "Ciężarówka F1 z bolidem Audi F1",
       "rok": 2026,
       "elementy": 508,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "60494",
       "nazwa": "Wywrotka i ładowarka czołowa",
       "rok": 2026,
       "elementy": 1132,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "60495",
       "nazwa": "Ciężarówka recyklingowa",
       "rok": 2026,
       "elementy": 434,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "60496",
       "nazwa": "Dostawa pizzy z pojazdami",
       "rok": 2026,
       "elementy": 494,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "60497",
       "nazwa": "Automatyczna myjnia samochodowa",
       "rok": 2026,
       "elementy": 583,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "60498",
       "nazwa": "Traktor",
       "rok": 2026,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "60499",
       "nazwa": "Lotniskowy wóz strażacki",
       "rok": 2026,
       "elementy": 691,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "60500",
       "nazwa": "Furgonetka",
       "rok": 2026,
       "elementy": 276,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "60501",
       "nazwa": "Park rollercoasterów Lava Land",
       "rok": 2026,
       "elementy": 1165,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60502",
       "nazwa": "Lotnisko z samolotem",
       "rok": 2026,
       "elementy": 887,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60503",
       "nazwa": "Helikopter straży przybrzeżnej",
       "rok": 2026,
       "elementy": 551,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "60504",
       "nazwa": "Łódź ratunkowa i helikopter straży przybrzeżnej",
       "rok": 2026,
       "elementy": 742,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "60505",
       "nazwa": "Zestaw z samolotem, ciężarówką serwisową i poduszkowcem",
       "rok": 2026,
       "elementy": 990,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "60506",
       "nazwa": "Tramwaj przy plaży",
       "rok": 2026,
       "elementy": 693,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "60508",
       "nazwa": "Napad na policyjny pociąg",
       "rok": 2026,
       "elementy": 1313,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "60509",
       "nazwa": "Portowy pociąg towarowy, dźwig i ciężarówka",
       "rok": 2026,
       "elementy": 803,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "60510",
       "nazwa": "Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 252,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "60511",
       "nazwa": "Retro pociąg z lokomotywą parową",
       "rok": 2026,
       "elementy": 575,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "60512",
       "nazwa": "Furgonetka z rowerami górskimi",
       "rok": 2026,
       "elementy": 260,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "6614210",
@@ -29968,7 +30072,8 @@
       "nazwa": "Pudełko przyjaźni",
       "rok": 2018,
       "elementy": 563,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "41347",
@@ -30017,7 +30122,8 @@
       "nazwa": "Kalendarz adwentowy 2018",
       "rok": 2018,
       "elementy": 500,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "471801",
@@ -30366,7 +30472,8 @@
       "nazwa": "Restauracja w Heartlake",
       "rok": 2019,
       "elementy": 624,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "41380",
@@ -30387,7 +30494,8 @@
       "nazwa": "Kalendarz adwentowy 2019",
       "rok": 2019,
       "elementy": 330,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "41383",
@@ -30946,7 +31054,8 @@
       "nazwa": "Magiczny kufer Emmy",
       "rok": 2021,
       "elementy": 67,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 14.99
     },
     {
       "numer": "41439",
@@ -31009,7 +31118,8 @@
       "nazwa": "Park w Heartlake City",
       "rok": 2021,
       "elementy": 432,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "41448",
@@ -31170,7 +31280,8 @@
       "nazwa": "Magiczny wóz",
       "rok": 2021,
       "elementy": 348,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "41689",
@@ -31366,7 +31477,8 @@
       "nazwa": "Pizzeria w Heartlake",
       "rok": 2022,
       "elementy": 144,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "41706",
@@ -31380,14 +31492,16 @@
       "nazwa": "Furgonetka do sadzenia drzew",
       "rok": 2022,
       "elementy": 336,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "41708",
       "nazwa": "Automat w dyskotece",
       "rok": 2022,
       "elementy": 642,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "41709",
@@ -31415,14 +31529,16 @@
       "nazwa": "Ciężarówka recyklingowa",
       "rok": 2022,
       "elementy": 259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "41713",
       "nazwa": "Kosmiczna akademia Olivii",
       "rok": 2022,
       "elementy": 757,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "41714",
@@ -31436,21 +31552,24 @@
       "nazwa": "Furgonetka z lodami",
       "rok": 2022,
       "elementy": 84,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "41716",
       "nazwa": "Stephanie i przygoda pod żaglami",
       "rok": 2022,
       "elementy": 304,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "41717",
       "nazwa": "Mia ratowniczka dzikich zwierząt",
       "rok": 2022,
       "elementy": 430,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "41718",
