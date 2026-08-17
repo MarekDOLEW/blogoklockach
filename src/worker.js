@@ -62,12 +62,11 @@ export default {
 
       // Allegro: własna kampania afiliacyjna. Wpisy w redirects to gotowe
       // item_link z feedu (odświeżane z danymi). Dla setów spoza feedu budujemy
-      // link wg wzoru działającego linku kampanii: pełne przekodowanie
-      // encodeURIComponent psuje walidację redirect_url po stronie Allegro,
-      // więc schemat i `?` zostają surowe, a kodujemy tylko separatory
-      // wewnętrznych parametrów (%3D/%26) i spację jako %20.
+      // link surowym zapisem — identycznie jak item_link z feedu Allegro,
+      // gdzie wewnętrzne `?`/`&`/`=` nie są kodowane wcale. Wersje kodowane
+      // (pełny encodeURIComponent oraz %3D/%26) endpoint /affiliate odrzuca.
       if (!cel && sklep === 'allegro' && /^\d{4,7}$/.test(numer)) {
-        cel = `https://allegro.pl/affiliate?redirect_url=https://allegro.pl/listing?string%3DLEGO%20${numer}%26utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3D49250116-4827-4f0d-b2b2-f65993d0f372`;
+        cel = `https://allegro.pl/affiliate?redirect_url=https://allegro.pl/listing?string=LEGO%20${numer}&utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372`;
       }
 
       // Szczątkowa analityka kliknięć afiliacyjnych (Workers Analytics Engine).
