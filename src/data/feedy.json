@@ -67,7 +67,8 @@
    "PULAPKA: korzen drzewa g:product_type to 'Zabawki i LEGO', wiec test 'kategoria zawiera LEGO' przepuszcza KAZDA zabawke w sklepie. Bez filtra g:brand == 'LEGO' feed generuje falszywe deale: 'Puzzle LISCIANI Bing 304-77977' za 24,99 zl (LEGO 77977 kosztuje 73,90), 'Gra logiczna TACTIC Peppa Pig 60480' za 51,92 zl (LEGO 99,90), 'Maskotka DUBI Husky 31389' za 60,12 zl (LEGO 260,19).",
    "748 pozycji z marka LEGO, 733 dostepne (stan 14.08.2026).",
    "Weryfikacja 14.08.2026: 9 na 10 setow zgadzalo sie co do grosza ze strona produktowa; 43018 mial 559,00 w feedzie i 550,51 na stronie (zmiana w ciagu dnia).",
-   "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403)."
+   "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403).",
+   "OGRANICZENIE (odkryte 2026-08-17): feed zawiera tylko ~765 produktow LEGO — to podzbior asortymentu ME (paczka mieszana, nie pelna oferta; np. LEGO 21348 jest w sklepie, ale nie w feedzie). Brak ceny w feedzie NIE oznacza braku produktu w ME. Do zalatwienia: pelny feed kategorii zabawki/LEGO przez panel/opiekuna Performers."
   ]
  },
  "allegro": {
