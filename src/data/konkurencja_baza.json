@@ -1,11 +1,11 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-16",
-    "przebieg": "scheduled 2026-08-16 popoludniowy",
+    "ostatnia_aktualizacja": "2026-08-17",
+    "przebieg": "scheduled 2026-08-17 poranny",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 15
+    "liczba_wpisow": 17
   },
   "publikacje": [
     {
@@ -36,6 +36,7 @@
       "tytul": "Zapowiedzi LEGO 2027: Star Wars",
       "url": "https://fanklockow.pl/zapowiedzi-lego-2027-star-wars/",
       "data_publikacji": "2026-08-12",
+      "data_aktualizacji": "2026-08-16",
       "data_wykrycia": "2026-08-16",
       "typ": "nowosc",
       "ocena": "PRZEBIJAMY",
@@ -173,6 +174,28 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": ["Media Expert", "empik.com"],
       "notatki": "BASELINE pierwszego monitoringu strukturalnego. Aplikacja mobilna z powiadomieniami o okazjach = wysoki koszt odtworzenia, nie konkurujemy funkcja tylko contentem. Potwierdzone dedykowane podstrony sklepow: /sklep-media-expert, /sklep-empik-com (pelna lista sklepow niedostepna - serwis blokuje fetch, HTTP 403)."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Sekcja: Klockowy mini blog (promocje, okazje i nowosci)",
+      "url": "https://promoklocki.pl/blog",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-17",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE (uzupelnienie z 17.08). Regularny mini blog: wpisy promocyjne (np. 'Promocje w sklepie LEGO - kwiecien 2026' n1507), zapowiedzi nowosci (Pokemon 2026), recenzje zestawow, materialy o polskich youtuberach LEGO i kodach rabatowych. Biezacych wpisow promocyjnych NIE raportujemy - monitorujemy tylko nowe FORMATY/sekcje."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Sekcja: Gazetki LEGO (archiwum gazetek promocyjnych per seria)",
+      "url": "https://promoklocki.pl/gazetki-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-17",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE (uzupelnienie z 17.08). Archiwum gazetek promocyjnych LEGO z podzialem na serie (np. /gazetki-lego/kategoria/technic). Format unikalny w polskiej niszy - nie planujemy odtwarzac, notujemy jako element przewagi narzedziowej promoklocki."
     }
   ],
   "obserwacje_strategiczne": {
@@ -181,6 +204,6 @@
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja, ale WYLACZNIE LEGO.com - zero porownania sklepow.",
     "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
-    "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403)."
+    "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne."
   }
 }
