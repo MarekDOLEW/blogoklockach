@@ -29,9 +29,10 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-18",
-      "uzupelnione_lacznie": 732,
+      "uzupelnione_lacznie": 852,
       "ostatnie_serie": [
-        "Star Wars",
+        "DUPLO",
+        "Marvel",
         "Technic"
       ]
     }
@@ -16589,63 +16590,72 @@
       "numer": "42233",
       "nazwa": "Potężne maszyny - Seria 1",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 20.99
     },
     {
       "numer": "42234",
       "nazwa": "Samochód sportowy Dodge Viper GTS-R",
       "rok": 2026,
       "elementy": 805,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42235",
       "nazwa": "Samochód Ferrari 488 PISTA",
       "rok": 2026,
       "elementy": 882,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 264.99
     },
     {
       "numer": "42236",
       "nazwa": "Warsztat tuningowy: samochód Ford Mustang GT",
       "rok": 2026,
       "elementy": 973,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "42238",
       "nazwa": "Motocykl Ducati Desmo450 MX Factory",
       "rok": 2026,
       "elementy": 457,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "42239",
       "nazwa": "Batmobile Tumbler",
       "rok": 2026,
       "elementy": 719,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 819.99
     },
     {
       "numer": "42240",
       "nazwa": "Bolid F1 Aston Martin Aramco AMR25",
       "rok": 2026,
       "elementy": 1547,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42241",
       "nazwa": "Zielony hipersamochód Bugatti Chiron Pur Sport",
       "rok": 2026,
       "elementy": 771,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42242",
       "nazwa": "Mercedes-Benz Unimog U 5023 z dźwigiem",
       "rok": 2026,
       "elementy": 1189,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "L0002290",
@@ -38575,7 +38585,8 @@
       "nazwa": "Moja pierwsza kaczuszka",
       "rok": 2019,
       "elementy": 6,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 17.0
     },
     {
       "numer": "30328",
@@ -38595,14 +38606,16 @@
       "nazwa": "Pudełko z klockami",
       "rok": 2020,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10914",
       "nazwa": "Pudełko z klockami Deluxe",
       "rok": 2020,
       "elementy": 85,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10915",
@@ -38763,7 +38776,8 @@
       "nazwa": "Disney Urodzinowy pociąg myszek Miki i Minnie",
       "rok": 2021,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "10942",
@@ -38854,7 +38868,8 @@
       "nazwa": "Pociąg z cyferkami - nauka liczenia",
       "rok": 2021,
       "elementy": 23,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "10955",
@@ -38952,14 +38967,16 @@
       "nazwa": "Zabawa w kąpieli: pływająca wyspa ze zwierzątkami",
       "rok": 2022,
       "elementy": 20,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "10967",
       "nazwa": "Motocykl policyjny",
       "rok": 2022,
       "elementy": 5,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 39.99
     },
     {
       "numer": "10968",
@@ -38973,7 +38990,8 @@
       "nazwa": "Wóz strażacki",
       "rok": 2022,
       "elementy": 21,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10970",
@@ -39029,7 +39047,8 @@
       "nazwa": "Mój pierwszy szczeniak i kotek z odgłosami",
       "rok": 2022,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "10978",
@@ -39099,7 +39118,8 @@
       "nazwa": "Ryneczek bio",
       "rok": 2023,
       "elementy": 40,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10984",
@@ -39141,7 +39161,8 @@
       "nazwa": "Park wodny",
       "rok": 2023,
       "elementy": 19,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "10990",
@@ -39232,35 +39253,40 @@
       "nazwa": "Pociąg ze zwierzątkami",
       "rok": 2024,
       "elementy": 19,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "10413",
       "nazwa": "Codzienne czynności - kąpiel",
       "rok": 2024,
       "elementy": 15,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 39.99
     },
     {
       "numer": "10414",
       "nazwa": "Codzienne czynności - jedzenie",
       "rok": 2024,
       "elementy": 28,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10415",
       "nazwa": "Moje uczucia i emocje",
       "rok": 2024,
       "elementy": 23,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10416",
       "nazwa": "Opieka nad zwierzętami na farmie",
       "rok": 2024,
       "elementy": 74,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "10417",
@@ -39274,14 +39300,16 @@
       "nazwa": "Elza i Bruni w Zaczarowanym Lesie",
       "rok": 2024,
       "elementy": 31,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 139.99
     },
     {
       "numer": "10419",
       "nazwa": "Opieka nad pszczołami i ulami",
       "rok": 2024,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "10420",
@@ -39295,21 +39323,24 @@
       "nazwa": "Ciężarówka z alfabetem",
       "rok": 2024,
       "elementy": 36,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "10422",
       "nazwa": "Przygoda w promie kosmicznym 3w1",
       "rok": 2024,
       "elementy": 58,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "10423",
       "nazwa": "Ludziki z emocjami",
       "rok": 2024,
       "elementy": 71,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "10424",
@@ -39323,35 +39354,40 @@
       "nazwa": "Peppa Pig Ogród i domek na drzewie Peppy",
       "rok": 2024,
       "elementy": 20,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10432",
       "nazwa": "Peppa Pig Peppa i rejs łodzią",
       "rok": 2024,
       "elementy": 23,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10433",
       "nazwa": "Peppa Pig Urodzinowy domek Peppy",
       "rok": 2024,
       "elementy": 59,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "10434",
       "nazwa": "Peppa Pig Peppa i supermarket",
       "rok": 2024,
       "elementy": 70,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10435",
       "nazwa": "Disney Magiczny podwodny pałac Arielki",
       "rok": 2024,
       "elementy": 116,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 389.99
     },
     {
       "numer": "10438",
@@ -39372,7 +39408,8 @@
       "nazwa": "Moja pierwsza kaczuszka",
       "rok": 2024,
       "elementy": 7,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 17.99
     },
     {
       "numer": "472402",
@@ -39393,175 +39430,200 @@
       "nazwa": "Tunel i tory kolejowe - zestaw rozszerzający",
       "rok": 2025,
       "elementy": 20,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10426",
       "nazwa": "Most i tory kolejowe - zestaw rozszerzający",
       "rok": 2025,
       "elementy": 42,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "10427",
       "nazwa": "Przygoda z interaktywnym pociągiem",
       "rok": 2025,
       "elementy": 57,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10428",
       "nazwa": "Duży interaktywny pociąg miejski",
       "rok": 2025,
       "elementy": 103,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "10440",
       "nazwa": "Balansujące drzewko",
       "rok": 2025,
       "elementy": 27,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10441",
       "nazwa": "Sorter kształtów: dom szczeniaczków",
       "rok": 2025,
       "elementy": 17,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10442",
       "nazwa": "Rodziny dzikich zwierząt: pingwiny i lwy",
       "rok": 2025,
       "elementy": 10,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 39.99
     },
     {
       "numer": "10443",
       "nazwa": "Pierwszy raz na lotnisku",
       "rok": 2025,
       "elementy": 23,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10444",
       "nazwa": "Kreatywny ogród i kwiaty",
       "rok": 2025,
       "elementy": 45,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10445",
       "nazwa": "Bolidy i kierowcy F1",
       "rok": 2025,
       "elementy": 70,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "10446",
       "nazwa": "Rodziny dzikich zwierząt 3w1",
       "rok": 2025,
       "elementy": 92,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10447",
       "nazwa": "Karetka z kierowcą",
       "rok": 2025,
       "elementy": 19,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10448",
       "nazwa": "3 w 1 Zwierzątka na kółkach",
       "rok": 2025,
       "elementy": 58,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "10449",
       "nazwa": "Pierwszy raz: wizyta u lekarza",
       "rok": 2025,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "10450",
       "nazwa": "Gra Zamek Hopsy",
       "rok": 2025,
       "elementy": 47,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "10451",
       "nazwa": "3 w 1 Dinozaury na kółkach",
       "rok": 2025,
       "elementy": 108,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10452",
       "nazwa": "Świnka Peppa Wyprawa na biwak",
       "rok": 2025,
       "elementy": 32,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10453",
       "nazwa": "Peppa Pig Wesołe miasteczko",
       "rok": 2025,
       "elementy": 53,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "10454",
       "nazwa": "Disney Klub przyjaciół Myszki Miki i samochód",
       "rok": 2025,
       "elementy": 27,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10455",
       "nazwa": "Disney Przyjęcie w lodowym zamku Anny i Elzy",
       "rok": 2025,
       "elementy": 54,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "10456",
       "nazwa": "Disney Wizyta McQueena w warsztacie Wójta",
       "rok": 2025,
       "elementy": 35,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10457",
       "nazwa": "Przyjęcie urodzinowe Kubusia Puchatka",
       "rok": 2025,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10458",
       "nazwa": "Bluey Wyprawa po lody z Blue",
       "rok": 2025,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10459",
       "nazwa": "Bluey Dom rodzinny Blue z grą pamięciową",
       "rok": 2025,
       "elementy": 83,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10460",
       "nazwa": "Zielona płytka konstrukcyjna",
       "rok": 2025,
       "elementy": 1,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "10461",
@@ -39575,153 +39637,175 @@
       "nazwa": "Mój pierwszy kwiatek i pszczoła",
       "rok": 2025,
       "elementy": 7,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "10462",
       "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
       "rok": 2026,
       "elementy": 37,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "10463",
       "nazwa": "Dinozaur Spidey-Rex i Zielony Goblin",
       "rok": 2026,
       "elementy": 25,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10464",
       "nazwa": "Marvel Kryjówka Pajęczej Drużyny",
       "rok": 2026,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10465",
       "nazwa": "Klub Myszki Miki z Minnie i Pluto",
       "rok": 2026,
       "elementy": 87,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10466",
       "nazwa": "Podróż pociągiem z Dziadkiem Świnką",
       "rok": 2026,
       "elementy": 35,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "10467",
       "nazwa": "Dom rodzinny",
       "rok": 2026,
       "elementy": 84,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10468",
       "nazwa": "Peppa Ciągnik i rynek",
       "rok": 2026,
       "elementy": 18,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "10469",
       "nazwa": "Pizzerki z Muffinką i Blue",
       "rok": 2026,
       "elementy": 44,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "10470",
       "nazwa": "Nowoczesny dom rodzinny 3 w 1 z figurkami",
       "rok": 2026,
       "elementy": 166,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10471",
       "nazwa": "Niebieski motocykl policyjny",
       "rok": 2026,
       "elementy": 11,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "10472",
       "nazwa": "Gra w budowanie zwierzątek",
       "rok": 2026,
       "elementy": 94,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "10473",
       "nazwa": "Wóz strażacki z wężem i strażakiem",
       "rok": 2026,
       "elementy": 28,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "10474",
       "nazwa": "Kreatywne pojazdy",
       "rok": 2026,
       "elementy": 42,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10475",
       "nazwa": "Maszyny budowlane 3 w 1",
       "rok": 2026,
       "elementy": 22,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "10476",
       "nazwa": "Plac budowy z pojazdami 3 w 1",
       "rok": 2026,
       "elementy": 84,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "10477",
       "nazwa": "Kreatywne zwierzaki 3 w 1",
       "rok": 2026,
       "elementy": 24,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "10478",
       "nazwa": "Kreatywne rampy 3 w 1 z pojazdami",
       "rok": 2026,
       "elementy": 111,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "10479",
       "nazwa": "Kreatywne pudełko pełne kolorów",
       "rok": 2026,
       "elementy": 80,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "10480",
       "nazwa": "Las odkrywców z dzikimi zwierzętami",
       "rok": 2026,
       "elementy": 131,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "10481",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30712",
       "nazwa": "Tort",
       "rok": 2026,
       "elementy": 9,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "LANDDUCK",
@@ -45397,14 +45481,16 @@
       "nazwa": "W cieniu Arishem",
       "rok": 2021,
       "elementy": 493,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "76156",
       "nazwa": "Domo powstaje",
       "rok": 2021,
       "elementy": 1040,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "76168",
@@ -45747,14 +45833,16 @@
       "nazwa": "Atak na Nowy Asgard",
       "rok": 2022,
       "elementy": 159,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 99.99
     },
     {
       "numer": "76208",
       "nazwa": "Kozia łódź",
       "rok": 2022,
       "elementy": 564,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "76209",
@@ -45768,7 +45856,8 @@
       "nazwa": "Hulkbuster",
       "rok": 2022,
       "elementy": 4049,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2399.99
     },
     {
       "numer": "76211",
@@ -45789,7 +45878,8 @@
       "nazwa": "Sala tronowa króla Namora",
       "rok": 2022,
       "elementy": 355,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76214",
@@ -45866,7 +45956,8 @@
       "nazwa": "Kalendarz adwentowy ze Strażnikami Galaktyki 2022",
       "rok": 2022,
       "elementy": 268,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "TRUSPIDERMAN",
@@ -46069,21 +46160,24 @@
       "nazwa": "Kwatera Strażników Galaktyki",
       "rok": 2023,
       "elementy": 67,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 45.99
     },
     {
       "numer": "76254",
       "nazwa": "Statek kosmiczny małego Rocketa",
       "rok": 2023,
       "elementy": 330,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "76255",
       "nazwa": "Nowy statek Strażników",
       "rok": 2023,
       "elementy": 1108,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "76256",
@@ -46097,14 +46191,16 @@
       "nazwa": "Figurka Wolverine’a do zbudowania",
       "rok": 2023,
       "elementy": 327,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76258",
       "nazwa": "Figurka Kapitana Ameryki do zbudowania",
       "rok": 2023,
       "elementy": 310,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76260",
@@ -46125,14 +46221,16 @@
       "nazwa": "Tarcza Kapitana Ameryki",
       "rok": 2023,
       "elementy": 3128,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 929.99
     },
     {
       "numer": "76263",
       "nazwa": "Hulkbuster Iron Mana vs. Thanos",
       "rok": 2023,
       "elementy": 66,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "76266",
@@ -46314,14 +46412,16 @@
       "nazwa": "Warbird Rocketa",
       "rok": 2024,
       "elementy": 290,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76279",
       "nazwa": "Auto Spider-mana",
       "rok": 2024,
       "elementy": 227,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76280",
@@ -46335,21 +46435,24 @@
       "nazwa": "Odrzutowiec X-men",
       "rok": 2024,
       "elementy": 359,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "76282",
       "nazwa": "Figurka Rocketa do zbudowania",
       "rok": 2024,
       "elementy": 566,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "76284",
       "nazwa": "Figurka Zielonego Goblina",
       "rok": 2024,
       "elementy": 471,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "76285",
@@ -46370,14 +46473,16 @@
       "nazwa": "Iron Man z motocyklem i Hulk",
       "rok": 2024,
       "elementy": 68,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "76288",
       "nazwa": "Iron Man i Iron Legion kontra żołnierz Hydry",
       "rok": 2024,
       "elementy": 135,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 94.99
     },
     {
       "numer": "76289",
@@ -46398,14 +46503,16 @@
       "nazwa": "Avengers: Czas Ultrona",
       "rok": 2024,
       "elementy": 613,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "76292",
       "nazwa": "Kapitan Ameryka kontra Czerwony Hulk - bitwa",
       "rok": 2024,
       "elementy": 223,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "76293",
@@ -46419,7 +46526,8 @@
       "nazwa": "X-Men: Instytut Xaviera",
       "rok": 2024,
       "elementy": 3093,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1399.99
     },
     {
       "numer": "76295",
@@ -46433,42 +46541,48 @@
       "nazwa": "Figurka nowego Kapitana Ameryki",
       "rok": 2024,
       "elementy": 359,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "76297",
       "nazwa": "Tańczący Groot",
       "rok": 2024,
       "elementy": 459,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "76298",
       "nazwa": "Figurka Iron Spider-Mana",
       "rok": 2024,
       "elementy": 303,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "11198",
       "nazwa": "Spider-Man Pościg Spina za Electro w dinopojeździe",
       "rok": 2025,
       "elementy": 124,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "11199",
       "nazwa": "Misja ratunkowa zespołu ’ego w dinoterenówce",
       "rok": 2025,
       "elementy": 136,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "11200",
       "nazwa": "Spider-Man Bitwa Spidey’ego i Gobby’ego przy domku na drzewie",
       "rok": 2025,
       "elementy": 143,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "242501",
@@ -46566,21 +46680,24 @@
       "nazwa": "Mech Iron Mana kontra Ultron",
       "rok": 2025,
       "elementy": 101,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "76308",
       "nazwa": "Mech Spider-mana kontra Anti-Venom",
       "rok": 2025,
       "elementy": 107,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "76309",
       "nazwa": "Spider-Man kontra muscle car Venoma",
       "rok": 2025,
       "elementy": 254,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76310",
@@ -46594,28 +46711,32 @@
       "nazwa": "Multiwersum: Miles Morales kontra Spot",
       "rok": 2025,
       "elementy": 375,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76312",
       "nazwa": "Monster truck Hulka kontra Thanos",
       "rok": 2025,
       "elementy": 229,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "76313",
       "nazwa": "Logo z minifigurkami",
       "rok": 2025,
       "elementy": 931,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "76314",
       "nazwa": "Kapitan Ameryka: Wojna bohaterów - bitwa",
       "rok": 2025,
       "elementy": 736,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "76315",
