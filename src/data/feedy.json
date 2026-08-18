@@ -93,7 +93,8 @@
    "item_link to GOTOWY link afiliacyjny (allegro.pl/affiliate?redirect_url=...) - uzywac wprost, nie budowac wlasnego.",
    "Przy wielu ofertach tego samego setu brac najnizsza cene z availability='in stock'.",
    "availability: tylko 'in stock' traktowac jako dostepne.",
-   "image_link (a.allegroimg.com) moze sluzyc jako dodatkowe zrodlo zdjec."
+   "image_link (a.allegroimg.com) moze sluzyc jako dodatkowe zrodlo zdjec.",
+   "Przy KAZDYM przebiegu odswiezac redirects.json -> allegro gotowymi item_link z feedu (najnizsza oferta in stock per set) - dzieki temu nowe sety dostaja bezposrednie linki ofertowe, a fallback workera (strona glowna Allegro) dziala tylko dla setow spoza feedu."
   ]
  }
 }

@@ -62,14 +62,14 @@ export default {
       }
 
       // Allegro: własna kampania afiliacyjna. Wpisy w redirects to gotowe
-      // item_link z feedu (odświeżane z danymi). Dla setów spoza feedu budujemy
-      // link surowym zapisem — identycznie jak item_link z feedu Allegro,
-      // gdzie wewnętrzne `?`/`&`/`=` nie są kodowane wcale. Wersje kodowane
-      // (pełny encodeURIComponent oraz %3D/%26) endpoint /affiliate odrzuca.
+      // item_link z feedu (endpoint /affiliate akceptuje z zewnątrz tylko ścieżki
+      // /oferta/... oraz zarejestrowany link kampanii — warianty z /listing
+      // odrzuca niezależnie od kodowania). Dla setów spoza feedu kierujemy więc
+      // sprawdzonym linkiem kampanii na stronę główną Allegro (cookie prowizyjne
+      // się ustawia, klient doszukuje set ręcznie).
       if (!cel && sklep === 'allegro' && /^\d{4,7}$/.test(numer)) {
-        cel = `https://allegro.pl/affiliate?redirect_url=https://allegro.pl/listing?string=LEGO%20${numer}&utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372`;
+        cel = 'https://allegro.pl/affiliate?redirect_url=https://allegro.pl?utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3D49250116-4827-4f0d-b2b2-f65993d0f372';
       }
-
       // Sklepy bez afiliacji: skoro pokazujemy cenę, dajemy przynajmniej zwykły
       // link — szablon `szukaj` ze sklepy.json ({nr} = numer setu); szablony bez
       // {nr} prowadzą na stronę główną sklepu.
