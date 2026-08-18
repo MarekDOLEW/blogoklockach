@@ -19,7 +19,7 @@
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds)."
   },
   "zasoby": {
-   "adtraction_api": "https://apidocs.adtraction.net/v2/ - API Adtraction (deeplinki, feedy produktowe, statystyki). Po akceptacji kanalu wygenerowac token w panelu i uzyc do automatyzacji linkow Smyk/Egmont."
+   "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API."
   }
  },
  "planetaklockow": {
@@ -100,7 +100,7 @@
   "format_linkow": "deeplink: https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=<zakodowany URL smyk.com>. Brand ID 2030748295, Brand AD ID 2030748298, kanal 2103402418. Zakaz: reklamy w wyszukiwarkach, subnetwork (nie dotyczy nas).",
   "feed": null,
   "data": "2026-08-18",
-  "uwagi": "AKTYWNY i PODPIETY 2026-08-18: worker ma fallback /idz/smyk/<nr> -> wyszukiwarka smyk.com/search?q=LEGO <nr> opakowana w deeplink Adtraction; wiersz \"Sprawdz cene\" na podstronach setow w sprzedazy. Tracking 45 dni. Konto bez zakladki API (feed produktowy niedostepny na razie) - ceny Smyka dojda, gdy Adtraction udostepni API/feed."
+  "uwagi": "AKTYWNY i PODPIETY. Worker: /idz/smyk/<nr> -> link trackingowy Adtraction (format 1:1 z generatora panelu). USTALONE 2026-08-19: integracja Smyk/netsalesmedia IGNORUJE cel deeplinka w KAZDYM formacie (takze link z panelu laduje na stronie glownej smyk.com) - tracking i cookie 45 dni dzialaja, landing to zawsze strona glowna; nie probowac kolejnych formatow. Feed produktowy: BRAK w Adtraction (v2: 204, v3: No products found) - cen Smyka nie ma skad brac; sprawdzac okresowo przez API (GET /v3/partner/products/feedinfo/2030748295/2103402418). Token API w srodowisku: ADTRACTION_TOKEN."
  },
  "egmont": {
   "siec": "Adtraction",
