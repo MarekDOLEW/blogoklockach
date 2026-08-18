@@ -18,7 +18,7 @@
    "Adtraction": "kanal 'Tylko Klocki' (ID 2103402418) ZAAKCEPTOWANY 2026-08-18. Zgloszenia do programow: Smyk PL ZAAKCEPTOWANY, Egmont.pl wyslane.",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds).",
    "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
-   "Awin": "DO REJESTRACJI (priorytet 1 wg researchu): Proshop PL - feed co godzine, cookie 30 dni.",
+   "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
    "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
    "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
   },
@@ -159,13 +159,13 @@
  },
  "proshop": {
   "siec": "Awin",
-  "status": "do zgloszenia",
+  "status": "wyslane",
   "prowizja": "3%",
   "cookie_dni": 30,
   "format_linkow": null,
   "feed": "Awin Create-a-Feed, odswiezany co godzine (155 tys. produktow)",
-  "data": null,
-  "uwagi": "PRIORYTET wg researchu: jedyna kombinacja feed+30 dni cookie sensowna pod tresci poradnikowe. Depozyt 5 GBP (zwrotny), weryfikacja ~24h."
+  "data": "2026-08-19",
+  "uwagi": "Zgloszenie wyslane 2026-08-19 (konto Awin zarejestrowane). Po akceptacji: Create-a-Feed / productdata.awin.com (feed co godzine) -> feedy.json + deeplinki Awin. Cookie 30 dni - linkowac z tresci poradnikowych."
  },
  "komputronik": {
   "siec": "Admitad (takze Convertiser - porownac)",
