@@ -28,11 +28,11 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-17",
-      "uzupelnione_lacznie": 612,
+      "data": "2026-08-18",
+      "uzupelnione_lacznie": 732,
       "ostatnie_serie": [
-        "Friends",
-        "Star Wars"
+        "Star Wars",
+        "Technic"
       ]
     }
   },
@@ -9884,21 +9884,24 @@
       "nazwa": "Grogu w wózku",
       "rok": 2025,
       "elementy": 1048,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "75404",
       "nazwa": "Krążownik szturmowy typu Acclamator",
       "rok": 2025,
       "elementy": 450,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75405",
       "nazwa": "Krążownik typu Home One",
       "rok": 2025,
       "elementy": 559,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75406",
@@ -9912,56 +9915,64 @@
       "nazwa": "Logo Star Wars zbudowane z klocków",
       "rok": 2025,
       "elementy": 700,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75408",
       "nazwa": "Hełm Jango Fetta",
       "rok": 2025,
       "elementy": 616,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "75409",
       "nazwa": "Patrolowiec typu Firespray Jango Fetta",
       "rok": 2025,
       "elementy": 2970,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "75410",
       "nazwa": "Myśliwiec N-1 Mando i Grogu",
       "rok": 2025,
       "elementy": 92,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "75411",
       "nazwa": "Mech Dartha Maula",
       "rok": 2025,
       "elementy": 143,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "75412",
       "nazwa": "Szturmowiec Śmierci i nocny szturmowiec — zestaw bitewny",
       "rok": 2025,
       "elementy": 119,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "75413",
       "nazwa": "Czołg Republiki Juggernaut",
       "rok": 2025,
       "elementy": 813,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "75414",
       "nazwa": "Płomienny śmigacz śnieżny",
       "rok": 2025,
       "elementy": 349,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75415",
@@ -9975,21 +9986,24 @@
       "nazwa": "Droid astromechaniczny Chopper (C1-10P)",
       "rok": 2025,
       "elementy": 1039,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "75417",
       "nazwa": "Maszyna krocząca AT-ST",
       "rok": 2025,
       "elementy": 1513,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "75418",
       "nazwa": "Kalendarz adwentowy na 2025 rok",
       "rok": 2025,
       "elementy": 263,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "75419",
@@ -10024,28 +10038,32 @@
       "nazwa": "Zestaw bitewny — żołnierze-klony z 327. korpusu galaktycznego",
       "rok": 2025,
       "elementy": 258,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "75432",
       "nazwa": "Myśliwiec V-19 Torrent",
       "rok": 2025,
       "elementy": 567,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "75433",
       "nazwa": "Statek kosmiczny Jango Fetta",
       "rok": 2025,
       "elementy": 707,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75434",
       "nazwa": "Droid strażniczy K-2SO",
       "rok": 2025,
       "elementy": 845,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75435",
@@ -10150,14 +10168,16 @@
       "nazwa": "Minimodel TIE Advanced",
       "rok": 2026,
       "elementy": 68,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30728",
       "nazwa": "Minimodel Brzeszczota",
       "rok": 2026,
       "elementy": 74,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40917",
@@ -10220,224 +10240,256 @@
       "nazwa": "SMART Play: Śmigacz Luke'a",
       "rok": 2026,
       "elementy": 215,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "75421",
       "nazwa": "SMART Play: Myśliwiec TIE Dartha Vadera",
       "rok": 2026,
       "elementy": 473,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75422",
       "nazwa": "SMART Play: Chatka Yody i szkolenie Jedi",
       "rok": 2026,
       "elementy": 440,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75423",
       "nazwa": "SMART Play: X-Wing Czerwona Piątka Luke'a",
       "rok": 2026,
       "elementy": 581,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75424",
       "nazwa": "SMART Play: Atak AT-ST na Endor",
       "rok": 2026,
       "elementy": 347,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75425",
       "nazwa": "SMART Play: Kantyna Mos Eisley",
       "rok": 2026,
       "elementy": 666,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "75426",
       "nazwa": "SMART Play: Sokół Millennium",
       "rok": 2026,
       "elementy": 885,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "75427",
       "nazwa": "SMART Play: Pojedynek w sali tronowej i A-Wing",
       "rok": 2026,
       "elementy": 962,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 689.99
     },
     {
       "numer": "75436",
       "nazwa": "Śmigacz Mandalorianina i Grogu",
       "rok": 2026,
       "elementy": 58,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "75437",
       "nazwa": "Śmigacz Cobba Vantha",
       "rok": 2026,
       "elementy": 207,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "75438",
       "nazwa": "Popiersie Yody",
       "rok": 2026,
       "elementy": 399,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "75439",
       "nazwa": "Popiersie Dartha Vadera",
       "rok": 2026,
       "elementy": 349,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75440",
       "nazwa": "AT-AT",
       "rok": 2026,
       "elementy": 525,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "75441",
       "nazwa": "Krążownik szturmowy typu Venator",
       "rok": 2026,
       "elementy": 643,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "75442",
       "nazwa": "Myśliwiec N-1 Mandalorianina",
       "rok": 2026,
       "elementy": 1809,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "75443",
       "nazwa": "Dom Grogu",
       "rok": 2026,
       "elementy": 107,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "75444",
       "nazwa": "Atak AT-RT",
       "rok": 2026,
       "elementy": 297,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "75445",
       "nazwa": "Anzellański statek gwiezdny",
       "rok": 2026,
       "elementy": 701,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "75446",
       "nazwa": "Grogu (uczeń Mandalorianina)",
       "rok": 2026,
       "elementy": 1200,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "75447",
       "nazwa": "Brzeszczot",
       "rok": 2026,
       "elementy": 930,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "75448",
       "nazwa": "Mech klona Shock Troopera",
       "rok": 2026,
       "elementy": 151,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 62.99
     },
     {
       "numer": "75449",
       "nazwa": "Oblężenie Mandalory — zestaw bitewny",
       "rok": 2026,
       "elementy": 116,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "75451",
       "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
       "rok": 2026,
       "elementy": 415,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "75452",
       "nazwa": "Droid astromechaniczny BB-8",
       "rok": 2026,
       "elementy": 569,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "75453",
       "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
       "rok": 2026,
       "elementy": 1683,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "75454",
       "nazwa": "AT-AT Resztek Imperium i INT-4",
       "rok": 2026,
       "elementy": 1453,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 689.99
     },
     {
       "numer": "75455",
       "nazwa": "Boba Fett",
       "rok": 2026,
       "elementy": 1544,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "75456",
       "nazwa": "LEGO Star Wars Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 293,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "75458",
       "nazwa": "Hełm kierowcy AT-RT Resztek Imperium",
       "rok": 2026,
       "elementy": 775,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75459",
       "nazwa": "Imperialny prom typu Lambda",
       "rok": 2026,
       "elementy": 961,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "75460",
       "nazwa": "Myśliwiec X-Wing Nowej Republiki",
       "rok": 2026,
       "elementy": 558,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "75461",
       "nazwa": "Powiększona minifigurka Dartha Vadera",
       "rok": 2026,
       "elementy": 1028,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     }
   ],
   "BrickHeadz": [
@@ -15609,7 +15661,8 @@
       "nazwa": "Lamborghini Sian FKP 37",
       "rok": 2020,
       "elementy": 3696,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "30465",
@@ -15707,7 +15760,8 @@
       "nazwa": "Ciężarówka Mercedes-Benz Zetros z napędem na 4 koła",
       "rok": 2021,
       "elementy": 2110,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1549.99
     },
     {
       "numer": "42131",
@@ -15735,7 +15789,8 @@
       "nazwa": "BMW M 1000 RR",
       "rok": 2022,
       "elementy": 1920,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "42132",
@@ -15777,7 +15832,8 @@
       "nazwa": "Formula E Porsche 99X Electric",
       "rok": 2022,
       "elementy": 422,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 239.99
     },
     {
       "numer": "42138",
@@ -15805,14 +15861,16 @@
       "nazwa": "Samochód wyścigowy McLaren Formula 1",
       "rok": 2022,
       "elementy": 1432,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 849.99
     },
     {
       "numer": "42143",
       "nazwa": "Ferrari Daytona SP3",
       "rok": 2022,
       "elementy": 3778,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "42144",
@@ -15847,7 +15905,8 @@
       "nazwa": "Liebherr LR 13000",
       "rok": 2023,
       "elementy": 2883,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 2899.99
     },
     {
       "numer": "42147",
@@ -15882,7 +15941,8 @@
       "nazwa": "Bolid Bugatti",
       "rok": 2023,
       "elementy": 905,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "42152",
@@ -15903,7 +15963,8 @@
       "nazwa": "Ford GT, wersja z 2022 roku",
       "rok": 2023,
       "elementy": 1466,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "42155",
@@ -15917,21 +15978,24 @@
       "nazwa": "PEUGEOT 9X8 24H Le Mans Hybrid Hypercar",
       "rok": 2023,
       "elementy": 1775,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "42157",
       "nazwa": "Ciągnik zrywkowy John Deere 948L-II",
       "rok": 2023,
       "elementy": 1492,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 849.99
     },
     {
       "numer": "42158",
       "nazwa": "NASA Mars Rover Perseverance",
       "rok": 2023,
       "elementy": 1132,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "42159",
@@ -15945,14 +16009,16 @@
       "nazwa": "Audi RS Q e-tron",
       "rok": 2023,
       "elementy": 914,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "42161",
       "nazwa": "Lamborghini Huracán Tecnica",
       "rok": 2023,
       "elementy": 806,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42162",
@@ -16001,35 +16067,40 @@
       "nazwa": "Buldożer do zadań specjalnych",
       "rok": 2024,
       "elementy": 195,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "42164",
       "nazwa": "Wyścigowy łazik terenowy",
       "rok": 2024,
       "elementy": 219,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "42165",
       "nazwa": "Mercedes-AMG F1 W14 E Performance Pull-Back",
       "rok": 2024,
       "elementy": 240,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "42166",
       "nazwa": "NEOM McLaren Extreme E Race",
       "rok": 2024,
       "elementy": 252,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "42167",
       "nazwa": "Śmieciarka Mack LR Electric",
       "rok": 2024,
       "elementy": 503,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "42168",
@@ -16043,77 +16114,88 @@
       "nazwa": "NEOM McLaren Formula E Race Car",
       "rok": 2024,
       "elementy": 452,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "42170",
       "nazwa": "Motocykl Kawasaki Ninja H2R",
       "rok": 2024,
       "elementy": 643,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "42171",
       "nazwa": "Mercedes-AMG F1 W14 E Performance",
       "rok": 2024,
       "elementy": 1642,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "42172",
       "nazwa": "McLaren P1",
       "rok": 2024,
       "elementy": 3893,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "42173",
       "nazwa": "Szary hipersamochód Koenigsegg Jesko Absolut",
       "rok": 2024,
       "elementy": 801,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "42174",
       "nazwa": "Jacht Emirates Team New Zealand AC75",
       "rok": 2024,
       "elementy": 962,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 529.99
     },
     {
       "numer": "42175",
       "nazwa": "Ciężarówka Volvo FMX i koparka EC230 Electric",
       "rok": 2024,
       "elementy": 2274,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "42176",
       "nazwa": "Samochód wyścigowy Porsche GT4 e-Performance",
       "rok": 2024,
       "elementy": 834,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "42177",
       "nazwa": "Mercedes-Benz G 500 PROFESSIONAL Line 4x4",
       "rok": 2024,
       "elementy": 2891,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "42178",
       "nazwa": "Kosmiczna ładowarka LT78",
       "rok": 2024,
       "elementy": 435,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "42179",
       "nazwa": "Planeta Ziemia i Księżyc na orbicie",
       "rok": 2024,
       "elementy": 526,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "42180",
@@ -16134,7 +16216,8 @@
       "nazwa": "NASA Apollo - pojazd LRV",
       "rok": 2024,
       "elementy": 1913,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "42184",
@@ -16148,7 +16231,8 @@
       "nazwa": "Pomarańczowe Lamborghini Huracán Tecnica",
       "rok": 2024,
       "elementy": 806,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "5008946",
@@ -16169,7 +16253,8 @@
       "nazwa": "Miniładowarka",
       "rok": 2025,
       "elementy": 52,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "412502",
@@ -16211,133 +16296,152 @@
       "nazwa": "Koparko-ładowarka",
       "rok": 2025,
       "elementy": 104,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42198",
       "nazwa": "Samolot transportowy",
       "rok": 2025,
       "elementy": 333,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "42199",
       "nazwa": "Monster Jam DIGatron",
       "rok": 2025,
       "elementy": 218,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "42200",
       "nazwa": "Monster Jam ThunderROARus z napędem typu pull-back",
       "rok": 2025,
       "elementy": 232,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "42201",
       "nazwa": "Badawcza łódź podwodna",
       "rok": 2025,
       "elementy": 413,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "42202",
       "nazwa": "Motocykl Ducati Panigale V4 S",
       "rok": 2025,
       "elementy": 1603,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "42203",
       "nazwa": "Wywrotka z przechylaną skrzynią",
       "rok": 2025,
       "elementy": 462,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "42204",
       "nazwa": "Fast and Furious Toyota Supra MK4",
       "rok": 2025,
       "elementy": 810,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42205",
       "nazwa": "Chevrolet Corvette Stingray",
       "rok": 2025,
       "elementy": 732,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42206",
       "nazwa": "Bolid F1 Oracle Red Bull Racing RB20",
       "rok": 2025,
       "elementy": 1639,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42207",
       "nazwa": "Bolid F1 Samochód Ferrari SF-24",
       "rok": 2025,
       "elementy": 1361,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42208",
       "nazwa": "Aston Martin Valkyrie",
       "rok": 2025,
       "elementy": 707,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42209",
       "nazwa": "Ładowarka kołowa Volvo L120 Electric",
       "rok": 2025,
       "elementy": 973,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "42210",
       "nazwa": "Samochód Nissan Skyline GT-R",
       "rok": 2025,
       "elementy": 1410,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "42211",
       "nazwa": "Kosmiczny łazik księżycowy Lunar Outpost",
       "rok": 2025,
       "elementy": 1082,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "42212",
       "nazwa": "Ferrari FXX K",
       "rok": 2025,
       "elementy": 897,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42213",
       "nazwa": "SUV Ford Bronco",
       "rok": 2025,
       "elementy": 943,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42214",
       "nazwa": "Supersamochód Lamborghini Revuelto",
       "rok": 2025,
       "elementy": 1135,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 779.99
     },
     {
       "numer": "42215",
       "nazwa": "Koparka Volvo EC500 Hybrid",
       "rok": 2025,
       "elementy": 2359,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1699.99
     },
     {
       "numer": "42217",
@@ -16351,14 +16455,16 @@
       "nazwa": "Hot Rod",
       "rok": 2026,
       "elementy": 83,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "30736",
       "nazwa": "Biały wodnosamolot",
       "rok": 2026,
       "elementy": 82,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40894",
@@ -16372,98 +16478,112 @@
       "nazwa": "Harwester kołowy John Deere 1470H",
       "rok": 2026,
       "elementy": 117,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42219",
       "nazwa": "Monster Jam Grave Digger Ogień i lód",
       "rok": 2026,
       "elementy": 263,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42220",
       "nazwa": "Monster Jam Sparkle Smash z napędem typu pull-back",
       "rok": 2026,
       "elementy": 243,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "42221",
       "nazwa": "Rakieta SLS NASA Artemis",
       "rok": 2026,
       "elementy": 632,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "42222",
       "nazwa": "Hipersamochód Bugatti Chiron Pur Sport",
       "rok": 2026,
       "elementy": 771,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42223",
       "nazwa": "Samochód wyścigowy 1966 Ford GT40 MKII",
       "rok": 2026,
       "elementy": 793,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 319.99
     },
     {
       "numer": "42224",
       "nazwa": "Samochód Porsche 911 GT3 R Rexy AO Racing",
       "rok": 2026,
       "elementy": 1313,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "42225",
       "nazwa": "Żółty motocykl",
       "rok": 2026,
       "elementy": 151,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "42226",
       "nazwa": "Samochód wyścigowy BMW M4 GT3 EVO",
       "rok": 2026,
       "elementy": 747,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42227",
       "nazwa": "SUV Jeep Wrangler Rubicon",
       "rok": 2026,
       "elementy": 723,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42228",
       "nazwa": "Bolid McLaren MCL39 F1",
       "rok": 2026,
       "elementy": 1675,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "42229",
       "nazwa": "Samochód Fast and Furious Mitsubishi Eclipse",
       "rok": 2026,
       "elementy": 827,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "42231",
       "nazwa": "Samochód Fast and Furious Dodge Charger R/T",
       "rok": 2026,
       "elementy": 1516,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "42232",
       "nazwa": "Koenigsegg Sadair's Spear Megacar",
       "rok": 2026,
       "elementy": 4104,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1949.99
     },
     {
       "numer": "42233",
