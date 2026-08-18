@@ -74,7 +74,9 @@ export default {
       // kanału (a=Brand AD ID Smyka, as=ID kanału Tylko Klocki) + docelowy URL
       // wyszukiwarki smyk.com w parametrze url. Pokrywa każdy numer setu.
       if (!cel && sklep === 'smyk' && /^\d{4,7}$/.test(numer)) {
-        const celSmyk = `https://www.smyk.com/search?q=LEGO ${numer}`;
+        // tracker Smyka gubił cel z wyszukiwarką (lądowanie na stronie głównej),
+        // więc celujemy w kategorię LEGO — klient dostaje właściwy dział sklepu
+        const celSmyk = 'https://www.smyk.com/pl/pl/zabawki-gry/klocki/lego.html';
         cel = `https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=${encodeURIComponent(celSmyk)}`;
       }
 
