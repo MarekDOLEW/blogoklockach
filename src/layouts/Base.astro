@@ -27,7 +27,16 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
     <!-- Cloudflare Web Analytics — darmowe, bez cookies. Token: panel Cloudflare ->
          Analytics & Logs -> Web Analytics -> Add a site (tylkoklocki.pl) -> skopiuj token
          i podmień TOKEN_Z_PANELU poniżej. Do tego czasu skrypt jest nieszkodliwy (no-op). -->
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>  </head>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={'{"token": "0fd406fdce6f46d0ba37b17ae134b0a5"}'}></script>
+    <!-- Google tag (gtag.js) — GA4, usługa tylkoklocki.pl -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5M8LH9SKQC"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5M8LH9SKQC');
+    </script>
+  </head>
   <body>
     <a class="skip-link" href="#tresc">Przejdź do treści</a>
     <header class="site-header">
