@@ -38,18 +38,20 @@ ruchu). Dane GSC mają ~2 dni opóźnienia; warto ponowić raport za kilka dni.
 
 Data: 2026-08-18
 Polecenie: node scripts/ga4-raport.mjs --test
-Kod wyjścia: 1 (test NIE przeszedł)
-
-Aktualizacja po włączeniu API (2026-08-18): API odpowiada, połączenie OK,
-ale konto serwisowe nie widzi ŻADNEJ usługi GA4.
+Kod wyjścia: 0 (test PRZESZEDŁ)
 
 Wyjście:
 POŁĄCZENIE OK. Konto: gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com
-Usługi GA4 widoczne dla konta: ŻADNA
+Usługi GA4 widoczne dla konta: tylkoklocki (properties/550318964, konto: tylkoklocki)
 
-Do zrobienia: w GA4 -> Administracja -> Zarządzanie dostępem do usługi ->
-dodać gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com z rolą
-"Przeglądający", potem ponowić: node scripts/ga4-raport.mjs --test
+Raport 7 dni (node scripts/ga4-raport.mjs --dni 7, kod wyjścia 0):
+0 użytkowników, 0 sesji, 0 odsłon — usługa GA4 założona 2026-08-18,
+tag gtag (G-5M8LH9SKQC) wpięty w Base.astro tego samego dnia; dane pojawią
+się po deployu strony i pierwszych wizytach (raporty GA4 mają do ~24-48 h
+opóźnienia).
+
+Konfiguracja ukończona: API włączone, konto serwisowe ma rolę
+"Przeglądający" w usłudze.
 
 ## Google Tag Manager (scripts/gtm-raport.mjs)
 
@@ -64,9 +66,10 @@ Wyjście:
 POŁĄCZENIE OK. Konto: gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com
 Kontenery GTM widoczne dla konta: ŻADEN
 
-Do zrobienia: w GTM -> Administracja -> Zarządzanie dostępem -> dodać
-gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com z uprawnieniem "Odczyt"
-(na poziomie konta i kontenera), potem ponowić: node scripts/gtm-raport.mjs --test
+Status: ODŁOŻONE świadomie — kontener GTM nie istnieje i na razie nie jest
+potrzebny (jeden tag GA4 wpięty bezpośrednio przez gtag). Gdyby kiedyś powstał:
+dodać konto serwisowe w GTM z uprawnieniem "Odczyt" i ponowić
+node scripts/gtm-raport.mjs --test
 
 ## Historia
 
