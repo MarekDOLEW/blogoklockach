@@ -1,10 +1,61 @@
 ---
 import Base from './Base.astro';
 const { frontmatter } = Astro.props;
+
+// Frontmatter artykułu: title, opis, data, kategoria + opcjonalnie
+// zaktualizowano (YYYY-MM-DD) i faq: [{q, a}] — z nich budujemy dane
+// strukturalne, żeby każdy artykuł (także huby-poradniki) wchodził do
+// Google z pełnym schema bez ręcznego JSON-LD w treści.
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const artykulJsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: frontmatter.title,
+  description: frontmatter.opis,
+  datePublished: frontmatter.data,
+  dateModified: frontmatter.zaktualizowano ?? frontmatter.data,
+  inLanguage: 'pl-PL',
+  mainEntityOfPage: canonical,
+  author: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+  publisher: { '@type': 'Organization', name: 'tylkoklocki.pl', url: 'https://tylkoklocki.pl/' },
+};
+
+const okruszkiJsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'tylkoklocki.pl', item: 'https://tylkoklocki.pl/' },
+    { '@type': 'ListItem', position: 2, name: 'Artykuły', item: new URL('/artykuly/', Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: frontmatter.title },
+  ],
+};
+
+const faqJsonld = frontmatter.faq?.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: frontmatter.faq.map((p) => ({
+        '@type': 'Question',
+        name: p.q,
+        acceptedAnswer: { '@type': 'Answer', text: p.a },
+      })),
+    }
+  : null;
+
+const jsonld = [artykulJsonld, okruszkiJsonld, ...(faqJsonld ? [faqJsonld] : [])];
 ---
-<Base title={frontmatter.title} description={frontmatter.opis}>
+<Base title={frontmatter.title} description={frontmatter.opis} jsonld={jsonld}>
   <article class="prose" style="margin-top:28px">
-    <p><span class="badge-seria">{frontmatter.kategoria}</span> <span style="font-size:0.85rem;color:var(--granat-60)">{frontmatter.data}</span></p>
+    <p>
+      <span class="badge-seria">{frontmatter.kategoria}</span>
+      <span style="font-size:0.85rem;color:var(--granat-60)">
+        {frontmatter.data}
+        {frontmatter.zaktualizowano && frontmatter.zaktualizowano !== frontmatter.data && (
+          <> · zaktualizowano {frontmatter.zaktualizowano}</>
+        )}
+      </span>
+    </p>
     <h1>{frontmatter.title}</h1>
     <p class="disclosure">Artykuł zawiera linki afiliacyjne. Kupując przez nie, wspierasz serwis — nie płacisz ani grosza więcej, a najtańszą ofertę pokazujemy zawsze.</p>
     <slot />
