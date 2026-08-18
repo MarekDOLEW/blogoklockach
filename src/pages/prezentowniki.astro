@@ -1,9 +1,38 @@
 ---
 import Base from '../layouts/Base.astro';
+
+const przewodniki = [
+  {
+    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego/',
+    tytul: 'LEGO na rozpoczęcie roku szkolnego 2026',
+    opis: 'Wielki prezentownik na 1 września bez limitu cenowego — premiery Pokémon, pociągi, wieża Hogwartu i zestawy dla całej rodziny (4–12 lat).',
+    znacznik: '🎒 sezon',
+  },
+  {
+    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego-chlopiec/',
+    tytul: 'Dla chłopca do 500 zł',
+    opis: '10 zestawów 4–12 lat w realnych promocjach: pociąg City za 239 zł (−65%), Technic Ferrari, Minecraft i Mario.',
+    znacznik: 'do 500 zł',
+  },
+  {
+    url: '/artykuly/lego-na-rozpoczecie-roku-szkolnego-dziewczynka/',
+    tytul: 'Dla dziewczynki do 500 zł',
+    opis: '10 zestawów 4–12 lat: Grand Hotel Heartlake za 458 zł (−30%), łódź ratunkowa, konie i Koci Domek Gabi.',
+    znacznik: 'do 500 zł',
+  },
+];
 ---
-<Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji.">
+<Base title="Prezentowniki LEGO" description="Sprawdzone pomysły na prezent z klocków LEGO — według wieku, budżetu i okazji. Realne promocje liczone od cen katalogowych.">
   <article style="margin-top:28px">
     <h1>Prezentowniki</h1>
-    <p>Przewodniki prezentowe według wieku, budżetu i okazji — publikujemy je we wrześniu, przed sezonem. Pierwszy w kolejce: <em>Jaki zestaw LEGO dla 7-latka?</em></p>
+    <p>Przewodniki prezentowe według wieku, budżetu i okazji. Każda cena z datą sprawdzenia, każdy rabat liczony od oficjalnej ceny katalogowej LEGO — bez pseudopromocji.</p>
+
+    {przewodniki.map((p) => (
+      <a href={p.url} class="karta" style="display:block; padding:18px 20px; margin:14px 0; text-decoration:none;">
+        <span style="font-size:0.78rem; font-weight:700; color:var(--granat-60); text-transform:uppercase; letter-spacing:0.04em;">{p.znacznik}</span>
+        <h2 style="margin:4px 0 6px;">{p.tytul}</h2>
+        <p style="margin:0; color:var(--granat-60);">{p.opis}</p>
+      </a>
+    ))}
   </article>
 </Base>
