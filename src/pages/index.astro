@@ -20,23 +20,33 @@ const wpisy = Object.entries(sety)
   .map(([nr, s]) => ({ nr, ...s, foto: urlZdjecia(nr, { sety }) }))
   .filter((s) => s.oferty?.length);
 
-// ── Deale dnia (slajder, do 5 odsłon): najwyższe rabaty dnia, zawsze ze zdjęciem ──
-// Pierwszy slajd z serii kolekcjonerskich (jak dotychczasowy deal dnia),
-// maks. 2 sety z jednej serii, żeby karuzela nie była monotematyczna.
+// ── Deale dnia (slajder, do 5 odsłon): po jednym z każdej półki cenowej + 2 dzikie karty ──
+// Procentowo największe rabaty trafiają się na tanich setach, więc bez kwotowania
+// drogie zestawy nigdy nie wchodziły do karuzeli — a 20% z 1000 zł to więcej niż 33% ze 120 zł.
+// Sloty 1–3: najlepszy rabat z półek 801 zł+, 201–800 zł i do 200 zł (w tej kolejności).
+// Sloty 4–5: kolejne najwyższe rabaty ogółem, maks. 2 sety z jednej serii.
+const POLKI = [
+  { klucz: 'premium', etykieta: '801 zł+', pasuje: (c) => c > 800 },
+  { klucz: 'sredni', etykieta: '201–800 zł', pasuje: (c) => c > 200 && c <= 800 },
+  { klucz: 'budzet', etykieta: 'do 200 zł', pasuje: (c) => c <= 200 },
+];
+const polkaSetu = (s) => POLKI.find((p) => p.pasuje(najlepszaCena(s)));
 const zRabatem = wpisy.filter((s) => rabat(s) >= 15).sort((a, b) => rabat(b) - rabat(a));
 const kandydaciSlajdera = zRabatem.filter((s) => s.foto);
 const dealeDnia = [];
 const naSerie = {};
-const pierwszy = kandydaciSlajdera.find((s) => KOLEKCJONERSKIE.has(s.seria));
-if (pierwszy) {
-  dealeDnia.push(pierwszy);
-  naSerie[pierwszy.seria] = 1;
+const wez = (s) => {
+  dealeDnia.push(s);
+  naSerie[s.seria] = (naSerie[s.seria] ?? 0) + 1;
+};
+for (const polka of POLKI) {
+  const top = kandydaciSlajdera.find((s) => polka.pasuje(najlepszaCena(s)) && !dealeDnia.includes(s));
+  if (top) wez(top);
 }
 for (const s of kandydaciSlajdera) {
   if (dealeDnia.length >= 5) break;
   if (dealeDnia.includes(s) || (naSerie[s.seria] ?? 0) >= 2) continue;
-  dealeDnia.push(s);
-  naSerie[s.seria] = (naSerie[s.seria] ?? 0) + 1;
+  wez(s);
 }
 const dealDnia = dealeDnia[0] ?? null;
 
@@ -132,6 +142,7 @@ const artykuly = Object.entries(import.meta.glob('./artykuly/*.md', { eager: tru
                   <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
                   Deal dnia · {new Date().toLocaleDateString('pl-PL')}
                   {dealeDnia.length > 1 && <span class="slajd-licznik">{i + 1}/{dealeDnia.length}</span>}
+                  {polkaSetu(deal) && <span class="slajd-polka">{polkaSetu(deal).etykieta}</span>}
                 </span>
                 <h2 class="deal-tytul">LEGO {deal.nr} {deal.nazwa}</h2>
                 <div class="cena-duza">

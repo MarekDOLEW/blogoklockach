@@ -34,6 +34,13 @@ Poza projektem LEGO: pon 07:00 — plan angielskiego (PDF w czacie), pon 08:00 �
 
 Żelazna reguła dla każdej aktualizacji (wpisana w prompty zadań): **pobierz aktualny plik z repo → dołóż zmiany → zwaliduj → nigdy nie twórz od zera i nie usuwaj wpisów.** Gdy sesja w czacie buduje dane, zawsze podawaj jej link do surowego pliku: `https://raw.githubusercontent.com/MarekDOLEW/blogoklockach/main/src/data/<plik>` (przy weryfikacji dodać `?t=<cokolwiek>`, bo cache CDN bywa nieświeży).
 
+## Łowca promocji — ustalenia operacyjne (stan 18.08.2026)
+
+- **Feed Media Expert aktualizuje się 2× na dobę, ale z opóźnieniem uploadu.** Stemple `<updated>` to 00:30 i 18:30 CEST, jednak plik ląduje na storage.googleapis.com ok. **7 godzin później** (nocny ~07:40, wieczorny w środku nocy). Przebieg o 07:00 zawsze dostaje wczorajszą wieczorną wersję — świeżą nocną łapie dopiero przebieg popołudniowy.
+- **Stron produktowych Media Expert nie da się punktowo weryfikować z sesji Cowork** — curl i WebFetch dostają HTTP 403, a prawdziwa przeglądarka (Chromium) reset połączenia; ME blokuje ruch z data center. WebFetch działał do 16.08.2026. Ceny ME bierzemy wyłącznie z feedu afiliacyjnego (oficjalny), weryfikację na stronach robimy tylko dla Planety Klocków.
+- **Deale dnia typujemy w 3 kategoriach cenowych: do 200 zł, 201–800 zł, 801 zł+.** Procentowe rabaty naturalnie faworyzują tanie sety, przez co drogie okazje (np. Tower Bridge −27%) umykały. Slajder na stronie głównej: sloty 1–3 = najlepszy rabat z każdej półki (od najdroższej), sloty 4–5 = dzikie karty wg rabatu. Raporty Łowcy pokazują czołówkę per półka.
+- **Łowca chodzi 2× dziennie: ~07:00 (harmonogram) i 15:00 (Routine w sesji Łowcy).**
+
 ## Gdzie co sprawdzić, gdy coś nie gra
 
 - **Build/deploy**: Cloudflare → Workers & Pages → blogoklockach → *Deployments / Build history*. Czerwony build = strona zamrożona na ostatniej zielonej wersji; logi po kliknięciu „View build".

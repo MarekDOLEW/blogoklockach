@@ -101,6 +101,7 @@ a { color: inherit; }
 .slajder-tor::-webkit-scrollbar { display: none; }
 .deale-slajder .deal-dnia { flex: 0 0 100%; min-width: 0; scroll-snap-align: start; scroll-snap-stop: always; margin: 0; border-top: 0; padding-bottom: 54px; }
 .slajd-licznik { background: var(--papier); border: 1px solid var(--linia); color: var(--granat-60); font-weight: 700; letter-spacing: 0; padding: 1px 8px; border-radius: 999px; }
+.slajd-polka { background: var(--granat); color: var(--zolty); font-weight: 700; letter-spacing: 0; padding: 1px 10px; border-radius: 999px; }
 .slajder-strzalka { position: absolute; top: 50%; transform: translateY(-50%); z-index: 2; width: 42px; height: 42px; border: 0; border-radius: 50%; background: var(--granat); color: #fff; font-size: 1.5rem; line-height: 1; cursor: pointer; box-shadow: 0 4px 16px rgba(23,35,63,0.25); }
 .slajder-strzalka:hover { background: #0f1830; }
 .slajder-strzalka--wstecz { left: 10px; }
