@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Feedy produktowe LEGO — mapa sieci afiliacyjnych</title>
+<style>
+  :root{
+    --bg:#0f1115; --panel:#171a21; --panel2:#1d2129; --line:#2a2f3a;
+    --tx:#e8eaf0; --tx2:#a6adbb; --tx3:#6f7787;
+    --a1:#5b8def; --a2:#2fbf71; --a3:#e8b93b; --a4:#e0574a; --a5:#9b6ef3;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f6f7f9; --panel:#fff; --panel2:#f0f2f5; --line:#dfe3ea;
+           --tx:#1a1d23; --tx2:#5a616e; --tx3:#8b93a1; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--tx);
+       font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,sans-serif;}
+  .wrap{max-width:1180px;margin:0 auto;padding:32px 20px 80px}
+  h1{font-size:27px;margin:0 0 6px;letter-spacing:-.02em}
+  .sub{color:var(--tx2);margin:0 0 28px;font-size:14px}
+  h2{font-size:19px;margin:38px 0 12px;letter-spacing:-.01em;
+     border-left:3px solid var(--a1);padding-left:10px}
+  h3{font-size:15px;margin:22px 0 8px;color:var(--tx)}
+  p{color:var(--tx2);margin:8px 0}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:18px 0 6px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+  .card .k{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--tx3)}
+  .card .v{font-size:26px;font-weight:600;margin-top:4px;letter-spacing:-.02em}
+  .card .n{font-size:12px;color:var(--tx2);margin-top:2px}
+  table{width:100%;border-collapse:collapse;margin:14px 0;background:var(--panel);
+        border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:13.5px}
+  th{background:var(--panel2);text-align:left;padding:10px 12px;font-weight:600;
+     font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--tx3);
+     border-bottom:1px solid var(--line);white-space:nowrap}
+  td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--tx2)}
+  td.name{color:var(--tx);font-weight:600;white-space:nowrap}
+  tr:last-child td{border-bottom:none}
+  .tag{display:inline-block;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap}
+  .ok{background:rgba(47,191,113,.15);color:var(--a2)}
+  .no{background:rgba(224,87,74,.15);color:var(--a4)}
+  .mid{background:rgba(232,185,59,.15);color:var(--a3)}
+  .info{background:rgba(91,141,239,.15);color:var(--a1)}
+  ol,ul{color:var(--tx2);padding-left:20px}
+  li{margin:6px 0}
+  li strong,p strong{color:var(--tx)}
+  .box{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--a3);
+       border-radius:8px;padding:14px 16px;margin:16px 0}
+  .box.warn{border-left-color:var(--a4)}
+  .box.good{border-left-color:var(--a2)}
+  .box h4{margin:0 0 6px;font-size:14px;color:var(--tx)}
+  .steps{counter-reset:s;list-style:none;padding:0}
+  .steps li{counter-increment:s;position:relative;padding-left:38px;margin:14px 0}
+  .steps li::before{content:counter(s);position:absolute;left:0;top:1px;width:26px;height:26px;
+    border-radius:50%;background:var(--a1);color:#fff;font-size:13px;font-weight:700;
+    display:flex;align-items:center;justify-content:center}
+  .foot{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);
+        color:var(--tx3);font-size:12px}
+  code{background:var(--panel2);padding:1.5px 6px;border-radius:4px;font-size:12.5px;
+       font-family:ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--tx)}
+  a{color:var(--a1)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>Feedy produktowe z cenami LEGO — które sieci realnie działają</h1>
+<p class="sub">Research dla serwisu <strong>Tylko Klocki</strong> · stan na 18 sierpnia 2026 · 9 sieci, 19 programów sprawdzonych</p>
+
+<div class="cards">
+  <div class="card"><div class="k">Sieci z feedem + LEGO</div><div class="v" style="color:var(--a2)">6</div><div class="n">Admitad, Awin, Tradedoubler, webePartners, Convertiser, TradeTracker</div></div>
+  <div class="card"><div class="k">Sklepy z LEGO i feedem</div><div class="v">10</div><div class="n">potwierdzone u źródła</div></div>
+  <div class="card"><div class="k">Najdłuższe cookie</div><div class="v" style="color:var(--a1)">90 dni</div><div class="n">Ceneo · potem Erli 60 dni</div></div>
+  <div class="card"><div class="k">Ślepe uliczki</div><div class="v" style="color:var(--a4)">4</div><div class="n">MyLead, Amazon, SalesMasters, sklepy klockowe</div></div>
+</div>
+
+<h2>Wniosek w jednym zdaniu</h2>
+<p><strong>Adtraction to dla Ciebie ślepy zaułek</strong> — jedyny zatwierdzony program (Smyk) nie ma feedu. Realny stack do cen LEGO to <strong>Admitad + Awin + Tradedoubler</strong>, wsparte <strong>webePartners</strong> (jedyny sklep czysto-klockowy) i <strong>Ceneo API</strong> jako ceną referencyjną.</p>
+
+<h2>Ranking sieci — do czego się nadają</h2>
+
+<table>
+<thead><tr><th>Sieć</th><th>Sklepy z LEGO</th><th>Feed</th><th>Format / dostęp</th><th>Cookie</th><th>Wejście</th><th>Ocena</th></tr></thead>
+<tbody>
+<tr>
+  <td class="name">Admitad</td>
+  <td>al.to, x-kom, Allegro, Komputronik</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td>XML / CSV / Google Merchant<br>panel → Product Feeds → Original<br>eksport przez API, odświeżanie co 6 h<br><strong>linki afiliacyjne + SubID w feedzie</strong></td>
+  <td><span class="tag no">24 h</span></td>
+  <td>moderacja strony, min. wypłata 100 zł</td>
+  <td><span class="tag ok">Nr 1 — najwięcej sklepów</span></td>
+</tr>
+<tr>
+  <td class="name">Awin</td>
+  <td>Proshop PL (155 tys. produktów)</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td>CSV / XML DTD 1.5<br>Create-a-Feed + <code>productdata.awin.com/datafeed/list/apikey/…</code><br><strong>feed odświeżany co godzinę</strong></td>
+  <td><span class="tag ok">30 dni</span></td>
+  <td>depozyt 5 GBP (zwrotny), weryfikacja ~24 h</td>
+  <td><span class="tag ok">Nr 2 — najlepsza jakość</span></td>
+</tr>
+<tr>
+  <td class="name">Tradedoubler</td>
+  <td>Allegro.pl, Empik, Erli.pl</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td>JSON / XML / CSV<br>Products API <code>api.tradedoubler.com/1.0/</code><br>token SHA-1 z Account → Manage tokens<br>limit: 3 pobrania wersji / 24 h</td>
+  <td>Allegro 24 h<br>Empik 7 dni<br>Erli 60 dni</td>
+  <td>rejestracja darmowa, akceptacja per program</td>
+  <td><span class="tag ok">Nr 3 — Empik 3%</span></td>
+</tr>
+<tr>
+  <td class="name">webePartners</td>
+  <td><strong>Planeta Klocków</strong> (sklep 100% LEGO)</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td>XML obowiązkowy dla każdego reklamodawcy<br>panel → Zaawansowane (dane do API)<br>+ generator widgetów produktowych</td>
+  <td>deklarowane min. 30 dni</td>
+  <td><span class="tag ok">najłatwiejsze</span> — większość programów natychmiast</td>
+  <td><span class="tag mid">Dopasowanie tematyczne</span></td>
+</tr>
+<tr>
+  <td class="name">Convertiser</td>
+  <td>Komputronik (aktualność do potwierdzenia)</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td><strong>Technicznie najlepsze:</strong> REST API + XML + JSON, szablony eksportu, wtyczka WordPress</td>
+  <td>niepotwierdzone</td>
+  <td><span class="tag ok">dostęp do wszystkich kampanii bez akceptacji</span>, tylko weryfikacja domeny</td>
+  <td><span class="tag mid">Świetne API, słabe sklepy</span></td>
+</tr>
+<tr>
+  <td class="name">Performers<br><span style="font-weight:400;color:var(--tx3)">(SalesTube)</span></td>
+  <td>Media Expert</td>
+  <td><span class="tag mid">deklarowany</span></td>
+  <td>platforma deklaruje „Pliki XML (Feedy produktowe)" + API — dla Media Expert niepotwierdzone</td>
+  <td><span class="tag ok">30 dni</span> LastClick</td>
+  <td>bez umów, sama rejestracja</td>
+  <td><span class="tag mid">Sprawdzić w panelu</span></td>
+</tr>
+<tr>
+  <td class="name">TradeTracker</td>
+  <td>4toys.pl, Pepito.pl</td>
+  <td><span class="tag ok">TAK</span></td>
+  <td>XML / CSV / JSON + SOAP Web Service API</td>
+  <td>30 dni (4toys)</td>
+  <td>ręczna ocena strony przez managera</td>
+  <td><span class="tag mid">Małe sklepy, mały wolumen</span></td>
+</tr>
+<tr>
+  <td class="name">Ceneo PP</td>
+  <td>cały rynek (agregat)</td>
+  <td><span class="tag mid">API, ale agregaty</span></td>
+  <td>REST, OAuth2, <code>partnerzyapi.ceneo.pl</code><br>zwraca: cena min / max / koszyk, liczba sklepów, oceny, zdjęcia<br><strong>NIE zwraca ofert per sklep</strong></td>
+  <td><span class="tag ok">90 dni</span></td>
+  <td>rejestracja + pełnoletność, dostęp od razu</td>
+  <td><span class="tag info">Cena referencyjna</span></td>
+</tr>
+<tr>
+  <td class="name">Adtraction</td>
+  <td>Smyk (zatwierdzony)</td>
+  <td><span class="tag no">BRAK</span></td>
+  <td>API v2 działa, ale zwraca 0 produktów — Smyk nie udostępnia feedu</td>
+  <td>45 dni</td>
+  <td>masz konto</td>
+  <td><span class="tag no">Bez wartości dla cen</span></td>
+</tr>
+<tr>
+  <td class="name">MyLead</td>
+  <td>Smyk, Allegro</td>
+  <td><span class="tag no">BRAK</span></td>
+  <td>API tylko transakcje i statystyki — zero endpointów produktowych</td>
+  <td>—</td>
+  <td>otwarta</td>
+  <td><span class="tag no">Odpada</span></td>
+</tr>
+<tr>
+  <td class="name">Rakuten<br><span style="font-weight:400;color:var(--tx3)">(LEGO.com)</span></td>
+  <td>LEGO.com — PL niepewne</td>
+  <td><span class="tag mid">SFTP, ciężkie</span></td>
+  <td>Product Catalog przez SFTP (XML/TXT) + Product Search API; podwójna zgoda wymagana</td>
+  <td>7 dni (US)</td>
+  <td>otwarta, ale brak dowodu na program PL</td>
+  <td><span class="tag mid">Sprawdzić Dognet</span></td>
+</tr>
+</tbody>
+</table>
+
+<h2>Cztery ślepe uliczki — nie trać na nie czasu</h2>
+
+<div class="box warn">
+  <h4>Amazon PA-API 5.0 już nie istnieje</h4>
+  <p>Wyłączone <strong>15 maja 2026</strong> — wywołania zwracają 403. Następca (Creators API) wymaga <strong>10 kwalifikowanych sprzedaży w kroczących 30 dniach</strong>, a przy spadku poniżej progu dostęp jest wstrzymywany. Klasyczna blokada jajko-kura: bez danych trudno generować sprzedaż, bez sprzedaży nie ma danych. Wracaj do tego, gdy serwis będzie już sprzedawał.</p>
+</div>
+
+<div class="box warn">
+  <h4>Program własny x-kom / al.to (SalesMasters) nie ma feedu</h4>
+  <p>Ale te same sklepy <strong>są w Admitad z pełnym feedem</strong>. Bierz je przez Admitad, nie bezpośrednio. Dodatkowo: LEGO nie występuje w wykazie stawek specjalnych SalesMasters.</p>
+</div>
+
+<div class="box warn">
+  <h4>Sklepy stricte klockowe to ślepa uliczka danych</h4>
+  <p>Sprawdzone: Klockowo.pl i Sklepklocki.pl — <strong>brak programu partnerskiego</strong>. BRICKMO ma własny program (cookie 30 dni) ale <strong>bez feedu i API</strong>. Brickowo.pl nie rozwiązuje się w DNS, Cebeko.pl ma błąd certyfikatu. Jedyny wyjątek: <strong>Planeta Klocków w webePartners</strong>.</p>
+</div>
+
+<div class="box warn">
+  <h4>Allegro: trzy różne rzeczy o podobnych nazwach</h4>
+  <p><strong>Allegro Affiliate API</strong> zwraca wyłącznie konwersje po sprzedaży — to nie katalog. <strong>Allegro REST <code>/offers/listing</code></strong> daje ceny, ale wymaga weryfikacji aplikacji i ma paginację max 10 stron. <strong>Allegro Polecam</strong> to program punktowy dla klientów, wypłacany w bonach. Feed produktowy Allegro dostajesz <strong>przez sieć</strong> (Admitad lub Tradedoubler), nie z Allegro bezpośrednio.</p>
+</div>
+
+<h2>Plan działania — kolejność aplikowania</h2>
+
+<ol class="steps">
+  <li><strong>Awin</strong> — zacznij tutaj mimo depozytu 5 GBP. Proshop PL to feed odświeżany co godzinę, 3% prowizji i <strong>30-dniowe cookie</strong>, czyli jedyna kombinacja, przy której poradnikowa treść (a nie tylko dealowa) ma szansę skonwertować.</li>
+  <li><strong>Admitad</strong> — od razu równolegle. Cztery sklepy z LEGO w jednym panelu: al.to, x-kom, Allegro, Komputronik, feed z gotowymi linkami afiliacyjnymi i SubID. Uwaga: <strong>x-kom zakazuje „automatycznych wtyczek porównujących ceny"</strong> — zapytaj menedżera, czy Twój widget cenowy mieści się w regulaminie, zanim wdrożysz.</li>
+  <li><strong>webePartners</strong> — najłatwiejsze wejście, a Planeta Klocków to jedyny potwierdzony sklep w 100% klockowy z feedem XML. Prowizja tylko 3%, ale dopasowanie tematyczne maksymalne.</li>
+  <li><strong>Ceneo PP</strong> — rejestruj się już teraz, API dostępne od razu, cookie 90 dni. Nie zbuduje porównywarki per sklep (zwraca tylko min/max i liczbę sklepów), ale świetnie działa jako „od 349 zł w 12 sklepach" obok konkretnych ofert z feedów.</li>
+  <li><strong>Tradedoubler</strong> — po zbudowaniu treści. Empik (3%, cookie 7 dni) i Allegro. Zweryfikuj status programu Empik w panelu: jedno źródło raportuje jego usunięcie z sieci w X.2025.</li>
+  <li><strong>Media Expert (Performers)</strong> — cookie 30 dni LastClick jest dobre, ale sprawdź w panelu, czy feed XML faktycznie jest dostępny dla tego programu. Pamiętaj: brak prowizji od OUTLETU i od sprzedawców marketplace.</li>
+  <li><strong>Smyk (Adtraction)</strong> — masz zatwierdzony, więc napisz do menedżera programu z prośbą o udostępnienie feedu produktowego. Smyk sprzedaje LEGO, Mattel i Hasbro, więc argument jest mocny.</li>
+</ol>
+
+<h2>Techniczne konsekwencje dla architektury serwisu</h2>
+
+<ul>
+  <li><strong>Nie odpytuj API przy wejściu użytkownika.</strong> Wszystkie sieci mają limity: Adtraction 30 req/min, Tradedoubler 3 pobrania wersji feedu / 24 h, Awin ma osobny limit 20 wywołań/min na Publisher API. Zaciągaj feedy cyklicznie do własnej bazy i serwuj z cache'u.</li>
+  <li><strong>Ujednolić produkty po EAN.</strong> Numer zestawu LEGO nie jest polem standardowym w żadnym feedzie — dopasowanie ofert tego samego zestawu z różnych sklepów rób po <code>ean</code>, a numer setu wyciągaj regexem z nazwy produktu jako fallback.</li>
+  <li><strong>Cookie 24 h w Admitad zmienia model treści.</strong> Przy al.to, x-kom i Allegro liczy się „kliknij i kup teraz" — posty dealowe, alerty cenowe. Poradniki z długim cyklem decyzyjnym linkuj priorytetowo do Proshop (30 dni) i Empik.</li>
+  <li><strong>Wyświetlaj datę aktualizacji ceny.</strong> Feedy odświeżają się od 1×/godzinę (Awin) do 1×/dobę (Tradedoubler). Podpis „cena z dnia X, wiążąca jest cena w sklepie" jest bezpieczny prawnie i zwiększa zaufanie.</li>
+  <li><strong>Wszystkie linki przez własny redirect</strong> <code>/idz/[sklep]/[set]</code> z <code>rel="sponsored"</code> — pozwala liczyć kliki we własnej analityce i podmieniać sieć bez przepisywania artykułów.</li>
+</ul>
+
+<div class="foot">
+  Dane oznaczone jako niepotwierdzone wymagają weryfikacji po zalogowaniu — wszystkie sieci ukrywają dokładne stawki prowizji za panelem. Rejestr w formacie maszynowym: <code>afiliacje_rejestr.json</code>.
+</div>
+
+</div>
+</body>
+</html>

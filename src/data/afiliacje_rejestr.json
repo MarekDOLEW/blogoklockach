@@ -9,7 +9,7 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-08-18",
+  "zaktualizowano": "2026-08-19",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
@@ -17,11 +17,15 @@
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki' (ID 2103402418) ZAAKCEPTOWANY 2026-08-18. Zgloszenia do programow: Smyk PL ZAAKCEPTOWANY, Egmont.pl wyslane.",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds).",
-   "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki."
+   "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
+   "Awin": "DO REJESTRACJI (priorytet 1 wg researchu): Proshop PL - feed co godzine, cookie 30 dni.",
+   "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
+   "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
   },
   "zasoby": {
    "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API."
-  }
+  },
+  "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie."
  },
  "planetaklockow": {
   "siec": "webePartners",
@@ -71,7 +75,7 @@
   "format_linkow": null,
   "feed": null,
   "data": "2026-08-16",
-  "uwagi": "Porownywarka - model rozliczen moze byc CPC zamiast CPS, potwierdzic w panelu."
+  "uwagi": "Tradedoubler (wyslane) + ODKRYCIE: wlasny program Ceneo PP z API (partnerzyapi.ceneo.pl, REST/OAuth2, cookie 90 DNI - najdluzsze na rynku, dostep od razu po rejestracji). API zwraca cene min/max/koszyk i liczbe sklepow (NIE oferty per sklep) - uzywac jako cena referencyjna \"od X zl w N sklepach\". Zarejestrowac sie niezaleznie od TD."
  },
  "mediamarkt": {
   "siec": "Tradedoubler",
@@ -121,7 +125,7 @@
   "format_linkow": null,
   "feed": null,
   "data": null,
-  "uwagi": "Oficjalny program LEGO.com (lego.com/pl-pl/page/affiliate-program). Bonus: legalne oficjalne materialy graficzne i zdjecia produktowe. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
+  "uwagi": "Oficjalny program LEGO.com przez Rakuten (mid=50641) - promoklocki uzywa go z deeplinkami na karty produktow (click.linksynergy.com/deeplink?...&murl=lego.com/pl-pl/product/...), wiec program dziala w PL w praktyce. Research: katalog produktow przez SFTP (ciezki), sprawdzic tez agregator Dognet. Bonus: legalne oficjalne zdjecia. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
  },
  "alto": {
   "siec": "SalesMasters (program wlasny grupy x-kom)",
@@ -141,7 +145,7 @@
   "format_linkow": null,
   "feed": null,
   "data": null,
-  "uwagi": "NIE APLIKOWAC PRZEDWCZESNIE: wymog 3 sprzedazy w 180 dni, inaczej zamykaja konto. Zglosic sie dopiero przy stabilnym ruchu. PA-API do cen dopiero po pierwszych sprzedazach."
+  "uwagi": "AKTUALIZACJA 2026-08: PA-API 5.0 WYLACZONE 15.05.2026 (403). Nastepca Creators API wymaga 10 kwalifikowanych sprzedazy w kroczacych 30 dniach. Wracac do tematu dopiero przy realnej sprzedazy z serwisu."
  },
  "zalando": {
   "siec": "Awin",
@@ -152,5 +156,45 @@
   "feed": null,
   "data": null,
   "uwagi": "Zalando sprzedaje LEGO (glownie odziez/akcesoria + wybrane sety). Wymaga konta w Awin. Niski priorytet."
+ },
+ "proshop": {
+  "siec": "Awin",
+  "status": "do zgloszenia",
+  "prowizja": "3%",
+  "cookie_dni": 30,
+  "format_linkow": null,
+  "feed": "Awin Create-a-Feed, odswiezany co godzine (155 tys. produktow)",
+  "data": null,
+  "uwagi": "PRIORYTET wg researchu: jedyna kombinacja feed+30 dni cookie sensowna pod tresci poradnikowe. Depozyt 5 GBP (zwrotny), weryfikacja ~24h."
+ },
+ "komputronik": {
+  "siec": "Admitad (takze Convertiser - porownac)",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": 1,
+  "format_linkow": null,
+  "feed": "Admitad Product Feeds (XML/CSV/GMerchant, linki+SubID, co 6h)",
+  "data": null,
+  "uwagi": "Sklep elektro z LEGO. Aplikowac w Admitad razem z al.to/x-kom/Allegro."
+ },
+ "erli": {
+  "siec": "Tradedoubler",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": 60,
+  "format_linkow": null,
+  "feed": "Tradedoubler Products API",
+  "data": null,
+  "uwagi": "Marketplace z LEGO, najdluzsze cookie w TD (60 dni). Dodac przy nastepnym podejsciu do panelu TD."
+ },
+ "dadada": {
+  "siec": "BuyBox (go.buybox.click)",
+  "status": "do zgloszenia",
+  "prowizja": null,
+  "cookie_dni": null,
+  "format_linkow": "go.buybox.click/linkclick_<id>?url=<encoded>",
+  "feed": null,
+  "data": null,
+  "uwagi": "dadada.pl monetyzowane przez BuyBox (ustalone z linkow promoklocki). Rejestracja buybox.pl moze dac kilka malych sklepow naraz."
  }
 }
