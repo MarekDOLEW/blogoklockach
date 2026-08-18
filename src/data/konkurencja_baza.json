@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-17",
-    "przebieg": "scheduled 2026-08-17 popoludniowy",
+    "ostatnia_aktualizacja": "2026-08-18",
+    "przebieg": "scheduled 2026-08-18 poranny",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
     "liczba_wpisow": 20
@@ -36,7 +36,7 @@
       "tytul": "Zapowiedzi LEGO 2027: Star Wars",
       "url": "https://fanklockow.pl/zapowiedzi-lego-2027-star-wars/",
       "data_publikacji": "2026-08-12",
-      "data_aktualizacji": "2026-08-16",
+      "data_aktualizacji": "2026-08-17",
       "data_wykrycia": "2026-08-16",
       "typ": "nowosc",
       "ocena": "PRZEBIJAMY",
@@ -113,12 +113,14 @@
       "serwis": "faniklockow.pl",
       "tytul": "Wycofania zestawow LEGO na koniec 2026 roku. Co w tym roku zniknie z rynku? Pelna lista!",
       "url": "https://faniklockow.pl/2026/08/11/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "url_aktualna": "https://faniklockow.pl/2026/08/17/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
       "data_publikacji": "2026-08-11",
+      "data_aktualizacji": "2026-08-17",
       "data_wykrycia": "2026-08-16",
       "typ": "poradnik",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": ["afiliacja ogolna"],
-      "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze."
+      "sklepy_linkowane": ["Allegro", "Empik", "Smyk", "Amazon.pl", "Media Expert", "LEGO.com"],
+      "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze. 17.08: REPUBLIKACJA pod nowym URL-em z data 2026/08/17 (taktyka swiezosci SEO). Dodane sety P26: BrickHeadz Stranger Things 40879/40881, Transformers 40924, City 60482/60490/60491, Disney 43284/43285/43291/43303, Friends 42677-42699 (wybrane), Creator 31378; wyprzedaz m.in. Banku Gringotta. UWAGA: artykul linkuje juz afiliacyjnie Allegro, Empik, Smyk, Amazon.pl i Media Expert - teza 'faniklockow linkuje wylacznie LEGO.com' NIEAKTUALNA."
     },
     {
       "serwis": "faniklockow.pl",
@@ -235,7 +237,7 @@
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych').",
     "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord, BRAK linkow sklepowych w tresci - slaby punkt do wykorzystania. 2026-08-17: wykryto warstwe evergreen spoza strony glownej - interaktywny kalendarz promocji (filtry, aktualizacje na biezaco) i huby zapowiedzi per rok. Architektura SEO: hub -> artykuly per seria.",
-    "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja, ale WYLACZNIE LEGO.com - zero porownania sklepow.",
+    "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO).",
     "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne."
