@@ -2,10 +2,10 @@
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
     "ostatnia_aktualizacja": "2026-08-18",
-    "przebieg": "scheduled 2026-08-18 poranny",
+    "przebieg": "scheduled 2026-08-18 popoludniowy",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 20
+    "liczba_wpisow": 23
   },
   "publikacje": [
     {
@@ -232,6 +232,39 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "BASELINE (uzupelnienie z 17.08). Katalogowa sekcja nowosci z podstronami per miesiac (np. /nowosci-lego/czerwiec-2026) - konkuruje z contentem naszego scouta w SERP-ach typu 'nowosci LEGO [miesiac]'. Istnieje tez legacy subdomena blog.promoklocki.pl (stary blog, http). Nasza odpowiedz: redakcyjne zajawki scouta z data premiery i cena, czego katalog nie daje."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "LEGO 76355 Batmobil z filmu Powrot Batmana - kultowy samochod wraca w wielkim stylu",
+      "url": "https://faniklockow.pl/2026/08/18/lego-76355-batmobil-z-filmu-powrot-batmana-kultowy-samochod-wraca-w-wielkim-stylu/",
+      "data_publikacji": "2026-08-18",
+      "data_wykrycia": "2026-08-18",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": ["LEGO.com"],
+      "notatki": "76355: 2269 el., 899,99 zl (0,40 zl/klocek), premiera 1.09 (Insiders) / 4.09 (wszyscy). Bez ceny za klocek i porownania sklepow. Idealny timing pod Batman Day 19.09 - nasz hub /zestaw/76355/ istnial PRZED ich artykulem, uzupelniono mu cene i elementy 18.08."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO DC na 2026 rok",
+      "url": "https://faniklockow.pl/2026/08/18/zapowiedzi-serii-lego-dc-na-2026-rok/",
+      "data_publikacji": "2026-08-18",
+      "data_wykrycia": "2026-08-18",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czesc ukladanki pod Batman Day (razem z artykulem o Batmobilu). Obserwowac, czy zbuduja z tego hub."
+    },
+    {
+      "serwis": "faniklockow.pl",
+      "tytul": "Zapowiedzi serii LEGO Cutelings na 2027 rok",
+      "url": "https://faniklockow.pl/2026/08/18/zapowiedzi-serii-lego-cutelings-na-2027-rok/",
+      "data_publikacji": "2026-08-18",
+      "data_wykrycia": "2026-08-18",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Nowa seria 2027, niszowa na ten moment. Potencjal prezentowy (mlodsze dzieci) - wrocic przy prezentownikach, jesli seria dostanie daty premier."
     }
   ],
   "obserwacje_strategiczne": {
