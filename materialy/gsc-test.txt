@@ -40,17 +40,16 @@ Data: 2026-08-18
 Polecenie: node scripts/ga4-raport.mjs --test
 Kod wyjścia: 1 (test NIE przeszedł)
 
-Uwierzytelnienie konta serwisowego działa (ten sam klucz co GSC), ale
-Google Analytics Admin API jest WYŁĄCZONE w projekcie GCP (403 SERVICE_DISABLED).
+Aktualizacja po włączeniu API (2026-08-18): API odpowiada, połączenie OK,
+ale konto serwisowe nie widzi ŻADNEJ usługi GA4.
 
-Do zrobienia (projekt 763165814076):
-1. Włączyć Google Analytics Admin API:
-   https://console.developers.google.com/apis/api/analyticsadmin.googleapis.com/overview?project=763165814076
-2. Włączyć Google Analytics Data API (potrzebne do raportów):
-   https://console.developers.google.com/apis/api/analyticsdata.googleapis.com/overview?project=763165814076
-3. W GA4: Administracja -> Zarządzanie dostępem do usługi -> dodać e-mail
-   konta serwisowego z rolą "Przeglądający".
-4. Ponowić: node scripts/ga4-raport.mjs --test
+Wyjście:
+POŁĄCZENIE OK. Konto: gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com
+Usługi GA4 widoczne dla konta: ŻADNA
+
+Do zrobienia: w GA4 -> Administracja -> Zarządzanie dostępem do usługi ->
+dodać gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com z rolą
+"Przeglądający", potem ponowić: node scripts/ga4-raport.mjs --test
 
 ## Google Tag Manager (scripts/gtm-raport.mjs)
 
@@ -58,15 +57,16 @@ Data: 2026-08-18
 Polecenie: node scripts/gtm-raport.mjs --test
 Kod wyjścia: 1 (test NIE przeszedł)
 
-Uwierzytelnienie konta serwisowego działa, ale Tag Manager API jest
-WYŁĄCZONE w projekcie GCP (403 SERVICE_DISABLED).
+Aktualizacja po włączeniu API (2026-08-18): API odpowiada, połączenie OK,
+ale konto serwisowe nie widzi ŻADNEGO kontenera GTM.
 
-Do zrobienia (projekt 763165814076):
-1. Włączyć Tag Manager API:
-   https://console.developers.google.com/apis/api/tagmanager.googleapis.com/overview?project=763165814076
-2. W GTM: Administracja -> Zarządzanie dostępem -> dodać e-mail konta
-   serwisowego z uprawnieniem "Odczyt" (konto i kontener).
-3. Ponowić: node scripts/gtm-raport.mjs --test
+Wyjście:
+POŁĄCZENIE OK. Konto: gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com
+Kontenery GTM widoczne dla konta: ŻADEN
+
+Do zrobienia: w GTM -> Administracja -> Zarządzanie dostępem -> dodać
+gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com z uprawnieniem "Odczyt"
+(na poziomie konta i kontenera), potem ponowić: node scripts/gtm-raport.mjs --test
 
 ## Historia
 
