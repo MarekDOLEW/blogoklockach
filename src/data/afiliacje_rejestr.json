@@ -95,12 +95,12 @@
  "smyk": {
   "siec": "Adtraction",
   "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
+  "prowizja": "2,10% CPS",
+  "cookie_dni": 45,
+  "format_linkow": "deeplink: https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=<zakodowany URL smyk.com>. Brand ID 2030748295, Brand AD ID 2030748298, kanal 2103402418. Zakaz: reklamy w wyszukiwarkach, subnetwork (nie dotyczy nas).",
   "feed": null,
   "data": "2026-08-18",
-  "uwagi": "Program Smyk PL w Adtraction zaakceptowany 2026-08-18. DO PODPIECIA: format linkow trackingowych (deeplink z panelu lub API apidocs.adtraction.net/v2) + feed produktowy z cenami. Docelowo: trasy /idz/smyk/ + feed w feedy.json dla Lowcy."
+  "uwagi": "AKTYWNY i PODPIETY 2026-08-18: worker ma fallback /idz/smyk/<nr> -> wyszukiwarka smyk.com/search?q=LEGO <nr> opakowana w deeplink Adtraction; wiersz \"Sprawdz cene\" na podstronach setow w sprzedazy. Tracking 45 dni. Konto bez zakladki API (feed produktowy niedostepny na razie) - ceny Smyka dojda, gdy Adtraction udostepni API/feed."
  },
  "egmont": {
   "siec": "Adtraction",

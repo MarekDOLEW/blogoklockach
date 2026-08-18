@@ -70,6 +70,14 @@ export default {
       if (!cel && sklep === 'allegro' && /^\d{4,7}$/.test(numer)) {
         cel = 'https://allegro.pl/affiliate?redirect_url=https://allegro.pl?utm_medium%3Dafiliacja%26utm_source%3Dctr_b%26utm_campaign%3D49250116-4827-4f0d-b2b2-f65993d0f372';
       }
+      // Smyk: program w Adtraction — deeplink budowany z linku trackingowego
+      // kanału (a=Brand AD ID Smyka, as=ID kanału Tylko Klocki) + docelowy URL
+      // wyszukiwarki smyk.com w parametrze url. Pokrywa każdy numer setu.
+      if (!cel && sklep === 'smyk' && /^\d{4,7}$/.test(numer)) {
+        const celSmyk = `https://www.smyk.com/search?q=LEGO ${numer}`;
+        cel = `https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=${encodeURIComponent(celSmyk)}`;
+      }
+
       // Sklepy bez afiliacji: skoro pokazujemy cenę, dajemy przynajmniej zwykły
       // link — szablon `szukaj` ze sklepy.json ({nr} = numer setu); szablony bez
       // {nr} prowadzą na stronę główną sklepu.

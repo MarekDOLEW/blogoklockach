@@ -21,7 +21,7 @@
  },
  "smyk": {
   "nazwa": "Smyk",
-  "szukaj": "https://www.smyk.com/szukaj?q=LEGO%20{nr}"
+  "szukaj": "https://www.smyk.com/search?q=LEGO%20{nr}"
  },
  "proshop": {
   "nazwa": "Proshop",
