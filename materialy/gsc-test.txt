@@ -1,4 +1,4 @@
-# Test połączenia z Google Search Console API
+# Test połączeń z API Google (Search Console / Analytics / Tag Manager)
 
 Data: 2026-08-18 (ponowienie po włączeniu Search Console API w projekcie GCP)
 
@@ -33,6 +33,40 @@ Wyjście:
 Uwaga: zero klików i wyświetleń w zakresie 2026-08-09 do 2026-08-16 — strona
 nie ma jeszcze danych w GSC za ten okres (świeża usługa / brak zaindeksowanego
 ruchu). Dane GSC mają ~2 dni opóźnienia; warto ponowić raport za kilka dni.
+
+## Google Analytics 4 (scripts/ga4-raport.mjs)
+
+Data: 2026-08-18
+Polecenie: node scripts/ga4-raport.mjs --test
+Kod wyjścia: 1 (test NIE przeszedł)
+
+Uwierzytelnienie konta serwisowego działa (ten sam klucz co GSC), ale
+Google Analytics Admin API jest WYŁĄCZONE w projekcie GCP (403 SERVICE_DISABLED).
+
+Do zrobienia (projekt 763165814076):
+1. Włączyć Google Analytics Admin API:
+   https://console.developers.google.com/apis/api/analyticsadmin.googleapis.com/overview?project=763165814076
+2. Włączyć Google Analytics Data API (potrzebne do raportów):
+   https://console.developers.google.com/apis/api/analyticsdata.googleapis.com/overview?project=763165814076
+3. W GA4: Administracja -> Zarządzanie dostępem do usługi -> dodać e-mail
+   konta serwisowego z rolą "Przeglądający".
+4. Ponowić: node scripts/ga4-raport.mjs --test
+
+## Google Tag Manager (scripts/gtm-raport.mjs)
+
+Data: 2026-08-18
+Polecenie: node scripts/gtm-raport.mjs --test
+Kod wyjścia: 1 (test NIE przeszedł)
+
+Uwierzytelnienie konta serwisowego działa, ale Tag Manager API jest
+WYŁĄCZONE w projekcie GCP (403 SERVICE_DISABLED).
+
+Do zrobienia (projekt 763165814076):
+1. Włączyć Tag Manager API:
+   https://console.developers.google.com/apis/api/tagmanager.googleapis.com/overview?project=763165814076
+2. W GTM: Administracja -> Zarządzanie dostępem -> dodać e-mail konta
+   serwisowego z uprawnieniem "Odczyt" (konto i kontener).
+3. Ponowić: node scripts/gtm-raport.mjs --test
 
 ## Historia
 
