@@ -366,3 +366,64 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .lightbox img { max-width: min(92vw, 900px); max-height: 88vh; object-fit: contain; background: #fff; border-radius: 12px; box-shadow: 0 20px 80px rgba(0,0,0,0.5); }
 .lightbox .lb-podpis { position: absolute; bottom: 18px; left: 50%; transform: translateX(-50%); color: #fff; font-size: 0.9rem; background: rgba(0,0,0,0.45); padding: 6px 14px; border-radius: 999px; max-width: 90vw; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
+
+/* ---------- Artykuł: typografia długiego tekstu ----------
+   Kontra do zagęszczonych ścian tekstu u konkurencji: powietrze,
+   mniejsze śródtytuły z sygnaturą wypustek, czytelne tabele. */
+.prose { line-height: 1.78; }
+.prose p { margin: 0 0 1.25em; }
+.prose > h1 + .disclosure + p:first-of-type,
+.prose > h1 ~ p.lead { font-size: 1.08rem; }
+.prose li { margin-bottom: 0.45em; }
+.prose ol, .prose ul { padding-left: 1.3em; margin: 0 0 1.4em; }
+
+.prose h2 {
+  font-size: 1.28rem;
+  margin: 2.4em 0 0.8em;
+  display: flex; align-items: center; gap: 12px;
+  flex-wrap: wrap;
+}
+.prose h2::before {
+  content: ""; flex: 0 0 auto; width: 9px; height: 9px; border-radius: 50%;
+  background: var(--zolty);
+  box-shadow: 14px 0 0 var(--zolty), inset 0 -2px 0 rgba(0, 0, 0, 0.18);
+  margin-right: 14px; /* miejsce na drugą wypustkę z box-shadow */
+}
+.prose h3 { font-size: 1.02rem; margin: 1.8em 0 0.5em; }
+
+.prose table {
+  width: 100%; max-width: 100%;
+  border-collapse: separate; border-spacing: 0;
+  margin: 1.3em 0 1.9em;
+  font-size: 0.92rem; line-height: 1.5;
+  background: var(--karta);
+  border: 1px solid var(--linia); border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.prose th {
+  background: var(--granat); color: #fff;
+  font-family: var(--font-display); font-weight: 700;
+  font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase;
+  padding: 10px 14px; text-align: left;
+}
+.prose td { padding: 11px 14px; border-top: 1px solid var(--linia); vertical-align: top; }
+.prose tbody tr:nth-child(even) { background: var(--papier); }
+.prose td a { color: var(--granat); font-weight: 600; text-decoration-color: var(--zolty); text-decoration-thickness: 2px; text-underline-offset: 2px; }
+@media (max-width: 640px) {
+  .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+}
+
+/* pastylki statusu w kalendarzu promocji (zamiast emoji w komórkach) */
+.status {
+  display: inline-block; font-weight: 700; font-size: 0.75rem;
+  padding: 3px 11px; border-radius: 999px; white-space: nowrap;
+  letter-spacing: 0.02em; vertical-align: middle;
+}
+.status--trwa { background: var(--zielen); color: #fff; }
+.status--ok { background: #e7f3ec; color: var(--zielen); }
+.status--maybe { background: var(--papier); color: var(--granat-60); border: 1px dashed #b9c0cd; }
+.prose h2 .status { font-size: 0.7rem; }
+
+/* drobna nota (źródła, zastrzeżenia) na końcu artykułu */
+.prose .drobne { font-size: 0.84rem; color: var(--granat-60); border-top: 1px solid var(--linia); padding-top: 14px; margin-top: 2.2em; }
