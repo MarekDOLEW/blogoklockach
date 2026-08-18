@@ -1,34 +1,42 @@
 # Test połączenia z Google Search Console API
 
-Data: 2026-08-18
+Data: 2026-08-18 (ponowienie po włączeniu Search Console API w projekcie GCP)
+
+## Wynik --test
+
 Polecenie: node scripts/gsc-raport.mjs --test
-Kod wyjścia: 1 (test NIE przeszedł)
+Kod wyjścia: 0 (test PRZESZEDŁ)
 
-## Diagnoza
-
-Zmienna GSC_KEY_JSON_B64 jest obecna w środowisku i poprawnie się dekoduje.
-Uwierzytelnienie konta serwisowego (token OAuth) powiodło się.
-Zapytanie do API odrzucone: Google Search Console API jest WYŁĄCZONE
-w projekcie Google Cloud, do którego należy konto serwisowe.
-
-Co trzeba zrobić: włączyć "Google Search Console API" w konsoli Google Cloud
-dla projektu 763165814076:
-https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076
-i po kilku minutach ponowić test.
-
-## Pełne wyjście (stdout+stderr)
-
-file:///workspace/blogoklockach/scripts/gsc-raport.mjs:72
-  if (!odp.ok) throw new Error(`${sciezka}: ${odp.status} ${JSON.stringify(dane)}`);
-                     ^
-
-Error: sites: 403 {"error":{"code":403,"message":"Google Search Console API has not been used in project 763165814076 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.","errors":[{"message":"Google Search Console API has not been used in project 763165814076 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.","domain":"usageLimits","reason":"accessNotConfigured","extendedHelp":"https://console.developers.google.com"}],"status":"PERMISSION_DENIED","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"SERVICE_DISABLED","domain":"googleapis.com","metadata":{"serviceTitle":"Google Search Console API","activationUrl":"https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076","consumer":"projects/763165814076","service":"searchconsole.googleapis.com","containerInfo":"763165814076"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"Google Search Console API has not been used in project 763165814076 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Google developers console API activation","url":"https://console.developers.google.com/apis/api/searchconsole.googleapis.com/overview?project=763165814076"}]}]}}
-    at api (file:///workspace/blogoklockach/scripts/gsc-raport.mjs:72:22)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async file:///workspace/blogoklockach/scripts/gsc-raport.mjs:80:18
-
-Node.js v22.22.2
+Wyjście:
+POŁĄCZENIE OK. Konto: gsc-czytnik@gsc-tylkoklocki.iam.gserviceaccount.com
+Usługi widoczne dla konta: sc-domain:tylkoklocki.pl (siteFullUser)
 
 ## Raport 7 dni
 
-Nie uruchomiono — test połączenia nie przeszedł (exit != 0).
+Polecenie: node scripts/gsc-raport.mjs --dni 7
+Kod wyjścia: 0
+
+Wyjście:
+{
+ "zakres": {
+  "od": "2026-08-09",
+  "do": "2026-08-16"
+ },
+ "suma": {
+  "clicks": 0,
+  "impressions": 0
+ },
+ "frazy": [],
+ "strony": []
+}
+
+Uwaga: zero klików i wyświetleń w zakresie 2026-08-09 do 2026-08-16 — strona
+nie ma jeszcze danych w GSC za ten okres (świeża usługa / brak zaindeksowanego
+ruchu). Dane GSC mają ~2 dni opóźnienia; warto ponowić raport za kilka dni.
+
+## Historia
+
+Pierwsze uruchomienie 2026-08-18 zakończyło się kodem 1: uwierzytelnienie
+konta serwisowego działało, ale Google Search Console API było wyłączone
+w projekcie GCP 763165814076 (błąd 403 SERVICE_DISABLED). Po włączeniu API
+test przechodzi.
