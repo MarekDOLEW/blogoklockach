@@ -3,8 +3,8 @@
   "opis": "Baza cen referencyjnych Lowcy Promocji. cena_katalogowa = oficjalna cena LEGO. najnizsza_cena/data/sklep = najnizsza zanotowana w sety.json.",
   "zrodlo": "zrekonstruowana z src/data/sety.json (repo blogoklockach)",
   "wygenerowano": "2026-08-13",
-  "zaktualizowano": "2026-08-17",
-  "zrodlo_ostatniego_przebiegu": "przebieg popoludniowy: feed mediaexpert (updated 2026-08-17 00:30 CEST) + feed planetaklockow; 38 cen PK zweryfikowano na stronach (4 nizsze niz w feedzie, 25 setow niedostepnych mimo obecnosci w feedzie); weryfikacja stron ME nadal niemozliwa (HTTP 403)"
+  "zaktualizowano": "2026-08-18",
+  "zrodlo_ostatniego_przebiegu": "feed mediaexpert (updated 2026-08-17 18:30 CEST, generator pominal nocny cykl 00:30) + feed planetaklockow; 36 cen PK zweryfikowano na stronach (3 nizsze niz w feedzie, 25 setow niedostepnych mimo obecnosci w feedzie); weryfikacja stron ME niemozliwa (HTTP 403, trzeci przebieg z rzedu)"
  },
  "21372": {
   "nazwa": "La Catrina",
@@ -16,8 +16,8 @@
  "21370": {
   "nazwa": "E.T. the Extra-Terrestrial",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 419.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 407.44,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "21369": {
@@ -30,15 +30,15 @@
  "72160": {
   "nazwa": "Arcanine",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 309.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 299.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "72168": {
   "nazwa": "Rayquaza",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 435.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 424.0,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "11381": {
@@ -93,8 +93,8 @@
  "11382": {
   "nazwa": "Kosmiczny Teleskop Hubble'a",
   "cena_katalogowa": 559.99,
-  "najnizsza_cena": 418.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 407.45,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "31221": {
@@ -107,8 +107,8 @@
  "21067": {
   "nazwa": "Tower Bridge",
   "cena_katalogowa": 1299.99,
-  "najnizsza_cena": 983.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 949.96,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "11512": {
@@ -149,8 +149,8 @@
  "75455": {
   "nazwa": "Boba Fett",
   "cena_katalogowa": 729.99,
-  "najnizsza_cena": 539.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 531.12,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "40925": {
@@ -191,8 +191,8 @@
  "72423": {
   "nazwa": "Shrek, Osioł i Kot w butach",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 389.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 378.34,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "72154": {
@@ -233,15 +233,15 @@
  "11505": {
   "nazwa": "Grzyby leśne",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 235.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 233.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "11507": {
   "nazwa": "Bukiet kwiatów Olivii Rodrigo",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 139.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 137.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "40872": {
@@ -303,8 +303,8 @@
  "75453": {
   "nazwa": "Piaskoczołg wędrownych Jawów i bagnorożec",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 639.99,
-  "najnizsza_data": "2026-08-14",
+  "najnizsza_cena": 639.98,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "31388": {
@@ -324,8 +324,8 @@
  "42239": {
   "nazwa": "Batmobile Tumbler",
   "cena_katalogowa": 819.99,
-  "najnizsza_cena": 631.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 612.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "75454": {
@@ -394,22 +394,22 @@
  "43029": {
   "nazwa": "Księżyc z koncertu Olivii Rodrigo",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 189.71,
-  "najnizsza_data": "2026-08-15",
-  "najnizsza_sklep": "planetaklockow"
+  "najnizsza_cena": 154.99,
+  "najnizsza_data": "2026-08-18",
+  "najnizsza_sklep": "mediaexpert"
  },
  "75451": {
   "nazwa": "Starcie z droidem wartowniczym w pałacu Huttów",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 155.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 154.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "21582": {
   "nazwa": "Kurzy jeździec",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 99.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 89.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "75458": {
@@ -457,8 +457,8 @@
  "43028": {
   "nazwa": "Płyta winylowa Olivii Rodrigo",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 91.31,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 89.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "77260": {
@@ -478,8 +478,8 @@
  "11511": {
   "nazwa": "Lilie wodne",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 122.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 119.56,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "75646": {
@@ -604,8 +604,8 @@
  "43293": {
   "nazwa": "Kakamora",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 125.97,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 125.96,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "76473": {
@@ -618,8 +618,8 @@
  "21594": {
   "nazwa": "Szkielet",
   "cena_katalogowa": 189.99,
-  "najnizsza_cena": 139.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 135.3,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "77982": {
@@ -660,8 +660,8 @@
  "77262": {
   "nazwa": "65 Ford Mustang Hoonicorn V1 Kena Blocka",
   "cena_katalogowa": 114.99,
-  "najnizsza_cena": 80.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 80.98,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "11514": {
@@ -723,8 +723,8 @@
  "31390": {
   "nazwa": "Dekoracyjny obraz z kwiatami",
   "cena_katalogowa": 124.99,
-  "najnizsza_cena": 85.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 84.98,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "60480": {
@@ -919,15 +919,15 @@
  "60506": {
   "nazwa": "Tramwaj przy plaży",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 207.98,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 207.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "43289": {
   "nazwa": "Zaczarowany zamek Pięknej i Bestii",
   "cena_katalogowa": 169.99,
-  "najnizsza_cena": 123.98,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 123.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "71862": {
@@ -947,15 +947,15 @@
  "71870": {
   "nazwa": "Bliźniacze tytanowe mechy",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 439.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 435.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "77082": {
   "nazwa": "Jaskinia Ubawu",
   "cena_katalogowa": 869.99,
-  "najnizsza_cena": 618.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 613.39,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "42704": {
@@ -968,8 +968,8 @@
  "43280": {
   "nazwa": "Zabawa na plaży z Lilo i Stitchem",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 57.9,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 56.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "40924": {
@@ -1010,8 +1010,8 @@
  "11217": {
   "nazwa": "Rodzina Blue z klocków",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 215.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 215.98,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "21597": {
@@ -1087,8 +1087,8 @@
  "71867": {
   "nazwa": "Ninjaścigacz X-1 — 15-lecie",
   "cena_katalogowa": 339.99,
-  "najnizsza_cena": 237.19,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 233.42,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "77080": {
@@ -1108,8 +1108,8 @@
  "10472": {
   "nazwa": "Gra w budowanie zwierzątek",
   "cena_katalogowa": 209.99,
-  "najnizsza_cena": 149.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 146.36,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "10479": {
@@ -1178,8 +1178,8 @@
  "43297": {
   "nazwa": "Zamek Roszpunki",
   "cena_katalogowa": 419.99,
-  "najnizsza_cena": 296.98,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 296.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "42703": {
@@ -1290,15 +1290,15 @@
  "43282": {
   "nazwa": "Wiejska chatka i łódź",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 56.98,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 56.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "11209": {
   "nazwa": "Ultron kontra Iron Man",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 56.98,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 56.97,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "43299": {
@@ -1332,8 +1332,8 @@
  "10462": {
   "nazwa": "Kraina Lodu Kreatywne pudełko z Elzą i Olafem",
   "cena_katalogowa": 81.99,
-  "najnizsza_cena": 58.99,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 58.98,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "60510": {
@@ -1444,8 +1444,8 @@
  "72163": {
   "nazwa": "SMART Play: Ucieczka z laboratorium Mewtwo",
   "cena_katalogowa": 299.99,
-  "najnizsza_cena": 259.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 254.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "72164": {
@@ -1486,8 +1486,8 @@
  "72167": {
   "nazwa": "SMART Play: Charizard kontra Jolteon — ostateczna bitwa",
   "cena_katalogowa": 519.99,
-  "najnizsza_cena": 469.0,
-  "najnizsza_data": "2026-08-13",
+  "najnizsza_cena": 449.99,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "72158": {
@@ -1634,8 +1634,8 @@
  "11384": {
   "nazwa": "Szczeniak golden retriever",
   "cena_katalogowa": 599.99,
-  "najnizsza_cena": 460.9,
-  "najnizsza_data": "2026-08-17",
+  "najnizsza_cena": 446.22,
+  "najnizsza_data": "2026-08-18",
   "najnizsza_sklep": "mediaexpert"
  },
  "10476": {
