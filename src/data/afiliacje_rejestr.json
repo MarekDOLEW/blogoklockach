@@ -9,13 +9,13 @@
    "odrzucony"
   ],
   "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-08-17",
+  "zaktualizowano": "2026-08-18",
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
-   "Adtraction": "kanal 'Tylko Klocki - blog o klockach' (tylkoklocki.pl), ID 2103402418, typ Content, audience 500, status Waiting (utworzony 2026-08-16, przeglad do 24h). Konto na kontakt@tylkoklocki.pl.",
+   "Adtraction": "kanal 'Tylko Klocki' (ID 2103402418) ZAAKCEPTOWANY 2026-08-18. Zgloszenia do programow: Smyk PL ZAAKCEPTOWANY, Egmont.pl wyslane.",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds)."
   },
   "zasoby": {
@@ -94,22 +94,22 @@
  },
  "smyk": {
   "siec": "Adtraction",
-  "status": "do zgloszenia",
+  "status": "aktywny",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
-  "data": null,
-  "uwagi": "Jedyna droga: program 'Smyk PL' w Adtraction (kanal 'Tylko Klocki' zalozony 2026-08-16, czeka na przeglad). Program w webePartners ZAMKNIETY (sprawdzone 2026-08-16). Duzy dzial LEGO - priorytet po akceptacji kanalu."
+  "data": "2026-08-18",
+  "uwagi": "Program Smyk PL w Adtraction zaakceptowany 2026-08-18. DO PODPIECIA: format linkow trackingowych (deeplink z panelu lub API apidocs.adtraction.net/v2) + feed produktowy z cenami. Docelowo: trasy /idz/smyk/ + feed w feedy.json dla Lowcy."
  },
  "egmont": {
   "siec": "Adtraction",
-  "status": "do zgloszenia",
+  "status": "wyslane",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
-  "data": null,
+  "data": "2026-08-18",
   "uwagi": "Egmont.pl - oficjalne polskie magazyny i ksiazki LEGO (z minifigurkami). Pasuje do prezentownikow za male pieniadze. Zglosic razem ze Smykiem po akceptacji kanalu Adtraction."
  },
  "lego": {
