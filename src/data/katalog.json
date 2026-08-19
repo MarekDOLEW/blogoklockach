@@ -28,12 +28,12 @@
     "uwagi": "Roczniki 2025 serii Ideas i Icons do uzupelnienia przez scouta (weryfikacja u zrodla). Statusy setow 2023-2024 do potwierdzenia w przebiegu scouta. Botanicals wydzielone jako osobna przyszla seria. Sety Winter Village celowo pominiete - osobna sekcja sezonowa przed swietami.",
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
-      "data": "2026-08-18",
-      "uzupelnione_lacznie": 852,
+      "data": "2026-08-19",
+      "uzupelnione_lacznie": 972,
       "ostatnie_serie": [
-        "DUPLO",
+        "Disney",
         "Marvel",
-        "Technic"
+        "Ninjago"
       ]
     }
   },
@@ -42799,7 +42799,8 @@
       "nazwa": "Świątynia ze smokiem ninja",
       "rok": 2022,
       "elementy": 161,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 199.99
     },
     {
       "numer": "71760",
@@ -43100,7 +43101,8 @@
       "nazwa": "Samochód wyścigowy ninja Kaia EVO",
       "rok": 2023,
       "elementy": 94,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71781",
@@ -43121,7 +43123,8 @@
       "nazwa": "Jeździec-Mech Kaia EVO",
       "rok": 2023,
       "elementy": 312,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "71784",
@@ -43198,7 +43201,8 @@
       "nazwa": "Drużyna mechów ninja Lloyda i Arina",
       "rok": 2023,
       "elementy": 764,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "71795",
@@ -43401,7 +43405,8 @@
       "nazwa": "Turniejowy teren szkoleniowy",
       "rok": 2024,
       "elementy": 49,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40703",
@@ -43457,14 +43462,16 @@
       "nazwa": "Mech bojowy Arina",
       "rok": 2024,
       "elementy": 104,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "71805",
       "nazwa": "Zestaw bitewny z mechem Jaya",
       "rok": 2024,
       "elementy": 78,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71806",
@@ -43478,14 +43485,16 @@
       "nazwa": "Mech żywiołu technologii Sory",
       "rok": 2024,
       "elementy": 209,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "71808",
       "nazwa": "Mech żywiołu ognia Kaia",
       "rok": 2024,
       "elementy": 322,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "71809",
@@ -43499,7 +43508,8 @@
       "nazwa": "Smoczątko Riyu",
       "rok": 2024,
       "elementy": 132,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "71811",
@@ -46743,14 +46753,16 @@
       "nazwa": "Laboratorium Iron Mana: Zbrojownia",
       "rok": 2025,
       "elementy": 384,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "76316",
       "nazwa": "Figurka Fantastycznej Czwórki kontra Galactus",
       "rok": 2025,
       "elementy": 427,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "76317",
@@ -46764,63 +46776,72 @@
       "nazwa": "Kapitan Ameryka kontra Thanos",
       "rok": 2025,
       "elementy": 107,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "76320",
       "nazwa": "Iron Man i War Machine kontra drony Hammera",
       "rok": 2025,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76321",
       "nazwa": "Spider-Man kontra Doc Ock — scena w metrze",
       "rok": 2025,
       "elementy": 393,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "76322",
       "nazwa": "Avengers: Koniec gry Thor kontra Chitauri",
       "rok": 2025,
       "elementy": 373,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76323",
       "nazwa": "Avengers: Koniec gry — ostateczna bitwa",
       "rok": 2025,
       "elementy": 621,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76324",
       "nazwa": "Spider-Man i Oscorp",
       "rok": 2025,
       "elementy": 808,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "76325",
       "nazwa": "Avengers: Czas Ultrona — Quinjet",
       "rok": 2025,
       "elementy": 1131,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 539.99
     },
     {
       "numer": "76326",
       "nazwa": "Popiersie Iron Spider-Mana",
       "rok": 2025,
       "elementy": 379,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "76327",
       "nazwa": "Popiersie Iron Mana MK4",
       "rok": 2025,
       "elementy": 436,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "76329",
@@ -46834,182 +46855,208 @@
       "nazwa": "Spidey na motocyklu kontra Rhino",
       "rok": 2026,
       "elementy": 61,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "11207",
       "nazwa": "Spidey: podwodne pojazdy",
       "rok": 2026,
       "elementy": 154,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "11208",
       "nazwa": "Statek piracki drużyny Spidey’ego",
       "rok": 2026,
       "elementy": 201,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "11209",
       "nazwa": "Ultron kontra Iron Man",
       "rok": 2026,
       "elementy": 96,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "11211",
       "nazwa": "Loki kontra drużyna Iron Mana",
       "rok": 2026,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "30725",
       "nazwa": "Spider-Man vs. Anti-Venom - Napad",
       "rok": 2026,
       "elementy": 31,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "76334",
       "nazwa": "Epicka bitwa: Spider-Man kontra Sandman",
       "rok": 2026,
       "elementy": 201,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 104.99
     },
     {
       "numer": "76335",
       "nazwa": "Spider-Man kontra Ghost Rider na motocyklu",
       "rok": 2026,
       "elementy": 72,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "76336",
       "nazwa": "Spider-Man w samochodzie kontra zvenomowany Wolverine",
       "rok": 2026,
       "elementy": 134,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "76337",
       "nazwa": "Miles Morales kontra Spider-Man 2099",
       "rok": 2026,
       "elementy": 135,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 61.99
     },
     {
       "numer": "76338",
       "nazwa": "Bitwa mechów: Spider-Man kontra Doc Ock",
       "rok": 2026,
       "elementy": 315,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "76339",
       "nazwa": "Fantastyczna Czwórka H.E.R.B.I.E.",
       "rok": 2026,
       "elementy": 747,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "76340",
       "nazwa": "Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 317,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "76341",
       "nazwa": "Groot w stroju Ravagera",
       "rok": 2026,
       "elementy": 604,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "76342",
       "nazwa": "Spider-Man kontra Mysterio: Daily Bugle",
       "rok": 2026,
       "elementy": 781,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "76343",
       "nazwa": "Epicka bitwa: Hulkbuster kontra Hulk",
       "rok": 2026,
       "elementy": 413,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "76344",
       "nazwa": "Iron Man Mark 3 - edycja kolekcjonerska",
       "rok": 2026,
       "elementy": 1297,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "76345",
       "nazwa": "Popiersie Doktora Dooma",
       "rok": 2026,
       "elementy": 379,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76346",
       "nazwa": "Figurka Spider-Mana",
       "rok": 2026,
       "elementy": 813,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "76347",
       "nazwa": "Avengers: Doomsday Quinjet",
       "rok": 2026,
       "elementy": 433,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "76348",
       "nazwa": "Epicka bitwa: Avengers: Doomsday",
       "rok": 2026,
       "elementy": 846,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "76349",
       "nazwa": "Pościg Spider-Mana za więźniarką",
       "rok": 2026,
       "elementy": 367,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "76350",
       "nazwa": "Epickie starcie: Spider-Man kontra Hulk",
       "rok": 2026,
       "elementy": 534,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "76352",
       "nazwa": "Avengers: Doomsday Nowa Wieża Avengersów",
       "rok": 2026,
       "elementy": 954,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "76354",
       "nazwa": "Lotniskowiec T.A.R.C.Z.Y.",
       "rok": 2026,
       "elementy": 3057,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1599.99
     },
     {
       "numer": "76356",
       "nazwa": "Popiersie Venoma",
       "rok": 2026,
       "elementy": 413,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "L0002276",
@@ -49663,7 +49710,8 @@
       "nazwa": "Mickey i przyjaciele Remiza i wóz strażacki Myszki Miki i przyjaciół",
       "rok": 2021,
       "elementy": 144,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "302101",
@@ -49768,7 +49816,8 @@
       "nazwa": "Łódź Bouna",
       "rok": 2021,
       "elementy": 247,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "43186",
@@ -49915,7 +49964,8 @@
       "nazwa": "Zabawa w zamku z Anną i Olafem",
       "rok": 2022,
       "elementy": 108,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "43205",
@@ -49929,7 +49979,8 @@
       "nazwa": "Zamek Kopciuszka i księcia z bajki",
       "rok": 2022,
       "elementy": 365,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 369.99
     },
     {
       "numer": "43207",
@@ -49957,14 +50008,16 @@
       "nazwa": "Lightyear Pościg za Zyklopem",
       "rok": 2022,
       "elementy": 87,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76831",
       "nazwa": "Lightyear Starcie z Zurgiem",
       "rok": 2022,
       "elementy": 261,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 159.99
     },
     {
       "numer": "76832",
@@ -50020,7 +50073,8 @@
       "nazwa": "Pociąg pełen zabawy",
       "rok": 2023,
       "elementy": 200,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43213",
@@ -50048,14 +50102,16 @@
       "nazwa": "Podróż zaczarowanej księżniczki",
       "rok": 2023,
       "elementy": 320,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "43217",
       "nazwa": "Dom z bajki „Odlot”",
       "rok": 2023,
       "elementy": 598,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "43218",
@@ -50069,28 +50125,32 @@
       "nazwa": "Kreatywne zamki księżniczek Disneya",
       "rok": 2023,
       "elementy": 140,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "43220",
       "nazwa": "Książka z przygodami Piotrusia Pana i Wendy",
       "rok": 2023,
       "elementy": 111,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "43221",
       "nazwa": "100 lat kultowych animacji Disneya",
       "rok": 2023,
       "elementy": 1022,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 234.99
     },
     {
       "numer": "43222",
       "nazwa": "Zamek Disneya",
       "rok": 2023,
       "elementy": 4837,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1749.99
     },
     {
       "numer": "43223",
@@ -50104,7 +50164,8 @@
       "nazwa": "Zamek króla Magnifico",
       "rok": 2023,
       "elementy": 613,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "43225",
@@ -50146,7 +50207,8 @@
       "nazwa": "Chatka Ashy",
       "rok": 2023,
       "elementy": 509,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 229.99
     },
     {
       "numer": "43232",
@@ -50160,7 +50222,8 @@
       "nazwa": "Budka powitalna Ashy",
       "rok": 2024,
       "elementy": 46,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 17.99
     },
     {
       "numer": "30671",
@@ -50202,7 +50265,8 @@
       "nazwa": "Scena muzyczna Arielki",
       "rok": 2024,
       "elementy": 60,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "43236",
@@ -50230,14 +50294,16 @@
       "nazwa": "Ramka na zdjęcia i szkatułka Mirabel",
       "rok": 2024,
       "elementy": 334,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "43240",
       "nazwa": "Diabolina jako smok",
       "rok": 2024,
       "elementy": 583,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "43241",
@@ -50265,42 +50331,48 @@
       "nazwa": "Lodowy pałac Elzy",
       "rok": 2024,
       "elementy": 630,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "43245",
       "nazwa": "Magiczny dom Madrigalów",
       "rok": 2024,
       "elementy": 1560,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "43246",
       "nazwa": "Przygoda księżniczki Disneya",
       "rok": 2024,
       "elementy": 817,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "43247",
       "nazwa": "Król Lew - młody Simba",
       "rok": 2024,
       "elementy": 1445,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "43248",
       "nazwa": "W głowie się nie mieści 2 - kostki z emocjami",
       "rok": 2024,
       "elementy": 394,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "43249",
       "nazwa": "Stitch",
       "rok": 2024,
       "elementy": 730,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "43251",
@@ -50335,14 +50407,16 @@
       "nazwa": "Szkatułka na biżuterię z Królewną Śnieżką",
       "rok": 2024,
       "elementy": 358,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "30695",
       "nazwa": "Miniaturowy zamek Kopciuszka z ogrodem",
       "rok": 2025,
       "elementy": 52,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "40774",
@@ -50363,14 +50437,16 @@
       "nazwa": "Classic Andzia",
       "rok": 2025,
       "elementy": 784,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 274.99
     },
     {
       "numer": "43258",
       "nazwa": "Barka Kakamorów",
       "rok": 2025,
       "elementy": 572,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "43259",
@@ -50384,7 +50460,8 @@
       "nazwa": "Zabawy Vaiany na wyspie",
       "rok": 2025,
       "elementy": 175,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "43261",
@@ -50398,7 +50475,8 @@
       "nazwa": "Classic Suknie Diaboliny i Cruelli De Mon",
       "rok": 2025,
       "elementy": 524,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "43263",
@@ -50412,77 +50490,88 @@
       "nazwa": "Toy Story - Okolicznościowy pociąg i Pan Sterowany",
       "rok": 2025,
       "elementy": 206,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43265",
       "nazwa": "Kraina lodu - Zamek w Arendelle",
       "rok": 2025,
       "elementy": 177,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "43266",
       "nazwa": "Suknia Kopciuszka",
       "rok": 2025,
       "elementy": 474,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "43267",
       "nazwa": "Zamek księżniczek i królewskie zwierzaki",
       "rok": 2025,
       "elementy": 787,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 519.99
     },
     {
       "numer": "43268",
       "nazwa": "Domek na plaży Lilo i Stitcha",
       "rok": 2025,
       "elementy": 834,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "43269",
       "nazwa": "101 dalmatyńczyków - Szczeniaczek",
       "rok": 2025,
       "elementy": 1722,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 619.99
     },
     {
       "numer": "43270",
       "nazwa": "Kajakowa przygoda Vaiany",
       "rok": 2025,
       "elementy": 529,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 269.99
     },
     {
       "numer": "43271",
       "nazwa": "Classic 101 dalmatyńczyków - Szczeniaczki Szczęściarz i Penny",
       "rok": 2025,
       "elementy": 268,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "43272",
       "nazwa": "Heiheia",
       "rok": 2025,
       "elementy": 566,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43273",
       "nazwa": "Kalendarz adwentowy 2025",
       "rok": 2025,
       "elementy": 231,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 149.99
     },
     {
       "numer": "43274",
       "nazwa": "Hotel dla zwierząt Minnie",
       "rok": 2025,
       "elementy": 161,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "43275",
@@ -50510,216 +50599,247 @@
       "nazwa": "Pixar Wall-E i Ewa",
       "rok": 2025,
       "elementy": 811,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "30720",
       "nazwa": "Urodzinowa potańcówka Arielki i Florka",
       "rok": 2026,
       "elementy": 39,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40857",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "43280",
       "nazwa": "Zabawa na plaży z Lilo i Stitchem",
       "rok": 2026,
       "elementy": 113,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "43281",
       "nazwa": "Lodowy zamek Elzy i Śnieżna przejażdżka",
       "rok": 2026,
       "elementy": 216,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "43282",
       "nazwa": "Wiejska chatka i łódź",
       "rok": 2026,
       "elementy": 85,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "43283",
       "nazwa": "Zamek Kopciuszka i jej zwierzęcych przyjaciół",
       "rok": 2026,
       "elementy": 149,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "43284",
       "nazwa": "Mała Anna i Elza",
       "rok": 2026,
       "elementy": 65,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "43285",
       "nazwa": "Magiczny minipałac Arielki",
       "rok": 2026,
       "elementy": 179,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "43286",
       "nazwa": "Classic Aryskotraci - Urocza Marie",
       "rok": 2026,
       "elementy": 369,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43287",
       "nazwa": "Piknik Olafa i Bruniego",
       "rok": 2026,
       "elementy": 478,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43288",
       "nazwa": "Doniczka Sally",
       "rok": 2026,
       "elementy": 346,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43289",
       "nazwa": "Zaczarowany zamek Pięknej i Bestii",
       "rok": 2026,
       "elementy": 254,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 279.99
     },
     {
       "numer": "43290",
       "nazwa": "Pixar Stefan i As",
       "rok": 2026,
       "elementy": 628,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 259.99
     },
     {
       "numer": "43291",
       "nazwa": "Mała Bella i Tiana z zamkiem",
       "rok": 2026,
       "elementy": 358,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43292",
       "nazwa": "Pua",
       "rok": 2026,
       "elementy": 885,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "43293",
       "nazwa": "Kakamora",
       "rok": 2026,
       "elementy": 407,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43294",
       "nazwa": "Mała wieża Roszpunki",
       "rok": 2026,
       "elementy": 171,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 179.99
     },
     {
       "numer": "43295",
       "nazwa": "Szkatułka na biżuterię Dżasminy",
       "rok": 2026,
       "elementy": 458,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43296",
       "nazwa": "Stitch i Strupka",
       "rok": 2026,
       "elementy": 713,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "43297",
       "nazwa": "Zamek Roszpunki",
       "rok": 2026,
       "elementy": 676,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "43298",
       "nazwa": "Kalendarz adwentowy na 2026 rok",
       "rok": 2026,
       "elementy": 290,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "43299",
       "nazwa": "Królewska łódź weselna Arielki",
       "rok": 2026,
       "elementy": 519,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 309.99
     },
     {
       "numer": "43300",
       "nazwa": "Kubuś Puchatek",
       "rok": 2026,
       "elementy": 1399,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "43301",
       "nazwa": "Toy Story Cienki — podpórki pod książki",
       "rok": 2026,
       "elementy": 1311,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "43302",
       "nazwa": "Main Street, U.S.A.",
       "rok": 2026,
       "elementy": 3899,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1499.99
     },
     {
       "numer": "43303",
       "nazwa": "Mała Dżasmina i Roszpunka",
       "rok": 2026,
       "elementy": 59,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "43304",
       "nazwa": "Pixar Konne ranczo Blaze'a",
       "rok": 2026,
       "elementy": 209,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "43305",
       "nazwa": "Przyjęcie urodzinowe Prosiaczka",
       "rok": 2026,
       "elementy": 544,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43306",
       "nazwa": "Miś Tuliś",
       "rok": 2026,
       "elementy": 570,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "43307",
       "nazwa": "Kosmita z bujaną rakietą Pizza Planet",
       "rok": 2026,
       "elementy": 714,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "6614223",
