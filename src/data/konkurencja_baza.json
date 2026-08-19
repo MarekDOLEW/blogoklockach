@@ -2,10 +2,10 @@
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
     "ostatnia_aktualizacja": "2026-08-18",
-    "przebieg": "scheduled 2026-08-19 poranny",
+    "przebieg": "scheduled 2026-08-19 popoludniowy",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 25
+    "liczba_wpisow": 27
   },
   "publikacje": [
     {
@@ -113,14 +113,14 @@
       "serwis": "faniklockow.pl",
       "tytul": "Wycofania zestawow LEGO na koniec 2026 roku. Co w tym roku zniknie z rynku? Pelna lista!",
       "url": "https://faniklockow.pl/2026/08/11/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
-      "url_aktualna": "https://faniklockow.pl/2026/08/17/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
+      "url_aktualna": "https://faniklockow.pl/2026/08/19/wycofania-zestawow-lego-na-koniec-2026-roku-co-w-tym-roku-zniknie-z-rynku/",
       "data_publikacji": "2026-08-11",
-      "data_aktualizacji": "2026-08-17",
+      "data_aktualizacji": "2026-08-19",
       "data_wykrycia": "2026-08-16",
       "typ": "poradnik",
       "ocena": "PRZEBIJAMY",
       "sklepy_linkowane": ["Allegro", "Empik", "Smyk", "Amazon.pl", "Media Expert", "LEGO.com"],
-      "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze. 17.08: REPUBLIKACJA pod nowym URL-em z data 2026/08/17 (taktyka swiezosci SEO). Dodane sety P26: BrickHeadz Stranger Things 40879/40881, Transformers 40924, City 60482/60490/60491, Disney 43284/43285/43291/43303, Friends 42677-42699 (wybrane), Creator 31378; wyprzedaz m.in. Banku Gringotta. UWAGA: artykul linkuje juz afiliacyjnie Allegro, Empik, Smyk, Amazon.pl i Media Expert - teza 'faniklockow linkuje wylacznie LEGO.com' NIEAKTUALNA."
+      "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze. 17.08: REPUBLIKACJA pod nowym URL-em z data 2026/08/17 (taktyka swiezosci SEO). Dodane sety P26: BrickHeadz Stranger Things 40879/40881, Transformers 40924, City 60482/60490/60491, Disney 43284/43285/43291/43303, Friends 42677-42699 (wybrane), Creator 31378; wyprzedaz m.in. Banku Gringotta. UWAGA: artykul linkuje juz afiliacyjnie Allegro, Empik, Smyk, Amazon.pl i Media Expert - teza 'faniklockow linkuje wylacznie LEGO.com' NIEAKTUALNA. 19.08: kolejna republikacja (URL 2026/08/19, trzeci adres tego samego tekstu; kadencja co ~2 dni), zmiana: 42130, 75325 i 76453 oznaczone jako wyprzedane (nasze /wycofania/ mialy je wczesniej)."
     },
     {
       "serwis": "faniklockow.pl",
@@ -287,6 +287,28 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": ["Klockowo.pl"],
       "notatki": "BASELINE (uzupelnienie 19.08). Kolejny sklep w porownywarce promoklocki. Kandydat do sprawdzenia przez agenta afiliacji, czy ma program partnerski (skoro promoklocki go linkuje, prawdopodobnie tak). Potwierdzona lista sklepow promoklocki rosnie: Media Expert, empik.com, FanKlockow, Klockowo.pl."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Sekcja: Recenzje zestawow LEGO",
+      "url": "https://promoklocki.pl/recenzje-zestawow-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-19",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "BASELINE (uzupelnienie 19.08, popoludnie). Dedykowana sekcja recenzji zestawow - promoklocki wychodzi poza narzedzie w strone contentu redakcyjnego takze formatem recenzji. Obserwowac tempo przyrostu; nasza odpowiedz to recenzje z doswiadczeniem wlasnej kolekcji (E-E-A-T), nie opisy katalogowe."
+    },
+    {
+      "serwis": "promoklocki.pl",
+      "tytul": "Funkcja: Najtaniej w sklepie LEGO (tropienie minimow cenowych LEGO.com)",
+      "url": "https://promoklocki.pl/najtaniej-w-sklepie-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-19",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": ["LEGO.com"],
+      "notatki": "BASELINE (uzupelnienie 19.08, popoludnie). Widok setow aktualnie najtaniej w oficjalnym sklepie LEGO - narzedziowa odpowiedz na pytanie 'czy warto kupic teraz na lego.com'. Nasz odpowiednik czesciowo istnieje (tabele cen na hubach setow); nie budujemy osobnego widoku, chyba ze GSC pokaze popyt."
     }
   ],
   "obserwacje_strategiczne": {
