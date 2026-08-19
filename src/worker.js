@@ -80,6 +80,14 @@ export default {
         cel = 'https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=www.smyk.com/pl/pl/zabawki-gry/klocki/lego.html';
       }
 
+      // Empik: program w Tradedoublerze (p=program, a=konto). Deeplink przez
+      // parametr url= — przetestowany: cel (wyszukiwarka Empiku) jest zachowany.
+      // Regulamin programu wprost dopuszcza "Price comparison", czyli nasz model.
+      if (!cel && sklep === 'empik' && /^\d{4,7}$/.test(numer)) {
+        const celEmpik = `https://www.empik.com/szukaj/produkt?q=LEGO+${numer}`;
+        cel = `https://clk.tradedoubler.com/click?p=289664&a=3494691&url=${encodeURIComponent(celEmpik)}`;
+      }
+
       // Sklepy bez afiliacji: skoro pokazujemy cenę, dajemy przynajmniej zwykły
       // link — szablon `szukaj` ze sklepy.json ({nr} = numer setu); szablony bez
       // {nr} prowadzą na stronę główną sklepu.

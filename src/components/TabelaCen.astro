@@ -13,7 +13,7 @@ const rabat = (c) => Math.round((1 - c / cenaKatalogowa) * 100);
 // setów w sprzedaży — dla wycofanych wyszukiwarka x-kom bywa pusta
 const maAfiliacje = (sklep) =>
   sklep === 'lego' ||
-  ((sklep === 'xkom' || sklep === 'smyk') && dodajLego) ||
+  ((sklep === 'xkom' || sklep === 'smyk' || sklep === 'empik') && dodajLego) ||
   Boolean(redirects?.[sklep]?.[nr]);
 // zasada: skoro pokazujemy cenę, dajemy przynajmniej zwykły link — worker
 // zna szablony wyszukiwarek sklepów (sklepy.json -> szukaj)
@@ -29,7 +29,7 @@ const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
 // sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę";
 // xkom i smyk mają linki budowane dynamicznie przez worker, więc dokładamy je
 // niezależnie od obecności w redirects.json
-const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk'])]
+const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk', 'empik'])]
   .filter((s) => s !== '_meta' && maAfiliacje(s) && !posortowane.some((o) => o.sklep === s));
 if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includes('lego')) {
   bezCeny.push('lego');

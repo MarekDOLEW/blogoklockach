@@ -13,7 +13,7 @@
   "konta_w_sieciach": {
    "webePartners": "aktywne (Planeta Klockow)",
    "Performers": "aktywne (Media Expert)",
-   "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
+   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Ceneo/MediaMarkt/RTV Euro - status do sprawdzenia w panelu.",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
@@ -59,13 +59,13 @@
  },
  "empik": {
   "siec": "Tradedoubler",
-  "status": "wyslane",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
+  "status": "aktywny",
+  "prowizja": "do potwierdzenia w panelu (avg EPC 0,75 zł)",
+  "cookie_dni": 7,
+  "format_linkow": "deeplink: https://clk.tradedoubler.com/click?p=289664&a=3494691&url=<encoded URL empik.com> - PRZETESTOWANE 2026-08-19, cel zachowany. Impression tracker: imp.tradedoubler.com/imp?type(inv)g(0)p(289664)a(3494691)prod(0). SubID przez parametr epi=.",
   "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "Priorytet wysoki (duzy asortyment LEGO, rozpoznawalna marka). Po akceptacji: deeplinki + sprawdzic dostepnosc feedu produktowego."
+  "data": "2026-08-19",
+  "uwagi": "AKTYWNY i PODPIETY 2026-08-19 (worker /idz/empik/<nr> -> wyszukiwarka Empiku w deeplinku TD; wiersz w tabeli cen). Warunki publikacji: Price comparison i Content DOZWOLONE (nasz model wprost OK), Paid Search zabroniony. Cancellation rate 12%, waluta PLN, cookie 7 dni. DO ZROBIENIA: feed produktowy przez Tradedoubler Products API (token SHA-1 z panelu TD: Account -> Manage tokens; limit 3 pobrania wersji feedu/24h) -> wtedy ceny Empiku w tabelach."
  },
  "ceneo": {
   "siec": "Tradedoubler",
