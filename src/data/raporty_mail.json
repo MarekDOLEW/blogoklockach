@@ -1,0 +1,31 @@
+{
+ "_meta": {
+  "opis": "Odbiorcy raportow PDF z zadan cyklicznych. Wysylka: scripts/wyslij-raport.py (Resend API, nadawca raporty@tylkoklocki.pl).",
+  "uzycie": "python3 scripts/wyslij-raport.py --zadanie promocje --tytul \"Lowca Promocji — 19.08.2026\" --plik raport.md [--wstep \"1-2 zdania do tresci maila\"]",
+  "zasada_wysylki": "wysylka=zawsze -> mail przy kazdym przebiegu; wysylka=przy_zmianach -> mail tylko gdy przebieg cos zmienil (nowe wpisy/ceny). Brak zmian = nie wysylamy, zeby maile nie spowszednialy.",
+  "edycja": "Adresy dopisuj/usuwaj w tablicach odbiorcy - zmiana dziala od nastepnego przebiegu, bez ruszania promptow zadan.",
+  "zaktualizowano": "2026-08-19"
+ },
+ "zadania": {
+  "promocje": {
+   "nazwa": "Łowca Promocji",
+   "wysylka": "zawsze",
+   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+  },
+  "nowosci": {
+   "nazwa": "Scout Nowości",
+   "wysylka": "przy_zmianach",
+   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+  },
+  "wycofania": {
+   "nazwa": "Wycofania zestawów",
+   "wysylka": "przy_zmianach",
+   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+  },
+  "konkurencja": {
+   "nazwa": "Radar Konkurencji",
+   "wysylka": "przy_zmianach",
+   "odbiorcy": ["kontakt@tylkoklocki.pl", "piotrmaculewicz@interia.pl"]
+  }
+ }
+}
