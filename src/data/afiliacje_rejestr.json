@@ -16,7 +16,7 @@
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
    "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
-   "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds).",
+   "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
    "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
    "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
    "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
@@ -55,7 +55,7 @@
   "format_linkow": "gotowe item_link z feedu (allegro.pl/affiliate?redirect_url=<cel z utm>); dla setow spoza feedu worker buduje link do listingu opakowany w allegro.pl/affiliate z utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372",
   "feed": "feedy.json -> allegro (NDJSON, ~8500 ofert LEGO, ~7200 setow, 98% pokrycia podstron; gotowe linki afiliacyjne + ceny + zdjecia)",
   "data": "2026-08-16",
-  "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy."
+  "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy. UWAGA 2026-08-19: Admitad ODRZUCIL zgloszenie Allegro PL (\"reklamodawca nie jest zainteresowany\") - BEZ ZNACZENIA, bo mamy Allegro bezposrednio (wlasny program + feed). Nie ponawiac przez Admitad."
  },
  "empik": {
   "siec": "Tradedoubler",
