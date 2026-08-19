@@ -15,7 +15,7 @@
    "Performers": "aktywne (Media Expert)",
    "Tradedoubler": "konto zalozone, programy wyslane 2026-08-16",
    "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
-   "Adtraction": "kanal 'Tylko Klocki' (ID 2103402418) ZAAKCEPTOWANY 2026-08-18. Zgloszenia do programow: Smyk PL ZAAKCEPTOWANY, Egmont.pl wyslane.",
+   "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
    "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana meta tagiem 2026-08-17 (konto marek_dolewski88e9a, store.admitad.com). Nastepny krok: Apply do programow al.to PL i x-kom PL -> po akceptacji feed produktowy z cenami (zakladka Product Feeds).",
    "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
    "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
@@ -109,13 +109,13 @@
  },
  "egmont": {
   "siec": "Adtraction",
-  "status": "wyslane",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
-  "data": "2026-08-18",
-  "uwagi": "Egmont.pl - oficjalne polskie magazyny i ksiazki LEGO (z minifigurkami). Pasuje do prezentownikow za male pieniadze. Zglosic razem ze Smykiem po akceptacji kanalu Adtraction."
+  "status": "aktywny",
+  "prowizja": "6% CPS",
+  "cookie_dni": 30,
+  "format_linkow": "tracking: https://pin.egmont.pl/t/t?a=1408332992&as=2103402418&t=2&tk=1 (natywny tracking Adtraction, white-label). Feed zawiera GOTOWE TrackingUrl per produkt (z &url=<produkt> i cupa_sku) - deeplinki produktowe dzialaja.",
+  "feed": "https://adtraction.com/productfeed.htm?type=feed&format=XML&encoding=UTF8&epi=0&zip=0&cdelim=tab&tdelim=singlequote&sd=0&flat=0&apid=1408332989&asid=2103402418 (XML, ~5568 produktow, aktualizowany codziennie)",
+  "data": "2026-08-19",
+  "uwagi": "AKTYWNY 2026-08-19, programId 1408332989. UWAGA - weryfikacja zawartosci feedu: to KSIEGARNIA Egmont (komiksy i ksiazki: Star Wars, Batman/DC, Marvel), BEZ magazynow LEGO z minifigurkami (w feedzie tylko 2 pozycje \"Lego gratis\", niedostepne). Zastosowanie: linki do komiksow SW/Batman/HP jako dodatki w prezentownikach dla fanow (6% prowizji - najwyzsza stawka w miksie!) oraz prezenty \"okolo-klockowe\". NIE nadaje sie do tabel cen setow. Feed nie w feedy.json (brak mapowania na numery setow) - uzywac redakcyjnie, linki z pola TrackingUrl feedu."
  },
  "lego": {
   "siec": "Rakuten Advertising",
