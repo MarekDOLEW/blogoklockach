@@ -1,5 +1,5 @@
 {
-  "data_aktualizacji": "2026-08-18",
+  "data_aktualizacji": "2026-08-19",
   "zrodlo_bazy": "src/data/sety.json z repo blogoklockach (folder Cowork niedostepny w sesji cyklicznej — plik zyje w repo)",
   "liczba_setow": 237,
   "sety": [
@@ -245,7 +245,7 @@
     {
       "numer": "76355",
       "nazwa": "Batmobil z Batman Returns",
-      "status": "opisany na portalu jako zapowiedz (znacznik wkrotce); 2026-08-18: nadal brak oficjalnej karty i przedsprzedazy na LEGO.com — wciaz status przecieku z teaserem (2269 el. / 229,99 USD wg najnowszych zrodel), premiera 2026-09-01",
+      "status": "OFICJALNIE UJAWNIONY 2026-08-18: karta PL na LEGO.com — 899,99 zl, 2269 el., 18+, timed exclusive; sprzedaz od 2026-09-01 (Insiders) / 2026-09-04 (wszyscy); wpis w sety.json zaktualizowany o oficjalne dane",
       "premiera": "2026-09-01"
     },
     {
