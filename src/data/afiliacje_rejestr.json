@@ -24,7 +24,8 @@
   },
   "zasoby": {
    "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API.",
-   "tradedoubler_api": "api.tradedoubler.com/1.0/products.json - Products API. Token TD trzymac w zmiennej srodowiskowej TD_TOKEN (nie w repo). Skladnia matrix params (srednikami): ;page=N;pageSize=100;fid=<id>;q=<frazа>. Feedy Empiku: 52031/52029/49523. Limit 3 pobrania wersji feedu/24h. Uwaga: q= dziala jak OR i ignoruje numery - do dopasowania setow sie nie nadaje."
+   "tradedoubler_api": "api.tradedoubler.com/1.0/products.json - Products API. Token TD trzymac w zmiennej srodowiskowej TD_TOKEN (nie w repo). Skladnia matrix params (srednikami): ;page=N;pageSize=100;fid=<id>;q=<frazа>. Feedy Empiku: 52031/52029/49523. Limit 3 pobrania wersji feedu/24h. Uwaga: q= dziala jak OR i ignoruje numery - do dopasowania setow sie nie nadaje.",
+   "performers_api": "https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&api_key=<PERFORMERS_API_KEY>&Target=...&Method=... (HasOffers/TUNE). Dziala: Affiliate_Offer/findAll (kampanie, stawki), Affiliate_OfferFile/findAll (kreacje), Affiliate_Report (statystyki klikow i konwersji - do raportu Kontrolera). Katalogu produktow BRAK. Klucz trzymac w zmiennej srodowiskowej, nie w repo."
   },
   "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie."
  },
@@ -41,12 +42,12 @@
  "mediaexpert": {
   "siec": "Performers (track.performers.tech)",
   "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
+  "prowizja": "2,00% CPS Last Click (potwierdzone przez API 2026-08-19, offer_id 1860)",
+  "cookie_dni": 30,
   "format_linkow": "linki trackingowe Performers",
   "feed": "feedy.json -> mediaexpert (dziala, ~600 MB, generowany 00:30)",
   "data": "2026-08-14",
-  "uwagi": "Feed produktowy dziala. UWAGA: mediaexpert.pl blokuje pobieranie zdjec przez Cloudflare Workers - zdjecia bierzemy z Rebrickable."
+  "uwagi": "Feed dziala, ale to PODZBIOR: zweryfikowane na pelnym pliku 599 MB (189 867 produktow, z tego tylko 753 unikalne zestawy LEGO; pokrywa 680 naszych podstron). Brak m.in. 10316 i 21348, przy obecnych 10315 i 10318 - czyli katalog jest recznie zawezony. DO ZALATWIENIA: mail do opiekuna Performers o pelna kategorie Zabawki > Klocki > LEGO. API Performers (HasOffers/TUNE, host wld.api.hasoffers.com, NetworkId=wld, klucz w env jako PERFORMERS_API_KEY) NIE udostepnia katalogu produktow - tylko kampanie, statystyki i pliki kreacji (19 banerow). UWAGA: mediaexpert.pl blokuje pobieranie zdjec przez Cloudflare Workers - zdjecia bierzemy z Rebrickable. Feed pobierac DO PLIKU (599 MB) - strumien z krotkim limitem czasu bywa uciety."
  },
  "allegro": {
   "siec": "Allegro Affiliate (program wlasny)",
