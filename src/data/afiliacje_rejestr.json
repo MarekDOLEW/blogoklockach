@@ -69,13 +69,13 @@
  },
  "ceneo": {
   "siec": "Tradedoubler",
-  "status": "wyslane",
+  "status": "aktywny",
   "prowizja": null,
   "cookie_dni": null,
   "format_linkow": null,
   "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "Tradedoubler (wyslane) + ODKRYCIE: wlasny program Ceneo PP z API (partnerzyapi.ceneo.pl, REST/OAuth2, cookie 90 DNI - najdluzsze na rynku, dostep od razu po rejestracji). API zwraca cene min/max/koszyk i liczbe sklepow (NIE oferty per sklep) - uzywac jako cena referencyjna \"od X zl w N sklepach\". Zarejestrowac sie niezaleznie od TD."
+  "data": "2026-08-19",
+  "uwagi": "ZAAKCEPTOWANE 2026-08-19. DO USTALENIA ktora sciezka: (a) program Ceneo w Tradedoublerze (zgloszenie z 16.08) czy (b) wlasny Ceneo Partner Program z API. Potrzebne do wdrozenia: format linku trackingowego (przyklad z panelu) oraz - jesli PP - dane API (client_id/secret, OAuth2, partnerzyapi.ceneo.pl). Zastosowanie: cena referencyjna \"od X zl w N sklepach\" na podstronach setow (API zwraca min/max/koszyk i liczbe sklepow, NIE oferty per sklep) + wiersz Ceneo w tabeli cen. Cookie 90 dni - najdluzsze w calym miksie."
  },
  "mediamarkt": {
   "siec": "Tradedoubler",
