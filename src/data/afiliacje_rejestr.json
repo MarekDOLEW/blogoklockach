@@ -23,7 +23,8 @@
    "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
   },
   "zasoby": {
-   "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API."
+   "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API.",
+   "tradedoubler_api": "api.tradedoubler.com/1.0/products.json - Products API. Token TD trzymac w zmiennej srodowiskowej TD_TOKEN (nie w repo). Skladnia matrix params (srednikami): ;page=N;pageSize=100;fid=<id>;q=<frazа>. Feedy Empiku: 52031/52029/49523. Limit 3 pobrania wersji feedu/24h. Uwaga: q= dziala jak OR i ignoruje numery - do dopasowania setow sie nie nadaje."
   },
   "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie."
  },
@@ -63,7 +64,7 @@
   "prowizja": "do potwierdzenia w panelu (avg EPC 0,75 zł)",
   "cookie_dni": 7,
   "format_linkow": "deeplink: https://clk.tradedoubler.com/click?p=289664&a=3494691&url=<encoded URL empik.com> - PRZETESTOWANE 2026-08-19, cel zachowany. Impression tracker: imp.tradedoubler.com/imp?type(inv)g(0)p(289664)a(3494691)prod(0). SubID przez parametr epi=.",
-  "feed": null,
+  "feed": "Tradedoubler Products API: api.tradedoubler.com/1.0/products.json;page=N;pageSize=100;fid=<FEED>?token=<TD_TOKEN>. Feedy Empiku: 52031 (dziecko/zabawki), 52029 (elektronika/gry), 49523 (all). WERYFIKACJA 2026-08-19: feed NIE ZAWIERA zestawow LEGO - to marketplace Empiku (gabloty, oplatki, organizery) plus MAGAZYNY LEGO (Ninjago/City/Minecraft, 23-30 zl). Filtr brand=LEGO daje 26 pozycji, same gadzety. Parametr q= ignoruje numer setu (kazde zapytanie zwraca ten sam zbior \"lego\"). WNIOSEK: cen setow z Empiku nie bedzie; feed uzyteczny WYLACZNIE do magazynow LEGO w prezentownikach.",
   "data": "2026-08-19",
   "uwagi": "AKTYWNY i PODPIETY 2026-08-19 (worker /idz/empik/<nr> -> wyszukiwarka Empiku w deeplinku TD; wiersz w tabeli cen). Warunki publikacji: Price comparison i Content DOZWOLONE (nasz model wprost OK), Paid Search zabroniony. Cancellation rate 12%, waluta PLN, cookie 7 dni. DO ZROBIENIA: feed produktowy przez Tradedoubler Products API (token SHA-1 z panelu TD: Account -> Manage tokens; limit 3 pobrania wersji feedu/24h) -> wtedy ceny Empiku w tabelach."
  },
