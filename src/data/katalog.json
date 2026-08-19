@@ -29,11 +29,13 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-19",
-      "uzupelnione_lacznie": 972,
+      "uzupelnione_lacznie": 1092,
       "ostatnie_serie": [
-        "Disney",
-        "Marvel",
-        "Ninjago"
+        "Creator",
+        "Icons",
+        "Ideas",
+        "Ninjago",
+        "Seasonal"
       ]
     }
   },
@@ -260,7 +262,8 @@
       "nazwa": "Fortepian",
       "rok": 2020,
       "elementy": 3662,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1699.99
     },
     {
       "numer": "21324",
@@ -359,7 +362,8 @@
       "nazwa": "Gwiaździsta noc (van Gogh)",
       "rok": 2022,
       "elementy": 2316,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "21334",
@@ -373,7 +377,8 @@
       "nazwa": "Zmotoryzowana latarnia morska",
       "rok": 2022,
       "elementy": 2065,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "21336",
@@ -489,42 +494,48 @@
       "nazwa": "Dungeons & Dragons: Opowieść czerwonego smoka",
       "rok": 2024,
       "elementy": 3745,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1549.99
     },
     {
       "numer": "21349",
       "nazwa": "Kot w smokingu",
       "rok": 2024,
       "elementy": 1710,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "21350",
       "nazwa": "Szczęki",
       "rok": 2024,
       "elementy": 1497,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "21351",
       "nazwa": "Miasteczko Halloween (Nightmare Before Christmas)",
       "rok": 2024,
       "elementy": 2193,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "21352",
       "nazwa": "Magia Disneya",
       "rok": 2024,
       "elementy": 1103,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "21353",
       "nazwa": "Ogród botaniczny",
       "rok": 2024,
       "elementy": 3792,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1399.99
     },
     {
       "numer": "40698",
@@ -546,7 +557,8 @@
       "nazwa": "Ewolucja przedmiotów ścisłych",
       "rok": 2025,
       "elementy": 879,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 349.99
     },
     {
       "numer": "21356",
@@ -583,7 +595,8 @@
       "nazwa": "Willy Wonka i fabryka czekolady",
       "rok": 2025,
       "elementy": 2025,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "21361",
@@ -1105,7 +1118,8 @@
       "nazwa": "Każdy jest wspaniały",
       "rok": 2021,
       "elementy": 346,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "10297",
@@ -28215,56 +28229,64 @@
       "nazwa": "3w1 Dekoracyjny obraz z kwiatami",
       "rok": 2026,
       "elementy": 348,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "31391",
       "nazwa": "3w1 Modna torebka ze schowkiem",
       "rok": 2026,
       "elementy": 272,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "31392",
       "nazwa": "3w1 Dekoracyjny fortepian z kotem",
       "rok": 2026,
       "elementy": 485,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "31393",
       "nazwa": "Leśne zwierzęta: Wilk szary",
       "rok": 2026,
       "elementy": 657,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "31394",
       "nazwa": "Urocze zwierzątka: Panda ruda",
       "rok": 2026,
       "elementy": 297,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40885",
       "nazwa": "Rodzina kaczek",
       "rok": 2026,
       "elementy": 262,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "40953",
       "nazwa": "Londyński autobus",
       "rok": 2026,
       "elementy": 245,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40954",
       "nazwa": "Pocztówka z Niemiec",
       "rok": 2026,
       "elementy": 240,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 62.99
     },
     {
       "numer": "66832",
@@ -43516,7 +43538,8 @@
       "nazwa": "Łazik terenowy ninja Arina",
       "rok": 2024,
       "elementy": 267,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "71812",
@@ -43530,14 +43553,16 @@
       "nazwa": "Dojo cienia Wilczej Maski",
       "rok": 2024,
       "elementy": 1190,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 529.99
     },
     {
       "numer": "71814",
       "nazwa": "Turniejowe miasto ze świątynią",
       "rok": 2024,
       "elementy": 3489,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "71815",
@@ -43565,21 +43590,24 @@
       "nazwa": "Arena turniejowa",
       "rok": 2024,
       "elementy": 659,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "71819",
       "nazwa": "Świątynia Smoczego Kamienia",
       "rok": 2024,
       "elementy": 1212,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 529.99
     },
     {
       "numer": "71820",
       "nazwa": "Wielofunkcyjny pojazd ninja",
       "rok": 2024,
       "elementy": 576,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 389.99
     },
     {
       "numer": "71821",
@@ -43593,7 +43621,8 @@
       "nazwa": "Smoczyca źródła ruchu",
       "rok": 2024,
       "elementy": 1716,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "892402",
@@ -43733,14 +43762,16 @@
       "nazwa": "Wielofunkcyjny minimech ninja",
       "rok": 2025,
       "elementy": 80,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 16.99
     },
     {
       "numer": "30700",
       "nazwa": "Bitwa Arina z Dragonem",
       "rok": 2025,
       "elementy": 48,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "6565144",
@@ -43754,105 +43785,120 @@
       "nazwa": "Smoczy Spinner Spinjitzu Kaia",
       "rok": 2025,
       "elementy": 54,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71824",
       "nazwa": "Smoczy Spinner Spinjitzu Sory",
       "rok": 2025,
       "elementy": 56,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71826",
       "nazwa": "Smocze Spinjitzu — zestaw bitewny",
       "rok": 2025,
       "elementy": 186,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "71827",
       "nazwa": "Mech w zbroi bojowej Zane’a",
       "rok": 2025,
       "elementy": 92,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71828",
       "nazwa": "Samochód wyścigowy Lloyda z napędem typu pull-back",
       "rok": 2025,
       "elementy": 181,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "71829",
       "nazwa": "Zielony leśny smok Lloyda",
       "rok": 2025,
       "elementy": 128,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "71830",
       "nazwa": "Burzowy jeździec-mech Kaia",
       "rok": 2025,
       "elementy": 333,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "71831",
       "nazwa": "Świątynia Spinjitzu ninja",
       "rok": 2025,
       "elementy": 158,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "71832",
       "nazwa": "Smok chaosu Kiełogrzmot",
       "rok": 2025,
       "elementy": 668,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 329.99
     },
     {
       "numer": "71833",
       "nazwa": "Ras i burzowy superodrzutowiec Arina",
       "rok": 2025,
       "elementy": 510,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "71834",
       "nazwa": "Wielofunkcyjny ultramech Zane’a",
       "rok": 2025,
       "elementy": 1187,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "71836",
       "nazwa": "Arcysmok skupienia",
       "rok": 2025,
       "elementy": 869,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "71837",
       "nazwa": "Warsztaty w mieście",
       "rok": 2025,
       "elementy": 3244,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1079.99
     },
     {
       "numer": "71838",
       "nazwa": "Wyścig motocyklowy Kaia",
       "rok": 2025,
       "elementy": 79,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "71839",
       "nazwa": "Mech bojowy Spinjitzu Arina",
       "rok": 2025,
       "elementy": 213,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "71840",
@@ -43873,42 +43919,48 @@
       "nazwa": "Smoczy mistrz Rontu",
       "rok": 2025,
       "elementy": 381,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "71843",
       "nazwa": "Mech smoczego jeźdźca Rogue’a",
       "rok": 2025,
       "elementy": 584,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "71844",
       "nazwa": "Pojazd bojowy ninja",
       "rok": 2025,
       "elementy": 561,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "71845",
       "nazwa": "Odrzutowy mech Lloyda",
       "rok": 2025,
       "elementy": 1112,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "71846",
       "nazwa": "Mech ognistego rycerza",
       "rok": 2025,
       "elementy": 996,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 529.99
     },
     {
       "numer": "71847",
       "nazwa": "Smok-strażnik",
       "rok": 2025,
       "elementy": 1650,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 669.99
     },
     {
       "numer": "71848",
@@ -44027,7 +44079,8 @@
       "nazwa": "Samochód ninja Cole’a",
       "rok": 2026,
       "elementy": 39,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "6614227",
@@ -44055,161 +44108,184 @@
       "nazwa": "Nya kontra zmutowany potwór na spinnerze",
       "rok": 2026,
       "elementy": 49,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 42.99
     },
     {
       "numer": "71850",
       "nazwa": "Lloyd kontra ziemny potwór na spinnerze",
       "rok": 2026,
       "elementy": 52,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "71851",
       "nazwa": "Smok-mech Kaia - Zestaw bitewny",
       "rok": 2026,
       "elementy": 85,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "71853",
       "nazwa": "Bitwa w smoczym mechu Jaya",
       "rok": 2026,
       "elementy": 107,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "71854",
       "nazwa": "Mech specjalny Cole’a i Zane w smoczej zbroi",
       "rok": 2026,
       "elementy": 364,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "71855",
       "nazwa": "Bitwa smoka Riyu",
       "rok": 2026,
       "elementy": 347,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "71856",
       "nazwa": "Wielofunkcyjny samochód Jaya",
       "rok": 2026,
       "elementy": 387,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "71857",
       "nazwa": "Bitwa Ninja: Domek na drzewie z pojazdami",
       "rok": 2026,
       "elementy": 642,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "71858",
       "nazwa": "Kuźnia Cztery Bronie — 15-lecie",
       "rok": 2026,
       "elementy": 1259,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "71859",
       "nazwa": "Smok Życia",
       "rok": 2026,
       "elementy": 1050,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "71860",
       "nazwa": "Tytanowy mech Lloyda — 15. rocznica",
       "rok": 2026,
       "elementy": 1293,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "71861",
       "nazwa": "Stare miasto - 15-lecie",
       "rok": 2026,
       "elementy": 4851,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "71862",
       "nazwa": "Smoczy mech Lloyda — Zestaw bitewny",
       "rok": 2026,
       "elementy": 81,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 41.99
     },
     {
       "numer": "71863",
       "nazwa": "Zilvar i smocza bestia Grimtak",
       "rok": 2026,
       "elementy": 232,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "71864",
       "nazwa": "Wielofunkcyjne pojazdy Kaia i Cole’a",
       "rok": 2026,
       "elementy": 394,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "71865",
       "nazwa": "Bitwa lodowego smoka Zane'a",
       "rok": 2026,
       "elementy": 141,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "71866",
       "nazwa": "Ozdoba z postaciami Ninja — 15-lecie",
       "rok": 2026,
       "elementy": 447,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "71867",
       "nazwa": "Ninjaścigacz X-1 — 15-lecie",
       "rok": 2026,
       "elementy": 691,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 339.99
     },
     {
       "numer": "71868",
       "nazwa": "Transformujący smoczy mech Wyldfyre",
       "rok": 2026,
       "elementy": 821,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "71869",
       "nazwa": "Perła Lądu",
       "rok": 2026,
       "elementy": 1214,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 559.99
     },
     {
       "numer": "71870",
       "nazwa": "Bliźniacze tytanowe mechy",
       "rok": 2026,
       "elementy": 1707,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "71871",
       "nazwa": "Bitwa o Smocze Ostrze",
       "rok": 2026,
       "elementy": 1016,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "71872",
       "nazwa": "Bitwa z ultrasmokiem",
       "rok": 2026,
       "elementy": 2178,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "951466",
@@ -48306,7 +48382,8 @@
       "nazwa": "Zajączek wielkanocny",
       "rok": 2021,
       "elementy": 293,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "40484",
@@ -48355,7 +48432,8 @@
       "nazwa": "Sanie Świętego Mikołaja",
       "rok": 2021,
       "elementy": 343,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "6412186",
@@ -48425,7 +48503,8 @@
       "nazwa": "Kot i mysz na Halloween",
       "rok": 2022,
       "elementy": 328,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "40571",
@@ -48446,7 +48525,8 @@
       "nazwa": "Choinka",
       "rok": 2022,
       "elementy": 784,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 189.99
     },
     {
       "numer": "80108",
@@ -48502,7 +48582,8 @@
       "nazwa": "Ozdoba w kształcie serca",
       "rok": 2023,
       "elementy": 254,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "40639",
@@ -48600,7 +48681,8 @@
       "nazwa": "Kalendarz festiwalowy",
       "rok": 2024,
       "elementy": 345,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "40679",
@@ -48635,7 +48717,8 @@
       "nazwa": "Wiosenny plac zabaw dla zwierzątek",
       "rok": 2024,
       "elementy": 172,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "40711",
@@ -48649,28 +48732,32 @@
       "nazwa": "Halloweenowa stodoła",
       "rok": 2024,
       "elementy": 205,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40743",
       "nazwa": "Świąteczna dekoracja stołu",
       "rok": 2024,
       "elementy": 433,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "40744",
       "nazwa": "Kolekcja ozdób świątecznych",
       "rok": 2024,
       "elementy": 153,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "40746",
       "nazwa": "Ciężarówka Świętego Mikołaja",
       "rok": 2024,
       "elementy": 224,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "6509762",
@@ -48740,63 +48827,72 @@
       "nazwa": "Urodzinowe cyferki",
       "rok": 2025,
       "elementy": 281,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40808",
       "nazwa": "Poszukiwanie pisanek z zajączkiem i kurczakiem",
       "rok": 2025,
       "elementy": 140,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "40809",
       "nazwa": "Świąteczna chatka z piernika",
       "rok": 2025,
       "elementy": 498,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 174.99
     },
     {
       "numer": "40811",
       "nazwa": "Ołtarz Día De Los Muertos",
       "rok": 2025,
       "elementy": 231,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40812",
       "nazwa": "Ozdoby z bałwankami",
       "rok": 2025,
       "elementy": 168,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 54.99
     },
     {
       "numer": "40813",
       "nazwa": "Japoński kot szczęścia",
       "rok": 2025,
       "elementy": 280,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40815",
       "nazwa": "Tort na przyjęcie urodzinowe",
       "rok": 2025,
       "elementy": 219,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40816",
       "nazwa": "Dekoracyjna Pisanka",
       "rok": 2025,
       "elementy": 386,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "40820",
       "nazwa": "Powiększona minifigurka Świętego Mikołaja",
       "rok": 2025,
       "elementy": 761,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 249.99
     },
     {
       "numer": "40821",
@@ -48810,21 +48906,24 @@
       "nazwa": "Dyniowy pickup",
       "rok": 2025,
       "elementy": 177,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40824",
       "nazwa": "Uroczy kanarek Tweety",
       "rok": 2025,
       "elementy": 412,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "40825",
       "nazwa": "Wieniec na Halloween",
       "rok": 2025,
       "elementy": 617,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "41843",
@@ -48879,130 +48978,149 @@
       "numer": "40862",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40863",
       "nazwa": "Wielkanocny kosz z pisankami",
       "rok": 2026,
       "elementy": 216,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 62.99
     },
     {
       "numer": "40864",
       "nazwa": "Mistrz Szczęścia",
       "rok": 2026,
       "elementy": 386,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40865",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40866",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40867",
       "nazwa": "Litery pełne miłości",
       "rok": 2026,
       "elementy": 345,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 84.99
     },
     {
       "numer": "40871",
       "nazwa": "Pudełko prezentowe na każdą okazję",
       "rok": 2026,
       "elementy": 224,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40872",
       "nazwa": "Halloweenowa latarnia z dyni",
       "rok": 2026,
       "elementy": 323,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40873",
       "nazwa": "Kolorowy lampion",
       "rok": 2026,
       "elementy": 286,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40874",
       "nazwa": "{?}",
       "rok": 2026,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40875",
       "nazwa": "{?}",
       "rok": 2026,
       "elementy": 904,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40883",
       "nazwa": "Halloweenowa czaszka ze świecą",
       "rok": 2026,
       "elementy": 204,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 81.99
     },
     {
       "numer": "40886",
       "nazwa": "Zakochane pingwiny",
       "rok": 2026,
       "elementy": 278,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40890",
       "nazwa": "Wielkanocne dekoracje",
       "rok": 2026,
       "elementy": 312,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": null
     },
     {
       "numer": "40905",
       "nazwa": "Urodzinowa babeczka",
       "rok": 2026,
       "elementy": 174,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 64.99
     },
     {
       "numer": "40915",
       "nazwa": "Taniec lwa",
       "rok": 2026,
       "elementy": 480,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40920",
       "nazwa": "Królik Bugs",
       "rok": 2026,
       "elementy": 605,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 169.99
     },
     {
       "numer": "40957",
       "nazwa": "Wiosenny wieniec",
       "rok": 2026,
       "elementy": 747,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 219.99
     },
     {
       "numer": "40958",
       "nazwa": "Świąteczna skarpeta",
       "rok": 2026,
       "elementy": 342,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 144.99
     },
     {
       "numer": "66822",
@@ -49016,28 +49134,32 @@
       "nazwa": "Chińska petarda noworoczna",
       "rok": 2026,
       "elementy": 1039,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 359.99
     },
     {
       "numer": "80119",
       "nazwa": "Obraz z galopującymi końmi",
       "rok": 2026,
       "elementy": 1650,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "80120",
       "nazwa": "Chinese Festivals Karp przeskakujący przez Smoczą Bramę",
       "rok": 2026,
       "elementy": 736,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 209.99
     },
     {
       "numer": "80121",
       "nazwa": "Chinese Festivals Stary zajazd",
       "rok": 2026,
       "elementy": 1530,
-      "status": "dostepny"
+      "status": "dostepny",
+      "cena_katalogowa": 469.99
     }
   ],
   "Disney": [
