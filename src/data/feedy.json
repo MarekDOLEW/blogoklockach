@@ -1,100 +1,122 @@
 {
- "_meta": {
-  "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
-  "zasada": "Nowy feed dopisujemy tutaj, nie w promptach zadan. Dzieki temu kazde zaplanowane uruchomienie widzi ten sam zestaw zrodel bez zalacznikow z komputera.",
-  "hosty_do_allowlisty": [
-   "allegro.pl",
-   "brickset.com",
-   "feeds.allegro.pl",
-   "planetaklockow.pl",
-   "service.weben1.com",
-   "storage.googleapis.com",
-   "webep1.com"
-  ],
-  "zaktualizowano": "2026-08-17"
- },
- "planetaklockow": {
-  "url": "https://service.weben1.com/xml/8c6d63cb-e8af-4890-8b21-9e66ace88354.xml",
-  "format": "xml",
-  "siec": "webePartners",
-  "sciezka_ofert": "offers/offer",
-  "pola": {
-   "nazwa": "name",
-   "cena": "price",
-   "cena_poprzednia": "property[@name='PreviousPrice']",
-   "kategoria": "shopcategory",
-   "link_afiliacyjny": "url",
-   "zdjecie": "property[@name='ImageOriginalUrl']",
-   "ean": "property[@name='EAN']"
+  "_meta": {
+    "opis": "Adresy feedow produktowych uzywanych przez Lowce Promocji. Klucze sklepow zgodne ze sklepy.json. Sesja pobiera feed z pola 'url', dokleja ?t=<timestamp> gdy trzeba ominac cache.",
+    "zasada": "Nowy feed dopisujemy tutaj, nie w promptach zadan. Dzieki temu kazde zaplanowane uruchomienie widzi ten sam zestaw zrodel bez zalacznikow z komputera.",
+    "hosty_do_allowlisty": [
+      "allegro.pl",
+      "brickset.com",
+      "feeds.allegro.pl",
+      "planetaklockow.pl",
+      "service.weben1.com",
+      "storage.googleapis.com",
+      "webep1.com"
+    ],
+    "zaktualizowano": "2026-08-17"
   },
-  "numer_setu": "z pola name, wzorzec: LEGO + opcjonalna nazwa serii + 4-5 cyfr",
-  "status": "dziala, ale ceny promocyjne nieaktualne",
-  "ostatnie_pobranie": "2026-08-14",
-  "uwagi": [
-   "6555 ofert, 5214 z rozpoznanym numerem setu, 5067 unikalnych setow.",
-   "PreviousPrice bywa niewiarygodny (np. 80120: 649,99 zl przy katalogu 209,99 zl) - rabaty liczymy WYLACZNIE od ceny katalogowej z ceny_baza.json.",
-   "Kategoria 'LEGO Produkty wycofane z oferty' to archiwum, nie wyprzedaz: cena 9999,99 zl = pozycja niedostepna, nie nadaje sie na alerty EOL.",
-   "KRYTYCZNE: feed NIE odzwierciedla akcji rabatowych sklepu - podaje te sama kwote w price i PreviousPrice. 14.08.2026 sklep miał -7% na prawie caly asortyment do 22.08, niewidoczne w feedzie. Zweryfikowane: 60492 feed 114,99 / strona 106,94; 11505 319,99 / 297,59; 11514 56,99 / 53,00; 43018 769,99 / 716,09; 71872 839,99 / 781,19; 76475 116,99 / 108,80. Wyjatek 10479: 74,99 w obu miejscach - akcja ma wylaczenia, wiec NIE mnozyc przez staly wspolczynnik.",
-   "Dla setow, gdzie cena PK z feedu miesci sie w 15% od najtanszej oferty, sprawdzac cene na stronie produktu przez WebFetch. Prawdziwy URL: pole url to link webep1.com z parametrem r = adres docelowy w base64 (dopisac padding '=' przed dekodowaniem).",
-   "Skala 14.08.2026: na 133 sety obecne w obu feedach Media Expert byl tanszy we wszystkich 133 nawet po doliczeniu PK rabatu -7%; mediana PK(-7%)/ME = 1,24."
-  ]
- },
- "mediaexpert": {
-  "url": "https://storage.googleapis.com/567005725405-feed-creator-media-expert/me_tylkoklocki.pl_61.xml",
-  "format": "xml",
-  "siec": "Performers (tracking track.performers.tech)",
-  "sciezka_ofert": "feed/entry",
-  "namespace": "http://base.google.com/ns/1.0",
-  "pola": {
-   "nazwa": "g:title",
-   "cena": "g:price",
-   "dostepnosc": "g:availability",
-   "marka": "g:brand",
-   "kategoria": "g:product_type",
-   "link_afiliacyjny": "g:link",
-   "zdjecie": "g:image_link",
-   "id_sklepu": "g:id"
+  "planetaklockow": {
+    "url": "https://service.weben1.com/xml/8c6d63cb-e8af-4890-8b21-9e66ace88354.xml",
+    "format": "xml",
+    "siec": "webePartners",
+    "sciezka_ofert": "offers/offer",
+    "pola": {
+      "nazwa": "name",
+      "cena": "price",
+      "cena_poprzednia": "property[@name='PreviousPrice']",
+      "kategoria": "shopcategory",
+      "link_afiliacyjny": "url",
+      "zdjecie": "property[@name='ImageOriginalUrl']",
+      "ean": "property[@name='EAN']"
+    },
+    "numer_setu": "z pola name, wzorzec: LEGO + opcjonalna nazwa serii + 4-5 cyfr",
+    "status": "dziala, ale ceny promocyjne nieaktualne",
+    "ostatnie_pobranie": "2026-08-14",
+    "uwagi": [
+      "6555 ofert, 5214 z rozpoznanym numerem setu, 5067 unikalnych setow.",
+      "PreviousPrice bywa niewiarygodny (np. 80120: 649,99 zl przy katalogu 209,99 zl) - rabaty liczymy WYLACZNIE od ceny katalogowej z ceny_baza.json.",
+      "Kategoria 'LEGO Produkty wycofane z oferty' to archiwum, nie wyprzedaz: cena 9999,99 zl = pozycja niedostepna, nie nadaje sie na alerty EOL.",
+      "KRYTYCZNE: feed NIE odzwierciedla akcji rabatowych sklepu - podaje te sama kwote w price i PreviousPrice. 14.08.2026 sklep miał -7% na prawie caly asortyment do 22.08, niewidoczne w feedzie. Zweryfikowane: 60492 feed 114,99 / strona 106,94; 11505 319,99 / 297,59; 11514 56,99 / 53,00; 43018 769,99 / 716,09; 71872 839,99 / 781,19; 76475 116,99 / 108,80. Wyjatek 10479: 74,99 w obu miejscach - akcja ma wylaczenia, wiec NIE mnozyc przez staly wspolczynnik.",
+      "Dla setow, gdzie cena PK z feedu miesci sie w 15% od najtanszej oferty, sprawdzac cene na stronie produktu przez WebFetch. Prawdziwy URL: pole url to link webep1.com z parametrem r = adres docelowy w base64 (dopisac padding '=' przed dekodowaniem).",
+      "Skala 14.08.2026: na 133 sety obecne w obu feedach Media Expert byl tanszy we wszystkich 133 nawet po doliczeniu PK rabatu -7%; mediana PK(-7%)/ME = 1,24."
+    ]
   },
-  "numer_setu": "z pola g:title, wzorzec ^LEGO\\s+(\\d{4,7})\\b — TYLKO gdy g:brand == 'LEGO'",
-  "status": "dziala",
-  "ostatnie_pobranie": "2026-08-14",
-  "generowany": "raz na dobe, 00:30 CEST (pole <updated> na poczatku pliku)",
-  "rozmiar": "~600 MB - parsowac strumieniowo (iterparse + el.clear()), nigdy w calosci do pamieci",
-  "uwagi": [
-   "Element oferty to <entry>, NIE <item>.",
-   "Dostepny = g:availability rowne dokladnie 'In stock'.",
-   "g:price w formacie '559.00 PLN' - brac pierwszy czlon.",
-   "PULAPKA: korzen drzewa g:product_type to 'Zabawki i LEGO', wiec test 'kategoria zawiera LEGO' przepuszcza KAZDA zabawke w sklepie. Bez filtra g:brand == 'LEGO' feed generuje falszywe deale: 'Puzzle LISCIANI Bing 304-77977' za 24,99 zl (LEGO 77977 kosztuje 73,90), 'Gra logiczna TACTIC Peppa Pig 60480' za 51,92 zl (LEGO 99,90), 'Maskotka DUBI Husky 31389' za 60,12 zl (LEGO 260,19).",
-   "748 pozycji z marka LEGO, 733 dostepne (stan 14.08.2026).",
-   "Weryfikacja 14.08.2026: 9 na 10 setow zgadzalo sie co do grosza ze strona produktowa; 43018 mial 559,00 w feedzie i 550,51 na stronie (zmiana w ciagu dnia).",
-   "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403).",
-   "OGRANICZENIE (odkryte 2026-08-17): feed zawiera tylko ~765 produktow LEGO — to podzbior asortymentu ME (paczka mieszana, nie pelna oferta; np. LEGO 21348 jest w sklepie, ale nie w feedzie). Brak ceny w feedzie NIE oznacza braku produktu w ME. Do zalatwienia: pelny feed kategorii zabawki/LEGO przez panel/opiekuna Performers."
-  ]
- },
- "allegro": {
-  "url": "https://feeds.allegro.pl/affiliate-feed/39967a61-8483-4037-bc45-165d4978a379",
-  "format": "ndjson",
-  "siec": "Allegro Affiliate (program wlasny)",
-  "pola": {
-   "nazwa": "name",
-   "cena": "price",
-   "dostepnosc": "availability",
-   "link_afiliacyjny": "item_link",
-   "zdjecie": "image_link",
-   "ean": "gtin",
-   "kategoria": "category_name_path"
+  "mediaexpert": {
+    "url": "https://storage.googleapis.com/567005725405-feed-creator-media-expert/me_tylkoklocki.pl_61.xml",
+    "format": "xml",
+    "siec": "Performers (tracking track.performers.tech)",
+    "sciezka_ofert": "feed/entry",
+    "namespace": "http://base.google.com/ns/1.0",
+    "pola": {
+      "nazwa": "g:title",
+      "cena": "g:price",
+      "dostepnosc": "g:availability",
+      "marka": "g:brand",
+      "kategoria": "g:product_type",
+      "link_afiliacyjny": "g:link",
+      "zdjecie": "g:image_link",
+      "id_sklepu": "g:id"
+    },
+    "numer_setu": "z pola g:title, wzorzec ^LEGO\\s+(\\d{4,7})\\b — TYLKO gdy g:brand == 'LEGO'",
+    "status": "dziala",
+    "ostatnie_pobranie": "2026-08-14",
+    "generowany": "raz na dobe, 00:30 CEST (pole <updated> na poczatku pliku)",
+    "rozmiar": "~600 MB - parsowac strumieniowo (iterparse + el.clear()), nigdy w calosci do pamieci",
+    "uwagi": [
+      "Element oferty to <entry>, NIE <item>.",
+      "Dostepny = g:availability rowne dokladnie 'In stock'.",
+      "g:price w formacie '559.00 PLN' - brac pierwszy czlon.",
+      "PULAPKA: korzen drzewa g:product_type to 'Zabawki i LEGO', wiec test 'kategoria zawiera LEGO' przepuszcza KAZDA zabawke w sklepie. Bez filtra g:brand == 'LEGO' feed generuje falszywe deale: 'Puzzle LISCIANI Bing 304-77977' za 24,99 zl (LEGO 77977 kosztuje 73,90), 'Gra logiczna TACTIC Peppa Pig 60480' za 51,92 zl (LEGO 99,90), 'Maskotka DUBI Husky 31389' za 60,12 zl (LEGO 260,19).",
+      "748 pozycji z marka LEGO, 733 dostepne (stan 14.08.2026).",
+      "Weryfikacja 14.08.2026: 9 na 10 setow zgadzalo sie co do grosza ze strona produktowa; 43018 mial 559,00 w feedzie i 550,51 na stronie (zmiana w ciagu dnia).",
+      "Strony produktowe mediaexpert.pl czytac przez WebFetch - curl i przegladarka dostaja strone anty-botowa (403).",
+      "OGRANICZENIE (odkryte 2026-08-17): feed zawiera tylko ~765 produktow LEGO — to podzbior asortymentu ME (paczka mieszana, nie pelna oferta; np. LEGO 21348 jest w sklepie, ale nie w feedzie). Brak ceny w feedzie NIE oznacza braku produktu w ME. Do zalatwienia: pelny feed kategorii zabawki/LEGO przez panel/opiekuna Performers."
+    ]
   },
-  "numer_setu": "atrybut id=201105 'Numer produktu' (6836/8458 ofert); fallback regex \\b(\\d{4,7})\\b z pola name (+943); ~680 ofert bez numeru (akcesoria, gadzety) - pomijac",
-  "status": "dziala",
-  "ostatnie_pobranie": "2026-08-17",
-  "rozmiar": "~27 MB, ~8500 ofert LEGO, ~7200 unikalnych setow (pokrywa 98% naszych podstron)",
-  "uwagi": [
-   "Jedna linia = jeden obiekt JSON (NDJSON), parsowac linia po linii.",
-   "item_link to GOTOWY link afiliacyjny (allegro.pl/affiliate?redirect_url=...) - uzywac wprost, nie budowac wlasnego.",
-   "Przy wielu ofertach tego samego setu brac najnizsza cene z availability='in stock'.",
-   "availability: tylko 'in stock' traktowac jako dostepne.",
-   "image_link (a.allegroimg.com) moze sluzyc jako dodatkowe zrodlo zdjec.",
-   "Przy KAZDYM przebiegu odswiezac redirects.json -> allegro gotowymi item_link z feedu (najnizsza oferta in stock per set) - dzieki temu nowe sety dostaja bezposrednie linki ofertowe, a fallback workera (strona glowna Allegro) dziala tylko dla setow spoza feedu."
-  ]
- }
+  "allegro": {
+    "url": "https://feeds.allegro.pl/affiliate-feed/39967a61-8483-4037-bc45-165d4978a379",
+    "format": "ndjson",
+    "siec": "Allegro Affiliate (program wlasny)",
+    "pola": {
+      "nazwa": "name",
+      "cena": "price",
+      "dostepnosc": "availability",
+      "link_afiliacyjny": "item_link",
+      "zdjecie": "image_link",
+      "ean": "gtin",
+      "kategoria": "category_name_path"
+    },
+    "numer_setu": "atrybut id=201105 'Numer produktu' (6836/8458 ofert); fallback regex \\b(\\d{4,7})\\b z pola name (+943); ~680 ofert bez numeru (akcesoria, gadzety) - pomijac",
+    "status": "dziala",
+    "ostatnie_pobranie": "2026-08-17",
+    "rozmiar": "~27 MB, ~8500 ofert LEGO, ~7200 unikalnych setow (pokrywa 98% naszych podstron)",
+    "uwagi": [
+      "Jedna linia = jeden obiekt JSON (NDJSON), parsowac linia po linii.",
+      "item_link to GOTOWY link afiliacyjny (allegro.pl/affiliate?redirect_url=...) - uzywac wprost, nie budowac wlasnego.",
+      "Przy wielu ofertach tego samego setu brac najnizsza cene z availability='in stock'.",
+      "availability: tylko 'in stock' traktowac jako dostepne.",
+      "image_link (a.allegroimg.com) moze sluzyc jako dodatkowe zrodlo zdjec.",
+      "Przy KAZDYM przebiegu odswiezac redirects.json -> allegro gotowymi item_link z feedu (najnizsza oferta in stock per set) - dzieki temu nowe sety dostaja bezposrednie linki ofertowe, a fallback workera (strona glowna Allegro) dziala tylko dla setow spoza feedu."
+    ]
+  },
+  "ceneo": {
+    "url": "https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=256472?token=<TD_TOKEN>",
+    "format": "json",
+    "siec": "Tradedoubler (program Ceneo CPS 385881, konto a=3494691)",
+    "skrypt": "node scripts/ceneo-feed.mjs — pobiera feed, aktualizuje redirects.ceneo i ceny w oferty_feed",
+    "pola": {
+      "nazwa": "products[].name",
+      "cena": "products[].offers[0].priceHistory[-1].price.value",
+      "link_afiliacyjny": "products[].offers[0].productUrl (gotowy link pdt.tradedoubler.com)",
+      "zdjecie": "products[].productImage.url"
+    },
+    "numer_setu": "regex \\b(\\d{4,7})\\b z pola name",
+    "status": "dziala",
+    "ostatnie_pobranie": "2026-08-20",
+    "rozmiar": "~1,4 MB, 1336 produktow = 1336 setow",
+    "uwagi": [
+      "Endpoint products.json ma limit PF_430 (max 1000) - uzywac productsUnlimited: pierwsze wywolanie zwraca 202 (feed sie generuje), po ~20-60 s zwraca 200 z plikiem.",
+      "Node fetch nie idzie przez proxy srodowiska - skrypt pobiera curl-em.",
+      "Ceneo to porownywarka: cena = najnizsza oferta rynkowa. W tabelach cen wiersz Ceneo stoi ZAWSZE NA KONCU i nie bierze udzialu w sortowaniu ani w 'najnizszej cenie' na listach (decyzja Marka 2026-08-20).",
+      "Feed nie ma daty waznosci cen - odswiezac codziennie razem z pozostalymi."
+    ]
+  }
 }

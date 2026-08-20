@@ -42,10 +42,19 @@ export function polaczOferty(ofertySetu = [], wpisFeedu = null) {
   return [...perSklep.values()];
 }
 
-/** Najniższa aktualna oferta zestawu albo null. Zwraca { sklep, cena, data }. */
+/**
+ * Najniższa aktualna oferta zestawu albo null. Zwraca { sklep, cena, data }.
+ *
+ * Pomija Ceneo: to porównywarka, a nie sklep — jej cena jest najniższą ofertą
+ * rynkową (często ze sklepu, do którego sami nie linkujemy), więc na listach
+ * z ceną "od" wprowadzałaby w błąd. Ceneo pokazujemy wyłącznie jako ostatni
+ * wiersz pełnej tabeli cen (TabelaCen.astro).
+ */
 export function najlepszaOferta(nr, { sety = {}, feed = {} } = {}) {
   const klucz = String(nr);
-  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz])];
+  const kandydaci = [...(sety[klucz]?.oferty ?? []), ...ofertyZFeedu(feed[klucz])].filter(
+    (o) => o.sklep !== 'ceneo',
+  );
   return kandydaci.reduce((a, o) => (a === null || o.cena < a.cena ? o : a), null);
 }
 
@@ -78,7 +87,10 @@ export function linkAfiliacyjny(sklep, nr) {
  */
 export function jakikolwiekLink(nr) {
   const klucz = String(nr);
-  for (const sklep of Object.keys(redirectsMapa)) {
+  // Ceneo na końcu kolejki — link do porównywarki jest lepszy niż brak linku,
+  // ale zawsze ustępuje bezpośredniemu linkowi do sklepu.
+  const sklepy = Object.keys(redirectsMapa).filter((s) => s !== 'ceneo');
+  for (const sklep of [...sklepy, 'ceneo']) {
     if (redirectsMapa[sklep]?.[klucz]) return { sklep, url: `/idz/${sklep}/${klucz}` };
   }
   return null;

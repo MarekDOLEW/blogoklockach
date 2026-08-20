@@ -24,13 +24,20 @@ const relLinku = (sklep) =>
 const zLego = dodajLego && !oferty.some((o) => o.sklep === 'lego') && cenaKatalogowa
   ? [{ sklep: 'lego', cena: cenaKatalogowa, data: null }]
   : [];
-const posortowane = [...oferty, ...zLego].sort((a, b) => a.cena - b.cena);
+// Ceneo to porównywarka, nie sklep: jego cena to najniższa oferta rynkowa,
+// a klient po kliknięciu trafia na kartę produktu w Ceneo i dopiero stamtąd
+// do sklepu. Dlatego stoi zawsze na końcu tabeli i nie bierze udziału
+// w sortowaniu ani w wyróżnieniu "najtańszy".
+const ceneo = [...oferty, ...zLego].find((o) => o.sklep === 'ceneo') ?? null;
+const posortowane = [...oferty, ...zLego]
+  .filter((o) => o.sklep !== 'ceneo')
+  .sort((a, b) => a.cena - b.cena);
 const dataSprawdzenia = posortowane.find((o) => o.data)?.data;
 // sklepy z linkiem afiliacyjnym, ale bez oferty cenowej — pokaż wiersz "sprawdź cenę";
 // xkom i smyk mają linki budowane dynamicznie przez worker, więc dokładamy je
 // niezależnie od obecności w redirects.json
 const bezCeny = [...new Set([...Object.keys(redirects), 'xkom', 'smyk', 'empik'])]
-  .filter((s) => s !== '_meta' && maAfiliacje(s) && !posortowane.some((o) => o.sklep === s));
+  .filter((s) => s !== '_meta' && s !== 'ceneo' && maAfiliacje(s) && !posortowane.some((o) => o.sklep === s));
 if (dodajLego && !posortowane.some((o) => o.sklep === 'lego') && !bezCeny.includes('lego')) {
   bezCeny.push('lego');
 }
@@ -79,6 +86,17 @@ const UWAGA_SKLEP = {
           <td><a class="cta" href={`/idz/${s}/${nr}`} rel={relLinku(s)}>Sprawdź cenę →</a></td>
         </tr>
       ))}
+      {ceneo && (
+        <tr class="wiersz-ceneo">
+          <td>
+            <strong>{sklepy.ceneo?.nazwa ?? 'Ceneo'}</strong>
+            <span style="display:block;font-size:0.72rem;opacity:0.65;">porównywarka — najniższa oferta w całym rynku, sklep wybierasz na Ceneo</span>
+          </td>
+          <td class="cena">{fmt(ceneo.cena)}</td>
+          {cenaKatalogowa && <td>{rabat(ceneo.cena) > 0 ? `−${rabat(ceneo.cena)}%` : '—'}</td>}
+          <td><a class="cta" href={`/idz/ceneo/${nr}`} rel="sponsored nofollow">Porównaj oferty →</a></td>
+        </tr>
+      )}
     </tbody>
   </table>
   <p class="tabela-data">{cenaKatalogowa && <>* Rabat liczony od ceny katalogowej LEGO ({fmt(cenaKatalogowa)}). </>}{dataSprawdzenia && <>Ceny sprawdzone: {dataSprawdzenia}. </>}Sklepy prowadzą też własne promocje i kody rabatowe, których nie widać w cennikach — cena w sklepie może się różnić od podanej, zwykle na Twoją korzyść.</p>
