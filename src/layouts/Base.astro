@@ -45,11 +45,16 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
           <span class="studs" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
           tylko<em>klocki</em><span style="color:var(--granat-60)">.pl</span>
         </a>
-        <nav class="nav" aria-label="Menu główne">
+        <button class="nav-przycisk" type="button" aria-label="Menu" aria-expanded="false" aria-controls="menu-glowne">
+          <span class="nav-ikona" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span class="nav-przycisk-tekst">Menu</span>
+        </button>
+        <nav class="nav" id="menu-glowne" aria-label="Menu główne">
           <a class="nav--hot" href="/">🔥 Promocje dziś</a>
-          <a href="/kalendarz-promocji-lego/">Kalendarz promocji</a>
+          <a href="/kalendarz-promocji-lego/">Kalendarz</a>
           <a href="/nowosci/">Nowości</a>
-  <a href="/wycofania/">Wycofania 2026</a>
+          <a href="/zapowiedzi-lego-2027/">Zapowiedzi</a>
+          <a href="/wycofania/">Wycofania</a>
           <a href="/serie/">Serie</a>
           <a href="/prezentowniki/">Prezentowniki</a>
           <a href="/kolekcjoner/">Kolekcjoner</a>
@@ -57,6 +62,52 @@ const ogImageAbs = new URL(ogImage, Astro.site).href;
         </nav>
       </div>
     </header>
+    <script is:inline>
+      // Menu mobilne: przycisk rozwija nawigację. Panel jest zwykłym <nav> —
+      // na desktopie CSS pokazuje go zawsze, więc brak JS-a nic nie psuje
+      // (przycisk jest wtedy ukryty). Na wąskich ekranach sterujemy klasą
+      // .nav--otwarte i aria-expanded, żeby czytniki znały stan.
+      (function () {
+        var przycisk = document.querySelector('.nav-przycisk');
+        var menu = document.getElementById('menu-glowne');
+        if (!przycisk || !menu) return;
+
+        var ustaw = function (otwarte) {
+          menu.classList.toggle('nav--otwarte', otwarte);
+          przycisk.setAttribute('aria-expanded', otwarte ? 'true' : 'false');
+        };
+
+        przycisk.addEventListener('click', function () {
+          ustaw(przycisk.getAttribute('aria-expanded') !== 'true');
+        });
+
+        // wybór linku zamyka menu (nawigacja w obrębie tej samej strony, np. kotwice)
+        menu.addEventListener('click', function (e) {
+          if (e.target.closest('a')) ustaw(false);
+        });
+
+        // Escape zamyka i wraca fokusem na przycisk
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && przycisk.getAttribute('aria-expanded') === 'true') {
+            ustaw(false);
+            przycisk.focus();
+          }
+        });
+
+        // kliknięcie poza nagłówkiem zamyka menu
+        document.addEventListener('click', function (e) {
+          if (przycisk.getAttribute('aria-expanded') !== 'true') return;
+          if (!e.target.closest('.site-header')) ustaw(false);
+        });
+
+        // po powiększeniu okna do widoku desktopowego stan menu przestaje mieć
+        // znaczenie wizualnie, ale aria-expanded musi wrócić do wartości spójnej
+        var szeroki = window.matchMedia('(min-width: 861px)');
+        var reset = function () { if (szeroki.matches) ustaw(false); };
+        szeroki.addEventListener ? szeroki.addEventListener('change', reset) : szeroki.addListener(reset);
+      })();
+    </script>
+
     <script is:inline>
       // Rzeczywista wysokość przyklejonego menu trafia do --h-naglowek, żeby paski
       // filtrów mogły się przykleić dokładnie pod nim (nawigacja zawija się na wąskich

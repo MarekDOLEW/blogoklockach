@@ -62,11 +62,11 @@ a { color: inherit; }
 
 /* ---------- Header ---------- */
 .site-header { background: var(--karta); border-bottom: 3px solid var(--granat); position: sticky; top: 0; z-index: 50; }
-.site-header .wrap { display: flex; align-items: center; gap: 24px; min-height: 62px; flex-wrap: wrap; }
+.site-header .wrap { display: flex; align-items: center; gap: 14px; min-height: 62px; flex-wrap: wrap; }
 .logo { display: flex; align-items: center; gap: 10px; font-family: var(--font-display); font-size: 1.25rem; text-decoration: none; padding: 8px 0; }
 .logo em { font-style: normal; color: var(--czerwien); }
-.nav { display: flex; gap: 4px; flex-wrap: wrap; margin-left: auto; }
-.nav a { text-decoration: none; font-size: 0.92rem; font-weight: 600; padding: 8px 12px; border-radius: 6px; color: var(--granat-60); }
+.nav { display: flex; gap: 2px; flex-wrap: wrap; margin-left: auto; }
+.nav a { text-decoration: none; font-size: 0.88rem; font-weight: 600; padding: 8px 9px; border-radius: 6px; color: var(--granat-60); white-space: nowrap; }
 .nav a:hover, .nav a[aria-current="page"] { background: var(--papier); color: var(--granat); }
 .nav a.nav--hot { background: var(--zolty); color: var(--granat); }
 .nav a.nav--hot:hover { background: var(--zolty-ciemny); }
@@ -444,3 +444,79 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 .prose blockquote > :last-child { margin-bottom: 0; }
 .prose blockquote strong:first-child { font-family: var(--font-display); font-size: 1.02rem; }
 .prose blockquote ul { margin-bottom: 0.6em; }
+
+/* ---------- Menu mobilne (hamburger) ----------
+   Desktop: pełna nawigacja w pasku, przycisk ukryty.
+   Wąskie ekrany: przycisk rozwija nawigację w panel pod nagłówkiem
+   (zamiast zawijania linków w trzy rzędy). */
+.nav-przycisk {
+  display: none;
+  margin-left: auto;
+  align-items: center;
+  gap: 10px;
+  font: inherit;
+  font-weight: 700;
+  font-size: 0.92rem;
+  color: var(--granat);
+  background: var(--papier);
+  border: 1px solid var(--linia);
+  border-radius: 8px;
+  padding: 9px 14px;
+  min-height: 44px;              /* wygodny cel dotykowy */
+  cursor: pointer;
+}
+.nav-przycisk:hover { background: #eef0f4; }
+.nav-ikona { display: grid; gap: 4px; width: 18px; }
+.nav-ikona i {
+  display: block; height: 2.5px; border-radius: 2px; background: var(--granat);
+  transition: transform 0.18s ease, opacity 0.18s ease;
+}
+/* otwarte menu: hamburger zmienia się w krzyżyk */
+.nav-przycisk[aria-expanded="true"] .nav-ikona i:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.nav-przycisk[aria-expanded="true"] .nav-ikona i:nth-child(2) { opacity: 0; }
+.nav-przycisk[aria-expanded="true"] .nav-ikona i:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+/* Próg 1119 px: pełny pasek mieści się w jednym rzędzie dopiero, gdy strona
+   osiąga pełne 1080 px szerokości kontenera (9 pozycji + logo). Niżej — hamburger. */
+@media (max-width: 1119px) {
+  .nav-przycisk { display: inline-flex; }
+  .site-header .wrap { gap: 12px; }
+  /* Panel wysuwa się POD nagłówkiem jako nakładka (position: absolute),
+     a nie w jego środku — dzięki temu sam nagłówek zostaje niski,
+     --h-naglowek się nie rozdyma i przyklejone paski filtrów nie skaczą. */
+  .nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    flex-direction: column;
+    gap: 2px;
+    margin: 0;
+    padding: 8px 20px 14px;
+    background: var(--karta);
+    border-bottom: 3px solid var(--granat);
+    box-shadow: 0 12px 24px rgba(23, 35, 63, 0.12);
+    max-height: calc(100dvh - var(--h-naglowek));
+    overflow-y: auto;            /* długie menu przewija się w panelu */
+    overscroll-behavior: contain;
+  }
+  .nav--otwarte { display: flex; }
+  .nav a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 10px 12px;
+    font-size: 1rem;
+    color: var(--granat);
+  }
+  .nav a.nav--hot { justify-content: flex-start; }
+}
+
+/* Bardzo wąskie ekrany (≤360 px): przycisk zwęża się do samej ikony,
+   nazwę dla czytników niesie aria-label. */
+@media (max-width: 360px) {
+  .nav-przycisk-tekst { display: none; }
+  .nav-przycisk { padding: 9px 11px; }
+}
