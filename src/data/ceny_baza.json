@@ -1677,5 +1677,33 @@
   "najnizsza_cena": 469.95,
   "najnizsza_data": "2026-08-19",
   "najnizsza_sklep": "allegro"
+ },
+ "10331": {
+  "nazwa": "Zimorodek",
+  "cena_katalogowa": 209.99
+ },
+ "75404": {
+  "nazwa": "Krążownik szturmowy typu Acclamator",
+  "cena_katalogowa": 209.99
+ },
+ "76314": {
+  "nazwa": "Kapitan Ameryka: Wojna bohaterów — bitwa",
+  "cena_katalogowa": 439.99
+ },
+ "75347": {
+  "nazwa": "Bombowiec TIE",
+  "cena_katalogowa": 274.99
+ },
+ "76448": {
+  "nazwa": "Fawkes: feniks Dumbledore'a",
+  "cena_katalogowa": 81.99
+ },
+ "42158": {
+  "nazwa": "NASA Mars Rover Perseverance",
+  "cena_katalogowa": 419.99
+ },
+ "75401": {
+  "nazwa": "Interceptor Jedi Ahsoki",
+  "cena_katalogowa": 189.99
  }
 }
