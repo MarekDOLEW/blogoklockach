@@ -60,7 +60,7 @@
     "format_linkow": "gotowe item_link z feedu (allegro.pl/affiliate?redirect_url=<cel z utm>); dla setow spoza feedu worker buduje link do listingu opakowany w allegro.pl/affiliate z utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372",
     "feed": "feedy.json -> allegro (NDJSON, ~8500 ofert LEGO, ~7200 setow, 98% pokrycia podstron; gotowe linki afiliacyjne + ceny + zdjecia)",
     "data": "2026-08-16",
-    "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy. UWAGA 2026-08-19: Admitad ODRZUCIL zgloszenie Allegro PL (\"reklamodawca nie jest zainteresowany\") - BEZ ZNACZENIA, bo mamy Allegro bezposrednio (wlasny program + feed). Nie ponawiac przez Admitad."
+    "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy. UWAGA 2026-08-19: Admitad ODRZUCIL zgloszenie Allegro PL (\"reklamodawca nie jest zainteresowany\") - BEZ ZNACZENIA, bo mamy Allegro bezposrednio (wlasny program + feed). Nie ponawiac przez Admitad. UWAGA 2026-08-20: Tradedoubler zaakceptowal program Allegro (feed fid=119268), ale nasz token zwraca PF_392 'Requester is not connected to Feed' - dostep do feedu jeszcze nie propagowal albo wymaga podlaczenia feedu w panelu TD. DECYZJA STRATEGICZNA: program wlasny pozostaje glowny (bez posrednika, feed 7200 setow, 6263 item_linki). TD Allegro rozwazac WYLACZNIE jako zrodlo deeplinkow do listingow dla ~530 hubow, ktore dzis leca na strone glowna Allegro - wymaga programId (p=) z panelu TD do testu."
   },
   "empik": {
     "siec": "Tradedoubler",
@@ -75,12 +75,12 @@
   "ceneo": {
     "siec": "Tradedoubler",
     "status": "aktywny",
-    "prowizja": null,
+    "prowizja": "CPS - do potwierdzenia w panelu",
     "cookie_dni": null,
-    "format_linkow": null,
-    "feed": null,
-    "data": "2026-08-19",
-    "uwagi": "ZAAKCEPTOWANE 2026-08-19. DO USTALENIA ktora sciezka: (a) program Ceneo w Tradedoublerze (zgloszenie z 16.08) czy (b) wlasny Ceneo Partner Program z API. Potrzebne do wdrozenia: format linku trackingowego (przyklad z panelu) oraz - jesli PP - dane API (client_id/secret, OAuth2, partnerzyapi.ceneo.pl). Zastosowanie: cena referencyjna \"od X zl w N sklepach\" na podstronach setow (API zwraca min/max/koszyk i liczbe sklepow, NIE oferty per sklep) + wiersz Ceneo w tabeli cen. Cookie 90 dni - najdluzsze w calym miksie."
+    "format_linkow": "gotowy productUrl z feedu: https://pdt.tradedoubler.com/click?a(3494691)p(385881)product(<feedId>-<sourceProductId>)ttid(19)url(<encoded ceneo.pl>) - ZWERYFIKOWANE 2026-08-20 na feedzie Ceneo_LEGO",
+    "feed": "TD productFeeds: Ceneo_LEGO fid=256472 (1336 produktow, ~1000 dostepnych przez API - limit PF_430; pokrywa 998 naszych setow, ceny + zdjecia + gotowe linki trackingowe). Dodatkowo 7 feedow kategoryjnych Ceneo (RTV, AGD, komputery, zegarki, uroda, telefony, cps_feed).",
+    "data": "2026-08-20",
+    "uwagi": "programId 385881 (Ceneo CPS), konto a=3494691. Ceneo to porownywarka, nie sklep - decyzja redakcyjna, czy pokazywac jako wiersz w tabeli cen (cena = najnizsza oferta rynkowa z Ceneo). Feed dziala z tokenem TD_TOKEN."
   },
   "mediamarkt": {
     "siec": "Tradedoubler",
