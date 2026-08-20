@@ -5,6 +5,17 @@ przekierowania afiliacyjne `/idz/<sklep>/<nr>`) + R2. Deploy automatyczny
 z gałęzi `main`. Dane serwisu w `src/data/*.json`, aktualizowane przez
 zadania cykliczne (runnery) i sesje robocze.
 
+## Podział ról
+
+Dwóch współtwórców pracuje niezależnie (szczegóły: `redakcja/wspolpraca.md`):
+
+- **Piotr — redakcja**: `redakcja/`, `src/pages/artykuly/` (research, karty,
+  artykuły). Instrukcje: `redakcja/instrukcje-dla-claude-piotra.md`.
+- **Marek — sprzedaż**: `src/data/`, `src/worker.js`, `scripts/`, reszta
+  `src/pages/` (afiliacje, feedy, dane, infrastruktura).
+
+Zmiany w cudzym obszarze wymagają uzgodnienia.
+
 ## Artykuły — zasada nadrzędna
 
 Przed pisaniem lub redagowaniem JAKIEGOKOLWIEK artykułu przeczytaj dokumenty
