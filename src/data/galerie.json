@@ -1,0 +1,25 @@
+{
+  "_meta": {
+    "opis": "Galerie zdjęć do artykułów: numer setu -> lista URL-i źródłowych. Worker serwuje je jako /img/<numer>-<pozycja>.jpg (pozycje od 1) z trwałą kopią w R2 — jak główne zdjęcia z obrazy.json.",
+    "zrodlo": "oficjalne materiały produktowe LEGO w cache sklepu planetaklockow.pl (1024px)"
+  },
+  "76467": [
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43801_1024_1024/LEGO-76467-Harry-Potter-Dom-Luny-Lovegood.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43802_1024_1024/LEGO-76467-Harry-Potter-Dom-Luny-Lovegood.jpg"
+  ],
+  "11381": [
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47766_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47768_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47760_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47763_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47764_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_47769_1024_1024/LEGO-11381-Icons-Jaguar-E-Type.jpg"
+  ],
+  "31168": [
+    "https://planetaklockow.pl/environment/cache/images/productGfx_42474_1024_1024/LEGO-31168-Creator-Sredniowieczny-zamek-rycerzy-konnych.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43161_1024_1024/LEGO-31168-Creator-Sredniowieczny-zamek-rycerzy-konnych.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43165_1024_1024/LEGO-31168-Creator-Sredniowieczny-zamek-rycerzy-konnych.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43166_1024_1024/LEGO-31168-Creator-Sredniowieczny-zamek-rycerzy-konnych.jpg",
+    "https://planetaklockow.pl/environment/cache/images/productGfx_43160_1024_1024/LEGO-31168-Creator-Sredniowieczny-zamek-rycerzy-konnych.jpg"
+  ]
+}
