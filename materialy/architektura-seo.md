@@ -11,6 +11,7 @@ fanklockow.pl buduje widoczność architekturą: **hub evergreen → artykuły p
 | Filar | URL | Klastry (spokes) | Status |
 |---|---|---|---|
 | Kalendarz promocji | `/kalendarz-promocji-lego/` | artykuły dealowe, strony zestawów GWP, wycofania | ✅ od 2026-08-17 |
+| Zapowiedzi 2027 | `/zapowiedzi-lego-2027/` | strony zestawów kolekcjonerskich, wycofania, nowości | ✅ od 2026-08-20 |
 | Wycofania 2026 | `/wycofania/` | strony zestawów EOL, artykuły „ostatnia szansa" | ✅ istnieje |
 | Serie | `/serie/[seria]/` | strony zestawów serii, artykuły o serii | ✅ istnieje |
 | Strona zestawu | `/zestaw/[nr]/` | deale, prezentowniki i newsy wspominające set | ✅ istnieje |
@@ -26,6 +27,18 @@ fanklockow.pl buduje widoczność architekturą: **hub evergreen → artykuły p
 3. **Maks. 3 kliknięcia od strony głównej** do każdej strony zarabiającej. Filary trzymamy w nawigacji głównej.
 4. **Linkujemy tylko istniejące strony** — huby zestawów wg `src/lib/huby.js` (numeryHubow); link z listy nigdy nie prowadzi w próżnię.
 5. Deale → strona zestawu (nie odwrotny kierunek jako jedyny); prezentowniki → deale i strony zestawów; nowości → strony zestawów.
+
+### Bloki „skompletuj kolekcję" (huby zapowiedzi)
+
+Wzorzec wprowadzony 2026-08-20 na `/zapowiedzi-lego-2027/`, do powielenia w kolejnych hubach zapowiedzi. Przy zapowiedzi dodajemy ramkę (blockquote) z zestawami z obecnej oferty, które domykają tę samą kolekcję tematyczną. Reguły:
+
+1. **Maksymalnie 2 linki** na jedną zapowiedź — ramka ma podpowiadać, nie zasypywać.
+2. **Tylko serie kolekcjonerskie** (Icons, Star Wars UCS, Ideas, Architecture, Technic z górnej półki, LOTR/Diuna) i **tylko zestawy powyżej 500 zł** — po obu stronach: zapowiedź musi być z tej półki i linkowany zestaw też.
+3. **Zawsze podajemy status rynkowy** linkowanego zestawu: w regularnej sprzedaży czy z zapowiedzianym wycofaniem (data z `wycofania.json`). Pilność tylko prawdziwa.
+4. **Linkujemy do `/zestaw/[nr]/`**, nigdy bezpośrednio do sklepu — hub setu ma tabelę cen i linki afiliacyjne, więc moc SEO i konwersja zostają u nas.
+5. Uzasadnienie musi być kolekcjonerskie (kompletność serii, wycofanie), nie sztuczna presja. Zapowiedź to nie deal — nie obiecujemy cen, których nie znamy.
+
+To nasz wyróżnik wobec fanklockow.pl: oni przy zapowiedziach mają wyłącznie opis, my dokładamy warstwę „co z tym zrobić dzisiaj".
 
 ## Dane strukturalne (mapa)
 

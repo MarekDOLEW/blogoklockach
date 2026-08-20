@@ -427,3 +427,20 @@ h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
 
 /* drobna nota (źródła, zastrzeżenia) na końcu artykułu */
 .prose .drobne { font-size: 0.84rem; color: var(--granat-60); border-top: 1px solid var(--linia); padding-top: 14px; margin-top: 2.2em; }
+
+/* ---------- Artykuł: ramka „skompletuj kolekcję" (blockquote w treści) ----------
+   Wyróżnia rekomendację zakupową obok zapowiedzi: żółta krawędź marki,
+   tło karty, wyraźniejszy pierwszy wiersz (tytuł ramki). */
+.prose blockquote {
+  margin: 1.6em 0;
+  padding: 16px 20px;
+  background: var(--karta);
+  border: 1px solid var(--linia);
+  border-left: 5px solid var(--zolty);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.prose blockquote > :first-child { margin-top: 0; }
+.prose blockquote > :last-child { margin-bottom: 0; }
+.prose blockquote strong:first-child { font-family: var(--font-display); font-size: 1.02rem; }
+.prose blockquote ul { margin-bottom: 0.6em; }
