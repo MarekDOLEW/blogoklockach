@@ -1,11 +1,11 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-18",
-    "przebieg": "scheduled 2026-08-19 popoludniowy",
+    "ostatnia_aktualizacja": "2026-08-20",
+    "przebieg": "scheduled 2026-08-20 poranny",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 27
+    "liczba_wpisow": 29
   },
   "publikacje": [
     {
@@ -289,6 +289,28 @@
       "notatki": "BASELINE (uzupelnienie 19.08). Kolejny sklep w porownywarce promoklocki. Kandydat do sprawdzenia przez agenta afiliacji, czy ma program partnerski (skoro promoklocki go linkuje, prawdopodobnie tak). Potwierdzona lista sklepow promoklocki rosnie: Media Expert, empik.com, FanKlockow, Klockowo.pl."
     },
     {
+      "serwis": "fanklockow.pl",
+      "tytul": "(Zbiorcze) zapowiedzi LEGO na rok 2027",
+      "url": "https://fanklockow.pl/zbiorcze-zapowiedzi-lego-na-rok-2027/",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-20",
+      "typ": "nowosc",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "HUB ROCZNY 2027 - blizniak huba 2026, potwierdza wzorzec architektury: hub bez daty w URL + artykuly per seria z data. Klaster 2027 jest DUZO szerszy niz widac na stronie glownej: Ninjago (20.07), City (23.07), Speed Champions (14.07), Marvel (14.07), Disney (07.08), ICONS (01.08), BrickLink Designer Program, Star Wars, Dragon Ball. Nasza przewaga: ich zapowiedzi nie maja cen za klocek ani tabel cen; my mamy huby setow z cenami. Do rozwazenia wlasny hub zapowiedzi 2027 linkujacy do /zestaw/[nr]/."
+    },
+    {
+      "serwis": "zklockow.pl",
+      "tytul": "Funkcja: alerty cenowe + sekcja Premiery LEGO (przedsprzedaz)",
+      "url": "https://zklockow.pl/premiery-lego",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-20",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "KOREKTA OBRAZU zklockow: serwis NIE jest tylko martwym blogiem z katalogiem. Ma sekcje Premiery LEGO (nadchodzace zestawy, przedsprzedaz) ORAZ alerty cenowe - powiadomienie, gdy dla zapowiedzianego setu pojawi sie pierwsza oferta lub pierwsza obnizka. To realna funkcja retencyjna, ktorej nie mamy. Bezposredni fetch nadal blokowany (HTTP 403), wykryte przez search."
+    },
+    {
       "serwis": "promoklocki.pl",
       "tytul": "Sekcja: Recenzje zestawow LEGO",
       "url": "https://promoklocki.pl/recenzje-zestawow-lego",
@@ -312,7 +334,7 @@
     }
   ],
   "obserwacje_strategiczne": {
-    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych').",
+    "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny.",
     "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord + WLASNY SKLEP fanklockow.sklep.pl (od II 2022, sety EOL/kolekcjonerskie, wysylka 24h, darmowa od 500 zl - wykryte 19.08 przez porownywarke promoklocki). Ich tresci o wycofaniach to lejek do wlasnego magazynu - w tematach EOL konkurujemy ze sprzedawca, nie tylko z blogerem. BRAK linkow sklepowych w artykulach nadal aktualny. 2026-08-17: warstwa evergreen spoza strony glownej - interaktywny kalendarz promocji i huby zapowiedzi per rok. Architektura SEO: hub -> artykuly per seria.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO).",
     "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
