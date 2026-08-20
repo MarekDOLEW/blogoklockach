@@ -1,202 +1,205 @@
 {
- "_meta": {
-  "opis": "Rejestr programow afiliacyjnych serwisu. Jedno zrodlo prawdy o tym, gdzie jestesmy zapisani, co czeka na akceptacje i co jest do zgloszenia.",
-  "format": "sklep -> {siec, status, prowizja, cookie_dni, format_linkow, feed, data, uwagi}",
-  "statusy": [
-   "do zgloszenia",
-   "wyslane",
-   "aktywny",
-   "odrzucony"
-  ],
-  "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
-  "zaktualizowano": "2026-08-19",
-  "konta_w_sieciach": {
-   "webePartners": "aktywne (Planeta Klockow)",
-   "Performers": "aktywne (Media Expert)",
-   "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Ceneo/MediaMarkt/RTV Euro - status do sprawdzenia w panelu.",
-   "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
-   "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
-   "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
-   "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
-   "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
-   "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
-   "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
+  "_meta": {
+    "opis": "Rejestr programow afiliacyjnych serwisu. Jedno zrodlo prawdy o tym, gdzie jestesmy zapisani, co czeka na akceptacje i co jest do zgloszenia.",
+    "format": "sklep -> {siec, status, prowizja, cookie_dni, format_linkow, feed, data, uwagi}",
+    "statusy": [
+      "do zgloszenia",
+      "wyslane",
+      "aktywny",
+      "odrzucony"
+    ],
+    "zasada": "Aktualizowac przy kazdej zmianie statusu (zgloszenie, akceptacja, odrzucenie, nowa stawka). Prowizje i cookie potwierdzac w panelu sieci po akceptacji - wartosci z katalogow bywaja nieaktualne.",
+    "zaktualizowano": "2026-08-20",
+    "konta_w_sieciach": {
+      "webePartners": "aktywne (Planeta Klockow)",
+      "Performers": "aktywne (Media Expert)",
+      "Tradedoubler": "konto aktywne; Empik ZAAKCEPTOWANY 2026-08-19 (p=289664, a=3494691). Ceneo/MediaMarkt/RTV Euro - status do sprawdzenia w panelu.",
+      "Allegro Affiliate": "aktywne od 2026-08-16 (konto zweryfikowane, kampanie do dolaczenia)",
+      "Adtraction": "kanal 'Tylko Klocki' (2103402418): Smyk PL AKTYWNY, Egmont.pl AKTYWNY (2026-08-19).",
+      "Admitad": "powierzchnia tylkoklocki.pl zweryfikowana 2026-08-17 (konto marek_dolewski88e9a). Allegro PL ODRZUCONE 2026-08-19 (mamy bezposrednio - bez straty). Cel: al.to PL, x-kom PL, Komputronik (feedy z cenami) + Takeads (dostep do LEGO.com i innych sieci).",
+      "netSalesMedia": "DO ROZWAZENIA: rejestracja wydawcy (netsalesmedia.pl) — natywna siec Smyka; bezposrednie partnerstwo daje deeplinki produktowe (trg=) i feed, tak dziala promoklocki.",
+      "Awin": "konto wydawcy ZAREJESTROWANE 2026-08-19; zgloszenie do Proshop PL wyslane, czeka na akceptacje.",
+      "Ceneo PP": "DO REJESTRACJI: wlasny program Ceneo, API od reki, cookie 90 dni (cena referencyjna).",
+      "BuyBox": "DO ROZWAZENIA: buybox.pl - male sklepy (dadada.pl)."
+    },
+    "zasoby": {
+      "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API.",
+      "tradedoubler_api": "api.tradedoubler.com/1.0/products.json - Products API. Token TD trzymac w zmiennej srodowiskowej TD_TOKEN (nie w repo). Skladnia matrix params (srednikami): ;page=N;pageSize=100;fid=<id>;q=<frazа>. Feedy Empiku: 52031/52029/49523. Limit 3 pobrania wersji feedu/24h. Uwaga: q= dziala jak OR i ignoruje numery - do dopasowania setow sie nie nadaje.",
+      "performers_api": "https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&api_key=<PERFORMERS_API_KEY>&Target=...&Method=... (HasOffers/TUNE). Dziala: Affiliate_Offer/findAll (kampanie, stawki), Affiliate_OfferFile/findAll (kreacje), Affiliate_Report (statystyki klikow i konwersji - do raportu Kontrolera). Katalogu produktow BRAK. Klucz trzymac w zmiennej srodowiskowej, nie w repo."
+    },
+    "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie.",
+    "decyzje": {
+      "wiersze_bez_ceny": "DECYZJA (Marek, 2026-08-20): wiersze 'Sprawdz cene' bez kwoty ZOSTAJA na tabelach cen (Smyk, Empik, x-kom itd.) - zawsze lepiej miec link niz nie miec. Nie ukrywac, nie wracac do tematu."
+    }
   },
-  "zasoby": {
-   "adtraction_api": "https://apidocs.adtraction.net/v3/ (i /v2/) - API Adtraction. Token: zmienna srodowiskowa ADTRACTION_TOKEN (naglowek X-Token). Dziala: partner/programs (statusy, prowizje), partner/programs/commissions/{programId}/{channelId}, partner/products (wyszukiwarka, wymaga keyword+page+pageSize), partner/products/feed i feedinfo/{programId}/{channelId}. Limity ~30 zapytan/min. Kontroler moze raportowac kliki/prowizje przez API.",
-   "tradedoubler_api": "api.tradedoubler.com/1.0/products.json - Products API. Token TD trzymac w zmiennej srodowiskowej TD_TOKEN (nie w repo). Skladnia matrix params (srednikami): ;page=N;pageSize=100;fid=<id>;q=<frazа>. Feedy Empiku: 52031/52029/49523. Limit 3 pobrania wersji feedu/24h. Uwaga: q= dziala jak OR i ignoruje numery - do dopasowania setow sie nie nadaje.",
-   "performers_api": "https://wld.api.hasoffers.com/Apiv3/json?NetworkId=wld&api_key=<PERFORMERS_API_KEY>&Target=...&Method=... (HasOffers/TUNE). Dziala: Affiliate_Offer/findAll (kampanie, stawki), Affiliate_OfferFile/findAll (kreacje), Affiliate_Report (statystyki klikow i konwersji - do raportu Kontrolera). Katalogu produktow BRAK. Klucz trzymac w zmiennej srodowiskowej, nie w repo."
+  "planetaklockow": {
+    "siec": "webePartners",
+    "status": "aktywny",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": "deeplink z panelu webePartners",
+    "feed": "feedy.json -> planetaklockow (dziala, zasila Lowce Promocji)",
+    "data": "2026-08-14",
+    "uwagi": "Pierwszy aktywny program. Prowizje/cookie do potwierdzenia w panelu."
   },
-  "plan_feedow": "Kolejnosc aplikowania wg researchu (materialy/feedy-lego-mapa-sieci.html, 2026-08-18): 1) Awin (Proshop PL: feed co godzine, cookie 30 dni, depozyt 5 GBP zwrotny), 2) Admitad Apply: al.to, x-kom, Allegro, Komputronik (feedy z linkami+SubID, cookie 24h - tresci dealowe; UWAGA: x-kom zakazuje automatycznych wtyczek porownujacych ceny - zapytac menedzera o widget), 3) webePartners (mamy), 4) Ceneo PP (API referencyjne min/max, cookie 90 dni, dostep od razu), 5) Tradedoubler (czekamy; feedy przez Products API, token SHA-1 z Account->Manage tokens, limit 3 pobrania/24h), 6) Performers: sprawdzic w panelu czy feed ME pelny, 7) Smyk: prosba do menedzera o feed. Zasady techniczne: dopasowanie ofert po EAN (numer setu regexem jako fallback), feedy do cache nie na zywo, data przy cenie."
- },
- "planetaklockow": {
-  "siec": "webePartners",
-  "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": "deeplink z panelu webePartners",
-  "feed": "feedy.json -> planetaklockow (dziala, zasila Lowce Promocji)",
-  "data": "2026-08-14",
-  "uwagi": "Pierwszy aktywny program. Prowizje/cookie do potwierdzenia w panelu."
- },
- "mediaexpert": {
-  "siec": "Performers (track.performers.tech)",
-  "status": "aktywny",
-  "prowizja": "2,00% CPS Last Click (potwierdzone przez API 2026-08-19, offer_id 1860)",
-  "cookie_dni": 30,
-  "format_linkow": "linki trackingowe Performers",
-  "feed": "feedy.json -> mediaexpert (dziala, ~600 MB, generowany 00:30)",
-  "data": "2026-08-14",
-  "uwagi": "Feed dziala, ale to PODZBIOR: zweryfikowane na pelnym pliku 599 MB (189 867 produktow, z tego tylko 753 unikalne zestawy LEGO; pokrywa 680 naszych podstron). Brak m.in. 10316 i 21348, przy obecnych 10315 i 10318 - czyli katalog jest recznie zawezony. DO ZALATWIENIA: mail do opiekuna Performers o pelna kategorie Zabawki > Klocki > LEGO. API Performers (HasOffers/TUNE, host wld.api.hasoffers.com, NetworkId=wld, klucz w env jako PERFORMERS_API_KEY) NIE udostepnia katalogu produktow - tylko kampanie, statystyki i pliki kreacji (19 banerow). UWAGA: mediaexpert.pl blokuje pobieranie zdjec przez Cloudflare Workers - zdjecia bierzemy z Rebrickable. Feed pobierac DO PLIKU (599 MB) - strumien z krotkim limitem czasu bywa uciety."
- },
- "allegro": {
-  "siec": "Allegro Affiliate (program wlasny)",
-  "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": "gotowe item_link z feedu (allegro.pl/affiliate?redirect_url=<cel z utm>); dla setow spoza feedu worker buduje link do listingu opakowany w allegro.pl/affiliate z utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372",
-  "feed": "feedy.json -> allegro (NDJSON, ~8500 ofert LEGO, ~7200 setow, 98% pokrycia podstron; gotowe linki afiliacyjne + ceny + zdjecia)",
-  "data": "2026-08-16",
-  "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy. UWAGA 2026-08-19: Admitad ODRZUCIL zgloszenie Allegro PL (\"reklamodawca nie jest zainteresowany\") - BEZ ZNACZENIA, bo mamy Allegro bezposrednio (wlasny program + feed). Nie ponawiac przez Admitad."
- },
- "empik": {
-  "siec": "Tradedoubler",
-  "status": "aktywny",
-  "prowizja": "do potwierdzenia w panelu (avg EPC 0,75 zł)",
-  "cookie_dni": 7,
-  "format_linkow": "deeplink: https://clk.tradedoubler.com/click?p=289664&a=3494691&url=<encoded URL empik.com> - PRZETESTOWANE 2026-08-19, cel zachowany. Impression tracker: imp.tradedoubler.com/imp?type(inv)g(0)p(289664)a(3494691)prod(0). SubID przez parametr epi=.",
-  "feed": "Tradedoubler Products API. Feedy Empiku: 52031 (dziecko/zabawki), 52029 (elektronika/gry), 49523 (all). Zwykly endpoint products.json pagina TYLKO do 1000 pozycji (blad PF_430) - do pelnego feedu sluzy productsUnlimited.json;fid=<ID>?token=<TD_TOKEN> (pierwsze wywolanie zwraca 202 i buduje plik, potem 302 -> pobierac z -L). WERYFIKACJA NA PELNYM PLIKU 2,5 GB (2026-08-19): feed NIE ZAWIERA zestawow LEGO - sprawdzone wprost na 10316, 21348, 76454, 60337 (0 trafien kazdy). To marketplace Empiku: gabloty, oplatki, organizery + MAGAZYNY LEGO (Ninjago/City/Minecraft, 23-30 zl). WNIOSEK OSTATECZNY: cen setow z Empiku nie bedzie; feed uzyteczny wylacznie do magazynow LEGO w prezentownikach.",
-  "data": "2026-08-19",
-  "uwagi": "AKTYWNY i PODPIETY 2026-08-19 (worker /idz/empik/<nr> -> wyszukiwarka Empiku w deeplinku TD; wiersz w tabeli cen). Warunki publikacji: Price comparison i Content DOZWOLONE (nasz model wprost OK), Paid Search zabroniony. Cancellation rate 12%, waluta PLN, cookie 7 dni. DO ZROBIENIA: feed produktowy przez Tradedoubler Products API (token SHA-1 z panelu TD: Account -> Manage tokens; limit 3 pobrania wersji feedu/24h) -> wtedy ceny Empiku w tabelach."
- },
- "ceneo": {
-  "siec": "Tradedoubler",
-  "status": "aktywny",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
-  "data": "2026-08-19",
-  "uwagi": "ZAAKCEPTOWANE 2026-08-19. DO USTALENIA ktora sciezka: (a) program Ceneo w Tradedoublerze (zgloszenie z 16.08) czy (b) wlasny Ceneo Partner Program z API. Potrzebne do wdrozenia: format linku trackingowego (przyklad z panelu) oraz - jesli PP - dane API (client_id/secret, OAuth2, partnerzyapi.ceneo.pl). Zastosowanie: cena referencyjna \"od X zl w N sklepach\" na podstronach setow (API zwraca min/max/koszyk i liczbe sklepow, NIE oferty per sklep) + wiersz Ceneo w tabeli cen. Cookie 90 dni - najdluzsze w calym miksie."
- },
- "mediamarkt": {
-  "siec": "Tradedoubler",
-  "status": "wyslane",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje."
- },
- "rtveuroagd": {
-  "siec": "Tradedoubler",
-  "status": "wyslane",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO."
- },
- "smyk": {
-  "siec": "Adtraction",
-  "status": "aktywny",
-  "prowizja": "2,10% CPS",
-  "cookie_dni": 45,
-  "format_linkow": "deeplink: https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=<zakodowany URL smyk.com>. Brand ID 2030748295, Brand AD ID 2030748298, kanal 2103402418. Zakaz: reklamy w wyszukiwarkach, subnetwork (nie dotyczy nas).",
-  "feed": null,
-  "data": "2026-08-18",
-  "uwagi": "AKTYWNY (Adtraction): tracking i cookie 45 dni dzialaja, landing zawsze strona glowna. DIAGNOZA 2026-08-19: tracker Smyka to netSalesMedia (marketing.tr.netsalesmedia.pl, advertiser i5534777); deeplink dziala przez parametr trg=<encoded URL> — POTWIERDZONE testem takze na naszej kampanii (amc=networks.cubegroup.455640.471233). Problem: Adtraction w handoffie do nsm zostawia j= puste i nie przekazuje trg — BUG integracji Adtraction<->nsm, zgloszony/do zgloszenia do support@adtraction.com. Promoklocki dowozi na produkt, bo jest BEZPOSREDNIM partnerem netSalesMedia (amc=pricecomp.cubegroup.375534...). PLAN B: rejestracja wydawcy bezposrednio w netSalesMedia (netsalesmedia.pl) -> program Smyk tam -> pelne deeplinki trg= i pewnie feed. NIE linkowac bezposrednio do nsm z kampania Adtraction (smc1 to click-id Adtraction; bez niego prowizja sie nie przypisze)."
- },
- "egmont": {
-  "siec": "Adtraction",
-  "status": "aktywny",
-  "prowizja": "6% CPS",
-  "cookie_dni": 30,
-  "format_linkow": "tracking: https://pin.egmont.pl/t/t?a=1408332992&as=2103402418&t=2&tk=1 (natywny tracking Adtraction, white-label). Feed zawiera GOTOWE TrackingUrl per produkt (z &url=<produkt> i cupa_sku) - deeplinki produktowe dzialaja.",
-  "feed": "https://adtraction.com/productfeed.htm?type=feed&format=XML&encoding=UTF8&epi=0&zip=0&cdelim=tab&tdelim=singlequote&sd=0&flat=0&apid=1408332989&asid=2103402418 (XML, ~5568 produktow, aktualizowany codziennie)",
-  "data": "2026-08-19",
-  "uwagi": "AKTYWNY 2026-08-19, programId 1408332989. UWAGA - weryfikacja zawartosci feedu: to KSIEGARNIA Egmont (komiksy i ksiazki: Star Wars, Batman/DC, Marvel), BEZ magazynow LEGO z minifigurkami (w feedzie tylko 2 pozycje \"Lego gratis\", niedostepne). Zastosowanie: linki do komiksow SW/Batman/HP jako dodatki w prezentownikach dla fanow (6% prowizji - najwyzsza stawka w miksie!) oraz prezenty \"okolo-klockowe\". NIE nadaje sie do tabel cen setow. Feed nie w feedy.json (brak mapowania na numery setow) - uzywac redakcyjnie, linki z pola TrackingUrl feedu."
- },
- "lego": {
-  "siec": "Rakuten Advertising",
-  "status": "do zgloszenia",
-  "prowizja": "ok. 3% (niska, ale pelna oferta ekskluzywow)",
-  "cookie_dni": 7,
-  "format_linkow": null,
-  "feed": null,
-  "data": null,
-  "uwagi": "Oficjalny program LEGO.com przez Rakuten (mid=50641) - promoklocki uzywa go z deeplinkami na karty produktow (click.linksynergy.com/deeplink?...&murl=lego.com/pl-pl/product/...), wiec program dziala w PL w praktyce. Research: katalog produktow przez SFTP (ciezki), sprawdzic tez agregator Dognet. Bonus: legalne oficjalne zdjecia. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
- },
- "alto": {
-  "siec": "SalesMasters (program wlasny grupy x-kom)",
-  "status": "aktywny",
-  "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
-  "cookie_dni": null,
-  "format_linkow": "dowolny URL x-kom.pl/al.to + sm=Y74rgdCO — kod UNIWERSALNY dla konta (potwierdzone testem 2026-08-16: dziala doklejony do kazdego adresu, takze w incognito).",
-  "feed": null,
-  "data": "2026-08-16",
-  "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Worker ma fallback /idz/xkom/<nr> -> wyszukiwarka x-kom z kodem (automatycznie pokrywa nowe sety); bezposrednie linki produktowe w redirects.json maja pierwszenstwo. Listy zakupow x-kom = wehikul na prezentowniki (jeden link, prowizja od zakupow z listy). Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu. DO SPRAWDZENIA po ~1 dniu: czy kliki widac w statystykach panelu."
- },
- "amazon": {
-  "siec": "Amazon Associates (amazon.pl)",
-  "status": "do zgloszenia",
-  "prowizja": null,
-  "cookie_dni": 1,
-  "format_linkow": null,
-  "feed": null,
-  "data": null,
-  "uwagi": "AKTUALIZACJA 2026-08: PA-API 5.0 WYLACZONE 15.05.2026 (403). Nastepca Creators API wymaga 10 kwalifikowanych sprzedazy w kroczacych 30 dniach. Wracac do tematu dopiero przy realnej sprzedazy z serwisu."
- },
- "zalando": {
-  "siec": "Awin",
-  "status": "do zgloszenia",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": null,
-  "feed": null,
-  "data": null,
-  "uwagi": "Zalando sprzedaje LEGO (glownie odziez/akcesoria + wybrane sety). Wymaga konta w Awin. Niski priorytet."
- },
- "proshop": {
-  "siec": "Awin",
-  "status": "wyslane",
-  "prowizja": "3%",
-  "cookie_dni": 30,
-  "format_linkow": null,
-  "feed": "Awin Create-a-Feed, odswiezany co godzine (155 tys. produktow)",
-  "data": "2026-08-19",
-  "uwagi": "Zgloszenie wyslane 2026-08-19 (konto Awin zarejestrowane). Po akceptacji: Create-a-Feed / productdata.awin.com (feed co godzine) -> feedy.json + deeplinki Awin. Cookie 30 dni - linkowac z tresci poradnikowych."
- },
- "komputronik": {
-  "siec": "Admitad (takze Convertiser - porownac)",
-  "status": "do zgloszenia",
-  "prowizja": null,
-  "cookie_dni": 1,
-  "format_linkow": null,
-  "feed": "Admitad Product Feeds (XML/CSV/GMerchant, linki+SubID, co 6h)",
-  "data": null,
-  "uwagi": "Sklep elektro z LEGO. Aplikowac w Admitad razem z al.to/x-kom/Allegro."
- },
- "erli": {
-  "siec": "Tradedoubler",
-  "status": "do zgloszenia",
-  "prowizja": null,
-  "cookie_dni": 60,
-  "format_linkow": null,
-  "feed": "Tradedoubler Products API",
-  "data": null,
-  "uwagi": "Marketplace z LEGO, najdluzsze cookie w TD (60 dni). Dodac przy nastepnym podejsciu do panelu TD."
- },
- "dadada": {
-  "siec": "BuyBox (go.buybox.click)",
-  "status": "do zgloszenia",
-  "prowizja": null,
-  "cookie_dni": null,
-  "format_linkow": "go.buybox.click/linkclick_<id>?url=<encoded>",
-  "feed": null,
-  "data": null,
-  "uwagi": "dadada.pl monetyzowane przez BuyBox (ustalone z linkow promoklocki). Rejestracja buybox.pl moze dac kilka malych sklepow naraz."
- }
+  "mediaexpert": {
+    "siec": "Performers (track.performers.tech)",
+    "status": "aktywny",
+    "prowizja": "2,00% CPS Last Click (potwierdzone przez API 2026-08-19, offer_id 1860)",
+    "cookie_dni": 30,
+    "format_linkow": "linki trackingowe Performers",
+    "feed": "feedy.json -> mediaexpert (dziala, ~600 MB, generowany 00:30)",
+    "data": "2026-08-14",
+    "uwagi": "Feed dziala, ale to PODZBIOR: zweryfikowane na pelnym pliku 599 MB (189 867 produktow, z tego tylko 753 unikalne zestawy LEGO; pokrywa 680 naszych podstron). Brak m.in. 10316 i 21348, przy obecnych 10315 i 10318 - czyli katalog jest recznie zawezony. DO ZALATWIENIA: mail do opiekuna Performers o pelna kategorie Zabawki > Klocki > LEGO. API Performers (HasOffers/TUNE, host wld.api.hasoffers.com, NetworkId=wld, klucz w env jako PERFORMERS_API_KEY) NIE udostepnia katalogu produktow - tylko kampanie, statystyki i pliki kreacji (19 banerow). UWAGA: mediaexpert.pl blokuje pobieranie zdjec przez Cloudflare Workers - zdjecia bierzemy z Rebrickable. Feed pobierac DO PLIKU (599 MB) - strumien z krotkim limitem czasu bywa uciety."
+  },
+  "allegro": {
+    "siec": "Allegro Affiliate (program wlasny)",
+    "status": "aktywny",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": "gotowe item_link z feedu (allegro.pl/affiliate?redirect_url=<cel z utm>); dla setow spoza feedu worker buduje link do listingu opakowany w allegro.pl/affiliate z utm_campaign=49250116-4827-4f0d-b2b2-f65993d0f372",
+    "feed": "feedy.json -> allegro (NDJSON, ~8500 ofert LEGO, ~7200 setow, 98% pokrycia podstron; gotowe linki afiliacyjne + ceny + zdjecia)",
+    "data": "2026-08-16",
+    "uwagi": "Konto aktywne, kampania dolaczona, feed LEGO podpiety 2026-08-17. Lowca Promocji zaciagnie go w najblizszym porannym przebiegu. Ceny Allegro pojawia sie w tabelach po pierwszym przebiegu Lowcy. UWAGA 2026-08-19: Admitad ODRZUCIL zgloszenie Allegro PL (\"reklamodawca nie jest zainteresowany\") - BEZ ZNACZENIA, bo mamy Allegro bezposrednio (wlasny program + feed). Nie ponawiac przez Admitad."
+  },
+  "empik": {
+    "siec": "Tradedoubler",
+    "status": "aktywny",
+    "prowizja": "do potwierdzenia w panelu (avg EPC 0,75 zł)",
+    "cookie_dni": 7,
+    "format_linkow": "deeplink: https://clk.tradedoubler.com/click?p=289664&a=3494691&url=<encoded URL empik.com> - PRZETESTOWANE 2026-08-19, cel zachowany. Impression tracker: imp.tradedoubler.com/imp?type(inv)g(0)p(289664)a(3494691)prod(0). SubID przez parametr epi=.",
+    "feed": "Tradedoubler Products API. Feedy Empiku: 52031 (dziecko/zabawki), 52029 (elektronika/gry), 49523 (all). Zwykly endpoint products.json pagina TYLKO do 1000 pozycji (blad PF_430) - do pelnego feedu sluzy productsUnlimited.json;fid=<ID>?token=<TD_TOKEN> (pierwsze wywolanie zwraca 202 i buduje plik, potem 302 -> pobierac z -L). WERYFIKACJA NA PELNYM PLIKU 2,5 GB (2026-08-19): feed NIE ZAWIERA zestawow LEGO - sprawdzone wprost na 10316, 21348, 76454, 60337 (0 trafien kazdy). To marketplace Empiku: gabloty, oplatki, organizery + MAGAZYNY LEGO (Ninjago/City/Minecraft, 23-30 zl). WNIOSEK OSTATECZNY: cen setow z Empiku nie bedzie; feed uzyteczny wylacznie do magazynow LEGO w prezentownikach.",
+    "data": "2026-08-19",
+    "uwagi": "AKTYWNY i PODPIETY 2026-08-19 (worker /idz/empik/<nr> -> wyszukiwarka Empiku w deeplinku TD; wiersz w tabeli cen). Warunki publikacji: Price comparison i Content DOZWOLONE (nasz model wprost OK), Paid Search zabroniony. Cancellation rate 12%, waluta PLN, cookie 7 dni. DO ZROBIENIA: feed produktowy przez Tradedoubler Products API (token SHA-1 z panelu TD: Account -> Manage tokens; limit 3 pobrania wersji feedu/24h) -> wtedy ceny Empiku w tabelach."
+  },
+  "ceneo": {
+    "siec": "Tradedoubler",
+    "status": "aktywny",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": null,
+    "feed": null,
+    "data": "2026-08-19",
+    "uwagi": "ZAAKCEPTOWANE 2026-08-19. DO USTALENIA ktora sciezka: (a) program Ceneo w Tradedoublerze (zgloszenie z 16.08) czy (b) wlasny Ceneo Partner Program z API. Potrzebne do wdrozenia: format linku trackingowego (przyklad z panelu) oraz - jesli PP - dane API (client_id/secret, OAuth2, partnerzyapi.ceneo.pl). Zastosowanie: cena referencyjna \"od X zl w N sklepach\" na podstronach setow (API zwraca min/max/koszyk i liczbe sklepow, NIE oferty per sklep) + wiersz Ceneo w tabeli cen. Cookie 90 dni - najdluzsze w calym miksie."
+  },
+  "mediamarkt": {
+    "siec": "Tradedoubler",
+    "status": "wyslane",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": null,
+    "feed": null,
+    "data": "2026-08-16",
+    "uwagi": "Sklep elektro z ofertami LEGO, czesto agresywne promocje."
+  },
+  "rtveuroagd": {
+    "siec": "Tradedoubler",
+    "status": "wyslane",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": null,
+    "feed": null,
+    "data": "2026-08-16",
+    "uwagi": "RTV Euro AGD - sklep elektro z ofertami LEGO."
+  },
+  "smyk": {
+    "siec": "Adtraction",
+    "status": "aktywny",
+    "prowizja": "2,10% CPS",
+    "cookie_dni": 45,
+    "format_linkow": "deeplink: https://go.adt256.com/t/t?a=2030748298&as=2103402418&t=2&tk=1&url=<zakodowany URL smyk.com>. Brand ID 2030748295, Brand AD ID 2030748298, kanal 2103402418. Zakaz: reklamy w wyszukiwarkach, subnetwork (nie dotyczy nas).",
+    "feed": null,
+    "data": "2026-08-18",
+    "uwagi": "AKTYWNY (Adtraction): tracking i cookie 45 dni dzialaja, landing zawsze strona glowna. DIAGNOZA 2026-08-19: tracker Smyka to netSalesMedia (marketing.tr.netsalesmedia.pl, advertiser i5534777); deeplink dziala przez parametr trg=<encoded URL> — POTWIERDZONE testem takze na naszej kampanii (amc=networks.cubegroup.455640.471233). Problem: Adtraction w handoffie do nsm zostawia j= puste i nie przekazuje trg — BUG integracji Adtraction<->nsm, zgloszony/do zgloszenia do support@adtraction.com. Promoklocki dowozi na produkt, bo jest BEZPOSREDNIM partnerem netSalesMedia (amc=pricecomp.cubegroup.375534...). PLAN B: rejestracja wydawcy bezposrednio w netSalesMedia (netsalesmedia.pl) -> program Smyk tam -> pelne deeplinki trg= i pewnie feed. NIE linkowac bezposrednio do nsm z kampania Adtraction (smc1 to click-id Adtraction; bez niego prowizja sie nie przypisze)."
+  },
+  "egmont": {
+    "siec": "Adtraction",
+    "status": "aktywny",
+    "prowizja": "6% CPS",
+    "cookie_dni": 30,
+    "format_linkow": "tracking: https://pin.egmont.pl/t/t?a=1408332992&as=2103402418&t=2&tk=1 (natywny tracking Adtraction, white-label). Feed zawiera GOTOWE TrackingUrl per produkt (z &url=<produkt> i cupa_sku) - deeplinki produktowe dzialaja.",
+    "feed": "https://adtraction.com/productfeed.htm?type=feed&format=XML&encoding=UTF8&epi=0&zip=0&cdelim=tab&tdelim=singlequote&sd=0&flat=0&apid=1408332989&asid=2103402418 (XML, ~5568 produktow, aktualizowany codziennie)",
+    "data": "2026-08-19",
+    "uwagi": "AKTYWNY 2026-08-19, programId 1408332989. UWAGA - weryfikacja zawartosci feedu: to KSIEGARNIA Egmont (komiksy i ksiazki: Star Wars, Batman/DC, Marvel), BEZ magazynow LEGO z minifigurkami (w feedzie tylko 2 pozycje \"Lego gratis\", niedostepne). Zastosowanie: linki do komiksow SW/Batman/HP jako dodatki w prezentownikach dla fanow (6% prowizji - najwyzsza stawka w miksie!) oraz prezenty \"okolo-klockowe\". NIE nadaje sie do tabel cen setow. Feed nie w feedy.json (brak mapowania na numery setow) - uzywac redakcyjnie, linki z pola TrackingUrl feedu."
+  },
+  "lego": {
+    "siec": "Rakuten Advertising",
+    "status": "do zgloszenia",
+    "prowizja": "ok. 3% (niska, ale pelna oferta ekskluzywow)",
+    "cookie_dni": 7,
+    "format_linkow": null,
+    "feed": null,
+    "data": null,
+    "uwagi": "Oficjalny program LEGO.com przez Rakuten (mid=50641) - promoklocki uzywa go z deeplinkami na karty produktow (click.linksynergy.com/deeplink?...&murl=lego.com/pl-pl/product/...), wiec program dziala w PL w praktyce. Research: katalog produktow przez SFTP (ciezki), sprawdzic tez agregator Dognet. Bonus: legalne oficjalne zdjecia. Obecnie linkujemy lego.com bez prowizji (worker /idz/lego/)."
+  },
+  "alto": {
+    "siec": "SalesMasters (program wlasny grupy x-kom)",
+    "status": "aktywny",
+    "prowizja": "standard al.to ok. 2%; kategorie 1-6%, akcje specjalne wiecej - stawke dla zabawek/klockow potwierdzic w panelu (salesmasters.x-kom.pl/prowizje)",
+    "cookie_dni": null,
+    "format_linkow": "dowolny URL x-kom.pl/al.to + sm=Y74rgdCO — kod UNIWERSALNY dla konta (potwierdzone testem 2026-08-16: dziala doklejony do kazdego adresu, takze w incognito).",
+    "feed": null,
+    "data": "2026-08-16",
+    "uwagi": "Konto aktywne, obejmuje x-kom.pl i al.to. Worker ma fallback /idz/xkom/<nr> -> wyszukiwarka x-kom z kodem (automatycznie pokrywa nowe sety); bezposrednie linki produktowe w redirects.json maja pierwszenstwo. Listy zakupow x-kom = wehikul na prezentowniki (jeden link, prowizja od zakupow z listy). Wyplata od 100 zl; polowa prowizji przy zakupie innego produktu. DO SPRAWDZENIA po ~1 dniu: czy kliki widac w statystykach panelu."
+  },
+  "amazon": {
+    "siec": "Amazon Associates (amazon.pl)",
+    "status": "do zgloszenia",
+    "prowizja": null,
+    "cookie_dni": 1,
+    "format_linkow": null,
+    "feed": null,
+    "data": null,
+    "uwagi": "AKTUALIZACJA 2026-08: PA-API 5.0 WYLACZONE 15.05.2026 (403). Nastepca Creators API wymaga 10 kwalifikowanych sprzedazy w kroczacych 30 dniach. Wracac do tematu dopiero przy realnej sprzedazy z serwisu."
+  },
+  "zalando": {
+    "siec": "Awin",
+    "status": "do zgloszenia",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": null,
+    "feed": null,
+    "data": null,
+    "uwagi": "Zalando sprzedaje LEGO (glownie odziez/akcesoria + wybrane sety). Wymaga konta w Awin. Niski priorytet."
+  },
+  "proshop": {
+    "siec": "Awin",
+    "status": "wyslane",
+    "prowizja": "3%",
+    "cookie_dni": 30,
+    "format_linkow": null,
+    "feed": "Awin Create-a-Feed, odswiezany co godzine (155 tys. produktow)",
+    "data": "2026-08-19",
+    "uwagi": "Zgloszenie wyslane 2026-08-19 (konto Awin zarejestrowane). Po akceptacji: Create-a-Feed / productdata.awin.com (feed co godzine) -> feedy.json + deeplinki Awin. Cookie 30 dni - linkowac z tresci poradnikowych."
+  },
+  "komputronik": {
+    "siec": "Admitad (takze Convertiser - porownac)",
+    "status": "do zgloszenia",
+    "prowizja": null,
+    "cookie_dni": 1,
+    "format_linkow": null,
+    "feed": "Admitad Product Feeds (XML/CSV/GMerchant, linki+SubID, co 6h)",
+    "data": null,
+    "uwagi": "Sklep elektro z LEGO. Aplikowac w Admitad razem z al.to/x-kom/Allegro."
+  },
+  "erli": {
+    "siec": "Tradedoubler",
+    "status": "do zgloszenia",
+    "prowizja": null,
+    "cookie_dni": 60,
+    "format_linkow": null,
+    "feed": "Tradedoubler Products API",
+    "data": null,
+    "uwagi": "Marketplace z LEGO, najdluzsze cookie w TD (60 dni). Dodac przy nastepnym podejsciu do panelu TD."
+  },
+  "dadada": {
+    "siec": "BuyBox (go.buybox.click)",
+    "status": "do zgloszenia",
+    "prowizja": null,
+    "cookie_dni": null,
+    "format_linkow": "go.buybox.click/linkclick_<id>?url=<encoded>",
+    "feed": null,
+    "data": null,
+    "uwagi": "dadada.pl monetyzowane przez BuyBox (ustalone z linkow promoklocki). Rejestracja buybox.pl moze dac kilka malych sklepow naraz."
+  }
 }
