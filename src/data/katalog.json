@@ -29,20 +29,10 @@
     "statusy_uwaga": "Status 'eol' oznacza koniec produkcji. Zestawy z biezacego rocznika oznaczaj 'dostepny', chyba ze LEGO faktycznie zakonczylo sprzedaz. Male sety 40xxx w liniach detalicznych (BrickHeadz, Seasonal, Creator itp.) to regularne produkty sklepowe. Wyjatek: gratisy GWP w liniach licencyjnych (Ideas/Icons/SW/HP/Technic 40xxx bez ofert w polskich sklepach), pakiety 66xxx i numery 6-7-cyfrowe moga byc 'eol' tuz po premierze, bo ich okna promocyjne szybko sie koncza. Poprawki statusow rocznika 2026: 2026-08-15.",
     "backfill_cen": {
       "data": "2026-08-20",
-      "uzupelnione_lacznie": 1212,
+      "uzupelnione_lacznie": 1332,
       "ostatnie_serie": [
-        "Botanicals",
-        "BrickHeadz",
-        "City",
-        "Creator",
-        "Friends",
-        "Harry Potter",
         "Icons",
-        "Ideas",
-        "Marvel",
-        "Ninjago",
-        "Star Wars",
-        "Technic"
+        "Star Wars"
       ]
     }
   },
@@ -861,224 +851,256 @@
       "nazwa": "Tower Bridge",
       "rok": 2010,
       "elementy": 4287,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "10218",
       "nazwa": "Pet Shop (modular)",
       "rok": 2011,
       "elementy": 2032,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "10224",
       "nazwa": "Town Hall (modular)",
       "rok": 2012,
       "elementy": 2766,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "10232",
       "nazwa": "Palace Cinema (modular)",
       "rok": 2013,
       "elementy": 2196,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 599.99
     },
     {
       "numer": "10234",
       "nazwa": "Opera w Sydney",
       "rok": 2013,
       "elementy": 2989,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "10242",
       "nazwa": "Mini Cooper",
       "rok": 2014,
       "elementy": 1077,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "10243",
       "nazwa": "Parisian Restaurant (modular)",
       "rok": 2014,
       "elementy": 2469,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 659.99
     },
     {
       "numer": "10246",
       "nazwa": "Detective's Office (modular)",
       "rok": 2015,
       "elementy": 2262,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "10248",
       "nazwa": "Ferrari F40",
       "rok": 2015,
       "elementy": 1158,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 399.99
     },
     {
       "numer": "10251",
       "nazwa": "Brick Bank (modular)",
       "rok": 2016,
       "elementy": 2380,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "10252",
       "nazwa": "Volkswagen Garbus",
       "rok": 2016,
       "elementy": 1167,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 419.99
     },
     {
       "numer": "10253",
       "nazwa": "Big Ben",
       "rok": 2016,
       "elementy": 4163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10255",
       "nazwa": "Assembly Square (modular)",
       "rok": 2017,
       "elementy": 4002,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1449.99
     },
     {
       "numer": "10256",
       "nazwa": "Tadż Mahal",
       "rok": 2017,
       "elementy": 5923,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1500.0
     },
     {
       "numer": "10257",
       "nazwa": "Karuzela",
       "rok": 2017,
       "elementy": 2670,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "10258",
       "nazwa": "Londyński autobus",
       "rok": 2017,
       "elementy": 1686,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 549.99
     },
     {
       "numer": "10260",
       "nazwa": "Downtown Diner (modular)",
       "rok": 2018,
       "elementy": 2480,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "10261",
       "nazwa": "Kolejka górska",
       "rok": 2018,
       "elementy": 4124,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1500.0
     },
     {
       "numer": "10262",
       "nazwa": "Aston Martin DB5 (James Bond)",
       "rok": 2018,
       "elementy": 1295,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 699.99
     },
     {
       "numer": "10264",
       "nazwa": "Corner Garage (modular)",
       "rok": 2019,
       "elementy": 2569,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 829.99
     },
     {
       "numer": "10265",
       "nazwa": "Ford Mustang",
       "rok": 2019,
       "elementy": 1471,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 799.99
     },
     {
       "numer": "10266",
       "nazwa": "Lądownik księżycowy Apollo 11 NASA",
       "rok": 2019,
       "elementy": 1087,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "10270",
       "nazwa": "Księgarnia (modular)",
       "rok": 2020,
       "elementy": 2504,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "10271",
       "nazwa": "Fiat 500",
       "rok": 2020,
       "elementy": 960,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 379.99
     },
     {
       "numer": "10272",
       "nazwa": "Old Trafford — Manchester United",
       "rok": 2020,
       "elementy": 3898,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1299.99
     },
     {
       "numer": "10273",
       "nazwa": "Dom strachu",
       "rok": 2020,
       "elementy": 3231,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1449.99
     },
     {
       "numer": "10274",
       "nazwa": "Ghostbusters ECTO-1",
       "rok": 2020,
       "elementy": 2352,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "10275",
       "nazwa": "Domek elfów",
       "rok": 2020,
       "elementy": 1197,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "10276",
       "nazwa": "Koloseum",
       "rok": 2020,
       "elementy": 9036,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2599.99
     },
     {
       "numer": "10277",
       "nazwa": "Lokomotywa Krokodyl",
       "rok": 2020,
       "elementy": 1271,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 449.99
     },
     {
       "numer": "10278",
       "nazwa": "Posterunek policji (modular)",
       "rok": 2021,
       "elementy": 2923,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "10279",
       "nazwa": "Volkswagen T2 Camper",
       "rok": 2021,
       "elementy": 2207,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 749.99
     },
     {
       "numer": "10280",
@@ -1101,42 +1123,48 @@
       "nazwa": "But adidas Originals Superstar",
       "rok": 2021,
       "elementy": 731,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "10282-2",
       "nazwa": "Adidas Originals Superstar X Footshop 'Blueprinting'",
       "rok": 2021,
       "elementy": 974,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10283",
       "nazwa": "Wahadłowiec Discovery NASA",
       "rok": 2021,
       "elementy": 2354,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "10284",
       "nazwa": "Camp Nou — FC Barcelona",
       "rok": 2021,
       "elementy": 5509,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1549.99
     },
     {
       "numer": "10289",
       "nazwa": "Strelicja królewska",
       "rok": 2021,
       "elementy": 1173,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "10290",
       "nazwa": "Pickup",
       "rok": 2021,
       "elementy": 1677,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 629.99
     },
     {
       "numer": "10291",
@@ -1151,21 +1179,24 @@
       "nazwa": "Mieszkania z serialu Przyjaciele",
       "rok": 2021,
       "elementy": 2048,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 849.99
     },
     {
       "numer": "10293",
       "nazwa": "Wizyta Świętego Mikołaja",
       "rok": 2021,
       "elementy": 1445,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "10294",
       "nazwa": "Titanic",
       "rok": 2021,
       "elementy": 9090,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2899.99
     },
     {
       "numer": "10295",
@@ -1180,14 +1211,16 @@
       "nazwa": "Zwycięstwo drużyny FC Barcelona",
       "rok": 2021,
       "elementy": 178,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "40486",
       "nazwa": "But adidas Originals Superstar",
       "rok": 2021,
       "elementy": 92,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "40516",
@@ -1202,21 +1235,24 @@
       "nazwa": "Butikowy hotel (modular)",
       "rok": 2022,
       "elementy": 3066,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10298",
       "nazwa": "Vespa 125",
       "rok": 2022,
       "elementy": 1106,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "10299",
       "nazwa": "Stadion Realu Madryt — Santiago Bernabéu",
       "rok": 2022,
       "elementy": 5876,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1899.99
     },
     {
       "numer": "10300",
@@ -1239,14 +1275,16 @@
       "nazwa": "Kolejka górska z pętlą",
       "rok": 2022,
       "elementy": 3756,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1699.99
     },
     {
       "numer": "10304",
       "nazwa": "Chevrolet Camaro Z28",
       "rok": 2022,
       "elementy": 1456,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 729.99
     },
     {
       "numer": "10305",
@@ -1261,7 +1299,8 @@
       "nazwa": "Atari 2600",
       "rok": 2022,
       "elementy": 2532,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "10307",
@@ -1276,7 +1315,8 @@
       "nazwa": "Świąteczna główna ulica",
       "rok": 2022,
       "elementy": 1514,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "10309",
@@ -1299,42 +1339,48 @@
       "nazwa": "Galaktyczny odkrywca",
       "rok": 2022,
       "elementy": 1254,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 479.99
     },
     {
       "numer": "40532",
       "nazwa": "Zabytkowa taksówka",
       "rok": 2022,
       "elementy": 163,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 69.99
     },
     {
       "numer": "40567",
       "nazwa": "Leśna kryjówka",
       "rok": 2022,
       "elementy": 258,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "40579",
       "nazwa": "Mieszkanie Eiffla",
       "rok": 2022,
       "elementy": 228,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 89.99
     },
     {
       "numer": "76989",
       "nazwa": "Horizon Forbidden West: Żyraf",
       "rok": 2022,
       "elementy": 1222,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 429.99
     },
     {
       "numer": "10312",
       "nazwa": "Klub jazzowy (modular)",
       "rok": 2023,
       "elementy": 2899,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10313",
@@ -1349,7 +1395,8 @@
       "nazwa": "Stroik z suszonych kwiatów",
       "rok": 2023,
       "elementy": 812,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 214.99
     },
     {
       "numer": "10315",
@@ -1364,14 +1411,16 @@
       "nazwa": "Władca Pierścieni: Rivendell",
       "rok": 2023,
       "elementy": 6167,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 2149.99
     },
     {
       "numer": "10317",
       "nazwa": "Land Rover Classic Defender 90",
       "rok": 2023,
       "elementy": 2336,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 1049.99
     },
     {
       "numer": "10318",
@@ -1386,14 +1435,16 @@
       "nazwa": "Twierdza Eldorado",
       "rok": 2023,
       "elementy": 2509,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 949.99
     },
     {
       "numer": "10321",
       "nazwa": "Chevrolet Corvette 1961",
       "rok": 2023,
       "elementy": 1210,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 649.99
     },
     {
       "numer": "10323",
@@ -1416,35 +1467,40 @@
       "nazwa": "Krążownik Blacktron",
       "rok": 2023,
       "elementy": 356,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "40581",
       "nazwa": "BIONICLE — Tahu i Takua",
       "rok": 2023,
       "elementy": 219,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 79.99
     },
     {
       "numer": "40586",
       "nazwa": "Ciężarówka do przeprowadzek",
       "rok": 2023,
       "elementy": 301,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "40601",
       "nazwa": "Magiczny warsztat Majisto",
       "rok": 2023,
       "elementy": 365,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 129.99
     },
     {
       "numer": "40646",
       "nazwa": "Żonkile",
       "rok": 2023,
       "elementy": 216,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 59.99
     },
     {
       "numer": "10326",
@@ -1499,7 +1555,8 @@
       "nazwa": "Średniowieczny plac miejski",
       "rok": 2024,
       "elementy": 3304,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 999.99
     },
     {
       "numer": "10333",
@@ -1546,7 +1603,8 @@
       "nazwa": "Poczta Świętego Mikołaja",
       "rok": 2024,
       "elementy": 1440,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "10340",
@@ -1593,35 +1651,40 @@
       "nazwa": "Radość z Pharrellem Williamsem",
       "rok": 2024,
       "elementy": 966,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 469.99
     },
     {
       "numer": "40681",
       "nazwa": "Food truck retro",
       "rok": 2024,
       "elementy": 310,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 114.99
     },
     {
       "numer": "40693",
       "nazwa": "Władca pierścieni: Skrzydlata bestia",
       "rok": 2024,
       "elementy": 269,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 134.99
     },
     {
       "numer": "40712",
       "nazwa": "Stanowisko startowe mikrorakiety",
       "rok": 2024,
       "elementy": 325,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 134.99
     },
     {
       "numer": "40729",
       "nazwa": "Szalupa Shackletona",
       "rok": 2024,
       "elementy": 232,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "10350",
@@ -1644,7 +1707,8 @@
       "nazwa": "The Simpsons: Krusty Burger",
       "rok": 2025,
       "elementy": 1635,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 869.99
     },
     {
       "numer": "10353",
@@ -1667,7 +1731,8 @@
       "nazwa": "Blacktron Renegade",
       "rok": 2025,
       "elementy": 1151,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 439.99
     },
     {
       "numer": "10356",
@@ -1714,7 +1779,8 @@
       "nazwa": "Świąteczny ekspres",
       "rok": 2025,
       "elementy": 956,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 539.99
     },
     {
       "numer": "10362",
@@ -1761,28 +1827,32 @@
       "nazwa": "Jak wytresować smoka: Szczerbatek",
       "rok": 2025,
       "elementy": 784,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 299.99
     },
     {
       "numer": "40757",
       "nazwa": "Kiosk na rogu",
       "rok": 2025,
       "elementy": 205,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "40761",
       "nazwa": "Władca pierścieni: Sméagol i Déagol",
       "rok": 2025,
       "elementy": 181,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "40768",
       "nazwa": "Star Trek: Type-15 Shuttlepod",
       "rok": 2025,
       "elementy": 261,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 119.99
     },
     {
       "numer": "11370",
@@ -1925,21 +1995,24 @@
       "nazwa": "Stranger Things: Stacja radiowa WSQK",
       "rok": 2026,
       "elementy": 234,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     },
     {
       "numer": "40893",
       "nazwa": "Grond",
       "rok": 2026,
       "elementy": 307,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 124.99
     },
     {
       "numer": "40913",
       "nazwa": "Zabytkowy samochód z parady",
       "rok": 2026,
       "elementy": 243,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": 109.99
     }
   ],
   "Harry Potter": [
@@ -3410,259 +3483,296 @@
       "nazwa": "Lightsaber Duel",
       "rok": 1999,
       "elementy": 52,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7110",
       "nazwa": "Landspeeder",
       "rok": 1999,
       "elementy": 49,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7111",
       "nazwa": "Droid Fighter",
       "rok": 1999,
       "elementy": 62,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7121",
       "nazwa": "Naboo Swamp",
       "rok": 1999,
       "elementy": 82,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7128",
       "nazwa": "Speeder Bikes",
       "rok": 1999,
       "elementy": 93,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7130",
       "nazwa": "Snowspeeder",
       "rok": 1999,
       "elementy": 215,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7131",
       "nazwa": "Anakin's Podracer",
       "rok": 1999,
       "elementy": 136,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7140",
       "nazwa": "X-wing Fighter",
       "rok": 1999,
       "elementy": 266,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7141",
       "nazwa": "Naboo Fighter",
       "rok": 1999,
       "elementy": 179,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7150",
       "nazwa": "TIE Fighter & Y-wing",
       "rok": 1999,
       "elementy": 409,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7151",
       "nazwa": "Sith Infiltrator",
       "rok": 1999,
       "elementy": 244,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7161",
       "nazwa": "Gungan Sub",
       "rok": 1999,
       "elementy": 379,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7171",
       "nazwa": "Mos Espa Podrace",
       "rok": 1999,
       "elementy": 896,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3340",
       "nazwa": "Star Wars #1 - Emperor Palpatine, Darth Maul and Darth Vader",
       "rok": 2000,
       "elementy": 32,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3341",
       "nazwa": "Star Wars #2 - Luke Skywalker, Han Solo and Boba Fett",
       "rok": 2000,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3342",
       "nazwa": "Star Wars #3 - Chewbacca and 2 Biker Scouts",
       "rok": 2000,
       "elementy": 22,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "3343",
       "nazwa": "Star Wars #4 - Battle Droid Commander and 2 Battle Droids",
       "rok": 2000,
       "elementy": 30,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7104",
       "nazwa": "Desert Skiff",
       "rok": 2000,
       "elementy": 55,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7115",
       "nazwa": "Gungan Patrol",
       "rok": 2000,
       "elementy": 77,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7124",
       "nazwa": "Flash Speeder",
       "rok": 2000,
       "elementy": 106,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7134",
       "nazwa": "A-wing Fighter",
       "rok": 2000,
       "elementy": 125,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7144",
       "nazwa": "Slave I",
       "rok": 2000,
       "elementy": 166,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7155",
       "nazwa": "Trade Federation AAT",
       "rok": 2000,
       "elementy": 158,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7159",
       "nazwa": "Star Wars Podracing Bucket",
       "rok": 2000,
       "elementy": 292,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7180",
       "nazwa": "B-wing at Rebel Control Centre",
       "rok": 2000,
       "elementy": 338,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7181",
       "nazwa": "TIE Interceptor",
       "rok": 2000,
       "elementy": 703,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7184",
       "nazwa": "Trade Federation MTT",
       "rok": 2000,
       "elementy": 470,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7190",
       "nazwa": "Millennium Falcon",
       "rok": 2000,
       "elementy": 663,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7191",
       "nazwa": "X-wing Fighter",
       "rok": 2000,
       "elementy": 1300,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8000",
       "nazwa": "Pit Droid",
       "rok": 2000,
       "elementy": 223,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8001",
       "nazwa": "Battle Droid",
       "rok": 2000,
       "elementy": 363,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "8002",
       "nazwa": "Destroyer Droid",
       "rok": 2000,
       "elementy": 558,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10018",
       "nazwa": "Darth Maul",
       "rok": 2001,
       "elementy": 1868,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "10019",
       "nazwa": "Rebel Blockade Runner",
       "rok": 2001,
       "elementy": 1747,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7106",
       "nazwa": "Droid Escape",
       "rok": 2001,
       "elementy": 45,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7126",
       "nazwa": "Battle Droid Carrier",
       "rok": 2001,
       "elementy": 133,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7127",
       "nazwa": "Imperial AT-ST",
       "rok": 2001,
       "elementy": 107,
-      "status": "eol"
+      "status": "eol",
+      "cena_katalogowa": null
     },
     {
       "numer": "7146",
