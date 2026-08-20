@@ -4,8 +4,14 @@
     "ostatnia_aktualizacja": "2026-08-20",
     "przebieg": "scheduled 2026-08-20 popoludniowy",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
-    "monitorowane_serwisy": ["fanklockow.pl", "faniklockow.pl", "zklockow.pl", "promoklocki.pl"],
-    "liczba_wpisow": 33
+    "monitorowane_serwisy": [
+      "fanklockow.pl",
+      "faniklockow.pl",
+      "zklockow.pl",
+      "promoklocki.pl",
+      "klockoradar.pl"
+    ],
+    "liczba_wpisow": 34
   },
   "publikacje": [
     {
@@ -62,7 +68,9 @@
       "data_wykrycia": "2026-08-16",
       "typ": "poradnik",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["afiliacja ogolna"],
+      "sklepy_linkowane": [
+        "afiliacja ogolna"
+      ],
       "notatki": "Evergreen SEO, kalendarze miesieczne, 20+ eventow archiwalnych. Niski potencjal afiliacyjny, wysoki koszt utrzymania."
     },
     {
@@ -84,7 +92,9 @@
       "data_wykrycia": "2026-08-16",
       "typ": "deal",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": ["LEGO.com"],
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
       "notatki": "KLUCZOWE: gratis 40908 World Restaurants Greece (prog 745 zl, 11-20.08.2026), 40901 Ministry Snacks and Stalls (prog 525 zl HP, 29.08-06.09), 501172 Ministry of Magic Phone Booth (do 76476, 29.08-06.09). Format narracyjny, BEZ tabeli. Linkuja WYLACZNIE LEGO.com."
     },
     {
@@ -119,7 +129,14 @@
       "data_wykrycia": "2026-08-16",
       "typ": "poradnik",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": ["Allegro", "Empik", "Smyk", "Amazon.pl", "Media Expert", "LEGO.com"],
+      "sklepy_linkowane": [
+        "Allegro",
+        "Empik",
+        "Smyk",
+        "Amazon.pl",
+        "Media Expert",
+        "LEGO.com"
+      ],
       "notatki": "Najwyzszy potencjal zakupowy z calej puli - 'ostatnia szansa na zakup' konwertuje bardzo dobrze. 17.08: REPUBLIKACJA pod nowym URL-em z data 2026/08/17 (taktyka swiezosci SEO). Dodane sety P26: BrickHeadz Stranger Things 40879/40881, Transformers 40924, City 60482/60490/60491, Disney 43284/43285/43291/43303, Friends 42677-42699 (wybrane), Creator 31378; wyprzedaz m.in. Banku Gringotta. UWAGA: artykul linkuje juz afiliacyjnie Allegro, Empik, Smyk, Amazon.pl i Media Expert - teza 'faniklockow linkuje wylacznie LEGO.com' NIEAKTUALNA. 19.08: kolejna republikacja (URL 2026/08/19, trzeci adres tego samego tekstu; kadencja co ~2 dni), zmiana: 42130, 75325 i 76453 oznaczone jako wyprzedane (nasze /wycofania/ mialy je wczesniej)."
     },
     {
@@ -130,7 +147,10 @@
       "data_wykrycia": "2026-08-16",
       "typ": "nowosc",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["LEGO.com", "Amazon (wzmianka)"],
+      "sklepy_linkowane": [
+        "LEGO.com",
+        "Amazon (wzmianka)"
+      ],
       "notatki": "Zestawy 31396-31411, premiera I 2027: 31396 Magiczna syrenka (81,99 zl), 31397 Pudelko bento (124,99 zl), 31398 Superrobot mech, polybagi 16,49 zl. Brak liczby elementow, brak ceny za klocek, brak porownania sklepow. Wpis z 11.08 pominiety w porannym skanie."
     },
     {
@@ -174,7 +194,10 @@
       "data_wykrycia": "2026-08-16",
       "typ": "produkt",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["Media Expert", "empik.com"],
+      "sklepy_linkowane": [
+        "Media Expert",
+        "empik.com"
+      ],
       "notatki": "BASELINE pierwszego monitoringu strukturalnego. Aplikacja mobilna z powiadomieniami o okazjach = wysoki koszt odtworzenia, nie konkurujemy funkcja tylko contentem. Potwierdzone dedykowane podstrony sklepow: /sklep-media-expert, /sklep-empik-com (pelna lista sklepow niedostepna - serwis blokuje fetch, HTTP 403)."
     },
     {
@@ -208,7 +231,11 @@
       "data_wykrycia": "2026-08-17",
       "typ": "deal",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": ["LEGO.pl", "Brodaty Geek (filtr)", "Ciocia od klockow (filtr)"],
+      "sklepy_linkowane": [
+        "LEGO.pl",
+        "Brodaty Geek (filtr)",
+        "Ciocia od klockow (filtr)"
+      ],
       "notatki": "INTERAKTYWNY kalendarz promocji z filtrami (zakres dat, typ eventu, lokalizacja): Batman Day 19.09, Halloween GwP X, Insiders Weekend podwojne punkty XI, promocje swiateczne XII - oznaczone jako niepotwierdzone. BEZ progow kwotowych, BEZ linkow sklepowych, BEZ porownania cen. Aktualizowany na biezaco (PokeStop). Wpis spoza strony glownej - wykryty przez search. Sygnal: fanklockow inwestuje w funkcje interaktywne, nie tylko teksty."
     },
     {
@@ -241,7 +268,9 @@
       "data_wykrycia": "2026-08-18",
       "typ": "nowosc",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": ["LEGO.com"],
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
       "notatki": "76355: 2269 el., 899,99 zl (0,40 zl/klocek), premiera 1.09 (Insiders) / 4.09 (wszyscy). Bez ceny za klocek i porownania sklepow. Idealny timing pod Batman Day 19.09 - nasz hub /zestaw/76355/ istnial PRZED ich artykulem, uzupelniono mu cene i elementy 18.08."
     },
     {
@@ -274,7 +303,9 @@
       "data_wykrycia": "2026-08-19",
       "typ": "produkt",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["FanKlockow (sklep)"],
+      "sklepy_linkowane": [
+        "FanKlockow (sklep)"
+      ],
       "notatki": "BASELINE (uzupelnienie 19.08). Promoklocki porownuje ceny sklepu fanklockow.sklep.pl (podstrony per seria, np. /sklep-fanklockow/lego-city-c3). KLUCZOWE ODKRYCIE: fanklockow.pl prowadzi od II 2022 WLASNY SKLEP z setami wycofanymi/kolekcjonerskimi (wysylka 24h, darmowa od 500 zl) - ich content o EOL to lejek do wlasnego magazynu."
     },
     {
@@ -285,7 +316,9 @@
       "data_wykrycia": "2026-08-19",
       "typ": "produkt",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["Klockowo.pl"],
+      "sklepy_linkowane": [
+        "Klockowo.pl"
+      ],
       "notatki": "BASELINE (uzupelnienie 19.08). Kolejny sklep w porownywarce promoklocki. Kandydat do sprawdzenia przez agenta afiliacji, czy ma program partnerski (skoro promoklocki go linkuje, prawdopodobnie tak). Potwierdzona lista sklepow promoklocki rosnie: Media Expert, empik.com, FanKlockow, Klockowo.pl."
     },
     {
@@ -329,7 +362,9 @@
       "data_wykrycia": "2026-08-19",
       "typ": "produkt",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["LEGO.com"],
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
       "notatki": "BASELINE (uzupelnienie 19.08, popoludnie). Widok setow aktualnie najtaniej w oficjalnym sklepie LEGO - narzedziowa odpowiedz na pytanie 'czy warto kupic teraz na lego.com'. Nasz odpowiednik czesciowo istnieje (tabele cen na hubach setow); nie budujemy osobnego widoku, chyba ze GSC pokaze popyt."
     },
     {
@@ -351,7 +386,9 @@
       "data_wykrycia": "2026-08-20",
       "typ": "nowosc",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["LEGO.com"],
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
       "notatki": "Format niszowy: comiesieczne nowosci w Pick a Brick (pojedyncze elementy z lego.com). Zerowy potencjal afiliacyjny poza LEGO.com, ale buduje lojalnosc AFOL. Nie kopiujemy."
     },
     {
@@ -362,7 +399,9 @@
       "data_wykrycia": "2026-08-20",
       "typ": "poradnik",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["LEGO.com"],
+      "sklepy_linkowane": [
+        "LEGO.com"
+      ],
       "notatki": "Cykliczny format poradnikowy o biezacej ofercie LEGO.pl (np. 'X-Files i Pokemony od 1.08.2026'). Kolejny dowod, ze fanklockow ma szersza siatke formatow, niz widac na stronie glownej."
     },
     {
@@ -373,16 +412,31 @@
       "data_wykrycia": "2026-08-20",
       "typ": "produkt",
       "ocena": "NOTUJEMY",
-      "sklepy_linkowane": ["Allegro", "Smyk.com", "x-kom.pl"],
+      "sklepy_linkowane": [
+        "Allegro",
+        "Smyk.com",
+        "x-kom.pl"
+      ],
       "notatki": "SYGNAL AFILIACYJNY: potwierdzone dedykowane podstrony sklepow Allegro (/sklep-allegro), Smyk (/sklep-smyk-com) i x-kom (/sklep-x-kom-pl). Pelna znana lista promoklocki: Media Expert, empik.com, FanKlockow, Klockowo.pl, Allegro, Smyk.com, x-kom.pl. Wszystkie trzy nowe pokrywaja sie z naszym rejestrem afiliacji (Allegro aktywny, Smyk przez Adtraction, x-kom w toku w Admitad) - potwierdza sensownosc miksu."
+    },
+    {
+      "serwis": "klockoradar.pl",
+      "tytul": "Porownywarka cen LEGO: 50+ sklepow, alerty i historia cen",
+      "url": "https://klockoradar.pl/",
+      "data_publikacji": null,
+      "data_wykrycia": "2026-08-20",
+      "typ": "produkt",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "NOWY GRACZ nieznany dotad radarowi, wykryty 20.08 przy weryfikacji tezy o porownywaniu cen. Deklaruje 50+ sklepow, alerty cenowe i historie cen - czyli wiecej zrodel cenowych, niz mamy my. Dodac do stalego monitoringu."
     }
   ],
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny.",
     "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord + WLASNY SKLEP fanklockow.sklep.pl (od II 2022, sety EOL/kolekcjonerskie, wysylka 24h, darmowa od 500 zl - wykryte 19.08 przez porownywarke promoklocki). Ich tresci o wycofaniach to lejek do wlasnego magazynu - w tematach EOL konkurujemy ze sprzedawca, nie tylko z blogerem. BRAK linkow sklepowych w artykulach nadal aktualny. 2026-08-17: warstwa evergreen spoza strony glownej - interaktywny kalendarz promocji i huby zapowiedzi per rok. Architektura SEO: hub -> artykuly per seria. 2026-08-20: wykryto kolejne formaty spoza strony glownej - regularne zestawienia ofert (odpowiednik naszego Lowcy), miniPoradniki LEGO.pl i nowosci Pick a Brick. Serwis blokuje fetch (403), monitoring wylacznie przez search.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO).",
-    "wspolna_slabosc": "Zaden z trzech serwisow contentowych nie podaje ceny za klocek ani nie porownuje cen miedzy sklepami (Media Expert, Empik, al.to, Amazon, Allegro). To nasza glowna przewaga do egzekucji.",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
-    "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne."
+    "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
+    "KOREKTA_2026-08-20_brak_wyroznika": "SPROSTOWANIE tezy powtarzanej od 16.08 ('zaden serwis nie porownuje cen miedzy sklepami ani nie podaje ceny za klocek'). Teza byla FALSZYWA i wpisano ja bledna do architektury SEO oraz raportow. Stan faktyczny na 20.08: (1) porownanie cen miedzy sklepami maja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepow) - to ich podstawowa funkcja; (2) cene za element ma promoklocki (sortowanie 'cena/el.'); (3) historie cen maja promoklocki i klockoradar; (4) alerty cenowe maja zklockow, promoklocki (aplikacja) i klockoradar; (5) afiliacje wielosklepowa ma faniklockow (5 sklepow), a fanklockow prowadzi wlasny sklep i regularne zestawienia ofert. WNIOSEK: na 20.08.2026 tylkoklocki.pl NIE MA zadnej funkcji ani formatu, ktorego nie ma juz ktos inny - mamy 9 artykulow wobec 3-6 publikacji dziennie u blogow i mniej zrodel cenowych niz porownywarki. Kazda przyszla teza o przewadze musi byc zweryfikowana na zywym serwisie konkurencji PRZED wpisaniem jej do dokumentow."
   }
 }

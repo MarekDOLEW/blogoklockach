@@ -1,6 +1,6 @@
 # Architektura SEO tylkoklocki.pl — model pillar–cluster
 
-Stan: 2026-08-17. Obowiązuje wszystkich agentów tworzących treści (redaktor, scout, łowca, radar).
+Stan: 2026-08-20. Obowiązuje wszystkich agentów tworzących treści (redaktor, scout, łowca, radar).
 
 ## Skąd ten model
 
@@ -18,7 +18,9 @@ fanklockow.pl buduje widoczność architekturą: **hub evergreen → artykuły p
 | Prezentowniki | `/prezentowniki/` | prezentowniki per wiek/budżet (do zbudowania IX–X) | ⚠️ hub bez klastrów |
 | Black Friday | `/black-friday-lego/` | deale BF, kalendarz promocji | ❌ zbudować ~15.10 |
 
-**Czym bijemy fanklockow**: (1) nasze huby mają dane transakcyjne — tabele cen, cena za klocek, linki afiliacyjne, których u nich nie ma; (2) pełne dane strukturalne (oni nie mają Product/Offer); (3) brak banerów = szybkość = Core Web Vitals.
+> **SPROSTOWANIE 2026-08-20.** Do tej pory stało tu zdanie, że bijemy konkurencję tabelami cen i ceną za klocek, „których u nich nie ma". **To była nieprawda.** Ceny z wielu sklepów to podstawowa funkcja promoklocki.pl, zklockow.pl i klockoradar.pl (deklaruje 50+ sklepów); promoklocki liczy też cenę za element i prowadzi historię cen; alerty cenowe mają trzy serwisy; faniklockow linkuje afiliacyjnie pięć sklepów, a fanklockow ma własny sklep i cykliczne zestawienia ofert.
+>
+> **Stan faktyczny: nie mamy dziś żadnej funkcji ani formatu, którego nie ma już ktoś inny.** Mamy 9 artykułów wobec 3–6 publikacji dziennie u blogów i mniej źródeł cenowych niż porównywarki. Wyróżnik trzeba dopiero zbudować — i zanim wpiszemy tu kolejną tezę o przewadze, musi być zweryfikowana na żywym serwisie konkurencji, nie założona.
 
 ## Reguły linkowania wewnętrznego (egzekwowane przy każdym tekście)
 
@@ -38,7 +40,7 @@ Wzorzec wprowadzony 2026-08-20 na `/zapowiedzi-lego-2027/`, do powielenia w kole
 4. **Linkujemy do `/zestaw/[nr]/`**, nigdy bezpośrednio do sklepu — hub setu ma tabelę cen i linki afiliacyjne, więc moc SEO i konwersja zostają u nas.
 5. Uzasadnienie musi być kolekcjonerskie (kompletność serii, wycofanie), nie sztuczna presja. Zapowiedź to nie deal — nie obiecujemy cen, których nie znamy.
 
-To nasz wyróżnik wobec fanklockow.pl: oni przy zapowiedziach mają wyłącznie opis, my dokładamy warstwę „co z tym zrobić dzisiaj".
+Uwaga: to nie jest trwały wyróżnik, tylko format, którego konkurencja **na dziś** nie stosuje przy zapowiedziach — łatwy do skopiowania. Traktujemy go jako przewagę tygodni, nie lat.
 
 ## Dane strukturalne (mapa)
 
