@@ -101,12 +101,31 @@ bez linku sklepu) — zanotuj to i przekaż Markowi zamiast zmieniać samodzieln
 
 ## Praca z gitem
 
-1. Przed rozpoczęciem pracy: `git pull origin main`.
-2. Pracuj na plikach w swoim obszarze: `redakcja/`, `src/pages/artykuly/`.
-3. Commit z opisem po polsku, np. `Artykuł: recenzja LEGO 10353`.
-4. `git push origin main` (przy konflikcie: `git pull --rebase origin main`
-   i push ponownie).
-5. Po ~2 minutach sprawdź artykuł na żywo na tylkoklocki.pl.
+### Faza startowa — publikacja przez pull request (pierwsze 2–3 artykuły)
 
-W Claude Code wystarczy poprosić: „opublikuj artykuł" — Claude wykona
-kroki gita samodzielnie.
+Na początku współpracy artykuły nie idą prosto na żywo, tylko przez
+pull request, żeby Marek widział zmiany przed publikacją i żebyście
+dotarli proces:
+
+1. Przed rozpoczęciem pracy: `git pull origin main`.
+2. Utwórz gałąź roboczą: `git checkout -b artykul/<slug>`,
+   np. `artykul/lego-10353-recenzja`.
+3. Pracuj na plikach w swoim obszarze: `redakcja/`, `src/pages/artykuly/`.
+4. Commit z opisem po polsku, np. `Artykuł: recenzja LEGO 10353`.
+5. `git push -u origin artykul/<slug>`, a następnie otwórz pull request
+   do gałęzi `main` (na GitHubie przycisk „Compare & pull request").
+6. Marek przegląda i scala PR — dopiero wtedy artykuł trafia na żywo
+   (deploy ~2 minuty po scaleniu).
+
+W Claude Code wystarczy poprosić: „opublikuj artykuł przez pull request" —
+Claude wykona wszystkie kroki samodzielnie i poda link do PR.
+
+### Docelowo — bezpośrednie publikowanie
+
+Po dotarciu procesu (decyzja Marka) przechodzisz na push prosto na `main`:
+
+1. `git pull origin main` przed pracą.
+2. Zmiany w swoim obszarze, commit po polsku.
+3. `git push origin main` (przy konflikcie: `git pull --rebase origin main`
+   i push ponownie).
+4. Po ~2 minutach artykuł jest na żywo na tylkoklocki.pl.
