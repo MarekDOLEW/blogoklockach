@@ -1,8 +1,8 @@
 {
   "_meta": {
     "opis": "Baza znanych publikacji konkurencji - Radar Konkurencji (blog o klockach LEGO)",
-    "ostatnia_aktualizacja": "2026-08-20",
-    "przebieg": "scheduled 2026-08-20 popoludniowy",
+    "ostatnia_aktualizacja": "2026-08-21",
+    "przebieg": "scheduled 2026-08-21 poranny",
     "uwaga": "UWAGA: ten przebieg NIE mial dostepu do poprzedniej wersji pliku (folder Cowork 'blogoklockach' nie jest osiagalny z zadania cyklicznego). Plik zostal odbudowany od zera na podstawie biezacego skanu. Przy nastepnym recznym uruchomieniu scal go z poprzednia wersja, jesli zawierala starsze wpisy.",
     "monitorowane_serwisy": [
       "fanklockow.pl",
@@ -11,7 +11,8 @@
       "promoklocki.pl",
       "klockoradar.pl"
     ],
-    "liczba_wpisow": 34
+    "liczba_wpisow": 38,
+    "dostep": "fanklockow.pl i promoklocki.pl zwracaja 403 na WebFetch. OBEJSCIE (od 2026-08-21): curl -A '<UA przegladarki>' https://fanklockow.pl/feed/ - kanal RSS przechodzi i daje pelna liste publikacji z datami. Strona glowna fanklockow pokazuje tylko wycinek wpisow, wiec RSS jest jedynym rzetelnym zrodlem ich kadencji."
   },
   "publikacje": [
     {
@@ -370,13 +371,20 @@
     {
       "serwis": "fanklockow.pl",
       "tytul": "(Seria) Najlepsze oferty na LEGO - [data dzienna]",
-      "url": "https://fanklockow.pl/",
+      "url": "https://fanklockow.pl/najlepsze-oferty-na-lego-3-sierpnia-2026/",
       "data_publikacji": null,
       "data_wykrycia": "2026-08-20",
       "typ": "deal",
       "ocena": "PRZEBIJAMY",
-      "sklepy_linkowane": [],
-      "notatki": "ODKRYCIE: fanklockow prowadzi REGULARNA serie zestawien ofert ('Najlepsze oferty na LEGO - 4 sierpnia 2026'), czyli bezposredni odpowiednik naszego Lowcy Promocji. Wczesniej zakladalismy, ze robia tylko newsy i zapowiedzi. Tresci nie udalo sie zweryfikowac bezposrednio (serwis zwraca 403 na fetch, wykryte przez search) - do potwierdzenia przy nastepnym przebiegu: czy podaja tabele cen, cene za klocek i linki afiliacyjne."
+      "sklepy_linkowane": [
+        "Amazon.pl",
+        "Allegro",
+        "Media Expert",
+        "Smyk",
+        "Empik",
+        "LEGO.pl"
+      ],
+      "notatki": "ZWERYFIKOWANE 21.08 (przez curl z UA przegladarki - WebFetch dostaje 403). Codzienny wpis dealowy. Linki afiliacyjne do 5 sklepow: Amazon (27 linkow), Allegro (16), Media Expert (5), Smyk (4), Empik (2). BRAK tabel (0 znacznikow <table>) - uklad listowy pogrupowany po sklepach i seriach, z legenda oznaczen (ogien = goraca oferta). Maja powiadomienia push. TAKTYKA URL: tytul '20 sierpnia' stoi pod slugiem '...-3-sierpnia-2026' - JEDEN adres aktualizowany codziennie, czyli kumuluja moc SEO zamiast rozpraszac ja po republikacjach (odwrotnie niz faniklockow). WNIOSEK dla nas: przewaga 'my mamy tabele, oni nie' jest kosmetyczna; realna roznica moze byc tylko w doborze i uzasadnieniu, nie w formie."
     },
     {
       "serwis": "fanklockow.pl",
@@ -394,8 +402,8 @@
     {
       "serwis": "fanklockow.pl",
       "tytul": "(Seria) miniPoradnik LEGO.pl",
-      "url": "https://fanklockow.pl/",
-      "data_publikacji": null,
+      "url": "https://fanklockow.pl/miniporadnik-lego-pl-grecka-tawerna-i-dzien-insiders/",
+      "data_publikacji": "2026-08-20",
       "data_wykrycia": "2026-08-20",
       "typ": "poradnik",
       "ocena": "NOTUJEMY",
@@ -429,11 +437,55 @@
       "ocena": "NOTUJEMY",
       "sklepy_linkowane": [],
       "notatki": "NOWY GRACZ nieznany dotad radarowi, wykryty 20.08 przy weryfikacji tezy o porownywaniu cen. Deklaruje 50+ sklepow, alerty cenowe i historie cen - czyli wiecej zrodel cenowych, niz mamy my. Dodac do stalego monitoringu."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Wycofania LEGO (EOL) 2026 - informacje biezace",
+      "url": "https://fanklockow.pl/wycofania-lego-eol-2026-informacje-biezace/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-21",
+      "typ": "poradnik",
+      "ocena": "PRZEBIJAMY",
+      "sklepy_linkowane": [],
+      "notatki": "Hub EOL aktualizowany na biezaco - bezposrednia konkurencja dla naszego /wycofania/. Trzeci gracz w tym temacie (obok faniklockow i promoklocki). Nasza przewaga do egzekucji: my mamy przy kazdym wycofaniu tabele cen z wielu sklepow i strone zestawu, oni liste."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Rozszerzenie poza LEGO: COBI, Pantasy, Mattel Brick Shop",
+      "url": "https://fanklockow.pl/zapowiedzi-cobi-2026-action-town/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-21",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "ZMIANA STRATEGICZNA u fanklockow: 20.08 opublikowali 4 wpisy o markach spoza LEGO - COBI (Action Town, Historical Collection, aktualizowane premiery 08.2026), Pantasy (premiery 08.2026) i budowalny XBOX od Mattel Brick Shop. Poszerzaja nisze z 'LEGO' na 'klocki konstrukcyjne'. My zostajemy przy LEGO (nazwa serwisu i persona rodzica), ale obserwowac, czy to im daje ruch."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Zapowiedzi LEGO/BlueOcean: gazetki na wrzesien 2026",
+      "url": "https://fanklockow.pl/zapowiedzi-lego-blueocean-gazetki-na-wrzesien-2026/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-21",
+      "typ": "nowosc",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Czasopisma z klockami (BlueOcean) - nisza kioskowa, format comiesieczny. Zerowy potencjal afiliacyjny (sprzedaz w kioskach), ale wysoka czestotliwosc wyszukiwan wsrod rodzicow. Do rozwazenia pod nasza persone."
+    },
+    {
+      "serwis": "fanklockow.pl",
+      "tytul": "Otwarcie LEGO Store CH Galaxy (Szczecin) - pierwsze info",
+      "url": "https://fanklockow.pl/otwarcie-lego-store-ch-galaxy-sczecin-info/",
+      "data_publikacji": "2026-08-20",
+      "data_wykrycia": "2026-08-21",
+      "typ": "news",
+      "ocena": "NOTUJEMY",
+      "sklepy_linkowane": [],
+      "notatki": "Rozwiniecie newsa o Szczecinie (trzeci wpis o tym samym w obu serwisach). Zerowy potencjal afiliacyjny."
     }
   ],
   "obserwacje_strategiczne": {
     "zklockow.pl": "Blog MARTWY - najnowsze wpisy z 17.02.2021. Serwis dziala jako katalog/rankingi ('Odkrywaj'), brak biezacych publikacji. Nie stanowi konkurencji contentowej, tylko rankingowa (frazy typu '10 najdrozszych zestawow LEGO', 'najlepsze zestawy dla doroslych'). 2026-08-20 KOREKTA: serwis ma tez warstwe narzedziowa - sekcje Premiery LEGO (przedsprzedaz) i ALERTY CENOWE (powiadomienie o pierwszej ofercie/pierwszej obnizce dla zapowiedzianego setu). Jako konkurencja contentowa nadal zerowy, jako narzedzie - realny.",
-    "fanklockow.pl": "Ok. 4 publikacje / 4 dni. Format dominujacy: serie 'Zapowiedzi LEGO 2027: [seria]'. Monetyzacja: Patronite + Discord + WLASNY SKLEP fanklockow.sklep.pl (od II 2022, sety EOL/kolekcjonerskie, wysylka 24h, darmowa od 500 zl - wykryte 19.08 przez porownywarke promoklocki). Ich tresci o wycofaniach to lejek do wlasnego magazynu - w tematach EOL konkurujemy ze sprzedawca, nie tylko z blogerem. BRAK linkow sklepowych w artykulach nadal aktualny. 2026-08-17: warstwa evergreen spoza strony glownej - interaktywny kalendarz promocji i huby zapowiedzi per rok. Architektura SEO: hub -> artykuly per seria. 2026-08-20: wykryto kolejne formaty spoza strony glownej - regularne zestawienia ofert (odpowiednik naszego Lowcy), miniPoradniki LEGO.pl i nowosci Pick a Brick. Serwis blokuje fetch (403), monitoring wylacznie przez search.",
+    "fanklockow.pl": "KOREKTA 2026-08-21 (dane z RSS): serwis publikuje ok. 10 WPISOW DZIENNIE, nie ~1 - strona glowna pokazuje tylko wycinek, co przez tydzien zanizalo nasza ocene ich tempa (mylnie: '4 publikacje / 4 dni'). 20.08: 10 wpisow. Formaty: codzienne zestawienia ofert z afiliacja do 5 sklepow (Amazon, Allegro, Media Expert, Smyk, Empik), miniPoradniki LEGO.pl, hub wycofan EOL, gazetki BlueOcean, huby zapowiedzi per rok i seria, kalendarz promocji. ROZSZERZENIE POZA LEGO: COBI, Pantasy, Mattel Brick Shop. Monetyzacja: afiliacja + Patronite + Discord + wlasny sklep + reklamy AMP (auto-ads). Taktyka URL: jeden adres aktualizowany codziennie zamiast republikacji. Dostep tylko przez RSS/curl z UA przegladarki.",
     "faniklockow.pl": "Ok. 6 publikacji / 5 dni, jeden autor (Piotr Ksiezycki). Najsilniejsze formaty: listy aktualizowane (gratisy, wycofania). Monetyzacja: afiliacja. 2026-08-18: teza 'wylacznie LEGO.com' NIEAKTUALNA - zaktualizowane wycofania linkuja Allegro, Empik, Smyk, Amazon.pl, Media Expert. Nadal BEZ tabel porownania cen i ceny za klocek - to pozostaje nasza przewaga. Taktyka: republikacja flagowych list pod nowym URL-em z biezaca data (swiezosc SEO).",
     "promoklocki.pl": "Monitoring strukturalny od 2026-08-16 (baseline). Porownywarka cen z aplikacja mobilna (alerty), lista EOL z filtrem cen, sekcja poradnikow pod /promocje-lego/. Dedykowane podstrony sklepow: Media Expert, empik.com (pelna lista do ustalenia - HTTP 403 na fetch strony glownej). Raportujemy WYLACZNIE zmiany strukturalne, nie biezace promocje.",
     "zklockow_uzupelnienie": "2026-08-16: w indeksie wyszukiwarki widoczne strony katalogowe 'Odkrywaj' typu 'LEGO Botanicals 2026' i 'LEGO City 2026' (35 zestawow) - to strony porownywarkowe generowane katalogowo, nie publikacje redakcyjne. Blog nadal martwy, bezposredni fetch blokowany (HTTP 403). 2026-08-17: potwierdzono - blog to archiwum 2020-21 (wycena uzywanych, podrobki, LEGO edukacyjne), istnieje tez strona /aktualnosci, ale listuje zmiany katalogowe serwisu, nie tresci redakcyjne.",
