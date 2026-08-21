@@ -41,6 +41,12 @@ sklepy i afiliacja). Skrót najważniejszych reguł:
   `git push origin <gałąź>:main` (lokalny `main` jest rozjechany — nie ruszać);
   przy konflikcie `git fetch origin main` + rebase.
 
+## Zadania cykliczne
+
+Harmonogram runnerów, ich ID i zasady edycji: `materialy/zadania-cykliczne.md`.
+Łowca korzysta z `scripts/feedy-lego.py` (wyciąg ofert LEGO z feedów), Ceneo
+odświeża `scripts/ceneo-feed.mjs`.
+
 ## Rejestr afiliacji
 
 `src/data/afiliacje_rejestr.json` — jedno źródło prawdy o sieciach, statusach,
