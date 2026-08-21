@@ -11,7 +11,8 @@
       "storage.googleapis.com",
       "webep1.com"
     ],
-    "zaktualizowano": "2026-08-17"
+    "zaktualizowano": "2026-08-17",
+    "wyciag_lego": "scripts/feedy-lego.py — pobiera feedy ME/PK/Allegro i zapisuje WYLACZNIE oferty LEGO do jednego pliku JSON (domyslnie /tmp/feedy-lego.json, ~4 MB zamiast ~630 MB surowych feedow). Uzycie: python3 scripts/feedy-lego.py [--tylko mediaexpert,allegro] [--wyjscie plik.json]. Lowca Promocji NIE parsuje juz feedow recznie - uruchamia ten skrypt i pracuje na wyciagu. Zweryfikowane 2026-08-21: ME 758 setow, PK 1299, Allegro 7037."
   },
   "planetaklockow": {
     "url": "https://service.weben1.com/xml/8c6d63cb-e8af-4890-8b21-9e66ace88354.xml",
